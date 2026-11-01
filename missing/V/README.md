@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valfaris: Signature Edition | 210634 | [210634-valfaris-signature-edition.json](./210634-valfaris-signature-edition.json) |
 | Valgrave: Immortal Plains | 122395 | [122395-valgrave-immortal-plains.json](./122395-valgrave-immortal-plains.json) |
 | Valhall | 107681 | [107681-valhall.json](./107681-valhall.json) |
+| Valhall 2000 | 44259 | [44259-valhall-2000.json](./44259-valhall-2000.json) |
 | Valhalla | 23053 | [23053-valhalla.json](./23053-valhalla.json) |
 | Valhalla | 313350 | [313350-valhalla.json](./313350-valhalla.json) |
 | Valhalla | 351184 | [351184-valhalla.json](./351184-valhalla.json) |
@@ -2200,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violent Horror Stories: Anthology | 312120 | [312120-violent-horror-stories-anthology.json](./312120-violent-horror-stories-anthology.json) |
 | Violent Rush | 388216 | [388216-violent-rush.json](./388216-violent-rush.json) |
 | Violent Selection | 247868 | [247868-violent-selection.json](./247868-violent-selection.json) |
+| Violent Soldier | 44323 | [44323-violent-soldier.json](./44323-violent-soldier.json) |
 | Violent Storm New | 40075 | [40075-violent-storm-new.json](./40075-violent-storm-new.json) |
 | Violent Vectors | 68872 | [68872-violent-vectors.json](./68872-violent-vectors.json) |
 | Violent Vengeance: The Universe Hero | 365667 | [365667-violent-vengeance-the-universe-hero.json](./365667-violent-vengeance-the-universe-hero.json) |
@@ -2710,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visitor | 177557 | [177557-visitor.json](./177557-visitor.json) |
 | Visitor 2 | 117696 | [117696-visitor-2.json](./117696-visitor-2.json) |
 | Visitor Center | 185313 | [185313-visitor-center.json](./185313-visitor-center.json) |
+| Visitors: Marine Invasion | 44258 | [44258-visitors-marine-invasion.json](./44258-visitors-marine-invasion.json) |
 | VISK | 248914 | [248914-visk.json](./248914-visk.json) |
 | Vism | 224943 | [224943-vism.json](./224943-vism.json) |
 | ViSP | 101248 | [101248-visp.json](./101248-visp.json) |
@@ -3088,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Warfare | 148889 | [148889-void-warfare.json](./148889-void-warfare.json) |
 | Void Wars | 282025 | [282025-void-wars.json](./282025-void-wars.json) |
 | Void Whispers | 293999 | [293999-void-whispers.json](./293999-void-whispers.json) |
+| Void Wisp | 44262 | [44262-void-wisp.json](./44262-void-wisp.json) |
 | Void Witch | 335770 | [335770-void-witch.json](./335770-void-witch.json) |
 | Void Wizard | 280133 | [280133-void-wizard.json](./280133-void-wizard.json) |
 | Void-Dogs | 180578 | [180578-void-dogs.json](./180578-void-dogs.json) |
