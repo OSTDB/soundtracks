@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Willows | 16073 | [16073-wandering-willows.json](./16073-wandering-willows.json) |
 | Wandering Wolf | 165959 | [165959-wandering-wolf.json](./165959-wandering-wolf.json) |
 | Wandering Wolf Trick | 135487 | [135487-wandering-wolf-trick.json](./135487-wandering-wolf-trick.json) |
+| Wanderjahr | 33693 | [33693-wanderjahr.json](./33693-wanderjahr.json) |
 | Wanderland | 30901 | [30901-wanderland.json](./30901-wanderland.json) |
 | Wanderling | 334605 | [334605-wanderling.json](./334605-wanderling.json) |
 | Wanderlost | 145380 | [145380-wanderlost.json](./145380-wanderlost.json) |
@@ -1059,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbears: Bedtime City | 237498 | [237498-warbears-bedtime-city.json](./237498-warbears-bedtime-city.json) |
 | Warbirds | 121927 | [121927-warbirds.json](./121927-warbirds.json) |
 | WarBirds 2012 | 53143 | [53143-warbirds-2012.json](./53143-warbirds-2012.json) |
+| WarBirds Dogfights | 33757 | [33757-warbirds-dogfights.json](./33757-warbirds-dogfights.json) |
 | WarBirds II | 72094 | [72094-warbirds-ii.json](./72094-warbirds-ii.json) |
 | WarBirds III | 71557 | [71557-warbirds-iii.json](./71557-warbirds-iii.json) |
 | Warbirds of WWII | 68094 | [68094-warbirds-of-wwii.json](./68094-warbirds-of-wwii.json) |
@@ -5821,6 +5823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch & Cats | 258177 | [258177-witch-and-cats.json](./258177-witch-and-cats.json) |
 | Witch & Fairy Dungeon | 327311 | [327311-witch-and-fairy-dungeon.json](./327311-witch-and-fairy-dungeon.json) |
 | Witch & Hero | 21924 | [21924-witch-and-hero.json](./21924-witch-and-hero.json) |
+| Witch & Hero | 33741 | [33741-witch-and-hero.json](./33741-witch-and-hero.json) |
 | Witch & Hero 2 | 21925 | [21925-witch-and-hero-2.json](./21925-witch-and-hero-2.json) |
 | Witch & Hero III | 68449 | [68449-witch-and-hero-iii.json](./68449-witch-and-hero-iii.json) |
 | Witch & Lilies | 222784 | [222784-witch-and-lilies.json](./222784-witch-and-lilies.json) |
@@ -6385,6 +6388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobbly Construction! | 327448 | [327448-wobbly-construction.json](./327448-wobbly-construction.json) |
 | Wobbly Heights | 311197 | [311197-wobbly-heights.json](./311197-wobbly-heights.json) |
 | Wobbly Heist | 411623 | [411623-wobbly-heist.json](./411623-wobbly-heist.json) |
+| Wobbly Jungle | 33656 | [33656-wobbly-jungle.json](./33656-wobbly-jungle.json) |
 | Wobbly Life | 133344 | [133344-wobbly-life.json](./133344-wobbly-life.json) |
 | WobblyStack for Arcore | 95762 | [95762-wobblystack-for-arcore.json](./95762-wobblystack-for-arcore.json) |
 | Wobbuffet's Puzzle Pack | 233984 | [233984-wobbuffets-puzzle-pack.json](./233984-wobbuffets-puzzle-pack.json) |
@@ -6756,6 +6760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodcutter Simulator 2013 | 16900 | [16900-woodcutter-simulator-2013.json](./16900-woodcutter-simulator-2013.json) |
 | Woodcutter Survival | 123316 | [123316-woodcutter-survival.json](./123316-woodcutter-survival.json) |
 | Wooden Block Puzzle Games | 98899 | [98899-wooden-block-puzzle-games.json](./98899-wooden-block-puzzle-games.json) |
+| Wooden Floor 2 - Resurrection | 33769 | [33769-wooden-floor-2-resurrection.json](./33769-wooden-floor-2-resurrection.json) |
 | Wooden Hearts | 134999 | [134999-wooden-hearts.json](./134999-wooden-hearts.json) |
 | Wooden House | 23726 | [23726-wooden-house.json](./23726-wooden-house.json) |
 | Wooden Labyrinth 3D | 175169 | [175169-wooden-labyrinth-3d.json](./175169-wooden-labyrinth-3d.json) |
@@ -8021,6 +8026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds Explorers | 398332 | [398332-worlds-explorers.json](./398332-worlds-explorers.json) |
 | Worlds of Aria | 211944 | [211944-worlds-of-aria.json](./211944-worlds-of-aria.json) |
 | Worlds of Billy 2 | 205831 | [205831-worlds-of-billy-2.json](./205831-worlds-of-billy-2.json) |
+| Worlds of Chaos: Invasion | 33678 | [33678-worlds-of-chaos-invasion.json](./33678-worlds-of-chaos-invasion.json) |
 | Worlds of Legend: Son of the Empire | 71521 | [71521-worlds-of-legend-son-of-the-empire.json](./71521-worlds-of-legend-son-of-the-empire.json) |
 | Worlds of Magic | 9336 | [9336-worlds-of-magic.json](./9336-worlds-of-magic.json) |
 | Worlds of Magic: Planar Conquest | 79925 | [79925-worlds-of-magic-planar-conquest.json](./79925-worlds-of-magic-planar-conquest.json) |
@@ -8087,6 +8093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormhole | 374611 | [374611-wormhole.json](./374611-wormhole.json) |
 | Wormhole Adventurer | 199273 | [199273-wormhole-adventurer.json](./199273-wormhole-adventurer.json) |
 | Wormhole Cafe | 235709 | [235709-wormhole-cafe.json](./235709-wormhole-cafe.json) |
+| Wormhole City | 33749 | [33749-wormhole-city.json](./33749-wormhole-city.json) |
 | Wormhole Warfare | 176995 | [176995-wormhole-warfare.json](./176995-wormhole-warfare.json) |
 | Wormhole-in-One | 420217 | [420217-wormhole-in-one.json](./420217-wormhole-in-one.json) |
 | Wormhole: Battle for Planet Earth | 265091 | [265091-wormhole-battle-for-planet-earth.json](./265091-wormhole-battle-for-planet-earth.json) |
