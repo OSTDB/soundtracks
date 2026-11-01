@@ -2968,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird creatures | 30779 | [30779-weird-creatures.json](./30779-weird-creatures.json) |
 | Weird Dreams | 12232 | [12232-weird-dreams.json](./12232-weird-dreams.json) |
 | Weird Hat Fight | 201804 | [201804-weird-hat-fight.json](./201804-weird-hat-fight.json) |
+| Weird Hero | 26122 | [26122-weird-hero.json](./26122-weird-hero.json) |
 | Weird Japan | 216690 | [216690-weird-japan.json](./216690-weird-japan.json) |
 | Weird Little Guys | 335422 | [335422-weird-little-guys.json](./335422-weird-little-guys.json) |
 | Weird Meese | 280092 | [280092-weird-meese.json](./280092-weird-meese.json) |
