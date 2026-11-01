@@ -3832,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL Mascot Manor | 91707 | [91707-afl-mascot-manor.json](./91707-afl-mascot-manor.json) |
 | AFL Premiership 2005 | 73847 | [73847-afl-premiership-2005.json](./73847-afl-premiership-2005.json) |
 | AFL Premiership 2006 | 43452 | [43452-afl-premiership-2006.json](./43452-afl-premiership-2006.json) |
+| AFL Premiership 2007 | 43675 | [43675-afl-premiership-2007.json](./43675-afl-premiership-2007.json) |
 | AFL Premiership Coach 2010 | 66019 | [66019-afl-premiership-coach-2010.json](./66019-afl-premiership-coach-2010.json) |
 | AFL Premiership Coach 2011 | 66018 | [66018-afl-premiership-coach-2011.json](./66018-afl-premiership-coach-2011.json) |
 | Afloat | 120829 | [120829-afloat.json](./120829-afloat.json) |
@@ -5835,6 +5836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Basics in Biology and Zoology | 179853 | [179853-alex-basics-in-biology-and-zoology.json](./179853-alex-basics-in-biology-and-zoology.json) |
 | Alex Builds His Farm | 64157 | [64157-alex-builds-his-farm.json](./64157-alex-builds-his-farm.json) |
 | Alex Demeo's Race America | 48215 | [48215-alex-demeos-race-america.json](./48215-alex-demeos-race-america.json) |
+| Alex Ferguson's Player Manager 2001 | 43650 | [43650-alex-fergusons-player-manager-2001.json](./43650-alex-fergusons-player-manager-2001.json) |
 | Alex Ferguson's Player Manager 2002 | 278848 | [278848-alex-fergusons-player-manager-2002.json](./278848-alex-fergusons-player-manager-2002.json) |
 | Alex Hill: The Body at Clearwater Bay | 335423 | [335423-alex-hill-the-body-at-clearwater-bay.json](./335423-alex-hill-the-body-at-clearwater-bay.json) |
 | Alex Hill: Whispers at White Oak Inn | 288752 | [288752-alex-hill-whispers-at-white-oak-inn.json](./288752-alex-hill-whispers-at-white-oak-inn.json) |
@@ -6716,6 +6718,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Darts | 79309 | [79309-all-star-darts.json](./79309-all-star-darts.json) |
 | All Star Karate | 20322 | [20322-all-star-karate.json](./20322-all-star-karate.json) |
 | All Star Kart Race: Crazy Gear Championship | 240103 | [240103-all-star-kart-race-crazy-gear-championship.json](./240103-all-star-kart-race-crazy-gear-championship.json) |
+| All Star Pro Wrestling II | 43619 | [43619-all-star-pro-wrestling-ii.json](./43619-all-star-pro-wrestling-ii.json) |
+| All Star Pro Wrestling III | 43661 | [43661-all-star-pro-wrestling-iii.json](./43661-all-star-pro-wrestling-iii.json) |
+| All Star Pro-Wrestling | 43646 | [43646-all-star-pro-wrestling.json](./43646-all-star-pro-wrestling.json) |
 | All Star Quarterback | 58210 | [58210-all-star-quarterback.json](./58210-all-star-quarterback.json) |
 | All Star Racing | 43931 | [43931-all-star-racing.json](./43931-all-star-racing.json) |
 | All Star Racing 2 | 43930 | [43930-all-star-racing-2.json](./43930-all-star-racing-2.json) |
@@ -11175,6 +11180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Symphony | 74332 | [74332-arc-symphony.json](./74332-arc-symphony.json) |
 | Arc TCG | 290934 | [290934-arc-tcg.json](./290934-arc-tcg.json) |
 | Arc the Lad R | 26382 | [26382-arc-the-lad-r.json](./26382-arc-the-lad-r.json) |
+| Arc the Lad: End of Darkness | 43649 | [43649-arc-the-lad-end-of-darkness.json](./43649-arc-the-lad-end-of-darkness.json) |
 | Arc the Lad: Kijin Fukkatsu | 26373 | [26373-arc-the-lad-kijin-fukkatsu.json](./26373-arc-the-lad-kijin-fukkatsu.json) |
 | Arc the Lad: Monster Game with Casino Game | 44731 | [44731-arc-the-lad-monster-game-with-casino-game.json](./44731-arc-the-lad-monster-game-with-casino-game.json) |
 | Arc the Lad: Twilight of the Spirits | 21558 | [21558-arc-the-lad-twilight-of-the-spirits.json](./21558-arc-the-lad-twilight-of-the-spirits.json) |
