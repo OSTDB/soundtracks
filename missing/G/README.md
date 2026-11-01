@@ -7935,6 +7935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Games Bike: Street Vert Dirt | 5851 | [5851-gravity-games-bike-street-vert-dirt.json](./5851-gravity-games-bike-street-vert-dirt.json) |
 | Gravity Garden | 125685 | [125685-gravity-garden.json](./125685-gravity-garden.json) |
 | Gravity Garden | 365759 | [365759-gravity-garden.json](./365759-gravity-garden.json) |
+| Gravity Ghost | 16669 | [16669-gravity-ghost.json](./16669-gravity-ghost.json) |
 | Gravity Golf | 180459 | [180459-gravity-golf.json](./180459-gravity-golf.json) |
 | Gravity Golfing | 255054 | [255054-gravity-golfing.json](./255054-gravity-golfing.json) |
 | Gravity Grove | 409385 | [409385-gravity-grove.json](./409385-gravity-grove.json) |
@@ -8643,6 +8644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Legends 2: Song of the Dark Swan | 17095 | [17095-grim-legends-2-song-of-the-dark-swan.json](./17095-grim-legends-2-song-of-the-dark-swan.json) |
 | Grim Legends 3: The Dark City | 33110 | [33110-grim-legends-3-the-dark-city.json](./33110-grim-legends-3-the-dark-city.json) |
 | Grim Legends Collection | 118847 | [118847-grim-legends-collection.json](./118847-grim-legends-collection.json) |
+| Grim Legends: The Forsaken Bride | 17142 | [17142-grim-legends-the-forsaken-bride.json](./17142-grim-legends-the-forsaken-bride.json) |
 | Grim Legions | 23842 | [23842-grim-legions.json](./23842-grim-legions.json) |
 | Grim Nights | 110185 | [110185-grim-nights.json](./110185-grim-nights.json) |
 | Grim Omens | 319199 | [319199-grim-omens.json](./319199-grim-omens.json) |
@@ -10495,6 +10497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gurugedara | 61620 | [61620-gurugedara.json](./61620-gurugedara.json) |
 | Guruguru Animals | 96268 | [96268-guruguru-animals.json](./96268-guruguru-animals.json) |
 | Guruguru Tamagotchi! | 77578 | [77578-guruguru-tamagotchi.json](./77578-guruguru-tamagotchi.json) |
+| Gurumin: A Monstrous Adventure | 9614 | [9614-gurumin-a-monstrous-adventure.json](./9614-gurumin-a-monstrous-adventure.json) |
 | Gururin | 40123 | [40123-gururin.json](./40123-gururin.json) |
 | Gururin World | 286633 | [286633-gururin-world.json](./286633-gururin-world.json) |
 | Gus & Stella's Stellar Adventure | 236194 | [236194-gus-and-stellas-stellar-adventure.json](./236194-gus-and-stellas-stellar-adventure.json) |
