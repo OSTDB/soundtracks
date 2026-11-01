@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana ha Mijikashi, Odoreyo Otome | 405368 | [405368-hana-ha-mijikashi-odoreyo-otome.json](./405368-hana-ha-mijikashi-odoreyo-otome.json) |
 | Hana no Chiruramu | 166579 | [166579-hana-no-chiruramu.json](./166579-hana-no-chiruramu.json) |
 | Hana no Ibara: Yuurei Kitan | 181657 | [181657-hana-no-ibara-yuurei-kitan.json](./181657-hana-no-ibara-yuurei-kitan.json) |
+| Hana no Keiji: Kumo no Kanata ni | 42302 | [42302-hana-no-keiji-kumo-no-kanata-ni.json](./42302-hana-no-keiji-kumo-no-kanata-ni.json) |
 | Hana no No ni Saku Utakata no | 60412 | [60412-hana-no-no-ni-saku-utakata-no.json](./60412-hana-no-no-ni-saku-utakata-no.json) |
 | Hana no Star Kaidou | 48476 | [48476-hana-no-star-kaidou.json](./48476-hana-no-star-kaidou.json) |
 | Hana Oboro: Sengoku-den Ranki | 136480 | [136480-hana-oboro-sengoku-den-ranki.json](./136480-hana-oboro-sengoku-den-ranki.json) |
@@ -1372,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hao x Sora: The Sky's Abound | 274005 | [274005-hao-x-sora-the-skys-abound.json](./274005-hao-x-sora-the-skys-abound.json) |
 | Hao-kun no Fushigi na Tabi | 215144 | [215144-hao-kun-no-fushigi-na-tabi.json](./215144-hao-kun-no-fushigi-na-tabi.json) |
 | Haos | 164086 | [164086-haos.json](./164086-haos.json) |
+| Haou Taikei: Ryuu Knight | 42299 | [42299-haou-taikei-ryuu-knight.json](./42299-haou-taikei-ryuu-knight.json) |
 | Hàoyuè Kōnghuá | 112991 | [112991-haoyue-konghua.json](./112991-haoyue-konghua.json) |
 | Haparoot | 405343 | [405343-haparoot.json](./405343-haparoot.json) |
 | Hapax | 61687 | [61687-hapax.json](./61687-hapax.json) |
@@ -2227,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hashi Infinite | 404055 | [404055-hashi-infinite.json](./404055-hashi-infinite.json) |
 | Hashi: Bridges | 391842 | [391842-hashi-bridges.json](./391842-hashi-bridges.json) |
 | Hashihime of the Old Book Town append | 178795 | [178795-hashihime-of-the-old-book-town-append.json](./178795-hashihime-of-the-old-book-town-append.json) |
+| Hashire Hebereke | 42327 | [42327-hashire-hebereke.json](./42327-hashire-hebereke.json) |
 | Hashire Hebereke: EX | 325670 | [325670-hashire-hebereke-ex.json](./325670-hashire-hebereke-ex.json) |
 | Hashire! Chuukan Kanrishoku | 254930 | [254930-hashire-chuukan-kanrishoku.json](./254930-hashire-chuukan-kanrishoku.json) |
 | Hashiriya Drifter | 186282 | [186282-hashiriya-drifter.json](./186282-hashiriya-drifter.json) |
@@ -3332,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaventaker | 176917 | [176917-heaventaker.json](./176917-heaventaker.json) |
 | Heavenworld | 133107 | [133107-heavenworld.json](./133107-heavenworld.json) |
 | HeavenX | 339841 | [339841-heavenx.json](./339841-heavenx.json) |
+| Heavily Armed | 42347 | [42347-heavily-armed.json](./42347-heavily-armed.json) |
 | Heavy Armor Brigade | 47881 | [47881-heavy-armor-brigade.json](./47881-heavy-armor-brigade.json) |
 | Heavy Armored Assassin | 241287 | [241287-heavy-armored-assassin.json](./241287-heavy-armored-assassin.json) |
 | Heavy As Stone | 322601 | [322601-heavy-as-stone.json](./322601-heavy-as-stone.json) |
@@ -5147,6 +5151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heracles Chariot Racing | 21113 | [21113-heracles-chariot-racing.json](./21113-heracles-chariot-racing.json) |
 | Heracles no Eikou II: Titan no Metsubou | 48619 | [48619-heracles-no-eikou-ii-titan-no-metsubou.json](./48619-heracles-no-eikou-ii-titan-no-metsubou.json) |
 | Heracles no Eikou III: Kamigami no Chinmoku | 38257 | [38257-heracles-no-eikou-iii-kamigami-no-chinmoku.json](./38257-heracles-no-eikou-iii-kamigami-no-chinmoku.json) |
+| Heracles no Eikou IV: Kamigami kara no Okurimono | 42291 | [42291-heracles-no-eikou-iv-kamigami-kara-no-okurimono.json](./42291-heracles-no-eikou-iv-kamigami-kara-no-okurimono.json) |
 | Heracles no Eikou: Toujin Makyou-den | 48475 | [48475-heracles-no-eikou-toujin-makyou-den.json](./48475-heracles-no-eikou-toujin-makyou-den.json) |
 | Heracles no Eikou: Ugokidashita Kamigami | 129545 | [129545-heracles-no-eikou-ugokidashita-kamigami.json](./129545-heracles-no-eikou-ugokidashita-kamigami.json) |
 | Heradonia | 186494 | [186494-heradonia.json](./186494-heradonia.json) |
@@ -11409,6 +11414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Heroes | 54992 | [54992-hyper-heroes.json](./54992-hyper-heroes.json) |
 | Hyper HitBoxing | 247943 | [247943-hyper-hitboxing.json](./247943-hyper-hitboxing.json) |
 | Hyper Hostess | 240888 | [240888-hyper-hostess.json](./240888-hyper-hostess.json) |
+| Hyper Iria | 42334 | [42334-hyper-iria.json](./42334-hyper-iria.json) |
 | Hyper Kitten | 212432 | [212432-hyper-kitten.json](./212432-hyper-kitten.json) |
 | Hyper Knights | 29410 | [29410-hyper-knights.json](./29410-hyper-knights.json) |
 | Hyper Light Breaker | 194965 | [194965-hyper-light-breaker.json](./194965-hyper-light-breaker.json) |
