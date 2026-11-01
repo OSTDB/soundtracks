@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dan-Ku-Ga | 144635 | [144635-dan-ku-ga.json](./144635-dan-ku-ga.json) |
 | Dan's Odyssey | 223329 | [223329-dans-odyssey.json](./223329-dans-odyssey.json) |
 | Dana The Cyber Relic | 417952 | [417952-dana-the-cyber-relic.json](./417952-dana-the-cyber-relic.json) |
+| Danan: The Jungle Fighter | 45664 | [45664-danan-the-jungle-fighter.json](./45664-danan-the-jungle-fighter.json) |
 | Danball Senki | 321466 | [321466-danball-senki.json](./321466-danball-senki.json) |
 | Danball Senki | 72572 | [72572-danball-senki.json](./72572-danball-senki.json) |
 | Danball Senki Baku Boost | 136914 | [136914-danball-senki-baku-boost.json](./136914-danball-senki-baku-boost.json) |
@@ -2504,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Davie's Quest and The Magic Dress | 322852 | [322852-davies-quest-and-the-magic-dress.json](./322852-davies-quest-and-the-magic-dress.json) |
 | Davigo | 121403 | [121403-davigo.json](./121403-davigo.json) |
 | Davis Cup | 172597 | [172597-davis-cup.json](./172597-davis-cup.json) |
+| Davis Cup II | 45688 | [45688-davis-cup-ii.json](./45688-davis-cup-ii.json) |
 | Davis Cup Tennis | 49175 | [49175-davis-cup-tennis.json](./49175-davis-cup-tennis.json) |
 | Davis Haunted House | 340942 | [340942-davis-haunted-house.json](./340942-davis-haunted-house.json) |
 | Davy Dreams of Flying | 128819 | [128819-davy-dreams-of-flying.json](./128819-davy-dreams-of-flying.json) |
@@ -10477,6 +10479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Nanobot | 207530 | [207530-doctor-nanobot.json](./207530-doctor-nanobot.json) |
 | Doctor Pigeon Simulator | 407360 | [407360-doctor-pigeon-simulator.json](./407360-doctor-pigeon-simulator.json) |
 | Doctor Plague | 416823 | [416823-doctor-plague.json](./416823-doctor-plague.json) |
+| Doctor Robotnik's Creature Capture | 45700 | [45700-doctor-robotniks-creature-capture.json](./45700-doctor-robotniks-creature-capture.json) |
 | Doctor Root | 318980 | [318980-doctor-root.json](./318980-doctor-root.json) |
 | Doctor Surgeon: Hospital games | 95850 | [95850-doctor-surgeon-hospital-games.json](./95850-doctor-surgeon-hospital-games.json) |
 | Doctor Tsunami | 111708 | [111708-doctor-tsunami.json](./111708-doctor-tsunami.json) |
@@ -12572,6 +12575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Bubble Blaster Madness VR | 112989 | [112989-double-bubble-blaster-madness-vr.json](./112989-double-bubble-blaster-madness-vr.json) |
 | Double Bubble Trouble | 104709 | [104709-double-bubble-trouble.json](./104709-double-bubble-trouble.json) |
 | Double Clue: Solitaire Stories | 36501 | [36501-double-clue-solitaire-stories.json](./36501-double-clue-solitaire-stories.json) |
+| Double Clutch | 45710 | [45710-double-clutch.json](./45710-double-clutch.json) |
 | Double Cross | 96135 | [96135-double-cross.json](./96135-double-cross.json) |
 | Double Cubes | 34727 | [34727-double-cubes.json](./34727-double-cubes.json) |
 | Double Damnation | 213981 | [213981-double-damnation.json](./213981-double-damnation.json) |
@@ -12658,6 +12662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Feature Solitaire | 93350 | [93350-double-feature-solitaire.json](./93350-double-feature-solitaire.json) |
 | Double Golf | 413514 | [413514-double-golf.json](./413514-double-golf.json) |
 | Double Happy vs. The Infinite Sadness: Pharos | 61055 | [61055-double-happy-vs-the-infinite-sadness-pharos.json](./61055-double-happy-vs-the-infinite-sadness-pharos.json) |
+| Double Hawk | 45659 | [45659-double-hawk.json](./45659-double-hawk.json) |
 | Double Hits | 130302 | [130302-double-hits.json](./130302-double-hits.json) |
 | Double Hooked | 317431 | [317431-double-hooked.json](./317431-double-hooked.json) |
 | Double Impact | 135886 | [135886-double-impact.json](./135886-double-impact.json) |
