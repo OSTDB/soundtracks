@@ -4135,6 +4135,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Fight | 19971 | [19971-girl-fight.json](./19971-girl-fight.json) |
 | Girl Frame | 349468 | [349468-girl-frame.json](./349468-girl-frame.json) |
 | Girl Friend (Kari): Kimi to Sugosu Natsuyasumi | 60334 | [60334-girl-friend-kari-kimi-to-sugosu-natsuyasumi.json](./60334-girl-friend-kari-kimi-to-sugosu-natsuyasumi.json) |
+| Girl Friend Beta | 11815 | [11815-girl-friend-beta.json](./11815-girl-friend-beta.json) |
+| Girl Friend Beta: Summer Vacation Spent With You | 11819 | [11819-girl-friend-beta-summer-vacation-spent-with-you.json](./11819-girl-friend-beta-summer-vacation-spent-with-you.json) |
 | Girl Gallery | 264786 | [264786-girl-gallery.json](./264786-girl-gallery.json) |
 | Girl Genius: Adventures in Castle Heterodyne | 143372 | [143372-girl-genius-adventures-in-castle-heterodyne.json](./143372-girl-genius-adventures-in-castle-heterodyne.json) |
 | Girl Group Inc: Love Kpop Idol | 297012 | [297012-girl-group-inc-love-kpop-idol.json](./297012-girl-group-inc-love-kpop-idol.json) |
