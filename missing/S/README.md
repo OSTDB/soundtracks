@@ -4756,6 +4756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekai Saikyou Ginsei Shogi | 56158 | [56158-sekai-saikyou-ginsei-shogi.json](./56158-sekai-saikyou-ginsei-shogi.json) |
 | Sekai Saikyou Ginsei Shogi: Fuuun Ryouko Raiden | 43055 | [43055-sekai-saikyou-ginsei-shogi-fuuun-ryouko-raiden.json](./43055-sekai-saikyou-ginsei-shogi-fuuun-ryouko-raiden.json) |
 | Sekai Seifuku Kanojo | 375362 | [375362-sekai-seifuku-kanojo.json](./375362-sekai-seifuku-kanojo.json) |
+| Sekai Seifuku: Costume Fes. | 61846 | [61846-sekai-seifuku-costume-fes.json](./61846-sekai-seifuku-costume-fes.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
 | Sekaiju no Meikyubey | 56579 | [56579-sekaiju-no-meikyubey.json](./56579-sekaiju-no-meikyubey.json) |
 | Sekala | 270551 | [270551-sekala.json](./270551-sekala.json) |
@@ -4965,6 +4966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senity: The Game | 116329 | [116329-senity-the-game.json](./116329-senity-the-game.json) |
 | Senjin Aleste | 165428 | [165428-senjin-aleste.json](./165428-senjin-aleste.json) |
 | Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
+| Senjou no Waltz | 61940 | [61940-senjou-no-waltz.json](./61940-senjou-no-waltz.json) |
 | Senjou no Waltz for Nintendo Switch: Limited Edition | 253740 | [253740-senjou-no-waltz-for-nintendo-switch-limited-edition.json](./253740-senjou-no-waltz-for-nintendo-switch-limited-edition.json) |
 | Senju | 258055 | [258055-senju.json](./258055-senju.json) |
 | Senjyo | 40018 | [40018-senjyo.json](./40018-senjyo.json) |
@@ -6771,6 +6773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaqing | 298281 | [298281-shaqing.json](./298281-shaqing.json) |
 | ShaQu | 358233 | [358233-shaqu.json](./358233-shaqu.json) |
 | Shararam | 329986 | [329986-shararam.json](./329986-shararam.json) |
+| Shard | 61849 | [61849-shard.json](./61849-shard.json) |
 | Shard Legends: Clan Wars | 396657 | [396657-shard-legends-clan-wars.json](./396657-shard-legends-clan-wars.json) |
 | Shard of Kronos | 163967 | [163967-shard-of-kronos.json](./163967-shard-of-kronos.json) |
 | Shard of Spring | 2884 | [2884-shard-of-spring.json](./2884-shard-of-spring.json) |
@@ -7703,6 +7706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Beyond | 138608 | [138608-shining-beyond.json](./138608-shining-beyond.json) |
 | Shining Blade | 65348 | [65348-shining-blade.json](./65348-shining-blade.json) |
 | Shining Core | 214947 | [214947-shining-core.json](./214947-shining-core.json) |
+| Shining Empire | 61854 | [61854-shining-empire.json](./61854-shining-empire.json) |
 | Shining Flower: HikaruHana | 172040 | [172040-shining-flower-hikaruhana.json](./172040-shining-flower-hikaruhana.json) |
 | Shining Force | 3041 | [3041-shining-force.json](./3041-shining-force.json) |
 | Shining Force Alternate | 314212 | [314212-shining-force-alternate.json](./314212-shining-force-alternate.json) |
@@ -17883,7 +17887,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -29710,6 +29713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pocket: Taito Edition | 256710 | [256710-super-pocket-taito-edition.json](./256710-super-pocket-taito-edition.json) |
 | Super Pocket: Technōs Edition | 321840 | [321840-super-pocket-technos-edition.json](./321840-super-pocket-technos-edition.json) |
 | Super Pole Position | 108506 | [108506-super-pole-position.json](./108506-super-pole-position.json) |
+| Super Pole Riders | 61855 | [61855-super-pole-riders.json](./61855-super-pole-riders.json) |
 | Super Pong | 64120 | [64120-super-pong.json](./64120-super-pong.json) |
 | Super Pool | 13765 | [13765-super-pool.json](./13765-super-pool.json) |
 | Super Pool III | 172679 | [172679-super-pool-iii.json](./172679-super-pool-iii.json) |
