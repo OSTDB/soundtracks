@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports FC Online | 93902 | [93902-ea-sports-fc-online.json](./93902-ea-sports-fc-online.json) |
 | EA Sports FC Tactical | 302626 | [302626-ea-sports-fc-tactical.json](./302626-ea-sports-fc-tactical.json) |
 | EA Sports FIFA 18 & NHL 18 Bundle | 83749 | [83749-ea-sports-fifa-18-and-nhl-18-bundle.json](./83749-ea-sports-fifa-18-and-nhl-18-bundle.json) |
+| EA Sports Football Academy | 21288 | [21288-ea-sports-football-academy.json](./21288-ea-sports-football-academy.json) |
 | EA Sports Madden NFL 25: Deluxe Edition | 301508 | [301508-ea-sports-madden-nfl-25-deluxe-edition.json](./301508-ea-sports-madden-nfl-25-deluxe-edition.json) |
 | EA Sports MMA | 6984 | [6984-ea-sports-mma.json](./6984-ea-sports-mma.json) |
 | EA Sports MVP Bundle | 308590 | [308590-ea-sports-mvp-bundle.json](./308590-ea-sports-mvp-bundle.json) |
@@ -172,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earl Grey | 181711 | [181711-earl-grey.json](./181711-earl-grey.json) |
 | Earl Mansin: The Breakout | 70021 | [70021-earl-mansin-the-breakout.json](./70021-earl-mansin-the-breakout.json) |
 | Earl vs. the Mutants | 267803 | [267803-earl-vs-the-mutants.json](./267803-earl-vs-the-mutants.json) |
+| Earl Weaver Baseball | 21554 | [21554-earl-weaver-baseball.json](./21554-earl-weaver-baseball.json) |
 | Earl Weaver Baseball II | 66097 | [66097-earl-weaver-baseball-ii.json](./66097-earl-weaver-baseball-ii.json) |
 | Earl's Day Off | 133001 | [133001-earls-day-off.json](./133001-earls-day-off.json) |
 | Earl's Minecart Adventures | 237218 | [237218-earls-minecart-adventures.json](./237218-earls-minecart-adventures.json) |
@@ -6790,6 +6792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolutis: Duality | 129170 | [129170-evolutis-duality.json](./129170-evolutis-duality.json) |
 | Evolvation | 31834 | [31834-evolvation.json](./31834-evolvation.json) |
 | Evolve | 3770 | [3770-evolve.json](./3770-evolve.json) |
+| Evolve Hunters Quest | 21626 | [21626-evolve-hunters-quest.json](./21626-evolve-hunters-quest.json) |
 | Evolve Incremental | 255342 | [255342-evolve-incremental.json](./255342-evolve-incremental.json) |
 | Evolve Lab | 168639 | [168639-evolve-lab.json](./168639-evolve-lab.json) |
 | Evolve Me | 183797 | [183797-evolve-me.json](./183797-evolve-me.json) |
