@@ -7569,6 +7569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Translation | 394118 | [394118-lost-in-translation.json](./394118-lost-in-translation.json) |
 | Lost in Translation: Silly | 288716 | [288716-lost-in-translation-silly.json](./288716-lost-in-translation-silly.json) |
 | Lost in Tropics | 319031 | [319031-lost-in-tropics.json](./319031-lost-in-tropics.json) |
+| Lost in Vivo | 111248 | [111248-lost-in-vivo.json](./111248-lost-in-vivo.json) |
 | Lost in Voice | 384831 | [384831-lost-in-voice.json](./384831-lost-in-voice.json) |
 | Lost In Winter | 258172 | [258172-lost-in-winter.json](./258172-lost-in-winter.json) |
 | Lost in Yomori | 382283 | [382283-lost-in-yomori.json](./382283-lost-in-yomori.json) |
