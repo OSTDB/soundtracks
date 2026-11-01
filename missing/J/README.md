@@ -1232,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetfighter IV: Fortress America | 74105 | [74105-jetfighter-iv-fortress-america.json](./74105-jetfighter-iv-fortress-america.json) |
 | Jetfighter V: Homeland Protector | 71283 | [71283-jetfighter-v-homeland-protector.json](./71283-jetfighter-v-homeland-protector.json) |
 | JetFighter: The Adventure | 50490 | [50490-jetfighter-the-adventure.json](./50490-jetfighter-the-adventure.json) |
+| Jetix Puzzle Buzzle | 56233 | [56233-jetix-puzzle-buzzle.json](./56233-jetix-puzzle-buzzle.json) |
 | Jetlad | 117786 | [117786-jetlad.json](./117786-jetlad.json) |
 | Jetman | 92852 | [92852-jetman.json](./92852-jetman.json) |
 | JetMan Galactic | 241874 | [241874-jetman-galactic.json](./241874-jetman-galactic.json) |
@@ -2287,7 +2288,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John's Tombstone | 187523 | [187523-johns-tombstone.json](./187523-johns-tombstone.json) |
 | John's Wizard Dungeon | 119738 | [119738-johns-wizard-dungeon.json](./119738-johns-wizard-dungeon.json) |
 | JohnGagz | 317354 | [317354-johngagz.json](./317354-johngagz.json) |
+| Johnny | 56209 | [56209-johnny.json](./56209-johnny.json) |
+| Johnny 2 | 56204 | [56204-johnny-2.json](./56204-johnny-2.json) |
 | Johnny 21 | 385661 | [385661-johnny-21.json](./385661-johnny-21.json) |
+| Johnny 3: Moonlightificated | 56203 | [56203-johnny-3-moonlightificated.json](./56203-johnny-3-moonlightificated.json) |
+| Johnny 4: The Final Chapter | 56197 | [56197-johnny-4-the-final-chapter.json](./56197-johnny-4-the-final-chapter.json) |
+| Johnny 5 | 56201 | [56201-johnny-5.json](./56201-johnny-5.json) |
+| Johnny 8: The Final Battle | 56190 | [56190-johnny-8-the-final-battle.json](./56190-johnny-8-the-final-battle.json) |
 | Johnny 9: The Return | 124704 | [124704-johnny-9-the-return.json](./124704-johnny-9-the-return.json) |
 | Johnny Bazookatone | 4256 | [4256-johnny-bazookatone.json](./4256-johnny-bazookatone.json) |
 | Johnny Bonasera: Full Season | 147821 | [147821-johnny-bonasera-full-season.json](./147821-johnny-bonasera-full-season.json) |
