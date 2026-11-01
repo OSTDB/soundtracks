@@ -1466,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Strings | 157719 | [157719-magical-strings.json](./157719-magical-strings.json) |
 | Magical Swirl | 259693 | [259693-magical-swirl.json](./259693-magical-swirl.json) |
 | Magical Taluluto-kun | 180301 | [180301-magical-taluluto-kun.json](./180301-magical-taluluto-kun.json) |
+| Magical Taluluto-kun | 49074 | [49074-magical-taluluto-kun.json](./49074-magical-taluluto-kun.json) |
 | Magical Taluluto-kun 2: Magical Adventure | 48432 | [48432-magical-taluluto-kun-2-magical-adventure.json](./48432-magical-taluluto-kun-2-magical-adventure.json) |
 | Magical Taluluto-kun 2: Raiba Zone Panic!! | 125846 | [125846-magical-taluluto-kun-2-raiba-zone-panic.json](./125846-magical-taluluto-kun-2-raiba-zone-panic.json) |
 | Magical Taluluto-kun: Bakuhatsu! Magical Power | 218261 | [218261-magical-taluluto-kun-bakuhatsu-magical-power.json](./218261-magical-taluluto-kun-bakuhatsu-magical-power.json) |
@@ -1652,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Monopole Mayhem | 181137 | [181137-magnetic-monopole-mayhem.json](./181137-magnetic-monopole-mayhem.json) |
 | Magnetic Projectiles | 211668 | [211668-magnetic-projectiles.json](./211668-magnetic-projectiles.json) |
 | Magnetic Pull | 118324 | [118324-magnetic-pull.json](./118324-magnetic-pull.json) |
+| Magnetic Soccer | 49046 | [49046-magnetic-soccer.json](./49046-magnetic-soccer.json) |
 | Magnetic Structures | 221484 | [221484-magnetic-structures.json](./221484-magnetic-structures.json) |
 | Magnetic Wars | 91791 | [91791-magnetic-wars.json](./91791-magnetic-wars.json) |
 | Magnetic: Cage Closed | 20888 | [20888-magnetic-cage-closed.json](./20888-magnetic-cage-closed.json) |
@@ -2292,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makai Kingdom: Reclaimed and Rebound | 189329 | [189329-makai-kingdom-reclaimed-and-rebound.json](./189329-makai-kingdom-reclaimed-and-rebound.json) |
 | Makai Toushi SaGa | 84142 | [84142-makai-toushi-saga.json](./84142-makai-toushi-saga.json) |
 | Makai Wars | 51444 | [51444-makai-wars.json](./51444-makai-wars.json) |
+| Makai-Mura Gaiden: The Demon Darkness | 49066 | [49066-makai-mura-gaiden-the-demon-darkness.json](./49066-makai-mura-gaiden-the-demon-darkness.json) |
 | Makaimura | 385551 | [385551-makaimura.json](./385551-makaimura.json) |
 | Makaimura | 393958 | [393958-makaimura.json](./393958-makaimura.json) |
 | Makaimura for WonderSwan | 37532 | [37532-makaimura-for-wonderswan.json](./37532-makaimura-for-wonderswan.json) |
@@ -4677,6 +4680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Golf | 247008 | [247008-master-golf.json](./247008-master-golf.json) |
 | Master Head | 138451 | [138451-master-head.json](./138451-master-head.json) |
 | Master Heroes | 231555 | [231555-master-heroes.json](./231555-master-heroes.json) |
+| Master Karateka | 49077 | [49077-master-karateka.json](./49077-master-karateka.json) |
 | Master Labyrinth | 45915 | [45915-master-labyrinth.json](./45915-master-labyrinth.json) |
 | Master Lander | 187299 | [187299-master-lander.json](./187299-master-lander.json) |
 | Master Leaf Blower | 317024 | [317024-master-leaf-blower.json](./317024-master-leaf-blower.json) |
@@ -5356,6 +5360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mawkey The Last Macaw | 358950 | [358950-mawkey-the-last-macaw.json](./358950-mawkey-the-last-macaw.json) |
 | Mawthorne | 201504 | [201504-mawthorne.json](./201504-mawthorne.json) |
 | Mawthorne 2 | 382210 | [382210-mawthorne-2.json](./382210-mawthorne-2.json) |
+| Max | 49044 | [49044-max.json](./49044-max.json) |
 | Max & Ruby: Carnival Fair | 107047 | [107047-max-and-ruby-carnival-fair.json](./107047-max-and-ruby-carnival-fair.json) |
 | Max & Ruby: Grandma's Garden | 91053 | [91053-max-and-ruby-grandmas-garden.json](./91053-max-and-ruby-grandmas-garden.json) |
 | Max & the Magic Marker | 248557 | [248557-max-and-the-magic-marker.json](./248557-max-and-the-magic-marker.json) |
@@ -5465,6 +5470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -13818,6 +13824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro Matsuri | 49719 | [49719-momotaro-matsuri.json](./49719-momotaro-matsuri.json) |
 | Momotaro Matsuri: Ishikawa Rokuemon no Maki | 64407 | [64407-momotaro-matsuri-ishikawa-rokuemon-no-maki.json](./64407-momotaro-matsuri-ishikawa-rokuemon-no-maki.json) |
 | Momotaro no Onigashima Kouryaku-sen: Kaguya-hime wo Sukuidase!!! | 349410 | [349410-momotaro-no-onigashima-kouryaku-sen-kaguya-hime-wo-sukuidase.json](./349410-momotaro-no-onigashima-kouryaku-sen-kaguya-hime-wo-sukuidase.json) |
+| Momotaro Thunderbolt | 49093 | [49093-momotaro-thunderbolt.json](./49093-momotaro-thunderbolt.json) |
 | Momotaro Thunderbolt 2 | 64422 | [64422-momotaro-thunderbolt-2.json](./64422-momotaro-thunderbolt-2.json) |
 | Momotarou | 318770 | [318770-momotarou.json](./318770-momotarou.json) |
 | Momoyo to Tsukasa no Dig Dig Adventure | 234513 | [234513-momoyo-to-tsukasa-no-dig-dig-adventure.json](./234513-momoyo-to-tsukasa-no-dig-dig-adventure.json) |
