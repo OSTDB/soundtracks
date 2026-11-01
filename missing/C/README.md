@@ -3603,6 +3603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Busters: Collections | 144120 | [144120-cat-busters-collections.json](./144120-cat-busters-collections.json) |
 | Cat Cafe | 409371 | [409371-cat-cafe.json](./409371-cat-cafe.json) |
 | Cat Cafe 101 | 243115 | [243115-cat-cafe-101.json](./243115-cat-cafe-101.json) |
+| Cat Cafe Manager | 140827 | [140827-cat-cafe-manager.json](./140827-cat-cafe-manager.json) |
 | Cat Cafe Manager 2: Big City Bliss | 313810 | [313810-cat-cafe-manager-2-big-city-bliss.json](./313810-cat-cafe-manager-2-big-city-bliss.json) |
 | Cat Cafe Simulator | 217249 | [217249-cat-cafe-simulator.json](./217249-cat-cafe-simulator.json) |
 | Cat Cafe Simulator | 301266 | [301266-cat-cafe-simulator.json](./301266-cat-cafe-simulator.json) |
@@ -11868,6 +11869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: Red Alert 3 - Ultimate Edition | 21205 | [21205-command-and-conquer-red-alert-3-ultimate-edition.json](./21205-command-and-conquer-red-alert-3-ultimate-edition.json) |
 | Command & Conquer: Red Alert 3 - Uprising | 759 | [759-command-and-conquer-red-alert-3-uprising.json](./759-command-and-conquer-red-alert-3-uprising.json) |
 | Command & Conquer: Red Alert Mobile | 77221 | [77221-command-and-conquer-red-alert-mobile.json](./77221-command-and-conquer-red-alert-mobile.json) |
+| Command & Conquer: Remastered | 128832 | [128832-command-and-conquer-remastered.json](./128832-command-and-conquer-remastered.json) |
 | Command & Conquer: Rivals | 103274 | [103274-command-and-conquer-rivals.json](./103274-command-and-conquer-rivals.json) |
 | Command & Conquer: Sole Survivor | 664 | [664-command-and-conquer-sole-survivor.json](./664-command-and-conquer-sole-survivor.json) |
 | Command & Conquer: The Covert Operations | 663 | [663-command-and-conquer-the-covert-operations.json](./663-command-and-conquer-the-covert-operations.json) |
@@ -14131,6 +14133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Costume Kingdom | 139696 | [139696-costume-kingdom.json](./139696-costume-kingdom.json) |
 | Costume Party | 189968 | [189968-costume-party.json](./189968-costume-party.json) |
 | Costume Quest 2 | 5638 | [5638-costume-quest-2.json](./5638-costume-quest-2.json) |
+| Costume Quest: Grubbins on Ice | 135097 | [135097-costume-quest-grubbins-on-ice.json](./135097-costume-quest-grubbins-on-ice.json) |
 | Costumenaut | 55535 | [55535-costumenaut.json](./55535-costumenaut.json) |
 | Cosy Cafe | 383648 | [383648-cosy-cafe.json](./383648-cosy-cafe.json) |
 | Cosy Company Puzzle | 346686 | [346686-cosy-company-puzzle.json](./346686-cosy-company-puzzle.json) |
