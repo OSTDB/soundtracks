@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J-Jump Arena | 263483 | [263483-j-jump-arena.json](./263483-j-jump-arena.json) |
 | J-Room | 312131 | [312131-j-room.json](./312131-j-room.json) |
 | J-Stars Victory Vs | 7355 | [7355-j-stars-victory-vs.json](./7355-j-stars-victory-vs.json) |
+| J-Stars Victory Vs+ | 19958 | [19958-j-stars-victory-vs.json](./19958-j-stars-victory-vs.json) |
 | J-Town: A Visual Novel | 249859 | [249859-j-town-a-visual-novel.json](./249859-j-town-a-visual-novel.json) |
 | J. J. Squawkers | 40193 | [40193-j-j-squawkers.json](./40193-j-j-squawkers.json) |
 | J. League Pro Striker Final Stage | 45726 | [45726-j-league-pro-striker-final-stage.json](./45726-j-league-pro-striker-final-stage.json) |
