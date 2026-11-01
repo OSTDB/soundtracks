@@ -5599,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Hellas VR | 190168 | [190168-gods-of-hellas-vr.json](./190168-gods-of-hellas-vr.json) |
 | Gods of Love: An Otome Visual Novel | 126830 | [126830-gods-of-love-an-otome-visual-novel.json](./126830-gods-of-love-an-otome-visual-novel.json) |
 | Gods of Nowhere | 387040 | [387040-gods-of-nowhere.json](./387040-gods-of-nowhere.json) |
+| Gods of Olympus | 57416 | [57416-gods-of-olympus.json](./57416-gods-of-olympus.json) |
 | Gods of Sand | 140268 | [140268-gods-of-sand.json](./140268-gods-of-sand.json) |
 | Gods of Savvarah: Part 1 | 224727 | [224727-gods-of-savvarah-part-1.json](./224727-gods-of-savvarah-part-1.json) |
 | Gods of Sparta | 174480 | [174480-gods-of-sparta.json](./174480-gods-of-sparta.json) |
@@ -7973,6 +7974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Journey: Mr. Penguin's Letter | 63766 | [63766-great-journey-mr-penguins-letter.json](./63766-great-journey-mr-penguins-letter.json) |
 | Great Little War Game 2 | 61321 | [61321-great-little-war-game-2.json](./61321-great-little-war-game-2.json) |
 | Great Marble Adventure | 169109 | [169109-great-marble-adventure.json](./169109-great-marble-adventure.json) |
+| Great Merchant | 57424 | [57424-great-merchant.json](./57424-great-merchant.json) |
 | Great Mountain Experience | 102336 | [102336-great-mountain-experience.json](./102336-great-mountain-experience.json) |
 | Great Napoleonic Battles | 73267 | [73267-great-napoleonic-battles.json](./73267-great-napoleonic-battles.json) |
 | Great Naval Battles Vol. II: Guadalcanal 1942-43 | 73821 | [73821-great-naval-battles-vol-ii-guadalcanal-1942-43.json](./73821-great-naval-battles-vol-ii-guadalcanal-1942-43.json) |
