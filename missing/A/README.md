@@ -2374,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat X: Recompiled | 413916 | [413916-ace-combat-x-recompiled.json](./413916-ace-combat-x-recompiled.json) |
 | Ace Combat: Assault Horizon - Enhanced Edition | 20850 | [20850-ace-combat-assault-horizon-enhanced-edition.json](./20850-ace-combat-assault-horizon-enhanced-edition.json) |
 | Ace Combat: Northern Wings | 175783 | [175783-ace-combat-northern-wings.json](./175783-ace-combat-northern-wings.json) |
+| Ace Driver | 39337 | [39337-ace-driver.json](./39337-ace-driver.json) |
 | Ace Driver: Victory Lap | 65921 | [65921-ace-driver-victory-lap.json](./65921-ace-driver-victory-lap.json) |
 | Ace Duswell: Where's the Ace? | 58067 | [58067-ace-duswell-wheres-the-ace.json](./58067-ace-duswell-wheres-the-ace.json) |
 | Ace Fishing: Crew | 257790 | [257790-ace-fishing-crew.json](./257790-ace-fishing-crew.json) |
@@ -4934,6 +4935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey: Championship 3D+ | 239889 | [239889-air-hockey-championship-3d.json](./239889-air-hockey-championship-3d.json) |
 | Air Hoppers 2 | 151654 | [151654-air-hoppers-2.json](./151654-air-hoppers-2.json) |
 | Air Hunter | 322529 | [322529-air-hunter.json](./322529-air-hunter.json) |
+| Air Inferno | 39323 | [39323-air-inferno.json](./39323-air-inferno.json) |
 | Air Jet Fighter Combat: Europe Fly Plane Attack | 234624 | [234624-air-jet-fighter-combat-europe-fly-plane-attack.json](./234624-air-jet-fighter-combat-europe-fly-plane-attack.json) |
 | Air Land Sea | 79610 | [79610-air-land-sea.json](./79610-air-land-sea.json) |
 | Air Legends | 77273 | [77273-air-legends.json](./77273-air-legends.json) |
@@ -6583,6 +6585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Alone | 307276 | [307276-all-alone.json](./307276-all-alone.json) |
 | All Alone on a Small Island | 185013 | [185013-all-alone-on-a-small-island.json](./185013-all-alone-on-a-small-island.json) |
 | All Alone with Mannie | 199256 | [199256-all-alone-with-mannie.json](./199256-all-alone-with-mannie.json) |
+| All American Football | 39292 | [39292-all-american-football.json](./39292-all-american-football.json) |
 | All American: The 82nd Airborne in Normandy | 59585 | [59585-all-american-the-82nd-airborne-in-normandy.json](./59585-all-american-the-82nd-airborne-in-normandy.json) |
 | All Ashes and Illusions | 173825 | [173825-all-ashes-and-illusions.json](./173825-all-ashes-and-illusions.json) |
 | All Aspect Warfare | 16065 | [16065-all-aspect-warfare.json](./16065-all-aspect-warfare.json) |
@@ -10419,6 +10422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aozora Under Girls! | 54933 | [54933-aozora-under-girls.json](./54933-aozora-under-girls.json) |
 | Apache | 245155 | [245155-apache.json](./245155-apache.json) |
 | Apache | 600 | [600-apache.json](./600-apache.json) |
+| Apache 3 | 39322 | [39322-apache-3.json](./39322-apache-3.json) |
 | Apache 3D Sim Flight Simulator | 223635 | [223635-apache-3d-sim-flight-simulator.json](./223635-apache-3d-sim-flight-simulator.json) |
 | Apache Flight | 14166 | [14166-apache-flight.json](./14166-apache-flight.json) |
 | Apache Overkill | 42782 | [42782-apache-overkill.json](./42782-apache-overkill.json) |
@@ -10895,6 +10899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Fry | 288331 | [288331-aqua-fry.json](./288331-aqua-fry.json) |
 | Aqua Glide | 334853 | [334853-aqua-glide.json](./334853-aqua-glide.json) |
 | Aqua GT | 3714 | [3714-aqua-gt.json](./3714-aqua-gt.json) |
+| Aqua Jack | 39321 | [39321-aqua-jack.json](./39321-aqua-jack.json) |
 | Aqua Jet | 39931 | [39931-aqua-jet.json](./39931-aqua-jet.json) |
 | Aqua Jewel | 233727 | [233727-aqua-jewel.json](./233727-aqua-jewel.json) |
 | Aqua Journey | 176987 | [176987-aqua-journey.json](./176987-aqua-journey.json) |
@@ -14685,6 +14690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Wars II: Battle in Galaxy | 62618 | [62618-astro-wars-ii-battle-in-galaxy.json](./62618-astro-wars-ii-battle-in-galaxy.json) |
 | Astro Wars: Invader From Space | 62619 | [62619-astro-wars-invader-from-space.json](./62619-astro-wars-invader-from-space.json) |
 | Astro Zip VR | 157563 | [157563-astro-zip-vr.json](./157563-astro-zip-vr.json) |
+| Astro Zone | 39303 | [39303-astro-zone.json](./39303-astro-zone.json) |
 | Astro-Blast | 109192 | [109192-astro-blast.json](./109192-astro-blast.json) |
 | Astro-Dodge | 25156 | [25156-astro-dodge.json](./25156-astro-dodge.json) |
 | Astro-g | 133366 | [133366-astro-g.json](./133366-astro-g.json) |
@@ -16780,6 +16786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azrael | 209697 | [209697-azrael.json](./209697-azrael.json) |
 | Azrael's Tear | 2210 | [2210-azraels-tear.json](./2210-azraels-tear.json) |
 | Aztaka | 16067 | [16067-aztaka.json](./16067-aztaka.json) |
+| Aztarac | 39320 | [39320-aztarac.json](./39320-aztarac.json) |
 | Aztec Adventure | 45668 | [45668-aztec-adventure.json](./45668-aztec-adventure.json) |
 | Aztec Adventure: The Golden Road to Paradise | 71972 | [71972-aztec-adventure-the-golden-road-to-paradise.json](./71972-aztec-adventure-the-golden-road-to-paradise.json) |
 | Aztec Assault | 58860 | [58860-aztec-assault.json](./58860-aztec-assault.json) |
