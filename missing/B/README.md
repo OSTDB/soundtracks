@@ -13984,6 +13984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout Birdie Panic 2 | 278662 | [278662-breakout-birdie-panic-2.json](./278662-breakout-birdie-panic-2.json) |
 | Breakout Birdie Puzzle | 278660 | [278660-breakout-birdie-puzzle.json](./278660-breakout-birdie-puzzle.json) |
 | Breakout Birdie Puzzle 2 | 278659 | [278659-breakout-birdie-puzzle-2.json](./278659-breakout-birdie-puzzle-2.json) |
+| Breakout Defense | 56207 | [56207-breakout-defense.json](./56207-breakout-defense.json) |
 | Breakout Defense 2 | 77368 | [77368-breakout-defense-2.json](./77368-breakout-defense-2.json) |
 | Breakout Epilepsia | 343286 | [343286-breakout-epilepsia.json](./343286-breakout-epilepsia.json) |
 | Breakout Force | 236390 | [236390-breakout-force.json](./236390-breakout-force.json) |
@@ -16377,6 +16378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Out | 113043 | [113043-burning-out.json](./113043-burning-out.json) |
 | Burning Out | 306920 | [306920-burning-out.json](./306920-burning-out.json) |
 | Burning Point | 130538 | [130538-burning-point.json](./130538-burning-point.json) |
+| Burning Post II | 56191 | [56191-burning-post-ii.json](./56191-burning-post-ii.json) |
 | Burning Questions | 302494 | [302494-burning-questions.json](./302494-burning-questions.json) |
 | Burning Rainbow | 380499 | [380499-burning-rainbow.json](./380499-burning-rainbow.json) |
 | Burning Rangers Tribute | 335632 | [335632-burning-rangers-tribute.json](./335632-burning-rangers-tribute.json) |
