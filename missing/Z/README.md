@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zarya | 290961 | [290961-zarya.json](./290961-zarya.json) |
 | Zarya and the Cursed Skull | 29229 | [29229-zarya-and-the-cursed-skull.json](./29229-zarya-and-the-cursed-skull.json) |
 | Zarya-1: Mystery on the Moon | 38792 | [38792-zarya-1-mystery-on-the-moon.json](./38792-zarya-1-mystery-on-the-moon.json) |
+| Zarzon | 39346 | [39346-zarzon.json](./39346-zarzon.json) |
 | Zasa: An AI Story | 33399 | [33399-zasa-an-ai-story.json](./33399-zasa-an-ai-story.json) |
 | Zashiki-mawashi | 356812 | [356812-zashiki-mawashi.json](./356812-zashiki-mawashi.json) |
 | Zatch Bell! Mamodo Fury Update | 358308 | [358308-zatch-bell-mamodo-fury-update.json](./358308-zatch-bell-mamodo-fury-update.json) |
@@ -396,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zecha Tactics | 142593 | [142593-zecha-tactics.json](./142593-zecha-tactics.json) |
 | Zector 7 | 299103 | [299103-zector-7.json](./299103-zector-7.json) |
 | Zed | 112831 | [112831-zed.json](./112831-zed.json) |
+| Zed Blade | 39345 | [39345-zed-blade.json](./39345-zed-blade.json) |
 | Zed Patrol | 264185 | [264185-zed-patrol.json](./264185-zed-patrol.json) |
 | Zed Shot | 107041 | [107041-zed-shot.json](./107041-zed-shot.json) |
 | Zed Zone | 216810 | [216810-zed-zone.json](./216810-zed-zone.json) |
@@ -833,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Gunner 2 | 21014 | [21014-zero-gunner-2.json](./21014-zero-gunner-2.json) |
 | Zero Hero | 287678 | [287678-zero-hero.json](./287678-zero-hero.json) |
 | Zero Hour | 151730 | [151730-zero-hour.json](./151730-zero-hour.json) |
+| Zero Hour | 39344 | [39344-zero-hour.json](./39344-zero-hour.json) |
 | Zero Hour Reforged | 421840 | [421840-zero-hour-reforged.json](./421840-zero-hour-reforged.json) |
 | Zero Hour: Aesthetics Pack "Gold" | 353348 | [353348-zero-hour-aesthetics-pack-gold.json](./353348-zero-hour-aesthetics-pack-gold.json) |
 | Zero Hour: Aesthetics Pack "Platinum" | 353353 | [353353-zero-hour-aesthetics-pack-platinum.json](./353353-zero-hour-aesthetics-pack-platinum.json) |
@@ -1199,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Znake | 306038 | [306038-znake.json](./306038-znake.json) |
 | Znkl: 177 | 83582 | [83582-znkl-177.json](./83582-znkl-177.json) |
 | ZOA: The Zone of Avoidance | 339228 | [339228-zoa-the-zone-of-avoidance.json](./339228-zoa-the-zone-of-avoidance.json) |
+| Zoar | 39307 | [39307-zoar.json](./39307-zoar.json) |
 | Zoboomafoo: Leapin' Lemurs | 45308 | [45308-zoboomafoo-leapin-lemurs.json](./45308-zoboomafoo-leapin-lemurs.json) |
 | Zobre Zombie | 275011 | [275011-zobre-zombie.json](./275011-zobre-zombie.json) |
 | Zockbox | 91610 | [91610-zockbox.json](./91610-zockbox.json) |
