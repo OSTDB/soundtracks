@@ -9831,6 +9831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon - December IGN Car Pack | 132825 | [132825-forza-horizon-december-ign-car-pack.json](./132825-forza-horizon-december-ign-car-pack.json) |
 | Forza Horizon 2 | 7326 | [7326-forza-horizon-2.json](./7326-forza-horizon-2.json) |
 | Forza Horizon 2 Presents Fast & Furious | 74159 | [74159-forza-horizon-2-presents-fast-and-furious.json](./74159-forza-horizon-2-presents-fast-and-furious.json) |
+| Forza Horizon 2: Storm Island | 20307 | [20307-forza-horizon-2-storm-island.json](./20307-forza-horizon-2-storm-island.json) |
 | Forza Horizon 3 | 19539 | [19539-forza-horizon-3.json](./19539-forza-horizon-3.json) |
 | Forza Horizon 3: Deluxe Edition | 85132 | [85132-forza-horizon-3-deluxe-edition.json](./85132-forza-horizon-3-deluxe-edition.json) |
 | Forza Horizon 3: Hoonigan Car Pack | 140380 | [140380-forza-horizon-3-hoonigan-car-pack.json](./140380-forza-horizon-3-hoonigan-car-pack.json) |
