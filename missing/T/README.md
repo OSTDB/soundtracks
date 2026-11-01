@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Top Turrets | 157323 | [157323-table-top-turrets.json](./157323-table-top-turrets.json) |
 | Table Trenches | 175142 | [175142-table-trenches.json](./175142-table-trenches.json) |
 | Table Troopers | 366370 | [366370-table-troopers.json](./366370-table-troopers.json) |
+| Tablemen | 21620 | [21620-tablemen.json](./21620-tablemen.json) |
 | TableSoccer | 339092 | [339092-tablesoccer.json](./339092-tablesoccer.json) |
 | Tabletop Adventures | 129967 | [129967-tabletop-adventures.json](./129967-tabletop-adventures.json) |
 | Tabletop Baseball | 412396 | [412396-tabletop-baseball.json](./412396-tabletop-baseball.json) |
@@ -5319,6 +5320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alcor Trivia Pro Classic Star Trek (Star-Log I) | 71672 | [71672-the-alcor-trivia-pro-classic-star-trek-star-log-i.json](./71672-the-alcor-trivia-pro-classic-star-trek-star-log-i.json) |
 | The Alehouse Tavern Chronicles | 335074 | [335074-the-alehouse-tavern-chronicles.json](./335074-the-alehouse-tavern-chronicles.json) |
 | The Alfonzone | 256890 | [256890-the-alfonzone.json](./256890-the-alfonzone.json) |
+| The Alien | 21637 | [21637-the-alien.json](./21637-the-alien.json) |
 | The Alien Creature | 216663 | [216663-the-alien-creature.json](./216663-the-alien-creature.json) |
 | The Alien Cube | 123751 | [123751-the-alien-cube.json](./123751-the-alien-cube.json) |
 | The Alien Cube: Deluxe Edition | 227188 | [227188-the-alien-cube-deluxe-edition.json](./227188-the-alien-cube-deluxe-edition.json) |
@@ -14284,6 +14286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Realm of Insight Compass | 253513 | [253513-the-realm-of-insight-compass.json](./253513-the-realm-of-insight-compass.json) |
 | The Realm of Keren: Exploratio | 174691 | [174691-the-realm-of-keren-exploratio.json](./174691-the-realm-of-keren-exploratio.json) |
 | The Realm of Parthoris | 261184 | [261184-the-realm-of-parthoris.json](./261184-the-realm-of-parthoris.json) |
+| The Reap | 21562 | [21562-the-reap.json](./21562-the-reap.json) |
 | The Reaper | 327224 | [327224-the-reaper.json](./327224-the-reaper.json) |
 | The Reaper | 63755 | [63755-the-reaper.json](./63755-the-reaper.json) |
 | The Reaper Survivors | 224760 | [224760-the-reaper-survivors.json](./224760-the-reaper-survivors.json) |
@@ -16678,6 +16681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Toy Shop | 74093 | [74093-the-toy-shop.json](./74093-the-toy-shop.json) |
 | The Toymaker's Apprentice | 114980 | [114980-the-toymakers-apprentice.json](./114980-the-toymakers-apprentice.json) |
 | The Toys Room | 66927 | [66927-the-toys-room.json](./66927-the-toys-room.json) |
+| The Trace: Murder Mystery Game | 21644 | [21644-the-trace-murder-mystery-game.json](./21644-the-trace-murder-mystery-game.json) |
 | The Tracer Sanction | 25859 | [25859-the-tracer-sanction.json](./25859-the-tracer-sanction.json) |
 | The Track Star | 241995 | [241995-the-track-star.json](./241995-the-track-star.json) |
 | The Trade Dynasty | 355130 | [355130-the-trade-dynasty.json](./355130-the-trade-dynasty.json) |
