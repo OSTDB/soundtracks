@@ -3019,7 +3019,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo World Cup '90 | 39858 | [39858-tecmo-world-cup-90.json](./39858-tecmo-world-cup-90.json) |
 | Tecmo World Cup '92 | 46102 | [46102-tecmo-world-cup-92.json](./46102-tecmo-world-cup-92.json) |
 | Tecmo World Cup '93 | 46101 | [46101-tecmo-world-cup-93.json](./46101-tecmo-world-cup-93.json) |
+| Tecmo World Cup '94 | 62477 | [62477-tecmo-world-cup-94.json](./62477-tecmo-world-cup-94.json) |
+| Tecmo World Cup '98 | 62478 | [62478-tecmo-world-cup-98.json](./62478-tecmo-world-cup-98.json) |
+| Tecmo World Cup Millennium | 62476 | [62476-tecmo-world-cup-millennium.json](./62476-tecmo-world-cup-millennium.json) |
 | Tecmo World Cup Soccer | 48225 | [48225-tecmo-world-cup-soccer.json](./48225-tecmo-world-cup-soccer.json) |
+| Tecmo World Cup Super Soccer | 62479 | [62479-tecmo-world-cup-super-soccer.json](./62479-tecmo-world-cup-super-soccer.json) |
 | Tecmo World Golf | 45064 | [45064-tecmo-world-golf.json](./45064-tecmo-world-golf.json) |
 | Tecmo World Wrestling | 48083 | [48083-tecmo-world-wrestling.json](./48083-tecmo-world-wrestling.json) |
 | Tecmo's Deception: Invitation to Darkness | 20801 | [20801-tecmos-deception-invitation-to-darkness.json](./20801-tecmos-deception-invitation-to-darkness.json) |
@@ -16275,6 +16279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower 2 | 120952 | [120952-the-tower-2.json](./120952-the-tower-2.json) |
 | The Tower Assassin's Creed | 97806 | [97806-the-tower-assassins-creed.json](./97806-the-tower-assassins-creed.json) |
 | The Tower Between Us | 145300 | [145300-the-tower-between-us.json](./145300-the-tower-between-us.json) |
+| The Tower DS | 62480 | [62480-the-tower-ds.json](./62480-the-tower-ds.json) |
 | The Tower Must Fall | 412489 | [412489-the-tower-must-fall.json](./412489-the-tower-must-fall.json) |
 | The Tower of Archeos | 287318 | [287318-the-tower-of-archeos.json](./287318-the-tower-of-archeos.json) |
 | The Tower of Babel | 363809 | [363809-the-tower-of-babel.json](./363809-the-tower-of-babel.json) |
@@ -17037,6 +17042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wake: Mourning Father, Mourning Mother | 135439 | [135439-the-wake-mourning-father-mourning-mother.json](./135439-the-wake-mourning-father-mourning-mother.json) |
 | The Wakers | 204330 | [204330-the-wakers.json](./204330-the-wakers.json) |
 | The Walk | 375939 | [375939-the-walk.json](./375939-the-walk.json) |
+| The Walk | 62402 | [62402-the-walk.json](./62402-the-walk.json) |
 | The Walk of Life | 179987 | [179987-the-walk-of-life.json](./179987-the-walk-of-life.json) |
 | The Walker | 126764 | [126764-the-walker.json](./126764-the-walker.json) |
 | The Walker | 203619 | [203619-the-walker.json](./203619-the-walker.json) |
@@ -23820,6 +23826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Incremental Battle | 390134 | [390134-total-incremental-battle.json](./390134-total-incremental-battle.json) |
 | Total Infiltration | 273229 | [273229-total-infiltration.json](./273229-total-infiltration.json) |
 | Total Jigsaw | 99745 | [99745-total-jigsaw.json](./99745-total-jigsaw.json) |
+| Total Knockout | 62386 | [62386-total-knockout.json](./62386-total-knockout.json) |
 | Total Loadout | 327749 | [327749-total-loadout.json](./327749-total-loadout.json) |
 | Total Madness | 130219 | [130219-total-madness.json](./130219-total-madness.json) |
 | Total Mayhem | 72454 | [72454-total-mayhem.json](./72454-total-mayhem.json) |
@@ -23828,6 +23835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Overdose | 6213 | [6213-total-overdose.json](./6213-total-overdose.json) |
 | Total Party Kill | 119272 | [119272-total-party-kill.json](./119272-total-party-kill.json) |
 | Total Pinball 25: 3D Tables | 206745 | [206745-total-pinball-25-3d-tables.json](./206745-total-pinball-25-3d-tables.json) |
+| Total Pinball 3D | 62398 | [62398-total-pinball-3d.json](./62398-total-pinball-3d.json) |
 | Total Pro Football | 61738 | [61738-total-pro-football.json](./61738-total-pro-football.json) |
 | Total Pro Golf 3 | 17558 | [17558-total-pro-golf-3.json](./17558-total-pro-golf-3.json) |
 | Total Recall | 12500 | [12500-total-recall.json](./12500-total-recall.json) |
@@ -25272,6 +25280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracebound | 381360 | [381360-tracebound.json](./381360-tracebound.json) |
 | Tracer | 171852 | [171852-tracer.json](./171852-tracer.json) |
 | Tracer | 186136 | [186136-tracer.json](./186136-tracer.json) |
+| Tracer | 62405 | [62405-tracer.json](./62405-tracer.json) |
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
 | TraceS | 176928 | [176928-traces.json](./176928-traces.json) |
 | Traces of Gods | 372097 | [372097-traces-of-gods.json](./372097-traces-of-gods.json) |
@@ -28524,6 +28533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tripuzz | 273561 | [273561-tripuzz.json](./273561-tripuzz.json) |
 | Trireme Commander | 81738 | [81738-trireme-commander.json](./81738-trireme-commander.json) |
 | Tris | 69769 | [69769-tris.json](./69769-tris.json) |
+| Trisector | 62382 | [62382-trisector.json](./62382-trisector.json) |
 | Trishu-Drift | 256930 | [256930-trishu-drift.json](./256930-trishu-drift.json) |
 | Trisker | 130647 | [130647-trisker.json](./130647-trisker.json) |
 | Trism | 29043 | [29043-trism.json](./29043-trism.json) |
