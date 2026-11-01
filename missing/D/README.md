@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daggerfall Unity | 127936 | [127936-daggerfall-unity.json](./127936-daggerfall-unity.json) |
 | Daggerhood | 115426 | [115426-daggerhood.json](./115426-daggerhood.json) |
 | Daggers Cavern | 308469 | [308469-daggers-cavern.json](./308469-daggers-cavern.json) |
+| Dagon | 157176 | [157176-dagon.json](./157176-dagon.json) |
 | Dagon: The Little Glass Bottle | 234512 | [234512-dagon-the-little-glass-bottle.json](./234512-dagon-the-little-glass-bottle.json) |
 | Dagon: The Railway Horror | 266823 | [266823-dagon-the-railway-horror.json](./266823-dagon-the-railway-horror.json) |
 | Daguri: Gambling Apocalypse | 208657 | [208657-daguri-gambling-apocalypse.json](./208657-daguri-gambling-apocalypse.json) |
@@ -3379,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island Double Pack | 145526 | [145526-dead-island-double-pack.json](./145526-dead-island-double-pack.json) |
 | Dead Island Retro Revenge | 19397 | [19397-dead-island-retro-revenge.json](./19397-dead-island-retro-revenge.json) |
 | Dead Island: Bloodbath Arena | 22932 | [22932-dead-island-bloodbath-arena.json](./22932-dead-island-bloodbath-arena.json) |
+| Dead Island: Definitive Edition | 34951 | [34951-dead-island-definitive-edition.json](./34951-dead-island-definitive-edition.json) |
 | Dead Island: Epidemic | 2902 | [2902-dead-island-epidemic.json](./2902-dead-island-epidemic.json) |
 | Dead Island: Game of the Year Edition | 47400 | [47400-dead-island-game-of-the-year-edition.json](./47400-dead-island-game-of-the-year-edition.json) |
 | Dead Island: Riptide | 1833 | [1833-dead-island-riptide.json](./1833-dead-island-riptide.json) |
@@ -7630,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devoris | 382865 | [382865-devoris.json](./382865-devoris.json) |
 | Devose | 360471 | [360471-devose.json](./360471-devose.json) |
 | Devoted Vampire | 377992 | [377992-devoted-vampire.json](./377992-devoted-vampire.json) |
+| Devotion | 104786 | [104786-devotion.json](./104786-devotion.json) |
 | Devotion | 107228 | [107228-devotion.json](./107228-devotion.json) |
 | Devotionalia | 178466 | [178466-devotionalia.json](./178466-devotionalia.json) |
 | Devour | 139708 | [139708-devour.json](./139708-devour.json) |
@@ -11996,6 +11999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Hex | 21475 | [21475-doodle-hex.json](./21475-doodle-hex.json) |
 | Doodle Hunt: Halloween Rush | 320331 | [320331-doodle-hunt-halloween-rush.json](./320331-doodle-hunt-halloween-rush.json) |
 | Doodle Jamboree | 54451 | [54451-doodle-jamboree.json](./54451-doodle-jamboree.json) |
+| Doodle Jump | 28729 | [28729-doodle-jump.json](./28729-doodle-jump.json) |
 | Doodle Jump 2 | 186583 | [186583-doodle-jump-2.json](./186583-doodle-jump-2.json) |
 | Doodle Jump Adventures | 59204 | [59204-doodle-jump-adventures.json](./59204-doodle-jump-adventures.json) |
 | Doodle Jump DC Super Heroes | 344828 | [344828-doodle-jump-dc-super-heroes.json](./344828-doodle-jump-dc-super-heroes.json) |
