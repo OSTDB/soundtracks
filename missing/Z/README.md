@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeldo's Challenge Ch. 2: The Tower of Memories | 243619 | [243619-zeldos-challenge-ch-2-the-tower-of-memories.json](./243619-zeldos-challenge-ch-2-the-tower-of-memories.json) |
 | Zelene Lux: Spirit Notes | 387548 | [387548-zelene-lux-spirit-notes.json](./387548-zelene-lux-spirit-notes.json) |
 | Zelene Lux: Spirit Notes - Collector's Edition | 415959 | [415959-zelene-lux-spirit-notes-collectors-edition.json](./415959-zelene-lux-spirit-notes-collectors-edition.json) |
+| Zelenhgorm: Episode I - Land of the Blue Moon | 21499 | [21499-zelenhgorm-episode-i-land-of-the-blue-moon.json](./21499-zelenhgorm-episode-i-land-of-the-blue-moon.json) |
 | Zelensky vs Poroshenko: The Destiny of Ukraine | 371931 | [371931-zelensky-vs-poroshenko-the-destiny-of-ukraine.json](./371931-zelensky-vs-poroshenko-the-destiny-of-ukraine.json) |
 | Zeliard | 2409 | [2409-zeliard.json](./2409-zeliard.json) |
 | Zeliria Sanctuary: Isle's Memories | 170772 | [170772-zeliria-sanctuary-isles-memories.json](./170772-zeliria-sanctuary-isles-memories.json) |
@@ -1552,6 +1553,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Hunter, Inc. | 34832 | [34832-zombie-hunter-inc.json](./34832-zombie-hunter-inc.json) |
 | Zombie Hunter: Crimson Hanbok | 238057 | [238057-zombie-hunter-crimson-hanbok.json](./238057-zombie-hunter-crimson-hanbok.json) |
 | Zombie Hunter: Mobile Shooting Game | 159239 | [159239-zombie-hunter-mobile-shooting-game.json](./159239-zombie-hunter-mobile-shooting-game.json) |
+| Zombie Hunters | 21552 | [21552-zombie-hunters.json](./21552-zombie-hunters.json) |
+| Zombie Hunters 2 | 21553 | [21553-zombie-hunters-2.json](./21553-zombie-hunters-2.json) |
 | Zombie Hustle | 152632 | [152632-zombie-hustle.json](./152632-zombie-hustle.json) |
 | Zombie I Scream | 63540 | [63540-zombie-i-scream.json](./63540-zombie-i-scream.json) |
 | Zombie in my city | 29451 | [29451-zombie-in-my-city.json](./29451-zombie-in-my-city.json) |
