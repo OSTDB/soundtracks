@@ -4488,6 +4488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Story with a Fourth Ending | 384657 | [384657-cave-story-with-a-fourth-ending.json](./384657-cave-story-with-a-fourth-ending.json) |
 | Cave Story: The Desolate | 265068 | [265068-cave-story-the-desolate.json](./265068-cave-story-the-desolate.json) |
 | Cave Story's Secret Santa | 185317 | [185317-cave-storys-secret-santa.json](./185317-cave-storys-secret-santa.json) |
+| Cave Story+ | 8214 | [8214-cave-story.json](./8214-cave-story.json) |
 | Cave Swing | 242564 | [242564-cave-swing.json](./242564-cave-swing.json) |
 | Cave Up | 334848 | [334848-cave-up.json](./334848-cave-up.json) |
 | Cave Walker | 73226 | [73226-cave-walker.json](./73226-cave-walker.json) |
@@ -14692,6 +14693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crack Trick! | 376497 | [376497-crack-trick.json](./376497-crack-trick.json) |
 | Crack-Up | 13528 | [13528-crack-up.json](./13528-crack-up.json) |
 | Crack'ed | 11298 | [11298-cracked.json](./11298-cracked.json) |
+| Crackdown | 2896 | [2896-crackdown.json](./2896-crackdown.json) |
 | Crackdown 2 | 2897 | [2897-crackdown-2.json](./2897-crackdown-2.json) |
 | Crackdown 2: Project Sunburst | 66445 | [66445-crackdown-2-project-sunburst.json](./66445-crackdown-2-project-sunburst.json) |
 | Cracked | 214929 | [214929-cracked.json](./214929-cracked.json) |
