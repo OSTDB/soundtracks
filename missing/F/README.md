@@ -3227,6 +3227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fealty | 195559 | [195559-fealty.json](./195559-fealty.json) |
 | Fear & Fury | 238716 | [238716-fear-and-fury.json](./238716-fear-and-fury.json) |
 | Fear & Hope | 292415 | [292415-fear-and-hope.json](./292415-fear-and-hope.json) |
+| Fear & Hunger | 114110 | [114110-fear-and-hunger.json](./114110-fear-and-hunger.json) |
 | Fear & Hunger 3 | 324308 | [324308-fear-and-hunger-3.json](./324308-fear-and-hunger-3.json) |
 | Fear & Respect | 70423 | [70423-fear-and-respect.json](./70423-fear-and-respect.json) |
 | Fear 2: The Disappeared 207 | 153136 | [153136-fear-2-the-disappeared-207.json](./153136-fear-2-the-disappeared-207.json) |
@@ -4829,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: World Wide Words | 127876 | [127876-final-fantasy-world-wide-words.json](./127876-final-fantasy-world-wide-words.json) |
 | Final Fight | 1655 | [1655-final-fight.json](./1655-final-fight.json) |
 | Final Fight 2 | 1656 | [1656-final-fight-2.json](./1656-final-fight-2.json) |
+| Final Fight 3 | 1657 | [1657-final-fight-3.json](./1657-final-fight-3.json) |
 | Final Fight 3 | 223016 | [223016-final-fight-3.json](./223016-final-fight-3.json) |
 | Final Fight And Cadillacs | 294659 | [294659-final-fight-and-cadillacs.json](./294659-final-fight-and-cadillacs.json) |
 | Final Fight And Cadillacs 2 | 294660 | [294660-final-fight-and-cadillacs-2.json](./294660-final-fight-and-cadillacs-2.json) |
