@@ -5265,6 +5265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matrixed Reality | 218650 | [218650-matrixed-reality.json](./218650-matrixed-reality.json) |
 | Matryona no Yuube | 150556 | [150556-matryona-no-yuube.json](./150556-matryona-no-yuube.json) |
 | Matryoshka | 326572 | [326572-matryoshka.json](./326572-matryoshka.json) |
+| Matryoshka Strike | 59570 | [59570-matryoshka-strike.json](./59570-matryoshka-strike.json) |
 | Matsudaira's Myoshu: A Sengoku Village Simulator | 291470 | [291470-matsudairas-myoshu-a-sengoku-village-simulator.json](./291470-matsudairas-myoshu-a-sengoku-village-simulator.json) |
 | Matsukata Hiroki no Super Trawling | 37930 | [37930-matsukata-hiroki-no-super-trawling.json](./37930-matsukata-hiroki-no-super-trawling.json) |
 | Matsukata Hiroki no World Fishing | 198091 | [198091-matsukata-hiroki-no-world-fishing.json](./198091-matsukata-hiroki-no-world-fishing.json) |
@@ -15036,6 +15037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moofa | 125698 | [125698-moofa.json](./125698-moofa.json) |
 | Moogle Cavern RPG | 331155 | [331155-moogle-cavern-rpg.json](./331155-moogle-cavern-rpg.json) |
 | Moogle Cavern: The Online RPG | 332646 | [332646-moogle-cavern-the-online-rpg.json](./332646-moogle-cavern-the-online-rpg.json) |
+| Moogles | 59603 | [59603-moogles.json](./59603-moogles.json) |
 | Mooh | 307214 | [307214-mooh.json](./307214-mooh.json) |
 | MookerzZ | 252377 | [252377-mookerzz.json](./252377-mookerzz.json) |
 | Mooky Takes Manhattan! | 261306 | [261306-mooky-takes-manhattan.json](./261306-mooky-takes-manhattan.json) |
