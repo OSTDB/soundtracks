@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Games: Illusionist - Collector's Edition | 81078 | [81078-dangerous-games-illusionist-collectors-edition.json](./81078-dangerous-games-illusionist-collectors-edition.json) |
 | Dangerous Games: Illusionist HD - A Magical Hidden Object Mystery | 95248 | [95248-dangerous-games-illusionist-hd-a-magical-hidden-object-mystery.json](./95248-dangerous-games-illusionist-hd-a-magical-hidden-object-mystery.json) |
 | Dangerous Games: Prisoners of Destiny | 139751 | [139751-dangerous-games-prisoners-of-destiny.json](./139751-dangerous-games-prisoners-of-destiny.json) |
+| Dangerous Games: Prisoners of Destiny - Collector's Edition | 29437 | [29437-dangerous-games-prisoners-of-destiny-collectors-edition.json](./29437-dangerous-games-prisoners-of-destiny-collectors-edition.json) |
 | Dangerous Golf | 18985 | [18985-dangerous-golf.json](./18985-dangerous-golf.json) |
 | Dangerous Ground | 111219 | [111219-dangerous-ground.json](./111219-dangerous-ground.json) |
 | Dangerous Heaven: The Legend of the Ark | 386158 | [386158-dangerous-heaven-the-legend-of-the-ark.json](./386158-dangerous-heaven-the-legend-of-the-ark.json) |
@@ -3816,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Harvest | 221107 | [221107-deadly-harvest.json](./221107-deadly-harvest.json) |
 | Deadly Heart Gambit | 316784 | [316784-deadly-heart-gambit.json](./316784-deadly-heart-gambit.json) |
 | Deadly Honor | 356287 | [356287-deadly-honor.json](./356287-deadly-honor.json) |
+| Deadly Hunter VR | 29447 | [29447-deadly-hunter-vr.json](./29447-deadly-hunter-vr.json) |
 | Deadly Infestation | 190157 | [190157-deadly-infestation.json](./190157-deadly-infestation.json) |
 | Deadly Joy | 334503 | [334503-deadly-joy.json](./334503-deadly-joy.json) |
 | Deadly Kiss | 343351 | [343351-deadly-kiss.json](./343351-deadly-kiss.json) |
@@ -15172,6 +15174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift 19 | 47161 | [47161-drift-19.json](./47161-drift-19.json) |
 | Drift 1969 | 384558 | [384558-drift-1969.json](./384558-drift-1969.json) |
 | Drift 4000 | 100352 | [100352-drift-4000.json](./100352-drift-4000.json) |
+| Drift 7 Islands | 29468 | [29468-drift-7-islands.json](./29468-drift-7-islands.json) |
 | Drift 84 | 34980 | [34980-drift-84.json](./34980-drift-84.json) |
 | Drift Alone | 126631 | [126631-drift-alone.json](./126631-drift-alone.json) |
 | Drift Apocalypse | 296091 | [296091-drift-apocalypse.json](./296091-drift-apocalypse.json) |
