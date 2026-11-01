@@ -6489,6 +6489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lombard RAC Rally | 12920 | [12920-lombard-rac-rally.json](./12920-lombard-rac-rally.json) |
 | Lombardi's World | 141576 | [141576-lombardis-world.json](./141576-lombardis-world.json) |
 | Lomo Overgrow | 398346 | [398346-lomo-overgrow.json](./398346-lomo-overgrow.json) |
+| Lona: Realm of Colors | 54677 | [54677-lona-realm-of-colors.json](./54677-lona-realm-of-colors.json) |
 | Lonath Online | 34323 | [34323-lonath-online.json](./34323-lonath-online.json) |
 | London 2012: Official Mobile Game | 137015 | [137015-london-2012-official-mobile-game.json](./137015-london-2012-official-mobile-game.json) |
 | London 2012: The Official Video Game | 7055 | [7055-london-2012-the-official-video-game.json](./7055-london-2012-the-official-video-game.json) |
