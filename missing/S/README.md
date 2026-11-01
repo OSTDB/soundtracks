@@ -12964,7 +12964,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sludge Department | 406197 | [406197-sludge-department.json](./406197-sludge-department.json) |
 | Sludge Factory | 271782 | [271782-sludge-factory.json](./271782-sludge-factory.json) |
 | Sludge Life | 131705 | [131705-sludge-life.json](./131705-sludge-life.json) |
-| Sludge Life 2 | 242597 | [242597-sludge-life-2.json](./242597-sludge-life-2.json) |
 | Sludge Life: The Big Mud Sessions | 254974 | [254974-sludge-life-the-big-mud-sessions.json](./254974-sludge-life-the-big-mud-sessions.json) |
 | Sludge Plunge | 308311 | [308311-sludge-plunge.json](./308311-sludge-plunge.json) |
 | Sludge Witch | 263336 | [263336-sludge-witch.json](./263336-sludge-witch.json) |
@@ -26260,7 +26259,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of London | 61168 | [61168-streets-of-london.json](./61168-streets-of-london.json) |
 | Streets of Rage | 198650 | [198650-streets-of-rage.json](./198650-streets-of-rage.json) |
 | Streets of Rage | 203317 | [203317-streets-of-rage.json](./203317-streets-of-rage.json) |
-| Streets of Rage 2 | 203318 | [203318-streets-of-rage-2.json](./203318-streets-of-rage-2.json) |
 | Streets of Rage 2: Puyo Wars | 315122 | [315122-streets-of-rage-2-puyo-wars.json](./315122-streets-of-rage-2-puyo-wars.json) |
 | Streets of Rage 2: Robotnik Wars | 333891 | [333891-streets-of-rage-2-robotnik-wars.json](./333891-streets-of-rage-2-robotnik-wars.json) |
 | Streets of Rage 2: Syndicate Wars | 256300 | [256300-streets-of-rage-2-syndicate-wars.json](./256300-streets-of-rage-2-syndicate-wars.json) |
