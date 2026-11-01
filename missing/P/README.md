@@ -4102,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Universe | 15842 | [15842-perfect-universe.json](./15842-perfect-universe.json) |
 | Perfect Universe Play with Gravity | 99545 | [99545-perfect-universe-play-with-gravity.json](./99545-perfect-universe-play-with-gravity.json) |
 | Perfect Victim | 355619 | [355619-perfect-victim.json](./355619-perfect-victim.json) |
+| Perfect Weapon | 44981 | [44981-perfect-weapon.json](./44981-perfect-weapon.json) |
 | Perfect Wedding Solitaire | 386126 | [386126-perfect-wedding-solitaire.json](./386126-perfect-wedding-solitaire.json) |
 | Perfect World | 302776 | [302776-perfect-world.json](./302776-perfect-world.json) |
 | Perfect World | 8747 | [8747-perfect-world.json](./8747-perfect-world.json) |
@@ -9796,6 +9797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point & Sin | 184843 | [184843-point-and-sin.json](./184843-point-and-sin.json) |
 | Point Blank | 13899 | [13899-point-blank.json](./13899-point-blank.json) |
 | Point Blank 2 | 40988 | [40988-point-blank-2.json](./40988-point-blank-2.json) |
+| Point Blank 3 | 44979 | [44979-point-blank-3.json](./44979-point-blank-3.json) |
 | Point Blank X | 243045 | [243045-point-blank-x.json](./243045-point-blank-x.json) |
 | Point Blank: Strike | 70823 | [70823-point-blank-strike.json](./70823-point-blank-strike.json) |
 | Point Click Killer | 276092 | [276092-point-click-killer.json](./276092-point-click-killer.json) |
