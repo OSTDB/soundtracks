@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -14916,6 +14917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers in Arms: Furious 4 | 2034 | [2034-brothers-in-arms-furious-4.json](./2034-brothers-in-arms-furious-4.json) |
 | Brothers in Arms: Hell's Highway | 618 | [618-brothers-in-arms-hells-highway.json](./618-brothers-in-arms-hells-highway.json) |
 | Brothers in Arms: Hour of Heroes | 21648 | [21648-brothers-in-arms-hour-of-heroes.json](./21648-brothers-in-arms-hour-of-heroes.json) |
+| Brothers in Arms: Road to Hill 30 | 619 | [619-brothers-in-arms-road-to-hill-30.json](./619-brothers-in-arms-road-to-hill-30.json) |
 | Brothers in Blood | 132559 | [132559-brothers-in-blood.json](./132559-brothers-in-blood.json) |
 | Brothers In Duty: Space Brawl | 390775 | [390775-brothers-in-duty-space-brawl.json](./390775-brothers-in-duty-space-brawl.json) |
 | Brothers in Hell | 250875 | [250875-brothers-in-hell.json](./250875-brothers-in-hell.json) |
@@ -15702,6 +15704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs Bunny in Crazy Castle 4 | 8724 | [8724-bugs-bunny-in-crazy-castle-4.json](./8724-bugs-bunny-in-crazy-castle-4.json) |
 | Bugs Bunny in Double Trouble | 368888 | [368888-bugs-bunny-in-double-trouble.json](./368888-bugs-bunny-in-double-trouble.json) |
 | Bugs Bunny: Crazy Castle 3 | 8723 | [8723-bugs-bunny-crazy-castle-3.json](./8723-bugs-bunny-crazy-castle-3.json) |
+| Bugs Bunny: Lost in Time | 3053 | [3053-bugs-bunny-lost-in-time.json](./3053-bugs-bunny-lost-in-time.json) |
 | Bugs Bunny: Private Eye | 67270 | [67270-bugs-bunny-private-eye.json](./67270-bugs-bunny-private-eye.json) |
 | Bugs Bunny's Birthday Ball | 81361 | [81361-bugs-bunnys-birthday-ball.json](./81361-bugs-bunnys-birthday-ball.json) |
 | Bugs From Space | 188417 | [188417-bugs-from-space.json](./188417-bugs-from-space.json) |
