@@ -12787,6 +12787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slipways | 176372 | [176372-slipways.json](./176372-slipways.json) |
 | Slit Mouthed | 192654 | [192654-slit-mouthed.json](./192654-slit-mouthed.json) |
 | Slit Your Wrists! | 234729 | [234729-slit-your-wrists.json](./234729-slit-your-wrists.json) |
+| Slither | 18780 | [18780-slither.json](./18780-slither.json) |
 | Slither Dash | 97097 | [97097-slither-dash.json](./97097-slither-dash.json) |
 | Slither Link | 37484 | [37484-slither-link.json](./37484-slither-link.json) |
 | Slither Loop | 147078 | [147078-slither-loop.json](./147078-slither-loop.json) |
@@ -13562,6 +13563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack & Slash | 100665 | [100665-snack-and-slash.json](./100665-snack-and-slash.json) |
 | Snack and Quack | 366221 | [366221-snack-and-quack.json](./366221-snack-and-quack.json) |
 | Snack and Quack: Duckling Steps | 400171 | [400171-snack-and-quack-duckling-steps.json](./400171-snack-and-quack-duckling-steps.json) |
+| Snack Attack | 18776 | [18776-snack-attack.json](./18776-snack-attack.json) |
 | Snack Attack | 374133 | [374133-snack-attack.json](./374133-snack-attack.json) |
 | Snack Attack and Friends | 74750 | [74750-snack-attack-and-friends.json](./74750-snack-attack-and-friends.json) |
 | Snack Attack II | 25151 | [25151-snack-attack-ii.json](./25151-snack-attack-ii.json) |
@@ -15059,6 +15061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Plexus | 40754 | [40754-solar-plexus.json](./40754-solar-plexus.json) |
 | Solar Plexus | 87803 | [87803-solar-plexus.json](./87803-solar-plexus.json) |
 | Solar Purge | 109698 | [109698-solar-purge.json](./109698-solar-purge.json) |
+| Solar Quest | 18782 | [18782-solar-quest.json](./18782-solar-quest.json) |
 | Solar Quiz VR | 289234 | [289234-solar-quiz-vr.json](./289234-solar-quiz-vr.json) |
 | Solar Rally | 262469 | [262469-solar-rally.json](./262469-solar-rally.json) |
 | Solar Revival | 193892 | [193892-solar-revival.json](./193892-solar-revival.json) |
@@ -17905,6 +17908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Duel | 18405 | [18405-space-duel.json](./18405-space-duel.json) |
 | Space Duels | 148809 | [148809-space-duels.json](./148809-space-duels.json) |
 | Space Duet | 130720 | [130720-space-duet.json](./130720-space-duet.json) |
+| Space Dungeon | 18842 | [18842-space-dungeon.json](./18842-space-dungeon.json) |
 | Space Dust | 240673 | [240673-space-dust.json](./240673-space-dust.json) |
 | Space Dvrts | 31529 | [31529-space-dvrts.json](./31529-space-dvrts.json) |
 | Space Eater Force | 182919 | [182919-space-eater-force.json](./182919-space-eater-force.json) |
@@ -21726,6 +21730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SSS: Super Scrap Sandbox - Become a Mechanic | 100904 | [100904-sss-super-scrap-sandbox-become-a-mechanic.json](./100904-sss-super-scrap-sandbox-become-a-mechanic.json) |
 | SSS222: HyperSpace | 211177 | [211177-sss222-hyperspace.json](./211177-sss222-hyperspace.json) |
 | SSSM: In the Shadow of Jupiter | 221295 | [221295-sssm-in-the-shadow-of-jupiter.json](./221295-sssm-in-the-shadow-of-jupiter.json) |
+| Sssnake | 18801 | [18801-sssnake.json](./18801-sssnake.json) |
 | Sssnake | 195058 | [195058-sssnake.json](./195058-sssnake.json) |
 | SSSnaker | 248169 | [248169-sssnaker.json](./248169-sssnaker.json) |
 | Sssnakes | 84896 | [84896-sssnakes.json](./84896-sssnakes.json) |
@@ -22012,7 +22017,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Billions | 56999 | [56999-star-billions.json](./56999-star-billions.json) |
 | Star Bind | 287241 | [287241-star-bind.json](./287241-star-bind.json) |
 | Star Birds | 305171 | [305171-star-birds.json](./305171-star-birds.json) |
+| Star Blaster | 18844 | [18844-star-blaster.json](./18844-star-blaster.json) |
 | Star Blaze | 95389 | [95389-star-blaze.json](./95389-star-blaze.json) |
+| Star Blazer | 18799 | [18799-star-blazer.json](./18799-star-blazer.json) |
 | Star Blues | 216795 | [216795-star-blues.json](./216795-star-blues.json) |
 | Star Boss | 208647 | [208647-star-boss.json](./208647-star-boss.json) |
 | Star Boss | 75109 | [75109-star-boss.json](./75109-star-boss.json) |
@@ -22587,6 +22594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Strategic Operations Simulator | 282082 | [282082-star-trek-strategic-operations-simulator.json](./282082-star-trek-strategic-operations-simulator.json) |
 | Star Trek: The Game Show | 69228 | [69228-star-trek-the-game-show.json](./69228-star-trek-the-game-show.json) |
 | Star Trek: The Mobile Game | 125127 | [125127-star-trek-the-mobile-game.json](./125127-star-trek-the-mobile-game.json) |
+| Star Trek: The Motion Picture | 18783 | [18783-star-trek-the-motion-picture.json](./18783-star-trek-the-motion-picture.json) |
 | Star Trek: The Next Generation | 198904 | [198904-star-trek-the-next-generation.json](./198904-star-trek-the-next-generation.json) |
 | Star Trek: The Next Generation | 365694 | [365694-star-trek-the-next-generation.json](./365694-star-trek-the-next-generation.json) |
 | Star Trek: The Next Generation - A Final Unity | 2228 | [2228-star-trek-the-next-generation-a-final-unity.json](./2228-star-trek-the-next-generation-a-final-unity.json) |
@@ -31612,6 +31620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival RPG 2: The Temple Ruins | 169463 | [169463-survival-rpg-2-the-temple-ruins.json](./169463-survival-rpg-2-the-temple-ruins.json) |
 | Survival RPG 4: Haunted Manor | 264332 | [264332-survival-rpg-4-haunted-manor.json](./264332-survival-rpg-4-haunted-manor.json) |
 | Survival RPG: The Lost Treasure | 167295 | [167295-survival-rpg-the-lost-treasure.json](./167295-survival-rpg-the-lost-treasure.json) |
+| Survival Run | 18773 | [18773-survival-run.json](./18773-survival-run.json) |
 | Survival Shelter | 383686 | [383686-survival-shelter.json](./383686-survival-shelter.json) |
 | Survival Shooter | 246776 | [246776-survival-shooter.json](./246776-survival-shooter.json) |
 | Survival Shot | 237205 | [237205-survival-shot.json](./237205-survival-shot.json) |
