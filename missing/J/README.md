@@ -1534,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigoku Kisetsukan: Sense of the Seasons | 35296 | [35296-jigoku-kisetsukan-sense-of-the-seasons.json](./35296-jigoku-kisetsukan-sense-of-the-seasons.json) |
 | Jigoku Meguri | 37709 | [37709-jigoku-meguri.json](./37709-jigoku-meguri.json) |
 | Jigoku Nagashi | 229695 | [229695-jigoku-nagashi.json](./229695-jigoku-nagashi.json) |
+| Jigoku no Renshuu Mondai | 57435 | [57435-jigoku-no-renshuu-mondai.json](./57435-jigoku-no-renshuu-mondai.json) |
 | Jigoku no Sata mo Dasidahi | 82716 | [82716-jigoku-no-sata-mo-dasidahi.json](./82716-jigoku-no-sata-mo-dasidahi.json) |
 | Jigoku Seek | 308251 | [308251-jigoku-seek.json](./308251-jigoku-seek.json) |
 | Jigoku Shoujo Akekazura | 124496 | [124496-jigoku-shoujo-akekazura.json](./124496-jigoku-shoujo-akekazura.json) |
