@@ -4398,6 +4398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Boys: The Perfect Date | 203708 | [203708-beach-boys-the-perfect-date.json](./203708-beach-boys-the-perfect-date.json) |
 | Beach Boys: You and Me | 214669 | [214669-beach-boys-you-and-me.json](./214669-beach-boys-you-and-me.json) |
 | Beach Buddies Brawl | 333674 | [333674-beach-buddies-brawl.json](./333674-beach-buddies-brawl.json) |
+| Beach Buggy Blitz | 21622 | [21622-beach-buggy-blitz.json](./21622-beach-buggy-blitz.json) |
 | Beach Buggy Racing 2 | 110044 | [110044-beach-buggy-racing-2.json](./110044-beach-buggy-racing-2.json) |
 | Beach Buggy Racing 2: Hot Wheels Edition | 164743 | [164743-beach-buggy-racing-2-hot-wheels-edition.json](./164743-beach-buggy-racing-2-hot-wheels-edition.json) |
 | Beach Buggy Racing 2: Island Adventure - Oddball Car Pack | 174494 | [174494-beach-buggy-racing-2-island-adventure-oddball-car-pack.json](./174494-beach-buggy-racing-2-island-adventure-oddball-car-pack.json) |
