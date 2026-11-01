@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Future: The Game - Episode 2: Get Tannen! | 78253 | [78253-back-to-the-future-the-game-episode-2-get-tannen.json](./78253-back-to-the-future-the-game-episode-2-get-tannen.json) |
 | Back to the Future: The Game - Episode 3: Citizen Brown | 78250 | [78250-back-to-the-future-the-game-episode-3-citizen-brown.json](./78250-back-to-the-future-the-game-episode-3-citizen-brown.json) |
 | Back to the Future: The Game - Episode 4: Double Visions | 78252 | [78252-back-to-the-future-the-game-episode-4-double-visions.json](./78252-back-to-the-future-the-game-episode-4-double-visions.json) |
+| Back to the Future: The Game - Episode 5: Outatime | 78251 | [78251-back-to-the-future-the-game-episode-5-outatime.json](./78251-back-to-the-future-the-game-episode-5-outatime.json) |
 | Back to the Heaven | 349257 | [349257-back-to-the-heaven.json](./349257-back-to-the-heaven.json) |
 | Back to the Joseon | 214565 | [214565-back-to-the-joseon.json](./214565-back-to-the-joseon.json) |
 | Back to the Rooms | 320563 | [320563-back-to-the-rooms.json](./320563-back-to-the-rooms.json) |
@@ -496,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backlot: Hollywood Studio Tycoon | 416649 | [416649-backlot-hollywood-studio-tycoon.json](./416649-backlot-hollywood-studio-tycoon.json) |
 | Backpack | 297779 | [297779-backpack.json](./297779-backpack.json) |
 | Backpack Alchemist | 397995 | [397995-backpack-alchemist.json](./397995-backpack-alchemist.json) |
+| Backpack Battles | 253659 | [253659-backpack-battles.json](./253659-backpack-battles.json) |
 | Backpack Boy | 328103 | [328103-backpack-boy.json](./328103-backpack-boy.json) |
 | Backpack Brawl | 309589 | [309589-backpack-brawl.json](./309589-backpack-brawl.json) |
 | Backpack Dungeon | 407407 | [407407-backpack-dungeon.json](./407407-backpack-dungeon.json) |
@@ -3080,6 +3082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman & Robin | 198673 | [198673-batman-and-robin.json](./198673-batman-and-robin.json) |
 | Batman & Robin | 199423 | [199423-batman-and-robin.json](./199423-batman-and-robin.json) |
 | Batman & Robin | 234179 | [234179-batman-and-robin.json](./234179-batman-and-robin.json) |
+| Batman & Robin | 79820 | [79820-batman-and-robin.json](./79820-batman-and-robin.json) |
 | Batman & The Flash: Hero Run | 61546 | [61546-batman-and-the-flash-hero-run.json](./61546-batman-and-the-flash-hero-run.json) |
 | Batman Arkham Origins: Blackgate - Deluxe Edition | 21066 | [21066-batman-arkham-origins-blackgate-deluxe-edition.json](./21066-batman-arkham-origins-blackgate-deluxe-edition.json) |
 | Batman Begins | 229719 | [229719-batman-begins.json](./229719-batman-begins.json) |
