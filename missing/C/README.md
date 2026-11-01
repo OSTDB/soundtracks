@@ -7230,7 +7230,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Chop Runner | 91060 | [91060-chop-chop-runner.json](./91060-chop-chop-runner.json) |
 | Chop Chop Soccer | 212421 | [212421-chop-chop-soccer.json](./212421-chop-chop-soccer.json) |
 | Chop Chop Together | 392147 | [392147-chop-chop-together.json](./392147-chop-chop-together.json) |
-| Chop Goblins | 225792 | [225792-chop-goblins.json](./225792-chop-goblins.json) |
 | Chop Signal | 389455 | [389455-chop-signal.json](./389455-chop-signal.json) |
 | Chop Suey | 234212 | [234212-chop-suey.json](./234212-chop-suey.json) |
 | Chop Suey | 47297 | [47297-chop-suey.json](./47297-chop-suey.json) |
