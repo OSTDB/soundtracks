@@ -10124,6 +10124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt : Rebuilt | 25110 | [25110-the-hunt-rebuilt.json](./25110-the-hunt-rebuilt.json) |
 | The Hunt Begins | 323720 | [323720-the-hunt-begins.json](./323720-the-hunt-begins.json) |
 | The Hunt for My GirlFriend | 176125 | [176125-the-hunt-for-my-girlfriend.json](./176125-the-hunt-for-my-girlfriend.json) |
+| The Hunt for Red October | 14901 | [14901-the-hunt-for-red-october.json](./14901-the-hunt-for-red-october.json) |
 | The Hunt for Red October | 31187 | [31187-the-hunt-for-red-october.json](./31187-the-hunt-for-red-october.json) |
 | The Hunt for Red October | 45118 | [45118-the-hunt-for-red-october.json](./45118-the-hunt-for-red-october.json) |
 | The Hunt for Red October | 76577 | [76577-the-hunt-for-red-october.json](./76577-the-hunt-for-red-october.json) |
