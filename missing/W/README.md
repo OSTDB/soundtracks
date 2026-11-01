@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Legends | 306644 | [306644-war-of-legends.json](./306644-war-of-legends.json) |
 | War of Legions | 302995 | [302995-war-of-legions.json](./302995-war-of-legions.json) |
 | War of Nations | 323324 | [323324-war-of-nations.json](./323324-war-of-nations.json) |
+| War of Nerves! | 18826 | [18826-war-of-nerves.json](./18826-war-of-nerves.json) |
 | War of Ninja | 105728 | [105728-war-of-ninja.json](./105728-war-of-ninja.json) |
 | War of Power: The Last Fight | 115371 | [115371-war-of-power-the-last-fight.json](./115371-war-of-power-the-last-fight.json) |
 | War of Rights | 33953 | [33953-war-of-rights.json](./33953-war-of-rights.json) |
@@ -1767,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warplanes: WW1 Sky Aces | 123569 | [123569-warplanes-ww1-sky-aces.json](./123569-warplanes-ww1-sky-aces.json) |
 | Warplanes: WW2 + Space Commander Bundle | 325403 | [325403-warplanes-ww2-space-commander-bundle.json](./325403-warplanes-ww2-space-commander-bundle.json) |
 | Warplanes: WW2 Dogfight | 112929 | [112929-warplanes-ww2-dogfight.json](./112929-warplanes-ww2-dogfight.json) |
+| Warplock | 18800 | [18800-warplock.json](./18800-warplock.json) |
 | Warplock | 377152 | [377152-warplock.json](./377152-warplock.json) |
 | Warpman | 48640 | [48640-warpman.json](./48640-warpman.json) |
 | WarPods | 107865 | [107865-warpods.json](./107865-warpods.json) |
