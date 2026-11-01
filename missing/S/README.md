@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally6 | 124723 | [124723-sally6.json](./124723-sally6.json) |
 | Salmon City | 388166 | [388166-salmon-city.json](./388166-salmon-city.json) |
 | Salmon Man | 274318 | [274318-salmon-man.json](./274318-salmon-man.json) |
+| Salmon Ninja | 31409 | [31409-salmon-ninja.json](./31409-salmon-ninja.json) |
 | Salmon Run | 69800 | [69800-salmon-run.json](./69800-salmon-run.json) |
 | Salmon Tower | 404182 | [404182-salmon-tower.json](./404182-salmon-tower.json) |
 | Salome's Kiss | 190940 | [190940-salomes-kiss.json](./190940-salomes-kiss.json) |
@@ -8643,6 +8644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotdogs | 210096 | [210096-shotdogs.json](./210096-shotdogs.json) |
 | Shotengai 10 | 287716 | [287716-shotengai-10.json](./287716-shotengai-10.json) |
 | Shotest Shogi | 21803 | [21803-shotest-shogi.json](./21803-shotest-shogi.json) |
+| ShotForge | 31440 | [31440-shotforge.json](./31440-shotforge.json) |
 | Shotguana | 337307 | [337307-shotguana.json](./337307-shotguana.json) |
 | Shotgun | 134866 | [134866-shotgun.json](./134866-shotgun.json) |
 | Shotgun | 58595 | [58595-shotgun.json](./58595-shotgun.json) |
@@ -10805,6 +10807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Degrees of Damnation | 118981 | [118981-six-degrees-of-damnation.json](./118981-six-degrees-of-damnation.json) |
 | Six Dots | 99710 | [99710-six-dots.json](./99710-six-dots.json) |
 | Six F and Six 0 | 151660 | [151660-six-f-and-six-0.json](./151660-six-f-and-six-0.json) |
+| Six Feet Under | 31397 | [31397-six-feet-under.json](./31397-six-feet-under.json) |
 | Six Flags Fun Park | 206039 | [206039-six-flags-fun-park.json](./206039-six-flags-fun-park.json) |
 | Six Flags Fun Park | 85164 | [85164-six-flags-fun-park.json](./85164-six-flags-fun-park.json) |
 | Six Floors Under | 296659 | [296659-six-floors-under.json](./296659-six-floors-under.json) |
@@ -11647,6 +11650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Roller: Rainbow Skating | 256934 | [256934-sky-roller-rainbow-skating.json](./256934-sky-roller-rainbow-skating.json) |
 | Sky Runner | 36904 | [36904-sky-runner.json](./36904-sky-runner.json) |
 | Sky Rusher | 97263 | [97263-sky-rusher.json](./97263-sky-rusher.json) |
+| Sky Sanctuary | 31372 | [31372-sky-sanctuary.json](./31372-sky-sanctuary.json) |
 | Sky Saviour | 355591 | [355591-sky-saviour.json](./355591-sky-saviour.json) |
 | Sky Scaffold | 392131 | [392131-sky-scaffold.json](./392131-sky-scaffold.json) |
 | Sky Seeker | 159840 | [159840-sky-seeker.json](./159840-sky-seeker.json) |
@@ -17577,6 +17581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sp!te | 108070 | [108070-sp-te.json](./108070-sp-te.json) |
 | Sp(l/r)ite | 277510 | [277510-sp-l-r-ite.json](./277510-sp-l-r-ite.json) |
 | Spa Mania | 32733 | [32733-spa-mania.json](./32733-spa-mania.json) |
+| Spa Mania 2 | 31336 | [31336-spa-mania-2.json](./31336-spa-mania-2.json) |
 | Spa Massage Boys: Love & Relax | 393892 | [393892-spa-massage-boys-love-and-relax.json](./393892-spa-massage-boys-love-and-relax.json) |
 | Spa Massage Girls: Love & Relax | 393893 | [393893-spa-massage-girls-love-and-relax.json](./393893-spa-massage-girls-love-and-relax.json) |
 | Spaaace! | 179052 | [179052-spaaace.json](./179052-spaaace.json) |
@@ -23505,6 +23510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship | 271761 | [271761-starship.json](./271761-starship.json) |
 | Starship | 326758 | [326758-starship.json](./326758-starship.json) |
 | Starship 43 | 249957 | [249957-starship-43.json](./249957-starship-43.json) |
+| Starship Annihilator | 31391 | [31391-starship-annihilator.json](./31391-starship-annihilator.json) |
 | Starship Annihilator: Complete Edition | 53659 | [53659-starship-annihilator-complete-edition.json](./53659-starship-annihilator-complete-edition.json) |
 | Starship Assassin | 57061 | [57061-starship-assassin.json](./57061-starship-assassin.json) |
 | Starship Avenger: Operation Take Back Earth | 105042 | [105042-starship-avenger-operation-take-back-earth.json](./105042-starship-avenger-operation-take-back-earth.json) |
@@ -24984,6 +24990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone-Jong | 207112 | [207112-stone-jong.json](./207112-stone-jong.json) |
 | StoneBack | 180032 | [180032-stoneback.json](./180032-stoneback.json) |
 | StoneBack \| Prehistory | 32067 | [32067-stoneback-prehistory.json](./32067-stoneback-prehistory.json) |
+| Stonebond: The Gargoyle's Domain | 31420 | [31420-stonebond-the-gargoyles-domain.json](./31420-stonebond-the-gargoyles-domain.json) |
 | Stoneborn | 401028 | [401028-stoneborn.json](./401028-stoneborn.json) |
 | Stonebot Adventures | 154433 | [154433-stonebot-adventures.json](./154433-stonebot-adventures.json) |
 | Stonebound | 378924 | [378924-stonebound.json](./378924-stonebound.json) |
@@ -26203,6 +26210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
 | Strike Force Kitty | 126486 | [126486-strike-force-kitty.json](./126486-strike-force-kitty.json) |
 | Strike Force Red Cell | 67093 | [67093-strike-force-red-cell.json](./67093-strike-force-red-cell.json) |
+| Strike Force: Arctic Storm | 31352 | [31352-strike-force-arctic-storm.json](./31352-strike-force-arctic-storm.json) |
 | Strike Force: Cobra | 36670 | [36670-strike-force-cobra.json](./36670-strike-force-cobra.json) |
 | Strike Force: Dragon VIP | 97208 | [97208-strike-force-dragon-vip.json](./97208-strike-force-dragon-vip.json) |
 | Strike It! | 40910 | [40910-strike-it.json](./40910-strike-it.json) |
@@ -27433,6 +27441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sulky Manager | 224975 | [224975-sulky-manager.json](./224975-sulky-manager.json) |
 | Sulkyland | 214529 | [214529-sulkyland.json](./214529-sulkyland.json) |
 | Sullen | 30809 | [30809-sullen.json](./30809-sullen.json) |
+| Sullen: Light is Your Friend | 31394 | [31394-sullen-light-is-your-friend.json](./31394-sullen-light-is-your-friend.json) |
 | Sully | 63552 | [63552-sully.json](./63552-sully.json) |
 | Sully: A Very Serious RPG | 216868 | [216868-sully-a-very-serious-rpg.json](./216868-sully-a-very-serious-rpg.json) |
 | Sullyland Nursery Rhyme | 392429 | [392429-sullyland-nursery-rhyme.json](./392429-sullyland-nursery-rhyme.json) |
