@@ -4887,6 +4887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outland Odyssey | 214172 | [214172-outland-odyssey.json](./214172-outland-odyssey.json) |
 | Outland Peak | 383662 | [383662-outland-peak.json](./383662-outland-peak.json) |
 | Outland Rapture | 169475 | [169475-outland-rapture.json](./169475-outland-rapture.json) |
+| Outlander | 10353 | [10353-outlander.json](./10353-outlander.json) |
 | Outlander | 195742 | [195742-outlander.json](./195742-outlander.json) |
 | Outlander: Fantastic Princess | 261798 | [261798-outlander-fantastic-princess.json](./261798-outlander-fantastic-princess.json) |
 | Outlanders | 127983 | [127983-outlanders.json](./127983-outlanders.json) |
