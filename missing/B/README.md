@@ -884,7 +884,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3082,7 +3081,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Asylum | 240487 | [240487-batman-arkham-asylum.json](./240487-batman-arkham-asylum.json) |
 | Batman: Arkham Asylum | 240941 | [240941-batman-arkham-asylum.json](./240941-batman-arkham-asylum.json) |
 | Batman: Arkham Asylum - Collector's Edition | 43018 | [43018-batman-arkham-asylum-collectors-edition.json](./43018-batman-arkham-asylum-collectors-edition.json) |
+| Batman: Arkham Asylum - Crime Alley Challenge Map | 26113 | [26113-batman-arkham-asylum-crime-alley-challenge-map.json](./26113-batman-arkham-asylum-crime-alley-challenge-map.json) |
+| Batman: Arkham Asylum - Dem Bones Challenge Map | 26114 | [26114-batman-arkham-asylum-dem-bones-challenge-map.json](./26114-batman-arkham-asylum-dem-bones-challenge-map.json) |
 | Batman: Arkham Asylum - Game of the Year Edition | 27862 | [27862-batman-arkham-asylum-game-of-the-year-edition.json](./27862-batman-arkham-asylum-game-of-the-year-edition.json) |
+| Batman: Arkham Asylum - Insane Night Challenge Map Pack | 26111 | [26111-batman-arkham-asylum-insane-night-challenge-map-pack.json](./26111-batman-arkham-asylum-insane-night-challenge-map-pack.json) |
 | Batman: Arkham Asylum - Play as the Joker Challenge Map | 25993 | [25993-batman-arkham-asylum-play-as-the-joker-challenge-map.json](./25993-batman-arkham-asylum-play-as-the-joker-challenge-map.json) |
 | Batman: Arkham City - Arkham City Skins Pack | 75545 | [75545-batman-arkham-city-arkham-city-skins-pack.json](./75545-batman-arkham-city-arkham-city-skins-pack.json) |
 | Batman: Arkham City - Armored Edition | 20834 | [20834-batman-arkham-city-armored-edition.json](./20834-batman-arkham-city-armored-edition.json) |
@@ -3871,6 +3873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield | 91210 | [91210-battlefield.json](./91210-battlefield.json) |
 | Battlefield : Run | 96215 | [96215-battlefield-run.json](./96215-battlefield-run.json) |
 | Battlefield 1: Deluxe Collector's Edition | 112636 | [112636-battlefield-1-deluxe-collectors-edition.json](./112636-battlefield-1-deluxe-collectors-edition.json) |
+| Battlefield 1: Deluxe Edition Upgrade | 26109 | [26109-battlefield-1-deluxe-edition-upgrade.json](./26109-battlefield-1-deluxe-edition-upgrade.json) |
 | Battlefield 1: Early Enlister Deluxe Edition | 112635 | [112635-battlefield-1-early-enlister-deluxe-edition.json](./112635-battlefield-1-early-enlister-deluxe-edition.json) |
 | Battlefield 1: Premium Edition | 166991 | [166991-battlefield-1-premium-edition.json](./166991-battlefield-1-premium-edition.json) |
 | Battlefield 1: Revolution | 94085 | [94085-battlefield-1-revolution.json](./94085-battlefield-1-revolution.json) |
@@ -8992,6 +8995,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Droids | 172025 | [172025-blast-droids.json](./172025-blast-droids.json) |
 | Blast em! | 10052 | [10052-blast-em.json](./10052-blast-em.json) |
 | Blast Ensemble | 147809 | [147809-blast-ensemble.json](./147809-blast-ensemble.json) |
+| Blast Factor: Advanced Research | 26100 | [26100-blast-factor-advanced-research.json](./26100-blast-factor-advanced-research.json) |
+| Blast Factor: Multiplayer Pack | 26099 | [26099-blast-factor-multiplayer-pack.json](./26099-blast-factor-multiplayer-pack.json) |
 | Blast Flock | 181216 | [181216-blast-flock.json](./181216-blast-flock.json) |
 | Blast Force | 123616 | [123616-blast-force.json](./123616-blast-force.json) |
 | Blast Frenzy | 301509 | [301509-blast-frenzy.json](./301509-blast-frenzy.json) |
