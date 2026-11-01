@@ -4333,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Fiona | 377659 | [377659-knights-of-fiona.json](./377659-knights-of-fiona.json) |
 | Knights of Fresco | 283546 | [283546-knights-of-fresco.json](./283546-knights-of-fresco.json) |
 | Knights of Frontier Valley | 216695 | [216695-knights-of-frontier-valley.json](./216695-knights-of-frontier-valley.json) |
+| Knights of Galiveth | 28426 | [28426-knights-of-galiveth.json](./28426-knights-of-galiveth.json) |
 | Knights of Grumthorr | 149444 | [149444-knights-of-grumthorr.json](./149444-knights-of-grumthorr.json) |
 | Knights of Honor | 2040 | [2040-knights-of-honor.json](./2040-knights-of-honor.json) |
 | Knights of Honor II: Sovereign | 121919 | [121919-knights-of-honor-ii-sovereign.json](./121919-knights-of-honor-ii-sovereign.json) |
