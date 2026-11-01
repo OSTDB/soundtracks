@@ -1169,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Legendary Lust: Aphrodisia | 392890 | [392890-tales-of-legendary-lust-aphrodisia.json](./392890-tales-of-legendary-lust-aphrodisia.json) |
 | Tales of Legends | 90492 | [90492-tales-of-legends.json](./90492-tales-of-legends.json) |
 | Tales of Legends IV: If | 55500 | [55500-tales-of-legends-iv-if.json](./55500-tales-of-legends-iv-if.json) |
+| Tales of Link | 18813 | [18813-tales-of-link.json](./18813-tales-of-link.json) |
 | Tales of Lost Ages Vol 1. | 298057 | [298057-tales-of-lost-ages-vol-1.json](./298057-tales-of-lost-ages-vol-1.json) |
 | Tales of Luminaria | 165355 | [165355-tales-of-luminaria.json](./165355-tales-of-luminaria.json) |
 | Tales of Lunar Scales | 331735 | [331735-tales-of-lunar-scales.json](./331735-tales-of-lunar-scales.json) |
@@ -10842,6 +10843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Go | 417352 | [417352-the-king-of-go.json](./417352-the-king-of-go.json) |
 | The King of Golf | 228553 | [228553-the-king-of-golf.json](./228553-the-king-of-golf.json) |
 | The King of Rally | 38111 | [38111-the-king-of-rally.json](./38111-the-king-of-rally.json) |
+| The King of Route 66 | 18863 | [18863-the-king-of-route-66.json](./18863-the-king-of-route-66.json) |
 | The King of the Oceans | 157464 | [157464-the-king-of-the-oceans.json](./157464-the-king-of-the-oceans.json) |
 | The King of the Wood | 22368 | [22368-the-king-of-the-wood.json](./22368-the-king-of-the-wood.json) |
 | The King of Tower Defense | 360206 | [360206-the-king-of-tower-defense.json](./360206-the-king-of-tower-defense.json) |
@@ -14005,6 +14007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prison | 236692 | [236692-the-prison.json](./236692-the-prison.json) |
 | The Prison Boys | 54962 | [54962-the-prison-boys.json](./54962-the-prison-boys.json) |
 | The Prisonbreak | 346373 | [346373-the-prisonbreak.json](./346373-the-prisonbreak.json) |
+| The Prisoner | 18759 | [18759-the-prisoner.json](./18759-the-prisoner.json) |
 | The Prisoner | 347059 | [347059-the-prisoner.json](./347059-the-prisoner.json) |
 | The Prisoner of the Night | 173390 | [173390-the-prisoner-of-the-night.json](./173390-the-prisoner-of-the-night.json) |
 | The Prisoning: Fletcher's Quest | 284895 | [284895-the-prisoning-fletchers-quest.json](./284895-the-prisoning-fletchers-quest.json) |
@@ -16282,6 +16285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Texas Chain Saw Massacre: Virginia | 298023 | [298023-the-texas-chain-saw-massacre-virginia.json](./298023-the-texas-chain-saw-massacre-virginia.json) |
 | The Texas Chain Saw Massacre: Weapon Skin Variants | 308570 | [308570-the-texas-chain-saw-massacre-weapon-skin-variants.json](./308570-the-texas-chain-saw-massacre-weapon-skin-variants.json) |
 | The Texas Chain Saw Massacre: Wyatt | 351018 | [351018-the-texas-chain-saw-massacre-wyatt.json](./351018-the-texas-chain-saw-massacre-wyatt.json) |
+| The Texas Chainsaw Massacre | 18848 | [18848-the-texas-chainsaw-massacre.json](./18848-the-texas-chainsaw-massacre.json) |
 | The Textorcist: Amen Edition | 196300 | [196300-the-textorcist-amen-edition.json](./196300-the-textorcist-amen-edition.json) |
 | The Textorcist: The Story of Ray Bibbia | 107178 | [107178-the-textorcist-the-story-of-ray-bibbia.json](./107178-the-textorcist-the-story-of-ray-bibbia.json) |
 | The Textorcist: The Village | 194985 | [194985-the-textorcist-the-village.json](./194985-the-textorcist-the-village.json) |
@@ -25204,6 +25208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towerful Defense: A Rogue TD - The First Expansion | 385554 | [385554-towerful-defense-a-rogue-td-the-first-expansion.json](./385554-towerful-defense-a-rogue-td-the-first-expansion.json) |
 | Towerheart | 303076 | [303076-towerheart.json](./303076-towerheart.json) |
 | Towering | 230295 | [230295-towering.json](./230295-towering.json) |
+| Towering Inferno | 18771 | [18771-towering-inferno.json](./18771-towering-inferno.json) |
 | Towering Rescue | 363303 | [363303-towering-rescue.json](./363303-towering-rescue.json) |
 | Towering Rescue | 47263 | [47263-towering-rescue.json](./47263-towering-rescue.json) |
 | Towerix91 | 398029 | [398029-towerix91.json](./398029-towerix91.json) |
