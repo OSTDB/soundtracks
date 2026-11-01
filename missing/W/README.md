@@ -1819,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Maiden Lecia and the Lost Fortress | 373646 | [373646-warrior-maiden-lecia-and-the-lost-fortress.json](./373646-warrior-maiden-lecia-and-the-lost-fortress.json) |
 | Warrior of Chaos | 367830 | [367830-warrior-of-chaos.json](./367830-warrior-of-chaos.json) |
 | Warrior of Ras: Volume I - Dunzhin | 94578 | [94578-warrior-of-ras-volume-i-dunzhin.json](./94578-warrior-of-ras-volume-i-dunzhin.json) |
+| Warrior of Rome | 4426 | [4426-warrior-of-rome.json](./4426-warrior-of-rome.json) |
 | Warrior of Rome III | 214892 | [214892-warrior-of-rome-iii.json](./214892-warrior-of-rome-iii.json) |
 | Warrior Paint: 2005 GOTY Edition | 231309 | [231309-warrior-paint-2005-goty-edition.json](./231309-warrior-paint-2005-goty-edition.json) |
 | Warrior Plus | 286481 | [286481-warrior-plus.json](./286481-warrior-plus.json) |
@@ -4531,6 +4532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whoowasit? - Children's game of the year 2008 | 100727 | [100727-whoowasit-childrens-game-of-the-year-2008.json](./100727-whoowasit-childrens-game-of-the-year-2008.json) |
 | Whopper Chase | 60354 | [60354-whopper-chase.json](./60354-whopper-chase.json) |
 | Whore Dealer | 203916 | [203916-whore-dealer.json](./203916-whore-dealer.json) |
+| Whore of the Orient | 1943 | [1943-whore-of-the-orient.json](./1943-whore-of-the-orient.json) |
 | Whose Lawn Is It Anyway | 401034 | [401034-whose-lawn-is-it-anyway.json](./401034-whose-lawn-is-it-anyway.json) |
 | Whotfire | 346907 | [346907-whotfire.json](./346907-whotfire.json) |
 | Why | 257413 | [257413-why.json](./257413-why.json) |
@@ -8387,6 +8389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckfest: Vehicle Bundle 1 | 208051 | [208051-wreckfest-vehicle-bundle-1.json](./208051-wreckfest-vehicle-bundle-1.json) |
 | Wreckfest: Vehicle Bundle 2 | 208052 | [208052-wreckfest-vehicle-bundle-2.json](./208052-wreckfest-vehicle-bundle-2.json) |
 | Wreckin Ball Adventure | 112364 | [112364-wreckin-ball-adventure.json](./112364-wreckin-ball-adventure.json) |
+| Wreckin Crew | 2395 | [2395-wreckin-crew.json](./2395-wreckin-crew.json) |
 | Wreckin' Raccoon | 371475 | [371475-wreckin-raccoon.json](./371475-wreckin-raccoon.json) |
 | Wrecking Ball | 73514 | [73514-wrecking-ball.json](./73514-wrecking-ball.json) |
 | Wrecking Balls Arena | 61972 | [61972-wrecking-balls-arena.json](./61972-wrecking-balls-arena.json) |
@@ -8608,6 +8611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WW Fantasy | 98773 | [98773-ww-fantasy.json](./98773-ww-fantasy.json) |
 | WW Furnishing | 353815 | [353815-ww-furnishing.json](./353815-ww-furnishing.json) |
 | WW1 Game Series Bundle | 218465 | [218465-ww1-game-series-bundle.json](./218465-ww1-game-series-bundle.json) |
+| WW2 Air Force Commander | 2396 | [2396-ww2-air-force-commander.json](./2396-ww2-air-force-commander.json) |
 | WW2 Rebuilder | 158156 | [158156-ww2-rebuilder.json](./158156-ww2-rebuilder.json) |
 | WW2 Z Range VR | 119712 | [119712-ww2-z-range-vr.json](./119712-ww2-z-range-vr.json) |
 | WW2 Zone War: Cold Warzone Ops | 269098 | [269098-ww2-zone-war-cold-warzone-ops.json](./269098-ww2-zone-war-cold-warzone-ops.json) |
@@ -8723,6 +8727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Wrestling Revolution Fight 2018 | 188319 | [188319-wwe-wrestling-revolution-fight-2018.json](./188319-wwe-wrestling-revolution-fight-2018.json) |
 | WWF Attitude | 200414 | [200414-wwf-attitude.json](./200414-wwf-attitude.json) |
 | WWF Attitude | 3643 | [3643-wwf-attitude.json](./3643-wwf-attitude.json) |
+| WWF European Rampage Tour | 2397 | [2397-wwf-european-rampage-tour.json](./2397-wwf-european-rampage-tour.json) |
 | WWF King of the Ring | 265031 | [265031-wwf-king-of-the-ring.json](./265031-wwf-king-of-the-ring.json) |
 | WWF King of the Ring | 48707 | [48707-wwf-king-of-the-ring.json](./48707-wwf-king-of-the-ring.json) |
 | WWF Legends | 256937 | [256937-wwf-legends.json](./256937-wwf-legends.json) |
