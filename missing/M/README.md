@@ -4309,6 +4309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Heroes: Android Onslaught | 245454 | [245454-marvel-heroes-android-onslaught.json](./245454-marvel-heroes-android-onslaught.json) |
 | Marvel Heroes: HeroesVillains | 245453 | [245453-marvel-heroes-heroesvillains.json](./245453-marvel-heroes-heroesvillains.json) |
 | Marvel Kapow! | 92612 | [92612-marvel-kapow.json](./92612-marvel-kapow.json) |
+| Marvel Land | 41087 | [41087-marvel-land.json](./41087-marvel-land.json) |
 | Marvel Mystic Mayhem | 319970 | [319970-marvel-mystic-mayhem.json](./319970-marvel-mystic-mayhem.json) |
 | Marvel Nemesis: Rise of the Imperfects | 194232 | [194232-marvel-nemesis-rise-of-the-imperfects.json](./194232-marvel-nemesis-rise-of-the-imperfects.json) |
 | Marvel Nemesis: Rise of the Imperfects | 3992 | [3992-marvel-nemesis-rise-of-the-imperfects.json](./3992-marvel-nemesis-rise-of-the-imperfects.json) |
@@ -5877,6 +5878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazing | 165763 | [165763-mazing.json](./165763-mazing.json) |
 | Mazing Mad | 367278 | [367278-mazing-mad.json](./367278-mazing-mad.json) |
 | Mazinger Z | 153841 | [153841-mazinger-z.json](./153841-mazinger-z.json) |
+| Mazinger Z | 41089 | [41089-mazinger-z.json](./41089-mazinger-z.json) |
 | MazM: Hyde and Seek | 232306 | [232306-mazm-hyde-and-seek.json](./232306-mazm-hyde-and-seek.json) |
 | MazM: Jekyll and Hyde | 105857 | [105857-mazm-jekyll-and-hyde.json](./105857-mazm-jekyll-and-hyde.json) |
 | MazM: The Phantom of the Opera | 125865 | [125865-mazm-the-phantom-of-the-opera.json](./125865-mazm-the-phantom-of-the-opera.json) |
@@ -10786,6 +10788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilkyWay: Galaxy Adventure | 206416 | [206416-milkyway-galaxy-adventure.json](./206416-milkyway-galaxy-adventure.json) |
 | Mill | 92299 | [92299-mill.json](./92299-mill.json) |
 | Mille Bornes | 94925 | [94925-mille-bornes.json](./94925-mille-bornes.json) |
+| Mille Miglia 2: Great 1000 Miles Rally | 41077 | [41077-mille-miglia-2-great-1000-miles-rally.json](./41077-mille-miglia-2-great-1000-miles-rally.json) |
 | Millefiori | 150155 | [150155-millefiori.json](./150155-millefiori.json) |
 | Millenium: Return To Earth | 12922 | [12922-millenium-return-to-earth.json](./12922-millenium-return-to-earth.json) |
 | Millennia: Altered Destinies | 71374 | [71374-millennia-altered-destinies.json](./71374-millennia-altered-destinies.json) |
@@ -16306,6 +16309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto X | 279698 | [279698-moto-x.json](./279698-moto-x.json) |
 | Moto X Challenge | 238393 | [238393-moto-x-challenge.json](./238393-moto-x-challenge.json) |
 | Moto X Maniac | 66936 | [66936-moto-x-maniac.json](./66936-moto-x-maniac.json) |
+| Moto X Simulator | 41114 | [41114-moto-x-simulator.json](./41114-moto-x-simulator.json) |
 | Moto X3M 2 | 95990 | [95990-moto-x3m-2.json](./95990-moto-x3m-2.json) |
 | Moto X3M 3 | 142394 | [142394-moto-x3m-3.json](./142394-moto-x3m-3.json) |
 | Moto X3m: Pool Party | 327874 | [327874-moto-x3m-pool-party.json](./327874-moto-x3m-pool-party.json) |
@@ -16583,6 +16587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Bicycle Rider Simulator | 264779 | [264779-mountain-bicycle-rider-simulator.json](./264779-mountain-bicycle-rider-simulator.json) |
 | Mountain Bike Adrenaline | 27578 | [27578-mountain-bike-adrenaline.json](./27578-mountain-bike-adrenaline.json) |
 | Mountain Bike Hill Climb Race: Real 2D Arcade Dirt Racing Games | 173137 | [173137-mountain-bike-hill-climb-race-real-2d-arcade-dirt-racing-games.json](./173137-mountain-bike-hill-climb-race-real-2d-arcade-dirt-racing-games.json) |
+| Mountain Bike Racer | 41113 | [41113-mountain-bike-racer.json](./41113-mountain-bike-racer.json) |
 | Mountain Bike Rally | 42485 | [42485-mountain-bike-rally.json](./42485-mountain-bike-rally.json) |
 | Mountain Bike Xtreme | 369170 | [369170-mountain-bike-xtreme.json](./369170-mountain-bike-xtreme.json) |
 | Mountain Biker | 116402 | [116402-mountain-biker.json](./116402-mountain-biker.json) |
