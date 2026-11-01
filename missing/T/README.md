@@ -8194,6 +8194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Endless Journey | 81068 | [81068-the-endless-journey.json](./81068-the-endless-journey.json) |
 | The Endless Mission | 95922 | [95922-the-endless-mission.json](./95922-the-endless-mission.json) |
 | The Endless Night | 405133 | [405133-the-endless-night.json](./405133-the-endless-night.json) |
+| The Endless Stairwell | 53582 | [53582-the-endless-stairwell.json](./53582-the-endless-stairwell.json) |
 | The Endless Summer Surfing Challenge | 197056 | [197056-the-endless-summer-surfing-challenge.json](./197056-the-endless-summer-surfing-challenge.json) |
 | The Endless Village | 401522 | [401522-the-endless-village.json](./401522-the-endless-village.json) |
 | The Endless White | 126518 | [126518-the-endless-white.json](./126518-the-endless-white.json) |
