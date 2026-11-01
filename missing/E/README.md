@@ -3005,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Deluxe: Masters Edition | 69745 | [69745-empire-deluxe-masters-edition.json](./69745-empire-deluxe-masters-edition.json) |
 | Empire Deluxe: Mobile Edition | 200274 | [200274-empire-deluxe-mobile-edition.json](./200274-empire-deluxe-mobile-edition.json) |
 | Empire Earth II | 1608 | [1608-empire-earth-ii.json](./1608-empire-earth-ii.json) |
+| Empire Earth II: Gold Edition | 24492 | [24492-empire-earth-ii-gold-edition.json](./24492-empire-earth-ii-gold-edition.json) |
 | Empire Earth II: The Art of Supremacy | 1607 | [1607-empire-earth-ii-the-art-of-supremacy.json](./1607-empire-earth-ii-the-art-of-supremacy.json) |
 | Empire Earth III | 1606 | [1606-empire-earth-iii.json](./1606-empire-earth-iii.json) |
 | Empire FactionWar | 290512 | [290512-empire-factionwar.json](./290512-empire-factionwar.json) |
@@ -3265,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encore Rally | 267867 | [267867-encore-rally.json](./267867-encore-rally.json) |
 | Encore! | 372557 | [372557-encore.json](./372557-encore.json) |
 | Encore! | 380428 | [380428-encore.json](./380428-encore.json) |
+| Encounter | 24507 | [24507-encounter.json](./24507-encounter.json) |
 | Encounter | 81445 | [81445-encounter.json](./81445-encounter.json) |
 | Encounter At L5 | 40673 | [40673-encounter-at-l5.json](./40673-encounter-at-l5.json) |
 | Encounter at Questar IV | 408509 | [408509-encounter-at-questar-iv.json](./408509-encounter-at-questar-iv.json) |
