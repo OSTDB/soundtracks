@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Floor | 309222 | [309222-magic-floor.json](./309222-magic-floor.json) |
 | Magic Floor | 309223 | [309223-magic-floor.json](./309223-magic-floor.json) |
 | Magic Fluids | 168663 | [168663-magic-fluids.json](./168663-magic-fluids.json) |
+| Magic Flute | 33643 | [33643-magic-flute.json](./33643-magic-flute.json) |
 | Magic Fly | 15253 | [15253-magic-fly.json](./15253-magic-fly.json) |
 | Magic Force | 265100 | [265100-magic-force.json](./265100-magic-force.json) |
 | Magic Forest Escape | 315647 | [315647-magic-forest-escape.json](./315647-magic-forest-escape.json) |
@@ -5247,6 +5248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathology - Brain Game | 95768 | [95768-mathology-brain-game.json](./95768-mathology-brain-game.json) |
 | Mathomatics | 190215 | [190215-mathomatics.json](./190215-mathomatics.json) |
 | Mathooze - The Math Puzzle Game! | 24964 | [24964-mathooze-the-math-puzzle-game.json](./24964-mathooze-the-math-puzzle-game.json) |
+| Mathoria: It All Adds Up | 33713 | [33713-mathoria-it-all-adds-up.json](./33713-mathoria-it-all-adds-up.json) |
 | MathRat | 370905 | [370905-mathrat.json](./370905-mathrat.json) |
 | Maths and English with Rayman: Volume 2 | 98168 | [98168-maths-and-english-with-rayman-volume-2.json](./98168-maths-and-english-with-rayman-volume-2.json) |
 | Maths Challenge | 104482 | [104482-maths-challenge.json](./104482-maths-challenge.json) |
@@ -16029,6 +16031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic Chronicles DLC: Nothing Personal | 274664 | [274664-mosaic-chronicles-dlc-nothing-personal.json](./274664-mosaic-chronicles-dlc-nothing-personal.json) |
 | Mosaic Girl Savior | 272367 | [272367-mosaic-girl-savior.json](./272367-mosaic-girl-savior.json) |
 | Mosaic Hearts | 172497 | [172497-mosaic-hearts.json](./172497-mosaic-hearts.json) |
+| Mosaic Maze | 33650 | [33650-mosaic-maze.json](./33650-mosaic-maze.json) |
 | Mosaic Mini Golf | 175234 | [175234-mosaic-mini-golf.json](./175234-mosaic-mini-golf.json) |
 | Mosaic no Tenshi | 408588 | [408588-mosaic-no-tenshi.json](./408588-mosaic-no-tenshi.json) |
 | Mosaic of Life | 419154 | [419154-mosaic-of-life.json](./419154-mosaic-of-life.json) |
