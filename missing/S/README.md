@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sackboy: A Big Adventure - Emote Pack | 230997 | [230997-sackboy-a-big-adventure-emote-pack.json](./230997-sackboy-a-big-adventure-emote-pack.json) |
 | Sackgasse: The Last Resort | 149527 | [149527-sackgasse-the-last-resort.json](./149527-sackgasse-the-last-resort.json) |
 | Sackman se-X | 82125 | [82125-sackman-se-x.json](./82125-sackman-se-x.json) |
+| Sacra Terra: Angelic Night | 53564 | [53564-sacra-terra-angelic-night.json](./53564-sacra-terra-angelic-night.json) |
 | Sacra Terra: Angelic Night - Collector's Edition | 25475 | [25475-sacra-terra-angelic-night-collectors-edition.json](./25475-sacra-terra-angelic-night-collectors-edition.json) |
 | Sacra Terra: Kiss of Death - Collector's Edition | 30386 | [30386-sacra-terra-kiss-of-death-collectors-edition.json](./30386-sacra-terra-kiss-of-death-collectors-edition.json) |
 | Sacra: Falling of Myrd | 331692 | [331692-sacra-falling-of-myrd.json](./331692-sacra-falling-of-myrd.json) |
@@ -281,9 +282,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred 2: Fallen Angel - Collector's Edition | 50329 | [50329-sacred-2-fallen-angel-collectors-edition.json](./50329-sacred-2-fallen-angel-collectors-edition.json) |
 | Sacred 2: Ice and Blood | 8891 | [8891-sacred-2-ice-and-blood.json](./8891-sacred-2-ice-and-blood.json) |
 | Sacred 3 | 5615 | [5615-sacred-3.json](./5615-sacred-3.json) |
+| Sacred 3 - Orcland Story | 53566 | [53566-sacred-3-orcland-story.json](./53566-sacred-3-orcland-story.json) |
 | Sacred 3: First Edition | 51287 | [51287-sacred-3-first-edition.json](./51287-sacred-3-first-edition.json) |
+| Sacred 3: Gold Edition | 53567 | [53567-sacred-3-gold-edition.json](./53567-sacred-3-gold-edition.json) |
+| Sacred Blade | 53568 | [53568-sacred-blade.json](./53568-sacred-blade.json) |
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
 | Sacred Citadel | 15290 | [15290-sacred-citadel.json](./15290-sacred-citadel.json) |
+| Sacred Citadel: Jungle Hunt | 53569 | [53569-sacred-citadel-jungle-hunt.json](./53569-sacred-citadel-jungle-hunt.json) |
 | Sacred Cubes 2 | 156833 | [156833-sacred-cubes-2.json](./156833-sacred-cubes-2.json) |
 | Sacred Curse | 188970 | [188970-sacred-curse.json](./188970-sacred-curse.json) |
 | Sacred Dark | 327383 | [327383-sacred-dark.json](./327383-sacred-dark.json) |
@@ -564,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sail of Dreams | 285313 | [285313-sail-of-dreams.json](./285313-sail-of-dreams.json) |
 | Sail or Fail | 290999 | [290999-sail-or-fail.json](./290999-sail-or-fail.json) |
 | Sail Ships | 102365 | [102365-sail-ships.json](./102365-sail-ships.json) |
+| Sail Simulator 2010 | 53571 | [53571-sail-simulator-2010.json](./53571-sail-simulator-2010.json) |
 | Sail Simulator 4 | 143740 | [143740-sail-simulator-4.json](./143740-sail-simulator-4.json) |
 | Sail Simulator 5 | 63818 | [63818-sail-simulator-5.json](./63818-sail-simulator-5.json) |
 | Sail the Seas | 302219 | [302219-sail-the-seas.json](./302219-sail-the-seas.json) |
@@ -672,9 +678,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row 2: Ultimate Edition | 99971 | [99971-saints-row-2-ultimate-edition.json](./99971-saints-row-2-ultimate-edition.json) |
 | Saints Row 2: Ultor Exposed | 22998 | [22998-saints-row-2-ultor-exposed.json](./22998-saints-row-2-ultor-exposed.json) |
 | Saints Row Boss Factory | 344978 | [344978-saints-row-boss-factory.json](./344978-saints-row-boss-factory.json) |
+| Saints Row IV: 100% Uncut | 53572 | [53572-saints-row-iv-100-uncut.json](./53572-saints-row-iv-100-uncut.json) |
 | Saints Row IV: Commander In Chief Edition | 26198 | [26198-saints-row-iv-commander-in-chief-edition.json](./26198-saints-row-iv-commander-in-chief-edition.json) |
 | Saints Row IV: Enter the Dominatrix | 22142 | [22142-saints-row-iv-enter-the-dominatrix.json](./22142-saints-row-iv-enter-the-dominatrix.json) |
 | Saints Row IV: Game of the Century Edition | 51869 | [51869-saints-row-iv-game-of-the-century-edition.json](./51869-saints-row-iv-game-of-the-century-edition.json) |
+| Saints Row IV: National Treasure Edition | 53573 | [53573-saints-row-iv-national-treasure-edition.json](./53573-saints-row-iv-national-treasure-edition.json) |
 | Saints Row IV: Re-Elected | 7707 | [7707-saints-row-iv-re-elected.json](./7707-saints-row-iv-re-elected.json) |
 | Saints Row IV: Re-Elected & Gat out of Hell | 82419 | [82419-saints-row-iv-re-elected-and-gat-out-of-hell.json](./82419-saints-row-iv-re-elected-and-gat-out-of-hell.json) |
 | Saints Row IV: Super Dangerous Wad Wad Edition (aka the Million Dollar Pack) | 21862 | [21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json](./21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json) |
@@ -938,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally.Exe | 274050 | [274050-sally-exe.json](./274050-sally-exe.json) |
 | Sally.EXE: Discovery | 317358 | [317358-sally-exe-discovery.json](./317358-sally-exe-discovery.json) |
 | Sally.Exe: The Whisper of Soul | 360031 | [360031-sally-exe-the-whisper-of-soul.json](./360031-sally-exe-the-whisper-of-soul.json) |
+| Sally's Quick Clips | 53574 | [53574-sallys-quick-clips.json](./53574-sallys-quick-clips.json) |
 | Sally's Salon | 24328 | [24328-sallys-salon.json](./24328-sallys-salon.json) |
 | Sally's Salon | 315369 | [315369-sallys-salon.json](./315369-sallys-salon.json) |
 | Sally's Salon: Kiss & Make-Up | 103439 | [103439-sallys-salon-kiss-and-make-up.json](./103439-sallys-salon-kiss-and-make-up.json) |
@@ -1122,9 +1131,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sammy's Science House | 67105 | [67105-sammys-science-house.json](./67105-sammys-science-house.json) |
 | Samochodowy Wojownik | 150529 | [150529-samochodowy-wojownik.json](./150529-samochodowy-wojownik.json) |
 | Samoliotik | 33317 | [33317-samoliotik.json](./33317-samoliotik.json) |
+| Samoliotik: Deluxe Edition | 53575 | [53575-samoliotik-deluxe-edition.json](./53575-samoliotik-deluxe-edition.json) |
 | SamoQ - Quiz Hyoryu Kyoushitsu | 98063 | [98063-samoq-quiz-hyoryu-kyoushitsu.json](./98063-samoq-quiz-hyoryu-kyoushitsu.json) |
 | Samorost | 15731 | [15731-samorost.json](./15731-samorost.json) |
 | Samorost 1 | 148352 | [148352-samorost-1.json](./148352-samorost-1.json) |
+| Samorost 3: Cosmic Edition | 53576 | [53576-samorost-3-cosmic-edition.json](./53576-samorost-3-cosmic-edition.json) |
 | Samosa: Runner Gunner | 254319 | [254319-samosa-runner-gunner.json](./254319-samosa-runner-gunner.json) |
 | Samosbor | 130179 | [130179-samosbor.json](./130179-samosbor.json) |
 | Samosbor 2D | 120986 | [120986-samosbor-2d.json](./120986-samosbor-2d.json) |
@@ -2162,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save The Dev | 397176 | [397176-save-the-dev.json](./397176-save-the-dev.json) |
 | Save the Dinos | 206660 | [206660-save-the-dinos.json](./206660-save-the-dinos.json) |
 | Save the Dodos | 33885 | [33885-save-the-dodos.json](./33885-save-the-dodos.json) |
+| Save the Dodos: Special Edition | 53577 | [53577-save-the-dodos-special-edition.json](./53577-save-the-dodos-special-edition.json) |
 | Save the Doge | 212441 | [212441-save-the-doge.json](./212441-save-the-doge.json) |
 | Save The Doge | 387574 | [387574-save-the-doge.json](./387574-save-the-doge.json) |
 | Save the Dungeon! | 265578 | [265578-save-the-dungeon.json](./265578-save-the-dungeon.json) |
@@ -2178,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the girls Action | 150469 | [150469-save-the-girls-action.json](./150469-save-the-girls-action.json) |
 | Save the Halloween | 75198 | [75198-save-the-halloween.json](./75198-save-the-halloween.json) |
 | Save the Hamsters | 63121 | [63121-save-the-hamsters.json](./63121-save-the-hamsters.json) |
+| Save the Humans | 53578 | [53578-save-the-humans.json](./53578-save-the-humans.json) |
 | Save the Knight | 308882 | [308882-save-the-knight.json](./308882-save-the-knight.json) |
 | Save the Lamb | 75001 | [75001-save-the-lamb.json](./75001-save-the-lamb.json) |
 | Save the Ninja Clan | 27299 | [27299-save-the-ninja-clan.json](./27299-save-the-ninja-clan.json) |
@@ -2393,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scandal in the Spotlight | 147693 | [147693-scandal-in-the-spotlight.json](./147693-scandal-in-the-spotlight.json) |
 | Scandal Notes | 212069 | [212069-scandal-notes.json](./212069-scandal-notes.json) |
 | Scandinavian Cottage Survival Simulator | 360000 | [360000-scandinavian-cottage-survival-simulator.json](./360000-scandinavian-cottage-survival-simulator.json) |
+| Scania Truck Driving Simulator: The Game | 53580 | [53580-scania-truck-driving-simulator-the-game.json](./53580-scania-truck-driving-simulator-the-game.json) |
 | Scanline | 180810 | [180810-scanline.json](./180810-scanline.json) |
 | Scanner Force | 402269 | [402269-scanner-force.json](./402269-scanner-force.json) |
 | Scanner Sombre | 28224 | [28224-scanner-sombre.json](./28224-scanner-sombre.json) |
@@ -3333,6 +3347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screaming Abdabs | 137425 | [137425-screaming-abdabs.json](./137425-screaming-abdabs.json) |
 | Screaming Chicken: Ultimate Showdown | 128770 | [128770-screaming-chicken-ultimate-showdown.json](./128770-screaming-chicken-ultimate-showdown.json) |
 | Screaming Eagles | 54511 | [54511-screaming-eagles.json](./54511-screaming-eagles.json) |
+| Screaming Eagles Collection | 53583 | [53583-screaming-eagles-collection.json](./53583-screaming-eagles-collection.json) |
 | Screaming Head | 332464 | [332464-screaming-head.json](./332464-screaming-head.json) |
 | Screaming in the Basement | 329180 | [329180-screaming-in-the-basement.json](./329180-screaming-in-the-basement.json) |
 | Screaming Savage Blood Death | 311100 | [311100-screaming-savage-blood-death.json](./311100-screaming-savage-blood-death.json) |
@@ -4260,6 +4275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Dark: Temple of Night | 312914 | [312914-secrets-of-the-dark-temple-of-night.json](./312914-secrets-of-the-dark-temple-of-night.json) |
 | Secrets of the Dark: The Flower of Shadow | 103992 | [103992-secrets-of-the-dark-the-flower-of-shadow.json](./103992-secrets-of-the-dark-the-flower-of-shadow.json) |
 | Secrets of the Dragon Cafe | 188300 | [188300-secrets-of-the-dragon-cafe.json](./188300-secrets-of-the-dragon-cafe.json) |
+| Secrets of the Guild | 53584 | [53584-secrets-of-the-guild.json](./53584-secrets-of-the-guild.json) |
 | Secrets of the Haunted Mansion | 265300 | [265300-secrets-of-the-haunted-mansion.json](./265300-secrets-of-the-haunted-mansion.json) |
 | Secrets of the Heart | 399771 | [399771-secrets-of-the-heart.json](./399771-secrets-of-the-heart.json) |
 | Secrets of the Heartbeat | 302353 | [302353-secrets-of-the-heartbeat.json](./302353-secrets-of-the-heartbeat.json) |
@@ -17936,7 +17952,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
