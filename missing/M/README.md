@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 13 | 243257 | [243257-madden-nfl-13.json](./243257-madden-nfl-13.json) |
 | Madden NFL 13 | 243258 | [243258-madden-nfl-13.json](./243258-madden-nfl-13.json) |
 | Madden NFL 13 | 243259 | [243259-madden-nfl-13.json](./243259-madden-nfl-13.json) |
+| Madden NFL 13 | 4988 | [4988-madden-nfl-13.json](./4988-madden-nfl-13.json) |
 | Madden NFL 13 Social | 243260 | [243260-madden-nfl-13-social.json](./243260-madden-nfl-13-social.json) |
 | Madden NFL 15 | 7882 | [7882-madden-nfl-15.json](./7882-madden-nfl-15.json) |
 | Madden NFL 16 | 11072 | [11072-madden-nfl-16.json](./11072-madden-nfl-16.json) |
@@ -3828,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario vs. Bowser and Mighty No. 9 | 276790 | [276790-mario-vs-bowser-and-mighty-no-9.json](./276790-mario-vs-bowser-and-mighty-no-9.json) |
 | Mario vs. Donkey Kong | 266674 | [266674-mario-vs-donkey-kong.json](./266674-mario-vs-donkey-kong.json) |
 | Mario vs. Donkey Kong | 6505 | [6505-mario-vs-donkey-kong.json](./6505-mario-vs-donkey-kong.json) |
+| Mario vs. Donkey Kong 2: March of the Minis | 6506 | [6506-mario-vs-donkey-kong-2-march-of-the-minis.json](./6506-mario-vs-donkey-kong-2-march-of-the-minis.json) |
 | Mario vs. Donkey Kong 2: March of the Minis - Cannon Kaos | 231640 | [231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json](./231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json) |
 | Mario vs. Donkey Kong Card e+ | 220855 | [220855-mario-vs-donkey-kong-card-e.json](./220855-mario-vs-donkey-kong-card-e.json) |
 | Mario vs. Donkey Kong Card e+: Hitasura Kawase! | 352408 | [352408-mario-vs-donkey-kong-card-e-hitasura-kawase.json](./352408-mario-vs-donkey-kong-card-e-hitasura-kawase.json) |
@@ -6618,6 +6620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MediEvil II | 4002 | [4002-medievil-ii.json](./4002-medievil-ii.json) |
 | MediEvil: Digital Deluxe Edition | 118681 | [118681-medievil-digital-deluxe-edition.json](./118681-medievil-digital-deluxe-edition.json) |
 | MediEvil: Resurrection | 288665 | [288665-medievil-resurrection.json](./288665-medievil-resurrection.json) |
+| MediEvil: Resurrection | 4005 | [4005-medievil-resurrection.json](./4005-medievil-resurrection.json) |
 | Meditate Levitate Elevate | 369008 | [369008-meditate-levitate-elevate.json](./369008-meditate-levitate-elevate.json) |
 | Meditation 5 | 135047 | [135047-meditation-5.json](./135047-meditation-5.json) |
 | Meditation Forest | 183409 | [183409-meditation-forest.json](./183409-meditation-forest.json) |
@@ -16685,6 +16688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mount Wingsuit 2 | 199301 | [199301-mount-wingsuit-2.json](./199301-mount-wingsuit-2.json) |
 | Mount Your Friends | 15916 | [15916-mount-your-friends.json](./15916-mount-your-friends.json) |
 | Mount Your Friends 3D: A Hard Man is Good to Climb | 78155 | [78155-mount-your-friends-3d-a-hard-man-is-good-to-climb.json](./78155-mount-your-friends-3d-a-hard-man-is-good-to-climb.json) |
+| Mountain | 11736 | [11736-mountain.json](./11736-mountain.json) |
 | Mountain 78 | 338212 | [338212-mountain-78.json](./338212-mountain-78.json) |
 | Mountain Bicycle Rider Simulator | 264779 | [264779-mountain-bicycle-rider-simulator.json](./264779-mountain-bicycle-rider-simulator.json) |
 | Mountain Bike Adrenaline | 27578 | [27578-mountain-bike-adrenaline.json](./27578-mountain-bike-adrenaline.json) |
