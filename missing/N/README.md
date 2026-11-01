@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.Y.Zombies 2 | 86907 | [86907-n-y-zombies-2.json](./86907-n-y-zombies-2.json) |
 | N'Oubliez Jamais | 166578 | [166578-noubliez-jamais.json](./166578-noubliez-jamais.json) |
 | N+ | 8749 | [8749-n.json](./8749-n.json) |
+| N++ | 8750 | [8750-n.json](./8750-n.json) |
 | N++: Ultimate Edition | 81203 | [81203-n-ultimate-edition.json](./81203-n-ultimate-edition.json) |
 | N+1: New Life For Unemployed Youth! | 290518 | [290518-n-1-new-life-for-unemployed-youth.json](./290518-n-1-new-life-for-unemployed-youth.json) |
 | N0-Exit | 31987 | [31987-n0-exit.json](./31987-n0-exit.json) |
@@ -1198,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K22: Cross-Gen Digital Bundle | 158592 | [158592-nba-2k22-cross-gen-digital-bundle.json](./158592-nba-2k22-cross-gen-digital-bundle.json) |
 | NBA 2K22: NBA 75th Anniversary Edition | 158594 | [158594-nba-2k22-nba-75th-anniversary-edition.json](./158594-nba-2k22-nba-75th-anniversary-edition.json) |
 | NBA 2K22: WNBA 25th Anniversary Edition | 158595 | [158595-nba-2k22-wnba-25th-anniversary-edition.json](./158595-nba-2k22-wnba-25th-anniversary-edition.json) |
+| NBA 2K23 | 207393 | [207393-nba-2k23.json](./207393-nba-2k23.json) |
 | NBA 2K23: Championship Edition | 242936 | [242936-nba-2k23-championship-edition.json](./242936-nba-2k23-championship-edition.json) |
 | NBA 2K23: Digital Deluxe Edition | 216409 | [216409-nba-2k23-digital-deluxe-edition.json](./216409-nba-2k23-digital-deluxe-edition.json) |
 | NBA 2K23: Michael Jordan Edition | 208715 | [208715-nba-2k23-michael-jordan-edition.json](./208715-nba-2k23-michael-jordan-edition.json) |
