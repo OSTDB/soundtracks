@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Hero | 56849 | [56849-undead-hero.json](./56849-undead-hero.json) |
 | Undead Horde | 88250 | [88250-undead-horde.json](./88250-undead-horde.json) |
 | Undead Horde 2: Necropolis | 217181 | [217181-undead-horde-2-necropolis.json](./217181-undead-horde-2-necropolis.json) |
+| Undead Hunter | 36640 | [36640-undead-hunter.json](./36640-undead-hunter.json) |
 | Undead Inc. | 252855 | [252855-undead-inc.json](./252855-undead-inc.json) |
 | Undead Inc.: Worky DLC | 310006 | [310006-undead-inc-worky-dlc.json](./310006-undead-inc-worky-dlc.json) |
 | Undead Kingdom Survivors | 303063 | [303063-undead-kingdom-survivors.json](./303063-undead-kingdom-survivors.json) |
@@ -2152,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UniteStar | 104375 | [104375-unitestar.json](./104375-unitestar.json) |
 | Unitied | 126373 | [126373-unitied.json](./126373-unitied.json) |
 | uniTower | 121693 | [121693-unitower.json](./121693-unitower.json) |
+| Unitrax | 36681 | [36681-unitrax.json](./36681-unitrax.json) |
 | Unitres Dreams | 177154 | [177154-unitres-dreams.json](./177154-unitres-dreams.json) |
 | Unity Chan and Cube World!! | 149802 | [149802-unity-chan-and-cube-world.json](./149802-unity-chan-and-cube-world.json) |
 | Unity Heroes | 297635 | [297635-unity-heroes.json](./297635-unity-heroes.json) |
@@ -3336,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utopia | 390549 | [390549-utopia.json](./390549-utopia.json) |
 | Utopia | 5702 | [5702-utopia.json](./5702-utopia.json) |
 | Utopia 9: A Volatile Vacation | 20360 | [20360-utopia-9-a-volatile-vacation.json](./20360-utopia-9-a-volatile-vacation.json) |
+| Utopia City | 36659 | [36659-utopia-city.json](./36659-utopia-city.json) |
 | Utopia Gatekeeper | 412617 | [412617-utopia-gatekeeper.json](./412617-utopia-gatekeeper.json) |
 | Utopia Must Fall | 301870 | [301870-utopia-must-fall.json](./301870-utopia-must-fall.json) |
 | Utopia no Soubou | 378191 | [378191-utopia-no-soubou.json](./378191-utopia-no-soubou.json) |
