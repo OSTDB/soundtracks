@@ -2600,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4x4 Dirt Track | 147816 | [147816-4x4-dirt-track.json](./147816-4x4-dirt-track.json) |
 | 4x4 Dirt Track Forest Driving | 89197 | [89197-4x4-dirt-track-forest-driving.json](./89197-4x4-dirt-track-forest-driving.json) |
 | 4x4 Dream Race | 17630 | [17630-4x4-dream-race.json](./17630-4x4-dream-race.json) |
+| 4x4 EVO | 584 | [584-4x4-evo.json](./584-4x4-evo.json) |
 | 4x4 EVO 2 | 5715 | [5715-4x4-evo-2.json](./5715-4x4-evo-2.json) |
 | 4x4 Hummer | 46453 | [46453-4x4-hummer.json](./46453-4x4-hummer.json) |
 | 4x4 in a Furniture Store | 385958 | [385958-4x4-in-a-furniture-store.json](./385958-4x4-in-a-furniture-store.json) |
