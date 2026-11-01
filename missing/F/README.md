@@ -1258,6 +1258,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Tricentennial Edition | 103308 | [103308-fallout-76-tricentennial-edition.json](./103308-fallout-76-tricentennial-edition.json) |
 | Fallout 76: Wastelanders | 132141 | [132141-fallout-76-wastelanders.json](./132141-fallout-76-wastelanders.json) |
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
+| Fallout Anthology | 21590 | [21590-fallout-anthology.json](./21590-fallout-anthology.json) |
+| Fallout Apokalypse | 21584 | [21584-fallout-apokalypse.json](./21584-fallout-apokalypse.json) |
 | Fallout Classic Collection | 53024 | [53024-fallout-classic-collection.json](./53024-fallout-classic-collection.json) |
 | Fallout Equestria: Remains | 177387 | [177387-fallout-equestria-remains.json](./177387-fallout-equestria-remains.json) |
 | Fallout Equestria: Silent Village | 369899 | [369899-fallout-equestria-silent-village.json](./369899-fallout-equestria-silent-village.json) |
@@ -7435,6 +7437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flitter Inc. | 103101 | [103101-flitter-inc.json](./103101-flitter-inc.json) |
 | Flix and Chill | 29418 | [29418-flix-and-chill.json](./29418-flix-and-chill.json) |
 | Flixfam Abenteuer | 409215 | [409215-flixfam-abenteuer.json](./409215-flixfam-abenteuer.json) |
+| FlixMix | 21410 | [21410-flixmix.json](./21410-flixmix.json) |
 | Flixy Cats | 165034 | [165034-flixy-cats.json](./165034-flixy-cats.json) |
 | Flo Boarding | 47563 | [47563-flo-boarding.json](./47563-flo-boarding.json) |
 | Floain | 290472 | [290472-floain.json](./290472-floain.json) |
