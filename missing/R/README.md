@@ -7751,6 +7751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Bustle 2 | 254636 | [254636-road-bustle-2.json](./254636-road-bustle-2.json) |
 | Road Cafe Simulator | 351028 | [351028-road-cafe-simulator.json](./351028-road-cafe-simulator.json) |
 | Road Cards | 187880 | [187880-road-cards.json](./187880-road-cards.json) |
+| Road Champion | 39309 | [39309-road-champion.json](./39309-road-champion.json) |
 | Road Champs: BXS Stunt Biking | 49907 | [49907-road-champs-bxs-stunt-biking.json](./49907-road-champs-bxs-stunt-biking.json) |
 | Road Chase | 105894 | [105894-road-chase.json](./105894-road-chase.json) |
 | Road Construction Ahead | 313294 | [313294-road-construction-ahead.json](./313294-road-construction-ahead.json) |
