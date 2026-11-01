@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Revolution: Vanargand Edition | 132180 | [132180-valkyria-revolution-vanargand-edition.json](./132180-valkyria-revolution-vanargand-edition.json) |
 | Valkyria Soul | 200145 | [200145-valkyria-soul.json](./200145-valkyria-soul.json) |
 | Valkyrie | 94342 | [94342-valkyrie.json](./94342-valkyrie.json) |
+| Valkyrie 17 | 28438 | [28438-valkyrie-17.json](./28438-valkyrie-17.json) |
 | Valkyrie Blade VR | 28891 | [28891-valkyrie-blade-vr.json](./28891-valkyrie-blade-vr.json) |
 | Valkyrie Champions | 215675 | [215675-valkyrie-champions.json](./215675-valkyrie-champions.json) |
 | Valkyrie Complex | 69035 | [69035-valkyrie-complex.json](./69035-valkyrie-complex.json) |
