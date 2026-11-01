@@ -2002,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YuYu Hakusho Yamishoubu!! Ankoku Bujutsu Kai | 37629 | [37629-yuyu-hakusho-yamishoubu-ankoku-bujutsu-kai.json](./37629-yuyu-hakusho-yamishoubu-ankoku-bujutsu-kai.json) |
 | YuYu Hakusho: Ankoku Bujutsukai-hen | 186653 | [186653-yuyu-hakusho-ankoku-bujutsukai-hen.json](./186653-yuyu-hakusho-ankoku-bujutsukai-hen.json) |
 | YuYu Hakusho: Bakutou Ankoku Bujutsu Kai | 48517 | [48517-yuyu-hakusho-bakutou-ankoku-bujutsu-kai.json](./48517-yuyu-hakusho-bakutou-ankoku-bujutsu-kai.json) |
+| YuYu Hakusho: Horobishi Mono no Gyakushuu | 46357 | [46357-yuyu-hakusho-horobishi-mono-no-gyakushuu.json](./46357-yuyu-hakusho-horobishi-mono-no-gyakushuu.json) |
 | YuYu Hakusho: Sunset Fighters | 45607 | [45607-yuyu-hakusho-sunset-fighters.json](./45607-yuyu-hakusho-sunset-fighters.json) |
 | YuYu Hakusho: Tokubetsu-hen | 42532 | [42532-yuyu-hakusho-tokubetsu-hen.json](./42532-yuyu-hakusho-tokubetsu-hen.json) |
 | Yuyukana: Under the Starlight | 396469 | [396469-yuyukana-under-the-starlight.json](./396469-yuyukana-under-the-starlight.json) |
