@@ -2022,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Order of the Phoenix | 266194 | [266194-harry-potter-and-the-order-of-the-phoenix.json](./266194-harry-potter-and-the-order-of-the-phoenix.json) |
 | Harry Potter and the Order of the Phoenix | 366316 | [366316-harry-potter-and-the-order-of-the-phoenix.json](./366316-harry-potter-and-the-order-of-the-phoenix.json) |
 | Harry Potter and the Order of the Phoenix Mini-Game | 318954 | [318954-harry-potter-and-the-order-of-the-phoenix-mini-game.json](./318954-harry-potter-and-the-order-of-the-phoenix-mini-game.json) |
+| Harry Potter and the Prisoner of Azkaban | 110433 | [110433-harry-potter-and-the-prisoner-of-azkaban.json](./110433-harry-potter-and-the-prisoner-of-azkaban.json) |
 | Harry Potter and the Prisoner of Azkaban | 3943 | [3943-harry-potter-and-the-prisoner-of-azkaban.json](./3943-harry-potter-and-the-prisoner-of-azkaban.json) |
 | Harry Potter and the Prisoner of Azkaban | 96159 | [96159-harry-potter-and-the-prisoner-of-azkaban.json](./96159-harry-potter-and-the-prisoner-of-azkaban.json) |
 | Harry Potter and the Prisoner of Azkaban: The Quest of Sir Cadogan | 266500 | [266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json](./266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json) |
@@ -3373,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Blade | 98764 | [98764-heavy-blade.json](./98764-heavy-blade.json) |
 | Heavy Blast: Mercenaries | 356127 | [356127-heavy-blast-mercenaries.json](./356127-heavy-blast-mercenaries.json) |
 | Heavy Boxing | 137860 | [137860-heavy-boxing.json](./137860-heavy-boxing.json) |
+| Heavy Bullets | 10402 | [10402-heavy-bullets.json](./10402-heavy-bullets.json) |
 | Heavy Burden | 207672 | [207672-heavy-burden.json](./207672-heavy-burden.json) |
 | Heavy Burden VR | 372459 | [372459-heavy-burden-vr.json](./372459-heavy-burden-vr.json) |
 | Heavy Car Battle: Demolition Derby | 276957 | [276957-heavy-car-battle-demolition-derby.json](./276957-heavy-car-battle-demolition-derby.json) |
@@ -8480,6 +8482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home From Work 3 | 213372 | [213372-home-from-work-3.json](./213372-home-from-work-3.json) |
 | Home Game 3 | 243397 | [243397-home-game-3.json](./243397-home-game-3.json) |
 | Home Garden Lulu | 394461 | [394461-home-garden-lulu.json](./394461-home-garden-lulu.json) |
+| Home Improvement: Power Tool Pursuit! | 11541 | [11541-home-improvement-power-tool-pursuit.json](./11541-home-improvement-power-tool-pursuit.json) |
 | Home Improvisation: Furniture Sandbox | 16301 | [16301-home-improvisation-furniture-sandbox.json](./16301-home-improvisation-furniture-sandbox.json) |
 | Home In Alien | 285566 | [285566-home-in-alien.json](./285566-home-in-alien.json) |
 | Home Invaders | 393975 | [393975-home-invaders.json](./393975-home-invaders.json) |
@@ -9842,6 +9845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Velocity X | 243199 | [243199-hot-wheels-velocity-x.json](./243199-hot-wheels-velocity-x.json) |
 | Hot Wheels Velocity X | 2653 | [2653-hot-wheels-velocity-x.json](./2653-hot-wheels-velocity-x.json) |
 | Hot Wheels Williams F1: Team Racer | 70177 | [70177-hot-wheels-williams-f1-team-racer.json](./70177-hot-wheels-williams-f1-team-racer.json) |
+| Hot Wheels World Race | 10626 | [10626-hot-wheels-world-race.json](./10626-hot-wheels-world-race.json) |
 | Hot Wheels World Race | 243147 | [243147-hot-wheels-world-race.json](./243147-hot-wheels-world-race.json) |
 | Hot Wheels: All Out | 49283 | [49283-hot-wheels-all-out.json](./49283-hot-wheels-all-out.json) |
 | Hot Wheels: Barbie Dream Camper | 262511 | [262511-hot-wheels-barbie-dream-camper.json](./262511-hot-wheels-barbie-dream-camper.json) |
