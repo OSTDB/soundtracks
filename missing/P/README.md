@@ -6563,6 +6563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinch 2 HD: Special Edition | 63316 | [63316-pinch-2-hd-special-edition.json](./63316-pinch-2-hd-special-edition.json) |
 | Pinch 50 Renpatsu!! | 292570 | [292570-pinch-50-renpatsu.json](./292570-pinch-50-renpatsu.json) |
 | Pinch of Fighting Girls | 211611 | [211611-pinch-of-fighting-girls.json](./211611-pinch-of-fighting-girls.json) |
+| Pinchcliffe Grand Prix | 54663 | [54663-pinchcliffe-grand-prix.json](./54663-pinchcliffe-grand-prix.json) |
 | Pinchcliffe Grand Prix: Anniversary Edition | 345121 | [345121-pinchcliffe-grand-prix-anniversary-edition.json](./345121-pinchcliffe-grand-prix-anniversary-edition.json) |
 | Pinched | 412786 | [412786-pinched.json](./412786-pinched.json) |
 | Pincremental | 138720 | [138720-pincremental.json](./138720-pincremental.json) |
