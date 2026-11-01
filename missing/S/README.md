@@ -9260,6 +9260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege the Day | 148782 | [148782-siege-the-day.json](./148782-siege-the-day.json) |
 | Siege Worlds | 218301 | [218301-siege-worlds.json](./218301-siege-worlds.json) |
 | Siege: The Card Game | 33895 | [33895-siege-the-card-game.json](./33895-siege-the-card-game.json) |
+| Siege: Titan Wars | 56185 | [56185-siege-titan-wars.json](./56185-siege-titan-wars.json) |
 | Siege: World War II | 233404 | [233404-siege-world-war-ii.json](./233404-siege-world-war-ii.json) |
 | Siege! | 28494 | [28494-siege.json](./28494-siege.json) |
 | Siegebreaker | 276967 | [276967-siegebreaker.json](./276967-siegebreaker.json) |
@@ -11024,6 +11025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketch, Share, Solve | 198164 | [198164-sketch-share-solve.json](./198164-sketch-share-solve.json) |
 | Sketch, Share, Solve: Video Games & Animals | 341154 | [341154-sketch-share-solve-video-games-and-animals.json](./341154-sketch-share-solve-video-games-and-animals.json) |
 | Sketch! Run! | 105886 | [105886-sketch-run.json](./105886-sketch-run.json) |
+| Sketcharama | 56188 | [56188-sketcharama.json](./56188-sketcharama.json) |
 | Sketchball | 418870 | [418870-sketchball.json](./418870-sketchball.json) |
 | Sketchbook | 359617 | [359617-sketchbook.json](./359617-sketchbook.json) |
 | Sketchbook Squad | 397778 | [397778-sketchbook-squad.json](./397778-sketchbook-squad.json) |
@@ -11850,6 +11852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Dunk Basketball | 276609 | [276609-slam-dunk-basketball.json](./276609-slam-dunk-basketball.json) |
 | Slam Dunk Basketball 2 | 259142 | [259142-slam-dunk-basketball-2.json](./259142-slam-dunk-basketball-2.json) |
 | Slam Dunk King | 61372 | [61372-slam-dunk-king.json](./61372-slam-dunk-king.json) |
+| Slam Dunk Real Basketball - 3D | 56206 | [56206-slam-dunk-real-basketball-3d.json](./56206-slam-dunk-real-basketball-3d.json) |
 | Slam Dunk Typing | 108768 | [108768-slam-dunk-typing.json](./108768-slam-dunk-typing.json) |
 | Slam Dunk: Dream Team - Shueisha Limited | 236652 | [236652-slam-dunk-dream-team-shueisha-limited.json](./236652-slam-dunk-dream-team-shueisha-limited.json) |
 | Slam Dunk: Gakeppuchi no Kesshou League | 78516 | [78516-slam-dunk-gakeppuchi-no-kesshou-league.json](./78516-slam-dunk-gakeppuchi-no-kesshou-league.json) |
@@ -22123,6 +22126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Phantom | 136240 | [136240-star-phantom.json](./136240-star-phantom.json) |
 | Star Pilot | 72613 | [72613-star-pilot.json](./72613-star-pilot.json) |
 | Star Pixie | 153938 | [153938-star-pixie.json](./153938-star-pixie.json) |
+| Star Plantation | 56213 | [56213-star-plantation.json](./56213-star-plantation.json) |
 | Star Platinum | 234564 | [234564-star-platinum.json](./234564-star-platinum.json) |
 | Star Point Explorer | 150563 | [150563-star-point-explorer.json](./150563-star-point-explorer.json) |
 | Star Police | 126962 | [126962-star-police.json](./126962-star-police.json) |
@@ -27289,6 +27293,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumikko Gurashi: Gakkou Seikatsu Hajimerun Desu | 118269 | [118269-sumikko-gurashi-gakkou-seikatsu-hajimerun-desu.json](./118269-sumikko-gurashi-gakkou-seikatsu-hajimerun-desu.json) |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | 136902 | [136902-sumikko-gurashi-koko-ga-ochitsukun-desu.json](./136902-sumikko-gurashi-koko-ga-ochitsukun-desu.json) |
 | Sumikko Gurashi: Koko, Doko Nandesu? | 136908 | [136908-sumikko-gurashi-koko-doko-nandesu.json](./136908-sumikko-gurashi-koko-doko-nandesu.json) |
+| Sumikko Gurashi: Koko, Dokonan Desu? | 56216 | [56216-sumikko-gurashi-koko-dokonan-desu.json](./56216-sumikko-gurashi-koko-dokonan-desu.json) |
+| Sumikko Gurashi: Mura wo Tsukurun Desu | 56219 | [56219-sumikko-gurashi-mura-wo-tsukurun-desu.json](./56219-sumikko-gurashi-mura-wo-tsukurun-desu.json) |
 | Sumikko Gurashi: Oheya no Sumi de Tabikibun Sugoroku | 142044 | [142044-sumikko-gurashi-oheya-no-sumi-de-tabikibun-sugoroku.json](./142044-sumikko-gurashi-oheya-no-sumi-de-tabikibun-sugoroku.json) |
 | Sumikko Gurashi: Omise Hajimerun Desu | 59889 | [59889-sumikko-gurashi-omise-hajimerun-desu.json](./59889-sumikko-gurashi-omise-hajimerun-desu.json) |
 | Sumikko Gurashi: Sumikko Park he Youkoso | 55138 | [55138-sumikko-gurashi-sumikko-park-he-youkoso.json](./55138-sumikko-gurashi-sumikko-park-he-youkoso.json) |
@@ -28487,6 +28493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Galaxy Squadron EX | 17991 | [17991-super-galaxy-squadron-ex.json](./17991-super-galaxy-squadron-ex.json) |
 | Super Galaxy Squadron EX Turbo | 27738 | [27738-super-galaxy-squadron-ex-turbo.json](./27738-super-galaxy-squadron-ex-turbo.json) |
 | Super Galdelic Hour | 43439 | [43439-super-galdelic-hour.json](./43439-super-galdelic-hour.json) |
+| Super Game Collection | 56223 | [56223-super-game-collection.json](./56223-super-game-collection.json) |
 | Super Game System Basic | 76193 | [76193-super-game-system-basic.json](./76193-super-game-system-basic.json) |
 | Super gamebear with its three girlfriends | 112997 | [112997-super-gamebear-with-its-three-girlfriends.json](./112997-super-gamebear-with-its-three-girlfriends.json) |
 | Super Gattai | 261940 | [261940-super-gattai.json](./261940-super-gattai.json) |
@@ -32741,6 +32748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sydney 2000 | 8333 | [8333-sydney-2000.json](./8333-sydney-2000.json) |
 | Sydney and the Cicadas in: Immanentize | 339426 | [339426-sydney-and-the-cicadas-in-immanentize.json](./339426-sydney-and-the-cicadas-in-immanentize.json) |
 | Sydney Hunter and the Curse of the Mayan | 59297 | [59297-sydney-hunter-and-the-curse-of-the-mayan.json](./59297-sydney-hunter-and-the-curse-of-the-mayan.json) |
+| Sydney Hunter and the Sacred Tribe | 56232 | [56232-sydney-hunter-and-the-sacred-tribe.json](./56232-sydney-hunter-and-the-sacred-tribe.json) |
 | Sydney Hunter and the Shrines of Peril | 59818 | [59818-sydney-hunter-and-the-shrines-of-peril.json](./59818-sydney-hunter-and-the-shrines-of-peril.json) |
 | Sydney Hunter Collection | 251715 | [251715-sydney-hunter-collection.json](./251715-sydney-hunter-collection.json) |
 | Sydney Shark | 275486 | [275486-sydney-shark.json](./275486-sydney-shark.json) |
