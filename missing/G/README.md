@@ -3136,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | German Road Racer Pro | 100731 | [100731-german-road-racer-pro.json](./100731-german-road-racer-pro.json) |
 | German Tantei-dan Maringumi: Himitsu Kichi wo Mamore! | 346031 | [346031-german-tantei-dan-maringumi-himitsu-kichi-wo-mamore.json](./346031-german-tantei-dan-maringumi-himitsu-kichi-wo-mamore.json) |
 | German Tanteidan Marin-gumi: Maruhi Jigomar Sousa File | 41335 | [41335-german-tanteidan-marin-gumi-maruhi-jigomar-sousa-file.json](./41335-german-tanteidan-marin-gumi-maruhi-jigomar-sousa-file.json) |
+| Germany 1985 | 23159 | [23159-germany-1985.json](./23159-germany-1985.json) |
 | Germany at War: Soviet Dawn | 171491 | [171491-germany-at-war-soviet-dawn.json](./171491-germany-at-war-soviet-dawn.json) |
 | Germany's Next Top Model | 82065 | [82065-germanys-next-top-model.json](./82065-germanys-next-top-model.json) |
 | Germany's Next Top Model 2011 | 65560 | [65560-germanys-next-top-model-2011.json](./65560-germanys-next-top-model-2011.json) |
@@ -3508,7 +3509,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost legend | 289251 | [289251-ghost-legend.json](./289251-ghost-legend.json) |
 | Ghost Light | 310020 | [310020-ghost-light.json](./310020-ghost-light.json) |
 | Ghost Mania | 64702 | [64702-ghost-mania.json](./64702-ghost-mania.json) |
+| Ghost Manor | 23207 | [23207-ghost-manor.json](./23207-ghost-manor.json) |
 | Ghost Manor | 79976 | [79976-ghost-manor.json](./79976-ghost-manor.json) |
+| Ghost Manor/Spike's Peak | 23206 | [23206-ghost-manor-spikes-peak.json](./23206-ghost-manor-spikes-peak.json) |
 | Ghost Mansion Party | 77126 | [77126-ghost-mansion-party.json](./77126-ghost-mansion-party.json) |
 | Ghost Marine Shooter Pro | 87536 | [87536-ghost-marine-shooter-pro.json](./87536-ghost-marine-shooter-pro.json) |
 | Ghost Marriage Matchmaking | 169112 | [169112-ghost-marriage-matchmaking.json](./169112-ghost-marriage-matchmaking.json) |
@@ -4782,6 +4785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory of Thrones: War of Conquest | 100785 | [100785-glory-of-thrones-war-of-conquest.json](./100785-glory-of-thrones-war-of-conquest.json) |
 | Glory of War | 209664 | [209664-glory-of-war.json](./209664-glory-of-war.json) |
 | Glory On Pluto | 336126 | [336126-glory-on-pluto.json](./336126-glory-on-pluto.json) |
+| Glory Quest | 23198 | [23198-glory-quest.json](./23198-glory-quest.json) |
 | Glory Room | 242393 | [242393-glory-room.json](./242393-glory-room.json) |
 | Glory to the Heroes | 240744 | [240744-glory-to-the-heroes.json](./240744-glory-to-the-heroes.json) |
 | Glory to the Heroes | 363972 | [363972-glory-to-the-heroes.json](./363972-glory-to-the-heroes.json) |
