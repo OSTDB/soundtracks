@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Doctrine | 69391 | [69391-panzer-doctrine.json](./69391-panzer-doctrine.json) |
 | Panzer Dragoon | 198643 | [198643-panzer-dragoon.json](./198643-panzer-dragoon.json) |
 | Panzer Dragoon | 199012 | [199012-panzer-dragoon.json](./199012-panzer-dragoon.json) |
+| Panzer Dragoon II Zwei | 1669 | [1669-panzer-dragoon-ii-zwei.json](./1669-panzer-dragoon-ii-zwei.json) |
 | Panzer Dragoon Mini | 1670 | [1670-panzer-dragoon-mini.json](./1670-panzer-dragoon-mini.json) |
 | Panzer Dragoon Voyage Record | 330321 | [330321-panzer-dragoon-voyage-record.json](./330321-panzer-dragoon-voyage-record.json) |
 | Panzer Dragoon Zwei: Remake | 113351 | [113351-panzer-dragoon-zwei-remake.json](./113351-panzer-dragoon-zwei-remake.json) |
@@ -14615,6 +14616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project EBHack | 331360 | [331360-project-ebhack.json](./331360-project-ebhack.json) |
 | Project Eclipse | 403580 | [403580-project-eclipse.json](./403580-project-eclipse.json) |
 | Project Eden | 109209 | [109209-project-eden.json](./109209-project-eden.json) |
+| Project Eden | 8941 | [8941-project-eden.json](./8941-project-eden.json) |
 | Project Eel | 408231 | [408231-project-eel.json](./408231-project-eel.json) |
 | Project Einherjar | 198356 | [198356-project-einherjar.json](./198356-project-einherjar.json) |
 | Project Elysium | 148261 | [148261-project-elysium.json](./148261-project-elysium.json) |
@@ -15716,6 +15718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychometric Personality Profiler | 292402 | [292402-psychometric-personality-profiler.json](./292402-psychometric-personality-profiler.json) |
 | Psychon | 266645 | [266645-psychon.json](./266645-psychon.json) |
 | Psychonauts 2: Motherlobe Edition | 207394 | [207394-psychonauts-2-motherlobe-edition.json](./207394-psychonauts-2-motherlobe-edition.json) |
+| Psychonauts in the Rhombus of Ruin | 15572 | [15572-psychonauts-in-the-rhombus-of-ruin.json](./15572-psychonauts-in-the-rhombus-of-ruin.json) |
 | Psychopath Hunt | 356201 | [356201-psychopath-hunt.json](./356201-psychopath-hunt.json) |
 | Psychopath Hunt Two | 290796 | [290796-psychopath-hunt-two.json](./290796-psychopath-hunt-two.json) |
 | Psychopath Mind Quiz: Unmask Their Dark Nature | 420663 | [420663-psychopath-mind-quiz-unmask-their-dark-nature.json](./420663-psychopath-mind-quiz-unmask-their-dark-nature.json) |
