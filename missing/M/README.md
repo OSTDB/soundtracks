@@ -2289,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majyo Crush | 296967 | [296967-majyo-crush.json](./296967-majyo-crush.json) |
 | Majyo no Nebaneba Note | 336940 | [336940-majyo-no-nebaneba-note.json](./336940-majyo-no-nebaneba-note.json) |
 | Maka Dash | 302046 | [302046-maka-dash.json](./302046-maka-dash.json) |
+| Maka Maka | 42305 | [42305-maka-maka.json](./42305-maka-maka.json) |
 | Makabaka | 256673 | [256673-makabaka.json](./256673-makabaka.json) |
 | Makai Agito | 337589 | [337589-makai-agito.json](./337589-makai-agito.json) |
 | Makai Fukkatsu | 77577 | [77577-makai-fukkatsu.json](./77577-makai-fukkatsu.json) |
@@ -3396,6 +3397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi: Partners in Time | 3364 | [3364-mario-and-luigi-partners-in-time.json](./3364-mario-and-luigi-partners-in-time.json) |
 | Mario & Luigi: Power Blast | 313327 | [313327-mario-and-luigi-power-blast.json](./313327-mario-and-luigi-power-blast.json) |
 | Mario & Luigi: Star Emblem | 418730 | [418730-mario-and-luigi-star-emblem.json](./418730-mario-and-luigi-star-emblem.json) |
+| Mario & Luigi: Starlight Island Adventure | 42319 | [42319-mario-and-luigi-starlight-island-adventure.json](./42319-mario-and-luigi-starlight-island-adventure.json) |
 | Mario & Luigi: Superstar Saga | 270313 | [270313-mario-and-luigi-superstar-saga.json](./270313-mario-and-luigi-superstar-saga.json) |
 | Mario & Luigi: Superstar Saga | 3351 | [3351-mario-and-luigi-superstar-saga.json](./3351-mario-and-luigi-superstar-saga.json) |
 | Mario & Luigi: Superstar Saga + Bowser's Minions | 37151 | [37151-mario-and-luigi-superstar-saga-bowsers-minions.json](./37151-mario-and-luigi-superstar-saga-bowsers-minions.json) |
@@ -10656,6 +10658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikuri Sacrament | 314810 | [314810-mikuri-sacrament.json](./314810-mikuri-sacrament.json) |
 | Mil Rosas | 154849 | [154849-mil-rosas.json](./154849-mil-rosas.json) |
 | Mila & Zug | 390496 | [390496-mila-and-zug.json](./390496-mila-and-zug.json) |
+| Milandra | 42306 | [42306-milandra.json](./42306-milandra.json) |
 | Milaneseria | 365300 | [365300-milaneseria.json](./365300-milaneseria.json) |
 | Milano no Arbeit Collection | 64930 | [64930-milano-no-arbeit-collection.json](./64930-milano-no-arbeit-collection.json) |
 | Milano’s Odd Job Collection | 347902 | [347902-milano-s-odd-job-collection.json](./347902-milano-s-odd-job-collection.json) |
