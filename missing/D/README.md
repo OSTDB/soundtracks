@@ -1761,9 +1761,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Soul.Ace 2 | 341843 | [341843-dark-soul-ace-2.json](./341843-dark-soul-ace-2.json) |
 | Dark Souls Ascended | 194889 | [194889-dark-souls-ascended.json](./194889-dark-souls-ascended.json) |
 | Dark Souls II: Black Armor Edition | 222664 | [222664-dark-souls-ii-black-armor-edition.json](./222664-dark-souls-ii-black-armor-edition.json) |
+| Dark Souls II: Collector's Edition | 42988 | [42988-dark-souls-ii-collectors-edition.json](./42988-dark-souls-ii-collectors-edition.json) |
 | Dark Souls II: Crown of the Old Iron King | 22502 | [22502-dark-souls-ii-crown-of-the-old-iron-king.json](./22502-dark-souls-ii-crown-of-the-old-iron-king.json) |
 | Dark Souls II: Crown of the Sunken King | 19924 | [19924-dark-souls-ii-crown-of-the-sunken-king.json](./19924-dark-souls-ii-crown-of-the-sunken-king.json) |
 | Dark Souls II: Seeker of Fire | 238899 | [238899-dark-souls-ii-seeker-of-fire.json](./238899-dark-souls-ii-seeker-of-fire.json) |
+| Dark Souls II: Webhallen Edition | 42996 | [42996-dark-souls-ii-webhallen-edition.json](./42996-dark-souls-ii-webhallen-edition.json) |
 | Dark Souls III: Ashes of Ariandel | 23158 | [23158-dark-souls-iii-ashes-of-ariandel.json](./23158-dark-souls-iii-ashes-of-ariandel.json) |
 | Dark Souls III: Born From the Ashes | 317520 | [317520-dark-souls-iii-born-from-the-ashes.json](./317520-dark-souls-iii-born-from-the-ashes.json) |
 | Dark Souls III: Day One Edition | 89841 | [89841-dark-souls-iii-day-one-edition.json](./89841-dark-souls-iii-day-one-edition.json) |
@@ -2064,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkside | 78657 | [78657-darkside.json](./78657-darkside.json) |
 | Darkside Adventures: A Game with a Kitty 2 | 313564 | [313564-darkside-adventures-a-game-with-a-kitty-2.json](./313564-darkside-adventures-a-game-with-a-kitty-2.json) |
 | Darksiders 4 | 358770 | [358770-darksiders-4.json](./358770-darksiders-4.json) |
+| Darksiders Collection | 43014 | [43014-darksiders-collection.json](./43014-darksiders-collection.json) |
 | Darksiders Genesis | 119244 | [119244-darksiders-genesis.json](./119244-darksiders-genesis.json) |
 | Darksiders II: Argul's Tomb | 135000 | [135000-darksiders-ii-arguls-tomb.json](./135000-darksiders-ii-arguls-tomb.json) |
 | Darksiders II: Deathinitive Edition | 20048 | [20048-darksiders-ii-deathinitive-edition.json](./20048-darksiders-ii-deathinitive-edition.json) |
@@ -3352,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island: Riptide | 1833 | [1833-dead-island-riptide.json](./1833-dead-island-riptide.json) |
 | Dead Island: Riptide - Complete Edition | 99809 | [99809-dead-island-riptide-complete-edition.json](./99809-dead-island-riptide-complete-edition.json) |
 | Dead Island: Riptide - Definitive Edition | 24311 | [24311-dead-island-riptide-definitive-edition.json](./24311-dead-island-riptide-definitive-edition.json) |
+| Dead Island: Riptide - Special Edition | 42966 | [42966-dead-island-riptide-special-edition.json](./42966-dead-island-riptide-special-edition.json) |
 | Dead Island: Ryder White | 22874 | [22874-dead-island-ryder-white.json](./22874-dead-island-ryder-white.json) |
 | Dead Island: Survivors | 104961 | [104961-dead-island-survivors.json](./104961-dead-island-survivors.json) |
 | Dead Knight | 87859 | [87859-dead-knight.json](./87859-dead-knight.json) |
@@ -5324,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defiance | 1973 | [1973-defiance.json](./1973-defiance.json) |
 | Defiance & Mr. Good Looking | 140856 | [140856-defiance-and-mr-good-looking.json](./140856-defiance-and-mr-good-looking.json) |
 | Defiance 2050 | 89554 | [89554-defiance-2050.json](./89554-defiance-2050.json) |
+| Defiance: Collector's Edition | 43021 | [43021-defiance-collectors-edition.json](./43021-defiance-collectors-edition.json) |
 | Defiant Ascent | 375439 | [375439-defiant-ascent.json](./375439-defiant-ascent.json) |
 | Deficiency | 278161 | [278161-deficiency.json](./278161-deficiency.json) |
 | Deficit | 179073 | [179073-deficit.json](./179073-deficit.json) |
@@ -6030,6 +6035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Rise: War for the Deep | 99656 | [99656-demons-rise-war-for-the-deep.json](./99656-demons-rise-war-for-the-deep.json) |
 | Demon's Souls: Black Phantom Edition | 23363 | [23363-demons-souls-black-phantom-edition.json](./23363-demons-souls-black-phantom-edition.json) |
 | Demon's Souls: Boletarian Royalty Armor | 344308 | [344308-demons-souls-boletarian-royalty-armor.json](./344308-demons-souls-boletarian-royalty-armor.json) |
+| Demon's Souls: Deluxe Edition | 43010 | [43010-demons-souls-deluxe-edition.json](./43010-demons-souls-deluxe-edition.json) |
 | Demon's Souls: Digital Deluxe Edition | 336469 | [336469-demons-souls-digital-deluxe-edition.json](./336469-demons-souls-digital-deluxe-edition.json) |
 | Demon's Souls: Red-Eye Knight Armor | 344306 | [344306-demons-souls-red-eye-knight-armor.json](./344306-demons-souls-red-eye-knight-armor.json) |
 | Demon's Sword | 127653 | [127653-demons-sword.json](./127653-demons-sword.json) |
