@@ -2138,6 +2138,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learning With the PooYoos: Episode 3 | 66008 | [66008-learning-with-the-pooyoos-episode-3.json](./66008-learning-with-the-pooyoos-episode-3.json) |
 | Learnmoor: Kids Academy | 394350 | [394350-learnmoor-kids-academy.json](./394350-learnmoor-kids-academy.json) |
 | Leas: City of the Sun | 334477 | [334477-leas-city-of-the-sun.json](./334477-leas-city-of-the-sun.json) |
+| Leashed Soul | 38038 | [38038-leashed-soul.json](./38038-leashed-soul.json) |
+| Leashed Soul - Survive & Rebuild Beydo Block World | 38046 | [38046-leashed-soul-survive-and-rebuild-beydo-block-world.json](./38046-leashed-soul-survive-and-rebuild-beydo-block-world.json) |
+| Leashed Soul: Survive & Rebuild Beydo Block World | 38044 | [38044-leashed-soul-survive-and-rebuild-beydo-block-world.json](./38044-leashed-soul-survive-and-rebuild-beydo-block-world.json) |
 | Leather | 105814 | [105814-leather.json](./105814-leather.json) |
 | Leather Goddesses of Phobos | 12174 | [12174-leather-goddesses-of-phobos.json](./12174-leather-goddesses-of-phobos.json) |
 | Leather Goddesses of Phobos 2: Gas Pump Girls Meet the Pulsating Inconvenience from Planet X! | 14558 | [14558-leather-goddesses-of-phobos-2-gas-pump-girls-meet-the-pulsating-inconvenience-from-planet-x.json](./14558-leather-goddesses-of-phobos-2-gas-pump-girls-meet-the-pulsating-inconvenience-from-planet-x.json) |
