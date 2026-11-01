@@ -10792,6 +10792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humpty's Scramble | 144139 | [144139-humptys-scramble.json](./144139-humptys-scramble.json) |
 | Humvee Assault: War 3D FPS | 268328 | [268328-humvee-assault-war-3d-fps.json](./268328-humvee-assault-war-3d-fps.json) |
 | Hunahpu Quest. Mechanoid | 81903 | [81903-hunahpu-quest-mechanoid.json](./81903-hunahpu-quest-mechanoid.json) |
+| Hunahpu: Way of the Warrior | 29423 | [29423-hunahpu-way-of-the-warrior.json](./29423-hunahpu-way-of-the-warrior.json) |
 | Hunchback at the Olympics | 70105 | [70105-hunchback-at-the-olympics.json](./70105-hunchback-at-the-olympics.json) |
 | Hunchback: The Adventure | 26390 | [26390-hunchback-the-adventure.json](./26390-hunchback-the-adventure.json) |
 | Hunchback's Dungeon | 258066 | [258066-hunchbacks-dungeon.json](./258066-hunchbacks-dungeon.json) |
