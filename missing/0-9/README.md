@@ -2053,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Basketball Champs Elite | 101467 | [101467-3d-basketball-champs-elite.json](./101467-3d-basketball-champs-elite.json) |
 | 3D Bat Attack | 75231 | [75231-3d-bat-attack.json](./75231-3d-bat-attack.json) |
 | 3D Battle Zone | 67681 | [67681-3d-battle-zone.json](./67681-3d-battle-zone.json) |
+| 3D Beee | 60722 | [60722-3d-beee.json](./60722-3d-beee.json) |
 | 3D Billiards & 3D MiniGolf Bundle | 99724 | [99724-3d-billiards-and-3d-minigolf-bundle.json](./99724-3d-billiards-and-3d-minigolf-bundle.json) |
 | 3D Blade Skating | 217723 | [217723-3d-blade-skating.json](./217723-3d-blade-skating.json) |
 | 3D Blitz | 245388 | [245388-3d-blitz.json](./245388-3d-blitz.json) |
