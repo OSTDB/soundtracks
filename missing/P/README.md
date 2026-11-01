@@ -10228,6 +10228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Comet | 334017 | [334017-pokemon-comet.json](./334017-pokemon-comet.json) |
 | Pokémon Compass | 329417 | [329417-pokemon-compass.json](./329417-pokemon-compass.json) |
 | Pokémon Conquerors | 314727 | [314727-pokemon-conquerors.json](./314727-pokemon-conquerors.json) |
+| Pokémon Conquest | 2288 | [2288-pokemon-conquest.json](./2288-pokemon-conquest.json) |
 | Pokémon Consonancia | 314716 | [314716-pokemon-consonancia.json](./314716-pokemon-consonancia.json) |
 | Pokémon Cope | 337411 | [337411-pokemon-cope.json](./337411-pokemon-cope.json) |
 | Pokémon Coral Version | 234552 | [234552-pokemon-coral-version.json](./234552-pokemon-coral-version.json) |
@@ -10422,6 +10423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Explorers of Skies | 294796 | [294796-pokemon-mystery-dungeon-explorers-of-skies.json](./294796-pokemon-mystery-dungeon-explorers-of-skies.json) |
 | Pokémon Mystery Dungeon: Explorers of Sky | 2323 | [2323-pokemon-mystery-dungeon-explorers-of-sky.json](./2323-pokemon-mystery-dungeon-explorers-of-sky.json) |
 | Pokémon Mystery Dungeon: Explorers of the Spirit | 194263 | [194263-pokemon-mystery-dungeon-explorers-of-the-spirit.json](./194263-pokemon-mystery-dungeon-explorers-of-the-spirit.json) |
+| Pokémon Mystery Dungeon: Explorers of Time | 2321 | [2321-pokemon-mystery-dungeon-explorers-of-time.json](./2321-pokemon-mystery-dungeon-explorers-of-time.json) |
 | Pokémon Mystery Dungeon: Flames of Bravery | 340960 | [340960-pokemon-mystery-dungeon-flames-of-bravery.json](./340960-pokemon-mystery-dungeon-flames-of-bravery.json) |
 | Pokémon Mystery Dungeon: Gates to Infinity | 4566 | [4566-pokemon-mystery-dungeon-gates-to-infinity.json](./4566-pokemon-mystery-dungeon-gates-to-infinity.json) |
 | Pokémon Mystery Dungeon: Origins | 365792 | [365792-pokemon-mystery-dungeon-origins.json](./365792-pokemon-mystery-dungeon-origins.json) |
