@@ -1607,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperboy: Special Delivery | 55885 | [55885-paperboy-special-delivery.json](./55885-paperboy-special-delivery.json) |
 | PaperCat | 59224 | [59224-papercat.json](./59224-papercat.json) |
 | Papercraft | 107418 | [107418-papercraft.json](./107418-papercraft.json) |
+| Papercraft | 51647 | [51647-papercraft.json](./51647-papercraft.json) |
 | Papercraft Tactics | 345092 | [345092-papercraft-tactics.json](./345092-papercraft-tactics.json) |
 | Papercut Art Gallery-Growth | 297802 | [297802-papercut-art-gallery-growth.json](./297802-papercut-art-gallery-growth.json) |
 | Papercut Art Gallery: Nature | 292854 | [292854-papercut-art-gallery-nature.json](./292854-papercut-art-gallery-nature.json) |
@@ -16441,6 +16442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pushing Through... | 107520 | [107520-pushing-through.json](./107520-pushing-through.json) |
 | Pushle Deluxe | 328896 | [328896-pushle-deluxe.json](./328896-pushle-deluxe.json) |
 | Pushman | 247313 | [247313-pushman.json](./247313-pushman.json) |
+| Pushmasters | 51669 | [51669-pushmasters.json](./51669-pushmasters.json) |
 | Pushmo World | 19925 | [19925-pushmo-world.json](./19925-pushmo-world.json) |
 | Pushover | 11627 | [11627-pushover.json](./11627-pushover.json) |
 | Pushover | 327781 | [327781-pushover.json](./327781-pushover.json) |
