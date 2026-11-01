@@ -5491,6 +5491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reticent Retribution | 167551 | [167551-reticent-retribution.json](./167551-reticent-retribution.json) |
 | Reticle Star | 210097 | [210097-reticle-star.json](./210097-reticle-star.json) |
 | Retimed | 76921 | [76921-retimed.json](./76921-retimed.json) |
+| Retimo Adventure | 38674 | [38674-retimo-adventure.json](./38674-retimo-adventure.json) |
 | Retired | 389934 | [389934-retired.json](./389934-retired.json) |
 | Retired Men's Nude Beach Volleyball League | 163452 | [163452-retired-mens-nude-beach-volleyball-league.json](./163452-retired-mens-nude-beach-volleyball-league.json) |
 | Retirement Home Tower Defense | 340569 | [340569-retirement-home-tower-defense.json](./340569-retirement-home-tower-defense.json) |
