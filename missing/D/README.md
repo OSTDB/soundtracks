@@ -14313,6 +14313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakensang Online | 8772 | [8772-drakensang-online.json](./8772-drakensang-online.json) |
 | Drakensang: The River of Time | 8769 | [8769-drakensang-the-river-of-time.json](./8769-drakensang-the-river-of-time.json) |
 | Drakerider | 342797 | [342797-drakerider.json](./342797-drakerider.json) |
+| Drakerz: Confrontation | 16876 | [16876-drakerz-confrontation.json](./16876-drakerz-confrontation.json) |
 | Drakheir | 279389 | [279389-drakheir.json](./279389-drakheir.json) |
 | Drakkar | 13611 | [13611-drakkar.json](./13611-drakkar.json) |
 | Drakkar Crew | 107886 | [107886-drakkar-crew.json](./107886-drakkar-crew.json) |
