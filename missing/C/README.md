@@ -16785,6 +16785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
 | Cruelty | 304249 | [304249-cruelty.json](./304249-cruelty.json) |
 | Cruelty | 402295 | [402295-cruelty.json](./402295-cruelty.json) |
+| Cruelty Squad | 142076 | [142076-cruelty-squad.json](./142076-cruelty-squad.json) |
 | Cruentis the Murderer Vol.1 | 59576 | [59576-cruentis-the-murderer-vol-1.json](./59576-cruentis-the-murderer-vol-1.json) |
 | Cruft | 327893 | [327893-cruft.json](./327893-cruft.json) |
 | Cruis'n | 4779 | [4779-cruisn.json](./4779-cruisn.json) |
@@ -17515,6 +17516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Droid Saves the Galaxy | 327774 | [327774-cube-droid-saves-the-galaxy.json](./327774-cube-droid-saves-the-galaxy.json) |
 | Cube Escape | 253984 | [253984-cube-escape.json](./253984-cube-escape.json) |
 | Cube Escape Collection | 133416 | [133416-cube-escape-collection.json](./133416-cube-escape-collection.json) |
+| Cube Escape: Arles | 75125 | [75125-cube-escape-arles.json](./75125-cube-escape-arles.json) |
 | Cube Escape: Birthday | 75129 | [75129-cube-escape-birthday.json](./75129-cube-escape-birthday.json) |
 | Cube Escape: Case 23 | 75127 | [75127-cube-escape-case-23.json](./75127-cube-escape-case-23.json) |
 | Cube Escape: Harvey's Box | 75126 | [75126-cube-escape-harveys-box.json](./75126-cube-escape-harveys-box.json) |
@@ -18804,6 +18806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Seraph | 140447 | [140447-cyber-seraph.json](./140447-cyber-seraph.json) |
 | Cyber Serpent | 276681 | [276681-cyber-serpent.json](./276681-cyber-serpent.json) |
 | Cyber Sex | 294054 | [294054-cyber-sex.json](./294054-cyber-sex.json) |
+| Cyber Shadow | 116650 | [116650-cyber-shadow.json](./116650-cyber-shadow.json) |
 | Cyber Shard Clicker | 374205 | [374205-cyber-shard-clicker.json](./374205-cyber-shard-clicker.json) |
 | Cyber Skirmish | 226517 | [226517-cyber-skirmish.json](./226517-cyber-skirmish.json) |
 | Cyber Slayer | 219672 | [219672-cyber-slayer.json](./219672-cyber-slayer.json) |
