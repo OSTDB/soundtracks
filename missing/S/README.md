@@ -2864,6 +2864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolyard Sports | 206655 | [206655-schoolyard-sports.json](./206655-schoolyard-sports.json) |
 | Schreckenstein | 91582 | [91582-schreckenstein.json](./91582-schreckenstein.json) |
 | Schrödinger no Neko: Die Katze von Schrödinger | 230513 | [230513-schrodinger-no-neko-die-katze-von-schrodinger.json](./230513-schrodinger-no-neko-die-katze-von-schrodinger.json) |
+| Schrödinger's Cat and the Raiders of the Lost Quark | 10815 | [10815-schrodingers-cat-and-the-raiders-of-the-lost-quark.json](./10815-schrodingers-cat-and-the-raiders-of-the-lost-quark.json) |
 | Schrodinger's Cat Burglar | 270929 | [270929-schrodingers-cat-burglar.json](./270929-schrodingers-cat-burglar.json) |
 | Schrodinger's cat simulator | 127819 | [127819-schrodingers-cat-simulator.json](./127819-schrodingers-cat-simulator.json) |
 | Schrodinger's Catgirl | 158341 | [158341-schrodingers-catgirl.json](./158341-schrodingers-catgirl.json) |
@@ -9678,6 +9679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: Orphan | 59007 | [59007-silent-hill-orphan.json](./59007-silent-hill-orphan.json) |
 | Silent Hill: Play Novel | 77257 | [77257-silent-hill-play-novel.json](./77257-silent-hill-play-novel.json) |
 | Silent Hill: Shattered Memories | 486 | [486-silent-hill-shattered-memories.json](./486-silent-hill-shattered-memories.json) |
+| Silent Hill: The Arcade | 12075 | [12075-silent-hill-the-arcade.json](./12075-silent-hill-the-arcade.json) |
 | Silent Hill: The Arcade | 324910 | [324910-silent-hill-the-arcade.json](./324910-silent-hill-the-arcade.json) |
 | Silent Hill: The Gallows | 275627 | [275627-silent-hill-the-gallows.json](./275627-silent-hill-the-gallows.json) |
 | Silent Hill: Townfall | 222342 | [222342-silent-hill-townfall.json](./222342-silent-hill-townfall.json) |
@@ -15953,6 +15955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 3000 | 265226 | [265226-sonic-3000.json](./265226-sonic-3000.json) |
 | Sonic 360º | 326799 | [326799-sonic-360o.json](./326799-sonic-360o.json) |
 | Sonic 3D | 330796 | [330796-sonic-3d.json](./330796-sonic-3d.json) |
+| Sonic 3D Blast | 202966 | [202966-sonic-3d-blast.json](./202966-sonic-3d-blast.json) |
 | Sonic 3D Blast | 202967 | [202967-sonic-3d-blast.json](./202967-sonic-3d-blast.json) |
 | Sonic 3D Blast | 9476 | [9476-sonic-3d-blast.json](./9476-sonic-3d-blast.json) |
 | Sonic 3D Blast: Director's Cut | 129174 | [129174-sonic-3d-blast-directors-cut.json](./129174-sonic-3d-blast-directors-cut.json) |
@@ -19794,6 +19797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellForce 3: Versus Edition | 227191 | [227191-spellforce-3-versus-edition.json](./227191-spellforce-3-versus-edition.json) |
 | SpellForce III: Reforced - Complete Edition | 196442 | [196442-spellforce-iii-reforced-complete-edition.json](./196442-spellforce-iii-reforced-complete-edition.json) |
 | SpellForce: Complete Collection | 53651 | [53651-spellforce-complete-collection.json](./53651-spellforce-complete-collection.json) |
+| SpellForce: Conquest of Eo | 204631 | [204631-spellforce-conquest-of-eo.json](./204631-spellforce-conquest-of-eo.json) |
 | Spellforce: Conquest of Eo - Children of Nor | 343445 | [343445-spellforce-conquest-of-eo-children-of-nor.json](./343445-spellforce-conquest-of-eo-children-of-nor.json) |
 | SpellForce: Conquest of Eo - Weaver's Realms | 318472 | [318472-spellforce-conquest-of-eo-weavers-realms.json](./318472-spellforce-conquest-of-eo-weavers-realms.json) |
 | SpellForce: Heroes & Magic | 118373 | [118373-spellforce-heroes-and-magic.json](./118373-spellforce-heroes-and-magic.json) |
