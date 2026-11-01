@@ -2041,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn. Legacy | 403688 | [403688-saturn-legacy.json](./403688-saturn-legacy.json) |
 | Saturn's Rising Temperature | 225718 | [225718-saturns-rising-temperature.json](./225718-saturns-rising-temperature.json) |
 | Saturnalia | 131564 | [131564-saturnalia.json](./131564-saturnalia.json) |
+| Saturnalia | 142101 | [142101-saturnalia.json](./142101-saturnalia.json) |
 | Saturnalia: Deluxe Edition | 227182 | [227182-saturnalia-deluxe-edition.json](./227182-saturnalia-deluxe-edition.json) |
 | Saturnia | 267993 | [267993-saturnia.json](./267993-saturnia.json) |
 | Saturnine | 110127 | [110127-saturnine.json](./110127-saturnine.json) |
@@ -7230,6 +7231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheepless Nights | 135082 | [135082-sheepless-nights.json](./135082-sheepless-nights.json) |
 | Sheeplings | 203522 | [203522-sheeplings.json](./203522-sheeplings.json) |
 | Sheeplings | 25508 | [25508-sheeplings.json](./25508-sheeplings.json) |
+| Sheepo | 132631 | [132631-sheepo.json](./132631-sheepo.json) |
 | Sheepong | 268841 | [268841-sheepong.json](./268841-sheepong.json) |
 | Sheeps | 391303 | [391303-sheeps.json](./391303-sheeps.json) |
 | Sheepwith | 114726 | [114726-sheepwith.json](./114726-sheepwith.json) |
@@ -10509,6 +10511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singmetosleep | 392762 | [392762-singmetosleep.json](./392762-singmetosleep.json) |
 | SingOn | 61962 | [61962-singon.json](./61962-singon.json) |
 | SingSpace | 128458 | [128458-singspace.json](./128458-singspace.json) |
+| SingStar | 15091 | [15091-singstar.json](./15091-singstar.json) |
 | SingStar | 15180 | [15180-singstar.json](./15180-singstar.json) |
 | Singstar Aprés-Ski Party | 136394 | [136394-singstar-apres-ski-party.json](./136394-singstar-apres-ski-party.json) |
 | SingStar Bollywood | 20769 | [20769-singstar-bollywood.json](./20769-singstar-bollywood.json) |
@@ -28062,6 +28065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunless Sea: Zubmariner Edition | 218845 | [218845-sunless-sea-zubmariner-edition.json](./218845-sunless-sea-zubmariner-edition.json) |
 | Sunless Skies | 24427 | [24427-sunless-skies.json](./24427-sunless-skies.json) |
 | Sunless Skies: Sovereign Edition | 124994 | [124994-sunless-skies-sovereign-edition.json](./124994-sunless-skies-sovereign-edition.json) |
+| Sunlight | 142217 | [142217-sunlight.json](./142217-sunlight.json) |
 | Sunlight In A Tin | 188602 | [188602-sunlight-in-a-tin.json](./188602-sunlight-in-a-tin.json) |
 | Sunlit | 229593 | [229593-sunlit.json](./229593-sunlit.json) |
 | Sunlit Trail: Complete Edition | 410674 | [410674-sunlit-trail-complete-edition.json](./410674-sunlit-trail-complete-edition.json) |
