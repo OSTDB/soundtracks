@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dark World: The Glowing City | 126337 | [126337-a-dark-world-the-glowing-city.json](./126337-a-dark-world-the-glowing-city.json) |
 | A Date for the Ages | 260648 | [260648-a-date-for-the-ages.json](./260648-a-date-for-the-ages.json) |
 | A Date With Chester 2 | 383186 | [383186-a-date-with-chester-2.json](./383186-a-date-with-chester-2.json) |
+| A Date with Death | 253544 | [253544-a-date-with-death.json](./253544-a-date-with-death.json) |
 | A Date with Death: Beyond the Bet | 288917 | [288917-a-date-with-death-beyond-the-bet.json](./288917-a-date-with-death-beyond-the-bet.json) |
 | A Date with Death: Expansion DLC | 276859 | [276859-a-date-with-death-expansion-dlc.json](./276859-a-date-with-death-expansion-dlc.json) |
 | A Date With Tonpa | 179865 | [179865-a-date-with-tonpa.json](./179865-a-date-with-tonpa.json) |
@@ -352,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Firefighter's Boxing Matches | 179136 | [179136-a-firefighters-boxing-matches.json](./179136-a-firefighters-boxing-matches.json) |
 | A Firelit Room | 196619 | [196619-a-firelit-room.json](./196619-a-firelit-room.json) |
 | A Firm Handshake | 176349 | [176349-a-firm-handshake.json](./176349-a-firm-handshake.json) |
+| A Fisherman's Tale | 106992 | [106992-a-fishermans-tale.json](./106992-a-fishermans-tale.json) |
 | A Fisherman's Tale 2 | 239554 | [239554-a-fishermans-tale-2.json](./239554-a-fishermans-tale-2.json) |
 | A Fishy RPG | 181101 | [181101-a-fishy-rpg.json](./181101-a-fishy-rpg.json) |
 | A Fistful of Yankees | 301686 | [301686-a-fistful-of-yankees.json](./301686-a-fistful-of-yankees.json) |
@@ -6469,6 +6471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien: Isolation - Corporate Lockdown | 15459 | [15459-alien-isolation-corporate-lockdown.json](./15459-alien-isolation-corporate-lockdown.json) |
 | Alien: Isolation - Lost Contact | 15555 | [15555-alien-isolation-lost-contact.json](./15555-alien-isolation-lost-contact.json) |
 | Alien: Isolation - Safe Haven | 15552 | [15552-alien-isolation-safe-haven.json](./15552-alien-isolation-safe-haven.json) |
+| Alien: Isolation - The Collection | 82374 | [82374-alien-isolation-the-collection.json](./82374-alien-isolation-the-collection.json) |
 | Alien: Isolation - The Trigger | 15554 | [15554-alien-isolation-the-trigger.json](./15554-alien-isolation-the-trigger.json) |
 | Alien: Isolation - Trauma | 15553 | [15553-alien-isolation-trauma.json](./15553-alien-isolation-trauma.json) |
 | Alien: Isolation 2 | 319082 | [319082-alien-isolation-2.json](./319082-alien-isolation-2.json) |
@@ -10769,6 +10772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo Justice: Ace Attorney | 253010 | [253010-apollo-justice-ace-attorney.json](./253010-apollo-justice-ace-attorney.json) |
 | Apollo Justice: Ace Attorney - Appeal to Truth | 302595 | [302595-apollo-justice-ace-attorney-appeal-to-truth.json](./302595-apollo-justice-ace-attorney-appeal-to-truth.json) |
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
+| Apollo Justice: Ace Attorney Trilogy | 252997 | [252997-apollo-justice-ace-attorney-trilogy.json](./252997-apollo-justice-ace-attorney-trilogy.json) |
 | Apollo Justice: Turnabout Substitution | 143498 | [143498-apollo-justice-turnabout-substitution.json](./143498-apollo-justice-turnabout-substitution.json) |
 | Apollo LM | 174288 | [174288-apollo-lm.json](./174288-apollo-lm.json) |
 | Apollo Lunar Mission | 158571 | [158571-apollo-lunar-mission.json](./158571-apollo-lunar-mission.json) |
@@ -14027,6 +14031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin’s Creed Black Flag Resynced: Collector’s Edition | 412816 | [412816-assassin-s-creed-black-flag-resynced-collector-s-edition.json](./412816-assassin-s-creed-black-flag-resynced-collector-s-edition.json) |
 | Assassin's Creed Black Flag Resynced: Deluxe Edition | 409613 | [409613-assassins-creed-black-flag-resynced-deluxe-edition.json](./409613-assassins-creed-black-flag-resynced-deluxe-edition.json) |
 | Assassin's Creed Brotherhood | 221823 | [221823-assassins-creed-brotherhood.json](./221823-assassins-creed-brotherhood.json) |
+| Assassin's Creed Brotherhood: Copernicus Conspiracy | 64133 | [64133-assassins-creed-brotherhood-copernicus-conspiracy.json](./64133-assassins-creed-brotherhood-copernicus-conspiracy.json) |
 | Assassin's Creed Brotherhood: The Da Vinci Disappearance | 8216 | [8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json](./8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json) |
 | Assassin's Creed Bundle: Assassin's Creed Valhalla, Assassin's Creed Odyssey, and Assassin's Creed Origins | 164698 | [164698-assassins-creed-bundle-assassins-creed-valhalla-assassins-creed-odyssey-and-assassins-creed-origins.json](./164698-assassins-creed-bundle-assassins-creed-valhalla-assassins-creed-odyssey-and-assassins-creed-origins.json) |
 | Assassin's Creed Chronicles: China | 8223 | [8223-assassins-creed-chronicles-china.json](./8223-assassins-creed-chronicles-china.json) |
