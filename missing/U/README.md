@@ -2573,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unromantic Demon Queen | 303306 | [303306-unromantic-demon-queen.json](./303306-unromantic-demon-queen.json) |
 | Unrooted | 204366 | [204366-unrooted.json](./204366-unrooted.json) |
 | Unrooted | 317712 | [317712-unrooted.json](./317712-unrooted.json) |
+| Unruly Ghouls | 31452 | [31452-unruly-ghouls.json](./31452-unruly-ghouls.json) |
 | Unruly Octopus | 193789 | [193789-unruly-octopus.json](./193789-unruly-octopus.json) |
 | Unruly Tennis | 228121 | [228121-unruly-tennis.json](./228121-unruly-tennis.json) |
 | Unrush | 223420 | [223420-unrush.json](./223420-unrush.json) |
