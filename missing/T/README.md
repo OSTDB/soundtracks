@@ -1635,6 +1635,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tandem: A Tale of Shadows | 151134 | [151134-tandem-a-tale-of-shadows.json](./151134-tandem-a-tale-of-shadows.json) |
 | Tandis | 144176 | [144176-tandis.json](./144176-tandis.json) |
 | Tane o Maku Tori | 20174 | [20174-tane-o-maku-tori.json](./20174-tane-o-maku-tori.json) |
+| Tanetsuke de Hame Ana Kagu ni Naru Namaiki Ojou-sama-tachi: Joshi Ryou o Harama Seifuku! Shirokujichuu Gokujou Mesu Niku ni Tsutsumarete Zaajiru Suteru Dake no Seikatsu | 59024 | [59024-tanetsuke-de-hame-ana-kagu-ni-naru-namaiki-ojou-sama-tachi-joshi-ryou-o-harama-seifuku-shirokujichuu-gokujou-mesu-niku-ni-tsutsumarete-zaajiru-suteru-dake-no-seikatsu.json](./59024-tanetsuke-de-hame-ana-kagu-ni-naru-namaiki-ojou-sama-tachi-joshi-ryou-o-harama-seifuku-shirokujichuu-gokujou-mesu-niku-ni-tsutsumarete-zaajiru-suteru-dake-no-seikatsu.json) |
+| Tanezuke Bokujou Gakuen: Gakuen Marugoto Goshujin-sama no Kachiku Buhi ♪ Yaritai Houdai Haramase Shiikushite Kudasai! | 59023 | [59023-tanezuke-bokujou-gakuen-gakuen-marugoto-goshujin-sama-no-kachiku-buhi-yaritai-houdai-haramase-shiikushite-kudasai.json](./59023-tanezuke-bokujou-gakuen-gakuen-marugoto-goshujin-sama-no-kachiku-buhi-yaritai-houdai-haramase-shiikushite-kudasai.json) |
 | Tang Chi | 206613 | [206613-tang-chi.json](./206613-tang-chi.json) |
 | Táng Chuánqí: Shàng Yuáncháng Gān Xíng | 373703 | [373703-tang-chuanqi-shang-yuanchang-gan-xing.json](./373703-tang-chuanqi-shang-yuanchang-gan-xing.json) |
 | Tang Dynasty Architecture | 275341 | [275341-tang-dynasty-architecture.json](./275341-tang-dynasty-architecture.json) |
@@ -8151,6 +8153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End of the Beginning of Courage, Reasoning, and Seaweed 10 | 386559 | [386559-the-end-of-the-beginning-of-courage-reasoning-and-seaweed-10.json](./386559-the-end-of-the-beginning-of-courage-reasoning-and-seaweed-10.json) |
 | The End of the Line: New Age | 420483 | [420483-the-end-of-the-line-new-age.json](./420483-the-end-of-the-line-new-age.json) |
 | The End of the World | 308442 | [308442-the-end-of-the-world.json](./308442-the-end-of-the-world.json) |
+| The End of the World | 59016 | [59016-the-end-of-the-world.json](./59016-the-end-of-the-world.json) |
 | The End of the World and Her Room | 391676 | [391676-the-end-of-the-world-and-her-room.json](./391676-the-end-of-the-world-and-her-room.json) |
 | The End of the World Club | 397628 | [397628-the-end-of-the-world-club.json](./397628-the-end-of-the-world-club.json) |
 | The End of Us | 115033 | [115033-the-end-of-us.json](./115033-the-end-of-us.json) |
@@ -22528,6 +22531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toko-toko Neko Puzzle Schrodinger no Hakoniwa | 225341 | [225341-toko-toko-neko-puzzle-schrodinger-no-hakoniwa.json](./225341-toko-toko-neko-puzzle-schrodinger-no-hakoniwa.json) |
 | Tokobot | 19692 | [19692-tokobot.json](./19692-tokobot.json) |
 | Tokobot Plus: Mysteries of the Karakuri | 20663 | [20663-tokobot-plus-mysteries-of-the-karakuri.json](./20663-tokobot-plus-mysteries-of-the-karakuri.json) |
+| Tokonatsu no Haramase Hitozuma Island e Youkoso!: Ero Muchi Gibo-tachi 4nin to Mujintou Tanezuke Vacance! | 59022 | [59022-tokonatsu-no-haramase-hitozuma-island-e-youkoso-ero-muchi-gibo-tachi-4nin-to-mujintou-tanezuke-vacance.json](./59022-tokonatsu-no-haramase-hitozuma-island-e-youkoso-ero-muchi-gibo-tachi-4nin-to-mujintou-tanezuke-vacance.json) |
 | Tokoro no Ma-Mahjong 2: Tokoro's Cup | 125973 | [125973-tokoro-no-ma-mahjong-2-tokoros-cup.json](./125973-tokoro-no-ma-mahjong-2-tokoros-cup.json) |
 | Tokoro-san no Daifugou | 125975 | [125975-tokoro-san-no-daifugou.json](./125975-tokoro-san-no-daifugou.json) |
 | Tokoro-san no Mah-Mahjong | 125974 | [125974-tokoro-san-no-mah-mahjong.json](./125974-tokoro-san-no-mah-mahjong.json) |
@@ -27272,6 +27276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers Franchise Pack | 99794 | [99794-transformers-franchise-pack.json](./99794-transformers-franchise-pack.json) |
 | Transformers G1 Awakening | 315069 | [315069-transformers-g1-awakening.json](./315069-transformers-g1-awakening.json) |
 | Transformers Generation 2 | 198946 | [198946-transformers-generation-2.json](./198946-transformers-generation-2.json) |
+| Transformers Legends | 59296 | [59296-transformers-legends.json](./59296-transformers-legends.json) |
 | Transformers Prime: The Game | 23676 | [23676-transformers-prime-the-game.json](./23676-transformers-prime-the-game.json) |
 | Transformers Rescue Bots: Dash | 294511 | [294511-transformers-rescue-bots-dash.json](./294511-transformers-rescue-bots-dash.json) |
 | Transformers Rescue Bots: Hero Adventures | 294680 | [294680-transformers-rescue-bots-hero-adventures.json](./294680-transformers-rescue-bots-hero-adventures.json) |
