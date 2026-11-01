@@ -7284,6 +7284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choujikuu Yousai Macross: Eien no Love Song | 76906 | [76906-choujikuu-yousai-macross-eien-no-love-song.json](./76906-choujikuu-yousai-macross-eien-no-love-song.json) |
 | Choujikuu Yousai Macross: Love Stories | 416872 | [416872-choujikuu-yousai-macross-love-stories.json](./416872-choujikuu-yousai-macross-love-stories.json) |
 | Choujikuu Yousai Macross: Scrambled Valkyrie | 42537 | [42537-choujikuu-yousai-macross-scrambled-valkyrie.json](./42537-choujikuu-yousai-macross-scrambled-valkyrie.json) |
+| Choujikuu Yousai Macross: Skull Leader | 54761 | [54761-choujikuu-yousai-macross-skull-leader.json](./54761-choujikuu-yousai-macross-skull-leader.json) |
 | Choujin | 322743 | [322743-choujin.json](./322743-choujin.json) |
 | Choujin Baseball Stadium | 222225 | [222225-choujin-baseball-stadium.json](./222225-choujin-baseball-stadium.json) |
 | Choujin Baseball Stadium: Nekketsu Story | 222398 | [222398-choujin-baseball-stadium-nekketsu-story.json](./222398-choujin-baseball-stadium-nekketsu-story.json) |
@@ -8287,6 +8288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Campus Radio | 119956 | [119956-cities-skylines-campus-radio.json](./119956-cities-skylines-campus-radio.json) |
 | Cities: Skylines - Carols, Candles and Candy | 119960 | [119960-cities-skylines-carols-candles-and-candy.json](./119960-cities-skylines-carols-candles-and-candy.json) |
 | Cities: Skylines - Coast to Coast Radio | 149996 | [149996-cities-skylines-coast-to-coast-radio.json](./149996-cities-skylines-coast-to-coast-radio.json) |
+| Cities: Skylines - Concerts | 54751 | [54751-cities-skylines-concerts.json](./54751-cities-skylines-concerts.json) |
 | Cities: Skylines - Content Creator Pack | 241073 | [241073-cities-skylines-content-creator-pack.json](./241073-cities-skylines-content-creator-pack.json) |
 | Cities: Skylines - Content Creator Pack: Africa in Miniature | 241801 | [241801-cities-skylines-content-creator-pack-africa-in-miniature.json](./241801-cities-skylines-content-creator-pack-africa-in-miniature.json) |
 | Cities: Skylines - Content Creator Pack: Art Deco | 119966 | [119966-cities-skylines-content-creator-pack-art-deco.json](./119966-cities-skylines-content-creator-pack-art-deco.json) |
@@ -13852,6 +13854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo's Delivery and Logistics | 269037 | [269037-cosmos-delivery-and-logistics.json](./269037-cosmos-delivery-and-logistics.json) |
 | Cosmo's Industry | 374841 | [374841-cosmos-industry.json](./374841-cosmos-industry.json) |
 | Cosmo's Pizzarama | 239788 | [239788-cosmos-pizzarama.json](./239788-cosmos-pizzarama.json) |
+| Cosmo's Quickstop | 54676 | [54676-cosmos-quickstop.json](./54676-cosmos-quickstop.json) |
 | Cosmo's Rocket | 208795 | [208795-cosmos-rocket.json](./208795-cosmos-rocket.json) |
 | Cosmoblaster Exodia | 192939 | [192939-cosmoblaster-exodia.json](./192939-cosmoblaster-exodia.json) |
 | Cosmochoria | 17230 | [17230-cosmochoria.json](./17230-cosmochoria.json) |
@@ -13875,6 +13878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmonauta | 129486 | [129486-cosmonauta.json](./129486-cosmonauta.json) |
 | Cosmonet | 98299 | [98299-cosmonet.json](./98299-cosmonet.json) |
 | Cosmonious High | 194955 | [194955-cosmonious-high.json](./194955-cosmonious-high.json) |
+| Cosmonut | 54658 | [54658-cosmonut.json](./54658-cosmonut.json) |
 | Cosmonuts | 86200 | [86200-cosmonuts.json](./86200-cosmonuts.json) |
 | CosmoNutz | 194173 | [194173-cosmonutz.json](./194173-cosmonutz.json) |
 | CosmoOdyssey: Trip to Mars | 213149 | [213149-cosmoodyssey-trip-to-mars.json](./213149-cosmoodyssey-trip-to-mars.json) |
@@ -16788,6 +16792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cry From the Abyss | 379086 | [379086-cry-from-the-abyss.json](./379086-cry-from-the-abyss.json) |
 | Cry of Athena | 158506 | [158506-cry-of-athena.json](./158506-cry-of-athena.json) |
 | Cry of Monster | 367403 | [367403-cry-of-monster.json](./367403-cry-of-monster.json) |
+| Cry On | 54647 | [54647-cry-on.json](./54647-cry-on.json) |
 | Cry: Hunter's Record - Chapter 1 | 179944 | [179944-cry-hunters-record-chapter-1.json](./179944-cry-hunters-record-chapter-1.json) |
 | Cryamore | 63785 | [63785-cryamore.json](./63785-cryamore.json) |
 | Cryaxion | 215862 | [215862-cryaxion.json](./215862-cryaxion.json) |
