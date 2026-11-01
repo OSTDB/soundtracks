@@ -2435,6 +2435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual City 2: Paradise Resort | 74320 | [74320-virtual-city-2-paradise-resort.json](./74320-virtual-city-2-paradise-resort.json) |
 | Virtual City Playground | 88634 | [88634-virtual-city-playground.json](./88634-virtual-city-playground.json) |
 | Virtual Corporation | 94354 | [94354-virtual-corporation.json](./94354-virtual-corporation.json) |
+| Virtual Cottage | 144577 | [144577-virtual-cottage.json](./144577-virtual-cottage.json) |
 | Virtual Cottage 2 | 324942 | [324942-virtual-cottage-2.json](./324942-virtual-cottage-2.json) |
 | Virtual country: Yuan fairy summon | 201668 | [201668-virtual-country-yuan-fairy-summon.json](./201668-virtual-country-yuan-fairy-summon.json) |
 | Virtual Darling: VR | 289914 | [289914-virtual-darling-vr.json](./289914-virtual-darling-vr.json) |
