@@ -10936,6 +10936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polaris Outpost | 226991 | [226991-polaris-outpost.json](./226991-polaris-outpost.json) |
 | Polaris SnoCross | 249122 | [249122-polaris-snocross.json](./249122-polaris-snocross.json) |
 | Polarities | 133177 | [133177-polarities.json](./133177-polarities.json) |
+| Polarity | 17683 | [17683-polarity.json](./17683-polarity.json) |
 | Polarity Remastered | 336401 | [336401-polarity-remastered.json](./336401-polarity-remastered.json) |
 | Polarity Switch | 176342 | [176342-polarity-switch.json](./176342-polarity-switch.json) |
 | Polarity Warthog | 323225 | [323225-polarity-warthog.json](./323225-polarity-warthog.json) |
