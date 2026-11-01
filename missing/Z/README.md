@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zekertune | 350318 | [350318-zekertune.json](./350318-zekertune.json) |
 | Zekkyo Senshi Sakebrain | 72648 | [72648-zekkyo-senshi-sakebrain.json](./72648-zekkyo-senshi-sakebrain.json) |
 | Zeko | 150287 | [150287-zeko.json](./150287-zeko.json) |
+| Zektor | 24638 | [24638-zektor.json](./24638-zektor.json) |
 | Zelda | 152362 | [152362-zelda.json](./152362-zelda.json) |
 | Zelda 1 / Metroid 1 Combo Randomizer | 152749 | [152749-zelda-1-metroid-1-combo-randomizer.json](./152749-zelda-1-metroid-1-combo-randomizer.json) |
 | Zelda 2 DX | 323022 | [323022-zelda-2-dx.json](./323022-zelda-2-dx.json) |
@@ -706,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenith Trace | 379879 | [379879-zenith-trace.json](./379879-zenith-trace.json) |
 | Zenith: The Last City | 145452 | [145452-zenith-the-last-city.json](./145452-zenith-the-last-city.json) |
 | Zenith's Call | 176206 | [176206-zeniths-call.json](./176206-zeniths-call.json) |
+| Zenji | 24509 | [24509-zenji.json](./24509-zenji.json) |
 | Zenkai | 239596 | [239596-zenkai.json](./239596-zenkai.json) |
 | Zenkat | 119470 | [119470-zenkat.json](./119470-zenkat.json) |
 | Zenko: A Fox's Tale | 152848 | [152848-zenko-a-foxs-tale.json](./152848-zenko-a-foxs-tale.json) |
