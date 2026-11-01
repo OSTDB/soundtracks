@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana Oboro: Sengoku-den Ranki | 136480 | [136480-hana-oboro-sengoku-den-ranki.json](./136480-hana-oboro-sengoku-den-ranki.json) |
 | Hana Saki Work Spring! | 111649 | [111649-hana-saki-work-spring.json](./111649-hana-saki-work-spring.json) |
 | Hana Saku DS Gardening Life | 229262 | [229262-hana-saku-ds-gardening-life.json](./229262-hana-saku-ds-gardening-life.json) |
+| Hana Taaka Daka! | 38076 | [38076-hana-taaka-daka.json](./38076-hana-taaka-daka.json) |
 | Hana to Otome ni Shukufuku wo Royal Bouquet | 60368 | [60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json](./60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json) |
 | Hana to Otome ni Shukufuku wo: Harukaze No Okurimono | 69054 | [69054-hana-to-otome-ni-shukufuku-wo-harukaze-no-okurimono.json](./69054-hana-to-otome-ni-shukufuku-wo-harukaze-no-okurimono.json) |
 | Hana: Episode I | 263345 | [263345-hana-episode-i.json](./263345-hana-episode-i.json) |
@@ -5521,6 +5522,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes 2: The Undead King | 70847 | [70847-heroes-2-the-undead-king.json](./70847-heroes-2-the-undead-king.json) |
 | Heroes against Demons | 139981 | [139981-heroes-against-demons.json](./139981-heroes-against-demons.json) |
 | Heroes Against Time | 342012 | [342012-heroes-against-time.json](./342012-heroes-against-time.json) |
+| Heroes and Castles | 38063 | [38063-heroes-and-castles.json](./38063-heroes-and-castles.json) |
+| Heroes and Castles 2 | 38061 | [38061-heroes-and-castles-2.json](./38061-heroes-and-castles-2.json) |
 | Heroes and Forsaken: The Official Wheel of Time Digital Card Game | 362304 | [362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json](./362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json) |
 | Heroes and Monsters | 180403 | [180403-heroes-and-monsters.json](./180403-heroes-and-monsters.json) |
 | Heroes and Monsters II | 382848 | [382848-heroes-and-monsters-ii.json](./382848-heroes-and-monsters-ii.json) |
