@@ -8205,6 +8205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed: The Mad Scientist | 113068 | [113068-greed-the-mad-scientist.json](./113068-greed-the-mad-scientist.json) |
 | Greed's Grub | 349365 | [349365-greeds-grub.json](./349365-greeds-grub.json) |
 | Greeded | 266606 | [266606-greeded.json](./266606-greeded.json) |
+| GreedFall: Gold Edition | 145989 | [145989-greedfall-gold-edition.json](./145989-greedfall-gold-edition.json) |
 | GreedFall: The De Vespe Conspiracy | 154771 | [154771-greedfall-the-de-vespe-conspiracy.json](./154771-greedfall-the-de-vespe-conspiracy.json) |
 | Greediest Landlord | 419164 | [419164-greediest-landlord.json](./419164-greediest-landlord.json) |
 | Greedland | 237194 | [237194-greedland.json](./237194-greedland.json) |
@@ -8491,6 +8492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GreySky&StarNavigator | 373689 | [373689-greysky-and-starnavigator.json](./373689-greysky-and-starnavigator.json) |
 | Greystone | 92926 | [92926-greystone.json](./92926-greystone.json) |
 | Greystorm | 73557 | [73557-greystorm.json](./73557-greystorm.json) |
+| Grezzo 2 | 146678 | [146678-grezzo-2.json](./146678-grezzo-2.json) |
 | Gribbly's Day Out | 28474 | [28474-gribblys-day-out.json](./28474-gribblys-day-out.json) |
 | Grid | 118871 | [118871-grid.json](./118871-grid.json) |
 | Grid | 327878 | [327878-grid.json](./327878-grid.json) |
