@@ -9903,6 +9903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blok Copy | 63783 | [63783-blok-copy.json](./63783-blok-copy.json) |
 | Blok Drop Chaos | 77800 | [77800-blok-drop-chaos.json](./77800-blok-drop-chaos.json) |
 | Blok Drop Neo | 74132 | [74132-blok-drop-neo.json](./74132-blok-drop-neo.json) |
+| Blok Drop x Twisted Fusion | 61289 | [61289-blok-drop-x-twisted-fusion.json](./61289-blok-drop-x-twisted-fusion.json) |
 | Blok Shot VR | 309608 | [309608-blok-shot-vr.json](./309608-blok-shot-vr.json) |
 | Blokdodge | 68327 | [68327-blokdodge.json](./68327-blokdodge.json) |
 | Blokdoku | 315827 | [315827-blokdoku.json](./315827-blokdoku.json) |
@@ -15194,6 +15195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Truck | 235228 | [235228-bubble-truck.json](./235228-bubble-truck.json) |
 | Bubble Wars | 215480 | [215480-bubble-wars.json](./215480-bubble-wars.json) |
 | Bubble Whirl Shooter | 89616 | [89616-bubble-whirl-shooter.json](./89616-bubble-whirl-shooter.json) |
+| Bubble Witch 2 Saga | 61369 | [61369-bubble-witch-2-saga.json](./61369-bubble-witch-2-saga.json) |
 | Bubble Witch 3 Saga | 78386 | [78386-bubble-witch-3-saga.json](./78386-bubble-witch-3-saga.json) |
 | Bubble With Djealy | 157966 | [157966-bubble-with-djealy.json](./157966-bubble-with-djealy.json) |
 | Bubble Wizard III Saga | 347318 | [347318-bubble-wizard-iii-saga.json](./347318-bubble-wizard-iii-saga.json) |
