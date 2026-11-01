@@ -225,7 +225,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackie | 231416 | [231416-jackie.json](./231416-jackie.json) |
 | Jackie Chan Adventures | 8154 | [8154-jackie-chan-adventures.json](./8154-jackie-chan-adventures.json) |
 | Jackie Chan in Fists of Fire | 39606 | [39606-jackie-chan-in-fists-of-fire.json](./39606-jackie-chan-in-fists-of-fire.json) |
+| Jackie Chan in Project A | 41674 | [41674-jackie-chan-in-project-a.json](./41674-jackie-chan-in-project-a.json) |
+| Jackie Chan in The Police Story | 41671 | [41671-jackie-chan-in-the-police-story.json](./41671-jackie-chan-in-the-police-story.json) |
+| Jackie Chan in The Protector | 41673 | [41673-jackie-chan-in-the-protector.json](./41673-jackie-chan-in-the-protector.json) |
 | Jackie Chan J-Mat Fitness | 91815 | [91815-jackie-chan-j-mat-fitness.json](./91815-jackie-chan-j-mat-fitness.json) |
+| Jackie Chan no Spartan X | 41672 | [41672-jackie-chan-no-spartan-x.json](./41672-jackie-chan-no-spartan-x.json) |
 | Jackie Chan: The Kung-Fu Master | 39607 | [39607-jackie-chan-the-kung-fu-master.json](./39607-jackie-chan-the-kung-fu-master.json) |
 | Jackie Chan's Action Kung Fu | 12522 | [12522-jackie-chans-action-kung-fu.json](./12522-jackie-chans-action-kung-fu.json) |
 | Jackie’s Forest: Outsourced | 396716 | [396716-jackie-s-forest-outsourced.json](./396716-jackie-s-forest-outsourced.json) |
