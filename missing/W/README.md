@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wagyan Paradise | 42425 | [42425-wagyan-paradise.json](./42425-wagyan-paradise.json) |
 | Wahm | 360709 | [360709-wahm.json](./360709-wahm.json) |
 | Wahm | 377286 | [377286-wahm.json](./377286-wahm.json) |
+| Wai Wai Jockey Gate-In! | 40532 | [40532-wai-wai-jockey-gate-in.json](./40532-wai-wai-jockey-gate-in.json) |
 | Wai Wai Mahjong | 37652 | [37652-wai-wai-mahjong.json](./37652-wai-wai-mahjong.json) |
 | Wai Wai World Craft | 416135 | [416135-wai-wai-world-craft.json](./416135-wai-wai-world-craft.json) |
 | Wai-wai Check 03/21 | 345494 | [345494-wai-wai-check-03-21.json](./345494-wai-wai-check-03-21.json) |
@@ -498,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WallWar | 287200 | [287200-wallwar.json](./287200-wallwar.json) |
 | Wally and the Fantastic Predators | 121922 | [121922-wally-and-the-fantastic-predators.json](./121922-wally-and-the-fantastic-predators.json) |
 | Wally the Seal 2 | 320255 | [320255-wally-the-seal-2.json](./320255-wally-the-seal-2.json) |
+| Wally wo Sagase! | 40530 | [40530-wally-wo-sagase.json](./40530-wally-wo-sagase.json) |
 | Wally wo Sagase! Ehon no Kuni no Daibouken! | 37769 | [37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json](./37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json) |
 | Wally: Land of the Wallows | 399684 | [399684-wally-land-of-the-wallows.json](./399684-wally-land-of-the-wallows.json) |
 | Wallykazam: Enchanted Adventures | 230410 | [230410-wallykazam-enchanted-adventures.json](./230410-wallykazam-enchanted-adventures.json) |
@@ -701,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wantame Music Channel: Doko Demo Style | 370291 | [370291-wantame-music-channel-doko-demo-style.json](./370291-wantame-music-channel-doko-demo-style.json) |
 | Wanted | 311763 | [311763-wanted.json](./311763-wanted.json) |
 | Wanted | 325069 | [325069-wanted.json](./325069-wanted.json) |
+| Wanted | 40528 | [40528-wanted.json](./40528-wanted.json) |
 | Wanted | 72380 | [72380-wanted.json](./72380-wanted.json) |
 | Wanted | 75090 | [75090-wanted.json](./75090-wanted.json) |
 | Wanted 18 | 153744 | [153744-wanted-18.json](./153744-wanted-18.json) |
@@ -877,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the AI | 256239 | [256239-war-of-the-ai.json](./256239-war-of-the-ai.json) |
 | War of the Ancients | 110222 | [110222-war-of-the-ancients.json](./110222-war-of-the-ancients.json) |
 | War of the Austrian Succession | 412212 | [412212-war-of-the-austrian-succession.json](./412212-war-of-the-austrian-succession.json) |
+| War of the Bugs | 40527 | [40527-war-of-the-bugs.json](./40527-war-of-the-bugs.json) |
 | War of the Gods | 107087 | [107087-war-of-the-gods.json](./107087-war-of-the-gods.json) |
 | War of the Gods | 404365 | [404365-war-of-the-gods.json](./404365-war-of-the-gods.json) |
 | War of the Human Tanks - Complete Collection | 53884 | [53884-war-of-the-human-tanks-complete-collection.json](./53884-war-of-the-human-tanks-complete-collection.json) |
@@ -2249,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Mage: Act I | 307414 | [307414-water-mage-act-i.json](./307414-water-mage-act-i.json) |
 | Water Maid | 333038 | [333038-water-maid.json](./333038-water-maid.json) |
 | Water Margin: The Tales of Clouds and Winds | 120062 | [120062-water-margin-the-tales-of-clouds-and-winds.json](./120062-water-margin-the-tales-of-clouds-and-winds.json) |
+| Water Match | 40525 | [40525-water-match.json](./40525-water-match.json) |
 | Water Me & You | 260169 | [260169-water-me-and-you.json](./260169-water-me-and-you.json) |
 | Water Me Please! | 358819 | [358819-water-me-please.json](./358819-water-me-please.json) |
 | Water Me! | 202649 | [202649-water-me.json](./202649-water-me.json) |
