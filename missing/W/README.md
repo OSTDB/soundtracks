@@ -1998,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warsino | 232539 | [232539-warsino.json](./232539-warsino.json) |
 | Warsong | 3196 | [3196-warsong.json](./3196-warsong.json) |
 | Warsoup | 78606 | [78606-warsoup.json](./78606-warsoup.json) |
+| Warsow | 11555 | [11555-warsow.json](./11555-warsow.json) |
 | Warspace | 151093 | [151093-warspace.json](./151093-warspace.json) |
 | Warspace | 242065 | [242065-warspace.json](./242065-warspace.json) |
 | Warspace | 421426 | [421426-warspace.json](./421426-warspace.json) |
@@ -6412,6 +6413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wo Long: Fallen Dynasty - Upheaval in Jingxiang | 280240 | [280240-wo-long-fallen-dynasty-upheaval-in-jingxiang.json](./280240-wo-long-fallen-dynasty-upheaval-in-jingxiang.json) |
 | Wo Yao Da | 76098 | [76098-wo-yao-da.json](./76098-wo-yao-da.json) |
 | Wǒ Yǒu Shàngjiàng | 150244 | [150244-wo-you-shangjiang.json](./150244-wo-you-shangjiang.json) |
+| Woah Dave! | 11342 | [11342-woah-dave.json](./11342-woah-dave.json) |
 | Woah Vicky | 96281 | [96281-woah-vicky.json](./96281-woah-vicky.json) |
 | Woahds! | 75389 | [75389-woahds.json](./75389-woahds.json) |
 | Woahler Coaster! | 373513 | [373513-woahler-coaster.json](./373513-woahler-coaster.json) |
