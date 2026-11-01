@@ -9192,6 +9192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GTFO | 36646 | [36646-gtfo.json](./36646-gtfo.json) |
 | GTFO: The Final Chapter | 279648 | [279648-gtfo-the-final-chapter.json](./279648-gtfo-the-final-chapter.json) |
 | GTH 3033: Grand Theft Hunter 3033 | 285486 | [285486-gth-3033-grand-theft-hunter-3033.json](./285486-gth-3033-grand-theft-hunter-3033.json) |
+| GTI Club Supermini Festa! | 50961 | [50961-gti-club-supermini-festa.json](./50961-gti-club-supermini-festa.json) |
 | GTI Club+: Rally Côte d'Azur | 97105 | [97105-gti-club-rally-cote-dazur.json](./97105-gti-club-rally-cote-dazur.json) |
 | GTI Racing | 14804 | [14804-gti-racing.json](./14804-gti-racing.json) |
 | GTJ: Grand Theft Japan | 390088 | [390088-gtj-grand-theft-japan.json](./390088-gtj-grand-theft-japan.json) |
