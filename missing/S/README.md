@@ -2166,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save My Scrap | 380047 | [380047-save-my-scrap.json](./380047-save-my-scrap.json) |
 | Save My Sister | 257679 | [257679-save-my-sister.json](./257679-save-my-sister.json) |
 | Save My Wife | 400662 | [400662-save-my-wife.json](./400662-save-my-wife.json) |
+| Save New York | 23209 | [23209-save-new-york.json](./23209-save-new-york.json) |
 | Save Next Christmas | 397069 | [397069-save-next-christmas.json](./397069-save-next-christmas.json) |
 | Save One More | 90278 | [90278-save-one-more.json](./90278-save-one-more.json) |
 | Save Our Ship | 40697 | [40697-save-our-ship.json](./40697-save-our-ship.json) |
@@ -15063,6 +15064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Siege | 56260 | [56260-solar-siege.json](./56260-solar-siege.json) |
 | Solar Smash | 175674 | [175674-solar-smash.json](./175674-solar-smash.json) |
 | Solar Smash 2D | 208135 | [208135-solar-smash-2d.json](./208135-solar-smash-2d.json) |
+| Solar Storm | 23341 | [23341-solar-storm.json](./23341-solar-storm.json) |
 | Solar Striker | 48940 | [48940-solar-striker.json](./48940-solar-striker.json) |
 | Solar Struggle | 17984 | [17984-solar-struggle.json](./17984-solar-struggle.json) |
 | Solar Survivors | 238766 | [238766-solar-survivors.json](./238766-solar-survivors.json) |
@@ -19226,6 +19228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectacular Shatter Buddies | 185462 | [185462-spectacular-shatter-buddies.json](./185462-spectacular-shatter-buddies.json) |
 | Spectacular Sparky | 165613 | [165613-spectacular-sparky.json](./165613-spectacular-sparky.json) |
 | Spectacular Stride Machine | 182815 | [182815-spectacular-stride-machine.json](./182815-spectacular-stride-machine.json) |
+| Spectar | 23171 | [23171-spectar.json](./23171-spectar.json) |
 | Spectating Simulator the Racing | 123564 | [123564-spectating-simulator-the-racing.json](./123564-spectating-simulator-the-racing.json) |
 | Spectator | 216880 | [216880-spectator.json](./216880-spectator.json) |
 | Spectator 2 | 264629 | [264629-spectator-2.json](./264629-spectator-2.json) |
@@ -20108,6 +20111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiiiders | 61596 | [61596-spiiiders.json](./61596-spiiiders.json) |
 | Spikair Volleyball | 188995 | [188995-spikair-volleyball.json](./188995-spikair-volleyball.json) |
 | Spike | 174628 | [174628-spike.json](./174628-spike.json) |
+| Spike | 23200 | [23200-spike.json](./23200-spike.json) |
 | Spike | 70349 | [70349-spike.json](./70349-spike.json) |
 | Spike a Love Story | 391207 | [391207-spike-a-love-story.json](./391207-spike-a-love-story.json) |
 | Spike C64 Dislike | 71156 | [71156-spike-c64-dislike.json](./71156-spike-c64-dislike.json) |
@@ -22156,6 +22160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fight | 30681 | [30681-star-fight.json](./30681-star-fight.json) |
 | Star Fighter | 170804 | [170804-star-fighter.json](./170804-star-fighter.json) |
 | Star Fighter | 383702 | [383702-star-fighter.json](./383702-star-fighter.json) |
+| Star Fire | 23160 | [23160-star-fire.json](./23160-star-fire.json) |
 | Star Fire | 408210 | [408210-star-fire.json](./408210-star-fire.json) |
 | Star Fire Spirits | 37538 | [37538-star-fire-spirits.json](./37538-star-fire-spirits.json) |
 | Star Fire: Eternal Cycle | 316656 | [316656-star-fire-eternal-cycle.json](./316656-star-fire-eternal-cycle.json) |
@@ -23151,8 +23156,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starground | 287606 | [287606-starground.json](./287606-starground.json) |
 | Stargrove Scramble | 177939 | [177939-stargrove-scramble.json](./177939-stargrove-scramble.json) |
 | Stargunner | 19379 | [19379-stargunner.json](./19379-stargunner.json) |
+| Stargunner | 23199 | [23199-stargunner.json](./23199-stargunner.json) |
 | Starguy IV | 184252 | [184252-starguy-iv.json](./184252-starguy-iv.json) |
 | Starhack | 291013 | [291013-starhack.json](./291013-starhack.json) |
+| Starhawk | 23202 | [23202-starhawk.json](./23202-starhawk.json) |
 | StarHawk | 79624 | [79624-starhawk.json](./79624-starhawk.json) |
 | Starhawk: Ultimate Edition | 99947 | [99947-starhawk-ultimate-edition.json](./99947-starhawk-ultimate-edition.json) |
 | Starheim | 270093 | [270093-starheim.json](./270093-starheim.json) |
