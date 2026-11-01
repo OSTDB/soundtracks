@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saiyan Warriors : Heroes | 105827 | [105827-saiyan-warriors-heroes.json](./105827-saiyan-warriors-heroes.json) |
 | Saiyuki Reload | 68239 | [68239-saiyuki-reload.json](./68239-saiyuki-reload.json) |
 | Saiyuki Reload: Gunlock | 68247 | [68247-saiyuki-reload-gunlock.json](./68247-saiyuki-reload-gunlock.json) |
+| Saiyuuki World | 48403 | [48403-saiyuuki-world.json](./48403-saiyuuki-world.json) |
 | Saiyuuki World 2: Tenjoukai no Majin | 19669 | [19669-saiyuuki-world-2-tenjoukai-no-majin.json](./19669-saiyuuki-world-2-tenjoukai-no-majin.json) |
 | Sak'd | 115786 | [115786-sakd.json](./115786-sakd.json) |
 | Sakai Burai Kaiji: Death or Survival | 61394 | [61394-sakai-burai-kaiji-death-or-survival.json](./61394-sakai-burai-kaiji-death-or-survival.json) |
@@ -1624,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sankhara | 156130 | [156130-sankhara.json](./156130-sankhara.json) |
 | Sanki | 178517 | [178517-sanki.json](./178517-sanki.json) |
 | Sankokushi Blast: Shounen Heroes | 220322 | [220322-sankokushi-blast-shounen-heroes.json](./220322-sankokushi-blast-shounen-heroes.json) |
+| Sanma no Meitantei | 48402 | [48402-sanma-no-meitantei.json](./48402-sanma-no-meitantei.json) |
 | Sanonta | 236965 | [236965-sanonta.json](./236965-sanonta.json) |
 | Sanou Kaihatsu Series 1 Zukei Ninshiki | 303760 | [303760-sanou-kaihatsu-series-1-zukei-ninshiki.json](./303760-sanou-kaihatsu-series-1-zukei-ninshiki.json) |
 | Sanou Kaihatsu Series 2: Suuryou, Keisan | 303761 | [303761-sanou-kaihatsu-series-2-suuryou-keisan.json](./303761-sanou-kaihatsu-series-2-suuryou-keisan.json) |
@@ -1650,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sans Spielen's Epic Megalovania | 334250 | [334250-sans-spielens-epic-megalovania.json](./334250-sans-spielens-epic-megalovania.json) |
 | Sansagari | 362015 | [362015-sansagari.json](./362015-sansagari.json) |
 | Sansar | 95117 | [95117-sansar.json](./95117-sansar.json) |
+| Sansara Naga | 48401 | [48401-sansara-naga.json](./48401-sansara-naga.json) |
 | Sansara Naga 1 | 341472 | [341472-sansara-naga-1.json](./341472-sansara-naga-1.json) |
 | Sansara Naga 1x2 | 49793 | [49793-sansara-naga-1x2.json](./49793-sansara-naga-1x2.json) |
 | Sansara Naga 2 | 341473 | [341473-sansara-naga-2.json](./341473-sansara-naga-2.json) |
@@ -3606,6 +3609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Hiryuu no Ken Gaiden | 64968 | [64968-sd-hiryuu-no-ken-gaiden.json](./64968-sd-hiryuu-no-ken-gaiden.json) |
 | SD Hiryuu no Ken Gaiden 2 | 78523 | [78523-sd-hiryuu-no-ken-gaiden-2.json](./78523-sd-hiryuu-no-ken-gaiden-2.json) |
 | SD Hiryuu no Ken Gaiden EX | 186595 | [186595-sd-hiryuu-no-ken-gaiden-ex.json](./186595-sd-hiryuu-no-ken-gaiden-ex.json) |
+| SD Keiji: Blader | 48382 | [48382-sd-keiji-blader.json](./48382-sd-keiji-blader.json) |
 | SD Kidou Senshi Gundam 2 | 38159 | [38159-sd-kidou-senshi-gundam-2.json](./38159-sd-kidou-senshi-gundam-2.json) |
 | SD Kidou Senshi Gundam: V Sakusen Shidou | 38160 | [38160-sd-kidou-senshi-gundam-v-sakusen-shidou.json](./38160-sd-kidou-senshi-gundam-v-sakusen-shidou.json) |
 | SD Lupin Sansei: Kinko Yaburi Daisakusen | 66206 | [66206-sd-lupin-sansei-kinko-yaburi-daisakusen.json](./66206-sd-lupin-sansei-kinko-yaburi-daisakusen.json) |
@@ -4727,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seiken Densetsu: Final Fantasy Gaiden | 306594 | [306594-seiken-densetsu-final-fantasy-gaiden.json](./306594-seiken-densetsu-final-fantasy-gaiden.json) |
 | Seiken Densetsu: Rise of Mana | 62078 | [62078-seiken-densetsu-rise-of-mana.json](./62078-seiken-densetsu-rise-of-mana.json) |
 | Seiki: Ryoujoku no Kamen | 66052 | [66052-seiki-ryoujoku-no-kamen.json](./66052-seiki-ryoujoku-no-kamen.json) |
+| Seikima II: Akuma no Gyakushuu! | 48399 | [48399-seikima-ii-akuma-no-gyakushuu.json](./48399-seikima-ii-akuma-no-gyakushuu.json) |
 | Seikimatsu Days: Our Era's End | 96405 | [96405-seikimatsu-days-our-eras-end.json](./96405-seikimatsu-days-our-eras-end.json) |
 | Seikimatsu Tanemaki Densetsu: Shoujo Yuugi - Ai Notameni Shine! | 67265 | [67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json](./67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json) |
 | Seikishi Melty Lovers | 372565 | [372565-seikishi-melty-lovers.json](./372565-seikishi-melty-lovers.json) |
@@ -4739,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seinarukana -The Spirit of Eternity Sword 2- | 24971 | [24971-seinarukana-the-spirit-of-eternity-sword-2.json](./24971-seinarukana-the-spirit-of-eternity-sword-2.json) |
 | Seinfeld: The Telltale Series | 144119 | [144119-seinfeld-the-telltale-series.json](./144119-seinfeld-the-telltale-series.json) |
 | Seipoi Densetsu | 282609 | [282609-seipoi-densetsu.json](./282609-seipoi-densetsu.json) |
+| Seirei Gari | 48398 | [48398-seirei-gari.json](./48398-seirei-gari.json) |
 | Seirei no Mori no Bouken | 358503 | [358503-seirei-no-mori-no-bouken.json](./358503-seirei-no-mori-no-bouken.json) |
 | Seirei Senshi Spriggan | 37617 | [37617-seirei-senshi-spriggan.json](./37617-seirei-senshi-spriggan.json) |
 | Seirei Shinseiki Fhey Area | 46391 | [46391-seirei-shinseiki-fhey-area.json](./46391-seirei-shinseiki-fhey-area.json) |
@@ -6035,6 +6041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Boxing | 364578 | [364578-shadow-boxing.json](./364578-shadow-boxing.json) |
 | Shadow Boxing 2 | 364579 | [364579-shadow-boxing-2.json](./364579-shadow-boxing-2.json) |
 | Shadow BoXR | 241368 | [241368-shadow-boxr.json](./241368-shadow-boxr.json) |
+| Shadow Brain | 48397 | [48397-shadow-brain.json](./48397-shadow-brain.json) |
 | Shadow Brawlers | 107404 | [107404-shadow-brawlers.json](./107404-shadow-brawlers.json) |
 | Shadow Breakers | 333139 | [333139-shadow-breakers.json](./333139-shadow-breakers.json) |
 | Shadow Brides | 208128 | [208128-shadow-brides.json](./208128-shadow-brides.json) |
@@ -7326,6 +7333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: Crimes & Punishments | 5541 | [5541-sherlock-holmes-crimes-and-punishments.json](./5541-sherlock-holmes-crimes-and-punishments.json) |
 | Sherlock Holmes: Crimes and Punishments + Sherlock Holmes: The Devil's Daughter Bundle | 196515 | [196515-sherlock-holmes-crimes-and-punishments-sherlock-holmes-the-devils-daughter-bundle.json](./196515-sherlock-holmes-crimes-and-punishments-sherlock-holmes-the-devils-daughter-bundle.json) |
 | Sherlock Holmes: Crimes and Punishments Redux | 164780 | [164780-sherlock-holmes-crimes-and-punishments-redux.json](./164780-sherlock-holmes-crimes-and-punishments-redux.json) |
+| Sherlock Holmes: Hakushaku Reijou Yuukai Jiken | 48396 | [48396-sherlock-holmes-hakushaku-reijou-yuukai-jiken.json](./48396-sherlock-holmes-hakushaku-reijou-yuukai-jiken.json) |
 | Sherlock Holmes: Nemesis | 6863 | [6863-sherlock-holmes-nemesis.json](./6863-sherlock-holmes-nemesis.json) |
 | Sherlock Holmes: Puzzle City | 222297 | [222297-sherlock-holmes-puzzle-city.json](./222297-sherlock-holmes-puzzle-city.json) |
 | Sherlock Holmes: The Awakened - Deluxe Edition | 240984 | [240984-sherlock-holmes-the-awakened-deluxe-edition.json](./240984-sherlock-holmes-the-awakened-deluxe-edition.json) |
@@ -7673,6 +7681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Rinkaiten no Azrael: Tenjoukai-hen - Episode:3 | 394790 | [394790-shin-rinkaiten-no-azrael-tenjoukai-hen-episode-3.json](./394790-shin-rinkaiten-no-azrael-tenjoukai-hen-episode-3.json) |
 | Shin Ruriiro no Yuki: Furimukeba Tonari ni | 167097 | [167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json](./167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json) |
 | Shin Samurai Jazz | 35636 | [35636-shin-samurai-jazz.json](./35636-shin-samurai-jazz.json) |
+| Shin Samurai Spirits 2 | 48381 | [48381-shin-samurai-spirits-2.json](./48381-shin-samurai-spirits-2.json) |
 | Shin Sangoku Musou 4 Special | 395999 | [395999-shin-sangoku-musou-4-special.json](./395999-shin-sangoku-musou-4-special.json) |
 | Shin Sangoku Musou Apuri | 338635 | [338635-shin-sangoku-musou-apuri.json](./338635-shin-sangoku-musou-apuri.json) |
 | Shin Sangoku Musou Multi Raid 2: HD Edition | 43050 | [43050-shin-sangoku-musou-multi-raid-2-hd-edition.json](./43050-shin-sangoku-musou-multi-raid-2-hd-edition.json) |
@@ -14969,6 +14978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar War | 403034 | [403034-solar-war.json](./403034-solar-war.json) |
 | Solar Warden | 101603 | [101603-solar-warden.json](./101603-solar-warden.json) |
 | Solar Warfare | 62468 | [62468-solar-warfare.json](./62468-solar-warfare.json) |
+| Solar Wars | 48373 | [48373-solar-wars.json](./48373-solar-wars.json) |
 | Solar Wave | 349225 | [349225-solar-wave.json](./349225-solar-wave.json) |
 | Solar Winds: Galaxy | 73986 | [73986-solar-winds-galaxy.json](./73986-solar-winds-galaxy.json) |
 | Solar Winds: The Escape | 73585 | [73585-solar-winds-the-escape.json](./73585-solar-winds-the-escape.json) |
@@ -29765,6 +29775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pac-Man Collection | 219418 | [219418-super-pac-man-collection.json](./219418-super-pac-man-collection.json) |
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
 | Super Pads: Become a DJ | 96776 | [96776-super-pads-become-a-dj.json](./96776-super-pads-become-a-dj.json) |
+| Super Painter | 48372 | [48372-super-painter.json](./48372-super-painter.json) |
 | Super Panda Adventures | 10933 | [10933-super-panda-adventures.json](./10933-super-panda-adventures.json) |
 | Super Pang | 195059 | [195059-super-pang.json](./195059-super-pang.json) |
 | Super Pang | 267513 | [267513-super-pang.json](./267513-super-pang.json) |
@@ -29905,6 +29916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ranger | 377710 | [377710-super-ranger.json](./377710-super-ranger.json) |
 | Super Rare Mixtape: Horror Edition | 272829 | [272829-super-rare-mixtape-horror-edition.json](./272829-super-rare-mixtape-horror-edition.json) |
 | Super Real AI | 399844 | [399844-super-real-ai.json](./399844-super-real-ai.json) |
+| Super Real Baseball '88 | 48395 | [48395-super-real-baseball-88.json](./48395-super-real-baseball-88.json) |
 | Super Real Basketball | 262867 | [262867-super-real-basketball.json](./262867-super-real-basketball.json) |
 | Super Real Fishing | 282663 | [282663-super-real-fishing.json](./282663-super-real-fishing.json) |
 | Super Real Hanafuda: Koi Koi Shimasho | 130299 | [130299-super-real-hanafuda-koi-koi-shimasho.json](./130299-super-real-hanafuda-koi-koi-shimasho.json) |
@@ -30403,8 +30415,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Battle Royale | 382973 | [382973-super-star-battle-royale.json](./382973-super-star-battle-royale.json) |
 | Super Star Blast | 117325 | [117325-super-star-blast.json](./117325-super-star-blast.json) |
 | Super Star Car | 146714 | [146714-super-star-car.json](./146714-super-star-car.json) |
+| Super Star Force: Jikuureki no Himitsu | 48394 | [48394-super-star-force-jikuureki-no-himitsu.json](./48394-super-star-force-jikuureki-no-himitsu.json) |
 | Super Star Panda | 80950 | [80950-super-star-panda.json](./80950-super-star-panda.json) |
 | Super Star Path | 19981 | [19981-super-star-path.json](./19981-super-star-path.json) |
+| Super Star Pro Wrestling | 48393 | [48393-super-star-pro-wrestling.json](./48393-super-star-pro-wrestling.json) |
 | Super Star Shooter Classic | 328307 | [328307-super-star-shooter-classic.json](./328307-super-star-shooter-classic.json) |
 | Super Star Soldier | 44339 | [44339-super-star-soldier.json](./44339-super-star-soldier.json) |
 | Super Star Trek | 325825 | [325825-super-star-trek.json](./325825-super-star-trek.json) |
@@ -31958,6 +31972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SWAT Kats: The Radical Squadron | 8068 | [8068-swat-kats-the-radical-squadron.json](./8068-swat-kats-the-radical-squadron.json) |
 | SWAT Siege | 336032 | [336032-swat-siege.json](./336032-swat-siege.json) |
 | Swat the Fly | 360925 | [360925-swat-the-fly.json](./360925-swat-the-fly.json) |
+| SWAT: Special Weapons and Tactics | 48392 | [48392-swat-special-weapons-and-tactics.json](./48392-swat-special-weapons-and-tactics.json) |
 | SWAT: Target Liberty | 319 | [319-swat-target-liberty.json](./319-swat-target-liberty.json) |
 | SWAT: Urban Justice | 207004 | [207004-swat-urban-justice.json](./207004-swat-urban-justice.json) |
 | Swat! | 60557 | [60557-swat.json](./60557-swat.json) |
