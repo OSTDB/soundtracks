@@ -2275,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CardCraft | 76552 | [76552-cardcraft.json](./76552-cardcraft.json) |
 | Carderia | 323309 | [323309-carderia.json](./323309-carderia.json) |
 | Cardfight Area | 321423 | [321423-cardfight-area.json](./321423-cardfight-area.json) |
+| Cardfight!! Online | 59013 | [59013-cardfight-online.json](./59013-cardfight-online.json) |
 | Cardfight!! Vanguard Dear Days - Character Set 09: Sophie Belle | 270201 | [270201-cardfight-vanguard-dear-days-character-set-09-sophie-belle.json](./270201-cardfight-vanguard-dear-days-character-set-09-sophie-belle.json) |
 | Cardfight!! Vanguard Dear Days: Character Set 08 - Jinki Mukae | 270192 | [270192-cardfight-vanguard-dear-days-character-set-08-jinki-mukae.json](./270192-cardfight-vanguard-dear-days-character-set-08-jinki-mukae.json) |
 | Cardfight!! Vanguard Dear Days: Character Set 10 - Samuel Fredson | 270191 | [270191-cardfight-vanguard-dear-days-character-set-10-samuel-fredson.json](./270191-cardfight-vanguard-dear-days-character-set-10-samuel-fredson.json) |
@@ -3147,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Chase | 60935 | [60935-castle-chase.json](./60935-castle-chase.json) |
 | Castle Clamber | 95152 | [95152-castle-clamber.json](./95152-castle-clamber.json) |
 | Castle Clash | 38890 | [38890-castle-clash.json](./38890-castle-clash.json) |
+| Castle Clash: Age of Legends | 59299 | [59299-castle-clash-age-of-legends.json](./59299-castle-clash-age-of-legends.json) |
 | Castle Clicker | 67920 | [67920-castle-clicker.json](./67920-castle-clicker.json) |
 | Castle Combat | 342194 | [342194-castle-combat.json](./342194-castle-combat.json) |
 | Castle Combat | 47551 | [47551-castle-combat.json](./47551-castle-combat.json) |
