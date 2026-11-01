@@ -4372,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otto's Escape | 291699 | [291699-ottos-escape.json](./291699-ottos-escape.json) |
 | Otto’s Galactic Groove!! | 340851 | [340851-otto-s-galactic-groove.json](./340851-otto-s-galactic-groove.json) |
 | Otto's Magic Blocks | 208926 | [208926-ottos-magic-blocks.json](./208926-ottos-magic-blocks.json) |
+| Otto's Ottifanten: Baby Bruno's Nightmare | 49042 | [49042-ottos-ottifanten-baby-brunos-nightmare.json](./49042-ottos-ottifanten-baby-brunos-nightmare.json) |
 | Otto's Ottifanten: Kommando Stortebeker | 50559 | [50559-ottos-ottifanten-kommando-stortebeker.json](./50559-ottos-ottifanten-kommando-stortebeker.json) |
 | Otto's Tennis game | 243844 | [243844-ottos-tennis-game.json](./243844-ottos-tennis-game.json) |
 | Ottoman Empire: Spectacular Millennium | 88121 | [88121-ottoman-empire-spectacular-millennium.json](./88121-ottoman-empire-spectacular-millennium.json) |
@@ -4592,6 +4593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Galaxy: Gin no Koushika | 408871 | [408871-out-of-galaxy-gin-no-koushika.json](./408871-out-of-galaxy-gin-no-koushika.json) |
 | Out of Gas | 171254 | [171254-out-of-gas.json](./171254-out-of-gas.json) |
 | Out of Gas | 288325 | [288325-out-of-gas.json](./288325-out-of-gas.json) |
+| Out of Gas | 49050 | [49050-out-of-gas.json](./49050-out-of-gas.json) |
 | Out of Hand | 260055 | [260055-out-of-hand.json](./260055-out-of-hand.json) |
 | Out of Hand: Deluxe | 330138 | [330138-out-of-hand-deluxe.json](./330138-out-of-hand-deluxe.json) |
 | Out of Hands | 211231 | [211231-out-of-hands.json](./211231-out-of-hands.json) |
