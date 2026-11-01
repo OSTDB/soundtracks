@@ -9228,6 +9228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasure Climb | 147873 | [147873-pleasure-climb.json](./147873-pleasure-climb.json) |
 | Pleasure Cruise | 380789 | [380789-pleasure-cruise.json](./380789-pleasure-cruise.json) |
 | Pleasure Delving | 395748 | [395748-pleasure-delving.json](./395748-pleasure-delving.json) |
+| Pleasure Goal | 39950 | [39950-pleasure-goal.json](./39950-pleasure-goal.json) |
 | Pleasure Kingdom | 190075 | [190075-pleasure-kingdom.json](./190075-pleasure-kingdom.json) |
 | Pleasure Party 2 | 262000 | [262000-pleasure-party-2.json](./262000-pleasure-party-2.json) |
 | Pleasure Puzzle: Portrait | 109901 | [109901-pleasure-puzzle-portrait.json](./109901-pleasure-puzzle-portrait.json) |
@@ -11592,6 +11593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poozle Mania: Girls DLC #2 | 277128 | [277128-poozle-mania-girls-dlc-2.json](./277128-poozle-mania-girls-dlc-2.json) |
 | Pop | 21828 | [21828-pop.json](./21828-pop.json) |
 | Pop 'Em Drop 'Em SameGame | 21180 | [21180-pop-em-drop-em-samegame.json](./21180-pop-em-drop-em-samegame.json) |
+| Pop 'n Bounce | 39949 | [39949-pop-n-bounce.json](./39949-pop-n-bounce.json) |
 | Pop 'n Magic | 37582 | [37582-pop-n-magic.json](./37582-pop-n-magic.json) |
 | Pop & Chips | 83213 | [83213-pop-and-chips.json](./83213-pop-and-chips.json) |
 | Pop and Chicks | 253364 | [253364-pop-and-chicks.json](./253364-pop-and-chicks.json) |
@@ -12535,6 +12537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Spike: Pro Beach Volleyball | 265059 | [265059-power-spike-pro-beach-volleyball.json](./265059-power-spike-pro-beach-volleyball.json) |
 | Power Spike: Pro Beach Volleyball | 44888 | [44888-power-spike-pro-beach-volleyball.json](./44888-power-spike-pro-beach-volleyball.json) |
 | Power Spikes | 38569 | [38569-power-spikes.json](./38569-power-spikes.json) |
+| Power Spikes II | 39979 | [39979-power-spikes-ii.json](./39979-power-spikes-ii.json) |
 | Power Stakes | 301385 | [301385-power-stakes.json](./301385-power-stakes.json) |
 | Power Stakes 2 | 301386 | [301386-power-stakes-2.json](./301386-power-stakes-2.json) |
 | Power Stakes: Grade 1 | 141165 | [141165-power-stakes-grade-1.json](./141165-power-stakes-grade-1.json) |
@@ -16110,6 +16113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punk Juice | 285892 | [285892-punk-juice.json](./285892-punk-juice.json) |
 | Punk Plush Panic | 395157 | [395157-punk-plush-panic.json](./395157-punk-plush-panic.json) |
 | Punk Racer | 411619 | [411619-punk-racer.json](./411619-punk-racer.json) |
+| Punk Shot | 39965 | [39965-punk-shot.json](./39965-punk-shot.json) |
 | Punk Star | 330003 | [330003-punk-star.json](./330003-punk-star.json) |
 | Punk Wars | 150059 | [150059-punk-wars.json](./150059-punk-wars.json) |
 | Punk Wars: Threat From Within | 201015 | [201015-punk-wars-threat-from-within.json](./201015-punk-wars-threat-from-within.json) |
@@ -16668,6 +16672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle | 131268 | [131268-puzzle.json](./131268-puzzle.json) |
 | Puzzle | 287546 | [287546-puzzle.json](./287546-puzzle.json) |
 | Puzzle | 423880 | [423880-puzzle.json](./423880-puzzle.json) |
+| Puzzle & Action: Ichidant-R | 39980 | [39980-puzzle-and-action-ichidant-r.json](./39980-puzzle-and-action-ichidant-r.json) |
 | Puzzle & Action: Ichidant-R GG | 46311 | [46311-puzzle-and-action-ichidant-r-gg.json](./46311-puzzle-and-action-ichidant-r-gg.json) |
 | Puzzle & Action: Treasure Hunt | 123590 | [123590-puzzle-and-action-treasure-hunt.json](./123590-puzzle-and-action-treasure-hunt.json) |
 | Puzzle & Battle | 214337 | [214337-puzzle-and-battle.json](./214337-puzzle-and-battle.json) |
@@ -16818,6 +16823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle de Harvest Moon | 20897 | [20897-puzzle-de-harvest-moon.json](./20897-puzzle-de-harvest-moon.json) |
 | Puzzle de Harvest Moon 2 | 67743 | [67743-puzzle-de-harvest-moon-2.json](./67743-puzzle-de-harvest-moon-2.json) |
 | Puzzle de Maid | 77759 | [77759-puzzle-de-maid.json](./77759-puzzle-de-maid.json) |
+| Puzzle de Pon! | 39983 | [39983-puzzle-de-pon.json](./39983-puzzle-de-pon.json) |
 | Puzzle de Pon! R | 47579 | [47579-puzzle-de-pon-r.json](./47579-puzzle-de-pon-r.json) |
 | Puzzle de Shoubu yo! Wootama-chan | 282515 | [282515-puzzle-de-shoubu-yo-wootama-chan.json](./282515-puzzle-de-shoubu-yo-wootama-chan.json) |
 | Puzzle Defense | 143391 | [143391-puzzle-defense.json](./143391-puzzle-defense.json) |
@@ -17053,6 +17059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Tower: Underground | 163542 | [163542-puzzle-tower-underground.json](./163542-puzzle-tower-underground.json) |
 | Puzzle toys | 268979 | [268979-puzzle-toys.json](./268979-puzzle-toys.json) |
 | Puzzle Trains | 89276 | [89276-puzzle-trains.json](./89276-puzzle-trains.json) |
+| Puzzle Uo Poko | 39984 | [39984-puzzle-uo-poko.json](./39984-puzzle-uo-poko.json) |
 | Puzzle Vacations: Australia and New Zealand | 278495 | [278495-puzzle-vacations-australia-and-new-zealand.json](./278495-puzzle-vacations-australia-and-new-zealand.json) |
 | Puzzle Vacations: Christmas | 275443 | [275443-puzzle-vacations-christmas.json](./275443-puzzle-vacations-christmas.json) |
 | Puzzle Vacations: France | 315898 | [315898-puzzle-vacations-france.json](./315898-puzzle-vacations-france.json) |
@@ -17111,6 +17118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlebot Challenge | 138794 | [138794-puzzlebot-challenge.json](./138794-puzzlebot-challenge.json) |
 | PuzzleCore | 404535 | [404535-puzzlecore.json](./404535-puzzlecore.json) |
 | Puzzled | 100211 | [100211-puzzled.json](./100211-puzzled.json) |
+| Puzzled | 39962 | [39962-puzzled.json](./39962-puzzled.json) |
 | Puzzled Cube | 335392 | [335392-puzzled-cube.json](./335392-puzzled-cube.json) |
 | Puzzled Heroes | 116294 | [116294-puzzled-heroes.json](./116294-puzzled-heroes.json) |
 | Puzzled Hive | 311199 | [311199-puzzled-hive.json](./311199-puzzled-hive.json) |
