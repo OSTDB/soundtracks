@@ -2214,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hasbro Toy Factory | 282240 | [282240-hasbro-toy-factory.json](./282240-hasbro-toy-factory.json) |
 | Hasbro's Battleship | 85991 | [85991-hasbros-battleship.json](./85991-hasbros-battleship.json) |
 | Hasegawa Nozomi | 355180 | [355180-hasegawa-nozomi.json](./355180-hasegawa-nozomi.json) |
+| Hash Blocks | 56799 | [56799-hash-blocks.json](./56799-hash-blocks.json) |
 | Hash Line | 120402 | [120402-hash-line.json](./120402-hash-line.json) |
 | Hash Rush | 121248 | [121248-hash-rush.json](./121248-hash-rush.json) |
 | Hashasky Shougun no Daibouken | 212577 | [212577-hashasky-shougun-no-daibouken.json](./212577-hashasky-shougun-no-daibouken.json) |
@@ -3303,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven's Paws | 251781 | [251781-heavens-paws.json](./251781-heavens-paws.json) |
 | Heaven's Vault | 27509 | [27509-heavens-vault.json](./27509-heavens-vault.json) |
 | Heaven's Voice Feast of Famine | 118023 | [118023-heavens-voice-feast-of-famine.json](./118023-heavens-voice-feast-of-famine.json) |
+| Heaven's Will | 56826 | [56826-heavens-will.json](./56826-heavens-will.json) |
 | Heavenbound | 41164 | [41164-heavenbound.json](./41164-heavenbound.json) |
 | Heavenhells | 393771 | [393771-heavenhells.json](./393771-heavenhells.json) |
 | Heavenly Bodies: Cleanup | 260747 | [260747-heavenly-bodies-cleanup.json](./260747-heavenly-bodies-cleanup.json) |
@@ -8546,6 +8548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homesickness | 284787 | [284787-homesickness.json](./284787-homesickness.json) |
 | Homesickness | 344341 | [344341-homesickness.json](./344341-homesickness.json) |
 | Homespace | 106474 | [106474-homespace.json](./106474-homespace.json) |
+| Homestar Portable | 56828 | [56828-homestar-portable.json](./56828-homestar-portable.json) |
 | Homestar Runner: Halloween Hide n' Seek | 251780 | [251780-homestar-runner-halloween-hide-n-seek.json](./251780-homestar-runner-halloween-hide-n-seek.json) |
 | Homestar VR | 105508 | [105508-homestar-vr.json](./105508-homestar-vr.json) |
 | Homestay à la Mode | 396492 | [396492-homestay-a-la-mode.json](./396492-homestay-a-la-mode.json) |
