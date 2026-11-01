@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Punk | 242581 | [242581-ocean-punk.json](./242581-ocean-punk.json) |
 | Ocean Racer | 354583 | [354583-ocean-racer.json](./354583-ocean-racer.json) |
 | Ocean Raft Simulator & Survival | 380706 | [380706-ocean-raft-simulator-and-survival.json](./380706-ocean-raft-simulator-and-survival.json) |
+| Ocean Ranger | 41134 | [41134-ocean-ranger.json](./41134-ocean-ranger.json) |
 | Ocean Riders | 201682 | [201682-ocean-riders.json](./201682-ocean-riders.json) |
 | Ocean Runner | 58776 | [58776-ocean-runner.json](./58776-ocean-runner.json) |
 | Ocean Scenes | 68538 | [68538-ocean-scenes.json](./68538-ocean-scenes.json) |
@@ -1496,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Games: Atlanta 1996 | 4264 | [4264-olympic-games-atlanta-1996.json](./4264-olympic-games-atlanta-1996.json) |
 | Olympic Gold: Barcelona '92 | 46266 | [46266-olympic-gold-barcelona-92.json](./46266-olympic-gold-barcelona-92.json) |
 | Olympic Hockey 98 | 47754 | [47754-olympic-hockey-98.json](./47754-olympic-hockey-98.json) |
+| Olympic Skier | 41133 | [41133-olympic-skier.json](./41133-olympic-skier.json) |
 | Olympic Snow Girl | 415438 | [415438-olympic-snow-girl.json](./415438-olympic-snow-girl.json) |
 | Olympic Soccer | 4292 | [4292-olympic-soccer.json](./4292-olympic-soccer.json) |
 | Olympic Spectacular | 73103 | [73103-olympic-spectacular.json](./73103-olympic-spectacular.json) |
@@ -4039,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Os Encolhidos | 242921 | [242921-os-encolhidos.json](./242921-os-encolhidos.json) |
 | Os Invasores do Futuro | 300447 | [300447-os-invasores-do-futuro.json](./300447-os-invasores-do-futuro.json) |
 | Os Invasores do Futuro 2 | 300448 | [300448-os-invasores-do-futuro-2.json](./300448-os-invasores-do-futuro-2.json) |
+| Os Man | 41088 | [41088-os-man.json](./41088-os-man.json) |
 | Os Trapalhões apresentam Didi na Mina Encantada! | 262416 | [262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json](./262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json) |
 | Os Três Porquinhos | 281880 | [281880-os-tres-porquinhos.json](./281880-os-tres-porquinhos.json) |
 | OS: Memories | 188787 | [188787-os-memories.json](./188787-os-memories.json) |
