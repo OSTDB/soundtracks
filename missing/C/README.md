@@ -6622,6 +6622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Child of Abyss | 167293 | [167293-child-of-abyss.json](./167293-child-of-abyss.json) |
 | Child of Aether | 219999 | [219999-child-of-aether.json](./219999-child-of-aether.json) |
 | Child of Ault | 30196 | [30196-child-of-ault.json](./30196-child-of-ault.json) |
+| Child of Cooper | 59611 | [59611-child-of-cooper.json](./59611-child-of-cooper.json) |
 | Child of Hope | 190228 | [190228-child-of-hope.json](./190228-child-of-hope.json) |
 | Child of Light: Dark Aurora Pack | 160279 | [160279-child-of-light-dark-aurora-pack.json](./160279-child-of-light-dark-aurora-pack.json) |
 | Child of Light: Deluxe Edition | 129501 | [129501-child-of-light-deluxe-edition.json](./129501-child-of-light-deluxe-edition.json) |
@@ -9860,6 +9861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluck Cluck'em | 183456 | [183456-cluck-cluckem.json](./183456-cluck-cluckem.json) |
 | Cluck Frenzy | 278915 | [278915-cluck-frenzy.json](./278915-cluck-frenzy.json) |
 | Cluck to the Top! | 373594 | [373594-cluck-to-the-top.json](./373594-cluck-to-the-top.json) |
+| Cluck Yegger in Escape from the Planet of the Poultroid | 59607 | [59607-cluck-yegger-in-escape-from-the-planet-of-the-poultroid.json](./59607-cluck-yegger-in-escape-from-the-planet-of-the-poultroid.json) |
 | Cluck-a-Thon | 258116 | [258116-cluck-a-thon.json](./258116-cluck-a-thon.json) |
 | Cluck: Hat Pack 3 | 248394 | [248394-cluck-hat-pack-3.json](./248394-cluck-hat-pack-3.json) |
 | Clucking Dubbed to Feathers | 268872 | [268872-clucking-dubbed-to-feathers.json](./268872-clucking-dubbed-to-feathers.json) |
@@ -16581,6 +16583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
 | Cruelty | 304249 | [304249-cruelty.json](./304249-cruelty.json) |
 | Cruelty | 402295 | [402295-cruelty.json](./402295-cruelty.json) |
+| Cruentis the Murderer Vol.1 | 59576 | [59576-cruentis-the-murderer-vol-1.json](./59576-cruentis-the-murderer-vol-1.json) |
 | Cruft | 327893 | [327893-cruft.json](./327893-cruft.json) |
 | Cruis'n | 4779 | [4779-cruisn.json](./4779-cruisn.json) |
 | Cruis'n Blast | 152357 | [152357-cruisn-blast.json](./152357-cruisn-blast.json) |
