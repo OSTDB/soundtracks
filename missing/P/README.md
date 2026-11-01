@@ -2073,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pararecords | 325020 | [325020-pararecords.json](./325020-pararecords.json) |
 | Pararena | 130356 | [130356-pararena.json](./130356-pararena.json) |
 | Parascientific Escape: Cruise in the Distant Seas | 52024 | [52024-parascientific-escape-cruise-in-the-distant-seas.json](./52024-parascientific-escape-cruise-in-the-distant-seas.json) |
+| Parascientific Escape: Gear Detective | 27195 | [27195-parascientific-escape-gear-detective.json](./27195-parascientific-escape-gear-detective.json) |
 | Parasensor | 347911 | [347911-parasensor.json](./347911-parasensor.json) |
 | Parashoot Stan | 64196 | [64196-parashoot-stan.json](./64196-parashoot-stan.json) |
 | Parashotical Arktivibeatings | 235189 | [235189-parashotical-arktivibeatings.json](./235189-parashotical-arktivibeatings.json) |
@@ -12890,6 +12891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Manager 2 | 73617 | [73617-premier-manager-2.json](./73617-premier-manager-2.json) |
 | Premier Manager 2000 | 43725 | [43725-premier-manager-2000.json](./43725-premier-manager-2000.json) |
 | Premier Manager 2002-03 | 95428 | [95428-premier-manager-2002-03.json](./95428-premier-manager-2002-03.json) |
+| Premier Manager 2003-04 | 27250 | [27250-premier-manager-2003-04.json](./27250-premier-manager-2003-04.json) |
 | Premier Manager 2004-2005 | 248630 | [248630-premier-manager-2004-2005.json](./248630-premier-manager-2004-2005.json) |
 | Premier Manager 2004-2005 | 49355 | [49355-premier-manager-2004-2005.json](./49355-premier-manager-2004-2005.json) |
 | Premier Manager 2005-2006 | 49354 | [49354-premier-manager-2005-2006.json](./49354-premier-manager-2005-2006.json) |
