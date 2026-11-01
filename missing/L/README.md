@@ -1733,6 +1733,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lay a Beauty to Rest: The Darkness Peach Blossom Spring | 229920 | [229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json](./229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json) |
 | Lay an Egg | 348015 | [348015-lay-an-egg.json](./348015-lay-an-egg.json) |
 | Lay Down Your Roots | 184832 | [184832-lay-down-your-roots.json](./184832-lay-down-your-roots.json) |
+| Laydock | 41683 | [41683-laydock.json](./41683-laydock.json) |
+| Laydock 2: Last Attack | 41682 | [41682-laydock-2-last-attack.json](./41682-laydock-2-last-attack.json) |
 | Layer - Simple is Hard | 128568 | [128568-layer-simple-is-hard.json](./128568-layer-simple-is-hard.json) |
 | Layer Cake | 370342 | [370342-layer-cake.json](./370342-layer-cake.json) |
 | Layer Front | 108929 | [108929-layer-front.json](./108929-layer-front.json) |
@@ -9150,6 +9152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lupin III: Pandora no Isan | 76995 | [76995-lupin-iii-pandora-no-isan.json](./76995-lupin-iii-pandora-no-isan.json) |
 | Lupin III: The Master File | 66213 | [66213-lupin-iii-the-master-file.json](./66213-lupin-iii-the-master-file.json) |
 | Lupin III: Umi ni Kieta Hihou | 36790 | [36790-lupin-iii-umi-ni-kieta-hihou.json](./36790-lupin-iii-umi-ni-kieta-hihou.json) |
+| Lupin Sansei: Cagliostro no Shiro | 41707 | [41707-lupin-sansei-cagliostro-no-shiro.json](./41707-lupin-sansei-cagliostro-no-shiro.json) |
 | Lupin Sansei: Columbus no Isan | 66202 | [66202-lupin-sansei-columbus-no-isan.json](./66202-lupin-sansei-columbus-no-isan.json) |
 | Lupin Sansei: Lupin ni ha Shi wo, Zenigata ni ha Koi wo | 25579 | [25579-lupin-sansei-lupin-ni-ha-shi-wo-zenigata-ni-ha-koi-wo.json](./25579-lupin-sansei-lupin-ni-ha-shi-wo-zenigata-ni-ha-koi-wo.json) |
 | Lupin Sansei: Pyramid no Kenja | 66214 | [66214-lupin-sansei-pyramid-no-kenja.json](./66214-lupin-sansei-pyramid-no-kenja.json) |
