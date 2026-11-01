@@ -1466,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys I Complete | 124501 | [124501-ys-i-complete.json](./124501-ys-i-complete.json) |
 | Ys II | 206537 | [206537-ys-ii.json](./206537-ys-ii.json) |
 | Ys II Chronicals | 410167 | [410167-ys-ii-chronicals.json](./410167-ys-ii-chronicals.json) |
+| Ys II Chronicles+ | 146074 | [146074-ys-ii-chronicles.json](./146074-ys-ii-chronicles.json) |
 | Ys II Complete | 124500 | [124500-ys-ii-complete.json](./124500-ys-ii-complete.json) |
 | Ys II DS | 112196 | [112196-ys-ii-ds.json](./112196-ys-ii-ds.json) |
 | Ys II Eternal | 124502 | [124502-ys-ii-eternal.json](./124502-ys-ii-eternal.json) |
@@ -1894,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yupitergrad | 142438 | [142438-yupitergrad.json](./142438-yupitergrad.json) |
 | Yupitergrad 2: The Lost Station | 202106 | [202106-yupitergrad-2-the-lost-station.json](./202106-yupitergrad-2-the-lost-station.json) |
 | Yuppie Psycho: Collector's Edition | 198132 | [198132-yuppie-psycho-collectors-edition.json](./198132-yuppie-psycho-collectors-edition.json) |
+| Yuppie Psycho: Executive Edition | 147268 | [147268-yuppie-psycho-executive-edition.json](./147268-yuppie-psycho-executive-edition.json) |
 | Yuppy's Adventure | 148694 | [148694-yuppys-adventure.json](./148694-yuppys-adventure.json) |
 | Yuque | 166571 | [166571-yuque.json](./166571-yuque.json) |
 | Yura | 382326 | [382326-yura.json](./382326-yura.json) |
