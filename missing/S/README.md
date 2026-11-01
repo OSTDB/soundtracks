@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sage Mountain | 118331 | [118331-sage-mountain.json](./118331-sage-mountain.json) |
 | Sage Solitaire | 59059 | [59059-sage-solitaire.json](./59059-sage-solitaire.json) |
 | Sageball | 123788 | [123788-sageball.json](./123788-sageball.json) |
+| Sagebrush | 102095 | [102095-sagebrush.json](./102095-sagebrush.json) |
 | Sages Of Kaboom | 255989 | [255989-sages-of-kaboom.json](./255989-sages-of-kaboom.json) |
 | Sages of Vandaleria: Rebirth of an Empire | 313200 | [313200-sages-of-vandaleria-rebirth-of-an-empire.json](./313200-sages-of-vandaleria-rebirth-of-an-empire.json) |
 | Sagger | 220494 | [220494-sagger.json](./220494-sagger.json) |
@@ -7869,6 +7870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Orb Prequel | 109704 | [109704-shining-orb-prequel.json](./109704-shining-orb-prequel.json) |
 | Shining Plume 2 | 29385 | [29385-shining-plume-2.json](./29385-shining-plume-2.json) |
 | Shining Resonance | 44561 | [44561-shining-resonance.json](./44561-shining-resonance.json) |
+| Shining Resonance Refrain | 75865 | [75865-shining-resonance-refrain.json](./75865-shining-resonance-refrain.json) |
 | Shining Resonance Refrain: Draconic Launch Edition | 136281 | [136281-shining-resonance-refrain-draconic-launch-edition.json](./136281-shining-resonance-refrain-draconic-launch-edition.json) |
 | Shining Resonance Refrain: Premium Fan Box - Limited Edition | 212320 | [212320-shining-resonance-refrain-premium-fan-box-limited-edition.json](./212320-shining-resonance-refrain-premium-fan-box-limited-edition.json) |
 | Shining Song Starnova | 52062 | [52062-shining-song-starnova.json](./52062-shining-song-starnova.json) |
@@ -13389,6 +13391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMIB: Mission Cure | 157415 | [157415-smib-mission-cure.json](./157415-smib-mission-cure.json) |
 | Smile | 129706 | [129706-smile.json](./129706-smile.json) |
 | Smile Dog | 361620 | [361620-smile-dog.json](./361620-smile-dog.json) |
+| Smile For Me | 116851 | [116851-smile-for-me.json](./116851-smile-for-me.json) |
 | Smile For Me: Collector's Edition | 229691 | [229691-smile-for-me-collectors-edition.json](./229691-smile-for-me-collectors-edition.json) |
 | Smile For Me: Mega Happiness Bundle | 286695 | [286695-smile-for-me-mega-happiness-bundle.json](./286695-smile-for-me-mega-happiness-bundle.json) |
 | Smile Guide: The Apple Escape | 56136 | [56136-smile-guide-the-apple-escape.json](./56136-smile-guide-the-apple-escape.json) |
@@ -19099,6 +19102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkling Feather | 46612 | [46612-sparkling-feather.json](./46612-sparkling-feather.json) |
 | Sparkling Memories | 372208 | [372208-sparkling-memories.json](./372208-sparkling-memories.json) |
 | Sparkling Memory | 246546 | [246546-sparkling-memory.json](./246546-sparkling-memory.json) |
+| Sparklite | 97950 | [97950-sparklite.json](./97950-sparklite.json) |
 | Sparklite: Deluxe Edition | 154216 | [154216-sparklite-deluxe-edition.json](./154216-sparklite-deluxe-edition.json) |
 | SparkMutts | 211214 | [211214-sparkmutts.json](./211214-sparkmutts.json) |
 | Sparkour | 34852 | [34852-sparkour.json](./34852-sparkour.json) |
@@ -22745,6 +22749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Genesis | 383446 | [383446-star-wars-genesis.json](./383446-star-wars-genesis.json) |
 | Star Wars Genesis | 400347 | [400347-star-wars-genesis.json](./400347-star-wars-genesis.json) |
 | Star Wars Jedi Cross-Gen Bundle Edition | 312974 | [312974-star-wars-jedi-cross-gen-bundle-edition.json](./312974-star-wars-jedi-cross-gen-bundle-edition.json) |
+| Star Wars Jedi: Fallen Order - Deluxe Edition | 117405 | [117405-star-wars-jedi-fallen-order-deluxe-edition.json](./117405-star-wars-jedi-fallen-order-deluxe-edition.json) |
 | Star Wars Jedi: Survivor - Deluxe Edition | 227942 | [227942-star-wars-jedi-survivor-deluxe-edition.json](./227942-star-wars-jedi-survivor-deluxe-edition.json) |
 | Star Wars Knights of the Old Republic Bundle | 204280 | [204280-star-wars-knights-of-the-old-republic-bundle.json](./204280-star-wars-knights-of-the-old-republic-bundle.json) |
 | Star Wars Math: Jabba's Game Galaxy | 73254 | [73254-star-wars-math-jabbas-game-galaxy.json](./73254-star-wars-math-jabbas-game-galaxy.json) |
@@ -25587,6 +25592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger Tavern: Brawl | 392108 | [392108-stranger-tavern-brawl.json](./392108-stranger-tavern-brawl.json) |
 | Stranger Than Heaven | 325599 | [325599-stranger-than-heaven.json](./325599-stranger-than-heaven.json) |
 | Stranger Things | 327225 | [327225-stranger-things.json](./327225-stranger-things.json) |
+| Stranger Things 3: The Game | 108797 | [108797-stranger-things-3-the-game.json](./108797-stranger-things-3-the-game.json) |
 | Stranger Things VR | 225668 | [225668-stranger-things-vr.json](./225668-stranger-things-vr.json) |
 | Stranger Things: 1984 | 72765 | [72765-stranger-things-1984.json](./72765-stranger-things-1984.json) |
 | Stranger Things: Puzzle Tales | 197248 | [197248-stranger-things-puzzle-tales.json](./197248-stranger-things-puzzle-tales.json) |
@@ -26225,6 +26231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streetkix Freestyle | 52865 | [52865-streetkix-freestyle.json](./52865-streetkix-freestyle.json) |
 | StreetMobsters | 65375 | [65375-streetmobsters.json](./65375-streetmobsters.json) |
 | Streetoir | 272226 | [272226-streetoir.json](./272226-streetoir.json) |
+| StreetPass Mii Plaza | 80022 | [80022-streetpass-mii-plaza.json](./80022-streetpass-mii-plaza.json) |
 | Streets Ablaze | 97175 | [97175-streets-ablaze.json](./97175-streets-ablaze.json) |
 | Streets At Midnight | 179857 | [179857-streets-at-midnight.json](./179857-streets-at-midnight.json) |
 | Streets of Fear | 351754 | [351754-streets-of-fear.json](./351754-streets-of-fear.json) |
