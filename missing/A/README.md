@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Nest for Us | 259499 | [259499-a-nest-for-us.json](./259499-a-nest-for-us.json) |
 | A Neverending Night | 183772 | [183772-a-neverending-night.json](./183772-a-neverending-night.json) |
 | A New Adventure: FaYoh 2 | 131374 | [131374-a-new-adventure-fayoh-2.json](./131374-a-new-adventure-fayoh-2.json) |
+| A New Beginning | 7147 | [7147-a-new-beginning.json](./7147-a-new-beginning.json) |
 | A New Beginning: Final Cut Edition | 52535 | [52535-a-new-beginning-final-cut-edition.json](./52535-a-new-beginning-final-cut-edition.json) |
 | A New Don | 183433 | [183433-a-new-don.json](./183433-a-new-don.json) |
 | A New Kaizo Era | 213572 | [213572-a-new-kaizo-era.json](./213572-a-new-kaizo-era.json) |
@@ -1911,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Despair Collection | 52556 | [52556-absolute-despair-collection.json](./52556-absolute-despair-collection.json) |
 | Absolute Doppelkopf | 79215 | [79215-absolute-doppelkopf.json](./79215-absolute-doppelkopf.json) |
 | Absolute Doppelkopf for Windows 11 | 264542 | [264542-absolute-doppelkopf-for-windows-11.json](./264542-absolute-doppelkopf-for-windows-11.json) |
+| Absolute Drift | 11587 | [11587-absolute-drift.json](./11587-absolute-drift.json) |
 | Absolute Drift: Zen Edition | 23835 | [23835-absolute-drift-zen-edition.json](./23835-absolute-drift-zen-edition.json) |
 | Absolute Duo | 92286 | [92286-absolute-duo.json](./92286-absolute-duo.json) |
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
