@@ -2444,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Mortal | 203852 | [203852-legend-of-mortal.json](./203852-legend-of-mortal.json) |
 | Legend of Mushroom | 296826 | [296826-legend-of-mushroom.json](./296826-legend-of-mushroom.json) |
 | Legend of Mysteria RPG | 53268 | [53268-legend-of-mysteria-rpg.json](./53268-legend-of-mysteria-rpg.json) |
+| Legend of Numbers | 32449 | [32449-legend-of-numbers.json](./32449-legend-of-numbers.json) |
 | Legend of Pandonia | 188315 | [188315-legend-of-pandonia.json](./188315-legend-of-pandonia.json) |
 | Legend of Parry King | 309506 | [309506-legend-of-parry-king.json](./309506-legend-of-parry-king.json) |
 | Legend Of Peks: Halloween Horror | 272753 | [272753-legend-of-peks-halloween-horror.json](./272753-legend-of-peks-halloween-horror.json) |
@@ -8688,6 +8689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludo Online | 89583 | [89583-ludo-online.json](./89583-ludo-online.json) |
 | Ludo Park | 257342 | [257342-ludo-park.json](./257342-ludo-park.json) |
 | Ludo Saga | 240349 | [240349-ludo-saga.json](./240349-ludo-saga.json) |
+| Ludo Supremo | 32407 | [32407-ludo-supremo.json](./32407-ludo-supremo.json) |
 | Ludo Tactics | 248813 | [248813-ludo-tactics.json](./248813-ludo-tactics.json) |
 | Ludo Ultimate Online Dice Game | 91343 | [91343-ludo-ultimate-online-dice-game.json](./91343-ludo-ultimate-online-dice-game.json) |
 | Ludo XXL | 173136 | [173136-ludo-xxl.json](./173136-ludo-xxl.json) |
