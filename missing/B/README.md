@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3436,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Grounds III | 117066 | [117066-battle-grounds-iii.json](./117066-battle-grounds-iii.json) |
 | Battle Group | 26378 | [26378-battle-group.json](./26378-battle-group.json) |
 | Battle Group 2 | 10040 | [10040-battle-group-2.json](./10040-battle-group-2.json) |
+| Battle Group Commander: Episode One | 59584 | [59584-battle-group-commander-episode-one.json](./59584-battle-group-commander-episode-one.json) |
 | Battle Guns Simulator | 149320 | [149320-battle-guns-simulator.json](./149320-battle-guns-simulator.json) |
 | Battle Guys | 300439 | [300439-battle-guys.json](./300439-battle-guys.json) |
 | Battle Hanafuda | 377059 | [377059-battle-hanafuda.json](./377059-battle-hanafuda.json) |
@@ -3806,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlecaster 2 | 386231 | [386231-battlecaster-2.json](./386231-battlecaster-2.json) |
 | Battlechat | 276245 | [276245-battlechat.json](./276245-battlechat.json) |
 | BattleClaws | 297784 | [297784-battleclaws.json](./297784-battleclaws.json) |
+| Battlecode | 59612 | [59612-battlecode.json](./59612-battlecode.json) |
 | BattleCommand! | 21903 | [21903-battlecommand.json](./21903-battlecommand.json) |
 | Battlecon: Online | 82721 | [82721-battlecon-online.json](./82721-battlecon-online.json) |
 | Battlecon: Online - Season 1 | 174140 | [174140-battlecon-online-season-1.json](./174140-battlecon-online-season-1.json) |
@@ -7002,9 +7005,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Watermelon | 149358 | [149358-big-watermelon.json](./149358-big-watermelon.json) |
 | Big Watermelon Galaxy | 420677 | [420677-big-watermelon-galaxy.json](./420677-big-watermelon-galaxy.json) |
 | Big Watermelon Match | 283295 | [283295-big-watermelon-match.json](./283295-big-watermelon-match.json) |
+| Big Win Baseball | 59620 | [59620-big-win-baseball.json](./59620-big-win-baseball.json) |
+| Big Win Basketball | 59623 | [59623-big-win-basketball.json](./59623-big-win-basketball.json) |
+| Big Win Football | 59616 | [59616-big-win-football.json](./59616-big-win-football.json) |
 | Big Win Football 2015 | 59629 | [59629-big-win-football-2015.json](./59629-big-win-football-2015.json) |
 | Big Win Football 2019 | 108590 | [108590-big-win-football-2019.json](./108590-big-win-football-2019.json) |
 | Big Win Hockey | 59627 | [59627-big-win-hockey.json](./59627-big-win-hockey.json) |
+| Big Win NHL | 59621 | [59621-big-win-nhl.json](./59621-big-win-nhl.json) |
+| Big Win Racing | 59622 | [59622-big-win-racing.json](./59622-big-win-racing.json) |
 | Big Win Soccer | 59624 | [59624-big-win-soccer.json](./59624-big-win-soccer.json) |
 | Big Yeetus | 260096 | [260096-big-yeetus.json](./260096-big-yeetus.json) |
 | Big-Battle Tanks | 388220 | [388220-big-battle-tanks.json](./388220-big-battle-tanks.json) |
@@ -7492,6 +7500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biomass | 121890 | [121890-biomass.json](./121890-biomass.json) |
 | Biomass | 142950 | [142950-biomass.json](./142950-biomass.json) |
 | Biomass: Extermination | 361275 | [361275-biomass-extermination.json](./361275-biomass-extermination.json) |
+| Biome 3D | 59609 | [59609-biome-3d.json](./59609-biome-3d.json) |
 | Biome Conquest | 227943 | [227943-biome-conquest.json](./227943-biome-conquest.json) |
 | Biome: Mr. Self Destruct | 271330 | [271330-biome-mr-self-destruct.json](./271330-biome-mr-self-destruct.json) |
 | Biomech Hell | 250983 | [250983-biomech-hell.json](./250983-biomech-hell.json) |
