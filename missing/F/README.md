@@ -2928,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Labyrinth | 4496 | [4496-fatal-labyrinth.json](./4496-fatal-labyrinth.json) |
 | Fatal Midnight | 280731 | [280731-fatal-midnight.json](./280731-fatal-midnight.json) |
 | Fatal Passion: Art Prison | 139775 | [139775-fatal-passion-art-prison.json](./139775-fatal-passion-art-prison.json) |
+| Fatal Passion: Art Prison - Collector's Edition | 29426 | [29426-fatal-passion-art-prison-collectors-edition.json](./29426-fatal-passion-art-prison-collectors-edition.json) |
 | Fatal Paws | 189351 | [189351-fatal-paws.json](./189351-fatal-paws.json) |
 | Fatal Pursuit | 362996 | [362996-fatal-pursuit.json](./362996-fatal-pursuit.json) |
 | Fatal Research | 398168 | [398168-fatal-research.json](./398168-fatal-research.json) |
