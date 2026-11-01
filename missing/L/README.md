@@ -9146,6 +9146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lupin III | 290867 | [290867-lupin-iii.json](./290867-lupin-iii.json) |
 | Lupin III | 46760 | [46760-lupin-iii.json](./46760-lupin-iii.json) |
 | Lupin III Sansei: Cagliostro no Shiro Saikai | 302706 | [302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json](./302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json) |
+| Lupin III: Densetsu no Hihou wo Oe! | 42333 | [42333-lupin-iii-densetsu-no-hihou-wo-oe.json](./42333-lupin-iii-densetsu-no-hihou-wo-oe.json) |
 | Lupin III: Pandora no Isan | 76995 | [76995-lupin-iii-pandora-no-isan.json](./76995-lupin-iii-pandora-no-isan.json) |
 | Lupin III: The Master File | 66213 | [66213-lupin-iii-the-master-file.json](./66213-lupin-iii-the-master-file.json) |
 | Lupin III: Umi ni Kieta Hihou | 36790 | [36790-lupin-iii-umi-ni-kieta-hihou.json](./36790-lupin-iii-umi-ni-kieta-hihou.json) |
