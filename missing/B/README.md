@@ -3135,6 +3135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Knight - 1989 Movie Batmobile Pack | 15520 | [15520-batman-arkham-knight-1989-movie-batmobile-pack.json](./15520-batman-arkham-knight-1989-movie-batmobile-pack.json) |
 | Batman: Arkham Knight - 1st Appearance Batman Skin | 25977 | [25977-batman-arkham-knight-1st-appearance-batman-skin.json](./25977-batman-arkham-knight-1st-appearance-batman-skin.json) |
 | Batman: Arkham Knight - 2008 Tumbler Batmobile Pack | 15524 | [15524-batman-arkham-knight-2008-tumbler-batmobile-pack.json](./15524-batman-arkham-knight-2008-tumbler-batmobile-pack.json) |
+| Batman: Arkham Knight - A Flip of a Coin | 15530 | [15530-batman-arkham-knight-a-flip-of-a-coin.json](./15530-batman-arkham-knight-a-flip-of-a-coin.json) |
 | Batman: Arkham Knight - A Matter of Family | 15519 | [15519-batman-arkham-knight-a-matter-of-family.json](./15519-batman-arkham-knight-a-matter-of-family.json) |
 | Batman: Arkham Knight - Bat-Family Skin Pack | 15521 | [15521-batman-arkham-knight-bat-family-skin-pack.json](./15521-batman-arkham-knight-bat-family-skin-pack.json) |
 | Batman: Arkham Knight - Batman Classic TV Series Batmobile Pack | 15527 | [15527-batman-arkham-knight-batman-classic-tv-series-batmobile-pack.json](./15527-batman-arkham-knight-batman-classic-tv-series-batmobile-pack.json) |
