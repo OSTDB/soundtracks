@@ -8573,6 +8573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Luke: Nitroglycerine | 240264 | [240264-lucky-luke-nitroglycerine.json](./240264-lucky-luke-nitroglycerine.json) |
 | Lucky Luke: Nitroglycerine | 240268 | [240268-lucky-luke-nitroglycerine.json](./240268-lucky-luke-nitroglycerine.json) |
 | Lucky Luke: Nitroglycerine | 240272 | [240272-lucky-luke-nitroglycerine.json](./240272-lucky-luke-nitroglycerine.json) |
+| Lucky Luke: On the Dalton's Trail | 44968 | [44968-lucky-luke-on-the-daltons-trail.json](./44968-lucky-luke-on-the-daltons-trail.json) |
 | Lucky Luke: Wanted! | 49331 | [49331-lucky-luke-wanted.json](./49331-lucky-luke-wanted.json) |
 | Lucky Luke: Western Fever | 43886 | [43886-lucky-luke-western-fever.json](./43886-lucky-luke-western-fever.json) |
 | Lucky Luna | 204452 | [204452-lucky-luna.json](./204452-lucky-luna.json) |
@@ -9067,6 +9068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar: Sanposuru Gakuen | 46354 | [46354-lunar-sanposuru-gakuen.json](./46354-lunar-sanposuru-gakuen.json) |
 | Lunar: Silver Star Harmony | 13909 | [13909-lunar-silver-star-harmony.json](./13909-lunar-silver-star-harmony.json) |
 | Lunar: Silver Star Story Complete | 13905 | [13905-lunar-silver-star-story-complete.json](./13905-lunar-silver-star-story-complete.json) |
+| Lunar: Silver Star Story Complete - Collector's Edition | 44960 | [44960-lunar-silver-star-story-complete-collectors-edition.json](./44960-lunar-silver-star-story-complete-collectors-edition.json) |
 | Lunar: The Last Human | 220435 | [220435-lunar-the-last-human.json](./220435-lunar-the-last-human.json) |
 | Lunar: The Silver Star | 5334 | [5334-lunar-the-silver-star.json](./5334-lunar-the-silver-star.json) |
 | Lunar's Chosen | 280781 | [280781-lunars-chosen.json](./280781-lunars-chosen.json) |
