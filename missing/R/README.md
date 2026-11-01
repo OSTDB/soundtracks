@@ -3977,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redrum | 237269 | [237269-redrum.json](./237269-redrum.json) |
 | Reds Adventure A Seasons New Beginning | 188767 | [188767-reds-adventure-a-seasons-new-beginning.json](./188767-reds-adventure-a-seasons-new-beginning.json) |
 | RedShift | 328963 | [328963-redshift.json](./328963-redshift.json) |
+| Redshift 7 | 27253 | [27253-redshift-7.json](./27253-redshift-7.json) |
 | Redshift Blueshift | 35314 | [35314-redshift-blueshift.json](./35314-redshift-blueshift.json) |
 | Redshift VR | 111067 | [111067-redshift-vr.json](./111067-redshift-vr.json) |
 | RedShip | 188968 | [188968-redship.json](./188968-redship.json) |
