@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval Campaigns Tsushima | 141669 | [141669-naval-campaigns-tsushima.json](./141669-naval-campaigns-tsushima.json) |
 | Naval Campaigns Wolfpack | 141666 | [141666-naval-campaigns-wolfpack.json](./141666-naval-campaigns-wolfpack.json) |
 | Naval Creed: Warships | 239921 | [239921-naval-creed-warships.json](./239921-naval-creed-warships.json) |
+| Naval Front-Line | 56234 | [56234-naval-front-line.json](./56234-naval-front-line.json) |
 | Naval Hurricane | 217324 | [217324-naval-hurricane.json](./217324-naval-hurricane.json) |
 | Naval Ops: Warship Gunner | 23706 | [23706-naval-ops-warship-gunner.json](./23706-naval-ops-warship-gunner.json) |
 | Naval Ops: Warship Gunner 2 | 20496 | [20496-naval-ops-warship-gunner-2.json](./20496-naval-ops-warship-gunner-2.json) |
@@ -5081,6 +5082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Street Run 2 | 300349 | [300349-nitro-street-run-2.json](./300349-nitro-street-run-2.json) |
 | Nitro Stunt Racing: Stage 1 | 97529 | [97529-nitro-stunt-racing-stage-1.json](./97529-nitro-stunt-racing-stage-1.json) |
 | Nitro Thrash | 408082 | [408082-nitro-thrash.json](./408082-nitro-thrash.json) |
+| Nitro Type | 56235 | [56235-nitro-type.json](./56235-nitro-type.json) |
 | Nitro: Stream Racing | 231860 | [231860-nitro-stream-racing.json](./231860-nitro-stream-racing.json) |
 | NitroClash.io | 83294 | [83294-nitroclash-io.json](./83294-nitroclash-io.json) |
 | Nitroglycerin | 272104 | [272104-nitroglycerin.json](./272104-nitroglycerin.json) |
