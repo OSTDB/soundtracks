@@ -1815,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elan Plus | 166161 | [166161-elan-plus.json](./166161-elan-plus.json) |
 | Elana Champion of Lust | 198549 | [198549-elana-champion-of-lust.json](./198549-elana-champion-of-lust.json) |
 | Elandrake | 421837 | [421837-elandrake.json](./421837-elandrake.json) |
+| Elansar | 33705 | [33705-elansar.json](./33705-elansar.json) |
 | Elara | 273768 | [273768-elara.json](./273768-elara.json) |
 | Elara and the Machine | 370169 | [370169-elara-and-the-machine.json](./370169-elara-and-the-machine.json) |
 | Elara's Light | 318127 | [318127-elaras-light.json](./318127-elaras-light.json) |
