@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-01T21:04:50.997Z",
-  "total_missing": 295010,
+  "generated_at": "2026-11-01T21:14:16.393Z",
+  "total_missing": 294995,
   "games": [
     {
       "igdb_id": 191680,
@@ -92720,11 +92720,6 @@
       "igdb_id": 130323,
       "game_name": "Atelier Questboard",
       "file": "missing/A/130323-atelier-questboard.json"
-    },
-    {
-      "igdb_id": 260817,
-      "game_name": "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator",
-      "file": "missing/A/260817-atelier-resleriana-forgotten-alchemy-and-the-polar-night-liberator.json"
     },
     {
       "igdb_id": 318001,
@@ -223440,11 +223435,6 @@
       "igdb_id": 392147,
       "game_name": "Chop Chop Together",
       "file": "missing/C/392147-chop-chop-together.json"
-    },
-    {
-      "igdb_id": 225792,
-      "game_name": "Chop Goblins",
-      "file": "missing/C/225792-chop-goblins.json"
     },
     {
       "igdb_id": 389455,
@@ -385402,11 +385392,6 @@
       "file": "missing/E/376701-elevator-goes-up.json"
     },
     {
-      "igdb_id": 219056,
-      "game_name": "Elevator Hitch",
-      "file": "missing/E/219056-elevator-hitch.json"
-    },
-    {
       "igdb_id": 329588,
       "game_name": "Elevator Music",
       "file": "missing/E/329588-elevator-music.json"
@@ -544782,11 +544767,6 @@
       "file": "missing/H/406176-hauntify-mixed-reality.json"
     },
     {
-      "igdb_id": 217008,
-      "game_name": "Hauntii",
-      "file": "missing/H/217008-hauntii.json"
-    },
-    {
       "igdb_id": 158552,
       "game_name": "Haunting At Cliffhouse",
       "file": "missing/H/158552-haunting-at-cliffhouse.json"
@@ -577795,11 +577775,6 @@
       "igdb_id": 10734,
       "game_name": "Horizon Chase",
       "file": "missing/H/10734-horizon-chase.json"
-    },
-    {
-      "igdb_id": 215062,
-      "game_name": "Horizon Chase 2",
-      "file": "missing/H/215062-horizon-chase-2.json"
     },
     {
       "igdb_id": 170428,
@@ -689277,11 +689252,6 @@
       "file": "missing/L/125794-lenen-teneisenki-brilliant-pagoda-or-haze-castle.json"
     },
     {
-      "igdb_id": 136594,
-      "game_name": "Len's Island",
-      "file": "missing/L/136594-lens-island.json"
-    },
-    {
       "igdb_id": 393450,
       "game_name": "Lendarios: Limits Breakers 1",
       "file": "missing/L/393450-lendarios-limits-breakers-1.json"
@@ -753702,11 +753672,6 @@
       "file": "missing/M/168651-meditation-vr.json"
     },
     {
-      "igdb_id": 252528,
-      "game_name": "Mediterranea Inferno",
-      "file": "missing/M/252528-mediterranea-inferno.json"
-    },
-    {
       "igdb_id": 131790,
       "game_name": "Mediterranean Voidland",
       "file": "missing/M/131790-mediterranean-voidland.json"
@@ -797035,11 +797000,6 @@
       "igdb_id": 243940,
       "game_name": "Moon Minions",
       "file": "missing/M/243940-moon-minions.json"
-    },
-    {
-      "igdb_id": 196935,
-      "game_name": "Moon Mystery",
-      "file": "missing/M/196935-moon-mystery.json"
     },
     {
       "igdb_id": 193859,
@@ -884555,11 +884515,6 @@
       "igdb_id": 377983,
       "game_name": "Outpacked",
       "file": "missing/O/377983-outpacked.json"
-    },
-    {
-      "igdb_id": 229007,
-      "game_name": "Outpath",
-      "file": "missing/O/229007-outpath.json"
     },
     {
       "igdb_id": 236761,
@@ -1107282,11 +1107237,6 @@
       "file": "missing/S/131705-sludge-life.json"
     },
     {
-      "igdb_id": 242597,
-      "game_name": "Sludge Life 2",
-      "file": "missing/S/242597-sludge-life-2.json"
-    },
-    {
       "igdb_id": 254974,
       "game_name": "Sludge Life: The Big Mud Sessions",
       "file": "missing/S/254974-sludge-life-the-big-mud-sessions.json"
@@ -1173772,11 +1173722,6 @@
       "file": "missing/S/203317-streets-of-rage.json"
     },
     {
-      "igdb_id": 203318,
-      "game_name": "Streets of Rage 2",
-      "file": "missing/S/203318-streets-of-rage-2.json"
-    },
-    {
       "igdb_id": 315122,
       "game_name": "Streets of Rage 2: Puyo Wars",
       "file": "missing/S/315122-streets-of-rage-2-puyo-wars.json"
@@ -1231590,11 +1231535,6 @@
       "igdb_id": 17352,
       "game_name": "Terraformer Expedition to Mars",
       "file": "missing/T/17352-terraformer-expedition-to-mars.json"
-    },
-    {
-      "igdb_id": 137070,
-      "game_name": "Terraformers",
-      "file": "missing/T/137070-terraformers.json"
     },
     {
       "igdb_id": 273006,
@@ -1296070,11 +1296010,6 @@
       "igdb_id": 46575,
       "game_name": "The Ur-Quan Masters",
       "file": "missing/T/46575-the-ur-quan-masters.json"
-    },
-    {
-      "igdb_id": 248680,
-      "game_name": "The Urbz: Sims in the City",
-      "file": "missing/T/248680-the-urbz-sims-in-the-city.json"
     },
     {
       "igdb_id": 60050,
@@ -1372662,11 +1372597,6 @@
       "file": "missing/U/359008-unboxing-mr-coo.json"
     },
     {
-      "igdb_id": 247757,
-      "game_name": "Unboxing the Cryptic Killer",
-      "file": "missing/U/247757-unboxing-the-cryptic-killer.json"
-    },
-    {
       "igdb_id": 192087,
       "game_name": "Unboxing the mind of a Cryptic Killer",
       "file": "missing/U/192087-unboxing-the-mind-of-a-cryptic-killer.json"
@@ -1374030,11 +1373960,6 @@
       "igdb_id": 136316,
       "game_name": "Under Night In-Birth Exe:Late[cl-r] - Collector's Edition",
       "file": "missing/U/136316-under-night-in-birth-exe-late-cl-r-collectors-edition.json"
-    },
-    {
-      "igdb_id": 260087,
-      "game_name": "Under Night In-Birth II Sys:Celes",
-      "file": "missing/U/260087-under-night-in-birth-ii-sys-celes.json"
     },
     {
       "igdb_id": 288064,
