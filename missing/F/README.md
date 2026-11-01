@@ -3193,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fax | 39535 | [39535-fax.json](./39535-fax.json) |
 | Fax 2 | 407847 | [407847-fax-2.json](./407847-fax-2.json) |
 | Fax These to Smith!!! | 128562 | [128562-fax-these-to-smith.json](./128562-fax-these-to-smith.json) |
+| Faxanadu | 1974 | [1974-faxanadu.json](./1974-faxanadu.json) |
 | Faxion | 92271 | [92271-faxion.json](./92271-faxion.json) |
 | Fay Keeper | 348361 | [348361-fay-keeper.json](./348361-fay-keeper.json) |
 | Fay: That Math Woman! | 41200 | [41200-fay-that-math-woman.json](./41200-fay-that-math-woman.json) |
@@ -8547,6 +8548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2 | 15222 | [15222-football-manager-2.json](./15222-football-manager-2.json) |
 | Football Manager 2005 | 944 | [944-football-manager-2005.json](./944-football-manager-2005.json) |
 | Football Manager 2008 | 946 | [946-football-manager-2008.json](./946-football-manager-2008.json) |
+| Football Manager 2010 | 716 | [716-football-manager-2010.json](./716-football-manager-2010.json) |
 | Football Manager 2011 | 717 | [717-football-manager-2011.json](./717-football-manager-2011.json) |
 | Football Manager 2012 | 8973 | [8973-football-manager-2012.json](./8973-football-manager-2012.json) |
 | Football Manager 2013 | 8974 | [8974-football-manager-2013.json](./8974-football-manager-2013.json) |
