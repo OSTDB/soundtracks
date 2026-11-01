@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dai Datsugoku! Hell chama Prison no Yabou | 353376 | [353376-dai-datsugoku-hell-chama-prison-no-yabou.json](./353376-dai-datsugoku-hell-chama-prison-no-yabou.json) |
 | Dai Gyakuten Saiban: Naruhodou Ryuunosuke no Bouken 1&2 - Best Price! | 136955 | [136955-dai-gyakuten-saiban-naruhodou-ryuunosuke-no-bouken-1-and-2-best-price.json](./136955-dai-gyakuten-saiban-naruhodou-ryuunosuke-no-bouken-1-and-2-best-price.json) |
 | Dai Meiro: Meikyuu no Tatsujin | 48528 | [48528-dai-meiro-meikyuu-no-tatsujin.json](./48528-dai-meiro-meikyuu-no-tatsujin.json) |
+| Dai Ressya Goutou | 38639 | [38639-dai-ressya-goutou.json](./38639-dai-ressya-goutou.json) |
 | Dai Senpu | 44325 | [44325-dai-senpu.json](./44325-dai-senpu.json) |
 | Dai Senryaku VII: Modern Military Tactics | 69530 | [69530-dai-senryaku-vii-modern-military-tactics.json](./69530-dai-senryaku-vii-modern-military-tactics.json) |
 | Dai-2-dan: Pokémon Battle Card e+ - Yuruginai Chikara | 355957 | [355957-dai-2-dan-pokemon-battle-card-e-yuruginai-chikara.json](./355957-dai-2-dan-pokemon-battle-card-e-yuruginai-chikara.json) |
@@ -426,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dairy Princess | 126845 | [126845-dairy-princess.json](./126845-dairy-princess.json) |
 | Daiseiou | 64492 | [64492-daiseiou.json](./64492-daiseiou.json) |
 | Daisen | 359357 | [359357-daisen.json](./359357-daisen.json) |
+| Daisenpu | 38637 | [38637-daisenpu.json](./38637-daisenpu.json) |
 | Daisenryaku | 194311 | [194311-daisenryaku.json](./194311-daisenryaku.json) |
 | Daisenryaku | 339855 | [339855-daisenryaku.json](./339855-daisenryaku.json) |
 | Daisenryaku | 41782 | [41782-daisenryaku.json](./41782-daisenryaku.json) |
@@ -2077,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksiders II: The Abyssal Forge | 135003 | [135003-darksiders-ii-the-abyssal-forge.json](./135003-darksiders-ii-the-abyssal-forge.json) |
 | Darksiders II: The Demon Lord Belial | 135005 | [135005-darksiders-ii-the-demon-lord-belial.json](./135005-darksiders-ii-the-demon-lord-belial.json) |
 | Darksiders III | 28380 | [28380-darksiders-iii.json](./28380-darksiders-iii.json) |
+| Darksiders III: Apocalypse Edition | 38657 | [38657-darksiders-iii-apocalypse-edition.json](./38657-darksiders-iii-apocalypse-edition.json) |
 | Darksiders III: Blades & Whip Edition | 119079 | [119079-darksiders-iii-blades-and-whip-edition.json](./119079-darksiders-iii-blades-and-whip-edition.json) |
 | Darksiders III: Collector's Edition | 45985 | [45985-darksiders-iii-collectors-edition.json](./45985-darksiders-iii-collectors-edition.json) |
 | Darksiders III: DLC Bundle | 227112 | [227112-darksiders-iii-dlc-bundle.json](./227112-darksiders-iii-dlc-bundle.json) |
@@ -2575,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Marionette | 259754 | [259754-dawn-of-marionette.json](./259754-dawn-of-marionette.json) |
 | Dawn of Misgiving | 128446 | [128446-dawn-of-misgiving.json](./128446-dawn-of-misgiving.json) |
 | Dawn of Shadow | 237082 | [237082-dawn-of-shadow.json](./237082-dawn-of-shadow.json) |
+| Dawn of Steel | 38677 | [38677-dawn-of-steel.json](./38677-dawn-of-steel.json) |
 | Dawn of Survivor | 312140 | [312140-dawn-of-survivor.json](./312140-dawn-of-survivor.json) |
 | Dawn of Survivors 2 | 179971 | [179971-dawn-of-survivors-2.json](./179971-dawn-of-survivors-2.json) |
 | Dawn of the Abyss | 345827 | [345827-dawn-of-the-abyss.json](./345827-dawn-of-the-abyss.json) |
@@ -4614,6 +4618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck Dash | 311725 | [311725-deck-dash.json](./311725-deck-dash.json) |
 | Deck Defenders | 237317 | [237317-deck-defenders.json](./237317-deck-defenders.json) |
 | Deck Defense | 301427 | [301427-deck-defense.json](./301427-deck-defense.json) |
+| Deck Heroes | 38673 | [38673-deck-heroes.json](./38673-deck-heroes.json) |
 | Deck Hunter | 106418 | [106418-deck-hunter.json](./106418-deck-hunter.json) |
 | Deck Make Million Arthur | 125772 | [125772-deck-make-million-arthur.json](./125772-deck-make-million-arthur.json) |
 | Deck of Ashes | 114852 | [114852-deck-of-ashes.json](./114852-deck-of-ashes.json) |
@@ -6476,6 +6481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deriver | 401714 | [401714-deriver.json](./401714-deriver.json) |
 | Dermapis | 359056 | [359056-dermapis.json](./359056-dermapis.json) |
 | Dermimi's! | 327898 | [327898-dermimis.json](./327898-dermimis.json) |
+| Deroon DeroDero | 38632 | [38632-deroon-derodero.json](./38632-deroon-derodero.json) |
 | Derora | 76366 | [76366-derora.json](./76366-derora.json) |
 | Derp Souls | 219241 | [219241-derp-souls.json](./219241-derp-souls.json) |
 | Derpixon x FNF | 270505 | [270505-derpixon-x-fnf.json](./270505-derpixon-x-fnf.json) |
@@ -6566,6 +6572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert | 18605 | [18605-desert.json](./18605-desert.json) |
 | Desert Angels | 348359 | [348359-desert-angels.json](./348359-desert-angels.json) |
 | Desert Armor | 127217 | [127217-desert-armor.json](./127217-desert-armor.json) |
+| Desert Assault | 38631 | [38631-desert-assault.json](./38631-desert-assault.json) |
 | Desert attack | 163878 | [163878-desert-attack.json](./163878-desert-attack.json) |
 | Desert Blossom | 201405 | [201405-desert-blossom.json](./201405-desert-blossom.json) |
 | Desert Breaker | 39862 | [39862-desert-breaker.json](./39862-desert-breaker.json) |
@@ -7786,6 +7793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Painting ASMR: Fun & Cute | 309076 | [309076-diamond-painting-asmr-fun-and-cute.json](./309076-diamond-painting-asmr-fun-and-cute.json) |
 | Diamond Quest | 98537 | [98537-diamond-quest.json](./98537-diamond-quest.json) |
 | Diamond Run | 305745 | [305745-diamond-run.json](./305745-diamond-run.json) |
+| Diamond Run | 38628 | [38628-diamond-run.json](./38628-diamond-run.json) |
 | Diamond Runway | 398417 | [398417-diamond-runway.json](./398417-diamond-runway.json) |
 | Diamond Rush | 261986 | [261986-diamond-rush.json](./261986-diamond-rush.json) |
 | Diamond Rush | 61842 | [61842-diamond-rush.json](./61842-diamond-rush.json) |
