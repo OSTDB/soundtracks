@@ -13355,6 +13355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia | 248579 | [248579-prince-of-persia.json](./248579-prince-of-persia.json) |
 | Prince of Persia | 249150 | [249150-prince-of-persia.json](./249150-prince-of-persia.json) |
 | Prince of Persia | 284765 | [284765-prince-of-persia.json](./284765-prince-of-persia.json) |
+| Prince of Persia | 284766 | [284766-prince-of-persia.json](./284766-prince-of-persia.json) |
 | Prince of Persia | 284767 | [284767-prince-of-persia.json](./284767-prince-of-persia.json) |
 | Prince of Persia | 284768 | [284768-prince-of-persia.json](./284768-prince-of-persia.json) |
 | Prince of Persia | 284769 | [284769-prince-of-persia.json](./284769-prince-of-persia.json) |
@@ -13523,6 +13524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Party | 417261 | [417261-princess-party.json](./417261-princess-party.json) |
 | Princess Party Camellia | 77129 | [77129-princess-party-camellia.json](./77129-princess-party-camellia.json) |
 | Princess Peach Sex Hack | 294709 | [294709-princess-peach-sex-hack.json](./294709-princess-peach-sex-hack.json) |
+| Princess Peach: Showtime! | 254340 | [254340-princess-peach-showtime.json](./254340-princess-peach-showtime.json) |
 | Princess Piano | 174230 | [174230-princess-piano.json](./174230-princess-piano.json) |
 | Princess Poffin and the Spider Invasion | 252078 | [252078-princess-poffin-and-the-spider-invasion.json](./252078-princess-poffin-and-the-spider-invasion.json) |
 | Princess Polly | 290499 | [290499-princess-polly.json](./290499-princess-polly.json) |
@@ -15535,6 +15537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pseudo-Psy Play | 216937 | [216937-pseudo-psy-play.json](./216937-pseudo-psy-play.json) |
 | Pseudoku | 337638 | [337638-pseudoku.json](./337638-pseudoku.json) |
 | Pseudomod | 281309 | [281309-pseudomod.json](./281309-pseudomod.json) |
+| Pseudoregalia | 242148 | [242148-pseudoregalia.json](./242148-pseudoregalia.json) |
 | Pseudoregalia Rando | 392158 | [392158-pseudoregalia-rando.json](./392158-pseudoregalia-rando.json) |
 | Pseudoregalia: Jam Ver. | 259465 | [259465-pseudoregalia-jam-ver.json](./259465-pseudoregalia-jam-ver.json) |
 | PseudoSanity | 372635 | [372635-pseudosanity.json](./372635-pseudosanity.json) |
