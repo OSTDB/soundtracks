@@ -2367,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva Dreamy Theater | 65422 | [65422-hatsune-miku-project-diva-dreamy-theater.json](./65422-hatsune-miku-project-diva-dreamy-theater.json) |
 | Hatsune Miku: Project Diva Dreamy Theater 2nd | 65408 | [65408-hatsune-miku-project-diva-dreamy-theater-2nd.json](./65408-hatsune-miku-project-diva-dreamy-theater-2nd.json) |
 | Hatsune Miku: Project Diva Dreamy Theater Extend | 79220 | [79220-hatsune-miku-project-diva-dreamy-theater-extend.json](./79220-hatsune-miku-project-diva-dreamy-theater-extend.json) |
+| Hatsune Miku: Project Diva Extend | 11767 | [11767-hatsune-miku-project-diva-extend.json](./11767-hatsune-miku-project-diva-extend.json) |
 | Hatsune Miku: Project Diva F 2nd | 9626 | [9626-hatsune-miku-project-diva-f-2nd.json](./9626-hatsune-miku-project-diva-f-2nd.json) |
 | Hatsune Miku: Project Diva Future Tone | 25821 | [25821-hatsune-miku-project-diva-future-tone.json](./25821-hatsune-miku-project-diva-future-tone.json) |
 | Hatsune Miku: Project Diva Future Tone DX | 117659 | [117659-hatsune-miku-project-diva-future-tone-dx.json](./117659-hatsune-miku-project-diva-future-tone-dx.json) |
@@ -9192,6 +9193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon | 350058 | [350058-horizon.json](./350058-horizon.json) |
 | Horizon 1990 | 399171 | [399171-horizon-1990.json](./399171-horizon-1990.json) |
 | Horizon Beyond | 121592 | [121592-horizon-beyond.json](./121592-horizon-beyond.json) |
+| Horizon Chase | 10734 | [10734-horizon-chase.json](./10734-horizon-chase.json) |
 | Horizon Chase 2 | 215062 | [215062-horizon-chase-2.json](./215062-horizon-chase-2.json) |
 | Horizon Chase Turbo: Rookie Series | 170428 | [170428-horizon-chase-turbo-rookie-series.json](./170428-horizon-chase-turbo-rookie-series.json) |
 | Horizon Chase Turbo: Senna Forever | 176882 | [176882-horizon-chase-turbo-senna-forever.json](./176882-horizon-chase-turbo-senna-forever.json) |
