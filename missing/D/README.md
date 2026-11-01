@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Dreamer | 148566 | [148566-dancing-dreamer.json](./148566-dancing-dreamer.json) |
 | Dancing Duelists | 272470 | [272470-dancing-duelists.json](./272470-dancing-duelists.json) |
 | Dancing Eyes | 392872 | [392872-dancing-eyes.json](./392872-dancing-eyes.json) |
+| Dancing Eyes | 39305 | [39305-dancing-eyes.json](./39305-dancing-eyes.json) |
 | Dancing Furby | 85717 | [85717-dancing-furby.json](./85717-dancing-furby.json) |
 | Dancing Girls | 247057 | [247057-dancing-girls.json](./247057-dancing-girls.json) |
 | Dancing Hair: Music Race 3D | 212455 | [212455-dancing-hair-music-race-3d.json](./212455-dancing-hair-music-race-3d.json) |
@@ -2815,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daytona Rush | 233194 | [233194-daytona-rush.json](./233194-daytona-rush.json) |
 | Daytona USA | 17245 | [17245-daytona-usa.json](./17245-daytona-usa.json) |
 | Daytona USA | 22007 | [22007-daytona-usa.json](./22007-daytona-usa.json) |
+| Daytona USA 2: Battle on the Edge | 39291 | [39291-daytona-usa-2-battle-on-the-edge.json](./39291-daytona-usa-2-battle-on-the-edge.json) |
 | Daytona USA 2: Power Edition | 349356 | [349356-daytona-usa-2-power-edition.json](./349356-daytona-usa-2-power-edition.json) |
 | Daytona USA Deluxe | 73482 | [73482-daytona-usa-deluxe.json](./73482-daytona-usa-deluxe.json) |
 | DayZ | 2117 | [2117-dayz.json](./2117-dayz.json) |
@@ -8688,6 +8690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dingleberries | 132509 | [132509-dingleberries.json](./132509-dingleberries.json) |
 | Dinglehoppers | 246534 | [246534-dinglehoppers.json](./246534-dinglehoppers.json) |
 | Dingletopia: Nation Under Siege (by Orcs) | 133410 | [133410-dingletopia-nation-under-siege-by-orcs.json](./133410-dingletopia-nation-under-siege-by-orcs.json) |
+| Dingo | 39339 | [39339-dingo.json](./39339-dingo.json) |
 | Dininho Adventures | 129463 | [129463-dininho-adventures.json](./129463-dininho-adventures.json) |
 | Dininho Space Adventure | 142043 | [142043-dininho-space-adventure.json](./142043-dininho-space-adventure.json) |
 | Dink Smallwood | 11345 | [11345-dink-smallwood.json](./11345-dink-smallwood.json) |
@@ -12738,6 +12741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double-Dabble | 319108 | [319108-double-dabble.json](./319108-double-dabble.json) |
 | Double-Edged Blade: All Under Control | 183855 | [183855-double-edged-blade-all-under-control.json](./183855-double-edged-blade-all-under-control.json) |
 | Double-Entry Bookkeeping Simulator | 188549 | [188549-double-entry-bookkeeping-simulator.json](./188549-double-entry-bookkeeping-simulator.json) |
+| Double-Wings | 39286 | [39286-double-wings.json](./39286-double-wings.json) |
 | Doubleback | 42148 | [42148-doubleback.json](./42148-doubleback.json) |
 | DoubleClutch 2: Basketball | 266262 | [266262-doubleclutch-2-basketball.json](./266262-doubleclutch-2-basketball.json) |
 | DoubleMe | 183896 | [183896-doubleme.json](./183896-doubleme.json) |
