@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Koastalia | 295208 | [295208-lands-of-koastalia.json](./295208-lands-of-koastalia.json) |
 | Lands of Languages | 299151 | [299151-lands-of-languages.json](./299151-lands-of-languages.json) |
 | Lands of Lore 1+2 | 154174 | [154174-lands-of-lore-1-2.json](./154174-lands-of-lore-1-2.json) |
+| Lands of Lore III | 20338 | [20338-lands-of-lore-iii.json](./20338-lands-of-lore-iii.json) |
 | Lands of Lore: Guardians of Destiny | 2494 | [2494-lands-of-lore-guardians-of-destiny.json](./2494-lands-of-lore-guardians-of-destiny.json) |
 | Lands of Lore: The Throne of Chaos | 2528 | [2528-lands-of-lore-the-throne-of-chaos.json](./2528-lands-of-lore-the-throne-of-chaos.json) |
 | Lands of Lorez | 59098 | [59098-lands-of-lorez.json](./59098-lands-of-lorez.json) |
@@ -2928,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Fun Pack | 279031 | [279031-lego-fun-pack.json](./279031-lego-fun-pack.json) |
 | LEGO Harry Potter Collection | 25083 | [25083-lego-harry-potter-collection.json](./25083-lego-harry-potter-collection.json) |
 | LEGO Harry Potter Collection | 315367 | [315367-lego-harry-potter-collection.json](./315367-lego-harry-potter-collection.json) |
+| LEGO Harry Potter Collection: Years 5-7 | 237550 | [237550-lego-harry-potter-collection-years-5-7.json](./237550-lego-harry-potter-collection-years-5-7.json) |
 | Lego Harry Potter Years 5-7: Character pack | 255376 | [255376-lego-harry-potter-years-5-7-character-pack.json](./255376-lego-harry-potter-years-5-7-character-pack.json) |
 | LEGO Harry Potter: The Battle for Hogwarts | 242439 | [242439-lego-harry-potter-the-battle-for-hogwarts.json](./242439-lego-harry-potter-the-battle-for-hogwarts.json) |
 | LEGO Harry Potter: Years 1-4 | 237596 | [237596-lego-harry-potter-years-1-4.json](./237596-lego-harry-potter-years-1-4.json) |
@@ -4682,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil Wayne Slots: Slot Machines | 323154 | [323154-lil-wayne-slots-slot-machines.json](./323154-lil-wayne-slots-slot-machines.json) |
 | Lil' Airport | 301267 | [301267-lil-airport.json](./301267-lil-airport.json) |
 | Lil' Drone | 186149 | [186149-lil-drone.json](./186149-lil-drone.json) |
+| Lil' Guardsman | 243914 | [243914-lil-guardsman.json](./243914-lil-guardsman.json) |
 | Lil' Herder | 146891 | [146891-lil-herder.json](./146891-lil-herder.json) |
 | Lil' Hustler | 281859 | [281859-lil-hustler.json](./281859-lil-hustler.json) |
 | Lil' King | 182743 | [182743-lil-king.json](./182743-lil-king.json) |
@@ -8714,6 +8717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucy Got Problems | 105099 | [105099-lucy-got-problems.json](./105099-lucy-got-problems.json) |
 | Lucy Half Lucid | 408169 | [408169-lucy-half-lucid.json](./408169-lucy-half-lucid.json) |
 | Lucy Q Deluxe | 70798 | [70798-lucy-q-deluxe.json](./70798-lucy-q-deluxe.json) |
+| Lucy: The Eternity She Wished For | 19897 | [19897-lucy-the-eternity-she-wished-for.json](./19897-lucy-the-eternity-she-wished-for.json) |
 | Lucy's Adventure | 334349 | [334349-lucys-adventure.json](./334349-lucys-adventure.json) |
 | Lucy's Expedition | 209399 | [209399-lucys-expedition.json](./209399-lucys-expedition.json) |
 | Lucy's Heaven | 226176 | [226176-lucys-heaven.json](./226176-lucys-heaven.json) |
