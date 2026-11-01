@@ -5643,6 +5643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nightmares: Complete Edition | 53276 | [53276-little-nightmares-complete-edition.json](./53276-little-nightmares-complete-edition.json) |
 | Little Nightmares: Enhanced Edition | 350903 | [350903-little-nightmares-enhanced-edition.json](./350903-little-nightmares-enhanced-edition.json) |
 | Little Nightmares: Fox Mask | 274645 | [274645-little-nightmares-fox-mask.json](./274645-little-nightmares-fox-mask.json) |
+| Little Nightmares: Secrets of the Maw - Expansion Pass | 36838 | [36838-little-nightmares-secrets-of-the-maw-expansion-pass.json](./36838-little-nightmares-secrets-of-the-maw-expansion-pass.json) |
 | Little Nightmares: Tengu Mask | 274646 | [274646-little-nightmares-tengu-mask.json](./274646-little-nightmares-tengu-mask.json) |
 | Little Nightmares: The Depths | 36834 | [36834-little-nightmares-the-depths.json](./36834-little-nightmares-the-depths.json) |
 | Little Nightmares: The Residence | 36837 | [36837-little-nightmares-the-residence.json](./36837-little-nightmares-the-residence.json) |
@@ -6822,6 +6823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tune Dash | 101947 | [101947-looney-tune-dash.json](./101947-looney-tune-dash.json) |
 | Looney Tunes | 265041 | [265041-looney-tunes.json](./265041-looney-tunes.json) |
 | Looney Tunes | 290324 | [290324-looney-tunes.json](./290324-looney-tunes.json) |
+| Looney Tunes B-Ball | 42585 | [42585-looney-tunes-b-ball.json](./42585-looney-tunes-b-ball.json) |
 | Looney Tunes Collector: Alert! | 49882 | [49882-looney-tunes-collector-alert.json](./49882-looney-tunes-collector-alert.json) |
 | Looney Tunes Cosmic Capers | 71430 | [71430-looney-tunes-cosmic-capers.json](./71430-looney-tunes-cosmic-capers.json) |
 | Looney Tunes Double Pack | 8131 | [8131-looney-tunes-double-pack.json](./8131-looney-tunes-double-pack.json) |
