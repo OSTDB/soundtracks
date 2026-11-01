@@ -2172,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gazza II | 41000 | [41000-gazza-ii.json](./41000-gazza-ii.json) |
 | Gazza's Electronic Football Game | 217945 | [217945-gazzas-electronic-football-game.json](./217945-gazzas-electronic-football-game.json) |
 | Gazzel Quest: The Five Magic Stones | 32110 | [32110-gazzel-quest-the-five-magic-stones.json](./32110-gazzel-quest-the-five-magic-stones.json) |
+| GB Basketball | 49084 | [49084-gb-basketball.json](./49084-gb-basketball.json) |
 | GB Corp. | 218086 | [218086-gb-corp.json](./218086-gb-corp.json) |
 | GB Dash | 393094 | [393094-gb-dash.json](./393094-gb-dash.json) |
 | GB Genjin Land: Viva! Chikkun Oukoku | 64344 | [64344-gb-genjin-land-viva-chikkun-oukoku.json](./64344-gb-genjin-land-viva-chikkun-oukoku.json) |
