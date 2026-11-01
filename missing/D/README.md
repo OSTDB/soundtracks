@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.C. II ~Da Capo II~ | 61641 | [61641-d-c-ii-da-capo-ii.json](./61641-d-c-ii-da-capo-ii.json) |
 | D.C. II To You: Da Capo II To You - Side Episodes | 371598 | [371598-d-c-ii-to-you-da-capo-ii-to-you-side-episodes.json](./371598-d-c-ii-to-you-da-capo-ii-to-you-side-episodes.json) |
 | D.C. II: Da Capo II - Dearest Marriage | 60356 | [60356-d-c-ii-da-capo-ii-dearest-marriage.json](./60356-d-c-ii-da-capo-ii-dearest-marriage.json) |
+| D.C. III ~Da Capo III~ | 60716 | [60716-d-c-iii-da-capo-iii.json](./60716-d-c-iii-da-capo-iii.json) |
 | D.C. III PS: Da Coda III - Plus Story | 259595 | [259595-d-c-iii-ps-da-coda-iii-plus-story.json](./259595-d-c-iii-ps-da-coda-iii-plus-story.json) |
 | D.C. Re:tune | 327964 | [327964-d-c-re-tune.json](./327964-d-c-re-tune.json) |
 | D.C. S#*!storm | 86547 | [86547-d-c-s-storm.json](./86547-d-c-s-storm.json) |
@@ -4672,6 +4673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decommissioner | 186252 | [186252-decommissioner.json](./186252-decommissioner.json) |
 | Decompose With Me | 408160 | [408160-decompose-with-me.json](./408160-decompose-with-me.json) |
 | Decomposition | 339791 | [339791-decomposition.json](./339791-decomposition.json) |
+| Deconstruct | 60727 | [60727-deconstruct.json](./60727-deconstruct.json) |
 | Deconstruction | 105069 | [105069-deconstruction.json](./105069-deconstruction.json) |
 | Deconstruction Lab | 111228 | [111228-deconstruction-lab.json](./111228-deconstruction-lab.json) |
 | Deconstruction Simulator | 258588 | [258588-deconstruction-simulator.json](./258588-deconstruction-simulator.json) |
