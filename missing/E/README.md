@@ -6373,6 +6373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everplant | 185021 | [185021-everplant.json](./185021-everplant.json) |
 | Everplast | 191819 | [191819-everplast.json](./191819-everplast.json) |
 | EverQuest | 282 | [282-everquest.json](./282-everquest.json) |
+| EverQuest II | 18293 | [18293-everquest-ii.json](./18293-everquest-ii.json) |
 | EverQuest II: Age of Discovery | 23830 | [23830-everquest-ii-age-of-discovery.json](./23830-everquest-ii-age-of-discovery.json) |
 | EverQuest II: Altar of Malice | 61169 | [61169-everquest-ii-altar-of-malice.json](./61169-everquest-ii-altar-of-malice.json) |
 | EverQuest II: Chains of Eternity | 18318 | [18318-everquest-ii-chains-of-eternity.json](./18318-everquest-ii-chains-of-eternity.json) |
