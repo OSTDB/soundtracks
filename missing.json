@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-01T03:50:06.789Z",
-  "total_missing": 291657,
+  "generated_at": "2026-11-01T04:03:27.449Z",
+  "total_missing": 291707,
   "games": [
     {
       "igdb_id": 191680,
@@ -321752,6 +321752,11 @@
       "file": "missing/D/17084-digger-online.json"
     },
     {
+      "igdb_id": 52907,
+      "game_name": "Digger Simulator 2011",
+      "file": "missing/D/52907-digger-simulator-2011.json"
+    },
+    {
       "igdb_id": 12932,
       "game_name": "Digger T. Rock: The Legend of the Lost City",
       "file": "missing/D/12932-digger-t-rock-the-legend-of-the-lost-city.json"
@@ -330947,6 +330952,11 @@
       "file": "missing/D/51751-divinity-dragon-commander-imperial-edition.json"
     },
     {
+      "igdb_id": 52924,
+      "game_name": "Divinity: Original Sin - Collector's Edition",
+      "file": "missing/D/52924-divinity-original-sin-collectors-edition.json"
+    },
+    {
       "igdb_id": 14177,
       "game_name": "Divinity: Original Sin - Enhanced Edition",
       "file": "missing/D/14177-divinity-original-sin-enhanced-edition.json"
@@ -334035,6 +334045,11 @@
       "igdb_id": 13599,
       "game_name": "Dogfight 2187",
       "file": "missing/D/13599-dogfight-2187.json"
+    },
+    {
+      "igdb_id": 52922,
+      "game_name": "DogFight Simulator",
+      "file": "missing/D/52922-dogfight-simulator.json"
     },
     {
       "igdb_id": 195439,
@@ -340182,6 +340197,11 @@
       "file": "missing/D/273233-doom-city.json"
     },
     {
+      "igdb_id": 52918,
+      "game_name": "Doom Classic Complete",
+      "file": "missing/D/52918-doom-classic-complete.json"
+    },
+    {
       "igdb_id": 275569,
       "game_name": "Doom Core",
       "file": "missing/D/275569-doom-core.json"
@@ -341407,6 +341427,11 @@
       "file": "missing/D/62930-doorways.json"
     },
     {
+      "igdb_id": 52917,
+      "game_name": "Doorways: All Chapters Collection",
+      "file": "missing/D/52917-doorways-all-chapters-collection.json"
+    },
+    {
       "igdb_id": 26528,
       "game_name": "Doorways: Old Prototype",
       "file": "missing/D/26528-doorways-old-prototype.json"
@@ -341415,6 +341440,11 @@
       "igdb_id": 16640,
       "game_name": "Doorways: Prelude",
       "file": "missing/D/16640-doorways-prelude.json"
+    },
+    {
+      "igdb_id": 52916,
+      "game_name": "Doorways: The Entire Collection of Nightmares",
+      "file": "missing/D/52916-doorways-the-entire-collection-of-nightmares.json"
     },
     {
       "igdb_id": 339939,
@@ -343555,6 +343585,11 @@
       "igdb_id": 394569,
       "game_name": "Double Mystery: Escape Room Bundle",
       "file": "missing/D/394569-double-mystery-escape-room-bundle.json"
+    },
+    {
+      "igdb_id": 52915,
+      "game_name": "Double Oik!",
+      "file": "missing/D/52915-double-oik.json"
     },
     {
       "igdb_id": 408994,
@@ -346032,6 +346067,11 @@
       "file": "missing/D/31184-dracula.json"
     },
     {
+      "igdb_id": 52914,
+      "game_name": "Dracula - Collection",
+      "file": "missing/D/52914-dracula-collection.json"
+    },
+    {
       "igdb_id": 50375,
       "game_name": "Dracula 13",
       "file": "missing/D/50375-dracula-13.json"
@@ -347902,6 +347942,11 @@
       "file": "missing/D/362979-dragon-ball-xenoverse-2-day-one-edition.json"
     },
     {
+      "igdb_id": 52947,
+      "game_name": "Dragon Ball: Xenoverse 2 - Deluxe Edition",
+      "file": "missing/D/52947-dragon-ball-xenoverse-2-deluxe-edition.json"
+    },
+    {
       "igdb_id": 168747,
       "game_name": "Dragon Ball: Xenoverse 2 - Extra DLC Pack 1",
       "file": "missing/D/168747-dragon-ball-xenoverse-2-extra-dlc-pack-1.json"
@@ -348140,6 +348185,11 @@
       "igdb_id": 134607,
       "game_name": "Dragon Bride",
       "file": "missing/D/134607-dragon-bride.json"
+    },
+    {
+      "igdb_id": 52946,
+      "game_name": "Dragon Bros: Collector's Edition",
+      "file": "missing/D/52946-dragon-bros-collectors-edition.json"
     },
     {
       "igdb_id": 38035,
@@ -348725,6 +348775,11 @@
       "igdb_id": 312637,
       "game_name": "Dragon Kingdom",
       "file": "missing/D/312637-dragon-kingdom.json"
+    },
+    {
+      "igdb_id": 52945,
+      "game_name": "Dragon Kingdom War: Deluxe Edition",
+      "file": "missing/D/52945-dragon-kingdom-war-deluxe-edition.json"
     },
     {
       "igdb_id": 236322,
@@ -352545,6 +352600,11 @@
       "igdb_id": 20179,
       "game_name": "DreadOut: Keepers of The Dark",
       "file": "missing/D/20179-dreadout-keepers-of-the-dark.json"
+    },
+    {
+      "igdb_id": 52944,
+      "game_name": "DreadOut: Remastered Collection",
+      "file": "missing/D/52944-dreadout-remastered-collection.json"
     },
     {
       "igdb_id": 295805,
@@ -357247,6 +357307,11 @@
       "file": "missing/D/51254-driving-simulator-2011.json"
     },
     {
+      "igdb_id": 52943,
+      "game_name": "Driving Simulator 2012",
+      "file": "missing/D/52943-driving-simulator-2012.json"
+    },
+    {
       "igdb_id": 232332,
       "game_name": "Driving Speed HD",
       "file": "missing/D/232332-driving-speed-hd.json"
@@ -357350,6 +357415,11 @@
       "igdb_id": 8991,
       "game_name": "DROD RPG: Tendry's Tale",
       "file": "missing/D/8991-drod-rpg-tendrys-tale.json"
+    },
+    {
+      "igdb_id": 52942,
+      "game_name": "Drod: All the Smitemaster's Selections",
+      "file": "missing/D/52942-drod-all-the-smitemasters-selections.json"
     },
     {
       "igdb_id": 9085,
@@ -361552,6 +361622,11 @@
       "file": "missing/D/297232-duke-nukem-forever-enhanced.json"
     },
     {
+      "igdb_id": 52937,
+      "game_name": "Duke Nukem Forever: Hail to the Icons Parody Pack",
+      "file": "missing/D/52937-duke-nukem-forever-hail-to-the-icons-parody-pack.json"
+    },
+    {
       "igdb_id": 371400,
       "game_name": "Duke Nukem Forever: Reimposition",
       "file": "missing/D/371400-duke-nukem-forever-reimposition.json"
@@ -363692,6 +363767,11 @@
       "file": "missing/D/277272-dungeon-man.json"
     },
     {
+      "igdb_id": 52936,
+      "game_name": "Dungeon Manager ZV - Collection",
+      "file": "missing/D/52936-dungeon-manager-zv-collection.json"
+    },
+    {
       "igdb_id": 29739,
       "game_name": "Dungeon Manager ZV 2",
       "file": "missing/D/29739-dungeon-manager-zv-2.json"
@@ -364027,6 +364107,11 @@
       "file": "missing/D/175014-dungeon-of-the-endless-apogee.json"
     },
     {
+      "igdb_id": 52935,
+      "game_name": "Dungeon of the Endless: Crystal Edition",
+      "file": "missing/D/52935-dungeon-of-the-endless-crystal-edition.json"
+    },
+    {
       "igdb_id": 168244,
       "game_name": "Dungeon of the Endless: Deep Freeze",
       "file": "missing/D/168244-dungeon-of-the-endless-deep-freeze.json"
@@ -364035,6 +364120,11 @@
       "igdb_id": 233351,
       "game_name": "Dungeon of the Endless: Definitive Edition",
       "file": "missing/D/233351-dungeon-of-the-endless-definitive-edition.json"
+    },
+    {
+      "igdb_id": 52934,
+      "game_name": "Dungeon of the Endless: Pixel Edition",
+      "file": "missing/D/52934-dungeon-of-the-endless-pixel-edition.json"
     },
     {
       "igdb_id": 168245,
@@ -364342,6 +364432,11 @@
       "file": "missing/D/20395-dungeon-rushers.json"
     },
     {
+      "igdb_id": 52933,
+      "game_name": "Dungeon Rushers: Deluxe Edition",
+      "file": "missing/D/52933-dungeon-rushers-deluxe-edition.json"
+    },
+    {
       "igdb_id": 157012,
       "game_name": "Dungeon Scale",
       "file": "missing/D/157012-dungeon-scale.json"
@@ -364485,6 +364580,11 @@
       "igdb_id": 133338,
       "game_name": "Dungeon Solver",
       "file": "missing/D/133338-dungeon-solver.json"
+    },
+    {
+      "igdb_id": 52932,
+      "game_name": "Dungeon Souls: Deluxe Edition",
+      "file": "missing/D/52932-dungeon-souls-deluxe-edition.json"
     },
     {
       "igdb_id": 225764,
@@ -366040,6 +366140,11 @@
       "igdb_id": 138052,
       "game_name": "Dungeons: Game of the Year Edition",
       "file": "missing/D/138052-dungeons-game-of-the-year-edition.json"
+    },
+    {
+      "igdb_id": 52931,
+      "game_name": "Dungeons: Gold Edition",
+      "file": "missing/D/52931-dungeons-gold-edition.json"
     },
     {
       "igdb_id": 138049,
@@ -371512,6 +371617,11 @@
       "file": "missing/E/2013-east-india-company.json"
     },
     {
+      "igdb_id": 52929,
+      "game_name": "East India Company Collection",
+      "file": "missing/E/52929-east-india-company-collection.json"
+    },
+    {
       "igdb_id": 2014,
       "game_name": "East India Company: Battle of Trafalgar",
       "file": "missing/E/2014-east-india-company-battle-of-trafalgar.json"
@@ -371560,6 +371670,11 @@
       "igdb_id": 35599,
       "game_name": "East Tower - Takashi",
       "file": "missing/E/35599-east-tower-takashi.json"
+    },
+    {
+      "igdb_id": 52928,
+      "game_name": "East Tower: Complete Edition",
+      "file": "missing/E/52928-east-tower-complete-edition.json"
     },
     {
       "igdb_id": 214113,
@@ -373232,6 +373347,11 @@
       "file": "missing/E/27759-echoes-of-aetheria.json"
     },
     {
+      "igdb_id": 52927,
+      "game_name": "Echoes of Aetheria: Collector's Edition",
+      "file": "missing/E/52927-echoes-of-aetheria-collectors-edition.json"
+    },
+    {
       "igdb_id": 387354,
       "game_name": "Echoes of Agony",
       "file": "missing/E/387354-echoes-of-agony.json"
@@ -373430,6 +373550,11 @@
       "igdb_id": 240801,
       "game_name": "Echoes of Somewhere: Series 1",
       "file": "missing/E/240801-echoes-of-somewhere-series-1.json"
+    },
+    {
+      "igdb_id": 52926,
+      "game_name": "Echoes of Sorrow 2",
+      "file": "missing/E/52926-echoes-of-sorrow-2.json"
     },
     {
       "igdb_id": 351157,
@@ -377602,6 +377727,11 @@
       "file": "missing/E/169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json"
     },
     {
+      "igdb_id": 52965,
+      "game_name": "Eisenhorn: Xenos - Deluxe Edition",
+      "file": "missing/E/52965-eisenhorn-xenos-deluxe-edition.json"
+    },
+    {
       "igdb_id": 25607,
       "game_name": "Eisenwald: Blood of November",
       "file": "missing/E/25607-eisenwald-blood-of-november.json"
@@ -379550,6 +379680,11 @@
       "igdb_id": 21808,
       "game_name": "Elefunk",
       "file": "missing/E/21808-elefunk.json"
+    },
+    {
+      "igdb_id": 52964,
+      "game_name": "Elegant Engineering",
+      "file": "missing/E/52964-elegant-engineering.json"
     },
     {
       "igdb_id": 349311,
@@ -382155,6 +382290,11 @@
       "igdb_id": 107798,
       "game_name": "Elven Magic: The Witch, The Elf & The Fairy",
       "file": "missing/E/107798-elven-magic-the-witch-the-elf-and-the-fairy.json"
+    },
+    {
+      "igdb_id": 52963,
+      "game_name": "Elven Mists",
+      "file": "missing/E/52963-elven-mists.json"
     },
     {
       "igdb_id": 209199,
@@ -385102,6 +385242,16 @@
       "file": "missing/E/384071-enchanted-broom.json"
     },
     {
+      "igdb_id": 52954,
+      "game_name": "Enchanted Cavern",
+      "file": "missing/E/52954-enchanted-cavern.json"
+    },
+    {
+      "igdb_id": 52953,
+      "game_name": "Enchanted Cavern 2",
+      "file": "missing/E/52953-enchanted-cavern-2.json"
+    },
+    {
       "igdb_id": 68031,
       "game_name": "Enchanted Fairy Friends: Secret of the Fairy Queen",
       "file": "missing/E/68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json"
@@ -386432,6 +386582,11 @@
       "file": "missing/E/168765-endless-legend-echoes-of-auriga.json"
     },
     {
+      "igdb_id": 52951,
+      "game_name": "Endless Legend: Emperor Edition",
+      "file": "missing/E/52951-endless-legend-emperor-edition.json"
+    },
+    {
       "igdb_id": 168766,
       "game_name": "Endless Legend: Forgotten Love Add-on",
       "file": "missing/E/168766-endless-legend-forgotten-love-add-on.json"
@@ -386465,6 +386620,11 @@
       "igdb_id": 339749,
       "game_name": "Endless Life",
       "file": "missing/E/339749-endless-life.json"
+    },
+    {
+      "igdb_id": 52949,
+      "game_name": "Endless Loop Complete",
+      "file": "missing/E/52949-endless-loop-complete.json"
     },
     {
       "igdb_id": 152933,
@@ -387115,6 +387275,11 @@
       "igdb_id": 164760,
       "game_name": "Endorfire Tower Defense",
       "file": "missing/E/164760-endorfire-tower-defense.json"
+    },
+    {
+      "igdb_id": 52948,
+      "game_name": "Endorlight: Deluxe Edition",
+      "file": "missing/E/52948-endorlight-deluxe-edition.json"
     },
     {
       "igdb_id": 268763,
@@ -398795,6 +398960,11 @@
       "igdb_id": 684,
       "game_name": "Europa Universalis III: In Nomine",
       "file": "missing/E/684-europa-universalis-iii-in-nomine.json"
+    },
+    {
+      "igdb_id": 52968,
+      "game_name": "Europa Universalis IV Collection",
+      "file": "missing/E/52968-europa-universalis-iv-collection.json"
     },
     {
       "igdb_id": 227864,
@@ -1070332,6 +1070502,11 @@
       "file": "missing/S/54390-ship-simulator-2008-collectors-edition.json"
     },
     {
+      "igdb_id": 52930,
+      "game_name": "Ship Simulator 2008: New Horizons",
+      "file": "missing/S/52930-ship-simulator-2008-new-horizons.json"
+    },
+    {
       "igdb_id": 3209,
       "game_name": "Ship Simulator Extremes",
       "file": "missing/S/3209-ship-simulator-extremes.json"
@@ -1197937,6 +1198112,11 @@
       "file": "missing/T/342274-taco-loco-horror-game.json"
     },
     {
+      "igdb_id": 52909,
+      "game_name": "Taco Master",
+      "file": "missing/T/52909-taco-master.json"
+    },
+    {
       "igdb_id": 56149,
       "game_name": "Taco Run",
       "file": "missing/T/56149-taco-run.json"
@@ -1201580,6 +1201760,11 @@
       "igdb_id": 255845,
       "game_name": "Tales from My Ass: Slice of Death",
       "file": "missing/T/255845-tales-from-my-ass-slice-of-death.json"
+    },
+    {
+      "igdb_id": 52908,
+      "game_name": "Tales From Space: About A Blob",
+      "file": "missing/T/52908-tales-from-space-about-a-blob.json"
     },
     {
       "igdb_id": 296471,
@@ -1211587,6 +1211772,11 @@
       "file": "missing/T/48895-tecmo-bowl-ncaa-2017.json"
     },
     {
+      "igdb_id": 52906,
+      "game_name": "Tecmo Bowl Throwback",
+      "file": "missing/T/52906-tecmo-bowl-throwback.json"
+    },
+    {
       "igdb_id": 21329,
       "game_name": "Tecmo Bowl: Kickoff",
       "file": "missing/T/21329-tecmo-bowl-kickoff.json"
@@ -1221167,6 +1221357,11 @@
       "file": "missing/T/289570-the-257th-element.json"
     },
     {
+      "igdb_id": 52925,
+      "game_name": "The 2D Adventures of Rotating Octopus Character",
+      "file": "missing/T/52925-the-2d-adventures-of-rotating-octopus-character.json"
+    },
+    {
       "igdb_id": 148124,
       "game_name": "The 2k Sports Collection",
       "file": "missing/T/148124-the-2k-sports-collection.json"
@@ -1229532,6 +1229727,11 @@
       "file": "missing/T/125693-the-chains-that-bound-me.json"
     },
     {
+      "igdb_id": 52920,
+      "game_name": "The Chainsaw Incident",
+      "file": "missing/T/52920-the-chainsaw-incident.json"
+    },
+    {
       "igdb_id": 416587,
       "game_name": "The Chair Across the Table Stayed Empty",
       "file": "missing/T/416587-the-chair-across-the-table-stayed-empty.json"
@@ -1233520,6 +1233720,11 @@
       "igdb_id": 54465,
       "game_name": "The Dark Side of the Moon",
       "file": "missing/T/54465-the-dark-side-of-the-moon.json"
+    },
+    {
+      "igdb_id": 52919,
+      "game_name": "The Dark Sorcerer",
+      "file": "missing/T/52919-the-dark-sorcerer.json"
     },
     {
       "igdb_id": 21185,
@@ -1245142,6 +1245347,11 @@
       "file": "missing/T/202367-the-hauntings-surveillance.json"
     },
     {
+      "igdb_id": 52912,
+      "game_name": "The HD Adventures of Rotating Octopus Character",
+      "file": "missing/T/52912-the-hd-adventures-of-rotating-octopus-character.json"
+    },
+    {
       "igdb_id": 389687,
       "game_name": "The Headlands",
       "file": "missing/T/389687-the-headlands.json"
@@ -1246675,6 +1246885,11 @@
       "igdb_id": 164914,
       "game_name": "The Hunger: Games Ensemble",
       "file": "missing/T/164914-the-hunger-games-ensemble.json"
+    },
+    {
+      "igdb_id": 52911,
+      "game_name": "The Hungry Horde",
+      "file": "missing/T/52911-the-hungry-horde.json"
     },
     {
       "igdb_id": 372821,
@@ -1260317,6 +1260532,11 @@
       "file": "missing/T/404779-the-modern-atlas.json"
     },
     {
+      "igdb_id": 52941,
+      "game_name": "The Modern Zombie Taxi Co.",
+      "file": "missing/T/52941-the-modern-zombie-taxi-co.json"
+    },
+    {
       "igdb_id": 278509,
       "game_name": "The Mofflys: Invasion Mayhem",
       "file": "missing/T/278509-the-mofflys-invasion-mayhem.json"
@@ -1261065,6 +1261285,11 @@
       "igdb_id": 343182,
       "game_name": "The Muppet Show: Backstage Rampage",
       "file": "missing/T/343182-the-muppet-show-backstage-rampage.json"
+    },
+    {
+      "igdb_id": 52939,
+      "game_name": "The Muppets Movie Adventures",
+      "file": "missing/T/52939-the-muppets-movie-adventures.json"
     },
     {
       "igdb_id": 49321,
@@ -1263830,6 +1264055,11 @@
       "igdb_id": 180560,
       "game_name": "The Outsider",
       "file": "missing/T/180560-the-outsider.json"
+    },
+    {
+      "igdb_id": 52938,
+      "game_name": "The Outsider",
+      "file": "missing/T/52938-the-outsider.json"
     },
     {
       "igdb_id": 235661,
@@ -1292647,6 +1292877,11 @@
       "file": "missing/T/10991-tidalis.json"
     },
     {
+      "igdb_id": 52962,
+      "game_name": "Tiddlywinks 2016",
+      "file": "missing/T/52962-tiddlywinks-2016.json"
+    },
+    {
       "igdb_id": 156061,
       "game_name": "Tiddy Bounce",
       "file": "missing/T/156061-tiddy-bounce.json"
@@ -1292655,6 +1292890,11 @@
       "igdb_id": 241266,
       "game_name": "Tide Girl: Phenomena",
       "file": "missing/T/241266-tide-girl-phenomena.json"
+    },
+    {
+      "igdb_id": 52961,
+      "game_name": "Tide of Iron",
+      "file": "missing/T/52961-tide-of-iron.json"
     },
     {
       "igdb_id": 412910,
@@ -1301817,6 +1302057,11 @@
       "file": "missing/T/19048-time-machine-vr.json"
     },
     {
+      "igdb_id": 52957,
+      "game_name": "Time Machine: Rogue Pilot",
+      "file": "missing/T/52957-time-machine-rogue-pilot.json"
+    },
+    {
       "igdb_id": 366301,
       "game_name": "Time Management",
       "file": "missing/T/366301-time-management.json"
@@ -1303060,6 +1303305,11 @@
       "igdb_id": 290771,
       "game_name": "TimeSplitters 2 Redux",
       "file": "missing/T/290771-timesplitters-2-redux.json"
+    },
+    {
+      "igdb_id": 52955,
+      "game_name": "TimeSplitters 4",
+      "file": "missing/T/52955-timesplitters-4.json"
     },
     {
       "igdb_id": 290385,
