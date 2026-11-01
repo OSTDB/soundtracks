@@ -2858,6 +2858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Webcup Soccer | 163785 | [163785-webcup-soccer.json](./163785-webcup-soccer.json) |
 | Weben Blocks | 204998 | [204998-weben-blocks.json](./204998-weben-blocks.json) |
 | Weben Blocks 2 | 210926 | [210926-weben-blocks-2.json](./210926-weben-blocks-2.json) |
+| Webfishing | 319271 | [319271-webfishing.json](./319271-webfishing.json) |
 | Webgeon Speedrun Edition | 213393 | [213393-webgeon-speedrun-edition.json](./213393-webgeon-speedrun-edition.json) |
 | Webkinz Classic | 137951 | [137951-webkinz-classic.json](./137951-webkinz-classic.json) |
 | Webkinz Jr. | 318830 | [318830-webkinz-jr.json](./318830-webkinz-jr.json) |
@@ -8656,6 +8657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K19: Rey Mysterio & Ronda Rousey | 167891 | [167891-wwe-2k19-rey-mysterio-and-ronda-rousey.json](./167891-wwe-2k19-rey-mysterio-and-ronda-rousey.json) |
 | WWE 2K19: Rising Stars | 165939 | [165939-wwe-2k19-rising-stars.json](./165939-wwe-2k19-rising-stars.json) |
 | WWE 2K19: Titans Pack | 167893 | [167893-wwe-2k19-titans-pack.json](./167893-wwe-2k19-titans-pack.json) |
+| WWE 2K20 | 121435 | [121435-wwe-2k20.json](./121435-wwe-2k20.json) |
 | WWE 2K20: Deluxe Edition | 121437 | [121437-wwe-2k20-deluxe-edition.json](./121437-wwe-2k20-deluxe-edition.json) |
 | WWE 2K20: SmackDown! 20th Anniversary Edition | 136276 | [136276-wwe-2k20-smackdown-20th-anniversary-edition.json](./136276-wwe-2k20-smackdown-20th-anniversary-edition.json) |
 | WWE 2K21 | 132815 | [132815-wwe-2k21.json](./132815-wwe-2k21.json) |
