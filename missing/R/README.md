@@ -5240,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Village: The Mercenaries - Additional Orders | 230974 | [230974-resident-evil-village-the-mercenaries-additional-orders.json](./230974-resident-evil-village-the-mercenaries-additional-orders.json) |
 | Resident Evil Village: VR Mode | 324804 | [324804-resident-evil-village-vr-mode.json](./324804-resident-evil-village-vr-mode.json) |
 | Resident Evil Village: Winters' Expansion | 204721 | [204721-resident-evil-village-winters-expansion.json](./204721-resident-evil-village-winters-expansion.json) |
+| Resident Evil Zero | 970 | [970-resident-evil-zero.json](./970-resident-evil-zero.json) |
 | Resident Evil: Chronicles HD Collection | 21068 | [21068-resident-evil-chronicles-hd-collection.json](./21068-resident-evil-chronicles-hd-collection.json) |
 | Resident Evil: Code - Madman | 387029 | [387029-resident-evil-code-madman.json](./387029-resident-evil-code-madman.json) |
 | Resident Evil: Cold Blood | 222311 | [222311-resident-evil-cold-blood.json](./222311-resident-evil-cold-blood.json) |
@@ -11187,6 +11188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruined Kingdom | 235839 | [235839-ruined-kingdom.json](./235839-ruined-kingdom.json) |
 | Ruined Nurse | 324183 | [324183-ruined-nurse.json](./324183-ruined-nurse.json) |
 | Ruined Vacation | 313960 | [313960-ruined-vacation.json](./313960-ruined-vacation.json) |
+| Ruiner | 18857 | [18857-ruiner.json](./18857-ruiner.json) |
 | Ruiner 2 | 393936 | [393936-ruiner-2.json](./393936-ruiner-2.json) |
 | Ruinic | 128144 | [128144-ruinic.json](./128144-ruinic.json) |
 | Ruins | 183198 | [183198-ruins.json](./183198-ruins.json) |
