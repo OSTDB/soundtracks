@@ -3812,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Teaches Typing | 50335 | [50335-mario-teaches-typing.json](./50335-mario-teaches-typing.json) |
 | Mario Teaches Typing 2 | 46445 | [46445-mario-teaches-typing-2.json](./46445-mario-teaches-typing-2.json) |
 | Mario Teaches Typing 3 | 383439 | [383439-mario-teaches-typing-3.json](./383439-mario-teaches-typing-3.json) |
+| Mario Tennis | 128874 | [128874-mario-tennis.json](./128874-mario-tennis.json) |
 | Mario Tennis | 344924 | [344924-mario-tennis.json](./344924-mario-tennis.json) |
 | Mario Tennis Aces | 81145 | [81145-mario-tennis-aces.json](./81145-mario-tennis-aces.json) |
 | Mario Tennis Fever | 366880 | [366880-mario-tennis-fever.json](./366880-mario-tennis-fever.json) |
@@ -10568,6 +10569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Flip Champs! DX | 44522 | [44522-mighty-flip-champs-dx.json](./44522-mighty-flip-champs-dx.json) |
 | Mighty forest | 139364 | [139364-mighty-forest.json](./139364-mighty-forest.json) |
 | Mighty Gemstones | 81982 | [81982-mighty-gemstones.json](./81982-mighty-gemstones.json) |
+| Mighty Goose | 139135 | [139135-mighty-goose.json](./139135-mighty-goose.json) |
 | Mighty Gunvolt | 28950 | [28950-mighty-gunvolt.json](./28950-mighty-gunvolt.json) |
 | Mighty Gunvolt Burst | 29143 | [29143-mighty-gunvolt-burst.json](./29143-mighty-gunvolt-burst.json) |
 | Mighty Gunvolt Burst: Character Set - Rivals | 225906 | [225906-mighty-gunvolt-burst-character-set-rivals.json](./225906-mighty-gunvolt-burst-character-set-rivals.json) |
@@ -17627,6 +17629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Sports II | 301579 | [301579-multi-sports-ii.json](./301579-multi-sports-ii.json) |
 | Multi Theft Auto | 140059 | [140059-multi-theft-auto.json](./140059-multi-theft-auto.json) |
 | Multi-Purpose Arcade Combat Simulator | 38192 | [38192-multi-purpose-arcade-combat-simulator.json](./38192-multi-purpose-arcade-combat-simulator.json) |
+| Multi-Users in Middle-earth | 136790 | [136790-multi-users-in-middle-earth.json](./136790-multi-users-in-middle-earth.json) |
 | Multi's Going Out | 300271 | [300271-multis-going-out.json](./300271-multis-going-out.json) |
 | Multia Space Program | 165913 | [165913-multia-space-program.json](./165913-multia-space-program.json) |
 | Multibombers | 107507 | [107507-multibombers.json](./107507-multibombers.json) |
