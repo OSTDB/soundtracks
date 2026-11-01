@@ -1728,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RandoMine | 221098 | [221098-randomine.json](./221098-randomine.json) |
 | Randomish | 217400 | [217400-randomish.json](./217400-randomish.json) |
 | Randomish Races | 144027 | [144027-randomish-races.json](./144027-randomish-races.json) |
+| Randomizator | 44300 | [44300-randomizator.json](./44300-randomizator.json) |
 | Randomlands | 156602 | [156602-randomlands.json](./156602-randomlands.json) |
 | Randomlife Reborn | 347587 | [347587-randomlife-reborn.json](./347587-randomlife-reborn.json) |
 | Randompunk 2077 | 182773 | [182773-randompunk-2077.json](./182773-randompunk-2077.json) |
@@ -5530,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Basketball Manager | 355878 | [355878-retro-basketball-manager.json](./355878-retro-basketball-manager.json) |
 | Retro Battle | 306533 | [306533-retro-battle.json](./306533-retro-battle.json) |
 | Retro Blaster: Mech Madness 1 | 274642 | [274642-retro-blaster-mech-madness-1.json](./274642-retro-blaster-mech-madness-1.json) |
+| Retro Block VR | 44295 | [44295-retro-block-vr.json](./44295-retro-block-vr.json) |
 | Retro Bowl | 141684 | [141684-retro-bowl.json](./141684-retro-bowl.json) |
 | Retro Cave Flyer | 91701 | [91701-retro-cave-flyer.json](./91701-retro-cave-flyer.json) |
 | Retro City Rampage | 8063 | [8063-retro-city-rampage.json](./8063-retro-city-rampage.json) |
@@ -8347,6 +8349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Run | 399877 | [399877-robot-run.json](./399877-robot-run.json) |
 | Robot Runner | 106950 | [106950-robot-runner.json](./106950-robot-runner.json) |
 | Robot Sex Party Murder | 186631 | [186631-robot-sex-party-murder.json](./186631-robot-sex-party-murder.json) |
+| Robot Shield | 44270 | [44270-robot-shield.json](./44270-robot-shield.json) |
 | Robot Shooter | 256141 | [256141-robot-shooter.json](./256141-robot-shooter.json) |
 | Robot Space Frenzy | 380483 | [380483-robot-space-frenzy.json](./380483-robot-space-frenzy.json) |
 | Robot Squad Simulator | 119516 | [119516-robot-squad-simulator.json](./119516-robot-squad-simulator.json) |
