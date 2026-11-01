@@ -3359,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scratch the Ticket | 404220 | [404220-scratch-the-ticket.json](./404220-scratch-the-ticket.json) |
 | Scratch Wars | 139365 | [139365-scratch-wars.json](./139365-scratch-wars.json) |
 | Scratchers | 352885 | [352885-scratchers.json](./352885-scratchers.json) |
+| Scratches: Director's Cut | 51365 | [51365-scratches-directors-cut.json](./51365-scratches-directors-cut.json) |
 | Scratchin' Melodii | 215235 | [215235-scratchin-melodii.json](./215235-scratchin-melodii.json) |
 | ScrawlBrawl | 194902 | [194902-scrawlbrawl.json](./194902-scrawlbrawl.json) |
 | Scray Nightmare: Secret Mystery | 89001 | [89001-scray-nightmare-secret-mystery.json](./89001-scray-nightmare-secret-mystery.json) |
@@ -9196,6 +9197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization II: Conflicts in Civilization | 115032 | [115032-sid-meiers-civilization-ii-conflicts-in-civilization.json](./115032-sid-meiers-civilization-ii-conflicts-in-civilization.json) |
 | Sid Meier's Civilization II: Fantastic Worlds | 72019 | [72019-sid-meiers-civilization-ii-fantastic-worlds.json](./72019-sid-meiers-civilization-ii-fantastic-worlds.json) |
 | Sid Meier's Civilization III | 310 | [310-sid-meiers-civilization-iii.json](./310-sid-meiers-civilization-iii.json) |
+| Sid Meier's Civilization III: Conquests | 635 | [635-sid-meiers-civilization-iii-conquests.json](./635-sid-meiers-civilization-iii-conquests.json) |
 | Sid Meier's Civilization III: Game of the Year Edition | 53609 | [53609-sid-meiers-civilization-iii-game-of-the-year-edition.json](./53609-sid-meiers-civilization-iii-game-of-the-year-edition.json) |
 | Sid Meier's Civilization III: Gold Edition | 55119 | [55119-sid-meiers-civilization-iii-gold-edition.json](./55119-sid-meiers-civilization-iii-gold-edition.json) |
 | Sid Meier's Civilization III: Play the World | 10831 | [10831-sid-meiers-civilization-iii-play-the-world.json](./10831-sid-meiers-civilization-iii-play-the-world.json) |
@@ -10639,6 +10641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
 | Sinner 97 | 203755 | [203755-sinner-97.json](./203755-sinner-97.json) |
 | Sinner Maker | 400740 | [400740-sinner-maker.json](./400740-sinner-maker.json) |
+| Sinner: Sacrifice for Redemption | 54752 | [54752-sinner-sacrifice-for-redemption.json](./54752-sinner-sacrifice-for-redemption.json) |
 | Sinner's Grimoire | 359340 | [359340-sinners-grimoire.json](./359340-sinners-grimoire.json) |
 | Sinner's Tavern | 235623 | [235623-sinners-tavern.json](./235623-sinners-tavern.json) |
 | Sinner's Verdict | 381649 | [381649-sinners-verdict.json](./381649-sinners-verdict.json) |
@@ -18173,6 +18176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18750,6 +18754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Walk | 170527 | [170527-space-walk.json](./170527-space-walk.json) |
 | Space Walk: Memory Games for Adults | 232538 | [232538-space-walk-memory-games-for-adults.json](./232538-space-walk-memory-games-for-adults.json) |
 | Space War | 171888 | [171888-space-war.json](./171888-space-war.json) |
+| Space War | 54792 | [54792-space-war.json](./54792-space-war.json) |
 | Space War - Retro Shooter | 96596 | [96596-space-war-retro-shooter.json](./96596-space-war-retro-shooter.json) |
 | Space War Arena | 114884 | [114884-space-war-arena.json](./114884-space-war-arena.json) |
 | Space War Attack | 43546 | [43546-space-war-attack.json](./43546-space-war-attack.json) |
@@ -26202,6 +26207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Race Kings | 296328 | [296328-street-race-kings.json](./296328-street-race-kings.json) |
 | Street Racer | 19770 | [19770-street-racer.json](./19770-street-racer.json) |
 | Street Racer | 307078 | [307078-street-racer.json](./307078-street-racer.json) |
+| Street Racer | 49118 | [49118-street-racer.json](./49118-street-racer.json) |
 | Street Racer Underground | 139819 | [139819-street-racer-underground.json](./139819-street-racer-underground.json) |
 | Street Racer X Ace of Love | 206198 | [206198-street-racer-x-ace-of-love.json](./206198-street-racer-x-ace-of-love.json) |
 | Street Racers: Hot Asphalt | 316837 | [316837-street-racers-hot-asphalt.json](./316837-street-racers-hot-asphalt.json) |
