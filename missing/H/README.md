@@ -10679,6 +10679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanities Legend: Hollow Ascending | 183868 | [183868-humanities-legend-hollow-ascending.json](./183868-humanities-legend-hollow-ascending.json) |
 | Humanity | 350180 | [350180-humanity.json](./350180-humanity.json) |
 | Humanity Asset | 8952 | [8952-humanity-asset.json](./8952-humanity-asset.json) |
+| Humanity Assets | 54109 | [54109-humanity-assets.json](./54109-humanity-assets.json) |
 | Humanity Echo: Cyberpunk Tactical RPG | 381059 | [381059-humanity-echo-cyberpunk-tactical-rpg.json](./381059-humanity-echo-cyberpunk-tactical-rpg.json) |
 | Humanity Is Dead | 181302 | [181302-humanity-is-dead.json](./181302-humanity-is-dead.json) |
 | Humanity Lost | 229047 | [229047-humanity-lost.json](./229047-humanity-lost.json) |
