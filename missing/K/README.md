@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Krab: Karate Krab In Space | 172051 | [172051-karate-krab-karate-krab-in-space.json](./172051-karate-krab-karate-krab-in-space.json) |
 | Karate Krab: Red Sea | 167248 | [167248-karate-krab-red-sea.json](./167248-karate-krab-red-sea.json) |
 | Karate Master Knock Down Blow | 50457 | [50457-karate-master-knock-down-blow.json](./50457-karate-master-knock-down-blow.json) |
+| Karate Panda | 54158 | [54158-karate-panda.json](./54158-karate-panda.json) |
 | Karate Phants: Gloves of Glory | 68633 | [68633-karate-phants-gloves-of-glory.json](./68633-karate-phants-gloves-of-glory.json) |
 | Karate Survivor | 307796 | [307796-karate-survivor.json](./307796-karate-survivor.json) |
 | Karate Warrior | 134424 | [134424-karate-warrior.json](./134424-karate-warrior.json) |
@@ -1550,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kellogg's The Amazing Spider-Man 2 | 322362 | [322362-kelloggs-the-amazing-spider-man-2.json](./322362-kelloggs-the-amazing-spider-man-2.json) |
 | Kells | 156604 | [156604-kells.json](./156604-kells.json) |
 | Kelly Club: Pet Parade | 209843 | [209843-kelly-club-pet-parade.json](./209843-kelly-club-pet-parade.json) |
+| Kelly Green: Garden Queen | 54156 | [54156-kelly-green-garden-queen.json](./54156-kelly-green-garden-queen.json) |
 | Kelly Kangaroo | 292072 | [292072-kelly-kangaroo.json](./292072-kelly-kangaroo.json) |
 | Kelly Slater's Pro Surfer | 243186 | [243186-kelly-slaters-pro-surfer.json](./243186-kelly-slaters-pro-surfer.json) |
 | Kelly X | 12653 | [12653-kelly-x.json](./12653-kelly-x.json) |
@@ -2598,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2871,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Karts | 88306 | [88306-king-of-karts.json](./88306-king-of-karts.json) |
 | King of Kingdoms | 224030 | [224030-king-of-kingdoms.json](./224030-king-of-kingdoms.json) |
 | King of Kings | 231927 | [231927-king-of-kings.json](./231927-king-of-kings.json) |
+| King of Kings 3 | 54155 | [54155-king-of-kings-3.json](./54155-king-of-kings-3.json) |
 | King of Kinks | 195121 | [195121-king-of-kinks.json](./195121-king-of-kinks.json) |
 | King of Kung Fu | 285918 | [285918-king-of-kung-fu.json](./285918-king-of-kung-fu.json) |
 | King of Land Grabbers 3D | 212510 | [212510-king-of-land-grabbers-3d.json](./212510-king-of-land-grabbers-3d.json) |
@@ -2974,16 +2978,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Bounty II: King Collector's Edition | 153021 | [153021-kings-bounty-ii-king-collectors-edition.json](./153021-kings-bounty-ii-king-collectors-edition.json) |
 | King's Bounty II: Lord's Edition | 155100 | [155100-kings-bounty-ii-lords-edition.json](./155100-kings-bounty-ii-lords-edition.json) |
 | King's Bounty: Collector's Pack | 144586 | [144586-kings-bounty-collectors-pack.json](./144586-kings-bounty-collectors-pack.json) |
+| King's Bounty: Crossworlds - Game of the Year Edition | 54152 | [54152-kings-bounty-crossworlds-game-of-the-year-edition.json](./54152-kings-bounty-crossworlds-game-of-the-year-edition.json) |
 | King's Bounty: Dark Side | 8073 | [8073-kings-bounty-dark-side.json](./8073-kings-bounty-dark-side.json) |
 | King's Bounty: Dark Side - Premium Edition | 53238 | [53238-kings-bounty-dark-side-premium-edition.json](./53238-kings-bounty-dark-side-premium-edition.json) |
 | King's Bounty: Legions - Beast Master Pack | 169933 | [169933-kings-bounty-legions-beast-master-pack.json](./169933-kings-bounty-legions-beast-master-pack.json) |
 | King's Bounty: Legions - Champion of the Realm Pack | 169934 | [169934-kings-bounty-legions-champion-of-the-realm-pack.json](./169934-kings-bounty-legions-champion-of-the-realm-pack.json) |
 | King's Bounty: Legions - Lord of Chaos Pack | 169932 | [169932-kings-bounty-legions-lord-of-chaos-pack.json](./169932-kings-bounty-legions-lord-of-chaos-pack.json) |
 | King's Bounty: Legions - True Tactician Ultimate Pack | 169931 | [169931-kings-bounty-legions-true-tactician-ultimate-pack.json](./169931-kings-bounty-legions-true-tactician-ultimate-pack.json) |
+| King's Bounty: Platinum Edition | 54154 | [54154-kings-bounty-platinum-edition.json](./54154-kings-bounty-platinum-edition.json) |
 | King's Bounty: The Conqueror's Quest | 45777 | [45777-kings-bounty-the-conquerors-quest.json](./45777-kings-bounty-the-conquerors-quest.json) |
 | King's Bounty: The Legend | 5039 | [5039-kings-bounty-the-legend.json](./5039-kings-bounty-the-legend.json) |
 | King's Bounty: Ultimate Edition | 53258 | [53258-kings-bounty-ultimate-edition.json](./53258-kings-bounty-ultimate-edition.json) |
 | King's Bounty: Warriors of the North - Complete Edition | 51846 | [51846-kings-bounty-warriors-of-the-north-complete-edition.json](./51846-kings-bounty-warriors-of-the-north-complete-edition.json) |
+| King's Bounty: Warriors of the North - Valhalla Edition | 54153 | [54153-kings-bounty-warriors-of-the-north-valhalla-edition.json](./54153-kings-bounty-warriors-of-the-north-valhalla-edition.json) |
 | King's Choice | 186308 | [186308-kings-choice.json](./186308-kings-choice.json) |
 | King's Collection: Classic Card Games | 209835 | [209835-kings-collection-classic-card-games.json](./209835-kings-collection-classic-card-games.json) |
 | King's Courier | 377916 | [377916-kings-courier.json](./377916-kings-courier.json) |
@@ -3323,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings and Legends | 62791 | [62791-kings-and-legends.json](./62791-kings-and-legends.json) |
 | Kings and Pigs | 152937 | [152937-kings-and-pigs.json](./152937-kings-and-pigs.json) |
 | Kings Call | 277450 | [277450-kings-call.json](./277450-kings-call.json) |
+| Kings Collection | 54150 | [54150-kings-collection.json](./54150-kings-collection.json) |
 | Kings Do Not Fall | 394484 | [394484-kings-do-not-fall.json](./394484-kings-do-not-fall.json) |
 | Kings Era | 98012 | [98012-kings-era.json](./98012-kings-era.json) |
 | Kings Hero 2 | 175359 | [175359-kings-hero-2.json](./175359-kings-hero-2.json) |
@@ -3419,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinny and the Lost Starlight | 295092 | [295092-kinny-and-the-lost-starlight.json](./295092-kinny-and-the-lost-starlight.json) |
 | Kino | 383157 | [383157-kino.json](./383157-kino.json) |
 | Kino no Tabi II: The Beautiful World | 141757 | [141757-kino-no-tabi-ii-the-beautiful-world.json](./141757-kino-no-tabi-ii-the-beautiful-world.json) |
+| Kino One | 54148 | [54148-kino-one.json](./54148-kino-one.json) |
 | KinoCon! Defend My Sweet Home! | 204396 | [204396-kinocon-defend-my-sweet-home.json](./204396-kinocon-defend-my-sweet-home.json) |
 | Kinoko | 138584 | [138584-kinoko.json](./138584-kinoko.json) |
 | Kinoko & Gal | 137266 | [137266-kinoko-and-gal.json](./137266-kinoko-and-gal.json) |
@@ -3772,6 +3781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Milk Replacer | 260080 | [260080-kitten-milk-replacer.json](./260080-kitten-milk-replacer.json) |
 | Kitten Mischief | 397183 | [397183-kitten-mischief.json](./397183-kitten-mischief.json) |
 | Kitten Rampage | 33688 | [33688-kitten-rampage.json](./33688-kitten-rampage.json) |
+| Kitten Sanctuary | 54149 | [54149-kitten-sanctuary.json](./54149-kitten-sanctuary.json) |
 | Kitten Squad | 30825 | [30825-kitten-squad.json](./30825-kitten-squad.json) |
 | Kitten Super Adventure | 35807 | [35807-kitten-super-adventure.json](./35807-kitten-super-adventure.json) |
 | Kitten Tales | 262483 | [262483-kitten-tales.json](./262483-kitten-tales.json) |
