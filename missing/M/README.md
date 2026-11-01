@@ -14751,6 +14751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rancher Advance | 6511 | [6511-monster-rancher-advance.json](./6511-monster-rancher-advance.json) |
 | Monster Rancher Advance 2 | 6512 | [6512-monster-rancher-advance-2.json](./6512-monster-rancher-advance-2.json) |
 | Monster Rancher Battle Card GB | 104241 | [104241-monster-rancher-battle-card-gb.json](./104241-monster-rancher-battle-card-gb.json) |
+| Monster Rancher Battle Card: Episode II | 45015 | [45015-monster-rancher-battle-card-episode-ii.json](./45015-monster-rancher-battle-card-episode-ii.json) |
 | Monster Rancher Explorer | 49860 | [49860-monster-rancher-explorer.json](./49860-monster-rancher-explorer.json) |
 | Monster Rancher Hop-A-Bout | 78298 | [78298-monster-rancher-hop-a-bout.json](./78298-monster-rancher-hop-a-bout.json) |
 | Monster Rescue | 188104 | [188104-monster-rescue.json](./188104-monster-rescue.json) |
