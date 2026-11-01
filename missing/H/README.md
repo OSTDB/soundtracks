@@ -11355,6 +11355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyousei Buyuuroku: Record of Ice Fairy War | 406953 | [406953-hyousei-buyuuroku-record-of-ice-fairy-war.json](./406953-hyousei-buyuuroku-record-of-ice-fairy-war.json) |
 | Hyouteki | 258356 | [258356-hyouteki.json](./258356-hyouteki.json) |
 | Hyoutenka 30-do no Zetsubou | 376273 | [376273-hyoutenka-30-do-no-zetsubou.json](./376273-hyoutenka-30-do-no-zetsubou.json) |
+| Hypaball | 36653 | [36653-hypaball.json](./36653-hypaball.json) |
 | Hyparxis | 169793 | [169793-hyparxis.json](./169793-hyparxis.json) |
 | Hypastorm | 254692 | [254692-hypastorm.json](./254692-hypastorm.json) |
 | Hypatia | 38705 | [38705-hypatia.json](./38705-hypatia.json) |
