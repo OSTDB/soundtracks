@@ -4229,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fightback | 63357 | [63357-fightback.json](./63357-fightback.json) |
 | FightBit | 250956 | [250956-fightbit.json](./250956-fightbit.json) |
 | FightBots | 259859 | [259859-fightbots.json](./259859-fightbots.json) |
+| Fightbox | 43626 | [43626-fightbox.json](./43626-fightbox.json) |
 | Fighter Ace | 209427 | [209427-fighter-ace.json](./209427-fighter-ace.json) |
 | Fighter Ace 3.5 | 50130 | [50130-fighter-ace-3-5.json](./50130-fighter-ace-3-5.json) |
 | Fighter Ace II | 64304 | [64304-fighter-ace-ii.json](./64304-fighter-ace-ii.json) |
@@ -4240,6 +4241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Destiny 2 | 10683 | [10683-fighter-destiny-2.json](./10683-fighter-destiny-2.json) |
 | Fighter Mage Bard | 58705 | [58705-fighter-mage-bard.json](./58705-fighter-mage-bard.json) |
 | Fighter Maker | 4636 | [4636-fighter-maker.json](./4636-fighter-maker.json) |
+| Fighter Maker 2 | 43644 | [43644-fighter-maker-2.json](./43644-fighter-maker-2.json) |
 | Fighter Mission: Air Superiority | 65369 | [65369-fighter-mission-air-superiority.json](./65369-fighter-mission-air-superiority.json) |
 | Fighter on the Path of Glory | 293204 | [293204-fighter-on-the-path-of-glory.json](./293204-fighter-on-the-path-of-glory.json) |
 | Fighter Online | 252161 | [252161-fighter-online.json](./252161-fighter-online.json) |
@@ -5274,6 +5276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finnish Inheritance | 367842 | [367842-finnish-inheritance.json](./367842-finnish-inheritance.json) |
 | Finnish Pub Simulator | 326424 | [326424-finnish-pub-simulator.json](./326424-finnish-pub-simulator.json) |
 | Finnish Roller | 29671 | [29671-finnish-roller.json](./29671-finnish-roller.json) |
+| Finny the Fish & the Seven Waters | 43625 | [43625-finny-the-fish-and-the-seven-waters.json](./43625-finny-the-fish-and-the-seven-waters.json) |
 | Finque | 31057 | [31057-finque.json](./31057-finque.json) |
 | Finrendly | 206570 | [206570-finrendly.json](./206570-finrendly.json) |
 | Finsternis Kreuz | 298366 | [298366-finsternis-kreuz.json](./298366-finsternis-kreuz.json) |
@@ -5988,6 +5991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisherman's Bait 2: Big Ol' Bass | 44944 | [44944-fishermans-bait-2-big-ol-bass.json](./44944-fishermans-bait-2-big-ol-bass.json) |
 | Fisherman’s Bait: Marlin Challenge | 270623 | [270623-fisherman-s-bait-marlin-challenge.json](./270623-fisherman-s-bait-marlin-challenge.json) |
 | Fisherman's Bass Club | 43427 | [43427-fishermans-bass-club.json](./43427-fishermans-bass-club.json) |
+| Fisherman's Challenge | 43652 | [43652-fishermans-challenge.json](./43652-fishermans-challenge.json) |
 | Fisherman's House | 172749 | [172749-fishermans-house.json](./172749-fishermans-house.json) |
 | Fisherman's Palace | 286022 | [286022-fishermans-palace.json](./286022-fishermans-palace.json) |
 | Fisherman's Paradise II | 209430 | [209430-fishermans-paradise-ii.json](./209430-fishermans-paradise-ii.json) |
@@ -11040,6 +11044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friends World | 246833 | [246833-friends-world.json](./246833-friends-world.json) |
 | Friends: Seishun no Kagayaki | 258854 | [258854-friends-seishun-no-kagayaki.json](./258854-friends-seishun-no-kagayaki.json) |
 | Friends: Seishun no Kagayaki - Best Version | 258859 | [258859-friends-seishun-no-kagayaki-best-version.json](./258859-friends-seishun-no-kagayaki-best-version.json) |
+| Friends: The One With All The Trivia | 43623 | [43623-friends-the-one-with-all-the-trivia.json](./43623-friends-the-one-with-all-the-trivia.json) |
 | FriendShapes | 330246 | [330246-friendshapes.json](./330246-friendshapes.json) |
 | Friendsheep | 114646 | [114646-friendsheep.json](./114646-friendsheep.json) |
 | FriendShip | 30936 | [30936-friendship.json](./30936-friendship.json) |
