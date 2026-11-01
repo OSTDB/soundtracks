@@ -5016,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game: R00m 02 | 334094 | [334094-escape-game-r00m-02.json](./334094-escape-game-r00m-02.json) |
 | Escape Game: The Old Folk House | 288312 | [288312-escape-game-the-old-folk-house.json](./288312-escape-game-the-old-folk-house.json) |
 | Escape Game:The Kitty The Vacant Lot | 351229 | [351229-escape-game-the-kitty-the-vacant-lot.json](./351229-escape-game-the-kitty-the-vacant-lot.json) |
+| Escape Goat 2 | 8252 | [8252-escape-goat-2.json](./8252-escape-goat-2.json) |
 | Escape Goat: Azuma Eiji no Enzai | 395464 | [395464-escape-goat-azuma-eiji-no-enzai.json](./395464-escape-goat-azuma-eiji-no-enzai.json) |
 | Escape Halloween Forest | 226518 | [226518-escape-halloween-forest.json](./226518-escape-halloween-forest.json) |
 | Escape Her | 389589 | [389589-escape-her.json](./389589-escape-her.json) |
