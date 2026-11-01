@@ -5938,6 +5938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches Brew | 120574 | [120574-witches-brew.json](./120574-witches-brew.json) |
 | Witches Craft | 103956 | [103956-witches-craft.json](./103956-witches-craft.json) |
 | Witches Legacy: Slumbering Darkness & Dark Throne | 201824 | [201824-witches-legacy-slumbering-darkness-and-dark-throne.json](./201824-witches-legacy-slumbering-darkness-and-dark-throne.json) |
+| Witches Legacy: The Charleston Curse | 60302 | [60302-witches-legacy-the-charleston-curse.json](./60302-witches-legacy-the-charleston-curse.json) |
 | Witches of the Fourth | 417344 | [417344-witches-of-the-fourth.json](./417344-witches-of-the-fourth.json) |
 | Witches Tavern | 223318 | [223318-witches-tavern.json](./223318-witches-tavern.json) |
 | Witches Weed | 268497 | [268497-witches-weed.json](./268497-witches-weed.json) |
