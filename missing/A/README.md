@@ -5894,6 +5894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alf | 65580 | [65580-alf.json](./65580-alf.json) |
 | Alf in the Color Caves | 59502 | [59502-alf-in-the-color-caves.json](./59502-alf-in-the-color-caves.json) |
 | Alf Jonathan y la piedra de los Valcroix | 294645 | [294645-alf-jonathan-y-la-piedra-de-los-valcroix.json](./294645-alf-jonathan-y-la-piedra-de-los-valcroix.json) |
+| ALF the Alien Life Form | 45669 | [45669-alf-the-alien-life-form.json](./45669-alf-the-alien-life-form.json) |
 | ALF: The First Adventure | 12249 | [12249-alf-the-first-adventure.json](./12249-alf-the-first-adventure.json) |
 | ALF's Thinking Skills | 78720 | [78720-alfs-thinking-skills.json](./78720-alfs-thinking-skills.json) |
 | ALF's U.S. Geography | 94247 | [94247-alfs-u-s-geography.json](./94247-alfs-u-s-geography.json) |
