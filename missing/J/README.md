@@ -3765,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2014 | 3256 | [3256-just-dance-2014.json](./3256-just-dance-2014.json) |
 | Just Dance 2014 Basic Pack | 231835 | [231835-just-dance-2014-basic-pack.json](./231835-just-dance-2014-basic-pack.json) |
 | Just Dance 2015 | 15559 | [15559-just-dance-2015.json](./15559-just-dance-2015.json) |
+| Just Dance 2016 | 11206 | [11206-just-dance-2016.json](./11206-just-dance-2016.json) |
 | Just Dance 2016 & Just Dance: Disney Party 2 | 82540 | [82540-just-dance-2016-and-just-dance-disney-party-2.json](./82540-just-dance-2016-and-just-dance-disney-party-2.json) |
 | Just Dance 2016: Gold Edition | 83795 | [83795-just-dance-2016-gold-edition.json](./83795-just-dance-2016-gold-edition.json) |
 | Just Dance 2017 | 19550 | [19550-just-dance-2017.json](./19550-just-dance-2017.json) |
