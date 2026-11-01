@@ -2418,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasha Keies & Clavyce: Enigmes Et Trésors A Travers Les Âges | 297914 | [297914-tasha-keies-and-clavyce-enigmes-et-tresors-a-travers-les-ages.json](./297914-tasha-keies-and-clavyce-enigmes-et-tresors-a-travers-les-ages.json) |
 | Tashikani | 298155 | [298155-tashikani.json](./298155-tashikani.json) |
 | Tashio Tempo | 403579 | [403579-tashio-tempo.json](./403579-tashio-tempo.json) |
+| Tashiro Masashi no Princess ga Ippai | 41709 | [41709-tashiro-masashi-no-princess-ga-ippai.json](./41709-tashiro-masashi-no-princess-ga-ippai.json) |
 | Task Attack | 106957 | [106957-task-attack.json](./106957-task-attack.json) |
 | Task Bar of Ragnalis | 412476 | [412476-task-bar-of-ragnalis.json](./412476-task-bar-of-ragnalis.json) |
 | Task Control | 264989 | [264989-task-control.json](./264989-task-control.json) |
@@ -12815,6 +12816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monkey King: The Legend Begins | 50608 | [50608-the-monkey-king-the-legend-begins.json](./50608-the-monkey-king-the-legend-begins.json) |
 | The Monkey P | 223148 | [223148-the-monkey-p.json](./223148-the-monkey-p.json) |
 | The Monkey's Paw | 415911 | [415911-the-monkeys-paw.json](./415911-the-monkeys-paw.json) |
+| The MonMon Monster | 41692 | [41692-the-monmon-monster.json](./41692-the-monmon-monster.json) |
 | The Mono-Yellow Madness | 216587 | [216587-the-mono-yellow-madness.json](./216587-the-mono-yellow-madness.json) |
 | The monotony of carrots | 179936 | [179936-the-monotony-of-carrots.json](./179936-the-monotony-of-carrots.json) |
 | The Monster | 111019 | [111019-the-monster.json](./111019-the-monster.json) |
@@ -17535,6 +17537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch's Night Watch | 288988 | [288988-the-witchs-night-watch.json](./288988-the-witchs-night-watch.json) |
 | The Witch's Realm | 346583 | [346583-the-witchs-realm.json](./346583-the-witchs-realm.json) |
 | The Witch's Redemption | 298629 | [298629-the-witchs-redemption.json](./298629-the-witchs-redemption.json) |
+| The Witch's Revenge | 41702 | [41702-the-witchs-revenge.json](./41702-the-witchs-revenge.json) |
 | The Witch's Warehouse Management | 392975 | [392975-the-witchs-warehouse-management.json](./392975-the-witchs-warehouse-management.json) |
 | The Witch's Yarn | 9510 | [9510-the-witchs-yarn.json](./9510-the-witchs-yarn.json) |
 | The Witcher 2: Assassins of Kings - Collector's Edition | 16209 | [16209-the-witcher-2-assassins-of-kings-collectors-edition.json](./16209-the-witcher-2-assassins-of-kings-collectors-edition.json) |
