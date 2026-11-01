@@ -3723,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts in the Toybox: Chapter 1 | 99479 | [99479-ghosts-in-the-toybox-chapter-1.json](./99479-ghosts-in-the-toybox-chapter-1.json) |
 | Ghosts Keep Out | 407793 | [407793-ghosts-keep-out.json](./407793-ghosts-keep-out.json) |
 | Ghosts of Aliens | 255617 | [255617-ghosts-of-aliens.json](./255617-ghosts-of-aliens.json) |
+| Ghosts of Memories | 59000 | [59000-ghosts-of-memories.json](./59000-ghosts-of-memories.json) |
 | Ghosts of Miami | 51422 | [51422-ghosts-of-miami.json](./51422-ghosts-of-miami.json) |
 | Ghosts of Mistwood | 61960 | [61960-ghosts-of-mistwood.json](./61960-ghosts-of-mistwood.json) |
 | Ghosts of Tabor | 204034 | [204034-ghosts-of-tabor.json](./204034-ghosts-of-tabor.json) |
@@ -4706,6 +4707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorious Tournius | 139675 | [139675-glorious-tournius.json](./139675-glorious-tournius.json) |
 | Glorp | 213290 | [213290-glorp.json](./213290-glorp.json) |
 | Glory | 171382 | [171382-glory.json](./171382-glory.json) |
+| Glory | 59015 | [59015-glory.json](./59015-glory.json) |
 | Glory & Honor | 105263 | [105263-glory-and-honor.json](./105263-glory-and-honor.json) |
 | Glory Ages - Samurais | 112650 | [112650-glory-ages-samurais.json](./112650-glory-ages-samurais.json) |
 | Glory by Example | 31640 | [31640-glory-by-example.json](./31640-glory-by-example.json) |
