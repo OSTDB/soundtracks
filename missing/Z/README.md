@@ -1470,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Diary | 356651 | [356651-zombie-diary.json](./356651-zombie-diary.json) |
 | Zombie Diary 2: Evolution | 399880 | [399880-zombie-diary-2-evolution.json](./399880-zombie-diary-2-evolution.json) |
 | Zombie Dice | 252134 | [252134-zombie-dice.json](./252134-zombie-dice.json) |
+| Zombie Dinos From Planet Zeltoid | 2379 | [2379-zombie-dinos-from-planet-zeltoid.json](./2379-zombie-dinos-from-planet-zeltoid.json) |
 | Zombie Disaster Drill | 376765 | [376765-zombie-disaster-drill.json](./376765-zombie-disaster-drill.json) |
 | Zombie Drift | 149521 | [149521-zombie-drift.json](./149521-zombie-drift.json) |
 | Zombie Driver | 20668 | [20668-zombie-driver.json](./20668-zombie-driver.json) |
@@ -2207,6 +2208,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zork Nemesis: The Forbidden Lands | 1953 | [1953-zork-nemesis-the-forbidden-lands.json](./1953-zork-nemesis-the-forbidden-lands.json) |
 | Zork Remake | 118444 | [118444-zork-remake.json](./118444-zork-remake.json) |
 | Zork Trilogy | 186103 | [186103-zork-trilogy.json](./186103-zork-trilogy.json) |
+| Zork Zero: The Revenge of Megaboz | 1952 | [1952-zork-zero-the-revenge-of-megaboz.json](./1952-zork-zero-the-revenge-of-megaboz.json) |
+| Zork: The Undiscovered Underground | 1954 | [1954-zork-the-undiscovered-underground.json](./1954-zork-the-undiscovered-underground.json) |
 | ZorkQuest: Assault on Egreth Castle | 59856 | [59856-zorkquest-assault-on-egreth-castle.json](./59856-zorkquest-assault-on-egreth-castle.json) |
 | ZorkQuest: The Crystal of Doom | 59857 | [59857-zorkquest-the-crystal-of-doom.json](./59857-zorkquest-the-crystal-of-doom.json) |
 | Zorlok | 361789 | [361789-zorlok.json](./361789-zorlok.json) |
@@ -2412,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zzap! | 194422 | [194422-zzap.json](./194422-zzap.json) |
 | Zzed | 18936 | [18936-zzed.json](./18936-zzed.json) |
 | Zzoom | 45356 | [45356-zzoom.json](./45356-zzoom.json) |
+| ZZT | 2410 | [2410-zzt.json](./2410-zzt.json) |
 | Zzyzzyxx | 175634 | [175634-zzyzzyxx.json](./175634-zzyzzyxx.json) |
 | Zzz | 376218 | [376218-zzz.json](./376218-zzz.json) |
 | Zzzep | 60982 | [60982-zzzep.json](./60982-zzzep.json) |
