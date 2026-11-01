@@ -2079,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paraside: Duality Unbound | 293600 | [293600-paraside-duality-unbound.json](./293600-paraside-duality-unbound.json) |
 | Parasight: Chlorophyll worms | 195793 | [195793-parasight-chlorophyll-worms.json](./195793-parasight-chlorophyll-worms.json) |
 | Parasite | 195754 | [195754-parasite.json](./195754-parasite.json) |
+| Parasite | 33748 | [33748-parasite.json](./33748-parasite.json) |
 | Parasite | 376608 | [376608-parasite.json](./376608-parasite.json) |
 | Parasite Black | 239305 | [239305-parasite-black.json](./239305-parasite-black.json) |
 | Parasite Eve | 7357 | [7357-parasite-eve.json](./7357-parasite-eve.json) |
@@ -5103,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phil's Contract | 312184 | [312184-phils-contract.json](./312184-phils-contract.json) |
 | Phileas Fogg's Balloon Battles | 98235 | [98235-phileas-foggs-balloon-battles.json](./98235-phileas-foggs-balloon-battles.json) |
 | PhilGood | 121189 | [121189-philgood.json](./121189-philgood.json) |
+| Philia: the Sequel to Elansar | 33706 | [33706-philia-the-sequel-to-elansar.json](./33706-philia-the-sequel-to-elansar.json) |
 | Philip Muwanga's Hexy Trench | 68536 | [68536-philip-muwangas-hexy-trench.json](./68536-philip-muwangas-hexy-trench.json) |
 | Philly Flasher | 40701 | [40701-philly-flasher.json](./40701-philly-flasher.json) |
 | Philly Flasher/Cathouse Blues | 70180 | [70180-philly-flasher-cathouse-blues.json](./70180-philly-flasher-cathouse-blues.json) |
@@ -8387,6 +8389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planescape: Torment - Enhanced Edition | 27988 | [27988-planescape-torment-enhanced-edition.json](./27988-planescape-torment-enhanced-edition.json) |
 | PlaneShift | 84309 | [84309-planeshift.json](./84309-planeshift.json) |
 | Planet | 17018 | [17018-planet.json](./17018-planet.json) |
+| Planet 1138 | 33728 | [33728-planet-1138.json](./33728-planet-1138.json) |
 | Planet 2000 | 99523 | [99523-planet-2000.json](./99523-planet-2000.json) |
 | Planet 2117 | 43145 | [43145-planet-2117.json](./43145-planet-2117.json) |
 | Planet 51: The Game | 21088 | [21088-planet-51-the-game.json](./21088-planet-51-the-game.json) |
@@ -9269,6 +9272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plexarium: Mega Maze Crawler | 55685 | [55685-plexarium-mega-maze-crawler.json](./55685-plexarium-mega-maze-crawler.json) |
 | Plicplic | 261324 | [261324-plicplic.json](./261324-plicplic.json) |
 | Plight | 86370 | [86370-plight.json](./86370-plight.json) |
+| Plight of the Zombie | 33737 | [33737-plight-of-the-zombie.json](./33737-plight-of-the-zombie.json) |
 | Plighters | 386386 | [386386-plighters.json](./386386-plighters.json) |
 | Pliksim | 121315 | [121315-pliksim.json](./121315-pliksim.json) |
 | Plinbo | 372560 | [372560-plinbo.json](./372560-plinbo.json) |
@@ -12893,6 +12897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premiere | 12721 | [12721-premiere.json](./12721-premiere.json) |
 | Premium Bowling | 109304 | [109304-premium-bowling.json](./109304-premium-bowling.json) |
 | Premium Brettspiele | 91595 | [91595-premium-brettspiele.json](./91595-premium-brettspiele.json) |
+| Premium Pool | 33739 | [33739-premium-pool.json](./33739-premium-pool.json) |
 | Premium Pool Arena | 28943 | [28943-premium-pool-arena.json](./28943-premium-pool-arena.json) |
 | Premonition of Angron | 402150 | [402150-premonition-of-angron.json](./402150-premonition-of-angron.json) |
 | Premortal VR | 197107 | [197107-premortal-vr.json](./197107-premortal-vr.json) |
