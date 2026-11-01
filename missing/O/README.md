@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occult: Satanic interrogation | 174574 | [174574-occult-satanic-interrogation.json](./174574-occult-satanic-interrogation.json) |
 | Occult: Scarlet Elegy | 404973 | [404973-occult-scarlet-elegy.json](./404973-occult-scarlet-elegy.json) |
 | OcculThieves | 272374 | [272374-occulthieves.json](./272374-occulthieves.json) |
+| Occultic;Nine | 11774 | [11774-occultic-nine.json](./11774-occultic-nine.json) |
 | Occultism | 347478 | [347478-occultism.json](./347478-occultism.json) |
 | Occultism Interrogation: The Ritual of Little Nightmares | 164922 | [164922-occultism-interrogation-the-ritual-of-little-nightmares.json](./164922-occultism-interrogation-the-ritual-of-little-nightmares.json) |
 | Occultist Girl Magatsuhi | 270188 | [270188-occultist-girl-magatsuhi.json](./270188-occultist-girl-magatsuhi.json) |
@@ -4941,6 +4942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlets Rush | 297247 | [297247-outlets-rush.json](./297247-outlets-rush.json) |
 | Outline | 134343 | [134343-outline.json](./134343-outline.json) |
 | Outline Dust | 216962 | [216962-outline-dust.json](./216962-outline-dust.json) |
+| Outlive | 11792 | [11792-outlive.json](./11792-outlive.json) |
 | Outlive | 243234 | [243234-outlive.json](./243234-outlive.json) |
 | Outliver: Redemption | 113665 | [113665-outliver-redemption.json](./113665-outliver-redemption.json) |
 | Outliver: Tribulation | 129234 | [129234-outliver-tribulation.json](./129234-outliver-tribulation.json) |
