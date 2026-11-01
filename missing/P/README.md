@@ -2101,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasites | 282840 | [282840-parasites.json](./282840-parasites.json) |
 | Parasitic Descent | 319117 | [319117-parasitic-descent.json](./319117-parasitic-descent.json) |
 | Parasitus: Ninja Zero | 93628 | [93628-parasitus-ninja-zero.json](./93628-parasitus-ninja-zero.json) |
+| Parasocial | 240585 | [240585-parasocial.json](./240585-parasocial.json) |
 | Parasocial Climbing | 371745 | [371745-parasocial-climbing.json](./371745-parasocial-climbing.json) |
 | Parasocial! Paranoia! Paradise! | 326570 | [326570-parasocial-paranoia-paradise.json](./326570-parasocial-paranoia-paradise.json) |
 | Parasol Fall | 231632 | [231632-parasol-fall.json](./231632-parasol-fall.json) |
