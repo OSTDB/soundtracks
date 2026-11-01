@@ -7962,6 +7962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Simulator 2006: Collector's Edition | 51361 | [51361-ship-simulator-2006-collectors-edition.json](./51361-ship-simulator-2006-collectors-edition.json) |
 | Ship Simulator 2006: Gold Edition | 53655 | [53655-ship-simulator-2006-gold-edition.json](./53655-ship-simulator-2006-gold-edition.json) |
 | Ship Simulator 2008: Collector's Edition | 54390 | [54390-ship-simulator-2008-collectors-edition.json](./54390-ship-simulator-2008-collectors-edition.json) |
+| Ship Simulator 2008: New Horizons | 52930 | [52930-ship-simulator-2008-new-horizons.json](./52930-ship-simulator-2008-new-horizons.json) |
 | Ship Simulator Extremes | 3209 | [3209-ship-simulator-extremes.json](./3209-ship-simulator-extremes.json) |
 | Ship Simulator Extremes: Cargo Vessel | 10824 | [10824-ship-simulator-extremes-cargo-vessel.json](./10824-ship-simulator-extremes-cargo-vessel.json) |
 | Ship Simulator Extremes: Cargo Vessel | 10825 | [10825-ship-simulator-extremes-cargo-vessel.json](./10825-ship-simulator-extremes-cargo-vessel.json) |
