@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Hell | 120588 | [120588-back-to-hell.json](./120588-back-to-hell.json) |
 | Back to Home | 220350 | [220350-back-to-home.json](./220350-back-to-home.json) |
 | Back to Home | 258558 | [258558-back-to-home.json](./258558-back-to-home.json) |
+| Back to Life 2 | 17366 | [17366-back-to-life-2.json](./17366-back-to-life-2.json) |
 | Back to Life 3 | 36102 | [36102-back-to-life-3.json](./36102-back-to-life-3.json) |
 | Back to Medieval Village | 251132 | [251132-back-to-medieval-village.json](./251132-back-to-medieval-village.json) |
 | Back to Modern World: Fantasy Hero | 364966 | [364966-back-to-modern-world-fantasy-hero.json](./364966-back-to-modern-world-fantasy-hero.json) |
@@ -884,7 +885,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2237,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Groom and Glam Pups | 3316 | [3316-barbie-groom-and-glam-pups.json](./3316-barbie-groom-and-glam-pups.json) |
 | Barbie: Horse Ride & Rescue | 398424 | [398424-barbie-horse-ride-and-rescue.json](./398424-barbie-horse-ride-and-rescue.json) |
 | Barbie: Horse Trails | 359887 | [359887-barbie-horse-trails.json](./359887-barbie-horse-trails.json) |
+| Barbie: Jet, Set & Style! | 17450 | [17450-barbie-jet-set-and-style.json](./17450-barbie-jet-set-and-style.json) |
 | Barbie: Let's Baby-Sit Baby Krissy | 293192 | [293192-barbie-lets-baby-sit-baby-krissy.json](./293192-barbie-lets-baby-sit-baby-krissy.json) |
 | Barbie: Let’s Make Music | 293198 | [293198-barbie-let-s-make-music.json](./293198-barbie-let-s-make-music.json) |
 | Barbie: Magic Genie Adventure | 45167 | [45167-barbie-magic-genie-adventure.json](./45167-barbie-magic-genie-adventure.json) |
@@ -4736,6 +4737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beasts of Horror | 265940 | [265940-beasts-of-horror.json](./265940-beasts-of-horror.json) |
 | Beasts of Merit | 211091 | [211091-beasts-of-merit.json](./211091-beasts-of-merit.json) |
 | Beasts of Mystery | 371447 | [371447-beasts-of-mystery.json](./371447-beasts-of-mystery.json) |
+| Beasts of Prey | 17382 | [17382-beasts-of-prey.json](./17382-beasts-of-prey.json) |
 | Beasts of Steel | 265411 | [265411-beasts-of-steel.json](./265411-beasts-of-steel.json) |
 | Beasts Shall Rise | 118138 | [118138-beasts-shall-rise.json](./118138-beasts-shall-rise.json) |
 | Beastwatch: Meat & Mayhem | 270202 | [270202-beastwatch-meat-and-mayhem.json](./270202-beastwatch-meat-and-mayhem.json) |
@@ -16472,6 +16474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Birds | 341853 | [341853-burning-birds.json](./341853-burning-birds.json) |
 | Burning Bridges | 414750 | [414750-burning-bridges.json](./414750-burning-bridges.json) |
 | Burning Calories | 255148 | [255148-burning-calories.json](./255148-burning-calories.json) |
+| Burning Cars | 16917 | [16917-burning-cars.json](./16917-burning-cars.json) |
 | Burning Daylight | 116695 | [116695-burning-daylight.json](./116695-burning-daylight.json) |
 | Burning Dead | 226777 | [226777-burning-dead.json](./226777-burning-dead.json) |
 | Burning Dead Reloaded | 281978 | [281978-burning-dead-reloaded.json](./281978-burning-dead-reloaded.json) |
