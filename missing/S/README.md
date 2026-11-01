@@ -7526,6 +7526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikhondo: Soul Eater - Limited Edition | 166994 | [166994-shikhondo-soul-eater-limited-edition.json](./166994-shikhondo-soul-eater-limited-edition.json) |
 | Shikhondo: Youkai Rampage | 283772 | [283772-shikhondo-youkai-rampage.json](./283772-shikhondo-youkai-rampage.json) |
 | Shiki | 125100 | [125100-shiki.json](./125100-shiki.json) |
+| Shiki Eiyuu-den | 42303 | [42303-shiki-eiyuu-den.json](./42303-shiki-eiyuu-den.json) |
 | Shiki Eiyuuden: Hito Ryuu Densetsu | 58589 | [58589-shiki-eiyuuden-hito-ryuu-densetsu.json](./58589-shiki-eiyuuden-hito-ryuu-densetsu.json) |
 | Shiki no Kyouken | 393555 | [393555-shiki-no-kyouken.json](./393555-shiki-no-kyouken.json) |
 | Shiki no Kyouken: Kanna Zekkei | 147339 | [147339-shiki-no-kyouken-kanna-zekkei.json](./147339-shiki-no-kyouken-kanna-zekkei.json) |
@@ -7677,6 +7678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Strange Journey | 15467 | [15467-shin-megami-tensei-strange-journey.json](./15467-shin-megami-tensei-strange-journey.json) |
 | Shin Megami Tensei: Strange Journey 2 | 299176 | [299176-shin-megami-tensei-strange-journey-2.json](./299176-shin-megami-tensei-strange-journey-2.json) |
 | Shin Megami Tensei: Tokyo Requiem | 136615 | [136615-shin-megami-tensei-tokyo-requiem.json](./136615-shin-megami-tensei-tokyo-requiem.json) |
+| Shin Momotaro Densetsu | 42297 | [42297-shin-momotaro-densetsu.json](./42297-shin-momotaro-densetsu.json) |
 | Shin Nekketsu Kouha Kunio-kun: Kunio-tachi no Banka | 46584 | [46584-shin-nekketsu-kouha-kunio-kun-kunio-tachi-no-banka.json](./46584-shin-nekketsu-kouha-kunio-kun-kunio-tachi-no-banka.json) |
 | Shin Nippon Pro Wrestling '94: Battlefield in Tokyo Dome | 37626 | [37626-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json](./37626-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json) |
 | Shin Nippon Pro Wrestling '94: Battlefield in Tokyo Dome | 61304 | [61304-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json](./61304-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json) |
@@ -7711,7 +7713,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin SD Sengokuden: Daishogun Retsuden | 58677 | [58677-shin-sd-sengokuden-daishogun-retsuden.json](./58677-shin-sd-sengokuden-daishogun-retsuden.json) |
 | Shin Sedai Robot Senki - Brave Saga | 137393 | [137393-shin-sedai-robot-senki-brave-saga.json](./137393-shin-sedai-robot-senki-brave-saga.json) |
 | Shin Sedai Robot Senki - Brave Saga 2 | 137397 | [137397-shin-sedai-robot-senki-brave-saga-2.json](./137397-shin-sedai-robot-senki-brave-saga-2.json) |
+| Shin Seikoku: La Wares | 42307 | [42307-shin-seikoku-la-wares.json](./42307-shin-seikoku-la-wares.json) |
 | Shin Seizonritsu 0%! Chikatetsu Kara no Dasshutsu | 238886 | [238886-shin-seizonritsu-0-chikatetsu-kara-no-dasshutsu.json](./238886-shin-seizonritsu-0-chikatetsu-kara-no-dasshutsu.json) |
+| Shin Shogi Club | 42313 | [42313-shin-shogi-club.json](./42313-shin-shogi-club.json) |
 | Shin Super Robot Taisen | 43908 | [43908-shin-super-robot-taisen.json](./43908-shin-super-robot-taisen.json) |
 | Shin Taketori Monogatari | 77132 | [77132-shin-taketori-monogatari.json](./77132-shin-taketori-monogatari.json) |
 | Shin Tennis no Ouji-sama: Let's Go!! Daily Life from RisingBeat | 222249 | [222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json](./222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json) |
@@ -7724,6 +7728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin-chan: Shiro and the Coal Town | 266712 | [266712-shin-chan-shiro-and-the-coal-town.json](./266712-shin-chan-shiro-and-the-coal-town.json) |
 | Shinai Naru Kodoku to Kunou e | 350600 | [350600-shinai-naru-kodoku-to-kunou-e.json](./350600-shinai-naru-kodoku-to-kunou-e.json) |
 | Shinban Arishia no Panse | 415278 | [415278-shinban-arishia-no-panse.json](./415278-shinban-arishia-no-panse.json) |
+| Shinchou Kouki | 42312 | [42312-shinchou-kouki.json](./42312-shinchou-kouki.json) |
 | Shinda Classmate kara Koibumi ga Todoita. | 285872 | [285872-shinda-classmate-kara-koibumi-ga-todoita.json](./285872-shinda-classmate-kara-koibumi-ga-todoita.json) |
 | Shinde Shinde Tsuyoku nare!...? | 316657 | [316657-shinde-shinde-tsuyoku-nare.json](./316657-shinde-shinde-tsuyoku-nare.json) |
 | Shindig | 149250 | [149250-shindig.json](./149250-shindig.json) |
@@ -7945,6 +7950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinyaku Boushi Sekai | 396208 | [396208-shinyaku-boushi-sekai.json](./396208-shinyaku-boushi-sekai.json) |
 | Shinyuu no Haha Kumiko: Ana no Ichi kara Haramase Kata made Subete Kanojo ga Oshiete Kureta | 83000 | [83000-shinyuu-no-haha-kumiko-ana-no-ichi-kara-haramase-kata-made-subete-kanojo-ga-oshiete-kureta.json](./83000-shinyuu-no-haha-kumiko-ana-no-ichi-kara-haramase-kata-made-subete-kanojo-ga-oshiete-kureta.json) |
 | Shinzen Hollow | 292512 | [292512-shinzen-hollow.json](./292512-shinzen-hollow.json) |
+| Shinzui Taikyoku Igo: Go Sennin | 42318 | [42318-shinzui-taikyoku-igo-go-sennin.json](./42318-shinzui-taikyoku-igo-go-sennin.json) |
 | Shio | 31393 | [31393-shio.json](./31393-shio.json) |
 | Shio: Deluxe Edition | 53597 | [53597-shio-deluxe-edition.json](./53597-shio-deluxe-edition.json) |
 | Shiodome Train Simulator | 234242 | [234242-shiodome-train-simulator.json](./234242-shiodome-train-simulator.json) |
@@ -16910,6 +16916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soter | 157139 | [157139-soter.json](./157139-soter.json) |
 | Sotidrokhima | 226396 | [226396-sotidrokhima.json](./226396-sotidrokhima.json) |
 | Soto Nemuri | 229671 | [229671-soto-nemuri.json](./229671-soto-nemuri.json) |
+| Sotsugyou Bangai-hen: Nee Mahjong Shiyo! | 42309 | [42309-sotsugyou-bangai-hen-nee-mahjong-shiyo.json](./42309-sotsugyou-bangai-hen-nee-mahjong-shiyo.json) |
 | Sotsugyou Crossworld | 108838 | [108838-sotsugyou-crossworld.json](./108838-sotsugyou-crossworld.json) |
 | Sotsugyou M: Male Graduation - Seitokai Naga no Kareinaru Inbou | 166395 | [166395-sotsugyou-m-male-graduation-seitokai-naga-no-kareinaru-inbou.json](./166395-sotsugyou-m-male-graduation-seitokai-naga-no-kareinaru-inbou.json) |
 | Sotsugyou R: Graduation Real | 166396 | [166396-sotsugyou-r-graduation-real.json](./166396-sotsugyou-r-graduation-real.json) |
@@ -27939,6 +27946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supaplex Squares | 105513 | [105513-supaplex-squares.json](./105513-supaplex-squares.json) |
 | Supaplex WOW! | 109314 | [109314-supaplex-wow.json](./109314-supaplex-wow.json) |
 | Supaplex: Second Chance | 145010 | [145010-supaplex-second-chance.json](./145010-supaplex-second-chance.json) |
+| Supapoon | 42324 | [42324-supapoon.json](./42324-supapoon.json) |
 | Supapoon DX | 42418 | [42418-supapoon-dx.json](./42418-supapoon-dx.json) |
 | SupaSanta | 400568 | [400568-supasanta.json](./400568-supasanta.json) |
 | SupaSupaCross | 251120 | [251120-supasupacross.json](./251120-supasupacross.json) |
@@ -28256,7 +28264,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chillers: The Chat Room | 372641 | [372641-super-chillers-the-chat-room.json](./372641-super-chillers-the-chat-room.json) |
 | Super Chinchilla Speed Typing Grand Prix 3000 | 185343 | [185343-super-chinchilla-speed-typing-grand-prix-3000.json](./185343-super-chinchilla-speed-typing-grand-prix-3000.json) |
 | Super Chinese 1-2 Advance | 63963 | [63963-super-chinese-1-2-advance.json](./63963-super-chinese-1-2-advance.json) |
+| Super Chinese Fighter | 42322 | [42322-super-chinese-fighter.json](./42322-super-chinese-fighter.json) |
 | Super Chinese Fighter EX | 50557 | [50557-super-chinese-fighter-ex.json](./50557-super-chinese-fighter-ex.json) |
+| Super Chinese World 3: Chou Jigen Daisakusen | 42304 | [42304-super-chinese-world-3-chou-jigen-daisakusen.json](./42304-super-chinese-world-3-chou-jigen-daisakusen.json) |
 | Super Chipflake Ü: Quest for the Uncooked Schnitzel | 338787 | [338787-super-chipflake-u-quest-for-the-uncooked-schnitzel.json](./338787-super-chipflake-u-quest-for-the-uncooked-schnitzel.json) |
 | Super Chopper | 154235 | [154235-super-chopper.json](./154235-super-chopper.json) |
 | Super Choppy | 366802 | [366802-super-choppy.json](./366802-super-choppy.json) |
