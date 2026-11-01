@@ -4735,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Magic | 147189 | [147189-master-of-magic.json](./147189-master-of-magic.json) |
 | Master of Magic | 6466 | [6466-master-of-magic.json](./6466-master-of-magic.json) |
 | Master of Magic | 7548 | [7548-master-of-magic.json](./7548-master-of-magic.json) |
+| Master of Magic Chess | 29369 | [29369-master-of-magic-chess.json](./29369-master-of-magic-chess.json) |
 | Master of Magic: Rise of the Soultrapped | 256261 | [256261-master-of-magic-rise-of-the-soultrapped.json](./256261-master-of-magic-rise-of-the-soultrapped.json) |
 | Master of Magic: Scourge of the Seas | 280347 | [280347-master-of-magic-scourge-of-the-seas.json](./280347-master-of-magic-scourge-of-the-seas.json) |
 | Master of Marbles | 32435 | [32435-master-of-marbles.json](./32435-master-of-marbles.json) |
@@ -5487,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9498,6 +9500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MGCM Magical Girls | 188247 | [188247-mgcm-magical-girls.json](./188247-mgcm-magical-girls.json) |
 | MGM Slots Live | 370750 | [370750-mgm-slots-live.json](./370750-mgm-slots-live.json) |
 | MGP Manager | 260382 | [260382-mgp-manager.json](./260382-mgp-manager.json) |
+| MGSLeisure1000 | 29470 | [29470-mgsleisure1000.json](./29470-mgsleisure1000.json) |
 | MH-Zombie | 194866 | [194866-mh-zombie.json](./194866-mh-zombie.json) |
 | MH17 Strikes Back | 329375 | [329375-mh17-strikes-back.json](./329375-mh17-strikes-back.json) |
 | MHL | 129458 | [129458-mhl.json](./129458-mhl.json) |
@@ -18481,6 +18484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Boyfriend | 398812 | [398812-my-boyfriend.json](./398812-my-boyfriend.json) |
 | My Boyfriend is a Martian | 295389 | [295389-my-boyfriend-is-a-martian.json](./295389-my-boyfriend-is-a-martian.json) |
 | My Boyfriend, Sonic the Hedgehog | 422465 | [422465-my-boyfriend-sonic-the-hedgehog.json](./422465-my-boyfriend-sonic-the-hedgehog.json) |
+| My Boyfriend: He Loves Me, He Loves Me Not | 29416 | [29416-my-boyfriend-he-loves-me-he-loves-me-not.json](./29416-my-boyfriend-he-loves-me-he-loves-me-not.json) |
 | My Boyfriend's a Werecat! | 169362 | [169362-my-boyfriends-a-werecat.json](./169362-my-boyfriends-a-werecat.json) |
 | My Break Up Story | 101307 | [101307-my-break-up-story.json](./101307-my-break-up-story.json) |
 | My Breast Friend Sally | 286500 | [286500-my-breast-friend-sally.json](./286500-my-breast-friend-sally.json) |
@@ -19619,7 +19623,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Very Own Lair | 158563 | [158563-my-very-own-lair.json](./158563-my-very-own-lair.json) |
 | My Very Own Light | 139599 | [139599-my-very-own-light.json](./139599-my-very-own-light.json) |
 | My Very Own Train Station | 179413 | [179413-my-very-own-train-station.json](./179413-my-very-own-train-station.json) |
+| My Vet Practice | 29414 | [29414-my-vet-practice.json](./29414-my-vet-practice.json) |
 | My Vet Practice 3D - In the Country | 84709 | [84709-my-vet-practice-3d-in-the-country.json](./84709-my-vet-practice-3d-in-the-country.json) |
+| My Vet Practice: Marine Patrol | 29415 | [29415-my-vet-practice-marine-patrol.json](./29415-my-vet-practice-marine-patrol.json) |
 | My Video Game Girlfriend | 206000 | [206000-my-video-game-girlfriend.json](./206000-my-video-game-girlfriend.json) |
 | My Village Life | 166506 | [166506-my-village-life.json](./166506-my-village-life.json) |
 | My Vineyard | 92440 | [92440-my-vineyard.json](./92440-my-vineyard.json) |
