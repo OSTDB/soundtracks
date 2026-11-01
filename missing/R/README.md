@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Islands Extra | 45749 | [45749-rainbow-islands-extra.json](./45749-rainbow-islands-extra.json) |
 | Rainbow Islands: Bubble Bobble 2 | 194446 | [194446-rainbow-islands-bubble-bobble-2.json](./194446-rainbow-islands-bubble-bobble-2.json) |
 | Rainbow Islands: Candyland | 78444 | [78444-rainbow-islands-candyland.json](./78444-rainbow-islands-candyland.json) |
+| Rainbow Islands: Putty's Party | 37496 | [37496-rainbow-islands-puttys-party.json](./37496-rainbow-islands-puttys-party.json) |
 | Rainbow Islands: Story of the Bubble Bobble 2 | 45684 | [45684-rainbow-islands-story-of-the-bubble-bobble-2.json](./45684-rainbow-islands-story-of-the-bubble-bobble-2.json) |
 | Rainbow Islands: The Story of Bubble Bobble 2 | 316031 | [316031-rainbow-islands-the-story-of-bubble-bobble-2.json](./316031-rainbow-islands-the-story-of-bubble-bobble-2.json) |
 | Rainbow Islands: The Story of Bubble Bobble 2 | 4405 | [4405-rainbow-islands-the-story-of-bubble-bobble-2.json](./4405-rainbow-islands-the-story-of-bubble-bobble-2.json) |
@@ -7062,6 +7063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Toss Simulator | 391003 | [391003-ring-toss-simulator.json](./391003-ring-toss-simulator.json) |
 | Ring War | 203662 | [203662-ring-war.json](./203662-ring-war.json) |
 | Ring Wars | 56582 | [56582-ring-wars.json](./56582-ring-wars.json) |
+| Ring: Infinity | 37495 | [37495-ring-infinity.json](./37495-ring-infinity.json) |
 | Ring^-27 | 130599 | [130599-ring-27.json](./130599-ring-27.json) |
 | Ringash | 244299 | [244299-ringash.json](./244299-ringash.json) |
 | Ringbound | 397931 | [397931-ringbound.json](./397931-ringbound.json) |
