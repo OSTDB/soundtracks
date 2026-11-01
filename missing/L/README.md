@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lambs on the Road: The Beginning | 152352 | [152352-lambs-on-the-road-the-beginning.json](./152352-lambs-on-the-road-the-beginning.json) |
 | Lame Defenders | 159493 | [159493-lame-defenders.json](./159493-lame-defenders.json) |
 | Lamecraft | 254333 | [254333-lamecraft.json](./254333-lamecraft.json) |
+| Lament | 29376 | [29376-lament.json](./29376-lament.json) |
 | Lament of Kyoto: Origins | 223267 | [223267-lament-of-kyoto-origins.json](./223267-lament-of-kyoto-origins.json) |
 | Lament of the Yuppie | 226340 | [226340-lament-of-the-yuppie.json](./226340-lament-of-the-yuppie.json) |
 | Lamentations | 318699 | [318699-lamentations.json](./318699-lamentations.json) |
@@ -5087,6 +5088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link: The Unleashed Nexus - Restructured Heaven | 151756 | [151756-link-the-unleashed-nexus-restructured-heaven.json](./151756-link-the-unleashed-nexus-restructured-heaven.json) |
 | Link! Like! Love Live! | 245241 | [245241-link-like-love-live.json](./245241-link-like-love-live.json) |
 | Link's Crossbow Training | 4973 | [4973-links-crossbow-training.json](./4973-links-crossbow-training.json) |
+| Linked | 29395 | [29395-linked.json](./29395-linked.json) |
 | Linked | 322034 | [322034-linked.json](./322034-linked.json) |
 | Linked Mask | 120386 | [120386-linked-mask.json](./120386-linked-mask.json) |
 | Linked Worlds | 235409 | [235409-linked-worlds.json](./235409-linked-worlds.json) |
