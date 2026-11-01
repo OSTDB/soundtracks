@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Noon. | 58144 | [58144-noon.json](./58144-noon.json) |
 | .Script | 180795 | [180795-script.json](./180795-script.json) |
 | '83 | 116194 | [116194-83.json](./116194-83.json) |
+| '88 Games | 39329 | [39329-88-games.json](./39329-88-games.json) |
 | '90s Football Stars | 103883 | [103883-90s-football-stars.json](./103883-90s-football-stars.json) |
 | '90s Super GP | 51541 | [51541-90s-super-gp.json](./51541-90s-super-gp.json) |
 | '94 Super World Cup Chuggu | 130825 | [130825-94-super-world-cup-chuggu.json](./130825-94-super-world-cup-chuggu.json) |
@@ -3043,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 80's Night | 172346 | [172346-80s-night.json](./172346-80s-night.json) |
 | 80's Overdrive | 58717 | [58717-80s-overdrive.json](./58717-80s-overdrive.json) |
 | 80's style | 367904 | [367904-80s-style.json](./367904-80s-style.json) |
+| 800 Fathoms | 39338 | [39338-800-fathoms.json](./39338-800-fathoms.json) |
 | 808 | 357760 | [357760-808.json](./357760-808.json) |
 | 8088 Othello | 94424 | [94424-8088-othello.json](./94424-8088-othello.json) |
 | 8089: The Next Action RPG | 181023 | [181023-8089-the-next-action-rpg.json](./181023-8089-the-next-action-rpg.json) |
