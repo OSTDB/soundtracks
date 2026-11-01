@@ -1567,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia | 47841 | [47841-yu-gi-oh-5ds-world-championship-2010-reverse-of-arcadia.json](./47841-yu-gi-oh-5ds-world-championship-2010-reverse-of-arcadia.json) |
 | Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus | 47801 | [47801-yu-gi-oh-5ds-world-championship-2011-over-the-nexus.json](./47801-yu-gi-oh-5ds-world-championship-2011-over-the-nexus.json) |
 | Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 | 68039 | [68039-yu-gi-oh-7-trials-to-glory-world-championship-tournament-2005.json](./68039-yu-gi-oh-7-trials-to-glory-world-championship-tournament-2005.json) |
+| Yu-Gi-Oh! ARC-V Tag Force Special | 42791 | [42791-yu-gi-oh-arc-v-tag-force-special.json](./42791-yu-gi-oh-arc-v-tag-force-special.json) |
 | Yu-Gi-Oh! BAM | 79359 | [79359-yu-gi-oh-bam.json](./79359-yu-gi-oh-bam.json) |
 | Yu-Gi-Oh! BAM Pocket | 79576 | [79576-yu-gi-oh-bam-pocket.json](./79576-yu-gi-oh-bam-pocket.json) |
 | Yu-Gi-Oh! Capsule Monster Coliseum | 43617 | [43617-yu-gi-oh-capsule-monster-coliseum.json](./43617-yu-gi-oh-capsule-monster-coliseum.json) |
