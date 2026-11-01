@@ -3140,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Empire City | 345542 | [345542-teenage-mutant-ninja-turtles-empire-city.json](./345542-teenage-mutant-ninja-turtles-empire-city.json) |
 | Teenage Mutant Ninja Turtles: Fall of the Foot Clan | 48928 | [48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json](./48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json) |
 | Teenage Mutant Ninja Turtles: Four for Four | 218931 | [218931-teenage-mutant-ninja-turtles-four-for-four.json](./218931-teenage-mutant-ninja-turtles-four-for-four.json) |
+| Teenage Mutant Ninja Turtles: Half-Shell Heroes | 57980 | [57980-teenage-mutant-ninja-turtles-half-shell-heroes.json](./57980-teenage-mutant-ninja-turtles-half-shell-heroes.json) |
 | Teenage Mutant Ninja Turtles: Master Splinter's Training Pack | 79779 | [79779-teenage-mutant-ninja-turtles-master-splinters-training-pack.json](./79779-teenage-mutant-ninja-turtles-master-splinters-training-pack.json) |
 | Teenage Mutant Ninja Turtles: Mutant Madness | 138015 | [138015-teenage-mutant-ninja-turtles-mutant-madness.json](./138015-teenage-mutant-ninja-turtles-mutant-madness.json) |
 | Teenage Mutant Ninja Turtles: Mutant Mayhem - Pizza Power | 261388 | [261388-teenage-mutant-ninja-turtles-mutant-mayhem-pizza-power.json](./261388-teenage-mutant-ninja-turtles-mutant-mayhem-pizza-power.json) |
@@ -8476,6 +8477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fallen Kingdom | 324298 | [324298-the-fallen-kingdom.json](./324298-the-fallen-kingdom.json) |
 | The Fallen Night | 236198 | [236198-the-fallen-night.json](./236198-the-fallen-night.json) |
 | The Fallen of the Blaze Empire | 117363 | [117363-the-fallen-of-the-blaze-empire.json](./117363-the-fallen-of-the-blaze-empire.json) |
+| The Fallen Ones | 58100 | [58100-the-fallen-ones.json](./58100-the-fallen-ones.json) |
 | The Fallen Priest | 276397 | [276397-the-fallen-priest.json](./276397-the-fallen-priest.json) |
 | The Fallen Star | 296856 | [296856-the-fallen-star.json](./296856-the-fallen-star.json) |
 | The Fallen Will | 386447 | [386447-the-fallen-will.json](./386447-the-fallen-will.json) |
@@ -10867,6 +10869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land Before Time: Dinosaur Arcade | 206996 | [206996-the-land-before-time-dinosaur-arcade.json](./206996-the-land-before-time-dinosaur-arcade.json) |
 | The Land Before Time: Great Valley Racing Adventure | 45069 | [45069-the-land-before-time-great-valley-racing-adventure.json](./45069-the-land-before-time-great-valley-racing-adventure.json) |
 | The Land Before Time: Into the Mysterious Beyond | 49332 | [49332-the-land-before-time-into-the-mysterious-beyond.json](./49332-the-land-before-time-into-the-mysterious-beyond.json) |
+| The Land Before Time: Kindergarten Adventure | 57978 | [57978-the-land-before-time-kindergarten-adventure.json](./57978-the-land-before-time-kindergarten-adventure.json) |
 | The Land Before Time: Math Adventure | 329646 | [329646-the-land-before-time-math-adventure.json](./329646-the-land-before-time-math-adventure.json) |
 | The Land Before Time: Prehistoric Adventures | 329652 | [329652-the-land-before-time-prehistoric-adventures.json](./329652-the-land-before-time-prehistoric-adventures.json) |
 | The Land Before Time: Preschool Adventure | 329647 | [329647-the-land-before-time-preschool-adventure.json](./329647-the-land-before-time-preschool-adventure.json) |
@@ -21412,6 +21415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Animal War | 193933 | [193933-tiny-animal-war.json](./193933-tiny-animal-war.json) |
 | Tiny Arcade Racers | 201241 | [201241-tiny-arcade-racers.json](./201241-tiny-arcade-racers.json) |
 | Tiny Arcade Tetris | 234083 | [234083-tiny-arcade-tetris.json](./234083-tiny-arcade-tetris.json) |
+| Tiny Archers | 58105 | [58105-tiny-archers.json](./58105-tiny-archers.json) |
 | Tiny Arctic Hero | 379160 | [379160-tiny-arctic-hero.json](./379160-tiny-arctic-hero.json) |
 | Tiny Atolls | 230529 | [230529-tiny-atolls.json](./230529-tiny-atolls.json) |
 | Tiny Auto Knights | 338131 | [338131-tiny-auto-knights.json](./338131-tiny-auto-knights.json) |
@@ -27315,6 +27319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Forged to Fight | 27995 | [27995-transformers-forged-to-fight.json](./27995-transformers-forged-to-fight.json) |
 | Transformers: Galactic Trials | 307442 | [307442-transformers-galactic-trials.json](./307442-transformers-galactic-trials.json) |
 | Transformers: Heavy Metal | 193815 | [193815-transformers-heavy-metal.json](./193815-transformers-heavy-metal.json) |
+| Transformers: Human Alliance | 57959 | [57959-transformers-human-alliance.json](./57959-transformers-human-alliance.json) |
 | Transformers: Multi Shock | 320261 | [320261-transformers-multi-shock.json](./320261-transformers-multi-shock.json) |
 | Transformers: Mystery of Comvoy | 48563 | [48563-transformers-mystery-of-comvoy.json](./48563-transformers-mystery-of-comvoy.json) |
 | Transformers: Reactivate | 228536 | [228536-transformers-reactivate.json](./228536-transformers-reactivate.json) |
@@ -28650,6 +28655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Video Game Trivia Deluxe | 74339 | [74339-trivia-vault-video-game-trivia-deluxe.json](./74339-trivia-vault-video-game-trivia-deluxe.json) |
 | Trivia War | 338607 | [338607-trivia-war.json](./338607-trivia-war.json) |
 | Trivia Whiz | 80313 | [80313-trivia-whiz.json](./80313-trivia-whiz.json) |
+| Triviador | 57979 | [57979-triviador.json](./57979-triviador.json) |
 | Triviador World | 249242 | [249242-triviador-world.json](./249242-triviador-world.json) |
 | Trivial Pursuit | 12970 | [12970-trivial-pursuit.json](./12970-trivial-pursuit.json) |
 | Trivial Pursuit | 78560 | [78560-trivial-pursuit.json](./78560-trivial-pursuit.json) |
