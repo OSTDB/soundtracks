@@ -1671,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Raid | 17238 | [17238-dark-raid.json](./17238-dark-raid.json) |
 | Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
 | Dark Rail | 410670 | [410670-dark-rail.json](./410670-dark-rail.json) |
+| Dark Realm 2: Princess of Ice | 46957 | [46957-dark-realm-2-princess-of-ice.json](./46957-dark-realm-2-princess-of-ice.json) |
 | Dark Realm: Guardian of Flames | 91168 | [91168-dark-realm-guardian-of-flames.json](./91168-dark-realm-guardian-of-flames.json) |
 | Dark Realm: Princess of Ice - Collector's Edition | 59147 | [59147-dark-realm-princess-of-ice-collectors-edition.json](./59147-dark-realm-princess-of-ice-collectors-edition.json) |
 | Dark Realm: Queen of Flames | 139797 | [139797-dark-realm-queen-of-flames.json](./139797-dark-realm-queen-of-flames.json) |
@@ -7386,6 +7387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil In My House | 311781 | [311781-devil-in-my-house.json](./311781-devil-in-my-house.json) |
 | Devil in the Details | 103959 | [103959-devil-in-the-details.json](./103959-devil-in-the-details.json) |
 | Devil in the Pines | 67598 | [67598-devil-in-the-pines.json](./67598-devil-in-the-pines.json) |
+| Devil inside | 46940 | [46940-devil-inside.json](./46940-devil-inside.json) |
 | Devil Inside Us: Roots of Evil | 150782 | [150782-devil-inside-us-roots-of-evil.json](./150782-devil-inside-us-roots-of-evil.json) |
 | Devil Island | 247392 | [247392-devil-island.json](./247392-devil-island.json) |
 | Devil Jam | 291855 | [291855-devil-jam.json](./291855-devil-jam.json) |
@@ -11168,6 +11170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominic Cranes's Dreamscape Mystery | 210211 | [210211-dominic-craness-dreamscape-mystery.json](./210211-dominic-craness-dreamscape-mystery.json) |
 | Dominion | 164217 | [164217-dominion.json](./164217-dominion.json) |
 | Dominion of Madess | 263359 | [263359-dominion-of-madess.json](./263359-dominion-of-madess.json) |
+| Dominion Online | 46992 | [46992-dominion-online.json](./46992-dominion-online.json) |
 | Dominion Synergy | 300740 | [300740-dominion-synergy.json](./300740-dominion-synergy.json) |
 | Dominion: Adventures | 191103 | [191103-dominion-adventures.json](./191103-dominion-adventures.json) |
 | Dominion: Alchemy | 191100 | [191100-dominion-alchemy.json](./191100-dominion-alchemy.json) |
