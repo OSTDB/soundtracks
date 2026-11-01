@@ -2642,6 +2642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4517,6 +4518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knots | 92681 | [92681-knots.json](./92681-knots.json) |
 | Knots 3D | 68912 | [68912-knots-3d.json](./68912-knots-3d.json) |
 | Know | 272745 | [272745-know.json](./272745-know.json) |
+| Know by Heart | 142037 | [142037-know-by-heart.json](./142037-know-by-heart.json) |
 | Know How | 343320 | [343320-know-how.json](./343320-know-how.json) |
 | Know How 2: Think and Play outside the box! | 64844 | [64844-know-how-2-think-and-play-outside-the-box.json](./64844-know-how-2-think-and-play-outside-the-box.json) |
 | Know It or Blow It | 124464 | [124464-know-it-or-blow-it.json](./124464-know-it-or-blow-it.json) |
@@ -5600,6 +5602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kukinta | 285306 | [285306-kukinta.json](./285306-kukinta.json) |
 | KukkoroDays | 136255 | [136255-kukkorodays.json](./136255-kukkorodays.json) |
 | Kukoo Kitchen | 112349 | [112349-kukoo-kitchen.json](./112349-kukoo-kitchen.json) |
+| Kukoro: Stream Chat Games | 137372 | [137372-kukoro-stream-chat-games.json](./137372-kukoro-stream-chat-games.json) |
 | Kukuevo | 280764 | [280764-kukuevo.json](./280764-kukuevo.json) |
 | Kukui 2 | 140011 | [140011-kukui-2.json](./140011-kukui-2.json) |
 | Kukulcan | 125862 | [125862-kukulcan.json](./125862-kukulcan.json) |
