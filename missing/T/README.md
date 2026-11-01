@@ -3484,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telusfax | 229810 | [229810-telusfax.json](./229810-telusfax.json) |
 | Temanava | 236768 | [236768-temanava.json](./236768-temanava.json) |
 | Temari Trials | 359984 | [359984-temari-trials.json](./359984-temari-trials.json) |
+| Tembo the Badass Elephant | 9244 | [9244-tembo-the-badass-elephant.json](./9244-tembo-the-badass-elephant.json) |
 | Temehuatzl | 320007 | [320007-temehuatzl.json](./320007-temehuatzl.json) |
 | Temerity | 28100 | [28100-temerity.json](./28100-temerity.json) |
 | Temirana: The Lucky Princess and the Tragic Knights | 200452 | [200452-temirana-the-lucky-princess-and-the-tragic-knights.json](./200452-temirana-the-lucky-princess-and-the-tragic-knights.json) |
@@ -6986,6 +6987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Condition | 373548 | [373548-the-condition.json](./373548-the-condition.json) |
 | The Conductor | 261909 | [261909-the-conductor.json](./261909-the-conductor.json) |
 | The Conductor | 329091 | [329091-the-conductor.json](./329091-the-conductor.json) |
+| The Conduit | 4769 | [4769-the-conduit.json](./4769-the-conduit.json) |
 | The Conduit: Special Edition | 50985 | [50985-the-conduit-special-edition.json](./50985-the-conduit-special-edition.json) |
 | The Cone Game | 182692 | [182692-the-cone-game.json](./182692-the-cone-game.json) |
 | The Confession | 133365 | [133365-the-confession.json](./133365-the-confession.json) |
@@ -8942,6 +8944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flintstones: Dino to the Rescue | 225618 | [225618-the-flintstones-dino-to-the-rescue.json](./225618-the-flintstones-dino-to-the-rescue.json) |
 | The Flintstones: King Rock Treasure Island | 49007 | [49007-the-flintstones-king-rock-treasure-island.json](./49007-the-flintstones-king-rock-treasure-island.json) |
 | The Flintstones: The Movie | 146331 | [146331-the-flintstones-the-movie.json](./146331-the-flintstones-the-movie.json) |
+| The Flintstones: The Rescue of Dino & Hoppy | 18810 | [18810-the-flintstones-the-rescue-of-dino-and-hoppy.json](./18810-the-flintstones-the-rescue-of-dino-and-hoppy.json) |
 | The Flintstones: The Treasure of Sierra Madrock | 8450 | [8450-the-flintstones-the-treasure-of-sierra-madrock.json](./8450-the-flintstones-the-treasure-of-sierra-madrock.json) |
 | The Flintstones' Keyboard Fun | 41494 | [41494-the-flintstones-keyboard-fun.json](./41494-the-flintstones-keyboard-fun.json) |
 | The Flipbook | 374900 | [374900-the-flipbook.json](./374900-the-flipbook.json) |
@@ -10825,6 +10828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters Neowave | 5896 | [5896-the-king-of-fighters-neowave.json](./5896-the-king-of-fighters-neowave.json) |
 | The King of Fighters Online | 76968 | [76968-the-king-of-fighters-online.json](./76968-the-king-of-fighters-online.json) |
 | The King of Fighters Wing | 337142 | [337142-the-king-of-fighters-wing.json](./337142-the-king-of-fighters-wing.json) |
+| The King of Fighters XI | 15434 | [15434-the-king-of-fighters-xi.json](./15434-the-king-of-fighters-xi.json) |
 | The King of Fighters XI | 348044 | [348044-the-king-of-fighters-xi.json](./348044-the-king-of-fighters-xi.json) |
 | The King of Fighters XII | 7036 | [7036-the-king-of-fighters-xii.json](./7036-the-king-of-fighters-xii.json) |
 | The King of Fighters XIII | 7038 | [7038-the-king-of-fighters-xiii.json](./7038-the-king-of-fighters-xiii.json) |
@@ -12715,6 +12719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mean Craps Machine | 69507 | [69507-the-mean-craps-machine.json](./69507-the-mean-craps-machine.json) |
 | The Mean Green | 263415 | [263415-the-mean-green.json](./263415-the-mean-green.json) |
 | The Mean Green 2 | 263416 | [263416-the-mean-green-2.json](./263416-the-mean-green-2.json) |
+| The Mean Greens: Plastic Warfare | 15183 | [15183-the-mean-greens-plastic-warfare.json](./15183-the-mean-greens-plastic-warfare.json) |
 | The Mean Greens: Plastic Warfare - Vampiro | 208812 | [208812-the-mean-greens-plastic-warfare-vampiro.json](./208812-the-mean-greens-plastic-warfare-vampiro.json) |
 | The Mean Greens: Plastic Warfare - Wrestling Superstar "Kurt Angle" | 195380 | [195380-the-mean-greens-plastic-warfare-wrestling-superstar-kurt-angle.json](./195380-the-mean-greens-plastic-warfare-wrestling-superstar-kurt-angle.json) |
 | The Meaning | 203303 | [203303-the-meaning.json](./203303-the-meaning.json) |
@@ -23806,6 +23811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Spin 2 | 5235 | [5235-top-spin-2.json](./5235-top-spin-2.json) |
 | Top Spin 3 | 248564 | [248564-top-spin-3.json](./248564-top-spin-3.json) |
 | Top Spin 3 | 248565 | [248565-top-spin-3.json](./248565-top-spin-3.json) |
+| Top Spin 3 | 5232 | [5232-top-spin-3.json](./5232-top-spin-3.json) |
 | Top Stars Football | 198146 | [198146-top-stars-football.json](./198146-top-stars-football.json) |
 | Top Steed | 414525 | [414525-top-steed.json](./414525-top-steed.json) |
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
@@ -30102,6 +30108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Dash | 329066 | [329066-turbo-dash.json](./329066-turbo-dash.json) |
 | Turbo Dash Kart 2023 Racing | 266065 | [266065-turbo-dash-kart-2023-racing.json](./266065-turbo-dash-kart-2023-racing.json) |
 | Turbo Dash Kart 2024 Racing | 301782 | [301782-turbo-dash-kart-2024-racing.json](./301782-turbo-dash-kart-2024-racing.json) |
+| Turbo Dismount | 16845 | [16845-turbo-dismount.json](./16845-turbo-dismount.json) |
 | Turbo Dismount 2 | 319769 | [319769-turbo-dismount-2.json](./319769-turbo-dismount-2.json) |
 | Turbo Driving Racing 3D | 191630 | [191630-turbo-driving-racing-3d.json](./191630-turbo-driving-racing-3d.json) |
 | Turbo DX | 313106 | [313106-turbo-dx.json](./313106-turbo-dx.json) |
