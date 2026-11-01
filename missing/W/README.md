@@ -5040,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WildSnake | 282485 | [282485-wildsnake.json](./282485-wildsnake.json) |
 | Wildsong | 287694 | [287694-wildsong.json](./287694-wildsong.json) |
 | WildStandZ | 357405 | [357405-wildstandz.json](./357405-wildstandz.json) |
+| WildStar | 535 | [535-wildstar.json](./535-wildstar.json) |
 | WildTrax & Hypercar Bundle | 410842 | [410842-wildtrax-and-hypercar-bundle.json](./410842-wildtrax-and-hypercar-bundle.json) |
 | WildTrax Racing | 147761 | [147761-wildtrax-racing.json](./147761-wildtrax-racing.json) |
 | WildWaters | 47735 | [47735-wildwaters.json](./47735-wildwaters.json) |
@@ -8725,6 +8726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE SmackDown: Shock Value | 260800 | [260800-wwe-smackdown-shock-value.json](./260800-wwe-smackdown-shock-value.json) |
 | WWE Smackdown! Here Comes the Pain | 6442 | [6442-wwe-smackdown-here-comes-the-pain.json](./6442-wwe-smackdown-here-comes-the-pain.json) |
 | WWE SmackDown! Shut Your Mouth | 6461 | [6461-wwe-smackdown-shut-your-mouth.json](./6461-wwe-smackdown-shut-your-mouth.json) |
+| WWE Smackdown! vs. Raw | 80852 | [80852-wwe-smackdown-vs-raw.json](./80852-wwe-smackdown-vs-raw.json) |
 | WWE SmackDown! vs. Raw 2006 | 18323 | [18323-wwe-smackdown-vs-raw-2006.json](./18323-wwe-smackdown-vs-raw-2006.json) |
 | WWE SuperCard | 79072 | [79072-wwe-supercard.json](./79072-wwe-supercard.json) |
 | WWE Tap Mania | 69501 | [69501-wwe-tap-mania.json](./69501-wwe-tap-mania.json) |
