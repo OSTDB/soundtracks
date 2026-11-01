@@ -5707,6 +5707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albert Mort: Desert Heat | 51510 | [51510-albert-mort-desert-heat.json](./51510-albert-mort-desert-heat.json) |
 | Albert Odyssey | 15889 | [15889-albert-odyssey.json](./15889-albert-odyssey.json) |
 | Albert Odyssey 2: Jashin no Taidou | 38346 | [38346-albert-odyssey-2-jashin-no-taidou.json](./38346-albert-odyssey-2-jashin-no-taidou.json) |
+| Albert Odyssey: Legend of Eldean | 15021 | [15021-albert-odyssey-legend-of-eldean.json](./15021-albert-odyssey-legend-of-eldean.json) |
 | Albert.Data: Slowly Fading into Data | 207791 | [207791-albert-data-slowly-fading-into-data.json](./207791-albert-data-slowly-fading-into-data.json) |
 | Albert's Ark Idle | 312680 | [312680-alberts-ark-idle.json](./312680-alberts-ark-idle.json) |
 | Albert's Journey | 219659 | [219659-alberts-journey.json](./219659-alberts-journey.json) |
@@ -15242,6 +15243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Lilie Plus: The Alchemist of Salburg 3 | 43516 | [43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json](./43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json) |
 | Atelier Lilie: The Alchemist of Salburg 3 | 26441 | [26441-atelier-lilie-the-alchemist-of-salburg-3.json](./26441-atelier-lilie-the-alchemist-of-salburg-3.json) |
 | Atelier Lina: The Alchemist of Strahl | 67708 | [67708-atelier-lina-the-alchemist-of-strahl.json](./67708-atelier-lina-the-alchemist-of-strahl.json) |
+| Atelier Lulua: The Scion of Arland | 111330 | [111330-atelier-lulua-the-scion-of-arland.json](./111330-atelier-lulua-the-scion-of-arland.json) |
 | Atelier Lulua: The Scion of Arland - Additional Character: Meruru | 238049 | [238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json](./238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json) |
 | Atelier Lulua: The Scion of Arland - Additional Character: Totori | 238050 | [238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json](./238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json) |
 | Atelier Lulua: The Scion of Arland - Digital Deluxe Edition | 118934 | [118934-atelier-lulua-the-scion-of-arland-digital-deluxe-edition.json](./118934-atelier-lulua-the-scion-of-arland-digital-deluxe-edition.json) |
