@@ -13639,6 +13639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cortex Command 3D | 376210 | [376210-cortex-command-3d.json](./376210-cortex-command-3d.json) |
 | Cortex Gear: Angry Droids | 52306 | [52306-cortex-gear-angry-droids.json](./52306-cortex-gear-angry-droids.json) |
 | Cortex Protocol | 99689 | [99689-cortex-protocol.json](./99689-cortex-protocol.json) |
+| CortexGear:AngryDroids | 35082 | [35082-cortexgear-angrydroids.json](./35082-cortexgear-angrydroids.json) |
 | Corto Maltese: Secrets of Venice | 8386 | [8386-corto-maltese-secrets-of-venice.json](./8386-corto-maltese-secrets-of-venice.json) |
 | Corum II: Dark Lord | 146209 | [146209-corum-ii-dark-lord.json](./146209-corum-ii-dark-lord.json) |
 | Corum III: Chaotic Magic | 146210 | [146210-corum-iii-chaotic-magic.json](./146210-corum-iii-chaotic-magic.json) |
