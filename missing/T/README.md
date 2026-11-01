@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiyo No Miyako | 221422 | [221422-taiyo-no-miyako.json](./221422-taiyo-no-miyako.json) |
 | Taiyou no Otsuge | 209949 | [209949-taiyou-no-otsuge.json](./209949-taiyou-no-otsuge.json) |
 | Taiyou no Tenshi Marlowe: Ohanabatake ha Dai-Panic! | 331117 | [331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json](./331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json) |
+| Taiyou no Yuusha Fighbird | 48391 | [48391-taiyou-no-yuusha-fighbird.json](./48391-taiyou-no-yuusha-fighbird.json) |
 | Taiyou no Yuusha Fighbird GB | 49136 | [49136-taiyou-no-yuusha-fighbird-gb.json](./49136-taiyou-no-yuusha-fighbird-gb.json) |
 | Taj Mod | 397640 | [397640-taj-mod.json](./397640-taj-mod.json) |
 | Tajemnica statuetki | 26482 | [26482-tajemnica-statuetki.json](./26482-tajemnica-statuetki.json) |
@@ -2490,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatakae! KitadeMan | 173078 | [173078-tatakae-kitademan.json](./173078-tatakae-kitademan.json) |
 | Tatakae! Pro Yakyuu Twin League | 209780 | [209780-tatakae-pro-yakyuu-twin-league.json](./209780-tatakae-pro-yakyuu-twin-league.json) |
 | Tatakae! Ultraman | 345915 | [345915-tatakae-ultraman.json](./345915-tatakae-ultraman.json) |
+| Tatakae!! Ramen-Man: Sakuretsu Choujin 102 Gei | 48390 | [48390-tatakae-ramen-man-sakuretsu-choujin-102-gei.json](./48390-tatakae-ramen-man-sakuretsu-choujin-102-gei.json) |
 | Tatami Crime Scenes What’s Wrong? | 420650 | [420650-tatami-crime-scenes-what-s-wrong.json](./420650-tatami-crime-scenes-what-s-wrong.json) |
 | Tatar Altan vs. Shaitan | 384282 | [384282-tatar-altan-vs-shaitan.json](./384282-tatar-altan-vs-shaitan.json) |
 | Tatara Kogasa's Surprise Operation | 273948 | [273948-tatara-kogasas-surprise-operation.json](./273948-tatara-kogasas-surprise-operation.json) |
@@ -3728,6 +3730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenka Touitsu SSB: Scenario - Mouko Houkousu | 283850 | [283850-tenka-touitsu-ssb-scenario-mouko-houkousu.json](./283850-tenka-touitsu-ssb-scenario-mouko-houkousu.json) |
 | Tenka Touitsu SSB: Scenario - Ryuuko Aiutsu | 283849 | [283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json](./283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json) |
 | Tenka Touitsu: SSB | 278496 | [278496-tenka-touitsu-ssb.json](./278496-tenka-touitsu-ssb.json) |
+| Tenkaichi Bushi: Keru Naguuru | 48389 | [48389-tenkaichi-bushi-keru-naguuru.json](./48389-tenkaichi-bushi-keru-naguuru.json) |
 | Tenkaichi: Sengoku Lovers | 206022 | [206022-tenkaichi-sengoku-lovers.json](./206022-tenkaichi-sengoku-lovers.json) |
 | Tenkaichi: Sengoku Lovers DS | 206023 | [206023-tenkaichi-sengoku-lovers-ds.json](./206023-tenkaichi-sengoku-lovers-ds.json) |
 | Tenkemo | 354932 | [354932-tenkemo.json](./354932-tenkemo.json) |
@@ -3971,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teraburst | 394174 | [394174-teraburst.json](./394174-teraburst.json) |
 | Terafall | 161170 | [161170-terafall.json](./161170-terafall.json) |
 | Teragard | 126256 | [126256-teragard.json](./126256-teragard.json) |
+| Terao no Dosukoi Oozumou | 48388 | [48388-terao-no-dosukoi-oozumou.json](./48388-terao-no-dosukoi-oozumou.json) |
 | Terapets | 135448 | [135448-terapets.json](./135448-terapets.json) |
 | Terapets Wars | 135489 | [135489-terapets-wars.json](./135489-terapets-wars.json) |
 | Teraphobia | 159250 | [159250-teraphobia.json](./159250-teraphobia.json) |
@@ -4517,6 +4521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetras | 336118 | [336118-tetras.json](./336118-tetras.json) |
 | Tetraspace | 59929 | [59929-tetraspace.json](./59929-tetraspace.json) |
 | TetraSquare | 235132 | [235132-tetrasquare.json](./235132-tetrasquare.json) |
+| Tetrastar: The Fighter | 48387 | [48387-tetrastar-the-fighter.json](./48387-tetrastar-the-fighter.json) |
 | TetraTower | 183506 | [183506-tetratower.json](./183506-tetratower.json) |
 | TetraVex | 17262 | [17262-tetravex.json](./17262-tetravex.json) |
 | Tetrenga | 344147 | [344147-tetrenga.json](./344147-tetrenga.json) |
@@ -22608,6 +22613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokoro no Ma-Mahjong 2: Tokoro's Cup | 125973 | [125973-tokoro-no-ma-mahjong-2-tokoros-cup.json](./125973-tokoro-no-ma-mahjong-2-tokoros-cup.json) |
 | Tokoro-san no Daifugou | 125975 | [125975-tokoro-san-no-daifugou.json](./125975-tokoro-san-no-daifugou.json) |
 | Tokoro-san no Mah-Mahjong | 125974 | [125974-tokoro-san-no-mah-mahjong.json](./125974-tokoro-san-no-mah-mahjong.json) |
+| Tokoro-san no Mamoru mo Semeru mo | 48385 | [48385-tokoro-san-no-mamoru-mo-semeru-mo.json](./48385-tokoro-san-no-mamoru-mo-semeru-mo.json) |
 | Tokoro's Mahjong | 37786 | [37786-tokoros-mahjong.json](./37786-tokoros-mahjong.json) |
 | Tokoro's Mahjong Jr. | 126011 | [126011-tokoros-mahjong-jr.json](./126011-tokoros-mahjong-jr.json) |
 | TokoToko | 124705 | [124705-tokotoko.json](./124705-tokotoko.json) |
@@ -29560,6 +29566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuppari Oozumou | 79226 | [79226-tsuppari-oozumou.json](./79226-tsuppari-oozumou.json) |
 | Tsuppari Oozumou: Heisei-han | 62527 | [62527-tsuppari-oozumou-heisei-han.json](./62527-tsuppari-oozumou-heisei-han.json) |
 | Tsuppari Oozumou: Risshin Shusse-hen | 37780 | [37780-tsuppari-oozumou-risshin-shusse-hen.json](./37780-tsuppari-oozumou-risshin-shusse-hen.json) |
+| Tsuppari Wars | 48384 | [48384-tsuppari-wars.json](./48384-tsuppari-wars.json) |
 | Tsurezure Nikki | 163362 | [163362-tsurezure-nikki.json](./163362-tsurezure-nikki.json) |
 | Tsuri Baka Nisshi | 386526 | [386526-tsuri-baka-nisshi.json](./386526-tsuri-baka-nisshi.json) |
 | Tsuri Kichi Sanpei: Blue Marlin-hen | 48875 | [48875-tsuri-kichi-sanpei-blue-marlin-hen.json](./48875-tsuri-kichi-sanpei-blue-marlin-hen.json) |
@@ -30406,6 +30413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TwinBee | 282652 | [282652-twinbee.json](./282652-twinbee.json) |
 | TwinBee | 282658 | [282658-twinbee.json](./282658-twinbee.json) |
 | TwinBee | 4623 | [4623-twinbee.json](./4623-twinbee.json) |
+| TwinBee 3: Poko-poko Daimaou | 48383 | [48383-twinbee-3-poko-poko-daimaou.json](./48383-twinbee-3-poko-poko-daimaou.json) |
 | TwinBee Complete Edition | 282653 | [282653-twinbee-complete-edition.json](./282653-twinbee-complete-edition.json) |
 | TwinBee Da!! | 282567 | [282567-twinbee-da.json](./282567-twinbee-da.json) |
 | TwinBee Deluxe Edition | 364393 | [364393-twinbee-deluxe-edition.json](./364393-twinbee-deluxe-edition.json) |
