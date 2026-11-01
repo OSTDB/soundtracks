@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports UFC 6 | 400095 | [400095-ea-sports-ufc-6.json](./400095-ea-sports-ufc-6.json) |
 | EA Sports UFC 6: Ultimate Edition | 402962 | [402962-ea-sports-ufc-6-ultimate-edition.json](./402962-ea-sports-ufc-6-ultimate-edition.json) |
 | EA Sports UFC Mobile | 218949 | [218949-ea-sports-ufc-mobile.json](./218949-ea-sports-ufc-mobile.json) |
+| EA Sports WRC | 264412 | [264412-ea-sports-wrc.json](./264412-ea-sports-wrc.json) |
 | EA Sports WRC 24 | 319197 | [319197-ea-sports-wrc-24.json](./319197-ea-sports-wrc-24.json) |
 | EA Star Wars Triple Bundle | 164777 | [164777-ea-star-wars-triple-bundle.json](./164777-ea-star-wars-triple-bundle.json) |
 | Each Other | 224717 | [224717-each-other.json](./224717-each-other.json) |
