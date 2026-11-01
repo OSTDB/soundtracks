@@ -3203,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Re:coded | 1225 | [1225-kingdom-hearts-re-coded.json](./1225-kingdom-hearts-re-coded.json) |
 | Kingdom Hearts Rebirth | 349294 | [349294-kingdom-hearts-rebirth.json](./349294-kingdom-hearts-rebirth.json) |
 | Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
+| Kingdom Hearts Union χ[Cross] | 27737 | [27737-kingdom-hearts-union-cross.json](./27737-kingdom-hearts-union-cross.json) |
 | Kingdom Hearts χ[chi] | 20287 | [20287-kingdom-hearts-chi.json](./20287-kingdom-hearts-chi.json) |
 | Kingdom Hearts: Fragmented Keys | 332480 | [332480-kingdom-hearts-fragmented-keys.json](./332480-kingdom-hearts-fragmented-keys.json) |
 | Kingdom Hearts: Melody of Memory | 135108 | [135108-kingdom-hearts-melody-of-memory.json](./135108-kingdom-hearts-melody-of-memory.json) |
