@@ -10566,6 +10566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Jobsworth Judoon | 301942 | [301942-doctor-who-jobsworth-judoon.json](./301942-doctor-who-jobsworth-judoon.json) |
 | Doctor Who: K9 Deja Who | 234847 | [234847-doctor-who-k9-deja-who.json](./234847-doctor-who-k9-deja-who.json) |
 | Doctor Who: Land the Tardis | 237835 | [237835-doctor-who-land-the-tardis.json](./237835-doctor-who-land-the-tardis.json) |
+| Doctor Who: Legacy | 24549 | [24549-doctor-who-legacy.json](./24549-doctor-who-legacy.json) |
 | Doctor Who: Lost in Time | 213285 | [213285-doctor-who-lost-in-time.json](./213285-doctor-who-lost-in-time.json) |
 | Doctor Who: Monster Invasion - Dalek Supremacy | 301937 | [301937-doctor-who-monster-invasion-dalek-supremacy.json](./301937-doctor-who-monster-invasion-dalek-supremacy.json) |
 | Doctor Who: Monster Invasion - Maze of the Dead | 301940 | [301940-doctor-who-monster-invasion-maze-of-the-dead.json](./301940-doctor-who-monster-invasion-maze-of-the-dead.json) |
@@ -12883,6 +12884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Douyara Builder wo Yatteiru Oshi no V ni ha Watashi no Comment ga Hitsuyou-rashii-ken | 264119 | [264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json](./264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json) |
 | Dovadula's Burn | 125020 | [125020-dovadulas-burn.json](./125020-dovadulas-burn.json) |
 | Dove Days: Time Flies | 364262 | [364262-dove-days-time-flies.json](./364262-dove-days-time-flies.json) |
+| Dovetail Games Flight School | 24722 | [24722-dovetail-games-flight-school.json](./24722-dovetail-games-flight-school.json) |
 | Dovetail Games: Euro Fishing | 17666 | [17666-dovetail-games-euro-fishing.json](./17666-dovetail-games-euro-fishing.json) |
 | Dovez | 80607 | [80607-dovez.json](./80607-dovez.json) |
 | Dowajwo! Enjeu | 208739 | [208739-dowajwo-enjeu.json](./208739-dowajwo-enjeu.json) |
@@ -14097,6 +14099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Crown Pro: Royal Package | 167136 | [167136-dragons-crown-pro-royal-package.json](./167136-dragons-crown-pro-royal-package.json) |
 | Dragon's Curse | 210526 | [210526-dragons-curse.json](./210526-dragons-curse.json) |
 | Dragon's Delightful Day | 395164 | [395164-dragons-delightful-day.json](./395164-dragons-delightful-day.json) |
+| Dragon's Den | 24637 | [24637-dragons-den.json](./24637-dragons-den.json) |
 | Dragon's Dilemma | 207673 | [207673-dragons-dilemma.json](./207673-dragons-dilemma.json) |
 | Dragon's Dogma | 3968 | [3968-dragons-dogma.json](./3968-dragons-dogma.json) |
 | Dragon's Dogma II: Dark Arisen | 408164 | [408164-dragons-dogma-ii-dark-arisen.json](./408164-dragons-dogma-ii-dark-arisen.json) |
@@ -14180,6 +14183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonfly | 97469 | [97469-dragonfly.json](./97469-dragonfly.json) |
 | Dragonfly Chronicles | 105133 | [105133-dragonfly-chronicles.json](./105133-dragonfly-chronicles.json) |
 | Dragonfly II | 97467 | [97467-dragonfly-ii.json](./97467-dragonfly-ii.json) |
+| DragonHawk | 24715 | [24715-dragonhawk.json](./24715-dragonhawk.json) |
 | DragonHeart | 80824 | [80824-dragonheart.json](./80824-dragonheart.json) |
 | DragonHill VR | 228759 | [228759-dragonhill-vr.json](./228759-dragonhill-vr.json) |
 | Dragonia | 124242 | [124242-dragonia.json](./124242-dragonia.json) |
@@ -15445,6 +15449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver Test | 98799 | [98799-driver-test.json](./98799-driver-test.json) |
 | Driver: Renegade | 6758 | [6758-driver-renegade.json](./6758-driver-renegade.json) |
 | Driver: San Francisco | 554 | [554-driver-san-francisco.json](./554-driver-san-francisco.json) |
+| Driver: San Francisco - Deluxe Edition | 24710 | [24710-driver-san-francisco-deluxe-edition.json](./24710-driver-san-francisco-deluxe-edition.json) |
 | Driver: Speedboat Paradise | 60464 | [60464-driver-speedboat-paradise.json](./60464-driver-speedboat-paradise.json) |
 | Driver's Dread! | 311689 | [311689-drivers-dread.json](./311689-drivers-dread.json) |
 | Driver's Edge | 39825 | [39825-drivers-edge.json](./39825-drivers-edge.json) |
@@ -15774,6 +15779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Druid: Test of faith | 192770 | [192770-druid-test-of-faith.json](./192770-druid-test-of-faith.json) |
 | Druid: Yamie no Tsuisekisha | 268642 | [268642-druid-yamie-no-tsuisekisha.json](./268642-druid-yamie-no-tsuisekisha.json) |
 | Druid's Tale: Crystal Cave | 61653 | [61653-druids-tale-crystal-cave.json](./61653-druids-tale-crystal-cave.json) |
+| Druids: Battle of Magic | 24719 | [24719-druids-battle-of-magic.json](./24719-druids-battle-of-magic.json) |
 | Druidstone: The Secret of the Menhir Forest | 28142 | [28142-druidstone-the-secret-of-the-menhir-forest.json](./28142-druidstone-the-secret-of-the-menhir-forest.json) |
 | Drum Beat Jump | 232102 | [232102-drum-beat-jump.json](./232102-drum-beat-jump.json) |
 | Drum Blaster 3 | 50233 | [50233-drum-blaster-3.json](./50233-drum-blaster-3.json) |
