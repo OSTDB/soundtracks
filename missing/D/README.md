@@ -4330,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Slayer V | 180013 | [180013-death-slayer-v.json](./180013-death-slayer-v.json) |
 | Death Space | 111406 | [111406-death-space.json](./111406-death-space.json) |
 | Death Spiral | 408297 | [408297-death-spiral.json](./408297-death-spiral.json) |
+| Death Squared | 26972 | [26972-death-squared.json](./26972-death-squared.json) |
 | Death Stair | 33462 | [33462-death-stair.json](./33462-death-stair.json) |
 | Death Stalker | 13579 | [13579-death-stalker.json](./13579-death-stalker.json) |
 | Death Standing | 402098 | [402098-death-standing.json](./402098-death-standing.json) |
@@ -7022,6 +7023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Worlds | 388909 | [388909-destiny-worlds.json](./388909-destiny-worlds.json) |
 | Destiny: Digital Guardian Edition | 147720 | [147720-destiny-digital-guardian-edition.json](./147720-destiny-digital-guardian-edition.json) |
 | Destiny: Guardians | 104962 | [104962-destiny-guardians.json](./104962-destiny-guardians.json) |
+| Destiny: House of Wolves | 19921 | [19921-destiny-house-of-wolves.json](./19921-destiny-house-of-wolves.json) |
 | Destiny: Limited Edition | 147699 | [147699-destiny-limited-edition.json](./147699-destiny-limited-edition.json) |
 | Destiny: Rising | 319758 | [319758-destiny-rising.json](./319758-destiny-rising.json) |
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
@@ -7368,6 +7370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Mankind Divided - Day One Edition | 46024 | [46024-deus-ex-mankind-divided-day-one-edition.json](./46024-deus-ex-mankind-divided-day-one-edition.json) |
 | Deus Ex: Mankind Divided - Desperate Measures | 229860 | [229860-deus-ex-mankind-divided-desperate-measures.json](./229860-deus-ex-mankind-divided-desperate-measures.json) |
 | Deus Ex: Mankind Divided - Digital Deluxe Edition | 164802 | [164802-deus-ex-mankind-divided-digital-deluxe-edition.json](./164802-deus-ex-mankind-divided-digital-deluxe-edition.json) |
+| Deus Ex: Mankind Divided - System Rift | 24465 | [24465-deus-ex-mankind-divided-system-rift.json](./24465-deus-ex-mankind-divided-system-rift.json) |
 | Deus Ex: Mankind Divided - Tactical Pack | 374696 | [374696-deus-ex-mankind-divided-tactical-pack.json](./374696-deus-ex-mankind-divided-tactical-pack.json) |
 | Deus Ex: Revision | 23974 | [23974-deus-ex-revision.json](./23974-deus-ex-revision.json) |
 | Deus Ex: Special Limited Edition | 132079 | [132079-deus-ex-special-limited-edition.json](./132079-deus-ex-special-limited-edition.json) |
@@ -13542,6 +13545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball FighterZ: Zamasu (Fused) | 144704 | [144704-dragon-ball-fighterz-zamasu-fused.json](./144704-dragon-ball-fighterz-zamasu-fused.json) |
 | Dragon Ball Fusions | 19314 | [19314-dragon-ball-fusions.json](./19314-dragon-ball-fusions.json) |
 | Dragon Ball GT: Final Bout | 2558 | [2558-dragon-ball-gt-final-bout.json](./2558-dragon-ball-gt-final-bout.json) |
+| Dragon Ball GT: Transformation | 24269 | [24269-dragon-ball-gt-transformation.json](./24269-dragon-ball-gt-transformation.json) |
 | Dragon Ball GT: Transformation 2 | 66363 | [66363-dragon-ball-gt-transformation-2.json](./66363-dragon-ball-gt-transformation-2.json) |
 | Dragon Ball Heroes: Ultimate Mission | 77253 | [77253-dragon-ball-heroes-ultimate-mission.json](./77253-dragon-ball-heroes-ultimate-mission.json) |
 | Dragon Ball Heroes: Ultimate Mission - Lalabit Market Luxury Edition | 89875 | [89875-dragon-ball-heroes-ultimate-mission-lalabit-market-luxury-edition.json](./89875-dragon-ball-heroes-ultimate-mission-lalabit-market-luxury-edition.json) |
@@ -14217,6 +14221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Keep | 21959 | [21959-dragons-keep.json](./21959-dragons-keep.json) |
 | Dragon's Lair | 126283 | [126283-dragons-lair.json](./126283-dragons-lair.json) |
 | Dragon's Lair | 142473 | [142473-dragons-lair.json](./142473-dragons-lair.json) |
+| Dragon's Lair | 14529 | [14529-dragons-lair.json](./14529-dragons-lair.json) |
 | Dragon's Lair | 272020 | [272020-dragons-lair.json](./272020-dragons-lair.json) |
 | Dragon's Lair | 272021 | [272021-dragons-lair.json](./272021-dragons-lair.json) |
 | Dragon's Lair | 272319 | [272319-dragons-lair.json](./272319-dragons-lair.json) |
@@ -16377,6 +16382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duels+ | 398635 | [398635-duels.json](./398635-duels.json) |
 | Duelstar | 213146 | [213146-duelstar.json](./213146-duelstar.json) |
 | DuelVox | 155574 | [155574-duelvox.json](./155574-duelvox.json) |
+| Duelyst | 19853 | [19853-duelyst.json](./19853-duelyst.json) |
 | Duelyst GG | 232452 | [232452-duelyst-gg.json](./232452-duelyst-gg.json) |
 | Duelyst II | 215867 | [215867-duelyst-ii.json](./215867-duelyst-ii.json) |
 | Duelyst Origins | 318636 | [318636-duelyst-origins.json](./318636-duelyst-origins.json) |
@@ -17041,6 +17047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Solitaire | 178000 | [178000-dungeon-solitaire.json](./178000-dungeon-solitaire.json) |
 | Dungeon Solitaire | 341127 | [341127-dungeon-solitaire.json](./341127-dungeon-solitaire.json) |
 | Dungeon Solver | 133338 | [133338-dungeon-solver.json](./133338-dungeon-solver.json) |
+| Dungeon Souls | 18013 | [18013-dungeon-souls.json](./18013-dungeon-souls.json) |
 | Dungeon Souls: Deluxe Edition | 52932 | [52932-dungeon-souls-deluxe-edition.json](./52932-dungeon-souls-deluxe-edition.json) |
 | Dungeon Squad | 225764 | [225764-dungeon-squad.json](./225764-dungeon-squad.json) |
 | Dungeon Square | 197739 | [197739-dungeon-square.json](./197739-dungeon-square.json) |
@@ -17896,6 +17903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 7: Special | 269527 | [269527-dynasty-warriors-7-special.json](./269527-dynasty-warriors-7-special.json) |
 | Dynasty Warriors 7: Xtreme Legends - Definitive Edition | 113386 | [113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json](./113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json) |
 | Dynasty Warriors 8 | 6976 | [6976-dynasty-warriors-8.json](./6976-dynasty-warriors-8.json) |
+| Dynasty Warriors 8: Empires | 13669 | [13669-dynasty-warriors-8-empires.json](./13669-dynasty-warriors-8-empires.json) |
 | Dynasty Warriors 8: Empires - Castle Pack | 263310 | [263310-dynasty-warriors-8-empires-castle-pack.json](./263310-dynasty-warriors-8-empires-castle-pack.json) |
 | Dynasty Warriors 8: Empires - Free Alliances Version | 221032 | [221032-dynasty-warriors-8-empires-free-alliances-version.json](./221032-dynasty-warriors-8-empires-free-alliances-version.json) |
 | Dynasty Warriors 8: Wang Yuanji 'Rorona' Costume | 306771 | [306771-dynasty-warriors-8-wang-yuanji-rorona-costume.json](./306771-dynasty-warriors-8-wang-yuanji-rorona-costume.json) |
