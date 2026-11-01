@@ -3447,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Circle of the Moon - Card Mode | 219075 | [219075-castlevania-circle-of-the-moon-card-mode.json](./219075-castlevania-circle-of-the-moon-card-mode.json) |
 | Castlevania: Circle of the Moon GBC | 215764 | [215764-castlevania-circle-of-the-moon-gbc.json](./215764-castlevania-circle-of-the-moon-gbc.json) |
 | Castlevania: Circle of the Realm | 208308 | [208308-castlevania-circle-of-the-realm.json](./208308-castlevania-circle-of-the-realm.json) |
+| Castlevania: Curse of Darkness | 1137 | [1137-castlevania-curse-of-darkness.json](./1137-castlevania-curse-of-darkness.json) |
 | Castlevania: Dawn of Dissonance - A Juste Story Mode Hack | 173398 | [173398-castlevania-dawn-of-dissonance-a-juste-story-mode-hack.json](./173398-castlevania-dawn-of-dissonance-a-juste-story-mode-hack.json) |
 | Castlevania: Dawn of Sorrow | 1136 | [1136-castlevania-dawn-of-sorrow.json](./1136-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow | 315314 | [315314-castlevania-dawn-of-sorrow.json](./315314-castlevania-dawn-of-sorrow.json) |
@@ -14090,6 +14091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cossacks Anthology | 51760 | [51760-cossacks-anthology.json](./51760-cossacks-anthology.json) |
 | Cossacks II Anthology | 51759 | [51759-cossacks-ii-anthology.json](./51759-cossacks-ii-anthology.json) |
 | Cossacks II: Napoleonic Wars | 305 | [305-cossacks-ii-napoleonic-wars.json](./305-cossacks-ii-napoleonic-wars.json) |
+| Cossacks: Back to War | 13213 | [13213-cossacks-back-to-war.json](./13213-cossacks-back-to-war.json) |
 | Cossacks: Campaign Expansion | 144964 | [144964-cossacks-campaign-expansion.json](./144964-cossacks-campaign-expansion.json) |
 | Cossacks: European Wars | 242 | [242-cossacks-european-wars.json](./242-cossacks-european-wars.json) |
 | Cossacks: The Art of War | 9362 | [9362-cossacks-the-art-of-war.json](./9362-cossacks-the-art-of-war.json) |
@@ -14102,6 +14104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Costume Fighter | 278275 | [278275-costume-fighter.json](./278275-costume-fighter.json) |
 | Costume Kingdom | 139696 | [139696-costume-kingdom.json](./139696-costume-kingdom.json) |
 | Costume Party | 189968 | [189968-costume-party.json](./189968-costume-party.json) |
+| Costume Quest 2 | 5638 | [5638-costume-quest-2.json](./5638-costume-quest-2.json) |
 | Costumenaut | 55535 | [55535-costumenaut.json](./55535-costumenaut.json) |
 | Cosy Cafe | 383648 | [383648-cosy-cafe.json](./383648-cosy-cafe.json) |
 | Cosy Company Puzzle | 346686 | [346686-cosy-company-puzzle.json](./346686-cosy-company-puzzle.json) |
@@ -14957,6 +14960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot: Mutant Island | 148198 | [148198-crash-bandicoot-mutant-island.json](./148198-crash-bandicoot-mutant-island.json) |
 | Crash Bandicoot: On the Run! | 132793 | [132793-crash-bandicoot-on-the-run.json](./132793-crash-bandicoot-on-the-run.json) |
 | Crash Bandicoot: Quadrilogy Bundle | 163176 | [163176-crash-bandicoot-quadrilogy-bundle.json](./163176-crash-bandicoot-quadrilogy-bundle.json) |
+| Crash Bandicoot: The Huge Adventure | 1197 | [1197-crash-bandicoot-the-huge-adventure.json](./1197-crash-bandicoot-the-huge-adventure.json) |
 | Crash Bandicoot: The Secret Place | 339944 | [339944-crash-bandicoot-the-secret-place.json](./339944-crash-bandicoot-the-secret-place.json) |
 | Crash Bandicoot: Time to Rumble Bundle | 385410 | [385410-crash-bandicoot-time-to-rumble-bundle.json](./385410-crash-bandicoot-time-to-rumble-bundle.json) |
 | Crash Bandicoot: UFO Shooter | 314657 | [314657-crash-bandicoot-ufo-shooter.json](./314657-crash-bandicoot-ufo-shooter.json) |
@@ -17516,6 +17520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Escape: Harvey's Box | 75126 | [75126-cube-escape-harveys-box.json](./75126-cube-escape-harveys-box.json) |
 | Cube Escape: Paradox | 100667 | [100667-cube-escape-paradox.json](./100667-cube-escape-paradox.json) |
 | Cube Escape: Paradox - Chapter 2 | 133968 | [133968-cube-escape-paradox-chapter-2.json](./133968-cube-escape-paradox-chapter-2.json) |
+| Cube Escape: Seasons | 75092 | [75092-cube-escape-seasons.json](./75092-cube-escape-seasons.json) |
 | Cube Escape: The Lake | 75124 | [75124-cube-escape-the-lake.json](./75124-cube-escape-the-lake.json) |
 | Cube Escape: The Mill | 75128 | [75128-cube-escape-the-mill.json](./75128-cube-escape-the-mill.json) |
 | Cube Escape: Theatre | 75130 | [75130-cube-escape-theatre.json](./75130-cube-escape-theatre.json) |
