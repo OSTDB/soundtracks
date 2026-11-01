@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinthine Dreams | 17077 | [17077-labyrinthine-dreams.json](./17077-labyrinthine-dreams.json) |
 | Labyrinthion | 92848 | [92848-labyrinthion.json](./92848-labyrinthion.json) |
 | Labyrinthos: The Depths Want You | 408764 | [408764-labyrinthos-the-depths-want-you.json](./408764-labyrinthos-the-depths-want-you.json) |
+| Labyrinths 2 | 27188 | [27188-labyrinths-2.json](./27188-labyrinths-2.json) |
 | Labyrinths of Atlantis | 93788 | [93788-labyrinths-of-atlantis.json](./93788-labyrinths-of-atlantis.json) |
 | Labyrinths of the World: Changing the Past - Collector's Edition | 46955 | [46955-labyrinths-of-the-world-changing-the-past-collectors-edition.json](./46955-labyrinths-of-the-world-changing-the-past-collectors-edition.json) |
 | Labyrinths of the World: Changing the Past HD | 102683 | [102683-labyrinths-of-the-world-changing-the-past-hd.json](./102683-labyrinths-of-the-world-changing-the-past-hd.json) |
