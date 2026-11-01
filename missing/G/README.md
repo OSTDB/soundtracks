@@ -2350,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekido Advance: Kintaro's Revenge | 6418 | [6418-gekido-advance-kintaros-revenge.json](./6418-gekido-advance-kintaros-revenge.json) |
 | Gekifu Bakegyamon: Ayakashi Fighting | 61346 | [61346-gekifu-bakegyamon-ayakashi-fighting.json](./61346-gekifu-bakegyamon-ayakashi-fighting.json) |
 | Gekihaden | 259417 | [259417-gekihaden.json](./259417-gekihaden.json) |
+| Gekioh: Shooting King | 44938 | [44938-gekioh-shooting-king.json](./44938-gekioh-shooting-king.json) |
 | Gekiretsu Pachinkazu | 247347 | [247347-gekiretsu-pachinkazu.json](./247347-gekiretsu-pachinkazu.json) |
 | Gekirin | 137349 | [137349-gekirin.json](./137349-gekirin.json) |
 | Gekisou Sentai Carranger: Tatakae! Hiragana Racer | 76905 | [76905-gekisou-sentai-carranger-tatakae-hiragana-racer.json](./76905-gekisou-sentai-carranger-tatakae-hiragana-racer.json) |
@@ -9368,6 +9369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guarrd the Rum | 176800 | [176800-guarrd-the-rum.json](./176800-guarrd-the-rum.json) |
 | Guayota | 294937 | [294937-guayota.json](./294937-guayota.json) |
 | Gubble | 170382 | [170382-gubble.json](./170382-gubble.json) |
+| Gubble | 44937 | [44937-gubble.json](./44937-gubble.json) |
 | Gubble 2 | 93338 | [93338-gubble-2.json](./93338-gubble-2.json) |
 | Gubble Buggy Racer | 91544 | [91544-gubble-buggy-racer.json](./91544-gubble-buggy-racer.json) |
 | Gubble Vacation Rush | 61921 | [61921-gubble-vacation-rush.json](./61921-gubble-vacation-rush.json) |
@@ -10021,6 +10023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunfighter | 347675 | [347675-gunfighter.json](./347675-gunfighter.json) |
 | Gunfighter | 95448 | [95448-gunfighter.json](./95448-gunfighter.json) |
 | Gunfighter II: Revenge of Jesse James | 43531 | [43531-gunfighter-ii-revenge-of-jesse-james.json](./43531-gunfighter-ii-revenge-of-jesse-james.json) |
+| Gunfighter: The Legend of Jesse James | 44936 | [44936-gunfighter-the-legend-of-jesse-james.json](./44936-gunfighter-the-legend-of-jesse-james.json) |
 | Gunfighter/Moonship Battle | 91818 | [91818-gunfighter-moonship-battle.json](./91818-gunfighter-moonship-battle.json) |
 | Gunfighters | 177263 | [177263-gunfighters.json](./177263-gunfighters.json) |
 | Gunfinger | 344296 | [344296-gunfinger.json](./344296-gunfinger.json) |
