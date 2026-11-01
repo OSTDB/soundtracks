@@ -11444,6 +11444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Columns | 284379 | [284379-columns.json](./284379-columns.json) |
 | Columns | 311356 | [311356-columns.json](./311356-columns.json) |
 | Columns | 4446 | [4446-columns.json](./4446-columns.json) |
+| Columns 2 | 41093 | [41093-columns-2.json](./41093-columns-2.json) |
 | Columns 2048: Match 3 Numbers | 114038 | [114038-columns-2048-match-3-numbers.json](./114038-columns-2048-match-3-numbers.json) |
 | Columns 97 | 63128 | [63128-columns-97.json](./63128-columns-97.json) |
 | Columns Free | 91037 | [91037-columns-free.json](./91037-columns-free.json) |
@@ -15258,6 +15259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Farm 2 | 120354 | [120354-crazy-farm-2.json](./120354-crazy-farm-2.json) |
 | Crazy Farm: Roguelike Idle Building Game | 412497 | [412497-crazy-farm-roguelike-idle-building-game.json](./412497-crazy-farm-roguelike-idle-building-game.json) |
 | Crazy Fatties | 188930 | [188930-crazy-fatties.json](./188930-crazy-fatties.json) |
+| Crazy Fight | 41091 | [41091-crazy-fight.json](./41091-crazy-fight.json) |
 | Crazy Fishing | 29446 | [29446-crazy-fishing.json](./29446-crazy-fishing.json) |
 | Crazy Fishing Champion | 256200 | [256200-crazy-fishing-champion.json](./256200-crazy-fishing-champion.json) |
 | Crazy Flasher 2 | 398917 | [398917-crazy-flasher-2.json](./398917-crazy-flasher-2.json) |
