@@ -3873,6 +3873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afrika | 130826 | [130826-afrika.json](./130826-afrika.json) |
 | Afrika | 7267 | [7267-afrika.json](./7267-afrika.json) |
 | Afrika Korps | 14228 | [14228-afrika-korps.json](./14228-afrika-korps.json) |
+| Afrika Korps vs Desert Rats | 27249 | [27249-afrika-korps-vs-desert-rats.json](./27249-afrika-korps-vs-desert-rats.json) |
 | Afro Frog | 185378 | [185378-afro-frog.json](./185378-afro-frog.json) |
 | Afro Samurai 2: Revenge of Kuma | 20030 | [20030-afro-samurai-2-revenge-of-kuma.json](./20030-afro-samurai-2-revenge-of-kuma.json) |
 | AfroPenguin & The Forbidden Ramen | 244866 | [244866-afropenguin-and-the-forbidden-ramen.json](./244866-afropenguin-and-the-forbidden-ramen.json) |
@@ -8697,6 +8698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anetha | 284279 | [284279-anetha.json](./284279-anetha.json) |
 | Anett Futatabi | 5359 | [5359-anett-futatabi.json](./5359-anett-futatabi.json) |
 | Aneurism IV | 297064 | [297064-aneurism-iv.json](./297064-aneurism-iv.json) |
+| Anew: The Distant Light | 27214 | [27214-anew-the-distant-light.json](./27214-anew-the-distant-light.json) |
 | Anfractuos | 70291 | [70291-anfractuos.json](./70291-anfractuos.json) |
 | Angel | 292433 | [292433-angel.json](./292433-angel.json) |
 | Angel | 299800 | [299800-angel.json](./299800-angel.json) |
