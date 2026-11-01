@@ -3645,6 +3645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endure the Swarm | 297425 | [297425-endure-the-swarm.json](./297425-endure-the-swarm.json) |
 | Enduring Mountain | 213999 | [213999-enduring-mountain.json](./213999-enduring-mountain.json) |
 | Endurium | 157338 | [157338-endurium.json](./157338-endurium.json) |
+| Enduro | 18669 | [18669-enduro.json](./18669-enduro.json) |
 | Enduro Racer | 37159 | [37159-enduro-racer.json](./37159-enduro-racer.json) |
 | Enduro Racer | 6666 | [6666-enduro-racer.json](./6666-enduro-racer.json) |
 | EndZ Village | 119630 | [119630-endz-village.json](./119630-endz-village.json) |
@@ -5056,6 +5057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape parking lot | 109406 | [109406-escape-parking-lot.json](./109406-escape-parking-lot.json) |
 | Escape Party | 278419 | [278419-escape-party.json](./278419-escape-party.json) |
 | Escape Peng | 303520 | [303520-escape-peng.json](./303520-escape-peng.json) |
+| Escape Plan | 18371 | [18371-escape-plan.json](./18371-escape-plan.json) |
 | Escape Planet 17 | 139587 | [139587-escape-planet-17.json](./139587-escape-planet-17.json) |
 | Escape Point | 132683 | [132683-escape-point.json](./132683-escape-point.json) |
 | Escape Prison | 163898 | [163898-escape-prison.json](./163898-escape-prison.json) |
@@ -6818,6 +6820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolve Lab | 168639 | [168639-evolve-lab.json](./168639-evolve-lab.json) |
 | Evolve Me | 183797 | [183797-evolve-me.json](./183797-evolve-me.json) |
 | Evolve or Die | 373526 | [373526-evolve-or-die.json](./373526-evolve-or-die.json) |
+| Evolve Stage 2 | 20757 | [20757-evolve-stage-2.json](./20757-evolve-stage-2.json) |
 | Evolve Time! | 180449 | [180449-evolve-time.json](./180449-evolve-time.json) |
 | Evolve: Mecha Squad | 309691 | [309691-evolve-mecha-squad.json](./309691-evolve-mecha-squad.json) |
 | Evolve: Ultimate Edition | 99767 | [99767-evolve-ultimate-edition.json](./99767-evolve-ultimate-edition.json) |
@@ -7808,6 +7811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy: Chat | 262194 | [262194-eyetoy-chat.json](./262194-eyetoy-chat.json) |
 | EyeToy: Kinetic Combat | 23119 | [23119-eyetoy-kinetic-combat.json](./23119-eyetoy-kinetic-combat.json) |
 | EyeToy: Operation Spy | 43222 | [43222-eyetoy-operation-spy.json](./43222-eyetoy-operation-spy.json) |
+| EyeToy: Play | 18724 | [18724-eyetoy-play.json](./18724-eyetoy-play.json) |
 | EyeToy: Play 2 | 19842 | [19842-eyetoy-play-2.json](./19842-eyetoy-play-2.json) |
 | EyeToy: Play 3 | 19843 | [19843-eyetoy-play-3.json](./19843-eyetoy-play-3.json) |
 | Eyewear Cleaner 2077 | 194358 | [194358-eyewear-cleaner-2077.json](./194358-eyewear-cleaner-2077.json) |
