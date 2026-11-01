@@ -1160,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocidevorium | 96765 | [96765-velocidevorium.json](./96765-velocidevorium.json) |
 | Velocipede | 416714 | [416714-velocipede.json](./416714-velocipede.json) |
 | Velocipede II | 416716 | [416716-velocipede-ii.json](./416716-velocipede-ii.json) |
+| Velocirapture | 61375 | [61375-velocirapture.json](./61375-velocirapture.json) |
 | Velocispider | 69020 | [69020-velocispider.json](./69020-velocispider.json) |
 | Velocity | 9184 | [9184-velocity.json](./9184-velocity.json) |
 | VeloCity | 377292 | [377292-velocity.json](./377292-velocity.json) |
