@@ -2829,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Aliens Invasion: UFO Swarm Simulator | 100193 | [100193-cartoon-aliens-invasion-ufo-swarm-simulator.json](./100193-cartoon-aliens-invasion-ufo-swarm-simulator.json) |
 | Cartoon Bash | 339096 | [339096-cartoon-bash.json](./339096-cartoon-bash.json) |
 | Cartoon Basketball | 175738 | [175738-cartoon-basketball.json](./175738-cartoon-basketball.json) |
+| Cartoon Capers | 15206 | [15206-cartoon-capers.json](./15206-cartoon-capers.json) |
 | Cartoon Cartoon Food Bash | 296099 | [296099-cartoon-cartoon-food-bash.json](./296099-cartoon-cartoon-food-bash.json) |
 | Cartoon Cartoon Summer Resort | 130744 | [130744-cartoon-cartoon-summer-resort.json](./130744-cartoon-cartoon-summer-resort.json) |
 | Cartoon Collection | 53777 | [53777-cartoon-collection.json](./53777-cartoon-collection.json) |
@@ -5294,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions: Return to Arms | 10237 | [10237-champions-return-to-arms.json](./10237-champions-return-to-arms.json) |
 | Championsheep Rally | 52499 | [52499-championsheep-rally.json](./52499-championsheep-rally.json) |
 | Championship 3D Snooker | 418195 | [418195-championship-3d-snooker.json](./418195-championship-3d-snooker.json) |
+| Championship Baseball | 15207 | [15207-championship-baseball.json](./15207-championship-baseball.json) |
 | Championship Baseball | 44396 | [44396-championship-baseball.json](./44396-championship-baseball.json) |
 | Championship Bass | 45229 | [45229-championship-bass.json](./45229-championship-bass.json) |
 | Championship Bowling | 131262 | [131262-championship-bowling.json](./131262-championship-bowling.json) |
@@ -5304,6 +5306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Hockey | 19772 | [19772-championship-hockey.json](./19772-championship-hockey.json) |
 | Championship Lode Runner | 6091 | [6091-championship-lode-runner.json](./6091-championship-lode-runner.json) |
 | Championship Mah Jongg | 62504 | [62504-championship-mah-jongg.json](./62504-championship-mah-jongg.json) |
+| Championship Manager | 15208 | [15208-championship-manager.json](./15208-championship-manager.json) |
 | Championship Manager | 269426 | [269426-championship-manager.json](./269426-championship-manager.json) |
 | Championship Manager '93 | 11306 | [11306-championship-manager-93.json](./11306-championship-manager-93.json) |
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
@@ -5314,6 +5317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager 2010 | 14888 | [14888-championship-manager-2010.json](./14888-championship-manager-2010.json) |
 | Championship Manager 2010 Express | 118918 | [118918-championship-manager-2010-express.json](./118918-championship-manager-2010-express.json) |
 | Championship Manager 2010 Special Edition | 324735 | [324735-championship-manager-2010-special-edition.json](./324735-championship-manager-2010-special-edition.json) |
+| Championship Manager 2011 | 14889 | [14889-championship-manager-2011.json](./14889-championship-manager-2011.json) |
 | Championship Manager 3 | 93149 | [93149-championship-manager-3.json](./93149-championship-manager-3.json) |
 | Championship Manager 4 | 18870 | [18870-championship-manager-4.json](./18870-championship-manager-4.json) |
 | Championship Manager Quiz | 43786 | [43786-championship-manager-quiz.json](./43786-championship-manager-quiz.json) |
@@ -5879,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers' Playroom | 381935 | [381935-checkers-playroom.json](./381935-checkers-playroom.json) |
 | Checkers' Treasure Hunt | 381937 | [381937-checkers-treasure-hunt.json](./381937-checkers-treasure-hunt.json) |
 | Checkers' Village | 382190 | [382190-checkers-village.json](./382190-checkers-village.json) |
+| Checkmate | 15210 | [15210-checkmate.json](./15210-checkmate.json) |
 | Checkmate : Battle Arenas | 112697 | [112697-checkmate-battle-arenas.json](./112697-checkmate-battle-arenas.json) |
 | Checkmate Challenge | 262777 | [262777-checkmate-challenge.json](./262777-checkmate-challenge.json) |
 | Checkmate Heroines | 391068 | [391068-checkmate-heroines.json](./391068-checkmate-heroines.json) |
@@ -6226,6 +6231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Royal | 142699 | [142699-chess-royal.json](./142699-chess-royal.json) |
 | Chess Royale | 330918 | [330918-chess-royale.json](./330918-chess-royale.json) |
 | Chess Rush | 122963 | [122963-chess-rush.json](./122963-chess-rush.json) |
+| Chess Simulator | 15212 | [15212-chess-simulator.json](./15212-chess-simulator.json) |
 | Chess Sphere | 112795 | [112795-chess-sphere.json](./112795-chess-sphere.json) |
 | Chess Studio | 88723 | [88723-chess-studio.json](./88723-chess-studio.json) |
 | Chess Sudoku | 100649 | [100649-chess-sudoku.json](./100649-chess-sudoku.json) |
@@ -12486,6 +12492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquering Percents | 152026 | [152026-conquering-percents.json](./152026-conquering-percents.json) |
 | Conquering the Queen | 127965 | [127965-conquering-the-queen.json](./127965-conquering-the-queen.json) |
 | Conquering Worlds | 59903 | [59903-conquering-worlds.json](./59903-conquering-worlds.json) |
+| Conqueror | 15213 | [15213-conqueror.json](./15213-conqueror.json) |
 | Conqueror 940 AD | 144985 | [144985-conqueror-940-ad.json](./144985-conqueror-940-ad.json) |
 | Conqueror Of The Galaxy | 327046 | [327046-conqueror-of-the-galaxy.json](./327046-conqueror-of-the-galaxy.json) |
 | Conqueror of the Seas | 236162 | [236162-conqueror-of-the-seas.json](./236162-conqueror-of-the-seas.json) |
