@@ -3979,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reed the Robotanist Plus | 211642 | [211642-reed-the-robotanist-plus.json](./211642-reed-the-robotanist-plus.json) |
 | Reederei | 94336 | [94336-reederei.json](./94336-reederei.json) |
 | Reeelz | 348952 | [348952-reeelz.json](./348952-reeelz.json) |
+| Reef Escape | 56807 | [56807-reef-escape.json](./56807-reef-escape.json) |
 | Reef Light Conundrum | 285405 | [285405-reef-light-conundrum.json](./285405-reef-light-conundrum.json) |
 | Reef Rivals | 191825 | [191825-reef-rivals.json](./191825-reef-rivals.json) |
 | Reef Rumble | 186469 | [186469-reef-rumble.json](./186469-reef-rumble.json) |
