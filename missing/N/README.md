@@ -3616,7 +3616,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ni no Kuni II: Revenant Kingdom - Tale of a Timeless Tome | 115646 | [115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json](./115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json) |
 | Ni no Kuni II: Revenant Kingdom - The Lair of the Lost Lord | 154455 | [154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json](./154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json) |
 | Ni no Kuni II: Revenant Kingdom - The Prince's Edition | 150149 | [150149-ni-no-kuni-ii-revenant-kingdom-the-princes-edition.json](./150149-ni-no-kuni-ii-revenant-kingdom-the-princes-edition.json) |
+| Ni no Kuni: Daibouken Monsters | 27275 | [27275-ni-no-kuni-daibouken-monsters.json](./27275-ni-no-kuni-daibouken-monsters.json) |
 | Ni no Kuni: Dominion of the Dark Djinn | 18856 | [18856-ni-no-kuni-dominion-of-the-dark-djinn.json](./18856-ni-no-kuni-dominion-of-the-dark-djinn.json) |
+| Ni no Kuni: Hotroit Stories | 27273 | [27273-ni-no-kuni-hotroit-stories.json](./27273-ni-no-kuni-hotroit-stories.json) |
 | Ni no Kuni: Wrath of the White Witch | 1864 | [1864-ni-no-kuni-wrath-of-the-white-witch.json](./1864-ni-no-kuni-wrath-of-the-white-witch.json) |
 | Ni no Kuni: Wrath of the White Witch - Wizard's Edition | 223042 | [223042-ni-no-kuni-wrath-of-the-white-witch-wizards-edition.json](./223042-ni-no-kuni-wrath-of-the-white-witch-wizards-edition.json) |
 | Ni no Kuni: Wrath of the White Witch Remastered | 119390 | [119390-ni-no-kuni-wrath-of-the-white-witch-remastered.json](./119390-ni-no-kuni-wrath-of-the-white-witch-remastered.json) |
@@ -4725,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Hayate HD Remaster | 341094 | [341094-ninja-hayate-hd-remaster.json](./341094-ninja-hayate-hd-remaster.json) |
 | Ninja Hero Cats | 295665 | [295665-ninja-hero-cats.json](./295665-ninja-hero-cats.json) |
 | Ninja Hero Revenge | 102728 | [102728-ninja-hero-revenge.json](./102728-ninja-hero-revenge.json) |
+| Ninja Hop | 27246 | [27246-ninja-hop.json](./27246-ninja-hop.json) |
 | Ninja Hunter | 64635 | [64635-ninja-hunter.json](./64635-ninja-hunter.json) |
 | Ninja in Training | 74337 | [74337-ninja-in-training.json](./74337-ninja-in-training.json) |
 | Ninja Instinct | 25765 | [25765-ninja-instinct.json](./25765-ninja-instinct.json) |
