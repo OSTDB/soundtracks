@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 98 | 45515 | [45515-nascar-98.json](./45515-nascar-98.json) |
 | NASCAR 98: Collector's Edition | 203728 | [203728-nascar-98-collectors-edition.json](./203728-nascar-98-collectors-edition.json) |
 | NASCAR Acceleration Pack | 85989 | [85989-nascar-acceleration-pack.json](./85989-nascar-acceleration-pack.json) |
+| NASCAR Arcade | 58426 | [58426-nascar-arcade.json](./58426-nascar-arcade.json) |
 | NASCAR Arcade Rush: Project-X Edition | 263547 | [263547-nascar-arcade-rush-project-x-edition.json](./263547-nascar-arcade-rush-project-x-edition.json) |
 | Nascar Arcade Rush: Project-X Pack | 267081 | [267081-nascar-arcade-rush-project-x-pack.json](./267081-nascar-arcade-rush-project-x-pack.json) |
 | NASCAR Challenge | 49957 | [49957-nascar-challenge.json](./49957-nascar-challenge.json) |
