@@ -6990,6 +6990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaun Palmer's Pro Snowboarder | 248603 | [248603-shaun-palmers-pro-snowboarder.json](./248603-shaun-palmers-pro-snowboarder.json) |
 | Shaun Palmer's Pro Snowboarder | 3995 | [3995-shaun-palmers-pro-snowboarder.json](./3995-shaun-palmers-pro-snowboarder.json) |
 | Shaun the Sheep | 68942 | [68942-shaun-the-sheep.json](./68942-shaun-the-sheep.json) |
+| Shaun the Sheep: Off His Head | 58410 | [58410-shaun-the-sheep-off-his-head.json](./58410-shaun-the-sheep-off-his-head.json) |
 | Shaun the Sheep: Shear Speed | 207861 | [207861-shaun-the-sheep-shear-speed.json](./207861-shaun-the-sheep-shear-speed.json) |
 | Shaun the Sheep: Sheep Stack | 200301 | [200301-shaun-the-sheep-sheep-stack.json](./200301-shaun-the-sheep-sheep-stack.json) |
 | Shaun White Skateboarding | 208712 | [208712-shaun-white-skateboarding.json](./208712-shaun-white-skateboarding.json) |
@@ -10632,6 +10633,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister Lumina and the Hypnosis Cult | 327395 | [327395-sister-lumina-and-the-hypnosis-cult.json](./327395-sister-lumina-and-the-hypnosis-cult.json) |
 | Sister Mermaid | 304945 | [304945-sister-mermaid.json](./304945-sister-mermaid.json) |
 | Sister Other Paranoia | 383129 | [383129-sister-other-paranoia.json](./383129-sister-other-paranoia.json) |
+| Sister Princess | 58446 | [58446-sister-princess.json](./58446-sister-princess.json) |
+| Sister Princess 2 | 58437 | [58437-sister-princess-2.json](./58437-sister-princess-2.json) |
 | Sister Princess: Re Pure | 49815 | [49815-sister-princess-re-pure.json](./49815-sister-princess-re-pure.json) |
 | Sister Ray | 327245 | [327245-sister-ray.json](./327245-sister-ray.json) |
 | Sister Red | 385867 | [385867-sister-red.json](./385867-sister-red.json) |
@@ -17915,7 +17918,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -25304,10 +25306,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategery | 77095 | [77095-strategery.json](./77095-strategery.json) |
 | Strategery 2012 | 64333 | [64333-strategery-2012.json](./64333-strategery-2012.json) |
 | Strategic Bastion | 358231 | [358231-strategic-bastion.json](./358231-strategic-bastion.json) |
+| Strategic Command 2: Blitzkrieg | 58428 | [58428-strategic-command-2-blitzkrieg.json](./58428-strategic-command-2-blitzkrieg.json) |
 | Strategic Command Classic: Global Conflict | 86635 | [86635-strategic-command-classic-global-conflict.json](./86635-strategic-command-classic-global-conflict.json) |
 | Strategic Command Classic: WWI | 77003 | [77003-strategic-command-classic-wwi.json](./77003-strategic-command-classic-wwi.json) |
 | Strategic Command Classic: WWI | 77054 | [77054-strategic-command-classic-wwi.json](./77054-strategic-command-classic-wwi.json) |
 | Strategic Command Classic: WWII | 96683 | [96683-strategic-command-classic-wwii.json](./96683-strategic-command-classic-wwii.json) |
+| Strategic Command World War I: The Great War 1914-1918 | 58425 | [58425-strategic-command-world-war-i-the-great-war-1914-1918.json](./58425-strategic-command-world-war-i-the-great-war-1914-1918.json) |
 | Strategic Command WWII: War in the Pacific | 292538 | [292538-strategic-command-wwii-war-in-the-pacific.json](./292538-strategic-command-wwii-war-in-the-pacific.json) |
 | Strategic Command WWII: World at War | 112747 | [112747-strategic-command-wwii-world-at-war.json](./112747-strategic-command-wwii-world-at-war.json) |
 | Strategic Command: American Civil War | 204783 | [204783-strategic-command-american-civil-war.json](./204783-strategic-command-american-civil-war.json) |
@@ -25316,6 +25320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Command: European Theater | 51892 | [51892-strategic-command-european-theater.json](./51892-strategic-command-european-theater.json) |
 | Strategic Command: World War I | 129592 | [129592-strategic-command-world-war-i.json](./129592-strategic-command-world-war-i.json) |
 | Strategic Command: World War I - Empires in Turmoil | 262929 | [262929-strategic-command-world-war-i-empires-in-turmoil.json](./262929-strategic-command-world-war-i-empires-in-turmoil.json) |
+| Strategic Command: WWII Global Conflict | 58427 | [58427-strategic-command-wwii-global-conflict.json](./58427-strategic-command-wwii-global-conflict.json) |
 | Strategic Conquest | 72934 | [72934-strategic-conquest.json](./72934-strategic-conquest.json) |
 | Strategic Depth | 184868 | [184868-strategic-depth.json](./184868-strategic-depth.json) |
 | Strategic Mind Complete Franchise Bundle | 274431 | [274431-strategic-mind-complete-franchise-bundle.json](./274431-strategic-mind-complete-franchise-bundle.json) |
@@ -25996,6 +26001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Daz Cans | 148325 | [148325-strike-daz-cans.json](./148325-strike-daz-cans.json) |
 | Strike Fighters | 80117 | [80117-strike-fighters.json](./80117-strike-fighters.json) |
 | Strike Fighters 2 | 62632 | [62632-strike-fighters-2.json](./62632-strike-fighters-2.json) |
+| Strike Fighters Israel | 58401 | [58401-strike-fighters-israel.json](./58401-strike-fighters-israel.json) |
 | Strike Fighters: Project 1 | 23766 | [23766-strike-fighters-project-1.json](./23766-strike-fighters-project-1.json) |
 | Strike Force | 273011 | [273011-strike-force.json](./273011-strike-force.json) |
 | Strike Force | 46856 | [46856-strike-force.json](./46856-strike-force.json) |
