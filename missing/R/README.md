@@ -7872,6 +7872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Rash | 249144 | [249144-road-rash.json](./249144-road-rash.json) |
 | Road Rash 2 | 327271 | [327271-road-rash-2.json](./327271-road-rash-2.json) |
 | Road Rash 3 | 198875 | [198875-road-rash-3.json](./198875-road-rash-3.json) |
+| Road Rash 3D | 45012 | [45012-road-rash-3d.json](./45012-road-rash-3d.json) |
 | Road Rash 64 | 3589 | [3589-road-rash-64.json](./3589-road-rash-64.json) |
 | Road Rash III | 199014 | [199014-road-rash-iii.json](./199014-road-rash-iii.json) |
 | Road Rash: Jailbreak | 44897 | [44897-road-rash-jailbreak.json](./44897-road-rash-jailbreak.json) |
@@ -11578,6 +11579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway VR | 54446 | [54446-runaway-vr.json](./54446-runaway-vr.json) |
 | Runaway: A Road Adventure | 278 | [278-runaway-a-road-adventure.json](./278-runaway-a-road-adventure.json) |
 | Runback | 400815 | [400815-runback.json](./400815-runback.json) |
+| Runbow | 11215 | [11215-runbow.json](./11215-runbow.json) |
 | Runbow: Complete Collection | 53561 | [53561-runbow-complete-collection.json](./53561-runbow-complete-collection.json) |
 | Runbow: Deluxe Edition | 51142 | [51142-runbow-deluxe-edition.json](./51142-runbow-deluxe-edition.json) |
 | Rundat | 145355 | [145355-rundat.json](./145355-rundat.json) |
