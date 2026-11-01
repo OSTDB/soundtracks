@@ -2622,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4379,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Valour | 83926 | [83926-knights-of-valour.json](./83926-knights-of-valour.json) |
 | Knights of Valour 3 | 112150 | [112150-knights-of-valour-3.json](./112150-knights-of-valour-3.json) |
 | Knights of Valour Plus | 246086 | [246086-knights-of-valour-plus.json](./246086-knights-of-valour-plus.json) |
+| Knights of Valour Super Heroes | 39289 | [39289-knights-of-valour-super-heroes.json](./39289-knights-of-valour-super-heroes.json) |
 | Knights of Valour: The Seven Spirits | 39439 | [39439-knights-of-valour-the-seven-spirits.json](./39439-knights-of-valour-the-seven-spirits.json) |
 | Knights of Xentar | 2518 | [2518-knights-of-xentar.json](./2518-knights-of-xentar.json) |
 | Knights Rubbish | 112855 | [112855-knights-rubbish.json](./112855-knights-rubbish.json) |
