@@ -7388,6 +7388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Venice: Gold Edition | 53510 | [53510-rise-of-venice-gold-edition.json](./53510-rise-of-venice-gold-edition.json) |
 | Rise of Warlords | 155475 | [155475-rise-of-warlords.json](./155475-rise-of-warlords.json) |
 | Rise of Zombies | 155819 | [155819-rise-of-zombies.json](./155819-rise-of-zombies.json) |
+| Rise Online | 133581 | [133581-rise-online.json](./133581-rise-online.json) |
 | Rise Out | 373027 | [373027-rise-out.json](./373027-rise-out.json) |
 | Rise to Glory | 92469 | [92469-rise-to-glory.json](./92469-rise-to-glory.json) |
 | Rise to Mayhem | 351579 | [351579-rise-to-mayhem.json](./351579-rise-to-mayhem.json) |
