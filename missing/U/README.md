@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubusuna | 61174 | [61174-ubusuna.json](./61174-ubusuna.json) |
 | UBV Volley 2011 | 87225 | [87225-ubv-volley-2011.json](./87225-ubv-volley-2011.json) |
 | UC Love | 238218 | [238218-uc-love.json](./238218-uc-love.json) |
+| Uchi Mata | 28467 | [28467-uchi-mata.json](./28467-uchi-mata.json) |
 | Uchi No Heya! | 403050 | [403050-uchi-no-heya.json](./403050-uchi-no-heya.json) |
 | Uchi no Tama: Wakarimasen ka? | 218269 | [218269-uchi-no-tama-wakarimasen-ka.json](./218269-uchi-no-tama-wakarimasen-ka.json) |
 | Uchi no Tama: Wakarimasen ka? - Kocchi Muite Tama! | 218295 | [218295-uchi-no-tama-wakarimasen-ka-kocchi-muite-tama.json](./218295-uchi-no-tama-wakarimasen-ka-kocchi-muite-tama.json) |
