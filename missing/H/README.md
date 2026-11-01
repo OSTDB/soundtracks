@@ -2592,7 +2592,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted? | 265980 | [265980-haunted.json](./265980-haunted.json) |
 | Haunter | 364611 | [364611-haunter.json](./364611-haunter.json) |
 | Hauntify Mixed Reality | 406176 | [406176-hauntify-mixed-reality.json](./406176-hauntify-mixed-reality.json) |
-| Hauntii | 217008 | [217008-hauntii.json](./217008-hauntii.json) |
 | Haunting At Cliffhouse | 158552 | [158552-haunting-at-cliffhouse.json](./158552-haunting-at-cliffhouse.json) |
 | Haunting Films: Kaiki Film | 206409 | [206409-haunting-films-kaiki-film.json](./206409-haunting-films-kaiki-film.json) |
 | Haunting Hijinx | 340420 | [340420-haunting-hijinx.json](./340420-haunting-hijinx.json) |
@@ -9195,7 +9194,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon 1990 | 399171 | [399171-horizon-1990.json](./399171-horizon-1990.json) |
 | Horizon Beyond | 121592 | [121592-horizon-beyond.json](./121592-horizon-beyond.json) |
 | Horizon Chase | 10734 | [10734-horizon-chase.json](./10734-horizon-chase.json) |
-| Horizon Chase 2 | 215062 | [215062-horizon-chase-2.json](./215062-horizon-chase-2.json) |
 | Horizon Chase Turbo: Rookie Series | 170428 | [170428-horizon-chase-turbo-rookie-series.json](./170428-horizon-chase-turbo-rookie-series.json) |
 | Horizon Chase Turbo: Senna Forever | 176882 | [176882-horizon-chase-turbo-senna-forever.json](./176882-horizon-chase-turbo-senna-forever.json) |
 | Horizon Chase Turbo: Summer Vibes | 170427 | [170427-horizon-chase-turbo-summer-vibes.json](./170427-horizon-chase-turbo-summer-vibes.json) |
