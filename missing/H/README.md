@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halls of Death | 229363 | [229363-halls-of-death.json](./229363-halls-of-death.json) |
 | Halls of Greed | 302422 | [302422-halls-of-greed.json](./302422-halls-of-greed.json) |
 | Halls of Horror | 175191 | [175191-halls-of-horror.json](./175191-halls-of-horror.json) |
+| Halls of Kairos | 15215 | [15215-halls-of-kairos.json](./15215-halls-of-kairos.json) |
 | Halls of Montezuma: A Battle History of the United States Marine Corps | 12432 | [12432-halls-of-montezuma-a-battle-history-of-the-united-states-marine-corps.json](./12432-halls-of-montezuma-a-battle-history-of-the-united-states-marine-corps.json) |
 | Halls of Nyarlathotep | 373660 | [373660-halls-of-nyarlathotep.json](./373660-halls-of-nyarlathotep.json) |
 | Halls of the Shambler God | 271313 | [271313-halls-of-the-shambler-god.json](./271313-halls-of-the-shambler-god.json) |
@@ -1881,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harlem Globetrotters | 245468 | [245468-harlem-globetrotters.json](./245468-harlem-globetrotters.json) |
 | Harlem Globetrotters World Tour | 6430 | [6430-harlem-globetrotters-world-tour.json](./6430-harlem-globetrotters-world-tour.json) |
 | HarleQuest! | 246111 | [246111-harlequest.json](./246111-harlequest.json) |
+| Harlequin | 14897 | [14897-harlequin.json](./14897-harlequin.json) |
 | Harlequin Fair: Harbour Dawn | 275501 | [275501-harlequin-fair-harbour-dawn.json](./275501-harlequin-fair-harbour-dawn.json) |
 | Harlequin's Nightmare | 108817 | [108817-harlequins-nightmare.json](./108817-harlequins-nightmare.json) |
 | Harlequinade | 406863 | [406863-harlequinade.json](./406863-harlequinade.json) |
@@ -1948,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harp | 72346 | [72346-harp.json](./72346-harp.json) |
 | Harp & Chrysanthemum | 356213 | [356213-harp-and-chrysanthemum.json](./356213-harp-and-chrysanthemum.json) |
 | Harpman: Fight Against Evil | 114658 | [114658-harpman-fight-against-evil.json](./114658-harpman-fight-against-evil.json) |
+| Harpoon | 14874 | [14874-harpoon.json](./14874-harpoon.json) |
 | Harpoon & Battleset 2 | 92827 | [92827-harpoon-and-battleset-2.json](./92827-harpoon-and-battleset-2.json) |
 | Harpoon Cat | 104835 | [104835-harpoon-cat.json](./104835-harpoon-cat.json) |
 | Harpoon Classic | 92996 | [92996-harpoon-classic.json](./92996-harpoon-classic.json) |
@@ -4232,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello! Taxi | 307790 | [307790-hello-taxi.json](./307790-hello-taxi.json) |
 | Hello? Hell... o? | 108140 | [108140-hello-hell-o.json](./108140-hello-hell-o.json) |
 | Hellokids: Vol. 1 - Coloring and Painting | 84524 | [84524-hellokids-vol-1-coloring-and-painting.json](./84524-hellokids-vol-1-coloring-and-painting.json) |
+| Hellowoon: Das Geheimnis des Zauberstabs | 14898 | [14898-hellowoon-das-geheimnis-des-zauberstabs.json](./14898-hellowoon-das-geheimnis-des-zauberstabs.json) |
 | HelloWorld: Escape | 369582 | [369582-helloworld-escape.json](./369582-helloworld-escape.json) |
 | HelloWorldFactory | 276841 | [276841-helloworldfactory.json](./276841-helloworldfactory.json) |
 | Hellpit | 228448 | [228448-hellpit.json](./228448-hellpit.json) |
@@ -4245,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellpunk | 129671 | [129671-hellpunk.json](./129671-hellpunk.json) |
 | HellPunk: Purgatorium | 349925 | [349925-hellpunk-purgatorium.json](./349925-hellpunk-purgatorium.json) |
 | Hellraid | 3250 | [3250-hellraid.json](./3250-hellraid.json) |
+| Hellraider | 14899 | [14899-hellraider.json](./14899-hellraider.json) |
 | HellRazor64 | 226352 | [226352-hellrazor64.json](./226352-hellrazor64.json) |
 | Hellreaper | 371214 | [371214-hellreaper.json](./371214-hellreaper.json) |
 | Hellrider | 143083 | [143083-hellrider.json](./143083-hellrider.json) |
@@ -9684,6 +9689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Rod Racer | 85180 | [85180-hot-rod-racer.json](./85180-hot-rod-racer.json) |
 | Hot Rod: Garage to Glory | 73365 | [73365-hot-rod-garage-to-glory.json](./73365-hot-rod-garage-to-glory.json) |
 | Hot Routes: VR Football | 122843 | [122843-hot-routes-vr-football.json](./122843-hot-routes-vr-football.json) |
+| Hot Rubber | 15230 | [15230-hot-rubber.json](./15230-hot-rubber.json) |
 | Hot Runback: VR Runner | 68656 | [68656-hot-runback-vr-runner.json](./68656-hot-runback-vr-runner.json) |
 | Hot Sauna | 368110 | [368110-hot-sauna.json](./368110-hot-sauna.json) |
 | Hot Sento Girls and love | 208869 | [208869-hot-sento-girls-and-love.json](./208869-hot-sento-girls-and-love.json) |
