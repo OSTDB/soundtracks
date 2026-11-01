@@ -17373,6 +17373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: The Complete First Season | 41623 | [41623-the-walking-dead-the-complete-first-season.json](./41623-the-walking-dead-the-complete-first-season.json) |
 | The Walking Dead: The Final Season - Episode 1: Done Running | 107114 | [107114-the-walking-dead-the-final-season-episode-1-done-running.json](./107114-the-walking-dead-the-final-season-episode-1-done-running.json) |
 | The Walking Dead: The Final Season - Episode 2: Suffer the Children | 110328 | [110328-the-walking-dead-the-final-season-episode-2-suffer-the-children.json](./110328-the-walking-dead-the-final-season-episode-2-suffer-the-children.json) |
+| The Walking Dead: The Final Season - Episode 3: Broken Toys | 113295 | [113295-the-walking-dead-the-final-season-episode-3-broken-toys.json](./113295-the-walking-dead-the-final-season-episode-3-broken-toys.json) |
 | The Walking Dead: The Telltale Definitive Series | 117514 | [117514-the-walking-dead-the-telltale-definitive-series.json](./117514-the-walking-dead-the-telltale-definitive-series.json) |
 | The Walking Dead: The Telltale Definitive Series - Guardian Pack | 117678 | [117678-the-walking-dead-the-telltale-definitive-series-guardian-pack.json](./117678-the-walking-dead-the-telltale-definitive-series-guardian-pack.json) |
 | The Walking Dead: The Telltale Definitive Series - Protector Pack | 117677 | [117677-the-walking-dead-the-telltale-definitive-series-protector-pack.json](./117677-the-walking-dead-the-telltale-definitive-series-protector-pack.json) |
@@ -25340,6 +25341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towerdefense Blobsmash | 344730 | [344730-towerdefense-blobsmash.json](./344730-towerdefense-blobsmash.json) |
 | Towered | 423897 | [423897-towered.json](./423897-towered.json) |
 | TowerFall | 109280 | [109280-towerfall.json](./109280-towerfall.json) |
+| TowerFall | 109281 | [109281-towerfall.json](./109281-towerfall.json) |
 | Towerfall 8-Player | 133331 | [133331-towerfall-8-player.json](./133331-towerfall-8-player.json) |
 | TowerFall Ascension | 9567 | [9567-towerfall-ascension.json](./9567-towerfall-ascension.json) |
 | TowerFall with Friends | 201686 | [201686-towerfall-with-friends.json](./201686-towerfall-with-friends.json) |
