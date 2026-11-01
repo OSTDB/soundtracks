@@ -3424,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 2 Millennium | 39623 | [39623-dead-or-alive-2-millennium.json](./39623-dead-or-alive-2-millennium.json) |
 | Dead or Alive 2 Ultimate | 47302 | [47302-dead-or-alive-2-ultimate.json](./47302-dead-or-alive-2-ultimate.json) |
 | Dead or Alive 2: Hardcore | 77986 | [77986-dead-or-alive-2-hardcore.json](./77986-dead-or-alive-2-hardcore.json) |
+| Dead or Alive 2: Limited Edition | 46362 | [46362-dead-or-alive-2-limited-edition.json](./46362-dead-or-alive-2-limited-edition.json) |
 | Dead or Alive 3 | 1389 | [1389-dead-or-alive-3.json](./1389-dead-or-alive-3.json) |
 | Dead or Alive 3++ | 182485 | [182485-dead-or-alive-3.json](./182485-dead-or-alive-3.json) |
 | Dead or Alive 5 Last Round | 8211 | [8211-dead-or-alive-5-last-round.json](./8211-dead-or-alive-5-last-round.json) |
@@ -12359,6 +12360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Story of Seasons: Friends of the Great Kingdom - Together with Animals | 241321 | [241321-doraemon-story-of-seasons-friends-of-the-great-kingdom-together-with-animals.json](./241321-doraemon-story-of-seasons-friends-of-the-great-kingdom-together-with-animals.json) |
 | Doraemon Tanoshii Enseikatsu Youchien Hoikuen | 313284 | [313284-doraemon-tanoshii-enseikatsu-youchien-hoikuen.json](./313284-doraemon-tanoshii-enseikatsu-youchien-hoikuen.json) |
 | Doraemon Tanoshiku o-Keiko Hiragana Katakana | 327574 | [327574-doraemon-tanoshiku-o-keiko-hiragana-katakana.json](./327574-doraemon-tanoshiku-o-keiko-hiragana-katakana.json) |
+| Doraemon Waku-waku Pocket Paradise | 46320 | [46320-doraemon-waku-waku-pocket-paradise.json](./46320-doraemon-waku-waku-pocket-paradise.json) |
 | Doraemon Waku-waku Sekai Isshuu Game: Asonde Oboeru Chizu Kokki | 327575 | [327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json](./327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json) |
 | Doraemon Wii: Himitsu Douguou Ketteisen! | 91773 | [91773-doraemon-wii-himitsu-douguou-ketteisen.json](./91773-doraemon-wii-himitsu-douguou-ketteisen.json) |
 | Doraemon: Aruke Aruke Labyrinth | 91777 | [91777-doraemon-aruke-aruke-labyrinth.json](./91777-doraemon-aruke-aruke-labyrinth.json) |
@@ -12389,6 +12391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Nobita's Resident Evil | 144660 | [144660-doraemon-nobitas-resident-evil.json](./144660-doraemon-nobitas-resident-evil.json) |
 | Doraemon: Nobita's Resident Evil 2 | 238417 | [238417-doraemon-nobitas-resident-evil-2.json](./238417-doraemon-nobitas-resident-evil-2.json) |
 | Doraemon: Nobita's Space War 2021 | 222056 | [222056-doraemon-nobitas-space-war-2021.json](./222056-doraemon-nobitas-space-war-2021.json) |
+| Doraemon: Nora no Suke no Yabou | 46316 | [46316-doraemon-nora-no-suke-no-yabou.json](./46316-doraemon-nora-no-suke-no-yabou.json) |
 | Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai | 60545 | [60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json](./60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json) |
 | Doraemon: Yume Dorobou to 7-nin no Gozans | 45730 | [45730-doraemon-yume-dorobou-to-7-nin-no-gozans.json](./45730-doraemon-yume-dorobou-to-7-nin-no-gozans.json) |
 | Doraemontchi | 229868 | [229868-doraemontchi.json](./229868-doraemontchi.json) |
@@ -17226,6 +17229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk Hit | 87360 | [87360-dunk-hit.json](./87360-dunk-hit.json) |
 | Dunk Hot | 91144 | [91144-dunk-hot.json](./91144-dunk-hot.json) |
 | Dunk It (VR Basketball) | 29710 | [29710-dunk-it-vr-basketball.json](./29710-dunk-it-vr-basketball.json) |
+| Dunk Kids | 46319 | [46319-dunk-kids.json](./46319-dunk-kids.json) |
 | Dunk Line | 87883 | [87883-dunk-line.json](./87883-dunk-line.json) |
 | Dunk Lords | 69481 | [69481-dunk-lords.json](./69481-dunk-lords.json) |
 | Dunk Mania | 39824 | [39824-dunk-mania.json](./39824-dunk-mania.json) |
