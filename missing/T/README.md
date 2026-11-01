@@ -1320,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Valoris: Swallow's Defenders | 330265 | [330265-tales-of-valoris-swallows-defenders.json](./330265-tales-of-valoris-swallows-defenders.json) |
 | Tales of Vengeance | 362926 | [362926-tales-of-vengeance.json](./362926-tales-of-vengeance.json) |
 | Tales of Vesperia | 221059 | [221059-tales-of-vesperia.json](./221059-tales-of-vesperia.json) |
+| Tales of Vesperia: Definitive Edition | 103286 | [103286-tales-of-vesperia-definitive-edition.json](./103286-tales-of-vesperia-definitive-edition.json) |
 | Tales of Vesperia: Remaster - 10th Anniversary Edition | 136664 | [136664-tales-of-vesperia-remaster-10th-anniversary-edition.json](./136664-tales-of-vesperia-remaster-10th-anniversary-edition.json) |
 | Tales of Violet Valley | 379437 | [379437-tales-of-violet-valley.json](./379437-tales-of-violet-valley.json) |
 | Tales of Vogar: Lost Descendants | 236366 | [236366-tales-of-vogar-lost-descendants.json](./236366-tales-of-vogar-lost-descendants.json) |
@@ -4422,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesla's Puzzles of Lights | 252008 | [252008-teslas-puzzles-of-lights.json](./252008-teslas-puzzles-of-lights.json) |
 | Tesla's Tower: The Wardenclyffe Mystery | 31954 | [31954-teslas-tower-the-wardenclyffe-mystery.json](./31954-teslas-tower-the-wardenclyffe-mystery.json) |
 | Tesla8 | 95985 | [95985-tesla8.json](./95985-tesla8.json) |
+| Teslagrad | 7641 | [7641-teslagrad.json](./7641-teslagrad.json) |
 | Teslagrad Power Pack Edition | 246451 | [246451-teslagrad-power-pack-edition.json](./246451-teslagrad-power-pack-edition.json) |
 | Teslagrad Remastered | 246407 | [246407-teslagrad-remastered.json](./246407-teslagrad-remastered.json) |
 | Teslapunk | 20961 | [20961-teslapunk.json](./20961-teslapunk.json) |
@@ -6271,6 +6273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Regrets | 99488 | [99488-the-book-of-regrets.json](./99488-the-book-of-regrets.json) |
 | The Book of the Dead | 273287 | [273287-the-book-of-the-dead.json](./273287-the-book-of-the-dead.json) |
 | The Book of Three | 79561 | [79561-the-book-of-three.json](./79561-the-book-of-three.json) |
+| The Book of Unwritten Tales | 5408 | [5408-the-book-of-unwritten-tales.json](./5408-the-book-of-unwritten-tales.json) |
 | The Book of Unwritten Tales 2: Almanac Edition | 51703 | [51703-the-book-of-unwritten-tales-2-almanac-edition.json](./51703-the-book-of-unwritten-tales-2-almanac-edition.json) |
 | The Book of Unwritten Tales Collection | 53712 | [53712-the-book-of-unwritten-tales-collection.json](./53712-the-book-of-unwritten-tales-collection.json) |
 | The Book of Unwritten Tales: The Critter Chronicles | 7661 | [7661-the-book-of-unwritten-tales-the-critter-chronicles.json](./7661-the-book-of-unwritten-tales-the-critter-chronicles.json) |
@@ -10783,6 +10786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters '94 | 15426 | [15426-the-king-of-fighters-94.json](./15426-the-king-of-fighters-94.json) |
 | The King of Fighters '95 | 15427 | [15427-the-king-of-fighters-95.json](./15427-the-king-of-fighters-95.json) |
 | The King of Fighters '95 | 191473 | [191473-the-king-of-fighters-95.json](./191473-the-king-of-fighters-95.json) |
+| The King of Fighters '96 | 12588 | [12588-the-king-of-fighters-96.json](./12588-the-king-of-fighters-96.json) |
 | The King of Fighters '96 Collection | 75462 | [75462-the-king-of-fighters-96-collection.json](./75462-the-king-of-fighters-96-collection.json) |
 | The King of Fighters '97 | 15428 | [15428-the-king-of-fighters-97.json](./15428-the-king-of-fighters-97.json) |
 | The King of Fighters '97 OL | 80566 | [80566-the-king-of-fighters-97-ol.json](./80566-the-king-of-fighters-97-ol.json) |
@@ -10813,6 +10817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters Wing | 337142 | [337142-the-king-of-fighters-wing.json](./337142-the-king-of-fighters-wing.json) |
 | The King of Fighters XI | 348044 | [348044-the-king-of-fighters-xi.json](./348044-the-king-of-fighters-xi.json) |
 | The King of Fighters XII | 7036 | [7036-the-king-of-fighters-xii.json](./7036-the-king-of-fighters-xii.json) |
+| The King of Fighters XIII | 7038 | [7038-the-king-of-fighters-xiii.json](./7038-the-king-of-fighters-xiii.json) |
 | The King of Fighters XIII Climax | 348461 | [348461-the-king-of-fighters-xiii-climax.json](./348461-the-king-of-fighters-xiii-climax.json) |
 | The King of Fighters XIII Steam Edition | 22679 | [22679-the-king-of-fighters-xiii-steam-edition.json](./22679-the-king-of-fighters-xiii-steam-edition.json) |
 | The King of Fighters XIII: Galaxy Edition | 126461 | [126461-the-king-of-fighters-xiii-galaxy-edition.json](./126461-the-king-of-fighters-xiii-galaxy-edition.json) |
@@ -21482,6 +21487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeShifters | 152456 | [152456-timeshifters.json](./152456-timeshifters.json) |
 | TimeShifters: Expansion Pack 1 | 259681 | [259681-timeshifters-expansion-pack-1.json](./259681-timeshifters-expansion-pack-1.json) |
 | Timeslip | 77974 | [77974-timeslip.json](./77974-timeslip.json) |
+| Timespinner | 28952 | [28952-timespinner.json](./28952-timespinner.json) |
 | Timespinner 2: Unwoven Dream | 268677 | [268677-timespinner-2-unwoven-dream.json](./268677-timespinner-2-unwoven-dream.json) |
 | TimeSplitters | 317415 | [317415-timesplitters.json](./317415-timesplitters.json) |
 | TimeSplitters 2 | 2143 | [2143-timesplitters-2.json](./2143-timesplitters-2.json) |
