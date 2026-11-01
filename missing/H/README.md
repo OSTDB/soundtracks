@@ -5179,6 +5179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Pound of Flesh | 139386 | [139386-her-pound-of-flesh.json](./139386-her-pound-of-flesh.json) |
 | Her Shoes | 301822 | [301822-her-shoes.json](./301822-her-shoes.json) |
 | Her Sign | 183390 | [183390-her-sign.json](./183390-her-sign.json) |
+| Her Tears Were My Light | 109163 | [109163-her-tears-were-my-light.json](./109163-her-tears-were-my-light.json) |
 | Her Time of the Month! | 364226 | [364226-her-time-of-the-month.json](./364226-her-time-of-the-month.json) |
 | Her Trees: First Puzzle | 222793 | [222793-her-trees-first-puzzle.json](./222793-her-trees-first-puzzle.json) |
 | Her Trees: The Puzzle House | 285920 | [285920-her-trees-the-puzzle-house.json](./285920-her-trees-the-puzzle-house.json) |
@@ -11266,6 +11267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurt | 144157 | [144157-hurt.json](./144157-hurt.json) |
 | Hurt Me Plenty | 20248 | [20248-hurt-me-plenty.json](./20248-hurt-me-plenty.json) |
 | Hurtful Tower | 178223 | [178223-hurtful-tower.json](./178223-hurtful-tower.json) |
+| Hurtworld | 15443 | [15443-hurtworld.json](./15443-hurtworld.json) |
 | Huru Beach Party | 24769 | [24769-huru-beach-party.json](./24769-huru-beach-party.json) |
 | Husbandry | 138403 | [138403-husbandry.json](./138403-husbandry.json) |
 | Hush | 34988 | [34988-hush.json](./34988-hush.json) |
