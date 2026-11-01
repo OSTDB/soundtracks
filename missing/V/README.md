@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vedmaak | 311128 | [311128-vedmaak.json](./311128-vedmaak.json) |
 | Vee is Calling | 76549 | [76549-vee-is-calling.json](./76549-vee-is-calling.json) |
 | Vee Rethak: Deep Under the Mountain | 29652 | [29652-vee-rethak-deep-under-the-mountain.json](./29652-vee-rethak-deep-under-the-mountain.json) |
+| Veecaloid Pop | 60194 | [60194-veecaloid-pop.json](./60194-veecaloid-pop.json) |
 | Veer | 34384 | [34384-veer.json](./34384-veer.json) |
 | Veg Out Crew | 158357 | [158357-veg-out-crew.json](./158357-veg-out-crew.json) |
 | Vega | 235272 | [235272-vega.json](./235272-vega.json) |
@@ -1750,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory Belles: Battleship Girls of WWII | 109993 | [109993-victory-belles-battleship-girls-of-wwii.json](./109993-victory-belles-battleship-girls-of-wwii.json) |
 | Victory Boxing Champion Edition | 43728 | [43728-victory-boxing-champion-edition.json](./43728-victory-boxing-champion-edition.json) |
 | Victory Bubbles | 106662 | [106662-victory-bubbles.json](./106662-victory-bubbles.json) |
+| Victory Command: Battle Arena | 60262 | [60262-victory-command-battle-arena.json](./60262-victory-command-battle-arena.json) |
 | Victory Day | 226742 | [226742-victory-day.json](./226742-victory-day.json) |
 | Victory Garden | 397194 | [397194-victory-garden.json](./397194-victory-garden.json) |
 | Victory Heat Rally | 142489 | [142489-victory-heat-rally.json](./142489-victory-heat-rally.json) |
@@ -3261,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volunteers | 278953 | [278953-volunteers.json](./278953-volunteers.json) |
 | Volvalis | 200702 | [200702-volvalis.json](./200702-volvalis.json) |
 | Volvo V70 Racing | 394587 | [394587-volvo-v70-racing.json](./394587-volvo-v70-racing.json) |
+| Volvo: Drive for Life | 60274 | [60274-volvo-drive-for-life.json](./60274-volvo-drive-for-life.json) |
 | Volvo: The Game | 84449 | [84449-volvo-the-game.json](./84449-volvo-the-game.json) |
 | Volvox | 18551 | [18551-volvox.json](./18551-volvox.json) |
 | Volvy’s Adventure: Reslimed | 323369 | [323369-volvy-s-adventure-reslimed.json](./323369-volvy-s-adventure-reslimed.json) |
