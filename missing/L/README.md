@@ -2433,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend Of Peks: Halloween Horror | 272753 | [272753-legend-of-peks-halloween-horror.json](./272753-legend-of-peks-halloween-horror.json) |
 | Legend of Penguin | 290996 | [290996-legend-of-penguin.json](./290996-legend-of-penguin.json) |
 | Legend of Pirates:Sailing Log | 89506 | [89506-legend-of-pirates-sailing-log.json](./89506-legend-of-pirates-sailing-log.json) |
+| Legend of Pocahontas | 56803 | [56803-legend-of-pocahontas.json](./56803-legend-of-pocahontas.json) |
 | Legend of Pong Lonng Fighter Sunny'na | 267930 | [267930-legend-of-pong-lonng-fighter-sunnyna.json](./267930-legend-of-pong-lonng-fighter-sunnyna.json) |
 | Legend of Power Z | 106597 | [106597-legend-of-power-z.json](./106597-legend-of-power-z.json) |
 | Legend of Puzzleverse | 238292 | [238292-legend-of-puzzleverse.json](./238292-legend-of-puzzleverse.json) |
@@ -5120,6 +5121,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linzy has a Messy Room | 101099 | [101099-linzy-has-a-messy-room.json](./101099-linzy-has-a-messy-room.json) |
 | Lioden | 178067 | [178067-lioden.json](./178067-lioden.json) |
 | Lion | 9565 | [9565-lion.json](./9565-lion.json) |
+| Lion and the King | 56804 | [56804-lion-and-the-king.json](./56804-lion-and-the-king.json) |
+| Lion and the King 2 | 56805 | [56805-lion-and-the-king-2.json](./56805-lion-and-the-king-2.json) |
 | Lion Bubble Tosser: The Queen of the Safari | 259078 | [259078-lion-bubble-tosser-the-queen-of-the-safari.json](./259078-lion-bubble-tosser-the-queen-of-the-safari.json) |
 | Lion Heart Soushuu-hen | 207202 | [207202-lion-heart-soushuu-hen.json](./207202-lion-heart-soushuu-hen.json) |
 | Lion King 3 | 247408 | [247408-lion-king-3.json](./247408-lion-king-3.json) |
@@ -9348,6 +9351,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyre | 182275 | [182275-lyre.json](./182275-lyre.json) |
 | Lyre | 377592 | [377592-lyre.json](./377592-lyre.json) |
 | Lyrestruck | 316353 | [316353-lyrestruck.json](./316353-lyrestruck.json) |
+| Lyric Legend | 56815 | [56815-lyric-legend.json](./56815-lyric-legend.json) |
+| Lyric Legend 2 | 56814 | [56814-lyric-legend-2.json](./56814-lyric-legend-2.json) |
 | Lyric Sonata | 107248 | [107248-lyric-sonata.json](./107248-lyric-sonata.json) |
 | Lyrica | 82602 | [82602-lyrica.json](./82602-lyrica.json) |
 | Lyrica & Lyrica 2 Stars Align | 152914 | [152914-lyrica-and-lyrica-2-stars-align.json](./152914-lyrica-and-lyrica-2-stars-align.json) |
