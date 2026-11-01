@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Flux: Hyperfractal | 85361 | [85361-radiant-flux-hyperfractal.json](./85361-radiant-flux-hyperfractal.json) |
 | Radiant Flux: Hyperfractal 4.0 | 233009 | [233009-radiant-flux-hyperfractal-4-0.json](./233009-radiant-flux-hyperfractal-4-0.json) |
 | Radiant HD | 90793 | [90793-radiant-hd.json](./90793-radiant-hd.json) |
+| Radiant Historia: Perfect Chronology | 27958 | [27958-radiant-historia-perfect-chronology.json](./27958-radiant-historia-perfect-chronology.json) |
 | Radiant Melodia | 86582 | [86582-radiant-melodia.json](./86582-radiant-melodia.json) |
 | Radiant One | 105001 | [105001-radiant-one.json](./105001-radiant-one.json) |
 | Radiant Princess: Poni Ceres | 331115 | [331115-radiant-princess-poni-ceres.json](./331115-radiant-princess-poni-ceres.json) |
@@ -843,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raging Fighter | 48921 | [48921-raging-fighter.json](./48921-raging-fighter.json) |
 | Raging Fists: Retribution | 166723 | [166723-raging-fists-retribution.json](./166723-raging-fists-retribution.json) |
 | Raging Justice | 85769 | [85769-raging-justice.json](./85769-raging-justice.json) |
+| Raging Loop | 26700 | [26700-raging-loop.json](./26700-raging-loop.json) |
 | Raging Skies | 403149 | [403149-raging-skies.json](./403149-raging-skies.json) |
 | Raging Thunder II | 66448 | [66448-raging-thunder-ii.json](./66448-raging-thunder-ii.json) |
 | RagingFist | 181012 | [181012-ragingfist.json](./181012-ragingfist.json) |
@@ -2055,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rattlesnake | 185319 | [185319-rattlesnake.json](./185319-rattlesnake.json) |
 | Rattus | 130115 | [130115-rattus.json](./130115-rattus.json) |
 | Rattus Velocitas | 351195 | [351195-rattus-velocitas.json](./351195-rattus-velocitas.json) |
+| Ratty Catty | 51945 | [51945-ratty-catty.json](./51945-ratty-catty.json) |
 | Rattyivty Lab | 234559 | [234559-rattyivty-lab.json](./234559-rattyivty-lab.json) |
 | Rattyvity Lab | 194753 | [194753-rattyvity-lab.json](./194753-rattyvity-lab.json) |
 | Ratyboy Adventures | 242657 | [242657-ratyboy-adventures.json](./242657-ratyboy-adventures.json) |
@@ -4321,6 +4324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reigns: Beyond | 139875 | [139875-reigns-beyond.json](./139875-reigns-beyond.json) |
 | Reigns: Complete Set | 300835 | [300835-reigns-complete-set.json](./300835-reigns-complete-set.json) |
 | Reigns: Game of Thrones | 107237 | [107237-reigns-game-of-thrones.json](./107237-reigns-game-of-thrones.json) |
+| Reigns: Her Majesty | 55106 | [55106-reigns-her-majesty.json](./55106-reigns-her-majesty.json) |
 | Reigns: Kings & Queens | 94983 | [94983-reigns-kings-and-queens.json](./94983-reigns-kings-and-queens.json) |
 | Reigns: The Council | 122844 | [122844-reigns-the-council.json](./122844-reigns-the-council.json) |
 | Reigns: Three Kingdoms | 204453 | [204453-reigns-three-kingdoms.json](./204453-reigns-three-kingdoms.json) |
@@ -9037,6 +9041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RockSlide | 212798 | [212798-rockslide.json](./212798-rockslide.json) |
 | Rocksmith | 2697 | [2697-rocksmith.json](./2697-rocksmith.json) |
 | Rocksmith 2014 | 3088 | [3088-rocksmith-2014.json](./3088-rocksmith-2014.json) |
+| Rocksmith 2014 Edition: Remastered | 30155 | [30155-rocksmith-2014-edition-remastered.json](./30155-rocksmith-2014-edition-remastered.json) |
 | Rocksmith 2014 Edition: Remastered - 3 Doors Down: Song Pack II | 225021 | [225021-rocksmith-2014-edition-remastered-3-doors-down-song-pack-ii.json](./225021-rocksmith-2014-edition-remastered-3-doors-down-song-pack-ii.json) |
 | Rocksmith 2014 Edition: Remastered - Alice in Chains: Song Pack II | 225016 | [225016-rocksmith-2014-edition-remastered-alice-in-chains-song-pack-ii.json](./225016-rocksmith-2014-edition-remastered-alice-in-chains-song-pack-ii.json) |
 | Rocksmith 2014 Edition: Remastered - Amon Amarth: Song Pack | 225012 | [225012-rocksmith-2014-edition-remastered-amon-amarth-song-pack.json](./225012-rocksmith-2014-edition-remastered-amon-amarth-song-pack.json) |
