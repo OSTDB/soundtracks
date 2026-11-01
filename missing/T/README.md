@@ -27830,6 +27830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Buster | 230217 | [230217-treasure-buster.json](./230217-treasure-buster.json) |
 | Treasure Cave | 176399 | [176399-treasure-cave.json](./176399-treasure-cave.json) |
 | Treasure Chamber! Idle Mining Adventure | 101870 | [101870-treasure-chamber-idle-mining-adventure.json](./101870-treasure-chamber-idle-mining-adventure.json) |
+| Treasure Chase | 47713 | [47713-treasure-chase.json](./47713-treasure-chase.json) |
 | Treasure Chest Clicker | 250852 | [250852-treasure-chest-clicker.json](./250852-treasure-chest-clicker.json) |
 | Treasure Chest Corps: Fight Demons to Restore the Barrier | 118392 | [118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json](./118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json) |
 | Treasure Clicker | 398041 | [398041-treasure-clicker.json](./398041-treasure-clicker.json) |
