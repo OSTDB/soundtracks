@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Grave | 310089 | [310089-call-of-the-grave.json](./310089-call-of-the-grave.json) |
 | Call of the Mighty Warriors | 32483 | [32483-call-of-the-mighty-warriors.json](./32483-call-of-the-mighty-warriors.json) |
 | Call of the Ninja! | 35730 | [35730-call-of-the-ninja.json](./35730-call-of-the-ninja.json) |
+| Call of the Sea | 133306 | [133306-call-of-the-sea.json](./133306-call-of-the-sea.json) |
 | Call of the Sea VR | 248245 | [248245-call-of-the-sea-vr.json](./248245-call-of-the-sea-vr.json) |
 | Call of the Sea: Deluxe Edition | 154508 | [154508-call-of-the-sea-deluxe-edition.json](./154508-call-of-the-sea-deluxe-edition.json) |
 | Call of the Sea: Journey Edition | 185978 | [185978-call-of-the-sea-journey-edition.json](./185978-call-of-the-sea-journey-edition.json) |
@@ -1779,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Toad Treasure Tracker | 162427 | [162427-captain-toad-treasure-tracker.json](./162427-captain-toad-treasure-tracker.json) |
 | Captain Toad Treasure Tracker for SNES II | 162624 | [162624-captain-toad-treasure-tracker-for-snes-ii.json](./162624-captain-toad-treasure-tracker-for-snes-ii.json) |
 | Captain Toad: Prism Star Quest | 358338 | [358338-captain-toad-prism-star-quest.json](./358338-captain-toad-prism-star-quest.json) |
+| Captain Toad: Treasure Tracker | 7337 | [7337-captain-toad-treasure-tracker.json](./7337-captain-toad-treasure-tracker.json) |
 | Captain Toad: Treasure Tracker - Special Edition | 51139 | [51139-captain-toad-treasure-tracker-special-edition.json](./51139-captain-toad-treasure-tracker-special-edition.json) |
 | Captain Toad: Treasure Tracker - Special Episode | 132225 | [132225-captain-toad-treasure-tracker-special-episode.json](./132225-captain-toad-treasure-tracker-special-episode.json) |
 | Captain Toad: Treasure Tracker + Special Episode | 136381 | [136381-captain-toad-treasure-tracker-special-episode.json](./136381-captain-toad-treasure-tracker-special-episode.json) |
@@ -7760,6 +7762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Clues | 411086 | [411086-chrono-clues.json](./411086-chrono-clues.json) |
 | Chrono Commando 2053 | 272340 | [272340-chrono-commando-2053.json](./272340-chrono-commando-2053.json) |
 | Chrono Crimes | 316491 | [316491-chrono-crimes.json](./316491-chrono-crimes.json) |
+| Chrono Cross | 1804 | [1804-chrono-cross.json](./1804-chrono-cross.json) |
 | Chrono Cross | 335488 | [335488-chrono-cross.json](./335488-chrono-cross.json) |
 | Chrono Crystal | 247916 | [247916-chrono-crystal.json](./247916-chrono-crystal.json) |
 | Chrono Crystal: Factory DLC | 253497 | [253497-chrono-crystal-factory-dlc.json](./253497-chrono-crystal-factory-dlc.json) |
@@ -11835,6 +11838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: Red Alert - Retaliation | 18785 | [18785-command-and-conquer-red-alert-retaliation.json](./18785-command-and-conquer-red-alert-retaliation.json) |
 | Command & Conquer: Red Alert - The Aftermath | 652 | [652-command-and-conquer-red-alert-the-aftermath.json](./652-command-and-conquer-red-alert-the-aftermath.json) |
 | Command & Conquer: Red Alert 2 - Mental Omega | 180284 | [180284-command-and-conquer-red-alert-2-mental-omega.json](./180284-command-and-conquer-red-alert-2-mental-omega.json) |
+| Command & Conquer: Red Alert 2 - Yuri's Revenge | 648 | [648-command-and-conquer-red-alert-2-yuris-revenge.json](./648-command-and-conquer-red-alert-2-yuris-revenge.json) |
 | Command & Conquer: Red Alert 3 - Commander's Challenge | 833 | [833-command-and-conquer-red-alert-3-commanders-challenge.json](./833-command-and-conquer-red-alert-3-commanders-challenge.json) |
 | Command & Conquer: Red Alert 3 - Decimation Map Pack | 403957 | [403957-command-and-conquer-red-alert-3-decimation-map-pack.json](./403957-command-and-conquer-red-alert-3-decimation-map-pack.json) |
 | Command & Conquer: Red Alert 3 - Premier Edition | 210703 | [210703-command-and-conquer-red-alert-3-premier-edition.json](./210703-command-and-conquer-red-alert-3-premier-edition.json) |
@@ -12033,6 +12037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company is Watching | 401498 | [401498-company-is-watching.json](./401498-company-is-watching.json) |
 | Company Loyalty | 179986 | [179986-company-loyalty.json](./179986-company-loyalty.json) |
 | Company of Heroes | 654 | [654-company-of-heroes.json](./654-company-of-heroes.json) |
+| Company of Heroes 2 | 1369 | [1369-company-of-heroes-2.json](./1369-company-of-heroes-2.json) |
 | Company of Heroes 2: All Out War Edition | 139845 | [139845-company-of-heroes-2-all-out-war-edition.json](./139845-company-of-heroes-2-all-out-war-edition.json) |
 | Company of Heroes 2: Ardennes Assault | 8445 | [8445-company-of-heroes-2-ardennes-assault.json](./8445-company-of-heroes-2-ardennes-assault.json) |
 | Company of Heroes 2: Complete Collection | 145682 | [145682-company-of-heroes-2-complete-collection.json](./145682-company-of-heroes-2-complete-collection.json) |
