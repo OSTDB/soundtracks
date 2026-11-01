@@ -8374,7 +8374,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon 6 | 247399 | [247399-digimon-6.json](./247399-digimon-6.json) |
 | Digimon Adventure | 247397 | [247397-digimon-adventure.json](./247397-digimon-adventure.json) |
 | Digimon Adventure 02: D-1 Tamers | 37553 | [37553-digimon-adventure-02-d-1-tamers.json](./37553-digimon-adventure-02-d-1-tamers.json) |
+| Digimon Adventure 02: Tag Tamers | 37518 | [37518-digimon-adventure-02-tag-tamers.json](./37518-digimon-adventure-02-tag-tamers.json) |
 | Digimon Adventure Trading Card Game | 276115 | [276115-digimon-adventure-trading-card-game.json](./276115-digimon-adventure-trading-card-game.json) |
+| Digimon Adventure: Anode Tamer | 37517 | [37517-digimon-adventure-anode-tamer.json](./37517-digimon-adventure-anode-tamer.json) |
+| Digimon Adventure: Cathode Tamer | 37516 | [37516-digimon-adventure-cathode-tamer.json](./37516-digimon-adventure-cathode-tamer.json) |
 | Digimon All-Star Rumble | 9286 | [9286-digimon-all-star-rumble.json](./9286-digimon-all-star-rumble.json) |
 | Digimon Alysion | 336087 | [336087-digimon-alysion.json](./336087-digimon-alysion.json) |
 | Digimon Anode Tamer/Cathode Tamer: Veedramon Version | 37554 | [37554-digimon-anode-tamer-cathode-tamer-veedramon-version.json](./37554-digimon-anode-tamer-cathode-tamer-veedramon-version.json) |
@@ -8510,6 +8513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Monster Card Game Ver. WonderSwan Color | 37549 | [37549-digital-monster-card-game-ver-wonderswan-color.json](./37549-digital-monster-card-game-ver-wonderswan-color.json) |
 | Digital Monster Ver GBs | 191384 | [191384-digital-monster-ver-gbs.json](./191384-digital-monster-ver-gbs.json) |
 | Digital Monster Ver. S: Digimon Tamers | 8613 | [8613-digital-monster-ver-s-digimon-tamers.json](./8613-digital-monster-ver-s-digimon-tamers.json) |
+| Digital Monster Ver. WonderSwan | 37519 | [37519-digital-monster-ver-wonderswan.json](./37519-digital-monster-ver-wonderswan.json) |
 | Digital Monster X | 274145 | [274145-digital-monster-x.json](./274145-digital-monster-x.json) |
 | Digital Monster X Ver.2 | 274146 | [274146-digital-monster-x-ver-2.json](./274146-digital-monster-x-ver-2.json) |
 | Digital Monster: D Project | 37550 | [37550-digital-monster-d-project.json](./37550-digital-monster-d-project.json) |
@@ -8517,6 +8521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Monsters 3 | 247407 | [247407-digital-monsters-3.json](./247407-digital-monsters-3.json) |
 | Digital Paint: Paintball 2 | 67950 | [67950-digital-paint-paintball-2.json](./67950-digital-paint-paintball-2.json) |
 | Digital Paintball Redux | 117785 | [117785-digital-paintball-redux.json](./117785-digital-paintball-redux.json) |
+| Digital Partner | 37515 | [37515-digital-partner.json](./37515-digital-partner.json) |
 | Digital Pinball: Last Gladiators | 19737 | [19737-digital-pinball-last-gladiators.json](./19737-digital-pinball-last-gladiators.json) |
 | Digital Pinball: Necronomicon | 45453 | [45453-digital-pinball-necronomicon.json](./45453-digital-pinball-necronomicon.json) |
 | Digital Processing | 400284 | [400284-digital-processing.json](./400284-digital-processing.json) |
@@ -11041,6 +11046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokodemo Chinchin | 59127 | [59127-dokodemo-chinchin.json](./59127-dokodemo-chinchin.json) |
 | Dokodemo Crash-kun | 210242 | [210242-dokodemo-crash-kun.json](./210242-dokodemo-crash-kun.json) |
 | Dokodemo Dorayaki Doraemon | 199449 | [199449-dokodemo-dorayaki-doraemon.json](./199449-dokodemo-dorayaki-doraemon.json) |
+| Dokodemo Hamster | 37514 | [37514-dokodemo-hamster.json](./37514-dokodemo-hamster.json) |
 | Dokodemo Hamster 3: O Dekake Safuran | 37548 | [37548-dokodemo-hamster-3-o-dekake-safuran.json](./37548-dokodemo-hamster-3-o-dekake-safuran.json) |
 | Dokodemo Mahjong | 43966 | [43966-dokodemo-mahjong.json](./43966-dokodemo-mahjong.json) |
 | Dokodemo Mahjong Color | 75456 | [75456-dokodemo-mahjong-color.json](./75456-dokodemo-mahjong-color.json) |
