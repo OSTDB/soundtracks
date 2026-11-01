@@ -3314,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Jumps | 341587 | [341587-pc-jumps.json](./341587-pc-jumps.json) |
 | PC Kid 3 | 37721 | [37721-pc-kid-3.json](./37721-pc-kid-3.json) |
 | PC Mus | 327335 | [327335-pc-mus.json](./327335-pc-mus.json) |
+| PC Pachi Slot 777 | 44321 | [44321-pc-pachi-slot-777.json](./44321-pc-pachi-slot-777.json) |
 | PC Pachislot Idol Gambler | 38104 | [38104-pc-pachislot-idol-gambler.json](./38104-pc-pachislot-idol-gambler.json) |
 | PC Pool | 86039 | [86039-pc-pool.json](./86039-pc-pool.json) |
 | PC Pool Challenges | 93464 | [93464-pc-pool-challenges.json](./93464-pc-pool-challenges.json) |
@@ -6590,6 +6591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pine Hearts | 204528 | [204528-pine-hearts.json](./204528-pine-hearts.json) |
 | Pine Point: Insomniac | 334011 | [334011-pine-point-insomniac.json](./334011-pine-point-insomniac.json) |
 | Pine Racer | 244808 | [244808-pine-racer.json](./244808-pine-racer.json) |
+| Pine Seekers | 44288 | [44288-pine-seekers.json](./44288-pine-seekers.json) |
 | Pine Tar Poker | 232311 | [232311-pine-tar-poker.json](./232311-pine-tar-poker.json) |
 | Pine: A Story of Loss | 300365 | [300365-pine-a-story-of-loss.json](./300365-pine-a-story-of-loss.json) |
 | Pine: Segment_01 | 358642 | [358642-pine-segment-01.json](./358642-pine-segment-01.json) |
@@ -7200,6 +7202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitch-Hit: Baseball | 31347 | [31347-pitch-hit-baseball.json](./31347-pitch-hit-baseball.json) |
 | Pitched Battle | 149785 | [149785-pitched-battle.json](./149785-pitched-battle.json) |
 | Pitcher and the Whale | 153355 | [153355-pitcher-and-the-whale.json](./153355-pitcher-and-the-whale.json) |
+| Pitcher's Duel | 44304 | [44304-pitchers-duel.json](./44304-pitchers-duel.json) |
 | Pitchfork | 364456 | [364456-pitchfork.json](./364456-pitchfork.json) |
 | Pitchfork Battles | 244858 | [244858-pitchfork-battles.json](./244858-pitchfork-battles.json) |
 | Pitchfork Kingdom | 201581 | [201581-pitchfork-kingdom.json](./201581-pitchfork-kingdom.json) |
@@ -13995,6 +13998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Tennis Simulator | 12724 | [12724-pro-tennis-simulator.json](./12724-pro-tennis-simulator.json) |
 | Pro Tennis Tour 2 | 145881 | [145881-pro-tennis-tour-2.json](./145881-pro-tennis-tour-2.json) |
 | Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
+| Pro Tennis: World Court | 44320 | [44320-pro-tennis-world-court.json](./44320-pro-tennis-world-court.json) |
 | Pro Turkey Hunting | 234077 | [234077-pro-turkey-hunting.json](./234077-pro-turkey-hunting.json) |
 | Pro Virtual Racing | 356510 | [356510-pro-virtual-racing.json](./356510-pro-virtual-racing.json) |
 | Pro Wrestler Story | 332336 | [332336-pro-wrestler-story.json](./332336-pro-wrestler-story.json) |
