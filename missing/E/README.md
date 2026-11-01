@@ -1772,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Mucho | 157351 | [157351-el-mucho.json](./157351-el-mucho.json) |
 | El Narco | 321170 | [321170-el-narco.json](./321170-el-narco.json) |
 | El Ne Rue | 232943 | [232943-el-ne-rue.json](./232943-el-ne-rue.json) |
+| El Ninja | 57413 | [57413-el-ninja.json](./57413-el-ninja.json) |
 | El Notas | 414382 | [414382-el-notas.json](./414382-el-notas.json) |
 | El Panadero: The Baker | 239662 | [239662-el-panadero-the-baker.json](./239662-el-panadero-the-baker.json) |
 | El Pansas | 110530 | [110530-el-pansas.json](./110530-el-pansas.json) |
