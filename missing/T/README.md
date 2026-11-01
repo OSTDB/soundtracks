@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tailed Monsters Puzzle | 224160 | [224160-tailed-monsters-puzzle.json](./224160-tailed-monsters-puzzle.json) |
 | Tailgate | 314007 | [314007-tailgate.json](./314007-tailgate.json) |
 | Tailgunner | 132130 | [132130-tailgunner.json](./132130-tailgunner.json) |
+| Tailgunner | 24639 | [24639-tailgunner.json](./24639-tailgunner.json) |
 | Tailor Simulator | 374887 | [374887-tailor-simulator.json](./374887-tailor-simulator.json) |
 | Tailor Tales | 110929 | [110929-tailor-tales.json](./110929-tailor-tales.json) |
 | Tailor Tales - Aiden Plus | 305544 | [305544-tailor-tales-aiden-plus.json](./305544-tailor-tales-aiden-plus.json) |
@@ -4228,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraGenesis - Space Settlers | 102730 | [102730-terragenesis-space-settlers.json](./102730-terragenesis-space-settlers.json) |
 | TerraGenesis: Landfall | 213339 | [213339-terragenesis-landfall.json](./213339-terragenesis-landfall.json) |
 | Terragon: Symbol Of Magic | 164941 | [164941-terragon-symbol-of-magic.json](./164941-terragon-symbol-of-magic.json) |
+| Terraguard | 24506 | [24506-terraguard.json](./24506-terraguard.json) |
 | Terrahawks | 73639 | [73639-terrahawks.json](./73639-terrahawks.json) |
 | Terrahawks: The Battlehawk | 385725 | [385725-terrahawks-the-battlehawk.json](./385725-terrahawks-the-battlehawk.json) |
 | Terrain Defender | 402381 | [402381-terrain-defender.json](./402381-terrain-defender.json) |
@@ -11137,6 +11139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last General | 265279 | [265279-the-last-general.json](./265279-the-last-general.json) |
 | The Last Gift | 381102 | [381102-the-last-gift.json](./381102-the-last-gift.json) |
 | The Last Girl ~ Janna's diary of survive | 103658 | [103658-the-last-girl-jannas-diary-of-survive.json](./103658-the-last-girl-jannas-diary-of-survive.json) |
+| The Last Gladiator | 24502 | [24502-the-last-gladiator.json](./24502-the-last-gladiator.json) |
 | The Last Golden Fox | 247930 | [247930-the-last-golden-fox.json](./247930-the-last-golden-fox.json) |
 | The Last Good Boy | 407333 | [407333-the-last-good-boy.json](./407333-the-last-good-boy.json) |
 | The Last Goodbye | 308181 | [308181-the-last-goodbye.json](./308181-the-last-goodbye.json) |
@@ -22961,8 +22964,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Deluxe Edition | 118882 | [118882-tom-clancys-rainbow-six-siege-deluxe-edition.json](./118882-tom-clancys-rainbow-six-siege-deluxe-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Demon Veil | 198266 | [198266-tom-clancys-rainbow-six-siege-demon-veil.json](./198266-tom-clancys-rainbow-six-siege-demon-veil.json) |
 | Tom Clancy's Rainbow Six Siege: North Star | 158944 | [158944-tom-clancys-rainbow-six-siege-north-star.json](./158944-tom-clancys-rainbow-six-siege-north-star.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Black Ice | 24499 | [24499-tom-clancys-rainbow-six-siege-operation-black-ice.json](./24499-tom-clancys-rainbow-six-siege-operation-black-ice.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Blood Orchid | 55167 | [55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json](./55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Brutal Swarm | 217522 | [217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json](./217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Dust Line | 24500 | [24500-tom-clancys-rainbow-six-siege-operation-dust-line.json](./24500-tom-clancys-rainbow-six-siege-operation-dust-line.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Neon Dawn | 141194 | [141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json](./141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Red Crow | 25641 | [25641-tom-clancys-rainbow-six-siege-operation-red-crow.json](./25641-tom-clancys-rainbow-six-siege-operation-red-crow.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Shadow Legacy | 136978 | [136978-tom-clancys-rainbow-six-siege-operation-shadow-legacy.json](./136978-tom-clancys-rainbow-six-siege-operation-shadow-legacy.json) |
