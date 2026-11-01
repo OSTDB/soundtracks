@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Kotar: The Crawling Man | 227124 | [227124-saint-kotar-the-crawling-man.json](./227124-saint-kotar-the-crawling-man.json) |
 | Saint Maker | 195551 | [195551-saint-maker.json](./195551-saint-maker.json) |
 | Saint of Chains | 374295 | [374295-saint-of-chains.json](./374295-saint-of-chains.json) |
+| Saint Paradise: Saikyou no Senshi-tachi | 49099 | [49099-saint-paradise-saikyou-no-senshi-tachi.json](./49099-saint-paradise-saikyou-no-senshi-tachi.json) |
 | Saint Patrick's Day Break 2 Head to Head | 194360 | [194360-saint-patricks-day-break-2-head-to-head.json](./194360-saint-patricks-day-break-2-head-to-head.json) |
 | Saint Patrick's Day Break Head to Head | 210390 | [210390-saint-patricks-day-break-head-to-head.json](./210390-saint-patricks-day-break-head-to-head.json) |
 | Saint Patrick's Day Run | 194368 | [194368-saint-patricks-day-run.json](./194368-saint-patricks-day-run.json) |
@@ -7661,6 +7662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Nippon Pro Wrestling: Toukon Retsuden Advance | 61302 | [61302-shin-nippon-pro-wrestling-toukon-retsuden-advance.json](./61302-shin-nippon-pro-wrestling-toukon-retsuden-advance.json) |
 | Shin Nippon Pro Wrestling: Toukon Road - Brave Spirits | 3556 | [3556-shin-nippon-pro-wrestling-toukon-road-brave-spirits.json](./3556-shin-nippon-pro-wrestling-toukon-road-brave-spirits.json) |
 | Shin Nippon Pro Wrestling: Toukon Road 2 - The Next Generation | 47750 | [47750-shin-nippon-pro-wrestling-toukon-road-2-the-next-generation.json](./47750-shin-nippon-pro-wrestling-toukon-road-2-the-next-generation.json) |
+| Shin Nippon Pro Wrestling: Toukon Sanjushi | 49111 | [49111-shin-nippon-pro-wrestling-toukon-sanjushi.json](./49111-shin-nippon-pro-wrestling-toukon-sanjushi.json) |
 | Shin Nobunaga no Yabou | 208939 | [208939-shin-nobunaga-no-yabou.json](./208939-shin-nobunaga-no-yabou.json) |
 | Shin Pokémon: Blue Version | 275103 | [275103-shin-pokemon-blue-version.json](./275103-shin-pokemon-blue-version.json) |
 | Shin Pokemon: Green Version | 275105 | [275105-shin-pokemon-green-version.json](./275105-shin-pokemon-green-version.json) |
@@ -11402,6 +11404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky & Heart Last Survival | 83342 | [83342-sky-and-heart-last-survival.json](./83342-sky-and-heart-last-survival.json) |
 | Sky 2120 | 408216 | [408216-sky-2120.json](./408216-sky-2120.json) |
 | Sky Abyss | 400823 | [400823-sky-abyss.json](./400823-sky-abyss.json) |
+| Sky Ace | 49082 | [49082-sky-ace.json](./49082-sky-ace.json) |
 | Sky Aces | 343990 | [343990-sky-aces.json](./343990-sky-aces.json) |
 | Sky Aces | 54365 | [54365-sky-aces.json](./54365-sky-aces.json) |
 | Sky Aces 2 | 295937 | [295937-sky-aces-2.json](./295937-sky-aces-2.json) |
@@ -17963,6 +17966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18837,6 +18841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spanky "Bat-a-Swing" | 370559 | [370559-spanky-bat-a-swing.json](./370559-spanky-bat-a-swing.json) |
 | Spanky! | 254526 | [254526-spanky.json](./254526-spanky.json) |
 | Spanky's Quest | 144149 | [144149-spankys-quest.json](./144149-spankys-quest.json) |
+| Spanky's Quest | 49017 | [49017-spankys-quest.json](./49017-spankys-quest.json) |
 | Spanky's Quest DX | 280706 | [280706-spankys-quest-dx.json](./280706-spankys-quest-dx.json) |
 | Spannerman | 39142 | [39142-spannerman.json](./39142-spannerman.json) |
 | Spar MMORPG | 130880 | [130880-spar-mmorpg.json](./130880-spar-mmorpg.json) |
@@ -20850,6 +20855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Illustrated for Kids: Baseball | 49290 | [49290-sports-illustrated-for-kids-baseball.json](./49290-sports-illustrated-for-kids-baseball.json) |
 | Sports Illustrated for Kids: Football | 49220 | [49220-sports-illustrated-for-kids-football.json](./49220-sports-illustrated-for-kids-football.json) |
 | Sports Illustrated: Championship Football & Baseball | 273410 | [273410-sports-illustrated-championship-football-and-baseball.json](./273410-sports-illustrated-championship-football-and-baseball.json) |
+| Sports Illustrated: Golf Classic | 49086 | [49086-sports-illustrated-golf-classic.json](./49086-sports-illustrated-golf-classic.json) |
 | Sports Jam | 45841 | [45841-sports-jam.json](./45841-sports-jam.json) |
 | Sports Pad Football | 46122 | [46122-sports-pad-football.json](./46122-sports-pad-football.json) |
 | Sports Paradise VR | 157472 | [157472-sports-paradise-vr.json](./157472-sports-paradise-vr.json) |
