@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caedes | 164607 | [164607-caedes.json](./164607-caedes.json) |
 | Caelum in Lacu | 405969 | [405969-caelum-in-lacu.json](./405969-caelum-in-lacu.json) |
 | Caelum: Into the Sky | 91202 | [91202-caelum-into-the-sky.json](./91202-caelum-into-the-sky.json) |
+| Caelum: Into the Sky Vol. 1 | 40523 | [40523-caelum-into-the-sky-vol-1.json](./40523-caelum-into-the-sky-vol-1.json) |
 | Caelum's Crux | 389619 | [389619-caelums-crux.json](./389619-caelums-crux.json) |
 | Caesar | 7416 | [7416-caesar.json](./7416-caesar.json) |
 | Caesar Bubbles | 106883 | [106883-caesar-bubbles.json](./106883-caesar-bubbles.json) |
