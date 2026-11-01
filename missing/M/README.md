@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maboshi's Arcade | 21788 | [21788-maboshis-arcade.json](./21788-maboshis-arcade.json) |
 | Mabus 3000 | 245781 | [245781-mabus-3000.json](./245781-mabus-3000.json) |
 | Mac Biskwi Adventures | 169631 | [169631-mac-biskwi-adventures.json](./169631-mac-biskwi-adventures.json) |
+| Mac Pro Football | 36694 | [36694-mac-pro-football.json](./36694-mac-pro-football.json) |
 | Macabre | 201488 | [201488-macabre.json](./201488-macabre.json) |
 | Macabre | 34875 | [34875-macabre.json](./34875-macabre.json) |
 | Macabre Museum | 216685 | [216685-macabre-museum.json](./216685-macabre-museum.json) |
