@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nectar Wars | 260987 | [260987-nectar-wars.json](./260987-nectar-wars.json) |
 | Nectaris | 42030 | [42030-nectaris.json](./42030-nectaris.json) |
 | Nectaris Cellular | 356109 | [356109-nectaris-cellular.json](./356109-nectaris-cellular.json) |
+| Nectaris GB | 49094 | [49094-nectaris-gb.json](./49094-nectaris-gb.json) |
 | Nectaris: Military Madness | 356101 | [356101-nectaris-military-madness.json](./356101-nectaris-military-madness.json) |
 | Nectarmare | 297154 | [297154-nectarmare.json](./297154-nectarmare.json) |
 | Necuratu | 309721 | [309721-necuratu.json](./309721-necuratu.json) |
@@ -1808,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekketsu Kouha Kunio-kun Gaiden: River City Girls 1-2 | 228060 | [228060-nekketsu-kouha-kunio-kun-gaiden-river-city-girls-1-2.json](./228060-nekketsu-kouha-kunio-kun-gaiden-river-city-girls-1-2.json) |
 | Nekketsu Kouha Kunio-kun Special | 86385 | [86385-nekketsu-kouha-kunio-kun-special.json](./86385-nekketsu-kouha-kunio-kun-special.json) |
 | Nekketsu Kouha Kunio-kun TD | 62624 | [62624-nekketsu-kouha-kunio-kun-td.json](./62624-nekketsu-kouha-kunio-kun-td.json) |
+| Nekketsu Kouha Kunio-kun: Bangai Rantou-hen | 49075 | [49075-nekketsu-kouha-kunio-kun-bangai-rantou-hen.json](./49075-nekketsu-kouha-kunio-kun-bangai-rantou-hen.json) |
 | Nekketsu Koukou Dodgeball-bu | 191661 | [191661-nekketsu-koukou-dodgeball-bu.json](./191661-nekketsu-koukou-dodgeball-bu.json) |
 | Nekketsu Koukou Dodgeball-bu | 191741 | [191741-nekketsu-koukou-dodgeball-bu.json](./191741-nekketsu-koukou-dodgeball-bu.json) |
 | Nekketsu Koukou Dodgeball-bu: Kyouteki! Dodge Soldier no Maki | 49106 | [49106-nekketsu-koukou-dodgeball-bu-kyouteki-dodge-soldier-no-maki.json](./49106-nekketsu-koukou-dodgeball-bu-kyouteki-dodge-soldier-no-maki.json) |
@@ -2653,6 +2655,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netsu Chu! Pro Yakyuu 2002 | 403523 | [403523-netsu-chu-pro-yakyuu-2002.json](./403523-netsu-chu-pro-yakyuu-2002.json) |
 | Netto de Para | 267584 | [267584-netto-de-para.json](./267584-netto-de-para.json) |
 | Netto de Tennis | 58169 | [58169-netto-de-tennis.json](./58169-netto-de-tennis.json) |
+| Nettou Garou Densetsu 2: Aratanaru Tatakai | 49114 | [49114-nettou-garou-densetsu-2-aratanaru-tatakai.json](./49114-nettou-garou-densetsu-2-aratanaru-tatakai.json) |
+| Nettou Real Bout Garou Densetsu Special | 49113 | [49113-nettou-real-bout-garou-densetsu-special.json](./49113-nettou-real-bout-garou-densetsu-special.json) |
+| Nettou Samurai Spirits: Zankuro Musouken | 49112 | [49112-nettou-samurai-spirits-zankuro-musouken.json](./49112-nettou-samurai-spirits-zankuro-musouken.json) |
 | Nettou! J.League Soccer | 349278 | [349278-nettou-j-league-soccer.json](./349278-nettou-j-league-soccer.json) |
 | Nettou! Powerful Koushien | 98508 | [98508-nettou-powerful-koushien.json](./98508-nettou-powerful-koushien.json) |
 | Netty | 181211 | [181211-netty.json](./181211-netty.json) |
@@ -4808,6 +4813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Suffering | 181786 | [181786-ninja-suffering.json](./181786-ninja-suffering.json) |
 | Ninja Sukafu | 181788 | [181788-ninja-sukafu.json](./181788-ninja-sukafu.json) |
 | Ninja Tag | 59996 | [59996-ninja-tag.json](./59996-ninja-tag.json) |
+| Ninja Taro | 49034 | [49034-ninja-taro.json](./49034-ninja-taro.json) |
 | Ninja TD | 200189 | [200189-ninja-td.json](./200189-ninja-td.json) |
 | Ninja Teleport | 410094 | [410094-ninja-teleport.json](./410094-ninja-teleport.json) |
 | Ninja Thea | 213441 | [213441-ninja-thea.json](./213441-ninja-thea.json) |
