@@ -8419,6 +8419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Block | 369721 | [369721-city-block.json](./369721-city-block.json) |
 | City Blocks | 108037 | [108037-city-blocks.json](./108037-city-blocks.json) |
 | City Blocks | 183269 | [183269-city-blocks.json](./183269-city-blocks.json) |
+| City Bomber | 39304 | [39304-city-bomber.json](./39304-city-bomber.json) |
 | City Builder | 101595 | [101595-city-builder.json](./101595-city-builder.json) |
 | City Builder | 51045 | [51045-city-builder.json](./51045-city-builder.json) |
 | City Builder Pro | 391239 | [391239-city-builder-pro.json](./391239-city-builder-pro.json) |
@@ -15232,6 +15233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Crab | 353932 | [353932-crazy-crab.json](./353932-crazy-crab.json) |
 | Crazy Crab 2 | 354088 | [354088-crazy-crab-2.json](./354088-crazy-crab-2.json) |
 | Crazy Critters: Combat Cats | 122198 | [122198-crazy-critters-combat-cats.json](./122198-crazy-critters-combat-cats.json) |
+| Crazy Cross | 39340 | [39340-crazy-cross.json](./39340-crazy-cross.json) |
 | Crazy Crows | 385539 | [385539-crazy-crows.json](./385539-crazy-crows.json) |
 | Crazy Cursed Grandma's House | 272393 | [272393-crazy-cursed-grandmas-house.json](./272393-crazy-cursed-grandmas-house.json) |
 | Crazy Defense Heroes | 95092 | [95092-crazy-defense-heroes.json](./95092-crazy-defense-heroes.json) |
