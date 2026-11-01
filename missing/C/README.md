@@ -4986,6 +4986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cessna Over Moscow | 39116 | [39116-cessna-over-moscow.json](./39116-cessna-over-moscow.json) |
 | Cesspool | 186096 | [186096-cesspool.json](./186096-cesspool.json) |
 | Cesta bojovníka | 391800 | [391800-cesta-bojovnika.json](./391800-cesta-bojovnika.json) |
+| Cesti to Meigurumi-tachi no Mahou no Bouken: Kisekko Gurumii | 49641 | [49641-cesti-to-meigurumi-tachi-no-mahou-no-bouken-kisekko-gurumii.json](./49641-cesti-to-meigurumi-tachi-no-mahou-no-bouken-kisekko-gurumii.json) |
 | Ceteris Paribus | 244136 | [244136-ceteris-paribus.json](./244136-ceteris-paribus.json) |
 | Cetetorius | 121965 | [121965-cetetorius.json](./121965-cetetorius.json) |
 | Ceuswark Defenders | 419201 | [419201-ceuswark-defenders.json](./419201-ceuswark-defenders.json) |
