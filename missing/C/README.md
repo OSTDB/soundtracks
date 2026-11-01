@@ -16169,6 +16169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis: S | 194124 | [194124-crisis-s.json](./194124-crisis-s.json) |
 | Crisis: The Third Way | 382220 | [382220-crisis-the-third-way.json](./382220-crisis-the-third-way.json) |
 | Crisis/Divider | 305153 | [305153-crisis-divider.json](./305153-crisis-divider.json) |
+| Crisol: Theater of Idols | 265827 | [265827-crisol-theater-of-idols.json](./265827-crisol-theater-of-idols.json) |
 | Crisp Cube | 125886 | [125886-crisp-cube.json](./125886-crisp-cube.json) |
 | Crisp Games | 413024 | [413024-crisp-games.json](./413024-crisp-games.json) |
 | Crisp's Charging Challenge | 214051 | [214051-crisps-charging-challenge.json](./214051-crisps-charging-challenge.json) |
