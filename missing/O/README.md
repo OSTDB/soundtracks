@@ -2772,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onksventure | 179847 | [179847-onksventure.json](./179847-onksventure.json) |
 | Online @ The Perfect Time | 208169 | [208169-online-the-perfect-time.json](./208169-online-the-perfect-time.json) |
 | Online Artillery 2 | 58748 | [58748-online-artillery-2.json](./58748-online-artillery-2.json) |
+| Online Bomberman | 27256 | [27256-online-bomberman.json](./27256-online-bomberman.json) |
 | Online Car Simulator | 293580 | [293580-online-car-simulator.json](./293580-online-car-simulator.json) |
 | Online Chess Kingdoms | 93388 | [93388-online-chess-kingdoms.json](./93388-online-chess-kingdoms.json) |
 | Online Circle Pong | 75000 | [75000-online-circle-pong.json](./75000-online-circle-pong.json) |
