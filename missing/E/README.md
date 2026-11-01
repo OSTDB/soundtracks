@@ -2328,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleventh: Unsacred | 255165 | [255165-eleventh-unsacred.json](./255165-eleventh-unsacred.json) |
 | Elevral | 393044 | [393044-elevral.json](./393044-elevral.json) |
 | Elex | 11567 | [11567-elex.json](./11567-elex.json) |
+| Elex II | 55147 | [55147-elex-ii.json](./55147-elex-ii.json) |
 | Elex II: Collector's Edition | 181638 | [181638-elex-ii-collectors-edition.json](./181638-elex-ii-collectors-edition.json) |
 | Elf | 12061 | [12061-elf.json](./12061-elf.json) |
 | Elf | 12580 | [12580-elf.json](./12580-elf.json) |
