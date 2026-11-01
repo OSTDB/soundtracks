@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11470,6 +11471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Magic Tower | 367855 | [367855-bomb-magic-tower.json](./367855-bomb-magic-tower.json) |
 | Bomb Man | 78266 | [78266-bomb-man.json](./78266-bomb-man.json) |
 | Bomb Meirin | 204406 | [204406-bomb-meirin.json](./204406-bomb-meirin.json) |
+| Bomb Monkey | 47653 | [47653-bomb-monkey.json](./47653-bomb-monkey.json) |
 | Bomb Pong | 189926 | [189926-bomb-pong.json](./189926-bomb-pong.json) |
 | Bomb Riders | 108407 | [108407-bomb-riders.json](./108407-bomb-riders.json) |
 | Bomb Rush Cyberfunk: Base & Jay | 262252 | [262252-bomb-rush-cyberfunk-base-and-jay.json](./262252-bomb-rush-cyberfunk-base-and-jay.json) |
@@ -13513,6 +13515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz Rhythm & Style: Roxxi and Nevra Pack | 365566 | [365566-bratz-rhythm-and-style-roxxi-and-nevra-pack.json](./365566-bratz-rhythm-and-style-roxxi-and-nevra-pack.json) |
 | Bratz Rhythm & Style: Tweevils Pack | 365567 | [365567-bratz-rhythm-and-style-tweevils-pack.json](./365567-bratz-rhythm-and-style-tweevils-pack.json) |
 | Bratz World: The Jet Set | 230422 | [230422-bratz-world-the-jet-set.json](./230422-bratz-world-the-jet-set.json) |
+| Bratz: Fashion Boutique | 47638 | [47638-bratz-fashion-boutique.json](./47638-bratz-fashion-boutique.json) |
 | Bratz: Flaunt Your Fashion | 214142 | [214142-bratz-flaunt-your-fashion.json](./214142-bratz-flaunt-your-fashion.json) |
 | Bratz: Flaunt Your Fashion - Pretty 'N' Punk Fashion Pack | 301569 | [301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json](./301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json) |
 | Bratz: Forever Diamondz | 248532 | [248532-bratz-forever-diamondz.json](./248532-bratz-forever-diamondz.json) |
@@ -13633,6 +13636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravely Default: Flying Fairy | 78326 | [78326-bravely-default-flying-fairy.json](./78326-bravely-default-flying-fairy.json) |
 | Bravely Default: Flying Fairy - HD Remaster | 338083 | [338083-bravely-default-flying-fairy-hd-remaster.json](./338083-bravely-default-flying-fairy-hd-remaster.json) |
 | Bravely Default: Flying Fairy Collector's Pack | 89878 | [89878-bravely-default-flying-fairy-collectors-pack.json](./89878-bravely-default-flying-fairy-collectors-pack.json) |
+| Bravely Second: End Layer - Deluxe Collector's Edition | 47664 | [47664-bravely-second-end-layer-deluxe-collectors-edition.json](./47664-bravely-second-end-layer-deluxe-collectors-edition.json) |
 | BraveMatch | 145965 | [145965-bravematch.json](./145965-bravematch.json) |
 | BraverBots | 233032 | [233032-braverbots.json](./233032-braverbots.json) |
 | Bravers | 158915 | [158915-bravers.json](./158915-bravers.json) |
