@@ -3285,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 3D: Prime Edition | 1237 | [1237-tekken-3d-prime-edition.json](./1237-tekken-3d-prime-edition.json) |
 | Tekken 4 | 393182 | [393182-tekken-4.json](./393182-tekken-4.json) |
 | Tekken 5 | 393526 | [393526-tekken-5.json](./393526-tekken-5.json) |
+| Tekken 5: Dark Resurrection | 1235 | [1235-tekken-5-dark-resurrection.json](./1235-tekken-5-dark-resurrection.json) |
 | Tekken 5: Dark Resurrection Online | 1234 | [1234-tekken-5-dark-resurrection-online.json](./1234-tekken-5-dark-resurrection-online.json) |
 | Tekken 6 | 272551 | [272551-tekken-6.json](./272551-tekken-6.json) |
 | Tekken 6: Bloodline Rebellion | 393420 | [393420-tekken-6-bloodline-rebellion.json](./393420-tekken-6-bloodline-rebellion.json) |
@@ -8866,6 +8867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The first thrust of God | 81917 | [81917-the-first-thrust-of-god.json](./81917-the-first-thrust-of-god.json) |
 | The First Time I Died | 43071 | [43071-the-first-time-i-died.json](./43071-the-first-time-i-died.json) |
 | The first titans | 161398 | [161398-the-first-titans.json](./161398-the-first-titans.json) |
+| The First Tree | 20909 | [20909-the-first-tree.json](./20909-the-first-tree.json) |
 | The Fish | 213777 | [213777-the-fish.json](./213777-the-fish.json) |
 | The Fish and the Furious | 132826 | [132826-the-fish-and-the-furious.json](./132826-the-fish-and-the-furious.json) |
 | The Fish Files | 50037 | [50037-the-fish-files.json](./50037-the-fish-files.json) |
@@ -21143,6 +21145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Chess | 318120 | [318120-time-chess.json](./318120-time-chess.json) |
 | Time Climber | 276726 | [276726-time-climber.json](./276726-time-climber.json) |
 | Time Cops | 400099 | [400099-time-cops.json](./400099-time-cops.json) |
+| Time Crisis | 11739 | [11739-time-crisis.json](./11739-time-crisis.json) |
 | Time Crisis | 389440 | [389440-time-crisis.json](./389440-time-crisis.json) |
 | Time Crisis 3 | 13894 | [13894-time-crisis-3.json](./13894-time-crisis-3.json) |
 | Time Crisis 4 | 7466 | [7466-time-crisis-4.json](./7466-time-crisis-4.json) |
@@ -28369,6 +28372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials Bike Basic | 305133 | [305133-trials-bike-basic.json](./305133-trials-bike-basic.json) |
 | Trials Bike Pro | 305134 | [305134-trials-bike-pro.json](./305134-trials-bike-pro.json) |
 | Trials Construction Yard | 305135 | [305135-trials-construction-yard.json](./305135-trials-construction-yard.json) |
+| Trials Evolution | 2149 | [2149-trials-evolution.json](./2149-trials-evolution.json) |
 | Trials Evolution: Gold Edition | 20748 | [20748-trials-evolution-gold-edition.json](./20748-trials-evolution-gold-edition.json) |
 | Trials Evolution: Origin of Pain | 22190 | [22190-trials-evolution-origin-of-pain.json](./22190-trials-evolution-origin-of-pain.json) |
 | Trials Frontier | 7212 | [7212-trials-frontier.json](./7212-trials-frontier.json) |
