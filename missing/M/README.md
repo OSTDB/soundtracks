@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mages | 170844 | [170844-mages.json](./170844-mages.json) |
 | Mages and Treasures | 140787 | [140787-mages-and-treasures.json](./140787-mages-and-treasures.json) |
 | Mages Defense | 152633 | [152633-mages-defense.json](./152633-mages-defense.json) |
+| Mages of Mystralia | 18869 | [18869-mages-of-mystralia.json](./18869-mages-of-mystralia.json) |
 | Mages of Osmea | 312199 | [312199-mages-of-osmea.json](./312199-mages-of-osmea.json) |
 | MageSlayer | 8695 | [8695-mageslayer.json](./8695-mageslayer.json) |
 | MageTrain | 338350 | [338350-magetrain.json](./338350-magetrain.json) |
@@ -7211,6 +7212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Star Force 3: Red Joker | 1787 | [1787-mega-man-star-force-3-red-joker.json](./1787-mega-man-star-force-3-red-joker.json) |
 | Mega Man Star Force: Dragon | 1783 | [1783-mega-man-star-force-dragon.json](./1783-mega-man-star-force-dragon.json) |
 | Mega Man Star Force: Legacy Collection | 366898 | [366898-mega-man-star-force-legacy-collection.json](./366898-mega-man-star-force-legacy-collection.json) |
+| Mega Man Star Force: Pegasus | 1781 | [1781-mega-man-star-force-pegasus.json](./1781-mega-man-star-force-pegasus.json) |
 | Mega Man Sunrise | 308159 | [308159-mega-man-sunrise.json](./308159-mega-man-sunrise.json) |
 | Mega Man Ultra | 45190 | [45190-mega-man-ultra.json](./45190-mega-man-ultra.json) |
 | Mega Man Ultra Challenge | 214946 | [214946-mega-man-ultra-challenge.json](./214946-mega-man-ultra-challenge.json) |
@@ -9699,6 +9701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mouse: Mickey's Magical Adventure | 219096 | [219096-mickey-mouse-mickeys-magical-adventure.json](./219096-mickey-mouse-mickeys-magical-adventure.json) |
 | Mickey Mouse: Orange Express | 218352 | [218352-mickey-mouse-orange-express.json](./218352-mickey-mouse-orange-express.json) |
 | Mickey Mouse: The Computer Game | 12921 | [12921-mickey-mouse-the-computer-game.json](./12921-mickey-mouse-the-computer-game.json) |
+| Mickey Mousecapade | 8126 | [8126-mickey-mousecapade.json](./8126-mickey-mousecapade.json) |
 | Mickey no Boku ha Meitantei | 63051 | [63051-mickey-no-boku-ha-meitantei.json](./63051-mickey-no-boku-ha-meitantei.json) |
 | Mickey no Tokyo Disneyland Daibouken | 42543 | [42543-mickey-no-tokyo-disneyland-daibouken.json](./42543-mickey-no-tokyo-disneyland-daibouken.json) |
 | Mickey to Donald Magical Adventure 3 | 42489 | [42489-mickey-to-donald-magical-adventure-3.json](./42489-mickey-to-donald-magical-adventure-3.json) |
