@@ -8933,6 +8933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur! | 389576 | [389576-dinosaur.json](./389576-dinosaur.json) |
 | Dinosaur'us | 65584 | [65584-dinosaurus.json](./65584-dinosaurus.json) |
 | Dinosaurily | 242511 | [242511-dinosaurily.json](./242511-dinosaurily.json) |
+| DinosaurIsland | 55601 | [55601-dinosaurisland.json](./55601-dinosaurisland.json) |
 | Dinosaurium | 395865 | [395865-dinosaurium.json](./395865-dinosaurium.json) |
 | Dinosaurs | 198726 | [198726-dinosaurs.json](./198726-dinosaurs.json) |
 | Dinosaurs - Connect the Dots and Add Colors | 86725 | [86725-dinosaurs-connect-the-dots-and-add-colors.json](./86725-dinosaurs-connect-the-dots-and-add-colors.json) |
