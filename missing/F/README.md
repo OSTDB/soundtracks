@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-15 Strike Eagle III | 71811 | [71811-f-15-strike-eagle-iii.json](./71811-f-15-strike-eagle-iii.json) |
 | F-16 Combat Pilot | 12085 | [12085-f-16-combat-pilot.json](./12085-f-16-combat-pilot.json) |
 | F-16 Fighting Falcon | 14060 | [14060-f-16-fighting-falcon.json](./14060-f-16-fighting-falcon.json) |
+| F-16 Fighting Falcon | 36679 | [36679-f-16-fighting-falcon.json](./36679-f-16-fighting-falcon.json) |
 | F-16 Multirole Fighter | 72715 | [72715-f-16-multirole-fighter.json](./72715-f-16-multirole-fighter.json) |
 | F-16 Renegade | 66706 | [66706-f-16-renegade.json](./66706-f-16-renegade.json) |
 | F-18 Hornet | 12322 | [12322-f-18-hornet.json](./12322-f-18-hornet.json) |
@@ -7614,6 +7615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Florus | 183802 | [183802-florus.json](./183802-florus.json) |
 | Floss | 371841 | [371841-floss.json](./371841-floss.json) |
 | Flotilla 2 | 99064 | [99064-flotilla-2.json](./99064-flotilla-2.json) |
+| Flotilla WWII | 36698 | [36698-flotilla-wwii.json](./36698-flotilla-wwii.json) |
 | Flotsam | 222633 | [222633-flotsam.json](./222633-flotsam.json) |
 | Flotsam | 74527 | [74527-flotsam.json](./74527-flotsam.json) |
 | Flotsam and Jetsam Potion Commotion | 246522 | [246522-flotsam-and-jetsam-potion-commotion.json](./246522-flotsam-and-jetsam-potion-commotion.json) |
@@ -9295,6 +9297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Circus | 302347 | [302347-formula-circus.json](./302347-formula-circus.json) |
 | Formula Dare | 184429 | [184429-formula-dare.json](./184429-formula-dare.json) |
 | Formula Drag Manager | 221708 | [221708-formula-drag-manager.json](./221708-formula-drag-manager.json) |
+| Formula E powered by Virtually Live | 36639 | [36639-formula-e-powered-by-virtually-live.json](./36639-formula-e-powered-by-virtually-live.json) |
 | Formula Evolution 2024 | 254904 | [254904-formula-evolution-2024.json](./254904-formula-evolution-2024.json) |
 | Formula Evolution 2025 | 385978 | [385978-formula-evolution-2025.json](./385978-formula-evolution-2025.json) |
 | Formula Funtico | 307427 | [307427-formula-funtico.json](./307427-formula-funtico.json) |
