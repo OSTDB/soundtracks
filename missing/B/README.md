@@ -4283,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayern Munich Club Football 2005 | 267901 | [267901-bayern-munich-club-football-2005.json](./267901-bayern-munich-club-football-2005.json) |
 | Bayla Bunny | 32833 | [32833-bayla-bunny.json](./32833-bayla-bunny.json) |
 | Bayoen Syokin Sougaku 50,000 Yen Sohdatsu Quiz | 239569 | [239569-bayoen-syokin-sougaku-50-000-yen-sohdatsu-quiz.json](./239569-bayoen-syokin-sougaku-50-000-yen-sohdatsu-quiz.json) |
+| Bayonetta | 279337 | [279337-bayonetta.json](./279337-bayonetta.json) |
 | Bayonetta / Forza Motorsport 3 | 286973 | [286973-bayonetta-forza-motorsport-3.json](./286973-bayonetta-forza-motorsport-3.json) |
 | Bayonetta & Vanquish 10th Anniversary Bundle | 127258 | [127258-bayonetta-and-vanquish-10th-anniversary-bundle.json](./127258-bayonetta-and-vanquish-10th-anniversary-bundle.json) |
 | Bayonetta + Bayonetta 2: Special Edition | 332282 | [332282-bayonetta-bayonetta-2-special-edition.json](./332282-bayonetta-bayonetta-2-special-edition.json) |
@@ -5669,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behold the Dark | 151470 | [151470-behold-the-dark.json](./151470-behold-the-dark.json) |
 | Behold the Horde | 382830 | [382830-behold-the-horde.json](./382830-behold-the-horde.json) |
 | Behold the Kickmen | 26188 | [26188-behold-the-kickmen.json](./26188-behold-the-kickmen.json) |
+| Beholder 2 | 78536 | [78536-beholder-2.json](./78536-beholder-2.json) |
 | Beholder 2: Big Brother Edition | 146131 | [146131-beholder-2-big-brother-edition.json](./146131-beholder-2-big-brother-edition.json) |
 | Beholder 3 | 186882 | [186882-beholder-3.json](./186882-beholder-3.json) |
 | Beholder: Complete Edition | 82372 | [82372-beholder-complete-edition.json](./82372-beholder-complete-edition.json) |
@@ -6522,6 +6524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Memories: Tale of the Lost Souls | 323657 | [323657-beyond-memories-tale-of-the-lost-souls.json](./323657-beyond-memories-tale-of-the-lost-souls.json) |
 | Beyond Minimalism | 102923 | [102923-beyond-minimalism.json](./102923-beyond-minimalism.json) |
 | Beyond Myths | 224708 | [224708-beyond-myths.json](./224708-beyond-myths.json) |
+| Beyond Oasis | 15299 | [15299-beyond-oasis.json](./15299-beyond-oasis.json) |
 | Beyond One's Past | 333979 | [333979-beyond-ones-past.json](./333979-beyond-ones-past.json) |
 | Beyond Pearl Harbor: Pacific Warriors | 37289 | [37289-beyond-pearl-harbor-pacific-warriors.json](./37289-beyond-pearl-harbor-pacific-warriors.json) |
 | Beyond Perception | 108845 | [108845-beyond-perception.json](./108845-beyond-perception.json) |
@@ -8282,6 +8285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black blood | 132781 | [132781-black-blood.json](./132781-black-blood.json) |
 | Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
 | Black Blue | 118548 | [118548-black-blue.json](./118548-black-blue.json) |
+| Black Book | 121894 | [121894-black-book.json](./121894-black-book.json) |
 | Black Book: Endless Battles | 193627 | [193627-black-book-endless-battles.json](./193627-black-book-endless-battles.json) |
 | Black Border II | 374564 | [374564-black-border-ii.json](./374564-black-border-ii.json) |
 | Black Border Patrol Simulator | 139646 | [139646-black-border-patrol-simulator.json](./139646-black-border-patrol-simulator.json) |
@@ -11590,6 +11594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Monkey | 47653 | [47653-bomb-monkey.json](./47653-bomb-monkey.json) |
 | Bomb Pong | 189926 | [189926-bomb-pong.json](./189926-bomb-pong.json) |
 | Bomb Riders | 108407 | [108407-bomb-riders.json](./108407-bomb-riders.json) |
+| Bomb Rush Cyberfunk | 135940 | [135940-bomb-rush-cyberfunk.json](./135940-bomb-rush-cyberfunk.json) |
 | Bomb Rush Cyberfunk: Base & Jay | 262252 | [262252-bomb-rush-cyberfunk-base-and-jay.json](./262252-bomb-rush-cyberfunk-base-and-jay.json) |
 | Bomb Rush Cyberfunk: Exclusive Edition | 379972 | [379972-bomb-rush-cyberfunk-exclusive-edition.json](./379972-bomb-rush-cyberfunk-exclusive-edition.json) |
 | Bomb Scare | 13422 | [13422-bomb-scare.json](./13422-bomb-scare.json) |
