@@ -6647,6 +6647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chico's Delivery | 406052 | [406052-chicos-delivery.json](./406052-chicos-delivery.json) |
 | Chico's Rebound | 345050 | [345050-chicos-rebound.json](./345050-chicos-rebound.json) |
 | Chicobanana: Space Pong | 232101 | [232101-chicobanana-space-pong.json](./232101-chicobanana-space-pong.json) |
+| Chicory: A Colorful Tale | 117266 | [117266-chicory-a-colorful-tale.json](./117266-chicory-a-colorful-tale.json) |
 | ChicScape | 152777 | [152777-chicscape.json](./152777-chicscape.json) |
 | Chiebura | 130585 | [130585-chiebura.json](./130585-chiebura.json) |
 | Chief Almighty | 231959 | [231959-chief-almighty.json](./231959-chief-almighty.json) |
@@ -16793,6 +16794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruis'n Exotica | 249136 | [249136-cruisn-exotica.json](./249136-cruisn-exotica.json) |
 | Cruis'n Exotica | 300037 | [300037-cruisn-exotica.json](./300037-cruisn-exotica.json) |
 | Cruis'n USA | 300472 | [300472-cruisn-usa.json](./300472-cruisn-usa.json) |
+| Cruis'n USA | 3429 | [3429-cruisn-usa.json](./3429-cruisn-usa.json) |
 | Cruis'n Velocity | 49191 | [49191-cruisn-velocity.json](./49191-cruisn-velocity.json) |
 | Cruis'n World | 3430 | [3430-cruisn-world.json](./3430-cruisn-world.json) |
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
