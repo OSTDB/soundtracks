@@ -6802,6 +6802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Dragon | 316049 | [316049-flappy-dragon.json](./316049-flappy-dragon.json) |
 | Flappy Dunk | 87053 | [87053-flappy-dunk.json](./87053-flappy-dunk.json) |
 | Flappy Eros | 254411 | [254411-flappy-eros.json](./254411-flappy-eros.json) |
+| Flappy Fetus | 23162 | [23162-flappy-fetus.json](./23162-flappy-fetus.json) |
 | Flappy Fighter | 118311 | [118311-flappy-fighter.json](./118311-flappy-fighter.json) |
 | Flappy Fire | 90184 | [90184-flappy-fire.json](./90184-flappy-fire.json) |
 | Flappy Galaxy | 74184 | [74184-flappy-galaxy.json](./74184-flappy-galaxy.json) |
@@ -8541,6 +8542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 26 Console | 367571 | [367571-football-manager-26-console.json](./367571-football-manager-26-console.json) |
 | Football Manager 26 Mobile | 367576 | [367576-football-manager-26-mobile.json](./367576-football-manager-26-mobile.json) |
 | Football Manager 26 Touch | 367573 | [367573-football-manager-26-touch.json](./367573-football-manager-26-touch.json) |
+| Football Manager Classic | 23223 | [23223-football-manager-classic.json](./23223-football-manager-classic.json) |
 | Football Manager Handheld 2007 | 269427 | [269427-football-manager-handheld-2007.json](./269427-football-manager-handheld-2007.json) |
 | Football Manager Handheld 2008 | 269428 | [269428-football-manager-handheld-2008.json](./269428-football-manager-handheld-2008.json) |
 | Football Manager Handheld 2010 | 52218 | [52218-football-manager-handheld-2010.json](./52218-football-manager-handheld-2010.json) |
@@ -9670,6 +9672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress Interior | 272168 | [272168-fortress-interior.json](./272168-fortress-interior.json) |
 | Fortress Legends | 323128 | [323128-fortress-legends.json](./323128-fortress-legends.json) |
 | Fortress Merge | 417272 | [417272-fortress-merge.json](./417272-fortress-merge.json) |
+| Fortress of Narzod | 23343 | [23343-fortress-of-narzod.json](./23343-fortress-of-narzod.json) |
 | Fortress of the Arcane Conduit | 282617 | [282617-fortress-of-the-arcane-conduit.json](./282617-fortress-of-the-arcane-conduit.json) |
 | Fortress of the Undead | 248075 | [248075-fortress-of-the-undead.json](./248075-fortress-of-the-undead.json) |
 | Fortress of Zorlac | 319579 | [319579-fortress-of-zorlac.json](./319579-fortress-of-zorlac.json) |
