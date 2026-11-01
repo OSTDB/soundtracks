@@ -14185,6 +14185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of Fire | 276017 | [276017-breath-of-fire.json](./276017-breath-of-fire.json) |
 | Breath of Fire 6 | 63065 | [63065-breath-of-fire-6.json](./63065-breath-of-fire-6.json) |
 | Breath of Fire II | 276018 | [276018-breath-of-fire-ii.json](./276018-breath-of-fire-ii.json) |
+| Breath of Fire II | 6337 | [6337-breath-of-fire-ii.json](./6337-breath-of-fire-ii.json) |
 | Breath of Fire III | 18055 | [18055-breath-of-fire-iii.json](./18055-breath-of-fire-iii.json) |
 | Breath of Fire III | 207256 | [207256-breath-of-fire-iii.json](./207256-breath-of-fire-iii.json) |
 | Breath of Fire IV | 1280 | [1280-breath-of-fire-iv.json](./1280-breath-of-fire-iv.json) |
