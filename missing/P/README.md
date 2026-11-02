@@ -11560,6 +11560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Snow Run | 96704 | [96704-pony-snow-run.json](./96704-pony-snow-run.json) |
 | Pony vs. Pony | 379982 | [379982-pony-vs-pony.json](./379982-pony-vs-pony.json) |
 | Pony World 2 | 30845 | [30845-pony-world-2.json](./30845-pony-world-2.json) |
+| Pony World 3 | 35427 | [35427-pony-world-3.json](./35427-pony-world-3.json) |
 | Pony World: Color by Numbers | 279874 | [279874-pony-world-color-by-numbers.json](./279874-pony-world-color-by-numbers.json) |
 | Pony World: Color by Numbers & Animal Golf: Battle Race Bundle | 289205 | [289205-pony-world-color-by-numbers-and-animal-golf-battle-race-bundle.json](./289205-pony-world-color-by-numbers-and-animal-golf-battle-race-bundle.json) |
 | Pony's Games Box | 359333 | [359333-ponys-games-box.json](./359333-ponys-games-box.json) |
@@ -12111,6 +12112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Maze 2 | 193776 | [193776-portal-maze-2.json](./193776-portal-maze-2.json) |
 | Portal Mortal | 156713 | [156713-portal-mortal.json](./156713-portal-mortal.json) |
 | Portal of Evil: Stolen Runes | 77206 | [77206-portal-of-evil-stolen-runes.json](./77206-portal-of-evil-stolen-runes.json) |
+| Portal of Evil: Stolen Runes - Collector's Edition | 35451 | [35451-portal-of-evil-stolen-runes-collectors-edition.json](./35451-portal-of-evil-stolen-runes-collectors-edition.json) |
 | Portal Panic | 268001 | [268001-portal-panic.json](./268001-portal-panic.json) |
 | Portal Pro | 284358 | [284358-portal-pro.json](./284358-portal-pro.json) |
 | Portal Puzzle | 270111 | [270111-portal-puzzle.json](./270111-portal-puzzle.json) |
