@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Shop 2 | 328379 | [328379-cake-shop-2.json](./328379-cake-shop-2.json) |
 | Cake Shop 3 | 410232 | [410232-cake-shop-3.json](./410232-cake-shop-3.json) |
 | Cake Shop Simulator | 156876 | [156876-cake-shop-simulator.json](./156876-cake-shop-simulator.json) |
+| Cake Studio | 402653 | [402653-cake-studio.json](./402653-cake-studio.json) |
 | Cake Up | 335273 | [335273-cake-up.json](./335273-cake-up.json) |
 | Cake Yasan Monogatari Oishii Sweet wo Tsukurou! | 136878 | [136878-cake-yasan-monogatari-oishii-sweet-wo-tsukurou.json](./136878-cake-yasan-monogatari-oishii-sweet-wo-tsukurou.json) |
 | Cake4D | 215297 | [215297-cake4d.json](./215297-cake4d.json) |
@@ -1935,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybara Spa | 186141 | [186141-capybara-spa.json](./186141-capybara-spa.json) |
 | Capybara Village | 369231 | [369231-capybara-village.json](./369231-capybara-village.json) |
 | Capybara Zen | 403345 | [403345-capybara-zen.json](./403345-capybara-zen.json) |
+| Capybara: The Great Journey | 402676 | [402676-capybara-the-great-journey.json](./402676-capybara-the-great-journey.json) |
 | Capybara: The Story of Sisyphus | 291546 | [291546-capybara-the-story-of-sisyphus.json](./291546-capybara-the-story-of-sisyphus.json) |
 | Capybara: The Story of Sisyphus - Extra Content | 335467 | [335467-capybara-the-story-of-sisyphus-extra-content.json](./335467-capybara-the-story-of-sisyphus-extra-content.json) |
 | Capybara's Happytime | 346215 | [346215-capybaras-happytime.json](./346215-capybaras-happytime.json) |
@@ -11375,6 +11377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color-A-Cube: Scifi Pack #1 | 371290 | [371290-color-a-cube-scifi-pack-1.json](./371290-color-a-cube-scifi-pack-1.json) |
 | Color-A-Cube: Scifi Pack #2 | 371291 | [371291-color-a-cube-scifi-pack-2.json](./371291-color-a-cube-scifi-pack-2.json) |
 | Color.Motif Deluxe | 126198 | [126198-color-motif-deluxe.json](./126198-color-motif-deluxe.json) |
+| Colorace | 402659 | [402659-colorace.json](./402659-colorace.json) |
 | Colorado | 10851 | [10851-colorado.json](./10851-colorado.json) |
 | Colorado Rail Game | 390682 | [390682-colorado-rail-game.json](./390682-colorado-rail-game.json) |
 | Colorama Cubes | 308302 | [308302-colorama-cubes.json](./308302-colorama-cubes.json) |
@@ -12502,6 +12505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concourse X-Ray | 179172 | [179172-concourse-x-ray.json](./179172-concourse-x-ray.json) |
 | ConcPerfect 2017 | 90657 | [90657-concperfect-2017.json](./90657-concperfect-2017.json) |
 | Concrete | 312181 | [312181-concrete.json](./312181-concrete.json) |
+| Concrete Abyss | 402648 | [402648-concrete-abyss.json](./402648-concrete-abyss.json) |
 | Concrete and Steel | 33460 | [33460-concrete-and-steel.json](./33460-concrete-and-steel.json) |
 | Concrete Burial | 414555 | [414555-concrete-burial.json](./414555-concrete-burial.json) |
 | Concrete Crown | 198039 | [198039-concrete-crown.json](./198039-concrete-crown.json) |
@@ -13823,6 +13827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cornucopia | 237054 | [237054-cornucopia.json](./237054-cornucopia.json) |
 | Cornucopia of Kaizo | 330124 | [330124-cornucopia-of-kaizo.json](./330124-cornucopia-of-kaizo.json) |
 | Corny Crush | 210691 | [210691-corny-crush.json](./210691-corny-crush.json) |
+| Corocoro Friends | 402650 | [402650-corocoro-friends.json](./402650-corocoro-friends.json) |
 | Coromon: Rogue Planet | 315506 | [315506-coromon-rogue-planet.json](./315506-coromon-rogue-planet.json) |
 | Coron Land | 38199 | [38199-coron-land.json](./38199-coron-land.json) |
 | Corona Blossom Vol.1 Gift From the Galaxy | 32228 | [32228-corona-blossom-vol-1-gift-from-the-galaxy.json](./32228-corona-blossom-vol-1-gift-from-the-galaxy.json) |
