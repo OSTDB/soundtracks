@@ -13771,6 +13771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArvusForge | 390724 | [390724-arvusforge.json](./390724-arvusforge.json) |
 | Arwinia | 141074 | [141074-arwinia.json](./141074-arwinia.json) |
 | Arx Fatalis | 602 | [602-arx-fatalis.json](./602-arx-fatalis.json) |
+| Arx Libertatis | 424620 | [424620-arx-libertatis.json](./424620-arx-libertatis.json) |
 | Arx Temporis | 417946 | [417946-arx-temporis.json](./417946-arx-temporis.json) |
 | Arx, After the Reckoning | 228694 | [228694-arx-after-the-reckoning.json](./228694-arx-after-the-reckoning.json) |
 | Arx: End of Sun | 386114 | [386114-arx-end-of-sun.json](./386114-arx-end-of-sun.json) |
@@ -15563,6 +15564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athelan Battlegrounds | 377989 | [377989-athelan-battlegrounds.json](./377989-athelan-battlegrounds.json) |
 | Athena | 273078 | [273078-athena.json](./273078-athena.json) |
 | Athena | 9052 | [9052-athena.json](./9052-athena.json) |
+| Athena Adventure | 424600 | [424600-athena-adventure.json](./424600-athena-adventure.json) |
 | Athena Code | 370262 | [370262-athena-code.json](./370262-athena-code.json) |
 | Athena Crisis | 252072 | [252072-athena-crisis.json](./252072-athena-crisis.json) |
 | Athena Cykes: Ace Attorney - Dark Ace Saga | 308427 | [308427-athena-cykes-ace-attorney-dark-ace-saga.json](./308427-athena-cykes-ace-attorney-dark-ace-saga.json) |
