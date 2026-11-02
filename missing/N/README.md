@@ -248,6 +248,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Museum 50th Anniversary | 202112 | [202112-namco-museum-50th-anniversary.json](./202112-namco-museum-50th-anniversary.json) |
 | Namco Museum 50th Anniversary | 9889 | [9889-namco-museum-50th-anniversary.json](./9889-namco-museum-50th-anniversary.json) |
 | Namco Museum 64 | 47678 | [47678-namco-museum-64.json](./47678-namco-museum-64.json) |
+| Namco Museum Archives Volume 1 | 135173 | [135173-namco-museum-archives-volume-1.json](./135173-namco-museum-archives-volume-1.json) |
+| Namco Museum Archives Volume 2 | 135174 | [135174-namco-museum-archives-volume-2.json](./135174-namco-museum-archives-volume-2.json) |
 | Namco Museum Battle Collection | 46000 | [46000-namco-museum-battle-collection.json](./46000-namco-museum-battle-collection.json) |
 | Namco Museum Collection 1 | 130689 | [130689-namco-museum-collection-1.json](./130689-namco-museum-collection-1.json) |
 | Namco Museum Collection 2 | 130690 | [130690-namco-museum-collection-2.json](./130690-namco-museum-collection-2.json) |
