@@ -1975,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viki Spotter: School | 89609 | [89609-viki-spotter-school.json](./89609-viki-spotter-school.json) |
 | Viki Spotter: Space Mission | 97116 | [97116-viki-spotter-space-mission.json](./97116-viki-spotter-space-mission.json) |
 | Viki Spotter: Sports | 99088 | [99088-viki-spotter-sports.json](./99088-viki-spotter-sports.json) |
+| Viki Spotter: The Farm | 83539 | [83539-viki-spotter-the-farm.json](./83539-viki-spotter-the-farm.json) |
 | Viki Spotter: Zoo | 107511 | [107511-viki-spotter-zoo.json](./107511-viki-spotter-zoo.json) |
 | Vikindor | 207305 | [207305-vikindor.json](./207305-vikindor.json) |
 | Viking | 41184 | [41184-viking.json](./41184-viking.json) |
@@ -2997,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void | 252369 | [252369-void.json](./252369-void.json) |
 | Void | 31994 | [31994-void.json](./31994-void.json) |
 | Void | 344436 | [344436-void.json](./344436-void.json) |
+| Void | 84103 | [84103-void.json](./84103-void.json) |
 | Void & Nothingness | 30762 | [30762-void-and-nothingness.json](./30762-void-and-nothingness.json) |
 | Void and Meddler | 25941 | [25941-void-and-meddler.json](./25941-void-and-meddler.json) |
 | Void And Rainbow | 256875 | [256875-void-and-rainbow.json](./256875-void-and-rainbow.json) |
