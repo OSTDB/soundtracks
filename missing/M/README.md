@@ -8712,6 +8712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Mayor | 212482 | [212482-merge-mayor.json](./212482-merge-mayor.json) |
 | Merge Me! | 234534 | [234534-merge-me.json](./234534-merge-me.json) |
 | Merge Meadow! | 108483 | [108483-merge-meadow.json](./108483-merge-meadow.json) |
+| Merge Mega Bundle | 75867 | [75867-merge-mega-bundle.json](./75867-merge-mega-bundle.json) |
 | Merge Mend | 320293 | [320293-merge-mend.json](./320293-merge-mend.json) |
 | Merge Mermaids | 228139 | [228139-merge-mermaids.json](./228139-merge-mermaids.json) |
 | Merge Military | 208970 | [208970-merge-military.json](./208970-merge-military.json) |
@@ -10927,6 +10928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilkwaySubway | 285323 | [285323-milkwaysubway.json](./285323-milkwaysubway.json) |
 | Milky Bear Rescue Rocket | 221971 | [221971-milky-bear-rescue-rocket.json](./221971-milky-bear-rescue-rocket.json) |
 | Milky Bear: Lunch Frenzy | 250296 | [250296-milky-bear-lunch-frenzy.json](./250296-milky-bear-lunch-frenzy.json) |
+| Milky Boobs | 75923 | [75923-milky-boobs.json](./75923-milky-boobs.json) |
 | Milky Princess | 83199 | [83199-milky-princess.json](./83199-milky-princess.json) |
 | Milky Quest II | 232654 | [232654-milky-quest-ii.json](./232654-milky-quest-ii.json) |
 | Milky Season | 166582 | [166582-milky-season.json](./166582-milky-season.json) |
@@ -13580,6 +13582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modercai Bowling | 321235 | [321235-modercai-bowling.json](./321235-modercai-bowling.json) |
 | Moderium | 127214 | [127214-moderium.json](./127214-moderium.json) |
 | Modern Air Combat: Beyond Visual Range | 264797 | [264797-modern-air-combat-beyond-visual-range.json](./264797-modern-air-combat-beyond-visual-range.json) |
+| Modern Air Power | 59315 | [59315-modern-air-power.json](./59315-modern-air-power.json) |
 | Modern and Retro Bundle | 331538 | [331538-modern-and-retro-bundle.json](./331538-modern-and-retro-bundle.json) |
 | Modern Arena | 394359 | [394359-modern-arena.json](./394359-modern-arena.json) |
 | Modern Assault Tanks | 155026 | [155026-modern-assault-tanks.json](./155026-modern-assault-tanks.json) |
@@ -20107,6 +20110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Mystery, EP 1: The Duo Dilemma | 293486 | [293486-mysterious-mystery-ep-1-the-duo-dilemma.json](./293486-mysterious-mystery-ep-1-the-duo-dilemma.json) |
 | Mysterious Place | 254282 | [254282-mysterious-place.json](./254282-mysterious-place.json) |
 | Mysterious Puzzles Collection: Nemezis, Schizm, Reah | 159686 | [159686-mysterious-puzzles-collection-nemezis-schizm-reah.json](./159686-mysterious-puzzles-collection-nemezis-schizm-reah.json) |
+| Mysterious Realms RPG | 75911 | [75911-mysterious-realms-rpg.json](./75911-mysterious-realms-rpg.json) |
 | Mysterious Retro Games Bundle | 231076 | [231076-mysterious-retro-games-bundle.json](./231076-mysterious-retro-games-bundle.json) |
 | Mysterious School | 212812 | [212812-mysterious-school.json](./212812-mysterious-school.json) |
 | Mysterious Science | 90520 | [90520-mysterious-science.json](./90520-mysterious-science.json) |
