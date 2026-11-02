@@ -9795,6 +9795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shots Golf 2 | 36558 | [36558-hot-shots-golf-2.json](./36558-hot-shots-golf-2.json) |
 | Hot Shots Golf 3 | 23459 | [23459-hot-shots-golf-3.json](./23459-hot-shots-golf-3.json) |
 | Hot Shots Golf Fore! | 204439 | [204439-hot-shots-golf-fore.json](./204439-hot-shots-golf-fore.json) |
+| Hot Shots Golf: Open Tee | 22453 | [22453-hot-shots-golf-open-tee.json](./22453-hot-shots-golf-open-tee.json) |
 | Hot Shots Golf: Open Tee 2 | 21050 | [21050-hot-shots-golf-open-tee-2.json](./21050-hot-shots-golf-open-tee-2.json) |
 | Hot Shots Golf: Out of Bounds | 154692 | [154692-hot-shots-golf-out-of-bounds.json](./154692-hot-shots-golf-out-of-bounds.json) |
 | Hot Shots Golf: Out of Bounds Complete Collection | 99965 | [99965-hot-shots-golf-out-of-bounds-complete-collection.json](./99965-hot-shots-golf-out-of-bounds-complete-collection.json) |
