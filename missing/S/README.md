@@ -5708,6 +5708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seventh Angel | 189129 | [189129-seventh-angel.json](./189129-seventh-angel.json) |
 | Seventh Cavalry | 60220 | [60220-seventh-cavalry.json](./60220-seventh-cavalry.json) |
 | Seventh Choir | 337713 | [337713-seventh-choir.json](./337713-seventh-choir.json) |
+| Seventh Circle | 107625 | [107625-seventh-circle.json](./107625-seventh-circle.json) |
 | Seventh Cross Evolution | 45788 | [45788-seventh-cross-evolution.json](./45788-seventh-cross-evolution.json) |
 | Seventh Lair | 194970 | [194970-seventh-lair.json](./194970-seventh-lair.json) |
 | Seventh Rebirth | 25103 | [25103-seventh-rebirth.json](./25103-seventh-rebirth.json) |
@@ -9686,6 +9687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Crossing | 25868 | [25868-silent-crossing.json](./25868-silent-crossing.json) |
 | Silent Debuggers | 44343 | [44343-silent-debuggers.json](./44343-silent-debuggers.json) |
 | Silent Depth 2: Pacific | 272932 | [272932-silent-depth-2-pacific.json](./272932-silent-depth-2-pacific.json) |
+| Silent Depth 3D Submarine Simulation | 107718 | [107718-silent-depth-3d-submarine-simulation.json](./107718-silent-depth-3d-submarine-simulation.json) |
 | Silent Depth Submarine Sim | 106835 | [106835-silent-depth-submarine-sim.json](./106835-silent-depth-submarine-sim.json) |
 | Silent Depth Submarine Simulator | 179471 | [179471-silent-depth-submarine-simulator.json](./179471-silent-depth-submarine-simulator.json) |
 | Silent Descent | 75182 | [75182-silent-descent.json](./75182-silent-descent.json) |
@@ -11153,6 +11155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skator Gator | 139871 | [139871-skator-gator.json](./139871-skator-gator.json) |
 | Skator Gator 3D | 217239 | [217239-skator-gator-3d.json](./217239-skator-gator-3d.json) |
 | Skattered Dream | 171305 | [171305-skattered-dream.json](./171305-skattered-dream.json) |
+| Skautfold: Into the Fray | 107925 | [107925-skautfold-into-the-fray.json](./107925-skautfold-into-the-fray.json) |
 | Skautfold: Knight's End | 181058 | [181058-skautfold-knights-end.json](./181058-skautfold-knights-end.json) |
 | Skautfold: Moonless Knight | 152142 | [152142-skautfold-moonless-knight.json](./152142-skautfold-moonless-knight.json) |
 | Skautfold: Shrouded in Sanity | 19481 | [19481-skautfold-shrouded-in-sanity.json](./19481-skautfold-shrouded-in-sanity.json) |
@@ -19945,6 +19948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellPunk VR | 132543 | [132543-spellpunk-vr.json](./132543-spellpunk-vr.json) |
 | Spellrazor | 177340 | [177340-spellrazor.json](./177340-spellrazor.json) |
 | SpellRogue: Supporter Pack | 310094 | [310094-spellrogue-supporter-pack.json](./310094-spellrogue-supporter-pack.json) |
+| Spellrune: Realm of Portals | 107697 | [107697-spellrune-realm-of-portals.json](./107697-spellrune-realm-of-portals.json) |
 | Spells & Secrets | 198494 | [198494-spells-and-secrets.json](./198494-spells-and-secrets.json) |
 | Spells & Secrets + Stranded Sails | 336047 | [336047-spells-and-secrets-stranded-sails.json](./336047-spells-and-secrets-stranded-sails.json) |
 | Spells and Fellas | 223049 | [223049-spells-and-fellas.json](./223049-spells-and-fellas.json) |
