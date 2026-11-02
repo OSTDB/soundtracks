@@ -2833,6 +2833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In-Flight Trivia Tournament | 238867 | [238867-in-flight-trivia-tournament.json](./238867-in-flight-trivia-tournament.json) |
 | In-Sanity | 276648 | [276648-in-sanity.json](./276648-in-sanity.json) |
 | In-Terror-Gation | 280960 | [280960-in-terror-gation.json](./280960-in-terror-gation.json) |
+| In:Dark Recall | 401591 | [401591-in-dark-recall.json](./401591-in-dark-recall.json) |
 | In.My.Mind | 115986 | [115986-in-my-mind.json](./115986-in-my-mind.json) |
 | In'ernus | 370263 | [370263-inernus.json](./370263-inernus.json) |
 | Ina Koi! Oinari-sama to Motemote no Tatari | 68120 | [68120-ina-koi-oinari-sama-to-motemote-no-tatari.json](./68120-ina-koi-oinari-sama-to-motemote-no-tatari.json) |
