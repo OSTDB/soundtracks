@@ -1949,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yusetsu | 211178 | [211178-yusetsu.json](./211178-yusetsu.json) |
 | Yusha no Hanamichi | 331863 | [331863-yusha-no-hanamichi.json](./331863-yusha-no-hanamichi.json) |
 | Yusha: Heaven's Gate | 44868 | [44868-yusha-heavens-gate.json](./44868-yusha-heavens-gate.json) |
+| Yuso | 104233 | [104233-yuso.json](./104233-yuso.json) |
 | Yut Yut | 120601 | [120601-yut-yut.json](./120601-yut-yut.json) |
 | Yuu Maze | 41307 | [41307-yuu-maze.json](./41307-yuu-maze.json) |
 | Yuu Yuu Jinsei | 37649 | [37649-yuu-yuu-jinsei.json](./37649-yuu-yuu-jinsei.json) |
