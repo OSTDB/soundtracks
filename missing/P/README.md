@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Battle Royale | 66485 | [66485-pac-man-battle-royale.json](./66485-pac-man-battle-royale.json) |
 | Pac-Man Battle Royale Chompionship | 327012 | [327012-pac-man-battle-royale-chompionship.json](./327012-pac-man-battle-royale-chompionship.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
+| Pac-Man Championship Edition 2 Plus | 85323 | [85323-pac-man-championship-edition-2-plus.json](./85323-pac-man-championship-edition-2-plus.json) |
 | Pac-Man Collection | 308389 | [308389-pac-man-collection.json](./308389-pac-man-collection.json) |
 | Pac-Man Collection | 6528 | [6528-pac-man-collection.json](./6528-pac-man-collection.json) |
 | Pac-Man Collection | 80452 | [80452-pac-man-collection.json](./80452-pac-man-collection.json) |
@@ -9947,6 +9948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokéClicker | 191508 | [191508-pokeclicker.json](./191508-pokeclicker.json) |
 | Pokecolo | 269069 | [269069-pokecolo.json](./269069-pokecolo.json) |
 | Poked | 76965 | [76965-poked.json](./76965-poked.json) |
+| Pokédex 3D | 85591 | [85591-pokedex-3d.json](./85591-pokedex-3d.json) |
 | Pokédex 3D Pro | 21700 | [21700-pokedex-3d-pro.json](./21700-pokedex-3d-pro.json) |
 | Pokédex for iOS | 64282 | [64282-pokedex-for-ios.json](./64282-pokedex-for-ios.json) |
 | Pokedex-Accurate Dual-Type Pokemon Personality Test | 376193 | [376193-pokedex-accurate-dual-type-pokemon-personality-test.json](./376193-pokedex-accurate-dual-type-pokemon-personality-test.json) |
@@ -14024,6 +14026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2016: 20th Anniversary Edition | 136036 | [136036-pro-evolution-soccer-2016-20th-anniversary-edition.json](./136036-pro-evolution-soccer-2016-20th-anniversary-edition.json) |
 | Pro Evolution Soccer 2017 | 22753 | [22753-pro-evolution-soccer-2017.json](./22753-pro-evolution-soccer-2017.json) |
 | Pro Evolution Soccer 2017 | 240468 | [240468-pro-evolution-soccer-2017.json](./240468-pro-evolution-soccer-2017.json) |
+| Pro Evolution Soccer 2017: Trial Edition | 82429 | [82429-pro-evolution-soccer-2017-trial-edition.json](./82429-pro-evolution-soccer-2017-trial-edition.json) |
 | Pro Evolution Soccer 2018 | 28862 | [28862-pro-evolution-soccer-2018.json](./28862-pro-evolution-soccer-2018.json) |
 | Pro Evolution Soccer 2018 Lite | 86384 | [86384-pro-evolution-soccer-2018-lite.json](./86384-pro-evolution-soccer-2018-lite.json) |
 | Pro Evolution Soccer 2018: Legendary Edition | 166997 | [166997-pro-evolution-soccer-2018-legendary-edition.json](./166997-pro-evolution-soccer-2018-legendary-edition.json) |
