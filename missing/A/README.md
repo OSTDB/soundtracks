@@ -3764,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aesthetic Melody: Digital Deluxe Edition | 52575 | [52575-aesthetic-melody-digital-deluxe-edition.json](./52575-aesthetic-melody-digital-deluxe-edition.json) |
 | Aesthetic World | 107481 | [107481-aesthetic-world.json](./107481-aesthetic-world.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
+| Aeterna Noctis | 144380 | [144380-aeterna-noctis.json](./144380-aeterna-noctis.json) |
 | Aeterna Noctis: Virtuoso | 270860 | [270860-aeterna-noctis-virtuoso.json](./270860-aeterna-noctis-virtuoso.json) |
 | Aeterna: Curse of The First King | 424050 | [424050-aeterna-curse-of-the-first-king.json](./424050-aeterna-curse-of-the-first-king.json) |
 | Aeterna: Rubra Plena | 233579 | [233579-aeterna-rubra-plena.json](./233579-aeterna-rubra-plena.json) |
@@ -4144,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Again: Loop | 404168 | [404168-again-loop.json](./404168-again-loop.json) |
 | Again? | 106503 | [106503-again.json](./106503-again.json) |
 | Against | 152211 | [152211-against.json](./152211-against.json) |
+| Against All Odds | 144690 | [144690-against-all-odds.json](./144690-against-all-odds.json) |
 | Against All Odds | 174102 | [174102-against-all-odds.json](./174102-against-all-odds.json) |
 | Against All Odds | 219971 | [219971-against-all-odds.json](./219971-against-all-odds.json) |
 | Against All Odds | 228719 | [228719-against-all-odds.json](./228719-against-all-odds.json) |
@@ -5089,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Wings Intergalactic | 237583 | [237583-air-wings-intergalactic.json](./237583-air-wings-intergalactic.json) |
 | Air Zonk | 42129 | [42129-air-zonk.json](./42129-air-zonk.json) |
 | Air-Sea Battle | 11859 | [11859-air-sea-battle.json](./11859-air-sea-battle.json) |
+| Air/Sea Attack | 68560 | [68560-air-sea-attack.json](./68560-air-sea-attack.json) |
 | Air&Hook | 372643 | [372643-air-and-hook.json](./372643-air-and-hook.json) |
 | Aira VR | 113673 | [113673-aira-vr.json](./113673-aira-vr.json) |
 | AiRace | 67079 | [67079-airace.json](./67079-airace.json) |
@@ -5822,6 +5825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy of the Earth | 288750 | [288750-alchemy-of-the-earth.json](./288750-alchemy-of-the-earth.json) |
 | Alchemy Pipes Puzzle | 297727 | [297727-alchemy-pipes-puzzle.json](./297727-alchemy-pipes-puzzle.json) |
 | Alchemy Quest | 135904 | [135904-alchemy-quest.json](./135904-alchemy-quest.json) |
+| Alchemy Stars | 144849 | [144849-alchemy-stars.json](./144849-alchemy-stars.json) |
 | Alchemy Story | 116544 | [116544-alchemy-story.json](./116544-alchemy-story.json) |
 | Alchemy Unbound | 293084 | [293084-alchemy-unbound.json](./293084-alchemy-unbound.json) |
 | Alchemy: Origins - Food I | 316218 | [316218-alchemy-origins-food-i.json](./316218-alchemy-origins-food-i.json) |
