@@ -3277,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infamous Collection | 23828 | [23828-infamous-collection.json](./23828-infamous-collection.json) |
 | Infamous Keepers | 398591 | [398591-infamous-keepers.json](./398591-infamous-keepers.json) |
 | Infamous Machine | 99896 | [99896-infamous-machine.json](./99896-infamous-machine.json) |
+| Infamous PC | 424593 | [424593-infamous-pc.json](./424593-infamous-pc.json) |
 | Infamous Second Son - Special Edition | 89873 | [89873-infamous-second-son-special-edition.json](./89873-infamous-second-son-special-edition.json) |
 | Infamous: Festival of Blood | 7850 | [7850-infamous-festival-of-blood.json](./7850-infamous-festival-of-blood.json) |
 | Infamous: Precinct Assault | 374313 | [374313-infamous-precinct-assault.json](./374313-infamous-precinct-assault.json) |
@@ -3942,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InkBall | 66582 | [66582-inkball.json](./66582-inkball.json) |
 | Inkball adventures | 130148 | [130148-inkball-adventures.json](./130148-inkball-adventures.json) |
 | Inkblood | 380440 | [380440-inkblood.json](./380440-inkblood.json) |
+| Inkborn | 424638 | [424638-inkborn.json](./424638-inkborn.json) |
 | Inkbound | 205955 | [205955-inkbound.json](./205955-inkbound.json) |
 | Inkbound: Supporter Pack - The Starship of Terrors | 272968 | [272968-inkbound-supporter-pack-the-starship-of-terrors.json](./272968-inkbound-supporter-pack-the-starship-of-terrors.json) |
 | Inkbowser.exe | 283097 | [283097-inkbowser-exe.json](./283097-inkbowser-exe.json) |
