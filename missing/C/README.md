@@ -5266,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chameleon Dummy Hunt | 411812 | [411812-chameleon-dummy-hunt.json](./411812-chameleon-dummy-hunt.json) |
 | Chameleon Gems | 92483 | [92483-chameleon-gems.json](./92483-chameleon-gems.json) |
 | Chameleon Run | 58656 | [58656-chameleon-run.json](./58656-chameleon-run.json) |
+| Chameleon Run: Deluxe Edition | 103198 | [103198-chameleon-run-deluxe-edition.json](./103198-chameleon-run-deluxe-edition.json) |
 | Chameleon Run+ | 174202 | [174202-chameleon-run.json](./174202-chameleon-run.json) |
 | Chameleon Twist | 3427 | [3427-chameleon-twist.json](./3427-chameleon-twist.json) |
 | Chameleon Twist | 366631 | [366631-chameleon-twist.json](./366631-chameleon-twist.json) |
@@ -8581,6 +8582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Eater | 206421 | [206421-city-eater.json](./206421-city-eater.json) |
 | City Explorer: Seattle | 88166 | [88166-city-explorer-seattle.json](./88166-city-explorer-seattle.json) |
 | City Extreme Driving Collection | 328538 | [328538-city-extreme-driving-collection.json](./328538-city-extreme-driving-collection.json) |
+| City Eye | 87967 | [87967-city-eye.json](./87967-city-eye.json) |
 | City Fascination | 405739 | [405739-city-fascination.json](./405739-city-fascination.json) |
 | City Fighter | 59641 | [59641-city-fighter.json](./59641-city-fighter.json) |
 | City Fighter vs Street Gang | 220188 | [220188-city-fighter-vs-street-gang.json](./220188-city-fighter-vs-street-gang.json) |
