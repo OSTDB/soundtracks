@@ -10346,6 +10346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hovertank 3D | 18994 | [18994-hovertank-3d.json](./18994-hovertank-3d.json) |
 | Hovertron | 387349 | [387349-hovertron.json](./387349-hovertron.json) |
 | HOVR | 32066 | [32066-hovr.json](./32066-hovr.json) |
+| HoVRboard | 119472 | [119472-hovrboard.json](./119472-hovrboard.json) |
 | How | 241652 | [241652-how.json](./241652-how.json) |
 | How 2 Dreams | 224118 | [224118-how-2-dreams.json](./224118-how-2-dreams.json) |
 | How 2 Escape Collection | 351230 | [351230-how-2-escape-collection.json](./351230-how-2-escape-collection.json) |
