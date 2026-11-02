@@ -2420,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Parkour | 154919 | [154919-neon-parkour.json](./154919-neon-parkour.json) |
 | Neon Parkour 2 | 253614 | [253614-neon-parkour-2.json](./253614-neon-parkour-2.json) |
 | Neon Phase | 56950 | [56950-neon-phase.json](./56950-neon-phase.json) |
+| Neon Planet | 407055 | [407055-neon-planet.json](./407055-neon-planet.json) |
 | Neon Prism | 30501 | [30501-neon-prism.json](./30501-neon-prism.json) |
 | Neon Puzzle Ball | 304425 | [304425-neon-puzzle-ball.json](./304425-neon-puzzle-ball.json) |
 | Neon Race | 182946 | [182946-neon-race.json](./182946-neon-race.json) |
@@ -5198,7 +5199,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nippon Dojo | 351593 | [351593-nippon-dojo.json](./351593-nippon-dojo.json) |
 | Nippon Futsal League Kounin: Minna no DS Futsal | 64263 | [64263-nippon-futsal-league-kounin-minna-no-ds-futsal.json](./64263-nippon-futsal-league-kounin-minna-no-ds-futsal.json) |
 | Nippon Ichi no Meikantoku | 48803 | [48803-nippon-ichi-no-meikantoku.json](./48803-nippon-ichi-no-meikantoku.json) |
-| Nippon Marathon | 87673 | [87673-nippon-marathon.json](./87673-nippon-marathon.json) |
 | Nippon Marathon 2: Daijoubu | 326644 | [326644-nippon-marathon-2-daijoubu.json](./326644-nippon-marathon-2-daijoubu.json) |
 | Nippon no Asoko de | 269518 | [269518-nippon-no-asoko-de.json](./269518-nippon-no-asoko-de.json) |
 | Nippon Pro Mahjong Renmei Kounin: Tetsuman Advance ~Menkyo Kaiden Series~ | 49748 | [49748-nippon-pro-mahjong-renmei-kounin-tetsuman-advance-menkyo-kaiden-series.json](./49748-nippon-pro-mahjong-renmei-kounin-tetsuman-advance-menkyo-kaiden-series.json) |
