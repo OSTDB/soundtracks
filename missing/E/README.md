@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eelah | 190893 | [190893-eelah.json](./190893-eelah.json) |
 | Een Wonderlijk Avontuur met Pardoes de Tovernar | 242643 | [242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json](./242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json) |
 | EeOneGuy Adventure | 32637 | [32637-eeoneguy-adventure.json](./32637-eeoneguy-adventure.json) |
+| EEP 12 | 405305 | [405305-eep-12.json](./405305-eep-12.json) |
 | EEP 14 | 100658 | [100658-eep-14.json](./100658-eep-14.json) |
 | EEP 15 | 112615 | [112615-eep-15.json](./112615-eep-15.json) |
 | EEP 17 | 193588 | [193588-eep-17.json](./193588-eep-17.json) |
@@ -2622,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elude | 152474 | [152474-elude.json](./152474-elude.json) |
 | Elude | 93802 | [93802-elude.json](./93802-elude.json) |
 | Elumin | 295811 | [295811-elumin.json](./295811-elumin.json) |
+| Eluminage Original | 405267 | [405267-eluminage-original.json](./405267-eluminage-original.json) |
 | Elumiqs | 107540 | [107540-elumiqs.json](./107540-elumiqs.json) |
 | Elune | 125832 | [125832-elune.json](./125832-elune.json) |
 | Elusive | 336540 | [336540-elusive.json](./336540-elusive.json) |
@@ -7400,6 +7402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expedition | 110612 | [110612-expedition.json](./110612-expedition.json) |
 | Expedition | 141078 | [141078-expedition.json](./141078-expedition.json) |
 | Expedition | 146495 | [146495-expedition.json](./146495-expedition.json) |
+| Expedition 13 | 405306 | [405306-expedition-13.json](./405306-expedition-13.json) |
 | Expedition Agartha: Supporter Pack | 241987 | [241987-expedition-agartha-supporter-pack.json](./241987-expedition-agartha-supporter-pack.json) |
 | Expedition Amazon | 23898 | [23898-expedition-amazon.json](./23898-expedition-amazon.json) |
 | Expedition Astra | 288777 | [288777-expedition-astra.json](./288777-expedition-astra.json) |
@@ -7871,6 +7874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeRoll | 153321 | [153321-eyeroll.json](./153321-eyeroll.json) |
 | Eyeron Defender | 56856 | [56856-eyeron-defender.json](./56856-eyeron-defender.json) |
 | Eyes | 299142 | [299142-eyes.json](./299142-eyes.json) |
+| Eyes | 405266 | [405266-eyes.json](./405266-eyes.json) |
 | Eyes & Ears | 393258 | [393258-eyes-and-ears.json](./393258-eyes-and-ears.json) |
 | Eyes Behind | 351257 | [351257-eyes-behind.json](./351257-eyes-behind.json) |
 | Eyes Behind 2 | 422491 | [422491-eyes-behind-2.json](./422491-eyes-behind-2.json) |
