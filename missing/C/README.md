@@ -7148,6 +7148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate Factory | 301790 | [301790-chocolate-factory.json](./301790-chocolate-factory.json) |
 | Chocolate Factory Simulator | 293131 | [293131-chocolate-factory-simulator.json](./293131-chocolate-factory-simulator.json) |
 | Chocolate Kiss | 263115 | [263115-chocolate-kiss.json](./263115-chocolate-kiss.json) |
+| Chocolate makes you happy | 75785 | [75785-chocolate-makes-you-happy.json](./75785-chocolate-makes-you-happy.json) |
 | Chocolate makes you happy 3 | 84074 | [84074-chocolate-makes-you-happy-3.json](./84074-chocolate-makes-you-happy-3.json) |
 | Chocolate makes you happy 4 | 89935 | [89935-chocolate-makes-you-happy-4.json](./89935-chocolate-makes-you-happy-4.json) |
 | Chocolate makes you happy 5 | 99433 | [99433-chocolate-makes-you-happy-5.json](./99433-chocolate-makes-you-happy-5.json) |
@@ -8490,6 +8491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Piano Tunes Radio | 257084 | [257084-cities-skylines-piano-tunes-radio.json](./257084-cities-skylines-piano-tunes-radio.json) |
 | Cities: Skylines - Platinum Edition | 136082 | [136082-cities-skylines-platinum-edition.json](./136082-cities-skylines-platinum-edition.json) |
 | Cities: Skylines - PlayStation 4 Edition | 94074 | [94074-cities-skylines-playstation-4-edition.json](./94074-cities-skylines-playstation-4-edition.json) |
+| Cities: Skylines - Premium Edition | 75870 | [75870-cities-skylines-premium-edition.json](./75870-cities-skylines-premium-edition.json) |
 | Cities: Skylines - Premium Edition 2 | 119080 | [119080-cities-skylines-premium-edition-2.json](./119080-cities-skylines-premium-edition-2.json) |
 | Cities: Skylines - Race Day | 393462 | [393462-cities-skylines-race-day.json](./393462-cities-skylines-race-day.json) |
 | Cities: Skylines - Rail Hawk Radio | 149991 | [149991-cities-skylines-rail-hawk-radio.json](./149991-cities-skylines-rail-hawk-radio.json) |
