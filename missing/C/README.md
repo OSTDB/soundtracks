@@ -6910,6 +6910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | China: Mao's legacy | 116880 | [116880-china-maos-legacy.json](./116880-china-maos-legacy.json) |
 | China: Mao's legacy - Bombard the Headquarters | 227715 | [227715-china-maos-legacy-bombard-the-headquarters.json](./227715-china-maos-legacy-bombard-the-headquarters.json) |
 | China: Mao's Legacy - Ways of Life | 290840 | [290840-china-maos-legacy-ways-of-life.json](./290840-china-maos-legacy-ways-of-life.json) |
+| China: The Forbidden City | 69629 | [69629-china-the-forbidden-city.json](./69629-china-the-forbidden-city.json) |
 | Chinami Holic | 387661 | [387661-chinami-holic.json](./387661-chinami-holic.json) |
 | ChinanaGo! | 416732 | [416732-chinanago.json](./416732-chinanago.json) |
 | Chinatown | 272012 | [272012-chinatown.json](./272012-chinatown.json) |
@@ -8620,6 +8621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Elves | 223321 | [223321-city-of-elves.json](./223321-city-of-elves.json) |
 | City of Fools | 35520 | [35520-city-of-fools.json](./35520-city-of-fools.json) |
 | City of Forever 7 Days | 208204 | [208204-city-of-forever-7-days.json](./208204-city-of-forever-7-days.json) |
+| City of Gangsters | 144267 | [144267-city-of-gangsters.json](./144267-city-of-gangsters.json) |
 | City of Gangsters: Atlantic City | 186536 | [186536-city-of-gangsters-atlantic-city.json](./186536-city-of-gangsters-atlantic-city.json) |
 | City of Gangsters: Bourbon Bootlegging | 227404 | [227404-city-of-gangsters-bourbon-bootlegging.json](./227404-city-of-gangsters-bourbon-bootlegging.json) |
 | City of Gangsters: Criminal Record | 193747 | [193747-city-of-gangsters-criminal-record.json](./193747-city-of-gangsters-criminal-record.json) |
@@ -9485,6 +9487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Guardians | 237773 | [237773-clicker-guardians.json](./237773-clicker-guardians.json) |
 | Clicker Guild | 30457 | [30457-clicker-guild.json](./30457-clicker-guild.json) |
 | Clicker Heroes | 15563 | [15563-clicker-heroes.json](./15563-clicker-heroes.json) |
+| Clicker Heroes 2 | 68503 | [68503-clicker-heroes-2.json](./68503-clicker-heroes-2.json) |
 | Clicker Kids | 394068 | [394068-clicker-kids.json](./394068-clicker-kids.json) |
 | Clicker Kingdom | 348136 | [348136-clicker-kingdom.json](./348136-clicker-kingdom.json) |
 | Clicker Planet | 96422 | [96422-clicker-planet.json](./96422-clicker-planet.json) |
@@ -9875,6 +9878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudpaws | 403694 | [403694-cloudpaws.json](./403694-cloudpaws.json) |
 | Cloudphobia | 36194 | [36194-cloudphobia.json](./36194-cloudphobia.json) |
 | Cloudpunk | 111837 | [111837-cloudpunk.json](./111837-cloudpunk.json) |
+| Cloudpunk: City of Ghosts | 145294 | [145294-cloudpunk-city-of-ghosts.json](./145294-cloudpunk-city-of-ghosts.json) |
 | Cloudpunk: Ultimate Edition | 193737 | [193737-cloudpunk-ultimate-edition.json](./193737-cloudpunk-ultimate-edition.json) |
 | Clouds & Sheep | 255732 | [255732-clouds-and-sheep.json](./255732-clouds-and-sheep.json) |
 | Clouds Ahoy! | 235863 | [235863-clouds-ahoy.json](./235863-clouds-ahoy.json) |
@@ -10200,6 +10204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra | 12945 | [12945-cobra.json](./12945-cobra.json) |
 | Cobra | 74748 | [74748-cobra.json](./74748-cobra.json) |
 | Cobra Command | 290272 | [290272-cobra-command.json](./290272-cobra-command.json) |
+| Cobra Command | 69496 | [69496-cobra-command.json](./69496-cobra-command.json) |
 | Cobra Force | 13500 | [13500-cobra-force.json](./13500-cobra-force.json) |
 | Cobra II | 71390 | [71390-cobra-ii.json](./71390-cobra-ii.json) |
 | Cobra Kai 2: Dojos Rising | 208711 | [208711-cobra-kai-2-dojos-rising.json](./208711-cobra-kai-2-dojos-rising.json) |
@@ -10639,6 +10644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Push RPG | 336010 | [336010-coin-push-rpg.json](./336010-coin-push-rpg.json) |
 | Coin Pusher Casino | 230196 | [230196-coin-pusher-casino.json](./230196-coin-pusher-casino.json) |
 | Coin Pusher Live | 280382 | [280382-coin-pusher-live.json](./280382-coin-pusher-live.json) |
+| Coin Pusher World | 150004 | [150004-coin-pusher-world.json](./150004-coin-pusher-world.json) |
 | Coin Pusher World: 2 Bed 4 Pusher World | 286144 | [286144-coin-pusher-world-2-bed-4-pusher-world.json](./286144-coin-pusher-world-2-bed-4-pusher-world.json) |
 | Coin Rush | 181054 | [181054-coin-rush.json](./181054-coin-rush.json) |
 | Coin Rush | 336594 | [336594-coin-rush.json](./336594-coin-rush.json) |
@@ -11971,6 +11977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander Keen in Keen Dreams: Definitive Edition | 146755 | [146755-commander-keen-in-keen-dreams-definitive-edition.json](./146755-commander-keen-in-keen-dreams-definitive-edition.json) |
 | Commander Keen: Battle of the Brains | 288347 | [288347-commander-keen-battle-of-the-brains.json](./288347-commander-keen-battle-of-the-brains.json) |
 | Commander Keen: Dead in the Desert | 288346 | [288346-commander-keen-dead-in-the-desert.json](./288346-commander-keen-dead-in-the-desert.json) |
+| Commander Keen: Goodbye Galaxy! | 143831 | [143831-commander-keen-goodbye-galaxy.json](./143831-commander-keen-goodbye-galaxy.json) |
 | Commander Keen: Invasion of the Vorticons | 71234 | [71234-commander-keen-invasion-of-the-vorticons.json](./71234-commander-keen-invasion-of-the-vorticons.json) |
 | Commander Keen: Keen Meets the Meats | 313968 | [313968-commander-keen-keen-meets-the-meats.json](./313968-commander-keen-keen-meets-the-meats.json) |
 | Commander Keen: The Keys of Krodacia | 288345 | [288345-commander-keen-the-keys-of-krodacia.json](./288345-commander-keen-the-keys-of-krodacia.json) |
@@ -13695,6 +13702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Party: Rebuilt | 151849 | [151849-corpse-party-rebuilt.json](./151849-corpse-party-rebuilt.json) |
 | Corpse Party: Sweet Sachiko's Hysteric Birthday Bash | 116560 | [116560-corpse-party-sweet-sachikos-hysteric-birthday-bash.json](./116560-corpse-party-sweet-sachikos-hysteric-birthday-bash.json) |
 | Corpse Reviver | 134865 | [134865-corpse-reviver.json](./134865-corpse-reviver.json) |
+| Corpse-Party | 148220 | [148220-corpse-party.json](./148220-corpse-party.json) |
 | Corpse-Party: if | 413925 | [413925-corpse-party-if.json](./413925-corpse-party-if.json) |
 | Corpse-Party: if - Past End | 135890 | [135890-corpse-party-if-past-end.json](./135890-corpse-party-if-past-end.json) |
 | Corpsefall | 167547 | [167547-corpsefall.json](./167547-corpsefall.json) |
