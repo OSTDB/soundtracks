@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SamuTale | 56897 | [56897-samutale.json](./56897-samutale.json) |
 | Samuza | 287215 | [287215-samuza.json](./287215-samuza.json) |
 | San Andreas Multiplayer | 199038 | [199038-san-andreas-multiplayer.json](./199038-san-andreas-multiplayer.json) |
+| San Bernardino | 414713 | [414713-san-bernardino.json](./414713-san-bernardino.json) |
 | San Camillo II | 108338 | [108338-san-camillo-ii.json](./108338-san-camillo-ii.json) |
 | San Diablos | 156995 | [156995-san-diablos.json](./156995-san-diablos.json) |
 | San Diego Zoo Presents: The Animals! | 283392 | [283392-san-diego-zoo-presents-the-animals.json](./283392-san-diego-zoo-presents-the-animals.json) |
@@ -4977,6 +4978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selfpolis | 217289 | [217289-selfpolis.json](./217289-selfpolis.json) |
 | Selfy Collection: The Dream Fashion Stylist! | 142039 | [142039-selfy-collection-the-dream-fashion-stylist.json](./142039-selfy-collection-the-dream-fashion-stylist.json) |
 | Selini | 159885 | [159885-selini.json](./159885-selini.json) |
+| Selkie's Salvage&Co. | 414745 | [414745-selkies-salvage-and-co.json](./414745-selkies-salvage-and-co.json) |
 | Selknam Defense | 10816 | [10816-selknam-defense.json](./10816-selknam-defense.json) |
 | Selkö | 229507 | [229507-selko.json](./229507-selko.json) |
 | Selling & Parking & Crash Simulator Bundle | 387414 | [387414-selling-and-parking-and-crash-simulator-bundle.json](./387414-selling-and-parking-and-crash-simulator-bundle.json) |
@@ -7389,6 +7391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelltopia | 330311 | [330311-shelltopia.json](./330311-shelltopia.json) |
 | Shelly Duvall's It's A Bird's Life | 38820 | [38820-shelly-duvalls-its-a-birds-life.json](./38820-shelly-duvalls-its-a-birds-life.json) |
 | Shelter | 7832 | [7832-shelter.json](./7832-shelter.json) |
+| Shelter 13 | 414733 | [414733-shelter-13.json](./414733-shelter-13.json) |
 | Shelter 2 | 11795 | [11795-shelter-2.json](./11795-shelter-2.json) |
 | Shelter 2 Mountains | 51910 | [51910-shelter-2-mountains.json](./51910-shelter-2-mountains.json) |
 | Shelter 2: Special Edition | 51911 | [51911-shelter-2-special-edition.json](./51911-shelter-2-special-edition.json) |
@@ -25577,6 +25580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StopSign | 167253 | [167253-stopsign.json](./167253-stopsign.json) |
 | StopTime Drive | 44226 | [44226-stoptime-drive.json](./44226-stoptime-drive.json) |
 | Storage 8 | 414485 | [414485-storage-8.json](./414485-storage-8.json) |
+| Storage 8 VR | 414746 | [414746-storage-8-vr.json](./414746-storage-8-vr.json) |
 | Storage Anomaly | 325821 | [325821-storage-anomaly.json](./325821-storage-anomaly.json) |
 | Storage Chase | 172914 | [172914-storage-chase.json](./172914-storage-chase.json) |
 | Storage Dealer Simulator | 270544 | [270544-storage-dealer-simulator.json](./270544-storage-dealer-simulator.json) |
@@ -27221,6 +27225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subbuteo | 21457 | [21457-subbuteo.json](./21457-subbuteo.json) |
 | Subconscious | 177386 | [177386-subconscious.json](./177386-subconscious.json) |
 | Subconsciousism | 396225 | [396225-subconsciousism.json](./396225-subconsciousism.json) |
+| Subcraft | 414718 | [414718-subcraft.json](./414718-subcraft.json) |
 | Subcrew | 247965 | [247965-subcrew.json](./247965-subcrew.json) |
 | Subcube | 126555 | [126555-subcube.json](./126555-subcube.json) |
 | SubDivide | 151410 | [151410-subdivide.json](./151410-subdivide.json) |
