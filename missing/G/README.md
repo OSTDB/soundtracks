@@ -5164,12 +5164,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Rescue | 238293 | [238293-go-rescue.json](./238293-go-rescue.json) |
 | Go Rocket | 153917 | [153917-go-rocket.json](./153917-go-rocket.json) |
 | GO Series: 10 Second Run | 80030 | [80030-go-series-10-second-run.json](./80030-go-series-10-second-run.json) |
+| GO Series: Captain Sub | 84547 | [84547-go-series-captain-sub.json](./84547-go-series-captain-sub.json) |
 | GO Series: Defense Wars | 84504 | [84504-go-series-defense-wars.json](./84504-go-series-defense-wars.json) |
 | GO Series: Earth Saver | 84503 | [84503-go-series-earth-saver.json](./84503-go-series-earth-saver.json) |
 | GO Series: Fishing Resort | 84502 | [84502-go-series-fishing-resort.json](./84502-go-series-fishing-resort.json) |
 | GO Series: Picdun | 56903 | [56903-go-series-picdun.json](./56903-go-series-picdun.json) |
 | GO Series: Portable Shrine Wars | 65750 | [65750-go-series-portable-shrine-wars.json](./65750-go-series-portable-shrine-wars.json) |
 | GO Series: Tower of Deus | 84499 | [84499-go-series-tower-of-deus.json](./84499-go-series-tower-of-deus.json) |
+| GO Series: Undead Storm | 84498 | [84498-go-series-undead-storm.json](./84498-go-series-undead-storm.json) |
 | Go Soccer | 246445 | [246445-go-soccer.json](./246445-go-soccer.json) |
 | Go Some Balls: Only Up and Getting Over It | 276668 | [276668-go-some-balls-only-up-and-getting-over-it.json](./276668-go-some-balls-only-up-and-getting-over-it.json) |
 | Go Team Yeah | 185463 | [185463-go-team-yeah.json](./185463-go-team-yeah.json) |
