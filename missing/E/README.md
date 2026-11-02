@@ -6304,6 +6304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everdate: The Let's Play Dating Game | 244143 | [244143-everdate-the-lets-play-dating-game.json](./244143-everdate-the-lets-play-dating-game.json) |
 | Everdawn | 185494 | [185494-everdawn.json](./185494-everdawn.json) |
 | EverDead: Zombie Apocalypse | 63681 | [63681-everdead-zombie-apocalypse.json](./63681-everdead-zombie-apocalypse.json) |
+| Everdeep Aurora | 252778 | [252778-everdeep-aurora.json](./252778-everdeep-aurora.json) |
 | Everdell | 210527 | [210527-everdell.json](./210527-everdell.json) |
 | Everdine: A Lost Girl's Tale | 189142 | [189142-everdine-a-lost-girls-tale.json](./189142-everdine-a-lost-girls-tale.json) |
 | Everdream | 307562 | [307562-everdream.json](./307562-everdream.json) |
