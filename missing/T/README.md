@@ -7961,6 +7961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doors | 386535 | [386535-the-doors.json](./386535-the-doors.json) |
 | The Doors That Led to Nowhere | 336604 | [336604-the-doors-that-led-to-nowhere.json](./336604-the-doors-that-led-to-nowhere.json) |
 | The Doorway Effect | 240685 | [240685-the-doorway-effect.json](./240685-the-doorway-effect.json) |
+| The Dope Game | 32754 | [32754-the-dope-game.json](./32754-the-dope-game.json) |
 | The Dope Game: Android Edition | 109202 | [109202-the-dope-game-android-edition.json](./109202-the-dope-game-android-edition.json) |
 | The Dope Game: Dope Fiend Edition | 53726 | [53726-the-dope-game-dope-fiend-edition.json](./53726-the-dope-game-dope-fiend-edition.json) |
 | The Dormant Knight | 190356 | [190356-the-dormant-knight.json](./190356-the-dormant-knight.json) |
@@ -8653,6 +8654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall of Catzahstan. | 183565 | [183565-the-fall-of-catzahstan.json](./183565-the-fall-of-catzahstan.json) |
 | The Fall of Elements | 264607 | [264607-the-fall-of-elements.json](./264607-the-fall-of-elements.json) |
 | The Fall of Eskaria | 137630 | [137630-the-fall-of-eskaria.json](./137630-the-fall-of-eskaria.json) |
+| The Fall of Gods | 33957 | [33957-the-fall-of-gods.json](./33957-the-fall-of-gods.json) |
 | The Fall of Lazarus | 28679 | [28679-the-fall-of-lazarus.json](./28679-the-fall-of-lazarus.json) |
 | The Fall of Magic Castle | 378368 | [378368-the-fall-of-magic-castle.json](./378368-the-fall-of-magic-castle.json) |
 | The Fall of Nemesis: Clash of the Kaijujin | 62681 | [62681-the-fall-of-nemesis-clash-of-the-kaijujin.json](./62681-the-fall-of-nemesis-clash-of-the-kaijujin.json) |
@@ -9475,6 +9477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Glory of America | 322068 | [322068-the-glory-of-america.json](./322068-the-glory-of-america.json) |
 | The Glory of Walkure | 146660 | [146660-the-glory-of-walkure.json](./146660-the-glory-of-walkure.json) |
 | The Glory of Walkure 2 | 146662 | [146662-the-glory-of-walkure-2.json](./146662-the-glory-of-walkure-2.json) |
+| The Glow | 33955 | [33955-the-glow.json](./33955-the-glow.json) |
 | The Glued | 344878 | [344878-the-glued.json](./344878-the-glued.json) |
 | The Goalkeeper | 70946 | [70946-the-goalkeeper.json](./70946-the-goalkeeper.json) |
 | The Goatman | 104034 | [104034-the-goatman.json](./104034-the-goatman.json) |
@@ -16144,6 +16147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stray Laboratory | 302668 | [302668-the-stray-laboratory.json](./302668-the-stray-laboratory.json) |
 | The Street 10 | 282031 | [282031-the-street-10.json](./282031-the-street-10.json) |
 | The Street King | 413727 | [413727-the-street-king.json](./413727-the-street-king.json) |
+| The Strike | 34011 | [34011-the-strike.json](./34011-the-strike.json) |
 | The Stroke of Midnight | 99611 | [99611-the-stroke-of-midnight.json](./99611-the-stroke-of-midnight.json) |
 | The Strong High School | 301224 | [301224-the-strong-high-school.json](./301224-the-strong-high-school.json) |
 | The Strongest Ancestor | 301614 | [301614-the-strongest-ancestor.json](./301614-the-strongest-ancestor.json) |
@@ -21540,6 +21544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Takers | 361861 | [361861-time-takers.json](./361861-time-takers.json) |
 | Time Tangle: Adventure Time | 61147 | [61147-time-tangle-adventure-time.json](./61147-time-tangle-adventure-time.json) |
 | Time Tenshi | 318022 | [318022-time-tenshi.json](./318022-time-tenshi.json) |
+| Time Tenshi | 34022 | [34022-time-tenshi.json](./34022-time-tenshi.json) |
 | Time Tenshi 2 | 32837 | [32837-time-tenshi-2.json](./32837-time-tenshi-2.json) |
 | Time Tenshi 2: Special Edition | 30407 | [30407-time-tenshi-2-special-edition.json](./30407-time-tenshi-2-special-edition.json) |
 | Time Tenshi 2: Special Edition DLC | 168070 | [168070-time-tenshi-2-special-edition-dlc.json](./168070-time-tenshi-2-special-edition-dlc.json) |
