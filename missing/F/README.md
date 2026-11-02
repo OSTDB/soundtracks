@@ -6608,6 +6608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddys: 1993 | 277871 | [277871-five-nights-at-freddys-1993.json](./277871-five-nights-at-freddys-1993.json) |
 | Five Nights at Frickbear's | 395008 | [395008-five-nights-at-frickbears.json](./395008-five-nights-at-frickbears.json) |
 | Five Nights at Frickbear's 3 | 341540 | [341540-five-nights-at-frickbears-3.json](./341540-five-nights-at-frickbears-3.json) |
+| Five Nights at Frickbear's 3: Four Layers Down | 424026 | [424026-five-nights-at-frickbears-3-four-layers-down.json](./424026-five-nights-at-frickbears-3-four-layers-down.json) |
 | Five Nights at Frickbears 2 | 395010 | [395010-five-nights-at-frickbears-2.json](./395010-five-nights-at-frickbears-2.json) |
 | Five Nights at Friedrich's | 381852 | [381852-five-nights-at-friedrichs.json](./381852-five-nights-at-friedrichs.json) |
 | Five Nights At Furry's | 223349 | [223349-five-nights-at-furrys.json](./223349-five-nights-at-furrys.json) |
@@ -7952,6 +7953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Slime Maker | 106769 | [106769-fluffy-slime-maker.json](./106769-fluffy-slime-maker.json) |
 | Fluffy Smash | 219791 | [219791-fluffy-smash.json](./219791-fluffy-smash.json) |
 | Fluffy Store | 120606 | [120606-fluffy-store.json](./120606-fluffy-store.json) |
+| Fluffy Story | 423410 | [423410-fluffy-story.json](./423410-fluffy-story.json) |
 | Fluffy's Adventure | 380419 | [380419-fluffys-adventure.json](./380419-fluffys-adventure.json) |
 | Fluffy's Adventure | 381026 | [381026-fluffys-adventure.json](./381026-fluffys-adventure.json) |
 | FluffyInn | 348190 | [348190-fluffyinn.json](./348190-fluffyinn.json) |
@@ -8901,6 +8903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For the Motherland | 235371 | [235371-for-the-motherland.json](./235371-for-the-motherland.json) |
 | For the Night | 123486 | [123486-for-the-night.json](./123486-for-the-night.json) |
 | For the People | 135844 | [135844-for-the-people.json](./135844-for-the-people.json) |
+| For the Realm | 423367 | [423367-for-the-realm.json](./423367-for-the-realm.json) |
 | For the Revenge | 107921 | [107921-for-the-revenge.json](./107921-for-the-revenge.json) |
 | For the Warp | 127685 | [127685-for-the-warp.json](./127685-for-the-warp.json) |
 | For the Wheat | 361734 | [361734-for-the-wheat.json](./361734-for-the-wheat.json) |
