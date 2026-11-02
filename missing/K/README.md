@@ -582,6 +582,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamikomori | 358504 | [358504-kamikomori.json](./358504-kamikomori.json) |
 | Kamikuishiki-mura Monogatari | 130768 | [130768-kamikuishiki-mura-monogatari.json](./130768-kamikuishiki-mura-monogatari.json) |
 | Kamikura Hina no Himitsu: Gohoubi ha Watashi no Karada | 396484 | [396484-kamikura-hina-no-himitsu-gohoubi-ha-watashi-no-karada.json](./396484-kamikura-hina-no-himitsu-gohoubi-ha-watashi-no-karada.json) |
+| Kamila's Masochistic Game | 401577 | [401577-kamilas-masochistic-game.json](./401577-kamilas-masochistic-game.json) |
+| Kamila's Sadist Meets the Pacifists | 401580 | [401580-kamilas-sadist-meets-the-pacifists.json](./401580-kamilas-sadist-meets-the-pacifists.json) |
 | Kamile VR | 121527 | [121527-kamile-vr.json](./121527-kamile-vr.json) |
 | Kamile: The Fall | 122058 | [122058-kamile-the-fall.json](./122058-kamile-the-fall.json) |
 | Kamilia | 336672 | [336672-kamilia.json](./336672-kamilia.json) |
@@ -2679,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3752,6 +3755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss of Murder: Another Story of Manhattan Requiem | 74889 | [74889-kiss-of-murder-another-story-of-manhattan-requiem.json](./74889-kiss-of-murder-another-story-of-manhattan-requiem.json) |
 | Kiss of Revenge | 238413 | [238413-kiss-of-revenge.json](./238413-kiss-of-revenge.json) |
 | Kiss of War | 166461 | [166461-kiss-of-war.json](./166461-kiss-of-war.json) |
+| Kiss or Kill | 401578 | [401578-kiss-or-kill.json](./401578-kiss-or-kill.json) |
 | Kiss Pinball | 43917 | [43917-kiss-pinball.json](./43917-kiss-pinball.json) |
 | Kiss Rock City: Be A Rockstar | 265419 | [265419-kiss-rock-city-be-a-rockstar.json](./265419-kiss-rock-city-be-a-rockstar.json) |
 | Kiss Shot | 45744 | [45744-kiss-shot.json](./45744-kiss-shot.json) |
