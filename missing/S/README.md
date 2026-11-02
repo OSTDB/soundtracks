@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row 2: Ultimate Edition | 99971 | [99971-saints-row-2-ultimate-edition.json](./99971-saints-row-2-ultimate-edition.json) |
 | Saints Row 2: Ultor Exposed | 22998 | [22998-saints-row-2-ultor-exposed.json](./22998-saints-row-2-ultor-exposed.json) |
 | Saints Row Boss Factory | 344978 | [344978-saints-row-boss-factory.json](./344978-saints-row-boss-factory.json) |
+| Saints Row IV - Reverse Cosplay Pack | 93892 | [93892-saints-row-iv-reverse-cosplay-pack.json](./93892-saints-row-iv-reverse-cosplay-pack.json) |
 | Saints Row IV: 100% Uncut | 53572 | [53572-saints-row-iv-100-uncut.json](./53572-saints-row-iv-100-uncut.json) |
 | Saints Row IV: Commander In Chief Edition | 26198 | [26198-saints-row-iv-commander-in-chief-edition.json](./26198-saints-row-iv-commander-in-chief-edition.json) |
 | Saints Row IV: Enter the Dominatrix | 22142 | [22142-saints-row-iv-enter-the-dominatrix.json](./22142-saints-row-iv-enter-the-dominatrix.json) |
@@ -1882,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarawak | 132677 | [132677-sarawak.json](./132677-sarawak.json) |
 | Sarco | 414133 | [414133-sarco.json](./414133-sarco.json) |
 | Sarcoph | 197697 | [197697-sarcoph.json](./197697-sarcoph.json) |
+| Sarcophag | 94875 | [94875-sarcophag.json](./94875-sarcophag.json) |
 | Sarcophaser | 54719 | [54719-sarcophaser.json](./54719-sarcophaser.json) |
 | Sare Inception | 120931 | [120931-sare-inception.json](./120931-sare-inception.json) |
 | Sargasso | 261544 | [261544-sargasso.json](./261544-sargasso.json) |
@@ -5626,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven | 271811 | [271811-seven.json](./271811-seven.json) |
 | Seven | 283134 | [283134-seven.json](./283134-seven.json) |
 | Seven Blasphemies | 415142 | [415142-seven-blasphemies.json](./415142-seven-blasphemies.json) |
+| Seven Boys | 94067 | [94067-seven-boys.json](./94067-seven-boys.json) |
 | Seven Boys 2 | 68104 | [68104-seven-boys-2.json](./68104-seven-boys-2.json) |
 | Seven Bullets Horror | 293483 | [293483-seven-bullets-horror.json](./293483-seven-bullets-horror.json) |
 | Seven Bullets Zombie Apocalypse | 117062 | [117062-seven-bullets-zombie-apocalypse.json](./117062-seven-bullets-zombie-apocalypse.json) |
@@ -7870,6 +7873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShineG In Future Factory | 90181 | [90181-shineg-in-future-factory.json](./90181-shineg-in-future-factory.json) |
 | ShineG in the Bullethell | 36498 | [36498-shineg-in-the-bullethell.json](./36498-shineg-in-the-bullethell.json) |
 | Shineg in the SeaFight | 74919 | [74919-shineg-in-the-seafight.json](./74919-shineg-in-the-seafight.json) |
+| Shineg in the Zombies | 94985 | [94985-shineg-in-the-zombies.json](./94985-shineg-in-the-zombies.json) |
 | ShineG&Zombie Mincer | 84117 | [84117-shineg-and-zombie-mincer.json](./84117-shineg-and-zombie-mincer.json) |
 | Shinehill | 245912 | [245912-shinehill.json](./245912-shinehill.json) |
 | Shiner | 241270 | [241270-shiner.json](./241270-shiner.json) |
@@ -8683,6 +8687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Mall Girl: Summer Time | 310466 | [310466-shopping-mall-girl-summer-time.json](./310466-shopping-mall-girl-summer-time.json) |
 | Shopping Mall Girl: Sunny Edition | 356819 | [356819-shopping-mall-girl-sunny-edition.json](./356819-shopping-mall-girl-sunny-edition.json) |
 | Shopping Mall Parking | 233757 | [233757-shopping-mall-parking.json](./233757-shopping-mall-parking.json) |
+| Shopping Mall Parking Lot | 93853 | [93853-shopping-mall-parking-lot.json](./93853-shopping-mall-parking-lot.json) |
 | Shopping Mall Renovator | 216671 | [216671-shopping-mall-renovator.json](./216671-shopping-mall-renovator.json) |
 | Shopping Mall Smart Taxi: Family Car Taxi Games | 104619 | [104619-shopping-mall-smart-taxi-family-car-taxi-games.json](./104619-shopping-mall-smart-taxi-family-car-taxi-games.json) |
 | Shopping Manager | 255761 | [255761-shopping-manager.json](./255761-shopping-manager.json) |
@@ -13273,6 +13278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmallWorlds | 189287 | [189287-smallworlds.json](./189287-smallworlds.json) |
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
 | Smart Baby ABC Games: Toddler Kids Learning Apps | 87032 | [87032-smart-baby-abc-games-toddler-kids-learning-apps.json](./87032-smart-baby-abc-games-toddler-kids-learning-apps.json) |
+| Smart Baby Rattle | 89123 | [89123-smart-baby-rattle.json](./89123-smart-baby-rattle.json) |
 | Smart Baby Shapes | 88908 | [88908-smart-baby-shapes.json](./88908-smart-baby-shapes.json) |
 | Smart Baby Sorter 2 | 88815 | [88815-smart-baby-sorter-2.json](./88815-smart-baby-sorter-2.json) |
 | Smart Baby Sorter HD | 88918 | [88918-smart-baby-sorter-hd.json](./88918-smart-baby-sorter-hd.json) |
@@ -13282,6 +13288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Boy's Gameroom II | 208958 | [208958-smart-boys-gameroom-ii.json](./208958-smart-boys-gameroom-ii.json) |
 | Smart Boy's: Toy Club | 124044 | [124044-smart-boys-toy-club.json](./124044-smart-boys-toy-club.json) |
 | Smart Boy's: Winter Wonderland | 124048 | [124048-smart-boys-winter-wonderland.json](./124048-smart-boys-winter-wonderland.json) |
+| Smart Bunny - Learning logic game for toddlers | 94976 | [94976-smart-bunny-learning-logic-game-for-toddlers.json](./94976-smart-bunny-learning-logic-game-for-toddlers.json) |
 | Smart City Plan | 122273 | [122273-smart-city-plan.json](./122273-smart-city-plan.json) |
 | Smart Cookie Cat | 234588 | [234588-smart-cookie-cat.json](./234588-smart-cookie-cat.json) |
 | Smart Cube | 81130 | [81130-smart-cube.json](./81130-smart-cube.json) |
@@ -17493,6 +17500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulestination | 141462 | [141462-soulestination.json](./141462-soulestination.json) |
 | Soulfall | 326258 | [326258-soulfall.json](./326258-soulfall.json) |
 | SoulFeast | 369559 | [369559-soulfeast.json](./369559-soulfeast.json) |
+| Soulfire | 93770 | [93770-soulfire.json](./93770-soulfire.json) |
 | Soulfire: Weapon Master | 152906 | [152906-soulfire-weapon-master.json](./152906-soulfire-weapon-master.json) |
 | Soulflame | 377942 | [377942-soulflame.json](./377942-soulflame.json) |
 | Soulflow | 286062 | [286062-soulflow.json](./286062-soulflow.json) |
@@ -18304,6 +18312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -29036,6 +29045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Flash Mario Bros. | 302759 | [302759-super-flash-mario-bros.json](./302759-super-flash-mario-bros.json) |
 | Super Flipman Adventure World | 25887 | [25887-super-flipman-adventure-world.json](./25887-super-flipman-adventure-world.json) |
 | Super Flipper | 110838 | [110838-super-flipper.json](./110838-super-flipper.json) |
+| Super Flipper | 94972 | [94972-super-flipper.json](./94972-super-flipper.json) |
 | Super Flippin' Phones | 33763 | [33763-super-flippin-phones.json](./33763-super-flippin-phones.json) |
 | Super Flipside | 47993 | [47993-super-flipside.json](./47993-super-flipside.json) |
 | Super Flying Vroom Vroom | 374030 | [374030-super-flying-vroom-vroom.json](./374030-super-flying-vroom-vroom.json) |
@@ -31647,6 +31657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperTux: Octo's Levels | 230761 | [230761-supertux-octos-levels.json](./230761-supertux-octos-levels.json) |
 | SuperTuxKart | 10763 | [10763-supertuxkart.json](./10763-supertuxkart.json) |
 | Supertype | 99180 | [99180-supertype.json](./99180-supertype.json) |
+| Superverse | 94065 | [94065-superverse.json](./94065-superverse.json) |
 | SuperVHS | 213268 | [213268-supervhs.json](./213268-supervhs.json) |
 | Supervive | 255078 | [255078-supervive.json](./255078-supervive.json) |
 | Supervoid | 287185 | [287185-supervoid.json](./287185-supervoid.json) |
