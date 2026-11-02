@@ -5798,6 +5798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sewer Run | 194847 | [194847-sewer-run.json](./194847-sewer-run.json) |
 | Sewer's Plague: Into the nest | 179895 | [179895-sewers-plague-into-the-nest.json](./179895-sewers-plague-into-the-nest.json) |
 | Sewercide | 385930 | [385930-sewercide.json](./385930-sewercide.json) |
+| Sewerlust | 400980 | [400980-sewerlust.json](./400980-sewerlust.json) |
 | Sewermania | 42179 | [42179-sewermania.json](./42179-sewermania.json) |
 | Sewing Machine Simulator | 312435 | [312435-sewing-machine-simulator.json](./312435-sewing-machine-simulator.json) |
 | Sex | 185852 | [185852-sex.json](./185852-sex.json) |
@@ -8454,6 +8455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi: Japanese Chess | 221357 | [221357-shogi-japanese-chess.json](./221357-shogi-japanese-chess.json) |
 | Shogo: Mobile Armor Division | 12464 | [12464-shogo-mobile-armor-division.json](./12464-shogo-mobile-armor-division.json) |
 | Shogun | 298095 | [298095-shogun.json](./298095-shogun.json) |
+| Shogun | 400720 | [400720-shogun.json](./400720-shogun.json) |
 | Shogun Castle | 336590 | [336590-shogun-castle.json](./336590-shogun-castle.json) |
 | Shogun Curse | 289779 | [289779-shogun-curse.json](./289779-shogun-curse.json) |
 | Shogun Soul: Legendary Puzzle | 330615 | [330615-shogun-soul-legendary-puzzle.json](./330615-shogun-soul-legendary-puzzle.json) |
@@ -16040,6 +16042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonata | 383787 | [383787-sonata.json](./383787-sonata.json) |
 | Sonata of Y | 412750 | [412750-sonata-of-y.json](./412750-sonata-of-y.json) |
 | Sonata Theory | 155028 | [155028-sonata-theory.json](./155028-sonata-theory.json) |
+| Sonataria | 400968 | [400968-sonataria.json](./400968-sonataria.json) |
 | Sonatina | 305474 | [305474-sonatina.json](./305474-sonatina.json) |
 | Sonder | 182153 | [182153-sonder.json](./182153-sonder.json) |
 | Sonder | 296200 | [296200-sonder.json](./296200-sonder.json) |
@@ -20904,6 +20907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritual Girl | 212440 | [212440-spiritual-girl.json](./212440-spiritual-girl.json) |
 | Spiritual Soul | 275632 | [275632-spiritual-soul.json](./275632-spiritual-soul.json) |
 | Spiritual Soul 2 | 275633 | [275633-spiritual-soul-2.json](./275633-spiritual-soul-2.json) |
+| Spiritual Successor | 401194 | [401194-spiritual-successor.json](./401194-spiritual-successor.json) |
 | Spiritual Warfare | 73369 | [73369-spiritual-warfare.json](./73369-spiritual-warfare.json) |
 | Spiritual Warfare & Wisdom Tree Collection | 28267 | [28267-spiritual-warfare-and-wisdom-tree-collection.json](./28267-spiritual-warfare-and-wisdom-tree-collection.json) |
 | Spiritually Unemployed | 375832 | [375832-spiritually-unemployed.json](./375832-spiritually-unemployed.json) |
@@ -21722,6 +21726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spunky | 307609 | [307609-spunky.json](./307609-spunky.json) |
 | Spunky Dungeon | 341997 | [341997-spunky-dungeon.json](./341997-spunky-dungeon.json) |
 | Spunky: Gangster Simulator | 164993 | [164993-spunky-gangster-simulator.json](./164993-spunky-gangster-simulator.json) |
+| Spur.world | 401190 | [401190-spur-world.json](./401190-spur-world.json) |
 | Sputnik | 168701 | [168701-sputnik.json](./168701-sputnik.json) |
 | Sputnik Eyes | 97757 | [97757-sputnik-eyes.json](./97757-sputnik-eyes.json) |
 | SPV3 | 125649 | [125649-spv3.json](./125649-spv3.json) |
@@ -24988,6 +24993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Scenario Pack 2 | 401935 | [401935-stellaris-scenario-pack-2.json](./401935-stellaris-scenario-pack-2.json) |
 | Stellaris: Season 08 | 298182 | [298182-stellaris-season-08.json](./298182-stellaris-season-08.json) |
 | Stellaris: Season 09 | 401936 | [401936-stellaris-season-09.json](./401936-stellaris-season-09.json) |
+| Stellaris: Season 10 | 400730 | [400730-stellaris-season-10.json](./400730-stellaris-season-10.json) |
 | Stellaris: Shadows of the Shroud | 336603 | [336603-stellaris-shadows-of-the-shroud.json](./336603-stellaris-shadows-of-the-shroud.json) |
 | Stellaris: Stargazer Species Portrait | 402121 | [402121-stellaris-stargazer-species-portrait.json](./402121-stellaris-stargazer-species-portrait.json) |
 | Stellaris: Synthetic Dawn | 54528 | [54528-stellaris-synthetic-dawn.json](./54528-stellaris-synthetic-dawn.json) |
@@ -34125,6 +34131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Purge: Hollow Point | 258822 | [258822-system-purge-hollow-point.json](./258822-system-purge-hollow-point.json) |
 | System Reject | 321959 | [321959-system-reject.json](./321959-system-reject.json) |
 | System Restore | 219562 | [219562-system-restore.json](./219562-system-restore.json) |
+| System Says Normal | 400728 | [400728-system-says-normal.json](./400728-system-says-normal.json) |
 | System Shock 2: 25th Anniversary Remaster | 143964 | [143964-system-shock-2-25th-anniversary-remaster.json](./143964-system-shock-2-25th-anniversary-remaster.json) |
 | System Shock 3 | 15097 | [15097-system-shock-3.json](./15097-system-shock-3.json) |
 | System Shock VR | 413511 | [413511-system-shock-vr.json](./413511-system-shock-vr.json) |
