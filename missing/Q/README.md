@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qualle Party | 292640 | [292640-qualle-party.json](./292640-qualle-party.json) |
 | Qualle Party: Bonus Maps | 296869 | [296869-qualle-party-bonus-maps.json](./296869-qualle-party-bonus-maps.json) |
 | Quallet | 287725 | [287725-quallet.json](./287725-quallet.json) |
+| Quallet 2 | 411271 | [411271-quallet-2.json](./411271-quallet-2.json) |
 | Quan min zhao bu tong | 402360 | [402360-quan-min-zhao-bu-tong.json](./402360-quan-min-zhao-bu-tong.json) |
 | Quán Zhàn Tiānxià | 156616 | [156616-quan-zhan-tianxia.json](./156616-quan-zhan-tianxia.json) |
 | Quandaries | 94166 | [94166-quandaries.json](./94166-quandaries.json) |
@@ -724,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Conquest | 157390 | [157390-queens-conquest.json](./157390-queens-conquest.json) |
 | Queen's Crown | 80571 | [80571-queens-crown.json](./80571-queens-crown.json) |
 | Queen's Crown 2 | 38734 | [38734-queens-crown-2.json](./38734-queens-crown-2.json) |
+| Queen's Gamble | 411234 | [411234-queens-gamble.json](./411234-queens-gamble.json) |
 | Queen's Garden | 54269 | [54269-queens-garden.json](./54269-queens-garden.json) |
 | Queen's Garden 2 | 101504 | [101504-queens-garden-2.json](./101504-queens-garden-2.json) |
 | Queen's Garden 4: Sakura Season | 100960 | [100960-queens-garden-4-sakura-season.json](./100960-queens-garden-4-sakura-season.json) |
@@ -888,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questerium: Sinister Trinity HD - Collector's Edition | 36234 | [36234-questerium-sinister-trinity-hd-collectors-edition.json](./36234-questerium-sinister-trinity-hd-collectors-edition.json) |
 | Questery | 97082 | [97082-questery.json](./97082-questery.json) |
 | QuestEvent | 35542 | [35542-questevent.json](./35542-questevent.json) |
+| Questfarers of the Stone | 419772 | [419772-questfarers-of-the-stone.json](./419772-questfarers-of-the-stone.json) |
 | Questi Quest | 393079 | [393079-questi-quest.json](./393079-questi-quest.json) |
 | Questinarium | 393467 | [393467-questinarium.json](./393467-questinarium.json) |
 | Question Cube | 56944 | [56944-question-cube.json](./56944-question-cube.json) |
