@@ -7558,6 +7558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Identities | 272794 | [272794-lost-identities.json](./272794-lost-identities.json) |
 | Lost Impressions | 125381 | [125381-lost-impressions.json](./125381-lost-impressions.json) |
 | Lost In 80s II | 89673 | [89673-lost-in-80s-ii.json](./89673-lost-in-80s-ii.json) |
+| Lost in a FairyTale | 427258 | [427258-lost-in-a-fairytale.json](./427258-lost-in-a-fairytale.json) |
 | Lost in a Forest | 35895 | [35895-lost-in-a-forest.json](./35895-lost-in-a-forest.json) |
 | Lost in Abyss | 156895 | [156895-lost-in-abyss.json](./156895-lost-in-abyss.json) |
 | Lost in Anomaly | 325622 | [325622-lost-in-anomaly.json](./325622-lost-in-anomaly.json) |
@@ -8332,6 +8333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Zombie | 91652 | [91652-love-zombie.json](./91652-love-zombie.json) |
 | Love-Colored Memories | 412974 | [412974-love-colored-memories.json](./412974-love-colored-memories.json) |
 | Love, Death & Mummies: Zombie Romance Visual Novel | 303322 | [303322-love-death-and-mummies-zombie-romance-visual-novel.json](./303322-love-death-and-mummies-zombie-romance-visual-novel.json) |
+| Love, Death & My Daughter | 427265 | [427265-love-death-and-my-daughter.json](./427265-love-death-and-my-daughter.json) |
 | Love, Death & Veggies | 186479 | [186479-love-death-and-veggies.json](./186479-love-death-and-veggies.json) |
 | Love, Death and PvP | 250190 | [250190-love-death-and-pvp.json](./250190-love-death-and-pvp.json) |
 | Love, Election & Chocolate | 79167 | [79167-love-election-and-chocolate.json](./79167-love-election-and-chocolate.json) |
