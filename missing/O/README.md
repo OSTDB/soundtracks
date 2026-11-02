@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Maid | 232884 | [232884-old-maid.json](./232884-old-maid.json) |
 | Old Man's Guilt | 96081 | [96081-old-mans-guilt.json](./96081-old-mans-guilt.json) |
 | Old Man's Journey | 21604 | [21604-old-mans-journey.json](./21604-old-mans-journey.json) |
+| Old Man's Sushi | 414709 | [414709-old-mans-sushi.json](./414709-old-mans-sushi.json) |
 | Old Market Simulator | 291232 | [291232-old-market-simulator.json](./291232-old-market-simulator.json) |
 | Old Mate Dave | 406105 | [406105-old-mate-dave.json](./406105-old-mate-dave.json) |
 | Old Monastery Escape | 114753 | [114753-old-monastery-escape.json](./114753-old-monastery-escape.json) |
