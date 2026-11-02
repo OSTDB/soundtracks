@@ -3271,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble Interactive: 2007 Edition | 51207 | [51207-scrabble-interactive-2007-edition.json](./51207-scrabble-interactive-2007-edition.json) |
 | Scrabble Interactive: 2009 Edition | 51157 | [51157-scrabble-interactive-2009-edition.json](./51157-scrabble-interactive-2009-edition.json) |
 | Scrabble Plus | 209005 | [209005-scrabble-plus.json](./209005-scrabble-plus.json) |
+| Scrabble Premium | 88934 | [88934-scrabble-premium.json](./88934-scrabble-premium.json) |
 | Scrabble Slam! | 66694 | [66694-scrabble-slam.json](./66694-scrabble-slam.json) |
 | Scrabble Sprint | 191503 | [191503-scrabble-sprint.json](./191503-scrabble-sprint.json) |
 | Scrabble Tetris | 385944 | [385944-scrabble-tetris.json](./385944-scrabble-tetris.json) |
@@ -11146,6 +11147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skater | 102558 | [102558-skater.json](./102558-skater.json) |
 | Skater | 245172 | [245172-skater.json](./245172-skater.json) |
 | Skater - Let's Skate | 107566 | [107566-skater-lets-skate.json](./107566-skater-lets-skate.json) |
+| Skater - Skate Legendary Spots, Perfect Board Feel | 88975 | [88975-skater-skate-legendary-spots-perfect-board-feel.json](./88975-skater-skate-legendary-spots-perfect-board-feel.json) |
 | Skater Bunny Simulator | 320459 | [320459-skater-bunny-simulator.json](./320459-skater-bunny-simulator.json) |
 | Skater Cally | 109320 | [109320-skater-cally.json](./109320-skater-cally.json) |
 | Skater Cat | 85377 | [85377-skater-cat.json](./85377-skater-cat.json) |
@@ -18312,7 +18314,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
