@@ -2351,6 +2351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gedonia | 121179 | [121179-gedonia.json](./121179-gedonia.json) |
 | Gee Bee | 2752 | [2752-gee-bee.json](./2752-gee-bee.json) |
 | Gee Bee Air Rally | 12115 | [12115-gee-bee-air-rally.json](./12115-gee-bee-air-rally.json) |
+| Gee, Tea, Eh, Seven? | 422785 | [422785-gee-tea-eh-seven.json](./422785-gee-tea-eh-seven.json) |
 | Geek Fighter | 90816 | [90816-geek-fighter.json](./90816-geek-fighter.json) |
 | Geek Mind | 124663 | [124663-geek-mind.json](./124663-geek-mind.json) |
 | Geek Resort | 35240 | [35240-geek-resort.json](./35240-geek-resort.json) |
@@ -7866,6 +7867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GraviCat | 409872 | [409872-gravicat.json](./409872-gravicat.json) |
 | Gravico | 280776 | [280776-gravico.json](./280776-gravico.json) |
 | GraviFire | 144277 | [144277-gravifire.json](./144277-gravifire.json) |
+| Gravikitty | 422786 | [422786-gravikitty.json](./422786-gravikitty.json) |
 | Gravillipse | 252159 | [252159-gravillipse.json](./252159-gravillipse.json) |
 | Gravilon | 35652 | [35652-gravilon.json](./35652-gravilon.json) |
 | GraviMaze | 254886 | [254886-gravimaze.json](./254886-gravimaze.json) |
