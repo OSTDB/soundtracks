@@ -5671,6 +5671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Pirates H | 192281 | [192281-seven-pirates-h.json](./192281-seven-pirates-h.json) |
 | Seven Red Lines | 128837 | [128837-seven-red-lines.json](./128837-seven-red-lines.json) |
 | Seven Sacrifices | 107402 | [107402-seven-sacrifices.json](./107402-seven-sacrifices.json) |
+| Seven Samurai 20XX | 24241 | [24241-seven-samurai-20xx.json](./24241-seven-samurai-20xx.json) |
 | Seven Scrolls | 228928 | [228928-seven-scrolls.json](./228928-seven-scrolls.json) |
 | Seven Seas | 208717 | [208717-seven-seas.json](./208717-seven-seas.json) |
 | Seven Seas Jewels 2: Collector's Edition | 398822 | [398822-seven-seas-jewels-2-collectors-edition.json](./398822-seven-seas-jewels-2-collectors-edition.json) |
@@ -7999,6 +8000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi.io | 194016 | [194016-shinobi-io.json](./194016-shinobi-io.json) |
 | Shinobi's Way - a jigsaw chess tale | 148262 | [148262-shinobis-way-a-jigsaw-chess-tale.json](./148262-shinobis-way-a-jigsaw-chess-tale.json) |
 | Shinobido 2: Revenge of Zen | 10900 | [10900-shinobido-2-revenge-of-zen.json](./10900-shinobido-2-revenge-of-zen.json) |
+| Shinobido: Tales of the Ninja | 23108 | [23108-shinobido-tales-of-the-ninja.json](./23108-shinobido-tales-of-the-ninja.json) |
 | Shinobido: Way of the Ninja | 10899 | [10899-shinobido-way-of-the-ninja.json](./10899-shinobido-way-of-the-ninja.json) |
 | Shinobit | 181784 | [181784-shinobit.json](./181784-shinobit.json) |
 | Shinobu | 220778 | [220778-shinobu.json](./220778-shinobu.json) |
@@ -18286,6 +18288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18307,6 +18310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Instigators | 84293 | [84293-space-instigators.json](./84293-space-instigators.json) |
 | Space Interceptor | 262369 | [262369-space-interceptor.json](./262369-space-interceptor.json) |
 | Space Interceptor | 71965 | [71965-space-interceptor.json](./71965-space-interceptor.json) |
+| Space Interceptor: Project Freedom | 24259 | [24259-space-interceptor-project-freedom.json](./24259-space-interceptor-project-freedom.json) |
 | Space Intern | 221187 | [221187-space-intern.json](./221187-space-intern.json) |
 | Space Intervention | 125748 | [125748-space-intervention.json](./125748-space-intervention.json) |
 | Space Intruder | 245403 | [245403-space-intruder.json](./245403-space-intruder.json) |
@@ -21658,6 +21662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad 51 vs. the Flying Saucers | 143161 | [143161-squad-51-vs-the-flying-saucers.json](./143161-squad-51-vs-the-flying-saucers.json) |
 | Squad Arcade | 372801 | [372801-squad-arcade.json](./372801-squad-arcade.json) |
 | Squad Assault | 54395 | [54395-squad-assault.json](./54395-squad-assault.json) |
+| Squad Assault: Second Wave | 24268 | [24268-squad-assault-second-wave.json](./24268-squad-assault-second-wave.json) |
 | Squad Assault: West Front | 23740 | [23740-squad-assault-west-front.json](./23740-squad-assault-west-front.json) |
 | Squad Battles: Grenada | 182273 | [182273-squad-battles-grenada.json](./182273-squad-battles-grenada.json) |
 | Squad Battles: Pacific War | 186150 | [186150-squad-battles-pacific-war.json](./186150-squad-battles-pacific-war.json) |
@@ -22752,6 +22757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek - Armada | 18902 | [18902-star-trek-armada.json](./18902-star-trek-armada.json) |
 | Star Trek Adversaries | 95638 | [95638-star-trek-adversaries.json](./95638-star-trek-adversaries.json) |
 | Star Trek Alien Domain: Incursion | 123597 | [123597-star-trek-alien-domain-incursion.json](./123597-star-trek-alien-domain-incursion.json) |
+| Star Trek Attack Wing | 24291 | [24291-star-trek-attack-wing.json](./24291-star-trek-attack-wing.json) |
 | Star Trek Bridge Crew: The Next Generation Bundle | 118846 | [118846-star-trek-bridge-crew-the-next-generation-bundle.json](./118846-star-trek-bridge-crew-the-next-generation-bundle.json) |
 | Star Trek Catan | 24191 | [24191-star-trek-catan.json](./24191-star-trek-catan.json) |
 | Star Trek First Contact | 362902 | [362902-star-trek-first-contact.json](./362902-star-trek-first-contact.json) |
