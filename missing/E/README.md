@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Replay 2 | 209176 | [209176-ea-replay-2.json](./209176-ea-replay-2.json) |
 | EA Speed & Seed Bundle | 164701 | [164701-ea-speed-and-seed-bundle.json](./164701-ea-speed-and-seed-bundle.json) |
 | EA Sports | 220088 | [220088-ea-sports.json](./220088-ea-sports.json) |
+| EA Sports Active 2 | 4827 | [4827-ea-sports-active-2.json](./4827-ea-sports-active-2.json) |
 | EA Sports Active 2.0 | 47422 | [47422-ea-sports-active-2-0.json](./47422-ea-sports-active-2-0.json) |
 | EA Sports Active NFL Training Camp | 4828 | [4828-ea-sports-active-nfl-training-camp.json](./4828-ea-sports-active-nfl-training-camp.json) |
 | EA Sports College Football 25 | 172021 | [172021-ea-sports-college-football-25.json](./172021-ea-sports-college-football-25.json) |
@@ -7696,6 +7697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Warfare Revenge | 76605 | [76605-extreme-warfare-revenge.json](./76605-extreme-warfare-revenge.json) |
 | Extreme Watersports | 73179 | [73179-extreme-watersports.json](./73179-extreme-watersports.json) |
 | Extreme Winter Sports | 62244 | [62244-extreme-winter-sports.json](./62244-extreme-winter-sports.json) |
+| Extreme-G 3 | 4580 | [4580-extreme-g-3.json](./4580-extreme-g-3.json) |
 | Extreme: Rise of the Triad | 9980 | [9980-extreme-rise-of-the-triad.json](./9980-extreme-rise-of-the-triad.json) |
 | Extreme! 2-Choice Flag Quiz | 343719 | [343719-extreme-2-choice-flag-quiz.json](./343719-extreme-2-choice-flag-quiz.json) |
 | ExtremeBiking | 90383 | [90383-extremebiking.json](./90383-extremebiking.json) |
