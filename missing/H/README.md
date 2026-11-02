@@ -11789,6 +11789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperCore: Rhythm Bullet Hell | 122388 | [122388-hypercore-rhythm-bullet-hell.json](./122388-hypercore-rhythm-bullet-hell.json) |
 | Hypercoven | 256784 | [256784-hypercoven.json](./256784-hypercoven.json) |
 | Hypercube: Source | 273293 | [273293-hypercube-source.json](./273293-hypercube-source.json) |
+| Hypercut | 405252 | [405252-hypercut.json](./405252-hypercut.json) |
 | HyperCycle League | 383979 | [383979-hypercycle-league.json](./383979-hypercycle-league.json) |
 | Hyperdevotion Noire: Goddess Black Heart - Ultimate Member “Compa” | 166400 | [166400-hyperdevotion-noire-goddess-black-heart-ultimate-member-compa.json](./166400-hyperdevotion-noire-goddess-black-heart-ultimate-member-compa.json) |
 | Hyperdevotion Noire: Goddess Black Heart - Ultimate Member “IF” | 166399 | [166399-hyperdevotion-noire-goddess-black-heart-ultimate-member-if.json](./166399-hyperdevotion-noire-goddess-black-heart-ultimate-member-if.json) |
