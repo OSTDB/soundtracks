@@ -2945,6 +2945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Ink | 343924 | [343924-incredible-ink.json](./343924-incredible-ink.json) |
 | Incredible Jack | 351535 | [351535-incredible-jack.json](./351535-incredible-jack.json) |
 | Incredible Machine Mega Pack | 124970 | [124970-incredible-machine-mega-pack.json](./124970-incredible-machine-mega-pack.json) |
+| Incredible Mandy | 104436 | [104436-incredible-mandy.json](./104436-incredible-mandy.json) |
 | Incredible Monster Prison Escape Police Jail Break | 104582 | [104582-incredible-monster-prison-escape-police-jail-break.json](./104582-incredible-monster-prison-escape-police-jail-break.json) |
 | Incredible Monster VS US Army Prison Survival Game | 102535 | [102535-incredible-monster-vs-us-army-prison-survival-game.json](./102535-incredible-monster-vs-us-army-prison-survival-game.json) |
 | Incredible Puzzle | 224037 | [224037-incredible-puzzle.json](./224037-incredible-puzzle.json) |
@@ -5990,6 +5991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Issunboushi no Donnamondai | 146261 | [146261-issunboushi-no-donnamondai.json](./146261-issunboushi-no-donnamondai.json) |
 | Istanbul | 274194 | [274194-istanbul.json](./274194-istanbul.json) |
 | Istanbul, Texas | 159071 | [159071-istanbul-texas.json](./159071-istanbul-texas.json) |
+| Istanbul: Digital Edition | 104265 | [104265-istanbul-digital-edition.json](./104265-istanbul-digital-edition.json) |
 | Istaria: Chronicles of the Gifted | 9578 | [9578-istaria-chronicles-of-the-gifted.json](./9578-istaria-chronicles-of-the-gifted.json) |
 | Istoria | 150907 | [150907-istoria.json](./150907-istoria.json) |
 | Istorii Uzhasov: Voskreshenie | 368244 | [368244-istorii-uzhasov-voskreshenie.json](./368244-istorii-uzhasov-voskreshenie.json) |
