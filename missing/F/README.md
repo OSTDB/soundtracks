@@ -2647,6 +2647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farside | 103179 | [103179-farside.json](./103179-farside.json) |
 | Farsiders | 235983 | [235983-farsiders.json](./235983-farsiders.json) |
 | Farstar: Exodus | 132132 | [132132-farstar-exodus.json](./132132-farstar-exodus.json) |
+| Farstorm | 109329 | [109329-farstorm.json](./109329-farstorm.json) |
 | Fart Cat! | 64867 | [64867-fart-cat.json](./64867-fart-cat.json) |
 | Fart Drop DX | 369672 | [369672-fart-drop-dx.json](./369672-fart-drop-dx.json) |
 | Fart Fiasco Premium | 284518 | [284518-fart-fiasco-premium.json](./284518-fart-fiasco-premium.json) |
@@ -3417,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Featherfall | 125367 | [125367-featherfall.json](./125367-featherfall.json) |
 | Featherfall | 129442 | [129442-featherfall.json](./129442-featherfall.json) |
 | Featherpunk Prime | 18404 | [18404-featherpunk-prime.json](./18404-featherpunk-prime.json) |
+| Feathery Ears | 122140 | [122140-feathery-ears.json](./122140-feathery-ears.json) |
 | Febilis | 255578 | [255578-febilis.json](./255578-febilis.json) |
 | February 2003 | 252076 | [252076-february-2003.json](./252076-february-2003.json) |
 | February of Cards | 258370 | [258370-february-of-cards.json](./258370-february-of-cards.json) |
@@ -5593,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Opal | 153875 | [153875-fire-opal.json](./153875-fire-opal.json) |
 | Fire Path | 289818 | [289818-fire-path.json](./289818-fire-path.json) |
 | Fire Pit: Throw Things Into the Fire | 389688 | [389688-fire-pit-throw-things-into-the-fire.json](./389688-fire-pit-throw-things-into-the-fire.json) |
+| Fire Place | 109369 | [109369-fire-place.json](./109369-fire-place.json) |
 | Fire Power | 110821 | [110821-fire-power.json](./110821-fire-power.json) |
 | Fire Power | 54655 | [54655-fire-power.json](./54655-fire-power.json) |
 | Fire Pro Joshi: All Star Dream Slam | 42614 | [42614-fire-pro-joshi-all-star-dream-slam.json](./42614-fire-pro-joshi-all-star-dream-slam.json) |
@@ -8647,6 +8650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2019 Mobile | 175204 | [175204-football-manager-2019-mobile.json](./175204-football-manager-2019-mobile.json) |
 | Football Manager 2020 | 122080 | [122080-football-manager-2020.json](./122080-football-manager-2020.json) |
 | Football Manager 2020 Mobile | 197656 | [197656-football-manager-2020-mobile.json](./197656-football-manager-2020-mobile.json) |
+| Football Manager 2020 Touch | 122160 | [122160-football-manager-2020-touch.json](./122160-football-manager-2020-touch.json) |
 | Football Manager 2021 | 139077 | [139077-football-manager-2021.json](./139077-football-manager-2021.json) |
 | Football Manager 2021 Touch | 139257 | [139257-football-manager-2021-touch.json](./139257-football-manager-2021-touch.json) |
 | Football Manager 2021: Limited Edition | 139962 | [139962-football-manager-2021-limited-edition.json](./139962-football-manager-2021-limited-edition.json) |
@@ -11809,6 +11813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline: The Longest Day | 175270 | [175270-frontline-the-longest-day.json](./175270-frontline-the-longest-day.json) |
 | Frontline: The Longest Day | 17610 | [17610-frontline-the-longest-day.json](./17610-frontline-the-longest-day.json) |
 | Frontline: War of Echoes | 366560 | [366560-frontline-war-of-echoes.json](./366560-frontline-war-of-echoes.json) |
+| Frontline: Western Front | 122379 | [122379-frontline-western-front.json](./122379-frontline-western-front.json) |
 | Frontline: World At War | 264726 | [264726-frontline-world-at-war.json](./264726-frontline-world-at-war.json) |
 | Frontline: World War II | 142192 | [142192-frontline-world-war-ii.json](./142192-frontline-world-war-ii.json) |
 | FrontlineGrunt | 252614 | [252614-frontlinegrunt.json](./252614-frontlinegrunt.json) |
