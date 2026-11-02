@@ -7073,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Speed Extreme Bike Race Game: Space Heroes | 102263 | [102263-high-speed-extreme-bike-race-game-space-heroes.json](./102263-high-speed-extreme-bike-race-game-space-heroes.json) |
 | High Speed Extreme Racing | 220822 | [220822-high-speed-extreme-racing.json](./220822-high-speed-extreme-racing.json) |
 | High Speed Trains 2 - England | 88742 | [88742-high-speed-trains-2-england.json](./88742-high-speed-trains-2-england.json) |
+| High Speed Trains 3D | 87501 | [87501-high-speed-trains-3d.json](./87501-high-speed-trains-3d.json) |
 | High Spirits | 317300 | [317300-high-spirits.json](./317300-high-spirits.json) |
 | High Stakes | 141081 | [141081-high-stakes.json](./141081-high-stakes.json) |
 | High Stakes | 184692 | [184692-high-stakes.json](./184692-high-stakes.json) |
@@ -9354,6 +9355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrible Histories: Ruthless Romans | 21286 | [21286-horrible-histories-ruthless-romans.json](./21286-horrible-histories-ruthless-romans.json) |
 | Horribunnies | 130178 | [130178-horribunnies.json](./130178-horribunnies.json) |
 | Horrid Henry | 67089 | [67089-horrid-henry.json](./67089-horrid-henry.json) |
+| Horrid Henry's Big Box of Pranks | 87486 | [87486-horrid-henrys-big-box-of-pranks.json](./87486-horrid-henrys-big-box-of-pranks.json) |
 | Horrid Henry's Horrid Adventure | 269630 | [269630-horrid-henrys-horrid-adventure.json](./269630-horrid-henrys-horrid-adventure.json) |
 | Horrid Henry's Krazy Karts | 187451 | [187451-horrid-henrys-krazy-karts.json](./187451-horrid-henrys-krazy-karts.json) |
 | Horripilant | 342102 | [342102-horripilant.json](./342102-horripilant.json) |
