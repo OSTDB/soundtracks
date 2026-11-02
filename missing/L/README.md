@@ -4102,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life // Blood | 293679 | [293679-life-blood.json](./293679-life-blood.json) |
 | Life & Crimes | 280732 | [280732-life-and-crimes.json](./280732-life-and-crimes.json) |
 | Life & Death | 12177 | [12177-life-and-death.json](./12177-life-and-death.json) |
+| Life & Debt: A Real Life Simulator | 88036 | [88036-life-and-debt-a-real-life-simulator.json](./88036-life-and-debt-a-real-life-simulator.json) |
 | Life & Shadow: Celestial Call | 348444 | [348444-life-and-shadow-celestial-call.json](./348444-life-and-shadow-celestial-call.json) |
 | Life 2047 Escape Simulator | 376086 | [376086-life-2047-escape-simulator.json](./376086-life-2047-escape-simulator.json) |
 | Life after Death | 211110 | [211110-life-after-death.json](./211110-life-after-death.json) |
