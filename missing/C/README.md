@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Arcade Hits Volume 2 | 79527 | [79527-capcom-arcade-hits-volume-2.json](./79527-capcom-arcade-hits-volume-2.json) |
 | Capcom Arcade Hits Volume 3 | 64488 | [64488-capcom-arcade-hits-volume-3.json](./64488-capcom-arcade-hits-volume-3.json) |
 | Capcom Arcade Stadium | 141546 | [141546-capcom-arcade-stadium.json](./141546-capcom-arcade-stadium.json) |
+| Capcom Arcade Stadium Complete Pack | 422190 | [422190-capcom-arcade-stadium-complete-pack.json](./422190-capcom-arcade-stadium-complete-pack.json) |
 | Capcom Arcade Stadium Pack 1: Dawn of the Arcade | 141632 | [141632-capcom-arcade-stadium-pack-1-dawn-of-the-arcade.json](./141632-capcom-arcade-stadium-pack-1-dawn-of-the-arcade.json) |
 | Capcom Arcade Stadium Pack 2: Arcade Revolution | 141633 | [141633-capcom-arcade-stadium-pack-2-arcade-revolution.json](./141633-capcom-arcade-stadium-pack-2-arcade-revolution.json) |
 | Capcom Arcade Stadium Pack 3: Arcade Evolution | 141635 | [141635-capcom-arcade-stadium-pack-3-arcade-evolution.json](./141635-capcom-arcade-stadium-pack-3-arcade-evolution.json) |
@@ -2510,6 +2511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Cult: Shoot'n'Loot VR | 30258 | [30258-cargo-cult-shootnloot-vr.json](./30258-cargo-cult-shootnloot-vr.json) |
 | Cargo Delivery | 249954 | [249954-cargo-delivery.json](./249954-cargo-delivery.json) |
 | Cargo Delivery Simulator | 332953 | [332953-cargo-delivery-simulator.json](./332953-cargo-delivery-simulator.json) |
+| Cargo Delivery Simulator | 421564 | [421564-cargo-delivery-simulator.json](./421564-cargo-delivery-simulator.json) |
 | Cargo Duty | 284809 | [284809-cargo-duty.json](./284809-cargo-duty.json) |
 | Cargo Hunters | 313453 | [313453-cargo-hunters.json](./313453-cargo-hunters.json) |
 | Cargo Jeep Racing | 213815 | [213815-cargo-jeep-racing.json](./213815-cargo-jeep-racing.json) |
@@ -4385,6 +4387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catsperience | 146043 | [146043-catsperience.json](./146043-catsperience.json) |
 | Catsploration | 172901 | [172901-catsploration.json](./172901-catsploration.json) |
 | CatsPots | 267561 | [267561-catspots.json](./267561-catspots.json) |
+| Catstronaut, Félicette's adventures | 422157 | [422157-catstronaut-felicettes-adventures.json](./422157-catstronaut-felicettes-adventures.json) |
 | Catstronauts | 421319 | [421319-catstronauts.json](./421319-catstronauts.json) |
 | Catsuhi and Eva | 373275 | [373275-catsuhi-and-eva.json](./373275-catsuhi-and-eva.json) |
 | Cattails: Wildwood Story | 189143 | [189143-cattails-wildwood-story.json](./189143-cattails-wildwood-story.json) |
@@ -5788,6 +5791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charms of Lavender Blue | 101995 | [101995-charms-of-lavender-blue.json](./101995-charms-of-lavender-blue.json) |
 | Charmy Bee in Sonic the Hedgehog | 129181 | [129181-charmy-bee-in-sonic-the-hedgehog.json](./129181-charmy-bee-in-sonic-the-hedgehog.json) |
 | Charmy Maze | 332220 | [332220-charmy-maze.json](./332220-charmy-maze.json) |
+| Charnel | 422199 | [422199-charnel.json](./422199-charnel.json) |
 | Charoite Into the Deep | 374429 | [374429-charoite-into-the-deep.json](./374429-charoite-into-the-deep.json) |
 | Charon: Zhetan Chronicles | 253441 | [253441-charon-zhetan-chronicles.json](./253441-charon-zhetan-chronicles.json) |
 | Charon's Crossing | 264692 | [264692-charons-crossing.json](./264692-charons-crossing.json) |
@@ -6090,6 +6094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Life: Cooking Lab | 288863 | [288863-chef-life-cooking-lab.json](./288863-chef-life-cooking-lab.json) |
 | Chef Master Slot | 232284 | [232284-chef-master-slot.json](./232284-chef-master-slot.json) |
 | Chef of Sherwood | 391845 | [391845-chef-of-sherwood.json](./391845-chef-of-sherwood.json) |
+| Chef Pinball | 422120 | [422120-chef-pinball.json](./422120-chef-pinball.json) |
 | Chef Ramsay | 248130 | [248130-chef-ramsay.json](./248130-chef-ramsay.json) |
 | Chef RPG | 191154 | [191154-chef-rpg.json](./191154-chef-rpg.json) |
 | Chef Showdown | 256391 | [256391-chef-showdown.json](./256391-chef-showdown.json) |
@@ -10881,6 +10886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColdRidge | 310254 | [310254-coldridge.json](./310254-coldridge.json) |
 | ColdSide | 128834 | [128834-coldside.json](./128834-coldside.json) |
 | ColdSide: Retro Edition | 410206 | [410206-coldside-retro-edition.json](./410206-coldside-retro-edition.json) |
+| Coldstar | 421577 | [421577-coldstar.json](./421577-coldstar.json) |
 | Coldsteel Adventure 7 | 275487 | [275487-coldsteel-adventure-7.json](./275487-coldsteel-adventure-7.json) |
 | Coldstone: Scoop It Up | 79153 | [79153-coldstone-scoop-it-up.json](./79153-coldstone-scoop-it-up.json) |
 | Coldsweat and Tears | 316073 | [316073-coldsweat-and-tears.json](./316073-coldsweat-and-tears.json) |
@@ -12805,6 +12811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consolation: Board Meeting | 153810 | [153810-consolation-board-meeting.json](./153810-consolation-board-meeting.json) |
 | Consolation: Board Meeting - Anthology Edition | 193217 | [193217-consolation-board-meeting-anthology-edition.json](./193217-consolation-board-meeting-anthology-edition.json) |
 | Console Archives: Bubble Bobble | 415224 | [415224-console-archives-bubble-bobble.json](./415224-console-archives-bubble-bobble.json) |
+| Console Archives: Chack’n Pop | 422202 | [422202-console-archives-chack-n-pop.json](./422202-console-archives-chack-n-pop.json) |
 | Console Archives: Crazy Climber | 418714 | [418714-console-archives-crazy-climber.json](./418714-console-archives-crazy-climber.json) |
 | Console Archives: Hercules no Eikou II - Taitan no Metsubou | 410364 | [410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json](./410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json) |
 | Console Archives: Karate Champ | 420803 | [420803-console-archives-karate-champ.json](./420803-console-archives-karate-champ.json) |
@@ -19322,6 +19329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberspace: Infinite | 150457 | [150457-cyberspace-infinite.json](./150457-cyberspace-infinite.json) |
 | CyberSpeed | 20268 | [20268-cyberspeed.json](./20268-cyberspeed.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
+| CyberSprawl: Survivors | 422164 | [422164-cybersprawl-survivors.json](./422164-cybersprawl-survivors.json) |
 | Cyberstellar | 195407 | [195407-cyberstellar.json](./195407-cyberstellar.json) |
 | Cyberstorm | 204959 | [204959-cyberstorm.json](./204959-cyberstorm.json) |
 | CyberStorm 2: Corporate Wars | 11028 | [11028-cyberstorm-2-corporate-wars.json](./11028-cyberstorm-2-corporate-wars.json) |
