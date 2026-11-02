@@ -7311,6 +7311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Croaked Crown | 361265 | [361265-the-croaked-crown.json](./361265-the-croaked-crown.json) |
 | The Croaker | 296260 | [296260-the-croaker.json](./296260-the-croaker.json) |
 | The Croaker: The Ice | 306058 | [306058-the-croaker-the-ice.json](./306058-the-croaker-the-ice.json) |
+| The Croods | 404025 | [404025-the-croods.json](./404025-the-croods.json) |
 | The Croods: Prehistoric Party and Rise of the Guardians Combo Pack | 79313 | [79313-the-croods-prehistoric-party-and-rise-of-the-guardians-combo-pack.json](./79313-the-croods-prehistoric-party-and-rise-of-the-guardians-combo-pack.json) |
 | The Croods: Prehistoric Party! | 25161 | [25161-the-croods-prehistoric-party.json](./25161-the-croods-prehistoric-party.json) |
 | The Crooked Man | 46989 | [46989-the-crooked-man.json](./46989-the-crooked-man.json) |
@@ -8420,6 +8421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End of Solace | 271751 | [271751-the-end-of-solace.json](./271751-the-end-of-solace.json) |
 | The End of the Age | 379162 | [379162-the-end-of-the-age.json](./379162-the-end-of-the-age.json) |
 | The End of the Beginning of Courage, Reasoning, and Seaweed 10 | 386559 | [386559-the-end-of-the-beginning-of-courage-reasoning-and-seaweed-10.json](./386559-the-end-of-the-beginning-of-courage-reasoning-and-seaweed-10.json) |
+| The End of the End of Evangelion | 404047 | [404047-the-end-of-the-end-of-evangelion.json](./404047-the-end-of-the-end-of-evangelion.json) |
 | The End of the Line: New Age | 420483 | [420483-the-end-of-the-line-new-age.json](./420483-the-end-of-the-line-new-age.json) |
 | The End of the World | 308442 | [308442-the-end-of-the-world.json](./308442-the-end-of-the-world.json) |
 | The End of the World | 59016 | [59016-the-end-of-the-world.json](./59016-the-end-of-the-world.json) |
@@ -25935,6 +25937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story 3 | 287629 | [287629-toy-story-3.json](./287629-toy-story-3.json) |
 | Toy Story 3 | 408990 | [408990-toy-story-3.json](./408990-toy-story-3.json) |
 | Toy Story 3 | 77156 | [77156-toy-story-3.json](./77156-toy-story-3.json) |
+| Toy Story 3: Complete Edition | 404035 | [404035-toy-story-3-complete-edition.json](./404035-toy-story-3-complete-edition.json) |
 | Toy Story 3: The Video Game | 202117 | [202117-toy-story-3-the-video-game.json](./202117-toy-story-3-the-video-game.json) |
 | Toy Story 5 Buzz Lightyear Game & Go | 412230 | [412230-toy-story-5-buzz-lightyear-game-and-go.json](./412230-toy-story-5-buzz-lightyear-game-and-go.json) |
 | Toy Story 5 Explore & Learn Lilypad | 412231 | [412231-toy-story-5-explore-and-learn-lilypad.json](./412231-toy-story-5-explore-and-learn-lilypad.json) |
