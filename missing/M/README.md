@@ -11187,6 +11187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Machine | 70240 | [70240-mind-machine.json](./70240-mind-machine.json) |
 | Mind Maze | 100308 | [100308-mind-maze.json](./100308-mind-maze.json) |
 | Mind Maze | 154978 | [154978-mind-maze.json](./154978-mind-maze.json) |
+| Mind Maze | 40761 | [40761-mind-maze.json](./40761-mind-maze.json) |
 | Mind Maze: Campaign "Triplex" | 170169 | [170169-mind-maze-campaign-triplex.json](./170169-mind-maze-campaign-triplex.json) |
 | Mind Medley | 209509 | [209509-mind-medley.json](./209509-mind-medley.json) |
 | Mind Mirror | 149798 | [149798-mind-mirror.json](./149798-mind-mirror.json) |
@@ -12908,6 +12909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Demolition | 74371 | [74371-mission-demolition.json](./74371-mission-demolition.json) |
 | Mission: Driver | 210855 | [210855-mission-driver.json](./210855-mission-driver.json) |
 | Mission: Escape | 271726 | [271726-mission-escape.json](./271726-mission-escape.json) |
+| Mission: Escape from Island | 38816 | [38816-mission-escape-from-island.json](./38816-mission-escape-from-island.json) |
 | Mission: Escape from Island 2 | 82472 | [82472-mission-escape-from-island-2.json](./82472-mission-escape-from-island-2.json) |
 | Mission: Escape from Island 3 | 82473 | [82473-mission-escape-from-island-3.json](./82473-mission-escape-from-island-3.json) |
 | Mission: Humanity | 73325 | [73325-mission-humanity.json](./73325-mission-humanity.json) |
@@ -19095,6 +19097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Goddess Girlfriend | 229875 | [229875-my-goddess-girlfriend.json](./229875-my-goddess-girlfriend.json) |
 | My Goddess of Love | 114406 | [114406-my-goddess-of-love.json](./114406-my-goddess-of-love.json) |
 | My Golf | 282738 | [282738-my-golf.json](./282738-my-golf.json) |
+| My Golf | 40582 | [40582-my-golf.json](./40582-my-golf.json) |
 | My Golf 3D | 91166 | [91166-my-golf-3d.json](./91166-my-golf-3d.json) |
 | My Golf Game featuring Ernie Els | 206772 | [206772-my-golf-game-featuring-ernie-els.json](./206772-my-golf-game-featuring-ernie-els.json) |
 | My Goth Girl | 400504 | [400504-my-goth-girl.json](./400504-my-goth-girl.json) |
