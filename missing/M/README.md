@@ -3240,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Pop Paradise | 163706 | [163706-marble-pop-paradise.json](./163706-marble-pop-paradise.json) |
 | Marble Power Blast | 114133 | [114133-marble-power-blast.json](./114133-marble-power-blast.json) |
 | Marble Puzzle Blast: Rescue Adventure | 195427 | [195427-marble-puzzle-blast-rescue-adventure.json](./195427-marble-puzzle-blast-rescue-adventure.json) |
+| Marble Race | 107557 | [107557-marble-race.json](./107557-marble-race.json) |
 | Marble Race Creator | 244848 | [244848-marble-race-creator.json](./244848-marble-race-creator.json) |
 | Marble Racing | 137570 | [137570-marble-racing.json](./137570-marble-racing.json) |
 | Marble Racing Manager | 388747 | [388747-marble-racing-manager.json](./388747-marble-racing-manager.json) |
@@ -5861,6 +5862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Quest 1: The Forest | 107739 | [107739-maze-quest-1-the-forest.json](./107739-maze-quest-1-the-forest.json) |
 | Maze Quest 2: The Desert | 119587 | [119587-maze-quest-2-the-desert.json](./119587-maze-quest-2-the-desert.json) |
 | Maze Quest Master | 270186 | [270186-maze-quest-master.json](./270186-maze-quest-master.json) |
+| Maze Race Challenge | 101509 | [101509-maze-race-challenge.json](./101509-maze-race-challenge.json) |
 | Maze Racers | 180503 | [180503-maze-racers.json](./180503-maze-racers.json) |
 | Maze Racing | 239116 | [239116-maze-racing.json](./239116-maze-racing.json) |
 | Maze Rescue | 28381 | [28381-maze-rescue.json](./28381-maze-rescue.json) |
@@ -11718,6 +11720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Collector 2 | 275090 | [275090-minesweeper-collector-2.json](./275090-minesweeper-collector-2.json) |
 | Minesweeper Deluxe | 88430 | [88430-minesweeper-deluxe.json](./88430-minesweeper-deluxe.json) |
 | Minesweeper Flags | 74419 | [74419-minesweeper-flags.json](./74419-minesweeper-flags.json) |
+| Minesweeper Genius | 101496 | [101496-minesweeper-genius.json](./101496-minesweeper-genius.json) |
 | Minesweeper Girl | 247882 | [247882-minesweeper-girl.json](./247882-minesweeper-girl.json) |
 | Minesweeper Go | 395231 | [395231-minesweeper-go.json](./395231-minesweeper-go.json) |
 | Minesweeper Infinite | 291454 | [291454-minesweeper-infinite.json](./291454-minesweeper-infinite.json) |
@@ -13291,6 +13294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMM: Murder Most Misfortunate | 28425 | [28425-mmm-murder-most-misfortunate.json](./28425-mmm-murder-most-misfortunate.json) |
 | Mmmmm Donuts Arhhh...... | 286754 | [286754-mmmmm-donuts-arhhh.json](./286754-mmmmm-donuts-arhhh.json) |
 | Mmmmmm | 207138 | [207138-mmmmmm.json](./207138-mmmmmm.json) |
+| Mmmmmm... Cake! | 107833 | [107833-mmmmmm-cake.json](./107833-mmmmmm-cake.json) |
 | MMORPG NPC Simulator | 404197 | [404197-mmorpg-npc-simulator.json](./404197-mmorpg-npc-simulator.json) |
 | MMORPG Tycoon 2 | 125701 | [125701-mmorpg-tycoon-2.json](./125701-mmorpg-tycoon-2.json) |
 | MMOS: MMO Simulator | 423904 | [423904-mmos-mmo-simulator.json](./423904-mmos-mmo-simulator.json) |
@@ -13523,6 +13527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mochi's Dreamland | 395579 | [395579-mochis-dreamland.json](./395579-mochis-dreamland.json) |
 | Mochiko the Samurai | 385923 | [385923-mochiko-the-samurai.json](./385923-mochiko-the-samurai.json) |
 | Mochiko-san Reunion! | 237286 | [237286-mochiko-san-reunion.json](./237286-mochiko-san-reunion.json) |
+| MochiMochi | 107533 | [107533-mochimochi.json](./107533-mochimochi.json) |
 | Mock 2: The Speed of Stupid | 238485 | [238485-mock-2-the-speed-of-stupid.json](./238485-mock-2-the-speed-of-stupid.json) |
 | Mockingbird | 264759 | [264759-mockingbird.json](./264759-mockingbird.json) |
 | Moco Moco Friends | 19983 | [19983-moco-moco-friends.json](./19983-moco-moco-friends.json) |
@@ -16456,6 +16461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto GP: Ultimate racing technology | 8268 | [8268-moto-gp-ultimate-racing-technology.json](./8268-moto-gp-ultimate-racing-technology.json) |
 | Moto Hero | 197706 | [197706-moto-hero.json](./197706-moto-hero.json) |
 | Moto Heyalda | 175288 | [175288-moto-heyalda.json](./175288-moto-heyalda.json) |
+| Moto Highway Rider | 101535 | [101535-moto-highway-rider.json](./101535-moto-highway-rider.json) |
 | Moto Knight | 287203 | [287203-moto-knight.json](./287203-moto-knight.json) |
 | Moto Mania Dirt Bike Challenge | 102829 | [102829-moto-mania-dirt-bike-challenge.json](./102829-moto-mania-dirt-bike-challenge.json) |
 | Moto Maniac 2 | 213814 | [213814-moto-maniac-2.json](./213814-moto-maniac-2.json) |
@@ -17721,6 +17727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multia Space Program | 165913 | [165913-multia-space-program.json](./165913-multia-space-program.json) |
 | Multibombers | 107507 | [107507-multibombers.json](./107507-multibombers.json) |
 | Multibowl | 239313 | [239313-multibowl.json](./239313-multibowl.json) |
+| Multicellular | 107905 | [107905-multicellular.json](./107905-multicellular.json) |
 | Multicraft | 39187 | [39187-multicraft.json](./39187-multicraft.json) |
 | Multicrash! | 290712 | [290712-multicrash.json](./290712-multicrash.json) |
 | Multidimensions and Dreams | 231301 | [231301-multidimensions-and-dreams.json](./231301-multidimensions-and-dreams.json) |
