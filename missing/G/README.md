@@ -1095,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game & Watch Ball | 76971 | [76971-game-and-watch-ball.json](./76971-game-and-watch-ball.json) |
 | Game & Watch Chef | 84556 | [84556-game-and-watch-chef.json](./84556-game-and-watch-chef.json) |
 | Game & Watch Collection | 78002 | [78002-game-and-watch-collection.json](./78002-game-and-watch-collection.json) |
+| Game & Watch Collection 2 | 84553 | [84553-game-and-watch-collection-2.json](./84553-game-and-watch-collection-2.json) |
 | Game & Watch Donkey Kong Jr | 339261 | [339261-game-and-watch-donkey-kong-jr.json](./339261-game-and-watch-donkey-kong-jr.json) |
 | Game & Watch Donkey Kong Jr. | 206932 | [206932-game-and-watch-donkey-kong-jr.json](./206932-game-and-watch-donkey-kong-jr.json) |
 | Game & Watch Flagman | 84554 | [84554-game-and-watch-flagman.json](./84554-game-and-watch-flagman.json) |
@@ -1593,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangstar 2: Kings of L.A | 67149 | [67149-gangstar-2-kings-of-l-a.json](./67149-gangstar-2-kings-of-l-a.json) |
 | Gangstar City | 383591 | [383591-gangstar-city.json](./383591-gangstar-city.json) |
 | Gangstar City | 403574 | [403574-gangstar-city.json](./403574-gangstar-city.json) |
+| Gangstar New Orleans | 83319 | [83319-gangstar-new-orleans.json](./83319-gangstar-new-orleans.json) |
 | Gangstar New York | 211210 | [211210-gangstar-new-york.json](./211210-gangstar-new-york.json) |
 | Gangstar Rio: City of Saints | 65172 | [65172-gangstar-rio-city-of-saints.json](./65172-gangstar-rio-city-of-saints.json) |
 | Gangstar Vegas | 38934 | [38934-gangstar-vegas.json](./38934-gangstar-vegas.json) |
