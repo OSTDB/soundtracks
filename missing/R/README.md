@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid HQ | 96607 | [96607-raid-hq.json](./96607-raid-hq.json) |
 | Raid in Galaxy | 371284 | [371284-raid-in-galaxy.json](./371284-raid-in-galaxy.json) |
 | Raid Land | 130721 | [130721-raid-land.json](./130721-raid-land.json) |
+| Raid Lead: Echoes of Gaia | 423368 | [423368-raid-lead-echoes-of-gaia.json](./423368-raid-lead-echoes-of-gaia.json) |
 | Raid Leader | 237385 | [237385-raid-leader.json](./237385-raid-leader.json) |
 | Raid Manager | 197655 | [197655-raid-manager.json](./197655-raid-manager.json) |
 | Raid of Battlefield | 212113 | [212113-raid-of-battlefield.json](./212113-raid-of-battlefield.json) |
@@ -6731,6 +6732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle Girl | 187039 | [187039-riddle-girl.json](./187039-riddle-girl.json) |
 | Riddle in Riddle | 150114 | [150114-riddle-in-riddle.json](./150114-riddle-in-riddle.json) |
 | Riddle Joker | 97388 | [97388-riddle-joker.json](./97388-riddle-joker.json) |
+| Riddle Me Bunny: Nonogram | 423390 | [423390-riddle-me-bunny-nonogram.json](./423390-riddle-me-bunny-nonogram.json) |
 | Riddle of Pythagoras | 40424 | [40424-riddle-of-pythagoras.json](./40424-riddle-of-pythagoras.json) |
 | Riddle of the Jelly | 245943 | [245943-riddle-of-the-jelly.json](./245943-riddle-of-the-jelly.json) |
 | Riddle of the Runes: The Worlds of TSR | 360172 | [360172-riddle-of-the-runes-the-worlds-of-tsr.json](./360172-riddle-of-the-runes-the-worlds-of-tsr.json) |
