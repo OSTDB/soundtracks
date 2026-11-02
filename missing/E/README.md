@@ -2404,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfin Clay | 189904 | [189904-elfin-clay.json](./189904-elfin-clay.json) |
 | Elfin National Park | 341877 | [341877-elfin-national-park.json](./341877-elfin-national-park.json) |
 | Elfin Paradise | 419383 | [419383-elfin-paradise.json](./419383-elfin-paradise.json) |
+| Elfin Twins | 402025 | [402025-elfin-twins.json](./402025-elfin-twins.json) |
 | Elfland | 246394 | [246394-elfland.json](./246394-elfland.json) |
 | ElfLand | 79982 | [79982-elfland.json](./79982-elfland.json) |
 | Elfland Reloaded: Volume 2 | 303238 | [303238-elfland-reloaded-volume-2.json](./303238-elfland-reloaded-volume-2.json) |
@@ -3948,6 +3949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enshrouded World: Home Truths | 27676 | [27676-enshrouded-world-home-truths.json](./27676-enshrouded-world-home-truths.json) |
 | Enshrouded: Thralls of Twilight | 339610 | [339610-enshrouded-thralls-of-twilight.json](./339610-enshrouded-thralls-of-twilight.json) |
 | Ensign-1 | 17606 | [17606-ensign-1.json](./17606-ensign-1.json) |
+| Ensis Idle | 402072 | [402072-ensis-idle.json](./402072-ensis-idle.json) |
 | Ensismoon | 28103 | [28103-ensismoon.json](./28103-ensismoon.json) |
 | Enslaved Odyssey: To The West - Collector's Edition | 44658 | [44658-enslaved-odyssey-to-the-west-collectors-edition.json](./44658-enslaved-odyssey-to-the-west-collectors-edition.json) |
 | Enslaved: Odyssey to the West | 2538 | [2538-enslaved-odyssey-to-the-west.json](./2538-enslaved-odyssey-to-the-west.json) |
