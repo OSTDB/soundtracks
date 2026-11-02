@@ -2049,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oncoming Death Steam Edition | 36377 | [36377-oncoming-death-steam-edition.json](./36377-oncoming-death-steam-edition.json) |
 | OncPangTzu Man | 116341 | [116341-oncpangtzu-man.json](./116341-oncpangtzu-man.json) |
 | Ondal | 345022 | [345022-ondal.json](./345022-ondal.json) |
+| Ondeh Ondeh Kaya's Tasty Tale | 417173 | [417173-ondeh-ondeh-kayas-tasty-tale.json](./417173-ondeh-ondeh-kayas-tasty-tale.json) |
 | Ondeki | 148410 | [148410-ondeki.json](./148410-ondeki.json) |
 | Onder | 159781 | [159781-onder.json](./159781-onder.json) |
 | One | 202503 | [202503-one.json](./202503-one.json) |
@@ -3010,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onyanko Town | 48405 | [48405-onyanko-town.json](./48405-onyanko-town.json) |
 | Onyx | 131338 | [131338-onyx.json](./131338-onyx.json) |
 | Onyx | 35244 | [35244-onyx.json](./35244-onyx.json) |
+| Onyx: The Dark Grip | 417170 | [417170-onyx-the-dark-grip.json](./417170-onyx-the-dark-grip.json) |
 | oO | 35316 | [35316-oo.json](./35316-oo.json) |
 | Oo-Topos | 25611 | [25611-oo-topos.json](./25611-oo-topos.json) |
 | OO.Inc | 113310 | [113310-oo-inc.json](./113310-oo-inc.json) |
@@ -5181,6 +5183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over Heroes | 341527 | [341527-over-heroes.json](./341527-over-heroes.json) |
 | Over Horizon | 48190 | [48190-over-horizon.json](./48190-over-horizon.json) |
 | Over Horizon X Steel Empire | 306553 | [306553-over-horizon-x-steel-empire.json](./306553-over-horizon-x-steel-empire.json) |
+| Over Human | 419795 | [419795-over-human.json](./419795-over-human.json) |
 | Over Islands | 291525 | [291525-over-islands.json](./291525-over-islands.json) |
 | Over Jump Rally | 260225 | [260225-over-jump-rally.json](./260225-over-jump-rally.json) |
 | Over Many Waters | 270964 | [270964-over-many-waters.json](./270964-over-many-waters.json) |
@@ -5284,6 +5287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overdrive | 12710 | [12710-overdrive.json](./12710-overdrive.json) |
 | Overdrive | 203565 | [203565-overdrive.json](./203565-overdrive.json) |
 | Overdrive Blaster | 308322 | [308322-overdrive-blaster.json](./308322-overdrive-blaster.json) |
+| Overdrive Breakout | 419761 | [419761-overdrive-breakout.json](./419761-overdrive-breakout.json) |
 | Overdrive City | 136934 | [136934-overdrive-city.json](./136934-overdrive-city.json) |
 | Overdrive Escape | 249296 | [249296-overdrive-escape.json](./249296-overdrive-escape.json) |
 | Overdrive II: Shadow Battle | 323169 | [323169-overdrive-ii-shadow-battle.json](./323169-overdrive-ii-shadow-battle.json) |
@@ -5320,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overhead | 86745 | [86745-overhead.json](./86745-overhead.json) |
 | Overhead Kick | 248319 | [248319-overhead-kick.json](./248319-overhead-kick.json) |
 | Overheat | 163156 | [163156-overheat.json](./163156-overheat.json) |
+| Overheat | 417171 | [417171-overheat.json](./417171-overheat.json) |
 | Overheat: Kitchen Chaos | 324134 | [324134-overheat-kitchen-chaos.json](./324134-overheat-kitchen-chaos.json) |
 | Overhell | 32555 | [32555-overhell.json](./32555-overhell.json) |
 | Overhills | 279108 | [279108-overhills.json](./279108-overhills.json) |
@@ -5438,6 +5443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oversomnia | 202573 | [202573-oversomnia.json](./202573-oversomnia.json) |
 | OverSoul | 109067 | [109067-oversoul.json](./109067-oversoul.json) |
 | Overstars | 151286 | [151286-overstars.json](./151286-overstars.json) |
+| Oversteer Mini | 419790 | [419790-oversteer-mini.json](./419790-oversteer-mini.json) |
 | Overstimulacrum | 415461 | [415461-overstimulacrum.json](./415461-overstimulacrum.json) |
 | Overstorm | 267498 | [267498-overstorm.json](./267498-overstorm.json) |
 | Overstrike Arena | 235650 | [235650-overstrike-arena.json](./235650-overstrike-arena.json) |
