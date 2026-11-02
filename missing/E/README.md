@@ -4737,6 +4737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Black Orion VR | 107408 | [107408-escape-black-orion-vr.json](./107408-escape-black-orion-vr.json) |
 | Escape Block King | 402311 | [402311-escape-block-king.json](./402311-escape-block-king.json) |
 | Escape Blocks | 295269 | [295269-escape-blocks.json](./295269-escape-blocks.json) |
+| Escape Bloody Mary | 30911 | [30911-escape-bloody-mary.json](./30911-escape-bloody-mary.json) |
 | Escape Blythe Castle | 250412 | [250412-escape-blythe-castle.json](./250412-escape-blythe-castle.json) |
 | Escape By Spoon | 396421 | [396421-escape-by-spoon.json](./396421-escape-by-spoon.json) |
 | Escape Camp Waddalooh | 75641 | [75641-escape-camp-waddalooh.json](./75641-escape-camp-waddalooh.json) |
@@ -7133,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exist.EXE | 194917 | [194917-exist-exe.json](./194917-exist-exe.json) |
 | Existence | 113056 | [113056-existence.json](./113056-existence.json) |
 | Existence = !Existence; | 110168 | [110168-existence-existence.json](./110168-existence-existence.json) |
+| Existence speed | 30985 | [30985-existence-speed.json](./30985-existence-speed.json) |
 | Existensis | 149445 | [149445-existensis.json](./149445-existensis.json) |
 | Existentia | 31805 | [31805-existentia.json](./31805-existentia.json) |
 | Existential | 193503 | [193503-existential.json](./193503-existential.json) |
