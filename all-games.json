@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-02T21:02:24.696Z",
-  "total_soundtracks": 2812,
+  "generated_at": "2026-11-02T21:26:38.273Z",
+  "total_soundtracks": 2821,
   "games": [
     {
       "igdb_id": 7522,
@@ -193,6 +193,20 @@
         {
           "album_name": "7 Nights Keeper (The Original Videogame Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6q0DnoA2CGXfnSaC2Unc43",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 115336,
+      "game_name": "7th Sector",
+      "game_url": "https://ostdb.net/games/7th-sector",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e52fb8e463cb26d7ea898f32",
+      "albums": [
+        {
+          "album_name": "7th Sector (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4u8EPfPA7JQL5of6D2cRY2",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -8407,6 +8421,20 @@
       ]
     },
     {
+      "igdb_id": 114004,
+      "game_name": "Doomblade",
+      "game_url": "https://ostdb.net/games/doomblade",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a879a9e36f525ab0ce19a1f7",
+      "albums": [
+        {
+          "album_name": "DOOMBLADE (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6Kz4y4nm5IqrtXdup2Vjnv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 59078,
       "game_name": "Door Kickers 2",
       "game_url": "https://ostdb.net/games/door-kickers-2",
@@ -9958,6 +9986,20 @@
           "album_name": "Fallout 76 (Original Game Score)",
           "spotify_url": "https://open.spotify.com/album/3ADB1ffqYnHvd8vAMfL5YP",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 132141,
+      "game_name": "Fallout 76: Wastelanders",
+      "game_url": "https://ostdb.net/games/fallout-76-wastelanders",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735036bb8a3eafe894a41066f8",
+      "albums": [
+        {
+          "album_name": "Fallout 76: Wastelanders (Original Game Score)",
+          "spotify_url": "https://open.spotify.com/album/0S2rzfh3XjKYTkbnunt6Np",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -12829,6 +12871,20 @@
       ]
     },
     {
+      "igdb_id": 123830,
+      "game_name": "Grim Clicker",
+      "game_url": "https://ostdb.net/games/grim-clicker",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f33d21d2a0d423d549501f4f",
+      "albums": [
+        {
+          "album_name": "Grim Clicker Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2Lr3a6WKINuV5tiGvJKSYD",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1907,
       "game_name": "Grim Dawn",
       "game_url": "https://ostdb.net/games/grim-dawn",
@@ -13633,6 +13689,20 @@
         {
           "album_name": "Hawken (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0UNTrituFTZdMBUppnrk8K",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 24516,
+      "game_name": "Haydee",
+      "game_url": "https://ostdb.net/games/haydee",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738f8eeb7ed2ce756cc237336b",
+      "albums": [
+        {
+          "album_name": "Haydee (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5SVLjZ0qWqHkZBcEzv8TCr",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -17021,6 +17091,20 @@
         {
           "album_name": "Lovers in a Dangerous Spacetime (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7lCIuRb5u4LzZQAoaMKUCo",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 99120,
+      "game_name": "Lucah: Born of a Dream",
+      "game_url": "https://ostdb.net/games/lucah-born-of-a-dream",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f823bea3fd01912bd157625f",
+      "albums": [
+        {
+          "album_name": "Lucah: Born of a Dream (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1HDGRH3gHTwOcjvCcVrI4F",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -25225,6 +25309,20 @@
       ]
     },
     {
+      "igdb_id": 26808,
+      "game_name": "She Remembered Caterpillars",
+      "game_url": "https://ostdb.net/games/she-remembered-caterpillars",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273aad7aa964d571976df678fe7",
+      "albums": [
+        {
+          "album_name": "She Remembered Caterpillars (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/61fMUO9mDyoZhTcDpdjawP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 152436,
       "game_name": "Sheepy: A Short Adventure",
       "game_url": "https://ostdb.net/games/sheepy-a-short-adventure",
@@ -27947,6 +28045,20 @@
       ]
     },
     {
+      "igdb_id": 115624,
+      "game_name": "Struggling",
+      "game_url": "https://ostdb.net/games/struggling",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27302d5c746258a6625ea841069",
+      "albums": [
+        {
+          "album_name": "Struggling OST",
+          "spotify_url": "https://open.spotify.com/album/1K7zlI7znGRUjG1AR5QtpJ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 142391,
       "game_name": "Stumble Guys",
       "game_url": "https://ostdb.net/games/stumble-guys",
@@ -28097,6 +28209,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/suicide-squad-kill-the-justice-league-original-video/1725044347?uo=4",
           "album_link_url": "https://album.link/i/1725044347"
+        }
+      ]
+    },
+    {
+      "igdb_id": 127571,
+      "game_name": "Summer Pockets Reflection Blue",
+      "game_url": "https://ostdb.net/games/summer-pockets-reflection-blue",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a6f445f5b808baa19440836a",
+      "albums": [
+        {
+          "album_name": "Summer Pockets REFLECTION BLUE Original SoundTrack",
+          "spotify_url": "https://open.spotify.com/album/7o04O9eha4RSyBn7t1xAXt",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
