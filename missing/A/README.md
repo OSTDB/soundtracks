@@ -3786,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aesoteric Collection | 164209 | [164209-aesoteric-collection.json](./164209-aesoteric-collection.json) |
 | Aestheta | 349742 | [349742-aestheta.json](./349742-aestheta.json) |
 | Aesthetic | 325102 | [325102-aesthetic.json](./325102-aesthetic.json) |
+| Aesthetic Arena | 93784 | [93784-aesthetic-arena.json](./93784-aesthetic-arena.json) |
 | Aesthetic Clicker | 309906 | [309906-aesthetic-clicker.json](./309906-aesthetic-clicker.json) |
 | Aesthetic Melody | 28894 | [28894-aesthetic-melody.json](./28894-aesthetic-melody.json) |
 | Aesthetic Melody: Digital Deluxe Edition | 52575 | [52575-aesthetic-melody-digital-deluxe-edition.json](./52575-aesthetic-melody-digital-deluxe-edition.json) |
@@ -4955,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Combat | 14691 | [14691-air-combat.json](./14691-air-combat.json) |
 | Air Combat | 333953 | [333953-air-combat.json](./333953-air-combat.json) |
 | Air Combat 2015 | 227208 | [227208-air-combat-2015.json](./227208-air-combat-2015.json) |
+| Air Combat Arena | 94974 | [94974-air-combat-arena.json](./94974-air-combat-arena.json) |
 | Air Combat Fighter | 119024 | [119024-air-combat-fighter.json](./119024-air-combat-fighter.json) |
 | Air Combat II Special | 299793 | [299793-air-combat-ii-special.json](./299793-air-combat-ii-special.json) |
 | Air Combat III | 171887 | [171887-air-combat-iii.json](./171887-air-combat-iii.json) |
@@ -14038,6 +14040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashley Jones and the Heart of Egypt | 52421 | [52421-ashley-jones-and-the-heart-of-egypt.json](./52421-ashley-jones-and-the-heart-of-egypt.json) |
 | Ashley: The Emptiness Inside | 134397 | [134397-ashley-the-emptiness-inside.json](./134397-ashley-the-emptiness-inside.json) |
 | Ashley: The One-Spell Mage | 318622 | [318622-ashley-the-one-spell-mage.json](./318622-ashley-the-one-spell-mage.json) |
+| Ashley: The Story Of Survival | 93754 | [93754-ashley-the-story-of-survival.json](./93754-ashley-the-story-of-survival.json) |
 | Ashley's Adventure: Get a Job or Die Trying | 378209 | [378209-ashleys-adventure-get-a-job-or-die-trying.json](./378209-ashleys-adventure-get-a-job-or-die-trying.json) |
 | Ashmedai: Queen of Lust | 160019 | [160019-ashmedai-queen-of-lust.json](./160019-ashmedai-queen-of-lust.json) |
 | Ashram Online | 419128 | [419128-ashram-online.json](./419128-ashram-online.json) |
