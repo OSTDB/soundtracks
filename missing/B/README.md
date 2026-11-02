@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babysitter Simulator | 203902 | [203902-babysitter-simulator.json](./203902-babysitter-simulator.json) |
 | Babysitter Steve | 245197 | [245197-babysitter-steve.json](./245197-babysitter-steve.json) |
 | Babysitting Fun | 310540 | [310540-babysitting-fun.json](./310540-babysitting-fun.json) |
+| Babysitting Is Murder | 400602 | [400602-babysitting-is-murder.json](./400602-babysitting-is-murder.json) |
 | Babysitting Mama | 4686 | [4686-babysitting-mama.json](./4686-babysitting-mama.json) |
 | Babysitting Mania | 47979 | [47979-babysitting-mania.json](./47979-babysitting-mania.json) |
 | Babysitting Party | 92669 | [92669-babysitting-party.json](./92669-babysitting-party.json) |
@@ -917,7 +918,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2828,6 +2828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Mogul 2015 | 34798 | [34798-baseball-mogul-2015.json](./34798-baseball-mogul-2015.json) |
 | Baseball Mogul 2018 | 99042 | [99042-baseball-mogul-2018.json](./99042-baseball-mogul-2018.json) |
 | Baseball Mogul 2021 | 144946 | [144946-baseball-mogul-2021.json](./144946-baseball-mogul-2021.json) |
+| Baseball Mogul 2026 | 400433 | [400433-baseball-mogul-2026.json](./400433-baseball-mogul-2026.json) |
 | Baseball Mogul 99 | 80774 | [80774-baseball-mogul-99.json](./80774-baseball-mogul-99.json) |
 | Baseball Mogul Diamond | 31952 | [31952-baseball-mogul-diamond.json](./31952-baseball-mogul-diamond.json) |
 | Baseball Pro's | 279700 | [279700-baseball-pros.json](./279700-baseball-pros.json) |
@@ -9994,6 +9995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Rocking Beats | 37380 | [37380-block-rocking-beats.json](./37380-block-rocking-beats.json) |
 | Block Room | 259452 | [259452-block-room.json](./259452-block-room.json) |
 | Block Royale | 30589 | [30589-block-royale.json](./30589-block-royale.json) |
+| Block Run | 400587 | [400587-block-run.json](./400587-block-run.json) |
 | Block Rush 3 | 369015 | [369015-block-rush-3.json](./369015-block-rush-3.json) |
 | Block Shock: The Last Chance | 14321 | [14321-block-shock-the-last-chance.json](./14321-block-shock-the-last-chance.json) |
 | Block Shop | 283387 | [283387-block-shop.json](./283387-block-shop.json) |
@@ -10357,6 +10359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Card 2: Dark Mist | 151994 | [151994-blood-card-2-dark-mist.json](./151994-blood-card-2-dark-mist.json) |
 | Blood City | 108386 | [108386-blood-city.json](./108386-blood-city.json) |
 | Blood Cleaner | 322804 | [322804-blood-cleaner.json](./322804-blood-cleaner.json) |
+| Blood Clicker | 400597 | [400597-blood-clicker.json](./400597-blood-clicker.json) |
 | Blood Code | 34853 | [34853-blood-code.json](./34853-blood-code.json) |
 | Blood Code: Complete Edition | 52647 | [52647-blood-code-complete-edition.json](./52647-blood-code-complete-edition.json) |
 | Blood Code: Costume Pack | 155374 | [155374-blood-code-costume-pack.json](./155374-blood-code-costume-pack.json) |
