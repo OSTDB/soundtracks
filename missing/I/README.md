@@ -1783,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignisia | 328239 | [328239-ignisia.json](./328239-ignisia.json) |
 | Ignistone | 248000 | [248000-ignistone.json](./248000-ignistone.json) |
 | Ignite | 138125 | [138125-ignite.json](./138125-ignite.json) |
+| Ignite | 16144 | [16144-ignite.json](./16144-ignite.json) |
 | Ignite: Dying Flame | 138126 | [138126-ignite-dying-flame.json](./138126-ignite-dying-flame.json) |
 | Ignited in Cavern | 285690 | [285690-ignited-in-cavern.json](./285690-ignited-in-cavern.json) |
 | Ignitement | 407440 | [407440-ignitement.json](./407440-ignitement.json) |
@@ -5113,6 +5114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invincible Iron Man Gagaga-In | 234088 | [234088-invincible-iron-man-gagaga-in.json](./234088-invincible-iron-man-gagaga-in.json) |
 | Invincible Knight | 64261 | [64261-invincible-knight.json](./64261-invincible-knight.json) |
 | Invincible Medusa | 231359 | [231359-invincible-medusa.json](./231359-invincible-medusa.json) |
+| Invincible Tiger: The Legend of Han Tao | 15937 | [15937-invincible-tiger-the-legend-of-han-tao.json](./15937-invincible-tiger-the-legend-of-han-tao.json) |
 | Invincible Vs: Undercover and Overdressed - Skin Bundle | 411382 | [411382-invincible-vs-undercover-and-overdressed-skin-bundle.json](./411382-invincible-vs-undercover-and-overdressed-skin-bundle.json) |
 | Invincible Vs.: Bots & Monsters - Skin Bundle | 411380 | [411380-invincible-vs-bots-and-monsters-skin-bundle.json](./411380-invincible-vs-bots-and-monsters-skin-bundle.json) |
 | Invincible Vs.: Dupli-Kate - Hidden Zero Skin | 411386 | [411386-invincible-vs-dupli-kate-hidden-zero-skin.json](./411386-invincible-vs-dupli-kate-hidden-zero-skin.json) |
@@ -5481,7 +5483,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironclads 2: Caroline Islands War 1885 | 51941 | [51941-ironclads-2-caroline-islands-war-1885.json](./51941-ironclads-2-caroline-islands-war-1885.json) |
 | Ironclads 2: War of the Pacific | 30721 | [30721-ironclads-2-war-of-the-pacific.json](./30721-ironclads-2-war-of-the-pacific.json) |
 | Ironclads Anthology | 50855 | [50855-ironclads-anthology.json](./50855-ironclads-anthology.json) |
+| Ironclads: American Civil War | 16150 | [16150-ironclads-american-civil-war.json](./16150-ironclads-american-civil-war.json) |
 | Ironclads: Anglo-Russian War 1865 | 54120 | [54120-ironclads-anglo-russian-war-1865.json](./54120-ironclads-anglo-russian-war-1865.json) |
+| Ironclads: High Seas | 16151 | [16151-ironclads-high-seas.json](./16151-ironclads-high-seas.json) |
 | IronCommando | 381583 | [381583-ironcommando.json](./381583-ironcommando.json) |
 | Irondrive | 409778 | [409778-irondrive.json](./409778-irondrive.json) |
 | Ironfall | 405752 | [405752-ironfall.json](./405752-ironfall.json) |
