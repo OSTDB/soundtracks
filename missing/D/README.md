@@ -8104,6 +8104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice of Dusk | 417299 | [417299-dice-of-dusk.json](./417299-dice-of-dusk.json) |
 | Dice of Fate | 136867 | [136867-dice-of-fate.json](./136867-dice-of-fate.json) |
 | Dice of Fate | 413452 | [413452-dice-of-fate.json](./413452-dice-of-fate.json) |
+| Dice of Fate 2 | 411276 | [411276-dice-of-fate-2.json](./411276-dice-of-fate-2.json) |
 | Dice of God | 283318 | [283318-dice-of-god.json](./283318-dice-of-god.json) |
 | Dice of Kalma | 357258 | [357258-dice-of-kalma.json](./357258-dice-of-kalma.json) |
 | Dice of Knights | 166612 | [166612-dice-of-knights.json](./166612-dice-of-knights.json) |
@@ -11167,6 +11168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogz: Fashion | 49403 | [49403-dogz-fashion.json](./49403-dogz-fashion.json) |
 | DoHots | 417407 | [417407-dohots.json](./417407-dohots.json) |
 | Dohyo Dreams: Rise to Yokozuna | 381604 | [381604-dohyo-dreams-rise-to-yokozuna.json](./381604-dohyo-dreams-rise-to-yokozuna.json) |
+| Doinaka Girls Utopia | 411245 | [411245-doinaka-girls-utopia.json](./411245-doinaka-girls-utopia.json) |
 | Doinglessness | 176741 | [176741-doinglessness.json](./176741-doinglessness.json) |
 | Dojagi: The Korean Pottery | 112371 | [112371-dojagi-the-korean-pottery.json](./112371-dojagi-the-korean-pottery.json) |
 | Dojini | 108041 | [108041-dojini.json](./108041-dojini.json) |
@@ -15123,6 +15125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Savior | 385359 | [385359-dream-savior.json](./385359-dream-savior.json) |
 | Dream Seed | 257069 | [257069-dream-seed.json](./257069-dream-seed.json) |
 | Dream Sequences | 202247 | [202247-dream-sequences.json](./202247-dream-sequences.json) |
+| Dream Shark: Part 1 | 411269 | [411269-dream-shark-part-1.json](./411269-dream-shark-part-1.json) |
 | Dream Shogi 4K | 391863 | [391863-dream-shogi-4k.json](./391863-dream-shogi-4k.json) |
 | Dream Shopper | 39629 | [39629-dream-shopper.json](./39629-dream-shopper.json) |
 | Dream Sketcher | 255064 | [255064-dream-sketcher.json](./255064-dream-sketcher.json) |
@@ -16589,6 +16592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Draw: Katana Clash | 397862 | [397862-duel-draw-katana-clash.json](./397862-duel-draw-katana-clash.json) |
 | Duel Hell Purgatory | 338099 | [338099-duel-hell-purgatory.json](./338099-duel-hell-purgatory.json) |
 | Duel Heroes | 249337 | [249337-duel-heroes.json](./249337-duel-heroes.json) |
+| Duel in the Town of Water | 411235 | [411235-duel-in-the-town-of-water.json](./411235-duel-in-the-town-of-water.json) |
 | Duel Jousting | 75770 | [75770-duel-jousting.json](./75770-duel-jousting.json) |
 | Duel Jousting VR | 200515 | [200515-duel-jousting-vr.json](./200515-duel-jousting-vr.json) |
 | Duel Legends | 369734 | [369734-duel-legends.json](./369734-duel-legends.json) |
