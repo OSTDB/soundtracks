@@ -4296,6 +4296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maruchi Akindo | 396190 | [396190-maruchi-akindo.json](./396190-maruchi-akindo.json) |
 | Marudachi | 302189 | [302189-marudachi.json](./302189-marudachi.json) |
 | Maruja Mallo | 226732 | [226732-maruja-mallo.json](./226732-maruja-mallo.json) |
+| Marupoyo: The Round Chick's Adventure | 412114 | [412114-marupoyo-the-round-chicks-adventure.json](./412114-marupoyo-the-round-chicks-adventure.json) |
 | Marusa no Onna | 48430 | [48430-marusa-no-onna.json](./48430-marusa-no-onna.json) |
 | Maruta Escape | 293166 | [293166-maruta-escape.json](./293166-maruta-escape.json) |
 | Marvel 1943: Rise of Hydra | 216315 | [216315-marvel-1943-rise-of-hydra.json](./216315-marvel-1943-rise-of-hydra.json) |
