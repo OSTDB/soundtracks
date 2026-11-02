@@ -3380,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Me Out | 220605 | [220605-let-me-out.json](./220605-let-me-out.json) |
 | Let Me Play! | 375549 | [375549-let-me-play.json](./375549-let-me-play.json) |
 | Let Sleeping Dogs Lie | 343920 | [343920-let-sleeping-dogs-lie.json](./343920-let-sleeping-dogs-lie.json) |
+| Let the Cat In | 35264 | [35264-let-the-cat-in.json](./35264-let-the-cat-in.json) |
 | Let Them Breathe: Selena's Awakening | 312151 | [312151-let-them-breathe-selenas-awakening.json](./312151-let-them-breathe-selenas-awakening.json) |
 | Let Them Come | 31962 | [31962-let-them-come.json](./31962-let-them-come.json) |
 | Let Them Come: Onslaught | 257928 | [257928-let-them-come-onslaught.json](./257928-let-them-come-onslaught.json) |
@@ -6945,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop x Loop | 414105 | [414105-loop-x-loop.json](./414105-loop-x-loop.json) |
 | Loop Yourself | 359021 | [359021-loop-yourself.json](./359021-loop-yourself.json) |
 | Loop-Loop DX | 129382 | [129382-loop-loop-dx.json](./129382-loop-loop-dx.json) |
+| Loop: A Tranquil Puzzle Game | 35278 | [35278-loop-a-tranquil-puzzle-game.json](./35278-loop-a-tranquil-puzzle-game.json) |
 | Loop: New Reality | 333219 | [333219-loop-new-reality.json](./333219-loop-new-reality.json) |
 | Loop: the distress call | 131949 | [131949-loop-the-distress-call.json](./131949-loop-the-distress-call.json) |
 | Loop2Loop | 183776 | [183776-loop2loop.json](./183776-loop2loop.json) |
