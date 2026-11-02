@@ -10351,6 +10351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Am I Still Waiting for the Bus? | 348468 | [348468-how-am-i-still-waiting-for-the-bus.json](./348468-how-am-i-still-waiting-for-the-bus.json) |
 | How Are You Doing? | 177496 | [177496-how-are-you-doing.json](./177496-how-are-you-doing.json) |
 | How Asian Parents went to School | 399104 | [399104-how-asian-parents-went-to-school.json](./399104-how-asian-parents-went-to-school.json) |
+| How Buddy's Parents Met | 129321 | [129321-how-buddys-parents-met.json](./129321-how-buddys-parents-met.json) |
 | How Deep is Your Love | 176287 | [176287-how-deep-is-your-love.json](./176287-how-deep-is-your-love.json) |
 | How did I get here? | 203399 | [203399-how-did-i-get-here.json](./203399-how-did-i-get-here.json) |
 | How Did My Dad Go to School | 389744 | [389744-how-did-my-dad-go-to-school.json](./389744-how-did-my-dad-go-to-school.json) |
@@ -11746,6 +11747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperforma | 96727 | [96727-hyperforma.json](./96727-hyperforma.json) |
 | Hyperforma: Lost Archives - Fragment I | 262316 | [262316-hyperforma-lost-archives-fragment-i.json](./262316-hyperforma-lost-archives-fragment-i.json) |
 | Hyperforma: Lost Archives - Fragment II | 262317 | [262317-hyperforma-lost-archives-fragment-ii.json](./262317-hyperforma-lost-archives-fragment-ii.json) |
+| Hypergalactic Psychic Table Tennis 3000 | 129705 | [129705-hypergalactic-psychic-table-tennis-3000.json](./129705-hypergalactic-psychic-table-tennis-3000.json) |
 | Hypergalaxy Squad | 113397 | [113397-hypergalaxy-squad.json](./113397-hypergalaxy-squad.json) |
 | Hypergate | 87985 | [87985-hypergate.json](./87985-hypergate.json) |
 | HyperGlide | 211194 | [211194-hyperglide.json](./211194-hyperglide.json) |
