@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Alliance: Back in Action - Point Blank | 10468 | [10468-jagged-alliance-back-in-action-point-blank.json](./10468-jagged-alliance-back-in-action-point-blank.json) |
 | Jagged Alliance: Back in Action - Shades of Red | 10469 | [10469-jagged-alliance-back-in-action-shades-of-red.json](./10469-jagged-alliance-back-in-action-shades-of-red.json) |
 | Jagged Alliance: Complete Edition | 98495 | [98495-jagged-alliance-complete-edition.json](./98495-jagged-alliance-complete-edition.json) |
+| Jagged Alliance: Crossfire | 10467 | [10467-jagged-alliance-crossfire.json](./10467-jagged-alliance-crossfire.json) |
 | Jagged Alliance: Deadly Games | 8 | [8-jagged-alliance-deadly-games.json](./8-jagged-alliance-deadly-games.json) |
 | Jagged Alliance: Rage! | 107138 | [107138-jagged-alliance-rage.json](./107138-jagged-alliance-rage.json) |
 | Jagged Bone | 177826 | [177826-jagged-bone.json](./177826-jagged-bone.json) |
