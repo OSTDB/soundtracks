@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer Champ | 337564 | [337564-hammer-champ.json](./337564-hammer-champ.json) |
 | Hammer climber - Hard Get Over | 105944 | [105944-hammer-climber-hard-get-over.json](./105944-hammer-climber-hard-get-over.json) |
 | Hammer Dongers | 140483 | [140483-hammer-dongers.json](./140483-hammer-dongers.json) |
+| Hammer Heads Deluxe | 27818 | [27818-hammer-heads-deluxe.json](./27818-hammer-heads-deluxe.json) |
 | Hammer Hero | 299398 | [299398-hammer-hero.json](./299398-hammer-hero.json) |
 | Hammer Joe | 307586 | [307586-hammer-joe.json](./307586-hammer-joe.json) |
 | Hammer Keep | 180796 | [180796-hammer-keep.json](./180796-hammer-keep.json) |
@@ -5392,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Hellspawn: Learn Arithmetic | 384284 | [384284-hero-hellspawn-learn-arithmetic.json](./384284-hero-hellspawn-learn-arithmetic.json) |
 | Hero Hours Contract | 122642 | [122642-hero-hours-contract.json](./122642-hero-hours-contract.json) |
 | Hero Hours Contract 2: A Factory for Magical Girls | 211591 | [211591-hero-hours-contract-2-a-factory-for-magical-girls.json](./211591-hero-hours-contract-2-a-factory-for-magical-girls.json) |
+| Hero Hunters | 87050 | [87050-hero-hunters.json](./87050-hero-hunters.json) |
 | Hero Hunters: Jurassic Shooting Sniper | 104069 | [104069-hero-hunters-jurassic-shooting-sniper.json](./104069-hero-hunters-jurassic-shooting-sniper.json) |
 | Hero in an All-forgiving Fantasy World RPG | 357423 | [357423-hero-in-an-all-forgiving-fantasy-world-rpg.json](./357423-hero-in-an-all-forgiving-fantasy-world-rpg.json) |
 | Hero in the Castle of Doom | 40173 | [40173-hero-in-the-castle-of-doom.json](./40173-hero-in-the-castle-of-doom.json) |
@@ -11313,6 +11315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Husky's Adventures | 152733 | [152733-huskys-adventures.json](./152733-huskys-adventures.json) |
 | Hustle | 40054 | [40054-hustle.json](./40054-hustle.json) |
 | Hustle Battle: Card Gamers | 393003 | [393003-hustle-battle-card-gamers.json](./393003-hustle-battle-card-gamers.json) |
+| Hustle Castle | 87280 | [87280-hustle-castle.json](./87280-hustle-castle.json) |
 | Hustle Cat | 33277 | [33277-hustle-cat.json](./33277-hustle-cat.json) |
 | Hustle City | 142224 | [142224-hustle-city.json](./142224-hustle-city.json) |
 | Hustle Quest: Historia of Urth | 299155 | [299155-hustle-quest-historia-of-urth.json](./299155-hustle-quest-historia-of-urth.json) |
