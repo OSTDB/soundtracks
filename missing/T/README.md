@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TAL: Arctic 3 | 107516 | [107516-tal-arctic-3.json](./107516-tal-arctic-3.json) |
 | Tal: Arctic 5 | 234517 | [234517-tal-arctic-5.json](./234517-tal-arctic-5.json) |
 | TAL: Wizard's Adventures | 126956 | [126956-tal-wizards-adventures.json](./126956-tal-wizards-adventures.json) |
+| Talaire | 423953 | [423953-talaire.json](./423953-talaire.json) |
 | Talaka | 366585 | [366585-talaka.json](./366585-talaka.json) |
 | Tale of a Hero | 63385 | [63385-tale-of-a-hero.json](./63385-tale-of-a-hero.json) |
 | Tale of a Wolf | 139641 | [139641-tale-of-a-wolf.json](./139641-tale-of-a-wolf.json) |
@@ -1023,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales from Mars | 322012 | [322012-tales-from-mars.json](./322012-tales-from-mars.json) |
 | Tales from My Ass: Slice of Death | 255845 | [255845-tales-from-my-ass-slice-of-death.json](./255845-tales-from-my-ass-slice-of-death.json) |
 | Tales From Space: About A Blob | 52908 | [52908-tales-from-space-about-a-blob.json](./52908-tales-from-space-about-a-blob.json) |
+| Tales from the Age of Men | 423994 | [423994-tales-from-the-age-of-men.json](./423994-tales-from-the-age-of-men.json) |
 | Tales From The Arcade: Fartmania | 296471 | [296471-tales-from-the-arcade-fartmania.json](./296471-tales-from-the-arcade-fartmania.json) |
 | Tales From The Arcade: Starship Murder | 263742 | [263742-tales-from-the-arcade-starship-murder.json](./263742-tales-from-the-arcade-starship-murder.json) |
 | Tales from the Borderlands: Episode 4 - Escape Plan Bravo | 127037 | [127037-tales-from-the-borderlands-episode-4-escape-plan-bravo.json](./127037-tales-from-the-borderlands-episode-4-escape-plan-bravo.json) |
@@ -2479,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taskmaster | 67877 | [67877-taskmaster.json](./67877-taskmaster.json) |
 | Tasks for Two | 368277 | [368277-tasks-for-two.json](./368277-tasks-for-two.json) |
 | TaskTwist | 270553 | [270553-tasktwist.json](./270553-tasktwist.json) |
+| Tasmon: Taskbar Monsters | 424015 | [424015-tasmon-taskbar-monsters.json](./424015-tasmon-taskbar-monsters.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
 | Tasogare no Sinsemilla | 60444 | [60444-tasogare-no-sinsemilla.json](./60444-tasogare-no-sinsemilla.json) |
 | Tasogare Sakaba: Uwabami Breakers | 123588 | [123588-tasogare-sakaba-uwabami-breakers.json](./123588-tasogare-sakaba-uwabami-breakers.json) |
@@ -3609,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of the Thousand-Faced Moon | 271312 | [271312-temple-of-the-thousand-faced-moon.json](./271312-temple-of-the-thousand-faced-moon.json) |
 | Temple of the Wumpus | 148767 | [148767-temple-of-the-wumpus.json](./148767-temple-of-the-wumpus.json) |
 | Temple of Yog | 60419 | [60419-temple-of-yog.json](./60419-temple-of-yog.json) |
+| Temple of Your Mom | 423954 | [423954-temple-of-your-mom.json](./423954-temple-of-your-mom.json) |
 | Temple Raid | 74503 | [74503-temple-raid.json](./74503-temple-raid.json) |
 | Temple Raider | 181596 | [181596-temple-raider.json](./181596-temple-raider.json) |
 | Temple Roll | 256231 | [256231-temple-roll.json](./256231-temple-roll.json) |
@@ -6835,6 +6839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chosen RPG | 146264 | [146264-the-chosen-rpg.json](./146264-the-chosen-rpg.json) |
 | The Chosen Warriors | 81229 | [81229-the-chosen-warriors.json](./81229-the-chosen-warriors.json) |
 | The Chosen: Well of Souls | 21228 | [21228-the-chosen-well-of-souls.json](./21228-the-chosen-well-of-souls.json) |
+| The Christmas Bakeshop | 423963 | [423963-the-christmas-bakeshop.json](./423963-the-christmas-bakeshop.json) |
 | The Christmas Gifts | 105688 | [105688-the-christmas-gifts.json](./105688-the-christmas-gifts.json) |
 | The Christmas Pickle | 391279 | [391279-the-christmas-pickle.json](./391279-the-christmas-pickle.json) |
 | The Christmas Spirit: Golden Ticket | 187968 | [187968-the-christmas-spirit-golden-ticket.json](./187968-the-christmas-spirit-golden-ticket.json) |
@@ -7830,6 +7835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil's Garden | 105280 | [105280-the-devils-garden.json](./105280-the-devils-garden.json) |
 | The Devil's Gospel | 184448 | [184448-the-devils-gospel.json](./184448-the-devils-gospel.json) |
 | The Devil's Imago | 276009 | [276009-the-devils-imago.json](./276009-the-devils-imago.json) |
+| The Devil's in the Details | 423982 | [423982-the-devils-in-the-details.json](./423982-the-devils-in-the-details.json) |
 | The Devil's Men | 7613 | [7613-the-devils-men.json](./7613-the-devils-men.json) |
 | The Devil's Route | 288698 | [288698-the-devils-route.json](./288698-the-devils-route.json) |
 | The Devil's Teeth | 234806 | [234806-the-devils-teeth.json](./234806-the-devils-teeth.json) |
@@ -9948,6 +9954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Healing of Sisyphus | 362867 | [362867-the-healing-of-sisyphus.json](./362867-the-healing-of-sisyphus.json) |
 | The Heart Defenders | 224778 | [224778-the-heart-defenders.json](./224778-the-heart-defenders.json) |
 | The Heart of Darkness | 164909 | [164909-the-heart-of-darkness.json](./164909-the-heart-of-darkness.json) |
+| The Heart of Gold | 423951 | [423951-the-heart-of-gold.json](./423951-the-heart-of-gold.json) |
 | The Heart of Influencer | 342275 | [342275-the-heart-of-influencer.json](./342275-the-heart-of-influencer.json) |
 | The Heart of Sourcerer | 208386 | [208386-the-heart-of-sourcerer.json](./208386-the-heart-of-sourcerer.json) |
 | The Heart of Stone | 262563 | [262563-the-heart-of-stone.json](./262563-the-heart-of-stone.json) |
