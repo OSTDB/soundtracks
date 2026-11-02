@@ -1179,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA | 100272 | [100272-nba.json](./100272-nba.json) |
 | NBA 06 | 24143 | [24143-nba-06.json](./24143-nba-06.json) |
 | NBA 08: Featuring the Life - Vol.3 | 43526 | [43526-nba-08-featuring-the-life-vol-3.json](./43526-nba-08-featuring-the-life-vol-3.json) |
+| NBA 09: The Inside | 7383 | [7383-nba-09-the-inside.json](./7383-nba-09-the-inside.json) |
 | NBA 2K | 8832 | [8832-nba-2k.json](./8832-nba-2k.json) |
 | NBA 2K Mobile Basketball | 127918 | [127918-nba-2k-mobile-basketball.json](./127918-nba-2k-mobile-basketball.json) |
 | NBA 2K Playgrounds 2 | 96487 | [96487-nba-2k-playgrounds-2.json](./96487-nba-2k-playgrounds-2.json) |
@@ -1311,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 10 | 7107 | [7107-nba-live-10.json](./7107-nba-live-10.json) |
 | NBA Live 13 | 52624 | [52624-nba-live-13.json](./52624-nba-live-13.json) |
 | NBA Live 14 | 5330 | [5330-nba-live-14.json](./5330-nba-live-14.json) |
+| NBA Live 15 | 7717 | [7717-nba-live-15.json](./7717-nba-live-15.json) |
 | NBA Live 18: The One Edition | 82546 | [82546-nba-live-18-the-one-edition.json](./82546-nba-live-18-the-one-edition.json) |
 | NBA Live 19 Companion | 108456 | [108456-nba-live-19-companion.json](./108456-nba-live-19-companion.json) |
 | NBA Live 19: The One Edition | 118944 | [118944-nba-live-19-the-one-edition.json](./118944-nba-live-19-the-one-edition.json) |
@@ -2020,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekurogahara: Psycho Ronins | 359067 | [359067-nekurogahara-psycho-ronins.json](./359067-nekurogahara-psycho-ronins.json) |
 | Nelda Nockbladder's Anatomy Lesson | 73284 | [73284-nelda-nockbladders-anatomy-lesson.json](./73284-nelda-nockbladders-anatomy-lesson.json) |
 | Nelke & the Legendary Alchemists: Ateliers of a New World - Premium Box | 136794 | [136794-nelke-and-the-legendary-alchemists-ateliers-of-a-new-world-premium-box.json](./136794-nelke-and-the-legendary-alchemists-ateliers-of-a-new-world-premium-box.json) |
+| Nelke & the Legendary Alchemists: Ateliers of the New World | 103335 | [103335-nelke-and-the-legendary-alchemists-ateliers-of-the-new-world.json](./103335-nelke-and-the-legendary-alchemists-ateliers-of-the-new-world.json) |
 | Nell & the Festival of Spooks | 178569 | [178569-nell-and-the-festival-of-spooks.json](./178569-nell-and-the-festival-of-spooks.json) |
 | Nell Watson's Founder Life | 207182 | [207182-nell-watsons-founder-life.json](./207182-nell-watsons-founder-life.json) |
 | Nelli the Seer | 353898 | [353898-nelli-the-seer.json](./353898-nelli-the-seer.json) |
@@ -3493,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL GameDay 99 | 45218 | [45218-nfl-gameday-99.json](./45218-nfl-gameday-99.json) |
 | NFL Hall of Fame Football | 46607 | [46607-nfl-hall-of-fame-football.json](./46607-nfl-hall-of-fame-football.json) |
 | NFL Head Coach | 5963 | [5963-nfl-head-coach.json](./5963-nfl-head-coach.json) |
+| NFL Head Coach 09 | 7117 | [7117-nfl-head-coach-09.json](./7117-nfl-head-coach-09.json) |
 | NFL Instant Replay | 46574 | [46574-nfl-instant-replay.json](./46574-nfl-instant-replay.json) |
 | NFL Kicker 13 | 62170 | [62170-nfl-kicker-13.json](./62170-nfl-kicker-13.json) |
 | NFL Kicker 15 | 58179 | [58179-nfl-kicker-15.json](./58179-nfl-kicker-15.json) |
