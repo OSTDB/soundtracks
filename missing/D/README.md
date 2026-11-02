@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Auction | 264359 | [264359-dark-auction.json](./264359-dark-auction.json) |
 | Dark Avenger | 38510 | [38510-dark-avenger.json](./38510-dark-avenger.json) |
 | Dark Awake: The King Has No Name | 52183 | [52183-dark-awake-the-king-has-no-name.json](./52183-dark-awake-the-king-has-no-name.json) |
+| Dark Bestiary | 117565 | [117565-dark-bestiary.json](./117565-dark-bestiary.json) |
 | Dark Blocks | 167517 | [167517-dark-blocks.json](./167517-dark-blocks.json) |
 | Dark Blood | 62625 | [62625-dark-blood.json](./62625-dark-blood.json) |
 | Dark Blood 2:The Cry of Souls | 291614 | [291614-dark-blood-2-the-cry-of-souls.json](./291614-dark-blood-2-the-cry-of-souls.json) |
@@ -12696,6 +12697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotonon | 341677 | [341677-dotonon.json](./341677-dotonon.json) |
 | Dotori | 143600 | [143600-dotori.json](./143600-dotori.json) |
 | Dotra | 95080 | [95080-dotra.json](./95080-dotra.json) |
+| Dots | 27045 | [27045-dots.json](./27045-dots.json) |
 | Dots | 76631 | [76631-dots.json](./76631-dots.json) |
 | Dots & Boxes | 256165 | [256165-dots-and-boxes.json](./256165-dots-and-boxes.json) |
 | Dots & Co | 186459 | [186459-dots-and-co.json](./186459-dots-and-co.json) |
@@ -15772,6 +15774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop | 86201 | [86201-drop.json](./86201-drop.json) |
 | Drop 'n' Fill! | 330791 | [330791-drop-n-fill.json](./330791-drop-n-fill.json) |
 | Drop & Smash | 227483 | [227483-drop-and-smash.json](./227483-drop-and-smash.json) |
+| Drop Alive | 26494 | [26494-drop-alive.json](./26494-drop-alive.json) |
 | Drop and Grow | 383105 | [383105-drop-and-grow.json](./383105-drop-and-grow.json) |
 | Drop Blox | 155392 | [155392-drop-blox.json](./155392-drop-blox.json) |
 | Drop Boy | 183435 | [183435-drop-boy.json](./183435-drop-boy.json) |
@@ -16954,6 +16957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Mini | 109975 | [109975-dungeon-mini.json](./109975-dungeon-mini.json) |
 | Dungeon Misfits | 387423 | [387423-dungeon-misfits.json](./387423-dungeon-misfits.json) |
 | Dungeon Mori | 338000 | [338000-dungeon-mori.json](./338000-dungeon-mori.json) |
+| Dungeon Munchies | 114484 | [114484-dungeon-munchies.json](./114484-dungeon-munchies.json) |
 | Dungeon Munchies: Collector's Edition | 289355 | [289355-dungeon-munchies-collectors-edition.json](./289355-dungeon-munchies-collectors-edition.json) |
 | Dungeon Munchies: Deluxe Edition | 300483 | [300483-dungeon-munchies-deluxe-edition.json](./300483-dungeon-munchies-deluxe-edition.json) |
 | Dungeon Mutt | 386236 | [386236-dungeon-mutt.json](./386236-dungeon-mutt.json) |
