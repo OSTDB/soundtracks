@@ -7816,6 +7816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Descent | 212890 | [212890-the-descent.json](./212890-the-descent.json) |
 | The Descent | 231521 | [231521-the-descent.json](./231521-the-descent.json) |
 | The Descent | 278996 | [278996-the-descent.json](./278996-the-descent.json) |
+| The Descent of King Hesper | 413412 | [413412-the-descent-of-king-hesper.json](./413412-the-descent-of-king-hesper.json) |
 | The Descent of the Serpent | 230178 | [230178-the-descent-of-the-serpent.json](./230178-the-descent-of-the-serpent.json) |
 | The Desert's Rose | 109710 | [109710-the-deserts-rose.json](./109710-the-deserts-rose.json) |
 | The Designer's Curse | 120971 | [120971-the-designers-curse.json](./120971-the-designers-curse.json) |
@@ -7854,6 +7855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil's Bride | 326215 | [326215-the-devils-bride.json](./326215-the-devils-bride.json) |
 | The Devil's Calculator | 114080 | [114080-the-devils-calculator.json](./114080-the-devils-calculator.json) |
 | The Devil's Chosen | 201449 | [201449-the-devils-chosen.json](./201449-the-devils-chosen.json) |
+| The Devil's Dance | 413398 | [413398-the-devils-dance.json](./413398-the-devils-dance.json) |
 | The Devil's Eight | 55126 | [55126-the-devils-eight.json](./55126-the-devils-eight.json) |
 | The Devil's Face | 236215 | [236215-the-devils-face.json](./236215-the-devils-face.json) |
 | The Devil's Gambit | 186082 | [186082-the-devils-gambit.json](./186082-the-devils-gambit.json) |
@@ -8187,6 +8189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Echo Whispers | 261652 | [261652-the-echo-whispers.json](./261652-the-echo-whispers.json) |
 | The Echoes of Mars | 301841 | [301841-the-echoes-of-mars.json](./301841-the-echoes-of-mars.json) |
 | The Echoes of Me | 398479 | [398479-the-echoes-of-me.json](./398479-the-echoes-of-me.json) |
+| The Echoes of Worlds | 413385 | [413385-the-echoes-of-worlds.json](./413385-the-echoes-of-worlds.json) |
 | The Eclipse Files | 397745 | [397745-the-eclipse-files.json](./397745-the-eclipse-files.json) |
 | The EdCo Incident | 240372 | [240372-the-edco-incident.json](./240372-the-edco-incident.json) |
 | The Eden of Grisaia | 11458 | [11458-the-eden-of-grisaia.json](./11458-the-eden-of-grisaia.json) |
@@ -8480,6 +8483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escape | 365256 | [365256-the-escape.json](./365256-the-escape.json) |
 | The Escape From Atlantis | 48312 | [48312-the-escape-from-atlantis.json](./48312-the-escape-from-atlantis.json) |
 | The Escape from Bungalow | 164182 | [164182-the-escape-from-bungalow.json](./164182-the-escape-from-bungalow.json) |
+| The Escape From Dungeon Keep | 412722 | [412722-the-escape-from-dungeon-keep.json](./412722-the-escape-from-dungeon-keep.json) |
 | The Escape from the Hen-Roost | 69866 | [69866-the-escape-from-the-hen-roost.json](./69866-the-escape-from-the-hen-roost.json) |
 | The Escape Room Chronicles ep 4: The 24-Hour TV Station | 324122 | [324122-the-escape-room-chronicles-ep-4-the-24-hour-tv-station.json](./324122-the-escape-room-chronicles-ep-4-the-24-hour-tv-station.json) |
 | The Escape Room Chronicles ep1: The Mysterious KumaDonald's | 324119 | [324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json](./324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json) |
@@ -11499,6 +11503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Plast | 302126 | [302126-the-last-plast.json](./302126-the-last-plast.json) |
 | The Last Player | 115469 | [115469-the-last-player.json](./115469-the-last-player.json) |
 | The Last Poem: The Trials of Poe | 152776 | [152776-the-last-poem-the-trials-of-poe.json](./152776-the-last-poem-the-trials-of-poe.json) |
+| The Last Portal | 412728 | [412728-the-last-portal.json](./412728-the-last-portal.json) |
 | The Last Portrait | 374928 | [374928-the-last-portrait.json](./374928-the-last-portrait.json) |
 | The Last Practice Sectis | 196044 | [196044-the-last-practice-sectis.json](./196044-the-last-practice-sectis.json) |
 | The Last Prayer | 401304 | [401304-the-last-prayer.json](./401304-the-last-prayer.json) |
@@ -21438,6 +21443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timber Tennis | 36619 | [36619-timber-tennis.json](./36619-timber-tennis.json) |
 | Timber Tennis: Versus | 111463 | [111463-timber-tennis-versus.json](./111463-timber-tennis-versus.json) |
 | Timber Trail | 374638 | [374638-timber-trail.json](./374638-timber-trail.json) |
+| Timber Truck: Chaos Coop | 412754 | [412754-timber-truck-chaos-coop.json](./412754-timber-truck-chaos-coop.json) |
 | Timber Wars | 339305 | [339305-timber-wars.json](./339305-timber-wars.json) |
 | Timber! The Logging Experts | 30595 | [30595-timber-the-logging-experts.json](./30595-timber-the-logging-experts.json) |
 | Timberdoku | 300840 | [300840-timberdoku.json](./300840-timberdoku.json) |
@@ -21957,6 +21963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tint n Ink | 171975 | [171975-tint-n-ink.json](./171975-tint-n-ink.json) |
 | Tint The Saver | 334181 | [334181-tint-the-saver.json](./334181-tint-the-saver.json) |
 | Tint. | 125817 | [125817-tint.json](./125817-tint.json) |
+| Tinted Sands: Welcome to Swirling Paw Point | 412740 | [412740-tinted-sands-welcome-to-swirling-paw-point.json](./412740-tinted-sands-welcome-to-swirling-paw-point.json) |
 | Tintin in Tibet | 249147 | [249147-tintin-in-tibet.json](./249147-tintin-in-tibet.json) |
 | Tintin in Tibet | 249148 | [249148-tintin-in-tibet.json](./249148-tintin-in-tibet.json) |
 | Tintin in Tibet | 249149 | [249149-tintin-in-tibet.json](./249149-tintin-in-tibet.json) |
@@ -22147,6 +22154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Passengers | 175247 | [175247-tiny-passengers.json](./175247-tiny-passengers.json) |
 | Tiny Pasture: Baabaa and Moomoo | 383623 | [383623-tiny-pasture-baabaa-and-moomoo.json](./383623-tiny-pasture-baabaa-and-moomoo.json) |
 | Tiny Pasture: Ribbitribbit and Quackquack | 383625 | [383625-tiny-pasture-ribbitribbit-and-quackquack.json](./383625-tiny-pasture-ribbitribbit-and-quackquack.json) |
+| Tiny Paw Academy: Numbers + Fun | 413372 | [413372-tiny-paw-academy-numbers-fun.json](./413372-tiny-paw-academy-numbers-fun.json) |
 | Tiny Pharaoh: Pixel Strategy | 264011 | [264011-tiny-pharaoh-pixel-strategy.json](./264011-tiny-pharaoh-pixel-strategy.json) |
 | Tiny Pirate Ship | 255044 | [255044-tiny-pirate-ship.json](./255044-tiny-pirate-ship.json) |
 | Tiny Pirates - Activity Book | 104421 | [104421-tiny-pirates-activity-book.json](./104421-tiny-pirates-activity-book.json) |
@@ -22584,6 +22592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNT: Threevilution | 316174 | [316174-tnt-threevilution.json](./316174-tnt-threevilution.json) |
 | TNT! | 118978 | [118978-tnt.json](./118978-tnt.json) |
 | TNTPhobia | 311461 | [311461-tntphobia.json](./311461-tntphobia.json) |
+| To 666: Deliver or Die | 412760 | [412760-to-666-deliver-or-die.json](./412760-to-666-deliver-or-die.json) |
 | To a Starling | 191445 | [191445-to-a-starling.json](./191445-to-a-starling.json) |
 | To Aerthen | 222350 | [222350-to-aerthen.json](./222350-to-aerthen.json) |
 | To Akimon | 115462 | [115462-to-akimon.json](./115462-to-akimon.json) |
@@ -27975,6 +27984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers Rescue Bots: Race to the Rescue | 137611 | [137611-transformers-rescue-bots-race-to-the-rescue.json](./137611-transformers-rescue-bots-race-to-the-rescue.json) |
 | Transformers Tatakai | 70938 | [70938-transformers-tatakai.json](./70938-transformers-tatakai.json) |
 | Transformers Universe | 50241 | [50241-transformers-universe.json](./50241-transformers-universe.json) |
+| Transformers: Battle for the Matrix | 413377 | [413377-transformers-battle-for-the-matrix.json](./413377-transformers-battle-for-the-matrix.json) |
 | Transformers: Battle Masters | 70993 | [70993-transformers-battle-masters.json](./70993-transformers-battle-masters.json) |
 | Transformers: Battle Tactics | 60584 | [60584-transformers-battle-tactics.json](./60584-transformers-battle-tactics.json) |
 | Transformers: Battlegrounds | 137948 | [137948-transformers-battlegrounds.json](./137948-transformers-battlegrounds.json) |
