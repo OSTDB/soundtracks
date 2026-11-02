@@ -3439,7 +3439,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island 2: Neighborhood Watch | 316503 | [316503-dead-island-2-neighborhood-watch.json](./316503-dead-island-2-neighborhood-watch.json) |
 | Dead Island 2: Pulp Weapons Pack | 304458 | [304458-dead-island-2-pulp-weapons-pack.json](./304458-dead-island-2-pulp-weapons-pack.json) |
 | Dead Island 2: Red’s Demise Katana | 304451 | [304451-dead-island-2-red-s-demise-katana.json](./304451-dead-island-2-red-s-demise-katana.json) |
-| Dead Island 2: SoLA | 298542 | [298542-dead-island-2-sola.json](./298542-dead-island-2-sola.json) |
 | Dead Island 2: Ultimate Edition | 320310 | [320310-dead-island-2-ultimate-edition.json](./320310-dead-island-2-ultimate-edition.json) |
 | Dead Island Definitive Collection | 19399 | [19399-dead-island-definitive-collection.json](./19399-dead-island-definitive-collection.json) |
 | Dead Island Double Pack | 145526 | [145526-dead-island-double-pack.json](./145526-dead-island-double-pack.json) |
