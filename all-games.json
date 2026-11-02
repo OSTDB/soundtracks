@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-02T22:26:07.311Z",
-  "total_soundtracks": 2853,
+  "generated_at": "2026-11-02T22:36:27.662Z",
+  "total_soundtracks": 2863,
   "games": [
     {
       "igdb_id": 7522,
@@ -37,6 +37,20 @@
           "spotify_url": "https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4",
           "apple_music_url": "https://music.apple.com/us/album/first-light-single/1893438114?uo=4",
           "album_link_url": "https://album.link/i/1893438114"
+        }
+      ]
+    },
+    {
+      "igdb_id": 9583,
+      "game_name": "0rbitalis",
+      "game_url": "https://ostdb.net/games/0rbitalis",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27384b08da16c4bd7738a79caa1",
+      "albums": [
+        {
+          "album_name": "0rbitalis (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2EH0Ijl6R7tzntZ2NwFLwe",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -15675,6 +15689,20 @@
       ]
     },
     {
+      "igdb_id": 331929,
+      "game_name": "Kabuto Park",
+      "game_url": "https://ostdb.net/games/kabuto-park",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734e65b6ce2a819e26c6526b00",
+      "albums": [
+        {
+          "album_name": "Kabuto Park (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/36fjoyKwYcUAS4ctRRfOdC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 28015,
       "game_name": "Kamiko",
       "game_url": "https://ostdb.net/games/kamiko",
@@ -21261,6 +21289,20 @@
       ]
     },
     {
+      "igdb_id": 381237,
+      "game_name": "Orbitals",
+      "game_url": "https://ostdb.net/games/orbitals",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f5f7275b0cd750f359e812e4",
+      "albums": [
+        {
+          "album_name": "Orbitals (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2ApX9IRhpVRe8fFqrRYGzy",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 21527,
       "game_name": "Orcs & Elves",
       "game_url": "https://ostdb.net/games/orcs-and-elves",
@@ -22771,6 +22813,20 @@
       ]
     },
     {
+      "igdb_id": 341533,
+      "game_name": "Prince of Persia: The Lost Crown",
+      "game_url": "https://ostdb.net/games/prince-of-persia-the-lost-crown",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27324f907f1ea3d06a713d2b0f6",
+      "albums": [
+        {
+          "album_name": "Prince of Persia: The Lost Crown (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7e5CYk2hVZLV56u1F2fBKp",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 22791,
       "game_name": "Princess Connect! Re:Dive",
       "game_url": "https://ostdb.net/games/princess-connect-re-dive",
@@ -23541,6 +23597,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/redfall-original-game-soundtrack/1683192350?uo=4",
           "album_link_url": "https://album.link/i/1683192350"
+        }
+      ]
+    },
+    {
+      "igdb_id": 8681,
+      "game_name": "Redline",
+      "game_url": "https://ostdb.net/games/redline",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a98e812d6c91508216a5fb5a",
+      "albums": [
+        {
+          "album_name": "REDLINE Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/49r7XfypQ9FPLhGKhQ9eEl",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -26245,6 +26315,20 @@
       ]
     },
     {
+      "igdb_id": 9423,
+      "game_name": "Skyborn",
+      "game_url": "https://ostdb.net/games/skyborn",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273644aff63fb6413761b055f58",
+      "albums": [
+        {
+          "album_name": "Skyborn (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2AOAl7JZbA0QnffLCZX8cS",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 228538,
       "game_name": "Skydance's Behemoth",
       "game_url": "https://ostdb.net/games/skydances-behemoth",
@@ -26969,6 +27053,20 @@
       ]
     },
     {
+      "igdb_id": 17096,
+      "game_name": "Soul Axiom",
+      "game_url": "https://ostdb.net/games/soul-axiom",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e79231d39d3910fdb322b391",
+      "albums": [
+        {
+          "album_name": "Soul Axiom (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3xuY1bvROHDW9JMN0MTcUa",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1565,
       "game_name": "SoulCalibur II",
       "game_url": "https://ostdb.net/games/soulcalibur-ii",
@@ -27245,6 +27343,20 @@
       ]
     },
     {
+      "igdb_id": 7207,
+      "game_name": "Spaceteam",
+      "game_url": "https://ostdb.net/games/spaceteam",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ed73943205aef45c0d3d6df3",
+      "albums": [
+        {
+          "album_name": "Spaceteam Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4cijNvowVnZM9Aj1jrWOOV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 28134,
       "game_name": "Spark the Electric Jester",
       "game_url": "https://ostdb.net/games/spark-the-electric-jester",
@@ -27477,6 +27589,20 @@
         {
           "album_name": "Squad Busters (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/46ytL3WyfZIR1QG3VlnECO",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 305074,
+      "game_name": "Squeakross: Home Squeak Home",
+      "game_url": "https://ostdb.net/games/squeakross-home-squeak-home",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ce76932642a1f8335b0ab399",
+      "albums": [
+        {
+          "album_name": "Squeakross: Home Squeak Home (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4X9idO5Ziwhxt6Jf2TZyfO",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -33613,6 +33739,20 @@
         {
           "album_name": "Vacation Simulator (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1UcvHkTsPlcas69aqpbjQc",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 6134,
+      "game_name": "Valdis Story: Abyssal City",
+      "game_url": "https://ostdb.net/games/valdis-story-abyssal-city",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27380ad428597e9d7163a90a87d",
+      "albums": [
+        {
+          "album_name": "Valdis Story: Abyssal City OST",
+          "spotify_url": "https://open.spotify.com/album/2wFcdDWFb2fhZ6KmUg5WOj",
           "apple_music_url": "",
           "album_link_url": ""
         }
