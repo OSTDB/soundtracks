@@ -4612,6 +4612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masketeers: Idle has Fallen | 141488 | [141488-masketeers-idle-has-fallen.json](./141488-masketeers-idle-has-fallen.json) |
 | Maskim Xul | 256870 | [256870-maskim-xul.json](./256870-maskim-xul.json) |
 | Maskless | 135267 | [135267-maskless.json](./135267-maskless.json) |
+| Maskmaker | 135920 | [135920-maskmaker.json](./135920-maskmaker.json) |
 | Masks | 135617 | [135617-masks.json](./135617-masks.json) |
 | Masks for Sale | 180526 | [180526-masks-for-sale.json](./180526-masks-for-sale.json) |
 | Masks of Deception | 200705 | [200705-masks-of-deception.json](./200705-masks-of-deception.json) |
@@ -5542,6 +5543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7684,6 +7686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megapolis | 32512 | [32512-megapolis.json](./32512-megapolis.json) |
 | Megaquarium | 28072 | [28072-megaquarium.json](./28072-megaquarium.json) |
 | Megaquarium: Deep Freeze | 267834 | [267834-megaquarium-deep-freeze.json](./267834-megaquarium-deep-freeze.json) |
+| Megaquarium: Freshwater Frenzy | 135547 | [135547-megaquarium-freshwater-frenzy.json](./135547-megaquarium-freshwater-frenzy.json) |
 | Megaquarium: Invertebrilliant Collection | 392780 | [392780-megaquarium-invertebrilliant-collection.json](./392780-megaquarium-invertebrilliant-collection.json) |
 | MegaRace | 4283 | [4283-megarace.json](./4283-megarace.json) |
 | MegaRace 2 | 26826 | [26826-megarace-2.json](./26826-megarace-2.json) |
@@ -10248,6 +10251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middle-earth: Shadow of War - Silver Edition | 53358 | [53358-middle-earth-shadow-of-war-silver-edition.json](./53358-middle-earth-shadow-of-war-silver-edition.json) |
 | Middle-earth: Shadow of War - Slaughter Tribe Nemesis | 164839 | [164839-middle-earth-shadow-of-war-slaughter-tribe-nemesis.json](./164839-middle-earth-shadow-of-war-slaughter-tribe-nemesis.json) |
 | Middle-earth: Shadow of War Mobile | 52198 | [52198-middle-earth-shadow-of-war-mobile.json](./52198-middle-earth-shadow-of-war-mobile.json) |
+| Miden Tower | 132190 | [132190-miden-tower.json](./132190-miden-tower.json) |
 | Miden Tower: Experience & SP x2 | 171021 | [171021-miden-tower-experience-and-sp-x2.json](./171021-miden-tower-experience-and-sp-x2.json) |
 | Miden Tower: Experience x3 | 171020 | [171020-miden-tower-experience-x3.json](./171020-miden-tower-experience-x3.json) |
 | Midforest Survivor | 258088 | [258088-midforest-survivor.json](./258088-midforest-survivor.json) |
@@ -14598,6 +14602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Grid | 341331 | [341331-monster-grid.json](./341331-monster-grid.json) |
 | Monster Grinder Ultra | 280385 | [280385-monster-grinder-ultra.json](./280385-monster-grinder-ultra.json) |
 | Monster Guardians | 49716 | [49716-monster-guardians.json](./49716-monster-guardians.json) |
+| Monster Harvest | 138138 | [138138-monster-harvest.json](./138138-monster-harvest.json) |
 | Monster Hatcher | 406920 | [406920-monster-hatcher.json](./406920-monster-hatcher.json) |
 | Monster Haven | 315708 | [315708-monster-haven.json](./315708-monster-haven.json) |
 | Monster Heart | 229929 | [229929-monster-heart.json](./229929-monster-heart.json) |
@@ -15512,6 +15517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonrot | 391818 | [391818-moonrot.json](./391818-moonrot.json) |
 | MoonRun | 148888 | [148888-moonrun.json](./148888-moonrun.json) |
 | Moons of Ardan | 163142 | [163142-moons-of-ardan.json](./163142-moons-of-ardan.json) |
+| Moons of Darsalon | 129751 | [129751-moons-of-darsalon.json](./129751-moons-of-darsalon.json) |
 | Moons of True Magic | 263204 | [263204-moons-of-true-magic.json](./263204-moons-of-true-magic.json) |
 | Moons of Ventocia | 122137 | [122137-moons-of-ventocia.json](./122137-moons-of-ventocia.json) |
 | Moons That Belong | 318066 | [318066-moons-that-belong.json](./318066-moons-that-belong.json) |
@@ -17218,6 +17224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Driller: Drill Land | 4021 | [4021-mr-driller-drill-land.json](./4021-mr-driller-drill-land.json) |
 | Mr. Driller: Drill Spirits | 18330 | [18330-mr-driller-drill-spirits.json](./18330-mr-driller-drill-spirits.json) |
 | Mr. Driller: Drill Till You Drop | 25176 | [25176-mr-driller-drill-till-you-drop.json](./25176-mr-driller-drill-till-you-drop.json) |
+| Mr. Driller: DrillLand | 135546 | [135546-mr-driller-drillland.json](./135546-mr-driller-drillland.json) |
 | Mr. Drumstix' Music Studio | 69232 | [69232-mr-drumstix-music-studio.json](./69232-mr-drumstix-music-studio.json) |
 | Mr. Dubstep | 68322 | [68322-mr-dubstep.json](./68322-mr-dubstep.json) |
 | Mr. Elevator | 337088 | [337088-mr-elevator.json](./337088-mr-elevator.json) |
