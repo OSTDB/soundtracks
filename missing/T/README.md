@@ -15739,6 +15739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Learn and Play - Deluxe Edition | 328798 | [328798-the-smurfs-learn-and-play-deluxe-edition.json](./328798-the-smurfs-learn-and-play-deluxe-edition.json) |
 | The Smurfs: Mission Vileaf | 149960 | [149960-the-smurfs-mission-vileaf.json](./149960-the-smurfs-mission-vileaf.json) |
 | The Smurfs: Village Party | 292150 | [292150-the-smurfs-village-party.json](./292150-the-smurfs-village-party.json) |
+| The Smurfs' Nightmare | 8085 | [8085-the-smurfs-nightmare.json](./8085-the-smurfs-nightmare.json) |
 | The Smurfs' Village and the Magical Meadow | 109158 | [109158-the-smurfs-village-and-the-magical-meadow.json](./109158-the-smurfs-village-and-the-magical-meadow.json) |
 | The Snack World: TreJarers | 26501 | [26501-the-snack-world-trejarers.json](./26501-the-snack-world-trejarers.json) |
 | The Snake Kingdom of Gennibar-Six | 337649 | [337649-the-snake-kingdom-of-gennibar-six.json](./337649-the-snake-kingdom-of-gennibar-six.json) |
@@ -21032,6 +21033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 2000 | 8811 | [8811-tiger-woods-pga-tour-2000.json](./8811-tiger-woods-pga-tour-2000.json) |
 | Tiger Woods PGA Tour 2001 | 8812 | [8812-tiger-woods-pga-tour-2001.json](./8812-tiger-woods-pga-tour-2001.json) |
 | Tiger Woods PGA Tour 2002 | 248690 | [248690-tiger-woods-pga-tour-2002.json](./248690-tiger-woods-pga-tour-2002.json) |
+| Tiger Woods PGA Tour 2002 | 8813 | [8813-tiger-woods-pga-tour-2002.json](./8813-tiger-woods-pga-tour-2002.json) |
 | Tiger Woods PGA Tour 2003 | 904 | [904-tiger-woods-pga-tour-2003.json](./904-tiger-woods-pga-tour-2003.json) |
 | Tiger Woods PGA Tour 2004 | 243022 | [243022-tiger-woods-pga-tour-2004.json](./243022-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2004 | 243023 | [243023-tiger-woods-pga-tour-2004.json](./243023-tiger-woods-pga-tour-2004.json) |
