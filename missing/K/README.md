@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazu Corp: The Math Challenge | 107120 | [107120-kazu-corp-the-math-challenge.json](./107120-kazu-corp-the-math-challenge.json) |
 | Kazue World | 328056 | [328056-kazue-world.json](./328056-kazue-world.json) |
 | Kazue World 2 | 328055 | [328055-kazue-world-2.json](./328055-kazue-world-2.json) |
+| Kazuma Kaneko's Tsukuyomi | 387666 | [387666-kazuma-kanekos-tsukuyomi.json](./387666-kazuma-kanekos-tsukuyomi.json) |
 | Kazuma Kaneko's Tsukuyomi: Digital Deluxe Edition | 390532 | [390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json](./390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json) |
 | Kazuma Kaneko's Tsukuyomi: Refined Arts Pack vol.1 | 390919 | [390919-kazuma-kanekos-tsukuyomi-refined-arts-pack-vol-1.json](./390919-kazuma-kanekos-tsukuyomi-refined-arts-pack-vol-1.json) |
 | KBF: Knight Bar Fight | 291820 | [291820-kbf-knight-bar-fight.json](./291820-kbf-knight-bar-fight.json) |
@@ -2617,6 +2618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killzone: Shadow Fall | 1937 | [1937-killzone-shadow-fall.json](./1937-killzone-shadow-fall.json) |
 | Killzone: Shadow Fall - Intercept | 21609 | [21609-killzone-shadow-fall-intercept.json](./21609-killzone-shadow-fall-intercept.json) |
 | Killzone: Special Limited Edition | 43261 | [43261-killzone-special-limited-edition.json](./43261-killzone-special-limited-edition.json) |
+| Kiln | 386721 | [386721-kiln.json](./386721-kiln.json) |
 | Kiln People Revelations | 382598 | [382598-kiln-people-revelations.json](./382598-kiln-people-revelations.json) |
 | Kiln: Cats & Dogs Decoration Pack | 407414 | [407414-kiln-cats-and-dogs-decoration-pack.json](./407414-kiln-cats-and-dogs-decoration-pack.json) |
 | Kiln: Pride Decoration Pack | 407415 | [407415-kiln-pride-decoration-pack.json](./407415-kiln-pride-decoration-pack.json) |
@@ -2651,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3344,6 +3347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom's Gambit | 264038 | [264038-kingdoms-gambit.json](./264038-kingdoms-gambit.json) |
 | Kingdom's Item Shop | 85228 | [85228-kingdoms-item-shop.json](./85228-kingdoms-item-shop.json) |
 | Kingdom's Life | 189177 | [189177-kingdoms-life.json](./189177-kingdoms-life.json) |
+| Kingdom's Return: Time-Eating Fruit and the Ancient Monster | 381111 | [381111-kingdoms-return-time-eating-fruit-and-the-ancient-monster.json](./381111-kingdoms-return-time-eating-fruit-and-the-ancient-monster.json) |
 | Kingdom's Return: Time-Eating Fruit and the Ancient Monster - "Azure Striker Gunvolt" Crossover Character Skin | 395690 | [395690-kingdoms-return-time-eating-fruit-and-the-ancient-monster-azure-striker-gunvolt-crossover-character-skin.json](./395690-kingdoms-return-time-eating-fruit-and-the-ancient-monster-azure-striker-gunvolt-crossover-character-skin.json) |
 | KingdomDefense | 172102 | [172102-kingdomdefense.json](./172102-kingdomdefense.json) |
 | Kingdomfall | 169401 | [169401-kingdomfall.json](./169401-kingdomfall.json) |
