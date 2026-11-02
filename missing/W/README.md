@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warden of the Coast | 243124 | [243124-warden-of-the-coast.json](./243124-warden-of-the-coast.json) |
 | Warden of the Isles | 129264 | [129264-warden-of-the-isles.json](./129264-warden-of-the-isles.json) |
 | Warden's Will | 190730 | [190730-wardens-will.json](./190730-wardens-will.json) |
+| Wardenmark | 420326 | [420326-wardenmark.json](./420326-wardenmark.json) |
 | Wardens | 122900 | [122900-wardens.json](./122900-wardens.json) |
 | Wardens of Avalon | 405146 | [405146-wardens-of-avalon.json](./405146-wardens-of-avalon.json) |
 | Wardens of Chaos | 288477 | [288477-wardens-of-chaos.json](./288477-wardens-of-chaos.json) |
@@ -5109,6 +5110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Zoo | 61441 | [61441-wildlife-zoo.json](./61441-wildlife-zoo.json) |
 | Wildlife: Forest Survival | 53046 | [53046-wildlife-forest-survival.json](./53046-wildlife-forest-survival.json) |
 | Wildmagic Wizardry | 270106 | [270106-wildmagic-wizardry.json](./270106-wildmagic-wizardry.json) |
+| Wildmark | 420325 | [420325-wildmark.json](./420325-wildmark.json) |
 | Wildmender | 204541 | [204541-wildmender.json](./204541-wildmender.json) |
 | Wildrise | 344412 | [344412-wildrise.json](./344412-wildrise.json) |
 | WildRoot | 409708 | [409708-wildroot.json](./409708-wildroot.json) |
