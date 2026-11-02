@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 2,792" src="https://img.shields.io/badge/soundtracks-2%2C792-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 2,309" src="https://img.shields.io/badge/games-2%2C309-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 298,050" src="https://img.shields.io/badge/missing-298%2C050-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 299,170" src="https://img.shields.io/badge/missing-299%2C170-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/trine-3-the-artifacts-of-power"><img src="https://i.scdn.co/image/ab67616d0000b27389f5bc4a6d0a717322a174ba" width="120" height="120" alt="" /></a><br /><sub><b>Trine 3: The Artifacts of Power</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/closer-the-distance"><img src="https://i.scdn.co/image/ab67616d0000b27349450a9e54d411e4eda8bb89" width="120" height="120" alt="" /></a><br /><sub><b>Closer the Distance</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/moon-mystery"><img src="https://i.scdn.co/image/ab67616d0000b27348a3187c2b4f421f2c787318" width="120" height="120" alt="" /></a><br /><sub><b>Moon Mystery</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/rusted-moss"><img src="https://i.scdn.co/image/ab67616d0000b2732e07aab1019f5885e34e0115" width="120" height="120" alt="" /></a><br /><sub><b>Rusted Moss</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/lens-island"><img src="https://i.scdn.co/image/ab67616d0000b273203d9b29111d1fdc0738d301" width="120" height="120" alt="" /></a><br /><sub><b>Len's Island</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/under-night-in-birth-ii-sys-celes"><img src="https://i.scdn.co/image/ab67616d0000b273ab410e9d3b0bb3805960c376" width="120" height="120" alt="" /></a><br /><sub><b>Under Night In-Birth II Sys:Celes</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/outpath"><img src="https://i.scdn.co/image/ab67616d0000b273104ba0ef539571a9ba5b5a80" width="120" height="120" alt="" /></a><br /><sub><b>Outpath</b></sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/outpath"><img src="https://i.scdn.co/image/ab67616d0000b273104ba0ef539571a9ba5b5a80" width="120" height="120" alt="" /></a><br /><sub><b>Outpath</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/opus-echo-of-starsong"><img src="https://i.scdn.co/image/ab67616d0000b2731c292cf92c44cde3df02059a" width="120" height="120" alt="" /></a><br /><sub><b>Opus: Echo of Starsong</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/mediterranea-inferno"><img src="https://i.scdn.co/image/ab67616d0000b273a83fdfa67191f9b454de45e8" width="120" height="120" alt="" /></a><br /><sub><b>Mediterranea Inferno</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/unboxing-the-cryptic-killer"><img src="https://i.scdn.co/image/ab67616d0000b273afcd17b2b907917ef51e4ddb" width="120" height="120" alt="" /></a><br /><sub><b>Unboxing the Cryptic Killer</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/atelier-resleriana-forgotten-alchemy-and-the-polar-night-liberator"><img src="https://i.scdn.co/image/ab67616d0000b27340b965cd0f3f0f8acc19766b" width="120" height="120" alt="" /></a><br /><sub><b>Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/sludge-life-2"><img src="https://i.scdn.co/image/ab67616d0000b27334d8c0769be5cc24374d7b22" width="120" height="120" alt="" /></a><br /><sub><b>Sludge Life 2</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/the-urbz-sims-in-the-city"><img src="https://i.scdn.co/image/ab67616d0000b273094413ee0fc6ffbdea34d647" width="120" height="120" alt="" /></a><br /><sub><b>The Urbz: Sims in the City</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 | 15 | **Divinity: Original Sin** | [🔎 Find on Spotify](https://open.spotify.com/search/Divinity%3A%20Original%20Sin%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/5082-divinity-original-sin.json) |
 
-More in **[missing/](missing/README.md)** (298,050 games).
+More in **[missing/](missing/README.md)** (299,170 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -111,4 +111,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,792 soundtracks &middot; last updated 2026-11-02T13:30:49.297Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,792 soundtracks &middot; last updated 2026-11-02T18:41:15.996Z</sub>
