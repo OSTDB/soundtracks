@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-02T13:18:42.275Z",
-  "total_missing": 298200,
+  "generated_at": "2026-11-02T13:31:32.872Z",
+  "total_missing": 298206,
   "games": [
     {
       "igdb_id": 191680,
@@ -247422,6 +247422,11 @@
       "file": "missing/C/217137-colors-assemble.json"
     },
     {
+      "igdb_id": 424022,
+      "game_name": "Colors Invasion",
+      "file": "missing/C/424022-colors-invasion.json"
+    },
+    {
       "igdb_id": 150382,
       "game_name": "Colors of the Cube",
       "file": "missing/C/150382-colors-of-the-cube.json"
@@ -450962,6 +450967,11 @@
       "file": "missing/F/341540-five-nights-at-frickbears-3.json"
     },
     {
+      "igdb_id": 424026,
+      "game_name": "Five Nights at Frickbear's 3: Four Layers Down",
+      "file": "missing/F/424026-five-nights-at-frickbears-3-four-layers-down.json"
+    },
+    {
       "igdb_id": 395010,
       "game_name": "Five Nights at Frickbears 2",
       "file": "missing/F/395010-five-nights-at-frickbears-2.json"
@@ -612572,6 +612582,11 @@
       "file": "missing/I/158719-increlution.json"
     },
     {
+      "igdb_id": 424023,
+      "game_name": "Incremaze",
+      "file": "missing/I/424023-incremaze.json"
+    },
+    {
       "igdb_id": 197532,
       "game_name": "Increment",
       "file": "missing/I/197532-increment.json"
@@ -667445,6 +667460,11 @@
       "igdb_id": 287172,
       "game_name": "Kings Odyssey: Rise of The Necromancer",
       "file": "missing/K/287172-kings-odyssey-rise-of-the-necromancer.json"
+    },
+    {
+      "igdb_id": 424028,
+      "game_name": "Kings of Antikva",
+      "file": "missing/K/424028-kings-of-antikva.json"
     },
     {
       "igdb_id": 231928,
@@ -1014192,6 +1014212,11 @@
       "file": "missing/R/404192-rekindled.json"
     },
     {
+      "igdb_id": 424019,
+      "game_name": "Rekindled",
+      "file": "missing/R/424019-rekindled.json"
+    },
+    {
       "igdb_id": 342079,
       "game_name": "Rekindled Trails",
       "file": "missing/R/342079-rekindled-trails.json"
@@ -1132130,6 +1132155,11 @@
       "igdb_id": 389493,
       "game_name": "Solitary Grace",
       "file": "missing/S/389493-solitary-grace.json"
+    },
+    {
+      "igdb_id": 424020,
+      "game_name": "Solitary Singleplayer Offline MMORPG",
+      "file": "missing/S/424020-solitary-singleplayer-offline-mmorpg.json"
     },
     {
       "igdb_id": 149460,
@@ -1368772,11 +1368802,6 @@
       "file": "missing/T/20837-trine-2-goblin-menace.json"
     },
     {
-      "igdb_id": 8255,
-      "game_name": "Trine 3: The Artifacts of Power",
-      "file": "missing/T/8255-trine-3-the-artifacts-of-power.json"
-    },
-    {
       "igdb_id": 347277,
       "game_name": "Trine 4: Definitive Edition",
       "file": "missing/T/347277-trine-4-definitive-edition.json"
@@ -1375290,6 +1375315,11 @@
       "igdb_id": 199946,
       "game_name": "Tuning Club Online",
       "file": "missing/T/199946-tuning-club-online.json"
+    },
+    {
+      "igdb_id": 424025,
+      "game_name": "Tunnel",
+      "file": "missing/T/424025-tunnel.json"
     },
     {
       "igdb_id": 358865,
