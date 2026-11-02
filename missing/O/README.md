@@ -2968,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onset | 119395 | [119395-onset.json](./119395-onset.json) |
 | Onside Soccer | 37125 | [37125-onside-soccer.json](./37125-onside-soccer.json) |
 | Onslaught | 151935 | [151935-onslaught.json](./151935-onslaught.json) |
+| Onslaught | 15329 | [15329-onslaught.json](./15329-onslaught.json) |
 | Onslaught | 259137 | [259137-onslaught.json](./259137-onslaught.json) |
 | Onslaught | 341510 | [341510-onslaught.json](./341510-onslaught.json) |
 | Onslaught | 69201 | [69201-onslaught.json](./69201-onslaught.json) |
@@ -5097,6 +5098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outspell | 219267 | [219267-outspell.json](./219267-outspell.json) |
 | OutSplit | 52778 | [52778-outsplit.json](./52778-outsplit.json) |
 | Outstand | 227793 | [227793-outstand.json](./227793-outstand.json) |
+| Outta Gas | 124403 | [124403-outta-gas.json](./124403-outta-gas.json) |
 | Outta Hand | 253175 | [253175-outta-hand.json](./253175-outta-hand.json) |
 | Outta Hell | 346797 | [346797-outta-hell.json](./346797-outta-hell.json) |
 | Outta Space | 409330 | [409330-outta-space.json](./409330-outta-space.json) |
