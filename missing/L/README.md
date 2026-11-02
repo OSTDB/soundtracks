@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrneath | 111055 | [111055-labyrneath.json](./111055-labyrneath.json) |
 | Labyrneath II | 225360 | [225360-labyrneath-ii.json](./225360-labyrneath-ii.json) |
 | Labyronia 2 | 137691 | [137691-labyronia-2.json](./137691-labyronia-2.json) |
+| Labyronia Elements | 75778 | [75778-labyronia-elements.json](./75778-labyronia-elements.json) |
 | Labyronia RPG | 34725 | [34725-labyronia-rpg.json](./34725-labyronia-rpg.json) |
 | Labyronia RPG 2 | 34593 | [34593-labyronia-rpg-2.json](./34593-labyronia-rpg-2.json) |
 | Lac Viet Journey | 374915 | [374915-lac-viet-journey.json](./374915-lac-viet-journey.json) |
@@ -633,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lancaster | 292836 | [292836-lancaster.json](./292836-lancaster.json) |
 | Lancaster | 71943 | [71943-lancaster.json](./71943-lancaster.json) |
 | Lance A Lot | 18948 | [18948-lance-a-lot.json](./18948-lance-a-lot.json) |
+| Lance A Lot: Enhanced Edition | 59258 | [59258-lance-a-lot-enhanced-edition.json](./59258-lance-a-lot-enhanced-edition.json) |
 | Lancelot | 12169 | [12169-lancelot.json](./12169-lancelot.json) |
 | Lancelot's Hangover : The Quest for the Holy Booze | 107775 | [107775-lancelots-hangover-the-quest-for-the-holy-booze.json](./107775-lancelots-hangover-the-quest-for-the-holy-booze.json) |
 | Lancen Adventure | 321814 | [321814-lancen-adventure.json](./321814-lancen-adventure.json) |
@@ -1094,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Alive | 37363 | [37363-last-alive.json](./37363-last-alive.json) |
 | Last Alliance: Total War | 356251 | [356251-last-alliance-total-war.json](./356251-last-alliance-total-war.json) |
 | Last Anime Boy 2: Hentai Zombie Hell | 106194 | [106194-last-anime-boy-2-hentai-zombie-hell.json](./106194-last-anime-boy-2-hentai-zombie-hell.json) |
+| Last Anime boy: Saving loli | 75643 | [75643-last-anime-boy-saving-loli.json](./75643-last-anime-boy-saving-loli.json) |
 | Last Answer | 30062 | [30062-last-answer.json](./30062-last-answer.json) |
 | Last Antagonist | 361885 | [361885-last-antagonist.json](./361885-last-antagonist.json) |
 | Last Archmage Journey of Light | 168010 | [168010-last-archmage-journey-of-light.json](./168010-last-archmage-journey-of-light.json) |
