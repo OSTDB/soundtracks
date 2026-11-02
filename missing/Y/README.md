@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamada Kamachi Bijutsukan: Kamachi's Museum | 243208 | [243208-yamada-kamachi-bijutsukan-kamachis-museum.json](./243208-yamada-kamachi-bijutsukan-kamachis-museum.json) |
 | Yamafuda! 2nd station | 173209 | [173209-yamafuda-2nd-station.json](./173209-yamafuda-2nd-station.json) |
 | Yamafuda! Summit | 283857 | [283857-yamafuda-summit.json](./283857-yamafuda-summit.json) |
+| Yamaha Supercross | 5303 | [5303-yamaha-supercross.json](./5303-yamaha-supercross.json) |
 | Yamakawa Shuppansha Kanshuu: Shousetsu Nihonshi DS | 124153 | [124153-yamakawa-shuppansha-kanshuu-shousetsu-nihonshi-ds.json](./124153-yamakawa-shuppansha-kanshuu-shousetsu-nihonshi-ds.json) |
 | Yamakawa Shuppansha Kanshuu: Shousetsu Sekaishi DS | 124152 | [124152-yamakawa-shuppansha-kanshuu-shousetsu-sekaishi-ds.json](./124152-yamakawa-shuppansha-kanshuu-shousetsu-sekaishi-ds.json) |
 | Yamame Climb | 335688 | [335688-yamame-climb.json](./335688-yamame-climb.json) |
