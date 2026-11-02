@@ -30185,6 +30185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Madness | 131878 | [131878-tunnel-madness.json](./131878-tunnel-madness.json) |
 | Tunnel of Doom | 139660 | [139660-tunnel-of-doom.json](./139660-tunnel-of-doom.json) |
 | Tunnel Racer | 176383 | [176383-tunnel-racer.json](./176383-tunnel-racer.json) |
+| Tunnel Rats | 15996 | [15996-tunnel-rats.json](./15996-tunnel-rats.json) |
 | Tunnel Run | 87226 | [87226-tunnel-run.json](./87226-tunnel-run.json) |
 | Tunnel Runner | 22757 | [22757-tunnel-runner.json](./22757-tunnel-runner.json) |
 | Tunnel Tail | 64755 | [64755-tunnel-tail.json](./64755-tunnel-tail.json) |
