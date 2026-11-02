@@ -1172,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ware's Laboratory | 373111 | [373111-wares-laboratory.json](./373111-wares-laboratory.json) |
 | WarEcon: Build & Conquer | 293659 | [293659-warecon-build-and-conquer.json](./293659-warecon-build-and-conquer.json) |
 | Wared | 119451 | [119451-wared.json](./119451-wared.json) |
+| Warehouse | 405269 | [405269-warehouse.json](./405269-warehouse.json) |
 | Warehouse 30 | 403013 | [403013-warehouse-30.json](./403013-warehouse-30.json) |
 | Warehouse and Logistics Simulator | 17031 | [17031-warehouse-and-logistics-simulator.json](./17031-warehouse-and-logistics-simulator.json) |
 | Warehouse Bots | 298179 | [298179-warehouse-bots.json](./298179-warehouse-bots.json) |
@@ -5817,6 +5818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winx Club: Your Magic Universe | 116965 | [116965-winx-club-your-magic-universe.json](./116965-winx-club-your-magic-universe.json) |
 | Winx Sirenix Power | 63387 | [63387-winx-sirenix-power.json](./63387-winx-sirenix-power.json) |
 | Winzer | 77383 | [77383-winzer.json](./77383-winzer.json) |
+| Wip | 405268 | [405268-wip.json](./405268-wip.json) |
 | Wipe Factor | 233558 | [233558-wipe-factor.json](./233558-wipe-factor.json) |
 | Wipe Girls 0 | 244939 | [244939-wipe-girls-0.json](./244939-wipe-girls-0.json) |
 | Wipe Off | 359314 | [359314-wipe-off.json](./359314-wipe-off.json) |
