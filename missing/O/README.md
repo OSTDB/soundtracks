@@ -5500,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ovorol | 345643 | [345643-ovorol.json](./345643-ovorol.json) |
 | OVR Dynamic Resolution | 319793 | [319793-ovr-dynamic-resolution.json](./319793-ovr-dynamic-resolution.json) |
 | Ovrdark: A Do Not Open Story | 258122 | [258122-ovrdark-a-do-not-open-story.json](./258122-ovrdark-a-do-not-open-story.json) |
+| OVRshot | 84071 | [84071-ovrshot.json](./84071-ovrshot.json) |
 | Ovum City | 221428 | [221428-ovum-city.json](./221428-ovum-city.json) |
 | Ovus Nova | 185623 | [185623-ovus-nova.json](./185623-ovus-nova.json) |
 | Owarai Yoiko no Game-dou: Oyaji Sagashite 3-choume | 228631 | [228631-owarai-yoiko-no-game-dou-oyaji-sagashite-3-choume.json](./228631-owarai-yoiko-no-game-dou-oyaji-sagashite-3-choume.json) |
