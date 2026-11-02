@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Screamers | 325498 | [325498-100-screamers.json](./325498-100-screamers.json) |
 | 100 Sea Cats | 315291 | [315291-100-sea-cats.json](./315291-100-sea-cats.json) |
 | 100 Seconds | 89387 | [89387-100-seconds.json](./89387-100-seconds.json) |
+| 100 Sherwood Cats | 405826 | [405826-100-sherwood-cats.json](./405826-100-sherwood-cats.json) |
 | 100 Singapore Cats | 335192 | [335192-100-singapore-cats.json](./335192-100-singapore-cats.json) |
 | 100 Space Cats | 288398 | [288398-100-space-cats.json](./288398-100-space-cats.json) |
 | 100 Space Cats: Extra Content | 305629 | [305629-100-space-cats-extra-content.json](./305629-100-space-cats-extra-content.json) |
@@ -959,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1112: Episode 01 | 213381 | [213381-1112-episode-01.json](./213381-1112-episode-01.json) |
 | 1112: Episode 02 | 213563 | [213563-1112-episode-02.json](./213563-1112-episode-02.json) |
 | 1112: Episode 03 | 213565 | [213565-1112-episode-03.json](./213565-1112-episode-03.json) |
+| 112 Meters | 405817 | [405817-112-meters.json](./405817-112-meters.json) |
 | 112 Operator | 115270 | [115270-112-operator.json](./115270-112-operator.json) |
 | 112 Operator: Pandemic Outbreak | 168948 | [168948-112-operator-pandemic-outbreak.json](./168948-112-operator-pandemic-outbreak.json) |
 | 112 Operator: The Last Duty | 168946 | [168946-112-operator-the-last-duty.json](./168946-112-operator-the-last-duty.json) |
@@ -3026,7 +3028,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Dragon 2020-II | 11826 | [11826-7th-dragon-2020-ii.json](./11826-7th-dragon-2020-ii.json) |
 | 7th Dragon III Code: VFD | 11828 | [11828-7th-dragon-iii-code-vfd.json](./11828-7th-dragon-iii-code-vfd.json) |
 | 7th Sea: A Pirate's Pact | 113865 | [113865-7th-sea-a-pirates-pact.json](./113865-7th-sea-a-pirates-pact.json) |
-| 7th Sector | 115336 | [115336-7th-sector.json](./115336-7th-sector.json) |
 | 7th Sector: Museum | 172115 | [172115-7th-sector-museum.json](./172115-7th-sector-museum.json) |
 | 7th Serpent: Crossfire | 214930 | [214930-7th-serpent-crossfire.json](./214930-7th-serpent-crossfire.json) |
 | 7th Serpent: Genesis | 214932 | [214932-7th-serpent-genesis.json](./214932-7th-serpent-genesis.json) |
