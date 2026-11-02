@@ -29040,7 +29040,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trimurti Online | 265688 | [265688-trimurti-online.json](./265688-trimurti-online.json) |
 | Trine 2: Complete Story | 38932 | [38932-trine-2-complete-story.json](./38932-trine-2-complete-story.json) |
 | Trine 2: Goblin Menace | 20837 | [20837-trine-2-goblin-menace.json](./20837-trine-2-goblin-menace.json) |
-| Trine 3: The Artifacts of Power | 8255 | [8255-trine-3-the-artifacts-of-power.json](./8255-trine-3-the-artifacts-of-power.json) |
 | Trine 4: Definitive Edition | 347277 | [347277-trine-4-definitive-edition.json](./347277-trine-4-definitive-edition.json) |
 | Trine 4: Melody of Mystery | 152036 | [152036-trine-4-melody-of-mystery.json](./152036-trine-4-melody-of-mystery.json) |
 | Trine 5: A Clockwork Conspiracy | 245390 | [245390-trine-5-a-clockwork-conspiracy.json](./245390-trine-5-a-clockwork-conspiracy.json) |
@@ -30344,6 +30343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunin'Glue | 289759 | [289759-tuninglue.json](./289759-tuninglue.json) |
 | Tuning Champions | 215912 | [215912-tuning-champions.json](./215912-tuning-champions.json) |
 | Tuning Club Online | 199946 | [199946-tuning-club-online.json](./199946-tuning-club-online.json) |
+| Tunnel | 424025 | [424025-tunnel.json](./424025-tunnel.json) |
 | Tunnel 19 | 358865 | [358865-tunnel-19.json](./358865-tunnel-19.json) |
 | Tunnel Adventure | 274969 | [274969-tunnel-adventure.json](./274969-tunnel-adventure.json) |
 | Tunnel Assault | 298627 | [298627-tunnel-assault.json](./298627-tunnel-assault.json) |
