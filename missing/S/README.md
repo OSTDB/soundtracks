@@ -3258,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble | 371873 | [371873-scrabble.json](./371873-scrabble.json) |
 | Scrabble | 402336 | [402336-scrabble.json](./402336-scrabble.json) |
 | Scrabble | 71376 | [71376-scrabble.json](./71376-scrabble.json) |
+| Scrabble 2009 Edition | 122737 | [122737-scrabble-2009-edition.json](./122737-scrabble-2009-edition.json) |
 | Scrabble Blast! | 49337 | [49337-scrabble-blast.json](./49337-scrabble-blast.json) |
 | Scrabble Blitz | 209015 | [209015-scrabble-blitz.json](./209015-scrabble-blitz.json) |
 | Scrabble Classic | 85363 | [85363-scrabble-classic.json](./85363-scrabble-classic.json) |
@@ -5406,6 +5407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial Lover | 133207 | [133207-serial-lover.json](./133207-serial-lover.json) |
 | Serial Woman | 194857 | [194857-serial-woman.json](./194857-serial-woman.json) |
 | Serial World | 301328 | [301328-serial-world.json](./301328-serial-world.json) |
+| Series Makers | 115382 | [115382-series-makers.json](./115382-series-makers.json) |
 | Series Makers Tycoon | 173806 | [173806-series-makers-tycoon.json](./173806-series-makers-tycoon.json) |
 | Series: Your Story Universe | 144197 | [144197-series-your-story-universe.json](./144197-series-your-story-universe.json) |
 | Serilly's Happy Birthday | 253723 | [253723-serillys-happy-birthday.json](./253723-serillys-happy-birthday.json) |
@@ -8611,6 +8613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop it Up! | 377253 | [377253-shop-it-up.json](./377253-shop-it-up.json) |
 | Shop Legends | 297368 | [297368-shop-legends.json](./297368-shop-legends.json) |
 | Shop Life Simulator | 333697 | [333697-shop-life-simulator.json](./333697-shop-life-simulator.json) |
+| Shop Manager : Video Game Tycoon | 109341 | [109341-shop-manager-video-game-tycoon.json](./109341-shop-manager-video-game-tycoon.json) |
 | Shop Mistress NTR | 379891 | [379891-shop-mistress-ntr.json](./379891-shop-mistress-ntr.json) |
 | Shop of Forgotten Memories | 298883 | [298883-shop-of-forgotten-memories.json](./298883-shop-of-forgotten-memories.json) |
 | Shop of Tentacles | 135433 | [135433-shop-of-tentacles.json](./135433-shop-of-tentacles.json) |
@@ -11194,6 +11197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelethrone: The Chronicles of Ericona - The Jewel in the Skull | 343209 | [343209-skelethrone-the-chronicles-of-ericona-the-jewel-in-the-skull.json](./343209-skelethrone-the-chronicles-of-ericona-the-jewel-in-the-skull.json) |
 | Skeleton Attack: Nightmare Awaken | 216739 | [216739-skeleton-attack-nightmare-awaken.json](./216739-skeleton-attack-nightmare-awaken.json) |
 | Skeleton Boomerang | 44177 | [44177-skeleton-boomerang.json](./44177-skeleton-boomerang.json) |
+| Skeleton Crew | 122069 | [122069-skeleton-crew.json](./122069-skeleton-crew.json) |
 | Skeleton Dungeon | 360448 | [360448-skeleton-dungeon.json](./360448-skeleton-dungeon.json) |
 | Skeleton Farmer | 364013 | [364013-skeleton-farmer.json](./364013-skeleton-farmer.json) |
 | Skeleton Hotel | 247897 | [247897-skeleton-hotel.json](./247897-skeleton-hotel.json) |
@@ -11961,6 +11965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyland Farmer | 339079 | [339079-skyland-farmer.json](./339079-skyland-farmer.json) |
 | Skyland Rush: Air Raid Attack | 145963 | [145963-skyland-rush-air-raid-attack.json](./145963-skyland-rush-air-raid-attack.json) |
 | Skyland Wars | 294588 | [294588-skyland-wars.json](./294588-skyland-wars.json) |
+| Skyland: Heart of the Mountain | 114061 | [114061-skyland-heart-of-the-mountain.json](./114061-skyland-heart-of-the-mountain.json) |
 | Skylanders SuperChargers: Dark Edition Starter Pack | 166979 | [166979-skylanders-superchargers-dark-edition-starter-pack.json](./166979-skylanders-superchargers-dark-edition-starter-pack.json) |
 | Skylanders: Battlecast | 21563 | [21563-skylanders-battlecast.json](./21563-skylanders-battlecast.json) |
 | Skylanders: Cloud Patrol | 65286 | [65286-skylanders-cloud-patrol.json](./65286-skylanders-cloud-patrol.json) |
@@ -18012,6 +18017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Commander: War and Trade | 146222 | [146222-space-commander-war-and-trade.json](./146222-space-commander-war-and-trade.json) |
 | Space Commanders | 397256 | [397256-space-commanders.json](./397256-space-commanders.json) |
 | Space Commanders II | 85797 | [85797-space-commanders-ii.json](./85797-space-commanders-ii.json) |
+| Space Company Simulator | 114108 | [114108-space-company-simulator.json](./114108-space-company-simulator.json) |
 | Space Confetti | 178962 | [178962-space-confetti.json](./178962-space-confetti.json) |
 | Space Conflict: Runner | 241548 | [241548-space-conflict-runner.json](./241548-space-conflict-runner.json) |
 | Space Conquest | 44133 | [44133-space-conquest.json](./44133-space-conquest.json) |
@@ -19499,6 +19505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
 | Spectres of the Cold | 134260 | [134260-spectres-of-the-cold.json](./134260-spectres-of-the-cold.json) |
 | Spectrewoods | 154987 | [154987-spectrewoods.json](./154987-spectrewoods.json) |
+| Spectro | 115348 | [115348-spectro.json](./115348-spectro.json) |
 | Spectro: Phantom Tower | 393791 | [393791-spectro-phantom-tower.json](./393791-spectro-phantom-tower.json) |
 | Spectrobes GBA | 360025 | [360025-spectrobes-gba.json](./360025-spectrobes-gba.json) |
 | Spectrobes: Beyond the Portals | 5175 | [5175-spectrobes-beyond-the-portals.json](./5175-spectrobes-beyond-the-portals.json) |
@@ -24036,6 +24043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of War | 94231 | [94231-state-of-war.json](./94231-state-of-war.json) |
 | State of War 2: Arcon | 64986 | [64986-state-of-war-2-arcon.json](./64986-state-of-war-2-arcon.json) |
 | State of War: Warmonger | 71217 | [71217-state-of-war-warmonger.json](./71217-state-of-war-warmonger.json) |
+| State of War: Warmonger / Classic 2000 | 114195 | [114195-state-of-war-warmonger-classic-2000.json](./114195-state-of-war-warmonger-classic-2000.json) |
 | State of Zombie | 196411 | [196411-state-of-zombie.json](./196411-state-of-zombie.json) |
 | State Railroad | 214327 | [214327-state-railroad.json](./214327-state-railroad.json) |
 | State Your Business | 336620 | [336620-state-your-business.json](./336620-state-your-business.json) |
@@ -24158,6 +24166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Safe 2020 | 156977 | [156977-stay-safe-2020.json](./156977-stay-safe-2020.json) |
 | Stay Safe: Labyrinth of the Mad | 120122 | [120122-stay-safe-labyrinth-of-the-mad.json](./120122-stay-safe-labyrinth-of-the-mad.json) |
 | Stay Sane | 294253 | [294253-stay-sane.json](./294253-stay-sane.json) |
+| Stay Silent | 114387 | [114387-stay-silent.json](./114387-stay-silent.json) |
 | Stay Still | 230470 | [230470-stay-still.json](./230470-stay-still.json) |
 | Stay Still 2 | 264156 | [264156-stay-still-2.json](./264156-stay-still-2.json) |
 | Stay Tooned! | 13786 | [13786-stay-tooned.json](./13786-stay-tooned.json) |
