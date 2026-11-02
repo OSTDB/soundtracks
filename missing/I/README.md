@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Scream 7 Friends: Lis | 275009 | [275009-ice-scream-7-friends-lis.json](./275009-ice-scream-7-friends-lis.json) |
 | Ice Scream United | 243705 | [243705-ice-scream-united.json](./243705-ice-scream-united.json) |
 | Ice Sisters: Princesses of the Frozen Age | 332354 | [332354-ice-sisters-princesses-of-the-frozen-age.json](./332354-ice-sisters-princesses-of-the-frozen-age.json) |
+| Ice Skating Ballerina | 89140 | [89140-ice-skating-ballerina.json](./89140-ice-skating-ballerina.json) |
 | Ice Slider | 355232 | [355232-ice-slider.json](./355232-ice-slider.json) |
 | Ice Slider | 409373 | [409373-ice-slider.json](./409373-ice-slider.json) |
 | Ice Slider Z | 294403 | [294403-ice-slider-z.json](./294403-ice-slider-z.json) |
@@ -3461,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InfinitasDM | 30546 | [30546-infinitasdm.json](./30546-infinitasdm.json) |
 | InfinitasDM: Teeth of the Bloodwolf | 174506 | [174506-infinitasdm-teeth-of-the-bloodwolf.json](./174506-infinitasdm-teeth-of-the-bloodwolf.json) |
 | Infinite Abyss | 132528 | [132528-infinite-abyss.json](./132528-infinite-abyss.json) |
+| Infinite Adventures | 95022 | [95022-infinite-adventures.json](./95022-infinite-adventures.json) |
 | Infinite Alliance | 345923 | [345923-infinite-alliance.json](./345923-infinite-alliance.json) |
 | Infinite Ancient: Room Escape | 256739 | [256739-infinite-ancient-room-escape.json](./256739-infinite-ancient-room-escape.json) |
 | Infinite Arrow | 187766 | [187766-infinite-arrow.json](./187766-infinite-arrow.json) |
