@@ -1626,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaero 2: Lania Kea Music Pack | 377421 | [377421-aaero-2-lania-kea-music-pack.json](./377421-aaero-2-lania-kea-music-pack.json) |
 | Aaero: Complete Edition | 113196 | [113196-aaero-complete-edition.json](./113196-aaero-complete-edition.json) |
 | Aaero2 | 304670 | [304670-aaero2.json](./304670-aaero2.json) |
+| Aaero2: Black Razor Edition | 380587 | [380587-aaero2-black-razor-edition.json](./380587-aaero2-black-razor-edition.json) |
 | Aah Little Atlantis | 91911 | [91911-aah-little-atlantis.json](./91911-aah-little-atlantis.json) |
 | Aah, Halloween pie! | 125723 | [125723-aah-halloween-pie.json](./125723-aah-halloween-pie.json) |
 | Aakihiko Aruberutasu Adisony Apurinsu Azumeragi | 377418 | [377418-aakihiko-aruberutasu-adisony-apurinsu-azumeragi.json](./377418-aakihiko-aruberutasu-adisony-apurinsu-azumeragi.json) |
@@ -10060,6 +10061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Dungeon Game | 217274 | [217274-another-dungeon-game.json](./217274-another-dungeon-game.json) |
 | Another Earth | 276852 | [276852-another-earth.json](./276852-another-earth.json) |
 | Another Eden | 27055 | [27055-another-eden.json](./27055-another-eden.json) |
+| Another Eden Begins | 388448 | [388448-another-eden-begins.json](./388448-another-eden-begins.json) |
 | Another Eye | 151613 | [151613-another-eye.json](./151613-another-eye.json) |
 | Another Farm Roguelike | 214201 | [214201-another-farm-roguelike.json](./214201-another-farm-roguelike.json) |
 | Another Farm Roguelike: Rebirth | 283914 | [283914-another-farm-roguelike-rebirth.json](./283914-another-farm-roguelike-rebirth.json) |
