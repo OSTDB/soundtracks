@@ -2991,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo! Classic Creep Capers | 2858 | [2858-scooby-doo-classic-creep-capers.json](./2858-scooby-doo-classic-creep-capers.json) |
 | Scooby-Doo! First Frights | 2862 | [2862-scooby-doo-first-frights.json](./2862-scooby-doo-first-frights.json) |
 | Scooby-Doo! in the Ghosts of Pirate Beach | 141457 | [141457-scooby-doo-in-the-ghosts-of-pirate-beach.json](./141457-scooby-doo-in-the-ghosts-of-pirate-beach.json) |
+| Scooby-Doo! Mystery Mayhem | 2861 | [2861-scooby-doo-mystery-mayhem.json](./2861-scooby-doo-mystery-mayhem.json) |
 | Scooby-Doo! Mystery of the Fun Park Phantom | 2857 | [2857-scooby-doo-mystery-of-the-fun-park-phantom.json](./2857-scooby-doo-mystery-of-the-fun-park-phantom.json) |
 | Scooby-Doo! Night of 100 Frights | 2860 | [2860-scooby-doo-night-of-100-frights.json](./2860-scooby-doo-night-of-100-frights.json) |
 | Scooby-Doo! Unmasked | 210729 | [210729-scooby-doo-unmasked.json](./210729-scooby-doo-unmasked.json) |
@@ -3706,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Devil | 172395 | [172395-sea-devil.json](./172395-sea-devil.json) |
 | Sea Dogs | 193077 | [193077-sea-dogs.json](./193077-sea-dogs.json) |
 | Sea Dogs: Caribbean Tales | 51868 | [51868-sea-dogs-caribbean-tales.json](./51868-sea-dogs-caribbean-tales.json) |
+| Sea Dogs: City of Abandoned Ships | 51867 | [51867-sea-dogs-city-of-abandoned-ships.json](./51867-sea-dogs-city-of-abandoned-ships.json) |
 | Sea Dogs: To Each His Own | 28232 | [28232-sea-dogs-to-each-his-own.json](./28232-sea-dogs-to-each-his-own.json) |
 | Sea Dogs: To Each His Own - Flying the Jolly Roger | 172374 | [172374-sea-dogs-to-each-his-own-flying-the-jolly-roger.json](./172374-sea-dogs-to-each-his-own-flying-the-jolly-roger.json) |
 | Sea Dogs: To Each His Own - Happily Ever After | 155408 | [155408-sea-dogs-to-each-his-own-happily-ever-after.json](./155408-sea-dogs-to-each-his-own-happily-ever-after.json) |
@@ -5530,6 +5532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: Move & Groove with Grover | 421406 | [421406-sesame-street-move-and-groove-with-grover.json](./421406-sesame-street-move-and-groove-with-grover.json) |
 | Sesame Street: Music Maker | 138578 | [138578-sesame-street-music-maker.json](./138578-sesame-street-music-maker.json) |
 | Sesame Street: Numbers | 4276 | [4276-sesame-street-numbers.json](./4276-sesame-street-numbers.json) |
+| Sesame Street: Once Upon a Monster | 3253 | [3253-sesame-street-once-upon-a-monster.json](./3253-sesame-street-once-upon-a-monster.json) |
 | Sesame Street: Preschool | 138486 | [138486-sesame-street-preschool.json](./138486-sesame-street-preschool.json) |
 | Sesame Street: Ready, Set, Grover! | 138577 | [138577-sesame-street-ready-set-grover.json](./138577-sesame-street-ready-set-grover.json) |
 | Sesame Street: Ready, Set, Grover! With Elmo - The Videogame | 47954 | [47954-sesame-street-ready-set-grover-with-elmo-the-videogame.json](./47954-sesame-street-ready-set-grover-with-elmo-the-videogame.json) |
@@ -10466,6 +10469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin Chronicle | 172765 | [172765-sin-chronicle.json](./172765-sin-chronicle.json) |
 | Sin City | 77967 | [77967-sin-city.json](./77967-sin-city.json) |
 | SiN Episodes: Emergence | 14788 | [14788-sin-episodes-emergence.json](./14788-sin-episodes-emergence.json) |
+| SiN Gold | 51909 | [51909-sin-gold.json](./51909-sin-gold.json) |
 | Sin or Suffer | 413137 | [413137-sin-or-suffer.json](./413137-sin-or-suffer.json) |
 | Sin Return | 387481 | [387481-sin-return.json](./387481-sin-return.json) |
 | Sin Slayers: Enhanced Edition | 148002 | [148002-sin-slayers-enhanced-edition.json](./148002-sin-slayers-enhanced-edition.json) |
@@ -18226,6 +18230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22611,6 +22616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Soldier | 48240 | [48240-star-soldier.json](./48240-star-soldier.json) |
 | Star Soldier R | 21820 | [21820-star-soldier-r.json](./21820-star-soldier-r.json) |
 | Star Soldier vs. DoDonPachi Daioujou Caravan'06 | 365107 | [365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json](./365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json) |
+| Star Soldier: Vanishing Earth | 3604 | [3604-star-soldier-vanishing-earth.json](./3604-star-soldier-vanishing-earth.json) |
 | Star Sonata 2 | 36276 | [36276-star-sonata-2.json](./36276-star-sonata-2.json) |
 | Star Soraight Fantasy: Magic to Reach the Sky | 343981 | [343981-star-soraight-fantasy-magic-to-reach-the-sky.json](./343981-star-soraight-fantasy-magic-to-reach-the-sky.json) |
 | Star Space | 416351 | [416351-star-space.json](./416351-star-space.json) |
@@ -22815,6 +22821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Battlefront: Outer Rim | 18161 | [18161-star-wars-battlefront-outer-rim.json](./18161-star-wars-battlefront-outer-rim.json) |
 | Star Wars Battlefront: Rogue One - Scarif | 26201 | [26201-star-wars-battlefront-rogue-one-scarif.json](./26201-star-wars-battlefront-rogue-one-scarif.json) |
 | Star Wars Battlefront: Rogue One - X-Wing VR Mission | 52879 | [52879-star-wars-battlefront-rogue-one-x-wing-vr-mission.json](./52879-star-wars-battlefront-rogue-one-x-wing-vr-mission.json) |
+| Star Wars Battlefront: Ultimate Edition | 53663 | [53663-star-wars-battlefront-ultimate-edition.json](./53663-star-wars-battlefront-ultimate-edition.json) |
 | Star Wars Challenge | 86087 | [86087-star-wars-challenge.json](./86087-star-wars-challenge.json) |
 | Star Wars Chess | 11289 | [11289-star-wars-chess.json](./11289-star-wars-chess.json) |
 | Star Wars Classics Collection | 53664 | [53664-star-wars-classics-collection.json](./53664-star-wars-classics-collection.json) |
@@ -23472,6 +23479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starpuffs | 272908 | [272908-starpuffs.json](./272908-starpuffs.json) |
 | Starquake | 12479 | [12479-starquake.json](./12479-starquake.json) |
 | Starquake Academy | 113029 | [113029-starquake-academy.json](./113029-starquake-academy.json) |
+| StarQuest: Rescue at Rigel | 2870 | [2870-starquest-rescue-at-rigel.json](./2870-starquest-rescue-at-rigel.json) |
 | Starr Mazer | 14792 | [14792-starr-mazer.json](./14792-starr-mazer.json) |
 | Starr Mazer: DSP | 80547 | [80547-starr-mazer-dsp.json](./80547-starr-mazer-dsp.json) |
 | Starr Ringer | 220502 | [220502-starr-ringer.json](./220502-starr-ringer.json) |
@@ -28490,6 +28498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bowl Sunday | 36693 | [36693-super-bowl-sunday.json](./36693-super-bowl-sunday.json) |
 | Super Bowl Trivia Challenge | 88832 | [88832-super-bowl-trivia-challenge.json](./88832-super-bowl-trivia-challenge.json) |
 | Super Bowl XX | 59817 | [59817-super-bowl-xx.json](./59817-super-bowl-xx.json) |
+| Super Bowling | 3344 | [3344-super-bowling.json](./3344-super-bowling.json) |
 | Super Bowling | 71864 | [71864-super-bowling.json](./71864-super-bowling.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
 | Super Box Delivery: Beyond the Horizon | 252698 | [252698-super-box-delivery-beyond-the-horizon.json](./252698-super-box-delivery-beyond-the-horizon.json) |
