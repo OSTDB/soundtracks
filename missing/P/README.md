@@ -13084,6 +13084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President Pig | 100726 | [100726-president-pig.json](./100726-president-pig.json) |
 | President Rocket Game | 189937 | [189937-president-rocket-game.json](./189937-president-rocket-game.json) |
 | President Simulator | 400440 | [400440-president-simulator.json](./400440-president-simulator.json) |
+| President Trump the Way in Uganda | 84084 | [84084-president-trump-the-way-in-uganda.json](./84084-president-trump-the-way-in-uganda.json) |
 | President Yukino | 106614 | [106614-president-yukino.json](./106614-president-yukino.json) |
 | President's Choice | 307866 | [307866-presidents-choice.json](./307866-presidents-choice.json) |
 | President's Sniper Shooting | 155945 | [155945-presidents-sniper-shooting.json](./155945-presidents-sniper-shooting.json) |
@@ -15365,6 +15366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Propeller King | 207674 | [207674-propeller-king.json](./207674-propeller-king.json) |
 | Propeller Pete | 334178 | [334178-propeller-pete.json](./334178-propeller-pete.json) |
 | Proper Tosser | 413493 | [413493-proper-tosser.json](./413493-proper-tosser.json) |
+| Property | 83593 | [83593-property.json](./83593-property.json) |
 | Property Brothers Home Design | 187801 | [187801-property-brothers-home-design.json](./187801-property-brothers-home-design.json) |
 | Property Tycoon | 126184 | [126184-property-tycoon.json](./126184-property-tycoon.json) |
 | PropFight | 331438 | [331438-propfight.json](./331438-propfight.json) |
