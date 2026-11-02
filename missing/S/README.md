@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred 3 - Orcland Story | 53566 | [53566-sacred-3-orcland-story.json](./53566-sacred-3-orcland-story.json) |
 | Sacred 3: First Edition | 51287 | [51287-sacred-3-first-edition.json](./51287-sacred-3-first-edition.json) |
 | Sacred 3: Gold Edition | 53567 | [53567-sacred-3-gold-edition.json](./53567-sacred-3-gold-edition.json) |
+| Sacred Almanac Traces of Greed | 30915 | [30915-sacred-almanac-traces-of-greed.json](./30915-sacred-almanac-traces-of-greed.json) |
 | Sacred Blade | 53568 | [53568-sacred-blade.json](./53568-sacred-blade.json) |
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
 | Sacred Citadel | 15290 | [15290-sacred-citadel.json](./15290-sacred-citadel.json) |
@@ -17101,6 +17102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcery and Survival | 372223 | [372223-sorcery-and-survival.json](./372223-sorcery-and-survival.json) |
 | Sorcery Blade | 71603 | [71603-sorcery-blade.json](./71603-sorcery-blade.json) |
 | Sorcery Climb | 342692 | [342692-sorcery-climb.json](./342692-sorcery-climb.json) |
+| Sorcery Is for Saps | 30957 | [30957-sorcery-is-for-saps.json](./30957-sorcery-is-for-saps.json) |
 | Sorcery Jokers | 59780 | [59780-sorcery-jokers.json](./59780-sorcery-jokers.json) |
 | Sorcery Saga: Curse of the Great Curry God | 19915 | [19915-sorcery-saga-curse-of-the-great-curry-god.json](./19915-sorcery-saga-curse-of-the-great-curry-god.json) |
 | Sorcery Slam | 333150 | [333150-sorcery-slam.json](./333150-sorcery-slam.json) |
@@ -18012,6 +18014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Castle | 169836 | [169836-space-castle.json](./169836-space-castle.json) |
 | Space Castle | 59796 | [59796-space-castle.json](./59796-space-castle.json) |
 | Space Casual | 220625 | [220625-space-casual.json](./220625-space-casual.json) |
+| Space Cat | 31027 | [31027-space-cat.json](./31027-space-cat.json) |
 | Space Cat Digger | 418287 | [418287-space-cat-digger.json](./418287-space-cat-digger.json) |
 | Space Cat Solitaire | 368471 | [368471-space-cat-solitaire.json](./368471-space-cat-solitaire.json) |
 | Space Cats | 293527 | [293527-space-cats.json](./293527-space-cats.json) |
@@ -18337,7 +18340,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -26977,6 +26979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Rush: 3D Buggy Racing | 246985 | [246985-stunt-rush-3d-buggy-racing.json](./246985-stunt-rush-3d-buggy-racing.json) |
 | Stunt Scooter Simulator | 294833 | [294833-stunt-scooter-simulator.json](./294833-stunt-scooter-simulator.json) |
 | Stunt Simulator Multiplayer | 112712 | [112712-stunt-simulator-multiplayer.json](./112712-stunt-simulator-multiplayer.json) |
+| Stunt Toys | 29387 | [29387-stunt-toys.json](./29387-stunt-toys.json) |
 | Stunt Track Racer | 93304 | [93304-stunt-track-racer.json](./93304-stunt-track-racer.json) |
 | Stunt Wheels | 261843 | [261843-stunt-wheels.json](./261843-stunt-wheels.json) |
 | Stunt Wheels Party! | 98533 | [98533-stunt-wheels-party.json](./98533-stunt-wheels-party.json) |
@@ -27708,6 +27711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugardew Island: Your Cozy Farm Shop | 289259 | [289259-sugardew-island-your-cozy-farm-shop.json](./289259-sugardew-island-your-cozy-farm-shop.json) |
 | SugarKiss! | 191629 | [191629-sugarkiss.json](./191629-sugarkiss.json) |
 | Sugarlawn | 209610 | [209610-sugarlawn.json](./209610-sugarlawn.json) |
+| SugarMill | 31033 | [31033-sugarmill.json](./31033-sugarmill.json) |
 | SugarStellar | 225532 | [225532-sugarstellar.json](./225532-sugarstellar.json) |
 | SugarWinds | 139659 | [139659-sugarwinds.json](./139659-sugarwinds.json) |
 | Sugary Delight | 234619 | [234619-sugary-delight.json](./234619-sugary-delight.json) |
@@ -32627,6 +32631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwayBods: Physics Puzzle Game | 292423 | [292423-swaybods-physics-puzzle-game.json](./292423-swaybods-physics-puzzle-game.json) |
 | Swaying Girl | 159875 | [159875-swaying-girl.json](./159875-swaying-girl.json) |
 | Swear to God | 185344 | [185344-swear-to-god.json](./185344-swear-to-god.json) |
+| Sweater? Ok! | 31024 | [31024-sweater-ok.json](./31024-sweater-ok.json) |
 | Sweater? Ok! 2 | 81022 | [81022-sweater-ok-2.json](./81022-sweater-ok-2.json) |
 | Sweater? Ok!: The Dilogy | 127370 | [127370-sweater-ok-the-dilogy.json](./127370-sweater-ok-the-dilogy.json) |
 | SweatShop | 32204 | [32204-sweatshop.json](./32204-sweatshop.json) |
