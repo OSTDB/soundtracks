@@ -2289,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violet's Party Mania | 219518 | [219518-violets-party-mania.json](./219518-violets-party-mania.json) |
 | Violeta | 176940 | [176940-violeta.json](./176940-violeta.json) |
 | Violeta | 327043 | [327043-violeta.json](./327043-violeta.json) |
+| Violeta Goes to the Dentist | 400583 | [400583-violeta-goes-to-the-dentist.json](./400583-violeta-goes-to-the-dentist.json) |
 | Violetshift | 260501 | [260501-violetshift.json](./260501-violetshift.json) |
 | Violett | 18734 | [18734-violett.json](./18734-violett.json) |
 | Violett Remastered | 164712 | [164712-violett-remastered.json](./164712-violett-remastered.json) |
