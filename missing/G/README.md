@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Stones | 99518 | [99518-game-of-stones.json](./99518-game-of-stones.json) |
 | Game of Sultans | 106526 | [106526-game-of-sultans.json](./106526-game-of-sultans.json) |
 | Game of The Forgotten Gods. Wake Up | 96864 | [96864-game-of-the-forgotten-gods-wake-up.json](./96864-game-of-the-forgotten-gods-wake-up.json) |
+| Game of the Month 2025 | 425215 | [425215-game-of-the-month-2025.json](./425215-game-of-the-month-2025.json) |
 | Game of the Year | 127720 | [127720-game-of-the-year.json](./127720-game-of-the-year.json) |
 | Game of the Year 420 Edition | 50319 | [50319-game-of-the-year-420-edition.json](./50319-game-of-the-year-420-edition.json) |
 | Game Of Thrall'an | 321365 | [321365-game-of-thrallan.json](./321365-game-of-thrallan.json) |
@@ -3173,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gerel: Against the Corvus Empire | 196985 | [196985-gerel-against-the-corvus-empire.json](./196985-gerel-against-the-corvus-empire.json) |
 | Geri's Chess | 50864 | [50864-geris-chess.json](./50864-geris-chess.json) |
 | Gericonia 2 | 127733 | [127733-gericonia-2.json](./127733-gericonia-2.json) |
+| Geritmia | 425165 | [425165-geritmia.json](./425165-geritmia.json) |
 | Germ Blasters | 353910 | [353910-germ-blasters.json](./353910-germ-blasters.json) |
 | Germ Crazy | 94669 | [94669-germ-crazy.json](./94669-germ-crazy.json) |
 | Germ Killer | 277701 | [277701-germ-killer.json](./277701-germ-killer.json) |
