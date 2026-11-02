@@ -140,6 +140,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | [Stories to Tell]: The Stoneville Incident | 410259 | [410259-stories-to-tell-the-stoneville-incident.json](./410259-stories-to-tell-the-stoneville-incident.json) |
 | [Untitled] | 261441 | [261441-untitled.json](./261441-untitled.json) |
 | [Visible] | 381404 | [381404-visible.json](./381404-visible.json) |
+| [Visible] II | 404016 | [404016-visible-ii.json](./404016-visible-ii.json) |
+| [Visible] III | 404018 | [404018-visible-iii.json](./404018-visible-iii.json) |
 | [Vlast] | 399048 | [399048-vlast.json](./399048-vlast.json) |
 | {Undefined} | 159190 | [159190-undefined.json](./159190-undefined.json) |
 | @ Home Mate | 22467 | [22467-home-mate.json](./22467-home-mate.json) |
