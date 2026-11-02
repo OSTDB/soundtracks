@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemency Island | 379130 | [379130-elemency-island.json](./379130-elemency-island.json) |
 | Elemensional Rift | 123261 | [123261-elemensional-rift.json](./123261-elemensional-rift.json) |
 | Element | 339732 | [339732-element.json](./339732-element.json) |
+| Element | 33996 | [33996-element.json](./33996-element.json) |
 | Element Are We | 275348 | [275348-element-are-we.json](./275348-element-are-we.json) |
 | Element Battle Royale | 286793 | [286793-element-battle-royale.json](./286793-element-battle-royale.json) |
 | Element Cattos | 377361 | [377361-element-cattos.json](./377361-element-cattos.json) |
@@ -2474,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite SWAT | 100950 | [100950-elite-swat.json](./100950-elite-swat.json) |
 | Elite Tanks | 139414 | [139414-elite-tanks.json](./139414-elite-tanks.json) |
 | Elite Trials | 96778 | [96778-elite-trials.json](./96778-elite-trials.json) |
+| Elite vs. Freedom | 34014 | [34014-elite-vs-freedom.json](./34014-elite-vs-freedom.json) |
 | Elite Warriors: Vietnam | 23786 | [23786-elite-warriors-vietnam.json](./23786-elite-warriors-vietnam.json) |
 | Elite X: Street Racer | 282842 | [282842-elite-x-street-racer.json](./282842-elite-x-street-racer.json) |
 | Elite: Dangerous - Horizons | 15442 | [15442-elite-dangerous-horizons.json](./15442-elite-dangerous-horizons.json) |
@@ -2952,6 +2954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emme Saves the Galaxy | 260204 | [260204-emme-saves-the-galaxy.json](./260204-emme-saves-the-galaxy.json) |
 | Emmensity | 356639 | [356639-emmensity.json](./356639-emmensity.json) |
 | Emmerdale DVD Game | 315194 | [315194-emmerdale-dvd-game.json](./315194-emmerdale-dvd-game.json) |
+| Emmerholt: Prologue | 33998 | [33998-emmerholt-prologue.json](./33998-emmerholt-prologue.json) |
 | Emmitt Smith Football | 42559 | [42559-emmitt-smith-football.json](./42559-emmitt-smith-football.json) |
 | Emmy II | 62195 | [62195-emmy-ii.json](./62195-emmy-ii.json) |
 | Emmy: The Funny Game | 62196 | [62196-emmy-the-funny-game.json](./62196-emmy-the-funny-game.json) |
