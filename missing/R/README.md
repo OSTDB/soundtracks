@@ -4196,6 +4196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflectron | 42048 | [42048-reflectron.json](./42048-reflectron.json) |
 | Reflex | 189851 | [189851-reflex.json](./189851-reflex.json) |
 | Reflex | 86345 | [86345-reflex.json](./86345-reflex.json) |
+| Reflex Arena | 9075 | [9075-reflex-arena.json](./9075-reflex-arena.json) |
 | Reflex Drop Time Race | 367849 | [367849-reflex-drop-time-race.json](./367849-reflex-drop-time-race.json) |
 | Reflex King of Elements | 227719 | [227719-reflex-king-of-elements.json](./227719-reflex-king-of-elements.json) |
 | Reflex Master: Sight | 342729 | [342729-reflex-master-sight.json](./342729-reflex-master-sight.json) |
@@ -6431,6 +6432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm de Cooking: Sweets Party e Youkoso | 72547 | [72547-rhythm-de-cooking-sweets-party-e-youkoso.json](./72547-rhythm-de-cooking-sweets-party-e-youkoso.json) |
 | Rhythm de Run Run Run | 123406 | [123406-rhythm-de-run-run-run.json](./123406-rhythm-de-run-run-run.json) |
 | Rhythm Defender | 118263 | [118263-rhythm-defender.json](./118263-rhythm-defender.json) |
+| Rhythm Destruction | 9011 | [9011-rhythm-destruction.json](./9011-rhythm-destruction.json) |
 | Rhythm Doctor | 27907 | [27907-rhythm-doctor.json](./27907-rhythm-doctor.json) |
 | Rhythm Dodge | 257999 | [257999-rhythm-dodge.json](./257999-rhythm-dodge.json) |
 | Rhythm Drive: Synthwave City | 237202 | [237202-rhythm-drive-synthwave-city.json](./237202-rhythm-drive-synthwave-city.json) |
@@ -8511,6 +8513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotech: The Macross Saga | 245414 | [245414-robotech-the-macross-saga.json](./245414-robotech-the-macross-saga.json) |
 | Robotech: The Macross Saga | 6563 | [6563-robotech-the-macross-saga.json](./6563-robotech-the-macross-saga.json) |
 | Robotek | 87699 | [87699-robotek.json](./87699-robotek.json) |
+| Robotex | 9017 | [9017-robotex.json](./9017-robotex.json) |
 | Robotfindskitten | 142978 | [142978-robotfindskitten.json](./142978-robotfindskitten.json) |
 | Robotfindskitten | 205093 | [205093-robotfindskitten.json](./205093-robotfindskitten.json) |
 | Robotherapy | 212058 | [212058-robotherapy.json](./212058-robotherapy.json) |
