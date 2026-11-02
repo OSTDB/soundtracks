@@ -16837,6 +16837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Maniac Xmas | 396423 | [396423-mountain-maniac-xmas.json](./396423-mountain-maniac-xmas.json) |
 | Mountain of Ape | 249622 | [249622-mountain-of-ape.json](./249622-mountain-of-ape.json) |
 | Mountain Peak Battle Mess | 147685 | [147685-mountain-peak-battle-mess.json](./147685-mountain-peak-battle-mess.json) |
+| Mountain Racing HD | 87394 | [87394-mountain-racing-hd.json](./87394-mountain-racing-hd.json) |
 | Mountain Rescue Simulator | 123737 | [123737-mountain-rescue-simulator.json](./123737-mountain-rescue-simulator.json) |
 | Mountain Shoot | 54976 | [54976-mountain-shoot.json](./54976-mountain-shoot.json) |
 | Mountain Skiing | 125620 | [125620-mountain-skiing.json](./125620-mountain-skiing.json) |
@@ -17219,6 +17220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Twigs | 114435 | [114435-mr-twigs.json](./114435-mr-twigs.json) |
 | Mr White | 262073 | [262073-mr-white.json](./262073-mr-white.json) |
 | Mr Wino | 60246 | [60246-mr-wino.json](./60246-mr-wino.json) |
+| Mr Word | 87329 | [87329-mr-word.json](./87329-mr-word.json) |
 | Mr Zig | 126810 | [126810-mr-zig.json](./126810-mr-zig.json) |
 | Mr. "Bargain Expert" | 413075 | [413075-mr-bargain-expert.json](./413075-mr-bargain-expert.json) |
 | Mr. Akun's Jump | 287737 | [287737-mr-akuns-jump.json](./287737-mr-akuns-jump.json) |
