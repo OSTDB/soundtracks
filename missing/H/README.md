@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack_Me 2 | 29287 | [29287-hack-me-2.json](./29287-hack-me-2.json) |
 | Hack_Me 3 | 120751 | [120751-hack-me-3.json](./120751-hack-me-3.json) |
 | Hack_Me Collection | 53175 | [53175-hack-me-collection.json](./53175-hack-me-collection.json) |
+| Hack-R | 413399 | [413399-hack-r.json](./413399-hack-r.json) |
 | Hack, Slash & Backstab | 33600 | [33600-hack-slash-and-backstab.json](./33600-hack-slash-and-backstab.json) |
 | Hack.88 | 120788 | [120788-hack-88.json](./120788-hack-88.json) |
 | Hack.bak | 386363 | [386363-hack-bak.json](./386363-hack-bak.json) |
@@ -189,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker Series | 31115 | [31115-hacker-series.json](./31115-hacker-series.json) |
 | Hacker Simulator | 178337 | [178337-hacker-simulator.json](./178337-hacker-simulator.json) |
 | Hacker the Beginning | 234585 | [234585-hacker-the-beginning.json](./234585-hacker-the-beginning.json) |
+| Hacker vs It | 412745 | [412745-hacker-vs-it.json](./412745-hacker-vs-it.json) |
 | Hacker.exe | 96503 | [96503-hacker-exe.json](./96503-hacker-exe.json) |
 | Hacker's Adventure | 142244 | [142244-hackers-adventure.json](./142244-hackers-adventure.json) |
 | Hacker's Beat | 35560 | [35560-hackers-beat.json](./35560-hackers-beat.json) |
@@ -2143,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Bliss | 302374 | [302374-harvest-bliss.json](./302374-harvest-bliss.json) |
 | Harvest Cafe | 294386 | [294386-harvest-cafe.json](./294386-harvest-cafe.json) |
 | Harvest Days | 308511 | [308511-harvest-days.json](./308511-harvest-days.json) |
+| Harvest Deadline | 412738 | [412738-harvest-deadline.json](./412738-harvest-deadline.json) |
 | Harvest Dice: Abundia’s Blessing | 376539 | [376539-harvest-dice-abundia-s-blessing.json](./376539-harvest-dice-abundia-s-blessing.json) |
 | Harvest Green | 138429 | [138429-harvest-green.json](./138429-harvest-green.json) |
 | Harvest Hands | 125419 | [125419-harvest-hands.json](./125419-harvest-hands.json) |
@@ -2445,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunt N Seek: Silent Siren | 296457 | [296457-haunt-n-seek-silent-siren.json](./296457-haunt-n-seek-silent-siren.json) |
 | Haunt or Heist | 291514 | [291514-haunt-or-heist.json](./291514-haunt-or-heist.json) |
 | Haunt the House: Terrortown | 16942 | [16942-haunt-the-house-terrortown.json](./16942-haunt-the-house-terrortown.json) |
+| Hauntasy | 412730 | [412730-hauntasy.json](./412730-hauntasy.json) |
 | Haunted | 16799 | [16799-haunted.json](./16799-haunted.json) |
 | Haunted | 377571 | [377571-haunted.json](./377571-haunted.json) |
 | Haunted Abbey | 13725 | [13725-haunted-abbey.json](./13725-haunted-abbey.json) |
@@ -3779,6 +3783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Blood: Inferno Retro Shooter | 378804 | [378804-hell-blood-inferno-retro-shooter.json](./378804-hell-blood-inferno-retro-shooter.json) |
 | Hell Boba Café | 216605 | [216605-hell-boba-cafe.json](./216605-hell-boba-cafe.json) |
 | Hell Bound Monsters | 188837 | [188837-hell-bound-monsters.json](./188837-hell-bound-monsters.json) |
+| Hell Breaker | 413392 | [413392-hell-breaker.json](./413392-hell-breaker.json) |
 | Hell Bug | 371376 | [371376-hell-bug.json](./371376-hell-bug.json) |
 | Hell Builder | 352221 | [352221-hell-builder.json](./352221-hell-builder.json) |
 | Hell Cab | 57625 | [57625-hell-cab.json](./57625-hell-cab.json) |
@@ -4912,6 +4917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Oppai | 301664 | [301664-hentai-oppai.json](./301664-hentai-oppai.json) |
 | Hentai Ouji to Warawanai Neko. | 62719 | [62719-hentai-ouji-to-warawanai-neko.json](./62719-hentai-ouji-to-warawanai-neko.json) |
 | Hentai Packer | 201409 | [201409-hentai-packer.json](./201409-hentai-packer.json) |
+| Hentai Panty: Private Collection | 413364 | [413364-hentai-panty-private-collection.json](./413364-hentai-panty-private-collection.json) |
 | Hentai Paradise Vol. 2 | 313153 | [313153-hentai-paradise-vol-2.json](./313153-hentai-paradise-vol-2.json) |
 | Hentai Paradise Vol. 3 | 316263 | [316263-hentai-paradise-vol-3.json](./316263-hentai-paradise-vol-3.json) |
 | Hentai Paradise Vol. 4 | 316262 | [316262-hentai-paradise-vol-4.json](./316262-hentai-paradise-vol-4.json) |
@@ -6888,6 +6894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide & Seek | 413861 | [413861-hide-and-seek.json](./413861-hide-and-seek.json) |
 | Hide & Seek World | 188552 | [188552-hide-and-seek-world.json](./188552-hide-and-seek-world.json) |
 | Hide & Spook: The Haunted Alchemist | 32722 | [32722-hide-and-spook-the-haunted-alchemist.json](./32722-hide-and-spook-the-haunted-alchemist.json) |
+| Hide and Fuse | 412742 | [412742-hide-and-fuse.json](./412742-hide-and-fuse.json) |
 | Hide and go boom | 86505 | [86505-hide-and-go-boom.json](./86505-hide-and-go-boom.json) |
 | Hide and Luig | 385411 | [385411-hide-and-luig.json](./385411-hide-and-luig.json) |
 | Hide and Moo! | 414286 | [414286-hide-and-moo.json](./414286-hide-and-moo.json) |
@@ -9546,6 +9553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Lovers Compendium 5-Pack | 25051 | [25051-horse-lovers-compendium-5-pack.json](./25051-horse-lovers-compendium-5-pack.json) |
 | Horse Magic | 406726 | [406726-horse-magic.json](./406726-horse-magic.json) |
 | Horse Magnifier | 396387 | [396387-horse-magnifier.json](./396387-horse-magnifier.json) |
+| Horse Magnifier: The Full Horse | 412747 | [412747-horse-magnifier-the-full-horse.json](./412747-horse-magnifier-the-full-horse.json) |
 | Horse Manager | 357854 | [357854-horse-manager.json](./357854-horse-manager.json) |
 | Horse Mansion | 301795 | [301795-horse-mansion.json](./301795-horse-mansion.json) |
 | Horse Master | 62453 | [62453-horse-master.json](./62453-horse-master.json) |
@@ -10546,6 +10554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Take Off Your Mask | 35394 | [35394-how-to-take-off-your-mask.json](./35394-how-to-take-off-your-mask.json) |
 | How to Take Off Your Mask: Remastered | 143151 | [143151-how-to-take-off-your-mask-remastered.json](./143151-how-to-take-off-your-mask-remastered.json) |
 | How to Tame a Succubus | 252681 | [252681-how-to-tame-a-succubus.json](./252681-how-to-tame-a-succubus.json) |
+| How to Train Your Bro's Girlfriend | 412714 | [412714-how-to-train-your-bros-girlfriend.json](./412714-how-to-train-your-bros-girlfriend.json) |
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
 | How to Train Your Dragon | 7012 | [7012-how-to-train-your-dragon.json](./7012-how-to-train-your-dragon.json) |
 | How to Train Your Dragon 2 | 50737 | [50737-how-to-train-your-dragon-2.json](./50737-how-to-train-your-dragon-2.json) |
