@@ -5425,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Spider-Man: Countdown to Doom | 230280 | [230280-the-amazing-spider-man-countdown-to-doom.json](./230280-the-amazing-spider-man-countdown-to-doom.json) |
 | The Amazing Spider-Man: Creative Studio | 208783 | [208783-the-amazing-spider-man-creative-studio.json](./208783-the-amazing-spider-man-creative-studio.json) |
 | The Amazing Spider-Man: Lethal Foes | 42403 | [42403-the-amazing-spider-man-lethal-foes.json](./42403-the-amazing-spider-man-lethal-foes.json) |
+| The Amazing Spider-Man: Ultimate Edition | 23514 | [23514-the-amazing-spider-man-ultimate-edition.json](./23514-the-amazing-spider-man-ultimate-edition.json) |
 | The Amazing Spider-Man: Web of Fire | 45882 | [45882-the-amazing-spider-man-web-of-fire.json](./45882-the-amazing-spider-man-web-of-fire.json) |
 | The Amazing T.K's Suburban Nightmares | 126864 | [126864-the-amazing-t-ks-suburban-nightmares.json](./126864-the-amazing-t-ks-suburban-nightmares.json) |
 | The Amazing Universe of the Psychotrons | 315610 | [315610-the-amazing-universe-of-the-psychotrons.json](./315610-the-amazing-universe-of-the-psychotrons.json) |
@@ -10220,6 +10221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunting God | 51418 | [51418-the-hunting-god.json](./51418-the-hunting-god.json) |
 | The Hunting! | 339195 | [339195-the-hunting.json](./339195-the-hunting.json) |
 | The Huntress of the Hollow | 108934 | [108934-the-huntress-of-the-hollow.json](./108934-the-huntress-of-the-hollow.json) |
+| The Huntsman: Winter's Curse | 22813 | [22813-the-huntsman-winters-curse.json](./22813-the-huntsman-winters-curse.json) |
 | The Huntsman: Winter's Curse (Book 2) | 164437 | [164437-the-huntsman-winters-curse-book-2.json](./164437-the-huntsman-winters-curse-book-2.json) |
 | The Huntsman: Winter's Curse (Book 3) | 164438 | [164438-the-huntsman-winters-curse-book-3.json](./164438-the-huntsman-winters-curse-book-3.json) |
 | The Huntsman: Winter's Curse (Book 4) | 164439 | [164439-the-huntsman-winters-curse-book-4.json](./164439-the-huntsman-winters-curse-book-4.json) |
