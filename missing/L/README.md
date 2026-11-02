@@ -3687,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LethalRpgDestiny | 309093 | [309093-lethalrpgdestiny.json](./309093-lethalrpgdestiny.json) |
 | Lethargy | 175147 | [175147-lethargy.json](./175147-lethargy.json) |
 | Lethe | 175283 | [175283-lethe.json](./175283-lethe.json) |
+| Lethe - Episode One | 34325 | [34325-lethe-episode-one.json](./34325-lethe-episode-one.json) |
 | Lethe: Broken memories | 121966 | [121966-lethe-broken-memories.json](./121966-lethe-broken-memories.json) |
 | Letherfall | 373540 | [373540-letherfall.json](./373540-letherfall.json) |
 | Lethis: Path of Progress | 22672 | [22672-lethis-path-of-progress.json](./22672-lethis-path-of-progress.json) |
