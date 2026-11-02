@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito Memories Pocket | 71784 | [71784-taito-memories-pocket.json](./71784-taito-memories-pocket.json) |
 | Taito Milestones 2 | 249737 | [249737-taito-milestones-2.json](./249737-taito-milestones-2.json) |
 | Taito Milestones 3 | 319646 | [319646-taito-milestones-3.json](./319646-taito-milestones-3.json) |
+| Taito Milestones 4 | 382959 | [382959-taito-milestones-4.json](./382959-taito-milestones-4.json) |
 | Taival | 398552 | [398552-taival.json](./398552-taival.json) |
 | Taiwan 2013 | 291988 | [291988-taiwan-2013.json](./291988-taiwan-2013.json) |
 | Taiwan Coolfox | 351603 | [351603-taiwan-coolfox.json](./351603-taiwan-coolfox.json) |
@@ -3216,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Ultimate Edition | 317919 | [317919-teenage-mutant-ninja-turtles-shredders-revenge-ultimate-edition.json](./317919-teenage-mutant-ninja-turtles-shredders-revenge-ultimate-edition.json) |
 | Teenage Mutant Ninja Turtles: Smash-Up | 326787 | [326787-teenage-mutant-ninja-turtles-smash-up.json](./326787-teenage-mutant-ninja-turtles-smash-up.json) |
 | Teenage Mutant Ninja Turtles: Smash-Up | 5214 | [5214-teenage-mutant-ninja-turtles-smash-up.json](./5214-teenage-mutant-ninja-turtles-smash-up.json) |
+| Teenage Mutant Ninja Turtles: Splintered Fate - Alopex Character DLC | 395233 | [395233-teenage-mutant-ninja-turtles-splintered-fate-alopex-character-dlc.json](./395233-teenage-mutant-ninja-turtles-splintered-fate-alopex-character-dlc.json) |
 | Teenage Mutant Ninja Turtles: Splintered Fate - Casey Jones & the Junkyard Jam | 329839 | [329839-teenage-mutant-ninja-turtles-splintered-fate-casey-jones-and-the-junkyard-jam.json](./329839-teenage-mutant-ninja-turtles-splintered-fate-casey-jones-and-the-junkyard-jam.json) |
 | Teenage Mutant Ninja Turtles: Splintered Fate - Deluxe Edition | 351134 | [351134-teenage-mutant-ninja-turtles-splintered-fate-deluxe-edition.json](./351134-teenage-mutant-ninja-turtles-splintered-fate-deluxe-edition.json) |
 | Teenage Mutant Ninja Turtles: Splintered Fate - Metalhead Character DLC | 395232 | [395232-teenage-mutant-ninja-turtles-splintered-fate-metalhead-character-dlc.json](./395232-teenage-mutant-ninja-turtles-splintered-fate-metalhead-character-dlc.json) |
@@ -4331,10 +4333,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrible Beast from the East | 111602 | [111602-terrible-beast-from-the-east.json](./111602-terrible-beast-from-the-east.json) |
 | Terrible Clicking Game | 215391 | [215391-terrible-clicking-game.json](./215391-terrible-clicking-game.json) |
 | Terrible Life Expectancy | 352386 | [352386-terrible-life-expectancy.json](./352386-terrible-life-expectancy.json) |
+| Terrible Lizards | 296564 | [296564-terrible-lizards.json](./296564-terrible-lizards.json) |
 | Terrible Teeth | 167156 | [167156-terrible-teeth.json](./167156-terrible-teeth.json) |
 | Terrierble Logic | 251008 | [251008-terrierble-logic.json](./251008-terrierble-logic.json) |
 | Terrific Tennis | 183736 | [183736-terrific-tennis.json](./183736-terrific-tennis.json) |
 | Terrifying 9/11 | 165146 | [165146-terrifying-9-11.json](./165146-terrifying-9-11.json) |
+| Terrinoth: Heroes of Descent | 389109 | [389109-terrinoth-heroes-of-descent.json](./389109-terrinoth-heroes-of-descent.json) |
 | Territopple | 379666 | [379666-territopple.json](./379666-territopple.json) |
 | Territorial Conquest | 374101 | [374101-territorial-conquest.json](./374101-territorial-conquest.json) |
 | Territorial Duck | 210979 | [210979-territorial-duck.json](./210979-territorial-duck.json) |
@@ -6595,6 +6599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Caretaker’s Lease | 361046 | [361046-the-caretaker-s-lease.json](./361046-the-caretaker-s-lease.json) |
 | The Caribbean Sail: Fantasy Toggle | 144166 | [144166-the-caribbean-sail-fantasy-toggle.json](./144166-the-caribbean-sail-fantasy-toggle.json) |
 | The Caribbean Sail: Route Planing | 144165 | [144165-the-caribbean-sail-route-planing.json](./144165-the-caribbean-sail-route-planing.json) |
+| The Caribou Trail | 391848 | [391848-the-caribou-trail.json](./391848-the-caribou-trail.json) |
 | The Carnage Continues | 276385 | [276385-the-carnage-continues.json](./276385-the-carnage-continues.json) |
 | The Carnival Killer | 320578 | [320578-the-carnival-killer.json](./320578-the-carnival-killer.json) |
 | The Carnival Of Company | 293632 | [293632-the-carnival-of-company.json](./293632-the-carnival-of-company.json) |
@@ -7123,6 +7128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cozy Garden of Forgotten Dreams | 347303 | [347303-the-cozy-garden-of-forgotten-dreams.json](./347303-the-cozy-garden-of-forgotten-dreams.json) |
 | The Crab-Hat | 421813 | [421813-the-crab-hat.json](./421813-the-crab-hat.json) |
 | The Crack of Doom | 70056 | [70056-the-crack-of-doom.json](./70056-the-crack-of-doom.json) |
+| The Crackpet Show: Happy Tree Friends Edition | 262228 | [262228-the-crackpet-show-happy-tree-friends-edition.json](./262228-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Crackpet Show: Happy Tree Friends Edition | 291998 | [291998-the-crackpet-show-happy-tree-friends-edition.json](./291998-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Cracks of Fire | 12948 | [12948-the-cracks-of-fire.json](./12948-the-cracks-of-fire.json) |
 | The Cradle | 379018 | [379018-the-cradle.json](./379018-the-cradle.json) |
@@ -13310,6 +13316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The NewZealand Story | 274068 | [274068-the-newzealand-story.json](./274068-the-newzealand-story.json) |
 | The NewZealand Story | 274070 | [274070-the-newzealand-story.json](./274070-the-newzealand-story.json) |
 | The NewZealand Story | 7628 | [7628-the-newzealand-story.json](./7628-the-newzealand-story.json) |
+| The NewZealand Story: Untold Adventure | 384926 | [384926-the-newzealand-story-untold-adventure.json](./384926-the-newzealand-story-untold-adventure.json) |
 | The Next Big Thing | 10958 | [10958-the-next-big-thing.json](./10958-the-next-big-thing.json) |
 | The Next Big Thing | 264879 | [264879-the-next-big-thing.json](./264879-the-next-big-thing.json) |
 | The Next Door | 33405 | [33405-the-next-door.json](./33405-the-next-door.json) |
@@ -14780,6 +14787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rumble Fish 2: Greed | 225511 | [225511-the-rumble-fish-2-greed.json](./225511-the-rumble-fish-2-greed.json) |
 | The Rumble Fish 2: Nintendo Switch 2 Edition | 384186 | [384186-the-rumble-fish-2-nintendo-switch-2-edition.json](./384186-the-rumble-fish-2-nintendo-switch-2-edition.json) |
 | The Rumble Fish: Complete Pack | 336932 | [336932-the-rumble-fish-complete-pack.json](./336932-the-rumble-fish-complete-pack.json) |
+| The Run | 386643 | [386643-the-run.json](./386643-the-run.json) |
 | The Runaway Feijoao | 159874 | [159874-the-runaway-feijoao.json](./159874-the-runaway-feijoao.json) |
 | The Runaway Girl and Me | 254879 | [254879-the-runaway-girl-and-me.json](./254879-the-runaway-girl-and-me.json) |
 | The Runaway Train | 397613 | [397613-the-runaway-train.json](./397613-the-runaway-train.json) |
@@ -15546,6 +15554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Restoration Workshop Kit | 350997 | [350997-the-sims-4-restoration-workshop-kit.json](./350997-the-sims-4-restoration-workshop-kit.json) |
 | The Sims 4: Riviera Retreat Kit | 303887 | [303887-the-sims-4-riviera-retreat-kit.json](./303887-the-sims-4-riviera-retreat-kit.json) |
 | The Sims 4: Romantic Garden Stuff | 121022 | [121022-the-sims-4-romantic-garden-stuff.json](./121022-the-sims-4-romantic-garden-stuff.json) |
+| The Sims 4: Royalty & Legacy | 385654 | [385654-the-sims-4-royalty-and-legacy.json](./385654-the-sims-4-royalty-and-legacy.json) |
 | The Sims 4: Seasons | 102585 | [102585-the-sims-4-seasons.json](./102585-the-sims-4-seasons.json) |
 | The Sims 4: Seasons, Jungle Adventure, Spooky Stuff | 159332 | [159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json](./159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json) |
 | The Sims 4: Secret Sanctuary Kit | 330392 | [330392-the-sims-4-secret-sanctuary-kit.json](./330392-the-sims-4-secret-sanctuary-kit.json) |
@@ -18848,6 +18857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas & Friends: Thomas Saves the Day! | 71871 | [71871-thomas-and-friends-thomas-saves-the-day.json](./71871-thomas-and-friends-thomas-saves-the-day.json) |
 | Thomas & Friends: Trouble on the Tracks | 50425 | [50425-thomas-and-friends-trouble-on-the-tracks.json](./50425-thomas-and-friends-trouble-on-the-tracks.json) |
 | Thomas & Friends: Up, Up and Away! Diesel's Special Delivery | 242029 | [242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json](./242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json) |
+| Thomas & Friends: Wonders of Sodor | 388501 | [388501-thomas-and-friends-wonders-of-sodor.json](./388501-thomas-and-friends-wonders-of-sodor.json) |
 | Thomas & Friends: Wonders of Sodor - Deluxe Edition | 394325 | [394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json](./394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json) |
 | Thomas & Friends: Wonders of Sodor - James Addon | 394318 | [394318-thomas-and-friends-wonders-of-sodor-james-addon.json](./394318-thomas-and-friends-wonders-of-sodor-james-addon.json) |
 | Thomas and Friends: Calling All Engines | 69047 | [69047-thomas-and-friends-calling-all-engines.json](./69047-thomas-and-friends-calling-all-engines.json) |
@@ -22266,6 +22276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanigods | 328469 | [328469-titanigods.json](./328469-titanigods.json) |
 | Titanion | 50413 | [50413-titanion.json](./50413-titanion.json) |
 | Titanis | 35381 | [35381-titanis.json](./35381-titanis.json) |
+| Titanium Court | 384358 | [384358-titanium-court.json](./384358-titanium-court.json) |
 | Titanium Hound | 217386 | [217386-titanium-hound.json](./217386-titanium-hound.json) |
 | Titanium Nephilim | 341367 | [341367-titanium-nephilim.json](./341367-titanium-nephilim.json) |
 | Titankin: Prologue | 165111 | [165111-titankin-prologue.json](./165111-titankin-prologue.json) |
@@ -30471,6 +30482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok 2: Seeds of Evil | 27508 | [27508-turok-2-seeds-of-evil.json](./27508-turok-2-seeds-of-evil.json) |
 | Turok 3: Shadow of Oblivion | 1328 | [1328-turok-3-shadow-of-oblivion.json](./1328-turok-3-shadow-of-oblivion.json) |
 | Turok 3: Shadow of Oblivion | 142996 | [142996-turok-3-shadow-of-oblivion.json](./142996-turok-3-shadow-of-oblivion.json) |
+| Turok 3: Shadow of Oblivion | 263462 | [263462-turok-3-shadow-of-oblivion.json](./263462-turok-3-shadow-of-oblivion.json) |
 | Turok Bundle | 103215 | [103215-turok-bundle.json](./103215-turok-bundle.json) |
 | Turok Trilogy Bundle | 279028 | [279028-turok-trilogy-bundle.json](./279028-turok-trilogy-bundle.json) |
 | Turok: Battle of the Bionosaurs | 1325 | [1325-turok-battle-of-the-bionosaurs.json](./1325-turok-battle-of-the-bionosaurs.json) |
