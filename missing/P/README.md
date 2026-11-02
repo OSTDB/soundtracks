@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.T. | 11654 | [11654-p-t.json](./11654-p-t.json) |
 | P.T. Barnum's Acrobats | 41558 | [41558-p-t-barnums-acrobats.json](./41558-p-t-barnums-acrobats.json) |
 | P.T. Bone-um's: Fabulous Tightrope of Terror | 180798 | [180798-p-t-bone-ums-fabulous-tightrope-of-terror.json](./180798-p-t-bone-ums-fabulous-tightrope-of-terror.json) |
+| P.T. for PC | 422107 | [422107-p-t-for-pc.json](./422107-p-t-for-pc.json) |
 | P.T.O. II: Pacific Theater of Operations | 45527 | [45527-p-t-o-ii-pacific-theater-of-operations.json](./45527-p-t-o-ii-pacific-theater-of-operations.json) |
 | P.T.O. IV | 43435 | [43435-p-t-o-iv.json](./43435-p-t-o-iv.json) |
 | P.T.O.: Pacific Theater of Operations IV | 70232 | [70232-p-t-o-pacific-theater-of-operations-iv.json](./70232-p-t-o-pacific-theater-of-operations-iv.json) |
@@ -3903,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pense Bem: Geografia | 305884 | [305884-pense-bem-geografia.json](./305884-pense-bem-geografia.json) |
 | Pense Bem: História | 305885 | [305885-pense-bem-historia.json](./305885-pense-bem-historia.json) |
 | Pense Bem: Informática | 305886 | [305886-pense-bem-informatica.json](./305886-pense-bem-informatica.json) |
+| Pensées aux Familles des Poubelles | 421571 | [421571-pensees-aux-familles-des-poubelles.json](./421571-pensees-aux-familles-des-poubelles.json) |
 | Pent's Wacky, Zany Road Trip to Adulthood | 412953 | [412953-pents-wacky-zany-road-trip-to-adulthood.json](./412953-pents-wacky-zany-road-trip-to-adulthood.json) |
 | Pent's Zacky, Zany Road Trip to Adulthood | 326611 | [326611-pents-zacky-zany-road-trip-to-adulthood.json](./326611-pents-zacky-zany-road-trip-to-adulthood.json) |
 | Penta Dragon | 49139 | [49139-penta-dragon.json](./49139-penta-dragon.json) |
@@ -4183,6 +4185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfection. | 16621 | [16621-perfection.json](./16621-perfection.json) |
 | PerfectLover | 128000 | [128000-perfectlover.json](./128000-perfectlover.json) |
 | Perfectly Balanced | 175073 | [175073-perfectly-balanced.json](./175073-perfectly-balanced.json) |
+| Perfectly Folded | 421566 | [421566-perfectly-folded.json](./421566-perfectly-folded.json) |
 | Perfectly Perilous Provisions | 135630 | [135630-perfectly-perilous-provisions.json](./135630-perfectly-perilous-provisions.json) |
 | Performan | 40405 | [40405-performan.json](./40405-performan.json) |
 | Performer | 150341 | [150341-performer.json](./150341-performer.json) |
@@ -4768,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pew Pew Crew! | 265309 | [265309-pew-pew-crew.json](./265309-pew-pew-crew.json) |
 | Pew Pew Gaem 3 | 326260 | [326260-pew-pew-gaem-3.json](./326260-pew-pew-gaem-3.json) |
 | Pew Pew Land | 91171 | [91171-pew-pew-land.json](./91171-pew-pew-land.json) |
+| Pew Pew Magic Wizard Fighter | 422169 | [422169-pew-pew-magic-wizard-fighter.json](./422169-pew-pew-magic-wizard-fighter.json) |
 | Pew Pew Planet | 129479 | [129479-pew-pew-planet.json](./129479-pew-pew-planet.json) |
 | Pew Pew Pod | 65252 | [65252-pew-pew-pod.json](./65252-pew-pew-pod.json) |
 | Pew Pew Puzzle Defense | 120033 | [120033-pew-pew-puzzle-defense.json](./120033-pew-pew-puzzle-defense.json) |
