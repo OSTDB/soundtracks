@@ -1916,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raptors vs. Goblins | 346518 | [346518-raptors-vs-goblins.json](./346518-raptors-vs-goblins.json) |
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
 | Rapture Recovery Squad | 304654 | [304654-rapture-recovery-squad.json](./304654-rapture-recovery-squad.json) |
+| Rapture Rejects | 103327 | [103327-rapture-rejects.json](./103327-rapture-rejects.json) |
 | Rapture: World Conquest | 47163 | [47163-rapture-world-conquest.json](./47163-rapture-world-conquest.json) |
 | Rapunzel | 398265 | [398265-rapunzel.json](./398265-rapunzel.json) |
 | Rapunzel & Thumbelina: The Tiny Adventure | 404536 | [404536-rapunzel-and-thumbelina-the-tiny-adventure.json](./404536-rapunzel-and-thumbelina-the-tiny-adventure.json) |
@@ -4013,6 +4014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redout: Mars Pack | 226971 | [226971-redout-mars-pack.json](./226971-redout-mars-pack.json) |
 | Redout: Neptune Pack | 226972 | [226972-redout-neptune-pack.json](./226972-redout-neptune-pack.json) |
 | Redout: Solar Challenge Edition | 124807 | [124807-redout-solar-challenge-edition.json](./124807-redout-solar-challenge-edition.json) |
+| Redout: Space Assault | 104238 | [104238-redout-space-assault.json](./104238-redout-space-assault.json) |
 | Redout: Space Assault - Deluxe Edition | 154547 | [154547-redout-space-assault-deluxe-edition.json](./154547-redout-space-assault-deluxe-edition.json) |
 | Redout: Space Exploration Pack | 226973 | [226973-redout-space-exploration-pack.json](./226973-redout-space-exploration-pack.json) |
 | Redout: Ultimate Edition | 201038 | [201038-redout-ultimate-edition.json](./201038-redout-ultimate-edition.json) |
@@ -5929,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return. | 106161 | [106161-return.json](./106161-return.json) |
 | Returnal: Ascension | 194788 | [194788-returnal-ascension.json](./194788-returnal-ascension.json) |
 | Returnal: Digital Deluxe Edition | 221656 | [221656-returnal-digital-deluxe-edition.json](./221656-returnal-digital-deluxe-edition.json) |
+| Returner 77 | 88035 | [88035-returner-77.json](./88035-returner-77.json) |
 | Returner Alien | 108500 | [108500-returner-alien.json](./108500-returner-alien.json) |
 | Returner Zhero | 107202 | [107202-returner-zhero.json](./107202-returner-zhero.json) |
 | Returners | 101184 | [101184-returners.json](./101184-returners.json) |
