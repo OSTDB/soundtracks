@@ -2715,6 +2715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCG Master Trader | 368362 | [368362-tcg-master-trader.json](./368362-tcg-master-trader.json) |
 | TCG Multiplayer Card Shop Simulator | 322643 | [322643-tcg-multiplayer-card-shop-simulator.json](./322643-tcg-multiplayer-card-shop-simulator.json) |
 | TCG One | 149983 | [149983-tcg-one.json](./149983-tcg-one.json) |
+| Tcheco in the Castle of Lucio | 35037 | [35037-tcheco-in-the-castle-of-lucio.json](./35037-tcheco-in-the-castle-of-lucio.json) |
 | Tchia: Kepler Customization Pack | 243232 | [243232-tchia-kepler-customization-pack.json](./243232-tchia-kepler-customization-pack.json) |
 | Tchia: Oléti Edition | 239605 | [239605-tchia-oleti-edition.json](./239605-tchia-oleti-edition.json) |
 | Tchin | 311518 | [311518-tchin.json](./311518-tchin.json) |
@@ -11194,6 +11195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Door: Collector's Edition | 36443 | [36443-the-last-door-collectors-edition.json](./36443-the-last-door-collectors-edition.json) |
 | The Last Door: Complete Edition | 118676 | [118676-the-last-door-complete-edition.json](./118676-the-last-door-complete-edition.json) |
 | The Last Door: Legacy Edition | 204909 | [204909-the-last-door-legacy-edition.json](./204909-the-last-door-legacy-edition.json) |
+| The Last Door: Season 2 - Collector's Edition | 34468 | [34468-the-last-door-season-2-collectors-edition.json](./34468-the-last-door-season-2-collectors-edition.json) |
 | The Last Dream | 88841 | [88841-the-last-dream.json](./88841-the-last-dream.json) |
 | The Last Dream: Developer's Edition | 34624 | [34624-the-last-dream-developers-edition.json](./34624-the-last-dream-developers-edition.json) |
 | The Last Drive: 2335 | 359607 | [359607-the-last-drive-2335.json](./359607-the-last-drive-2335.json) |
@@ -13136,6 +13138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mushroom Season | 215228 | [215228-the-mushroom-season.json](./215228-the-mushroom-season.json) |
 | The Mushrooms' Happy New Year | 396193 | [396193-the-mushrooms-happy-new-year.json](./396193-the-mushrooms-happy-new-year.json) |
 | The Music Machine | 282793 | [282793-the-music-machine.json](./282793-the-music-machine.json) |
+| The Music Machine | 35515 | [35515-the-music-machine.json](./35515-the-music-machine.json) |
 | The Music Trivia Challenge | 106894 | [106894-the-music-trivia-challenge.json](./106894-the-music-trivia-challenge.json) |
 | The Musketeers: Victoria's Quest | 34759 | [34759-the-musketeers-victorias-quest.json](./34759-the-musketeers-victorias-quest.json) |
 | The Mutant Virus: "Crisis in a Computer World!" | 48196 | [48196-the-mutant-virus-crisis-in-a-computer-world.json](./48196-the-mutant-virus-crisis-in-a-computer-world.json) |
@@ -19298,6 +19301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Truck Rally | 20131 | [20131-thunder-truck-rally.json](./20131-thunder-truck-rally.json) |
 | Thunder Trucks: Heavy Racers | 409508 | [409508-thunder-trucks-heavy-racers.json](./409508-thunder-trucks-heavy-racers.json) |
 | Thunder War Rabbit Alien Fight | 265634 | [265634-thunder-war-rabbit-alien-fight.json](./265634-thunder-war-rabbit-alien-fight.json) |
+| Thunder Wolves | 10990 | [10990-thunder-wolves.json](./10990-thunder-wolves.json) |
 | Thunder Zone | 39977 | [39977-thunder-zone.json](./39977-thunder-zone.json) |
 | Thunderballs | 114042 | [114042-thunderballs.json](./114042-thunderballs.json) |
 | Thunderballs VR | 140178 | [140178-thunderballs-vr.json](./140178-thunderballs-vr.json) |
@@ -27495,6 +27499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: ZecRail V499 Blue & Gold and Christmas 2019 | 205329 | [205329-trainz-railroad-simulator-2022-zecrail-v499-blue-and-gold-and-christmas-2019.json](./205329-trainz-railroad-simulator-2022-zecrail-v499-blue-and-gold-and-christmas-2019.json) |
 | Trainz Railroad Simulator 2022: Znamensk-Svir | 205359 | [205359-trainz-railroad-simulator-2022-znamensk-svir.json](./205359-trainz-railroad-simulator-2022-znamensk-svir.json) |
 | Trainz Simulator | 88611 | [88611-trainz-simulator.json](./88611-trainz-simulator.json) |
+| Trainz Simulator 12 | 11018 | [11018-trainz-simulator-12.json](./11018-trainz-simulator-12.json) |
 | Trainz Simulator 12: Aerotrain | 161737 | [161737-trainz-simulator-12-aerotrain.json](./161737-trainz-simulator-12-aerotrain.json) |
 | Trainz Simulator 12: BR Class 14 | 162700 | [162700-trainz-simulator-12-br-class-14.json](./162700-trainz-simulator-12-br-class-14.json) |
 | Trainz Simulator 12: CONTZ Pack - Basic Edition | 162693 | [162693-trainz-simulator-12-contz-pack-basic-edition.json](./162693-trainz-simulator-12-contz-pack-basic-edition.json) |
@@ -30673,6 +30678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight School: The Forbidden Experiment | 325728 | [325728-twilight-school-the-forbidden-experiment.json](./325728-twilight-school-the-forbidden-experiment.json) |
 | Twilight Shadows | 188354 | [188354-twilight-shadows.json](./188354-twilight-shadows.json) |
 | Twilight Story: A Quiet House | 279095 | [279095-twilight-story-a-quiet-house.json](./279095-twilight-story-a-quiet-house.json) |
+| Twilight Struggle | 34351 | [34351-twilight-struggle.json](./34351-twilight-struggle.json) |
 | Twilight Struggle: Red Sea | 249852 | [249852-twilight-struggle-red-sea.json](./249852-twilight-struggle-red-sea.json) |
 | Twilight Survivors | 285351 | [285351-twilight-survivors.json](./285351-twilight-survivors.json) |
 | Twilight Syndrome Kyuumei-hen | 65454 | [65454-twilight-syndrome-kyuumei-hen.json](./65454-twilight-syndrome-kyuumei-hen.json) |
