@@ -10463,6 +10463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inheritance of Crimson Manor: Victorian Edition | 324776 | [324776-the-inheritance-of-crimson-manor-victorian-edition.json](./324776-the-inheritance-of-crimson-manor-victorian-edition.json) |
 | The Initial | 44187 | [44187-the-initial.json](./44187-the-initial.json) |
 | The Initiate | 44181 | [44181-the-initiate.json](./44181-the-initiate.json) |
+| The Initiate 2: The First Interviews | 103611 | [103611-the-initiate-2-the-first-interviews.json](./103611-the-initiate-2-the-first-interviews.json) |
 | The Initiate: The First Interviews | 109555 | [109555-the-initiate-the-first-interviews.json](./109555-the-initiate-the-first-interviews.json) |
 | The Initiation | 345128 | [345128-the-initiation.json](./345128-the-initiation.json) |
 | The Inkspire | 416676 | [416676-the-inkspire.json](./416676-the-inkspire.json) |
@@ -10471,6 +10472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inn-Sanity | 279266 | [279266-the-inn-sanity.json](./279266-the-inn-sanity.json) |
 | The Inner Darkness | 27919 | [27919-the-inner-darkness.json](./27919-the-inner-darkness.json) |
 | The Inner Demons | 262785 | [262785-the-inner-demons.json](./262785-the-inner-demons.json) |
+| The Inner Friend | 104280 | [104280-the-inner-friend.json](./104280-the-inner-friend.json) |
 | The Inner Light | 177754 | [177754-the-inner-light.json](./177754-the-inner-light.json) |
 | The Inner Sea | 33517 | [33517-the-inner-sea.json](./33517-the-inner-sea.json) |
 | The Inner World 2 | 99344 | [99344-the-inner-world-2.json](./99344-the-inner-world-2.json) |
@@ -10640,6 +10642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journey | 118946 | [118946-the-journey.json](./118946-the-journey.json) |
 | The Journey | 263358 | [263358-the-journey.json](./263358-the-journey.json) |
 | The Journey Back | 34708 | [34708-the-journey-back.json](./34708-the-journey-back.json) |
+| The Journey Down Trilogy | 103209 | [103209-the-journey-down-trilogy.json](./103209-the-journey-down-trilogy.json) |
 | The Journey Down: Chapter One | 9048 | [9048-the-journey-down-chapter-one.json](./9048-the-journey-down-chapter-one.json) |
 | The Journey Down: Chapter Three | 15911 | [15911-the-journey-down-chapter-three.json](./15911-the-journey-down-chapter-three.json) |
 | The Journey Down: Chapter Two | 10973 | [10973-the-journey-down-chapter-two.json](./10973-the-journey-down-chapter-two.json) |
@@ -11581,6 +11584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legacy of Music | 113572 | [113572-the-legacy-of-music.json](./113572-the-legacy-of-music.json) |
 | The Legacy of Robin Hood | 320470 | [320470-the-legacy-of-robin-hood.json](./320470-the-legacy-of-robin-hood.json) |
 | The legacy of W. Whitlaw VR | 131866 | [131866-the-legacy-of-w-whitlaw-vr.json](./131866-the-legacy-of-w-whitlaw-vr.json) |
+| The Legacy: Prisoner | 104187 | [104187-the-legacy-prisoner.json](./104187-the-legacy-prisoner.json) |
 | The Legacy: Realm of Terror | 79233 | [79233-the-legacy-realm-of-terror.json](./79233-the-legacy-realm-of-terror.json) |
 | The Legacy: The Tree of Might | 112988 | [112988-the-legacy-the-tree-of-might.json](./112988-the-legacy-the-tree-of-might.json) |
 | The Legend Beyond Legends | 302441 | [302441-the-legend-beyond-legends.json](./302441-the-legend-beyond-legends.json) |
@@ -25182,6 +25186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Fortress | 75968 | [75968-tower-fortress.json](./75968-tower-fortress.json) |
 | Tower FRA | 55985 | [55985-tower-fra.json](./55985-tower-fra.json) |
 | Tower Guy: Remastered | 177224 | [177224-tower-guy-remastered.json](./177224-tower-guy-remastered.json) |
+| Tower Hunter: Erza's Trial | 104186 | [104186-tower-hunter-erzas-trial.json](./104186-tower-hunter-erzas-trial.json) |
 | Tower in the Sky | 30843 | [30843-tower-in-the-sky.json](./30843-tower-in-the-sky.json) |
 | Tower Inc. | 369717 | [369717-tower-inc.json](./369717-tower-inc.json) |
 | Tower Island: Explore, Discover and Disassemble | 32413 | [32413-tower-island-explore-discover-and-disassemble.json](./32413-tower-island-explore-discover-and-disassemble.json) |
