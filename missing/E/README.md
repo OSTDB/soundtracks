@@ -2469,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Star Fighter | 117506 | [117506-elite-star-fighter.json](./117506-elite-star-fighter.json) |
 | Elite Starfighter | 59932 | [59932-elite-starfighter.json](./59932-elite-starfighter.json) |
 | Elite Status: Platinum Concierge | 253301 | [253301-elite-status-platinum-concierge.json](./253301-elite-status-platinum-concierge.json) |
+| Elite SWAT | 100950 | [100950-elite-swat.json](./100950-elite-swat.json) |
 | Elite Tanks | 139414 | [139414-elite-tanks.json](./139414-elite-tanks.json) |
 | Elite Trials | 96778 | [96778-elite-trials.json](./96778-elite-trials.json) |
 | Elite Warriors: Vietnam | 23786 | [23786-elite-warriors-vietnam.json](./23786-elite-warriors-vietnam.json) |
