@@ -6239,6 +6239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Adventures in Wonderland | 95466 | [95466-alices-adventures-in-wonderland.json](./95466-alices-adventures-in-wonderland.json) |
 | Alice's Burger Shop | 223485 | [223485-alices-burger-shop.json](./223485-alices-burger-shop.json) |
 | Alice's Desktop Adventure | 416353 | [416353-alices-desktop-adventure.json](./416353-alices-desktop-adventure.json) |
+| Alice's Gaze | 405818 | [405818-alices-gaze.json](./405818-alices-gaze.json) |
 | Alice's Jigsaw: Time Travel | 163005 | [163005-alices-jigsaw-time-travel.json](./163005-alices-jigsaw-time-travel.json) |
 | Alice's Jigsaw: Time Travel 2 | 163001 | [163001-alices-jigsaw-time-travel-2.json](./163001-alices-jigsaw-time-travel-2.json) |
 | Alice's Jigsaw: Wonderland 2 | 102816 | [102816-alices-jigsaw-wonderland-2.json](./102816-alices-jigsaw-wonderland-2.json) |
@@ -10849,6 +10850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aphelion Episode One: Graves of Earth | 66398 | [66398-aphelion-episode-one-graves-of-earth.json](./66398-aphelion-episode-one-graves-of-earth.json) |
 | Aphelion Episode Two: Wings of Omega | 66165 | [66165-aphelion-episode-two-wings-of-omega.json](./66165-aphelion-episode-two-wings-of-omega.json) |
 | Aphelion Headhunters | 248089 | [248089-aphelion-headhunters.json](./248089-aphelion-headhunters.json) |
+| Aphelion: Deluxe Edition | 405851 | [405851-aphelion-deluxe-edition.json](./405851-aphelion-deluxe-edition.json) |
 | Aphotic Descent | 245898 | [245898-aphotic-descent.json](./245898-aphotic-descent.json) |
 | Aphrodite Evolve Weapons Survivor: Greek Gods Versus Heaven | 404261 | [404261-aphrodite-evolve-weapons-survivor-greek-gods-versus-heaven.json](./404261-aphrodite-evolve-weapons-survivor-greek-gods-versus-heaven.json) |
 | Aphrodite's Bathhouse | 364091 | [364091-aphrodites-bathhouse.json](./364091-aphrodites-bathhouse.json) |
@@ -11021,6 +11023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | App Empire Tycoon | 363957 | [363957-app-empire-tycoon.json](./363957-app-empire-tycoon.json) |
 | App Escape | 128810 | [128810-app-escape.json](./128810-app-escape.json) |
 | Appa | 367951 | [367951-appa.json](./367951-appa.json) |
+| Appalachia | 405816 | [405816-appalachia.json](./405816-appalachia.json) |
 | Appalachian Onslaught | 399090 | [399090-appalachian-onslaught.json](./399090-appalachian-onslaught.json) |
 | Apparatus | 204796 | [204796-apparatus.json](./204796-apparatus.json) |
 | Apparatus: Exanimus | 361328 | [361328-apparatus-exanimus.json](./361328-apparatus-exanimus.json) |
@@ -13935,6 +13938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascension: Deckbuilding Game | 8638 | [8638-ascension-deckbuilding-game.json](./8638-ascension-deckbuilding-game.json) |
 | Ascension: Delirium | 174532 | [174532-ascension-delirium.json](./174532-ascension-delirium.json) |
 | Ascension: The Immortal Alchemist | 318973 | [318973-ascension-the-immortal-alchemist.json](./318973-ascension-the-immortal-alchemist.json) |
+| Ascension: The Infinite Descent | 405806 | [405806-ascension-the-infinite-descent.json](./405806-ascension-the-infinite-descent.json) |
 | Ascension: Transition and Silver | 144608 | [144608-ascension-transition-and-silver.json](./144608-ascension-transition-and-silver.json) |
 | Ascent | 140157 | [140157-ascent.json](./140157-ascent.json) |
 | Ascent | 155417 | [155417-ascent.json](./155417-ascent.json) |
