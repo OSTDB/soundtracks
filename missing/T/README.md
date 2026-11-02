@@ -8308,6 +8308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elfin Wars | 93942 | [93942-the-elfin-wars.json](./93942-the-elfin-wars.json) |
 | The Eliminator | 24704 | [24704-the-eliminator.json](./24704-the-eliminator.json) |
 | The Elision Effect | 273415 | [273415-the-elision-effect.json](./273415-the-elision-effect.json) |
+| The Elite Grand Enigma | 422845 | [422845-the-elite-grand-enigma.json](./422845-the-elite-grand-enigma.json) |
 | The Elm Game | 171868 | [171868-the-elm-game.json](./171868-the-elm-game.json) |
 | The Elven Forest VR | 384633 | [384633-the-elven-forest-vr.json](./384633-the-elven-forest-vr.json) |
 | The Elysian Field | 153976 | [153976-the-elysian-field.json](./153976-the-elysian-field.json) |
@@ -8880,6 +8881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Exam | 318637 | [318637-the-final-exam.json](./318637-the-final-exam.json) |
 | The Final Exhibition | 245862 | [245862-the-final-exhibition.json](./245862-the-final-exhibition.json) |
 | The Final Fantasy Legend DX | 364394 | [364394-the-final-fantasy-legend-dx.json](./364394-the-final-fantasy-legend-dx.json) |
+| The Final Fare | 422840 | [422840-the-final-fare.json](./422840-the-final-fare.json) |
 | The Final Flame | 365808 | [365808-the-final-flame.json](./365808-the-final-flame.json) |
 | The Final Fragment | 333880 | [333880-the-final-fragment.json](./333880-the-final-fragment.json) |
 | The Final Front | 382440 | [382440-the-final-front.json](./382440-the-final-front.json) |
@@ -15407,6 +15409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silence | 185625 | [185625-the-silence.json](./185625-the-silence.json) |
 | The Silence After | 361769 | [361769-the-silence-after.json](./361769-the-silence-after.json) |
 | The Silence of Darkness | 30186 | [30186-the-silence-of-darkness.json](./30186-the-silence-of-darkness.json) |
+| The Silence of Dawn | 422842 | [422842-the-silence-of-dawn.json](./422842-the-silence-of-dawn.json) |
 | The Silence Outside | 75928 | [75928-the-silence-outside.json](./75928-the-silence-outside.json) |
 | The Silence: Deep Sleep | 412889 | [412889-the-silence-deep-sleep.json](./412889-the-silence-deep-sleep.json) |
 | The Silence: The Forest | 411372 | [411372-the-silence-the-forest.json](./411372-the-silence-the-forest.json) |
@@ -16126,6 +16129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stonecutter | 84955 | [84955-the-stonecutter.json](./84955-the-stonecutter.json) |
 | The Stones | 371482 | [371482-the-stones.json](./371482-the-stones.json) |
 | The Stones of the Pharaoh | 421368 | [421368-the-stones-of-the-pharaoh.json](./421368-the-stones-of-the-pharaoh.json) |
+| The Stonewood Mystery | 422848 | [422848-the-stonewood-mystery.json](./422848-the-stonewood-mystery.json) |
 | The Stonks Market | 146698 | [146698-the-stonks-market.json](./146698-the-stonks-market.json) |
 | The Store is Closed | 145859 | [145859-the-store-is-closed.json](./145859-the-store-is-closed.json) |
 | The Storied Sword | 327462 | [327462-the-storied-sword.json](./327462-the-storied-sword.json) |
@@ -17671,6 +17675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Waterflame Brothers | 220516 | [220516-the-waterflame-brothers.json](./220516-the-waterflame-brothers.json) |
 | The Waterfront | 274226 | [274226-the-waterfront.json](./274226-the-waterfront.json) |
 | The Waters Above: Prelude | 104826 | [104826-the-waters-above-prelude.json](./104826-the-waters-above-prelude.json) |
+| The Waters Edge | 422839 | [422839-the-waters-edge.json](./422839-the-waters-edge.json) |
 | The Waters of Fertility | 147312 | [147312-the-waters-of-fertility.json](./147312-the-waters-of-fertility.json) |
 | The Watson-Scott Test | 110737 | [110737-the-watson-scott-test.json](./110737-the-watson-scott-test.json) |
 | The Wave of Monké | 215729 | [215729-the-wave-of-monke.json](./215729-the-wave-of-monke.json) |
