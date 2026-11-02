@@ -2182,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Chance | 33057 | [33057-one-last-chance.json](./33057-one-last-chance.json) |
 | One Last Clip | 347599 | [347599-one-last-clip.json](./347599-one-last-clip.json) |
 | One Last Crane | 95330 | [95330-one-last-crane.json](./95330-one-last-crane.json) |
+| One Last Day | 17941 | [17941-one-last-day.json](./17941-one-last-day.json) |
 | One Last Dinner | 295605 | [295605-one-last-dinner.json](./295605-one-last-dinner.json) |
 | One Last Game | 143742 | [143742-one-last-game.json](./143742-one-last-game.json) |
 | One Last Hand | 395982 | [395982-one-last-hand.json](./395982-one-last-hand.json) |
@@ -4690,6 +4691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Place: Origin | 376136 | [376136-out-of-place-origin.json](./376136-out-of-place-origin.json) |
 | Out of Print | 294425 | [294425-out-of-print.json](./294425-out-of-print.json) |
 | Out of Range | 403204 | [403204-out-of-range.json](./403204-out-of-range.json) |
+| Out of Reach | 17915 | [17915-out-of-reach.json](./17915-out-of-reach.json) |
 | Out of Reach | 181805 | [181805-out-of-reach.json](./181805-out-of-reach.json) |
 | Out of Reach: Treasure Royale | 113333 | [113333-out-of-reach-treasure-royale.json](./113333-out-of-reach-treasure-royale.json) |
 | Out of Scale: A Kurzgesagt Adventure | 272338 | [272338-out-of-scale-a-kurzgesagt-adventure.json](./272338-out-of-scale-a-kurzgesagt-adventure.json) |
@@ -5204,6 +5206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over the Top: The World Arm Wrestling Championship | 94563 | [94563-over-the-top-the-world-arm-wrestling-championship.json](./94563-over-the-top-the-world-arm-wrestling-championship.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
 | Over the Tower | 387305 | [387305-over-the-tower.json](./387305-over-the-tower.json) |
+| Over the Void | 17979 | [17979-over-the-void.json](./17979-over-the-void.json) |
 | Over Tooned | 311743 | [311743-over-tooned.json](./311743-over-tooned.json) |
 | Over-Run | 220618 | [220618-over-run.json](./220618-over-run.json) |
 | Over'n Over | 148690 | [148690-overn-over.json](./148690-overn-over.json) |
