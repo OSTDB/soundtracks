@@ -8783,6 +8783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fight for Glorton | 196797 | [196797-the-fight-for-glorton.json](./196797-the-fight-for-glorton.json) |
 | The Fight of the Sumo-Hoppers | 314465 | [314465-the-fight-of-the-sumo-hoppers.json](./314465-the-fight-of-the-sumo-hoppers.json) |
 | The Fight: Aftermath | 311173 | [311173-the-fight-aftermath.json](./311173-the-fight-aftermath.json) |
+| The Fight: Lights Out | 7305 | [7305-the-fight-lights-out.json](./7305-the-fight-lights-out.json) |
 | The Fighters Online | 211071 | [211071-the-fighters-online.json](./211071-the-fighters-online.json) |
 | The Fighting Cubes | 181748 | [181748-the-fighting-cubes.json](./181748-the-fighting-cubes.json) |
 | The Fighting Wolf AT | 268897 | [268897-the-fighting-wolf-at.json](./268897-the-fighting-wolf-at.json) |
@@ -14697,6 +14698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rookery Way | 286047 | [286047-the-rookery-way.json](./286047-the-rookery-way.json) |
 | The Room | 11625 | [11625-the-room.json](./11625-the-room.json) |
 | The Room | 220561 | [220561-the-room.json](./220561-the-room.json) |
+| The Room | 8468 | [8468-the-room.json](./8468-the-room.json) |
 | The Room 4: Old Sins | 27725 | [27725-the-room-4-old-sins.json](./27725-the-room-4-old-sins.json) |
 | The Room Collection | 351251 | [351251-the-room-collection.json](./351251-the-room-collection.json) |
 | The Room in a Glass Box | 339934 | [339934-the-room-in-a-glass-box.json](./339934-the-room-in-a-glass-box.json) |
@@ -21857,6 +21859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Gods of the Nile | 191197 | [191197-tiny-gods-of-the-nile.json](./191197-tiny-gods-of-the-nile.json) |
 | Tiny Golf Puzzles | 180464 | [180464-tiny-golf-puzzles.json](./180464-tiny-golf-puzzles.json) |
 | Tiny Guardians | 33841 | [33841-tiny-guardians.json](./33841-tiny-guardians.json) |
+| Tiny Hands Adventure | 102226 | [102226-tiny-hands-adventure.json](./102226-tiny-hands-adventure.json) |
 | Tiny Havoc | 424066 | [424066-tiny-havoc.json](./424066-tiny-havoc.json) |
 | Tiny Hawk | 61523 | [61523-tiny-hawk.json](./61523-tiny-hawk.json) |
 | Tiny Hawk: Pico Sk8r | 304125 | [304125-tiny-hawk-pico-sk8r.json](./304125-tiny-hawk-pico-sk8r.json) |
