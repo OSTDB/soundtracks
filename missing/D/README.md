@@ -6685,6 +6685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Falcon | 11870 | [11870-desert-falcon.json](./11870-desert-falcon.json) |
 | Desert Force: Rescue Mission | 259072 | [259072-desert-force-rescue-mission.json](./259072-desert-force-rescue-mission.json) |
 | Desert Fox | 26235 | [26235-desert-fox.json](./26235-desert-fox.json) |
+| Desert Golfing | 22262 | [22262-desert-golfing.json](./22262-desert-golfing.json) |
 | Desert Gunman | 277708 | [277708-desert-gunman.json](./277708-desert-gunman.json) |
 | Desert Gunner | 17116 | [17116-desert-gunner.json](./17116-desert-gunner.json) |
 | Desert Hawk | 28486 | [28486-desert-hawk.json](./28486-desert-hawk.json) |
@@ -9148,6 +9149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dip the Frog | 159220 | [159220-dip-the-frog.json](./159220-dip-the-frog.json) |
 | Dipets | 327300 | [327300-dipets.json](./327300-dipets.json) |
 | Diphtheria | 190485 | [190485-diphtheria.json](./190485-diphtheria.json) |
+| Diplomacy | 22402 | [22402-diplomacy.json](./22402-diplomacy.json) |
 | Diplomacy | 92082 | [92082-diplomacy.json](./92082-diplomacy.json) |
 | Diplomacy is Not an Option | 132334 | [132334-diplomacy-is-not-an-option.json](./132334-diplomacy-is-not-an-option.json) |
 | Diplomacy is Not an Option: Fog of War | 415090 | [415090-diplomacy-is-not-an-option-fog-of-war.json](./415090-diplomacy-is-not-an-option-fog-of-war.json) |
@@ -17250,6 +17252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonlite Duelers | 175836 | [175836-dungeonlite-duelers.json](./175836-dungeonlite-duelers.json) |
 | Dungeonloop | 401092 | [401092-dungeonloop.json](./401092-dungeonloop.json) |
 | Dungeonman | 149223 | [149223-dungeonman.json](./149223-dungeonman.json) |
+| Dungeonmans | 17192 | [17192-dungeonmans.json](./17192-dungeonmans.json) |
 | Dungeonmans: Pay2Lose | 168162 | [168162-dungeonmans-pay2lose.json](./168162-dungeonmans-pay2lose.json) |
 | DungeonMaze | 89012 | [89012-dungeonmaze.json](./89012-dungeonmaze.json) |
 | Dungeonoid | 147652 | [147652-dungeonoid.json](./147652-dungeonoid.json) |
