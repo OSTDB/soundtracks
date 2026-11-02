@@ -1327,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors 2 | 7173 | [7173-samurai-warriors-2.json](./7173-samurai-warriors-2.json) |
 | Samurai Warriors 2 Empires | 7174 | [7174-samurai-warriors-2-empires.json](./7174-samurai-warriors-2-empires.json) |
 | Samurai Warriors 2 Xtreme Legends | 7175 | [7175-samurai-warriors-2-xtreme-legends.json](./7175-samurai-warriors-2-xtreme-legends.json) |
+| Samurai Warriors 3 | 5138 | [5138-samurai-warriors-3.json](./5138-samurai-warriors-3.json) |
 | Samurai Warriors 3 Z | 136468 | [136468-samurai-warriors-3-z.json](./136468-samurai-warriors-3-z.json) |
 | Samurai Warriors 3 Z: Special | 198124 | [198124-samurai-warriors-3-z-special.json](./198124-samurai-warriors-3-z-special.json) |
 | Samurai Warriors 3: Empires | 12295 | [12295-samurai-warriors-3-empires.json](./12295-samurai-warriors-3-empires.json) |
@@ -1339,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors 4: Special Anime Pack | 178296 | [178296-samurai-warriors-4-special-anime-pack.json](./178296-samurai-warriors-4-special-anime-pack.json) |
 | Samurai Warriors 5: Ikkitousen Box | 146037 | [146037-samurai-warriors-5-ikkitousen-box.json](./146037-samurai-warriors-5-ikkitousen-box.json) |
 | Samurai Warriors 5: Treasure Box | 146035 | [146035-samurai-warriors-5-treasure-box.json](./146035-samurai-warriors-5-treasure-box.json) |
+| Samurai Warriors Chronicles 3 | 19964 | [19964-samurai-warriors-chronicles-3.json](./19964-samurai-warriors-chronicles-3.json) |
 | Samurai Warriors: Chronicles | 6882 | [6882-samurai-warriors-chronicles.json](./6882-samurai-warriors-chronicles.json) |
 | Samurai Warriors: Chronicles 2nd | 64991 | [64991-samurai-warriors-chronicles-2nd.json](./64991-samurai-warriors-chronicles-2nd.json) |
 | Samurai Warriors: Katana | 5137 | [5137-samurai-warriors-katana.json](./5137-samurai-warriors-katana.json) |
@@ -6443,6 +6445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowgrounds | 9019 | [9019-shadowgrounds.json](./9019-shadowgrounds.json) |
 | Shadowgrounds Survivor | 9931 | [9931-shadowgrounds-survivor.json](./9931-shadowgrounds-survivor.json) |
 | Shadowgun | 38873 | [38873-shadowgun.json](./38873-shadowgun.json) |
+| Shadowgun Legends | 56060 | [56060-shadowgun-legends.json](./56060-shadowgun-legends.json) |
 | Shadowgun: DeadZone | 39172 | [39172-shadowgun-deadzone.json](./39172-shadowgun-deadzone.json) |
 | Shadowhand | 18690 | [18690-shadowhand.json](./18690-shadowhand.json) |
 | Shadowhand Solitaire | 322568 | [322568-shadowhand-solitaire.json](./322568-shadowhand-solitaire.json) |
@@ -6810,6 +6813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape of Clouds | 279115 | [279115-shape-of-clouds.json](./279115-shape-of-clouds.json) |
 | Shape of Dreams | 293572 | [293572-shape-of-dreams.json](./293572-shape-of-dreams.json) |
 | Shape of the Toilet Rim | 218308 | [218308-shape-of-the-toilet-rim.json](./218308-shape-of-the-toilet-rim.json) |
+| Shape of the World | 54613 | [54613-shape-of-the-world.json](./54613-shape-of-the-world.json) |
 | Shape Palette | 130779 | [130779-shape-palette.json](./130779-shape-palette.json) |
 | Shape Puzzle | 199456 | [199456-shape-puzzle.json](./199456-shape-puzzle.json) |
 | Shape Puzzle - Toddler Educational Learning Games | 105434 | [105434-shape-puzzle-toddler-educational-learning-games.json](./105434-shape-puzzle-toddler-educational-learning-games.json) |
@@ -8022,6 +8026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsouban Heart no Kuni no Alice: Wonderful Wonder World | 130009 | [130009-shinsouban-heart-no-kuni-no-alice-wonderful-wonder-world.json](./130009-shinsouban-heart-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Shinsouban Mahoutsukai to Goshujin-sama: Wizard and The Master | 60251 | [60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json](./60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json) |
 | Shinsouban Okashi na Shima no Peter Pan: Sweet Never Land | 60467 | [60467-shinsouban-okashi-na-shima-no-peter-pan-sweet-never-land.json](./60467-shinsouban-okashi-na-shima-no-peter-pan-sweet-never-land.json) |
+| Shiny | 23956 | [23956-shiny.json](./23956-shiny.json) |
 | Shiny Ninjas | 36479 | [36479-shiny-ninjas.json](./36479-shiny-ninjas.json) |
 | Shiny Sisters | 336596 | [336596-shiny-sisters.json](./336596-shiny-sisters.json) |
 | Shiny Ski Resort | 103936 | [103936-shiny-ski-resort.json](./103936-shiny-ski-resort.json) |
@@ -16989,6 +16994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
 | Sorcero | 308035 | [308035-sorcero.json](./308035-sorcero.json) |
 | Sorceror's Apprentice | 94188 | [94188-sorcerors-apprentice.json](./94188-sorcerors-apprentice.json) |
+| Sorcery | 20114 | [20114-sorcery.json](./20114-sorcery.json) |
 | Sorcery and Survival | 372223 | [372223-sorcery-and-survival.json](./372223-sorcery-and-survival.json) |
 | Sorcery Blade | 71603 | [71603-sorcery-blade.json](./71603-sorcery-blade.json) |
 | Sorcery Climb | 342692 | [342692-sorcery-climb.json](./342692-sorcery-climb.json) |
@@ -18220,7 +18226,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21503,6 +21508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy-Trek Adventure | 70060 | [70060-spy-trek-adventure.json](./70060-spy-trek-adventure.json) |
 | Spy's Demise | 23315 | [23315-spys-demise.json](./23315-spys-demise.json) |
 | Spy/Cell | 404994 | [404994-spy-cell.json](./404994-spy-cell.json) |
+| Spyborgs | 5206 | [5206-spyborgs.json](./5206-spyborgs.json) |
 | Spycity | 157849 | [157849-spycity.json](./157849-spycity.json) |
 | Spycraft: The Great Game | 2232 | [2232-spycraft-the-great-game.json](./2232-spycraft-the-great-game.json) |
 | Spyder | 93470 | [93470-spyder.json](./93470-spyder.json) |
@@ -30083,6 +30089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Muscle Mario Bros | 323808 | [323808-super-muscle-mario-bros.json](./323808-super-muscle-mario-bros.json) |
 | Super Mushroom Kingdom Hearts 64 | 392013 | [392013-super-mushroom-kingdom-hearts-64.json](./392013-super-mushroom-kingdom-hearts-64.json) |
 | Super Mustache | 24616 | [24616-super-mustache.json](./24616-super-mustache.json) |
+| Super Mutant Alien Assault | 20413 | [20413-super-mutant-alien-assault.json](./20413-super-mutant-alien-assault.json) |
 | Super Nanaru | 183864 | [183864-super-nanaru.json](./183864-super-nanaru.json) |
 | Super Nanny Sleepytime Ultra HD Alpha Omega | 86459 | [86459-super-nanny-sleepytime-ultra-hd-alpha-omega.json](./86459-super-nanny-sleepytime-ultra-hd-alpha-omega.json) |
 | Super Nano Blaster | 194914 | [194914-super-nano-blaster.json](./194914-super-nano-blaster.json) |
@@ -31418,6 +31425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superposition | 414401 | [414401-superposition.json](./414401-superposition.json) |
 | SuperPosition | 318946 | [318946-superposition.json](./318946-superposition.json) |
 | SuperPower | 23466 | [23466-superpower.json](./23466-superpower.json) |
+| SuperPower 2 | 24250 | [24250-superpower-2.json](./24250-superpower-2.json) |
 | SuperPower 2: Steam Edition | 90586 | [90586-superpower-2-steam-edition.json](./90586-superpower-2-steam-edition.json) |
 | SuperPower 3 | 171217 | [171217-superpower-3.json](./171217-superpower-3.json) |
 | Superpower Squad | 208126 | [208126-superpower-squad.json](./208126-superpower-squad.json) |
