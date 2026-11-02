@@ -5550,7 +5550,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8150,6 +8149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories of Hyrule | 381769 | [381769-memories-of-hyrule.json](./381769-memories-of-hyrule.json) |
 | Memories of Loneliness | 173219 | [173219-memories-of-loneliness.json](./173219-memories-of-loneliness.json) |
 | Memories of Magic | 424654 | [424654-memories-of-magic.json](./424654-memories-of-magic.json) |
+| Memories of Mars | 83708 | [83708-memories-of-mars.json](./83708-memories-of-mars.json) |
 | Memories of Mir | 215837 | [215837-memories-of-mir.json](./215837-memories-of-mir.json) |
 | Memories of Misery | 297345 | [297345-memories-of-misery.json](./297345-memories-of-misery.json) |
 | Memories of Planet | 223324 | [223324-memories-of-planet.json](./223324-memories-of-planet.json) |
@@ -12411,6 +12411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Warriors: Seal of the Dark Lord | 47526 | [47526-miracle-warriors-seal-of-the-dark-lord.json](./47526-miracle-warriors-seal-of-the-dark-lord.json) |
 | Miracle World: Fushigi no Kuni no IQ Meiro | 256638 | [256638-miracle-world-fushigi-no-kuni-no-iq-meiro.json](./256638-miracle-world-fushigi-no-kuni-no-iq-meiro.json) |
 | Miracle! Panzou: 7-tsu no Hoshi no Uchuu Kaizoku | 49723 | [49723-miracle-panzou-7-tsu-no-hoshi-no-uchuu-kaizoku.json](./49723-miracle-panzou-7-tsu-no-hoshi-no-uchuu-kaizoku.json) |
+| Miraclr: Divine Dating Sim | 84047 | [84047-miraclr-divine-dating-sim.json](./84047-miraclr-divine-dating-sim.json) |
 | Miraculo Island | 192612 | [192612-miraculo-island.json](./192612-miraculo-island.json) |
 | Miraculous Fall | 336682 | [336682-miraculous-fall.json](./336682-miraculous-fall.json) |
 | Miraculous Ladybug & Cat Noir | 99322 | [99322-miraculous-ladybug-and-cat-noir.json](./99322-miraculous-ladybug-and-cat-noir.json) |
@@ -13200,6 +13201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 98 | 28190 | [28190-mlb-98.json](./28190-mlb-98.json) |
 | MLB 99 | 28191 | [28191-mlb-99.json](./28191-mlb-99.json) |
 | MLB Ballpark Empire | 61354 | [61354-mlb-ballpark-empire.json](./61354-mlb-ballpark-empire.json) |
+| MLB Bobblehead Battle | 84443 | [84443-mlb-bobblehead-battle.json](./84443-mlb-bobblehead-battle.json) |
 | MLB Bobblehead Pros | 20562 | [20562-mlb-bobblehead-pros.json](./20562-mlb-bobblehead-pros.json) |
 | MLB Champions | 130783 | [130783-mlb-champions.json](./130783-mlb-champions.json) |
 | MLB Dream Nine Mobile | 291156 | [291156-mlb-dream-nine-mobile.json](./291156-mlb-dream-nine-mobile.json) |
@@ -15203,6 +15205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MontaSayer | 29604 | [29604-montasayer.json](./29604-montasayer.json) |
 | Monte Carlo | 40385 | [40385-monte-carlo.json](./40385-monte-carlo.json) |
 | Monte Carlo Baccarat | 92907 | [92907-monte-carlo-baccarat.json](./92907-monte-carlo-baccarat.json) |
+| Montecrypto: The Bitcoin Enigma | 83998 | [83998-montecrypto-the-bitcoin-enigma.json](./83998-montecrypto-the-bitcoin-enigma.json) |
 | MonteCube Dodge | 117362 | [117362-montecube-dodge.json](./117362-montecube-dodge.json) |
 | Monterey Jack | 347217 | [347217-monterey-jack.json](./347217-monterey-jack.json) |
 | Montessori Music | 80465 | [80465-montessori-music.json](./80465-montessori-music.json) |
