@@ -6203,6 +6203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blighted Core | 385945 | [385945-the-blighted-core.json](./385945-the-blighted-core.json) |
 | The Blind Griffin | 57899 | [57899-the-blind-griffin.json](./57899-the-blind-griffin.json) |
 | The Blind of the New World | 150049 | [150049-the-blind-of-the-new-world.json](./150049-the-blind-of-the-new-world.json) |
+| The Blind Prophet | 112783 | [112783-the-blind-prophet.json](./112783-the-blind-prophet.json) |
 | The Blinking Room | 405767 | [405767-the-blinking-room.json](./405767-the-blinking-room.json) |
 | The Blizzard 30-Year Celebration Collection | 147715 | [147715-the-blizzard-30-year-celebration-collection.json](./147715-the-blizzard-30-year-celebration-collection.json) |
 | The Blob | 94341 | [94341-the-blob.json](./94341-the-blob.json) |
@@ -8335,6 +8336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enforcer | 60493 | [60493-the-enforcer.json](./60493-the-enforcer.json) |
 | The Engraved Dispatch | 181366 | [181366-the-engraved-dispatch.json](./181366-the-engraved-dispatch.json) |
 | The Enigma Lounge | 380439 | [380439-the-enigma-lounge.json](./380439-the-enigma-lounge.json) |
+| The Enigma Machine | 112483 | [112483-the-enigma-machine.json](./112483-the-enigma-machine.json) |
 | The Enjenir | 197182 | [197182-the-enjenir.json](./197182-the-enjenir.json) |
 | The Enlightened League of Bone Builders and the Osseous Enigma Content | 31592 | [31592-the-enlightened-league-of-bone-builders-and-the-osseous-enigma-content.json](./31592-the-enlightened-league-of-bone-builders-and-the-osseous-enigma-content.json) |
 | The Ensign | 101410 | [101410-the-ensign.json](./101410-the-ensign.json) |
@@ -15224,6 +15226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shiny Show | 313268 | [313268-the-shiny-show.json](./313268-the-shiny-show.json) |
 | The Ship | 221215 | [221215-the-ship.json](./221215-the-ship.json) |
 | The Ship: Murder Party | 5922 | [5922-the-ship-murder-party.json](./5922-the-ship-murder-party.json) |
+| The Ship: Remasted | 26608 | [26608-the-ship-remasted.json](./26608-the-ship-remasted.json) |
 | The Shochu Bar | 341011 | [341011-the-shochu-bar.json](./341011-the-shochu-bar.json) |
 | The Shocker | 97630 | [97630-the-shocker.json](./97630-the-shocker.json) |
 | The Shocking World Mysteries | 399791 | [399791-the-shocking-world-mysteries.json](./399791-the-shocking-world-mysteries.json) |
@@ -16197,6 +16200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swordbearer | 204329 | [204329-the-swordbearer.json](./204329-the-swordbearer.json) |
 | The Swords | 57720 | [57720-the-swords.json](./57720-the-swords.json) |
 | The Swords of Ditto | 36798 | [36798-the-swords-of-ditto.json](./36798-the-swords-of-ditto.json) |
+| The Swords of Ditto: Mormo's Curse | 117974 | [117974-the-swords-of-ditto-mormos-curse.json](./117974-the-swords-of-ditto-mormos-curse.json) |
 | The Swordsman | 346926 | [346926-the-swordsman.json](./346926-the-swordsman.json) |
 | The Swordsmen X | 106137 | [106137-the-swordsmen-x.json](./106137-the-swordsmen-x.json) |
 | The Swordsmen X: Green-bamboo pack | 246761 | [246761-the-swordsmen-x-green-bamboo-pack.json](./246761-the-swordsmen-x-green-bamboo-pack.json) |
@@ -21893,6 +21897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Mage in Puzzle Land | 402928 | [402928-tiny-mage-in-puzzle-land.json](./402928-tiny-mage-in-puzzle-land.json) |
 | Tiny Man's Revenge | 258463 | [258463-tiny-mans-revenge.json](./258463-tiny-mans-revenge.json) |
 | Tiny Metal 2 | 370273 | [370273-tiny-metal-2.json](./370273-tiny-metal-2.json) |
+| Tiny Metal: Full Metal Rumble | 116201 | [116201-tiny-metal-full-metal-rumble.json](./116201-tiny-metal-full-metal-rumble.json) |
 | Tiny Metal: Full Metal Rumble - Caeser's Rescue | 172126 | [172126-tiny-metal-full-metal-rumble-caesers-rescue.json](./172126-tiny-metal-full-metal-rumble-caesers-rescue.json) |
 | Tiny Metal: Will of the Shogun | 165045 | [165045-tiny-metal-will-of-the-shogun.json](./165045-tiny-metal-will-of-the-shogun.json) |
 | Tiny Mite | 412319 | [412319-tiny-mite.json](./412319-tiny-mite.json) |
@@ -24727,6 +24732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kaikeidou: Marine Benefit | 280171 | [280171-touhou-kaikeidou-marine-benefit.json](./280171-touhou-kaikeidou-marine-benefit.json) |
 | Touhou Kaikidan: Mystic Square | 45963 | [45963-touhou-kaikidan-mystic-square.json](./45963-touhou-kaikidan-mystic-square.json) |
 | Touhou Kaisekiki: Arabasiri | 269930 | [269930-touhou-kaisekiki-arabasiri.json](./269930-touhou-kaisekiki-arabasiri.json) |
+| Touhou Kanjuden: Legacy of Lunatic Kingdom | 116271 | [116271-touhou-kanjuden-legacy-of-lunatic-kingdom.json](./116271-touhou-kanjuden-legacy-of-lunatic-kingdom.json) |
 | Touhou Kenbun Roku | 48878 | [48878-touhou-kenbun-roku.json](./48878-touhou-kenbun-roku.json) |
 | Touhou Kichouden: Mythos of Phantasmagoria 2 | 356558 | [356558-touhou-kichouden-mythos-of-phantasmagoria-2.json](./356558-touhou-kichouden-mythos-of-phantasmagoria-2.json) |
 | Touhou Kikeijuu: Wily Beast and Weakest Creature | 118815 | [118815-touhou-kikeijuu-wily-beast-and-weakest-creature.json](./118815-touhou-kikeijuu-wily-beast-and-weakest-creature.json) |
@@ -27734,6 +27740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TransGenDeer | 327847 | [327847-transgendeer.json](./327847-transgendeer.json) |
 | Transgression | 93511 | [93511-transgression.json](./93511-transgression.json) |
 | Transience | 229004 | [229004-transience.json](./229004-transience.json) |
+| Transient | 119163 | [119163-transient.json](./119163-transient.json) |
 | Transient | 184318 | [184318-transient.json](./184318-transient.json) |
 | Transient Station | 184078 | [184078-transient-station.json](./184078-transient-station.json) |
 | Transient: Extended Edition | 186911 | [186911-transient-extended-edition.json](./186911-transient-extended-edition.json) |
