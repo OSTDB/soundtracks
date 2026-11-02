@@ -3183,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marathon: Red | 153809 | [153809-marathon-red.json](./153809-marathon-red.json) |
 | Marathon: Resurrection | 256152 | [256152-marathon-resurrection.json](./256152-marathon-resurrection.json) |
 | Marathon: Rubicon X | 140942 | [140942-marathon-rubicon-x.json](./140942-marathon-rubicon-x.json) |
+| Marathon: Season 2 - Nightfall | 404051 | [404051-marathon-season-2-nightfall.json](./404051-marathon-season-2-nightfall.json) |
 | Maratoma do Faustão | 242648 | [242648-maratoma-do-faustao.json](./242648-maratoma-do-faustao.json) |
 | Maratón | 268120 | [268120-maraton.json](./268120-maraton.json) |
 | Marauder | 18488 | [18488-marauder.json](./18488-marauder.json) |
