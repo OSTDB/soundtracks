@@ -7591,6 +7591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Crown | 13592 | [13592-devils-crown.json](./13592-devils-crown.json) |
 | Devil's Crush | 6827 | [6827-devils-crush.json](./6827-devils-crush.json) |
 | Devil's Dare | 8798 | [8798-devils-dare.json](./8798-devils-dare.json) |
+| Devil's Deck | 119687 | [119687-devils-deck.json](./119687-devils-deck.json) |
 | Devil's Deck: Astray Destiny | 207370 | [207370-devils-deck-astray-destiny.json](./207370-devils-deck-astray-destiny.json) |
 | Devil's Deck: Polar Night Falls | 284876 | [284876-devils-deck-polar-night-falls.json](./284876-devils-deck-polar-night-falls.json) |
 | Devil's Derby | 337494 | [337494-devils-derby.json](./337494-devils-derby.json) |
