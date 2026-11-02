@@ -2771,7 +2771,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayato's Journey | 310652 | [310652-hayatos-journey.json](./310652-hayatos-journey.json) |
 | Hayatsubasa | 376872 | [376872-hayatsubasa.json](./376872-hayatsubasa.json) |
 | Hayauchi Super Igo | 48329 | [48329-hayauchi-super-igo.json](./48329-hayauchi-super-igo.json) |
-| Haydee | 24516 | [24516-haydee.json](./24516-haydee.json) |
 | Haydee 2 | 141257 | [141257-haydee-2.json](./141257-haydee-2.json) |
 | Haydee 3 | 333073 | [333073-haydee-3.json](./333073-haydee-3.json) |
 | Hayden's Odyssey | 384286 | [384286-haydens-odyssey.json](./384286-haydens-odyssey.json) |
@@ -10734,6 +10733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huckleberry Hound in Hollywood Capers | 73530 | [73530-huckleberry-hound-in-hollywood-capers.json](./73530-huckleberry-hound-in-hollywood-capers.json) |
 | Hüddam | 224956 | [224956-huddam.json](./224956-huddam.json) |
 | Huddam 2 Berzah | 307770 | [307770-huddam-2-berzah.json](./307770-huddam-2-berzah.json) |
+| Hüddam: The Cursed Mansion | 405833 | [405833-huddam-the-cursed-mansion.json](./405833-huddam-the-cursed-mansion.json) |
 | Hudson 3D Golf | 97679 | [97679-hudson-3d-golf.json](./97679-hudson-3d-golf.json) |
 | Hudson Best Collection Vol. 1: Bomberman Collection | 49496 | [49496-hudson-best-collection-vol-1-bomberman-collection.json](./49496-hudson-best-collection-vol-1-bomberman-collection.json) |
 | Hudson Best Collection Vol. 2: Lode Runner Collection | 49495 | [49495-hudson-best-collection-vol-2-lode-runner-collection.json](./49495-hudson-best-collection-vol-2-lode-runner-collection.json) |
