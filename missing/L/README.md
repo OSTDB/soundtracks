@@ -2374,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend | 81187 | [81187-legend.json](./81187-legend.json) |
 | Legend - The Four Crystals of Trazere | 37131 | [37131-legend-the-four-crystals-of-trazere.json](./37131-legend-the-four-crystals-of-trazere.json) |
 | Legend 64 | 261297 | [261297-legend-64.json](./261297-legend-64.json) |
+| Legend Bowl | 122365 | [122365-legend-bowl.json](./122365-legend-bowl.json) |
 | Legend creatures | 128256 | [128256-legend-creatures.json](./128256-legend-creatures.json) |
 | Legend Creatures 2 | 257382 | [257382-legend-creatures-2.json](./257382-legend-creatures-2.json) |
 | Legend Hunters | 248830 | [248830-legend-hunters.json](./248830-legend-hunters.json) |
@@ -3495,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Kill Zombies VR | 86642 | [86642-lets-kill-zombies-vr.json](./86642-lets-kill-zombies-vr.json) |
 | Let's Learn Janggi | 147876 | [147876-lets-learn-janggi.json](./147876-lets-learn-janggi.json) |
 | Let's Learn Japanese! Complete Collection | 306696 | [306696-lets-learn-japanese-complete-collection.json](./306696-lets-learn-japanese-complete-collection.json) |
+| Let's Learn Japanese! Hiragana | 114379 | [114379-lets-learn-japanese-hiragana.json](./114379-lets-learn-japanese-hiragana.json) |
 | Let's Learn Japanese! Kanji Sudoku | 306440 | [306440-lets-learn-japanese-kanji-sudoku.json](./306440-lets-learn-japanese-kanji-sudoku.json) |
 | Let's Learn Japanese! Katakana | 115963 | [115963-lets-learn-japanese-katakana.json](./115963-lets-learn-japanese-katakana.json) |
 | Let's Learn Japanese! Vocabulary | 286407 | [286407-lets-learn-japanese-vocabulary.json](./286407-lets-learn-japanese-vocabulary.json) |
@@ -4029,6 +4031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberty Extended | 414988 | [414988-liberty-extended.json](./414988-liberty-extended.json) |
 | Liberty Fighters | 155685 | [155685-liberty-fighters.json](./155685-liberty-fighters.json) |
 | Liberty or Death | 45776 | [45776-liberty-or-death.json](./45776-liberty-or-death.json) |
+| Liberty Prime | 109322 | [109322-liberty-prime.json](./109322-liberty-prime.json) |
 | Liberty Step | 222000 | [222000-liberty-step.json](./222000-liberty-step.json) |
 | Liberty VR | 43069 | [43069-liberty-vr.json](./43069-liberty-vr.json) |
 | Liberty Wings | 65038 | [65038-liberty-wings.json](./65038-liberty-wings.json) |
@@ -4750,6 +4753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilian: The beginning of the end | 183038 | [183038-lilian-the-beginning-of-the-end.json](./183038-lilian-the-beginning-of-the-end.json) |
 | Lilifel | 423882 | [423882-lilifel.json](./423882-lilifel.json) |
 | Lilim Wants to Lv Up | 275138 | [275138-lilim-wants-to-lv-up.json](./275138-lilim-wants-to-lv-up.json) |
+| Lilitales | 122199 | [122199-lilitales.json](./122199-lilitales.json) |
 | Lilith | 413898 | [413898-lilith.json](./413898-lilith.json) |
 | Lilith + Eve | 257837 | [257837-lilith-eve.json](./257837-lilith-eve.json) |
 | Lilith Hall | 266877 | [266877-lilith-hall.json](./266877-lilith-hall.json) |
