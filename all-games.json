@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-02T22:10:56.741Z",
-  "total_soundtracks": 2851,
+  "generated_at": "2026-11-02T22:26:07.311Z",
+  "total_soundtracks": 2853,
   "games": [
     {
       "igdb_id": 7522,
@@ -7151,6 +7151,20 @@
         {
           "album_name": "Dead Island 2 Haus (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3PrTQw8hxsQfe0UCJNGXyU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 298542,
+      "game_name": "Dead Island 2: SoLA",
+      "game_url": "https://ostdb.net/games/dead-island-2-sola",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734965de2b08b7135595157145",
+      "albums": [
+        {
+          "album_name": "Dead Island 2 SoLA (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5QrXlAZGYakYENtZTv1Ab2",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -18154,6 +18168,20 @@
           "album_name": "Max Payne 3 Official Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5WWosyWLObT7BowuLqcnar",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 92784,
+      "game_name": "Maximum Action",
+      "game_url": "https://ostdb.net/games/maximum-action",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27375dfe20f970e936db85499cd",
+      "albums": [
+        {
+          "album_name": "Maximum Action (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0ygIcBxLA0LdEsJeONvFVw",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
