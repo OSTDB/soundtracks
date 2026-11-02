@@ -7968,6 +7968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Gladiators | 273030 | [273030-american-gladiators.json](./273030-american-gladiators.json) |
 | American Gladiators | 4377 | [4377-american-gladiators.json](./4377-american-gladiators.json) |
 | American Gold Rush | 417689 | [417689-american-gold-rush.json](./417689-american-gold-rush.json) |
+| American Hero | 154169 | [154169-american-hero.json](./154169-american-hero.json) |
 | American Hero Unrated | 254415 | [254415-american-hero-unrated.json](./254415-american-hero-unrated.json) |
 | American Heroes BF 92 Extra Version | 267574 | [267574-american-heroes-bf-92-extra-version.json](./267574-american-heroes-bf-92-extra-version.json) |
 | American Horseshoes | 39376 | [39376-american-horseshoes.json](./39376-american-horseshoes.json) |
@@ -9373,6 +9374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Rivals | 28915 | [28915-animal-rivals.json](./28915-animal-rivals.json) |
 | Animal Rivals | 370847 | [370847-animal-rivals.json](./370847-animal-rivals.json) |
 | Animal Rivals: Nintendo Switch Edition | 105904 | [105904-animal-rivals-nintendo-switch-edition.json](./105904-animal-rivals-nintendo-switch-edition.json) |
+| Animal Rivals: Up in the Air | 152981 | [152981-animal-rivals-up-in-the-air.json](./152981-animal-rivals-up-in-the-air.json) |
 | Animal Roadkill Road Racing 2 - Extreme Mutant Trip Games | 232588 | [232588-animal-roadkill-road-racing-2-extreme-mutant-trip-games.json](./232588-animal-roadkill-road-racing-2-extreme-mutant-trip-games.json) |
 | Animal Rogues | 292414 | [292414-animal-rogues.json](./292414-animal-rogues.json) |
 | Animal Run for Kids | 381703 | [381703-animal-run-for-kids.json](./381703-animal-run-for-kids.json) |
@@ -11636,6 +11638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Rabio Lepus | 208425 | [208425-arcade-archives-rabio-lepus.json](./208425-arcade-archives-rabio-lepus.json) |
 | Arcade Archives: Rack'em Up | 406055 | [406055-arcade-archives-rackem-up.json](./406055-arcade-archives-rackem-up.json) |
 | Arcade Archives: Radical Radial | 147936 | [147936-arcade-archives-radical-radial.json](./147936-arcade-archives-radical-radial.json) |
+| Arcade Archives: Raiden | 154331 | [154331-arcade-archives-raiden.json](./154331-arcade-archives-raiden.json) |
 | Arcade Archives: Raiders5 | 99783 | [99783-arcade-archives-raiders5.json](./99783-arcade-archives-raiders5.json) |
 | Arcade Archives: Raimais | 186565 | [186565-arcade-archives-raimais.json](./186565-arcade-archives-raimais.json) |
 | Arcade Archives: Rally-X | 186566 | [186566-arcade-archives-rally-x.json](./186566-arcade-archives-rally-x.json) |
@@ -12985,6 +12988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed Animals RPG | 365060 | [365060-armed-animals-rpg.json](./365060-armed-animals-rpg.json) |
 | Armed Decobot | 317372 | [317372-armed-decobot.json](./317372-armed-decobot.json) |
 | Armed Dragon Fantasy Villgust | 199202 | [199202-armed-dragon-fantasy-villgust.json](./199202-armed-dragon-fantasy-villgust.json) |
+| Armed Emeth | 153748 | [153748-armed-emeth.json](./153748-armed-emeth.json) |
 | Armed Fantasia: To the End of the Wilderness | 214992 | [214992-armed-fantasia-to-the-end-of-the-wilderness.json](./214992-armed-fantasia-to-the-end-of-the-wilderness.json) |
 | Armed Fighter | 43818 | [43818-armed-fighter.json](./43818-armed-fighter.json) |
 | Armed for Battle | 118849 | [118849-armed-for-battle.json](./118849-armed-for-battle.json) |
