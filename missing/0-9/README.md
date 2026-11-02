@@ -1357,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Fast Driver | 52358 | [52358-2-fast-driver.json](./52358-2-fast-driver.json) |
 | 2 Fights in 2 Tight Spaces | 405126 | [405126-2-fights-in-2-tight-spaces.json](./405126-2-fights-in-2-tight-spaces.json) |
 | 2 For 2 | 88545 | [88545-2-for-2.json](./88545-2-for-2.json) |
+| 2 For 2: Connect the Numbers Puzzle | 101112 | [101112-2-for-2-connect-the-numbers-puzzle.json](./101112-2-for-2-connect-the-numbers-puzzle.json) |
 | 2 Foxes and the Puzzling Forest | 185095 | [185095-2-foxes-and-the-puzzling-forest.json](./185095-2-foxes-and-the-puzzling-forest.json) |
 | 2 Game Collector Pack: 99 Action Arcade & Ultimate Riders | 365018 | [365018-2-game-collector-pack-99-action-arcade-and-ultimate-riders.json](./365018-2-game-collector-pack-99-action-arcade-and-ultimate-riders.json) |
 | 2 Game Pack I Haunted Hotel: Eclipse & Haunted Hotel: Ancient Bane | 201816 | [201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json](./201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json) |
@@ -3199,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 R.I.P.: Special Edition | 257269 | [257269-9-r-i-p-special-edition.json](./257269-9-r-i-p-special-edition.json) |
 | 9 Realms | 258564 | [258564-9-realms.json](./258564-9-realms.json) |
 | 9 Souls | 357763 | [357763-9-souls.json](./357763-9-souls.json) |
+| 9 Tiles . | 95525 | [95525-9-tiles.json](./95525-9-tiles.json) |
 | 9 Till Void | 133230 | [133230-9-till-void.json](./133230-9-till-void.json) |
 | 9 to 5 Smash It | 107028 | [107028-9-to-5-smash-it.json](./107028-9-to-5-smash-it.json) |
 | 9 To Ashes | 377407 | [377407-9-to-ashes.json](./377407-9-to-ashes.json) |
