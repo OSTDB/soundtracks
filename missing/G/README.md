@@ -9971,6 +9971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Dealer | 348904 | [348904-gun-dealer.json](./348904-gun-dealer.json) |
 | Gun Dealer | 40064 | [40064-gun-dealer.json](./40064-gun-dealer.json) |
 | Gun Dealer '94 | 40151 | [40151-gun-dealer-94.json](./40151-gun-dealer-94.json) |
+| Gun Devil | 145027 | [145027-gun-devil.json](./145027-gun-devil.json) |
 | Gun Dog Rock Rapid | 148778 | [148778-gun-dog-rock-rapid.json](./148778-gun-dog-rock-rapid.json) |
 | Gun Done | 32888 | [32888-gun-done.json](./32888-gun-done.json) |
 | Gun Done: Who is Awesome | 97923 | [97923-gun-done-who-is-awesome.json](./97923-gun-done-who-is-awesome.json) |
