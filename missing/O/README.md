@@ -5542,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxygen Caliber | 238544 | [238544-oxygen-caliber.json](./238544-oxygen-caliber.json) |
 | Oxygen Cocktail | 249275 | [249275-oxygen-cocktail.json](./249275-oxygen-cocktail.json) |
 | Oxygen Not Included | 19542 | [19542-oxygen-not-included.json](./19542-oxygen-not-included.json) |
+| Oxygen Not Included: Spaced Out! | 145292 | [145292-oxygen-not-included-spaced-out.json](./145292-oxygen-not-included-spaced-out.json) |
 | Oxygen Not Included: The Frosty Planet Pack | 310683 | [310683-oxygen-not-included-the-frosty-planet-pack.json](./310683-oxygen-not-included-the-frosty-planet-pack.json) |
 | Oxyjet | 112811 | [112811-oxyjet.json](./112811-oxyjet.json) |
 | Oxytone | 267287 | [267287-oxytone.json](./267287-oxytone.json) |
