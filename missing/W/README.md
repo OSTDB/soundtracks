@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Waiters | 92370 | [92370-wacky-waiters.json](./92370-wacky-waiters.json) |
 | Wacky Weapons | 244346 | [244346-wacky-weapons.json](./244346-wacky-weapons.json) |
 | Wacky West | 332992 | [332992-wacky-west.json](./332992-wacky-west.json) |
+| Wacky Wheels HD | 33999 | [33999-wacky-wheels-hd.json](./33999-wacky-wheels-hd.json) |
 | Wacky Wings VR | 30162 | [30162-wacky-wings-vr.json](./30162-wacky-wings-vr.json) |
 | Wacky Winter | 124415 | [124415-wacky-winter.json](./124415-wacky-winter.json) |
 | Wacky Wizard | 70751 | [70751-wacky-wizard.json](./70751-wacky-wizard.json) |
