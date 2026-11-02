@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're My Penguin | 254650 | [254650-youre-my-penguin.json](./254650-youre-my-penguin.json) |
 | You're Not a Rogue | 141657 | [141657-youre-not-a-rogue.json](./141657-youre-not-a-rogue.json) |
 | You're Not Family | 264515 | [264515-youre-not-family.json](./264515-youre-not-family.json) |
+| You're Not Special | 113877 | [113877-youre-not-special.json](./113877-youre-not-special.json) |
 | You're the Boss | 415950 | [415950-youre-the-boss.json](./415950-youre-the-boss.json) |
 | You're the OS! | 261911 | [261911-youre-the-os.json](./261911-youre-the-os.json) |
 | You're Toast | 407781 | [407781-youre-toast.json](./407781-youre-toast.json) |
@@ -1328,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your God Is False | 336903 | [336903-your-god-is-false.json](./336903-your-god-is-false.json) |
 | Your Highness, we should defend! 2 | 82626 | [82626-your-highness-we-should-defend-2.json](./82626-your-highness-we-should-defend-2.json) |
 | Your Holy & Virtuous Heretic | 269990 | [269990-your-holy-and-virtuous-heretic.json](./269990-your-holy-and-virtuous-heretic.json) |
+| Your Home | 115407 | [115407-your-home.json](./115407-your-home.json) |
 | Your House | 274758 | [274758-your-house.json](./274758-your-house.json) |
 | Your Human is Sick | 149008 | [149008-your-human-is-sick.json](./149008-your-human-is-sick.json) |
 | Your Intelligence Will Be Exposed: Mystery Observation Challenge | 409501 | [409501-your-intelligence-will-be-exposed-mystery-observation-challenge.json](./409501-your-intelligence-will-be-exposed-mystery-observation-challenge.json) |
