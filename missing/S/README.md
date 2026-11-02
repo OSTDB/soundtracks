@@ -4676,6 +4676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Astro City Mini V | 245664 | [245664-sega-astro-city-mini-v.json](./245664-sega-astro-city-mini-v.json) |
 | Sega Bass Fishing 2 | 45837 | [45837-sega-bass-fishing-2.json](./45837-sega-bass-fishing-2.json) |
 | Sega Bass Fishing Challenge | 39433 | [39433-sega-bass-fishing-challenge.json](./39433-sega-bass-fishing-challenge.json) |
+| Sega Bass Fishing Duel | 22231 | [22231-sega-bass-fishing-duel.json](./22231-sega-bass-fishing-duel.json) |
 | Sega Casino | 22569 | [22569-sega-casino.json](./22569-sega-casino.json) |
 | Sega Chess | 19490 | [19490-sega-chess.json](./19490-sega-chess.json) |
 | Sega Classics Arcade Collection 4-in-1 | 5432 | [5432-sega-classics-arcade-collection-4-in-1.json](./5432-sega-classics-arcade-collection-4-in-1.json) |
