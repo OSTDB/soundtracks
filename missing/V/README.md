@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V | 265549 | [265549-v.json](./265549-v.json) |
 | V | 47165 | [47165-v.json](./47165-v.json) |
 | V - The Visitors | 39141 | [39141-v-the-visitors.json](./39141-v-the-visitors.json) |
+| V Arrr | 32559 | [32559-v-arrr.json](./32559-v-arrr.json) |
 | V Bomb | 318753 | [318753-v-bomb.json](./318753-v-bomb.json) |
 | V Burster | 202259 | [202259-v-burster.json](./202259-v-burster.json) |
 | V de Vinagre | 282098 | [282098-v-de-vinagre.json](./282098-v-de-vinagre.json) |
@@ -3864,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vrtillery | 179486 | [179486-vrtillery.json](./179486-vrtillery.json) |
 | VRun | 36984 | [36984-vrun.json](./36984-vrun.json) |
 | VrUs | 179372 | [179372-vrus.json](./179372-vrus.json) |
+| VRZ Torment | 32503 | [32503-vrz-torment.json](./32503-vrz-torment.json) |
 | Vs Block Breaker | 64457 | [64457-vs-block-breaker.json](./64457-vs-block-breaker.json) |
 | VS Sonic: Dash & Spin | 223136 | [223136-vs-sonic-dash-and-spin.json](./223136-vs-sonic-dash-and-spin.json) |
 | Vs Suicide Mouse | 278448 | [278448-vs-suicide-mouse.json](./278448-vs-suicide-mouse.json) |
