@@ -2200,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maitetsu: Pure Station - Special Luxury Version with Hachiroku Cover Limited Edition | 167008 | [167008-maitetsu-pure-station-special-luxury-version-with-hachiroku-cover-limited-edition.json](./167008-maitetsu-pure-station-special-luxury-version-with-hachiroku-cover-limited-edition.json) |
 | Maitetsu: Pure Station - Special Luxury Version with Triple Suede Tapestry Limited Edition | 167158 | [167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json](./167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json) |
 | Maitetsu: Pure Station: Hachiroku Figure - Limited Edition | 212325 | [212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json](./212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json) |
+| Maitoläikky | 403375 | [403375-maitolaikky.json](./403375-maitolaikky.json) |
 | Maitre des Fleurs | 146063 | [146063-maitre-des-fleurs.json](./146063-maitre-des-fleurs.json) |
 | Maiz | 231187 | [231187-maiz.json](./231187-maiz.json) |
 | Maize | 326289 | [326289-maize.json](./326289-maize.json) |
@@ -5601,7 +5602,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8628,6 +8628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenary Ops | 65175 | [65175-mercenary-ops.json](./65175-mercenary-ops.json) |
 | Mercenary Squad Auto Chess | 285366 | [285366-mercenary-squad-auto-chess.json](./285366-mercenary-squad-auto-chess.json) |
 | Mercenary Tactics | 310800 | [310800-mercenary-tactics.json](./310800-mercenary-tactics.json) |
+| Mercenary: Compendium Edition | 403312 | [403312-mercenary-compendium-edition.json](./403312-mercenary-compendium-edition.json) |
 | Mercenary: The Second City | 15500 | [15500-mercenary-the-second-city.json](./15500-mercenary-the-second-city.json) |
 | Mercer Mayer's Little Critter and the Great Race | 71347 | [71347-mercer-mayers-little-critter-and-the-great-race.json](./71347-mercer-mayers-little-critter-and-the-great-race.json) |
 | Mercer Mayer's Little Critter: Just Me and My Dad | 209850 | [209850-mercer-mayers-little-critter-just-me-and-my-dad.json](./209850-mercer-mayers-little-critter-just-me-and-my-dad.json) |
