@@ -8954,6 +8954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Eye 2 | 308247 | [308247-metal-eye-2.json](./308247-metal-eye-2.json) |
 | Metal Factions | 141558 | [141558-metal-factions.json](./141558-metal-factions.json) |
 | Metal Faith | 161166 | [161166-metal-faith.json](./161166-metal-faith.json) |
+| Metal Fatigue | 24128 | [24128-metal-fatigue.json](./24128-metal-fatigue.json) |
 | Metal Fight Beyblade DS | 69169 | [69169-metal-fight-beyblade-ds.json](./69169-metal-fight-beyblade-ds.json) |
 | Metal Fight Beyblade Portable: Chouzetsu Tensei! Vulcan Horuseus | 65197 | [65197-metal-fight-beyblade-portable-chouzetsu-tensei-vulcan-horuseus.json](./65197-metal-fight-beyblade-portable-chouzetsu-tensei-vulcan-horuseus.json) |
 | Metal Fight Beyblade: Bakushin Susanow Attacks! | 394193 | [394193-metal-fight-beyblade-bakushin-susanow-attacks.json](./394193-metal-fight-beyblade-bakushin-susanow-attacks.json) |
@@ -15191,6 +15192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monty is Innocent | 26279 | [26279-monty-is-innocent.json](./26279-monty-is-innocent.json) |
 | Monty Mole Island | 282731 | [282731-monty-mole-island.json](./282731-monty-mole-island.json) |
 | Monty on the Norm | 71243 | [71243-monty-on-the-norm.json](./71243-monty-on-the-norm.json) |
+| Monty on the Run | 23058 | [23058-monty-on-the-run.json](./23058-monty-on-the-run.json) |
 | Monty on the Run | 376192 | [376192-monty-on-the-run.json](./376192-monty-on-the-run.json) |
 | Monty Python & the Quest for the Holy Grail | 8552 | [8552-monty-python-and-the-quest-for-the-holy-grail.json](./8552-monty-python-and-the-quest-for-the-holy-grail.json) |
 | Monty Python's Complete Waste of Time | 8551 | [8551-monty-pythons-complete-waste-of-time.json](./8551-monty-pythons-complete-waste-of-time.json) |
