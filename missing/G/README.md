@@ -6295,6 +6295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Peaks | 107329 | [107329-golf-peaks.json](./107329-golf-peaks.json) |
 | Golf Pro | 247062 | [247062-golf-pro.json](./247062-golf-pro.json) |
 | Golf Pro 2000 Downunder | 93072 | [93072-golf-pro-2000-downunder.json](./93072-golf-pro-2000-downunder.json) |
+| Golf Pro HD | 87328 | [87328-golf-pro-hd.json](./87328-golf-pro-hd.json) |
 | Golf Pro Simulator | 348167 | [348167-golf-pro-simulator.json](./348167-golf-pro-simulator.json) |
 | Golf Putt 3D | 259130 | [259130-golf-putt-3d.json](./259130-golf-putt-3d.json) |
 | Golf Resort Tycoon | 73296 | [73296-golf-resort-tycoon.json](./73296-golf-resort-tycoon.json) |
@@ -10715,6 +10716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gymnastics Girl | 90349 | [90349-gymnastics-girl.json](./90349-gymnastics-girl.json) |
 | Gymnastics Queen | 96606 | [96606-gymnastics-queen.json](./96606-gymnastics-queen.json) |
 | Gymnastics Queen - Go for the Olympic Champion! | 97218 | [97218-gymnastics-queen-go-for-the-olympic-champion.json](./97218-gymnastics-queen-go-for-the-olympic-champion.json) |
+| Gymnastics Superstar | 87368 | [87368-gymnastics-superstar.json](./87368-gymnastics-superstar.json) |
 | Gynogenesis: The Next Day | 256899 | [256899-gynogenesis-the-next-day.json](./256899-gynogenesis-the-next-day.json) |
 | Gynotai | 319866 | [319866-gynotai.json](./319866-gynotai.json) |
 | Gynoug | 410065 | [410065-gynoug.json](./410065-gynoug.json) |
