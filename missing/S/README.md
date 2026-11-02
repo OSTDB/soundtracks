@@ -3389,6 +3389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scratch Inc. | 350867 | [350867-scratch-inc.json](./350867-scratch-inc.json) |
 | Scratch the Ticket | 404220 | [404220-scratch-the-ticket.json](./404220-scratch-the-ticket.json) |
 | Scratch Wars | 139365 | [139365-scratch-wars.json](./139365-scratch-wars.json) |
+| Scratch Your Luck | 424012 | [424012-scratch-your-luck.json](./424012-scratch-your-luck.json) |
 | Scratchers | 352885 | [352885-scratchers.json](./352885-scratchers.json) |
 | Scratches: Director's Cut | 51365 | [51365-scratches-directors-cut.json](./51365-scratches-directors-cut.json) |
 | Scratchin' Melodii | 215235 | [215235-scratchin-melodii.json](./215235-scratchin-melodii.json) |
@@ -13094,6 +13095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotter Up Core 7: Dekitou da! Street Fighter II | 55060 | [55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json](./55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json) |
 | Slotter Up Core 8 | 204225 | [204225-slotter-up-core-8.json](./204225-slotter-up-core-8.json) |
 | Slotter Up Mania | 65302 | [65302-slotter-up-mania.json](./65302-slotter-up-mania.json) |
+| Slottoki | 423976 | [423976-slottoki.json](./423976-slottoki.json) |
 | Slottso Party | 79574 | [79574-slottso-party.json](./79574-slottso-party.json) |
 | Slow and Steady | 157486 | [157486-slow-and-steady.json](./157486-slow-and-steady.json) |
 | Slow Burn | 313870 | [313870-slow-burn.json](./313870-slow-burn.json) |
@@ -15669,6 +15671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitary Echoes | 322821 | [322821-solitary-echoes.json](./322821-solitary-echoes.json) |
 | Solitary Fighter | 39802 | [39802-solitary-fighter.json](./39802-solitary-fighter.json) |
 | Solitary Grace | 389493 | [389493-solitary-grace.json](./389493-solitary-grace.json) |
+| Solitary Singleplayer Offline MMORPG | 424020 | [424020-solitary-singleplayer-offline-mmorpg.json](./424020-solitary-singleplayer-offline-mmorpg.json) |
 | Soliterix | 149460 | [149460-soliterix.json](./149460-soliterix.json) |
 | Solitiare 95: The Classic Game | 108952 | [108952-solitiare-95-the-classic-game.json](./108952-solitiare-95-the-classic-game.json) |
 | Solitile | 353921 | [353921-solitile.json](./353921-solitile.json) |
@@ -18361,7 +18364,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
