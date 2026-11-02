@@ -1124,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora's Doom: Apocalypse Hotline | 333602 | [333602-pandoras-doom-apocalypse-hotline.json](./333602-pandoras-doom-apocalypse-hotline.json) |
 | Pandora's Palace | 39380 | [39380-pandoras-palace.json](./39380-pandoras-palace.json) |
 | Pandora's Sack | 406685 | [406685-pandoras-sack.json](./406685-pandoras-sack.json) |
+| Pandora's Seed | 417739 | [417739-pandoras-seed.json](./417739-pandoras-seed.json) |
 | Pandora's Toybox | 368614 | [368614-pandoras-toybox.json](./368614-pandoras-toybox.json) |
 | Pandoras Books | 241564 | [241564-pandoras-books.json](./241564-pandoras-books.json) |
 | Pandoria | 148465 | [148465-pandoria.json](./148465-pandoria.json) |
@@ -6072,6 +6073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 3 DX: Caves Reborn | 313484 | [313484-pikmin-3-dx-caves-reborn.json](./313484-pikmin-3-dx-caves-reborn.json) |
 | Pikmin 3: Extra Side of Stories | 314133 | [314133-pikmin-3-extra-side-of-stories.json](./314133-pikmin-3-extra-side-of-stories.json) |
 | Pikmin 4 | 59843 | [59843-pikmin-4.json](./59843-pikmin-4.json) |
+| Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy | 417169 | [417169-pikmin-4-nintendo-switch-2-edition-dandori-academy.json](./417169-pikmin-4-nintendo-switch-2-edition-dandori-academy.json) |
 | Pikmin Bloom | 178290 | [178290-pikmin-bloom.json](./178290-pikmin-bloom.json) |
 | Pikmin Finder | 264892 | [264892-pikmin-finder.json](./264892-pikmin-finder.json) |
 | Pikmin Lost Hope | 281012 | [281012-pikmin-lost-hope.json](./281012-pikmin-lost-hope.json) |
@@ -7645,6 +7647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Odyssey | 395287 | [395287-pixel-odyssey.json](./395287-pixel-odyssey.json) |
 | Pixel of Memory | 270488 | [270488-pixel-of-memory.json](./270488-pixel-of-memory.json) |
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
+| Pixel Orbit | 417201 | [417201-pixel-orbit.json](./417201-pixel-orbit.json) |
 | Pixel Origin | 104654 | [104654-pixel-origin.json](./104654-pixel-origin.json) |
 | Pixel P.I. | 335767 | [335767-pixel-p-i.json](./335767-pixel-p-i.json) |
 | Pixel Paint | 223521 | [223521-pixel-paint.json](./223521-pixel-paint.json) |
@@ -7694,6 +7697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Pro Snow Fight | 232098 | [232098-pixel-pro-snow-fight.json](./232098-pixel-pro-snow-fight.json) |
 | Pixel Pro Tennis | 213643 | [213643-pixel-pro-tennis.json](./213643-pixel-pro-tennis.json) |
 | Pixel Pro Winter Sports | 243175 | [243175-pixel-pro-winter-sports.json](./243175-pixel-pro-winter-sports.json) |
+| Pixel Prom Pregnancy | 417740 | [417740-pixel-prom-pregnancy.json](./417740-pixel-prom-pregnancy.json) |
 | Pixel Punk | 252275 | [252275-pixel-punk.json](./252275-pixel-punk.json) |
 | Pixel Pup | 418423 | [418423-pixel-pup.json](./418423-pixel-pup.json) |
 | Pixel Pursuit | 43147 | [43147-pixel-pursuit.json](./43147-pixel-pursuit.json) |
@@ -14046,6 +14050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Basketball Manager 2024 | 267826 | [267826-pro-basketball-manager-2024.json](./267826-pro-basketball-manager-2024.json) |
 | Pro Basketball Manager 2025 | 316054 | [316054-pro-basketball-manager-2025.json](./316054-pro-basketball-manager-2025.json) |
 | Pro Basketball Manager 2026 | 371609 | [371609-pro-basketball-manager-2026.json](./371609-pro-basketball-manager-2026.json) |
+| Pro Basketball Manager 2027 | 417214 | [417214-pro-basketball-manager-2027.json](./417214-pro-basketball-manager-2027.json) |
 | Pro Bass Fishing | 209886 | [209886-pro-bass-fishing.json](./209886-pro-bass-fishing.json) |
 | Pro Bass Fishing 2003 | 27599 | [27599-pro-bass-fishing-2003.json](./27599-pro-bass-fishing-2003.json) |
 | Pro Biker 2 | 66934 | [66934-pro-biker-2.json](./66934-pro-biker-2.json) |
@@ -16753,6 +16758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PushBoy - a Sokoban style puzzle game | 91332 | [91332-pushboy-a-sokoban-style-puzzle-game.json](./91332-pushboy-a-sokoban-style-puzzle-game.json) |
 | Pushcat | 17562 | [17562-pushcat.json](./17562-pushcat.json) |
 | Pushed a 'Bot! | 369026 | [369026-pushed-a-bot.json](./369026-pushed-a-bot.json) |
+| Pusheen's Place | 417166 | [417166-pusheens-place.json](./417166-pusheens-place.json) |
 | Pusher | 193439 | [193439-pusher.json](./193439-pusher.json) |
 | Pusher | 54276 | [54276-pusher.json](./54276-pusher.json) |
 | Pusher: Drug Tycoon | 259167 | [259167-pusher-drug-tycoon.json](./259167-pusher-drug-tycoon.json) |
@@ -17562,6 +17568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PvNP | 203737 | [203737-pvnp.json](./203737-pvnp.json) |
 | PVPClicker | 382896 | [382896-pvpclicker.json](./382896-pvpclicker.json) |
 | PvPillman | 285463 | [285463-pvpillman.json](./285463-pvpillman.json) |
+| PW7A | 417781 | [417781-pw7a.json](./417781-pw7a.json) |
 | Pwanet Pwotector | 335408 | [335408-pwanet-pwotector.json](./335408-pwanet-pwotector.json) |
 | PWK Trivia Collection | 377932 | [377932-pwk-trivia-collection.json](./377932-pwk-trivia-collection.json) |
 | Pwn Age: 31337 AD | 67075 | [67075-pwn-age-31337-ad.json](./67075-pwn-age-31337-ad.json) |
