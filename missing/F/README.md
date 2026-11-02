@@ -12506,6 +12506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Colors 3D | 110200 | [110200-fun-colors-3d.json](./110200-fun-colors-3d.json) |
 | Fun Cube | 255894 | [255894-fun-cube.json](./255894-fun-cube.json) |
 | Fun Feud Trivia | 208974 | [208974-fun-feud-trivia.json](./208974-fun-feud-trivia.json) |
+| Fun Fish Facts | 402746 | [402746-fun-fish-facts.json](./402746-fun-fish-facts.json) |
 | Fun Football Tournament | 22073 | [22073-fun-football-tournament.json](./22073-fun-football-tournament.json) |
 | Fun Fox’s Biscuit Bash | 397089 | [397089-fun-fox-s-biscuit-bash.json](./397089-fun-fox-s-biscuit-bash.json) |
 | Fun Fruit Merge | 305388 | [305388-fun-fruit-merge.json](./305388-fun-fruit-merge.json) |
