@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yarne | 145416 | [145416-yarne.json](./145416-yarne.json) |
 | Yaroze Rally | 296014 | [296014-yaroze-rally.json](./296014-yaroze-rally.json) |
 | Yarozians | 296015 | [296015-yarozians.json](./296015-yarozians.json) |
+| Yarrr Royale | 422177 | [422177-yarrr-royale.json](./422177-yarrr-royale.json) |
 | Yars Rising | 298314 | [298314-yars-rising.json](./298314-yars-rising.json) |
 | Yars: Recharged | 211321 | [211321-yars-recharged.json](./211321-yars-recharged.json) |
 | Yars' Return | 130702 | [130702-yars-return.json](./130702-yars-return.json) |
@@ -490,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yes! PreCure 5 GoGo! Zenin ShuuGO! Dream Festival | 124149 | [124149-yes-precure-5-gogo-zenin-shuugo-dream-festival.json](./124149-yes-precure-5-gogo-zenin-shuugo-dream-festival.json) |
 | Yes! PreCure 5 GoGo!: LoveLove Hiragana Lesson | 327604 | [327604-yes-precure-5-gogo-lovelove-hiragana-lesson.json](./327604-yes-precure-5-gogo-lovelove-hiragana-lesson.json) |
 | Yes! PreCure 5: Asonde Oboeyou Hiragana! | 327605 | [327605-yes-precure-5-asonde-oboeyou-hiragana.json](./327605-yes-precure-5-asonde-oboeyou-hiragana.json) |
+| Yes. A Bottle Flip Game. In 2026. | 419078 | [419078-yes-a-bottle-flip-game-in-2026.json](./419078-yes-a-bottle-flip-game-in-2026.json) |
 | Yesterday | 7647 | [7647-yesterday.json](./7647-yesterday.json) |
 | Yesterday | 81188 | [81188-yesterday.json](./81188-yesterday.json) |
 | Yesterday the D-Gate | 165497 | [165497-yesterday-the-d-gate.json](./165497-yesterday-the-d-gate.json) |
@@ -638,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-kai Watch 1 Smartphone | 308252 | [308252-yo-kai-watch-1-smartphone.json](./308252-yo-kai-watch-1-smartphone.json) |
 | Yo-Kai Watch 2: Bony Spirits | 11658 | [11658-yo-kai-watch-2-bony-spirits.json](./11658-yo-kai-watch-2-bony-spirits.json) |
 | Yo-Kai Watch 2: Fleshy Souls | 24470 | [24470-yo-kai-watch-2-fleshy-souls.json](./24470-yo-kai-watch-2-fleshy-souls.json) |
+| Yo-kai Watch 2: Haunted Domain | 417168 | [417168-yo-kai-watch-2-haunted-domain.json](./417168-yo-kai-watch-2-haunted-domain.json) |
 | Yo-Kai Watch 2: Psychic Specters | 27129 | [27129-yo-kai-watch-2-psychic-specters.json](./27129-yo-kai-watch-2-psychic-specters.json) |
 | Yo-kai Watch 3 | 113249 | [113249-yo-kai-watch-3.json](./113249-yo-kai-watch-3.json) |
 | Yo-Kai Watch 3: Sushi | 136889 | [136889-yo-kai-watch-3-sushi.json](./136889-yo-kai-watch-3-sushi.json) |
@@ -1639,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale | 159242 | [159242-yu-gi-oh-rush-duel-dawn-of-the-battle-royale.json](./159242-yu-gi-oh-rush-duel-dawn-of-the-battle-royale.json) |
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale - Let's Go! Go Rush!! | 217963 | [217963-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush.json](./217963-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush.json) |
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale - Let's Go! Go Rush!! Special Edition | 225342 | [225342-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush-special-edition.json](./225342-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush-special-edition.json) |
+| Yu-Gi-Oh! Tag Force GX | 417178 | [417178-yu-gi-oh-tag-force-gx.json](./417178-yu-gi-oh-tag-force-gx.json) |
 | Yu-Gi-Oh! The Dawn of Destiny | 6257 | [6257-yu-gi-oh-the-dawn-of-destiny.json](./6257-yu-gi-oh-the-dawn-of-destiny.json) |
 | Yu-Gi-Oh! The Eternal Duelist Soul | 11672 | [11672-yu-gi-oh-the-eternal-duelist-soul.json](./11672-yu-gi-oh-the-eternal-duelist-soul.json) |
 | Yu-Gi-Oh! The Sacred Cards | 6697 | [6697-yu-gi-oh-the-sacred-cards.json](./6697-yu-gi-oh-the-sacred-cards.json) |
