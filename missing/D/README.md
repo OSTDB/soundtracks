@@ -8830,6 +8830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Crisis | 329772 | [329772-dino-crisis.json](./329772-dino-crisis.json) |
 | Dino Crisis 2 | 329776 | [329776-dino-crisis-2.json](./329776-dino-crisis-2.json) |
 | Dino Crisis 2 | 416083 | [416083-dino-crisis-2.json](./416083-dino-crisis-2.json) |
+| Dino Crisis 3 | 5813 | [5813-dino-crisis-3.json](./5813-dino-crisis-3.json) |
 | Dino Crisis Bundle | 329777 | [329777-dino-crisis-bundle.json](./329777-dino-crisis-bundle.json) |
 | Dino Crisis Rebirth | 389501 | [389501-dino-crisis-rebirth.json](./389501-dino-crisis-rebirth.json) |
 | Dino Crisis: 5th Anniversary | 161345 | [161345-dino-crisis-5th-anniversary.json](./161345-dino-crisis-5th-anniversary.json) |
@@ -10112,6 +10113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | District: Evolution | 328550 | [328550-district-evolution.json](./328550-district-evolution.json) |
 | DistroCards | 392807 | [392807-distrocards.json](./392807-distrocards.json) |
 | Distrust | 34667 | [34667-distrust.json](./34667-distrust.json) |
+| Disturbed | 25851 | [25851-disturbed.json](./25851-disturbed.json) |
 | Disturbed 2 | 28904 | [28904-disturbed-2.json](./28904-disturbed-2.json) |
 | Disturbed R.I.P. | 151080 | [151080-disturbed-r-i-p.json](./151080-disturbed-r-i-p.json) |
 | Disturbing Fears: Workplace | 412192 | [412192-disturbing-fears-workplace.json](./412192-disturbing-fears-workplace.json) |
@@ -14193,6 +14195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Warrior IV | 16584 | [16584-dragon-warrior-iv.json](./16584-dragon-warrior-iv.json) |
 | Dragon Warrior Monsters | 24818 | [24818-dragon-warrior-monsters.json](./24818-dragon-warrior-monsters.json) |
 | Dragon Warrior Monsters 2: Cobi's Journey | 222275 | [222275-dragon-warrior-monsters-2-cobis-journey.json](./222275-dragon-warrior-monsters-2-cobis-journey.json) |
+| Dragon Warrior Monsters 2: Cobi's Journey | 24819 | [24819-dragon-warrior-monsters-2-cobis-journey.json](./24819-dragon-warrior-monsters-2-cobis-journey.json) |
 | Dragon Warrior Monsters 2: Tara's Adventure | 222276 | [222276-dragon-warrior-monsters-2-taras-adventure.json](./222276-dragon-warrior-monsters-2-taras-adventure.json) |
 | Dragon Warrior Monsters 2: Tara's Adventure | 24820 | [24820-dragon-warrior-monsters-2-taras-adventure.json](./24820-dragon-warrior-monsters-2-taras-adventure.json) |
 | Dragon Warrior VII | 1818 | [1818-dragon-warrior-vii.json](./1818-dragon-warrior-vii.json) |
@@ -15848,6 +15851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droptch | 164920 | [164920-droptch.json](./164920-droptch.json) |
 | Droptic | 250265 | [250265-droptic.json](./250265-droptic.json) |
 | DropZap | 174182 | [174182-dropzap.json](./174182-dropzap.json) |
+| Dropzone | 26028 | [26028-dropzone.json](./26028-dropzone.json) |
 | Dropzone | 30116 | [30116-dropzone.json](./30116-dropzone.json) |
 | Dropzone | 369616 | [369616-dropzone.json](./369616-dropzone.json) |
 | Dropzone | 369617 | [369617-dropzone.json](./369617-dropzone.json) |
