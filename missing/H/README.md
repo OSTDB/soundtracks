@@ -10430,6 +10430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Many Robots? | 66185 | [66185-how-many-robots.json](./66185-how-many-robots.json) |
 | How Many Secrets Under Ceiling | 373205 | [373205-how-many-secrets-under-ceiling.json](./373205-how-many-secrets-under-ceiling.json) |
 | How Mosquito Became Human | 112595 | [112595-how-mosquito-became-human.json](./112595-how-mosquito-became-human.json) |
+| How Much Do You Know About Little Debbie History? | 425856 | [425856-how-much-do-you-know-about-little-debbie-history.json](./425856-how-much-do-you-know-about-little-debbie-history.json) |
 | How Much for the Body in the Freezer | 401158 | [401158-how-much-for-the-body-in-the-freezer.json](./401158-how-much-for-the-body-in-the-freezer.json) |
 | How Much Items: Animals | 340489 | [340489-how-much-items-animals.json](./340489-how-much-items-animals.json) |
 | How Much Items: Fishes | 340490 | [340490-how-much-items-fishes.json](./340490-how-much-items-fishes.json) |
