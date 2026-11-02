@@ -9910,6 +9910,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune | 357312 | [357312-fortune.json](./357312-fortune.json) |
 | Fortune & Famine | 190408 | [190408-fortune-and-famine.json](./190408-fortune-and-famine.json) |
 | Fortune & Gloria | 105324 | [105324-fortune-and-gloria.json](./105324-fortune-and-gloria.json) |
+| Fortune & Glory: Episode One | 413387 | [413387-fortune-and-glory-episode-one.json](./413387-fortune-and-glory-episode-one.json) |
+| Fortune & Glory: Episode Three | 413393 | [413393-fortune-and-glory-episode-three.json](./413393-fortune-and-glory-episode-three.json) |
+| Fortune & Glory: Episode Two | 413390 | [413390-fortune-and-glory-episode-two.json](./413390-fortune-and-glory-episode-two.json) |
 | Fortune and Glory | 388125 | [388125-fortune-and-glory.json](./388125-fortune-and-glory.json) |
 | Fortune Arterial | 91514 | [91514-fortune-arterial.json](./91514-fortune-arterial.json) |
 | Fortune Avenue | 288180 | [288180-fortune-avenue.json](./288180-fortune-avenue.json) |
@@ -11515,6 +11518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogatto & Friends | 343976 | [343976-frogatto-and-friends.json](./343976-frogatto-and-friends.json) |
 | FrogBall | 182169 | [182169-frogball.json](./182169-frogball.json) |
 | Frogborne | 404093 | [404093-frogborne.json](./404093-frogborne.json) |
+| Frogborne: New Lands | 413363 | [413363-frogborne-new-lands.json](./413363-frogborne-new-lands.json) |
 | Frogbound: The Legend of Sir Hopper | 297898 | [297898-frogbound-the-legend-of-sir-hopper.json](./297898-frogbound-the-legend-of-sir-hopper.json) |
 | Frogdate | 257515 | [257515-frogdate.json](./257515-frogdate.json) |
 | Frogenlav: Skyward Bound | 278418 | [278418-frogenlav-skyward-bound.json](./278418-frogenlav-skyward-bound.json) |
@@ -11647,6 +11651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrogSpin | 362730 | [362730-frogspin.json](./362730-frogspin.json) |
 | FrogStatue | 104046 | [104046-frogstatue.json](./104046-frogstatue.json) |
 | Frogstool | 337479 | [337479-frogstool.json](./337479-frogstool.json) |
+| FrogStray | 412761 | [412761-frogstray.json](./412761-frogstray.json) |
 | Froguelike | 244836 | [244836-froguelike.json](./244836-froguelike.json) |
 | Frogun | 152051 | [152051-frogun.json](./152051-frogun.json) |
 | Frogurai | 226454 | [226454-frogurai.json](./226454-frogurai.json) |
