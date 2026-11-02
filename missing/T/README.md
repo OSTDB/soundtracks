@@ -2948,7 +2948,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teardown: Deluxe Edition | 270589 | [270589-teardown-deluxe-edition.json](./270589-teardown-deluxe-edition.json) |
 | Teardown: Folkrace | 307673 | [307673-teardown-folkrace.json](./307673-teardown-folkrace.json) |
 | Teardown: Multiplayer | 393378 | [393378-teardown-multiplayer.json](./393378-teardown-multiplayer.json) |
+| Teardown: Quilez R0113R Robot | 407708 | [407708-teardown-quilez-r0113r-robot.json](./407708-teardown-quilez-r0113r-robot.json) |
 | Teardown: Rally | 420797 | [420797-teardown-rally.json](./420797-teardown-rally.json) |
+| Teardown: Relics of Barkuna | 407709 | [407709-teardown-relics-of-barkuna.json](./407709-teardown-relics-of-barkuna.json) |
 | Teardown: Time Campers | 276809 | [276809-teardown-time-campers.json](./276809-teardown-time-campers.json) |
 | Teardown: Ultimate Edition | 276868 | [276868-teardown-ultimate-edition.json](./276868-teardown-ultimate-edition.json) |
 | Teared | 287186 | [287186-teared.json](./287186-teared.json) |
@@ -8954,6 +8956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Take | 34480 | [34480-the-final-take.json](./34480-the-final-take.json) |
 | The Final Threat | 271061 | [271061-the-final-threat.json](./271061-the-final-threat.json) |
 | The Final Ultra Super Duper Cube Cavern Deluxe GOTY Edition | 309115 | [309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json](./309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json) |
+| The Final Week | 407738 | [407738-the-final-week.json](./407738-the-final-week.json) |
 | The Final Witness | 416815 | [416815-the-final-witness.json](./416815-the-final-witness.json) |
 | The Finally | 201798 | [201798-the-finally.json](./201798-the-finally.json) |
 | The Finals: Bank Rabbit Set | 294006 | [294006-the-finals-bank-rabbit-set.json](./294006-the-finals-bank-rabbit-set.json) |
@@ -17442,6 +17445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vaults of Minos | 213311 | [213311-the-vaults-of-minos.json](./213311-the-vaults-of-minos.json) |
 | The Veil of Mystery: Seven Little Gnomes | 185935 | [185935-the-veil-of-mystery-seven-little-gnomes.json](./185935-the-veil-of-mystery-seven-little-gnomes.json) |
 | The Veiled Ones | 318799 | [318799-the-veiled-ones.json](./318799-the-veiled-ones.json) |
+| The Velvet Green Witch: A Quiet Life | 407701 | [407701-the-velvet-green-witch-a-quiet-life.json](./407701-the-velvet-green-witch-a-quiet-life.json) |
 | The Vending Machine | 355890 | [355890-the-vending-machine.json](./355890-the-vending-machine.json) |
 | The Vengeance Of Lady Witch | 250964 | [250964-the-vengeance-of-lady-witch.json](./250964-the-vengeance-of-lady-witch.json) |
 | The Verbose Vault Venture | 311744 | [311744-the-verbose-vault-venture.json](./311744-the-verbose-vault-venture.json) |
@@ -23665,6 +23669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Mountaineer Skin | 406545 | [406545-tomb-raider-mountaineer-skin.json](./406545-tomb-raider-mountaineer-skin.json) |
 | Tomb Raider: Pistol Burst | 406547 | [406547-tomb-raider-pistol-burst.json](./406547-tomb-raider-pistol-burst.json) |
 | Tomb Raider: Pistol Silencer | 406549 | [406549-tomb-raider-pistol-silencer.json](./406549-tomb-raider-pistol-silencer.json) |
+| Tomb Raider: Puzzle Paradox | 407732 | [407732-tomb-raider-puzzle-paradox.json](./407732-tomb-raider-puzzle-paradox.json) |
 | Tomb Raider: Quest for Cinnabar | 165177 | [165177-tomb-raider-quest-for-cinnabar.json](./165177-tomb-raider-quest-for-cinnabar.json) |
 | Tomb Raider: Scavenger Bandit | 406550 | [406550-tomb-raider-scavenger-bandit.json](./406550-tomb-raider-scavenger-bandit.json) |
 | Tomb Raider: Scavenger Executioner | 406552 | [406552-tomb-raider-scavenger-executioner.json](./406552-tomb-raider-scavenger-executioner.json) |
@@ -31546,6 +31551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typeds | 181542 | [181542-typeds.json](./181542-typeds.json) |
 | Typefighters | 18956 | [18956-typefighters.json](./18956-typefighters.json) |
 | Typefighters: Steam Edition | 90589 | [90589-typefighters-steam-edition.json](./90589-typefighters-steam-edition.json) |
+| Typegrinder | 407716 | [407716-typegrinder.json](./407716-typegrinder.json) |
 | Typeoids | 387477 | [387477-typeoids.json](./387477-typeoids.json) |
 | TypeOut | 228061 | [228061-typeout.json](./228061-typeout.json) |
 | Typer | 88354 | [88354-typer.json](./88354-typer.json) |
