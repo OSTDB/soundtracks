@@ -1095,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katagiri-san is Very Cold | 372817 | [372817-katagiri-san-is-very-cold.json](./372817-katagiri-san-is-very-cold.json) |
 | Katahane | 65595 | [65595-katahane.json](./65595-katahane.json) |
 | Katahane: An' Call Belle | 148267 | [148267-katahane-an-call-belle.json](./148267-katahane-an-call-belle.json) |
+| Katakana Hero | 425166 | [425166-katakana-hero.json](./425166-katakana-hero.json) |
 | Katakis | 12652 | [12652-katakis.json](./12652-katakis.json) |
 | Katakoi Contrast: Collection of Branch | 136974 | [136974-katakoi-contrast-collection-of-branch.json](./136974-katakoi-contrast-collection-of-branch.json) |
 | Katakoi Contrast: Way of Parting Vol.1 | 116380 | [116380-katakoi-contrast-way-of-parting-vol-1.json](./116380-katakoi-contrast-way-of-parting-vol-1.json) |
@@ -1866,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboard Warrior Simulator | 351711 | [351711-keyboard-warrior-simulator.json](./351711-keyboard-warrior-simulator.json) |
 | Keyboard Warrior Stickman: Typing Beat Em Up | 413773 | [413773-keyboard-warrior-stickman-typing-beat-em-up.json](./413773-keyboard-warrior-stickman-typing-beat-em-up.json) |
 | Keyboard Warrior: Dreamstate | 209714 | [209714-keyboard-warrior-dreamstate.json](./209714-keyboard-warrior-dreamstate.json) |
+| Keyboard Warriors | 425178 | [425178-keyboard-warriors.json](./425178-keyboard-warriors.json) |
 | Keyboardkommander | 174075 | [174075-keyboardkommander.json](./174075-keyboardkommander.json) |
 | Keyboardmania 2ndMix | 62579 | [62579-keyboardmania-2ndmix.json](./62579-keyboardmania-2ndmix.json) |
 | Keyboardmania II: 2ndMix and 3rdMix | 62578 | [62578-keyboardmania-ii-2ndmix-and-3rdmix.json](./62578-keyboardmania-ii-2ndmix-and-3rdmix.json) |
