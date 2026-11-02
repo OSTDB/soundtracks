@@ -2659,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrimean Jungle | 75644 | [75644-barrimean-jungle.json](./75644-barrimean-jungle.json) |
 | Barro | 95668 | [95668-barro.json](./95668-barro.json) |
 | Barro 2020 | 123866 | [123866-barro-2020.json](./123866-barro-2020.json) |
+| Barro 2026 | 411266 | [411266-barro-2026.json](./411266-barro-2026.json) |
 | Barro 22 | 181008 | [181008-barro-22.json](./181008-barro-22.json) |
 | Barro F | 130225 | [130225-barro-f.json](./130225-barro-f.json) |
 | Barro F22 | 249694 | [249694-barro-f22.json](./249694-barro-f22.json) |
@@ -4441,6 +4442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BDSM Sex: Episode 5 | 301644 | [301644-bdsm-sex-episode-5.json](./301644-bdsm-sex-episode-5.json) |
 | BDSM Sex: Episode 6 | 302081 | [302081-bdsm-sex-episode-6.json](./302081-bdsm-sex-episode-6.json) |
 | BDSM Sex: Futanari | 417409 | [417409-bdsm-sex-futanari.json](./417409-bdsm-sex-futanari.json) |
+| BDSM Sex: Futanari 2 | 411241 | [411241-bdsm-sex-futanari-2.json](./411241-bdsm-sex-futanari-2.json) |
 | Be | 207329 | [207329-be.json](./207329-be.json) |
 | Be (Not) Afraid | 356832 | [356832-be-not-afraid.json](./356832-be-not-afraid.json) |
 | Be a Bee | 386357 | [386357-be-a-bee.json](./386357-be-a-bee.json) |
@@ -16621,6 +16623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bureaucromancer | 408233 | [408233-bureaucromancer.json](./408233-bureaucromancer.json) |
 | Burg Battle | 153391 | [153391-burg-battle.json](./153391-burg-battle.json) |
 | Burg Schreckenstein: Der Dieb von Burg Schreckenstein | 376559 | [376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json](./376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json) |
+| Burg's Buyout | 411262 | [411262-burgs-buyout.json](./411262-burgs-buyout.json) |
 | Burgaholic | 343793 | [343793-burgaholic.json](./343793-burgaholic.json) |
 | Burgal's Bounty | 205604 | [205604-burgals-bounty.json](./205604-burgals-bounty.json) |
 | BurgardTime | 252649 | [252649-burgardtime.json](./252649-burgardtime.json) |
