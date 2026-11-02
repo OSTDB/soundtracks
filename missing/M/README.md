@@ -18161,7 +18161,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MurderHobo: Aggravation Quest | 63289 | [63289-murderhobo-aggravation-quest.json](./63289-murderhobo-aggravation-quest.json) |
 | Murderlings | 305834 | [305834-murderlings.json](./305834-murderlings.json) |
 | Murderous Intent | 273738 | [273738-murderous-intent.json](./273738-murderous-intent.json) |
-| Murderous Pursuits | 85526 | [85526-murderous-pursuits.json](./85526-murderous-pursuits.json) |
 | Murderous Sunlight | 390149 | [390149-murderous-sunlight.json](./390149-murderous-sunlight.json) |
 | Murders & Mistresses | 418705 | [418705-murders-and-mistresses.json](./418705-murders-and-mistresses.json) |
 | Murders at Tealwoods Manor | 215103 | [215103-murders-at-tealwoods-manor.json](./215103-murders-at-tealwoods-manor.json) |
@@ -18503,7 +18502,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Express | 264485 | [264485-mutant-express.json](./264485-mutant-express.json) |
 | Mutant Factions | 60989 | [60989-mutant-factions.json](./60989-mutant-factions.json) |
 | Mutant Fighting Cup | 234193 | [234193-mutant-fighting-cup.json](./234193-mutant-fighting-cup.json) |
-| Mutant Football League | 27060 | [27060-mutant-football-league.json](./27060-mutant-football-league.json) |
 | Mutant Football League 2 | 296351 | [296351-mutant-football-league-2.json](./296351-mutant-football-league-2.json) |
 | Mutant Football League: Brainwashington Cadavers | 227389 | [227389-mutant-football-league-brainwashington-cadavers.json](./227389-mutant-football-league-brainwashington-cadavers.json) |
 | Mutant Football League: Brawltimore Razors | 154931 | [154931-mutant-football-league-brawltimore-razors.json](./154931-mutant-football-league-brawltimore-razors.json) |
