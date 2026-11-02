@@ -9699,6 +9699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roid Chimp | 366297 | [366297-roid-chimp.json](./366297-roid-chimp.json) |
 | Roid Rage | 113366 | [113366-roid-rage.json](./113366-roid-rage.json) |
 | Roiders | 302340 | [302340-roiders.json](./302340-roiders.json) |
+| Roidgrinder | 407717 | [407717-roidgrinder.json](./407717-roidgrinder.json) |
 | Roidrekt | 114954 | [114954-roidrekt.json](./114954-roidrekt.json) |
 | Roids | 264564 | [264564-roids.json](./264564-roids.json) |
 | Rojiura Glory Hole | 193264 | [193264-rojiura-glory-hole.json](./193264-rojiura-glory-hole.json) |
