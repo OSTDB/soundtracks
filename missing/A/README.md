@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ridiculous Waste of Time | 408548 | [408548-a-ridiculous-waste-of-time.json](./408548-a-ridiculous-waste-of-time.json) |
 | A Right to Rule | 347228 | [347228-a-right-to-rule.json](./347228-a-right-to-rule.json) |
 | A Rip In Time | 50751 | [50751-a-rip-in-time.json](./50751-a-rip-in-time.json) |
+| A Risky Rocky Resort | 425180 | [425180-a-risky-rocky-resort.json](./425180-a-risky-rocky-resort.json) |
 | A Rite from the Stars | 105050 | [105050-a-rite-from-the-stars.json](./105050-a-rite-from-the-stars.json) |
 | A Rite from the Stars: Remaster Edition | 298690 | [298690-a-rite-from-the-stars-remaster-edition.json](./298690-a-rite-from-the-stars-remaster-edition.json) |
 | A Roach In Space | 269058 | [269058-a-roach-in-space.json](./269058-a-roach-in-space.json) |
@@ -5574,6 +5575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akiko Hard | 300662 | [300662-akiko-hard.json](./300662-akiko-hard.json) |
 | Akiko Premium Version | 299795 | [299795-akiko-premium-version.json](./299795-akiko-premium-version.json) |
 | Akimaho! | 97383 | [97383-akimaho.json](./97383-akimaho.json) |
+| Akimbo Reaper | 425184 | [425184-akimbo-reaper.json](./425184-akimbo-reaper.json) |
 | Akimbo: Kung-Fu Hero | 1995 | [1995-akimbo-kung-fu-hero.json](./1995-akimbo-kung-fu-hero.json) |
 | Akimbot | 300484 | [300484-akimbot.json](./300484-akimbot.json) |
 | Akin | 32403 | [32403-akin.json](./32403-akin.json) |
@@ -8767,6 +8769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | And Then There Was No Light | 361598 | [361598-and-then-there-was-no-light.json](./361598-and-then-there-was-no-light.json) |
 | And Then We Go Party At The Shore | 409875 | [409875-and-then-we-go-party-at-the-shore.json](./409875-and-then-we-go-party-at-the-shore.json) |
 | And These Iron Limbs Exiled From Heaven | 278486 | [278486-and-these-iron-limbs-exiled-from-heaven.json](./278486-and-these-iron-limbs-exiled-from-heaven.json) |
+| And When Your Goal Is Nearest | 425181 | [425181-and-when-your-goal-is-nearest.json](./425181-and-when-your-goal-is-nearest.json) |
 | And Yet It Hurt | 229628 | [229628-and-yet-it-hurt.json](./229628-and-yet-it-hurt.json) |
 | And Yet It Moves | 9772 | [9772-and-yet-it-moves.json](./9772-and-yet-it-moves.json) |
 | And Yet, We Dream | 394624 | [394624-and-yet-we-dream.json](./394624-and-yet-we-dream.json) |
@@ -16149,6 +16152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurcus Online | 132715 | [132715-aurcus-online.json](./132715-aurcus-online.json) |
 | Aure | 349251 | [349251-aure.json](./349251-aure.json) |
 | Aurelia: Stellar Arising | 201806 | [201806-aurelia-stellar-arising.json](./201806-aurelia-stellar-arising.json) |
+| Aurelune: Seven Eclipses | 425196 | [425196-aurelune-seven-eclipses.json](./425196-aurelune-seven-eclipses.json) |
 | Aurendor | 246006 | [246006-aurendor.json](./246006-aurendor.json) |
 | Aureole: Wings of Hope | 254013 | [254013-aureole-wings-of-hope.json](./254013-aureole-wings-of-hope.json) |
 | Auri's Amazing Arch Adventure | 388247 | [388247-auris-amazing-arch-adventure.json](./388247-auris-amazing-arch-adventure.json) |
@@ -16177,6 +16181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Hex: Pattern Puzzles | 117616 | [117616-aurora-hex-pattern-puzzles.json](./117616-aurora-hex-pattern-puzzles.json) |
 | Aurora Hills: Chapter 1 | 295741 | [295741-aurora-hills-chapter-1.json](./295741-aurora-hills-chapter-1.json) |
 | Aurora Hills: Chapter 2 | 394056 | [394056-aurora-hills-chapter-2.json](./394056-aurora-hills-chapter-2.json) |
+| Aurora Hills: Chapter 3 | 425171 | [425171-aurora-hills-chapter-3.json](./425171-aurora-hills-chapter-3.json) |
 | Aurora Light Pony: Ponies and Horses in the Valley of Stars | 336408 | [336408-aurora-light-pony-ponies-and-horses-in-the-valley-of-stars.json](./336408-aurora-light-pony-ponies-and-horses-in-the-valley-of-stars.json) |
 | Aurora Memoria: Philosophical Data Session 2093 | 75146 | [75146-aurora-memoria-philosophical-data-session-2093.json](./75146-aurora-memoria-philosophical-data-session-2093.json) |
 | Aurora Nights | 32720 | [32720-aurora-nights.json](./32720-aurora-nights.json) |
