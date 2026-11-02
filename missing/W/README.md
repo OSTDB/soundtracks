@@ -2108,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waste Sorting | 372518 | [372518-waste-sorting.json](./372518-waste-sorting.json) |
 | Waste The Fallen | 413735 | [413735-waste-the-fallen.json](./413735-waste-the-fallen.json) |
 | Waste Time Lotto | 338391 | [338391-waste-time-lotto.json](./338391-waste-time-lotto.json) |
+| Waste Walkers | 35208 | [35208-waste-walkers.json](./35208-waste-walkers.json) |
 | Waste Walkers Deliverance | 135106 | [135106-waste-walkers-deliverance.json](./135106-waste-walkers-deliverance.json) |
 | Waste Walkers Subsistence | 135107 | [135107-waste-walkers-subsistence.json](./135107-waste-walkers-subsistence.json) |
 | Waste Water | 395175 | [395175-waste-water.json](./395175-waste-water.json) |
@@ -6527,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Sheep Cabbage | 276580 | [276580-wolf-sheep-cabbage.json](./276580-wolf-sheep-cabbage.json) |
 | Wolf Simulator | 253803 | [253803-wolf-simulator.json](./253803-wolf-simulator.json) |
 | Wolf Simulator | 258514 | [258514-wolf-simulator.json](./258514-wolf-simulator.json) |
+| Wolf Simulator | 32481 | [32481-wolf-simulator.json](./32481-wolf-simulator.json) |
 | Wolf Souls | 249670 | [249670-wolf-souls.json](./249670-wolf-souls.json) |
 | Wolf Souls: Arena | 324331 | [324331-wolf-souls-arena.json](./324331-wolf-souls-arena.json) |
 | Wolf Survival | 287688 | [287688-wolf-survival.json](./287688-wolf-survival.json) |
