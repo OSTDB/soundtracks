@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen | 271114 | [271114-fallen.json](./271114-fallen.json) |
 | Fallen | 374204 | [374204-fallen.json](./374204-fallen.json) |
 | Fallen | 394084 | [394084-fallen.json](./394084-fallen.json) |
+| Fallen Aces | 152263 | [152263-fallen-aces.json](./152263-fallen-aces.json) |
 | Fallen Angel | 121988 | [121988-fallen-angel.json](./121988-fallen-angel.json) |
 | Fallen Angel | 322457 | [322457-fallen-angel.json](./322457-fallen-angel.json) |
 | Fallen Angel: Hell Survival | 258185 | [258185-fallen-angel-hell-survival.json](./258185-fallen-angel-hell-survival.json) |
@@ -4647,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IV Advance | 406 | [406-final-fantasy-iv-advance.json](./406-final-fantasy-iv-advance.json) |
 | Final Fantasy IV Namingway Edition | 379337 | [379337-final-fantasy-iv-namingway-edition.json](./379337-final-fantasy-iv-namingway-edition.json) |
 | Final Fantasy IV: Interlude | 131995 | [131995-final-fantasy-iv-interlude.json](./131995-final-fantasy-iv-interlude.json) |
+| Final Fantasy IV: The After Years | 146022 | [146022-final-fantasy-iv-the-after-years.json](./146022-final-fantasy-iv-the-after-years.json) |
 | Final Fantasy IV: The After Years | 388 | [388-final-fantasy-iv-the-after-years.json](./388-final-fantasy-iv-the-after-years.json) |
 | Final Fantasy IV: The Complete Collection | 21779 | [21779-final-fantasy-iv-the-complete-collection.json](./21779-final-fantasy-iv-the-complete-collection.json) |
 | Final Fantasy IV: The DSfication | 274983 | [274983-final-fantasy-iv-the-dsfication.json](./274983-final-fantasy-iv-the-dsfication.json) |
@@ -4714,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII & Final Fantasy VIII Remastered Twin Pack | 127879 | [127879-final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack.json](./127879-final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack.json) |
 | Final Fantasy VII + VIII Double Pack | 55049 | [55049-final-fantasy-vii-viii-double-pack.json](./55049-final-fantasy-vii-viii-double-pack.json) |
 | Final Fantasy VII G-Bike | 7398 | [7398-final-fantasy-vii-g-bike.json](./7398-final-fantasy-vii-g-bike.json) |
+| Final Fantasy VII International | 146620 | [146620-final-fantasy-vii-international.json](./146620-final-fantasy-vii-international.json) |
 | Final Fantasy VII Rebirth: Collector's Edition | 266735 | [266735-final-fantasy-vii-rebirth-collectors-edition.json](./266735-final-fantasy-vii-rebirth-collectors-edition.json) |
 | Final Fantasy VII Rebirth: Deluxe Edition | 266734 | [266734-final-fantasy-vii-rebirth-deluxe-edition.json](./266734-final-fantasy-vii-rebirth-deluxe-edition.json) |
 | Final Fantasy VII Rebirth: Digital Deluxe Edition | 266733 | [266733-final-fantasy-vii-rebirth-digital-deluxe-edition.json](./266733-final-fantasy-vii-rebirth-digital-deluxe-edition.json) |
