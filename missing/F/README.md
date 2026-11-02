@@ -10857,6 +10857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Bomber | 362929 | [362929-freedom-bomber.json](./362929-freedom-bomber.json) |
 | Freedom Bridge | 115034 | [115034-freedom-bridge.json](./115034-freedom-bridge.json) |
 | Freedom Cry | 34653 | [34653-freedom-cry.json](./34653-freedom-cry.json) |
+| Freedom Defender | 55380 | [55380-freedom-defender.json](./55380-freedom-defender.json) |
 | Freedom Drive | 220023 | [220023-freedom-drive.json](./220023-freedom-drive.json) |
 | Freedom Fall | 16829 | [16829-freedom-fall.json](./16829-freedom-fall.json) |
 | Freedom Farming: The American Way | 226723 | [226723-freedom-farming-the-american-way.json](./226723-freedom-farming-the-american-way.json) |
