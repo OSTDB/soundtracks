@@ -1516,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tall Trails | 252784 | [252784-tall-trails.json](./252784-tall-trails.json) |
 | Tall Twins Tower | 62547 | [62547-tall-twins-tower.json](./62547-tall-twins-tower.json) |
 | Tallawa Game Nights | 415894 | [415894-tallawa-game-nights.json](./415894-tallawa-game-nights.json) |
+| Tallowmere | 9677 | [9677-tallowmere.json](./9677-tallowmere.json) |
 | Tallowmere 2: Curse of the Kittens | 139584 | [139584-tallowmere-2-curse-of-the-kittens.json](./139584-tallowmere-2-curse-of-the-kittens.json) |
 | Tally | 363154 | [363154-tally.json](./363154-tally.json) |
 | Tally Castle | 182857 | [182857-tally-castle.json](./182857-tally-castle.json) |
@@ -2458,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task Control | 264989 | [264989-task-control.json](./264989-task-control.json) |
 | Task Force | 145462 | [145462-task-force.json](./145462-task-force.json) |
 | Task Force | 46890 | [46890-task-force.json](./46890-task-force.json) |
+| Task Force 1942: Surface Naval Action in the South Pacific | 9325 | [9325-task-force-1942-surface-naval-action-in-the-south-pacific.json](./9325-task-force-1942-surface-naval-action-in-the-south-pacific.json) |
 | Task Force 88: Hostile Contact | 179209 | [179209-task-force-88-hostile-contact.json](./179209-task-force-88-hostile-contact.json) |
 | Task Force 9 | 261788 | [261788-task-force-9.json](./261788-task-force-9.json) |
 | Task Force Admiral: Vol.1 - American Carrier Battles | 219570 | [219570-task-force-admiral-vol-1-american-carrier-battles.json](./219570-task-force-admiral-vol-1-american-carrier-battles.json) |
@@ -4206,6 +4208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Incognito - Antarctica 1911 | 112666 | [112666-terra-incognito-antarctica-1911.json](./112666-terra-incognito-antarctica-1911.json) |
 | Terra Inferno | 321952 | [321952-terra-inferno.json](./321952-terra-inferno.json) |
 | Terra Invicta: Dark Skies | 408608 | [408608-terra-invicta-dark-skies.json](./408608-terra-invicta-dark-skies.json) |
+| Terra Lander | 9457 | [9457-terra-lander.json](./9457-terra-lander.json) |
 | Terra Lander II: Rockslide Rescue | 130136 | [130136-terra-lander-ii-rockslide-rescue.json](./130136-terra-lander-ii-rockslide-rescue.json) |
 | Terra Maega | 217265 | [217265-terra-maega.json](./217265-terra-maega.json) |
 | Terra Mango | 47141 | [47141-terra-mango.json](./47141-terra-mango.json) |
@@ -12703,6 +12706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Majors Pro Baseball | 45795 | [45795-the-majors-pro-baseball.json](./45795-the-majors-pro-baseball.json) |
 | The Maker of Masks | 323561 | [323561-the-maker-of-masks.json](./323561-the-maker-of-masks.json) |
 | The Maker Way | 392267 | [392267-the-maker-way.json](./392267-the-maker-way.json) |
+| The Maker's Eden | 9883 | [9883-the-makers-eden.json](./9883-the-makers-eden.json) |
 | The Making of a Prophet | 214524 | [214524-the-making-of-a-prophet.json](./214524-the-making-of-a-prophet.json) |
 | The Making of Karateka | 256293 | [256293-the-making-of-karateka.json](./256293-the-making-of-karateka.json) |
 | The Making of Nightruth | 98289 | [98289-the-making-of-nightruth.json](./98289-the-making-of-nightruth.json) |
@@ -13432,6 +13436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nightmare Before Christmas: Oogie's Revenge | 6200 | [6200-the-nightmare-before-christmas-oogies-revenge.json](./6200-the-nightmare-before-christmas-oogies-revenge.json) |
 | The Nightmare Catcher | 196038 | [196038-the-nightmare-catcher.json](./196038-the-nightmare-catcher.json) |
 | The Nightmare Chronicles: Horror In Da Hood | 309107 | [309107-the-nightmare-chronicles-horror-in-da-hood.json](./309107-the-nightmare-chronicles-horror-in-da-hood.json) |
+| The Nightmare Cooperative | 9373 | [9373-the-nightmare-cooperative.json](./9373-the-nightmare-cooperative.json) |
 | The Nightmare Escape | 258473 | [258473-the-nightmare-escape.json](./258473-the-nightmare-escape.json) |
 | The Nightmare House | 301222 | [301222-the-nightmare-house.json](./301222-the-nightmare-house.json) |
 | The Nightmare Inside | 194653 | [194653-the-nightmare-inside.json](./194653-the-nightmare-inside.json) |
@@ -15063,6 +15068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Dyes | 152867 | [152867-the-secret-of-dyes.json](./152867-the-secret-of-dyes.json) |
 | The Secret of Gillwood | 116095 | [116095-the-secret-of-gillwood.json](./116095-the-secret-of-gillwood.json) |
 | The Secret of Grisly Manor | 61104 | [61104-the-secret-of-grisly-manor.json](./61104-the-secret-of-grisly-manor.json) |
+| The Secret of Hildegards | 9482 | [9482-the-secret-of-hildegards.json](./9482-the-secret-of-hildegards.json) |
 | The Secret of Hutton Grammar School | 126899 | [126899-the-secret-of-hutton-grammar-school.json](./126899-the-secret-of-hutton-grammar-school.json) |
 | The Secret of Little Hodcome | 232554 | [232554-the-secret-of-little-hodcome.json](./232554-the-secret-of-little-hodcome.json) |
 | The Secret of Maike Island | 318396 | [318396-the-secret-of-maike-island.json](./318396-the-secret-of-maike-island.json) |
@@ -15341,6 +15347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shooter Ball | 233386 | [233386-the-shooter-ball.json](./233386-the-shooter-ball.json) |
 | The Shooting & The Helicopter | 203395 | [203395-the-shooting-and-the-helicopter.json](./203395-the-shooting-and-the-helicopter.json) |
 | The Shooting Maguro | 156024 | [156024-the-shooting-maguro.json](./156024-the-shooting-maguro.json) |
+| The Shopkeeper | 9481 | [9481-the-shopkeeper.json](./9481-the-shopkeeper.json) |
 | The Shopping List | 198373 | [198373-the-shopping-list.json](./198373-the-shopping-list.json) |
 | The Shore | 138862 | [138862-the-shore.json](./138862-the-shore.json) |
 | The Shores of Stellaluna | 357001 | [357001-the-shores-of-stellaluna.json](./357001-the-shores-of-stellaluna.json) |
@@ -16413,6 +16420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Team Shell Hack | 314213 | [314213-the-team-shell-hack.json](./314213-the-team-shell-hack.json) |
 | The Tear | 115005 | [115005-the-tear.json](./115005-the-tear.json) |
 | The Tearoom | 141722 | [141722-the-tearoom.json](./141722-the-tearoom.json) |
+| The Technician | 9663 | [9663-the-technician.json](./9663-the-technician.json) |
 | The Technomancer | 9919 | [9919-the-technomancer.json](./9919-the-technomancer.json) |
 | The Teeth | 210650 | [210650-the-teeth.json](./210650-the-teeth.json) |
 | The Telephone | 256647 | [256647-the-telephone.json](./256647-the-telephone.json) |
@@ -16653,6 +16661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tomorrow Children | 7604 | [7604-the-tomorrow-children.json](./7604-the-tomorrow-children.json) |
 | The Tomorrow Children: Phoenix Edition | 205261 | [205261-the-tomorrow-children-phoenix-edition.json](./205261-the-tomorrow-children-phoenix-edition.json) |
 | The Tomorrow Corporation Collection | 124784 | [124784-the-tomorrow-corporation-collection.json](./124784-the-tomorrow-corporation-collection.json) |
+| The Tomorrow War | 9852 | [9852-the-tomorrow-war.json](./9852-the-tomorrow-war.json) |
 | The Tomorrow War: White Spike Invasion | 284375 | [284375-the-tomorrow-war-white-spike-invasion.json](./284375-the-tomorrow-war-white-spike-invasion.json) |
 | The Tone Rebellion | 73709 | [73709-the-tone-rebellion.json](./73709-the-tone-rebellion.json) |
 | The Too-Cute Girl Who Moved in Next Door | 413100 | [413100-the-too-cute-girl-who-moved-in-next-door.json](./413100-the-too-cute-girl-who-moved-in-next-door.json) |
@@ -18178,6 +18187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatre of War 2: Africa 1943 - Centauro | 10954 | [10954-theatre-of-war-2-africa-1943-centauro.json](./10954-theatre-of-war-2-africa-1943-centauro.json) |
 | Theatre of War 2: Battle for Caen | 10955 | [10955-theatre-of-war-2-battle-for-caen.json](./10955-theatre-of-war-2-battle-for-caen.json) |
 | Theatre of War 2: Battle for Caen - Special Edition | 25511 | [25511-theatre-of-war-2-battle-for-caen-special-edition.json](./25511-theatre-of-war-2-battle-for-caen-special-edition.json) |
+| Theatre of War 3: Korea | 9859 | [9859-theatre-of-war-3-korea.json](./9859-theatre-of-war-3-korea.json) |
 | Theatre of War: Collection | 54198 | [54198-theatre-of-war-collection.json](./54198-theatre-of-war-collection.json) |
 | Theatre People | 57478 | [57478-theatre-people.json](./57478-theatre-people.json) |
 | Theatre Tales | 117666 | [117666-theatre-tales.json](./117666-theatre-tales.json) |
@@ -19669,6 +19679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Cauldron | 288613 | [288613-tidy-cauldron.json](./288613-tidy-cauldron.json) |
 | Tidy Mart | 411999 | [411999-tidy-mart.json](./411999-tidy-mart.json) |
 | Tidy Shadows | 412004 | [412004-tidy-shadows.json](./412004-tidy-shadows.json) |
+| Tidy Slot Cars | 427242 | [427242-tidy-slot-cars.json](./427242-tidy-slot-cars.json) |
 | Tidy to the Max! | 416345 | [416345-tidy-to-the-max.json](./416345-tidy-to-the-max.json) |
 | Tidy Toys | 364033 | [364033-tidy-toys.json](./364033-tidy-toys.json) |
 | Tidy Up | 406153 | [406153-tidy-up.json](./406153-tidy-up.json) |
@@ -23832,6 +23843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Impatient | 191470 | [191470-too-impatient.json](./191470-too-impatient.json) |
 | Too Late Forest | 304532 | [304532-too-late-forest.json](./304532-too-late-forest.json) |
 | Too Loud | 120694 | [120694-too-loud.json](./120694-too-loud.json) |
+| Too Many Animals ! | 427270 | [427270-too-many-animals.json](./427270-too-many-animals.json) |
 | Too Many Bots | 366889 | [366889-too-many-bots.json](./366889-too-many-bots.json) |
 | Too Many Cooks | 375838 | [375838-too-many-cooks.json](./375838-too-many-cooks.json) |
 | Too many Geckos! | 148127 | [148127-too-many-geckos.json](./148127-too-many-geckos.json) |
@@ -27663,6 +27675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Simulator World Tour | 408040 | [408040-trainz-simulator-world-tour.json](./408040-trainz-simulator-world-tour.json) |
 | Trainz Simulator: Classic Cabon City | 11021 | [11021-trainz-simulator-classic-cabon-city.json](./11021-trainz-simulator-classic-cabon-city.json) |
 | Trainz Simulator: Murchison 2 | 11022 | [11022-trainz-simulator-murchison-2.json](./11022-trainz-simulator-murchison-2.json) |
+| Trainz Trouble | 9446 | [9446-trainz-trouble.json](./9446-trainz-trouble.json) |
 | Trainz: A New Era | 11020 | [11020-trainz-a-new-era.json](./11020-trainz-a-new-era.json) |
 | Trainz: A New Era - Aerotrain | 156169 | [156169-trainz-a-new-era-aerotrain.json](./156169-trainz-a-new-era-aerotrain.json) |
 | Trainz: A New Era - Amtrak F40PH 2 Pack | 162676 | [162676-trainz-a-new-era-amtrak-f40ph-2-pack.json](./162676-trainz-a-new-era-amtrak-f40ph-2-pack.json) |
@@ -28809,6 +28822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TriBlaster | 36274 | [36274-triblaster.json](./36274-triblaster.json) |
 | Triblock | 158032 | [158032-triblock.json](./158032-triblock.json) |
 | Tribloos | 129634 | [129634-tribloos.json](./129634-tribloos.json) |
+| Tribloos 2 | 9697 | [9697-tribloos-2.json](./9697-tribloos-2.json) |
 | Tribloos 3 | 104685 | [104685-tribloos-3.json](./104685-tribloos-3.json) |
 | Tribocalypse VR | 31497 | [31497-tribocalypse-vr.json](./31497-tribocalypse-vr.json) |
 | Tribond | 206075 | [206075-tribond.json](./206075-tribond.json) |
