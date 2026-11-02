@@ -3084,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Quest 4+5+6 | 154935 | [154935-kings-quest-4-5-6.json](./154935-kings-quest-4-5-6.json) |
 | King's Quest Collection | 27852 | [27852-kings-quest-collection.json](./27852-kings-quest-collection.json) |
 | King's Quest Collector's Edition | 213196 | [213196-kings-quest-collectors-edition.json](./213196-kings-quest-collectors-edition.json) |
+| King's Quest I: Quest for the Crown | 132065 | [132065-kings-quest-i-quest-for-the-crown.json](./132065-kings-quest-i-quest-for-the-crown.json) |
 | King's Quest II: Romancing the Stones | 77309 | [77309-kings-quest-ii-romancing-the-stones.json](./77309-kings-quest-ii-romancing-the-stones.json) |
 | King's Quest II: Romancing the Throne | 852 | [852-kings-quest-ii-romancing-the-throne.json](./852-kings-quest-ii-romancing-the-throne.json) |
 | King's Quest III Redux: To Heir is Human | 132066 | [132066-kings-quest-iii-redux-to-heir-is-human.json](./132066-kings-quest-iii-redux-to-heir-is-human.json) |
@@ -3632,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Pinball Land DX | 279225 | [279225-kirbys-pinball-land-dx.json](./279225-kirbys-pinball-land-dx.json) |
 | Kirby's Puresabe Adventure | 138986 | [138986-kirbys-puresabe-adventure.json](./138986-kirbys-puresabe-adventure.json) |
 | Kirby's Return to Dream Land | 3725 | [3725-kirbys-return-to-dream-land.json](./3725-kirbys-return-to-dream-land.json) |
+| Kirby's Star Stacker | 3655 | [3655-kirbys-star-stacker.json](./3655-kirbys-star-stacker.json) |
 | Kirchhoff's Revenge | 89398 | [89398-kirchhoffs-revenge.json](./89398-kirchhoffs-revenge.json) |
 | Kirei Zukin Seikatsu 2 | 325723 | [325723-kirei-zukin-seikatsu-2.json](./325723-kirei-zukin-seikatsu-2.json) |
 | Kirel | 36917 | [36917-kirel.json](./36917-kirel.json) |
