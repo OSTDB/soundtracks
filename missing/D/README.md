@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemon: The Wolf, the Witch, and the Labyrinth | 390477 | [390477-daemon-the-wolf-the-witch-and-the-labyrinth.json](./390477-daemon-the-wolf-the-witch-and-the-labyrinth.json) |
 | Daemonfall | 345115 | [345115-daemonfall.json](./345115-daemonfall.json) |
 | Daemonic Runner | 127779 | [127779-daemonic-runner.json](./127779-daemonic-runner.json) |
+| Daemonica | 51369 | [51369-daemonica.json](./51369-daemonica.json) |
 | Daemonical | 96233 | [96233-daemonical.json](./96233-daemonical.json) |
 | Daemonium | 247668 | [247668-daemonium.json](./247668-daemonium.json) |
 | Daemonologie | 179677 | [179677-daemonologie.json](./179677-daemonologie.json) |
@@ -1972,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Dungeon II: Oblivion Edition | 298850 | [298850-darkest-dungeon-ii-oblivion-edition.json](./298850-darkest-dungeon-ii-oblivion-edition.json) |
 | Darkest Dungeon II: Resolute Edition | 383423 | [383423-darkest-dungeon-ii-resolute-edition.json](./383423-darkest-dungeon-ii-resolute-edition.json) |
 | Darkest Dungeon II: The Binding Blade | 275753 | [275753-darkest-dungeon-ii-the-binding-blade.json](./275753-darkest-dungeon-ii-the-binding-blade.json) |
+| Darkest Dungeon: Ancestral Edition | 52836 | [52836-darkest-dungeon-ancestral-edition.json](./52836-darkest-dungeon-ancestral-edition.json) |
 | Darkest Dungeon: Collector's Edition | 136203 | [136203-darkest-dungeon-collectors-edition.json](./136203-darkest-dungeon-collectors-edition.json) |
 | Darkest Dungeon: Crimson Edition | 91323 | [91323-darkest-dungeon-crimson-edition.json](./91323-darkest-dungeon-crimson-edition.json) |
 | Darkest Dungeon: The Butcher's Circus | 172134 | [172134-darkest-dungeon-the-butchers-circus.json](./172134-darkest-dungeon-the-butchers-circus.json) |
@@ -5842,6 +5844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dementia | 184583 | [184583-dementia.json](./184583-dementia.json) |
 | Dementium II | 20665 | [20665-dementium-ii.json](./20665-dementium-ii.json) |
 | Dementium II HD | 5837 | [5837-dementium-ii-hd.json](./5837-dementium-ii-hd.json) |
+| Dementium Remastered | 20034 | [20034-dementium-remastered.json](./20034-dementium-remastered.json) |
 | Dementium: The Ward | 21238 | [21238-dementium-the-ward.json](./21238-dementium-the-ward.json) |
 | Demeo | 144763 | [144763-demeo.json](./144763-demeo.json) |
 | Demeo Battles | 251555 | [251555-demeo-battles.json](./251555-demeo-battles.json) |
@@ -11529,6 +11532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Escape 2 | 123698 | [123698-dont-escape-2.json](./123698-dont-escape-2.json) |
 | Don't Escape 3 | 123699 | [123699-dont-escape-3.json](./123699-dont-escape-3.json) |
 | Don't Escape Trilogy | 120558 | [120558-dont-escape-trilogy.json](./120558-dont-escape-trilogy.json) |
+| Don't Escape: 4 Days to Survive | 55812 | [55812-dont-escape-4-days-to-survive.json](./55812-dont-escape-4-days-to-survive.json) |
 | Don't Exist | 295547 | [295547-dont-exist.json](./295547-dont-exist.json) |
 | Don't Explode | 68470 | [68470-dont-explode.json](./68470-dont-explode.json) |
 | Don't Fall | 140024 | [140024-dont-fall.json](./140024-dont-fall.json) |
@@ -16470,6 +16474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duì Yǐng Shìjiè | 368465 | [368465-dui-ying-shijie.json](./368465-dui-ying-shijie.json) |
 | Duil | 161348 | [161348-duil.json](./161348-duil.json) |
 | Duilius: The Ancient Duel | 294152 | [294152-duilius-the-ancient-duel.json](./294152-duilius-the-ancient-duel.json) |
+| Dujanah | 56435 | [56435-dujanah.json](./56435-dujanah.json) |
 | Dukai | 271984 | [271984-dukai.json](./271984-dukai.json) |
 | Duke | 252099 | [252099-duke.json](./252099-duke.json) |
 | Duke 12:12 | 308332 | [308332-duke-12-12.json](./308332-duke-12-12.json) |
@@ -16488,6 +16493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke It's Zero Hour | 270656 | [270656-duke-its-zero-hour.json](./270656-duke-its-zero-hour.json) |
 | Duke Lost Episodes | 273218 | [273218-duke-lost-episodes.json](./273218-duke-lost-episodes.json) |
 | Duke Mansion | 308472 | [308472-duke-mansion.json](./308472-duke-mansion.json) |
+| Duke Nukem | 52163 | [52163-duke-nukem.json](./52163-duke-nukem.json) |
 | Duke Nukem | 957 | [957-duke-nukem.json](./957-duke-nukem.json) |
 | Duke Nukem 1+2 | 137548 | [137548-duke-nukem-1-2.json](./137548-duke-nukem-1-2.json) |
 | Duke Nukem 1+2 Remastered | 251709 | [251709-duke-nukem-1-2-remastered.json](./251709-duke-nukem-1-2-remastered.json) |
