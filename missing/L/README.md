@@ -4383,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifing | 167362 | [167362-lifing.json](./167362-lifing.json) |
 | Lifo | 185615 | [185615-lifo.json](./185615-lifo.json) |
 | Lifo Harvester | 55237 | [55237-lifo-harvester.json](./55237-lifo-harvester.json) |
+| Lift | 403390 | [403390-lift.json](./403390-lift.json) |
 | Lift | 422790 | [422790-lift.json](./422790-lift.json) |
 | Lift Up | 397072 | [397072-lift-up.json](./397072-lift-up.json) |
 | Lift Your Spirits | 225797 | [225797-lift-your-spirits.json](./225797-lift-your-spirits.json) |
