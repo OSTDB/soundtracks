@@ -3818,6 +3818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostnote | 423279 | [423279-ghostnote.json](./423279-ghostnote.json) |
 | Ghostory | 68661 | [68661-ghostory.json](./68661-ghostory.json) |
 | GhostPad | 110267 | [110267-ghostpad.json](./110267-ghostpad.json) |
+| Ghostpia Season Two | 401592 | [401592-ghostpia-season-two.json](./401592-ghostpia-season-two.json) |
 | Ghostprint | 381658 | [381658-ghostprint.json](./381658-ghostprint.json) |
 | Ghostpunk | 407757 | [407757-ghostpunk.json](./407757-ghostpunk.json) |
 | GhosTrick-The Sacred War of Light vs. Shadow | 374075 | [374075-ghostrick-the-sacred-war-of-light-vs-shadow.json](./374075-ghostrick-the-sacred-war-of-light-vs-shadow.json) |
@@ -5006,7 +5007,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyphs of the Pharaohs | 177002 | [177002-glyphs-of-the-pharaohs.json](./177002-glyphs-of-the-pharaohs.json) |
 | Glyphscape | 349401 | [349401-glyphscape.json](./349401-glyphscape.json) |
 | Glyphwing: World Geography | 417444 | [417444-glyphwing-world-geography.json](./417444-glyphwing-world-geography.json) |
+| GM Double Fall | 401556 | [401556-gm-double-fall.json](./401556-gm-double-fall.json) |
 | GM Forge - Virtual Tabletop | 100570 | [100570-gm-forge-virtual-tabletop.json](./100570-gm-forge-virtual-tabletop.json) |
+| GM Golf Challenge | 401554 | [401554-gm-golf-challenge.json](./401554-gm-golf-challenge.json) |
 | GM Hockey 2009 | 72429 | [72429-gm-hockey-2009.json](./72429-gm-hockey-2009.json) |
 | GMDX | 144168 | [144168-gmdx.json](./144168-gmdx.json) |
 | GMH: Good Morning Human! | 289246 | [289246-gmh-good-morning-human.json](./289246-gmh-good-morning-human.json) |
@@ -10773,6 +10776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyakuten Touhou Gaiden | 231784 | [231784-gyakuten-touhou-gaiden.json](./231784-gyakuten-touhou-gaiden.json) |
 | Gyakuten Vocaloid | 296162 | [296162-gyakuten-vocaloid.json](./296162-gyakuten-vocaloid.json) |
 | Gyakuten!! Puzzle Ban-Chou | 138019 | [138019-gyakuten-puzzle-ban-chou.json](./138019-gyakuten-puzzle-ban-chou.json) |
+| Gyaru Fiction | 401569 | [401569-gyaru-fiction.json](./401569-gyaru-fiction.json) |
 | Gyaru to Papakatsu: Yarichin Chuunen Oji no Enjoy PacoPaco Life | 408518 | [408518-gyaru-to-papakatsu-yarichin-chuunen-oji-no-enjoy-pacopaco-life.json](./408518-gyaru-to-papakatsu-yarichin-chuunen-oji-no-enjoy-pacopaco-life.json) |
 | Gyaru x Ota: Orikawa Kirara wa Osewa Shitai | 402456 | [402456-gyaru-x-ota-orikawa-kirara-wa-osewa-shitai.json](./402456-gyaru-x-ota-orikawa-kirara-wa-osewa-shitai.json) |
 | Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Sanpaku Yokka no Tabi | 396943 | [396943-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json](./396943-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json) |
