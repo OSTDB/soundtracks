@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Corporate Machine | 420802 | [420802-a-corporate-machine.json](./420802-a-corporate-machine.json) |
 | A Cosmic Forest | 145672 | [145672-a-cosmic-forest.json](./145672-a-cosmic-forest.json) |
 | A Cottage Story | 178774 | [178774-a-cottage-story.json](./178774-a-cottage-story.json) |
+| A Country of One | 29368 | [29368-a-country-of-one.json](./29368-a-country-of-one.json) |
 | A Couple Nights at the Chud House | 414402 | [414402-a-couple-nights-at-the-chud-house.json](./414402-a-couple-nights-at-the-chud-house.json) |
 | A Courtesan of Rome | 313819 | [313819-a-courtesan-of-rome.json](./313819-a-courtesan-of-rome.json) |
 | A Courting of Curses | 412246 | [412246-a-courting-of-curses.json](./412246-a-courting-of-curses.json) |
@@ -1437,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-2481 Remastered: Death Vault | 394808 | [394808-a-2481-remastered-death-vault.json](./394808-a-2481-remastered-death-vault.json) |
 | A-7 | 98271 | [98271-a-7.json](./98271-a-7.json) |
 | A-B-C Bowler | 93958 | [93958-a-b-c-bowler.json](./93958-a-b-c-bowler.json) |
+| A-Escape VR | 31004 | [31004-a-escape-vr.json](./31004-a-escape-vr.json) |
 | A-GA: Gekidou no Wakusei | 71939 | [71939-a-ga-gekidou-no-wakusei.json](./71939-a-ga-gekidou-no-wakusei.json) |
 | A-Gents | 33071 | [33071-a-gents.json](./33071-a-gents.json) |
 | A-Girl | 272640 | [272640-a-girl.json](./272640-a-girl.json) |
@@ -6410,6 +6412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Incident | 2168 | [2168-alien-incident.json](./2168-alien-incident.json) |
 | Alien Infection | 120915 | [120915-alien-infection.json](./120915-alien-infection.json) |
 | Alien Infestation | 139132 | [139132-alien-infestation.json](./139132-alien-infestation.json) |
+| Alien Insanity | 29377 | [29377-alien-insanity.json](./29377-alien-insanity.json) |
 | Alien Invader | 92417 | [92417-alien-invader.json](./92417-alien-invader.json) |
 | Alien Invaders | 107490 | [107490-alien-invaders.json](./107490-alien-invaders.json) |
 | Alien Invaders | 281222 | [281222-alien-invaders.json](./281222-alien-invaders.json) |
@@ -9383,6 +9386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Life: Eurasia | 269553 | [269553-animal-life-eurasia.json](./269553-animal-life-eurasia.json) |
 | Animal Life: North America | 269554 | [269554-animal-life-north-america.json](./269554-animal-life-north-america.json) |
 | Animal Links | 52404 | [52404-animal-links.json](./52404-animal-links.json) |
+| Animal Lover | 30938 | [30938-animal-lover.json](./30938-animal-lover.json) |
 | Animal Magnetism: Pochi no Daisuki | 214434 | [214434-animal-magnetism-pochi-no-daisuki.json](./214434-animal-magnetism-pochi-no-daisuki.json) |
 | Animal Maid! | 97768 | [97768-animal-maid.json](./97768-animal-maid.json) |
 | Animal Math | 73475 | [73475-animal-math.json](./73475-animal-math.json) |
@@ -12080,6 +12084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Legacy | 109354 | [109354-arcane-legacy.json](./109354-arcane-legacy.json) |
 | Arcane Legends | 60078 | [60078-arcane-legends.json](./60078-arcane-legends.json) |
 | Arcane Maelstrom | 29765 | [29765-arcane-maelstrom.json](./29765-arcane-maelstrom.json) |
+| Arcane Mapper | 29374 | [29374-arcane-mapper.json](./29374-arcane-mapper.json) |
 | Arcane Mayhem | 388424 | [388424-arcane-mayhem.json](./388424-arcane-mayhem.json) |
 | Arcane Merchant | 380788 | [380788-arcane-merchant.json](./380788-arcane-merchant.json) |
 | Arcane Overdrive | 370895 | [370895-arcane-overdrive.json](./370895-arcane-overdrive.json) |
@@ -12798,6 +12803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arizona Derby | 116376 | [116376-arizona-derby.json](./116376-arizona-derby.json) |
 | Arizona Derby 2 | 188873 | [188873-arizona-derby-2.json](./188873-arizona-derby-2.json) |
 | Arizona Rose and the Pharaohs' Riddles | 29870 | [29870-arizona-rose-and-the-pharaohs-riddles.json](./29870-arizona-rose-and-the-pharaohs-riddles.json) |
+| Arizona Rose and the Pirates' Riddles | 30994 | [30994-arizona-rose-and-the-pirates-riddles.json](./30994-arizona-rose-and-the-pirates-riddles.json) |
 | Arizona Sunshine | 18303 | [18303-arizona-sunshine.json](./18303-arizona-sunshine.json) |
 | Arizona Sunshine | 404896 | [404896-arizona-sunshine.json](./404896-arizona-sunshine.json) |
 | Arizona Sunshine II | 250628 | [250628-arizona-sunshine-ii.json](./250628-arizona-sunshine-ii.json) |
@@ -16492,6 +16498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon Jewels 2: Collector's Edition | 337222 | [337222-avalon-jewels-2-collectors-edition.json](./337222-avalon-jewels-2-collectors-edition.json) |
 | Avalon Jewels 3: Collector's Edition | 381256 | [381256-avalon-jewels-3-collectors-edition.json](./381256-avalon-jewels-3-collectors-edition.json) |
 | Avalon Legends | 80195 | [80195-avalon-legends.json](./80195-avalon-legends.json) |
+| Avalon Legends Solitaire | 29372 | [29372-avalon-legends-solitaire.json](./29372-avalon-legends-solitaire.json) |
 | Avalon Legends Solitaire 2 | 31720 | [31720-avalon-legends-solitaire-2.json](./31720-avalon-legends-solitaire-2.json) |
 | Avalon Lords | 137012 | [137012-avalon-lords.json](./137012-avalon-lords.json) |
 | Avalon Lords: Dawn Rises | 20464 | [20464-avalon-lords-dawn-rises.json](./20464-avalon-lords-dawn-rises.json) |
