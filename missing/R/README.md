@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.A.T.T.Z. Maze | 238563 | [238563-r-a-t-t-z-maze.json](./238563-r-a-t-t-z-maze.json) |
 | R.A.T#200 | 395738 | [395738-r-a-t-200.json](./395738-r-a-t-200.json) |
 | R.A.Z.I.O.N | 75512 | [75512-r-a-z-i-o-n.json](./75512-r-a-z-i-o-n.json) |
+| R.B.I Baseball 18 | 83781 | [83781-r-b-i-baseball-18.json](./83781-r-b-i-baseball-18.json) |
 | R.B.I. Baseball | 18022 | [18022-r-b-i-baseball.json](./18022-r-b-i-baseball.json) |
 | R.B.I. Baseball '93 | 46203 | [46203-r-b-i-baseball-93.json](./46203-r-b-i-baseball-93.json) |
 | R.B.I. Baseball '94 | 92260 | [92260-r-b-i-baseball-94.json](./92260-r-b-i-baseball-94.json) |
@@ -620,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Chess | 134207 | [134207-radical-chess.json](./134207-radical-chess.json) |
 | Radical Dreamers: Le Trésor Interdit | 1803 | [1803-radical-dreamers-le-tresor-interdit.json](./1803-radical-dreamers-le-tresor-interdit.json) |
 | Radical Dreamers: Le Trésor Interdit | 335489 | [335489-radical-dreamers-le-tresor-interdit.json](./335489-radical-dreamers-le-tresor-interdit.json) |
+| Radical Dungeon Sweeper | 83984 | [83984-radical-dungeon-sweeper.json](./83984-radical-dungeon-sweeper.json) |
 | Radical Fishing | 283311 | [283311-radical-fishing.json](./283311-radical-fishing.json) |
 | Radical Friday | 365619 | [365619-radical-friday.json](./365619-radical-friday.json) |
 | Radical Heights | 96239 | [96239-radical-heights.json](./96239-radical-heights.json) |
@@ -8676,6 +8678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band Track Pack: Classic Rock | 91207 | [91207-rock-band-track-pack-classic-rock.json](./91207-rock-band-track-pack-classic-rock.json) |
 | Rock Band Unplugged | 2721 | [2721-rock-band-unplugged.json](./2721-rock-band-unplugged.json) |
 | Rock Band VR | 26988 | [26988-rock-band-vr.json](./26988-rock-band-vr.json) |
+| Rock Band: Country Track Pack | 68407 | [68407-rock-band-country-track-pack.json](./68407-rock-band-country-track-pack.json) |
 | Rock Band: Metal Track Pack | 67778 | [67778-rock-band-metal-track-pack.json](./67778-rock-band-metal-track-pack.json) |
 | Rock Band: Track Pack - Volume 2 | 80287 | [80287-rock-band-track-pack-volume-2.json](./80287-rock-band-track-pack-volume-2.json) |
 | Rock Blast | 47778 | [47778-rock-blast.json](./47778-rock-blast.json) |
@@ -11211,6 +11214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby League Live 2: World Cup Edition | 194940 | [194940-rugby-league-live-2-world-cup-edition.json](./194940-rugby-league-live-2-world-cup-edition.json) |
 | Rugby League Live 3 | 17623 | [17623-rugby-league-live-3.json](./17623-rugby-league-live-3.json) |
 | Rugby League Live 4 | 43061 | [43061-rugby-league-live-4.json](./43061-rugby-league-live-4.json) |
+| Rugby League Live 4: World Cup Edition | 83777 | [83777-rugby-league-live-4-world-cup-edition.json](./83777-rugby-league-live-4-world-cup-edition.json) |
 | Rugby League Raw | 385080 | [385080-rugby-league-raw.json](./385080-rugby-league-raw.json) |
 | Rugby League Riot | 274478 | [274478-rugby-league-riot.json](./274478-rugby-league-riot.json) |
 | Rugby League Team Manager 2015 | 35315 | [35315-rugby-league-team-manager-2015.json](./35315-rugby-league-team-manager-2015.json) |
