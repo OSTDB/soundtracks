@@ -708,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution STR!KE | 128003 | [128003-dance-dance-revolution-str-ke.json](./128003-dance-dance-revolution-str-ke.json) |
 | Dance Dance Revolution Supernova | 6779 | [6779-dance-dance-revolution-supernova.json](./6779-dance-dance-revolution-supernova.json) |
 | Dance Dance Revolution Supernova 2 | 6780 | [6780-dance-dance-revolution-supernova-2.json](./6780-dance-dance-revolution-supernova-2.json) |
+| Dance Dance Revolution Ultramix 2 | 5800 | [5800-dance-dance-revolution-ultramix-2.json](./5800-dance-dance-revolution-ultramix-2.json) |
 | Dance Dance Revolution Ultramix 3 | 5801 | [5801-dance-dance-revolution-ultramix-3.json](./5801-dance-dance-revolution-ultramix-3.json) |
 | Dance Dance Revolution Ultramix 4 | 5802 | [5802-dance-dance-revolution-ultramix-4.json](./5802-dance-dance-revolution-ultramix-4.json) |
 | Dance Dance Revolution Universe 3 | 6955 | [6955-dance-dance-revolution-universe-3.json](./6955-dance-dance-revolution-universe-3.json) |
@@ -4500,6 +4501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathpuddle: Choose Violence? | 309459 | [309459-deathpuddle-choose-violence.json](./309459-deathpuddle-choose-violence.json) |
 | Deathray | 285010 | [285010-deathray.json](./285010-deathray.json) |
 | DeathRoll | 307000 | [307000-deathroll.json](./307000-deathroll.json) |
+| Deathrow | 5811 | [5811-deathrow.json](./5811-deathrow.json) |
 | Deathrun | 276214 | [276214-deathrun.json](./276214-deathrun.json) |
 | Deathrun | 361030 | [361030-deathrun.json](./361030-deathrun.json) |
 | Deathrun Guys | 215176 | [215176-deathrun-guys.json](./215176-deathrun-guys.json) |
@@ -13101,6 +13103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down the World: Mervil's Ambition | 42513 | [42513-down-the-world-mervils-ambition.json](./42513-down-the-world-mervils-ambition.json) |
 | Down There Somewhere | 269031 | [269031-down-there-somewhere.json](./269031-down-there-somewhere.json) |
 | Down to Earth | 14039 | [14039-down-to-earth.json](./14039-down-to-earth.json) |
+| Down to One | 16127 | [16127-down-to-one.json](./16127-down-to-one.json) |
 | Down Under | 252397 | [252397-down-under.json](./252397-down-under.json) |
 | Down Under | 314617 | [314617-down-under.json](./314617-down-under.json) |
 | Down Ward | 126429 | [126429-down-ward.json](./126429-down-ward.json) |
@@ -13207,6 +13210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr GreenStuff | 75216 | [75216-dr-greenstuff.json](./75216-dr-greenstuff.json) |
 | Dr Iwan | 167598 | [167598-dr-iwan.json](./167598-dr-iwan.json) |
 | Dr Jugo | 404446 | [404446-dr-jugo.json](./404446-dr-jugo.json) |
+| Dr Kawashima's Devilish Brain Training | 5680 | [5680-dr-kawashimas-devilish-brain-training.json](./5680-dr-kawashimas-devilish-brain-training.json) |
 | Dr Livesey Rom and Death Edition | 224897 | [224897-dr-livesey-rom-and-death-edition.json](./224897-dr-livesey-rom-and-death-edition.json) |
 | Dr Livingstone, I Presume? | 148338 | [148338-dr-livingstone-i-presume.json](./148338-dr-livingstone-i-presume.json) |
 | Dr Livingstone, I Presume?: Digital Deluxe Edition | 167178 | [167178-dr-livingstone-i-presume-digital-deluxe-edition.json](./167178-dr-livingstone-i-presume-digital-deluxe-edition.json) |
@@ -13235,6 +13239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Chaos: Shadows of Mars | 268760 | [268760-dr-chaos-shadows-of-mars.json](./268760-dr-chaos-shadows-of-mars.json) |
 | Dr. Chatelet: Faith | 207757 | [207757-dr-chatelet-faith.json](./207757-dr-chatelet-faith.json) |
 | Dr. Chess | 268534 | [268534-dr-chess.json](./268534-dr-chess.json) |
+| Dr. Daisy Pet Vet | 15790 | [15790-dr-daisy-pet-vet.json](./15790-dr-daisy-pet-vet.json) |
 | Dr. Dental | 385549 | [385549-dr-dental.json](./385549-dr-dental.json) |
 | Dr. Derk's Mutant Battlegrounds | 120604 | [120604-dr-derks-mutant-battlegrounds.json](./120604-dr-derks-mutant-battlegrounds.json) |
 | Dr. Despicable's Dastardly Deeds | 296194 | [296194-dr-despicables-dastardly-deeds.json](./296194-dr-despicables-dastardly-deeds.json) |
