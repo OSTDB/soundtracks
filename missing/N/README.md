@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanali in another world | 226195 | [226195-nanali-in-another-world.json](./226195-nanali-in-another-world.json) |
 | Naname de Magic! | 213831 | [213831-naname-de-magic.json](./213831-naname-de-magic.json) |
 | Nananana Tamago | 320798 | [320798-nananana-tamago.json](./320798-nananana-tamago.json) |
+| Nanashi no Game | 67979 | [67979-nanashi-no-game.json](./67979-nanashi-no-game.json) |
 | Nanatama: Chronicle of Dungeon Maker | 59366 | [59366-nanatama-chronicle-of-dungeon-maker.json](./59366-nanatama-chronicle-of-dungeon-maker.json) |
 | Nanatsu Kaze no Shima Monogatari | 18493 | [18493-nanatsu-kaze-no-shima-monogatari.json](./18493-nanatsu-kaze-no-shima-monogatari.json) |
 | Nanatsu no Hikan | 137031 | [137031-nanatsu-no-hikan.json](./137031-nanatsu-no-hikan.json) |
