@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Branch: Blossom Puzzle | 418323 | [418323-sakura-branch-blossom-puzzle.json](./418323-sakura-branch-blossom-puzzle.json) |
 | Sakura Bunny Girls 2 | 355079 | [355079-sakura-bunny-girls-2.json](./355079-sakura-bunny-girls-2.json) |
 | Sakura Clicker | 34950 | [34950-sakura-clicker.json](./34950-sakura-clicker.json) |
+| Sakura Cupid | 83974 | [83974-sakura-cupid.json](./83974-sakura-cupid.json) |
 | Sakura Day 2 Mahjong | 100216 | [100216-sakura-day-2-mahjong.json](./100216-sakura-day-2-mahjong.json) |
 | Sakura Day Mahjong | 99363 | [99363-sakura-day-mahjong.json](./99363-sakura-day-mahjong.json) |
 | Sakura Dimensions | 292694 | [292694-sakura-dimensions.json](./292694-sakura-dimensions.json) |
@@ -8256,6 +8257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shitty Game | 374645 | [374645-shitty-game.json](./374645-shitty-game.json) |
 | Shivah | 7418 | [7418-shivah.json](./7418-shivah.json) |
 | Shiver | 325717 | [325717-shiver.json](./325717-shiver.json) |
+| Shiver | 83877 | [83877-shiver.json](./83877-shiver.json) |
 | Shiver 3D | 152771 | [152771-shiver-3d.json](./152771-shiver-3d.json) |
 | Shiver: Poltergeist | 139739 | [139739-shiver-poltergeist.json](./139739-shiver-poltergeist.json) |
 | Shiver: Poltergeist - Collector's Edition | 30895 | [30895-shiver-poltergeist-collectors-edition.json](./30895-shiver-poltergeist-collectors-edition.json) |
@@ -14216,6 +14218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniperbot: The Hype Game | 291954 | [291954-sniperbot-the-hype-game.json](./291954-sniperbot-the-hype-game.json) |
 | Sniperpunk | 189144 | [189144-sniperpunk.json](./189144-sniperpunk.json) |
 | Snipers vs Thieves: FPS Clash | 87513 | [87513-snipers-vs-thieves-fps-clash.json](./87513-snipers-vs-thieves-fps-clash.json) |
+| Snipers: Invisible, Silent, Deadly | 83883 | [83883-snipers-invisible-silent-deadly.json](./83883-snipers-invisible-silent-deadly.json) |
 | Snipes | 25147 | [25147-snipes.json](./25147-snipes.json) |
 | SnipZ | 30729 | [30729-snipz.json](./30729-snipz.json) |
 | SNK 40th Anniversary Collection | 96198 | [96198-snk-40th-anniversary-collection.json](./96198-snk-40th-anniversary-collection.json) |
@@ -18272,7 +18275,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23175,6 +23177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbites | 235475 | [235475-starbites.json](./235475-starbites.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
 | StarBlade Alpha | 59118 | [59118-starblade-alpha.json](./59118-starblade-alpha.json) |
+| Starblast | 68515 | [68515-starblast.json](./68515-starblast.json) |
 | Starblast: Retro Wars | 190367 | [190367-starblast-retro-wars.json](./190367-starblast-retro-wars.json) |
 | Starblaze | 42133 | [42133-starblaze.json](./42133-starblaze.json) |
 | Starblazer | 112773 | [112773-starblazer.json](./112773-starblazer.json) |
@@ -27490,6 +27493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Touch | 88415 | [88415-sudoku-touch.json](./88415-sudoku-touch.json) |
 | Sudoku Universe | 121747 | [121747-sudoku-universe.json](./121747-sudoku-universe.json) |
 | Sudoku Universe | 122322 | [122322-sudoku-universe.json](./122322-sudoku-universe.json) |
+| Sudoku Universe | 84130 | [84130-sudoku-universe.json](./84130-sudoku-universe.json) |
 | Sudoku Uno | 87305 | [87305-sudoku-uno.json](./87305-sudoku-uno.json) |
 | Sudoku Vacation 2 | 234646 | [234646-sudoku-vacation-2.json](./234646-sudoku-vacation-2.json) |
 | Sudoku Variants by Logic Wiz | 263911 | [263911-sudoku-variants-by-logic-wiz.json](./263911-sudoku-variants-by-logic-wiz.json) |
