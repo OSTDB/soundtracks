@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamikuishiki-mura Monogatari | 130768 | [130768-kamikuishiki-mura-monogatari.json](./130768-kamikuishiki-mura-monogatari.json) |
 | Kamikura Hina no Himitsu: Gohoubi ha Watashi no Karada | 396484 | [396484-kamikura-hina-no-himitsu-gohoubi-ha-watashi-no-karada.json](./396484-kamikura-hina-no-himitsu-gohoubi-ha-watashi-no-karada.json) |
 | Kamile VR | 121527 | [121527-kamile-vr.json](./121527-kamile-vr.json) |
+| Kamile: The Fall | 122058 | [122058-kamile-the-fall.json](./122058-kamile-the-fall.json) |
 | Kamilia | 336672 | [336672-kamilia.json](./336672-kamilia.json) |
 | Kamimachi Site - Dating story | 118287 | [118287-kamimachi-site-dating-story.json](./118287-kamimachi-site-dating-story.json) |
 | Kaminariko Konpeki no Akira | 221246 | [221246-kaminariko-konpeki-no-akira.json](./221246-kaminariko-konpeki-no-akira.json) |
@@ -867,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Beasts | 215591 | [215591-karate-beasts.json](./215591-karate-beasts.json) |
 | Karate Blazers | 39579 | [39579-karate-blazers.json](./39579-karate-blazers.json) |
 | Karate Bros | 336067 | [336067-karate-bros.json](./336067-karate-bros.json) |
+| Karate Cat | 122815 | [122815-karate-cat.json](./122815-karate-cat.json) |
 | Karate Challenge | 421220 | [421220-karate-challenge.json](./421220-karate-challenge.json) |
 | Karate Champ | 25835 | [25835-karate-champ.json](./25835-karate-champ.json) |
 | Karate Champ | 285600 | [285600-karate-champ.json](./285600-karate-champ.json) |
@@ -1837,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Key Gunner | 333659 | [333659-key-gunner.json](./333659-key-gunner.json) |
 | Key Hunters DX | 266206 | [266206-key-hunters-dx.json](./266206-key-hunters-dx.json) |
 | Key La Box | 242064 | [242064-key-la-box.json](./242064-key-la-box.json) |
+| Key of Impasse | 107765 | [107765-key-of-impasse.json](./107765-key-of-impasse.json) |
 | Key Of The Magic | 376128 | [376128-key-of-the-magic.json](./376128-key-of-the-magic.json) |
 | Key to Heaven | 143559 | [143559-key-to-heaven.json](./143559-key-to-heaven.json) |
 | Key: Maze of Illusions | 191545 | [191545-key-maze-of-illusions.json](./191545-key-maze-of-illusions.json) |
@@ -2166,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Senshi Gundam: Giren no Yabou - Kouryaku Shireisho | 176117 | [176117-kidou-senshi-gundam-giren-no-yabou-kouryaku-shireisho.json](./176117-kidou-senshi-gundam-giren-no-yabou-kouryaku-shireisho.json) |
 | Kidou Senshi Gundam: Giren no Yabou - Tokubetsu-hen Aokisei no Hasha | 37367 | [37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json](./37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json) |
 | Kidou Senshi Gundam: Gundam vs. Gundam | 269497 | [269497-kidou-senshi-gundam-gundam-vs-gundam.json](./269497-kidou-senshi-gundam-gundam-vs-gundam.json) |
+| Kidou Senshi Gundam: Gundam vs. Z Gundam | 123341 | [123341-kidou-senshi-gundam-gundam-vs-z-gundam.json](./123341-kidou-senshi-gundam-gundam-vs-z-gundam.json) |
 | Kidou Senshi Gundam: Senjou No Kizuna Portable | 56744 | [56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json](./56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json) |
 | Kidou Senshi Gundam: Senshi-tachi no Kiseki | 3965 | [3965-kidou-senshi-gundam-senshi-tachi-no-kiseki.json](./3965-kidou-senshi-gundam-senshi-tachi-no-kiseki.json) |
 | Kidou Senshi V-Gundam | 42518 | [42518-kidou-senshi-v-gundam.json](./42518-kidou-senshi-v-gundam.json) |
@@ -2656,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
