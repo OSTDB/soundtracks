@@ -4566,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whose Lawn Is It Anyway | 401034 | [401034-whose-lawn-is-it-anyway.json](./401034-whose-lawn-is-it-anyway.json) |
 | Whotfire | 346907 | [346907-whotfire.json](./346907-whotfire.json) |
 | Why | 257413 | [257413-why.json](./257413-why.json) |
+| Why Am I Dead At Sea | 35525 | [35525-why-am-i-dead-at-sea.json](./35525-why-am-i-dead-at-sea.json) |
 | Why Am I Dead: Rebirth | 101862 | [101862-why-am-i-dead-rebirth.json](./101862-why-am-i-dead-rebirth.json) |
 | Why Are My Prefects So Hot!!? | 419950 | [419950-why-are-my-prefects-so-hot.json](./419950-why-are-my-prefects-so-hot.json) |
 | Why Can't I Just Speak Normally to My High School Crush?! | 177190 | [177190-why-cant-i-just-speak-normally-to-my-high-school-crush.json](./177190-why-cant-i-just-speak-normally-to-my-high-school-crush.json) |
@@ -8629,6 +8630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wurd Torn | 58230 | [58230-wurd-torn.json](./58230-wurd-torn.json) |
 | Wurdle | 105533 | [105533-wurdle.json](./105533-wurdle.json) |
 | Wurdweb | 165047 | [165047-wurdweb.json](./165047-wurdweb.json) |
+| Wurm Unlimited | 35375 | [35375-wurm-unlimited.json](./35375-wurm-unlimited.json) |
 | Wurmus | 181389 | [181389-wurmus.json](./181389-wurmus.json) |
 | Wurps | 91583 | [91583-wurps.json](./91583-wurps.json) |
 | Wurst and Glory | 415115 | [415115-wurst-and-glory.json](./415115-wurst-and-glory.json) |
