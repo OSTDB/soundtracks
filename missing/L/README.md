@@ -2982,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel Super Heroes 2: Cloak and Dagger Character and Level Pack | 137318 | [137318-lego-marvel-super-heroes-2-cloak-and-dagger-character-and-level-pack.json](./137318-lego-marvel-super-heroes-2-cloak-and-dagger-character-and-level-pack.json) |
 | LEGO Marvel Super Heroes 2: Deluxe Edition | 54167 | [54167-lego-marvel-super-heroes-2-deluxe-edition.json](./54167-lego-marvel-super-heroes-2-deluxe-edition.json) |
 | LEGO Marvel Super Heroes 2: Marvel's Ant-Man and the Wasp Level and Character Pack | 168783 | [168783-lego-marvel-super-heroes-2-marvels-ant-man-and-the-wasp-level-and-character-pack.json](./168783-lego-marvel-super-heroes-2-marvels-ant-man-and-the-wasp-level-and-character-pack.json) |
+| LEGO Marvel Super Heroes 2: Marvel's Avengers - Infinity War Level and Character Pack | 168784 | [168784-lego-marvel-super-heroes-2-marvels-avengers-infinity-war-level-and-character-pack.json](./168784-lego-marvel-super-heroes-2-marvels-avengers-infinity-war-level-and-character-pack.json) |
 | LEGO Marvel Super Heroes 2: Marvel's Guardians of the Galaxy - Vol. 2 Movie Level Pack | 137309 | [137309-lego-marvel-super-heroes-2-marvels-guardians-of-the-galaxy-vol-2-movie-level-pack.json](./137309-lego-marvel-super-heroes-2-marvels-guardians-of-the-galaxy-vol-2-movie-level-pack.json) |
 | LEGO Marvel Super Heroes 2: Runaways Level and Character Pack | 137311 | [137311-lego-marvel-super-heroes-2-runaways-level-and-character-pack.json](./137311-lego-marvel-super-heroes-2-runaways-level-and-character-pack.json) |
 | LEGO Marvel Super Heroes: Asgard Character Pack | 101063 | [101063-lego-marvel-super-heroes-asgard-character-pack.json](./101063-lego-marvel-super-heroes-asgard-character-pack.json) |
@@ -3597,9 +3598,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2021: Hits Français et Internationaux Solo | 137084 | [137084-lets-sing-2021-hits-francais-et-internationaux-solo.json](./137084-lets-sing-2021-hits-francais-et-internationaux-solo.json) |
 | Let's Sing 2021: Mit Deutschen Hits | 146150 | [146150-lets-sing-2021-mit-deutschen-hits.json](./146150-lets-sing-2021-mit-deutschen-hits.json) |
 | Let's Sing 2021: Platinum Edition | 175532 | [175532-lets-sing-2021-platinum-edition.json](./175532-lets-sing-2021-platinum-edition.json) |
+| Let's Sing 2022 | 168550 | [168550-lets-sing-2022.json](./168550-lets-sing-2022.json) |
 | Let's Sing 2022: Chinese Version | 215361 | [215361-lets-sing-2022-chinese-version.json](./215361-lets-sing-2022-chinese-version.json) |
 | Let's Sing 2022: French Version | 175978 | [175978-lets-sing-2022-french-version.json](./175978-lets-sing-2022-french-version.json) |
 | Let's Sing 2022: Platinum Edition | 185980 | [185980-lets-sing-2022-platinum-edition.json](./185980-lets-sing-2022-platinum-edition.json) |
+| Let's Sing 2023: Eurovision Hits Song Pack | 249597 | [249597-lets-sing-2023-eurovision-hits-song-pack.json](./249597-lets-sing-2023-eurovision-hits-song-pack.json) |
 | Let's Sing 2023: Incluye Canciones Españolas | 221328 | [221328-lets-sing-2023-incluye-canciones-espanolas.json](./221328-lets-sing-2023-incluye-canciones-espanolas.json) |
 | Let's Sing 2023: Platinum Edition | 225829 | [225829-lets-sing-2023-platinum-edition.json](./225829-lets-sing-2023-platinum-edition.json) |
 | Let's Sing 2024 with International Hits | 268592 | [268592-lets-sing-2024-with-international-hits.json](./268592-lets-sing-2024-with-international-hits.json) |
@@ -5295,6 +5298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa the Vegaful | 172483 | [172483-lisa-the-vegaful.json](./172483-lisa-the-vegaful.json) |
 | Lisa to Issho ni Tairiku Oudan: A-Ressha de Ikou | 56555 | [56555-lisa-to-issho-ni-tairiku-oudan-a-ressha-de-ikou.json](./56555-lisa-to-issho-ni-tairiku-oudan-a-ressha-de-ikou.json) |
 | Lisa Total Investigation! | 277994 | [277994-lisa-total-investigation.json](./277994-lisa-total-investigation.json) |
+| Lisa: Definitive Edition | 252184 | [252184-lisa-definitive-edition.json](./252184-lisa-definitive-edition.json) |
 | Lisa: Is Fearless | 172490 | [172490-lisa-is-fearless.json](./172490-lisa-is-fearless.json) |
 | Lisa: Paradise | 370093 | [370093-lisa-paradise.json](./370093-lisa-paradise.json) |
 | Lisa: The Bashful | 172484 | [172484-lisa-the-bashful.json](./172484-lisa-the-bashful.json) |
@@ -9512,6 +9516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lys and Ruka's Magical Bag | 206202 | [206202-lys-and-rukas-magical-bag.json](./206202-lys-and-rukas-magical-bag.json) |
 | Lyser | 118982 | [118982-lyser.json](./118982-lyser.json) |
 | Lyset Core | 377911 | [377911-lyset-core.json](./377911-lyset-core.json) |
+| Lysfanga: The Time Shift Warrior | 252491 | [252491-lysfanga-the-time-shift-warrior.json](./252491-lysfanga-the-time-shift-warrior.json) |
 | Lysium: Stardiver | 314505 | [314505-lysium-stardiver.json](./314505-lysium-stardiver.json) |
 | Lysogenesis | 203638 | [203638-lysogenesis.json](./203638-lysogenesis.json) |
 | Lyssa | 260122 | [260122-lyssa.json](./260122-lyssa.json) |
