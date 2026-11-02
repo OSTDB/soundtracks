@@ -4346,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires III: The WarChiefs | 3017 | [3017-age-of-empires-iii-the-warchiefs.json](./3017-age-of-empires-iii-the-warchiefs.json) |
 | Age of Empires IV: Dynasties of the East | 361886 | [361886-age-of-empires-iv-dynasties-of-the-east.json](./361886-age-of-empires-iv-dynasties-of-the-east.json) |
 | Age of Empires IV: Raiders of the North | 405077 | [405077-age-of-empires-iv-raiders-of-the-north.json](./405077-age-of-empires-iv-raiders-of-the-north.json) |
+| Age of Empires IV: Yue Fei's Legacy | 400928 | [400928-age-of-empires-iv-yue-feis-legacy.json](./400928-age-of-empires-iv-yue-feis-legacy.json) |
 | Age of Empires Mobile | 280839 | [280839-age-of-empires-mobile.json](./280839-age-of-empires-mobile.json) |
 | Age of Empires Mobile: PC Edition | 408535 | [408535-age-of-empires-mobile-pc-edition.json](./408535-age-of-empires-mobile-pc-edition.json) |
 | Age of Empires Online: Celeste Fan Project | 131926 | [131926-age-of-empires-online-celeste-fan-project.json](./131926-age-of-empires-online-celeste-fan-project.json) |
@@ -15357,6 +15358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Least There is Ceda Cedovic | 138591 | [138591-at-least-there-is-ceda-cedovic.json](./138591-at-least-there-is-ceda-cedovic.json) |
 | At Night | 377303 | [377303-at-night.json](./377303-at-night.json) |
 | At Night : Freakshow | 406664 | [406664-at-night-freakshow.json](./406664-at-night-freakshow.json) |
+| At Night: Haunted Ride | 400723 | [400723-at-night-haunted-ride.json](./400723-at-night-haunted-ride.json) |
 | At Night: The Nurse | 388279 | [388279-at-night-the-nurse.json](./388279-at-night-the-nurse.json) |
 | At Night: The Student | 385371 | [385371-at-night-the-student.json](./385371-at-night-the-student.json) |
 | At Odds | 176183 | [176183-at-odds.json](./176183-at-odds.json) |
