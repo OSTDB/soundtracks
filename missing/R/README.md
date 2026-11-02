@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Fighter | 147141 | [147141-ragdoll-fighter.json](./147141-ragdoll-fighter.json) |
 | Ragdoll Funhouse | 202532 | [202532-ragdoll-funhouse.json](./202532-ragdoll-funhouse.json) |
 | Ragdoll Game | 212170 | [212170-ragdoll-game.json](./212170-ragdoll-game.json) |
+| Ragdoll Homicide | 409116 | [409116-ragdoll-homicide.json](./409116-ragdoll-homicide.json) |
 | Ragdoll Kanojo | 174117 | [174117-ragdoll-kanojo.json](./174117-ragdoll-kanojo.json) |
 | Ragdoll Knight | 158911 | [158911-ragdoll-knight.json](./158911-ragdoll-knight.json) |
 | Ragdoll LABS | 204069 | [204069-ragdoll-labs.json](./204069-ragdoll-labs.json) |
@@ -2086,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rätsel & Denkspiele Extra | 91602 | [91602-ratsel-and-denkspiele-extra.json](./91602-ratsel-and-denkspiele-extra.json) |
 | Ratshaker | 321428 | [321428-ratshaker.json](./321428-ratshaker.json) |
 | Ratshaker: Rat-Chan Pack | 395801 | [395801-ratshaker-rat-chan-pack.json](./395801-ratshaker-rat-chan-pack.json) |
+| Ratshaker: Ratsummer Pack | 408401 | [408401-ratshaker-ratsummer-pack.json](./408401-ratshaker-ratsummer-pack.json) |
 | Ratshot | 376215 | [376215-ratshot.json](./376215-ratshot.json) |
 | Ratstronaut | 362912 | [362912-ratstronaut.json](./362912-ratstronaut.json) |
 | Ratten Reich | 195961 | [195961-ratten-reich.json](./195961-ratten-reich.json) |
@@ -2314,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Arena | 78173 | [78173-rayman-arena.json](./78173-rayman-arena.json) |
 | Rayman Arena Definitive Edition | 229622 | [229622-rayman-arena-definitive-edition.json](./229622-rayman-arena-definitive-edition.json) |
 | Rayman Brain Games | 1964 | [1964-rayman-brain-games.json](./1964-rayman-brain-games.json) |
+| Rayman Bundle | 409325 | [409325-rayman-bundle.json](./409325-rayman-bundle.json) |
 | Rayman By His Fans | 61097 | [61097-rayman-by-his-fans.json](./61097-rayman-by-his-fans.json) |
 | Rayman Classic | 193319 | [193319-rayman-classic.json](./193319-rayman-classic.json) |
 | Rayman Collection | 193356 | [193356-rayman-collection.json](./193356-rayman-collection.json) |
@@ -2679,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready or Die | 389071 | [389071-ready-or-die.json](./389071-ready-or-die.json) |
 | Ready or Not: Boiling Point | 394376 | [394376-ready-or-not-boiling-point.json](./394376-ready-or-not-boiling-point.json) |
 | Ready or Not: Dark Waters | 324580 | [324580-ready-or-not-dark-waters.json](./324580-ready-or-not-dark-waters.json) |
+| Ready or Not: The Deadline is Coming! | 409095 | [409095-ready-or-not-the-deadline-is-coming.json](./409095-ready-or-not-the-deadline-is-coming.json) |
 | Ready or Not: VRO Mod | 360775 | [360775-ready-or-not-vro-mod.json](./360775-ready-or-not-vro-mod.json) |
 | Ready or Nowhere | 413370 | [413370-ready-or-nowhere.json](./413370-ready-or-nowhere.json) |
 | Ready Player Fuck | 97689 | [97689-ready-player-fuck.json](./97689-ready-player-fuck.json) |
@@ -6219,6 +6223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Problem | 326142 | [326142-reverse-problem.json](./326142-reverse-problem.json) |
 | Reverse Side | 17733 | [17733-reverse-side.json](./17733-reverse-side.json) |
 | Reverse Snake Extreme | 305823 | [305823-reverse-snake-extreme.json](./305823-reverse-snake-extreme.json) |
+| Reverse Survivors | 408394 | [408394-reverse-survivors.json](./408394-reverse-survivors.json) |
 | Reverse T-gotchi | 418390 | [418390-reverse-t-gotchi.json](./418390-reverse-t-gotchi.json) |
 | Reverse Twinkle | 206505 | [206505-reverse-twinkle.json](./206505-reverse-twinkle.json) |
 | Reverse Will | 277499 | [277499-reverse-will.json](./277499-reverse-will.json) |
@@ -6372,6 +6377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rework | 310507 | [310507-rework.json](./310507-rework.json) |
 | Reworld | 130807 | [130807-reworld.json](./130807-reworld.json) |
 | Reworld | 193800 | [193800-reworld.json](./193800-reworld.json) |
+| Rewound | 408417 | [408417-rewound.json](./408417-rewound.json) |
 | Rewoven Self | 377635 | [377635-rewoven-self.json](./377635-rewoven-self.json) |
 | Rewrite - DYH | 142892 | [142892-rewrite-dyh.json](./142892-rewrite-dyh.json) |
 | Rewrite Harvest festa! | 144733 | [144733-rewrite-harvest-festa.json](./144733-rewrite-harvest-festa.json) |
@@ -7095,6 +7101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riftnote | 158920 | [158920-riftnote.json](./158920-riftnote.json) |
 | Riftopia | 346234 | [346234-riftopia.json](./346234-riftopia.json) |
 | Riftshot | 417536 | [417536-riftshot.json](./417536-riftshot.json) |
+| Riftslayer | 410626 | [410626-riftslayer.json](./410626-riftslayer.json) |
 | RiftSpace | 15115 | [15115-riftspace.json](./15115-riftspace.json) |
 | RiftStar Raiders | 27103 | [27103-riftstar-raiders.json](./27103-riftstar-raiders.json) |
 | Riftstorm | 244671 | [244671-riftstorm.json](./244671-riftstorm.json) |
@@ -9354,6 +9361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodent Company | 387587 | [387587-rodent-company.json](./387587-rodent-company.json) |
 | Rodent Rampage | 393127 | [393127-rodent-rampage.json](./393127-rodent-rampage.json) |
 | Rodent Retribution | 275707 | [275707-rodent-retribution.json](./275707-rodent-retribution.json) |
+| Rodent Road Rage | 409128 | [409128-rodent-road-rage.json](./409128-rodent-road-rage.json) |
 | Rodent Rooms | 403449 | [403449-rodent-rooms.json](./403449-rodent-rooms.json) |
 | Rodent Rumble | 272943 | [272943-rodent-rumble.json](./272943-rodent-rumble.json) |
 | Rodent Warriors | 114081 | [114081-rodent-warriors.json](./114081-rodent-warriors.json) |
@@ -10261,6 +10269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Run | 403330 | [403330-rooftop-run.json](./403330-rooftop-run.json) |
 | Rooftop Story | 370717 | [370717-rooftop-story.json](./370717-rooftop-story.json) |
 | Rooftops & Alleys: The Parkour Game | 279900 | [279900-rooftops-and-alleys-the-parkour-game.json](./279900-rooftops-and-alleys-the-parkour-game.json) |
+| Rooftops and Alleys: The Parkour Game - Ninja Pack DLC | 409952 | [409952-rooftops-and-alleys-the-parkour-game-ninja-pack-dlc.json](./409952-rooftops-and-alleys-the-parkour-game-ninja-pack-dlc.json) |
 | Rooftops Jam | 421431 | [421431-rooftops-jam.json](./421431-rooftops-jam.json) |
 | Roogoo | 5128 | [5128-roogoo.json](./5128-roogoo.json) |
 | Roogoo Attack! | 21242 | [21242-roogoo-attack.json](./21242-roogoo-attack.json) |
@@ -11830,6 +11839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Worth: Kokui no Kikoushi | 243950 | [243950-rune-worth-kokui-no-kikoushi.json](./243950-rune-worth-kokui-no-kikoushi.json) |
 | Rune: Gold | 300409 | [300409-rune-gold.json](./300409-rune-gold.json) |
 | Rune: Halls of Valhalla | 70737 | [70737-rune-halls-of-valhalla.json](./70737-rune-halls-of-valhalla.json) |
+| Runeboard | 408402 | [408402-runeboard.json](./408402-runeboard.json) |
 | Runebook | 413777 | [413777-runebook.json](./413777-runebook.json) |
 | Runeborn | 317052 | [317052-runeborn.json](./317052-runeborn.json) |
 | Runebound | 390671 | [390671-runebound.json](./390671-runebound.json) |
