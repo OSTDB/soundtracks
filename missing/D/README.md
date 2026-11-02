@@ -15918,6 +15918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drowning, Drowning | 144234 | [144234-drowning-drowning.json](./144234-drowning-drowning.json) |
 | Drownlight | 338324 | [338324-drownlight.json](./338324-drownlight.json) |
 | Drownload | 376036 | [376036-drownload.json](./376036-drownload.json) |
+| Drox Operative | 8753 | [8753-drox-operative.json](./8753-drox-operative.json) |
 | Drox Operative 2 | 134503 | [134503-drox-operative-2.json](./134503-drox-operative-2.json) |
 | Drox Operative: Invasion of the Ancients | 8754 | [8754-drox-operative-invasion-of-the-ancients.json](./8754-drox-operative-invasion-of-the-ancients.json) |
 | Druaga Online: The Story of Aon | 54947 | [54947-druaga-online-the-story-of-aon.json](./54947-druaga-online-the-story-of-aon.json) |
