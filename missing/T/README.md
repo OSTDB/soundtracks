@@ -9360,6 +9360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gardener Simulator: Plant, Grow, Decorate, Build Sim | 283234 | [283234-the-gardener-simulator-plant-grow-decorate-build-sim.json](./283234-the-gardener-simulator-plant-grow-decorate-build-sim.json) |
 | The Gardens Between | 27324 | [27324-the-gardens-between.json](./27324-the-gardens-between.json) |
 | The Gas Station: Graveyard Shift | 379883 | [379883-the-gas-station-graveyard-shift.json](./379883-the-gas-station-graveyard-shift.json) |
+| The Gassal | 425882 | [425882-the-gassal.json](./425882-the-gassal.json) |
 | The Gate | 273217 | [273217-the-gate.json](./273217-the-gate.json) |
 | The Gate | 319411 | [319411-the-gate.json](./319411-the-gate.json) |
 | The Gate | 323315 | [323315-the-gate.json](./323315-the-gate.json) |
@@ -12620,6 +12621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Machinery | 271747 | [271747-the-machinery.json](./271747-the-machinery.json) |
 | The Machines | 95765 | [95765-the-machines.json](./95765-the-machines.json) |
 | The Machines Arena | 165283 | [165283-the-machines-arena.json](./165283-the-machines-arena.json) |
+| The Machinist | 425880 | [425880-the-machinist.json](./425880-the-machinist.json) |
 | The Mad Pantser | 339185 | [339185-the-mad-pantser.json](./339185-the-mad-pantser.json) |
 | The Madman | 205274 | [205274-the-madman.json](./205274-the-madman.json) |
 | The Madness of Death | 214182 | [214182-the-madness-of-death.json](./214182-the-madness-of-death.json) |
@@ -25232,6 +25234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower | 91640 | [91640-tower.json](./91640-tower.json) |
 | Tower 22 | 79383 | [79383-tower-22.json](./79383-tower-22.json) |
 | Tower 57 | 28302 | [28302-tower-57.json](./28302-tower-57.json) |
+| Tower 6: Last Signal | 425883 | [425883-tower-6-last-signal.json](./425883-tower-6-last-signal.json) |
 | Tower Accelerator | 379404 | [379404-tower-accelerator.json](./379404-tower-accelerator.json) |
 | Tower and Guardian | 54466 | [54466-tower-and-guardian.json](./54466-tower-and-guardian.json) |
 | Tower Arena | 118019 | [118019-tower-arena.json](./118019-tower-arena.json) |
@@ -29077,6 +29080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trip | 217479 | [217479-trip.json](./217479-trip.json) |
 | Trip in Hell | 107813 | [107813-trip-in-hell.json](./107813-trip-in-hell.json) |
 | Trip Movie /Mosaic: Shounen Alice Satsujin Jiken | 366243 | [366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json](./366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json) |
+| Trip Sort | 425871 | [425871-trip-sort.json](./425871-trip-sort.json) |
 | Trip the Ark Fantastic | 126284 | [126284-trip-the-ark-fantastic.json](./126284-trip-the-ark-fantastic.json) |
 | Trip The Light | 379958 | [379958-trip-the-light.json](./379958-trip-the-light.json) |
 | Trip Time Collection | 328467 | [328467-trip-time-collection.json](./328467-trip-time-collection.json) |
