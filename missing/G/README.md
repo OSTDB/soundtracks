@@ -10241,6 +10241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungrave VR | 71456 | [71456-gungrave-vr.json](./71456-gungrave-vr.json) |
 | Gungrave VR U.N | 115562 | [115562-gungrave-vr-u-n.json](./115562-gungrave-vr-u-n.json) |
 | Gungrave VR: Loaded Coffin Edition | 166230 | [166230-gungrave-vr-loaded-coffin-edition.json](./166230-gungrave-vr-loaded-coffin-edition.json) |
+| Gungrave: Overdose | 22452 | [22452-gungrave-overdose.json](./22452-gungrave-overdose.json) |
 | Gungriffon Blaze | 21978 | [21978-gungriffon-blaze.json](./21978-gungriffon-blaze.json) |
 | GunGun Online: Shooting Game | 108153 | [108153-gungun-online-shooting-game.json](./108153-gungun-online-shooting-game.json) |
 | GunGun: Race Against Time | 297514 | [297514-gungun-race-against-time.json](./297514-gungun-race-against-time.json) |
