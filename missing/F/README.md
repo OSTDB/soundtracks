@@ -3352,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear of Faith | 414514 | [414514-fear-of-faith.json](./414514-fear-of-faith.json) |
 | Fear of Fear | 294292 | [294292-fear-of-fear.json](./294292-fear-of-fear.json) |
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
+| Fear of Reptiles: Chapter 1 | 404595 | [404595-fear-of-reptiles-chapter-1.json](./404595-fear-of-reptiles-chapter-1.json) |
 | Fear of Sleep | 391107 | [391107-fear-of-sleep.json](./391107-fear-of-sleep.json) |
 | Fear of the dark | 185499 | [185499-fear-of-the-dark.json](./185499-fear-of-the-dark.json) |
 | Fear of the Dark | 155403 | [155403-fear-of-the-dark.json](./155403-fear-of-the-dark.json) |
