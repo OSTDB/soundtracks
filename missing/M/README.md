@@ -9302,6 +9302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metatron | 120061 | [120061-metatron.json](./120061-metatron.json) |
 | MetaTron | 33213 | [33213-metatron.json](./33213-metatron.json) |
 | Metavaxx | 159052 | [159052-metavaxx.json](./159052-metavaxx.json) |
+| Metaverse | 17885 | [17885-metaverse.json](./17885-metaverse.json) |
 | Metaverse Construction Kit | 34001 | [34001-metaverse-construction-kit.json](./34001-metaverse-construction-kit.json) |
 | Metaverse Keeper | 111984 | [111984-metaverse-keeper.json](./111984-metaverse-keeper.json) |
 | Metavoidal | 221335 | [221335-metavoidal.json](./221335-metavoidal.json) |
@@ -20302,6 +20303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Myths: Heart of Athens - Collector's Edition | 337258 | [337258-mystery-of-myths-heart-of-athens-collectors-edition.json](./337258-mystery-of-myths-heart-of-athens-collectors-edition.json) |
 | Mystery of Myths: Mystery of the Fjords - Collector's Edition | 356775 | [356775-mystery-of-myths-mystery-of-the-fjords-collectors-edition.json](./356775-mystery-of-myths-mystery-of-the-fjords-collectors-edition.json) |
 | Mystery of Myths: Whisper of Depth - Collector's Edition | 402730 | [402730-mystery-of-myths-whisper-of-depth-collectors-edition.json](./402730-mystery-of-myths-whisper-of-depth-collectors-edition.json) |
+| Mystery of Neuschwanstein | 17901 | [17901-mystery-of-neuschwanstein.json](./17901-mystery-of-neuschwanstein.json) |
 | Mystery of the Ancients: Curse of the Black Water | 140235 | [140235-mystery-of-the-ancients-curse-of-the-black-water.json](./140235-mystery-of-the-ancients-curse-of-the-black-water.json) |
 | Mystery of the Ancients: Curse of the Black Water - Collector's Edition | 107837 | [107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json](./107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json) |
 | Mystery of the Ancients: Deadly Cold | 140236 | [140236-mystery-of-the-ancients-deadly-cold.json](./140236-mystery-of-the-ancients-deadly-cold.json) |
