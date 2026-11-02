@@ -4632,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relive The Past | 387966 | [387966-relive-the-past.json](./387966-relive-the-past.json) |
 | Relive Your Life | 299703 | [299703-relive-your-life.json](./299703-relive-your-life.json) |
 | Reliving the End | 318155 | [318155-reliving-the-end.json](./318155-reliving-the-end.json) |
+| Rellion | 406472 | [406472-rellion.json](./406472-rellion.json) |
 | Relms | 125992 | [125992-relms.json](./125992-relms.json) |
 | Relo | 295306 | [295306-relo.json](./295306-relo.json) |
 | Reload | 183874 | [183874-reload.json](./183874-reload.json) |
@@ -6250,6 +6251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversi Temple | 289784 | [289784-reversi-temple.json](./289784-reversi-temple.json) |
 | Reversi X | 106360 | [106360-reversi-x.json](./106360-reversi-x.json) |
 | Reversi xVSx | 295564 | [295564-reversi-xvsx.json](./295564-reversi-xvsx.json) |
+| Reversi2048 | 406487 | [406487-reversi2048.json](./406487-reversi2048.json) |
 | ReversiBot | 266477 | [266477-reversibot.json](./266477-reversibot.json) |
 | Reversilly | 197861 | [197861-reversilly.json](./197861-reversilly.json) |
 | Reversing Caste: Omegaverse | 269303 | [269303-reversing-caste-omegaverse.json](./269303-reversing-caste-omegaverse.json) |
@@ -7592,6 +7594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Lands | 94667 | [94667-rising-lands.json](./94667-rising-lands.json) |
 | Rising Lords | 106119 | [106119-rising-lords.json](./106119-rising-lords.json) |
 | Rising Mist | 191815 | [191815-rising-mist.json](./191815-rising-mist.json) |
+| Rising Moonshade | 406497 | [406497-rising-moonshade.json](./406497-rising-moonshade.json) |
 | Rising Noracam | 151649 | [151649-rising-noracam.json](./151649-rising-noracam.json) |
 | Rising Odds | 363853 | [363853-rising-odds.json](./363853-rising-odds.json) |
 | Rising of Ants | 225236 | [225236-rising-of-ants.json](./225236-rising-of-ants.json) |
@@ -7952,6 +7955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Construction Simulator | 10777 | [10777-road-construction-simulator.json](./10777-road-construction-simulator.json) |
 | Road Crash | 134291 | [134291-road-crash.json](./134291-road-crash.json) |
 | Road Dealer Simulator | 253571 | [253571-road-dealer-simulator.json](./253571-road-dealer-simulator.json) |
+| Road Defense Racing | 406483 | [406483-road-defense-racing.json](./406483-road-defense-racing.json) |
 | Road Defense: Outsiders | 203754 | [203754-road-defense-outsiders.json](./203754-road-defense-outsiders.json) |
 | Road Diner Simulator | 190463 | [190463-road-diner-simulator.json](./190463-road-diner-simulator.json) |
 | Road Dinner Simulator | 293120 | [293120-road-dinner-simulator.json](./293120-road-dinner-simulator.json) |
