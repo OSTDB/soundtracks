@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | U C U B E | 281473 | [281473-u-c-u-b-e.json](./281473-u-c-u-b-e.json) |
 | U Evade | 158374 | [158374-u-evade.json](./158374-u-evade.json) |
+| U Host | 85463 | [85463-u-host.json](./85463-u-host.json) |
 | U R Hell | 271998 | [271998-u-r-hell.json](./271998-u-r-hell.json) |
 | U-Boat | 347698 | [347698-u-boat.json](./347698-u-boat.json) |
 | U-Boat Command | 282442 | [282442-u-boat-command.json](./282442-u-boat-command.json) |
@@ -431,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Battle Simulator | 367911 | [367911-ultimate-battle-simulator.json](./367911-ultimate-battle-simulator.json) |
 | Ultimate Beach Soccer | 248631 | [248631-ultimate-beach-soccer.json](./248631-ultimate-beach-soccer.json) |
 | Ultimate Beach Soccer | 49353 | [49353-ultimate-beach-soccer.json](./49353-ultimate-beach-soccer.json) |
+| Ultimate Bird Simulator | 87344 | [87344-ultimate-bird-simulator.json](./87344-ultimate-bird-simulator.json) |
 | Ultimate Blackball | 243383 | [243383-ultimate-blackball.json](./243383-ultimate-blackball.json) |
 | Ultimate BlackJack Reloaded | 91107 | [91107-ultimate-blackjack-reloaded.json](./91107-ultimate-blackjack-reloaded.json) |
 | Ultimate Board Game Collection | 20553 | [20553-ultimate-board-game-collection.json](./20553-ultimate-board-game-collection.json) |
@@ -569,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Kungfu Street | 223885 | [223885-ultimate-kungfu-street.json](./223885-ultimate-kungfu-street.json) |
 | Ultimate Legends | 113387 | [113387-ultimate-legends.json](./113387-ultimate-legends.json) |
 | Ultimate Lemon Basket | 411522 | [411522-ultimate-lemon-basket.json](./411522-ultimate-lemon-basket.json) |
+| Ultimate Lion Simulator | 87341 | [87341-ultimate-lion-simulator.json](./87341-ultimate-lion-simulator.json) |
 | Ultimate Logic Puzzle Collection | 115163 | [115163-ultimate-logic-puzzle-collection.json](./115163-ultimate-logic-puzzle-collection.json) |
 | Ultimate Low Poly Pet | 151277 | [151277-ultimate-low-poly-pet.json](./151277-ultimate-low-poly-pet.json) |
 | Ultimate Mah-Jongg | 228410 | [228410-ultimate-mah-jongg.json](./228410-ultimate-mah-jongg.json) |
@@ -655,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Savanna Simulator | 86690 | [86690-ultimate-savanna-simulator.json](./86690-ultimate-savanna-simulator.json) |
 | Ultimate Sci-Fi Series | 71994 | [71994-ultimate-sci-fi-series.json](./71994-ultimate-sci-fi-series.json) |
 | Ultimate Scroll | 272716 | [272716-ultimate-scroll.json](./272716-ultimate-scroll.json) |
+| Ultimate Shark Simulator | 87336 | [87336-ultimate-shark-simulator.json](./87336-ultimate-shark-simulator.json) |
 | Ultimate Sheep Raccoon | 325276 | [325276-ultimate-sheep-raccoon.json](./325276-ultimate-sheep-raccoon.json) |
 | Ultimate Shooting Collection | 5253 | [5253-ultimate-shooting-collection.json](./5253-ultimate-shooting-collection.json) |
 | Ultimate Shot: 3D Real Strike Shouter Counter | 247489 | [247489-ultimate-shot-3d-real-strike-shouter-counter.json](./247489-ultimate-shot-3d-real-strike-shouter-counter.json) |
