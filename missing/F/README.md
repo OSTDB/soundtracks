@@ -3719,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fer.al | 134534 | [134534-fer-al.json](./134534-fer-al.json) |
 | Feral | 192323 | [192323-feral.json](./192323-feral.json) |
 | Feral Absence | 413785 | [413785-feral-absence.json](./413785-feral-absence.json) |
+| Feral Attraction | 425875 | [425875-feral-attraction.json](./425875-feral-attraction.json) |
 | Feral Blue | 99078 | [99078-feral-blue.json](./99078-feral-blue.json) |
 | Feral Boyfriend | 268659 | [268659-feral-boyfriend.json](./268659-feral-boyfriend.json) |
 | Feral Echoes | 351689 | [351689-feral-echoes.json](./351689-feral-echoes.json) |
@@ -12053,6 +12054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Ninja: Pac-Man Theme | 400979 | [400979-fruit-ninja-pac-man-theme.json](./400979-fruit-ninja-pac-man-theme.json) |
 | Fruit Ninja: Puss in Boots | 64749 | [64749-fruit-ninja-puss-in-boots.json](./64749-fruit-ninja-puss-in-boots.json) |
 | Fruit of Choice | 309495 | [309495-fruit-of-choice.json](./309495-fruit-of-choice.json) |
+| Fruit of the Loom Video Recall | 425857 | [425857-fruit-of-the-loom-video-recall.json](./425857-fruit-of-the-loom-video-recall.json) |
 | Fruit Panic | 56754 | [56754-fruit-panic.json](./56754-fruit-panic.json) |
 | Fruit Party: Suika Casual Puzzle | 319318 | [319318-fruit-party-suika-casual-puzzle.json](./319318-fruit-party-suika-casual-puzzle.json) |
 | Fruit Pop | 367375 | [367375-fruit-pop.json](./367375-fruit-pop.json) |
