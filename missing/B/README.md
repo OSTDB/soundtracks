@@ -3990,7 +3990,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 1: Revolution | 94085 | [94085-battlefield-1-revolution.json](./94085-battlefield-1-revolution.json) |
 | Battlefield 1: Revolution and Titanfall 2: Ultimate Edition Bundle | 136365 | [136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json](./136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json) |
 | Battlefield 1: Standard Collector's Edition | 112637 | [112637-battlefield-1-standard-collectors-edition.json](./112637-battlefield-1-standard-collectors-edition.json) |
-| Battlefield 1: Turning Tides | 76190 | [76190-battlefield-1-turning-tides.json](./76190-battlefield-1-turning-tides.json) |
 | Battlefield 1: Ultimate Edition | 52640 | [52640-battlefield-1-ultimate-edition.json](./52640-battlefield-1-ultimate-edition.json) |
 | Battlefield 1914 | 188322 | [188322-battlefield-1914.json](./188322-battlefield-1914.json) |
 | Battlefield 1918 | 317836 | [317836-battlefield-1918.json](./317836-battlefield-1918.json) |
@@ -4921,7 +4920,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Hazard 2 | 109611 | [109611-beat-hazard-2.json](./109611-beat-hazard-2.json) |
 | Beat Hazard 3 | 199447 | [199447-beat-hazard-3.json](./199447-beat-hazard-3.json) |
 | Beat Hazard Arcade | 368084 | [368084-beat-hazard-arcade.json](./368084-beat-hazard-arcade.json) |
-| Beat Hazard Ultra | 38882 | [38882-beat-hazard-ultra.json](./38882-beat-hazard-ultra.json) |
 | Beat Hazard: Shadow Operations Unit | 170712 | [170712-beat-hazard-shadow-operations-unit.json](./170712-beat-hazard-shadow-operations-unit.json) |
 | Beat Head | 255581 | [255581-beat-head.json](./255581-beat-head.json) |
 | Beat Heaven Symphony | 341276 | [341276-beat-heaven-symphony.json](./341276-beat-heaven-symphony.json) |
@@ -12393,7 +12391,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Boom Bovine | 120118 | [120118-boom-boom-bovine.json](./120118-boom-boom-bovine.json) |
 | Boom Boom Football | 252954 | [252954-boom-boom-football.json](./252954-boom-boom-football.json) |
 | Boom Boom Hamster Doom | 344168 | [344168-boom-boom-hamster-doom.json](./344168-boom-boom-hamster-doom.json) |
-| Boom Boom Rocket | 16742 | [16742-boom-boom-rocket.json](./16742-boom-boom-rocket.json) |
 | Boom Boom Tower | 118063 | [118063-boom-boom-tower.json](./118063-boom-boom-tower.json) |
 | Boom Boom Volleyball | 263470 | [263470-boom-boom-volleyball.json](./263470-boom-boom-volleyball.json) |
 | Boom Boomerang | 127683 | [127683-boom-boomerang.json](./127683-boom-boomerang.json) |
