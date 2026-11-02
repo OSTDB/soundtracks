@@ -2761,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We'll Meet Once More | 206030 | [206030-well-meet-once-more.json](./206030-well-meet-once-more.json) |
 | We're All Dead Here | 257496 | [257496-were-all-dead-here.json](./257496-were-all-dead-here.json) |
 | We're Back! A Dinosaur's Story | 241985 | [241985-were-back-a-dinosaurs-story.json](./241985-were-back-a-dinosaurs-story.json) |
+| We're Back!: A Dinosaur's Story | 19685 | [19685-were-back-a-dinosaurs-story.json](./19685-were-back-a-dinosaurs-story.json) |
 | We're Closed Sorry | 298775 | [298775-were-closed-sorry.json](./298775-were-closed-sorry.json) |
 | We're Getting There | 184317 | [184317-were-getting-there.json](./184317-were-getting-there.json) |
 | We're Here, Papa | 410922 | [410922-were-here-papa.json](./410922-were-here-papa.json) |
@@ -3548,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Remains of Us | 256288 | [256288-what-remains-of-us.json](./256288-what-remains-of-us.json) |
 | What the Bat?: Batty Goes to Battywood | 306932 | [306932-what-the-bat-batty-goes-to-battywood.json](./306932-what-the-bat-batty-goes-to-battywood.json) |
 | What the Block | 65327 | [65327-what-the-block.json](./65327-what-the-block.json) |
+| What the Box? | 23943 | [23943-what-the-box.json](./23943-what-the-box.json) |
 | What the Bus? | 139606 | [139606-what-the-bus.json](./139606-what-the-bus.json) |
 | What the Car? | 248580 | [248580-what-the-car.json](./248580-what-the-car.json) |
 | What the Car? x Goat Simulator+ | 400246 | [400246-what-the-car-x-goat-simulator.json](./400246-what-the-car-x-goat-simulator.json) |
@@ -5304,6 +5306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winds of Valen | 379327 | [379327-winds-of-valen.json](./379327-winds-of-valen.json) |
 | Winds Rhapsody | 142479 | [142479-winds-rhapsody.json](./142479-winds-rhapsody.json) |
 | Winds Up Kitesurfing | 288462 | [288462-winds-up-kitesurfing.json](./288462-winds-up-kitesurfing.json) |
+| Windscape | 24205 | [24205-windscape.json](./24205-windscape.json) |
 | WindShift | 116362 | [116362-windshift.json](./116362-windshift.json) |
 | Windsor | 209701 | [209701-windsor.json](./209701-windsor.json) |
 | Windsor Road | 165584 | [165584-windsor-road.json](./165584-windsor-road.json) |
@@ -5903,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Hunt | 134420 | [134420-witch-hunt.json](./134420-witch-hunt.json) |
 | Witch Hunt | 210283 | [210283-witch-hunt.json](./210283-witch-hunt.json) |
 | Witch Hunt | 335622 | [335622-witch-hunt.json](./335622-witch-hunt.json) |
+| Witch Hunt | 55507 | [55507-witch-hunt.json](./55507-witch-hunt.json) |
 | Witch Hunter | 165174 | [165174-witch-hunter.json](./165174-witch-hunter.json) |
 | Witch Hunter | 218158 | [218158-witch-hunter.json](./218158-witch-hunter.json) |
 | Witch Hunter Izana | 258821 | [258821-witch-hunter-izana.json](./258821-witch-hunter-izana.json) |
@@ -6075,6 +6079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WitchSpring4 | 147342 | [147342-witchspring4.json](./147342-witchspring4.json) |
 | WitchSwitch | 57181 | [57181-witchswitch.json](./57181-witchswitch.json) |
 | Witchtastic | 135787 | [135787-witchtastic.json](./135787-witchtastic.json) |
+| WitchWay | 56831 | [56831-witchway.json](./56831-witchway.json) |
 | Witchworker | 405611 | [405611-witchworker.json](./405611-witchworker.json) |
 | Witchy Business | 338315 | [338315-witchy-business.json](./338315-witchy-business.json) |
 | Witchy Life Story | 152184 | [152184-witchy-life-story.json](./152184-witchy-life-story.json) |
@@ -8820,6 +8825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII Battle Tanks: T-34 vs. Tiger | 21292 | [21292-wwii-battle-tanks-t-34-vs-tiger.json](./21292-wwii-battle-tanks-t-34-vs-tiger.json) |
 | WWII Eiyuu Retsuden: Doro no Naka no Tora - Otto Carius | 84092 | [84092-wwii-eiyuu-retsuden-doro-no-naka-no-tora-otto-carius.json](./84092-wwii-eiyuu-retsuden-doro-no-naka-no-tora-otto-carius.json) |
 | WWII Eiyuu Retsuden: Saikyou no Tora - Kurt Knispel | 91407 | [91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json](./91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json) |
+| WWII Online | 20487 | [20487-wwii-online.json](./20487-wwii-online.json) |
 | WWII Online: Chokepoint | 154269 | [154269-wwii-online-chokepoint.json](./154269-wwii-online-chokepoint.json) |
 | WWII Online: Paratrooper Pack | 227013 | [227013-wwii-online-paratrooper-pack.json](./227013-wwii-online-paratrooper-pack.json) |
 | WWII Simulator 3D | 303093 | [303093-wwii-simulator-3d.json](./303093-wwii-simulator-3d.json) |
