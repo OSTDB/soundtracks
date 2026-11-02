@@ -4038,6 +4038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FierceWind Decay | 132530 | [132530-fiercewind-decay.json](./132530-fiercewind-decay.json) |
 | Fiermuraille | 402112 | [402112-fiermuraille.json](./402112-fiermuraille.json) |
 | Fiery Arrow | 257876 | [257876-fiery-arrow.json](./257876-fiery-arrow.json) |
+| Fiery Disaster | 31031 | [31031-fiery-disaster.json](./31031-fiery-disaster.json) |
 | Fiery Melody | 180094 | [180094-fiery-melody.json](./180094-fiery-melody.json) |
 | Fiesta | 51217 | [51217-fiesta.json](./51217-fiesta.json) |
 | Fiestas del Pueblo | 214897 | [214897-fiestas-del-pueblo.json](./214897-fiestas-del-pueblo.json) |
