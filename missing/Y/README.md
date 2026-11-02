@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yangshuo Invasion | 321368 | [321368-yangshuo-invasion.json](./321368-yangshuo-invasion.json) |
 | Yánhuáng Dàlù | 130150 | [130150-yanhuang-dalu.json](./130150-yanhuang-dalu.json) |
 | Yankai's Peak. | 43515 | [43515-yankais-peak.json](./43515-yankais-peak.json) |
+| Yankai's Triangle | 25950 | [25950-yankais-triangle.json](./25950-yankais-triangle.json) |
 | Yankee Rabbits | 367827 | [367827-yankee-rabbits.json](./367827-yankee-rabbits.json) |
 | Yanny vs. Laurel | 102705 | [102705-yanny-vs-laurel.json](./102705-yanny-vs-laurel.json) |
 | Yanone: Letter Splatter | 75781 | [75781-yanone-letter-splatter.json](./75781-yanone-letter-splatter.json) |
