@@ -1384,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncopy | 104698 | [104698-uncopy.json](./104698-uncopy.json) |
 | Uncorporeal: Alcatraz Island Lofts | 32089 | [32089-uncorporeal-alcatraz-island-lofts.json](./32089-uncorporeal-alcatraz-island-lofts.json) |
 | Uncorporeal: Fluffy! | 32120 | [32120-uncorporeal-fluffy.json](./32120-uncorporeal-fluffy.json) |
+| Uncosy | 414076 | [414076-uncosy.json](./414076-uncosy.json) |
 | Uncounted Isles | 219532 | [219532-uncounted-isles.json](./219532-uncounted-isles.json) |
 | Uncoven: The Seventh Day | 187053 | [187053-uncoven-the-seventh-day.json](./187053-uncoven-the-seventh-day.json) |
 | Uncover | 273390 | [273390-uncover.json](./273390-uncover.json) |
