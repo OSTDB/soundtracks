@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Core | 278601 | [278601-galactic-core.json](./278601-galactic-core.json) |
 | Galactic Core: The Lost Fleet | 30100 | [30100-galactic-core-the-lost-fleet.json](./30100-galactic-core-the-lost-fleet.json) |
 | Galactic Counselors | 292245 | [292245-galactic-counselors.json](./292245-galactic-counselors.json) |
+| Galactic Crew | 56636 | [56636-galactic-crew.json](./56636-galactic-crew.json) |
 | Galactic Crew II | 150994 | [150994-galactic-crew-ii.json](./150994-galactic-crew-ii.json) |
 | Galactic Crusader | 195039 | [195039-galactic-crusader.json](./195039-galactic-crusader.json) |
 | Galactic Dan | 97961 | [97961-galactic-dan.json](./97961-galactic-dan.json) |
@@ -3178,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Germ Wars | 30482 | [30482-germ-wars.json](./30482-germ-wars.json) |
 | German 101 | 93543 | [93543-german-101.json](./93543-german-101.json) |
 | Gërman Boy | 331889 | [331889-german-boy.json](./331889-german-boy.json) |
+| German Fortress 3D | 41946 | [41946-german-fortress-3d.json](./41946-german-fortress-3d.json) |
 | German Road Racer Pro | 100731 | [100731-german-road-racer-pro.json](./100731-german-road-racer-pro.json) |
 | German Tantei-dan Maringumi: Himitsu Kichi wo Mamore! | 346031 | [346031-german-tantei-dan-maringumi-himitsu-kichi-wo-mamore.json](./346031-german-tantei-dan-maringumi-himitsu-kichi-wo-mamore.json) |
 | German Tanteidan Marin-gumi: Maruhi Jigomar Sousa File | 41335 | [41335-german-tanteidan-marin-gumi-maruhi-jigomar-sousa-file.json](./41335-german-tanteidan-marin-gumi-maruhi-jigomar-sousa-file.json) |
@@ -4910,6 +4912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glowie Rammer | 309929 | [309929-glowie-rammer.json](./309929-glowie-rammer.json) |
 | Glowie Shooter | 316404 | [316404-glowie-shooter.json](./316404-glowie-shooter.json) |
 | Glowing Cat | 112098 | [112098-glowing-cat.json](./112098-glowing-cat.json) |
+| Glowing Sokoban | 41949 | [41949-glowing-sokoban.json](./41949-glowing-sokoban.json) |
 | Glowing Stones: Heroes' Awakening | 371019 | [371019-glowing-stones-heroes-awakening.json](./371019-glowing-stones-heroes-awakening.json) |
 | Glowkeeper | 337078 | [337078-glowkeeper.json](./337078-glowkeeper.json) |
 | Glowmonkey Skateboarding | 234725 | [234725-glowmonkey-skateboarding.json](./234725-glowmonkey-skateboarding.json) |
