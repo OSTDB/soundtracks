@@ -5901,6 +5901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check Man | 39609 | [39609-check-man.json](./39609-check-man.json) |
 | Check Mii Out Channel | 139041 | [139041-check-mii-out-channel.json](./139041-check-mii-out-channel.json) |
 | Check the Room 13 | 252025 | [252025-check-the-room-13.json](./252025-check-the-room-13.json) |
+| Check vs. Mate | 52496 | [52496-check-vs-mate.json](./52496-check-vs-mate.json) |
 | Check vs. Mate: Dark Desert DLC | 142983 | [142983-check-vs-mate-dark-desert-dlc.json](./142983-check-vs-mate-dark-desert-dlc.json) |
 | Check vs. Mate: Floating Island DLC | 142984 | [142984-check-vs-mate-floating-island-dlc.json](./142984-check-vs-mate-floating-island-dlc.json) |
 | Check x Mate | 163133 | [163133-check-x-mate.json](./163133-check-x-mate.json) |
@@ -9267,6 +9268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClayFighter 2: Judgment Clay | 73298 | [73298-clayfighter-2-judgment-clay.json](./73298-clayfighter-2-judgment-clay.json) |
 | ClayFighter 63 1/3 | 44043 | [44043-clayfighter-63-1-3.json](./44043-clayfighter-63-1-3.json) |
 | ClayFighter: Call of Putty | 123208 | [123208-clayfighter-call-of-putty.json](./123208-clayfighter-call-of-putty.json) |
+| ClayFighter: Sculptor's Cut | 3461 | [3461-clayfighter-sculptors-cut.json](./3461-clayfighter-sculptors-cut.json) |
 | ClayFighter: Tournament Edition | 42616 | [42616-clayfighter-tournament-edition.json](./42616-clayfighter-tournament-edition.json) |
 | Claymates | 42623 | [42623-claymates.json](./42623-claymates.json) |
 | Claymore | 93919 | [93919-claymore.json](./93919-claymore.json) |
@@ -13265,6 +13267,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Joy - Fun Cooking Game | 103872 | [103872-cooking-joy-fun-cooking-game.json](./103872-cooking-joy-fun-cooking-game.json) |
 | Cooking Live | 226690 | [226690-cooking-live.json](./226690-cooking-live.json) |
 | Cooking Mama | 3060 | [3060-cooking-mama.json](./3060-cooking-mama.json) |
+| Cooking Mama 2: Dinner With Friends | 3062 | [3062-cooking-mama-2-dinner-with-friends.json](./3062-cooking-mama-2-dinner-with-friends.json) |
+| Cooking Mama 3: Shop & Chop | 3065 | [3065-cooking-mama-3-shop-and-chop.json](./3065-cooking-mama-3-shop-and-chop.json) |
 | Cooking Mama 4: Kitchen Magic | 11359 | [11359-cooking-mama-4-kitchen-magic.json](./11359-cooking-mama-4-kitchen-magic.json) |
 | Cooking Mama Seasons | 290280 | [290280-cooking-mama-seasons.json](./290280-cooking-mama-seasons.json) |
 | Cooking Mama World: Combo Pack Volume 1 | 56335 | [56335-cooking-mama-world-combo-pack-volume-1.json](./56335-cooking-mama-world-combo-pack-volume-1.json) |
@@ -18414,6 +18418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Travels: Flame of the Banshee | 177872 | [177872-cursed-travels-flame-of-the-banshee.json](./177872-cursed-travels-flame-of-the-banshee.json) |
 | Cursed Travels: Sunken City | 202421 | [202421-cursed-travels-sunken-city.json](./202421-cursed-travels-sunken-city.json) |
 | Cursed Travels: The Shattered Labyrinth | 179718 | [179718-cursed-travels-the-shattered-labyrinth.json](./179718-cursed-travels-the-shattered-labyrinth.json) |
+| Cursed Treasure 2 | 51499 | [51499-cursed-treasure-2.json](./51499-cursed-treasure-2.json) |
 | Cursed Treasure 2: Ultimate Edition - Tower Defense | 173979 | [173979-cursed-treasure-2-ultimate-edition-tower-defense.json](./173979-cursed-treasure-2-ultimate-edition-tower-defense.json) |
 | Cursed Treasure: Don't Touch My Gems! | 141844 | [141844-cursed-treasure-dont-touch-my-gems.json](./141844-cursed-treasure-dont-touch-my-gems.json) |
 | Cursed Weekend | 153374 | [153374-cursed-weekend.json](./153374-cursed-weekend.json) |
