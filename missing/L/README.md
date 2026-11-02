@@ -7105,6 +7105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Clicker | 184176 | [184176-loot-clicker.json](./184176-loot-clicker.json) |
 | Loot Express Delivery Service | 211824 | [211824-loot-express-delivery-service.json](./211824-loot-express-delivery-service.json) |
 | Loot Frog | 404355 | [404355-loot-frog.json](./404355-loot-frog.json) |
+| Loot Gobblin' Together | 402652 | [402652-loot-gobblin-together.json](./402652-loot-gobblin-together.json) |
 | Loot Goblin Inc. | 337672 | [337672-loot-goblin-inc.json](./337672-loot-goblin-inc.json) |
 | Loot Goblin: An Idle Adventure | 389592 | [389592-loot-goblin-an-idle-adventure.json](./389592-loot-goblin-an-idle-adventure.json) |
 | Loot Goblins | 291366 | [291366-loot-goblins.json](./291366-loot-goblins.json) |
@@ -7272,6 +7273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lordian: karma | 101237 | [101237-lordian-karma.json](./101237-lordian-karma.json) |
 | Lordlings of Yore | 25614 | [25614-lordlings-of-yore.json](./25614-lordlings-of-yore.json) |
 | Lordmancer 2 | 176189 | [176189-lordmancer-2.json](./176189-lordmancer-2.json) |
+| Lordress | 402680 | [402680-lordress.json](./402680-lordress.json) |
 | Lords & Knights | 323155 | [323155-lords-and-knights.json](./323155-lords-and-knights.json) |
 | Lords & Peasants | 20057 | [20057-lords-and-peasants.json](./20057-lords-and-peasants.json) |
 | Lords & Villeins: The Great Houses | 322627 | [322627-lords-and-villeins-the-great-houses.json](./322627-lords-and-villeins-the-great-houses.json) |
