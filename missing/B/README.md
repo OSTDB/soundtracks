@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -14645,6 +14646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brigand: Oaxaca | 28045 | [28045-brigand-oaxaca.json](./28045-brigand-oaxaca.json) |
 | Brigand: Panama | 142756 | [142756-brigand-panama.json](./142756-brigand-panama.json) |
 | Brigandine | 143118 | [143118-brigandine.json](./143118-brigandine.json) |
+| Brigandine Abyss | 389424 | [389424-brigandine-abyss.json](./389424-brigandine-abyss.json) |
 | Brigandine: Grand Edition | 3128 | [3128-brigandine-grand-edition.json](./3128-brigandine-grand-edition.json) |
 | Brigandine: The Legend of Runersia | 121960 | [121960-brigandine-the-legend-of-runersia.json](./121960-brigandine-the-legend-of-runersia.json) |
 | Brigandine: The Legend of Runersia - Collector's Edition | 146144 | [146144-brigandine-the-legend-of-runersia-collectors-edition.json](./146144-brigandine-the-legend-of-runersia-collectors-edition.json) |
