@@ -4399,7 +4399,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of Guilds: Commoner | 317302 | [317302-reign-of-guilds-commoner.json](./317302-reign-of-guilds-commoner.json) |
 | Reign of Guilds: Raubritter | 289842 | [289842-reign-of-guilds-raubritter.json](./289842-reign-of-guilds-raubritter.json) |
 | Reign of King | 107147 | [107147-reign-of-king.json](./107147-reign-of-king.json) |
-| Reign of Kings | 9599 | [9599-reign-of-kings.json](./9599-reign-of-kings.json) |
 | Reign of the Renegade | 278911 | [278911-reign-of-the-renegade.json](./278911-reign-of-the-renegade.json) |
 | Reign of the Succubus | 106618 | [106618-reign-of-the-succubus.json](./106618-reign-of-the-succubus.json) |
 | Reign of the Undead: Revolution | 299134 | [299134-reign-of-the-undead-revolution.json](./299134-reign-of-the-undead-revolution.json) |
@@ -7780,6 +7779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Realms | 70472 | [70472-rival-realms.json](./70472-rival-realms.json) |
 | Rival Regions | 91082 | [91082-rival-regions.json](./91082-rival-regions.json) |
 | Rival Rides | 201608 | [201608-rival-rides.json](./201608-rival-rides.json) |
+| Rival Roads Car Racing | 402660 | [402660-rival-roads-car-racing.json](./402660-rival-roads-car-racing.json) |
 | Rival Species | 350392 | [350392-rival-species.json](./350392-rival-species.json) |
 | Rival Stars Basketball | 249385 | [249385-rival-stars-basketball.json](./249385-rival-stars-basketball.json) |
 | Rival Stars College Football | 241865 | [241865-rival-stars-college-football.json](./241865-rival-stars-college-football.json) |
@@ -12295,6 +12295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RustNaut | 348308 | [348308-rustnaut.json](./348308-rustnaut.json) |
 | Rusts of Corruption | 307218 | [307218-rusts-of-corruption.json](./307218-rusts-of-corruption.json) |
 | Rustwalker Legends | 216935 | [216935-rustwalker-legends.json](./216935-rustwalker-legends.json) |
+| RustX | 402753 | [402753-rustx.json](./402753-rustx.json) |
 | Rusty | 239074 | [239074-rusty.json](./239074-rusty.json) |
 | Rusty | 45975 | [45975-rusty.json](./45975-rusty.json) |
 | Rusty Barrel | 270854 | [270854-rusty-barrel.json](./270854-rusty-barrel.json) |
