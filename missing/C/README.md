@@ -9007,6 +9007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Beasts | 197185 | [197185-clash-of-beasts.json](./197185-clash-of-beasts.json) |
 | Clash of Blades | 265109 | [265109-clash-of-blades.json](./265109-clash-of-blades.json) |
 | Clash of Busts | 330471 | [330471-clash-of-busts.json](./330471-clash-of-busts.json) |
+| Clash of Cards | 94839 | [94839-clash-of-cards.json](./94839-clash-of-cards.json) |
 | Clash of Champs | 56529 | [56529-clash-of-champs.json](./56529-clash-of-champs.json) |
 | Clash of Chefs VR | 111704 | [111704-clash-of-chefs-vr.json](./111704-clash-of-chefs-vr.json) |
 | Clash of Chess | 174898 | [174898-clash-of-chess.json](./174898-clash-of-chess.json) |
@@ -13520,6 +13521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cops and Robbers! | 251506 | [251506-cops-and-robbers.json](./251506-cops-and-robbers.json) |
 | Cops Kissing Each Other | 118078 | [118078-cops-kissing-each-other.json](./118078-cops-kissing-each-other.json) |
 | Cops L.A. Police | 259492 | [259492-cops-l-a-police.json](./259492-cops-l-a-police.json) |
+| Cops N Robbers | 89136 | [89136-cops-n-robbers.json](./89136-cops-n-robbers.json) |
 | Cops N Robbers: Pixel Craft Gun | 400445 | [400445-cops-n-robbers-pixel-craft-gun.json](./400445-cops-n-robbers-pixel-craft-gun.json) |
 | Cops N Robbers: Prison Games 1 | 400441 | [400441-cops-n-robbers-prison-games-1.json](./400441-cops-n-robbers-prison-games-1.json) |
 | Cops N Robbers: Prison Games 2 | 400443 | [400443-cops-n-robbers-prison-games-2.json](./400443-cops-n-robbers-prison-games-2.json) |
@@ -17978,6 +17980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubosphere | 238065 | [238065-cubosphere.json](./238065-cubosphere.json) |
 | Cubot | 36000 | [36000-cubot.json](./36000-cubot.json) |
 | Cubot: The Complexity of Simplicity | 9812 | [9812-cubot-the-complexity-of-simplicity.json](./9812-cubot-the-complexity-of-simplicity.json) |
+| Cubots: The Origins | 94138 | [94138-cubots-the-origins.json](./94138-cubots-the-origins.json) |
 | Cubounce | 402697 | [402697-cubounce.json](./402697-cubounce.json) |
 | Cubox: Awakening of Gods | 168156 | [168156-cubox-awakening-of-gods.json](./168156-cubox-awakening-of-gods.json) |
 | Cuboy | 251692 | [251692-cuboy.json](./251692-cuboy.json) |
