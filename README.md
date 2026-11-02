@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 2,791" src="https://img.shields.io/badge/soundtracks-2%2C791-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 2,308" src="https://img.shields.io/badge/games-2%2C308-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 294,510" src="https://img.shields.io/badge/missing-294%2C510-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 295,650" src="https://img.shields.io/badge/missing-295%2C650-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/zero-hour"><img src="https://i.scdn.co/image/ab67616d0000b273f95ba6275b01bd6870ee3871" width="120" height="120" alt="" /></a><br /><sub><b>Zero Hour</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/speed-dating-for-ghosts"><img src="https://i.scdn.co/image/ab67616d0000b27364130052fd584effb20c5414" width="120" height="120" alt="" /></a><br /><sub><b>Speed Dating for Ghosts</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/souldiers"><img src="https://i.scdn.co/image/ab67616d0000b273170cf704152d1d5935c2caeb" width="120" height="120" alt="" /></a><br /><sub><b>Souldiers</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/forza-street"><img src="https://i.scdn.co/image/ab67616d0000b27366df23ddecd9f83df771f987" width="120" height="120" alt="" /></a><br /><sub><b>Forza Street</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/arches"><img src="https://i.scdn.co/image/ab67616d0000b273c2c0ef849dc3c483bbf241a9" width="120" height="120" alt="" /></a><br /><sub><b>Arches</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/unholy"><img src="https://i.scdn.co/image/ab67616d0000b273e33e41beaa77437f87787817" width="120" height="120" alt="" /></a><br /><sub><b>Unholy</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/closer-the-distance"><img src="https://i.scdn.co/image/ab67616d0000b27349450a9e54d411e4eda8bb89" width="120" height="120" alt="" /></a><br /><sub><b>Closer the Distance</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/moon-mystery"><img src="https://i.scdn.co/image/ab67616d0000b27348a3187c2b4f421f2c787318" width="120" height="120" alt="" /></a><br /><sub><b>Moon Mystery</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/rusted-moss"><img src="https://i.scdn.co/image/ab67616d0000b2732e07aab1019f5885e34e0115" width="120" height="120" alt="" /></a><br /><sub><b>Rusted Moss</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/lens-island"><img src="https://i.scdn.co/image/ab67616d0000b273203d9b29111d1fdc0738d301" width="120" height="120" alt="" /></a><br /><sub><b>Len's Island</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/under-night-in-birth-ii-sys-celes"><img src="https://i.scdn.co/image/ab67616d0000b273ab410e9d3b0bb3805960c376" width="120" height="120" alt="" /></a><br /><sub><b>Under Night In-Birth II Sys:Celes</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/outpath"><img src="https://i.scdn.co/image/ab67616d0000b273104ba0ef539571a9ba5b5a80" width="120" height="120" alt="" /></a><br /><sub><b>Outpath</b></sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/corpse-factory"><img src="https://i.scdn.co/image/ab67616d0000b2735ee772a33a4845ad2596c2c7" width="120" height="120" alt="" /></a><br /><sub><b>Corpse Factory</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/fall-of-porcupine"><img src="https://i.scdn.co/image/ab67616d0000b2730ba02d2e6f8bf664990417e2" width="120" height="120" alt="" /></a><br /><sub><b>Fall of Porcupine</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/uru-ages-beyond-myst"><img src="https://i.scdn.co/image/ab67616d0000b27351f7f190be96b0b08e8ac8b2" width="120" height="120" alt="" /></a><br /><sub><b>Uru: Ages Beyond Myst</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/raystorm"><img src="https://i.scdn.co/image/ab67616d0000b27347eaa6df78ea36ba5f5b5164" width="120" height="120" alt="" /></a><br /><sub><b>RayStorm</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/the-colonists"><img src="https://i.scdn.co/image/ab67616d0000b27392d19ccce1b7a8d23515a074" width="120" height="120" alt="" /></a><br /><sub><b>The Colonists</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/mable-and-the-wood"><img src="https://i.scdn.co/image/ab67616d0000b273ba3829412fb39b832287bd89" width="120" height="120" alt="" /></a><br /><sub><b>Mable and the Wood</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/opus-echo-of-starsong"><img src="https://i.scdn.co/image/ab67616d0000b2731c292cf92c44cde3df02059a" width="120" height="120" alt="" /></a><br /><sub><b>Opus: Echo of Starsong</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/mediterranea-inferno"><img src="https://i.scdn.co/image/ab67616d0000b273a83fdfa67191f9b454de45e8" width="120" height="120" alt="" /></a><br /><sub><b>Mediterranea Inferno</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/unboxing-the-cryptic-killer"><img src="https://i.scdn.co/image/ab67616d0000b273afcd17b2b907917ef51e4ddb" width="120" height="120" alt="" /></a><br /><sub><b>Unboxing the Cryptic Killer</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/atelier-resleriana-forgotten-alchemy-and-the-polar-night-liberator"><img src="https://i.scdn.co/image/ab67616d0000b27340b965cd0f3f0f8acc19766b" width="120" height="120" alt="" /></a><br /><sub><b>Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/sludge-life-2"><img src="https://i.scdn.co/image/ab67616d0000b27334d8c0769be5cc24374d7b22" width="120" height="120" alt="" /></a><br /><sub><b>Sludge Life 2</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/the-urbz-sims-in-the-city"><img src="https://i.scdn.co/image/ab67616d0000b273094413ee0fc6ffbdea34d647" width="120" height="120" alt="" /></a><br /><sub><b>The Urbz: Sims in the City</b></sub></td>
 </tr>
 </table>
 
@@ -55,8 +55,8 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 3 | **Deep Rock Galactic** | [🔎 Find on Spotify](https://open.spotify.com/search/Deep%20Rock%20Galactic%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/27134-deep-rock-galactic.json) |
 | 4 | **Don't Starve Together** | [🔎 Find on Spotify](https://open.spotify.com/search/Don't%20Starve%20Together%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/17832-dont-starve-together.json) |
 | 5 | **BioShock Remastered** | [🔎 Find on Spotify](https://open.spotify.com/search/BioShock%20Remastered%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/B/34293-bioshock-remastered.json) |
-| 6 | **Heroes of Might and Magic V** | [🔎 Find on Spotify](https://open.spotify.com/search/Heroes%20of%20Might%20and%20Magic%20V%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/H/370-heroes-of-might-and-magic-v.json) |
-| 7 | **Torchlight** | [🔎 Find on Spotify](https://open.spotify.com/search/Torchlight%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/2480-torchlight.json) |
+| 6 | **Torchlight** | [🔎 Find on Spotify](https://open.spotify.com/search/Torchlight%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/2480-torchlight.json) |
+| 7 | **Heroes of Might and Magic V** | [🔎 Find on Spotify](https://open.spotify.com/search/Heroes%20of%20Might%20and%20Magic%20V%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/H/370-heroes-of-might-and-magic-v.json) |
 | 8 | **Call of Duty: Modern Warfare Remastered** | [🔎 Find on Spotify](https://open.spotify.com/search/Call%20of%20Duty%3A%20Modern%20Warfare%20Remastered%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/24920-call-of-duty-modern-warfare-remastered.json) |
 | 9 | **Need for Speed** | [🔎 Find on Spotify](https://open.spotify.com/search/Need%20for%20Speed%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/N/10965-need-for-speed.json) |
 | 10 | **Sid Meier's Civilization** | [🔎 Find on Spotify](https://open.spotify.com/search/Sid%20Meier's%20Civilization%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/902-sid-meiers-civilization.json) |
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 | 15 | **Divinity: Original Sin** | [🔎 Find on Spotify](https://open.spotify.com/search/Divinity%3A%20Original%20Sin%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/5082-divinity-original-sin.json) |
 
-More in **[missing/](missing/README.md)** (294,510 games).
+More in **[missing/](missing/README.md)** (295,650 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -111,4 +111,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,791 soundtracks &middot; last updated 2026-11-01T21:15:46.336Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,791 soundtracks &middot; last updated 2026-11-02T00:41:02.105Z</sub>
