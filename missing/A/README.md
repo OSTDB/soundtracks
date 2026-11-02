@@ -5673,6 +5673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akumajyo Dracula Peke | 266915 | [266915-akumajyo-dracula-peke.json](./266915-akumajyo-dracula-peke.json) |
 | Akumanor Escape DX | 359894 | [359894-akumanor-escape-dx.json](./359894-akumanor-escape-dx.json) |
 | Akumanor Gaiden | 361222 | [361222-akumanor-gaiden.json](./361222-akumanor-gaiden.json) |
+| Akumanor Gaiden DX | 403392 | [403392-akumanor-gaiden-dx.json](./403392-akumanor-gaiden-dx.json) |
 | Akumi Wars | 199329 | [199329-akumi-wars.json](./199329-akumi-wars.json) |
 | Akumon Summoner | 393458 | [393458-akumon-summoner.json](./393458-akumon-summoner.json) |
 | Akunin-Akka | 389995 | [389995-akunin-akka.json](./389995-akunin-akka.json) |
@@ -11521,6 +11522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Action | 93560 | [93560-arcade-action.json](./93560-arcade-action.json) |
 | Arcade Air Hockey & Bowling | 91691 | [91691-arcade-air-hockey-and-bowling.json](./91691-arcade-air-hockey-and-bowling.json) |
 | Arcade Apocalypse Bundle | 99559 | [99559-arcade-apocalypse-bundle.json](./99559-arcade-apocalypse-bundle.json) |
+| Arcade Archives 2: Ace Driver | 403299 | [403299-arcade-archives-2-ace-driver.json](./403299-arcade-archives-2-ace-driver.json) |
 | Arcade Archives 2: Adventure Canoe | 392764 | [392764-arcade-archives-2-adventure-canoe.json](./392764-arcade-archives-2-adventure-canoe.json) |
 | Arcade Archives 2: Air Combat 22 | 352492 | [352492-arcade-archives-2-air-combat-22.json](./352492-arcade-archives-2-air-combat-22.json) |
 | Arcade Archives 2: Aqua Jet | 361238 | [361238-arcade-archives-2-aqua-jet.json](./361238-arcade-archives-2-aqua-jet.json) |
@@ -11557,6 +11559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Swimmer | 426458 | [426458-arcade-archives-2-swimmer.json](./426458-arcade-archives-2-swimmer.json) |
 | Arcade Archives 2: Syvalion | 410363 | [410363-arcade-archives-2-syvalion.json](./410363-arcade-archives-2-syvalion.json) |
 | Arcade Archives 2: Tag Team Wrestling | 402569 | [402569-arcade-archives-2-tag-team-wrestling.json](./402569-arcade-archives-2-tag-team-wrestling.json) |
+| Arcade Archives 2: Tatakae! Big Fighter | 403300 | [403300-arcade-archives-2-tatakae-big-fighter.json](./403300-arcade-archives-2-tatakae-big-fighter.json) |
 | Arcade Archives 2: Tekken | 408158 | [408158-arcade-archives-2-tekken.json](./408158-arcade-archives-2-tekken.json) |
 | Arcade Archives 2: The Outfoxies | 382963 | [382963-arcade-archives-2-the-outfoxies.json](./382963-arcade-archives-2-the-outfoxies.json) |
 | Arcade Archives 2: Top Speed | 389061 | [389061-arcade-archives-2-top-speed.json](./389061-arcade-archives-2-top-speed.json) |
