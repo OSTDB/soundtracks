@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Packin' | 342180 | [342180-packin.json](./342180-packin.json) |
 | Packing House | 184475 | [184475-packing-house.json](./184475-packing-house.json) |
 | Packing Life | 373318 | [373318-packing-life.json](./373318-packing-life.json) |
+| Packing Shift | 419747 | [419747-packing-shift.json](./419747-packing-shift.json) |
 | Packit List | 341601 | [341601-packit-list.json](./341601-packit-list.json) |
 | Packmates | 366231 | [366231-packmates.json](./366231-packmates.json) |
 | Packri Monster | 347688 | [347688-packri-monster.json](./347688-packri-monster.json) |
@@ -3162,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawsome Resort | 374711 | [374711-pawsome-resort.json](./374711-pawsome-resort.json) |
 | Pawsta | 347834 | [347834-pawsta.json](./347834-pawsta.json) |
 | Pawtastic Diner | 305427 | [305427-pawtastic-diner.json](./305427-pawtastic-diner.json) |
+| Pawtings! Hidden Dogs | 419061 | [419061-pawtings-hidden-dogs.json](./419061-pawtings-hidden-dogs.json) |
 | Paww: Feline Fatale | 397899 | [397899-paww-feline-fatale.json](./397899-paww-feline-fatale.json) |
 | Pax | 274201 | [274201-pax.json](./274201-pax.json) |
 | Pax Augusta | 220462 | [220462-pax-augusta.json](./220462-pax-augusta.json) |
@@ -4448,6 +4450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perspective | 148362 | [148362-perspective.json](./148362-perspective.json) |
 | Perspective | 80820 | [80820-perspective.json](./80820-perspective.json) |
 | Perspective Classic | 50318 | [50318-perspective-classic.json](./50318-perspective-classic.json) |
+| Perspective Remastered | 418395 | [418395-perspective-remastered.json](./418395-perspective-remastered.json) |
 | Perspectives: Aleppo-Helsinki | 75160 | [75160-perspectives-aleppo-helsinki.json](./75160-perspectives-aleppo-helsinki.json) |
 | Perspectives: Paradise | 115007 | [115007-perspectives-paradise.json](./115007-perspectives-paradise.json) |
 | Perspecto | 101276 | [101276-perspecto.json](./101276-perspecto.json) |
@@ -6289,6 +6292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin Strike 2 | 375421 | [375421-pin-strike-2.json](./375421-pin-strike-2.json) |
 | Pin Strike 3 | 380656 | [380656-pin-strike-3.json](./380656-pin-strike-3.json) |
 | Pin Test Party Psychology | 386204 | [386204-pin-test-party-psychology.json](./386204-pin-test-party-psychology.json) |
+| Pin The Guardian Spirit | 419097 | [419097-pin-the-guardian-spirit.json](./419097-pin-the-guardian-spirit.json) |
 | Pin Tiki Ball | 87552 | [87552-pin-tiki-ball.json](./87552-pin-tiki-ball.json) |
 | Pin To Win | 302351 | [302351-pin-to-win.json](./302351-pin-to-win.json) |
 | Pin Zhi | 304893 | [304893-pin-zhi.json](./304893-pin-zhi.json) |
@@ -6884,6 +6888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinturillo 2 | 56265 | [56265-pinturillo-2.json](./56265-pinturillo-2.json) |
 | Pinup | 403142 | [403142-pinup.json](./403142-pinup.json) |
 | PinWar | 93632 | [93632-pinwar.json](./93632-pinwar.json) |
+| Pinwheel Playground | 418399 | [418399-pinwheel-playground.json](./418399-pinwheel-playground.json) |
 | Pinyon Shift | 421204 | [421204-pinyon-shift.json](./421204-pinyon-shift.json) |
 | Pinzzo | 195597 | [195597-pinzzo.json](./195597-pinzzo.json) |
 | Pio | 327713 | [327713-pio.json](./327713-pio.json) |
@@ -7690,6 +7695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Pro Tennis | 213643 | [213643-pixel-pro-tennis.json](./213643-pixel-pro-tennis.json) |
 | Pixel Pro Winter Sports | 243175 | [243175-pixel-pro-winter-sports.json](./243175-pixel-pro-winter-sports.json) |
 | Pixel Punk | 252275 | [252275-pixel-punk.json](./252275-pixel-punk.json) |
+| Pixel Pup | 418423 | [418423-pixel-pup.json](./418423-pixel-pup.json) |
 | Pixel Pursuit | 43147 | [43147-pixel-pursuit.json](./43147-pixel-pursuit.json) |
 | Pixel Push Football | 240868 | [240868-pixel-push-football.json](./240868-pixel-push-football.json) |
 | Pixel Puzzle | 88484 | [88484-pixel-puzzle.json](./88484-pixel-puzzle.json) |
@@ -8065,6 +8071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelated Jigsaw | 91309 | [91309-pixelated-jigsaw.json](./91309-pixelated-jigsaw.json) |
 | Pixelbator | 112625 | [112625-pixelbator.json](./112625-pixelbator.json) |
 | Pixelbit Snooker & Pool | 76173 | [76173-pixelbit-snooker-and-pool.json](./76173-pixelbit-snooker-and-pool.json) |
+| Pixelbit World | 419792 | [419792-pixelbit-world.json](./419792-pixelbit-world.json) |
 | PixelBot Extreme! | 96229 | [96229-pixelbot-extreme.json](./96229-pixelbot-extreme.json) |
 | Pixelburg | 345055 | [345055-pixelburg.json](./345055-pixelburg.json) |
 | PixelCraft Game | 100929 | [100929-pixelcraft-game.json](./100929-pixelcraft-game.json) |
@@ -9203,6 +9210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playful Math | 104439 | [104439-playful-math.json](./104439-playful-math.json) |
 | Playground | 186175 | [186175-playground.json](./186175-playground.json) |
 | Playground AR: Physics Sandbox | 89172 | [89172-playground-ar-physics-sandbox.json](./89172-playground-ar-physics-sandbox.json) |
+| Playground Ball | 419063 | [419063-playground-ball.json](./419063-playground-ball.json) |
 | Playground Battle World | 83483 | [83483-playground-battle-world.json](./83483-playground-battle-world.json) |
 | Playground Heroes | 127586 | [127586-playground-heroes.json](./127586-playground-heroes.json) |
 | Playground VR | 143690 | [143690-playground-vr.json](./143690-playground-vr.json) |
@@ -12178,6 +12186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal: Prelude RTX | 257199 | [257199-portal-prelude-rtx.json](./257199-portal-prelude-rtx.json) |
 | Portal: Project Beta | 219158 | [219158-portal-project-beta.json](./219158-portal-project-beta.json) |
 | Portal: Prospekt | 219159 | [219159-portal-prospekt.json](./219159-portal-prospekt.json) |
+| Portal: Retract | 419108 | [419108-portal-retract.json](./419108-portal-retract.json) |
 | Portal: Singularity Collapse | 322172 | [322172-portal-singularity-collapse.json](./322172-portal-singularity-collapse.json) |
 | Portal: Still Alive | 21798 | [21798-portal-still-alive.json](./21798-portal-still-alive.json) |
 | Portal: Still Alive For PC | 136389 | [136389-portal-still-alive-for-pc.json](./136389-portal-still-alive-for-pc.json) |
@@ -17562,6 +17571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pwned | 68517 | [68517-pwned.json](./68517-pwned.json) |
 | Pwny Xpress | 183313 | [183313-pwny-xpress.json](./183313-pwny-xpress.json) |
 | Pwnz! | 240833 | [240833-pwnz.json](./240833-pwnz.json) |
+| Pwong | 419093 | [419093-pwong.json](./419093-pwong.json) |
 | Pwordle | 241405 | [241405-pwordle.json](./241405-pwordle.json) |
 | Pwumpkin Poetwy | 179019 | [179019-pwumpkin-poetwy.json](./179019-pwumpkin-poetwy.json) |
 | Px | 201785 | [201785-px.json](./201785-px.json) |
