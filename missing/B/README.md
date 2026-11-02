@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -17277,6 +17278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bye Sweet Carole: Deluxe Edition | 401673 | [401673-bye-sweet-carole-deluxe-edition.json](./401673-bye-sweet-carole-deluxe-edition.json) |
 | Bye-Bye Bindings! | 368364 | [368364-bye-bye-bindings.json](./368364-bye-bye-bindings.json) |
 | Bye-Bye Boxboy! | 26350 | [26350-bye-bye-boxboy.json](./26350-bye-bye-boxboy.json) |
+| ByeByeObake! | 425849 | [425849-byebyeobake.json](./425849-byebyeobake.json) |
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
 | Bygg Båtar med Mulle Meck | 97733 | [97733-bygg-batar-med-mulle-meck.json](./97733-bygg-batar-med-mulle-meck.json) |
 | Bygg båtar med Mulle Meck: Specialversion | 319813 | [319813-bygg-batar-med-mulle-meck-specialversion.json](./319813-bygg-batar-med-mulle-meck-specialversion.json) |
