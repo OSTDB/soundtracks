@@ -8871,6 +8871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Escape | 226940 | [226940-rocket-escape.json](./226940-rocket-escape.json) |
 | Rocket Explorer | 161624 | [161624-rocket-explorer.json](./161624-rocket-explorer.json) |
 | Rocket Factory | 185637 | [185637-rocket-factory.json](./185637-rocket-factory.json) |
+| Rocket Factory | 424630 | [424630-rocket-factory.json](./424630-rocket-factory.json) |
 | Rocket Fart | 79775 | [79775-rocket-fart.json](./79775-rocket-fart.json) |
 | Rocket Fist | 19175 | [19175-rocket-fist.json](./19175-rocket-fist.json) |
 | Rocket Frog | 277949 | [277949-rocket-frog.json](./277949-rocket-frog.json) |
@@ -10296,6 +10297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room to Grow | 143916 | [143916-room-to-grow.json](./143916-room-to-grow.json) |
 | Room with Lina | 370861 | [370861-room-with-lina.json](./370861-room-with-lina.json) |
 | Room XIII | 360042 | [360042-room-xiii.json](./360042-room-xiii.json) |
+| Room Zero | 424604 | [424604-room-zero.json](./424604-room-zero.json) |
 | Room Zoom: Race for Impact | 66540 | [66540-room-zoom-race-for-impact.json](./66540-room-zoom-race-for-impact.json) |
 | Room.txt | 408703 | [408703-room-txt.json](./408703-room-txt.json) |
 | Room13 | 17669 | [17669-room13.json](./17669-room13.json) |
