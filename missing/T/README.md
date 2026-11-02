@@ -2190,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Heroes | 35228 | [35228-tap-heroes.json](./35228-tap-heroes.json) |
 | Tap It Away | 304169 | [304169-tap-it-away.json](./304169-tap-it-away.json) |
 | Tap It Big | 59470 | [59470-tap-it-big.json](./59470-tap-it-big.json) |
+| Tap Jewels | 401565 | [401565-tap-jewels.json](./401565-tap-jewels.json) |
 | Tap Jockey | 175260 | [175260-tap-jockey.json](./175260-tap-jockey.json) |
 | Tap knife VIP | 105959 | [105959-tap-knife-vip.json](./105959-tap-knife-vip.json) |
 | Tap Knight: Idle Adventure | 200326 | [200326-tap-knight-idle-adventure.json](./200326-tap-knight-idle-adventure.json) |
@@ -7064,9 +7065,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma 3: Bloodlines - Autumn Girl Skin | 401675 | [401675-the-coma-3-bloodlines-autumn-girl-skin.json](./401675-the-coma-3-bloodlines-autumn-girl-skin.json) |
 | The Coma 3: Bloodlines - Daughter of a Millionaire Skin | 401671 | [401671-the-coma-3-bloodlines-daughter-of-a-millionaire-skin.json](./401671-the-coma-3-bloodlines-daughter-of-a-millionaire-skin.json) |
 | The Coma 3: Bloodlines - Deluxe Edition | 401674 | [401674-the-coma-3-bloodlines-deluxe-edition.json](./401674-the-coma-3-bloodlines-deluxe-edition.json) |
+| The Coma 3: Bloodlines - Gangster Shaman Girl Skin | 401584 | [401584-the-coma-3-bloodlines-gangster-shaman-girl-skin.json](./401584-the-coma-3-bloodlines-gangster-shaman-girl-skin.json) |
 | The Coma 3: Bloodlines - Ghost Agent No. 3 Skin | 401734 | [401734-the-coma-3-bloodlines-ghost-agent-no-3-skin.json](./401734-the-coma-3-bloodlines-ghost-agent-no-3-skin.json) |
+| The Coma 3: Bloodlines - Nightmare Slayer Skin | 401582 | [401582-the-coma-3-bloodlines-nightmare-slayer-skin.json](./401582-the-coma-3-bloodlines-nightmare-slayer-skin.json) |
 | The Coma 3: Bloodlines - Overaction Skin | 401670 | [401670-the-coma-3-bloodlines-overaction-skin.json](./401670-the-coma-3-bloodlines-overaction-skin.json) |
 | The Coma 3: Bloodlines - Overly Attractive Teacher Skin | 401681 | [401681-the-coma-3-bloodlines-overly-attractive-teacher-skin.json](./401681-the-coma-3-bloodlines-overly-attractive-teacher-skin.json) |
+| The Coma 3: Bloodlines - Sehwa Arts High School Skin | 401583 | [401583-the-coma-3-bloodlines-sehwa-arts-high-school-skin.json](./401583-the-coma-3-bloodlines-sehwa-arts-high-school-skin.json) |
 | The Coma: Back to School Bundle | 154967 | [154967-the-coma-back-to-school-bundle.json](./154967-the-coma-back-to-school-bundle.json) |
 | The Coma: Double Cut | 136930 | [136930-the-coma-double-cut.json](./136930-the-coma-double-cut.json) |
 | The Coma: Recut - Deluxe Edition | 118699 | [118699-the-coma-recut-deluxe-edition.json](./118699-the-coma-recut-deluxe-edition.json) |
@@ -11608,6 +11612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sorrow | 287643 | [287643-the-last-sorrow.json](./287643-the-last-sorrow.json) |
 | The Last Spark | 165297 | [165297-the-last-spark.json](./165297-the-last-spark.json) |
 | The Last Spell: Elves of Amberwald | 341399 | [341399-the-last-spell-elves-of-amberwald.json](./341399-the-last-spell-elves-of-amberwald.json) |
+| The Last Spell: Legendary Edition | 401586 | [401586-the-last-spell-legendary-edition.json](./401586-the-last-spell-legendary-edition.json) |
 | The Last Sphinx ARG | 111473 | [111473-the-last-sphinx-arg.json](./111473-the-last-sphinx-arg.json) |
 | The Last Spin | 298632 | [298632-the-last-spin.json](./298632-the-last-spin.json) |
 | The Last Squad | 349107 | [349107-the-last-squad.json](./349107-the-last-squad.json) |
@@ -19345,6 +19350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrill Drive | 65915 | [65915-thrill-drive.json](./65915-thrill-drive.json) |
 | Thrill Drive 2 | 65914 | [65914-thrill-drive-2.json](./65914-thrill-drive-2.json) |
 | Thrill Drive 3 | 65913 | [65913-thrill-drive-3.json](./65913-thrill-drive-3.json) |
+| Thrill EX | 401677 | [401677-thrill-ex.json](./401677-thrill-ex.json) |
 | Thrill Kill | 2387 | [2387-thrill-kill.json](./2387-thrill-kill.json) |
 | Thrill Penguin | 204332 | [204332-thrill-penguin.json](./204332-thrill-penguin.json) |
 | Thrill Rush | 103400 | [103400-thrill-rush.json](./103400-thrill-rush.json) |
@@ -27156,6 +27162,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Valley 2: Japanese Trails | 367283 | [367283-train-valley-2-japanese-trails.json](./367283-train-valley-2-japanese-trails.json) |
 | Train Valley 2: Myths and Rails | 200932 | [200932-train-valley-2-myths-and-rails.json](./200932-train-valley-2-myths-and-rails.json) |
 | Train Valley 2: The Pandeia Project | 252620 | [252620-train-valley-2-the-pandeia-project.json](./252620-train-valley-2-the-pandeia-project.json) |
+| Train Valley 2: Workshop Gems - Amber | 401594 | [401594-train-valley-2-workshop-gems-amber.json](./401594-train-valley-2-workshop-gems-amber.json) |
+| Train Valley 2: Workshop Gems - Amethyst | 401595 | [401595-train-valley-2-workshop-gems-amethyst.json](./401595-train-valley-2-workshop-gems-amethyst.json) |
 | Train Valley 2: Workshop Gems - Emerald | 227119 | [227119-train-valley-2-workshop-gems-emerald.json](./227119-train-valley-2-workshop-gems-emerald.json) |
 | Train Valley 2: Workshop Gems - Ruby | 219540 | [219540-train-valley-2-workshop-gems-ruby.json](./219540-train-valley-2-workshop-gems-ruby.json) |
 | Train Valley Collection | 270317 | [270317-train-valley-collection.json](./270317-train-valley-collection.json) |
