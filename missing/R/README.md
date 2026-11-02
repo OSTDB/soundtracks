@@ -2365,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayne the Rogue | 256768 | [256768-rayne-the-rogue.json](./256768-rayne-the-rogue.json) |
 | RaynGames | 355087 | [355087-rayngames.json](./355087-rayngames.json) |
 | Rayon Riddles: Rise of the Goblin King | 33762 | [33762-rayon-riddles-rise-of-the-goblin-king.json](./33762-rayon-riddles-rise-of-the-goblin-king.json) |
+| Raysing! | 423969 | [423969-raysing.json](./423969-raysing.json) |
 | RayStorm HD | 47448 | [47448-raystorm-hd.json](./47448-raystorm-hd.json) |
 | RayStorm x RayCrisis HD Collection | 240039 | [240039-raystorm-x-raycrisis-hd-collection.json](./240039-raystorm-x-raycrisis-hd-collection.json) |
 | Rayxanber | 92647 | [92647-rayxanber.json](./92647-rayxanber.json) |
@@ -2985,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Dissonance | 319182 | [319182-realm-of-dissonance.json](./319182-realm-of-dissonance.json) |
 | Realm of Divinos | 200824 | [200824-realm-of-divinos.json](./200824-realm-of-divinos.json) |
 | Realm of Dread | 265306 | [265306-realm-of-dread.json](./265306-realm-of-dread.json) |
+| Realm of Embers | 423987 | [423987-realm-of-embers.json](./423987-realm-of-embers.json) |
 | Realm of Heroes | 167257 | [167257-realm-of-heroes.json](./167257-realm-of-heroes.json) |
 | Realm Of I | 291547 | [291547-realm-of-i.json](./291547-realm-of-i.json) |
 | Realm of Ink | 274368 | [274368-realm-of-ink.json](./274368-realm-of-ink.json) |
@@ -4459,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rekindle | 155922 | [155922-rekindle.json](./155922-rekindle.json) |
 | Rekindle | 318709 | [318709-rekindle.json](./318709-rekindle.json) |
 | Rekindled | 404192 | [404192-rekindled.json](./404192-rekindled.json) |
+| Rekindled | 424019 | [424019-rekindled.json](./424019-rekindled.json) |
 | Rekindled Trails | 342079 | [342079-rekindled-trails.json](./342079-rekindled-trails.json) |
 | Rekindling | 117059 | [117059-rekindling.json](./117059-rekindling.json) |
 | Rekindling The Flame | 276833 | [276833-rekindling-the-flame.json](./276833-rekindling-the-flame.json) |
@@ -6366,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rex Ronan: Experimental Surgeon | 42651 | [42651-rex-ronan-experimental-surgeon.json](./42651-rex-ronan-experimental-surgeon.json) |
 | Rex Run | 305748 | [305748-rex-run.json](./305748-rex-run.json) |
 | Rex Sedes | 82785 | [82785-rex-sedes.json](./82785-rex-sedes.json) |
+| Rex Summons a Meteor | 424007 | [424007-rex-summons-a-meteor.json](./424007-rex-summons-a-meteor.json) |
 | Rex Verbi | 174318 | [174318-rex-verbi.json](./174318-rex-verbi.json) |
 | Rex: Another Island | 55295 | [55295-rex-another-island.json](./55295-rex-another-island.json) |
 | Rex! Your Interactive Pet Dinosaur | 313491 | [313491-rex-your-interactive-pet-dinosaur.json](./313491-rex-your-interactive-pet-dinosaur.json) |
@@ -6929,6 +6933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer DS | 20201 | [20201-ridge-racer-ds.json](./20201-ridge-racer-ds.json) |
 | Ridge Racer Mobile | 107012 | [107012-ridge-racer-mobile.json](./107012-ridge-racer-mobile.json) |
 | Ridge Racer Unbounded | 541 | [541-ridge-racer-unbounded.json](./541-ridge-racer-unbounded.json) |
+| Ridge Racer Unbounded: Limited Edition | 423990 | [423990-ridge-racer-unbounded-limited-edition.json](./423990-ridge-racer-unbounded-limited-edition.json) |
 | Ridge Racer V: Arcade Battle | 315284 | [315284-ridge-racer-v-arcade-battle.json](./315284-ridge-racer-v-arcade-battle.json) |
 | Ridge Racer: Turbo Mode | 297592 | [297592-ridge-racer-turbo-mode.json](./297592-ridge-racer-turbo-mode.json) |
 | Ridge Runner | 233250 | [233250-ridge-runner.json](./233250-ridge-runner.json) |
@@ -11191,6 +11196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruby's Rebalanced Halo 3 Campaign | 142379 | [142379-rubys-rebalanced-halo-3-campaign.json](./142379-rubys-rebalanced-halo-3-campaign.json) |
 | Ruby's Rebalanced Halo CE Campaign | 142276 | [142276-rubys-rebalanced-halo-ce-campaign.json](./142276-rubys-rebalanced-halo-ce-campaign.json) |
 | Ruby's Rebalanced Reach Campaign | 142380 | [142380-rubys-rebalanced-reach-campaign.json](./142380-rubys-rebalanced-reach-campaign.json) |
+| Ruby's Trick or Treat | 423970 | [423970-rubys-trick-or-treat.json](./423970-rubys-trick-or-treat.json) |
 | Ruby's Vitten Party | 304033 | [304033-rubys-vitten-party.json](./304033-rubys-vitten-party.json) |
 | RubyDung | 262083 | [262083-rubydung.json](./262083-rubydung.json) |
 | Rucida's Dream | 202328 | [202328-rucidas-dream.json](./202328-rucidas-dream.json) |
