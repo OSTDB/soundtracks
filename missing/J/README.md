@@ -3964,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Survival: The Zombie Awakening | 212217 | [212217-just-survival-the-zombie-awakening.json](./212217-just-survival-the-zombie-awakening.json) |
 | Just Survive | 18093 | [18093-just-survive.json](./18093-just-survive.json) |
 | Just Survive | 279565 | [279565-just-survive.json](./279565-just-survive.json) |
+| Just Survive Test Server | 83885 | [83885-just-survive-test-server.json](./83885-just-survive-test-server.json) |
 | Just Take Your Left | 148542 | [148542-just-take-your-left.json](./148542-just-take-your-left.json) |
 | Just Thanks | 267905 | [267905-just-thanks.json](./267905-just-thanks.json) |
 | Just the Two of Us | 264756 | [264756-just-the-two-of-us.json](./264756-just-the-two-of-us.json) |
