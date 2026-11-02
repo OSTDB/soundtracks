@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Drive: Whispers in the Woods | 366375 | [366375-pacific-drive-whispers-in-the-woods.json](./366375-pacific-drive-whispers-in-the-woods.json) |
 | Pacific Fighters | 24163 | [24163-pacific-fighters.json](./24163-pacific-fighters.json) |
 | Pacific Fire | 127259 | [127259-pacific-fire.json](./127259-pacific-fire.json) |
+| Pacific Fleet | 87506 | [87506-pacific-fleet.json](./87506-pacific-fleet.json) |
 | Pacific General | 14451 | [14451-pacific-general.json](./14451-pacific-general.json) |
 | Pacific Gunner | 92470 | [92470-pacific-gunner.json](./92470-pacific-gunner.json) |
 | Pacific Islands | 94494 | [94494-pacific-islands.json](./94494-pacific-islands.json) |
@@ -1428,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Taco Mia To Go! | 345835 | [345835-papas-taco-mia-to-go.json](./345835-papas-taco-mia-to-go.json) |
 | Papa's Time Machine | 96843 | [96843-papas-time-machine.json](./96843-papas-time-machine.json) |
 | Papa's Wingeria | 130765 | [130765-papas-wingeria.json](./130765-papas-wingeria.json) |
+| Papa's Wingeria HD | 88960 | [88960-papas-wingeria-hd.json](./88960-papas-wingeria-hd.json) |
 | Papair | 57148 | [57148-papair.json](./57148-papair.json) |
 | Papao: The Legend of the Bogeyman | 372544 | [372544-papao-the-legend-of-the-bogeyman.json](./372544-papao-the-legend-of-the-bogeyman.json) |
 | Paparazzi | 100038 | [100038-paparazzi.json](./100038-paparazzi.json) |
@@ -16079,6 +16081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pullfrog: Deluxe | 272468 | [272468-pullfrog-deluxe.json](./272468-pullfrog-deluxe.json) |
 | Pulling No Punches | 167512 | [167512-pulling-no-punches.json](./167512-pulling-no-punches.json) |
 | Pulling Pin: Pull the Pin | 231910 | [231910-pulling-pin-pull-the-pin.json](./231910-pulling-pin-pull-the-pin.json) |
+| Pulling USA | 87505 | [87505-pulling-usa.json](./87505-pulling-usa.json) |
 | Pulling USA 2 | 86883 | [86883-pulling-usa-2.json](./86883-pulling-usa-2.json) |
 | Pullstation | 349930 | [349930-pullstation.json](./349930-pullstation.json) |
 | Pullywog | 186636 | [186636-pullywog.json](./186636-pullywog.json) |
