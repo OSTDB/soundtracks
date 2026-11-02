@@ -1694,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Day | 11785 | [11785-garbage-day.json](./11785-garbage-day.json) |
 | Garbage Driver Truck Simulator 2025 | 319789 | [319789-garbage-driver-truck-simulator-2025.json](./319789-garbage-driver-truck-simulator-2025.json) |
 | Garbage Girl Louise | 316183 | [316183-garbage-girl-louise.json](./316183-garbage-girl-louise.json) |
+| Garbage Growth | 409319 | [409319-garbage-growth.json](./409319-garbage-growth.json) |
 | Garbage Incident | 420487 | [420487-garbage-incident.json](./420487-garbage-incident.json) |
 | Garbage Packer | 404406 | [404406-garbage-packer.json](./404406-garbage-packer.json) |
 | Garbage Pail Kids: Mad Mike and the Quest for Stale Gum | 221146 | [221146-garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum.json](./221146-garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum.json) |
@@ -2325,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War 3: Raam's Shadow | 21844 | [21844-gears-of-war-3-raams-shadow.json](./21844-gears-of-war-3-raams-shadow.json) |
 | Gears of War 4: Amazon Exclusive Collector's Edition | 51540 | [51540-gears-of-war-4-amazon-exclusive-collectors-edition.json](./51540-gears-of-war-4-amazon-exclusive-collectors-edition.json) |
 | Gears of War 4: Collector's Edition - Outsider Variant | 89838 | [89838-gears-of-war-4-collectors-edition-outsider-variant.json](./89838-gears-of-war-4-collectors-edition-outsider-variant.json) |
+| Gears of War: E-Day Premium Edition | 407702 | [407702-gears-of-war-e-day-premium-edition.json](./407702-gears-of-war-e-day-premium-edition.json) |
 | Gears of War: Limited Collector's Edition | 47450 | [47450-gears-of-war-limited-collectors-edition.json](./47450-gears-of-war-limited-collectors-edition.json) |
 | Gears of War: Reloaded | 342721 | [342721-gears-of-war-reloaded.json](./342721-gears-of-war-reloaded.json) |
 | Gears of War: Triple Pack | 136314 | [136314-gears-of-war-triple-pack.json](./136314-gears-of-war-triple-pack.json) |
@@ -5929,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Going Nowhere | 410699 | [410699-going-nowhere.json](./410699-going-nowhere.json) |
 | Going Nowhere: The Dream | 74383 | [74383-going-nowhere-the-dream.json](./74383-going-nowhere-the-dream.json) |
 | Going Nuts | 70405 | [70405-going-nuts.json](./70405-going-nuts.json) |
+| Going Once! | 407736 | [407736-going-once.json](./407736-going-once.json) |
 | Going Rogue | 223360 | [223360-going-rogue.json](./223360-going-rogue.json) |
 | Going the Distance | 166943 | [166943-going-the-distance.json](./166943-going-the-distance.json) |
 | Going To Bed | 375790 | [375790-going-to-bed.json](./375790-going-to-bed.json) |
@@ -5950,6 +5953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gokichi-kun Series: Igo Nyuumon Doujou | 239566 | [239566-gokichi-kun-series-igo-nyuumon-doujou.json](./239566-gokichi-kun-series-igo-nyuumon-doujou.json) |
 | Gokinjo Boukentai | 42398 | [42398-gokinjo-boukentai.json](./42398-gokinjo-boukentai.json) |
 | Goku Makaimura Kai | 63644 | [63644-goku-makaimura-kai.json](./63644-goku-makaimura-kai.json) |
+| Gokuaku Doumei Dump Matsumoto | 409994 | [409994-gokuaku-doumei-dump-matsumoto.json](./409994-gokuaku-doumei-dump-matsumoto.json) |
 | Gokudou no Hanayome | 394081 | [394081-gokudou-no-hanayome.json](./394081-gokudou-no-hanayome.json) |
 | Gokudou Simulation Teppoudama Jingi | 376131 | [376131-gokudou-simulation-teppoudama-jingi.json](./376131-gokudou-simulation-teppoudama-jingi.json) |
 | Gokujou Parodius: Kako no Eikou wo Motomete | 186142 | [186142-gokujou-parodius-kako-no-eikou-wo-motomete.json](./186142-gokujou-parodius-kako-no-eikou-wo-motomete.json) |
@@ -6898,6 +6902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorilla Slot Infinity | 326704 | [326704-gorilla-slot-infinity.json](./326704-gorilla-slot-infinity.json) |
 | Gorilla Smash City Attack Game | 274185 | [274185-gorilla-smash-city-attack-game.json](./274185-gorilla-smash-city-attack-game.json) |
 | Gorilla Tag | 143228 | [143228-gorilla-tag.json](./143228-gorilla-tag.json) |
+| Gorilla Tag Contagion | 409988 | [409988-gorilla-tag-contagion.json](./409988-gorilla-tag-contagion.json) |
 | Gorilla Unko | 387627 | [387627-gorilla-unko.json](./387627-gorilla-unko.json) |
 | Gorillas | 308395 | [308395-gorillas.json](./308395-gorillas.json) |
 | Gorillas-Lab | 376628 | [376628-gorillas-lab.json](./376628-gorillas-lab.json) |
@@ -7366,6 +7371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Cross W | 193860 | [193860-grand-cross-w.json](./193860-grand-cross-w.json) |
 | Grand Cross: Age of Titans | 261101 | [261101-grand-cross-age-of-titans.json](./261101-grand-cross-age-of-titans.json) |
 | Grand Crown: Pandora's Fate | 350200 | [350200-grand-crown-pandoras-fate.json](./350200-grand-crown-pandoras-fate.json) |
+| Grand Cru: The Wine Maker | 410620 | [410620-grand-cru-the-wine-maker.json](./410620-grand-cru-the-wine-maker.json) |
 | Grand Dad | 129542 | [129542-grand-dad.json](./129542-grand-dad.json) |
 | Grand Dad Overthrows Bowser | 238208 | [238208-grand-dad-overthrows-bowser.json](./238208-grand-dad-overthrows-bowser.json) |
 | Grand Emprise 2: Portals Apart | 285901 | [285901-grand-emprise-2-portals-apart.json](./285901-grand-emprise-2-portals-apart.json) |
@@ -7591,6 +7597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandma Cleaning Simulator: Family Business Tycoon | 308510 | [308510-grandma-cleaning-simulator-family-business-tycoon.json](./308510-grandma-cleaning-simulator-family-business-tycoon.json) |
 | Grandma Don't Click That! | 292938 | [292938-grandma-dont-click-that.json](./292938-grandma-dont-click-that.json) |
 | Grandma Green | 249353 | [249353-grandma-green.json](./249353-grandma-green.json) |
+| Grandma Left Me A Building | 410584 | [410584-grandma-left-me-a-building.json](./410584-grandma-left-me-a-building.json) |
 | Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
 | Grandma, No! | 328915 | [328915-grandma-no.json](./328915-grandma-no.json) |
 | Grandma's Cheese | 246836 | [246836-grandmas-cheese.json](./246836-grandmas-cheese.json) |
@@ -8730,6 +8737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grill’d: The Vanishing | 344851 | [344851-grill-d-the-vanishing.json](./344851-grill-d-the-vanishing.json) |
 | Grille Logic | 286580 | [286580-grille-logic.json](./286580-grille-logic.json) |
 | Grilled | 149459 | [149459-grilled.json](./149459-grilled.json) |
+| Grilluminati | 410614 | [410614-grilluminati.json](./410614-grilluminati.json) |
 | Grim | 196319 | [196319-grim.json](./196319-grim.json) |
 | Grim | 261740 | [261740-grim.json](./261740-grim.json) |
 | Grim | 379863 | [379863-grim.json](./379863-grim.json) |
@@ -8965,12 +8973,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grind TD | 389987 | [389987-grind-td.json](./389987-grind-td.json) |
 | Grind X Grind | 400552 | [400552-grind-x-grind.json](./400552-grind-x-grind.json) |
 | Grind Zones | 36217 | [36217-grind-zones.json](./36217-grind-zones.json) |
+| Grindcore | 407721 | [407721-grindcore.json](./407721-grindcore.json) |
 | GrindCraft | 218110 | [218110-grindcraft.json](./218110-grindcraft.json) |
 | Grinded Meat | 237068 | [237068-grinded-meat.json](./237068-grinded-meat.json) |
 | GrindFest | 324815 | [324815-grindfest.json](./324815-grindfest.json) |
 | Grindhouse Games Volume I | 142851 | [142851-grindhouse-games-volume-i.json](./142851-grindhouse-games-volume-i.json) |
 | Grindset T.V. | 330641 | [330641-grindset-t-v.json](./330641-grindset-t-v.json) |
 | Grindshift | 207307 | [207307-grindshift.json](./207307-grindshift.json) |
+| Grindstar | 407722 | [407722-grindstar.json](./407722-grindstar.json) |
 | Grindstone | 124031 | [124031-grindstone.json](./124031-grindstone.json) |
 | Grindworm | 361817 | [361817-grindworm.json](./361817-grindworm.json) |
 | Gringo Hero | 339472 | [339472-gringo-hero.json](./339472-gringo-hero.json) |
