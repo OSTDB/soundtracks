@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icewind Dale | 753 | [753-icewind-dale.json](./753-icewind-dale.json) |
 | Icewind Dale 3-in-1 Compilation | 143401 | [143401-icewind-dale-3-in-1-compilation.json](./143401-icewind-dale-3-in-1-compilation.json) |
 | Icewind Dale II | 876 | [876-icewind-dale-ii.json](./876-icewind-dale-ii.json) |
+| Icewind Dale II Complete | 51818 | [51818-icewind-dale-ii-complete.json](./51818-icewind-dale-ii-complete.json) |
 | Icewind Dale II: Adventure Pack | 69782 | [69782-icewind-dale-ii-adventure-pack.json](./69782-icewind-dale-ii-adventure-pack.json) |
 | Icewind Dale II: Collector's Edition | 232152 | [232152-icewind-dale-ii-collectors-edition.json](./232152-icewind-dale-ii-collectors-edition.json) |
 | Icewind Dale: Complete | 143699 | [143699-icewind-dale-complete.json](./143699-icewind-dale-complete.json) |
@@ -2456,6 +2457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impetus: Clamor in Portis | 135276 | [135276-impetus-clamor-in-portis.json](./135276-impetus-clamor-in-portis.json) |
 | Impious | 309678 | [309678-impious.json](./309678-impious.json) |
 | Impious Pumpkins | 183611 | [183611-impious-pumpkins.json](./183611-impious-pumpkins.json) |
+| Impire | 2916 | [2916-impire.json](./2916-impire.json) |
 | Impirical Evidence | 394437 | [394437-impirical-evidence.json](./394437-impirical-evidence.json) |
 | Impish Rat Electronic Pet | 314645 | [314645-impish-rat-electronic-pet.json](./314645-impish-rat-electronic-pet.json) |
 | Impixable | 110698 | [110698-impixable.json](./110698-impixable.json) |
@@ -2789,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In your Shadow | 112622 | [112622-in-your-shadow.json](./112622-in-your-shadow.json) |
 | In Your World (I Own) | 340761 | [340761-in-your-world-i-own.json](./340761-in-your-world-i-own.json) |
 | In Your Youth | 250453 | [250453-in-your-youth.json](./250453-in-your-youth.json) |
+| In-Fisherman Bass Hunter 64 | 3419 | [3419-in-fisherman-bass-hunter-64.json](./3419-in-fisherman-bass-hunter-64.json) |
 | In-Fisherman: Freshwater Trophies | 27543 | [27543-in-fisherman-freshwater-trophies.json](./27543-in-fisherman-freshwater-trophies.json) |
 | In-Flight Bowling Tournament | 238870 | [238870-in-flight-bowling-tournament.json](./238870-in-flight-bowling-tournament.json) |
 | In-Flight Golf | 238869 | [238869-in-flight-golf.json](./238869-in-flight-golf.json) |
