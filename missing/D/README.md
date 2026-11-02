@@ -8694,6 +8694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dillo's Dilemma | 346692 | [346692-dillos-dilemma.json](./346692-dillos-dilemma.json) |
 | Dillon's Dead-Heat Breakers | 90687 | [90687-dillons-dead-heat-breakers.json](./90687-dillons-dead-heat-breakers.json) |
 | Dillon's Rolling Western | 47655 | [47655-dillons-rolling-western.json](./47655-dillons-rolling-western.json) |
+| Dillon's Rolling Western: The Last Ranger | 24294 | [24294-dillons-rolling-western-the-last-ranger.json](./24294-dillons-rolling-western-the-last-ranger.json) |
 | Diluvian Ultra | 162254 | [162254-diluvian-ultra.json](./162254-diluvian-ultra.json) |
 | Diluvian Ultra: Awakening | 316989 | [316989-diluvian-ultra-awakening.json](./316989-diluvian-ultra-awakening.json) |
 | Diluvium | 64890 | [64890-diluvium.json](./64890-diluvium.json) |
@@ -8800,6 +8801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Dash Mobile | 104663 | [104663-diner-dash-mobile.json](./104663-diner-dash-mobile.json) |
 | Diner Dash Rush | 351764 | [351764-diner-dash-rush.json](./351764-diner-dash-rush.json) |
 | Diner Dash: Family Style | 366420 | [366420-diner-dash-family-style.json](./366420-diner-dash-family-style.json) |
+| Diner Dash: Flo on the Go | 24336 | [24336-diner-dash-flo-on-the-go.json](./24336-diner-dash-flo-on-the-go.json) |
 | Diner Dash: Hometown Hero | 16070 | [16070-diner-dash-hometown-hero.json](./16070-diner-dash-hometown-hero.json) |
 | Diner Dash: Hometown Hero - Once Upon a Diner | 393905 | [393905-diner-dash-hometown-hero-once-upon-a-diner.json](./393905-diner-dash-hometown-hero-once-upon-a-diner.json) |
 | Diner Dash: Sizzle & Serve | 21418 | [21418-diner-dash-sizzle-and-serve.json](./21418-diner-dash-sizzle-and-serve.json) |
@@ -14364,6 +14366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragondell | 184943 | [184943-dragondell.json](./184943-dragondell.json) |
 | Dragondot 3 | 135010 | [135010-dragondot-3.json](./135010-dragondot-3.json) |
 | Dragonea | 326064 | [326064-dragonea.json](./326064-dragonea.json) |
+| Dragoneer's Aria | 24279 | [24279-dragoneers-aria.json](./24279-dragoneers-aria.json) |
 | Dragoneila | 145301 | [145301-dragoneila.json](./145301-dragoneila.json) |
 | DragonFable | 92725 | [92725-dragonfable.json](./92725-dragonfable.json) |
 | Dragonfall | 296937 | [296937-dragonfall.json](./296937-dragonfall.json) |
@@ -16997,6 +17000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Mage | 244654 | [244654-dungeon-mage.json](./244654-dungeon-mage.json) |
 | Dungeon Magic | 39359 | [39359-dungeon-magic.json](./39359-dungeon-magic.json) |
 | Dungeon Maker II: The Hidden War | 42765 | [42765-dungeon-maker-ii-the-hidden-war.json](./42765-dungeon-maker-ii-the-hidden-war.json) |
+| Dungeon Maker: Hunting Ground | 24284 | [24284-dungeon-maker-hunting-ground.json](./24284-dungeon-maker-hunting-ground.json) |
 | Dungeon Man | 188253 | [188253-dungeon-man.json](./188253-dungeon-man.json) |
 | Dungeon Man | 277272 | [277272-dungeon-man.json](./277272-dungeon-man.json) |
 | Dungeon Manager ZV - Collection | 52936 | [52936-dungeon-manager-zv-collection.json](./52936-dungeon-manager-zv-collection.json) |
