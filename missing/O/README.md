@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odysseus Kosmos and his Robot Quest: Episode 4 | 171524 | [171524-odysseus-kosmos-and-his-robot-quest-episode-4.json](./171524-odysseus-kosmos-and-his-robot-quest-episode-4.json) |
 | Odysseus Kosmos and his Robot Quest: Episode 5 | 171515 | [171515-odysseus-kosmos-and-his-robot-quest-episode-5.json](./171515-odysseus-kosmos-and-his-robot-quest-episode-5.json) |
 | Odyssey | 12706 | [12706-odyssey.json](./12706-odyssey.json) |
+| Odyssey | 30443 | [30443-odyssey.json](./30443-odyssey.json) |
 | Odyssey Island | 272739 | [272739-odyssey-island.json](./272739-odyssey-island.json) |
 | Odyssey Kingdoms Expansion | 344012 | [344012-odyssey-kingdoms-expansion.json](./344012-odyssey-kingdoms-expansion.json) |
 | Odyssey Moon | 257239 | [257239-odyssey-moon.json](./257239-odyssey-moon.json) |
@@ -3576,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit Salvager | 267556 | [267556-orbit-salvager.json](./267556-orbit-salvager.json) |
 | Orbit VR | 199320 | [199320-orbit-vr.json](./199320-orbit-vr.json) |
 | Orbit Zero | 260593 | [260593-orbit-zero.json](./260593-orbit-zero.json) |
+| Orbit: Playing with Gravity | 30651 | [30651-orbit-playing-with-gravity.json](./30651-orbit-playing-with-gravity.json) |
 | Orbit: Satellite Defense | 83942 | [83942-orbit-satellite-defense.json](./83942-orbit-satellite-defense.json) |
 | Orbit.Industries | 194457 | [194457-orbit-industries.json](./194457-orbit-industries.json) |
 | Orbit's Grocery | 407796 | [407796-orbits-grocery.json](./407796-orbits-grocery.json) |
