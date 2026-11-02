@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Era Lumberjack | 368283 | [368283-war-era-lumberjack.json](./368283-war-era-lumberjack.json) |
 | War Eternal | 172670 | [172670-war-eternal.json](./172670-war-eternal.json) |
 | War Factory | 153155 | [153155-war-factory.json](./153155-war-factory.json) |
+| War Fantasy | 404616 | [404616-war-fantasy.json](./404616-war-fantasy.json) |
 | War Field | 105682 | [105682-war-field.json](./105682-war-field.json) |
 | War For Galaxy | 250897 | [250897-war-for-galaxy.json](./250897-war-for-galaxy.json) |
 | War for Magincia | 129711 | [129711-war-for-magincia.json](./129711-war-for-magincia.json) |
