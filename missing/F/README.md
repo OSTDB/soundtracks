@@ -3187,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Father's Love | 364983 | [364983-fathers-love.json](./364983-fathers-love.json) |
 | Fathers Farm | 377851 | [377851-fathers-farm.json](./377851-fathers-farm.json) |
 | Fathom | 10966 | [10966-fathom.json](./10966-fathom.json) |
+| Fathom | 400599 | [400599-fathom.json](./400599-fathom.json) |
 | Fathom: The Game of Tiles | 70065 | [70065-fathom-the-game-of-tiles.json](./70065-fathom-the-game-of-tiles.json) |
 | Fathom's End | 396401 | [396401-fathoms-end.json](./396401-fathoms-end.json) |
 | Fathomless | 415095 | [415095-fathomless.json](./415095-fathomless.json) |
@@ -4218,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 97 | 240217 | [240217-fifa-soccer-97.json](./240217-fifa-soccer-97.json) |
 | FIFA Soccer 97 | 45582 | [45582-fifa-soccer-97.json](./45582-fifa-soccer-97.json) |
 | FIFA Soccer Manager | 79955 | [79955-fifa-soccer-manager.json](./79955-fifa-soccer-manager.json) |
+| FIFA Soccer World Championship | 400511 | [400511-fifa-soccer-world-championship.json](./400511-fifa-soccer-world-championship.json) |
 | FIFA Soccer: Prime Stars | 58312 | [58312-fifa-soccer-prime-stars.json](./58312-fifa-soccer-prime-stars.json) |
 | FIFA Street | 5575 | [5575-fifa-street.json](./5575-fifa-street.json) |
 | FIFA Street | 5832 | [5832-fifa-street.json](./5832-fifa-street.json) |
@@ -6953,6 +6955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Bird | 7671 | [7671-flappy-bird.json](./7671-flappy-bird.json) |
 | Flappy Bird Flash | 319547 | [319547-flappy-bird-flash.json](./319547-flappy-bird-flash.json) |
 | Flappy Bird GB | 297596 | [297596-flappy-bird-gb.json](./297596-flappy-bird-gb.json) |
+| Flappy Bird NX | 400525 | [400525-flappy-bird-nx.json](./400525-flappy-bird-nx.json) |
 | Flappy Bird Ultra | 368522 | [368522-flappy-bird-ultra.json](./368522-flappy-bird-ultra.json) |
 | Flappy Bird: Testing | 218071 | [218071-flappy-bird-testing.json](./218071-flappy-bird-testing.json) |
 | Flappy Bird: The Bird Game | 108615 | [108615-flappy-bird-the-bird-game.json](./108615-flappy-bird-the-bird-game.json) |
