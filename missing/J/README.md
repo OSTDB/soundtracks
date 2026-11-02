@@ -3672,6 +3672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution 2: Prehistoric Marine Species Pack | 259955 | [259955-jurassic-world-evolution-2-prehistoric-marine-species-pack.json](./259955-jurassic-world-evolution-2-prehistoric-marine-species-pack.json) |
 | Jurassic World Evolution 3 | 347650 | [347650-jurassic-world-evolution-3.json](./347650-jurassic-world-evolution-3.json) |
 | Jurassic World Evolution 3: Deluxe Edition | 406704 | [406704-jurassic-world-evolution-3-deluxe-edition.json](./406704-jurassic-world-evolution-3-deluxe-edition.json) |
+| Jurassic World Evolution 3: Rebirth Expansion | 407074 | [407074-jurassic-world-evolution-3-rebirth-expansion.json](./407074-jurassic-world-evolution-3-rebirth-expansion.json) |
 | Jurassic World Evolution: Carnivore Dinosaur Pack | 152605 | [152605-jurassic-world-evolution-carnivore-dinosaur-pack.json](./152605-jurassic-world-evolution-carnivore-dinosaur-pack.json) |
 | Jurassic World Evolution: Complete Edition | 138196 | [138196-jurassic-world-evolution-complete-edition.json](./138196-jurassic-world-evolution-complete-edition.json) |
 | Jurassic World Evolution: Cretaceous Dinosaur Pack | 113368 | [113368-jurassic-world-evolution-cretaceous-dinosaur-pack.json](./113368-jurassic-world-evolution-cretaceous-dinosaur-pack.json) |
@@ -3882,6 +3883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Freeskiing | 86985 | [86985-just-freeskiing.json](./86985-just-freeskiing.json) |
 | Just Futanari | 236899 | [236899-just-futanari.json](./236899-just-futanari.json) |
 | Just Futanari 2 | 365646 | [365646-just-futanari-2.json](./365646-just-futanari-2.json) |
+| Just Futanari 3 | 406450 | [406450-just-futanari-3.json](./406450-just-futanari-3.json) |
 | Just Get 10 | 324806 | [324806-just-get-10.json](./324806-just-get-10.json) |
 | Just Get 2048: A Simple Puzzle Game! | 264218 | [264218-just-get-2048-a-simple-puzzle-game.json](./264218-just-get-2048-a-simple-puzzle-game.json) |
 | Just Get In Through the Door | 158677 | [158677-just-get-in-through-the-door.json](./158677-just-get-in-through-the-door.json) |
