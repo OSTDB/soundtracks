@@ -2013,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou Shoujo Pretty Sammy: Osorubeshi Shintai Sokutei! Kakubakuhatsu 5 Byou Mae!! | 61329 | [61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json](./61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json) |
 | Mahou Shoujo Sakana | 385883 | [385883-mahou-shoujo-sakana.json](./385883-mahou-shoujo-sakana.json) |
 | Mahou Shoujo wo Wasurenai | 396472 | [396472-mahou-shoujo-wo-wasurenai.json](./396472-mahou-shoujo-wo-wasurenai.json) |
+| Mahou Shoujo: Magical Shota | 402665 | [402665-mahou-shoujo-magical-shota.json](./402665-mahou-shoujo-magical-shota.json) |
 | Mahou Show-Jo | 185426 | [185426-mahou-show-jo.json](./185426-mahou-show-jo.json) |
 | Mahou Tsukai Kurohime | 108956 | [108956-mahou-tsukai-kurohime.json](./108956-mahou-tsukai-kurohime.json) |
 | Mahoujin Guru-guru | 44440 | [44440-mahoujin-guru-guru.json](./44440-mahoujin-guru-guru.json) |
@@ -3149,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mappy Micro Player | 304231 | [304231-mappy-micro-player.json](./304231-mappy-micro-player.json) |
 | Mappy-Land | 48179 | [48179-mappy-land.json](./48179-mappy-land.json) |
 | Mappy: Revenge of Nyamco | 243828 | [243828-mappy-revenge-of-nyamco.json](./243828-mappy-revenge-of-nyamco.json) |
+| MAPS (My Apocalyptic Plan for Survival) | 402668 | [402668-maps-my-apocalyptic-plan-for-survival.json](./402668-maps-my-apocalyptic-plan-for-survival.json) |
 | Maps 4Matt | 312897 | [312897-maps-4matt.json](./312897-maps-4matt.json) |
 | Maps 4TMD | 312911 | [312911-maps-4tmd.json](./312911-maps-4tmd.json) |
 | Maps of our World | 108213 | [108213-maps-of-our-world.json](./108213-maps-of-our-world.json) |
@@ -5517,6 +5519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Downforce | 182948 | [182948-max-downforce.json](./182948-max-downforce.json) |
 | Max Gentlemen Sexy Business! | 128178 | [128178-max-gentlemen-sexy-business.json](./128178-max-gentlemen-sexy-business.json) |
 | Max Gentlemen: Animal Pack | 170384 | [170384-max-gentlemen-animal-pack.json](./170384-max-gentlemen-animal-pack.json) |
+| Max Gentlemen: Escape From Moriarty Mansion | 402670 | [402670-max-gentlemen-escape-from-moriarty-mansion.json](./402670-max-gentlemen-escape-from-moriarty-mansion.json) |
 | Max Goes by Bus, Train and Ship | 410468 | [410468-max-goes-by-bus-train-and-ship.json](./410468-max-goes-by-bus-train-and-ship.json) |
 | Max Headroom | 26436 | [26436-max-headroom.json](./26436-max-headroom.json) |
 | Max im All | 91589 | [91589-max-im-all.json](./91589-max-im-all.json) |
@@ -7925,6 +7928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mekkablood: Quarry Assault | 305122 | [305122-mekkablood-quarry-assault.json](./305122-mekkablood-quarry-assault.json) |
 | Mekorama | 58295 | [58295-mekorama.json](./58295-mekorama.json) |
 | Mekururi Witch | 151803 | [151803-mekururi-witch.json](./151803-mekururi-witch.json) |
+| Mekururi: Dizzying Witch | 402673 | [402673-mekururi-dizzying-witch.json](./402673-mekururi-dizzying-witch.json) |
 | Mel Gibson's Safari 3 | 47039 | [47039-mel-gibsons-safari-3.json](./47039-mel-gibsons-safari-3.json) |
 | Mel The Cat | 375433 | [375433-mel-the-cat.json](./375433-mel-the-cat.json) |
 | Mel The Pyramid Cat | 401742 | [401742-mel-the-pyramid-cat.json](./401742-mel-the-pyramid-cat.json) |
@@ -16652,6 +16656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Ultimate Edition | 283138 | [283138-moto-rush-gt-ultimate-edition.json](./283138-moto-rush-gt-ultimate-edition.json) |
 | Moto Rush GT: Ultra Edition | 332512 | [332512-moto-rush-gt-ultra-edition.json](./332512-moto-rush-gt-ultra-edition.json) |
 | Moto Rush Reborn | 302969 | [302969-moto-rush-reborn.json](./302969-moto-rush-reborn.json) |
+| Moto Trial Turbo | 402674 | [402674-moto-trial-turbo.json](./402674-moto-trial-turbo.json) |
 | Moto Trophy VR | 226147 | [226147-moto-trophy-vr.json](./226147-moto-trophy-vr.json) |
 | Moto VR | 86629 | [86629-moto-vr.json](./86629-moto-vr.json) |
 | Moto Wheelie | 257469 | [257469-moto-wheelie.json](./257469-moto-wheelie.json) |
