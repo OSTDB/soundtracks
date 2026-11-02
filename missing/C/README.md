@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caladria Chronicles | 114913 | [114913-caladria-chronicles.json](./114913-caladria-chronicles.json) |
 | Caladria Chronicles Volume 2 | 230972 | [230972-caladria-chronicles-volume-2.json](./230972-caladria-chronicles-volume-2.json) |
 | Caladrius | 47482 | [47482-caladrius.json](./47482-caladrius.json) |
+| Caladrius Blaze | 26703 | [26703-caladrius-blaze.json](./26703-caladrius-blaze.json) |
 | Calamai Kid | 95688 | [95688-calamai-kid.json](./95688-calamai-kid.json) |
 | Calamari Capsize | 266346 | [266346-calamari-capsize.json](./266346-calamari-capsize.json) |
 | Calamari Clash | 127844 | [127844-calamari-clash.json](./127844-calamari-clash.json) |
@@ -2356,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardinal Ramship Pirate | 176295 | [176295-cardinal-ramship-pirate.json](./176295-cardinal-ramship-pirate.json) |
 | Cardinal Sequence | 333163 | [333163-cardinal-sequence.json](./333163-cardinal-sequence.json) |
 | Cardinal Sins | 308983 | [308983-cardinal-sins.json](./308983-cardinal-sins.json) |
+| Cardinal Syn | 26657 | [26657-cardinal-syn.json](./26657-cardinal-syn.json) |
 | Cardio | 363000 | [363000-cardio.json](./363000-cardio.json) |
 | CardioCasino | 177924 | [177924-cardiocasino.json](./177924-cardiocasino.json) |
 | CardioEX | 215246 | [215246-cardioex.json](./215246-cardioex.json) |
@@ -13251,6 +13253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Mama World: Hobbies & Fun | 47957 | [47957-cooking-mama-world-hobbies-and-fun.json](./47957-cooking-mama-world-hobbies-and-fun.json) |
 | Cooking Mama: Let's Cook! | 88776 | [88776-cooking-mama-lets-cook.json](./88776-cooking-mama-lets-cook.json) |
 | Cooking Mama: Mama Kills Animals | 18449 | [18449-cooking-mama-mama-kills-animals.json](./18449-cooking-mama-mama-kills-animals.json) |
+| Cooking Mama: Sweet Shop | 27190 | [27190-cooking-mama-sweet-shop.json](./27190-cooking-mama-sweet-shop.json) |
 | Cooking Mama: World Kitchen | 3064 | [3064-cooking-mama-world-kitchen.json](./3064-cooking-mama-world-kitchen.json) |
 | Cooking Mania | 174773 | [174773-cooking-mania.json](./174773-cooking-mania.json) |
 | Cooking Misha | 399752 | [399752-cooking-misha.json](./399752-cooking-misha.json) |
@@ -13683,6 +13686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Party: Book of Shadows | 11318 | [11318-corpse-party-book-of-shadows.json](./11318-corpse-party-book-of-shadows.json) |
 | Corpse Party: Cross Fear | 135889 | [135889-corpse-party-cross-fear.json](./135889-corpse-party-cross-fear.json) |
 | Corpse Party: Rebuilt | 151849 | [151849-corpse-party-rebuilt.json](./151849-corpse-party-rebuilt.json) |
+| Corpse Party: Sweet Sachiko's Hysteric Birthday Bash | 116560 | [116560-corpse-party-sweet-sachikos-hysteric-birthday-bash.json](./116560-corpse-party-sweet-sachikos-hysteric-birthday-bash.json) |
 | Corpse Reviver | 134865 | [134865-corpse-reviver.json](./134865-corpse-reviver.json) |
 | Corpse-Party: if | 413925 | [413925-corpse-party-if.json](./413925-corpse-party-if.json) |
 | Corpse-Party: if - Past End | 135890 | [135890-corpse-party-if-past-end.json](./135890-corpse-party-if-past-end.json) |
