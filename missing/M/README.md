@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M2xM4 | 76240 | [76240-m2xm4.json](./76240-m2xm4.json) |
 | M3 - Molesting the Match-3 Market | 94232 | [94232-m3-molesting-the-match-3-market.json](./94232-m3-molesting-the-match-3-market.json) |
 | M3 Sono Kuroki Hagane: Mission Memento Mori | 61663 | [61663-m3-sono-kuroki-hagane-mission-memento-mori.json](./61663-m3-sono-kuroki-hagane-mission-memento-mori.json) |
+| M348 | 421582 | [421582-m348.json](./421582-m348.json) |
 | M3nticid3: Control Group | 393018 | [393018-m3nticid3-control-group.json](./393018-m3nticid3-control-group.json) |
 | M6 | 78443 | [78443-m6.json](./78443-m6.json) |
 | M87 | 200511 | [200511-m87.json](./200511-m87.json) |
@@ -266,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macro golf | 169772 | [169772-macro-golf.json](./169772-macro-golf.json) |
 | Macro-TV | 278071 | [278071-macro-tv.json](./278071-macro-tv.json) |
 | Macrocosm | 200180 | [200180-macrocosm.json](./200180-macrocosm.json) |
+| Macron Dissolution | 421569 | [421569-macron-dissolution.json](./421569-macron-dissolution.json) |
 | Macross - Eternal Love Song | 41994 | [41994-macross-eternal-love-song.json](./41994-macross-eternal-love-song.json) |
 | Macross 30: Voices across the Galaxy | 79292 | [79292-macross-30-voices-across-the-galaxy.json](./79292-macross-30-voices-across-the-galaxy.json) |
 | Macross Ace Frontier | 44486 | [44486-macross-ace-frontier.json](./44486-macross-ace-frontier.json) |
@@ -828,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mag | 178431 | [178431-mag.json](./178431-mag.json) |
 | MAG | 229766 | [229766-mag.json](./229766-mag.json) |
 | MAG | 7365 | [7365-mag.json](./7365-mag.json) |
+| Mag the Magician | 421583 | [421583-mag-the-magician.json](./421583-mag-the-magician.json) |
 | Mag-Racer | 70229 | [70229-mag-racer.json](./70229-mag-racer.json) |
 | Maga Patalójika | 289222 | [289222-maga-patalojika.json](./289222-maga-patalojika.json) |
 | Magalumina | 392932 | [392932-magalumina.json](./392932-magalumina.json) |
@@ -3471,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Sonic at the Sochi 2014 Olympic Winter Games | 3990 | [3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json](./3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json) |
 | Mario & Sonic: The Ultimate Team | 323037 | [323037-mario-and-sonic-the-ultimate-team.json](./323037-mario-and-sonic-the-ultimate-team.json) |
 | Mario & Wario | 1709 | [1709-mario-and-wario.json](./1709-mario-and-wario.json) |
+| Mario + Rabbids Double Pack | 422192 | [422192-mario-rabbids-double-pack.json](./422192-mario-rabbids-double-pack.json) |
 | Mario + Rabbids Kingdom Battle: Donkey Kong Adventure | 103317 | [103317-mario-rabbids-kingdom-battle-donkey-kong-adventure.json](./103317-mario-rabbids-kingdom-battle-donkey-kong-adventure.json) |
 | Mario + Rabbids Kingdom Battle: Gold Edition | 121506 | [121506-mario-rabbids-kingdom-battle-gold-edition.json](./121506-mario-rabbids-kingdom-battle-gold-edition.json) |
 | Mario + Rabbids Kingdom Battle: Pixel Pack | 237995 | [237995-mario-rabbids-kingdom-battle-pixel-pack.json](./237995-mario-rabbids-kingdom-battle-pixel-pack.json) |
@@ -5522,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Steel: Max Technical | 294464 | [294464-max-steel-max-technical.json](./294464-max-steel-max-technical.json) |
 | Max Steel: Turbo Tablet | 294465 | [294465-max-steel-turbo-tablet.json](./294465-max-steel-turbo-tablet.json) |
 | Max Stern | 31197 | [31197-max-stern.json](./31197-max-stern.json) |
+| Max Stone | 421584 | [421584-max-stone.json](./421584-max-stone.json) |
 | Max Strong 2 | 310605 | [310605-max-strong-2.json](./310605-max-strong-2.json) |
 | Max Strong: Private Investigator | 310604 | [310604-max-strong-private-investigator.json](./310604-max-strong-private-investigator.json) |
 | Max Surfing 2nd | 398002 | [398002-max-surfing-2nd.json](./398002-max-surfing-2nd.json) |
@@ -5575,6 +5580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -5981,6 +5987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MazM: Hyde and Seek | 232306 | [232306-mazm-hyde-and-seek.json](./232306-mazm-hyde-and-seek.json) |
 | MazM: Jekyll and Hyde | 105857 | [105857-mazm-jekyll-and-hyde.json](./105857-mazm-jekyll-and-hyde.json) |
 | MazM: The Phantom of the Opera | 125865 | [125865-mazm-the-phantom-of-the-opera.json](./125865-mazm-the-phantom-of-the-opera.json) |
+| Mazmorras de Tokat | 421586 | [421586-mazmorras-de-tokat.json](./421586-mazmorras-de-tokat.json) |
 | Mazovian Adventure | 128961 | [128961-mazovian-adventure.json](./128961-mazovian-adventure.json) |
 | Mazy | 385576 | [385576-mazy.json](./385576-mazy.json) |
 | Mazy Match | 282743 | [282743-mazy-match.json](./282743-mazy-match.json) |
@@ -7409,6 +7416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: The Wily Wars | 1727 | [1727-mega-man-the-wily-wars.json](./1727-mega-man-the-wily-wars.json) |
 | Mega Man: Twin Destinies | 313111 | [313111-mega-man-twin-destinies.json](./313111-mega-man-twin-destinies.json) |
 | Mega Man: Wily Tower | 255798 | [255798-mega-man-wily-tower.json](./255798-mega-man-wily-tower.json) |
+| Mega Manic Mulholland | 421587 | [421587-mega-manic-mulholland.json](./421587-mega-manic-mulholland.json) |
 | Mega Marble World | 141106 | [141106-mega-marble-world.json](./141106-mega-marble-world.json) |
 | Mega Marble World 2 | 157671 | [157671-mega-marble-world-2.json](./157671-mega-marble-world-2.json) |
 | Mega Mario | 307712 | [307712-mega-mario.json](./307712-mega-mario.json) |
@@ -12644,6 +12652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mischief Moves In | 414166 | [414166-mischief-moves-in.json](./414166-mischief-moves-in.json) |
 | Mischief on Main Street | 105232 | [105232-mischief-on-main-street.json](./105232-mischief-on-main-street.json) |
 | Mischievous | 289282 | [289282-mischievous.json](./289282-mischievous.json) |
+| Misco Jones: En busca de la Vah-Ka perdida | 421588 | [421588-misco-jones-en-busca-de-la-vah-ka-perdida.json](./421588-misco-jones-en-busca-de-la-vah-ka-perdida.json) |
 | Miscreant | 422649 | [422649-miscreant.json](./422649-miscreant.json) |
 | Miscreated: Canyonlands | 171581 | [171581-miscreated-canyonlands.json](./171581-miscreated-canyonlands.json) |
 | Miscrits: Volcano Island | 98465 | [98465-miscrits-volcano-island.json](./98465-miscrits-volcano-island.json) |
@@ -13783,6 +13792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moff Pac-Man | 214362 | [214362-moff-pac-man.json](./214362-moff-pac-man.json) |
 | Mofina Island | 230889 | [230889-mofina-island.json](./230889-mofina-island.json) |
 | Mofumofu Sensen | 205013 | [205013-mofumofu-sensen.json](./205013-mofumofu-sensen.json) |
+| Moge | 422125 | [422125-moge.json](./422125-moge.json) |
 | Mogeko Castle | 213382 | [213382-mogeko-castle.json](./213382-mogeko-castle.json) |
 | Mogeko Castle | 61296 | [61296-mogeko-castle.json](./61296-mogeko-castle.json) |
 | Mogh | 126526 | [126526-mogh.json](./126526-mogh.json) |
@@ -14146,6 +14156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mondrian Squares | 192751 | [192751-mondrian-squares.json](./192751-mondrian-squares.json) |
 | Mondrian: Plastic Reality | 83408 | [83408-mondrian-plastic-reality.json](./83408-mondrian-plastic-reality.json) |
 | Mondschein | 122220 | [122220-mondschein.json](./122220-mondschein.json) |
+| Mondyi | 422149 | [422149-mondyi.json](./422149-mondyi.json) |
 | Monet - The Mystery of the Orangery | 129764 | [129764-monet-the-mystery-of-the-orangery.json](./129764-monet-the-mystery-of-the-orangery.json) |
 | Monet Heist | 184948 | [184948-monet-heist.json](./184948-monet-heist.json) |
 | Money and Lady | 309421 | [309421-money-and-lady.json](./309421-money-and-lady.json) |
@@ -17941,6 +17952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muramasa Rebirth: Blessing of Amitabha Collector's Edition | 89921 | [89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json](./89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json) |
 | Muramasa: Revenant Blades | 405445 | [405445-muramasa-revenant-blades.json](./405445-muramasa-revenant-blades.json) |
 | Muramasa: The Demon Blade | 2266 | [2266-muramasa-the-demon-blade.json](./2266-muramasa-the-demon-blade.json) |
+| Muraphilic Monophobic Multiban | 422172 | [422172-muraphilic-monophobic-multiban.json](./422172-muraphilic-monophobic-multiban.json) |
 | Murasa no Block Puzzle | 210419 | [210419-murasa-no-block-puzzle.json](./210419-murasa-no-block-puzzle.json) |
 | Murasaki | 34678 | [34678-murasaki.json](./34678-murasaki.json) |
 | Murasaki Baby | 19926 | [19926-murasaki-baby.json](./19926-murasaki-baby.json) |
@@ -19133,6 +19145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Golf 3D | 91166 | [91166-my-golf-3d.json](./91166-my-golf-3d.json) |
 | My Golf Game featuring Ernie Els | 206772 | [206772-my-golf-game-featuring-ernie-els.json](./206772-my-golf-game-featuring-ernie-els.json) |
 | My Goth Girl | 400504 | [400504-my-goth-girl.json](./400504-my-goth-girl.json) |
+| My Grandfather's Secret | 421554 | [421554-my-grandfathers-secret.json](./421554-my-grandfathers-secret.json) |
 | My Grandparent's House | 281595 | [281595-my-grandparents-house.json](./281595-my-grandparents-house.json) |
 | My Grandparents' Christmas Mystery | 236378 | [236378-my-grandparents-christmas-mystery.json](./236378-my-grandparents-christmas-mystery.json) |
 | My granny Lala and me | 183773 | [183773-my-granny-lala-and-me.json](./183773-my-granny-lala-and-me.json) |
@@ -20233,6 +20246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Castle: The Mirror's Secret | 33873 | [33873-mystery-castle-the-mirrors-secret.json](./33873-mystery-castle-the-mirrors-secret.json) |
 | Mystery Cat | 257519 | [257519-mystery-cat.json](./257519-mystery-cat.json) |
 | Mystery Channel | 269502 | [269502-mystery-channel.json](./269502-mystery-channel.json) |
+| Mystery Chronicles: Betrayals of Love | 421574 | [421574-mystery-chronicles-betrayals-of-love.json](./421574-mystery-chronicles-betrayals-of-love.json) |
 | Mystery Chronicles: Murder Among Friends | 64727 | [64727-mystery-chronicles-murder-among-friends.json](./64727-mystery-chronicles-murder-among-friends.json) |
 | Mystery Chronicles: One Way Heroics | 124745 | [124745-mystery-chronicles-one-way-heroics.json](./124745-mystery-chronicles-one-way-heroics.json) |
 | Mystery Circle | 37916 | [37916-mystery-circle.json](./37916-mystery-circle.json) |
