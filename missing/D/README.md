@@ -15494,6 +15494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Long Racing: JapaneseStreet | 247339 | [247339-drift-long-racing-japanesestreet.json](./247339-drift-long-racing-japanesestreet.json) |
 | Drift Long Racing: SovietCity | 247337 | [247337-drift-long-racing-sovietcity.json](./247337-drift-long-racing-sovietcity.json) |
 | Drift Mania | 161412 | [161412-drift-mania.json](./161412-drift-mania.json) |
+| Drift Mania | 426421 | [426421-drift-mania.json](./426421-drift-mania.json) |
 | Drift Mania Championship | 88226 | [88226-drift-mania-championship.json](./88226-drift-mania-championship.json) |
 | Drift Mania Championship 2 | 104521 | [104521-drift-mania-championship-2.json](./104521-drift-mania-championship-2.json) |
 | Drift Mania: Street Outlaws | 38938 | [38938-drift-mania-street-outlaws.json](./38938-drift-mania-street-outlaws.json) |
@@ -16352,6 +16353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Doom Deluxe | 201180 | [201180-duck-doom-deluxe.json](./201180-duck-doom-deluxe.json) |
 | Duck Duchy | 164168 | [164168-duck-duchy.json](./164168-duck-duchy.json) |
 | Duck Duck Adventure | 330644 | [330644-duck-duck-adventure.json](./330644-duck-duck-adventure.json) |
+| Duck Duck Gone | 426428 | [426428-duck-duck-gone.json](./426428-duck-duck-gone.json) |
 | Duck Duck Goose | 133037 | [133037-duck-duck-goose.json](./133037-duck-duck-goose.json) |
 | Duck Duck Goose | 358870 | [358870-duck-duck-goose.json](./358870-duck-duck-goose.json) |
 | Duck Duck Hotel | 384083 | [384083-duck-duck-hotel.json](./384083-duck-duck-hotel.json) |
