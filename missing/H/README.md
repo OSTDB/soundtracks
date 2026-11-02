@@ -2801,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazelnut Latte | 294175 | [294175-hazelnut-latte.json](./294175-hazelnut-latte.json) |
 | Hazels | 257521 | [257521-hazels.json](./257521-hazels.json) |
 | Hazelwood Station | 295001 | [295001-hazelwood-station.json](./295001-hazelwood-station.json) |
+| Hazen: The Dark Whispers | 16153 | [16153-hazen-the-dark-whispers.json](./16153-hazen-the-dark-whispers.json) |
 | Hazeron Starship | 277286 | [277286-hazeron-starship.json](./277286-hazeron-starship.json) |
 | Hazing: Night Shift | 305147 | [305147-hazing-night-shift.json](./305147-hazing-night-shift.json) |
 | Hazmat Hijinks | 101327 | [101327-hazmat-hijinks.json](./101327-hazmat-hijinks.json) |
@@ -2915,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Header Goal VR: Being Axel Rix | 31177 | [31177-header-goal-vr-being-axel-rix.json](./31177-header-goal-vr-being-axel-rix.json) |
 | HeadHorse Legacy | 249908 | [249908-headhorse-legacy.json](./249908-headhorse-legacy.json) |
 | Headhunter | 4350 | [4350-headhunter.json](./4350-headhunter.json) |
+| Headhunter: Redemption | 5860 | [5860-headhunter-redemption.json](./5860-headhunter-redemption.json) |
 | HeadHunters | 373751 | [373751-headhunters.json](./373751-headhunters.json) |
 | Headhunters: Bang Bang | 323694 | [323694-headhunters-bang-bang.json](./323694-headhunters-bang-bang.json) |
 | Headhunting | 345130 | [345130-headhunting.json](./345130-headhunting.json) |
@@ -10889,6 +10891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humerous | 282795 | [282795-humerous.json](./282795-humerous.json) |
 | Humilau Resort: A Pokémon Escape Room | 341924 | [341924-humilau-resort-a-pokemon-escape-room.json](./341924-humilau-resort-a-pokemon-escape-room.json) |
 | Hummer | 92631 | [92631-hummer.json](./92631-hummer.json) |
+| Hummer Badlands | 5864 | [5864-hummer-badlands.json](./5864-hummer-badlands.json) |
 | Hummer Offroad Challenge | 23559 | [23559-hummer-offroad-challenge.json](./23559-hummer-offroad-challenge.json) |
 | Hummingbird Garden | 388542 | [388542-hummingbird-garden.json](./388542-hummingbird-garden.json) |
 | Hummingbird Mind | 60454 | [60454-hummingbird-mind.json](./60454-hummingbird-mind.json) |
@@ -11753,6 +11756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdrive Horizon | 340495 | [340495-hyperdrive-horizon.json](./340495-hyperdrive-horizon.json) |
 | Hyperdrive Hunter | 104713 | [104713-hyperdrive-hunter.json](./104713-hyperdrive-hunter.json) |
 | Hyperdrive Inn | 265092 | [265092-hyperdrive-inn.json](./265092-hyperdrive-inn.json) |
+| Hyperdrive Massacre | 15902 | [15902-hyperdrive-massacre.json](./15902-hyperdrive-massacre.json) |
 | HyperDrive X | 409241 | [409241-hyperdrive-x.json](./409241-hyperdrive-x.json) |
 | Hyperdrome | 125330 | [125330-hyperdrome.json](./125330-hyperdrome.json) |
 | Hyperdrome | 237001 | [237001-hyperdrome.json](./237001-hyperdrome.json) |
