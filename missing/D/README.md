@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Bursting Love | 184307 | [184307-danganronpa-bursting-love.json](./184307-danganronpa-bursting-love.json) |
 | Danganronpa: Checkmate | 254595 | [254595-danganronpa-checkmate.json](./254595-danganronpa-checkmate.json) |
 | Danganronpa: Dead End | 134504 | [134504-danganronpa-dead-end.json](./134504-danganronpa-dead-end.json) |
+| Danganronpa: Decadence | 152359 | [152359-danganronpa-decadence.json](./152359-danganronpa-decadence.json) |
 | Danganronpa: Decadence - Collector's Edition | 153645 | [153645-danganronpa-decadence-collectors-edition.json](./153645-danganronpa-decadence-collectors-edition.json) |
 | Danganronpa: Despair Among Us | 411319 | [411319-danganronpa-despair-among-us.json](./411319-danganronpa-despair-among-us.json) |
 | Danganronpa: Despair's Loss | 411323 | [411323-danganronpa-despairs-loss.json](./411323-danganronpa-despairs-loss.json) |
@@ -7705,6 +7706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dexoriality | 130824 | [130824-dexoriality.json](./130824-dexoriality.json) |
 | DexSweeper | 333420 | [333420-dexsweeper.json](./333420-dexsweeper.json) |
 | Dexter Stardust | 213337 | [213337-dexter-stardust.json](./213337-dexter-stardust.json) |
+| Dexter Stardust: Adventures in Outer Space | 153075 | [153075-dexter-stardust-adventures-in-outer-space.json](./153075-dexter-stardust-adventures-in-outer-space.json) |
 | Dexter Stardust: Returns to Outer Space | 216676 | [216676-dexter-stardust-returns-to-outer-space.json](./216676-dexter-stardust-returns-to-outer-space.json) |
 | Dexter: Hidden Darkness | 59845 | [59845-dexter-hidden-darkness.json](./59845-dexter-hidden-darkness.json) |
 | Dexter: The Game | 21668 | [21668-dexter-the-game.json](./21668-dexter-the-game.json) |
@@ -12209,6 +12211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom II: Deltarune Companions - Susie and Ralsei | 202833 | [202833-doom-ii-deltarune-companions-susie-and-ralsei.json](./202833-doom-ii-deltarune-companions-susie-and-ralsei.json) |
 | Doom II: Hell on Earth | 202120 | [202120-doom-ii-hell-on-earth.json](./202120-doom-ii-hell-on-earth.json) |
 | Doom II: Japanese Community Project | 140048 | [140048-doom-ii-japanese-community-project.json](./140048-doom-ii-japanese-community-project.json) |
+| Doom II: No Rest for the Living | 148221 | [148221-doom-ii-no-rest-for-the-living.json](./148221-doom-ii-no-rest-for-the-living.json) |
 | Doom II: Onna Shinkan Companion | 202835 | [202835-doom-ii-onna-shinkan-companion.json](./202835-doom-ii-onna-shinkan-companion.json) |
 | Doom II: The Cube | 218052 | [218052-doom-ii-the-cube.json](./218052-doom-ii-the-cube.json) |
 | Doom II: The Sentinel's Lexicon | 202838 | [202838-doom-ii-the-sentinels-lexicon.json](./202838-doom-ii-the-sentinels-lexicon.json) |
@@ -13669,6 +13672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot - Season Pass | 141113 | [141113-dragon-ball-z-kakarot-season-pass.json](./141113-dragon-ball-z-kakarot-season-pass.json) |
 | Dragon Ball Z: Kakarot - Season Pass 2 | 307831 | [307831-dragon-ball-z-kakarot-season-pass-2.json](./307831-dragon-ball-z-kakarot-season-pass-2.json) |
 | Dragon Ball Z: Kakarot - Special Edition | 233937 | [233937-dragon-ball-z-kakarot-special-edition.json](./233937-dragon-ball-z-kakarot-special-edition.json) |
+| Dragon Ball Z: Kakarot - Trunks: The Warrior of Hope | 144352 | [144352-dragon-ball-z-kakarot-trunks-the-warrior-of-hope.json](./144352-dragon-ball-z-kakarot-trunks-the-warrior-of-hope.json) |
 | Dragon Ball Z: Kakarot - Ultimate Edition | 136271 | [136271-dragon-ball-z-kakarot-ultimate-edition.json](./136271-dragon-ball-z-kakarot-ultimate-edition.json) |
 | Dragon Ball Z: Kakarot - Ultimate Special Edition | 233943 | [233943-dragon-ball-z-kakarot-ultimate-special-edition.json](./233943-dragon-ball-z-kakarot-ultimate-special-edition.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set | 152394 | [152394-dragon-ball-z-kakarot-a-new-power-awakens-set.json](./152394-dragon-ball-z-kakarot-a-new-power-awakens-set.json) |
@@ -13707,6 +13711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: XKeeperZ | 98436 | [98436-dragon-ball-z-xkeeperz.json](./98436-dragon-ball-z-xkeeperz.json) |
 | Dragon Ball Z: Z-senshi Daishugyou! | 346787 | [346787-dragon-ball-z-z-senshi-daishugyou.json](./346787-dragon-ball-z-z-senshi-daishugyou.json) |
 | Dragon Ball: Advanced Adventure | 6386 | [6386-dragon-ball-advanced-adventure.json](./6386-dragon-ball-advanced-adventure.json) |
+| Dragon Ball: Dragon Daihikyou | 66405 | [66405-dragon-ball-dragon-daihikyou.json](./66405-dragon-ball-dragon-daihikyou.json) |
 | Dragon Ball: Final Bout | 128863 | [128863-dragon-ball-final-bout.json](./128863-dragon-ball-final-bout.json) |
 | Dragon Ball: Kachinuke! Tenkaichi Budokai | 199448 | [199448-dragon-ball-kachinuke-tenkaichi-budokai.json](./199448-dragon-ball-kachinuke-tenkaichi-budokai.json) |
 | Dragon Ball: Origins | 19308 | [19308-dragon-ball-origins.json](./19308-dragon-ball-origins.json) |
