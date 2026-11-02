@@ -7495,6 +7495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Prophecy | 190100 | [190100-the-dark-prophecy.json](./190100-the-dark-prophecy.json) |
 | The Dark Pursuer | 249922 | [249922-the-dark-pursuer.json](./249922-the-dark-pursuer.json) |
 | The Dark Quarter | 367476 | [367476-the-dark-quarter.json](./367476-the-dark-quarter.json) |
+| The Dark Queen of Krynn | 2464 | [2464-the-dark-queen-of-krynn.json](./2464-the-dark-queen-of-krynn.json) |
 | The Dark Queen of Mortholme | 325202 | [325202-the-dark-queen-of-mortholme.json](./325202-the-dark-queen-of-mortholme.json) |
 | The Dark Realm | 194269 | [194269-the-dark-realm.json](./194269-the-dark-realm.json) |
 | The Dark Rites of Arkham | 338552 | [338552-the-dark-rites-of-arkham.json](./338552-the-dark-rites-of-arkham.json) |
@@ -14988,6 +14989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Order: Return to the Buried Kingdom | 140947 | [140947-the-secret-order-return-to-the-buried-kingdom.json](./140947-the-secret-order-return-to-the-buried-kingdom.json) |
 | The Secret Order: Return to the Buried Kingdom - Collector's Edition | 358091 | [358091-the-secret-order-return-to-the-buried-kingdom-collectors-edition.json](./358091-the-secret-order-return-to-the-buried-kingdom-collectors-edition.json) |
 | The Secret Pyramid | 225184 | [225184-the-secret-pyramid.json](./225184-the-secret-pyramid.json) |
+| The Secret Saturdays: Beasts of the 5th Sun | 2821 | [2821-the-secret-saturdays-beasts-of-the-5th-sun.json](./2821-the-secret-saturdays-beasts-of-the-5th-sun.json) |
 | The Secret Society | 88642 | [88642-the-secret-society.json](./88642-the-secret-society.json) |
 | The Secret Society - Hidden Objects Mystery | 124747 | [124747-the-secret-society-hidden-objects-mystery.json](./124747-the-secret-society-hidden-objects-mystery.json) |
 | The Secret Story 1996 | 396191 | [396191-the-secret-story-1996.json](./396191-the-secret-story-1996.json) |
@@ -16357,6 +16359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terror At Freddy's | 338912 | [338912-the-terror-at-freddys.json](./338912-the-terror-at-freddys.json) |
 | The Terror Room | 376491 | [376491-the-terror-room.json](./376491-the-terror-room.json) |
 | The Terrors of Trantoss | 232557 | [232557-the-terrors-of-trantoss.json](./232557-the-terrors-of-trantoss.json) |
+| The Test | 129694 | [129694-the-test.json](./129694-the-test.json) |
 | The Test Game | 309922 | [309922-the-test-game.json](./309922-the-test-game.json) |
 | The test of beauty | 161645 | [161645-the-test-of-beauty.json](./161645-the-test-of-beauty.json) |
 | The Test of Insanity | 308043 | [308043-the-test-of-insanity.json](./308043-the-test-of-insanity.json) |
@@ -27689,6 +27692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Battlegrounds - Complete Edition | 188638 | [188638-transformers-battlegrounds-complete-edition.json](./188638-transformers-battlegrounds-complete-edition.json) |
 | Transformers: Battlegrounds - Deluxe Edition | 146009 | [146009-transformers-battlegrounds-deluxe-edition.json](./146009-transformers-battlegrounds-deluxe-edition.json) |
 | Transformers: Beast Wars Transmetals | 273897 | [273897-transformers-beast-wars-transmetals.json](./273897-transformers-beast-wars-transmetals.json) |
+| Transformers: Beast Wars Transmetals | 3620 | [3620-transformers-beast-wars-transmetals.json](./3620-transformers-beast-wars-transmetals.json) |
 | Transformers: Bumblebee Overdrive | 234500 | [234500-transformers-bumblebee-overdrive.json](./234500-transformers-bumblebee-overdrive.json) |
 | Transformers: Cybertron Adventures | 5242 | [5242-transformers-cybertron-adventures.json](./5242-transformers-cybertron-adventures.json) |
 | Transformers: Dark of the Moon | 259155 | [259155-transformers-dark-of-the-moon.json](./259155-transformers-dark-of-the-moon.json) |
@@ -29941,6 +29945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TT Isle of Man: Ride on the Edge | 81220 | [81220-tt-isle-of-man-ride-on-the-edge.json](./81220-tt-isle-of-man-ride-on-the-edge.json) |
 | TT Isle of Man: Ride on the Edge - Sidecar Thrill | 170793 | [170793-tt-isle-of-man-ride-on-the-edge-sidecar-thrill.json](./170793-tt-isle-of-man-ride-on-the-edge-sidecar-thrill.json) |
 | TT Isle of Man: Ride on the Edge - Sidecar Thrill | 91203 | [91203-tt-isle-of-man-ride-on-the-edge-sidecar-thrill.json](./91203-tt-isle-of-man-ride-on-the-edge-sidecar-thrill.json) |
+| TT Isle of Man: Ride on the Edge 2 | 129800 | [129800-tt-isle-of-man-ride-on-the-edge-2.json](./129800-tt-isle-of-man-ride-on-the-edge-2.json) |
 | TT Isle of Man: Ride on the Edge 3 | 228729 | [228729-tt-isle-of-man-ride-on-the-edge-3.json](./228729-tt-isle-of-man-ride-on-the-edge-3.json) |
 | TT Racer | 36905 | [36905-tt-racer.json](./36905-tt-racer.json) |
 | TTA 1 | 253565 | [253565-tta-1.json](./253565-tta-1.json) |
