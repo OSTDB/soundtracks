@@ -5265,6 +5265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Your Nuts | 315522 | [315522-defend-your-nuts.json](./315522-defend-your-nuts.json) |
 | Defend Your Nuts 2 | 399466 | [399466-defend-your-nuts-2.json](./399466-defend-your-nuts-2.json) |
 | Defenda | 45350 | [45350-defenda.json](./45350-defenda.json) |
+| Defender | 102663 | [102663-defender.json](./102663-defender.json) |
 | Defender | 150104 | [150104-defender.json](./150104-defender.json) |
 | Defender | 154321 | [154321-defender.json](./154321-defender.json) |
 | Defender | 198721 | [198721-defender.json](./198721-defender.json) |
@@ -8312,6 +8313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diesel Power | 29805 | [29805-diesel-power.json](./29805-diesel-power.json) |
 | Diesel Punch | 135753 | [135753-diesel-punch.json](./135753-diesel-punch.json) |
 | Diesel Racer 2 | 106951 | [106951-diesel-racer-2.json](./106951-diesel-racer-2.json) |
+| Diesel Railcar Simulator | 87937 | [87937-diesel-railcar-simulator.json](./87937-diesel-railcar-simulator.json) |
 | Diesel Skies | 296893 | [296893-diesel-skies.json](./296893-diesel-skies.json) |
 | Diesel the Pug Warrior | 232922 | [232922-diesel-the-pug-warrior.json](./232922-diesel-the-pug-warrior.json) |
 | DieselDome: Oil & Blood | 244127 | [244127-dieseldome-oil-and-blood.json](./244127-dieseldome-oil-and-blood.json) |
@@ -13970,6 +13972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Lair | 298548 | [298548-dragon-lair.json](./298548-dragon-lair.json) |
 | Dragon Lair Depths | 251005 | [251005-dragon-lair-depths.json](./251005-dragon-lair-depths.json) |
 | Dragon Land | 101958 | [101958-dragon-land.json](./101958-dragon-land.json) |
+| Dragon Lapis | 103078 | [103078-dragon-lapis.json](./103078-dragon-lapis.json) |
 | Dragon Little Fighters 2 | 149171 | [149171-dragon-little-fighters-2.json](./149171-dragon-little-fighters-2.json) |
 | Dragon Lords 3D | 51506 | [51506-dragon-lords-3d.json](./51506-dragon-lords-3d.json) |
 | Dragon Lore II: The Heart of the Dragon Man | 71412 | [71412-dragon-lore-ii-the-heart-of-the-dragon-man.json](./71412-dragon-lore-ii-the-heart-of-the-dragon-man.json) |
