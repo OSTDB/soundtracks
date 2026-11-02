@@ -6869,6 +6869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Motors Racing Simulator | 395221 | [395221-all-motors-racing-simulator.json](./395221-all-motors-racing-simulator.json) |
 | All My Friends Are Frogs | 183375 | [183375-all-my-friends-are-frogs.json](./183375-all-my-friends-are-frogs.json) |
 | All My Gods | 34406 | [34406-all-my-gods.json](./34406-all-my-gods.json) |
+| All My Neighbors Are Dead | 404623 | [404623-all-my-neighbors-are-dead.json](./404623-all-my-neighbors-are-dead.json) |
 | All New Origins | 283907 | [283907-all-new-origins.json](./283907-all-new-origins.json) |
 | All New Ultimate Pub Quiz 2008 | 320900 | [320900-all-new-ultimate-pub-quiz-2008.json](./320900-all-new-ultimate-pub-quiz-2008.json) |
 | All New World of Lemmings | 14246 | [14246-all-new-world-of-lemmings.json](./14246-all-new-world-of-lemmings.json) |
@@ -6893,6 +6894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
 | All or Nothing | 152482 | [152482-all-or-nothing.json](./152482-all-or-nothing.json) |
 | All Our Broken Parts | 366025 | [366025-all-our-broken-parts.json](./366025-all-our-broken-parts.json) |
+| All Out | 404642 | [404642-all-out.json](./404642-all-out.json) |
 | All Over | 132234 | [132234-all-over.json](./132234-all-over.json) |
 | All Pigs Deserve to Burn in Hell | 58034 | [58034-all-pigs-deserve-to-burn-in-hell.json](./58034-all-pigs-deserve-to-burn-in-hell.json) |
 | All Pro Basketball | 217823 | [217823-all-pro-basketball.json](./217823-all-pro-basketball.json) |
@@ -7673,6 +7675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amateur Surgeon Hospital | 304207 | [304207-amateur-surgeon-hospital.json](./304207-amateur-surgeon-hospital.json) |
 | Amateurs | 177459 | [177459-amateurs.json](./177459-amateurs.json) |
 | AMathing | 200271 | [200271-amathing.json](./200271-amathing.json) |
+| AmaTisMo | 404598 | [404598-amatismo.json](./404598-amatismo.json) |
 | Amato | 391273 | [391273-amato.json](./391273-amato.json) |
 | Amatsu Misora ni! Kumo no Hatate ni | 62263 | [62263-amatsu-misora-ni-kumo-no-hatate-ni.json](./62263-amatsu-misora-ni-kumo-no-hatate-ni.json) |
 | Amatsu Sora ni Saku | 309672 | [309672-amatsu-sora-ni-saku.json](./309672-amatsu-sora-ni-saku.json) |
@@ -10366,6 +10369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ante Up: Texas Hold'em | 84760 | [84760-ante-up-texas-holdem.json](./84760-ante-up-texas-holdem.json) |
 | Anteater | 38523 | [38523-anteater.json](./38523-anteater.json) |
 | Antecrypt | 176341 | [176341-antecrypt.json](./176341-antecrypt.json) |
+| Antediluvial: Yalroc Island | 404645 | [404645-antediluvial-yalroc-island.json](./404645-antediluvial-yalroc-island.json) |
 | Antediluvian | 271251 | [271251-antediluvian.json](./271251-antediluvian.json) |
 | Antegods | 34252 | [34252-antegods.json](./34252-antegods.json) |
 | Antenna | 28342 | [28342-antenna.json](./28342-antenna.json) |
@@ -14948,6 +14952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Takers | 356974 | [356974-astral-takers.json](./356974-astral-takers.json) |
 | Astral Tale | 271915 | [271915-astral-tale.json](./271915-astral-tale.json) |
 | Astral Terra | 16882 | [16882-astral-terra.json](./16882-astral-terra.json) |
+| Astral Throne II: Age of the Phoenix | 404610 | [404610-astral-throne-ii-age-of-the-phoenix.json](./404610-astral-throne-ii-age-of-the-phoenix.json) |
 | Astral Tournament | 73863 | [73863-astral-tournament.json](./73863-astral-tournament.json) |
 | Astral Towers | 25452 | [25452-astral-towers.json](./25452-astral-towers.json) |
 | Astral Tracks | 258619 | [258619-astral-tracks.json](./258619-astral-tracks.json) |
@@ -17023,6 +17028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awsome Metal Detecting | 74730 | [74730-awsome-metal-detecting.json](./74730-awsome-metal-detecting.json) |
 | Awurda First Wave | 353759 | [353759-awurda-first-wave.json](./353759-awurda-first-wave.json) |
 | Ax Battler: A Legend of Golden Axe | 19485 | [19485-ax-battler-a-legend-of-golden-axe.json](./19485-ax-battler-a-legend-of-golden-axe.json) |
+| Ax RPG II | 404596 | [404596-ax-rpg-ii.json](./404596-ax-rpg-ii.json) |
 | AX-1: Arabian Rhapsody | 91462 | [91462-ax-1-arabian-rhapsody.json](./91462-ax-1-arabian-rhapsody.json) |
 | AX-10: Outlaw | 91459 | [91459-ax-10-outlaw.json](./91459-ax-10-outlaw.json) |
 | AX-2: Uchuu Yusousen Nostromo | 91513 | [91513-ax-2-uchuu-yusousen-nostromo.json](./91513-ax-2-uchuu-yusousen-nostromo.json) |
