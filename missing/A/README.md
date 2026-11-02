@@ -1697,7 +1697,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aban Hawkins & the 1000 Spikes | 91756 | [91756-aban-hawkins-and-the-1000-spikes.json](./91756-aban-hawkins-and-the-1000-spikes.json) |
 | Abandon | 222631 | [222631-abandon.json](./222631-abandon.json) |
 | Abandon | 91827 | [91827-abandon.json](./91827-abandon.json) |
-| Abandon Ship | 30647 | [30647-abandon-ship.json](./30647-abandon-ship.json) |
 | Abandon: The Town | 268033 | [268033-abandon-the-town.json](./268033-abandon-the-town.json) |
 | Abandon02 | 129084 | [129084-abandon02.json](./129084-abandon02.json) |
 | Abandoned | 165148 | [165148-abandoned.json](./165148-abandoned.json) |
