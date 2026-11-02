@@ -2339,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Kain: Defiance | 367956 | [367956-legacy-of-kain-defiance.json](./367956-legacy-of-kain-defiance.json) |
 | Legacy of Kain: Defiance Remastered | 389423 | [389423-legacy-of-kain-defiance-remastered.json](./389423-legacy-of-kain-defiance-remastered.json) |
 | Legacy of Kain: Defiance Remastered - Ascendance Skin Pack | 403941 | [403941-legacy-of-kain-defiance-remastered-ascendance-skin-pack.json](./403941-legacy-of-kain-defiance-remastered-ascendance-skin-pack.json) |
+| Legacy of Kain: Defiance Remastered - Deluxe Edition | 401585 | [401585-legacy-of-kain-defiance-remastered-deluxe-edition.json](./401585-legacy-of-kain-defiance-remastered-deluxe-edition.json) |
 | Legacy of Kain: Defiance Remastered - Shifter Skin Pack | 402541 | [402541-legacy-of-kain-defiance-remastered-shifter-skin-pack.json](./402541-legacy-of-kain-defiance-remastered-shifter-skin-pack.json) |
 | Legacy of Kain: Heart of Darkness Collection | 403942 | [403942-legacy-of-kain-heart-of-darkness-collection.json](./403942-legacy-of-kain-heart-of-darkness-collection.json) |
 | Legacy of Kain: Soul Reaver | 4122 | [4122-legacy-of-kain-soul-reaver.json](./4122-legacy-of-kain-soul-reaver.json) |
@@ -6803,6 +6804,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Tiny Spaceship | 294115 | [294115-lonely-tiny-spaceship.json](./294115-lonely-tiny-spaceship.json) |
 | Lonely Tribes | 192372 | [192372-lonely-tribes.json](./192372-lonely-tribes.json) |
 | Lonely Trip | 83572 | [83572-lonely-trip.json](./83572-lonely-trip.json) |
+| Lonely Vietnam | 401600 | [401600-lonely-vietnam.json](./401600-lonely-vietnam.json) |
+| Lonely Vietnam 3: Sweet Revenge | 401603 | [401603-lonely-vietnam-3-sweet-revenge.json](./401603-lonely-vietnam-3-sweet-revenge.json) |
 | Lonely White | 212993 | [212993-lonely-white.json](./212993-lonely-white.json) |
 | Lonely Wolf Treat | 95919 | [95919-lonely-wolf-treat.json](./95919-lonely-wolf-treat.json) |
 | Lonely Yuri | 63652 | [63652-lonely-yuri.json](./63652-lonely-yuri.json) |
