@@ -902,7 +902,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10405,6 +10404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Welkin | 406298 | [406298-blood-welkin.json](./406298-blood-welkin.json) |
 | Blood West: Dead Man’s Promise | 321312 | [321312-blood-west-dead-man-s-promise.json](./321312-blood-west-dead-man-s-promise.json) |
 | Blood West: Scavengers | 369770 | [369770-blood-west-scavengers.json](./369770-blood-west-scavengers.json) |
+| Blood will be Spilled | 103811 | [103811-blood-will-be-spilled.json](./103811-blood-will-be-spilled.json) |
 | Blood Will Tell: Tezuka Osamu's Dororo | 18864 | [18864-blood-will-tell-tezuka-osamus-dororo.json](./18864-blood-will-tell-tezuka-osamus-dororo.json) |
 | Blood Within | 298444 | [298444-blood-within.json](./298444-blood-within.json) |
 | Blood Within: Path of Vengeance | 337833 | [337833-blood-within-path-of-vengeance.json](./337833-blood-within-path-of-vengeance.json) |
@@ -15022,6 +15022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brotherhood of Ruin 2024: Element Temple Research Complex | 311464 | [311464-brotherhood-of-ruin-2024-element-temple-research-complex.json](./311464-brotherhood-of-ruin-2024-element-temple-research-complex.json) |
 | Brotherhood of Ruin: The Lost Temple | 263426 | [263426-brotherhood-of-ruin-the-lost-temple.json](./263426-brotherhood-of-ruin-the-lost-temple.json) |
 | Brotherhood of Violence II | 89517 | [89517-brotherhood-of-violence-ii.json](./89517-brotherhood-of-violence-ii.json) |
+| Brotherhood United | 103493 | [103493-brotherhood-united.json](./103493-brotherhood-united.json) |
 | Brotherly Aid | 227020 | [227020-brotherly-aid.json](./227020-brotherly-aid.json) |
 | Brothers | 193446 | [193446-brothers.json](./193446-brothers.json) |
 | Brothers Apart | 157460 | [157460-brothers-apart.json](./157460-brothers-apart.json) |
