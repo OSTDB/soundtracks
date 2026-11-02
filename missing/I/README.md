@@ -5505,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironclad Tactics | 10459 | [10459-ironclad-tactics.json](./10459-ironclad-tactics.json) |
 | Ironclad Tactics: Deluxe Edition | 51849 | [51849-ironclad-tactics-deluxe-edition.json](./51849-ironclad-tactics-deluxe-edition.json) |
 | Ironclads 2: American Civil War | 34229 | [34229-ironclads-2-american-civil-war.json](./34229-ironclads-2-american-civil-war.json) |
+| Ironclads 2: Boshin War | 29289 | [29289-ironclads-2-boshin-war.json](./29289-ironclads-2-boshin-war.json) |
 | Ironclads 2: Caroline Islands War 1885 | 51941 | [51941-ironclads-2-caroline-islands-war-1885.json](./51941-ironclads-2-caroline-islands-war-1885.json) |
 | Ironclads 2: War of the Pacific | 30721 | [30721-ironclads-2-war-of-the-pacific.json](./30721-ironclads-2-war-of-the-pacific.json) |
 | Ironclads Anthology | 50855 | [50855-ironclads-anthology.json](./50855-ironclads-anthology.json) |
