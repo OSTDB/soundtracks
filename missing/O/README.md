@@ -4154,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshino Ruka ha Iyashite Agetai | 401183 | [401183-oshino-ruka-ha-iyashite-agetai.json](./401183-oshino-ruka-ha-iyashite-agetai.json) |
 | Oshinui Tune | 345355 | [345355-oshinui-tune.json](./345355-oshinui-tune.json) |
 | Oshioki Kirai! 2 | 130769 | [130769-oshioki-kirai-2.json](./130769-oshioki-kirai-2.json) |
+| OshiRabu: Waifus Over Husbandos | 131629 | [131629-oshirabu-waifus-over-husbandos.json](./131629-oshirabu-waifus-over-husbandos.json) |
 | OshiRabu: Waifus Over Husbandos - Love or Die | 150239 | [150239-oshirabu-waifus-over-husbandos-love-or-die.json](./150239-oshirabu-waifus-over-husbandos-love-or-die.json) |
 | Oshiri Princess | 90936 | [90936-oshiri-princess.json](./90936-oshiri-princess.json) |
 | Oshiri Tantei: Pupu Mirai no Meitantei Toujou! | 166488 | [166488-oshiri-tantei-pupu-mirai-no-meitantei-toujou.json](./166488-oshiri-tantei-pupu-mirai-no-meitantei-toujou.json) |
