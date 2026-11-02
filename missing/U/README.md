@@ -2657,6 +2657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unshaken | 217405 | [217405-unshaken.json](./217405-unshaken.json) |
 | Unshaken | 372823 | [372823-unshaken.json](./372823-unshaken.json) |
 | Unsheltered | 250843 | [250843-unsheltered.json](./250843-unsheltered.json) |
+| Unshelved | 405254 | [405254-unshelved.json](./405254-unshelved.json) |
 | Unshuffle | 356609 | [356609-unshuffle.json](./356609-unshuffle.json) |
 | Unslaad | 373834 | [373834-unslaad.json](./373834-unslaad.json) |
 | Unsleepable | 197211 | [197211-unsleepable.json](./197211-unsleepable.json) |
