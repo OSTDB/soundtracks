@@ -8769,6 +8769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fast and the Furious & 2 Fast 2 Furious | 301503 | [301503-the-fast-and-the-furious-and-2-fast-2-furious.json](./301503-the-fast-and-the-furious-and-2-fast-2-furious.json) |
 | The Fast and The Furious: Super Bikes | 72919 | [72919-the-fast-and-the-furious-super-bikes.json](./72919-the-fast-and-the-furious-super-bikes.json) |
 | The Fast Journey | 276309 | [276309-the-fast-journey.json](./276309-the-fast-journey.json) |
+| The Fastest Fist | 30912 | [30912-the-fastest-fist.json](./30912-the-fastest-fist.json) |
 | The Fat Cat Fest | 332317 | [332317-the-fat-cat-fest.json](./332317-the-fat-cat-fest.json) |
 | The Fate | 27618 | [27618-the-fate.json](./27618-the-fate.json) |
 | The Fate of Baldr | 211209 | [211209-the-fate-of-baldr.json](./211209-the-fate-of-baldr.json) |
@@ -18703,6 +18704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think Quick! | 69222 | [69222-think-quick.json](./69222-think-quick.json) |
 | Think Shift | 250386 | [250386-think-shift.json](./250386-think-shift.json) |
 | Think Tap Turn | 100815 | [100815-think-tap-turn.json](./100815-think-tap-turn.json) |
+| Think to Die 2 | 31016 | [31016-think-to-die-2.json](./31016-think-to-die-2.json) |
 | Think to Die 3 | 29071 | [29071-think-to-die-3.json](./29071-think-to-die-3.json) |
 | THiNK-X | 94539 | [94539-think-x.json](./94539-think-x.json) |
 | Think: Logik Trainer | 70447 | [70447-think-logik-trainer.json](./70447-think-logik-trainer.json) |
@@ -30620,6 +30622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turret Lab | 223519 | [223519-turret-lab.json](./223519-turret-lab.json) |
 | Turret Rampage | 260519 | [260519-turret-rampage.json](./260519-turret-rampage.json) |
 | Turret Tech | 106155 | [106155-turret-tech.json](./106155-turret-tech.json) |
+| Turret Terminator | 29364 | [29364-turret-terminator.json](./29364-turret-terminator.json) |
 | Turret Tower | 413730 | [413730-turret-tower.json](./413730-turret-tower.json) |
 | TurretCraft | 34272 | [34272-turretcraft.json](./34272-turretcraft.json) |
 | TurretGirls | 347243 | [347243-turretgirls.json](./347243-turretgirls.json) |
