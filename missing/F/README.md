@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable Rush | 52283 | [52283-fable-rush.json](./52283-fable-rush.json) |
 | Fable: 20th Anniversary Demake | 342668 | [342668-fable-20th-anniversary-demake.json](./342668-fable-20th-anniversary-demake.json) |
 | Fable: Coin Golf | 92131 | [92131-fable-coin-golf.json](./92131-fable-coin-golf.json) |
+| Fable: Premium Edition | 407692 | [407692-fable-premium-edition.json](./407692-fable-premium-edition.json) |
 | Fable: The Lost Chapters | 694 | [694-fable-the-lost-chapters.json](./694-fable-the-lost-chapters.json) |
 | Fableborne | 379584 | [379584-fableborne.json](./379584-fableborne.json) |
 | FableBrawl | 411113 | [411113-fablebrawl.json](./411113-fablebrawl.json) |
@@ -3627,6 +3628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felix VR | 163916 | [163916-felix-vr.json](./163916-felix-vr.json) |
 | Fell | 196957 | [196957-fell.json](./196957-fell.json) |
 | Fell | 237197 | [237197-fell.json](./237197-fell.json) |
+| Fell & Sell | 407733 | [407733-fell-and-sell.json](./407733-fell-and-sell.json) |
 | Fell from another world | 213478 | [213478-fell-from-another-world.json](./213478-fell-from-another-world.json) |
 | Fell Seal DLC Bundle | 154965 | [154965-fell-seal-dlc-bundle.json](./154965-fell-seal-dlc-bundle.json) |
 | Fell Seal: Arbiter's Mark | 55771 | [55771-fell-seal-arbiters-mark.json](./55771-fell-seal-arbiters-mark.json) |
@@ -6793,6 +6795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fizzburg | 413878 | [413878-fizzburg.json](./413878-fizzburg.json) |
 | Fizzy Factory | 262070 | [262070-fizzy-factory.json](./262070-fizzy-factory.json) |
 | Fizzy Wizzy | 14072 | [14072-fizzy-wizzy.json](./14072-fizzy-wizzy.json) |
+| Fjellward | 407735 | [407735-fjellward.json](./407735-fjellward.json) |
 | Fjong | 55556 | [55556-fjong.json](./55556-fjong.json) |
 | Fjord battle racing | 50523 | [50523-fjord-battle-racing.json](./50523-fjord-battle-racing.json) |
 | Fjords | 62535 | [62535-fjords.json](./62535-fjords.json) |
@@ -9278,6 +9281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forged Battalion | 74528 | [74528-forged-battalion.json](./74528-forged-battalion.json) |
 | Forged Cards | 422467 | [422467-forged-cards.json](./422467-forged-cards.json) |
 | Forged Desires: A Bara JRPG | 377093 | [377093-forged-desires-a-bara-jrpg.json](./377093-forged-desires-a-bara-jrpg.json) |
+| Forged from Monsters | 407712 | [407712-forged-from-monsters.json](./407712-forged-from-monsters.json) |
 | Forged In Dungeon | 289235 | [289235-forged-in-dungeon.json](./289235-forged-in-dungeon.json) |
 | Forged in Fire: Master Smith | 397087 | [397087-forged-in-fire-master-smith.json](./397087-forged-in-fire-master-smith.json) |
 | Forged of Blood | 27954 | [27954-forged-of-blood.json](./27954-forged-of-blood.json) |
@@ -10675,6 +10679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankenstein | 385548 | [385548-frankenstein.json](./385548-frankenstein.json) |
 | Frankenstein 2000 | 57169 | [57169-frankenstein-2000.json](./57169-frankenstein-2000.json) |
 | Frankenstein Jnr. | 13441 | [13441-frankenstein-jnr.json](./13441-frankenstein-jnr.json) |
+| Frankenstein: Awakening of Horror | 407727 | [407727-frankenstein-awakening-of-horror.json](./407727-frankenstein-awakening-of-horror.json) |
 | Frankenstein: Beyond the Time | 103752 | [103752-frankenstein-beyond-the-time.json](./103752-frankenstein-beyond-the-time.json) |
 | Frankenstein: Birth of a Myth | 109569 | [109569-frankenstein-birth-of-a-myth.json](./109569-frankenstein-birth-of-a-myth.json) |
 | Frankenstein: Room Escape | 313761 | [313761-frankenstein-room-escape.json](./313761-frankenstein-room-escape.json) |
@@ -12836,6 +12841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Adventure Club and the Holy Grail | 312742 | [312742-furry-adventure-club-and-the-holy-grail.json](./312742-furry-adventure-club-and-the-holy-grail.json) |
 | Furry Adventure! | 417388 | [417388-furry-adventure.json](./417388-furry-adventure.json) |
 | Furry Aim Trainer | 326741 | [326741-furry-aim-trainer.json](./326741-furry-aim-trainer.json) |
+| Furry Aim Trainer 2: Multiplayer Gooning | 407696 | [407696-furry-aim-trainer-2-multiplayer-gooning.json](./407696-furry-aim-trainer-2-multiplayer-gooning.json) |
 | Furry Aim Trainer: Gooning Mode | 326206 | [326206-furry-aim-trainer-gooning-mode.json](./326206-furry-aim-trainer-gooning-mode.json) |
 | Furry Android Hentai | 211767 | [211767-furry-android-hentai.json](./211767-furry-android-hentai.json) |
 | Furry Animals Bombing | 109745 | [109745-furry-animals-bombing.json](./109745-furry-animals-bombing.json) |
