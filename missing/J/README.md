@@ -2934,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juiced 2: Hot Import Nights | 7024 | [7024-juiced-2-hot-import-nights.json](./7024-juiced-2-hot-import-nights.json) |
 | Juiced Fruit Racing | 369719 | [369719-juiced-fruit-racing.json](./369719-juiced-fruit-racing.json) |
 | Juiced! | 133349 | [133349-juiced.json](./133349-juiced.json) |
+| Juicicora | 414071 | [414071-juicicora.json](./414071-juicicora.json) |
 | Juicy Army | 128182 | [128182-juicy-army.json](./128182-juicy-army.json) |
 | Juicy Ass | 264114 | [264114-juicy-ass.json](./264114-juicy-ass.json) |
 | Juicy Blast | 346158 | [346158-juicy-blast.json](./346158-juicy-blast.json) |
@@ -3728,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just a Phrase by Powgi | 140412 | [140412-just-a-phrase-by-powgi.json](./140412-just-a-phrase-by-powgi.json) |
 | Just a Regular Arcade | 235281 | [235281-just-a-regular-arcade.json](./235281-just-a-regular-arcade.json) |
 | Just a Simple Turn-based RPG | 390180 | [390180-just-a-simple-turn-based-rpg.json](./390180-just-a-simple-turn-based-rpg.json) |
+| Just a Stupid Room | 415817 | [415817-just-a-stupid-room.json](./415817-just-a-stupid-room.json) |
 | Just A Walk In The Park | 253927 | [253927-just-a-walk-in-the-park.json](./253927-just-a-walk-in-the-park.json) |
 | Just Act Natural | 148161 | [148161-just-act-natural.json](./148161-just-act-natural.json) |
 | Just Act Natural: Museum | 295388 | [295388-just-act-natural-museum.json](./295388-just-act-natural-museum.json) |
