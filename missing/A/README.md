@@ -2568,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achilles-Sword-ll | 379036 | [379036-achilles-sword-ll.json](./379036-achilles-sword-ll.json) |
 | Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
 | Achilles: Survivor | 319802 | [319802-achilles-survivor.json](./319802-achilles-survivor.json) |
+| Achromatic | 107840 | [107840-achromatic.json](./107840-achromatic.json) |
 | Achromatic | 203807 | [203807-achromatic.json](./203807-achromatic.json) |
 | Achron | 16264 | [16264-achron.json](./16264-achron.json) |
 | Achtung die Kugel! | 110927 | [110927-achtung-die-kugel.json](./110927-achtung-die-kugel.json) |
@@ -7634,6 +7635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze | 29235 | [29235-amaze.json](./29235-amaze.json) |
 | Amaze 2 | 36472 | [36472-amaze-2.json](./36472-amaze-2.json) |
 | Amaze 3D | 43172 | [43172-amaze-3d.json](./43172-amaze-3d.json) |
+| Amaze ABC | 107849 | [107849-amaze-abc.json](./107849-amaze-abc.json) |
 | aMaze Achievements: darkness | 63724 | [63724-amaze-achievements-darkness.json](./63724-amaze-achievements-darkness.json) |
 | Amaze Adventure | 192590 | [192590-amaze-adventure.json](./192590-amaze-adventure.json) |
 | Amaze Christmas | 112829 | [112829-amaze-christmas.json](./112829-amaze-christmas.json) |
@@ -7790,6 +7792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber Time Pocket | 226220 | [226220-amber-time-pocket.json](./226220-amber-time-pocket.json) |
 | Amber: Journeys Beyond | 12390 | [12390-amber-journeys-beyond.json](./12390-amber-journeys-beyond.json) |
 | Amber's Airline: 7 Wonders | 116726 | [116726-ambers-airline-7-wonders.json](./116726-ambers-airline-7-wonders.json) |
+| Amber's Airline: High Hopes | 107743 | [107743-ambers-airline-high-hopes.json](./107743-ambers-airline-high-hopes.json) |
 | Amber's Blood | 58025 | [58025-ambers-blood.json](./58025-ambers-blood.json) |
 | Amber's Magic Shop | 36817 | [36817-ambers-magic-shop.json](./36817-ambers-magic-shop.json) |
 | Amber's Tale | 247948 | [247948-ambers-tale.json](./247948-ambers-tale.json) |
@@ -11388,6 +11391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc of Doom | 66571 | [66571-arc-of-doom.json](./66571-arc-of-doom.json) |
 | Arc of Templar | 95926 | [95926-arc-of-templar.json](./95926-arc-of-templar.json) |
 | Arc Rise Fantasia | 4678 | [4678-arc-rise-fantasia.json](./4678-arc-rise-fantasia.json) |
+| Arc Savior | 107856 | [107856-arc-savior.json](./107856-arc-savior.json) |
 | Arc Seed | 244485 | [244485-arc-seed.json](./244485-arc-seed.json) |
 | ARC Squadron: Redux | 38984 | [38984-arc-squadron-redux.json](./38984-arc-squadron-redux.json) |
 | Arc Style Solitaire | 62222 | [62222-arc-style-solitaire.json](./62222-arc-style-solitaire.json) |
@@ -17155,6 +17159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azur Lane: Crosswave - Limited Edition | 166972 | [166972-azur-lane-crosswave-limited-edition.json](./166972-azur-lane-crosswave-limited-edition.json) |
 | Azura | 74218 | [74218-azura.json](./74218-azura.json) |
 | Azurael's Circle: Chapter 1 | 107764 | [107764-azuraels-circle-chapter-1.json](./107764-azuraels-circle-chapter-1.json) |
+| Azurael's Circle: Chapter 2 | 107732 | [107732-azuraels-circle-chapter-2.json](./107732-azuraels-circle-chapter-2.json) |
 | Azurael's Circle: Chapter 3 | 112368 | [112368-azuraels-circle-chapter-3.json](./112368-azuraels-circle-chapter-3.json) |
 | Azurael's Circle: Chapter 5 | 168836 | [168836-azuraels-circle-chapter-5.json](./168836-azuraels-circle-chapter-5.json) |
 | Azuran Tales: Trials | 99165 | [99165-azuran-tales-trials.json](./99165-azuran-tales-trials.json) |
