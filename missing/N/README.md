@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR '14 | 7105 | [7105-nascar-14.json](./7105-nascar-14.json) |
 | NASCAR '15 | 44560 | [44560-nascar-15.json](./44560-nascar-15.json) |
 | Nascar 06 Mobile | 210106 | [210106-nascar-06-mobile.json](./210106-nascar-06-mobile.json) |
+| NASCAR 06: Total Team Control | 5943 | [5943-nascar-06-total-team-control.json](./5943-nascar-06-total-team-control.json) |
 | NASCAR 07 | 5944 | [5944-nascar-07.json](./5944-nascar-07.json) |
 | NASCAR 08 | 7103 | [7103-nascar-08.json](./7103-nascar-08.json) |
 | NASCAR 09 | 388398 | [388398-nascar-09.json](./388398-nascar-09.json) |
@@ -1243,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA All-World | 208757 | [208757-nba-all-world.json](./208757-nba-all-world.json) |
 | NBA Ball Stars | 235131 | [235131-nba-ball-stars.json](./235131-nba-ball-stars.json) |
 | NBA Baller Beats | 47414 | [47414-nba-baller-beats.json](./47414-nba-baller-beats.json) |
+| NBA Ballers | 5948 | [5948-nba-ballers.json](./5948-nba-ballers.json) |
 | NBA Ballers: Chosen One | 7106 | [7106-nba-ballers-chosen-one.json](./7106-nba-ballers-chosen-one.json) |
 | NBA Ballers: Phenom | 5949 | [5949-nba-ballers-phenom.json](./5949-nba-ballers-phenom.json) |
 | NBA Ballers: Rebound | 72721 | [72721-nba-ballers-rebound.json](./72721-nba-ballers-rebound.json) |
@@ -1375,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Final Four 99 | 23154 | [23154-ncaa-final-four-99.json](./23154-ncaa-final-four-99.json) |
 | NCAA Football '98 | 43714 | [43714-ncaa-football-98.json](./43714-ncaa-football-98.json) |
 | NCAA Football '99 | 43713 | [43713-ncaa-football-99.json](./43713-ncaa-football-99.json) |
+| NCAA Football 06 | 5952 | [5952-ncaa-football-06.json](./5952-ncaa-football-06.json) |
 | NCAA Football 07 | 5953 | [5953-ncaa-football-07.json](./5953-ncaa-football-07.json) |
 | NCAA Football 09 | 5065 | [5065-ncaa-football-09.json](./5065-ncaa-football-09.json) |
 | NCAA Football 09: All-Play | 137060 | [137060-ncaa-football-09-all-play.json](./137060-ncaa-football-09-all-play.json) |
@@ -4098,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Slave | 45974 | [45974-night-slave.json](./45974-night-slave.json) |
 | Night Society | 414877 | [414877-night-society.json](./414877-night-society.json) |
 | Night Spasm | 133049 | [133049-night-spasm.json](./133049-night-spasm.json) |
+| Night Stalker | 5690 | [5690-night-stalker.json](./5690-night-stalker.json) |
 | Night Stalkers | 190128 | [190128-night-stalkers.json](./190128-night-stalkers.json) |
 | Night Star | 83349 | [83349-night-star.json](./83349-night-star.json) |
 | Night Stocker | 37329 | [37329-night-stocker.json](./37329-night-stocker.json) |
