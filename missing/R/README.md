@@ -5815,6 +5815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return Ace | 195759 | [195759-return-ace.json](./195759-return-ace.json) |
 | Return Alive | 181060 | [181060-return-alive.json](./181060-return-alive.json) |
 | Return Alive | 255803 | [255803-return-alive.json](./255803-return-alive.json) |
+| Return Fire | 4339 | [4339-return-fire.json](./4339-return-fire.json) |
 | Return Fire: Maps O' Death | 4267 | [4267-return-fire-maps-o-death.json](./4267-return-fire-maps-o-death.json) |
 | Return Machine.Love() | 406290 | [406290-return-machine-love.json](./406290-return-machine-love.json) |
 | Return Null: Episode 2 | 24726 | [24726-return-null-episode-2.json](./24726-return-null-episode-2.json) |
@@ -6525,6 +6526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbit | 213366 | [213366-ribbit.json](./213366-ribbit.json) |
 | Ribbit Channel | 301895 | [301895-ribbit-channel.json](./301895-ribbit-channel.json) |
 | Ribbit Jump | 400368 | [400368-ribbit-jump.json](./400368-ribbit-jump.json) |
+| Ribbit King | 4087 | [4087-ribbit-king.json](./4087-ribbit-king.json) |
 | Ribbit Rabbit | 198166 | [198166-ribbit-rabbit.json](./198166-ribbit-rabbit.json) |
 | Ribbit Rampage | 305331 | [305331-ribbit-rampage.json](./305331-ribbit-rampage.json) |
 | Ribbit Ranch | 373601 | [373601-ribbit-ranch.json](./373601-ribbit-ranch.json) |
@@ -9397,6 +9399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue of the Multiverse | 216241 | [216241-rogue-of-the-multiverse.json](./216241-rogue-of-the-multiverse.json) |
 | Rogue of the Seven Seas | 180761 | [180761-rogue-of-the-seven-seas.json](./180761-rogue-of-the-seven-seas.json) |
 | Rogue Operatives | 34712 | [34712-rogue-operatives.json](./34712-rogue-operatives.json) |
+| Rogue Ops | 4094 | [4094-rogue-ops.json](./4094-rogue-ops.json) |
 | Rogue Ottoman | 271604 | [271604-rogue-ottoman.json](./271604-rogue-ottoman.json) |
 | Rogue Paper Scissors | 357716 | [357716-rogue-paper-scissors.json](./357716-rogue-paper-scissors.json) |
 | Rogue Party 2 | 158909 | [158909-rogue-party-2.json](./158909-rogue-party-2.json) |
