@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wai-Wai Monster Land | 292845 | [292845-wai-wai-monster-land.json](./292845-wai-wai-monster-land.json) |
 | Wai-wai World 2: SOS!! Parsley-jou | 48547 | [48547-wai-wai-world-2-sos-parsley-jou.json](./48547-wai-wai-world-2-sos-parsley-jou.json) |
 | Wai-wai! Minna de Challenge | 220355 | [220355-wai-wai-minna-de-challenge.json](./220355-wai-wai-minna-de-challenge.json) |
+| Waialae Country Club: True Golf Classics | 3627 | [3627-waialae-country-club-true-golf-classics.json](./3627-waialae-country-club-true-golf-classics.json) |
 | Waidh | 288475 | [288475-waidh.json](./288475-waidh.json) |
 | Waifu | 338556 | [338556-waifu.json](./338556-waifu.json) |
 | Waifu Aim Trainer | 338555 | [338555-waifu-aim-trainer.json](./338555-waifu-aim-trainer.json) |
@@ -2553,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayne Gretzky Hockey 2 | 15510 | [15510-wayne-gretzky-hockey-2.json](./15510-wayne-gretzky-hockey-2.json) |
 | Wayne Gretzky Hockey 3 | 15511 | [15511-wayne-gretzky-hockey-3.json](./15511-wayne-gretzky-hockey-3.json) |
 | Wayne Gretzky's 3D Hockey | 3630 | [3630-wayne-gretzkys-3d-hockey.json](./3630-wayne-gretzkys-3d-hockey.json) |
+| Wayne Gretzky's 3D Hockey '98 | 3631 | [3631-wayne-gretzkys-3d-hockey-98.json](./3631-wayne-gretzkys-3d-hockey-98.json) |
 | Wayne's World | 198954 | [198954-waynes-world.json](./198954-waynes-world.json) |
 | Wayne's World | 265001 | [265001-waynes-world.json](./265001-waynes-world.json) |
 | Wayne's World | 265002 | [265002-waynes-world.json](./265002-waynes-world.json) |
