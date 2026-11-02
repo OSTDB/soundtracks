@@ -902,7 +902,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10489,6 +10488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodline: Heroes of Lithas | 216106 | [216106-bloodline-heroes-of-lithas.json](./216106-bloodline-heroes-of-lithas.json) |
 | Bloodline: Last Royal Vampire | 208217 | [208217-bloodline-last-royal-vampire.json](./208217-bloodline-last-royal-vampire.json) |
 | BloodLines | 143363 | [143363-bloodlines.json](./143363-bloodlines.json) |
+| Bloodlines of Prima | 55374 | [55374-bloodlines-of-prima.json](./55374-bloodlines-of-prima.json) |
 | Bloodlines: The Alexa Holmes Chronicles | 65529 | [65529-bloodlines-the-alexa-holmes-chronicles.json](./65529-bloodlines-the-alexa-holmes-chronicles.json) |
 | Bloodlust | 22123 | [22123-bloodlust.json](./22123-bloodlust.json) |
 | Bloodlust | 338255 | [338255-bloodlust.json](./338255-bloodlust.json) |
@@ -13721,6 +13721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
 | Brass Rain | 373836 | [373836-brass-rain.json](./373836-brass-rain.json) |
 | Brass Restoration | 69153 | [69153-brass-restoration.json](./69153-brass-restoration.json) |
+| Brass Tactics | 36779 | [36779-brass-tactics.json](./36779-brass-tactics.json) |
 | Brass Town Wrestling | 128271 | [128271-brass-town-wrestling.json](./128271-brass-town-wrestling.json) |
 | Brass: Birmingham | 153870 | [153870-brass-birmingham.json](./153870-brass-birmingham.json) |
 | Brassfang | 405021 | [405021-brassfang.json](./405021-brassfang.json) |
