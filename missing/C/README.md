@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cage | 30653 | [30653-cage.json](./30653-cage.json) |
 | Cage Fight | 257406 | [257406-cage-fight.json](./257406-cage-fight.json) |
 | Cage Fight 3D | 220054 | [220054-cage-fight-3d.json](./220054-cage-fight-3d.json) |
+| Cage Grind | 417757 | [417757-cage-grind.json](./417757-cage-grind.json) |
 | Cage in My Head in My Cage in My Head in My | 389686 | [389686-cage-in-my-head-in-my-cage-in-my-head-in-my.json](./389686-cage-in-my-head-in-my-cage-in-my-head-in-my.json) |
 | Cage Me Not | 372631 | [372631-cage-me-not.json](./372631-cage-me-not.json) |
 | Cage of Kurikaesu | 420498 | [420498-cage-of-kurikaesu.json](./420498-cage-of-kurikaesu.json) |
@@ -917,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calypso | 140021 | [140021-calypso.json](./140021-calypso.json) |
 | Calypso's Calamity | 319243 | [319243-calypsos-calamity.json](./319243-calypsos-calamity.json) |
 | Calyx | 331102 | [331102-calyx.json](./331102-calyx.json) |
+| Cam Master: Private Desires | 417205 | [417205-cam-master-private-desires.json](./417205-cam-master-private-desires.json) |
 | Cam Op Simulator | 326465 | [326465-cam-op-simulator.json](./326465-cam-op-simulator.json) |
 | Cam Quest | 380689 | [380689-cam-quest.json](./380689-cam-quest.json) |
 | Cam4Z: Bodycam Zombie Elevator Survivor | 373682 | [373682-cam4z-bodycam-zombie-elevator-survivor.json](./373682-cam4z-bodycam-zombie-elevator-survivor.json) |
@@ -2596,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmen Sandiego Adventures in Math: The Great Gateway Grab | 51080 | [51080-carmen-sandiego-adventures-in-math-the-great-gateway-grab.json](./51080-carmen-sandiego-adventures-in-math-the-great-gateway-grab.json) |
 | Carmen Sandiego Adventures in Math: The Island of Diamonds | 85554 | [85554-carmen-sandiego-adventures-in-math-the-island-of-diamonds.json](./85554-carmen-sandiego-adventures-in-math-the-island-of-diamonds.json) |
 | Carmen Sandiego Adventures in Math: The Lady Liberty Larceny | 51128 | [51128-carmen-sandiego-adventures-in-math-the-lady-liberty-larceny.json](./51128-carmen-sandiego-adventures-in-math-the-lady-liberty-larceny.json) |
+| Carmen Sandiego in Japan | 417819 | [417819-carmen-sandiego-in-japan.json](./417819-carmen-sandiego-in-japan.json) |
 | Carmen Sandiego Math Detective | 139721 | [139721-carmen-sandiego-math-detective.json](./139721-carmen-sandiego-math-detective.json) |
 | Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
 | Carmen Sandiego: 40th Anniversary Edition | 400999 | [400999-carmen-sandiego-40th-anniversary-edition.json](./400999-carmen-sandiego-40th-anniversary-edition.json) |
@@ -3109,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casper | 83245 | [83245-casper.json](./83245-casper.json) |
 | Casper and the Ghostly Trio | 83232 | [83232-casper-and-the-ghostly-trio.json](./83232-casper-and-the-ghostly-trio.json) |
 | Casper Brainy Book | 125318 | [125318-casper-brainy-book.json](./125318-casper-brainy-book.json) |
+| Casper: Animated Activity Center | 417767 | [417767-casper-animated-activity-center.json](./417767-casper-animated-activity-center.json) |
 | Casper: Friends Around the World | 44956 | [44956-casper-friends-around-the-world.json](./44956-casper-friends-around-the-world.json) |
 | Casper: Spirit Dimensions | 3850 | [3850-casper-spirit-dimensions.json](./3850-casper-spirit-dimensions.json) |
 | Casper: The Interactive Adventure | 215183 | [215183-casper-the-interactive-adventure.json](./215183-casper-the-interactive-adventure.json) |
@@ -8947,6 +8951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cladun X2 | 15284 | [15284-cladun-x2.json](./15284-cladun-x2.json) |
 | Cladun X3 | 317862 | [317862-cladun-x3.json](./317862-cladun-x3.json) |
 | Cladun: This is an RPG | 21576 | [21576-cladun-this-is-an-rpg.json](./21576-cladun-this-is-an-rpg.json) |
+| Claim Denied | 417190 | [417190-claim-denied.json](./417190-claim-denied.json) |
 | Claim Jumper | 18508 | [18508-claim-jumper.json](./18508-claim-jumper.json) |
 | Claim the Forest | 366209 | [366209-claim-the-forest.json](./366209-claim-the-forest.json) |
 | Claim the Forest: Settling Peace | 399618 | [399618-claim-the-forest-settling-peace.json](./399618-claim-the-forest-settling-peace.json) |
@@ -9145,6 +9150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Class of Heroes: Anniversary Edition | 220942 | [220942-class-of-heroes-anniversary-edition.json](./220942-class-of-heroes-anniversary-edition.json) |
 | Class of Heroes: The Ultimate Trilogy | 368772 | [368772-class-of-heroes-the-ultimate-trilogy.json](./368772-class-of-heroes-the-ultimate-trilogy.json) |
 | Class of the Living Dead | 231428 | [231428-class-of-the-living-dead.json](./231428-class-of-the-living-dead.json) |
+| Class of the Titans | 417807 | [417807-class-of-the-titans.json](./417807-class-of-the-titans.json) |
 | Class Reunion Chat Room | 239501 | [239501-class-reunion-chat-room.json](./239501-class-reunion-chat-room.json) |
 | Class Trip Crush | 238411 | [238411-class-trip-crush.json](./238411-class-trip-crush.json) |
 | Class4 (working title) | 131466 | [131466-class4-working-title.json](./131466-class4-working-title.json) |
@@ -18399,6 +18405,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse | 31822 | [31822-curse.json](./31822-curse.json) |
 | Curse | 4448 | [4448-curse.json](./4448-curse.json) |
 | Curse Ahoy! | 176305 | [176305-curse-ahoy.json](./176305-curse-ahoy.json) |
+| Curse at Twilight: Thief of Souls | 417770 | [417770-curse-at-twilight-thief-of-souls.json](./417770-curse-at-twilight-thief-of-souls.json) |
+| Curse at Twilight: Thief of Souls - Extended Edition | 417771 | [417771-curse-at-twilight-thief-of-souls-extended-edition.json](./417771-curse-at-twilight-thief-of-souls-extended-edition.json) |
 | Curse Chapter: Dawnthief | 382365 | [382365-curse-chapter-dawnthief.json](./382365-curse-chapter-dawnthief.json) |
 | Curse Crackers: For Whom the Belle Toils | 172413 | [172413-curse-crackers-for-whom-the-belle-toils.json](./172413-curse-crackers-for-whom-the-belle-toils.json) |
 | Curse Errant | 278928 | [278928-curse-errant.json](./278928-curse-errant.json) |
@@ -18493,6 +18501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed by Feedback | 364666 | [364666-cursed-by-feedback.json](./364666-cursed-by-feedback.json) |
 | Cursed Canvas | 291848 | [291848-cursed-canvas.json](./291848-cursed-canvas.json) |
 | Cursed Cargo | 394329 | [394329-cursed-cargo.json](./394329-cursed-cargo.json) |
+| Cursed Cases: Murder at the Maybard Estate - Collector's Edition | 417772 | [417772-cursed-cases-murder-at-the-maybard-estate-collectors-edition.json](./417772-cursed-cases-murder-at-the-maybard-estate-collectors-edition.json) |
 | Cursed Castilla | 197635 | [197635-cursed-castilla.json](./197635-cursed-castilla.json) |
 | Cursed Castilla | 288182 | [288182-cursed-castilla.json](./288182-cursed-castilla.json) |
 | Cursed Castle DX | 365765 | [365765-cursed-castle-dx.json](./365765-cursed-castle-dx.json) |
@@ -18517,11 +18526,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Enigma: Priest and Prayers | 278276 | [278276-cursed-enigma-priest-and-prayers.json](./278276-cursed-enigma-priest-and-prayers.json) |
 | Cursed Enigma: The Midnight Apartment | 294103 | [294103-cursed-enigma-the-midnight-apartment.json](./294103-cursed-enigma-the-midnight-apartment.json) |
 | Cursed Fables: A Gilded Rose - Collector's Edition | 338782 | [338782-cursed-fables-a-gilded-rose-collectors-edition.json](./338782-cursed-fables-a-gilded-rose-collectors-edition.json) |
+| Cursed Fables: A Voice to Die For | 417773 | [417773-cursed-fables-a-voice-to-die-for.json](./417773-cursed-fables-a-voice-to-die-for.json) |
 | Cursed Fables: A Voice to Die For - Collector's Edition | 260422 | [260422-cursed-fables-a-voice-to-die-for-collectors-edition.json](./260422-cursed-fables-a-voice-to-die-for-collectors-edition.json) |
 | Cursed Fables: Before the Clock Strikes | 318568 | [318568-cursed-fables-before-the-clock-strikes.json](./318568-cursed-fables-before-the-clock-strikes.json) |
 | Cursed Fables: Before the Clock Strikes - Collector's Edition | 362841 | [362841-cursed-fables-before-the-clock-strikes-collectors-edition.json](./362841-cursed-fables-before-the-clock-strikes-collectors-edition.json) |
 | Cursed Fables: Twisted Tower | 247419 | [247419-cursed-fables-twisted-tower.json](./247419-cursed-fables-twisted-tower.json) |
 | Cursed Fables: Twisted Tower - Collector's Edition | 236203 | [236203-cursed-fables-twisted-tower-collectors-edition.json](./236203-cursed-fables-twisted-tower-collectors-edition.json) |
+| Cursed Fables: White as Snow | 417775 | [417775-cursed-fables-white-as-snow.json](./417775-cursed-fables-white-as-snow.json) |
+| Cursed Fates: The Headless Horseman - Collector's Edition | 417777 | [417777-cursed-fates-the-headless-horseman-collectors-edition.json](./417777-cursed-fates-the-headless-horseman-collectors-edition.json) |
 | Cursed Frontier | 374572 | [374572-cursed-frontier.json](./374572-cursed-frontier.json) |
 | Cursed Gem | 129411 | [129411-cursed-gem.json](./129411-cursed-gem.json) |
 | Cursed Ghost | 389918 | [389918-cursed-ghost.json](./389918-cursed-ghost.json) |
