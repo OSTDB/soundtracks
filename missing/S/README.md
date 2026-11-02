@@ -1449,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctum Breach: Rebirth | 196579 | [196579-sanctum-breach-rebirth.json](./196579-sanctum-breach-rebirth.json) |
 | Sanctum Mage | 391782 | [391782-sanctum-mage.json](./391782-sanctum-mage.json) |
 | Sanctum Push | 387311 | [387311-sanctum-push.json](./387311-sanctum-push.json) |
+| Sanctum Ruins | 402669 | [402669-sanctum-ruins.json](./402669-sanctum-ruins.json) |
 | Sanctum Wars: Ex Infernis | 411542 | [411542-sanctum-wars-ex-infernis.json](./411542-sanctum-wars-ex-infernis.json) |
 | Sanctum: Cavern | 10810 | [10810-sanctum-cavern.json](./10810-sanctum-cavern.json) |
 | Sanctum: Map Pack 1 | 26274 | [26274-sanctum-map-pack-1.json](./26274-sanctum-map-pack-1.json) |
@@ -9686,6 +9687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Lost | 377331 | [377331-signal-lost.json](./377331-signal-lost.json) |
 | Signal Maze | 231821 | [231821-signal-maze.json](./231821-signal-maze.json) |
 | Signal Ops | 16734 | [16734-signal-ops.json](./16734-signal-ops.json) |
+| Signal Pit | 402651 | [402651-signal-pit.json](./402651-signal-pit.json) |
 | Signal Zero | 405137 | [405137-signal-zero.json](./405137-signal-zero.json) |
 | Signal Zero | 405139 | [405139-signal-zero.json](./405139-signal-zero.json) |
 | Signal Zero: Dispatch | 405136 | [405136-signal-zero-dispatch.json](./405136-signal-zero-dispatch.json) |
@@ -9990,6 +9992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silktrails: Cats in the Grove 2 | 373271 | [373271-silktrails-cats-in-the-grove-2.json](./373271-silktrails-cats-in-the-grove-2.json) |
 | Silky Road | 355565 | [355565-silky-road.json](./355565-silky-road.json) |
 | Silky Winds | 362348 | [362348-silky-winds.json](./362348-silky-winds.json) |
+| Sill Cats | 402672 | [402672-sill-cats.json](./402672-sill-cats.json) |
 | Sillage | 195117 | [195117-sillage.json](./195117-sillage.json) |
 | Sillouhettes of Phobos | 274212 | [274212-sillouhettes-of-phobos.json](./274212-sillouhettes-of-phobos.json) |
 | Silly Bandz | 10620 | [10620-silly-bandz.json](./10620-silly-bandz.json) |
@@ -13644,6 +13647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile Guide: The Apple Escape | 56136 | [56136-smile-guide-the-apple-escape.json](./56136-smile-guide-the-apple-escape.json) |
 | Smile Inc. | 25178 | [25178-smile-inc.json](./25178-smile-inc.json) |
 | Smile More | 395023 | [395023-smile-more.json](./395023-smile-more.json) |
+| Smile Muscle Trainer | 402681 | [402681-smile-muscle-trainer.json](./402681-smile-muscle-trainer.json) |
 | Smile Pinball | 315327 | [315327-smile-pinball.json](./315327-smile-pinball.json) |
 | Smile Poker | 131315 | [131315-smile-poker.json](./131315-smile-poker.json) |
 | Smile Pretty Cure! Let's Go! Marchen World | 63045 | [63045-smile-pretty-cure-lets-go-marchen-world.json](./63045-smile-pretty-cure-lets-go-marchen-world.json) |
@@ -15097,6 +15101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sodatete! Mushiking | 198649 | [198649-sodatete-mushiking.json](./198649-sodatete-mushiking.json) |
 | Sodden | 301236 | [301236-sodden.json](./301236-sodden.json) |
 | Sodium One | 45282 | [45282-sodium-one.json](./45282-sodium-one.json) |
+| Sodomy Fatale | 402679 | [402679-sodomy-fatale.json](./402679-sodomy-fatale.json) |
 | SOE 64 | 401866 | [401866-soe-64.json](./401866-soe-64.json) |
 | Soer Dolls | 153906 | [153906-soer-dolls.json](./153906-soer-dolls.json) |
 | SOF: Enemy from the future | 305955 | [305955-sof-enemy-from-the-future.json](./305955-sof-enemy-from-the-future.json) |
@@ -18458,7 +18463,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -30326,6 +30330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Space Blaster Special Turbo | 125387 | [125387-super-mega-space-blaster-special-turbo.json](./125387-super-mega-space-blaster-special-turbo.json) |
 | Super Mega Zero | 194981 | [194981-super-mega-zero.json](./194981-super-mega-zero.json) |
 | Super Melee Adventure 64 | 194874 | [194874-super-melee-adventure-64.json](./194874-super-melee-adventure-64.json) |
+| Super Meme Clicker | 402666 | [402666-super-meme-clicker.json](./402666-super-meme-clicker.json) |
 | Super Memory | 69009 | [69009-super-memory.json](./69009-super-memory.json) |
 | Super Metal Crusher | 38069 | [38069-super-metal-crusher.json](./38069-super-metal-crusher.json) |
 | Super Meteor | 203604 | [203604-super-meteor.json](./203604-super-meteor.json) |
