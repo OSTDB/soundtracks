@@ -4318,6 +4318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighters of Capcom | 280849 | [280849-fighters-of-capcom.json](./280849-fighters-of-capcom.json) |
 | Fighters of Fate | 214289 | [214289-fighters-of-fate.json](./214289-fighters-of-fate.json) |
 | Fighters Swords | 40133 | [40133-fighters-swords.json](./40133-fighters-swords.json) |
+| Fighters Uncaged | 2660 | [2660-fighters-uncaged.json](./2660-fighters-uncaged.json) |
 | Fighters Unleashed | 30166 | [30166-fighters-unleashed.json](./30166-fighters-unleashed.json) |
 | Fighters Wizards | 131595 | [131595-fighters-wizards.json](./131595-fighters-wizards.json) |
 | Fighters' Glory | 129700 | [129700-fighters-glory.json](./129700-fighters-glory.json) |
