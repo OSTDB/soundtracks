@@ -5326,6 +5326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty and the Silent Beast | 137801 | [137801-beauty-and-the-silent-beast.json](./137801-beauty-and-the-silent-beast.json) |
 | Beauty and the Thug | 371621 | [371621-beauty-and-the-thug.json](./371621-beauty-and-the-thug.json) |
 | Beauty and Violence: Valkyries | 122299 | [122299-beauty-and-violence-valkyries.json](./122299-beauty-and-violence-valkyries.json) |
+| Beauty Bounce | 35198 | [35198-beauty-bounce.json](./35198-beauty-bounce.json) |
 | Beauty Clicker | 371612 | [371612-beauty-clicker.json](./371612-beauty-clicker.json) |
 | Beauty Clicker 2 | 389646 | [389646-beauty-clicker-2.json](./389646-beauty-clicker-2.json) |
 | Beauty Contest | 157309 | [157309-beauty-contest.json](./157309-beauty-contest.json) |
@@ -5507,6 +5508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beekeeper | 117804 | [117804-beekeeper.json](./117804-beekeeper.json) |
 | Beeknighted | 242717 | [242717-beeknighted.json](./242717-beeknighted.json) |
 | Beekyr | 114307 | [114307-beekyr.json](./114307-beekyr.json) |
+| Beekyr Reloaded | 32507 | [32507-beekyr-reloaded.json](./32507-beekyr-reloaded.json) |
 | Beel the Pollinator | 401372 | [401372-beel-the-pollinator.json](./401372-beel-the-pollinator.json) |
 | Beeline | 15669 | [15669-beeline.json](./15669-beeline.json) |
 | Beellionaire Idle | 422147 | [422147-beellionaire-idle.json](./422147-beellionaire-idle.json) |
@@ -12649,6 +12651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Hunter: Revenge is Sweet! | 206465 | [206465-boss-hunter-revenge-is-sweet.json](./206465-boss-hunter-revenge-is-sweet.json) |
 | Boss Key | 420585 | [420585-boss-key.json](./420585-boss-key.json) |
 | Boss Life 3D | 224090 | [224090-boss-life-3d.json](./224090-boss-life-3d.json) |
+| Boss Monster | 35459 | [35459-boss-monster.json](./35459-boss-monster.json) |
 | Boss of FCs | 348418 | [348418-boss-of-fcs.json](./348418-boss-of-fcs.json) |
 | Boss of the Mafia | 189290 | [189290-boss-of-the-mafia.json](./189290-boss-of-the-mafia.json) |
 | Boss Pit | 394823 | [394823-boss-pit.json](./394823-boss-pit.json) |
