@@ -6426,13 +6426,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: Call of the Forsaken | 63069 | [63069-everquest-call-of-the-forsaken.json](./63069-everquest-call-of-the-forsaken.json) |
 | EverQuest: Claws of Veeshan | 191367 | [191367-everquest-claws-of-veeshan.json](./191367-everquest-claws-of-veeshan.json) |
 | EverQuest: Depths of Darkhollow | 74025 | [74025-everquest-depths-of-darkhollow.json](./74025-everquest-depths-of-darkhollow.json) |
+| EverQuest: Dragons of Norrath | 24254 | [24254-everquest-dragons-of-norrath.json](./24254-everquest-dragons-of-norrath.json) |
 | EverQuest: Empires of Kunark | 57453 | [57453-everquest-empires-of-kunark.json](./57453-everquest-empires-of-kunark.json) |
 | EverQuest: Evolution | 23746 | [23746-everquest-evolution.json](./23746-everquest-evolution.json) |
+| EverQuest: Gates of Discord | 24240 | [24240-everquest-gates-of-discord.json](./24240-everquest-gates-of-discord.json) |
 | EverQuest: Gold Edition | 209221 | [209221-everquest-gold-edition.json](./209221-everquest-gold-edition.json) |
 | EverQuest: House of Thule | 66459 | [66459-everquest-house-of-thule.json](./66459-everquest-house-of-thule.json) |
 | EverQuest: Lost Dungeons of Norrath | 24093 | [24093-everquest-lost-dungeons-of-norrath.json](./24093-everquest-lost-dungeons-of-norrath.json) |
 | EverQuest: Night of Shadows | 239190 | [239190-everquest-night-of-shadows.json](./239190-everquest-night-of-shadows.json) |
 | EverQuest: Omens of War | 24247 | [24247-everquest-omens-of-war.json](./24247-everquest-omens-of-war.json) |
+| EverQuest: Platinum | 24246 | [24246-everquest-platinum.json](./24246-everquest-platinum.json) |
 | EverQuest: Prophecy of Ro | 72906 | [72906-everquest-prophecy-of-ro.json](./72906-everquest-prophecy-of-ro.json) |
 | EverQuest: Rain of Fear | 64625 | [64625-everquest-rain-of-fear.json](./64625-everquest-rain-of-fear.json) |
 | EverQuest: Ring of Scale | 75211 | [75211-everquest-ring-of-scale.json](./75211-everquest-ring-of-scale.json) |
