@@ -7925,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiveswap Friendsim: Volume Twelve | 161247 | [161247-hiveswap-friendsim-volume-twelve.json](./161247-hiveswap-friendsim-volume-twelve.json) |
 | Hiveswap Friendsim: Volume Two | 161237 | [161237-hiveswap-friendsim-volume-two.json](./161237-hiveswap-friendsim-volume-two.json) |
 | Hiveswap: Act 2 | 125164 | [125164-hiveswap-act-2.json](./125164-hiveswap-act-2.json) |
+| Hivetide | 423983 | [423983-hivetide.json](./423983-hivetide.json) |
 | Hivex | 409246 | [409246-hivex.json](./409246-hivex.json) |
 | Hix: Puzzle Islands | 146842 | [146842-hix-puzzle-islands.json](./146842-hix-puzzle-islands.json) |
 | HiYah! | 322832 | [322832-hiyah.json](./322832-hiyah.json) |
@@ -10552,6 +10553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Howl of Iron | 230926 | [230926-howl-of-iron.json](./230926-howl-of-iron.json) |
 | Howling Dogs | 62648 | [62648-howling-dogs.json](./62648-howling-dogs.json) |
 | Howling Village: Echoes | 175810 | [175810-howling-village-echoes.json](./175810-howling-village-echoes.json) |
+| Howling Woods | 424006 | [424006-howling-woods.json](./424006-howling-woods.json) |
 | HowLongToBeat: The Game | 362903 | [362903-howlongtobeat-the-game.json](./362903-howlongtobeat-the-game.json) |
 | Howloween Hero | 178362 | [178362-howloween-hero.json](./178362-howloween-hero.json) |
 | Howlville | 54104 | [54104-howlville.json](./54104-howlville.json) |
