@@ -4102,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Dark Zero | 1465 | [1465-perfect-dark-zero.json](./1465-perfect-dark-zero.json) |
 | Perfect Dark Zero | 292158 | [292158-perfect-dark-zero.json](./292158-perfect-dark-zero.json) |
 | Perfect Dark Zero: Collector's Edition | 41596 | [41596-perfect-dark-zero-collectors-edition.json](./41596-perfect-dark-zero-collectors-edition.json) |
+| Perfect Date HD | 425214 | [425214-perfect-date-hd.json](./425214-perfect-date-hd.json) |
 | Perfect Day | 176629 | [176629-perfect-day.json](./176629-perfect-day.json) |
 | Perfect Decision | 168704 | [168704-perfect-decision.json](./168704-perfect-decision.json) |
 | Perfect Dice | 247933 | [247933-perfect-dice.json](./247933-perfect-dice.json) |
