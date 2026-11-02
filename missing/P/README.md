@@ -1593,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Toss VR | 29186 | [29186-paper-toss-vr.json](./29186-paper-toss-vr.json) |
 | Paper Toss: World Tour | 64299 | [64299-paper-toss-world-tour.json](./64299-paper-toss-world-tour.json) |
 | Paper Trail | 142561 | [142561-paper-trail.json](./142561-paper-trail.json) |
+| Paper Trail | 426435 | [426435-paper-trail.json](./426435-paper-trail.json) |
 | Paper Trails | 196964 | [196964-paper-trails.json](./196964-paper-trails.json) |
 | Paper Train | 63251 | [63251-paper-train.json](./63251-paper-train.json) |
 | Paper Train: Rush | 422655 | [422655-paper-train-rush.json](./422655-paper-train-rush.json) |
@@ -4469,6 +4470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pest Patrol | 85815 | [85815-pest-patrol.json](./85815-pest-patrol.json) |
 | Pest Protocol | 408580 | [408580-pest-protocol.json](./408580-pest-protocol.json) |
 | Pest Quest | 178855 | [178855-pest-quest.json](./178855-pest-quest.json) |
+| Pest Quest | 426439 | [426439-pest-quest.json](./426439-pest-quest.json) |
 | Pest'Off | 396672 | [396672-pestoff.json](./396672-pestoff.json) |
 | Pesten | 94531 | [94531-pesten.json](./94531-pesten.json) |
 | Pester | 35632 | [35632-pester.json](./35632-pester.json) |
@@ -9550,6 +9552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PMC: Net Zero | 377277 | [377277-pmc-net-zero.json](./377277-pmc-net-zero.json) |
 | Pmcman | 178433 | [178433-pmcman.json](./178433-pmcman.json) |
 | Pneuma | 384242 | [384242-pneuma.json](./384242-pneuma.json) |
+| Pneuma | 426436 | [426436-pneuma.json](./426436-pneuma.json) |
 | Pneuma: Breath of Life | 9178 | [9178-pneuma-breath-of-life.json](./9178-pneuma-breath-of-life.json) |
 | Pneumata VR | 253173 | [253173-pneumata-vr.json](./253173-pneumata-vr.json) |
 | Pneumatic Ball | 288360 | [288360-pneumatic-ball.json](./288360-pneumatic-ball.json) |
@@ -14959,6 +14962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Null | 239798 | [239798-project-null.json](./239798-project-null.json) |
 | Project Nyx | 163816 | [163816-project-nyx.json](./163816-project-nyx.json) |
 | Project Oasis | 123875 | [123875-project-oasis.json](./123875-project-oasis.json) |
+| Project Oasis | 426425 | [426425-project-oasis.json](./426425-project-oasis.json) |
 | Project Oasis World | 105063 | [105063-project-oasis-world.json](./105063-project-oasis-world.json) |
 | Project Obscure | 374370 | [374370-project-obscure.json](./374370-project-obscure.json) |
 | Project Octavia | 361271 | [361271-project-octavia.json](./361271-project-octavia.json) |
