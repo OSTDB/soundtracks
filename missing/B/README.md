@@ -11794,6 +11794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb: Who let the dogfight? | 17403 | [17403-bomb-who-let-the-dogfight.json](./17403-bomb-who-let-the-dogfight.json) |
 | Bomb! Bomb! Carnival!! | 187155 | [187155-bomb-bomb-carnival.json](./187155-bomb-bomb-carnival.json) |
 | Bomb! Tank | 199902 | [199902-bomb-tank.json](./199902-bomb-tank.json) |
+| Bomb's Lair | 412110 | [412110-bombs-lair.json](./412110-bombs-lair.json) |
 | Bomba | 313057 | [313057-bomba.json](./313057-bomba.json) |
 | Bomba Patch | 126442 | [126442-bomba-patch.json](./126442-bomba-patch.json) |
 | Bomba: The Explosive Hero | 213956 | [213956-bomba-the-explosive-hero.json](./213956-bomba-the-explosive-hero.json) |
