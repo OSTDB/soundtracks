@@ -7299,6 +7299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crimson Diamond | 119214 | [119214-the-crimson-diamond.json](./119214-the-crimson-diamond.json) |
 | The Crimson Diamond: Chapter 1 | 129722 | [129722-the-crimson-diamond-chapter-1.json](./129722-the-crimson-diamond-chapter-1.json) |
 | The Crimson Flower that Divides: Lunar Coupling | 221211 | [221211-the-crimson-flower-that-divides-lunar-coupling.json](./221211-the-crimson-flower-that-divides-lunar-coupling.json) |
+| The Crimson Hunt | 405841 | [405841-the-crimson-hunt.json](./405841-the-crimson-hunt.json) |
 | The Crimson Kingdom | 247860 | [247860-the-crimson-kingdom.json](./247860-the-crimson-kingdom.json) |
 | The Crimson Line | 345043 | [345043-the-crimson-line.json](./345043-the-crimson-line.json) |
 | The Crimson Lyre | 295504 | [295504-the-crimson-lyre.json](./295504-the-crimson-lyre.json) |
@@ -14681,6 +14682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Remains: Chapter 1 | 199759 | [199759-the-remains-chapter-1.json](./199759-the-remains-chapter-1.json) |
 | The Remission of Sins | 149042 | [149042-the-remission-of-sins.json](./149042-the-remission-of-sins.json) |
 | The Remnants | 336657 | [336657-the-remnants.json](./336657-the-remnants.json) |
+| The Remnants | 405797 | [405797-the-remnants.json](./405797-the-remnants.json) |
 | The Remote Outpost | 268726 | [268726-the-remote-outpost.json](./268726-the-remote-outpost.json) |
 | The Ren & Stimpy Show Presents: Stimpy's Invention | 46257 | [46257-the-ren-and-stimpy-show-presents-stimpys-invention.json](./46257-the-ren-and-stimpy-show-presents-stimpys-invention.json) |
 | The Ren & Stimpy Show: Buckeroo$! | 48209 | [48209-the-ren-and-stimpy-show-buckeroo.json](./48209-the-ren-and-stimpy-show-buckeroo.json) |
@@ -17756,6 +17758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Watch | 377135 | [377135-the-watch.json](./377135-the-watch.json) |
 | The Watcher | 238515 | [238515-the-watcher.json](./238515-the-watcher.json) |
 | The Watcher | 413734 | [413734-the-watcher.json](./413734-the-watcher.json) |
+| The Watching Woods: The Friend | 405837 | [405837-the-watching-woods-the-friend.json](./405837-the-watching-woods-the-friend.json) |
 | The Watching Woods: The Louse | 385331 | [385331-the-watching-woods-the-louse.json](./385331-the-watching-woods-the-louse.json) |
 | The Watchmaker | 2945 | [2945-the-watchmaker.json](./2945-the-watchmaker.json) |
 | The Watchmaker | 82091 | [82091-the-watchmaker.json](./82091-the-watchmaker.json) |
@@ -19149,6 +19152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Though the Heavens Fall | 266423 | [266423-though-the-heavens-fall.json](./266423-though-the-heavens-fall.json) |
 | Thought Police | 178834 | [178834-thought-police.json](./178834-thought-police.json) |
 | Thoughtform Invasion | 292085 | [292085-thoughtform-invasion.json](./292085-thoughtform-invasion.json) |
+| Thoughtless | 405814 | [405814-thoughtless.json](./405814-thoughtless.json) |
 | Thoughts | 416575 | [416575-thoughts.json](./416575-thoughts.json) |
 | Thousand Arms | 15461 | [15461-thousand-arms.json](./15461-thousand-arms.json) |
 | Thousand Hells: The Underworld Heists | 360177 | [360177-thousand-hells-the-underworld-heists.json](./360177-thousand-hells-the-underworld-heists.json) |
@@ -30708,6 +30712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn Around | 29420 | [29420-turn-around.json](./29420-turn-around.json) |
 | Turn Around | 344858 | [344858-turn-around.json](./344858-turn-around.json) |
 | Turn Around Turtle: Show and Tell | 206648 | [206648-turn-around-turtle-show-and-tell.json](./206648-turn-around-turtle-show-and-tell.json) |
+| Turn Back Now | 405844 | [405844-turn-back-now.json](./405844-turn-back-now.json) |
 | Turn Back The Powers Of Darkness | 350233 | [350233-turn-back-the-powers-of-darkness.json](./350233-turn-back-the-powers-of-darkness.json) |
 | Turn Based Boxing | 301220 | [301220-turn-based-boxing.json](./301220-turn-based-boxing.json) |
 | Turn By Turn Villain | 253820 | [253820-turn-by-turn-villain.json](./253820-turn-by-turn-villain.json) |
