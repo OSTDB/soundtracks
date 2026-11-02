@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back and Back to Hell | 187189 | [187189-back-and-back-to-hell.json](./187189-back-and-back-to-hell.json) |
 | Back at the Barnyard: Slop Bucket Games | 7994 | [7994-back-at-the-barnyard-slop-bucket-games.json](./7994-back-at-the-barnyard-slop-bucket-games.json) |
 | Back Door Man | 57997 | [57997-back-door-man.json](./57997-back-door-man.json) |
+| Back Driver Simulator | 401367 | [401367-back-driver-simulator.json](./401367-back-driver-simulator.json) |
 | Back Fire | 251136 | [251136-back-fire.json](./251136-back-fire.json) |
 | Back Fire | 301085 | [301085-back-fire.json](./301085-back-fire.json) |
 | Back Four Seconds | 183710 | [183710-back-four-seconds.json](./183710-back-four-seconds.json) |
@@ -915,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1831,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Heroes: Fruit Survivor | 245371 | [245371-banana-heroes-fruit-survivor.json](./245371-banana-heroes-fruit-survivor.json) |
 | Banana Hunter | 192954 | [192954-banana-hunter.json](./192954-banana-hunter.json) |
 | Banana Invaders | 121903 | [121903-banana-invaders.json](./121903-banana-invaders.json) |
+| Banana Island Hunt | 401564 | [401564-banana-island-hunt.json](./401564-banana-island-hunt.json) |
 | Banana Islands | 73773 | [73773-banana-islands.json](./73773-banana-islands.json) |
 | Banana Keeper | 391998 | [391998-banana-keeper.json](./391998-banana-keeper.json) |
 | Banana Kong | 63881 | [63881-banana-kong.json](./63881-banana-kong.json) |
@@ -2505,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barezu ni Ikiru! | 212465 | [212465-barezu-ni-ikiru.json](./212465-barezu-ni-ikiru.json) |
 | Barf and Beer | 92615 | [92615-barf-and-beer.json](./92615-barf-and-beer.json) |
 | Barf Royale | 401510 | [401510-barf-royale.json](./401510-barf-royale.json) |
+| Barfball | 401512 | [401512-barfball.json](./401512-barfball.json) |
 | Barfbot | 374767 | [374767-barfbot.json](./374767-barfbot.json) |
 | Barfender | 381657 | [381657-barfender.json](./381657-barfender.json) |
 | Barfy's Adventure | 413718 | [413718-barfys-adventure.json](./413718-barfys-adventure.json) |
@@ -3962,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleCorps | 46423 | [46423-battlecorps.json](./46423-battlecorps.json) |
 | BattleCourt | 132219 | [132219-battlecourt.json](./132219-battlecourt.json) |
 | Battlecraft | 128947 | [128947-battlecraft.json](./128947-battlecraft.json) |
+| Battlecrafter VR | 401369 | [401369-battlecrafter-vr.json](./401369-battlecrafter-vr.json) |
 | BattleCrew: Space Pirates | 26807 | [26807-battlecrew-space-pirates.json](./26807-battlecrew-space-pirates.json) |
 | BattleCross | 266827 | [266827-battlecross.json](./266827-battlecross.json) |
 | Battlecruiser 3000AD | 77288 | [77288-battlecruiser-3000ad.json](./77288-battlecruiser-3000ad.json) |
@@ -6177,6 +6182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benji Bananas | 234749 | [234749-benji-bananas.json](./234749-benji-bananas.json) |
 | Benji Challenges | 34711 | [34711-benji-challenges.json](./34711-benji-challenges.json) |
 | Benji: Space Rescue | 74047 | [74047-benji-space-rescue.json](./74047-benji-space-rescue.json) |
+| Benjo 10 | 401371 | [401371-benjo-10.json](./401371-benjo-10.json) |
 | Benjy Adventure | 417675 | [417675-benjy-adventure.json](./417675-benjy-adventure.json) |
 | Benkei Gaiden | 80572 | [80572-benkei-gaiden.json](./80572-benkei-gaiden.json) |
 | Bennett Foddy's Speed Chess | 342167 | [342167-bennett-foddys-speed-chess.json](./342167-bennett-foddys-speed-chess.json) |
@@ -8795,6 +8801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackheart | 249897 | [249897-blackheart.json](./249897-blackheart.json) |
 | BlackHill | 211005 | [211005-blackhill.json](./211005-blackhill.json) |
 | Blackhole | 13220 | [13220-blackhole.json](./13220-blackhole.json) |
+| Blackhole Incremental | 401370 | [401370-blackhole-incremental.json](./401370-blackhole-incremental.json) |
 | Blackhole Maker | 384859 | [384859-blackhole-maker.json](./384859-blackhole-maker.json) |
 | Blackhole on the Road | 269047 | [269047-blackhole-on-the-road.json](./269047-blackhole-on-the-road.json) |
 | Blackhole Simulator | 333385 | [333385-blackhole-simulator.json](./333385-blackhole-simulator.json) |
@@ -15040,6 +15047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken In Time | 223499 | [223499-broken-in-time.json](./223499-broken-in-time.json) |
 | Broken Keyboard Hero | 342842 | [342842-broken-keyboard-hero.json](./342842-broken-keyboard-hero.json) |
 | Broken Knuckles | 407851 | [407851-broken-knuckles.json](./407851-broken-knuckles.json) |
+| Broken Lamp Records Secret Santa 2025 | 401530 | [401530-broken-lamp-records-secret-santa-2025.json](./401530-broken-lamp-records-secret-santa-2025.json) |
 | Broken Lands: Tower Defense | 281971 | [281971-broken-lands-tower-defense.json](./281971-broken-lands-tower-defense.json) |
 | Broken Leash: Night Shift | 376478 | [376478-broken-leash-night-shift.json](./376478-broken-leash-night-shift.json) |
 | Broken Legends | 152644 | [152644-broken-legends.json](./152644-broken-legends.json) |
