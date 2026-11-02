@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shippuden: Gekitou Ninja Taisen! EX 2 | 75839 | [75839-naruto-shippuden-gekitou-ninja-taisen-ex-2.json](./75839-naruto-shippuden-gekitou-ninja-taisen-ex-2.json) |
 | Naruto Shippuden: Gekitou Ninja Taisen! EX 3 | 75840 | [75840-naruto-shippuden-gekitou-ninja-taisen-ex-3.json](./75840-naruto-shippuden-gekitou-ninja-taisen-ex-3.json) |
 | Naruto Shippuden: Gekitou Ninja Taisen! Special | 75841 | [75841-naruto-shippuden-gekitou-ninja-taisen-special.json](./75841-naruto-shippuden-gekitou-ninja-taisen-special.json) |
+| Naruto Shippuden: Kizuna Drive | 24310 | [24310-naruto-shippuden-kizuna-drive.json](./24310-naruto-shippuden-kizuna-drive.json) |
 | Naruto Shippuden: Legends - Akatsuki Rising | 19658 | [19658-naruto-shippuden-legends-akatsuki-rising.json](./19658-naruto-shippuden-legends-akatsuki-rising.json) |
 | Naruto Shippuden: Ninja Council 4 | 21122 | [21122-naruto-shippuden-ninja-council-4.json](./21122-naruto-shippuden-ninja-council-4.json) |
 | Naruto Shippuden: Ninja Destiny 2 | 47935 | [47935-naruto-shippuden-ninja-destiny-2.json](./47935-naruto-shippuden-ninja-destiny-2.json) |
