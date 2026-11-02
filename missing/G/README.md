@@ -6165,6 +6165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldStorm Pirates | 326948 | [326948-goldstorm-pirates.json](./326948-goldstorm-pirates.json) |
 | Goldy Pig Adventure | 337061 | [337061-goldy-pig-adventure.json](./337061-goldy-pig-adventure.json) |
 | Golel | 264693 | [264693-golel.json](./264693-golel.json) |
+| Golem | 103024 | [103024-golem.json](./103024-golem.json) |
 | Golem | 310610 | [310610-golem.json](./310610-golem.json) |
 | Golem | 345640 | [345640-golem.json](./345640-golem.json) |
 | Golem | 47987 | [47987-golem.json](./47987-golem.json) |
