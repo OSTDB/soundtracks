@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oekaki Programmer | 346041 | [346041-oekaki-programmer.json](./346041-oekaki-programmer.json) |
 | Oekaki Puzzle Battle Vol. 1: Yuusha-Oh GaoGaiGar Version | 124427 | [124427-oekaki-puzzle-battle-vol-1-yuusha-oh-gaogaigar-version.json](./124427-oekaki-puzzle-battle-vol-1-yuusha-oh-gaogaigar-version.json) |
 | Oel | 62611 | [62611-oel.json](./62611-oel.json) |
+| Oese | 32490 | [32490-oese.json](./32490-oese.json) |
 | Oeuf | 375317 | [375317-oeuf.json](./375317-oeuf.json) |
 | Of a Feather | 178515 | [178515-of-a-feather.json](./178515-of-a-feather.json) |
 | Of Ash and Dust | 313253 | [313253-of-ash-and-dust.json](./313253-of-ash-and-dust.json) |
@@ -2491,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Slime Army | 307597 | [307597-one-slime-army.json](./307597-one-slime-army.json) |
 | One Small Favor | 163859 | [163859-one-small-favor.json](./163859-one-small-favor.json) |
 | One Small Favor | 176929 | [176929-one-small-favor.json](./176929-one-small-favor.json) |
+| One Small Fire At A Time | 32577 | [32577-one-small-fire-at-a-time.json](./32577-one-small-fire-at-a-time.json) |
 | One Small Square Backyard | 209024 | [209024-one-small-square-backyard.json](./209024-one-small-square-backyard.json) |
 | One Socket | 295611 | [295611-one-socket.json](./295611-one-socket.json) |
 | One Sole Purpose | 27572 | [27572-one-sole-purpose.json](./27572-one-sole-purpose.json) |
@@ -5299,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overhead Kick | 248319 | [248319-overhead-kick.json](./248319-overhead-kick.json) |
 | Overheat | 163156 | [163156-overheat.json](./163156-overheat.json) |
 | Overheat: Kitchen Chaos | 324134 | [324134-overheat-kitchen-chaos.json](./324134-overheat-kitchen-chaos.json) |
+| Overhell | 32555 | [32555-overhell.json](./32555-overhell.json) |
 | Overhills | 279108 | [279108-overhills.json](./279108-overhills.json) |
 | Overhours | 253599 | [253599-overhours.json](./253599-overhours.json) |
 | OverKart 64 Christmas Mod | 282813 | [282813-overkart-64-christmas-mod.json](./282813-overkart-64-christmas-mod.json) |
