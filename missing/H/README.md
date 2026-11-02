@@ -2374,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku Logic Paint | 144758 | [144758-hatsune-miku-logic-paint.json](./144758-hatsune-miku-logic-paint.json) |
 | Hatsune Miku Logic Paint S | 144759 | [144759-hatsune-miku-logic-paint-s.json](./144759-hatsune-miku-logic-paint-s.json) |
 | Hatsune Miku Logic Paint S+ | 353940 | [353940-hatsune-miku-logic-paint-s.json](./353940-hatsune-miku-logic-paint-s.json) |
+| Hatsune Miku Starry Party | 409132 | [409132-hatsune-miku-starry-party.json](./409132-hatsune-miku-starry-party.json) |
 | Hatsune Miku Tycoon | 216034 | [216034-hatsune-miku-tycoon.json](./216034-hatsune-miku-tycoon.json) |
 | Hatsune Miku VR | 89847 | [89847-hatsune-miku-vr.json](./89847-hatsune-miku-vr.json) |
 | Hatsune Miku VR: 5 Songs pack 1 | 223587 | [223587-hatsune-miku-vr-5-songs-pack-1.json](./223587-hatsune-miku-vr-5-songs-pack-1.json) |
@@ -3136,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbeat Girlfriend | 278100 | [278100-heartbeat-girlfriend.json](./278100-heartbeat-girlfriend.json) |
 | Heartbeat House: Hong Kong | 386218 | [386218-heartbeat-house-hong-kong.json](./386218-heartbeat-house-hong-kong.json) |
 | Heartbeat Scramble | 209621 | [209621-heartbeat-scramble.json](./209621-heartbeat-scramble.json) |
+| Heartbeat Under One Roof | 408385 | [408385-heartbeat-under-one-roof.json](./408385-heartbeat-under-one-roof.json) |
 | Heartbeat: Regret | 164222 | [164222-heartbeat-regret.json](./164222-heartbeat-regret.json) |
 | Heartbeats | 211814 | [211814-heartbeats.json](./211814-heartbeats.json) |
 | Heartbeats | 338206 | [338206-heartbeats.json](./338206-heartbeats.json) |
@@ -5758,6 +5760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Orn: Darkness | 249244 | [249244-heroes-of-orn-darkness.json](./249244-heroes-of-orn-darkness.json) |
 | Heroes of Paragon | 37394 | [37394-heroes-of-paragon.json](./37394-heroes-of-paragon.json) |
 | Heroes of Pure Land | 115801 | [115801-heroes-of-pure-land.json](./115801-heroes-of-pure-land.json) |
+| Heroes of Retribution | 408389 | [408389-heroes-of-retribution.json](./408389-heroes-of-retribution.json) |
 | Heroes of Rings | 96602 | [96602-heroes-of-rings.json](./96602-heroes-of-rings.json) |
 | Heroes of Rome 3: The Brotherhood | 236221 | [236221-heroes-of-rome-3-the-brotherhood.json](./236221-heroes-of-rome-3-the-brotherhood.json) |
 | Heroes of Rome: Dangerous Roads | 195722 | [195722-heroes-of-rome-dangerous-roads.json](./195722-heroes-of-rome-dangerous-roads.json) |
@@ -9343,6 +9346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon's Edge | 291381 | [291381-horizons-edge.json](./291381-horizons-edge.json) |
 | Horizon's Gate | 131620 | [131620-horizons-gate.json](./131620-horizons-gate.json) |
 | Horizon's Mirage | 264741 | [264741-horizons-mirage.json](./264741-horizons-mirage.json) |
+| Horizonite | 409143 | [409143-horizonite.json](./409143-horizonite.json) |
 | Horizons Light | 376466 | [376466-horizons-light.json](./376466-horizons-light.json) |
 | Horizons of Achaea | 381358 | [381358-horizons-of-achaea.json](./381358-horizons-of-achaea.json) |
 | Horizons Scavenger | 390272 | [390272-horizons-scavenger.json](./390272-horizons-scavenger.json) |
@@ -10362,6 +10366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Housekeeping VR | 30497 | [30497-housekeeping-vr.json](./30497-housekeeping-vr.json) |
 | Housemates | 291063 | [291063-housemates.json](./291063-housemates.json) |
 | Houserot | 176484 | [176484-houserot.json](./176484-houserot.json) |
+| HouseWarming | 408388 | [408388-housewarming.json](./408388-housewarming.json) |
 | Housewarming Gift | 237535 | [237535-housewarming-gift.json](./237535-housewarming-gift.json) |
 | Houshin Engi | 125424 | [125424-houshin-engi.json](./125424-houshin-engi.json) |
 | Houshin Engi 2 | 125423 | [125423-houshin-engi-2.json](./125423-houshin-engi-2.json) |
