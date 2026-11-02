@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ward 107: Silence | 392822 | [392822-ward-107-silence.json](./392822-ward-107-silence.json) |
 | Ward 13 | 399722 | [399722-ward-13.json](./399722-ward-13.json) |
 | Ward 777 | 357460 | [357460-ward-777.json](./357460-ward-777.json) |
+| Ward X | 402658 | [402658-ward-x.json](./402658-ward-x.json) |
 | Ward: Descent | 398377 | [398377-ward-descent.json](./398377-ward-descent.json) |
 | Warden | 123819 | [123819-warden.json](./123819-warden.json) |
 | Warden | 324729 | [324729-warden.json](./324729-warden.json) |
@@ -4030,6 +4031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Veil Thins | 423371 | [423371-where-the-veil-thins.json](./423371-where-the-veil-thins.json) |
 | Where the Water Tastes Like Wine | 15823 | [15823-where-the-water-tastes-like-wine.json](./15823-where-the-water-tastes-like-wine.json) |
 | Where the Water Tastes Like Wine: Xbox Edition | 134369 | [134369-where-the-water-tastes-like-wine-xbox-edition.json](./134369-where-the-water-tastes-like-wine-xbox-edition.json) |
+| Where the Water Waits | 402747 | [402747-where-the-water-waits.json](./402747-where-the-water-waits.json) |
 | Where the Wild Things Are | 5278 | [5278-where-the-wild-things-are.json](./5278-where-the-wild-things-are.json) |
 | Where there once was sand | 315802 | [315802-where-there-once-was-sand.json](./315802-where-there-once-was-sand.json) |
 | Where There's a Mask | 423234 | [423234-where-theres-a-mask.json](./423234-where-theres-a-mask.json) |
@@ -5353,6 +5355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windchaser: Guilds of Glory | 69139 | [69139-windchaser-guilds-of-glory.json](./69139-windchaser-guilds-of-glory.json) |
 | WinDepth | 314455 | [314455-windepth.json](./314455-windepth.json) |
 | Windfall | 80785 | [80785-windfall.json](./80785-windfall.json) |
+| Windfall: The Oil Crisis Game | 402657 | [402657-windfall-the-oil-crisis-game.json](./402657-windfall-the-oil-crisis-game.json) |
 | Windfallers | 133145 | [133145-windfallers.json](./133145-windfallers.json) |
 | Windfolk: Sky Is Just the Beginning | 187438 | [187438-windfolk-sky-is-just-the-beginning.json](./187438-windfolk-sky-is-just-the-beginning.json) |
 | Windhawk | 388110 | [388110-windhawk.json](./388110-windhawk.json) |
