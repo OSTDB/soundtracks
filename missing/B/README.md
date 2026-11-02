@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balancefield | 180826 | [180826-balancefield.json](./180826-balancefield.json) |
 | Balances | 346709 | [346709-balances.json](./346709-balances.json) |
 | Balancing Cats | 330833 | [330833-balancing-cats.json](./330833-balancing-cats.json) |
+| BalanCity | 25278 | [25278-balancity.json](./25278-balancity.json) |
 | Balathrone | 390720 | [390720-balathrone.json](./390720-balathrone.json) |
 | Balatro Multiplayer Mod | 346539 | [346539-balatro-multiplayer-mod.json](./346539-balatro-multiplayer-mod.json) |
 | Balatro: Cryptid | 331968 | [331968-balatro-cryptid.json](./331968-balatro-cryptid.json) |
@@ -3722,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Rage: Mech Conflict | 78683 | [78683-battle-rage-mech-conflict.json](./78683-battle-rage-mech-conflict.json) |
 | Battle Ram | 132780 | [132780-battle-ram.json](./132780-battle-ram.json) |
 | Battle Rampage | 60861 | [60861-battle-rampage.json](./60861-battle-rampage.json) |
+| Battle Ranch | 24602 | [24602-battle-ranch.json](./24602-battle-ranch.json) |
 | Battle Ranch: Pigs Vs Plants | 112065 | [112065-battle-ranch-pigs-vs-plants.json](./112065-battle-ranch-pigs-vs-plants.json) |
 | Battle Rangers | 39484 | [39484-battle-rangers.json](./39484-battle-rangers.json) |
 | Battle Rap Simulator | 74948 | [74948-battle-rap-simulator.json](./74948-battle-rap-simulator.json) |
@@ -5653,6 +5655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beginner'sGame | 96643 | [96643-beginnersgame.json](./96643-beginnersgame.json) |
 | Beginning Grammer | 42195 | [42195-beginning-grammer.json](./42195-beginning-grammer.json) |
 | Beginning of the Rain | 248387 | [248387-beginning-of-the-rain.json](./248387-beginning-of-the-rain.json) |
+| Beglitched | 24840 | [24840-beglitched.json](./24840-beglitched.json) |
 | Beglov Style | 129060 | [129060-beglov-style.json](./129060-beglov-style.json) |
 | BeGone | 109038 | [109038-begone.json](./109038-begone.json) |
 | BeGone: WarLand 2 | 101925 | [101925-begone-warland-2.json](./101925-begone-warland-2.json) |
@@ -8078,6 +8081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Dungeon | 60772 | [60772-bit-dungeon.json](./60772-bit-dungeon.json) |
 | Bit Dungeon II | 24557 | [24557-bit-dungeon-ii.json](./24557-bit-dungeon-ii.json) |
 | bit Dungeon III | 116771 | [116771-bit-dungeon-iii.json](./116771-bit-dungeon-iii.json) |
+| Bit Dungeon+ | 25816 | [25816-bit-dungeon.json](./25816-bit-dungeon.json) |
 | Bit Evolution | 35966 | [35966-bit-evolution.json](./35966-bit-evolution.json) |
 | Bit Generations: Boundish | 94200 | [94200-bit-generations-boundish.json](./94200-bit-generations-boundish.json) |
 | Bit Generations: Coloris | 79016 | [79016-bit-generations-coloris.json](./79016-bit-generations-coloris.json) |
@@ -9620,6 +9624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitzkrieg 2 Anthology | 36260 | [36260-blitzkrieg-2-anthology.json](./36260-blitzkrieg-2-anthology.json) |
 | Blitzkrieg 2: Fall of the Reich | 11106 | [11106-blitzkrieg-2-fall-of-the-reich.json](./11106-blitzkrieg-2-fall-of-the-reich.json) |
 | Blitzkrieg 2: Liberation | 11107 | [11107-blitzkrieg-2-liberation.json](./11107-blitzkrieg-2-liberation.json) |
+| Blitzkrieg 3 | 10243 | [10243-blitzkrieg-3.json](./10243-blitzkrieg-3.json) |
 | Blitzkrieg 3: Deluxe Edition | 52653 | [52653-blitzkrieg-3-deluxe-edition.json](./52653-blitzkrieg-3-deluxe-edition.json) |
 | Blitzkrieg Anthology | 36259 | [36259-blitzkrieg-anthology.json](./36259-blitzkrieg-anthology.json) |
 | Blitzkrieg Fire | 175128 | [175128-blitzkrieg-fire.json](./175128-blitzkrieg-fire.json) |
