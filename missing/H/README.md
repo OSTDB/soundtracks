@@ -7447,6 +7447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hind Strike | 42215 | [42215-hind-strike.json](./42215-hind-strike.json) |
 | HIND: The Russian Combat Helicopter Simulation | 747 | [747-hind-the-russian-combat-helicopter-simulation.json](./747-hind-the-russian-combat-helicopter-simulation.json) |
 | Hindrance | 177720 | [177720-hindrance.json](./177720-hindrance.json) |
+| Hindsight | 145781 | [145781-hindsight.json](./145781-hindsight.json) |
 | Hindsight 20/20 | 117940 | [117940-hindsight-20-20.json](./117940-hindsight-20-20.json) |
 | Hinedere Beat | 107368 | [107368-hinedere-beat.json](./107368-hinedere-beat.json) |
 | Hinekuremono no Gakuen Seishun Monogatari: Ore to Kanojo no Reversible | 194557 | [194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json](./194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json) |
