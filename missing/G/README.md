@@ -5234,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Kokopolo: Harmonious Forest Revenge | 65247 | [65247-go-go-kokopolo-harmonious-forest-revenge.json](./65247-go-go-kokopolo-harmonious-forest-revenge.json) |
 | Go! Go! Mario Circuit | 398914 | [398914-go-go-mario-circuit.json](./398914-go-go-mario-circuit.json) |
 | Go! Go! Mile Smile | 40178 | [40178-go-go-mile-smile.json](./40178-go-go-mile-smile.json) |
+| Go! Go! Mister Chickums | 384021 | [384021-go-go-mister-chickums.json](./384021-go-go-mister-chickums.json) |
 | Go! Go! Nippon! 2015 | 166656 | [166656-go-go-nippon-2015.json](./166656-go-go-nippon-2015.json) |
 | Go! Go! Nippon! 2016 | 166659 | [166659-go-go-nippon-2016.json](./166659-go-go-nippon-2016.json) |
 | Go! Go! Nippon!: My First Trip to Japan | 16675 | [16675-go-go-nippon-my-first-trip-to-japan.json](./16675-go-go-nippon-my-first-trip-to-japan.json) |
@@ -8762,6 +8763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grime | 260887 | [260887-grime.json](./260887-grime.json) |
 | Grime & Gaslight | 134870 | [134870-grime-and-gaslight.json](./134870-grime-and-gaslight.json) |
 | Grime House | 198452 | [198452-grime-house.json](./198452-grime-house.json) |
+| Grime II | 262671 | [262671-grime-ii.json](./262671-grime-ii.json) |
 | Grime Reapers | 385362 | [385362-grime-reapers.json](./385362-grime-reapers.json) |
 | Grime: Colors of Rot | 222950 | [222950-grime-colors-of-rot.json](./222950-grime-colors-of-rot.json) |
 | Grime: Definitive Edition | 284491 | [284491-grime-definitive-edition.json](./284491-grime-definitive-edition.json) |
@@ -10495,6 +10497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvolt Chronicles: Luminous Avenger iX | 101177 | [101177-gunvolt-chronicles-luminous-avenger-ix.json](./101177-gunvolt-chronicles-luminous-avenger-ix.json) |
 | Gunvolt Chronicles: Luminous Avenger iX - Extra Mission: "VS ???" | 170842 | [170842-gunvolt-chronicles-luminous-avenger-ix-extra-mission-vs.json](./170842-gunvolt-chronicles-luminous-avenger-ix-extra-mission-vs.json) |
 | Gunvolt Chronicles: Luminous Avenger iX - Extra Song: "Raison d'être" | 296852 | [296852-gunvolt-chronicles-luminous-avenger-ix-extra-song-raison-detre.json](./296852-gunvolt-chronicles-luminous-avenger-ix-extra-song-raison-detre.json) |
+| Gunvolt Chronicles: Luminous Avenger iX 1+2 Dual Collection | 392770 | [392770-gunvolt-chronicles-luminous-avenger-ix-1-2-dual-collection.json](./392770-gunvolt-chronicles-luminous-avenger-ix-1-2-dual-collection.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Jason Frudnick | 196153 | [196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json](./196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC Boss: Kurona | 199876 | [199876-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kurona.json](./199876-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kurona.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC Boss: Yang Yumo | 199869 | [199869-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-yang-yumo.json](./199869-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-yang-yumo.json) |
