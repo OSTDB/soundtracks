@@ -7122,6 +7122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate's Gambit | 347091 | [347091-pirates-gambit.json](./347091-pirates-gambit.json) |
 | Pirate's Gold | 187867 | [187867-pirates-gold.json](./187867-pirates-gold.json) |
 | Pirate's Gold | 193272 | [193272-pirates-gold.json](./193272-pirates-gold.json) |
+| Pirate's Life | 35523 | [35523-pirates-life.json](./35523-pirates-life.json) |
 | Pirate's Pension | 176304 | [176304-pirates-pension.json](./176304-pirates-pension.json) |
 | Pirate's Solitaire | 195715 | [195715-pirates-solitaire.json](./195715-pirates-solitaire.json) |
 | Piratecraft | 150410 | [150410-piratecraft.json](./150410-piratecraft.json) |
@@ -15360,6 +15361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prometheus Unbound | 290019 | [290019-prometheus-unbound.json](./290019-prometheus-unbound.json) |
 | Prometheus Wept | 133459 | [133459-prometheus-wept.json](./133459-prometheus-wept.json) |
 | Prometheus: The Fire Thief | 35433 | [35433-prometheus-the-fire-thief.json](./35433-prometheus-the-fire-thief.json) |
+| Promethium | 38983 | [38983-promethium.json](./38983-promethium.json) |
 | Promise | 277498 | [277498-promise.json](./277498-promise.json) |
 | Promise Me, You'll Live | 280803 | [280803-promise-me-youll-live.json](./280803-promise-me-youll-live.json) |
 | Promise of Lingyun | 255120 | [255120-promise-of-lingyun.json](./255120-promise-of-lingyun.json) |
