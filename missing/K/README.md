@@ -3869,7 +3869,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Burst | 201690 | [201690-kitten-burst.json](./201690-kitten-burst.json) |
 | Kitten Cannon | 25889 | [25889-kitten-cannon.json](./25889-kitten-cannon.json) |
 | Kitten Coliseum | 388230 | [388230-kitten-coliseum.json](./388230-kitten-coliseum.json) |
+| Kitten Connection | 422816 | [422816-kitten-connection.json](./422816-kitten-connection.json) |
 | Kitten Food Alley | 332963 | [332963-kitten-food-alley.json](./332963-kitten-food-alley.json) |
+| Kitten Greatest | 422812 | [422812-kitten-greatest.json](./422812-kitten-greatest.json) |
 | Kitten Hero | 203679 | [203679-kitten-hero.json](./203679-kitten-hero.json) |
 | Kitten Home: Neko Collector | 242133 | [242133-kitten-home-neko-collector.json](./242133-kitten-home-neko-collector.json) |
 | Kitten Island | 251112 | [251112-kitten-island.json](./251112-kitten-island.json) |
@@ -3973,6 +3975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KittyKart | 256972 | [256972-kittykart.json](./256972-kittykart.json) |
 | Kittypocalypse | 23870 | [23870-kittypocalypse.json](./23870-kittypocalypse.json) |
 | Kittypocalypse: Ungoggled | 31278 | [31278-kittypocalypse-ungoggled.json](./31278-kittypocalypse-ungoggled.json) |
+| KittyRope | 422849 | [422849-kittyrope.json](./422849-kittyrope.json) |
 | KittyToy | 306605 | [306605-kittytoy.json](./306605-kittytoy.json) |
 | Kity Builder | 204525 | [204525-kity-builder.json](./204525-kity-builder.json) |
 | Kivi, Toilet and Shotgun | 16308 | [16308-kivi-toilet-and-shotgun.json](./16308-kivi-toilet-and-shotgun.json) |
@@ -6055,6 +6058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoutou Kotoba RPG: Kotodaman | 208239 | [208239-kyoutou-kotoba-rpg-kotodaman.json](./208239-kyoutou-kotoba-rpg-kotodaman.json) |
 | Kyra's Light | 327797 | [327797-kyras-light.json](./327797-kyras-light.json) |
 | Kyrie and Terra | 327182 | [327182-kyrie-and-terra.json](./327182-kyrie-and-terra.json) |
+| Kyro | 422792 | [422792-kyro.json](./422792-kyro.json) |
 | Kyro | 50156 | [50156-kyro.json](./50156-kyro.json) |
 | Kyros | 39989 | [39989-kyros.json](./39989-kyros.json) |
 | Kyua | 206548 | [206548-kyua.json](./206548-kyua.json) |
