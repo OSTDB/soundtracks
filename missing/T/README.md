@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Rampart | 275332 | [275332-tactical-rampart.json](./275332-tactical-rampart.json) |
 | Tactical Response Team | 359922 | [359922-tactical-response-team.json](./359922-tactical-response-team.json) |
 | Tactical Retreat | 180586 | [180586-tactical-retreat.json](./180586-tactical-retreat.json) |
+| Tactical Roulette | 406488 | [406488-tactical-roulette.json](./406488-tactical-roulette.json) |
 | Tactical Shooter | 409738 | [409738-tactical-shooter.json](./409738-tactical-shooter.json) |
 | Tactical Soccer | 42514 | [42514-tactical-soccer.json](./42514-tactical-soccer.json) |
 | Tactical Soccer the New Season | 34477 | [34477-tactical-soccer-the-new-season.json](./34477-tactical-soccer-the-new-season.json) |
@@ -6309,6 +6310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blood Amulet | 219548 | [219548-the-blood-amulet.json](./219548-the-blood-amulet.json) |
 | The Blood Eclipse | 110826 | [110826-the-blood-eclipse.json](./110826-the-blood-eclipse.json) |
 | The Blood Mage by Daniel da Silva | 249238 | [249238-the-blood-mage-by-daniel-da-silva.json](./249238-the-blood-mage-by-daniel-da-silva.json) |
+| The Blood Mage II | 406486 | [406486-the-blood-mage-ii.json](./406486-the-blood-mage-ii.json) |
 | The Blood of Dawnwalker: Day 1 Edition | 416088 | [416088-the-blood-of-dawnwalker-day-1-edition.json](./416088-the-blood-of-dawnwalker-day-1-edition.json) |
 | The Blood's Way | 364501 | [364501-the-bloods-way.json](./364501-the-bloods-way.json) |
 | The Bloodline | 123930 | [123930-the-bloodline.json](./123930-the-bloodline.json) |
@@ -11478,6 +11480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Oath | 339902 | [339902-the-last-oath.json](./339902-the-last-oath.json) |
 | The Last of Anime | 159476 | [159476-the-last-of-anime.json](./159476-the-last-of-anime.json) |
 | The Last of Hero | 181583 | [181583-the-last-of-hero.json](./181583-the-last-of-hero.json) |
+| The Last of RAM | 406498 | [406498-the-last-of-ram.json](./406498-the-last-of-ram.json) |
 | The Last of the 9 Lives | 319179 | [319179-the-last-of-the-9-lives.json](./319179-the-last-of-the-9-lives.json) |
 | The Last of The Core | 241850 | [241850-the-last-of-the-core.json](./241850-the-last-of-the-core.json) |
 | The Last of the Summer Tank | 286014 | [286014-the-last-of-the-summer-tank.json](./286014-the-last-of-the-summer-tank.json) |
@@ -13978,6 +13981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paupers | 275698 | [275698-the-paupers.json](./275698-the-paupers.json) |
 | The Pauser | 317299 | [317299-the-pauser.json](./317299-the-pauser.json) |
 | The Pawn | 12193 | [12193-the-pawn.json](./12193-the-pawn.json) |
+| The Pawn Broker | 406455 | [406455-the-pawn-broker.json](./406455-the-pawn-broker.json) |
 | The Pay is Nice | 281866 | [281866-the-pay-is-nice.json](./281866-the-pay-is-nice.json) |
 | The Payphone | 398484 | [398484-the-payphone.json](./398484-the-payphone.json) |
 | The Peace Keepers | 44465 | [44465-the-peace-keepers.json](./44465-the-peace-keepers.json) |
@@ -22941,6 +22945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tochi T.U.N.R | 251100 | [251100-tochi-t-u-n-r.json](./251100-tochi-t-u-n-r.json) |
 | Tochos vs. Brokens | 278249 | [278249-tochos-vs-brokens.json](./278249-tochos-vs-brokens.json) |
 | Tock | 104957 | [104957-tock.json](./104957-tock.json) |
+| TocoToco | 406493 | [406493-tocotoco.json](./406493-tocotoco.json) |
 | Tocovix | 168707 | [168707-tocovix.json](./168707-tocovix.json) |
 | ToD Fragments: Special Fun | 237239 | [237239-tod-fragments-special-fun.json](./237239-tod-fragments-special-fun.json) |
 | Tod Stein | 105197 | [105197-tod-stein.json](./105197-tod-stein.json) |
@@ -28268,6 +28273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Bandits | 125430 | [125430-trash-bandits.json](./125430-trash-bandits.json) |
 | Trash Coin | 410697 | [410697-trash-coin.json](./410697-trash-coin.json) |
 | Trash Collector Simulator: Survive Edition | 351029 | [351029-trash-collector-simulator-survive-edition.json](./351029-trash-collector-simulator-survive-edition.json) |
+| Trash Day | 406477 | [406477-trash-day.json](./406477-trash-day.json) |
 | Trash defense | 114397 | [114397-trash-defense.json](./114397-trash-defense.json) |
 | Trash Diver | 89212 | [89212-trash-diver.json](./89212-trash-diver.json) |
 | Trash Goblin: The Artist of Brimhaven | 402318 | [402318-trash-goblin-the-artist-of-brimhaven.json](./402318-trash-goblin-the-artist-of-brimhaven.json) |
