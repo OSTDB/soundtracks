@@ -11877,6 +11877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runr End | 197538 | [197538-runr-end.json](./197538-runr-end.json) |
 | Runren Simulator | 390721 | [390721-runren-simulator.json](./390721-runren-simulator.json) |
 | Runt | 392177 | [392177-runt.json](./392177-runt.json) |
+| Runt of the Litter | 27586 | [27586-runt-of-the-litter.json](./27586-runt-of-the-litter.json) |
 | Runventure | 92117 | [92117-runventure.json](./92117-runventure.json) |
 | RunVR | 30732 | [30732-runvr.json](./30732-runvr.json) |
 | Runway | 174345 | [174345-runway.json](./174345-runway.json) |
