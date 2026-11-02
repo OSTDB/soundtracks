@@ -11630,6 +11630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Treasure: The Legend of Macaron | 151653 | [151653-hyper-treasure-the-legend-of-macaron.json](./151653-hyper-treasure-the-legend-of-macaron.json) |
 | Hyper Turbo Boost | 292153 | [292153-hyper-turbo-boost.json](./292153-hyper-turbo-boost.json) |
 | Hyper Ultra Astronautics | 116664 | [116664-hyper-ultra-astronautics.json](./116664-hyper-ultra-astronautics.json) |
+| Hyper Universe | 54817 | [54817-hyper-universe.json](./54817-hyper-universe.json) |
 | Hyper V-Ball | 42609 | [42609-hyper-v-ball.json](./42609-hyper-v-ball.json) |
 | Hyper Void | 20966 | [20966-hyper-void.json](./20966-hyper-void.json) |
 | Hyper Wars | 243238 | [243238-hyper-wars.json](./243238-hyper-wars.json) |
