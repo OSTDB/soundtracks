@@ -5380,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airtight | 153214 | [153214-airtight.json](./153214-airtight.json) |
 | Airtight City 1.0 | 119724 | [119724-airtight-city-1-0.json](./119724-airtight-city-1-0.json) |
 | Airtime Media | 297435 | [297435-airtime-media.json](./297435-airtime-media.json) |
+| Airtone | 40521 | [40521-airtone.json](./40521-airtone.json) |
 | AirTycoon 3 | 101538 | [101538-airtycoon-3.json](./101538-airtycoon-3.json) |
 | AirTycoon 5 | 106756 | [106756-airtycoon-5.json](./106756-airtycoon-5.json) |
 | AirTycoon Online 2 | 175548 | [175548-airtycoon-online-2.json](./175548-airtycoon-online-2.json) |
