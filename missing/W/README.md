@@ -2790,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Want Your Head | 383154 | [383154-we-want-your-head.json](./383154-we-want-your-head.json) |
 | We Went Back | 130185 | [130185-we-went-back.json](./130185-we-went-back.json) |
 | We Were Friends | 192555 | [192555-we-were-friends.json](./192555-we-were-friends.json) |
+| We Were Here Before | 405828 | [405828-we-were-here-before.json](./405828-we-were-here-before.json) |
 | We Were Here Tomorrow | 393015 | [393015-we-were-here-tomorrow.json](./393015-we-were-here-tomorrow.json) |
 | We Were Kidnapped | 202511 | [202511-we-were-kidnapped.json](./202511-we-were-kidnapped.json) |
 | We Were Monkeys | 292437 | [292437-we-were-monkeys.json](./292437-we-were-monkeys.json) |
@@ -3609,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Chuck? | 338379 | [338379-what-the-chuck.json](./338379-what-the-chuck.json) |
 | What the Clash? | 339825 | [339825-what-the-clash.json](./339825-what-the-clash.json) |
 | What the Crow?! | 274678 | [274678-what-the-crow.json](./274678-what-the-crow.json) |
+| What the Dog Remembers | 405835 | [405835-what-the-dog-remembers.json](./405835-what-the-dog-remembers.json) |
 | What the Dub?! | 144808 | [144808-what-the-dub.json](./144808-what-the-dub.json) |
 | What the Duck | 140782 | [140782-what-the-duck.json](./140782-what-the-duck.json) |
 | What The Floosh Game | 307625 | [307625-what-the-floosh-game.json](./307625-what-the-floosh-game.json) |
@@ -3889,6 +3891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Are My Pipes? | 89476 | [89476-where-are-my-pipes.json](./89476-where-are-my-pipes.json) |
 | Where are my potatoes 2: Land Of Mystery | 276815 | [276815-where-are-my-potatoes-2-land-of-mystery.json](./276815-where-are-my-potatoes-2-land-of-mystery.json) |
 | Where are My Potatoes? | 207798 | [207798-where-are-my-potatoes.json](./207798-where-are-my-potatoes.json) |
+| Where Are the Alices? | 405849 | [405849-where-are-the-alices.json](./405849-where-are-the-alices.json) |
 | Where Are the Fish? | 399168 | [399168-where-are-the-fish.json](./399168-where-are-the-fish.json) |
 | Where Are They? | 300688 | [300688-where-are-they.json](./300688-where-are-they.json) |
 | Where Are We Now | 122068 | [122068-where-are-we-now.json](./122068-where-are-we-now.json) |
@@ -4309,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers: Last Hope | 29720 | [29720-whispers-last-hope.json](./29720-whispers-last-hope.json) |
 | Whisperstring | 329970 | [329970-whisperstring.json](./329970-whisperstring.json) |
 | Whisperwind | 150284 | [150284-whisperwind.json](./150284-whisperwind.json) |
+| Whisperwood | 405847 | [405847-whisperwood.json](./405847-whisperwood.json) |
 | Whispike Survivors: Sword of the Necromancer | 253812 | [253812-whispike-survivors-sword-of-the-necromancer.json](./253812-whispike-survivors-sword-of-the-necromancer.json) |
 | Whistle Pig | 350451 | [350451-whistle-pig.json](./350451-whistle-pig.json) |
 | Whistle Willie | 422057 | [422057-whistle-willie.json](./422057-whistle-willie.json) |
