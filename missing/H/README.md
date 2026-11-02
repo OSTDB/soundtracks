@@ -1244,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handy Harvy | 142068 | [142068-handy-harvy.json](./142068-handy-harvy.json) |
 | Handy Helper | 373108 | [373108-handy-helper.json](./373108-handy-helper.json) |
 | Handy Machines VR | 159749 | [159749-handy-machines-vr.json](./159749-handy-machines-vr.json) |
+| Handy Manny: Carnival Games | 407066 | [407066-handy-manny-carnival-games.json](./407066-handy-manny-carnival-games.json) |
 | HandyBot | 57891 | [57891-handybot.json](./57891-handybot.json) |
 | HandyCopter | 89959 | [89959-handycopter.json](./89959-handycopter.json) |
 | Handycrafts for all | 60392 | [60392-handycrafts-for-all.json](./60392-handycrafts-for-all.json) |
@@ -1635,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy! The Hippo | 269988 | [269988-happy-the-hippo.json](./269988-happy-the-hippo.json) |
 | Happy's Clocks | 207594 | [207594-happys-clocks.json](./207594-happys-clocks.json) |
 | Happy's Humble Burger Barn | 133612 | [133612-happys-humble-burger-barn.json](./133612-happys-humble-burger-barn.json) |
+| Happy's Humble Burger Cult | 407065 | [407065-happys-humble-burger-cult.json](./407065-happys-humble-burger-cult.json) |
 | Happy's Humble Burger Farm | 140654 | [140654-happys-humble-burger-farm.json](./140654-happys-humble-burger-farm.json) |
 | HappyBoxDodging | 104518 | [104518-happyboxdodging.json](./104518-happyboxdodging.json) |
 | Happyface | 68623 | [68623-happyface.json](./68623-happyface.json) |
@@ -7625,6 +7627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiryuu no Ken Stadium DD: SD Version | 351571 | [351571-hiryuu-no-ken-stadium-dd-sd-version.json](./351571-hiryuu-no-ken-stadium-dd-sd-version.json) |
 | His Chuunibyou Cannot Be Cured! | 65823 | [65823-his-chuunibyou-cannot-be-cured.json](./65823-his-chuunibyou-cannot-be-cured.json) |
 | His Dark Majesty | 362473 | [362473-his-dark-majesty.json](./362473-his-dark-majesty.json) |
+| His Fragile Mind | 407073 | [407073-his-fragile-mind.json](./407073-his-fragile-mind.json) |
 | His Majesty's Ship Impetuous | 55833 | [55833-his-majestys-ship-impetuous.json](./55833-his-majestys-ship-impetuous.json) |
 | His Majesty's Ship Impetuous | 55838 | [55838-his-majestys-ship-impetuous.json](./55838-his-majestys-ship-impetuous.json) |
 | His World | 391118 | [391118-his-world.json](./391118-his-world.json) |
@@ -7950,6 +7953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiveswap Friendsim: Volume Twelve | 161247 | [161247-hiveswap-friendsim-volume-twelve.json](./161247-hiveswap-friendsim-volume-twelve.json) |
 | Hiveswap Friendsim: Volume Two | 161237 | [161237-hiveswap-friendsim-volume-two.json](./161237-hiveswap-friendsim-volume-two.json) |
 | Hiveswap: Act 2 | 125164 | [125164-hiveswap-act-2.json](./125164-hiveswap-act-2.json) |
+| Hiveswap: Act 3 | 406451 | [406451-hiveswap-act-3.json](./406451-hiveswap-act-3.json) |
 | Hivetide | 423983 | [423983-hivetide.json](./423983-hivetide.json) |
 | Hivex | 409246 | [409246-hivex.json](./409246-hivex.json) |
 | Hix: Puzzle Islands | 146842 | [146842-hix-puzzle-islands.json](./146842-hix-puzzle-islands.json) |
