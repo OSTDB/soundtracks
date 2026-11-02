@@ -953,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pam's Fantastic Escape | 243723 | [243723-pams-fantastic-escape.json](./243723-pams-fantastic-escape.json) |
 | Pam's HarvestCraft | 232682 | [232682-pams-harvestcraft.json](./232682-pams-harvestcraft.json) |
 | Pam's House: An Escape Game | 183212 | [183212-pams-house-an-escape-game.json](./183212-pams-house-an-escape-game.json) |
+| Pamali: Indonesian Folklore Horror | 102339 | [102339-pamali-indonesian-folklore-horror.json](./102339-pamali-indonesian-folklore-horror.json) |
 | Pamali: Indonesian Folklore Horror - The Tied Corpse | 117737 | [117737-pamali-indonesian-folklore-horror-the-tied-corpse.json](./117737-pamali-indonesian-folklore-horror-the-tied-corpse.json) |
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
 | Pamina vs. Slimes | 341598 | [341598-pamina-vs-slimes.json](./341598-pamina-vs-slimes.json) |
@@ -2224,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park Town: Match 3 Game With a Story | 181649 | [181649-park-town-match-3-game-with-a-story.json](./181649-park-town-match-3-game-with-a-story.json) |
 | Park Up Car | 268972 | [268972-park-up-car.json](./268972-park-up-car.json) |
 | Parkalien | 148401 | [148401-parkalien.json](./148401-parkalien.json) |
+| Parkan II | 7702 | [7702-parkan-ii.json](./7702-parkan-ii.json) |
 | Parkan: Iron Strategy | 7701 | [7701-parkan-iron-strategy.json](./7701-parkan-iron-strategy.json) |
 | Parkan: The Imperial Chronicles | 7700 | [7700-parkan-the-imperial-chronicles.json](./7700-parkan-the-imperial-chronicles.json) |
 | Parkasaurus | 76422 | [76422-parkasaurus.json](./76422-parkasaurus.json) |
@@ -4085,6 +4087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
 | Perfect Hand of Nostalpix | 244943 | [244943-perfect-hand-of-nostalpix.json](./244943-perfect-hand-of-nostalpix.json) |
 | Perfect Harmony | 128913 | [128913-perfect-harmony.json](./128913-perfect-harmony.json) |
+| Perfect Heist | 104565 | [104565-perfect-heist.json](./104565-perfect-heist.json) |
 | Perfect Heist 2 | 157499 | [157499-perfect-heist-2.json](./157499-perfect-heist-2.json) |
 | Perfect Heist 2: Historic Characters DLC | 274740 | [274740-perfect-heist-2-historic-characters-dlc.json](./274740-perfect-heist-2-historic-characters-dlc.json) |
 | Perfect Heist 2: Pietsmiet DLC | 418505 | [418505-perfect-heist-2-pietsmiet-dlc.json](./418505-perfect-heist-2-pietsmiet-dlc.json) |
@@ -15034,6 +15037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Superstar | 323047 | [323047-project-superstar.json](./323047-project-superstar.json) |
 | Project Survivor | 225977 | [225977-project-survivor.json](./225977-project-survivor.json) |
 | Project SXU | 330576 | [330576-project-sxu.json](./330576-project-sxu.json) |
+| Project Sylpheed | 7136 | [7136-project-sylpheed.json](./7136-project-sylpheed.json) |
 | Project T | 301327 | [301327-project-t.json](./301327-project-t.json) |
 | Project T | 67053 | [67053-project-t.json](./67053-project-t.json) |
 | Project T.A.G | 388334 | [388334-project-t-a-g.json](./388334-project-t-a-g.json) |
