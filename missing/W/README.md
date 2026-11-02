@@ -4758,6 +4758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wik & the Fable of Souls | 933 | [933-wik-and-the-fable-of-souls.json](./933-wik-and-the-fable-of-souls.json) |
 | Wika Wicked's Egg | 199450 | [199450-wika-wickeds-egg.json](./199450-wika-wickeds-egg.json) |
 | Wiki Hunt | 86062 | [86062-wiki-hunt.json](./86062-wiki-hunt.json) |
+| Wiki-Go | 426459 | [426459-wiki-go.json](./426459-wiki-go.json) |
 | Wiki's Wild Ride | 261759 | [261759-wikis-wild-ride.json](./261759-wikis-wild-ride.json) |
 | WikiAdventure | 143253 | [143253-wikiadventure.json](./143253-wikiadventure.json) |
 | WikiAsteroids | 386928 | [386928-wikiasteroids.json](./386928-wikiasteroids.json) |
