@@ -6067,6 +6067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Biba Collection | 96932 | [96932-the-biba-collection.json](./96932-the-biba-collection.json) |
 | The Bibites | 183260 | [183260-the-bibites.json](./183260-the-bibites.json) |
 | The Bible Game | 225574 | [225574-the-bible-game.json](./225574-the-bible-game.json) |
+| The Bible Game | 5746 | [5746-the-bible-game.json](./5746-the-bible-game.json) |
 | The Bible Text Adventure | 377981 | [377981-the-bible-text-adventure.json](./377981-the-bible-text-adventure.json) |
 | The Bible: Exodus | 155381 | [155381-the-bible-exodus.json](./155381-the-bible-exodus.json) |
 | The Bibleman | 72773 | [72773-the-bibleman.json](./72773-the-bibleman.json) |
@@ -10027,6 +10028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hikyou Tankentai: Choutoko Special | 124270 | [124270-the-hikyou-tankentai-choutoko-special.json](./124270-the-hikyou-tankentai-choutoko-special.json) |
 | The Hilltop Mansion | 149878 | [149878-the-hilltop-mansion.json](./149878-the-hilltop-mansion.json) |
 | The HinterLands | 33427 | [33427-the-hinterlands.json](./33427-the-hinterlands.json) |
+| The Hip Hop Dance Experience | 15561 | [15561-the-hip-hop-dance-experience.json](./15561-the-hip-hop-dance-experience.json) |
 | The History Channel: Alamo - Fight for Independence | 69651 | [69651-the-history-channel-alamo-fight-for-independence.json](./69651-the-history-channel-alamo-fight-for-independence.json) |
 | The History Channel: Battle for the Pacific | 4913 | [4913-the-history-channel-battle-for-the-pacific.json](./4913-the-history-channel-battle-for-the-pacific.json) |
 | The History Channel: Civil War - A Nation Divided | 7009 | [7009-the-history-channel-civil-war-a-nation-divided.json](./7009-the-history-channel-civil-war-a-nation-divided.json) |
@@ -15097,6 +15099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
 | The Sensifier | 410722 | [410722-the-sensifier.json](./410722-the-sensifier.json) |
 | The Sentient Box | 226594 | [226594-the-sentient-box.json](./226594-the-sentient-box.json) |
+| The Sentinel | 15363 | [15363-the-sentinel.json](./15363-the-sentinel.json) |
 | The Sentinel | 265158 | [265158-the-sentinel.json](./265158-the-sentinel.json) |
 | The Sentinel Remake | 212230 | [212230-the-sentinel-remake.json](./212230-the-sentinel-remake.json) |
 | The Sentinels | 395897 | [395897-the-sentinels.json](./395897-the-sentinels.json) |
