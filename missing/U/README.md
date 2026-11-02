@@ -2978,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upirja | 202499 | [202499-upirja.json](./202499-upirja.json) |
 | UPIXO In Action: Mission in Snowdriftland | 57957 | [57957-upixo-in-action-mission-in-snowdriftland.json](./57957-upixo-in-action-mission-in-snowdriftland.json) |
 | Uplands Motel | 55750 | [55750-uplands-motel.json](./55750-uplands-motel.json) |
+| Uplands Motel: VR Thriller | 29310 | [29310-uplands-motel-vr-thriller.json](./29310-uplands-motel-vr-thriller.json) |
 | Uplife | 236775 | [236775-uplife.json](./236775-uplife.json) |
 | Uplifting | 159549 | [159549-uplifting.json](./159549-uplifting.json) |
 | Uplink | 273741 | [273741-uplink.json](./273741-uplink.json) |
