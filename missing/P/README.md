@@ -8301,6 +8301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Kidd | 217398 | [217398-pizza-kidd.json](./217398-pizza-kidd.json) |
 | Pizza King Fight | 259713 | [259713-pizza-king-fight.json](./259713-pizza-king-fight.json) |
 | Pizza Knight: Out To Deliver | 380766 | [380766-pizza-knight-out-to-deliver.json](./380766-pizza-knight-out-to-deliver.json) |
+| Pizza Legacy | 424587 | [424587-pizza-legacy.json](./424587-pizza-legacy.json) |
 | Pizza Maker | 325889 | [325889-pizza-maker.json](./325889-pizza-maker.json) |
 | Pizza Maker | 95300 | [95300-pizza-maker.json](./95300-pizza-maker.json) |
 | Pizza Man Simulator | 407375 | [407375-pizza-man-simulator.json](./407375-pizza-man-simulator.json) |
