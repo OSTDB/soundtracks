@@ -3063,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Paw Destiny | 241786 | [241786-paw-paw-destiny.json](./241786-paw-paw-destiny.json) |
 | Paw Paw Miaw | 286360 | [286360-paw-paw-miaw.json](./286360-paw-paw-miaw.json) |
 | Paw Paw Paw | 118289 | [118289-paw-paw-paw.json](./118289-paw-paw-paw.json) |
+| Paw's Boba Shop | 414737 | [414737-paws-boba-shop.json](./414737-paws-boba-shop.json) |
 | Pawafuru Puroyakyu 2024-2025 | 287890 | [287890-pawafuru-puroyakyu-2024-2025.json](./287890-pawafuru-puroyakyu-2024-2025.json) |
 | Pawafuru Puroyakyu: Eikan Nine Crossroad | 265625 | [265625-pawafuru-puroyakyu-eikan-nine-crossroad.json](./265625-pawafuru-puroyakyu-eikan-nine-crossroad.json) |
 | Pawapuro Adventures | 396373 | [396373-pawapuro-adventures.json](./396373-pawapuro-adventures.json) |
@@ -9356,6 +9357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Say Hi | 341568 | [341568-please-say-hi.json](./341568-please-say-hi.json) |
 | Please Smile | 318974 | [318974-please-smile.json](./318974-please-smile.json) |
 | Please Stay Calm | 63148 | [63148-please-stay-calm.json](./63148-please-stay-calm.json) |
+| Please Stop Breeding the Ducks | 414732 | [414732-please-stop-breeding-the-ducks.json](./414732-please-stop-breeding-the-ducks.json) |
 | Please Stop Crying | 291230 | [291230-please-stop-crying.json](./291230-please-stop-crying.json) |
 | Please Stop Crying: Terrible Twos | 337110 | [337110-please-stop-crying-terrible-twos.json](./337110-please-stop-crying-terrible-twos.json) |
 | Please Subscribe | 190078 | [190078-please-subscribe.json](./190078-please-subscribe.json) |
@@ -12421,6 +12423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Commotion: Heart Edition | 135697 | [135697-potion-commotion-heart-edition.json](./135697-potion-commotion-heart-edition.json) |
 | Potion Craft Together | 389950 | [389950-potion-craft-together.json](./389950-potion-craft-together.json) |
 | Potion Dealer | 411087 | [411087-potion-dealer.json](./411087-potion-dealer.json) |
+| Potion Drifter | 414722 | [414722-potion-drifter.json](./414722-potion-drifter.json) |
 | Potion Explosion | 86850 | [86850-potion-explosion.json](./86850-potion-explosion.json) |
 | Potion Explosion: The Fifth Ingredient | 171463 | [171463-potion-explosion-the-fifth-ingredient.json](./171463-potion-explosion-the-fifth-ingredient.json) |
 | Potion in Motion | 341559 | [341559-potion-in-motion.json](./341559-potion-in-motion.json) |
@@ -12950,6 +12953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pray Game | 167306 | [167306-pray-game.json](./167306-pray-game.json) |
 | Pray in VR Medieval Christian Churches | 155297 | [155297-pray-in-vr-medieval-christian-churches.json](./155297-pray-in-vr-medieval-christian-churches.json) |
 | Pray or Die: Tactical Defense | 373114 | [373114-pray-or-die-tactical-defense.json](./373114-pray-or-die-tactical-defense.json) |
+| Pray Your God! | 414739 | [414739-pray-your-god.json](./414739-pray-your-god.json) |
 | Prayer of the Faithless | 197012 | [197012-prayer-of-the-faithless.json](./197012-prayer-of-the-faithless.json) |
 | Prayers a Thousand-fold | 309976 | [309976-prayers-a-thousand-fold.json](./309976-prayers-a-thousand-fold.json) |
 | Prayr | 130044 | [130044-prayr.json](./130044-prayr.json) |
