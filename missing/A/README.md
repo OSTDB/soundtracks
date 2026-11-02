@@ -11502,6 +11502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Dig Dug | 212615 | [212615-arcade-archives-dig-dug.json](./212615-arcade-archives-dig-dug.json) |
 | Arcade Archives: Dig Dug II | 245714 | [245714-arcade-archives-dig-dug-ii.json](./245714-arcade-archives-dig-dug-ii.json) |
 | Arcade Archives: Dinorex | 276863 | [276863-arcade-archives-dinorex.json](./276863-arcade-archives-dinorex.json) |
+| Arcade Archives: Donkey Kong | 103362 | [103362-arcade-archives-donkey-kong.json](./103362-arcade-archives-donkey-kong.json) |
 | Arcade Archives: Donkey Kong 3 | 117018 | [117018-arcade-archives-donkey-kong-3.json](./117018-arcade-archives-donkey-kong-3.json) |
 | Arcade Archives: Donkey Kong Jr. | 113436 | [113436-arcade-archives-donkey-kong-jr.json](./113436-arcade-archives-donkey-kong-jr.json) |
 | Arcade Archives: Double Dragon | 82391 | [82391-arcade-archives-double-dragon.json](./82391-arcade-archives-double-dragon.json) |
