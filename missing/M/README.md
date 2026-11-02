@@ -5591,6 +5591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9020,6 +9021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Country | 116933 | [116933-metal-country.json](./116933-metal-country.json) |
 | Metal Crisis | 368579 | [368579-metal-crisis.json](./368579-metal-crisis.json) |
 | Metal Dead | 17433 | [17433-metal-dead.json](./17433-metal-dead.json) |
+| Metal Detecting Days | 414078 | [414078-metal-detecting-days.json](./414078-metal-detecting-days.json) |
 | Metal Detecting Simulator | 235768 | [235768-metal-detecting-simulator.json](./235768-metal-detecting-simulator.json) |
 | Metal Detector and 2nd Hundred | 267963 | [267963-metal-detector-and-2nd-hundred.json](./267963-metal-detector-and-2nd-hundred.json) |
 | Metal Detector Island | 409807 | [409807-metal-detector-island.json](./409807-metal-detector-island.json) |
@@ -12178,6 +12180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimalist Bundle | 164691 | [164691-minimalist-bundle.json](./164691-minimalist-bundle.json) |
 | Minimalist Farm Tycoon | 294098 | [294098-minimalist-farm-tycoon.json](./294098-minimalist-farm-tycoon.json) |
 | Minimalist Mastery | 362781 | [362781-minimalist-mastery.json](./362781-minimalist-mastery.json) |
+| Minimalist Rally 2D | 414041 | [414041-minimalist-rally-2d.json](./414041-minimalist-rally-2d.json) |
 | Minimalist Sudoku | 326295 | [326295-minimalist-sudoku.json](./326295-minimalist-sudoku.json) |
 | Minimalist Tower Defense | 270778 | [270778-minimalist-tower-defense.json](./270778-minimalist-tower-defense.json) |
 | Minimalist Tower Defense: The Last Tower | 303883 | [303883-minimalist-tower-defense-the-last-tower.json](./303883-minimalist-tower-defense-the-last-tower.json) |
@@ -12707,6 +12710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misguidead | 244586 | [244586-misguidead.json](./244586-misguidead.json) |
 | Misguided Remastered | 392322 | [392322-misguided-remastered.json](./392322-misguided-remastered.json) |
 | Misha | 371009 | [371009-misha.json](./371009-misha.json) |
+| Misha | 414031 | [414031-misha.json](./414031-misha.json) |
 | Mishap 2: An Intentional Haunting - Collector's Edition | 54238 | [54238-mishap-2-an-intentional-haunting-collectors-edition.json](./54238-mishap-2-an-intentional-haunting-collectors-edition.json) |
 | Mishap: An Accidental Haunting | 16162 | [16162-mishap-an-accidental-haunting.json](./16162-mishap-an-accidental-haunting.json) |
 | MiSide | 255777 | [255777-miside.json](./255777-miside.json) |
