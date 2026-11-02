@@ -4254,6 +4254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insomnia Jigsaw | 217172 | [217172-insomnia-jigsaw.json](./217172-insomnia-jigsaw.json) |
 | Insomnia: A Sleepless Journey | 294810 | [294810-insomnia-a-sleepless-journey.json](./294810-insomnia-a-sleepless-journey.json) |
 | Insomnia: Chapter One | 374258 | [374258-insomnia-chapter-one.json](./374258-insomnia-chapter-one.json) |
+| InSomnia: The Ark | 8364 | [8364-insomnia-the-ark.json](./8364-insomnia-the-ark.json) |
 | Insomnia: Theater in the Head | 216657 | [216657-insomnia-theater-in-the-head.json](./216657-insomnia-theater-in-the-head.json) |
 | Insomnia's Window | 237819 | [237819-insomnias-window.json](./237819-insomnias-window.json) |
 | Insomnious | 176144 | [176144-insomnious.json](./176144-insomnious.json) |
