@@ -3478,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Fables: Shadow Within | 165611 | [165611-endless-fables-shadow-within.json](./165611-endless-fables-shadow-within.json) |
 | Endless Fables: The Minotaur's Curse | 32003 | [32003-endless-fables-the-minotaurs-curse.json](./32003-endless-fables-the-minotaurs-curse.json) |
 | Endless Fighter | 107698 | [107698-endless-fighter.json](./107698-endless-fighter.json) |
+| Endless Fire | 425182 | [425182-endless-fire.json](./425182-endless-fire.json) |
 | Endless Firepower | 163460 | [163460-endless-firepower.json](./163460-endless-firepower.json) |
 | Endless Forest | 386683 | [386683-endless-forest.json](./386683-endless-forest.json) |
 | Endless Forms Most Beautiful | 129540 | [129540-endless-forms-most-beautiful.json](./129540-endless-forms-most-beautiful.json) |
@@ -6545,6 +6546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody Herds | 350425 | [350425-everybody-herds.json](./350425-everybody-herds.json) |
 | Everybody Loves Mothman | 419998 | [419998-everybody-loves-mothman.json](./419998-everybody-loves-mothman.json) |
 | Everybody Loves Skeletons | 121453 | [121453-everybody-loves-skeletons.json](./121453-everybody-loves-skeletons.json) |
+| Everybody Mahjong! | 425186 | [425186-everybody-mahjong.json](./425186-everybody-mahjong.json) |
 | Everybody Shogi | 355852 | [355852-everybody-shogi.json](./355852-everybody-shogi.json) |
 | Everybody Wants My Girl | 370744 | [370744-everybody-wants-my-girl.json](./370744-everybody-wants-my-girl.json) |
 | Everybody Wham Wham | 142923 | [142923-everybody-wham-wham.json](./142923-everybody-wham-wham.json) |
