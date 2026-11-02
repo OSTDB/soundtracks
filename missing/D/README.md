@@ -2598,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Andromeda | 28533 | [28533-dawn-of-andromeda.json](./28533-dawn-of-andromeda.json) |
 | Dawn of Andromeda: Subterfuge | 172120 | [172120-dawn-of-andromeda-subterfuge.json](./172120-dawn-of-andromeda-subterfuge.json) |
 | Dawn of Arba | 220007 | [220007-dawn-of-arba.json](./220007-dawn-of-arba.json) |
+| Dawn of China: Rise of Qin | 109372 | [109372-dawn-of-china-rise-of-qin.json](./109372-dawn-of-china-rise-of-qin.json) |
 | Dawn of Dark Blood | 229210 | [229210-dawn-of-dark-blood.json](./229210-dawn-of-dark-blood.json) |
 | Dawn of Darkness | 275204 | [275204-dawn-of-darkness.json](./275204-dawn-of-darkness.json) |
 | Dawn of Decay | 322616 | [322616-dawn-of-decay.json](./322616-dawn-of-decay.json) |
@@ -4398,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Tormention: The Complete Trilogy | 261287 | [261287-death-tormention-the-complete-trilogy.json](./261287-death-tormention-the-complete-trilogy.json) |
 | Death Tour | 242798 | [242798-death-tour.json](./242798-death-tour.json) |
 | Death Tractor | 35115 | [35115-death-tractor.json](./35115-death-tractor.json) |
+| Death Trader: Cold War | 109370 | [109370-death-trader-cold-war.json](./109370-death-trader-cold-war.json) |
 | Death Trading Card Game | 196879 | [196879-death-trading-card-game.json](./196879-death-trading-card-game.json) |
 | Death Train!!! Samara – Voronezh. | 362357 | [362357-death-train-samara-voronezh.json](./362357-death-train-samara-voronezh.json) |
 | Death Trap | 23205 | [23205-death-trap.json](./23205-death-trap.json) |
@@ -7661,6 +7663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devilish Stylist | 230318 | [230318-devilish-stylist.json](./230318-devilish-stylist.json) |
 | Devilish Trick | 232843 | [232843-devilish-trick.json](./232843-devilish-trick.json) |
 | Devilish Valentine | 232842 | [232842-devilish-valentine.json](./232842-devilish-valentine.json) |
+| Devilish: Ball Bounder | 122509 | [122509-devilish-ball-bounder.json](./122509-devilish-ball-bounder.json) |
 | Devilish: The Next Possession | 46222 | [46222-devilish-the-next-possession.json](./46222-devilish-the-next-possession.json) |
 | Devilition | 318597 | [318597-devilition.json](./318597-devilition.json) |
 | Devilman | 43896 | [43896-devilman.json](./43896-devilman.json) |
@@ -9329,6 +9332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Work | 412884 | [412884-dirty-work.json](./412884-dirty-work.json) |
 | Dirtyblock | 195374 | [195374-dirtyblock.json](./195374-dirtyblock.json) |
 | Dis Assemble | 183977 | [183977-dis-assemble.json](./183977-dis-assemble.json) |
+| Dis Pontibus | 113883 | [113883-dis-pontibus.json](./113883-dis-pontibus.json) |
 | Dis Pontibus 2 | 203950 | [203950-dis-pontibus-2.json](./203950-dis-pontibus-2.json) |
 | Dis: The Game | 115966 | [115966-dis-the-game.json](./115966-dis-the-game.json) |
 | Disappearance of the Literature Club | 333611 | [333611-disappearance-of-the-literature-club.json](./333611-disappearance-of-the-literature-club.json) |
@@ -9337,6 +9341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disarmed | 158866 | [158866-disarmed.json](./158866-disarmed.json) |
 | Disassembly 3D | 75660 | [75660-disassembly-3d.json](./75660-disassembly-3d.json) |
 | Disassembly Line | 77161 | [77161-disassembly-line.json](./77161-disassembly-line.json) |
+| Disassembly VR | 114256 | [114256-disassembly-vr.json](./114256-disassembly-vr.json) |
 | Disaster | 186809 | [186809-disaster.json](./186809-disaster.json) |
 | Disaster Area | 236283 | [236283-disaster-area.json](./236283-disaster-area.json) |
 | Disaster Arms: Impact Project B.A.H.N. | 331183 | [331183-disaster-arms-impact-project-b-a-h-n.json](./331183-disaster-arms-impact-project-b-a-h-n.json) |
@@ -13210,6 +13215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr GreenStuff | 75216 | [75216-dr-greenstuff.json](./75216-dr-greenstuff.json) |
 | Dr Iwan | 167598 | [167598-dr-iwan.json](./167598-dr-iwan.json) |
 | Dr Jugo | 404446 | [404446-dr-jugo.json](./404446-dr-jugo.json) |
+| Dr Kawashima's Brain Training for Nintendo Switch | 122705 | [122705-dr-kawashimas-brain-training-for-nintendo-switch.json](./122705-dr-kawashimas-brain-training-for-nintendo-switch.json) |
 | Dr Kawashima's Devilish Brain Training | 5680 | [5680-dr-kawashimas-devilish-brain-training.json](./5680-dr-kawashimas-devilish-brain-training.json) |
 | Dr Livesey Rom and Death Edition | 224897 | [224897-dr-livesey-rom-and-death-edition.json](./224897-dr-livesey-rom-and-death-edition.json) |
 | Dr Livingstone, I Presume? | 148338 | [148338-dr-livingstone-i-presume.json](./148338-dr-livingstone-i-presume.json) |
@@ -13467,6 +13473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draeggoria | 392271 | [392271-draeggoria.json](./392271-draeggoria.json) |
 | Draft | 133704 | [133704-draft.json](./133704-draft.json) |
 | Draft Day Sports: College Basketball 2018 | 89637 | [89637-draft-day-sports-college-basketball-2018.json](./89637-draft-day-sports-college-basketball-2018.json) |
+| Draft Day Sports: College Basketball 2019 | 114197 | [114197-draft-day-sports-college-basketball-2019.json](./114197-draft-day-sports-college-basketball-2019.json) |
 | Draft Day Sports: College Basketball 2020 | 131764 | [131764-draft-day-sports-college-basketball-2020.json](./131764-draft-day-sports-college-basketball-2020.json) |
 | Draft Day Sports: College Basketball 2022 | 191891 | [191891-draft-day-sports-college-basketball-2022.json](./191891-draft-day-sports-college-basketball-2022.json) |
 | Draft Day Sports: College Basketball 2023 | 240659 | [240659-draft-day-sports-college-basketball-2023.json](./240659-draft-day-sports-college-basketball-2023.json) |
@@ -15196,6 +15203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamly | 93706 | [93706-dreamly.json](./93706-dreamly.json) |
 | DreamMix TV World Fighters | 3899 | [3899-dreammix-tv-world-fighters.json](./3899-dreammix-tv-world-fighters.json) |
 | Dreamnest | 345651 | [345651-dreamnest.json](./345651-dreamnest.json) |
+| Dreamo | 122164 | [122164-dreamo.json](./122164-dreamo.json) |
 | Dreamo VR | 123494 | [123494-dreamo-vr.json](./123494-dreamo-vr.json) |
 | DreaMon World | 285885 | [285885-dreamon-world.json](./285885-dreamon-world.json) |
 | Dreamout | 217178 | [217178-dreamout.json](./217178-dreamout.json) |
