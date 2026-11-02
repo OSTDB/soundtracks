@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wald & Gutz: Under Rocks | 188447 | [188447-wald-and-gutz-under-rocks.json](./188447-wald-and-gutz-under-rocks.json) |
 | Wald-Guard | 413652 | [413652-wald-guard.json](./413652-wald-guard.json) |
 | Walden Horde | 159746 | [159746-walden-horde.json](./159746-walden-horde.json) |
+| Walden, a game | 103845 | [103845-walden-a-game.json](./103845-walden-a-game.json) |
 | Waldo: In the Heart of the City | 381285 | [381285-waldo-in-the-heart-of-the-city.json](./381285-waldo-in-the-heart-of-the-city.json) |
 | Waldorf's Journey | 318474 | [318474-waldorfs-journey.json](./318474-waldorfs-journey.json) |
 | Waldsterben | 271332 | [271332-waldsterben.json](./271332-waldsterben.json) |
@@ -4107,6 +4108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whip Swing! | 108909 | [108909-whip-swing.json](./108909-whip-swing.json) |
 | Whip the Vote | 37379 | [37379-whip-the-vote.json](./37379-whip-the-vote.json) |
 | Whip the Worker | 263466 | [263466-whip-the-worker.json](./263466-whip-the-worker.json) |
+| Whip! Whip! | 103366 | [103366-whip-whip.json](./103366-whip-whip.json) |
 | Whiplash | 411608 | [411608-whiplash.json](./411608-whiplash.json) |
 | Whiplash | 6233 | [6233-whiplash.json](./6233-whiplash.json) |
 | Whiplash | 95503 | [95503-whiplash.json](./95503-whiplash.json) |
@@ -7210,6 +7212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordHive 2 | 414441 | [414441-wordhive-2.json](./414441-wordhive-2.json) |
 | WordHopper | 256986 | [256986-wordhopper.json](./256986-wordhopper.json) |
 | WordHue | 212796 | [212796-wordhue.json](./212796-wordhue.json) |
+| Wordhunters | 103388 | [103388-wordhunters.json](./103388-wordhunters.json) |
 | Wordify | 147461 | [147461-wordify.json](./147461-wordify.json) |
 | Wordish | 187434 | [187434-wordish.json](./187434-wordish.json) |
 | Wordism | 239093 | [239093-wordism.json](./239093-wordism.json) |
@@ -8643,6 +8646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wunderdoktor | 74537 | [74537-wunderdoktor.json](./74537-wunderdoktor.json) |
 | Wunderhaven | 166763 | [166763-wunderhaven.json](./166763-wunderhaven.json) |
 | Wunderheilung | 128560 | [128560-wunderheilung.json](./128560-wunderheilung.json) |
+| Wunderling | 102807 | [102807-wunderling.json](./102807-wunderling.json) |
 | Wunderling DX | 219755 | [219755-wunderling-dx.json](./219755-wunderling-dx.json) |
 | Wünderpack | 360702 | [360702-wunderpack.json](./360702-wunderpack.json) |
 | Wunderverse | 106359 | [106359-wunderverse.json](./106359-wunderverse.json) |
