@@ -619,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damon and Baby: Deluxe Edition | 390527 | [390527-damon-and-baby-deluxe-edition.json](./390527-damon-and-baby-deluxe-edition.json) |
 | Dämonenburg | 91586 | [91586-damonenburg.json](./91586-damonenburg.json) |
 | Damoria | 196273 | [196273-damoria.json](./196273-damoria.json) |
+| Damp Southern Days | 405280 | [405280-damp-southern-days.json](./405280-damp-southern-days.json) |
 | Damper/Glooper | 319577 | [319577-damper-glooper.json](./319577-damper-glooper.json) |
 | Dampf: The Cozy Tower Defense | 275756 | [275756-dampf-the-cozy-tower-defense.json](./275756-dampf-the-cozy-tower-defense.json) |
 | Dampftraum | 201111 | [201111-dampftraum.json](./201111-dampftraum.json) |
@@ -2611,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn | 380240 | [380240-dawn.json](./380240-dawn.json) |
 | Dawn Apart | 231392 | [231392-dawn-apart.json](./231392-dawn-apart.json) |
 | Dawn Awakening | 174705 | [174705-dawn-awakening.json](./174705-dawn-awakening.json) |
+| Dawn Bell | 405255 | [405255-dawn-bell.json](./405255-dawn-bell.json) |
 | Dawn Break -Origin- | 117629 | [117629-dawn-break-origin.json](./117629-dawn-break-origin.json) |
 | Dawn Break: Night Witch | 294678 | [294678-dawn-break-night-witch.json](./294678-dawn-break-night-witch.json) |
 | Dawn Break: The Flaming Emperor | 95690 | [95690-dawn-break-the-flaming-emperor.json](./95690-dawn-break-the-flaming-emperor.json) |
@@ -3432,7 +3434,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island 2: Expansion Pass | 304449 | [304449-dead-island-2-expansion-pass.json](./304449-dead-island-2-expansion-pass.json) |
 | Dead Island 2: Gold Edition | 214472 | [214472-dead-island-2-gold-edition.json](./214472-dead-island-2-gold-edition.json) |
 | Dead Island 2: Golden Weapons Pack | 304459 | [304459-dead-island-2-golden-weapons-pack.json](./304459-dead-island-2-golden-weapons-pack.json) |
-| Dead Island 2: Haus | 272291 | [272291-dead-island-2-haus.json](./272291-dead-island-2-haus.json) |
 | Dead Island 2: Hell-a Edition | 214874 | [214874-dead-island-2-hell-a-edition.json](./214874-dead-island-2-hell-a-edition.json) |
 | Dead Island 2: Memories of Banoi Pack | 304460 | [304460-dead-island-2-memories-of-banoi-pack.json](./304460-dead-island-2-memories-of-banoi-pack.json) |
 | Dead Island 2: Neighborhood Watch | 316503 | [316503-dead-island-2-neighborhood-watch.json](./316503-dead-island-2-neighborhood-watch.json) |
@@ -6813,6 +6814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Spirit Grave | 253978 | [253978-desert-spirit-grave.json](./253978-desert-spirit-grave.json) |
 | Desert Storm | 270687 | [270687-desert-storm.json](./270687-desert-storm.json) |
 | Desert Storm | 287500 | [287500-desert-storm.json](./287500-desert-storm.json) |
+| Desert Storm | 405277 | [405277-desert-storm.json](./405277-desert-storm.json) |
 | Desert Storm Command Deluxe | 79539 | [79539-desert-storm-command-deluxe.json](./79539-desert-storm-command-deluxe.json) |
 | Desert Storm War FPS | 395768 | [395768-desert-storm-war-fps.json](./395768-desert-storm-war-fps.json) |
 | Desert Storm with Coalition Command | 122274 | [122274-desert-storm-with-coalition-command.json](./122274-desert-storm-with-coalition-command.json) |
@@ -7450,6 +7452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detention Club: School's Out | 167813 | [167813-detention-club-schools-out.json](./167813-detention-club-schools-out.json) |
 | Detention: Deluxe Edition | 52885 | [52885-detention-deluxe-edition.json](./52885-detention-deluxe-edition.json) |
 | Deteriation Game | 229744 | [229744-deteriation-game.json](./229744-deteriation-game.json) |
+| Deteriorate.1 | 405271 | [405271-deteriorate-1.json](./405271-deteriorate-1.json) |
 | Determinable Unstable | 132999 | [132999-determinable-unstable.json](./132999-determinable-unstable.json) |
 | Determinance | 21416 | [21416-determinance.json](./21416-determinance.json) |
 | Determinant | 169826 | [169826-determinant.json](./169826-determinant.json) |
@@ -13187,6 +13190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dousoukai wa Koi no Hajimari | 238407 | [238407-dousoukai-wa-koi-no-hajimari.json](./238407-dousoukai-wa-koi-no-hajimari.json) |
 | Douyara Builder wo Yatteiru Oshi no V ni ha Watashi no Comment ga Hitsuyou-rashii-ken | 264119 | [264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json](./264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json) |
 | Dovadula's Burn | 125020 | [125020-dovadulas-burn.json](./125020-dovadulas-burn.json) |
+| Dove | 405294 | [405294-dove.json](./405294-dove.json) |
 | Dove Days: Time Flies | 364262 | [364262-dove-days-time-flies.json](./364262-dove-days-time-flies.json) |
 | Dovetail Games Flight School | 24722 | [24722-dovetail-games-flight-school.json](./24722-dovetail-games-flight-school.json) |
 | Dovetail Games: Euro Fishing | 17666 | [17666-dovetail-games-euro-fishing.json](./17666-dovetail-games-euro-fishing.json) |
@@ -16428,6 +16432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck 'n' Cover | 75869 | [75869-duck-n-cover.json](./75869-duck-n-cover.json) |
 | Duck Adventure | 210646 | [210646-duck-adventure.json](./210646-duck-adventure.json) |
 | Duck Adventures | 310085 | [310085-duck-adventures.json](./310085-duck-adventures.json) |
+| Duck and Hover | 405307 | [405307-duck-and-hover.json](./405307-duck-and-hover.json) |
 | Duck and the Land of Flightless Birds | 189932 | [189932-duck-and-the-land-of-flightless-birds.json](./189932-duck-and-the-land-of-flightless-birds.json) |
 | Duck Attack | 180707 | [180707-duck-attack.json](./180707-duck-attack.json) |
 | Duck Attack! | 93457 | [93457-duck-attack.json](./93457-duck-attack.json) |
