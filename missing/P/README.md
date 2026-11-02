@@ -8659,6 +8659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Squirrel | 106743 | [106743-planet-squirrel.json](./106743-planet-squirrel.json) |
 | Planet Stronghold | 8982 | [8982-planet-stronghold.json](./8982-planet-stronghold.json) |
 | Planet Stronghold 2 | 103609 | [103609-planet-stronghold-2.json](./103609-planet-stronghold-2.json) |
+| Planet Stronghold: Colonial Defense | 19142 | [19142-planet-stronghold-colonial-defense.json](./19142-planet-stronghold-colonial-defense.json) |
 | Planet Suika | 277732 | [277732-planet-suika.json](./277732-planet-suika.json) |
 | Planet Surf | 295738 | [295738-planet-surf.json](./295738-planet-surf.json) |
 | Planet Surf: The Last Wave | 158672 | [158672-planet-surf-the-last-wave.json](./158672-planet-surf-the-last-wave.json) |
@@ -8792,6 +8793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planisphere 2 | 296197 | [296197-planisphere-2.json](./296197-planisphere-2.json) |
 | Planitis | 212290 | [212290-planitis.json](./212290-planitis.json) |
 | Plank | 391082 | [391082-plank.json](./391082-plank.json) |
+| Plank not included | 29311 | [29311-plank-not-included.json](./29311-plank-not-included.json) |
 | Plank Road | 202558 | [202558-plank-road.json](./202558-plank-road.json) |
 | Plank! | 105913 | [105913-plank.json](./105913-plank.json) |
 | Planks Wars | 404161 | [404161-planks-wars.json](./404161-planks-wars.json) |
@@ -16450,6 +16452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Truck | 411658 | [411658-puppy-truck.json](./411658-puppy-truck.json) |
 | Puppycraft: Maze | 341433 | [341433-puppycraft-maze.json](./341433-puppycraft-maze.json) |
 | Puppyman | 233181 | [233181-puppyman.json](./233181-puppyman.json) |
+| PuppyStory | 29215 | [29215-puppystory.json](./29215-puppystory.json) |
 | Pups & Purrs Animal Hospital | 165427 | [165427-pups-and-purrs-animal-hospital.json](./165427-pups-and-purrs-animal-hospital.json) |
 | Pups & Purrs Animal Hospital and Pups & Purrs Pet Shop Bundle | 308629 | [308629-pups-and-purrs-animal-hospital-and-pups-and-purrs-pet-shop-bundle.json](./308629-pups-and-purrs-animal-hospital-and-pups-and-purrs-pet-shop-bundle.json) |
 | Pups & Purrs Pet Shop | 145491 | [145491-pups-and-purrs-pet-shop.json](./145491-pups-and-purrs-pet-shop.json) |
