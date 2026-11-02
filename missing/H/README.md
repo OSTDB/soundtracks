@@ -8306,6 +8306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Overhaul | 317521 | [317521-hollow-overhaul.json](./317521-hollow-overhaul.json) |
 | Hollow Park | 203184 | [203184-hollow-park.json](./203184-hollow-park.json) |
 | Hollow Police Emblem: The Visual Novel | 308518 | [308518-hollow-police-emblem-the-visual-novel.json](./308518-hollow-police-emblem-the-visual-novel.json) |
+| Hollow Sector | 418419 | [418419-hollow-sector.json](./418419-hollow-sector.json) |
 | Hollow Seeker | 229009 | [229009-hollow-seeker.json](./229009-hollow-seeker.json) |
 | Hollow Sorrow | 355179 | [355179-hollow-sorrow.json](./355179-hollow-sorrow.json) |
 | Hollow Space | 323005 | [323005-hollow-space.json](./323005-hollow-space.json) |
@@ -8915,6 +8916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - Before Their Deaths | 358980 | [358980-honkai-star-rail-before-their-deaths.json](./358980-honkai-star-rail-before-their-deaths.json) |
 | Honkai: Star Rail - Celestial Eyes Above Mortal Ruins | 262114 | [262114-honkai-star-rail-celestial-eyes-above-mortal-ruins.json](./262114-honkai-star-rail-celestial-eyes-above-mortal-ruins.json) |
 | Honkai: Star Rail - Crown of the Mundane and Divine | 279644 | [279644-honkai-star-rail-crown-of-the-mundane-and-divine.json](./279644-honkai-star-rail-crown-of-the-mundane-and-divine.json) |
+| Honkai: Star Rail - Dance With the Beast Before Moonrise | 419798 | [419798-honkai-star-rail-dance-with-the-beast-before-moonrise.json](./419798-honkai-star-rail-dance-with-the-beast-before-moonrise.json) |
 | Honkai: Star Rail - Even Immortality Ends | 256760 | [256760-honkai-star-rail-even-immortality-ends.json](./256760-honkai-star-rail-even-immortality-ends.json) |
 | Honkai: Star Rail - Finest Duel Under the Pristine Blue | 308417 | [308417-honkai-star-rail-finest-duel-under-the-pristine-blue.json](./308417-honkai-star-rail-finest-duel-under-the-pristine-blue.json) |
 | Honkai: Star Rail - Flying Aureus Shot to Lupine Rue | 315162 | [315162-honkai-star-rail-flying-aureus-shot-to-lupine-rue.json](./315162-honkai-star-rail-flying-aureus-shot-to-lupine-rue.json) |
@@ -9684,6 +9686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostile Lands | 332920 | [332920-hostile-lands.json](./332920-hostile-lands.json) |
 | Hostile Makeover | 10416 | [10416-hostile-makeover.json](./10416-hostile-makeover.json) |
 | Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
+| Hostile Paths | 419770 | [419770-hostile-paths.json](./419770-hostile-paths.json) |
 | Hostile Space Revived | 97973 | [97973-hostile-space-revived.json](./97973-hostile-space-revived.json) |
 | Hostile Takeover | 143533 | [143533-hostile-takeover.json](./143533-hostile-takeover.json) |
 | Hostile Takeover | 182754 | [182754-hostile-takeover.json](./182754-hostile-takeover.json) |
