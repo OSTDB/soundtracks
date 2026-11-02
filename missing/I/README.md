@@ -2235,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imitators | 418754 | [418754-imitators.json](./418754-imitators.json) |
 | Imitosis | 292454 | [292454-imitosis.json](./292454-imitosis.json) |
 | IMM Defense | 86769 | [86769-imm-defense.json](./86769-imm-defense.json) |
+| Imma Potato | 414077 | [414077-imma-potato.json](./414077-imma-potato.json) |
 | Immanence | 128213 | [128213-immanence.json](./128213-immanence.json) |
 | Immay | 253922 | [253922-immay.json](./253922-immay.json) |
 | Immediate | 322356 | [322356-immediate.json](./322356-immediate.json) |
