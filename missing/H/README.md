@@ -9371,6 +9371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Alice: Gothic Run | 148341 | [148341-horny-alice-gothic-run.json](./148341-horny-alice-gothic-run.json) |
 | Horny Clinic | 226188 | [226188-horny-clinic.json](./226188-horny-clinic.json) |
 | Horny Dungeon | 272285 | [272285-horny-dungeon.json](./272285-horny-dungeon.json) |
+| Horny Elf | 411237 | [411237-horny-elf.json](./411237-horny-elf.json) |
 | Horny Elves and a Moral Orc | 221043 | [221043-horny-elves-and-a-moral-orc.json](./221043-horny-elves-and-a-moral-orc.json) |
 | Horny Fantasy Girl Hentai | 149407 | [149407-horny-fantasy-girl-hentai.json](./149407-horny-fantasy-girl-hentai.json) |
 | Horny Fighter | 105090 | [105090-horny-fighter.json](./105090-horny-fighter.json) |
@@ -10351,6 +10352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Spider Survival Simulator 3D | 103917 | [103917-house-spider-survival-simulator-3d.json](./103917-house-spider-survival-simulator-3d.json) |
 | House spirit cat | 279768 | [279768-house-spirit-cat.json](./279768-house-spirit-cat.json) |
 | House Tidy | 384178 | [384178-house-tidy.json](./384178-house-tidy.json) |
+| House Tidy 2 | 411274 | [411274-house-tidy-2.json](./411274-house-tidy-2.json) |
 | House Tycoon: Spin slot machine | 221347 | [221347-house-tycoon-spin-slot-machine.json](./221347-house-tycoon-spin-slot-machine.json) |
 | House with Puzzles | 274762 | [274762-house-with-puzzles.json](./274762-house-with-puzzles.json) |
 | House Zero | 421391 | [421391-house-zero.json](./421391-house-zero.json) |
