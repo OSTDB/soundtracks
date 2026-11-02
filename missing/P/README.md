@@ -3112,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawndemonium | 194412 | [194412-pawndemonium.json](./194412-pawndemonium.json) |
 | Pawnholm | 292302 | [292302-pawnholm.json](./292302-pawnholm.json) |
 | Pawnie: Focus Pals | 420961 | [420961-pawnie-focus-pals.json](./420961-pawnie-focus-pals.json) |
+| Pawns into the Dark | 420362 | [420362-pawns-into-the-dark.json](./420362-pawns-into-the-dark.json) |
 | Pawns of War | 341589 | [341589-pawns-of-war.json](./341589-pawns-of-war.json) |
 | Pawns Survival | 390002 | [390002-pawns-survival.json](./390002-pawns-survival.json) |
 | Pawnshop No. 17 | 386290 | [386290-pawnshop-no-17.json](./386290-pawnshop-no-17.json) |
@@ -12374,6 +12375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Party: Hash It Out | 144943 | [144943-potato-party-hash-it-out.json](./144943-potato-party-hash-it-out.json) |
 | Potato Party: The Potatomancer | 189063 | [189063-potato-party-the-potatomancer.json](./189063-potato-party-the-potatomancer.json) |
 | Potato Peeling | 354762 | [354762-potato-peeling.json](./354762-potato-peeling.json) |
+| Potato Please | 420360 | [420360-potato-please.json](./420360-potato-please.json) |
 | Potato Sack Racing Simulator 2024 | 274581 | [274581-potato-sack-racing-simulator-2024.json](./274581-potato-sack-racing-simulator-2024.json) |
 | Potato Salad | 290960 | [290960-potato-salad.json](./290960-potato-salad.json) |
 | Potato Simulato | 398387 | [398387-potato-simulato.json](./398387-potato-simulato.json) |
