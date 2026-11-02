@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G Fighter | 245150 | [245150-g-fighter.json](./245150-g-fighter.json) |
 | G for Gravity | 147038 | [147038-g-for-gravity.json](./147038-g-for-gravity.json) |
 | G Press | 394476 | [394476-g-press.json](./394476-g-press.json) |
+| G Prime | 15518 | [15518-g-prime.json](./15518-g-prime.json) |
 | G Prime into the Rain | 32201 | [32201-g-prime-into-the-rain.json](./32201-g-prime-into-the-rain.json) |
 | G Sides | 324399 | [324399-g-sides.json](./324399-g-sides.json) |
 | G Squad | 408577 | [408577-g-squad.json](./408577-g-squad.json) |
@@ -277,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachi Defense | 285923 | [285923-gachi-defense.json](./285923-gachi-defense.json) |
 | Gachi Dungeon Master | 157470 | [157470-gachi-dungeon-master.json](./157470-gachi-dungeon-master.json) |
 | Gachi Feasting | 311156 | [311156-gachi-feasting.json](./311156-gachi-feasting.json) |
+| Gachi Finder 3000 | 114269 | [114269-gachi-finder-3000.json](./114269-gachi-finder-3000.json) |
 | Gachi Gang | 100485 | [100485-gachi-gang.json](./100485-gachi-gang.json) |
 | Gachi Heroes | 110694 | [110694-gachi-heroes.json](./110694-gachi-heroes.json) |
 | Gachi Heroes 2: Flexboll | 127191 | [127191-gachi-heroes-2-flexboll.json](./127191-gachi-heroes-2-flexboll.json) |
@@ -2828,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius vs. Antichrist 1 | 201530 | [201530-genius-vs-antichrist-1.json](./201530-genius-vs-antichrist-1.json) |
 | Genius: Biology | 70769 | [70769-genius-biology.json](./70769-genius-biology.json) |
 | Genius: Im Zentrum der Macht | 86122 | [86122-genius-im-zentrum-der-macht.json](./86122-genius-im-zentrum-der-macht.json) |
+| Genius! Nazi-Girl GoePpels-Chan Ep1 | 114116 | [114116-genius-nazi-girl-goeppels-chan-ep1.json](./114116-genius-nazi-girl-goeppels-chan-ep1.json) |
 | Genius! Nazi-Girl GoePpels-Chan Ep2 | 118018 | [118018-genius-nazi-girl-goeppels-chan-ep2.json](./118018-genius-nazi-girl-goeppels-chan-ep2.json) |
 | Genix Family | 38654 | [38654-genix-family.json](./38654-genix-family.json) |
 | Genji Koi Emaki | 130010 | [130010-genji-koi-emaki.json](./130010-genji-koi-emaki.json) |
@@ -7913,6 +7916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitrix | 365770 | [365770-gravitrix.json](./365770-gravitrix.json) |
 | Gravitrix | 41175 | [41175-gravitrix.json](./41175-gravitrix.json) |
 | Gravitron | 69925 | [69925-gravitron.json](./69925-gravitron.json) |
+| Gravitron 2 | 15963 | [15963-gravitron-2.json](./15963-gravitron-2.json) |
 | Gravitron360 | 92060 | [92060-gravitron360.json](./92060-gravitron360.json) |
 | Gravitronix | 21035 | [21035-gravitronix.json](./21035-gravitronix.json) |
 | Gravitum | 187287 | [187287-gravitum.json](./187287-gravitum.json) |
@@ -9739,6 +9743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Crown | 208919 | [208919-guilty-crown.json](./208919-guilty-crown.json) |
 | Guilty Crown: Lost Christmas | 80569 | [80569-guilty-crown-lost-christmas.json](./80569-guilty-crown-lost-christmas.json) |
 | Guilty Gear 2: Overture | 7004 | [7004-guilty-gear-2-overture.json](./7004-guilty-gear-2-overture.json) |
+| Guilty Gear 20th Anniversary Pack | 114135 | [114135-guilty-gear-20th-anniversary-pack.json](./114135-guilty-gear-20th-anniversary-pack.json) |
 | Guilty Gear 20th Anniversary Pack: Day One Edition | 386270 | [386270-guilty-gear-20th-anniversary-pack-day-one-edition.json](./386270-guilty-gear-20th-anniversary-pack-day-one-edition.json) |
 | Guilty Gear Dust Strikers | 9149 | [9149-guilty-gear-dust-strikers.json](./9149-guilty-gear-dust-strikers.json) |
 | Guilty Gear Isuka | 5857 | [5857-guilty-gear-isuka.json](./5857-guilty-gear-isuka.json) |
