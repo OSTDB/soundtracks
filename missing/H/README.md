@@ -3407,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Fire: Afghanistan | 982 | [982-heavy-fire-afghanistan.json](./982-heavy-fire-afghanistan.json) |
 | Heavy Fire: Black Arms | 65497 | [65497-heavy-fire-black-arms.json](./65497-heavy-fire-black-arms.json) |
 | Heavy Fire: Black Arms 3D | 85628 | [85628-heavy-fire-black-arms-3d.json](./85628-heavy-fire-black-arms-3d.json) |
+| Heavy Fire: Red Shadow | 102863 | [102863-heavy-fire-red-shadow.json](./102863-heavy-fire-red-shadow.json) |
 | Heavy Fire: Shattered Spear | 10404 | [10404-heavy-fire-shattered-spear.json](./10404-heavy-fire-shattered-spear.json) |
 | Heavy Fire: Special Operations | 408862 | [408862-heavy-fire-special-operations.json](./408862-heavy-fire-special-operations.json) |
 | Heavy Fire: Special Operations 3D | 23589 | [23589-heavy-fire-special-operations-3d.json](./23589-heavy-fire-special-operations-3d.json) |
@@ -9150,6 +9151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoppe Chan: Punitto Shibotte Daibouken! | 222538 | [222538-hoppe-chan-punitto-shibotte-daibouken.json](./222538-hoppe-chan-punitto-shibotte-daibouken.json) |
 | Hoppe-chan Minna de Odekake! Waku-waku Hoppe Land!! | 222296 | [222296-hoppe-chan-minna-de-odekake-waku-waku-hoppe-land.json](./222296-hoppe-chan-minna-de-odekake-waku-waku-hoppe-land.json) |
 | Hoppe-chan: Tsukutte! Asonde! Puni-puni Town!! | 222339 | [222339-hoppe-chan-tsukutte-asonde-puni-puni-town.json](./222339-hoppe-chan-tsukutte-asonde-puni-puni-town.json) |
+| Hoppenhelm | 95130 | [95130-hoppenhelm.json](./95130-hoppenhelm.json) |
 | Hopper | 13726 | [13726-hopper.json](./13726-hopper.json) |
 | Hopper | 144374 | [144374-hopper.json](./144374-hopper.json) |
 | Hopper (bounce bounce bounce) | 98794 | [98794-hopper-bounce-bounce-bounce.json](./98794-hopper-bounce-bounce-bounce.json) |
@@ -11804,6 +11806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspace Colonization | 176616 | [176616-hyperspace-colonization.json](./176616-hyperspace-colonization.json) |
 | Hyperspace Deck Command | 287766 | [287766-hyperspace-deck-command.json](./287766-hyperspace-deck-command.json) |
 | Hyperspace Delivery Boy! | 69016 | [69016-hyperspace-delivery-boy.json](./69016-hyperspace-delivery-boy.json) |
+| Hyperspace Delivery Service | 103780 | [103780-hyperspace-delivery-service.json](./103780-hyperspace-delivery-service.json) |
 | Hyperspace Dogfights | 97931 | [97931-hyperspace-dogfights.json](./97931-hyperspace-dogfights.json) |
 | Hyperspace Harvest | 211010 | [211010-hyperspace-harvest.json](./211010-hyperspace-harvest.json) |
 | Hyperspace Hub Manager | 357264 | [357264-hyperspace-hub-manager.json](./357264-hyperspace-hub-manager.json) |
