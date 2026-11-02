@@ -2342,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Legends | 193359 | [193359-rayman-legends.json](./193359-rayman-legends.json) |
 | Rayman Legends Beatbox | 61350 | [61350-rayman-legends-beatbox.json](./61350-rayman-legends-beatbox.json) |
 | Rayman Legends Challenges App | 2925 | [2925-rayman-legends-challenges-app.json](./2925-rayman-legends-challenges-app.json) |
+| Rayman Legends Retold | 404044 | [404044-rayman-legends-retold.json](./404044-rayman-legends-retold.json) |
 | Rayman Legends: Definitive Edition | 27239 | [27239-rayman-legends-definitive-edition.json](./27239-rayman-legends-definitive-edition.json) |
 | Rayman Legends/Rayman Origins | 138688 | [138688-rayman-legends-rayman-origins.json](./138688-rayman-legends-rayman-origins.json) |
 | Rayman Lum'o'Grams | 330064 | [330064-rayman-lumograms.json](./330064-rayman-lumograms.json) |
@@ -5355,6 +5356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Village: VR Mode | 324804 | [324804-resident-evil-village-vr-mode.json](./324804-resident-evil-village-vr-mode.json) |
 | Resident Evil Village: Winters' Expansion | 204721 | [204721-resident-evil-village-winters-expansion.json](./204721-resident-evil-village-winters-expansion.json) |
 | Resident Evil Zero | 970 | [970-resident-evil-zero.json](./970-resident-evil-zero.json) |
+| Resident Evil: Barry's Mod | 404003 | [404003-resident-evil-barrys-mod.json](./404003-resident-evil-barrys-mod.json) |
 | Resident Evil: Chronicles HD Collection | 21068 | [21068-resident-evil-chronicles-hd-collection.json](./21068-resident-evil-chronicles-hd-collection.json) |
 | Resident Evil: Code - Madman | 387029 | [387029-resident-evil-code-madman.json](./387029-resident-evil-code-madman.json) |
 | Resident Evil: Cold Blood | 222311 | [222311-resident-evil-cold-blood.json](./222311-resident-evil-cold-blood.json) |
@@ -5403,6 +5405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Fear 3: Ascension | 365758 | [365758-resident-fear-3-ascension.json](./365758-resident-fear-3-ascension.json) |
 | Resident Fear: Redistribution | 264102 | [264102-resident-fear-redistribution.json](./264102-resident-fear-redistribution.json) |
 | Residential Crusaders | 285109 | [285109-residential-crusaders.json](./285109-residential-crusaders.json) |
+| Residential Evaluation | 404029 | [404029-residential-evaluation.json](./404029-residential-evaluation.json) |
 | Residentvania | 175773 | [175773-residentvania.json](./175773-residentvania.json) |
 | Residual Christmas | 379366 | [379366-residual-christmas.json](./379366-residual-christmas.json) |
 | Residual Wilds | 387049 | [387049-residual-wilds.json](./387049-residual-wilds.json) |
@@ -11908,6 +11911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeverse | 137597 | [137597-runeverse.json](./137597-runeverse.json) |
 | Runeverse: Sea Brawls | 165429 | [165429-runeverse-sea-brawls.json](./165429-runeverse-sea-brawls.json) |
 | Runewaker | 186803 | [186803-runewaker.json](./186803-runewaker.json) |
+| Runeward Online | 404033 | [404033-runeward-online.json](./404033-runeward-online.json) |
 | Runewatch: Age of Arcanum | 208464 | [208464-runewatch-age-of-arcanum.json](./208464-runewatch-age-of-arcanum.json) |
 | Runeyana | 32935 | [32935-runeyana.json](./32935-runeyana.json) |
 | Runflexio | 133144 | [133144-runflexio.json](./133144-runflexio.json) |
