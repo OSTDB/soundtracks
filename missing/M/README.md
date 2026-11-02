@@ -11894,6 +11894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Game Machine | 346761 | [346761-mini-game-machine.json](./346761-mini-game-machine.json) |
 | Mini Game Player | 248382 | [248382-mini-game-player.json](./248382-mini-game-player.json) |
 | Mini Games Retro 90s | 368975 | [368975-mini-games-retro-90s.json](./368975-mini-games-retro-90s.json) |
+| Mini Games: 30 in 1 - Unpacking Hyper-Casual Fun Challenges | 411261 | [411261-mini-games-30-in-1-unpacking-hyper-casual-fun-challenges.json](./411261-mini-games-30-in-1-unpacking-hyper-casual-fun-challenges.json) |
 | Mini Garden Cafe | 260153 | [260153-mini-garden-cafe.json](./260153-mini-garden-cafe.json) |
 | Mini Gardens | 195420 | [195420-mini-gardens.json](./195420-mini-gardens.json) |
 | Mini Ghost | 29623 | [29623-mini-ghost.json](./29623-mini-ghost.json) |
@@ -14198,6 +14199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money and Lady | 309421 | [309421-money-and-lady.json](./309421-money-and-lady.json) |
 | Money Bags: Beat the Gnome of Zurich | 68886 | [68886-money-bags-beat-the-gnome-of-zurich.json](./68886-money-bags-beat-the-gnome-of-zurich.json) |
 | Money Burner | 420525 | [420525-money-burner.json](./420525-money-burner.json) |
+| Money Cascade Challenge | 411244 | [411244-money-cascade-challenge.json](./411244-money-cascade-challenge.json) |
 | Money Factory Tycoon | 407272 | [407272-money-factory-tycoon.json](./407272-money-factory-tycoon.json) |
 | Money Farm | 298647 | [298647-money-farm.json](./298647-money-farm.json) |
 | Money Garden | 186269 | [186269-money-garden.json](./186269-money-garden.json) |
@@ -15118,6 +15120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Train: The Last Divinity | 148116 | [148116-monster-train-the-last-divinity.json](./148116-monster-train-the-last-divinity.json) |
 | Monster Trampoline | 113477 | [113477-monster-trampoline.json](./113477-monster-trampoline.json) |
 | Monster Traveler | 270058 | [270058-monster-traveler.json](./270058-monster-traveler.json) |
+| Monster Travels | 411230 | [411230-monster-travels.json](./411230-monster-travels.json) |
 | Monster Trek | 245194 | [245194-monster-trek.json](./245194-monster-trek.json) |
 | Monster Tribe | 149856 | [149856-monster-tribe.json](./149856-monster-tribe.json) |
 | Monster Trivia | 100119 | [100119-monster-trivia.json](./100119-monster-trivia.json) |
@@ -18798,6 +18801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Beloved Faction | 176205 | [176205-my-beloved-faction.json](./176205-my-beloved-faction.json) |
 | My Best Friend Anna | 95790 | [95790-my-best-friend-anna.json](./95790-my-best-friend-anna.json) |
 | My Best Friend Kouta | 245887 | [245887-my-best-friend-kouta.json](./245887-my-best-friend-kouta.json) |
+| My Best Friend's Sister | 411246 | [411246-my-best-friends-sister.json](./411246-my-best-friends-sister.json) |
 | My Best Friends: Cats & Dogs | 17043 | [17043-my-best-friends-cats-and-dogs.json](./17043-my-best-friends-cats-and-dogs.json) |
 | My Best Friends: St. Andrew Jogakuin Hen | 130629 | [130629-my-best-friends-st-andrew-jogakuin-hen.json](./130629-my-best-friends-st-andrew-jogakuin-hen.json) |
 | My Best Life My Pest Life | 393118 | [393118-my-best-life-my-pest-life.json](./393118-my-best-life-my-pest-life.json) |
@@ -19633,6 +19637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Peephole: Hotel Harborview | 372670 | [372670-my-peephole-hotel-harborview.json](./372670-my-peephole-hotel-harborview.json) |
 | My Perfect Hotel | 216047 | [216047-my-perfect-hotel.json](./216047-my-perfect-hotel.json) |
 | My Perfect Nails | 412237 | [412237-my-perfect-nails.json](./412237-my-perfect-nails.json) |
+| My Personal Alt Waifu | 411247 | [411247-my-personal-alt-waifu.json](./411247-my-personal-alt-waifu.json) |
 | My Personal Angel | 41872 | [41872-my-personal-angel.json](./41872-my-personal-angel.json) |
 | My Personal Golf Trainer | 41869 | [41869-my-personal-golf-trainer.json](./41869-my-personal-golf-trainer.json) |
 | My Personal Hater | 388229 | [388229-my-personal-hater.json](./388229-my-personal-hater.json) |
