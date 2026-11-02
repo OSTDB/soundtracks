@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jazz Smash | 260767 | [260767-jazz-smash.json](./260767-jazz-smash.json) |
 | Jazz Time | 181316 | [181316-jazz-time.json](./181316-jazz-time.json) |
 | Jazz: Trump's Journey | 61133 | [61133-jazz-trumps-journey.json](./61133-jazz-trumps-journey.json) |
+| Jazza's Arty Games | 88974 | [88974-jazzas-arty-games.json](./88974-jazzas-arty-games.json) |
 | Jazzpunk | 8114 | [8114-jazzpunk.json](./8114-jazzpunk.json) |
 | Jazzpunk: Director's Cut | 24415 | [24415-jazzpunk-directors-cut.json](./24415-jazzpunk-directors-cut.json) |
 | Jazzpunk: Flavour Nexus | 124832 | [124832-jazzpunk-flavour-nexus.json](./124832-jazzpunk-flavour-nexus.json) |
@@ -3236,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Helix Ball | 192055 | [192055-jumping-helix-ball.json](./192055-jumping-helix-ball.json) |
 | Jumping Henry | 340779 | [340779-jumping-henry.json](./340779-jumping-henry.json) |
 | Jumping Horses Champions | 104509 | [104509-jumping-horses-champions.json](./104509-jumping-horses-champions.json) |
+| Jumping Horses Champions 2 | 88998 | [88998-jumping-horses-champions-2.json](./88998-jumping-horses-champions-2.json) |
 | Jumping in the middle of the sky | 289775 | [289775-jumping-in-the-middle-of-the-sky.json](./289775-jumping-in-the-middle-of-the-sky.json) |
 | Jumping Jack | 14139 | [14139-jumping-jack.json](./14139-jumping-jack.json) |
 | Jumping Jack | 340780 | [340780-jumping-jack.json](./340780-jumping-jack.json) |
