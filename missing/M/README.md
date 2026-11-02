@@ -2062,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid-San's Caving Adventure | 65301 | [65301-maid-sans-caving-adventure.json](./65301-maid-sans-caving-adventure.json) |
 | Maiden | 142743 | [142743-maiden.json](./142743-maiden.json) |
 | Maiden | 344870 | [344870-maiden.json](./344870-maiden.json) |
+| Maiden & Spell | 104679 | [104679-maiden-and-spell.json](./104679-maiden-and-spell.json) |
 | Maiden and Swordsman | 129392 | [129392-maiden-and-swordsman.json](./129392-maiden-and-swordsman.json) |
 | Maiden City: The Last Collateral Damage | 90408 | [90408-maiden-city-the-last-collateral-damage.json](./90408-maiden-city-the-last-collateral-damage.json) |
 | Maiden Cops | 209681 | [209681-maiden-cops.json](./209681-maiden-cops.json) |
@@ -13144,6 +13145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MKL The Game | 331866 | [331866-mkl-the-game.json](./331866-mkl-the-game.json) |
 | MLB 06: The Show | 20525 | [20525-mlb-06-the-show.json](./20525-mlb-06-the-show.json) |
 | MLB 07: The Show | 7369 | [7369-mlb-07-the-show.json](./7369-mlb-07-the-show.json) |
+| MLB 08: The Show | 7370 | [7370-mlb-08-the-show.json](./7370-mlb-08-the-show.json) |
 | MLB 09: The Show | 7371 | [7371-mlb-09-the-show.json](./7371-mlb-09-the-show.json) |
 | MLB 10: The Show | 7372 | [7372-mlb-10-the-show.json](./7372-mlb-10-the-show.json) |
 | MLB 11: The Show | 7373 | [7373-mlb-11-the-show.json](./7373-mlb-11-the-show.json) |
