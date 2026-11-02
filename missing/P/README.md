@@ -935,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palm Town | 273257 | [273257-palm-town.json](./273257-palm-town.json) |
 | Palmi: Retold Tale | 190344 | [190344-palmi-retold-tale.json](./190344-palmi-retold-tale.json) |
 | Palmon: Survival | 369018 | [369018-palmon-survival.json](./369018-palmon-survival.json) |
+| Palmoni | 420959 | [420959-palmoni.json](./420959-palmoni.json) |
 | Palmora | 348679 | [348679-palmora.json](./348679-palmora.json) |
 | PalmRide: After Flight | 288754 | [288754-palmride-after-flight.json](./288754-palmride-after-flight.json) |
 | Palmyra Orphanage | 120719 | [120719-palmyra-orphanage.json](./120719-palmyra-orphanage.json) |
@@ -2726,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path | 227012 | [227012-path.json](./227012-path.json) |
 | Path Ball | 341590 | [341590-path-ball.json](./341590-path-ball.json) |
 | Path Builder | 318244 | [318244-path-builder.json](./318244-path-builder.json) |
+| Path Defenders | 420910 | [420910-path-defenders.json](./420910-path-defenders.json) |
 | Path of Achra | 222738 | [222738-path-of-achra.json](./222738-path-of-achra.json) |
 | Path of Adventure | 126174 | [126174-path-of-adventure.json](./126174-path-of-adventure.json) |
 | Path of Ambition: The Sun Rise | 295375 | [295375-path-of-ambition-the-sun-rise.json](./295375-path-of-ambition-the-sun-rise.json) |
@@ -3109,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawnchline | 292073 | [292073-pawnchline.json](./292073-pawnchline.json) |
 | Pawndemonium | 194412 | [194412-pawndemonium.json](./194412-pawndemonium.json) |
 | Pawnholm | 292302 | [292302-pawnholm.json](./292302-pawnholm.json) |
+| Pawnie: Focus Pals | 420961 | [420961-pawnie-focus-pals.json](./420961-pawnie-focus-pals.json) |
 | Pawns of War | 341589 | [341589-pawns-of-war.json](./341589-pawns-of-war.json) |
 | Pawns Survival | 390002 | [390002-pawns-survival.json](./390002-pawns-survival.json) |
 | Pawnshop No. 17 | 386290 | [386290-pawnshop-no-17.json](./386290-pawnshop-no-17.json) |
@@ -8224,6 +8227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixiel: Dreadwager | 277424 | [277424-pixiel-dreadwager.json](./277424-pixiel-dreadwager.json) |
 | Pixies 'n Crafts | 204218 | [204218-pixies-n-crafts.json](./204218-pixies-n-crafts.json) |
 | Pixiescape | 217389 | [217389-pixiescape.json](./217389-pixiescape.json) |
+| Pixlaria | 420942 | [420942-pixlaria.json](./420942-pixlaria.json) |
 | PixlCross | 58765 | [58765-pixlcross.json](./58765-pixlcross.json) |
 | Pixld | 64325 | [64325-pixld.json](./64325-pixld.json) |
 | Pixletters | 356582 | [356582-pixletters.json](./356582-pixletters.json) |
@@ -12894,6 +12898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pragmatics | 326068 | [326068-pragmatics.json](./326068-pragmatics.json) |
 | Prague Metro Simulator: Passenger Transport | 207813 | [207813-prague-metro-simulator-passenger-transport.json](./207813-prague-metro-simulator-passenger-transport.json) |
 | Prairie Dog Hunt | 319120 | [319120-prairie-dog-hunt.json](./319120-prairie-dog-hunt.json) |
+| Praise Be Evangeline | 420963 | [420963-praise-be-evangeline.json](./420963-praise-be-evangeline.json) |
 | Praise Champion | 209929 | [209929-praise-champion.json](./209929-praise-champion.json) |
 | Praise Dead | 261700 | [261700-praise-dead.json](./261700-praise-dead.json) |
 | Prajator: Image Ranger | 273281 | [273281-prajator-image-ranger.json](./273281-prajator-image-ranger.json) |
@@ -15071,6 +15076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project S-11 | 49831 | [49831-project-s-11.json](./49831-project-s-11.json) |
 | Project S.A.M | 270952 | [270952-project-s-a-m.json](./270952-project-s-a-m.json) |
 | Project Sail | 231367 | [231367-project-sail.json](./231367-project-sail.json) |
+| Project Sakura | 420925 | [420925-project-sakura.json](./420925-project-sakura.json) |
 | Project Sang | 176338 | [176338-project-sang.json](./176338-project-sang.json) |
 | Project Sara | 374591 | [374591-project-sara.json](./374591-project-sara.json) |
 | Project Save the Kiddins | 359006 | [359006-project-save-the-kiddins.json](./359006-project-save-the-kiddins.json) |
