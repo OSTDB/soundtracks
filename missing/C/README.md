@@ -9597,6 +9597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb the Tower | 157208 | [157208-climb-the-tower.json](./157208-climb-the-tower.json) |
 | Climb the Tower | 268185 | [268185-climb-the-tower.json](./268185-climb-the-tower.json) |
 | Climb Up the Down | 158498 | [158498-climb-up-the-down.json](./158498-climb-up-the-down.json) |
+| Climb With Wheelbarrow | 120724 | [120724-climb-with-wheelbarrow.json](./120724-climb-with-wheelbarrow.json) |
 | Climb-It | 13499 | [13499-climb-it.json](./13499-climb-it.json) |
 | Climb, Cube, Climb! | 414596 | [414596-climb-cube-climb.json](./414596-climb-cube-climb.json) |
 | Climb! | 118752 | [118752-climb.json](./118752-climb.json) |
