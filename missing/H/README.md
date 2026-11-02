@@ -2296,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hataraku Shoujo: Tekipaki Working Love FX | 281928 | [281928-hataraku-shoujo-tekipaki-working-love-fx.json](./281928-hataraku-shoujo-tekipaki-working-love-fx.json) |
 | Hatastrophe | 359914 | [359914-hatastrophe.json](./359914-hatastrophe.json) |
 | Hatate-chan no Joshi Ryoku Training! | 403040 | [403040-hatate-chan-no-joshi-ryoku-training.json](./403040-hatate-chan-no-joshi-ryoku-training.json) |
+| Hatch | 122383 | [122383-hatch.json](./122383-hatch.json) |
 | Hatch | 169258 | [169258-hatch.json](./169258-hatch.json) |
 | Hatch | 314491 | [314491-hatch.json](./314491-hatch.json) |
 | Hatch and Slay | 33884 | [33884-hatch-and-slay.json](./33884-hatch-and-slay.json) |
@@ -5458,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Online | 253782 | [253782-hero-online.json](./253782-hero-online.json) |
 | Hero or Foe | 173232 | [173232-hero-or-foe.json](./173232-hero-or-foe.json) |
 | Hero or Villain: Battle Royale | 156927 | [156927-hero-or-villain-battle-royale.json](./156927-hero-or-villain-battle-royale.json) |
+| Hero or Villain: Genesis | 122452 | [122452-hero-or-villain-genesis.json](./122452-hero-or-villain-genesis.json) |
 | Hero or Villain: Genesis - Supercharged! | 265354 | [265354-hero-or-villain-genesis-supercharged.json](./265354-hero-or-villain-genesis-supercharged.json) |
 | Hero Pack | 340466 | [340466-hero-pack.json](./340466-hero-pack.json) |
 | Hero Panda Bomber | 60794 | [60794-hero-panda-bomber.json](./60794-hero-panda-bomber.json) |
@@ -5915,6 +5917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Blocks Puzzle | 101754 | [101754-hex-blocks-puzzle.json](./101754-hex-blocks-puzzle.json) |
 | Hex Bots | 338313 | [338313-hex-bots.json](./338313-hex-bots.json) |
 | Hex Core | 404773 | [404773-hex-core.json](./404773-hex-core.json) |
+| Hex Defense - VR | 114079 | [114079-hex-defense-vr.json](./114079-hex-defense-vr.json) |
 | Hex Empire | 101917 | [101917-hex-empire.json](./101917-hex-empire.json) |
 | Hex For Hire | 182925 | [182925-hex-for-hire.json](./182925-hex-for-hire.json) |
 | Hex Gambit | 70704 | [70704-hex-gambit.json](./70704-hex-gambit.json) |
@@ -5969,6 +5972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexa Road | 353958 | [353958-hexa-road.json](./353958-hexa-road.json) |
 | Hexa Sort | 321646 | [321646-hexa-sort.json](./321646-hexa-sort.json) |
 | Hexa TD: Free Game | 340468 | [340468-hexa-td-free-game.json](./340468-hexa-td-free-game.json) |
+| Hexa Trains | 121985 | [121985-hexa-trains.json](./121985-hexa-trains.json) |
 | Hexa World 3D | 348193 | [348193-hexa-world-3d.json](./348193-hexa-world-3d.json) |
 | Hexa-6 Puzzle | 101675 | [101675-hexa-6-puzzle.json](./101675-hexa-6-puzzle.json) |
 | Hexa's Gone | 393499 | [393499-hexas-gone.json](./393499-hexas-gone.json) |
@@ -6858,6 +6862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Moo! | 414286 | [414286-hide-and-moo.json](./414286-hide-and-moo.json) |
 | Hide and Secret Treasure of the Ages | 32874 | [32874-hide-and-secret-treasure-of-the-ages.json](./32874-hide-and-secret-treasure-of-the-ages.json) |
 | Hide and Secret: Pharaoh's Quest | 88264 | [88264-hide-and-secret-pharaohs-quest.json](./88264-hide-and-secret-pharaohs-quest.json) |
+| Hide and Seek | 114212 | [114212-hide-and-seek.json](./114212-hide-and-seek.json) |
 | Hide and Seek | 131331 | [131331-hide-and-seek.json](./131331-hide-and-seek.json) |
 | Hide and Seek | 153153 | [153153-hide-and-seek.json](./153153-hide-and-seek.json) |
 | Hide and Seek | 234520 | [234520-hide-and-seek.json](./234520-hide-and-seek.json) |
@@ -9820,6 +9825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Springs Story 2 | 180274 | [180274-hot-springs-story-2.json](./180274-hot-springs-story-2.json) |
 | Hot Sprint Trip With A Married Woman | 97506 | [97506-hot-sprint-trip-with-a-married-woman.json](./97506-hot-sprint-trip-with-a-married-woman.json) |
 | Hot Squat | 30574 | [30574-hot-squat.json](./30574-hot-squat.json) |
+| Hot Squat 2: New Glory | 122377 | [122377-hot-squat-2-new-glory.json](./122377-hot-squat-2-new-glory.json) |
 | Hot Steam | 231300 | [231300-hot-steam.json](./231300-hot-steam.json) |
 | Hot Summer | 153063 | [153063-hot-summer.json](./153063-hot-summer.json) |
 | Hot Tentacles Shooter | 197528 | [197528-hot-tentacles-shooter.json](./197528-hot-tentacles-shooter.json) |
@@ -10008,6 +10014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Paraíso | 401868 | [401868-hotel-paraiso.json](./401868-hotel-paraiso.json) |
 | Hotel Paris | 160013 | [160013-hotel-paris.json](./160013-hotel-paris.json) |
 | Hotel Perkkow and the Two Vegetarian Werewolves | 294281 | [294281-hotel-perkkow-and-the-two-vegetarian-werewolves.json](./294281-hotel-perkkow-and-the-two-vegetarian-werewolves.json) |
+| Hotel R'n'R | 114322 | [114322-hotel-rnr.json](./114322-hotel-rnr.json) |
 | Hotel Remorse | 105648 | [105648-hotel-remorse.json](./105648-hotel-remorse.json) |
 | Hotel Renovation 2 | 155396 | [155396-hotel-renovation-2.json](./155396-hotel-renovation-2.json) |
 | Hotel Renovator | 128151 | [128151-hotel-renovator.json](./128151-hotel-renovator.json) |
