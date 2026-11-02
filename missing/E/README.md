@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eerie Worlds | 351704 | [351704-eerie-worlds.json](./351704-eerie-worlds.json) |
 | Eerskraft | 220058 | [220058-eerskraft.json](./220058-eerskraft.json) |
 | Eets Munchies | 15312 | [15312-eets-munchies.json](./15312-eets-munchies.json) |
+| Eets: Chowdown | 21946 | [21946-eets-chowdown.json](./21946-eets-chowdown.json) |
 | Eets: Hunger. It's emotional. | 28960 | [28960-eets-hunger-its-emotional.json](./28960-eets-hunger-its-emotional.json) |
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
 | Eexy Life: East End X Yuri | 252198 | [252198-eexy-life-east-end-x-yuri.json](./252198-eexy-life-east-end-x-yuri.json) |
@@ -7102,6 +7103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Existentia | 31805 | [31805-existentia.json](./31805-existentia.json) |
 | Existential | 193503 | [193503-existential.json](./193503-existential.json) |
 | Existential Dilogy | 199819 | [199819-existential-dilogy.json](./199819-existential-dilogy.json) |
+| Exit | 21938 | [21938-exit.json](./21938-exit.json) |
 | Exit 13 Gallery Escape | 291243 | [291243-exit-13-gallery-escape.json](./291243-exit-13-gallery-escape.json) |
 | Exit 19 | 184602 | [184602-exit-19.json](./184602-exit-19.json) |
 | Exit 2: Directions | 43146 | [43146-exit-2-directions.json](./43146-exit-2-directions.json) |
