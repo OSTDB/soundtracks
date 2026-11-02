@@ -5302,6 +5302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phos | 143971 | [143971-phos.json](./143971-phos.json) |
 | Phosphor | 267767 | [267767-phosphor.json](./267767-phosphor.json) |
 | Photo Clock | 84692 | [84692-photo-clock.json](./84692-photo-clock.json) |
+| Photo Dojo | 67245 | [67245-photo-dojo.json](./67245-photo-dojo.json) |
 | Photo Finish | 110533 | [110533-photo-finish.json](./110533-photo-finish.json) |
 | Photo Genic | 283709 | [283709-photo-genic.json](./283709-photo-genic.json) |
 | Photo Girls: First Session | 396435 | [396435-photo-girls-first-session.json](./396435-photo-girls-first-session.json) |
@@ -16431,6 +16432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PurgaStory | 185464 | [185464-purgastory.json](./185464-purgastory.json) |
 | Purgation | 55563 | [55563-purgation.json](./55563-purgation.json) |
 | Purgation Swordstorm | 413722 | [413722-purgation-swordstorm.json](./413722-purgation-swordstorm.json) |
+| Purgatory | 145183 | [145183-purgatory.json](./145183-purgatory.json) |
 | Purgatory | 268349 | [268349-purgatory.json](./268349-purgatory.json) |
 | Purgatory | 27773 | [27773-purgatory.json](./27773-purgatory.json) |
 | Purgatory | 325999 | [325999-purgatory.json](./325999-purgatory.json) |
