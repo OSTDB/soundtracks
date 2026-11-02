@@ -2017,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkiss: Chapter 1 - The Awakening | 59720 | [59720-darkiss-chapter-1-the-awakening.json](./59720-darkiss-chapter-1-the-awakening.json) |
 | Darkiss! Wrath of the Vampire Chapter 2: Journey to Hell | 57509 | [57509-darkiss-wrath-of-the-vampire-chapter-2-journey-to-hell.json](./57509-darkiss-wrath-of-the-vampire-chapter-2-journey-to-hell.json) |
 | Darkland | 134439 | [134439-darkland.json](./134439-darkland.json) |
+| Darklands | 2467 | [2467-darklands.json](./2467-darklands.json) |
 | Darklands | 278369 | [278369-darklands.json](./278369-darklands.json) |
 | Darklands: Awakening | 164520 | [164520-darklands-awakening.json](./164520-darklands-awakening.json) |
 | DarkLast | 86618 | [86618-darklast.json](./86618-darklast.json) |
@@ -5815,6 +5816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delveborn | 364046 | [364046-delveborn.json](./364046-delveborn.json) |
 | Delvedown | 184223 | [184223-delvedown.json](./184223-delvedown.json) |
 | Delven | 250357 | [250357-delven.json](./250357-delven.json) |
+| Delver | 3236 | [3236-delver.json](./3236-delver.json) |
 | Delver Quest | 384015 | [384015-delver-quest.json](./384015-delver-quest.json) |
 | Delver's Drop | 64697 | [64697-delvers-drop.json](./64697-delvers-drop.json) |
 | Delverium | 291342 | [291342-delverium.json](./291342-delverium.json) |
