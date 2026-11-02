@@ -4856,6 +4856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Jacks: Pro Edition | 96312 | [96312-wild-jacks-pro-edition.json](./96312-wild-jacks-pro-edition.json) |
 | Wild Jigsaw VR | 160149 | [160149-wild-jigsaw-vr.json](./160149-wild-jigsaw-vr.json) |
 | Wild Kratts Creature Mobile | 396719 | [396719-wild-kratts-creature-mobile.json](./396719-wild-kratts-creature-mobile.json) |
+| Wild Kratts Rescue Run | 88939 | [88939-wild-kratts-rescue-run.json](./88939-wild-kratts-rescue-run.json) |
 | Wild Legion | 243150 | [243150-wild-legion.json](./243150-wild-legion.json) |
 | Wild Leopard Safari | 255167 | [255167-wild-leopard-safari.json](./255167-wild-leopard-safari.json) |
 | Wild Life | 127894 | [127894-wild-life.json](./127894-wild-life.json) |
