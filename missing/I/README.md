@@ -3724,6 +3724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinitype | 195470 | [195470-infinitype.json](./195470-infinitype.json) |
 | Infinium | 311192 | [311192-infinium.json](./311192-infinium.json) |
 | Infinium | 314700 | [314700-infinium.json](./314700-infinium.json) |
+| Infinium Strike | 22442 | [22442-infinium-strike.json](./22442-infinium-strike.json) |
 | Infinium Strike: Broken Overlord | 171454 | [171454-infinium-strike-broken-overlord.json](./171454-infinium-strike-broken-overlord.json) |
 | InfiniVirus | 381344 | [381344-infinivirus.json](./381344-infinivirus.json) |
 | Infiniwar | 312750 | [312750-infiniwar.json](./312750-infiniwar.json) |
@@ -5983,10 +5984,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ispitatel 4: Classic | 333869 | [333869-ispitatel-4-classic.json](./333869-ispitatel-4-classic.json) |
 | iSpot Japan | 85197 | [85197-ispot-japan.json](./85197-ispot-japan.json) |
 | Israel vs. Iran: Iron Dome | 377080 | [377080-israel-vs-iran-iron-dome.json](./377080-israel-vs-iran-iron-dome.json) |
+| ISS Advance | 22224 | [22224-iss-advance.json](./22224-iss-advance.json) |
 | ISS Pro Evolution | 28403 | [28403-iss-pro-evolution.json](./28403-iss-pro-evolution.json) |
 | ISS Simulator | 326411 | [326411-iss-simulator.json](./326411-iss-simulator.json) |
 | ISS: International Superstar Soccer | 136303 | [136303-iss-international-superstar-soccer.json](./136303-iss-international-superstar-soccer.json) |
 | ISS: International Superstar Soccer | 220859 | [220859-iss-international-superstar-soccer.json](./220859-iss-international-superstar-soccer.json) |
+| Iss3 | 22232 | [22232-iss3.json](./22232-iss3.json) |
 | Issho ni Asobo Koupen-chan | 133715 | [133715-issho-ni-asobo-koupen-chan.json](./133715-issho-ni-asobo-koupen-chan.json) |
 | Issho ni Asobo Koupen-chan | 144685 | [144685-issho-ni-asobo-koupen-chan.json](./144685-issho-ni-asobo-koupen-chan.json) |
 | Issho ni Gohan Portable | 64161 | [64161-issho-ni-gohan-portable.json](./64161-issho-ni-gohan-portable.json) |
