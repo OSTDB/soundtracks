@@ -3521,6 +3521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juno | 150416 | [150416-juno.json](./150416-juno.json) |
 | Juno 06 | 217148 | [217148-juno-06.json](./217148-juno-06.json) |
 | Juno and Hope Destroy Capitalism | 407357 | [407357-juno-and-hope-destroy-capitalism.json](./407357-juno-and-hope-destroy-capitalism.json) |
+| Juno First | 24062 | [24062-juno-first.json](./24062-juno-first.json) |
 | Juno Markev | 112235 | [112235-juno-markev.json](./112235-juno-markev.json) |
 | Juno Nemesis Remix | 73279 | [73279-juno-nemesis-remix.json](./73279-juno-nemesis-remix.json) |
 | Juno: New Origins | 102982 | [102982-juno-new-origins.json](./102982-juno-new-origins.json) |
