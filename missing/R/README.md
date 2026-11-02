@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radirgy | 4077 | [4077-radirgy.json](./4077-radirgy.json) |
 | Radirgy 2 | 254477 | [254477-radirgy-2.json](./254477-radirgy-2.json) |
 | Radirgy De Gojaru! | 222407 | [222407-radirgy-de-gojaru.json](./222407-radirgy-de-gojaru.json) |
+| Radirgy GeneriC | 122499 | [122499-radirgy-generic.json](./122499-radirgy-generic.json) |
 | Radirgy Noa | 254475 | [254475-radirgy-noa.json](./254475-radirgy-noa.json) |
 | Radirgy Noa Massive | 7152 | [7152-radirgy-noa-massive.json](./7152-radirgy-noa-massive.json) |
 | Radirgy Noa Wii | 254476 | [254476-radirgy-noa-wii.json](./254476-radirgy-noa-wii.json) |
@@ -5571,6 +5572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReThink \| Evolved 3 | 118007 | [118007-rethink-evolved-3.json](./118007-rethink-evolved-3.json) |
 | ReThink \| Evolved 4 | 132592 | [132592-rethink-evolved-4.json](./132592-rethink-evolved-4.json) |
 | ReThink \| Evolved 5 | 244849 | [244849-rethink-evolved-5.json](./244849-rethink-evolved-5.json) |
+| ReThink 2 | 109380 | [109380-rethink-2.json](./109380-rethink-2.json) |
 | ReThink 3 | 194858 | [194858-rethink-3.json](./194858-rethink-3.json) |
 | ReThink 3.5 | 289802 | [289802-rethink-3-5.json](./289802-rethink-3-5.json) |
 | ReThink 4 | 148457 | [148457-rethink-4.json](./148457-rethink-4.json) |
@@ -5753,6 +5755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Unicorn Attack | 372501 | [372501-retro-unicorn-attack.json](./372501-retro-unicorn-attack.json) |
 | Retro Vaders: Reloaded | 133725 | [133725-retro-vaders-reloaded.json](./133725-retro-vaders-reloaded.json) |
 | Retro Vaders: Reloaded - Classified Projects | 171629 | [171629-retro-vaders-reloaded-classified-projects.json](./171629-retro-vaders-reloaded-classified-projects.json) |
+| Retro Vision | 114312 | [114312-retro-vision.json](./114312-retro-vision.json) |
 | Retro War | 172313 | [172313-retro-war.json](./172313-retro-war.json) |
 | Retro Wars | 156092 | [156092-retro-wars.json](./156092-retro-wars.json) |
 | Retro Wars: Episodio IV 1/4 | 341538 | [341538-retro-wars-episodio-iv-1-4.json](./341538-retro-wars-episodio-iv-1-4.json) |
@@ -8005,6 +8008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Vegas | 123402 | [123402-road-to-vegas.json](./123402-road-to-vegas.json) |
 | Road to Vostok | 217304 | [217304-road-to-vostok.json](./217304-road-to-vostok.json) |
 | Road to Wealth | 348873 | [348873-road-to-wealth.json](./348873-road-to-wealth.json) |
+| Road to Your City | 114041 | [114041-road-to-your-city.json](./114041-road-to-your-city.json) |
 | Road to Yvhalon | 392068 | [392068-road-to-yvhalon.json](./392068-road-to-yvhalon.json) |
 | Road Toad | 290485 | [290485-road-toad.json](./290485-road-toad.json) |
 | Road Toads | 333135 | [333135-road-toads.json](./333135-road-toads.json) |
@@ -11212,6 +11216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby Challenge | 3009 | [3009-rugby-challenge.json](./3009-rugby-challenge.json) |
 | Rugby Challenge 3 | 17275 | [17275-rugby-challenge-3.json](./17275-rugby-challenge-3.json) |
 | Rugby Challenge 3: Jonah Lomu Edition | 82433 | [82433-rugby-challenge-3-jonah-lomu-edition.json](./82433-rugby-challenge-3-jonah-lomu-edition.json) |
+| Rugby Champions | 122076 | [122076-rugby-champions.json](./122076-rugby-champions.json) |
 | Rugby Golf | 410662 | [410662-rugby-golf.json](./410662-rugby-golf.json) |
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
 | Rugby Leage Live 2: Game of the Year Edition | 323373 | [323373-rugby-leage-live-2-game-of-the-year-edition.json](./323373-rugby-leage-live-2-game-of-the-year-edition.json) |
@@ -11390,6 +11395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rules of Gravity | 158586 | [158586-rules-of-gravity.json](./158586-rules-of-gravity.json) |
 | Rules of Nature | 348812 | [348812-rules-of-nature.json](./348812-rules-of-nature.json) |
 | Rules of the Game | 94237 | [94237-rules-of-the-game.json](./94237-rules-of-the-game.json) |
+| Rules of The Mafia: Trade & Blood | 113856 | [113856-rules-of-the-mafia-trade-and-blood.json](./113856-rules-of-the-mafia-trade-and-blood.json) |
 | Rules of War | 320048 | [320048-rules-of-war.json](./320048-rules-of-war.json) |
 | Rules: Motel Horizon | 392128 | [392128-rules-motel-horizon.json](./392128-rules-motel-horizon.json) |
 | Rules! | 80537 | [80537-rules.json](./80537-rules.json) |
@@ -11542,6 +11548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Jump Fail | 97029 | [97029-run-jump-fail.json](./97029-run-jump-fail.json) |
 | Run Jump Rabbit Turtle | 117789 | [117789-run-jump-rabbit-turtle.json](./117789-run-jump-rabbit-turtle.json) |
 | Run Kelvin: Penguin Escape | 257797 | [257797-run-kelvin-penguin-escape.json](./257797-run-kelvin-penguin-escape.json) |
+| Run Kitty Run | 122445 | [122445-run-kitty-run.json](./122445-run-kitty-run.json) |
 | Run Legends | 250438 | [250438-run-legends.json](./250438-run-legends.json) |
 | Run Like Hell! | 61642 | [61642-run-like-hell.json](./61642-run-like-hell.json) |
 | Run Like Hell! Treasure Bundle | 118155 | [118155-run-like-hell-treasure-bundle.json](./118155-run-like-hell-treasure-bundle.json) |
