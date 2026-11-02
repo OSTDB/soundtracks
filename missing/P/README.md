@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperama | 83225 | [83225-paperama.json](./83225-paperama.json) |
 | Paperback Adventures | 220621 | [220621-paperback-adventures.json](./220621-paperback-adventures.json) |
 | Paperback Vol. 2 | 207271 | [207271-paperback-vol-2.json](./207271-paperback-vol-2.json) |
+| Paperback: The Game | 75826 | [75826-paperback-the-game.json](./75826-paperback-the-game.json) |
 | Paperball | 128202 | [128202-paperball.json](./128202-paperball.json) |
 | Paperball: Cherry Sky Pack | 227155 | [227155-paperball-cherry-sky-pack.json](./227155-paperball-cherry-sky-pack.json) |
 | Paperball: Deep Sea Pack | 166423 | [166423-paperball-deep-sea-pack.json](./166423-paperball-deep-sea-pack.json) |
@@ -8445,6 +8446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planck | 92468 | [92468-planck.json](./92468-planck.json) |
 | Planckman | 359025 | [359025-planckman.json](./359025-planckman.json) |
 | Plandzz | 51737 | [51737-plandzz.json](./51737-plandzz.json) |
+| Plandzz 2 | 75716 | [75716-plandzz-2.json](./75716-plandzz-2.json) |
 | Plane Accident | 204813 | [204813-plane-accident.json](./204813-plane-accident.json) |
 | Plane and Simple | 143108 | [143108-plane-and-simple.json](./143108-plane-and-simple.json) |
 | Plane Attack | 204155 | [204155-plane-attack.json](./204155-plane-attack.json) |
@@ -14609,6 +14611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Bubblegum | 290607 | [290607-project-bubblegum.json](./290607-project-bubblegum.json) |
 | Project Bullet | 151510 | [151510-project-bullet.json](./151510-project-bullet.json) |
 | Project Butterfly | 327793 | [327793-project-butterfly.json](./327793-project-butterfly.json) |
+| Project Cabin | 75920 | [75920-project-cabin.json](./75920-project-cabin.json) |
 | Project Cairo | 297475 | [297475-project-cairo.json](./297475-project-cairo.json) |
 | Project Canopy | 144090 | [144090-project-canopy.json](./144090-project-canopy.json) |
 | Project Canvas: Isekai Joucho Ikusei Keikaku | 294787 | [294787-project-canvas-isekai-joucho-ikusei-keikaku.json](./294787-project-canvas-isekai-joucho-ikusei-keikaku.json) |
@@ -17255,6 +17258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Strike | 34863 | [34863-puzzle-strike.json](./34863-puzzle-strike.json) |
 | Puzzle Sudoku | 304171 | [304171-puzzle-sudoku.json](./304171-puzzle-sudoku.json) |
 | Puzzle Summit: Solve & Rise | 341429 | [341429-puzzle-summit-solve-and-rise.json](./341429-puzzle-summit-solve-and-rise.json) |
+| Puzzle Tactics | 75773 | [75773-puzzle-tactics.json](./75773-puzzle-tactics.json) |
 | Puzzle Tales: Arcane Voyager | 358451 | [358451-puzzle-tales-arcane-voyager.json](./358451-puzzle-tales-arcane-voyager.json) |
 | Puzzle Temptation: Anime Reveal | 357764 | [357764-puzzle-temptation-anime-reveal.json](./357764-puzzle-temptation-anime-reveal.json) |
 | Puzzle Time | 209369 | [209369-puzzle-time.json](./209369-puzzle-time.json) |
