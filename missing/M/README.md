@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Manuel | 103389 | [103389-mad-manuel.json](./103389-mad-manuel.json) |
 | Mad Martha | 45367 | [45367-mad-martha.json](./45367-mad-martha.json) |
 | Mad Martha 2 | 45366 | [45366-mad-martha-2.json](./45366-mad-martha-2.json) |
+| Mad Marvin's Great Escape | 419115 | [419115-mad-marvins-great-escape.json](./419115-mad-marvins-great-escape.json) |
 | Mad Max | 3034 | [3034-mad-max.json](./3034-mad-max.json) |
 | Mad Max: Ripper Special Edition | 89930 | [89930-mad-max-ripper-special-edition.json](./89930-mad-max-ripper-special-edition.json) |
 | Mad Maze | 72969 | [72969-mad-maze.json](./72969-mad-maze.json) |
@@ -2530,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maleficent Free Fall | 61680 | [61680-maleficent-free-fall.json](./61680-maleficent-free-fall.json) |
 | Maleficia: Nekomimi's Field | 268839 | [268839-maleficia-nekomimis-field.json](./268839-maleficia-nekomimis-field.json) |
 | Malek | 226710 | [226710-malek.json](./226710-malek.json) |
+| Maleri | 419777 | [419777-maleri.json](./419777-maleri.json) |
 | Malevilent | 366737 | [366737-malevilent.json](./366737-malevilent.json) |
 | Malevolence | 115635 | [115635-malevolence.json](./115635-malevolence.json) |
 | Malevolence | 269457 | [269457-malevolence.json](./269457-malevolence.json) |
@@ -2961,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manifold Garden | 13621 | [13621-manifold-garden.json](./13621-manifold-garden.json) |
 | Manika | 290528 | [290528-manika.json](./290528-manika.json) |
 | Manikineko Online | 392458 | [392458-manikineko-online.json](./392458-manikineko-online.json) |
+| Manilla in Pocket Wonder | 419779 | [419779-manilla-in-pocket-wonder.json](./419779-manilla-in-pocket-wonder.json) |
 | Manipulate: Sacrifice | 150968 | [150968-manipulate-sacrifice.json](./150968-manipulate-sacrifice.json) |
 | Manipulated | 28109 | [28109-manipulated.json](./28109-manipulated.json) |
 | Manipulation | 380600 | [380600-manipulation.json](./380600-manipulation.json) |
@@ -5139,6 +5142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matches Puzzle 2: Classic Logic Arcade | 287175 | [287175-matches-puzzle-2-classic-logic-arcade.json](./287175-matches-puzzle-2-classic-logic-arcade.json) |
 | Matches Puzzle Game | 117754 | [117754-matches-puzzle-game.json](./117754-matches-puzzle-game.json) |
 | Matches Puzzle: Classic Logic Arcade | 247484 | [247484-matches-puzzle-classic-logic-arcade.json](./247484-matches-puzzle-classic-logic-arcade.json) |
+| Matchi Rider | 419791 | [419791-matchi-rider.json](./419791-matchi-rider.json) |
 | Matching | 106573 | [106573-matching.json](./106573-matching.json) |
 | Matching App de Shiriatta Otoko wo Shinyou shite ha Ikemasen. | 341026 | [341026-matching-app-de-shiriatta-otoko-wo-shinyou-shite-ha-ikemasen.json](./341026-matching-app-de-shiriatta-otoko-wo-shinyou-shite-ha-ikemasen.json) |
 | Matching Blocks | 288362 | [288362-matching-blocks.json](./288362-matching-blocks.json) |
@@ -5419,6 +5423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mattyflexx’s Pokeslots | 390708 | [390708-mattyflexx-s-pokeslots.json](./390708-mattyflexx-s-pokeslots.json) |
 | Mature Comedy Visual Novel | 265330 | [265330-mature-comedy-visual-novel.json](./265330-mature-comedy-visual-novel.json) |
 | matuslab.net's Hangman | 91254 | [91254-matuslab-nets-hangman.json](./91254-matuslab-nets-hangman.json) |
+| Matzerath's Classic Flash Games | 419780 | [419780-matzeraths-classic-flash-games.json](./419780-matzeraths-classic-flash-games.json) |
 | Mau Mau | 61994 | [61994-mau-mau.json](./61994-mau-mau.json) |
 | Maudelyn's Quest | 186189 | [186189-maudelyns-quest.json](./186189-maudelyns-quest.json) |
 | Maui Mallard in Cold Shadow | 8448 | [8448-maui-mallard-in-cold-shadow.json](./8448-maui-mallard-in-cold-shadow.json) |
@@ -9625,6 +9630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meyni | 299128 | [299128-meyni.json](./299128-meyni.json) |
 | Meyouw | 334944 | [334944-meyouw.json](./334944-meyouw.json) |
 | Meyow | 388151 | [388151-meyow.json](./388151-meyow.json) |
+| Mezanine | 418420 | [418420-mezanine.json](./418420-mezanine.json) |
 | Mezase Pachi Pro: Pachio-kun | 48776 | [48776-mezase-pachi-pro-pachio-kun.json](./48776-mezase-pachi-pro-pachio-kun.json) |
 | Mezase! Kanji Ou | 43962 | [43962-mezase-kanji-ou.json](./43962-mezase-kanji-ou.json) |
 | Mezase! Koushien | 49688 | [49688-mezase-koushien.json](./49688-mezase-koushien.json) |
@@ -10349,6 +10355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight at the Red Light : An Investigation | 82601 | [82601-midnight-at-the-red-light-an-investigation.json](./82601-midnight-at-the-red-light-an-investigation.json) |
 | Midnight Awake | 104153 | [104153-midnight-awake.json](./104153-midnight-awake.json) |
 | Midnight Bike | 158146 | [158146-midnight-bike.json](./158146-midnight-bike.json) |
+| Midnight Bite | 419119 | [419119-midnight-bite.json](./419119-midnight-bite.json) |
 | Midnight Blanc | 277169 | [277169-midnight-blanc.json](./277169-midnight-blanc.json) |
 | Midnight Blood Rush | 267272 | [267272-midnight-blood-rush.json](./267272-midnight-blood-rush.json) |
 | Midnight Blues | 173305 | [173305-midnight-blues.json](./173305-midnight-blues.json) |
@@ -10480,6 +10487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Rhapsody | 224967 | [224967-midnight-rhapsody.json](./224967-midnight-rhapsody.json) |
 | Midnight Riff | 350888 | [350888-midnight-riff.json](./350888-midnight-riff.json) |
 | Midnight Road Warriors | 209513 | [209513-midnight-road-warriors.json](./209513-midnight-road-warriors.json) |
+| Midnight Rogues | 419760 | [419760-midnight-rogues.json](./419760-midnight-rogues.json) |
 | Midnight Runner: Blade Galaxy Beat Puzzle Legacy 3D Games Ultimate Edition | 231258 | [231258-midnight-runner-blade-galaxy-beat-puzzle-legacy-3d-games-ultimate-edition.json](./231258-midnight-runner-blade-galaxy-beat-puzzle-legacy-3d-games-ultimate-edition.json) |
 | Midnight Rush | 187658 | [187658-midnight-rush.json](./187658-midnight-rush.json) |
 | Midnight Saga: The Monster | 212974 | [212974-midnight-saga-the-monster.json](./212974-midnight-saga-the-monster.json) |
@@ -11696,6 +11704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Problem | 180117 | [180117-miner-problem.json](./180117-miner-problem.json) |
 | Miner Rogue | 290391 | [290391-miner-rogue.json](./290391-miner-rogue.json) |
 | Miner Rush | 201799 | [201799-miner-rush.json](./201799-miner-rush.json) |
+| Miner Shop Simulator | 418394 | [418394-miner-shop-simulator.json](./418394-miner-shop-simulator.json) |
 | Miner to Die | 378249 | [378249-miner-to-die.json](./378249-miner-to-die.json) |
 | Miner Tower Defense | 304439 | [304439-miner-tower-defense.json](./304439-miner-tower-defense.json) |
 | Miner Ultra Adventures 2 | 187297 | [187297-miner-ultra-adventures-2.json](./187297-miner-ultra-adventures-2.json) |
@@ -16220,6 +16229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortality... Please | 417597 | [417597-mortality-please.json](./417597-mortality-please.json) |
 | Mortals and Monsters: Blood Orc | 191049 | [191049-mortals-and-monsters-blood-orc.json](./191049-mortals-and-monsters-blood-orc.json) |
 | Mortalus: The Quest for Immortality | 145423 | [145423-mortalus-the-quest-for-immortality.json](./145423-mortalus-the-quest-for-immortality.json) |
+| Mortan | 419784 | [419784-mortan.json](./419784-mortan.json) |
 | Mortanis Prisoners | 244846 | [244846-mortanis-prisoners.json](./244846-mortanis-prisoners.json) |
 | Mortanum | 403658 | [403658-mortanum.json](./403658-mortanum.json) |
 | Mortar | 184402 | [184402-mortar.json](./184402-mortar.json) |
@@ -16993,6 +17003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movafort | 212190 | [212190-movafort.json](./212190-movafort.json) |
 | Move 'n' Bloom | 158361 | [158361-move-n-bloom.json](./158361-move-n-bloom.json) |
 | Move 78 | 157207 | [157207-move-78.json](./157207-move-78.json) |
+| Move and Die | 418402 | [418402-move-and-die.json](./418402-move-and-die.json) |
 | Move Animals | 220160 | [220160-move-animals.json](./220160-move-animals.json) |
 | Move Ball to Green | 291518 | [291518-move-ball-to-green.json](./291518-move-ball-to-green.json) |
 | Move Blocks | 285454 | [285454-move-blocks.json](./285454-move-blocks.json) |
@@ -19677,6 +19688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Secret Bistro: Cooking Game | 246661 | [246661-my-secret-bistro-cooking-game.json](./246661-my-secret-bistro-cooking-game.json) |
 | My Secret Diary | 47799 | [47799-my-secret-diary.json](./47799-my-secret-diary.json) |
 | My Secret Idol Girlfriend | 222649 | [222649-my-secret-idol-girlfriend.json](./222649-my-secret-idol-girlfriend.json) |
+| My Secret Life | 419068 | [419068-my-secret-life.json](./419068-my-secret-life.json) |
 | My Secret Ocean Boyfriend | 298979 | [298979-my-secret-ocean-boyfriend.json](./298979-my-secret-ocean-boyfriend.json) |
 | My Secret Pets! | 33396 | [33396-my-secret-pets.json](./33396-my-secret-pets.json) |
 | My Secret Spy Lovers | 228433 | [228433-my-secret-spy-lovers.json](./228433-my-secret-spy-lovers.json) |
