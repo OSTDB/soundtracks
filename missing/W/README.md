@@ -6279,6 +6279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiz-herd | 346541 | [346541-wiz-herd.json](./346541-wiz-herd.json) |
 | Wizabeasts | 235792 | [235792-wizabeasts.json](./235792-wizabeasts.json) |
 | Wizadore | 13769 | [13769-wizadore.json](./13769-wizadore.json) |
+| Wizalign | 412065 | [412065-wizalign.json](./412065-wizalign.json) |
 | Wizap! Ankoku no Ou | 42294 | [42294-wizap-ankoku-no-ou.json](./42294-wizap-ankoku-no-ou.json) |
 | Wizard | 104479 | [104479-wizard.json](./104479-wizard.json) |
 | Wizard | 151933 | [151933-wizard.json](./151933-wizard.json) |
@@ -6294,6 +6295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Defenders | 85493 | [85493-wizard-defenders.json](./85493-wizard-defenders.json) |
 | Wizard Duel | 312542 | [312542-wizard-duel.json](./312542-wizard-duel.json) |
 | Wizard Duel | 377144 | [377144-wizard-duel.json](./377144-wizard-duel.json) |
+| Wizard Dungeon | 412106 | [412106-wizard-dungeon.json](./412106-wizard-dungeon.json) |
 | Wizard Fight! | 357739 | [357739-wizard-fight.json](./357739-wizard-fight.json) |
 | Wizard Fire | 39288 | [39288-wizard-fire.json](./39288-wizard-fire.json) |
 | Wizard Girl Anzu | 190057 | [190057-wizard-girl-anzu.json](./190057-wizard-girl-anzu.json) |
