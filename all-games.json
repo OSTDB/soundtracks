@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-01T21:15:52.197Z",
-  "total_soundtracks": 2791,
+  "generated_at": "2026-11-02T13:30:57.653Z",
+  "total_soundtracks": 2792,
   "games": [
     {
       "igdb_id": 7522,
@@ -32058,6 +32058,20 @@
           "album_name": "Trine 2: Goblin Menace (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5azA00u9MDeXcBdBu2RXZZ",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 8255,
+      "game_name": "Trine 3: The Artifacts of Power",
+      "game_url": "https://ostdb.net/games/trine-3-the-artifacts-of-power",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27389f5bc4a6d0a717322a174ba",
+      "albums": [
+        {
+          "album_name": "Trine 3: The Artifacts of Power (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0RORyYrLYt83Q32KWyZYQp",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
