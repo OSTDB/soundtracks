@@ -1540,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.R.C. | 58867 | [58867-a-r-c.json](./58867-a-r-c.json) |
 | A.R.C. Squadron | 91816 | [91816-a-r-c-squadron.json](./91816-a-r-c-squadron.json) |
 | A.R.C.S | 52366 | [52366-a-r-c-s.json](./52366-a-r-c-s.json) |
+| A.R.D. Alien Removal Division | 190863 | [190863-a-r-d-alien-removal-division.json](./190863-a-r-d-alien-removal-division.json) |
 | A.R.E.S. Extinction Agenda EX | 36270 | [36270-a-r-e-s-extinction-agenda-ex.json](./36270-a-r-e-s-extinction-agenda-ex.json) |
 | A.R.E.S.: Extinction Agenda | 6282 | [6282-a-r-e-s-extinction-agenda.json](./6282-a-r-e-s-extinction-agenda.json) |
 | A.R.E.S.: Extinction Agenda - Berzerker Suit | 120631 | [120631-a-r-e-s-extinction-agenda-berzerker-suit.json](./120631-a-r-e-s-extinction-agenda-berzerker-suit.json) |
@@ -6611,6 +6612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alimardan Meets Merlin | 55666 | [55666-alimardan-meets-merlin.json](./55666-alimardan-meets-merlin.json) |
 | Alimardan's Mischief | 55667 | [55667-alimardans-mischief.json](./55667-alimardans-mischief.json) |
 | Alimardan's Mischiefs | 52378 | [52378-alimardans-mischiefs.json](./52378-alimardans-mischiefs.json) |
+| Alina of the Arena | 187284 | [187284-alina-of-the-arena.json](./187284-alina-of-the-arena.json) |
 | Aline | 127978 | [127978-aline.json](./127978-aline.json) |
 | Aliosso | 288767 | [288767-aliosso.json](./288767-aliosso.json) |
 | Alipache in Wonderworld | 204708 | [204708-alipache-in-wonderworld.json](./204708-alipache-in-wonderworld.json) |
@@ -11311,6 +11313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc of Alchemist: Limited Edition | 167040 | [167040-arc-of-alchemist-limited-edition.json](./167040-arc-of-alchemist-limited-edition.json) |
 | Arc of Doom | 66571 | [66571-arc-of-doom.json](./66571-arc-of-doom.json) |
 | Arc of Templar | 95926 | [95926-arc-of-templar.json](./95926-arc-of-templar.json) |
+| Arc Rise Fantasia | 4678 | [4678-arc-rise-fantasia.json](./4678-arc-rise-fantasia.json) |
 | Arc Seed | 244485 | [244485-arc-seed.json](./244485-arc-seed.json) |
 | ARC Squadron: Redux | 38984 | [38984-arc-squadron-redux.json](./38984-arc-squadron-redux.json) |
 | Arc Style Solitaire | 62222 | [62222-arc-style-solitaire.json](./62222-arc-style-solitaire.json) |
