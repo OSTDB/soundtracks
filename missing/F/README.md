@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faceminer | 257986 | [257986-faceminer.json](./257986-faceminer.json) |
 | Faceoff Hockey 2016 | 58890 | [58890-faceoff-hockey-2016.json](./58890-faceoff-hockey-2016.json) |
 | FaceRig | 11305 | [11305-facerig.json](./11305-facerig.json) |
+| Faces of Illusion: The Twin Phantoms | 30440 | [30440-faces-of-illusion-the-twin-phantoms.json](./30440-faces-of-illusion-the-twin-phantoms.json) |
 | Faces of the Forest | 323596 | [323596-faces-of-the-forest.json](./323596-faces-of-the-forest.json) |
 | Faces of War | 10272 | [10272-faces-of-war.json](./10272-faces-of-war.json) |
 | Faces...tris III | 79320 | [79320-faces-tris-iii.json](./79320-faces-tris-iii.json) |
@@ -2325,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Expert 2019 | 112334 | [112334-farm-expert-2019.json](./112334-farm-expert-2019.json) |
 | Farm Factory Simulator | 406934 | [406934-farm-factory-simulator.json](./406934-farm-factory-simulator.json) |
 | Farm For A Wife | 217281 | [217281-farm-for-a-wife.json](./217281-farm-for-a-wife.json) |
+| Farm for your Life | 30248 | [30248-farm-for-your-life.json](./30248-farm-for-your-life.json) |
 | Farm Frenzy | 16090 | [16090-farm-frenzy.json](./16090-farm-frenzy.json) |
 | Farm Frenzy 2 | 16091 | [16091-farm-frenzy-2.json](./16091-farm-frenzy-2.json) |
 | Farm Frenzy 2: Pizza Party HD | 88536 | [88536-farm-frenzy-2-pizza-party-hd.json](./88536-farm-frenzy-2-pizza-party-hd.json) |
@@ -6100,6 +6102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisherman's Trap | 397219 | [397219-fishermans-trap.json](./397219-fishermans-trap.json) |
 | Fisherman'sWorld | 288049 | [288049-fishermansworld.json](./288049-fishermansworld.json) |
 | Fishermen's Haven | 152013 | [152013-fishermens-haven.json](./152013-fishermens-haven.json) |
+| Fishermurs | 30284 | [30284-fishermurs.json](./30284-fishermurs.json) |
 | Fisherones | 81898 | [81898-fisherones.json](./81898-fisherones.json) |
 | Fishery Tycoon | 212475 | [212475-fishery-tycoon.json](./212475-fishery-tycoon.json) |
 | Fishes and Barrels | 244797 | [244797-fishes-and-barrels.json](./244797-fishes-and-barrels.json) |
