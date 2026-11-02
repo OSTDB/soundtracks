@@ -11491,6 +11491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pongis Jump | 126000 | [126000-pongis-jump.json](./126000-pongis-jump.json) |
 | PonGlow | 119474 | [119474-ponglow.json](./119474-ponglow.json) |
 | Pongmatic 2300 | 256211 | [256211-pongmatic-2300.json](./256211-pongmatic-2300.json) |
+| Pongo | 35298 | [35298-pongo.json](./35298-pongo.json) |
 | Pongo17 | 251371 | [251371-pongo17.json](./251371-pongo17.json) |
 | PongPD | 364428 | [364428-pongpd.json](./364428-pongpd.json) |
 | Pongpongpongpongpongpongpongpong | 212776 | [212776-pongpongpongpongpongpongpongpong.json](./212776-pongpongpongpongpongpongpongpong.json) |
