@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Idol Janshi Suchie-Pai | 256268 | [256268-g-mode-archives-idol-janshi-suchie-pai.json](./256268-g-mode-archives-idol-janshi-suchie-pai.json) |
 | G-Mode Archives+: Kishinden Strike-G- | 412402 | [412402-g-mode-archives-kishinden-strike-g.json](./412402-g-mode-archives-kishinden-strike-g.json) |
 | G-Mode Archives+: Lost Chronicle | 410819 | [410819-g-mode-archives-lost-chronicle.json](./410819-g-mode-archives-lost-chronicle.json) |
+| G-Mode Archives+: Lost Savior | 423973 | [423973-g-mode-archives-lost-savior.json](./423973-g-mode-archives-lost-savior.json) |
 | G-Mode Archives+: Majin Tensei - Blind Thinker | 274663 | [274663-g-mode-archives-majin-tensei-blind-thinker.json](./274663-g-mode-archives-majin-tensei-blind-thinker.json) |
 | G-Mode Archives+: Megami Tensei Gaiden - Shinyaku Last Bible III - Mugen no Eiyuu | 227706 | [227706-g-mode-archives-megami-tensei-gaiden-shinyaku-last-bible-iii-mugen-no-eiyuu.json](./227706-g-mode-archives-megami-tensei-gaiden-shinyaku-last-bible-iii-mugen-no-eiyuu.json) |
 | G-Mode Archives+: Moe Pro - Moero!! Pro Yakyuu | 260682 | [260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json](./260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json) |
@@ -421,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal Gunvolt Burst | 92038 | [92038-gal-gunvolt-burst.json](./92038-gal-gunvolt-burst.json) |
 | Gal Metal | 57142 | [57142-gal-metal.json](./57142-gal-metal.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
+| Gal Pani | 423971 | [423971-gal-pani.json](./423971-gal-pani.json) |
 | Gal Pani X | 250208 | [250208-gal-pani-x.json](./250208-gal-pani-x.json) |
 | Gal Vs Village | 390714 | [390714-gal-vs-village.json](./390714-gal-vs-village.json) |
 | Gal, Geek and Summer | 364078 | [364078-gal-geek-and-summer.json](./364078-gal-geek-and-summer.json) |
@@ -5921,6 +5923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Going Up? | 120124 | [120124-going-up.json](./120124-going-up.json) |
 | Going Up?? | 282789 | [282789-going-up.json](./282789-going-up.json) |
 | Going Upstream | 290907 | [290907-going-upstream.json](./290907-going-upstream.json) |
+| Going Your Own Way: Episode One | 424016 | [424016-going-your-own-way-episode-one.json](./424016-going-your-own-way-episode-one.json) |
 | Goinund | 105095 | [105095-goinund.json](./105095-goinund.json) |
 | Gojira tai 3 Daikaijuu | 75884 | [75884-gojira-tai-3-daikaijuu.json](./75884-gojira-tai-3-daikaijuu.json) |
 | Gojira-kun | 75886 | [75886-gojira-kun.json](./75886-gojira-kun.json) |
