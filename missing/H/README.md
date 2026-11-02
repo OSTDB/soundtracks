@@ -6380,6 +6380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cat Outlaws | 291414 | [291414-hidden-cat-outlaws.json](./291414-hidden-cat-outlaws.json) |
 | Hidden Cats | 183564 | [183564-hidden-cats.json](./183564-hidden-cats.json) |
 | Hidden Cats In Amusement Park | 263791 | [263791-hidden-cats-in-amusement-park.json](./263791-hidden-cats-in-amusement-park.json) |
+| Hidden Cats in Barcelona | 400653 | [400653-hidden-cats-in-barcelona.json](./400653-hidden-cats-in-barcelona.json) |
 | Hidden Cats in Berlin | 291421 | [291421-hidden-cats-in-berlin.json](./291421-hidden-cats-in-berlin.json) |
 | Hidden Cats In ButtonWood Street | 322033 | [322033-hidden-cats-in-buttonwood-street.json](./322033-hidden-cats-in-buttonwood-street.json) |
 | Hidden Cats in Christmas | 379445 | [379445-hidden-cats-in-christmas.json](./379445-hidden-cats-in-christmas.json) |
@@ -7865,6 +7866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Sniper Challenge | 5567 | [5567-hitman-sniper-challenge.json](./5567-hitman-sniper-challenge.json) |
 | Hitmasters | 220177 | [220177-hitmasters.json](./220177-hitmasters.json) |
 | Hitme | 178096 | [178096-hitme.json](./178096-hitme.json) |
+| Hitme | 401201 | [401201-hitme.json](./401201-hitme.json) |
 | Hitme 2 | 225273 | [225273-hitme-2.json](./225273-hitme-2.json) |
 | Hitmen Havoc | 222829 | [222829-hitmen-havoc.json](./222829-hitmen-havoc.json) |
 | Hitogata Happa | 16232 | [16232-hitogata-happa.json](./16232-hitogata-happa.json) |
