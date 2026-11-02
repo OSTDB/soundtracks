@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Skies | 318295 | [318295-calm-skies.json](./318295-calm-skies.json) |
 | Calm the Storm | 350351 | [350351-calm-the-storm.json](./350351-calm-the-storm.json) |
 | Calm Time | 122999 | [122999-calm-time.json](./122999-calm-time.json) |
+| Calm Waters | 30971 | [30971-calm-waters.json](./30971-calm-waters.json) |
 | Calmaria: Wild Growth | 422495 | [422495-calmaria-wild-growth.json](./422495-calmaria-wild-growth.json) |
 | Calme | 217182 | [217182-calme.json](./217182-calme.json) |
 | Calmed by the Dark Re:Boot | 282443 | [282443-calmed-by-the-dark-re-boot.json](./282443-calmed-by-the-dark-re-boot.json) |
@@ -3318,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Magic | 21855 | [21855-castle-of-magic.json](./21855-castle-of-magic.json) |
 | Castle of no Escape | 41958 | [41958-castle-of-no-escape.json](./41958-castle-of-no-escape.json) |
 | Castle of no Escape 1+2 Bundle | 218464 | [218464-castle-of-no-escape-1-2-bundle.json](./218464-castle-of-no-escape-1-2-bundle.json) |
+| Castle of No Escape 2 | 30947 | [30947-castle-of-no-escape-2.json](./30947-castle-of-no-escape-2.json) |
 | Castle of Pixel Skulls DX | 164301 | [164301-castle-of-pixel-skulls-dx.json](./164301-castle-of-pixel-skulls-dx.json) |
 | Castle Of Plague | 237090 | [237090-castle-of-plague.json](./237090-castle-of-plague.json) |
 | Castle of Riddles | 13701 | [13701-castle-of-riddles.json](./13701-castle-of-riddles.json) |
