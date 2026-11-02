@@ -1587,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Magician | 192380 | [192380-dark-magician.json](./192380-dark-magician.json) |
 | Dark Maidens | 212594 | [212594-dark-maidens.json](./212594-dark-maidens.json) |
 | Dark Mass | 336164 | [336164-dark-mass.json](./336164-dark-mass.json) |
+| Dark Matter | 85833 | [85833-dark-matter.json](./85833-dark-matter.json) |
 | Dark Matter | 97240 | [97240-dark-matter.json](./97240-dark-matter.json) |
 | Dark Maze | 148912 | [148912-dark-maze.json](./148912-dark-maze.json) |
 | Dark Maze 2 | 102393 | [102393-dark-maze-2.json](./102393-dark-maze-2.json) |
@@ -11944,6 +11945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong-e | 170011 | [170011-donkey-kong-e.json](./170011-donkey-kong-e.json) |
 | Donkey Kong: Coconut Crackers | 131903 | [131903-donkey-kong-coconut-crackers.json](./131903-donkey-kong-coconut-crackers.json) |
 | Donkey Kong: Jumpman Returns | 234767 | [234767-donkey-kong-jumpman-returns.json](./234767-donkey-kong-jumpman-returns.json) |
+| Donkey Kong: Original Edition | 85097 | [85097-donkey-kong-original-edition.json](./85097-donkey-kong-original-edition.json) |
 | Donkey Kong/Donkey Kong Jr./Mario Bros. | 131900 | [131900-donkey-kong-donkey-kong-jr-mario-bros.json](./131900-donkey-kong-donkey-kong-jr-mario-bros.json) |
 | Donkey Konga | 256803 | [256803-donkey-konga.json](./256803-donkey-konga.json) |
 | Donkey Konga | 328664 | [328664-donkey-konga.json](./328664-donkey-konga.json) |
