@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard Ace: Vertical Madness | 70916 | [70916-vanguard-ace-vertical-madness.json](./70916-vanguard-ace-vertical-madness.json) |
 | Vanguard Bandits | 43914 | [43914-vanguard-bandits.json](./43914-vanguard-bandits.json) |
 | Vanguard Exiles | 328936 | [328936-vanguard-exiles.json](./328936-vanguard-exiles.json) |
+| Vanguard Knights | 114199 | [114199-vanguard-knights.json](./114199-vanguard-knights.json) |
 | Vanguard Monsters | 289172 | [289172-vanguard-monsters.json](./289172-vanguard-monsters.json) |
 | Vanguard Of Armor | 394159 | [394159-vanguard-of-armor.json](./394159-vanguard-of-armor.json) |
 | Vanguard of Demise | 105040 | [105040-vanguard-of-demise.json](./105040-vanguard-of-demise.json) |
@@ -1941,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigil | 185032 | [185032-vigil.json](./185032-vigil.json) |
 | Vigil in the Mist | 409755 | [409755-vigil-in-the-mist.json](./409755-vigil-in-the-mist.json) |
 | Vigil of Glory - Part I | 130255 | [130255-vigil-of-glory-part-i.json](./130255-vigil-of-glory-part-i.json) |
+| Vigil: Blood Bitterness | 15625 | [15625-vigil-blood-bitterness.json](./15625-vigil-blood-bitterness.json) |
 | Vigilance | 93480 | [93480-vigilance.json](./93480-vigilance.json) |
 | Vigilance 2099 | 168541 | [168541-vigilance-2099.json](./168541-vigilance-2099.json) |
 | Vigilance on Talos V | 70820 | [70820-vigilance-on-talos-v.json](./70820-vigilance-on-talos-v.json) |
@@ -2720,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viscous Realms | 269103 | [269103-viscous-realms.json](./269103-viscous-realms.json) |
 | Vise | 417473 | [417473-vise.json](./417473-vise.json) |
 | Visegunne | 317775 | [317775-visegunne.json](./317775-visegunne.json) |
+| Visibility | 15546 | [15546-visibility.json](./15546-visibility.json) |
 | Visible Solar System | 125824 | [125824-visible-solar-system.json](./125824-visible-solar-system.json) |
 | Vision | 88326 | [88326-vision.json](./88326-vision.json) |
 | Vision 2 | 92997 | [92997-vision-2.json](./92997-vision-2.json) |
@@ -3434,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Doom | 251544 | [251544-voxel-doom.json](./251544-voxel-doom.json) |
 | Voxel Doom II | 260124 | [260124-voxel-doom-ii.json](./260124-voxel-doom-ii.json) |
 | Voxel Drive | 385947 | [385947-voxel-drive.json](./385947-voxel-drive.json) |
+| Voxel Drivers | 114309 | [114309-voxel-drivers.json](./114309-voxel-drivers.json) |
 | Voxel Eras | 360712 | [360712-voxel-eras.json](./360712-voxel-eras.json) |
 | Voxel Farm Island | 189332 | [189332-voxel-farm-island.json](./189332-voxel-farm-island.json) |
 | Voxel Fly | 120135 | [120135-voxel-fly.json](./120135-voxel-fly.json) |
