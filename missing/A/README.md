@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Blocc World | 293077 | [293077-a-blocc-world.json](./293077-a-blocc-world.json) |
 | A Block Party! | 237595 | [237595-a-block-party.json](./237595-a-block-party.json) |
 | A Blocky Kind of Love | 234012 | [234012-a-blocky-kind-of-love.json](./234012-a-blocky-kind-of-love.json) |
+| A Bloody Party | 114125 | [114125-a-bloody-party.json](./114125-a-bloody-party.json) |
 | A Blurred Line | 47110 | [47110-a-blurred-line.json](./47110-a-blurred-line.json) |
 | A Bomb's Way | 64677 | [64677-a-bombs-way.json](./64677-a-bombs-way.json) |
 | A Bone To Pick | 325297 | [325297-a-bone-to-pick.json](./325297-a-bone-to-pick.json) |
@@ -2832,6 +2833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actua Golf 4 | 356274 | [356274-actua-golf-4.json](./356274-actua-golf-4.json) |
 | Actua Ice Hockey | 68964 | [68964-actua-ice-hockey.json](./68964-actua-ice-hockey.json) |
 | Actua Ice Hockey 2 | 71553 | [71553-actua-ice-hockey-2.json](./71553-actua-ice-hockey-2.json) |
+| Actua Pool | 122734 | [122734-actua-pool.json](./122734-actua-pool.json) |
 | Actua Soccer 2 | 1993 | [1993-actua-soccer-2.json](./1993-actua-soccer-2.json) |
 | Actua Soccer 3 | 1994 | [1994-actua-soccer-3.json](./1994-actua-soccer-3.json) |
 | Actua Soccer: Club Edition | 1992 | [1992-actua-soccer-club-edition.json](./1992-actua-soccer-club-edition.json) |
@@ -9138,6 +9140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Emoji the Game | 169927 | [169927-angry-emoji-the-game.json](./169927-angry-emoji-the-game.json) |
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
 | Angry Girl | 120821 | [120821-angry-girl.json](./120821-angry-girl.json) |
+| Angry Golf | 122209 | [122209-angry-golf.json](./122209-angry-golf.json) |
 | Angry Golf 2 | 340803 | [340803-angry-golf-2.json](./340803-angry-golf-2.json) |
 | Angry Gran Global Assault | 240921 | [240921-angry-gran-global-assault.json](./240921-angry-gran-global-assault.json) |
 | Angry Granny 2-Angry Neighbor | 102852 | [102852-angry-granny-2-angry-neighbor.json](./102852-angry-granny-2-angry-neighbor.json) |
@@ -13473,6 +13476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of the Rail | 153400 | [153400-art-of-the-rail.json](./153400-art-of-the-rail.json) |
 | Art of War 3: Global Conflict | 95558 | [95558-art-of-war-3-global-conflict.json](./95558-art-of-war-3-global-conflict.json) |
 | Art of War: Red Tides | 26735 | [26735-art-of-war-red-tides.json](./26735-art-of-war-red-tides.json) |
+| Art Plunge | 122437 | [122437-art-plunge.json](./122437-art-plunge.json) |
 | Art Puzzle | 354421 | [354421-art-puzzle.json](./354421-art-puzzle.json) |
 | Art Rally Simulator | 420675 | [420675-art-rally-simulator.json](./420675-art-rally-simulator.json) |
 | Art Reborn: Painting Connoisseur | 268061 | [268061-art-reborn-painting-connoisseur.json](./268061-art-reborn-painting-connoisseur.json) |
@@ -13829,6 +13833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent of Titan | 143296 | [143296-ascent-of-titan.json](./143296-ascent-of-titan.json) |
 | Ascent Quest | 264138 | [264138-ascent-quest.json](./264138-ascent-quest.json) |
 | Ascent Spirit | 84073 | [84073-ascent-spirit.json](./84073-ascent-spirit.json) |
+| Ascent: Crash Landing | 109365 | [109365-ascent-crash-landing.json](./109365-ascent-crash-landing.json) |
 | Ascent: Rivals | 288339 | [288339-ascent-rivals.json](./288339-ascent-rivals.json) |
 | Ascention Suvivor | 364960 | [364960-ascention-suvivor.json](./364960-ascention-suvivor.json) |
 | Ascentroid | 137916 | [137916-ascentroid.json](./137916-ascentroid.json) |
@@ -15996,6 +16001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audio Infection | 111669 | [111669-audio-infection.json](./111669-audio-infection.json) |
 | Audio Ninja | 63022 | [63022-audio-ninja.json](./63022-audio-ninja.json) |
 | Audio Party Pack | 143923 | [143923-audio-party-pack.json](./143923-audio-party-pack.json) |
+| Audio Trip | 122136 | [122136-audio-trip.json](./122136-audio-trip.json) |
 | Audio Trip: Swanky Song Pack | 261928 | [261928-audio-trip-swanky-song-pack.json](./261928-audio-trip-swanky-song-pack.json) |
 | AudioBat | 102256 | [102256-audiobat.json](./102256-audiobat.json) |
 | AudioBeats | 83858 | [83858-audiobeats.json](./83858-audiobeats.json) |
