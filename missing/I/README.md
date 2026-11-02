@@ -1406,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Heroes: Odyssey | 135099 | [135099-idle-heroes-odyssey.json](./135099-idle-heroes-odyssey.json) |
 | Idle Heroines | 220169 | [220169-idle-heroines.json](./220169-idle-heroines.json) |
 | Idle Home Makeover | 227714 | [227714-idle-home-makeover.json](./227714-idle-home-makeover.json) |
+| Idle Hoops | 422821 | [422821-idle-hoops.json](./422821-idle-hoops.json) |
 | Idle Human | 204484 | [204484-idle-human.json](./204484-idle-human.json) |
 | Idle Human 2 | 204486 | [204486-idle-human-2.json](./204486-idle-human-2.json) |
 | Idle Human Evolution | 220165 | [220165-idle-human-evolution.json](./220165-idle-human-evolution.json) |
@@ -1500,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Robot: Build Your Own Mecha | 199940 | [199940-idle-robot-build-your-own-mecha.json](./199940-idle-robot-build-your-own-mecha.json) |
 | Idle Roboto | 152888 | [152888-idle-roboto.json](./152888-idle-roboto.json) |
 | Idle Robots | 255795 | [255795-idle-robots.json](./255795-idle-robots.json) |
+| Idle Rocket Miner | 422806 | [422806-idle-rocket-miner.json](./422806-idle-rocket-miner.json) |
 | Idle Royale Tycoon: Incremental Merge Battle Game | 134289 | [134289-idle-royale-tycoon-incremental-merge-battle-game.json](./134289-idle-royale-tycoon-incremental-merge-battle-game.json) |
 | Idle RPG: The Game is Bugged! | 292135 | [292135-idle-rpg-the-game-is-bugged.json](./292135-idle-rpg-the-game-is-bugged.json) |
 | Idle Run | 258389 | [258389-idle-run.json](./258389-idle-run.json) |
@@ -2194,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iMake IcePops | 101554 | [101554-imake-icepops.json](./101554-imake-icepops.json) |
 | iMake Lollipops-Candy Making Kitchen Games | 98861 | [98861-imake-lollipops-candy-making-kitchen-games.json](./98861-imake-lollipops-candy-making-kitchen-games.json) |
 | Imakuni? no Ball | 59038 | [59038-imakuni-no-ball.json](./59038-imakuni-no-ball.json) |
+| Iman | 422783 | [422783-iman.json](./422783-iman.json) |
 | Imas Champ | 222611 | [222611-imas-champ.json](./222611-imas-champ.json) |
 | Imasugu Tsukaeru Mamechishiki Quiz Zatsugaku Ou DS | 133799 | [133799-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou-ds.json](./133799-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou-ds.json) |
 | Imasugu Tsukaeru Mamechishiki: Quiz Zatsugaku-Ou | 67060 | [67060-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou.json](./67060-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou.json) |
