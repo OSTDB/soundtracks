@@ -2725,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Car Drift Racing | 311794 | [311794-real-car-drift-racing.json](./311794-real-car-drift-racing.json) |
 | Real Car Driving | 219458 | [219458-real-car-driving.json](./219458-real-car-driving.json) |
 | Real Car Market Simulator Together | 407348 | [407348-real-car-market-simulator-together.json](./407348-real-car-market-simulator-together.json) |
+| Real Car Parking 2 : Driving School 2018 | 101092 | [101092-real-car-parking-2-driving-school-2018.json](./101092-real-car-parking-2-driving-school-2018.json) |
 | Real Car Parking 2024: Driving Simulator | 275447 | [275447-real-car-parking-2024-driving-simulator.json](./275447-real-car-parking-2024-driving-simulator.json) |
 | Real Car Parking 3D | 256436 | [256436-real-car-parking-3d.json](./256436-real-car-parking-3d.json) |
 | Real Car Parking Master | 256135 | [256135-real-car-parking-master.json](./256135-real-car-parking-master.json) |
