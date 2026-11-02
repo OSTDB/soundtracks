@@ -1282,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Jam | 5059 | [5059-nba-jam.json](./5059-nba-jam.json) |
 | NBA Jam | 88923 | [88923-nba-jam.json](./88923-nba-jam.json) |
 | NBA Jam | 8995 | [8995-nba-jam.json](./8995-nba-jam.json) |
+| NBA Jam 2000 | 3552 | [3552-nba-jam-2000.json](./3552-nba-jam-2000.json) |
 | NBA Jam 2001 | 49903 | [49903-nba-jam-2001.json](./49903-nba-jam-2001.json) |
 | NBA Jam 99 | 249121 | [249121-nba-jam-99.json](./249121-nba-jam-99.json) |
 | NBA Jam 99 | 3551 | [3551-nba-jam-99.json](./3551-nba-jam-99.json) |
@@ -3509,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Quarterback Club 96 | 348201 | [348201-nfl-quarterback-club-96.json](./348201-nfl-quarterback-club-96.json) |
 | NFL Quarterback Club 96 | 348206 | [348206-nfl-quarterback-club-96.json](./348206-nfl-quarterback-club-96.json) |
 | NFL Quarterback Club 97 | 20258 | [20258-nfl-quarterback-club-97.json](./20258-nfl-quarterback-club-97.json) |
+| NFL Quarterback Club 98 | 3558 | [3558-nfl-quarterback-club-98.json](./3558-nfl-quarterback-club-98.json) |
 | NFL Quarterback Club 99 | 47756 | [47756-nfl-quarterback-club-99.json](./47756-nfl-quarterback-club-99.json) |
 | NFL Retro Bowl '26 | 362065 | [362065-nfl-retro-bowl-26.json](./362065-nfl-retro-bowl-26.json) |
 | NFL Rivals | 249177 | [249177-nfl-rivals.json](./249177-nfl-rivals.json) |
