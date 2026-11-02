@@ -2857,6 +2857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weather Lord: Legendary Hero - Collector's Edition | 32114 | [32114-weather-lord-legendary-hero-collectors-edition.json](./32114-weather-lord-legendary-hero-collectors-edition.json) |
 | Weather Lord: Royal Holidays | 53917 | [53917-weather-lord-royal-holidays.json](./53917-weather-lord-royal-holidays.json) |
 | Weather Lord: Royal Holidays - Collector's Edition | 30117 | [30117-weather-lord-royal-holidays-collectors-edition.json](./30117-weather-lord-royal-holidays-collectors-edition.json) |
+| Weather Lord: The Successor's Path | 35444 | [35444-weather-lord-the-successors-path.json](./35444-weather-lord-the-successors-path.json) |
 | Weather Report | 362919 | [362919-weather-report.json](./362919-weather-report.json) |
 | Weather the Storm | 377109 | [377109-weather-the-storm.json](./377109-weather-the-storm.json) |
 | Weathered | 62827 | [62827-weathered.json](./62827-weathered.json) |
@@ -4039,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My Kitty | 338374 | [338374-wheres-my-kitty.json](./338374-wheres-my-kitty.json) |
 | Where's My Lunch?! | 170360 | [170360-wheres-my-lunch.json](./170360-wheres-my-lunch.json) |
 | Where's My Mickey? | 63275 | [63275-wheres-my-mickey.json](./63275-wheres-my-mickey.json) |
+| Where's My Mommy? | 34215 | [34215-wheres-my-mommy.json](./34215-wheres-my-mommy.json) |
 | Where's My Perry? | 65064 | [65064-wheres-my-perry.json](./65064-wheres-my-perry.json) |
 | Where's My Phone?! | 149863 | [149863-wheres-my-phone.json](./149863-wheres-my-phone.json) |
 | Where's My Tripod? | 180801 | [180801-wheres-my-tripod.json](./180801-wheres-my-tripod.json) |
@@ -6827,6 +6829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonka's World of Candy | 112151 | [112151-wonkas-world-of-candy.json](./112151-wonkas-world-of-candy.json) |
 | WonkaZoid: Oompa Candy Flip | 313237 | [313237-wonkazoid-oompa-candy-flip.json](./313237-wonkazoid-oompa-candy-flip.json) |
 | WonkaZoid: Shockball Showdown | 313238 | [313238-wonkazoid-shockball-showdown.json](./313238-wonkazoid-shockball-showdown.json) |
+| Wonky Pigeon! | 35413 | [35413-wonky-pigeon.json](./35413-wonky-pigeon.json) |
 | Wonky Ship | 59821 | [59821-wonky-ship.json](./59821-wonky-ship.json) |
 | Wonky Ship: Black Hole Down | 168322 | [168322-wonky-ship-black-hole-down.json](./168322-wonky-ship-black-hole-down.json) |
 | Wonky Wizard | 181006 | [181006-wonky-wizard.json](./181006-wonky-wizard.json) |
@@ -7197,6 +7200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Whomp Underground | 205884 | [205884-word-whomp-underground.json](./205884-word-whomp-underground.json) |
 | Word Wise | 157723 | [157723-word-wise.json](./157723-word-wise.json) |
 | Word Wizard 3D | 84937 | [84937-word-wizard-3d.json](./84937-word-wizard-3d.json) |
+| Word Wonders: The Tower of Babel | 35465 | [35465-word-wonders-the-tower-of-babel.json](./35465-word-wonders-the-tower-of-babel.json) |
 | Word Worm | 229344 | [229344-word-worm.json](./229344-word-worm.json) |
 | Word Worm | 361732 | [361732-word-worm.json](./361732-word-worm.json) |
 | Word Worth | 101083 | [101083-word-worth.json](./101083-word-worth.json) |
@@ -8021,6 +8025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Heroes | 82962 | [82962-world-war-heroes.json](./82962-world-war-heroes.json) |
 | World War Heroes | 87177 | [87177-world-war-heroes.json](./87177-world-war-heroes.json) |
 | World War Heroes: WW2 FPS Shooter! | 96747 | [96747-world-war-heroes-ww2-fps-shooter.json](./96747-world-war-heroes-ww2-fps-shooter.json) |
+| World War I | 35439 | [35439-world-war-i.json](./35439-world-war-i.json) |
 | World War I: The Great War | 23745 | [23745-world-war-i-the-great-war.json](./23745-world-war-i-the-great-war.json) |
 | World War II City Rebirth Tycoon | 322400 | [322400-world-war-ii-city-rebirth-tycoon.json](./322400-world-war-ii-city-rebirth-tycoon.json) |
 | World War II Combat: Iwo Jima | 6242 | [6242-world-war-ii-combat-iwo-jima.json](./6242-world-war-ii-combat-iwo-jima.json) |
