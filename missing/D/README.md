@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D Life | 253973 | [253973-d-life.json](./253973-d-life.json) |
 | D Missile | 304278 | [304278-d-missile.json](./304278-d-missile.json) |
 | D or D | 250004 | [250004-d-or-d.json](./250004-d-or-d.json) |
+| D Series Off Road Driving Simulation | 35478 | [35478-d-series-off-road-driving-simulation.json](./35478-d-series-off-road-driving-simulation.json) |
 | D-100 | 250968 | [250968-d-100.json](./250968-d-100.json) |
 | D-Corp | 142824 | [142824-d-corp.json](./142824-d-corp.json) |
 | D-Cube Planet | 66980 | [66980-d-cube-planet.json](./66980-d-cube-planet.json) |
@@ -2710,6 +2711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day at the Races | 242821 | [242821-day-at-the-races.json](./242821-day-at-the-races.json) |
 | Day D: Through Time - Collector's Edition | 355556 | [355556-day-d-through-time-collectors-edition.json](./355556-day-d-through-time-collectors-edition.json) |
 | Day D: Time Mayhem | 52874 | [52874-day-d-time-mayhem.json](./52874-day-d-time-mayhem.json) |
+| Day D: Tower Rush | 34213 | [34213-day-d-tower-rush.json](./34213-day-d-tower-rush.json) |
 | Day Dream | 284233 | [284233-day-dream.json](./284233-day-dream.json) |
 | Day Hard | 222413 | [222413-day-hard.json](./222413-day-hard.json) |
 | Day In | 374202 | [374202-day-in.json](./374202-day-in.json) |
