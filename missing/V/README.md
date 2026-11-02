@@ -3084,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Hearts | 161698 | [161698-void-hearts.json](./161698-void-hearts.json) |
 | Void Hunters | 394679 | [394679-void-hunters.json](./394679-void-hunters.json) |
 | Void Ignition | 406522 | [406522-void-ignition.json](./406522-void-ignition.json) |
+| Void Inc | 412725 | [412725-void-inc.json](./412725-void-inc.json) |
 | Void Inc. | 183895 | [183895-void-inc.json](./183895-void-inc.json) |
 | Void Inside | 282023 | [282023-void-inside.json](./282023-void-inside.json) |
 | Void Inspector | 415891 | [415891-void-inspector.json](./415891-void-inspector.json) |
@@ -3390,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voor de Kroon | 193251 | [193251-voor-de-kroon.json](./193251-voor-de-kroon.json) |
 | Voracious | 118148 | [118148-voracious.json](./118148-voracious.json) |
 | Voracious | 351770 | [351770-voracious.json](./351770-voracious.json) |
+| Voracity | 412752 | [412752-voracity.json](./412752-voracity.json) |
 | Vorago | 312560 | [312560-vorago.json](./312560-vorago.json) |
 | Vorax | 214692 | [214692-vorax.json](./214692-vorax.json) |
 | Voraxis | 387350 | [387350-voraxis.json](./387350-voraxis.json) |
