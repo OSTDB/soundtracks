@@ -1364,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Killer | 41978 | [41978-panzer-killer.json](./41978-panzer-killer.json) |
 | Panzer Kliker Mk I Yanks | 360623 | [360623-panzer-kliker-mk-i-yanks.json](./360623-panzer-kliker-mk-i-yanks.json) |
 | Panzer Knights | 148190 | [148190-panzer-knights.json](./148190-panzer-knights.json) |
+| Panzer Knights: Commander’s Edition | 392660 | [392660-panzer-knights-commander-s-edition.json](./392660-panzer-knights-commander-s-edition.json) |
 | Panzer League | 111542 | [111542-panzer-league.json](./111542-panzer-league.json) |
 | Panzer Marshal | 176432 | [176432-panzer-marshal.json](./176432-panzer-marshal.json) |
 | Panzer Paladin | 116195 | [116195-panzer-paladin.json](./116195-panzer-paladin.json) |
@@ -5008,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Smog | 391083 | [391083-phantom-smog.json](./391083-phantom-smog.json) |
 | Phantom Sol | 125437 | [125437-phantom-sol.json](./125437-phantom-sol.json) |
 | Phantom Soldier | 29110 | [29110-phantom-soldier.json](./29110-phantom-soldier.json) |
+| Phantom Spark | 262672 | [262672-phantom-spark.json](./262672-phantom-spark.json) |
 | Phantom Spider | 119434 | [119434-phantom-spider.json](./119434-phantom-spider.json) |
 | Phantom Squad | 291391 | [291391-phantom-squad.json](./291391-phantom-squad.json) |
 | Phantom Stars | 297184 | [297184-phantom-stars.json](./297184-phantom-stars.json) |
@@ -10830,6 +10832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Monsters | 393594 | [393594-poker-monsters.json](./393594-poker-monsters.json) |
 | Poker Night | 147158 | [147158-poker-night.json](./147158-poker-night.json) |
 | Poker Night 2 | 2047 | [2047-poker-night-2.json](./2047-poker-night-2.json) |
+| Poker Night at the Inventory | 388390 | [388390-poker-night-at-the-inventory.json](./388390-poker-night-at-the-inventory.json) |
 | Poker Night at the Inventory | 8040 | [8040-poker-night-at-the-inventory.json](./8040-poker-night-at-the-inventory.json) |
 | Poker Night with David Sklansky | 209347 | [209347-poker-night-with-david-sklansky.json](./209347-poker-night-with-david-sklansky.json) |
 | Poker Now | 225708 | [225708-poker-now.json](./225708-poker-now.json) |
@@ -12762,6 +12765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator | 138590 | [138590-powerwash-simulator.json](./138590-powerwash-simulator.json) |
 | PowerWash Simulator | 400248 | [400248-powerwash-simulator.json](./400248-powerwash-simulator.json) |
 | PowerWash Simulator 2 | 335439 | [335439-powerwash-simulator-2.json](./335439-powerwash-simulator-2.json) |
+| Powerwash Simulator 2: Adventure Time Pack | 382683 | [382683-powerwash-simulator-2-adventure-time-pack.json](./382683-powerwash-simulator-2-adventure-time-pack.json) |
 | PowerWash Simulator 2: Barbie Pack | 418240 | [418240-powerwash-simulator-2-barbie-pack.json](./418240-powerwash-simulator-2-barbie-pack.json) |
 | PowerWash Simulator 2: Star Wars Pack | 399677 | [399677-powerwash-simulator-2-star-wars-pack.json](./399677-powerwash-simulator-2-star-wars-pack.json) |
 | PowerWash Simulator: Back to the Future Special Pack | 276978 | [276978-powerwash-simulator-back-to-the-future-special-pack.json](./276978-powerwash-simulator-back-to-the-future-special-pack.json) |
