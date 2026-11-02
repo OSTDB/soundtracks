@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakota Winchester's Adventures 3 | 310558 | [310558-dakota-winchesters-adventures-3.json](./310558-dakota-winchesters-adventures-3.json) |
 | Dakpo | 144655 | [144655-dakpo.json](./144655-dakpo.json) |
 | Dal Segno | 37038 | [37038-dal-segno.json](./37038-dal-segno.json) |
+| DAL'T-4 | 407740 | [407740-dalt-4.json](./407740-dalt-4.json) |
 | Dal'X | 94601 | [94601-dalx.json](./94601-dalx.json) |
 | Dala and The Cursed Forest | 292768 | [292768-dala-and-the-cursed-forest.json](./292768-dala-and-the-cursed-forest.json) |
 | Dalafri | 324809 | [324809-dalafri.json](./324809-dalafri.json) |
@@ -4792,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckstrander | 257938 | [257938-deckstrander.json](./257938-deckstrander.json) |
 | Decktamer | 291367 | [291367-decktamer.json](./291367-decktamer.json) |
 | DeckTerra | 353644 | [353644-deckterra.json](./353644-deckterra.json) |
+| Decktoon | 407718 | [407718-decktoon.json](./407718-decktoon.json) |
 | Deckum Demonium | 384756 | [384756-deckum-demonium.json](./384756-deckum-demonium.json) |
 | Deckweaver: Descent Into Chaos | 260577 | [260577-deckweaver-descent-into-chaos.json](./260577-deckweaver-descent-into-chaos.json) |
 | Declan Moses | 418761 | [418761-declan-moses.json](./418761-declan-moses.json) |
