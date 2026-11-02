@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naomi Clicker | 302435 | [302435-naomi-clicker.json](./302435-naomi-clicker.json) |
 | Naomi Clicker: Premium DLC | 321947 | [321947-naomi-clicker-premium-dlc.json](./321947-naomi-clicker-premium-dlc.json) |
 | Naomi's Exhibition | 224812 | [224812-naomis-exhibition.json](./224812-naomis-exhibition.json) |
+| Naos-01: The Quiet Sector | 411259 | [411259-naos-01-the-quiet-sector.json](./411259-naos-01-the-quiet-sector.json) |
 | Napalm: The Crimson Crisis | 69892 | [69892-napalm-the-crimson-crisis.json](./69892-napalm-the-crimson-crisis.json) |
 | Napobination | 320946 | [320946-napobination.json](./320946-napobination.json) |
 | Napoleon | 125336 | [125336-napoleon.json](./125336-napoleon.json) |
@@ -1518,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebulas ray | 39456 | [39456-nebulas-ray.json](./39456-nebulas-ray.json) |
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
 | Nebuli | 157720 | [157720-nebuli.json](./157720-nebuli.json) |
+| Nebulis Entity | 411282 | [411282-nebulis-entity.json](./411282-nebulis-entity.json) |
 | Nebulock | 333487 | [333487-nebulock.json](./333487-nebulock.json) |
 | Nebulon | 91658 | [91658-nebulon.json](./91658-nebulon.json) |
 | Nebulous | 19039 | [19039-nebulous.json](./19039-nebulous.json) |
