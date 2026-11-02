@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takedown! | 94191 | [94191-takedown.json](./94191-takedown.json) |
 | Takelshin | 148456 | [148456-takelshin.json](./148456-takelshin.json) |
 | Takemiya Masaki Kudan no Igo Taishou | 37794 | [37794-takemiya-masaki-kudan-no-igo-taishou.json](./37794-takemiya-masaki-kudan-no-igo-taishou.json) |
+| Taken | 35519 | [35519-taken.json](./35519-taken.json) |
 | Taken Soul | 273400 | [273400-taken-soul.json](./273400-taken-soul.json) |
 | Taken Souls: Blood Ritual | 139427 | [139427-taken-souls-blood-ritual.json](./139427-taken-souls-blood-ritual.json) |
 | Taken Souls: Blood Ritual - Collector's Edition | 29577 | [29577-taken-souls-blood-ritual-collectors-edition.json](./29577-taken-souls-blood-ritual-collectors-edition.json) |
@@ -17524,6 +17525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wall | 272111 | [272111-the-wall.json](./272111-the-wall.json) |
 | The Wall | 333454 | [333454-the-wall.json](./333454-the-wall.json) |
 | The Wall | 402127 | [402127-the-wall.json](./402127-the-wall.json) |
+| The Wall | 40514 | [40514-the-wall.json](./40514-the-wall.json) |
 | The Wall | 94086 | [94086-the-wall.json](./94086-the-wall.json) |
 | The Wall Mustn't Fall | 215793 | [215793-the-wall-mustnt-fall.json](./215793-the-wall-mustnt-fall.json) |
 | The Wall: Medieval Heroes | 108731 | [108731-the-wall-medieval-heroes.json](./108731-the-wall-medieval-heroes.json) |
@@ -29269,6 +29271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trojan | 287583 | [287583-trojan.json](./287583-trojan.json) |
 | Trojan | 298372 | [298372-trojan.json](./298372-trojan.json) |
 | Trojan | 39993 | [39993-trojan.json](./39993-trojan.json) |
+| Trojan Inc. | 40450 | [40450-trojan-inc.json](./40450-trojan-inc.json) |
 | Trojan Legend | 345945 | [345945-trojan-legend.json](./345945-trojan-legend.json) |
 | Trolddom | 321632 | [321632-trolddom.json](./321632-trolddom.json) |
 | Troll | 375849 | [375849-troll.json](./375849-troll.json) |
