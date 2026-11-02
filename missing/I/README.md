@@ -2998,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Math | 398668 | [398668-incremental-math.json](./398668-incremental-math.json) |
 | Incremental Retro Racing | 403098 | [403098-incremental-retro-racing.json](./403098-incremental-retro-racing.json) |
 | Incremental School Tap Battle | 297647 | [297647-incremental-school-tap-battle.json](./297647-incremental-school-tap-battle.json) |
+| Incremental Wars | 414707 | [414707-incremental-wars.json](./414707-incremental-wars.json) |
 | IncrementalOS | 421841 | [421841-incrementalos.json](./421841-incrementalos.json) |
 | Incrempire | 407857 | [407857-incrempire.json](./407857-incrempire.json) |
 | Incretyper | 385428 | [385428-incretyper.json](./385428-incretyper.json) |
