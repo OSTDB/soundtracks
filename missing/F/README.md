@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall... in Love | 105228 | [105228-fall-in-love.json](./105228-fall-in-love.json) |
 | Fallacy of Dawn | 57613 | [57613-fallacy-of-dawn.json](./57613-fallacy-of-dawn.json) |
 | Fallacy Quiz | 291432 | [291432-fallacy-quiz.json](./291432-fallacy-quiz.json) |
+| Fallalypse | 55792 | [55792-fallalypse.json](./55792-fallalypse.json) |
 | Fallalypse: Death or Cress | 84053 | [84053-fallalypse-death-or-cress.json](./84053-fallalypse-death-or-cress.json) |
 | Fallback | 102397 | [102397-fallback.json](./102397-fallback.json) |
 | Fallback! | 270135 | [270135-fallback.json](./270135-fallback.json) |
