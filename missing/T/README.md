@@ -1259,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Sector 1 | 245354 | [245354-tales-of-sector-1.json](./245354-tales-of-sector-1.json) |
 | Tales of Seikyu | 245733 | [245733-tales-of-seikyu.json](./245733-tales-of-seikyu.json) |
 | Tales of Shadowland | 185644 | [185644-tales-of-shadowland.json](./185644-tales-of-shadowland.json) |
+| Tales of Sintra: The Dark Vortex | 404602 | [404602-tales-of-sintra-the-dark-vortex.json](./404602-tales-of-sintra-the-dark-vortex.json) |
 | Tales of Sirius | 370999 | [370999-tales-of-sirius.json](./370999-tales-of-sirius.json) |
 | Tales of Skiora | 154249 | [154249-tales-of-skiora.json](./154249-tales-of-skiora.json) |
 | Tales of Sorrow: Strawsbrough Town | 114358 | [114358-tales-of-sorrow-strawsbrough-town.json](./114358-tales-of-sorrow-strawsbrough-town.json) |
@@ -9614,6 +9615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golf Club VR | 27545 | [27545-the-golf-club-vr.json](./27545-the-golf-club-vr.json) |
 | The Golf Pro | 85914 | [85914-the-golf-pro.json](./85914-the-golf-pro.json) |
 | The Golf: Bishoujo Classic | 41309 | [41309-the-golf-bishoujo-classic.json](./41309-the-golf-bishoujo-classic.json) |
+| The Good Book VN | 404592 | [404592-the-good-book-vn.json](./404592-the-good-book-vn.json) |
 | The Good Chicken | 220673 | [220673-the-good-chicken.json](./220673-the-good-chicken.json) |
 | The Good Colony | 311614 | [311614-the-good-colony.json](./311614-the-good-colony.json) |
 | The Good Dinosaur: Arlo & Spot's Wild Collection | 230412 | [230412-the-good-dinosaur-arlo-and-spots-wild-collection.json](./230412-the-good-dinosaur-arlo-and-spots-wild-collection.json) |
@@ -12208,6 +12210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life and Suffering of Prince Jerian | 312141 | [312141-the-life-and-suffering-of-prince-jerian.json](./312141-the-life-and-suffering-of-prince-jerian.json) |
 | The Life and Suffering of Sir Brante | 138871 | [138871-the-life-and-suffering-of-sir-brante.json](./138871-the-life-and-suffering-of-sir-brante.json) |
 | The Life and Times of Daniel Vastberaden | 368571 | [368571-the-life-and-times-of-daniel-vastberaden.json](./368571-the-life-and-times-of-daniel-vastberaden.json) |
+| The Life Ark | 404646 | [404646-the-life-ark.json](./404646-the-life-ark.json) |
 | The Life of a Pacifist is Often Fraught With Conflict | 65777 | [65777-the-life-of-a-pacifist-is-often-fraught-with-conflict.json](./65777-the-life-of-a-pacifist-is-often-fraught-with-conflict.json) |
 | The Life of an Astronaut | 179027 | [179027-the-life-of-an-astronaut.json](./179027-the-life-of-an-astronaut.json) |
 | The Life of Arthur | 220692 | [220692-the-life-of-arthur.json](./220692-the-life-of-arthur.json) |
@@ -12433,6 +12436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lonly Wall | 183472 | [183472-the-lonly-wall.json](./183472-the-lonly-wall.json) |
 | The Looker | 204849 | [204849-the-looker.json](./204849-the-looker.json) |
 | The Looking Glass | 166569 | [166569-the-looking-glass.json](./166569-the-looking-glass.json) |
+| The Looking Glass Wars: House of Cards | 404627 | [404627-the-looking-glass-wars-house-of-cards.json](./404627-the-looking-glass-wars-house-of-cards.json) |
 | The Loop | 170528 | [170528-the-loop.json](./170528-the-loop.json) |
 | The Loop VR | 97919 | [97919-the-loop-vr.json](./97919-the-loop-vr.json) |
 | The Loopholes Chronicles | 124185 | [124185-the-loopholes-chronicles.json](./124185-the-loopholes-chronicles.json) |
@@ -19449,6 +19453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throwing Master | 226591 | [226591-throwing-master.json](./226591-throwing-master.json) |
 | Throwing Punches | 182394 | [182394-throwing-punches.json](./182394-throwing-punches.json) |
 | Throwing Stone | 167534 | [167534-throwing-stone.json](./167534-throwing-stone.json) |
+| Thrown | 404604 | [404604-thrown.json](./404604-thrown.json) |
 | Thru the City | 291941 | [291941-thru-the-city.json](./291941-thru-the-city.json) |
 | Thrunt XL | 111483 | [111483-thrunt-xl.json](./111483-thrunt-xl.json) |
 | Thrunt! | 134682 | [134682-thrunt.json](./134682-thrunt.json) |
@@ -24133,6 +24138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Fighter 2000 MK VIII | 45752 | [45752-top-fighter-2000-mk-viii.json](./45752-top-fighter-2000-mk-viii.json) |
 | Top Flight Turtle | 234171 | [234171-top-flight-turtle.json](./234171-top-flight-turtle.json) |
 | Top Floor | 31161 | [31161-top-floor.json](./31161-top-floor.json) |
+| Top Fun 10 VR | 404590 | [404590-top-fun-10-vr.json](./404590-top-fun-10-vr.json) |
 | Top Gear | 27461 | [27461-top-gear.json](./27461-top-gear.json) |
 | Top Gear 2 | 13057 | [13057-top-gear-2.json](./13057-top-gear-2.json) |
 | Top Gear 3000 | 46007 | [46007-top-gear-3000.json](./46007-top-gear-3000.json) |
