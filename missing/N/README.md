@@ -4230,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nighthawk | 334329 | [334329-nighthawk.json](./334329-nighthawk.json) |
 | NightHawk F-117A Stealth Fighter 2.0 | 10292 | [10292-nighthawk-f-117a-stealth-fighter-2-0.json](./10292-nighthawk-f-117a-stealth-fighter-2-0.json) |
 | Nighthawk no Shokuzai: Zenpen | 401609 | [401609-nighthawk-no-shokuzai-zenpen.json](./401609-nighthawk-no-shokuzai-zenpen.json) |
+| Nighthawks | 109259 | [109259-nighthawks.json](./109259-nighthawks.json) |
 | Nighthold | 324568 | [324568-nighthold.json](./324568-nighthold.json) |
 | NightHover | 250835 | [250835-nighthover.json](./250835-nighthover.json) |
 | Nightin Cage | 351701 | [351701-nightin-cage.json](./351701-nightin-cage.json) |
@@ -6540,6 +6541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Tonight | 96088 | [96088-not-tonight.json](./96088-not-tonight.json) |
 | Not Tonight & Not Tonight 2 | 292922 | [292922-not-tonight-and-not-tonight-2.json](./292922-not-tonight-and-not-tonight-2.json) |
 | Not Tonight: One Love | 154560 | [154560-not-tonight-one-love.json](./154560-not-tonight-one-love.json) |
+| Not Tonight: Take Back Control Edition | 121156 | [121156-not-tonight-take-back-control-edition.json](./121156-not-tonight-take-back-control-edition.json) |
 | Not Treasure Hunter | 56141 | [56141-not-treasure-hunter.json](./56141-not-treasure-hunter.json) |
 | Not Turn | 404367 | [404367-not-turn.json](./404367-not-turn.json) |
 | Not without my donuts | 35338 | [35338-not-without-my-donuts.json](./35338-not-without-my-donuts.json) |
