@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salt Game | 219641 | [219641-salt-game.json](./219641-salt-game.json) |
 | Salt Lake 2002 | 248694 | [248694-salt-lake-2002.json](./248694-salt-lake-2002.json) |
 | Salt Meat Factory | 303815 | [303815-salt-meat-factory.json](./303815-salt-meat-factory.json) |
+| Salt of the Earth | 401516 | [401516-salt-of-the-earth.json](./401516-salt-of-the-earth.json) |
 | Salt the Earth | 118298 | [118298-salt-the-earth.json](./118298-salt-the-earth.json) |
 | Salt Thrust | 75393 | [75393-salt-thrust.json](./75393-salt-thrust.json) |
 | SALT: Super Awesome Laser Tag | 379869 | [379869-salt-super-awesome-laser-tag.json](./379869-salt-super-awesome-laser-tag.json) |
@@ -4822,6 +4823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sei Shoujo Sentai Lakers II | 264323 | [264323-sei-shoujo-sentai-lakers-ii.json](./264323-sei-shoujo-sentai-lakers-ii.json) |
 | Sei Shoujo Sentai Lakers III | 264324 | [264324-sei-shoujo-sentai-lakers-iii.json](./264324-sei-shoujo-sentai-lakers-iii.json) |
 | Sei-Romance Gakuen: Koi no Toki-meki Daisakusen | 283538 | [283538-sei-romance-gakuen-koi-no-toki-meki-daisakusen.json](./283538-sei-romance-gakuen-koi-no-toki-meki-daisakusen.json) |
+| Seibu Cup Soccer | 401506 | [401506-seibu-cup-soccer.json](./401506-seibu-cup-soccer.json) |
 | Seibu Keisatsu | 346045 | [346045-seibu-keisatsu.json](./346045-seibu-keisatsu.json) |
 | Seibu Keisatsu Part-III | 346046 | [346046-seibu-keisatsu-part-iii.json](./346046-seibu-keisatsu-part-iii.json) |
 | Seicross | 289162 | [289162-seicross.json](./289162-seicross.json) |
@@ -6051,6 +6053,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Girls | 111721 | [111721-sexy-girls.json](./111721-sexy-girls.json) |
 | Sexy Girls Puzzle | 109706 | [109706-sexy-girls-puzzle.json](./109706-sexy-girls-puzzle.json) |
 | Sexy Glasses | 349866 | [349866-sexy-glasses.json](./349866-sexy-glasses.json) |
+| Sexy Hand | 401570 | [401570-sexy-hand.json](./401570-sexy-hand.json) |
+| Sexy Hand 2 | 401571 | [401571-sexy-hand-2.json](./401571-sexy-hand-2.json) |
 | Sexy Hentai Puzzle | 214189 | [214189-sexy-hentai-puzzle.json](./214189-sexy-hentai-puzzle.json) |
 | Sexy Heroine! | 384868 | [384868-sexy-heroine.json](./384868-sexy-heroine.json) |
 | Sexy Heroine! Part 2 | 384871 | [384871-sexy-heroine-part-2.json](./384871-sexy-heroine-part-2.json) |
@@ -18468,7 +18472,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24992,6 +24995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Toxoids | 218170 | [218170-stellaris-toxoids.json](./218170-stellaris-toxoids.json) |
 | Stellaris: Toxoids Species Pack | 223546 | [223546-stellaris-toxoids-species-pack.json](./223546-stellaris-toxoids-species-pack.json) |
 | Stellaris: Utopia | 27053 | [27053-stellaris-utopia.json](./27053-stellaris-utopia.json) |
+| Stellaris: Vipra the Vapor Species Portrait | 401596 | [401596-stellaris-vipra-the-vapor-species-portrait.json](./401596-stellaris-vipra-the-vapor-species-portrait.json) |
 | Stellarons Superstars: Detectives of the Scarlet Horizons | 300838 | [300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json](./300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json) |
 | StellarPlans | 295334 | [295334-stellarplans.json](./295334-stellarplans.json) |
 | StellarRoads | 183713 | [183713-stellarroads.json](./183713-stellarroads.json) |
@@ -27898,6 +27902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugarcreek | 204110 | [204110-sugarcreek.json](./204110-sugarcreek.json) |
 | Sugardew Island: Christmas Bundle | 385187 | [385187-sugardew-island-christmas-bundle.json](./385187-sugardew-island-christmas-bundle.json) |
 | Sugardew Island: Christmas Costume | 385178 | [385178-sugardew-island-christmas-costume.json](./385178-sugardew-island-christmas-costume.json) |
+| Sugardew Island: Complete Bundle | 401587 | [401587-sugardew-island-complete-bundle.json](./401587-sugardew-island-complete-bundle.json) |
 | Sugardew Island: Vintage Farmer Bundle | 390923 | [390923-sugardew-island-vintage-farmer-bundle.json](./390923-sugardew-island-vintage-farmer-bundle.json) |
 | Sugardew Island: Vintage Farmer Outfit | 390922 | [390922-sugardew-island-vintage-farmer-outfit.json](./390922-sugardew-island-vintage-farmer-outfit.json) |
 | Sugardew Island: Your Cozy Farm Shop | 289259 | [289259-sugardew-island-your-cozy-farm-shop.json](./289259-sugardew-island-your-cozy-farm-shop.json) |
