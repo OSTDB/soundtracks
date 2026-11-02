@@ -5883,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Monsters for Sex Motel | 288886 | [288886-sex-monsters-for-sex-motel.json](./288886-sex-monsters-for-sex-motel.json) |
 | Sex Motel | 288885 | [288885-sex-motel.json](./288885-sex-motel.json) |
 | Sex Novel: Cheating Wife | 418852 | [418852-sex-novel-cheating-wife.json](./418852-sex-novel-cheating-wife.json) |
+| Sex Novel: Swingers Villa | 417821 | [417821-sex-novel-swingers-villa.json](./417821-sex-novel-swingers-villa.json) |
 | Sex Novel: Swingers Yacht | 389755 | [389755-sex-novel-swingers-yacht.json](./389755-sex-novel-swingers-yacht.json) |
 | Sex Office Story | 171580 | [171580-sex-office-story.json](./171580-sex-office-story.json) |
 | Sex Olympics | 289398 | [289398-sex-olympics.json](./289398-sex-olympics.json) |
@@ -8637,6 +8638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooty Space | 86251 | [86251-shooty-space.json](./86251-shooty-space.json) |
 | Shooty Space Adventure | 58768 | [58768-shooty-space-adventure.json](./58768-shooty-space-adventure.json) |
 | Shooty Squad | 55420 | [55420-shooty-squad.json](./55420-shooty-squad.json) |
+| ShootyCraft | 417791 | [417791-shootycraft.json](./417791-shootycraft.json) |
 | Shop Battle | 115399 | [115399-shop-battle.json](./115399-shop-battle.json) |
 | Shop Crush | 310059 | [310059-shop-crush.json](./310059-shop-crush.json) |
 | Shop Empire | 270596 | [270596-shop-empire.json](./270596-shop-empire.json) |
@@ -10560,6 +10562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin City | 77967 | [77967-sin-city.json](./77967-sin-city.json) |
 | SiN Episodes: Emergence | 14788 | [14788-sin-episodes-emergence.json](./14788-sin-episodes-emergence.json) |
 | SiN Gold | 51909 | [51909-sin-gold.json](./51909-sin-gold.json) |
+| Sin Hotel | 417823 | [417823-sin-hotel.json](./417823-sin-hotel.json) |
 | Sin or Suffer | 413137 | [413137-sin-or-suffer.json](./413137-sin-or-suffer.json) |
 | Sin Return | 387481 | [387481-sin-return.json](./387481-sin-return.json) |
 | Sin Slayers | 81650 | [81650-sin-slayers.json](./81650-sin-slayers.json) |
@@ -17562,6 +17565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur: Unbreakable Soul | 25145 | [25145-soulcalibur-unbreakable-soul.json](./25145-soulcalibur-unbreakable-soul.json) |
 | SoulCast | 240890 | [240890-soulcast.json](./240890-soulcast.json) |
 | Soulcaster | 150680 | [150680-soulcaster.json](./150680-soulcaster.json) |
+| Soulcaster | 417748 | [417748-soulcaster.json](./417748-soulcaster.json) |
 | Soulcaster II | 91656 | [91656-soulcaster-ii.json](./91656-soulcaster-ii.json) |
 | Soulcaster: Part I & II | 33074 | [33074-soulcaster-part-i-and-ii.json](./33074-soulcaster-part-i-and-ii.json) |
 | Soulchain | 342042 | [342042-soulchain.json](./342042-soulchain.json) |
@@ -19908,6 +19912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Strike | 395350 | [395350-spell-strike.json](./395350-spell-strike.json) |
 | Spell Sweeper | 192598 | [192598-spell-sweeper.json](./192598-spell-sweeper.json) |
 | Spell Tonaeru | 319150 | [319150-spell-tonaeru.json](./319150-spell-tonaeru.json) |
+| Spell Unbound | 417183 | [417183-spell-unbound.json](./417183-spell-unbound.json) |
 | Spell Weaver | 335381 | [335381-spell-weaver.json](./335381-spell-weaver.json) |
 | Spell Welders | 199501 | [199501-spell-welders.json](./199501-spell-welders.json) |
 | Spellagories | 208784 | [208784-spellagories.json](./208784-spellagories.json) |
@@ -26030,6 +26035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategy Battles​ | 221753 | [221753-strategy-battles.json](./221753-strategy-battles.json) |
 | Strategy Challenges Collection 1 | 134475 | [134475-strategy-challenges-collection-1.json](./134475-strategy-challenges-collection-1.json) |
 | Strategy Challenges Collection 2 | 80846 | [80846-strategy-challenges-collection-2.json](./80846-strategy-challenges-collection-2.json) |
+| Strategy Defense | 417805 | [417805-strategy-defense.json](./417805-strategy-defense.json) |
 | Strategy Game but With a Penguin Who Has a Sword | 251959 | [251959-strategy-game-but-with-a-penguin-who-has-a-sword.json](./251959-strategy-game-but-with-a-penguin-who-has-a-sword.json) |
 | Strategy Game Pack Volume 1 | 71718 | [71718-strategy-game-pack-volume-1.json](./71718-strategy-game-pack-volume-1.json) |
 | Strategy Games | 84213 | [84213-strategy-games.json](./84213-strategy-games.json) |
@@ -27547,6 +27553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudocity | 216866 | [216866-sudocity.json](./216866-sudocity.json) |
 | SudoKats | 164995 | [164995-sudokats.json](./164995-sudokats.json) |
 | Sudoki | 219089 | [219089-sudoki.json](./219089-sudoki.json) |
+| Sudokiller | 417211 | [417211-sudokiller.json](./417211-sudokiller.json) |
 | Sudokku Elite Collection | 58256 | [58256-sudokku-elite-collection.json](./58256-sudokku-elite-collection.json) |
 | Sudoku | 131490 | [131490-sudoku.json](./131490-sudoku.json) |
 | Sudoku | 131505 | [131505-sudoku.json](./131505-sudoku.json) |
@@ -28586,6 +28593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Airwolf | 45548 | [45548-super-airwolf.json](./45548-super-airwolf.json) |
 | Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
 | Super Alfred Chicken | 44455 | [44455-super-alfred-chicken.json](./44455-super-alfred-chicken.json) |
+| Super Algator Bros | 417811 | [417811-super-algator-bros.json](./417811-super-algator-bros.json) |
 | Super Algebrawl | 283889 | [283889-super-algebrawl.json](./283889-super-algebrawl.json) |
 | Super Alice Dolls! | 294717 | [294717-super-alice-dolls.json](./294717-super-alice-dolls.json) |
 | Super Alicorn Sisters: Return of the Tantabus | 261187 | [261187-super-alicorn-sisters-return-of-the-tantabus.json](./261187-super-alicorn-sisters-return-of-the-tantabus.json) |
@@ -32303,6 +32311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Dieland | 160257 | [160257-survivor-dieland.json](./160257-survivor-dieland.json) |
 | Survivor Fantasia | 284605 | [284605-survivor-fantasia.json](./284605-survivor-fantasia.json) |
 | Survivor Girls | 277367 | [277367-survivor-girls.json](./277367-survivor-girls.json) |
+| Survivor Girls of Monster Dungeon | 417813 | [417813-survivor-girls-of-monster-dungeon.json](./417813-survivor-girls-of-monster-dungeon.json) |
 | Survivor Heroes | 313222 | [313222-survivor-heroes.json](./313222-survivor-heroes.json) |
 | Survivor Idle Run | 248124 | [248124-survivor-idle-run.json](./248124-survivor-idle-run.json) |
 | Survivor In Rainbow Monster | 223897 | [223897-survivor-in-rainbow-monster.json](./223897-survivor-in-rainbow-monster.json) |
@@ -33579,6 +33588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylox | 357388 | [357388-sylox.json](./357388-sylox.json) |
 | Sylph | 395193 | [395193-sylph.json](./395193-sylph.json) |
 | Sylphia | 37598 | [37598-sylphia.json](./37598-sylphia.json) |
+| Sylv and the Ancient Tree | 417782 | [417782-sylv-and-the-ancient-tree.json](./417782-sylv-and-the-ancient-tree.json) |
 | Sylva: Curse of the Demon Woods | 392245 | [392245-sylva-curse-of-the-demon-woods.json](./392245-sylva-curse-of-the-demon-woods.json) |
 | Sylvan Disappearance | 260974 | [260974-sylvan-disappearance.json](./260974-sylvan-disappearance.json) |
 | Sylvan Idyll | 97284 | [97284-sylvan-idyll.json](./97284-sylvan-idyll.json) |
