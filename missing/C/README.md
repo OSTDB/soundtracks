@@ -9730,6 +9730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clinton vs. Trump: Head Soccer Challenge | 261526 | [261526-clinton-vs-trump-head-soccer-challenge.json](./261526-clinton-vs-trump-head-soccer-challenge.json) |
 | Clione's Bomb-Bomb Sweeper | 369050 | [369050-cliones-bomb-bomb-sweeper.json](./369050-cliones-bomb-bomb-sweeper.json) |
 | Clip Grip Power | 110014 | [110014-clip-grip-power.json](./110014-clip-grip-power.json) |
+| Clipmatrix | 414073 | [414073-clipmatrix.json](./414073-clipmatrix.json) |
 | Clipped | 132588 | [132588-clipped.json](./132588-clipped.json) |
 | Clippyworld: An Unexpected Journey | 260787 | [260787-clippyworld-an-unexpected-journey.json](./260787-clippyworld-an-unexpected-journey.json) |
 | Clive 'N' Wrench | 59598 | [59598-clive-n-wrench.json](./59598-clive-n-wrench.json) |
@@ -14441,6 +14442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Crossline: Crime War | 219304 | [219304-counter-crossline-crime-war.json](./219304-counter-crossline-crime-war.json) |
 | Counter Delta 2: Eastern Crisis | 259574 | [259574-counter-delta-2-eastern-crisis.json](./259574-counter-delta-2-eastern-crisis.json) |
 | Counter Delta: The Bullet Rain | 192065 | [192065-counter-delta-the-bullet-rain.json](./192065-counter-delta-the-bullet-rain.json) |
+| Counter Ducks | 414033 | [414033-counter-ducks.json](./414033-counter-ducks.json) |
 | Counter Fight | 30643 | [30643-counter-fight.json](./30643-counter-fight.json) |
 | Counter Fight 4 | 129385 | [129385-counter-fight-4.json](./129385-counter-fight-4.json) |
 | Counter Fight Ichiran | 172146 | [172146-counter-fight-ichiran.json](./172146-counter-fight-ichiran.json) |
