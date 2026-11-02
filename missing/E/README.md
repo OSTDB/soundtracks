@@ -1950,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritch Lands: The Witch Queen's Eternal War | 190899 | [190899-eldritch-lands-the-witch-queens-eternal-war.json](./190899-eldritch-lands-the-witch-queens-eternal-war.json) |
 | Eldritch Soul | 320839 | [320839-eldritch-soul.json](./320839-eldritch-soul.json) |
 | Eldritch Survivors | 335728 | [335728-eldritch-survivors.json](./335728-eldritch-survivors.json) |
+| Eldritch Tactics: Apocalypse Rising | 401589 | [401589-eldritch-tactics-apocalypse-rising.json](./401589-eldritch-tactics-apocalypse-rising.json) |
 | Eldritch Tactics: Lichtmond | 301293 | [301293-eldritch-tactics-lichtmond.json](./301293-eldritch-tactics-lichtmond.json) |
 | Eldritch Town | 258540 | [258540-eldritch-town.json](./258540-eldritch-town.json) |
 | Eldritch University | 121475 | [121475-eldritch-university.json](./121475-eldritch-university.json) |
