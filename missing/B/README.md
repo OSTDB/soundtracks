@@ -902,7 +902,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6478,6 +6477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beware of Light | 297355 | [297355-beware-of-light.json](./297355-beware-of-light.json) |
 | Beware of Space Dragons | 348423 | [348423-beware-of-space-dragons.json](./348423-beware-of-space-dragons.json) |
 | Beware of the Bad Seed | 90504 | [90504-beware-of-the-bad-seed.json](./90504-beware-of-the-bad-seed.json) |
+| Beware of the Black Fleet | 24301 | [24301-beware-of-the-black-fleet.json](./24301-beware-of-the-black-fleet.json) |
 | Beware of the Blob | 137652 | [137652-beware-of-the-blob.json](./137652-beware-of-the-blob.json) |
 | Beware of Trains | 105583 | [105583-beware-of-trains.json](./105583-beware-of-trains.json) |
 | Beware the Bully Redux | 211451 | [211451-beware-the-bully-redux.json](./211451-beware-the-bully-redux.json) |
@@ -7973,6 +7973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birola World | 267903 | [267903-birola-world.json](./267903-birola-world.json) |
 | Birth ME Code | 132416 | [132416-birth-me-code.json](./132416-birth-me-code.json) |
 | Birth of a Hunter | 115344 | [115344-birth-of-a-hunter.json](./115344-birth-of-a-hunter.json) |
+| Birth of America | 23101 | [23101-birth-of-america.json](./23101-birth-of-america.json) |
 | Birth of America 2: Wars in America | 59496 | [59496-birth-of-america-2-wars-in-america.json](./59496-birth-of-america-2-wars-in-america.json) |
 | Birth of Rome: Alea Jacta Est | 62138 | [62138-birth-of-rome-alea-jacta-est.json](./62138-birth-of-rome-alea-jacta-est.json) |
 | Birth of Shadows | 34490 | [34490-birth-of-shadows.json](./34490-birth-of-shadows.json) |
@@ -9597,6 +9598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blipz | 189050 | [189050-blipz.json](./189050-blipz.json) |
 | Bliss | 148891 | [148891-bliss.json](./148891-bliss.json) |
 | Bliss | 17685 | [17685-bliss.json](./17685-bliss.json) |
+| Bliss Island | 23102 | [23102-bliss-island.json](./23102-bliss-island.json) |
 | Bliss Maze | 110658 | [110658-bliss-maze.json](./110658-bliss-maze.json) |
 | Bliss Valley | 336062 | [336062-bliss-valley.json](./336062-bliss-valley.json) |
 | Blister Blight | 290615 | [290615-blister-blight.json](./290615-blister-blight.json) |
@@ -14992,6 +14994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brooklyn Trash King | 172508 | [172508-brooklyn-trash-king.json](./172508-brooklyn-trash-king.json) |
 | Brooks in Wild West | 272258 | [272258-brooks-in-wild-west.json](./272258-brooks-in-wild-west.json) |
 | Brooktown High | 19255 | [19255-brooktown-high.json](./19255-brooktown-high.json) |
+| Brooktown High: Senior Year | 24283 | [24283-brooktown-high-senior-year.json](./24283-brooktown-high-senior-year.json) |
 | Brookwood: Pocket Tactics | 329696 | [329696-brookwood-pocket-tactics.json](./329696-brookwood-pocket-tactics.json) |
 | Broom Alien | 395447 | [395447-broom-alien.json](./395447-broom-alien.json) |
 | Broom Broom | 387655 | [387655-broom-broom.json](./387655-broom-broom.json) |
