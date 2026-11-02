@@ -1558,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NecroCity | 217166 | [217166-necrocity.json](./217166-necrocity.json) |
 | Necrocosmos: There Is No God Up Here | 54763 | [54763-necrocosmos-there-is-no-god-up-here.json](./54763-necrocosmos-there-is-no-god-up-here.json) |
 | Necrocrisis | 208427 | [208427-necrocrisis.json](./208427-necrocrisis.json) |
+| Necrocyte | 426418 | [426418-necrocyte.json](./426418-necrocyte.json) |
 | Necrodome | 8694 | [8694-necrodome.json](./8694-necrodome.json) |
 | Necrodungeon | 358278 | [358278-necrodungeon.json](./358278-necrodungeon.json) |
 | Necrofall | 401814 | [401814-necrofall.json](./401814-necrofall.json) |
@@ -1644,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NecroVisioN: Lost Company | 16146 | [16146-necrovision-lost-company.json](./16146-necrovision-lost-company.json) |
 | Necrow Co. | 187735 | [187735-necrow-co.json](./187735-necrow-co.json) |
 | Necrowarp | 129691 | [129691-necrowarp.json](./129691-necrowarp.json) |
+| Necrowarp | 426430 | [426430-necrowarp.json](./426430-necrowarp.json) |
 | Necrowave | 211013 | [211013-necrowave.json](./211013-necrowave.json) |
 | Necrowhisper | 388907 | [388907-necrowhisper.json](./388907-necrowhisper.json) |
 | NecroWorld | 332946 | [332946-necroworld.json](./332946-necroworld.json) |
@@ -5849,6 +5851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocthra | 414091 | [414091-nocthra.json](./414091-nocthra.json) |
 | Noctilucent: Before Dawn | 350394 | [350394-noctilucent-before-dawn.json](./350394-noctilucent-before-dawn.json) |
 | Noctiria | 409759 | [409759-noctiria.json](./409759-noctiria.json) |
+| Noctis | 426429 | [426429-noctis.json](./426429-noctis.json) |
 | Noctis | 94528 | [94528-noctis.json](./94528-noctis.json) |
 | Noctropolis | 12327 | [12327-noctropolis.json](./12327-noctropolis.json) |
 | Noctropolis | 243766 | [243766-noctropolis.json](./243766-noctropolis.json) |
@@ -7015,6 +7018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null State | 327807 | [327807-null-state.json](./327807-null-state.json) |
 | Null Train | 373497 | [373497-null-train.json](./373497-null-train.json) |
 | Null Transit | 374582 | [374582-null-transit.json](./374582-null-transit.json) |
+| Null Vector | 426424 | [426424-null-vector.json](./426424-null-vector.json) |
 | Null Vector | 55710 | [55710-null-vector.json](./55710-null-vector.json) |
 | Null: Initiative | 396671 | [396671-null-initiative.json](./396671-null-initiative.json) |
 | Null: Remastered | 392719 | [392719-null-remastered.json](./392719-null-remastered.json) |
