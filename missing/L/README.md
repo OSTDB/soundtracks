@@ -7693,6 +7693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Kingdoms II | 3982 | [3982-lost-kingdoms-ii.json](./3982-lost-kingdoms-ii.json) |
 | Lost Kittens: Maze Garden | 166696 | [166696-lost-kittens-maze-garden.json](./166696-lost-kittens-maze-garden.json) |
 | Lost Labyrinth | 65402 | [65402-lost-labyrinth.json](./65402-lost-labyrinth.json) |
+| Lost Labyrinth Extended Version | 34020 | [34020-lost-labyrinth-extended-version.json](./34020-lost-labyrinth-extended-version.json) |
 | Lost Lagoon 2: Cursed and Forgotten | 206651 | [206651-lost-lagoon-2-cursed-and-forgotten.json](./206651-lost-lagoon-2-cursed-and-forgotten.json) |
 | Lost Lagoon: The Trail of Destiny | 214018 | [214018-lost-lagoon-the-trail-of-destiny.json](./214018-lost-lagoon-the-trail-of-destiny.json) |
 | Lost Land Adventure | 124422 | [124422-lost-land-adventure.json](./124422-lost-land-adventure.json) |
