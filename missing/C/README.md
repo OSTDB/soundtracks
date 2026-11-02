@@ -2247,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Guardians | 175698 | [175698-card-guardians.json](./175698-card-guardians.json) |
 | Card Guesser: Red or Black | 324160 | [324160-card-guesser-red-or-black.json](./324160-card-guesser-red-or-black.json) |
 | Card Hog | 126819 | [126819-card-hog.json](./126819-card-hog.json) |
+| Card Homestead | 404614 | [404614-card-homestead.json](./404614-card-homestead.json) |
 | Card Hunter | 17231 | [17231-card-hunter.json](./17231-card-hunter.json) |
 | Card Killer | 158089 | [158089-card-killer.json](./158089-card-killer.json) |
 | Card Linker | 333341 | [333341-card-linker.json](./333341-card-linker.json) |
@@ -4838,6 +4839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Ascent | 292048 | [292048-celestial-ascent.json](./292048-celestial-ascent.json) |
 | Celestial Breach | 30795 | [30795-celestial-breach.json](./30795-celestial-breach.json) |
 | Celestial Clockwork | 374241 | [374241-celestial-clockwork.json](./374241-celestial-clockwork.json) |
+| Celestial Coffee Quest | 404643 | [404643-celestial-coffee-quest.json](./404643-celestial-coffee-quest.json) |
 | Celestial Command | 17978 | [17978-celestial-command.json](./17978-celestial-command.json) |
 | Celestial Correspondence | 135027 | [135027-celestial-correspondence.json](./135027-celestial-correspondence.json) |
 | Celestial Crossing | 29983 | [29983-celestial-crossing.json](./29983-celestial-crossing.json) |
@@ -6413,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessarama | 202691 | [202691-chessarama.json](./202691-chessarama.json) |
 | Chessaria: The Tactical Adventure | 55247 | [55247-chessaria-the-tactical-adventure.json](./55247-chessaria-the-tactical-adventure.json) |
 | ChessBase 1.0 | 290378 | [290378-chessbase-1-0.json](./290378-chessbase-1-0.json) |
+| ChessBase 16: Steam Edition | 404591 | [404591-chessbase-16-steam-edition.json](./404591-chessbase-16-steam-edition.json) |
 | ChessBlaze | 337281 | [337281-chessblaze.json](./337281-chessblaze.json) |
 | Chessboard Kingdoms | 109556 | [109556-chessboard-kingdoms.json](./109556-chessboard-kingdoms.json) |
 | Chesscake | 132626 | [132626-chesscake.json](./132626-chesscake.json) |
@@ -15088,6 +15091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crafting Story | 175326 | [175326-crafting-story.json](./175326-crafting-story.json) |
 | Crafting Town | 199660 | [199660-crafting-town.json](./199660-crafting-town.json) |
 | Crafting Tycoon | 76298 | [76298-crafting-tycoon.json](./76298-crafting-tycoon.json) |
+| Craftiny | 404619 | [404619-craftiny.json](./404619-craftiny.json) |
 | Craftlings | 324569 | [324569-craftlings.json](./324569-craftlings.json) |
 | Craftmas | 105981 | [105981-craftmas.json](./105981-craftmas.json) |
 | Craftomation 101 | 184890 | [184890-craftomation-101.json](./184890-craftomation-101.json) |
@@ -16104,6 +16108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creme de la Creme | 126884 | [126884-creme-de-la-creme.json](./126884-creme-de-la-creme.json) |
 | Creme de la Creme: A Silver Spoon | 238923 | [238923-creme-de-la-creme-a-silver-spoon.json](./238923-creme-de-la-creme-a-silver-spoon.json) |
 | Creo God Simulator | 115401 | [115401-creo-god-simulator.json](./115401-creo-god-simulator.json) |
+| Creovia | 404626 | [404626-creovia.json](./404626-creovia.json) |
 | Crepe Master! | 394504 | [394504-crepe-master.json](./394504-crepe-master.json) |
 | Crepitations | 275210 | [275210-crepitations.json](./275210-crepitations.json) |
 | Crescendo | 176855 | [176855-crescendo.json](./176855-crescendo.json) |
