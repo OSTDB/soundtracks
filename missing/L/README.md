@@ -4014,6 +4014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberta: Rise of Freedom | 250963 | [250963-liberta-rise-of-freedom.json](./250963-liberta-rise-of-freedom.json) |
 | Libertad o Muerte! | 328316 | [328316-libertad-o-muerte.json](./328316-libertad-o-muerte.json) |
 | Libertarian Wario Land | 318524 | [318524-libertarian-wario-land.json](./318524-libertarian-wario-land.json) |
+| Liberte | 157375 | [157375-liberte.json](./157375-liberte.json) |
 | Libertine | 372694 | [372694-libertine.json](./372694-libertine.json) |
 | Liberty Castle: Home of the Free | 199666 | [199666-liberty-castle-home-of-the-free.json](./199666-liberty-castle-home-of-the-free.json) |
 | Liberty City | 196522 | [196522-liberty-city.json](./196522-liberty-city.json) |
