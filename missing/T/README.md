@@ -21756,6 +21756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timothy's Night | 165303 | [165303-timothys-night.json](./165303-timothys-night.json) |
 | Timruk | 191816 | [191816-timruk.json](./191816-timruk.json) |
 | Tims Word Challenge | 406241 | [406241-tims-word-challenge.json](./406241-tims-word-challenge.json) |
+| Timun Mas and Green Giants | 101095 | [101095-timun-mas-and-green-giants.json](./101095-timun-mas-and-green-giants.json) |
 | Tin Can | 139282 | [139282-tin-can.json](./139282-tin-can.json) |
 | Tin Can: Original Tracks | 293774 | [293774-tin-can-original-tracks.json](./293774-tin-can-original-tracks.json) |
 | Tin Coffins | 422683 | [422683-tin-coffins.json](./422683-tin-coffins.json) |
@@ -23912,6 +23913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Chef: The Game | 65350 | [65350-top-chef-the-game.json](./65350-top-chef-the-game.json) |
 | Top Classic Plaigarized | 319095 | [319095-top-classic-plaigarized.json](./319095-top-classic-plaigarized.json) |
 | Top Cop: Police Training | 393050 | [393050-top-cop-police-training.json](./393050-top-cop-police-training.json) |
+| Top Craft exploration | 100957 | [100957-top-craft-exploration.json](./100957-top-craft-exploration.json) |
 | Top Darts | 91918 | [91918-top-darts.json](./91918-top-darts.json) |
 | Top Deck slotmachine | 232356 | [232356-top-deck-slotmachine.json](./232356-top-deck-slotmachine.json) |
 | Top Dog | 213411 | [213411-top-dog.json](./213411-top-dog.json) |
@@ -26919,6 +26921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Valley: Console Edition | 210746 | [210746-train-valley-console-edition.json](./210746-train-valley-console-edition.json) |
 | Train Valley: Deluxe Edition | 53857 | [53857-train-valley-deluxe-edition.json](./53857-train-valley-deluxe-edition.json) |
 | Train Valley: Germany | 154507 | [154507-train-valley-germany.json](./154507-train-valley-germany.json) |
+| Train Vs Car Racing 2 Player | 101087 | [101087-train-vs-car-racing-2-player.json](./101087-train-vs-car-racing-2-player.json) |
 | Train World | 225179 | [225179-train-world.json](./225179-train-world.json) |
 | Train World Driver | 332865 | [332865-train-world-driver.json](./332865-train-world-driver.json) |
 | Train Yard Builder | 167370 | [167370-train-yard-builder.json](./167370-train-yard-builder.json) |
