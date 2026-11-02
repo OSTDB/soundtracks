@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiketsu! Ultra Hero | 49799 | [49799-taiketsu-ultra-hero.json](./49799-taiketsu-ultra-hero.json) |
 | Taiko Drum Master | 37148 | [37148-taiko-drum-master.json](./37148-taiko-drum-master.json) |
 | Taiko Frenzy | 276824 | [276824-taiko-frenzy.json](./276824-taiko-frenzy.json) |
+| Taiko no Tatsujin | 412075 | [412075-taiko-no-tatsujin.json](./412075-taiko-no-tatsujin.json) |
 | Taiko no Tatsujin 10 | 276420 | [276420-taiko-no-tatsujin-10.json](./276420-taiko-no-tatsujin-10.json) |
 | Taiko no Tatsujin 11 | 276422 | [276422-taiko-no-tatsujin-11.json](./276422-taiko-no-tatsujin-11.json) |
 | Taiko no Tatsujin 12 | 342610 | [342610-taiko-no-tatsujin-12.json](./342610-taiko-no-tatsujin-12.json) |
@@ -10442,6 +10443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Immortal | 4444 | [4444-the-immortal.json](./4444-the-immortal.json) |
 | The Immortal Beloved 2 | 284262 | [284262-the-immortal-beloved-2.json](./284262-the-immortal-beloved-2.json) |
 | The Immortal Is Watching | 403077 | [403077-the-immortal-is-watching.json](./403077-the-immortal-is-watching.json) |
+| The Immortal John Triptych | 412111 | [412111-the-immortal-john-triptych.json](./412111-the-immortal-john-triptych.json) |
 | The Immortal Lock | 308269 | [308269-the-immortal-lock.json](./308269-the-immortal-lock.json) |
 | The Immortal Mayor | 152377 | [152377-the-immortal-mayor.json](./152377-the-immortal-mayor.json) |
 | The Immortal Mayor: Kingdom of Women | 262077 | [262077-the-immortal-mayor-kingdom-of-women.json](./262077-the-immortal-mayor-kingdom-of-women.json) |
@@ -14011,6 +14013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Permanent Residence: Souls Kept | 324671 | [324671-the-permanent-residence-souls-kept.json](./324671-the-permanent-residence-souls-kept.json) |
 | The Perplexing Orb | 85439 | [85439-the-perplexing-orb.json](./85439-the-perplexing-orb.json) |
 | The Perplexing Orb 2 | 148560 | [148560-the-perplexing-orb-2.json](./148560-the-perplexing-orb-2.json) |
+| The Perplexing Orb Touch! | 412109 | [412109-the-perplexing-orb-touch.json](./412109-the-perplexing-orb-touch.json) |
 | The Perplexing Orb: Bounce Challenge | 315659 | [315659-the-perplexing-orb-bounce-challenge.json](./315659-the-perplexing-orb-bounce-challenge.json) |
 | The Perplexing Orb: Bounce Mania | 384744 | [384744-the-perplexing-orb-bounce-mania.json](./384744-the-perplexing-orb-bounce-mania.json) |
 | The Perplexing Orb: Bounce N' Roll | 276155 | [276155-the-perplexing-orb-bounce-n-roll.json](./276155-the-perplexing-orb-bounce-n-roll.json) |
@@ -19559,6 +19562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thursday Laundry | 178895 | [178895-thursday-laundry.json](./178895-thursday-laundry.json) |
 | Thursday Nite Thunkin' | 260176 | [260176-thursday-nite-thunkin.json](./260176-thursday-nite-thunkin.json) |
 | Thus Spoke the Donke | 288612 | [288612-thus-spoke-the-donke.json](./288612-thus-spoke-the-donke.json) |
+| Thveit | 412083 | [412083-thveit.json](./412083-thveit.json) |
 | Thwack | 221080 | [221080-thwack.json](./221080-thwack.json) |
 | Thwackity Puttz | 197227 | [197227-thwackity-puttz.json](./197227-thwackity-puttz.json) |
 | Thwocker | 77185 | [77185-thwocker.json](./77185-thwocker.json) |
@@ -19615,6 +19619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiara | 373276 | [373276-tiara.json](./373276-tiara.json) |
 | Tiara Concerto | 86102 | [86102-tiara-concerto.json](./86102-tiara-concerto.json) |
 | Tiara the Deceiving Crown | 120864 | [120864-tiara-the-deceiving-crown.json](./120864-tiara-the-deceiving-crown.json) |
+| Tibby and the Lost and Found | 412113 | [412113-tibby-and-the-lost-and-found.json](./412113-tibby-and-the-lost-and-found.json) |
 | Tiberian War: Ion Shock | 144980 | [144980-tiberian-war-ion-shock.json](./144980-tiberian-war-ion-shock.json) |
 | Tiberium | 94713 | [94713-tiberium.json](./94713-tiberium.json) |
 | Tiberium Chaos | 405890 | [405890-tiberium-chaos.json](./405890-tiberium-chaos.json) |
@@ -22057,6 +22062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Eden | 346609 | [346609-tiny-eden.json](./346609-tiny-eden.json) |
 | Tiny Escape | 392270 | [392270-tiny-escape.json](./392270-tiny-escape.json) |
 | Tiny Europe | 258033 | [258033-tiny-europe.json](./258033-tiny-europe.json) |
+| Tiny Explorer | 412064 | [412064-tiny-explorer.json](./412064-tiny-explorer.json) |
 | Tiny Fantasy | 140426 | [140426-tiny-fantasy.json](./140426-tiny-fantasy.json) |
 | Tiny Farm | 303143 | [303143-tiny-farm.json](./303143-tiny-farm.json) |
 | Tiny Farm: Remastered | 335817 | [335817-tiny-farm-remastered.json](./335817-tiny-farm-remastered.json) |
@@ -29259,6 +29265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Triad | 386989 | [386989-triple-triad.json](./386989-triple-triad.json) |
 | Triple Triad: Tournament of the Elements | 209374 | [209374-triple-triad-tournament-of-the-elements.json](./209374-triple-triad-tournament-of-the-elements.json) |
 | Triple Tris Challenge | 70243 | [70243-triple-tris-challenge.json](./70243-triple-tris-challenge.json) |
+| Triple Trouble: Locker Room Secrets | 412112 | [412112-triple-trouble-locker-room-secrets.json](./412112-triple-trouble-locker-room-secrets.json) |
 | Triple Trouble: Midnight Club | 409504 | [409504-triple-trouble-midnight-club.json](./409504-triple-trouble-midnight-club.json) |
 | Triple Trouble: Private Lesson | 409503 | [409503-triple-trouble-private-lesson.json](./409503-triple-trouble-private-lesson.json) |
 | Triple Twenty: VR Darts | 68500 | [68500-triple-twenty-vr-darts.json](./68500-triple-twenty-vr-darts.json) |
