@@ -1414,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match Solitaire: Summertime | 165683 | [165683-jewel-match-solitaire-summertime.json](./165683-jewel-match-solitaire-summertime.json) |
 | Jewel Match Twilight | 223346 | [223346-jewel-match-twilight.json](./223346-jewel-match-twilight.json) |
 | Jewel Match Twilight 2 | 225217 | [225217-jewel-match-twilight-2.json](./225217-jewel-match-twilight-2.json) |
+| Jewel Match Twilight Solitaire | 107780 | [107780-jewel-match-twilight-solitaire.json](./107780-jewel-match-twilight-solitaire.json) |
 | Jewel Match: Dracula - Collector's Edition | 337273 | [337273-jewel-match-dracula-collectors-edition.json](./337273-jewel-match-dracula-collectors-edition.json) |
 | Jewel Match: Snowscapes | 337274 | [337274-jewel-match-snowscapes.json](./337274-jewel-match-snowscapes.json) |
 | Jewel Match: Solitaire Seasons - Collector's Edition | 309503 | [309503-jewel-match-solitaire-seasons-collectors-edition.json](./309503-jewel-match-solitaire-seasons-collectors-edition.json) |
