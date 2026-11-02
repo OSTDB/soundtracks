@@ -2135,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taoyuan Adventure | 160174 | [160174-taoyuan-adventure.json](./160174-taoyuan-adventure.json) |
 | Tap 'n' Pop 3: Balloon Adventures | 88225 | [88225-tap-n-pop-3-balloon-adventures.json](./88225-tap-n-pop-3-balloon-adventures.json) |
 | Tap 4 Sex | 339416 | [339416-tap-4-sex.json](./339416-tap-4-sex.json) |
+| Tap 4 Sex 2 | 425209 | [425209-tap-4-sex-2.json](./425209-tap-4-sex-2.json) |
 | Tap a Jam | 73290 | [73290-tap-a-jam.json](./73290-tap-a-jam.json) |
 | Tap Adventure | 58609 | [58609-tap-adventure.json](./58609-tap-adventure.json) |
 | Tap Adventure: Time Travel | 27688 | [27688-tap-adventure-time-travel.json](./27688-tap-adventure-time-travel.json) |
@@ -9814,6 +9815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guest | 18184 | [18184-the-guest.json](./18184-the-guest.json) |
 | The Guest | 258393 | [258393-the-guest.json](./258393-the-guest.json) |
 | The Guest: Home Alone | 394171 | [394171-the-guest-home-alone.json](./394171-the-guest-home-alone.json) |
+| The Guestbook of the Otherworld | 425212 | [425212-the-guestbook-of-the-otherworld.json](./425212-the-guestbook-of-the-otherworld.json) |
 | The Guestlist | 244381 | [244381-the-guestlist.json](./244381-the-guestlist.json) |
 | The Guided Fate Paradox | 19802 | [19802-the-guided-fate-paradox.json](./19802-the-guided-fate-paradox.json) |
 | The Guides | 96263 | [96263-the-guides.json](./96263-the-guides.json) |
@@ -10251,6 +10253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hundred Line: Last Defense Academy - Nintendo Switch Version with Sleeve | 385732 | [385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json](./385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json) |
 | The Hundred Year Kingdom | 151737 | [151737-the-hundred-year-kingdom.json](./151737-the-hundred-year-kingdom.json) |
 | The Hundred Youkai Master | 346674 | [346674-the-hundred-youkai-master.json](./346674-the-hundred-youkai-master.json) |
+| The Hundredth Floor: Extraction | 425174 | [425174-the-hundredth-floor-extraction.json](./425174-the-hundredth-floor-extraction.json) |
 | The Hunger Games Adventures | 57708 | [57708-the-hunger-games-adventures.json](./57708-the-hunger-games-adventures.json) |
 | The Hunger Games: Catching Fire - Panem Run | 62600 | [62600-the-hunger-games-catching-fire-panem-run.json](./62600-the-hunger-games-catching-fire-panem-run.json) |
 | The Hunger Games: Panem Rising | 344829 | [344829-the-hunger-games-panem-rising.json](./344829-the-hunger-games-panem-rising.json) |
@@ -10881,6 +10884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Killbox: Arena Combat US | 86976 | [86976-the-killbox-arena-combat-us.json](./86976-the-killbox-arena-combat-us.json) |
 | The Killbox: Leo | 223874 | [223874-the-killbox-leo.json](./223874-the-killbox-leo.json) |
 | The Killer | 212582 | [212582-the-killer.json](./212582-the-killer.json) |
+| The Killer | 425167 | [425167-the-killer.json](./425167-the-killer.json) |
 | The Killer of Dishonor | 150538 | [150538-the-killer-of-dishonor.json](./150538-the-killer-of-dishonor.json) |
 | The Killing Antidote | 287004 | [287004-the-killing-antidote.json](./287004-the-killing-antidote.json) |
 | The Killing Blade Plus | 234816 | [234816-the-killing-blade-plus.json](./234816-the-killing-blade-plus.json) |
@@ -13254,6 +13258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of Haunted Hollow | 89746 | [89746-the-mystery-of-haunted-hollow.json](./89746-the-mystery-of-haunted-hollow.json) |
 | The Mystery of Mount Fang | 287311 | [287311-the-mystery-of-mount-fang.json](./287311-the-mystery-of-mount-fang.json) |
 | The Mystery of Nile | 59644 | [59644-the-mystery-of-nile.json](./59644-the-mystery-of-nile.json) |
+| The Mystery of Oak Island | 425197 | [425197-the-mystery-of-oak-island.json](./425197-the-mystery-of-oak-island.json) |
 | The Mystery of the Art School | 321162 | [321162-the-mystery-of-the-art-school.json](./321162-the-mystery-of-the-art-school.json) |
 | The Mystery of the Buttons Family | 101971 | [101971-the-mystery-of-the-buttons-family.json](./101971-the-mystery-of-the-buttons-family.json) |
 | The Mystery of the Crystal Portal | 88605 | [88605-the-mystery-of-the-crystal-portal.json](./88605-the-mystery-of-the-crystal-portal.json) |
@@ -13686,6 +13691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orphaned Soul | 106338 | [106338-the-orphaned-soul.json](./106338-the-orphaned-soul.json) |
 | The Orpheus Ruse | 33910 | [33910-the-orpheus-ruse.json](./33910-the-orpheus-ruse.json) |
 | The Orville: Interactive Fan Experience | 120669 | [120669-the-orville-interactive-fan-experience.json](./120669-the-orville-interactive-fan-experience.json) |
+| The Ostrakon | 425195 | [425195-the-ostrakon.json](./425195-the-ostrakon.json) |
 | The Othello | 91958 | [91958-the-othello.json](./91958-the-othello.json) |
 | The Other | 185366 | [185366-the-other.json](./185366-the-other.json) |
 | The Other 99 | 19535 | [19535-the-other-99.json](./19535-the-other-99.json) |
@@ -19681,6 +19687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Backpack | 309874 | [309874-tidy-backpack.json](./309874-tidy-backpack.json) |
 | Tidy Backpack: In the Faraway Lands | 412003 | [412003-tidy-backpack-in-the-faraway-lands.json](./412003-tidy-backpack-in-the-faraway-lands.json) |
 | Tidy Cauldron | 288613 | [288613-tidy-cauldron.json](./288613-tidy-cauldron.json) |
+| Tidy Farm | 425169 | [425169-tidy-farm.json](./425169-tidy-farm.json) |
 | Tidy Mart | 411999 | [411999-tidy-mart.json](./411999-tidy-mart.json) |
 | Tidy Shadows | 412004 | [412004-tidy-shadows.json](./412004-tidy-shadows.json) |
 | Tidy Slot Cars | 427242 | [427242-tidy-slot-cars.json](./427242-tidy-slot-cars.json) |
@@ -22028,6 +22035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Kitchen: Sandwich Edition | 380113 | [380113-tiny-kitchen-sandwich-edition.json](./380113-tiny-kitchen-sandwich-edition.json) |
 | Tiny Klepto | 116673 | [116673-tiny-klepto.json](./116673-tiny-klepto.json) |
 | Tiny Knight | 33472 | [33472-tiny-knight.json](./33472-tiny-knight.json) |
+| Tiny Knight and the Corrupted Crystal | 425187 | [425187-tiny-knight-and-the-corrupted-crystal.json](./425187-tiny-knight-and-the-corrupted-crystal.json) |
 | Tiny Knights | 180481 | [180481-tiny-knights.json](./180481-tiny-knights.json) |
 | Tiny Landlord | 213996 | [213996-tiny-landlord.json](./213996-tiny-landlord.json) |
 | Tiny Lands | 142488 | [142488-tiny-lands.json](./142488-tiny-lands.json) |
