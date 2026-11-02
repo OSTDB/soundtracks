@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UEFA Champions League Season 1999/2000 | 43782 | [43782-uefa-champions-league-season-1999-2000.json](./43782-uefa-champions-league-season-1999-2000.json) |
 | UEFA Champions League Season 2000/2001 | 389035 | [389035-uefa-champions-league-season-2000-2001.json](./389035-uefa-champions-league-season-2000-2001.json) |
 | UEFA Champions League Season 2001/2002 | 22058 | [22058-uefa-champions-league-season-2001-2002.json](./22058-uefa-champions-league-season-2001-2002.json) |
+| UEFA CL 2006-2007 | 83854 | [83854-uefa-cl-2006-2007.json](./83854-uefa-cl-2006-2007.json) |
 | UEFA Dream Soccer | 45803 | [45803-uefa-dream-soccer.json](./45803-uefa-dream-soccer.json) |
 | UEFA Euro 2000 | 44831 | [44831-uefa-euro-2000.json](./44831-uefa-euro-2000.json) |
 | UEFA Euro 2008 | 7226 | [7226-uefa-euro-2008.json](./7226-uefa-euro-2008.json) |
@@ -1621,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercover | 321997 | [321997-undercover.json](./321997-undercover.json) |
 | Undercover | 403189 | [403189-undercover.json](./403189-undercover.json) |
 | Undercover AD2025 Kei | 86084 | [86084-undercover-ad2025-kei.json](./86084-undercover-ad2025-kei.json) |
+| Undercover Agent | 84032 | [84032-undercover-agent.json](./84032-undercover-agent.json) |
 | Undercover brother | 164089 | [164089-undercover-brother.json](./164089-undercover-brother.json) |
 | Undercover Cops Gaiden: Hakaishin Garumaa | 71941 | [71941-undercover-cops-gaiden-hakaishin-garumaa.json](./71941-undercover-cops-gaiden-hakaishin-garumaa.json) |
 | Undercover Cops: Collector's Edition | 195986 | [195986-undercover-cops-collectors-edition.json](./195986-undercover-cops-collectors-edition.json) |
@@ -1841,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld Adventure | 384566 | [384566-underworld-adventure.json](./384566-underworld-adventure.json) |
 | Underworld Adventures | 256715 | [256715-underworld-adventures.json](./256715-underworld-adventures.json) |
 | Underworld Ascendant | 19466 | [19466-underworld-ascendant.json](./19466-underworld-ascendant.json) |
+| Underworld Awakening | 84101 | [84101-underworld-awakening.json](./84101-underworld-awakening.json) |
 | Underworld Capital Incident | 146232 | [146232-underworld-capital-incident.json](./146232-underworld-capital-incident.json) |
 | Underworld Debt Roulette | 214909 | [214909-underworld-debt-roulette.json](./214909-underworld-debt-roulette.json) |
 | Underworld Defense | 259515 | [259515-underworld-defense.json](./259515-underworld-defense.json) |
