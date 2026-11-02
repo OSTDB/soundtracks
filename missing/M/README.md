@@ -5217,6 +5217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Castle | 46643 | [46643-math-castle.json](./46643-math-castle.json) |
 | Math Challenge AR | 378534 | [378534-math-challenge-ar.json](./378534-math-challenge-ar.json) |
 | Math Challenge: Workout Brain | 240343 | [240343-math-challenge-workout-brain.json](./240343-math-challenge-workout-brain.json) |
+| Math Challenges 2018 | 100943 | [100943-math-challenges-2018.json](./100943-math-challenges-2018.json) |
 | Math City HD | 232178 | [232178-math-city-hd.json](./232178-math-city-hd.json) |
 | Math Classroom Challenge | 102355 | [102355-math-classroom-challenge.json](./102355-math-classroom-challenge.json) |
 | Math Classroom Challenge | 173144 | [173144-math-classroom-challenge.json](./173144-math-classroom-challenge.json) |
@@ -5469,6 +5470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Capacitor | 208258 | [208258-max-capacitor.json](./208258-max-capacitor.json) |
 | Max Capacity | 267300 | [267300-max-capacity.json](./267300-max-capacity.json) |
 | Max Craft 2: New World HD | 96703 | [96703-max-craft-2-new-world-hd.json](./96703-max-craft-2-new-world-hd.json) |
+| Max Craft: Explore World | 101076 | [101076-max-craft-explore-world.json](./101076-max-craft-explore-world.json) |
 | Max Cross | 413621 | [413621-max-cross.json](./413621-max-cross.json) |
 | Max Dirt Bike | 142086 | [142086-max-dirt-bike.json](./142086-max-dirt-bike.json) |
 | Max Downforce | 182948 | [182948-max-downforce.json](./182948-max-downforce.json) |
@@ -7433,6 +7435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Schwarzschild | 46388 | [46388-mega-schwarzschild.json](./46388-mega-schwarzschild.json) |
 | Mega Screen Solitaire | 330210 | [330210-mega-screen-solitaire.json](./330210-mega-screen-solitaire.json) |
 | Mega Serval | 224750 | [224750-mega-serval.json](./224750-mega-serval.json) |
+| Mega Shooter: Shoot em up | 100922 | [100922-mega-shooter-shoot-em-up.json](./100922-mega-shooter-shoot-em-up.json) |
 | Mega Snake: 16-Bit Edition | 412598 | [412598-mega-snake-16-bit-edition.json](./412598-mega-snake-16-bit-edition.json) |
 | Mega Snake: highly addictive | 232602 | [232602-mega-snake-highly-addictive.json](./232602-mega-snake-highly-addictive.json) |
 | Mega Solitaire | 209528 | [209528-mega-solitaire.json](./209528-mega-solitaire.json) |
@@ -9627,6 +9630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MHZ | 369219 | [369219-mhz.json](./369219-mhz.json) |
 | Mì Chángshēng | 126763 | [126763-mi-changsheng.json](./126763-mi-changsheng.json) |
 | Mi Espada | 288825 | [288825-mi-espada.json](./288825-mi-espada.json) |
+| Mi Mascota Accesible | 100941 | [100941-mi-mascota-accesible.json](./100941-mi-mascota-accesible.json) |
 | Mi Mejor Regalo | 417985 | [417985-mi-mejor-regalo.json](./417985-mi-mejor-regalo.json) |
 | Mi Mi Mi | 119795 | [119795-mi-mi-mi.json](./119795-mi-mi-mi.json) |
 | Mi ni Iku zo! Hedgehog | 228507 | [228507-mi-ni-iku-zo-hedgehog.json](./228507-mi-ni-iku-zo-hedgehog.json) |
@@ -11835,6 +11839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf 2003 | 79593 | [79593-mini-golf-2003.json](./79593-mini-golf-2003.json) |
 | Mini Golf 2016 Pro: Real golf simulation 3D by Bulky Sports | 103127 | [103127-mini-golf-2016-pro-real-golf-simulation-3d-by-bulky-sports.json](./103127-mini-golf-2016-pro-real-golf-simulation-3d-by-bulky-sports.json) |
 | Mini Golf 3D | 117753 | [117753-mini-golf-3d.json](./117753-mini-golf-3d.json) |
+| Mini Golf Arena | 95339 | [95339-mini-golf-arena.json](./95339-mini-golf-arena.json) |
 | Mini Golf Battle | 234504 | [234504-mini-golf-battle.json](./234504-mini-golf-battle.json) |
 | Mini Golf Buddies | 110182 | [110182-mini-golf-buddies.json](./110182-mini-golf-buddies.json) |
 | Mini Golf Castles | 145889 | [145889-mini-golf-castles.json](./145889-mini-golf-castles.json) |
@@ -19428,6 +19433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Mini Farm | 245683 | [245683-my-mini-farm.json](./245683-my-mini-farm.json) |
 | My Mistress | 221202 | [221202-my-mistress.json](./221202-my-mistress.json) |
 | My Mistress Lu Bu | 253892 | [253892-my-mistress-lu-bu.json](./253892-my-mistress-lu-bu.json) |
+| My Mixtapez Racing | 101142 | [101142-my-mixtapez-racing.json](./101142-my-mixtapez-racing.json) |
 | My Mole | 399585 | [399585-my-mole.json](./399585-my-mole.json) |
 | My Mom's Bestfriend! | 346194 | [346194-my-moms-bestfriend.json](./346194-my-moms-bestfriend.json) |
 | My Money Grows On Trees | 347598 | [347598-my-money-grows-on-trees.json](./347598-my-money-grows-on-trees.json) |
