@@ -2514,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Grains | 94529 | [94529-scarlet-grains.json](./94529-scarlet-grains.json) |
 | Scarlet Hollow | 139194 | [139194-scarlet-hollow.json](./139194-scarlet-hollow.json) |
 | Scarlet Hollow: Episode 1 | 170219 | [170219-scarlet-hollow-episode-1.json](./170219-scarlet-hollow-episode-1.json) |
+| Scarlet Hood and the Wicked Wood | 143814 | [143814-scarlet-hood-and-the-wicked-wood.json](./143814-scarlet-hood-and-the-wicked-wood.json) |
 | Scarlet Hood and the Wicked Wood: Deluxe Edition | 154546 | [154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json](./154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json) |
 | Scarlet Idol | 408245 | [408245-scarlet-idol.json](./408245-scarlet-idol.json) |
 | Scarlet Lake | 253872 | [253872-scarlet-lake.json](./253872-scarlet-lake.json) |
@@ -2976,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo: Funland Frenzy | 73002 | [73002-scooby-doo-funland-frenzy.json](./73002-scooby-doo-funland-frenzy.json) |
 | Scooby-Doo: Jinx at the Sphinx | 67791 | [67791-scooby-doo-jinx-at-the-sphinx.json](./67791-scooby-doo-jinx-at-the-sphinx.json) |
 | Scooby-Doo: Math Times Two | 108790 | [108790-scooby-doo-math-times-two.json](./108790-scooby-doo-math-times-two.json) |
+| Scooby-Doo: Phantom of the Knight | 67789 | [67789-scooby-doo-phantom-of-the-knight.json](./67789-scooby-doo-phantom-of-the-knight.json) |
 | Scooby-Doo: Showdown in Ghost Town | 67790 | [67790-scooby-doo-showdown-in-ghost-town.json](./67790-scooby-doo-showdown-in-ghost-town.json) |
 | Scooby-Doo: Spooky Snacks | 108780 | [108780-scooby-doo-spooky-snacks.json](./108780-scooby-doo-spooky-snacks.json) |
 | Scooby-Doo! & Looney Tunes Cartoon Universe: Adventure | 17292 | [17292-scooby-doo-and-looney-tunes-cartoon-universe-adventure.json](./17292-scooby-doo-and-looney-tunes-cartoon-universe-adventure.json) |
@@ -9693,6 +9695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: Shattered Memories | 486 | [486-silent-hill-shattered-memories.json](./486-silent-hill-shattered-memories.json) |
 | Silent Hill: The Arcade | 12075 | [12075-silent-hill-the-arcade.json](./12075-silent-hill-the-arcade.json) |
 | Silent Hill: The Arcade | 324910 | [324910-silent-hill-the-arcade.json](./324910-silent-hill-the-arcade.json) |
+| Silent Hill: The Escape | 69187 | [69187-silent-hill-the-escape.json](./69187-silent-hill-the-escape.json) |
 | Silent Hill: The Gallows | 275627 | [275627-silent-hill-the-gallows.json](./275627-silent-hill-the-gallows.json) |
 | Silent Hill: Townfall | 222342 | [222342-silent-hill-townfall.json](./222342-silent-hill-townfall.json) |
 | Silent Hill: Townfall - Day One Edition | 420561 | [420561-silent-hill-townfall-day-one-edition.json](./420561-silent-hill-townfall-day-one-edition.json) |
@@ -12106,6 +12109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slappy Ass | 111121 | [111121-slappy-ass.json](./111121-slappy-ass.json) |
 | Slappy Board | 216886 | [216886-slappy-board.json](./216886-slappy-board.json) |
 | Slappy Paddles | 250181 | [250181-slappy-paddles.json](./250181-slappy-paddles.json) |
+| Slappyball | 146346 | [146346-slappyball.json](./146346-slappyball.json) |
 | Slapshot | 120904 | [120904-slapshot.json](./120904-slapshot.json) |
 | Slapshot | 26245 | [26245-slapshot.json](./26245-slapshot.json) |
 | Slapshot Ice Hockey | 245409 | [245409-slapshot-ice-hockey.json](./245409-slapshot-ice-hockey.json) |
@@ -16061,6 +16065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Black Ace | 331957 | [331957-sonic-black-ace.json](./331957-sonic-black-ace.json) |
 | Sonic Blast | 19538 | [19538-sonic-blast.json](./19538-sonic-blast.json) |
 | Sonic Blast | 202267 | [202267-sonic-blast.json](./202267-sonic-blast.json) |
+| Sonic Blast Man | 144413 | [144413-sonic-blast-man.json](./144413-sonic-blast-man.json) |
 | Sonic Blast Man | 39804 | [39804-sonic-blast-man.json](./39804-sonic-blast-man.json) |
 | Sonic Blast Man: Real Puncher | 56327 | [56327-sonic-blast-man-real-puncher.json](./56327-sonic-blast-man-real-puncher.json) |
 | Sonic Blaster 2 | 331656 | [331656-sonic-blaster-2.json](./331656-sonic-blaster-2.json) |
@@ -18932,6 +18937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacegirl 2038 | 159836 | [159836-spacegirl-2038.json](./159836-spacegirl-2038.json) |
 | SpaceGlider: Race For Time | 234498 | [234498-spaceglider-race-for-time.json](./234498-spaceglider-race-for-time.json) |
 | Spacegore | 404967 | [404967-spacegore.json](./404967-spacegore.json) |
+| Spacegulls | 145886 | [145886-spacegulls.json](./145886-spacegulls.json) |
 | Spaceguy | 86438 | [86438-spaceguy.json](./86438-spaceguy.json) |
 | Spaceguy 2 | 98334 | [98334-spaceguy-2.json](./98334-spaceguy-2.json) |
 | Spaceguy III | 109749 | [109749-spaceguy-iii.json](./109749-spaceguy-iii.json) |
