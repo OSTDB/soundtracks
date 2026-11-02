@@ -16764,6 +16764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Tsuu | 45976 | [45976-puyo-puyo-tsuu.json](./45976-puyo-puyo-tsuu.json) |
 | Puyo Puyo Zurashi | 251502 | [251502-puyo-puyo-zurashi.json](./251502-puyo-puyo-zurashi.json) |
 | Puyo Puyo! The Medal Edition | 251496 | [251496-puyo-puyo-the-medal-edition.json](./251496-puyo-puyo-the-medal-edition.json) |
+| Puyo Puyo!! 20th Anniversary | 6865 | [6865-puyo-puyo-20th-anniversary.json](./6865-puyo-puyo-20th-anniversary.json) |
 | Puyo Puyo!! 20th Anniversary: Mini Version | 86736 | [86736-puyo-puyo-20th-anniversary-mini-version.json](./86736-puyo-puyo-20th-anniversary-mini-version.json) |
 | Puyo Puyo!! Quest | 80188 | [80188-puyo-puyo-quest.json](./80188-puyo-puyo-quest.json) |
 | Puyo Puyo!! Quest Arcade | 251092 | [251092-puyo-puyo-quest-arcade.json](./251092-puyo-puyo-quest-arcade.json) |
