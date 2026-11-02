@@ -115,7 +115,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabushiki Baibai Trainer Kabutore | 72977 | [72977-kabushiki-baibai-trainer-kabutore.json](./72977-kabushiki-baibai-trainer-kabutore.json) |
 | Kabuto | 239776 | [239776-kabuto.json](./239776-kabuto.json) |
 | Kabuto Kuwagata | 242093 | [242093-kabuto-kuwagata.json](./242093-kabuto-kuwagata.json) |
-| Kabuto Park | 331929 | [331929-kabuto-park.json](./331929-kabuto-park.json) |
 | Kabuto Park + Minami Lane Bundle | 402427 | [402427-kabuto-park-minami-lane-bundle.json](./402427-kabuto-park-minami-lane-bundle.json) |
 | Kaby Arena | 182286 | [182286-kaby-arena.json](./182286-kaby-arena.json) |
 | Kabziman | 331278 | [331278-kabziman.json](./331278-kabziman.json) |
@@ -2680,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3117,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's League: Odyssey | 174594 | [174594-kings-league-odyssey.json](./174594-kings-league-odyssey.json) |
 | King's Legacy | 10488 | [10488-kings-legacy.json](./10488-kings-legacy.json) |
 | King's Legacy: A Crown Divided - Collector's Edition | 338057 | [338057-kings-legacy-a-crown-divided-collectors-edition.json](./338057-kings-legacy-a-crown-divided-collectors-edition.json) |
+| King's Lynn Leisure Farm | 402663 | [402663-kings-lynn-leisure-farm.json](./402663-kings-lynn-leisure-farm.json) |
 | King's Mug | 393138 | [393138-kings-mug.json](./393138-kings-mug.json) |
 | King's Odyssey | 287589 | [287589-kings-odyssey.json](./287589-kings-odyssey.json) |
 | King's Orders | 150880 | [150880-kings-orders.json](./150880-kings-orders.json) |
