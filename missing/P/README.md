@@ -4860,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Series Reference Opus | 285442 | [285442-phantasy-series-reference-opus.json](./285442-phantasy-series-reference-opus.json) |
 | Phantasy Star 0 | 21091 | [21091-phantasy-star-0.json](./21091-phantasy-star-0.json) |
 | Phantasy Star Adventure | 45253 | [45253-phantasy-star-adventure.json](./45253-phantasy-star-adventure.json) |
+| Phantasy Star Chronicles | 22233 | [22233-phantasy-star-chronicles.json](./22233-phantasy-star-chronicles.json) |
 | Phantasy Star Classics | 136870 | [136870-phantasy-star-classics.json](./136870-phantasy-star-classics.json) |
 | Phantasy Star Collection | 136803 | [136803-phantasy-star-collection.json](./136803-phantasy-star-collection.json) |
 | Phantasy Star Gaiden | 45252 | [45252-phantasy-star-gaiden.json](./45252-phantasy-star-gaiden.json) |
@@ -5691,6 +5692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross Bonbon Nonograms | 105156 | [105156-picross-bonbon-nonograms.json](./105156-picross-bonbon-nonograms.json) |
 | Picross Date! | 378431 | [378431-picross-date.json](./378431-picross-date.json) |
 | Picross DS | 10617 | [10617-picross-ds.json](./10617-picross-ds.json) |
+| Picross e | 22277 | [22277-picross-e.json](./22277-picross-e.json) |
 | Picross e2 | 65211 | [65211-picross-e2.json](./65211-picross-e2.json) |
 | Picross e3 | 62913 | [62913-picross-e3.json](./62913-picross-e3.json) |
 | Picross e5 | 79114 | [79114-picross-e5.json](./79114-picross-e5.json) |
