@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet, I Despise Him | 140543 | [140543-yet-i-despise-him.json](./140543-yet-i-despise-him.json) |
 | Yeth | 201832 | [201832-yeth.json](./201832-yeth.json) |
 | Yeti | 68350 | [68350-yeti.json](./68350-yeti.json) |
+| Yeti Adventure | 29234 | [29234-yeti-adventure.json](./29234-yeti-adventure.json) |
 | Yeti Legend: Mystery of the Forest | 294470 | [294470-yeti-legend-mystery-of-the-forest.json](./294470-yeti-legend-mystery-of-the-forest.json) |
 | Yeti Mountain | 408488 | [408488-yeti-mountain.json](./408488-yeti-mountain.json) |
 | Yeti Quest: Crazy Penguins | 294469 | [294469-yeti-quest-crazy-penguins.json](./294469-yeti-quest-crazy-penguins.json) |
