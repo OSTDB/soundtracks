@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-Kai Watch 1 for Nintendo Switch | 136357 | [136357-yo-kai-watch-1-for-nintendo-switch.json](./136357-yo-kai-watch-1-for-nintendo-switch.json) |
 | Yo-kai Watch 1 Smartphone | 308252 | [308252-yo-kai-watch-1-smartphone.json](./308252-yo-kai-watch-1-smartphone.json) |
 | Yo-Kai Watch 2: Bony Spirits | 11658 | [11658-yo-kai-watch-2-bony-spirits.json](./11658-yo-kai-watch-2-bony-spirits.json) |
+| Yo-Kai Watch 2: Fleshy Souls | 24470 | [24470-yo-kai-watch-2-fleshy-souls.json](./24470-yo-kai-watch-2-fleshy-souls.json) |
 | Yo-Kai Watch 2: Psychic Specters | 27129 | [27129-yo-kai-watch-2-psychic-specters.json](./27129-yo-kai-watch-2-psychic-specters.json) |
 | Yo-kai Watch 3 | 113249 | [113249-yo-kai-watch-3.json](./113249-yo-kai-watch-3.json) |
 | Yo-Kai Watch 3: Sushi | 136889 | [136889-yo-kai-watch-3-sushi.json](./136889-yo-kai-watch-3-sushi.json) |
@@ -1429,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youtubers Clicker | 54332 | [54332-youtubers-clicker.json](./54332-youtubers-clicker.json) |
 | Youtubers Life | 19331 | [19331-youtubers-life.json](./19331-youtubers-life.json) |
 | Youtubers Life - Cooking Channel | 89533 | [89533-youtubers-life-cooking-channel.json](./89533-youtubers-life-cooking-channel.json) |
+| Youtubers Life 2 | 145776 | [145776-youtubers-life-2.json](./145776-youtubers-life-2.json) |
 | Youtubers Life: Gaming Channel | 88942 | [88942-youtubers-life-gaming-channel.json](./88942-youtubers-life-gaming-channel.json) |
 | Youtubers Life: OMG Edition | 111159 | [111159-youtubers-life-omg-edition.json](./111159-youtubers-life-omg-edition.json) |
 | Yóuxì Rénshēng: Xīnmó | 154332 | [154332-youxi-rensheng-xinmo.json](./154332-youxi-rensheng-xinmo.json) |
