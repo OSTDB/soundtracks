@@ -4167,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect New World | 175717 | [175717-perfect-new-world.json](./175717-perfect-new-world.json) |
 | Perfect Ninja Bundle | 331486 | [331486-perfect-ninja-bundle.json](./331486-perfect-ninja-bundle.json) |
 | Perfect Ninja Painter 3 | 329513 | [329513-perfect-ninja-painter-3.json](./329513-perfect-ninja-painter-3.json) |
+| Perfect Ninja Painter 4 | 402059 | [402059-perfect-ninja-painter-4.json](./402059-perfect-ninja-painter-4.json) |
 | Perfect Pachinko | 385719 | [385719-perfect-pachinko.json](./385719-perfect-pachinko.json) |
 | Perfect Pair Solitaire | 210005 | [210005-perfect-pair-solitaire.json](./210005-perfect-pair-solitaire.json) |
 | Perfect Park | 135102 | [135102-perfect-park.json](./135102-perfect-park.json) |
@@ -6196,6 +6197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilgrim | 301813 | [301813-pilgrim.json](./301813-pilgrim.json) |
 | Pilgrim | 85593 | [85593-pilgrim.json](./85593-pilgrim.json) |
 | Pilgrim Adventures Complete | 53459 | [53459-pilgrim-adventures-complete.json](./53459-pilgrim-adventures-complete.json) |
+| Pilgrim Alliance | 402084 | [402084-pilgrim-alliance.json](./402084-pilgrim-alliance.json) |
 | Pilgrim of Darkness | 346145 | [346145-pilgrim-of-darkness.json](./346145-pilgrim-of-darkness.json) |
 | Pilgrim Quest | 93320 | [93320-pilgrim-quest.json](./93320-pilgrim-quest.json) |
 | Pilgrim: Faith as a Weapon | 71229 | [71229-pilgrim-faith-as-a-weapon.json](./71229-pilgrim-faith-as-a-weapon.json) |
@@ -12651,6 +12653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Fantasy: Kaze the Samurai | 293498 | [293498-power-fantasy-kaze-the-samurai.json](./293498-power-fantasy-kaze-the-samurai.json) |
 | Power Fantasy: Krampus Night | 279535 | [279535-power-fantasy-krampus-night.json](./279535-power-fantasy-krampus-night.json) |
 | Power Fighters | 79832 | [79832-power-fighters.json](./79832-power-fighters.json) |
+| Power Fishing | 402047 | [402047-power-fishing.json](./402047-power-fishing.json) |
 | Power For Young Inventors | 330363 | [330363-power-for-young-inventors.json](./330363-power-for-young-inventors.json) |
 | Power Gate | 42130 | [42130-power-gate.json](./42130-power-gate.json) |
 | Power Gig: Rise of the SixString | 7135 | [7135-power-gig-rise-of-the-sixstring.json](./7135-power-gig-rise-of-the-sixstring.json) |
@@ -15120,6 +15123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project R | 313104 | [313104-project-r.json](./313104-project-r.json) |
 | Project R2 | 367829 | [367829-project-r2.json](./367829-project-r2.json) |
 | Project R4T | 384159 | [384159-project-r4t.json](./384159-project-r4t.json) |
+| Project Rabbit | 402088 | [402088-project-rabbit.json](./402088-project-rabbit.json) |
 | Project Racer | 214099 | [214099-project-racer.json](./214099-project-racer.json) |
 | Project Ragtag | 75120 | [75120-project-ragtag.json](./75120-project-ragtag.json) |
 | Project Rap Rabbit | 28699 | [28699-project-rap-rabbit.json](./28699-project-rap-rabbit.json) |
