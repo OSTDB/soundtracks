@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hairdresser Simulator | 149731 | [149731-hairdresser-simulator.json](./149731-hairdresser-simulator.json) |
 | Hairdresser Simulator: Beards and Mustaches | 293125 | [293125-hairdresser-simulator-beards-and-mustaches.json](./293125-hairdresser-simulator-beards-and-mustaches.json) |
 | Hairstyle | 104597 | [104597-hairstyle.json](./104597-hairstyle.json) |
+| Hairy Ladies | 417820 | [417820-hairy-ladies.json](./417820-hairy-ladies.json) |
 | Hairy Legs | 91880 | [91880-hairy-legs.json](./91880-hairy-legs.json) |
 | Hairy Tales | 22172 | [22172-hairy-tales.json](./22172-hairy-tales.json) |
 | Hairy Trees Massacre | 299833 | [299833-hairy-trees-massacre.json](./299833-hairy-trees-massacre.json) |
@@ -9636,6 +9637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshiiro no Okurimono | 218376 | [218376-hoshiiro-no-okurimono.json](./218376-hoshiiro-no-okurimono.json) |
 | Hoshiiro no Okurimono Portable | 218377 | [218377-hoshiiro-no-okurimono-portable.json](./218377-hoshiiro-no-okurimono-portable.json) |
 | Hoshimago | 236341 | [236341-hoshimago.json](./236341-hoshimago.json) |
+| Hoshin Engi Re:surrection | 417189 | [417189-hoshin-engi-re-surrection.json](./417189-hoshin-engi-re-surrection.json) |
 | Hoshiomio | 399425 | [399425-hoshiomio.json](./399425-hoshiomio.json) |
 | Hoshis Elektronauts | 81957 | [81957-hoshis-elektronauts.json](./81957-hoshis-elektronauts.json) |
 | Hoshiwari x Yoizanai | 396476 | [396476-hoshiwari-x-yoizanai.json](./396476-hoshiwari-x-yoizanai.json) |
@@ -11967,6 +11969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HypurrX | 336535 | [336535-hypurrx.json](./336535-hypurrx.json) |
 | Hyrax Hill | 419963 | [419963-hyrax-hill.json](./419963-hyrax-hill.json) |
 | Hyrax In The Rocks | 342046 | [342046-hyrax-in-the-rocks.json](./342046-hyrax-in-the-rocks.json) |
+| Hyrule Warriors: Age of Calamity - Definitive Edition | 417167 | [417167-hyrule-warriors-age-of-calamity-definitive-edition.json](./417167-hyrule-warriors-age-of-calamity-definitive-edition.json) |
 | Hyrule Warriors: Age of Calamity - Expansion Pass | 143618 | [143618-hyrule-warriors-age-of-calamity-expansion-pass.json](./143618-hyrule-warriors-age-of-calamity-expansion-pass.json) |
 | Hyrule Warriors: Age of Calamity - Wave 1: Pulse of the Ancients | 184509 | [184509-hyrule-warriors-age-of-calamity-wave-1-pulse-of-the-ancients.json](./184509-hyrule-warriors-age-of-calamity-wave-1-pulse-of-the-ancients.json) |
 | Hyrule Warriors: Age of Calamity - Wave 2: Guardian of Remembrance | 184510 | [184510-hyrule-warriors-age-of-calamity-wave-2-guardian-of-remembrance.json](./184510-hyrule-warriors-age-of-calamity-wave-2-guardian-of-remembrance.json) |
