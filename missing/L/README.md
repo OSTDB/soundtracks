@@ -1326,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Minute | 267018 | [267018-last-minute.json](./267018-last-minute.json) |
 | Last Minute Love | 177908 | [177908-last-minute-love.json](./177908-last-minute-love.json) |
 | Last Minute Shopping | 278544 | [278544-last-minute-shopping.json](./278544-last-minute-shopping.json) |
+| LASt Missing | 420965 | [420965-last-missing.json](./420965-last-missing.json) |
 | Last Mission | 40083 | [40083-last-mission.json](./40083-last-mission.json) |
 | Last Monarch | 204151 | [204151-last-monarch.json](./204151-last-monarch.json) |
 | Last Monday | 402867 | [402867-last-monday.json](./402867-last-monday.json) |
@@ -1557,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Photographer 6 | 228086 | [228086-late-photographer-6.json](./228086-late-photographer-6.json) |
 | Late Shift | 27717 | [27717-late-shift.json](./27717-late-shift.json) |
 | Late Shift | 347060 | [347060-late-shift.json](./347060-late-shift.json) |
+| Late Shift | 420971 | [420971-late-shift.json](./420971-late-shift.json) |
 | Late Shift: Midnight Burger | 346534 | [346534-late-shift-midnight-burger.json](./346534-late-shift-midnight-burger.json) |
 | Late Stage | 269227 | [269227-late-stage.json](./269227-late-stage.json) |
 | Late Stage Capitalism | 355125 | [355125-late-stage-capitalism.json](./355125-late-stage-capitalism.json) |
