@@ -3492,6 +3492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Coaches Club Football | 82801 | [82801-nfl-coaches-club-football.json](./82801-nfl-coaches-club-football.json) |
 | NFL Fever 2000 | 68305 | [68305-nfl-fever-2000.json](./68305-nfl-fever-2000.json) |
 | NFL Fever 2002 | 5961 | [5961-nfl-fever-2002.json](./5961-nfl-fever-2002.json) |
+| NFL Fever 2003 | 5962 | [5962-nfl-fever-2003.json](./5962-nfl-fever-2003.json) |
 | NFL Fever 2004 | 24094 | [24094-nfl-fever-2004.json](./24094-nfl-fever-2004.json) |
 | NFL Flag Heroes | 421411 | [421411-nfl-flag-heroes.json](./421411-nfl-flag-heroes.json) |
 | NFL Flick Quarterback | 58189 | [58189-nfl-flick-quarterback.json](./58189-nfl-flick-quarterback.json) |
@@ -6418,6 +6419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostalgia | 135469 | [135469-nostalgia.json](./135469-nostalgia.json) |
 | Nostalgia | 21904 | [21904-nostalgia.json](./21904-nostalgia.json) |
 | Nostalgia | 360584 | [360584-nostalgia.json](./360584-nostalgia.json) |
+| Nostalgia 1907 | 5407 | [5407-nostalgia-1907.json](./5407-nostalgia-1907.json) |
 | Nostalgia Ain't What It Used to Be | 269101 | [269101-nostalgia-aint-what-it-used-to-be.json](./269101-nostalgia-aint-what-it-used-to-be.json) |
 | Nostalgia Game Shop: Tidy Up | 414768 | [414768-nostalgia-game-shop-tidy-up.json](./414768-nostalgia-game-shop-tidy-up.json) |
 | Nostalgia of Magic | 145593 | [145593-nostalgia-of-magic.json](./145593-nostalgia-of-magic.json) |
@@ -7108,6 +7110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numbra | 346727 | [346727-numbra.json](./346727-numbra.json) |
 | Numbskull | 308343 | [308343-numbskull.json](./308343-numbskull.json) |
 | Numbskull Monogatari | 415958 | [415958-numbskull-monogatari.json](./415958-numbskull-monogatari.json) |
+| Numen: Contest of Heroes | 16195 | [16195-numen-contest-of-heroes.json](./16195-numen-contest-of-heroes.json) |
 | Numenclature | 357249 | [357249-numenclature.json](./357249-numenclature.json) |
 | Numentale | 182889 | [182889-numentale.json](./182889-numentale.json) |
 | Numeral Lord | 221426 | [221426-numeral-lord.json](./221426-numeral-lord.json) |
