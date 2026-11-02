@@ -5134,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne Troops: Countdown to D-Day | 27451 | [27451-airborne-troops-countdown-to-d-day.json](./27451-airborne-troops-countdown-to-d-day.json) |
 | Airborne! | 95457 | [95457-airborne.json](./95457-airborne.json) |
 | Airbreak | 316035 | [316035-airbreak.json](./316035-airbreak.json) |
+| AirBuccaneers | 9134 | [9134-airbuccaneers.json](./9134-airbuccaneers.json) |
 | AirBurst | 77643 | [77643-airburst.json](./77643-airburst.json) |
 | AirBurst Extreme | 71889 | [71889-airburst-extreme.json](./71889-airburst-extreme.json) |
 | Aircar | 121309 | [121309-aircar.json](./121309-aircar.json) |
@@ -5433,6 +5434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akanbe Dragon | 71363 | [71363-akanbe-dragon.json](./71363-akanbe-dragon.json) |
 | Akane Chan-bara | 204685 | [204685-akane-chan-bara.json](./204685-akane-chan-bara.json) |
 | Akane Maniax: Nagareboshi Densetsu Gouda | 62627 | [62627-akane-maniax-nagareboshi-densetsu-gouda.json](./62627-akane-maniax-nagareboshi-densetsu-gouda.json) |
+| Akane the Kunoichi | 8376 | [8376-akane-the-kunoichi.json](./8376-akane-the-kunoichi.json) |
 | Akane-iro ni Somaru Saka Parallels | 79590 | [79590-akane-iro-ni-somaru-saka-parallels.json](./79590-akane-iro-ni-somaru-saka-parallels.json) |
 | Akaneiro ni Somaru Saka | 312678 | [312678-akaneiro-ni-somaru-saka.json](./312678-akaneiro-ni-somaru-saka.json) |
 | Akaneiro ni Somaru Saka Portable | 56532 | [56532-akaneiro-ni-somaru-saka-portable.json](./56532-akaneiro-ni-somaru-saka-portable.json) |
@@ -13124,6 +13126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Chess | 89848 | [89848-army-chess.json](./89848-army-chess.json) |
 | Army Chess Super Online | 99110 | [99110-army-chess-super-online.json](./99110-army-chess-super-online.json) |
 | Army Clash | 295989 | [295989-army-clash.json](./295989-army-clash.json) |
+| Army Corps of Hell | 8643 | [8643-army-corps-of-hell.json](./8643-army-corps-of-hell.json) |
 | Army Days | 13796 | [13796-army-days.json](./13796-army-days.json) |
 | Army Defence | 256519 | [256519-army-defence.json](./256519-army-defence.json) |
 | Army Defender | 66994 | [66994-army-defender.json](./66994-army-defender.json) |
@@ -13712,6 +13715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendance | 178456 | [178456-ascendance.json](./178456-ascendance.json) |
 | Ascendance Fighters | 318000 | [318000-ascendance-fighters.json](./318000-ascendance-fighters.json) |
 | Ascendance Unbound | 380841 | [380841-ascendance-unbound.json](./380841-ascendance-unbound.json) |
+| Ascendant | 9222 | [9222-ascendant.json](./9222-ascendant.json) |
 | Ascendant Dawn | 310276 | [310276-ascendant-dawn.json](./310276-ascendant-dawn.json) |
 | Ascendant Hearts | 75760 | [75760-ascendant-hearts.json](./75760-ascendant-hearts.json) |
 | Ascendant One | 107613 | [107613-ascendant-one.json](./107613-ascendant-one.json) |
@@ -14059,6 +14063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphalt Street Storm Racing | 55883 | [55883-asphalt-street-storm-racing.json](./55883-asphalt-street-storm-racing.json) |
 | Asphalt Xtreme: Offroad Racing | 38940 | [38940-asphalt-xtreme-offroad-racing.json](./38940-asphalt-xtreme-offroad-racing.json) |
 | Asphalt: Car Racing Game | 418318 | [418318-asphalt-car-racing-game.json](./418318-asphalt-car-racing-game.json) |
+| Asphalt: Injection | 8646 | [8646-asphalt-injection.json](./8646-asphalt-injection.json) |
 | Asphalt: Nitro | 23310 | [23310-asphalt-nitro.json](./23310-asphalt-nitro.json) |
 | Asphalt: Overdrive | 18995 | [18995-asphalt-overdrive.json](./18995-asphalt-overdrive.json) |
 | Asphalt: Urban GT | 243184 | [243184-asphalt-urban-gt.json](./243184-asphalt-urban-gt.json) |
@@ -15810,6 +15815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attorney Online | 290388 | [290388-attorney-online.json](./290388-attorney-online.json) |
 | Attouteki Yuugi: Mugen Souls Z | 44589 | [44589-attouteki-yuugi-mugen-souls-z.json](./44589-attouteki-yuugi-mugen-souls-z.json) |
 | Attract Fragments 5 | 119747 | [119747-attract-fragments-5.json](./119747-attract-fragments-5.json) |
+| Attractio | 8650 | [8650-attractio.json](./8650-attractio.json) |
 | Attraction | 185843 | [185843-attraction.json](./185843-attraction.json) |
 | Attraction Force | 198320 | [198320-attraction-force.json](./198320-attraction-force.json) |
 | Attractorache | 109904 | [109904-attractorache.json](./109904-attractorache.json) |
@@ -15833,6 +15839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Offroad Fury | 8269 | [8269-atv-offroad-fury.json](./8269-atv-offroad-fury.json) |
 | ATV Offroad Fury 2 | 8270 | [8270-atv-offroad-fury-2.json](./8270-atv-offroad-fury-2.json) |
 | ATV Offroad Fury 3 | 8271 | [8271-atv-offroad-fury-3.json](./8271-atv-offroad-fury-3.json) |
+| ATV Offroad Fury 4 | 8273 | [8273-atv-offroad-fury-4.json](./8273-atv-offroad-fury-4.json) |
 | ATV Offroad Fury Pro | 8274 | [8274-atv-offroad-fury-pro.json](./8274-atv-offroad-fury-pro.json) |
 | ATV Offroad Fury: Blazin' Trails | 8272 | [8272-atv-offroad-fury-blazin-trails.json](./8272-atv-offroad-fury-blazin-trails.json) |
 | ATV Offroad Simulator 24 | 271091 | [271091-atv-offroad-simulator-24.json](./271091-atv-offroad-simulator-24.json) |
