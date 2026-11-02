@@ -2059,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | kicker VR | 102182 | [102182-kicker-vr.json](./102182-kicker-vr.json) |
 | Kickerinho | 28543 | [28543-kickerinho.json](./28543-kickerinho.json) |
 | Kickerinho World | 153829 | [153829-kickerinho-world.json](./153829-kickerinho-world.json) |
+| Kickflip Kobie | 414712 | [414712-kickflip-kobie.json](./414712-kickflip-kobie.json) |
 | Kickflip Quake | 196518 | [196518-kickflip-quake.json](./196518-kickflip-quake.json) |
 | Kickflip the Horse | 180693 | [180693-kickflip-the-horse.json](./180693-kickflip-the-horse.json) |
 | Kickin Kong | 261532 | [261532-kickin-kong.json](./261532-kickin-kong.json) |
