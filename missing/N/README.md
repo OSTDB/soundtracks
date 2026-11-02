@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 09 | 388398 | [388398-nascar-09.json](./388398-nascar-09.json) |
 | NASCAR 09 | 388399 | [388399-nascar-09.json](./388399-nascar-09.json) |
 | NASCAR 09 | 7104 | [7104-nascar-09.json](./7104-nascar-09.json) |
+| NASCAR 15: Victory Edition | 83881 | [83881-nascar-15-victory-edition.json](./83881-nascar-15-victory-edition.json) |
 | NASCAR 2000 | 3548 | [3548-nascar-2000.json](./3548-nascar-2000.json) |
 | NASCAR 2000 | 70272 | [70272-nascar-2000.json](./70272-nascar-2000.json) |
 | NASCAR 2001 | 45099 | [45099-nascar-2001.json](./45099-nascar-2001.json) |
@@ -6548,6 +6549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Treasure Hunter | 56141 | [56141-not-treasure-hunter.json](./56141-not-treasure-hunter.json) |
 | Not Turn | 404367 | [404367-not-turn.json](./404367-not-turn.json) |
 | Not without my donuts | 35338 | [35338-not-without-my-donuts.json](./35338-not-without-my-donuts.json) |
+| Not Without My Poop | 83525 | [83525-not-without-my-poop.json](./83525-not-without-my-poop.json) |
 | Not Without You | 65389 | [65389-not-without-you.json](./65389-not-without-you.json) |
 | Not Yet | 405941 | [405941-not-yet.json](./405941-not-yet.json) |
 | Not Your Eyes | 156660 | [156660-not-your-eyes.json](./156660-not-your-eyes.json) |
@@ -7218,6 +7220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nǚyǒu yǔ Wǒ de Liàn'ài Rìcháng | 113869 | [113869-nuyou-yu-wo-de-lianai-richang.json](./113869-nuyou-yu-wo-de-lianai-richang.json) |
 | NVA: Mission Vorwärts Immer! | 96541 | [96541-nva-mission-vorwarts-immer.json](./96541-nva-mission-vorwarts-immer.json) |
 | NVIDIA VR Funhouse | 56867 | [56867-nvidia-vr-funhouse.json](./56867-nvidia-vr-funhouse.json) |
+| NVL | 83203 | [83203-nvl.json](./83203-nvl.json) |
 | NvmU | 229558 | [229558-nvmu.json](./229558-nvmu.json) |
 | Nvwa | 212087 | [212087-nvwa.json](./212087-nvwa.json) |
 | NW2Online | 77753 | [77753-nw2online.json](./77753-nw2online.json) |
