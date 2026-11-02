@@ -3882,7 +3882,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Tractor Tycoon | 114070 | [114070-red-tractor-tycoon.json](./114070-red-tractor-tycoon.json) |
 | Red Trees Rail. CO | 305925 | [305925-red-trees-rail-co.json](./305925-red-trees-rail-co.json) |
 | Red Triangle Super Collection | 192154 | [192154-red-triangle-super-collection.json](./192154-red-triangle-super-collection.json) |
-| Red Trigger | 32812 | [32812-red-trigger.json](./32812-red-trigger.json) |
 | Red Turn: The Road to Berlin 1943-45 | 22646 | [22646-red-turn-the-road-to-berlin-1943-45.json](./22646-red-turn-the-road-to-berlin-1943-45.json) |
 | Red Valley | 199389 | [199389-red-valley.json](./199389-red-valley.json) |
 | Red Vanilla 2 | 366733 | [366733-red-vanilla-2.json](./366733-red-vanilla-2.json) |
@@ -7074,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Raiders | 423256 | [423256-rift-raiders.json](./423256-rift-raiders.json) |
 | Rift Rangers | 226949 | [226949-rift-rangers.json](./226949-rift-rangers.json) |
 | Rift Riff | 293543 | [293543-rift-riff.json](./293543-rift-riff.json) |
+| Rift Rumble | 407048 | [407048-rift-rumble.json](./407048-rift-rumble.json) |
 | Rift Runner | 143013 | [143013-rift-runner.json](./143013-rift-runner.json) |
 | Rift Saviours | 275509 | [275509-rift-saviours.json](./275509-rift-saviours.json) |
 | Rift Survivors | 273442 | [273442-rift-survivors.json](./273442-rift-survivors.json) |
@@ -9411,6 +9411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Bones | 184451 | [184451-rogue-bones.json](./184451-rogue-bones.json) |
 | Rogue Bot Adventure | 302215 | [302215-rogue-bot-adventure.json](./302215-rogue-bot-adventure.json) |
 | Rogue Bots | 135507 | [135507-rogue-bots.json](./135507-rogue-bots.json) |
+| Rogue Breaker | 407050 | [407050-rogue-breaker.json](./407050-rogue-breaker.json) |
 | Rogue Bricks | 370898 | [370898-rogue-bricks.json](./370898-rogue-bricks.json) |
 | Rogue Buddies - Aztek Gold | 96227 | [96227-rogue-buddies-aztek-gold.json](./96227-rogue-buddies-aztek-gold.json) |
 | Rogue Candy | 335120 | [335120-rogue-candy.json](./335120-rogue-candy.json) |
@@ -11547,7 +11548,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumple Town | 226501 | [226501-rumple-town.json](./226501-rumple-town.json) |
 | Rumpus | 150522 | [150522-rumpus.json](./150522-rumpus.json) |
 | Rumpus | 30940 | [30940-rumpus.json](./30940-rumpus.json) |
-| Rumu | 74584 | [74584-rumu.json](./74584-rumu.json) |
 | Run | 165472 | [165472-run.json](./165472-run.json) |
 | Run | 359194 | [359194-run.json](./359194-run.json) |
 | Run | 36645 | [36645-run.json](./36645-run.json) |
