@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T-Kara Puzzles | 34208 | [34208-t-kara-puzzles.json](./34208-t-kara-puzzles.json) |
 | T-Mek | 45875 | [45875-t-mek.json](./45875-t-mek.json) |
 | T-Minus 30 | 165418 | [165418-t-minus-30.json](./165418-t-minus-30.json) |
+| T-Mobile Kinect Sports | 83865 | [83865-t-mobile-kinect-sports.json](./83865-t-mobile-kinect-sports.json) |
 | T-night | 285457 | [285457-t-night.json](./285457-t-night.json) |
 | T-Racer | 266865 | [266865-t-racer.json](./266865-t-racer.json) |
 | T-Rex and Muscle Sam: Big Trouble in SPF | 125205 | [125205-t-rex-and-muscle-sam-big-trouble-in-spf.json](./125205-t-rex-and-muscle-sam-big-trouble-in-spf.json) |
@@ -944,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Avamphil | 177925 | [177925-tale-of-avamphil.json](./177925-tale-of-avamphil.json) |
 | Tale of Dark Lands | 333459 | [333459-tale-of-dark-lands.json](./333459-tale-of-dark-lands.json) |
 | Tale of Dark Light | 415748 | [415748-tale-of-dark-light.json](./415748-tale-of-dark-light.json) |
+| Tale of Enki: Pilgrimage | 83955 | [83955-tale-of-enki-pilgrimage.json](./83955-tale-of-enki-pilgrimage.json) |
 | Tale of Excalibun | 348681 | [348681-tale-of-excalibun.json](./348681-tale-of-excalibun.json) |
 | Tale of Exorcists | 375313 | [375313-tale-of-exorcists.json](./375313-tale-of-exorcists.json) |
 | Tale of Fallen Dragons | 30076 | [30076-tale-of-fallen-dragons.json](./30076-tale-of-fallen-dragons.json) |
@@ -984,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Two Sides | 309133 | [309133-tale-of-two-sides.json](./309133-tale-of-two-sides.json) |
 | Tale of Wuxia | 58616 | [58616-tale-of-wuxia.json](./58616-tale-of-wuxia.json) |
 | Tale of Wuxia | 90481 | [90481-tale-of-wuxia.json](./90481-tale-of-wuxia.json) |
+| Tale of Wuxia: The Pre-Sequel | 83832 | [83832-tale-of-wuxia-the-pre-sequel.json](./83832-tale-of-wuxia-the-pre-sequel.json) |
 | Tale of Wuxia: The Pre-Sequel - The Way to Nether | 168201 | [168201-tale-of-wuxia-the-pre-sequel-the-way-to-nether.json](./168201-tale-of-wuxia-the-pre-sequel-the-way-to-nether.json) |
 | Tale's Casino Escape | 130711 | [130711-tales-casino-escape.json](./130711-tales-casino-escape.json) |
 | Taleans Hansel and Gretel story | 98575 | [98575-taleans-hansel-and-gretel-story.json](./98575-taleans-hansel-and-gretel-story.json) |
@@ -2714,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TC Strikers 3 | 169782 | [169782-tc-strikers-3.json](./169782-tc-strikers-3.json) |
 | TC Strikers 4 | 191093 | [191093-tc-strikers-4.json](./191093-tc-strikers-4.json) |
 | TC!Underfell | 306682 | [306682-tc-underfell.json](./306682-tc-underfell.json) |
+| TC's SC Double Agent | 83867 | [83867-tcs-sc-double-agent.json](./83867-tcs-sc-double-agent.json) |
 | Tcaf: Kate Beaton Dress Up!! | 184001 | [184001-tcaf-kate-beaton-dress-up.json](./184001-tcaf-kate-beaton-dress-up.json) |
 | Tcg & Duel | 346375 | [346375-tcg-and-duel.json](./346375-tcg-and-duel.json) |
 | TCG Card Shop Empire | 323680 | [323680-tcg-card-shop-empire.json](./323680-tcg-card-shop-empire.json) |
@@ -5396,6 +5400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alien Trials | 149578 | [149578-the-alien-trials.json](./149578-the-alien-trials.json) |
 | The Alien Way | 147037 | [147037-the-alien-way.json](./147037-the-alien-way.json) |
 | The All New Family Feud | 73657 | [73657-the-all-new-family-feud.json](./73657-the-all-new-family-feud.json) |
+| The All-New 2011 Outlander Sport | 83866 | [83866-the-all-new-2011-outlander-sport.json](./83866-the-all-new-2011-outlander-sport.json) |
 | The Alliance Alive | 25068 | [25068-the-alliance-alive.json](./25068-the-alliance-alive.json) |
 | The Alliance Alive HD Remastered | 115989 | [115989-the-alliance-alive-hd-remastered.json](./115989-the-alliance-alive-hd-remastered.json) |
 | The Alliance Alive HD Remastered: Awakening Edition | 323568 | [323568-the-alliance-alive-hd-remastered-awakening-edition.json](./323568-the-alliance-alive-hd-remastered-awakening-edition.json) |
@@ -7622,6 +7627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dawning Letters: Sunrise | 370475 | [370475-the-dawning-letters-sunrise.json](./370475-the-dawning-letters-sunrise.json) |
 | The Dawnless Days | 356246 | [356246-the-dawnless-days.json](./356246-the-dawnless-days.json) |
 | The Day | 242631 | [242631-the-day.json](./242631-the-day.json) |
+| The Day After: Origins | 76384 | [76384-the-day-after-origins.json](./76384-the-day-after-origins.json) |
 | The Day Before | 142901 | [142901-the-day-before.json](./142901-the-day-before.json) |
 | The Day I Became a Bird | 390967 | [390967-the-day-i-became-a-bird.json](./390967-the-day-i-became-a-bird.json) |
 | The Day I Went Away For a While | 128790 | [128790-the-day-i-went-away-for-a-while.json](./128790-the-day-i-went-away-for-a-while.json) |
@@ -8028,6 +8034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreamland | 343779 | [343779-the-dreamland.json](./343779-the-dreamland.json) |
 | The Dreamland Chronicles | 61734 | [61734-the-dreamland-chronicles.json](./61734-the-dreamland-chronicles.json) |
 | The Dreamlands: Aisling's Quest | 93762 | [93762-the-dreamlands-aislings-quest.json](./93762-the-dreamlands-aislings-quest.json) |
+| The Dreamlord | 83874 | [83874-the-dreamlord.json](./83874-the-dreamlord.json) |
 | The Dreamlurker | 271632 | [271632-the-dreamlurker.json](./271632-the-dreamlurker.json) |
 | The Dreams in the Peacock House | 400888 | [400888-the-dreams-in-the-peacock-house.json](./400888-the-dreams-in-the-peacock-house.json) |
 | The Dreams of Candlelight | 128220 | [128220-the-dreams-of-candlelight.json](./128220-the-dreams-of-candlelight.json) |
@@ -25078,6 +25085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2009 | 21247 | [21247-tour-de-france-2009.json](./21247-tour-de-france-2009.json) |
 | Tour de France 2011 | 92464 | [92464-tour-de-france-2011.json](./92464-tour-de-france-2011.json) |
 | Tour de France 2012 | 94161 | [94161-tour-de-france-2012.json](./94161-tour-de-france-2012.json) |
+| Tour de France 2013 | 83860 | [83860-tour-de-france-2013.json](./83860-tour-de-france-2013.json) |
 | Tour de France 2014 | 80876 | [80876-tour-de-france-2014.json](./80876-tour-de-france-2014.json) |
 | Tour de France 2015 | 60198 | [60198-tour-de-france-2015.json](./60198-tour-de-france-2015.json) |
 | Tour de France 2016 | 82417 | [82417-tour-de-france-2016.json](./82417-tour-de-france-2016.json) |
@@ -27941,6 +27949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transporter Euro Truck Car 18 | 107568 | [107568-transporter-euro-truck-car-18.json](./107568-transporter-euro-truck-car-18.json) |
 | Transporter the Rescue | 92434 | [92434-transporter-the-rescue.json](./92434-transporter-the-rescue.json) |
 | Transporter Truck Simulator | 119043 | [119043-transporter-truck-simulator.json](./119043-transporter-truck-simulator.json) |
+| Transports | 83896 | [83896-transports.json](./83896-transports.json) |
 | Transpose | 109417 | [109417-transpose.json](./109417-transpose.json) |
 | Transputer Man | 85958 | [85958-transputer-man.json](./85958-transputer-man.json) |
 | Transregnum | 338950 | [338950-transregnum.json](./338950-transregnum.json) |
@@ -28545,6 +28554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trenchwitch | 181690 | [181690-trenchwitch.json](./181690-trenchwitch.json) |
 | Trend Ballz | 146077 | [146077-trend-ballz.json](./146077-trend-ballz.json) |
 | Trending Pharaoh | 109515 | [109515-trending-pharaoh.json](./109515-trending-pharaoh.json) |
+| Trendpoker 3D Community Edition | 76437 | [76437-trendpoker-3d-community-edition.json](./76437-trendpoker-3d-community-edition.json) |
 | Trends | 113479 | [113479-trends.json](./113479-trends.json) |
 | Trenga Unlimited | 147257 | [147257-trenga-unlimited.json](./147257-trenga-unlimited.json) |
 | Trepa | 180027 | [180027-trepa.json](./180027-trepa.json) |
