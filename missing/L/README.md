@@ -1780,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layers of Fear: Legacy | 68161 | [68161-layers-of-fear-legacy.json](./68161-layers-of-fear-legacy.json) |
 | Layers of Fear: Masterpiece Edition | 23177 | [23177-layers-of-fear-masterpiece-edition.json](./23177-layers-of-fear-masterpiece-edition.json) |
 | Layers of Fear: Solitude | 125167 | [125167-layers-of-fear-solitude.json](./125167-layers-of-fear-solitude.json) |
+| Layers of Fear: The Final Masterpiece Edition | 385133 | [385133-layers-of-fear-the-final-masterpiece-edition.json](./385133-layers-of-fear-the-final-masterpiece-edition.json) |
 | Layers of the Machine | 119794 | [119794-layers-of-the-machine.json](./119794-layers-of-the-machine.json) |
 | Layerworld | 189018 | [189018-layerworld.json](./189018-layerworld.json) |
 | Layla | 19112 | [19112-layla.json](./19112-layla.json) |
