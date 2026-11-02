@@ -1662,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Law & Order II: Double or Nothing | 70027 | [70027-law-and-order-ii-double-or-nothing.json](./70027-law-and-order-ii-double-or-nothing.json) |
 | Law & Order: Criminal Intent | 69695 | [69695-law-and-order-criminal-intent.json](./69695-law-and-order-criminal-intent.json) |
 | Law & Order: Dead on the Money | 73105 | [73105-law-and-order-dead-on-the-money.json](./73105-law-and-order-dead-on-the-money.json) |
+| Law & Order: Justice is Served | 24251 | [24251-law-and-order-justice-is-served.json](./24251-law-and-order-justice-is-served.json) |
 | Law & Order: Legacies | 18874 | [18874-law-and-order-legacies.json](./18874-law-and-order-legacies.json) |
 | Law & Order: Mushroom Kingdom Unit - Pilot Episode: Tragic Fox "Tails" | 345625 | [345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json](./345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json) |
 | Law and Order: Los Angeles | 79795 | [79795-law-and-order-los-angeles.json](./79795-law-and-order-los-angeles.json) |
@@ -2345,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy Quest | 58659 | [58659-legacy-quest.json](./58659-legacy-quest.json) |
 | Legacy Quest 2 | 192446 | [192446-legacy-quest-2.json](./192446-legacy-quest-2.json) |
 | Legacy Tales: Mercy of the Gallows | 10508 | [10508-legacy-tales-mercy-of-the-gallows.json](./10508-legacy-tales-mercy-of-the-gallows.json) |
+| Legacy: Dark Shadows | 24248 | [24248-legacy-dark-shadows.json](./24248-legacy-dark-shadows.json) |
 | Legacy: Reawakening | 343222 | [343222-legacy-reawakening.json](./343222-legacy-reawakening.json) |
 | Legacy: The Last Pure Heart | 191045 | [191045-legacy-the-last-pure-heart.json](./191045-legacy-the-last-pure-heart.json) |
 | Legacy: The Lost Pyramid | 294545 | [294545-legacy-the-lost-pyramid.json](./294545-legacy-the-lost-pyramid.json) |
@@ -5873,6 +5875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Yellow Submarine | 104689 | [104689-little-yellow-submarine.json](./104689-little-yellow-submarine.json) |
 | Little-Known Galaxy | 273654 | [273654-little-known-galaxy.json](./273654-little-known-galaxy.json) |
 | LittleBigPlanet 2 Extras Edition | 414317 | [414317-littlebigplanet-2-extras-edition.json](./414317-littlebigplanet-2-extras-edition.json) |
+| LittleBigPlanet 2 Toy Story Level Kit DLC | 24239 | [24239-littlebigplanet-2-toy-story-level-kit-dlc.json](./24239-littlebigplanet-2-toy-story-level-kit-dlc.json) |
 | LittleBigPlanet 2: Collector's Edition | 44554 | [44554-littlebigplanet-2-collectors-edition.json](./44554-littlebigplanet-2-collectors-edition.json) |
 | LittleBigPlanet 2: Move Pack | 308657 | [308657-littlebigplanet-2-move-pack.json](./308657-littlebigplanet-2-move-pack.json) |
 | LittleBigPlanet 2: Raven Costume | 344728 | [344728-littlebigplanet-2-raven-costume.json](./344728-littlebigplanet-2-raven-costume.json) |
