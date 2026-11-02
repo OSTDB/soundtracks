@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaboom! | 37537 | [37537-vaboom.json](./37537-vaboom.json) |
 | Vac Attack | 308488 | [308488-vac-attack.json](./308488-vac-attack.json) |
 | Vacancy Unlimited | 153956 | [153956-vacancy-unlimited.json](./153956-vacancy-unlimited.json) |
+| Vacant | 414747 | [414747-vacant.json](./414747-vacant.json) |
 | Vacant | 55554 | [55554-vacant.json](./55554-vacant.json) |
 | Vacant Ark | 266188 | [266188-vacant-ark.json](./266188-vacant-ark.json) |
 | Vacant Kingdom | 189845 | [189845-vacant-kingdom.json](./189845-vacant-kingdom.json) |
