@@ -2903,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Webbed | 139458 | [139458-webbed.json](./139458-webbed.json) |
 | WebbVR: The James Webb Space Telescope Virtual Experience | 111631 | [111631-webbvr-the-james-webb-space-telescope-virtual-experience.json](./111631-webbvr-the-james-webb-space-telescope-virtual-experience.json) |
 | Webcam Love | 338387 | [338387-webcam-love.json](./338387-webcam-love.json) |
+| WebConfessional | 422150 | [422150-webconfessional.json](./422150-webconfessional.json) |
 | Webcott Dungeon | 244326 | [244326-webcott-dungeon.json](./244326-webcott-dungeon.json) |
 | WebCraft | 282219 | [282219-webcraft.json](./282219-webcraft.json) |
 | WebCum Empire Tycoon | 243151 | [243151-webcum-empire-tycoon.json](./243151-webcum-empire-tycoon.json) |
@@ -3286,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolves of London | 13046 | [13046-werewolves-of-london.json](./13046-werewolves-of-london.json) |
 | Werewolves Within | 18399 | [18399-werewolves-within.json](./18399-werewolves-within.json) |
 | Werewolves: Haven Rising | 105572 | [105572-werewolves-haven-rising.json](./105572-werewolves-haven-rising.json) |
+| Werfast | 422200 | [422200-werfast.json](./422200-werfast.json) |
 | Werft-Simulator 2013 | 208482 | [208482-werft-simulator-2013.json](./208482-werft-simulator-2013.json) |
 | Werner Flaschbier | 91939 | [91939-werner-flaschbier.json](./91939-werner-flaschbier.json) |
 | Werner Waffenwerke: Arms Tycoon | 322606 | [322606-werner-waffenwerke-arms-tycoon.json](./322606-werner-waffenwerke-arms-tycoon.json) |
@@ -5950,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Cry 2 | 301129 | [301129-witch-cry-2.json](./301129-witch-cry-2.json) |
 | Witch Cry: Horror House | 233460 | [233460-witch-cry-horror-house.json](./233460-witch-cry-horror-house.json) |
 | Witch Dance | 396645 | [396645-witch-dance.json](./396645-witch-dance.json) |
+| Witch Day | 421603 | [421603-witch-day.json](./421603-witch-day.json) |
 | Witch Elixir | 149370 | [149370-witch-elixir.json](./149370-witch-elixir.json) |
 | Witch Epoch | 203528 | [203528-witch-epoch.json](./203528-witch-epoch.json) |
 | Witch Explorer | 185923 | [185923-witch-explorer.json](./185923-witch-explorer.json) |
@@ -6647,6 +6650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfschanze II | 27646 | [27646-wolfschanze-ii.json](./27646-wolfschanze-ii.json) |
 | Wolfskin's Curse | 178868 | [178868-wolfskins-curse.json](./178868-wolfskins-curse.json) |
 | Wolfsong | 33568 | [33568-wolfsong.json](./33568-wolfsong.json) |
+| Wolfsschanze: Operation Götterdämmerung | 421585 | [421585-wolfsschanze-operation-gotterdammerung.json](./421585-wolfsschanze-operation-gotterdammerung.json) |
 | Wolfstar Adventures in the Inu System | 213405 | [213405-wolfstar-adventures-in-the-inu-system.json](./213405-wolfstar-adventures-in-the-inu-system.json) |
 | Wolfstride | 134952 | [134952-wolfstride.json](./134952-wolfstride.json) |
 | WolfTeam: Classic | 395375 | [395375-wolfteam-classic.json](./395375-wolfteam-classic.json) |
