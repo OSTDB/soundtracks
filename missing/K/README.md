@@ -1484,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keeper of the Sun and Moon | 120840 | [120840-keeper-of-the-sun-and-moon.json](./120840-keeper-of-the-sun-and-moon.json) |
 | Keeper Practise | 291623 | [291623-keeper-practise.json](./291623-keeper-practise.json) |
 | Keeper: The Hunter of Insect | 68619 | [68619-keeper-the-hunter-of-insect.json](./68619-keeper-the-hunter-of-insect.json) |
+| Keeper! | 87376 | [87376-keeper.json](./87376-keeper.json) |
 | Keeper's Curse | 298670 | [298670-keepers-curse.json](./298670-keepers-curse.json) |
 | Keeper's Toll | 216882 | [216882-keepers-toll.json](./216882-keepers-toll.json) |
 | Keeper's Vigil | 405041 | [405041-keepers-vigil.json](./405041-keepers-vigil.json) |
@@ -3801,6 +3802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen Confidence | 236855 | [236855-kitchen-confidence.json](./236855-kitchen-confidence.json) |
 | Kitchen Delights | 290889 | [290889-kitchen-delights.json](./290889-kitchen-delights.json) |
 | Kitchen Frenzy | 174787 | [174787-kitchen-frenzy.json](./174787-kitchen-frenzy.json) |
+| Kitchen Frenzy - Chef Master | 87357 | [87357-kitchen-frenzy-chef-master.json](./87357-kitchen-frenzy-chef-master.json) |
 | Kitchen Gore | 355042 | [355042-kitchen-gore.json](./355042-kitchen-gore.json) |
 | Kitchen Island VR | 158593 | [158593-kitchen-island-vr.json](./158593-kitchen-island-vr.json) |
 | Kitchen Madness | 258905 | [258905-kitchen-madness.json](./258905-kitchen-madness.json) |
