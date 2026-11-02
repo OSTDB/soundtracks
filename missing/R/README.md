@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders of the Lost Ark | 18036 | [18036-raiders-of-the-lost-ark.json](./18036-raiders-of-the-lost-ark.json) |
 | Raiders of the Lost Ark | 326023 | [326023-raiders-of-the-lost-ark.json](./326023-raiders-of-the-lost-ark.json) |
 | Raiders of the Lost Ark: Tanis | 326028 | [326028-raiders-of-the-lost-ark-tanis.json](./326028-raiders-of-the-lost-ark-tanis.json) |
+| Raiders of the North Sea | 121135 | [121135-raiders-of-the-north-sea.json](./121135-raiders-of-the-north-sea.json) |
 | Raiders of Valhalla | 238570 | [238570-raiders-of-valhalla.json](./238570-raiders-of-valhalla.json) |
 | Raiders Rise | 352365 | [352365-raiders-rise.json](./352365-raiders-rise.json) |
 | Raiders Run | 125440 | [125440-raiders-run.json](./125440-raiders-run.json) |
@@ -2603,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReactorX 3 | 331906 | [331906-reactorx-3.json](./331906-reactorx-3.json) |
 | Reactoryx | 330375 | [330375-reactoryx.json](./330375-reactoryx.json) |
 | Read Only Memories: Double Pack | 323983 | [323983-read-only-memories-double-pack.json](./323983-read-only-memories-double-pack.json) |
+| Read Only Memories: Neurodiver | 119401 | [119401-read-only-memories-neurodiver.json](./119401-read-only-memories-neurodiver.json) |
 | Read Only Memories: Neurodiver - Collector's Edition | 292138 | [292138-read-only-memories-neurodiver-collectors-edition.json](./292138-read-only-memories-neurodiver-collectors-edition.json) |
 | Read the Unfinished Donkey Kong Country Story...and then Finish the Adventure! | 328601 | [328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json](./328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json) |
 | Read Watch Listen Plan | 404658 | [404658-read-watch-listen-plan.json](./404658-read-watch-listen-plan.json) |
@@ -4114,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reels of Fortune | 270416 | [270416-reels-of-fortune.json](./270416-reels-of-fortune.json) |
 | Reels of the Damned | 411589 | [411589-reels-of-the-damned.json](./411589-reels-of-the-damned.json) |
 | Reenchant | 365732 | [365732-reenchant.json](./365732-reenchant.json) |
+| Reentry: A Space Flight Simulator | 107906 | [107906-reentry-a-space-flight-simulator.json](./107906-reentry-a-space-flight-simulator.json) |
 | Reese's Pac-Man | 172487 | [172487-reeses-pac-man.json](./172487-reeses-pac-man.json) |
 | Reese’s Puffs x Ambush Breakfastverse | 236682 | [236682-reese-s-puffs-x-ambush-breakfastverse.json](./236682-reese-s-puffs-x-ambush-breakfastverse.json) |
 | Reese's Snake | 213155 | [213155-reeses-snake.json](./213155-reeses-snake.json) |
