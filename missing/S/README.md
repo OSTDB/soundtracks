@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sansara Naga 1x2 | 49793 | [49793-sansara-naga-1x2.json](./49793-sansara-naga-1x2.json) |
 | Sansara Naga 2 | 341473 | [341473-sansara-naga-2.json](./341473-sansara-naga-2.json) |
 | Sansara Naga 2 | 42369 | [42369-sansara-naga-2.json](./42369-sansara-naga-2.json) |
+| Sanslo | 423377 | [423377-sanslo.json](./423377-sanslo.json) |
 | Sansuu Driller | 222245 | [222245-sansuu-driller.json](./222245-sansuu-driller.json) |
 | Sansuu Tsuma Zuki | 345922 | [345922-sansuu-tsuma-zuki.json](./345922-sansuu-tsuma-zuki.json) |
 | Santa | 322024 | [322024-santa.json](./322024-santa.json) |
@@ -2581,6 +2582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scars of Summer: After | 381696 | [381696-scars-of-summer-after.json](./381696-scars-of-summer-after.json) |
 | Scary 8 Bits | 404207 | [404207-scary-8-bits.json](./404207-scary-8-bits.json) |
 | Scary Baboon | 338667 | [338667-scary-baboon.json](./338667-scary-baboon.json) |
+| Scary Baboon: Spooky Baboon | 423407 | [423407-scary-baboon-spooky-baboon.json](./423407-scary-baboon-spooky-baboon.json) |
 | Scary Bendy Neighbor Simulator - Bendy Games 2018 | 103902 | [103902-scary-bendy-neighbor-simulator-bendy-games-2018.json](./103902-scary-bendy-neighbor-simulator-bendy-games-2018.json) |
 | Scary Brawl | 57389 | [57389-scary-brawl.json](./57389-scary-brawl.json) |
 | Scary Bucketman | 319950 | [319950-scary-bucketman.json](./319950-scary-bucketman.json) |
@@ -12608,6 +12610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slicker City | 57492 | [57492-slicker-city.json](./57492-slicker-city.json) |
 | Slickpoo : The Clown | 103983 | [103983-slickpoo-the-clown.json](./103983-slickpoo-the-clown.json) |
 | Slicks 'n' Slide | 11773 | [11773-slicks-n-slide.json](./11773-slicks-n-slide.json) |
+| Slickwave | 423401 | [423401-slickwave.json](./423401-slickwave.json) |
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
 | Slide | 139709 | [139709-slide.json](./139709-slide.json) |
 | Slide | 275456 | [275456-slide.json](./275456-slide.json) |
@@ -14092,6 +14095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snax Lite (Cooking Arcade) | 100230 | [100230-snax-lite-cooking-arcade.json](./100230-snax-lite-cooking-arcade.json) |
 | Snayk 3+ | 411647 | [411647-snayk-3.json](./411647-snayk-3.json) |
 | Snazzy and Groovy in Crystal Town | 313205 | [313205-snazzy-and-groovy-in-crystal-town.json](./313205-snazzy-and-groovy-in-crystal-town.json) |
+| Sneak & Snitch | 423372 | [423372-sneak-and-snitch.json](./423372-sneak-and-snitch.json) |
 | Sneak and Snatch | 78376 | [78376-sneak-and-snatch.json](./78376-sneak-and-snatch.json) |
 | Sneak Attack | 24865 | [24865-sneak-attack.json](./24865-sneak-attack.json) |
 | Sneak Cheese | 421342 | [421342-sneak-cheese.json](./421342-sneak-cheese.json) |
@@ -20172,6 +20176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spice Evaders | 180583 | [180583-spice-evaders.json](./180583-spice-evaders.json) |
 | Spice Odyssey | 310492 | [310492-spice-odyssey.json](./310492-spice-odyssey.json) |
 | Spice Pirates in Space: A Retro RPG | 112623 | [112623-spice-pirates-in-space-a-retro-rpg.json](./112623-spice-pirates-in-space-a-retro-rpg.json) |
+| Spice Pound | 423405 | [423405-spice-pound.json](./423405-spice-pound.json) |
 | Spice Road | 17287 | [17287-spice-road.json](./17287-spice-road.json) |
 | Spice Trade | 302903 | [302903-spice-trade.json](./302903-spice-trade.json) |
 | Spice World | 44907 | [44907-spice-world.json](./44907-spice-world.json) |
