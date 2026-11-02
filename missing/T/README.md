@@ -1524,6 +1524,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tally Castle | 182857 | [182857-tally-castle.json](./182857-tally-castle.json) |
 | Tally Man | 412399 | [412399-tally-man.json](./412399-tally-man.json) |
 | TallyUP | 183865 | [183865-tallyup.json](./183865-tallyup.json) |
+| Talmaria | 422146 | [422146-talmaria.json](./422146-talmaria.json) |
+| Talo Pipi 2 | 422166 | [422166-talo-pipi-2.json](./422166-talo-pipi-2.json) |
 | Talon | 300500 | [300500-talon.json](./300500-talon.json) |
 | Talon City: Death from Above | 214173 | [214173-talon-city-death-from-above.json](./214173-talon-city-death-from-above.json) |
 | Talon One: Bounty Hunter | 305521 | [305521-talon-one-bounty-hunter.json](./305521-talon-one-bounty-hunter.json) |
@@ -4267,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraFirmaGreg | 407783 | [407783-terrafirmagreg.json](./407783-terrafirmagreg.json) |
 | TerraForge | 258527 | [258527-terraforge.json](./258527-terraforge.json) |
 | Terraform | 142048 | [142048-terraform.json](./142048-terraform.json) |
+| Terraform | 421608 | [421608-terraform.json](./421608-terraform.json) |
 | Terraform Co: Factory and City | 423270 | [423270-terraform-co-factory-and-city.json](./423270-terraform-co-factory-and-city.json) |
 | Terraform Inc | 169030 | [169030-terraform-inc.json](./169030-terraform-inc.json) |
 | Terraforma | 238605 | [238605-terraforma.json](./238605-terraforma.json) |
@@ -4618,6 +4621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrapod | 13767 | [13767-tetrapod.json](./13767-tetrapod.json) |
 | Tetraptykon | 261462 | [261462-tetraptykon.json](./261462-tetraptykon.json) |
 | Tetrapulse | 61868 | [61868-tetrapulse.json](./61868-tetrapulse.json) |
+| Tetrarch | 422173 | [422173-tetrarch.json](./422173-tetrarch.json) |
 | Tetras | 336118 | [336118-tetras.json](./336118-tetras.json) |
 | Tetraspace | 59929 | [59929-tetraspace.json](./59929-tetraspace.json) |
 | TetraSquare | 235132 | [235132-tetrasquare.json](./235132-tetrasquare.json) |
@@ -6728,6 +6732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cats of Ulthar | 182557 | [182557-the-cats-of-ulthar.json](./182557-the-cats-of-ulthar.json) |
 | The Cauldron Kids: The Summoning of Mr. Vermicelli | 270879 | [270879-the-cauldron-kids-the-summoning-of-mr-vermicelli.json](./270879-the-cauldron-kids-the-summoning-of-mr-vermicelli.json) |
 | The Cave | 2175 | [2175-the-cave.json](./2175-the-cave.json) |
+| The Cave | 421599 | [421599-the-cave.json](./421599-the-cave.json) |
 | The Cave Exit | 410444 | [410444-the-cave-exit.json](./410444-the-cave-exit.json) |
 | The Cave of Atman | 179066 | [179066-the-cave-of-atman.json](./179066-the-cave-of-atman.json) |
 | The Cave of Magic | 413648 | [413648-the-cave-of-magic.json](./413648-the-cave-of-magic.json) |
@@ -10011,6 +10016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Herbalist | 30942 | [30942-the-herbalist.json](./30942-the-herbalist.json) |
 | The Heritage | 377563 | [377563-the-heritage.json](./377563-the-heritage.json) |
 | The Heritage | 54303 | [54303-the-heritage.json](./54303-the-heritage.json) |
+| The Hermetic Tower | 421560 | [421560-the-hermetic-tower.json](./421560-the-hermetic-tower.json) |
 | The Hermit | 111221 | [111221-the-hermit.json](./111221-the-hermit.json) |
 | The Hermit's Secret | 25131 | [25131-the-hermits-secret.json](./25131-the-hermits-secret.json) |
 | The Hero | 122011 | [122011-the-hero.json](./122011-the-hero.json) |
@@ -12467,6 +12473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost City | 323286 | [323286-the-lost-city.json](./323286-the-lost-city.json) |
 | The Lost City of Atlantis | 14476 | [14476-the-lost-city-of-atlantis.json](./14476-the-lost-city-of-atlantis.json) |
 | The Lost City of Malathedra | 35670 | [35670-the-lost-city-of-malathedra.json](./35670-the-lost-city-of-malathedra.json) |
+| The Lost City of Vampires | 421561 | [421561-the-lost-city-of-vampires.json](./421561-the-lost-city-of-vampires.json) |
 | The Lost Clown | 268736 | [268736-the-lost-clown.json](./268736-the-lost-clown.json) |
 | The Lost Crown | 11621 | [11621-the-lost-crown.json](./11621-the-lost-crown.json) |
 | The Lost Crown of Queen Anne | 70072 | [70072-the-lost-crown-of-queen-anne.json](./70072-the-lost-crown-of-queen-anne.json) |
@@ -12532,6 +12539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Meowgician | 361035 | [361035-the-lost-meowgician.json](./361035-the-lost-meowgician.json) |
 | The Lost Mind of Dr. Brain | 79885 | [79885-the-lost-mind-of-dr-brain.json](./79885-the-lost-mind-of-dr-brain.json) |
 | The Lost Mines | 199103 | [199103-the-lost-mines.json](./199103-the-lost-mines.json) |
+| The Lost Missions of Jax Corden: Episode 9 - In the Clutches of the Vorg | 422198 | [422198-the-lost-missions-of-jax-corden-episode-9-in-the-clutches-of-the-vorg.json](./422198-the-lost-missions-of-jax-corden-episode-9-in-the-clutches-of-the-vorg.json) |
 | The Lost Mixtape | 409411 | [409411-the-lost-mixtape.json](./409411-the-lost-mixtape.json) |
 | The Lost Moon | 247890 | [247890-the-lost-moon.json](./247890-the-lost-moon.json) |
 | The Lost Moonbase | 270697 | [270697-the-lost-moonbase.json](./270697-the-lost-moonbase.json) |
@@ -12560,6 +12568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Streamer | 413791 | [413791-the-lost-streamer.json](./413791-the-lost-streamer.json) |
 | The Lost Strings | 121449 | [121449-the-lost-strings.json](./121449-the-lost-strings.json) |
 | The Lost Temple | 276398 | [276398-the-lost-temple.json](./276398-the-lost-temple.json) |
+| The Lost Temples | 421600 | [421600-the-lost-temples.json](./421600-the-lost-temples.json) |
 | The Lost Tetekoa | 327202 | [327202-the-lost-tetekoa.json](./327202-the-lost-tetekoa.json) |
 | The Lost Throne | 127199 | [127199-the-lost-throne.json](./127199-the-lost-throne.json) |
 | The Lost Tomb | 269080 | [269080-the-lost-tomb.json](./269080-the-lost-tomb.json) |
@@ -12778,6 +12787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Marauder Chronicles: Curse over Valdria | 161901 | [161901-the-marauder-chronicles-curse-over-valdria.json](./161901-the-marauder-chronicles-curse-over-valdria.json) |
 | The Marbians | 336387 | [336387-the-marbians.json](./336387-the-marbians.json) |
 | The Mare Show: Obscure Tech Skin Pack | 374097 | [374097-the-mare-show-obscure-tech-skin-pack.json](./374097-the-mare-show-obscure-tech-skin-pack.json) |
+| The Margot Collapse | 422175 | [422175-the-margot-collapse.json](./422175-the-margot-collapse.json) |
 | The Mariachi Loco | 178909 | [178909-the-mariachi-loco.json](./178909-the-mariachi-loco.json) |
 | The Marionette | 124595 | [124595-the-marionette.json](./124595-the-marionette.json) |
 | The Mark | 10956 | [10956-the-mark.json](./10956-the-mark.json) |
@@ -14904,6 +14914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sabotage | 159503 | [159503-the-sabotage.json](./159503-the-sabotage.json) |
 | The Saboten Man | 154782 | [154782-the-saboten-man.json](./154782-the-saboten-man.json) |
 | The Saboteur | 3171 | [3171-the-saboteur.json](./3171-the-saboteur.json) |
+| The Sacrament of the River God | 422168 | [422168-the-sacrament-of-the-river-god.json](./422168-the-sacrament-of-the-river-god.json) |
 | The Sacred Acorn | 141175 | [141175-the-sacred-acorn.json](./141175-the-sacred-acorn.json) |
 | The Sacred Amulet | 57581 | [57581-the-sacred-amulet.json](./57581-the-sacred-amulet.json) |
 | The Sacred Geography of Kazakhstan | 214701 | [214701-the-sacred-geography-of-kazakhstan.json](./214701-the-sacred-geography-of-kazakhstan.json) |
@@ -22780,6 +22791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobe's Great Escape | 249105 | [249105-tobes-great-escape.json](./249105-tobes-great-escape.json) |
 | Tobe's Hookshot Escape | 248880 | [248880-tobes-hookshot-escape.json](./248880-tobes-hookshot-escape.json) |
 | Tobe's Vertical Adventure | 249141 | [249141-tobes-vertical-adventure.json](./249141-tobes-vertical-adventure.json) |
+| Tobeira | 421601 | [421601-tobeira.json](./421601-tobeira.json) |
 | Toberu yo! Honoka-chan | 405509 | [405509-toberu-yo-honoka-chan.json](./405509-toberu-yo-honoka-chan.json) |
 | Tobeyo!! Dragon! | 59111 | [59111-tobeyo-dragon.json](./59111-tobeyo-dragon.json) |
 | Tobi D+Vine | 265024 | [265024-tobi-d-vine.json](./265024-tobi-d-vine.json) |
@@ -23013,6 +23025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toki: Retrollector | 112962 | [112962-toki-retrollector.json](./112962-toki-retrollector.json) |
 | Tokidoki Frenzies | 249656 | [249656-tokidoki-frenzies.json](./249656-tokidoki-frenzies.json) |
 | Tokigeon | 398399 | [398399-tokigeon.json](./398399-tokigeon.json) |
+| Tokimal | 421602 | [421602-tokimal.json](./421602-tokimal.json) |
 | Tokimeki Card Paradise: Koi no Royal Straight Flush | 310969 | [310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json](./310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json) |
 | Tokimeki Dream Series 1: Ohanaya-san ni Narou! | 49845 | [49845-tokimeki-dream-series-1-ohanaya-san-ni-narou.json](./49845-tokimeki-dream-series-1-ohanaya-san-ni-narou.json) |
 | Tokimeki Factory Complete Box: Tokimeki Memorial Girl's Side | 221602 | [221602-tokimeki-factory-complete-box-tokimeki-memorial-girls-side.json](./221602-tokimeki-factory-complete-box-tokimeki-memorial-girls-side.json) |
