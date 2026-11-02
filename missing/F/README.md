@@ -5361,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fingerbones | 13142 | [13142-fingerbones.json](./13142-fingerbones.json) |
 | Fingerbox | 401628 | [401628-fingerbox.json](./401628-fingerbox.json) |
 | Fingercrafts | 216259 | [216259-fingercrafts.json](./216259-fingercrafts.json) |
+| FingerLaserX | 420913 | [420913-fingerlaserx.json](./420913-fingerlaserx.json) |
 | Fingernail Floss | 257917 | [257917-fingernail-floss.json](./257917-fingernail-floss.json) |
 | Fingers Malone | 330014 | [330014-fingers-malone.json](./330014-fingers-malone.json) |
 | Fingers of Fury | 195508 | [195508-fingers-of-fury.json](./195508-fingers-of-fury.json) |
@@ -6929,6 +6930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Doge | 62183 | [62183-flappy-doge.json](./62183-flappy-doge.json) |
 | Flappy Dot Up! | 232056 | [232056-flappy-dot-up.json](./232056-flappy-dot-up.json) |
 | Flappy Dragon | 316049 | [316049-flappy-dragon.json](./316049-flappy-dragon.json) |
+| Flappy Duck | 420972 | [420972-flappy-duck.json](./420972-flappy-duck.json) |
 | Flappy Dunk | 87053 | [87053-flappy-dunk.json](./87053-flappy-dunk.json) |
 | Flappy Eros | 254411 | [254411-flappy-eros.json](./254411-flappy-eros.json) |
 | Flappy Fetus | 23162 | [23162-flappy-fetus.json](./23162-flappy-fetus.json) |
