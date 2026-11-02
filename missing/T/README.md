@@ -26157,6 +26157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trails in the Sky 1st Chapter: Trendy Headgear Set | 370838 | [370838-trails-in-the-sky-1st-chapter-trendy-headgear-set.json](./370838-trails-in-the-sky-1st-chapter-trendy-headgear-set.json) |
 | Trails in the Sky 2nd Chapter | 377314 | [377314-trails-in-the-sky-2nd-chapter.json](./377314-trails-in-the-sky-2nd-chapter.json) |
 | Trails of Illusion | 197951 | [197951-trails-of-illusion.json](./197951-trails-of-illusion.json) |
+| Trails of Starlight | 423386 | [423386-trails-of-starlight.json](./423386-trails-of-starlight.json) |
 | Trails of Sunder | 241077 | [241077-trails-of-sunder.json](./241077-trails-of-sunder.json) |
 | Trails of Tenere | 182791 | [182791-trails-of-tenere.json](./182791-trails-of-tenere.json) |
 | Trails of the Ancestors | 212828 | [212828-trails-of-the-ancestors.json](./212828-trails-of-the-ancestors.json) |
@@ -28216,6 +28217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TraumaCore Violence | 236518 | [236518-traumacore-violence.json](./236518-traumacore-violence.json) |
 | Traumada | 199363 | [199363-traumada.json](./199363-traumada.json) |
 | Traumakt-4.Sexe | 252035 | [252035-traumakt-4-sexe.json](./252035-traumakt-4-sexe.json) |
+| Traumata | 423395 | [423395-traumata.json](./423395-traumata.json) |
 | Traumatarium | 268457 | [268457-traumatarium.json](./268457-traumatarium.json) |
 | Traumatarium: Penitent | 307745 | [307745-traumatarium-penitent.json](./307745-traumatarium-penitent.json) |
 | Traumatic Syndrome | 132547 | [132547-traumatic-syndrome.json](./132547-traumatic-syndrome.json) |
