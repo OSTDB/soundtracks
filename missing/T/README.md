@@ -1390,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talesworth Adventure: The Lost Artifacts | 111550 | [111550-talesworth-adventure-the-lost-artifacts.json](./111550-talesworth-adventure-the-lost-artifacts.json) |
 | Talevania | 235613 | [235613-talevania.json](./235613-talevania.json) |
 | Talewarden: Riders of the New Day | 361248 | [361248-talewarden-riders-of-the-new-day.json](./361248-talewarden-riders-of-the-new-day.json) |
+| Taleweavers Alliance Anthology | 402085 | [402085-taleweavers-alliance-anthology.json](./402085-taleweavers-alliance-anthology.json) |
 | Talewind | 25307 | [25307-talewind.json](./25307-talewind.json) |
 | Talewyn Harbor | 422013 | [422013-talewyn-harbor.json](./422013-talewyn-harbor.json) |
 | Tali: A Roman Empire Game of Chance | 344489 | [344489-tali-a-roman-empire-game-of-chance.json](./344489-tali-a-roman-empire-game-of-chance.json) |
@@ -14129,6 +14130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pinkman Files | 391523 | [391523-the-pinkman-files.json](./391523-the-pinkman-files.json) |
 | The Pioneers: Surviving Desolation | 171471 | [171471-the-pioneers-surviving-desolation.json](./171471-the-pioneers-surviving-desolation.json) |
 | The PipeTuber's Guide to the Solar System | 373802 | [373802-the-pipetubers-guide-to-the-solar-system.json](./373802-the-pipetubers-guide-to-the-solar-system.json) |
+| The Pirate Keko | 402054 | [402054-the-pirate-keko.json](./402054-the-pirate-keko.json) |
 | The Pirate King | 152731 | [152731-the-pirate-king.json](./152731-the-pirate-king.json) |
 | The Pirate Mermaid | 178528 | [178528-the-pirate-mermaid.json](./178528-the-pirate-mermaid.json) |
 | The Pirate Queen | 127725 | [127725-the-pirate-queen.json](./127725-the-pirate-queen.json) |
@@ -26228,6 +26230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Safety: Air Scrambled Hard | 204271 | [204271-traffic-safety-air-scrambled-hard.json](./204271-traffic-safety-air-scrambled-hard.json) |
 | Traffic Stop Anomaly | 405870 | [405870-traffic-stop-anomaly.json](./405870-traffic-stop-anomaly.json) |
 | Traffic Storm | 132426 | [132426-traffic-storm.json](./132426-traffic-storm.json) |
+| Traffic Survivor | 402055 | [402055-traffic-survivor.json](./402055-traffic-survivor.json) |
 | Traffic Tour | 87282 | [87282-traffic-tour.json](./87282-traffic-tour.json) |
 | Traffic Tour Classic | 249690 | [249690-traffic-tour-classic.json](./249690-traffic-tour-classic.json) |
 | Traffic V | 149931 | [149931-traffic-v.json](./149931-traffic-v.json) |
@@ -28652,6 +28655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Strike | 62110 | [62110-treasure-strike.json](./62110-treasure-strike.json) |
 | Treasure Tech | 140468 | [140468-treasure-tech.json](./140468-treasure-tech.json) |
 | Treasure Temples | 188792 | [188792-treasure-temples.json](./188792-treasure-temples.json) |
+| Treasure Tides | 402050 | [402050-treasure-tides.json](./402050-treasure-tides.json) |
 | Treasure Tile | 157441 | [157441-treasure-tile.json](./157441-treasure-tile.json) |
 | Treasure Tomb VR | 153375 | [153375-treasure-tomb-vr.json](./153375-treasure-tomb-vr.json) |
 | Treasure Tombs: Ra Deal | 250487 | [250487-treasure-tombs-ra-deal.json](./250487-treasure-tombs-ra-deal.json) |
