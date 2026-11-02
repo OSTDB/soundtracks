@@ -11376,6 +11376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Puzzle Pieces of Flower Garden World | 379027 | [379027-mine-puzzle-pieces-of-flower-garden-world.json](./379027-mine-puzzle-pieces-of-flower-garden-world.json) |
 | Mine Quest | 196868 | [196868-mine-quest.json](./196868-mine-quest.json) |
 | Mine Royale - Battle Royale | 111408 | [111408-mine-royale-battle-royale.json](./111408-mine-royale-battle-royale.json) |
+| Mine Runner | 426417 | [426417-mine-runner.json](./426417-mine-runner.json) |
 | Mine Safety | 347472 | [347472-mine-safety.json](./347472-mine-safety.json) |
 | Mine Searcher | 95619 | [95619-mine-searcher.json](./95619-mine-searcher.json) |
 | Mine Seeker | 225731 | [225731-mine-seeker.json](./225731-mine-seeker.json) |
@@ -18086,6 +18087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muri: Wildwoods | 324950 | [324950-muri-wildwoods.json](./324950-muri-wildwoods.json) |
 | Murica | 114890 | [114890-murica.json](./114890-murica.json) |
 | Murk | 143924 | [143924-murk.json](./143924-murk.json) |
+| Murk | 426420 | [426420-murk.json](./426420-murk.json) |
 | Murkon's Refuge | 65490 | [65490-murkons-refuge.json](./65490-murkons-refuge.json) |
 | Murkon's Vengeance | 65491 | [65491-murkons-vengeance.json](./65491-murkons-vengeance.json) |
 | Murky | 184237 | [184237-murky.json](./184237-murky.json) |
