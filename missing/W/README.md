@@ -2574,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayward Puritans | 321203 | [321203-wayward-puritans.json](./321203-wayward-puritans.json) |
 | Wayward Rose | 248050 | [248050-wayward-rose.json](./248050-wayward-rose.json) |
 | Wayward Shadows | 213416 | [213416-wayward-shadows.json](./213416-wayward-shadows.json) |
+| Wayward Sky | 24878 | [24878-wayward-sky.json](./24878-wayward-sky.json) |
 | Wayward Souls: Curse of Shadow | 19270 | [19270-wayward-souls-curse-of-shadow.json](./19270-wayward-souls-curse-of-shadow.json) |
 | Wayward Terran Frontier: Zero Falls | 34680 | [34680-wayward-terran-frontier-zero-falls.json](./34680-wayward-terran-frontier-zero-falls.json) |
 | Wayward Tide | 94066 | [94066-wayward-tide.json](./94066-wayward-tide.json) |
@@ -6337,6 +6338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry Variants: Daphne | 150013 | [150013-wizardry-variants-daphne.json](./150013-wizardry-variants-daphne.json) |
 | Wizardry: Bane of the Cosmic Forge | 10496 | [10496-wizardry-bane-of-the-cosmic-forge.json](./10496-wizardry-bane-of-the-cosmic-forge.json) |
 | Wizardry: Boukyaku no Isan | 245027 | [245027-wizardry-boukyaku-no-isan.json](./245027-wizardry-boukyaku-no-isan.json) |
+| Wizardry: Crusaders of the Dark Savant | 10497 | [10497-wizardry-crusaders-of-the-dark-savant.json](./10497-wizardry-crusaders-of-the-dark-savant.json) |
 | Wizardry: High School Exam | 272881 | [272881-wizardry-high-school-exam.json](./272881-wizardry-high-school-exam.json) |
 | Wizardry: Inochi no Kusabi | 85870 | [85870-wizardry-inochi-no-kusabi.json](./85870-wizardry-inochi-no-kusabi.json) |
 | Wizardry: Knight of Diamonds - The Second Scenario | 2865 | [2865-wizardry-knight-of-diamonds-the-second-scenario.json](./2865-wizardry-knight-of-diamonds-the-second-scenario.json) |
