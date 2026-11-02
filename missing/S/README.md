@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.I.P. SE: Safety is Power | 302386 | [302386-s-i-p-se-safety-is-power.json](./302386-s-i-p-se-safety-is-power.json) |
 | S.K.I.L.L.: Special Force 2 | 17174 | [17174-s-k-i-l-l-special-force-2.json](./17174-s-k-i-l-l-special-force-2.json) |
 | S.K.R.U.B. Squad | 412352 | [412352-s-k-r-u-b-squad.json](./412352-s-k-r-u-b-squad.json) |
+| S.L.A.I.: Steel Lancer Arena International | 22515 | [22515-s-l-a-i-steel-lancer-arena-international.json](./22515-s-l-a-i-steel-lancer-arena-international.json) |
 | S.L.Y Special Project Y | 41083 | [41083-s-l-y-special-project-y.json](./41083-s-l-y-special-project-y.json) |
 | S.M.A.C.K. | 225097 | [225097-s-m-a-c-k.json](./225097-s-m-a-c-k.json) |
 | S.M.A.R.T. Adventures: Mission Math - Sabotage at the Space Station | 86092 | [86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json](./86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json) |
@@ -4665,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages: Sonic the Hedgehog | 96393 | [96393-sega-ages-sonic-the-hedgehog.json](./96393-sega-ages-sonic-the-hedgehog.json) |
 | Sega Ages: Sonic the Hedgehog 2 | 110061 | [110061-sega-ages-sonic-the-hedgehog-2.json](./110061-sega-ages-sonic-the-hedgehog-2.json) |
 | Sega Ages: Space Harrier | 109270 | [109270-sega-ages-space-harrier.json](./109270-sega-ages-space-harrier.json) |
+| Sega Arcade Gallery | 22241 | [22241-sega-arcade-gallery.json](./22241-sega-arcade-gallery.json) |
 | Sega Archives from U.S.A. vol. 1 | 56842 | [56842-sega-archives-from-u-s-a-vol-1.json](./56842-sega-archives-from-u-s-a-vol-1.json) |
 | Sega Astro City Mini | 245662 | [245662-sega-astro-city-mini.json](./245662-sega-astro-city-mini.json) |
 | Sega Astro City Mini V | 245664 | [245664-sega-astro-city-mini-v.json](./245664-sega-astro-city-mini-v.json) |
@@ -7900,6 +7902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Force III: 2nd Scenario | 46062 | [46062-shining-force-iii-2nd-scenario.json](./46062-shining-force-iii-2nd-scenario.json) |
 | Shining Force III: 3rd Scenario | 46061 | [46061-shining-force-iii-3rd-scenario.json](./46061-shining-force-iii-3rd-scenario.json) |
 | Shining Force: Hero of Light and Darkness | 188348 | [188348-shining-force-hero-of-light-and-darkness.json](./188348-shining-force-hero-of-light-and-darkness.json) |
+| Shining Force: Resurrection of the Dark Dragon | 22285 | [22285-shining-force-resurrection-of-the-dark-dragon.json](./22285-shining-force-resurrection-of-the-dark-dragon.json) |
 | Shining Force: The Sword of Hajya | 46360 | [46360-shining-force-the-sword-of-hajya.json](./46360-shining-force-the-sword-of-hajya.json) |
 | Shining Gadget | 221078 | [221078-shining-gadget.json](./221078-shining-gadget.json) |
 | Shining Girls | 292623 | [292623-shining-girls.json](./292623-shining-girls.json) |
@@ -18249,7 +18252,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18595,6 +18597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ric-O-Shay | 64818 | [64818-space-ric-o-shay.json](./64818-space-ric-o-shay.json) |
 | Space Riddle: Spaceship Puzzle | 248645 | [248645-space-riddle-spaceship-puzzle.json](./248645-space-riddle-spaceship-puzzle.json) |
 | Space Rider | 94865 | [94865-space-rider.json](./94865-space-rider.json) |
+| Space Rift | 21963 | [21963-space-rift.json](./21963-space-rift.json) |
 | Space Rift - Episode 1 | 33655 | [33655-space-rift-episode-1.json](./33655-space-rift-episode-1.json) |
 | Space Rift Non-VR - Episode 1 | 30622 | [30622-space-rift-non-vr-episode-1.json](./30622-space-rift-non-vr-episode-1.json) |
 | Space Ripper | 29505 | [29505-space-ripper.json](./29505-space-ripper.json) |
@@ -25762,6 +25765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strashna 2 | 291911 | [291911-strashna-2.json](./291911-strashna-2.json) |
 | Strat-O-Gems Deluxe | 40751 | [40751-strat-o-gems-deluxe.json](./40751-strat-o-gems-deluxe.json) |
 | Strat-O-Matic PC Baseball | 137265 | [137265-strat-o-matic-pc-baseball.json](./137265-strat-o-matic-pc-baseball.json) |
+| Strata | 17165 | [17165-strata.json](./17165-strata.json) |
 | Strata Scavenger | 65219 | [65219-strata-scavenger.json](./65219-strata-scavenger.json) |
 | Stratagem | 289311 | [289311-stratagem.json](./289311-stratagem.json) |
 | Stratagem in troubled times | 168434 | [168434-stratagem-in-troubled-times.json](./168434-stratagem-in-troubled-times.json) |
@@ -27852,6 +27856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Garden | 82183 | [82183-summer-garden.json](./82183-summer-garden.json) |
 | Summer Haze/Glory Days | 309718 | [309718-summer-haze-glory-days.json](./309718-summer-haze-glory-days.json) |
 | Summer Heat | 278092 | [278092-summer-heat.json](./278092-summer-heat.json) |
+| Summer Heat Beach Volleyball | 22242 | [22242-summer-heat-beach-volleyball.json](./22242-summer-heat-beach-volleyball.json) |
 | Summer Horrordays | 177492 | [177492-summer-horrordays.json](./177492-summer-horrordays.json) |
 | Summer in Mara | 109601 | [109601-summer-in-mara.json](./109601-summer-in-mara.json) |
 | Summer in Mara + Deiland Bundle | 188018 | [188018-summer-in-mara-deiland-bundle.json](./188018-summer-in-mara-deiland-bundle.json) |
