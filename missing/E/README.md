@@ -2766,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberlight | 118207 | [118207-emberlight.json](./118207-emberlight.json) |
 | Emberlight | 344271 | [344271-emberlight.json](./344271-emberlight.json) |
 | Emberlost | 420529 | [420529-emberlost.json](./420529-emberlost.json) |
+| EmbeRogue | 401191 | [401191-emberogue.json](./401191-emberogue.json) |
 | Emberrush | 264706 | [264706-emberrush.json](./264706-emberrush.json) |
 | Embers | 291226 | [291226-embers.json](./291226-embers.json) |
 | Embers Adrift | 186247 | [186247-embers-adrift.json](./186247-embers-adrift.json) |
@@ -4766,6 +4767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape By Spoon | 396421 | [396421-escape-by-spoon.json](./396421-escape-by-spoon.json) |
 | Escape Camp Waddalooh | 75641 | [75641-escape-camp-waddalooh.json](./75641-escape-camp-waddalooh.json) |
 | Escape Capyland | 312620 | [312620-escape-capyland.json](./312620-escape-capyland.json) |
+| Escape Cataclysm | 400726 | [400726-escape-cataclysm.json](./400726-escape-cataclysm.json) |
 | Escape Chase Monster | 219254 | [219254-escape-chase-monster.json](./219254-escape-chase-monster.json) |
 | Escape Chronicles | 241384 | [241384-escape-chronicles.json](./241384-escape-chronicles.json) |
 | Escape Code - Coding Adventure | 97190 | [97190-escape-code-coding-adventure.json](./97190-escape-code-coding-adventure.json) |
