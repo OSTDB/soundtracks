@@ -2063,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Master | 188302 | [188302-maid-master.json](./188302-maid-master.json) |
 | Maid Mech | 373037 | [373037-maid-mech.json](./373037-maid-mech.json) |
 | Maid Moving Boxes | 376447 | [376447-maid-moving-boxes.json](./376447-maid-moving-boxes.json) |
+| Maid of Midnight | 401192 | [401192-maid-of-midnight.json](./401192-maid-of-midnight.json) |
 | Maid of Salvation | 369620 | [369620-maid-of-salvation.json](./369620-maid-of-salvation.json) |
 | Maid of the Dead | 284495 | [284495-maid-of-the-dead.json](./284495-maid-of-the-dead.json) |
 | Maid of Venia | 374803 | [374803-maid-of-venia.json](./374803-maid-of-venia.json) |
@@ -3119,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maple Forest | 318604 | [318604-maple-forest.json](./318604-maple-forest.json) |
 | Maple Tale | 319374 | [319374-maple-tale.json](./319374-maple-tale.json) |
 | Maple Winters in Leafbud Rampage!! | 256121 | [256121-maple-winters-in-leafbud-rampage.json](./256121-maple-winters-in-leafbud-rampage.json) |
+| Maple's Maid Service | 401195 | [401195-maples-maid-service.json](./401195-maples-maid-service.json) |
 | Mapleland | 272156 | [272156-mapleland.json](./272156-mapleland.json) |
 | Mapless | 177767 | [177767-mapless.json](./177767-mapless.json) |
 | MapleStory | 9804 | [9804-maplestory.json](./9804-maplestory.json) |
