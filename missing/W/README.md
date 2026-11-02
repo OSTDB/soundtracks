@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanting Shock | 361675 | [361675-wanting-shock.json](./361675-wanting-shock.json) |
 | Wanting Wings | 278705 | [278705-wanting-wings.json](./278705-wanting-wings.json) |
 | Wantless: Solace at World’s End | 179999 | [179999-wantless-solace-at-world-s-end.json](./179999-wantless-solace-at-world-s-end.json) |
+| Wanton Destruction | 2532 | [2532-wanton-destruction.json](./2532-wanton-destruction.json) |
 | Wanwan Datte Uchuu No Shinpi | 325385 | [325385-wanwan-datte-uchuu-no-shinpi.json](./325385-wanwan-datte-uchuu-no-shinpi.json) |
 | Waochi! Math Homerun | 395686 | [395686-waochi-math-homerun.json](./395686-waochi-math-homerun.json) |
 | Wappy Dog | 47852 | [47852-wappy-dog.json](./47852-wappy-dog.json) |
@@ -2579,6 +2580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WC Dream | 296385 | [296385-wc-dream.json](./296385-wc-dream.json) |
 | WCCW 64 | 256793 | [256793-wccw-64.json](./256793-wccw-64.json) |
 | WCP Word Girlfriend | 259058 | [259058-wcp-word-girlfriend.json](./259058-wcp-word-girlfriend.json) |
+| WCW Backstage Assault | 3632 | [3632-wcw-backstage-assault.json](./3632-wcw-backstage-assault.json) |
 | WCW Diamond Dallas Page | 198955 | [198955-wcw-diamond-dallas-page.json](./198955-wcw-diamond-dallas-page.json) |
 | WCW Feel The Bang | 256936 | [256936-wcw-feel-the-bang.json](./256936-wcw-feel-the-bang.json) |
 | WCW Hollywood Hulk Hogan Power Fighter | 198958 | [198958-wcw-hollywood-hulk-hogan-power-fighter.json](./198958-wcw-hollywood-hulk-hogan-power-fighter.json) |
@@ -6326,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry: Inochi no Kusabi | 85870 | [85870-wizardry-inochi-no-kusabi.json](./85870-wizardry-inochi-no-kusabi.json) |
 | Wizardry: Knight of Diamonds - The Second Scenario | 2865 | [2865-wizardry-knight-of-diamonds-the-second-scenario.json](./2865-wizardry-knight-of-diamonds-the-second-scenario.json) |
 | Wizardry: Labyrinth of Lost Souls | 21083 | [21083-wizardry-labyrinth-of-lost-souls.json](./21083-wizardry-labyrinth-of-lost-souls.json) |
+| Wizardry: Legacy of Llylgamyn - The Third Scenario | 2871 | [2871-wizardry-legacy-of-llylgamyn-the-third-scenario.json](./2871-wizardry-legacy-of-llylgamyn-the-third-scenario.json) |
 | Wizardry: New Age of Llylgamyn | 181493 | [181493-wizardry-new-age-of-llylgamyn.json](./181493-wizardry-new-age-of-llylgamyn.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 370644 | [370644-wizardry-proving-grounds-of-the-mad-overlord.json](./370644-wizardry-proving-grounds-of-the-mad-overlord.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 370647 | [370647-wizardry-proving-grounds-of-the-mad-overlord.json](./370647-wizardry-proving-grounds-of-the-mad-overlord.json) |
