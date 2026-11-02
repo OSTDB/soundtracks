@@ -4393,6 +4393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otome no Himitsu | 188526 | [188526-otome-no-himitsu.json](./188526-otome-no-himitsu.json) |
 | Otome Riron to Sono Shuuhen Bon Voyage | 144177 | [144177-otome-riron-to-sono-shuuhen-bon-voyage.json](./144177-otome-riron-to-sono-shuuhen-bon-voyage.json) |
 | Otome Riron to Sono Shuuhen: Ecole de Paris | 60483 | [60483-otome-riron-to-sono-shuuhen-ecole-de-paris.json](./60483-otome-riron-to-sono-shuuhen-ecole-de-paris.json) |
+| Otome Romance Jigsaws - Midnight Cinderella & Destined to Love | 29370 | [29370-otome-romance-jigsaws-midnight-cinderella-and-destined-to-love.json](./29370-otome-romance-jigsaws-midnight-cinderella-and-destined-to-love.json) |
 | Otome Sekai no Arukikata | 305837 | [305837-otome-sekai-no-arukikata.json](./305837-otome-sekai-no-arukikata.json) |
 | Otome Senki | 304733 | [304733-otome-senki.json](./304733-otome-senki.json) |
 | Otome the Exorcist | 158045 | [158045-otome-the-exorcist.json](./158045-otome-the-exorcist.json) |
