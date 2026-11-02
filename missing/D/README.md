@@ -1292,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Blood: Beyond the Darkness | 291612 | [291612-dark-blood-beyond-the-darkness.json](./291612-dark-blood-beyond-the-darkness.json) |
 | Dark Blue Dungeon | 320789 | [320789-dark-blue-dungeon.json](./320789-dark-blue-dungeon.json) |
 | Dark Blue Warriorr | 211041 | [211041-dark-blue-warriorr.json](./211041-dark-blue-warriorr.json) |
+| Dark Bone Prison | 420335 | [420335-dark-bone-prison.json](./420335-dark-bone-prison.json) |
 | Dark Bows | 285000 | [285000-dark-bows.json](./285000-dark-bows.json) |
 | Dark Boy Action Platformer | 179994 | [179994-dark-boy-action-platformer.json](./179994-dark-boy-action-platformer.json) |
 | Dark Break | 64887 | [64887-dark-break.json](./64887-dark-break.json) |
@@ -1561,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Island | 128953 | [128953-dark-island.json](./128953-dark-island.json) |
 | Dark Island | 147961 | [147961-dark-island.json](./147961-dark-island.json) |
 | Dark Island: Faded Memories | 415312 | [415312-dark-island-faded-memories.json](./415312-dark-island-faded-memories.json) |
+| Dark Journey to the West | 420346 | [420346-dark-journey-to-the-west.json](./420346-dark-journey-to-the-west.json) |
 | Dark Judgement | 129642 | [129642-dark-judgement.json](./129642-dark-judgement.json) |
 | Dark Jump: Endless Ascent | 339365 | [339365-dark-jump-endless-ascent.json](./339365-dark-jump-endless-ascent.json) |
 | Dark Jungle | 207194 | [207194-dark-jungle.json](./207194-dark-jungle.json) |
@@ -1616,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Mist | 224945 | [224945-dark-mist.json](./224945-dark-mist.json) |
 | Dark Mist - The Wizard Vanishes | 141213 | [141213-dark-mist-the-wizard-vanishes.json](./141213-dark-mist-the-wizard-vanishes.json) |
 | Dark Mist- The Wizard Vanishes | 73684 | [73684-dark-mist-the-wizard-vanishes.json](./73684-dark-mist-the-wizard-vanishes.json) |
+| Dark Monastery | 420324 | [420324-dark-monastery.json](./420324-dark-monastery.json) |
 | Dark Moon | 69681 | [69681-dark-moon.json](./69681-dark-moon.json) |
 | Dark Moon Deities | 339366 | [339366-dark-moon-deities.json](./339366-dark-moon-deities.json) |
 | Dark Moon Motel | 219650 | [219650-dark-moon-motel.json](./219650-dark-moon-motel.json) |
@@ -4960,6 +4963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep II: The Center of the Earth | 69793 | [69793-deep-ii-the-center-of-the-earth.json](./69793-deep-ii-the-center-of-the-earth.json) |
 | Deep in Brixen Space | 140585 | [140585-deep-in-brixen-space.json](./140585-deep-in-brixen-space.json) |
 | Deep in hell | 185448 | [185448-deep-in-hell.json](./185448-deep-in-hell.json) |
+| Deep in the Dark | 420347 | [420347-deep-in-the-dark.json](./420347-deep-in-the-dark.json) |
 | Deep in the Dungeon | 403647 | [403647-deep-in-the-dungeon.json](./403647-deep-in-the-dungeon.json) |
 | Deep in The Fear | 295282 | [295282-deep-in-the-fear.json](./295282-deep-in-the-fear.json) |
 | Deep in the fields | 402904 | [402904-deep-in-the-fields.json](./402904-deep-in-the-fields.json) |
@@ -6101,6 +6105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tengen Uzui Character Pack | 209695 | [209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json](./209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json) |
 | Demon Slayer 5 | 320711 | [320711-demon-slayer-5.json](./320711-demon-slayer-5.json) |
 | Demon Slayer Akagi | 158937 | [158937-demon-slayer-akagi.json](./158937-demon-slayer-akagi.json) |
+| Demon Slayer Rome | 420343 | [420343-demon-slayer-rome.json](./420343-demon-slayer-rome.json) |
 | Demon Slayer Shion | 266073 | [266073-demon-slayer-shion.json](./266073-demon-slayer-shion.json) |
 | Demon Slayer Tamagotchi Hashira Gathering Version | 230137 | [230137-demon-slayer-tamagotchi-hashira-gathering-version.json](./230137-demon-slayer-tamagotchi-hashira-gathering-version.json) |
 | Demon Slayer Tamagotchi Yukaku Edition | 230141 | [230141-demon-slayer-tamagotchi-yukaku-edition.json](./230141-demon-slayer-tamagotchi-yukaku-edition.json) |
@@ -17781,6 +17786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust On Thorn | 405737 | [405737-dust-on-thorn.json](./405737-dust-on-thorn.json) |
 | Dust on Wheels | 115973 | [115973-dust-on-wheels.json](./115973-dust-on-wheels.json) |
 | Dust Raiders | 260175 | [260175-dust-raiders.json](./260175-dust-raiders.json) |
+| Dust Rapture | 420317 | [420317-dust-rapture.json](./420317-dust-rapture.json) |
 | Dust Remains | 199316 | [199316-dust-remains.json](./199316-dust-remains.json) |
 | Dust to Dusk | 138831 | [138831-dust-to-dusk.json](./138831-dust-to-dusk.json) |
 | Dust to Dust | 382967 | [382967-dust-to-dust.json](./382967-dust-to-dust.json) |
