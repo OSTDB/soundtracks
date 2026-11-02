@@ -2452,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Sword | 107169 | [107169-neon-sword.json](./107169-neon-sword.json) |
 | Neon Tail | 119431 | [119431-neon-tail.json](./119431-neon-tail.json) |
 | Neon Tea | 363169 | [363169-neon-tea.json](./363169-neon-tea.json) |
+| Neon the Ninja | 55773 | [55773-neon-the-ninja.json](./55773-neon-the-ninja.json) |
 | Neon Tide | 120912 | [120912-neon-tide.json](./120912-neon-tide.json) |
 | Neon Tower Blast | 120757 | [120757-neon-tower-blast.json](./120757-neon-tower-blast.json) |
 | Neon Trap Defense | 185526 | [185526-neon-trap-defense.json](./185526-neon-trap-defense.json) |
