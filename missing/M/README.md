@@ -5184,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Blaster Mystery: Pre-Algebra | 66338 | [66338-math-blaster-mystery-pre-algebra.json](./66338-math-blaster-mystery-pre-algebra.json) |
 | Math Blaster Mystery: The Great Brain Robbery | 10672 | [10672-math-blaster-mystery-the-great-brain-robbery.json](./10672-math-blaster-mystery-the-great-brain-robbery.json) |
 | Math Blaster Plus! | 10669 | [10669-math-blaster-plus.json](./10669-math-blaster-plus.json) |
+| Math Blaster: Episode One - In Search of Spot | 4419 | [4419-math-blaster-episode-one-in-search-of-spot.json](./4419-math-blaster-episode-one-in-search-of-spot.json) |
 | Math Blaster: Episode Two - Secret of the Lost City | 10671 | [10671-math-blaster-episode-two-secret-of-the-lost-city.json](./10671-math-blaster-episode-two-secret-of-the-lost-city.json) |
 | Math Blaster: Master the Basics | 59343 | [59343-math-blaster-master-the-basics.json](./59343-math-blaster-master-the-basics.json) |
 | Math Blaster! | 10668 | [10668-math-blaster.json](./10668-math-blaster.json) |
@@ -5536,6 +5537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -12247,6 +12249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna to Capcom All-Stars | 80494 | [80494-minna-to-capcom-all-stars.json](./80494-minna-to-capcom-all-stars.json) |
 | Minna to Daikoukai Frontier | 64628 | [64628-minna-to-daikoukai-frontier.json](./64628-minna-to-daikoukai-frontier.json) |
 | Minnano Gensokyo Single | 369561 | [369561-minnano-gensokyo-single.json](./369561-minnano-gensokyo-single.json) |
+| Minnesota Fats: Pool Legend | 4465 | [4465-minnesota-fats-pool-legend.json](./4465-minnesota-fats-pool-legend.json) |
 | Minnie | 228443 | [228443-minnie.json](./228443-minnie.json) |
 | Minnie & Friends: Yume no Kuni wo Sagashite | 282232 | [282232-minnie-and-friends-yume-no-kuni-wo-sagashite.json](./282232-minnie-and-friends-yume-no-kuni-wo-sagashite.json) |
 | Minnie Mouse | 245438 | [245438-minnie-mouse.json](./245438-minnie-mouse.json) |
