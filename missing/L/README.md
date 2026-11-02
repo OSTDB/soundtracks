@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lǎnrén Xiūxiān Zhuàn | 111583 | [111583-lanren-xiuxian-zhuan.json](./111583-lanren-xiuxian-zhuan.json) |
 | Lǎnrén Xiūxiān Zhuàn 2 | 415510 | [415510-lanren-xiuxian-zhuan-2.json](./415510-lanren-xiuxian-zhuan-2.json) |
 | Lansquenet | 109443 | [109443-lansquenet.json](./109443-lansquenet.json) |
+| Lantern | 25952 | [25952-lantern.json](./25952-lantern.json) |
 | Lantern Fish | 385561 | [385561-lantern-fish.json](./385561-lantern-fish.json) |
 | Lantern Forge | 36263 | [36263-lantern-forge.json](./36263-lantern-forge.json) |
 | Lantern Lagoon | 221837 | [221837-lantern-lagoon.json](./221837-lantern-lagoon.json) |
@@ -5427,6 +5428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Bombers Returns | 275554 | [275554-little-bombers-returns.json](./275554-little-bombers-returns.json) |
 | Little Boo and the Spectral Orbs | 386232 | [386232-little-boo-and-the-spectral-orbs.json](./386232-little-boo-and-the-spectral-orbs.json) |
 | Little Brats! | 298079 | [298079-little-brats.json](./298079-little-brats.json) |
+| Little Briar Rose | 30541 | [30541-little-briar-rose.json](./30541-little-briar-rose.json) |
 | Little Brick Out | 56411 | [56411-little-brick-out.json](./56411-little-brick-out.json) |
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
 | Little Brother Jim | 121056 | [121056-little-brother-jim.json](./121056-little-brother-jim.json) |
@@ -8299,6 +8301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love, Death and PvP | 250190 | [250190-love-death-and-pvp.json](./250190-love-death-and-pvp.json) |
 | Love, Election & Chocolate | 79167 | [79167-love-election-and-chocolate.json](./79167-love-election-and-chocolate.json) |
 | Love, Ghostie | 204529 | [204529-love-ghostie.json](./204529-love-ghostie.json) |
+| Love, Guitars, and the Nashville Skyline | 30532 | [30532-love-guitars-and-the-nashville-skyline.json](./30532-love-guitars-and-the-nashville-skyline.json) |
 | Love, Hate and the Mysterious Ocean Tower | 300381 | [300381-love-hate-and-the-mysterious-ocean-tower.json](./300381-love-hate-and-the-mysterious-ocean-tower.json) |
 | Love, I'm Not Good For You | 398915 | [398915-love-im-not-good-for-you.json](./398915-love-im-not-good-for-you.json) |
 | Love, in Debt!? | 279548 | [279548-love-in-debt.json](./279548-love-in-debt.json) |
