@@ -2677,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carol Vorderman's Sudoku DVD Game | 264474 | [264474-carol-vordermans-sudoku-dvd-game.json](./264474-carol-vordermans-sudoku-dvd-game.json) |
 | Caroline's Abyss | 169621 | [169621-carolines-abyss.json](./169621-carolines-abyss.json) |
 | Caroline's Camera - Rhythm Game | 233177 | [233177-carolines-camera-rhythm-game.json](./233177-carolines-camera-rhythm-game.json) |
+| Caroline’s Presents Johnny Cocktail | 420922 | [420922-caroline-s-presents-johnny-cocktail.json](./420922-caroline-s-presents-johnny-cocktail.json) |
 | Carols in July | 228911 | [228911-carols-in-july.json](./228911-carols-in-july.json) |
 | Carom Billards | 103118 | [103118-carom-billards.json](./103118-carom-billards.json) |
 | Carom Billiards | 149916 | [149916-carom-billiards.json](./149916-carom-billiards.json) |
@@ -7889,6 +7890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Stranded | 363659 | [363659-chrono-stranded.json](./363659-chrono-stranded.json) |
 | Chrono Survival | 214690 | [214690-chrono-survival.json](./214690-chrono-survival.json) |
 | Chrono Sword | 122280 | [122280-chrono-sword.json](./122280-chrono-sword.json) |
+| Chrono Sync Clockwork | 420980 | [420980-chrono-sync-clockwork.json](./420980-chrono-sync-clockwork.json) |
 | Chrono Tales | 333574 | [333574-chrono-tales.json](./333574-chrono-tales.json) |
 | Chrono Trigger | 206320 | [206320-chrono-trigger.json](./206320-chrono-trigger.json) |
 | Chrono Trigger | 263447 | [263447-chrono-trigger.json](./263447-chrono-trigger.json) |
@@ -9490,6 +9492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click and Relax | 153420 | [153420-click-and-relax.json](./153420-click-and-relax.json) |
 | Click and Slay | 176679 | [176679-click-and-slay.json](./176679-click-and-slay.json) |
 | Click and Tower | 357826 | [357826-click-and-tower.json](./357826-click-and-tower.json) |
+| Click Bait | 420911 | [420911-click-bait.json](./420911-click-bait.json) |
 | Click Build Repeat | 404419 | [404419-click-build-repeat.json](./404419-click-build-repeat.json) |
 | Click Click Bomb | 335225 | [335225-click-click-bomb.json](./335225-click-click-bomb.json) |
 | Click Click Click | 369641 | [369641-click-click-click.json](./369641-click-click-click.json) |
