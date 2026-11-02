@@ -797,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paizuri Fantasies | 351741 | [351741-paizuri-fantasies.json](./351741-paizuri-fantasies.json) |
 | Pajama Sam 2: Thunder and Lightning Aren't so Frightening | 3731 | [3731-pajama-sam-2-thunder-and-lightning-arent-so-frightening.json](./3731-pajama-sam-2-thunder-and-lightning-arent-so-frightening.json) |
 | Pajama Sam 3: You Are What You Eat From Your Head to Your Feet | 3732 | [3732-pajama-sam-3-you-are-what-you-eat-from-your-head-to-your-feet.json](./3732-pajama-sam-3-you-are-what-you-eat-from-your-head-to-your-feet.json) |
+| Pajama Sam 4: Life Is Rough When You Lose Your Stuff! | 10650 | [10650-pajama-sam-4-life-is-rough-when-you-lose-your-stuff.json](./10650-pajama-sam-4-life-is-rough-when-you-lose-your-stuff.json) |
 | Pajama Sam Vol. 1 | 154442 | [154442-pajama-sam-vol-1.json](./154442-pajama-sam-vol-1.json) |
 | Pajama Sam Vol. 2 | 154440 | [154440-pajama-sam-vol-2.json](./154440-pajama-sam-vol-2.json) |
 | Pajama Sam: Don't Fear the Dark | 51107 | [51107-pajama-sam-dont-fear-the-dark.json](./51107-pajama-sam-dont-fear-the-dark.json) |
