@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umi no Nushi Tsuri 2 | 61848 | [61848-umi-no-nushi-tsuri-2.json](./61848-umi-no-nushi-tsuri-2.json) |
 | Umi no Nushi Tsuri: Takara-jima ni Mukatte | 61850 | [61850-umi-no-nushi-tsuri-takara-jima-ni-mukatte.json](./61850-umi-no-nushi-tsuri-takara-jima-ni-mukatte.json) |
 | Umi no Oh! Yah! | 384496 | [384496-umi-no-oh-yah.json](./384496-umi-no-oh-yah.json) |
+| Umi to Mamono no Kodomo-tachi | 415268 | [415268-umi-to-mamono-no-kodomo-tachi.json](./415268-umi-to-mamono-no-kodomo-tachi.json) |
 | Umi Tsuri Mejin: Suzuki-hen | 37773 | [37773-umi-tsuri-mejin-suzuki-hen.json](./37773-umi-tsuri-mejin-suzuki-hen.json) |
 | Umichan Sorani | 201147 | [201147-umichan-sorani.json](./201147-umichan-sorani.json) |
 | Umidorino Gaku no Seishin Kanteiroku | 308879 | [308879-umidorino-gaku-no-seishin-kanteiroku.json](./308879-umidorino-gaku-no-seishin-kanteiroku.json) |
@@ -2161,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unit 42: Adrift in Space | 395043 | [395043-unit-42-adrift-in-space.json](./395043-unit-42-adrift-in-space.json) |
 | Unit Down Charge | 260273 | [260273-unit-down-charge.json](./260273-unit-down-charge.json) |
 | Unit Zero: Operation Black Veil | 371968 | [371968-unit-zero-operation-black-veil.json](./371968-unit-zero-operation-black-veil.json) |
+| Unit-5000 | 415804 | [415804-unit-5000.json](./415804-unit-5000.json) |
 | Unite | 168631 | [168631-unite.json](./168631-unite.json) |
 | Unite | 176154 | [176154-unite.json](./176154-unite.json) |
 | Unite Cell | 334768 | [334768-unite-cell.json](./334768-unite-cell.json) |
