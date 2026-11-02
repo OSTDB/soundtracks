@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caldera | 289385 | [289385-caldera.json](./289385-caldera.json) |
 | Cale Quest | 90198 | [90198-cale-quest.json](./90198-cale-quest.json) |
 | Caleb's Dream | 276400 | [276400-calebs-dream.json](./276400-calebs-dream.json) |
+| Calendula | 33905 | [33905-calendula.json](./33905-calendula.json) |
 | Caleria | 409017 | [409017-caleria.json](./409017-caleria.json) |
 | CaliaQuest | 303722 | [303722-caliaquest.json](./303722-caliaquest.json) |
 | Caliban | 401293 | [401293-caliban.json](./401293-caliban.json) |
@@ -3701,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat in the Box | 132754 | [132754-cat-in-the-box.json](./132754-cat-in-the-box.json) |
 | Cat in the Box | 410181 | [410181-cat-in-the-box.json](./410181-cat-in-the-box.json) |
 | Cat Inside | 108343 | [108343-cat-inside.json](./108343-cat-inside.json) |
+| CAT Interstellar | 34933 | [34933-cat-interstellar.json](./34933-cat-interstellar.json) |
 | Cat Interstellar: Episode II | 173994 | [173994-cat-interstellar-episode-ii.json](./173994-cat-interstellar-episode-ii.json) |
 | CAT Interstellar: Recast | 163666 | [163666-cat-interstellar-recast.json](./163666-cat-interstellar-recast.json) |
 | Cat Island | 188271 | [188271-cat-island.json](./188271-cat-island.json) |
@@ -13007,6 +13009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Sudoku | 277920 | [277920-contract-sudoku.json](./277920-contract-sudoku.json) |
 | Contract Terminated | 421366 | [421366-contract-terminated.json](./421366-contract-terminated.json) |
 | Contract Wars | 77472 | [77472-contract-wars.json](./77472-contract-wars.json) |
+| Contract with the Devil | 34285 | [34285-contract-with-the-devil.json](./34285-contract-with-the-devil.json) |
 | Contract Work | 126513 | [126513-contract-work.json](./126513-contract-work.json) |
 | Contractor | 235980 | [235980-contractor.json](./235980-contractor.json) |
 | Contractors | 123603 | [123603-contractors.json](./123603-contractors.json) |
@@ -15820,6 +15823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creeper Goo | 163814 | [163814-creeper-goo.json](./163814-creeper-goo.json) |
 | Creeper World | 7595 | [7595-creeper-world.json](./7595-creeper-world.json) |
 | Creeper World 2: Redemption | 66086 | [66086-creeper-world-2-redemption.json](./66086-creeper-world-2-redemption.json) |
+| Creeper World 2: Redemption - Anniversary Edition | 34006 | [34006-creeper-world-2-redemption-anniversary-edition.json](./34006-creeper-world-2-redemption-anniversary-edition.json) |
 | Creeper World 3: Arc Eternal | 9809 | [9809-creeper-world-3-arc-eternal.json](./9809-creeper-world-3-arc-eternal.json) |
 | Creeper World 4 | 77752 | [77752-creeper-world-4.json](./77752-creeper-world-4.json) |
 | Creeper World IXE | 259104 | [259104-creeper-world-ixe.json](./259104-creeper-world-ixe.json) |
@@ -18128,6 +18132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuphead: Limited Edition | 249963 | [249963-cuphead-limited-edition.json](./249963-cuphead-limited-edition.json) |
 | Cupiclaw | 302430 | [302430-cupiclaw.json](./302430-cupiclaw.json) |
 | Cupid | 253362 | [253362-cupid.json](./253362-cupid.json) |
+| Cupid | 34031 | [34031-cupid.json](./34031-cupid.json) |
 | Cupid 2.0 | 137841 | [137841-cupid-2-0.json](./137841-cupid-2-0.json) |
 | Cupid Bistro!! | 72659 | [72659-cupid-bistro.json](./72659-cupid-bistro.json) |
 | Cupid Bistro!! 2 | 264338 | [264338-cupid-bistro-2.json](./264338-cupid-bistro-2.json) |
