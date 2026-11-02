@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Blocc World | 293077 | [293077-a-blocc-world.json](./293077-a-blocc-world.json) |
 | A Block Party! | 237595 | [237595-a-block-party.json](./237595-a-block-party.json) |
 | A Blocky Kind of Love | 234012 | [234012-a-blocky-kind-of-love.json](./234012-a-blocky-kind-of-love.json) |
+| A Bloody Night | 41960 | [41960-a-bloody-night.json](./41960-a-bloody-night.json) |
 | A Bloody Party | 114125 | [114125-a-bloody-party.json](./114125-a-bloody-party.json) |
 | A Blurred Line | 47110 | [47110-a-blurred-line.json](./47110-a-blurred-line.json) |
 | A Bomb's Way | 64677 | [64677-a-bombs-way.json](./64677-a-bombs-way.json) |
@@ -3392,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Quiz: Capcom World 2 | 66447 | [66447-adventure-quiz-capcom-world-2.json](./66447-adventure-quiz-capcom-world-2.json) |
 | Adventure Race | 387037 | [387037-adventure-race.json](./387037-adventure-race.json) |
 | Adventure Racing 2 | 356278 | [356278-adventure-racing-2.json](./356278-adventure-racing-2.json) |
+| Adventure Rage | 41966 | [41966-adventure-rage.json](./41966-adventure-rage.json) |
 | Adventure Realm | 357782 | [357782-adventure-realm.json](./357782-adventure-realm.json) |
 | Adventure Reborn | 240155 | [240155-adventure-reborn.json](./240155-adventure-reborn.json) |
 | Adventure Reporter Arctic | 254623 | [254623-adventure-reporter-arctic.json](./254623-adventure-reporter-arctic.json) |
@@ -5798,6 +5800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchedungeon | 122812 | [122812-alchedungeon.json](./122812-alchedungeon.json) |
 | Alchegator | 409894 | [409894-alchegator.json](./409894-alchegator.json) |
 | Alchem It | 211268 | [211268-alchem-it.json](./211268-alchem-it.json) |
+| Alchemage | 55789 | [55789-alchemage.json](./55789-alchemage.json) |
 | Alchemania | 157417 | [157417-alchemania.json](./157417-alchemania.json) |
 | Alchemelee | 128333 | [128333-alchemelee.json](./128333-alchemelee.json) |
 | Alchementalist | 157082 | [157082-alchementalist.json](./157082-alchementalist.json) |
@@ -9015,6 +9018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anger of Stick 5: Zombie | 331159 | [331159-anger-of-stick-5-zombie.json](./331159-anger-of-stick-5-zombie.json) |
 | Angeraze 2: Tenshi no Kiseki | 130601 | [130601-angeraze-2-tenshi-no-kiseki.json](./130601-angeraze-2-tenshi-no-kiseki.json) |
 | AngerDark | 112797 | [112797-angerdark.json](./112797-angerdark.json) |
+| AngerForce: Reloaded | 55808 | [55808-angerforce-reloaded.json](./55808-angerforce-reloaded.json) |
 | AngerForce: Reloaded for Nintendo Switch | 147948 | [147948-angerforce-reloaded-for-nintendo-switch.json](./147948-angerforce-reloaded-for-nintendo-switch.json) |
 | AngerForce: Strikers | 125600 | [125600-angerforce-strikers.json](./125600-angerforce-strikers.json) |
 | AngerOfStick | 175433 | [175433-angerofstick.json](./175433-angerofstick.json) |
@@ -15805,6 +15809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack From the Void | 244062 | [244062-attack-from-the-void.json](./244062-attack-from-the-void.json) |
 | Attack Heroes | 28305 | [28305-attack-heroes.json](./28305-attack-heroes.json) |
 | Attack Hole | 324782 | [324782-attack-hole.json](./324782-attack-hole.json) |
+| Attack of Insects | 56655 | [56655-attack-of-insects.json](./56655-attack-of-insects.json) |
 | Attack of Jeff the Killer: Scary Slender Life | 63154 | [63154-attack-of-jeff-the-killer-scary-slender-life.json](./63154-attack-of-jeff-the-killer-scary-slender-life.json) |
 | Attack of the Alien Robot Monsters | 114745 | [114745-attack-of-the-alien-robot-monsters.json](./114745-attack-of-the-alien-robot-monsters.json) |
 | Attack of the alien thingies from lava! | 129617 | [129617-attack-of-the-alien-thingies-from-lava.json](./129617-attack-of-the-alien-thingies-from-lava.json) |
