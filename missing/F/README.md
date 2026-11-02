@@ -6422,6 +6422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit My Zoo: Zoo's Puzzle Pack 3 | 308813 | [308813-fit-my-zoo-zoos-puzzle-pack-3.json](./308813-fit-my-zoo-zoos-puzzle-pack-3.json) |
 | Fit Puzzle Blocks | 217449 | [217449-fit-puzzle-blocks.json](./217449-fit-puzzle-blocks.json) |
 | Fit Puzzle Blocks: Expansion Pack | 263197 | [263197-fit-puzzle-blocks-expansion-pack.json](./263197-fit-puzzle-blocks-expansion-pack.json) |
+| Fit the Fat 2 | 87369 | [87369-fit-the-fat-2.json](./87369-fit-the-fat-2.json) |
 | Fit the Shape! | 267336 | [267336-fit-the-shape.json](./267336-fit-the-shape.json) |
 | Fitba | 68631 | [68631-fitba.json](./68631-fitba.json) |
 | FitForce | 142856 | [142856-fitforce.json](./142856-fitforce.json) |
@@ -13081,6 +13082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Swashbuckler | 305945 | [305945-future-swashbuckler.json](./305945-future-swashbuckler.json) |
 | Future Tank | 68346 | [68346-future-tank.json](./68346-future-tank.json) |
 | Future Tanks Area | 193507 | [193507-future-tanks-area.json](./193507-future-tanks-area.json) |
+| Future Tanks: Tank Shooter Game | 87385 | [87385-future-tanks-tank-shooter-game.json](./87385-future-tanks-tank-shooter-game.json) |
 | Future Theater | 251842 | [251842-future-theater.json](./251842-future-theater.json) |
 | Future Unfolding | 25803 | [25803-future-unfolding.json](./25803-future-unfolding.json) |
 | Future Vibe Check | 335292 | [335292-future-vibe-check.json](./335292-future-vibe-check.json) |
