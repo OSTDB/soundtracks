@@ -704,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi: Time to Oppai | 349303 | [349303-ecchi-time-to-oppai.json](./349303-ecchi-time-to-oppai.json) |
 | Ecclesia Online | 143452 | [143452-ecclesia-online.json](./143452-ecclesia-online.json) |
 | Ecco 2: Sentinels of the Universe | 19682 | [19682-ecco-2-sentinels-of-the-universe.json](./19682-ecco-2-sentinels-of-the-universe.json) |
+| Ecco Jr. | 6665 | [6665-ecco-jr.json](./6665-ecco-jr.json) |
 | Ecco the Dolphin | 237309 | [237309-ecco-the-dolphin.json](./237309-ecco-the-dolphin.json) |
 | Ecco the Dolphin | 388157 | [388157-ecco-the-dolphin.json](./388157-ecco-the-dolphin.json) |
 | Ecco the Dolphin | 5378 | [5378-ecco-the-dolphin.json](./5378-ecco-the-dolphin.json) |
@@ -6476,6 +6477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Child of Hameln | 413056 | [413056-every-child-of-hameln.json](./413056-every-child-of-hameln.json) |
 | Every Day Is Halloween | 280759 | [280759-every-day-is-halloween.json](./280759-every-day-is-halloween.json) |
 | Every day is more incredible than the previous | 169257 | [169257-every-day-is-more-incredible-than-the-previous.json](./169257-every-day-is-more-incredible-than-the-previous.json) |
+| Every Day the Same Dream | 23166 | [23166-every-day-the-same-dream.json](./23166-every-day-the-same-dream.json) |
 | Every Day's Different | 126930 | [126930-every-days-different.json](./126930-every-days-different.json) |
 | Every Ending Is A New Beginning | 184131 | [184131-every-ending-is-a-new-beginning.json](./184131-every-ending-is-a-new-beginning.json) |
 | Every Extend | 94573 | [94573-every-extend.json](./94573-every-extend.json) |
