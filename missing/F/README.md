@@ -1282,7 +1282,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: The Pitt - Deluxe Edition | 218503 | [218503-fallout-76-the-pitt-deluxe-edition.json](./218503-fallout-76-the-pitt-deluxe-edition.json) |
 | Fallout 76: The Pitt Recruitment Bundle | 230146 | [230146-fallout-76-the-pitt-recruitment-bundle.json](./230146-fallout-76-the-pitt-recruitment-bundle.json) |
 | Fallout 76: Tricentennial Edition | 103308 | [103308-fallout-76-tricentennial-edition.json](./103308-fallout-76-tricentennial-edition.json) |
-| Fallout 76: Wastelanders | 132141 | [132141-fallout-76-wastelanders.json](./132141-fallout-76-wastelanders.json) |
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
 | Fallout Anthology | 21590 | [21590-fallout-anthology.json](./21590-fallout-anthology.json) |
 | Fallout Apokalypse | 21584 | [21584-fallout-apokalypse.json](./21584-fallout-apokalypse.json) |
@@ -5290,6 +5289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Cinderella | 207171 | [207171-finding-cinderella.json](./207171-finding-cinderella.json) |
 | Finding Dory | 230376 | [230376-finding-dory.json](./230376-finding-dory.json) |
 | Finding Dory | 237525 | [237525-finding-dory.json](./237525-finding-dory.json) |
+| Finding Ducks | 405807 | [405807-finding-ducks.json](./405807-finding-ducks.json) |
 | Finding fairies | 254582 | [254582-finding-fairies.json](./254582-finding-fairies.json) |
 | Finding Fate | 249944 | [249944-finding-fate.json](./249944-finding-fate.json) |
 | Finding Father | 377928 | [377928-finding-father.json](./377928-finding-father.json) |
