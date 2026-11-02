@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abenteuer Stahl | 141497 | [141497-abenteuer-stahl.json](./141497-abenteuer-stahl.json) |
 | Abenteuer Weltraum | 123246 | [123246-abenteuer-weltraum.json](./123246-abenteuer-weltraum.json) |
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
+| Aberrant Domain: Fog City | 420951 | [420951-aberrant-domain-fog-city.json](./420951-aberrant-domain-fog-city.json) |
 | Aberrant Nights | 304671 | [304671-aberrant-nights.json](./304671-aberrant-nights.json) |
 | Aberrate Inc. | 377431 | [377431-aberrate-inc.json](./377431-aberrate-inc.json) |
 | Aberration | 187259 | [187259-aberration.json](./187259-aberration.json) |
@@ -7134,6 +7135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone In Hell | 217852 | [217852-alone-in-hell.json](./217852-alone-in-hell.json) |
 | Alone in Space | 271671 | [271671-alone-in-space.json](./271671-alone-in-space.json) |
 | Alone in Space | 33499 | [33499-alone-in-space.json](./33499-alone-in-space.json) |
+| Alone in the Backrooms | 420950 | [420950-alone-in-the-backrooms.json](./420950-alone-in-the-backrooms.json) |
 | Alone in the Dark | 1956 | [1956-alone-in-the-dark.json](./1956-alone-in-the-dark.json) |
 | Alone in the Dark | 1958 | [1958-alone-in-the-dark.json](./1958-alone-in-the-dark.json) |
 | Alone in the Dark | 233171 | [233171-alone-in-the-dark.json](./233171-alone-in-the-dark.json) |
@@ -10031,6 +10033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly 1729 | 33961 | [33961-anomaly-1729.json](./33961-anomaly-1729.json) |
 | Anomaly 2 | 9212 | [9212-anomaly-2.json](./9212-anomaly-2.json) |
 | Anomaly 404 | 384863 | [384863-anomaly-404.json](./384863-anomaly-404.json) |
+| Anomaly Archives | 420936 | [420936-anomaly-archives.json](./420936-anomaly-archives.json) |
 | Anomaly Bus | 344866 | [344866-anomaly-bus.json](./344866-anomaly-bus.json) |
 | Anomaly Company | 389123 | [389123-anomaly-company.json](./389123-anomaly-company.json) |
 | Anomaly Control Simulator | 409646 | [409646-anomaly-control-simulator.json](./409646-anomaly-control-simulator.json) |
