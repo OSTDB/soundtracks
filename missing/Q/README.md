@@ -729,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Quest 5: Symphony of Death | 120841 | [120841-queens-quest-5-symphony-of-death.json](./120841-queens-quest-5-symphony-of-death.json) |
 | Queen's Quest Bundle | 280418 | [280418-queens-quest-bundle.json](./280418-queens-quest-bundle.json) |
 | Queen's Quest Collection | 53489 | [53489-queens-quest-collection.json](./53489-queens-quest-collection.json) |
+| Queen's Quest: Tower of Darkness | 34747 | [34747-queens-quest-tower-of-darkness.json](./34747-queens-quest-tower-of-darkness.json) |
 | Queen's River | 344559 | [344559-queens-river.json](./344559-queens-river.json) |
 | Queen's Tales: Sins of the Past | 98522 | [98522-queens-tales-sins-of-the-past.json](./98522-queens-tales-sins-of-the-past.json) |
 | Queen's Tales: Sins of the Past - Collector's Edition | 81835 | [81835-queens-tales-sins-of-the-past-collectors-edition.json](./81835-queens-tales-sins-of-the-past-collectors-edition.json) |
@@ -894,6 +895,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuestMania | 79305 | [79305-questmania.json](./79305-questmania.json) |
 | Questmore | 95970 | [95970-questmore.json](./95970-questmore.json) |
 | Questor's Quest | 59693 | [59693-questors-quest.json](./59693-questors-quest.json) |
+| Questprobe featuring Human Torch and the Thing | 24385 | [24385-questprobe-featuring-human-torch-and-the-thing.json](./24385-questprobe-featuring-human-torch-and-the-thing.json) |
+| Questprobe featuring Spider-Man | 24384 | [24384-questprobe-featuring-spider-man.json](./24384-questprobe-featuring-spider-man.json) |
 | Questprobe featuring The Hulk | 12934 | [12934-questprobe-featuring-the-hulk.json](./12934-questprobe-featuring-the-hulk.json) |
 | Questria: Rise of the Robot Skullfaces | 35147 | [35147-questria-rise-of-the-robot-skullfaces.json](./35147-questria-rise-of-the-robot-skullfaces.json) |
 | Questris | 413871 | [413871-questris.json](./413871-questris.json) |
