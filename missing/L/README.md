@@ -9042,6 +9042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumeera and the Glow Reefs | 406803 | [406803-lumeera-and-the-glow-reefs.json](./406803-lumeera-and-the-glow-reefs.json) |
 | Lumen | 164330 | [164330-lumen.json](./164330-lumen.json) |
 | Lumen | 292608 | [292608-lumen.json](./292608-lumen.json) |
+| Lumen Climber | 417747 | [417747-lumen-climber.json](./417747-lumen-climber.json) |
 | Lumen Inferius | 311536 | [311536-lumen-inferius.json](./311536-lumen-inferius.json) |
 | Lumen Race | 370776 | [370776-lumen-race.json](./370776-lumen-race.json) |
 | Lumen Rider | 256749 | [256749-lumen-rider.json](./256749-lumen-rider.json) |
@@ -9441,6 +9442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Shards | 318146 | [318146-lust-shards.json](./318146-lust-shards.json) |
 | Lust Sisters | 359290 | [359290-lust-sisters.json](./359290-lust-sisters.json) |
 | Lust Sisters | 367355 | [367355-lust-sisters.json](./367355-lust-sisters.json) |
+| Lust Solitaire: Horny Cards | 417206 | [417206-lust-solitaire-horny-cards.json](./417206-lust-solitaire-horny-cards.json) |
 | Lust Storm | 372031 | [372031-lust-storm.json](./372031-lust-storm.json) |
 | Lust Theory | 216187 | [216187-lust-theory.json](./216187-lust-theory.json) |
 | Lust Theory 2 | 240879 | [240879-lust-theory-2.json](./240879-lust-theory-2.json) |
