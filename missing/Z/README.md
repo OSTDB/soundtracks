@@ -2223,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZoroMe | 252550 | [252550-zorome.json](./252550-zorome.json) |
 | Zorovan Powerplant | 285407 | [285407-zorovan-powerplant.json](./285407-zorovan-powerplant.json) |
 | Zorpon | 208413 | [208413-zorpon.json](./208413-zorpon.json) |
+| Zorro | 25987 | [25987-zorro.json](./25987-zorro.json) |
 | Zorro | 81431 | [81431-zorro.json](./81431-zorro.json) |
 | Zorro and Zedd | 272891 | [272891-zorro-and-zedd.json](./272891-zorro-and-zedd.json) |
 | Zorro: Quest for Justice | 60504 | [60504-zorro-quest-for-justice.json](./60504-zorro-quest-for-justice.json) |
