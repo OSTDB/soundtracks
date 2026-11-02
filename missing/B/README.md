@@ -11790,6 +11790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman '93 | 42097 | [42097-bomberman-93.json](./42097-bomberman-93.json) |
 | Bomberman '93 Special | 42056 | [42056-bomberman-93-special.json](./42056-bomberman-93-special.json) |
 | Bomberman '94 | 3448 | [3448-bomberman-94.json](./3448-bomberman-94.json) |
+| Bomberman 2 | 85843 | [85843-bomberman-2.json](./85843-bomberman-2.json) |
 | Bomberman 2004 | 198196 | [198196-bomberman-2004.json](./198196-bomberman-2004.json) |
 | Bomberman 3D | 198032 | [198032-bomberman-3d.json](./198032-bomberman-3d.json) |
 | Bomberman 3D BT Wide-ban | 198213 | [198213-bomberman-3d-bt-wide-ban.json](./198213-bomberman-3d-bt-wide-ban.json) |
@@ -12448,6 +12449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border Force: Space Force | 171627 | [171627-border-force-space-force.json](./171627-border-force-space-force.json) |
 | Border Jumper | 320822 | [320822-border-jumper.json](./320822-border-jumper.json) |
 | Border Mountain | 292624 | [292624-border-mountain.json](./292624-border-mountain.json) |
+| Border of her Heart | 86403 | [86403-border-of-her-heart.json](./86403-border-of-her-heart.json) |
 | Border of her Heart 2 | 156669 | [156669-border-of-her-heart-2.json](./156669-border-of-her-heart-2.json) |
 | Border of Insanity | 110152 | [110152-border-of-insanity.json](./110152-border-of-insanity.json) |
 | Border of Insanity Origins | 128206 | [128206-border-of-insanity-origins.json](./128206-border-of-insanity-origins.json) |
@@ -16137,6 +16139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletstorm VR | 251567 | [251567-bulletstorm-vr.json](./251567-bulletstorm-vr.json) |
 | Bulletstorm: Duke Nukem's Bulletstorm Tour | 174501 | [174501-bulletstorm-duke-nukems-bulletstorm-tour.json](./174501-bulletstorm-duke-nukems-bulletstorm-tour.json) |
 | Bulletstorm: Duke of Switch Edition | 116680 | [116680-bulletstorm-duke-of-switch-edition.json](./116680-bulletstorm-duke-of-switch-edition.json) |
+| Bulletstorm: Full Clip Edition Duke Nukem Bundle | 83507 | [83507-bulletstorm-full-clip-edition-duke-nukem-bundle.json](./83507-bulletstorm-full-clip-edition-duke-nukem-bundle.json) |
 | Bulletstorm: Limited Edition | 46640 | [46640-bulletstorm-limited-edition.json](./46640-bulletstorm-limited-edition.json) |
 | Bulletstorm: Lite | 212310 | [212310-bulletstorm-lite.json](./212310-bulletstorm-lite.json) |
 | BulletVille | 137591 | [137591-bulletville.json](./137591-bulletville.json) |
