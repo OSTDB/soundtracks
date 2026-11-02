@@ -1471,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olive's Art-Venture | 266049 | [266049-olives-art-venture.json](./266049-olives-art-venture.json) |
 | Oliver & Spike: Dimension Jumpers | 63894 | [63894-oliver-and-spike-dimension-jumpers.json](./63894-oliver-and-spike-dimension-jumpers.json) |
 | Oliver and Spike | 51660 | [51660-oliver-and-spike.json](./51660-oliver-and-spike.json) |
+| Oliver's Last Run | 407076 | [407076-olivers-last-run.json](./407076-olivers-last-run.json) |
 | Oliver's Tale | 248502 | [248502-olivers-tale.json](./248502-olivers-tale.json) |
 | Olivers äventyr: Drakens förbannelse | 320948 | [320948-olivers-aventyr-drakens-forbannelse.json](./320948-olivers-aventyr-drakens-forbannelse.json) |
 | Olivia | 230395 | [230395-olivia.json](./230395-olivia.json) |
@@ -3370,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Alpha Zylon | 54265 | [54265-operation-alpha-zylon.json](./54265-operation-alpha-zylon.json) |
 | Operation: Armored Liberty | 49319 | [49319-operation-armored-liberty.json](./49319-operation-armored-liberty.json) |
 | Operation: Biowar | 140944 | [140944-operation-biowar.json](./140944-operation-biowar.json) |
+| Operation: Black Genesis - The Immortal Trials | 405822 | [405822-operation-black-genesis-the-immortal-trials.json](./405822-operation-black-genesis-the-immortal-trials.json) |
 | Operation: Black Mesa | 6740 | [6740-operation-black-mesa.json](./6740-operation-black-mesa.json) |
 | Operation: Chateau Pregny | 302990 | [302990-operation-chateau-pregny.json](./302990-operation-chateau-pregny.json) |
 | Operation: Cheek Clapper | 123551 | [123551-operation-cheek-clapper.json](./123551-operation-cheek-clapper.json) |
@@ -5473,6 +5475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overtime Heroes Exit 8 | 310729 | [310729-overtime-heroes-exit-8.json](./310729-overtime-heroes-exit-8.json) |
 | Overtime Syndrome: A Late Night Shift Story | 385984 | [385984-overtime-syndrome-a-late-night-shift-story.json](./385984-overtime-syndrome-a-late-night-shift-story.json) |
 | Overtime: Paper Trail | 404426 | [404426-overtime-paper-trail.json](./404426-overtime-paper-trail.json) |
+| OvertimeGM: Hockey Manager | 407080 | [407080-overtimegm-hockey-manager.json](./407080-overtimegm-hockey-manager.json) |
 | Overtop | 212580 | [212580-overtop.json](./212580-overtop.json) |
 | Overtrick | 379623 | [379623-overtrick.json](./379623-overtrick.json) |
 | OverTrip | 307818 | [307818-overtrip.json](./307818-overtrip.json) |
