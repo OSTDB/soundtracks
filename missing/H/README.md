@@ -5342,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herios | 182315 | [182315-herios.json](./182315-herios.json) |
 | Heritage | 323499 | [323499-heritage.json](./323499-heritage.json) |
 | Heritage | 376042 | [376042-heritage.json](./376042-heritage.json) |
+| Heritage Flipper | 422174 | [422174-heritage-flipper.json](./422174-heritage-flipper.json) |
 | Heritage Hills | 156666 | [156666-heritage-hills.json](./156666-heritage-hills.json) |
 | Heritage of Eternal Splitting | 299523 | [299523-heritage-of-eternal-splitting.json](./299523-heritage-of-eternal-splitting.json) |
 | Heritage: A Dragon's Tale | 250043 | [250043-heritage-a-dragons-tale.json](./250043-heritage-a-dragons-tale.json) |
@@ -6233,6 +6234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hey Arnold! The Movie | 6565 | [6565-hey-arnold-the-movie.json](./6565-hey-arnold-the-movie.json) |
 | Hey Arnold!: Match-Master | 273883 | [273883-hey-arnold-match-master.json](./273883-hey-arnold-match-master.json) |
 | Hey Bobby! | 331697 | [331697-hey-bobby.json](./331697-hey-bobby.json) |
+| Hey Chat, Are We Cooked? | 421607 | [421607-hey-chat-are-we-cooked.json](./421607-hey-chat-are-we-cooked.json) |
 | Hey Duggee: The Big Badge App | 88593 | [88593-hey-duggee-the-big-badge-app.json](./88593-hey-duggee-the-big-badge-app.json) |
 | Hey Duggee: The Big Outdoor App | 88308 | [88308-hey-duggee-the-big-outdoor-app.json](./88308-hey-duggee-the-big-outdoor-app.json) |
 | Hey Duggee: We Love Animals | 96184 | [96184-hey-duggee-we-love-animals.json](./96184-hey-duggee-we-love-animals.json) |
@@ -10282,6 +10284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Nightmares B-Movie Edition | 35388 | [35388-house-of-nightmares-b-movie-edition.json](./35388-house-of-nightmares-b-movie-edition.json) |
 | House of Nowhere | 385861 | [385861-house-of-nowhere.json](./385861-house-of-nowhere.json) |
 | House of Pain | 211980 | [211980-house-of-pain.json](./211980-house-of-pain.json) |
+| House of Pips: a Domino Roguelike | 422186 | [422186-house-of-pips-a-domino-roguelike.json](./422186-house-of-pips-a-domino-roguelike.json) |
 | House of Plague 0 | 107907 | [107907-house-of-plague-0.json](./107907-house-of-plague-0.json) |
 | House of Portals VR | 154384 | [154384-house-of-portals-vr.json](./154384-house-of-portals-vr.json) |
 | House of Rules | 169138 | [169138-house-of-rules.json](./169138-house-of-rules.json) |
