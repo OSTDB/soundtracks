@@ -8766,6 +8766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Homer RPS | 288046 | [288046-honey-homer-rps.json](./288046-honey-homer-rps.json) |
 | Honey Hunt | 179931 | [179931-honey-hunt.json](./179931-honey-hunt.json) |
 | Honey Hunt | 44369 | [44369-honey-hunt.json](./44369-honey-hunt.json) |
+| Honey Jump | 100931 | [100931-honey-jump.json](./100931-honey-jump.json) |
 | Honey Kingdom | 328248 | [328248-honey-kingdom.json](./328248-honey-kingdom.json) |
 | Honey Magician | 277969 | [277969-honey-magician.json](./277969-honey-magician.json) |
 | Honey Milf | 367044 | [367044-honey-milf.json](./367044-honey-milf.json) |
@@ -10460,6 +10461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Make a Game | 407830 | [407830-how-to-make-a-game.json](./407830-how-to-make-a-game.json) |
 | How to Make a Sequel | 407831 | [407831-how-to-make-a-sequel.json](./407831-how-to-make-a-sequel.json) |
 | How to Make an Atomic Bomb in Your Garden | 391727 | [391727-how-to-make-an-atomic-bomb-in-your-garden.json](./391727-how-to-make-an-atomic-bomb-in-your-garden.json) |
+| How to Make Slime Maker Play Fun | 101085 | [101085-how-to-make-slime-maker-play-fun.json](./101085-how-to-make-slime-maker-play-fun.json) |
 | How to Make Slime: DIY Jelly Toy Play Fun | 96975 | [96975-how-to-make-slime-diy-jelly-toy-play-fun.json](./96975-how-to-make-slime-diy-jelly-toy-play-fun.json) |
 | How to Make Slime: DIY Slime Making for Kids | 90838 | [90838-how-to-make-slime-diy-slime-making-for-kids.json](./90838-how-to-make-slime-diy-slime-making-for-kids.json) |
 | How to Make Your Grandpa Happy | 31469 | [31469-how-to-make-your-grandpa-happy.json](./31469-how-to-make-your-grandpa-happy.json) |
