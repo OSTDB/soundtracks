@@ -1756,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong | 131431 | [131431-mahjong.json](./131431-mahjong.json) |
 | Mahjong | 306028 | [306028-mahjong.json](./306028-mahjong.json) |
 | Mahjong | 31012 | [31012-mahjong.json](./31012-mahjong.json) |
+| Mahjong | 85683 | [85683-mahjong.json](./85683-mahjong.json) |
 | Mahjong | 86350 | [86350-mahjong.json](./86350-mahjong.json) |
 | Mahjong | 86367 | [86367-mahjong.json](./86367-mahjong.json) |
 | Mahjong | 86409 | [86409-mahjong.json](./86409-mahjong.json) |
@@ -8547,6 +8548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenary Force | 48917 | [48917-mercenary-force.json](./48917-mercenary-force.json) |
 | Mercenary Guild Manager | 420500 | [420500-mercenary-guild-manager.json](./420500-mercenary-guild-manager.json) |
 | Mercenary III: The Dion Crisis | 12680 | [12680-mercenary-iii-the-dion-crisis.json](./12680-mercenary-iii-the-dion-crisis.json) |
+| Mercenary Kings: Reloaded Edition | 84923 | [84923-mercenary-kings-reloaded-edition.json](./84923-mercenary-kings-reloaded-edition.json) |
 | Mercenary Leto | 105145 | [105145-mercenary-leto.json](./105145-mercenary-leto.json) |
 | Mercenary Ops | 65175 | [65175-mercenary-ops.json](./65175-mercenary-ops.json) |
 | Mercenary Squad Auto Chess | 285366 | [285366-mercenary-squad-auto-chess.json](./285366-mercenary-squad-auto-chess.json) |
