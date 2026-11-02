@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babba Yagga: Woodboy | 189326 | [189326-babba-yagga-woodboy.json](./189326-babba-yagga-woodboy.json) |
 | Babbdi | 229631 | [229631-babbdi.json](./229631-babbdi.json) |
 | Babbling Brook | 351277 | [351277-babbling-brook.json](./351277-babbling-brook.json) |
+| Babe | 401206 | [401206-babe.json](./401206-babe.json) |
 | Babe | 56546 | [56546-babe.json](./56546-babe.json) |
 | Babe and Friends | 245571 | [245571-babe-and-friends.json](./245571-babe-and-friends.json) |
 | Babe and Friends | 49915 | [49915-babe-and-friends.json](./49915-babe-and-friends.json) |
@@ -1952,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BandMaster | 185898 | [185898-bandmaster.json](./185898-bandmaster.json) |
 | Bandocracy | 415143 | [415143-bandocracy.json](./415143-bandocracy.json) |
 | BandRoll | 236294 | [236294-bandroll.json](./236294-bandroll.json) |
+| Bandwagon | 401202 | [401202-bandwagon.json](./401202-bandwagon.json) |
 | Bane Murrain | 271080 | [271080-bane-murrain.json](./271080-bane-murrain.json) |
 | Bane of Oakenshade | 323581 | [323581-bane-of-oakenshade.json](./323581-bane-of-oakenshade.json) |
 | Bane: Dawn of the Lost | 358743 | [358743-bane-dawn-of-the-lost.json](./358743-bane-dawn-of-the-lost.json) |
@@ -11157,6 +11159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blueberry Weather | 353869 | [353869-blueberry-weather.json](./353869-blueberry-weather.json) |
 | BlueBete | 137556 | [137556-bluebete.json](./137556-bluebete.json) |
 | Bluebird of Happiness | 213470 | [213470-bluebird-of-happiness.json](./213470-bluebird-of-happiness.json) |
+| Blueblood Arena | 400913 | [400913-blueblood-arena.json](./400913-blueblood-arena.json) |
 | BlueBoi | 127558 | [127558-blueboi.json](./127558-blueboi.json) |
 | BlueBoi Remastered | 134908 | [134908-blueboi-remastered.json](./134908-blueboi-remastered.json) |
 | Bluebush Chess | 74058 | [74058-bluebush-chess.json](./74058-bluebush-chess.json) |
@@ -12866,6 +12869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boticaria | 414028 | [414028-boticaria.json](./414028-boticaria.json) |
 | Botics | 14336 | [14336-botics.json](./14336-botics.json) |
 | Botlike: A Robot's Rampage | 53310 | [53310-botlike-a-robots-rampage.json](./53310-botlike-a-robots-rampage.json) |
+| Botlings | 400729 | [400729-botlings.json](./400729-botlings.json) |
 | Botmare | 408414 | [408414-botmare.json](./408414-botmare.json) |
 | BotMobile | 293111 | [293111-botmobile.json](./293111-botmobile.json) |
 | Boto Labo | 405052 | [405052-boto-labo.json](./405052-boto-labo.json) |
@@ -14044,6 +14048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BraveStarr | 13434 | [13434-bravestarr.json](./13434-bravestarr.json) |
 | BraveWorld: Helix Jumper | 103103 | [103103-braveworld-helix-jumper.json](./103103-braveworld-helix-jumper.json) |
 | BraveWorld: Sky Rolling Ball | 100777 | [100777-braveworld-sky-rolling-ball.json](./100777-braveworld-sky-rolling-ball.json) |
+| Bravion | 400650 | [400650-bravion.json](./400650-bravion.json) |
 | Bravium | 81083 | [81083-bravium.json](./81083-bravium.json) |
 | Bravium: Hero Defense | 38974 | [38974-bravium-hero-defense.json](./38974-bravium-hero-defense.json) |
 | Bravo | 404663 | [404663-bravo.json](./404663-bravo.json) |
