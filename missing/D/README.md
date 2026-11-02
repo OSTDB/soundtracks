@@ -9230,6 +9230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Direction! Level Up! | 306359 | [306359-direction-level-up.json](./306359-direction-level-up.json) |
 | Directional Isolation VR | 135710 | [135710-directional-isolation-vr.json](./135710-directional-isolation-vr.json) |
 | DirectionDungeon! | 179200 | [179200-directiondungeon.json](./179200-directiondungeon.json) |
+| Directionless | 32502 | [32502-directionless.json](./32502-directionless.json) |
 | Directive Nine | 157481 | [157481-directive-nine.json](./157481-directive-nine.json) |
 | Director Manager Total | 344940 | [344940-director-manager-total.json](./344940-director-manager-total.json) |
 | Director of Football | 71856 | [71856-director-of-football.json](./71856-director-of-football.json) |
@@ -11003,6 +11004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DogeRift | 227965 | [227965-dogerift.json](./227965-dogerift.json) |
 | Dogfight | 147831 | [147831-dogfight.json](./147831-dogfight.json) |
 | Dogfight 2187 | 13599 | [13599-dogfight-2187.json](./13599-dogfight-2187.json) |
+| Dogfight Elite | 32539 | [32539-dogfight-elite.json](./32539-dogfight-elite.json) |
 | DogFight Simulator | 52922 | [52922-dogfight-simulator.json](./52922-dogfight-simulator.json) |
 | DogFight Time | 195439 | [195439-dogfight-time.json](./195439-dogfight-time.json) |
 | Dogfight: 80 Years of Aerial Warfare | 12051 | [12051-dogfight-80-years-of-aerial-warfare.json](./12051-dogfight-80-years-of-aerial-warfare.json) |
@@ -11349,6 +11351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphin Swim | 116737 | [116737-dolphin-swim.json](./116737-dolphin-swim.json) |
 | Dolphin Trainer | 269739 | [269739-dolphin-trainer.json](./269739-dolphin-trainer.json) |
 | Dolphin Trainer VR | 156946 | [156946-dolphin-trainer-vr.json](./156946-dolphin-trainer-vr.json) |
+| Dolphin Up | 31155 | [31155-dolphin-up.json](./31155-dolphin-up.json) |
 | Dolphin Wave | 212640 | [212640-dolphin-wave.json](./212640-dolphin-wave.json) |
 | Dolphin's Dream | 74704 | [74704-dolphins-dream.json](./74704-dolphins-dream.json) |
 | Dolphins-Cyborgs and open space | 81756 | [81756-dolphins-cyborgs-and-open-space.json](./81756-dolphins-cyborgs-and-open-space.json) |
@@ -17354,6 +17357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Brooms | 183447 | [183447-dungeons-and-brooms.json](./183447-dungeons-and-brooms.json) |
 | Dungeons & Cardboard | 290898 | [290898-dungeons-and-cardboard.json](./290898-dungeons-and-cardboard.json) |
 | Dungeons & Cocks | 155918 | [155918-dungeons-and-cocks.json](./155918-dungeons-and-cocks.json) |
+| Dungeons & Darkness | 32535 | [32535-dungeons-and-darkness.json](./32535-dungeons-and-darkness.json) |
 | Dungeons & Degenerate Gamblers | 248673 | [248673-dungeons-and-degenerate-gamblers.json](./248673-dungeons-and-degenerate-gamblers.json) |
 | Dungeons & Desserts | 349371 | [349371-dungeons-and-desserts.json](./349371-dungeons-and-desserts.json) |
 | Dungeons & Dining Tables | 287484 | [287484-dungeons-and-dining-tables.json](./287484-dungeons-and-dining-tables.json) |
