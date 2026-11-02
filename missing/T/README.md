@@ -5549,6 +5549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apocalypse | 226603 | [226603-the-apocalypse.json](./226603-the-apocalypse.json) |
 | The Apocalypse of You | 178999 | [178999-the-apocalypse-of-you.json](./178999-the-apocalypse-of-you.json) |
 | The Apocryphal Gensoukyou | 212894 | [212894-the-apocryphal-gensoukyou.json](./212894-the-apocryphal-gensoukyou.json) |
+| The Apogee Throwback Pack | 30244 | [30244-the-apogee-throwback-pack.json](./30244-the-apogee-throwback-pack.json) |
 | The Apollo Project | 192682 | [192682-the-apollo-project.json](./192682-the-apollo-project.json) |
 | The Apothecary | 223242 | [223242-the-apothecary.json](./223242-the-apothecary.json) |
 | The Apothecary Diaries Palace Chronicles | 406943 | [406943-the-apothecary-diaries-palace-chronicles.json](./406943-the-apothecary-diaries-palace-chronicles.json) |
@@ -14128,6 +14129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Price Is Right Bingo | 83397 | [83397-the-price-is-right-bingo.json](./83397-the-price-is-right-bingo.json) |
 | The Price Is Right: 2010 Edition | 394690 | [394690-the-price-is-right-2010-edition.json](./394690-the-price-is-right-2010-edition.json) |
 | The Price is Right: Decades | 20213 | [20213-the-price-is-right-decades.json](./20213-the-price-is-right-decades.json) |
+| The Price of Freedom | 30388 | [30388-the-price-of-freedom.json](./30388-the-price-of-freedom.json) |
 | The Price of Magik | 28458 | [28458-the-price-of-magik.json](./28458-the-price-of-magik.json) |
 | The Price of Parking | 417580 | [417580-the-price-of-parking.json](./417580-the-price-of-parking.json) |
 | The Prime MoVR | 76659 | [76659-the-prime-movr.json](./76659-the-prime-movr.json) |
@@ -23358,6 +23360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomato Jones - Episode 3 | 83542 | [83542-tomato-jones-episode-3.json](./83542-tomato-jones-episode-3.json) |
 | Tomato Jones 2 | 28648 | [28648-tomato-jones-2.json](./28648-tomato-jones-2.json) |
 | Tomato Jones Adventures | 53819 | [53819-tomato-jones-adventures.json](./53819-tomato-jones-adventures.json) |
+| Tomato Way | 30184 | [30184-tomato-way.json](./30184-tomato-way.json) |
 | Tomato Way 2 | 104831 | [104831-tomato-way-2.json](./104831-tomato-way-2.json) |
 | Tomato Way 3 | 141563 | [141563-tomato-way-3.json](./141563-tomato-way-3.json) |
 | Tomato Worm | 181196 | [181196-tomato-worm.json](./181196-tomato-worm.json) |
@@ -25668,6 +25671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Soldiers HD | 147308 | [147308-toy-soldiers-hd.json](./147308-toy-soldiers-hd.json) |
 | Toy Soldiers: Boot Camp | 65424 | [65424-toy-soldiers-boot-camp.json](./65424-toy-soldiers-boot-camp.json) |
 | Toy Soldiers: Cold War | 9485 | [9485-toy-soldiers-cold-war.json](./9485-toy-soldiers-cold-war.json) |
+| Toy Soldiers: Complete | 30371 | [30371-toy-soldiers-complete.json](./30371-toy-soldiers-complete.json) |
 | Toy Soldiers: War Chest | 15187 | [15187-toy-soldiers-war-chest.json](./15187-toy-soldiers-war-chest.json) |
 | Toy Soldiers: War Chest - Assassin’s Creed Pack | 410330 | [410330-toy-soldiers-war-chest-assassin-s-creed-pack.json](./410330-toy-soldiers-war-chest-assassin-s-creed-pack.json) |
 | Toy Soldiers: War Chest - Cobra Pack | 410323 | [410323-toy-soldiers-war-chest-cobra-pack.json](./410323-toy-soldiers-war-chest-cobra-pack.json) |
