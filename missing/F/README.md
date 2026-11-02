@@ -2095,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 4 + Far Cry Primal Double Pack | 136307 | [136307-far-cry-4-far-cry-primal-double-pack.json](./136307-far-cry-4-far-cry-primal-double-pack.json) |
 | Far Cry 4 + Far Cry: Primal Bundle | 164801 | [164801-far-cry-4-far-cry-primal-bundle.json](./164801-far-cry-4-far-cry-primal-bundle.json) |
 | Far Cry 4: Arcade Poker | 60379 | [60379-far-cry-4-arcade-poker.json](./60379-far-cry-4-arcade-poker.json) |
+| Far Cry 4: Escape From Durgesh Prison | 23225 | [23225-far-cry-4-escape-from-durgesh-prison.json](./23225-far-cry-4-escape-from-durgesh-prison.json) |
 | Far Cry 4: Gold Edition | 53019 | [53019-far-cry-4-gold-edition.json](./53019-far-cry-4-gold-edition.json) |
 | Far Cry 4: Hurk Deluxe Pack | 109553 | [109553-far-cry-4-hurk-deluxe-pack.json](./109553-far-cry-4-hurk-deluxe-pack.json) |
 | Far Cry 4: Kyrat Edition | 41616 | [41616-far-cry-4-kyrat-edition.json](./41616-far-cry-4-kyrat-edition.json) |
@@ -4092,6 +4093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 09 | 240327 | [240327-fifa-soccer-09.json](./240327-fifa-soccer-09.json) |
 | FIFA Soccer 09 | 240328 | [240328-fifa-soccer-09.json](./240328-fifa-soccer-09.json) |
 | FIFA Soccer 09 | 3134 | [3134-fifa-soccer-09.json](./3134-fifa-soccer-09.json) |
+| FIFA Soccer 09 All-Play | 6691 | [6691-fifa-soccer-09-all-play.json](./6691-fifa-soccer-09-all-play.json) |
 | FIFA Soccer 10 | 240331 | [240331-fifa-soccer-10.json](./240331-fifa-soccer-10.json) |
 | FIFA Soccer 10 | 240332 | [240332-fifa-soccer-10.json](./240332-fifa-soccer-10.json) |
 | FIFA Soccer 10 | 240333 | [240333-fifa-soccer-10.json](./240333-fifa-soccer-10.json) |
@@ -7011,6 +7013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlatOut 4: Total Insanity VR | 360782 | [360782-flatout-4-total-insanity-vr.json](./360782-flatout-4-total-insanity-vr.json) |
 | FlatOut 4: Total Insanity Workshop Tools | 90606 | [90606-flatout-4-total-insanity-workshop-tools.json](./90606-flatout-4-total-insanity-workshop-tools.json) |
 | Flatout Pixel Racing | 200462 | [200462-flatout-pixel-racing.json](./200462-flatout-pixel-racing.json) |
+| FlatOut: Head On | 22774 | [22774-flatout-head-on.json](./22774-flatout-head-on.json) |
 | Flatout: Stuntman | 309217 | [309217-flatout-stuntman.json](./309217-flatout-stuntman.json) |
 | FlatOut: Ultimate Carnage | 3777 | [3777-flatout-ultimate-carnage.json](./3777-flatout-ultimate-carnage.json) |
 | Flats | 174840 | [174840-flats.json](./174840-flats.json) |
