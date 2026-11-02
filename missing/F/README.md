@@ -2349,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy: Crazy Bear Island | 90893 | [90893-farm-frenzy-crazy-bear-island.json](./90893-farm-frenzy-crazy-bear-island.json) |
 | Farm Frenzy: Forever and Ever! | 201279 | [201279-farm-frenzy-forever-and-ever.json](./201279-farm-frenzy-forever-and-ever.json) |
 | Farm Frenzy: Heave Ho | 34629 | [34629-farm-frenzy-heave-ho.json](./34629-farm-frenzy-heave-ho.json) |
+| Farm Frenzy: Hurricane Season | 35453 | [35453-farm-frenzy-hurricane-season.json](./35453-farm-frenzy-hurricane-season.json) |
 | Farm Frenzy: Viking Heroes | 53057 | [53057-farm-frenzy-viking-heroes.json](./53057-farm-frenzy-viking-heroes.json) |
 | Farm Fun | 359281 | [359281-farm-fun.json](./359281-farm-fun.json) |
 | Farm Garden Simulator | 263963 | [263963-farm-garden-simulator.json](./263963-farm-garden-simulator.json) |
@@ -4362,6 +4363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighters' Impact | 44826 | [44826-fighters-impact.json](./44826-fighters-impact.json) |
 | Fightfinity | 388361 | [388361-fightfinity.json](./388361-fightfinity.json) |
 | FightGirl | 310025 | [310025-fightgirl.json](./310025-fightgirl.json) |
+| Fighties | 35466 | [35466-fighties.json](./35466-fighties.json) |
 | Fighties 2 | 172940 | [172940-fighties-2.json](./172940-fighties-2.json) |
 | Fightin' Spirit | 12096 | [12096-fightin-spirit.json](./12096-fightin-spirit.json) |
 | Fightin' Words | 297074 | [297074-fightin-words.json](./297074-fightin-words.json) |
@@ -10867,6 +10869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeCell 2018 | 86693 | [86693-freecell-2018.json](./86693-freecell-2018.json) |
 | Freecell Battle King | 114907 | [114907-freecell-battle-king.json](./114907-freecell-battle-king.json) |
 | FreeCell Pro | 131132 | [131132-freecell-pro.json](./131132-freecell-pro.json) |
+| FreeCell Quest | 35409 | [35409-freecell-quest.json](./35409-freecell-quest.json) |
 | Freecell Solitaire | 89168 | [89168-freecell-solitaire.json](./89168-freecell-solitaire.json) |
 | FreeCell Solitaire - Classic Deck Card Games | 88365 | [88365-freecell-solitaire-classic-deck-card-games.json](./88365-freecell-solitaire-classic-deck-card-games.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
