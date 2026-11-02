@@ -4041,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleground: Bulge-Ardennes | 22614 | [22614-battleground-bulge-ardennes.json](./22614-battleground-bulge-ardennes.json) |
 | Battleground's Survivor: Battle Royale | 174853 | [174853-battlegrounds-survivor-battle-royale.json](./174853-battlegrounds-survivor-battle-royale.json) |
 | Battlegrounds | 403592 | [403592-battlegrounds.json](./403592-battlegrounds.json) |
+| Battlegrounds Mobile India | 146903 | [146903-battlegrounds-mobile-india.json](./146903-battlegrounds-mobile-india.json) |
 | Battlegrounds of Eldhelm | 17955 | [17955-battlegrounds-of-eldhelm.json](./17955-battlegrounds-of-eldhelm.json) |
 | Battlegrounds Real Time Strategy Multiplayer: Spy vs Spy Edition | 88376 | [88376-battlegrounds-real-time-strategy-multiplayer-spy-vs-spy-edition.json](./88376-battlegrounds-real-time-strategy-multiplayer-spy-vs-spy-edition.json) |
 | Battlegrounds: At Enemy Gates | 266615 | [266615-battlegrounds-at-enemy-gates.json](./266615-battlegrounds-at-enemy-gates.json) |
