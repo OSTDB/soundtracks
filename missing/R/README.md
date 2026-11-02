@@ -8989,6 +8989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 8 | 216200 | [216200-rocket-league-season-8.json](./216200-rocket-league-season-8.json) |
 | Rocket League: Season 9 | 228509 | [228509-rocket-league-season-9.json](./228509-rocket-league-season-9.json) |
 | Rocket League: Supersonic Fury | 202683 | [202683-rocket-league-supersonic-fury.json](./202683-rocket-league-supersonic-fury.json) |
+| Rocket League: Triplex Black Wheels | 403304 | [403304-rocket-league-triplex-black-wheels.json](./403304-rocket-league-triplex-black-wheels.json) |
 | Rocket League: TriTrim Wheels | 366848 | [366848-rocket-league-tritrim-wheels.json](./366848-rocket-league-tritrim-wheels.json) |
 | Rocket League: Whiplash | 279244 | [279244-rocket-league-whiplash.json](./279244-rocket-league-whiplash.json) |
 | Rocket Lift | 255178 | [255178-rocket-lift.json](./255178-rocket-lift.json) |
@@ -11900,6 +11901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeseekers | 381699 | [381699-runeseekers.json](./381699-runeseekers.json) |
 | Runeseekers 2 | 381721 | [381721-runeseekers-2.json](./381721-runeseekers-2.json) |
 | Runeshard | 56272 | [56272-runeshard.json](./56272-runeshard.json) |
+| RuneSmith | 403385 | [403385-runesmith.json](./403385-runesmith.json) |
 | Runestone | 92894 | [92894-runestone.json](./92894-runestone.json) |
 | Runestone Heroes | 56879 | [56879-runestone-heroes.json](./56879-runestone-heroes.json) |
 | Runestone Keeper | 36026 | [36026-runestone-keeper.json](./36026-runestone-keeper.json) |
