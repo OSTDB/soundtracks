@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JettFuel+ | 416848 | [416848-jettfuel.json](./416848-jettfuel.json) |
 | Jettomero Deluxe Bundle | 118860 | [118860-jettomero-deluxe-bundle.json](./118860-jettomero-deluxe-bundle.json) |
 | Jettomero Ultimate Bundle | 118855 | [118855-jettomero-ultimate-bundle.json](./118855-jettomero-ultimate-bundle.json) |
+| Jettomero: Hero of the Universe | 69382 | [69382-jettomero-hero-of-the-universe.json](./69382-jettomero-hero-of-the-universe.json) |
 | JetTurbo | 261865 | [261865-jetturbo.json](./261865-jetturbo.json) |
 | JetWireClimber | 312166 | [312166-jetwireclimber.json](./312166-jetwireclimber.json) |
 | JetX | 74511 | [74511-jetx.json](./74511-jetx.json) |
@@ -3586,6 +3587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Monster World | 141508 | [141508-jurassic-monster-world.json](./141508-jurassic-monster-world.json) |
 | Jurassic Park | 128888 | [128888-jurassic-park.json](./128888-jurassic-park.json) |
 | Jurassic Park | 134299 | [134299-jurassic-park.json](./134299-jurassic-park.json) |
+| Jurassic Park | 147051 | [147051-jurassic-park.json](./147051-jurassic-park.json) |
 | Jurassic Park | 147274 | [147274-jurassic-park.json](./147274-jurassic-park.json) |
 | Jurassic Park | 15543 | [15543-jurassic-park.json](./15543-jurassic-park.json) |
 | Jurassic Park | 198788 | [198788-jurassic-park.json](./198788-jurassic-park.json) |
