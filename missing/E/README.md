@@ -5471,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN National Hockey Night | 80419 | [80419-espn-national-hockey-night.json](./80419-espn-national-hockey-night.json) |
 | ESPN NBA 2K5 | 8834 | [8834-espn-nba-2k5.json](./8834-espn-nba-2k5.json) |
 | ESPN NBA 2Night | 78678 | [78678-espn-nba-2night.json](./78678-espn-nba-2night.json) |
+| ESPN NBA 2Night 2002 | 5825 | [5825-espn-nba-2night-2002.json](./5825-espn-nba-2night-2002.json) |
 | ESPN NBA Basketball | 8833 | [8833-espn-nba-basketball.json](./8833-espn-nba-basketball.json) |
 | ESPN NBA Basketball 2004 | 94616 | [94616-espn-nba-basketball-2004.json](./94616-espn-nba-basketball-2004.json) |
 | ESPN NBA HangTime '95 | 46406 | [46406-espn-nba-hangtime-95.json](./46406-espn-nba-hangtime-95.json) |
@@ -6543,6 +6544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody's Stranger | 240641 | [240641-everybodys-stranger.json](./240641-everybodys-stranger.json) |
 | Everyday Baseball VR | 107415 | [107415-everyday-baseball-vr.json](./107415-everyday-baseball-vr.json) |
 | Everyday Devil | 380839 | [380839-everyday-devil.json](./380839-everyday-devil.json) |
+| Everyday Genius: SquareLogic | 16005 | [16005-everyday-genius-squarelogic.json](./16005-everyday-genius-squarelogic.json) |
 | Everyday Heroines: 3 in 1 | 332012 | [332012-everyday-heroines-3-in-1.json](./332012-everyday-heroines-3-in-1.json) |
 | Everyday House Tamagotchi | 222427 | [222427-everyday-house-tamagotchi.json](./222427-everyday-house-tamagotchi.json) |
 | Everyday Jigsaw | 87088 | [87088-everyday-jigsaw.json](./87088-everyday-jigsaw.json) |
