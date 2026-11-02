@@ -2843,6 +2843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO City: My City 2 | 193832 | [193832-lego-city-my-city-2.json](./193832-lego-city-my-city-2.json) |
 | LEGO Creator: Harry Potter | 66631 | [66631-lego-creator-harry-potter.json](./66631-lego-creator-harry-potter.json) |
 | LEGO Creator: Harry Potter and the Chamber of Secrets | 78288 | [78288-lego-creator-harry-potter-and-the-chamber-of-secrets.json](./78288-lego-creator-harry-potter-and-the-chamber-of-secrets.json) |
+| LEGO Creator: Knights' Kingdom | 6499 | [6499-lego-creator-knights-kingdom.json](./6499-lego-creator-knights-kingdom.json) |
 | LEGO DC Comics Super Heroes: Team Up | 59190 | [59190-lego-dc-comics-super-heroes-team-up.json](./59190-lego-dc-comics-super-heroes-team-up.json) |
 | LEGO DC Mighty Micros | 104493 | [104493-lego-dc-mighty-micros.json](./104493-lego-dc-mighty-micros.json) |
 | LEGO DC Super-Villains | 102321 | [102321-lego-dc-super-villains.json](./102321-lego-dc-super-villains.json) |
@@ -2960,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Juniors Create & Cruise | 105878 | [105878-lego-juniors-create-and-cruise.json](./105878-lego-juniors-create-and-cruise.json) |
 | LEGO Jurassic World | 9918 | [9918-lego-jurassic-world.json](./9918-lego-jurassic-world.json) |
 | LEGO Knights' Kingdom | 6498 | [6498-lego-knights-kingdom.json](./6498-lego-knights-kingdom.json) |
+| LEGO Legends of Chima: Laval's Journey | 6839 | [6839-lego-legends-of-chima-lavals-journey.json](./6839-lego-legends-of-chima-lavals-journey.json) |
 | LEGO Lord of the Rings: Elrond Edition | 89924 | [89924-lego-lord-of-the-rings-elrond-edition.json](./89924-lego-lord-of-the-rings-elrond-edition.json) |
 | LEGO Mars Mission: CrystAlien Conflict | 153692 | [153692-lego-mars-mission-crystalien-conflict.json](./153692-lego-mars-mission-crystalien-conflict.json) |
 | LEGO Marvel Collection | 115019 | [115019-lego-marvel-collection.json](./115019-lego-marvel-collection.json) |
@@ -3246,6 +3248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEO: Low Earth Orbit | 351582 | [351582-leo-low-earth-orbit.json](./351582-leo-low-earth-orbit.json) |
 | Leo: The Square | 303626 | [303626-leo-the-square.json](./303626-leo-the-square.json) |
 | Leo's Fortune | 19489 | [19489-leos-fortune.json](./19489-leos-fortune.json) |
+| Leo's Fortune HD Edition | 24042 | [24042-leos-fortune-hd-edition.json](./24042-leos-fortune-hd-edition.json) |
 | Leo's RC Simulator | 380543 | [380543-leos-rc-simulator.json](./380543-leos-rc-simulator.json) |
 | Leo's Red Carpet Rampage | 249608 | [249608-leos-red-carpet-rampage.json](./249608-leos-red-carpet-rampage.json) |
 | Leon's Identity | 136992 | [136992-leons-identity.json](./136992-leons-identity.json) |
@@ -8390,6 +8393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely x Cation | 135501 | [135501-lovely-x-cation.json](./135501-lovely-x-cation.json) |
 | Lovely x Cation 1 & 2 | 79306 | [79306-lovely-x-cation-1-and-2.json](./79306-lovely-x-cation-1-and-2.json) |
 | Lovelydoll/Wildmachine | 188559 | [188559-lovelydoll-wildmachine.json](./188559-lovelydoll-wildmachine.json) |
+| LovePlus | 6850 | [6850-loveplus.json](./6850-loveplus.json) |
 | LovePlus Every | 70861 | [70861-loveplus-every.json](./70861-loveplus-every.json) |
 | LovePlus+ | 124475 | [124475-loveplus.json](./124475-loveplus.json) |
 | Lover | 299149 | [299149-lover.json](./299149-lover.json) |
