@@ -4805,6 +4805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Ascent | 292048 | [292048-celestial-ascent.json](./292048-celestial-ascent.json) |
 | Celestial Breach | 30795 | [30795-celestial-breach.json](./30795-celestial-breach.json) |
 | Celestial Clockwork | 374241 | [374241-celestial-clockwork.json](./374241-celestial-clockwork.json) |
+| Celestial Command | 17978 | [17978-celestial-command.json](./17978-celestial-command.json) |
 | Celestial Correspondence | 135027 | [135027-celestial-correspondence.json](./135027-celestial-correspondence.json) |
 | Celestial Crossing | 29983 | [29983-celestial-crossing.json](./29983-celestial-crossing.json) |
 | Celestial Crown | 318119 | [318119-celestial-crown.json](./318119-celestial-crown.json) |
@@ -6037,6 +6038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheese Stack | 422046 | [422046-cheese-stack.json](./422046-cheese-stack.json) |
 | Cheese Terminator | 105404 | [105404-cheese-terminator.json](./105404-cheese-terminator.json) |
 | Cheese: The Cheese Collector | 319092 | [319092-cheese-the-cheese-collector.json](./319092-cheese-the-cheese-collector.json) |
+| Cheesecake Cool Conrad | 17917 | [17917-cheesecake-cool-conrad.json](./17917-cheesecake-cool-conrad.json) |
 | Cheesecake Cult: Unholy Feast | 275579 | [275579-cheesecake-cult-unholy-feast.json](./275579-cheesecake-cult-unholy-feast.json) |
 | CheeseCatToe | 363353 | [363353-cheesecattoe.json](./363353-cheesecattoe.json) |
 | CheeseCube | 156317 | [156317-cheesecube.json](./156317-cheesecube.json) |
@@ -7144,6 +7146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocobo GP | 172426 | [172426-chocobo-gp.json](./172426-chocobo-gp.json) |
 | Chocobo Kwehst | 269775 | [269775-chocobo-kwehst.json](./269775-chocobo-kwehst.json) |
 | Chocobo Land: A Game of Dice | 49559 | [49559-chocobo-land-a-game-of-dice.json](./49559-chocobo-land-a-game-of-dice.json) |
+| Chocobo no Fushigi na Dungeon | 18070 | [18070-chocobo-no-fushigi-na-dungeon.json](./18070-chocobo-no-fushigi-na-dungeon.json) |
 | Chocobo Racing | 22896 | [22896-chocobo-racing.json](./22896-chocobo-racing.json) |
 | Chocobo's Mystery Dungeon Every Buddy! | 109465 | [109465-chocobos-mystery-dungeon-every-buddy.json](./109465-chocobos-mystery-dungeon-every-buddy.json) |
 | Chocolat | 10429 | [10429-chocolat.json](./10429-chocolat.json) |
@@ -8596,6 +8599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Bus Simulator 2024 | 304324 | [304324-city-bus-simulator-2024.json](./304324-city-bus-simulator-2024.json) |
 | City Bus Simulator Munich | 52506 | [52506-city-bus-simulator-munich.json](./52506-city-bus-simulator-munich.json) |
 | City Bus Simulator New York | 52505 | [52505-city-bus-simulator-new-york.json](./52505-city-bus-simulator-new-york.json) |
+| City Bus Simulator: New York | 10594 | [10594-city-bus-simulator-new-york.json](./10594-city-bus-simulator-new-york.json) |
 | City Bus Tycoon | 89810 | [89810-city-bus-tycoon.json](./89810-city-bus-tycoon.json) |
 | City Car Driving 2.0 | 403690 | [403690-city-car-driving-2-0.json](./403690-city-car-driving-2-0.json) |
 | City Car Parking Simulator | 256336 | [256336-city-car-parking-simulator.json](./256336-city-car-parking-simulator.json) |
@@ -10043,6 +10047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Koala | 293555 | [293555-club-koala.json](./293555-club-koala.json) |
 | Club Life Visual Novel | 197767 | [197767-club-life-visual-novel.json](./197767-club-life-visual-novel.json) |
 | Club Lipstick VR | 157217 | [157217-club-lipstick-vr.json](./157217-club-lipstick-vr.json) |
+| Club Manager 2015 | 17909 | [17909-club-manager-2015.json](./17909-club-manager-2015.json) |
 | Club Manager 2016 | 34337 | [34337-club-manager-2016.json](./34337-club-manager-2016.json) |
 | Club Manager 2017 | 31957 | [31957-club-manager-2017.json](./31957-club-manager-2017.json) |
 | Club Marian | 167031 | [167031-club-marian.json](./167031-club-marian.json) |
@@ -17393,6 +17398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Call | 142237 | [142237-crystal-call.json](./142237-crystal-call.json) |
 | Crystal Captor: Memory Chronicle Finale | 176760 | [176760-crystal-captor-memory-chronicle-finale.json](./176760-crystal-captor-memory-chronicle-finale.json) |
 | Crystal Castles | 11207 | [11207-crystal-castles.json](./11207-crystal-castles.json) |
+| Crystal Catacombs | 17893 | [17893-crystal-catacombs.json](./17893-crystal-catacombs.json) |
 | Crystal Cave | 339343 | [339343-crystal-cave.json](./339343-crystal-cave.json) |
 | Crystal Cave Classic | 142326 | [142326-crystal-cave-classic.json](./142326-crystal-cave-classic.json) |
 | Crystal Cave Gold | 142325 | [142325-crystal-cave-gold.json](./142325-crystal-cave-gold.json) |
