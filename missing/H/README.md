@@ -11768,6 +11768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperPortals | 195712 | [195712-hyperportals.json](./195712-hyperportals.json) |
 | HyperRaid | 293578 | [293578-hyperraid.json](./293578-hyperraid.json) |
 | Hyperrail Detective | 272762 | [272762-hyperrail-detective.json](./272762-hyperrail-detective.json) |
+| HyperRogue | 35931 | [35931-hyperrogue.json](./35931-hyperrogue.json) |
 | Hyperscale | 410398 | [410398-hyperscale.json](./410398-hyperscale.json) |
 | HyperShift | 56238 | [56238-hypershift.json](./56238-hypershift.json) |
 | Hypership Out of Control | 35659 | [35659-hypership-out-of-control.json](./35659-hypership-out-of-control.json) |
