@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Killer | 40338 | [40338-lady-killer.json](./40338-lady-killer.json) |
 | Lady Killers | 321287 | [321287-lady-killers.json](./321287-lady-killers.json) |
 | Lady Knight Quest | 341095 | [341095-lady-knight-quest.json](./341095-lady-knight-quest.json) |
+| Lady Mabel Mysteries: Death on Board | 416535 | [416535-lady-mabel-mysteries-death-on-board.json](./416535-lady-mabel-mysteries-death-on-board.json) |
 | Lady Mabel Mysteries: Death on Board - Collector’s Edition | 383759 | [383759-lady-mabel-mysteries-death-on-board-collector-s-edition.json](./383759-lady-mabel-mysteries-death-on-board-collector-s-edition.json) |
 | Lady Master of Kung Fu | 39343 | [39343-lady-master-of-kung-fu.json](./39343-lady-master-of-kung-fu.json) |
 | Lady of Bones, a Mother's Legacy | 273757 | [273757-lady-of-bones-a-mothers-legacy.json](./273757-lady-of-bones-a-mothers-legacy.json) |
@@ -638,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lance A Lot | 18948 | [18948-lance-a-lot.json](./18948-lance-a-lot.json) |
 | Lance A Lot: Enhanced Edition | 59258 | [59258-lance-a-lot-enhanced-edition.json](./59258-lance-a-lot-enhanced-edition.json) |
 | Lancelot | 12169 | [12169-lancelot.json](./12169-lancelot.json) |
+| Lancelot: The Silver Knight | 416512 | [416512-lancelot-the-silver-knight.json](./416512-lancelot-the-silver-knight.json) |
 | Lancelot's Hangover : The Quest for the Holy Booze | 107775 | [107775-lancelots-hangover-the-quest-for-the-holy-booze.json](./107775-lancelots-hangover-the-quest-for-the-holy-booze.json) |
 | Lancen Adventure | 321814 | [321814-lancen-adventure.json](./321814-lancen-adventure.json) |
 | Lancer Lords | 251150 | [251150-lancer-lords.json](./251150-lancer-lords.json) |
@@ -1962,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leading Lap MPV | 138701 | [138701-leading-lap-mpv.json](./138701-leading-lap-mpv.json) |
 | Leading the Dead | 186677 | [186677-leading-the-dead.json](./186677-leading-the-dead.json) |
 | Leadlight | 330903 | [330903-leadlight.json](./330903-leadlight.json) |
+| Leadlight | 416505 | [416505-leadlight.json](./416505-leadlight.json) |
 | Leadville | 414820 | [414820-leadville.json](./414820-leadville.json) |
 | Leaf | 116865 | [116865-leaf.json](./116865-leaf.json) |
 | Leaf Blower Co. | 347820 | [347820-leaf-blower-co.json](./347820-leaf-blower-co.json) |
@@ -3943,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexie the Takeover | 81651 | [81651-lexie-the-takeover.json](./81651-lexie-the-takeover.json) |
 | LexiLoong | 357823 | [357823-lexiloong.json](./357823-lexiloong.json) |
 | Leximan | 177455 | [177455-leximan.json](./177455-leximan.json) |
+| LexiMint | 415824 | [415824-leximint.json](./415824-leximint.json) |
 | Leximorph: Word Merge Game | 344534 | [344534-leximorph-word-merge-game.json](./344534-leximorph-word-merge-game.json) |
 | Lexis | 379596 | [379596-lexis.json](./379596-lexis.json) |
 | Lexispell | 376482 | [376482-lexispell.json](./376482-lexispell.json) |
@@ -5609,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Islanders | 211251 | [211251-little-islanders.json](./211251-little-islanders.json) |
 | Little Jack's Adventures | 30101 | [30101-little-jacks-adventures.json](./30101-little-jacks-adventures.json) |
 | Little Jigs ABC Puzzles | 108732 | [108732-little-jigs-abc-puzzles.json](./108732-little-jigs-abc-puzzles.json) |
+| Little Jimmy´s Nightmare | 415340 | [415340-little-jimmy-s-nightmare.json](./415340-little-jimmy-s-nightmare.json) |
 | Little Journeys | 213836 | [213836-little-journeys.json](./213836-little-journeys.json) |
 | Little Jumper! | 175403 | [175403-little-jumper.json](./175403-little-jumper.json) |
 | Little Keepers | 256418 | [256418-little-keepers.json](./256418-little-keepers.json) |
@@ -6357,6 +6362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lockey | 412471 | [412471-lockey.json](./412471-lockey.json) |
 | Lockheart Indigo | 121956 | [121956-lockheart-indigo.json](./121956-lockheart-indigo.json) |
 | Lockjaw | 297327 | [297327-lockjaw.json](./297327-lockjaw.json) |
+| Lockpicks-11 | 415331 | [415331-lockpicks-11.json](./415331-lockpicks-11.json) |
 | Locks | 199452 | [199452-locks.json](./199452-locks.json) |
 | Locksmith | 413897 | [413897-locksmith.json](./413897-locksmith.json) |
 | Locksmith | 48906 | [48906-locksmith.json](./48906-locksmith.json) |
