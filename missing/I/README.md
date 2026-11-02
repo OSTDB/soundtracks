@@ -3253,6 +3253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inexplicable Geeks: RestoreTheMillerCut | 253924 | [253924-inexplicable-geeks-restorethemillercut.json](./253924-inexplicable-geeks-restorethemillercut.json) |
 | Infamous 18 | 378396 | [378396-infamous-18.json](./378396-infamous-18.json) |
 | Infamous 2: Hero Edition | 139698 | [139698-infamous-2-hero-edition.json](./139698-infamous-2-hero-edition.json) |
+| Infamous Collection | 23828 | [23828-infamous-collection.json](./23828-infamous-collection.json) |
 | Infamous Keepers | 398591 | [398591-infamous-keepers.json](./398591-infamous-keepers.json) |
 | Infamous Machine | 99896 | [99896-infamous-machine.json](./99896-infamous-machine.json) |
 | Infamous Second Son - Special Edition | 89873 | [89873-infamous-second-son-special-edition.json](./89873-infamous-second-son-special-edition.json) |
