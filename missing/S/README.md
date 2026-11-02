@@ -5438,6 +5438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam HD: The Second Encounter | 13181 | [13181-serious-sam-hd-the-second-encounter.json](./13181-serious-sam-hd-the-second-encounter.json) |
 | Serious Sam HD: The Second Encounter - Legend of the Beast | 170923 | [170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json](./170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json) |
 | Serious Sam II | 787 | [787-serious-sam-ii.json](./787-serious-sam-ii.json) |
+| Serious Sam VR: The First Encounter | 30620 | [30620-serious-sam-vr-the-first-encounter.json](./30620-serious-sam-vr-the-first-encounter.json) |
 | Serious Sam VR: The Last Hope | 19543 | [19543-serious-sam-vr-the-last-hope.json](./19543-serious-sam-vr-the-last-hope.json) |
 | Serious Sam VR: The Second Encounter | 91116 | [91116-serious-sam-vr-the-second-encounter.json](./91116-serious-sam-vr-the-second-encounter.json) |
 | Serious Sam: Dark Island | 361920 | [361920-serious-sam-dark-island.json](./361920-serious-sam-dark-island.json) |
@@ -8152,6 +8153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShipRect | 212797 | [212797-shiprect.json](./212797-shiprect.json) |
 | Ships | 125738 | [125738-ships.json](./125738-ships.json) |
 | Ships | 187826 | [187826-ships.json](./187826-ships.json) |
+| Ships 2017 | 25822 | [25822-ships-2017.json](./25822-ships-2017.json) |
 | Ships 2022 | 148897 | [148897-ships-2022.json](./148897-ships-2022.json) |
 | Ships 3D | 321755 | [321755-ships-3d.json](./321755-ships-3d.json) |
 | Ships at Sea | 251741 | [251741-ships-at-sea.json](./251741-ships-at-sea.json) |
@@ -18284,7 +18286,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -31088,6 +31089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Toy Cars Offroad | 173959 | [173959-super-toy-cars-offroad.json](./173959-super-toy-cars-offroad.json) |
 | Super Trailblazers | 339475 | [339475-super-trailblazers.json](./339475-super-trailblazers.json) |
 | Super Trashforce | 59134 | [59134-super-trashforce.json](./59134-super-trashforce.json) |
+| Super Treasure Arena | 25931 | [25931-super-treasure-arena.json](./25931-super-treasure-arena.json) |
 | Super Trench Attack 2 | 34840 | [34840-super-trench-attack-2.json](./34840-super-trench-attack-2.json) |
 | Super Trench Attack! | 17592 | [17592-super-trench-attack.json](./17592-super-trench-attack.json) |
 | Super Troll Islands | 42448 | [42448-super-troll-islands.json](./42448-super-troll-islands.json) |
@@ -33747,6 +33749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syphon Filter: The Omega Strain | 20185 | [20185-syphon-filter-the-omega-strain.json](./20185-syphon-filter-the-omega-strain.json) |
 | Syr and the Stars' Revival | 399187 | [399187-syr-and-the-stars-revival.json](./399187-syr-and-the-stars-revival.json) |
 | Syrak: the War in the Middle-East | 193648 | [193648-syrak-the-war-in-the-middle-east.json](./193648-syrak-the-war-in-the-middle-east.json) |
+| Syren | 30602 | [30602-syren.json](./30602-syren.json) |
 | Syrenka Racer | 255659 | [255659-syrenka-racer.json](./255659-syrenka-racer.json) |
 | Syrian Warfare | 32461 | [32461-syrian-warfare.json](./32461-syrian-warfare.json) |
 | Syrian Warfare: Battlefields | 164603 | [164603-syrian-warfare-battlefields.json](./164603-syrian-warfare-battlefields.json) |
