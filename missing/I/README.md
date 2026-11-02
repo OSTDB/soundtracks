@@ -3593,6 +3593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Word Search Puzzles | 87658 | [87658-infinite-word-search-puzzles.json](./87658-infinite-word-search-puzzles.json) |
 | Infinite World | 102936 | [102936-infinite-world.json](./102936-infinite-world.json) |
 | Infinite Zombie: VIP | 95863 | [95863-infinite-zombie-vip.json](./95863-infinite-zombie-vip.json) |
+| Infinite: Beyond the Mind | 128968 | [128968-infinite-beyond-the-mind.json](./128968-infinite-beyond-the-mind.json) |
 | InfiniteCorp | 132688 | [132688-infinitecorp.json](./132688-infinitecorp.json) |
 | Infinitely Up | 335340 | [335340-infinitely-up.json](./335340-infinitely-up.json) |
 | Infinitely Up 2 | 335339 | [335339-infinitely-up-2.json](./335339-infinitely-up-2.json) |
