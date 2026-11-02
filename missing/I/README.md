@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I-Xera | 60306 | [60306-i-xera.json](./60306-i-xera.json) |
 | I・S・U | 96236 | [96236-i-s-u.json](./96236-i-s-u.json) |
 | I, AI | 143897 | [143897-i-ai.json](./143897-i-ai.json) |
+| I, Ball | 15232 | [15232-i-ball.json](./15232-i-ball.json) |
 | I, Ball II | 38927 | [38927-i-ball-ii.json](./38927-i-ball-ii.json) |
 | I, Chatbot: Aisylum | 290511 | [290511-i-chatbot-aisylum.json](./290511-i-chatbot-aisylum.json) |
 | I, Damiano | 24671 | [24671-i-damiano.json](./24671-i-damiano.json) |
@@ -1174,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IDentity Rebels | 236474 | [236474-identity-rebels.json](./236474-identity-rebels.json) |
 | Identity Sector | 119694 | [119694-identity-sector.json](./119694-identity-sector.json) |
 | Identity: Town Square | 111884 | [111884-identity-town-square.json](./111884-identity-town-square.json) |
+| Ideology in Friction | 114317 | [114317-ideology-in-friction.json](./114317-ideology-in-friction.json) |
 | Ideology in Friction: Append | 170990 | [170990-ideology-in-friction-append.json](./170990-ideology-in-friction-append.json) |
 | Ideology in Friction: Deluxe Edition | 186899 | [186899-ideology-in-friction-deluxe-edition.json](./186899-ideology-in-friction-deluxe-edition.json) |
 | IDET | 324299 | [324299-idet.json](./324299-idet.json) |
