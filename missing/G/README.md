@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.I. Joe: Star Brigade | 198747 | [198747-g-i-joe-star-brigade.json](./198747-g-i-joe-star-brigade.json) |
 | G.I. Joe: The Atlantis Factor | 8166 | [8166-g-i-joe-the-atlantis-factor.json](./8166-g-i-joe-the-atlantis-factor.json) |
 | G.I. Joe: The Rise of Cobra | 200914 | [200914-g-i-joe-the-rise-of-cobra.json](./200914-g-i-joe-the-rise-of-cobra.json) |
+| G.I. Joe: The Rise of Cobra | 4877 | [4877-g-i-joe-the-rise-of-cobra.json](./4877-g-i-joe-the-rise-of-cobra.json) |
 | G.I. Joe: The Rise of Cobra - Basic Training | 67762 | [67762-g-i-joe-the-rise-of-cobra-basic-training.json](./67762-g-i-joe-the-rise-of-cobra-basic-training.json) |
 | G.I. Joe: War on Cobra | 138573 | [138573-g-i-joe-war-on-cobra.json](./138573-g-i-joe-war-on-cobra.json) |
 | G.I. Joe: Wrath of Cobra | 264313 | [264313-g-i-joe-wrath-of-cobra.json](./264313-g-i-joe-wrath-of-cobra.json) |
@@ -8854,6 +8855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grind Rush | 371945 | [371945-grind-rush.json](./371945-grind-rush.json) |
 | Grind Session | 45018 | [45018-grind-session.json](./45018-grind-session.json) |
 | Grind Stormer | 293645 | [293645-grind-stormer.json](./293645-grind-stormer.json) |
+| Grind Stormer | 4420 | [4420-grind-stormer.json](./4420-grind-stormer.json) |
 | Grind TD | 389987 | [389987-grind-td.json](./389987-grind-td.json) |
 | Grind X Grind | 400552 | [400552-grind-x-grind.json](./400552-grind-x-grind.json) |
 | Grind Zones | 36217 | [36217-grind-zones.json](./36217-grind-zones.json) |
