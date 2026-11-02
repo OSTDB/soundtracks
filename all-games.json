@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-02T21:26:38.273Z",
-  "total_soundtracks": 2821,
+  "generated_at": "2026-11-02T21:36:57.921Z",
+  "total_soundtracks": 2831,
   "games": [
     {
       "igdb_id": 7522,
@@ -1095,6 +1095,20 @@
         {
           "album_name": "Aliens: Fireteam Elite (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6mClqOcembIZ7ZhTvZ8XdW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 68216,
+      "game_name": "All Our Asias",
+      "game_url": "https://ostdb.net/games/all-our-asias",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737f247b765b8aec6b1f93d09c",
+      "albums": [
+        {
+          "album_name": "All Our Asias (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0RrBudCyTv2m8xUsSFr5AL",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -6989,6 +7003,20 @@
       ]
     },
     {
+      "igdb_id": 272291,
+      "game_name": "Dead Island 2: Haus",
+      "game_url": "https://ostdb.net/games/dead-island-2-haus",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d88acfaf0838036525e5ea6d",
+      "albums": [
+        {
+          "album_name": "Dead Island 2 Haus (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3PrTQw8hxsQfe0UCJNGXyU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 306979,
       "game_name": "Dead Rising Deluxe Remaster",
       "game_url": "https://ostdb.net/games/dead-rising-deluxe-remaster",
@@ -8380,6 +8408,20 @@
     },
     {
       "igdb_id": 121503,
+      "game_name": "Doom II",
+      "game_url": "https://ostdb.net/games/doom-ii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273122245215d7079438b9bcd58",
+      "albums": [
+        {
+          "album_name": "DOOM II (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0Er7LtKFNT2lpkkoN1M51c",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 313164,
       "game_name": "Doom II",
       "game_url": "https://ostdb.net/games/doom-ii",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b273122245215d7079438b9bcd58",
@@ -13779,6 +13821,20 @@
       ]
     },
     {
+      "igdb_id": 56062,
+      "game_name": "Hell is Other Demons",
+      "game_url": "https://ostdb.net/games/hell-is-other-demons",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731879c4ee84bf82505f5cacd7",
+      "albums": [
+        {
+          "album_name": "Hell Is Other Demons (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/70ImN99Ha63RNzqTlHfvHg",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 196954,
       "game_name": "Hell is Us",
       "game_url": "https://ostdb.net/games/hell-is-us",
@@ -15319,6 +15375,20 @@
         {
           "album_name": "Jetpack Joyride (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6JK9GjsXGG2oJm5ZHWLwjq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 112638,
+      "game_name": "Jets'n'Guns 2",
+      "game_url": "https://ostdb.net/games/jetsnguns-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733c0de7fa1d3749ce56d74a8d",
+      "albums": [
+        {
+          "album_name": "Jets 'N' Guns 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2lOxVEjTraq0RRloj55T3X",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -18173,6 +18243,20 @@
         {
           "album_name": "Melatonin (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2Q6YVGy27MnxnFWV3dtWsL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 264932,
+      "game_name": "Memoriapolis",
+      "game_url": "https://ostdb.net/games/memoriapolis",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273671db69732586cf9a04b00bd",
+      "albums": [
+        {
+          "album_name": "MemoriaPolis (Original Game Soundtrack), Vol. 1",
+          "spotify_url": "https://open.spotify.com/album/6WkAg4umYPJ7pfoJST5ICY",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -24351,6 +24435,20 @@
       ]
     },
     {
+      "igdb_id": 128935,
+      "game_name": "Rosewater",
+      "game_url": "https://ostdb.net/games/rosewater",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27355e1d1c62127b18cd66fdb7b",
+      "albums": [
+        {
+          "album_name": "Rosewater (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/30iETJbZvcB3p2tTHdwrOR",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 97114,
       "game_name": "Roundguard",
       "game_url": "https://ostdb.net/games/roundguard",
@@ -28358,6 +28456,20 @@
     },
     {
       "igdb_id": 150031,
+      "game_name": "Super Mario World",
+      "game_url": "https://ostdb.net/games/super-mario-world",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738b30c5153381ceb1800d97b8",
+      "albums": [
+        {
+          "album_name": "Super Mario World (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4VlhJOFDMCOK3DoyMWaH1v",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 270346,
       "game_name": "Super Mario World",
       "game_url": "https://ostdb.net/games/super-mario-world",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b2738b30c5153381ceb1800d97b8",
@@ -33609,6 +33721,20 @@
       ]
     },
     {
+      "igdb_id": 288487,
+      "game_name": "Voidwrought",
+      "game_url": "https://ostdb.net/games/voidwrought",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d2ed47993844cdfec9e60e8c",
+      "albums": [
+        {
+          "album_name": "Voidwrought (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6zR97gOTN6SMMj8xzt2jmx",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 8880,
       "game_name": "Wacky Wheels",
       "game_url": "https://ostdb.net/games/wacky-wheels",
@@ -35435,6 +35561,20 @@
         {
           "album_name": "Yooka-Laylee and the Impossible Lair (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5RcPDRFhmsAJV3it1klETs",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 304740,
+      "game_name": "Yooka-Replaylee",
+      "game_url": "https://ostdb.net/games/yooka-replaylee",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cb81e02ed9315df30251e5fc",
+      "albums": [
+        {
+          "album_name": "Yooka Replaylee (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4UU4hFrS51YLGo9xQFbYEr",
           "apple_music_url": "",
           "album_link_url": ""
         }
