@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RCRacer VR | 112463 | [112463-rcracer-vr.json](./112463-rcracer-vr.json) |
 | RD's Adventure Mini Golf | 113569 | [113569-rds-adventure-mini-golf.json](./113569-rds-adventure-mini-golf.json) |
 | RDF 1985 | 23838 | [23838-rdf-1985.json](./23838-rdf-1985.json) |
+| RDomino | 419067 | [419067-rdomino.json](./419067-rdomino.json) |
 | RDP-Files_ | 265673 | [265673-rdp-files.json](./265673-rdp-files.json) |
 | RDS: The Official Drift Videogame - Premium Cars Pack #1 | 226977 | [226977-rds-the-official-drift-videogame-premium-cars-pack-1.json](./226977-rds-the-official-drift-videogame-premium-cars-pack-1.json) |
 | RDS: The Official Drift Videogame - Premium Cars Pack #2 | 226978 | [226978-rds-the-official-drift-videogame-premium-cars-pack-2.json](./226978-rds-the-official-drift-videogame-premium-cars-pack-2.json) |
@@ -3119,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reap & Repay | 382834 | [382834-reap-and-repay.json](./382834-reap-and-repay.json) |
 | Reap and Sow | 202362 | [202362-reap-and-sow.json](./202362-reap-and-sow.json) |
 | Reap and Sow | 382396 | [382396-reap-and-sow.json](./382396-reap-and-sow.json) |
+| Reap Radio | 419794 | [419794-reap-radio.json](./419794-reap-radio.json) |
 | Reap What You Sow | 184995 | [184995-reap-what-you-sow.json](./184995-reap-what-you-sow.json) |
 | Reap: We Reap What Crawls | 363874 | [363874-reap-we-reap-what-crawls.json](./363874-reap-we-reap-what-crawls.json) |
 | Reaper | 151821 | [151821-reaper.json](./151821-reaper.json) |
@@ -3979,6 +3981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redhill Manor | 185303 | [185303-redhill-manor.json](./185303-redhill-manor.json) |
 | Redhook's Revenge | 68885 | [68885-redhooks-revenge.json](./68885-redhooks-revenge.json) |
 | Redhowl | 382862 | [382862-redhowl.json](./382862-redhowl.json) |
+| Redial | 419796 | [419796-redial.json](./419796-redial.json) |
 | Redial:Conundrum | 273444 | [273444-redial-conundrum.json](./273444-redial-conundrum.json) |
 | Redie | 25954 | [25954-redie.json](./25954-redie.json) |
 | Redirection | 25576 | [25576-redirection.json](./25576-redirection.json) |
@@ -5297,6 +5300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Archives: Resident Evil | 22993 | [22993-resident-evil-archives-resident-evil.json](./22993-resident-evil-archives-resident-evil.json) |
 | Resident Evil Archives: Resident Evil Zero | 23251 | [23251-resident-evil-archives-resident-evil-zero.json](./23251-resident-evil-archives-resident-evil-zero.json) |
 | Resident Evil Assault the Nightmare | 356222 | [356222-resident-evil-assault-the-nightmare.json](./356222-resident-evil-assault-the-nightmare.json) |
+| Resident Evil Classic Bundle | 419744 | [419744-resident-evil-classic-bundle.json](./419744-resident-evil-classic-bundle.json) |
 | Resident Evil Code: Veronica | 968 | [968-resident-evil-code-veronica.json](./968-resident-evil-code-veronica.json) |
 | Resident Evil Code: Veronica X | 24369 | [24369-resident-evil-code-veronica-x.json](./24369-resident-evil-code-veronica-x.json) |
 | Resident Evil Code: Veronica X HD | 20622 | [20622-resident-evil-code-veronica-x-hd.json](./20622-resident-evil-code-veronica-x-hd.json) |
@@ -6200,6 +6204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Problem | 326142 | [326142-reverse-problem.json](./326142-reverse-problem.json) |
 | Reverse Side | 17733 | [17733-reverse-side.json](./17733-reverse-side.json) |
 | Reverse Snake Extreme | 305823 | [305823-reverse-snake-extreme.json](./305823-reverse-snake-extreme.json) |
+| Reverse T-gotchi | 418390 | [418390-reverse-t-gotchi.json](./418390-reverse-t-gotchi.json) |
 | Reverse Twinkle | 206505 | [206505-reverse-twinkle.json](./206505-reverse-twinkle.json) |
 | Reverse Will | 277499 | [277499-reverse-will.json](./277499-reverse-will.json) |
 | Reverse Woman of Human Ball | 234270 | [234270-reverse-woman-of-human-ball.json](./234270-reverse-woman-of-human-ball.json) |
@@ -7946,6 +7951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Homeward 3: Underwater World | 120951 | [120951-road-homeward-3-underwater-world.json](./120951-road-homeward-3-underwater-world.json) |
 | Road Homeward 4: Last Step | 123557 | [123557-road-homeward-4-last-step.json](./123557-road-homeward-4-last-step.json) |
 | Road Homeward: Open World | 127312 | [127312-road-homeward-open-world.json](./127312-road-homeward-open-world.json) |
+| Road Hunter | 419110 | [419110-road-hunter.json](./419110-road-hunter.json) |
 | Road Island Adventure | 328376 | [328376-road-island-adventure.json](./328376-road-island-adventure.json) |
 | Road Jumper | 394482 | [394482-road-jumper.json](./394482-road-jumper.json) |
 | Road Kings | 361840 | [361840-road-kings.json](./361840-road-kings.json) |
