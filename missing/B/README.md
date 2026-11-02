@@ -6118,6 +6118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Woods | 236290 | [236290-beneath-the-woods.json](./236290-beneath-the-woods.json) |
 | Beneath their Names | 406689 | [406689-beneath-their-names.json](./406689-beneath-their-names.json) |
 | Benefactor | 6024 | [6024-benefactor.json](./6024-benefactor.json) |
+| Benefits and Burdens | 422844 | [422844-benefits-and-burdens.json](./422844-benefits-and-burdens.json) |
 | Benefitship | 264022 | [264022-benefitship.json](./264022-benefitship.json) |
 | Bengal | 205121 | [205121-bengal.json](./205121-bengal.json) |
 | Bengan Box | 383598 | [383598-bengan-box.json](./383598-bengan-box.json) |
