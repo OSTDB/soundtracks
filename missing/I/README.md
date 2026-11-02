@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I, Gladiator | 58454 | [58454-i-gladiator.json](./58454-i-gladiator.json) |
 | I, Gladiator Scratch'em | 249234 | [249234-i-gladiator-scratchem.json](./249234-i-gladiator-scratchem.json) |
 | I, of the Mask | 26212 | [26212-i-of-the-mask.json](./26212-i-of-the-mask.json) |
+| I, Robot | 24633 | [24633-i-robot.json](./24633-i-robot.json) |
 | I, Robot | 335831 | [335831-i-robot.json](./335831-i-robot.json) |
 | I, the I-piece | 175112 | [175112-i-the-i-piece.json](./175112-i-the-i-piece.json) |
 | I, W.O.M.A.N. | 188840 | [188840-i-w-o-m-a-n.json](./188840-i-w-o-m-a-n.json) |
