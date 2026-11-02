@@ -3670,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fēngxìnlóu | 130187 | [130187-fengxinlou.json](./130187-fengxinlou.json) |
 | Fēngyún Mahjong | 328410 | [328410-fengyun-mahjong.json](./328410-fengyun-mahjong.json) |
 | Fénhún zhī Mèng | 148684 | [148684-fenhun-zhi-meng.json](./148684-fenhun-zhi-meng.json) |
+| Fenimore Fillmore: 3 Skulls of the Toltecs | 111882 | [111882-fenimore-fillmore-3-skulls-of-the-toltecs.json](./111882-fenimore-fillmore-3-skulls-of-the-toltecs.json) |
 | Fenimore Fillmore: The Westerner | 27496 | [27496-fenimore-fillmore-the-westerner.json](./27496-fenimore-fillmore-the-westerner.json) |
 | Fenimore Fillmore's Revenge | 27491 | [27491-fenimore-fillmores-revenge.json](./27491-fenimore-fillmores-revenge.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
