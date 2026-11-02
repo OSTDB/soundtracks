@@ -1633,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underdeep | 423858 | [423858-underdeep.json](./423858-underdeep.json) |
 | Underdog Detective | 198551 | [198551-underdog-detective.json](./198551-underdog-detective.json) |
 | Underdog Futsal | 390205 | [390205-underdog-futsal.json](./390205-underdog-futsal.json) |
+| Underdogs | 251563 | [251563-underdogs.json](./251563-underdogs.json) |
 | Underdone | 47999 | [47999-underdone.json](./47999-underdone.json) |
 | Underdose | 253822 | [253822-underdose.json](./253822-underdose.json) |
 | UnderDread | 24361 | [24361-underdread.json](./24361-underdread.json) |
