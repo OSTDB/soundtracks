@@ -5915,6 +5915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chat Wars! | 295144 | [295144-chat-wars.json](./295144-chat-wars.json) |
 | Chat with Yu | 379552 | [379552-chat-with-yu.json](./379552-chat-with-yu.json) |
 | Chat-A-Lot | 84577 | [84577-chat-a-lot.json](./84577-chat-a-lot.json) |
+| Chat, Is This Real? | 405799 | [405799-chat-is-this-real.json](./405799-chat-is-this-real.json) |
 | ChatAid | 397600 | [397600-chataid.json](./397600-chataid.json) |
 | Chatan Yarakuu Shanku: The Karate Tournament | 62006 | [62006-chatan-yarakuu-shanku-the-karate-tournament.json](./62006-chatan-yarakuu-shanku-the-karate-tournament.json) |
 | ChatBattlers | 316821 | [316821-chatbattlers.json](./316821-chatbattlers.json) |
@@ -10325,6 +10326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coat of Many Feathers | 318780 | [318780-coat-of-many-feathers.json](./318780-coat-of-many-feathers.json) |
 | Coated | 35628 | [35628-coated.json](./35628-coated.json) |
 | Cobalt | 2999 | [2999-cobalt.json](./2999-cobalt.json) |
+| Cobalt Miner | 405839 | [405839-cobalt-miner.json](./405839-cobalt-miner.json) |
 | Cobalt Runner | 64283 | [64283-cobalt-runner.json](./64283-cobalt-runner.json) |
 | Cobalt WASD | 76426 | [76426-cobalt-wasd.json](./76426-cobalt-wasd.json) |
 | Cobb Can Move | 401154 | [401154-cobb-can-move.json](./401154-cobb-can-move.json) |
@@ -12860,6 +12862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Crazy Climber | 418714 | [418714-console-archives-crazy-climber.json](./418714-console-archives-crazy-climber.json) |
 | Console Archives: Hercules no Eikou II - Taitan no Metsubou | 410364 | [410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json](./410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json) |
 | Console Archives: Karate Champ | 420803 | [420803-console-archives-karate-champ.json](./420803-console-archives-karate-champ.json) |
+| Console Archives: L'Empereur | 405808 | [405808-console-archives-lempereur.json](./405808-console-archives-lempereur.json) |
 | Console Archives: Marl Jong | 427247 | [427247-console-archives-marl-jong.json](./427247-console-archives-marl-jong.json) |
 | Console Archives: Master of Monsters - Disciples of Gaia | 401691 | [401691-console-archives-master-of-monsters-disciples-of-gaia.json](./401691-console-archives-master-of-monsters-disciples-of-gaia.json) |
 | Console Archives: Ninja Gaiden III - The Ancient Ship of Doom | 399298 | [399298-console-archives-ninja-gaiden-iii-the-ancient-ship-of-doom.json](./399298-console-archives-ninja-gaiden-iii-the-ancient-ship-of-doom.json) |
@@ -13132,6 +13135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra | 217544 | [217544-contra.json](./217544-contra.json) |
 | Contra 4 | 9545 | [9545-contra-4.json](./9545-contra-4.json) |
 | Contra Advance: The Alien Wars EX | 49158 | [49158-contra-advance-the-alien-wars-ex.json](./49158-contra-advance-the-alien-wars-ex.json) |
+| Contra Burst | 405812 | [405812-contra-burst.json](./405812-contra-burst.json) |
 | Contra Demake | 284299 | [284299-contra-demake.json](./284299-contra-demake.json) |
 | Contra Evolution | 50333 | [50333-contra-evolution.json](./50333-contra-evolution.json) |
 | Contra Force | 24978 | [24978-contra-force.json](./24978-contra-force.json) |
