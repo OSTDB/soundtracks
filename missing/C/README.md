@@ -1583,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cape | 59713 | [59713-cape.json](./59713-cape.json) |
 | Cape Fathom | 310764 | [310764-cape-fathom.json](./310764-cape-fathom.json) |
 | Cape Hideous | 320532 | [320532-cape-hideous.json](./320532-cape-hideous.json) |
+| Cape Warrior | 424014 | [424014-cape-warrior.json](./424014-cape-warrior.json) |
 | Cape's Escape Game | 147593 | [147593-capes-escape-game.json](./147593-capes-escape-game.json) |
 | Cape's Escape Game 2.5th Room | 148326 | [148326-capes-escape-game-2-5th-room.json](./148326-capes-escape-game-2-5th-room.json) |
 | Cape's Escape Game 2nd room | 143542 | [143542-capes-escape-game-2nd-room.json](./143542-capes-escape-game-2nd-room.json) |
@@ -2132,6 +2133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caracoland | 112963 | [112963-caracoland.json](./112963-caracoland.json) |
 | Caracolino | 293236 | [293236-caracolino.json](./293236-caracolino.json) |
 | Caramel Action Micro | 386161 | [386161-caramel-action-micro.json](./386161-caramel-action-micro.json) |
+| Caramel Creek | 423999 | [423999-caramel-creek.json](./423999-caramel-creek.json) |
 | Caramel Port | 114558 | [114558-caramel-port.json](./114558-caramel-port.json) |
 | Caramel Pudding's Big Adventure | 82567 | [82567-caramel-puddings-big-adventure.json](./82567-caramel-puddings-big-adventure.json) |
 | Caramel Quest: Meitenkyou no Megami-zou | 374960 | [374960-caramel-quest-meitenkyou-no-megami-zou.json](./374960-caramel-quest-meitenkyou-no-megami-zou.json) |
@@ -3792,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Piano | 300778 | [300778-cat-piano.json](./300778-cat-piano.json) |
 | Cat Ping Pong | 251642 | [251642-cat-ping-pong.json](./251642-cat-ping-pong.json) |
 | Cat Pipes | 244275 | [244275-cat-pipes.json](./244275-cat-pipes.json) |
+| Cat Pipes: More Meow | 424003 | [424003-cat-pipes-more-meow.json](./424003-cat-pipes-more-meow.json) |
 | Cat Planet | 63922 | [63922-cat-planet.json](./63922-cat-planet.json) |
 | Cat Plus | 330190 | [330190-cat-plus.json](./330190-cat-plus.json) |
 | Cat Pong! | 243082 | [243082-cat-pong.json](./243082-cat-pong.json) |
@@ -11579,6 +11582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colors and Numbers | 192033 | [192033-colors-and-numbers.json](./192033-colors-and-numbers.json) |
 | Colors and their Meanings | 274519 | [274519-colors-and-their-meanings.json](./274519-colors-and-their-meanings.json) |
 | Colors Assemble | 217137 | [217137-colors-assemble.json](./217137-colors-assemble.json) |
+| Colors Invasion | 424022 | [424022-colors-invasion.json](./424022-colors-invasion.json) |
 | Colors of the Cube | 150382 | [150382-colors-of-the-cube.json](./150382-colors-of-the-cube.json) |
 | Colors of the Past | 338879 | [338879-colors-of-the-past.json](./338879-colors-of-the-past.json) |
 | Colors of War | 66583 | [66583-colors-of-war.json](./66583-colors-of-war.json) |
@@ -11943,6 +11947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Sakka Series Touma Senki #3: Ryuujin Sensei Kiki Ippatsu | 41352 | [41352-comic-sakka-series-touma-senki-3-ryuujin-sensei-kiki-ippatsu.json](./41352-comic-sakka-series-touma-senki-3-ryuujin-sensei-kiki-ippatsu.json) |
 | Comic Sakka Series Touma Senki #4: Tenkuu Ryuumaou Fukkatsu | 41351 | [41351-comic-sakka-series-touma-senki-4-tenkuu-ryuumaou-fukkatsu.json](./41351-comic-sakka-series-touma-senki-4-tenkuu-ryuumaou-fukkatsu.json) |
 | Comic Sakka Series Touma Senki #5: Youjuu Rudo no Chousen | 41350 | [41350-comic-sakka-series-touma-senki-5-youjuu-rudo-no-chousen.json](./41350-comic-sakka-series-touma-senki-5-youjuu-rudo-no-chousen.json) |
+| Comic Shop Tycoon | 423967 | [423967-comic-shop-tycoon.json](./423967-comic-shop-tycoon.json) |
 | Comic Store Arcade | 320791 | [320791-comic-store-arcade.json](./320791-comic-store-arcade.json) |
 | Comic Store Simulator | 335219 | [335219-comic-store-simulator.json](./335219-comic-store-simulator.json) |
 | Comic Workshop | 85043 | [85043-comic-workshop.json](./85043-comic-workshop.json) |
@@ -18176,6 +18181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Lamb: Unholy Edition | 324380 | [324380-cult-of-the-lamb-unholy-edition.json](./324380-cult-of-the-lamb-unholy-edition.json) |
 | Cult of the Lamb: Unholy Pack Bundle | 324472 | [324472-cult-of-the-lamb-unholy-pack-bundle.json](./324472-cult-of-the-lamb-unholy-pack-bundle.json) |
 | Cult of the Lamb: Woolhaven | 361888 | [361888-cult-of-the-lamb-woolhaven.json](./361888-cult-of-the-lamb-woolhaven.json) |
+| Cult of the Red Heifer | 423955 | [423955-cult-of-the-red-heifer.json](./423955-cult-of-the-red-heifer.json) |
 | Cult of the Wind | 9816 | [9816-cult-of-the-wind.json](./9816-cult-of-the-wind.json) |
 | Cult Trials: Incarnation | 348009 | [348009-cult-trials-incarnation.json](./348009-cult-trials-incarnation.json) |
 | Cult Vacui | 364848 | [364848-cult-vacui.json](./364848-cult-vacui.json) |
