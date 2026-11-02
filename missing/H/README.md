@@ -1566,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Racing - Top Wheels Game | 91350 | [91350-happy-racing-top-wheels-game.json](./91350-happy-racing-top-wheels-game.json) |
 | Happy Rider 2 | 95789 | [95789-happy-rider-2.json](./95789-happy-rider-2.json) |
 | Happy Rider Wheels | 95737 | [95737-happy-rider-wheels.json](./95737-happy-rider-wheels.json) |
+| Happy Room | 26618 | [26618-happy-room.json](./26618-happy-room.json) |
 | Happy Room: Robo | 194035 | [194035-happy-room-robo.json](./194035-happy-room-robo.json) |
 | Happy Runner | 359929 | [359929-happy-runner.json](./359929-happy-runner.json) |
 | Happy Saint Sheol | 250495 | [250495-happy-saint-sheol.json](./250495-happy-saint-sheol.json) |
@@ -3149,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: One Night in Karazhan | 21976 | [21976-hearthstone-one-night-in-karazhan.json](./21976-hearthstone-one-night-in-karazhan.json) |
 | Hearthstone: Perils in Paradise | 325842 | [325842-hearthstone-perils-in-paradise.json](./325842-hearthstone-perils-in-paradise.json) |
 | Hearthstone: Rastakhan's Rumble | 111655 | [111655-hearthstone-rastakhans-rumble.json](./111655-hearthstone-rastakhans-rumble.json) |
+| Hearthstone: Rise of Shadows | 116236 | [116236-hearthstone-rise-of-shadows.json](./116236-hearthstone-rise-of-shadows.json) |
 | Hearthstone: Saviors of Uldum | 121499 | [121499-hearthstone-saviors-of-uldum.json](./121499-hearthstone-saviors-of-uldum.json) |
 | Hearthstone: Scholomance Academy | 138798 | [138798-hearthstone-scholomance-academy.json](./138798-hearthstone-scholomance-academy.json) |
 | Hearthstone: Showdown in the Badlands | 275172 | [275172-hearthstone-showdown-in-the-badlands.json](./275172-hearthstone-showdown-in-the-badlands.json) |
@@ -5179,6 +5181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Love, Like Poison | 332442 | [332442-her-love-like-poison.json](./332442-her-love-like-poison.json) |
 | Her Majesty's Apathy Bomb | 180709 | [180709-her-majestys-apathy-bomb.json](./180709-her-majestys-apathy-bomb.json) |
 | Her Majesty's Ship | 124478 | [124478-her-majestys-ship.json](./124478-her-majestys-ship.json) |
+| Her Majesty's Spiffing | 26548 | [26548-her-majestys-spiffing.json](./26548-her-majestys-spiffing.json) |
 | Her Name | 222756 | [222756-her-name.json](./222756-her-name.json) |
 | Her Name Was Fire | 209779 | [209779-her-name-was-fire.json](./209779-her-name-was-fire.json) |
 | Her New Memory | 152295 | [152295-her-new-memory.json](./152295-her-new-memory.json) |
@@ -10157,6 +10160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Alice | 32091 | [32091-house-of-alice.json](./32091-house-of-alice.json) |
 | House of Asterion | 202599 | [202599-house-of-asterion.json](./202599-house-of-asterion.json) |
 | House of Berluscont | 185368 | [185368-house-of-berluscont.json](./185368-house-of-berluscont.json) |
+| House of Caravan | 27266 | [27266-house-of-caravan.json](./27266-house-of-caravan.json) |
 | House of Cards: A Modern Fantasy Story Game | 134555 | [134555-house-of-cards-a-modern-fantasy-story-game.json](./134555-house-of-cards-a-modern-fantasy-story-game.json) |
 | House of Cards: TD | 298128 | [298128-house-of-cards-td.json](./298128-house-of-cards-td.json) |
 | House of Cathalon | 142442 | [142442-house-of-cathalon.json](./142442-house-of-cathalon.json) |
