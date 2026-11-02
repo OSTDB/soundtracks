@@ -1869,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Journey | 413489 | [413489-fantasy-journey.json](./413489-fantasy-journey.json) |
 | Fantasy Kingdom Defense HD | 381651 | [381651-fantasy-kingdom-defense-hd.json](./381651-fantasy-kingdom-defense-hd.json) |
 | Fantasy Kingdom Merchant Simulator | 395531 | [395531-fantasy-kingdom-merchant-simulator.json](./395531-fantasy-kingdom-merchant-simulator.json) |
+| Fantasy Kingdom Simulator | 32495 | [32495-fantasy-kingdom-simulator.json](./32495-fantasy-kingdom-simulator.json) |
 | Fantasy Kingdom: Fantasy Tiny Forest | 219290 | [219290-fantasy-kingdom-fantasy-tiny-forest.json](./219290-fantasy-kingdom-fantasy-tiny-forest.json) |
 | Fantasy Knight | 400435 | [400435-fantasy-knight.json](./400435-fantasy-knight.json) |
 | Fantasy Kommander: Eukarion Wars | 264213 | [264213-fantasy-kommander-eukarion-wars.json](./264213-fantasy-kommander-eukarion-wars.json) |
@@ -4574,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final 5 | 231539 | [231539-final-5.json](./231539-final-5.json) |
 | Final 5: Survival! | 234332 | [234332-final-5-survival.json](./234332-final-5-survival.json) |
 | Final Apex | 289268 | [289268-final-apex.json](./289268-final-apex.json) |
+| Final Approach: Pilot Edition | 32519 | [32519-final-approach-pilot-edition.json](./32519-final-approach-pilot-edition.json) |
 | Final Archer VR | 119489 | [119489-final-archer-vr.json](./119489-final-archer-vr.json) |
 | Final Armada | 43297 | [43297-final-armada.json](./43297-final-armada.json) |
 | Final Assault | 39115 | [39115-final-assault.json](./39115-final-assault.json) |
@@ -5270,6 +5272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Heart | 109911 | [109911-finding-heart.json](./109911-finding-heart.json) |
 | Finding Heidi | 254642 | [254642-finding-heidi.json](./254642-finding-heidi.json) |
 | Finding Her | 387955 | [387955-finding-her.json](./387955-finding-her.json) |
+| Finding Hope | 32520 | [32520-finding-hope.json](./32520-finding-hope.json) |
 | Finding Jack's Treasure | 95956 | [95956-finding-jacks-treasure.json](./95956-finding-jacks-treasure.json) |
 | Finding Lake Chewaucan | 410689 | [410689-finding-lake-chewaucan.json](./410689-finding-lake-chewaucan.json) |
 | Finding Light | 110390 | [110390-finding-light.json](./110390-finding-light.json) |
@@ -8698,6 +8701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager Live | 21249 | [21249-football-manager-live.json](./21249-football-manager-live.json) |
 | Football Manager Quiz | 318991 | [318991-football-manager-quiz.json](./318991-football-manager-quiz.json) |
 | Football Manager Touch 2016 | 371216 | [371216-football-manager-touch-2016.json](./371216-football-manager-touch-2016.json) |
+| Football Manager Touch 2017 | 32494 | [32494-football-manager-touch-2017.json](./32494-football-manager-touch-2017.json) |
 | Football Manager: World Cup Edition | 41003 | [41003-football-manager-world-cup-edition.json](./41003-football-manager-world-cup-edition.json) |
 | Football Master | 256954 | [256954-football-master.json](./256954-football-master.json) |
 | Football Master 2: FT9's Coming | 223938 | [223938-football-master-2-ft9s-coming.json](./223938-football-master-2-ft9s-coming.json) |
@@ -10549,6 +10553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Framed | 229778 | [229778-framed.json](./229778-framed.json) |
 | Framed by the Yakuza | 210313 | [210313-framed-by-the-yakuza.json](./210313-framed-by-the-yakuza.json) |
 | Framed Fear | 340953 | [340953-framed-fear.json](./340953-framed-fear.json) |
+| Framed Wings | 32528 | [32528-framed-wings.json](./32528-framed-wings.json) |
 | Frameland: A Binary Tale | 182034 | [182034-frameland-a-binary-tale.json](./182034-frameland-a-binary-tale.json) |
 | FramePerfect | 394532 | [394532-frameperfect.json](./394532-frameperfect.json) |
 | Framework Zero: Terminal Panic | 405750 | [405750-framework-zero-terminal-panic.json](./405750-framework-zero-terminal-panic.json) |
