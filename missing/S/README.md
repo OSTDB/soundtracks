@@ -5212,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senti Metrica | 423893 | [423893-senti-metrica.json](./423893-senti-metrica.json) |
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
 | Sentience | 341388 | [341388-sentience.json](./341388-sentience.json) |
+| Sentience: The Android's Tale | 36631 | [36631-sentience-the-androids-tale.json](./36631-sentience-the-androids-tale.json) |
 | Sentient | 2234 | [2234-sentient.json](./2234-sentient.json) |
 | Sentient | 227966 | [227966-sentient.json](./227966-sentient.json) |
 | Sentient Noir | 219618 | [219618-sentient-noir.json](./219618-sentient-noir.json) |
@@ -6795,6 +6796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shantae and the Seven Sirens Part 1 | 122493 | [122493-shantae-and-the-seven-sirens-part-1.json](./122493-shantae-and-the-seven-sirens-part-1.json) |
 | Shantae: Costume Pack | 275016 | [275016-shantae-costume-pack.json](./275016-shantae-costume-pack.json) |
 | Shantae: Half-Genie Hero - Friends to the End | 76945 | [76945-shantae-half-genie-hero-friends-to-the-end.json](./76945-shantae-half-genie-hero-friends-to-the-end.json) |
+| Shantae: Half-Genie Hero - Pirate Queen's Quest | 55176 | [55176-shantae-half-genie-hero-pirate-queens-quest.json](./55176-shantae-half-genie-hero-pirate-queens-quest.json) |
 | Shantae: Half-Genie Hero - Risky Beats Edition | 51140 | [51140-shantae-half-genie-hero-risky-beats-edition.json](./51140-shantae-half-genie-hero-risky-beats-edition.json) |
 | Shantae: Half-Genie Hero - Ultimate Day One Edition | 136277 | [136277-shantae-half-genie-hero-ultimate-day-one-edition.json](./136277-shantae-half-genie-hero-ultimate-day-one-edition.json) |
 | Shantae: Half-Genie Hero - Ultimate Edition | 95832 | [95832-shantae-half-genie-hero-ultimate-edition.json](./95832-shantae-half-genie-hero-ultimate-edition.json) |
@@ -9862,6 +9864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Valley Investor | 149204 | [149204-silicon-valley-investor.json](./149204-silicon-valley-investor.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
 | Silicon Wasteland | 290834 | [290834-silicon-wasteland.json](./290834-silicon-wasteland.json) |
+| Silicon Zeroes | 55390 | [55390-silicon-zeroes.json](./55390-silicon-zeroes.json) |
 | Silicon-Galaxy | 178994 | [178994-silicon-galaxy.json](./178994-silicon-galaxy.json) |
 | Silicone Heart | 358369 | [358369-silicone-heart.json](./358369-silicone-heart.json) |
 | Silicone-2 | 11146 | [11146-silicone-2.json](./11146-silicone-2.json) |
@@ -13866,6 +13869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake VS Block Numbers | 113321 | [113321-snake-vs-block-numbers.json](./113321-snake-vs-block-numbers.json) |
 | Snake Vs Colours | 108446 | [108446-snake-vs-colours.json](./108446-snake-vs-colours.json) |
 | Snake vs Snake | 110801 | [110801-snake-vs-snake.json](./110801-snake-vs-snake.json) |
+| Snake vs. Block | 54619 | [54619-snake-vs-block.json](./54619-snake-vs-block.json) |
 | Snake Warriors: Training | 118913 | [118913-snake-warriors-training.json](./118913-snake-warriors-training.json) |
 | Snake World! | 104510 | [104510-snake-world.json](./104510-snake-world.json) |
 | Snake Xenzia | 133868 | [133868-snake-xenzia.json](./133868-snake-xenzia.json) |
@@ -18275,6 +18279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -25741,6 +25746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Survivors | 286027 | [286027-strange-survivors.json](./286027-strange-survivors.json) |
 | Strange Tales from Longchun: Sacrifice | 400188 | [400188-strange-tales-from-longchun-sacrifice.json](./400188-strange-tales-from-longchun-sacrifice.json) |
 | Strange Tales of Tei-Shan | 301262 | [301262-strange-tales-of-tei-shan.json](./301262-strange-tales-of-tei-shan.json) |
+| Strange Telephone | 54908 | [54908-strange-telephone.json](./54908-strange-telephone.json) |
 | Strange Terror from Beyond the Stars! | 133303 | [133303-strange-terror-from-beyond-the-stars.json](./133303-strange-terror-from-beyond-the-stars.json) |
 | Strange Terror from the Deep | 184939 | [184939-strange-terror-from-the-deep.json](./184939-strange-terror-from-the-deep.json) |
 | Strange Therapy | 181620 | [181620-strange-therapy.json](./181620-strange-therapy.json) |
@@ -26872,6 +26878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Hill | 90194 | [90194-stunt-hill.json](./90194-stunt-hill.json) |
 | Stunt Island | 50113 | [50113-stunt-island.json](./50113-stunt-island.json) |
 | Stunt Kids | 48235 | [48235-stunt-kids.json](./48235-stunt-kids.json) |
+| Stunt Kite Masters VR | 36714 | [36714-stunt-kite-masters-vr.json](./36714-stunt-kite-masters-vr.json) |
 | Stunt Kite Party | 114047 | [114047-stunt-kite-party.json](./114047-stunt-kite-party.json) |
 | Stunt Legends | 219583 | [219583-stunt-legends.json](./219583-stunt-legends.json) |
 | Stunt Master | 337190 | [337190-stunt-master.json](./337190-stunt-master.json) |
@@ -30391,6 +30398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Bobble | 138063 | [138063-super-puzzle-bobble.json](./138063-super-puzzle-bobble.json) |
 | Super Puzzle Cross | 236253 | [236253-super-puzzle-cross.json](./236253-super-puzzle-cross.json) |
 | Super Puzzle Fighter II Turbo | 20803 | [20803-super-puzzle-fighter-ii-turbo.json](./20803-super-puzzle-fighter-ii-turbo.json) |
+| Super Puzzle Fighter II Turbo | 55059 | [55059-super-puzzle-fighter-ii-turbo.json](./55059-super-puzzle-fighter-ii-turbo.json) |
 | Super Puzzle Fighter II Turbo HD Remix | 23072 | [23072-super-puzzle-fighter-ii-turbo-hd-remix.json](./23072-super-puzzle-fighter-ii-turbo-hd-remix.json) |
 | Super Puzzle Galaxy | 163565 | [163565-super-puzzle-galaxy.json](./163565-super-puzzle-galaxy.json) |
 | Super Puzzle Galaxy | 76340 | [76340-super-puzzle-galaxy.json](./76340-super-puzzle-galaxy.json) |
