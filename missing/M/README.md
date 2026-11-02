@@ -5536,7 +5536,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6327,6 +6326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechScape | 94019 | [94019-mechscape.json](./94019-mechscape.json) |
 | MechShell | 373147 | [373147-mechshell.json](./373147-mechshell.json) |
 | Mechsprofit | 96842 | [96842-mechsprofit.json](./96842-mechsprofit.json) |
+| Mechstermination Force | 115459 | [115459-mechstermination-force.json](./115459-mechstermination-force.json) |
 | Mechsternmination Force | 115705 | [115705-mechsternmination-force.json](./115705-mechsternmination-force.json) |
 | Mechtobacillus | 363931 | [363931-mechtobacillus.json](./363931-mechtobacillus.json) |
 | MechTroid | 83804 | [83804-mechtroid.json](./83804-mechtroid.json) |
@@ -8556,6 +8556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant Legends: The Founding | 235950 | [235950-merchant-legends-the-founding.json](./235950-merchant-legends-the-founding.json) |
 | Merchant of Phenistoria | 159574 | [159574-merchant-of-phenistoria.json](./159574-merchant-of-phenistoria.json) |
 | Merchant of the Six Kingdoms | 236180 | [236180-merchant-of-the-six-kingdoms.json](./236180-merchant-of-the-six-kingdoms.json) |
+| Merchant of the Skies | 116056 | [116056-merchant-of-the-skies.json](./116056-merchant-of-the-skies.json) |
 | Merchant Prince | 19705 | [19705-merchant-prince.json](./19705-merchant-prince.json) |
 | Merchant Prince II | 73073 | [73073-merchant-prince-ii.json](./73073-merchant-prince-ii.json) |
 | Merchant to the Stars | 196612 | [196612-merchant-to-the-stars.json](./196612-merchant-to-the-stars.json) |
@@ -9438,6 +9439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Prime 2: Echoes - Double Trouble | 388563 | [388563-metroid-prime-2-echoes-double-trouble.json](./388563-metroid-prime-2-echoes-double-trouble.json) |
 | Metroid Prime 3: Corruption | 1111 | [1111-metroid-prime-3-corruption.json](./1111-metroid-prime-3-corruption.json) |
 | Metroid Prime Hunters | 1110 | [1110-metroid-prime-hunters.json](./1110-metroid-prime-hunters.json) |
+| Metroid Prime Hunters: First Hunt | 119521 | [119521-metroid-prime-hunters-first-hunt.json](./119521-metroid-prime-hunters-first-hunt.json) |
 | Metroid Prime Pinball | 1109 | [1109-metroid-prime-pinball.json](./1109-metroid-prime-pinball.json) |
 | Metroid Prime Remastered | 236663 | [236663-metroid-prime-remastered.json](./236663-metroid-prime-remastered.json) |
 | Metroid Prime: Blast Ball | 23492 | [23492-metroid-prime-blast-ball.json](./23492-metroid-prime-blast-ball.json) |
@@ -18077,6 +18079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom | 309382 | [309382-mushroom.json](./309382-mushroom.json) |
 | Mushroom Agent | 235795 | [235795-mushroom-agent.json](./235795-mushroom-agent.json) |
 | Mushroom Card RPG | 219818 | [219818-mushroom-card-rpg.json](./219818-mushroom-card-rpg.json) |
+| Mushroom Cats | 118067 | [118067-mushroom-cats.json](./118067-mushroom-cats.json) |
 | Mushroom Cats 2 | 131758 | [131758-mushroom-cats-2.json](./131758-mushroom-cats-2.json) |
 | Mushroom Challenge | 169755 | [169755-mushroom-challenge.json](./169755-mushroom-challenge.json) |
 | Mushroom Collection | 284609 | [284609-mushroom-collection.json](./284609-mushroom-collection.json) |
@@ -20018,6 +20021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious warrior | 165679 | [165679-mysterious-warrior.json](./165679-mysterious-warrior.json) |
 | Mysterious World | 143920 | [143920-mysterious-world.json](./143920-mysterious-world.json) |
 | Mysterious: Dark Journey | 157976 | [157976-mysterious-dark-journey.json](./157976-mysterious-dark-journey.json) |
+| Mysterium | 26811 | [26811-mysterium.json](./26811-mysterium.json) |
 | Mystery | 167267 | [167267-mystery.json](./167267-mystery.json) |
 | Mystery Adventure The Maid Did It | 402378 | [402378-mystery-adventure-the-maid-did-it.json](./402378-mystery-adventure-the-maid-did-it.json) |
 | Mystery Adventure: Secret Key | 105706 | [105706-mystery-adventure-secret-key.json](./105706-mystery-adventure-secret-key.json) |
