@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valefor | 291685 | [291685-valefor.json](./291685-valefor.json) |
 | Valefor II | 403765 | [403765-valefor-ii.json](./403765-valefor-ii.json) |
 | ValeGuard | 97901 | [97901-valeguard.json](./97901-valeguard.json) |
+| Valehands | 422782 | [422782-valehands.json](./422782-valehands.json) |
 | Valehona Tap! | 406679 | [406679-valehona-tap.json](./406679-valehona-tap.json) |
 | Valencia Surehunter: Staff of the Irismancer | 360544 | [360544-valencia-surehunter-staff-of-the-irismancer.json](./360544-valencia-surehunter-staff-of-the-irismancer.json) |
 | Valenium | 382294 | [382294-valenium.json](./382294-valenium.json) |
