@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Tactics DS | 21516 | [21516-panzer-tactics-ds.json](./21516-panzer-tactics-ds.json) |
 | Panzer Tactics HD | 10653 | [10653-panzer-tactics-hd.json](./10653-panzer-tactics-hd.json) |
 | Panzer War | 255754 | [255754-panzer-war.json](./255754-panzer-war.json) |
+| Panzer War: Definitive Edition | 88030 | [88030-panzer-war-definitive-edition.json](./88030-panzer-war-definitive-edition.json) |
 | Panzer-Jagd | 24636 | [24636-panzer-jagd.json](./24636-panzer-jagd.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
 | Panzerkampf | 282075 | [282075-panzerkampf.json](./282075-panzerkampf.json) |
@@ -1609,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperball | 128202 | [128202-paperball.json](./128202-paperball.json) |
 | Paperball: Cherry Sky Pack | 227155 | [227155-paperball-cherry-sky-pack.json](./227155-paperball-cherry-sky-pack.json) |
 | Paperball: Deep Sea Pack | 166423 | [166423-paperball-deep-sea-pack.json](./166423-paperball-deep-sea-pack.json) |
+| Paperbark | 104478 | [104478-paperbark.json](./104478-paperbark.json) |
 | Paperbound | 21849 | [21849-paperbound.json](./21849-paperbound.json) |
 | Paperbound Brawlers | 115753 | [115753-paperbound-brawlers.json](./115753-paperbound-brawlers.json) |
 | Paperboy | 11762 | [11762-paperboy.json](./11762-paperboy.json) |
@@ -13989,6 +13991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling Manager 2015 | 17837 | [17837-pro-cycling-manager-2015.json](./17837-pro-cycling-manager-2015.json) |
 | Pro Cycling Manager 2016 | 19787 | [19787-pro-cycling-manager-2016.json](./19787-pro-cycling-manager-2016.json) |
 | Pro Cycling Manager 2017 | 37385 | [37385-pro-cycling-manager-2017.json](./37385-pro-cycling-manager-2017.json) |
+| Pro Cycling Manager 2018 | 103062 | [103062-pro-cycling-manager-2018.json](./103062-pro-cycling-manager-2018.json) |
 | Pro Cycling Manager 2019 | 119029 | [119029-pro-cycling-manager-2019.json](./119029-pro-cycling-manager-2019.json) |
 | Pro Cycling Manager 2021 | 145325 | [145325-pro-cycling-manager-2021.json](./145325-pro-cycling-manager-2021.json) |
 | Pro Cycling Manager 2023 | 241245 | [241245-pro-cycling-manager-2023.json](./241245-pro-cycling-manager-2023.json) |
@@ -14764,6 +14767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Helix | 317608 | [317608-project-helix.json](./317608-project-helix.json) |
 | Project Heroes | 68092 | [68092-project-heroes.json](./68092-project-heroes.json) |
 | Project Highrise | 20875 | [20875-project-highrise.json](./20875-project-highrise.json) |
+| Project Highrise: Architect's Edition | 103941 | [103941-project-highrise-architects-edition.json](./103941-project-highrise-architects-edition.json) |
 | Project Highrise: Las Vegas | 51884 | [51884-project-highrise-las-vegas.json](./51884-project-highrise-las-vegas.json) |
 | Project Highrise: London Life | 124801 | [124801-project-highrise-london-life.json](./124801-project-highrise-london-life.json) |
 | Project Highrise: Miami Malls | 51883 | [51883-project-highrise-miami-malls.json](./51883-project-highrise-miami-malls.json) |
