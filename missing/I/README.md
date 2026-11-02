@@ -1758,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Igeo | 134900 | [134900-igeo.json](./134900-igeo.json) |
 | Igeo DX | 136419 | [136419-igeo-dx.json](./136419-igeo-dx.json) |
 | Iggle Pop! | 62441 | [62441-iggle-pop.json](./62441-iggle-pop.json) |
+| Iggle Pop! Deluxe | 27817 | [27817-iggle-pop-deluxe.json](./27817-iggle-pop-deluxe.json) |
 | Iggy & Java | 274526 | [274526-iggy-and-java.json](./274526-iggy-and-java.json) |
 | Iggy's Reckin' Balls | 3394 | [3394-iggys-reckin-balls.json](./3394-iggys-reckin-balls.json) |
 | Iggy's Zombie A-Pug-Alypse | 53152 | [53152-iggys-zombie-a-pug-alypse.json](./53152-iggys-zombie-a-pug-alypse.json) |
