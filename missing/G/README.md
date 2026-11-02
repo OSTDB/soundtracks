@@ -1098,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambler Jiko Chuushinha: Ippatsu Shoubu! | 420493 | [420493-gambler-jiko-chuushinha-ippatsu-shoubu.json](./420493-gambler-jiko-chuushinha-ippatsu-shoubu.json) |
 | Gambler Jiko Chuushinha: Katayama Masayuki no Mahjong Dojo | 107590 | [107590-gambler-jiko-chuushinha-katayama-masayuki-no-mahjong-dojo.json](./107590-gambler-jiko-chuushinha-katayama-masayuki-no-mahjong-dojo.json) |
 | Gambler: Queen's Cup | 360589 | [360589-gambler-queens-cup.json](./360589-gambler-queens-cup.json) |
+| Gambler's Fallacy | 400594 | [400594-gamblers-fallacy.json](./400594-gamblers-fallacy.json) |
 | Gambler’s Loop | 348862 | [348862-gambler-s-loop.json](./348862-gambler-s-loop.json) |
 | Gamblers Table | 342853 | [342853-gamblers-table.json](./342853-gamblers-table.json) |
 | Gambling Apocalypse Kaiji | 61395 | [61395-gambling-apocalypse-kaiji.json](./61395-gambling-apocalypse-kaiji.json) |
@@ -3295,6 +3296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get into Backrooms | 213209 | [213209-get-into-backrooms.json](./213209-get-into-backrooms.json) |
 | Get it Hard | 215935 | [215935-get-it-hard.json](./215935-get-it-hard.json) |
 | Get It Up! | 357211 | [357211-get-it-up.json](./357211-get-it-up.json) |
+| Get Lit | 400420 | [400420-get-lit.json](./400420-get-lit.json) |
 | Get Lost in Nature With Luke | 165162 | [165162-get-lost-in-nature-with-luke.json](./165162-get-lost-in-nature-with-luke.json) |
 | Get Lost! | 50252 | [50252-get-lost.json](./50252-get-lost.json) |
 | Get Low, Grandpa! | 392902 | [392902-get-low-grandpa.json](./392902-get-low-grandpa.json) |
@@ -3554,6 +3556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost House | 179731 | [179731-ghost-house.json](./179731-ghost-house.json) |
 | Ghost House | 384503 | [384503-ghost-house.json](./384503-ghost-house.json) |
 | Ghost House | 45649 | [45649-ghost-house.json](./45649-ghost-house.json) |
+| Ghost House 3D | 400522 | [400522-ghost-house-3d.json](./400522-ghost-house-3d.json) |
 | Ghost HQ | 369011 | [369011-ghost-hq.json](./369011-ghost-hq.json) |
 | Ghost Hunt | 14090 | [14090-ghost-hunt.json](./14090-ghost-hunt.json) |
 | Ghost Hunter | 137377 | [137377-ghost-hunter.json](./137377-ghost-hunter.json) |
@@ -5351,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoalkeepVr | 29946 | [29946-goalkeepvr.json](./29946-goalkeepvr.json) |
 | Goaltender VR | 30422 | [30422-goaltender-vr.json](./30422-goaltender-vr.json) |
 | goalunited PRO | 29778 | [29778-goalunited-pro.json](./29778-goalunited-pro.json) |
+| Goat | 400359 | [400359-goat.json](./400359-goat.json) |
 | Goat Detective Supah Star | 115453 | [115453-goat-detective-supah-star.json](./115453-goat-detective-supah-star.json) |
 | Goat Evolution | 103091 | [103091-goat-evolution.json](./103091-goat-evolution.json) |
 | Goat Herd and the Gods | 169889 | [169889-goat-herd-and-the-gods.json](./169889-goat-herd-and-the-gods.json) |
@@ -7222,6 +7226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grail Tale | 231945 | [231945-grail-tale.json](./231945-grail-tale.json) |
 | Grail to the Thief | 35169 | [35169-grail-to-the-thief.json](./35169-grail-to-the-thief.json) |
 | Grailquest | 92846 | [92846-grailquest.json](./92846-grailquest.json) |
+| Grain Rot | 400575 | [400575-grain-rot.json](./400575-grain-rot.json) |
 | Grain Sling | 273916 | [273916-grain-sling.json](./273916-grain-sling.json) |
 | Grainhold | 390256 | [390256-grainhold.json](./390256-grainhold.json) |
 | Grainwind Incident 77 | 229358 | [229358-grainwind-incident-77.json](./229358-grainwind-incident-77.json) |
@@ -7513,7 +7518,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto Online: Heists | 251244 | [251244-grand-theft-auto-online-heists.json](./251244-grand-theft-auto-online-heists.json) |
 | Grand Theft Auto Online: Los Santos Drug Wars | 239053 | [239053-grand-theft-auto-online-los-santos-drug-wars.json](./239053-grand-theft-auto-online-los-santos-drug-wars.json) |
 | Grand Theft Auto Online: Los Santos Tuners | 239051 | [239051-grand-theft-auto-online-los-santos-tuners.json](./239051-grand-theft-auto-online-los-santos-tuners.json) |
+| Grand Theft Auto Online: San Andreas Mercenaries | 400331 | [400331-grand-theft-auto-online-san-andreas-mercenaries.json](./400331-grand-theft-auto-online-san-andreas-mercenaries.json) |
 | Grand Theft Auto Online: The Cayo Perico Heist | 239050 | [239050-grand-theft-auto-online-the-cayo-perico-heist.json](./239050-grand-theft-auto-online-the-cayo-perico-heist.json) |
+| Grand Theft Auto Online: The Chop Shop | 400332 | [400332-grand-theft-auto-online-the-chop-shop.json](./400332-grand-theft-auto-online-the-chop-shop.json) |
 | Grand Theft Auto Online: The Criminal Enterprises | 239052 | [239052-grand-theft-auto-online-the-criminal-enterprises.json](./239052-grand-theft-auto-online-the-criminal-enterprises.json) |
 | Grand Theft Auto Online: The Diamond Casino & Resort | 239055 | [239055-grand-theft-auto-online-the-diamond-casino-and-resort.json](./239055-grand-theft-auto-online-the-diamond-casino-and-resort.json) |
 | Grand Theft Auto Online: The Diamond Casino Heist | 398950 | [398950-grand-theft-auto-online-the-diamond-casino-heist.json](./398950-grand-theft-auto-online-the-diamond-casino-heist.json) |
