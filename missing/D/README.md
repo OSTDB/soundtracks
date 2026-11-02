@@ -5838,6 +5838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demented | 34070 | [34070-demented.json](./34070-demented.json) |
 | Demented Pixie | 30413 | [30413-demented-pixie.json](./30413-demented-pixie.json) |
 | Dementia | 184583 | [184583-dementia.json](./184583-dementia.json) |
+| Dementium II | 20665 | [20665-dementium-ii.json](./20665-dementium-ii.json) |
 | Dementium II HD | 5837 | [5837-dementium-ii-hd.json](./5837-dementium-ii-hd.json) |
 | Dementium: The Ward | 21238 | [21238-dementium-the-ward.json](./21238-dementium-the-ward.json) |
 | Demeo | 144763 | [144763-demeo.json](./144763-demeo.json) |
@@ -7049,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny: House of Wolves | 19921 | [19921-destiny-house-of-wolves.json](./19921-destiny-house-of-wolves.json) |
 | Destiny: Limited Edition | 147699 | [147699-destiny-limited-edition.json](./147699-destiny-limited-edition.json) |
 | Destiny: Rising | 319758 | [319758-destiny-rising.json](./319758-destiny-rising.json) |
+| Destiny: The Collection | 22916 | [22916-destiny-the-collection.json](./22916-destiny-the-collection.json) |
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
 | Destiny: The Taken King | 11174 | [11174-destiny-the-taken-king.json](./11174-destiny-the-taken-king.json) |
 | Destiny: The Taken King - Digital Collector's Edition | 118881 | [118881-destiny-the-taken-king-digital-collectors-edition.json](./118881-destiny-the-taken-king-digital-collectors-edition.json) |
@@ -17957,6 +17959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 7 | 6832 | [6832-dynasty-warriors-7.json](./6832-dynasty-warriors-7.json) |
 | Dynasty Warriors 7: Empires | 6834 | [6834-dynasty-warriors-7-empires.json](./6834-dynasty-warriors-7-empires.json) |
 | Dynasty Warriors 7: Special | 269527 | [269527-dynasty-warriors-7-special.json](./269527-dynasty-warriors-7-special.json) |
+| Dynasty Warriors 7: Xtreme Legends | 6833 | [6833-dynasty-warriors-7-xtreme-legends.json](./6833-dynasty-warriors-7-xtreme-legends.json) |
 | Dynasty Warriors 7: Xtreme Legends - Definitive Edition | 113386 | [113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json](./113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json) |
 | Dynasty Warriors 8 | 6976 | [6976-dynasty-warriors-8.json](./6976-dynasty-warriors-8.json) |
 | Dynasty Warriors 8: Empires | 13669 | [13669-dynasty-warriors-8-empires.json](./13669-dynasty-warriors-8-empires.json) |
