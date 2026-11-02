@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabous | 168560 | [168560-cabous.json](./168560-cabous.json) |
 | Cabral's Quest | 291176 | [291176-cabrals-quest.json](./291176-cabrals-quest.json) |
 | Caça ao Rato | 281895 | [281895-caca-ao-rato.json](./281895-caca-ao-rato.json) |
+| Caca Clicker | 407742 | [407742-caca-clicker.json](./407742-caca-clicker.json) |
 | Caça Palavras | 359769 | [359769-caca-palavras.json](./359769-caca-palavras.json) |
 | Caça Vampiro | 281888 | [281888-caca-vampiro.json](./281888-caca-vampiro.json) |
 | Cacau: Mistério da Ilha Perdida | 137896 | [137896-cacau-misterio-da-ilha-perdida.json](./137896-cacau-misterio-da-ilha-perdida.json) |
@@ -7302,6 +7303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chóngshēng Zhànshì | 158537 | [158537-chongsheng-zhanshi.json](./158537-chongsheng-zhanshi.json) |
 | Chonka | 142212 | [142212-chonka.json](./142212-chonka.json) |
 | Chonkers | 324792 | [324792-chonkers.json](./324792-chonkers.json) |
+| Chonky Cat | 407703 | [407703-chonky-cat.json](./407703-chonky-cat.json) |
 | Chonkymon | 149035 | [149035-chonkymon.json](./149035-chonkymon.json) |
 | Choo Choo Crossing | 278722 | [278722-choo-choo-crossing.json](./278722-choo-choo-crossing.json) |
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
@@ -12631,6 +12633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congo the Movie: The Secret of Zinj | 38289 | [38289-congo-the-movie-the-secret-of-zinj.json](./38289-congo-the-movie-the-secret-of-zinj.json) |
 | Congo: The Movie | 217940 | [217940-congo-the-movie.json](./217940-congo-the-movie.json) |
 | Congo's Caper | 42665 | [42665-congos-caper.json](./42665-congos-caper.json) |
+| Congratulations On Your Purchase | 407707 | [407707-congratulations-on-your-purchase.json](./407707-congratulations-on-your-purchase.json) |
 | Congresswolf | 30797 | [30797-congresswolf.json](./30797-congresswolf.json) |
 | Coniclysm | 16107 | [16107-coniclysm.json](./16107-coniclysm.json) |
 | Conjunctivitalizer | 329464 | [329464-conjunctivitalizer.json](./329464-conjunctivitalizer.json) |
@@ -13942,6 +13945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupted | 296806 | [296806-corrupted.json](./296806-corrupted.json) |
 | Corrupted | 51641 | [51641-corrupted.json](./51641-corrupted.json) |
 | Corrupted | 96626 | [96626-corrupted.json](./96626-corrupted.json) |
+| Corrupted Archives | 407698 | [407698-corrupted-archives.json](./407698-corrupted-archives.json) |
 | Corrupted Basement | 375810 | [375810-corrupted-basement.json](./375810-corrupted-basement.json) |
 | Corrupted Cistern | 256828 | [256828-corrupted-cistern.json](./256828-corrupted-cistern.json) |
 | Corrupted Commander | 110626 | [110626-corrupted-commander.json](./110626-corrupted-commander.json) |
