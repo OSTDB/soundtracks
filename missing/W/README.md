@@ -7086,6 +7086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Puttz | 361232 | [361232-word-puttz.json](./361232-word-puttz.json) |
 | Word Puzzle | 21913 | [21913-word-puzzle.json](./21913-word-puzzle.json) |
 | Word Puzzle Quiz | 88436 | [88436-word-puzzle-quiz.json](./88436-word-puzzle-quiz.json) |
+| Word Puzzles by Powgi | 59522 | [59522-word-puzzles-by-powgi.json](./59522-word-puzzles-by-powgi.json) |
 | Word Puzzles by Powgi: Deluxe Edition | 140414 | [140414-word-puzzles-by-powgi-deluxe-edition.json](./140414-word-puzzles-by-powgi-deluxe-edition.json) |
 | Word Quest | 266062 | [266062-word-quest.json](./266062-word-quest.json) |
 | Word Quest | 374098 | [374098-word-quest.json](./374098-word-quest.json) |
@@ -8608,6 +8609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrong Floor | 348898 | [348898-wrong-floor.json](./348898-wrong-floor.json) |
 | Wrong God | 253808 | [253808-wrong-god.json](./253808-wrong-god.json) |
 | Wrong Landing | 261645 | [261645-wrong-landing.json](./261645-wrong-landing.json) |
+| Wronged | 75780 | [75780-wronged.json](./75780-wronged.json) |
 | Wronged Us | 190482 | [190482-wronged-us.json](./190482-wronged-us.json) |
 | Wrongly Accused | 293337 | [293337-wrongly-accused.json](./293337-wrongly-accused.json) |
 | Wrongly Accused | 384115 | [384115-wrongly-accused.json](./384115-wrongly-accused.json) |
