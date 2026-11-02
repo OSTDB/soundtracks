@@ -12215,6 +12215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Big Crisis | 217793 | [217793-the-little-big-crisis.json](./217793-the-little-big-crisis.json) |
 | The Little Black Bestiary: A Midsummer Night's Barcrawl | 151498 | [151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json](./151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json) |
 | The Little Cars in the Great Race | 371296 | [371296-the-little-cars-in-the-great-race.json](./371296-the-little-cars-in-the-great-race.json) |
+| The Little Crane That Could | 35441 | [35441-the-little-crane-that-could.json](./35441-the-little-crane-that-could.json) |
 | The Little Crane That Could | 88696 | [88696-the-little-crane-that-could.json](./88696-the-little-crane-that-could.json) |
 | The Little Crumb | 401285 | [401285-the-little-crumb.json](./401285-the-little-crumb.json) |
 | The Little Cuttle Goes to Battle | 211595 | [211595-the-little-cuttle-goes-to-battle.json](./211595-the-little-cuttle-goes-to-battle.json) |
@@ -12421,6 +12422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Artifacts | 171588 | [171588-the-lost-artifacts.json](./171588-the-lost-artifacts.json) |
 | The Lost Ashford Ring | 267024 | [267024-the-lost-ashford-ring.json](./267024-the-lost-ashford-ring.json) |
 | The Lost Battalion | 375614 | [375614-the-lost-battalion.json](./375614-the-lost-battalion.json) |
+| The Lost Battalion: All Out Warfare | 35423 | [35423-the-lost-battalion-all-out-warfare.json](./35423-the-lost-battalion-all-out-warfare.json) |
 | The Lost Bear | 53923 | [53923-the-lost-bear.json](./53923-the-lost-bear.json) |
 | The Lost Block | 386377 | [386377-the-lost-block.json](./386377-the-lost-block.json) |
 | The Lost Bloodline | 218676 | [218676-the-lost-bloodline.json](./218676-the-lost-bloodline.json) |
@@ -17659,6 +17661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way of Love: Sub Zero | 74761 | [74761-the-way-of-love-sub-zero.json](./74761-the-way-of-love-sub-zero.json) |
 | The Way of Ping-pong | 402687 | [402687-the-way-of-ping-pong.json](./402687-the-way-of-ping-pong.json) |
 | The Way of the Badass | 204265 | [204265-the-way-of-the-badass.json](./204265-the-way-of-the-badass.json) |
+| The Way of the Pixelated Fist | 35393 | [35393-the-way-of-the-pixelated-fist.json](./35393-the-way-of-the-pixelated-fist.json) |
 | The Way of the Tiger | 26463 | [26463-the-way-of-the-tiger.json](./26463-the-way-of-the-tiger.json) |
 | The Way of the Tray: Japanese Restaurant Simulator | 334174 | [334174-the-way-of-the-tray-japanese-restaurant-simulator.json](./334174-the-way-of-the-tray-japanese-restaurant-simulator.json) |
 | The Way of Wine | 255983 | [255983-the-way-of-wine.json](./255983-the-way-of-wine.json) |
@@ -21879,6 +21882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Boxes | 368574 | [368574-tiny-boxes.json](./368574-tiny-boxes.json) |
 | Tiny Brains | 7649 | [7649-tiny-brains.json](./7649-tiny-brains.json) |
 | Tiny Breakers Camp | 270005 | [270005-tiny-breakers-camp.json](./270005-tiny-breakers-camp.json) |
+| Tiny Bridge: Ratventure | 35486 | [35486-tiny-bridge-ratventure.json](./35486-tiny-bridge-ratventure.json) |
 | Tiny Brush | 232583 | [232583-tiny-brush.json](./232583-tiny-brush.json) |
 | Tiny Bubbles | 54978 | [54978-tiny-bubbles.json](./54978-tiny-bubbles.json) |
 | Tiny Bullets | 4146 | [4146-tiny-bullets.json](./4146-tiny-bullets.json) |
@@ -27043,6 +27047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Classics Volume 1 & 2 | 54184 | [54184-trainz-classics-volume-1-and-2.json](./54184-trainz-classics-volume-1-and-2.json) |
 | Trainz Classics Volume 3 | 54183 | [54183-trainz-classics-volume-3.json](./54183-trainz-classics-volume-3.json) |
 | Trainz Driver 2 | 248408 | [248408-trainz-driver-2.json](./248408-trainz-driver-2.json) |
+| Trainz Driver 2016 | 34212 | [34212-trainz-driver-2016.json](./34212-trainz-driver-2016.json) |
 | Trainz Plus | 204302 | [204302-trainz-plus.json](./204302-trainz-plus.json) |
 | Trainz Plus DLC - Pro Train: AC44C6M Loco Bundle | 384733 | [384733-trainz-plus-dlc-pro-train-ac44c6m-loco-bundle.json](./384733-trainz-plus-dlc-pro-train-ac44c6m-loco-bundle.json) |
 | Trainz Plus DLC: OBB Eurofima Second Class Pack | 400080 | [400080-trainz-plus-dlc-obb-eurofima-second-class-pack.json](./400080-trainz-plus-dlc-obb-eurofima-second-class-pack.json) |
@@ -28482,6 +28487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree n Ant | 355611 | [355611-tree-n-ant.json](./355611-tree-n-ant.json) |
 | Tree of Ashes | 272823 | [272823-tree-of-ashes.json](./272823-tree-of-ashes.json) |
 | Tree of Knowledge | 392138 | [392138-tree-of-knowledge.json](./392138-tree-of-knowledge.json) |
+| Tree of Life | 35450 | [35450-tree-of-life.json](./35450-tree-of-life.json) |
 | Tree of Life 2 | 140472 | [140472-tree-of-life-2.json](./140472-tree-of-life-2.json) |
 | Tree of Life: Yggdrasil | 82159 | [82159-tree-of-life-yggdrasil.json](./82159-tree-of-life-yggdrasil.json) |
 | Tree of Sacrifice | 369147 | [369147-tree-of-sacrifice.json](./369147-tree-of-sacrifice.json) |
@@ -29688,6 +29694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Backgammon HD | 87922 | [87922-true-backgammon-hd.json](./87922-true-backgammon-hd.json) |
 | True Beauty | 242019 | [242019-true-beauty.json](./242019-true-beauty.json) |
 | True Blades | 36725 | [36725-true-blades.json](./36725-true-blades.json) |
+| True Bliss | 35448 | [35448-true-bliss.json](./35448-true-bliss.json) |
 | True Bum Simulator | 189816 | [189816-true-bum-simulator.json](./189816-true-bum-simulator.json) |
 | True Colors | 120714 | [120714-true-colors.json](./120714-true-colors.json) |
 | True Colors | 228991 | [228991-true-colors.json](./228991-true-colors.json) |
