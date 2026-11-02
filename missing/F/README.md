@@ -4774,6 +4774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XI: Heroes of Abyssea | 255776 | [255776-final-fantasy-xi-heroes-of-abyssea.json](./255776-final-fantasy-xi-heroes-of-abyssea.json) |
 | Final Fantasy XI: Rhapsodies of Vana'diel | 266861 | [266861-final-fantasy-xi-rhapsodies-of-vanadiel.json](./266861-final-fantasy-xi-rhapsodies-of-vanadiel.json) |
 | Final Fantasy XI: Scars of Abyssea | 255775 | [255775-final-fantasy-xi-scars-of-abyssea.json](./255775-final-fantasy-xi-scars-of-abyssea.json) |
+| Final Fantasy XI: Seekers of Adoulin | 10319 | [10319-final-fantasy-xi-seekers-of-adoulin.json](./10319-final-fantasy-xi-seekers-of-adoulin.json) |
 | Final Fantasy XI: The Vana'diel Collection | 41852 | [41852-final-fantasy-xi-the-vanadiel-collection.json](./41852-final-fantasy-xi-the-vanadiel-collection.json) |
 | Final Fantasy XI: The Voracious Resurgence | 312630 | [312630-final-fantasy-xi-the-voracious-resurgence.json](./312630-final-fantasy-xi-the-voracious-resurgence.json) |
 | Final Fantasy XI: Ultimate Collection | 269413 | [269413-final-fantasy-xi-ultimate-collection.json](./269413-final-fantasy-xi-ultimate-collection.json) |
@@ -9788,6 +9789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress VR | 239730 | [239730-fortress-vr.json](./239730-fortress-vr.json) |
 | Fortress-Life | 350390 | [350390-fortress-life.json](./350390-fortress-life.json) |
 | FortressCraft Chapter 1 | 10331 | [10331-fortresscraft-chapter-1.json](./10331-fortresscraft-chapter-1.json) |
+| FortressCraft Evolved! | 10332 | [10332-fortresscraft-evolved.json](./10332-fortresscraft-evolved.json) |
 | FortressCraft Evolved!: Adventures Pack | 168202 | [168202-fortresscraft-evolved-adventures-pack.json](./168202-fortresscraft-evolved-adventures-pack.json) |
 | FortressCraft Evolved!: Frozen Factory | 167319 | [167319-fortresscraft-evolved-frozen-factory.json](./167319-fortresscraft-evolved-frozen-factory.json) |
 | FortressCraft: Chapter 1 | 168834 | [168834-fortresscraft-chapter-1.json](./168834-fortresscraft-chapter-1.json) |
