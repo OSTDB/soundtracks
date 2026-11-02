@@ -2137,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JiuTian Idle RPG | 187845 | [187845-jiutian-idle-rpg.json](./187845-jiutian-idle-rpg.json) |
 | Jiǔxiāo Huánshén Jì | 119640 | [119640-jiuxiao-huanshen-ji.json](./119640-jiuxiao-huanshen-ji.json) |
 | Jiǔzhōu Jiàn Gē | 367405 | [367405-jiuzhou-jian-ge.json](./367405-jiuzhou-jian-ge.json) |
+| Jivana | 187295 | [187295-jivana.json](./187295-jivana.json) |
 | Jive Blocks | 222993 | [222993-jive-blocks.json](./222993-jive-blocks.json) |
 | Jivitam | 156717 | [156717-jivitam.json](./156717-jivitam.json) |
 | Jiwa: The Damned Soul | 327169 | [327169-jiwa-the-damned-soul.json](./327169-jiwa-the-damned-soul.json) |
@@ -3179,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumper Three | 79910 | [79910-jumper-three.json](./79910-jumper-three.json) |
 | Jumper Tree | 112863 | [112863-jumper-tree.json](./112863-jumper-tree.json) |
 | Jumper, Jumpy Time Attack Adventure | 309367 | [309367-jumper-jumpy-time-attack-adventure.json](./309367-jumper-jumpy-time-attack-adventure.json) |
+| Jumper: Griffin's Story | 4944 | [4944-jumper-griffins-story.json](./4944-jumper-griffins-story.json) |
 | Jumper: Speedrun | 55253 | [55253-jumper-speedrun.json](./55253-jumper-speedrun.json) |
 | Jumper's Doom | 351634 | [351634-jumpers-doom.json](./351634-jumpers-doom.json) |
 | Jumperbird | 166839 | [166839-jumperbird.json](./166839-jumperbird.json) |
@@ -3876,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Keep Looting | 352837 | [352837-just-keep-looting.json](./352837-just-keep-looting.json) |
 | Just Keep Running | 248325 | [248325-just-keep-running.json](./248325-just-keep-running.json) |
 | Just Kill Me. | 341133 | [341133-just-kill-me.json](./341133-just-kill-me.json) |
+| Just King | 191204 | [191204-just-king.json](./191204-just-king.json) |
 | Just Kiss Her Already! | 246211 | [246211-just-kiss-her-already.json](./246211-just-kiss-her-already.json) |
 | Just Kiss Him Already! | 225310 | [225310-just-kiss-him-already.json](./225310-just-kiss-him-already.json) |
 | Just Loot | 410162 | [410162-just-loot.json](./410162-just-loot.json) |
