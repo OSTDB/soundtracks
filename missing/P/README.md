@@ -2140,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parawhy | 325677 | [325677-parawhy.json](./325677-parawhy.json) |
 | ParaWorld | 9926 | [9926-paraworld.json](./9926-paraworld.json) |
 | Parcel | 17699 | [17699-parcel.json](./17699-parcel.json) |
+| Parcel Corps | 252860 | [252860-parcel-corps.json](./252860-parcel-corps.json) |
 | Parcel Dash | 350444 | [350444-parcel-dash.json](./350444-parcel-dash.json) |
 | Parcel Delivery Simulator | 377066 | [377066-parcel-delivery-simulator.json](./377066-parcel-delivery-simulator.json) |
 | Parcel Frenzy: Get To Work! | 357149 | [357149-parcel-frenzy-get-to-work.json](./357149-parcel-frenzy-get-to-work.json) |
@@ -8651,6 +8652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zoo: Africa Pack | 226998 | [226998-planet-zoo-africa-pack.json](./226998-planet-zoo-africa-pack.json) |
 | Planet Zoo: Aquatic Pack | 226995 | [226995-planet-zoo-aquatic-pack.json](./226995-planet-zoo-aquatic-pack.json) |
 | Planet Zoo: Arctic Pack | 226996 | [226996-planet-zoo-arctic-pack.json](./226996-planet-zoo-arctic-pack.json) |
+| Planet Zoo: Arid Animal Pack | 253063 | [253063-planet-zoo-arid-animal-pack.json](./253063-planet-zoo-arid-animal-pack.json) |
 | Planet Zoo: Australia Pack | 226997 | [226997-planet-zoo-australia-pack.json](./226997-planet-zoo-australia-pack.json) |
 | Planet Zoo: Barnyard Animal Pack | 308275 | [308275-planet-zoo-barnyard-animal-pack.json](./308275-planet-zoo-barnyard-animal-pack.json) |
 | Planet Zoo: Conservation Pack | 207746 | [207746-planet-zoo-conservation-pack.json](./207746-planet-zoo-conservation-pack.json) |
@@ -9510,6 +9512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pmcman | 178433 | [178433-pmcman.json](./178433-pmcman.json) |
 | Pneuma | 384242 | [384242-pneuma.json](./384242-pneuma.json) |
 | Pneuma: Breath of Life | 9178 | [9178-pneuma-breath-of-life.json](./9178-pneuma-breath-of-life.json) |
+| Pneumata VR | 253173 | [253173-pneumata-vr.json](./253173-pneumata-vr.json) |
 | Pneumatic Ball | 288360 | [288360-pneumatic-ball.json](./288360-pneumatic-ball.json) |
 | PneumaticCraft: Repressurized | 294671 | [294671-pneumaticcraft-repressurized.json](./294671-pneumaticcraft-repressurized.json) |
 | Pnevmo-Capsula | 220345 | [220345-pnevmo-capsula.json](./220345-pnevmo-capsula.json) |
@@ -12768,6 +12771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerwash Simulator 2: Adventure Time Pack | 382683 | [382683-powerwash-simulator-2-adventure-time-pack.json](./382683-powerwash-simulator-2-adventure-time-pack.json) |
 | PowerWash Simulator 2: Barbie Pack | 418240 | [418240-powerwash-simulator-2-barbie-pack.json](./418240-powerwash-simulator-2-barbie-pack.json) |
 | PowerWash Simulator 2: Star Wars Pack | 399677 | [399677-powerwash-simulator-2-star-wars-pack.json](./399677-powerwash-simulator-2-star-wars-pack.json) |
+| PowerWash Simulator VR | 251557 | [251557-powerwash-simulator-vr.json](./251557-powerwash-simulator-vr.json) |
 | PowerWash Simulator: Back to the Future Special Pack | 276978 | [276978-powerwash-simulator-back-to-the-future-special-pack.json](./276978-powerwash-simulator-back-to-the-future-special-pack.json) |
 | PowerWash Simulator: Cruise Ship Sun Deck - Summer 2024 | 312018 | [312018-powerwash-simulator-cruise-ship-sun-deck-summer-2024.json](./312018-powerwash-simulator-cruise-ship-sun-deck-summer-2024.json) |
 | PowerWash Simulator: Halloween Seasonal 2024 | 320757 | [320757-powerwash-simulator-halloween-seasonal-2024.json](./320757-powerwash-simulator-halloween-seasonal-2024.json) |
