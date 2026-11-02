@@ -5276,6 +5276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hercules: The Legendary Journeys | 3511 | [3511-hercules-the-legendary-journeys.json](./3511-hercules-the-legendary-journeys.json) |
 | Hercules: The True Story | 57439 | [57439-hercules-the-true-story.json](./57439-hercules-the-true-story.json) |
 | Herd is Coming | 118300 | [118300-herd-is-coming.json](./118300-herd-is-coming.json) |
+| Herd League | 424636 | [424636-herd-league.json](./424636-herd-league.json) |
 | Herd!!! | 234004 | [234004-herd.json](./234004-herd.json) |
 | Herder | 149862 | [149862-herder.json](./149862-herder.json) |
 | Herding Cats | 208262 | [208262-herding-cats.json](./208262-herding-cats.json) |
@@ -6767,6 +6768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Raccoons | 389738 | [389738-hidden-raccoons.json](./389738-hidden-raccoons.json) |
 | Hidden Raccoons in Asia | 403185 | [403185-hidden-raccoons-in-asia.json](./403185-hidden-raccoons-in-asia.json) |
 | Hidden Raccoons in Summer | 403186 | [403186-hidden-raccoons-in-summer.json](./403186-hidden-raccoons-in-summer.json) |
+| Hidden Raccoons in Winter | 424619 | [424619-hidden-raccoons-in-winter.json](./424619-hidden-raccoons-in-winter.json) |
 | Hidden Realm of the Enchantress | 369162 | [369162-hidden-realm-of-the-enchantress.json](./369162-hidden-realm-of-the-enchantress.json) |
 | Hidden Relics | 209900 | [209900-hidden-relics.json](./209900-hidden-relics.json) |
 | Hidden Riddles: Glaciers Mysteries | 383726 | [383726-hidden-riddles-glaciers-mysteries.json](./383726-hidden-riddles-glaciers-mysteries.json) |
@@ -8985,6 +8987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoofdrekenen | 98950 | [98950-hoofdrekenen.json](./98950-hoofdrekenen.json) |
 | Hoofield | 229912 | [229912-hoofield.json](./229912-hoofield.json) |
 | Hoofobia | 279898 | [279898-hoofobia.json](./279898-hoofobia.json) |
+| Hoofprints | 424607 | [424607-hoofprints.json](./424607-hoofprints.json) |
 | Hook | 10225 | [10225-hook.json](./10225-hook.json) |
 | Hook | 111323 | [111323-hook.json](./111323-hook.json) |
 | Hook | 205927 | [205927-hook.json](./205927-hook.json) |
@@ -9777,6 +9780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Line | 47261 | [47261-hot-line.json](./47261-hot-line.json) |
 | Hot Love Dreams: Classic Hentai Logic Puzzle | 274502 | [274502-hot-love-dreams-classic-hentai-logic-puzzle.json](./274502-hot-love-dreams-classic-hentai-logic-puzzle.json) |
 | Hot Mars 69 | 89587 | [89587-hot-mars-69.json](./89587-hot-mars-69.json) |
+| Hot Mic | 424634 | [424634-hot-mic.json](./424634-hot-mic.json) |
 | Hot Milf | 193265 | [193265-hot-milf.json](./193265-hot-milf.json) |
 | Hot Milf 10 Bikini | 384880 | [384880-hot-milf-10-bikini.json](./384880-hot-milf-10-bikini.json) |
 | Hot Milf 2 | 189976 | [189976-hot-milf-2.json](./189976-hot-milf-2.json) |
