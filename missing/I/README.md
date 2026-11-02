@@ -1588,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Zombie Wave: Survivors | 345381 | [345381-idle-zombie-wave-survivors.json](./345381-idle-zombie-wave-survivors.json) |
 | Idle Zombies Clicker | 213529 | [213529-idle-zombies-clicker.json](./213529-idle-zombies-clicker.json) |
 | Idle Zoo Park | 260661 | [260661-idle-zoo-park.json](./260661-idle-zoo-park.json) |
+| Idle Zoo Tycoon | 100951 | [100951-idle-zoo-tycoon.json](./100951-idle-zoo-tycoon.json) |
 | Idle Zoo Tycoon | 220814 | [220814-idle-zoo-tycoon.json](./220814-idle-zoo-tycoon.json) |
 | Idle: Doodle Realm | 389939 | [389939-idle-doodle-realm.json](./389939-idle-doodle-realm.json) |
 | Idle: Generators | 252289 | [252289-idle-generators.json](./252289-idle-generators.json) |
@@ -3680,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Nikki: Uncrowned Heart | 393593 | [393593-infinity-nikki-uncrowned-heart.json](./393593-infinity-nikki-uncrowned-heart.json) |
 | Infinity Nikki: Where All Souls Return | 399186 | [399186-infinity-nikki-where-all-souls-return.json](./399186-infinity-nikki-where-all-souls-return.json) |
 | Infinity Nikki: Where Stars Yearn | 407838 | [407838-infinity-nikki-where-stars-yearn.json](./407838-infinity-nikki-where-stars-yearn.json) |
+| Infinity Ops | 100920 | [100920-infinity-ops.json](./100920-infinity-ops.json) |
 | Infinity Ops | 174826 | [174826-infinity-ops.json](./174826-infinity-ops.json) |
 | Infinity Party Battle | 224034 | [224034-infinity-party-battle.json](./224034-infinity-party-battle.json) |
 | Infinity Pinball | 142871 | [142871-infinity-pinball.json](./142871-infinity-pinball.json) |
