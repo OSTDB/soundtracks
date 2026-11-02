@@ -1509,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Front | 378597 | [378597-dark-front.json](./378597-dark-front.json) |
 | Dark Frontiers | 203362 | [203362-dark-frontiers.json](./203362-dark-frontiers.json) |
 | Dark Fusion | 12036 | [12036-dark-fusion.json](./12036-dark-fusion.json) |
+| Dark Future: Blood Red States | 35251 | [35251-dark-future-blood-red-states.json](./35251-dark-future-blood-red-states.json) |
 | Dark Gates | 36166 | [36166-dark-gates.json](./36166-dark-gates.json) |
 | Dark Gaze: Curse of the Black Nazar | 279853 | [279853-dark-gaze-curse-of-the-black-nazar.json](./279853-dark-gaze-curse-of-the-black-nazar.json) |
 | Dark Ghost RPG | 96879 | [96879-dark-ghost-rpg.json](./96879-dark-ghost-rpg.json) |
@@ -5245,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend the Circle | 132691 | [132691-defend-the-circle.json](./132691-defend-the-circle.json) |
 | Defend The Cubes | 383734 | [383734-defend-the-cubes.json](./383734-defend-the-cubes.json) |
 | Defend the Fort | 173267 | [173267-defend-the-fort.json](./173267-defend-the-fort.json) |
+| Defend the Highlands | 35108 | [35108-defend-the-highlands.json](./35108-defend-the-highlands.json) |
 | Defend the Keep | 118091 | [118091-defend-the-keep.json](./118091-defend-the-keep.json) |
 | Defend the Kingdom | 154907 | [154907-defend-the-kingdom.json](./154907-defend-the-kingdom.json) |
 | Defend the Night | 127646 | [127646-defend-the-night.json](./127646-defend-the-night.json) |
@@ -15046,6 +15048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream's Deep | 256983 | [256983-dreams-deep.json](./256983-dreams-deep.json) |
 | Dream's Reach: Village of the Gods | 154078 | [154078-dreams-reach-village-of-the-gods.json](./154078-dreams-reach-village-of-the-gods.json) |
 | Dreamables | 216619 | [216619-dreamables.json](./216619-dreamables.json) |
+| Dreamals | 32516 | [32516-dreamals.json](./32516-dreamals.json) |
 | Dreamals: Dream Quest | 43086 | [43086-dreamals-dream-quest.json](./43086-dreamals-dream-quest.json) |
 | DreaMarbleng | 166574 | [166574-dreamarbleng.json](./166574-dreamarbleng.json) |
 | Dreamau Adventures | 188345 | [188345-dreamau-adventures.json](./188345-dreamau-adventures.json) |
@@ -17795,6 +17798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarrf: A Pinball Roguelike | 342593 | [342593-dwarrf-a-pinball-roguelike.json](./342593-dwarrf-a-pinball-roguelike.json) |
 | Dwarrows | 25229 | [25229-dwarrows.json](./25229-dwarrows.json) |
 | Dwarven Alchemist | 382332 | [382332-dwarven-alchemist.json](./382332-dwarven-alchemist.json) |
+| Dwarven Brawl Bros | 35310 | [35310-dwarven-brawl-bros.json](./35310-dwarven-brawl-bros.json) |
 | Dwarven Defender | 121575 | [121575-dwarven-defender.json](./121575-dwarven-defender.json) |
 | Dwarven Descent | 63006 | [63006-dwarven-descent.json](./63006-dwarven-descent.json) |
 | Dwarven Destiny | 206148 | [206148-dwarven-destiny.json](./206148-dwarven-destiny.json) |
