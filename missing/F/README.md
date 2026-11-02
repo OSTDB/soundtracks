@@ -4545,6 +4545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIM Speedway Grand Prix 2 | 67677 | [67677-fim-speedway-grand-prix-2.json](./67677-fim-speedway-grand-prix-2.json) |
 | FIM Speedway Grand Prix 3 | 67676 | [67676-fim-speedway-grand-prix-3.json](./67676-fim-speedway-grand-prix-3.json) |
 | Fimbles: Fimbling Fun! | 307345 | [307345-fimbles-fimbling-fun.json](./307345-fimbles-fimbling-fun.json) |
+| Fimbul | 83614 | [83614-fimbul.json](./83614-fimbul.json) |
 | Fimbul Winter | 149891 | [149891-fimbul-winter.json](./149891-fimbul-winter.json) |
 | Fimbul Winter VR | 151264 | [151264-fimbul-winter-vr.json](./151264-fimbul-winter-vr.json) |
 | Fin and the Ancient Mystery | 123312 | [123312-fin-and-the-ancient-mystery.json](./123312-fin-and-the-ancient-mystery.json) |
