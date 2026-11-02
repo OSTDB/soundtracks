@@ -1499,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under a Desert Sun | 29561 | [29561-under-a-desert-sun.json](./29561-under-a-desert-sun.json) |
 | Under a Desert Sun: Seekers of the Cursed Vessel | 372637 | [372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json](./372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json) |
 | Under a Freezing Sea | 143362 | [143362-under-a-freezing-sea.json](./143362-under-a-freezing-sea.json) |
+| Under a Groove | 402667 | [402667-under-a-groove.json](./402667-under-a-groove.json) |
 | Under a Rock | 211912 | [211912-under-a-rock.json](./211912-under-a-rock.json) |
 | Under a Star Called Sun | 135632 | [135632-under-a-star-called-sun.json](./135632-under-a-star-called-sun.json) |
 | Under A Star Long Cold | 284847 | [284847-under-a-star-long-cold.json](./284847-under-a-star-long-cold.json) |
@@ -2715,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsubscribed: The Game | 117913 | [117913-unsubscribed-the-game.json](./117913-unsubscribed-the-game.json) |
 | UnSummoning: the Spectral Horde | 34058 | [34058-unsummoning-the-spectral-horde.json](./34058-unsummoning-the-spectral-horde.json) |
 | Unsung Ballads | 244618 | [244618-unsung-ballads.json](./244618-unsung-ballads.json) |
+| Unsung Cascade | 402744 | [402744-unsung-cascade.json](./402744-unsung-cascade.json) |
 | Unsung Empires: The Cholas | 244379 | [244379-unsung-empires-the-cholas.json](./244379-unsung-empires-the-cholas.json) |
 | Unsung Escape | 356830 | [356830-unsung-escape.json](./356830-unsung-escape.json) |
 | Unsung Heroes 1898 | 352886 | [352886-unsung-heroes-1898.json](./352886-unsung-heroes-1898.json) |
