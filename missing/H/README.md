@@ -6168,6 +6168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexmet World | 217222 | [217222-hexmet-world.json](./217222-hexmet-world.json) |
 | Hexmon War | 56287 | [56287-hexmon-war.json](./56287-hexmon-war.json) |
 | HeXO | 404794 | [404794-hexo.json](./404794-hexo.json) |
+| Hexoboy | 423409 | [423409-hexoboy.json](./423409-hexoboy.json) |
 | HexoCity | 291590 | [291590-hexocity.json](./291590-hexocity.json) |
 | Hexodius | 16517 | [16517-hexodius.json](./16517-hexodius.json) |
 | Hexogin | 127865 | [127865-hexogin.json](./127865-hexogin.json) |
