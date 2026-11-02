@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.A. Funk | 117299 | [117299-l-a-funk.json](./117299-l-a-funk.json) |
 | L.A. Machineguns: Rage of the Machines | 39478 | [39478-l-a-machineguns-rage-of-the-machines.json](./39478-l-a-machineguns-rage-of-the-machines.json) |
 | L.A. Meltdown 2047 | 308236 | [308236-l-a-meltdown-2047.json](./308236-l-a-meltdown-2047.json) |
+| L.A. Noire: A Slip of the Tongue | 24399 | [24399-l-a-noire-a-slip-of-the-tongue.json](./24399-l-a-noire-a-slip-of-the-tongue.json) |
 | L.A. Noire: Reefer Madness | 117307 | [117307-l-a-noire-reefer-madness.json](./117307-l-a-noire-reefer-madness.json) |
 | L.A. Noire: The Complete Edition | 47398 | [47398-l-a-noire-the-complete-edition.json](./47398-l-a-noire-the-complete-edition.json) |
 | L.A. Noire: The Consul's Car | 117308 | [117308-l-a-noire-the-consuls-car.json](./117308-l-a-noire-the-consuls-car.json) |
@@ -993,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Drift: OverDrive | 28567 | [28567-laser-drift-overdrive.json](./28567-laser-drift-overdrive.json) |
 | Laser Droplets | 159870 | [159870-laser-droplets.json](./159870-laser-droplets.json) |
 | Laser Fortress | 318757 | [318757-laser-fortress.json](./318757-laser-fortress.json) |
+| Laser Gates | 24016 | [24016-laser-gates.json](./24016-laser-gates.json) |
 | Laser Ghost | 36901 | [36901-laser-ghost.json](./36901-laser-ghost.json) |
 | Laser Grand Prix | 66531 | [66531-laser-grand-prix.json](./66531-laser-grand-prix.json) |
 | Laser Grid | 52252 | [52252-laser-grid.json](./52252-laser-grid.json) |
@@ -2517,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Dragon | 4967 | [4967-legend-of-the-dragon.json](./4967-legend-of-the-dragon.json) |
 | Legend of the Five Rings | 80587 | [80587-legend-of-the-five-rings.json](./80587-legend-of-the-five-rings.json) |
 | Legend of the Forest: Bigfoot | 101045 | [101045-legend-of-the-forest-bigfoot.json](./101045-legend-of-the-forest-bigfoot.json) |
+| Legend of the Guardians: The Owls of Ga'Hoole | 4968 | [4968-legend-of-the-guardians-the-owls-of-gahoole.json](./4968-legend-of-the-guardians-the-owls-of-gahoole.json) |
 | Legend of the Holy Sword | 340910 | [340910-legend-of-the-holy-sword.json](./340910-legend-of-the-holy-sword.json) |
 | Legend of the Hunter: House of Dragons | 313221 | [313221-legend-of-the-hunter-house-of-dragons.json](./313221-legend-of-the-hunter-house-of-dragons.json) |
 | Legend of the Kitties: Return of Echoes | 332355 | [332355-legend-of-the-kitties-return-of-echoes.json](./332355-legend-of-the-kitties-return-of-echoes.json) |
@@ -2973,6 +2976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel Super Heroes 2: Champions Character Pack | 168368 | [168368-lego-marvel-super-heroes-2-champions-character-pack.json](./168368-lego-marvel-super-heroes-2-champions-character-pack.json) |
 | LEGO Marvel Super Heroes 2: Classic Guardians of the Galaxy Character Pack | 168781 | [168781-lego-marvel-super-heroes-2-classic-guardians-of-the-galaxy-character-pack.json](./168781-lego-marvel-super-heroes-2-classic-guardians-of-the-galaxy-character-pack.json) |
 | LEGO Marvel Super Heroes 2: Cloak and Dagger Character and Level Pack | 137318 | [137318-lego-marvel-super-heroes-2-cloak-and-dagger-character-and-level-pack.json](./137318-lego-marvel-super-heroes-2-cloak-and-dagger-character-and-level-pack.json) |
+| LEGO Marvel Super Heroes 2: Deluxe Edition | 54167 | [54167-lego-marvel-super-heroes-2-deluxe-edition.json](./54167-lego-marvel-super-heroes-2-deluxe-edition.json) |
 | LEGO Marvel Super Heroes 2: Marvel's Ant-Man and the Wasp Level and Character Pack | 168783 | [168783-lego-marvel-super-heroes-2-marvels-ant-man-and-the-wasp-level-and-character-pack.json](./168783-lego-marvel-super-heroes-2-marvels-ant-man-and-the-wasp-level-and-character-pack.json) |
 | LEGO Marvel Super Heroes 2: Marvel's Guardians of the Galaxy - Vol. 2 Movie Level Pack | 137309 | [137309-lego-marvel-super-heroes-2-marvels-guardians-of-the-galaxy-vol-2-movie-level-pack.json](./137309-lego-marvel-super-heroes-2-marvels-guardians-of-the-galaxy-vol-2-movie-level-pack.json) |
 | LEGO Marvel Super Heroes 2: Runaways Level and Character Pack | 137311 | [137311-lego-marvel-super-heroes-2-runaways-level-and-character-pack.json](./137311-lego-marvel-super-heroes-2-runaways-level-and-character-pack.json) |
@@ -4277,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifecycles of the Traveler Spider | 390575 | [390575-lifecycles-of-the-traveler-spider.json](./390575-lifecycles-of-the-traveler-spider.json) |
 | LifeDev | 258470 | [258470-lifedev.json](./258470-lifedev.json) |
 | Lifeflame Compendium | 150040 | [150040-lifeflame-compendium.json](./150040-lifeflame-compendium.json) |
+| Lifeforce | 55022 | [55022-lifeforce.json](./55022-lifeforce.json) |
 | Lifeforms: Binary Fission | 260281 | [260281-lifeforms-binary-fission.json](./260281-lifeforms-binary-fission.json) |
 | LifeGameSimulator | 102328 | [102328-lifegamesimulator.json](./102328-lifegamesimulator.json) |
 | Lifeguard | 61576 | [61576-lifeguard.json](./61576-lifeguard.json) |
@@ -9415,6 +9420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxocraft | 43168 | [43168-luxocraft.json](./43168-luxocraft.json) |
 | Luxor | 7534 | [7534-luxor.json](./7534-luxor.json) |
 | Luxor 2 HD | 30226 | [30226-luxor-2-hd.json](./30226-luxor-2-hd.json) |
+| Luxor 3 | 4981 | [4981-luxor-3.json](./4981-luxor-3.json) |
 | Luxor Adventures | 7540 | [7540-luxor-adventures.json](./7540-luxor-adventures.json) |
 | Luxor Evolved | 7542 | [7542-luxor-evolved.json](./7542-luxor-evolved.json) |
 | Luxor HD | 35432 | [35432-luxor-hd.json](./35432-luxor-hd.json) |
