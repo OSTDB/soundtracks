@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tag: The Power of Paint | 101055 | [101055-tag-the-power-of-paint.json](./101055-tag-the-power-of-paint.json) |
 | Tag! You're Dead | 358987 | [358987-tag-youre-dead.json](./358987-tag-youre-dead.json) |
 | Tag.Io | 129726 | [129726-tag-io.json](./129726-tag-io.json) |
+| Tagablock | 414704 | [414704-tagablock.json](./414704-tagablock.json) |
 | Tagalon | 362471 | [362471-tagalon.json](./362471-tagalon.json) |
 | TAGAP 2: The Apocalyptic Game About Penguins | 63087 | [63087-tagap-2-the-apocalyptic-game-about-penguins.json](./63087-tagap-2-the-apocalyptic-game-about-penguins.json) |
 | TAGAP 4 | 321139 | [321139-tagap-4.json](./321139-tagap-4.json) |
@@ -13475,6 +13476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night of the Scissors | 199297 | [199297-the-night-of-the-scissors.json](./199297-the-night-of-the-scissors.json) |
 | The Night Owl Murder | 260086 | [260086-the-night-owl-murder.json](./260086-the-night-owl-murder.json) |
 | The Night Ripper | 125259 | [125259-the-night-ripper.json](./125259-the-night-ripper.json) |
+| The Night Route | 414729 | [414729-the-night-route.json](./414729-the-night-route.json) |
 | The Night Shift | 258416 | [258416-the-night-shift.json](./258416-the-night-shift.json) |
 | The night spoke our names | 208310 | [208310-the-night-spoke-our-names.json](./208310-the-night-spoke-our-names.json) |
 | The Night That Speaks | 141421 | [141421-the-night-that-speaks.json](./141421-the-night-that-speaks.json) |
@@ -18050,6 +18052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Woods: VR Escape the Room | 114975 | [114975-the-woods-vr-escape-the-room.json](./114975-the-woods-vr-escape-the-room.json) |
 | The Woodsman | 225558 | [225558-the-woodsman.json](./225558-the-woodsman.json) |
 | The Woodworker | 220517 | [220517-the-woodworker.json](./220517-the-woodworker.json) |
+| The Woodworking Game | 414711 | [414711-the-woodworking-game.json](./414711-the-woodworking-game.json) |
 | The Wooter | 176132 | [176132-the-wooter.json](./176132-the-wooter.json) |
 | The Word | 420923 | [420923-the-word.json](./420923-the-word.json) |
 | The Word is Not the Thing | 74468 | [74468-the-word-is-not-the-thing.json](./74468-the-word-is-not-the-thing.json) |
@@ -22431,6 +22434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanfall: Expedition | 21647 | [21647-titanfall-expedition.json](./21647-titanfall-expedition.json) |
 | Titanfall: Frontier's Edge | 21649 | [21649-titanfall-frontiers-edge.json](./21649-titanfall-frontiers-edge.json) |
 | Titanfall: IMC Rising | 20225 | [20225-titanfall-imc-rising.json](./20225-titanfall-imc-rising.json) |
+| Titanhelm | 414719 | [414719-titanhelm.json](./414719-titanhelm.json) |
 | Titanic | 10842 | [10842-titanic.json](./10842-titanic.json) |
 | Titanic | 74237 | [74237-titanic.json](./74237-titanic.json) |
 | Titanic | 74430 | [74430-titanic.json](./74430-titanic.json) |
