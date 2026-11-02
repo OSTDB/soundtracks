@@ -2799,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapon Hacker | 133377 | [133377-weapon-hacker.json](./133377-weapon-hacker.json) |
 | Weapon Meister | 282220 | [282220-weapon-meister.json](./282220-weapon-meister.json) |
 | Weapon Mix | 289902 | [289902-weapon-mix.json](./289902-weapon-mix.json) |
+| Weapon of Choice DX | 154991 | [154991-weapon-of-choice-dx.json](./154991-weapon-of-choice-dx.json) |
 | Weapon Party | 277977 | [277977-weapon-party.json](./277977-weapon-party.json) |
 | Weapon Rearing | 338389 | [338389-weapon-rearing.json](./338389-weapon-rearing.json) |
 | Weapon Shop Decillionaire | 275817 | [275817-weapon-shop-decillionaire.json](./275817-weapon-shop-decillionaire.json) |
@@ -5315,6 +5316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windrose | 380441 | [380441-windrose.json](./380441-windrose.json) |
 | Windrunner | 412780 | [412780-windrunner.json](./412780-windrunner.json) |
 | Windrush Tales | 180269 | [180269-windrush-tales.json](./180269-windrush-tales.json) |
+| Winds & Leaves | 159284 | [159284-winds-and-leaves.json](./159284-winds-and-leaves.json) |
 | Winds of Change - The Opening Act | 118812 | [118812-winds-of-change-the-opening-act.json](./118812-winds-of-change-the-opening-act.json) |
 | Winds of Destiny - Duels of the Magi | 39002 | [39002-winds-of-destiny-duels-of-the-magi.json](./39002-winds-of-destiny-duels-of-the-magi.json) |
 | Winds of Revenge | 25905 | [25905-winds-of-revenge.json](./25905-winds-of-revenge.json) |
