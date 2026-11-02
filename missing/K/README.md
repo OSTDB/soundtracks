@@ -2679,7 +2679,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2986,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Of Sails | 326771 | [326771-king-of-sails.json](./326771-king-of-sails.json) |
 | King of Santa | 390233 | [390233-king-of-santa.json](./390233-king-of-santa.json) |
 | King of Scooter | 91142 | [91142-king-of-scooter.json](./91142-king-of-scooter.json) |
+| King of Scoring 2019 | 402213 | [402213-king-of-scoring-2019.json](./402213-king-of-scoring-2019.json) |
 | King of Seas | 136091 | [136091-king-of-seas.json](./136091-king-of-seas.json) |
 | King of Silence | 254049 | [254049-king-of-silence.json](./254049-king-of-silence.json) |
 | King of Snatchers | 306338 | [306338-king-of-snatchers.json](./306338-king-of-snatchers.json) |
@@ -3322,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Rush | 6005 | [6005-kingdom-rush.json](./6005-kingdom-rush.json) |
 | Kingdom Rush 5: Alliance | 296924 | [296924-kingdom-rush-5-alliance.json](./296924-kingdom-rush-5-alliance.json) |
 | Kingdom Rush 5: Alliance - Colossal Dwarfare | 330136 | [330136-kingdom-rush-5-alliance-colossal-dwarfare.json](./330136-kingdom-rush-5-alliance-colossal-dwarfare.json) |
+| Kingdom Rush 5: Alliance TD - Dragon Wars | 402086 | [402086-kingdom-rush-5-alliance-td-dragon-wars.json](./402086-kingdom-rush-5-alliance-td-dragon-wars.json) |
 | Kingdom Rush 5: Alliance TD - Wukong's Journey | 382581 | [382581-kingdom-rush-5-alliance-td-wukongs-journey.json](./382581-kingdom-rush-5-alliance-td-wukongs-journey.json) |
 | Kingdom Rush 5: Alliance TD+ | 355895 | [355895-kingdom-rush-5-alliance-td.json](./355895-kingdom-rush-5-alliance-td.json) |
 | Kingdom Rush 6: Genesis TD | 394375 | [394375-kingdom-rush-6-genesis-td.json](./394375-kingdom-rush-6-genesis-td.json) |
@@ -3544,6 +3545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinophobia | 375931 | [375931-kinophobia.json](./375931-kinophobia.json) |
 | Kinshin Ingo Doteigari | 108945 | [108945-kinshin-ingo-doteigari.json](./108945-kinshin-ingo-doteigari.json) |
 | Kinstrife | 277774 | [277774-kinstrife.json](./277774-kinstrife.json) |
+| Kint | 402074 | [402074-kint.json](./402074-kint.json) |
 | Kintsugi | 135682 | [135682-kintsugi.json](./135682-kintsugi.json) |
 | Kintsugi | 396400 | [396400-kintsugi.json](./396400-kintsugi.json) |
 | Kintsugi | 398303 | [398303-kintsugi.json](./398303-kintsugi.json) |
@@ -4732,6 +4734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kohan: Immortal Sovereigns | 767 | [767-kohan-immortal-sovereigns.json](./767-kohan-immortal-sovereigns.json) |
 | Kohan: Immortal Sovereigns Special Awards Edition | 209823 | [209823-kohan-immortal-sovereigns-special-awards-edition.json](./209823-kohan-immortal-sovereigns-special-awards-edition.json) |
 | Kohana | 180399 | [180399-kohana.json](./180399-kohana.json) |
+| Kohctpyktop: Engineer of the People | 402390 | [402390-kohctpyktop-engineer-of-the-people.json](./402390-kohctpyktop-engineer-of-the-people.json) |
 | Kohinata Yuzuki to Shoya Shitai!: Kemomimi Kamisama to Yukemuri Koimoyou | 396942 | [396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json](./396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json) |
 | Kohitsuji Hokaku Keikaku! Sweet Boys Life | 289362 | [289362-kohitsuji-hokaku-keikaku-sweet-boys-life.json](./289362-kohitsuji-hokaku-keikaku-sweet-boys-life.json) |
 | Kohlrabi Starship | 244120 | [244120-kohlrabi-starship.json](./244120-kohlrabi-starship.json) |
@@ -4978,6 +4981,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konamic Tennis | 41322 | [41322-konamic-tennis.json](./41322-konamic-tennis.json) |
 | Konaste Gitadora | 154842 | [154842-konaste-gitadora.json](./154842-konaste-gitadora.json) |
 | Konata yori Kanata made | 377660 | [377660-konata-yori-kanata-made.json](./377660-konata-yori-kanata-made.json) |
+| Konayuki Fururi: Yuzuhara-chou Curling-bu | 402066 | [402066-konayuki-fururi-yuzuhara-chou-curling-bu.json](./402066-konayuki-fururi-yuzuhara-chou-curling-bu.json) |
+| Konayuki Fururi: Yuzuhara-chou Curling-bu Gaiden - Saeko no Kayoizuma Nikki | 402067 | [402067-konayuki-fururi-yuzuhara-chou-curling-bu-gaiden-saeko-no-kayoizuma-nikki.json](./402067-konayuki-fururi-yuzuhara-chou-curling-bu-gaiden-saeko-no-kayoizuma-nikki.json) |
 | Konbini Baito to Stalker | 322117 | [322117-konbini-baito-to-stalker.json](./322117-konbini-baito-to-stalker.json) |
 | Konbini Life | 178879 | [178879-konbini-life.json](./178879-konbini-life.json) |
 | Konbini's World | 381591 | [381591-konbinis-world.json](./381591-konbinis-world.json) |
