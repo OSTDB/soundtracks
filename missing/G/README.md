@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Glitch | 250761 | [250761-galactic-glitch.json](./250761-galactic-glitch.json) |
 | Galactic Glitch: Prologue | 211690 | [211690-galactic-glitch-prologue.json](./211690-galactic-glitch-prologue.json) |
 | Galactic Gluttony | 247131 | [247131-galactic-gluttony.json](./247131-galactic-gluttony.json) |
+| Galactic Gourmet | 421567 | [421567-galactic-gourmet.json](./421567-galactic-gourmet.json) |
 | Galactic Gravity Golf | 387921 | [387921-galactic-gravity-golf.json](./387921-galactic-gravity-golf.json) |
 | Galactic Grinder | 253526 | [253526-galactic-grinder.json](./253526-galactic-grinder.json) |
 | Galactic Guardian | 316807 | [316807-galactic-guardian.json](./316807-galactic-guardian.json) |
@@ -1049,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gals Panic S3 | 40143 | [40143-gals-panic-s3.json](./40143-gals-panic-s3.json) |
 | Gals Panic SS | 74822 | [74822-gals-panic-ss.json](./74822-gals-panic-ss.json) |
 | Gals Quest | 82704 | [82704-gals-quest.json](./82704-gals-quest.json) |
+| Galseed | 421556 | [421556-galseed.json](./421556-galseed.json) |
 | Galshell 2 | 224500 | [224500-galshell-2.json](./224500-galshell-2.json) |
 | Galtia V Edition | 148268 | [148268-galtia-v-edition.json](./148268-galtia-v-edition.json) |
 | Galumb | 414573 | [414573-galumb.json](./414573-galumb.json) |
@@ -5352,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
 | Goat Stand and Turtle Guy | 360626 | [360626-goat-stand-and-turtle-guy.json](./360626-goat-stand-and-turtle-guy.json) |
 | Goat Survivor | 367025 | [367025-goat-survivor.json](./367025-goat-survivor.json) |
+| GOAT: Gear Optimization Auto-Battle Tactics | 421597 | [421597-goat-gear-optimization-auto-battle-tactics.json](./421597-goat-gear-optimization-auto-battle-tactics.json) |
 | Goat!Goat! | 242481 | [242481-goat-goat.json](./242481-goat-goat.json) |
 | Goat's Tale | 173011 | [173011-goats-tale.json](./173011-goats-tale.json) |
 | Goat's Tale 2 | 213540 | [213540-goats-tale-2.json](./213540-goats-tale-2.json) |
@@ -7602,6 +7605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandpa and Me vs the Numbers | 414303 | [414303-grandpa-and-me-vs-the-numbers.json](./414303-grandpa-and-me-vs-the-numbers.json) |
 | Grandpa and the Zombies | 75624 | [75624-grandpa-and-the-zombies.json](./75624-grandpa-and-the-zombies.json) |
 | Grandpa Joe Plays the Open | 93391 | [93391-grandpa-joe-plays-the-open.json](./93391-grandpa-joe-plays-the-open.json) |
+| Grandpa Loves Trains | 422181 | [422181-grandpa-loves-trains.json](./422181-grandpa-loves-trains.json) |
 | Grandpa Needs Fish | 407753 | [407753-grandpa-needs-fish.json](./407753-grandpa-needs-fish.json) |
 | Grandpa Rally | 255730 | [255730-grandpa-rally.json](./255730-grandpa-rally.json) |
 | Grandpa: The Horror Game | 99307 | [99307-grandpa-the-horror-game.json](./99307-grandpa-the-horror-game.json) |
