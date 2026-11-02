@@ -2383,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geki Kuukan Pro Baseball: At the End of the Century 1999 | 302700 | [302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json](./302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json) |
 | Geki Yaba Runner Deluxe | 84638 | [84638-geki-yaba-runner-deluxe.json](./84638-geki-yaba-runner-deluxe.json) |
 | Geki Yaba Runner Habanero | 222389 | [222389-geki-yaba-runner-habanero.json](./222389-geki-yaba-runner-habanero.json) |
+| Geki Yaba Runner: Anniversary Edition | 119509 | [119509-geki-yaba-runner-anniversary-edition.json](./119509-geki-yaba-runner-anniversary-edition.json) |
 | Geki-J Pachi-Slot: Chibari yo DX | 225340 | [225340-geki-j-pachi-slot-chibari-yo-dx.json](./225340-geki-j-pachi-slot-chibari-yo-dx.json) |
 | Gekiatsu!! Pachige Tamashii Max Evangelion 7 x Seimei no Kodou | 249698 | [249698-gekiatsu-pachige-tamashii-max-evangelion-7-x-seimei-no-kodou.json](./249698-gekiatsu-pachige-tamashii-max-evangelion-7-x-seimei-no-kodou.json) |
 | Gekibo: Gekisha Boy | 43199 | [43199-gekibo-gekisha-boy.json](./43199-gekibo-gekisha-boy.json) |
@@ -3893,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gianpierino Adventures 2 | 410648 | [410648-gianpierino-adventures-2.json](./410648-gianpierino-adventures-2.json) |
 | GiAnt | 33696 | [33696-giant.json](./33696-giant.json) |
 | Giant and Me | 174757 | [174757-giant-and-me.json](./174757-giant-and-me.json) |
+| Giant Bear Rampage! | 119544 | [119544-giant-bear-rampage.json](./119544-giant-bear-rampage.json) |
 | Giant Blobs From Mars | 157391 | [157391-giant-blobs-from-mars.json](./157391-giant-blobs-from-mars.json) |
 | Giant Bundle | 193741 | [193741-giant-bundle.json](./193741-giant-bundle.json) |
 | Giant Celebration | 112707 | [112707-giant-celebration.json](./112707-giant-celebration.json) |
@@ -7974,6 +7976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Garden | 125685 | [125685-gravity-garden.json](./125685-gravity-garden.json) |
 | Gravity Garden | 365759 | [365759-gravity-garden.json](./365759-gravity-garden.json) |
 | Gravity Ghost | 16669 | [16669-gravity-ghost.json](./16669-gravity-ghost.json) |
+| Gravity Ghost: Deluxe Edition | 120546 | [120546-gravity-ghost-deluxe-edition.json](./120546-gravity-ghost-deluxe-edition.json) |
 | Gravity Golf | 180459 | [180459-gravity-golf.json](./180459-gravity-golf.json) |
 | Gravity Golfing | 255054 | [255054-gravity-golfing.json](./255054-gravity-golfing.json) |
 | Gravity Grove | 409385 | [409385-gravity-grove.json](./409385-gravity-grove.json) |
