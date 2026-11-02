@@ -1796,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Cascade: Bamboo and Dragons | 334100 | [334100-mahjong-cascade-bamboo-and-dragons.json](./334100-mahjong-cascade-bamboo-and-dragons.json) |
 | Mahjong Challenge | 55266 | [55266-mahjong-challenge.json](./55266-mahjong-challenge.json) |
 | Mahjong Club | 37939 | [37939-mahjong-club.json](./37939-mahjong-club.json) |
+| Mahjong Club 90's | 409087 | [409087-mahjong-club-90s.json](./409087-mahjong-club-90s.json) |
 | Mahjong Collection | 110813 | [110813-mahjong-collection.json](./110813-mahjong-collection.json) |
 | Mahjong Connect Onet Puzzle | 215120 | [215120-mahjong-connect-onet-puzzle.json](./215120-mahjong-connect-onet-puzzle.json) |
 | Mahjong Cop Ryuu: Hakurou no Yabou | 27990 | [27990-mahjong-cop-ryuu-hakurou-no-yabou.json](./27990-mahjong-cop-ryuu-hakurou-no-yabou.json) |
@@ -8447,6 +8448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mendacium | 273466 | [273466-mendacium.json](./273466-mendacium.json) |
 | Mendalos | 191835 | [191835-mendalos.json](./191835-mendalos.json) |
 | Mendel Palace | 48052 | [48052-mendel-palace.json](./48052-mendel-palace.json) |
+| Mendel Simulator | 408416 | [408416-mendel-simulator.json](./408416-mendel-simulator.json) |
 | Mendel's Garden | 121691 | [121691-mendels-garden.json](./121691-mendels-garden.json) |
 | Mending Wall | 185832 | [185832-mending-wall.json](./185832-mending-wall.json) |
 | Mèng Běn Wúyōu | 109313 | [109313-meng-ben-wuyou.json](./109313-meng-ben-wuyou.json) |
@@ -9917,6 +9919,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro TD | 228278 | [228278-micro-td.json](./228278-micro-td.json) |
 | Micro Titans Wrestling | 364877 | [364877-micro-titans-wrestling.json](./364877-micro-titans-wrestling.json) |
 | Micro Trans Actions | 176938 | [176938-micro-trans-actions.json](./176938-micro-trans-actions.json) |
+| Micro Trux | 409118 | [409118-micro-trux.json](./409118-micro-trux.json) |
+| Micro Trux 2 | 409124 | [409124-micro-trux-2.json](./409124-micro-trux-2.json) |
 | Micro Vendor Adventures | 110796 | [110796-micro-vendor-adventures.json](./110796-micro-vendor-adventures.json) |
 | Micro Wars | 182042 | [182042-micro-wars.json](./182042-micro-wars.json) |
 | Micro Wars | 314450 | [314450-micro-wars.json](./314450-micro-wars.json) |
@@ -11849,6 +11853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Avoid | 208158 | [208158-mini-avoid.json](./208158-mini-avoid.json) |
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
 | Mini Battle Ground | 191033 | [191033-mini-battle-ground.json](./191033-mini-battle-ground.json) |
+| Mini Bike Challenge | 409119 | [409119-mini-bike-challenge.json](./409119-mini-bike-challenge.json) |
 | Mini Blaster | 175611 | [175611-mini-blaster.json](./175611-mini-blaster.json) |
 | Mini Boxing | 243721 | [243721-mini-boxing.json](./243721-mini-boxing.json) |
 | Mini Car Coin Collector | 390609 | [390609-mini-car-coin-collector.json](./390609-mini-car-coin-collector.json) |
@@ -11978,6 +11983,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Mini Farm | 209934 | [209934-mini-mini-farm.json](./209934-mini-mini-farm.json) |
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
 | Mini Minny and the Missing Magic | 177712 | [177712-mini-minny-and-the-missing-magic.json](./177712-mini-minny-and-the-missing-magic.json) |
+| Mini Monster Challenge | 409114 | [409114-mini-monster-challenge.json](./409114-mini-monster-challenge.json) |
+| Mini Monster Challenge 2 | 409121 | [409121-mini-monster-challenge-2.json](./409121-mini-monster-challenge-2.json) |
 | Mini Monsters | 343907 | [343907-mini-monsters.json](./343907-mini-monsters.json) |
 | Mini Motion: Sk8 HousE | 209208 | [209208-mini-motion-sk8-house.json](./209208-mini-motion-sk8-house.json) |
 | Mini Motor Racing | 89093 | [89093-mini-motor-racing.json](./89093-mini-motor-racing.json) |
@@ -12347,6 +12354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna no Mozoo | 302794 | [302794-minna-no-mozoo.json](./302794-minna-no-mozoo.json) |
 | Minna no Oekakiya-san | 276046 | [276046-minna-no-oekakiya-san.json](./276046-minna-no-oekakiya-san.json) |
 | Minna no Othello | 217925 | [217925-minna-no-othello.json](./217925-minna-no-othello.json) |
+| Minna no Pokémon Bokujou: Platina Taiou-ban | 409122 | [409122-minna-no-pokemon-bokujou-platina-taiou-ban.json](./409122-minna-no-pokemon-bokujou-platina-taiou-ban.json) |
 | Minna no Radio Controlled GP | 165435 | [165435-minna-no-radio-controlled-gp.json](./165435-minna-no-radio-controlled-gp.json) |
 | Minna no Radio Controlled GP + Variety Set | 165434 | [165434-minna-no-radio-controlled-gp-variety-set.json](./165434-minna-no-radio-controlled-gp-variety-set.json) |
 | Minna no Romana 1 | 130559 | [130559-minna-no-romana-1.json](./130559-minna-no-romana-1.json) |
@@ -12900,6 +12908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Texture | 396242 | [396242-missing-texture.json](./396242-missing-texture.json) |
 | Missing The Point | 397154 | [397154-missing-the-point.json](./397154-missing-the-point.json) |
 | Missing Translation | 19173 | [19173-missing-translation.json](./19173-missing-translation.json) |
+| Missing Truth | 410598 | [410598-missing-truth.json](./410598-missing-truth.json) |
 | Missing: Game for a Cause | 181200 | [181200-missing-game-for-a-cause.json](./181200-missing-game-for-a-cause.json) |
 | Missing: Itsuka Kitto | 257653 | [257653-missing-itsuka-kitto.json](./257653-missing-itsuka-kitto.json) |
 | Missing: Since January | 68204 | [68204-missing-since-january.json](./68204-missing-since-january.json) |
@@ -13088,6 +13097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MistWorld the after2 | 215367 | [215367-mistworld-the-after2.json](./215367-mistworld-the-after2.json) |
 | Misty Blue | 64387 | [64387-misty-blue.json](./64387-misty-blue.json) |
 | Misty Continent: Cursed Island | 212437 | [212437-misty-continent-cursed-island.json](./212437-misty-continent-cursed-island.json) |
+| Misty Forest: The Parkour Game | 410619 | [410619-misty-forest-the-parkour-game.json](./410619-misty-forest-the-parkour-game.json) |
 | Misty Garden | 345670 | [345670-misty-garden.json](./345670-misty-garden.json) |
 | Misty Hollow | 172421 | [172421-misty-hollow.json](./172421-misty-hollow.json) |
 | Misty Island: The Forgotten Story | 356998 | [356998-misty-island-the-forgotten-story.json](./356998-misty-island-the-forgotten-story.json) |
@@ -15873,6 +15883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Salad! | 256699 | [256699-more-salad.json](./256699-more-salad.json) |
 | More Slots More Money | 421807 | [421807-more-slots-more-money.json](./421807-more-slots-more-money.json) |
 | More Soup! | 108709 | [108709-more-soup.json](./108709-more-soup.json) |
+| More Spore | 409593 | [409593-more-spore.json](./409593-more-spore.json) |
 | More Sundaes! | 256790 | [256790-more-sundaes.json](./256790-more-sundaes.json) |
 | More Super Mario "Bras." 2: Choose a Path! | 255599 | [255599-more-super-mario-bras-2-choose-a-path.json](./255599-more-super-mario-bras-2-choose-a-path.json) |
 | More Super Mario "Bras." Beginner's Edition DS | 255597 | [255597-more-super-mario-bras-beginners-edition-ds.json](./255597-more-super-mario-bras-beginners-edition-ds.json) |
@@ -16601,6 +16612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Definitive Edition | 283139 | [283139-moto-rush-gt-definitive-edition.json](./283139-moto-rush-gt-definitive-edition.json) |
 | Moto Rush GT: Deluxe Edition | 221507 | [221507-moto-rush-gt-deluxe-edition.json](./221507-moto-rush-gt-deluxe-edition.json) |
 | Moto Rush GT: Diamond Edition | 280613 | [280613-moto-rush-gt-diamond-edition.json](./280613-moto-rush-gt-diamond-edition.json) |
+| Moto Rush GT: Enhancement Edition | 409974 | [409974-moto-rush-gt-enhancement-edition.json](./409974-moto-rush-gt-enhancement-edition.json) |
 | Moto Rush GT: Essentials Edition | 387679 | [387679-moto-rush-gt-essentials-edition.json](./387679-moto-rush-gt-essentials-edition.json) |
 | Moto Rush GT: Extended Edition | 261346 | [261346-moto-rush-gt-extended-edition.json](./261346-moto-rush-gt-extended-edition.json) |
 | Moto Rush GT: Full Garage | 237818 | [237818-moto-rush-gt-full-garage.json](./237818-moto-rush-gt-full-garage.json) |
@@ -16761,6 +16773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbike Simulator MX Driving | 312446 | [312446-motorbike-simulator-mx-driving.json](./312446-motorbike-simulator-mx-driving.json) |
 | Motorbikes Pro 2025: Discovery Edition | 399822 | [399822-motorbikes-pro-2025-discovery-edition.json](./399822-motorbikes-pro-2025-discovery-edition.json) |
 | Motorbikes Pro 2025: Prime Edition | 404281 | [404281-motorbikes-pro-2025-prime-edition.json](./404281-motorbikes-pro-2025-prime-edition.json) |
+| Motorbikes Pro 2025: Super Edition | 409973 | [409973-motorbikes-pro-2025-super-edition.json](./409973-motorbikes-pro-2025-super-edition.json) |
 | Motorbikes Pro 2025: Superior Edition | 410857 | [410857-motorbikes-pro-2025-superior-edition.json](./410857-motorbikes-pro-2025-superior-edition.json) |
 | Motorbikes Pro 2025: Upgrade Edition | 412584 | [412584-motorbikes-pro-2025-upgrade-edition.json](./412584-motorbikes-pro-2025-upgrade-edition.json) |
 | Motorbikes Pro 2025: Value Edition | 396921 | [396921-motorbikes-pro-2025-value-edition.json](./396921-motorbikes-pro-2025-value-edition.json) |
@@ -18027,6 +18040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder at the House | 249902 | [249902-murder-at-the-house.json](./249902-murder-at-the-house.json) |
 | Murder at the Residence Gudul | 134956 | [134956-murder-at-the-residence-gudul.json](./134956-murder-at-the-residence-gudul.json) |
 | Murder Avenue | 292531 | [292531-murder-avenue.json](./292531-murder-avenue.json) |
+| Murder Butterfly: Kotou Idol Live Satsujin Jiken | 410617 | [410617-murder-butterfly-kotou-idol-live-satsujin-jiken.json](./410617-murder-butterfly-kotou-idol-live-satsujin-jiken.json) |
 | Murder by Candlelight | 305369 | [305369-murder-by-candlelight.json](./305369-murder-by-candlelight.json) |
 | Murder by Choice: Mystery Game | 266265 | [266265-murder-by-choice-mystery-game.json](./266265-murder-by-choice-mystery-game.json) |
 | Murder by Moonlight 2: Crimson Night | 193501 | [193501-murder-by-moonlight-2-crimson-night.json](./193501-murder-by-moonlight-2-crimson-night.json) |
@@ -18167,6 +18181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murky Divers | 303304 | [303304-murky-divers.json](./303304-murky-divers.json) |
 | Murky Horizon | 66622 | [66622-murky-horizon.json](./66622-murky-horizon.json) |
 | Murky Waters | 133156 | [133156-murky-waters.json](./133156-murky-waters.json) |
+| Murmel TCG | 408398 | [408398-murmel-tcg.json](./408398-murmel-tcg.json) |
 | Murmeln und mehr ... | 86061 | [86061-murmeln-und-mehr.json](./86061-murmeln-und-mehr.json) |
 | MurMur | 239333 | [239333-murmur.json](./239333-murmur.json) |
 | Murmuring of Moth Mouth | 417596 | [417596-murmuring-of-moth-mouth.json](./417596-murmuring-of-moth-mouth.json) |
@@ -18349,6 +18364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Escape | 115137 | [115137-music-escape.json](./115137-music-escape.json) |
 | Music Flux | 21841 | [21841-music-flux.json](./21841-music-flux.json) |
 | Music Game | 376646 | [376646-music-game.json](./376646-music-game.json) |
+| Music Genius Pro / Stream | 409734 | [409734-music-genius-pro-stream.json](./409734-music-genius-pro-stream.json) |
 | Music Girl | 335741 | [335741-music-girl.json](./335741-music-girl.json) |
 | Music GunGun! | 64963 | [64963-music-gungun.json](./64963-music-gungun.json) |
 | Music in Motion | 265745 | [265745-music-in-motion.json](./265745-music-in-motion.json) |
@@ -19320,6 +19336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My House | 326199 | [326199-my-house.json](./326199-my-house.json) |
 | My House and I Got Transported To Another World | 278147 | [278147-my-house-and-i-got-transported-to-another-world.json](./278147-my-house-and-i-got-transported-to-another-world.json) |
 | My House is Haunted | 219656 | [219656-my-house-is-haunted.json](./219656-my-house-is-haunted.json) |
+| My Housemate Is a Dead Salaryman | 408421 | [408421-my-housemate-is-a-dead-salaryman.json](./408421-my-housemate-is-a-dead-salaryman.json) |
 | My Housetopia | 373874 | [373874-my-housetopia.json](./373874-my-housetopia.json) |
 | My Hunting Adventure Time | 261156 | [261156-my-hunting-adventure-time.json](./261156-my-hunting-adventure-time.json) |
 | My Husband is a Stranger | 352144 | [352144-my-husband-is-a-stranger.json](./352144-my-husband-is-a-stranger.json) |
