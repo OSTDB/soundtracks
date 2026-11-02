@@ -2804,6 +2804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6-nen 1-gumi | 294246 | [294246-6-nen-1-gumi.json](./294246-6-nen-1-gumi.json) |
 | 6-Pak | 86067 | [86067-6-pak.json](./86067-6-pak.json) |
 | 6-Sided Stories | 304668 | [304668-6-sided-stories.json](./304668-6-sided-stories.json) |
+| 6.0 | 130186 | [130186-6-0.json](./130186-6-0.json) |
 | 6.543.499.712 | 330765 | [330765-6-543-499-712.json](./330765-6-543-499-712.json) |
 | 60 Below | 377406 | [377406-60-below.json](./377406-60-below.json) |
 | 60 Clicks: Read, Select, Connected Worlds | 259054 | [259054-60-clicks-read-select-connected-worlds.json](./259054-60-clicks-read-select-connected-worlds.json) |
