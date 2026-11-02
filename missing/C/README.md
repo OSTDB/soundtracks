@@ -14140,6 +14140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmoOdyssey: Trip to Mars | 213149 | [213149-cosmoodyssey-trip-to-mars.json](./213149-cosmoodyssey-trip-to-mars.json) |
 | Cosmophage | 148552 | [148552-cosmophage.json](./148552-cosmophage.json) |
 | Cosmophobia | 330216 | [330216-cosmophobia.json](./330216-cosmophobia.json) |
+| Cosmophony | 35252 | [35252-cosmophony.json](./35252-cosmophony.json) |
 | CosmoPirates | 258553 | [258553-cosmopirates.json](./258553-cosmopirates.json) |
 | CosmoPlayerZ | 219481 | [219481-cosmoplayerz.json](./219481-cosmoplayerz.json) |
 | Cosmopolitan | 269749 | [269749-cosmopolitan.json](./269749-cosmopolitan.json) |
@@ -16607,6 +16608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossFire HD | 85740 | [85740-crossfire-hd.json](./85740-crossfire-hd.json) |
 | Crossfire II | 170284 | [170284-crossfire-ii.json](./170284-crossfire-ii.json) |
 | Crossfire Zombie Survivor | 233457 | [233457-crossfire-zombie-survivor.json](./233457-crossfire-zombie-survivor.json) |
+| Crossfire: Dungeons | 35262 | [35262-crossfire-dungeons.json](./35262-crossfire-dungeons.json) |
 | CrossFire: Legends | 102759 | [102759-crossfire-legends.json](./102759-crossfire-legends.json) |
 | Crossfire: Legion | 152088 | [152088-crossfire-legion.json](./152088-crossfire-legion.json) |
 | Crossfire: Sierra Squad | 229351 | [229351-crossfire-sierra-squad.json](./229351-crossfire-sierra-squad.json) |
@@ -18308,6 +18310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Cobra | 229050 | [229050-curse-of-the-cobra.json](./229050-curse-of-the-cobra.json) |
 | Curse of the Corsair | 245953 | [245953-curse-of-the-corsair.json](./245953-curse-of-the-corsair.json) |
 | Curse of the Countess | 413230 | [413230-curse-of-the-countess.json](./413230-curse-of-the-countess.json) |
+| Curse of the Crescent Isle DX | 35398 | [35398-curse-of-the-crescent-isle-dx.json](./35398-curse-of-the-crescent-isle-dx.json) |
 | Curse of the Dead Gods | 125373 | [125373-curse-of-the-dead-gods.json](./125373-curse-of-the-dead-gods.json) |
 | Curse of the Deadwood | 172152 | [172152-curse-of-the-deadwood.json](./172152-curse-of-the-deadwood.json) |
 | Curse of the Draugr Kings | 244767 | [244767-curse-of-the-draugr-kings.json](./244767-curse-of-the-draugr-kings.json) |
