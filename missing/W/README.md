@@ -4004,6 +4004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Stars Brought Us | 201549 | [201549-where-the-stars-brought-us.json](./201549-where-the-stars-brought-us.json) |
 | Where the Sun Always Shines | 401730 | [401730-where-the-sun-always-shines.json](./401730-where-the-sun-always-shines.json) |
 | Where the Two Flowers Meet | 267586 | [267586-where-the-two-flowers-meet.json](./267586-where-the-two-flowers-meet.json) |
+| Where the Veil Thins | 423371 | [423371-where-the-veil-thins.json](./423371-where-the-veil-thins.json) |
 | Where the Water Tastes Like Wine | 15823 | [15823-where-the-water-tastes-like-wine.json](./15823-where-the-water-tastes-like-wine.json) |
 | Where the Water Tastes Like Wine: Xbox Edition | 134369 | [134369-where-the-water-tastes-like-wine-xbox-edition.json](./134369-where-the-water-tastes-like-wine-xbox-edition.json) |
 | Where the Wild Things Are | 5278 | [5278-where-the-wild-things-are.json](./5278-where-the-wild-things-are.json) |
