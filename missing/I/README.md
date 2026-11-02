@@ -1405,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Human | 204484 | [204484-idle-human.json](./204484-idle-human.json) |
 | Idle Human 2 | 204486 | [204486-idle-human-2.json](./204486-idle-human-2.json) |
 | Idle Human Evolution | 220165 | [220165-idle-human-evolution.json](./220165-idle-human-evolution.json) |
+| Idle Hunter | 107885 | [107885-idle-hunter.json](./107885-idle-hunter.json) |
 | Idle Huntress: Adventure | 202250 | [202250-idle-huntress-adventure.json](./202250-idle-huntress-adventure.json) |
 | Idle Idle | 366093 | [366093-idle-idle.json](./366093-idle-idle.json) |
 | Idle Immortal | 409663 | [409663-idle-immortal.json](./409663-idle-immortal.json) |
@@ -5472,6 +5473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Tangle Breakout | 352233 | [352233-iron-tangle-breakout.json](./352233-iron-tangle-breakout.json) |
 | Iron Tank: The Invasion of Normandy | 19956 | [19956-iron-tank-the-invasion-of-normandy.json](./19956-iron-tank-the-invasion-of-normandy.json) |
 | Iron Tanks: Battle online | 87297 | [87297-iron-tanks-battle-online.json](./87297-iron-tanks-battle-online.json) |
+| Iron Throne | 101511 | [101511-iron-throne.json](./101511-iron-throne.json) |
 | Iron Throne: Kingdoms | 101518 | [101518-iron-throne-kingdoms.json](./101518-iron-throne-kingdoms.json) |
 | Iron Tides | 51561 | [51561-iron-tides.json](./51561-iron-tides.json) |
 | Iron Trails: Outlaw Pursuit | 322242 | [322242-iron-trails-outlaw-pursuit.json](./322242-iron-trails-outlaw-pursuit.json) |
