@@ -3866,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Duck | 22434 | [22434-deadly-duck.json](./22434-deadly-duck.json) |
 | Deadly Edge | 52250 | [52250-deadly-edge.json](./52250-deadly-edge.json) |
 | Deadly Endgame | 384132 | [384132-deadly-endgame.json](./384132-deadly-endgame.json) |
+| Deadly Escape | 83831 | [83831-deadly-escape.json](./83831-deadly-escape.json) |
 | Deadly Evil | 13576 | [13576-deadly-evil.json](./13576-deadly-evil.json) |
 | Deadly Fight | 164960 | [164960-deadly-fight.json](./164960-deadly-fight.json) |
 | Deadly Fighter 2 | 122906 | [122906-deadly-fighter-2.json](./122906-deadly-fighter-2.json) |
@@ -5351,6 +5352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of Oasis | 45793 | [45793-defenders-of-oasis.json](./45793-defenders-of-oasis.json) |
 | Defenders of Oasis GG2SMS | 369595 | [369595-defenders-of-oasis-gg2sms.json](./369595-defenders-of-oasis-gg2sms.json) |
 | Defenders of the Atlantic | 179479 | [179479-defenders-of-the-atlantic.json](./179479-defenders-of-the-atlantic.json) |
+| Defenders of the Fallen Island | 76406 | [76406-defenders-of-the-fallen-island.json](./76406-defenders-of-the-fallen-island.json) |
 | Defenders of the Last Colony | 36208 | [36208-defenders-of-the-last-colony.json](./36208-defenders-of-the-last-colony.json) |
 | Defenders of the Omniverse | 255385 | [255385-defenders-of-the-omniverse.json](./255385-defenders-of-the-omniverse.json) |
 | Defenders of the Realm VR | 36709 | [36709-defenders-of-the-realm-vr.json](./36709-defenders-of-the-realm-vr.json) |
@@ -12981,6 +12983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoubleMe | 183896 | [183896-doubleme.json](./183896-doubleme.json) |
 | Doubles Hard | 146799 | [146799-doubles-hard.json](./146799-doubles-hard.json) |
 | DoubleShake | 142481 | [142481-doubleshake.json](./142481-doubleshake.json) |
+| DoubleTap | 76380 | [76380-doubletap.json](./76380-doubletap.json) |
 | DoubleTheSnake | 50278 | [50278-doublethesnake.json](./50278-doublethesnake.json) |
 | Doubloon Trouble | 421802 | [421802-doubloon-trouble.json](./421802-doubloon-trouble.json) |
 | Doubts | 179613 | [179613-doubts.json](./179613-doubts.json) |
@@ -17435,6 +17438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Miners | 174256 | [174256-dungeons-and-miners.json](./174256-dungeons-and-miners.json) |
 | Dungeons & Such | 104511 | [104511-dungeons-and-such.json](./104511-dungeons-and-such.json) |
 | Dungeons & Treasure VR | 55377 | [55377-dungeons-and-treasure-vr.json](./55377-dungeons-and-treasure-vr.json) |
+| Dungeons & Vampires | 76399 | [76399-dungeons-and-vampires.json](./76399-dungeons-and-vampires.json) |
 | Dungeons & Warbands | 390685 | [390685-dungeons-and-warbands.json](./390685-dungeons-and-warbands.json) |
 | Dungeons & Zombies | 125215 | [125215-dungeons-and-zombies.json](./125215-dungeons-and-zombies.json) |
 | Dungeons 2 | 9767 | [9767-dungeons-2.json](./9767-dungeons-2.json) |
