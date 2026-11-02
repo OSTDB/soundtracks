@@ -3419,6 +3419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Road | 55719 | [55719-adventure-road.json](./55719-adventure-road.json) |
 | Adventure Roll | 186101 | [186101-adventure-roll.json](./186101-adventure-roll.json) |
 | Adventure Rush | 192674 | [192674-adventure-rush.json](./192674-adventure-rush.json) |
+| Adventure Seekers: Lost to Sea | 416495 | [416495-adventure-seekers-lost-to-sea.json](./416495-adventure-seekers-lost-to-sea.json) |
 | Adventure Series | 80367 | [80367-adventure-series.json](./80367-adventure-series.json) |
 | Adventure Sketchers: Draw, Play, Create | 230338 | [230338-adventure-sketchers-draw-play-create.json](./230338-adventure-sketchers-draw-play-create.json) |
 | Adventure Slime | 122073 | [122073-adventure-slime.json](./122073-adventure-slime.json) |
@@ -4005,6 +4006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Doom | 300354 | [300354-after-doom.json](./300354-after-doom.json) |
 | After Egypt | 206635 | [206635-after-egypt.json](./206635-after-egypt.json) |
 | After End | 409348 | [409348-after-end.json](./409348-after-end.json) |
+| After Eternity | 415810 | [415810-after-eternity.json](./415810-after-eternity.json) |
 | After Exposure | 341131 | [341131-after-exposure.json](./341131-after-exposure.json) |
 | After Friday | 339803 | [339803-after-friday.json](./339803-after-friday.json) |
 | After Fright | 279068 | [279068-after-fright.json](./279068-after-fright.json) |
@@ -9830,6 +9832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anlife: Motion-Learning Life Evolution | 264202 | [264202-anlife-motion-learning-life-evolution.json](./264202-anlife-motion-learning-life-evolution.json) |
 | Anmynor Puzzles | 17040 | [17040-anmynor-puzzles.json](./17040-anmynor-puzzles.json) |
 | Ann | 165483 | [165483-ann.json](./165483-ann.json) |
+| Ann's Parlor | 415803 | [415803-anns-parlor.json](./415803-anns-parlor.json) |
 | Anna | 388893 | [388893-anna.json](./388893-anna.json) |
 | Anna & die Liebe | 269557 | [269557-anna-and-die-liebe.json](./269557-anna-and-die-liebe.json) |
 | Anna Apocalypse | 330372 | [330372-anna-apocalypse.json](./330372-anna-apocalypse.json) |
@@ -11523,6 +11526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Rack'em Up | 406053 | [406053-arcade-archives-2-rackem-up.json](./406053-arcade-archives-2-rackem-up.json) |
 | Arcade Archives 2: Ridge Racer | 338097 | [338097-arcade-archives-2-ridge-racer.json](./338097-arcade-archives-2-ridge-racer.json) |
 | Arcade Archives 2: Roc'n Rope | 381796 | [381796-arcade-archives-2-rocn-rope.json](./381796-arcade-archives-2-rocn-rope.json) |
+| Arcade Archives 2: Satan of Saturn | 415720 | [415720-arcade-archives-2-satan-of-saturn.json](./415720-arcade-archives-2-satan-of-saturn.json) |
 | Arcade Archives 2: Scrambled Egg | 364071 | [364071-arcade-archives-2-scrambled-egg.json](./364071-arcade-archives-2-scrambled-egg.json) |
 | Arcade Archives 2: Space Cyclone | 407268 | [407268-arcade-archives-2-space-cyclone.json](./407268-arcade-archives-2-space-cyclone.json) |
 | Arcade Archives 2: Space Invaders Part II | 385155 | [385155-arcade-archives-2-space-invaders-part-ii.json](./385155-arcade-archives-2-space-invaders-part-ii.json) |
@@ -12736,6 +12740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argos | 12256 | [12256-argos.json](./12256-argos.json) |
 | Argos: Riders on the Storm | 224509 | [224509-argos-riders-on-the-storm.json](./224509-argos-riders-on-the-storm.json) |
 | Argosy | 408092 | [408092-argosy.json](./408092-argosy.json) |
+| Argot's Laboratory | 415328 | [415328-argots-laboratory.json](./415328-argots-laboratory.json) |
 | Argousze | 178853 | [178853-argousze.json](./178853-argousze.json) |
 | Arguice no Tsubasa | 381406 | [381406-arguice-no-tsubasa.json](./381406-arguice-no-tsubasa.json) |
 | Argument Wars | 207833 | [207833-argument-wars.json](./207833-argument-wars.json) |
@@ -13346,6 +13351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army War: Shooting Simulator | 235198 | [235198-army-war-shooting-simulator.json](./235198-army-war-shooting-simulator.json) |
 | Army Wars Tactics | 200158 | [200158-army-wars-tactics.json](./200158-army-wars-tactics.json) |
 | ArmyCraft | 52612 | [52612-armycraft.json](./52612-armycraft.json) |
+| ArMystic | 415800 | [415800-armystic.json](./415800-armystic.json) |
 | ArmZ | 114075 | [114075-armz.json](./114075-armz.json) |
 | Arn's Winter Quest | 171850 | [171850-arns-winter-quest.json](./171850-arns-winter-quest.json) |
 | Arnaud Thion's Dragons | 185115 | [185115-arnaud-thions-dragons.json](./185115-arnaud-thions-dragons.json) |
@@ -14867,6 +14873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Blaze | 368593 | [368593-astral-blaze.json](./368593-astral-blaze.json) |
 | Astral Blitz | 321280 | [321280-astral-blitz.json](./321280-astral-blitz.json) |
 | Astral Blitz | 390093 | [390093-astral-blitz.json](./390093-astral-blitz.json) |
+| Astral Bounty | 415830 | [415830-astral-bounty.json](./415830-astral-bounty.json) |
 | Astral Breakers | 19953 | [19953-astral-breakers.json](./19953-astral-breakers.json) |
 | Astral Chain | 115283 | [115283-astral-chain.json](./115283-astral-chain.json) |
 | Astral Chain: Collector's Edition | 136273 | [136273-astral-chain-collectors-edition.json](./136273-astral-chain-collectors-edition.json) |
@@ -15992,6 +15999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attention Deficit: A story about ADHD | 364007 | [364007-attention-deficit-a-story-about-adhd.json](./364007-attention-deficit-a-story-about-adhd.json) |
 | Attention, Dear Passengers | 421563 | [421563-attention-dear-passengers.json](./421563-attention-dear-passengers.json) |
 | Attenzione Pickpocket! | 369342 | [369342-attenzione-pickpocket.json](./369342-attenzione-pickpocket.json) |
+| Attero | 415216 | [415216-attero.json](./415216-attero.json) |
 | Attic | 157148 | [157148-attic.json](./157148-attic.json) |
 | Attic | 229743 | [229743-attic.json](./229743-attic.json) |
 | Attic Antiquities | 413162 | [413162-attic-antiquities.json](./413162-attic-antiquities.json) |
