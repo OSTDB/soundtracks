@@ -9729,6 +9729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Five | 305970 | [305970-roll-five.json](./305970-roll-five.json) |
 | Roll For Confidence | 171091 | [171091-roll-for-confidence.json](./171091-roll-for-confidence.json) |
 | Roll For Initiative | 193644 | [193644-roll-for-initiative.json](./193644-roll-for-initiative.json) |
+| Roll for Order: Sort Every Set! | 420315 | [420315-roll-for-order-sort-every-set.json](./420315-roll-for-order-sort-every-set.json) |
 | Roll for the Galaxy | 138508 | [138508-roll-for-the-galaxy.json](./138508-roll-for-the-galaxy.json) |
 | Roll in the Hole | 64670 | [64670-roll-in-the-hole.json](./64670-roll-in-the-hole.json) |
 | Roll It to the End | 244718 | [244718-roll-it-to-the-end.json](./244718-roll-it-to-the-end.json) |
@@ -10514,6 +10515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosebaker's Icy Treats | 55495 | [55495-rosebakers-icy-treats.json](./55495-rosebakers-icy-treats.json) |
 | Roseblight | 138554 | [138554-roseblight.json](./138554-roseblight.json) |
 | Roseline | 276831 | [276831-roseline.json](./276831-roseline.json) |
+| Roselle Hunt | 420337 | [420337-roselle-hunt.json](./420337-roselle-hunt.json) |
 | Rosemary | 310151 | [310151-rosemary.json](./310151-rosemary.json) |
 | Rosemary | 91829 | [91829-rosemary.json](./91829-rosemary.json) |
 | Rosemary Village | 347050 | [347050-rosemary-village.json](./347050-rosemary-village.json) |
