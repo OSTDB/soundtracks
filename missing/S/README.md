@@ -3358,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Squadrons | 393459 | [393459-scrap-squadrons.json](./393459-scrap-squadrons.json) |
 | Scrap Story | 113595 | [113595-scrap-story.json](./113595-scrap-story.json) |
 | Scrap Wars: Td | 348797 | [348797-scrap-wars-td.json](./348797-scrap-wars-td.json) |
+| Scrap Yard Idle | 406496 | [406496-scrap-yard-idle.json](./406496-scrap-yard-idle.json) |
 | Scrapbook Memories | 302605 | [302605-scrapbook-memories.json](./302605-scrapbook-memories.json) |
 | Scrapbooking Story | 399679 | [399679-scrapbooking-story.json](./399679-scrapbooking-story.json) |
 | Scrapbox | 371878 | [371878-scrapbox.json](./371878-scrapbox.json) |
@@ -12931,6 +12932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimes & Dusters TO | 273800 | [273800-slimes-and-dusters-to.json](./273800-slimes-and-dusters-to.json) |
 | Slimes RPG | 110782 | [110782-slimes-rpg.json](./110782-slimes-rpg.json) |
 | Slimes: Cannon Combat | 250841 | [250841-slimes-cannon-combat.json](./250841-slimes-cannon-combat.json) |
+| Slimes! | 406485 | [406485-slimes.json](./406485-slimes.json) |
 | SlimeSlider | 188453 | [188453-slimeslider.json](./188453-slimeslider.json) |
 | Slimesphere | 136632 | [136632-slimesphere.json](./136632-slimesphere.json) |
 | SlimeTrials | 185607 | [185607-slimetrials.json](./185607-slimetrials.json) |
@@ -21683,6 +21685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spryward | 202744 | [202744-spryward.json](./202744-spryward.json) |
 | Spud Cricket VR | 29698 | [29698-spud-cricket-vr.json](./29698-spud-cricket-vr.json) |
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
+| Spud Keeper | 406489 | [406489-spud-keeper.json](./406489-spud-keeper.json) |
 | Spud! | 35649 | [35649-spud.json](./35649-spud.json) |
 | Spud's Quest | 17687 | [17687-spuds-quest.json](./17687-spuds-quest.json) |
 | Spuds | 54421 | [54421-spuds.json](./54421-spuds.json) |
@@ -25684,6 +25687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stories: The Path of Destinies | 12815 | [12815-stories-the-path-of-destinies.json](./12815-stories-the-path-of-destinies.json) |
 | Stories: The Path of Destinies - Collector's Edition | 53674 | [53674-stories-the-path-of-destinies-collectors-edition.json](./53674-stories-the-path-of-destinies-collectors-edition.json) |
 | Stories: The Path of Destinies & Omensight Bundle | 225949 | [225949-stories-the-path-of-destinies-and-omensight-bundle.json](./225949-stories-the-path-of-destinies-and-omensight-bundle.json) |
+| Storks and Apes and Crocodiles | 406447 | [406447-storks-and-apes-and-crocodiles.json](./406447-storks-and-apes-and-crocodiles.json) |
 | Storm | 28573 | [28573-storm.json](./28573-storm.json) |
 | Storm | 45275 | [45275-storm.json](./45275-storm.json) |
 | Storm & Calm | 159497 | [159497-storm-and-calm.json](./159497-storm-and-calm.json) |
