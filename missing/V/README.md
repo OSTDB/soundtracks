@@ -2593,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Skate | 349108 | [349108-virtual-skate.json](./349108-virtual-skate.json) |
 | Virtual Skate: Winter Update | 380593 | [380593-virtual-skate-winter-update.json](./380593-virtual-skate-winter-update.json) |
 | Virtual Skydiving | 116866 | [116866-virtual-skydiving.json](./116866-virtual-skydiving.json) |
+| Virtual SlotCars | 40501 | [40501-virtual-slotcars.json](./40501-virtual-slotcars.json) |
 | Virtual Sniper | 387484 | [387484-virtual-sniper.json](./387484-virtual-sniper.json) |
 | Virtual Snooker | 70168 | [70168-virtual-snooker.json](./70168-virtual-snooker.json) |
 | Virtual Soccer | 46005 | [46005-virtual-soccer.json](./46005-virtual-soccer.json) |
@@ -3721,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Skirmish on Solar System Planets: Shooting Battle | 154898 | [154898-vr-skirmish-on-solar-system-planets-shooting-battle.json](./154898-vr-skirmish-on-solar-system-planets-shooting-battle.json) |
 | VR Sky Walk | 189114 | [189114-vr-sky-walk.json](./189114-vr-sky-walk.json) |
 | VR Slots 3D | 368240 | [368240-vr-slots-3d.json](./368240-vr-slots-3d.json) |
+| VR Slugger | 40529 | [40529-vr-slugger.json](./40529-vr-slugger.json) |
 | VR Smash Park | 111716 | [111716-vr-smash-park.json](./111716-vr-smash-park.json) |
 | VR Sniper Hunt | 288472 | [288472-vr-sniper-hunt.json](./288472-vr-sniper-hunt.json) |
 | VR Snowballs | 29957 | [29957-vr-snowballs.json](./29957-vr-snowballs.json) |
@@ -3746,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Tennis Online | 53016 | [53016-vr-tennis-online.json](./53016-vr-tennis-online.json) |
 | VR the Anime Girls Method | 91065 | [91065-vr-the-anime-girls-method.json](./91065-vr-the-anime-girls-method.json) |
 | VR The Diner Duo | 25118 | [25118-vr-the-diner-duo.json](./25118-vr-the-diner-duo.json) |
+| VR Theme Park Rides | 40860 | [40860-vr-theme-park-rides.json](./40860-vr-theme-park-rides.json) |
 | VR Thrills | 257804 | [257804-vr-thrills.json](./257804-vr-thrills.json) |
 | VR Time Machine Dinosaur Park (+ Cardboard) | 95785 | [95785-vr-time-machine-dinosaur-park-cardboard.json](./95785-vr-time-machine-dinosaur-park-cardboard.json) |
 | VR Time Machine Travelling in History: Visit ancient Egypt, Babylon and Greece in B.C. 400 | 150648 | [150648-vr-time-machine-travelling-in-history-visit-ancient-egypt-babylon-and-greece-in-b-c-400.json](./150648-vr-time-machine-travelling-in-history-visit-ancient-egypt-babylon-and-greece-in-b-c-400.json) |
