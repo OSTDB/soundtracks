@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
 | Radiophobia 3 | 375917 | [375917-radiophobia-3.json](./375917-radiophobia-3.json) |
 | Radioquacktive | 291831 | [291831-radioquacktive.json](./291831-radioquacktive.json) |
+| Radiorizon | 412724 | [412724-radiorizon.json](./412724-radiorizon.json) |
 | Radiosol | 298421 | [298421-radiosol.json](./298421-radiosol.json) |
 | Radiotelegraphist | 188940 | [188940-radiotelegraphist.json](./188940-radiotelegraphist.json) |
 | RadioWave | 301273 | [301273-radiowave.json](./301273-radiowave.json) |
@@ -2535,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:D Cherish! SS: Rouge's One Operation | 370697 | [370697-re-d-cherish-ss-rouges-one-operation.json](./370697-re-d-cherish-ss-rouges-one-operation.json) |
 | Re:D Cherish!: Eternity Blood | 370695 | [370695-re-d-cherish-eternity-blood.json](./370695-re-d-cherish-eternity-blood.json) |
 | Re:Destiny | 169091 | [169091-re-destiny.json](./169091-re-destiny.json) |
+| Re:Dream | 412756 | [412756-re-dream.json](./412756-re-dream.json) |
 | Re:Dreamer | 213911 | [213911-re-dreamer.json](./213911-re-dreamer.json) |
 | Re:Flex | 340709 | [340709-re-flex.json](./340709-re-flex.json) |
 | re:fleXion | 179021 | [179021-re-flexion.json](./179021-re-flexion.json) |
@@ -2677,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready or Not: Boiling Point | 394376 | [394376-ready-or-not-boiling-point.json](./394376-ready-or-not-boiling-point.json) |
 | Ready or Not: Dark Waters | 324580 | [324580-ready-or-not-dark-waters.json](./324580-ready-or-not-dark-waters.json) |
 | Ready or Not: VRO Mod | 360775 | [360775-ready-or-not-vro-mod.json](./360775-ready-or-not-vro-mod.json) |
+| Ready or Nowhere | 413370 | [413370-ready-or-nowhere.json](./413370-ready-or-nowhere.json) |
 | Ready Player Fuck | 97689 | [97689-ready-player-fuck.json](./97689-ready-player-fuck.json) |
 | Ready Player One: Oasis | 99013 | [99013-ready-player-one-oasis.json](./99013-ready-player-one-oasis.json) |
 | Ready Player One: Rise of the Gunters | 90148 | [90148-ready-player-one-rise-of-the-gunters.json](./90148-ready-player-one-rise-of-the-gunters.json) |
