@@ -994,8 +994,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Pops & Popsicles | 102607 | [102607-ice-pops-and-popsicles.json](./102607-ice-pops-and-popsicles.json) |
 | Ice Power | 246541 | [246541-ice-power.json](./246541-ice-power.json) |
 | Ice Princess Crystals | 353998 | [353998-ice-princess-crystals.json](./353998-ice-princess-crystals.json) |
+| Ice Princess Mermaid Salon: Girls Makeover Games | 88950 | [88950-ice-princess-mermaid-salon-girls-makeover-games.json](./88950-ice-princess-mermaid-salon-girls-makeover-games.json) |
 | Ice Princess Mermaid: Girl Makeup & Dress Up Games | 100320 | [100320-ice-princess-mermaid-girl-makeup-and-dress-up-games.json](./100320-ice-princess-mermaid-girl-makeup-and-dress-up-games.json) |
 | Ice Queen Prom Salon: Princess Makeover Girls Game | 91117 | [91117-ice-queen-prom-salon-princess-makeover-girls-game.json](./91117-ice-queen-prom-salon-princess-makeover-girls-game.json) |
+| Ice Queen Salon - Girls Makeup and Dressup Game | 87493 | [87493-ice-queen-salon-girls-makeup-and-dressup-game.json](./87493-ice-queen-salon-girls-makeup-and-dressup-game.json) |
 | Ice Queen Wedding Salon: Frost Bridal Game | 86832 | [86832-ice-queen-wedding-salon-frost-bridal-game.json](./86832-ice-queen-wedding-salon-frost-bridal-game.json) |
 | Ice Rage | 56929 | [56929-ice-rage.json](./56929-ice-rage.json) |
 | Ice Reverse | 240158 | [240158-ice-reverse.json](./240158-ice-reverse.json) |
