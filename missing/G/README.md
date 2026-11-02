@@ -4545,6 +4545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gleam of Fire | 105817 | [105817-gleam-of-fire.json](./105817-gleam-of-fire.json) |
 | Gleamlight | 127304 | [127304-gleamlight.json](./127304-gleamlight.json) |
 | Glean | 387924 | [387924-glean.json](./387924-glean.json) |
+| Gleaner Heights | 86328 | [86328-gleaner-heights.json](./86328-gleaner-heights.json) |
 | Gleaner Heights: Season 2 | 196082 | [196082-gleaner-heights-season-2.json](./196082-gleaner-heights-season-2.json) |
 | Glee. | 92687 | [92687-glee.json](./92687-glee.json) |
 | Gleeb Glob | 221613 | [221613-gleeb-glob.json](./221613-gleeb-glob.json) |
@@ -5307,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator: Nightmare Edition | 207116 | [207116-goat-simulator-nightmare-edition.json](./207116-goat-simulator-nightmare-edition.json) |
 | Goat Simulator: Remastered | 314250 | [314250-goat-simulator-remastered.json](./314250-goat-simulator-remastered.json) |
 | Goat Simulator: The Bundle | 141764 | [141764-goat-simulator-the-bundle.json](./141764-goat-simulator-the-bundle.json) |
+| Goat Simulator: The Goaty | 83740 | [83740-goat-simulator-the-goaty.json](./83740-goat-simulator-the-goaty.json) |
 | Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
 | Goat Stand and Turtle Guy | 360626 | [360626-goat-stand-and-turtle-guy.json](./360626-goat-stand-and-turtle-guy.json) |
 | Goat Survivor | 367025 | [367025-goat-survivor.json](./367025-goat-survivor.json) |
@@ -9702,6 +9704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guillotine Earrings | 183193 | [183193-guillotine-earrings.json](./183193-guillotine-earrings.json) |
 | Guilt | 341099 | [341099-guilt.json](./341099-guilt.json) |
 | Guilt | 345521 | [345521-guilt.json](./345521-guilt.json) |
+| Guilt Battle Arena | 86376 | [86376-guilt-battle-arena.json](./86376-guilt-battle-arena.json) |
 | Guilt Free | 150445 | [150445-guilt-free.json](./150445-guilt-free.json) |
 | Guilt: The Deathless | 118073 | [118073-guilt-the-deathless.json](./118073-guilt-the-deathless.json) |
 | Guilty | 215389 | [215389-guilty.json](./215389-guilty.json) |
