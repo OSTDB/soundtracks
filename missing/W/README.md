@@ -2984,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed Shop 2 | 28907 | [28907-weed-shop-2.json](./28907-weed-shop-2.json) |
 | Weed Shop 4: Highland | 309645 | [309645-weed-shop-4-highland.json](./309645-weed-shop-4-highland.json) |
 | Weed Shop Simulator | 344284 | [344284-weed-shop-simulator.json](./344284-weed-shop-simulator.json) |
+| Weed Store Simulator | 404032 | [404032-weed-store-simulator.json](./404032-weed-store-simulator.json) |
 | Weed Supermarket Simulator | 383739 | [383739-weed-supermarket-simulator.json](./383739-weed-supermarket-simulator.json) |
 | Weed Syndicate Empire | 347066 | [347066-weed-syndicate-empire.json](./347066-weed-syndicate-empire.json) |
 | Weedcraft Inc | 110486 | [110486-weedcraft-inc.json](./110486-weedcraft-inc.json) |
@@ -6197,6 +6198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With the Last Moonbeam | 247121 | [247121-with-the-last-moonbeam.json](./247121-with-the-last-moonbeam.json) |
 | With Those We Love Alive | 60718 | [60718-with-those-we-love-alive.json](./60718-with-those-we-love-alive.json) |
 | With You | 188710 | [188710-with-you.json](./188710-with-you.json) |
+| With You Forgotten from My Memory | 404043 | [404043-with-you-forgotten-from-my-memory.json](./404043-with-you-forgotten-from-my-memory.json) |
 | With You: Mitsumete Itai | 37347 | [37347-with-you-mitsumete-itai.json](./37347-with-you-mitsumete-itai.json) |
 | With Your Destiny | 90317 | [90317-with-your-destiny.json](./90317-with-your-destiny.json) |
 | With Your Mom's Tits | 181487 | [181487-with-your-moms-tits.json](./181487-with-your-moms-tits.json) |
