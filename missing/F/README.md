@@ -9511,6 +9511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formation Soccer: Human Cup '90 | 42046 | [42046-formation-soccer-human-cup-90.json](./42046-formation-soccer-human-cup-90.json) |
 | Formation Z | 346072 | [346072-formation-z.json](./346072-formation-z.json) |
 | Formation Z | 37190 | [37190-formation-z.json](./37190-formation-z.json) |
+| Formel 1 | 402038 | [402038-formel-1.json](./402038-formel-1.json) |
 | Former Dawn | 322514 | [322514-former-dawn.json](./322514-former-dawn.json) |
 | Former Dawn | 322515 | [322515-former-dawn.json](./322515-former-dawn.json) |
 | Former Future | 128452 | [128452-former-future.json](./128452-former-future.json) |
@@ -12904,6 +12905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Milfs | 248815 | [248815-furry-milfs.json](./248815-furry-milfs.json) |
 | Furry Necromancer | 270046 | [270046-furry-necromancer.json](./270046-furry-necromancer.json) |
 | Furry Nights | 201585 | [201585-furry-nights.json](./201585-furry-nights.json) |
+| Furry No Revolution | 402070 | [402070-furry-no-revolution.json](./402070-furry-no-revolution.json) |
 | Furry Orgasm | 208830 | [208830-furry-orgasm.json](./208830-furry-orgasm.json) |
 | Furry OwO | 236936 | [236936-furry-owo.json](./236936-furry-owo.json) |
 | Furry Pet Dog Yiff Hentai | 209022 | [209022-furry-pet-dog-yiff-hentai.json](./209022-furry-pet-dog-yiff-hentai.json) |
