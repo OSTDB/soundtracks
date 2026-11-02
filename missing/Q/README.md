@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qbasic Gorillas | 11690 | [11690-qbasic-gorillas.json](./11690-qbasic-gorillas.json) |
 | QBeez 2 | 304318 | [304318-qbeez-2.json](./304318-qbeez-2.json) |
 | Qbeh-1: The Atlas Cube | 10746 | [10746-qbeh-1-the-atlas-cube.json](./10746-qbeh-1-the-atlas-cube.json) |
+| Qbics Paint | 36755 | [36755-qbics-paint.json](./36755-qbics-paint.json) |
 | Qbike | 28869 | [28869-qbike.json](./28869-qbike.json) |
 | Qbike: Crypto Motorcycles | 68760 | [68760-qbike-crypto-motorcycles.json](./68760-qbike-crypto-motorcycles.json) |
 | Qbike: Cyberpunk Motorcycles | 112043 | [112043-qbike-cyberpunk-motorcycles.json](./112043-qbike-cyberpunk-motorcycles.json) |
@@ -900,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questprobe featuring Human Torch and the Thing | 24385 | [24385-questprobe-featuring-human-torch-and-the-thing.json](./24385-questprobe-featuring-human-torch-and-the-thing.json) |
 | Questprobe featuring Spider-Man | 24384 | [24384-questprobe-featuring-spider-man.json](./24384-questprobe-featuring-spider-man.json) |
 | Questprobe featuring The Hulk | 12934 | [12934-questprobe-featuring-the-hulk.json](./12934-questprobe-featuring-the-hulk.json) |
+| Questr | 55458 | [55458-questr.json](./55458-questr.json) |
 | Questria: Rise of the Robot Skullfaces | 35147 | [35147-questria-rise-of-the-robot-skullfaces.json](./35147-questria-rise-of-the-robot-skullfaces.json) |
 | Questris | 413871 | [413871-questris.json](./413871-questris.json) |
 | Questron | 24650 | [24650-questron.json](./24650-questron.json) |
