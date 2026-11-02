@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yatagarasu | 80617 | [80617-yatagarasu.json](./80617-yatagarasu.json) |
 | Yatagarasu Enter the Eastward | 282127 | [282127-yatagarasu-enter-the-eastward.json](./282127-yatagarasu-enter-the-eastward.json) |
 | Yatagarasu: Attack on Cataclysm | 17763 | [17763-yatagarasu-attack-on-cataclysm.json](./17763-yatagarasu-attack-on-cataclysm.json) |
+| Yatai 8 | 414075 | [414075-yatai-8.json](./414075-yatai-8.json) |
 | YATB: You Are the Best - Egypt Chapter | 143943 | [143943-yatb-you-are-the-best-egypt-chapter.json](./143943-yatb-you-are-the-best-egypt-chapter.json) |
 | YATC | 62029 | [62029-yatc.json](./62029-yatc.json) |
 | Yaten's Horror Session | 284230 | [284230-yatens-horror-session.json](./284230-yatens-horror-session.json) |
@@ -1049,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Did It Faster Before | 177186 | [177186-you-did-it-faster-before.json](./177186-you-did-it-faster-before.json) |
 | You Die Today | 332378 | [332378-you-die-today.json](./332378-you-die-today.json) |
 | You Died but a Necromancer Revived You | 116041 | [116041-you-died-but-a-necromancer-revived-you.json](./116041-you-died-but-a-necromancer-revived-you.json) |
+| You Dig | 414026 | [414026-you-dig.json](./414026-you-dig.json) |
 | You Do Jump | 202012 | [202012-you-do-jump.json](./202012-you-do-jump.json) |
 | You Do Voodoo | 294751 | [294751-you-do-voodoo.json](./294751-you-do-voodoo.json) |
 | You Doesn't Exist | 65826 | [65826-you-doesnt-exist.json](./65826-you-doesnt-exist.json) |
