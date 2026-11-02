@@ -7284,6 +7284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Chop Runner | 91060 | [91060-chop-chop-runner.json](./91060-chop-chop-runner.json) |
 | Chop Chop Soccer | 212421 | [212421-chop-chop-soccer.json](./212421-chop-chop-soccer.json) |
 | Chop Chop Together | 392147 | [392147-chop-chop-together.json](./392147-chop-chop-together.json) |
+| Chop It | 100925 | [100925-chop-it.json](./100925-chop-it.json) |
 | Chop Signal | 389455 | [389455-chop-signal.json](./389455-chop-signal.json) |
 | Chop Suey | 234212 | [234212-chop-suey.json](./234212-chop-suey.json) |
 | Chop Suey | 47297 | [47297-chop-suey.json](./47297-chop-suey.json) |
@@ -11151,6 +11152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Hero | 116358 | [116358-color-hero.json](./116358-color-hero.json) |
 | Color Hockey | 105510 | [105510-color-hockey.json](./105510-color-hockey.json) |
 | Color Hunt: Number Jigsaw Puzzle | 289810 | [289810-color-hunt-number-jigsaw-puzzle.json](./289810-color-hunt-number-jigsaw-puzzle.json) |
+| Color Infinity | 101023 | [101023-color-infinity.json](./101023-color-infinity.json) |
 | Color Invader VR | 236874 | [236874-color-invader-vr.json](./236874-color-invader-vr.json) |
 | Color Island: Pixel Art | 280221 | [280221-color-island-pixel-art.json](./280221-color-island-pixel-art.json) |
 | Color Knight | 112792 | [112792-color-knight.json](./112792-color-knight.json) |
@@ -12549,6 +12551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect | 166640 | [166640-connect.json](./166640-connect.json) |
 | Connect | 314051 | [314051-connect.json](./314051-connect.json) |
 | Connect | 350064 | [350064-connect.json](./350064-connect.json) |
+| Connect - colorful casual game | 101120 | [101120-connect-colorful-casual-game.json](./101120-connect-colorful-casual-game.json) |
 | connect - Virtual Home | 84140 | [84140-connect-virtual-home.json](./84140-connect-virtual-home.json) |
 | Connect 4 | 79945 | [79945-connect-4.json](./79945-connect-4.json) |
 | Connect 4 Deluxe | 205623 | [205623-connect-4-deluxe.json](./205623-connect-4-deluxe.json) |
