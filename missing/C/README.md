@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canada Break | 208582 | [208582-canada-break.json](./208582-canada-break.json) |
 | Canada Break: Head to Head | 209618 | [209618-canada-break-head-to-head.json](./209618-canada-break-head-to-head.json) |
 | Canada Clash | 418736 | [418736-canada-clash.json](./418736-canada-clash.json) |
+| Canadian Football 2017 | 41947 | [41947-canadian-football-2017.json](./41947-canadian-football-2017.json) |
 | Canadian Higurashi | 254361 | [254361-canadian-higurashi.json](./254361-canadian-higurashi.json) |
 | Canadian Robot Racing League | 127175 | [127175-canadian-robot-racing-league.json](./127175-canadian-robot-racing-league.json) |
 | Canal Control | 243702 | [243702-canal-control.json](./243702-canal-control.json) |
@@ -3966,6 +3967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catan | 248839 | [248839-catan.json](./248839-catan.json) |
 | Catan Classic HD | 87342 | [87342-catan-classic-hd.json](./87342-catan-classic-hd.json) |
 | Catan Universe | 28278 | [28278-catan-universe.json](./28278-catan-universe.json) |
+| Catan VR | 56868 | [56868-catan-vr.json](./56868-catan-vr.json) |
 | Catan: Cities & Knights | 238213 | [238213-catan-cities-and-knights.json](./238213-catan-cities-and-knights.json) |
 | Catan: Console Edition | 220832 | [220832-catan-console-edition.json](./220832-catan-console-edition.json) |
 | Catan: Console Edition - Championship Maps | 275050 | [275050-catan-console-edition-championship-maps.json](./275050-catan-console-edition-championship-maps.json) |
@@ -6207,6 +6209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess | 25126 | [25126-chess.json](./25126-chess.json) |
 | Chess | 277419 | [277419-chess.json](./277419-chess.json) |
 | Chess | 302809 | [302809-chess.json](./302809-chess.json) |
+| Chess | 56599 | [56599-chess.json](./56599-chess.json) |
 | Chess | 9165 | [9165-chess.json](./9165-chess.json) |
 | Chess - tactics and strategy | 91100 | [91100-chess-tactics-and-strategy.json](./91100-chess-tactics-and-strategy.json) |
 | Chess - tChess Lite | 96446 | [96446-chess-tchess-lite.json](./96446-chess-tchess-lite.json) |
@@ -8314,6 +8317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circular Defense | 284964 | [284964-circular-defense.json](./284964-circular-defense.json) |
 | Circular Fever | 284972 | [284972-circular-fever.json](./284972-circular-fever.json) |
 | Circular Logic Games | 264702 | [264702-circular-logic-games.json](./264702-circular-logic-games.json) |
+| Circularity | 56423 | [56423-circularity.json](./56423-circularity.json) |
 | Circulate | 52508 | [52508-circulate.json](./52508-circulate.json) |
 | Circulation | 295083 | [295083-circulation.json](./295083-circulation.json) |
 | Circulets | 39184 | [39184-circulets.json](./39184-circulets.json) |
@@ -9832,6 +9836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close to: Inori no Oka | 196027 | [196027-close-to-inori-no-oka.json](./196027-close-to-inori-no-oka.json) |
 | Close Up Pics - Fun Word Games | 87035 | [87035-close-up-pics-fun-word-games.json](./87035-close-up-pics-fun-word-games.json) |
 | Close Your Eyes | 133323 | [133323-close-your-eyes.json](./133323-close-your-eyes.json) |
+| Close Your Eyes -Anniversary Remake- | 56654 | [56654-close-your-eyes-anniversary-remake.json](./56654-close-your-eyes-anniversary-remake.json) |
 | Close Your Eyes: The Twisted Puzzle | 163551 | [163551-close-your-eyes-the-twisted-puzzle.json](./163551-close-your-eyes-the-twisted-puzzle.json) |
 | CloseCall | 155991 | [155991-closecall.json](./155991-closecall.json) |
 | Closed Circuit | 254175 | [254175-closed-circuit.json](./254175-closed-circuit.json) |
@@ -11875,6 +11880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cometh Battle | 212568 | [212568-cometh-battle.json](./212568-cometh-battle.json) |
 | Comets Wake | 76918 | [76918-comets-wake.json](./76918-comets-wake.json) |
 | CometSoldier | 256107 | [256107-cometsoldier.json](./256107-cometsoldier.json) |
+| CometStriker | 55766 | [55766-cometstriker.json](./55766-cometstriker.json) |
 | Comfort | 134414 | [134414-comfort.json](./134414-comfort.json) |
 | Comfort | 195880 | [195880-comfort.json](./195880-comfort.json) |
 | Comfort Zone | 266724 | [266724-comfort-zone.json](./266724-comfort-zone.json) |
@@ -14163,6 +14169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmology of Kyoto | 46577 | [46577-cosmology-of-kyoto.json](./46577-cosmology-of-kyoto.json) |
 | Cosmonade | 373299 | [373299-cosmonade.json](./373299-cosmonade.json) |
 | Cosmonarchy | 304974 | [304974-cosmonarchy.json](./304974-cosmonarchy.json) |
+| Cosmonator | 56285 | [56285-cosmonator.json](./56285-cosmonator.json) |
 | Cosmonaut | 135460 | [135460-cosmonaut.json](./135460-cosmonaut.json) |
 | Cosmonaut | 228342 | [228342-cosmonaut.json](./228342-cosmonaut.json) |
 | Cosmonaut | 81103 | [81103-cosmonaut.json](./81103-cosmonaut.json) |
@@ -14774,6 +14781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CPRC: Extant Hunters | 103229 | [103229-cprc-extant-hunters.json](./103229-cprc-extant-hunters.json) |
 | Cpt. Balloney: Painful days at home | 153502 | [153502-cpt-balloney-painful-days-at-home.json](./153502-cpt-balloney-painful-days-at-home.json) |
 | CPU Architecture Sim | 116930 | [116930-cpu-architecture-sim.json](./116930-cpu-architecture-sim.json) |
+| CPU Invaders | 56553 | [56553-cpu-invaders.json](./56553-cpu-invaders.json) |
 | CPU Invaders: 3i Atlas | 402234 | [402234-cpu-invaders-3i-atlas.json](./402234-cpu-invaders-3i-atlas.json) |
 | CPU Invaders: Aim Hero | 413665 | [413665-cpu-invaders-aim-hero.json](./413665-cpu-invaders-aim-hero.json) |
 | CPU Invaders: Cyber Arcade | 413136 | [413136-cpu-invaders-cyber-arcade.json](./413136-cpu-invaders-cyber-arcade.json) |
@@ -17312,6 +17320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptoman | 133040 | [133040-cryptoman.json](./133040-cryptoman.json) |
 | CryptoMania: Movie Quotes | 271693 | [271693-cryptomania-movie-quotes.json](./271693-cryptomania-movie-quotes.json) |
 | CryptoMines | 176139 | [176139-cryptomines.json](./176139-cryptomines.json) |
+| CryptoMoneya | 56601 | [56601-cryptomoneya.json](./56601-cryptomoneya.json) |
 | Cryptonaut | 190132 | [190132-cryptonaut.json](./190132-cryptonaut.json) |
 | CryptoPlanes | 178324 | [178324-cryptoplanes.json](./178324-cryptoplanes.json) |
 | CryptoQuiz | 108443 | [108443-cryptoquiz.json](./108443-cryptoquiz.json) |
