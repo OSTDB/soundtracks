@@ -6814,6 +6814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look_in_Dark | 304061 | [304061-look-in-dark.json](./304061-look-in-dark.json) |
 | Looking | 178031 | [178031-looking.json](./178031-looking.json) |
 | Looking Back | 120506 | [120506-looking-back.json](./120506-looking-back.json) |
+| Looking for Aliens | 186530 | [186530-looking-for-aliens.json](./186530-looking-for-aliens.json) |
 | Looking for Aliens: Collector's Edition | 247510 | [247510-looking-for-aliens-collectors-edition.json](./247510-looking-for-aliens-collectors-edition.json) |
 | Looking For Cats In a Badly Drawn City | 286758 | [286758-looking-for-cats-in-a-badly-drawn-city.json](./286758-looking-for-cats-in-a-badly-drawn-city.json) |
 | Looking For Cats In a Badly Drawn Forest | 286760 | [286760-looking-for-cats-in-a-badly-drawn-forest.json](./286760-looking-for-cats-in-a-badly-drawn-forest.json) |
@@ -8592,6 +8593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucie's Bistro | 215787 | [215787-lucies-bistro.json](./215787-lucies-bistro.json) |
 | Lucie's Potager | 199261 | [199261-lucies-potager.json](./199261-lucies-potager.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
+| Lucienne's Quest | 4300 | [4300-luciennes-quest.json](./4300-luciennes-quest.json) |
 | Lucifer Ring | 43873 | [43873-lucifer-ring.json](./43873-lucifer-ring.json) |
 | Lucifer Within Us | 119359 | [119359-lucifer-within-us.json](./119359-lucifer-within-us.json) |
 | Lucifer: Paradise Lost | 157981 | [157981-lucifer-paradise-lost.json](./157981-lucifer-paradise-lost.json) |
