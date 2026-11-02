@@ -7138,6 +7138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highrise Guardian | 248084 | [248084-highrise-guardian.json](./248084-highrise-guardian.json) |
 | Highrise Heroes | 241342 | [241342-highrise-heroes.json](./241342-highrise-heroes.json) |
 | Highrollers | 235885 | [235885-highrollers.json](./235885-highrollers.json) |
+| Highschool Girlfriend | 75756 | [75756-highschool-girlfriend.json](./75756-highschool-girlfriend.json) |
 | Highschool Romance | 22214 | [22214-highschool-romance.json](./22214-highschool-romance.json) |
 | HighSchool Simulator Battle | 297631 | [297631-highschool-simulator-battle.json](./297631-highschool-simulator-battle.json) |
 | Highschool53 | 280340 | [280340-highschool53.json](./280340-highschool53.json) |
@@ -8104,6 +8105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold Your Ground | 126909 | [126909-hold-your-ground.json](./126909-hold-your-ground.json) |
 | Hold Your Horses | 417468 | [417468-hold-your-horses.json](./417468-hold-your-horses.json) |
 | Hold your houses | 29621 | [29621-hold-your-houses.json](./29621-hold-your-houses.json) |
+| Hold Your Own | 75608 | [75608-hold-your-own.json](./75608-hold-your-own.json) |
 | Hold-Up | 240779 | [240779-hold-up.json](./240779-hold-up.json) |
 | Hold-Up | 74016 | [74016-hold-up.json](./74016-hold-up.json) |
 | Holder of Place | 344142 | [344142-holder-of-place.json](./344142-holder-of-place.json) |
@@ -11579,6 +11581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Jam | 30515 | [30515-hyper-jam.json](./30515-hyper-jam.json) |
 | Hyper Kitten | 212432 | [212432-hyper-kitten.json](./212432-hyper-kitten.json) |
 | Hyper Knights | 29410 | [29410-hyper-knights.json](./29410-hyper-knights.json) |
+| Hyper Knights: Battles | 75829 | [75829-hyper-knights-battles.json](./75829-hyper-knights-battles.json) |
 | Hyper Light Breaker | 194965 | [194965-hyper-light-breaker.json](./194965-hyper-light-breaker.json) |
 | Hyper Light Drifter: Special Edition | 107295 | [107295-hyper-light-drifter-special-edition.json](./107295-hyper-light-drifter-special-edition.json) |
 | Hyper Light Knight | 140222 | [140222-hyper-light-knight.json](./140222-hyper-light-knight.json) |
