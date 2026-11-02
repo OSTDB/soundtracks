@@ -1796,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Witch Life | 182112 | [182112-garden-witch-life.json](./182112-garden-witch-life.json) |
 | Garden Work Simulator 2026 | 396547 | [396547-garden-work-simulator-2026.json](./396547-garden-work-simulator-2026.json) |
 | Garden's Bane: DG's Quest | 208610 | [208610-gardens-bane-dgs-quest.json](./208610-gardens-bane-dgs-quest.json) |
+| Gardenarium | 33945 | [33945-gardenarium.json](./33945-gardenarium.json) |
 | Gardener | 285578 | [285578-gardener.json](./285578-gardener.json) |
 | Gardener Simulator | 390636 | [390636-gardener-simulator.json](./390636-gardener-simulator.json) |
 | Gardener the Ripper | 101291 | [101291-gardener-the-ripper.json](./101291-gardener-the-ripper.json) |
@@ -5119,6 +5120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Fkn Fast | 340316 | [340316-go-fkn-fast.json](./340316-go-fkn-fast.json) |
 | Go for a Punch! Saki Sanobashi | 264722 | [264722-go-for-a-punch-saki-sanobashi.json](./264722-go-for-a-punch-saki-sanobashi.json) |
 | Go For a Walk | 128165 | [128165-go-for-a-walk.json](./128165-go-for-a-walk.json) |
+| Go For Launch: Mercury | 32765 | [32765-go-for-launch-mercury.json](./32765-go-for-launch-mercury.json) |
 | Go Go Ackman | 15926 | [15926-go-go-ackman.json](./15926-go-go-ackman.json) |
 | Go Go Ackman | 83923 | [83923-go-go-ackman.json](./83923-go-go-ackman.json) |
 | Go Go Burunyanman Ecstasy!!! | 383005 | [383005-go-go-burunyanman-ecstasy.json](./383005-go-go-burunyanman-ecstasy.json) |
@@ -5795,6 +5797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godtail | 207755 | [207755-godtail.json](./207755-godtail.json) |
 | Godumas | 207628 | [207628-godumas.json](./207628-godumas.json) |
 | Godus | 3115 | [3115-godus.json](./3115-godus.json) |
+| Godus Wars | 33997 | [33997-godus-wars.json](./33997-godus-wars.json) |
 | Godville | 47002 | [47002-godville.json](./47002-godville.json) |
 | Godwalker | 260240 | [260240-godwalker.json](./260240-godwalker.json) |
 | Godway: Only Up Simulator | 391134 | [391134-godway-only-up-simulator.json](./391134-godway-only-up-simulator.json) |
