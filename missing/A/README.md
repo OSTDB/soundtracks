@@ -2308,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accident Liquidator | 312668 | [312668-accident-liquidator.json](./312668-accident-liquidator.json) |
 | Accident on the Simple Rd | 150460 | [150460-accident-on-the-simple-rd.json](./150460-accident-on-the-simple-rd.json) |
 | Accidental Character Generator | 135785 | [135785-accidental-character-generator.json](./135785-accidental-character-generator.json) |
+| Accidental Runner | 35449 | [35449-accidental-runner.json](./35449-accidental-runner.json) |
 | Accidentally | 379460 | [379460-accidentally.json](./379460-accidentally.json) |
 | Acción Rescate | 259663 | [259663-accion-rescate.json](./259663-accion-rescate.json) |
 | Acción Rescate: América | 259665 | [259665-accion-rescate-america.json](./259665-accion-rescate-america.json) |
@@ -10831,6 +10832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Express | 327968 | [327968-apocalypse-express.json](./327968-apocalypse-express.json) |
 | Apocalypse Factory | 237192 | [237192-apocalypse-factory.json](./237192-apocalypse-factory.json) |
 | Apocalypse Gardening | 60210 | [60210-apocalypse-gardening.json](./60210-apocalypse-gardening.json) |
+| Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! | 34217 | [34217-apocalypse-hotel-the-post-apocalyptic-hotel-simulator.json](./34217-apocalypse-hotel-the-post-apocalyptic-hotel-simulator.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - Museum of Horror! | 171089 | [171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json](./171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
 | Apocalypse Hunters | 104991 | [104991-apocalypse-hunters.json](./104991-apocalypse-hunters.json) |
@@ -13988,6 +13990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Empire | 11919 | [11919-ashes-of-empire.json](./11919-ashes-of-empire.json) |
 | Ashes of Equestria | 121722 | [121722-ashes-of-equestria.json](./121722-ashes-of-equestria.json) |
 | Ashes of Idunn: Tales of Fimbulwinter | 309427 | [309427-ashes-of-idunn-tales-of-fimbulwinter.json](./309427-ashes-of-idunn-tales-of-fimbulwinter.json) |
+| Ashes of Immortality | 35455 | [35455-ashes-of-immortality.json](./35455-ashes-of-immortality.json) |
 | Ashes of Immortality II | 35456 | [35456-ashes-of-immortality-ii.json](./35456-ashes-of-immortality-ii.json) |
 | Ashes of Immortality II: Bad Blood | 35457 | [35457-ashes-of-immortality-ii-bad-blood.json](./35457-ashes-of-immortality-ii-bad-blood.json) |
 | Ashes of Immortality Trilogy | 52607 | [52607-ashes-of-immortality-trilogy.json](./52607-ashes-of-immortality-trilogy.json) |
