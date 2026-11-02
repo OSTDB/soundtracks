@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tainá | 283614 | [283614-taina.json](./283614-taina.json) |
 | Taina's Cursed Legacy | 361686 | [361686-tainas-cursed-legacy.json](./361686-tainas-cursed-legacy.json) |
 | Tainted | 271846 | [271846-tainted.json](./271846-tainted.json) |
+| Tainted | 415211 | [415211-tainted.json](./415211-tainted.json) |
 | Tainted Grail: The Fall of Avalon | 127697 | [127697-tainted-grail-the-fall-of-avalon.json](./127697-tainted-grail-the-fall-of-avalon.json) |
 | Tainted Grail: The Fall of Avalon - Sanctuary of Sarras | 380816 | [380816-tainted-grail-the-fall-of-avalon-sanctuary-of-sarras.json](./380816-tainted-grail-the-fall-of-avalon-sanctuary-of-sarras.json) |
 | Tainted Ground | 373031 | [373031-tainted-ground.json](./373031-tainted-ground.json) |
@@ -3007,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technical Demo X2 | 296010 | [296010-technical-demo-x2.json](./296010-technical-demo-x2.json) |
 | Technical Issues | 262600 | [262600-technical-issues.json](./262600-technical-issues.json) |
 | Technically Frogs Can Fly | 326217 | [326217-technically-frogs-can-fly.json](./326217-technically-frogs-can-fly.json) |
+| Technically Heroes | 415344 | [415344-technically-heroes.json](./415344-technically-heroes.json) |
 | Technician Ted | 84242 | [84242-technician-ted.json](./84242-technician-ted.json) |
 | Technicity | 186619 | [186619-technicity.json](./186619-technicity.json) |
 | Technictix | 69252 | [69252-technictix.json](./69252-technictix.json) |
@@ -4930,6 +4932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Bastard is Trying to Steal Our Gold! | 33301 | [33301-that-bastard-is-trying-to-steal-our-gold.json](./33301-that-bastard-is-trying-to-steal-our-gold.json) |
 | That Blooming Feeling | 182510 | [182510-that-blooming-feeling.json](./182510-that-blooming-feeling.json) |
 | That Castle | 190019 | [190019-that-castle.json](./190019-that-castle.json) |
+| That Cloud Looks Like | 415827 | [415827-that-cloud-looks-like.json](./415827-that-cloud-looks-like.json) |
 | That Coin Game | 138500 | [138500-that-coin-game.json](./138500-that-coin-game.json) |
 | That Corridor in the Backrooms | 420952 | [420952-that-corridor-in-the-backrooms.json](./420952-that-corridor-in-the-backrooms.json) |
 | That Crazy World | 71006 | [71006-that-crazy-world.json](./71006-that-crazy-world.json) |
@@ -5594,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apothecary of Trubiz | 376645 | [376645-the-apothecary-of-trubiz.json](./376645-the-apothecary-of-trubiz.json) |
 | The Apothecary's Apprentice | 177571 | [177571-the-apothecarys-apprentice.json](./177571-the-apothecarys-apprentice.json) |
 | The Apotheosis Project | 35551 | [35551-the-apotheosis-project.json](./35551-the-apotheosis-project.json) |
+| The Appalache Estate | 415822 | [415822-the-appalache-estate.json](./415822-the-appalache-estate.json) |
 | The Apple | 314317 | [314317-the-apple.json](./314317-the-apple.json) |
 | The Apple Girl | 379969 | [379969-the-apple-girl.json](./379969-the-apple-girl.json) |
 | The Apple of Our Time | 281374 | [281374-the-apple-of-our-time.json](./281374-the-apple-of-our-time.json) |
@@ -8057,6 +8061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream of Shadowlands | 142170 | [142170-the-dream-of-shadowlands.json](./142170-the-dream-of-shadowlands.json) |
 | The Dream of Shadowlands: Episode 2 | 174071 | [174071-the-dream-of-shadowlands-episode-2.json](./174071-the-dream-of-shadowlands-episode-2.json) |
 | The Dream of the Limbo | 298601 | [298601-the-dream-of-the-limbo.json](./298601-the-dream-of-the-limbo.json) |
+| The Dream Of Winning The Lottery | 415826 | [415826-the-dream-of-winning-the-lottery.json](./415826-the-dream-of-winning-the-lottery.json) |
 | The Dream Office | 258299 | [258299-the-dream-office.json](./258299-the-dream-office.json) |
 | The Dream Sequences | 221586 | [221586-the-dream-sequences.json](./221586-the-dream-sequences.json) |
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
@@ -9564,6 +9569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Girls Take Manhattan DX | 241237 | [241237-the-golden-girls-take-manhattan-dx.json](./241237-the-golden-girls-take-manhattan-dx.json) |
 | The Golden Harp | 176784 | [176784-the-golden-harp.json](./176784-the-golden-harp.json) |
 | The Golden Horde | 21482 | [21482-the-golden-horde.json](./21482-the-golden-horde.json) |
+| The Golden Idol Saga | 415347 | [415347-the-golden-idol-saga.json](./415347-the-golden-idol-saga.json) |
 | The Golden Mare | 364663 | [364663-the-golden-mare.json](./364663-the-golden-mare.json) |
 | The Golden Path of Plumeboom | 24736 | [24736-the-golden-path-of-plumeboom.json](./24736-the-golden-path-of-plumeboom.json) |
 | The Golden Pearl | 179142 | [179142-the-golden-pearl.json](./179142-the-golden-pearl.json) |
@@ -14140,6 +14146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Plutonia Experiment | 46615 | [46615-the-plutonia-experiment.json](./46615-the-plutonia-experiment.json) |
 | The Pocket Arcade | 264008 | [264008-the-pocket-arcade.json](./264008-the-pocket-arcade.json) |
 | The Podlands | 117484 | [117484-the-podlands.json](./117484-the-podlands.json) |
+| The Pogo Witch | 416551 | [416551-the-pogo-witch.json](./416551-the-pogo-witch.json) |
 | The Pointless Car Chase | 121701 | [121701-the-pointless-car-chase.json](./121701-the-pointless-car-chase.json) |
 | The Pointless Car Chase: Refueled | 193607 | [193607-the-pointless-car-chase-refueled.json](./193607-the-pointless-car-chase-refueled.json) |
 | The Poisoned Roots | 151929 | [151929-the-poisoned-roots.json](./151929-the-poisoned-roots.json) |
@@ -14230,6 +14237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Price of Freedom | 30388 | [30388-the-price-of-freedom.json](./30388-the-price-of-freedom.json) |
 | The Price of Magik | 28458 | [28458-the-price-of-magik.json](./28458-the-price-of-magik.json) |
 | The Price of Parking | 417580 | [417580-the-price-of-parking.json](./417580-the-price-of-parking.json) |
+| The Price of Tomorrow | 415351 | [415351-the-price-of-tomorrow.json](./415351-the-price-of-tomorrow.json) |
 | The Prime MoVR | 76659 | [76659-the-prime-movr.json](./76659-the-prime-movr.json) |
 | The Primitive | 392334 | [392334-the-primitive.json](./392334-the-primitive.json) |
 | The Primordial World | 147121 | [147121-the-primordial-world.json](./147121-the-primordial-world.json) |
@@ -16630,6 +16638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Third Day | 151504 | [151504-the-third-day.json](./151504-the-third-day.json) |
 | The Third Pig | 337176 | [337176-the-third-pig.json](./337176-the-third-pig.json) |
 | The Third Shift | 139451 | [139451-the-third-shift.json](./139451-the-third-shift.json) |
+| The Third Surveillance Bureau | 415831 | [415831-the-third-surveillance-bureau.json](./415831-the-third-surveillance-bureau.json) |
 | The Third Tourist | 356563 | [356563-the-third-tourist.json](./356563-the-third-tourist.json) |
 | The Thirst of Hearts | 54343 | [54343-the-thirst-of-hearts.json](./54343-the-thirst-of-hearts.json) |
 | The Thirst Road | 318735 | [318735-the-thirst-road.json](./318735-the-thirst-road.json) |
@@ -17164,6 +17173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Two Body Problem | 411725 | [411725-the-two-body-problem.json](./411725-the-two-body-problem.json) |
 | The Two Moons | 249939 | [249939-the-two-moons.json](./249939-the-two-moons.json) |
 | The Two of Us | 185944 | [185944-the-two-of-us.json](./185944-the-two-of-us.json) |
+| The Two Rivers Hypothesis | 416545 | [416545-the-two-rivers-hypothesis.json](./416545-the-two-rivers-hypothesis.json) |
 | The Two Sisters | 56824 | [56824-the-two-sisters.json](./56824-the-two-sisters.json) |
 | The Two Thinkers | 333335 | [333335-the-two-thinkers.json](./333335-the-two-thinkers.json) |
 | The Two Towers | 279652 | [279652-the-two-towers.json](./279652-the-two-towers.json) |
@@ -17832,6 +17842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wicked Days | 148907 | [148907-the-wicked-days.json](./148907-the-wicked-days.json) |
 | The Wicked Souls | 270038 | [270038-the-wicked-souls.json](./270038-the-wicked-souls.json) |
 | The Wicked West | 296465 | [296465-the-wicked-west.json](./296465-the-wicked-west.json) |
+| The Wickers House | 415728 | [415728-the-wickers-house.json](./415728-the-wickers-house.json) |
 | The Wickie | 157131 | [157131-the-wickie.json](./157131-the-wickie.json) |
 | The Widow's Shadow | 271212 | [271212-the-widows-shadow.json](./271212-the-widows-shadow.json) |
 | The Wiggles: Wiggle Bay | 206228 | [206228-the-wiggles-wiggle-bay.json](./206228-the-wiggles-wiggle-bay.json) |
@@ -17969,6 +17980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witness | 7425 | [7425-the-witness.json](./7425-the-witness.json) |
 | The Wizard | 181239 | [181239-the-wizard.json](./181239-the-wizard.json) |
 | The Wizard | 236332 | [236332-the-wizard.json](./236332-the-wizard.json) |
+| The Wizard | 415232 | [415232-the-wizard.json](./415232-the-wizard.json) |
 | The Wizard and The Slug | 139400 | [139400-the-wizard-and-the-slug.json](./139400-the-wizard-and-the-slug.json) |
 | The Wizard Game | 149092 | [149092-the-wizard-game.json](./149092-the-wizard-game.json) |
 | The Wizard Gnome Quest | 322823 | [322823-the-wizard-gnome-quest.json](./322823-the-wizard-gnome-quest.json) |
@@ -19757,6 +19769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Up: Spaceship | 410257 | [410257-tidy-up-spaceship.json](./410257-tidy-up-spaceship.json) |
 | Tidy Wizard: A Place For Every Plate | 411998 | [411998-tidy-wizard-a-place-for-every-plate.json](./411998-tidy-wizard-a-place-for-every-plate.json) |
 | Tidy Your Room Simulator | 89604 | [89604-tidy-your-room-simulator.json](./89604-tidy-your-room-simulator.json) |
+| Tidying Simulator | 415829 | [415829-tidying-simulator.json](./415829-tidying-simulator.json) |
 | TidyUp 2000 | 418503 | [418503-tidyup-2000.json](./418503-tidyup-2000.json) |
 | Tie Break Tenis 98' | 2400 | [2400-tie-break-tenis-98.json](./2400-tie-break-tenis-98.json) |
 | Tie Break Tennis | 125970 | [125970-tie-break-tennis.json](./125970-tie-break-tennis.json) |
@@ -23706,6 +23719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tommy Tronic | 15010 | [15010-tommy-tronic.json](./15010-tommy-tronic.json) |
 | Tommy's Hollywords | 71146 | [71146-tommys-hollywords.json](./71146-tommys-hollywords.json) |
 | Tommygun's Frag | 387516 | [387516-tommyguns-frag.json](./387516-tommyguns-frag.json) |
+| Tommyrot | 416523 | [416523-tommyrot.json](./416523-tommyrot.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
 | Tomodachi 8in1 | 376653 | [376653-tomodachi-8in1.json](./376653-tomodachi-8in1.json) |
 | Tomodachi Ijou, Joubutsu Miman | 394078 | [394078-tomodachi-ijou-joubutsu-miman.json](./394078-tomodachi-ijou-joubutsu-miman.json) |
@@ -25406,6 +25420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Fantasy | 256153 | [256153-tower-of-fantasy.json](./256153-tower-of-fantasy.json) |
 | Tower of Fate | 110830 | [110830-tower-of-fate.json](./110830-tower-of-fate.json) |
 | Tower of Fear | 73743 | [73743-tower-of-fear.json](./73743-tower-of-fear.json) |
+| Tower of Feles | 416550 | [416550-tower-of-feles.json](./416550-tower-of-feles.json) |
 | Tower of Fortune | 130751 | [130751-tower-of-fortune.json](./130751-tower-of-fortune.json) |
 | Tower of Fortune 3 | 197738 | [197738-tower-of-fortune-3.json](./197738-tower-of-fortune-3.json) |
 | Tower of Fortune 4 | 175610 | [175610-tower-of-fortune-4.json](./175610-tower-of-fortune-4.json) |
@@ -25614,6 +25629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower!3D: YMML Airport | 174146 | [174146-tower-3d-ymml-airport.json](./174146-tower-3d-ymml-airport.json) |
 | Tower!3D: ZBAD Airport | 161309 | [161309-tower-3d-zbad-airport.json](./161309-tower-3d-zbad-airport.json) |
 | Tower.Defense(): Program the Fight | 406215 | [406215-tower-defense-program-the-fight.json](./406215-tower-defense-program-the-fight.json) |
+| Tower's Gate | 416499 | [416499-towers-gate.json](./416499-towers-gate.json) |
 | Towerbolt | 265269 | [265269-towerbolt.json](./265269-towerbolt.json) |
 | Towerborne | 252839 | [252839-towerborne.json](./252839-towerborne.json) |
 | TowerClimb | 34609 | [34609-towerclimb.json](./34609-towerclimb.json) |
@@ -29967,6 +29983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth: Disorder II | 98985 | [98985-truth-disorder-ii.json](./98985-truth-disorder-ii.json) |
 | Truth: Disorder III - Gemini | 116786 | [116786-truth-disorder-iii-gemini.json](./116786-truth-disorder-iii-gemini.json) |
 | Truths Untold | 181290 | [181290-truths-untold.json](./181290-truths-untold.json) |
+| TruWorlds | 416524 | [416524-truworlds.json](./416524-truworlds.json) |
 | Truxton Extreme | 287620 | [287620-truxton-extreme.json](./287620-truxton-extreme.json) |
 | Truxton Extreme: Batsugun Ship + Music Pack | 407141 | [407141-truxton-extreme-batsugun-ship-music-pack.json](./407141-truxton-extreme-batsugun-ship-music-pack.json) |
 | Truxton Extreme: Truxton II Ship + Music Pack | 407139 | [407139-truxton-extreme-truxton-ii-ship-music-pack.json](./407139-truxton-extreme-truxton-ii-ship-music-pack.json) |
