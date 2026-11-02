@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bad Clicker | 337787 | [337787-a-bad-clicker.json](./337787-a-bad-clicker.json) |
 | A Bad Day | 180555 | [180555-a-bad-day.json](./180555-a-bad-day.json) |
 | A Bad Game of Football | 203751 | [203751-a-bad-game-of-football.json](./203751-a-bad-game-of-football.json) |
+| A Baker's Dungeon | 423363 | [423363-a-bakers-dungeon.json](./423363-a-bakers-dungeon.json) |
 | A Balloon Game | 266127 | [266127-a-balloon-game.json](./266127-a-balloon-game.json) |
 | A Bar Where Men Go To Be Turned Into Horses | 289163 | [289163-a-bar-where-men-go-to-be-turned-into-horses.json](./289163-a-bar-where-men-go-to-be-turned-into-horses.json) |
 | A Bard's Last Song | 244429 | [244429-a-bards-last-song.json](./244429-a-bards-last-song.json) |
@@ -192,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Corporate Machine | 420802 | [420802-a-corporate-machine.json](./420802-a-corporate-machine.json) |
 | A Cosmic Forest | 145672 | [145672-a-cosmic-forest.json](./145672-a-cosmic-forest.json) |
 | A Cottage Story | 178774 | [178774-a-cottage-story.json](./178774-a-cottage-story.json) |
+| A Country Named Hunger | 423374 | [423374-a-country-named-hunger.json](./423374-a-country-named-hunger.json) |
 | A Country of One | 29368 | [29368-a-country-of-one.json](./29368-a-country-of-one.json) |
 | A Couple Nights at the Chud House | 414402 | [414402-a-couple-nights-at-the-chud-house.json](./414402-a-couple-nights-at-the-chud-house.json) |
 | A Courtesan of Rome | 313819 | [313819-a-courtesan-of-rome.json](./313819-a-courtesan-of-rome.json) |
@@ -5742,6 +5744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alarm for Cobra 11: Hot Pursuit | 68263 | [68263-alarm-for-cobra-11-hot-pursuit.json](./68263-alarm-for-cobra-11-hot-pursuit.json) |
 | Alarm für Cobra 11: Das Spiel zur RTL-Erfolgsserie | 125961 | [125961-alarm-fur-cobra-11-das-spiel-zur-rtl-erfolgsserie.json](./125961-alarm-fur-cobra-11-das-spiel-zur-rtl-erfolgsserie.json) |
 | Alarm für Cobra 11: Vol. III | 81170 | [81170-alarm-fur-cobra-11-vol-iii.json](./81170-alarm-fur-cobra-11-vol-iii.json) |
+| Alarmy | 423412 | [423412-alarmy.json](./423412-alarmy.json) |
 | Alaryia | 400691 | [400691-alaryia.json](./400691-alaryia.json) |
 | Alas Astra | 150928 | [150928-alas-astra.json](./150928-alas-astra.json) |
 | Alaska | 86767 | [86767-alaska.json](./86767-alaska.json) |
@@ -7308,6 +7311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphacity | 270722 | [270722-alphacity.json](./270722-alphacity.json) |
 | Alphadia | 19872 | [19872-alphadia.json](./19872-alphadia.json) |
 | Alphadia 2 | 38964 | [38964-alphadia-2.json](./38964-alphadia-2.json) |
+| Alphadia F | 423385 | [423385-alphadia-f.json](./423385-alphadia-f.json) |
 | Alphadia Genesis | 17849 | [17849-alphadia-genesis.json](./17849-alphadia-genesis.json) |
 | Alphadia III | 365177 | [365177-alphadia-iii.json](./365177-alphadia-iii.json) |
 | Alphadia Neo | 216120 | [216120-alphadia-neo.json](./216120-alphadia-neo.json) |
@@ -16303,6 +16307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Shrooms | 418861 | [418861-auto-shrooms.json](./418861-auto-shrooms.json) |
 | Auto Sport Racing & Drone Delivery: FPV Simulator | 394570 | [394570-auto-sport-racing-and-drone-delivery-fpv-simulator.json](./394570-auto-sport-racing-and-drone-delivery-fpv-simulator.json) |
 | Auto Sport Racing Simulator | 381702 | [381702-auto-sport-racing-simulator.json](./381702-auto-sport-racing-simulator.json) |
+| Auto Squad RPG | 423369 | [423369-auto-squad-rpg.json](./423369-auto-squad-rpg.json) |
 | Auto Test | 347705 | [347705-auto-test.json](./347705-auto-test.json) |
 | Auto Theft Gang Wars | 103061 | [103061-auto-theft-gang-wars.json](./103061-auto-theft-gang-wars.json) |
 | Auto Tow Truck Simulator | 278710 | [278710-auto-tow-truck-simulator.json](./278710-auto-tow-truck-simulator.json) |
