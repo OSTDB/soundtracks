@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yareta | 368607 | [368607-yareta.json](./368607-yareta.json) |
 | YARG | 144814 | [144814-yarg.json](./144814-yarg.json) |
 | YARG | 245335 | [245335-yarg.json](./245335-yarg.json) |
+| Yargis: Space Melee | 35300 | [35300-yargis-space-melee.json](./35300-yargis-space-melee.json) |
 | Yarichin Katei Kyoushi Netori Houkoku: Do-sukebe Kyonyuu Oyakodon | 108937 | [108937-yarichin-katei-kyoushi-netori-houkoku-do-sukebe-kyonyuu-oyakodon.json](./108937-yarichin-katei-kyoushi-netori-houkoku-do-sukebe-kyonyuu-oyakodon.json) |
 | Yarimono: DLC 1 | 315190 | [315190-yarimono-dlc-1.json](./315190-yarimono-dlc-1.json) |
 | Yaris | 21883 | [21883-yaris.json](./21883-yaris.json) |
