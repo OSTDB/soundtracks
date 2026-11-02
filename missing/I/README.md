@@ -2928,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incline | 67935 | [67935-incline.json](./67935-incline.json) |
 | Incline: Railway of Devil's Valley | 294299 | [294299-incline-railway-of-devils-valley.json](./294299-incline-railway-of-devils-valley.json) |
 | Incoboto Mini | 41511 | [41511-incoboto-mini.json](./41511-incoboto-mini.json) |
+| Incog-Confine | 405846 | [405846-incog-confine.json](./405846-incog-confine.json) |
 | Incognito | 35782 | [35782-incognito.json](./35782-incognito.json) |
 | Incoherence | 207654 | [207654-incoherence.json](./207654-incoherence.json) |
 | Incoherence | 291573 | [291573-incoherence.json](./291573-incoherence.json) |
@@ -3572,6 +3573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Monkey Autocorrect | 89205 | [89205-infinite-monkey-autocorrect.json](./89205-infinite-monkey-autocorrect.json) |
 | Infinite Monkey Clicker | 387328 | [387328-infinite-monkey-clicker.json](./387328-infinite-monkey-clicker.json) |
 | Infinite Monkeys | 57095 | [57095-infinite-monkeys.json](./57095-infinite-monkeys.json) |
+| Infinite Museum | 405804 | [405804-infinite-museum.json](./405804-infinite-museum.json) |
 | Infinite Onslaught | 332295 | [332295-infinite-onslaught.json](./332295-infinite-onslaught.json) |
 | Infinite Origin | 348825 | [348825-infinite-origin.json](./348825-infinite-origin.json) |
 | Infinite Passengers | 88161 | [88161-infinite-passengers.json](./88161-infinite-passengers.json) |
@@ -3699,6 +3701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Islets | 262783 | [262783-infinity-islets.json](./262783-infinity-islets.json) |
 | Infinity Kingdom | 143085 | [143085-infinity-kingdom.json](./143085-infinity-kingdom.json) |
 | Infinity Knights: Xross | 289302 | [289302-infinity-knights-xross.json](./289302-infinity-knights-xross.json) |
+| Infinity Lancer | 405810 | [405810-infinity-lancer.json](./405810-infinity-lancer.json) |
 | Infinity Land | 112179 | [112179-infinity-land.json](./112179-infinity-land.json) |
 | Infinity Mechs | 235150 | [235150-infinity-mechs.json](./235150-infinity-mechs.json) |
 | Infinity Nikki: Blue Tears Season | 353286 | [353286-infinity-nikki-blue-tears-season.json](./353286-infinity-nikki-blue-tears-season.json) |
