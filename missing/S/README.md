@@ -3846,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea-Doo HydroCross | 45055 | [45055-sea-doo-hydrocross.json](./45055-sea-doo-hydrocross.json) |
 | Sea-Man | 287550 | [287550-sea-man.json](./287550-sea-man.json) |
 | Seabase Delta | 28441 | [28441-seabase-delta.json](./28441-seabase-delta.json) |
+| SeaBed | 27102 | [27102-seabed.json](./27102-seabed.json) |
 | Seabed Frog | 211956 | [211956-seabed-frog.json](./211956-seabed-frog.json) |
 | Seabed Settlers | 310101 | [310101-seabed-settlers.json](./310101-seabed-settlers.json) |
 | Seaberry Holiday | 226630 | [226630-seaberry-holiday.json](./226630-seaberry-holiday.json) |
@@ -8107,6 +8108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShipLord | 19326 | [19326-shiplord.json](./19326-shiplord.json) |
 | Shipmatch | 256232 | [256232-shipmatch.json](./256232-shipmatch.json) |
 | ShipOS 1994 | 312191 | [312191-shipos-1994.json](./312191-shipos-1994.json) |
+| Shipped | 116097 | [116097-shipped.json](./116097-shipped.json) |
 | Shipping Nightmares | 335220 | [335220-shipping-nightmares.json](./335220-shipping-nightmares.json) |
 | Shipping Out! | 185383 | [185383-shipping-out.json](./185383-shipping-out.json) |
 | Shippuu! Iron Leaguer | 61391 | [61391-shippuu-iron-leaguer.json](./61391-shippuu-iron-leaguer.json) |
@@ -9418,6 +9420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege! | 28494 | [28494-siege.json](./28494-siege.json) |
 | Siegebreaker | 276967 | [276967-siegebreaker.json](./276967-siegebreaker.json) |
 | Siegecaster | 331169 | [331169-siegecaster.json](./331169-siegecaster.json) |
+| Siegecraft Commander | 26810 | [26810-siegecraft-commander.json](./26810-siegecraft-commander.json) |
 | Siegecraft Defender | 175525 | [175525-siegecraft-defender.json](./175525-siegecraft-defender.json) |
 | Siegecraft TD | 39212 | [39212-siegecraft-td.json](./39212-siegecraft-td.json) |
 | Siegelord | 23633 | [23633-siegelord.json](./23633-siegelord.json) |
@@ -10962,6 +10965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Size Does Matter | 9716 | [9716-size-does-matter.json](./9716-size-does-matter.json) |
 | Size Experiments at Morinomma Tech | 275801 | [275801-size-experiments-at-morinomma-tech.json](./275801-size-experiments-at-morinomma-tech.json) |
 | Size It | 186684 | [186684-size-it.json](./186684-size-it.json) |
+| Size Matters | 112777 | [112777-size-matters.json](./112777-size-matters.json) |
 | Size Matters! | 331709 | [331709-size-matters.json](./331709-size-matters.json) |
 | Sizif | 257433 | [257433-sizif.json](./257433-sizif.json) |
 | Sizzlefist | 396749 | [396749-sizzlefist.json](./396749-sizzlefist.json) |
@@ -16029,6 +16033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Aspect | 333685 | [333685-sonic-aspect.json](./333685-sonic-aspect.json) |
 | Sonic Astral Generations | 370199 | [370199-sonic-astral-generations.json](./370199-sonic-astral-generations.json) |
 | Sonic at the Olympic Games | 56926 | [56926-sonic-at-the-olympic-games.json](./56926-sonic-at-the-olympic-games.json) |
+| Sonic at the Olympic Games: Tokyo 2020 | 116802 | [116802-sonic-at-the-olympic-games-tokyo-2020.json](./116802-sonic-at-the-olympic-games-tokyo-2020.json) |
 | Sonic at the Olympic Winter Games | 56927 | [56927-sonic-at-the-olympic-winter-games.json](./56927-sonic-at-the-olympic-winter-games.json) |
 | Sonic Attitude | 331740 | [331740-sonic-attitude.json](./331740-sonic-attitude.json) |
 | Sonic Aural | 326150 | [326150-sonic-aural.json](./326150-sonic-aural.json) |
@@ -18205,7 +18210,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20693,6 +20697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatter | 62955 | [62955-splatter.json](./62955-splatter.json) |
 | Splatter - Just Harder Times | 51665 | [51665-splatter-just-harder-times.json](./51665-splatter-just-harder-times.json) |
 | Splatter World | 304076 | [304076-splatter-world.json](./304076-splatter-world.json) |
+| Splatter: Zombiecalypse Now | 26512 | [26512-splatter-zombiecalypse-now.json](./26512-splatter-zombiecalypse-now.json) |
 | Splatter: Zombiecalypse Now + The Hong Kong Massacre | 226337 | [226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json](./226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json) |
 | Splatterball Plus | 120515 | [120515-splatterball-plus.json](./120515-splatterball-plus.json) |
 | Splatterbot | 297007 | [297007-splatterbot.json](./297007-splatterbot.json) |
