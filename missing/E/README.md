@@ -4129,6 +4129,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Balls Smashing | 403101 | [403101-epic-balls-smashing.json](./403101-epic-balls-smashing.json) |
 | Epic Baseball | 79506 | [79506-epic-baseball.json](./79506-epic-baseball.json) |
 | Epic Battle Dude | 62724 | [62724-epic-battle-dude.json](./62724-epic-battle-dude.json) |
+| Epic Battle Fantasy | 143722 | [143722-epic-battle-fantasy.json](./143722-epic-battle-fantasy.json) |
+| Epic Battle Fantasy 2 | 143723 | [143723-epic-battle-fantasy-2.json](./143723-epic-battle-fantasy-2.json) |
 | Epic Battle Fantasy 4 | 16867 | [16867-epic-battle-fantasy-4.json](./16867-epic-battle-fantasy-4.json) |
 | Epic Battle Fantasy 5 | 108297 | [108297-epic-battle-fantasy-5.json](./108297-epic-battle-fantasy-5.json) |
 | Epic Battle Fantasy Collection | 199653 | [199653-epic-battle-fantasy-collection.json](./199653-epic-battle-fantasy-collection.json) |
