@@ -14862,6 +14862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Fist | 84806 | [84806-project-fist.json](./84806-project-fist.json) |
 | Project Float | 332206 | [332206-project-float.json](./332206-project-float.json) |
 | Project FNZ | 114641 | [114641-project-fnz.json](./114641-project-fnz.json) |
+| Project Foxx | 405285 | [405285-project-foxx.json](./405285-project-foxx.json) |
 | Project Freedom | 16044 | [16044-project-freedom.json](./16044-project-freedom.json) |
 | Project Freedom | 315023 | [315023-project-freedom.json](./315023-project-freedom.json) |
 | Project Freefall | 364275 | [364275-project-freefall.json](./364275-project-freefall.json) |
