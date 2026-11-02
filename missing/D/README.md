@@ -1951,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkBazaar | 393654 | [393654-darkbazaar.json](./393654-darkbazaar.json) |
 | DarkBind | 197330 | [197330-darkbind.json](./197330-darkbind.json) |
 | Darkblade Ascent | 249201 | [249201-darkblade-ascent.json](./249201-darkblade-ascent.json) |
+| Darkblood Chronicles | 75833 | [75833-darkblood-chronicles.json](./75833-darkblood-chronicles.json) |
 | DarkBlood: Reverse | 348868 | [348868-darkblood-reverse.json](./348868-darkblood-reverse.json) |
 | Darkbolt | 132712 | [132712-darkbolt.json](./132712-darkbolt.json) |
 | Darkborn | 25560 | [25560-darkborn.json](./25560-darkborn.json) |
@@ -10447,6 +10448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJbox | 269399 | [269399-djbox.json](./269399-djbox.json) |
 | Djiguli | 143892 | [143892-djiguli.json](./143892-djiguli.json) |
 | Djikstra's Enigmatic Puzzle Cube | 278423 | [278423-djikstras-enigmatic-puzzle-cube.json](./278423-djikstras-enigmatic-puzzle-cube.json) |
+| Djilyaro | 75615 | [75615-djilyaro.json](./75615-djilyaro.json) |
 | Djinn Caster | 129605 | [129605-djinn-caster.json](./129605-djinn-caster.json) |
 | Djinn: The Forbidden Knowledge | 302578 | [302578-djinn-the-forbidden-knowledge.json](./302578-djinn-the-forbidden-knowledge.json) |
 | Djinni & Thaco: Trial By Spire | 132779 | [132779-djinni-and-thaco-trial-by-spire.json](./132779-djinni-and-thaco-trial-by-spire.json) |
@@ -13262,6 +13264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Bulbaceous | 34806 | [34806-dr-bulbaceous.json](./34806-dr-bulbaceous.json) |
 | Dr. Calgory's Lab: a 3D steampunk puzzle adventure game | 88312 | [88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json](./88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json) |
 | Dr. Cares: Family Practice | 112759 | [112759-dr-cares-family-practice.json](./112759-dr-cares-family-practice.json) |
+| Dr. Cares: Pet Rescue 911 | 59568 | [59568-dr-cares-pet-rescue-911.json](./59568-dr-cares-pet-rescue-911.json) |
 | Dr. Chaos | 48174 | [48174-dr-chaos.json](./48174-dr-chaos.json) |
 | Dr. Chaos: Shadows of Mars | 268760 | [268760-dr-chaos-shadows-of-mars.json](./268760-dr-chaos-shadows-of-mars.json) |
 | Dr. Chatelet: Faith | 207757 | [207757-dr-chatelet-faith.json](./207757-dr-chatelet-faith.json) |
@@ -13510,6 +13513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: College Football 2025 | 386282 | [386282-draft-day-sports-college-football-2025.json](./386282-draft-day-sports-college-football-2025.json) |
 | Draft Day Sports: College Football 2026 | 366273 | [366273-draft-day-sports-college-football-2026.json](./366273-draft-day-sports-college-football-2026.json) |
 | Draft Day Sports: Pro Basketball 2016 | 58891 | [58891-draft-day-sports-pro-basketball-2016.json](./58891-draft-day-sports-pro-basketball-2016.json) |
+| Draft Day Sports: Pro Basketball 2018 | 75713 | [75713-draft-day-sports-pro-basketball-2018.json](./75713-draft-day-sports-pro-basketball-2018.json) |
 | Draft Day Sports: Pro Basketball 2019 | 111623 | [111623-draft-day-sports-pro-basketball-2019.json](./111623-draft-day-sports-pro-basketball-2019.json) |
 | Draft Day Sports: Pro Basketball 2020 | 126983 | [126983-draft-day-sports-pro-basketball-2020.json](./126983-draft-day-sports-pro-basketball-2020.json) |
 | Draft Day Sports: Pro Basketball 2021 | 137868 | [137868-draft-day-sports-pro-basketball-2021.json](./137868-draft-day-sports-pro-basketball-2021.json) |
@@ -15673,6 +15677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive! | 269164 | [269164-drive.json](./269164-drive.json) |
 | Drive!Drive!Drive! | 13231 | [13231-drive-drive-drive.json](./13231-drive-drive-drive.json) |
 | Drive.RS | 252324 | [252324-drive-rs.json](./252324-drive-rs.json) |
+| Drive//Shaft | 75921 | [75921-drive-shaft.json](./75921-drive-shaft.json) |
 | Driveby Gangster | 34452 | [34452-driveby-gangster.json](./34452-driveby-gangster.json) |
 | DriveCraft | 392909 | [392909-drivecraft.json](./392909-drivecraft.json) |
 | DriveCrazy | 151746 | [151746-drivecrazy.json](./151746-drivecrazy.json) |
