@@ -3476,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junjou Gal to Shiawase no Katachi: Shape of Happiness | 221201 | [221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json](./221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json) |
 | Junk | 122251 | [122251-junk.json](./122251-junk.json) |
 | Junk Architect | 149189 | [149189-junk-architect.json](./149189-junk-architect.json) |
+| Junk Jack | 26307 | [26307-junk-jack.json](./26307-junk-jack.json) |
 | Junk Jack Retro | 89003 | [89003-junk-jack-retro.json](./89003-junk-jack-retro.json) |
 | Junk on Wheels | 126316 | [126316-junk-on-wheels.json](./126316-junk-on-wheels.json) |
 | Junk Race | 246988 | [246988-junk-race.json](./246988-junk-race.json) |
