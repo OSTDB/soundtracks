@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V.O.D.K.A. Open World Survival Shooter | 144021 | [144021-v-o-d-k-a-open-world-survival-shooter.json](./144021-v-o-d-k-a-open-world-survival-shooter.json) |
 | V.O.I.D. | 105649 | [105649-v-o-i-d.json](./105649-v-o-i-d.json) |
 | V.O.I.D.: Vexation of Infinite Dungeons | 245886 | [245886-v-o-i-d-vexation-of-infinite-dungeons.json](./245886-v-o-i-d-vexation-of-infinite-dungeons.json) |
+| V.O.L.T. Survivors | 427272 | [427272-v-o-l-t-survivors.json](./427272-v-o-l-t-survivors.json) |
 | V.O.S.S. Turbo | 215918 | [215918-v-o-s-s-turbo.json](./215918-v-o-s-s-turbo.json) |
 | V.R. Virtua Racing | 70773 | [70773-v-r-virtua-racing.json](./70773-v-r-virtua-racing.json) |
 | V.R.G. | 181127 | [181127-v-r-g.json](./181127-v-r-g.json) |
@@ -1783,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory | 95445 | [95445-victory.json](./95445-victory.json) |
 | Victory and Glory: Napoleon | 33552 | [33552-victory-and-glory-napoleon.json](./33552-victory-and-glory-napoleon.json) |
 | Victory and Glory: The American Civil War | 132487 | [132487-victory-and-glory-the-american-civil-war.json](./132487-victory-and-glory-the-american-civil-war.json) |
+| Victory at Sea | 9395 | [9395-victory-at-sea.json](./9395-victory-at-sea.json) |
 | Victory at Sea Atlantic | 261743 | [261743-victory-at-sea-atlantic.json](./261743-victory-at-sea-atlantic.json) |
 | Victory At Sea Ironclad | 171417 | [171417-victory-at-sea-ironclad.json](./171417-victory-at-sea-ironclad.json) |
 | Victory At Sea Pacific | 104004 | [104004-victory-at-sea-pacific.json](./104004-victory-at-sea-pacific.json) |
