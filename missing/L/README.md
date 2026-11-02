@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La torre de Mario | 374170 | [374170-la-torre-de-mario.json](./374170-la-torre-de-mario.json) |
 | La Ultima Comida | 153427 | [153427-la-ultima-comida.json](./153427-la-ultima-comida.json) |
 | La Valle Magica | 145975 | [145975-la-valle-magica.json](./145975-la-valle-magica.json) |
+| La Vida de Andrea | 404597 | [404597-la-vida-de-andrea.json](./404597-la-vida-de-andrea.json) |
 | La Vie d'Emma: Infirmière de Choc | 406653 | [406653-la-vie-demma-infirmiere-de-choc.json](./406653-la-vie-demma-infirmiere-de-choc.json) |
 | La Vie en Rose | 183071 | [183071-la-vie-en-rose.json](./183071-la-vie-en-rose.json) |
 | La Vie La Rue | 199617 | [199617-la-vie-la-rue.json](./199617-la-vie-la-rue.json) |
@@ -7172,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looty Dungeon | 104516 | [104516-looty-dungeon.json](./104516-looty-dungeon.json) |
 | LooWarVR | 31838 | [31838-loowarvr.json](./31838-loowarvr.json) |
 | Looxi | 343248 | [343248-looxi.json](./343248-looxi.json) |
+| Lop: Whitefall | 404633 | [404633-lop-whitefall.json](./404633-lop-whitefall.json) |
 | Lophis Roguelike-Card RPG game: Darkest Dungeon | 147138 | [147138-lophis-roguelike-card-rpg-game-darkest-dungeon.json](./147138-lophis-roguelike-card-rpg-game-darkest-dungeon.json) |
 | Loplight | 208210 | [208210-loplight.json](./208210-loplight.json) |
 | Lopp | 81648 | [81648-lopp.json](./81648-lopp.json) |
@@ -8027,6 +8029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Louis Charles in the Louvre | 360640 | [360640-louis-charles-in-the-louvre.json](./360640-louis-charles-in-the-louvre.json) |
 | Louis the Game | 175727 | [175727-louis-the-game.json](./175727-louis-the-game.json) |
 | Louisiana Adventure | 64279 | [64279-louisiana-adventure.json](./64279-louisiana-adventure.json) |
+| LouLan Kingdom | 404600 | [404600-loulan-kingdom.json](./404600-loulan-kingdom.json) |
 | Louloudi Asteri: Save the Solar System | 251004 | [251004-louloudi-asteri-save-the-solar-system.json](./251004-louloudi-asteri-save-the-solar-system.json) |
 | Louma | 265116 | [265116-louma.json](./265116-louma.json) |
 | Lounge Café | 390247 | [390247-lounge-cafe.json](./390247-lounge-cafe.json) |
@@ -8938,6 +8941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luge Crush 2018 | 87201 | [87201-luge-crush-2018.json](./87201-luge-crush-2018.json) |
 | Luggage Lane | 314474 | [314474-luggage-lane.json](./314474-luggage-lane.json) |
 | Luggage Retrieval Officer | 242147 | [242147-luggage-retrieval-officer.json](./242147-luggage-retrieval-officer.json) |
+| Lugubrious | 404599 | [404599-lugubrious.json](./404599-lugubrious.json) |
 | Luhor's Memory | 393748 | [393748-luhors-memory.json](./393748-luhors-memory.json) |
 | Luigi & Spaghetti | 94408 | [94408-luigi-and-spaghetti.json](./94408-luigi-and-spaghetti.json) |
 | Luigi and the Christmas Quest | 229321 | [229321-luigi-and-the-christmas-quest.json](./229321-luigi-and-the-christmas-quest.json) |
