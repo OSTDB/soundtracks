@@ -2580,6 +2580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Cargo | 371052 | [371052-scary-cargo.json](./371052-scary-cargo.json) |
 | Scary Cave | 421331 | [421331-scary-cave.json](./421331-scary-cave.json) |
 | Scary Cave Diving | 410301 | [410301-scary-cave-diving.json](./410301-scary-cave-diving.json) |
+| Scary Child | 100945 | [100945-scary-child.json](./100945-scary-child.json) |
 | Scary Clown Death of Park | 235165 | [235165-scary-clown-death-of-park.json](./235165-scary-clown-death-of-park.json) |
 | Scary defense | 93731 | [93731-scary-defense.json](./93731-scary-defense.json) |
 | Scary Doll: Twin Sister | 303094 | [303094-scary-doll-twin-sister.json](./303094-scary-doll-twin-sister.json) |
@@ -3505,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scroll Survival | 276611 | [276611-scroll-survival.json](./276611-scroll-survival.json) |
 | Scroll the Pain Away | 274340 | [274340-scroll-the-pain-away.json](./274340-scroll-the-pain-away.json) |
 | Scrollden | 298456 | [298456-scrollden.json](./298456-scrollden.json) |
+| Scrolling Ball in Sky | 100979 | [100979-scrolling-ball-in-sky.json](./100979-scrolling-ball-in-sky.json) |
 | Scrolling Survivor | 177163 | [177163-scrolling-survivor.json](./177163-scrolling-survivor.json) |
 | Scrolling Walls | 73423 | [73423-scrolling-walls.json](./73423-scrolling-walls.json) |
 | Scrollonoid | 41112 | [41112-scrollonoid.json](./41112-scrollonoid.json) |
@@ -14115,6 +14117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper and Spotter Climbing a Tower | 125950 | [125950-sniper-and-spotter-climbing-a-tower.json](./125950-sniper-and-spotter-climbing-a-tower.json) |
 | Sniper and Spotter Serving the Motherland | 171779 | [171779-sniper-and-spotter-serving-the-motherland.json](./171779-sniper-and-spotter-serving-the-motherland.json) |
 | Sniper Arena: Online PvP Game | 88766 | [88766-sniper-arena-online-pvp-game.json](./88766-sniper-arena-online-pvp-game.json) |
+| Sniper Arena: PvP Army Shooter | 100980 | [100980-sniper-arena-pvp-army-shooter.json](./100980-sniper-arena-pvp-army-shooter.json) |
 | Sniper Assassin | 260888 | [260888-sniper-assassin.json](./260888-sniper-assassin.json) |
 | Sniper Assassin 2 | 314623 | [314623-sniper-assassin-2.json](./314623-sniper-assassin-2.json) |
 | Sniper Assassin 3 | 316087 | [316087-sniper-assassin-3.json](./316087-sniper-assassin-3.json) |
@@ -15462,6 +15465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Beach Season: A Vacation Time | 202731 | [202731-solitaire-beach-season-a-vacation-time.json](./202731-solitaire-beach-season-a-vacation-time.json) |
 | Solitaire Bliss Collection | 117176 | [117176-solitaire-bliss-collection.json](./117176-solitaire-bliss-collection.json) |
 | Solitaire Blitz | 65263 | [65263-solitaire-blitz.json](./65263-solitaire-blitz.json) |
+| Solitaire Buddies | 100968 | [100968-solitaire-buddies.json](./100968-solitaire-buddies.json) |
 | Solitaire by MobilityWare | 294197 | [294197-solitaire-by-mobilityware.json](./294197-solitaire-by-mobilityware.json) |
 | Solitaire Card Deck Game '23 | 231896 | [231896-solitaire-card-deck-game-23.json](./231896-solitaire-card-deck-game-23.json) |
 | Solitaire Card Game Classic | 89621 | [89621-solitaire-card-game-classic.json](./89621-solitaire-card-game-classic.json) |
@@ -31935,6 +31939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Fish.io: Hunger Game | 223898 | [223898-survival-fish-io-hunger-game.json](./223898-survival-fish-io-hunger-game.json) |
 | Survival Float Simulator: Crocodile Waters Craft, Raft, Build | 317453 | [317453-survival-float-simulator-crocodile-waters-craft-raft-build.json](./317453-survival-float-simulator-crocodile-waters-craft-raft-build.json) |
 | Survival for Treasure | 246775 | [246775-survival-for-treasure.json](./246775-survival-for-treasure.json) |
+| Survival Forest: Survivor Home Builder | 100956 | [100956-survival-forest-survivor-home-builder.json](./100956-survival-forest-survivor-home-builder.json) |
 | Survival Fort | 233416 | [233416-survival-fort.json](./233416-survival-fort.json) |
 | Survival Frenzy | 116733 | [116733-survival-frenzy.json](./116733-survival-frenzy.json) |
 | Survival Game Master | 212477 | [212477-survival-game-master.json](./212477-survival-game-master.json) |
