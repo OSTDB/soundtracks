@@ -5671,6 +5671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Light | 300736 | [300736-eternal-light.json](./300736-eternal-light.json) |
 | Eternal Liiivie: EP1 Liiivie - Isolated From the World | 284348 | [284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json](./284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json) |
 | Eternal Link | 345085 | [345085-eternal-link.json](./345085-eternal-link.json) |
+| Eternal Lore | 56600 | [56600-eternal-lore.json](./56600-eternal-lore.json) |
 | Eternal Love | 164283 | [164283-eternal-love.json](./164283-eternal-love.json) |
 | Eternal Lux | 185351 | [185351-eternal-lux.json](./185351-eternal-lux.json) |
 | Eternal Magic | 122918 | [122918-eternal-magic.json](./122918-eternal-magic.json) |
