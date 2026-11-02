@@ -3191,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartlines | 390264 | [390264-heartlines.json](./390264-heartlines.json) |
 | HeartLink | 248396 | [248396-heartlink.json](./248396-heartlink.json) |
 | HeartLinks: A Puzzle Called Love | 153940 | [153940-heartlinks-a-puzzle-called-love.json](./153940-heartlinks-a-puzzle-called-love.json) |
+| Heartomics: Lost Count | 23211 | [23211-heartomics-lost-count.json](./23211-heartomics-lost-count.json) |
 | Heartomics: Nokori | 33152 | [33152-heartomics-nokori.json](./33152-heartomics-nokori.json) |
 | Heartomics: Slime & Friends | 33163 | [33163-heartomics-slime-and-friends.json](./33163-heartomics-slime-and-friends.json) |
 | Heartomics: Valkyries | 109610 | [109610-heartomics-valkyries.json](./109610-heartomics-valkyries.json) |
