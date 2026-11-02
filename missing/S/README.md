@@ -11476,6 +11476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skip Beat! | 77070 | [77070-skip-beat.json](./77070-skip-beat.json) |
 | Skip Lake | 164045 | [164045-skip-lake.json](./164045-skip-lake.json) |
 | Skip-Bo | 83471 | [83471-skip-bo.json](./83471-skip-bo.json) |
+| Skip-Bo | 83912 | [83912-skip-bo.json](./83912-skip-bo.json) |
 | Skip's Sanity | 99072 | [99072-skips-sanity.json](./99072-skips-sanity.json) |
 | Skipchaser | 31927 | [31927-skipchaser.json](./31927-skipchaser.json) |
 | Skiplit | 27799 | [27799-skiplit.json](./27799-skiplit.json) |
@@ -13831,6 +13832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Challenge | 268021 | [268021-snake-challenge.json](./268021-snake-challenge.json) |
 | Snake Charmer | 359366 | [359366-snake-charmer.json](./359366-snake-charmer.json) |
 | Snake Charmer - TPS Snek | 81038 | [81038-snake-charmer-tps-snek.json](./81038-snake-charmer-tps-snek.json) |
+| Snake Classic | 84014 | [84014-snake-classic.json](./84014-snake-classic.json) |
 | Snake Classic 3D Reborn | 384323 | [384323-snake-classic-3d-reborn.json](./384323-snake-classic-3d-reborn.json) |
 | Snake Colors: Slithering Game | 285336 | [285336-snake-colors-slithering-game.json](./285336-snake-colors-slithering-game.json) |
 | Snake Core | 132783 | [132783-snake-core.json](./132783-snake-core.json) |
@@ -17949,6 +17951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space BlocKing | 233431 | [233431-space-blocking.json](./233431-space-blocking.json) |
 | Space BloX | 119042 | [119042-space-blox.json](./119042-space-blox.json) |
 | Space Boat | 175653 | [175653-space-boat.json](./175653-space-boat.json) |
+| Space Bob vs. The Replicons | 84012 | [84012-space-bob-vs-the-replicons.json](./84012-space-bob-vs-the-replicons.json) |
 | Space Bomb | 120417 | [120417-space-bomb.json](./120417-space-bomb.json) |
 | Space Bomber | 39418 | [39418-space-bomber.json](./39418-space-bomber.json) |
 | Space Borders: Alien Encounter | 175051 | [175051-space-borders-alien-encounter.json](./175051-space-borders-alien-encounter.json) |
@@ -19131,6 +19134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceShips | 151448 | [151448-spaceships.json](./151448-spaceships.json) |
 | SpaceShooter | 180654 | [180654-spaceshooter.json](./180654-spaceshooter.json) |
 | SpaceShooter | 413900 | [413900-spaceshooter.json](./413900-spaceshooter.json) |
+| SpaceShot | 84141 | [84141-spaceshot.json](./84141-spaceshot.json) |
 | Spaceslingers | 150489 | [150489-spaceslingers.json](./150489-spaceslingers.json) |
 | SpaceSlog | 197908 | [197908-spaceslog.json](./197908-spaceslog.json) |
 | SpaceSoldier3D | 320160 | [320160-spacesoldier3d.json](./320160-spacesoldier3d.json) |
