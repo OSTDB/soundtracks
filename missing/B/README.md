@@ -900,7 +900,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2283,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Race & Ride | 3312 | [3312-barbie-race-and-ride.json](./3312-barbie-race-and-ride.json) |
 | Barbie: Shoe Hunt | 293197 | [293197-barbie-shoe-hunt.json](./293197-barbie-shoe-hunt.json) |
 | Barbie: Sparkling Ice Show | 57592 | [57592-barbie-sparkling-ice-show.json](./57592-barbie-sparkling-ice-show.json) |
+| Barbie: Super Model | 3317 | [3317-barbie-super-model.json](./3317-barbie-super-model.json) |
 | Barbie: Super Model | 368898 | [368898-barbie-super-model.json](./368898-barbie-super-model.json) |
 | Barbie: The Princess and the Pauper | 45169 | [45169-barbie-the-princess-and-the-pauper.json](./45169-barbie-the-princess-and-the-pauper.json) |
 | Barbie: Treasures in Time | 200596 | [200596-barbie-treasures-in-time.json](./200596-barbie-treasures-in-time.json) |
@@ -11779,6 +11779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Act:Zero Mobile Type | 198195 | [198195-bomberman-act-zero-mobile-type.json](./198195-bomberman-act-zero-mobile-type.json) |
 | Bomberman B-Daman | 42545 | [42545-bomberman-b-daman.json](./42545-bomberman-b-daman.json) |
 | Bomberman Baseball | 198051 | [198051-bomberman-baseball.json](./198051-bomberman-baseball.json) |
+| Bomberman Blast | 50701 | [50701-bomberman-blast.json](./50701-bomberman-blast.json) |
 | Bomberman Blitz | 67318 | [67318-bomberman-blitz.json](./67318-bomberman-blitz.json) |
 | Bomberman Chains | 198050 | [198050-bomberman-chains.json](./198050-bomberman-chains.json) |
 | Bomberman Chaos | 141782 | [141782-bomberman-chaos.json](./141782-bomberman-chaos.json) |
@@ -12916,6 +12917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy | 207170 | [207170-bouncy.json](./207170-bouncy.json) |
 | Bouncy Ball | 245201 | [245201-bouncy-ball.json](./245201-bouncy-ball.json) |
 | Bouncy Bean | 388187 | [388187-bouncy-bean.json](./388187-bouncy-bean.json) |
+| Bouncy Bob | 53092 | [53092-bouncy-bob.json](./53092-bouncy-bob.json) |
 | Bouncy Bob 2 | 125663 | [125663-bouncy-bob-2.json](./125663-bouncy-bob-2.json) |
 | Bouncy Brain | 388273 | [388273-bouncy-brain.json](./388273-bouncy-brain.json) |
 | Bouncy Bread | 338014 | [338014-bouncy-bread.json](./338014-bouncy-bread.json) |
@@ -16499,6 +16501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Rush | 71525 | [71525-burger-rush.json](./71525-burger-rush.json) |
 | Burger Shift: Team Rush | 391583 | [391583-burger-shift-team-rush.json](./391583-burger-shift-team-rush.json) |
 | Burger Shop | 76082 | [76082-burger-shop.json](./76082-burger-shop.json) |
+| Burger Shop 2 | 52673 | [52673-burger-shop-2.json](./52673-burger-shop-2.json) |
 | Burger Shop 3 | 265102 | [265102-burger-shop-3.json](./265102-burger-shop-3.json) |
 | Burger Shop HD | 88997 | [88997-burger-shop-hd.json](./88997-burger-shop-hd.json) |
 | Burger Shop Simulator 2024 | 326584 | [326584-burger-shop-simulator-2024.json](./326584-burger-shop-simulator-2024.json) |
