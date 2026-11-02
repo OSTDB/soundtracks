@@ -5510,6 +5510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esse mundo é um Colosso | 230758 | [230758-esse-mundo-e-um-colosso.json](./230758-esse-mundo-e-um-colosso.json) |
 | Esse Proxy | 152082 | [152082-esse-proxy.json](./152082-esse-proxy.json) |
 | Esse Rakuraku Kakeibo | 141724 | [141724-esse-rakuraku-kakeibo.json](./141724-esse-rakuraku-kakeibo.json) |
+| Essence | 32492 | [32492-essence.json](./32492-essence.json) |
 | Essence | 383502 | [383502-essence.json](./383502-essence.json) |
 | Essence Bloom | 290644 | [290644-essence-bloom.json](./290644-essence-bloom.json) |
 | Essence Child | 260967 | [260967-essence-child.json](./260967-essence-child.json) |
