@@ -6183,6 +6183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Lorange Adventures Season 2 | 393111 | [393111-alice-lorange-adventures-season-2.json](./393111-alice-lorange-adventures-season-2.json) |
 | Alice Mesmerizing Episodes of Neurosis: AMEN | 328218 | [328218-alice-mesmerizing-episodes-of-neurosis-amen.json](./328218-alice-mesmerizing-episodes-of-neurosis-amen.json) |
 | Alice Must Find the Key to Escape | 91304 | [91304-alice-must-find-the-key-to-escape.json](./91304-alice-must-find-the-key-to-escape.json) |
+| Alice Nation | 423975 | [423975-alice-nation.json](./423975-alice-nation.json) |
 | Alice no Hyouhonbako | 394571 | [394571-alice-no-hyouhonbako.json](./394571-alice-no-hyouhonbako.json) |
 | Alice no Paint Adventure | 42300 | [42300-alice-no-paint-adventure.json](./42300-alice-no-paint-adventure.json) |
 | Alice no Yakata | 299797 | [299797-alice-no-yakata.json](./299797-alice-no-yakata.json) |
@@ -7601,6 +7602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amanita | 229000 | [229000-amanita.json](./229000-amanita.json) |
 | Amanita | 373035 | [373035-amanita.json](./373035-amanita.json) |
 | Amanita August | 334793 | [334793-amanita-august.json](./334793-amanita-august.json) |
+| Amanojaku Nightmare | 423980 | [423980-amanojaku-nightmare.json](./423980-amanojaku-nightmare.json) |
 | Amant | 258183 | [258183-amant.json](./258183-amant.json) |
 | Amanthi | 141853 | [141853-amanthi.json](./141853-amanthi.json) |
 | Amaoto to Taikutsu | 395504 | [395504-amaoto-to-taikutsu.json](./395504-amaoto-to-taikutsu.json) |
@@ -8356,6 +8358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amulet of Lovar | 245957 | [245957-amulet-of-lovar.json](./245957-amulet-of-lovar.json) |
 | Amulet of Time: Shadow of La Rochelle | 169858 | [169858-amulet-of-time-shadow-of-la-rochelle.json](./169858-amulet-of-time-shadow-of-la-rochelle.json) |
 | Amulet of Yendor | 2882 | [2882-amulet-of-yendor.json](./2882-amulet-of-yendor.json) |
+| Amusement Factory | 424010 | [424010-amusement-factory.json](./424010-amusement-factory.json) |
 | Amusement Inferno | 271722 | [271722-amusement-inferno.json](./271722-amusement-inferno.json) |
 | Amusement Park | 377097 | [377097-amusement-park.json](./377097-amusement-park.json) |
 | Amusement Park | 52390 | [52390-amusement-park.json](./52390-amusement-park.json) |
