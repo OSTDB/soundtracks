@@ -2371,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Say a Prayer | 304327 | [304327-say-a-prayer.json](./304327-say-a-prayer.json) |
 | Say Cheese | 312157 | [312157-say-cheese.json](./312157-say-cheese.json) |
 | Say Goodbye | 30453 | [30453-say-goodbye.json](./30453-say-goodbye.json) |
+| Say Goodbye to Your Balls! | 400593 | [400593-say-goodbye-to-your-balls.json](./400593-say-goodbye-to-your-balls.json) |
 | Say Goodbye: Deluxe Edition | 170749 | [170749-say-goodbye-deluxe-edition.json](./170749-say-goodbye-deluxe-edition.json) |
 | Say No to Rom-Coms! | 258359 | [258359-say-no-to-rom-coms.json](./258359-say-no-to-rom-coms.json) |
 | Say Something Positive About | 265219 | [265219-say-something-positive-about.json](./265219-say-something-positive-about.json) |
@@ -3217,6 +3218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Chamberz | 270580 | [270580-scp-chamberz.json](./270580-scp-chamberz.json) |
 | SCP: Classified Site | 228128 | [228128-scp-classified-site.json](./228128-scp-classified-site.json) |
 | SCP: Containment Breach | 20193 | [20193-scp-containment-breach.json](./20193-scp-containment-breach.json) |
+| SCP: Containment Breach 2 | 400576 | [400576-scp-containment-breach-2.json](./400576-scp-containment-breach-2.json) |
 | SCP: Containment Breach Mobile | 174756 | [174756-scp-containment-breach-mobile.json](./174756-scp-containment-breach-mobile.json) |
 | SCP: Containment Breach Remastered | 210866 | [210866-scp-containment-breach-remastered.json](./210866-scp-containment-breach-remastered.json) |
 | SCP: Containment Breach Ultimate Edition | 367353 | [367353-scp-containment-breach-ultimate-edition.json](./367353-scp-containment-breach-ultimate-edition.json) |
@@ -11961,6 +11963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Track | 54372 | [54372-sky-track.json](./54372-sky-track.json) |
 | Sky Trader | 29789 | [29789-sky-trader.json](./29789-sky-trader.json) |
 | Sky Traveler | 223384 | [223384-sky-traveler.json](./223384-sky-traveler.json) |
+| Sky Up | 400584 | [400584-sky-up.json](./400584-sky-up.json) |
 | Sky Utopia | 233449 | [233449-sky-utopia.json](./233449-sky-utopia.json) |
 | Sky Valley | 31947 | [31947-sky-valley.json](./31947-sky-valley.json) |
 | Sky War | 272802 | [272802-sky-war.json](./272802-sky-war.json) |
@@ -18444,6 +18447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Haste 2 | 72536 | [72536-space-haste-2.json](./72536-space-haste-2.json) |
 | Space Hat | 290685 | [290685-space-hat.json](./290685-space-hat.json) |
 | Space Hauler | 182800 | [182800-space-hauler.json](./182800-space-hauler.json) |
+| Space Hauler | 400572 | [400572-space-hauler.json](./400572-space-hauler.json) |
 | Space Hawk | 5699 | [5699-space-hawk.json](./5699-space-hawk.json) |
 | Space Hawks | 13035 | [13035-space-hawks.json](./13035-space-hawks.json) |
 | Space Hero 50 | 174569 | [174569-space-hero-50.json](./174569-space-hero-50.json) |
@@ -18475,6 +18479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -28286,6 +28291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summit of the Wolf | 119033 | [119033-summit-of-the-wolf.json](./119033-summit-of-the-wolf.json) |
 | SummitX 2 | 200267 | [200267-summitx-2.json](./200267-summitx-2.json) |
 | Summon | 263754 | [263754-summon.json](./263754-summon.json) |
+| Summon a Sweetheart | 400605 | [400605-summon-a-sweetheart.json](./400605-summon-a-sweetheart.json) |
 | Summon Elemental | 223402 | [223402-summon-elemental.json](./223402-summon-elemental.json) |
 | Summon Island: The Robot Pirate Invasion Was Today?! | 422041 | [422041-summon-island-the-robot-pirate-invasion-was-today.json](./422041-summon-island-the-robot-pirate-invasion-was-today.json) |
 | Summon Legion | 317988 | [317988-summon-legion.json](./317988-summon-legion.json) |
@@ -32566,6 +32572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SushiCat: Bento | 363948 | [363948-sushicat-bento.json](./363948-sushicat-bento.json) |
 | SushiCup Legend | 342618 | [342618-sushicup-legend.json](./342618-sushicup-legend.json) |
 | Sushido | 292381 | [292381-sushido.json](./292381-sushido.json) |
+| Sushido | 400442 | [400442-sushido.json](./400442-sushido.json) |
 | Sushido | 65303 | [65303-sushido.json](./65303-sushido.json) |
 | Sushido vs. Zombies | 76523 | [76523-sushido-vs-zombies.json](./76523-sushido-vs-zombies.json) |
 | Sushininjarobot TD | 345038 | [345038-sushininjarobot-td.json](./345038-sushininjarobot-td.json) |
