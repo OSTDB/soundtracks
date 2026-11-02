@@ -10854,6 +10854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Squares | 40607 | [40607-poker-squares.json](./40607-poker-squares.json) |
 | Poker Stacker | 78902 | [78902-poker-stacker.json](./78902-poker-stacker.json) |
 | Poker Starter Pack | 83767 | [83767-poker-starter-pack.json](./83767-poker-starter-pack.json) |
+| Poker Superstars II | 15716 | [15716-poker-superstars-ii.json](./15716-poker-superstars-ii.json) |
 | Poker Superstars III: Gold Chip Challenge | 209345 | [209345-poker-superstars-iii-gold-chip-challenge.json](./209345-poker-superstars-iii-gold-chip-challenge.json) |
 | Poker Superstars: Invitational Tournament | 61699 | [61699-poker-superstars-invitational-tournament.json](./61699-poker-superstars-invitational-tournament.json) |
 | Poker Supreme: Las Vegas | 174099 | [174099-poker-supreme-las-vegas.json](./174099-poker-supreme-las-vegas.json) |
@@ -12699,6 +12700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerCharge | 349398 | [349398-powercharge.json](./349398-powercharge.json) |
 | Powercity 9000 | 26634 | [26634-powercity-9000.json](./26634-powercity-9000.json) |
 | Powercut, Inc. | 110151 | [110151-powercut-inc.json](./110151-powercut-inc.json) |
+| Powerdrome | 15344 | [15344-powerdrome.json](./15344-powerdrome.json) |
 | Powered Platformer Bundle | 314861 | [314861-powered-platformer-bundle.json](./314861-powered-platformer-bundle.json) |
 | Powerful Courses | 371123 | [371123-powerful-courses.json](./371123-powerful-courses.json) |
 | Powerful Dabl | 271905 | [271905-powerful-dabl.json](./271905-powerful-dabl.json) |
@@ -14487,6 +14489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Adventurer | 137523 | [137523-project-adventurer.json](./137523-project-adventurer.json) |
 | Project Aeroes | 330342 | [330342-project-aeroes.json](./330342-project-aeroes.json) |
 | Project Aether: First Contact | 110732 | [110732-project-aether-first-contact.json](./110732-project-aether-first-contact.json) |
+| Project Aftermath | 15964 | [15964-project-aftermath.json](./15964-project-aftermath.json) |
 | Project Aftershock | 94753 | [94753-project-aftershock.json](./94753-project-aftershock.json) |
 | Project Agora | 140326 | [140326-project-agora.json](./140326-project-agora.json) |
 | Project Alex | 216400 | [216400-project-alex.json](./216400-project-alex.json) |
