@@ -947,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Excalibun | 348681 | [348681-tale-of-excalibun.json](./348681-tale-of-excalibun.json) |
 | Tale of Exorcists | 375313 | [375313-tale-of-exorcists.json](./375313-tale-of-exorcists.json) |
 | Tale of Fallen Dragons | 30076 | [30076-tale-of-fallen-dragons.json](./30076-tale-of-fallen-dragons.json) |
+| Tale of Fortune | 115233 | [115233-tale-of-fortune.json](./115233-tale-of-fortune.json) |
 | Tale of Honor | 274041 | [274041-tale-of-honor.json](./274041-tale-of-honor.json) |
 | Tale of Immortal Ring | 390592 | [390592-tale-of-immortal-ring.json](./390592-tale-of-immortal-ring.json) |
 | Tale of Jade Li Guang | 151740 | [151740-tale-of-jade-li-guang.json](./151740-tale-of-jade-li-guang.json) |
@@ -4003,6 +4004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenth Degree | 340980 | [340980-tenth-degree.json](./340980-tenth-degree.json) |
 | Tentis | 56894 | [56894-tentis.json](./56894-tentis.json) |
 | Tentlan | 103434 | [103434-tentlan.json](./103434-tentlan.json) |
+| Tents and Trees | 123399 | [123399-tents-and-trees.json](./123399-tents-and-trees.json) |
 | Tents and Trees | 240056 | [240056-tents-and-trees.json](./240056-tents-and-trees.json) |
 | Tenuous:City | 230340 | [230340-tenuous-city.json](./230340-tenuous-city.json) |
 | Tenvi | 166031 | [166031-tenvi.json](./166031-tenvi.json) |
@@ -4339,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrianis | 269759 | [269759-terrianis.json](./269759-terrianis.json) |
 | Terrible Beast from the East | 111602 | [111602-terrible-beast-from-the-east.json](./111602-terrible-beast-from-the-east.json) |
 | Terrible Clicking Game | 215391 | [215391-terrible-clicking-game.json](./215391-terrible-clicking-game.json) |
+| Terrible Laboratory | 113862 | [113862-terrible-laboratory.json](./113862-terrible-laboratory.json) |
 | Terrible Life Expectancy | 352386 | [352386-terrible-life-expectancy.json](./352386-terrible-life-expectancy.json) |
 | Terrible Lizards | 296564 | [296564-terrible-lizards.json](./296564-terrible-lizards.json) |
 | Terrible Teeth | 167156 | [167156-terrible-teeth.json](./167156-terrible-teeth.json) |
@@ -4753,6 +4756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetron | 153411 | [153411-tetron.json](./153411-tetron.json) |
 | Tetroon | 234594 | [234594-tetroon.json](./234594-tetroon.json) |
 | TetrotronVR | 114971 | [114971-tetrotronvr.json](./114971-tetrotronvr.json) |
+| Tetrux: Online | 114172 | [114172-tetrux-online.json](./114172-tetrux-online.json) |
 | Tetrx 360: Eons of Time | 385994 | [385994-tetrx-360-eons-of-time.json](./385994-tetrx-360-eons-of-time.json) |
 | Tetsu 1: Densha de Battle! | 265849 | [265849-tetsu-1-densha-de-battle.json](./265849-tetsu-1-densha-de-battle.json) |
 | Tetsu-pipe de Suika-wari | 220315 | [220315-tetsu-pipe-de-suika-wari.json](./220315-tetsu-pipe-de-suika-wari.json) |
@@ -8946,6 +8950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The first thrust of God | 81917 | [81917-the-first-thrust-of-god.json](./81917-the-first-thrust-of-god.json) |
 | The First Time I Died | 43071 | [43071-the-first-time-i-died.json](./43071-the-first-time-i-died.json) |
 | The first titans | 161398 | [161398-the-first-titans.json](./161398-the-first-titans.json) |
+| The First Track | 114056 | [114056-the-first-track.json](./114056-the-first-track.json) |
 | The First Tree | 20909 | [20909-the-first-tree.json](./20909-the-first-tree.json) |
 | The Fish | 213777 | [213777-the-fish.json](./213777-the-fish.json) |
 | The Fish and the Furious | 132826 | [132826-the-fish-and-the-furious.json](./132826-the-fish-and-the-furious.json) |
@@ -14101,6 +14106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Powerpuff Girls: Monkey Mania | 309101 | [309101-the-powerpuff-girls-monkey-mania.json](./309101-the-powerpuff-girls-monkey-mania.json) |
 | The Powerpuff Girls: Princess Snorebucks | 59381 | [59381-the-powerpuff-girls-princess-snorebucks.json](./59381-the-powerpuff-girls-princess-snorebucks.json) |
 | The PowerPuff Girls: Relish Rampage | 19415 | [19415-the-powerpuff-girls-relish-rampage.json](./19415-the-powerpuff-girls-relish-rampage.json) |
+| The Powerpuff Girls: Relish Rampage - Pickled Edition | 122540 | [122540-the-powerpuff-girls-relish-rampage-pickled-edition.json](./122540-the-powerpuff-girls-relish-rampage-pickled-edition.json) |
 | The Prabbits: Happy Dogfights | 139298 | [139298-the-prabbits-happy-dogfights.json](./139298-the-prabbits-happy-dogfights.json) |
 | The Predecessor | 382584 | [382584-the-predecessor.json](./382584-the-predecessor.json) |
 | The Premiership | 71787 | [71787-the-premiership.json](./71787-the-premiership.json) |
@@ -14674,6 +14680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rising of the Follower | 181700 | [181700-the-rising-of-the-follower.json](./181700-the-rising-of-the-follower.json) |
 | The Rising of the Rose Ocelot | 82000 | [82000-the-rising-of-the-rose-ocelot.json](./82000-the-rising-of-the-rose-ocelot.json) |
 | The Rising of the Shield Hero | 175020 | [175020-the-rising-of-the-shield-hero.json](./175020-the-rising-of-the-shield-hero.json) |
+| The Rising of the Shield Hero: Relive the Animation | 122609 | [122609-the-rising-of-the-shield-hero-relive-the-animation.json](./122609-the-rising-of-the-shield-hero-relive-the-animation.json) |
 | The Rite of Ammon | 177306 | [177306-the-rite-of-ammon.json](./177306-the-rite-of-ammon.json) |
 | The Rite of Lilium | 386786 | [386786-the-rite-of-lilium.json](./386786-the-rite-of-lilium.json) |
 | The Ritual | 118327 | [118327-the-ritual.json](./118327-the-ritual.json) |
@@ -17726,6 +17733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wiki Game | 130699 | [130699-the-wiki-game.json](./130699-the-wiki-game.json) |
 | The Wild | 49282 | [49282-the-wild.json](./49282-the-wild.json) |
 | The Wild | 64971 | [64971-the-wild.json](./64971-the-wild.json) |
+| The Wild Age | 114054 | [114054-the-wild-age.json](./114054-the-wild-age.json) |
 | The Wild Case | 126639 | [126639-the-wild-case.json](./126639-the-wild-case.json) |
 | The Wild Darkness | 212474 | [212474-the-wild-darkness.json](./212474-the-wild-darkness.json) |
 | The Wild Eight | 17479 | [17479-the-wild-eight.json](./17479-the-wild-eight.json) |
@@ -22038,6 +22046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Shop | 365094 | [365094-tiny-shop.json](./365094-tiny-shop.json) |
 | Tiny Sim | 181223 | [181223-tiny-sim.json](./181223-tiny-sim.json) |
 | Tiny Ski | 296321 | [296321-tiny-ski.json](./296321-tiny-ski.json) |
+| Tiny Snow | 115330 | [115330-tiny-snow.json](./115330-tiny-snow.json) |
 | Tiny Sokoban | 228391 | [228391-tiny-sokoban.json](./228391-tiny-sokoban.json) |
 | Tiny Solar System | 221150 | [221150-tiny-solar-system.json](./221150-tiny-solar-system.json) |
 | Tiny Space Program | 174525 | [174525-tiny-space-program.json](./174525-tiny-space-program.json) |
@@ -22759,6 +22768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toddler Games: puzzles, shapes | 103747 | [103747-toddler-games-puzzles-shapes.json](./103747-toddler-games-puzzles-shapes.json) |
 | Toddler Learning Game-EduKitty | 86788 | [86788-toddler-learning-game-edukitty.json](./86788-toddler-learning-game-edukitty.json) |
 | Toddler Racing Car Game for Kids. | 100985 | [100985-toddler-racing-car-game-for-kids.json](./100985-toddler-racing-car-game-for-kids.json) |
+| Toddler Shooter | 114347 | [114347-toddler-shooter.json](./114347-toddler-shooter.json) |
 | Toddler Simulator | 86482 | [86482-toddler-simulator.json](./86482-toddler-simulator.json) |
 | Toddler Tech Laptop | 333374 | [333374-toddler-tech-laptop.json](./333374-toddler-tech-laptop.json) |
 | Toddler Trainer - Counting Toys Pro | 87316 | [87316-toddler-trainer-counting-toys-pro.json](./87316-toddler-trainer-counting-toys-pro.json) |
@@ -27843,6 +27853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transfusion | 356761 | [356761-transfusion.json](./356761-transfusion.json) |
 | TransGenDeer | 327847 | [327847-transgendeer.json](./327847-transgendeer.json) |
 | Transgression | 93511 | [93511-transgression.json](./93511-transgression.json) |
+| Transhaping | 115265 | [115265-transhaping.json](./115265-transhaping.json) |
 | Transience | 229004 | [229004-transience.json](./229004-transience.json) |
 | Transient | 119163 | [119163-transient.json](./119163-transient.json) |
 | Transient | 184318 | [184318-transient.json](./184318-transient.json) |
@@ -27904,6 +27915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transport INC | 118521 | [118521-transport-inc.json](./118521-transport-inc.json) |
 | Transport INC: Map Pack | 226895 | [226895-transport-inc-map-pack.json](./226895-transport-inc-map-pack.json) |
 | Transport Legion | 372517 | [372517-transport-legion.json](./372517-transport-legion.json) |
+| Transport Services | 114072 | [114072-transport-services.json](./114072-transport-services.json) |
 | Transport Tycoon | 5504 | [5504-transport-tycoon.json](./5504-transport-tycoon.json) |
 | Transport Tycoon | 5505 | [5505-transport-tycoon.json](./5505-transport-tycoon.json) |
 | Transport Tycoon Deluxe | 5502 | [5502-transport-tycoon-deluxe.json](./5502-transport-tycoon-deluxe.json) |
