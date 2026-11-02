@@ -14691,6 +14691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ripping Friends: The World's Most Manly Men! | 49179 | [49179-the-ripping-friends-the-worlds-most-manly-men.json](./49179-the-ripping-friends-the-worlds-most-manly-men.json) |
 | The Rise | 289958 | [289958-the-rise.json](./289958-the-rise.json) |
 | The Rise and Fall of Odysseus Kent | 218992 | [218992-the-rise-and-fall-of-odysseus-kent.json](./218992-the-rise-and-fall-of-odysseus-kent.json) |
+| The Rise of Captain Longbeard | 31158 | [31158-the-rise-of-captain-longbeard.json](./31158-the-rise-of-captain-longbeard.json) |
 | The Rise of Chubtan | 34631 | [34631-the-rise-of-chubtan.json](./34631-the-rise-of-chubtan.json) |
 | The Rise of the Dough | 301901 | [301901-the-rise-of-the-dough.json](./301901-the-rise-of-the-dough.json) |
 | The Rise of the Golden Idol | 279614 | [279614-the-rise-of-the-golden-idol.json](./279614-the-rise-of-the-golden-idol.json) |
@@ -18773,6 +18774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirty Monsters Challenge | 260506 | [260506-thirty-monsters-challenge.json](./260506-thirty-monsters-challenge.json) |
 | Thirty Monsters Challenge 2: Thirty Aliens | 313964 | [313964-thirty-monsters-challenge-2-thirty-aliens.json](./313964-thirty-monsters-challenge-2-thirty-aliens.json) |
 | Thirty One Rummy | 87545 | [87545-thirty-one-rummy.json](./87545-thirty-one-rummy.json) |
+| Thirty Years' War | 32550 | [32550-thirty-years-war.json](./32550-thirty-years-war.json) |
 | This & Cats | 189330 | [189330-this-and-cats.json](./189330-this-and-cats.json) |
 | This Ain't A Normal Game | 177206 | [177206-this-aint-a-normal-game.json](./177206-this-aint-a-normal-game.json) |
 | This Ain’t Even Poker, Ya Joker | 374650 | [374650-this-ain-t-even-poker-ya-joker.json](./374650-this-ain-t-even-poker-ya-joker.json) |
@@ -23953,6 +23955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Fighter 2000 | 45590 | [45590-top-fighter-2000.json](./45590-top-fighter-2000.json) |
 | Top Fighter 2000 MK VIII | 45752 | [45752-top-fighter-2000-mk-viii.json](./45752-top-fighter-2000-mk-viii.json) |
 | Top Flight Turtle | 234171 | [234171-top-flight-turtle.json](./234171-top-flight-turtle.json) |
+| Top Floor | 31161 | [31161-top-floor.json](./31161-top-floor.json) |
 | Top Gear | 27461 | [27461-top-gear.json](./27461-top-gear.json) |
 | Top Gear 2 | 13057 | [13057-top-gear-2.json](./13057-top-gear-2.json) |
 | Top Gear 3000 | 46007 | [46007-top-gear-3000.json](./46007-top-gear-3000.json) |
@@ -24235,6 +24238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornado! | 118297 | [118297-tornado.json](./118297-tornado.json) |
 | Tornado.io | 106525 | [106525-tornado-io.json](./106525-tornado-io.json) |
 | Tornblade | 386880 | [386880-tornblade.json](./386880-tornblade.json) |
+| Tornuffalo | 31156 | [31156-tornuffalo.json](./31156-tornuffalo.json) |
 | Tornuffalo: Full-Body Action with Vive Trackers | 170191 | [170191-tornuffalo-full-body-action-with-vive-trackers.json](./170191-tornuffalo-full-body-action-with-vive-trackers.json) |
 | Tornuktu | 191554 | [191554-tornuktu.json](./191554-tornuktu.json) |
 | Toro | 34099 | [34099-toro.json](./34099-toro.json) |
@@ -29405,6 +29409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Fish | 145178 | [145178-tropical-fish.json](./145178-tropical-fish.json) |
 | Tropical Fish Shop 2 | 33298 | [33298-tropical-fish-shop-2.json](./33298-tropical-fish-shop-2.json) |
 | Tropical Fish Shop: Annabel's Adventure | 100521 | [100521-tropical-fish-shop-annabels-adventure.json](./100521-tropical-fish-shop-annabels-adventure.json) |
+| Tropical Girls VR | 31152 | [31152-tropical-girls-vr.json](./31152-tropical-girls-vr.json) |
 | Tropical Hearts | 226444 | [226444-tropical-hearts.json](./226444-tropical-hearts.json) |
 | Tropical Heat Jet Ski Racing | 63155 | [63155-tropical-heat-jet-ski-racing.json](./63155-tropical-heat-jet-ski-racing.json) |
 | Tropical Liquor | 87764 | [87764-tropical-liquor.json](./87764-tropical-liquor.json) |
