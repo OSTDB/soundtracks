@@ -4606,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KO Chaos | 285456 | [285456-ko-chaos.json](./285456-ko-chaos.json) |
 | Ko Ima ni Ari | 357166 | [357166-ko-ima-ni-ari.json](./357166-ko-ima-ni-ari.json) |
 | KO Legends | 239475 | [239475-ko-legends.json](./239475-ko-legends.json) |
+| KO Mech | 56667 | [56667-ko-mech.json](./56667-ko-mech.json) |
 | KO Punch | 62795 | [62795-ko-punch.json](./62795-ko-punch.json) |
 | KO Seiki Beast Sanjuushi | 108922 | [108922-ko-seiki-beast-sanjuushi.json](./108922-ko-seiki-beast-sanjuushi.json) |
 | Koa and the Five Pirates of Mara | 197486 | [197486-koa-and-the-five-pirates-of-mara.json](./197486-koa-and-the-five-pirates-of-mara.json) |
