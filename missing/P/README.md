@@ -2822,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Gallowspire Survivors | 252859 | [252859-pathfinder-gallowspire-survivors.json](./252859-pathfinder-gallowspire-survivors.json) |
 | Pathfinder: Kingmaker | 36929 | [36929-pathfinder-kingmaker.json](./36929-pathfinder-kingmaker.json) |
 | Pathfinder: Kingmaker - Beneath the Stolen Lands | 124975 | [124975-pathfinder-kingmaker-beneath-the-stolen-lands.json](./124975-pathfinder-kingmaker-beneath-the-stolen-lands.json) |
+| Pathfinder: Kingmaker - Definitive Edition | 134568 | [134568-pathfinder-kingmaker-definitive-edition.json](./134568-pathfinder-kingmaker-definitive-edition.json) |
 | Pathfinder: Kingmaker - Enhanced Plus Edition | 154530 | [154530-pathfinder-kingmaker-enhanced-plus-edition.json](./154530-pathfinder-kingmaker-enhanced-plus-edition.json) |
 | Pathfinder: Kingmaker - Imperial Edition | 124981 | [124981-pathfinder-kingmaker-imperial-edition.json](./124981-pathfinder-kingmaker-imperial-edition.json) |
 | Pathfinder: Kingmaker - Royal Ascension | 134569 | [134569-pathfinder-kingmaker-royal-ascension.json](./134569-pathfinder-kingmaker-royal-ascension.json) |
@@ -3450,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaks of Yore: The Great Alps | 321208 | [321208-peaks-of-yore-the-great-alps.json](./321208-peaks-of-yore-the-great-alps.json) |
 | peakvox Escape Virus HD | 31406 | [31406-peakvox-escape-virus-hd.json](./31406-peakvox-escape-virus-hd.json) |
 | Peaky Blinders VR | 117742 | [117742-peaky-blinders-vr.json](./117742-peaky-blinders-vr.json) |
+| Peaky Blinders: Mastermind | 132634 | [132634-peaky-blinders-mastermind.json](./132634-peaky-blinders-mastermind.json) |
 | Peaky Blinders: The King's Ransom | 211902 | [211902-peaky-blinders-the-kings-ransom.json](./211902-peaky-blinders-the-kings-ransom.json) |
 | Peaky Circus | 211819 | [211819-peaky-circus.json](./211819-peaky-circus.json) |
 | Peanut Butter Jelly Wars | 253874 | [253874-peanut-butter-jelly-wars.json](./253874-peanut-butter-jelly-wars.json) |
@@ -14331,6 +14333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Layton vs. Phoenix Wright: Ace Attorney | 1402 | [1402-professor-layton-vs-phoenix-wright-ace-attorney.json](./1402-professor-layton-vs-phoenix-wright-ace-attorney.json) |
 | Professor Li's Answer-Question | 105084 | [105084-professor-lis-answer-question.json](./105084-professor-lis-answer-question.json) |
 | Professor Lupo and his Horrible Pets | 76032 | [76032-professor-lupo-and-his-horrible-pets.json](./76032-professor-lupo-and-his-horrible-pets.json) |
+| Professor Lupo: Ocean | 133081 | [133081-professor-lupo-ocean.json](./133081-professor-lupo-ocean.json) |
 | Professor Madhouse | 98732 | [98732-professor-madhouse.json](./98732-professor-madhouse.json) |
 | Professor Neely and the Death Ray of Doom | 171532 | [171532-professor-neely-and-the-death-ray-of-doom.json](./171532-professor-neely-and-the-death-ray-of-doom.json) |
 | Professor Neumann's Adult Certification Test | 409548 | [409548-professor-neumanns-adult-certification-test.json](./409548-professor-neumanns-adult-certification-test.json) |
@@ -16349,6 +16352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Bounce! | 108728 | [108728-puppy-bounce.json](./108728-puppy-bounce.json) |
 | Puppy Cars: Games for Kids Edition, Animal adventure | 309039 | [309039-puppy-cars-games-for-kids-edition-animal-adventure.json](./309039-puppy-cars-games-for-kids-edition-animal-adventure.json) |
 | Puppy Chef Academy | 107790 | [107790-puppy-chef-academy.json](./107790-puppy-chef-academy.json) |
+| Puppy Cross | 129328 | [129328-puppy-cross.json](./129328-puppy-cross.json) |
 | Puppy Cross: Kitty Cross | 170875 | [170875-puppy-cross-kitty-cross.json](./170875-puppy-cross-kitty-cross.json) |
 | Puppy Dentist | 106357 | [106357-puppy-dentist.json](./106357-puppy-dentist.json) |
 | Puppy Dog Pop: Bubble Shoot Mania | 166294 | [166294-puppy-dog-pop-bubble-shoot-mania.json](./166294-puppy-dog-pop-bubble-shoot-mania.json) |
