@@ -5177,6 +5177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hero | 395777 | [395777-deer-hero.json](./395777-deer-hero.json) |
 | Deer Hunt | 271073 | [271073-deer-hunt.json](./271073-deer-hunt.json) |
 | Deer Hunt Challenge | 78044 | [78044-deer-hunt-challenge.json](./78044-deer-hunt-challenge.json) |
+| Deer Hunt Legends | 17940 | [17940-deer-hunt-legends.json](./17940-deer-hunt-legends.json) |
 | Deer Hunter | 206345 | [206345-deer-hunter.json](./206345-deer-hunter.json) |
 | Deer Hunter | 49896 | [49896-deer-hunter.json](./49896-deer-hunter.json) |
 | Deer Hunter - Big Buck Hunter | 101470 | [101470-deer-hunter-big-buck-hunter.json](./101470-deer-hunter-big-buck-hunter.json) |
