@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaboom! | 234092 | [234092-kaboom.json](./234092-kaboom.json) |
 | KaBoom! | 211555 | [211555-kaboom.json](./211555-kaboom.json) |
 | Kaboom!: The Mad Doctor's Revenge | 214889 | [214889-kaboom-the-mad-doctors-revenge.json](./214889-kaboom-the-mad-doctors-revenge.json) |
+| Kabounce | 33812 | [33812-kabounce.json](./33812-kabounce.json) |
 | Kabu Trader Shun | 123337 | [123337-kabu-trader-shun.json](./123337-kabu-trader-shun.json) |
 | Kabufuda | 276871 | [276871-kabufuda.json](./276871-kabufuda.json) |
 | Kabuki Fire | 352322 | [352322-kabuki-fire.json](./352322-kabuki-fire.json) |
@@ -3348,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdomino | 338728 | [338728-kingdomino.json](./338728-kingdomino.json) |
 | Kingdomonium | 157975 | [157975-kingdomonium.json](./157975-kingdomonium.json) |
 | Kingdoms | 259165 | [259165-kingdoms.json](./259165-kingdoms.json) |
+| Kingdoms | 34284 | [34284-kingdoms.json](./34284-kingdoms.json) |
 | Kingdoms and Castles | 26651 | [26651-kingdoms-and-castles.json](./26651-kingdoms-and-castles.json) |
 | Kingdoms and Slaves | 201713 | [201713-kingdoms-and-slaves.json](./201713-kingdoms-and-slaves.json) |
 | Kingdoms at War | 61455 | [61455-kingdoms-at-war.json](./61455-kingdoms-at-war.json) |
