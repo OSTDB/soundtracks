@@ -10303,6 +10303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunless | 84262 | [84262-gunless.json](./84262-gunless.json) |
 | Gunlimb | 80115 | [80115-gunlimb.json](./80115-gunlimb.json) |
 | GunLives Shooting | 241808 | [241808-gunlives-shooting.json](./241808-gunlives-shooting.json) |
+| Gunlock | 75794 | [75794-gunlock.json](./75794-gunlock.json) |
 | Gunlocked | 199248 | [199248-gunlocked.json](./199248-gunlocked.json) |
 | Gunlocked 2 | 334208 | [334208-gunlocked-2.json](./334208-gunlocked-2.json) |
 | Gunlocked: The 2nd Gunning | 238464 | [238464-gunlocked-the-2nd-gunning.json](./238464-gunlocked-the-2nd-gunning.json) |
