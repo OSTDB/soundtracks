@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallacy of Dawn | 57613 | [57613-fallacy-of-dawn.json](./57613-fallacy-of-dawn.json) |
 | Fallacy Quiz | 291432 | [291432-fallacy-quiz.json](./291432-fallacy-quiz.json) |
 | Fallalypse: Death or Cress | 84053 | [84053-fallalypse-death-or-cress.json](./84053-fallalypse-death-or-cress.json) |
+| Fallback | 102397 | [102397-fallback.json](./102397-fallback.json) |
 | Fallback! | 270135 | [270135-fallback.json](./270135-fallback.json) |
 | Fallcone | 219924 | [219924-fallcone.json](./219924-fallcone.json) |
 | FallDawn | 376671 | [376671-falldawn.json](./376671-falldawn.json) |
@@ -3871,6 +3872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIA European Truck Racing Championship | 117855 | [117855-fia-european-truck-racing-championship.json](./117855-fia-european-truck-racing-championship.json) |
 | Fianna | 410425 | [410425-fianna.json](./410425-fianna.json) |
 | Fiasco Restoration and Repair | 193096 | [193096-fiasco-restoration-and-repair.json](./193096-fiasco-restoration-and-repair.json) |
+| Fibbage | 7782 | [7782-fibbage.json](./7782-fibbage.json) |
 | Fibbage XL | 33374 | [33374-fibbage-xl.json](./33374-fibbage-xl.json) |
 | Fibber Kit | 122833 | [122833-fibber-kit.json](./122833-fibber-kit.json) |
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
@@ -10352,6 +10354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Realms: Season 1 | 385972 | [385972-fractured-realms-season-1.json](./385972-fractured-realms-season-1.json) |
 | Fractured Sanity | 199303 | [199303-fractured-sanity.json](./199303-fractured-sanity.json) |
 | Fractured Skyline | 116426 | [116426-fractured-skyline.json](./116426-fractured-skyline.json) |
+| Fractured Soul | 8261 | [8261-fractured-soul.json](./8261-fractured-soul.json) |
 | Fractured Space | 9815 | [9815-fractured-space.json](./9815-fractured-space.json) |
 | Fractured Space: Fleet Pack - All Current and Future Ships | 170693 | [170693-fractured-space-fleet-pack-all-current-and-future-ships.json](./170693-fractured-space-fleet-pack-all-current-and-future-ships.json) |
 | Fractured Universe | 405341 | [405341-fractured-universe.json](./405341-fractured-universe.json) |
