@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4705,6 +4706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BearPit | 338719 | [338719-bearpit.json](./338719-bearpit.json) |
 | Bearricade | 327199 | [327199-bearricade.json](./327199-bearricade.json) |
 | Bears Can't Drift!? | 20324 | [20324-bears-cant-drift.json](./20324-bears-cant-drift.json) |
+| Bears In Space | 158064 | [158064-bears-in-space.json](./158064-bears-in-space.json) |
 | Bears in Tanks | 115390 | [115390-bears-in-tanks.json](./115390-bears-in-tanks.json) |
 | Bears vs. Art | 251024 | [251024-bears-vs-art.json](./251024-bears-vs-art.json) |
 | Bearskull | 243039 | [243039-bearskull.json](./243039-bearskull.json) |
@@ -10947,6 +10949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Reflection Sun | 396235 | [396235-blue-reflection-sun.json](./396235-blue-reflection-sun.json) |
 | Blue Reflection: Final Fantasy XV Costumes | 396396 | [396396-blue-reflection-final-fantasy-xv-costumes.json](./396396-blue-reflection-final-fantasy-xv-costumes.json) |
 | Blue Reflection: Premium Box | 167079 | [167079-blue-reflection-premium-box.json](./167079-blue-reflection-premium-box.json) |
+| Blue Reflection: Second Light | 154784 | [154784-blue-reflection-second-light.json](./154784-blue-reflection-second-light.json) |
 | Blue Reflection: Second Light | 396237 | [396237-blue-reflection-second-light.json](./396237-blue-reflection-second-light.json) |
 | Blue Reflection: Second Light - Premium Box | 155073 | [155073-blue-reflection-second-light-premium-box.json](./155073-blue-reflection-second-light-premium-box.json) |
 | Blue Reflection: Second Light - Season Pass | 396336 | [396336-blue-reflection-second-light-season-pass.json](./396336-blue-reflection-second-light-season-pass.json) |
@@ -12194,6 +12197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Spells | 303357 | [303357-book-of-spells.json](./303357-book-of-spells.json) |
 | Book of the Abyss | 392319 | [392319-book-of-the-abyss.json](./392319-book-of-the-abyss.json) |
 | Book of the Dead | 13423 | [13423-book-of-the-dead.json](./13423-book-of-the-dead.json) |
+| Book of Travels | 122406 | [122406-book-of-travels.json](./122406-book-of-travels.json) |
 | Book of Yog | 126520 | [126520-book-of-yog.json](./126520-book-of-yog.json) |
 | Book Organizer | 405095 | [405095-book-organizer.json](./405095-book-organizer.json) |
 | Book Recommendations | 207223 | [207223-book-recommendations.json](./207223-book-recommendations.json) |
@@ -16311,6 +16315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bungo Bash | 377332 | [377332-bungo-bash.json](./377332-bungo-bash.json) |
 | Bungo Stray Dogs: Tales of the Lost | 105830 | [105830-bungo-stray-dogs-tales-of-the-lost.json](./105830-bungo-stray-dogs-tales-of-the-lost.json) |
 | Bungo to Alchemist | 314458 | [314458-bungo-to-alchemist.json](./314458-bungo-to-alchemist.json) |
+| Bunhouse | 158334 | [158334-bunhouse.json](./158334-bunhouse.json) |
 | BuniBon | 315238 | [315238-bunibon.json](./315238-bunibon.json) |
 | BuniBon 2 | 315239 | [315239-bunibon-2.json](./315239-bunibon-2.json) |
 | Bunk.Town | 185446 | [185446-bunk-town.json](./185446-bunk-town.json) |
