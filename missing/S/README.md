@@ -11979,6 +11979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyNuggets | 304553 | [304553-skynuggets.json](./304553-skynuggets.json) |
 | SkyOfSteel | 177017 | [177017-skyofsteel.json](./177017-skyofsteel.json) |
 | Skyous | 123767 | [123767-skyous.json](./123767-skyous.json) |
+| Skypeace | 85375 | [85375-skypeace.json](./85375-skypeace.json) |
 | Skypop Scramble | 323750 | [323750-skypop-scramble.json](./323750-skypop-scramble.json) |
 | Skyraid | 200845 | [200845-skyraid.json](./200845-skyraid.json) |
 | Skyraine | 53616 | [53616-skyraine.json](./53616-skyraine.json) |
@@ -22881,6 +22882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Outlaws: Ultimate Edition | 299475 | [299475-star-wars-outlaws-ultimate-edition.json](./299475-star-wars-outlaws-ultimate-edition.json) |
 | Star Wars Outlaws: Wild Card | 315804 | [315804-star-wars-outlaws-wild-card.json](./315804-star-wars-outlaws-wild-card.json) |
 | Star Wars Pinball | 136076 | [136076-star-wars-pinball.json](./136076-star-wars-pinball.json) |
+| Star Wars Pinball | 86260 | [86260-star-wars-pinball.json](./86260-star-wars-pinball.json) |
 | Star Wars Pinball Season 1 Bundle | 99757 | [99757-star-wars-pinball-season-1-bundle.json](./99757-star-wars-pinball-season-1-bundle.json) |
 | Star Wars Pinball VR | 146363 | [146363-star-wars-pinball-vr.json](./146363-star-wars-pinball-vr.json) |
 | Star Wars Pinball: The Empire Strikes Back | 22196 | [22196-star-wars-pinball-the-empire-strikes-back.json](./22196-star-wars-pinball-the-empire-strikes-back.json) |
@@ -30205,6 +30207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Off Road | 365894 | [365894-super-off-road.json](./365894-super-off-road.json) |
 | Super Off Road Track Pack | 245280 | [245280-super-off-road-track-pack.json](./245280-super-off-road-track-pack.json) |
 | Super Off Road: The Baja | 42575 | [42575-super-off-road-the-baja.json](./42575-super-off-road-the-baja.json) |
+| Super One More Jump | 83730 | [83730-super-one-more-jump.json](./83730-super-one-more-jump.json) |
 | Super Onion Boy+ | 292476 | [292476-super-onion-boy.json](./292476-super-onion-boy.json) |
 | Super Orb Bros. | 142396 | [142396-super-orb-bros.json](./142396-super-orb-bros.json) |
 | Super Orbit | 344563 | [344563-super-orbit.json](./344563-super-orbit.json) |
