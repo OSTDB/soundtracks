@@ -7188,6 +7188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Caribbean: The Legend of Jack Sparrow | 23138 | [23138-pirates-of-the-caribbean-the-legend-of-jack-sparrow.json](./23138-pirates-of-the-caribbean-the-legend-of-jack-sparrow.json) |
 | Pirates of the Caribbean: Tides of War | 97500 | [97500-pirates-of-the-caribbean-tides-of-war.json](./97500-pirates-of-the-caribbean-tides-of-war.json) |
 | Pirates of the Maverta | 187731 | [187731-pirates-of-the-maverta.json](./187731-pirates-of-the-maverta.json) |
+| Pirates of the Polygon Sea | 32562 | [32562-pirates-of-the-polygon-sea.json](./32562-pirates-of-the-polygon-sea.json) |
 | Pirates of the Sea | 165770 | [165770-pirates-of-the-sea.json](./165770-pirates-of-the-sea.json) |
 | Pirates of Treasure Island | 73436 | [73436-pirates-of-treasure-island.json](./73436-pirates-of-treasure-island.json) |
 | Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
@@ -8747,6 +8748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetfall | 12620 | [12620-planetfall.json](./12620-planetfall.json) |
 | Planetfall | 262513 | [262513-planetfall.json](./262513-planetfall.json) |
 | Planetfall Conquerors | 404534 | [404534-planetfall-conquerors.json](./404534-planetfall-conquerors.json) |
+| PlanetFate | 32513 | [32513-planetfate.json](./32513-planetfate.json) |
 | PlanetForge Protocol | 404360 | [404360-planetforge-protocol.json](./404360-planetforge-protocol.json) |
 | PlanetFriend | 133879 | [133879-planetfriend.json](./133879-planetfriend.json) |
 | Planetgore | 255139 | [255139-planetgore.json](./255139-planetgore.json) |
