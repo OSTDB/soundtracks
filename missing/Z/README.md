@@ -2024,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone of the Enders HD Collection | 24230 | [24230-zone-of-the-enders-hd-collection.json](./24230-zone-of-the-enders-hd-collection.json) |
 | Zone of the Enders HD Collection: Limited Collector's Edition | 44659 | [44659-zone-of-the-enders-hd-collection-limited-collectors-edition.json](./44659-zone-of-the-enders-hd-collection-limited-collectors-edition.json) |
 | Zone of the Enders: The 2nd Runner - Special Edition | 258844 | [258844-zone-of-the-enders-the-2nd-runner-special-edition.json](./258844-zone-of-the-enders-the-2nd-runner-special-edition.json) |
+| Zone of The Enders: The 2nd Runner Mars | 68284 | [68284-zone-of-the-enders-the-2nd-runner-mars.json](./68284-zone-of-the-enders-the-2nd-runner-mars.json) |
 | Zone of the Enders: The Fist of Mars | 1474 | [1474-zone-of-the-enders-the-fist-of-mars.json](./1474-zone-of-the-enders-the-fist-of-mars.json) |
 | Zone Raiders | 2198 | [2198-zone-raiders.json](./2198-zone-raiders.json) |
 | Zone Ranger | 12974 | [12974-zone-ranger.json](./12974-zone-ranger.json) |
