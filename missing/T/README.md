@@ -18359,6 +18359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These Thieving Hearts | 289966 | [289966-these-thieving-hearts.json](./289966-these-thieving-hearts.json) |
 | Theseis | 92339 | [92339-theseis.json](./92339-theseis.json) |
 | Theseus | 139912 | [139912-theseus.json](./139912-theseus.json) |
+| Theseus | 27216 | [27216-theseus.json](./27216-theseus.json) |
 | Theseus and the Minotaur | 24904 | [24904-theseus-and-the-minotaur.json](./24904-theseus-and-the-minotaur.json) |
 | Theseus Protocol | 216694 | [216694-theseus-protocol.json](./216694-theseus-protocol.json) |
 | Theseus: Journey to Athens | 114092 | [114092-theseus-journey-to-athens.json](./114092-theseus-journey-to-athens.json) |
@@ -24820,6 +24821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Saikotan: Servants of Harvest Wish | 246678 | [246678-touhou-saikotan-servants-of-harvest-wish.json](./246678-touhou-saikotan-servants-of-harvest-wish.json) |
 | Touhou Seicross | 204492 | [204492-touhou-seicross.json](./204492-touhou-seicross.json) |
 | Touhou Seikaen: Blue devil in the Belvedere | 148365 | [148365-touhou-seikaen-blue-devil-in-the-belvedere.json](./148365-touhou-seikaen-blue-devil-in-the-belvedere.json) |
+| Touhou Seirensen: Undefined Fantastic Object | 27163 | [27163-touhou-seirensen-undefined-fantastic-object.json](./27163-touhou-seirensen-undefined-fantastic-object.json) |
 | Touhou Seisenei: Forlorn Souls of Wicked Past | 316659 | [316659-touhou-seisenei-forlorn-souls-of-wicked-past.json](./316659-touhou-seisenei-forlorn-souls-of-wicked-past.json) |
 | Touhou Shifuujou: The Alternative Age | 283830 | [283830-touhou-shifuujou-the-alternative-age.json](./283830-touhou-shifuujou-the-alternative-age.json) |
 | Touhou Shinjutou: Hollow Song of Birds | 196269 | [196269-touhou-shinjutou-hollow-song-of-birds.json](./196269-touhou-shinjutou-hollow-song-of-birds.json) |
@@ -30490,6 +30492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tut's Tomb | 282107 | [282107-tuts-tomb.json](./282107-tuts-tomb.json) |
 | Tutankham | 218928 | [218928-tutankham.json](./218928-tutankham.json) |
 | Tutankham | 385836 | [385836-tutankham.json](./385836-tutankham.json) |
+| Tutankham | 5701 | [5701-tutankham.json](./5701-tutankham.json) |
 | Tutankhamun: Builders of the Eternal | 378360 | [378360-tutankhamun-builders-of-the-eternal.json](./378360-tutankhamun-builders-of-the-eternal.json) |
 | Tutel Quest | 291168 | [291168-tutel-quest.json](./291168-tutel-quest.json) |
 | Tutelary | 246371 | [246371-tutelary.json](./246371-tutelary.json) |
