@@ -4001,6 +4001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catarsis: Catventure | 295259 | [295259-catarsis-catventure.json](./295259-catarsis-catventure.json) |
 | Catass | 254758 | [254758-catass.json](./254758-catass.json) |
 | Catast | 274548 | [274548-catast.json](./274548-catast.json) |
+| Catastrofia | 425210 | [425210-catastrofia.json](./425210-catastrofia.json) |
 | Catastronauts | 96322 | [96322-catastronauts.json](./96322-catastronauts.json) |
 | Catastrophe | 203935 | [203935-catastrophe.json](./203935-catastrophe.json) |
 | Catastrophe | 380059 | [380059-catastrophe.json](./380059-catastrophe.json) |
@@ -6045,6 +6046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CheeseCube | 156317 | [156317-cheesecube.json](./156317-cheesecube.json) |
 | Cheeseland Mistery | 384176 | [384176-cheeseland-mistery.json](./384176-cheeseland-mistery.json) |
 | CheeseLords | 378440 | [378440-cheeselords.json](./378440-cheeselords.json) |
+| Cheeseonomics Deluxe | 425183 | [425183-cheeseonomics-deluxe.json](./425183-cheeseonomics-deluxe.json) |
 | Cheesequest | 213022 | [213022-cheesequest.json](./213022-cheesequest.json) |
 | Cheesey Sponge | 207909 | [207909-cheesey-sponge.json](./207909-cheesey-sponge.json) |
 | Cheestrek | 313062 | [313062-cheestrek.json](./313062-cheestrek.json) |
@@ -10480,6 +10482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: Realize ~Future Blessings~ Day One Edition | 136263 | [136263-code-realize-future-blessings-day-one-edition.json](./136263-code-realize-future-blessings-day-one-edition.json) |
 | Code: Realize ~Guardian of Rebirth~ Collector's Edition | 122652 | [122652-code-realize-guardian-of-rebirth-collectors-edition.json](./122652-code-realize-guardian-of-rebirth-collectors-edition.json) |
 | Code: Realize ~Wintertide Miracles~ Limited Edition | 112919 | [112919-code-realize-wintertide-miracles-limited-edition.json](./112919-code-realize-wintertide-miracles-limited-edition.json) |
+| Code: Realize Twin Pack | 425189 | [425189-code-realize-twin-pack.json](./425189-code-realize-twin-pack.json) |
 | Code: Replicant | 298986 | [298986-code-replicant.json](./298986-code-replicant.json) |
 | Code: Seed Seihi no Uta | 145170 | [145170-code-seed-seihi-no-uta.json](./145170-code-seed-seihi-no-uta.json) |
 | Code: Sentinel | 295202 | [295202-code-sentinel.json](./295202-code-sentinel.json) |
@@ -19439,6 +19442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cynabre | 371334 | [371334-cynabre.json](./371334-cynabre.json) |
 | Cyndefense Remastered | 382289 | [382289-cyndefense-remastered.json](./382289-cyndefense-remastered.json) |
 | Cynderfall Cycle | 298268 | [298268-cynderfall-cycle.json](./298268-cynderfall-cycle.json) |
+| Cyndy | 425202 | [425202-cyndy.json](./425202-cyndy.json) |
 | Cynoclept: The Game | 55351 | [55351-cynoclept-the-game.json](./55351-cynoclept-the-game.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
 | Cynoroid: Gentagelse | 120678 | [120678-cynoroid-gentagelse.json](./120678-cynoroid-gentagelse.json) |
