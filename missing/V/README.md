@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard Valiants | 394826 | [394826-vanguard-valiants.json](./394826-vanguard-valiants.json) |
 | Vanguard: Fight For Rudiarius | 110996 | [110996-vanguard-fight-for-rudiarius.json](./110996-vanguard-fight-for-rudiarius.json) |
 | Vanguard: Normandy 1944 | 110298 | [110298-vanguard-normandy-1944.json](./110298-vanguard-normandy-1944.json) |
+| Vanguard's Descent | 423362 | [423362-vanguards-descent.json](./423362-vanguards-descent.json) |
 | Vanguardian | 103769 | [103769-vanguardian.json](./103769-vanguardian.json) |
 | Vanguards | 30836 | [30836-vanguards.json](./30836-vanguards.json) |
 | Vanildo's Journey | 189305 | [189305-vanildos-journey.json](./189305-vanildos-journey.json) |
@@ -1131,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil of Sanity | 338135 | [338135-veil-of-sanity.json](./338135-veil-of-sanity.json) |
 | Veil of Secrets | 313817 | [313817-veil-of-secrets.json](./313817-veil-of-secrets.json) |
 | Veil of Sight | 359388 | [359388-veil-of-sight.json](./359388-veil-of-sight.json) |
+| Veil of Time | 423373 | [423373-veil-of-time.json](./423373-veil-of-time.json) |
 | Veil of Torment | 351686 | [351686-veil-of-torment.json](./351686-veil-of-torment.json) |
 | Veil Runners | 310932 | [310932-veil-runners.json](./310932-veil-runners.json) |
 | Veil Stream | 360675 | [360675-veil-stream.json](./360675-veil-stream.json) |
@@ -1537,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Hard Game | 278499 | [278499-very-hard-game.json](./278499-very-hard-game.json) |
 | Very Human Doctor | 416822 | [416822-very-human-doctor.json](./416822-very-human-doctor.json) |
 | Very Iconic Pixels - 80s Quiz | 233738 | [233738-very-iconic-pixels-80s-quiz.json](./233738-very-iconic-pixels-80s-quiz.json) |
+| Very Important Needs | 423388 | [423388-very-important-needs.json](./423388-very-important-needs.json) |
 | Very Important Potato | 194292 | [194292-very-important-potato.json](./194292-very-important-potato.json) |
 | Very Little Nightmares | 117295 | [117295-very-little-nightmares.json](./117295-very-little-nightmares.json) |
 | Very Pink Game | 151580 | [151580-very-pink-game.json](./151580-very-pink-game.json) |
@@ -3077,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Jump VR | 359051 | [359051-void-jump-vr.json](./359051-void-jump-vr.json) |
 | Void Keeper | 294508 | [294508-void-keeper.json](./294508-void-keeper.json) |
 | Void Lands | 322245 | [322245-void-lands.json](./322245-void-lands.json) |
+| Void Ledger | 423387 | [423387-void-ledger.json](./423387-void-ledger.json) |
 | Void Light | 387363 | [387363-void-light.json](./387363-void-light.json) |
 | Void Link | 81252 | [81252-void-link.json](./81252-void-link.json) |
 | Void Marauders | 157386 | [157386-void-marauders.json](./157386-void-marauders.json) |
