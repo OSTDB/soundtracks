@@ -5275,6 +5275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender | 346133 | [346133-defender.json](./346133-defender.json) |
 | Defender | 3873 | [3873-defender.json](./3873-defender.json) |
 | Defender | 388144 | [388144-defender.json](./388144-defender.json) |
+| Defender | 85569 | [85569-defender.json](./85569-defender.json) |
 | Defender 2000 | 40817 | [40817-defender-2000.json](./40817-defender-2000.json) |
 | Defender 3D | 110744 | [110744-defender-3d.json](./110744-defender-3d.json) |
 | Defender Chronicles | 19200 | [19200-defender-chronicles.json](./19200-defender-chronicles.json) |
@@ -10600,6 +10601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dobutsu Shogi World | 120260 | [120260-dobutsu-shogi-world.json](./120260-dobutsu-shogi-world.json) |
 | Doc Apocalypse | 75677 | [75677-doc-apocalypse.json](./75677-doc-apocalypse.json) |
 | Doc Ati | 271094 | [271094-doc-ati.json](./271094-doc-ati.json) |
+| Doc Clock: The Toasted Sandwich of Time | 27900 | [27900-doc-clock-the-toasted-sandwich-of-time.json](./27900-doc-clock-the-toasted-sandwich-of-time.json) |
 | Doc Cosmos | 133986 | [133986-doc-cosmos.json](./133986-doc-cosmos.json) |
 | Doc Louis's Punch-Out!! | 9153 | [9153-doc-louiss-punch-out.json](./9153-doc-louiss-punch-out.json) |
 | Doc McStuffins | 137370 | [137370-doc-mcstuffins.json](./137370-doc-mcstuffins.json) |
@@ -14226,6 +14228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Warrior Monsters 2: Cobi's Journey | 24819 | [24819-dragon-warrior-monsters-2-cobis-journey.json](./24819-dragon-warrior-monsters-2-cobis-journey.json) |
 | Dragon Warrior Monsters 2: Tara's Adventure | 222276 | [222276-dragon-warrior-monsters-2-taras-adventure.json](./222276-dragon-warrior-monsters-2-taras-adventure.json) |
 | Dragon Warrior Monsters 2: Tara's Adventure | 24820 | [24820-dragon-warrior-monsters-2-taras-adventure.json](./24820-dragon-warrior-monsters-2-taras-adventure.json) |
+| Dragon Warrior Monsters 2: Tara's Adventure & Cobi's Journey | 85643 | [85643-dragon-warrior-monsters-2-taras-adventure-and-cobis-journey.json](./85643-dragon-warrior-monsters-2-taras-adventure-and-cobis-journey.json) |
 | Dragon Warrior VII | 1818 | [1818-dragon-warrior-vii.json](./1818-dragon-warrior-vii.json) |
 | Dragon Wars | 11406 | [11406-dragon-wars.json](./11406-dragon-wars.json) |
 | Dragon Wings | 263087 | [263087-dragon-wings.json](./263087-dragon-wings.json) |
