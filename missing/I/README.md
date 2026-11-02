@@ -3515,6 +3515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Game Cartridge Collection: Dungeon Grove | 385420 | [385420-infinite-game-cartridge-collection-dungeon-grove.json](./385420-infinite-game-cartridge-collection-dungeon-grove.json) |
 | Infinite Game Works Episode 0 | 36316 | [36316-infinite-game-works-episode-0.json](./36316-infinite-game-works-episode-0.json) |
 | Infinite Game Works Episode 1 | 36214 | [36214-infinite-game-works-episode-1.json](./36214-infinite-game-works-episode-1.json) |
+| Infinite Golf | 56139 | [56139-infinite-golf.json](./56139-infinite-golf.json) |
 | Infinite Golf 2 | 153825 | [153825-infinite-golf-2.json](./153825-infinite-golf-2.json) |
 | Infinite Guitars | 133239 | [133239-infinite-guitars.json](./133239-infinite-guitars.json) |
 | Infinite Idle: Online Clicker RPG | 320605 | [320605-infinite-idle-online-clicker-rpg.json](./320605-infinite-idle-online-clicker-rpg.json) |
@@ -4868,6 +4869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Planet's Flesh | 401626 | [401626-into-the-planets-flesh.json](./401626-into-the-planets-flesh.json) |
 | Into the Radius 2 | 279128 | [279128-into-the-radius-2.json](./279128-into-the-radius-2.json) |
 | Into the Restless Ruins | 295885 | [295885-into-the-restless-ruins.json](./295885-into-the-restless-ruins.json) |
+| Into the Rhythm VR | 56620 | [56620-into-the-rhythm-vr.json](./56620-into-the-rhythm-vr.json) |
 | Into the Sinkhole | 213201 | [213201-into-the-sinkhole.json](./213201-into-the-sinkhole.json) |
 | Into the Sky | 236142 | [236142-into-the-sky.json](./236142-into-the-sky.json) |
 | Into the Slimy Mines | 391764 | [391764-into-the-slimy-mines.json](./391764-into-the-slimy-mines.json) |
