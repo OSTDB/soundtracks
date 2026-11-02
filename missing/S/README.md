@@ -7032,6 +7032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Go | 406781 | [406781-shark-go.json](./406781-shark-go.json) |
 | Shark Hunt | 346097 | [346097-shark-hunt.json](./346097-shark-hunt.json) |
 | Shark Hunter | 41572 | [41572-shark-hunter.json](./41572-shark-hunter.json) |
+| Shark in a Suit | 420332 | [420332-shark-in-a-suit.json](./420332-shark-in-a-suit.json) |
 | Shark In Aquarium | 133633 | [133633-shark-in-aquarium.json](./133633-shark-in-aquarium.json) |
 | Shark Island | 385792 | [385792-shark-island.json](./385792-shark-island.json) |
 | Shark Jaws | 18202 | [18202-shark-jaws.json](./18202-shark-jaws.json) |
@@ -10011,6 +10012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Jiken | 84317 | [84317-silver-jiken.json](./84317-silver-jiken.json) |
 | Silver Jiken: 25-ku | 30220 | [30220-silver-jiken-25-ku.json](./30220-silver-jiken-25-ku.json) |
 | Silver Knight | 33791 | [33791-silver-knight.json](./33791-silver-knight.json) |
+| Silver Lake National Park | 420363 | [420363-silver-lake-national-park.json](./420363-silver-lake-national-park.json) |
 | Silver Level Pack | 289884 | [289884-silver-level-pack.json](./289884-silver-level-pack.json) |
 | Silver Malfeasant | 345001 | [345001-silver-malfeasant.json](./345001-silver-malfeasant.json) |
 | Silver Millennium | 40251 | [40251-silver-millennium.json](./40251-silver-millennium.json) |
@@ -17206,6 +17208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort Hexa Tiles | 364022 | [364022-sort-hexa-tiles.json](./364022-sort-hexa-tiles.json) |
 | Sort It! | 268528 | [268528-sort-it.json](./268528-sort-it.json) |
 | Sort Items | 364024 | [364024-sort-items.json](./364024-sort-items.json) |
+| Sort Labs | 420319 | [420319-sort-labs.json](./420319-sort-labs.json) |
 | Sort Letters | 377769 | [377769-sort-letters.json](./377769-sort-letters.json) |
 | Sort of Justice: Chapter 1 | 335991 | [335991-sort-of-justice-chapter-1.json](./335991-sort-of-justice-chapter-1.json) |
 | Sort the Court! | 80624 | [80624-sort-the-court.json](./80624-sort-the-court.json) |
@@ -19336,6 +19339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkle Snapshots | 67332 | [67332-sparkle-snapshots.json](./67332-sparkle-snapshots.json) |
 | Sparkle Unleashed | 20953 | [20953-sparkle-unleashed.json](./20953-sparkle-unleashed.json) |
 | Sparkle Zero | 33416 | [33416-sparkle-zero.json](./33416-sparkle-zero.json) |
+| Sparkle's Escape | 420349 | [420349-sparkles-escape.json](./420349-sparkles-escape.json) |
 | Sparkles & Gems | 146538 | [146538-sparkles-and-gems.json](./146538-sparkles-and-gems.json) |
 | SparkleWand Puzzle | 239056 | [239056-sparklewand-puzzle.json](./239056-sparklewand-puzzle.json) |
 | Sparkling Bug | 335968 | [335968-sparkling-bug.json](./335968-sparkling-bug.json) |
@@ -27926,6 +27930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suki's Spooky Romance | 100631 | [100631-sukis-spooky-romance.json](./100631-sukis-spooky-romance.json) |
 | Sukima | 361312 | [361312-sukima.json](./361312-sukima.json) |
 | SuKuBus-Mission | 301306 | [301306-sukubus-mission.json](./301306-sukubus-mission.json) |
+| Sukuji to Teikyou ni Kansuru Kousatsu | 420340 | [420340-sukuji-to-teikyou-ni-kansuru-kousatsu.json](./420340-sukuji-to-teikyou-ni-kansuru-kousatsu.json) |
 | Sukutte: Save Me... | 130358 | [130358-sukutte-save-me.json](./130358-sukutte-save-me.json) |
 | SUL: Schutze Unser Land 3D | 193075 | [193075-sul-schutze-unser-land-3d.json](./193075-sul-schutze-unser-land-3d.json) |
 | Sulfur | 233970 | [233970-sulfur.json](./233970-sulfur.json) |
@@ -33806,6 +33811,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Lindsey Stirling - "Mirage" | 356082 | [356082-synth-riders-lindsey-stirling-mirage.json](./356082-synth-riders-lindsey-stirling-mirage.json) |
 | Synth Riders: Lindsey Stirling - "Shadows" | 356117 | [356117-synth-riders-lindsey-stirling-shadows.json](./356117-synth-riders-lindsey-stirling-shadows.json) |
 | Synth Riders: Lindsey Stirling - "Underground" | 353651 | [353651-synth-riders-lindsey-stirling-underground.json](./353651-synth-riders-lindsey-stirling-underground.json) |
+| Synth Riders: Linkin Park - "Battle Symphony" | 420357 | [420357-synth-riders-linkin-park-battle-symphony.json](./420357-synth-riders-linkin-park-battle-symphony.json) |
+| Synth Riders: Linkin Park - "Breaking the Habit" | 420359 | [420359-synth-riders-linkin-park-breaking-the-habit.json](./420359-synth-riders-linkin-park-breaking-the-habit.json) |
+| Synth Riders: Linkin Park - "Castle of Glass" | 420353 | [420353-synth-riders-linkin-park-castle-of-glass.json](./420353-synth-riders-linkin-park-castle-of-glass.json) |
+| Synth Riders: Linkin Park - "Faint" | 420356 | [420356-synth-riders-linkin-park-faint.json](./420356-synth-riders-linkin-park-faint.json) |
+| Synth Riders: Linkin Park - "In the End" | 420351 | [420351-synth-riders-linkin-park-in-the-end.json](./420351-synth-riders-linkin-park-in-the-end.json) |
+| Synth Riders: Linkin Park - "One Step Closer" | 420352 | [420352-synth-riders-linkin-park-one-step-closer.json](./420352-synth-riders-linkin-park-one-step-closer.json) |
+| Synth Riders: Linkin Park - "Papercut" | 420355 | [420355-synth-riders-linkin-park-papercut.json](./420355-synth-riders-linkin-park-papercut.json) |
+| Synth Riders: Linkin Park - "The Emptiness Machine" (Radio Edit) | 420354 | [420354-synth-riders-linkin-park-the-emptiness-machine-radio-edit.json](./420354-synth-riders-linkin-park-the-emptiness-machine-radio-edit.json) |
 | Synth Riders: Monstercat Music Pack | 356831 | [356831-synth-riders-monstercat-music-pack.json](./356831-synth-riders-monstercat-music-pack.json) |
 | Synth Riders: Monstercat Music Pack | 382180 | [382180-synth-riders-monstercat-music-pack.json](./382180-synth-riders-monstercat-music-pack.json) |
 | Synth Riders: Muse - "Algorithm (Alternate Reality Version)" | 353653 | [353653-synth-riders-muse-algorithm-alternate-reality-version.json](./353653-synth-riders-muse-algorithm-alternate-reality-version.json) |
