@@ -2320,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Mambo | 101268 | [101268-john-mambo.json](./101268-john-mambo.json) |
 | John Novak | 270552 | [270552-john-novak.json](./270552-john-novak.json) |
 | John Parkour | 345254 | [345254-john-parkour.json](./345254-john-parkour.json) |
+| John Saul's Blackstone Chronicles | 3223 | [3223-john-sauls-blackstone-chronicles.json](./3223-john-sauls-blackstone-chronicles.json) |
 | John the Zombie | 75333 | [75333-john-the-zombie.json](./75333-john-the-zombie.json) |
 | John Tiller's Campaign Series | 129544 | [129544-john-tillers-campaign-series.json](./129544-john-tillers-campaign-series.json) |
 | John Wheel Memorial | 269568 | [269568-john-wheel-memorial.json](./269568-john-wheel-memorial.json) |
@@ -3810,6 +3811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance Wii U | 15560 | [15560-just-dance-wii-u.json](./15560-just-dance-wii-u.json) |
 | Just Dance: Best Of | 3303 | [3303-just-dance-best-of.json](./3303-just-dance-best-of.json) |
 | Just Dance: Decades of Hits | 409690 | [409690-just-dance-decades-of-hits.json](./409690-just-dance-decades-of-hits.json) |
+| Just Dance: Disney Party | 3254 | [3254-just-dance-disney-party.json](./3254-just-dance-disney-party.json) |
 | Just Dance: Disney Party 2 | 19340 | [19340-just-dance-disney-party-2.json](./19340-just-dance-disney-party-2.json) |
 | Just Dance: Greatest Hits | 241441 | [241441-just-dance-greatest-hits.json](./241441-just-dance-greatest-hits.json) |
 | Just Dance: Summer Party | 14982 | [14982-just-dance-summer-party.json](./14982-just-dance-summer-party.json) |
