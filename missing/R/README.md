@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden IV x Mikado Remix: Deluxe Edition | 210912 | [210912-raiden-iv-x-mikado-remix-deluxe-edition.json](./210912-raiden-iv-x-mikado-remix-deluxe-edition.json) |
 | Raiden IV x Mikado Remix: Limited Edition | 181616 | [181616-raiden-iv-x-mikado-remix-limited-edition.json](./181616-raiden-iv-x-mikado-remix-limited-edition.json) |
 | Raiden IV x Mikado Remix: Special Edition | 284185 | [284185-raiden-iv-x-mikado-remix-special-edition.json](./284185-raiden-iv-x-mikado-remix-special-edition.json) |
+| Raiden Legacy | 34344 | [34344-raiden-legacy.json](./34344-raiden-legacy.json) |
 | Raiden Nova | 319140 | [319140-raiden-nova.json](./319140-raiden-nova.json) |
 | Raiden Trad | 46211 | [46211-raiden-trad.json](./46211-raiden-trad.json) |
 | Raiden V | 19848 | [19848-raiden-v.json](./19848-raiden-v.json) |
@@ -10814,6 +10815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Garden Tales | 95878 | [95878-royal-garden-tales.json](./95878-royal-garden-tales.json) |
 | Royal Gems | 116332 | [116332-royal-gems.json](./116332-royal-gems.json) |
 | Royal Hentai: Boobs & Pussies | 366538 | [366538-royal-hentai-boobs-and-pussies.json](./366538-royal-hentai-boobs-and-pussies.json) |
+| Royal Heroes | 33559 | [33559-royal-heroes.json](./33559-royal-heroes.json) |
 | Royal Jest | 353798 | [353798-royal-jest.json](./353798-royal-jest.json) |
 | Royal Jigsaw | 108265 | [108265-royal-jigsaw.json](./108265-royal-jigsaw.json) |
 | Royal Jigsaw 2 | 201470 | [201470-royal-jigsaw-2.json](./201470-royal-jigsaw-2.json) |
@@ -11963,6 +11965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Rally Origins | 163170 | [163170-rush-rally-origins.json](./163170-rush-rally-origins.json) |
 | Rush Red & Blue | 220491 | [220491-rush-red-and-blue.json](./220491-rush-red-and-blue.json) |
 | Rush Roulette | 373674 | [373674-rush-roulette.json](./373674-rush-roulette.json) |
+| Rush Rover | 33625 | [33625-rush-rover.json](./33625-rush-rover.json) |
 | Rush Royale | 141464 | [141464-rush-royale.json](./141464-rush-royale.json) |
 | Rush Rush Rally Reloaded | 56424 | [56424-rush-rush-rally-reloaded.json](./56424-rush-rush-rally-reloaded.json) |
 | Rush Team | 57953 | [57953-rush-team.json](./57953-rush-team.json) |
