@@ -357,6 +357,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima I | 378512 | [378512-ultima-i.json](./378512-ultima-i.json) |
 | Ultima II: The Revenge of the Enchantress | 2868 | [2868-ultima-ii-the-revenge-of-the-enchantress.json](./2868-ultima-ii-the-revenge-of-the-enchantress.json) |
 | Ultima III: Exodus | 2867 | [2867-ultima-iii-exodus.json](./2867-ultima-iii-exodus.json) |
+| Ultima III: Exodus | 417818 | [417818-ultima-iii-exodus.json](./417818-ultima-iii-exodus.json) |
+| Ultima III: Exodus | 417824 | [417824-ultima-iii-exodus.json](./417824-ultima-iii-exodus.json) |
 | Ultima IV: Quest of the Avatar | 2878 | [2878-ultima-iv-quest-of-the-avatar.json](./2878-ultima-iv-quest-of-the-avatar.json) |
 | Ultima IX: Ascension | 7083 | [7083-ultima-ix-ascension.json](./7083-ultima-ix-ascension.json) |
 | Ultima Nex | 365823 | [365823-ultima-nex.json](./365823-ultima-nex.json) |
@@ -1162,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Un Paseo Por Villa Tronco | 396527 | [396527-un-paseo-por-villa-tronco.json](./396527-un-paseo-por-villa-tronco.json) |
 | Un Petit Noel | 406843 | [406843-un-petit-noel.json](./406843-un-petit-noel.json) |
 | Un Presagio de Huesos | 259751 | [259751-un-presagio-de-huesos.json](./259751-un-presagio-de-huesos.json) |
+| Un seul jeu | 417815 | [417815-un-seul-jeu.json](./417815-un-seul-jeu.json) |
 | Un-Matching Game | 307293 | [307293-un-matching-game.json](./307293-un-matching-game.json) |
 | Un-Usual Hotline | 352520 | [352520-un-usual-hotline.json](./352520-un-usual-hotline.json) |
 | Un:Birthday Song ~Ai wo Utau Shinigami~ | 54919 | [54919-un-birthday-song-ai-wo-utau-shinigami.json](./54919-un-birthday-song-ai-wo-utau-shinigami.json) |
@@ -1661,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underfell: One Hell of a Show | 280946 | [280946-underfell-one-hell-of-a-show.json](./280946-underfell-one-hell-of-a-show.json) |
 | Underfire | 157935 | [157935-underfire.json](./157935-underfire.json) |
 | Underflow | 101229 | [101229-underflow.json](./101229-underflow.json) |
+| Underfoot | 417209 | [417209-underfoot.json](./417209-underfoot.json) |
 | UnderForged | 414474 | [414474-underforged.json](./414474-underforged.json) |
 | Undergod | 276153 | [276153-undergod.json](./276153-undergod.json) |
 | Undergoes | 312993 | [312993-undergoes.json](./312993-undergoes.json) |
