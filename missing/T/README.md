@@ -2487,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taste My Arsenal | 103981 | [103981-taste-my-arsenal.json](./103981-taste-my-arsenal.json) |
 | Taste of Blood | 361268 | [361268-taste-of-blood.json](./361268-taste-of-blood.json) |
 | Taste of Heaven | 200407 | [200407-taste-of-heaven.json](./200407-taste-of-heaven.json) |
+| Taste of Power | 75895 | [75895-taste-of-power.json](./75895-taste-of-power.json) |
 | Taste of Seduction | 212198 | [212198-taste-of-seduction.json](./212198-taste-of-seduction.json) |
 | Taste of Sweet Magic | 217784 | [217784-taste-of-sweet-magic.json](./217784-taste-of-sweet-magic.json) |
 | Taste of the Sea | 374891 | [374891-taste-of-the-sea.json](./374891-taste-of-the-sea.json) |
@@ -3195,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles VS Power Rangers: Ultimate Hero Clash! | 58455 | [58455-teenage-mutant-ninja-turtles-vs-power-rangers-ultimate-hero-clash.json](./58455-teenage-mutant-ninja-turtles-vs-power-rangers-ultimate-hero-clash.json) |
 | Teenage Mutant Ninja Turtles x Hello Kitty and Friends | 362718 | [362718-teenage-mutant-ninja-turtles-x-hello-kitty-and-friends.json](./362718-teenage-mutant-ninja-turtles-x-hello-kitty-and-friends.json) |
 | Teenage Mutant Ninja Turtles: Arcade Attack | 21156 | [21156-teenage-mutant-ninja-turtles-arcade-attack.json](./21156-teenage-mutant-ninja-turtles-arcade-attack.json) |
+| Teenage Mutant Ninja Turtles: Battle Match | 59375 | [59375-teenage-mutant-ninja-turtles-battle-match.json](./59375-teenage-mutant-ninja-turtles-battle-match.json) |
 | Teenage Mutant Ninja Turtles: Battle of the City | 146105 | [146105-teenage-mutant-ninja-turtles-battle-of-the-city.json](./146105-teenage-mutant-ninja-turtles-battle-of-the-city.json) |
 | Teenage Mutant Ninja Turtles: Brothers Unite | 61238 | [61238-teenage-mutant-ninja-turtles-brothers-unite.json](./61238-teenage-mutant-ninja-turtles-brothers-unite.json) |
 | Teenage Mutant Ninja Turtles: Danger of the Ooze | 19092 | [19092-teenage-mutant-ninja-turtles-danger-of-the-ooze.json](./19092-teenage-mutant-ninja-turtles-danger-of-the-ooze.json) |
@@ -8004,6 +8006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream | 272120 | [272120-the-dream.json](./272120-the-dream.json) |
 | The Dream Alchemist | 179696 | [179696-the-dream-alchemist.json](./179696-the-dream-alchemist.json) |
 | The Dream Circus | 387118 | [387118-the-dream-circus.json](./387118-the-dream-circus.json) |
+| The Dream Collector | 75914 | [75914-the-dream-collector.json](./75914-the-dream-collector.json) |
 | The Dream Compass | 108123 | [108123-the-dream-compass.json](./108123-the-dream-compass.json) |
 | The Dream Diary | 229259 | [229259-the-dream-diary.json](./229259-the-dream-diary.json) |
 | The Dream Globe | 371989 | [371989-the-dream-globe.json](./371989-the-dream-globe.json) |
@@ -13771,6 +13774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Painscreek Killings | 68682 | [68682-the-painscreek-killings.json](./68682-the-painscreek-killings.json) |
 | The Paint Gunner | 187211 | [187211-the-paint-gunner.json](./187211-the-paint-gunner.json) |
 | The Painted Forest | 132705 | [132705-the-painted-forest.json](./132705-the-painted-forest.json) |
+| The Painter's Playground | 75604 | [75604-the-painters-playground.json](./75604-the-painters-playground.json) |
 | The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
 | The Painting of Gustavo Repaintend | 383167 | [383167-the-painting-of-gustavo-repaintend.json](./383167-the-painting-of-gustavo-repaintend.json) |
 | The Palace of Fear | 309192 | [309192-the-palace-of-fear.json](./309192-the-palace-of-fear.json) |
@@ -26899,6 +26903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Station Renovation | 108347 | [108347-train-station-renovation.json](./108347-train-station-renovation.json) |
 | Train Station Renovation: First Job | 132415 | [132415-train-station-renovation-first-job.json](./132415-train-station-renovation-first-job.json) |
 | Train Station Renovation: Germany | 195217 | [195217-train-station-renovation-germany.json](./195217-train-station-renovation-germany.json) |
+| Train Station Simulator | 75616 | [75616-train-station-simulator.json](./75616-train-station-simulator.json) |
 | Train Station Simulator: Together in Japan | 374747 | [374747-train-station-simulator-together-in-japan.json](./374747-train-station-simulator-together-in-japan.json) |
 | Train Station: Rail Transport | 243085 | [243085-train-station-rail-transport.json](./243085-train-station-rail-transport.json) |
 | Train Story | 128986 | [128986-train-story.json](./128986-train-story.json) |
