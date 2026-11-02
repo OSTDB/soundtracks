@@ -3383,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno | 91849 | [91849-inferno.json](./91849-inferno.json) |
 | Inferno 2 | 34822 | [34822-inferno-2.json](./34822-inferno-2.json) |
 | Inferno Arena | 197505 | [197505-inferno-arena.json](./197505-inferno-arena.json) |
+| Inferno Cafe | 425203 | [425203-inferno-cafe.json](./425203-inferno-cafe.json) |
 | Inferno Climber | 33761 | [33761-inferno-climber.json](./33761-inferno-climber.json) |
 | Inferno Climber: Reborn | 95833 | [95833-inferno-climber-reborn.json](./95833-inferno-climber-reborn.json) |
 | Inferno Frontier | 340751 | [340751-inferno-frontier.json](./340751-inferno-frontier.json) |
