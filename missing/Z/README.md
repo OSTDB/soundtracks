@@ -1342,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombeo and Vampireta | 399696 | [399696-zombeo-and-vampireta.json](./399696-zombeo-and-vampireta.json) |
 | ZombFarm | 315936 | [315936-zombfarm.json](./315936-zombfarm.json) |
 | Zombi | 2279 | [2279-zombi.json](./2279-zombi.json) |
+| Zombi Mall | 421606 | [421606-zombi-mall.json](./421606-zombi-mall.json) |
 | Zombi Rockstar | 245844 | [245844-zombi-rockstar.json](./245844-zombi-rockstar.json) |
 | Zombiax Evil | 249600 | [249600-zombiax-evil.json](./249600-zombiax-evil.json) |
 | Zombidle | 70384 | [70384-zombidle.json](./70384-zombidle.json) |
