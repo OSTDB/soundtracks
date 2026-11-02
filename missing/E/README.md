@@ -1858,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elbe | 362582 | [362582-elbe.json](./362582-elbe.json) |
 | ElbmarKs | 197153 | [197153-elbmarks.json](./197153-elbmarks.json) |
 | Elbow Room | 60290 | [60290-elbow-room.json](./60290-elbow-room.json) |
+| Elbub | 76378 | [76378-elbub.json](./76378-elbub.json) |
 | ElChronicle | 130635 | [130635-elchronicle.json](./130635-elchronicle.json) |
 | Eldabyss | 290707 | [290707-eldabyss.json](./290707-eldabyss.json) |
 | Eldarya | 46949 | [46949-eldarya.json](./46949-eldarya.json) |
@@ -2480,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elithian Races Mod | 280270 | [280270-elithian-races-mod.json](./280270-elithian-races-mod.json) |
 | Elitserien 2001 | 94376 | [94376-elitserien-2001.json](./94376-elitserien-2001.json) |
 | Elitserien 96 | 45560 | [45560-elitserien-96.json](./45560-elitserien-96.json) |
+| Elium: Prison Escape | 83953 | [83953-elium-prison-escape.json](./83953-elium-prison-escape.json) |
 | Elixia | 133757 | [133757-elixia.json](./133757-elixia.json) |
 | Elixir | 145607 | [145607-elixir.json](./145607-elixir.json) |
 | Elixir Emporium | 317297 | [317297-elixir-emporium.json](./317297-elixir-emporium.json) |
