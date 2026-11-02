@@ -5605,6 +5605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8126,6 +8127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memento*Fragment | 410256 | [410256-memento-fragment.json](./410256-memento-fragment.json) |
 | Mementos | 201629 | [201629-mementos.json](./201629-mementos.json) |
 | Mementos: Lost Things | 391681 | [391681-mementos-lost-things.json](./391681-mementos-lost-things.json) |
+| Mementos: Star Constellations | 402056 | [402056-mementos-star-constellations.json](./402056-mementos-star-constellations.json) |
 | Memes | 51564 | [51564-memes.json](./51564-memes.json) |
 | Memes At War | 334022 | [334022-memes-at-war.json](./334022-memes-at-war.json) |
 | Memesteine Files | 405035 | [405035-memesteine-files.json](./405035-memesteine-files.json) |
@@ -15025,6 +15027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Pack Volume 2 | 98947 | [98947-monster-pack-volume-2.json](./98947-monster-pack-volume-2.json) |
 | Monster Palace | 324745 | [324745-monster-palace.json](./324745-monster-palace.json) |
 | Monster Panic | 289379 | [289379-monster-panic.json](./289379-monster-panic.json) |
+| Monster Panic | 402043 | [402043-monster-panic.json](./402043-monster-panic.json) |
 | Monster Park Tycoon | 405167 | [405167-monster-park-tycoon.json](./405167-monster-park-tycoon.json) |
 | Monster Parlor | 375858 | [375858-monster-parlor.json](./375858-monster-parlor.json) |
 | Monster partner | 61619 | [61619-monster-partner.json](./61619-monster-partner.json) |
@@ -18356,6 +18359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushrooman | 226362 | [226362-mushrooman.json](./226362-mushrooman.json) |
 | Mushrooming | 378550 | [378550-mushrooming.json](./378550-mushrooming.json) |
 | MushroomJump | 311273 | [311273-mushroomjump.json](./311273-mushroomjump.json) |
+| Mushrooms vs Engineers | 402068 | [402068-mushrooms-vs-engineers.json](./402068-mushrooms-vs-engineers.json) |
 | Mushrooms vs. Goombas | 294534 | [294534-mushrooms-vs-goombas.json](./294534-mushrooms-vs-goombas.json) |
 | Mushrooms: Forest Walker | 81792 | [81792-mushrooms-forest-walker.json](./81792-mushrooms-forest-walker.json) |
 | Mushroots | 292961 | [292961-mushroots.json](./292961-mushroots.json) |
