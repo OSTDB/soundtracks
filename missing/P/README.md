@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paiteo: Yeongung-eul Gidalimyeo | 98430 | [98430-paiteo-yeongung-eul-gidalimyeo.json](./98430-paiteo-yeongung-eul-gidalimyeo.json) |
 | Paizei Mahjong Ryouga | 58670 | [58670-paizei-mahjong-ryouga.json](./58670-paizei-mahjong-ryouga.json) |
 | Paizuri Fantasies | 351741 | [351741-paizuri-fantasies.json](./351741-paizuri-fantasies.json) |
+| Pajama Girl | 401198 | [401198-pajama-girl.json](./401198-pajama-girl.json) |
 | Pajama Sam 2: Thunder and Lightning Aren't so Frightening | 3731 | [3731-pajama-sam-2-thunder-and-lightning-arent-so-frightening.json](./3731-pajama-sam-2-thunder-and-lightning-arent-so-frightening.json) |
 | Pajama Sam 3: You Are What You Eat From Your Head to Your Feet | 3732 | [3732-pajama-sam-3-you-are-what-you-eat-from-your-head-to-your-feet.json](./3732-pajama-sam-3-you-are-what-you-eat-from-your-head-to-your-feet.json) |
 | Pajama Sam 4: Life Is Rough When You Lose Your Stuff! | 10650 | [10650-pajama-sam-4-life-is-rough-when-you-lose-your-stuff.json](./10650-pajama-sam-4-life-is-rough-when-you-lose-your-stuff.json) |
@@ -3182,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawtings! Hidden Dogs | 419061 | [419061-pawtings-hidden-dogs.json](./419061-pawtings-hidden-dogs.json) |
 | Paww: Feline Fatale | 397899 | [397899-paww-feline-fatale.json](./397899-paww-feline-fatale.json) |
 | Pax | 274201 | [274201-pax.json](./274201-pax.json) |
+| Pax Astra | 400910 | [400910-pax-astra.json](./400910-pax-astra.json) |
 | Pax Augusta | 220462 | [220462-pax-augusta.json](./220462-pax-augusta.json) |
 | Pax Autocratica | 358217 | [358217-pax-autocratica.json](./358217-pax-autocratica.json) |
 | Pax Corpus | 44845 | [44845-pax-corpus.json](./44845-pax-corpus.json) |
