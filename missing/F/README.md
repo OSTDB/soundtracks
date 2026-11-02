@@ -6114,6 +6114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing | 358837 | [358837-fishing.json](./358837-fishing.json) |
 | Fishing | 359190 | [359190-fishing.json](./359190-fishing.json) |
 | Fishing 3D | 141692 | [141692-fishing-3d.json](./141692-fishing-3d.json) |
+| Fishing Adventure | 120092 | [120092-fishing-adventure.json](./120092-fishing-adventure.json) |
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
 | FIshing Adventure VR | 127004 | [127004-fishing-adventure-vr.json](./127004-fishing-adventure-vr.json) |
 | Fishing Adventure: Finland Reserve | 250800 | [250800-fishing-adventure-finland-reserve.json](./250800-fishing-adventure-finland-reserve.json) |
@@ -7907,6 +7908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Showdown | 360679 | [360679-fluffy-showdown.json](./360679-fluffy-showdown.json) |
 | Fluffy Slime Maker | 106769 | [106769-fluffy-slime-maker.json](./106769-fluffy-slime-maker.json) |
 | Fluffy Smash | 219791 | [219791-fluffy-smash.json](./219791-fluffy-smash.json) |
+| Fluffy Store | 120606 | [120606-fluffy-store.json](./120606-fluffy-store.json) |
 | Fluffy's Adventure | 380419 | [380419-fluffys-adventure.json](./380419-fluffys-adventure.json) |
 | Fluffy's Adventure | 381026 | [381026-fluffys-adventure.json](./381026-fluffys-adventure.json) |
 | FluffyInn | 348190 | [348190-fluffyinn.json](./348190-fluffyinn.json) |
@@ -7956,6 +7958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flux | 202357 | [202357-flux.json](./202357-flux.json) |
 | Flux | 92956 | [92956-flux.json](./92956-flux.json) |
 | Flux Ascendant | 403544 | [403544-flux-ascendant.json](./403544-flux-ascendant.json) |
+| Flux Caves | 119719 | [119719-flux-caves.json](./119719-flux-caves.json) |
 | Flux Empyrean | 383372 | [383372-flux-empyrean.json](./383372-flux-empyrean.json) |
 | Flux Family Secrets: The Rabbit Hole | 209458 | [209458-flux-family-secrets-the-rabbit-hole.json](./209458-flux-family-secrets-the-rabbit-hole.json) |
 | Flux Family Secrets: The Ripple Effect | 144973 | [144973-flux-family-secrets-the-ripple-effect.json](./144973-flux-family-secrets-the-ripple-effect.json) |
@@ -8249,6 +8252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Focus Grove | 391002 | [391002-focus-grove.json](./391002-focus-grove.json) |
 | Focus indies Bundle: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die! | 187499 | [187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json](./187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json) |
 | Focus Knight | 398318 | [398318-focus-knight.json](./398318-focus-knight.json) |
+| Focus on You | 119452 | [119452-focus-on-you.json](./119452-focus-on-you.json) |
 | Fodderp: Castle Defense | 24542 | [24542-fodderp-castle-defense.json](./24542-fodderp-castle-defense.json) |
 | Fodders Grapple Gauntlet | 401602 | [401602-fodders-grapple-gauntlet.json](./401602-fodders-grapple-gauntlet.json) |
 | Foddia | 332436 | [332436-foddia.json](./332436-foddia.json) |
@@ -8684,6 +8688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Rivals | 247307 | [247307-football-rivals.json](./247307-football-rivals.json) |
 | Football Russian 20!8 | 86306 | [86306-football-russian-20-8.json](./86306-football-russian-20-8.json) |
 | Football Saga Fantasista | 244801 | [244801-football-saga-fantasista.json](./244801-football-saga-fantasista.json) |
+| Football School | 120084 | [120084-football-school.json](./120084-football-school.json) |
 | Football Seasons | 239117 | [239117-football-seasons.json](./239117-football-seasons.json) |
 | Football Showdown 2 | 240870 | [240870-football-showdown-2.json](./240870-football-showdown-2.json) |
 | Football Simulation Shoot Game | 220060 | [220060-football-simulation-shoot-game.json](./220060-football-simulation-shoot-game.json) |
@@ -8980,6 +8985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forensics: Crime Scene Detective | 406712 | [406712-forensics-crime-scene-detective.json](./406712-forensics-crime-scene-detective.json) |
 | Forep Man | 121628 | [121628-forep-man.json](./121628-forep-man.json) |
 | Foresight | 17677 | [17677-foresight.json](./17677-foresight.json) |
+| Foreskin Fury | 120616 | [120616-foreskin-fury.json](./120616-foreskin-fury.json) |
 | Forest | 100307 | [100307-forest.json](./100307-forest.json) |
 | Forest | 185166 | [185166-forest.json](./185166-forest.json) |
 | Forest | 187538 | [187538-forest.json](./187538-forest.json) |
@@ -9195,6 +9201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forget-Me-Not | 47269 | [47269-forget-me-not.json](./47269-forget-me-not.json) |
 | Forget-Me-Not of the Tetragon | 335696 | [335696-forget-me-not-of-the-tetragon.json](./335696-forget-me-not-of-the-tetragon.json) |
 | Forget-Me-Not R | 210561 | [210561-forget-me-not-r.json](./210561-forget-me-not-r.json) |
+| Forgetful Dictator | 120083 | [120083-forgetful-dictator.json](./120083-forgetful-dictator.json) |
 | Forgetmenots | 341857 | [341857-forgetmenots.json](./341857-forgetmenots.json) |
 | Forgetter | 151280 | [151280-forgetter.json](./151280-forgetter.json) |
 | Forgetting | 183960 | [183960-forgetting.json](./183960-forgetting.json) |
@@ -9532,6 +9539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Apocalypse | 13850 | [13850-fort-apocalypse.json](./13850-fort-apocalypse.json) |
 | Fort Apocalypse II | 47202 | [47202-fort-apocalypse-ii.json](./47202-fort-apocalypse-ii.json) |
 | Fort Awesome | 28560 | [28560-fort-awesome.json](./28560-fort-awesome.json) |
+| Fort Boyard | 119925 | [119925-fort-boyard.json](./119925-fort-boyard.json) |
 | Fort Boyard | 50030 | [50030-fort-boyard.json](./50030-fort-boyard.json) |
 | Fort Boyard 2022 | 199324 | [199324-fort-boyard-2022.json](./199324-fort-boyard-2022.json) |
 | Fort Boyard, le jeu | 268131 | [268131-fort-boyard-le-jeu.json](./268131-fort-boyard-le-jeu.json) |
@@ -11777,6 +11785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Steel | 363921 | [363921-frontline-steel.json](./363921-frontline-steel.json) |
 | Frontline Survivors | 239777 | [239777-frontline-survivors.json](./239777-frontline-survivors.json) |
 | Frontline Tactics | 15322 | [15322-frontline-tactics.json](./15322-frontline-tactics.json) |
+| Frontline Zed | 120418 | [120418-frontline-zed.json](./120418-frontline-zed.json) |
 | Frontline: Afrika Korps | 391276 | [391276-frontline-afrika-korps.json](./391276-frontline-afrika-korps.json) |
 | Frontline: Assault Corps WW2 | 340264 | [340264-frontline-assault-corps-ww2.json](./340264-frontline-assault-corps-ww2.json) |
 | Frontline: Fields of Thunder | 11108 | [11108-frontline-fields-of-thunder.json](./11108-frontline-fields-of-thunder.json) |
