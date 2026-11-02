@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bagman for iPad | 175537 | [175537-bagman-for-ipad.json](./175537-bagman-for-ipad.json) |
 | Bago | 83449 | [83449-bago.json](./83449-bago.json) |
 | Bagration | 81665 | [81665-bagration.json](./81665-bagration.json) |
+| Bagsy | 423399 | [423399-bagsy.json](./423399-bagsy.json) |
 | Baguette Wars | 313638 | [313638-baguette-wars.json](./313638-baguette-wars.json) |
 | Bah, Humbug! | 97350 | [97350-bah-humbug.json](./97350-bah-humbug.json) |
 | Bahama Conch n Burger Shack | 113537 | [113537-bahama-conch-n-burger-shack.json](./113537-bahama-conch-n-burger-shack.json) |
@@ -1758,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bamboo Grove | 420177 | [420177-bamboo-grove.json](./420177-bamboo-grove.json) |
 | Bamboo Panda | 355121 | [355121-bamboo-panda.json](./355121-bamboo-panda.json) |
 | Bamboo Retro Run | 322439 | [322439-bamboo-retro-run.json](./322439-bamboo-retro-run.json) |
+| Bamboo Spring: A Story Cast in Bronze | 423396 | [423396-bamboo-spring-a-story-cast-in-bronze.json](./423396-bamboo-spring-a-story-cast-in-bronze.json) |
 | Bamboozle | 302650 | [302650-bamboozle.json](./302650-bamboozle.json) |
 | Bamerang | 132199 | [132199-bamerang.json](./132199-bamerang.json) |
 | Bamse | 106273 | [106273-bamse.json](./106273-bamse.json) |
@@ -2137,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bar Keeper | 411559 | [411559-bar-keeper.json](./411559-bar-keeper.json) |
 | Bar Night VR | 319722 | [319722-bar-night-vr.json](./319722-bar-night-vr.json) |
 | Bar Oasis | 63803 | [63803-bar-oasis.json](./63803-bar-oasis.json) |
+| Bar Owner Simulator | 423402 | [423402-bar-owner-simulator.json](./423402-bar-owner-simulator.json) |
 | Bar Simulator | 407335 | [407335-bar-simulator.json](./407335-bar-simulator.json) |
 | Bar Soviet | 346544 | [346544-bar-soviet.json](./346544-bar-soviet.json) |
 | Bar Stella Abyss | 277489 | [277489-bar-stella-abyss.json](./277489-bar-stella-abyss.json) |
@@ -13917,6 +13920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braveboy | 333036 | [333036-braveboy.json](./333036-braveboy.json) |
 | BraveCart | 347864 | [347864-bravecart.json](./347864-bravecart.json) |
 | BraveEmini | 280127 | [280127-braveemini.json](./280127-braveemini.json) |
+| Braveforce: The Lost Dominion of the Void | 423381 | [423381-braveforce-the-lost-dominion-of-the-void.json](./423381-braveforce-the-lost-dominion-of-the-void.json) |
 | Braveheart | 213218 | [213218-braveheart.json](./213218-braveheart.json) |
 | Braveheart | 24700 | [24700-braveheart.json](./24700-braveheart.json) |
 | Bravehood | 244151 | [244151-bravehood.json](./244151-bravehood.json) |
@@ -15582,6 +15586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble: Journey to the End of the World | 62026 | [62026-bubble-journey-to-the-end-of-the-world.json](./62026-bubble-journey-to-the-end-of-the-world.json) |
 | Bubble's Dream | 359389 | [359389-bubbles-dream.json](./359389-bubbles-dream.json) |
 | Bubble's Travel | 387337 | [387337-bubbles-travel.json](./387337-bubbles-travel.json) |
+| Bubble[Hack]: Pinball Rivals | 423394 | [423394-bubble-hack-pinball-rivals.json](./423394-bubble-hack-pinball-rivals.json) |
 | BubbleBack: The Story of Forward to the Past 2 | 396001 | [396001-bubbleback-the-story-of-forward-to-the-past-2.json](./396001-bubbleback-the-story-of-forward-to-the-past-2.json) |
 | BubbleBeast DigiDungeon | 323925 | [323925-bubblebeast-digidungeon.json](./323925-bubblebeast-digidungeon.json) |
 | BubbleByte | 337570 | [337570-bubblebyte.json](./337570-bubblebyte.json) |
