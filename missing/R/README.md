@@ -2204,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raw April Day | 158912 | [158912-raw-april-day.json](./158912-raw-april-day.json) |
 | Raw Concrete | 369223 | [369223-raw-concrete.json](./369223-raw-concrete.json) |
 | Raw Data/Sprint Vector | 139965 | [139965-raw-data-sprint-vector.json](./139965-raw-data-sprint-vector.json) |
+| Raw Egg Peeling | 420978 | [420978-raw-egg-peeling.json](./420978-raw-egg-peeling.json) |
 | Raw Element | 341307 | [341307-raw-element.json](./341307-raw-element.json) |
 | Raw Footage | 89605 | [89605-raw-footage.json](./89605-raw-footage.json) |
 | Raw Metal | 236316 | [236316-raw-metal.json](./236316-raw-metal.json) |
@@ -9630,6 +9631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RogueOut | 258910 | [258910-rogueout.json](./258910-rogueout.json) |
 | RoguePool | 392751 | [392751-roguepool.json](./392751-roguepool.json) |
 | Rogueria: Roguelikes X Tactics | 143585 | [143585-rogueria-roguelikes-x-tactics.json](./143585-rogueria-roguelikes-x-tactics.json) |
+| Roguerooms New Management | 420934 | [420934-roguerooms-new-management.json](./420934-roguerooms-new-management.json) |
 | Rogues Adventure | 155401 | [155401-rogues-adventure.json](./155401-rogues-adventure.json) |
 | Rogues Like Beer | 183014 | [183014-rogues-like-beer.json](./183014-rogues-like-beer.json) |
 | Rogues Like Us | 32357 | [32357-rogues-like-us.json](./32357-rogues-like-us.json) |
@@ -9838,6 +9840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon 9 Mega Pack | 136066 | [136066-rollercoaster-tycoon-9-mega-pack.json](./136066-rollercoaster-tycoon-9-mega-pack.json) |
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
 | RollerCoaster Tycoon on Nintendo Switch | 95855 | [95855-rollercoaster-tycoon-on-nintendo-switch.json](./95855-rollercoaster-tycoon-on-nintendo-switch.json) |
+| RollerCoaster Tycoon Puzzle | 420932 | [420932-rollercoaster-tycoon-puzzle.json](./420932-rollercoaster-tycoon-puzzle.json) |
 | RollerCoaster Tycoon World | 7627 | [7627-rollercoaster-tycoon-world.json](./7627-rollercoaster-tycoon-world.json) |
 | RollerCoaster Tycoon World Deluxe | 25053 | [25053-rollercoaster-tycoon-world-deluxe.json](./25053-rollercoaster-tycoon-world-deluxe.json) |
 | RollerCoaster Tycoon World: Deluxe Edition | 53524 | [53524-rollercoaster-tycoon-world-deluxe-edition.json](./53524-rollercoaster-tycoon-world-deluxe-edition.json) |
@@ -11735,6 +11738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Classic | 102113 | [102113-rune-classic.json](./102113-rune-classic.json) |
 | Rune Coliseum: Chained Warrior | 258351 | [258351-rune-coliseum-chained-warrior.json](./258351-rune-coliseum-chained-warrior.json) |
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
+| Rune Delvers: Idle RPG | 422140 | [422140-rune-delvers-idle-rpg.json](./422140-rune-delvers-idle-rpg.json) |
 | Rune Dice | 345982 | [345982-rune-dice.json](./345982-rune-dice.json) |
 | Rune Dungeon | 357148 | [357148-rune-dungeon.json](./357148-rune-dungeon.json) |
 | Rune Factory 2: A Fantasy Harvest Moon | 20768 | [20768-rune-factory-2-a-fantasy-harvest-moon.json](./20768-rune-factory-2-a-fantasy-harvest-moon.json) |
