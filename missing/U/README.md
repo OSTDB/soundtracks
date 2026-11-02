@@ -1642,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercroft | 92056 | [92056-undercroft.json](./92056-undercroft.json) |
 | Undercurrent | 187067 | [187067-undercurrent.json](./187067-undercurrent.json) |
 | Undercurrent | 399199 | [399199-undercurrent.json](./399199-undercurrent.json) |
+| Undercurrent: The Hollow Crown | 421578 | [421578-undercurrent-the-hollow-crown.json](./421578-undercurrent-the-hollow-crown.json) |
 | Underdeck | 100755 | [100755-underdeck.json](./100755-underdeck.json) |
 | Underdeep | 423858 | [423858-underdeep.json](./423858-underdeep.json) |
 | Underdog Detective | 198551 | [198551-underdog-detective.json](./198551-underdog-detective.json) |
@@ -2666,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsorted VHS | 214425 | [214425-unsorted-vhs.json](./214425-unsorted-vhs.json) |
 | Unsought | 303073 | [303073-unsought.json](./303073-unsought.json) |
 | Unsouled | 124772 | [124772-unsouled.json](./124772-unsouled.json) |
+| Unsound | 422201 | [422201-unsound.json](./422201-unsound.json) |
 | Unsound Love | 346517 | [346517-unsound-love.json](./346517-unsound-love.json) |
 | Unspoken | 364004 | [364004-unspoken.json](./364004-unspoken.json) |
 | Unspoken Chronicles : Nora | 117302 | [117302-unspoken-chronicles-nora.json](./117302-unspoken-chronicles-nora.json) |
