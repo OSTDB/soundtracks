@@ -1346,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeune Styliste 3: Star | 340014 | [340014-jeune-styliste-3-star.json](./340014-jeune-styliste-3-star.json) |
 | Jeune Styliste 4: World | 340015 | [340015-jeune-styliste-4-world.json](./340015-jeune-styliste-4-world.json) |
 | Jeune Styliste: Haute couture | 340012 | [340012-jeune-styliste-haute-couture.json](./340012-jeune-styliste-haute-couture.json) |
+| Jeux Bleu | 411574 | [411574-jeux-bleu.json](./411574-jeux-bleu.json) |
 | Jevilswap | 315035 | [315035-jevilswap.json](./315035-jevilswap.json) |
 | Jewel Adventures | 85207 | [85207-jewel-adventures.json](./85207-jewel-adventures.json) |
 | Jewel BEM Hunter Lime | 264644 | [264644-jewel-bem-hunter-lime.json](./264644-jewel-bem-hunter-lime.json) |
@@ -3304,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpoPitec | 111968 | [111968-jumpopitec.json](./111968-jumpopitec.json) |
 | JumpOut | 300987 | [300987-jumpout.json](./300987-jumpout.json) |
 | Jumpox | 243735 | [243735-jumpox.json](./243735-jumpox.json) |
+| Jumppass 2 | 411277 | [411277-jumppass-2.json](./411277-jumppass-2.json) |
 | Jumppy Egg | 27152 | [27152-jumppy-egg.json](./27152-jumppy-egg.json) |
 | Jumps | 30790 | [30790-jumps.json](./30790-jumps.json) |
 | Jumps VR | 156041 | [156041-jumps-vr.json](./156041-jumps-vr.json) |
