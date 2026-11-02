@@ -5569,7 +5569,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -19460,6 +19459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Mistress Lu Bu | 253892 | [253892-my-mistress-lu-bu.json](./253892-my-mistress-lu-bu.json) |
 | My Mixtapez Racing | 101142 | [101142-my-mixtapez-racing.json](./101142-my-mixtapez-racing.json) |
 | My Mole | 399585 | [399585-my-mole.json](./399585-my-mole.json) |
+| My Mom is a Witch | 31017 | [31017-my-mom-is-a-witch.json](./31017-my-mom-is-a-witch.json) |
 | My Mom's Bestfriend! | 346194 | [346194-my-moms-bestfriend.json](./346194-my-moms-bestfriend.json) |
 | My Money Grows On Trees | 347598 | [347598-my-money-grows-on-trees.json](./347598-my-money-grows-on-trees.json) |
 | My Monster | 318391 | [318391-my-monster.json](./318391-my-monster.json) |
@@ -20331,6 +20331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery PI: The Vegas Heist | 28976 | [28976-mystery-pi-the-vegas-heist.json](./28976-mystery-pi-the-vegas-heist.json) |
 | Mystery Quest | 48195 | [48195-mystery-quest.json](./48195-mystery-quest.json) |
 | Mystery Quest: Curse of the Ancient Spirits | 65918 | [65918-mystery-quest-curse-of-the-ancient-spirits.json](./65918-mystery-quest-curse-of-the-ancient-spirits.json) |
+| Mystery Riddles | 29371 | [29371-mystery-riddles.json](./29371-mystery-riddles.json) |
 | Mystery Saiyan | 86986 | [86986-mystery-saiyan.json](./86986-mystery-saiyan.json) |
 | Mystery Science Theater 3000 Presents: Detective | 310680 | [310680-mystery-science-theater-3000-presents-detective.json](./310680-mystery-science-theater-3000-presents-detective.json) |
 | Mystery Series: A Vampire Tale | 54244 | [54244-mystery-series-a-vampire-tale.json](./54244-mystery-series-a-vampire-tale.json) |
