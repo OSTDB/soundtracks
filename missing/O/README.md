@@ -5591,6 +5591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owls - A matching game for kids. | 106994 | [106994-owls-a-matching-game-for-kids.json](./106994-owls-a-matching-game-for-kids.json) |
 | Own Coffee Shop | 120342 | [120342-own-coffee-shop.json](./120342-own-coffee-shop.json) |
 | Own the Throne | 247919 | [247919-own-the-throne.json](./247919-own-the-throne.json) |
+| Own Time Own Target | 402678 | [402678-own-time-own-target.json](./402678-own-time-own-target.json) |
 | Owner | 295528 | [295528-owner.json](./295528-owner.json) |
 | OwnRulesRPG | 259845 | [259845-ownrulesrpg.json](./259845-ownrulesrpg.json) |
 | OwnTrio: Adventure | 292439 | [292439-owntrio-adventure.json](./292439-owntrio-adventure.json) |
