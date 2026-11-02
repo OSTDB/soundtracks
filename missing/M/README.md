@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Runaway | 296966 | [296966-machine-runaway.json](./296966-machine-runaway.json) |
 | Machine Tower 2984 | 357848 | [357848-machine-tower-2984.json](./357848-machine-tower-2984.json) |
 | Machine With a Big Gun | 103479 | [103479-machine-with-a-big-gun.json](./103479-machine-with-a-big-gun.json) |
+| Machine World | 88966 | [88966-machine-world.json](./88966-machine-world.json) |
 | Machine World 2 | 50750 | [50750-machine-world-2.json](./50750-machine-world-2.json) |
 | Machine Yearning | 245254 | [245254-machine-yearning.json](./245254-machine-yearning.json) |
 | Machineboy Complete Collection | 154614 | [154614-machineboy-complete-collection.json](./154614-machineboy-complete-collection.json) |
@@ -1821,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Gakuen Touma Soushirou Toujou Mild | 37679 | [37679-mahjong-gakuen-touma-soushirou-toujou-mild.json](./37679-mahjong-gakuen-touma-soushirou-toujou-mild.json) |
 | Mahjong Garden | 366439 | [366439-mahjong-garden.json](./366439-mahjong-garden.json) |
 | Mahjong Garden HD | 354979 | [354979-mahjong-garden-hd.json](./354979-mahjong-garden-hd.json) |
+| Mahjong Girl | 89013 | [89013-mahjong-girl.json](./89013-mahjong-girl.json) |
 | Mahjong Girl Kshity-Gurpa | 379045 | [379045-mahjong-girl-kshity-gurpa.json](./379045-mahjong-girl-kshity-gurpa.json) |
 | Mahjong Gokuu Special | 37677 | [37677-mahjong-gokuu-special.json](./37677-mahjong-gokuu-special.json) |
 | Mahjong Gokuu Tenjiku | 4312 | [4312-mahjong-gokuu-tenjiku.json](./4312-mahjong-gokuu-tenjiku.json) |
@@ -5377,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matsurikki | 202314 | [202314-matsurikki.json](./202314-matsurikki.json) |
 | Matsuro Palette | 245042 | [245042-matsuro-palette.json](./245042-matsuro-palette.json) |
 | Matsutake Game | 294007 | [294007-matsutake-game.json](./294007-matsutake-game.json) |
+| Matt Duchene's Hockey Classic | 88933 | [88933-matt-duchenes-hockey-classic.json](./88933-matt-duchenes-hockey-classic.json) |
 | Matt Hazard: Blood Bath and Beyond | 47430 | [47430-matt-hazard-blood-bath-and-beyond.json](./47430-matt-hazard-blood-bath-and-beyond.json) |
 | Matt Murphy: The Case of the Stone Guest | 309715 | [309715-matt-murphy-the-case-of-the-stone-guest.json](./309715-matt-murphy-the-case-of-the-stone-guest.json) |
 | Matt Patrol | 283012 | [283012-matt-patrol.json](./283012-matt-patrol.json) |
@@ -5561,7 +5564,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -19359,6 +19361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Princess | 90367 | [90367-my-little-princess.json](./90367-my-little-princess.json) |
 | My Little Princess : Castle | 86878 | [86878-my-little-princess-castle.json](./86878-my-little-princess-castle.json) |
 | My Little Princess : Wizard | 91990 | [91990-my-little-princess-wizard.json](./91990-my-little-princess-wizard.json) |
+| My Little Princess: Stores | 88958 | [88958-my-little-princess-stores.json](./88958-my-little-princess-stores.json) |
 | My Little Puppy | 335660 | [335660-my-little-puppy.json](./335660-my-little-puppy.json) |
 | My Little Ramenbar | 175815 | [175815-my-little-ramenbar.json](./175815-my-little-ramenbar.json) |
 | My Little Ranch | 421182 | [421182-my-little-ranch.json](./421182-my-little-ranch.json) |
@@ -19801,10 +19804,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town: Beauty Contest | 89127 | [89127-my-town-beauty-contest.json](./89127-my-town-beauty-contest.json) |
 | My Town: Best Friends' House | 88931 | [88931-my-town-best-friends-house.json](./88931-my-town-best-friends-house.json) |
 | My Town: Car (wash, fix & drive cars) | 89129 | [89129-my-town-car-wash-fix-and-drive-cars.json](./89129-my-town-car-wash-fix-and-drive-cars.json) |
+| My Town: Cinema | 88963 | [88963-my-town-cinema.json](./88963-my-town-cinema.json) |
 | My Town: Dessert Slice | 130086 | [130086-my-town-dessert-slice.json](./130086-my-town-dessert-slice.json) |
+| My Town: Farm | 88954 | [88954-my-town-farm.json](./88954-my-town-farm.json) |
+| My Town: Haunted House | 88967 | [88967-my-town-haunted-house.json](./88967-my-town-haunted-house.json) |
 | My Town: Home | 362420 | [362420-my-town-home.json](./362420-my-town-home.json) |
+| My Town: Hospital | 88955 | [88955-my-town-hospital.json](./88955-my-town-hospital.json) |
 | My Town: ICEE Amusement Park | 99320 | [99320-my-town-icee-amusement-park.json](./99320-my-town-icee-amusement-park.json) |
 | My Town: Museum | 89126 | [89126-my-town-museum.json](./89126-my-town-museum.json) |
+| My Town: Pets | 88961 | [88961-my-town-pets.json](./88961-my-town-pets.json) |
 | My Town: Police Station | 214319 | [214319-my-town-police-station.json](./214319-my-town-police-station.json) |
 | My Town: Shopping Mall | 88919 | [88919-my-town-shopping-mall.json](./88919-my-town-shopping-mall.json) |
 | My Town: World of Games | 227539 | [227539-my-town-world-of-games.json](./227539-my-town-world-of-games.json) |
