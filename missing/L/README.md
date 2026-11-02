@@ -9113,6 +9113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumo Idle Park | 400291 | [400291-lumo-idle-park.json](./400291-lumo-idle-park.json) |
 | Lumo: Deluxe Edition | 51839 | [51839-lumo-deluxe-edition.json](./51839-lumo-deluxe-edition.json) |
 | Lumo's Cat | 14303 | [14303-lumos-cat.json](./14303-lumos-cat.json) |
+| LumoraVR | 426456 | [426456-lumoravr.json](./426456-lumoravr.json) |
 | Lumos | 295613 | [295613-lumos.json](./295613-lumos.json) |
 | Lump Jump | 204994 | [204994-lump-jump.json](./204994-lump-jump.json) |
 | Lumpy | 158407 | [158407-lumpy.json](./158407-lumpy.json) |
