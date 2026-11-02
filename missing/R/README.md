@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio General | 117643 | [117643-radio-general.json](./117643-radio-general.json) |
 | Radio General: Water Rats | 213490 | [213490-radio-general-water-rats.json](./213490-radio-general-water-rats.json) |
 | Radio Hammer Station | 74966 | [74966-radio-hammer-station.json](./74966-radio-hammer-station.json) |
+| Radio Heart: Lofi Hours | 405283 | [405283-radio-heart-lofi-hours.json](./405283-radio-heart-lofi-hours.json) |
 | Radio Helicopter | 51159 | [51159-radio-helicopter.json](./51159-radio-helicopter.json) |
 | Radio Helicopter II | 43230 | [43230-radio-helicopter-ii.json](./43230-radio-helicopter-ii.json) |
 | Radio Rayless | 324348 | [324348-radio-rayless.json](./324348-radio-rayless.json) |
@@ -8021,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Redemption Mobile | 219906 | [219906-road-redemption-mobile.json](./219906-road-redemption-mobile.json) |
 | Road Riot 4WD | 39946 | [39946-road-riot-4wd.json](./39946-road-riot-4wd.json) |
 | Road Riot Combat Racing | 344930 | [344930-road-riot-combat-racing.json](./344930-road-riot-combat-racing.json) |
+| Road Riot's Revenge | 405263 | [405263-road-riots-revenge.json](./405263-road-riots-revenge.json) |
 | Road Runner | 277205 | [277205-road-runner.json](./277205-road-runner.json) |
 | Road Runner | 277206 | [277206-road-runner.json](./277206-road-runner.json) |
 | Road Runner | 277208 | [277208-road-runner.json](./277208-road-runner.json) |
@@ -10575,7 +10577,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosetta | 288719 | [288719-rosetta.json](./288719-rosetta.json) |
 | Rosetta and the Well | 301989 | [301989-rosetta-and-the-well.json](./301989-rosetta-and-the-well.json) |
 | Rosette and Words | 96634 | [96634-rosette-and-words.json](./96634-rosette-and-words.json) |
-| Rosewater | 128935 | [128935-rosewater.json](./128935-rosewater.json) |
 | RoShamBo Arena | 34714 | [34714-roshambo-arena.json](./34714-roshambo-arena.json) |
 | RoShamBo Arena: Starter Fighter Pack | 170304 | [170304-roshambo-arena-starter-fighter-pack.json](./170304-roshambo-arena-starter-fighter-pack.json) |
 | Roshpit Champions 2 | 306411 | [306411-roshpit-champions-2.json](./306411-roshpit-champions-2.json) |
