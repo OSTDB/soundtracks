@@ -4642,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remembrance | 361577 | [361577-remembrance.json](./361577-remembrance.json) |
 | Remembrance | 82917 | [82917-remembrance.json](./82917-remembrance.json) |
 | Rememento: White Shadow | 371316 | [371316-rememento-white-shadow.json](./371316-rememento-white-shadow.json) |
+| Rememoried | 35284 | [35284-rememoried.json](./35284-rememoried.json) |
 | Rememory | 126380 | [126380-rememory.json](./126380-rememory.json) |
 | Rememory | 205102 | [205102-rememory.json](./205102-rememory.json) |
 | RememPair | 349304 | [349304-remempair.json](./349304-remempair.json) |
@@ -6698,6 +6699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle Wired | 125775 | [125775-riddle-wired.json](./125775-riddle-wired.json) |
 | Riddle! | 102136 | [102136-riddle.json](./102136-riddle.json) |
 | RiddleBridge | 86744 | [86744-riddlebridge.json](./86744-riddlebridge.json) |
+| Riddled Corpses | 35271 | [35271-riddled-corpses.json](./35271-riddled-corpses.json) |
 | Riddled Corpses EX | 97897 | [97897-riddled-corpses-ex.json](./97897-riddled-corpses-ex.json) |
 | Riddledale | 223174 | [223174-riddledale.json](./223174-riddledale.json) |
 | Riddler's Den | 26211 | [26211-riddlers-den.json](./26211-riddlers-den.json) |
