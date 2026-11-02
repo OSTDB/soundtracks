@@ -4698,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Park Baseball 16 | 22654 | [22654-out-of-the-park-baseball-16.json](./22654-out-of-the-park-baseball-16.json) |
 | Out of the Park Baseball 17 | 22670 | [22670-out-of-the-park-baseball-17.json](./22670-out-of-the-park-baseball-17.json) |
 | Out of the Park Baseball 18 | 26927 | [26927-out-of-the-park-baseball-18.json](./26927-out-of-the-park-baseball-18.json) |
+| Out of the Park Baseball 19 | 83893 | [83893-out-of-the-park-baseball-19.json](./83893-out-of-the-park-baseball-19.json) |
 | Out of the Park Baseball 2 | 66489 | [66489-out-of-the-park-baseball-2.json](./66489-out-of-the-park-baseball-2.json) |
 | Out of the Park Baseball 20 | 115688 | [115688-out-of-the-park-baseball-20.json](./115688-out-of-the-park-baseball-20.json) |
 | Out of the Park Baseball 2005 | 67796 | [67796-out-of-the-park-baseball-2005.json](./67796-out-of-the-park-baseball-2005.json) |
