@@ -6132,6 +6132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexcite: The Shapes of Victory | 49925 | [49925-hexcite-the-shapes-of-victory.json](./49925-hexcite-the-shapes-of-victory.json) |
 | Hexcity | 174248 | [174248-hexcity.json](./174248-hexcity.json) |
 | Hexcodle | 313472 | [313472-hexcodle.json](./313472-hexcodle.json) |
+| Hexcon | 400591 | [400591-hexcon.json](./400591-hexcon.json) |
 | HexConnect | 235254 | [235254-hexconnect.json](./235254-hexconnect.json) |
 | Hexcraft: Harlequin Fair | 153342 | [153342-hexcraft-harlequin-fair.json](./153342-hexcraft-harlequin-fair.json) |
 | Hexcrawl | 413606 | [413606-hexcrawl.json](./413606-hexcrawl.json) |
@@ -11981,6 +11982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnorain | 22043 | [22043-hypnorain.json](./22043-hypnorain.json) |
 | Hypnorynth | 323294 | [323294-hypnorynth.json](./323294-hypnorynth.json) |
 | Hypnos | 385283 | [385283-hypnos.json](./385283-hypnos.json) |
+| Hypnos | 400598 | [400598-hypnos.json](./400598-hypnos.json) |
 | Hypnosis Card | 274902 | [274902-hypnosis-card.json](./274902-hypnosis-card.json) |
 | Hypnosis Card 2 | 296917 | [296917-hypnosis-card-2.json](./296917-hypnosis-card-2.json) |
 | Hypnosis Done Braves | 82926 | [82926-hypnosis-done-braves.json](./82926-hypnosis-done-braves.json) |
