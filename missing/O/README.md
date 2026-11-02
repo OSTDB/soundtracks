@@ -2315,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night | 286505 | [286505-one-night.json](./286505-one-night.json) |
 | One Night | 86341 | [86341-one-night.json](./86341-one-night.json) |
 | One Night 2: The Beyond | 111009 | [111009-one-night-2-the-beyond.json](./111009-one-night-2-the-beyond.json) |
+| One Night After | 411248 | [411248-one-night-after.json](./411248-one-night-after.json) |
 | One Night as Freddy | 257673 | [257673-one-night-as-freddy.json](./257673-one-night-as-freddy.json) |
 | One Night At Barneys 3 | 235396 | [235396-one-night-at-barneys-3.json](./235396-one-night-at-barneys-3.json) |
 | One Night at Flumpty's | 122981 | [122981-one-night-at-flumptys.json](./122981-one-night-at-flumptys.json) |
