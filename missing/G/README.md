@@ -6908,6 +6908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goshzilla Is In Love | 319540 | [319540-goshzilla-is-in-love.json](./319540-goshzilla-is-in-love.json) |
 | Gosick Rogue | 341909 | [341909-gosick-rogue.json](./341909-gosick-rogue.json) |
 | GoSickRogue | 260591 | [260591-gosickrogue.json](./260591-gosickrogue.json) |
+| Gospel Drift | 425836 | [425836-gospel-drift.json](./425836-gospel-drift.json) |
 | Gospel of Abaddon | 148789 | [148789-gospel-of-abaddon.json](./148789-gospel-of-abaddon.json) |
 | Gospel of Eve | 225268 | [225268-gospel-of-eve.json](./225268-gospel-of-eve.json) |
 | Gossamer | 212184 | [212184-gossamer.json](./212184-gossamer.json) |
@@ -7320,6 +7321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Battle--MMO Strategy:War | 61712 | [61712-grand-battle-mmo-strategy-war.json](./61712-grand-battle-mmo-strategy-war.json) |
 | Grand Brix Shooter | 121532 | [121532-grand-brix-shooter.json](./121532-grand-brix-shooter.json) |
 | Grand Bubble Shoot | 99096 | [99096-grand-bubble-shoot.json](./99096-grand-bubble-shoot.json) |
+| Grand Canvas | 425855 | [425855-grand-canvas.json](./425855-grand-canvas.json) |
 | Grand Cash Casino Slots | 386226 | [386226-grand-cash-casino-slots.json](./386226-grand-cash-casino-slots.json) |
 | Grand Casino | 295032 | [295032-grand-casino.json](./295032-grand-casino.json) |
 | Grand Casino Tycoon | 148257 | [148257-grand-casino-tycoon.json](./148257-grand-casino-tycoon.json) |
