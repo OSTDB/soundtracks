@@ -8944,6 +8944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Symphony: With All One's Heart | 202609 | [202609-for-symphony-with-all-ones-heart.json](./202609-for-symphony-with-all-ones-heart.json) |
 | For Symphony: With All One's Heart Portable | 56809 | [56809-for-symphony-with-all-ones-heart-portable.json](./56809-for-symphony-with-all-ones-heart-portable.json) |
 | For the Birds VI | 283796 | [283796-for-the-birds-vi.json](./283796-for-the-birds-vi.json) |
+| For The Cat! Sorcerer's Revenge | 404012 | [404012-for-the-cat-sorcerers-revenge.json](./404012-for-the-cat-sorcerers-revenge.json) |
 | For The Fatherland | 408123 | [408123-for-the-fatherland.json](./408123-for-the-fatherland.json) |
 | For the Fish in the Bottle | 402919 | [402919-for-the-fish-in-the-bottle.json](./402919-for-the-fish-in-the-bottle.json) |
 | For the Forge | 348403 | [348403-for-the-forge.json](./348403-for-the-forge.json) |
@@ -9553,6 +9554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Karts | 319112 | [319112-formula-karts.json](./319112-formula-karts.json) |
 | Formula Legendary Bundle 3 in 1 | 385136 | [385136-formula-legendary-bundle-3-in-1.json](./385136-formula-legendary-bundle-3-in-1.json) |
 | Formula Legends | 342187 | [342187-formula-legends.json](./342187-formula-legends.json) |
+| Formula Legends: 2025 Complete DLC Pack | 403996 | [403996-formula-legends-2025-complete-dlc-pack.json](./403996-formula-legends-2025-complete-dlc-pack.json) |
 | Formula Legends: Early 2010’s Season Pack | 403569 | [403569-formula-legends-early-2010-s-season-pack.json](./403569-formula-legends-early-2010-s-season-pack.json) |
 | Formula Legends: Formula E - Electric Evolution | 403568 | [403568-formula-legends-formula-e-electric-evolution.json](./403568-formula-legends-formula-e-electric-evolution.json) |
 | Formula Legends: Iconic Tracks | 403567 | [403567-formula-legends-iconic-tracks.json](./403567-formula-legends-iconic-tracks.json) |
