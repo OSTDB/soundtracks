@@ -4136,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insanitation | 346527 | [346527-insanitation.json](./346527-insanitation.json) |
 | Insanity | 206574 | [206574-insanity.json](./206574-insanity.json) |
 | Insanity | 281350 | [281350-insanity.json](./281350-insanity.json) |
+| Insanity | 412105 | [412105-insanity.json](./412105-insanity.json) |
 | Insanity | 94703 | [94703-insanity.json](./94703-insanity.json) |
 | Insanity Clicker | 34706 | [34706-insanity-clicker.json](./34706-insanity-clicker.json) |
 | Insanity Fight | 12612 | [12612-insanity-fight.json](./12612-insanity-fight.json) |
