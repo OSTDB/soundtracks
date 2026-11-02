@@ -4711,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnant: Planar Wars 3D | 138433 | [138433-remnant-planar-wars-3d.json](./138433-remnant-planar-wars-3d.json) |
 | Remnants | 134335 | [134335-remnants.json](./134335-remnants.json) |
 | Remnants | 168318 | [168318-remnants.json](./168318-remnants.json) |
+| Remnants of a Beautiful Day | 32756 | [32756-remnants-of-a-beautiful-day.json](./32756-remnants-of-a-beautiful-day.json) |
 | Remnants of a Beautiful Day | 94055 | [94055-remnants-of-a-beautiful-day.json](./94055-remnants-of-a-beautiful-day.json) |
 | Remnants of a Scare | 387611 | [387611-remnants-of-a-scare.json](./387611-remnants-of-a-scare.json) |
 | Remnants of Flesh | 322608 | [322608-remnants-of-flesh.json](./322608-remnants-of-flesh.json) |
@@ -5570,6 +5571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retailer Tycoon | 148672 | [148672-retailer-tycoon.json](./148672-retailer-tycoon.json) |
 | Retale | 307749 | [307749-retale.json](./307749-retale.json) |
 | Retaliate | 300810 | [300810-retaliate.json](./300810-retaliate.json) |
+| Retaliation | 34034 | [34034-retaliation.json](./34034-retaliation.json) |
 | Retchid | 204889 | [204889-retchid.json](./204889-retchid.json) |
 | reTension | 92085 | [92085-retension.json](./92085-retension.json) |
 | Retention | 36028 | [36028-retention.json](./36028-retention.json) |
@@ -12318,6 +12320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rymdkapsel | 18830 | [18830-rymdkapsel.json](./18830-rymdkapsel.json) |
 | RymdResa | 11735 | [11735-rymdresa.json](./11735-rymdresa.json) |
 | Ryn: And the Thread of Life | 378245 | [378245-ryn-and-the-thread-of-life.json](./378245-ryn-and-the-thread-of-life.json) |
+| Rynn's Adventure: Trouble in the Enchanted Forest | 34013 | [34013-rynns-adventure-trouble-in-the-enchanted-forest.json](./34013-rynns-adventure-trouble-in-the-enchanted-forest.json) |
 | Ryo: The Haunted Office | 234538 | [234538-ryo-the-haunted-office.json](./234538-ryo-the-haunted-office.json) |
 | Ryojyoku Chokyou | 97791 | [97791-ryojyoku-chokyou.json](./97791-ryojyoku-chokyou.json) |
 | Ryojyoku Damashii: Ero Kenkyaku Den | 97367 | [97367-ryojyoku-damashii-ero-kenkyaku-den.json](./97367-ryojyoku-damashii-ero-kenkyaku-den.json) |
