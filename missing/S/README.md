@@ -8883,6 +8883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show Me How To Live | 303064 | [303064-show-me-how-to-live.json](./303064-show-me-how-to-live.json) |
 | Show Me the Way | 113517 | [113517-show-me-the-way.json](./113517-show-me-the-way.json) |
 | Show Me What You Got | 97178 | [97178-show-me-what-you-got.json](./97178-show-me-what-you-got.json) |
+| Show Must Go On | 29241 | [29241-show-must-go-on.json](./29241-show-must-go-on.json) |
 | Show Yourself | 350372 | [350372-show-yourself.json](./350372-show-yourself.json) |
 | Showa American Story | 186613 | [186613-showa-american-story.json](./186613-showa-american-story.json) |
 | Showa Candy Shop | 153669 | [153669-showa-candy-shop.json](./153669-showa-candy-shop.json) |
@@ -10719,6 +10720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Zombies | 95604 | [95604-sinister-zombies.json](./95604-sinister-zombies.json) |
 | Sinistron | 44342 | [44342-sinistron.json](./44342-sinistron.json) |
 | Sinistrous | 153423 | [153423-sinistrous.json](./153423-sinistrous.json) |
+| Sinistry Silinium | 29283 | [29283-sinistry-silinium.json](./29283-sinistry-silinium.json) |
 | Sinja UnityStory | 334344 | [334344-sinja-unitystory.json](./334344-sinja-unitystory.json) |
 | Sinjid | 57015 | [57015-sinjid.json](./57015-sinjid.json) |
 | Sinjid: Battle Arena | 57016 | [57016-sinjid-battle-arena.json](./57016-sinjid-battle-arena.json) |
@@ -13486,6 +13488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashing Simulator Idle | 311274 | [311274-smashing-simulator-idle.json](./311274-smashing-simulator-idle.json) |
 | Smashing Spirits: Brazil's First Boxer | 135713 | [135713-smashing-spirits-brazils-first-boxer.json](./135713-smashing-spirits-brazils-first-boxer.json) |
 | Smashing Star | 202855 | [202855-smashing-star.json](./202855-smashing-star.json) |
+| Smashing the Battle | 19439 | [19439-smashing-the-battle.json](./19439-smashing-the-battle.json) |
 | Smashing the Battle Ghost Soul | 165617 | [165617-smashing-the-battle-ghost-soul.json](./165617-smashing-the-battle-ghost-soul.json) |
 | Smashing the Battle VR | 41029 | [41029-smashing-the-battle-vr.json](./41029-smashing-the-battle-vr.json) |
 | Smashing Toys | 25413 | [25413-smashing-toys.json](./25413-smashing-toys.json) |
@@ -28288,6 +28291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sung in Flame | 381345 | [381345-sung-in-flame.json](./381345-sung-in-flame.json) |
 | Sungaia Saga | 337731 | [337731-sungaia-saga.json](./337731-sungaia-saga.json) |
 | Sungka | 369459 | [369459-sungka.json](./369459-sungka.json) |
+| Sunken | 19347 | [19347-sunken.json](./19347-sunken.json) |
 | Sunken Brawl | 75147 | [75147-sunken-brawl.json](./75147-sunken-brawl.json) |
 | Sunken Century | 188318 | [188318-sunken-century.json](./188318-sunken-century.json) |
 | Sunken Citadel | 137306 | [137306-sunken-citadel.json](./137306-sunken-citadel.json) |
