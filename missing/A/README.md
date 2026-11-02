@@ -11483,6 +11483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Ninja Emaki | 414797 | [414797-arcade-archives-2-ninja-emaki.json](./414797-arcade-archives-2-ninja-emaki.json) |
 | Arcade Archives 2: Pinball Action | 413936 | [413936-arcade-archives-2-pinball-action.json](./413936-arcade-archives-2-pinball-action.json) |
 | Arcade Archives 2: Polaris | 398191 | [398191-arcade-archives-2-polaris.json](./398191-arcade-archives-2-polaris.json) |
+| Arcade Archives 2: Prehistoric Isle | 426412 | [426412-arcade-archives-2-prehistoric-isle.json](./426412-arcade-archives-2-prehistoric-isle.json) |
 | Arcade Archives 2: Rack'em Up | 406053 | [406053-arcade-archives-2-rackem-up.json](./406053-arcade-archives-2-rackem-up.json) |
 | Arcade Archives 2: Ridge Racer | 338097 | [338097-arcade-archives-2-ridge-racer.json](./338097-arcade-archives-2-ridge-racer.json) |
 | Arcade Archives 2: Roc'n Rope | 381796 | [381796-arcade-archives-2-rocn-rope.json](./381796-arcade-archives-2-rocn-rope.json) |
@@ -11490,6 +11491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Space Cyclone | 407268 | [407268-arcade-archives-2-space-cyclone.json](./407268-arcade-archives-2-space-cyclone.json) |
 | Arcade Archives 2: Space Invaders Part II | 385155 | [385155-arcade-archives-2-space-invaders-part-ii.json](./385155-arcade-archives-2-space-invaders-part-ii.json) |
 | Arcade Archives 2: Street Smart | 399297 | [399297-arcade-archives-2-street-smart.json](./399297-arcade-archives-2-street-smart.json) |
+| Arcade Archives 2: Swimmer | 426458 | [426458-arcade-archives-2-swimmer.json](./426458-arcade-archives-2-swimmer.json) |
 | Arcade Archives 2: Syvalion | 410363 | [410363-arcade-archives-2-syvalion.json](./410363-arcade-archives-2-syvalion.json) |
 | Arcade Archives 2: Tag Team Wrestling | 402569 | [402569-arcade-archives-2-tag-team-wrestling.json](./402569-arcade-archives-2-tag-team-wrestling.json) |
 | Arcade Archives 2: Tekken | 408158 | [408158-arcade-archives-2-tekken.json](./408158-arcade-archives-2-tekken.json) |
