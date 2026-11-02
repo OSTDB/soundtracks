@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Business Tycoon | 68025 | [68025-a-business-tycoon.json](./68025-a-business-tycoon.json) |
 | A Busty JK Teaches How to Do Petit Compensated Dating | 83168 | [83168-a-busty-jk-teaches-how-to-do-petit-compensated-dating.json](./83168-a-busty-jk-teaches-how-to-do-petit-compensated-dating.json) |
 | A Busty Student Council President and H Monsters | 82731 | [82731-a-busty-student-council-president-and-h-monsters.json](./82731-a-busty-student-council-president-and-h-monsters.json) |
+| A Busy Day for Elmo: Sesame Street Video Calls | 89000 | [89000-a-busy-day-for-elmo-sesame-street-video-calls.json](./89000-a-busy-day-for-elmo-sesame-street-video-calls.json) |
 | A Butterfly | 266400 | [266400-a-butterfly.json](./266400-a-butterfly.json) |
 | A Butterfly | 327294 | [327294-a-butterfly.json](./327294-a-butterfly.json) |
 | A Butterfly in the District of Dreams | 28914 | [28914-a-butterfly-in-the-district-of-dreams.json](./28914-a-butterfly-in-the-district-of-dreams.json) |
@@ -5410,6 +5411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aiyra | 255772 | [255772-aiyra.json](./255772-aiyra.json) |
 | Aiza: New Generation | 228339 | [228339-aiza-new-generation.json](./228339-aiza-new-generation.json) |
 | Aizasia | 389015 | [389015-aizasia.json](./389015-aizasia.json) |
+| AJ Jump: Animal Jam Kangaroos! | 88986 | [88986-aj-jump-animal-jam-kangaroos.json](./88986-aj-jump-animal-jam-kangaroos.json) |
 | Ajax | 39324 | [39324-ajax.json](./39324-ajax.json) |
 | AJAX Club Football | 267877 | [267877-ajax-club-football.json](./267877-ajax-club-football.json) |
 | AJAX Club Football 2005 | 47305 | [47305-ajax-club-football-2005.json](./47305-ajax-club-football-2005.json) |
@@ -10619,6 +10621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apache 3D Sim Flight Simulator | 223635 | [223635-apache-3d-sim-flight-simulator.json](./223635-apache-3d-sim-flight-simulator.json) |
 | Apache Flight | 14166 | [14166-apache-flight.json](./14166-apache-flight.json) |
 | Apache Overkill | 42782 | [42782-apache-overkill.json](./42782-apache-overkill.json) |
+| Apache SIM HD | 89009 | [89009-apache-sim-hd.json](./89009-apache-sim-hd.json) |
 | Apache Strike | 137662 | [137662-apache-strike.json](./137662-apache-strike.json) |
 | Apache: Air Assault | 3233 | [3233-apache-air-assault.json](./3233-apache-air-assault.json) |
 | Apacies: Creatures of the Old West | 271662 | [271662-apacies-creatures-of-the-old-west.json](./271662-apacies-creatures-of-the-old-west.json) |
