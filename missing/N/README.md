@@ -2067,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis 3: The Eve of Destruction | 1479 | [1479-nemesis-3-the-eve-of-destruction.json](./1479-nemesis-3-the-eve-of-destruction.json) |
 | Nemesis Macana | 364630 | [364630-nemesis-macana.json](./364630-nemesis-macana.json) |
 | Nemesis of the Roman Empire | 10593 | [10593-nemesis-of-the-roman-empire.json](./10593-nemesis-of-the-roman-empire.json) |
+| Nemesis Perspective | 30982 | [30982-nemesis-perspective.json](./30982-nemesis-perspective.json) |
 | Nemesis Realms | 80883 | [80883-nemesis-realms.json](./80883-nemesis-realms.json) |
 | Nemesis Shock | 346397 | [346397-nemesis-shock.json](./346397-nemesis-shock.json) |
 | Nemesis the Warlock | 37187 | [37187-nemesis-the-warlock.json](./37187-nemesis-the-warlock.json) |
@@ -3413,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Station: Zombies | 255278 | [255278-next-station-zombies.json](./255278-next-station-zombies.json) |
 | Next Step | 178655 | [178655-next-step.json](./178655-next-step.json) |
 | Next Stop | 87314 | [87314-next-stop.json](./87314-next-stop.json) |
+| Next Stop 2 | 30906 | [30906-next-stop-2.json](./30906-next-stop-2.json) |
 | Next Stop 3 | 115593 | [115593-next-stop-3.json](./115593-next-stop-3.json) |
 | Next Stop Mobile | 197855 | [197855-next-stop-mobile.json](./197855-next-stop-mobile.json) |
 | Next Stop Nowhere | 136743 | [136743-next-stop-nowhere.json](./136743-next-stop-nowhere.json) |
@@ -4289,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Before Disney 2 April Fools | 272471 | [272471-nightmare-before-disney-2-april-fools.json](./272471-nightmare-before-disney-2-april-fools.json) |
 | Nightmare Before Disney: Halloween Edition | 270751 | [270751-nightmare-before-disney-halloween-edition.json](./270751-nightmare-before-disney-halloween-edition.json) |
 | Nightmare Below Disney | 270671 | [270671-nightmare-below-disney.json](./270671-nightmare-below-disney.json) |
+| Nightmare Boy | 29384 | [29384-nightmare-boy.json](./29384-nightmare-boy.json) |
 | Nightmare Boy: Mongano's Edition | 167047 | [167047-nightmare-boy-monganos-edition.json](./167047-nightmare-boy-monganos-edition.json) |
 | Nightmare Boy: Special Edition | 140167 | [140167-nightmare-boy-special-edition.json](./140167-nightmare-boy-special-edition.json) |
 | Nightmare Break | 340550 | [340550-nightmare-break.json](./340550-nightmare-break.json) |
