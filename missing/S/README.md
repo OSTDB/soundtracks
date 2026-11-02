@@ -4460,6 +4460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector Clear: Hryaken Destroy | 369534 | [369534-sector-clear-hryaken-destroy.json](./369534-sector-clear-hryaken-destroy.json) |
 | Sector Force | 350466 | [350466-sector-force.json](./350466-sector-force.json) |
 | Sector Lockdown | 382335 | [382335-sector-lockdown.json](./382335-sector-lockdown.json) |
+| Sector Ninja | 402053 | [402053-sector-ninja.json](./402053-sector-ninja.json) |
 | Sector Shooter | 361266 | [361266-sector-shooter.json](./361266-sector-shooter.json) |
 | Sector Six | 32924 | [32924-sector-six.json](./32924-sector-six.json) |
 | Sector Strike | 145016 | [145016-sector-strike.json](./145016-sector-strike.json) |
@@ -4614,6 +4615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeker: Quest | 250760 | [250760-seeker-quest.json](./250760-seeker-quest.json) |
 | Seekers | 169342 | [169342-seekers.json](./169342-seekers.json) |
 | Seekers Aeterna | 217339 | [217339-seekers-aeterna.json](./217339-seekers-aeterna.json) |
+| Seekers Alliance: Hero's Journey | 402082 | [402082-seekers-alliance-heros-journey.json](./402082-seekers-alliance-heros-journey.json) |
 | Seekers Notes | 88865 | [88865-seekers-notes.json](./88865-seekers-notes.json) |
 | Seekers of Darkness | 320028 | [320028-seekers-of-darkness.json](./320028-seekers-of-darkness.json) |
 | Seekers of Eclipse | 278697 | [278697-seekers-of-eclipse.json](./278697-seekers-of-eclipse.json) |
@@ -13067,6 +13069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slither Loop | 147078 | [147078-slither-loop.json](./147078-slither-loop.json) |
 | Slither Realm | 388946 | [388946-slither-realm.json](./388946-slither-realm.json) |
 | Slither Snake IO 2018 | 101372 | [101372-slither-snake-io-2018.json](./101372-slither-snake-io-2018.json) |
+| Slither Whip | 402049 | [402049-slither-whip.json](./402049-slither-whip.json) |
 | Slither.io | 22712 | [22712-slither-io.json](./22712-slither-io.json) |
 | Slither.io | 239311 | [239311-slither-io.json](./239311-slither-io.json) |
 | Slithereens | 146177 | [146177-slithereens.json](./146177-slithereens.json) |
@@ -14888,6 +14891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer | 346099 | [346099-soccer.json](./346099-soccer.json) |
 | Soccer | 347006 | [347006-soccer.json](./347006-soccer.json) |
 | Soccer | 390480 | [390480-soccer.json](./390480-soccer.json) |
+| Soccer | 402048 | [402048-soccer.json](./402048-soccer.json) |
 | Soccer | 72370 | [72370-soccer.json](./72370-soccer.json) |
 | Soccer | 86375 | [86375-soccer.json](./86375-soccer.json) |
 | Soccer - Ultimate Team | 104472 | [104472-soccer-ultimate-team.json](./104472-soccer-ultimate-team.json) |
@@ -18021,6 +18025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Alien | 365597 | [365597-space-alien.json](./365597-space-alien.json) |
 | Space Alien Hangar | 360731 | [360731-space-alien-hangar.json](./360731-space-alien-hangar.json) |
 | Space Aliens Invaders | 147641 | [147641-space-aliens-invaders.json](./147641-space-aliens-invaders.json) |
+| Space Alliance: Frontier | 402087 | [402087-space-alliance-frontier.json](./402087-space-alliance-frontier.json) |
 | Space Alpha | 161617 | [161617-space-alpha.json](./161617-space-alpha.json) |
 | Space Amoeba: StarShip Constructor | 163184 | [163184-space-amoeba-starship-constructor.json](./163184-space-amoeba-starship-constructor.json) |
 | Space and Lazers | 324320 | [324320-space-and-lazers.json](./324320-space-and-lazers.json) |
@@ -18463,6 +18468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
