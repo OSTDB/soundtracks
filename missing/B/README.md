@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9798,6 +9799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobby Online | 58458 | [58458-blobby-online.json](./58458-blobby-online.json) |
 | Blobby Tennis | 36475 | [36475-blobby-tennis.json](./36475-blobby-tennis.json) |
 | Blobby's Adventure | 290339 | [290339-blobbys-adventure.json](./290339-blobbys-adventure.json) |
+| Blobby's Big Blobventure | 403374 | [403374-blobbys-big-blobventure.json](./403374-blobbys-big-blobventure.json) |
 | Blobby's Quest | 263120 | [263120-blobbys-quest.json](./263120-blobbys-quest.json) |
 | Blobbz Online | 186144 | [186144-blobbz-online.json](./186144-blobbz-online.json) |
 | BlobCat | 55709 | [55709-blobcat.json](./55709-blobcat.json) |
@@ -14056,6 +14058,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Burrow | 391094 | [391094-brawl-burrow.json](./391094-brawl-burrow.json) |
 | Brawl Busters | 20714 | [20714-brawl-busters.json](./20714-brawl-busters.json) |
 | Brawl Chess | 140374 | [140374-brawl-chess.json](./140374-brawl-chess.json) |
+| Brawl Chess: Barbarian | 403413 | [403413-brawl-chess-barbarian.json](./403413-brawl-chess-barbarian.json) |
+| Brawl Chess: Dwarf | 403414 | [403414-brawl-chess-dwarf.json](./403414-brawl-chess-dwarf.json) |
 | Brawl Chess: Elf | 403415 | [403415-brawl-chess-elf.json](./403415-brawl-chess-elf.json) |
 | Brawl Chess: Fairy | 403416 | [403416-brawl-chess-fairy.json](./403416-brawl-chess-fairy.json) |
 | Brawl Chess: Fantasy Edition | 274483 | [274483-brawl-chess-fantasy-edition.json](./274483-brawl-chess-fantasy-edition.json) |
