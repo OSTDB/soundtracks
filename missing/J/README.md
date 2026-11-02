@@ -3703,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just a ball: Jumping in the space | 196478 | [196478-just-a-ball-jumping-in-the-space.json](./196478-just-a-ball-jumping-in-the-space.json) |
 | Just a Button | 63178 | [63178-just-a-button.json](./63178-just-a-button.json) |
 | Just a Chest | 212128 | [212128-just-a-chest.json](./212128-just-a-chest.json) |
+| Just a Cleric | 32759 | [32759-just-a-cleric.json](./32759-just-a-cleric.json) |
 | Just a Cute Capybara Puzzle | 295284 | [295284-just-a-cute-capybara-puzzle.json](./295284-just-a-cute-capybara-puzzle.json) |
 | Just A Dice Game | 415791 | [415791-just-a-dice-game.json](./415791-just-a-dice-game.json) |
 | Just A Dream | 304894 | [304894-just-a-dream.json](./304894-just-a-dream.json) |
