@@ -7352,7 +7352,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitchside Empire | 414613 | [414613-pitchside-empire.json](./414613-pitchside-empire.json) |
 | Piteur's Odyssey | 184654 | [184654-piteurs-odyssey.json](./184654-piteurs-odyssey.json) |
 | Pitfall | 139891 | [139891-pitfall.json](./139891-pitfall.json) |
-| Pitfall 3D: Beyond the Jungle | 44980 | [44980-pitfall-3d-beyond-the-jungle.json](./44980-pitfall-3d-beyond-the-jungle.json) |
 | Pitfall II: Lost Caverns | 39509 | [39509-pitfall-ii-lost-caverns.json](./39509-pitfall-ii-lost-caverns.json) |
 | Pitfall II: The Lost Caverns | 282072 | [282072-pitfall-ii-the-lost-caverns.json](./282072-pitfall-ii-the-lost-caverns.json) |
 | Pitfall II: The Lost Caverns | 6125 | [6125-pitfall-ii-the-lost-caverns.json](./6125-pitfall-ii-the-lost-caverns.json) |
