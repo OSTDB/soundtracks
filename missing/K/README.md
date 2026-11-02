@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaigrad | 163969 | [163969-kaigrad.json](./163969-kaigrad.json) |
 | Kaii Judge Labyrinth | 288431 | [288431-kaii-judge-labyrinth.json](./288431-kaii-judge-labyrinth.json) |
 | Kaiichi Otto-sensei Tokyo Daigaku Kanshuu: Suku-suku Kosodate DS - Akachan to Asobou! | 269632 | [269632-kaiichi-otto-sensei-tokyo-daigaku-kanshuu-suku-suku-kosodate-ds-akachan-to-asobou.json](./269632-kaiichi-otto-sensei-tokyo-daigaku-kanshuu-suku-suku-kosodate-ds-akachan-to-asobou.json) |
+| Kaiject | 409320 | [409320-kaiject.json](./409320-kaiject.json) |
 | Kaijin Zona | 59340 | [59340-kaijin-zona.json](./59340-kaijin-zona.json) |
 | Kaiju Attack | 194182 | [194182-kaiju-attack.json](./194182-kaiju-attack.json) |
 | Kaiju Big Battel: Fighto Fantasy | 29075 | [29075-kaiju-big-battel-fighto-fantasy.json](./29075-kaiju-big-battel-fighto-fantasy.json) |
@@ -1027,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karta Centauri | 369614 | [369614-karta-centauri.json](./369614-karta-centauri.json) |
 | Kartia: The Word of Fate | 45222 | [45222-kartia-the-word-of-fate.json](./45222-kartia-the-word-of-fate.json) |
 | Karting | 149185 | [149185-karting.json](./149185-karting.json) |
+| Karting Core | 408437 | [408437-karting-core.json](./408437-karting-core.json) |
 | Karting Grand Prix Minigame | 389121 | [389121-karting-grand-prix-minigame.json](./389121-karting-grand-prix-minigame.json) |
 | Karting of Banban | 324816 | [324816-karting-of-banban.json](./324816-karting-of-banban.json) |
 | Karting Superstars | 265034 | [265034-karting-superstars.json](./265034-karting-superstars.json) |
@@ -1415,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep in Mind | 98046 | [98046-keep-in-mind.json](./98046-keep-in-mind.json) |
 | Keep in Mind: Remastered - Deluxe Edition | 187851 | [187851-keep-in-mind-remastered-deluxe-edition.json](./187851-keep-in-mind-remastered-deluxe-edition.json) |
 | Keep in touch | 75652 | [75652-keep-in-touch.json](./75652-keep-in-touch.json) |
+| Keep It Alive | 408427 | [408427-keep-it-alive.json](./408427-keep-it-alive.json) |
 | Keep it alive! | 311680 | [311680-keep-it-alive.json](./311680-keep-it-alive.json) |
 | Keep It Contained | 390028 | [390028-keep-it-contained.json](./390028-keep-it-contained.json) |
 | Keep it Cool, Man | 202625 | [202625-keep-it-cool-man.json](./202625-keep-it-cool-man.json) |
@@ -1692,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenka ga Tsuyokute Cool de Tsuyoki no Furyou Kanojo ga Yowai Boku o Kabatte Kegasaremasu | 82481 | [82481-kenka-ga-tsuyokute-cool-de-tsuyoki-no-furyou-kanojo-ga-yowai-boku-o-kabatte-kegasaremasu.json](./82481-kenka-ga-tsuyokute-cool-de-tsuyoki-no-furyou-kanojo-ga-yowai-boku-o-kabatte-kegasaremasu.json) |
 | KenKen Pro by Will Shortz | 66747 | [66747-kenken-pro-by-will-shortz.json](./66747-kenken-pro-by-will-shortz.json) |
 | KenKen: Train Your Brain | 68022 | [68022-kenken-train-your-brain.json](./68022-kenken-train-your-brain.json) |
+| Kenki Ippatsu! Crane Master ni Narou! | 410604 | [410604-kenki-ippatsu-crane-master-ni-narou.json](./410604-kenki-ippatsu-crane-master-ni-narou.json) |
 | Kenkoku no Shokudou | 222367 | [222367-kenkoku-no-shokudou.json](./222367-kenkoku-no-shokudou.json) |
 | Kennan Simulator | 177166 | [177166-kennan-simulator.json](./177166-kennan-simulator.json) |
 | Kennedy Approach | 25920 | [25920-kennedy-approach.json](./25920-kennedy-approach.json) |
@@ -2679,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
 | Kimi ni Steady | 263694 | [263694-kimi-ni-steady.json](./263694-kimi-ni-steady.json) |
 | Kimi ni Todoke: Sodateru Omoi | 66964 | [66964-kimi-ni-todoke-sodateru-omoi.json](./66964-kimi-ni-todoke-sodateru-omoi.json) |
+| Kimi no Arika | 410618 | [410618-kimi-no-arika.json](./410618-kimi-no-arika.json) |
 | Kimi no Hitomi ni Hit Me | 372774 | [372774-kimi-no-hitomi-ni-hit-me.json](./372774-kimi-no-hitomi-ni-hit-me.json) |
 | Kimi no Hitomi ni Hit Me | 82803 | [82803-kimi-no-hitomi-ni-hit-me.json](./82803-kimi-no-hitomi-ni-hit-me.json) |
 | Kimi no Mirai | 251537 | [251537-kimi-no-mirai.json](./251537-kimi-no-mirai.json) |
@@ -4367,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Guns: Definitive Edition | 283141 | [283141-knights-and-guns-definitive-edition.json](./283141-knights-and-guns-definitive-edition.json) |
 | Knights & Guns: Deluxe Edition | 257532 | [257532-knights-and-guns-deluxe-edition.json](./257532-knights-and-guns-deluxe-edition.json) |
 | Knights & Guns: Diamond Edition | 271835 | [271835-knights-and-guns-diamond-edition.json](./271835-knights-and-guns-diamond-edition.json) |
+| Knights & Guns: Enhancement Edition | 409970 | [409970-knights-and-guns-enhancement-edition.json](./409970-knights-and-guns-enhancement-edition.json) |
 | Knights & Guns: Essentials Edition | 386802 | [386802-knights-and-guns-essentials-edition.json](./386802-knights-and-guns-essentials-edition.json) |
 | Knights & Guns: Expansion Pack #1 | 223559 | [223559-knights-and-guns-expansion-pack-1.json](./223559-knights-and-guns-expansion-pack-1.json) |
 | Knights & Guns: Expansion Pack #2 | 226326 | [226326-knights-and-guns-expansion-pack-2.json](./226326-knights-and-guns-expansion-pack-2.json) |
@@ -4375,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Guns: Gold Edition | 270794 | [270794-knights-and-guns-gold-edition.json](./270794-knights-and-guns-gold-edition.json) |
 | Knights & Guns: GOTY Edition | 287127 | [287127-knights-and-guns-goty-edition.json](./287127-knights-and-guns-goty-edition.json) |
 | Knights & Guns: Grand Edition | 315860 | [315860-knights-and-guns-grand-edition.json](./315860-knights-and-guns-grand-edition.json) |
+| Knights & Guns: Luxury Edition | 409971 | [409971-knights-and-guns-luxury-edition.json](./409971-knights-and-guns-luxury-edition.json) |
 | Knights & Guns: NY Edition | 277893 | [277893-knights-and-guns-ny-edition.json](./277893-knights-and-guns-ny-edition.json) |
 | Knights & Guns: Platinum Edition | 274494 | [274494-knights-and-guns-platinum-edition.json](./274494-knights-and-guns-platinum-edition.json) |
 | Knights & Guns: Premium Edition | 233947 | [233947-knights-and-guns-premium-edition.json](./233947-knights-and-guns-premium-edition.json) |
@@ -4916,6 +4923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Komparet | 415481 | [415481-komparet.json](./415481-komparet.json) |
 | Kompete | 271681 | [271681-kompete.json](./271681-kompete.json) |
 | Komrad | 171774 | [171774-komrad.json](./171774-komrad.json) |
+| Komu | 409598 | [409598-komu.json](./409598-komu.json) |
 | Kőműves Kelemen | 120803 | [120803-komuves-kelemen.json](./120803-komuves-kelemen.json) |
 | KON: Knights of Night | 57545 | [57545-kon-knights-of-night.json](./57545-kon-knights-of-night.json) |
 | Kona | 14404 | [14404-kona.json](./14404-kona.json) |
