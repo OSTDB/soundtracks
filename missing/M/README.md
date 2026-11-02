@@ -3299,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | March of War: StormSiege | 170494 | [170494-march-of-war-stormsiege.json](./170494-march-of-war-stormsiege.json) |
 | March on Oz | 62941 | [62941-march-on-oz.json](./62941-march-on-oz.json) |
 | March to a Million | 56730 | [56730-march-to-a-million.json](./56730-march-to-a-million.json) |
+| March to Glory | 83827 | [83827-march-to-glory.json](./83827-march-to-glory.json) |
 | March to the Heart | 349313 | [349313-march-to-the-heart.json](./349313-march-to-the-heart.json) |
 | March, March! European Warfare | 242962 | [242962-march-march-european-warfare.json](./242962-march-march-european-warfare.json) |
 | March! March! | 173197 | [173197-march-march.json](./173197-march-march.json) |
@@ -8047,6 +8048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meme Christmas | 293037 | [293037-meme-christmas.json](./293037-meme-christmas.json) |
 | Meme Classics 2 | 419944 | [419944-meme-classics-2.json](./419944-meme-classics-2.json) |
 | Meme Couple | 334802 | [334802-meme-couple.json](./334802-meme-couple.json) |
+| Meme Dragons | 76443 | [76443-meme-dragons.json](./76443-meme-dragons.json) |
 | Meme Lordz | 198239 | [198239-meme-lordz.json](./198239-meme-lordz.json) |
 | Meme Machine | 97088 | [97088-meme-machine.json](./97088-meme-machine.json) |
 | Meme Mayhem | 305127 | [305127-meme-mayhem.json](./305127-meme-mayhem.json) |
