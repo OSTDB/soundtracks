@@ -1659,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: Queen of Sands | 91136 | [91136-dark-parables-queen-of-sands.json](./91136-dark-parables-queen-of-sands.json) |
 | Dark Parables: Requiem for the Forgotten Shadow | 139792 | [139792-dark-parables-requiem-for-the-forgotten-shadow.json](./139792-dark-parables-requiem-for-the-forgotten-shadow.json) |
 | Dark Parables: Return of the Salt Princess | 123634 | [123634-dark-parables-return-of-the-salt-princess.json](./123634-dark-parables-return-of-the-salt-princess.json) |
+| Dark Parables: Return of the Salt Princess - Collector's Edition | 93792 | [93792-dark-parables-return-of-the-salt-princess-collectors-edition.json](./93792-dark-parables-return-of-the-salt-princess-collectors-edition.json) |
 | Dark Parables: Rise of the Snow Queen | 139793 | [139793-dark-parables-rise-of-the-snow-queen.json](./139793-dark-parables-rise-of-the-snow-queen.json) |
 | Dark Parables: Rise of the Snow Queen - Collector's Edition | 32380 | [32380-dark-parables-rise-of-the-snow-queen-collectors-edition.json](./32380-dark-parables-rise-of-the-snow-queen-collectors-edition.json) |
 | Dark Parables: The Exiled Prince - Collector's Edition | 32381 | [32381-dark-parables-the-exiled-prince-collectors-edition.json](./32381-dark-parables-the-exiled-prince-collectors-edition.json) |
@@ -3785,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadfall Tropics | 99644 | [99644-deadfall-tropics.json](./99644-deadfall-tropics.json) |
 | DeadFright | 154429 | [154429-deadfright.json](./154429-deadfright.json) |
 | Deadful Leningrad: Developer Life Simulator | 422026 | [422026-deadful-leningrad-developer-life-simulator.json](./422026-deadful-leningrad-developer-life-simulator.json) |
+| DeadGround:Arena | 93805 | [93805-deadground-arena.json](./93805-deadground-arena.json) |
 | Deadhaus Sonata | 111333 | [111333-deadhaus-sonata.json](./111333-deadhaus-sonata.json) |
 | Deadhead: Autorail | 412245 | [412245-deadhead-autorail.json](./412245-deadhead-autorail.json) |
 | Deadheat Road | 43799 | [43799-deadheat-road.json](./43799-deadheat-road.json) |
@@ -6380,6 +6382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dentist Hour: Escape Room | 357797 | [357797-dentist-hour-escape-room.json](./357797-dentist-hour-escape-room.json) |
 | Dentist kids Hospital Simulation Teeth Surgery | 101950 | [101950-dentist-kids-hospital-simulation-teeth-surgery.json](./101950-dentist-kids-hospital-simulation-teeth-surgery.json) |
 | Dentist Office Creepers | 88101 | [88101-dentist-office-creepers.json](./88101-dentist-office-creepers.json) |
+| Dentist Surgery Game | 93870 | [93870-dentist-surgery-game.json](./93870-dentist-surgery-game.json) |
 | Dentures and Demons 2 | 145008 | [145008-dentures-and-demons-2.json](./145008-dentures-and-demons-2.json) |
 | Deo | 288087 | [288087-deo.json](./288087-deo.json) |
 | Deodar | 360742 | [360742-deodar.json](./360742-deodar.json) |
@@ -6946,6 +6949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperation | 147415 | [147415-desperation.json](./147415-desperation.json) |
 | Despertar | 398666 | [398666-despertar.json](./398666-despertar.json) |
 | Despicable Bear | 86852 | [86852-despicable-bear.json](./86852-despicable-bear.json) |
+| Despicable Bear - Top Games | 89142 | [89142-despicable-bear-top-games.json](./89142-despicable-bear-top-games.json) |
 | Despicable Boss | 344501 | [344501-despicable-boss.json](./344501-despicable-boss.json) |
 | Despicable Me: Minion Mania | 64383 | [64383-despicable-me-minion-mania.json](./64383-despicable-me-minion-mania.json) |
 | Despicable Me: Minion Rush | 39188 | [39188-despicable-me-minion-rush.json](./39188-despicable-me-minion-rush.json) |
