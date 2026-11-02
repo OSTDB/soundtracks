@@ -3485,6 +3485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's go! Brave | 269184 | [269184-lets-go-brave.json](./269184-lets-go-brave.json) |
 | Let's Go! My Harem Farm | 278149 | [278149-lets-go-my-harem-farm.json](./278149-lets-go-my-harem-farm.json) |
 | Let's Go! Skiing | 123935 | [123935-lets-go-skiing.json](./123935-lets-go-skiing.json) |
+| Let's Golf 2 | 84436 | [84436-lets-golf-2.json](./84436-lets-golf-2.json) |
 | Let's Golf! | 67693 | [67693-lets-golf.json](./67693-lets-golf.json) |
 | Let's Hitchhike! | 84451 | [84451-lets-hitchhike.json](./84451-lets-hitchhike.json) |
 | Let's Hobbee | 160194 | [160194-lets-hobbee.json](./160194-lets-hobbee.json) |
