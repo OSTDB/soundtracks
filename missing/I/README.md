@@ -5268,6 +5268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irem Arcade 1 | 214546 | [214546-irem-arcade-1.json](./214546-irem-arcade-1.json) |
 | Irem Arcade Classics | 92368 | [92368-irem-arcade-classics.json](./92368-irem-arcade-classics.json) |
 | Irem Arcade Hits | 62514 | [62514-irem-arcade-hits.json](./62514-irem-arcade-hits.json) |
+| Irem Collection: Volume 1 | 252192 | [252192-irem-collection-volume-1.json](./252192-irem-collection-volume-1.json) |
 | Irem Collection: Volume 2 | 321846 | [321846-irem-collection-volume-2.json](./321846-irem-collection-volume-2.json) |
 | Irem Collection: Volume 3 | 342246 | [342246-irem-collection-volume-3.json](./342246-irem-collection-volume-3.json) |
 | Irena: Genesis Metal Fury | 142750 | [142750-irena-genesis-metal-fury.json](./142750-irena-genesis-metal-fury.json) |
