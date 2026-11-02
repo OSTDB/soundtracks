@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land Fight | 91964 | [91964-land-fight.json](./91964-land-fight.json) |
 | Land It | 387514 | [387514-land-it.json](./387514-land-it.json) |
 | Land it Rocket | 33328 | [33328-land-it-rocket.json](./33328-land-it-rocket.json) |
+| Land Mine Land | 418396 | [418396-land-mine-land.json](./418396-land-mine-land.json) |
 | Land of an Endless Journey | 107509 | [107509-land-of-an-endless-journey.json](./107509-land-of-an-endless-journey.json) |
 | Land of Artificial Jellies | 294003 | [294003-land-of-artificial-jellies.json](./294003-land-of-artificial-jellies.json) |
 | Land of Borealia | 259090 | [259090-land-of-borealia.json](./259090-land-of-borealia.json) |
@@ -1192,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Drop | 332949 | [332949-last-drop.json](./332949-last-drop.json) |
 | Last Duel: Inter Planet War 2012 | 12171 | [12171-last-duel-inter-planet-war-2012.json](./12171-last-duel-inter-planet-war-2012.json) |
 | Last dungeon of defeat - Humiliation for female warrior Erina | 134627 | [134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json](./134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json) |
+| Last Egg Alive | 419092 | [419092-last-egg-alive.json](./419092-last-egg-alive.json) |
 | Last Embryo: Either of Brave to Story | 163754 | [163754-last-embryo-either-of-brave-to-story.json](./163754-last-embryo-either-of-brave-to-story.json) |
 | Last Emperor | 258554 | [258554-last-emperor.json](./258554-last-emperor.json) |
 | Last Empire: War Z | 88093 | [88093-last-empire-war-z.json](./88093-last-empire-war-z.json) |
@@ -4036,6 +4038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberator | 18456 | [18456-liberator.json](./18456-liberator.json) |
 | Liberator / Space Fiends | 83300 | [83300-liberator-space-fiends.json](./83300-liberator-space-fiends.json) |
 | Liberator TD | 68573 | [68573-liberator-td.json](./68573-liberator-td.json) |
+| Liberators Inc. | 418422 | [418422-liberators-inc.json](./418422-liberators-inc.json) |
 | Liberators' Chronicles | 266779 | [266779-liberators-chronicles.json](./266779-liberators-chronicles.json) |
 | LiberoGrande | 40372 | [40372-liberogrande.json](./40372-liberogrande.json) |
 | Liberogrande International | 81231 | [81231-liberogrande-international.json](./81231-liberogrande-international.json) |
@@ -6464,6 +6467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Log Away: Halloween DLC | 422470 | [422470-log-away-halloween-dlc.json](./422470-log-away-halloween-dlc.json) |
 | Log Challenge | 81913 | [81913-log-challenge.json](./81913-log-challenge.json) |
 | Log Drive Runner | 32946 | [32946-log-drive-runner.json](./32946-log-drive-runner.json) |
+| Log Drop | 419064 | [419064-log-drop.json](./419064-log-drop.json) |
 | Log Jammers | 83583 | [83583-log-jammers.json](./83583-log-jammers.json) |
 | Log Riders | 387547 | [387547-log-riders.json](./387547-log-riders.json) |
 | Log Run | 317429 | [317429-log-run.json](./317429-log-run.json) |
@@ -8585,6 +8589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lowtris | 362337 | [362337-lowtris.json](./362337-lowtris.json) |
 | Loya | 239661 | [239661-loya.json](./239661-loya.json) |
 | Loya Online | 124450 | [124450-loya-online.json](./124450-loya-online.json) |
+| Loyalty | 419776 | [419776-loyalty.json](./419776-loyalty.json) |
 | Loyalty and Blood: Viktor Origins | 89774 | [89774-loyalty-and-blood-viktor-origins.json](./89774-loyalty-and-blood-viktor-origins.json) |
 | Lozenge | 88010 | [88010-lozenge.json](./88010-lozenge.json) |
 | LOZT: Legion of Zombie Terrors | 393048 | [393048-lozt-legion-of-zombie-terrors.json](./393048-lozt-legion-of-zombie-terrors.json) |
