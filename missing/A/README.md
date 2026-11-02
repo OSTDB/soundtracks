@@ -3604,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeolus Fighter | 236797 | [236797-aeolus-fighter.json](./236797-aeolus-fighter.json) |
 | Aeolus Fighter 2 | 231827 | [231827-aeolus-fighter-2.json](./231827-aeolus-fighter-2.json) |
 | Aeolus Fighter 3 | 265585 | [265585-aeolus-fighter-3.json](./265585-aeolus-fighter-3.json) |
+| Aeon | 36635 | [36635-aeon.json](./36635-aeon.json) |
 | Aeon Alpha | 141071 | [141071-aeon-alpha.json](./141071-aeon-alpha.json) |
 | Aeon Blood | 169383 | [169383-aeon-blood.json](./169383-aeon-blood.json) |
 | Aeon Command | 8374 | [8374-aeon-command.json](./8374-aeon-command.json) |
@@ -5229,6 +5230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airmash | 82558 | [82558-airmash.json](./82558-airmash.json) |
 | AirMech | 1365 | [1365-airmech.json](./1365-airmech.json) |
 | AirMech: Command | 19899 | [19899-airmech-command.json](./19899-airmech-command.json) |
+| AirMech: Wastelands | 54816 | [54816-airmech-wastelands.json](./54816-airmech-wastelands.json) |
 | Airmen | 37402 | [37402-airmen.json](./37402-airmen.json) |
 | Aironauts | 43750 | [43750-aironauts.json](./43750-aironauts.json) |
 | AironBall: The Floating Lands | 44225 | [44225-aironball-the-floating-lands.json](./44225-aironball-the-floating-lands.json) |
@@ -7623,6 +7625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze Christmas | 112829 | [112829-amaze-christmas.json](./112829-amaze-christmas.json) |
 | Amaze Classic | 98686 | [98686-amaze-classic.json](./98686-amaze-classic.json) |
 | Amaze Classic: Inverted | 104079 | [104079-amaze-classic-inverted.json](./104079-amaze-classic-inverted.json) |
+| Amaze Dark Times | 55285 | [55285-amaze-dark-times.json](./55285-amaze-dark-times.json) |
 | AMaze DOS | 191078 | [191078-amaze-dos.json](./191078-amaze-dos.json) |
 | Amaze Double | 75005 | [75005-amaze-double.json](./75005-amaze-double.json) |
 | Amaze Gears | 88087 | [88087-amaze-gears.json](./88087-amaze-gears.json) |
@@ -8788,6 +8791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andromeda Six: Team Time with Oppo | 256361 | [256361-andromeda-six-team-time-with-oppo.json](./256361-andromeda-six-team-time-with-oppo.json) |
 | Andromeda SS | 249705 | [249705-andromeda-ss.json](./249705-andromeda-ss.json) |
 | Andromeda Survivors | 219677 | [219677-andromeda-survivors.json](./219677-andromeda-survivors.json) |
+| Andromeda Wing | 55288 | [55288-andromeda-wing.json](./55288-andromeda-wing.json) |
 | Andromeda Zombies Colonies | 233221 | [233221-andromeda-zombies-colonies.json](./233221-andromeda-zombies-colonies.json) |
 | Andromeda: Rebirth of Humanity | 148973 | [148973-andromeda-rebirth-of-humanity.json](./148973-andromeda-rebirth-of-humanity.json) |
 | Andromeda: There is No God Up Here | 22001 | [22001-andromeda-there-is-no-god-up-here.json](./22001-andromeda-there-is-no-god-up-here.json) |
@@ -10251,6 +10255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antares | 125343 | [125343-antares.json](./125343-antares.json) |
 | Antares | 132727 | [132727-antares.json](./132727-antares.json) |
 | Antaresian Reliquary | 141566 | [141566-antaresian-reliquary.json](./141566-antaresian-reliquary.json) |
+| Antaria Online | 55438 | [55438-antaria-online.json](./55438-antaria-online.json) |
 | Antartica | 400962 | [400962-antartica.json](./400962-antartica.json) |
 | AntarticaRoyale | 255284 | [255284-antarticaroyale.json](./255284-antarticaroyale.json) |
 | Antbear | 371561 | [371561-antbear.json](./371561-antbear.json) |
@@ -10836,6 +10841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocolypse: Vel | 316830 | [316830-apocolypse-vel.json](./316830-apocolypse-vel.json) |
 | Apocripha/0 Alex Disk | 204557 | [204557-apocripha-0-alex-disk.json](./204557-apocripha-0-alex-disk.json) |
 | Apocripha/0 Platina Disk | 204560 | [204560-apocripha-0-platina-disk.json](./204560-apocripha-0-platina-disk.json) |
+| Apocryph | 54814 | [54814-apocryph.json](./54814-apocryph.json) |
 | Apocrypha | 171416 | [171416-apocrypha.json](./171416-apocrypha.json) |
 | Apogea | 311753 | [311753-apogea.json](./311753-apogea.json) |
 | Apogee | 387719 | [387719-apogee.json](./387719-apogee.json) |
