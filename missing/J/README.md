@@ -2180,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JNKPlat Slots | 79171 | [79171-jnkplat-slots.json](./79171-jnkplat-slots.json) |
 | JNKPlat: Platdude's Xmas Adventure | 61947 | [61947-jnkplat-platdudes-xmas-adventure.json](./61947-jnkplat-platdudes-xmas-adventure.json) |
 | JNZ: Nightmare Girls | 340773 | [340773-jnz-nightmare-girls.json](./340773-jnz-nightmare-girls.json) |
+| Jo & Rubi: A Cozy Expedition | 421593 | [421593-jo-and-rubi-a-cozy-expedition.json](./421593-jo-and-rubi-a-cozy-expedition.json) |
 | Jo and Momo: Forest Rush | 101774 | [101774-jo-and-momo-forest-rush.json](./101774-jo-and-momo-forest-rush.json) |
 | Jo Jo Wo | 239824 | [239824-jo-jo-wo.json](./239824-jo-jo-wo.json) |
 | Jo-Jo Fighter | 182366 | [182366-jo-jo-fighter.json](./182366-jo-jo-fighter.json) |
