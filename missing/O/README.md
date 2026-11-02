@@ -3753,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of Battle: U.S. Marines | 118962 | [118962-order-of-battle-u-s-marines.json](./118962-order-of-battle-u-s-marines.json) |
 | Order of Battle: U.S. Pacific | 118963 | [118963-order-of-battle-u-s-pacific.json](./118963-order-of-battle-u-s-pacific.json) |
 | Order of Battle: Winter War | 118965 | [118965-order-of-battle-winter-war.json](./118965-order-of-battle-winter-war.json) |
+| Order of Battle: World War II | 36258 | [36258-order-of-battle-world-war-ii.json](./36258-order-of-battle-world-war-ii.json) |
 | Order of Battle: World War II - Allies Resurgent | 171073 | [171073-order-of-battle-world-war-ii-allies-resurgent.json](./171073-order-of-battle-world-war-ii-allies-resurgent.json) |
 | Order of Battle: World War II - Order of Battle: Allies Victorious | 219793 | [219793-order-of-battle-world-war-ii-order-of-battle-allies-victorious.json](./219793-order-of-battle-world-war-ii-order-of-battle-allies-victorious.json) |
 | Order of Fate | 297579 | [297579-order-of-fate.json](./297579-order-of-fate.json) |
