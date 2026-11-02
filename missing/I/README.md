@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Pasta | 252567 | [252567-i-love-pasta.json](./252567-i-love-pasta.json) |
 | I Love Puppies! | 210080 | [210080-i-love-puppies.json](./210080-i-love-puppies.json) |
 | I Love Puppies! | 70274 | [70274-i-love-puppies.json](./70274-i-love-puppies.json) |
+| I Love Science! | 403999 | [403999-i-love-science.json](./403999-i-love-science.json) |
 | I Love Softball | 48464 | [48464-i-love-softball.json](./48464-i-love-softball.json) |
 | I Love Spelling! | 339135 | [339135-i-love-spelling.json](./339135-i-love-spelling.json) |
 | I Love Strawberries | 8380 | [8380-i-love-strawberries.json](./8380-i-love-strawberries.json) |
