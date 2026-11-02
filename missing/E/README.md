@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat the Rich | 176802 | [176802-eat-the-rich.json](./176802-eat-the-rich.json) |
 | Eat the Rich | 285024 | [285024-eat-the-rich.json](./285024-eat-the-rich.json) |
 | Eat the Wounded | 161590 | [161590-eat-the-wounded.json](./161590-eat-the-wounded.json) |
+| Eat Them! | 21167 | [21167-eat-them.json](./21167-eat-them.json) |
 | Eat This | 299468 | [299468-eat-this.json](./299468-eat-this.json) |
 | Eat this! | 120004 | [120004-eat-this.json](./120004-eat-this.json) |
 | Eat Your Fucking Soup | 239774 | [239774-eat-your-fucking-soup.json](./239774-eat-your-fucking-soup.json) |
@@ -7853,6 +7854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy Play: PomPom Party | 2215 | [2215-eyetoy-play-pompom-party.json](./2215-eyetoy-play-pompom-party.json) |
 | EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
 | EyeToy: Chat | 262194 | [262194-eyetoy-chat.json](./262194-eyetoy-chat.json) |
+| EyeToy: Groove | 22250 | [22250-eyetoy-groove.json](./22250-eyetoy-groove.json) |
 | EyeToy: Kinetic Combat | 23119 | [23119-eyetoy-kinetic-combat.json](./23119-eyetoy-kinetic-combat.json) |
 | EyeToy: Operation Spy | 43222 | [43222-eyetoy-operation-spy.json](./43222-eyetoy-operation-spy.json) |
 | EyeToy: Play | 18724 | [18724-eyetoy-play.json](./18724-eyetoy-play.json) |
