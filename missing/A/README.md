@@ -7721,6 +7721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Love: Cupid's Arrows | 232570 | [232570-amazing-love-cupids-arrows.json](./232570-amazing-love-cupids-arrows.json) |
 | Amazing Machines | 187385 | [187385-amazing-machines.json](./187385-amazing-machines.json) |
 | Amazing Mahjong: Zen | 89743 | [89743-amazing-mahjong-zen.json](./89743-amazing-mahjong-zen.json) |
+| Amazing Match-Word Learning Games for Kids | 95335 | [95335-amazing-match-word-learning-games-for-kids.json](./95335-amazing-match-word-learning-games-for-kids.json) |
 | Amazing Math Starring Marvel Super Heroes | 316021 | [316021-amazing-math-starring-marvel-super-heroes.json](./316021-amazing-math-starring-marvel-super-heroes.json) |
 | Amazing Maze | 18115 | [18115-amazing-maze.json](./18115-amazing-maze.json) |
 | Amazing Maze | 217486 | [217486-amazing-maze.json](./217486-amazing-maze.json) |
@@ -14957,6 +14958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Rescue | 63108 | [63108-astro-rescue.json](./63108-astro-rescue.json) |
 | Astro Rider | 126327 | [126327-astro-rider.json](./126327-astro-rider.json) |
 | Astro Sentai Jarbonder | 150924 | [150924-astro-sentai-jarbonder.json](./150924-astro-sentai-jarbonder.json) |
+| Astro Shooter | 95341 | [95341-astro-shooter.json](./95341-astro-shooter.json) |
 | Astro Smash 'n' Blast! | 233553 | [233553-astro-smash-n-blast.json](./233553-astro-smash-n-blast.json) |
 | Astro Spider: Between Threads and Stars | 364067 | [364067-astro-spider-between-threads-and-stars.json](./364067-astro-spider-between-threads-and-stars.json) |
 | Astro Traveler | 197534 | [197534-astro-traveler.json](./197534-astro-traveler.json) |
