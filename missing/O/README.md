@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octofight Escape | 180250 | [180250-octofight-escape.json](./180250-octofight-escape.json) |
 | Octofoot | 180446 | [180446-octofoot.json](./180446-octofoot.json) |
 | OctoFurry | 128971 | [128971-octofurry.json](./128971-octofurry.json) |
+| Octogeddon | 25640 | [25640-octogeddon.json](./25640-octogeddon.json) |
 | Octogram | 265686 | [265686-octogram.json](./265686-octogram.json) |
 | OctoMaze | 199725 | [199725-octomaze.json](./199725-octomaze.json) |
 | Octonauts | 230394 | [230394-octonauts.json](./230394-octonauts.json) |
@@ -879,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Escape | 184937 | [184937-office-escape.json](./184937-office-escape.json) |
 | Office Fever | 223993 | [223993-office-fever.json](./223993-office-fever.json) |
 | Office Fight | 270963 | [270963-office-fight.json](./270963-office-fight.json) |
+| Office Freakout | 25107 | [25107-office-freakout.json](./25107-office-freakout.json) |
 | Office Hero | 382516 | [382516-office-hero.json](./382516-office-hero.json) |
 | Office Hours | 403076 | [403076-office-hours.json](./403076-office-hours.json) |
 | Office Hurdles | 268019 | [268019-office-hurdles.json](./268019-office-hurdles.json) |
