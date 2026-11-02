@@ -890,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero point 2 | 39815 | [39815-zero-point-2.json](./39815-zero-point-2.json) |
 | Zero Point Survivor | 371308 | [371308-zero-point-survivor.json](./371308-zero-point-survivor.json) |
 | Zero Protocol | 289338 | [289338-zero-protocol.json](./289338-zero-protocol.json) |
+| Zero Punctuation: Hatfall - Hatters Gonna Hat Edition | 34447 | [34447-zero-punctuation-hatfall-hatters-gonna-hat-edition.json](./34447-zero-punctuation-hatfall-hatters-gonna-hat-edition.json) |
 | Zero Reflex: Black Eye Edition | 52107 | [52107-zero-reflex-black-eye-edition.json](./52107-zero-reflex-black-eye-edition.json) |
 | Zero Sievert 2 | 400088 | [400088-zero-sievert-2.json](./400088-zero-sievert-2.json) |
 | Zero Six: Behind Enemy Lines | 129131 | [129131-zero-six-behind-enemy-lines.json](./129131-zero-six-behind-enemy-lines.json) |
