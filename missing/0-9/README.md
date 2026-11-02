@@ -2115,6 +2115,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Chess: Nocca Nocca | 151674 | [151674-3d-chess-nocca-nocca.json](./151674-3d-chess-nocca-nocca.json) |
 | 3D City | 271675 | [271675-3d-city.json](./271675-3d-city.json) |
 | 3D City Run 2 | 350762 | [350762-3d-city-run-2.json](./350762-3d-city-run-2.json) |
+| 3D Classics: Excitebike | 84615 | [84615-3d-classics-excitebike.json](./84615-3d-classics-excitebike.json) |
+| 3D Classics: Kid Icarus | 84616 | [84616-3d-classics-kid-icarus.json](./84616-3d-classics-kid-icarus.json) |
 | 3D Classics: Kirby's Adventure | 84617 | [84617-3d-classics-kirbys-adventure.json](./84617-3d-classics-kirbys-adventure.json) |
 | 3D Color Labyrinth | 282158 | [282158-3d-color-labyrinth.json](./282158-3d-color-labyrinth.json) |
 | 3D Columns | 202926 | [202926-3d-columns.json](./202926-3d-columns.json) |
@@ -2136,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Double Dealing Character | 173961 | [173961-3d-double-dealing-character.json](./173961-3d-double-dealing-character.json) |
 | 3D Dragon Castle | 205837 | [205837-3d-dragon-castle.json](./205837-3d-dragon-castle.json) |
 | 3D Driving School | 52544 | [52544-3d-driving-school.json](./52544-3d-driving-school.json) |
+| 3D Ecco the Dolphin | 84666 | [84666-3d-ecco-the-dolphin.json](./84666-3d-ecco-the-dolphin.json) |
 | 3d Engineers | 35889 | [35889-3d-engineers.json](./35889-3d-engineers.json) |
 | 3D Escape Game: Chinese Room | 199913 | [199913-3d-escape-game-chinese-room.json](./199913-3d-escape-game-chinese-room.json) |
 | 3D Escape Room: Cursed Legacy | 390381 | [390381-3d-escape-room-cursed-legacy.json](./390381-3d-escape-room-cursed-legacy.json) |
@@ -2299,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Stock Car Championship | 73294 | [73294-3d-stock-car-championship.json](./73294-3d-stock-car-championship.json) |
 | 3D Stock Cars II | 365794 | [365794-3d-stock-cars-ii.json](./365794-3d-stock-cars-ii.json) |
 | 3D Streets of Rage | 47643 | [47643-3d-streets-of-rage.json](./47643-3d-streets-of-rage.json) |
+| 3D Streets of Rage 2 | 84677 | [84677-3d-streets-of-rage-2.json](./84677-3d-streets-of-rage-2.json) |
 | 3D Super Chess | 96073 | [96073-3d-super-chess.json](./96073-3d-super-chess.json) |
 | 3D Tan | 257374 | [257374-3d-tan.json](./257374-3d-tan.json) |
 | 3D Tanx | 93378 | [93378-3d-tanx.json](./93378-3d-tanx.json) |
