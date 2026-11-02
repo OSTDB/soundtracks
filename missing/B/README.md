@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Cycle | 235470 | [235470-backrooms-cycle.json](./235470-backrooms-cycle.json) |
 | Backrooms Cycle | 256781 | [256781-backrooms-cycle.json](./256781-backrooms-cycle.json) |
 | Backrooms Descent | 236363 | [236363-backrooms-descent.json](./236363-backrooms-descent.json) |
+| Backrooms Dream With Tung Tung Tung Sahur | 405803 | [405803-backrooms-dream-with-tung-tung-tung-sahur.json](./405803-backrooms-dream-with-tung-tung-tung-sahur.json) |
 | Backrooms Duck Edition | 420920 | [420920-backrooms-duck-edition.json](./420920-backrooms-duck-edition.json) |
 | Backrooms Escape Protocol | 339446 | [339446-backrooms-escape-protocol.json](./339446-backrooms-escape-protocol.json) |
 | Backrooms Exploration | 242406 | [242406-backrooms-exploration.json](./242406-backrooms-exploration.json) |
@@ -4879,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat 'Em Up | 160294 | [160294-beat-em-up.json](./160294-beat-em-up.json) |
 | Beat 'N' Path | 278560 | [278560-beat-n-path.json](./278560-beat-n-path.json) |
 | Beat & Beasties | 406225 | [406225-beat-and-beasties.json](./406225-beat-and-beasties.json) |
+| Beat a Boo! | 405815 | [405815-beat-a-boo.json](./405815-beat-a-boo.json) |
 | Beat Aimer! | 213971 | [213971-beat-aimer.json](./213971-beat-aimer.json) |
 | Beat Arena | 168686 | [168686-beat-arena.json](./168686-beat-arena.json) |
 | Beat Around the Bush | 327643 | [327643-beat-around-the-bush.json](./327643-beat-around-the-bush.json) |
