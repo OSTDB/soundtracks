@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Assault EX | 47647 | [47647-nano-assault-ex.json](./47647-nano-assault-ex.json) |
 | Nano Assault Neo | 21385 | [21385-nano-assault-neo.json](./21385-nano-assault-neo.json) |
 | Nano Assault Neo-X | 52606 | [52606-nano-assault-neo-x.json](./52606-nano-assault-neo-x.json) |
+| Nano Breaker | 22305 | [22305-nano-breaker.json](./22305-nano-breaker.json) |
 | Nano Citizens | 260555 | [260555-nano-citizens.json](./260555-nano-citizens.json) |
 | Nano Code:X | 410908 | [410908-nano-code-x.json](./410908-nano-code-x.json) |
 | Nano Dash | 103163 | [103163-nano-dash.json](./103163-nano-dash.json) |
@@ -1182,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 06 | 24143 | [24143-nba-06.json](./24143-nba-06.json) |
 | NBA 08: Featuring the Life - Vol.3 | 43526 | [43526-nba-08-featuring-the-life-vol-3.json](./43526-nba-08-featuring-the-life-vol-3.json) |
 | NBA 09: The Inside | 7383 | [7383-nba-09-the-inside.json](./7383-nba-09-the-inside.json) |
+| NBA 10: The Inside | 21895 | [21895-nba-10-the-inside.json](./21895-nba-10-the-inside.json) |
 | NBA 2K | 8832 | [8832-nba-2k.json](./8832-nba-2k.json) |
 | NBA 2K Mobile Basketball | 127918 | [127918-nba-2k-mobile-basketball.json](./127918-nba-2k-mobile-basketball.json) |
 | NBA 2K Playgrounds 2 | 96487 | [96487-nba-2k-playgrounds-2.json](./96487-nba-2k-playgrounds-2.json) |
