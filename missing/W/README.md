@@ -2177,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs + Watch Dogs 2 Double Pack | 136697 | [136697-watch-dogs-watch-dogs-2-double-pack.json](./136697-watch-dogs-watch-dogs-2-double-pack.json) |
 | Watch Dogs 1 + Watch Dogs 2 Gold Editions Bundle | 164573 | [164573-watch-dogs-1-watch-dogs-2-gold-editions-bundle.json](./164573-watch-dogs-1-watch-dogs-2-gold-editions-bundle.json) |
 | Watch Dogs 1 + Watch Dogs 2 Standard Editions Bundle | 164703 | [164703-watch-dogs-1-watch-dogs-2-standard-editions-bundle.json](./164703-watch-dogs-1-watch-dogs-2-standard-editions-bundle.json) |
+| Watch Dogs 2: Human Conditions | 27349 | [27349-watch-dogs-2-human-conditions.json](./27349-watch-dogs-2-human-conditions.json) |
 | Watch Dogs 2: Mega Pack | 226879 | [226879-watch-dogs-2-mega-pack.json](./226879-watch-dogs-2-mega-pack.json) |
 | Watch Dogs 2: No Compromise | 28377 | [28377-watch-dogs-2-no-compromise.json](./28377-watch-dogs-2-no-compromise.json) |
 | Watch Dogs 2: Private Eye Pack | 399907 | [399907-watch-dogs-2-private-eye-pack.json](./399907-watch-dogs-2-private-eye-pack.json) |
@@ -2187,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs: Access Granted Pack | 399905 | [399905-watch-dogs-access-granted-pack.json](./399905-watch-dogs-access-granted-pack.json) |
 | Watch Dogs: Bad Blood | 17473 | [17473-watch-dogs-bad-blood.json](./17473-watch-dogs-bad-blood.json) |
 | Watch Dogs: Complete Edition | 42951 | [42951-watch-dogs-complete-edition.json](./42951-watch-dogs-complete-edition.json) |
+| Watch Dogs: Conspiracy | 26282 | [26282-watch-dogs-conspiracy.json](./26282-watch-dogs-conspiracy.json) |
 | Watch Dogs: DEDSEC Edition | 103379 | [103379-watch-dogs-dedsec-edition.json](./103379-watch-dogs-dedsec-edition.json) |
 | Watch Dogs: Legion - Collector's Edition | 119354 | [119354-watch-dogs-legion-collectors-edition.json](./119354-watch-dogs-legion-collectors-edition.json) |
 | Watch Dogs: Legion - Gold Edition | 119575 | [119575-watch-dogs-legion-gold-edition.json](./119575-watch-dogs-legion-gold-edition.json) |
@@ -4615,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WiccAtriX | 282212 | [282212-wiccatrix.json](./282212-wiccatrix.json) |
 | Wicce | 32928 | [32928-wicce.json](./32928-wicce.json) |
 | Wichtel | 405483 | [405483-wichtel.json](./405483-wichtel.json) |
+| Wick | 25843 | [25843-wick.json](./25843-wick.json) |
 | Wick3r: Cheese, Keys & Speed | 315462 | [315462-wick3r-cheese-keys-and-speed.json](./315462-wick3r-cheese-keys-and-speed.json) |
 | Wicked | 12233 | [12233-wicked.json](./12233-wicked.json) |
 | Wicked | 216827 | [216827-wicked.json](./216827-wicked.json) |
