@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Arena | 153156 | [153156-z-arena.json](./153156-z-arena.json) |
 | Z Buster | 79566 | [79566-z-buster.json](./79566-z-buster.json) |
 | Z Collection | 52102 | [52102-z-collection.json](./52102-z-collection.json) |
+| Z Dawn | 103186 | [103186-z-dawn.json](./103186-z-dawn.json) |
 | Z Day: Hearts of Heroes | 105797 | [105797-z-day-hearts-of-heroes.json](./105797-z-day-hearts-of-heroes.json) |
 | Z Escape: Complete Edition | 277911 | [277911-z-escape-complete-edition.json](./277911-z-escape-complete-edition.json) |
 | Z Escape: Laser Edition | 362218 | [362218-z-escape-laser-edition.json](./362218-z-escape-laser-edition.json) |
@@ -808,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zerko | 289878 | [289878-zerko.json](./289878-zerko.json) |
 | Zero 4 Champ | 37648 | [37648-zero-4-champ.json](./37648-zero-4-champ.json) |
 | Zero 5 | 40818 | [40818-zero-5.json](./40818-zero-5.json) |
+| Zero Caliber VR | 104282 | [104282-zero-caliber-vr.json](./104282-zero-caliber-vr.json) |
 | Zero Caliber: Reloaded | 174559 | [174559-zero-caliber-reloaded.json](./174559-zero-caliber-reloaded.json) |
 | Zero Chastity: A Sultry Summer Holiday | 192566 | [192566-zero-chastity-a-sultry-summer-holiday.json](./192566-zero-chastity-a-sultry-summer-holiday.json) |
 | Zero City: Try to Survive | 140935 | [140935-zero-city-try-to-survive.json](./140935-zero-city-try-to-survive.json) |
