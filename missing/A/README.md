@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About My Cat | 303749 | [303749-a-game-about-my-cat.json](./303749-a-game-about-my-cat.json) |
 | A Game About Opening a Chest | 390749 | [390749-a-game-about-opening-a-chest.json](./390749-a-game-about-opening-a-chest.json) |
 | A Game About Penguins | 346487 | [346487-a-game-about-penguins.json](./346487-a-game-about-penguins.json) |
+| A Game About Picking Fruits | 422829 | [422829-a-game-about-picking-fruits.json](./422829-a-game-about-picking-fruits.json) |
 | A Game About Plant | 379506 | [379506-a-game-about-plant.json](./379506-a-game-about-plant.json) |
 | A Game About Selling Used Games | 379505 | [379505-a-game-about-selling-used-games.json](./379505-a-game-about-selling-used-games.json) |
 | A Game About Shooting Bullets At Bullets | 383674 | [383674-a-game-about-shooting-bullets-at-bullets.json](./383674-a-game-about-shooting-bullets-at-bullets.json) |
@@ -1169,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Study in Steampunk: Choice by Gaslight | 34030 | [34030-a-study-in-steampunk-choice-by-gaslight.json](./34030-a-study-in-steampunk-choice-by-gaslight.json) |
 | A Stupid Game About Pouring Drinks for the P.T.A. | 387502 | [387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json](./387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json) |
 | A Summer in Our Hearts | 338171 | [338171-a-summer-in-our-hearts.json](./338171-a-summer-in-our-hearts.json) |
+| A Summer To Die For | 422847 | [422847-a-summer-to-die-for.json](./422847-a-summer-to-die-for.json) |
 | A Summer with the Shiba Inu | 119229 | [119229-a-summer-with-the-shiba-inu.json](./119229-a-summer-with-the-shiba-inu.json) |
 | A Summer's End: Hong Kong 1986 | 131912 | [131912-a-summers-end-hong-kong-1986.json](./131912-a-summers-end-hong-kong-1986.json) |
 | A Sun of Salt | 107784 | [107784-a-sun-of-salt.json](./107784-a-sun-of-salt.json) |
@@ -7813,6 +7815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber City | 210904 | [210904-amber-city.json](./210904-amber-city.json) |
 | Amber County | 102067 | [102067-amber-county.json](./102067-amber-county.json) |
 | Amber Effect | 174693 | [174693-amber-effect.json](./174693-amber-effect.json) |
+| Amber Eyes | 422836 | [422836-amber-eyes.json](./422836-amber-eyes.json) |
 | Amber Island | 210903 | [210903-amber-island.json](./210903-amber-island.json) |
 | Amber Isle | 152188 | [152188-amber-isle.json](./152188-amber-isle.json) |
 | Amber Isle: Deluxe Edition | 330195 | [330195-amber-isle-deluxe-edition.json](./330195-amber-isle-deluxe-edition.json) |
