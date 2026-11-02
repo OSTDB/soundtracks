@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal Guardians: Servants of the Dark | 317701 | [317701-gal-guardians-servants-of-the-dark.json](./317701-gal-guardians-servants-of-the-dark.json) |
 | Gal Gun: Double Peace Bilingal | 218892 | [218892-gal-gun-double-peace-bilingal.json](./218892-gal-gun-double-peace-bilingal.json) |
 | Gal Gunvolt Burst | 92038 | [92038-gal-gunvolt-burst.json](./92038-gal-gunvolt-burst.json) |
+| Gal Metal | 57142 | [57142-gal-metal.json](./57142-gal-metal.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
 | Gal Pani X | 250208 | [250208-gal-pani-x.json](./250208-gal-pani-x.json) |
 | Gal Vs Village | 390714 | [390714-gal-vs-village.json](./390714-gal-vs-village.json) |
@@ -2673,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Zero: US Weapons Pack | 234928 | [234928-generation-zero-us-weapons-pack.json](./234928-generation-zero-us-weapons-pack.json) |
 | Generation Zero: US Weapons Pack 2 | 234925 | [234925-generation-zero-us-weapons-pack-2.json](./234925-generation-zero-us-weapons-pack-2.json) |
 | Generations | 237260 | [237260-generations.json](./237260-generations.json) |
+| Generations Lost | 19784 | [19784-generations-lost.json](./19784-generations-lost.json) |
 | Generations of Destruction | 189879 | [189879-generations-of-destruction.json](./189879-generations-of-destruction.json) |
 | Generative Dungeon | 228755 | [228755-generative-dungeon.json](./228755-generative-dungeon.json) |
 | Generative Quest | 267414 | [267414-generative-quest.json](./267414-generative-quest.json) |
@@ -8602,6 +8604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grief | 415253 | [415253-grief.json](./415253-grief.json) |
 | Grief | 61934 | [61934-grief.json](./61934-grief.json) |
 | Grief Like a Stray Dog | 195531 | [195531-grief-like-a-stray-dog.json](./195531-grief-like-a-stray-dog.json) |
+| Grief Syndrome | 51343 | [51343-grief-syndrome.json](./51343-grief-syndrome.json) |
 | Grief Trigger | 236514 | [236514-grief-trigger.json](./236514-grief-trigger.json) |
 | Grief: How to say goodbye | 182851 | [182851-grief-how-to-say-goodbye.json](./182851-grief-how-to-say-goodbye.json) |
 | Griefhelm | 125762 | [125762-griefhelm.json](./125762-griefhelm.json) |
