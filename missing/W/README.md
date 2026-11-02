@@ -4304,6 +4304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Island | 123398 | [123398-white-island.json](./123398-white-island.json) |
 | White Knight Chronicles | 7482 | [7482-white-knight-chronicles.json](./7482-white-knight-chronicles.json) |
 | White Knight Chronicles II | 314050 | [314050-white-knight-chronicles-ii.json](./314050-white-knight-chronicles-ii.json) |
+| White Knight Chronicles II | 7483 | [7483-white-knight-chronicles-ii.json](./7483-white-knight-chronicles-ii.json) |
 | White Knight Chronicles: International Edition | 21761 | [21761-white-knight-chronicles-international-edition.json](./21761-white-knight-chronicles-international-edition.json) |
 | White Knight Chronicles: International EX Edition | 268742 | [268742-white-knight-chronicles-international-ex-edition.json](./268742-white-knight-chronicles-international-ex-edition.json) |
 | White Knight Chronicles: Origins | 42811 | [42811-white-knight-chronicles-origins.json](./42811-white-knight-chronicles-origins.json) |
