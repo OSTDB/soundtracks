@@ -2199,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Skytree Village | 19393 | [19393-harvest-moon-skytree-village.json](./19393-harvest-moon-skytree-village.json) |
 | Harvest Moon: Skytree Village | 358623 | [358623-harvest-moon-skytree-village.json](./358623-harvest-moon-skytree-village.json) |
 | Harvest Moon: The Lost Valley | 358624 | [358624-harvest-moon-the-lost-valley.json](./358624-harvest-moon-the-lost-valley.json) |
+| Harvest Moon: The Lost Valley | 7419 | [7419-harvest-moon-the-lost-valley.json](./7419-harvest-moon-the-lost-valley.json) |
 | Harvest Moon: The Tale of Two Towns | 3392 | [3392-harvest-moon-the-tale-of-two-towns.json](./3392-harvest-moon-the-tale-of-two-towns.json) |
 | Harvest Moon: The Winds of Anthos | 228855 | [228855-harvest-moon-the-winds-of-anthos.json](./228855-harvest-moon-the-winds-of-anthos.json) |
 | Harvest Moon: The Winds of Anthos - Animal Avalanche Pack | 269053 | [269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json](./269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json) |
@@ -3993,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helldivers: Turning Up the Heat | 267989 | [267989-helldivers-turning-up-the-heat.json](./267989-helldivers-turning-up-the-heat.json) |
 | Helldivers: Vehicles Pack | 167665 | [167665-helldivers-vehicles-pack.json](./167665-helldivers-vehicles-pack.json) |
 | Helldivers: Weapons Pack | 167663 | [167663-helldivers-weapons-pack.json](./167663-helldivers-weapons-pack.json) |
+| Helldorado | 7262 | [7262-helldorado.json](./7262-helldorado.json) |
 | Helldrivers | 46983 | [46983-helldrivers.json](./46983-helldrivers.json) |
 | Helle's Undersea City Project: Bringing Air to The Garden | 266092 | [266092-helles-undersea-city-project-bringing-air-to-the-garden.json](./266092-helles-undersea-city-project-bringing-air-to-the-garden.json) |
 | Helle's Undersea City Project: Bringing Air to The Garden - Nakino Mashiro | 276573 | [276573-helles-undersea-city-project-bringing-air-to-the-garden-nakino-mashiro.json](./276573-helles-undersea-city-project-bringing-air-to-the-garden-nakino-mashiro.json) |
@@ -5830,6 +5832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroish | 207215 | [207215-heroish.json](./207215-heroish.json) |
 | Heroism | 155055 | [155055-heroism.json](./155055-heroism.json) |
 | Heroki | 96612 | [96612-heroki.json](./96612-heroki.json) |
+| Heroland | 103238 | [103238-heroland.json](./103238-heroland.json) |
 | Heroland: Knowble Edition | 136194 | [136194-heroland-knowble-edition.json](./136194-heroland-knowble-edition.json) |
 | Herolike | 26785 | [26785-herolike.json](./26785-herolike.json) |
 | Heron: Steam Machine | 67239 | [67239-heron-steam-machine.json](./67239-heron-steam-machine.json) |
@@ -8158,6 +8161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday in Europe: Czech Adventure - Collector's Edition | 344413 | [344413-holiday-in-europe-czech-adventure-collectors-edition.json](./344413-holiday-in-europe-czech-adventure-collectors-edition.json) |
 | Holiday in Europe: Netherlands Dreams - Collector's Edition | 362852 | [362852-holiday-in-europe-netherlands-dreams-collectors-edition.json](./362852-holiday-in-europe-netherlands-dreams-collectors-edition.json) |
 | Holiday in Europe: Wonders of Germany - Collector's Edition | 340477 | [340477-holiday-in-europe-wonders-of-germany-collectors-edition.json](./340477-holiday-in-europe-wonders-of-germany-collectors-edition.json) |
+| Holiday Island | 7766 | [7766-holiday-island.json](./7766-holiday-island.json) |
 | Holiday Jigsaw Christmas | 195445 | [195445-holiday-jigsaw-christmas.json](./195445-holiday-jigsaw-christmas.json) |
 | Holiday Jigsaw Christmas 3 | 216442 | [216442-holiday-jigsaw-christmas-3.json](./216442-holiday-jigsaw-christmas-3.json) |
 | Holiday Jigsaw Easter | 169136 | [169136-holiday-jigsaw-easter.json](./169136-holiday-jigsaw-easter.json) |
