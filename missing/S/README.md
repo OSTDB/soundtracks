@@ -1082,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone | 106205 | [106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json](./106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json) |
 | Sam & Max: The Devil's Playhouse - Episode 4: Beyond the Alley of the Dolls | 127133 | [127133-sam-and-max-the-devils-playhouse-episode-4-beyond-the-alley-of-the-dolls.json](./127133-sam-and-max-the-devils-playhouse-episode-4-beyond-the-alley-of-the-dolls.json) |
 | Sam 0 | 360620 | [360620-sam-0.json](./360620-sam-0.json) |
+| Sam Glyph: Private Eye! | 17903 | [17903-sam-glyph-private-eye.json](./17903-sam-glyph-private-eye.json) |
 | Sam Mallard: The Case of the Missing Swan | 203218 | [203218-sam-mallard-the-case-of-the-missing-swan.json](./203218-sam-mallard-the-case-of-the-missing-swan.json) |
 | Sam Power: Firefighter | 122742 | [122742-sam-power-firefighter.json](./122742-sam-power-firefighter.json) |
 | Sam Power: Footballer | 122741 | [122741-sam-power-footballer.json](./122741-sam-power-footballer.json) |
@@ -7008,6 +7009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Attack | 160183 | [160183-shark-attack.json](./160183-shark-attack.json) |
 | Shark Attack | 281026 | [281026-shark-attack.json](./281026-shark-attack.json) |
 | Shark Attack | 365605 | [365605-shark-attack.json](./365605-shark-attack.json) |
+| Shark Attack Deathmatch 2 | 17981 | [17981-shark-attack-deathmatch-2.json](./17981-shark-attack-deathmatch-2.json) |
 | Shark Bridge Card Game | 87120 | [87120-shark-bridge-card-game.json](./87120-shark-bridge-card-game.json) |
 | Shark Castle | 123556 | [123556-shark-castle.json](./123556-shark-castle.json) |
 | Shark Coin Party | 337630 | [337630-shark-coin-party.json](./337630-shark-coin-party.json) |
@@ -13649,6 +13651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smooth Criminals | 51526 | [51526-smooth-criminals.json](./51526-smooth-criminals.json) |
 | Smooth Elevator | 184737 | [184737-smooth-elevator.json](./184737-smooth-elevator.json) |
 | Smooth Mover | 120956 | [120956-smooth-mover.json](./120956-smooth-mover.json) |
+| Smooth Operators | 10836 | [10836-smooth-operators.json](./10836-smooth-operators.json) |
 | Smooth Operators 2 | 197209 | [197209-smooth-operators-2.json](./197209-smooth-operators-2.json) |
 | Smooth Operators: Call Center Chaos | 63612 | [63612-smooth-operators-call-center-chaos.json](./63612-smooth-operators-call-center-chaos.json) |
 | Smoothcade | 130668 | [130668-smoothcade.json](./130668-smoothcade.json) |
@@ -19639,6 +19642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed is Key | 201473 | [201473-speed-is-key.json](./201473-speed-is-key.json) |
 | Speed Islands | 116449 | [116449-speed-islands.json](./116449-speed-islands.json) |
 | Speed Journey: Nitro | 221407 | [221407-speed-journey-nitro.json](./221407-speed-journey-nitro.json) |
+| Speed Kills | 10837 | [10837-speed-kills.json](./10837-speed-kills.json) |
 | Speed King | 28571 | [28571-speed-king.json](./28571-speed-king.json) |
 | Speed King 2 | 57601 | [57601-speed-king-2.json](./57601-speed-king-2.json) |
 | Speed Kings | 4163 | [4163-speed-kings.json](./4163-speed-kings.json) |
