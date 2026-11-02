@@ -1915,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paragon Slots | 297175 | [297175-paragon-slots.json](./297175-paragon-slots.json) |
 | Paragon-R: Secrets of the Sky Sanctum | 422481 | [422481-paragon-r-secrets-of-the-sky-sanctum.json](./422481-paragon-r-secrets-of-the-sky-sanctum.json) |
 | Paragon: The Overprime | 130500 | [130500-paragon-the-overprime.json](./130500-paragon-the-overprime.json) |
+| Paragon's Hand | 415330 | [415330-paragons-hand.json](./415330-paragons-hand.json) |
 | Paragonian 3: The Warrior of Light | 224837 | [224837-paragonian-3-the-warrior-of-light.json](./224837-paragonian-3-the-warrior-of-light.json) |
 | Paragraph 78 | 72749 | [72749-paragraph-78.json](./72749-paragraph-78.json) |
 | Paragrowth | 211006 | [211006-paragrowth.json](./211006-paragrowth.json) |
@@ -2593,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passage 4: Christmas Edition | 97132 | [97132-passage-4-christmas-edition.json](./97132-passage-4-christmas-edition.json) |
 | Passage IV: Race to the Grave | 342183 | [342183-passage-iv-race-to-the-grave.json](./342183-passage-iv-race-to-the-grave.json) |
 | Passage to Malkuth | 132744 | [132744-passage-to-malkuth.json](./132744-passage-to-malkuth.json) |
+| Passage Zero | 416540 | [416540-passage-zero.json](./416540-passage-zero.json) |
 | Passage: A Job Interview Simulator! | 237360 | [237360-passage-a-job-interview-simulator.json](./237360-passage-a-job-interview-simulator.json) |
 | Passage: Path of Betrayal | 70958 | [70958-passage-path-of-betrayal.json](./70958-passage-path-of-betrayal.json) |
 | Passageway of the Ancients | 258490 | [258490-passageway-of-the-ancients.json](./258490-passageway-of-the-ancients.json) |
@@ -6197,6 +6199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilla's Paradise | 255573 | [255573-pillas-paradise.json](./255573-pillas-paradise.json) |
 | Pillage the Village | 269937 | [269937-pillage-the-village.json](./269937-pillage-the-village.json) |
 | Pillaged Village: Humbled by Savages | 315133 | [315133-pillaged-village-humbled-by-savages.json](./315133-pillaged-village-humbled-by-savages.json) |
+| Pillagers: The Poisoned Throne | 415348 | [415348-pillagers-the-poisoned-throne.json](./415348-pillagers-the-poisoned-throne.json) |
 | Pillar | 35188 | [35188-pillar.json](./35188-pillar.json) |
 | Pillar Builder Puzzle | 214684 | [214684-pillar-builder-puzzle.json](./214684-pillar-builder-puzzle.json) |
 | Pillar of Gods | 337077 | [337077-pillar-of-gods.json](./337077-pillar-of-gods.json) |
@@ -11903,6 +11906,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopCap Hits! Vol 2 | 80781 | [80781-popcap-hits-vol-2.json](./80781-popcap-hits-vol-2.json) |
 | Popcorn | 357459 | [357459-popcorn.json](./357459-popcorn.json) |
 | Popcorn | 44345 | [44345-popcorn.json](./44345-popcorn.json) |
+| Popcorn Chef | 415202 | [415202-popcorn-chef.json](./415202-popcorn-chef.json) |
+| Popcorn Chef 2 | 415203 | [415203-popcorn-chef-2.json](./415203-popcorn-chef-2.json) |
 | Popcorn Dragon | 65600 | [65600-popcorn-dragon.json](./65600-popcorn-dragon.json) |
 | Popcorn Fever | 308348 | [308348-popcorn-fever.json](./308348-popcorn-fever.json) |
 | Popcorn Popstars | 359519 | [359519-popcorn-popstars.json](./359519-popcorn-popstars.json) |
@@ -12968,6 +12973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Precious Star | 124577 | [124577-precious-star.json](./124577-precious-star.json) |
 | Precious: Naze Shou ha Kami ni Idonda no ka? | 345543 | [345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json](./345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json) |
 | Precipice | 111937 | [111937-precipice.json](./111937-precipice.json) |
+| Précipice | 415251 | [415251-precipice.json](./415251-precipice.json) |
 | Precipice Pain | 308245 | [308245-precipice-pain.json](./308245-precipice-pain.json) |
 | Precipitous | 279073 | [279073-precipitous.json](./279073-precipitous.json) |
 | Precision Archery: Competitive | 83608 | [83608-precision-archery-competitive.json](./83608-precision-archery-competitive.json) |
@@ -13745,6 +13751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prinny Presents: NIS Classics Volume 2 - Deluxe Edition | 170038 | [170038-prinny-presents-nis-classics-volume-2-deluxe-edition.json](./170038-prinny-presents-nis-classics-volume-2-deluxe-edition.json) |
 | Prinsess of Da Hell | 122305 | [122305-prinsess-of-da-hell.json](./122305-prinsess-of-da-hell.json) |
 | Print Gallery of an Artist | 399606 | [399606-print-gallery-of-an-artist.json](./399606-print-gallery-of-an-artist.json) |
+| Print I Love U | 415837 | [415837-print-i-love-u.json](./415837-print-i-love-u.json) |
 | Printfarm Simulator | 371522 | [371522-printfarm-simulator.json](./371522-printfarm-simulator.json) |
 | Prinzessin Lillifee Puzzle: Echter Puzzlespass für Unterwegs | 252669 | [252669-prinzessin-lillifee-puzzle-echter-puzzlespass-fur-unterwegs.json](./252669-prinzessin-lillifee-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | PRiO | 33877 | [33877-prio.json](./33877-prio.json) |
@@ -16493,6 +16500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Moon | 251446 | [251446-puppy-moon.json](./251446-puppy-moon.json) |
 | Puppy Palace | 122204 | [122204-puppy-palace.json](./122204-puppy-palace.json) |
 | Puppy Park | 392208 | [392208-puppy-park.json](./392208-puppy-park.json) |
+| Puppy Paw Match | 416507 | [416507-puppy-paw-match.json](./416507-puppy-paw-match.json) |
 | Puppy Pipy | 151149 | [151149-puppy-pipy.json](./151149-puppy-pipy.json) |
 | Puppy Shelter | 207140 | [207140-puppy-shelter.json](./207140-puppy-shelter.json) |
 | Puppy Truck | 411658 | [411658-puppy-truck.json](./411658-puppy-truck.json) |
@@ -17335,6 +17343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle to Go Sightseeing | 84791 | [84791-puzzle-to-go-sightseeing.json](./84791-puzzle-to-go-sightseeing.json) |
 | Puzzle to Go Wildlife | 84790 | [84790-puzzle-to-go-wildlife.json](./84790-puzzle-to-go-wildlife.json) |
 | Puzzle to the Center of Earth | 344826 | [344826-puzzle-to-the-center-of-earth.json](./344826-puzzle-to-the-center-of-earth.json) |
+| Puzzle to the End | 415839 | [415839-puzzle-to-the-end.json](./415839-puzzle-to-the-end.json) |
 | Puzzle Together | 141838 | [141838-puzzle-together.json](./141838-puzzle-together.json) |
 | Puzzle Together: Animals Jigsaw Super Pack | 241311 | [241311-puzzle-together-animals-jigsaw-super-pack.json](./241311-puzzle-together-animals-jigsaw-super-pack.json) |
 | Puzzle Together: Architecture Jigsaw Super Pack | 241312 | [241312-puzzle-together-architecture-jigsaw-super-pack.json](./241312-puzzle-together-architecture-jigsaw-super-pack.json) |
