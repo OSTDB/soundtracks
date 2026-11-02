@@ -2367,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Banana | 25108 | [25108-ace-banana.json](./25108-ace-banana.json) |
 | Ace Breakout | 201435 | [201435-ace-breakout.json](./201435-ace-breakout.json) |
 | Ace Campus Club | 161561 | [161561-ace-campus-club.json](./161561-ace-campus-club.json) |
+| Ace Coin BullDozer: Dozer of Coins | 87390 | [87390-ace-coin-bulldozer-dozer-of-coins.json](./87390-ace-coin-bulldozer-dozer-of-coins.json) |
 | Ace Combat 3: Electrosphere | 14751 | [14751-ace-combat-3-electrosphere.json](./14751-ace-combat-3-electrosphere.json) |
 | Ace Combat 3: Electrosphere | 306600 | [306600-ace-combat-3-electrosphere.json](./306600-ace-combat-3-electrosphere.json) |
 | Ace Combat 5: Recompiled | 418841 | [418841-ace-combat-5-recompiled.json](./418841-ace-combat-5-recompiled.json) |
@@ -4666,6 +4667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ah. Ah. Ah. | 406654 | [406654-ah-ah-ah.json](./406654-ah-ah-ah.json) |
 | AH3AD: Retrowave Runner | 191583 | [191583-ah3ad-retrowave-runner.json](./191583-ah3ad-retrowave-runner.json) |
 | Aha Hit tile 3D | 101321 | [101321-aha-hit-tile-3d.json](./101321-aha-hit-tile-3d.json) |
+| Aha Link Color: ALL | 87393 | [87393-aha-link-color-all.json](./87393-aha-link-color-all.json) |
 | Aha Link Color: Cross | 101967 | [101967-aha-link-color-cross.json](./101967-aha-link-color-cross.json) |
 | Aha Link Color: Hex | 89740 | [89740-aha-link-color-hex.json](./89740-aha-link-color-hex.json) |
 | Aha Rally Car | 104431 | [104431-aha-rally-car.json](./104431-aha-rally-car.json) |
@@ -15529,6 +15531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athletic Director Simulator 4000 | 381779 | [381779-athletic-director-simulator-4000.json](./381779-athletic-director-simulator-4000.json) |
 | Athletic Land | 55859 | [55859-athletic-land.json](./55859-athletic-land.json) |
 | Athletic World | 9104 | [9104-athletic-world.json](./9104-athletic-world.json) |
+| Athletics 2: Summer Sports | 87339 | [87339-athletics-2-summer-sports.json](./87339-athletics-2-summer-sports.json) |
 | Athletics 2: Winter Sports Pro | 86877 | [86877-athletics-2-winter-sports-pro.json](./86877-athletics-2-winter-sports-pro.json) |
 | Athletics Championship | 252957 | [252957-athletics-championship.json](./252957-athletics-championship.json) |
 | Athletics Mania | 272442 | [272442-athletics-mania.json](./272442-athletics-mania.json) |
