@@ -5155,6 +5155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Go Magnet! | 297513 | [297513-go-go-magnet.json](./297513-go-go-magnet.json) |
 | Go go mr yamaguchi | 39811 | [39811-go-go-mr-yamaguchi.json](./39811-go-go-mr-yamaguchi.json) |
 | Go Go Muffin | 212451 | [212451-go-go-muffin.json](./212451-go-go-muffin.json) |
+| Go Go Plant! | 412702 | [412702-go-go-plant.json](./412702-go-go-plant.json) |
 | Go Go Poncho! | 89958 | [89958-go-go-poncho.json](./89958-go-go-poncho.json) |
 | Go Go Redball | 239245 | [239245-go-go-redball.json](./239245-go-go-redball.json) |
 | Go Go UFO Smackdown | 68622 | [68622-go-go-ufo-smackdown.json](./68622-go-go-ufo-smackdown.json) |
