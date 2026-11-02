@@ -6282,6 +6282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Night: Monsters | 256339 | [256339-shadow-of-the-night-monsters.json](./256339-shadow-of-the-night-monsters.json) |
 | Shadow of the Ninja | 9154 | [9154-shadow-of-the-ninja.json](./9154-shadow-of-the-ninja.json) |
 | Shadow of the Ninja Reborn: Deluxe Edition | 317229 | [317229-shadow-of-the-ninja-reborn-deluxe-edition.json](./317229-shadow-of-the-ninja-reborn-deluxe-edition.json) |
+| Shadow of the Orient | 262898 | [262898-shadow-of-the-orient.json](./262898-shadow-of-the-orient.json) |
 | Shadow of the Road | 124209 | [124209-shadow-of-the-road.json](./124209-shadow-of-the-road.json) |
 | Shadow of the School | 302474 | [302474-shadow-of-the-school.json](./302474-shadow-of-the-school.json) |
 | Shadow of the Tomb Raider: Croft Edition | 99122 | [99122-shadow-of-the-tomb-raider-croft-edition.json](./99122-shadow-of-the-tomb-raider-croft-edition.json) |
@@ -17732,6 +17733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sovereign Syndicate | 211267 | [211267-sovereign-syndicate.json](./211267-sovereign-syndicate.json) |
 | Sovereign Syndicate: Digital Deluxe Edition | 336048 | [336048-sovereign-syndicate-digital-deluxe-edition.json](./336048-sovereign-syndicate-digital-deluxe-edition.json) |
 | Sovereign Tea | 159317 | [159317-sovereign-tea.json](./159317-sovereign-tea.json) |
+| Sovereign Tower | 384977 | [384977-sovereign-tower.json](./384977-sovereign-tower.json) |
 | Sovereign's End | 403548 | [403548-sovereigns-end.json](./403548-sovereigns-end.json) |
 | Sovereign's Enigma | 327057 | [327057-sovereigns-enigma.json](./327057-sovereigns-enigma.json) |
 | Sovereign's Will | 129035 | [129035-sovereigns-will.json](./129035-sovereigns-will.json) |
@@ -18258,7 +18260,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21288,6 +21289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spram's Metroid Doom | 142220 | [142220-sprams-metroid-doom.json](./142220-sprams-metroid-doom.json) |
 | Sprawl | 57467 | [57467-sprawl.json](./57467-sprawl.json) |
 | Sprawl 96 | 314636 | [314636-sprawl-96.json](./314636-sprawl-96.json) |
+| Sprawl Zero | 393036 | [393036-sprawl-zero.json](./393036-sprawl-zero.json) |
 | Spray | 385404 | [385404-spray.json](./385404-spray.json) |
 | Spray | 5192 | [5192-spray.json](./5192-spray.json) |
 | Spray Dynamite X Radioactive Insects | 111391 | [111391-spray-dynamite-x-radioactive-insects.json](./111391-spray-dynamite-x-radioactive-insects.json) |
