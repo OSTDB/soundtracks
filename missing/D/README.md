@@ -5892,6 +5892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demo Disc: Spectral Mall | 214745 | [214745-demo-disc-spectral-mall.json](./214745-demo-disc-spectral-mall.json) |
 | Democracy | 5520 | [5520-democracy.json](./5520-democracy.json) |
 | Democracy 2 | 5521 | [5521-democracy-2.json](./5521-democracy-2.json) |
+| Democracy 3 Africa | 33898 | [33898-democracy-3-africa.json](./33898-democracy-3-africa.json) |
 | Democracy 3: Clones and Drones | 8766 | [8766-democracy-3-clones-and-drones.json](./8766-democracy-3-clones-and-drones.json) |
 | Democracy 3: Electioneering | 51754 | [51754-democracy-3-electioneering.json](./51754-democracy-3-electioneering.json) |
 | Democracy 3: Extremism | 51753 | [51753-democracy-3-extremism.json](./51753-democracy-3-extremism.json) |
@@ -15381,6 +15382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Horizon Online | 32820 | [32820-drift-horizon-online.json](./32820-drift-horizon-online.json) |
 | Drift Horizon: Racing, Driving & Parking Trial Simulator Games | 219453 | [219453-drift-horizon-racing-driving-and-parking-trial-simulator-games.json](./219453-drift-horizon-racing-driving-and-parking-trial-simulator-games.json) |
 | Drift Hunters | 145530 | [145530-drift-hunters.json](./145530-drift-hunters.json) |
+| Drift Into Eternity | 23332 | [23332-drift-into-eternity.json](./23332-drift-into-eternity.json) |
 | Drift Island | 243590 | [243590-drift-island.json](./243590-drift-island.json) |
 | Drift Island | 332871 | [332871-drift-island.json](./332871-drift-island.json) |
 | Drift It! | 87013 | [87013-drift-it.json](./87013-drift-it.json) |
@@ -15681,6 +15683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drivrooom | 144249 | [144249-drivrooom.json](./144249-drivrooom.json) |
 | Drizzlepath | 12265 | [12265-drizzlepath.json](./12265-drizzlepath.json) |
 | Drizzlepath: Deja Vu | 101399 | [101399-drizzlepath-deja-vu.json](./101399-drizzlepath-deja-vu.json) |
+| Drizzlepath: Genie | 33628 | [33628-drizzlepath-genie.json](./33628-drizzlepath-genie.json) |
 | Drizzlepath: Glass | 29733 | [29733-drizzlepath-glass.json](./29733-drizzlepath-glass.json) |
 | Drizzlepath: Picturae | 327273 | [327273-drizzlepath-picturae.json](./327273-drizzlepath-picturae.json) |
 | DRL | 79379 | [79379-drl.json](./79379-drl.json) |
