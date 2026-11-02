@@ -3797,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Festival | 335130 | [335130-penguin-festival.json](./335130-penguin-festival.json) |
 | Penguin Flight | 328443 | [328443-penguin-flight.json](./328443-penguin-flight.json) |
 | Penguin Flight: Beyond The Clouds | 342149 | [342149-penguin-flight-beyond-the-clouds.json](./342149-penguin-flight-beyond-the-clouds.json) |
+| Penguin Fury | 414021 | [414021-penguin-fury.json](./414021-penguin-fury.json) |
 | Penguin Helper | 302112 | [302112-penguin-helper.json](./302112-penguin-helper.json) |
 | Penguin Hideout | 195052 | [195052-penguin-hideout.json](./195052-penguin-hideout.json) |
 | Penguin Hop | 105425 | [105425-penguin-hop.json](./105425-penguin-hop.json) |
@@ -5241,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobophobia 1.0: The Experiment | 377905 | [377905-phobophobia-1-0-the-experiment.json](./377905-phobophobia-1-0-the-experiment.json) |
 | Phobos | 141096 | [141096-phobos.json](./141096-phobos.json) |
 | Phobos | 184093 | [184093-phobos.json](./184093-phobos.json) |
+| Phobos | 414061 | [414061-phobos.json](./414061-phobos.json) |
 | Phobos Dere.GB | 260851 | [260851-phobos-dere-gb.json](./260851-phobos-dere-gb.json) |
 | Phobos Down | 285462 | [285462-phobos-down.json](./285462-phobos-down.json) |
 | Phobos Massacre | 268424 | [268424-phobos-massacre.json](./268424-phobos-massacre.json) |
@@ -9548,6 +9550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plushie Dungeon | 157335 | [157335-plushie-dungeon.json](./157335-plushie-dungeon.json) |
 | Plushie from the Sky | 168705 | [168705-plushie-from-the-sky.json](./168705-plushie-from-the-sky.json) |
 | Plushiemon | 344009 | [344009-plushiemon.json](./344009-plushiemon.json) |
+| Plushy Store Tidy Up | 414042 | [414042-plushy-store-tidy-up.json](./414042-plushy-store-tidy-up.json) |
 | Plushy's Playground: Into the Slide | 413207 | [413207-plushys-playground-into-the-slide.json](./413207-plushys-playground-into-the-slide.json) |
 | Plusris | 316074 | [316074-plusris.json](./316074-plusris.json) |
 | Plust: Loving U So True | 239874 | [239874-plust-loving-u-so-true.json](./239874-plust-loving-u-so-true.json) |
@@ -10712,6 +10715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Solar Eclipse | 399594 | [399594-pokemon-solar-eclipse.json](./399594-pokemon-solar-eclipse.json) |
 | Pokémon Sombras de Arceus | 314718 | [314718-pokemon-sombras-de-arceus.json](./314718-pokemon-sombras-de-arceus.json) |
 | Pokémon Sors 2 | 360194 | [360194-pokemon-sors-2.json](./360194-pokemon-sors-2.json) |
+| Pokémon SoulGold | 414034 | [414034-pokemon-soulgold.json](./414034-pokemon-soulgold.json) |
 | Pokémon Soulstones | 221276 | [221276-pokemon-soulstones.json](./221276-pokemon-soulstones.json) |
 | Pokémon Soulstones 2: Time Wardens | 334001 | [334001-pokemon-soulstones-2-time-wardens.json](./334001-pokemon-soulstones-2-time-wardens.json) |
 | Pokémon Spirits of the Storm | 397766 | [397766-pokemon-spirits-of-the-storm.json](./397766-pokemon-spirits-of-the-storm.json) |
