@@ -1384,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Drop | 264233 | [264233-egg-drop.json](./264233-egg-drop.json) |
 | Egg Drop Soup | 414301 | [414301-egg-drop-soup.json](./414301-egg-drop-soup.json) |
 | Egg Escape | 116708 | [116708-egg-escape.json](./116708-egg-escape.json) |
+| Egg EX | 413394 | [413394-egg-ex.json](./413394-egg-ex.json) |
 | Egg Fighters | 244813 | [244813-egg-fighters.json](./244813-egg-fighters.json) |
 | Egg Finder | 360457 | [360457-egg-finder.json](./360457-egg-finder.json) |
 | Egg Fly | 191011 | [191011-egg-fly.json](./191011-egg-fly.json) |
@@ -4693,6 +4694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESC | 292229 | [292229-esc.json](./292229-esc.json) |
 | ESC Ape | 185557 | [185557-esc-ape.json](./185557-esc-ape.json) |
 | Esc Ape, You Died? | 423870 | [423870-esc-ape-you-died.json](./423870-esc-ape-you-died.json) |
+| Esc Trip | 412735 | [412735-esc-trip.json](./412735-esc-trip.json) |
 | Esc-8-bit | 114369 | [114369-esc-8-bit.json](./114369-esc-8-bit.json) |
 | Esc/ape | 374142 | [374142-esc-ape.json](./374142-esc-ape.json) |
 | Esca | 339765 | [339765-esca.json](./339765-esca.json) |
@@ -7817,6 +7819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of the Beholder II: The Legend of Darkmoon | 12071 | [12071-eye-of-the-beholder-ii-the-legend-of-darkmoon.json](./12071-eye-of-the-beholder-ii-the-legend-of-darkmoon.json) |
 | Eye of the Erime | 365292 | [365292-eye-of-the-erime.json](./365292-eye-of-the-erime.json) |
 | Eye of the Gods | 41172 | [41172-eye-of-the-gods.json](./41172-eye-of-the-gods.json) |
+| Eye of the Incubus | 412720 | [412720-eye-of-the-incubus.json](./412720-eye-of-the-incubus.json) |
 | Eye of the Kraken | 73542 | [73542-eye-of-the-kraken.json](./73542-eye-of-the-kraken.json) |
 | Eye of the Match | 393659 | [393659-eye-of-the-match.json](./393659-eye-of-the-match.json) |
 | Eye of the Moon | 177434 | [177434-eye-of-the-moon.json](./177434-eye-of-the-moon.json) |
