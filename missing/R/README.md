@@ -6312,6 +6312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rex Blade: The Battle Begins | 209165 | [209165-rex-blade-the-battle-begins.json](./209165-rex-blade-the-battle-begins.json) |
 | Rex Hard | 39149 | [39149-rex-hard.json](./39149-rex-hard.json) |
 | Rex Nebular and the Cosmic Gender Bender | 8680 | [8680-rex-nebular-and-the-cosmic-gender-bender.json](./8680-rex-nebular-and-the-cosmic-gender-bender.json) |
+| Rex Rocket | 17191 | [17191-rex-rocket.json](./17191-rex-rocket.json) |
 | Rex Ronan: Experimental Surgeon | 42651 | [42651-rex-ronan-experimental-surgeon.json](./42651-rex-ronan-experimental-surgeon.json) |
 | Rex Run | 305748 | [305748-rex-run.json](./305748-rex-run.json) |
 | Rex Sedes | 82785 | [82785-rex-sedes.json](./82785-rex-sedes.json) |
@@ -9762,6 +9763,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon 3: Complete Edition | 138341 | [138341-rollercoaster-tycoon-3-complete-edition.json](./138341-rollercoaster-tycoon-3-complete-edition.json) |
 | RollerCoaster Tycoon 3: Gold | 257414 | [257414-rollercoaster-tycoon-3-gold.json](./257414-rollercoaster-tycoon-3-gold.json) |
 | RollerCoaster Tycoon 3: Platinum | 14801 | [14801-rollercoaster-tycoon-3-platinum.json](./14801-rollercoaster-tycoon-3-platinum.json) |
+| RollerCoaster Tycoon 3: Soaked! | 22288 | [22288-rollercoaster-tycoon-3-soaked.json](./22288-rollercoaster-tycoon-3-soaked.json) |
+| RollerCoaster Tycoon 3: Wild! | 22514 | [22514-rollercoaster-tycoon-3-wild.json](./22514-rollercoaster-tycoon-3-wild.json) |
 | RollerCoaster Tycoon 3D | 6873 | [6873-rollercoaster-tycoon-3d.json](./6873-rollercoaster-tycoon-3d.json) |
 | RollerCoaster Tycoon 4 Mobile | 6547 | [6547-rollercoaster-tycoon-4-mobile.json](./6547-rollercoaster-tycoon-4-mobile.json) |
 | RollerCoaster Tycoon 6 Pack | 228962 | [228962-rollercoaster-tycoon-6-pack.json](./228962-rollercoaster-tycoon-6-pack.json) |
@@ -11040,6 +11043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTS Quantum Chess | 181630 | [181630-rts-quantum-chess.json](./181630-rts-quantum-chess.json) |
 | RTS Siege Up! | 201936 | [201936-rts-siege-up.json](./201936-rts-siege-up.json) |
 | RTS Tactical Warfare: Siege Survival | 292458 | [292458-rts-tactical-warfare-siege-survival.json](./292458-rts-tactical-warfare-siege-survival.json) |
+| RTX Red Rock | 22243 | [22243-rtx-red-rock.json](./22243-rtx-red-rock.json) |
 | Ru Lin Wai Shi Fan Jin | 258455 | [258455-ru-lin-wai-shi-fan-jin.json](./258455-ru-lin-wai-shi-fan-jin.json) |
 | Ruadh: Warbands | 210606 | [210606-ruadh-warbands.json](./210606-ruadh-warbands.json) |
 | Ruarua.ru | 369558 | [369558-ruarua-ru.json](./369558-ruarua-ru.json) |
