@@ -1801,6 +1801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Toad: Treasure Tracker - Special Episode | 132225 | [132225-captain-toad-treasure-tracker-special-episode.json](./132225-captain-toad-treasure-tracker-special-episode.json) |
 | Captain Toad: Treasure Tracker + Special Episode | 136381 | [136381-captain-toad-treasure-tracker-special-episode.json](./136381-captain-toad-treasure-tracker-special-episode.json) |
 | Captain Tomaday | 40981 | [40981-captain-tomaday.json](./40981-captain-tomaday.json) |
+| Captain ToonHead vs. The Punks from Outer Space | 157712 | [157712-captain-toonhead-vs-the-punks-from-outer-space.json](./157712-captain-toonhead-vs-the-punks-from-outer-space.json) |
 | Captain Tsubasa | 213601 | [213601-captain-tsubasa.json](./213601-captain-tsubasa.json) |
 | Captain Tsubasa | 78088 | [78088-captain-tsubasa.json](./78088-captain-tsubasa.json) |
 | Captain Tsubasa II: World Fighters | 388427 | [388427-captain-tsubasa-ii-world-fighters.json](./388427-captain-tsubasa-ii-world-fighters.json) |
@@ -4467,6 +4468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Dig 3 | 73113 | [73113-cave-dig-3.json](./73113-cave-dig-3.json) |
 | Cave Digger | 143974 | [143974-cave-digger.json](./143974-cave-digger.json) |
 | Cave Digger 2 | 266177 | [266177-cave-digger-2.json](./266177-cave-digger-2.json) |
+| Cave Digger 2: Dig Harder | 158682 | [158682-cave-digger-2-dig-harder.json](./158682-cave-digger-2-dig-harder.json) |
 | Cave Digger 2: Mixed Reality Expansion | 306958 | [306958-cave-digger-2-mixed-reality-expansion.json](./306958-cave-digger-2-mixed-reality-expansion.json) |
 | Cave Digger VR | 96467 | [96467-cave-digger-vr.json](./96467-cave-digger-vr.json) |
 | Cave Digger: Riches | 107230 | [107230-cave-digger-riches.json](./107230-cave-digger-riches.json) |
@@ -12191,6 +12193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Complete it - Jigsaw Puzzles with Beautiful Images | 90396 | [90396-complete-it-jigsaw-puzzles-with-beautiful-images.json](./90396-complete-it-jigsaw-puzzles-with-beautiful-images.json) |
 | Complete Me | 108834 | [108834-complete-me.json](./108834-complete-me.json) |
 | Complete Onside Soccer | 93021 | [93021-complete-onside-soccer.json](./93021-complete-onside-soccer.json) |
+| Completely Stretchy | 158680 | [158680-completely-stretchy.json](./158680-completely-stretchy.json) |
 | Completion LawnCare | 216454 | [216454-completion-lawncare.json](./216454-completion-lawncare.json) |
 | Complex | 81892 | [81892-complex.json](./81892-complex.json) |
 | Complex Complex | 273924 | [273924-complex-complex.json](./273924-complex-complex.json) |
