@@ -1950,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rashomon | 135602 | [135602-rashomon.json](./135602-rashomon.json) |
 | Rashomon of Shinjuku | 225314 | [225314-rashomon-of-shinjuku.json](./225314-rashomon-of-shinjuku.json) |
 | Raskopnik: The Trench Warrior | 186766 | [186766-raskopnik-the-trench-warrior.json](./186766-raskopnik-the-trench-warrior.json) |
+| Raskulls | 21168 | [21168-raskulls.json](./21168-raskulls.json) |
 | Rasmus Klump i Pingonesien | 118914 | [118914-rasmus-klump-i-pingonesien.json](./118914-rasmus-klump-i-pingonesien.json) |
 | Rasmus Klump som landpost | 91454 | [91454-rasmus-klump-som-landpost.json](./91454-rasmus-klump-som-landpost.json) |
 | Rasmus Klump: Fnullers Isbod | 286120 | [286120-rasmus-klump-fnullers-isbod.json](./286120-rasmus-klump-fnullers-isbod.json) |
@@ -5519,6 +5520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReStreamed | 179608 | [179608-restreamed.json](./179608-restreamed.json) |
 | Restricted Airspace | 186151 | [186151-restricted-airspace.json](./186151-restricted-airspace.json) |
 | Restricted Area | 169414 | [169414-restricted-area.json](./169414-restricted-area.json) |
+| Restricted Area | 22448 | [22448-restricted-area.json](./22448-restricted-area.json) |
 | Restricted Area | 266768 | [266768-restricted-area.json](./266768-restricted-area.json) |
 | Restricted Section | 178439 | [178439-restricted-section.json](./178439-restricted-section.json) |
 | Restricted-RPS: All Aboard the Icarus | 35428 | [35428-restricted-rps-all-aboard-the-icarus.json](./35428-restricted-rps-all-aboard-the-icarus.json) |
@@ -11199,6 +11201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby 18: The British and Irish Lions 2017 Team | 169953 | [169953-rugby-18-the-british-and-irish-lions-2017-team.json](./169953-rugby-18-the-british-and-irish-lions-2017-team.json) |
 | Rugby 20 | 122704 | [122704-rugby-20.json](./122704-rugby-20.json) |
 | Rugby 2001 | 67655 | [67655-rugby-2001.json](./67655-rugby-2001.json) |
+| Rugby 2004 | 22247 | [22247-rugby-2004.json](./22247-rugby-2004.json) |
 | Rugby 2005 | 6019 | [6019-rugby-2005.json](./6019-rugby-2005.json) |
 | Rugby 22 | 182305 | [182305-rugby-22.json](./182305-rugby-22.json) |
 | Rugby 25 | 241246 | [241246-rugby-25.json](./241246-rugby-25.json) |
