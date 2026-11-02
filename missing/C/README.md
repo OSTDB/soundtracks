@@ -1843,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: Rise of New Champions - Ultimate Edition | 268552 | [268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json](./268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json) |
 | Captain Tsubasa: Zero - Showdown! Miracle Shoot | 233414 | [233414-captain-tsubasa-zero-showdown-miracle-shoot.json](./233414-captain-tsubasa-zero-showdown-miracle-shoot.json) |
 | Captain Underpants: Epic Choice-o-rama | 256837 | [256837-captain-underpants-epic-choice-o-rama.json](./256837-captain-underpants-epic-choice-o-rama.json) |
+| Captain Underpants' Mischievous Mazemaster 2001 | 425853 | [425853-captain-underpants-mischievous-mazemaster-2001.json](./425853-captain-underpants-mischievous-mazemaster-2001.json) |
 | Captain Velvet Meteor: The Jump+ Dimensions | 194946 | [194946-captain-velvet-meteor-the-jump-dimensions.json](./194946-captain-velvet-meteor-the-jump-dimensions.json) |
 | Captain Verdeterre's Plunder | 216438 | [216438-captain-verdeterres-plunder.json](./216438-captain-verdeterres-plunder.json) |
 | Captain Wayne: Vacation Desperation | 241378 | [241378-captain-wayne-vacation-desperation.json](./241378-captain-wayne-vacation-desperation.json) |
