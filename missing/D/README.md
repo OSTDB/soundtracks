@@ -1755,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sanctum | 290909 | [290909-dark-sanctum.json](./290909-dark-sanctum.json) |
 | Dark Sasi | 100583 | [100583-dark-sasi.json](./100583-dark-sasi.json) |
 | Dark Sauce | 113693 | [113693-dark-sauce.json](./113693-dark-sauce.json) |
+| Dark Scavenger | 8428 | [8428-dark-scavenger.json](./8428-dark-scavenger.json) |
 | Dark Sceptre | 12990 | [12990-dark-sceptre.json](./12990-dark-sceptre.json) |
 | Dark Scythe | 313965 | [313965-dark-scythe.json](./313965-dark-scythe.json) |
 | Dark Secrets | 53912 | [53912-dark-secrets.json](./53912-dark-secrets.json) |
@@ -3276,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Dreams | 129987 | [129987-dead-dreams.json](./129987-dead-dreams.json) |
 | Dead Drop | 281441 | [281441-dead-drop.json](./281441-dead-drop.json) |
 | Dead Drop | 29562 | [29562-dead-drop.json](./29562-dead-drop.json) |
+| Dead Dungeon | 103063 | [103063-dead-dungeon.json](./103063-dead-dungeon.json) |
 | Dead Dust | 89960 | [89960-dead-dust.json](./89960-dead-dust.json) |
 | Dead Earth | 239453 | [239453-dead-earth.json](./239453-dead-earth.json) |
 | Dead Earth Zombies | 188672 | [188672-dead-earth-zombies.json](./188672-dead-earth-zombies.json) |
@@ -5055,6 +5057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Tavern | 270012 | [270012-deep-space-tavern.json](./270012-deep-space-tavern.json) |
 | Deep Space Waifu | 36977 | [36977-deep-space-waifu.json](./36977-deep-space-waifu.json) |
 | Deep Space Waifu: DLC | 281478 | [281478-deep-space-waifu-dlc.json](./281478-deep-space-waifu-dlc.json) |
+| Deep Space Waifu: Fantasy | 102167 | [102167-deep-space-waifu-fantasy.json](./102167-deep-space-waifu-fantasy.json) |
 | Deep Space Waifu: Flat Justice | 77086 | [77086-deep-space-waifu-flat-justice.json](./77086-deep-space-waifu-flat-justice.json) |
 | Deep Space Waifu: Legends | 125694 | [125694-deep-space-waifu-legends.json](./125694-deep-space-waifu-legends.json) |
 | Deep Space: Lost Battleship | 200142 | [200142-deep-space-lost-battleship.json](./200142-deep-space-lost-battleship.json) |
@@ -12430,6 +12433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doorways: Old Prototype | 26528 | [26528-doorways-old-prototype.json](./26528-doorways-old-prototype.json) |
 | Doorways: Prelude | 16640 | [16640-doorways-prelude.json](./16640-doorways-prelude.json) |
 | Doorways: The Entire Collection of Nightmares | 52916 | [52916-doorways-the-entire-collection-of-nightmares.json](./52916-doorways-the-entire-collection-of-nightmares.json) |
+| Doorways: The Underworld | 7677 | [7677-doorways-the-underworld.json](./7677-doorways-the-underworld.json) |
 | Doorz | 339939 | [339939-doorz.json](./339939-doorz.json) |
 | Doozie the Unicorn | 253307 | [253307-doozie-the-unicorn.json](./253307-doozie-the-unicorn.json) |
 | DOP 4: Draw One Part | 220217 | [220217-dop-4-draw-one-part.json](./220217-dop-4-draw-one-part.json) |
@@ -14158,6 +14162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Spirits 2 | 315690 | [315690-dragon-spirits-2.json](./315690-dragon-spirits-2.json) |
 | Dragon Spirits in Fight | 320812 | [320812-dragon-spirits-in-fight.json](./320812-dragon-spirits-in-fight.json) |
 | Dragon Spot | 345046 | [345046-dragon-spot.json](./345046-dragon-spot.json) |
+| Dragon Star Varnir | 103334 | [103334-dragon-star-varnir.json](./103334-dragon-star-varnir.json) |
 | Dragon Star Varnir: Complete Deluxe Edition | 186884 | [186884-dragon-star-varnir-complete-deluxe-edition.json](./186884-dragon-star-varnir-complete-deluxe-edition.json) |
 | Dragon Star Varnir: DLC Bundle | 227383 | [227383-dragon-star-varnir-dlc-bundle.json](./227383-dragon-star-varnir-dlc-bundle.json) |
 | Dragon Steve: Treasure Hunt | 114655 | [114655-dragon-steve-treasure-hunt.json](./114655-dragon-steve-treasure-hunt.json) |
@@ -16368,6 +16373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude Quest | 240139 | [240139-dude-quest.json](./240139-dude-quest.json) |
 | Dude Sim | 183220 | [183220-dude-sim.json](./183220-dude-sim.json) |
 | Dude Simulator | 37419 | [37419-dude-simulator.json](./37419-dude-simulator.json) |
+| Dude Simulator 2 | 105011 | [105011-dude-simulator-2.json](./105011-dude-simulator-2.json) |
 | Dude Simulator 3 | 144297 | [144297-dude-simulator-3.json](./144297-dude-simulator-3.json) |
 | Dude Simulator 4 | 164929 | [164929-dude-simulator-4.json](./164929-dude-simulator-4.json) |
 | Dude Simulator Six | 279551 | [279551-dude-simulator-six.json](./279551-dude-simulator-six.json) |
