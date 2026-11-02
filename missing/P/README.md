@@ -14169,6 +14169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Stadium | 268525 | [268525-pro-stadium.json](./268525-pro-stadium.json) |
 | Pro Strategy Football 2016 | 32382 | [32382-pro-strategy-football-2016.json](./32382-pro-strategy-football-2016.json) |
 | Pro Strategy Football 2018 | 76917 | [76917-pro-strategy-football-2018.json](./76917-pro-strategy-football-2018.json) |
+| Pro Strategy Football 2019 | 107563 | [107563-pro-strategy-football-2019.json](./107563-pro-strategy-football-2019.json) |
 | Pro Strategy Football 2020 | 122255 | [122255-pro-strategy-football-2020.json](./122255-pro-strategy-football-2020.json) |
 | Pro Strategy Football 2021 | 168164 | [168164-pro-strategy-football-2021.json](./168164-pro-strategy-football-2021.json) |
 | Pro Strategy Football 2022 | 165623 | [165623-pro-strategy-football-2022.json](./165623-pro-strategy-football-2022.json) |
