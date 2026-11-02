@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Crasher | 40078 | [40078-mad-crasher.json](./40078-mad-crasher.json) |
 | Mad Crown | 81054 | [81054-mad-crown.json](./81054-mad-crown.json) |
 | Mad Daedalus | 218160 | [218160-mad-daedalus.json](./218160-mad-daedalus.json) |
+| Mad Dagger | 29148 | [29148-mad-dagger.json](./29148-mad-dagger.json) |
 | Mad Dagger 2 | 100597 | [100597-mad-dagger-2.json](./100597-mad-dagger-2.json) |
 | Mad Dash Racing | 5905 | [5905-mad-dash-racing.json](./5905-mad-dash-racing.json) |
 | Mad Defense | 213583 | [213583-mad-defense.json](./213583-mad-defense.json) |
@@ -9259,6 +9260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamorfose S | 30046 | [30046-metamorfose-s.json](./30046-metamorfose-s.json) |
 | Metamorph | 345519 | [345519-metamorph.json](./345519-metamorph.json) |
 | Metamorph | 368137 | [368137-metamorph.json](./368137-metamorph.json) |
+| MetaMorph | 29170 | [29170-metamorph.json](./29170-metamorph.json) |
 | Metamorphabet | 26400 | [26400-metamorphabet.json](./26400-metamorphabet.json) |
 | Metamorphic | 27474 | [27474-metamorphic.json](./27474-metamorphic.json) |
 | Metamorphic Force | 39385 | [39385-metamorphic-force.json](./39385-metamorphic-force.json) |
@@ -13906,6 +13908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molehill Empire 2 | 347203 | [347203-molehill-empire-2.json](./347203-molehill-empire-2.json) |
 | Molek-Syntez | 125208 | [125208-molek-syntez.json](./125208-molek-syntez.json) |
 | Molekraft | 388353 | [388353-molekraft.json](./388353-molekraft.json) |
+| Molemen Must Die! | 29316 | [29316-molemen-must-die.json](./29316-molemen-must-die.json) |
 | Molementum | 296721 | [296721-molementum.json](./296721-molementum.json) |
 | Moleshine Cooking Simulator | 237057 | [237057-moleshine-cooking-simulator.json](./237057-moleshine-cooking-simulator.json) |
 | Molest | 384332 | [384332-molest.json](./384332-molest.json) |
