@@ -1823,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abnormal Status: Tattoo, Prohibited Books, Parasites | 226213 | [226213-abnormal-status-tattoo-prohibited-books-parasites.json](./226213-abnormal-status-tattoo-prohibited-books-parasites.json) |
 | Abnormal world: Season One | 96881 | [96881-abnormal-world-season-one.json](./96881-abnormal-world-season-one.json) |
 | Abo Hadeed | 84434 | [84434-abo-hadeed.json](./84434-abo-hadeed.json) |
+| Abo Khashem | 86362 | [86362-abo-khashem.json](./86362-abo-khashem.json) |
 | Abo Mando | 33826 | [33826-abo-mando.json](./33826-abo-mando.json) |
 | Aboard the Adventure | 187395 | [187395-aboard-the-adventure.json](./187395-aboard-the-adventure.json) |
 | Abobi's Guide | 419622 | [419622-abobis-guide.json](./419622-abobis-guide.json) |
@@ -2184,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Real Bout Fatal Fury Special | 78127 | [78127-aca-neo-geo-real-bout-fatal-fury-special.json](./78127-aca-neo-geo-real-bout-fatal-fury-special.json) |
 | ACA Neo Geo: Riding Hero | 103942 | [103942-aca-neo-geo-riding-hero.json](./103942-aca-neo-geo-riding-hero.json) |
 | ACA Neo Geo: Robo Army | 99483 | [99483-aca-neo-geo-robo-army.json](./99483-aca-neo-geo-robo-army.json) |
+| ACA Neo Geo: Samurai Shodown III | 85669 | [85669-aca-neo-geo-samurai-shodown-iii.json](./85669-aca-neo-geo-samurai-shodown-iii.json) |
 | ACA Neo Geo: Samurai Shodown IV | 103848 | [103848-aca-neo-geo-samurai-shodown-iv.json](./103848-aca-neo-geo-samurai-shodown-iv.json) |
 | ACA Neo Geo: Samurai Shodown V | 104993 | [104993-aca-neo-geo-samurai-shodown-v.json](./104993-aca-neo-geo-samurai-shodown-v.json) |
 | ACA Neo Geo: Samurai Shodown V Special | 117520 | [117520-aca-neo-geo-samurai-shodown-v-special.json](./117520-aca-neo-geo-samurai-shodown-v-special.json) |
@@ -2480,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces of the Deep Expansion Disk | 79075 | [79075-aces-of-the-deep-expansion-disk.json](./79075-aces-of-the-deep-expansion-disk.json) |
 | Aces of the Galaxy | 15766 | [15766-aces-of-the-galaxy.json](./15766-aces-of-the-galaxy.json) |
 | Aces of the Luftwaffe | 35650 | [35650-aces-of-the-luftwaffe.json](./35650-aces-of-the-luftwaffe.json) |
+| Aces of the Luftwaffe: Squadron | 84731 | [84731-aces-of-the-luftwaffe-squadron.json](./84731-aces-of-the-luftwaffe-squadron.json) |
 | Aces of the Luftwaffe: Squadron - Extended Edition | 119084 | [119084-aces-of-the-luftwaffe-squadron-extended-edition.json](./119084-aces-of-the-luftwaffe-squadron-extended-edition.json) |
 | Aces of the Luftwaffe: Squadron - The Nebelgeschwader | 111543 | [111543-aces-of-the-luftwaffe-squadron-the-nebelgeschwader.json](./111543-aces-of-the-luftwaffe-squadron-the-nebelgeschwader.json) |
 | Aces of the Pacific | 12385 | [12385-aces-of-the-pacific.json](./12385-aces-of-the-pacific.json) |
@@ -3307,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Island | 141679 | [141679-adventure-island.json](./141679-adventure-island.json) |
 | Adventure Island 3 | 8737 | [8737-adventure-island-3.json](./8737-adventure-island-3.json) |
 | Adventure Island II | 6471 | [6471-adventure-island-ii.json](./6471-adventure-island-ii.json) |
+| Adventure Island II: Aliens in Paradise | 84885 | [84885-adventure-island-ii-aliens-in-paradise.json](./84885-adventure-island-ii-aliens-in-paradise.json) |
 | Adventure Island: The Beginning | 50697 | [50697-adventure-island-the-beginning.json](./50697-adventure-island-the-beginning.json) |
 | Adventure Joystick | 214687 | [214687-adventure-joystick.json](./214687-adventure-joystick.json) |
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
@@ -4386,6 +4390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Speed 2 | 326751 | [326751-age-of-speed-2.json](./326751-age-of-speed-2.json) |
 | Age of Speed Underworld | 326752 | [326752-age-of-speed-underworld.json](./326752-age-of-speed-underworld.json) |
 | Age of Storm: Kingdom Under Fire Online | 62465 | [62465-age-of-storm-kingdom-under-fire-online.json](./62465-age-of-storm-kingdom-under-fire-online.json) |
+| Age of Survival | 35302 | [35302-age-of-survival.json](./35302-age-of-survival.json) |
 | Age of Talisman | 26954 | [26954-age-of-talisman.json](./26954-age-of-talisman.json) |
 | Age of the Duel | 248385 | [248385-age-of-the-duel.json](./248385-age-of-the-duel.json) |
 | Age of the Sirens | 236893 | [236893-age-of-the-sirens.json](./236893-age-of-the-sirens.json) |
@@ -13428,6 +13433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Style: Pictobits | 21672 | [21672-art-style-pictobits.json](./21672-art-style-pictobits.json) |
 | Art Style: Precipice | 69261 | [69261-art-style-precipice.json](./69261-art-style-precipice.json) |
 | Art Style: Rotohex | 21177 | [21177-art-style-rotohex.json](./21177-art-style-rotohex.json) |
+| Art Style: Rotozoa | 84976 | [84976-art-style-rotozoa.json](./84976-art-style-rotozoa.json) |
 | Art Style: Zengage | 69293 | [69293-art-style-zengage.json](./69293-art-style-zengage.json) |
 | Art Style: Zengage | 84762 | [84762-art-style-zengage.json](./84762-art-style-zengage.json) |
 | Art Together | 347165 | [347165-art-together.json](./347165-art-together.json) |
