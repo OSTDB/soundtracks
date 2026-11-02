@@ -15879,7 +15879,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atre: Dominance Wars | 315459 | [315459-atre-dominance-wars.json](./315459-atre-dominance-wars.json) |
 | Atrevete a Soñar | 253800 | [253800-atrevete-a-sonar.json](./253800-atrevete-a-sonar.json) |
 | Atrévete a Soñar | 6569 | [6569-atrevete-a-sonar.json](./6569-atrevete-a-sonar.json) |
-| Atri: My Dear Moments | 131634 | [131634-atri-my-dear-moments.json](./131634-atri-my-dear-moments.json) |
 | Atria | 203839 | [203839-atria.json](./203839-atria.json) |
 | Atria Valkyrie | 159806 | [159806-atria-valkyrie.json](./159806-atria-valkyrie.json) |
 | Atria-1 | 191222 | [191222-atria-1.json](./191222-atria-1.json) |
