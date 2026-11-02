@@ -1308,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Rage Squad | 30690 | [30690-rainbow-rage-squad.json](./30690-rainbow-rage-squad.json) |
 | Rainbow Rapture | 54702 | [54702-rainbow-rapture.json](./54702-rainbow-rapture.json) |
 | Rainbow Reactor | 113793 | [113793-rainbow-reactor.json](./113793-rainbow-reactor.json) |
+| Rainbow Reactor: Fusion | 155728 | [155728-rainbow-reactor-fusion.json](./155728-rainbow-reactor-fusion.json) |
 | Rainbow Rendezvous | 247990 | [247990-rainbow-rendezvous.json](./247990-rainbow-rendezvous.json) |
 | Rainbow Robin | 123829 | [123829-rainbow-robin.json](./123829-rainbow-robin.json) |
 | Rainbow Rockets! | 259243 | [259243-rainbow-rockets.json](./259243-rainbow-rockets.json) |
@@ -2779,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Hentai Situation! DT | 314991 | [314991-real-hentai-situation-dt.json](./314991-real-hentai-situation-dt.json) |
 | Real Heroes Firefighter 3D | 84911 | [84911-real-heroes-firefighter-3d.json](./84911-real-heroes-firefighter-3d.json) |
 | Real Heroes: Firefighter | 5119 | [5119-real-heroes-firefighter.json](./5119-real-heroes-firefighter.json) |
+| Real Heroes: Firefighter HD | 155242 | [155242-real-heroes-firefighter-hd.json](./155242-real-heroes-firefighter-hd.json) |
 | Real Horror Stories | 109479 | [109479-real-horror-stories.json](./109479-real-horror-stories.json) |
 | Real Horror Stories: Ultimate Edition | 36413 | [36413-real-horror-stories-ultimate-edition.json](./36413-real-horror-stories-ultimate-edition.json) |
 | Real Horse 3D | 216152 | [216152-real-horse-3d.json](./216152-real-horse-3d.json) |
@@ -4279,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regional Power III | 238365 | [238365-regional-power-iii.json](./238365-regional-power-iii.json) |
 | Regions | 134210 | [134210-regions.json](./134210-regions.json) |
 | Regions of Ruin | 61884 | [61884-regions-of-ruin.json](./61884-regions-of-ruin.json) |
+| Regions of Ruin: Runegate | 157865 | [157865-regions-of-ruin-runegate.json](./157865-regions-of-ruin-runegate.json) |
 | Regions of Ruin: Runegate - Deluxe Edition | 402329 | [402329-regions-of-ruin-runegate-deluxe-edition.json](./402329-regions-of-ruin-runegate-deluxe-edition.json) |
 | Regions of Ruin: Runegate - The Merchant | 398304 | [398304-regions-of-ruin-runegate-the-merchant.json](./398304-regions-of-ruin-runegate-the-merchant.json) |
 | Regions of Ruin: Sieges | 171959 | [171959-regions-of-ruin-sieges.json](./171959-regions-of-ruin-sieges.json) |
@@ -12235,6 +12238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RWBY Deckbuilding Game | 115305 | [115305-rwby-deckbuilding-game.json](./115305-rwby-deckbuilding-game.json) |
 | RWBY Fading Light | 184878 | [184878-rwby-fading-light.json](./184878-rwby-fading-light.json) |
 | RWBY: Amity Arena | 107151 | [107151-rwby-amity-arena.json](./107151-rwby-amity-arena.json) |
+| RWBY: Arrowfell | 154856 | [154856-rwby-arrowfell.json](./154856-rwby-arrowfell.json) |
 | RWBY: Crystal Match | 120203 | [120203-rwby-crystal-match.json](./120203-rwby-crystal-match.json) |
 | RWBY: Grimm Eclipse - JNPR | 282712 | [282712-rwby-grimm-eclipse-jnpr.json](./282712-rwby-grimm-eclipse-jnpr.json) |
 | RWBY: Vale of Darkness | 236806 | [236806-rwby-vale-of-darkness.json](./236806-rwby-vale-of-darkness.json) |
