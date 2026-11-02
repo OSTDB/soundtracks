@@ -2263,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hasbro Family Game Night: Battleship | 24303 | [24303-hasbro-family-game-night-battleship.json](./24303-hasbro-family-game-night-battleship.json) |
 | Hasbro Family Game Night: Volume 2 | 23253 | [23253-hasbro-family-game-night-volume-2.json](./23253-hasbro-family-game-night-volume-2.json) |
 | Hasbro Game Night for Nintendo Switch | 110394 | [110394-hasbro-game-night-for-nintendo-switch.json](./110394-hasbro-game-night-for-nintendo-switch.json) |
+| Hasbro Games Junior Collection | 412107 | [412107-hasbro-games-junior-collection.json](./412107-hasbro-games-junior-collection.json) |
 | Hasbro Kids Bundle | 247582 | [247582-hasbro-kids-bundle.json](./247582-hasbro-kids-bundle.json) |
 | Hasbro Toy Factory | 282240 | [282240-hasbro-toy-factory.json](./282240-hasbro-toy-factory.json) |
 | Hasbro's Battleship | 85991 | [85991-hasbros-battleship.json](./85991-hasbros-battleship.json) |
@@ -4347,6 +4348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellsplit: Arena | 117599 | [117599-hellsplit-arena.json](./117599-hellsplit-arena.json) |
 | Hellsplit: Labyrinth | 410965 | [410965-hellsplit-labyrinth.json](./410965-hellsplit-labyrinth.json) |
 | Hellsprint | 349447 | [349447-hellsprint.json](./349447-hellsprint.json) |
+| Hellsquad Rrrush! | 412078 | [412078-hellsquad-rrrush.json](./412078-hellsquad-rrrush.json) |
 | Hellstar | 182647 | [182647-hellstar.json](./182647-hellstar.json) |
 | HellStar Squadron | 97112 | [97112-hellstar-squadron.json](./97112-hellstar-squadron.json) |
 | Hellstuck: Rage With Your Friends | 200712 | [200712-hellstuck-rage-with-your-friends.json](./200712-hellstuck-rage-with-your-friends.json) |
@@ -9989,6 +9991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Tropical Wave Customization Pack | 248417 | [248417-hot-wheels-tropical-wave-customization-pack.json](./248417-hot-wheels-tropical-wave-customization-pack.json) |
 | Hot Wheels: Ultimate Racing | 44482 | [44482-hot-wheels-ultimate-racing.json](./44482-hot-wheels-ultimate-racing.json) |
 | Hot Wheels: Unlimited | 335815 | [335815-hot-wheels-unlimited.json](./335815-hot-wheels-unlimited.json) |
+| Hot Wheels: Victory Lap | 412079 | [412079-hot-wheels-victory-lap.json](./412079-hot-wheels-victory-lap.json) |
 | Hot Wheels: World's Best Driver | 10418 | [10418-hot-wheels-worlds-best-driver.json](./10418-hot-wheels-worlds-best-driver.json) |
 | Hot Wired | 73660 | [73660-hot-wired.json](./73660-hot-wired.json) |
 | Hot Worlds | 259036 | [259036-hot-worlds.json](./259036-hot-worlds.json) |
