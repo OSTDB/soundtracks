@@ -2441,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem | 287515 | [287515-gem.json](./287515-gem.json) |
 | Gem Beasts | 379860 | [379860-gem-beasts.json](./379860-gem-beasts.json) |
 | Gem Blast | 311785 | [311785-gem-blast.json](./311785-gem-blast.json) |
+| Gem Blast: Magic Match Puzzle | 101510 | [101510-gem-blast-magic-match-puzzle.json](./101510-gem-blast-magic-match-puzzle.json) |
 | Gem Blocks | 93822 | [93822-gem-blocks.json](./93822-gem-blocks.json) |
 | Gem Boy | 54049 | [54049-gem-boy.json](./54049-gem-boy.json) |
 | Gem Brawl Duel | 399732 | [399732-gem-brawl-duel.json](./399732-gem-brawl-duel.json) |
@@ -5483,6 +5484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobo’s Arena | 260173 | [260173-gobo-s-arena.json](./260173-gobo-s-arena.json) |
 | Gobocore: Goblin Rescue Squad | 295850 | [295850-gobocore-goblin-rescue-squad.json](./295850-gobocore-goblin-rescue-squad.json) |
 | Gobot | 153987 | [153987-gobot.json](./153987-gobot.json) |
+| GoBotix | 101545 | [101545-gobotix.json](./101545-gobotix.json) |
 | Gobotix: Duo | 376435 | [376435-gobotix-duo.json](./376435-gobotix-duo.json) |
 | Gobs and Gods | 265351 | [265351-gobs-and-gods.json](./265351-gobs-and-gods.json) |
 | Gobs of Games | 49928 | [49928-gobs-of-games.json](./49928-gobs-of-games.json) |
