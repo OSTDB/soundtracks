@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Guys: Crow Pack | 243681 | [243681-fall-guys-crow-pack.json](./243681-fall-guys-crow-pack.json) |
 | Fall Guys: Doc Glover Pack | 243772 | [243772-fall-guys-doc-glover-pack.json](./243772-fall-guys-doc-glover-pack.json) |
 | Fall Guys: Free Range Fall Guys Pack | 243667 | [243667-fall-guys-free-range-fall-guys-pack.json](./243667-fall-guys-free-range-fall-guys-pack.json) |
+| Fall Guys: Gamer Hardwear Costume | 403305 | [403305-fall-guys-gamer-hardwear-costume.json](./403305-fall-guys-gamer-hardwear-costume.json) |
 | Fall Guys: Horns Aplenty Pack | 243657 | [243657-fall-guys-horns-aplenty-pack.json](./243657-fall-guys-horns-aplenty-pack.json) |
 | Fall Guys: Icons Pack | 305853 | [305853-fall-guys-icons-pack.json](./305853-fall-guys-icons-pack.json) |
 | Fall Guys: Neigh Neigh Pack | 243685 | [243685-fall-guys-neigh-neigh-pack.json](./243685-fall-guys-neigh-neigh-pack.json) |
@@ -3079,6 +3080,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Extella Link: Fleeting Glory - Limited Edition | 136294 | [136294-fate-extella-link-fleeting-glory-limited-edition.json](./136294-fate-extella-link-fleeting-glory-limited-edition.json) |
 | Fate/Extella Link: Joyeuse Edition | 112108 | [112108-fate-extella-link-joyeuse-edition.json](./112108-fate-extella-link-joyeuse-edition.json) |
 | Fate/Extella Link: Premium Edition | 136766 | [136766-fate-extella-link-premium-edition.json](./136766-fate-extella-link-premium-edition.json) |
+| Fate/Extella Link: The Hero | 403410 | [403410-fate-extella-link-the-hero.json](./403410-fate-extella-link-the-hero.json) |
+| Fate/Extella Link: Wild Western | 403409 | [403409-fate-extella-link-wild-western.json](./403409-fate-extella-link-wild-western.json) |
 | Fate/Extella: Celebration Box | 140007 | [140007-fate-extella-celebration-box.json](./140007-fate-extella-celebration-box.json) |
 | Fate/Extella: Regalia Box | 212318 | [212318-fate-extella-regalia-box.json](./212318-fate-extella-regalia-box.json) |
 | Fate/Extella: The Umbral Star | 19799 | [19799-fate-extella-the-umbral-star.json](./19799-fate-extella-the-umbral-star.json) |
@@ -5452,6 +5455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire | 231720 | [231720-fire.json](./231720-fire.json) |
 | Fire | 231721 | [231721-fire.json](./231721-fire.json) |
 | Fire | 371569 | [371569-fire.json](./371569-fire.json) |
+| Fire | 403395 | [403395-fire.json](./403395-fire.json) |
 | Fire 'n Ice | 48671 | [48671-fire-n-ice.json](./48671-fire-n-ice.json) |
 | Fire & Brimstone | 336714 | [336714-fire-and-brimstone.json](./336714-fire-and-brimstone.json) |
 | Fire & Crown: A Romantic Tale of the Hundred Years' War | 390761 | [390761-fire-and-crown-a-romantic-tale-of-the-hundred-years-war.json](./390761-fire-and-crown-a-romantic-tale-of-the-hundred-years-war.json) |
@@ -9856,6 +9860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Heartbreak Royale Pack | 275355 | [275355-fortnite-heartbreak-royale-pack.json](./275355-fortnite-heartbreak-royale-pack.json) |
 | Fortnite: Heartbreaker Ranger Pack | 279242 | [279242-fortnite-heartbreaker-ranger-pack.json](./279242-fortnite-heartbreaker-ranger-pack.json) |
 | Fortnite: Hexed and Haunted Pack | 363899 | [363899-fortnite-hexed-and-haunted-pack.json](./363899-fortnite-hexed-and-haunted-pack.json) |
+| Fortnite: Horizon'd Wrap | 403303 | [403303-fortnite-horizond-wrap.json](./403303-fortnite-horizond-wrap.json) |
 | Fortnite: Infinite Drift Pack | 276292 | [276292-fortnite-infinite-drift-pack.json](./276292-fortnite-infinite-drift-pack.json) |
 | Fortnite: Kyran Aryk Crew Pack | 321446 | [321446-fortnite-kyran-aryk-crew-pack.json](./321446-fortnite-kyran-aryk-crew-pack.json) |
 | Fortnite: Lava Legends Pack | 227107 | [227107-fortnite-lava-legends-pack.json](./227107-fortnite-lava-legends-pack.json) |
@@ -10397,6 +10402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
 | FP Runner | 90329 | [90329-fp-runner.json](./90329-fp-runner.json) |
 | FPAH: Foul Play Air Hockey | 197653 | [197653-fpah-foul-play-air-hockey.json](./197653-fpah-foul-play-air-hockey.json) |
+| FPBI Test Program | 403377 | [403377-fpbi-test-program.json](./403377-fpbi-test-program.json) |
 | FPS Arena Online | 195707 | [195707-fps-arena-online.json](./195707-fps-arena-online.json) |
 | FPS Bullet Storm | 356531 | [356531-fps-bullet-storm.json](./356531-fps-bullet-storm.json) |
 | FPS Dinosaurs | 399659 | [399659-fps-dinosaurs.json](./399659-fps-dinosaurs.json) |
