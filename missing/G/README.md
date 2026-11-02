@@ -3728,6 +3728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbane | 286621 | [286621-ghostbane.json](./286621-ghostbane.json) |
 | GhostBlood | 71195 | [71195-ghostblood.json](./71195-ghostblood.json) |
 | Ghostboy | 224600 | [224600-ghostboy.json](./224600-ghostboy.json) |
+| Ghostbreaker Corps | 417193 | [417193-ghostbreaker-corps.json](./417193-ghostbreaker-corps.json) |
 | GhostBros | 262820 | [262820-ghostbros.json](./262820-ghostbros.json) |
 | Ghostbusters | 18815 | [18815-ghostbusters.json](./18815-ghostbusters.json) |
 | Ghostbusters | 347005 | [347005-ghostbusters.json](./347005-ghostbusters.json) |
@@ -8668,6 +8669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridlocke | 236791 | [236791-gridlocke.json](./236791-gridlocke.json) |
 | GridMath | 151020 | [151020-gridmath.json](./151020-gridmath.json) |
 | Gridmount | 328954 | [328954-gridmount.json](./328954-gridmount.json) |
+| Gridnova | 417794 | [417794-gridnova.json](./417794-gridnova.json) |
 | Gridpaper | 383199 | [383199-gridpaper.json](./383199-gridpaper.json) |
 | GridRoad | 269761 | [269761-gridroad.json](./269761-gridroad.json) |
 | Gridrunner | 310566 | [310566-gridrunner.json](./310566-gridrunner.json) |
