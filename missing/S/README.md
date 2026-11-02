@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SacriFrogos | 390009 | [390009-sacrifrogos.json](./390009-sacrifrogos.json) |
 | Sacrilege | 61634 | [61634-sacrilege.json](./61634-sacrilege.json) |
 | Sacrilegious | 319692 | [319692-sacrilegious.json](./319692-sacrilegious.json) |
+| Sacristan | 425868 | [425868-sacristan.json](./425868-sacristan.json) |
 | Sacritice | 207012 | [207012-sacritice.json](./207012-sacritice.json) |
 | Sacrosanct | 195349 | [195349-sacrosanct.json](./195349-sacrosanct.json) |
 | Sad | 286771 | [286771-sad.json](./286771-sad.json) |
@@ -10115,6 +10116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simgirls | 289399 | [289399-simgirls.json](./289399-simgirls.json) |
 | SimGolf | 46438 | [46438-simgolf.json](./46438-simgolf.json) |
 | SimHarbor | 171245 | [171245-simharbor.json](./171245-simharbor.json) |
+| Simhaus: Football | 425872 | [425872-simhaus-football.json](./425872-simhaus-football.json) |
 | SimHealth | 93048 | [93048-simhealth.json](./93048-simhealth.json) |
 | Simian Rising | 102147 | [102147-simian-rising.json](./102147-simian-rising.json) |
 | Simian.Interface | 32702 | [32702-simian-interface.json](./32702-simian-interface.json) |
@@ -18137,6 +18139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Digger Red Beard | 381313 | [381313-space-digger-red-beard.json](./381313-space-digger-red-beard.json) |
 | Space Diner Simulator | 356048 | [356048-space-diner-simulator.json](./356048-space-diner-simulator.json) |
 | Space Dingus | 351387 | [351387-space-dingus.json](./351387-space-dingus.json) |
+| Space Disco Outlaw | 425851 | [425851-space-disco-outlaw.json](./425851-space-disco-outlaw.json) |
 | Space Diva | 318151 | [318151-space-diva.json](./318151-space-diva.json) |
 | Space Dodge'm | 94471 | [94471-space-dodgem.json](./94471-space-dodgem.json) |
 | Space Dodger 2019: Arcade Wars | 249730 | [249730-space-dodger-2019-arcade-wars.json](./249730-space-dodger-2019-arcade-wars.json) |
@@ -18355,7 +18358,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23421,6 +23423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust VR | 109429 | [109429-stardust-vr.json](./109429-stardust-vr.json) |
 | StarDust: Endless | 105948 | [105948-stardust-endless.json](./105948-stardust-endless.json) |
 | Stardust: Wish of Witch | 386172 | [386172-stardust-wish-of-witch.json](./386172-stardust-wish-of-witch.json) |
+| Stare | 425881 | [425881-stare.json](./425881-stare.json) |
 | Stare : Block Breaker | 122023 | [122023-stare-block-breaker.json](./122023-stare-block-breaker.json) |
 | Starecrown | 291818 | [291818-starecrown.json](./291818-starecrown.json) |
 | Starena | 84063 | [84063-starena.json](./84063-starena.json) |
@@ -33440,6 +33443,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords of Legends Online | 145522 | [145522-swords-of-legends-online.json](./145522-swords-of-legends-online.json) |
 | Swords of Time | 166761 | [166761-swords-of-time.json](./166761-swords-of-time.json) |
 | Swords of Twilight | 12791 | [12791-swords-of-twilight.json](./12791-swords-of-twilight.json) |
+| Swords of Valdgir | 425863 | [425863-swords-of-valdgir.json](./425863-swords-of-valdgir.json) |
+| Swords of Valdgir II | 425865 | [425865-swords-of-valdgir-ii.json](./425865-swords-of-valdgir-ii.json) |
 | Swords with spice | 108437 | [108437-swords-with-spice.json](./108437-swords-with-spice.json) |
 | Swordship | 182118 | [182118-swordship.json](./182118-swordship.json) |
 | Swordshot | 132755 | [132755-swordshot.json](./132755-swordshot.json) |
