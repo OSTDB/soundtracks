@@ -7045,6 +7045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numb Nimbus | 271183 | [271183-numb-nimbus.json](./271183-numb-nimbus.json) |
 | Numb: Just Don't Think About It | 255103 | [255103-numb-just-dont-think-about-it.json](./255103-numb-just-dont-think-about-it.json) |
 | Numb3r Catch3r | 256164 | [256164-numb3r-catch3r.json](./256164-numb3r-catch3r.json) |
+| Numba Deluxe | 10603 | [10603-numba-deluxe.json](./10603-numba-deluxe.json) |
 | Numbako | 419190 | [419190-numbako.json](./419190-numbako.json) |
 | Numbala | 111453 | [111453-numbala.json](./111453-numbala.json) |
 | Number | 127587 | [127587-number.json](./127587-number.json) |
