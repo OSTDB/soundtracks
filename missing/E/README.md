@@ -3491,6 +3491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Invader | 407547 | [407547-endless-invader.json](./407547-endless-invader.json) |
 | Endless Invaders | 100365 | [100365-endless-invaders.json](./100365-endless-invaders.json) |
 | Endless Isolation | 405715 | [405715-endless-isolation.json](./405715-endless-isolation.json) |
+| Endless Jade Sea: Midori no Umi | 107826 | [107826-endless-jade-sea-midori-no-umi.json](./107826-endless-jade-sea-midori-no-umi.json) |
 | Endless Jump: Infinity Loop | 232331 | [232331-endless-jump-infinity-loop.json](./232331-endless-jump-infinity-loop.json) |
 | Endless Knight | 126901 | [126901-endless-knight.json](./126901-endless-knight.json) |
 | Endless Labyrinth | 32264 | [32264-endless-labyrinth.json](./32264-endless-labyrinth.json) |
@@ -5497,6 +5498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESports Hero | 335458 | [335458-esports-hero.json](./335458-esports-hero.json) |
 | Esports Heroes | 259639 | [259639-esports-heroes.json](./259639-esports-heroes.json) |
 | Esports History | 172962 | [172962-esports-history.json](./172962-esports-history.json) |
+| Esports Legend | 107679 | [107679-esports-legend.json](./107679-esports-legend.json) |
 | Esports Life Tycoon | 118522 | [118522-esports-life-tycoon.json](./118522-esports-life-tycoon.json) |
 | eSports Manager | 171381 | [171381-esports-manager.json](./171381-esports-manager.json) |
 | Esports Manager 2026 | 285684 | [285684-esports-manager-2026.json](./285684-esports-manager-2026.json) |
