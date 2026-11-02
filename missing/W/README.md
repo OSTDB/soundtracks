@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warcana: Cat DLC | 357371 | [357371-warcana-cat-dlc.json](./357371-warcana-cat-dlc.json) |
 | Warcana: Dog DLC | 357370 | [357370-warcana-dog-dlc.json](./357370-warcana-dog-dlc.json) |
 | Warcat Parade | 293967 | [293967-warcat-parade.json](./293967-warcat-parade.json) |
+| Warchaic | 415175 | [415175-warchaic.json](./415175-warchaic.json) |
 | Warcher Defenders | 268098 | [268098-warcher-defenders.json](./268098-warcher-defenders.json) |
 | Warchief | 140425 | [140425-warchief.json](./140425-warchief.json) |
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
@@ -2334,6 +2335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Sort Challenge | 340521 | [340521-water-sort-challenge.json](./340521-water-sort-challenge.json) |
 | Water Sort Jigsaw: Color Sort | 208943 | [208943-water-sort-jigsaw-color-sort.json](./208943-water-sort-jigsaw-color-sort.json) |
 | Water Sort Puzzle | 175029 | [175029-water-sort-puzzle.json](./175029-water-sort-puzzle.json) |
+| Water Sort Puzzle: Get Color | 415281 | [415281-water-sort-puzzle-get-color.json](./415281-water-sort-puzzle-get-color.json) |
 | Water Sports | 5262 | [5262-water-sports.json](./5262-water-sports.json) |
 | Water Star Adventure | 215770 | [215770-water-star-adventure.json](./215770-water-star-adventure.json) |
 | Water Surfer Bus | 202766 | [202766-water-surfer-bus.json](./202766-water-surfer-bus.json) |
@@ -5915,6 +5917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishful Thinking | 313822 | [313822-wishful-thinking.json](./313822-wishful-thinking.json) |
 | Wishing Well | 130861 | [130861-wishing-well.json](./130861-wishing-well.json) |
 | Wishing Well Hotel | 386107 | [386107-wishing-well-hotel.json](./386107-wishing-well-hotel.json) |
+| Wishing Well Simulator | 415812 | [415812-wishing-well-simulator.json](./415812-wishing-well-simulator.json) |
 | Wishknot | 423895 | [423895-wishknot.json](./423895-wishknot.json) |
 | Wishlair | 164076 | [164076-wishlair.json](./164076-wishlair.json) |
 | Wishlist | 244300 | [244300-wishlist.json](./244300-wishlist.json) |
@@ -6485,6 +6488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WKSP Rumble | 156880 | [156880-wksp-rumble.json](./156880-wksp-rumble.json) |
 | Władcy Ciemności | 85961 | [85961-w-adcy-ciemnosci.json](./85961-w-adcy-ciemnosci.json) |
 | Włatcy Móch Wrzód na Dópie | 94964 | [94964-w-atcy-moch-wrzod-na-dopie.json](./94964-w-atcy-moch-wrzod-na-dopie.json) |
+| Włatcy Móch: Magiczni Wojownicy II | 416500 | [416500-w-atcy-moch-magiczni-wojownicy-ii.json](./416500-w-atcy-moch-magiczni-wojownicy-ii.json) |
 | Wloku | 307617 | [307617-wloku.json](./307617-wloku.json) |
 | WMS Rome and Egypt Slot Machine | 53120 | [53120-wms-rome-and-egypt-slot-machine.json](./53120-wms-rome-and-egypt-slot-machine.json) |
 | WMS Slots Adventure: War For Olympus | 53119 | [53119-wms-slots-adventure-war-for-olympus.json](./53119-wms-slots-adventure-war-for-olympus.json) |
@@ -7325,6 +7329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words N Seconds | 104432 | [104432-words-n-seconds.json](./104432-words-n-seconds.json) |
 | Words N Words | 240345 | [240345-words-n-words.json](./240345-words-n-words.json) |
 | Words of Fate | 83259 | [83259-words-of-fate.json](./83259-words-of-fate.json) |
+| Words Of Power | 415835 | [415835-words-of-power.json](./415835-words-of-power.json) |
 | Words of Wonders | 302727 | [302727-words-of-wonders.json](./302727-words-of-wonders.json) |
 | Words of Wonders: Search | 355896 | [355896-words-of-wonders-search.json](./355896-words-of-wonders-search.json) |
 | Words of Yendor | 246019 | [246019-words-of-yendor.json](./246019-words-of-yendor.json) |
