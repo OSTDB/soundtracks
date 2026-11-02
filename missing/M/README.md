@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maggie's Rainy Ride | 375334 | [375334-maggies-rainy-ride.json](./375334-maggies-rainy-ride.json) |
 | Maggot Face | 229768 | [229768-maggot-face.json](./229768-maggot-face.json) |
 | Maggotmania | 109041 | [109041-maggotmania.json](./109041-maggotmania.json) |
+| Magi | 35415 | [35415-magi.json](./35415-magi.json) |
 | Magi Death Fight: Mahou Gakuen | 58878 | [58878-magi-death-fight-mahou-gakuen.json](./58878-magi-death-fight-mahou-gakuen.json) |
 | Magi Nation | 49708 | [49708-magi-nation.json](./49708-magi-nation.json) |
 | Magi Nation: Keeper's Quest | 315445 | [315445-magi-nation-keepers-quest.json](./315445-magi-nation-keepers-quest.json) |
@@ -5567,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -13335,6 +13337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MO:Astray | 113376 | [113376-mo-astray.json](./113376-mo-astray.json) |
 | Mo.co | 272187 | [272187-mo-co.json](./272187-mo-co.json) |
 | Moadra | 190169 | [190169-moadra.json](./190169-moadra.json) |
+| Moai 2: Path to Another World | 35443 | [35443-moai-2-path-to-another-world.json](./35443-moai-2-path-to-another-world.json) |
 | Moai 3: Trade Mission | 58646 | [58646-moai-3-trade-mission.json](./58646-moai-3-trade-mission.json) |
 | Moai 3: Trade Mission - Collector's Edition | 33654 | [33654-moai-3-trade-mission-collectors-edition.json](./33654-moai-3-trade-mission-collectors-edition.json) |
 | Moai 4: Terra Incognita | 140193 | [140193-moai-4-terra-incognita.json](./140193-moai-4-terra-incognita.json) |
