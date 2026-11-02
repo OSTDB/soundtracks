@@ -5458,6 +5458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akari: School Trip | 233654 | [233654-akari-school-trip.json](./233654-akari-school-trip.json) |
 | Akari: The Five Eyed Fox | 211026 | [211026-akari-the-five-eyed-fox.json](./211026-akari-the-five-eyed-fox.json) |
 | Akasen Gairo: Shouwa 33 Nen no Hatsuyuki | 153663 | [153663-akasen-gairo-shouwa-33-nen-no-hatsuyuki.json](./153663-akasen-gairo-shouwa-33-nen-no-hatsuyuki.json) |
+| Akash: Path of the Five | 119480 | [119480-akash-path-of-the-five.json](./119480-akash-path-of-the-five.json) |
 | Akasha | 250512 | [250512-akasha.json](./250512-akasha.json) |
 | Akasha Dreams | 257537 | [257537-akasha-dreams.json](./257537-akasha-dreams.json) |
 | Akashi | 229379 | [229379-akashi.json](./229379-akashi.json) |
@@ -5528,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akiba's Trip 2+A | 78472 | [78472-akibas-trip-2-a.json](./78472-akibas-trip-2-a.json) |
 | Akiba's Trip Festa! | 148244 | [148244-akibas-trip-festa.json](./148244-akibas-trip-festa.json) |
 | Akiba’s Trip: First Memory - 10th Anniversary Edition | 142373 | [142373-akiba-s-trip-first-memory-10th-anniversary-edition.json](./142373-akiba-s-trip-first-memory-10th-anniversary-edition.json) |
+| Akiba's Trip: Hellbound & Debriefed | 119460 | [119460-akibas-trip-hellbound-and-debriefed.json](./119460-akibas-trip-hellbound-and-debriefed.json) |
 | Akiba's Trip: Hellbound & Debriefed - 10th Anniversary Edition | 146159 | [146159-akibas-trip-hellbound-and-debriefed-10th-anniversary-edition.json](./146159-akibas-trip-hellbound-and-debriefed-10th-anniversary-edition.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
 | Akiba's Trip: Undead & Undressed - Kati Route | 204503 | [204503-akibas-trip-undead-and-undressed-kati-route.json](./204503-akibas-trip-undead-and-undressed-kati-route.json) |
@@ -6447,6 +6449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shooter 2 Conscription | 16367 | [16367-alien-shooter-2-conscription.json](./16367-alien-shooter-2-conscription.json) |
 | Alien Shooter 2: New Era | 203883 | [203883-alien-shooter-2-new-era.json](./203883-alien-shooter-2-new-era.json) |
 | Alien Shooter 2: Reloaded | 11088 | [11088-alien-shooter-2-reloaded.json](./11088-alien-shooter-2-reloaded.json) |
+| Alien Shooter 2: The Legend | 120730 | [120730-alien-shooter-2-the-legend.json](./120730-alien-shooter-2-the-legend.json) |
 | Alien Shooter 3D | 152770 | [152770-alien-shooter-3d.json](./152770-alien-shooter-3d.json) |
 | Alien Shooter in Space Cradle: Virtual Reality | 120576 | [120576-alien-shooter-in-space-cradle-virtual-reality.json](./120576-alien-shooter-in-space-cradle-virtual-reality.json) |
 | Alien Shooter TD | 26812 | [26812-alien-shooter-td.json](./26812-alien-shooter-td.json) |
@@ -12910,6 +12913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma 3 Creator DLC: S.O.G. Prairie Fire | 234181 | [234181-arma-3-creator-dlc-s-o-g-prairie-fire.json](./234181-arma-3-creator-dlc-s-o-g-prairie-fire.json) |
 | Arma 3 Karts | 54786 | [54786-arma-3-karts.json](./54786-arma-3-karts.json) |
 | Arma 3: Apex | 19547 | [19547-arma-3-apex.json](./19547-arma-3-apex.json) |
+| Arma 3: Contact | 121163 | [121163-arma-3-contact.json](./121163-arma-3-contact.json) |
 | Arma 3: Creator DLC - CSLA Iron Curtain | 168912 | [168912-arma-3-creator-dlc-csla-iron-curtain.json](./168912-arma-3-creator-dlc-csla-iron-curtain.json) |
 | Arma 3: Creator DLC - Reaction Forces | 293467 | [293467-arma-3-creator-dlc-reaction-forces.json](./293467-arma-3-creator-dlc-reaction-forces.json) |
 | Arma 3: Creator DLC - Spearhead 1944 | 259281 | [259281-arma-3-creator-dlc-spearhead-1944.json](./259281-arma-3-creator-dlc-spearhead-1944.json) |
@@ -13045,6 +13049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Blitz | 276698 | [276698-armor-blitz.json](./276698-armor-blitz.json) |
 | Armor Clash | 34622 | [34622-armor-clash.json](./34622-armor-clash.json) |
 | Armor Clash 2022 | 188092 | [188092-armor-clash-2022.json](./188092-armor-clash-2022.json) |
+| Armor Clash 3 | 121052 | [121052-armor-clash-3.json](./121052-armor-clash-3.json) |
 | Armor Clash II | 30338 | [30338-armor-clash-ii.json](./30338-armor-clash-ii.json) |
 | Armor Clash VR | 31827 | [31827-armor-clash-vr.json](./31827-armor-clash-vr.json) |
 | Armor Command | 73843 | [73843-armor-command.json](./73843-armor-command.json) |
