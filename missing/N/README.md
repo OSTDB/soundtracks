@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narrenschiff | 261985 | [261985-narrenschiff.json](./261985-narrenschiff.json) |
 | Narrow Escape | 166422 | [166422-narrow-escape.json](./166422-narrow-escape.json) |
 | Narrow Escape | 41986 | [41986-narrow-escape.json](./41986-narrow-escape.json) |
+| Narrow Holes | 417817 | [417817-narrow-holes.json](./417817-narrow-holes.json) |
 | Narrow One | 364991 | [364991-narrow-one.json](./364991-narrow-one.json) |
 | Narrow Path | 203380 | [203380-narrow-path.json](./203380-narrow-path.json) |
 | Narrow Woods Hotel | 321834 | [321834-narrow-woods-hotel.json](./321834-narrow-woods-hotel.json) |
@@ -3411,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next King | 289258 | [289258-next-king.json](./289258-next-king.json) |
 | Next Life | 51367 | [51367-next-life.json](./51367-next-life.json) |
 | Next Move | 262295 | [262295-next-move.json](./262295-next-move.json) |
+| Next Objective | 417744 | [417744-next-objective.json](./417744-next-objective.json) |
 | Next of Kin | 306388 | [306388-next-of-kin.json](./306388-next-of-kin.json) |
 | Next of Kin: Epiphany | 420665 | [420665-next-of-kin-epiphany.json](./420665-next-of-kin-epiphany.json) |
 | Next Player Please | 204346 | [204346-next-player-please.json](./204346-next-player-please.json) |
@@ -3436,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Turn for D&D 5E | 89769 | [89769-next-turn-for-d-and-d-5e.json](./89769-next-turn-for-d-and-d-5e.json) |
 | Next Up Hero | 45026 | [45026-next-up-hero.json](./45026-next-up-hero.json) |
 | Next: Merger with Power of 2 | 252562 | [252562-next-merger-with-power-of-2.json](./252562-next-merger-with-power-of-2.json) |
+| Next: The Portopia Serial Murder Case | 417188 | [417188-next-the-portopia-serial-murder-case.json](./417188-next-the-portopia-serial-murder-case.json) |
 | Nextbots In Backrooms: Obunga | 221228 | [221228-nextbots-in-backrooms-obunga.json](./221228-nextbots-in-backrooms-obunga.json) |
 | Nextbots In The Backrooms | 265729 | [265729-nextbots-in-the-backrooms.json](./265729-nextbots-in-the-backrooms.json) |
 | NextDoor | 176127 | [176127-nextdoor.json](./176127-nextdoor.json) |
@@ -4351,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Hunter | 207344 | [207344-nightmare-hunter.json](./207344-nightmare-hunter.json) |
 | Nightmare Hunter | 211259 | [211259-nightmare-hunter.json](./211259-nightmare-hunter.json) |
 | Nightmare Hunter | 345528 | [345528-nightmare-hunter.json](./345528-nightmare-hunter.json) |
+| Nightmare in San Vicente | 419786 | [419786-nightmare-in-san-vicente.json](./419786-nightmare-in-san-vicente.json) |
 | Nightmare in Squidville | 255627 | [255627-nightmare-in-squidville.json](./255627-nightmare-in-squidville.json) |
 | Nightmare in the Dark | 40992 | [40992-nightmare-in-the-dark.json](./40992-nightmare-in-the-dark.json) |
 | Nightmare Invasion | 352749 | [352749-nightmare-invasion.json](./352749-nightmare-invasion.json) |
@@ -5449,6 +5453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Atlas Rises | 222780 | [222780-no-mans-sky-atlas-rises.json](./222780-no-mans-sky-atlas-rises.json) |
 | No Man's Sky: Beacon | 347077 | [347077-no-mans-sky-beacon.json](./347077-no-mans-sky-beacon.json) |
 | No Man's Sky: Companions | 221636 | [221636-no-mans-sky-companions.json](./221636-no-mans-sky-companions.json) |
+| No Man's Sky: Cosmos | 417160 | [417160-no-mans-sky-cosmos.json](./417160-no-mans-sky-cosmos.json) |
 | No Man's Sky: Desolation | 221742 | [221742-no-mans-sky-desolation.json](./221742-no-mans-sky-desolation.json) |
 | No Man's Sky: Echoes | 262883 | [262883-no-mans-sky-echoes.json](./262883-no-mans-sky-echoes.json) |
 | No Man's Sky: Endurance | 221534 | [221534-no-mans-sky-endurance.json](./221534-no-mans-sky-endurance.json) |
@@ -5584,6 +5589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Secrets | 135491 | [135491-no-secrets.json](./135491-no-secrets.json) |
 | No Senses | 198236 | [198236-no-senses.json](./198236-no-senses.json) |
 | No Service | 391030 | [391030-no-service.json](./391030-no-service.json) |
+| No Shoes, No Mercy | 419065 | [419065-no-shoes-no-mercy.json](./419065-no-shoes-no-mercy.json) |
 | No Shot | 398919 | [398919-no-shot.json](./398919-no-shot.json) |
 | No Sidewalks in the Mushroom Kingdom | 177296 | [177296-no-sidewalks-in-the-mushroom-kingdom.json](./177296-no-sidewalks-in-the-mushroom-kingdom.json) |
 | No Signal | 111418 | [111418-no-signal.json](./111418-no-signal.json) |
@@ -5595,6 +5601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Sleep for Sole | 267362 | [267362-no-sleep-for-sole.json](./267362-no-sleep-for-sole.json) |
 | No Sleep for the Dead | 257499 | [257499-no-sleep-for-the-dead.json](./257499-no-sleep-for-the-dead.json) |
 | No Son of Mine | 201314 | [201314-no-son-of-mine.json](./201314-no-son-of-mine.json) |
+| No Stars Football | 419059 | [419059-no-stars-football.json](./419059-no-stars-football.json) |
 | No Stars No Problem | 323279 | [323279-no-stars-no-problem.json](./323279-no-stars-no-problem.json) |
 | No Stars, Only Constellations | 176935 | [176935-no-stars-only-constellations.json](./176935-no-stars-only-constellations.json) |
 | No Stick Shooter | 28910 | [28910-no-stick-shooter.json](./28910-no-stick-shooter.json) |
@@ -5927,6 +5934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Node Farm | 287772 | [287772-node-farm.json](./287772-node-farm.json) |
 | Node Math | 370712 | [370712-node-math.json](./370712-node-math.json) |
 | Node RPG | 373008 | [373008-node-rpg.json](./373008-node-rpg.json) |
+| Node: Protocol | 419083 | [419083-node-protocol.json](./419083-node-protocol.json) |
 | Node: The Last Favor of the Antarii | 287726 | [287726-node-the-last-favor-of-the-antarii.json](./287726-node-the-last-favor-of-the-antarii.json) |
 | NodeBeat | 68921 | [68921-nodebeat.json](./68921-nodebeat.json) |
 | NodeCore | 396526 | [396526-nodecore.json](./396526-nodecore.json) |
