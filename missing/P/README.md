@@ -6416,6 +6416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Deluxe | 209958 | [209958-pinball-deluxe.json](./209958-pinball-deluxe.json) |
 | Pinball Deluxe | 260802 | [260802-pinball-deluxe.json](./260802-pinball-deluxe.json) |
 | Pinball Deluxe | 49090 | [49090-pinball-deluxe.json](./49090-pinball-deluxe.json) |
+| Pinball Deluxe: Reloaded | 55250 | [55250-pinball-deluxe-reloaded.json](./55250-pinball-deluxe-reloaded.json) |
 | Pinball Dream | 365843 | [365843-pinball-dream.json](./365843-pinball-dream.json) |
 | Pinball Dreams | 194279 | [194279-pinball-dreams.json](./194279-pinball-dreams.json) |
 | Pinball Dreams | 248589 | [248589-pinball-dreams.json](./248589-pinball-dreams.json) |
@@ -11095,6 +11096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Simulator | 415170 | [415170-police-simulator.json](./415170-police-simulator.json) |
 | Police Simulator | 54285 | [54285-police-simulator.json](./54285-police-simulator.json) |
 | Police Simulator - Law Enforcement | 57960 | [57960-police-simulator-law-enforcement.json](./57960-police-simulator-law-enforcement.json) |
+| Police Simulator 18 | 54768 | [54768-police-simulator-18.json](./54768-police-simulator-18.json) |
 | Police Simulator 2 | 10711 | [10711-police-simulator-2.json](./10711-police-simulator-2.json) |
 | Police Simulator 2023 | 225963 | [225963-police-simulator-2023.json](./225963-police-simulator-2023.json) |
 | Police Simulator: Patrol Duty | 143318 | [143318-police-simulator-patrol-duty.json](./143318-police-simulator-patrol-duty.json) |
@@ -16560,6 +16562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrfect Apawcalypse: Patches' Infurno | 147324 | [147324-purrfect-apawcalypse-patches-infurno.json](./147324-purrfect-apawcalypse-patches-infurno.json) |
 | Purrfect Apawcalypse! Incredible Furture! | 304121 | [304121-purrfect-apawcalypse-incredible-furture.json](./304121-purrfect-apawcalypse-incredible-furture.json) |
 | Purrfect Catch | 255041 | [255041-purrfect-catch.json](./255041-purrfect-catch.json) |
+| Purrfect Date | 54634 | [54634-purrfect-date.json](./54634-purrfect-date.json) |
 | Purrfect Pet Shop | 209376 | [209376-purrfect-pet-shop.json](./209376-purrfect-pet-shop.json) |
 | Purrfect Rescue | 279259 | [279259-purrfect-rescue.json](./279259-purrfect-rescue.json) |
 | Purrfect Spirits | 112249 | [112249-purrfect-spirits.json](./112249-purrfect-spirits.json) |
@@ -17017,6 +17020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Express | 54274 | [54274-puzzle-express.json](./54274-puzzle-express.json) |
 | Puzzle Fever | 166631 | [166631-puzzle-fever.json](./166631-puzzle-fever.json) |
 | Puzzle Fever | 54273 | [54273-puzzle-fever.json](./54273-puzzle-fever.json) |
+| Puzzle Fighter | 55280 | [55280-puzzle-fighter.json](./55280-puzzle-fighter.json) |
 | Puzzle for Kids | 84066 | [84066-puzzle-for-kids.json](./84066-puzzle-for-kids.json) |
 | Puzzle For Peppa Pig | 100825 | [100825-puzzle-for-peppa-pig.json](./100825-puzzle-for-peppa-pig.json) |
 | Puzzle Forge Dungeon | 130197 | [130197-puzzle-forge-dungeon.json](./130197-puzzle-forge-dungeon.json) |
