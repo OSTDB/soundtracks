@@ -9049,6 +9049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bladeslinger | 63632 | [63632-bladeslinger.json](./63632-bladeslinger.json) |
 | Bladesmith Shop Simulator | 420007 | [420007-bladesmith-shop-simulator.json](./420007-bladesmith-shop-simulator.json) |
 | Bladesong | 254662 | [254662-bladesong.json](./254662-bladesong.json) |
+| Bladestar | 33964 | [33964-bladestar.json](./33964-bladestar.json) |
 | Bladestorm: Nightmare | 19927 | [19927-bladestorm-nightmare.json](./19927-bladestorm-nightmare.json) |
 | Bladestorm: The Hundred Years' War | 6919 | [6919-bladestorm-the-hundred-years-war.json](./6919-bladestorm-the-hundred-years-war.json) |
 | Bladeweave | 420011 | [420011-bladeweave.json](./420011-bladeweave.json) |
@@ -9109,6 +9110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blanksword | 338720 | [338720-blanksword.json](./338720-blanksword.json) |
 | BlapRacer | 71507 | [71507-blapracer.json](./71507-blapracer.json) |
 | Blargle and the Quest for the Nothing Burger | 415208 | [415208-blargle-and-the-quest-for-the-nothing-burger.json](./415208-blargle-and-the-quest-for-the-nothing-burger.json) |
+| Blarp! | 34015 | [34015-blarp.json](./34015-blarp.json) |
 | Blaseball | 136475 | [136475-blaseball.json](./136475-blaseball.json) |
 | Blasfemia | 343698 | [343698-blasfemia.json](./343698-blasfemia.json) |
 | Blask | 113583 | [113583-blask.json](./113583-blask.json) |
