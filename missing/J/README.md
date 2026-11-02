@@ -1600,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Chronicles: Most Wanted | 325002 | [325002-jigsaw-chronicles-most-wanted.json](./325002-jigsaw-chronicles-most-wanted.json) |
 | Jigsaw City Princess | 332353 | [332353-jigsaw-city-princess.json](./332353-jigsaw-city-princess.json) |
 | Jigsaw Classics | 188116 | [188116-jigsaw-classics.json](./188116-jigsaw-classics.json) |
+| Jigsaw Club | 87353 | [87353-jigsaw-club.json](./87353-jigsaw-club.json) |
 | Jigsaw Detective | 366437 | [366437-jigsaw-detective.json](./366437-jigsaw-detective.json) |
 | Jigsaw Dinosaurs | 284945 | [284945-jigsaw-dinosaurs.json](./284945-jigsaw-dinosaurs.json) |
 | Jigsaw Explorer | 290261 | [290261-jigsaw-explorer.json](./290261-jigsaw-explorer.json) |
