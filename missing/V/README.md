@@ -1250,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velvet Sundown | 13159 | [13159-velvet-sundown.json](./13159-velvet-sundown.json) |
 | Velvet's Veil | 336723 | [336723-velvets-veil.json](./336723-velvets-veil.json) |
 | Velvetist: The City of Machine Guns | 133343 | [133343-velvetist-the-city-of-machine-guns.json](./133343-velvetist-the-city-of-machine-guns.json) |
+| Vem, Exu | 404026 | [404026-vem-exu.json](./404026-vem-exu.json) |
 | Vempire | 42803 | [42803-vempire.json](./42803-vempire.json) |
 | VEmpire - The Kings of Darkness | 54830 | [54830-vempire-the-kings-of-darkness.json](./54830-vempire-the-kings-of-darkness.json) |
 | Ven Adventure | 216495 | [216495-ven-adventure.json](./216495-ven-adventure.json) |
@@ -1696,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vib-Ribbon | 9676 | [9676-vib-ribbon.json](./9676-vib-ribbon.json) |
 | Vib-Ripple | 25096 | [25096-vib-ripple.json](./25096-vib-ripple.json) |
 | Vibe Clicker | 352311 | [352311-vibe-clicker.json](./352311-vibe-clicker.json) |
+| Vibe or Dare | 404046 | [404046-vibe-or-dare.json](./404046-vibe-or-dare.json) |
 | Vibes | 94126 | [94126-vibes.json](./94126-vibes.json) |
 | Vibin'Vendetta | 302671 | [302671-vibinvendetta.json](./302671-vibinvendetta.json) |
 | Vibrant | 74188 | [74188-vibrant.json](./74188-vibrant.json) |
@@ -2276,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violet Cycle | 81245 | [81245-violet-cycle.json](./81245-violet-cycle.json) |
 | Violet Girl | 169777 | [169777-violet-girl.json](./169777-violet-girl.json) |
 | Violet Kingdom | 273807 | [273807-violet-kingdom.json](./273807-violet-kingdom.json) |
+| Violet Mansion | 404036 | [404036-violet-mansion.json](./404036-violet-mansion.json) |
 | Violet Memoir | 177887 | [177887-violet-memoir.json](./177887-violet-memoir.json) |
 | Violet rE:-The Final reExistence- | 120781 | [120781-violet-re-the-final-reexistence.json](./120781-violet-re-the-final-reexistence.json) |
 | Violet Storm | 253241 | [253241-violet-storm.json](./253241-violet-storm.json) |
@@ -2310,6 +2313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viper-V8 | 305255 | [305255-viper-v8.json](./305255-viper-v8.json) |
 | Viperbyte | 116252 | [116252-viperbyte.json](./116252-viperbyte.json) |
 | ViperTen16 | 313497 | [313497-viperten16.json](./313497-viperten16.json) |
+| Vipunk: Shield of Valhalla | 404049 | [404049-vipunk-shield-of-valhalla.json](./404049-vipunk-shield-of-valhalla.json) |
 | VIQ-Bert | 69738 | [69738-viq-bert.json](./69738-viq-bert.json) |
 | Viquim | 341886 | [341886-viquim.json](./341886-viquim.json) |
 | Vira | 244118 | [244118-vira.json](./244118-vira.json) |
