@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CallMara | 345253 | [345253-callmara.json](./345253-callmara.json) |
 | CallOfTree | 231199 | [231199-calloftree.json](./231199-calloftree.json) |
 | Callous | 318964 | [318964-callous.json](./318964-callous.json) |
+| Callout | 415225 | [415225-callout.json](./415225-callout.json) |
 | Callparin 2 | 158518 | [158518-callparin-2.json](./158518-callparin-2.json) |
 | Callthem | 224853 | [224853-callthem.json](./224853-callthem.json) |
 | Calluna | 173248 | [173248-calluna.json](./173248-calluna.json) |
@@ -970,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Buddy: Scoutmaster Season – Side Stories | 387576 | [387576-camp-buddy-scoutmaster-season-side-stories.json](./387576-camp-buddy-scoutmaster-season-side-stories.json) |
 | Camp California | 37590 | [37590-camp-california.json](./37590-camp-california.json) |
 | Camp Counsellor Collector | 272271 | [272271-camp-counsellor-collector.json](./272271-camp-counsellor-collector.json) |
+| Camp Glaspond | 415250 | [415250-camp-glaspond.json](./415250-camp-glaspond.json) |
 | Camp Grizzly | 104449 | [104449-camp-grizzly.json](./104449-camp-grizzly.json) |
 | Camp Hollow | 410493 | [410493-camp-hollow.json](./410493-camp-hollow.json) |
 | Camp Keepalive | 22140 | [22140-camp-keepalive.json](./22140-camp-keepalive.json) |
@@ -2273,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Shop Tycoon | 203368 | [203368-card-shop-tycoon.json](./203368-card-shop-tycoon.json) |
 | Card Shuffle Sort | 251237 | [251237-card-shuffle-sort.json](./251237-card-shuffle-sort.json) |
 | Card Sim: Chinese Restaurant | 391182 | [391182-card-sim-chinese-restaurant.json](./391182-card-sim-chinese-restaurant.json) |
+| Card Slay | 415345 | [415345-card-slay.json](./415345-card-slay.json) |
 | Card Smash: Tribes at War | 114706 | [114706-card-smash-tribes-at-war.json](./114706-card-smash-tribes-at-war.json) |
 | Card Solitaire Z | 88603 | [88603-card-solitaire-z.json](./88603-card-solitaire-z.json) |
 | Card story | 120851 | [120851-card-story.json](./120851-card-story.json) |
@@ -2425,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards and Fables | 348318 | [348318-cards-and-fables.json](./348318-cards-and-fables.json) |
 | Cards and Guns | 243622 | [243622-cards-and-guns.json](./243622-cards-and-guns.json) |
 | Cards and Towers | 299139 | [299139-cards-and-towers.json](./299139-cards-and-towers.json) |
+| Cards Everywhere! | 416544 | [416544-cards-everywhere.json](./416544-cards-everywhere.json) |
 | Cards from the West | 219221 | [219221-cards-from-the-west.json](./219221-cards-from-the-west.json) |
 | Cards Infinity | 187836 | [187836-cards-infinity.json](./187836-cards-infinity.json) |
 | Cards Lie | 390487 | [390487-cards-lie.json](./390487-cards-lie.json) |
@@ -5985,6 +5989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers Premium | 87269 | [87269-checkers-premium.json](./87269-checkers-premium.json) |
 | Checkers Q | 108197 | [108197-checkers-q.json](./108197-checkers-q.json) |
 | Checkers Quest Bundle | 231068 | [231068-checkers-quest-bundle.json](./231068-checkers-quest-bundle.json) |
+| Checkers Royal | 415259 | [415259-checkers-royal.json](./415259-checkers-royal.json) |
 | Checkers Royale | 96309 | [96309-checkers-royale.json](./96309-checkers-royale.json) |
 | Checkers RPG: Online Battles | 261829 | [261829-checkers-rpg-online-battles.json](./261829-checkers-rpg-online-battles.json) |
 | Checkers Saga | 58275 | [58275-checkers-saga.json](./58275-checkers-saga.json) |
@@ -7118,6 +7123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
 | Chivalry 2: Steelbook Edition | 153644 | [153644-chivalry-2-steelbook-edition.json](./153644-chivalry-2-steelbook-edition.json) |
 | Chivalry is Not Dead | 377271 | [377271-chivalry-is-not-dead.json](./377271-chivalry-is-not-dead.json) |
+| Chivalry Quest: Sword and Flame | 416530 | [416530-chivalry-quest-sword-and-flame.json](./416530-chivalry-quest-sword-and-flame.json) |
 | Chivalry: Deadliest Warrior | 10083 | [10083-chivalry-deadliest-warrior.json](./10083-chivalry-deadliest-warrior.json) |
 | Chivalry: Medieval Warfare | 2358 | [2358-chivalry-medieval-warfare.json](./2358-chivalry-medieval-warfare.json) |
 | Chivalware | 403821 | [403821-chivalware.json](./403821-chivalware.json) |
@@ -7261,6 +7267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chomp | 79888 | [79888-chomp.json](./79888-chomp.json) |
 | Chomp Chomp | 129477 | [129477-chomp-chomp.json](./129477-chomp-chomp.json) |
 | Chomp Chomp | 290097 | [290097-chomp-chomp.json](./290097-chomp-chomp.json) |
+| Chomp Chomp Carnage | 415841 | [415841-chomp-chomp-carnage.json](./415841-chomp-chomp-carnage.json) |
 | Chomp Garden | 419945 | [419945-chomp-garden.json](./419945-chomp-garden.json) |
 | Chomp Hero | 392253 | [392253-chomp-hero.json](./392253-chomp-hero.json) |
 | Chomp! | 137067 | [137067-chomp.json](./137067-chomp.json) |
@@ -7278,6 +7285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chompsters | 141602 | [141602-chompsters.json](./141602-chompsters.json) |
 | Chompy Chomp Chomp | 8425 | [8425-chompy-chomp-chomp.json](./8425-chompy-chomp-chomp.json) |
 | Chompy Chomp Chomp Party | 223508 | [223508-chompy-chomp-chomp-party.json](./223508-chompy-chomp-chomp-party.json) |
+| Chompy Party | 416515 | [416515-chompy-party.json](./416515-chompy-party.json) |
 | Chompy: The Greedy Crocodile | 138626 | [138626-chompy-the-greedy-crocodile.json](./138626-chompy-the-greedy-crocodile.json) |
 | Chondriatic | 258572 | [258572-chondriatic.json](./258572-chondriatic.json) |
 | Chóngshēng Zhànshì | 158537 | [158537-chongsheng-zhanshi.json](./158537-chongsheng-zhanshi.json) |
@@ -7550,6 +7558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Eve: Midnight's Call - Collector's Edition | 30201 | [30201-christmas-eve-midnights-call-collectors-edition.json](./30201-christmas-eve-midnights-call-collectors-edition.json) |
 | Christmas Fables: Holiday Guardians | 417586 | [417586-christmas-fables-holiday-guardians.json](./417586-christmas-fables-holiday-guardians.json) |
 | Christmas Fables: Holiday Guardians - Collector's Edition | 234738 | [234738-christmas-fables-holiday-guardians-collectors-edition.json](./234738-christmas-fables-holiday-guardians-collectors-edition.json) |
+| Christmas Fables: Nutcracker's Tale | 416528 | [416528-christmas-fables-nutcrackers-tale.json](./416528-christmas-fables-nutcrackers-tale.json) |
 | Christmas Fables: Nutcracker's Tale - Collector's Edition | 382194 | [382194-christmas-fables-nutcrackers-tale-collectors-edition.json](./382194-christmas-fables-nutcrackers-tale-collectors-edition.json) |
 | Christmas Fables: The Magic Snowflake - Collector's Edition | 280435 | [280435-christmas-fables-the-magic-snowflake-collectors-edition.json](./280435-christmas-fables-the-magic-snowflake-collectors-edition.json) |
 | Christmas Fables: The Magic Snowflake DLC | 285330 | [285330-christmas-fables-the-magic-snowflake-dlc.json](./285330-christmas-fables-the-magic-snowflake-dlc.json) |
@@ -7628,6 +7637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Stories: A Little Prince | 187911 | [187911-christmas-stories-a-little-prince.json](./187911-christmas-stories-a-little-prince.json) |
 | Christmas Stories: A Little Prince - Collector's Edition | 417587 | [417587-christmas-stories-a-little-prince-collectors-edition.json](./417587-christmas-stories-a-little-prince-collectors-edition.json) |
 | Christmas Stories: Alice's Adventures | 187978 | [187978-christmas-stories-alices-adventures.json](./187978-christmas-stories-alices-adventures.json) |
+| Christmas Stories: By Candlelight | 416498 | [416498-christmas-stories-by-candlelight.json](./416498-christmas-stories-by-candlelight.json) |
 | Christmas Stories: Clara and the Guiding Star - Collector's Edition | 338520 | [338520-christmas-stories-clara-and-the-guiding-star-collectors-edition.json](./338520-christmas-stories-clara-and-the-guiding-star-collectors-edition.json) |
 | Christmas Stories: Enchanted Express | 139769 | [139769-christmas-stories-enchanted-express.json](./139769-christmas-stories-enchanted-express.json) |
 | Christmas Stories: Hans Christian Andersen's Tin Soldier | 139770 | [139770-christmas-stories-hans-christian-andersens-tin-soldier.json](./139770-christmas-stories-hans-christian-andersens-tin-soldier.json) |
@@ -12387,6 +12397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Con-Quest | 13512 | [13512-con-quest.json](./13512-con-quest.json) |
 | Con-Quest | 140569 | [140569-con-quest.json](./140569-con-quest.json) |
 | Conan | 3862 | [3862-conan.json](./3862-conan.json) |
+| Conan | 415219 | [415219-conan.json](./415219-conan.json) |
 | Conan | 73158 | [73158-conan.json](./73158-conan.json) |
 | Conan | 9006 | [9006-conan.json](./9006-conan.json) |
 | Conan Chop Chop | 119344 | [119344-conan-chop-chop.json](./119344-conan-chop-chop.json) |
@@ -13277,6 +13288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook or Be Cooked | 361825 | [361825-cook-or-be-cooked.json](./361825-cook-or-be-cooked.json) |
 | Cook Out! | 250045 | [250045-cook-out.json](./250045-cook-out.json) |
 | Cook Serve Forever | 198021 | [198021-cook-serve-forever.json](./198021-cook-serve-forever.json) |
+| Cook to Zero | 415341 | [415341-cook-to-zero.json](./415341-cook-to-zero.json) |
 | Cook Wars | 50941 | [50941-cook-wars.json](./50941-cook-wars.json) |
 | Cook with Card | 406724 | [406724-cook-with-card.json](./406724-cook-with-card.json) |
 | Cook-A-Geddon | 265433 | [265433-cook-a-geddon.json](./265433-cook-a-geddon.json) |
@@ -13935,6 +13947,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corsairs: The New Conquerors | 11048 | [11048-corsairs-the-new-conquerors.json](./11048-corsairs-the-new-conquerors.json) |
 | Corsarios | 57563 | [57563-corsarios.json](./57563-corsarios.json) |
 | CorsixTH | 127904 | [127904-corsixth.json](./127904-corsixth.json) |
+| Cortesia Rising | 415833 | [415833-cortesia-rising.json](./415833-cortesia-rising.json) |
+| Cortex Adventure | 415213 | [415213-cortex-adventure.json](./415213-cortex-adventure.json) |
 | Cortex Chaos | 283098 | [283098-cortex-chaos.json](./283098-cortex-chaos.json) |
 | Cortex Chronicles 1: The Trial of Rowan Reed | 290987 | [290987-cortex-chronicles-1-the-trial-of-rowan-reed.json](./290987-cortex-chronicles-1-the-trial-of-rowan-reed.json) |
 | Cortex Chronicles 2: The Ride of Jax Riven | 290988 | [290988-cortex-chronicles-2-the-ride-of-jax-riven.json](./290988-cortex-chronicles-2-the-ride-of-jax-riven.json) |
@@ -14609,6 +14623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covenant Blade | 183188 | [183188-covenant-blade.json](./183188-covenant-blade.json) |
 | Covenant Cards | 395976 | [395976-covenant-cards.json](./395976-covenant-cards.json) |
 | Covenant of Anubis | 348771 | [348771-covenant-of-anubis.json](./348771-covenant-of-anubis.json) |
+| Covenant of Gears: The 3 Musketeers | 416513 | [416513-covenant-of-gears-the-3-musketeers.json](./416513-covenant-of-gears-the-3-musketeers.json) |
 | Covenant of Solitude | 200936 | [200936-covenant-of-solitude.json](./200936-covenant-of-solitude.json) |
 | Covenant: Project Zero | 236368 | [236368-covenant-project-zero.json](./236368-covenant-project-zero.json) |
 | Covenanted | 157155 | [157155-covenanted.json](./157155-covenanted.json) |
@@ -15165,6 +15180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash & Spyro Superpack I Crash Bandicoot: The Huge Adventure / Spyro: Season of Ice | 210236 | [210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json](./210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json) |
 | Crash + Spyro Triple Play Bundle | 218970 | [218970-crash-spyro-triple-play-bundle.json](./218970-crash-spyro-triple-play-bundle.json) |
 | Crash Advance IV | 269950 | [269950-crash-advance-iv.json](./269950-crash-advance-iv.json) |
+| Crash Adventure | 415212 | [415212-crash-adventure.json](./415212-crash-adventure.json) |
 | Crash and Run | 238481 | [238481-crash-and-run.json](./238481-crash-and-run.json) |
 | Crash Bandicoot | 135449 | [135449-crash-bandicoot.json](./135449-crash-bandicoot.json) |
 | Crash Bandicoot | 148195 | [148195-crash-bandicoot.json](./148195-crash-bandicoot.json) |
@@ -16206,9 +16222,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Scene | 21653 | [21653-crime-scene.json](./21653-crime-scene.json) |
 | Crime Scene | 232948 | [232948-crime-scene.json](./232948-crime-scene.json) |
 | Crime Scene Cleaner | 115830 | [115830-crime-scene-cleaner.json](./115830-crime-scene-cleaner.json) |
+| Crime Scene Cleaner | 415814 | [415814-crime-scene-cleaner.json](./415814-crime-scene-cleaner.json) |
 | Crime Scene Manhattan | 52327 | [52327-crime-scene-manhattan.json](./52327-crime-scene-manhattan.json) |
 | Crime Scene Technician | 166930 | [166930-crime-scene-technician.json](./166930-crime-scene-technician.json) |
 | Crime Secrets: Crimson Lily | 32930 | [32930-crime-secrets-crimson-lily.json](./32930-crime-secrets-crimson-lily.json) |
+| Crime Shadows: Stolen Spotlight | 416488 | [416488-crime-shadows-stolen-spotlight.json](./416488-crime-shadows-stolen-spotlight.json) |
 | Crime Shadows: Stolen Spotlight - Collector's Edition | 416616 | [416616-crime-shadows-stolen-spotlight-collectors-edition.json](./416616-crime-shadows-stolen-spotlight-collectors-edition.json) |
 | Crime Simulator | 301426 | [301426-crime-simulator.json](./301426-crime-simulator.json) |
 | Crime Simulator: Ashen Creek DLC | 404705 | [404705-crime-simulator-ashen-creek-dlc.json](./404705-crime-simulator-ashen-creek-dlc.json) |
@@ -16860,6 +16878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Dungeon | 208017 | [208017-crossword-dungeon.json](./208017-crossword-dungeon.json) |
 | Crossword Explorer | 406089 | [406089-crossword-explorer.json](./406089-crossword-explorer.json) |
 | Crossword Go | 303106 | [303106-crossword-go.json](./303106-crossword-go.json) |
+| Crossword Jam | 415262 | [415262-crossword-jam.json](./415262-crossword-jam.json) |
 | Crossword Light | 88640 | [88640-crossword-light.json](./88640-crossword-light.json) |
 | Crossword Maker | 208800 | [208800-crossword-maker.json](./208800-crossword-maker.json) |
 | Crossword Master | 381272 | [381272-crossword-master.json](./381272-crossword-master.json) |
@@ -16915,6 +16934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowd Control | 103548 | [103548-crowd-control.json](./103548-crowd-control.json) |
 | Crowd Control VR | 295788 | [295788-crowd-control-vr.json](./295788-crowd-control-vr.json) |
 | Crowd Diver | 291819 | [291819-crowd-diver.json](./291819-crowd-diver.json) |
+| Crowd Favorites | 416509 | [416509-crowd-favorites.json](./416509-crowd-favorites.json) |
 | Crowd King | 185106 | [185106-crowd-king.json](./185106-crowd-king.json) |
 | Crowd Medieval City War | 236522 | [236522-crowd-medieval-city-war.json](./236522-crowd-medieval-city-war.json) |
 | Crowd Run | 323304 | [323304-crowd-run.json](./323304-crowd-run.json) |
