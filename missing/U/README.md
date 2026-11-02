@@ -2078,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicorn Dungeon | 89612 | [89612-unicorn-dungeon.json](./89612-unicorn-dungeon.json) |
 | Unicorn Fun | 227843 | [227843-unicorn-fun.json](./227843-unicorn-fun.json) |
 | Unicorn Go | 25958 | [25958-unicorn-go.json](./25958-unicorn-go.json) |
+| Unicorn Overlord PC | 424608 | [424608-unicorn-overlord-pc.json](./424608-unicorn-overlord-pc.json) |
 | Unicorn Overlord: Monarch Edition | 283162 | [283162-unicorn-overlord-monarch-edition.json](./283162-unicorn-overlord-monarch-edition.json) |
 | Unicorn Overlord: Premium Edition | 292141 | [292141-unicorn-overlord-premium-edition.json](./292141-unicorn-overlord-premium-edition.json) |
 | Unicorn Senpai Slap | 303818 | [303818-unicorn-senpai-slap.json](./303818-unicorn-senpai-slap.json) |
