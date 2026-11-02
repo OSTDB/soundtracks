@@ -4028,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 06: Road to FIFA World Cup | 22342 | [22342-fifa-06-road-to-fifa-world-cup.json](./22342-fifa-06-road-to-fifa-world-cup.json) |
 | FIFA 07 | 240291 | [240291-fifa-07.json](./240291-fifa-07.json) |
 | FIFA 09 | 240317 | [240317-fifa-09.json](./240317-fifa-09.json) |
+| FIFA 12: UEFA Euro 2012 | 22265 | [22265-fifa-12-uefa-euro-2012.json](./22265-fifa-12-uefa-euro-2012.json) |
 | FIFA 13 | 240394 | [240394-fifa-13.json](./240394-fifa-13.json) |
 | FIFA 13 | 240397 | [240397-fifa-13.json](./240397-fifa-13.json) |
 | FIFA 14 | 240418 | [240418-fifa-14.json](./240418-fifa-14.json) |
@@ -5695,6 +5696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighter | 154875 | [154875-firefighter.json](./154875-firefighter.json) |
 | Firefighter Command: Raging Inferno | 22631 | [22631-firefighter-command-raging-inferno.json](./22631-firefighter-command-raging-inferno.json) |
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
+| Firefighter F.D.18 | 22282 | [22282-firefighter-f-d-18.json](./22282-firefighter-f-d-18.json) |
 | Firefighter Gaiden | 381277 | [381277-firefighter-gaiden.json](./381277-firefighter-gaiden.json) |
 | Firefighter Wizard: The Elemental Order | 319431 | [319431-firefighter-wizard-the-elemental-order.json](./319431-firefighter-wizard-the-elemental-order.json) |
 | Firefighter: Car Fire Truck Sim Driving 2022 Simulator | 208839 | [208839-firefighter-car-fire-truck-sim-driving-2022-simulator.json](./208839-firefighter-car-fire-truck-sim-driving-2022-simulator.json) |
@@ -6275,6 +6277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing VR: Gijiesta | 51687 | [51687-fishing-vr-gijiesta.json](./51687-fishing-vr-gijiesta.json) |
 | Fishing With The Homies | 324149 | [324149-fishing-with-the-homies.json](./324149-fishing-with-the-homies.json) |
 | Fishing World | 58131 | [58131-fishing-world.json](./58131-fishing-world.json) |
+| Fishing: Barents Sea | 22356 | [22356-fishing-barents-sea.json](./22356-fishing-barents-sea.json) |
 | Fishing: Barents Sea - Complete Edition | 125188 | [125188-fishing-barents-sea-complete-edition.json](./125188-fishing-barents-sea-complete-edition.json) |
 | Fishing: Barents Sea - King Crab | 111647 | [111647-fishing-barents-sea-king-crab.json](./111647-fishing-barents-sea-king-crab.json) |
 | Fishing: Barents Sea: Line and Net Ships | 238945 | [238945-fishing-barents-sea-line-and-net-ships.json](./238945-fishing-barents-sea-line-and-net-ships.json) |
