@@ -1410,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raji: An Ancient Epic - Enhanced Edition | 152175 | [152175-raji-an-ancient-epic-enhanced-edition.json](./152175-raji-an-ancient-epic-enhanced-edition.json) |
 | Raji: Kaliyuga | 378233 | [378233-raji-kaliyuga.json](./378233-raji-kaliyuga.json) |
 | Rakan Ayah | 128226 | [128226-rakan-ayah.json](./128226-rakan-ayah.json) |
+| Rake | 34836 | [34836-rake.json](./34836-rake.json) |
 | Rake | 353765 | [353765-rake.json](./353765-rake.json) |
 | Rake In: Scoring Big With Monster Girls! | 350892 | [350892-rake-in-scoring-big-with-monster-girls.json](./350892-rake-in-scoring-big-with-monster-girls.json) |
 | Rake Monster Hunter | 100840 | [100840-rake-monster-hunter.json](./100840-rake-monster-hunter.json) |
@@ -2776,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Heroes Firefighter 3D | 84911 | [84911-real-heroes-firefighter-3d.json](./84911-real-heroes-firefighter-3d.json) |
 | Real Heroes: Firefighter | 5119 | [5119-real-heroes-firefighter.json](./5119-real-heroes-firefighter.json) |
 | Real Horror Stories | 109479 | [109479-real-horror-stories.json](./109479-real-horror-stories.json) |
+| Real Horror Stories: Ultimate Edition | 36413 | [36413-real-horror-stories-ultimate-edition.json](./36413-real-horror-stories-ultimate-edition.json) |
 | Real Horse 3D | 216152 | [216152-real-horse-3d.json](./216152-real-horse-3d.json) |
 | Real Kanojo | 22469 | [22469-real-kanojo.json](./22469-real-kanojo.json) |
 | Real Life Day: Threesome | 313508 | [313508-real-life-day-threesome.json](./313508-real-life-day-threesome.json) |
@@ -2931,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realize | 131410 | [131410-realize.json](./131410-realize.json) |
 | Realize Me | 307873 | [307873-realize-me.json](./307873-realize-me.json) |
 | Really Bad Chess | 56131 | [56131-really-bad-chess.json](./56131-really-bad-chess.json) |
+| Really Big Sky | 10755 | [10755-really-big-sky.json](./10755-really-big-sky.json) |
 | Really Boring Website | 142974 | [142974-really-boring-website.json](./142974-really-boring-website.json) |
 | Really Dog | 276182 | [276182-really-dog.json](./276182-really-dog.json) |
 | Really Dog: DLC | 282170 | [282170-really-dog-dlc.json](./282170-really-dog-dlc.json) |
@@ -7014,6 +7017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riftwalker | 381181 | [381181-riftwalker.json](./381181-riftwalker.json) |
 | Rig Racer 2 | 5123 | [5123-rig-racer-2.json](./5123-rig-racer-2.json) |
 | Rig'n' Roll: Cut-Throat Highway | 209162 | [209162-rign-roll-cut-throat-highway.json](./209162-rign-roll-cut-throat-highway.json) |
+| Rig'n'Roll | 10769 | [10769-rignroll.json](./10769-rignroll.json) |
 | Rig's Dream 3D | 28102 | [28102-rigs-dream-3d.json](./28102-rigs-dream-3d.json) |
 | Rigby Saw Game | 384923 | [384923-rigby-saw-game.json](./384923-rigby-saw-game.json) |
 | Rigel's Revenge | 55084 | [55084-rigels-revenge.json](./55084-rigels-revenge.json) |
@@ -7434,6 +7438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Tochos | 306330 | [306330-rise-of-tochos.json](./306330-rise-of-tochos.json) |
 | Rise of Transport | 365882 | [365882-rise-of-transport.json](./365882-rise-of-transport.json) |
 | Rise of Valor | 396689 | [396689-rise-of-valor.json](./396689-rise-of-valor.json) |
+| Rise of Venice | 10774 | [10774-rise-of-venice.json](./10774-rise-of-venice.json) |
 | Rise of Venice: Beyond the Sea | 10775 | [10775-rise-of-venice-beyond-the-sea.json](./10775-rise-of-venice-beyond-the-sea.json) |
 | Rise of Venice: Gold Edition | 53510 | [53510-rise-of-venice-gold-edition.json](./53510-rise-of-venice-gold-edition.json) |
 | Rise of Warlords | 155475 | [155475-rise-of-warlords.json](./155475-rise-of-warlords.json) |
@@ -11154,6 +11159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rug Rats | 292037 | [292037-rug-rats.json](./292037-rug-rats.json) |
 | Rugby | 77083 | [77083-rugby.json](./77083-rugby.json) |
 | Rugby | 94199 | [94199-rugby.json](./94199-rugby.json) |
+| Rugby 15 | 10788 | [10788-rugby-15.json](./10788-rugby-15.json) |
 | Rugby 18: The British and Irish Lions 2017 Team | 169953 | [169953-rugby-18-the-british-and-irish-lions-2017-team.json](./169953-rugby-18-the-british-and-irish-lions-2017-team.json) |
 | Rugby 20 | 122704 | [122704-rugby-20.json](./122704-rugby-20.json) |
 | Rugby 2001 | 67655 | [67655-rugby-2001.json](./67655-rugby-2001.json) |
