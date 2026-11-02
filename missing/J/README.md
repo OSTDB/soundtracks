@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacob Jones and the Bigfoot Mystery: Episode 2 | 36289 | [36289-jacob-jones-and-the-bigfoot-mystery-episode-2.json](./36289-jacob-jones-and-the-bigfoot-mystery-episode-2.json) |
 | Jacob Jones and the Bigfoot Mystery: Episode One - A Bump in the Night | 84153 | [84153-jacob-jones-and-the-bigfoot-mystery-episode-one-a-bump-in-the-night.json](./84153-jacob-jones-and-the-bigfoot-mystery-episode-one-a-bump-in-the-night.json) |
 | Jacob The Farmer | 148669 | [148669-jacob-the-farmer.json](./148669-jacob-the-farmer.json) |
+| Jacob’s Islands | 425828 | [425828-jacob-s-islands.json](./425828-jacob-s-islands.json) |
 | Jacob's Ladder | 363166 | [363166-jacobs-ladder.json](./363166-jacobs-ladder.json) |
 | Jacob's Quest | 226731 | [226731-jacobs-quest.json](./226731-jacobs-quest.json) |
 | Jacob's Quest: Voyage | 265341 | [265341-jacobs-quest-voyage.json](./265341-jacobs-quest-voyage.json) |
