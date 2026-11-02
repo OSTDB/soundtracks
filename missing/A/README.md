@@ -3693,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerofly RC 10: Expansion Pack 2 | 272741 | [272741-aerofly-rc-10-expansion-pack-2.json](./272741-aerofly-rc-10-expansion-pack-2.json) |
 | Aerofly RC 10: RC Flight Simulator | 272642 | [272642-aerofly-rc-10-rc-flight-simulator.json](./272642-aerofly-rc-10-rc-flight-simulator.json) |
 | aerofly RC 7 | 17839 | [17839-aerofly-rc-7.json](./17839-aerofly-rc-7.json) |
+| AeroGauge | 3329 | [3329-aerogauge.json](./3329-aerogauge.json) |
 | Aerolicious | 416623 | [416623-aerolicious.json](./416623-aerolicious.json) |
 | Aerolitos | 40160 | [40160-aerolitos.json](./40160-aerolitos.json) |
 | AéroMultiverse | 379493 | [379493-aeromultiverse.json](./379493-aeromultiverse.json) |
@@ -6332,6 +6333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Hominid | 314892 | [314892-alien-hominid.json](./314892-alien-hominid.json) |
 | Alien Hominid 360 | 314895 | [314895-alien-hominid-360.json](./314895-alien-hominid-360.json) |
 | Alien Hominid HD | 20673 | [20673-alien-hominid-hd.json](./20673-alien-hominid-hd.json) |
+| Alien Hominid Invasion | 131817 | [131817-alien-hominid-invasion.json](./131817-alien-hominid-invasion.json) |
 | Alien Hominid: PDA Classic Pack 2 | 280416 | [280416-alien-hominid-pda-classic-pack-2.json](./280416-alien-hominid-pda-classic-pack-2.json) |
 | Alien Hominid: PDA Games | 61164 | [61164-alien-hominid-pda-games.json](./61164-alien-hominid-pda-games.json) |
 | Alien Hominid: The Extra Terrestrial Bundle | 274442 | [274442-alien-hominid-the-extra-terrestrial-bundle.json](./274442-alien-hominid-the-extra-terrestrial-bundle.json) |
@@ -12974,6 +12976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Alley | 73483 | [73483-armor-alley.json](./73483-armor-alley.json) |
 | Armor Ambush | 11126 | [11126-armor-ambush.json](./11126-armor-ambush.json) |
 | Armor Assault | 24898 | [24898-armor-assault.json](./24898-armor-assault.json) |
+| Armor Attack | 2388 | [2388-armor-attack.json](./2388-armor-attack.json) |
 | Armor Attack | 382918 | [382918-armor-attack.json](./382918-armor-attack.json) |
 | Armor Attack II | 60282 | [60282-armor-attack-ii.json](./60282-armor-attack-ii.json) |
 | Armor Battle | 245153 | [245153-armor-battle.json](./245153-armor-battle.json) |
