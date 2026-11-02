@@ -3599,6 +3599,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Reckoning: Lethal Knowledge | 145298 | [145298-dead-reckoning-lethal-knowledge.json](./145298-dead-reckoning-lethal-knowledge.json) |
 | Dead Reckoning: Silvermoon Isle - Collector's Edition | 29616 | [29616-dead-reckoning-silvermoon-isle-collectors-edition.json](./29616-dead-reckoning-silvermoon-isle-collectors-edition.json) |
 | Dead Reckoning: Sleight | 87872 | [87872-dead-reckoning-sleight.json](./87872-dead-reckoning-sleight.json) |
+| Dead Reckoning: Sleight of Murder - Collector's Edition | 418425 | [418425-dead-reckoning-sleight-of-murder-collectors-edition.json](./418425-dead-reckoning-sleight-of-murder-collectors-edition.json) |
+| Dead Reckoning: Snowbird's Creek - Collector's Edition | 418426 | [418426-dead-reckoning-snowbirds-creek-collectors-edition.json](./418426-dead-reckoning-snowbirds-creek-collectors-edition.json) |
 | Dead Reckoning: The Brassfield Manor - Collector's Edition | 22077 | [22077-dead-reckoning-the-brassfield-manor-collectors-edition.json](./22077-dead-reckoning-the-brassfield-manor-collectors-edition.json) |
 | Dead Reckoning: The Crescent Case | 100050 | [100050-dead-reckoning-the-crescent-case.json](./100050-dead-reckoning-the-crescent-case.json) |
 | Dead Reckoning: The Crescent Case - Collector's Edition | 89944 | [89944-dead-reckoning-the-crescent-case-collectors-edition.json](./89944-dead-reckoning-the-crescent-case-collectors-edition.json) |
@@ -4135,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Animal Parade | 260210 | [260210-death-animal-parade.json](./260210-death-animal-parade.json) |
 | Death Architect | 215070 | [215070-death-architect.json](./215070-death-architect.json) |
 | Death Arena Reality Show | 101878 | [101878-death-arena-reality-show.json](./101878-death-arena-reality-show.json) |
+| Death at Cape Porto: A Dana Knightstone Novel | 418427 | [418427-death-at-cape-porto-a-dana-knightstone-novel.json](./418427-death-at-cape-porto-a-dana-knightstone-novel.json) |
 | Death at Cape Porto: A Dana Knightstone Novel - Collector's Edition | 228254 | [228254-death-at-cape-porto-a-dana-knightstone-novel-collectors-edition.json](./228254-death-at-cape-porto-a-dana-knightstone-novel-collectors-edition.json) |
 | Death at Fairing Point: A Dana Knightstone Novel | 65722 | [65722-death-at-fairing-point-a-dana-knightstone-novel.json](./65722-death-at-fairing-point-a-dana-knightstone-novel.json) |
 | Death at Sycamore Hall | 388250 | [388250-death-at-sycamore-hall.json](./388250-death-at-sycamore-hall.json) |
@@ -4328,6 +4331,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death or Glory | 195934 | [195934-death-or-glory.json](./195934-death-or-glory.json) |
 | Death or Treat | 215539 | [215539-death-or-treat.json](./215539-death-or-treat.json) |
 | Death Orb | 72629 | [72629-death-orb.json](./72629-death-orb.json) |
+| Death Pages: Ghost Library | 418428 | [418428-death-pages-ghost-library.json](./418428-death-pages-ghost-library.json) |
+| Death Pages: Ghost Library - Collector's Edition | 418429 | [418429-death-pages-ghost-library-collectors-edition.json](./418429-death-pages-ghost-library-collectors-edition.json) |
 | Death Palette | 171525 | [171525-death-palette.json](./171525-death-palette.json) |
 | Death Park 2 | 149730 | [149730-death-park-2.json](./149730-death-park-2.json) |
 | Death Park 2: Horror Clown | 251232 | [251232-death-park-2-horror-clown.json](./251232-death-park-2-horror-clown.json) |
@@ -7348,6 +7353,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Pikachu Returns | 128307 | [128307-detective-pikachu-returns.json](./128307-detective-pikachu-returns.json) |
 | Detective Pomu and the Tatsuki Manor Mystery | 283333 | [283333-detective-pomu-and-the-tatsuki-manor-mystery.json](./283333-detective-pomu-and-the-tatsuki-manor-mystery.json) |
 | Detective Puz | 133907 | [133907-detective-puz.json](./133907-detective-puz.json) |
+| Detective Quest: The Crystal Slipper | 418430 | [418430-detective-quest-the-crystal-slipper.json](./418430-detective-quest-the-crystal-slipper.json) |
+| Detective Quest: The Crystal Slipper - Collector's Edition | 418434 | [418434-detective-quest-the-crystal-slipper-collectors-edition.json](./418434-detective-quest-the-crystal-slipper-collectors-edition.json) |
 | Detective R & Prophet J | 402369 | [402369-detective-r-and-prophet-j.json](./402369-detective-r-and-prophet-j.json) |
 | Detective Reborn Bundle | 254705 | [254705-detective-reborn-bundle.json](./254705-detective-reborn-bundle.json) |
 | Detective Riddles: Sherlock's Heritage | 91096 | [91096-detective-riddles-sherlocks-heritage.json](./91096-detective-riddles-sherlocks-heritage.json) |
@@ -7355,6 +7362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Ridelle | 235406 | [235406-detective-ridelle.json](./235406-detective-ridelle.json) |
 | Detective Ridley and the Mysterious Enigma | 239465 | [239465-detective-ridley-and-the-mysterious-enigma.json](./239465-detective-ridley-and-the-mysterious-enigma.json) |
 | Detective Rosie Morgan: Death at a Dinner Party | 236827 | [236827-detective-rosie-morgan-death-at-a-dinner-party.json](./236827-detective-rosie-morgan-death-at-a-dinner-party.json) |
+| Detective Ross: Episode 1 - A PI in Paris | 418435 | [418435-detective-ross-episode-1-a-pi-in-paris.json](./418435-detective-ross-episode-1-a-pi-in-paris.json) |
 | Detective S | 159089 | [159089-detective-s.json](./159089-detective-s.json) |
 | Detective S. Harkins | 184820 | [184820-detective-s-harkins.json](./184820-detective-s-harkins.json) |
 | Detective School Club | 304597 | [304597-detective-school-club.json](./304597-detective-school-club.json) |
@@ -8056,6 +8064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Keeper | 117468 | [117468-dice-keeper.json](./117468-dice-keeper.json) |
 | Dice King | 188016 | [188016-dice-king.json](./188016-dice-king.json) |
 | Dice Kingdoms | 197070 | [197070-dice-kingdoms.json](./197070-dice-kingdoms.json) |
+| Dice Knight | 418421 | [418421-dice-knight.json](./418421-dice-knight.json) |
 | Dice Knight: Mystery of the Moirai | 152741 | [152741-dice-knight-mystery-of-the-moirai.json](./152741-dice-knight-mystery-of-the-moirai.json) |
 | Dice Legacy | 132928 | [132928-dice-legacy.json](./132928-dice-legacy.json) |
 | Dice Legacy: Corrupted Fates | 196296 | [196296-dice-legacy-corrupted-fates.json](./196296-dice-legacy-corrupted-fates.json) |
@@ -8730,6 +8739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dik Journey | 310920 | [310920-dik-journey.json](./310920-dik-journey.json) |
 | Dikembe Mutombo's 4 1/2 Weeks to Save the World | 79618 | [79618-dikembe-mutombos-4-1-2-weeks-to-save-the-world.json](./79618-dikembe-mutombos-4-1-2-weeks-to-save-the-world.json) |
 | Dikes & Polders | 183292 | [183292-dikes-and-polders.json](./183292-dikes-and-polders.json) |
+| DikuMUD | 419100 | [419100-dikumud.json](./419100-dikumud.json) |
 | Dilarara!! | 82876 | [82876-dilarara.json](./82876-dilarara.json) |
 | Dilbert's Desktop Games | 131183 | [131183-dilberts-desktop-games.json](./131183-dilberts-desktop-games.json) |
 | Dildo Catcher | 253981 | [253981-dildo-catcher.json](./253981-dildo-catcher.json) |
@@ -15769,6 +15779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving in Tehran | 372664 | [372664-driving-in-tehran.json](./372664-driving-in-tehran.json) |
 | Driving in Traffic | 107061 | [107061-driving-in-traffic.json](./107061-driving-in-traffic.json) |
 | Driving Life | 339678 | [339678-driving-life.json](./339678-driving-life.json) |
+| Driving Master D | 418397 | [418397-driving-master-d.json](./418397-driving-master-d.json) |
 | Driving Me Crazy | 182933 | [182933-driving-me-crazy.json](./182933-driving-me-crazy.json) |
 | Driving Party | 372759 | [372759-driving-party.json](./372759-driving-party.json) |
 | Driving Pro: Island Delivery | 105779 | [105779-driving-pro-island-delivery.json](./105779-driving-pro-island-delivery.json) |
@@ -17858,6 +17869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DVD Dancemachine DVT-F800 | 245697 | [245697-dvd-dancemachine-dvt-f800.json](./245697-dvd-dancemachine-dvt-f800.json) |
 | DVD Dealer Simulator | 407475 | [407475-dvd-dealer-simulator.json](./407475-dvd-dealer-simulator.json) |
 | DVD Karaoke Game DVT-G100 | 245691 | [245691-dvd-karaoke-game-dvt-g100.json](./245691-dvd-karaoke-game-dvt-g100.json) |
+| DVD Screensaver 2: 30th Anniversary Survivors Edition | 418401 | [418401-dvd-screensaver-2-30th-anniversary-survivors-edition.json](./418401-dvd-screensaver-2-30th-anniversary-survivors-edition.json) |
 | DVD Screensaver Simulator Rebirth Reimagined Definitive Reloaded Special Intergrade Ultimate HD Legacy Collection Remastered (2027 Edition) | 408785 | [408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json](./408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json) |
 | DVD Survivors | 395479 | [395479-dvd-survivors.json](./395479-dvd-survivors.json) |
 | DvDrum, Ultimate Drum Simulator! | 27206 | [27206-dvdrum-ultimate-drum-simulator.json](./27206-dvdrum-ultimate-drum-simulator.json) |
