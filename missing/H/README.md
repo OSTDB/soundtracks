@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker Evolution Duality: Inception Part 1 | 171375 | [171375-hacker-evolution-duality-inception-part-1.json](./171375-hacker-evolution-duality-inception-part-1.json) |
 | Hacker Evolution Duality: Inception Part 2 | 171633 | [171633-hacker-evolution-duality-inception-part-2.json](./171633-hacker-evolution-duality-inception-part-2.json) |
 | Hacker Evolution Duality: Inception Part 3 | 171506 | [171506-hacker-evolution-duality-inception-part-3.json](./171506-hacker-evolution-duality-inception-part-3.json) |
+| Hacker Evolution Immersion | 25842 | [25842-hacker-evolution-immersion.json](./25842-hacker-evolution-immersion.json) |
 | Hacker Evolution Source Code | 35416 | [35416-hacker-evolution-source-code.json](./35416-hacker-evolution-source-code.json) |
 | Hacker Evolution: Hardcore Package Part 1 | 10394 | [10394-hacker-evolution-hardcore-package-part-1.json](./10394-hacker-evolution-hardcore-package-part-1.json) |
 | Hacker Evolution: Untold | 1024 | [1024-hacker-evolution-untold.json](./1024-hacker-evolution-untold.json) |
@@ -219,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hadalis | 384311 | [384311-hadalis.json](./384311-hadalis.json) |
 | Hadalyth Zero | 414616 | [414616-hadalyth-zero.json](./414616-hadalyth-zero.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
+| Hade | 30655 | [30655-hade.json](./30655-hade.json) |
 | Hade: Forbidden Levels | 172092 | [172092-hade-forbidden-levels.json](./172092-hade-forbidden-levels.json) |
 | Hadean Lands | 18654 | [18654-hadean-lands.json](./18654-hadean-lands.json) |
 | Hadean Tactics | 133361 | [133361-hadean-tactics.json](./133361-hadean-tactics.json) |
@@ -4444,6 +4446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henry Stickmin: Fleeing the Complex | 145664 | [145664-henry-stickmin-fleeing-the-complex.json](./145664-henry-stickmin-fleeing-the-complex.json) |
 | Henry Stickmin: Infiltrating the Airship | 145663 | [145663-henry-stickmin-infiltrating-the-airship.json](./145663-henry-stickmin-infiltrating-the-airship.json) |
 | Henry Stickmin: Stealing the Diamond | 142016 | [142016-henry-stickmin-stealing-the-diamond.json](./142016-henry-stickmin-stealing-the-diamond.json) |
+| Henry the Hamster Handler | 30177 | [30177-henry-the-hamster-handler.json](./30177-henry-the-hamster-handler.json) |
 | Henry the Hamster Handler VR | 101187 | [101187-henry-the-hamster-handler-vr.json](./101187-henry-the-hamster-handler-vr.json) |
 | Henry, What Have You Done? | 180751 | [180751-henry-what-have-you-done.json](./180751-henry-what-have-you-done.json) |
 | Henry's Adventure | 268188 | [268188-henrys-adventure.json](./268188-henrys-adventure.json) |
@@ -7406,6 +7409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
 | Himawari no Kyoukai to Nagai Natsuyasumi | 137108 | [137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json](./137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json) |
 | Himawari to Koi no Kioku | 194574 | [194574-himawari-to-koi-no-kioku.json](./194574-himawari-to-koi-no-kioku.json) |
+| Himawari: The Sunflower | 30588 | [30588-himawari-the-sunflower.json](./30588-himawari-the-sunflower.json) |
 | Himawari's Garden | 91042 | [91042-himawaris-garden.json](./91042-himawaris-garden.json) |
 | Himbo Harem Homicide | 196976 | [196976-himbo-harem-homicide.json](./196976-himbo-harem-homicide.json) |
 | Hime Cut | 330502 | [330502-hime-cut.json](./330502-hime-cut.json) |
@@ -9078,6 +9082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop'n & Bop'n | 290831 | [290831-hopn-and-bopn.json](./290831-hopn-and-bopn.json) |
 | Hop'N'Hoard | 394846 | [394846-hopnhoard.json](./394846-hopnhoard.json) |
 | Hopa: Mini test Quest | 183999 | [183999-hopa-mini-test-quest.json](./183999-hopa-mini-test-quest.json) |
+| Hopalong: The Badlands | 30535 | [30535-hopalong-the-badlands.json](./30535-hopalong-the-badlands.json) |
 | HopBound | 137891 | [137891-hopbound.json](./137891-hopbound.json) |
 | HopDodge | 200149 | [200149-hopdodge.json](./200149-hopdodge.json) |
 | Hope | 110096 | [110096-hope.json](./110096-hope.json) |
@@ -11335,6 +11340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hustle Castle | 87280 | [87280-hustle-castle.json](./87280-hustle-castle.json) |
 | Hustle Cat | 33277 | [33277-hustle-cat.json](./33277-hustle-cat.json) |
 | Hustle City | 142224 | [142224-hustle-city.json](./142224-hustle-city.json) |
+| Hustle Kings VR | 25834 | [25834-hustle-kings-vr.json](./25834-hustle-kings-vr.json) |
 | Hustle Quest: Historia of Urth | 299155 | [299155-hustle-quest-historia-of-urth.json](./299155-hustle-quest-historia-of-urth.json) |
 | Hustle Simulator | 224980 | [224980-hustle-simulator.json](./224980-hustle-simulator.json) |
 | Hustler | 92282 | [92282-hustler.json](./92282-hustler.json) |
@@ -11550,6 +11556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper HitBoxing | 247943 | [247943-hyper-hitboxing.json](./247943-hyper-hitboxing.json) |
 | Hyper Hostess | 240888 | [240888-hyper-hostess.json](./240888-hyper-hostess.json) |
 | Hyper Iria | 42334 | [42334-hyper-iria.json](./42334-hyper-iria.json) |
+| Hyper Jam | 30515 | [30515-hyper-jam.json](./30515-hyper-jam.json) |
 | Hyper Kitten | 212432 | [212432-hyper-kitten.json](./212432-hyper-kitten.json) |
 | Hyper Knights | 29410 | [29410-hyper-knights.json](./29410-hyper-knights.json) |
 | Hyper Light Breaker | 194965 | [194965-hyper-light-breaker.json](./194965-hyper-light-breaker.json) |
