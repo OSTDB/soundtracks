@@ -903,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1522,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballerburg | 129148 | [129148-ballerburg.json](./129148-ballerburg.json) |
 | Ballerburg: Castle Chaos | 43879 | [43879-ballerburg-castle-chaos.json](./43879-ballerburg-castle-chaos.json) |
 | Ballerina Magazine Dress Up | 95844 | [95844-ballerina-magazine-dress-up.json](./95844-ballerina-magazine-dress-up.json) |
+| Ballerina Salon: Spa, Makeup & Dress Up Makeover | 87492 | [87492-ballerina-salon-spa-makeup-and-dress-up-makeover.json](./87492-ballerina-salon-spa-makeup-and-dress-up-makeover.json) |
 | Ballerina: Haitoku no Kurumi Wari Ningyou | 82586 | [82586-ballerina-haitoku-no-kurumi-wari-ningyou.json](./82586-ballerina-haitoku-no-kurumi-wari-ningyou.json) |
 | Ballermann: Hey Baby! | 346711 | [346711-ballermann-hey-baby.json](./346711-ballermann-hey-baby.json) |
 | Ballerspiel | 395290 | [395290-ballerspiel.json](./395290-ballerspiel.json) |
@@ -9836,6 +9838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Flying | 359387 | [359387-block-flying.json](./359387-block-flying.json) |
 | Block Force | 247454 | [247454-block-force.json](./247454-block-force.json) |
 | Block Force | 400447 | [400447-block-force.json](./400447-block-force.json) |
+| Block Fortress | 88977 | [88977-block-fortress.json](./88977-block-fortress.json) |
 | Block Fortress 2 | 318705 | [318705-block-fortress-2.json](./318705-block-fortress-2.json) |
 | Block Fortress: Empires | 119483 | [119483-block-fortress-empires.json](./119483-block-fortress-empires.json) |
 | Block Fuse | 113326 | [113326-block-fuse.json](./113326-block-fuse.json) |
@@ -14588,6 +14591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge 3000 | 206491 | [206491-bridge-3000.json](./206491-bridge-3000.json) |
 | Bridge 4.0 | 362440 | [362440-bridge-4-0.json](./362440-bridge-4-0.json) |
 | Bridge 5.0 | 362441 | [362441-bridge-5-0.json](./362441-bridge-5-0.json) |
+| Bridge Baron | 88982 | [88982-bridge-baron.json](./88982-bridge-baron.json) |
 | Bridge Between Two Islands | 308475 | [308475-bridge-between-two-islands.json](./308475-bridge-between-two-islands.json) |
 | Bridge Builder | 50121 | [50121-bridge-builder.json](./50121-bridge-builder.json) |
 | Bridge Builder Adventure | 147603 | [147603-bridge-builder-adventure.json](./147603-bridge-builder-adventure.json) |
