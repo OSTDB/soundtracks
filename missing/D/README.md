@@ -8724,6 +8724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension | 355177 | [355177-dimension.json](./355177-dimension.json) |
 | Dimension Ascent | 355596 | [355596-dimension-ascent.json](./355596-dimension-ascent.json) |
 | Dimension Defenders | 405570 | [405570-dimension-defenders.json](./405570-dimension-defenders.json) |
+| Dimension Drifter | 107761 | [107761-dimension-drifter.json](./107761-dimension-drifter.json) |
 | Dimension Drive | 27327 | [27327-dimension-drive.json](./27327-dimension-drive.json) |
 | Dimension Drive: Limited Edition | 167045 | [167045-dimension-drive-limited-edition.json](./167045-dimension-drive-limited-edition.json) |
 | Dimension Escape | 330111 | [330111-dimension-escape.json](./330111-dimension-escape.json) |
@@ -8793,6 +8794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Din's Champion | 316289 | [316289-dins-champion.json](./316289-dins-champion.json) |
 | Din's Curse | 8820 | [8820-dins-curse.json](./8820-dins-curse.json) |
 | Din's Curse: Demon War | 8821 | [8821-dins-curse-demon-war.json](./8821-dins-curse-demon-war.json) |
+| Din's Legacy | 107680 | [107680-dins-legacy.json](./107680-dins-legacy.json) |
 | Dinah's Dreamwoods | 399601 | [399601-dinahs-dreamwoods.json](./399601-dinahs-dreamwoods.json) |
 | DinD | 303477 | [303477-dind.json](./303477-dind.json) |
 | Dine Together | 205238 | [205238-dine-together.json](./205238-dine-together.json) |
@@ -9141,6 +9143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinotopia: The Sunstone Odyssey | 3879 | [3879-dinotopia-the-sunstone-odyssey.json](./3879-dinotopia-the-sunstone-odyssey.json) |
 | Dinotopia: The Timestone Pirates | 6378 | [6378-dinotopia-the-timestone-pirates.json](./6378-dinotopia-the-timestone-pirates.json) |
 | Dinotraz | 408232 | [408232-dinotraz.json](./408232-dinotraz.json) |
+| DinoTrek | 107695 | [107695-dinotrek.json](./107695-dinotrek.json) |
 | DinoTribe | 309926 | [309926-dinotribe.json](./309926-dinotribe.json) |
 | Dinovaporate | 256562 | [256562-dinovaporate.json](./256562-dinovaporate.json) |
 | DinoVR | 114981 | [114981-dinovr.json](./114981-dinovr.json) |
@@ -12924,6 +12927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Romance | 172424 | [172424-double-romance.json](./172424-double-romance.json) |
 | Double S.T.E.A.L.: The Second Clash | 63028 | [63028-double-s-t-e-a-l-the-second-clash.json](./63028-double-s-t-e-a-l-the-second-clash.json) |
 | Double Sequence: The Q-Virus Invasion | 47884 | [47884-double-sequence-the-q-virus-invasion.json](./47884-double-sequence-the-q-virus-invasion.json) |
+| Double Shot | 107857 | [107857-double-shot.json](./107857-double-shot.json) |
 | Double Shoulders | 338800 | [338800-double-shoulders.json](./338800-double-shoulders.json) |
 | Double sided: TriJam edition | 184425 | [184425-double-sided-trijam-edition.json](./184425-double-sided-trijam-edition.json) |
 | Double Smash Ninja | 246083 | [246083-double-smash-ninja.json](./246083-double-smash-ninja.json) |
@@ -16995,6 +16999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Killer | 400474 | [400474-dungeon-killer.json](./400474-dungeon-killer.json) |
 | Dungeon Killing | 355210 | [355210-dungeon-killing.json](./355210-dungeon-killing.json) |
 | Dungeon King | 236411 | [236411-dungeon-king.json](./236411-dungeon-king.json) |
+| Dungeon Kitty | 107832 | [107832-dungeon-kitty.json](./107832-dungeon-kitty.json) |
 | Dungeon Knight | 218680 | [218680-dungeon-knight.json](./218680-dungeon-knight.json) |
 | Dungeon Knight | 252600 | [252600-dungeon-knight.json](./252600-dungeon-knight.json) |
 | Dungeon Land | 66059 | [66059-dungeon-land.json](./66059-dungeon-land.json) |
@@ -17863,6 +17868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DX Shachou Game | 387122 | [387122-dx-shachou-game.json](./387122-dx-shachou-game.json) |
 | DX-Ball | 19224 | [19224-dx-ball.json](./19224-dx-ball.json) |
 | DX-Ball 2 | 19225 | [19225-dx-ball-2.json](./19225-dx-ball-2.json) |
+| DX-Ball 2: 20th Anniversary Edition | 107803 | [107803-dx-ball-2-20th-anniversary-edition.json](./107803-dx-ball-2-20th-anniversary-edition.json) |
 | Dyad | 242079 | [242079-dyad.json](./242079-dyad.json) |
 | Dyad | 9132 | [9132-dyad.json](./9132-dyad.json) |
 | Dyadem | 381352 | [381352-dyadem.json](./381352-dyadem.json) |
