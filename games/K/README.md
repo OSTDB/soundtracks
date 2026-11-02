@@ -4,6 +4,7 @@
 
 | Cover | Game | Albums |
 |---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734e65b6ce2a819e26c6526b00" width="60" /> | [Kabuto Park](https://ostdb.net/games/kabuto-park) | **Kabuto Park (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/36fjoyKwYcUAS4ctRRfOdC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347fbeb6b2faa56d51edc735e" width="60" /> | [Kamiko](https://ostdb.net/games/kamiko) | **KAMIKO ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/1LJdNct41ToL28ZTFQkDMl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb70c201142bebc2853acfd3" width="60" /> | [Kao the Kangaroo](https://ostdb.net/games/kao-the-kangaroo) | **Kao the Kangaroo Original Game Soundtrack** · [Spotify](https://open.spotify.com/album/2nT2n4q87Ktp8Kxu5MHwfB) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/1c/3d/6c1c3dc7-35f3-90be-b799-fb2e28ff066d/5063654958634_cover.jpg/1000x1000bb.jpg" width="60" /> | [Karma: The Dark World](https://ostdb.net/games/karma-the-dark-world) | **Karma: The Dark World (Official Soundtrack)** · [Apple Music](https://music.apple.com/us/album/karma-the-dark-world-official-soundtrack/1802044288?uo=4) · [Album](https://album.link/i/1802044288) |
