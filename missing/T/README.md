@@ -29111,6 +29111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TripleBuilder | 161168 | [161168-triplebuilder.json](./161168-triplebuilder.json) |
 | Triplets Trouble!!! | 262903 | [262903-triplets-trouble.json](./262903-triplets-trouble.json) |
 | Triplicata | 54537 | [54537-triplicata.json](./54537-triplicata.json) |
+| Triplicity | 56113 | [56113-triplicity.json](./56113-triplicity.json) |
 | Tripline | 87800 | [87800-tripline.json](./87800-tripline.json) |
 | Tripp | 144866 | [144866-tripp.json](./144866-tripp.json) |
 | Tripper | 296151 | [296151-tripper.json](./296151-tripper.json) |
