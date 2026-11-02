@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waligie 3: On Mars | 318032 | [318032-waligie-3-on-mars.json](./318032-waligie-3-on-mars.json) |
 | Walk | 152080 | [152080-walk.json](./152080-walk.json) |
 | Walk | 330662 | [330662-walk.json](./330662-walk.json) |
+| Walk | 407731 | [407731-walk.json](./407731-walk.json) |
 | Walk and Stroll | 239728 | [239728-walk-and-stroll.json](./239728-walk-and-stroll.json) |
 | Walk Around And Do Nothing | 392358 | [392358-walk-around-and-do-nothing.json](./392358-walk-around-and-do-nothing.json) |
 | Walk Around the World | 414532 | [414532-walk-around-the-world.json](./414532-walk-around-the-world.json) |
@@ -356,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk with the Living 2 | 230883 | [230883-walk-with-the-living-2.json](./230883-walk-with-the-living-2.json) |
 | Walk Your Friends Back Home | 208267 | [208267-walk-your-friends-back-home.json](./208267-walk-your-friends-back-home.json) |
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
+| Walkable Cities | 410630 | [410630-walkable-cities.json](./410630-walkable-cities.json) |
 | Walkabout Mini Golf: 20,000 Leagues Under the Sea | 220525 | [220525-walkabout-mini-golf-20-000-leagues-under-the-sea.json](./220525-walkabout-mini-golf-20-000-leagues-under-the-sea.json) |
 | Walkabout Mini Golf: Alfheim | 264173 | [264173-walkabout-mini-golf-alfheim.json](./264173-walkabout-mini-golf-alfheim.json) |
 | Walkabout Mini Golf: Alice's Adventures in Wonderland | 380577 | [380577-walkabout-mini-golf-alices-adventures-in-wonderland.json](./380577-walkabout-mini-golf-alices-adventures-in-wonderland.json) |
@@ -2388,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waternet | 230717 | [230717-waternet.json](./230717-waternet.json) |
 | Waternet | 233609 | [233609-waternet.json](./233609-waternet.json) |
 | Waternet | 318871 | [318871-waternet.json](./318871-waternet.json) |
+| Waterpark Manager Simulator | 409309 | [409309-waterpark-manager-simulator.json](./409309-waterpark-manager-simulator.json) |
 | Waterpark Simulator | 151019 | [151019-waterpark-simulator.json](./151019-waterpark-simulator.json) |
 | Waterpark Simulator 2025 | 391857 | [391857-waterpark-simulator-2025.json](./391857-waterpark-simulator-2025.json) |
 | Waterpark Simulator 25 | 371604 | [371604-waterpark-simulator-25.json](./371604-waterpark-simulator-25.json) |
@@ -3034,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Al's Great Adventure | 55933 | [55933-weird-als-great-adventure.json](./55933-weird-als-great-adventure.json) |
 | Weird and Unfortunate Things Are Happening | 124655 | [124655-weird-and-unfortunate-things-are-happening.json](./124655-weird-and-unfortunate-things-are-happening.json) |
 | Weird Cat | 341108 | [341108-weird-cat.json](./341108-weird-cat.json) |
+| Weird Chirstmas Tales: Caga Tió | 409308 | [409308-weird-chirstmas-tales-caga-tio.json](./409308-weird-chirstmas-tales-caga-tio.json) |
 | Weird Cinema | 189936 | [189936-weird-cinema.json](./189936-weird-cinema.json) |
 | Weird Cities | 386698 | [386698-weird-cities.json](./386698-weird-cities.json) |
 | Weird City Interloper | 207232 | [207232-weird-city-interloper.json](./207232-weird-city-interloper.json) |
@@ -3101,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Park | 93498 | [93498-welcome-park.json](./93498-welcome-park.json) |
 | Welcome Teacher | 266798 | [266798-welcome-teacher.json](./266798-welcome-teacher.json) |
 | Welcome to a Sexy, Open World! | 194551 | [194551-welcome-to-a-sexy-open-world.json](./194551-welcome-to-a-sexy-open-world.json) |
+| Welcome to a Sexy, Underworld! | 410601 | [410601-welcome-to-a-sexy-underworld.json](./410601-welcome-to-a-sexy-underworld.json) |
 | Welcome to Albion! | 204893 | [204893-welcome-to-albion.json](./204893-welcome-to-albion.json) |
 | Welcome to Amsoft Side A | 39128 | [39128-welcome-to-amsoft-side-a.json](./39128-welcome-to-amsoft-side-a.json) |
 | Welcome to Amsoft Side B | 39129 | [39129-welcome-to-amsoft-side-b.json](./39129-welcome-to-amsoft-side-b.json) |
@@ -4086,6 +4091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's Waldo? Exploring Geography | 201790 | [201790-wheres-waldo-exploring-geography.json](./201790-wheres-waldo-exploring-geography.json) |
 | Where's Waldo? for the Windows Phone | 131539 | [131539-wheres-waldo-for-the-windows-phone.json](./131539-wheres-waldo-for-the-windows-phone.json) |
 | Where's Waldo? The Fantastic Journey | 21216 | [21216-wheres-waldo-the-fantastic-journey.json](./21216-wheres-waldo-the-fantastic-journey.json) |
+| Where's Wally? Fantastic Journey 1 | 409140 | [409140-wheres-wally-fantastic-journey-1.json](./409140-wheres-wally-fantastic-journey-1.json) |
 | Where's Wally? Fantastic Journey 2 | 84943 | [84943-wheres-wally-fantastic-journey-2.json](./84943-wheres-wally-fantastic-journey-2.json) |
 | Where's Wally? Fantastic Journey 3 | 84944 | [84944-wheres-wally-fantastic-journey-3.json](./84944-wheres-wally-fantastic-journey-3.json) |
 | Where's Wally? Travel Pack 1 | 85483 | [85483-wheres-wally-travel-pack-1.json](./85483-wheres-wally-travel-pack-1.json) |
@@ -4107,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Which Era Is This? Japanese History Era Guess Quiz | 397718 | [397718-which-era-is-this-japanese-history-era-guess-quiz.json](./397718-which-era-is-this-japanese-history-era-guess-quiz.json) |
 | Which Era Is This? World History Era Guess Quiz | 397717 | [397717-which-era-is-this-world-history-era-guess-quiz.json](./397717-which-era-is-this-world-history-era-guess-quiz.json) |
 | Which hand? | 379866 | [379866-which-hand.json](./379866-which-hand.json) |
+| Which Is It? | 409307 | [409307-which-is-it.json](./409307-which-is-it.json) |
 | Which Kanji? So Fancy! | 308486 | [308486-which-kanji-so-fancy.json](./308486-which-kanji-so-fancy.json) |
 | Which Movie? - Film Trivia Word Quiz Game | 87307 | [87307-which-movie-film-trivia-word-quiz-game.json](./87307-which-movie-film-trivia-word-quiz-game.json) |
 | Which Naruto Character Are You? | 230540 | [230540-which-naruto-character-are-you.json](./230540-which-naruto-character-are-you.json) |
@@ -7276,6 +7283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordFu | 92336 | [92336-wordfu.json](./92336-wordfu.json) |
 | WordGirl Word Hunt | 106944 | [106944-wordgirl-word-hunt.json](./106944-wordgirl-word-hunt.json) |
 | Wordgraphy | 233050 | [233050-wordgraphy.json](./233050-wordgraphy.json) |
+| WordGrid Search | 409306 | [409306-wordgrid-search.json](./409306-wordgrid-search.json) |
 | WordHerd | 147269 | [147269-wordherd.json](./147269-wordherd.json) |
 | WordHive | 411569 | [411569-wordhive.json](./411569-wordhive.json) |
 | WordHive 2 | 414441 | [414441-wordhive-2.json](./414441-wordhive-2.json) |
@@ -8034,6 +8042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Travel Solitaire | 415964 | [415964-world-travel-solitaire.json](./415964-world-travel-solitaire.json) |
 | World Traveler VR | 118990 | [118990-world-traveler-vr.json](./118990-world-traveler-vr.json) |
 | World Tree | 189999 | [189999-world-tree.json](./189999-world-tree.json) |
+| World Tree Defender | 409607 | [409607-world-tree-defender.json](./409607-world-tree-defender.json) |
 | World Tree Inferno | 347198 | [347198-world-tree-inferno.json](./347198-world-tree-inferno.json) |
 | World Trigger: Borderless Mission | 12892 | [12892-world-trigger-borderless-mission.json](./12892-world-trigger-borderless-mission.json) |
 | World Trophy Soccer | 4390 | [4390-world-trophy-soccer.json](./4390-world-trophy-soccer.json) |
@@ -8871,6 +8880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Brawl | 94141 | [94141-wwe-brawl.json](./94141-wwe-brawl.json) |
 | WWE Champions | 58888 | [58888-wwe-champions.json](./58888-wwe-champions.json) |
 | WWE Day of Reckoning | 4571 | [4571-wwe-day-of-reckoning.json](./4571-wwe-day-of-reckoning.json) |
+| WWE Generations | 409326 | [409326-wwe-generations.json](./409326-wwe-generations.json) |
 | WWE Immortals | 8736 | [8736-wwe-immortals.json](./8736-wwe-immortals.json) |
 | WWE Legends of WrestleMania | 7488 | [7488-wwe-legends-of-wrestlemania.json](./7488-wwe-legends-of-wrestlemania.json) |
 | WWE Mayhem | 83218 | [83218-wwe-mayhem.json](./83218-wwe-mayhem.json) |
