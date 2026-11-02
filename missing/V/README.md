@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectron | 287572 | [287572-vectron.json](./287572-vectron.json) |
 | Vectron | 295639 | [295639-vectron.json](./295639-vectron.json) |
 | Vectron | 409129 | [409129-vectron.json](./409129-vectron.json) |
+| Vectronic | 401501 | [401501-vectronic.json](./401501-vectronic.json) |
 | Vectronom | 107182 | [107182-vectronom.json](./107182-vectronom.json) |
 | Vecxis | 59058 | [59058-vecxis.json](./59058-vecxis.json) |
 | Ved | 126673 | [126673-ved.json](./126673-ved.json) |
@@ -3573,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyeur Sex Toons | 297932 | [297932-voyeur-sex-toons.json](./297932-voyeur-sex-toons.json) |
 | Voyeur Villa: Harem Manager | 296654 | [296654-voyeur-villa-harem-manager.json](./296654-voyeur-villa-harem-manager.json) |
 | Voyna | 224781 | [224781-voyna.json](./224781-voyna.json) |
+| VP Voyage | 401517 | [401517-vp-voyage.json](./401517-vp-voyage.json) |
 | VPet-Simulator | 292021 | [292021-vpet-simulator.json](./292021-vpet-simulator.json) |
 | VPet: Pancake Cat Skin package | 294798 | [294798-vpet-pancake-cat-skin-package.json](./294798-vpet-pancake-cat-skin-package.json) |
 | VPetlings | 395580 | [395580-vpetlings.json](./395580-vpetlings.json) |
