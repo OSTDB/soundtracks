@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallace & Gromit's Grand Adventures: Episode 4 - The Bogey Man | 69160 | [69160-wallace-and-gromits-grand-adventures-episode-4-the-bogey-man.json](./69160-wallace-and-gromits-grand-adventures-episode-4-the-bogey-man.json) |
 | Wallace & Gromit's World of Invention: Wallace's Workshop | 320879 | [320879-wallace-and-gromits-world-of-invention-wallaces-workshop.json](./320879-wallace-and-gromits-world-of-invention-wallaces-workshop.json) |
 | Wallace and Gromit: Find the Numbers | 334914 | [334914-wallace-and-gromit-find-the-numbers.json](./334914-wallace-and-gromit-find-the-numbers.json) |
+| Wallachia: Reign of Dracula | 100524 | [100524-wallachia-reign-of-dracula.json](./100524-wallachia-reign-of-dracula.json) |
 | Wallbound | 298087 | [298087-wallbound.json](./298087-wallbound.json) |
 | Walled City Sunset | 326601 | [326601-walled-city-sunset.json](./326601-walled-city-sunset.json) |
 | Walled Haven | 382195 | [382195-walled-haven.json](./382195-walled-haven.json) |
@@ -8109,12 +8110,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Z VR | 349761 | [349761-world-war-z-vr.json](./349761-world-war-z-vr.json) |
 | World War Z: Aftermath | 152123 | [152123-world-war-z-aftermath.json](./152123-world-war-z-aftermath.json) |
 | World War Z: Aftermath - Deluxe Edition | 169203 | [169203-world-war-z-aftermath-deluxe-edition.json](./169203-world-war-z-aftermath-deluxe-edition.json) |
+| World War Z: Chibi Izzy Skin Pack | 406461 | [406461-world-war-z-chibi-izzy-skin-pack.json](./406461-world-war-z-chibi-izzy-skin-pack.json) |
+| World War Z: Chibi Kimiko Skin Pack | 406462 | [406462-world-war-z-chibi-kimiko-skin-pack.json](./406462-world-war-z-chibi-kimiko-skin-pack.json) |
 | World War Z: Deadly Vice Weapon Skins | 243305 | [243305-world-war-z-deadly-vice-weapon-skins.json](./243305-world-war-z-deadly-vice-weapon-skins.json) |
 | World War Z: Desert Defenders Weapons Pack | 332044 | [332044-world-war-z-desert-defenders-weapons-pack.json](./332044-world-war-z-desert-defenders-weapons-pack.json) |
+| World War Z: Explorer Weapons Pack | 406467 | [406467-world-war-z-explorer-weapons-pack.json](./406467-world-war-z-explorer-weapons-pack.json) |
 | World War Z: Game of the Year Edition | 133945 | [133945-world-war-z-game-of-the-year-edition.json](./133945-world-war-z-game-of-the-year-edition.json) |
+| World War Z: Golden Bloom Weapon Skins Pack | 406454 | [406454-world-war-z-golden-bloom-weapon-skins-pack.json](./406454-world-war-z-golden-bloom-weapon-skins-pack.json) |
+| World War Z: Lunar New Year Skin Pack | 406457 | [406457-world-war-z-lunar-new-year-skin-pack.json](./406457-world-war-z-lunar-new-year-skin-pack.json) |
+| World War Z: Raging Phoenix Skin Pack | 406460 | [406460-world-war-z-raging-phoenix-skin-pack.json](./406460-world-war-z-raging-phoenix-skin-pack.json) |
 | World War Z: Rat Packs Weapon Skins | 243298 | [243298-world-war-z-rat-packs-weapon-skins.json](./243298-world-war-z-rat-packs-weapon-skins.json) |
+| World War Z: Raven Weapons Skin Pack | 406465 | [406465-world-war-z-raven-weapons-skin-pack.json](./406465-world-war-z-raven-weapons-skin-pack.json) |
 | World War Z: Sin City Apocalypse Episode | 339072 | [339072-world-war-z-sin-city-apocalypse-episode.json](./339072-world-war-z-sin-city-apocalypse-episode.json) |
 | World War Z: Vegas Skin Pack | 339073 | [339073-world-war-z-vegas-skin-pack.json](./339073-world-war-z-vegas-skin-pack.json) |
+| World War Z: Vibrant Halloween Skin Pack | 406458 | [406458-world-war-z-vibrant-halloween-skin-pack.json](./406458-world-war-z-vibrant-halloween-skin-pack.json) |
 | World War Z: Victory Lap Weapons Skin Pack | 332045 | [332045-world-war-z-victory-lap-weapons-skin-pack.json](./332045-world-war-z-victory-lap-weapons-skin-pack.json) |
 | World War Z: Zeke Hunter Weapons Pack | 224394 | [224394-world-war-z-zeke-hunter-weapons-pack.json](./224394-world-war-z-zeke-hunter-weapons-pack.json) |
 | World War Zero | 127176 | [127176-world-war-zero.json](./127176-world-war-zero.json) |
