@@ -5550,7 +5550,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10215,6 +10214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroSpy | 46486 | [46486-microspy.json](./46486-microspy.json) |
 | Microsurgeon | 5684 | [5684-microsurgeon.json](./5684-microsurgeon.json) |
 | Microtopia | 293155 | [293155-microtopia.json](./293155-microtopia.json) |
+| MicroTown | 120024 | [120024-microtown.json](./120024-microtown.json) |
 | Microtransaction Simulator Game of the Decade: Deluxe Edition | 89399 | [89399-microtransaction-simulator-game-of-the-decade-deluxe-edition.json](./89399-microtransaction-simulator-game-of-the-decade-deluxe-edition.json) |
 | Microtrip | 344909 | [344909-microtrip.json](./344909-microtrip.json) |
 | MicroVolts Surge | 16263 | [16263-microvolts-surge.json](./16263-microvolts-surge.json) |
@@ -15120,6 +15120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters Love Candy | 63852 | [63852-monsters-love-candy.json](./63852-monsters-love-candy.json) |
 | Monsters of Kanji | 95181 | [95181-monsters-of-kanji.json](./95181-monsters-of-kanji.json) |
 | Monsters of Kanji 2 | 124205 | [124205-monsters-of-kanji-2.json](./124205-monsters-of-kanji-2.json) |
+| Monsters of Little Haven | 119454 | [119454-monsters-of-little-haven.json](./119454-monsters-of-little-haven.json) |
 | Monsters of Mican | 270307 | [270307-monsters-of-mican.json](./270307-monsters-of-mican.json) |
 | Monsters of Moldred | 310265 | [310265-monsters-of-moldred.json](./310265-monsters-of-moldred.json) |
 | Monsters of Seabrook | 224653 | [224653-monsters-of-seabrook.json](./224653-monsters-of-seabrook.json) |
