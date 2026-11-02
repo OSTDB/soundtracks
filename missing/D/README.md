@@ -2186,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darrell 3D | 416678 | [416678-darrell-3d.json](./416678-darrell-3d.json) |
 | Darso Roads | 325815 | [325815-darso-roads.json](./325815-darso-roads.json) |
 | Dart | 246439 | [246439-dart.json](./246439-dart.json) |
+| Dart Masters | 101100 | [101100-dart-masters.json](./101100-dart-masters.json) |
 | Dart Monkey 1.5143 | 341709 | [341709-dart-monkey-1-5143.json](./341709-dart-monkey-1-5143.json) |
 | Dart Racer | 258909 | [258909-dart-racer.json](./258909-dart-racer.json) |
 | Dart Rage | 50735 | [50735-dart-rage.json](./50735-dart-rage.json) |
@@ -3431,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Land VR | 118911 | [118911-dead-land-vr.json](./118911-dead-land-vr.json) |
 | Dead Lasso: Temple Of Shadows | 398423 | [398423-dead-lasso-temple-of-shadows.json](./398423-dead-lasso-temple-of-shadows.json) |
 | Dead Letter Dept. | 157024 | [157024-dead-letter-dept.json](./157024-dead-letter-dept.json) |
+| Dead Light | 100921 | [100921-dead-light.json](./100921-dead-light.json) |
 | Dead Like Ants | 216240 | [216240-dead-like-ants.json](./216240-dead-like-ants.json) |
 | Dead Link: Pages Torn | 75808 | [75808-dead-link-pages-torn.json](./75808-dead-link-pages-torn.json) |
 | Dead Mall | 342614 | [342614-dead-mall.json](./342614-dead-mall.json) |
@@ -13148,6 +13150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downhill Republic | 193822 | [193822-downhill-republic.json](./193822-downhill-republic.json) |
 | Downhill Slalom | 66952 | [66952-downhill-slalom.json](./66952-downhill-slalom.json) |
 | Downhill Snow | 143643 | [143643-downhill-snow.json](./143643-downhill-snow.json) |
+| Downhill Snowboard | 95318 | [95318-downhill-snowboard.json](./95318-downhill-snowboard.json) |
 | Downhill Xtreme | 62040 | [62040-downhill-xtreme.json](./62040-downhill-xtreme.json) |
 | DownhillMadness | 235800 | [235800-downhillmadness.json](./235800-downhillmadness.json) |
 | Downland | 93146 | [93146-downland.json](./93146-downland.json) |
@@ -13547,6 +13550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag-on Dragoon 10th Anniversary | 378980 | [378980-drag-on-dragoon-10th-anniversary.json](./378980-drag-on-dragoon-10th-anniversary.json) |
 | Drag'n Wash | 417585 | [417585-dragn-wash.json](./417585-dragn-wash.json) |
 | Drag'n'Boom | 68318 | [68318-dragnboom.json](./68318-dragnboom.json) |
+| Drag'N'Gems | 95317 | [95317-dragngems.json](./95317-dragngems.json) |
 | Dragabox | 259858 | [259858-dragabox.json](./259858-dragabox.json) |
 | Dragalia Lost | 99118 | [99118-dragalia-lost.json](./99118-dragalia-lost.json) |
 | Dragenas | 297804 | [297804-dragenas.json](./297804-dragenas.json) |
