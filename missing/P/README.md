@@ -6440,6 +6440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX | 185795 | [185795-pinball-fx.json](./185795-pinball-fx.json) |
 | Pinball FX | 21915 | [21915-pinball-fx.json](./21915-pinball-fx.json) |
 | Pinball FX 2: Marvel Pinball - Vengeance and Virtue | 20822 | [20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json](./20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json) |
+| Pinball FX 2: Star Wars | 24227 | [24227-pinball-fx-2-star-wars.json](./24227-pinball-fx-2-star-wars.json) |
 | Pinball FX VR | 332437 | [332437-pinball-fx-vr.json](./332437-pinball-fx-vr.json) |
 | Pinball FX VR: Indiana Jones - The Pinball Adventure | 338670 | [338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json](./338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json) |
 | Pinball FX VR: Universal Pinball - TV Classics | 338671 | [338671-pinball-fx-vr-universal-pinball-tv-classics.json](./338671-pinball-fx-vr-universal-pinball-tv-classics.json) |
@@ -6524,18 +6525,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX2: Fantastic Four Table | 10696 | [10696-pinball-fx2-fantastic-four-table.json](./10696-pinball-fx2-fantastic-four-table.json) |
 | Pinball FX2: Iron & Steel Pack | 20946 | [20946-pinball-fx2-iron-and-steel-pack.json](./20946-pinball-fx2-iron-and-steel-pack.json) |
 | Pinball FX2: Mars Table | 20544 | [20544-pinball-fx2-mars-table.json](./20544-pinball-fx2-mars-table.json) |
+| Pinball FX2: Marvel Civil War | 24229 | [24229-pinball-fx2-marvel-civil-war.json](./24229-pinball-fx2-marvel-civil-war.json) |
 | Pinball FX2: Marvel Pinball | 86004 | [86004-pinball-fx2-marvel-pinball.json](./86004-pinball-fx2-marvel-pinball.json) |
 | Pinball FX2: Marvel's Ant-Man | 24218 | [24218-pinball-fx2-marvels-ant-man.json](./24218-pinball-fx2-marvels-ant-man.json) |
 | Pinball FX2: Ms. Splosion Man | 320183 | [320183-pinball-fx2-ms-splosion-man.json](./320183-pinball-fx2-ms-splosion-man.json) |
 | Pinball FX2: Nightmare Mansion | 354447 | [354447-pinball-fx2-nightmare-mansion.json](./354447-pinball-fx2-nightmare-mansion.json) |
 | Pinball FX2: Paranormal | 10698 | [10698-pinball-fx2-paranormal.json](./10698-pinball-fx2-paranormal.json) |
 | Pinball FX2: Pinball FX Classics | 354446 | [354446-pinball-fx2-pinball-fx-classics.json](./354446-pinball-fx2-pinball-fx-classics.json) |
+| Pinball FX2: Plants vs. Zombies | 24231 | [24231-pinball-fx2-plants-vs-zombies.json](./24231-pinball-fx2-plants-vs-zombies.json) |
 | Pinball FX2: Portal Pinball | 20866 | [20866-pinball-fx2-portal-pinball.json](./20866-pinball-fx2-portal-pinball.json) |
 | Pinball FX2: Rocky and Bullwinkle | 354448 | [354448-pinball-fx2-rocky-and-bullwinkle.json](./354448-pinball-fx2-rocky-and-bullwinkle.json) |
 | Pinball FX2: South Park | 20227 | [20227-pinball-fx2-south-park.json](./20227-pinball-fx2-south-park.json) |
 | Pinball FX2: Star Wars Rebels | 20949 | [20949-pinball-fx2-star-wars-rebels.json](./20949-pinball-fx2-star-wars-rebels.json) |
 | Pinball FX2: The Walking Dead | 20230 | [20230-pinball-fx2-the-walking-dead.json](./20230-pinball-fx2-the-walking-dead.json) |
 | Pinball FX2: Venom | 20306 | [20306-pinball-fx2-venom.json](./20306-pinball-fx2-venom.json) |
+| Pinball FX2: Zen Classics | 24228 | [24228-pinball-fx2-zen-classics.json](./24228-pinball-fx2-zen-classics.json) |
 | Pinball FX3 | 41051 | [41051-pinball-fx3.json](./41051-pinball-fx3.json) |
 | Pinball FX3: Balls of Glory Pinball | 163997 | [163997-pinball-fx3-balls-of-glory-pinball.json](./163997-pinball-fx3-balls-of-glory-pinball.json) |
 | Pinball FX3: Bethesda Pinball | 164002 | [164002-pinball-fx3-bethesda-pinball.json](./164002-pinball-fx3-bethesda-pinball.json) |
