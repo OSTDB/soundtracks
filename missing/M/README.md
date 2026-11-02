@@ -4723,6 +4723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive Assault Network 2 | 9381 | [9381-massive-assault-network-2.json](./9381-massive-assault-network-2.json) |
 | Massive Assault: Phantom Renaissance | 9380 | [9380-massive-assault-phantom-renaissance.json](./9380-massive-assault-phantom-renaissance.json) |
 | Massive Attack | 214292 | [214292-massive-attack.json](./214292-massive-attack.json) |
+| Massive Collapse | 420977 | [420977-massive-collapse.json](./420977-massive-collapse.json) |
 | Massive Decks | 146833 | [146833-massive-decks.json](./146833-massive-decks.json) |
 | Massive Defense | 239740 | [239740-massive-defense.json](./239740-massive-defense.json) |
 | Massive Effect | 115968 | [115968-massive-effect.json](./115968-massive-effect.json) |
@@ -11707,6 +11708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mineral | 302438 | [302438-mineral.json](./302438-mineral.json) |
 | Mineral Defense | 326685 | [326685-mineral-defense.json](./326685-mineral-defense.json) |
 | Mineral Madness | 265829 | [265829-mineral-madness.json](./265829-mineral-madness.json) |
+| Mineral Zone | 420927 | [420927-mineral-zone.json](./420927-mineral-zone.json) |
 | MineRalph | 112260 | [112260-mineralph.json](./112260-mineralph.json) |
 | Minerals: Deep Core Mining | 404349 | [404349-minerals-deep-core-mining.json](./404349-minerals-deep-core-mining.json) |
 | Minerest | 184883 | [184883-minerest.json](./184883-minerest.json) |
