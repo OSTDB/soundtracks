@@ -4467,6 +4467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel: Ultimate Alliance | 197883 | [197883-marvel-ultimate-alliance.json](./197883-marvel-ultimate-alliance.json) |
 | Marvel: Ultimate Alliance | 4999 | [4999-marvel-ultimate-alliance.json](./4999-marvel-ultimate-alliance.json) |
 | Marvel: Ultimate Alliance 2 | 200963 | [200963-marvel-ultimate-alliance-2.json](./200963-marvel-ultimate-alliance-2.json) |
+| Marvel: Ultimate Alliance 2 | 425852 | [425852-marvel-ultimate-alliance-2.json](./425852-marvel-ultimate-alliance-2.json) |
 | Marvel: Ultimate Alliance Bundle | 22400 | [22400-marvel-ultimate-alliance-bundle.json](./22400-marvel-ultimate-alliance-bundle.json) |
 | Marvel's Avengers Definitive Edition | 259466 | [259466-marvels-avengers-definitive-edition.json](./259466-marvels-avengers-definitive-edition.json) |
 | Marvel's Avengers: Black Panther - War for Wakanda | 144774 | [144774-marvels-avengers-black-panther-war-for-wakanda.json](./144774-marvels-avengers-black-panther-war-for-wakanda.json) |
@@ -5570,7 +5571,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6638,6 +6638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Remembrance | 189945 | [189945-medieval-remembrance.json](./189945-medieval-remembrance.json) |
 | Medieval Royal Chess: Classic Board Game | 253226 | [253226-medieval-royal-chess-classic-board-game.json](./253226-medieval-royal-chess-classic-board-game.json) |
 | Medieval Sex Jigsaw | 291067 | [291067-medieval-sex-jigsaw.json](./291067-medieval-sex-jigsaw.json) |
+| Medieval Shepherd | 425827 | [425827-medieval-shepherd.json](./425827-medieval-shepherd.json) |
 | Medieval Shop Simulator | 152726 | [152726-medieval-shop-simulator.json](./152726-medieval-shop-simulator.json) |
 | Medieval Shop Simulator | 350333 | [350333-medieval-shop-simulator.json](./350333-medieval-shop-simulator.json) |
 | Medieval Shopman | 349757 | [349757-medieval-shopman.json](./349757-medieval-shopman.json) |
@@ -14501,6 +14502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Adventures | 61088 | [61088-monster-adventures.json](./61088-monster-adventures.json) |
 | Monster Adventures Crazy | 239230 | [239230-monster-adventures-crazy.json](./239230-monster-adventures-crazy.json) |
 | Monster Alchemy | 403768 | [403768-monster-alchemy.json](./403768-monster-alchemy.json) |
+| Monster Allergy | 425874 | [425874-monster-allergy.json](./425874-monster-allergy.json) |
 | Monster Among Us | 189908 | [189908-monster-among-us.json](./189908-monster-among-us.json) |
 | Monster and Snakes 1.1 | 349497 | [349497-monster-and-snakes-1-1.json](./349497-monster-and-snakes-1-1.json) |
 | Monster Arena | 101572 | [101572-monster-arena.json](./101572-monster-arena.json) |
