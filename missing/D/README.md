@@ -5891,6 +5891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demented Pixie | 30413 | [30413-demented-pixie.json](./30413-demented-pixie.json) |
 | Dementia | 184583 | [184583-dementia.json](./184583-dementia.json) |
 | Dementium II | 20665 | [20665-dementium-ii.json](./20665-dementium-ii.json) |
+| Dementium II | 422104 | [422104-dementium-ii.json](./422104-dementium-ii.json) |
 | Dementium II HD | 5837 | [5837-dementium-ii-hd.json](./5837-dementium-ii-hd.json) |
 | Dementium Remastered | 20034 | [20034-dementium-remastered.json](./20034-dementium-remastered.json) |
 | Dementium: The Ward | 21238 | [21238-dementium-the-ward.json](./21238-dementium-the-ward.json) |
@@ -6023,6 +6024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Gaze Extra: Digital Deluxe Edition | 199816 | [199816-demon-gaze-extra-digital-deluxe-edition.json](./199816-demon-gaze-extra-digital-deluxe-edition.json) |
 | Demon Gaze Extra: Memorial Edition | 148520 | [148520-demon-gaze-extra-memorial-edition.json](./148520-demon-gaze-extra-memorial-edition.json) |
 | Demon Gaze II | 25586 | [25586-demon-gaze-ii.json](./25586-demon-gaze-ii.json) |
+| Demon General Kirsten | 422184 | [422184-demon-general-kirsten.json](./422184-demon-general-kirsten.json) |
 | Demon Go! | 209653 | [209653-demon-go.json](./209653-demon-go.json) |
 | Demon God's Tower | 102869 | [102869-demon-gods-tower.json](./102869-demon-gods-tower.json) |
 | Demon Grade | 75159 | [75159-demon-grade.json](./75159-demon-grade.json) |
@@ -7584,6 +7586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 5: Collector's Edition | 112662 | [112662-devil-may-cry-5-collectors-edition.json](./112662-devil-may-cry-5-collectors-edition.json) |
 | Devil May Cry 5: Deluxe Edition | 111750 | [111750-devil-may-cry-5-deluxe-edition.json](./111750-devil-may-cry-5-deluxe-edition.json) |
 | Devil May Cry 5: Deluxe Edition + Vergil | 165875 | [165875-devil-may-cry-5-deluxe-edition-vergil.json](./165875-devil-may-cry-5-deluxe-edition-vergil.json) |
+| Devil May Cry 5: Lenticular Edition | 422194 | [422194-devil-may-cry-5-lenticular-edition.json](./422194-devil-may-cry-5-lenticular-edition.json) |
 | Devil May Cry 5: Mega Buster | 370873 | [370873-devil-may-cry-5-mega-buster.json](./370873-devil-may-cry-5-mega-buster.json) |
 | Devil May Cry 5: Monkey Business | 370875 | [370875-devil-may-cry-5-monkey-business.json](./370875-devil-may-cry-5-monkey-business.json) |
 | Devil May Cry 5: Playable Character - Vergil | 169336 | [169336-devil-may-cry-5-playable-character-vergil.json](./169336-devil-may-cry-5-playable-character-vergil.json) |
@@ -11343,6 +11346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dollshouse | 381939 | [381939-dollshouse.json](./381939-dollshouse.json) |
 | Dolly | 133894 | [133894-dolly.json](./133894-dolly.json) |
 | Dolly Wars: Auto Tactics | 224829 | [224829-dolly-wars-auto-tactics.json](./224829-dolly-wars-auto-tactics.json) |
+| Dollyban | 422167 | [422167-dollyban.json](./422167-dollyban.json) |
 | Dolmen | 40102 | [40102-dolmen.json](./40102-dolmen.json) |
 | Dolmen | 75304 | [75304-dolmen.json](./75304-dolmen.json) |
 | Dolmen: Day One Edition | 191499 | [191499-dolmen-day-one-edition.json](./191499-dolmen-day-one-edition.json) |
@@ -15829,6 +15833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droids: The White Witch | 255557 | [255557-droids-the-white-witch.json](./255557-droids-the-white-witch.json) |
 | Droidscape: Basilica | 257259 | [257259-droidscape-basilica.json](./257259-droidscape-basilica.json) |
 | Droidz | 14041 | [14041-droidz.json](./14041-droidz.json) |
+| Droite 1968 | 421559 | [421559-droite-1968.json](./421559-droite-1968.json) |
 | Droiyan | 146529 | [146529-droiyan.json](./146529-droiyan.json) |
 | Droiyan 2: Absolute Monarch | 146531 | [146531-droiyan-2-absolute-monarch.json](./146531-droiyan-2-absolute-monarch.json) |
 | Droiyan Next | 146530 | [146530-droiyan-next.json](./146530-droiyan-next.json) |
@@ -16032,6 +16037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drowning, Drowning | 144234 | [144234-drowning-drowning.json](./144234-drowning-drowning.json) |
 | Drownlight | 338324 | [338324-drownlight.json](./338324-drownlight.json) |
 | Drownload | 376036 | [376036-drownload.json](./376036-drownload.json) |
+| Drowse | 422185 | [422185-drowse.json](./422185-drowse.json) |
 | Drox Operative | 8753 | [8753-drox-operative.json](./8753-drox-operative.json) |
 | Drox Operative 2 | 134503 | [134503-drox-operative-2.json](./134503-drox-operative-2.json) |
 | Drox Operative: Invasion of the Ancients | 8754 | [8754-drox-operative-invasion-of-the-ancients.json](./8754-drox-operative-invasion-of-the-ancients.json) |
