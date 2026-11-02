@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lapso: Nimbo | 135793 | [135793-lapso-nimbo.json](./135793-lapso-nimbo.json) |
 | Laptick | 56741 | [56741-laptick.json](./56741-laptick.json) |
 | Laptick 2 | 56742 | [56742-laptick-2.json](./56742-laptick-2.json) |
+| Laptop Architect | 406482 | [406482-laptop-architect.json](./406482-laptop-architect.json) |
 | Laptop Tycoon | 186603 | [186603-laptop-tycoon.json](./186603-laptop-tycoon.json) |
 | Lapya | 118593 | [118593-lapya.json](./118593-lapya.json) |
 | Lar | 281336 | [281336-lar.json](./281336-lar.json) |
@@ -4881,6 +4882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limberjack | 32123 | [32123-limberjack.json](./32123-limberjack.json) |
 | Limbo | 395367 | [395367-limbo.json](./395367-limbo.json) |
 | Limbo 64 | 109488 | [109488-limbo-64.json](./109488-limbo-64.json) |
+| Limbo Break | 406443 | [406443-limbo-break.json](./406443-limbo-break.json) |
 | Limbo Disco | 256952 | [256952-limbo-disco.json](./256952-limbo-disco.json) |
 | Limbo Line | 215223 | [215223-limbo-line.json](./215223-limbo-line.json) |
 | Limbo of the Lost | 50390 | [50390-limbo-of-the-lost.json](./50390-limbo-of-the-lost.json) |
@@ -4924,6 +4926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Doom | 252724 | [252724-liminal-doom.json](./252724-liminal-doom.json) |
 | Liminal Doom 2 | 301972 | [301972-liminal-doom-2.json](./301972-liminal-doom-2.json) |
 | Liminal Dreams | 234851 | [234851-liminal-dreams.json](./234851-liminal-dreams.json) |
+| Liminal Escape | 407060 | [407060-liminal-escape.json](./407060-liminal-escape.json) |
 | Liminal Exploration | 177807 | [177807-liminal-exploration.json](./177807-liminal-exploration.json) |
 | Liminal Explorer | 407805 | [407805-liminal-explorer.json](./407805-liminal-explorer.json) |
 | Liminal Gallery | 274214 | [274214-liminal-gallery.json](./274214-liminal-gallery.json) |
@@ -5205,6 +5208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link: The Unleashed Nexus - Restructured Heaven | 151756 | [151756-link-the-unleashed-nexus-restructured-heaven.json](./151756-link-the-unleashed-nexus-restructured-heaven.json) |
 | Link! Like! Love Live! | 245241 | [245241-link-like-love-live.json](./245241-link-like-love-live.json) |
 | Link's Crossbow Training | 4973 | [4973-links-crossbow-training.json](./4973-links-crossbow-training.json) |
+| Link's Quest for the Hookshot 2: Quest | 406464 | [406464-links-quest-for-the-hookshot-2-quest.json](./406464-links-quest-for-the-hookshot-2-quest.json) |
 | Linked | 29395 | [29395-linked.json](./29395-linked.json) |
 | Linked | 322034 | [322034-linked.json](./322034-linked.json) |
 | Linked Mask | 120386 | [120386-linked-mask.json](./120386-linked-mask.json) |
@@ -6475,6 +6479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi Kitten | 266305 | [266305-lofi-kitten.json](./266305-lofi-kitten.json) |
 | Lofi Milk Delivery | 245921 | [245921-lofi-milk-delivery.json](./245921-lofi-milk-delivery.json) |
 | Lofi Ping Pong | 116187 | [116187-lofi-ping-pong.json](./116187-lofi-ping-pong.json) |
+| Lofi Witch Hatch | 407096 | [407096-lofi-witch-hatch.json](./407096-lofi-witch-hatch.json) |
 | Lofi Witch Hatch: Deluxe Edition | 409972 | [409972-lofi-witch-hatch-deluxe-edition.json](./409972-lofi-witch-hatch-deluxe-edition.json) |
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
 | Loft is in the air | 315798 | [315798-loft-is-in-the-air.json](./315798-loft-is-in-the-air.json) |
