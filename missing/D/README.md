@@ -1989,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Dungeon: Ancestral Edition | 52836 | [52836-darkest-dungeon-ancestral-edition.json](./52836-darkest-dungeon-ancestral-edition.json) |
 | Darkest Dungeon: Collector's Edition | 136203 | [136203-darkest-dungeon-collectors-edition.json](./136203-darkest-dungeon-collectors-edition.json) |
 | Darkest Dungeon: Crimson Edition | 91323 | [91323-darkest-dungeon-crimson-edition.json](./91323-darkest-dungeon-crimson-edition.json) |
+| Darkest Dungeon: Tablet Edition | 88956 | [88956-darkest-dungeon-tablet-edition.json](./88956-darkest-dungeon-tablet-edition.json) |
 | Darkest Dungeon: The Butcher's Circus | 172134 | [172134-darkest-dungeon-the-butchers-circus.json](./172134-darkest-dungeon-the-butchers-circus.json) |
 | Darkest Dungeon: The Color of Madness | 76740 | [76740-darkest-dungeon-the-color-of-madness.json](./76740-darkest-dungeon-the-color-of-madness.json) |
 | Darkest Dungeon: The Crimson Court | 25651 | [25651-darkest-dungeon-the-crimson-court.json](./25651-darkest-dungeon-the-crimson-court.json) |
@@ -4731,6 +4732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckbuilder Fantasy: Elvenglade | 292767 | [292767-deckbuilder-fantasy-elvenglade.json](./292767-deckbuilder-fantasy-elvenglade.json) |
 | DeckBuilder Village | 211703 | [211703-deckbuilder-village.json](./211703-deckbuilder-village.json) |
 | Deckception | 317308 | [317308-deckception.json](./317308-deckception.json) |
+| Decked Builder HD | 89002 | [89002-decked-builder-hd.json](./89002-decked-builder-hd.json) |
 | Decked in Love | 296886 | [296886-decked-in-love.json](./296886-decked-in-love.json) |
 | DeckEleven's Railroads | 87687 | [87687-deckelevens-railroads.json](./87687-deckelevens-railroads.json) |
 | DeckEleven's Railroads 2 | 244898 | [244898-deckelevens-railroads-2.json](./244898-deckelevens-railroads-2.json) |
@@ -5250,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend It! | 293577 | [293577-defend-it.json](./293577-defend-it.json) |
 | Defend London | 104722 | [104722-defend-london.json](./104722-defend-london.json) |
 | Defend or Die | 12991 | [12991-defend-or-die.json](./12991-defend-or-die.json) |
+| Defend Pizzeria Craft Shop | 88978 | [88978-defend-pizzeria-craft-shop.json](./88978-defend-pizzeria-craft-shop.json) |
 | Defend the Bits TD | 203957 | [203957-defend-the-bits-td.json](./203957-defend-the-bits-td.json) |
 | Defend the Cake | 55471 | [55471-defend-the-cake.json](./55471-defend-the-cake.json) |
 | Defend the Cake Tower Defense | 175173 | [175173-defend-the-cake-tower-defense.json](./175173-defend-the-cake-tower-defense.json) |
@@ -8073,6 +8076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice vs Dice | 173269 | [173269-dice-vs-dice.json](./173269-dice-vs-dice.json) |
 | Dice vs. Monsters | 184619 | [184619-dice-vs-monsters.json](./184619-dice-vs-monsters.json) |
 | Dice Wars | 219918 | [219918-dice-wars.json](./219918-dice-wars.json) |
+| Dice With Buddies | 89010 | [89010-dice-with-buddies.json](./89010-dice-with-buddies.json) |
 | Dice With Death | 328406 | [328406-dice-with-death.json](./328406-dice-with-death.json) |
 | Dice with the Devil: Rerolled | 333015 | [333015-dice-with-the-devil-rerolled.json](./333015-dice-with-the-devil-rerolled.json) |
 | Dice World | 250832 | [250832-dice-world.json](./250832-dice-world.json) |
@@ -9076,6 +9080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Fossil Hunter | 102176 | [102176-dinosaur-fossil-hunter.json](./102176-dinosaur-fossil-hunter.json) |
 | Dinosaur Fossil Puzzles | 163168 | [163168-dinosaur-fossil-puzzles.json](./163168-dinosaur-fossil-puzzles.json) |
 | Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
+| Dinosaur Games: Puzzle for Kids & Toddlers | 88936 | [88936-dinosaur-games-puzzle-for-kids-and-toddlers.json](./88936-dinosaur-games-puzzle-for-kids-and-toddlers.json) |
 | Dinosaur Hunt | 34491 | [34491-dinosaur-hunt.json](./34491-dinosaur-hunt.json) |
 | Dinosaur Hunt First Blood | 51975 | [51975-dinosaur-hunt-first-blood.json](./51975-dinosaur-hunt-first-blood.json) |
 | Dinosaur Hunt Puzzle | 103645 | [103645-dinosaur-hunt-puzzle.json](./103645-dinosaur-hunt-puzzle.json) |
@@ -16351,6 +16356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Life 5: Treasure Hunt | 102038 | [102038-duck-life-5-treasure-hunt.json](./102038-duck-life-5-treasure-hunt.json) |
 | Duck Life 9: The Flock | 253309 | [253309-duck-life-9-the-flock.json](./253309-duck-life-9-the-flock.json) |
 | Duck Life Adventure | 140883 | [140883-duck-life-adventure.json](./140883-duck-life-adventure.json) |
+| Duck Life: Retro Pack | 88969 | [88969-duck-life-retro-pack.json](./88969-duck-life-retro-pack.json) |
 | Duck Life: Space | 29177 | [29177-duck-life-space.json](./29177-duck-life-space.json) |
 | Duck Man | 137848 | [137848-duck-man.json](./137848-duck-man.json) |
 | Duck Maze | 378193 | [378193-duck-maze.json](./378193-duck-maze.json) |
