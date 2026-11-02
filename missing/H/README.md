@@ -2612,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Zombie Slaughter 2 | 268327 | [268327-haunted-zombie-slaughter-2.json](./268327-haunted-zombie-slaughter-2.json) |
 | Haunted: Attack of the Dead Men | 219813 | [219813-haunted-attack-of-the-dead-men.json](./219813-haunted-attack-of-the-dead-men.json) |
 | Haunted: Dungeons of Herwood | 114748 | [114748-haunted-dungeons-of-herwood.json](./114748-haunted-dungeons-of-herwood.json) |
+| Haunted: Escape the Dollhouse | 422779 | [422779-haunted-escape-the-dollhouse.json](./422779-haunted-escape-the-dollhouse.json) |
 | Haunted: Halloween '86 - The Curse of Possum Hollow | 29156 | [29156-haunted-halloween-86-the-curse-of-possum-hollow.json](./29156-haunted-halloween-86-the-curse-of-possum-hollow.json) |
 | Haunted: Live | 220868 | [220868-haunted-live.json](./220868-haunted-live.json) |
 | Haunted: Poppy's Nightmare | 126186 | [126186-haunted-poppys-nightmare.json](./126186-haunted-poppys-nightmare.json) |
@@ -9862,6 +9863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Squat 2: New Glory | 122377 | [122377-hot-squat-2-new-glory.json](./122377-hot-squat-2-new-glory.json) |
 | Hot Steam | 231300 | [231300-hot-steam.json](./231300-hot-steam.json) |
 | Hot Summer | 153063 | [153063-hot-summer.json](./153063-hot-summer.json) |
+| Hot Summer Sylvie | 422815 | [422815-hot-summer-sylvie.json](./422815-hot-summer-sylvie.json) |
 | Hot Tentacles Shooter | 197528 | [197528-hot-tentacles-shooter.json](./197528-hot-tentacles-shooter.json) |
 | Hot Therapy | 243557 | [243557-hot-therapy.json](./243557-hot-therapy.json) |
 | Hot Throttle | 124467 | [124467-hot-throttle.json](./124467-hot-throttle.json) |
