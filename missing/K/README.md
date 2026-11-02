@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Panic | 13190 | [13190-kaiju-panic.json](./13190-kaiju-panic.json) |
 | Kaiju Princess | 229286 | [229286-kaiju-princess.json](./229286-kaiju-princess.json) |
 | Kaiju Princess 2 | 256650 | [256650-kaiju-princess-2.json](./256650-kaiju-princess-2.json) |
+| Kaiju Princess: Super Survivor Showdown | 407724 | [407724-kaiju-princess-super-survivor-showdown.json](./407724-kaiju-princess-super-survivor-showdown.json) |
 | Kaiju Rush | 297524 | [297524-kaiju-rush.json](./297524-kaiju-rush.json) |
 | Kaiju Wars | 171757 | [171757-kaiju-wars.json](./171757-kaiju-wars.json) |
 | Kaiju Wars + Legend of Keepers: Monsters & Demons Bundle | 287111 | [287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json](./287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json) |
@@ -2437,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Santa | 128350 | [128350-kill-the-santa.json](./128350-kill-the-santa.json) |
 | Kill The Shadow | 276201 | [276201-kill-the-shadow.json](./276201-kill-the-shadow.json) |
 | Kill the Sun | 364236 | [364236-kill-the-sun.json](./364236-kill-the-sun.json) |
+| Kill the Super Duper Big Monster | 407737 | [407737-kill-the-super-duper-big-monster.json](./407737-kill-the-super-duper-big-monster.json) |
 | Kill the Thing | 420518 | [420518-kill-the-thing.json](./420518-kill-the-thing.json) |
 | Kill The Topulus | 265836 | [265836-kill-the-topulus.json](./265836-kill-the-topulus.json) |
 | Kill the Twister | 339679 | [339679-kill-the-twister.json](./339679-kill-the-twister.json) |
