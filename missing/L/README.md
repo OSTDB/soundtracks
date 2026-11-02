@@ -1793,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layerworld | 189018 | [189018-layerworld.json](./189018-layerworld.json) |
 | Layla | 19112 | [19112-layla.json](./19112-layla.json) |
 | Layla: The Iris Missions | 239599 | [239599-layla-the-iris-missions.json](./239599-layla-the-iris-missions.json) |
+| Laylines | 422778 | [422778-laylines.json](./422778-laylines.json) |
 | Layover Lovers | 270204 | [270204-layover-lovers.json](./270204-layover-lovers.json) |
 | Laypo Simulator | 188895 | [188895-laypo-simulator.json](./188895-laypo-simulator.json) |
 | Laysara: Summit Kingdom | 186083 | [186083-laysara-summit-kingdom.json](./186083-laysara-summit-kingdom.json) |
@@ -4355,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifing | 167362 | [167362-lifing.json](./167362-lifing.json) |
 | Lifo | 185615 | [185615-lifo.json](./185615-lifo.json) |
 | Lifo Harvester | 55237 | [55237-lifo-harvester.json](./55237-lifo-harvester.json) |
+| Lift | 422790 | [422790-lift.json](./422790-lift.json) |
 | Lift Up | 397072 | [397072-lift-up.json](./397072-lift-up.json) |
 | Lift Your Spirits | 225797 | [225797-lift-your-spirits.json](./225797-lift-your-spirits.json) |
 | Lift: The Last Days of The Westwind | 291904 | [291904-lift-the-last-days-of-the-westwind.json](./291904-lift-the-last-days-of-the-westwind.json) |
@@ -8335,6 +8337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Yourself | 268343 | [268343-love-yourself.json](./268343-love-yourself.json) |
 | Love Zombie | 91652 | [91652-love-zombie.json](./91652-love-zombie.json) |
 | Love-Colored Memories | 412974 | [412974-love-colored-memories.json](./412974-love-colored-memories.json) |
+| Love, Aisle & Murder | 422838 | [422838-love-aisle-and-murder.json](./422838-love-aisle-and-murder.json) |
 | Love, Death & Mummies: Zombie Romance Visual Novel | 303322 | [303322-love-death-and-mummies-zombie-romance-visual-novel.json](./303322-love-death-and-mummies-zombie-romance-visual-novel.json) |
 | Love, Death & My Daughter | 427265 | [427265-love-death-and-my-daughter.json](./427265-love-death-and-my-daughter.json) |
 | Love, Death & Veggies | 186479 | [186479-love-death-and-veggies.json](./186479-love-death-and-veggies.json) |
@@ -8890,6 +8893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lug's Tiny Torture | 300268 | [300268-lugs-tiny-torture.json](./300268-lugs-tiny-torture.json) |
 | Lug's Tiny Torture Lite | 300269 | [300269-lugs-tiny-torture-lite.json](./300269-lugs-tiny-torture-lite.json) |
 | LuGame: Lunchtime Games Club! | 116983 | [116983-lugame-lunchtime-games-club.json](./116983-lugame-lunchtime-games-club.json) |
+| Lugano Bay Tycoon | 422780 | [422780-lugano-bay-tycoon.json](./422780-lugano-bay-tycoon.json) |
 | Lugaru | 14940 | [14940-lugaru.json](./14940-lugaru.json) |
 | Lugaru HD | 180628 | [180628-lugaru-hd.json](./180628-lugaru-hd.json) |
 | Luge Crush 2018 | 87201 | [87201-luge-crush-2018.json](./87201-luge-crush-2018.json) |
