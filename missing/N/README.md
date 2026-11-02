@@ -1764,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Underground 2 | 242997 | [242997-need-for-speed-underground-2.json](./242997-need-for-speed-underground-2.json) |
 | Need for Speed: Underground Rivals | 22509 | [22509-need-for-speed-underground-rivals.json](./22509-need-for-speed-underground-rivals.json) |
 | Need for Speed: V-Rally | 72073 | [72073-need-for-speed-v-rally.json](./72073-need-for-speed-v-rally.json) |
+| Need for Spirit: Drink & Drive Simulator | 107819 | [107819-need-for-spirit-drink-and-drive-simulator.json](./107819-need-for-spirit-drink-and-drive-simulator.json) |
 | Need Know What Know | 405970 | [405970-need-know-what-know.json](./405970-need-know-what-know.json) |
 | Need More Troops | 165680 | [165680-need-more-troops.json](./165680-need-more-troops.json) |
 | Need to Know | 18234 | [18234-need-to-know.json](./18234-need-to-know.json) |
@@ -4061,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of Terror | 28434 | [28434-night-of-terror.json](./28434-night-of-terror.json) |
 | Night of The Abattoir Man | 311146 | [311146-night-of-the-abattoir-man.json](./311146-night-of-the-abattoir-man.json) |
 | Night of the Basilisk | 381338 | [381338-night-of-the-basilisk.json](./381338-night-of-the-basilisk.json) |
+| Night of the Blood Moon | 107926 | [107926-night-of-the-blood-moon.json](./107926-night-of-the-blood-moon.json) |
 | Night of the Dead | 138639 | [138639-night-of-the-dead.json](./138639-night-of-the-dead.json) |
 | Night of the Dead Simulator | 315915 | [315915-night-of-the-dead-simulator.json](./315915-night-of-the-dead-simulator.json) |
 | Night of the Dead: Beginner Pack | 293407 | [293407-night-of-the-dead-beginner-pack.json](./293407-night-of-the-dead-beginner-pack.json) |
