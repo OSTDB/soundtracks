@@ -12100,6 +12100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Quest HD | 129598 | [129598-arcane-quest-hd.json](./129598-arcane-quest-hd.json) |
 | Arcane Quest Legends | 129600 | [129600-arcane-quest-legends.json](./129600-arcane-quest-legends.json) |
 | Arcane Raiders | 337967 | [337967-arcane-raiders.json](./337967-arcane-raiders.json) |
+| Arcane Raise | 29257 | [29257-arcane-raise.json](./29257-arcane-raise.json) |
 | Arcane Raise: Deluxe Edition | 52595 | [52595-arcane-raise-deluxe-edition.json](./52595-arcane-raise-deluxe-edition.json) |
 | Arcane Re-Raise | 29258 | [29258-arcane-re-raise.json](./29258-arcane-re-raise.json) |
 | Arcane ReRaise: Deluxe Edition | 52594 | [52594-arcane-reraise-deluxe-edition.json](./52594-arcane-reraise-deluxe-edition.json) |
@@ -14392,6 +14393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassins Arena | 348897 | [348897-assassins-arena.json](./348897-assassins-arena.json) |
 | Assassins of Darkness | 244596 | [244596-assassins-of-darkness.json](./244596-assassins-of-darkness.json) |
 | Assassins Unleashed: The Apocalypse | 296492 | [296492-assassins-unleashed-the-apocalypse.json](./296492-assassins-unleashed-the-apocalypse.json) |
+| Assassins vs Pirates | 19176 | [19176-assassins-vs-pirates.json](./19176-assassins-vs-pirates.json) |
 | Assassinvisible | 378604 | [378604-assassinvisible.json](./378604-assassinvisible.json) |
 | Assau!t | 168221 | [168221-assau-t.json](./168221-assau-t.json) |
 | Assault | 39985 | [39985-assault.json](./39985-assault.json) |
