@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-02T12:18:32.284Z",
-  "total_missing": 298000,
+  "generated_at": "2026-11-02T12:33:46.577Z",
+  "total_missing": 298050,
   "games": [
     {
       "igdb_id": 191680,
@@ -73982,6 +73982,11 @@
       "file": "missing/A/398191-arcade-archives-2-polaris.json"
     },
     {
+      "igdb_id": 426412,
+      "game_name": "Arcade Archives 2: Prehistoric Isle",
+      "file": "missing/A/426412-arcade-archives-2-prehistoric-isle.json"
+    },
+    {
       "igdb_id": 406053,
       "game_name": "Arcade Archives 2: Rack'em Up",
       "file": "missing/A/406053-arcade-archives-2-rackem-up.json"
@@ -74015,6 +74020,11 @@
       "igdb_id": 399297,
       "game_name": "Arcade Archives 2: Street Smart",
       "file": "missing/A/399297-arcade-archives-2-street-smart.json"
+    },
+    {
+      "igdb_id": 426458,
+      "game_name": "Arcade Archives 2: Swimmer",
+      "file": "missing/A/426458-arcade-archives-2-swimmer.json"
     },
     {
       "igdb_id": 410363,
@@ -244637,6 +244647,11 @@
       "file": "missing/C/127737-coloniam.json"
     },
     {
+      "igdb_id": 426419,
+      "game_name": "Coloniam",
+      "file": "missing/C/426419-coloniam.json"
+    },
+    {
       "igdb_id": 118353,
       "game_name": "Colonies",
       "file": "missing/C/118353-colonies.json"
@@ -364412,6 +364427,11 @@
       "file": "missing/D/161412-drift-mania.json"
     },
     {
+      "igdb_id": 426421,
+      "game_name": "Drift Mania",
+      "file": "missing/D/426421-drift-mania.json"
+    },
+    {
       "igdb_id": 88226,
       "game_name": "Drift Mania Championship",
       "file": "missing/D/88226-drift-mania-championship.json"
@@ -368700,6 +368720,11 @@
       "igdb_id": 330644,
       "game_name": "Duck Duck Adventure",
       "file": "missing/D/330644-duck-duck-adventure.json"
+    },
+    {
+      "igdb_id": 426428,
+      "game_name": "Duck Duck Gone",
+      "file": "missing/D/426428-duck-duck-gone.json"
     },
     {
       "igdb_id": 133037,
@@ -386190,6 +386215,11 @@
       "igdb_id": 176470,
       "game_name": "Eigenstate",
       "file": "missing/E/176470-eigenstate.json"
+    },
+    {
+      "igdb_id": 426437,
+      "game_name": "Eigenstate",
+      "file": "missing/E/426437-eigenstate.json"
     },
     {
       "igdb_id": 163756,
@@ -433512,6 +433542,11 @@
       "file": "missing/F/409636-fatimopolis.json"
     },
     {
+      "igdb_id": 426450,
+      "game_name": "Fatina",
+      "file": "missing/F/426450-fatina.json"
+    },
+    {
       "igdb_id": 250229,
       "game_name": "Fatman Adventures",
       "file": "missing/F/250229-fatman-adventures.json"
@@ -448005,6 +448040,11 @@
       "igdb_id": 337220,
       "game_name": "Fish World",
       "file": "missing/F/337220-fish-world.json"
+    },
+    {
+      "igdb_id": 426423,
+      "game_name": "Fish World",
+      "file": "missing/F/426423-fish-world.json"
     },
     {
       "igdb_id": 333511,
@@ -501787,6 +501827,11 @@
       "file": "missing/G/174212-ghost-racer.json"
     },
     {
+      "igdb_id": 426440,
+      "game_name": "Ghost Racer",
+      "file": "missing/G/426440-ghost-racer.json"
+    },
+    {
       "igdb_id": 130324,
       "game_name": "Ghost Racing: Formula E",
       "file": "missing/G/130324-ghost-racing-formula-e.json"
@@ -521645,6 +521690,11 @@
       "igdb_id": 257900,
       "game_name": "Grandpa's House",
       "file": "missing/G/257900-grandpas-house.json"
+    },
+    {
+      "igdb_id": 426416,
+      "game_name": "Grandpa's House",
+      "file": "missing/G/426416-grandpas-house.json"
     },
     {
       "igdb_id": 68925,
@@ -624807,6 +624857,11 @@
       "file": "missing/I/402498-ironblood.json"
     },
     {
+      "igdb_id": 426433,
+      "game_name": "Ironblood",
+      "file": "missing/I/426433-ironblood.json"
+    },
+    {
       "igdb_id": 109585,
       "game_name": "IronBorn",
       "file": "missing/I/109585-ironborn.json"
@@ -649165,6 +649220,11 @@
       "igdb_id": 307698,
       "game_name": "Just Passing Chapter 2",
       "file": "missing/J/307698-just-passing-chapter-2.json"
+    },
+    {
+      "igdb_id": 426447,
+      "game_name": "Just Pickin' Apples",
+      "file": "missing/J/426447-just-pickin-apples.json"
     },
     {
       "igdb_id": 309183,
@@ -676540,6 +676600,11 @@
       "igdb_id": 388367,
       "game_name": "Kowalski",
       "file": "missing/K/388367-kowalski.json"
+    },
+    {
+      "igdb_id": 426427,
+      "game_name": "Kowareta",
+      "file": "missing/K/426427-kowareta.json"
     },
     {
       "igdb_id": 285870,
@@ -725835,6 +725900,11 @@
       "igdb_id": 14303,
       "game_name": "Lumo's Cat",
       "file": "missing/L/14303-lumos-cat.json"
+    },
+    {
+      "igdb_id": 426456,
+      "game_name": "LumoraVR",
+      "file": "missing/L/426456-lumoravr.json"
     },
     {
       "igdb_id": 295613,
@@ -785017,6 +785087,11 @@
       "file": "missing/M/111408-mine-royale-battle-royale.json"
     },
     {
+      "igdb_id": 426417,
+      "game_name": "Mine Runner",
+      "file": "missing/M/426417-mine-runner.json"
+    },
+    {
       "igdb_id": 347472,
       "game_name": "Mine Safety",
       "file": "missing/M/347472-mine-safety.json"
@@ -818567,6 +818642,11 @@
       "file": "missing/M/143924-murk.json"
     },
     {
+      "igdb_id": 426420,
+      "game_name": "Murk",
+      "file": "missing/M/426420-murk.json"
+    },
+    {
       "igdb_id": 65490,
       "game_name": "Murkon's Refuge",
       "file": "missing/M/65490-murkons-refuge.json"
@@ -839652,6 +839732,11 @@
       "file": "missing/N/208427-necrocrisis.json"
     },
     {
+      "igdb_id": 426418,
+      "game_name": "Necrocyte",
+      "file": "missing/N/426418-necrocyte.json"
+    },
+    {
       "igdb_id": 8694,
       "game_name": "Necrodome",
       "file": "missing/N/8694-necrodome.json"
@@ -840080,6 +840165,11 @@
       "igdb_id": 129691,
       "game_name": "Necrowarp",
       "file": "missing/N/129691-necrowarp.json"
+    },
+    {
+      "igdb_id": 426430,
+      "game_name": "Necrowarp",
+      "file": "missing/N/426430-necrowarp.json"
     },
     {
       "igdb_id": 211013,
@@ -861107,6 +861197,11 @@
       "file": "missing/N/409759-noctiria.json"
     },
     {
+      "igdb_id": 426429,
+      "game_name": "Noctis",
+      "file": "missing/N/426429-noctis.json"
+    },
+    {
       "igdb_id": 94528,
       "game_name": "Noctis",
       "file": "missing/N/94528-noctis.json"
@@ -866935,6 +867030,11 @@
       "igdb_id": 374582,
       "game_name": "Null Transit",
       "file": "missing/N/374582-null-transit.json"
+    },
+    {
+      "igdb_id": 426424,
+      "game_name": "Null Vector",
+      "file": "missing/N/426424-null-vector.json"
     },
     {
       "igdb_id": 55710,
@@ -879642,6 +879742,11 @@
       "file": "missing/O/197239-one-life.json"
     },
     {
+      "igdb_id": 426413,
+      "game_name": "One Life",
+      "file": "missing/O/426413-one-life.json"
+    },
+    {
       "igdb_id": 261153,
       "game_name": "One Life Clicker",
       "file": "missing/O/261153-one-life-clicker.json"
@@ -880060,6 +880165,11 @@
       "igdb_id": 244135,
       "game_name": "One More Try",
       "file": "missing/O/244135-one-more-try.json"
+    },
+    {
+      "igdb_id": 426432,
+      "game_name": "One More Try",
+      "file": "missing/O/426432-one-more-try.json"
     },
     {
       "igdb_id": 389594,
@@ -904727,6 +904837,11 @@
       "file": "missing/P/142561-paper-trail.json"
     },
     {
+      "igdb_id": 426435,
+      "game_name": "Paper Trail",
+      "file": "missing/P/426435-paper-trail.json"
+    },
+    {
       "igdb_id": 196964,
       "game_name": "Paper Trails",
       "file": "missing/P/196964-paper-trails.json"
@@ -919105,6 +919220,11 @@
       "igdb_id": 178855,
       "game_name": "Pest Quest",
       "file": "missing/P/178855-pest-quest.json"
+    },
+    {
+      "igdb_id": 426439,
+      "game_name": "Pest Quest",
+      "file": "missing/P/426439-pest-quest.json"
     },
     {
       "igdb_id": 396672,
@@ -944510,6 +944630,11 @@
       "igdb_id": 384242,
       "game_name": "Pneuma",
       "file": "missing/P/384242-pneuma.json"
+    },
+    {
+      "igdb_id": 426436,
+      "game_name": "Pneuma",
+      "file": "missing/P/426436-pneuma.json"
     },
     {
       "igdb_id": 9178,
@@ -971557,6 +971682,11 @@
       "file": "missing/P/123875-project-oasis.json"
     },
     {
+      "igdb_id": 426425,
+      "game_name": "Project Oasis",
+      "file": "missing/P/426425-project-oasis.json"
+    },
+    {
       "igdb_id": 105063,
       "game_name": "Project Oasis World",
       "file": "missing/P/105063-project-oasis-world.json"
@@ -991175,6 +991305,11 @@
       "igdb_id": 299805,
       "game_name": "Qusha",
       "file": "missing/Q/299805-qusha.json"
+    },
+    {
+      "igdb_id": 426460,
+      "game_name": "QUTAS67: Qubic Ultimate Tap Adventure Simulator 2067",
+      "file": "missing/Q/426460-qutas67-qubic-ultimate-tap-adventure-simulator-2067.json"
     },
     {
       "igdb_id": 25793,
@@ -1018897,6 +1019032,11 @@
       "file": "missing/R/344416-restorart-horizon-bay-collectors-edition.json"
     },
     {
+      "igdb_id": 426414,
+      "game_name": "Restoration",
+      "file": "missing/R/426414-restoration.json"
+    },
+    {
       "igdb_id": 55356,
       "game_name": "Restoration",
       "file": "missing/R/55356-restoration.json"
@@ -1029610,6 +1029750,11 @@
       "igdb_id": 28743,
       "game_name": "Rite of Passage: Child of the Forest - Collector's Edition",
       "file": "missing/R/28743-rite-of-passage-child-of-the-forest-collectors-edition.json"
+    },
+    {
+      "igdb_id": 426411,
+      "game_name": "Rite of Passage: Deck of Fates - Collector's Edition",
+      "file": "missing/R/426411-rite-of-passage-deck-of-fates-collectors-edition.json"
     },
     {
       "igdb_id": 104117,
@@ -1044397,6 +1044542,11 @@
       "file": "missing/R/101542-rotten-escape.json"
     },
     {
+      "igdb_id": 426453,
+      "game_name": "Rotten Machines",
+      "file": "missing/R/426453-rotten-machines.json"
+    },
+    {
       "igdb_id": 392181,
       "game_name": "Rotten Stigma",
       "file": "missing/R/392181-rotten-stigma.json"
@@ -1055540,6 +1055690,11 @@
       "igdb_id": 74311,
       "game_name": "Saga of the Nine Worlds: The Gathering",
       "file": "missing/S/74311-saga-of-the-nine-worlds-the-gathering.json"
+    },
+    {
+      "igdb_id": 426431,
+      "game_name": "Saga of the Nine Worlds: The Gathering - Collector's Edition",
+      "file": "missing/S/426431-saga-of-the-nine-worlds-the-gathering-collectors-edition.json"
     },
     {
       "igdb_id": 30630,
@@ -1074935,6 +1075090,11 @@
       "igdb_id": 312914,
       "game_name": "Secrets of the Dark: Temple of Night",
       "file": "missing/S/312914-secrets-of-the-dark-temple-of-night.json"
+    },
+    {
+      "igdb_id": 426442,
+      "game_name": "Secrets of the Dark: The Dark Flower of Shadow - Collector's Edition",
+      "file": "missing/S/426442-secrets-of-the-dark-the-dark-flower-of-shadow-collectors-edition.json"
     },
     {
       "igdb_id": 103992,
@@ -1103352,6 +1103512,11 @@
       "file": "missing/S/291246-silverwood-bay-an-eleanor-grey-mystery.json"
     },
     {
+      "igdb_id": 426443,
+      "game_name": "Silverwood Bay: An Eleanor Grey Mystery - Collector's Edition",
+      "file": "missing/S/426443-silverwood-bay-an-eleanor-grey-mystery-collectors-edition.json"
+    },
+    {
       "igdb_id": 98770,
       "game_name": "Silverworld",
       "file": "missing/S/98770-silverworld.json"
@@ -1115935,6 +1116100,11 @@
       "igdb_id": 55694,
       "game_name": "SLI-FI: 2D Planet Platformer",
       "file": "missing/S/55694-sli-fi-2d-planet-platformer.json"
+    },
+    {
+      "igdb_id": 426422,
+      "game_name": "Slice",
+      "file": "missing/S/426422-slice.json"
     },
     {
       "igdb_id": 98705,
@@ -1149032,6 +1149202,11 @@
       "file": "missing/S/211606-spaceteam-the-second-dimension.json"
     },
     {
+      "igdb_id": 426454,
+      "game_name": "Spacetime Chronicles",
+      "file": "missing/S/426454-spacetime-chronicles.json"
+    },
+    {
       "igdb_id": 180964,
       "game_name": "Spacetime Odissey",
       "file": "missing/S/180964-spacetime-odissey.json"
@@ -1156337,6 +1156512,11 @@
       "file": "missing/S/122013-spirit-of-midnight.json"
     },
     {
+      "igdb_id": 426444,
+      "game_name": "Spirit of Revenge: A Test of Fire - Collector's Edition",
+      "file": "missing/S/426444-spirit-of-revenge-a-test-of-fire-collectors-edition.json"
+    },
+    {
       "igdb_id": 140226,
       "game_name": "Spirit of Revenge: Cursed Castle",
       "file": "missing/S/140226-spirit-of-revenge-cursed-castle.json"
@@ -1156345,6 +1156525,26 @@
       "igdb_id": 30675,
       "game_name": "Spirit of Revenge: Cursed Castle - Collector's Edition",
       "file": "missing/S/30675-spirit-of-revenge-cursed-castle-collectors-edition.json"
+    },
+    {
+      "igdb_id": 426445,
+      "game_name": "Spirit of Revenge: Elizabeth's Secret",
+      "file": "missing/S/426445-spirit-of-revenge-elizabeths-secret.json"
+    },
+    {
+      "igdb_id": 426446,
+      "game_name": "Spirit of Revenge: Elizabeth's Secret - Collector's Edition",
+      "file": "missing/S/426446-spirit-of-revenge-elizabeths-secret-collectors-edition.json"
+    },
+    {
+      "igdb_id": 426449,
+      "game_name": "Spirit of Revenge: Florry's Well",
+      "file": "missing/S/426449-spirit-of-revenge-florrys-well.json"
+    },
+    {
+      "igdb_id": 426448,
+      "game_name": "Spirit of Revenge: Florry's Well - Collector's Edition",
+      "file": "missing/S/426448-spirit-of-revenge-florrys-well-collectors-edition.json"
     },
     {
       "igdb_id": 53652,
@@ -1156770,6 +1156970,11 @@
       "igdb_id": 102790,
       "game_name": "Spirits of Mystery: Family Lies",
       "file": "missing/S/102790-spirits-of-mystery-family-lies.json"
+    },
+    {
+      "igdb_id": 426451,
+      "game_name": "Spirits of Mystery: Family Lies - Collector's Edition",
+      "file": "missing/S/426451-spirits-of-mystery-family-lies-collectors-edition.json"
     },
     {
       "igdb_id": 103560,
@@ -1181970,6 +1182175,11 @@
       "igdb_id": 415782,
       "game_name": "Stranded Deep 2",
       "file": "missing/S/415782-stranded-deep-2.json"
+    },
+    {
+      "igdb_id": 426452,
+      "game_name": "Stranded Dreamscapes: The Prisoner - Collector's Edition",
+      "file": "missing/S/426452-stranded-dreamscapes-the-prisoner-collectors-edition.json"
     },
     {
       "igdb_id": 273398,
@@ -1237722,6 +1237932,11 @@
       "file": "missing/T/92628-tech48.json"
     },
     {
+      "igdb_id": 426455,
+      "game_name": "TechAssault",
+      "file": "missing/T/426455-techassault.json"
+    },
+    {
       "igdb_id": 144900,
       "game_name": "Techblox",
       "file": "missing/T/144900-techblox.json"
@@ -1292060,6 +1292275,11 @@
       "igdb_id": 30017,
       "game_name": "The Pasture",
       "file": "missing/T/30017-the-pasture.json"
+    },
+    {
+      "igdb_id": 426426,
+      "game_name": "The Pasture",
+      "file": "missing/T/426426-the-pasture.json"
     },
     {
       "igdb_id": 160042,
@@ -1352137,6 +1352357,11 @@
       "file": "missing/T/207496-tracery-of-fate-vr.json"
     },
     {
+      "igdb_id": 426438,
+      "game_name": "Traces",
+      "file": "missing/T/426438-traces.json"
+    },
+    {
       "igdb_id": 176928,
       "game_name": "TraceS",
       "file": "missing/T/176928-traces.json"
@@ -1363222,6 +1363447,11 @@
       "file": "missing/T/118030-trapper.json"
     },
     {
+      "igdb_id": 426415,
+      "game_name": "Trapper",
+      "file": "missing/T/426415-trapper.json"
+    },
+    {
       "igdb_id": 29534,
       "game_name": "Trapper Knight, Sharpshooter Princess",
       "file": "missing/T/29534-trapper-knight-sharpshooter-princess.json"
@@ -1367175,6 +1367405,11 @@
       "igdb_id": 119759,
       "game_name": "Trickster VR: Horde Attack!",
       "file": "missing/T/119759-trickster-vr-horde-attack.json"
+    },
+    {
+      "igdb_id": 426441,
+      "game_name": "Trickster: The Fool's Wager",
+      "file": "missing/T/426441-trickster-the-fools-wager.json"
     },
     {
       "igdb_id": 8229,
@@ -1379575,6 +1379810,11 @@
       "igdb_id": 338601,
       "game_name": "Type One",
       "file": "missing/T/338601-type-one.json"
+    },
+    {
+      "igdb_id": 426434,
+      "game_name": "Type or Die",
+      "file": "missing/T/426434-type-or-die.json"
     },
     {
       "igdb_id": 374374,
@@ -1441352,6 +1441592,11 @@
       "file": "missing/W/86062-wiki-hunt.json"
     },
     {
+      "igdb_id": 426459,
+      "game_name": "Wiki-Go",
+      "file": "missing/W/426459-wiki-go.json"
+    },
+    {
       "igdb_id": 261759,
       "game_name": "Wiki's Wild Ride",
       "file": "missing/W/261759-wikis-wild-ride.json"
@@ -1467160,6 +1467405,11 @@
       "igdb_id": 150660,
       "game_name": "Xtreme Typing",
       "file": "missing/X/150660-xtreme-typing.json"
+    },
+    {
+      "igdb_id": 426457,
+      "game_name": "Xtremes vs Zombies",
+      "file": "missing/X/426457-xtremes-vs-zombies.json"
     },
     {
       "igdb_id": 330842,
