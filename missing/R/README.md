@@ -2179,6 +2179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravensburger Puzzles | 209309 | [209309-ravensburger-puzzles.json](./209309-ravensburger-puzzles.json) |
 | Ravensdale | 47424 | [47424-ravensdale.json](./47424-ravensdale.json) |
 | Ravenshade Asylum | 411825 | [411825-ravenshade-asylum.json](./411825-ravenshade-asylum.json) |
+| RavenStar | 404613 | [404613-ravenstar.json](./404613-ravenstar.json) |
 | Ravensthorn | 316730 | [316730-ravensthorn.json](./316730-ravensthorn.json) |
 | Ravenswatch: Legendary Edition | 331840 | [331840-ravenswatch-legendary-edition.json](./331840-ravenswatch-legendary-edition.json) |
 | Ravensword Legacy | 196431 | [196431-ravensword-legacy.json](./196431-ravensword-legacy.json) |
