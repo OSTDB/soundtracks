@@ -2134,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Crosswords | 268507 | [268507-3d-crosswords.json](./268507-3d-crosswords.json) |
 | 3D Custom Girl | 92660 | [92660-3d-custom-girl.json](./92660-3d-custom-girl.json) |
 | 3D Cyber Puck | 300012 | [300012-3d-cyber-puck.json](./300012-3d-cyber-puck.json) |
+| 3D Deer Sniper Hunting Game 2017 | 94783 | [94783-3d-deer-sniper-hunting-game-2017.json](./94783-3d-deer-sniper-hunting-game-2017.json) |
 | 3D Defenders | 140266 | [140266-3d-defenders.json](./140266-3d-defenders.json) |
 | 3D Dinosaur Hunter | 263459 | [263459-3d-dinosaur-hunter.json](./263459-3d-dinosaur-hunter.json) |
 | 3D Don't Die Mr Robot | 219510 | [219510-3d-dont-die-mr-robot.json](./219510-3d-dont-die-mr-robot.json) |
