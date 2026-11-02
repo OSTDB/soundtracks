@@ -1981,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viki Spotter: Space Mission | 97116 | [97116-viki-spotter-space-mission.json](./97116-viki-spotter-space-mission.json) |
 | Viki Spotter: Sports | 99088 | [99088-viki-spotter-sports.json](./99088-viki-spotter-sports.json) |
 | Viki Spotter: The Farm | 83539 | [83539-viki-spotter-the-farm.json](./83539-viki-spotter-the-farm.json) |
+| Viki Spotter: Undersea | 84091 | [84091-viki-spotter-undersea.json](./84091-viki-spotter-undersea.json) |
 | Viki Spotter: Zoo | 107511 | [107511-viki-spotter-zoo.json](./107511-viki-spotter-zoo.json) |
 | Vikindor | 207305 | [207305-vikindor.json](./207305-vikindor.json) |
 | Viking | 41184 | [41184-viking.json](./41184-viking.json) |
