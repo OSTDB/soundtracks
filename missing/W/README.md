@@ -2219,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs: Legion - Ultimate Edition | 119574 | [119574-watch-dogs-legion-ultimate-edition.json](./119574-watch-dogs-legion-ultimate-edition.json) |
 | Watch Grass Grow Simulator | 384224 | [384224-watch-grass-grow-simulator.json](./384224-watch-grass-grow-simulator.json) |
 | Watch Mario | 278623 | [278623-watch-mario.json](./278623-watch-mario.json) |
+| Watch Me Jump | 55772 | [55772-watch-me-jump.json](./55772-watch-me-jump.json) |
 | Watch Me Stream My Mental Breakdown | 132514 | [132514-watch-me-stream-my-mental-breakdown.json](./132514-watch-me-stream-my-mental-breakdown.json) |
 | Watch My Step! | 415204 | [415204-watch-my-step.json](./415204-watch-my-step.json) |
 | Watch Out | 55290 | [55290-watch-out.json](./55290-watch-out.json) |
@@ -6618,6 +6619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfman | 54716 | [54716-wolfman.json](./54716-wolfman.json) |
 | Wolfoo: Kindergarten, Preschool | 223894 | [223894-wolfoo-kindergarten-preschool.json](./223894-wolfoo-kindergarten-preschool.json) |
 | Wolfpack | 100177 | [100177-wolfpack.json](./100177-wolfpack.json) |
+| Wolfpack | 56696 | [56696-wolfpack.json](./56696-wolfpack.json) |
 | WolfPlay | 144817 | [144817-wolfplay.json](./144817-wolfplay.json) |
 | WolfQuest | 33838 | [33838-wolfquest.json](./33838-wolfquest.json) |
 | WolfQuest: Anniversary Edition - Hellroaring Mountain | 296723 | [296723-wolfquest-anniversary-edition-hellroaring-mountain.json](./296723-wolfquest-anniversary-edition-hellroaring-mountain.json) |
