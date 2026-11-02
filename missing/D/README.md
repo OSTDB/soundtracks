@@ -10805,6 +10805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor's Orders | 299532 | [299532-doctors-orders.json](./299532-doctors-orders.json) |
 | Doctordle | 394399 | [394399-doctordle.json](./394399-doctordle.json) |
 | Doctrine: C.U.L.T. | 391702 | [391702-doctrine-c-u-l-t.json](./391702-doctrine-c-u-l-t.json) |
+| Doctrineers | 423392 | [423392-doctrineers.json](./423392-doctrineers.json) |
 | Dodd Goes To The Museum | 327370 | [327370-dodd-goes-to-the-museum.json](./327370-dodd-goes-to-the-museum.json) |
 | DodecaDragons | 320010 | [320010-dodecadragons.json](./320010-dodecadragons.json) |
 | Dodge | 154270 | [154270-dodge.json](./154270-dodge.json) |
@@ -16904,6 +16905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Construction Co | 96196 | [96196-dungeon-construction-co.json](./96196-dungeon-construction-co.json) |
 | Dungeon Consultant | 139648 | [139648-dungeon-consultant.json](./139648-dungeon-consultant.json) |
 | Dungeon Conundrum | 190887 | [190887-dungeon-conundrum.json](./190887-dungeon-conundrum.json) |
+| Dungeon Cooking | 423380 | [423380-dungeon-cooking.json](./423380-dungeon-cooking.json) |
 | Dungeon Core | 137281 | [137281-dungeon-core.json](./137281-dungeon-core.json) |
 | Dungeon Core Master | 274770 | [274770-dungeon-core-master.json](./274770-dungeon-core-master.json) |
 | Dungeon Coup | 161350 | [161350-dungeon-coup.json](./161350-dungeon-coup.json) |
