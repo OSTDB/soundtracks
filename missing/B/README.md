@@ -1879,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Band of Brothers | 148924 | [148924-band-of-brothers.json](./148924-band-of-brothers.json) |
 | Band of Bugs | 22022 | [22022-band-of-bugs.json](./22022-band-of-bugs.json) |
 | Band of Crusaders | 339234 | [339234-band-of-crusaders.json](./339234-band-of-crusaders.json) |
+| Band of Defenders | 56110 | [56110-band-of-defenders.json](./56110-band-of-defenders.json) |
 | Band of Drones | 35578 | [35578-band-of-drones.json](./35578-band-of-drones.json) |
 | Band of Monsters | 38950 | [38950-band-of-monsters.json](./38950-band-of-monsters.json) |
 | Band of Outlaws | 54491 | [54491-band-of-outlaws.json](./54491-band-of-outlaws.json) |
@@ -14838,6 +14839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brix VR | 116324 | [116324-brix-vr.json](./116324-brix-vr.json) |
 | Brixity | 188331 | [188331-brixity.json](./188331-brixity.json) |
 | Brixout XP | 92788 | [92788-brixout-xp.json](./92788-brixout-xp.json) |
+| Brköut | 56602 | [56602-brkout.json](./56602-brkout.json) |
 | Bro YuanShen Survivors | 292481 | [292481-bro-yuanshen-survivors.json](./292481-bro-yuanshen-survivors.json) |
 | Bro, Where's My Head? | 151445 | [151445-bro-wheres-my-head.json](./151445-bro-wheres-my-head.json) |
 | Broad City High Score | 99352 | [99352-broad-city-high-score.json](./99352-broad-city-high-score.json) |
