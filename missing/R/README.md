@@ -1606,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramen | 344269 | [344269-ramen.json](./344269-ramen.json) |
 | Ramen Bowl Chicken Roll | 101442 | [101442-ramen-bowl-chicken-roll.json](./101442-ramen-bowl-chicken-roll.json) |
 | Ramen Chain | 159345 | [159345-ramen-chain.json](./159345-ramen-chain.json) |
+| Ramen Haven | 414728 | [414728-ramen-haven.json](./414728-ramen-haven.json) |
 | Ramen Heaven | 209318 | [209318-ramen-heaven.json](./209318-ramen-heaven.json) |
 | Ramen in the 90's | 141190 | [141190-ramen-in-the-90s.json](./141190-ramen-in-the-90s.json) |
 | Ramen no Megami | 283716 | [283716-ramen-no-megami.json](./283716-ramen-no-megami.json) |
@@ -2939,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality | 327025 | [327025-reality.json](./327025-reality.json) |
 | Reality | 353297 | [353297-reality.json](./353297-reality.json) |
 | Reality | 81178 | [81178-reality.json](./81178-reality.json) |
+| Reality Breach | 414743 | [414743-reality-breach.json](./414743-reality-breach.json) |
 | Reality Break | 210993 | [210993-reality-break.json](./210993-reality-break.json) |
 | Reality Check | 70374 | [70374-reality-check.json](./70374-reality-check.json) |
 | Reality Check 2 | 70373 | [70373-reality-check-2.json](./70373-reality-check-2.json) |
@@ -4723,6 +4725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnant | 144676 | [144676-remnant.json](./144676-remnant.json) |
 | Remnant Frontier: Survival | 373001 | [373001-remnant-frontier-survival.json](./373001-remnant-frontier-survival.json) |
 | Remnant Generation: Prologue | 392293 | [392293-remnant-generation-prologue.json](./392293-remnant-generation-prologue.json) |
+| Remnant Humanity | 414685 | [414685-remnant-humanity.json](./414685-remnant-humanity.json) |
 | Remnant II | 228535 | [228535-remnant-ii.json](./228535-remnant-ii.json) |
 | Remnant II: The Dark Horizon | 317619 | [317619-remnant-ii-the-dark-horizon.json](./317619-remnant-ii-the-dark-horizon.json) |
 | Remnant II: The Forgotten Kingdom | 297261 | [297261-remnant-ii-the-forgotten-kingdom.json](./297261-remnant-ii-the-forgotten-kingdom.json) |
@@ -8111,6 +8114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roads & Riches | 410081 | [410081-roads-and-riches.json](./410081-roads-and-riches.json) |
 | Roads Construction Sim | 272406 | [272406-roads-construction-sim.json](./272406-roads-construction-sim.json) |
 | Roads Construction Sim | 312716 | [312716-roads-construction-sim.json](./312716-roads-construction-sim.json) |
+| Roads of Da Vinci: In Search of Origins | 414691 | [414691-roads-of-da-vinci-in-search-of-origins.json](./414691-roads-of-da-vinci-in-search-of-origins.json) |
 | Roads of Middle Ages 2: Collector's Edition | 416381 | [416381-roads-of-middle-ages-2-collectors-edition.json](./416381-roads-of-middle-ages-2-collectors-edition.json) |
 | Roads of Rome | 34266 | [34266-roads-of-rome.json](./34266-roads-of-rome.json) |
 | Roads of Rome 2 | 34258 | [34258-roads-of-rome-2.json](./34258-roads-of-rome-2.json) |
@@ -11390,6 +11394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins Escape | 293481 | [293481-ruins-escape.json](./293481-ruins-escape.json) |
 | Ruins Magus | 198229 | [198229-ruins-magus.json](./198229-ruins-magus.json) |
 | Ruins of Albion | 169148 | [169148-ruins-of-albion.json](./169148-ruins-of-albion.json) |
+| Ruins of Aloryith | 414706 | [414706-ruins-of-aloryith.json](./414706-ruins-of-aloryith.json) |
 | Ruins of Blackspire | 388787 | [388787-ruins-of-blackspire.json](./388787-ruins-of-blackspire.json) |
 | Ruins of Dawn | 413732 | [413732-ruins-of-dawn.json](./413732-ruins-of-dawn.json) |
 | Ruins of Dawnseeker | 318251 | [318251-ruins-of-dawnseeker.json](./318251-ruins-of-dawnseeker.json) |
