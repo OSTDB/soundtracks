@@ -4893,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renuncio: Parte 2 - El Escape | 326032 | [326032-renuncio-parte-2-el-escape.json](./326032-renuncio-parte-2-el-escape.json) |
 | Renuncio! | 326031 | [326031-renuncio.json](./326031-renuncio.json) |
 | Renxia | 278696 | [278696-renxia.json](./278696-renxia.json) |
+| Renzo Racer | 38812 | [38812-renzo-racer.json](./38812-renzo-racer.json) |
 | Reouija Sleepover | 214436 | [214436-reouija-sleepover.json](./214436-reouija-sleepover.json) |
 | Repair Adventure | 265531 | [265531-repair-adventure.json](./265531-repair-adventure.json) |
 | Repair Plane | 303790 | [303790-repair-plane.json](./303790-repair-plane.json) |
