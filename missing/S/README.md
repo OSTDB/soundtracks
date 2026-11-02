@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Arms: Radiant Duels | 388956 | [388956-sakura-arms-radiant-duels.json](./388956-sakura-arms-radiant-duels.json) |
 | Sakura Battle | 234537 | [234537-sakura-battle.json](./234537-sakura-battle.json) |
 | Sakura Beach | 35040 | [35040-sakura-beach.json](./35040-sakura-beach.json) |
+| Sakura Beach 2 | 34329 | [34329-sakura-beach-2.json](./34329-sakura-beach-2.json) |
 | Sakura Branch: Blossom Puzzle | 418323 | [418323-sakura-branch-blossom-puzzle.json](./418323-sakura-branch-blossom-puzzle.json) |
 | Sakura Bunny Girls 2 | 355079 | [355079-sakura-bunny-girls-2.json](./355079-sakura-bunny-girls-2.json) |
 | Sakura Clicker | 34950 | [34950-sakura-clicker.json](./34950-sakura-clicker.json) |
@@ -5438,6 +5439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam: The Retro Encounter | 145554 | [145554-serious-sam-the-retro-encounter.json](./145554-serious-sam-the-retro-encounter.json) |
 | Serious Sam: Tormental | 116987 | [116987-serious-sam-tormental.json](./116987-serious-sam-tormental.json) |
 | Serious Sam: Winter Wonderland | 359886 | [359886-serious-sam-winter-wonderland.json](./359886-serious-sam-winter-wonderland.json) |
+| Serious Sam's Bogus Detour | 36390 | [36390-serious-sams-bogus-detour.json](./36390-serious-sams-bogus-detour.json) |
 | Serious Scramblers | 112077 | [112077-serious-scramblers.json](./112077-serious-scramblers.json) |
 | Serious Solitaire | 84236 | [84236-serious-solitaire.json](./84236-serious-solitaire.json) |
 | Serious Survivors | 348774 | [348774-serious-survivors.json](./348774-serious-survivors.json) |
@@ -13688,6 +13690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Bob | 213636 | [213636-snail-bob.json](./213636-snail-bob.json) |
 | Snail Bob | 88162 | [88162-snail-bob.json](./88162-snail-bob.json) |
 | Snail Bob 2 | 213637 | [213637-snail-bob-2.json](./213637-snail-bob-2.json) |
+| Snail Bob 2 | 35771 | [35771-snail-bob-2.json](./35771-snail-bob-2.json) |
 | Snail Bob 2 Deluxe | 96554 | [96554-snail-bob-2-deluxe.json](./96554-snail-bob-2-deluxe.json) |
 | Snail Bob 3 | 248086 | [248086-snail-bob-3.json](./248086-snail-bob-3.json) |
 | Snail Bob 3: Egypt Journey | 213638 | [213638-snail-bob-3-egypt-journey.json](./213638-snail-bob-3-egypt-journey.json) |
@@ -18230,7 +18233,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19812,6 +19814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellfire Odyssey | 239764 | [239764-spellfire-odyssey.json](./239764-spellfire-odyssey.json) |
 | Spellfolio | 289549 | [289549-spellfolio.json](./289549-spellfolio.json) |
 | SpellForce 2: Anniversary Edition | 29209 | [29209-spellforce-2-anniversary-edition.json](./29209-spellforce-2-anniversary-edition.json) |
+| SpellForce 2: Demons of the Past | 10887 | [10887-spellforce-2-demons-of-the-past.json](./10887-spellforce-2-demons-of-the-past.json) |
 | SpellForce 2: Dragon Storm | 7037 | [7037-spellforce-2-dragon-storm.json](./7037-spellforce-2-dragon-storm.json) |
 | SpellForce 2: Faith in Destiny | 7041 | [7041-spellforce-2-faith-in-destiny.json](./7041-spellforce-2-faith-in-destiny.json) |
 | SpellForce 2: Faith in Destiny - Scenario 1: Flink's Secret Diary | 144284 | [144284-spellforce-2-faith-in-destiny-scenario-1-flinks-secret-diary.json](./144284-spellforce-2-faith-in-destiny-scenario-1-flinks-secret-diary.json) |
@@ -19890,6 +19893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellslinger Towns | 295335 | [295335-spellslinger-towns.json](./295335-spellslinger-towns.json) |
 | Spellsouls - Duel of Legends | 26908 | [26908-spellsouls-duel-of-legends.json](./26908-spellsouls-duel-of-legends.json) |
 | Spellsphere | 235435 | [235435-spellsphere.json](./235435-spellsphere.json) |
+| Spellspire | 36462 | [36462-spellspire.json](./36462-spellspire.json) |
 | Spellstone | 26794 | [26794-spellstone.json](./26794-spellstone.json) |
 | Spellstorm | 145869 | [145869-spellstorm.json](./145869-spellstorm.json) |
 | Spellstrife | 287043 | [287043-spellstrife.json](./287043-spellstrife.json) |
@@ -21441,6 +21445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Fox 3: Operation Ozone | 7653 | [7653-spy-fox-3-operation-ozone.json](./7653-spy-fox-3-operation-ozone.json) |
 | Spy Fox Dry: Cereal and Cheese Chase - Activity Game | 208772 | [208772-spy-fox-dry-cereal-and-cheese-chase-activity-game.json](./208772-spy-fox-dry-cereal-and-cheese-chase-activity-game.json) |
 | Spy Fox in "Dry Cereal" | 5204 | [5204-spy-fox-in-dry-cereal.json](./5204-spy-fox-in-dry-cereal.json) |
+| Spy Fox In: Cheese Chase | 10839 | [10839-spy-fox-in-cheese-chase.json](./10839-spy-fox-in-cheese-chase.json) |
 | Spy Fox In: Hold the Mustard | 10840 | [10840-spy-fox-in-hold-the-mustard.json](./10840-spy-fox-in-hold-the-mustard.json) |
 | Spy Game: Mission in Moskow | 241331 | [241331-spy-game-mission-in-moskow.json](./241331-spy-game-mission-in-moskow.json) |
 | Spy Games: Elevator Mission | 5205 | [5205-spy-games-elevator-mission.json](./5205-spy-games-elevator-mission.json) |
@@ -23049,6 +23054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Trials on Tatooine | 34982 | [34982-star-wars-trials-on-tatooine.json](./34982-star-wars-trials-on-tatooine.json) |
 | Star Wars: X-Wing | 168 | [168-star-wars-x-wing.json](./168-star-wars-x-wing.json) |
 | Star Wars: X-Wing - Collector's CD-ROM | 388148 | [388148-star-wars-x-wing-collectors-cd-rom.json](./388148-star-wars-x-wing-collectors-cd-rom.json) |
+| Star Wars: X-Wing - Special Edition | 35967 | [35967-star-wars-x-wing-special-edition.json](./35967-star-wars-x-wing-special-edition.json) |
 | Star Wars: X-Wing Alliance | 169 | [169-star-wars-x-wing-alliance.json](./169-star-wars-x-wing-alliance.json) |
 | Star Wars: X-Wing Tour of Duty - B-Wing | 171 | [171-star-wars-x-wing-tour-of-duty-b-wing.json](./171-star-wars-x-wing-tour-of-duty-b-wing.json) |
 | Star Wars: X-Wing Tour of Duty - Imperial Pursuit | 173 | [173-star-wars-x-wing-tour-of-duty-imperial-pursuit.json](./173-star-wars-x-wing-tour-of-duty-imperial-pursuit.json) |
@@ -29288,6 +29294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kids Racing: Jungle Edition | 242412 | [242412-super-kids-racing-jungle-edition.json](./242412-super-kids-racing-jungle-edition.json) |
 | Super Kids Racing: Snow Edition | 249491 | [249491-super-kids-racing-snow-edition.json](./249491-super-kids-racing-snow-edition.json) |
 | Super Kill-Boi 9000 | 215705 | [215705-super-kill-boi-9000.json](./215705-super-kill-boi-9000.json) |
+| Super Killer Hornet: Resurrection | 10932 | [10932-super-killer-hornet-resurrection.json](./10932-super-killer-hornet-resurrection.json) |
 | Super Killer Hornets: Resurrection | 54413 | [54413-super-killer-hornets-resurrection.json](./54413-super-killer-hornets-resurrection.json) |
 | Super Kingcrab Simulator | 345804 | [345804-super-kingcrab-simulator.json](./345804-super-kingcrab-simulator.json) |
 | Super Kirby Clash | 122229 | [122229-super-kirby-clash.json](./122229-super-kirby-clash.json) |
