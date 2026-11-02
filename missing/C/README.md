@@ -1180,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candlelight | 33296 | [33296-candlelight.json](./33296-candlelight.json) |
 | Candlelight | 366581 | [366581-candlelight.json](./366581-candlelight.json) |
 | Candlelight: Lament | 247937 | [247937-candlelight-lament.json](./247937-candlelight-lament.json) |
+| Candleman | 27035 | [27035-candleman.json](./27035-candleman.json) |
 | Candleman: Definitive Edition | 225380 | [225380-candleman-definitive-edition.json](./225380-candleman-definitive-edition.json) |
 | Candleman: The Complete Journey | 81247 | [81247-candleman-the-complete-journey.json](./81247-candleman-the-complete-journey.json) |
 | Candleman:find yourself | 130755 | [130755-candleman-find-yourself.json](./130755-candleman-find-yourself.json) |
@@ -5346,6 +5347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager '93 | 11306 | [11306-championship-manager-93.json](./11306-championship-manager-93.json) |
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
 | Championship Manager 2: Scandinavian Leagues | 68737 | [68737-championship-manager-2-scandinavian-leagues.json](./68737-championship-manager-2-scandinavian-leagues.json) |
+| Championship Manager 2006 | 5771 | [5771-championship-manager-2006.json](./5771-championship-manager-2006.json) |
 | Championship Manager 2007 | 14887 | [14887-championship-manager-2007.json](./14887-championship-manager-2007.json) |
 | Championship Manager 2008 | 14840 | [14840-championship-manager-2008.json](./14840-championship-manager-2008.json) |
 | Championship Manager 2009 | 64883 | [64883-championship-manager-2009.json](./64883-championship-manager-2009.json) |
@@ -5781,6 +5783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase the Sun | 221981 | [221981-chase-the-sun.json](./221981-chase-the-sun.json) |
 | Chase the Sun 3D | 244814 | [244814-chase-the-sun-3d.json](./244814-chase-the-sun-3d.json) |
 | Chase: Animatronics | 232697 | [232697-chase-animatronics.json](./232697-chase-animatronics.json) |
+| Chase: Cold Case Investigations - Distant Memories | 25039 | [25039-chase-cold-case-investigations-distant-memories.json](./25039-chase-cold-case-investigations-distant-memories.json) |
 | Chase: Hollywood Stunt Driver | 5774 | [5774-chase-hollywood-stunt-driver.json](./5774-chase-hollywood-stunt-driver.json) |
 | Chased | 221684 | [221684-chased.json](./221684-chased.json) |
 | Chased Around the World | 211963 | [211963-chased-around-the-world.json](./211963-chased-around-the-world.json) |
@@ -10735,6 +10738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Verdict 2 | 263989 | [263989-cold-verdict-2.json](./263989-cold-verdict-2.json) |
 | Cold Verdict 3 | 371862 | [371862-cold-verdict-3.json](./371862-cold-verdict-3.json) |
 | Cold VR | 296392 | [296392-cold-vr.json](./296392-cold-vr.json) |
+| Cold War | 5781 | [5781-cold-war.json](./5781-cold-war.json) |
 | Cold War | 68436 | [68436-cold-war.json](./68436-cold-war.json) |
 | Cold War 2395: Solus | 277138 | [277138-cold-war-2395-solus.json](./277138-cold-war-2395-solus.json) |
 | Cold War Commander | 67982 | [67982-cold-war-commander.json](./67982-cold-war-commander.json) |
@@ -10805,6 +10809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collapse Relapse | 203969 | [203969-collapse-relapse.json](./203969-collapse-relapse.json) |
 | Collapse Zone | 382309 | [382309-collapse-zone.json](./382309-collapse-zone.json) |
 | Collapse: A Political Simulator | 149837 | [149837-collapse-a-political-simulator.json](./149837-collapse-a-political-simulator.json) |
+| Collapse: The Rage | 26682 | [26682-collapse-the-rage.json](./26682-collapse-the-rage.json) |
 | Collapse! | 84439 | [84439-collapse.json](./84439-collapse.json) |
 | Collapse! Chaos | 410114 | [410114-collapse-chaos.json](./410114-collapse-chaos.json) |
 | Collapse! Crunch | 73327 | [73327-collapse-crunch.json](./73327-collapse-crunch.json) |
@@ -13777,6 +13782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coruscant Attack | 245965 | [245965-coruscant-attack.json](./245965-coruscant-attack.json) |
 | Corvax | 398314 | [398314-corvax.json](./398314-corvax.json) |
 | Corvette | 418594 | [418594-corvette.json](./418594-corvette.json) |
+| Corvette | 5788 | [5788-corvette.json](./5788-corvette.json) |
 | Corvette Evolution GT | 328286 | [328286-corvette-evolution-gt.json](./328286-corvette-evolution-gt.json) |
 | Corvette Evolution GT | 43475 | [43475-corvette-evolution-gt.json](./43475-corvette-evolution-gt.json) |
 | Corvette ZR-1 Challenge | 48293 | [48293-corvette-zr-1-challenge.json](./48293-corvette-zr-1-challenge.json) |
@@ -15917,6 +15923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket 2000 | 79891 | [79891-cricket-2000.json](./79891-cricket-2000.json) |
 | Cricket 2002 | 92314 | [92314-cricket-2002.json](./92314-cricket-2002.json) |
 | Cricket 2004 | 94521 | [94521-cricket-2004.json](./94521-cricket-2004.json) |
+| Cricket 2005 | 5790 | [5790-cricket-2005.json](./5790-cricket-2005.json) |
 | Cricket 22 | 175987 | [175987-cricket-22.json](./175987-cricket-22.json) |
 | Cricket 24 | 243749 | [243749-cricket-24.json](./243749-cricket-24.json) |
 | Cricket 64 | 56889 | [56889-cricket-64.json](./56889-cricket-64.json) |
