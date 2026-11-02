@@ -1956,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satanislas | 250027 | [250027-satanislas.json](./250027-satanislas.json) |
 | Satanist | 32517 | [32517-satanist.json](./32517-satanist.json) |
 | Satanya's Adventure: All You Need is Melonpan | 184273 | [184273-satanyas-adventure-all-you-need-is-melonpan.json](./184273-satanyas-adventure-all-you-need-is-melonpan.json) |
+| Satarichi: Heroes De Caelum | 427263 | [427263-satarichi-heroes-de-caelum.json](./427263-satarichi-heroes-de-caelum.json) |
 | Satawn | 405573 | [405573-satawn.json](./405573-satawn.json) |
 | Satay Club mini | 95681 | [95681-satay-club-mini.json](./95681-satay-club-mini.json) |
 | Satay Shop Tycoon | 261110 | [261110-satay-shop-tycoon.json](./261110-satay-shop-tycoon.json) |
@@ -5660,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Hotties, All My Husbands | 417577 | [417577-seven-hotties-all-my-husbands.json](./417577-seven-hotties-all-my-husbands.json) |
 | Seven Idle Dwarf | 107094 | [107094-seven-idle-dwarf.json](./107094-seven-idle-dwarf.json) |
 | Seven Kingdoms | 859 | [859-seven-kingdoms.json](./859-seven-kingdoms.json) |
+| Seven Kingdoms 2 HD | 9330 | [9330-seven-kingdoms-2-hd.json](./9330-seven-kingdoms-2-hd.json) |
 | Seven Kingdoms II: The Fryhtan Wars | 860 | [860-seven-kingdoms-ii-the-fryhtan-wars.json](./860-seven-kingdoms-ii-the-fryhtan-wars.json) |
 | Seven Kingdoms: Ancient Adversaries | 33303 | [33303-seven-kingdoms-ancient-adversaries.json](./33303-seven-kingdoms-ancient-adversaries.json) |
 | Seven Kingdoms: Conquest | 8942 | [8942-seven-kingdoms-conquest.json](./8942-seven-kingdoms-conquest.json) |
@@ -9157,6 +9159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutsugeki!! Otometachi no Senjou 2: Yuukoku o Kakeru Koujo no Tsubasa | 43048 | [43048-shutsugeki-otometachi-no-senjou-2-yuukoku-o-kakeru-koujo-no-tsubasa.json](./43048-shutsugeki-otometachi-no-senjou-2-yuukoku-o-kakeru-koujo-no-tsubasa.json) |
 | Shutter | 244861 | [244861-shutter.json](./244861-shutter.json) |
 | Shutter | 391145 | [391145-shutter.json](./391145-shutter.json) |
+| Shutter | 9404 | [9404-shutter.json](./9404-shutter.json) |
 | Shutter 2 | 158547 | [158547-shutter-2.json](./158547-shutter-2.json) |
 | Shutter Chance Love | 72699 | [72699-shutter-chance-love.json](./72699-shutter-chance-love.json) |
 | Shutter Evidence | 375501 | [375501-shutter-evidence.json](./375501-shutter-evidence.json) |
@@ -10001,6 +10004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Nornir | 68990 | [68990-silver-nornir.json](./68990-silver-nornir.json) |
 | Silver Palace | 343335 | [343335-silver-palace.json](./343335-silver-palace.json) |
 | Silver Pines | 313597 | [313597-silver-pines.json](./313597-silver-pines.json) |
+| Silver Pines: Deluxe Edition | 427239 | [427239-silver-pines-deluxe-edition.json](./427239-silver-pines-deluxe-edition.json) |
 | Silver Screen Story | 147683 | [147683-silver-screen-story.json](./147683-silver-screen-story.json) |
 | Silver Sonic: Rise of the Death Egg | 231467 | [231467-silver-sonic-rise-of-the-death-egg.json](./231467-silver-sonic-rise-of-the-death-egg.json) |
 | Silver Sonic: The Crystal Islands | 302142 | [302142-silver-sonic-the-crystal-islands.json](./302142-silver-sonic-the-crystal-islands.json) |
@@ -12165,6 +12169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slamaverse! | 424042 | [424042-slamaverse.json](./424042-slamaverse.json) |
 | Slamball | 94553 | [94553-slamball.json](./94553-slamball.json) |
 | Slamdunk VR | 99456 | [99456-slamdunk-vr.json](./99456-slamdunk-vr.json) |
+| Slamit Pinball: Big Score | 9420 | [9420-slamit-pinball-big-score.json](./9420-slamit-pinball-big-score.json) |
 | Slamjet Stadium | 194187 | [194187-slamjet-stadium.json](./194187-slamjet-stadium.json) |
 | Slammer Caps Xtreme | 358854 | [358854-slammer-caps-xtreme.json](./358854-slammer-caps-xtreme.json) |
 | Slamoids! | 105016 | [105016-slamoids.json](./105016-slamoids.json) |
@@ -18346,6 +18351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24445,6 +24451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel and Soul | 83968 | [83968-steel-and-soul.json](./83968-steel-and-soul.json) |
 | Steel Arena: Robot War | 90080 | [90080-steel-arena-robot-war.json](./90080-steel-arena-robot-war.json) |
 | Steel Ark | 361847 | [361847-steel-ark.json](./361847-steel-ark.json) |
+| Steel Armor: Blaze of War | 9468 | [9468-steel-armor-blaze-of-war.json](./9468-steel-armor-blaze-of-war.json) |
 | Steel Artery: Train City Builder | 371311 | [371311-steel-artery-train-city-builder.json](./371311-steel-artery-train-city-builder.json) |
 | Steel Assault | 56668 | [56668-steel-assault.json](./56668-steel-assault.json) |
 | Steel Ball Race | 188947 | [188947-steel-ball-race.json](./188947-steel-ball-race.json) |
@@ -25425,6 +25432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StoneLoops! of Jurassica | 67810 | [67810-stoneloops-of-jurassica.json](./67810-stoneloops-of-jurassica.json) |
 | Stonemachia | 300028 | [300028-stonemachia.json](./300028-stonemachia.json) |
 | Stoneman's Adventure | 256725 | [256725-stonemans-adventure.json](./256725-stonemans-adventure.json) |
+| Stonerid | 9880 | [9880-stonerid.json](./9880-stonerid.json) |
 | Stonerill | 370161 | [370161-stonerill.json](./370161-stonerill.json) |
 | Stones Keeper: Director's Cut | 419645 | [419645-stones-keeper-directors-cut.json](./419645-stones-keeper-directors-cut.json) |
 | Stones Keeper: King Aurelius | 212863 | [212863-stones-keeper-king-aurelius.json](./212863-stones-keeper-king-aurelius.json) |
@@ -26921,6 +26929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Studio System: Guardian Angel | 226610 | [226610-studio-system-guardian-angel.json](./226610-studio-system-guardian-angel.json) |
 | StudioS Fighters: Climax Champions | 204857 | [204857-studios-fighters-climax-champions.json](./204857-studios-fighters-climax-champions.json) |
 | Studium | 333708 | [333708-studium.json](./333708-studium.json) |
+| Studs Up! | 427268 | [427268-studs-up.json](./427268-studs-up.json) |
 | Study Arcade | 367497 | [367497-study-arcade.json](./367497-study-arcade.json) |
 | Study of Unusual: Forest of Secrets | 105184 | [105184-study-of-unusual-forest-of-secrets.json](./105184-study-of-unusual-forest-of-secrets.json) |
 | Study Steady | 153756 | [153756-study-steady.json](./153756-study-steady.json) |
