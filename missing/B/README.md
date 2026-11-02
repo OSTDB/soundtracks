@@ -4298,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlezone: Rise of the Black Dogs | 3423 | [3423-battlezone-rise-of-the-black-dogs.json](./3423-battlezone-rise-of-the-black-dogs.json) |
 | Battlezone: The Red Odyssey | 238590 | [238590-battlezone-the-red-odyssey.json](./238590-battlezone-the-red-odyssey.json) |
 | Battlic | 341091 | [341091-battlic.json](./341091-battlic.json) |
+| Battlloon | 101060 | [101060-battlloon.json](./101060-battlloon.json) |
 | Battlot | 404418 | [404418-battlot.json](./404418-battlot.json) |
 | Battojutsu | 147766 | [147766-battojutsu.json](./147766-battojutsu.json) |
 | Battow: Mages And Monsters | 327027 | [327027-battow-mages-and-monsters.json](./327027-battow-mages-and-monsters.json) |
@@ -8893,6 +8894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade & Soul: Revolution | 143626 | [143626-blade-and-soul-revolution.json](./143626-blade-and-soul-revolution.json) |
 | Blade & Sword | 193611 | [193611-blade-and-sword.json](./193611-blade-and-sword.json) |
 | Blade & Sword 2: Ancient Legend | 379912 | [379912-blade-and-sword-2-ancient-legend.json](./379912-blade-and-sword-2-ancient-legend.json) |
+| Blade & Wings | 100944 | [100944-blade-and-wings.json](./100944-blade-and-wings.json) |
 | Blade 9 Online | 60964 | [60964-blade-9-online.json](./60964-blade-9-online.json) |
 | Blade Abyss | 246014 | [246014-blade-abyss.json](./246014-blade-abyss.json) |
 | Blade and Burden | 253315 | [253315-blade-and-burden.json](./253315-blade-and-burden.json) |
@@ -9435,6 +9437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Roots | 316162 | [316162-bleeding-roots.json](./316162-bleeding-roots.json) |
 | Bleemcast! for Metal Gear Solid | 315682 | [315682-bleemcast-for-metal-gear-solid.json](./315682-bleemcast-for-metal-gear-solid.json) |
 | Bleemcast! for Tekken 3 | 398277 | [398277-bleemcast-for-tekken-3.json](./398277-bleemcast-for-tekken-3.json) |
+| Bleentoro | 100942 | [100942-bleentoro.json](./100942-bleentoro.json) |
 | Bleep Bloop | 113897 | [113897-bleep-bloop.json](./113897-bleep-bloop.json) |
 | Bleepfrog | 343987 | [343987-bleepfrog.json](./343987-bleepfrog.json) |
 | Bleeping Spaceships | 373673 | [373673-bleeping-spaceships.json](./373673-bleeping-spaceships.json) |
@@ -10113,6 +10116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Highway | 181526 | [181526-blocky-highway.json](./181526-blocky-highway.json) |
 | Blocky McBlockFace | 114272 | [114272-blocky-mcblockface.json](./114272-blocky-mcblockface.json) |
 | Blocky Monsters Smash | 100195 | [100195-blocky-monsters-smash.json](./100195-blocky-monsters-smash.json) |
+| Blocky Parkour 3D | 101089 | [101089-blocky-parkour-3d.json](./101089-blocky-parkour-3d.json) |
 | Blocky Raider | 58202 | [58202-blocky-raider.json](./58202-blocky-raider.json) |
 | Blocky Roads | 23413 | [23413-blocky-roads.json](./23413-blocky-roads.json) |
 | Blocky Roads Winterland | 239240 | [239240-blocky-roads-winterland.json](./239240-blocky-roads-winterland.json) |
