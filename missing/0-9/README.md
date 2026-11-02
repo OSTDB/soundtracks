@@ -1664,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 21 | 110876 | [110876-21.json](./110876-21.json) |
 | 21 Blitz | 125939 | [125939-21-blitz.json](./125939-21-blitz.json) |
 | 21 Card Games | 68253 | [68253-21-card-games.json](./68253-21-card-games.json) |
+| 21 Days | 40869 | [40869-21-days.json](./40869-21-days.json) |
 | 21 Emon: Mezase! Hotel-Ou | 57442 | [57442-21-emon-mezase-hotel-ou.json](./57442-21-emon-mezase-hotel-ou.json) |
 | 21 Gewinnt | 98932 | [98932-21-gewinnt.json](./98932-21-gewinnt.json) |
 | 21 Steps to Soul | 27115 | [27115-21-steps-to-soul.json](./27115-21-steps-to-soul.json) |
@@ -2112,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Breakthru | 14149 | [14149-3d-breakthru.json](./14149-3d-breakthru.json) |
 | 3D Brick Breaker Revolution | 66431 | [66431-3d-brick-breaker-revolution.json](./66431-3d-brick-breaker-revolution.json) |
 | 3D Brick Bustin Madness | 205832 | [205832-3d-brick-bustin-madness.json](./205832-3d-brick-bustin-madness.json) |
+| 3d Bridges | 35510 | [35510-3d-bridges.json](./35510-3d-bridges.json) |
 | 3D Bumper Billiards | 424689 | [424689-3d-bumper-billiards.json](./424689-3d-bumper-billiards.json) |
 | 3D Challenge | 310515 | [310515-3d-challenge.json](./310515-3d-challenge.json) |
 | 3D Chess | 223001 | [223001-3d-chess.json](./223001-3d-chess.json) |
@@ -3275,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Spirits: Special Edition | 52348 | [52348-99-spirits-special-edition.json](./52348-99-spirits-special-edition.json) |
 | 99 Spirits: Weeping Demon's Bell | 11439 | [11439-99-spirits-weeping-demons-bell.json](./11439-99-spirits-weeping-demons-bell.json) |
 | 99 Waves | 283870 | [283870-99-waves.json](./283870-99-waves.json) |
+| 99 Waves to Die | 35492 | [35492-99-waves-to-die.json](./35492-99-waves-to-die.json) |
 | 99 Ways to Die | 313838 | [313838-99-ways-to-die.json](./313838-99-ways-to-die.json) |
 | 99% Can't Spot It! Common Sense Battle | 409671 | [409671-99-cant-spot-it-common-sense-battle.json](./409671-99-cant-spot-it-common-sense-battle.json) |
 | 99% Sky Car Racing | 108858 | [108858-99-sky-car-racing.json](./108858-99-sky-car-racing.json) |
