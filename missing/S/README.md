@@ -10581,12 +10581,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: A Tutto Pop | 268743 | [268743-singstar-a-tutto-pop.json](./268743-singstar-a-tutto-pop.json) |
 | SingStar: ABBA | 3306 | [3306-singstar-abba.json](./3306-singstar-abba.json) |
 | SingStar: Afrikaanse Treffers | 15439 | [15439-singstar-afrikaanse-treffers.json](./15439-singstar-afrikaanse-treffers.json) |
+| Singstar: Anthems | 15096 | [15096-singstar-anthems.json](./15096-singstar-anthems.json) |
 | SingStar: Back to the 80s | 15195 | [15195-singstar-back-to-the-80s.json](./15195-singstar-back-to-the-80s.json) |
 | SingStar: Cantautori Italiani | 15440 | [15440-singstar-cantautori-italiani.json](./15440-singstar-cantautori-italiani.json) |
 | SingStar: Celebration | 52828 | [52828-singstar-celebration.json](./52828-singstar-celebration.json) |
 | SingStar: Chart Hits | 15192 | [15192-singstar-chart-hits.json](./15192-singstar-chart-hits.json) |
 | SingStar: Chartbreaker | 136395 | [136395-singstar-chartbreaker.json](./136395-singstar-chartbreaker.json) |
 | SingStar: Clásicos | 341410 | [341410-singstar-clasicos.json](./341410-singstar-clasicos.json) |
+| SingStar: Dance | 15260 | [15260-singstar-dance.json](./15260-singstar-dance.json) |
 | SingStar: Danske Hits | 92223 | [92223-singstar-danske-hits.json](./92223-singstar-danske-hits.json) |
 | SingStar: Deutsch Rock-Pop | 144150 | [144150-singstar-deutsch-rock-pop.json](./144150-singstar-deutsch-rock-pop.json) |
 | SingStar: Deutsch Rock-Pop vol 2 | 144151 | [144151-singstar-deutsch-rock-pop-vol-2.json](./144151-singstar-deutsch-rock-pop-vol-2.json) |
@@ -10598,6 +10600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Hottest Hits | 15175 | [15175-singstar-hottest-hits.json](./15175-singstar-hottest-hits.json) |
 | Singstar: La Edad de Oro del Pop Español | 135680 | [135680-singstar-la-edad-de-oro-del-pop-espanol.json](./135680-singstar-la-edad-de-oro-del-pop-espanol.json) |
 | SingStar: Latino | 15194 | [15194-singstar-latino.json](./15194-singstar-latino.json) |
+| Singstar: Legends | 15099 | [15099-singstar-legends.json](./15099-singstar-legends.json) |
 | SingStar: Miliki | 219494 | [219494-singstar-miliki.json](./219494-singstar-miliki.json) |
 | SingStar: Morangos com Açúcar | 397942 | [397942-singstar-morangos-com-acucar.json](./397942-singstar-morangos-com-acucar.json) |
 | Singstar: Norsk på Norsk | 84316 | [84316-singstar-norsk-pa-norsk.json](./84316-singstar-norsk-pa-norsk.json) |
@@ -10606,11 +10609,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Polskie Hity | 268752 | [268752-singstar-polskie-hity.json](./268752-singstar-polskie-hity.json) |
 | SingStar: Polskie Hity 2 | 268753 | [268753-singstar-polskie-hity-2.json](./268753-singstar-polskie-hity-2.json) |
 | Singstar: Pop | 15092 | [15092-singstar-pop.json](./15092-singstar-pop.json) |
+| SingStar: Pop Edition | 15190 | [15190-singstar-pop-edition.json](./15190-singstar-pop-edition.json) |
+| SingStar: Pop Hits | 15164 | [15164-singstar-pop-hits.json](./15164-singstar-pop-hits.json) |
 | SingStar: Pop Hits 2 | 273845 | [273845-singstar-pop-hits-2.json](./273845-singstar-pop-hits-2.json) |
 | SingStar: Pop Hits 4 | 273844 | [273844-singstar-pop-hits-4.json](./273844-singstar-pop-hits-4.json) |
 | Singstar: Portugal Hits | 91953 | [91953-singstar-portugal-hits.json](./91953-singstar-portugal-hits.json) |
 | SingStar: Queen | 7456 | [7456-singstar-queen.json](./7456-singstar-queen.json) |
 | SingStar: R&B | 15170 | [15170-singstar-r-and-b.json](./15170-singstar-r-and-b.json) |
+| Singstar: Rocks! | 15095 | [15095-singstar-rocks.json](./15095-singstar-rocks.json) |
 | SingStar: Studio 100 | 45301 | [45301-singstar-studio-100.json](./45301-singstar-studio-100.json) |
 | SingStar: SuomiHelmet | 221070 | [221070-singstar-suomihelmet.json](./221070-singstar-suomihelmet.json) |
 | Singstar: SuomiHitit | 91884 | [91884-singstar-suomihitit.json](./91884-singstar-suomihitit.json) |
@@ -18252,6 +18258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21370,6 +21377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint Car Challenge | 43333 | [43333-sprint-car-challenge.json](./43333-sprint-car-challenge.json) |
 | Sprint Car Racing | 85773 | [85773-sprint-car-racing.json](./85773-sprint-car-racing.json) |
 | Sprint Cars 2: Showdown at Eldora | 208777 | [208777-sprint-cars-2-showdown-at-eldora.json](./208777-sprint-cars-2-showdown-at-eldora.json) |
+| Sprint Cars Road to Knoxville | 15791 | [15791-sprint-cars-road-to-knoxville.json](./15791-sprint-cars-road-to-knoxville.json) |
 | Sprint City | 384167 | [384167-sprint-city.json](./384167-sprint-city.json) |
 | Sprint Daytona Duel for Nascar HD | 106831 | [106831-sprint-daytona-duel-for-nascar-hd.json](./106831-sprint-daytona-duel-for-nascar-hd.json) |
 | Sprint Journey | 217809 | [217809-sprint-journey.json](./217809-sprint-journey.json) |
@@ -23498,6 +23506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starpiercer | 181360 | [181360-starpiercer.json](./181360-starpiercer.json) |
 | StarPilot W | 307610 | [307610-starpilot-w.json](./307610-starpilot-w.json) |
 | Starpine | 366365 | [366365-starpine.json](./366365-starpine.json) |
+| Starpoint Gemini | 15143 | [15143-starpoint-gemini.json](./15143-starpoint-gemini.json) |
 | Starpoint Gemini 2 | 8818 | [8818-starpoint-gemini-2.json](./8818-starpoint-gemini-2.json) |
 | Starpoint Gemini 2 Gold Pack | 308575 | [308575-starpoint-gemini-2-gold-pack.json](./308575-starpoint-gemini-2-gold-pack.json) |
 | Starpoint Gemini 2: Secrets of Aethera | 51898 | [51898-starpoint-gemini-2-secrets-of-aethera.json](./51898-starpoint-gemini-2-secrets-of-aethera.json) |
@@ -25421,6 +25430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Clan | 406304 | [406304-storm-clan.json](./406304-storm-clan.json) |
 | Storm Generations | 99666 | [99666-storm-generations.json](./99666-storm-generations.json) |
 | Storm Horse Simulator | 357860 | [357860-storm-horse-simulator.json](./357860-storm-horse-simulator.json) |
+| Storm in a Teacup | 15136 | [15136-storm-in-a-teacup.json](./15136-storm-in-a-teacup.json) |
 | Storm in Desert | 29174 | [29174-storm-in-desert.json](./29174-storm-in-desert.json) |
 | Storm Lancers | 362635 | [362635-storm-lancers.json](./362635-storm-lancers.json) |
 | Storm Lover | 76133 | [76133-storm-lover.json](./76133-storm-lover.json) |
@@ -29349,6 +29359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kyuukyoku Harikiri Stadium 2 | 37815 | [37815-super-kyuukyoku-harikiri-stadium-2.json](./37815-super-kyuukyoku-harikiri-stadium-2.json) |
 | Super Lander | 70230 | [70230-super-lander.json](./70230-super-lander.json) |
 | Super Laser Fury | 240697 | [240697-super-laser-fury.json](./240697-super-laser-fury.json) |
+| Super Laser Racer | 16124 | [16124-super-laser-racer.json](./16124-super-laser-racer.json) |
 | Super Laser: The Alien Fighter | 66190 | [66190-super-laser-the-alien-fighter.json](./66190-super-laser-the-alien-fighter.json) |
 | Super Laura Up | 276163 | [276163-super-laura-up.json](./276163-super-laura-up.json) |
 | Super Lava Bros. | 254938 | [254938-super-lava-bros.json](./254938-super-lava-bros.json) |
