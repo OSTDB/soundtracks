@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Legends: The Count of New Orleans - Collector's Edition | 228251 | [228251-vampire-legends-the-count-of-new-orleans-collectors-edition.json](./228251-vampire-legends-the-count-of-new-orleans-collectors-edition.json) |
 | Vampire Legends: The True Story of Kisilova - Collector’s Edition | 228249 | [228249-vampire-legends-the-true-story-of-kisilova-collector-s-edition.json](./228249-vampire-legends-the-true-story-of-kisilova-collector-s-edition.json) |
 | Vampire Legends: The Untold Story of Elizabeth Bathory - Collector's Edition | 228250 | [228250-vampire-legends-the-untold-story-of-elizabeth-bathory-collectors-edition.json](./228250-vampire-legends-the-untold-story-of-elizabeth-bathory-collectors-edition.json) |
+| Vampire Lollipop | 401004 | [401004-vampire-lollipop.json](./401004-vampire-lollipop.json) |
 | Vampire Love | 268661 | [268661-vampire-love.json](./268661-vampire-love.json) |
 | Vampire Martina-Bloody Day 228 | 124222 | [124222-vampire-martina-bloody-day-228.json](./124222-vampire-martina-bloody-day-228.json) |
 | Vampire Master | 341047 | [341047-vampire-master.json](./341047-vampire-master.json) |
@@ -3539,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxorp | 178628 | [178628-voxorp.json](./178628-voxorp.json) |
 | Voxrush | 211138 | [211138-voxrush.json](./211138-voxrush.json) |
 | VoxStory | 137887 | [137887-voxstory.json](./137887-voxstory.json) |
+| Voxtale | 400733 | [400733-voxtale.json](./400733-voxtale.json) |
 | Voya Nui Online Game | 155023 | [155023-voya-nui-online-game.json](./155023-voya-nui-online-game.json) |
 | Voyage | 119617 | [119617-voyage.json](./119617-voyage.json) |
 | Voyage | 232012 | [232012-voyage.json](./232012-voyage.json) |
@@ -4028,6 +4030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VVVV | 225771 | [225771-vvvv.json](./225771-vvvv.json) |
 | VVVVK: Rogue Vampire Hunter | 209017 | [209017-vvvvk-rogue-vampire-hunter.json](./209017-vvvvk-rogue-vampire-hunter.json) |
 | VVVVV | 128234 | [128234-vvvvv.json](./128234-vvvvv.json) |
+| VVVVV | 400927 | [400927-vvvvv.json](./400927-vvvvv.json) |
 | VVVVVV | 1990 | [1990-vvvvvv.json](./1990-vvvvvv.json) |
 | VVVVVV: The Depths | 360473 | [360473-vvvvvv-the-depths.json](./360473-vvvvvv-the-depths.json) |
 | VWisher | 382168 | [382168-vwisher.json](./382168-vwisher.json) |
