@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Breezy Drive | 295603 | [295603-easy-breezy-drive.json](./295603-easy-breezy-drive.json) |
 | Easy Bubbles | 344720 | [344720-easy-bubbles.json](./344720-easy-bubbles.json) |
 | Easy Cute Clean Up Lesson | 320469 | [320469-easy-cute-clean-up-lesson.json](./320469-easy-cute-clean-up-lesson.json) |
+| Easy Flight Simulator | 159385 | [159385-easy-flight-simulator.json](./159385-easy-flight-simulator.json) |
 | Easy Flight Simulator 2 | 375408 | [375408-easy-flight-simulator-2.json](./375408-easy-flight-simulator-2.json) |
 | Easy Game | 232917 | [232917-easy-game.json](./232917-easy-game.json) |
 | Easy Gems Free: Amazing Match 3 Puzzle | 89177 | [89177-easy-gems-free-amazing-match-3-puzzle.json](./89177-easy-gems-free-amazing-match-3-puzzle.json) |
@@ -1741,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ekphrasis | 339730 | [339730-ekphrasis.json](./339730-ekphrasis.json) |
 | Ekphrasis | 405494 | [405494-ekphrasis.json](./405494-ekphrasis.json) |
 | Eksperyment Delfin | 283112 | [283112-eksperyment-delfin.json](./283112-eksperyment-delfin.json) |
+| Ekstase | 157510 | [157510-ekstase.json](./157510-ekstase.json) |
 | Ekudorado: Kagami no Naka no Oukoku | 66167 | [66167-ekudorado-kagami-no-naka-no-oukoku.json](./66167-ekudorado-kagami-no-naka-no-oukoku.json) |
 | Ekurbanizu | 180945 | [180945-ekurbanizu.json](./180945-ekurbanizu.json) |
 | El | 262203 | [262203-el.json](./262203-el.json) |
