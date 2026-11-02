@@ -4400,6 +4400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BBTan2 | 250192 | [250192-bbtan2.json](./250192-bbtan2.json) |
 | Bburago Rally | 362414 | [362414-bburago-rally.json](./362414-bburago-rally.json) |
 | Bby don't hurt me | 383011 | [383011-bby-dont-hurt-me.json](./383011-bby-dont-hurt-me.json) |
+| BC Kings | 29193 | [29193-bc-kings.json](./29193-bc-kings.json) |
 | BC Project | 110046 | [110046-bc-project.json](./110046-bc-project.json) |
 | BC Racers | 5362 | [5362-bc-racers.json](./5362-bc-racers.json) |
 | BCBasic | 313457 | [313457-bcbasic.json](./313457-bcbasic.json) |
@@ -14867,6 +14868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brober man | 179926 | [179926-brober-man.json](./179926-brober-man.json) |
 | Brobot | 159866 | [159866-brobot.json](./159866-brobot.json) |
 | Brocante Game: Blister Hunter | 263020 | [263020-brocante-game-blister-hunter.json](./263020-brocante-game-blister-hunter.json) |
+| Broccoli Bob | 29244 | [29244-broccoli-bob.json](./29244-broccoli-bob.json) |
 | Broccoli Quest | 176873 | [176873-broccoli-quest.json](./176873-broccoli-quest.json) |
 | Broccoli Quest II: The Dark Sacrament | 176874 | [176874-broccoli-quest-ii-the-dark-sacrament.json](./176874-broccoli-quest-ii-the-dark-sacrament.json) |
 | BroChicken | 253806 | [253806-brochicken.json](./253806-brochicken.json) |
