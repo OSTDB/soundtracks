@@ -4666,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KOF X Garou Densetsu | 63832 | [63832-kof-x-garou-densetsu.json](./63832-kof-x-garou-densetsu.json) |
 | Koffi Yellow Copter | 40797 | [40797-koffi-yellow-copter.json](./40797-koffi-yellow-copter.json) |
 | Kofi Quest | 212631 | [212631-kofi-quest.json](./212631-kofi-quest.json) |
+| Kofi Quest: Alpha MOD | 83567 | [83567-kofi-quest-alpha-mod.json](./83567-kofi-quest-alpha-mod.json) |
 | Kofie & Clover | 138443 | [138443-kofie-and-clover.json](./138443-kofie-and-clover.json) |
 | Kofoin: Swarm Defense | 374821 | [374821-kofoin-swarm-defense.json](./374821-kofoin-swarm-defense.json) |
 | Kofun ha Ikiteiru: Maholova Club no Shitai Sagashi | 206563 | [206563-kofun-ha-ikiteiru-maholova-club-no-shitai-sagashi.json](./206563-kofun-ha-ikiteiru-maholova-club-no-shitai-sagashi.json) |
