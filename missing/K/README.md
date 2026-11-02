@@ -5684,6 +5684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Panda | 4964 | [4964-kung-fu-panda.json](./4964-kung-fu-panda.json) |
 | Kung Fu Panda 2 | 200906 | [200906-kung-fu-panda-2.json](./200906-kung-fu-panda-2.json) |
 | Kung Fu Panda 2 | 230549 | [230549-kung-fu-panda-2.json](./230549-kung-fu-panda-2.json) |
+| Kung Fu Panda 2 | 4965 | [4965-kung-fu-panda-2.json](./4965-kung-fu-panda-2.json) |
 | Kung Fu Panda Dojo Mojo | 269139 | [269139-kung-fu-panda-dojo-mojo.json](./269139-kung-fu-panda-dojo-mojo.json) |
 | Kung Fu Panda Holiday | 74856 | [74856-kung-fu-panda-holiday.json](./74856-kung-fu-panda-holiday.json) |
 | Kung Fu Panda World | 357266 | [357266-kung-fu-panda-world.json](./357266-kung-fu-panda-world.json) |
