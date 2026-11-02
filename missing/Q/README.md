@@ -1213,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qurare: Magic Library | 19605 | [19605-qurare-magic-library.json](./19605-qurare-magic-library.json) |
 | Quriocity | 221073 | [221073-quriocity.json](./221073-quriocity.json) |
 | Qusha | 299805 | [299805-qusha.json](./299805-qusha.json) |
+| QUTAS67: Qubic Ultimate Tap Adventure Simulator 2067 | 426460 | [426460-qutas67-qubic-ultimate-tap-adventure-simulator-2067.json](./426460-qutas67-qubic-ultimate-tap-adventure-simulator-2067.json) |
 | Quur | 25793 | [25793-quur.json](./25793-quur.json) |
 | QuVerse | 207302 | [207302-quverse.json](./207302-quverse.json) |
 | Quynh | 185162 | [185162-quynh.json](./185162-quynh.json) |
