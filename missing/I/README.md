@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iconic | 362768 | [362768-iconic.json](./362768-iconic.json) |
 | IcoNick Duster: Planets Defender | 371944 | [371944-iconick-duster-planets-defender.json](./371944-iconick-duster-planets-defender.json) |
 | Iconoclasts | 34705 | [34705-iconoclasts.json](./34705-iconoclasts.json) |
+| Iconology | 420907 | [420907-iconology.json](./420907-iconology.json) |
 | Icons of Theia | 222741 | [222741-icons-of-theia.json](./222741-icons-of-theia.json) |
 | Icons: Combat Arena | 51449 | [51449-icons-combat-arena.json](./51449-icons-combat-arena.json) |
 | Icontrivia: Guess All Things Christmas | 232050 | [232050-icontrivia-guess-all-things-christmas.json](./232050-icontrivia-guess-all-things-christmas.json) |
@@ -1546,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Supermarket Tycoon | 115994 | [115994-idle-supermarket-tycoon.json](./115994-idle-supermarket-tycoon.json) |
 | Idle Superpowers | 182300 | [182300-idle-superpowers.json](./182300-idle-superpowers.json) |
 | Idle Surge | 230733 | [230733-idle-surge.json](./230733-idle-surge.json) |
+| Idle Sushi Bar Tycoon | 420926 | [420926-idle-sushi-bar-tycoon.json](./420926-idle-sushi-bar-tycoon.json) |
 | Idle Sweeper | 100446 | [100446-idle-sweeper.json](./100446-idle-sweeper.json) |
 | Idle Sword | 182714 | [182714-idle-sword.json](./182714-idle-sword.json) |
 | Idle Sword 2 | 56925 | [56925-idle-sword-2.json](./56925-idle-sword-2.json) |
