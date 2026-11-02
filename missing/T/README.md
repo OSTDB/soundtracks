@@ -6273,6 +6273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blue-G Interactive Vector Archive 77-97 | 406232 | [406232-the-blue-g-interactive-vector-archive-77-97.json](./406232-the-blue-g-interactive-vector-archive-77-97.json) |
 | The Bluecoats: North & South | 140958 | [140958-the-bluecoats-north-and-south.json](./140958-the-bluecoats-north-and-south.json) |
 | The Bluecoats: North vs South - Limited Edition | 139929 | [139929-the-bluecoats-north-vs-south-limited-edition.json](./139929-the-bluecoats-north-vs-south-limited-edition.json) |
+| The Bluecoats: North vs. South | 24232 | [24232-the-bluecoats-north-vs-south.json](./24232-the-bluecoats-north-vs-south.json) |
 | The Blueness of a Wound | 129062 | [129062-the-blueness-of-a-wound.json](./129062-the-blueness-of-a-wound.json) |
 | The Blues Brothers | 265032 | [265032-the-blues-brothers.json](./265032-the-blues-brothers.json) |
 | The Blues Brothers | 265033 | [265033-the-blues-brothers.json](./265033-the-blues-brothers.json) |
@@ -14185,6 +14186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Professional (Farming & Forestry) | 138082 | [138082-the-professional-farming-and-forestry.json](./138082-the-professional-farming-and-forestry.json) |
 | The Professor | 351483 | [351483-the-professor.json](./351483-the-professor.json) |
 | The Professor Presents: Got Handles? | 28937 | [28937-the-professor-presents-got-handles.json](./28937-the-professor-presents-got-handles.json) |
+| The Professor's Brain Trainer: Logic | 23107 | [23107-the-professors-brain-trainer-logic.json](./23107-the-professors-brain-trainer-logic.json) |
 | The Project Mars | 123294 | [123294-the-project-mars.json](./123294-the-project-mars.json) |
 | The Project Mars 2 | 123295 | [123295-the-project-mars-2.json](./123295-the-project-mars-2.json) |
 | The Project Mars 2+3 | 125927 | [125927-the-project-mars-2-3.json](./125927-the-project-mars-2-3.json) |
@@ -21432,6 +21434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time O'Clock: The Mask of Crime | 423245 | [423245-time-oclock-the-mask-of-crime.json](./423245-time-oclock-the-mask-of-crime.json) |
 | Time Ocean | 244467 | [244467-time-ocean.json](./244467-time-ocean.json) |
 | Time of Ashes | 220521 | [220521-time-of-ashes.json](./220521-time-of-ashes.json) |
+| Time of Defiance | 24258 | [24258-time-of-defiance.json](./24258-time-of-defiance.json) |
 | Time of Fury | 17486 | [17486-time-of-fury.json](./17486-time-of-fury.json) |
 | Time of Heroes | 341087 | [341087-time-of-heroes.json](./341087-time-of-heroes.json) |
 | Time of Heroes | 341375 | [341375-time-of-heroes.json](./341375-time-of-heroes.json) |
@@ -29362,6 +29365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 4: Complete DLC Pack | 155315 | [155315-tropico-4-complete-dlc-pack.json](./155315-tropico-4-complete-dlc-pack.json) |
 | Tropico 4: Junta Military | 53851 | [53851-tropico-4-junta-military.json](./53851-tropico-4-junta-military.json) |
 | Tropico 4: Megalopolis | 53847 | [53847-tropico-4-megalopolis.json](./53847-tropico-4-megalopolis.json) |
+| Tropico 4: Modern Times | 24234 | [24234-tropico-4-modern-times.json](./24234-tropico-4-modern-times.json) |
 | Tropico 4: Pirate Heaven | 75685 | [75685-tropico-4-pirate-heaven.json](./75685-tropico-4-pirate-heaven.json) |
 | Tropico 4: Plantador | 53849 | [53849-tropico-4-plantador.json](./53849-tropico-4-plantador.json) |
 | Tropico 4: Propaganda | 53845 | [53845-tropico-4-propaganda.json](./53845-tropico-4-propaganda.json) |
