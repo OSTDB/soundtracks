@@ -3943,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenryu Genichiro no Pro Wrestling Revolution | 38228 | [38228-tenryu-genichiro-no-pro-wrestling-revolution.json](./38228-tenryu-genichiro-no-pro-wrestling-revolution.json) |
 | Tens and Twos | 175384 | [175384-tens-and-twos.json](./175384-tens-and-twos.json) |
 | Tens Junior Maths IQ Challenge | 103993 | [103993-tens-junior-maths-iq-challenge.json](./103993-tens-junior-maths-iq-challenge.json) |
+| Tens! | 87348 | [87348-tens.json](./87348-tens.json) |
 | Tensai Bakabon | 46110 | [46110-tensai-bakabon.json](./46110-tensai-bakabon.json) |
 | Tensai Bit-Kun: Gramon Battle | 4198 | [4198-tensai-bit-kun-gramon-battle.json](./4198-tensai-bit-kun-gramon-battle.json) |
 | Tense | 260286 | [260286-tense.json](./260286-tense.json) |
@@ -15526,6 +15527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Cozy Bistro Kit | 303888 | [303888-the-sims-4-cozy-bistro-kit.json](./303888-the-sims-4-cozy-bistro-kit.json) |
 | The Sims 4: Cozy Kitsch Kit | 330389 | [330389-the-sims-4-cozy-kitsch-kit.json](./330389-the-sims-4-cozy-kitsch-kit.json) |
 | The Sims 4: Decor to the Max Kit | 195598 | [195598-the-sims-4-decor-to-the-max-kit.json](./195598-the-sims-4-decor-to-the-max-kit.json) |
+| The Sims 4: Deluxe Party Edition | 85510 | [85510-the-sims-4-deluxe-party-edition.json](./85510-the-sims-4-deluxe-party-edition.json) |
 | The Sims 4: Desert Luxe Kit | 217801 | [217801-the-sims-4-desert-luxe-kit.json](./217801-the-sims-4-desert-luxe-kit.json) |
 | The Sims 4: Dine Out | 24373 | [24373-the-sims-4-dine-out.json](./24373-the-sims-4-dine-out.json) |
 | The Sims 4: Discover University | 126182 | [126182-the-sims-4-discover-university.json](./126182-the-sims-4-discover-university.json) |
@@ -22933,6 +22935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toki Tori | 194909 | [194909-toki-tori.json](./194909-toki-tori.json) |
 | Toki Tori 2 | 2351 | [2351-toki-tori-2.json](./2351-toki-tori-2.json) |
 | Toki Tori 2+ | 16282 | [16282-toki-tori-2.json](./16282-toki-tori-2.json) |
+| Toki Tori 3D | 85449 | [85449-toki-tori-3d.json](./85449-toki-tori-3d.json) |
 | Toki Tori Collection | 122202 | [122202-toki-tori-collection.json](./122202-toki-tori-collection.json) |
 | Toki Tori: Ultimate Edition | 342781 | [342781-toki-tori-ultimate-edition.json](./342781-toki-tori-ultimate-edition.json) |
 | Toki: Retrollector | 112962 | [112962-toki-retrollector.json](./112962-toki-retrollector.json) |
@@ -25726,6 +25729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story Racer | 404086 | [404086-toy-story-racer.json](./404086-toy-story-racer.json) |
 | Toy Story Survivor | 231890 | [231890-toy-story-survivor.json](./231890-toy-story-survivor.json) |
 | Toy Story: Free! Interactive DVD-ROM | 325573 | [325573-toy-story-free-interactive-dvd-rom.json](./325573-toy-story-free-interactive-dvd-rom.json) |
+| Toy Stunt Bike | 85452 | [85452-toy-stunt-bike.json](./85452-toy-stunt-bike.json) |
 | Toy Stunt Bike 2 | 65396 | [65396-toy-stunt-bike-2.json](./65396-toy-stunt-bike-2.json) |
 | Toy Stunt Bike: Tiptop's Trials | 106979 | [106979-toy-stunt-bike-tiptops-trials.json](./106979-toy-stunt-bike-tiptops-trials.json) |
 | Toy Stunt Bike: Tiptop's Trials | 108249 | [108249-toy-stunt-bike-tiptops-trials.json](./108249-toy-stunt-bike-tiptops-trials.json) |
