@@ -25522,6 +25522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Township | 19526 | [19526-township.json](./19526-township.json) |
 | Townsmen | 32428 | [32428-townsmen.json](./32428-townsmen.json) |
 | Townsmen Racing | 198367 | [198367-townsmen-racing.json](./198367-townsmen-racing.json) |
+| Townsmen VR | 86445 | [86445-townsmen-vr.json](./86445-townsmen-vr.json) |
 | Townsmen: A Kingdom Rebuilt | 115912 | [115912-townsmen-a-kingdom-rebuilt.json](./115912-townsmen-a-kingdom-rebuilt.json) |
 | Townsmen: A Kingdom Rebuilt - The Seaside Empire | 155067 | [155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json](./155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json) |
 | Townville, the Show | 132178 | [132178-townville-the-show.json](./132178-townville-the-show.json) |
