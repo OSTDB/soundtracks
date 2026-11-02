@@ -2121,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Angle | 67647 | [67647-neo-angle.json](./67647-neo-angle.json) |
 | Neo Artifacts | 393819 | [393819-neo-artifacts.json](./393819-neo-artifacts.json) |
 | Neo Atlas 1469 | 27318 | [27318-neo-atlas-1469.json](./27318-neo-atlas-1469.json) |
+| Neo Bananas | 423957 | [423957-neo-bananas.json](./423957-neo-bananas.json) |
 | Neo Berlin 2087 | 244993 | [244993-neo-berlin-2087.json](./244993-neo-berlin-2087.json) |
 | Neo Bomberman | 39463 | [39463-neo-bomberman.json](./39463-neo-bomberman.json) |
 | Neo Breakout | 225594 | [225594-neo-breakout.json](./225594-neo-breakout.json) |
