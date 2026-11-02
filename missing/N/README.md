@@ -5545,6 +5545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No One Lives | 174675 | [174675-no-one-lives.json](./174675-no-one-lives.json) |
 | No One Lives Forever 2: A Spy in H.A.R.M.'s Way | 820 | [820-no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way.json](./820-no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way.json) |
 | No One Lives in Heaven: Digital Deluxe Edition | 167182 | [167182-no-one-lives-in-heaven-digital-deluxe-edition.json](./167182-no-one-lives-in-heaven-digital-deluxe-edition.json) |
+| No One Returns | 403398 | [403398-no-one-returns.json](./403398-no-one-returns.json) |
 | No One Survived: Military clothing | 337766 | [337766-no-one-survived-military-clothing.json](./337766-no-one-survived-military-clothing.json) |
 | No One Will Miss Me | 419932 | [419932-no-one-will-miss-me.json](./419932-no-one-will-miss-me.json) |
 | No One's Earth | 189850 | [189850-no-ones-earth.json](./189850-no-ones-earth.json) |
