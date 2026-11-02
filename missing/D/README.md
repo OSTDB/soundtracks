@@ -8889,6 +8889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Frontier | 26228 | [26228-dino-frontier.json](./26228-dino-frontier.json) |
 | Dino Gaïa | 326060 | [326060-dino-gaia.json](./326060-dino-gaia.json) |
 | Dino Galaxy Tennis | 144945 | [144945-dino-galaxy-tennis.json](./144945-dino-galaxy-tennis.json) |
+| Dino Game | 129564 | [129564-dino-game.json](./129564-dino-game.json) |
 | Dino Genesis | 146924 | [146924-dino-genesis.json](./146924-dino-genesis.json) |
 | Dino Genesis | 336533 | [336533-dino-genesis.json](./336533-dino-genesis.json) |
 | Dino Get Out! | 279029 | [279029-dino-get-out.json](./279029-dino-get-out.json) |
@@ -17742,6 +17743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Looter | 274030 | [274030-dwarf-looter.json](./274030-dwarf-looter.json) |
 | Dwarf Prison | 211546 | [211546-dwarf-prison.json](./211546-dwarf-prison.json) |
 | Dwarf Quest | 50835 | [50835-dwarf-quest.json](./50835-dwarf-quest.json) |
+| Dwarf Shop | 130155 | [130155-dwarf-shop.json](./130155-dwarf-shop.json) |
 | Dwarf Slayer | 149502 | [149502-dwarf-slayer.json](./149502-dwarf-slayer.json) |
 | Dwarf Swordsman | 110160 | [110160-dwarf-swordsman.json](./110160-dwarf-swordsman.json) |
 | Dwarf Tower | 24563 | [24563-dwarf-tower.json](./24563-dwarf-tower.json) |
