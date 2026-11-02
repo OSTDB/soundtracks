@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla Mountain | 328465 | [328465-valhalla-mountain.json](./328465-valhalla-mountain.json) |
 | Valhalla Path | 382543 | [382543-valhalla-path.json](./382543-valhalla-path.json) |
 | Valhalla Wars | 249370 | [249370-valhalla-wars.json](./249370-valhalla-wars.json) |
+| Valhalla, Vikings, Ragnarok! | 404617 | [404617-valhalla-vikings-ragnarok.json](./404617-valhalla-vikings-ragnarok.json) |
 | Valhalla: Awakening of Valkyrie | 214200 | [214200-valhalla-awakening-of-valkyrie.json](./214200-valhalla-awakening-of-valkyrie.json) |
 | Valhalla: Before the War | 12809 | [12809-valhalla-before-the-war.json](./12809-valhalla-before-the-war.json) |
 | Valheim: 1.0 | 417164 | [417164-valheim-1-0.json](./417164-valheim-1-0.json) |
@@ -1530,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertigo | 42850 | [42850-vertigo.json](./42850-vertigo.json) |
 | Vertigo 2 | 120529 | [120529-vertigo-2.json](./120529-vertigo-2.json) |
 | Vertigo 2: Into the Aether | 325823 | [325823-vertigo-2-into-the-aether.json](./325823-vertigo-2-into-the-aether.json) |
+| Vertigo Enigma | 407062 | [407062-vertigo-enigma.json](./407062-vertigo-enigma.json) |
 | Vertigo Racing | 57402 | [57402-vertigo-racing.json](./57402-vertigo-racing.json) |
 | Vertigo Void | 34255 | [34255-vertigo-void.json](./34255-vertigo-void.json) |
 | Vertigo: Binaural Beats | 233063 | [233063-vertigo-binaural-beats.json](./233063-vertigo-binaural-beats.json) |
@@ -2187,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vincent's Chocolate | 301923 | [301923-vincents-chocolate.json](./301923-vincents-chocolate.json) |
 | Vincent's Horror Story | 238650 | [238650-vincents-horror-story.json](./238650-vincents-horror-story.json) |
 | Vincere Totus Astrum | 36266 | [36266-vincere-totus-astrum.json](./36266-vincere-totus-astrum.json) |
+| Vincit | 407067 | [407067-vincit.json](./407067-vincit.json) |
 | Vincula | 150275 | [150275-vincula.json](./150275-vincula.json) |
 | Vínculo | 355077 | [355077-vinculo.json](./355077-vinculo.json) |
 | Vinculum | 417644 | [417644-vinculum.json](./417644-vinculum.json) |
@@ -3246,7 +3249,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidwalkers: The Gates of Hell - The Devil's Towers | 205856 | [205856-voidwalkers-the-gates-of-hell-the-devils-towers.json](./205856-voidwalkers-the-gates-of-hell-the-devils-towers.json) |
 | Voidwell | 384040 | [384040-voidwell.json](./384040-voidwell.json) |
 | Voidwood | 413180 | [413180-voidwood.json](./413180-voidwood.json) |
-| Voidwrought | 288487 | [288487-voidwrought.json](./288487-voidwrought.json) |
 | Voidzone | 384034 | [384034-voidzone.json](./384034-voidzone.json) |
 | Voima | 345410 | [345410-voima.json](./345410-voima.json) |
 | Voipas | 115556 | [115556-voipas.json](./115556-voipas.json) |
@@ -3572,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VPet: Pancake Cat Skin package | 294798 | [294798-vpet-pancake-cat-skin-package.json](./294798-vpet-pancake-cat-skin-package.json) |
 | VPetlings | 395580 | [395580-vpetlings.json](./395580-vpetlings.json) |
 | VPN Simulator | 371306 | [371306-vpn-simulator.json](./371306-vpn-simulator.json) |
+| Vquarium | 404608 | [404608-vquarium.json](./404608-vquarium.json) |
 | VR - Talk to her | 104475 | [104475-vr-talk-to-her.json](./104475-vr-talk-to-her.json) |
 | VR Adventure (Virtual Reality for mobile devices) | 68485 | [68485-vr-adventure-virtual-reality-for-mobile-devices.json](./68485-vr-adventure-virtual-reality-for-mobile-devices.json) |
 | VR Agent | 288069 | [288069-vr-agent.json](./288069-vr-agent.json) |
@@ -3900,6 +3903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRtender | 28655 | [28655-vrtender.json](./28655-vrtender.json) |
 | Vrtillery | 179486 | [179486-vrtillery.json](./179486-vrtillery.json) |
 | VRun | 36984 | [36984-vrun.json](./36984-vrun.json) |
+| Vrun Corrupt The World | 404631 | [404631-vrun-corrupt-the-world.json](./404631-vrun-corrupt-the-world.json) |
 | VrUs | 179372 | [179372-vrus.json](./179372-vrus.json) |
 | VRZ Torment | 32503 | [32503-vrz-torment.json](./32503-vrz-torment.json) |
 | Vs Block Breaker | 64457 | [64457-vs-block-breaker.json](./64457-vs-block-breaker.json) |
