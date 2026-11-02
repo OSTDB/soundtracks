@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Quest Simulator | 315906 | [315906-offroad-quest-simulator.json](./315906-offroad-quest-simulator.json) |
 | Offroad Racing | 125843 | [125843-offroad-racing.json](./125843-offroad-racing.json) |
 | Offroad Racing | 221416 | [221416-offroad-racing.json](./221416-offroad-racing.json) |
+| Offroad Racing League | 402058 | [402058-offroad-racing-league.json](./402058-offroad-racing-league.json) |
 | Offroad Racing on Line | 172161 | [172161-offroad-racing-on-line.json](./172161-offroad-racing-on-line.json) |
 | Offroad Rally Racing | 382163 | [382163-offroad-rally-racing.json](./382163-offroad-rally-racing.json) |
 | Offroad Scientist | 58079 | [58079-offroad-scientist.json](./58079-offroad-scientist.json) |
@@ -3183,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Up Shut Up | 74805 | [74805-open-up-shut-up.json](./74805-open-up-shut-up.json) |
 | Open Up, Michael! | 414403 | [414403-open-up-michael.json](./414403-open-up-michael.json) |
 | Open Up! | 220559 | [220559-open-up.json](./220559-open-up.json) |
+| Open Waters | 402069 | [402069-open-waters.json](./402069-open-waters.json) |
 | Open Wheel Manager | 117611 | [117611-open-wheel-manager.json](./117611-open-wheel-manager.json) |
 | Open Wheel Manager 2 | 244433 | [244433-open-wheel-manager-2.json](./244433-open-wheel-manager-2.json) |
 | Open World Foreva | 152772 | [152772-open-world-foreva.json](./152772-open-world-foreva.json) |
