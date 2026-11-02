@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yatzi 2 | 364082 | [364082-yatzi-2.json](./364082-yatzi-2.json) |
 | Yatzy | 298957 | [298957-yatzy.json](./298957-yatzy.json) |
 | Yatzy | 354396 | [354396-yatzy.json](./354396-yatzy.json) |
+| Yatzy | 75646 | [75646-yatzy.json](./75646-yatzy.json) |
 | Yatzy | 91197 | [91197-yatzy.json](./91197-yatzy.json) |
 | Yatzy Addict+ | 252137 | [252137-yatzy-addict.json](./252137-yatzy-addict.json) |
 | Yatzy Classic | 105836 | [105836-yatzy-classic.json](./105836-yatzy-classic.json) |
