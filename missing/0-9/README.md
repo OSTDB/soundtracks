@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0 World TD | 215529 | [215529-0-world-td.json](./215529-0-world-td.json) |
 | 0_abyssalSomewhere | 125639 | [125639-0-abyssalsomewhere.json](./125639-0-abyssalsomewhere.json) |
 | 0-ji no Kane to Cinderella: Halloween Wedding | 56549 | [56549-0-ji-no-kane-to-cinderella-halloween-wedding.json](./56549-0-ji-no-kane-to-cinderella-halloween-wedding.json) |
+| 0°N 0°W | 55486 | [55486-0-n-0-w.json](./55486-0-n-0-w.json) |
 | 0000 | 34228 | [34228-0000.json](./34228-0000.json) |
 | 000000052573743 | 216229 | [216229-000000052573743.json](./216229-000000052573743.json) |
 | 005 | 38521 | [38521-005.json](./38521-005.json) |
@@ -3119,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8AM: The Warehouse | 375238 | [375238-8am-the-warehouse.json](./375238-8am-the-warehouse.json) |
 | 8BallAllstars | 55079 | [55079-8ballallstars.json](./55079-8ballallstars.json) |
 | 8bit Doves | 262348 | [262348-8bit-doves.json](./262348-8bit-doves.json) |
+| 8Bit Fiesta | 24822 | [24822-8bit-fiesta.json](./24822-8bit-fiesta.json) |
 | 8Bit Fiesta: Game Pack 1 | 167670 | [167670-8bit-fiesta-game-pack-1.json](./167670-8bit-fiesta-game-pack-1.json) |
 | 8Bit Fiesta: Game Pack 2 | 167671 | [167671-8bit-fiesta-game-pack-2.json](./167671-8bit-fiesta-game-pack-2.json) |
 | 8Bit Hero | 84683 | [84683-8bit-hero.json](./84683-8bit-hero.json) |
