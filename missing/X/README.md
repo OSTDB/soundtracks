@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xyphoes Fantasy | 10854 | [10854-xyphoes-fantasy.json](./10854-xyphoes-fantasy.json) |
 | Xyphr | 71812 | [71812-xyphr.json](./71812-xyphr.json) |
 | Xyz Crossing | 214149 | [214149-xyz-crossing.json](./214149-xyz-crossing.json) |
+| XYZ Toy | 400381 | [400381-xyz-toy.json](./400381-xyz-toy.json) |
 | Xyzolog | 41766 | [41766-xyzolog.json](./41766-xyzolog.json) |
 | Xyzygy | 184075 | [184075-xyzygy.json](./184075-xyzygy.json) |
 | XZ: XL | 102291 | [102291-xz-xl.json](./102291-xz-xl.json) |
