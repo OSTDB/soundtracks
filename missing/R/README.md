@@ -6300,6 +6300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rex Verbi | 174318 | [174318-rex-verbi.json](./174318-rex-verbi.json) |
 | Rex: Another Island | 55295 | [55295-rex-another-island.json](./55295-rex-another-island.json) |
 | Rex! Your Interactive Pet Dinosaur | 313491 | [313491-rex-your-interactive-pet-dinosaur.json](./313491-rex-your-interactive-pet-dinosaur.json) |
+| Rexaura | 127891 | [127891-rexaura.json](./127891-rexaura.json) |
 | Rexodus: A VR Story Experience | 32665 | [32665-rexodus-a-vr-story-experience.json](./32665-rexodus-a-vr-story-experience.json) |
 | reYal | 118640 | [118640-reyal.json](./118640-reyal.json) |
 | Reyher Austerich’s Garden Worlds Adventure | 357810 | [357810-reyher-austerich-s-garden-worlds-adventure.json](./357810-reyher-austerich-s-garden-worlds-adventure.json) |
@@ -7089,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RimWorld: Console Edition - Ideology | 312014 | [312014-rimworld-console-edition-ideology.json](./312014-rimworld-console-edition-ideology.json) |
 | RimWorld: Odyssey | 349256 | [349256-rimworld-odyssey.json](./349256-rimworld-odyssey.json) |
 | RimWorld: P-Music | 370333 | [370333-rimworld-p-music.json](./370333-rimworld-p-music.json) |
+| RimWorld: Royalty | 131676 | [131676-rimworld-royalty.json](./131676-rimworld-royalty.json) |
 | Rin ga Utau, Mirai no Neiro | 228351 | [228351-rin-ga-utau-mirai-no-neiro.json](./228351-rin-ga-utau-mirai-no-neiro.json) |
 | Rin Kaihou Kudan no Igo Daidou | 37868 | [37868-rin-kaihou-kudan-no-igo-daidou.json](./37868-rin-kaihou-kudan-no-igo-daidou.json) |
 | Rin the Tamarin | 58542 | [58542-rin-the-tamarin.json](./58542-rin-the-tamarin.json) |
@@ -8906,6 +8908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Wrestling Entertainment | 353290 | [353290-rocket-wrestling-entertainment.json](./353290-rocket-wrestling-entertainment.json) |
 | Rocket Zap | 216125 | [216125-rocket-zap.json](./216125-rocket-zap.json) |
 | Rocket-Man | 377774 | [377774-rocket-man.json](./377774-rocket-man.json) |
+| Rocket: Robot on Wheels | 2644 | [2644-rocket-robot-on-wheels.json](./2644-rocket-robot-on-wheels.json) |
 | Rocket1994 | 411352 | [411352-rocket1994.json](./411352-rocket1994.json) |
 | Rocketball | 47184 | [47184-rocketball.json](./47184-rocketball.json) |
 | Rocketball: Championship Cup | 175706 | [175706-rocketball-championship-cup.json](./175706-rocketball-championship-cup.json) |
