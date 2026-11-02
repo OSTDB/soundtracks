@@ -5592,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Mode | 8949 | [8949-god-mode.json](./8949-god-mode.json) |
 | God of Arrows | 57190 | [57190-god-of-arrows.json](./57190-god-of-arrows.json) |
 | God of Attack VIP | 95864 | [95864-god-of-attack-vip.json](./95864-god-of-attack-vip.json) |
+| God of Bath | 402752 | [402752-god-of-bath.json](./402752-god-of-bath.json) |
 | God of Battle | 102580 | [102580-god-of-battle.json](./102580-god-of-battle.json) |
 | God of Blades | 25045 | [25045-god-of-blades.json](./25045-god-of-blades.json) |
 | God of Chaos | 408920 | [408920-god-of-chaos.json](./408920-god-of-chaos.json) |
@@ -8695,6 +8696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridlink | 317079 | [317079-gridlink.json](./317079-gridlink.json) |
 | Gridlock | 185555 | [185555-gridlock.json](./185555-gridlock.json) |
 | Gridlock | 356703 | [356703-gridlock.json](./356703-gridlock.json) |
+| Gridlock | 402664 | [402664-gridlock.json](./402664-gridlock.json) |
 | Gridlock Dungeon | 297221 | [297221-gridlock-dungeon.json](./297221-gridlock-dungeon.json) |
 | Gridlock Gladiators | 264675 | [264675-gridlock-gladiators.json](./264675-gridlock-gladiators.json) |
 | Gridlocke | 236791 | [236791-gridlocke.json](./236791-gridlocke.json) |
