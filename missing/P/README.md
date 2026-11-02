@@ -1666,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PapiDrive | 88821 | [88821-papidrive.json](./88821-papidrive.json) |
 | Papier Julien | 337711 | [337711-papier-julien.json](./337711-papier-julien.json) |
 | PapiFlap | 87249 | [87249-papiflap.json](./87249-papiflap.json) |
+| PapiHop | 87388 | [87388-papihop.json](./87388-papihop.json) |
 | PapiJump | 72701 | [72701-papijump.json](./72701-papijump.json) |
 | Papilio | 195015 | [195015-papilio.json](./195015-papilio.json) |
 | PapiMirror | 87231 | [87231-papimirror.json](./87231-papimirror.json) |
@@ -4503,6 +4504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet idle | 189005 | [189005-pet-idle.json](./189005-pet-idle.json) |
 | Pet in TV | 85916 | [85916-pet-in-tv.json](./85916-pet-in-tv.json) |
 | Pet Inn 3D | 85341 | [85341-pet-inn-3d.json](./85341-pet-inn-3d.json) |
+| Pet Island: Build a cute pet shop! | 87391 | [87391-pet-island-build-a-cute-pet-shop.json](./87391-pet-island-build-a-cute-pet-shop.json) |
 | Pet Kawaii Shop | 317211 | [317211-pet-kawaii-shop.json](./317211-pet-kawaii-shop.json) |
 | Pet Knight into cave | 161262 | [161262-pet-knight-into-cave.json](./161262-pet-knight-into-cave.json) |
 | Pet Luv Spa and Resort Tycoon | 254594 | [254594-pet-luv-spa-and-resort-tycoon.json](./254594-pet-luv-spa-and-resort-tycoon.json) |
@@ -9409,6 +9411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plucked Up | 385426 | [385426-plucked-up.json](./385426-plucked-up.json) |
 | Plug & Play | 18239 | [18239-plug-and-play.json](./18239-plug-and-play.json) |
 | Plug and Play Sudoku | 263432 | [263432-plug-and-play-sudoku.json](./263432-plug-and-play-sudoku.json) |
+| Plug for Terraria | 87343 | [87343-plug-for-terraria.json](./87343-plug-for-terraria.json) |
 | Plug It In | 288232 | [288232-plug-it-in.json](./288232-plug-it-in.json) |
 | Plug Wars: The Game | 148476 | [148476-plug-wars-the-game.json](./148476-plug-wars-the-game.json) |
 | Plug-in PET | 352783 | [352783-plug-in-pet.json](./352783-plug-in-pet.json) |
@@ -15587,6 +15590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proud Dinosaurs | 109540 | [109540-proud-dinosaurs.json](./109540-proud-dinosaurs.json) |
 | Proud To Love | 385052 | [385052-proud-to-love.json](./385052-proud-to-love.json) |
 | Proun | 80558 | [80558-proun.json](./80558-proun.json) |
+| Proun+ | 85586 | [85586-proun.json](./85586-proun.json) |
 | Proun+ A Journey Through Modern Art | 246968 | [246968-proun-a-journey-through-modern-art.json](./246968-proun-a-journey-through-modern-art.json) |
 | Prove It and Move It | 312717 | [312717-prove-it-and-move-it.json](./312717-prove-it-and-move-it.json) |
 | Prove You Can Win | 341441 | [341441-prove-you-can-win.json](./341441-prove-you-can-win.json) |
@@ -16443,6 +16447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Bowl VR | 146674 | [146674-pure-bowl-vr.json](./146674-pure-bowl-vr.json) |
 | Pure Chaotix | 326817 | [326817-pure-chaotix.json](./326817-pure-chaotix.json) |
 | Pure Chase 80's | 187094 | [187094-pure-chase-80s.json](./187094-pure-chase-80s.json) |
+| Pure Chess | 85585 | [85585-pure-chess.json](./85585-pure-chess.json) |
 | Pure Chess: Grandmaster Edition | 82428 | [82428-pure-chess-grandmaster-edition.json](./82428-pure-chess-grandmaster-edition.json) |
 | Pure Crosswords | 199889 | [199889-pure-crosswords.json](./199889-pure-crosswords.json) |
 | Pure Domino | 392016 | [392016-pure-domino.json](./392016-pure-domino.json) |
