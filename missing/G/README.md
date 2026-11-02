@@ -3624,6 +3624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Punishment | 121590 | [121590-ghost-punishment.json](./121590-ghost-punishment.json) |
 | Ghost Pursuit VR | 31977 | [31977-ghost-pursuit-vr.json](./31977-ghost-pursuit-vr.json) |
 | Ghost Racer | 174212 | [174212-ghost-racer.json](./174212-ghost-racer.json) |
+| Ghost Racer | 426440 | [426440-ghost-racer.json](./426440-ghost-racer.json) |
 | Ghost Racing: Formula E | 130324 | [130324-ghost-racing-formula-e.json](./130324-ghost-racing-formula-e.json) |
 | Ghost Reaper | 235603 | [235603-ghost-reaper.json](./235603-ghost-reaper.json) |
 | Ghost Rebel | 102039 | [102039-ghost-rebel.json](./102039-ghost-rebel.json) |
@@ -7595,6 +7596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandpa: The Horror Game | 99307 | [99307-grandpa-the-horror-game.json](./99307-grandpa-the-horror-game.json) |
 | Grandpa's Cheese | 200532 | [200532-grandpas-cheese.json](./200532-grandpas-cheese.json) |
 | Grandpa's House | 257900 | [257900-grandpas-house.json](./257900-grandpas-house.json) |
+| Grandpa's House | 426416 | [426416-grandpas-house.json](./426416-grandpas-house.json) |
 | Grandpa's Workshop | 68925 | [68925-grandpas-workshop.json](./68925-grandpas-workshop.json) |
 | GrandPaper | 322676 | [322676-grandpaper.json](./322676-grandpaper.json) |
 | Grandpurrents | 149469 | [149469-grandpurrents.json](./149469-grandpurrents.json) |
