@@ -2407,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Turbo's Arcade: Wizard Fire | 103557 | [103557-johnny-turbos-arcade-wizard-fire.json](./103557-johnny-turbos-arcade-wizard-fire.json) |
 | Johnny Upgrade | 286642 | [286642-johnny-upgrade.json](./286642-johnny-upgrade.json) |
 | Johnny's Minefield | 77049 | [77049-johnnys-minefield.json](./77049-johnnys-minefield.json) |
+| Johnny's Payday Panic | 59480 | [59480-johnnys-payday-panic.json](./59480-johnnys-payday-panic.json) |
 | Johns.Game | 90482 | [90482-johns-game.json](./90482-johns-game.json) |
 | Johny Explorer | 231358 | [231358-johny-explorer.json](./231358-johny-explorer.json) |
 | Johny Vayna | 251148 | [251148-johny-vayna.json](./251148-johny-vayna.json) |
