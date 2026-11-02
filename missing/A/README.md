@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lab of One's Own | 177848 | [177848-a-lab-of-ones-own.json](./177848-a-lab-of-ones-own.json) |
 | A Labyrinth Game / Supermind | 92166 | [92166-a-labyrinth-game-supermind.json](./92166-a-labyrinth-game-supermind.json) |
 | A Lakeside Walk in the Dolomites | 341085 | [341085-a-lakeside-walk-in-the-dolomites.json](./341085-a-lakeside-walk-in-the-dolomites.json) |
+| A Land Fit For Heroes | 22441 | [22441-a-land-fit-for-heroes.json](./22441-a-land-fit-for-heroes.json) |
 | A Large Quantity of Mushrooms | 31605 | [31605-a-large-quantity-of-mushrooms.json](./31605-a-large-quantity-of-mushrooms.json) |
 | A Last Will and Testament | 203869 | [203869-a-last-will-and-testament.json](./203869-a-last-will-and-testament.json) |
 | A Lazy Magic Teacher | 286779 | [286779-a-lazy-magic-teacher.json](./286779-a-lazy-magic-teacher.json) |
@@ -1112,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Space for the Unbound | 110039 | [110039-a-space-for-the-unbound.json](./110039-a-space-for-the-unbound.json) |
 | A Space for the Unbound: Special Edition | 283586 | [283586-a-space-for-the-unbound-special-edition.json](./283586-a-space-for-the-unbound-special-edition.json) |
 | A Space Odyssey | 189289 | [189289-a-space-odyssey.json](./189289-a-space-odyssey.json) |
+| A Space Shooter for 2 Bucks! | 21173 | [21173-a-space-shooter-for-2-bucks.json](./21173-a-space-shooter-for-2-bucks.json) |
 | A Spaceman Came Travelling | 177444 | [177444-a-spaceman-came-travelling.json](./177444-a-spaceman-came-travelling.json) |
 | A Spaceship Accident | 372446 | [372446-a-spaceship-accident.json](./372446-a-spaceship-accident.json) |
 | A Special Place In Hell | 249066 | [249066-a-special-place-in-hell.json](./249066-a-special-place-in-hell.json) |
@@ -1396,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Witch's Word | 123280 | [123280-a-witchs-word.json](./123280-a-witchs-word.json) |
 | A Wizard's Curse | 416855 | [416855-a-wizards-curse.json](./416855-a-wizards-curse.json) |
 | A Wizard's Lizard | 11232 | [11232-a-wizards-lizard.json](./11232-a-wizards-lizard.json) |
+| A Wizard's Lizard: Soul Thief | 22376 | [22376-a-wizards-lizard-soul-thief.json](./22376-a-wizards-lizard-soul-thief.json) |
 | A Wizard's Odyssey | 68651 | [68651-a-wizards-odyssey.json](./68651-a-wizards-odyssey.json) |
 | A Wizardry Enchantment | 284175 | [284175-a-wizardry-enchantment.json](./284175-a-wizardry-enchantment.json) |
 | A Wolf In Sheep's Clothing | 281590 | [281590-a-wolf-in-sheeps-clothing.json](./281590-a-wolf-in-sheeps-clothing.json) |
@@ -9516,6 +9519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animated Jigsaws Collection | 119512 | [119512-animated-jigsaws-collection.json](./119512-animated-jigsaws-collection.json) |
 | Animated Jigsaws: Japanese Women | 110734 | [110734-animated-jigsaws-japanese-women.json](./110734-animated-jigsaws-japanese-women.json) |
 | Animated Jigsaws: Wild Animals | 114205 | [114205-animated-jigsaws-wild-animals.json](./114205-animated-jigsaws-wild-animals.json) |
+| Animated Puzzles | 22396 | [22396-animated-puzzles.json](./22396-animated-puzzles.json) |
 | Animated Puzzles: Spooky Pack | 163420 | [163420-animated-puzzles-spooky-pack.json](./163420-animated-puzzles-spooky-pack.json) |
 | Animated StoryBook: Winnie the Pooh and the Honey Tree | 342669 | [342669-animated-storybook-winnie-the-pooh-and-the-honey-tree.json](./342669-animated-storybook-winnie-the-pooh-and-the-honey-tree.json) |
 | AniMates | 93977 | [93977-animates.json](./93977-animates.json) |
@@ -10842,6 +10846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalyptic Slant | 192754 | [192754-apocalyptic-slant.json](./192754-apocalyptic-slant.json) |
 | Apocalyptic Vibes | 189189 | [189189-apocalyptic-vibes.json](./189189-apocalyptic-vibes.json) |
 | Apocalyptic World | 155976 | [155976-apocalyptic-world.json](./155976-apocalyptic-world.json) |
+| Apocalyptica | 22278 | [22278-apocalyptica.json](./22278-apocalyptica.json) |
 | Apocalyptica | 377103 | [377103-apocalyptica.json](./377103-apocalyptica.json) |
 | ApocaShift | 346614 | [346614-apocashift.json](./346614-apocashift.json) |
 | Apoclone | 363427 | [363427-apoclone.json](./363427-apoclone.json) |
@@ -10961,6 +10966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Hopper | 158526 | [158526-apple-hopper.json](./158526-apple-hopper.json) |
 | Apple Jack | 91905 | [91905-apple-jack.json](./91905-apple-jack.json) |
 | Apple Jack 1&2 | 35716 | [35716-apple-jack-1-and-2.json](./35716-apple-jack-1-and-2.json) |
+| Apple Jack 2 | 22268 | [22268-apple-jack-2.json](./22268-apple-jack-2.json) |
 | Apple Knight | 127033 | [127033-apple-knight.json](./127033-apple-knight.json) |
 | Apple Knight 2 | 249682 | [249682-apple-knight-2.json](./249682-apple-knight-2.json) |
 | Apple Man | 333670 | [333670-apple-man.json](./333670-apple-man.json) |
@@ -13369,6 +13375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ars Vox Arcana | 339941 | [339941-ars-vox-arcana.json](./339941-ars-vox-arcana.json) |
 | ArsDoom | 180260 | [180260-arsdoom.json](./180260-arsdoom.json) |
 | Arsenal | 188635 | [188635-arsenal.json](./188635-arsenal.json) |
+| Arsenal Club Football | 22246 | [22246-arsenal-club-football.json](./22246-arsenal-club-football.json) |
 | Arsenal of Democracy | 2009 | [2009-arsenal-of-democracy.json](./2009-arsenal-of-democracy.json) |
 | Arsenal Online | 273361 | [273361-arsenal-online.json](./273361-arsenal-online.json) |
 | Arsenal Shock | 197114 | [197114-arsenal-shock.json](./197114-arsenal-shock.json) |
@@ -15995,6 +16002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audition Online | 9555 | [9555-audition-online.json](./9555-audition-online.json) |
 | Audition Portable | 56520 | [56520-audition-portable.json](./56520-audition-portable.json) |
 | Auditorium | 15282 | [15282-auditorium.json](./15282-auditorium.json) |
+| Auditorium HD | 21176 | [21176-auditorium-hd.json](./21176-auditorium-hd.json) |
 | Audo | 181348 | [181348-audo.json](./181348-audo.json) |
 | Audrey & Alexis | 100816 | [100816-audrey-and-alexis.json](./100816-audrey-and-alexis.json) |
 | Audsdg | 254011 | [254011-audsdg.json](./254011-audsdg.json) |
