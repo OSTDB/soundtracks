@@ -2788,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazard Level | 177007 | [177007-hazard-level.json](./177007-hazard-level.json) |
 | Hazard Ops | 138066 | [138066-hazard-ops.json](./138066-hazard-ops.json) |
 | Hazard Pay | 291764 | [291764-hazard-pay.json](./291764-hazard-pay.json) |
+| Hazard Prone | 414053 | [414053-hazard-prone.json](./414053-hazard-prone.json) |
 | Hazard Protocol | 280335 | [280335-hazard-protocol.json](./280335-hazard-protocol.json) |
 | Hazard Run | 25805 | [25805-hazard-run.json](./25805-hazard-run.json) |
 | Hazard Versus | 353393 | [353393-hazard-versus.json](./353393-hazard-versus.json) |
@@ -11824,6 +11825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperDrive X | 409241 | [409241-hyperdrive-x.json](./409241-hyperdrive-x.json) |
 | Hyperdrome | 125330 | [125330-hyperdrome.json](./125330-hyperdrome.json) |
 | Hyperdrome | 237001 | [237001-hyperdrome.json](./237001-hyperdrome.json) |
+| Hyperdrop | 414062 | [414062-hyperdrop.json](./414062-hyperdrop.json) |
 | HyperFantasy Mimesis | 302894 | [302894-hyperfantasy-mimesis.json](./302894-hyperfantasy-mimesis.json) |
 | HyperFatal | 303553 | [303553-hyperfatal.json](./303553-hyperfatal.json) |
 | HyperFeat | 152761 | [152761-hyperfeat.json](./152761-hyperfeat.json) |
