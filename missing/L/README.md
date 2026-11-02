@@ -3674,6 +3674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Skies II | 24103 | [24103-lethal-skies-ii.json](./24103-lethal-skies-ii.json) |
 | Lethal Tempting Girls | 130569 | [130569-lethal-tempting-girls.json](./130569-lethal-tempting-girls.json) |
 | Lethal Tender | 84329 | [84329-lethal-tender.json](./84329-lethal-tender.json) |
+| Lethal VR | 25743 | [25743-lethal-vr.json](./25743-lethal-vr.json) |
 | Lethal Weapon | 306176 | [306176-lethal-weapon.json](./306176-lethal-weapon.json) |
 | Lethal Weapon | 306179 | [306179-lethal-weapon.json](./306179-lethal-weapon.json) |
 | Lethal Weapon | 306182 | [306182-lethal-weapon.json](./306182-lethal-weapon.json) |
@@ -8636,6 +8637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LuckLand | 260423 | [260423-luckland.json](./260423-luckland.json) |
 | Luckless Seven | 9758 | [9758-luckless-seven.json](./9758-luckless-seven.json) |
 | Luckrot | 351706 | [351706-luckrot.json](./351706-luckrot.json) |
+| Luckslinger | 24595 | [24595-luckslinger.json](./24595-luckslinger.json) |
 | Lucky | 67070 | [67070-lucky.json](./67070-lucky.json) |
 | Lucky 21 | 241337 | [241337-lucky-21.json](./241337-lucky-21.json) |
 | Lucky Bastard | 261091 | [261091-lucky-bastard.json](./261091-lucky-bastard.json) |
