@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naser: Son of Man | 138240 | [138240-naser-son-of-man.json](./138240-naser-son-of-man.json) |
 | Nash Racing 2: Muscle cars | 68598 | [68598-nash-racing-2-muscle-cars.json](./68598-nash-racing-2-muscle-cars.json) |
 | Nash Racing 3: Drifter | 212044 | [212044-nash-racing-3-drifter.json](./212044-nash-racing-3-drifter.json) |
+| Nash Racing Pursuit 2 | 409606 | [409606-nash-racing-pursuit-2.json](./409606-nash-racing-pursuit-2.json) |
 | Nash Racing: 70 Seconds Left | 367163 | [367163-nash-racing-70-seconds-left.json](./367163-nash-racing-70-seconds-left.json) |
 | Nash Racing: Battle | 294069 | [294069-nash-racing-battle.json](./294069-nash-racing-battle.json) |
 | NashBored | 113449 | [113449-nashbored.json](./113449-nashbored.json) |
@@ -3326,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newbery Winners: Bridge to Terabithia | 339677 | [339677-newbery-winners-bridge-to-terabithia.json](./339677-newbery-winners-bridge-to-terabithia.json) |
 | Newbie Kaizo World | 268348 | [268348-newbie-kaizo-world.json](./268348-newbie-kaizo-world.json) |
 | Newbie Life | 262384 | [262384-newbie-life.json](./262384-newbie-life.json) |
+| Newbie: Become a Skateboarder | 410001 | [410001-newbie-become-a-skateboarder.json](./410001-newbie-become-a-skateboarder.json) |
 | Newcastle United Club Football 2005 | 267896 | [267896-newcastle-united-club-football-2005.json](./267896-newcastle-united-club-football-2005.json) |
 | NewCity | 137816 | [137816-newcity.json](./137816-newcity.json) |
 | NewCity | 274427 | [274427-newcity.json](./274427-newcity.json) |
@@ -5329,6 +5331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Anglerfish | 195104 | [195104-no-anglerfish.json](./195104-no-anglerfish.json) |
 | No Arm | 360010 | [360010-no-arm.json](./360010-no-arm.json) |
 | No Backup | 401178 | [401178-no-backup.json](./401178-no-backup.json) |
+| No Beer Left Behind! | 408403 | [408403-no-beer-left-behind.json](./408403-no-beer-left-behind.json) |
 | No Blink Allowed | 400560 | [400560-no-blink-allowed.json](./400560-no-blink-allowed.json) |
 | No Blood, No Fowl | 314906 | [314906-no-blood-no-fowl.json](./314906-no-blood-no-fowl.json) |
 | No Body | 211674 | [211674-no-body.json](./211674-no-body.json) |
@@ -7029,6 +7032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NukiTashi | 201846 | [201846-nukitashi.json](./201846-nukitashi.json) |
 | Nukitashi 2 | 207209 | [207209-nukitashi-2.json](./207209-nukitashi-2.json) |
 | Nuklear Klone | 279805 | [279805-nuklear-klone.json](./279805-nuklear-klone.json) |
+| Nuko | 410612 | [410612-nuko.json](./410612-nuko.json) |
 | Nulandia | 304718 | [304718-nulandia.json](./304718-nulandia.json) |
 | Null | 245655 | [245655-null.json](./245655-null.json) |
 | Null | 279802 | [279802-null.json](./279802-null.json) |
