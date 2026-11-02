@@ -3510,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Fleet | 185922 | [185922-infinite-fleet.json](./185922-infinite-fleet.json) |
 | Infinite Flight Checklist | 106909 | [106909-infinite-flight-checklist.json](./106909-infinite-flight-checklist.json) |
 | Infinite Forest Idle | 277433 | [277433-infinite-forest-idle.json](./277433-infinite-forest-idle.json) |
+| Infinite Frontier Super Robot Wars OG Saga | 85627 | [85627-infinite-frontier-super-robot-wars-og-saga.json](./85627-infinite-frontier-super-robot-wars-og-saga.json) |
 | Infinite Galaxy | 144543 | [144543-infinite-galaxy.json](./144543-infinite-galaxy.json) |
 | Infinite Game Cartridge Collection: Dungeon Grove | 385420 | [385420-infinite-game-cartridge-collection-dungeon-grove.json](./385420-infinite-game-cartridge-collection-dungeon-grove.json) |
 | Infinite Game Works Episode 0 | 36316 | [36316-infinite-game-works-episode-0.json](./36316-infinite-game-works-episode-0.json) |
