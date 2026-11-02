@@ -1333,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1st&Goal | 175582 | [175582-1st-and-goal.json](./175582-1st-and-goal.json) |
 | 1v1 Arcade Soccer | 58469 | [58469-1v1-arcade-soccer.json](./58469-1v1-arcade-soccer.json) |
 | 1v1 Cube Game | 135143 | [135143-1v1-cube-game.json](./135143-1v1-cube-game.json) |
+| 1v1.LOL | 130457 | [130457-1v1-lol.json](./130457-1v1-lol.json) |
 | 1vs1: Battle Royale for the throne | 116226 | [116226-1vs1-battle-royale-for-the-throne.json](./116226-1vs1-battle-royale-for-the-throne.json) |
 | 1Week | 235880 | [235880-1week.json](./235880-1week.json) |
 | 1x! Space Adventure | 169847 | [169847-1x-space-adventure.json](./169847-1x-space-adventure.json) |
