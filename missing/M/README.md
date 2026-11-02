@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M*A*S*H: The Adventure Game | 327234 | [327234-m-a-s-h-the-adventure-game.json](./327234-m-a-s-h-the-adventure-game.json) |
 | M&M's Beach Party | 50703 | [50703-m-and-ms-beach-party.json](./50703-m-and-ms-beach-party.json) |
 | M&M's Blast! | 49330 | [49330-m-and-ms-blast.json](./49330-m-and-ms-blast.json) |
+| M&M's Kart Racing | 3296 | [3296-m-and-ms-kart-racing.json](./3296-m-and-ms-kart-racing.json) |
 | M&M's Kart Racing | 47923 | [47923-m-and-ms-kart-racing.json](./47923-m-and-ms-kart-racing.json) |
 | M&M's Minis Madness | 49918 | [49918-m-and-ms-minis-madness.json](./49918-m-and-ms-minis-madness.json) |
 | M&M's Shell Shocked | 44749 | [44749-m-and-ms-shell-shocked.json](./44749-m-and-ms-shell-shocked.json) |
@@ -466,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaDD Bomber | 91545 | [91545-madd-bomber.json](./91545-madd-bomber.json) |
 | Madden 95 | 198807 | [198807-madden-95.json](./198807-madden-95.json) |
 | Madden Football | 131420 | [131420-madden-football.json](./131420-madden-football.json) |
+| Madden Football 64 | 3536 | [3536-madden-football-64.json](./3536-madden-football-64.json) |
 | Madden genesis | 178024 | [178024-madden-genesis.json](./178024-madden-genesis.json) |
 | Madden NFL '95 | 282501 | [282501-madden-nfl-95.json](./282501-madden-nfl-95.json) |
 | Madden NFL 06 | 243002 | [243002-madden-nfl-06.json](./243002-madden-nfl-06.json) |
@@ -5538,6 +5540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9944,9 +9947,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator 4.0 | 3356 | [3356-microsoft-flight-simulator-4-0.json](./3356-microsoft-flight-simulator-4-0.json) |
 | Microsoft Flight Simulator 4.0: Aircraft & Scenery Designer | 84204 | [84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json](./84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json) |
 | Microsoft Flight Simulator 4.0: Sound, Graphics & Aircraft Upgrade | 79497 | [79497-microsoft-flight-simulator-4-0-sound-graphics-and-aircraft-upgrade.json](./79497-microsoft-flight-simulator-4-0-sound-graphics-and-aircraft-upgrade.json) |
+| Microsoft Flight Simulator 5.0 | 3357 | [3357-microsoft-flight-simulator-5-0.json](./3357-microsoft-flight-simulator-5-0.json) |
 | Microsoft Flight Simulator 5.1 | 3358 | [3358-microsoft-flight-simulator-5-1.json](./3358-microsoft-flight-simulator-5-1.json) |
 | Microsoft Flight Simulator 5.1: Scenery Pack | 209452 | [209452-microsoft-flight-simulator-5-1-scenery-pack.json](./209452-microsoft-flight-simulator-5-1-scenery-pack.json) |
 | Microsoft Flight Simulator 5.1: The Virtual Squadron | 141224 | [141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json](./141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json) |
+| Microsoft Flight Simulator 98 | 3360 | [3360-microsoft-flight-simulator-98.json](./3360-microsoft-flight-simulator-98.json) |
 | Microsoft Flight Simulator for Windows 95 | 3359 | [3359-microsoft-flight-simulator-for-windows-95.json](./3359-microsoft-flight-simulator-for-windows-95.json) |
 | Microsoft Flight Simulator X | 301 | [301-microsoft-flight-simulator-x.json](./301-microsoft-flight-simulator-x.json) |
 | Microsoft Flight Simulator X: Acceleration | 713 | [713-microsoft-flight-simulator-x-acceleration.json](./713-microsoft-flight-simulator-x-acceleration.json) |
@@ -14179,6 +14184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey King Simulator: Chapter Huaguo Mountain | 390553 | [390553-monkey-king-simulator-chapter-huaguo-mountain.json](./390553-monkey-king-simulator-chapter-huaguo-mountain.json) |
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
 | Monkey King: Five Elements Survival | 344891 | [344891-monkey-king-five-elements-survival.json](./344891-monkey-king-five-elements-survival.json) |
+| Monkey King: Hero Is Back | 52186 | [52186-monkey-king-hero-is-back.json](./52186-monkey-king-hero-is-back.json) |
 | Monkey King: Hero Is Back - Mind Palace | 170859 | [170859-monkey-king-hero-is-back-mind-palace.json](./170859-monkey-king-hero-is-back-mind-palace.json) |
 | Monkey King: Hero Is Back - Uproar In Heaven | 170743 | [170743-monkey-king-hero-is-back-uproar-in-heaven.json](./170743-monkey-king-hero-is-back-uproar-in-heaven.json) |
 | Monkey King: Master of the Clouds | 103248 | [103248-monkey-king-master-of-the-clouds.json](./103248-monkey-king-master-of-the-clouds.json) |
