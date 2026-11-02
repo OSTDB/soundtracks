@@ -2690,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneShot: The Tarion Machine | 222764 | [222764-oneshot-the-tarion-machine.json](./222764-oneshot-the-tarion-machine.json) |
 | OneShot: World Machine Edition | 200905 | [200905-oneshot-world-machine-edition.json](./200905-oneshot-world-machine-edition.json) |
 | Onesimus: A Quest for Freedom | 68971 | [68971-onesimus-a-quest-for-freedom.json](./68971-onesimus-a-quest-for-freedom.json) |
+| OneStarHotel | 404630 | [404630-onestarhotel.json](./404630-onestarhotel.json) |
 | Onet 3D | 231921 | [231921-onet-3d.json](./231921-onet-3d.json) |
 | OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
 | Oneteam Soccer | 153358 | [153358-oneteam-soccer.json](./153358-oneteam-soccer.json) |
@@ -3670,6 +3671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbitmine | 398502 | [398502-orbitmine.json](./398502-orbitmine.json) |
 | Orbitor | 36074 | [36074-orbitor.json](./36074-orbitor.json) |
 | Orbitous | 362383 | [362383-orbitous.json](./362383-orbitous.json) |
+| OrbiTower | 404603 | [404603-orbitower.json](./404603-orbitower.json) |
 | Orbitron | 120146 | [120146-orbitron.json](./120146-orbitron.json) |
 | Orbitron | 59601 | [59601-orbitron.json](./59601-orbitron.json) |
 | Orbitron: Revolution | 54264 | [54264-orbitron-revolution.json](./54264-orbitron-revolution.json) |
