@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Large Quantity of Mushrooms | 31605 | [31605-a-large-quantity-of-mushrooms.json](./31605-a-large-quantity-of-mushrooms.json) |
 | A Last Will and Testament | 203869 | [203869-a-last-will-and-testament.json](./203869-a-last-will-and-testament.json) |
 | A Lazy Magic Teacher | 286779 | [286779-a-lazy-magic-teacher.json](./286779-a-lazy-magic-teacher.json) |
+| A Legend of Luca | 18205 | [18205-a-legend-of-luca.json](./18205-a-legend-of-luca.json) |
 | A Legend of Wisdom | 232962 | [232962-a-legend-of-wisdom.json](./232962-a-legend-of-wisdom.json) |
 | A Legionary's Life | 117101 | [117101-a-legionarys-life.json](./117101-a-legionarys-life.json) |
 | A lenda da Gávea | 81154 | [81154-a-lenda-da-gavea.json](./81154-a-lenda-da-gavea.json) |
@@ -13208,6 +13209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armoured Onslaught | 129223 | [129223-armoured-onslaught.json](./129223-armoured-onslaught.json) |
 | Armoured VR | 239822 | [239822-armoured-vr.json](./239822-armoured-vr.json) |
 | Arms | 26759 | [26759-arms.json](./26759-arms.json) |
+| Arms Dealer | 17887 | [17887-arms-dealer.json](./17887-arms-dealer.json) |
 | Arms Dealer Simulator | 406056 | [406056-arms-dealer-simulator.json](./406056-arms-dealer-simulator.json) |
 | Arms Devicer S!! | 82895 | [82895-arms-devicer-s.json](./82895-arms-devicer-s.json) |
 | Arms of God | 324148 | [324148-arms-of-god.json](./324148-arms-of-god.json) |
@@ -13799,6 +13801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AS+CEND | 69521 | [69521-as-cend.json](./69521-as-cend.json) |
 | Asa Delta | 230675 | [230675-asa-delta.json](./230675-asa-delta.json) |
 | Asa-Chan Wants to Go Home! | 272283 | [272283-asa-chan-wants-to-go-home.json](./272283-asa-chan-wants-to-go-home.json) |
+| ASA: A Space Adventure - Remastered Edition | 17969 | [17969-asa-a-space-adventure-remastered-edition.json](./17969-asa-a-space-adventure-remastered-edition.json) |
 | Asagao Academy: Normal Boots Club | 46579 | [46579-asagao-academy-normal-boots-club.json](./46579-asagao-academy-normal-boots-club.json) |
 | Asagao ha Ai wo Shiranai | 411685 | [411685-asagao-ha-ai-wo-shiranai.json](./411685-asagao-ha-ai-wo-shiranai.json) |
 | Asahi Shinbun Rensai: Katou Hifumi Kudan Shogi Shingiryuu | 58412 | [58412-asahi-shinbun-rensai-katou-hifumi-kudan-shogi-shingiryuu.json](./58412-asahi-shinbun-rensai-katou-hifumi-kudan-shogi-shingiryuu.json) |
