@@ -5364,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Septiny | 186193 | [186193-septiny.json](./186193-septiny.json) |
 | Septipus: Tentacle Apocalypse | 65275 | [65275-septipus-tentacle-apocalypse.json](./65275-septipus-tentacle-apocalypse.json) |
 | Septourian | 232126 | [232126-septourian.json](./232126-septourian.json) |
+| Septurian Might | 405284 | [405284-septurian-might.json](./405284-septurian-might.json) |
 | Sepulcri | 36918 | [36918-sepulcri.json](./36918-sepulcri.json) |
 | Sepulcrum | 344889 | [344889-sepulcrum.json](./344889-sepulcrum.json) |
 | Seq | 175080 | [175080-seq.json](./175080-seq.json) |
@@ -19863,6 +19864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedrun Squid | 185133 | [185133-speedrun-squid.json](./185133-speedrun-squid.json) |
 | Speedrun the Game | 159309 | [159309-speedrun-the-game.json](./159309-speedrun-the-game.json) |
 | Speedrun World | 405669 | [405669-speedrun-world.json](./405669-speedrun-world.json) |
+| SpeedRunner | 405298 | [405298-speedrunner.json](./405298-speedrunner.json) |
 | Speedrunner's Paradise: Sky is the limit | 215716 | [215716-speedrunners-paradise-sky-is-the-limit.json](./215716-speedrunners-paradise-sky-is-the-limit.json) |
 | SpeedRunners | 9527 | [9527-speedrunners.json](./9527-speedrunners.json) |
 | SpeedRunners 2: King of Speed | 339614 | [339614-speedrunners-2-king-of-speed.json](./339614-speedrunners-2-king-of-speed.json) |
@@ -26024,6 +26026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger Skies | 245193 | [245193-stranger-skies.json](./245193-stranger-skies.json) |
 | Stranger Tavern: Brawl | 392108 | [392108-stranger-tavern-brawl.json](./392108-stranger-tavern-brawl.json) |
 | Stranger Than Heaven | 325599 | [325599-stranger-than-heaven.json](./325599-stranger-than-heaven.json) |
+| Stranger Than Heaven: Collector's Edition | 405261 | [405261-stranger-than-heaven-collectors-edition.json](./405261-stranger-than-heaven-collectors-edition.json) |
 | Stranger Things | 327225 | [327225-stranger-things.json](./327225-stranger-things.json) |
 | Stranger Things 3: The Game | 108797 | [108797-stranger-things-3-the-game.json](./108797-stranger-things-3-the-game.json) |
 | Stranger Things VR | 225668 | [225668-stranger-things-vr.json](./225668-stranger-things-vr.json) |
@@ -30188,7 +30191,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Wars! | 323752 | [323752-super-mario-wars.json](./323752-super-mario-wars.json) |
 | Super Mario Wonderland 1987 | 307716 | [307716-super-mario-wonderland-1987.json](./307716-super-mario-wonderland-1987.json) |
 | Super Mario World | 178104 | [178104-super-mario-world.json](./178104-super-mario-world.json) |
-| Super Mario World | 270346 | [270346-super-mario-world.json](./270346-super-mario-world.json) |
 | Super Mario World 2021 | 267933 | [267933-super-mario-world-2021.json](./267933-super-mario-world-2021.json) |
 | Super Mario World 2025 | 378564 | [378564-super-mario-world-2025.json](./378564-super-mario-world-2025.json) |
 | Super Mario World 3: A Whole New World | 276879 | [276879-super-mario-world-3-a-whole-new-world.json](./276879-super-mario-world-3-a-whole-new-world.json) |
