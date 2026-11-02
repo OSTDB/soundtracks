@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LarryDS: Chapter 1 | 313108 | [313108-larryds-chapter-1.json](./313108-larryds-chapter-1.json) |
 | Lars | 266128 | [266128-lars.json](./266128-lars.json) |
 | Lars the Wanderer | 145652 | [145652-lars-the-wanderer.json](./145652-lars-the-wanderer.json) |
+| LarsGadiel | 407730 | [407730-larsgadiel.json](./407730-larsgadiel.json) |
 | Laruaville 12 | 195716 | [195716-laruaville-12.json](./195716-laruaville-12.json) |
 | Laruaville 13 | 226506 | [226506-laruaville-13.json](./226506-laruaville-13.json) |
 | Laruaville 14 | 259506 | [259506-laruaville-14.json](./259506-laruaville-14.json) |
@@ -5265,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linus Spacehead's Cosmic Crusade | 48185 | [48185-linus-spaceheads-cosmic-crusade.json](./48185-linus-spaceheads-cosmic-crusade.json) |
 | Linux Jank | 275213 | [275213-linux-jank.json](./275213-linux-jank.json) |
 | Linwu: Spirit Beast Ranch | 413457 | [413457-linwu-spirit-beast-ranch.json](./413457-linwu-spirit-beast-ranch.json) |
+| Linx | 407693 | [407693-linx.json](./407693-linx.json) |
 | Linx Battle Arena | 55961 | [55961-linx-battle-arena.json](./55961-linx-battle-arena.json) |
 | Linxicon | 319984 | [319984-linxicon.json](./319984-linxicon.json) |
 | Linzy has a Messy Room | 101099 | [101099-linzy-has-a-messy-room.json](./101099-linzy-has-a-messy-room.json) |
