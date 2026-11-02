@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z: Steel Soldiers | 3276 | [3276-z-steel-soldiers.json](./3276-z-steel-soldiers.json) |
 | Z: The End | 36400 | [36400-z-the-end.json](./36400-z-the-end.json) |
 | Z. Year One | 33836 | [33836-z-year-one.json](./33836-z-year-one.json) |
+| Z.A.R. | 35721 | [35721-z-a-r.json](./35721-z-a-r.json) |
 | Z.A.T.O.: I Love the World and Everything In It | 376847 | [376847-z-a-t-o-i-love-the-world-and-everything-in-it.json](./376847-z-a-t-o-i-love-the-world-and-everything-in-it.json) |
 | Z.H.P. Unlosing Ranger vs. Darkdeath Evilman | 19816 | [19816-z-h-p-unlosing-ranger-vs-darkdeath-evilman.json](./19816-z-h-p-unlosing-ranger-vs-darkdeath-evilman.json) |
 | Z.I.O.N: Deluxe Edition | 52101 | [52101-z-i-o-n-deluxe-edition.json](./52101-z-i-o-n-deluxe-edition.json) |
