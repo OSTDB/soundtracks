@@ -4369,6 +4369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liftopia: One more! | 228042 | [228042-liftopia-one-more.json](./228042-liftopia-one-more.json) |
 | Lifty! | 113581 | [113581-lifty.json](./113581-lifty.json) |
 | Liga do Tempo | 290086 | [290086-liga-do-tempo.json](./290086-liga-do-tempo.json) |
+| Liga Ride | 425870 | [425870-liga-ride.json](./425870-liga-ride.json) |
 | Lighark | 270557 | [270557-lighark.json](./270557-lighark.json) |
 | Light | 10515 | [10515-light.json](./10515-light.json) |
 | Light | 212975 | [212975-light.json](./212975-light.json) |
