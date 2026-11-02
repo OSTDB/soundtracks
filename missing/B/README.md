@@ -904,7 +904,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3636,6 +3635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Elemental Burst | 222259 | [222259-battle-of-elemental-burst.json](./222259-battle-of-elemental-burst.json) |
 | Battle of Elemental Reboost | 97305 | [97305-battle-of-elemental-reboost.json](./97305-battle-of-elemental-reboost.json) |
 | Battle of Emperor Tian | 339114 | [339114-battle-of-emperor-tian.json](./339114-battle-of-emperor-tian.json) |
+| Battle of Empires: 1914-1918 | 9892 | [9892-battle-of-empires-1914-1918.json](./9892-battle-of-empires-1914-1918.json) |
 | Battle of Empires: 1914-1918 - Battle of Cambrai | 168302 | [168302-battle-of-empires-1914-1918-battle-of-cambrai.json](./168302-battle-of-empires-1914-1918-battle-of-cambrai.json) |
 | Battle of Empires: 1914-1918 - Blazing Guns | 155390 | [155390-battle-of-empires-1914-1918-blazing-guns.json](./155390-battle-of-empires-1914-1918-blazing-guns.json) |
 | Battle of Empires: 1914-1918 - British Empire | 168303 | [168303-battle-of-empires-1914-1918-british-empire.json](./168303-battle-of-empires-1914-1918-british-empire.json) |
