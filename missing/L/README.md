@@ -6343,6 +6343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LocoMotives | 116719 | [116719-locomotives.json](./116719-locomotives.json) |
 | LocoPets | 311861 | [311861-locopets.json](./311861-locopets.json) |
 | LocoRoco 2 | 1461 | [1461-locoroco-2.json](./1461-locoroco-2.json) |
+| LocoRoco Cocoreccho | 1460 | [1460-locoroco-cocoreccho.json](./1460-locoroco-cocoreccho.json) |
 | LocoRoco Midnight Carnival | 1462 | [1462-locoroco-midnight-carnival.json](./1462-locoroco-midnight-carnival.json) |
 | LocoRoco Midnight Carnival | 247085 | [247085-locoroco-midnight-carnival.json](./247085-locoroco-midnight-carnival.json) |
 | LocoRoco Remastered | 26234 | [26234-locoroco-remastered.json](./26234-locoroco-remastered.json) |
