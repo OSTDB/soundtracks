@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6157,6 +6158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berlin no Kabe | 46322 | [46322-berlin-no-kabe.json](./46322-berlin-no-kabe.json) |
 | Berlin Wall | 421192 | [421192-berlin-wall.json](./421192-berlin-wall.json) |
 | Berlitz* French Translator | 94168 | [94168-berlitz-french-translator.json](./94168-berlitz-french-translator.json) |
+| Bermuda | 36048 | [36048-bermuda.json](./36048-bermuda.json) |
 | Bermuda | 380011 | [380011-bermuda.json](./380011-bermuda.json) |
 | Bermuda Adventures | 216414 | [216414-bermuda-adventures.json](./216414-bermuda-adventures.json) |
 | Bermuda Farm | 214304 | [214304-bermuda-farm.json](./214304-bermuda-farm.json) |
@@ -9613,6 +9615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitzkrieg 2: Fall of the Reich | 11106 | [11106-blitzkrieg-2-fall-of-the-reich.json](./11106-blitzkrieg-2-fall-of-the-reich.json) |
 | Blitzkrieg 2: Liberation | 11107 | [11107-blitzkrieg-2-liberation.json](./11107-blitzkrieg-2-liberation.json) |
 | Blitzkrieg 3: Deluxe Edition | 52653 | [52653-blitzkrieg-3-deluxe-edition.json](./52653-blitzkrieg-3-deluxe-edition.json) |
+| Blitzkrieg Anthology | 36259 | [36259-blitzkrieg-anthology.json](./36259-blitzkrieg-anthology.json) |
 | Blitzkrieg Fire | 175128 | [175128-blitzkrieg-fire.json](./175128-blitzkrieg-fire.json) |
 | Blitzkrieg May 1940 | 15702 | [15702-blitzkrieg-may-1940.json](./15702-blitzkrieg-may-1940.json) |
 | Blitzkrieg: Battle at the Ardennes | 14318 | [14318-blitzkrieg-battle-at-the-ardennes.json](./14318-blitzkrieg-battle-at-the-ardennes.json) |
@@ -10132,6 +10135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blondes | 242963 | [242963-blondes.json](./242963-blondes.json) |
 | Blonsters | 304877 | [304877-blonsters.json](./304877-blonsters.json) |
 | Bloo Kid | 58463 | [58463-bloo-kid.json](./58463-bloo-kid.json) |
+| Bloo Kid 2 | 34985 | [34985-bloo-kid-2.json](./34985-bloo-kid-2.json) |
 | Bloob.io | 377974 | [377974-bloob-io.json](./377974-bloob-io.json) |
 | Bloobs Adventure Idle | 303165 | [303165-bloobs-adventure-idle.json](./303165-bloobs-adventure-idle.json) |
 | Blooby Block | 246862 | [246862-blooby-block.json](./246862-blooby-block.json) |
@@ -16031,6 +16035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Head | 393531 | [393531-bullet-head.json](./393531-bullet-head.json) |
 | Bullet Heat | 166836 | [166836-bullet-heat.json](./166836-bullet-heat.json) |
 | Bullet Heaven | 228297 | [228297-bullet-heaven.json](./228297-bullet-heaven.json) |
+| Bullet Heaven 2 | 34164 | [34164-bullet-heaven-2.json](./34164-bullet-heaven-2.json) |
 | Bullet Heck | 245790 | [245790-bullet-heck.json](./245790-bullet-heck.json) |
 | Bullet Heli | 176463 | [176463-bullet-heli.json](./176463-bullet-heli.json) |
 | Bullet Hell Action Roguelites | 333753 | [333753-bullet-hell-action-roguelites.json](./333753-bullet-hell-action-roguelites.json) |
