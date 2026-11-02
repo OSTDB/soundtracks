@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nedy's Adventure: The Curse of Vera Deluxe | 324525 | [324525-nedys-adventure-the-curse-of-vera-deluxe.json](./324525-nedys-adventure-the-curse-of-vera-deluxe.json) |
 | Neebota: Zeebo's Awakening | 164090 | [164090-neebota-zeebos-awakening.json](./164090-neebota-zeebos-awakening.json) |
 | Need 4 Meat | 317537 | [317537-need-4-meat.json](./317537-need-4-meat.json) |
+| Need a packet? | 103475 | [103475-need-a-packet.json](./103475-need-a-packet.json) |
 | Need For Conquest | 157203 | [157203-need-for-conquest.json](./157203-need-for-conquest.json) |
 | Need for Drifting | 249229 | [249229-need-for-drifting.json](./249229-need-for-drifting.json) |
 | Need For Drink | 29014 | [29014-need-for-drink.json](./29014-need-for-drink.json) |
@@ -2136,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Mr. Do! | 39540 | [39540-neo-mr-do.json](./39540-neo-mr-do.json) |
 | Neo Mystery Bonus | 43979 | [43979-neo-mystery-bonus.json](./43979-neo-mystery-bonus.json) |
 | Neo Nectaris | 42009 | [42009-neo-nectaris.json](./42009-neo-nectaris.json) |
+| Neo Neo | 103188 | [103188-neo-neo.json](./103188-neo-neo.json) |
 | Neo no Panepon | 109447 | [109447-neo-no-panepon.json](./109447-neo-no-panepon.json) |
 | Neo Pang | 75495 | [75495-neo-pang.json](./75495-neo-pang.json) |
 | Neo Planet | 61574 | [61574-neo-planet.json](./61574-neo-planet.json) |
@@ -3333,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newt's Voyage | 115971 | [115971-newts-voyage.json](./115971-newts-voyage.json) |
 | Newton | 324251 | [324251-newton.json](./324251-newton.json) |
 | Newton / Apple Tree | 312263 | [312263-newton-apple-tree.json](./312263-newton-apple-tree.json) |
+| Newton and the Apple Tree | 102449 | [102449-newton-and-the-apple-tree.json](./102449-newton-and-the-apple-tree.json) |
 | Newton Coin | 334607 | [334607-newton-coin.json](./334607-newton-coin.json) |
 | Newton Going Home | 187388 | [187388-newton-going-home.json](./187388-newton-going-home.json) |
 | Newton Museum - Kyouryuu Nendaiki Zenpen | 63961 | [63961-newton-museum-kyouryuu-nendaiki-zenpen.json](./63961-newton-museum-kyouryuu-nendaiki-zenpen.json) |
