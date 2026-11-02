@@ -883,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pale Moon Crisis | 29977 | [29977-pale-moon-crisis.json](./29977-pale-moon-crisis.json) |
 | Pale Night | 142811 | [142811-pale-night.json](./142811-pale-night.json) |
 | Pale Sand, Dark Skies | 179508 | [179508-pale-sand-dark-skies.json](./179508-pale-sand-dark-skies.json) |
+| Pale Spectrum - Part Two of the Book of Gray Magic | 56689 | [56689-pale-spectrum-part-two-of-the-book-of-gray-magic.json](./56689-pale-spectrum-part-two-of-the-book-of-gray-magic.json) |
 | Pale Tide | 403823 | [403823-pale-tide.json](./403823-pale-tide.json) |
 | Paleo Dive | 416816 | [416816-paleo-dive.json](./416816-paleo-dive.json) |
 | Paleo Pines | 133454 | [133454-paleo-pines.json](./133454-paleo-pines.json) |
@@ -13164,6 +13165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presto Starto | 183425 | [183425-presto-starto.json](./183425-presto-starto.json) |
 | Preston Sterling and the Legend of Excalibur | 55868 | [55868-preston-sterling-and-the-legend-of-excalibur.json](./55868-preston-sterling-and-the-legend-of-excalibur.json) |
 | PreStrafe | 374804 | [374804-prestrafe.json](./374804-prestrafe.json) |
+| Preta: Vendetta Rising | 41943 | [41943-preta-vendetta-rising.json](./41943-preta-vendetta-rising.json) |
 | Pretend | 143272 | [143272-pretend.json](./143272-pretend.json) |
 | Pretend Cars Racing | 176673 | [176673-pretend-cars-racing.json](./176673-pretend-cars-racing.json) |
 | Pretend Cars Racing 2 | 302222 | [302222-pretend-cars-racing-2.json](./302222-pretend-cars-racing-2.json) |
@@ -13649,6 +13651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess RPG | 196814 | [196814-princess-rpg.json](./196814-princess-rpg.json) |
 | Princess Sahirah is a Spoiled Brat! | 46490 | [46490-princess-sahirah-is-a-spoiled-brat.json](./46490-princess-sahirah-is-a-spoiled-brat.json) |
 | Princess Sera Adventures | 188957 | [188957-princess-sera-adventures.json](./188957-princess-sera-adventures.json) |
+| Princess Serena ~Raid of Demon Legion~ | 55761 | [55761-princess-serena-raid-of-demon-legion.json](./55761-princess-serena-raid-of-demon-legion.json) |
 | Princess Shall Prevail | 368375 | [368375-princess-shall-prevail.json](./368375-princess-shall-prevail.json) |
 | Princess Snow White | 69024 | [69024-princess-snow-white.json](./69024-princess-snow-white.json) |
 | Princess Snow White: The Enchanted Mirror | 320455 | [320455-princess-snow-white-the-enchanted-mirror.json](./320455-princess-snow-white-the-enchanted-mirror.json) |
@@ -15323,6 +15326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projection: First Light | 72374 | [72374-projection-first-light.json](./72374-projection-first-light.json) |
 | Projections | 150775 | [150775-projections.json](./150775-projections.json) |
 | ProjectL | 63241 | [63241-projectl.json](./63241-projectl.json) |
+| ProjectM : Daydream | 56606 | [56606-projectm-daydream.json](./56606-projectm-daydream.json) |
 | ProjectNimbus | 100205 | [100205-projectnimbus.json](./100205-projectnimbus.json) |
 | Projector | 202937 | [202937-projector.json](./202937-projector.json) |
 | Projector Face | 33820 | [33820-projector-face.json](./33820-projector-face.json) |
@@ -17506,6 +17510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pwn Age: 31337 AD | 67075 | [67075-pwn-age-31337-ad.json](./67075-pwn-age-31337-ad.json) |
 | PWN: Combat Hacking | 63677 | [63677-pwn-combat-hacking.json](./63677-pwn-combat-hacking.json) |
 | Pwn! | 341318 | [341318-pwn.json](./341318-pwn.json) |
+| Pwnd | 56095 | [56095-pwnd.json](./56095-pwnd.json) |
 | Pwned | 68517 | [68517-pwned.json](./68517-pwned.json) |
 | Pwny Xpress | 183313 | [183313-pwny-xpress.json](./183313-pwny-xpress.json) |
 | Pwnz! | 240833 | [240833-pwnz.json](./240833-pwnz.json) |
