@@ -3414,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle War | 380056 | [380056-castle-war.json](./380056-castle-war.json) |
 | Castle Warriors | 238381 | [238381-castle-warriors.json](./238381-castle-warriors.json) |
 | Castle Wars | 192097 | [192097-castle-wars.json](./192097-castle-wars.json) |
+| Castle Wars | 403388 | [403388-castle-wars.json](./403388-castle-wars.json) |
 | Castle Wars 2.5 | 101739 | [101739-castle-wars-2-5.json](./101739-castle-wars-2-5.json) |
 | Castle Wars VR | 38807 | [38807-castle-wars-vr.json](./38807-castle-wars-vr.json) |
 | Castle Wars: Legacy | 392372 | [392372-castle-wars-legacy.json](./392372-castle-wars-legacy.json) |
@@ -5994,6 +5995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers at War | 52495 | [52495-checkers-at-war.json](./52495-checkers-at-war.json) |
 | Checkers Board Game | 88432 | [88432-checkers-board-game.json](./88432-checkers-board-game.json) |
 | Checkers Challenge | 88173 | [88173-checkers-challenge.json](./88173-checkers-challenge.json) |
+| Checkers for Kids: Toy Box | 403407 | [403407-checkers-for-kids-toy-box.json](./403407-checkers-for-kids-toy-box.json) |
 | Checkers Gold | 100162 | [100162-checkers-gold.json](./100162-checkers-gold.json) |
 | Checkers in the Park | 254436 | [254436-checkers-in-the-park.json](./254436-checkers-in-the-park.json) |
 | Checkers Lounge 3D | 223633 | [223633-checkers-lounge-3d.json](./223633-checkers-lounge-3d.json) |
@@ -11943,6 +11945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come To Play | 370293 | [370293-come-to-play.json](./370293-come-to-play.json) |
 | Come Towards Me. | 371129 | [371129-come-towards-me.json](./371129-come-towards-me.json) |
 | Come with Me | 147401 | [147401-come-with-me.json](./147401-come-with-me.json) |
+| Come-Frutas | 403313 | [403313-come-frutas.json](./403313-come-frutas.json) |
 | Comeback Golf | 181716 | [181716-comeback-golf.json](./181716-comeback-golf.json) |
 | Comer | 94225 | [94225-comer.json](./94225-comer.json) |
 | Comet | 153222 | [153222-comet.json](./153222-comet.json) |
@@ -12866,6 +12869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Bubble Bobble | 415224 | [415224-console-archives-bubble-bobble.json](./415224-console-archives-bubble-bobble.json) |
 | Console Archives: Chack’n Pop | 422202 | [422202-console-archives-chack-n-pop.json](./422202-console-archives-chack-n-pop.json) |
 | Console Archives: Crazy Climber | 418714 | [418714-console-archives-crazy-climber.json](./418714-console-archives-crazy-climber.json) |
+| Console Archives: Geki-Oh ShienRyu | 403301 | [403301-console-archives-geki-oh-shienryu.json](./403301-console-archives-geki-oh-shienryu.json) |
 | Console Archives: Hercules no Eikou II - Taitan no Metsubou | 410364 | [410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json](./410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json) |
 | Console Archives: Karate Champ | 420803 | [420803-console-archives-karate-champ.json](./420803-console-archives-karate-champ.json) |
 | Console Archives: L'Empereur | 405808 | [405808-console-archives-lempereur.json](./405808-console-archives-lempereur.json) |
@@ -14673,6 +14677,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cover Orange 2 | 403222 | [403222-cover-orange-2.json](./403222-cover-orange-2.json) |
 | Cover Orange 2 | 89106 | [89106-cover-orange-2.json](./89106-cover-orange-2.json) |
 | Cover Orange 2: Journey | 88889 | [88889-cover-orange-2-journey.json](./88889-cover-orange-2-journey.json) |
+| Cover Orange Level Editor | 403379 | [403379-cover-orange-level-editor.json](./403379-cover-orange-level-editor.json) |
+| Cover Orange Players Pack | 403308 | [403308-cover-orange-players-pack.json](./403308-cover-orange-players-pack.json) |
+| Cover Orange Players Pack 2 | 403311 | [403311-cover-orange-players-pack-2.json](./403311-cover-orange-players-pack-2.json) |
 | Cover Orange Players Pack 3 | 403355 | [403355-cover-orange-players-pack-3.json](./403355-cover-orange-players-pack-3.json) |
 | Cover U: Raora Route | 351001 | [351001-cover-u-raora-route.json](./351001-cover-u-raora-route.json) |
 | Cover Your Eyes | 127161 | [127161-cover-your-eyes.json](./127161-cover-your-eyes.json) |
@@ -17593,6 +17600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Path | 107821 | [107821-crystal-path.json](./107821-crystal-path.json) |
 | Crystal Pixels | 68904 | [68904-crystal-pixels.json](./68904-crystal-pixels.json) |
 | Crystal Plague | 152454 | [152454-crystal-plague.json](./152454-crystal-plague.json) |
+| Crystal Project II | 403382 | [403382-crystal-project-ii.json](./403382-crystal-project-ii.json) |
 | Crystal Project: Mod Pack 1 - Quality Fun | 300934 | [300934-crystal-project-mod-pack-1-quality-fun.json](./300934-crystal-project-mod-pack-1-quality-fun.json) |
 | Crystal Project: Mod Pack 2 - New Challenges | 314886 | [314886-crystal-project-mod-pack-2-new-challenges.json](./314886-crystal-project-mod-pack-2-new-challenges.json) |
 | Crystal Quest | 277142 | [277142-crystal-quest.json](./277142-crystal-quest.json) |
