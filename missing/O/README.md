@@ -1559,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Om Nom: Run - Ultimate Edition | 251667 | [251667-om-nom-run-ultimate-edition.json](./251667-om-nom-run-ultimate-edition.json) |
 | Om Nom: Run & Om Nom: Run 2 | 363971 | [363971-om-nom-run-and-om-nom-run-2.json](./363971-om-nom-run-and-om-nom-run-2.json) |
 | Om Nom: Run 2 | 323698 | [323698-om-nom-run-2.json](./323698-om-nom-run-2.json) |
+| Om Nom: Run 2 - Charged Edition | 409975 | [409975-om-nom-run-2-charged-edition.json](./409975-om-nom-run-2-charged-edition.json) |
 | Om Nom: Run 2 - Emerald Edition | 396923 | [396923-om-nom-run-2-emerald-edition.json](./396923-om-nom-run-2-emerald-edition.json) |
 | OMA: One Man Army | 259701 | [259701-oma-one-man-army.json](./259701-oma-one-man-army.json) |
 | Omae Wa Mou Shindeiru | 98711 | [98711-omae-wa-mou-shindeiru.json](./98711-omae-wa-mou-shindeiru.json) |
@@ -3658,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbitals | 381237 | [381237-orbitals.json](./381237-orbitals.json) |
 | Orbitals: Deluxe Edition | 407108 | [407108-orbitals-deluxe-edition.json](./407108-orbitals-deluxe-edition.json) |
 | Orbitblazers | 127509 | [127509-orbitblazers.json](./127509-orbitblazers.json) |
+| Orbitcore | 408439 | [408439-orbitcore.json](./408439-orbitcore.json) |
 | Orbitect | 156858 | [156858-orbitect.json](./156858-orbitect.json) |
 | Orbiteers | 371566 | [371566-orbiteers.json](./371566-orbiteers.json) |
 | Orbiter | 15330 | [15330-orbiter.json](./15330-orbiter.json) |
@@ -5104,6 +5106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outrunner 3 | 113191 | [113191-outrunner-3.json](./113191-outrunner-3.json) |
 | Outrunner: Neon Nights | 258371 | [258371-outrunner-neon-nights.json](./258371-outrunner-neon-nights.json) |
 | OutRunners | 39574 | [39574-outrunners.json](./39574-outrunners.json) |
+| Outsail The Sun | 409600 | [409600-outsail-the-sun.json](./409600-outsail-the-sun.json) |
 | Outsanity | 343304 | [343304-outsanity.json](./343304-outsanity.json) |
 | Outscape | 123386 | [123386-outscape.json](./123386-outscape.json) |
 | Outscore | 182529 | [182529-outscore.json](./182529-outscore.json) |
@@ -5614,6 +5617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxygen Not Included: Spaced Out! | 145292 | [145292-oxygen-not-included-spaced-out.json](./145292-oxygen-not-included-spaced-out.json) |
 | Oxygen Not Included: The Frosty Planet Pack | 310683 | [310683-oxygen-not-included-the-frosty-planet-pack.json](./310683-oxygen-not-included-the-frosty-planet-pack.json) |
 | Oxyjet | 112811 | [112811-oxyjet.json](./112811-oxyjet.json) |
+| OxyRail | 409596 | [409596-oxyrail.json](./409596-oxyrail.json) |
 | Oxytone | 267287 | [267287-oxytone.json](./267287-oxytone.json) |
 | Oyabu Clinic Deathcare Corporation | 244264 | [244264-oyabu-clinic-deathcare-corporation.json](./244264-oyabu-clinic-deathcare-corporation.json) |
 | Oyadori no Ko | 150552 | [150552-oyadori-no-ko.json](./150552-oyadori-no-ko.json) |
