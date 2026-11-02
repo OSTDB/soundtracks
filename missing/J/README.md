@@ -1315,7 +1315,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetrunner | 296332 | [296332-jetrunner.json](./296332-jetrunner.json) |
 | Jets A Blazin' | 249865 | [249865-jets-a-blazin.json](./249865-jets-a-blazin.json) |
 | Jets Killer | 291472 | [291472-jets-killer.json](./291472-jets-killer.json) |
-| Jets'n'Guns 2 | 112638 | [112638-jetsnguns-2.json](./112638-jetsnguns-2.json) |
 | Jets'n'Guns: Complete Collection | 284484 | [284484-jetsnguns-complete-collection.json](./284484-jetsnguns-complete-collection.json) |
 | Jetscout: Mystery of the Valunians | 139590 | [139590-jetscout-mystery-of-the-valunians.json](./139590-jetscout-mystery-of-the-valunians.json) |
 | Jetscout: Mystery of Valunians | 174211 | [174211-jetscout-mystery-of-valunians.json](./174211-jetscout-mystery-of-valunians.json) |
@@ -2912,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juggling | 340778 | [340778-juggling.json](./340778-juggling.json) |
 | Juggling | 359749 | [359749-juggling.json](./359749-juggling.json) |
 | Juggling BBQ HD | 253260 | [253260-juggling-bbq-hd.json](./253260-juggling-bbq-hd.json) |
+| Juggling Cup | 405304 | [405304-juggling-cup.json](./405304-juggling-cup.json) |
 | Juggling Jolt | 415883 | [415883-juggling-jolt.json](./415883-juggling-jolt.json) |
 | Juggling Seal | 385711 | [385711-juggling-seal.json](./385711-juggling-seal.json) |
 | Juggly | 113608 | [113608-juggly.json](./113608-juggly.json) |
