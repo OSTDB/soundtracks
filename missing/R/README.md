@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbids Invasion: Gold Edition | 82425 | [82425-rabbids-invasion-gold-edition.json](./82425-rabbids-invasion-gold-edition.json) |
 | Rabbids Invasion: The Interactive TV Show | 20308 | [20308-rabbids-invasion-the-interactive-tv-show.json](./20308-rabbids-invasion-the-interactive-tv-show.json) |
 | Rabbids Lab | 50699 | [50699-rabbids-lab.json](./50699-rabbids-lab.json) |
+| Rabbids Land | 5320 | [5320-rabbids-land.json](./5320-rabbids-land.json) |
 | Rabbids Travel in Time 3D | 47641 | [47641-rabbids-travel-in-time-3d.json](./47641-rabbids-travel-in-time-3d.json) |
 | Rabbids: Legends of the Multiverse | 300343 | [300343-rabbids-legends-of-the-multiverse.json](./300343-rabbids-legends-of-the-multiverse.json) |
 | Rabbids: Party of Legends | 201254 | [201254-rabbids-party-of-legends.json](./201254-rabbids-party-of-legends.json) |
@@ -884,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok M: Eternal Love | 111880 | [111880-ragnarok-m-eternal-love.json](./111880-ragnarok-m-eternal-love.json) |
 | Ragnarok M: New Generation | 214034 | [214034-ragnarok-m-new-generation.json](./214034-ragnarok-m-new-generation.json) |
 | Ragnarok Odyssey | 21008 | [21008-ragnarok-odyssey.json](./21008-ragnarok-odyssey.json) |
+| Ragnarok Odyssey Ace | 20067 | [20067-ragnarok-odyssey-ace.json](./20067-ragnarok-odyssey-ace.json) |
 | Ragnarok Odyssey ACE: Launch Edition | 42668 | [42668-ragnarok-odyssey-ace-launch-edition.json](./42668-ragnarok-odyssey-ace-launch-edition.json) |
 | Ragnarok Online / Grand Chase | 80588 | [80588-ragnarok-online-grand-chase.json](./80588-ragnarok-online-grand-chase.json) |
 | Ragnarok Online 2 | 16484 | [16484-ragnarok-online-2.json](./16484-ragnarok-online-2.json) |
@@ -2771,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Hentai Situation! 2 | 194628 | [194628-real-hentai-situation-2.json](./194628-real-hentai-situation-2.json) |
 | Real Hentai Situation! DT | 314991 | [314991-real-hentai-situation-dt.json](./314991-real-hentai-situation-dt.json) |
 | Real Heroes Firefighter 3D | 84911 | [84911-real-heroes-firefighter-3d.json](./84911-real-heroes-firefighter-3d.json) |
+| Real Heroes: Firefighter | 5119 | [5119-real-heroes-firefighter.json](./5119-real-heroes-firefighter.json) |
 | Real Horror Stories | 109479 | [109479-real-horror-stories.json](./109479-real-horror-stories.json) |
 | Real Horse 3D | 216152 | [216152-real-horse-3d.json](./216152-real-horse-3d.json) |
 | Real Kanojo | 22469 | [22469-real-kanojo.json](./22469-real-kanojo.json) |
@@ -5224,6 +5227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 5: e-Capcom Limited Edition | 145197 | [145197-resident-evil-5-e-capcom-limited-edition.json](./145197-resident-evil-5-e-capcom-limited-edition.json) |
 | Resident Evil 5: Gold Edition | 24347 | [24347-resident-evil-5-gold-edition.json](./24347-resident-evil-5-gold-edition.json) |
 | Resident Evil 5: Lost in Nightmares | 21666 | [21666-resident-evil-5-lost-in-nightmares.json](./21666-resident-evil-5-lost-in-nightmares.json) |
+| Resident Evil 5: Untold Stories Bundle | 53505 | [53505-resident-evil-5-untold-stories-bundle.json](./53505-resident-evil-5-untold-stories-bundle.json) |
 | Resident Evil 5: Versus | 23014 | [23014-resident-evil-5-versus.json](./23014-resident-evil-5-versus.json) |
 | Resident Evil 6 Remastered | 41858 | [41858-resident-evil-6-remastered.json](./41858-resident-evil-6-remastered.json) |
 | Resident Evil 6: Archives | 79137 | [79137-resident-evil-6-archives.json](./79137-resident-evil-6-archives.json) |
