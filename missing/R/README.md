@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ralin: Dwarf Wars | 51684 | [51684-ralin-dwarf-wars.json](./51684-ralin-dwarf-wars.json) |
 | Rallied! | 416352 | [416352-rallied.json](./416352-rallied.json) |
 | RalliSport Challenge | 841 | [841-rallisport-challenge.json](./841-rallisport-challenge.json) |
+| RalliSport Challenge 2 | 5997 | [5997-rallisport-challenge-2.json](./5997-rallisport-challenge-2.json) |
 | Rallo Gump | 73148 | [73148-rallo-gump.json](./73148-rallo-gump.json) |
 | Rally | 197381 | [197381-rally.json](./197381-rally.json) |
 | Rally 3D | 261078 | [261078-rally-3d.json](./261078-rally-3d.json) |
@@ -3043,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealPlay Pool | 21366 | [21366-realplay-pool.json](./21366-realplay-pool.json) |
 | RealPlay Puzzlesphere | 21515 | [21515-realplay-puzzlesphere.json](./21515-realplay-puzzlesphere.json) |
 | RealPlay Racing | 21368 | [21368-realplay-racing.json](./21368-realplay-racing.json) |
+| Realpolitiks | 27290 | [27290-realpolitiks.json](./27290-realpolitiks.json) |
 | Realpolitiks 3: Earth and Beyond | 309890 | [309890-realpolitiks-3-earth-and-beyond.json](./309890-realpolitiks-3-earth-and-beyond.json) |
 | Realpolitiks II | 132618 | [132618-realpolitiks-ii.json](./132618-realpolitiks-ii.json) |
 | Realpolitiks II: Deluxe Edition | 159693 | [159693-realpolitiks-ii-deluxe-edition.json](./159693-realpolitiks-ii-deluxe-edition.json) |
@@ -10876,6 +10878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Maker Fes | 27291 | [27291-rpg-maker-fes.json](./27291-rpg-maker-fes.json) |
 | RPG Maker II | 43556 | [43556-rpg-maker-ii.json](./43556-rpg-maker-ii.json) |
 | RPG Maker Millennium Collection | 53530 | [53530-rpg-maker-millennium-collection.json](./53530-rpg-maker-millennium-collection.json) |
+| RPG Maker MV | 24624 | [24624-rpg-maker-mv.json](./24624-rpg-maker-mv.json) |
 | RPG Maker MV Trinity | 136722 | [136722-rpg-maker-mv-trinity.json](./136722-rpg-maker-mv-trinity.json) |
 | RPG Maker MV: Adventurer's Journey | 53535 | [53535-rpg-maker-mv-adventurers-journey.json](./53535-rpg-maker-mv-adventurers-journey.json) |
 | RPG Maker MV: Essentials Set | 53531 | [53531-rpg-maker-mv-essentials-set.json](./53531-rpg-maker-mv-essentials-set.json) |
