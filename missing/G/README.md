@@ -3447,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Battle | 78319 | [78319-ghost-battle.json](./78319-ghost-battle.json) |
 | Ghost Beat | 170887 | [170887-ghost-beat.json](./170887-ghost-beat.json) |
 | Ghost Blade | 23442 | [23442-ghost-blade.json](./23442-ghost-blade.json) |
+| Ghost Blade HD | 26947 | [26947-ghost-blade-hd.json](./26947-ghost-blade-hd.json) |
 | Ghost Blade HD: Limited Edition | 166279 | [166279-ghost-blade-hd-limited-edition.json](./166279-ghost-blade-hd-limited-edition.json) |
 | Ghost Blast | 250562 | [250562-ghost-blast.json](./250562-ghost-blast.json) |
 | Ghost Blast | 335775 | [335775-ghost-blast.json](./335775-ghost-blast.json) |
