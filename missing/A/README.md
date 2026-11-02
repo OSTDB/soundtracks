@@ -1027,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Second Face: The Eye of Geltz is watching Us | 67684 | [67684-a-second-face-the-eye-of-geltz-is-watching-us.json](./67684-a-second-face-the-eye-of-geltz-is-watching-us.json) |
 | A Second Mario Bros. X Thing: Analog Funk | 304212 | [304212-a-second-mario-bros-x-thing-analog-funk.json](./304212-a-second-mario-bros-x-thing-analog-funk.json) |
 | A Secret Between You and Me | 314792 | [314792-a-secret-between-you-and-me.json](./314792-a-secret-between-you-and-me.json) |
+| A Sector Darkly | 420330 | [420330-a-sector-darkly.json](./420330-a-sector-darkly.json) |
 | A Series of Temporal Mishaps | 193269 | [193269-a-series-of-temporal-mishaps.json](./193269-a-series-of-temporal-mishaps.json) |
 | A Session with Dr. Liebnitz | 338402 | [338402-a-session-with-dr-liebnitz.json](./338402-a-session-with-dr-liebnitz.json) |
 | A Sexy Tour With Marie | 368576 | [368576-a-sexy-tour-with-marie.json](./368576-a-sexy-tour-with-marie.json) |
@@ -7578,6 +7579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amakuchi! Dairoujou | 67368 | [67368-amakuchi-dairoujou.json](./67368-amakuchi-dairoujou.json) |
 | Amalgam | 396419 | [396419-amalgam.json](./396419-amalgam.json) |
 | Amalgamare | 246859 | [246859-amalgamare.json](./246859-amalgamare.json) |
+| Amalgamated | 420313 | [420313-amalgamated.json](./420313-amalgamated.json) |
 | Amalgamy | 254311 | [254311-amalgamy.json](./254311-amalgamy.json) |
 | Amalgoom | 346646 | [346646-amalgoom.json](./346646-amalgoom.json) |
 | Amalgun | 347764 | [347764-amalgun.json](./347764-amalgun.json) |
@@ -12937,6 +12939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkedo Series: 02 Swap! | 80166 | [80166-arkedo-series-02-swap.json](./80166-arkedo-series-02-swap.json) |
 | Arkedo Series: 03 Pixel! | 77112 | [77112-arkedo-series-03-pixel.json](./77112-arkedo-series-03-pixel.json) |
 | Arkedo Series: 04 Slash! | 67032 | [67032-arkedo-series-04-slash.json](./67032-arkedo-series-04-slash.json) |
+| Arkelia: The Fragile Inheritance | 420348 | [420348-arkelia-the-fragile-inheritance.json](./420348-arkelia-the-fragile-inheritance.json) |
 | Arkell | 199453 | [199453-arkell.json](./199453-arkell.json) |
 | Arkem | 244684 | [244684-arkem.json](./244684-arkem.json) |
 | Arken | 177337 | [177337-arken.json](./177337-arken.json) |
