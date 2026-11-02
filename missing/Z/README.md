@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone 40 | 246225 | [246225-zone-40.json](./246225-zone-40.json) |
 | Zone 400 | 255338 | [255338-zone-400.json](./255338-zone-400.json) |
 | Zone 404 | 388763 | [388763-zone-404.json](./388763-zone-404.json) |
+| Zone 5 | 413396 | [413396-zone-5.json](./413396-zone-5.json) |
 | Zone 6 | 288442 | [288442-zone-6.json](./288442-zone-6.json) |
 | Zone 60 | 246228 | [246228-zone-60.json](./246228-zone-60.json) |
 | Zone 66 | 73826 | [73826-zone-66.json](./73826-zone-66.json) |
@@ -2217,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zootopia! | 200982 | [200982-zootopia.json](./200982-zootopia.json) |
 | Zootto Mahjong! | 37744 | [37744-zootto-mahjong.json](./37744-zootto-mahjong.json) |
 | Zootto Mahjong!: Event Version | 178929 | [178929-zootto-mahjong-event-version.json](./178929-zootto-mahjong-event-version.json) |
+| Zooville Detectives: A Read-Along Mystery | 413373 | [413373-zooville-detectives-a-read-along-mystery.json](./413373-zooville-detectives-a-read-along-mystery.json) |
 | ZooZooGo! | 64396 | [64396-zoozoogo.json](./64396-zoozoogo.json) |
 | Zopa | 303168 | [303168-zopa.json](./303168-zopa.json) |
 | Zor: Pilgrimage of the Slorfs | 123962 | [123962-zor-pilgrimage-of-the-slorfs.json](./123962-zor-pilgrimage-of-the-slorfs.json) |
@@ -2367,6 +2369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zunou Taisen Live | 267542 | [267542-zunou-taisen-live.json](./267542-zunou-taisen-live.json) |
 | ZunZun Block | 172657 | [172657-zunzun-block.json](./172657-zunzun-block.json) |
 | Zunzunkyou No Yabou | 40972 | [40972-zunzunkyou-no-yabou.json](./40972-zunzunkyou-no-yabou.json) |
+| Zuòwéi Yóuxì Hè Shīgē De Shìjiè | 407750 | [407750-zuowei-youxi-he-shige-de-shijie.json](./407750-zuowei-youxi-he-shige-de-shijie.json) |
 | Zup-qop! | 247081 | [247081-zup-qop.json](./247081-zup-qop.json) |
 | Zup-Zup! | 52097 | [52097-zup-zup.json](./52097-zup-zup.json) |
 | Zup! 2 | 26492 | [26492-zup-2.json](./26492-zup-2.json) |
