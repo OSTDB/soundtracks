@@ -2357,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make A Scene: Safari | 99897 | [99897-make-a-scene-safari.json](./99897-make-a-scene-safari.json) |
 | Make a Scene: Transport | 103120 | [103120-make-a-scene-transport.json](./103120-make-a-scene-transport.json) |
 | Make a Scene: Under the Sea | 101073 | [101073-make-a-scene-under-the-sea.json](./101073-make-a-scene-under-the-sea.json) |
+| Make a word! | 55755 | [55755-make-a-word.json](./55755-make-a-word.json) |
 | Make America Great Again | 36447 | [36447-make-america-great-again.json](./36447-make-america-great-again.json) |
 | Make America Great Again: The Trump Presidency | 31663 | [31663-make-america-great-again-the-trump-presidency.json](./31663-make-america-great-again-the-trump-presidency.json) |
 | Make Border Great Again! | 74345 | [74345-make-border-great-again.json](./74345-make-border-great-again.json) |
@@ -4525,6 +4526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary King's Riding School 2 | 61857 | [61857-mary-kings-riding-school-2.json](./61857-mary-kings-riding-school-2.json) |
 | Mary King's Riding Star | 64921 | [64921-mary-kings-riding-star.json](./64921-mary-kings-riding-star.json) |
 | Mary Knots: Garden Wedding | 170554 | [170554-mary-knots-garden-wedding.json](./170554-mary-knots-garden-wedding.json) |
+| Mary Le Chef: Cooking Passion | 41940 | [41940-mary-le-chef-cooking-passion.json](./41940-mary-le-chef-cooking-passion.json) |
 | Mary Shelley's Frankenstein | 257663 | [257663-mary-shelleys-frankenstein.json](./257663-mary-shelleys-frankenstein.json) |
 | Mary Shelley's Frankenstein / Bram Stoker's Dracula | 257664 | [257664-mary-shelleys-frankenstein-bram-stokers-dracula.json](./257664-mary-shelleys-frankenstein-bram-stokers-dracula.json) |
 | Mary Skelter 2 | 89548 | [89548-mary-skelter-2.json](./89548-mary-skelter-2.json) |
@@ -10318,6 +10320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Arrow | 239725 | [239725-midnight-arrow.json](./239725-midnight-arrow.json) |
 | Midnight at Blackwood Manor | 370150 | [370150-midnight-at-blackwood-manor.json](./370150-midnight-at-blackwood-manor.json) |
 | Midnight at the Disco | 265325 | [265325-midnight-at-the-disco.json](./265325-midnight-at-the-disco.json) |
+| Midnight at the Red Light | 41948 | [41948-midnight-at-the-red-light.json](./41948-midnight-at-the-red-light.json) |
 | Midnight at the Red Light : An Investigation | 82601 | [82601-midnight-at-the-red-light-an-investigation.json](./82601-midnight-at-the-red-light-an-investigation.json) |
 | Midnight Awake | 104153 | [104153-midnight-awake.json](./104153-midnight-awake.json) |
 | Midnight Bike | 158146 | [158146-midnight-bike.json](./158146-midnight-bike.json) |
