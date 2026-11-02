@@ -1312,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Cinema Empire | 231937 | [231937-idle-cinema-empire.json](./231937-idle-cinema-empire.json) |
 | Idle Cinema Tycoon | 369567 | [369567-idle-cinema-tycoon.json](./369567-idle-cinema-tycoon.json) |
 | Idle City Empire | 101068 | [101068-idle-city-empire.json](./101068-idle-city-empire.json) |
+| Idle Civilization | 34042 | [34042-idle-civilization.json](./34042-idle-civilization.json) |
 | Idle Clans | 243561 | [243561-idle-clans.json](./243561-idle-clans.json) |
 | Idle Colony | 299782 | [299782-idle-colony.json](./299782-idle-colony.json) |
 | Idle Colors | 402893 | [402893-idle-colors.json](./402893-idle-colors.json) |
