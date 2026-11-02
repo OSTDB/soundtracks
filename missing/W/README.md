@@ -4714,6 +4714,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wii Play | 2185 | [2185-wii-play.json](./2185-wii-play.json) |
 | Wii Sports + Wii Sports Resort | 130310 | [130310-wii-sports-wii-sports-resort.json](./130310-wii-sports-wii-sports-resort.json) |
 | Wii Sports Club | 23518 | [23518-wii-sports-club.json](./23518-wii-sports-club.json) |
+| Wii Sports Club: Bowling | 85488 | [85488-wii-sports-club-bowling.json](./85488-wii-sports-club-bowling.json) |
+| Wii Sports Club: Golf | 85489 | [85489-wii-sports-club-golf.json](./85489-wii-sports-club-golf.json) |
+| Wii Sports Club: Tennis | 85490 | [85490-wii-sports-club-tennis.json](./85490-wii-sports-club-tennis.json) |
 | Wii Sports Resort | 2182 | [2182-wii-sports-resort.json](./2182-wii-sports-resort.json) |
 | Wiimms Mario Kart Fun | 130017 | [130017-wiimms-mario-kart-fun.json](./130017-wiimms-mario-kart-fun.json) |
 | Wik & the Fable of Souls | 933 | [933-wik-and-the-fable-of-souls.json](./933-wik-and-the-fable-of-souls.json) |
@@ -7484,6 +7487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World End Diner | 152715 | [152715-world-end-diner.json](./152715-world-end-diner.json) |
 | World End Economica | 23438 | [23438-world-end-economica.json](./23438-world-end-economica.json) |
 | World End Economica Complete | 145966 | [145966-world-end-economica-complete.json](./145966-world-end-economica-complete.json) |
+| World End Economica: Episode.02 | 35327 | [35327-world-end-economica-episode-02.json](./35327-world-end-economica-episode-02.json) |
 | World End Economica: Episode.03 | 31319 | [31319-world-end-economica-episode-03.json](./31319-world-end-economica-episode-03.json) |
 | World End Girlfriend | 207204 | [207204-world-end-girlfriend.json](./207204-world-end-girlfriend.json) |
 | World Ends Wednesday | 264144 | [264144-world-ends-wednesday.json](./264144-world-ends-wednesday.json) |
@@ -7748,6 +7752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of the dead | 319721 | [319721-world-of-the-dead.json](./319721-world-of-the-dead.json) |
 | World of Titans | 230933 | [230933-world-of-titans.json](./230933-world-of-titans.json) |
 | World of Turtle | 132043 | [132043-world-of-turtle.json](./132043-world-of-turtle.json) |
+| World of Van Helsing: Deathtrap | 82402 | [82402-world-of-van-helsing-deathtrap.json](./82402-world-of-van-helsing-deathtrap.json) |
 | World of Vasnar | 356190 | [356190-world-of-vasnar.json](./356190-world-of-vasnar.json) |
 | World of Vespuccia Bundle | 406330 | [406330-world-of-vespuccia-bundle.json](./406330-world-of-vespuccia-bundle.json) |
 | World of Virtual Reality | 102898 | [102898-world-of-virtual-reality.json](./102898-world-of-virtual-reality.json) |
@@ -8767,6 +8772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Day of Reckoning | 4571 | [4571-wwe-day-of-reckoning.json](./4571-wwe-day-of-reckoning.json) |
 | WWE Immortals | 8736 | [8736-wwe-immortals.json](./8736-wwe-immortals.json) |
 | WWE Legends of WrestleMania | 7488 | [7488-wwe-legends-of-wrestlemania.json](./7488-wwe-legends-of-wrestlemania.json) |
+| WWE Mayhem | 83218 | [83218-wwe-mayhem.json](./83218-wwe-mayhem.json) |
 | WWE Mobile Madness | 23758 | [23758-wwe-mobile-madness.json](./23758-wwe-mobile-madness.json) |
 | WWE Presents: Rockpocalypse | 63263 | [63263-wwe-presents-rockpocalypse.json](./63263-wwe-presents-rockpocalypse.json) |
 | WWE Racing Showdown | 227163 | [227163-wwe-racing-showdown.json](./227163-wwe-racing-showdown.json) |
