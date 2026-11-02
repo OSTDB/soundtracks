@@ -4525,6 +4525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Film Fatale: Lights, Camera, Madness! | 125383 | [125383-film-fatale-lights-camera-madness.json](./125383-film-fatale-lights-camera-madness.json) |
 | Film Morbid | 310115 | [310115-film-morbid.json](./310115-film-morbid.json) |
 | Film Studio Manager | 241298 | [241298-film-studio-manager.json](./241298-film-studio-manager.json) |
+| Filmechanism | 154370 | [154370-filmechanism.json](./154370-filmechanism.json) |
 | Filmmaker Tycoon | 122003 | [122003-filmmaker-tycoon.json](./122003-filmmaker-tycoon.json) |
 | Filo: Something Filamentous | 420574 | [420574-filo-something-filamentous.json](./420574-filo-something-filamentous.json) |
 | Filsnown: Hikari to Toki | 247506 | [247506-filsnown-hikari-to-toki.json](./247506-filsnown-hikari-to-toki.json) |
@@ -10725,6 +10726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy in Space 3: Chica in Space | 272691 | [272691-freddy-in-space-3-chica-in-space.json](./272691-freddy-in-space-3-chica-in-space.json) |
 | Freddy Or Not | 396697 | [396697-freddy-or-not.json](./396697-freddy-or-not.json) |
 | Freddy Pharkas: Frontier Pharmacist | 110 | [110-freddy-pharkas-frontier-pharmacist.json](./110-freddy-pharkas-frontier-pharmacist.json) |
+| Freddy Spaghetti 2 | 155471 | [155471-freddy-spaghetti-2.json](./155471-freddy-spaghetti-2.json) |
 | Freddy's Archives: Remains Of The Past | 253949 | [253949-freddys-archives-remains-of-the-past.json](./253949-freddys-archives-remains-of-the-past.json) |
 | Freddy's Job : Old Pizzeria | 275151 | [275151-freddys-job-old-pizzeria.json](./275151-freddys-job-old-pizzeria.json) |
 | Freddy's Journey | 104083 | [104083-freddys-journey.json](./104083-freddys-journey.json) |
