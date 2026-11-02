@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Taiwan | 350325 | [350325-101-cats-in-taiwan.json](./350325-101-cats-in-taiwan.json) |
 | 101 Cats in Thailand | 350329 | [350329-101-cats-in-thailand.json](./350329-101-cats-in-thailand.json) |
 | 101 Cats in Tokyo | 322089 | [322089-101-cats-in-tokyo.json](./322089-101-cats-in-tokyo.json) |
+| 101 Cats in Toronto | 400578 | [400578-101-cats-in-toronto.json](./400578-101-cats-in-toronto.json) |
 | 101 Cats in Venice | 350322 | [350322-101-cats-in-venice.json](./350322-101-cats-in-venice.json) |
 | 101 Cats in Vienna | 337611 | [337611-101-cats-in-vienna.json](./337611-101-cats-in-vienna.json) |
 | 101 Cats: Melbourne | 420765 | [420765-101-cats-melbourne.json](./420765-101-cats-melbourne.json) |
@@ -1607,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 | 358071 | [358071-2048.json](./358071-2048.json) |
 | 2048 | 387159 | [387159-2048.json](./387159-2048.json) |
 | 2048 | 392962 | [392962-2048.json](./392962-2048.json) |
+| 2048 | 400357 | [400357-2048.json](./400357-2048.json) |
 | 2048 | 9105 | [9105-2048.json](./9105-2048.json) |
 | 2048 10x10 | 281417 | [281417-2048-10x10.json](./281417-2048-10x10.json) |
 | 2048 3D | 268679 | [268679-2048-3d.json](./268679-2048-3d.json) |
