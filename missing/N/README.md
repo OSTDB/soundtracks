@@ -3454,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL 2K Playmakers | 299177 | [299177-nfl-2k-playmakers.json](./299177-nfl-2k-playmakers.json) |
 | NFL 2K1 | 8843 | [8843-nfl-2k1.json](./8843-nfl-2k1.json) |
 | NFL 2K2 | 8845 | [8845-nfl-2k2.json](./8845-nfl-2k2.json) |
+| NFL 2K3 | 8846 | [8846-nfl-2k3.json](./8846-nfl-2k3.json) |
 | NFL Blitz | 19807 | [19807-nfl-blitz.json](./19807-nfl-blitz.json) |
 | NFL Blitz | 249135 | [249135-nfl-blitz.json](./249135-nfl-blitz.json) |
 | NFL Blitz | 812 | [812-nfl-blitz.json](./812-nfl-blitz.json) |
@@ -6244,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Normal Super Mario Bros. 3 | 279721 | [279721-normal-super-mario-bros-3.json](./279721-normal-super-mario-bros-3.json) |
 | Normal Super Mario Bros. DX | 279797 | [279797-normal-super-mario-bros-dx.json](./279797-normal-super-mario-bros-dx.json) |
 | Normal Super Mario Bros. Trilogy DX | 279799 | [279799-normal-super-mario-bros-trilogy-dx.json](./279799-normal-super-mario-bros-trilogy-dx.json) |
+| Normality | 8071 | [8071-normality.json](./8071-normality.json) |
 | Normalize Human Communication | 398982 | [398982-normalize-human-communication.json](./398982-normalize-human-communication.json) |
 | NormalTanks | 66658 | [66658-normaltanks.json](./66658-normaltanks.json) |
 | Norman | 245152 | [245152-norman.json](./245152-norman.json) |
