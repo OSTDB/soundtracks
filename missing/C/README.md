@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops III - The Giant | 290251 | [290251-call-of-duty-black-ops-iii-the-giant.json](./290251-call-of-duty-black-ops-iii-the-giant.json) |
 | Call of Duty: Black Ops III - Zombies Chronicles | 28413 | [28413-call-of-duty-black-ops-iii-zombies-chronicles.json](./28413-call-of-duty-black-ops-iii-zombies-chronicles.json) |
 | Call of Duty: Black Ops III - Zombies Chronicles Deluxe Edition | 290248 | [290248-call-of-duty-black-ops-iii-zombies-chronicles-deluxe-edition.json](./290248-call-of-duty-black-ops-iii-zombies-chronicles-deluxe-edition.json) |
+| Call of Duty: Black Ops III - Zombies Chronicles Edition | 51378 | [51378-call-of-duty-black-ops-iii-zombies-chronicles-edition.json](./51378-call-of-duty-black-ops-iii-zombies-chronicles-edition.json) |
 | Call of Duty: Black Ops III Game of the Year + Zombie Chronicles Bundle | 290254 | [290254-call-of-duty-black-ops-iii-game-of-the-year-zombie-chronicles-bundle.json](./290254-call-of-duty-black-ops-iii-game-of-the-year-zombie-chronicles-bundle.json) |
 | Call of Duty: Black Ops Mobile | 135300 | [135300-call-of-duty-black-ops-mobile.json](./135300-call-of-duty-black-ops-mobile.json) |
 | Call of Duty: Definitive Collection - Volume 1 | 52718 | [52718-call-of-duty-definitive-collection-volume-1.json](./52718-call-of-duty-definitive-collection-volume-1.json) |
@@ -972,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Life: Wilderness Survival 2025 | 362209 | [362209-camp-life-wilderness-survival-2025.json](./362209-camp-life-wilderness-survival-2025.json) |
 | Camp Palut | 173827 | [173827-camp-palut.json](./173827-camp-palut.json) |
 | Camp Phantom | 310542 | [310542-camp-phantom.json](./310542-camp-phantom.json) |
+| Camp Pokémon | 52197 | [52197-camp-pokemon.json](./52197-camp-pokemon.json) |
 | Camp Rock | 221995 | [221995-camp-rock.json](./221995-camp-rock.json) |
 | Camp Slaughter | 405943 | [405943-camp-slaughter.json](./405943-camp-slaughter.json) |
 | Camp Sunshine | 25605 | [25605-camp-sunshine.json](./25605-camp-sunshine.json) |
@@ -2645,6 +2647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnivores: Dinosaur Hunter | 20569 | [20569-carnivores-dinosaur-hunter.json](./20569-carnivores-dinosaur-hunter.json) |
 | Carnivores: Dinosaur Hunter HD | 20570 | [20570-carnivores-dinosaur-hunter-hd.json](./20570-carnivores-dinosaur-hunter-hd.json) |
 | Carnivores: Dinosaur Hunter Reborn | 17236 | [17236-carnivores-dinosaur-hunter-reborn.json](./17236-carnivores-dinosaur-hunter-reborn.json) |
+| Carnivores: Ice Age | 20566 | [20566-carnivores-ice-age.json](./20566-carnivores-ice-age.json) |
 | Carnor City | 417417 | [417417-carnor-city.json](./417417-carnor-city.json) |
 | Carnosis | 414556 | [414556-carnosis.json](./414556-carnosis.json) |
 | Carol Coral's: Open the Door | 319552 | [319552-carol-corals-open-the-door.json](./319552-carol-corals-open-the-door.json) |
@@ -3018,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CashKnight | 100910 | [100910-cashknight.json](./100910-cashknight.json) |
 | Cashtronauts | 34834 | [34834-cashtronauts.json](./34834-cashtronauts.json) |
 | Casina: A Visual Novel set in Ancient Greece | 144016 | [144016-casina-a-visual-novel-set-in-ancient-greece.json](./144016-casina-a-visual-novel-set-in-ancient-greece.json) |
+| Casino | 54797 | [54797-casino.json](./54797-casino.json) |
 | Casino Black Jack | 336095 | [336095-casino-black-jack.json](./336095-casino-black-jack.json) |
 | Casino Blackjack | 86560 | [86560-casino-blackjack.json](./86560-casino-blackjack.json) |
 | Casino Boss Simulator | 278701 | [278701-casino-boss-simulator.json](./278701-casino-boss-simulator.json) |
@@ -9684,6 +9688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork Dreams | 169238 | [169238-clockwork-dreams.json](./169238-clockwork-dreams.json) |
 | Clockwork Dungeon | 165682 | [165682-clockwork-dungeon.json](./165682-clockwork-dungeon.json) |
 | Clockwork Empires | 9764 | [9764-clockwork-empires.json](./9764-clockwork-empires.json) |
+| Clockwork Knight | 19756 | [19756-clockwork-knight.json](./19756-clockwork-knight.json) |
 | Clockwork Knight 2 | 19717 | [19717-clockwork-knight-2.json](./19717-clockwork-knight-2.json) |
 | Clockwork Knight Puzzle | 300552 | [300552-clockwork-knight-puzzle.json](./300552-clockwork-knight-puzzle.json) |
 | Clockwork Knight: Pepperouchau no Fukubukuro | 137541 | [137541-clockwork-knight-pepperouchau-no-fukubukuro.json](./137541-clockwork-knight-pepperouchau-no-fukubukuro.json) |
@@ -15172,6 +15177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrashMetal: Cyberpunk | 144661 | [144661-crashmetal-cyberpunk.json](./144661-crashmetal-cyberpunk.json) |
 | CrashMetal: Drift Racing Car Driving Simulator | 213805 | [213805-crashmetal-drift-racing-car-driving-simulator.json](./213805-crashmetal-drift-racing-car-driving-simulator.json) |
 | CrashMetal: Drift Racing Car Driving Simulator - Premium Edition | 283151 | [283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json](./283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json) |
+| Crashmo | 19928 | [19928-crashmo.json](./19928-crashmo.json) |
 | Crashnauts | 34131 | [34131-crashnauts.json](./34131-crashnauts.json) |
 | Crashocalypse | 201656 | [201656-crashocalypse.json](./201656-crashocalypse.json) |
 | Crashout | 379722 | [379722-crashout.json](./379722-crashout.json) |
