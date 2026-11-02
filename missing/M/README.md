@@ -2682,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamiya: FallDown | 368564 | [368564-mamiya-falldown.json](./368564-mamiya-falldown.json) |
 | Mamizou's Mimic Check | 338698 | [338698-mamizous-mimic-check.json](./338698-mamizous-mimic-check.json) |
 | Mammon: Devil Help | 216637 | [216637-mammon-devil-help.json](./216637-mammon-devil-help.json) |
+| Mammon’s Wager | 405820 | [405820-mammon-s-wager.json](./405820-mammon-s-wager.json) |
 | Mammoth Mini Golf AR | 87202 | [87202-mammoth-mini-golf-ar.json](./87202-mammoth-mini-golf-ar.json) |
 | Mammy Talk DS | 130391 | [130391-mammy-talk-ds.json](./130391-mammy-talk-ds.json) |
 | MamoBall | 208365 | [208365-mamoball.json](./208365-mamoball.json) |
@@ -13628,6 +13629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mochiko-san Reunion! | 237286 | [237286-mochiko-san-reunion.json](./237286-mochiko-san-reunion.json) |
 | MochiMochi | 107533 | [107533-mochimochi.json](./107533-mochimochi.json) |
 | Mock 2: The Speed of Stupid | 238485 | [238485-mock-2-the-speed-of-stupid.json](./238485-mock-2-the-speed-of-stupid.json) |
+| Mockbuster Video | 405850 | [405850-mockbuster-video.json](./405850-mockbuster-video.json) |
 | Mockingbird | 264759 | [264759-mockingbird.json](./264759-mockingbird.json) |
 | Moco Moco Friends | 19983 | [19983-moco-moco-friends.json](./19983-moco-moco-friends.json) |
 | Mod Mage Mike | 310743 | [310743-mod-mage-mike.json](./310743-mod-mage-mike.json) |
@@ -14005,6 +14007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moloch Kombinat | 410886 | [410886-moloch-kombinat.json](./410886-moloch-kombinat.json) |
 | Moloch's Priest | 144244 | [144244-molochs-priest.json](./144244-molochs-priest.json) |
 | Mologa | 188821 | [188821-mologa.json](./188821-mologa.json) |
+| Molokaust | 405832 | [405832-molokaust.json](./405832-molokaust.json) |
 | Moloko | 157006 | [157006-moloko.json](./157006-moloko.json) |
 | Molt | 260571 | [260571-molt.json](./260571-molt.json) |
 | Molten Armor | 55264 | [55264-molten-armor.json](./55264-molten-armor.json) |
@@ -16458,6 +16461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motel Snooze | 135800 | [135800-motel-snooze.json](./135800-motel-snooze.json) |
 | Motel Snooze: Suite Dreams | 352389 | [352389-motel-snooze-suite-dreams.json](./352389-motel-snooze-suite-dreams.json) |
 | Motel Styx | 215603 | [215603-motel-styx.json](./215603-motel-styx.json) |
+| Motelia | 405805 | [405805-motelia.json](./405805-motelia.json) |
 | MoteMancer | 338704 | [338704-motemancer.json](./338704-motemancer.json) |
 | Motesolo: No Girlfriend Since Birth | 140870 | [140870-motesolo-no-girlfriend-since-birth.json](./140870-motesolo-no-girlfriend-since-birth.json) |
 | Moth | 341424 | [341424-moth.json](./341424-moth.json) |
