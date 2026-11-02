@@ -7375,6 +7375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixasso | 164868 | [164868-pixasso.json](./164868-pixasso.json) |
 | Pixasso 2 | 165703 | [165703-pixasso-2.json](./165703-pixasso-2.json) |
 | Pixasso 3 | 166624 | [166624-pixasso-3.json](./166624-pixasso-3.json) |
+| PixBit | 32753 | [32753-pixbit.json](./32753-pixbit.json) |
 | Pixboy | 135650 | [135650-pixboy.json](./135650-pixboy.json) |
 | Pixel | 207078 | [207078-pixel.json](./207078-pixel.json) |
 | Pixel Action Heroes | 106350 | [106350-pixel-action-heroes.json](./106350-pixel-action-heroes.json) |
@@ -8938,6 +8939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasticalypse: TrashSub Adventures | 144025 | [144025-plasticalypse-trashsub-adventures.json](./144025-plasticalypse-trashsub-adventures.json) |
 | PlasticFighter | 310738 | [310738-plasticfighter.json](./310738-plasticfighter.json) |
 | Plasticity | 119192 | [119192-plasticity.json](./119192-plasticity.json) |
+| Plastiland | 33985 | [33985-plastiland.json](./33985-plastiland.json) |
 | Plastomorphosis | 259123 | [259123-plastomorphosis.json](./259123-plastomorphosis.json) |
 | Plastris | 130263 | [130263-plastris.json](./130263-plastris.json) |
 | Plastron | 92939 | [92939-plastron.json](./92939-plastron.json) |
