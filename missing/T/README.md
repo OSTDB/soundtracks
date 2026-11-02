@@ -2726,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TC's SC Double Agent | 83867 | [83867-tcs-sc-double-agent.json](./83867-tcs-sc-double-agent.json) |
 | Tcaf: Kate Beaton Dress Up!! | 184001 | [184001-tcaf-kate-beaton-dress-up.json](./184001-tcaf-kate-beaton-dress-up.json) |
 | Tcg & Duel | 346375 | [346375-tcg-and-duel.json](./346375-tcg-and-duel.json) |
+| TCG Card Collection: Tidy Up | 424614 | [424614-tcg-card-collection-tidy-up.json](./424614-tcg-card-collection-tidy-up.json) |
 | TCG Card Shop Empire | 323680 | [323680-tcg-card-shop-empire.json](./323680-tcg-card-shop-empire.json) |
 | TCG Card Shop Manager | 328084 | [328084-tcg-card-shop-manager.json](./328084-tcg-card-shop-manager.json) |
 | TCG Card Shop Simulator | 309862 | [309862-tcg-card-shop-simulator.json](./309862-tcg-card-shop-simulator.json) |
@@ -11581,6 +11582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Vikings | 56282 | [56282-the-last-vikings.json](./56282-the-last-vikings.json) |
 | The Last Visit: 98th | 344345 | [344345-the-last-visit-98th.json](./344345-the-last-visit-98th.json) |
 | The Last Voyage of the SS Aurelia | 405016 | [405016-the-last-voyage-of-the-ss-aurelia.json](./405016-the-last-voyage-of-the-ss-aurelia.json) |
+| The Last Wait | 424606 | [424606-the-last-wait.json](./424606-the-last-wait.json) |
 | The Last War | 173257 | [173257-the-last-war.json](./173257-the-last-war.json) |
 | The Last Warlock | 34881 | [34881-the-last-warlock.json](./34881-the-last-warlock.json) |
 | The Last Warmage | 298631 | [298631-the-last-warmage.json](./298631-the-last-warmage.json) |
@@ -15970,6 +15972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Speaker | 59676 | [59676-the-speaker.json](./59676-the-speaker.json) |
 | The Spearman | 323316 | [323316-the-spearman.json](./323316-the-spearman.json) |
 | The Specialists | 138772 | [138772-the-specialists.json](./138772-the-specialists.json) |
+| The Spectacular Evermore | 424603 | [424603-the-spectacular-evermore.json](./424603-the-spectacular-evermore.json) |
 | The Specter Chronicles: Episode 1 - The False Prophet | 236376 | [236376-the-specter-chronicles-episode-1-the-false-prophet.json](./236376-the-specter-chronicles-episode-1-the-false-prophet.json) |
 | The Specter's Desire | 301824 | [301824-the-specters-desire.json](./301824-the-specters-desire.json) |
 | The Spectral Web: Hitodama | 264575 | [264575-the-spectral-web-hitodama.json](./264575-the-spectral-web-hitodama.json) |
@@ -18990,6 +18993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thorgard | 288610 | [288610-thorgard.json](./288610-thorgard.json) |
 | Thorium Wars | 77078 | [77078-thorium-wars.json](./77078-thorium-wars.json) |
 | Thorium Wars: Attack of the Skyfighter | 61511 | [61511-thorium-wars-attack-of-the-skyfighter.json](./61511-thorium-wars-attack-of-the-skyfighter.json) |
+| Thorn Beach | 424631 | [424631-thorn-beach.json](./424631-thorn-beach.json) |
 | Thorn Demon Hunter | 201596 | [201596-thorn-demon-hunter.json](./201596-thorn-demon-hunter.json) |
 | Thorn for the Villain: Reincarnated as an Extra in an Otome Game?! | 255770 | [255770-thorn-for-the-villain-reincarnated-as-an-extra-in-an-otome-game.json](./255770-thorn-for-the-villain-reincarnated-as-an-extra-in-an-otome-game.json) |
 | Thorn: Knight of the Fifteenth City | 336331 | [336331-thorn-knight-of-the-fifteenth-city.json](./336331-thorn-knight-of-the-fifteenth-city.json) |
@@ -21216,6 +21220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Connect Master: Match fun | 294506 | [294506-tile-connect-master-match-fun.json](./294506-tile-connect-master-match-fun.json) |
 | Tile Connect: Onet Match | 171473 | [171473-tile-connect-onet-match.json](./171473-tile-connect-onet-match.json) |
 | Tile Conqueror | 123920 | [123920-tile-conqueror.json](./123920-tile-conqueror.json) |
+| Tile Conquest | 424597 | [424597-tile-conquest.json](./424597-tile-conquest.json) |
 | Tile Cross | 300723 | [300723-tile-cross.json](./300723-tile-cross.json) |
 | Tile Game Classic | 88272 | [88272-tile-game-classic.json](./88272-tile-game-classic.json) |
 | Tile Garden | 214305 | [214305-tile-garden.json](./214305-tile-garden.json) |
@@ -23596,6 +23601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tombers | 346656 | [346656-tombers.json](./346656-tombers.json) |
 | Tombo Breaker VR | 88254 | [88254-tombo-breaker-vr.json](./88254-tombo-breaker-vr.json) |
 | Tombo Survivor | 157167 | [157167-tombo-survivor.json](./157167-tombo-survivor.json) |
+| Tombone: Legend of the Cave Babes | 424590 | [424590-tombone-legend-of-the-cave-babes.json](./424590-tombone-legend-of-the-cave-babes.json) |
 | Tomboy Adventure | 154577 | [154577-tomboy-adventure.json](./154577-tomboy-adventure.json) |
 | Tomboy Adventure 2 | 298096 | [298096-tomboy-adventure-2.json](./298096-tomboy-adventure-2.json) |
 | Tomboy Stranded in Space | 393388 | [393388-tomboy-stranded-in-space.json](./393388-tomboy-stranded-in-space.json) |
@@ -25609,6 +25615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers, Turrets, Turtles | 236415 | [236415-towers-turrets-turtles.json](./236415-towers-turrets-turtles.json) |
 | Towerscape | 297422 | [297422-towerscape.json](./297422-towerscape.json) |
 | Towertale | 112938 | [112938-towertale.json](./112938-towertale.json) |
+| Towertower | 424616 | [424616-towertower.json](./424616-towertower.json) |
 | ToWhere? | 387006 | [387006-towhere.json](./387006-towhere.json) |
 | Towing Race | 239045 | [239045-towing-race.json](./239045-towing-race.json) |
 | Towing Simulator | 9451 | [9451-towing-simulator.json](./9451-towing-simulator.json) |
@@ -28146,6 +28153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Panda: The Adventures of Ricky and Boxman | 226433 | [226433-trash-panda-the-adventures-of-ricky-and-boxman.json](./226433-trash-panda-the-adventures-of-ricky-and-boxman.json) |
 | Trash Pandamonium | 302931 | [302931-trash-pandamonium.json](./302931-trash-pandamonium.json) |
 | Trash Panic | 20692 | [20692-trash-panic.json](./20692-trash-panic.json) |
+| Trash Party | 424648 | [424648-trash-party.json](./424648-trash-party.json) |
 | Trash Patrol | 201933 | [201933-trash-patrol.json](./201933-trash-patrol.json) |
 | Trash Patrol: Academic Version | 200434 | [200434-trash-patrol-academic-version.json](./200434-trash-patrol-academic-version.json) |
 | Trash Pit | 197143 | [197143-trash-pit.json](./197143-trash-pit.json) |
@@ -30769,6 +30777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Sports Football | 8671 | [8671-tv-sports-football.json](./8671-tv-sports-football.json) |
 | TV Sports Hockey | 8675 | [8675-tv-sports-hockey.json](./8675-tv-sports-hockey.json) |
 | TV Station Manager | 80320 | [80320-tv-station-manager.json](./80320-tv-station-manager.json) |
+| TV Station Tycoon | 424621 | [424621-tv-station-tycoon.json](./424621-tv-station-tycoon.json) |
 | TV Studio Story | 282014 | [282014-tv-studio-story.json](./282014-tv-studio-story.json) |
 | TV Thief | 190748 | [190748-tv-thief.json](./190748-tv-thief.json) |
 | TV Total Events | 50998 | [50998-tv-total-events.json](./50998-tv-total-events.json) |
@@ -31288,6 +31297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Way | 25904 | [25904-two-way.json](./25904-two-way.json) |
 | Two Weeks Game | 132571 | [132571-two-weeks-game.json](./132571-two-weeks-game.json) |
 | Two Weeks in Painland | 126933 | [126933-two-weeks-in-painland.json](./126933-two-weeks-in-painland.json) |
+| Two Winds | 424585 | [424585-two-winds.json](./424585-two-winds.json) |
 | Two World Portal | 187154 | [187154-two-world-portal.json](./187154-two-world-portal.json) |
 | Two Worlds | 177549 | [177549-two-worlds.json](./177549-two-worlds.json) |
 | Two Worlds Connected | 181359 | [181359-two-worlds-connected.json](./181359-two-worlds-connected.json) |
