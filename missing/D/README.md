@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D or D | 250004 | [250004-d-or-d.json](./250004-d-or-d.json) |
 | D Series Off Road Driving Simulation | 35478 | [35478-d-series-off-road-driving-simulation.json](./35478-d-series-off-road-driving-simulation.json) |
 | D-100 | 250968 | [250968-d-100.json](./250968-d-100.json) |
+| D-Beat Heroes | 403380 | [403380-d-beat-heroes.json](./403380-d-beat-heroes.json) |
 | D-Corp | 142824 | [142824-d-corp.json](./142824-d-corp.json) |
 | D-Cube Planet | 66980 | [66980-d-cube-planet.json](./66980-d-cube-planet.json) |
 | D-Day | 14768 | [14768-d-day.json](./14768-d-day.json) |
