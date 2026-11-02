@@ -9924,6 +9924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolly Hills | 241569 | [241569-rolly-hills.json](./241569-rolly-hills.json) |
 | Rolly Rails | 345701 | [345701-rolly-rails.json](./345701-rolly-rails.json) |
 | Rolly Rolly | 78535 | [78535-rolly-rolly.json](./78535-rolly-rolly.json) |
+| Rolly Vortex | 87374 | [87374-rolly-vortex.json](./87374-rolly-vortex.json) |
 | Rolly's Adventure | 119560 | [119560-rollys-adventure.json](./119560-rollys-adventure.json) |
 | Rollz | 304507 | [304507-rollz.json](./304507-rollz.json) |
 | Rolo to the Rescue | 46200 | [46200-rolo-to-the-rescue.json](./46200-rolo-to-the-rescue.json) |
