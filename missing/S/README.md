@@ -9703,6 +9703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent | 298086 | [298086-silent.json](./298086-silent.json) |
 | Silent Abyss: Fate of Heroes | 213217 | [213217-silent-abyss-fate-of-heroes.json](./213217-silent-abyss-fate-of-heroes.json) |
 | Silent Anomalies | 337071 | [337071-silent-anomalies.json](./337071-silent-anomalies.json) |
+| Silent Anomalies 2 | 422831 | [422831-silent-anomalies-2.json](./422831-silent-anomalies-2.json) |
 | Silent Apartment | 245369 | [245369-silent-apartment.json](./245369-silent-apartment.json) |
 | Silent Authority: Blood & Bourbon | 415876 | [415876-silent-authority-blood-and-bourbon.json](./415876-silent-authority-blood-and-bourbon.json) |
 | Silent Bomber | 24131 | [24131-silent-bomber.json](./24131-silent-bomber.json) |
@@ -9953,6 +9954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Sausage: Doggy Dessert | 56257 | [56257-silly-sausage-doggy-dessert.json](./56257-silly-sausage-doggy-dessert.json) |
 | Silly Scribbles | 285965 | [285965-silly-scribbles.json](./285965-silly-scribbles.json) |
 | Silly Skateboarding | 180698 | [180698-silly-skateboarding.json](./180698-silly-skateboarding.json) |
+| Silly Souls | 422809 | [422809-silly-souls.json](./422809-silly-souls.json) |
 | Silly Suspects | 309735 | [309735-silly-suspects.json](./309735-silly-suspects.json) |
 | Silly Sync | 379894 | [379894-silly-sync.json](./379894-silly-sync.json) |
 | Silly Wisher | 358506 | [358506-silly-wisher.json](./358506-silly-wisher.json) |
@@ -18562,6 +18564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mercs | 119493 | [119493-space-mercs.json](./119493-space-mercs.json) |
 | Space Mergers | 289348 | [289348-space-mergers.json](./289348-space-mergers.json) |
 | Space Milkman: Tsuneo wa Uchuu no Gyuunyuuya-san | 108133 | [108133-space-milkman-tsuneo-wa-uchuu-no-gyuunyuuya-san.json](./108133-space-milkman-tsuneo-wa-uchuu-no-gyuunyuuya-san.json) |
+| Space Mine Raider | 422775 | [422775-space-mine-raider.json](./422775-space-mine-raider.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Miner Blast | 120662 | [120662-space-miner-blast.json](./120662-space-miner-blast.json) |
 | Space Miner: Idle Adventures | 276173 | [276173-space-miner-idle-adventures.json](./276173-space-miner-idle-adventures.json) |
@@ -33346,6 +33349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Rogue | 150435 | [150435-sword-rogue.json](./150435-sword-rogue.json) |
 | Sword Saga | 46947 | [46947-sword-saga.json](./46947-sword-saga.json) |
 | Sword Sage: Awakening | 375869 | [375869-sword-sage-awakening.json](./375869-sword-sage-awakening.json) |
+| Sword Saint Soriel | 422814 | [422814-sword-saint-soriel.json](./422814-sword-saint-soriel.json) |
 | Sword Sanctuary | 333394 | [333394-sword-sanctuary.json](./333394-sword-sanctuary.json) |
 | Sword sand Shotguns | 258071 | [258071-sword-sand-shotguns.json](./258071-sword-sand-shotguns.json) |
 | Sword Shop | 182738 | [182738-sword-shop.json](./182738-sword-shop.json) |
@@ -33378,6 +33382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordbreaker: The Game - Deluxe Edition | 53698 | [53698-swordbreaker-the-game-deluxe-edition.json](./53698-swordbreaker-the-game-deluxe-edition.json) |
 | Swordcar | 260521 | [260521-swordcar.json](./260521-swordcar.json) |
 | Swordcery | 175772 | [175772-swordcery.json](./175772-swordcery.json) |
+| Sworder: The Inverse Tower | 422817 | [422817-sworder-the-inverse-tower.json](./422817-sworder-the-inverse-tower.json) |
 | Swordfight | 40794 | [40794-swordfight.json](./40794-swordfight.json) |
 | Swordfighting for People Who Are Really Bad at Swordfighting | 362797 | [362797-swordfighting-for-people-who-are-really-bad-at-swordfighting.json](./362797-swordfighting-for-people-who-are-really-bad-at-swordfighting.json) |
 | Swordfish | 272656 | [272656-swordfish.json](./272656-swordfish.json) |
@@ -33535,6 +33540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvan Disappearance | 260974 | [260974-sylvan-disappearance.json](./260974-sylvan-disappearance.json) |
 | Sylvan Idyll | 97284 | [97284-sylvan-idyll.json](./97284-sylvan-idyll.json) |
 | Sylvan Meadows | 136983 | [136983-sylvan-meadows.json](./136983-sylvan-meadows.json) |
+| Sylvan Tactics | 422850 | [422850-sylvan-tactics.json](./422850-sylvan-tactics.json) |
 | Sylvan Tale | 19691 | [19691-sylvan-tale.json](./19691-sylvan-tale.json) |
 | Sylvana's Chronicles | 259016 | [259016-sylvanas-chronicles.json](./259016-sylvanas-chronicles.json) |
 | Sylvania Families: Fashion Designer ni Naritai! Kurumi Risu no Onna no Ko | 49802 | [49802-sylvania-families-fashion-designer-ni-naritai-kurumi-risu-no-onna-no-ko.json](./49802-sylvania-families-fashion-designer-ni-naritai-kurumi-risu-no-onna-no-ko.json) |
