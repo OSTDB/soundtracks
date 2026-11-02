@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Horse Simulator | 87026 | [87026-ultimate-horse-simulator.json](./87026-ultimate-horse-simulator.json) |
 | Ultimate Hunt Challenge | 94346 | [94346-ultimate-hunt-challenge.json](./94346-ultimate-hunt-challenge.json) |
 | Ultimate Hunting | 337832 | [337832-ultimate-hunting.json](./337832-ultimate-hunting.json) |
+| Ultimate I Spy | 5252 | [5252-ultimate-i-spy.json](./5252-ultimate-i-spy.json) |
 | Ultimate Indie Racing | 306651 | [306651-ultimate-indie-racing.json](./306651-ultimate-indie-racing.json) |
 | Ultimate Jan Ken Pon | 22033 | [22033-ultimate-jan-ken-pon.json](./22033-ultimate-jan-ken-pon.json) |
 | Ultimate Jazz Jackrabbit Doom | 196004 | [196004-ultimate-jazz-jackrabbit-doom.json](./196004-ultimate-jazz-jackrabbit-doom.json) |
@@ -3390,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UtuRoom | 416648 | [416648-uturoom.json](./416648-uturoom.json) |
 | Uuno Turhapuro muuttaa maalle | 9074 | [9074-uuno-turhapuro-muuttaa-maalle.json](./9074-uuno-turhapuro-muuttaa-maalle.json) |
 | Uurnog | 27402 | [27402-uurnog.json](./27402-uurnog.json) |
+| Uurnog Uurnlimited | 55228 | [55228-uurnog-uurnlimited.json](./55228-uurnog-uurnlimited.json) |
 | Uuu so Smislom | 116096 | [116096-uuu-so-smislom.json](./116096-uuu-so-smislom.json) |
 | Uuultra C | 153662 | [153662-uuultra-c.json](./153662-uuultra-c.json) |
 | UVAO Forever | 349903 | [349903-uvao-forever.json](./349903-uvao-forever.json) |
