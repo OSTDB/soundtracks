@@ -5446,6 +5446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amen Variations | 382200 | [382200-the-amen-variations.json](./382200-the-amen-variations.json) |
 | The American Challenge: A Sailing Simulation | 12253 | [12253-the-american-challenge-a-sailing-simulation.json](./12253-the-american-challenge-a-sailing-simulation.json) |
 | The American Delta Vengeance Action Blood Force Kill Commando | 270209 | [270209-the-american-delta-vengeance-action-blood-force-kill-commando.json](./270209-the-american-delta-vengeance-action-blood-force-kill-commando.json) |
+| The American Dream | 25866 | [25866-the-american-dream.json](./25866-the-american-dream.json) |
 | The American Dream of Gunther Aims | 390474 | [390474-the-american-dream-of-gunther-aims.json](./390474-the-american-dream-of-gunther-aims.json) |
 | The American Girls Premiere | 18243 | [18243-the-american-girls-premiere.json](./18243-the-american-girls-premiere.json) |
 | The American War | 244286 | [244286-the-american-war.json](./244286-the-american-war.json) |
@@ -13592,6 +13593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Origin: Blind Maid | 151271 | [151271-the-origin-blind-maid.json](./151271-the-origin-blind-maid.json) |
 | The Original Island | 215735 | [215735-the-original-island.json](./215735-the-original-island.json) |
 | The Original Mobile Games | 130882 | [130882-the-original-mobile-games.json](./130882-the-original-mobile-games.json) |
+| The Original Strife: Veteran Edition | 24603 | [24603-the-original-strife-veteran-edition.json](./24603-the-original-strife-veteran-edition.json) |
 | The Orion Conspiracy | 23862 | [23862-the-orion-conspiracy.json](./23862-the-orion-conspiracy.json) |
 | The Orion Project | 58904 | [58904-the-orion-project.json](./58904-the-orion-project.json) |
 | The Orion Suns | 83534 | [83534-the-orion-suns.json](./83534-the-orion-suns.json) |
@@ -14019,6 +14021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Political Compass: Devil's Labyrinth | 135063 | [135063-the-political-compass-devils-labyrinth.json](./135063-the-political-compass-devils-labyrinth.json) |
 | The Political Machine 2008 | 50866 | [50866-the-political-machine-2008.json](./50866-the-political-machine-2008.json) |
 | The Political Machine 2012 | 51349 | [51349-the-political-machine-2012.json](./51349-the-political-machine-2012.json) |
+| The Political Machine 2016 | 24713 | [24713-the-political-machine-2016.json](./24713-the-political-machine-2016.json) |
 | The Political Machine 2016: Campaign DLC | 170172 | [170172-the-political-machine-2016-campaign-dlc.json](./170172-the-political-machine-2016-campaign-dlc.json) |
 | The Political Machine 2020 | 129073 | [129073-the-political-machine-2020.json](./129073-the-political-machine-2020.json) |
 | The Political Machine 2024 | 275696 | [275696-the-political-machine-2024.json](./275696-the-political-machine-2024.json) |
@@ -14839,6 +14842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sandbox | 16872 | [16872-the-sandbox.json](./16872-the-sandbox.json) |
 | The Sandbox | 182468 | [182468-the-sandbox.json](./182468-the-sandbox.json) |
 | The Sandbox - Building & Craft | 90705 | [90705-the-sandbox-building-and-craft.json](./90705-the-sandbox-building-and-craft.json) |
+| The Sandbox Evolution | 25943 | [25943-the-sandbox-evolution.json](./25943-the-sandbox-evolution.json) |
 | The Sandbox of God: Remastered Edition | 57590 | [57590-the-sandbox-of-god-remastered-edition.json](./57590-the-sandbox-of-god-remastered-edition.json) |
 | The Sands of Egypt | 23688 | [23688-the-sands-of-egypt.json](./23688-the-sands-of-egypt.json) |
 | The Sands of Voltark | 131944 | [131944-the-sands-of-voltark.json](./131944-the-sands-of-voltark.json) |
@@ -21221,6 +21225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timagi | 268941 | [268941-timagi.json](./268941-timagi.json) |
 | Timber | 25881 | [25881-timber.json](./25881-timber.json) |
 | Timber | 288597 | [288597-timber.json](./288597-timber.json) |
+| Timber and Stone | 24518 | [24518-timber-and-stone.json](./24518-timber-and-stone.json) |
 | Timber Fever | 385974 | [385974-timber-fever.json](./385974-timber-fever.json) |
 | Timber Jump VR | 149589 | [149589-timber-jump-vr.json](./149589-timber-jump-vr.json) |
 | Timber Panic | 373804 | [373804-timber-panic.json](./373804-timber-panic.json) |
@@ -21918,6 +21923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Mage | 90859 | [90859-tiny-mage.json](./90859-tiny-mage.json) |
 | Tiny Mage in Puzzle Land | 402928 | [402928-tiny-mage-in-puzzle-land.json](./402928-tiny-mage-in-puzzle-land.json) |
 | Tiny Man's Revenge | 258463 | [258463-tiny-mans-revenge.json](./258463-tiny-mans-revenge.json) |
+| Tiny Metal | 24974 | [24974-tiny-metal.json](./24974-tiny-metal.json) |
 | Tiny Metal 2 | 370273 | [370273-tiny-metal-2.json](./370273-tiny-metal-2.json) |
 | Tiny Metal: Full Metal Rumble | 116201 | [116201-tiny-metal-full-metal-rumble.json](./116201-tiny-metal-full-metal-rumble.json) |
 | Tiny Metal: Full Metal Rumble - Caeser's Rescue | 172126 | [172126-tiny-metal-full-metal-rumble-caesers-rescue.json](./172126-tiny-metal-full-metal-rumble-caesers-rescue.json) |
