@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landless | 28919 | [28919-landless.json](./28919-landless.json) |
 | Landleven | 115542 | [115542-landleven.json](./115542-landleven.json) |
 | Landline | 367526 | [367526-landline.json](./367526-landline.json) |
+| Landloop | 414731 | [414731-landloop.json](./414731-landloop.json) |
 | Landlord | 346718 | [346718-landlord.json](./346718-landlord.json) |
 | Landlord | 385584 | [385584-landlord.json](./385584-landlord.json) |
 | Landlord and the Tenants | 310279 | [310279-landlord-and-the-tenants.json](./310279-landlord-and-the-tenants.json) |
