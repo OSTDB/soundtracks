@@ -4027,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justy×Nasty: Maou Hajimemashita - Limited Edition | 149969 | [149969-justy-nasty-maou-hajimemashita-limited-edition.json](./149969-justy-nasty-maou-hajimemashita-limited-edition.json) |
 | Jut | 129578 | [129578-jut.json](./129578-jut.json) |
 | Jutei Senki | 42387 | [42387-jutei-senki.json](./42387-jutei-senki.json) |
+| Jutland | 21179 | [21179-jutland.json](./21179-jutland.json) |
 | Juuden Youshuugi: Crimson Paraselene | 253929 | [253929-juuden-youshuugi-crimson-paraselene.json](./253929-juuden-youshuugi-crimson-paraselene.json) |
 | Juuken Sentai Gekiranger: Niki-niki! Kazu Katachi ni Challenge! | 327594 | [327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json](./327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json) |
 | Juukou Senki: Bullet Battlers | 228567 | [228567-juukou-senki-bullet-battlers.json](./228567-juukou-senki-bullet-battlers.json) |
