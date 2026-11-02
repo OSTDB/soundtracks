@@ -903,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1553,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistic Machines | 152680 | [152680-ballistic-machines.json](./152680-ballistic-machines.json) |
 | Ballistic Mini Golf | 74117 | [74117-ballistic-mini-golf.json](./74117-ballistic-mini-golf.json) |
 | Ballistic Overkill | 17320 | [17320-ballistic-overkill.json](./17320-ballistic-overkill.json) |
+| Ballistic Protection | 30995 | [30995-ballistic-protection.json](./30995-ballistic-protection.json) |
 | Ballistic Tanks | 32327 | [32327-ballistic-tanks.json](./32327-ballistic-tanks.json) |
 | Ballistic Tilt | 363667 | [363667-ballistic-tilt.json](./363667-ballistic-tilt.json) |
 | Ballistic Zen | 211087 | [211087-ballistic-zen.json](./211087-ballistic-zen.json) |
@@ -10422,6 +10424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Sunset | 244657 | [244657-blood-sunset.json](./244657-blood-sunset.json) |
 | Blood Sword | 340348 | [340348-blood-sword.json](./340348-blood-sword.json) |
 | Blood Tender | 184770 | [184770-blood-tender.json](./184770-blood-tender.json) |
+| Blood Ties | 30921 | [30921-blood-ties.json](./30921-blood-ties.json) |
 | Blood Ties | 78714 | [78714-blood-ties.json](./78714-blood-ties.json) |
 | Blood Ties: A Hidden Object Game with a Bite | 206143 | [206143-blood-ties-a-hidden-object-game-with-a-bite.json](./206143-blood-ties-a-hidden-object-game-with-a-bite.json) |
 | Blood to Bone | 281382 | [281382-blood-to-bone.json](./281382-blood-to-bone.json) |
@@ -17164,6 +17167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Button Prison | 337526 | [337526-button-prison.json](./337526-button-prison.json) |
 | Button Soccer League | 167500 | [167500-button-soccer-league.json](./167500-button-soccer-league.json) |
 | Button Sorter | 358934 | [358934-button-sorter.json](./358934-button-sorter.json) |
+| Button Tales | 30894 | [30894-button-tales.json](./30894-button-tales.json) |
 | Button Tales: Way Home | 156188 | [156188-button-tales-way-home.json](./156188-button-tales-way-home.json) |
 | Button VR | 231302 | [231302-button-vr.json](./231302-button-vr.json) |
 | Button VR Expeditions | 247762 | [247762-button-vr-expeditions.json](./247762-button-vr-expeditions.json) |
