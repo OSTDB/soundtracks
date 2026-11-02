@@ -19057,6 +19057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Warlord Organ Trading Simulator | 144317 | [144317-space-warlord-organ-trading-simulator.json](./144317-space-warlord-organ-trading-simulator.json) |
 | Space Warp | 141430 | [141430-space-warp.json](./141430-space-warp.json) |
 | Space Warp | 17905 | [17905-space-warp.json](./17905-space-warp.json) |
+| Space Warpster | 404031 | [404031-space-warpster.json](./404031-space-warpster.json) |
 | Space Warrior | 146220 | [146220-space-warrior.json](./146220-space-warrior.json) |
 | Space Warrior | 310126 | [310126-space-warrior.json](./310126-space-warrior.json) |
 | Space Warrior | 359208 | [359208-space-warrior.json](./359208-space-warrior.json) |
@@ -20579,6 +20580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Evolution | 116288 | [116288-spin-evolution.json](./116288-spin-evolution.json) |
 | Spin for Love | 134326 | [134326-spin-for-love.json](./134326-spin-for-love.json) |
 | Spin Forward | 360716 | [360716-spin-forward.json](./360716-spin-forward.json) |
+| Spin Fun | 404005 | [404005-spin-fun.json](./404005-spin-fun.json) |
 | Spin Hero | 298130 | [298130-spin-hero.json](./298130-spin-hero.json) |
 | Spin Jam | 24129 | [24129-spin-jam.json](./24129-spin-jam.json) |
 | Spin Master | 39959 | [39959-spin-master.json](./39959-spin-master.json) |
@@ -27164,6 +27166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuntman | 197884 | [197884-stuntman.json](./197884-stuntman.json) |
 | Stuntman | 8267 | [8267-stuntman.json](./8267-stuntman.json) |
 | Stuntman Seymour | 39165 | [39165-stuntman-seymour.json](./39165-stuntman-seymour.json) |
+| Stuntman: Hollywood | 404048 | [404048-stuntman-hollywood.json](./404048-stuntman-hollywood.json) |
 | Stuntman: Ignition | 2783 | [2783-stuntman-ignition.json](./2783-stuntman-ignition.json) |
 | StuntMania Reloaded | 17872 | [17872-stuntmania-reloaded.json](./17872-stuntmania-reloaded.json) |
 | Stunts | 11630 | [11630-stunts.json](./11630-stunts.json) |
