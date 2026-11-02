@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Abductor | 14083 | [14083-galactic-abductor.json](./14083-galactic-abductor.json) |
 | Galactic Adventures | 357733 | [357733-galactic-adventures.json](./357733-galactic-adventures.json) |
 | Galactic Adventures | 377588 | [377588-galactic-adventures.json](./377588-galactic-adventures.json) |
+| Galactic Arms Race | 8915 | [8915-galactic-arms-race.json](./8915-galactic-arms-race.json) |
 | Galactic Assault Squad | 196696 | [196696-galactic-assault-squad.json](./196696-galactic-assault-squad.json) |
 | Galactic Assault: Prisoner of Power | 9375 | [9375-galactic-assault-prisoner-of-power.json](./9375-galactic-assault-prisoner-of-power.json) |
 | Galactic Asteroids Patrol | 127086 | [127086-galactic-asteroids-patrol.json](./127086-galactic-asteroids-patrol.json) |
@@ -3366,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getsuei Gakuen -kou- | 34263 | [34263-getsuei-gakuen-kou.json](./34263-getsuei-gakuen-kou.json) |
 | Getsuei no Kusari: Kyouran Moratoriamu | 136449 | [136449-getsuei-no-kusari-kyouran-moratoriamu.json](./136449-getsuei-no-kusari-kyouran-moratoriamu.json) |
 | Getsuei no Kusari: Sakuran Paranoia | 136448 | [136448-getsuei-no-kusari-sakuran-paranoia.json](./136448-getsuei-no-kusari-sakuran-paranoia.json) |
+| GetsuFumaDen: Undying Moon | 145785 | [145785-getsufumaden-undying-moon.json](./145785-getsufumaden-undying-moon.json) |
 | GetsuFumaDen: Undying Moon - Deluxe Edition | 249961 | [249961-getsufumaden-undying-moon-deluxe-edition.json](./249961-getsufumaden-undying-moon-deluxe-edition.json) |
 | GetsuFumaDen: Undying Moon - Digital Deluxe Edition | 199824 | [199824-getsufumaden-undying-moon-digital-deluxe-edition.json](./199824-getsufumaden-undying-moon-digital-deluxe-edition.json) |
 | Getter Love!!: Chou Renai Party Game Tanjou | 3504 | [3504-getter-love-chou-renai-party-game-tanjou.json](./3504-getter-love-chou-renai-party-game-tanjou.json) |
@@ -6755,6 +6757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorb Goes to Philadelphia | 420195 | [420195-gorb-goes-to-philadelphia.json](./420195-gorb-goes-to-philadelphia.json) |
 | Gorble | 311272 | [311272-gorble.json](./311272-gorble.json) |
 | Gorby no Pipeline Daisakusen | 48481 | [48481-gorby-no-pipeline-daisakusen.json](./48481-gorby-no-pipeline-daisakusen.json) |
+| Gord | 146212 | [146212-gord.json](./146212-gord.json) |
 | Gord: Deluxe Edition | 259522 | [259522-gord-deluxe-edition.json](./259522-gord-deluxe-edition.json) |
 | Gord: Ultimate Edition | 401939 | [401939-gord-ultimate-edition.json](./401939-gord-ultimate-edition.json) |
 | Gordi's Magical Movie Adventure | 335049 | [335049-gordis-magical-movie-adventure.json](./335049-gordis-magical-movie-adventure.json) |
@@ -8767,6 +8770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimguard Tactics | 304952 | [304952-grimguard-tactics.json](./304952-grimguard-tactics.json) |
 | Grimhook | 277334 | [277334-grimhook.json](./277334-grimhook.json) |
 | Grimhunt | 201446 | [201446-grimhunt.json](./201446-grimhunt.json) |
+| Grimind | 8950 | [8950-grimind.json](./8950-grimind.json) |
 | GrimKeep | 339144 | [339144-grimkeep.json](./339144-grimkeep.json) |
 | Grimland | 202513 | [202513-grimland.json](./202513-grimland.json) |
 | Grimlands | 65048 | [65048-grimlands.json](./65048-grimlands.json) |
