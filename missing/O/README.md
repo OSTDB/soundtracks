@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obludia | 17657 | [17657-obludia.json](./17657-obludia.json) |
 | Obnulenie | 363905 | [363905-obnulenie.json](./363905-obnulenie.json) |
 | Obocchama Kun | 42040 | [42040-obocchama-kun.json](./42040-obocchama-kun.json) |
+| Obolus | 423959 | [423959-obolus.json](./423959-obolus.json) |
 | OboStar | 96465 | [96465-obostar.json](./96465-obostar.json) |
 | Obreno: Chapter One | 138585 | [138585-obreno-chapter-one.json](./138585-obreno-chapter-one.json) |
 | Obrii | 371028 | [371028-obrii.json](./371028-obrii.json) |
