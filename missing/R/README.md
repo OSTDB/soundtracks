@@ -5893,6 +5893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrowave Road | 149274 | [149274-retrowave-road.json](./149274-retrowave-road.json) |
 | Retrowave World | 258383 | [258383-retrowave-world.json](./258383-retrowave-world.json) |
 | Retrozen | 298417 | [298417-retrozen.json](./298417-retrozen.json) |
+| Retruco 3D | 401508 | [401508-retruco-3d.json](./401508-retruco-3d.json) |
 | Retrys | 355576 | [355576-retrys.json](./355576-retrys.json) |
 | Retsnom | 34946 | [34946-retsnom.json](./34946-retsnom.json) |
 | Rettend: File 1 | 185931 | [185931-rettend-file-1.json](./185931-rettend-file-1.json) |
@@ -7006,6 +7007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riff: The Music Trivia DVD Game | 360767 | [360767-riff-the-music-trivia-dvd-game.json](./360767-riff-the-music-trivia-dvd-game.json) |
 | Riffle Effect | 217511 | [217511-riffle-effect.json](./217511-riffle-effect.json) |
 | RiffTrax: The Game | 194462 | [194462-rifftrax-the-game.json](./194462-rifftrax-the-game.json) |
+| Rifle Defender | 401566 | [401566-rifle-defender.json](./401566-rifle-defender.json) |
 | Rifle Dodger | 169774 | [169774-rifle-dodger.json](./169774-rifle-dodger.json) |
 | Rifle MarksMan | 119787 | [119787-rifle-marksman.json](./119787-rifle-marksman.json) |
 | Rifle Range | 413014 | [413014-rifle-range.json](./413014-rifle-range.json) |
@@ -8515,6 +8517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Detour | 274337 | [274337-robot-detour.json](./274337-robot-detour.json) |
 | Robot Dinosaurs That Shoot Beams When They Roar | 378445 | [378445-robot-dinosaurs-that-shoot-beams-when-they-roar.json](./378445-robot-dinosaurs-that-shoot-beams-when-they-roar.json) |
 | Robot Dir | 249768 | [249768-robot-dir.json](./249768-robot-dir.json) |
+| Robot Escape | 401567 | [401567-robot-escape.json](./401567-robot-escape.json) |
 | Robot Farm | 111857 | [111857-robot-farm.json](./111857-robot-farm.json) |
 | Robot Female Hero 1 | 115573 | [115573-robot-female-hero-1.json](./115573-robot-female-hero-1.json) |
 | Robot Female Hero 2 | 120939 | [120939-robot-female-hero-2.json](./120939-robot-female-hero-2.json) |
