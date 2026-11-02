@@ -2478,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neonsomnia | 257087 | [257087-neonsomnia.json](./257087-neonsomnia.json) |
 | NeonTunnel | 176365 | [176365-neontunnel.json](./176365-neontunnel.json) |
 | Neonverse Defenders | 150933 | [150933-neonverse-defenders.json](./150933-neonverse-defenders.json) |
+| Neonwall | 83535 | [83535-neonwall.json](./83535-neonwall.json) |
 | Neonwall VR | 110033 | [110033-neonwall-vr.json](./110033-neonwall-vr.json) |
 | NeonXSZ | 17314 | [17314-neonxsz.json](./17314-neonxsz.json) |
 | Neopets Browser | 131370 | [131370-neopets-browser.json](./131370-neopets-browser.json) |
@@ -5050,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo DSi Metronome | 85311 | [85311-nintendo-dsi-metronome.json](./85311-nintendo-dsi-metronome.json) |
 | Nintendo Game Seminar 2013: Jukousei Sakuhin | 396385 | [396385-nintendo-game-seminar-2013-jukousei-sakuhin.json](./396385-nintendo-game-seminar-2013-jukousei-sakuhin.json) |
 | Nintendo Labo: Toy-Con 01 - Variety Kit | 85308 | [85308-nintendo-labo-toy-con-01-variety-kit.json](./85308-nintendo-labo-toy-con-01-variety-kit.json) |
+| Nintendo Labo: Toy-Con 02 - Robot Kit | 85307 | [85307-nintendo-labo-toy-con-02-robot-kit.json](./85307-nintendo-labo-toy-con-02-robot-kit.json) |
 | Nintendo Labo: Toy-Con 03 - Drive Kit | 221511 | [221511-nintendo-labo-toy-con-03-drive-kit.json](./221511-nintendo-labo-toy-con-03-drive-kit.json) |
 | Nintendo Land | 2172 | [2172-nintendo-land.json](./2172-nintendo-land.json) |
 | Nintendo Mini Classic: Snoopy Tennis | 206367 | [206367-nintendo-mini-classic-snoopy-tennis.json](./206367-nintendo-mini-classic-snoopy-tennis.json) |
@@ -5928,6 +5930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nohra | 156659 | [156659-nohra.json](./156659-nohra.json) |
 | Nohzdyve | 123624 | [123624-nohzdyve.json](./123624-nohzdyve.json) |
 | Noir Bloom | 401461 | [401461-noir-bloom.json](./401461-noir-bloom.json) |
+| Noir Chronicles: City of Crime | 83606 | [83606-noir-chronicles-city-of-crime.json](./83606-noir-chronicles-city-of-crime.json) |
 | Noir Crime Bundle: Mafia, Mystery & Investigation | 402297 | [402297-noir-crime-bundle-mafia-mystery-and-investigation.json](./402297-noir-crime-bundle-mafia-mystery-and-investigation.json) |
 | Noir Detective | 185411 | [185411-noir-detective.json](./185411-noir-detective.json) |
 | Noir Fury | 138969 | [138969-noir-fury.json](./138969-noir-fury.json) |
