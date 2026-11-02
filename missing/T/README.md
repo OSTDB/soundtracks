@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Saga | 223896 | [223896-tactics-saga.json](./223896-tactics-saga.json) |
 | Tactics Unlimited | 332564 | [332564-tactics-unlimited.json](./332564-tactics-unlimited.json) |
 | Tactics V: "Obsidian Brigade" | 119598 | [119598-tactics-v-obsidian-brigade.json](./119598-tactics-v-obsidian-brigade.json) |
+| Tactics Wanderer | 402654 | [402654-tactics-wanderer.json](./402654-tactics-wanderer.json) |
 | Tactics: Bludgeons Blessing | 44130 | [44130-tactics-bludgeons-blessing.json](./44130-tactics-bludgeons-blessing.json) |
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
 | TactiCube | 235946 | [235946-tacticube.json](./235946-tacticube.json) |
@@ -4125,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Conflict | 112417 | [112417-terminal-conflict.json](./112417-terminal-conflict.json) |
 | Terminal Conflict: Flower Power Upgrade Pack | 155402 | [155402-terminal-conflict-flower-power-upgrade-pack.json](./155402-terminal-conflict-flower-power-upgrade-pack.json) |
 | Terminal Connection | 339408 | [339408-terminal-connection.json](./339408-terminal-connection.json) |
+| Terminal Cursor | 402661 | [402661-terminal-cursor.json](./402661-terminal-cursor.json) |
 | Terminal Defense | 298636 | [298636-terminal-defense.json](./298636-terminal-defense.json) |
 | Terminal Defense | 97092 | [97092-terminal-defense.json](./97092-terminal-defense.json) |
 | Terminal Descent | 371742 | [371742-terminal-descent.json](./371742-terminal-descent.json) |
@@ -7571,6 +7573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Eye: Skilltree Saga | 53724 | [53724-the-dark-eye-skilltree-saga.json](./53724-the-dark-eye-skilltree-saga.json) |
 | The Dark Fables of Aesop | 254454 | [254454-the-dark-fables-of-aesop.json](./254454-the-dark-fables-of-aesop.json) |
 | The Dark Fever | 210551 | [210551-the-dark-fever.json](./210551-the-dark-fever.json) |
+| The Dark Field | 402743 | [402743-the-dark-field.json](./402743-the-dark-field.json) |
 | The Dark Forest Calls | 420350 | [420350-the-dark-forest-calls.json](./420350-the-dark-forest-calls.json) |
 | The Dark Half | 71515 | [71515-the-dark-half.json](./71515-the-dark-half.json) |
 | The Dark Heart of Balor | 199483 | [199483-the-dark-heart-of-balor.json](./199483-the-dark-heart-of-balor.json) |
@@ -14229,6 +14232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pope: Power & Sin | 132697 | [132697-the-pope-power-and-sin.json](./132697-the-pope-power-and-sin.json) |
 | The Population Must Grow | 366738 | [366738-the-population-must-grow.json](./366738-the-population-must-grow.json) |
 | The Portal Dimension | 121323 | [121323-the-portal-dimension.json](./121323-the-portal-dimension.json) |
+| The Possession Experiment | 402683 | [402683-the-possession-experiment.json](./402683-the-possession-experiment.json) |
 | The Posthumous Investigation | 255719 | [255719-the-posthumous-investigation.json](./255719-the-posthumous-investigation.json) |
 | The Postman Only Dies Once | 71245 | [71245-the-postman-only-dies-once.json](./71245-the-postman-only-dies-once.json) |
 | The Potion Master | 232549 | [232549-the-potion-master.json](./232549-the-potion-master.json) |
@@ -14626,6 +14630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rebirth | 257304 | [257304-the-rebirth.json](./257304-the-rebirth.json) |
 | The Rebirth | 327223 | [327223-the-rebirth.json](./327223-the-rebirth.json) |
 | The Rebirth of Kingdom Lo | 244868 | [244868-the-rebirth-of-kingdom-lo.json](./244868-the-rebirth-of-kingdom-lo.json) |
+| The Rebirth Tale of Broken Horn Demon Lord Alice | 402741 | [402741-the-rebirth-tale-of-broken-horn-demon-lord-alice.json](./402741-the-rebirth-tale-of-broken-horn-demon-lord-alice.json) |
 | The Recipe of Madness | 134879 | [134879-the-recipe-of-madness.json](./134879-the-recipe-of-madness.json) |
 | The Reckoning Day | 55545 | [55545-the-reckoning-day.json](./55545-the-reckoning-day.json) |
 | The Reconnection Clinic | 183775 | [183775-the-reconnection-clinic.json](./183775-the-reconnection-clinic.json) |
@@ -25119,6 +25124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Mini Map | 292828 | [292828-touhou-mini-map.json](./292828-touhou-mini-map.json) |
 | Touhou Misfortune Mirror's Tale | 335060 | [335060-touhou-misfortune-mirrors-tale.json](./335060-touhou-misfortune-mirrors-tale.json) |
 | Touhou Mix | 193870 | [193870-touhou-mix.json](./193870-touhou-mix.json) |
+| Touhou Momogetsushou: Pitch Peach Paradise | 402647 | [402647-touhou-momogetsushou-pitch-peach-paradise.json](./402647-touhou-momogetsushou-pitch-peach-paradise.json) |
 | Touhou Money Stocks Shops | 173987 | [173987-touhou-money-stocks-shops.json](./173987-touhou-money-stocks-shops.json) |
 | Touhou Monjusen: Bubbling Imaginary Treasures | 321034 | [321034-touhou-monjusen-bubbling-imaginary-treasures.json](./321034-touhou-monjusen-bubbling-imaginary-treasures.json) |
 | Touhou Monster TD | 173434 | [173434-touhou-monster-td.json](./173434-touhou-monster-td.json) |
