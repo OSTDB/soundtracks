@@ -3886,6 +3886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Infestation | 190157 | [190157-deadly-infestation.json](./190157-deadly-infestation.json) |
 | Deadly Joy | 334503 | [334503-deadly-joy.json](./334503-deadly-joy.json) |
 | Deadly Kiss | 343351 | [343351-deadly-kiss.json](./343351-deadly-kiss.json) |
+| Deadly Match | 423960 | [423960-deadly-match.json](./423960-deadly-match.json) |
 | Deadly Maze | 156601 | [156601-deadly-maze.json](./156601-deadly-maze.json) |
 | Deadly Metal | 31788 | [31788-deadly-metal.json](./31788-deadly-metal.json) |
 | Deadly Metropolis | 359516 | [359516-deadly-metropolis.json](./359516-deadly-metropolis.json) |
@@ -5745,6 +5746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Dash | 213621 | [213621-delta-dash.json](./213621-delta-dash.json) |
 | Delta Directive | 412266 | [412266-delta-directive.json](./412266-delta-directive.json) |
 | Delta Fighter | 70192 | [70192-delta-fighter.json](./70192-delta-fighter.json) |
+| Delta Force + Delta Force 2 Double Pack | 423991 | [423991-delta-force-delta-force-2-double-pack.json](./423991-delta-force-delta-force-2-double-pack.json) |
 | Delta Force 2 | 9349 | [9349-delta-force-2.json](./9349-delta-force-2.json) |
 | Delta Force: Angel Falls | 9353 | [9353-delta-force-angel-falls.json](./9353-delta-force-angel-falls.json) |
 | Delta Force: Black Hawk Down | 200997 | [200997-delta-force-black-hawk-down.json](./200997-delta-force-black-hawk-down.json) |
@@ -5916,6 +5918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demigods | 34304 | [34304-demigods.json](./34304-demigods.json) |
 | DemiKids: Light Version | 49185 | [49185-demikids-light-version.json](./49185-demikids-light-version.json) |
 | Demining | 342163 | [342163-demining.json](./342163-demining.json) |
+| Demiourgos | 424002 | [424002-demiourgos.json](./424002-demiourgos.json) |
 | DeMiriam Magic: Blueprint of Miracle | 291857 | [291857-demiriam-magic-blueprint-of-miracle.json](./291857-demiriam-magic-blueprint-of-miracle.json) |
 | Demise Sanctuary | 201243 | [201243-demise-sanctuary.json](./201243-demise-sanctuary.json) |
 | Demise: Revenge of the Tavern Keeper | 415940 | [415940-demise-revenge-of-the-tavern-keeper.json](./415940-demise-revenge-of-the-tavern-keeper.json) |
@@ -16363,6 +16366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Duck Gone | 426428 | [426428-duck-duck-gone.json](./426428-duck-duck-gone.json) |
 | Duck Duck Goose | 133037 | [133037-duck-duck-goose.json](./133037-duck-duck-goose.json) |
 | Duck Duck Goose | 358870 | [358870-duck-duck-goose.json](./358870-duck-duck-goose.json) |
+| Duck Duck Grenade | 423961 | [423961-duck-duck-grenade.json](./423961-duck-duck-grenade.json) |
 | Duck Duck Hotel | 384083 | [384083-duck-duck-hotel.json](./384083-duck-duck-hotel.json) |
 | Duck Duck Plays the Blues | 182994 | [182994-duck-duck-plays-the-blues.json](./182994-duck-duck-plays-the-blues.json) |
 | Duck Duck Rocket | 176724 | [176724-duck-duck-rocket.json](./176724-duck-duck-rocket.json) |
@@ -17510,6 +17514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Dinners | 110117 | [110117-dungeons-and-dinners.json](./110117-dungeons-and-dinners.json) |
 | Dungeons and Doggos | 239461 | [239461-dungeons-and-doggos.json](./239461-dungeons-and-doggos.json) |
 | Dungeons and Dragons: Daggerdale | 15127 | [15127-dungeons-and-dragons-daggerdale.json](./15127-dungeons-and-dragons-daggerdale.json) |
+| Dungeons and Dumbasses | 423997 | [423997-dungeons-and-dumbasses.json](./423997-dungeons-and-dumbasses.json) |
 | Dungeons and Dungeons | 283544 | [283544-dungeons-and-dungeons.json](./283544-dungeons-and-dungeons.json) |
 | Dungeons and Female Teachers | 264758 | [264758-dungeons-and-female-teachers.json](./264758-dungeons-and-female-teachers.json) |
 | Dungeons and Goblins | 270328 | [270328-dungeons-and-goblins.json](./270328-dungeons-and-goblins.json) |
