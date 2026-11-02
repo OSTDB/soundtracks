@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wander | 10920 | [10920-wander.json](./10920-wander.json) |
 | Wander Hero | 173009 | [173009-wander-hero.json](./173009-wander-hero.json) |
 | Wander in Wonder | 272494 | [272494-wander-in-wonder.json](./272494-wander-in-wonder.json) |
+| Wander No More | 19259 | [19259-wander-no-more.json](./19259-wander-no-more.json) |
 | Wander Scoop | 384335 | [384335-wander-scoop.json](./384335-wander-scoop.json) |
 | Wander Stars | 211607 | [211607-wander-stars.json](./211607-wander-stars.json) |
 | Wander the Cosmos | 151955 | [151955-wander-the-cosmos.json](./151955-wander-the-cosmos.json) |
@@ -3332,6 +3333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Cowboy Gun Fight 2 | 234439 | [234439-western-cowboy-gun-fight-2.json](./234439-western-cowboy-gun-fight-2.json) |
 | Western Death | 312614 | [312614-western-death.json](./312614-western-death.json) |
 | Western Dual Wield | 207750 | [207750-western-dual-wield.json](./207750-western-dual-wield.json) |
+| Western FPS | 29245 | [29245-western-fps.json](./29245-western-fps.json) |
 | Western Front: The Liberation of Europe 1944-1945 | 70234 | [70234-western-front-the-liberation-of-europe-1944-1945.json](./70234-western-front-the-liberation-of-europe-1944-1945.json) |
 | Western Games | 36657 | [36657-western-games.json](./36657-western-games.json) |
 | Western Gun Shop Simulator | 401140 | [401140-western-gun-shop-simulator.json](./401140-western-gun-shop-simulator.json) |
@@ -3663,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's the Time Mr.Fox | 200140 | [200140-whats-the-time-mr-fox.json](./200140-whats-the-time-mr-fox.json) |
 | What's the Year | 233066 | [233066-whats-the-year.json](./233066-whats-the-year.json) |
 | What's under your blanket !? | 15744 | [15744-whats-under-your-blanket.json](./15744-whats-under-your-blanket.json) |
+| What's under your blanket 2 !? | 29217 | [29217-whats-under-your-blanket-2.json](./29217-whats-under-your-blanket-2.json) |
 | What's Up There? | 282225 | [282225-whats-up-there.json](./282225-whats-up-there.json) |
 | What's Updog | 228066 | [228066-whats-updog.json](./228066-whats-updog.json) |
 | What's Wrong with Jasper? | 178593 | [178593-whats-wrong-with-jasper.json](./178593-whats-wrong-with-jasper.json) |
@@ -4948,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Guns | 239478 | [239478-wild-west-guns.json](./239478-wild-west-guns.json) |
 | Wild West Miner Simulator | 391233 | [391233-wild-west-miner-simulator.json](./391233-wild-west-miner-simulator.json) |
 | Wild West Miner Simulator: First Gun | 405094 | [405094-wild-west-miner-simulator-first-gun.json](./405094-wild-west-miner-simulator-first-gun.json) |
+| Wild West Online | 29139 | [29139-wild-west-online.json](./29139-wild-west-online.json) |
 | Wild West Pioneers | 341034 | [341034-wild-west-pioneers.json](./341034-wild-west-pioneers.json) |
 | Wild West Quest 2 | 100073 | [100073-wild-west-quest-2.json](./100073-wild-west-quest-2.json) |
 | Wild West Quest: Gold Rush | 100223 | [100223-wild-west-quest-gold-rush.json](./100223-wild-west-quest-gold-rush.json) |
