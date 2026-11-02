@@ -2680,7 +2680,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger VR | 277837 | [277837-scavenger-vr.json](./277837-scavenger-vr.json) |
 | Scavenger Zero | 334184 | [334184-scavenger-zero.json](./334184-scavenger-zero.json) |
 | Scavenger's Deep | 201132 | [201132-scavengers-deep.json](./201132-scavengers-deep.json) |
-| Scavengers | 91041 | [91041-scavengers.json](./91041-scavengers.json) |
 | Scavengers of the Mutant World | 70185 | [70185-scavengers-of-the-mutant-world.json](./70185-scavengers-of-the-mutant-world.json) |
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
 | Scawy Game | 414867 | [414867-scawy-game.json](./414867-scawy-game.json) |
@@ -3869,7 +3868,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Rogue | 237446 | [237446-sea-rogue.json](./237446-sea-rogue.json) |
 | Sea Rover | 293523 | [293523-sea-rover.json](./293523-sea-rover.json) |
 | Sea Rovers: MetaPlunder | 187071 | [187071-sea-rovers-metaplunder.json](./187071-sea-rovers-metaplunder.json) |
-| Sea Salt | 96204 | [96204-sea-salt.json](./96204-sea-salt.json) |
 | Sea Salt City | 404240 | [404240-sea-salt-city.json](./404240-sea-salt-city.json) |
 | Sea Scenes | 219616 | [219616-sea-scenes.json](./219616-sea-scenes.json) |
 | Sea Search | 36688 | [36688-sea-search.json](./36688-sea-search.json) |
@@ -4329,6 +4327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Service: Security Breach | 73350 | [73350-secret-service-security-breach.json](./73350-secret-service-security-breach.json) |
 | Secret Shuffle | 258058 | [258058-secret-shuffle.json](./258058-secret-shuffle.json) |
 | Secret Spy: Operation Love | 240249 | [240249-secret-spy-operation-love.json](./240249-secret-spy-operation-love.json) |
+| Secret Squonker | 407087 | [407087-secret-squonker.json](./407087-secret-squonker.json) |
 | Secret Summer | 368096 | [368096-secret-summer.json](./368096-secret-summer.json) |
 | Secret Summoner | 236954 | [236954-secret-summoner.json](./236954-secret-summoner.json) |
 | Secret Tea Garden | 209942 | [209942-secret-tea-garden.json](./209942-secret-tea-garden.json) |
@@ -12868,6 +12867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Slayer | 298419 | [298419-slime-slayer.json](./298419-slime-slayer.json) |
 | Slime Slayer: Endless Loot | 412954 | [412954-slime-slayer-endless-loot.json](./412954-slime-slayer-endless-loot.json) |
 | Slime Smasher EX | 213645 | [213645-slime-smasher-ex.json](./213645-slime-smasher-ex.json) |
+| Slime Soup | 407061 | [407061-slime-soup.json](./407061-slime-soup.json) |
 | Slime Sports | 86501 | [86501-slime-sports.json](./86501-slime-sports.json) |
 | Slime Sprint | 157859 | [157859-slime-sprint.json](./157859-slime-sprint.json) |
 | Slime Squisher | 331657 | [331657-slime-squisher.json](./331657-slime-squisher.json) |
@@ -15819,7 +15819,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solstale | 285533 | [285533-solstale.json](./285533-solstale.json) |
 | Solstice | 306355 | [306355-solstice.json](./306355-solstice.json) |
 | Solstice | 324503 | [324503-solstice.json](./324503-solstice.json) |
-| Solstice | 36253 | [36253-solstice.json](./36253-solstice.json) |
 | Solstice | 393587 | [393587-solstice.json](./393587-solstice.json) |
 | Solstice Arena | 51673 | [51673-solstice-arena.json](./51673-solstice-arena.json) |
 | Solstice Chronicles: MIA | 27381 | [27381-solstice-chronicles-mia.json](./27381-solstice-chronicles-mia.json) |
@@ -18418,7 +18417,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Haste 2 | 72536 | [72536-space-haste-2.json](./72536-space-haste-2.json) |
 | Space Hat | 290685 | [290685-space-hat.json](./290685-space-hat.json) |
 | Space Hauler | 182800 | [182800-space-hauler.json](./182800-space-hauler.json) |
-| Space Haven | 103246 | [103246-space-haven.json](./103246-space-haven.json) |
 | Space Hawk | 5699 | [5699-space-hawk.json](./5699-space-hawk.json) |
 | Space Hawks | 13035 | [13035-space-hawks.json](./13035-space-hawks.json) |
 | Space Hero 50 | 174569 | [174569-space-hero-50.json](./174569-space-hero-50.json) |
@@ -21026,6 +21024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Apart | 324313 | [324313-split-apart.json](./324313-split-apart.json) |
 | Split Brain Samsara | 401487 | [401487-split-brain-samsara.json](./401487-split-brain-samsara.json) |
 | Split Bullet | 33341 | [33341-split-bullet.json](./33341-split-bullet.json) |
+| Split Circuit Arena | 407049 | [407049-split-circuit-arena.json](./407049-split-circuit-arena.json) |
 | Split Decision | 302901 | [302901-split-decision.json](./302901-split-decision.json) |
 | Split Drive | 189197 | [189197-split-drive.json](./189197-split-drive.json) |
 | Split Echo | 265493 | [265493-split-echo.json](./265493-split-echo.json) |
@@ -24750,6 +24749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steeplechase | 18204 | [18204-steeplechase.json](./18204-steeplechase.json) |
 | Steeplechase | 276345 | [276345-steeplechase.json](./276345-steeplechase.json) |
 | Steeplejack | 383968 | [383968-steeplejack.json](./383968-steeplejack.json) |
+| Steeplejack | 407077 | [407077-steeplejack.json](./407077-steeplejack.json) |
 | Steer Madness | 66745 | [66745-steer-madness.json](./66745-steer-madness.json) |
 | Steering Wheel Evolution | 214291 | [214291-steering-wheel-evolution.json](./214291-steering-wheel-evolution.json) |
 | Steezelpunk | 391722 | [391722-steezelpunk.json](./391722-steezelpunk.json) |
