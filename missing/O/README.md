@@ -5203,6 +5203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcooked! All You Can Eat: The Ever Peckish Rises | 182254 | [182254-overcooked-all-you-can-eat-the-ever-peckish-rises.json](./182254-overcooked-all-you-can-eat-the-ever-peckish-rises.json) |
 | Overcooked! All You Can Eat: The Overcooked Birthday Party | 182255 | [182255-overcooked-all-you-can-eat-the-overcooked-birthday-party.json](./182255-overcooked-all-you-can-eat-the-overcooked-birthday-party.json) |
 | Overcooked!: Special Edition | 51998 | [51998-overcooked-special-edition.json](./51998-overcooked-special-edition.json) |
+| Overcooked!: The Festive Seasoning | 26255 | [26255-overcooked-the-festive-seasoning.json](./26255-overcooked-the-festive-seasoning.json) |
 | Overcraft | 113148 | [113148-overcraft.json](./113148-overcraft.json) |
 | Overcrowded | 185147 | [185147-overcrowded.json](./185147-overcrowded.json) |
 | Overcrowded: Tycoon | 200743 | [200743-overcrowded-tycoon.json](./200743-overcrowded-tycoon.json) |
