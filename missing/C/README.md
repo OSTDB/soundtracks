@@ -3155,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caste | 155678 | [155678-caste.json](./155678-caste.json) |
 | Caste: The Secret Of Devon | 159777 | [159777-caste-the-secret-of-devon.json](./159777-caste-the-secret-of-devon.json) |
 | Castelian | 295029 | [295029-castelian.json](./295029-castelian.json) |
+| Castelian | 85025 | [85025-castelian.json](./85025-castelian.json) |
 | Castella | 361065 | [361065-castella.json](./361065-castella.json) |
 | Castellan | 411700 | [411700-castellan.json](./411700-castellan.json) |
 | Castelo Negro | 242123 | [242123-castelo-negro.json](./242123-castelo-negro.json) |
@@ -8794,6 +8795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cityscape Sprint | 208676 | [208676-cityscape-sprint.json](./208676-cityscape-sprint.json) |
 | Cityscapes | 386554 | [386554-cityscapes.json](./386554-cityscapes.json) |
 | Cityscapes: Sim Builder | 248581 | [248581-cityscapes-sim-builder.json](./248581-cityscapes-sim-builder.json) |
+| Citystate | 84003 | [84003-citystate.json](./84003-citystate.json) |
 | Citystate II | 142168 | [142168-citystate-ii.json](./142168-citystate-ii.json) |
 | Citytopia | 114791 | [114791-citytopia.json](./114791-citytopia.json) |
 | CityVille | 80153 | [80153-cityville.json](./80153-cityville.json) |
@@ -11896,6 +11898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer 3: Tiberium Wars - Map Pack 1 | 403965 | [403965-command-and-conquer-3-tiberium-wars-map-pack-1.json](./403965-command-and-conquer-3-tiberium-wars-map-pack-1.json) |
 | Command & Conquer 3D | 414520 | [414520-command-and-conquer-3d.json](./414520-command-and-conquer-3d.json) |
 | Command & Conquer Remastered Collection | 112104 | [112104-command-and-conquer-remastered-collection.json](./112104-command-and-conquer-remastered-collection.json) |
+| Command & Conquer: Generals - Deluxe Edition | 87190 | [87190-command-and-conquer-generals-deluxe-edition.json](./87190-command-and-conquer-generals-deluxe-edition.json) |
 | Command & Conquer: Legions | 256912 | [256912-command-and-conquer-legions.json](./256912-command-and-conquer-legions.json) |
 | Command & Conquer: Legions - Season Red Alert | 314404 | [314404-command-and-conquer-legions-season-red-alert.json](./314404-command-and-conquer-legions-season-red-alert.json) |
 | Command & Conquer: Red Alert - Counterstrike | 676 | [676-command-and-conquer-red-alert-counterstrike.json](./676-command-and-conquer-red-alert-counterstrike.json) |
@@ -12879,6 +12882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constructopia | 196960 | [196960-constructopia.json](./196960-constructopia.json) |
 | Constructor | 2614 | [2614-constructor.json](./2614-constructor.json) |
 | Constructor | 26780 | [26780-constructor.json](./26780-constructor.json) |
+| Constructor Plus | 85546 | [85546-constructor-plus.json](./85546-constructor-plus.json) |
 | Constructor: Building Pack 1 - World Tenant Buildings | 226839 | [226839-constructor-building-pack-1-world-tenant-buildings.json](./226839-constructor-building-pack-1-world-tenant-buildings.json) |
 | Constructor: Building Pack 2 Made in America | 226840 | [226840-constructor-building-pack-2-made-in-america.json](./226840-constructor-building-pack-2-made-in-america.json) |
 | Constructor360 | 90907 | [90907-constructor360.json](./90907-constructor360.json) |
@@ -15869,6 +15873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Races | 44192 | [44192-creepy-races.json](./44192-creepy-races.json) |
 | Creepy Redneck Dinosaur Mansion 1 Re-Raptored | 356682 | [356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json](./356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json) |
 | Creepy Redneck Dinosaur Mansion 3 | 333174 | [333174-creepy-redneck-dinosaur-mansion-3.json](./333174-creepy-redneck-dinosaur-mansion-3.json) |
+| Creepy Road | 86255 | [86255-creepy-road.json](./86255-creepy-road.json) |
 | Creepy Shift: Deer Farm | 405778 | [405778-creepy-shift-deer-farm.json](./405778-creepy-shift-deer-farm.json) |
 | Creepy Shift: House For Sale | 334639 | [334639-creepy-shift-house-for-sale.json](./334639-creepy-shift-house-for-sale.json) |
 | Creepy Shift: Roadside Diner | 319869 | [319869-creepy-shift-roadside-diner.json](./319869-creepy-shift-roadside-diner.json) |
