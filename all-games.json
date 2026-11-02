@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-02T22:36:27.662Z",
-  "total_soundtracks": 2863,
+  "generated_at": "2026-11-02T22:40:56.592Z",
+  "total_soundtracks": 2865,
   "games": [
     {
       "igdb_id": 7522,
@@ -2007,6 +2007,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/assassins-creed-mirage-valley-of-memory-original/1850997103?uo=4",
           "album_link_url": "https://album.link/i/1850997103"
+        }
+      ]
+    },
+    {
+      "igdb_id": 371880,
+      "game_name": "Assassin’s Creed Mirage: Valley of Memory",
+      "game_url": "https://ostdb.net/games/assassin-s-creed-mirage-valley-of-memory",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730fee25ae9170334061ba626e",
+      "albums": [
+        {
+          "album_name": "Assassin's Creed Mirage: Valley of Memory (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7nwb2m6SqMQzyjyqQrMqyO",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -23637,6 +23651,20 @@
         {
           "album_name": "Regalia: Of Men and Monarchs (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0rgMYF3zNeXzHB9FOTgwoJ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 9599,
+      "game_name": "Reign of Kings",
+      "game_url": "https://ostdb.net/games/reign-of-kings",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27345015b21c4384eb8a5dcd06b",
+      "albums": [
+        {
+          "album_name": "Reign of Kings (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1FKYkKSibdX2z9TgAaCP1S",
           "apple_music_url": "",
           "album_link_url": ""
         }
