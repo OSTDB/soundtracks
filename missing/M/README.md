@@ -3435,6 +3435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi's Coin Chaos | 318039 | [318039-mario-and-luigis-coin-chaos.json](./318039-mario-and-luigis-coin-chaos.json) |
 | Mario & Luigi's Delightful Adventure | 307725 | [307725-mario-and-luigis-delightful-adventure.json](./307725-mario-and-luigis-delightful-adventure.json) |
 | Mario & Sonic | 324089 | [324089-mario-and-sonic.json](./324089-mario-and-sonic.json) |
+| Mario & Sonic at the London 2012 Olympic Games | 132110 | [132110-mario-and-sonic-at-the-london-2012-olympic-games.json](./132110-mario-and-sonic-at-the-london-2012-olympic-games.json) |
 | Mario & Sonic at the London 2012 Olympic Games | 2708 | [2708-mario-and-sonic-at-the-london-2012-olympic-games.json](./2708-mario-and-sonic-at-the-london-2012-olympic-games.json) |
 | Mario & Sonic at the London 2012 Olympic Games: Virtual Card Album | 294652 | [294652-mario-and-sonic-at-the-london-2012-olympic-games-virtual-card-album.json](./294652-mario-and-sonic-at-the-london-2012-olympic-games-virtual-card-album.json) |
 | Mario & Sonic at the Olympic Games | 132108 | [132108-mario-and-sonic-at-the-olympic-games.json](./132108-mario-and-sonic-at-the-olympic-games.json) |
@@ -9392,9 +9393,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Warp | 19030 | [19030-metro-warp.json](./19030-metro-warp.json) |
 | Metro-Cross | 39688 | [39688-metro-cross.json](./39688-metro-cross.json) |
 | Metro-Police | 19586 | [19586-metro-police.json](./19586-metro-police.json) |
+| Metro: Last Light - Chronicles Pack | 128650 | [128650-metro-last-light-chronicles-pack.json](./128650-metro-last-light-chronicles-pack.json) |
 | Metro: Last Light - Complete Edition | 42992 | [42992-metro-last-light-complete-edition.json](./42992-metro-last-light-complete-edition.json) |
+| Metro: Last Light - Developer Pack | 128649 | [128649-metro-last-light-developer-pack.json](./128649-metro-last-light-developer-pack.json) |
 | Metro: Last Light - Faction Pack | 128647 | [128647-metro-last-light-faction-pack.json](./128647-metro-last-light-faction-pack.json) |
 | Metro: Last Light - Limited Edition | 47429 | [47429-metro-last-light-limited-edition.json](./47429-metro-last-light-limited-edition.json) |
+| Metro: Last Light - Tower Pack | 128648 | [128648-metro-last-light-tower-pack.json](./128648-metro-last-light-tower-pack.json) |
 | Metro.Siberia | 283743 | [283743-metro-siberia.json](./283743-metro-siberia.json) |
 | Metrocide | 8757 | [8757-metrocide.json](./8757-metrocide.json) |
 | Metrocity | 392102 | [392102-metrocity.json](./392102-metrocity.json) |
@@ -10509,6 +10513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic Heroes VII: Deluxe Edition | 53355 | [53355-might-and-magic-heroes-vii-deluxe-edition.json](./53355-might-and-magic-heroes-vii-deluxe-edition.json) |
 | Might & Magic Heroes VII: Ultimate Edition | 219753 | [219753-might-and-magic-heroes-vii-ultimate-edition.json](./219753-might-and-magic-heroes-vii-ultimate-edition.json) |
 | Might & Magic Heroes: Era of Chaos | 125744 | [125744-might-and-magic-heroes-era-of-chaos.json](./125744-might-and-magic-heroes-era-of-chaos.json) |
+| Might & Magic: Chess Royale | 130516 | [130516-might-and-magic-chess-royale.json](./130516-might-and-magic-chess-royale.json) |
 | Might & Magic: Clash of Heroes | 1889 | [1889-might-and-magic-clash-of-heroes.json](./1889-might-and-magic-clash-of-heroes.json) |
 | Might & Magic: Clash of Heroes - Definitive Edition | 247376 | [247376-might-and-magic-clash-of-heroes-definitive-edition.json](./247376-might-and-magic-clash-of-heroes-definitive-edition.json) |
 | Might & Magic: Duel of Champions | 1890 | [1890-might-and-magic-duel-of-champions.json](./1890-might-and-magic-duel-of-champions.json) |
@@ -17793,6 +17798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muppet Babies: Thinking and Sorting | 320198 | [320198-muppet-babies-thinking-and-sorting.json](./320198-muppet-babies-thinking-and-sorting.json) |
 | Muppet Babies: Toyland Train | 320197 | [320197-muppet-babies-toyland-train.json](./320197-muppet-babies-toyland-train.json) |
 | Muppet Madness | 59165 | [59165-muppet-madness.json](./59165-muppet-madness.json) |
+| Muppet Monster Adventure | 3258 | [3258-muppet-monster-adventure.json](./3258-muppet-monster-adventure.json) |
 | Muppet Pinball Mayhem | 49322 | [49322-muppet-pinball-mayhem.json](./49322-muppet-pinball-mayhem.json) |
 | Muppet RaceMania | 3259 | [3259-muppet-racemania.json](./3259-muppet-racemania.json) |
 | Muppet Studios Presents: You're the Director | 80528 | [80528-muppet-studios-presents-youre-the-director.json](./80528-muppet-studios-presents-youre-the-director.json) |
