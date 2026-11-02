@@ -5527,6 +5527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restlos | 400708 | [400708-restlos.json](./400708-restlos.json) |
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
 | Restorart: Horizon Bay Collector's Edition | 344416 | [344416-restorart-horizon-bay-collectors-edition.json](./344416-restorart-horizon-bay-collectors-edition.json) |
+| Restoration | 426414 | [426414-restoration.json](./426414-restoration.json) |
 | Restoration | 55356 | [55356-restoration.json](./55356-restoration.json) |
 | Restoration Master | 158095 | [158095-restoration-master.json](./158095-restoration-master.json) |
 | Restore | 305314 | [305314-restore.json](./305314-restore.json) |
@@ -7670,6 +7671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite of Passage | 57496 | [57496-rite-of-passage.json](./57496-rite-of-passage.json) |
 | Rite of Passage: Child of the Forest | 63375 | [63375-rite-of-passage-child-of-the-forest.json](./63375-rite-of-passage-child-of-the-forest.json) |
 | Rite of Passage: Child of the Forest - Collector's Edition | 28743 | [28743-rite-of-passage-child-of-the-forest-collectors-edition.json](./28743-rite-of-passage-child-of-the-forest-collectors-edition.json) |
+| Rite of Passage: Deck of Fates - Collector's Edition | 426411 | [426411-rite-of-passage-deck-of-fates-collectors-edition.json](./426411-rite-of-passage-deck-of-fates-collectors-edition.json) |
 | Rite of Passage: Heart of the Storm | 104117 | [104117-rite-of-passage-heart-of-the-storm.json](./104117-rite-of-passage-heart-of-the-storm.json) |
 | Rite of Passage: Heart of the Storm - Collector's Edition | 194636 | [194636-rite-of-passage-heart-of-the-storm-collectors-edition.json](./194636-rite-of-passage-heart-of-the-storm-collectors-edition.json) |
 | Rite of Passage: Hide and Seek | 98377 | [98377-rite-of-passage-hide-and-seek.json](./98377-rite-of-passage-hide-and-seek.json) |
@@ -10627,6 +10629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotten Crop | 357749 | [357749-rotten-crop.json](./357749-rotten-crop.json) |
 | Rotten Dinner | 254092 | [254092-rotten-dinner.json](./254092-rotten-dinner.json) |
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
+| Rotten Machines | 426453 | [426453-rotten-machines.json](./426453-rotten-machines.json) |
 | Rotten Stigma | 392181 | [392181-rotten-stigma.json](./392181-rotten-stigma.json) |
 | Rotten Sun | 183948 | [183948-rotten-sun.json](./183948-rotten-sun.json) |
 | Rotten Survivor | 364831 | [364831-rotten-survivor.json](./364831-rotten-survivor.json) |
