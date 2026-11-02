@@ -6213,6 +6213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Lost | 155889 | [155889-shadow-lost.json](./155889-shadow-lost.json) |
 | Shadow Madness | 44969 | [44969-shadow-madness.json](./44969-shadow-madness.json) |
 | Shadow Man | 3598 | [3598-shadow-man.json](./3598-shadow-man.json) |
+| Shadow Man Remastered | 131889 | [131889-shadow-man-remastered.json](./131889-shadow-man-remastered.json) |
 | Shadow Man: 2econd Coming | 3599 | [3599-shadow-man-2econd-coming.json](./3599-shadow-man-2econd-coming.json) |
 | Shadow Mansion | 306385 | [306385-shadow-mansion.json](./306385-shadow-mansion.json) |
 | Shadow Mansion 2 | 374144 | [374144-shadow-mansion-2.json](./374144-shadow-mansion-2.json) |
@@ -7541,6 +7542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shields of Asgard | 223252 | [223252-shields-of-asgard.json](./223252-shields-of-asgard.json) |
 | Shields of Loyalty | 156040 | [156040-shields-of-loyalty.json](./156040-shields-of-loyalty.json) |
 | Shields Up! VR | 102196 | [102196-shields-up-vr.json](./102196-shields-up-vr.json) |
+| Shieldwall | 129697 | [129697-shieldwall.json](./129697-shieldwall.json) |
 | Shieldwall Chronicles | 197769 | [197769-shieldwall-chronicles.json](./197769-shieldwall-chronicles.json) |
 | Shieldwall Chronicles: Realm of Madness | 158884 | [158884-shieldwall-chronicles-realm-of-madness.json](./158884-shieldwall-chronicles-realm-of-madness.json) |
 | Shieldwall Chronicles: Swords of the North | 112849 | [112849-shieldwall-chronicles-swords-of-the-north.json](./112849-shieldwall-chronicles-swords-of-the-north.json) |
@@ -8805,6 +8807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shovel Knight: Dig - Wicked Wishes | 305755 | [305755-shovel-knight-dig-wicked-wishes.json](./305755-shovel-knight-dig-wicked-wishes.json) |
 | Shovel Knight: King of Cards | 27241 | [27241-shovel-knight-king-of-cards.json](./27241-shovel-knight-king-of-cards.json) |
 | Shovel Knight: Plague of Shadows | 20027 | [20027-shovel-knight-plague-of-shadows.json](./20027-shovel-knight-plague-of-shadows.json) |
+| Shovel Knight: Pocket Dungeon | 133503 | [133503-shovel-knight-pocket-dungeon.json](./133503-shovel-knight-pocket-dungeon.json) |
 | Shovel Knight: Pocket Dungeon - Paradox Pack DLC | 305756 | [305756-shovel-knight-pocket-dungeon-paradox-pack-dlc.json](./305756-shovel-knight-pocket-dungeon-paradox-pack-dlc.json) |
 | Shovel Knight: Pocket Dungeon - Puzzler's Pack DLC | 246405 | [246405-shovel-knight-pocket-dungeon-puzzlers-pack-dlc.json](./246405-shovel-knight-pocket-dungeon-puzzlers-pack-dlc.json) |
 | Shovel Knight: Shovel of Hope DX | 305757 | [305757-shovel-knight-shovel-of-hope-dx.json](./305757-shovel-knight-shovel-of-hope-dx.json) |
@@ -15850,6 +15853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Horror - Episode 4 | 135153 | [135153-song-of-horror-episode-4.json](./135153-song-of-horror-episode-4.json) |
 | Song of Horror - Episode 5 | 135158 | [135158-song-of-horror-episode-5.json](./135158-song-of-horror-episode-5.json) |
 | Song of Horror Episodes 2-5 | 135160 | [135160-song-of-horror-episodes-2-5.json](./135160-song-of-horror-episodes-2-5.json) |
+| Song of Horror: Complete Edition | 135162 | [135162-song-of-horror-complete-edition.json](./135162-song-of-horror-complete-edition.json) |
 | Song of Horror: Deluxe Edition | 146789 | [146789-song-of-horror-deluxe-edition.json](./146789-song-of-horror-deluxe-edition.json) |
 | Song of Horror: Episode 2 | 135149 | [135149-song-of-horror-episode-2.json](./135149-song-of-horror-episode-2.json) |
 | Song of Horror: One Shot Challenge | 273565 | [273565-song-of-horror-one-shot-challenge.json](./273565-song-of-horror-one-shot-challenge.json) |
@@ -18242,6 +18246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
