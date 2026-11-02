@@ -12772,6 +12772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doremikko | 41315 | [41315-doremikko.json](./41315-doremikko.json) |
 | Dorf the Dwarf | 309378 | [309378-dorf-the-dwarf.json](./309378-dorf-the-dwarf.json) |
 | Dorfromantik | 134799 | [134799-dorfromantik.json](./134799-dorfromantik.json) |
+| Dorfromantik: Medieval Biome Pack | 403997 | [403997-dorfromantik-medieval-biome-pack.json](./403997-dorfromantik-medieval-biome-pack.json) |
 | Dorfs: Hammers for Hire | 203936 | [203936-dorfs-hammers-for-hire.json](./203936-dorfs-hammers-for-hire.json) |
 | Doria & the Tide Song | 410378 | [410378-doria-and-the-tide-song.json](./410378-doria-and-the-tide-song.json) |
 | Dorian Morris Adventure | 110750 | [110750-dorian-morris-adventure.json](./110750-dorian-morris-adventure.json) |
