@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanabi: Hana Type B | 409869 | [409869-hanabi-hana-type-b.json](./409869-hanabi-hana-type-b.json) |
 | Hanabira Ep1: When the Petals Fade Away | 387114 | [387114-hanabira-ep1-when-the-petals-fade-away.json](./387114-hanabira-ep1-when-the-petals-fade-away.json) |
 | Hanaby the Witch | 121289 | [121289-hanaby-the-witch.json](./121289-hanaby-the-witch.json) |
+| Hanafuda | 425188 | [425188-hanafuda.json](./425188-hanafuda.json) |
 | Hanafuda Graffiti: KoiKoi Monogatari | 123292 | [123292-hanafuda-graffiti-koikoi-monogatari.json](./123292-hanafuda-graffiti-koikoi-monogatari.json) |
 | Hanafuda Koi-koi Dojo | 322565 | [322565-hanafuda-koi-koi-dojo.json](./322565-hanafuda-koi-koi-dojo.json) |
 | Hanafuda Rumble | 97838 | [97838-hanafuda-rumble.json](./97838-hanafuda-rumble.json) |
@@ -2359,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku and Future Stars: Project Mirai | 6805 | [6805-hatsune-miku-and-future-stars-project-mirai.json](./6805-hatsune-miku-and-future-stars-project-mirai.json) |
 | Hatsune Miku Bomb Squad! | 312961 | [312961-hatsune-miku-bomb-squad.json](./312961-hatsune-miku-bomb-squad.json) |
 | Hatsune Miku Connecting Puzzle Tamagotori | 192035 | [192035-hatsune-miku-connecting-puzzle-tamagotori.json](./192035-hatsune-miku-connecting-puzzle-tamagotori.json) |
+| Hatsune Miku Connecting Puzzle Tamagotori: Deluxe | 425219 | [425219-hatsune-miku-connecting-puzzle-tamagotori-deluxe.json](./425219-hatsune-miku-connecting-puzzle-tamagotori-deluxe.json) |
 | Hatsune Miku Connecting Puzzle Tamagotori: Kagamine Rin / Len Happy 14th Birthday | 213300 | [213300-hatsune-miku-connecting-puzzle-tamagotori-kagamine-rin-len-happy-14th-birthday.json](./213300-hatsune-miku-connecting-puzzle-tamagotori-kagamine-rin-len-happy-14th-birthday.json) |
 | Hatsune Miku Connecting Puzzle Tamagotori: Snow Miku 2022 | 213223 | [213223-hatsune-miku-connecting-puzzle-tamagotori-snow-miku-2022.json](./213223-hatsune-miku-connecting-puzzle-tamagotori-snow-miku-2022.json) |
 | Hatsune Miku Jigsaw Puzzle | 194617 | [194617-hatsune-miku-jigsaw-puzzle.json](./194617-hatsune-miku-jigsaw-puzzle.json) |
