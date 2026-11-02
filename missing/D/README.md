@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Day Afternoon | 140598 | [140598-dark-day-afternoon.json](./140598-dark-day-afternoon.json) |
 | Dark Days | 170255 | [170255-dark-days.json](./170255-dark-days.json) |
 | Dark Days | 289710 | [289710-dark-days.json](./289710-dark-days.json) |
+| Dark Days | 33989 | [33989-dark-days.json](./33989-dark-days.json) |
 | Dark Days of Horror | 102181 | [102181-dark-days-of-horror.json](./102181-dark-days-of-horror.json) |
 | Dark Days: Devil Hunt | 224605 | [224605-dark-days-devil-hunt.json](./224605-dark-days-devil-hunt.json) |
 | Dark Days: Zombie Survival | 197372 | [197372-dark-days-zombie-survival.json](./197372-dark-days-zombie-survival.json) |
@@ -10260,6 +10261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divergence | 262279 | [262279-divergence.json](./262279-divergence.json) |
 | Divergence | 276673 | [276673-divergence.json](./276673-divergence.json) |
 | Divergence: Fracture | 422530 | [422530-divergence-fracture.json](./422530-divergence-fracture.json) |
+| Divergence: Online | 34007 | [34007-divergence-online.json](./34007-divergence-online.json) |
 | Divergence: Year Zero | 31287 | [31287-divergence-year-zero.json](./31287-divergence-year-zero.json) |
 | Divergences | 356267 | [356267-divergences.json](./356267-divergences.json) |
 | Divergent Shift | 85095 | [85095-divergent-shift.json](./85095-divergent-shift.json) |
