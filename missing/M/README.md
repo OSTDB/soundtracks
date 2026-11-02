@@ -6174,6 +6174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Armada | 145929 | [145929-mech-armada.json](./145929-mech-armada.json) |
 | Mech Assembler: Model Kit Builder Simulator | 346632 | [346632-mech-assembler-model-kit-builder-simulator.json](./346632-mech-assembler-model-kit-builder-simulator.json) |
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
+| Mech Chip | 114087 | [114087-mech-chip.json](./114087-mech-chip.json) |
 | Mech Commander Gold | 51238 | [51238-mech-commander-gold.json](./51238-mech-commander-gold.json) |
 | Mech Delivery Mayhem | 362247 | [362247-mech-delivery-mayhem.json](./362247-mech-delivery-mayhem.json) |
 | Mech Explorer | 326680 | [326680-mech-explorer.json](./326680-mech-explorer.json) |
@@ -12925,6 +12926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mist Forest | 234456 | [234456-mist-forest.json](./234456-mist-forest.json) |
 | Mist Gears | 107142 | [107142-mist-gears.json](./107142-mist-gears.json) |
 | Mist Guard | 207346 | [207346-mist-guard.json](./207346-mist-guard.json) |
+| Mist Hunter | 114067 | [114067-mist-hunter.json](./114067-mist-hunter.json) |
 | Mist of Chaos | 7368 | [7368-mist-of-chaos.json](./7368-mist-of-chaos.json) |
 | Mist of the Dark | 60059 | [60059-mist-of-the-dark.json](./60059-mist-of-the-dark.json) |
 | Mist of the Undead | 148484 | [148484-mist-of-the-undead.json](./148484-mist-of-the-undead.json) |
@@ -15875,6 +15877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MorphaVerse | 285714 | [285714-morphaverse.json](./285714-morphaverse.json) |
 | Morphblade | 27659 | [27659-morphblade.json](./27659-morphblade.json) |
 | Morphcat Games Collection 1 | 191899 | [191899-morphcat-games-collection-1.json](./191899-morphcat-games-collection-1.json) |
+| Morphe | 109361 | [109361-morphe.json](./109361-morphe.json) |
 | Morphê | 23327 | [23327-morphe.json](./23327-morphe.json) |
 | Morpheus | 398019 | [398019-morpheus.json](./398019-morpheus.json) |
 | Morpheus | 40966 | [40966-morpheus.json](./40966-morpheus.json) |
