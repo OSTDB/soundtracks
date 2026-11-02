@@ -2497,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Shoot | 175344 | [175344-gem-shoot.json](./175344-gem-shoot.json) |
 | Gem Shop | 54050 | [54050-gem-shop.json](./54050-gem-shop.json) |
 | Gem Stack | 216036 | [216036-gem-stack.json](./216036-gem-stack.json) |
+| Gem Tales 2: Crystal Dragon | 415840 | [415840-gem-tales-2-crystal-dragon.json](./415840-gem-tales-2-crystal-dragon.json) |
 | Gem Tower Defense 2 | 196510 | [196510-gem-tower-defense-2.json](./196510-gem-tower-defense-2.json) |
 | Gem Twyx | 88153 | [88153-gem-twyx.json](./88153-gem-twyx.json) |
 | Gem Venture | 217326 | [217326-gem-venture.json](./217326-gem-venture.json) |
@@ -3216,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geronimo Stilton: Return to the Kingdom of Fantasy | 42757 | [42757-geronimo-stilton-return-to-the-kingdom-of-fantasy.json](./42757-geronimo-stilton-return-to-the-kingdom-of-fantasy.json) |
 | Geronimo Stilton: Return to the Kingdom of Fantasy - The Videogame | 99956 | [99956-geronimo-stilton-return-to-the-kingdom-of-fantasy-the-videogame.json](./99956-geronimo-stilton-return-to-the-kingdom-of-fantasy-the-videogame.json) |
 | Geronimo Stilton: The Return to the Kingdom of Fantasy | 52225 | [52225-geronimo-stilton-the-return-to-the-kingdom-of-fantasy.json](./52225-geronimo-stilton-the-return-to-the-kingdom-of-fantasy.json) |
+| Gerphyon: The Ender Mansion | 416501 | [416501-gerphyon-the-ender-mansion.json](./416501-gerphyon-the-ender-mansion.json) |
 | Gerritory | 132986 | [132986-gerritory.json](./132986-gerritory.json) |
 | Gerrrms | 146998 | [146998-gerrrms.json](./146998-gerrrms.json) |
 | Gerry Anderson's Thunderbirds: Shutsudou Thunderbird 2-gou | 385726 | [385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json](./385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json) |
@@ -6635,6 +6637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodfolks | 61704 | [61704-goodfolks.json](./61704-goodfolks.json) |
 | Goodgame Empire | 70902 | [70902-goodgame-empire.json](./70902-goodgame-empire.json) |
 | GoodGod | 355080 | [355080-goodgod.json](./355080-goodgod.json) |
+| Goodie Guild | 416541 | [416541-goodie-guild.json](./416541-goodie-guild.json) |
 | Goodlands | 192594 | [192594-goodlands.json](./192594-goodlands.json) |
 | Goodness Gracious | 98230 | [98230-goodness-gracious.json](./98230-goodness-gracious.json) |
 | Goodness Rakes | 231607 | [231607-goodness-rakes.json](./231607-goodness-rakes.json) |
@@ -7655,6 +7658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granvil's Fairytale | 203309 | [203309-granvils-fairytale.json](./203309-granvils-fairytale.json) |
 | Granvir | 285495 | [285495-granvir.json](./285495-granvir.json) |
 | Granyuu-shima! Daibouken | 274400 | [274400-granyuu-shima-daibouken.json](./274400-granyuu-shima-daibouken.json) |
+| Grape by Grape | 415349 | [415349-grape-by-grape.json](./415349-grape-by-grape.json) |
 | Grape Juice City | 247676 | [247676-grape-juice-city.json](./247676-grape-juice-city.json) |
 | Grapefruit | 304203 | [304203-grapefruit.json](./304203-grapefruit.json) |
 | Graph TD: Cosmic | 395104 | [395104-graph-td-cosmic.json](./395104-graph-td-cosmic.json) |
@@ -8791,6 +8795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Light in the Darkness - Collector's Edition | 362838 | [362838-grim-tales-light-in-the-darkness-collectors-edition.json](./362838-grim-tales-light-in-the-darkness-collectors-edition.json) |
 | Grim Tales: Prisoners of the Past - Collector's Edition | 360335 | [360335-grim-tales-prisoners-of-the-past-collectors-edition.json](./360335-grim-tales-prisoners-of-the-past-collectors-edition.json) |
 | Grim Tales: The Bride | 79616 | [79616-grim-tales-the-bride.json](./79616-grim-tales-the-bride.json) |
+| Grim Tales: The Cursed Bloodline | 416494 | [416494-grim-tales-the-cursed-bloodline.json](./416494-grim-tales-the-cursed-bloodline.json) |
 | Grim Tales: The Final Suspect | 83183 | [83183-grim-tales-the-final-suspect.json](./83183-grim-tales-the-final-suspect.json) |
 | Grim Tales: The Final Suspect - Collector's Edition | 151438 | [151438-grim-tales-the-final-suspect-collectors-edition.json](./151438-grim-tales-the-final-suspect-collectors-edition.json) |
 | Grim Tales: The Generous Gift | 140220 | [140220-grim-tales-the-generous-gift.json](./140220-grim-tales-the-generous-gift.json) |
