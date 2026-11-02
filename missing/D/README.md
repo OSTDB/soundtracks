@@ -8424,6 +8424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig and Shoot | 84026 | [84026-dig-and-shoot.json](./84026-dig-and-shoot.json) |
 | Dig Baby Dig Company | 376450 | [376450-dig-baby-dig-company.json](./376450-dig-baby-dig-company.json) |
 | Dig Bombers | 135759 | [135759-dig-bombers.json](./135759-dig-bombers.json) |
+| Dig Dan Dig! | 414692 | [414692-dig-dan-dig.json](./414692-dig-dan-dig.json) |
 | Dig Deep | 208732 | [208732-dig-deep.json](./208732-dig-deep.json) |
 | Dig Deep: Chunky Pets | 246881 | [246881-dig-deep-chunky-pets.json](./246881-dig-deep-chunky-pets.json) |
 | Dig Deep: Race to the Core! | 150895 | [150895-dig-deep-race-to-the-core.json](./150895-dig-deep-race-to-the-core.json) |
@@ -9428,6 +9429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Plan Z | 301257 | [301257-disaster-plan-z.json](./301257-disaster-plan-z.json) |
 | Disaster Quest Tree | 268672 | [268672-disaster-quest-tree.json](./268672-disaster-quest-tree.json) |
 | Disaster Report | 11695 | [11695-disaster-report.json](./11695-disaster-report.json) |
+| Disaster Response Force | 414736 | [414736-disaster-response-force.json](./414736-disaster-response-force.json) |
 | Disaster Response Unit | 64149 | [64149-disaster-response-unit.json](./64149-disaster-response-unit.json) |
 | Disaster Slayer | 302191 | [302191-disaster-slayer.json](./302191-disaster-slayer.json) |
 | Disaster Town Tycoon | 294731 | [294731-disaster-town-tycoon.json](./294731-disaster-town-tycoon.json) |
@@ -11000,6 +11002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Mendonca | 175274 | [175274-dog-mendonca.json](./175274-dog-mendonca.json) |
 | Dog of Bay | 123265 | [123265-dog-of-bay.json](./123265-dog-of-bay.json) |
 | Dog of Dracula 2: Cyber Monogatari | 228436 | [228436-dog-of-dracula-2-cyber-monogatari.json](./228436-dog-of-dracula-2-cyber-monogatari.json) |
+| Dog of Dracula: Barbecue Densetsu | 414686 | [414686-dog-of-dracula-barbecue-densetsu.json](./414686-dog-of-dracula-barbecue-densetsu.json) |
 | Dog Pairs | 98906 | [98906-dog-pairs.json](./98906-dog-pairs.json) |
 | Dog Petting Simulator | 182237 | [182237-dog-petting-simulator.json](./182237-dog-petting-simulator.json) |
 | Dog Plays in Space Bundle | 230824 | [230824-dog-plays-in-space-bundle.json](./230824-dog-plays-in-space-bundle.json) |
@@ -17722,6 +17725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dupery: A Game of Solo Deduction | 375229 | [375229-dupery-a-game-of-solo-deduction.json](./375229-dupery-a-game-of-solo-deduction.json) |
 | Dupio | 89076 | [89076-dupio.json](./89076-dupio.json) |
 | Duplex | 273554 | [273554-duplex.json](./273554-duplex.json) |
+| Duplex Lens | 414734 | [414734-duplex-lens.json](./414734-duplex-lens.json) |
 | Duplexer | 33832 | [33832-duplexer.json](./33832-duplexer.json) |
 | Dupli_City | 126966 | [126966-dupli-city.json](./126966-dupli-city.json) |
 | Duplicate Dissolution | 294124 | [294124-duplicate-dissolution.json](./294124-duplicate-dissolution.json) |
