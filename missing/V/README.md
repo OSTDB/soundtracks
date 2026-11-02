@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VCB: Why City - The Ballad Of Drunk Khovansky | 69510 | [69510-vcb-why-city-the-ballad-of-drunk-khovansky.json](./69510-vcb-why-city-the-ballad-of-drunk-khovansky.json) |
 | VCB: Why City 4k | 116467 | [116467-vcb-why-city-4k.json](./116467-vcb-why-city-4k.json) |
 | vCoder Hero | 127268 | [127268-vcoder-hero.json](./127268-vcoder-hero.json) |
+| VCR83 | 421576 | [421576-vcr83.json](./421576-vcr83.json) |
 | VCTR-SCTR | 225596 | [225596-vctr-sctr.json](./225596-vctr-sctr.json) |
 | VCuber | 115366 | [115366-vcuber.json](./115366-vcuber.json) |
 | Vec Sports Boxing | 273284 | [273284-vec-sports-boxing.json](./273284-vec-sports-boxing.json) |
