@@ -14190,6 +14190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Up | 245545 | [245545-break-up.json](./245545-break-up.json) |
 | Break Wall 8bit | 97170 | [97170-break-wall-8bit.json](./97170-break-wall-8bit.json) |
 | Break Wolf | 320239 | [320239-break-wolf.json](./320239-break-wolf.json) |
+| Break_In | 35527 | [35527-break-in.json](./35527-break-in.json) |
 | Break-It | 339689 | [339689-break-it.json](./339689-break-it.json) |
 | Break.Up | 326288 | [326288-break-up.json](./326288-break-up.json) |
 | Breakage | 165521 | [165521-breakage.json](./165521-breakage.json) |
