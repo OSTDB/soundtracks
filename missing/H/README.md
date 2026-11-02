@@ -4122,6 +4122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty and Friends: Freeze Tag Party | 371418 | [371418-hello-kitty-and-friends-freeze-tag-party.json](./371418-hello-kitty-and-friends-freeze-tag-party.json) |
 | Hello Kitty and Friends: Happiness Parade | 204458 | [204458-hello-kitty-and-friends-happiness-parade.json](./204458-hello-kitty-and-friends-happiness-parade.json) |
 | Hello Kitty and Sanrio Friends Racing | 35243 | [35243-hello-kitty-and-sanrio-friends-racing.json](./35243-hello-kitty-and-sanrio-friends-racing.json) |
+| Hello Kitty and the Apron of Magic: Rhythm Cooking | 84525 | [84525-hello-kitty-and-the-apron-of-magic-rhythm-cooking.json](./84525-hello-kitty-and-the-apron-of-magic-rhythm-cooking.json) |
 | Hello Kitty AR Kawaii World | 121933 | [121933-hello-kitty-ar-kawaii-world.json](./121933-hello-kitty-ar-kawaii-world.json) |
 | Hello Kitty Asobi no Omochabako | 226076 | [226076-hello-kitty-asobi-no-omochabako.json](./226076-hello-kitty-asobi-no-omochabako.json) |
 | Hello Kitty Birthday Party | 231386 | [231386-hello-kitty-birthday-party.json](./231386-hello-kitty-birthday-party.json) |
@@ -6487,6 +6488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Mysteries: Royal Family Secrets | 121261 | [121261-hidden-mysteries-royal-family-secrets.json](./121261-hidden-mysteries-royal-family-secrets.json) |
 | Hidden Mysteries: Salem Secrets | 66193 | [66193-hidden-mysteries-salem-secrets.json](./66193-hidden-mysteries-salem-secrets.json) |
 | Hidden Mysteries: The White House | 10412 | [10412-hidden-mysteries-the-white-house.json](./10412-hidden-mysteries-the-white-house.json) |
+| Hidden Mysteries: Titanic | 35257 | [35257-hidden-mysteries-titanic.json](./35257-hidden-mysteries-titanic.json) |
 | Hidden Mysteries: Vampire Secrets | 60831 | [60831-hidden-mysteries-vampire-secrets.json](./60831-hidden-mysteries-vampire-secrets.json) |
 | Hidden Mystery: Triple pack | 130658 | [130658-hidden-mystery-triple-pack.json](./130658-hidden-mystery-triple-pack.json) |
 | Hidden Nature | 372017 | [372017-hidden-nature.json](./372017-hidden-nature.json) |
