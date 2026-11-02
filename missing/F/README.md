@@ -2624,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmquest | 186552 | [186552-farmquest.json](./186552-farmquest.json) |
 | FarmRPG | 227832 | [227832-farmrpg.json](./227832-farmrpg.json) |
 | Farmscapes | 50452 | [50452-farmscapes.json](./50452-farmscapes.json) |
+| Farmshore: Out Past the Horizon | 422819 | [422819-farmshore-out-past-the-horizon.json](./422819-farmshore-out-past-the-horizon.json) |
 | Farmside | 239457 | [239457-farmside.json](./239457-farmside.json) |
 | Farmstead Story | 180933 | [180933-farmstead-story.json](./180933-farmstead-story.json) |
 | Farmtale | 131747 | [131747-farmtale.json](./131747-farmtale.json) |
@@ -3480,6 +3481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed Me Oil 2 | 39207 | [39207-feed-me-oil-2.json](./39207-feed-me-oil-2.json) |
 | Feed Me Oil 2: Liquid Puzzle Adventure | 108499 | [108499-feed-me-oil-2-liquid-puzzle-adventure.json](./108499-feed-me-oil-2-liquid-puzzle-adventure.json) |
 | Feed My Alien | 60629 | [60629-feed-my-alien.json](./60629-feed-my-alien.json) |
+| Feed My Hole! | 422788 | [422788-feed-my-hole.json](./422788-feed-my-hole.json) |
 | Feed My Raptor | 308998 | [308998-feed-my-raptor.json](./308998-feed-my-raptor.json) |
 | Feed My Raptor 2 | 340528 | [340528-feed-my-raptor-2.json](./340528-feed-my-raptor-2.json) |
 | Feed My Raptor VR | 391839 | [391839-feed-my-raptor-vr.json](./391839-feed-my-raptor-vr.json) |
@@ -5012,6 +5014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Rush | 3776 | [3776-final-rush.json](./3776-final-rush.json) |
 | Final Saga | 66763 | [66763-final-saga.json](./66763-final-saga.json) |
 | Final Sanctuary | 326993 | [326993-final-sanctuary.json](./326993-final-sanctuary.json) |
+| Final Selection | 422801 | [422801-final-selection.json](./422801-final-selection.json) |
 | Final Set | 44430 | [44430-final-set.json](./44430-final-set.json) |
 | Final Shot | 175704 | [175704-final-shot.json](./175704-final-shot.json) |
 | Final Shot | 177554 | [177554-final-shot.json](./177554-final-shot.json) |
@@ -6077,6 +6080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Volleyball | 235178 | [235178-fish-volleyball.json](./235178-fish-volleyball.json) |
 | Fish vs. Crabs | 62806 | [62806-fish-vs-crabs.json](./62806-fish-vs-crabs.json) |
 | Fish War | 247024 | [247024-fish-war.json](./247024-fish-war.json) |
+| Fish With Friends | 422784 | [422784-fish-with-friends.json](./422784-fish-with-friends.json) |
 | Fish World | 337220 | [337220-fish-world.json](./337220-fish-world.json) |
 | Fish World | 426423 | [426423-fish-world.json](./426423-fish-world.json) |
 | Fish-Click Squad! | 333511 | [333511-fish-click-squad.json](./333511-fish-click-squad.json) |
@@ -8344,6 +8348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fold & Cut | 255744 | [255744-fold-and-cut.json](./255744-fold-and-cut.json) |
 | Fold Stories | 215576 | [215576-fold-stories.json](./215576-fold-stories.json) |
 | Fold the World | 348800 | [348800-fold-the-world.json](./348800-fold-the-world.json) |
+| Fold'Em | 422822 | [422822-foldem.json](./422822-foldem.json) |
 | Folded Fables: Tidy Up The Dragon Hoard | 420591 | [420591-folded-fables-tidy-up-the-dragon-hoard.json](./420591-folded-fables-tidy-up-the-dragon-hoard.json) |
 | Folded Flyer | 239243 | [239243-folded-flyer.json](./239243-folded-flyer.json) |
 | Folder Dungeon | 267357 | [267357-folder-dungeon.json](./267357-folder-dungeon.json) |
