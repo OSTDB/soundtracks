@@ -1522,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagiCats Worlds | 111530 | [111530-magicats-worlds.json](./111530-magicats-worlds.json) |
 | MagicBeans | 257857 | [257857-magicbeans.json](./257857-magicbeans.json) |
 | MagicCraft | 224409 | [224409-magiccraft.json](./224409-magiccraft.json) |
+| Magichess | 424610 | [424610-magichess.json](./424610-magichess.json) |
 | Magician | 319093 | [319093-magician.json](./319093-magician.json) |
 | Magician | 397291 | [397291-magician.json](./397291-magician.json) |
 | Magician | 94209 | [94209-magician.json](./94209-magician.json) |
