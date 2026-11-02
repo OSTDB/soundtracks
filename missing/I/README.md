@@ -2970,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredipede | 16467 | [16467-incredipede.json](./16467-incredipede.json) |
 | IncreKnight | 391822 | [391822-increknight.json](./391822-increknight.json) |
 | Increlution | 158719 | [158719-increlution.json](./158719-increlution.json) |
+| Incremaze | 424023 | [424023-incremaze.json](./424023-incremaze.json) |
 | Increment | 197532 | [197532-increment.json](./197532-increment.json) |
 | Incremental Cats | 387314 | [387314-incremental-cats.json](./387314-incremental-cats.json) |
 | Incremental Cubes | 367990 | [367990-incremental-cubes.json](./367990-incremental-cubes.json) |
@@ -3989,6 +3990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InMomentum | 10435 | [10435-inmomentum.json](./10435-inmomentum.json) |
 | Inmortis | 122708 | [122708-inmortis.json](./122708-inmortis.json) |
 | Inn Hand | 325865 | [325865-inn-hand.json](./325865-inn-hand.json) |
+| Inn Kreeper | 424018 | [424018-inn-kreeper.json](./424018-inn-kreeper.json) |
 | Inn Legend | 169604 | [169604-inn-legend.json](./169604-inn-legend.json) |
 | Inn Mage | 156608 | [156608-inn-mage.json](./156608-inn-mage.json) |
 | Inn Need | 225766 | [225766-inn-need.json](./225766-inn-need.json) |
@@ -5856,6 +5858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islanders: VR Edition | 260703 | [260703-islanders-vr-edition.json](./260703-islanders-vr-edition.json) |
 | Islandia | 92478 | [92478-islandia.json](./92478-islandia.json) |
 | IslandPop Photo | 185553 | [185553-islandpop-photo.json](./185553-islandpop-photo.json) |
+| Islandry | 423952 | [423952-islandry.json](./423952-islandry.json) |
 | Islands | 176861 | [176861-islands.json](./176861-islands.json) |
 | Islands and Ships logic puzzle | 232048 | [232048-islands-and-ships-logic-puzzle.json](./232048-islands-and-ships-logic-puzzle.json) |
 | Islands Might Fly | 255211 | [255211-islands-might-fly.json](./255211-islands-might-fly.json) |
