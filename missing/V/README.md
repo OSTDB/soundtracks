@@ -2023,6 +2023,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Invasion | 230864 | [230864-viking-invasion.json](./230864-viking-invasion.json) |
 | Viking Invasion | 67331 | [67331-viking-invasion.json](./67331-viking-invasion.json) |
 | Viking Invasion 2 - Tower Defense | 85476 | [85476-viking-invasion-2-tower-defense.json](./85476-viking-invasion-2-tower-defense.json) |
+| Viking Nest | 425190 | [425190-viking-nest.json](./425190-viking-nest.json) |
+| Viking Nest: Collector's Edition | 425191 | [425191-viking-nest-collectors-edition.json](./425191-viking-nest-collectors-edition.json) |
 | Viking Rage VR | 28534 | [28534-viking-rage-vr.json](./28534-viking-rage-vr.json) |
 | Viking Raider | 208118 | [208118-viking-raider.json](./208118-viking-raider.json) |
 | Viking Raider | 24666 | [24666-viking-raider.json](./24666-viking-raider.json) |
@@ -2062,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikings Wars | 128981 | [128981-vikings-wars.json](./128981-vikings-wars.json) |
 | Vikings: Age of the Axe | 149504 | [149504-vikings-age-of-the-axe.json](./149504-vikings-age-of-the-axe.json) |
 | Vikings: For Valhalla | 216062 | [216062-vikings-for-valhalla.json](./216062-vikings-for-valhalla.json) |
+| Vikings: Sex and Blood - Chapter 2 | 425218 | [425218-vikings-sex-and-blood-chapter-2.json](./425218-vikings-sex-and-blood-chapter-2.json) |
 | Vikings: The Strategy of Ultimate Conquest | 73590 | [73590-vikings-the-strategy-of-ultimate-conquest.json](./73590-vikings-the-strategy-of-ultimate-conquest.json) |
 | Vikings: Valhalla | 266144 | [266144-vikings-valhalla.json](./266144-vikings-valhalla.json) |
 | Vikings: Valhalla Saga | 228120 | [228120-vikings-valhalla-saga.json](./228120-vikings-valhalla-saga.json) |
