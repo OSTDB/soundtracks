@@ -8316,6 +8316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amora | 102876 | [102876-amora.json](./102876-amora.json) |
 | Amora Crystal | 120790 | [120790-amora-crystal.json](./120790-amora-crystal.json) |
 | Amoreon NightClub | 59241 | [59241-amoreon-nightclub.json](./59241-amoreon-nightclub.json) |
+| Amoriax | 421609 | [421609-amoriax.json](./421609-amoriax.json) |
 | Amoris | 420210 | [420210-amoris.json](./420210-amoris.json) |
 | Amorous Professor Cherry | 72634 | [72634-amorous-professor-cherry.json](./72634-amorous-professor-cherry.json) |
 | Amorphous | 128658 | [128658-amorphous.json](./128658-amorphous.json) |
@@ -8569,6 +8570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anastasia | 208394 | [208394-anastasia.json](./208394-anastasia.json) |
 | Anastasia to 7-nin no Himegami: Inmon no Rakuin | 108978 | [108978-anastasia-to-7-nin-no-himegami-inmon-no-rakuin.json](./108978-anastasia-to-7-nin-no-himegami-inmon-no-rakuin.json) |
 | Anastasia: Adventures with Pooka and Bartok | 69561 | [69561-anastasia-adventures-with-pooka-and-bartok.json](./69561-anastasia-adventures-with-pooka-and-bartok.json) |
+| Anastasis | 421610 | [421610-anastasis.json](./421610-anastasis.json) |
 | Anastronaut II: The Dark Side | 58019 | [58019-anastronaut-ii-the-dark-side.json](./58019-anastronaut-ii-the-dark-side.json) |
 | Anastronaut: The Moon Hopper | 58020 | [58020-anastronaut-the-moon-hopper.json](./58020-anastronaut-the-moon-hopper.json) |
 | Anata dake no Private Lesson: DS de Hajimeru Tipness no Yoga | 269550 | [269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json](./269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json) |
@@ -15967,6 +15969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attank! | 90902 | [90902-attank.json](./90902-attank.json) |
 | Attenborough's Antarctic: An Exploration of Life in the Freezer | 262253 | [262253-attenboroughs-antarctic-an-exploration-of-life-in-the-freezer.json](./262253-attenboroughs-antarctic-an-exploration-of-life-in-the-freezer.json) |
 | Attention Deficit: A story about ADHD | 364007 | [364007-attention-deficit-a-story-about-adhd.json](./364007-attention-deficit-a-story-about-adhd.json) |
+| Attention, Dear Passengers | 421563 | [421563-attention-dear-passengers.json](./421563-attention-dear-passengers.json) |
 | Attenzione Pickpocket! | 369342 | [369342-attenzione-pickpocket.json](./369342-attenzione-pickpocket.json) |
 | Attic | 157148 | [157148-attic.json](./157148-attic.json) |
 | Attic | 229743 | [229743-attic.json](./229743-attic.json) |
@@ -16128,6 +16131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | August Night | 217858 | [217858-august-night.json](./217858-august-night.json) |
 | August of August | 149350 | [149350-august-of-august.json](./149350-august-of-august.json) |
 | Augustus: Im Auftrag des Kaisers | 282425 | [282425-augustus-im-auftrag-des-kaisers.json](./282425-augustus-im-auftrag-des-kaisers.json) |
+| Aukeratu Turkiarra | 422165 | [422165-aukeratu-turkiarra.json](./422165-aukeratu-turkiarra.json) |
 | Auld Lang Syne: Cat and Mouse | 305361 | [305361-auld-lang-syne-cat-and-mouse.json](./305361-auld-lang-syne-cat-and-mouse.json) |
 | Auldhame | 177747 | [177747-auldhame.json](./177747-auldhame.json) |
 | Aum the Game | 369118 | [369118-aum-the-game.json](./369118-aum-the-game.json) |
