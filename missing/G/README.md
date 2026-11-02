@@ -7186,6 +7186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grana Embrace Chapter 1 | 125815 | [125815-grana-embrace-chapter-1.json](./125815-grana-embrace-chapter-1.json) |
 | Granada | 280323 | [280323-granada.json](./280323-granada.json) |
 | Granada | 46209 | [46209-granada.json](./46209-granada.json) |
+| Granado Espada | 16129 | [16129-granado-espada.json](./16129-granado-espada.json) |
 | Granado Espada For SEA | 74387 | [74387-granado-espada-for-sea.json](./74387-granado-espada-for-sea.json) |
 | Granado Espada Japan | 130109 | [130109-granado-espada-japan.json](./130109-granado-espada-japan.json) |
 | Granado Espada M | 197354 | [197354-granado-espada-m.json](./197354-granado-espada-m.json) |
@@ -9935,6 +9936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumbo* and the Machine | 356397 | [356397-gumbo-and-the-machine.json](./356397-gumbo-and-the-machine.json) |
 | Gumboots Australia | 221023 | [221023-gumboots-australia.json](./221023-gumboots-australia.json) |
 | Gumbowl's Adventure | 292551 | [292551-gumbowls-adventure.json](./292551-gumbowls-adventure.json) |
+| Gumboy Tournament | 15777 | [15777-gumboy-tournament.json](./15777-gumboy-tournament.json) |
 | Gumby vs. The Astrobots | 49297 | [49297-gumby-vs-the-astrobots.json](./49297-gumby-vs-the-astrobots.json) |
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
 | Gumdrop Gladiator | 381354 | [381354-gumdrop-gladiator.json](./381354-gumdrop-gladiator.json) |
