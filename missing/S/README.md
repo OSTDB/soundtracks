@@ -10129,7 +10129,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimAirport | 27686 | [27686-simairport.json](./27686-simairport.json) |
 | Simajo: The Travel Mystery Game | 54358 | [54358-simajo-the-travel-mystery-game.json](./54358-simajo-the-travel-mystery-game.json) |
 | SimAnimals | 371270 | [371270-simanimals.json](./371270-simanimals.json) |
-| SimAnimals | 5155 | [5155-simanimals.json](./5155-simanimals.json) |
 | SimAnimals Africa | 20669 | [20669-simanimals-africa.json](./20669-simanimals-africa.json) |
 | SimAnt | 9520 | [9520-simant.json](./9520-simant.json) |
 | Simantik | 224685 | [224685-simantik.json](./224685-simantik.json) |
