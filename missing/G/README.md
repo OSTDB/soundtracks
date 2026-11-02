@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxar | 358900 | [358900-galaxar.json](./358900-galaxar.json) |
 | Galaxi Barkonid | 66561 | [66561-galaxi-barkonid.json](./66561-galaxi-barkonid.json) |
 | Galaxi Taxi | 217365 | [217365-galaxi-taxi.json](./217365-galaxi-taxi.json) |
+| Galaxia | 419121 | [419121-galaxia.json](./419121-galaxia.json) |
 | Galaxia | 92800 | [92800-galaxia.json](./92800-galaxia.json) |
 | Galaxia 7 | 60228 | [60228-galaxia-7.json](./60228-galaxia-7.json) |
 | Galaxia Conquestum | 55241 | [55241-galaxia-conquestum.json](./55241-galaxia-conquestum.json) |
@@ -1287,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Thrones: Ascent | 23595 | [23595-game-of-thrones-ascent.json](./23595-game-of-thrones-ascent.json) |
 | Game of Thrones: Beyond the Wall - Blood Bound | 171636 | [171636-game-of-thrones-beyond-the-wall-blood-bound.json](./171636-game-of-thrones-beyond-the-wall-blood-bound.json) |
 | Game of Thrones: Conquest | 56967 | [56967-game-of-thrones-conquest.json](./56967-game-of-thrones-conquest.json) |
+| Game of Thrones: Dragonfire | 418431 | [418431-game-of-thrones-dragonfire.json](./418431-game-of-thrones-dragonfire.json) |
 | Game of Thrones: Legends | 330384 | [330384-game-of-thrones-legends.json](./330384-game-of-thrones-legends.json) |
 | Game of Thrones: Seven Kingdoms | 110315 | [110315-game-of-thrones-seven-kingdoms.json](./110315-game-of-thrones-seven-kingdoms.json) |
 | Game of Thrones: War for Westeros | 347638 | [347638-game-of-thrones-war-for-westeros.json](./347638-game-of-thrones-war-for-westeros.json) |
@@ -7113,6 +7115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
 | Grabity | 75073 | [75073-grabity.json](./75073-grabity.json) |
 | Grablox | 63623 | [63623-grablox.json](./63623-grablox.json) |
+| Grabover Manor | 419096 | [419096-grabover-manor.json](./419096-grabover-manor.json) |
 | Grace Hopper: Bug Rescue | 217451 | [217451-grace-hopper-bug-rescue.json](./217451-grace-hopper-bug-rescue.json) |
 | Grace of Letoile | 118166 | [118166-grace-of-letoile.json](./118166-grace-of-letoile.json) |
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
@@ -7779,6 +7782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Mania: Undead Fever | 32784 | [32784-grave-mania-undead-fever.json](./32784-grave-mania-undead-fever.json) |
 | Grave of the Petrified | 132476 | [132476-grave-of-the-petrified.json](./132476-grave-of-the-petrified.json) |
 | Grave of Voices | 375610 | [375610-grave-of-voices.json](./375610-grave-of-voices.json) |
+| Grave Orbit | 419081 | [419081-grave-orbit.json](./419081-grave-orbit.json) |
 | Grave Pobbery | 267258 | [267258-grave-pobbery.json](./267258-grave-pobbery.json) |
 | Grave Prosperity: Part 1 | 96869 | [96869-grave-prosperity-part-1.json](./96869-grave-prosperity-part-1.json) |
 | Grave Prosperity: Redux- part 1 | 35553 | [35553-grave-prosperity-redux-part-1.json](./35553-grave-prosperity-redux-part-1.json) |
@@ -8740,6 +8744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
 | Grim Hand | 414399 | [414399-grim-hand.json](./414399-grim-hand.json) |
 | Grim Hollow | 350934 | [350934-grim-hollow.json](./350934-grim-hollow.json) |
+| Grim Hope | 418398 | [418398-grim-hope.json](./418398-grim-hope.json) |
 | Grim Horde | 199398 | [199398-grim-horde.json](./199398-grim-horde.json) |
 | Grim Jobs: Dredger | 377119 | [377119-grim-jobs-dredger.json](./377119-grim-jobs-dredger.json) |
 | Grim Joggers | 336014 | [336014-grim-joggers.json](./336014-grim-joggers.json) |
