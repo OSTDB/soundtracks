@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0h h1 | 135741 | [135741-0h-h1.json](./135741-0h-h1.json) |
 | 0h N0 | 229251 | [229251-0h-n0.json](./229251-0h-n0.json) |
 | 0Hz Zero Hertz | 216771 | [216771-0hz-zero-hertz.json](./216771-0hz-zero-hertz.json) |
+| 0ne35h07 | 411260 | [411260-0ne35h07.json](./411260-0ne35h07.json) |
 | 0rbitalis | 9583 | [9583-0rbitalis.json](./9583-0rbitalis.json) |
 | 0Space | 62542 | [62542-0space.json](./62542-0space.json) |
 | 0th floor.: The Cursed Elevator To Floor Zero | 292535 | [292535-0th-floor-the-cursed-elevator-to-floor-zero.json](./292535-0th-floor-the-cursed-elevator-to-floor-zero.json) |
@@ -1192,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 17CF Quest | 95065 | [95065-17cf-quest.json](./95065-17cf-quest.json) |
 | 18 Cadence | 63378 | [63378-18-cadence.json](./63378-18-cadence.json) |
 | 18 Dreamers | 214285 | [214285-18-dreamers.json](./214285-18-dreamers.json) |
+| 18 Floors | 411268 | [411268-18-floors.json](./411268-18-floors.json) |
 | 18 Holes Pro Golf | 313989 | [313989-18-holes-pro-golf.json](./313989-18-holes-pro-golf.json) |
 | 18 Rooms to Home | 58700 | [58700-18-rooms-to-home.json](./58700-18-rooms-to-home.json) |
 | 18 Wheeler: American Pro Trucker | 3706 | [3706-18-wheeler-american-pro-trucker.json](./3706-18-wheeler-american-pro-trucker.json) |
