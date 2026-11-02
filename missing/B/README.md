@@ -2013,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie & The Quest for Cake | 294713 | [294713-banjo-kazooie-and-the-quest-for-cake.json](./294713-banjo-kazooie-and-the-quest-for-cake.json) |
 | Banjo-Kazooie 4: Quest for Kurkoins | 313060 | [313060-banjo-kazooie-4-quest-for-kurkoins.json](./313060-banjo-kazooie-4-quest-for-kurkoins.json) |
 | Banjo-Kazooie and the NightBear Before Christmas | 165155 | [165155-banjo-kazooie-and-the-nightbear-before-christmas.json](./165155-banjo-kazooie-and-the-nightbear-before-christmas.json) |
+| Banjo-Kazooie Double Pack | 420329 | [420329-banjo-kazooie-double-pack.json](./420329-banjo-kazooie-double-pack.json) |
 | Banjo-Kazooie in Super Mario 64 | 290358 | [290358-banjo-kazooie-in-super-mario-64.json](./290358-banjo-kazooie-in-super-mario-64.json) |
 | Banjo-Kazooie New Horizons | 135260 | [135260-banjo-kazooie-new-horizons.json](./135260-banjo-kazooie-new-horizons.json) |
 | Banjo-Kazooie Online | 206127 | [206127-banjo-kazooie-online.json](./206127-banjo-kazooie-online.json) |
