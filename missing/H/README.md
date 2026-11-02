@@ -1448,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Breeding | 92696 | [92696-happy-breeding.json](./92696-happy-breeding.json) |
 | Happy Burger | 257780 | [257780-happy-burger.json](./257780-happy-burger.json) |
 | Happy Burger Days | 88481 | [88481-happy-burger-days.json](./88481-happy-burger-days.json) |
+| Happy Campers | 29292 | [29292-happy-campers.json](./29292-happy-campers.json) |
 | Happy Cat Tavern | 209603 | [209603-happy-cat-tavern.json](./209603-happy-cat-tavern.json) |
 | Happy Challenger Yamada | 313312 | [313312-happy-challenger-yamada.json](./313312-happy-challenger-yamada.json) |
 | Happy Chef 3 | 294803 | [294803-happy-chef-3.json](./294803-happy-chef-3.json) |
@@ -2607,6 +2608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Zombie Slaughter 2 | 268327 | [268327-haunted-zombie-slaughter-2.json](./268327-haunted-zombie-slaughter-2.json) |
 | Haunted: Attack of the Dead Men | 219813 | [219813-haunted-attack-of-the-dead-men.json](./219813-haunted-attack-of-the-dead-men.json) |
 | Haunted: Dungeons of Herwood | 114748 | [114748-haunted-dungeons-of-herwood.json](./114748-haunted-dungeons-of-herwood.json) |
+| Haunted: Halloween '86 - The Curse of Possum Hollow | 29156 | [29156-haunted-halloween-86-the-curse-of-possum-hollow.json](./29156-haunted-halloween-86-the-curse-of-possum-hollow.json) |
 | Haunted: Live | 220868 | [220868-haunted-live.json](./220868-haunted-live.json) |
 | Haunted: Poppy's Nightmare | 126186 | [126186-haunted-poppys-nightmare.json](./126186-haunted-poppys-nightmare.json) |
 | Haunted: The Chronicles | 249211 | [249211-haunted-the-chronicles.json](./249211-haunted-the-chronicles.json) |
@@ -5986,6 +5988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexa World 3D | 348193 | [348193-hexa-world-3d.json](./348193-hexa-world-3d.json) |
 | Hexa-6 Puzzle | 101675 | [101675-hexa-6-puzzle.json](./101675-hexa-6-puzzle.json) |
 | Hexa's Gone | 393499 | [393499-hexas-gone.json](./393499-hexas-gone.json) |
+| Hexaball | 29282 | [29282-hexaball.json](./29282-hexaball.json) |
 | HexaBeat! | 340467 | [340467-hexabeat.json](./340467-hexabeat.json) |
 | Hexachampions | 316186 | [316186-hexachampions.json](./316186-hexachampions.json) |
 | Hexachess | 374634 | [374634-hexachess.json](./374634-hexachess.json) |
