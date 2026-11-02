@@ -1796,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden War | 77270 | [77270-garden-war.json](./77270-garden-war.json) |
 | Garden Warfare: Crab Invasion | 337632 | [337632-garden-warfare-crab-invasion.json](./337632-garden-warfare-crab-invasion.json) |
 | Garden Wars | 31359 | [31359-garden-wars.json](./31359-garden-wars.json) |
+| Garden Wars | 420968 | [420968-garden-wars.json](./420968-garden-wars.json) |
 | Garden Wars | 99328 | [99328-garden-wars.json](./99328-garden-wars.json) |
 | Garden Watering | 234452 | [234452-garden-watering.json](./234452-garden-watering.json) |
 | Garden Weeder | 246334 | [246334-garden-weeder.json](./246334-garden-weeder.json) |
