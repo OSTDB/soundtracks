@@ -3886,6 +3886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Organ Corruption | 297909 | [297909-organ-corruption.json](./297909-organ-corruption.json) |
 | Organ Failure | 383385 | [383385-organ-failure.json](./383385-organ-failure.json) |
 | Organ of Eden | 263002 | [263002-organ-of-eden.json](./263002-organ-of-eden.json) |
+| Organ Quarter | 29188 | [29188-organ-quarter.json](./29188-organ-quarter.json) |
 | Organ Quarter Pre-Alpha Demo | 30909 | [30909-organ-quarter-pre-alpha-demo.json](./30909-organ-quarter-pre-alpha-demo.json) |
 | Organ Trail | 65257 | [65257-organ-trail.json](./65257-organ-trail.json) |
 | Organ Trail: Complete Edition | 99765 | [99765-organ-trail-complete-edition.json](./99765-organ-trail-complete-edition.json) |
