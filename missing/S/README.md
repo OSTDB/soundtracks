@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save You | 180390 | [180390-save-you.json](./180390-save-you.json) |
 | Save Your Chicks | 341965 | [341965-save-your-chicks.json](./341965-save-your-chicks.json) |
 | Save Your Crabies | 347500 | [347500-save-your-crabies.json](./347500-save-your-crabies.json) |
+| Save Your Mother | 33944 | [33944-save-your-mother.json](./33944-save-your-mother.json) |
 | Save Your Nuts | 76347 | [76347-save-your-nuts.json](./76347-save-your-nuts.json) |
 | Save Your Soul | 370187 | [370187-save-your-soul.json](./370187-save-your-soul.json) |
 | Save Yourself! | 172899 | [172899-save-yourself.json](./172899-save-yourself.json) |
@@ -6510,6 +6511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrun Chronicles: Boston Lockdown - Infected! | 171351 | [171351-shadowrun-chronicles-boston-lockdown-infected.json](./171351-shadowrun-chronicles-boston-lockdown-infected.json) |
 | Shadowrun Chronicles: Boston Lockdown - Missions | 193178 | [193178-shadowrun-chronicles-boston-lockdown-missions.json](./193178-shadowrun-chronicles-boston-lockdown-missions.json) |
 | Shadowrun Chronicles: Boston Lockdown - Runner's Edition | 53604 | [53604-shadowrun-chronicles-boston-lockdown-runners-edition.json](./53604-shadowrun-chronicles-boston-lockdown-runners-edition.json) |
+| Shadowrun Chronicles: Infected - Director's Cut | 33987 | [33987-shadowrun-chronicles-infected-directors-cut.json](./33987-shadowrun-chronicles-infected-directors-cut.json) |
 | Shadowrun Chronicles: Infected - Missions | 171365 | [171365-shadowrun-chronicles-infected-missions.json](./171365-shadowrun-chronicles-infected-missions.json) |
 | Shadowrun Collection | 136925 | [136925-shadowrun-collection.json](./136925-shadowrun-collection.json) |
 | Shadowrun Complete Collection | 53603 | [53603-shadowrun-complete-collection.json](./53603-shadowrun-complete-collection.json) |
@@ -10575,6 +10577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinful | 181667 | [181667-sinful.json](./181667-sinful.json) |
 | Sinful Catalyst CH1: Ethereal Camellia | 253858 | [253858-sinful-catalyst-ch1-ethereal-camellia.json](./253858-sinful-catalyst-ch1-ethereal-camellia.json) |
 | Sinful Discharge | 268459 | [268459-sinful-discharge.json](./268459-sinful-discharge.json) |
+| Sinful Eden | 32770 | [32770-sinful-eden.json](./32770-sinful-eden.json) |
 | Sinful Soul | 240710 | [240710-sinful-soul.json](./240710-sinful-soul.json) |
 | Sing & Fly: Music space game | 175101 | [175101-sing-and-fly-music-space-game.json](./175101-sing-and-fly-music-space-game.json) |
 | Sing 4: The Hits Edition | 50602 | [50602-sing-4-the-hits-edition.json](./50602-sing-4-the-hits-edition.json) |
@@ -22883,6 +22886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Starfleet Academy | 23946 | [23946-star-trek-starfleet-academy.json](./23946-star-trek-starfleet-academy.json) |
 | Star Trek: Starfleet Academy - Chekov's Lost Missions | 69647 | [69647-star-trek-starfleet-academy-chekovs-lost-missions.json](./69647-star-trek-starfleet-academy-chekovs-lost-missions.json) |
 | Star Trek: Starfleet Academy - Starship Bridge Simulator | 45878 | [45878-star-trek-starfleet-academy-starship-bridge-simulator.json](./45878-star-trek-starfleet-academy-starship-bridge-simulator.json) |
+| Star Trek: Starfleet Command - Gold Edition | 33970 | [33970-star-trek-starfleet-command-gold-edition.json](./33970-star-trek-starfleet-command-gold-edition.json) |
 | Star Trek: Starfleet Command - Orion Pirates | 79758 | [79758-star-trek-starfleet-command-orion-pirates.json](./79758-star-trek-starfleet-command-orion-pirates.json) |
 | Star Trek: Starfleet Command III | 19416 | [19416-star-trek-starfleet-command-iii.json](./19416-star-trek-starfleet-command-iii.json) |
 | Star Trek: Starfleet Command Volume II - Empires at War | 71404 | [71404-star-trek-starfleet-command-volume-ii-empires-at-war.json](./71404-star-trek-starfleet-command-volume-ii-empires-at-war.json) |
@@ -25485,6 +25489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Store Empire | 332944 | [332944-store-empire.json](./332944-store-empire.json) |
 | Store It! | 355035 | [355035-store-it.json](./355035-store-it.json) |
 | Store Keeper | 344985 | [344985-store-keeper.json](./344985-store-keeper.json) |
+| Store Manager: Cellular Edition | 34019 | [34019-store-manager-cellular-edition.json](./34019-store-manager-cellular-edition.json) |
 | Store Simulator | 285670 | [285670-store-simulator.json](./285670-store-simulator.json) |
 | Store Simulator 2018 | 405476 | [405476-store-simulator-2018.json](./405476-store-simulator-2018.json) |
 | Store Story | 250794 | [250794-store-story.json](./250794-store-story.json) |
@@ -30964,6 +30969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Space Invaders | 12859 | [12859-super-space-invaders.json](./12859-super-space-invaders.json) |
 | Super Space Jump Man | 115628 | [115628-super-space-jump-man.json](./115628-super-space-jump-man.json) |
 | Super Space Meltdown | 34805 | [34805-super-space-meltdown.json](./34805-super-space-meltdown.json) |
+| Super Space Pug | 32757 | [32757-super-space-pug.json](./32757-super-space-pug.json) |
 | Super Space Rubbish | 65015 | [65015-super-space-rubbish.json](./65015-super-space-rubbish.json) |
 | Super Space Serpent SE + Perpetuum: Mobile Bundle | 212789 | [212789-super-space-serpent-se-perpetuum-mobile-bundle.json](./212789-super-space-serpent-se-perpetuum-mobile-bundle.json) |
 | Super Space Serpent: Secondary Edition | 117529 | [117529-super-space-serpent-secondary-edition.json](./117529-super-space-serpent-secondary-edition.json) |
@@ -32926,6 +32932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swifter | 346770 | [346770-swifter.json](./346770-swifter.json) |
 | SwiftGrids | 380486 | [380486-swiftgrids.json](./380486-swiftgrids.json) |
 | Swiftle | 327426 | [327426-swiftle.json](./327426-swiftle.json) |
+| Swiftly | 34038 | [34038-swiftly.json](./34038-swiftly.json) |
 | Swiggart's Last Will | 252810 | [252810-swiggarts-last-will.json](./252810-swiggarts-last-will.json) |
 | Swigglio | 183819 | [183819-swigglio.json](./183819-swigglio.json) |
 | Swigridova kletba | 182294 | [182294-swigridova-kletba.json](./182294-swigridova-kletba.json) |
