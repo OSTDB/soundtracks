@@ -1199,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warface: Starter Edition | 118677 | [118677-warface-starter-edition.json](./118677-warface-starter-edition.json) |
 | WarFallen | 82438 | [82438-warfallen.json](./82438-warfallen.json) |
 | Warfare | 16048 | [16048-warfare.json](./16048-warfare.json) |
+| Warfare 1776 | 420976 | [420976-warfare-1776.json](./420976-warfare-1776.json) |
 | Warfare 1917 | 61588 | [61588-warfare-1917.json](./61588-warfare-1917.json) |
 | Warfare 1944 | 103393 | [103393-warfare-1944.json](./103393-warfare-1944.json) |
 | Warfare 1944 | 61589 | [61589-warfare-1944.json](./61589-warfare-1944.json) |
@@ -1253,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: The Old Peace | 356126 | [356126-warframe-the-old-peace.json](./356126-warframe-the-old-peace.json) |
 | Warframe: The Sacrifice | 103321 | [103321-warframe-the-sacrifice.json](./103321-warframe-the-sacrifice.json) |
 | Warframe: The Seven Crimes of Kullervo | 263491 | [263491-warframe-the-seven-crimes-of-kullervo.json](./263491-warframe-the-seven-crimes-of-kullervo.json) |
+| Warframe: The Shadowgrapher | 420948 | [420948-warframe-the-shadowgrapher.json](./420948-warframe-the-shadowgrapher.json) |
 | Warframe: The Vallis Undermind | 374217 | [374217-warframe-the-vallis-undermind.json](./374217-warframe-the-vallis-undermind.json) |
 | Warframe: Valkyr Unleashed | 200850 | [200850-warframe-valkyr-unleashed.json](./200850-warframe-valkyr-unleashed.json) |
 | Warframe: Veilbreaker | 216199 | [216199-warframe-veilbreaker.json](./216199-warframe-veilbreaker.json) |
@@ -6288,6 +6290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Graph | 185501 | [185501-wizard-graph.json](./185501-wizard-graph.json) |
 | Wizard Hand | 338652 | [338652-wizard-hand.json](./338652-wizard-hand.json) |
 | Wizard Hangover ExtreamZz!! | 327766 | [327766-wizard-hangover-extreamzz.json](./327766-wizard-hangover-extreamzz.json) |
+| Wizard Harder or Get Laid Off | 420973 | [420973-wizard-harder-or-get-laid-off.json](./420973-wizard-harder-or-get-laid-off.json) |
 | Wizard Hentai Survivors | 233782 | [233782-wizard-hentai-survivors.json](./233782-wizard-hentai-survivors.json) |
 | Wizard Hult | 409893 | [409893-wizard-hult.json](./409893-wizard-hult.json) |
 | Wizard Hunter 2348 | 55743 | [55743-wizard-hunter-2348.json](./55743-wizard-hunter-2348.json) |
