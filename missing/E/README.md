@@ -5605,6 +5605,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Affairs | 347767 | [347767-eternal-affairs.json](./347767-eternal-affairs.json) |
 | Eternal Afterlife | 257851 | [257851-eternal-afterlife.json](./257851-eternal-afterlife.json) |
 | Eternal Alien | 128821 | [128821-eternal-alien.json](./128821-eternal-alien.json) |
+| Eternal Anima | 417174 | [417174-eternal-anima.json](./417174-eternal-anima.json) |
+| Eternal Anima: Limited Edition | 417196 | [417196-eternal-anima-limited-edition.json](./417196-eternal-anima-limited-edition.json) |
 | Eternal Arena | 38691 | [38691-eternal-arena.json](./38691-eternal-arena.json) |
 | Eternal Battle VR | 262819 | [262819-eternal-battle-vr.json](./262819-eternal-battle-vr.json) |
 | Eternal Battlefield | 126600 | [126600-eternal-battlefield.json](./126600-eternal-battlefield.json) |
