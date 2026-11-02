@@ -10895,6 +10895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Military:Run | 101463 | [101463-military-run.json](./101463-military-run.json) |
 | Military.io | 197362 | [197362-military-io.json](./197362-military-io.json) |
 | Milites Fortunae | 249210 | [249210-milites-fortunae.json](./249210-milites-fortunae.json) |
+| Militia | 34028 | [34028-militia.json](./34028-militia.json) |
 | Militia 2 | 121293 | [121293-militia-2.json](./121293-militia-2.json) |
 | Milk | 229592 | [229592-milk.json](./229592-milk.json) |
 | Milk | 314396 | [314396-milk.json](./314396-milk.json) |
