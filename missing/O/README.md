@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ojousama Sousamou | 70400 | [70400-ojousama-sousamou.json](./70400-ojousama-sousamou.json) |
 | Ojyoku: Hokago no Ryojyokuki | 97634 | [97634-ojyoku-hokago-no-ryojyokuki.json](./97634-ojyoku-hokago-no-ryojyokuki.json) |
 | OK Boomer | 127160 | [127160-ok-boomer.json](./127160-ok-boomer.json) |
+| OK Golf | 89011 | [89011-ok-golf.json](./89011-ok-golf.json) |
 | OK K.O.! Let's Play Heroes | 80012 | [80012-ok-k-o-lets-play-heroes.json](./80012-ok-k-o-lets-play-heroes.json) |
 | OK, Dracula | 124507 | [124507-ok-dracula.json](./124507-ok-dracula.json) |
 | OK! Bird: Wing Up | 240863 | [240863-ok-bird-wing-up.json](./240863-ok-bird-wing-up.json) |
