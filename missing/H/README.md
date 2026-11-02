@@ -3501,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hebereke's Popoon | 42610 | [42610-heberekes-popoon.json](./42610-heberekes-popoon.json) |
 | Hebi Hebi | 177261 | [177261-hebi-hebi.json](./177261-hebi-hebi.json) |
 | Hebi no Inochi | 288873 | [288873-hebi-no-inochi.json](./288873-hebi-no-inochi.json) |
+| Hecate's Grove | 407706 | [407706-hecates-grove.json](./407706-hecates-grove.json) |
 | Hecatomb | 216615 | [216615-hecatomb.json](./216615-hecatomb.json) |
 | Hecatomb | 398404 | [398404-hecatomb.json](./398404-hecatomb.json) |
 | Hecaton | 133231 | [133231-hecaton.json](./133231-hecaton.json) |
@@ -7430,6 +7431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hill Ridge Lost & Found | 57505 | [57505-hill-ridge-lost-and-found.json](./57505-hill-ridge-lost-and-found.json) |
 | Hill Slide: The Skate Adventure | 364229 | [364229-hill-slide-the-skate-adventure.json](./364229-hill-slide-the-skate-adventure.json) |
 | Hill Street Blues | 71989 | [71989-hill-street-blues.json](./71989-hill-street-blues.json) |
+| Hill-Z | 407705 | [407705-hill-z.json](./407705-hill-z.json) |
 | Hillary Race for the White House | 343880 | [343880-hillary-race-for-the-white-house.json](./343880-hillary-race-for-the-white-house.json) |
 | Hillbilly Apocalypse | 111709 | [111709-hillbilly-apocalypse.json](./111709-hillbilly-apocalypse.json) |
 | Hillbilly Burgers | 236976 | [236976-hillbilly-burgers.json](./236976-hillbilly-burgers.json) |
@@ -10070,6 +10072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Lust | 367295 | [367295-hotel-lust.json](./367295-hotel-lust.json) |
 | Hotel Management Simulator | 217285 | [217285-hotel-management-simulator.json](./217285-hotel-management-simulator.json) |
 | Hotel Manager Simulator | 199498 | [199498-hotel-manager-simulator.json](./199498-hotel-manager-simulator.json) |
+| Hotel Manager: Together | 407751 | [407751-hotel-manager-together.json](./407751-hotel-manager-together.json) |
 | Hotel Mario | 8535 | [8535-hotel-mario.json](./8535-hotel-mario.json) |
 | Hotel Mario II | 269846 | [269846-hotel-mario-ii.json](./269846-hotel-mario-ii.json) |
 | Hotel Mario ReBooked | 321398 | [321398-hotel-mario-rebooked.json](./321398-hotel-mario-rebooked.json) |
