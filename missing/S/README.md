@@ -11503,6 +11503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skirmish | 327165 | [327165-skirmish.json](./327165-skirmish.json) |
 | Skirmish | 381071 | [381071-skirmish.json](./381071-skirmish.json) |
 | Skirmish | 413242 | [413242-skirmish.json](./413242-skirmish.json) |
+| Skirmish Line | 56021 | [56021-skirmish-line.json](./56021-skirmish-line.json) |
 | Skirmish Line: Mad Jack | 172129 | [172129-skirmish-line-mad-jack.json](./172129-skirmish-line-mad-jack.json) |
 | Skirmish Mayhem | 224428 | [224428-skirmish-mayhem.json](./224428-skirmish-mayhem.json) |
 | Skirmish Squad | 280377 | [280377-skirmish-squad.json](./280377-skirmish-squad.json) |
@@ -16156,6 +16157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Black Ace | 331957 | [331957-sonic-black-ace.json](./331957-sonic-black-ace.json) |
 | Sonic Blast | 19538 | [19538-sonic-blast.json](./19538-sonic-blast.json) |
 | Sonic Blast | 202267 | [202267-sonic-blast.json](./202267-sonic-blast.json) |
+| Sonic Blast Heroes | 56326 | [56326-sonic-blast-heroes.json](./56326-sonic-blast-heroes.json) |
 | Sonic Blast Man | 144413 | [144413-sonic-blast-man.json](./144413-sonic-blast-man.json) |
 | Sonic Blast Man | 39804 | [39804-sonic-blast-man.json](./39804-sonic-blast-man.json) |
 | Sonic Blast Man: Real Puncher | 56327 | [56327-sonic-blast-man-real-puncher.json](./56327-sonic-blast-man-real-puncher.json) |
@@ -20188,6 +20190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Solitaire Black | 147630 | [147630-spider-solitaire-black.json](./147630-spider-solitaire-black.json) |
 | Spider Solitaire Box | 87090 | [87090-spider-solitaire-box.json](./87090-spider-solitaire-box.json) |
 | Spider Solitaire Collection | 154330 | [154330-spider-solitaire-collection.json](./154330-spider-solitaire-collection.json) |
+| Spider Solitaire Cube | 56917 | [56917-spider-solitaire-cube.json](./56917-spider-solitaire-cube.json) |
 | Spider Solitaire F | 109493 | [109493-spider-solitaire-f.json](./109493-spider-solitaire-f.json) |
 | Spider Solitaire Gold | 146612 | [146612-spider-solitaire-gold.json](./146612-spider-solitaire-gold.json) |
 | Spider Solitaire Pro! | 89182 | [89182-spider-solitaire-pro.json](./89182-spider-solitaire-pro.json) |
@@ -21358,6 +21361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spotter | 110163 | [110163-spotter.json](./110163-spotter.json) |
 | Spotterbot | 340832 | [340832-spotterbot.json](./340832-spotterbot.json) |
 | Spotto! | 80154 | [80154-spotto.json](./80154-spotto.json) |
+| Spoxel | 56570 | [56570-spoxel.json](./56570-spoxel.json) |
 | SPQR: The Empire's Darkest Hour | 73328 | [73328-spqr-the-empires-darkest-hour.json](./73328-spqr-the-empires-darkest-hour.json) |
 | Spram's Metroid Doom | 142220 | [142220-sprams-metroid-doom.json](./142220-sprams-metroid-doom.json) |
 | Sprawl | 57467 | [57467-sprawl.json](./57467-sprawl.json) |
