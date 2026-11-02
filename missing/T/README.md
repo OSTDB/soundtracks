@@ -6196,7 +6196,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Binding of Isaac: Fall from Grace | 272672 | [272672-the-binding-of-isaac-fall-from-grace.json](./272672-the-binding-of-isaac-fall-from-grace.json) |
 | The Binding of Isaac: Game Boy Edition | 185917 | [185917-the-binding-of-isaac-game-boy-edition.json](./185917-the-binding-of-isaac-game-boy-edition.json) |
 | The Binding of Isaac: Rebirth | 309607 | [309607-the-binding-of-isaac-rebirth.json](./309607-the-binding-of-isaac-rebirth.json) |
-| The Binding of Isaac: Repentance | 310643 | [310643-the-binding-of-isaac-repentance.json](./310643-the-binding-of-isaac-repentance.json) |
 | The Binding of Isaac: Revelations | 376126 | [376126-the-binding-of-isaac-revelations.json](./376126-the-binding-of-isaac-revelations.json) |
 | The Binding of Isaac: Wrath of the Lamb | 14542 | [14542-the-binding-of-isaac-wrath-of-the-lamb.json](./14542-the-binding-of-isaac-wrath-of-the-lamb.json) |
 | The Binding of Survivors | 207593 | [207593-the-binding-of-survivors.json](./207593-the-binding-of-survivors.json) |
@@ -9733,7 +9732,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Emu War of 1932 | 336566 | [336566-the-great-emu-war-of-1932.json](./336566-the-great-emu-war-of-1932.json) |
 | The Great Escape | 28852 | [28852-the-great-escape.json](./28852-the-great-escape.json) |
 | The Great Escape | 310406 | [310406-the-great-escape.json](./310406-the-great-escape.json) |
-| The Great Escape | 5853 | [5853-the-great-escape.json](./5853-the-great-escape.json) |
 | The Great Fantasy Struggle | 95150 | [95150-the-great-fantasy-struggle.json](./95150-the-great-fantasy-struggle.json) |
 | The Great Farce | 318176 | [318176-the-great-farce.json](./318176-the-great-farce.json) |
 | The Great Fear | 260650 | [260650-the-great-fear.json](./260650-the-great-fear.json) |
