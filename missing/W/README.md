@@ -1695,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warm Village | 80949 | [80949-warm-village.json](./80949-warm-village.json) |
 | WarMA | 103948 | [103948-warma.json](./103948-warma.json) |
 | Warmace: Miniature Shop Simulator | 423203 | [423203-warmace-miniature-shop-simulator.json](./423203-warmace-miniature-shop-simulator.json) |
+| Warmachine: Rogue-Scout | 425198 | [425198-warmachine-rogue-scout.json](./425198-warmachine-rogue-scout.json) |
 | Warmada | 30798 | [30798-warmada.json](./30798-warmada.json) |
 | Warmage | 280234 | [280234-warmage.json](./280234-warmage.json) |
 | WarMage | 26542 | [26542-warmage.json](./26542-warmage.json) |
