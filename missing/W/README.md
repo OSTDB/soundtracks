@@ -3295,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Fantasy | 220750 | [220750-west-fantasy.json](./220750-west-fantasy.json) |
 | West Front | 72145 | [72145-west-front.json](./72145-west-front.json) |
 | West Game | 199076 | [199076-west-game.json](./199076-west-game.json) |
+| West Gunfighter | 100923 | [100923-west-gunfighter.json](./100923-west-gunfighter.json) |
 | West Hunt | 145463 | [145463-west-hunt.json](./145463-west-hunt.json) |
 | West Hunt: Halloween Pack | 263086 | [263086-west-hunt-halloween-pack.json](./263086-west-hunt-halloween-pack.json) |
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
@@ -7111,6 +7112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search 10K | 84964 | [84964-word-search-10k.json](./84964-word-search-10k.json) |
 | Word Search Addict: Word Games | 106478 | [106478-word-search-addict-word-games.json](./106478-word-search-addict-word-games.json) |
 | Word Search by Powgi | 138113 | [138113-word-search-by-powgi.json](./138113-word-search-by-powgi.json) |
+| Word Search Classic | 101129 | [101129-word-search-classic.json](./101129-word-search-classic.json) |
 | Word Search Coffee Break | 415952 | [415952-word-search-coffee-break.json](./415952-word-search-coffee-break.json) |
 | Word Search Daily HD | 355011 | [355011-word-search-daily-hd.json](./355011-word-search-daily-hd.json) |
 | Word Search Epic | 83418 | [83418-word-search-epic.json](./83418-word-search-epic.json) |
