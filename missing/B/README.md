@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Partygoers | 320451 | [320451-backrooms-partygoers.json](./320451-backrooms-partygoers.json) |
 | Backrooms: Perpetual | 205072 | [205072-backrooms-perpetual.json](./205072-backrooms-perpetual.json) |
 | Backrooms: Poolrooms | 389062 | [389062-backrooms-poolrooms.json](./389062-backrooms-poolrooms.json) |
+| Backrooms: Primal | 414030 | [414030-backrooms-primal.json](./414030-backrooms-primal.json) |
 | Backrooms: Realism | 407804 | [407804-backrooms-realism.json](./407804-backrooms-realism.json) |
 | Backrooms: Realm of Shadows | 247513 | [247513-backrooms-realm-of-shadows.json](./247513-backrooms-realm-of-shadows.json) |
 | Backrooms: Realm of Shadows - Full Version | 283972 | [283972-backrooms-realm-of-shadows-full-version.json](./283972-backrooms-realm-of-shadows-full-version.json) |
@@ -909,7 +910,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1704,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallsBlasterVR | 128229 | [128229-ballsblastervr.json](./128229-ballsblastervr.json) |
 | Ballshit | 373219 | [373219-ballshit.json](./373219-ballshit.json) |
 | Ballshit 2D | 420784 | [420784-ballshit-2d.json](./420784-ballshit-2d.json) |
+| Ballskin | 414048 | [414048-ballskin.json](./414048-ballskin.json) |
 | Ballspell | 215564 | [215564-ballspell.json](./215564-ballspell.json) |
 | BallStack | 350320 | [350320-ballstack.json](./350320-ballstack.json) |
 | BallStrike | 142758 | [142758-ballstrike.json](./142758-ballstrike.json) |
@@ -9168,6 +9169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Ball | 22328 | [22328-blast-ball.json](./22328-blast-ball.json) |
 | Blast Beat | 186821 | [186821-blast-beat.json](./186821-blast-beat.json) |
 | Blast Beats | 235288 | [235288-blast-beats.json](./235288-blast-beats.json) |
+| Blast Blade | 414043 | [414043-blast-blade.json](./414043-blast-blade.json) |
 | Blast Bots | 194022 | [194022-blast-bots.json](./194022-blast-bots.json) |
 | Blast Brawl 2: Bloody Boogaloo | 33414 | [33414-blast-brawl-2-bloody-boogaloo.json](./33414-blast-brawl-2-bloody-boogaloo.json) |
 | Blast Breaker Online | 79363 | [79363-blast-breaker-online.json](./79363-blast-breaker-online.json) |
@@ -11832,6 +11834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Bob | 14331 | [14331-bomber-bob.json](./14331-bomber-bob.json) |
 | Bomber Boing | 92358 | [92358-bomber-boing.json](./92358-bomber-boing.json) |
 | Bomber Bother | 123950 | [123950-bomber-bother.json](./123950-bomber-bother.json) |
+| Bomber Buddies | 414067 | [414067-bomber-buddies.json](./414067-bomber-buddies.json) |
 | Bomber Cat Run | 317860 | [317860-bomber-cat-run.json](./317860-bomber-cat-run.json) |
 | Bomber Chaos | 281963 | [281963-bomber-chaos.json](./281963-bomber-chaos.json) |
 | Bomber Command | 221687 | [221687-bomber-command.json](./221687-bomber-command.json) |
@@ -12810,6 +12813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boti: Byteland Overclocked - Click or Treat | 274591 | [274591-boti-byteland-overclocked-click-or-treat.json](./274591-boti-byteland-overclocked-click-or-treat.json) |
 | Boti: Byteland Overclocked - Deluxe Edition | 331249 | [331249-boti-byteland-overclocked-deluxe-edition.json](./331249-boti-byteland-overclocked-deluxe-edition.json) |
 | Boti: Byteland Overclocked - Hidden Giftware | 285112 | [285112-boti-byteland-overclocked-hidden-giftware.json](./285112-boti-byteland-overclocked-hidden-giftware.json) |
+| Boticaria | 414028 | [414028-boticaria.json](./414028-boticaria.json) |
 | Botics | 14336 | [14336-botics.json](./14336-botics.json) |
 | Botlike: A Robot's Rampage | 53310 | [53310-botlike-a-robots-rampage.json](./53310-botlike-a-robots-rampage.json) |
 | BotMobile | 293111 | [293111-botmobile.json](./293111-botmobile.json) |
@@ -13568,6 +13572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Bait | 186814 | [186814-brain-bait.json](./186814-brain-bait.json) |
 | Brain Battle | 233766 | [233766-brain-battle.json](./233766-brain-battle.json) |
 | Brain Beats | 147202 | [147202-brain-beats.json](./147202-brain-beats.json) |
+| Brain Bistro | 414069 | [414069-brain-bistro.json](./414069-brain-bistro.json) |
 | Brain Boost Beta / Gamma Wave | 21381 | [21381-brain-boost-beta-gamma-wave.json](./21381-brain-boost-beta-gamma-wave.json) |
 | Brain Boost Buddies | 378819 | [378819-brain-boost-buddies.json](./378819-brain-boost-buddies.json) |
 | Brain Boost: Beta Wave | 47836 | [47836-brain-boost-beta-wave.json](./47836-brain-boost-beta-wave.json) |
