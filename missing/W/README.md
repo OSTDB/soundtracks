@@ -4757,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiimms Mario Kart Fun | 130017 | [130017-wiimms-mario-kart-fun.json](./130017-wiimms-mario-kart-fun.json) |
 | Wik & the Fable of Souls | 933 | [933-wik-and-the-fable-of-souls.json](./933-wik-and-the-fable-of-souls.json) |
 | Wika Wicked's Egg | 199450 | [199450-wika-wickeds-egg.json](./199450-wika-wickeds-egg.json) |
+| Wiki Fighter | 425878 | [425878-wiki-fighter.json](./425878-wiki-fighter.json) |
 | Wiki Hunt | 86062 | [86062-wiki-hunt.json](./86062-wiki-hunt.json) |
 | Wiki-Go | 426459 | [426459-wiki-go.json](./426459-wiki-go.json) |
 | Wiki's Wild Ride | 261759 | [261759-wikis-wild-ride.json](./261759-wikis-wild-ride.json) |
