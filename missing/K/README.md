@@ -2016,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick the Boss's Ass | 301977 | [301977-kick-the-bosss-ass.json](./301977-kick-the-bosss-ass.json) |
 | Kick the Brick | 103937 | [103937-kick-the-brick.json](./103937-kick-the-brick.json) |
 | Kick the Buddy | 23924 | [23924-kick-the-buddy.json](./23924-kick-the-buddy.json) |
+| Kick The Buddy - The Funny Kick Game | 100971 | [100971-kick-the-buddy-the-funny-kick-game.json](./100971-kick-the-buddy-the-funny-kick-game.json) |
 | Kick The Buddy 3D | 413473 | [413473-kick-the-buddy-3d.json](./413473-kick-the-buddy-3d.json) |
 | Kick the Buddy: Forever | 331673 | [331673-kick-the-buddy-forever.json](./331673-kick-the-buddy-forever.json) |
 | Kick The Buddy: No Mercy | 413474 | [413474-kick-the-buddy-no-mercy.json](./413474-kick-the-buddy-no-mercy.json) |
@@ -2197,6 +2198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Doodle - Movie Kids Color & Draw | 86988 | [86988-kids-doodle-movie-kids-color-and-draw.json](./86988-kids-doodle-movie-kids-color-and-draw.json) |
 | Kids Dreamland Adventures | 101552 | [101552-kids-dreamland-adventures.json](./101552-kids-dreamland-adventures.json) |
 | Kids Fun Favorites | 89698 | [89698-kids-fun-favorites.json](./89698-kids-fun-favorites.json) |
+| Kids Hair Spa Salon | 95344 | [95344-kids-hair-spa-salon.json](./95344-kids-hair-spa-salon.json) |
 | Kids Halloween Puzzles and Logic Games | 87109 | [87109-kids-halloween-puzzles-and-logic-games.json](./87109-kids-halloween-puzzles-and-logic-games.json) |
 | Kids in the Kitchen - Cooking Recipes | 95796 | [95796-kids-in-the-kitchen-cooking-recipes.json](./95796-kids-in-the-kitchen-cooking-recipes.json) |
 | Kids Jigsaw Puzzles: Fun Games for Girls & Boys | 232383 | [232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json](./232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json) |
@@ -5522,6 +5524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krunker | 109096 | [109096-krunker.json](./109096-krunker.json) |
 | Krunt.io | 125871 | [125871-krunt-io.json](./125871-krunt-io.json) |
 | Krusenstern: A Stellar Sail | 226730 | [226730-krusenstern-a-stellar-sail.json](./226730-krusenstern-a-stellar-sail.json) |
+| Krusty Krab Nightmare | 100934 | [100934-krusty-krab-nightmare.json](./100934-krusty-krab-nightmare.json) |
 | Krusty Zombies | 180312 | [180312-krusty-zombies.json](./180312-krusty-zombies.json) |
 | Krusty's Fun House | 307105 | [307105-krustys-fun-house.json](./307105-krustys-fun-house.json) |
 | Krusty's Fun House | 307106 | [307106-krustys-fun-house.json](./307106-krustys-fun-house.json) |
