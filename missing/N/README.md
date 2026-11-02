@@ -1568,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NecroKitty | 370734 | [370734-necrokitty.json](./370734-necrokitty.json) |
 | Necrolance | 116929 | [116929-necrolance.json](./116929-necrolance.json) |
 | NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
+| Necrolepsy | 114384 | [114384-necrolepsy.json](./114384-necrolepsy.json) |
 | Necrology | 381660 | [381660-necrology.json](./381660-necrology.json) |
 | Necromancer | 377196 | [377196-necromancer.json](./377196-necromancer.json) |
 | Necromancer | 76450 | [76450-necromancer.json](./76450-necromancer.json) |
@@ -3094,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Legend of Sword and Fairy | 77971 | [77971-new-legend-of-sword-and-fairy.json](./77971-new-legend-of-sword-and-fairy.json) |
 | New Legends | 18268 | [18268-new-legends.json](./18268-new-legends.json) |
 | New Lethes | 16993 | [16993-new-lethes.json](./16993-new-lethes.json) |
+| New Life | 114119 | [114119-new-life.json](./114119-new-life.json) |
 | New Life | 311796 | [311796-new-life.json](./311796-new-life.json) |
 | New Life of Aged Town | 277133 | [277133-new-life-of-aged-town.json](./277133-new-life-of-aged-town.json) |
 | New Little King's Story | 19911 | [19911-new-little-kings-story.json](./19911-new-little-kings-story.json) |
@@ -4660,6 +4662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Spaces | 406182 | [406182-nine-spaces.json](./406182-nine-spaces.json) |
 | Nine to Five | 127353 | [127353-nine-to-five.json](./127353-nine-to-five.json) |
 | Nine To Five (am) | 318701 | [318701-nine-to-five-am.json](./318701-nine-to-five-am.json) |
+| Nine Trials | 114290 | [114290-nine-trials.json](./114290-nine-trials.json) |
 | Nine Trials | 223989 | [223989-nine-trials.json](./223989-nine-trials.json) |
 | Nine Witches: Family Disruption | 112201 | [112201-nine-witches-family-disruption.json](./112201-nine-witches-family-disruption.json) |
 | Nine Worlds | 150659 | [150659-nine-worlds.json](./150659-nine-worlds.json) |
@@ -6740,6 +6743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Now Boarding | 138190 | [138190-now-boarding.json](./138190-now-boarding.json) |
 | Now Entering: Quiet Haven | 321232 | [321232-now-entering-quiet-haven.json](./321232-now-entering-quiet-haven.json) |
 | Now Games 2 | 98969 | [98969-now-games-2.json](./98969-now-games-2.json) |
+| Now I Am There | 122176 | [122176-now-i-am-there.json](./122176-now-i-am-there.json) |
 | Now I Know My ABCs | 85315 | [85315-now-i-know-my-abcs.json](./85315-now-i-know-my-abcs.json) |
 | Now I Know My ABCs 2 | 86239 | [86239-now-i-know-my-abcs-2.json](./86239-now-i-know-my-abcs-2.json) |
 | Now It's My Turn | 158687 | [158687-now-its-my-turn.json](./158687-now-its-my-turn.json) |
