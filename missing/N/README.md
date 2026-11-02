@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrophoresis | 277271 | [277271-necrophoresis.json](./277271-necrophoresis.json) |
 | Necrophosis | 285925 | [285925-necrophosis.json](./285925-necrophosis.json) |
 | Necrophosis - Subconsciousness | 403448 | [403448-necrophosis-subconsciousness.json](./403448-necrophosis-subconsciousness.json) |
+| Necrophosis: Full Consciousness | 393020 | [393020-necrophosis-full-consciousness.json](./393020-necrophosis-full-consciousness.json) |
 | Necropolis Nights | 332849 | [332849-necropolis-nights.json](./332849-necropolis-nights.json) |
 | Necropolis of the Angels | 214187 | [214187-necropolis-of-the-angels.json](./214187-necropolis-of-the-angels.json) |
 | Necropolis Suite | 217348 | [217348-necropolis-suite.json](./217348-necropolis-suite.json) |
@@ -2047,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis | 18630 | [18630-nemesis.json](./18630-nemesis.json) |
 | Nemesis | 197671 | [197671-nemesis.json](./197671-nemesis.json) |
 | Nemesis | 210282 | [210282-nemesis.json](./210282-nemesis.json) |
+| Nemesis | 262389 | [262389-nemesis.json](./262389-nemesis.json) |
 | Nemesis | 262390 | [262390-nemesis.json](./262390-nemesis.json) |
 | Nemesis | 408226 | [408226-nemesis.json](./408226-nemesis.json) |
 | Nemesis - RPG | 143084 | [143084-nemesis-rpg.json](./143084-nemesis-rpg.json) |
