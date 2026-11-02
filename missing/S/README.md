@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saimai Rd | 196635 | [196635-saimai-rd.json](./196635-saimai-rd.json) |
 | Saimazoom | 45326 | [45326-saimazoom.json](./45326-saimazoom.json) |
 | Saimin Choukyou Shimai | 108866 | [108866-saimin-choukyou-shimai.json](./108866-saimin-choukyou-shimai.json) |
+| Saimin Gakuen: Intrusion Edition | 412706 | [412706-saimin-gakuen-intrusion-edition.json](./412706-saimin-gakuen-intrusion-edition.json) |
 | Saimin Gakushuu: Secret Desire | 195970 | [195970-saimin-gakushuu-secret-desire.json](./195970-saimin-gakushuu-secret-desire.json) |
 | Saimin Reiki | 59036 | [59036-saimin-reiki.json](./59036-saimin-reiki.json) |
 | Saimin School Days: Hypnotic School Days | 239000 | [239000-saimin-school-days-hypnotic-school-days.json](./239000-saimin-school-days-hypnotic-school-days.json) |
@@ -1481,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandbox | 251826 | [251826-sandbox.json](./251826-sandbox.json) |
 | Sandbox | 368087 | [368087-sandbox.json](./368087-sandbox.json) |
 | Sandbox Anything | 118590 | [118590-sandbox-anything.json](./118590-sandbox-anything.json) |
+| Sandbox Doodle Playground | 413371 | [413371-sandbox-doodle-playground.json](./413371-sandbox-doodle-playground.json) |
 | Sandbox Planet | 256534 | [256534-sandbox-planet.json](./256534-sandbox-planet.json) |
 | Sandbox Play | 184364 | [184364-sandbox-play.json](./184364-sandbox-play.json) |
 | Sandbox Showdown | 101285 | [101285-sandbox-showdown.json](./101285-sandbox-showdown.json) |
@@ -4888,6 +4890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sejm The Game | 341051 | [341051-sejm-the-game.json](./341051-sejm-the-game.json) |
 | Seka II | 292323 | [292323-seka-ii.json](./292323-seka-ii.json) |
 | Sekai de Ichiban Dame na Koi | 413068 | [413068-sekai-de-ichiban-dame-na-koi.json](./413068-sekai-de-ichiban-dame-na-koi.json) |
+| Sekai de Ichiban Dame na Koi | 413382 | [413382-sekai-de-ichiban-dame-na-koi.json](./413382-sekai-de-ichiban-dame-na-koi.json) |
 | Sekai de Ichiban Kimi ga Suki! | 270691 | [270691-sekai-de-ichiban-kimi-ga-suki.json](./270691-sekai-de-ichiban-kimi-ga-suki.json) |
 | Sekai no Chuushin de Mawaru | 260687 | [260687-sekai-no-chuushin-de-mawaru.json](./260687-sekai-no-chuushin-de-mawaru.json) |
 | Sekai no Gohan Shaberu! DS O-Ryouri Navi | 81255 | [81255-sekai-no-gohan-shaberu-ds-o-ryouri-navi.json](./81255-sekai-no-gohan-shaberu-ds-o-ryouri-navi.json) |
@@ -7302,6 +7305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Running | 347039 | [347039-sheep-running.json](./347039-sheep-running.json) |
 | Sheep Seeker | 327652 | [327652-sheep-seeker.json](./327652-sheep-seeker.json) |
 | Sheep Sheep Wolf | 112246 | [112246-sheep-sheep-wolf.json](./112246-sheep-sheep-wolf.json) |
+| Sheep Split | 413383 | [413383-sheep-split.json](./413383-sheep-split.json) |
 | Sheep Sweep | 302182 | [302182-sheep-sweep.json](./302182-sheep-sweep.json) |
 | Sheep Up! | 120247 | [120247-sheep-up.json](./120247-sheep-up.json) |
 | Sheep's Quest | 173403 | [173403-sheeps-quest.json](./173403-sheeps-quest.json) |
@@ -11472,6 +11476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skies of Fury DX | 80881 | [80881-skies-of-fury-dx.json](./80881-skies-of-fury-dx.json) |
 | Skies of Glory | 62446 | [62446-skies-of-glory.json](./62446-skies-of-glory.json) |
 | Skies of Valor | 60865 | [60865-skies-of-valor.json](./60865-skies-of-valor.json) |
+| Skies of Valoria | 412732 | [412732-skies-of-valoria.json](./412732-skies-of-valoria.json) |
 | Skies Scrapper | 371030 | [371030-skies-scrapper.json](./371030-skies-scrapper.json) |
 | SkiFree | 11681 | [11681-skifree.json](./11681-skifree.json) |
 | SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
@@ -13100,6 +13105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotracers VR | 144007 | [144007-slotracers-vr.json](./144007-slotracers-vr.json) |
 | Slots | 287558 | [287558-slots.json](./287558-slots.json) |
 | Slots - Pharaoh's Riches | 85386 | [85386-slots-pharaohs-riches.json](./85386-slots-pharaohs-riches.json) |
+| Slots & Skulls | 413379 | [413379-slots-and-skulls.json](./413379-slots-and-skulls.json) |
 | Slots & Slaughter | 411731 | [411731-slots-and-slaughter.json](./411731-slots-and-slaughter.json) |
 | Slots Ancient | 232572 | [232572-slots-ancient.json](./232572-slots-ancient.json) |
 | Slots Casino Game | 267493 | [267493-slots-casino-game.json](./267493-slots-casino-game.json) |
@@ -15401,6 +15407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solasta: Crown of the Magister - Palace of Ice | 242515 | [242515-solasta-crown-of-the-magister-palace-of-ice.json](./242515-solasta-crown-of-the-magister-palace-of-ice.json) |
 | Solasta: Crown of the Magister - Primal Calling | 186870 | [186870-solasta-crown-of-the-magister-primal-calling.json](./186870-solasta-crown-of-the-magister-primal-calling.json) |
 | Solasta: Lightbringers Edition | 251208 | [251208-solasta-lightbringers-edition.json](./251208-solasta-lightbringers-edition.json) |
+| Solastra | 413389 | [413389-solastra.json](./413389-solastra.json) |
 | Solatorobo: Red the Hunter | 9597 | [9597-solatorobo-red-the-hunter.json](./9597-solatorobo-red-the-hunter.json) |
 | Solbane | 189297 | [189297-solbane.json](./189297-solbane.json) |
 | Solbot Energy Rush | 105401 | [105401-solbot-energy-rush.json](./105401-solbot-energy-rush.json) |
@@ -15983,6 +15990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonar Shock | 280376 | [280376-sonar-shock.json](./280376-sonar-shock.json) |
 | Sonata | 271137 | [271137-sonata.json](./271137-sonata.json) |
 | Sonata | 383787 | [383787-sonata.json](./383787-sonata.json) |
+| Sonata of Y | 412750 | [412750-sonata-of-y.json](./412750-sonata-of-y.json) |
 | Sonata Theory | 155028 | [155028-sonata-theory.json](./155028-sonata-theory.json) |
 | Sonatina | 305474 | [305474-sonatina.json](./305474-sonatina.json) |
 | Sonder | 182153 | [182153-sonder.json](./182153-sonder.json) |
@@ -29676,6 +29684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Magic Elemage | 228675 | [228675-super-magic-elemage.json](./228675-super-magic-elemage.json) |
 | Super Magnetic Neo | 45863 | [45863-super-magnetic-neo.json](./45863-super-magnetic-neo.json) |
 | Super Magro World | 152315 | [152315-super-magro-world.json](./152315-super-magro-world.json) |
+| Super Magro World | 412746 | [412746-super-magro-world.json](./412746-super-magro-world.json) |
 | Super Magus Parvomagnus | 368611 | [368611-super-magus-parvomagnus.json](./368611-super-magus-parvomagnus.json) |
 | Super Mahjong | 37814 | [37814-super-mahjong.json](./37814-super-mahjong.json) |
 | Super Mahjong | 99329 | [99329-super-mahjong.json](./99329-super-mahjong.json) |
@@ -31704,6 +31713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Simulator Store Game 3D | 376231 | [376231-supermarket-simulator-store-game-3d.json](./376231-supermarket-simulator-store-game-3d.json) |
 | Supermarket Simulator VR | 312423 | [312423-supermarket-simulator-vr.json](./312423-supermarket-simulator-vr.json) |
 | Supermarket Simulator: Idle Tycoon Clicker | 407490 | [407490-supermarket-simulator-idle-tycoon-clicker.json](./407490-supermarket-simulator-idle-tycoon-clicker.json) |
+| Supermarket Spree DX | 413405 | [413405-supermarket-spree-dx.json](./413405-supermarket-spree-dx.json) |
 | Supermarket Together | 311540 | [311540-supermarket-together.json](./311540-supermarket-together.json) |
 | Supermarket Tycoon | 55128 | [55128-supermarket-tycoon.json](./55128-supermarket-tycoon.json) |
 | Supermarket VR | 99427 | [99427-supermarket-vr.json](./99427-supermarket-vr.json) |
@@ -32262,6 +32272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Mafia | 184378 | [184378-survive-the-mafia.json](./184378-survive-the-mafia.json) |
 | Survive the Nights | 39279 | [39279-survive-the-nights.json](./39279-survive-the-nights.json) |
 | Survive the Orcs | 236795 | [236795-survive-the-orcs.json](./236795-survive-the-orcs.json) |
+| Survive the Shift | 412736 | [412736-survive-the-shift.json](./412736-survive-the-shift.json) |
 | Survive the Silence | 368889 | [368889-survive-the-silence.json](./368889-survive-the-silence.json) |
 | Survive the Spin | 396490 | [396490-survive-the-spin.json](./396490-survive-the-spin.json) |
 | Survive the Squids | 324268 | [324268-survive-the-squids.json](./324268-survive-the-squids.json) |
@@ -33390,6 +33401,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Symphony | 168539 | [168539-sword-of-symphony.json](./168539-sword-of-symphony.json) |
 | Sword of Ten Thousand Blades | 379846 | [379846-sword-of-ten-thousand-blades.json](./379846-sword-of-ten-thousand-blades.json) |
 | Sword of the Apocalypse | 389413 | [389413-sword-of-the-apocalypse.json](./389413-sword-of-the-apocalypse.json) |
+| Sword of the Apocalypse: Episode 1 | 413400 | [413400-sword-of-the-apocalypse-episode-1.json](./413400-sword-of-the-apocalypse-episode-1.json) |
+| Sword of the Apocalypse: Episode 2 | 413401 | [413401-sword-of-the-apocalypse-episode-2.json](./413401-sword-of-the-apocalypse-episode-2.json) |
+| Sword of the Apocalypse: Episode 3 | 413402 | [413402-sword-of-the-apocalypse-episode-3.json](./413402-sword-of-the-apocalypse-episode-3.json) |
+| Sword of the Apocalypse: Episode 4 | 413386 | [413386-sword-of-the-apocalypse-episode-4.json](./413386-sword-of-the-apocalypse-episode-4.json) |
 | Sword of the Berserk: Guts' Rage | 28840 | [28840-sword-of-the-berserk-guts-rage.json](./28840-sword-of-the-berserk-guts-rage.json) |
 | Sword of the Dimacreation | 109191 | [109191-sword-of-the-dimacreation.json](./109191-sword-of-the-dimacreation.json) |
 | Sword of the Dimacreation: Side Story - The Hunt of Rabbit | 97521 | [97521-sword-of-the-dimacreation-side-story-the-hunt-of-rabbit.json](./97521-sword-of-the-dimacreation-side-story-the-hunt-of-rabbit.json) |
