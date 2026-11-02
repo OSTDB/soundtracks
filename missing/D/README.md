@@ -1940,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkAir | 160094 | [160094-darkair.json](./160094-darkair.json) |
 | DarkAndLight | 280362 | [280362-darkandlight.json](./280362-darkandlight.json) |
 | Darkanoid | 143961 | [143961-darkanoid.json](./143961-darkanoid.json) |
+| Darkarta: A Broken Heart's Quest | 55315 | [55315-darkarta-a-broken-hearts-quest.json](./55315-darkarta-a-broken-hearts-quest.json) |
 | DarkBase 01 | 255667 | [255667-darkbase-01.json](./255667-darkbase-01.json) |
 | DarkBazaar | 393654 | [393654-darkbazaar.json](./393654-darkbazaar.json) |
 | DarkBind | 197330 | [197330-darkbind.json](./197330-darkbind.json) |
@@ -6771,6 +6772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desi Adda: Games of India | 218634 | [218634-desi-adda-games-of-india.json](./218634-desi-adda-games-of-india.json) |
 | Desierto | 327872 | [327872-desierto.json](./327872-desierto.json) |
 | Design A Train | 106083 | [106083-design-a-train.json](./106083-design-a-train.json) |
+| Design Home | 54707 | [54707-design-home.json](./54707-design-home.json) |
 | Design It Girl! | 96306 | [96306-design-it-girl.json](./96306-design-it-girl.json) |
 | Design it, Drive it: Speedboats | 32081 | [32081-design-it-drive-it-speedboats.json](./32081-design-it-drive-it-speedboats.json) |
 | Design My Room: Fashion | 107667 | [107667-design-my-room-fashion.json](./107667-design-my-room-fashion.json) |
