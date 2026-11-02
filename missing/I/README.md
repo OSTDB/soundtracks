@@ -4136,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insecta Vindicta | 377278 | [377278-insecta-vindicta.json](./377278-insecta-vindicta.json) |
 | Insectarium Alternative March | 320173 | [320173-insectarium-alternative-march.json](./320173-insectarium-alternative-march.json) |
 | Insecters War | 286434 | [286434-insecters-war.json](./286434-insecters-war.json) |
+| Insecticide | 10436 | [10436-insecticide.json](./10436-insecticide.json) |
 | Insecticide Part 1 | 29118 | [29118-insecticide-part-1.json](./29118-insecticide-part-1.json) |
 | Insectile | 339819 | [339819-insectile.json](./339819-insectile.json) |
 | Insectipede | 119764 | [119764-insectipede.json](./119764-insectipede.json) |
