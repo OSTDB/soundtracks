@@ -12009,6 +12009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander of Battlefront | 333941 | [333941-commander-of-battlefront.json](./333941-commander-of-battlefront.json) |
 | Commander Quest | 294032 | [294032-commander-quest.json](./294032-commander-quest.json) |
 | Commander Tiberius Troubleson | 244340 | [244340-commander-tiberius-troubleson.json](./244340-commander-tiberius-troubleson.json) |
+| Commander: Conquest of the Americas | 2010 | [2010-commander-conquest-of-the-americas.json](./2010-commander-conquest-of-the-americas.json) |
 | Commander: Conquest of the Americas - Colonial Navy | 170860 | [170860-commander-conquest-of-the-americas-colonial-navy.json](./170860-commander-conquest-of-the-americas-colonial-navy.json) |
 | Commander: Conquest of the Americas - Gold Edition | 46997 | [46997-commander-conquest-of-the-americas-gold-edition.json](./46997-commander-conquest-of-the-americas-gold-edition.json) |
 | Commander: Europe at War | 324929 | [324929-commander-europe-at-war.json](./324929-commander-europe-at-war.json) |
@@ -12496,6 +12497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congo: The Movie | 217940 | [217940-congo-the-movie.json](./217940-congo-the-movie.json) |
 | Congo's Caper | 42665 | [42665-congos-caper.json](./42665-congos-caper.json) |
 | Congresswolf | 30797 | [30797-congresswolf.json](./30797-congresswolf.json) |
+| Coniclysm | 16107 | [16107-coniclysm.json](./16107-coniclysm.json) |
 | Conjunctivitalizer | 329464 | [329464-conjunctivitalizer.json](./329464-conjunctivitalizer.json) |
 | Conjuntalia | 91002 | [91002-conjuntalia.json](./91002-conjuntalia.json) |
 | Conjuntalia: Overcome the Death of a Loved One | 171400 | [171400-conjuntalia-overcome-the-death-of-a-loved-one.json](./171400-conjuntalia-overcome-the-death-of-a-loved-one.json) |
@@ -12653,6 +12655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of Chesterwoode | 73204 | [73204-conquest-of-chesterwoode.json](./73204-conquest-of-chesterwoode.json) |
 | Conquest of Chesterwoode | 73222 | [73222-conquest-of-chesterwoode.json](./73222-conquest-of-chesterwoode.json) |
 | Conquest of Elysium 2 | 326798 | [326798-conquest-of-elysium-2.json](./326798-conquest-of-elysium-2.json) |
+| Conquest of Elysium 3 | 15303 | [15303-conquest-of-elysium-3.json](./15303-conquest-of-elysium-3.json) |
 | Conquest of Elysium 4 | 24605 | [24605-conquest-of-elysium-4.json](./24605-conquest-of-elysium-4.json) |
 | Conquest of Elysium 5 | 155913 | [155913-conquest-of-elysium-5.json](./155913-conquest-of-elysium-5.json) |
 | Conquest of Empires | 192578 | [192578-conquest-of-empires.json](./192578-conquest-of-empires.json) |
@@ -13276,6 +13279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Craze | 88770 | [88770-cooking-craze.json](./88770-cooking-craze.json) |
 | Cooking Craze: Starter Pack | 295118 | [295118-cooking-craze-starter-pack.json](./295118-cooking-craze-starter-pack.json) |
 | Cooking Crew | 262954 | [262954-cooking-crew.json](./262954-cooking-crew.json) |
+| Cooking Dash | 16068 | [16068-cooking-dash.json](./16068-cooking-dash.json) |
 | Cooking Diary: Welcome to Tasty Hills | 106991 | [106991-cooking-diary-welcome-to-tasty-hills.json](./106991-cooking-diary-welcome-to-tasty-hills.json) |
 | Cooking Dream | 227455 | [227455-cooking-dream.json](./227455-cooking-dream.json) |
 | Cooking Festival | 147632 | [147632-cooking-festival.json](./147632-cooking-festival.json) |
@@ -17393,6 +17397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Reign | 75597 | [75597-crystal-reign.json](./75597-crystal-reign.json) |
 | Crystal Rider | 160210 | [160210-crystal-rider.json](./160210-crystal-rider.json) |
 | Crystal Riders VR | 236393 | [236393-crystal-riders-vr.json](./236393-crystal-riders-vr.json) |
+| Crystal Rift | 15198 | [15198-crystal-rift.json](./15198-crystal-rift.json) |
 | Crystal Saga: Origins | 46945 | [46945-crystal-saga-origins.json](./46945-crystal-saga-origins.json) |
 | Crystal Sequence | 151015 | [151015-crystal-sequence.json](./151015-crystal-sequence.json) |
 | Crystal Shard Adventure Bundle | 30646 | [30646-crystal-shard-adventure-bundle.json](./30646-crystal-shard-adventure-bundle.json) |
