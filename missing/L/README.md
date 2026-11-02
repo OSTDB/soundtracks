@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landlord Go! | 235293 | [235293-landlord-go.json](./235293-landlord-go.json) |
 | Landlord of the Woods | 144931 | [144931-landlord-of-the-woods.json](./144931-landlord-of-the-woods.json) |
 | Landlord Simulator | 231878 | [231878-landlord-simulator.json](./231878-landlord-simulator.json) |
+| Landlord Simulator | 410591 | [410591-landlord-simulator.json](./410591-landlord-simulator.json) |
 | Landlord Simulator | 89654 | [89654-landlord-simulator.json](./89654-landlord-simulator.json) |
 | Landlord Tycoon | 127984 | [127984-landlord-tycoon.json](./127984-landlord-tycoon.json) |
 | Landlord's Super | 121388 | [121388-landlords-super.json](./121388-landlords-super.json) |
@@ -841,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Language Worm | 126221 | [126221-language-worm.json](./126221-language-worm.json) |
 | LanguageGuessr | 259618 | [259618-languageguessr.json](./259618-languageguessr.json) |
 | Languish | 148796 | [148796-languish.json](./148796-languish.json) |
+| Lani the Merthropologist | 409323 | [409323-lani-the-merthropologist.json](./409323-lani-the-merthropologist.json) |
 | Laniakea | 304714 | [304714-laniakea.json](./304714-laniakea.json) |
 | Lanista: Shadows and Dust | 294283 | [294283-lanista-shadows-and-dust.json](./294283-lanista-shadows-and-dust.json) |
 | Lanky Larry | 176283 | [176283-lanky-larry.json](./176283-lanky-larry.json) |
@@ -2270,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left Fore Dead: Zombie Battle Golf | 406646 | [406646-left-fore-dead-zombie-battle-golf.json](./406646-left-fore-dead-zombie-battle-golf.json) |
 | Left in the Dark: No One on Board | 17144 | [17144-left-in-the-dark-no-one-on-board.json](./17144-left-in-the-dark-no-one-on-board.json) |
 | Left in the Dark: No One on Board (Full) | 89745 | [89745-left-in-the-dark-no-one-on-board-full.json](./89745-left-in-the-dark-no-one-on-board-full.json) |
+| Left Not Right | 409312 | [409312-left-not-right.json](./409312-left-not-right.json) |
 | Left on Read | 137527 | [137527-left-on-read.json](./137527-left-on-read.json) |
 | Left On Read | 341281 | [341281-left-on-read.json](./341281-left-on-read.json) |
 | Left Right | 287584 | [287584-left-right.json](./287584-left-right.json) |
@@ -5354,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa to Issho ni Tairiku Oudan: A-Ressha de Ikou | 56555 | [56555-lisa-to-issho-ni-tairiku-oudan-a-ressha-de-ikou.json](./56555-lisa-to-issho-ni-tairiku-oudan-a-ressha-de-ikou.json) |
 | Lisa Total Investigation! | 277994 | [277994-lisa-total-investigation.json](./277994-lisa-total-investigation.json) |
 | Lisa: Definitive Edition | 252184 | [252184-lisa-definitive-edition.json](./252184-lisa-definitive-edition.json) |
+| LISA: Desolate Expanse | 409650 | [409650-lisa-desolate-expanse.json](./409650-lisa-desolate-expanse.json) |
 | Lisa: Is Fearless | 172490 | [172490-lisa-is-fearless.json](./172490-lisa-is-fearless.json) |
 | Lisa: Paradise | 370093 | [370093-lisa-paradise.json](./370093-lisa-paradise.json) |
 | Lisa: The Bashful | 172484 | [172484-lisa-the-bashful.json](./172484-lisa-the-bashful.json) |
@@ -6469,6 +6473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi Kitten | 266305 | [266305-lofi-kitten.json](./266305-lofi-kitten.json) |
 | Lofi Milk Delivery | 245921 | [245921-lofi-milk-delivery.json](./245921-lofi-milk-delivery.json) |
 | Lofi Ping Pong | 116187 | [116187-lofi-ping-pong.json](./116187-lofi-ping-pong.json) |
+| Lofi Witch Hatch: Deluxe Edition | 409972 | [409972-lofi-witch-hatch-deluxe-edition.json](./409972-lofi-witch-hatch-deluxe-edition.json) |
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
 | Loft is in the air | 315798 | [315798-loft-is-in-the-air.json](./315798-loft-is-in-the-air.json) |
 | Loftia | 252774 | [252774-loftia.json](./252774-loftia.json) |
@@ -7236,6 +7241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Seal | 31474 | [31474-lord-of-the-seal.json](./31474-lord-of-the-seal.json) |
 | Lord of the Shades | 72031 | [72031-lord-of-the-shades.json](./72031-lord-of-the-shades.json) |
 | Lord of the Sword | 46671 | [46671-lord-of-the-sword.json](./46671-lord-of-the-sword.json) |
+| Lord of the Trough | 408399 | [408399-lord-of-the-trough.json](./408399-lord-of-the-trough.json) |
 | Lord of the Wilds | 337437 | [337437-lord-of-the-wilds.json](./337437-lord-of-the-wilds.json) |
 | Lord of the Wings | 255537 | [255537-lord-of-the-wings.json](./255537-lord-of-the-wings.json) |
 | Lord of the Сlick | 207815 | [207815-lord-of-the-lick.json](./207815-lord-of-the-lick.json) |
@@ -7603,6 +7609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Damnation | 401485 | [401485-lost-in-damnation.json](./401485-lost-in-damnation.json) |
 | Lost in Darklight | 250481 | [250481-lost-in-darklight.json](./250481-lost-in-darklight.json) |
 | Lost in Darkness | 258328 | [258328-lost-in-darkness.json](./258328-lost-in-darkness.json) |
+| Lost In Dimensions | 408432 | [408432-lost-in-dimensions.json](./408432-lost-in-dimensions.json) |
 | Lost in Dungeon | 158406 | [158406-lost-in-dungeon.json](./158406-lost-in-dungeon.json) |
 | Lost In Dungeon | 123924 | [123924-lost-in-dungeon.json](./123924-lost-in-dungeon.json) |
 | Lost In Failures | 291093 | [291093-lost-in-failures.json](./291093-lost-in-failures.json) |
@@ -9059,6 +9066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumen Inferius | 311536 | [311536-lumen-inferius.json](./311536-lumen-inferius.json) |
 | Lumen Race | 370776 | [370776-lumen-race.json](./370776-lumen-race.json) |
 | Lumen Rider | 256749 | [256749-lumen-rider.json](./256749-lumen-rider.json) |
+| Lumen the Red Panda | 410586 | [410586-lumen-the-red-panda.json](./410586-lumen-the-red-panda.json) |
 | Lumen: The Last Hope | 365612 | [365612-lumen-the-last-hope.json](./365612-lumen-the-last-hope.json) |
 | Lumen. | 124596 | [124596-lumen.json](./124596-lumen.json) |
 | Lumencraft | 186294 | [186294-lumencraft.json](./186294-lumencraft.json) |
@@ -9354,6 +9362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luntik Knows the World | 268371 | [268371-luntik-knows-the-world.json](./268371-luntik-knows-the-world.json) |
 | Luntik Learns Letters | 268373 | [268373-luntik-learns-letters.json](./268373-luntik-learns-letters.json) |
 | Luntik Learns Numbers | 268369 | [268369-luntik-learns-numbers.json](./268369-luntik-learns-numbers.json) |
+| Lunyatic Invaders | 409117 | [409117-lunyatic-invaders.json](./409117-lunyatic-invaders.json) |
 | Luobu | 271067 | [271067-luobu.json](./271067-luobu.json) |
 | Luòchén zhī Yù | 114382 | [114382-luochen-zhi-yu.json](./114382-luochen-zhi-yu.json) |
 | Luonnonvoimat | 390771 | [390771-luonnonvoimat.json](./390771-luonnonvoimat.json) |
