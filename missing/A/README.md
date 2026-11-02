@@ -5619,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akita: Legends Squad | 399611 | [399611-akita-legends-squad.json](./399611-akita-legends-squad.json) |
 | Akiya | 284926 | [284926-akiya.json](./284926-akiya.json) |
 | Akizora Memories: Horizon of Fate | 272444 | [272444-akizora-memories-horizon-of-fate.json](./272444-akizora-memories-horizon-of-fate.json) |
+| Akizora ni Mau Confetti | 406444 | [406444-akizora-ni-mau-confetti.json](./406444-akizora-ni-mau-confetti.json) |
 | Akıllı Çay Bardağı | 304736 | [304736-ak-ll-cay-bardag.json](./304736-ak-ll-cay-bardag.json) |
 | Akka Arrh | 225592 | [225592-akka-arrh.json](./225592-akka-arrh.json) |
 | Akka Arrh | 237527 | [237527-akka-arrh.json](./237527-akka-arrh.json) |
