@@ -4290,6 +4290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires Mobile | 280839 | [280839-age-of-empires-mobile.json](./280839-age-of-empires-mobile.json) |
 | Age of Empires Mobile: PC Edition | 408535 | [408535-age-of-empires-mobile-pc-edition.json](./408535-age-of-empires-mobile-pc-edition.json) |
 | Age of Empires Online: Celeste Fan Project | 131926 | [131926-age-of-empires-online-celeste-fan-project.json](./131926-age-of-empires-online-celeste-fan-project.json) |
+| Age of Empires: Castle Siege | 8575 | [8575-age-of-empires-castle-siege.json](./8575-age-of-empires-castle-siege.json) |
 | Age of Empires: Collector's Edition | 50321 | [50321-age-of-empires-collectors-edition.json](./50321-age-of-empires-collectors-edition.json) |
 | Age of Empires: Gold Edition | 47076 | [47076-age-of-empires-gold-edition.json](./47076-age-of-empires-gold-edition.json) |
 | Age of Empires: Mythologies | 21221 | [21221-age-of-empires-mythologies.json](./21221-age-of-empires-mythologies.json) |
@@ -6266,6 +6267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Brigade | 11865 | [11865-alien-brigade.json](./11865-alien-brigade.json) |
 | Alien Bubble Destroyer | 81998 | [81998-alien-bubble-destroyer.json](./81998-alien-bubble-destroyer.json) |
 | Alien Cabal | 62149 | [62149-alien-cabal.json](./62149-alien-cabal.json) |
+| Alien Carnage | 8487 | [8487-alien-carnage.json](./8487-alien-carnage.json) |
 | Alien Cartographer | 374594 | [374594-alien-cartographer.json](./374594-alien-cartographer.json) |
 | Alien Caseno | 26571 | [26571-alien-caseno.json](./26571-alien-caseno.json) |
 | Alien Cat 2: Retro Collection | 405912 | [405912-alien-cat-2-retro-collection.json](./405912-alien-cat-2-retro-collection.json) |
@@ -8263,6 +8265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amplitude | 2141 | [2141-amplitude.json](./2141-amplitude.json) |
 | Amplz Boss Fights | 224110 | [224110-amplz-boss-fights.json](./224110-amplz-boss-fights.json) |
 | Ampsball | 398443 | [398443-ampsball.json](./398443-ampsball.json) |
+| Ampu-Tea | 8378 | [8378-ampu-tea.json](./8378-ampu-tea.json) |
 | AMQ: The (Actual) Game | 283613 | [283613-amq-the-actual-game.json](./283613-amq-the-actual-game.json) |
 | AMR is for amour and also for the 12.7MM anti-material rifle + Planet X | 350539 | [350539-amr-is-for-amour-and-also-for-the-12-7mm-anti-material-rifle-planet-x.json](./350539-amr-is-for-amour-and-also-for-the-12-7mm-anti-material-rifle-planet-x.json) |
 | AMSCII Invasor | 307171 | [307171-amscii-invasor.json](./307171-amscii-invasor.json) |
@@ -11117,6 +11120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquapark io: Sweet and Spooky DLC | 263525 | [263525-aquapark-io-sweet-and-spooky-dlc.json](./263525-aquapark-io-sweet-and-spooky-dlc.json) |
 | Aquapark io: Sweet Edition | 364098 | [364098-aquapark-io-sweet-edition.json](./364098-aquapark-io-sweet-edition.json) |
 | Aquapark Tycoon | 296651 | [296651-aquapark-tycoon.json](./296651-aquapark-tycoon.json) |
+| Aquapazza: Aquaplus Dream Match | 7272 | [7272-aquapazza-aquaplus-dream-match.json](./7272-aquapazza-aquaplus-dream-match.json) |
 | Aquaphobia | 241299 | [241299-aquaphobia.json](./241299-aquaphobia.json) |
 | Aquaphobia | 46655 | [46655-aquaphobia.json](./46655-aquaphobia.json) |
 | Aquaplane | 94575 | [94575-aquaplane.json](./94575-aquaplane.json) |
