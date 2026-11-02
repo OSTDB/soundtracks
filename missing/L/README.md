@@ -5462,6 +5462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Chefs: Co-op | 277751 | [277751-little-chefs-co-op.json](./277751-little-chefs-co-op.json) |
 | Little Cherub | 120208 | [120208-little-cherub.json](./120208-little-cherub.json) |
 | Little Chick | 157165 | [157165-little-chick.json](./157165-little-chick.json) |
+| Little Children's Educational Swanky Alphabet Puzzle Game | 88957 | [88957-little-childrens-educational-swanky-alphabet-puzzle-game.json](./88957-little-childrens-educational-swanky-alphabet-puzzle-game.json) |
 | Little Children's Educational Swanky Puzzles Game | 97308 | [97308-little-childrens-educational-swanky-puzzles-game.json](./97308-little-childrens-educational-swanky-puzzles-game.json) |
 | Little Chinese Final Edition | 267576 | [267576-little-chinese-final-edition.json](./267576-little-chinese-final-edition.json) |
 | Little Christmas Adventure | 173166 | [173166-little-christmas-adventure.json](./173166-little-christmas-adventure.json) |
