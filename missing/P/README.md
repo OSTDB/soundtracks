@@ -3421,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peace, Death! Complete Edition | 112814 | [112814-peace-death-complete-edition.json](./112814-peace-death-complete-edition.json) |
 | Peace@Pieces | 80365 | [80365-peace-pieces.json](./80365-peace-pieces.json) |
 | Peacebringer | 338750 | [338750-peacebringer.json](./338750-peacebringer.json) |
+| Peaceful Bug Catching Story | 413368 | [413368-peaceful-bug-catching-story.json](./413368-peaceful-bug-catching-story.json) |
 | Peaceful Dog Escape | 231923 | [231923-peaceful-dog-escape.json](./231923-peaceful-dog-escape.json) |
 | Peaceful Fishing Story | 390502 | [390502-peaceful-fishing-story.json](./390502-peaceful-fishing-story.json) |
 | Peaceful Gunner | 153389 | [153389-peaceful-gunner.json](./153389-peaceful-gunner.json) |
@@ -4433,6 +4434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona Q2: New Cinema Labyrinth - Showtime Premium Edition | 136347 | [136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json](./136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json) |
 | Persona5: The Phantom X | 242315 | [242315-persona5-the-phantom-x.json](./242315-persona5-the-phantom-x.json) |
 | Persona5: The Phantom X - The Revenge Fox | 412804 | [412804-persona5-the-phantom-x-the-revenge-fox.json](./412804-persona5-the-phantom-x-the-revenge-fox.json) |
+| Persona5: The Phantom X - Virtual Sweetheart | 412741 | [412741-persona5-the-phantom-x-virtual-sweetheart.json](./412741-persona5-the-phantom-x-virtual-sweetheart.json) |
 | Personal Arcade Volume One | 79947 | [79947-personal-arcade-volume-one.json](./79947-personal-arcade-volume-one.json) |
 | Personal Chef to the Stars | 218707 | [218707-personal-chef-to-the-stars.json](./218707-personal-chef-to-the-stars.json) |
 | Personal Disco VR | 28895 | [28895-personal-disco-vr.json](./28895-personal-disco-vr.json) |
@@ -6884,6 +6886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PinPin BallBall | 111605 | [111605-pinpin-ballball.json](./111605-pinpin-ballball.json) |
 | Pinpoint | 321116 | [321116-pinpoint.json](./321116-pinpoint.json) |
 | PinRogue | 406935 | [406935-pinrogue.json](./406935-pinrogue.json) |
+| PinScape | 412707 | [412707-pinscape.json](./412707-pinscape.json) |
 | Pinta's Quest | 227748 | [227748-pintas-quest.json](./227748-pintas-quest.json) |
 | Pintando com Senninha | 408277 | [408277-pintando-com-senninha.json](./408277-pintando-com-senninha.json) |
 | Pintar | 330529 | [330529-pintar.json](./330529-pintar.json) |
@@ -7336,6 +7339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitchfork | 364456 | [364456-pitchfork.json](./364456-pitchfork.json) |
 | Pitchfork Battles | 244858 | [244858-pitchfork-battles.json](./244858-pitchfork-battles.json) |
 | Pitchfork Kingdom | 201581 | [201581-pitchfork-kingdom.json](./201581-pitchfork-kingdom.json) |
+| Pitchfork: Playtiles Edition | 413411 | [413411-pitchfork-playtiles-edition.json](./413411-pitchfork-playtiles-edition.json) |
 | Pitchforks and Daggers | 380492 | [380492-pitchforks-and-daggers.json](./380492-pitchforks-and-daggers.json) |
 | Pitchside Empire | 414613 | [414613-pitchside-empire.json](./414613-pitchside-empire.json) |
 | Piteur's Odyssey | 184654 | [184654-piteurs-odyssey.json](./184654-piteurs-odyssey.json) |
@@ -9297,6 +9301,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plaything | 142827 | [142827-plaything.json](./142827-plaything.json) |
 | Plaything | 342120 | [342120-plaything.json](./342120-plaything.json) |
 | Playthings: VR Music Vacation | 32881 | [32881-playthings-vr-music-vacation.json](./32881-playthings-vr-music-vacation.json) |
+| Playtiles Season 1 | 413409 | [413409-playtiles-season-1.json](./413409-playtiles-season-1.json) |
+| Playtiles Season 2 | 413407 | [413407-playtiles-season-2.json](./413407-playtiles-season-2.json) |
 | Playtime | 170847 | [170847-playtime.json](./170847-playtime.json) |
 | Playtime with Percy | 262278 | [262278-playtime-with-percy.json](./262278-playtime-with-percy.json) |
 | Playtoons Featuring Uncle Archibald | 209360 | [209360-playtoons-featuring-uncle-archibald.json](./209360-playtoons-featuring-uncle-archibald.json) |
@@ -9827,6 +9833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Tanks | 72176 | [72176-pocket-tanks.json](./72176-pocket-tanks.json) |
 | Pocket Tarneeb | 317051 | [317051-pocket-tarneeb.json](./317051-pocket-tarneeb.json) |
 | Pocket Thief | 337501 | [337501-pocket-thief.json](./337501-pocket-thief.json) |
+| Pocket Tour | 413388 | [413388-pocket-tour.json](./413388-pocket-tour.json) |
 | Pocket Troops | 102236 | [102236-pocket-troops.json](./102236-pocket-troops.json) |
 | Pocket Universe - 3D Sandbox | 88962 | [88962-pocket-universe-3d-sandbox.json](./88962-pocket-universe-3d-sandbox.json) |
 | Pocket Universe : Create Your Community | 55624 | [55624-pocket-universe-create-your-community.json](./55624-pocket-universe-create-your-community.json) |
@@ -9835,6 +9842,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Volleyball | 180494 | [180494-pocket-volleyball.json](./180494-pocket-volleyball.json) |
 | Pocket Waifu: Desktop Pet | 384611 | [384611-pocket-waifu-desktop-pet.json](./384611-pocket-waifu-desktop-pet.json) |
 | Pocket Waifu: Rekindled | 259117 | [259117-pocket-waifu-rekindled.json](./259117-pocket-waifu-rekindled.json) |
+| Pocket Ware | 413397 | [413397-pocket-ware.json](./413397-pocket-ware.json) |
+| Pocket Ware 2 | 413384 | [413384-pocket-ware-2.json](./413384-pocket-ware-2.json) |
 | Pocket Warriors | 152162 | [152162-pocket-warriors.json](./152162-pocket-warriors.json) |
 | Pocket Wars: Protect or Destroy | 109541 | [109541-pocket-wars-protect-or-destroy.json](./109541-pocket-wars-protect-or-destroy.json) |
 | Pocket Witch | 223045 | [223045-pocket-witch.json](./223045-pocket-witch.json) |
@@ -11007,6 +11016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokkén Tournament: Update Ver.C07 | 300366 | [300366-pokken-tournament-update-ver-c07.json](./300366-pokken-tournament-update-ver-c07.json) |
 | Pokkén Tournament: Update Ver.N01 | 300364 | [300364-pokken-tournament-update-ver-n01.json](./300364-pokken-tournament-update-ver-n01.json) |
 | Poko Memorial: 18th Hole Miniature Golf | 73537 | [73537-poko-memorial-18th-hole-miniature-golf.json](./73537-poko-memorial-18th-hole-miniature-golf.json) |
+| Poko Poko Field | 412749 | [412749-poko-poko-field.json](./412749-poko-poko-field.json) |
 | Pokoh | 155914 | [155914-pokoh.json](./155914-pokoh.json) |
 | Pokon Factory Survival | 150936 | [150936-pokon-factory-survival.json](./150936-pokon-factory-survival.json) |
 | Pokonyan! Balloon | 140850 | [140850-pokonyan-balloon.json](./140850-pokonyan-balloon.json) |
@@ -11452,6 +11462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polymega Collection Vol.18: Rival Turf! | 387512 | [387512-polymega-collection-vol-18-rival-turf.json](./387512-polymega-collection-vol-18-rival-turf.json) |
 | Polymerikum | 180089 | [180089-polymerikum.json](./180089-polymerikum.json) |
 | Polymino | 264659 | [264659-polymino.json](./264659-polymino.json) |
+| Polymorph | 412744 | [412744-polymorph.json](./412744-polymorph.json) |
 | Polynomial 2 | 24967 | [24967-polynomial-2.json](./24967-polynomial-2.json) |
 | Polynya | 306767 | [306767-polynya.json](./306767-polynya.json) |
 | Polyology | 33313 | [33313-polyology.json](./33313-polyology.json) |
@@ -11483,6 +11494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyWar | 341564 | [341564-polywar.json](./341564-polywar.json) |
 | PolyZ | 297875 | [297875-polyz.json](./297875-polyz.json) |
 | PolyZen Drive | 278679 | [278679-polyzen-drive.json](./278679-polyzen-drive.json) |
+| Polyzonia | 412713 | [412713-polyzonia.json](./412713-polyzonia.json) |
 | Polzun | 110729 | [110729-polzun.json](./110729-polzun.json) |
 | Pom Pom Purin: Koro-koro Daibouken | 222518 | [222518-pom-pom-purin-koro-koro-daibouken.json](./222518-pom-pom-purin-koro-koro-daibouken.json) |
 | Pom Simulator 9000 | 135006 | [135006-pom-simulator-9000.json](./135006-pom-simulator-9000.json) |
@@ -13433,6 +13445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primary | 200922 | [200922-primary.json](./200922-primary.json) |
 | Primary Earth | 176194 | [176194-primary-earth.json](./176194-primary-earth.json) |
 | Primary Exit | 371541 | [371541-primary-exit.json](./371541-primary-exit.json) |
+| Primary School: English Grade 1 & 2 | 413369 | [413369-primary-school-english-grade-1-and-2.json](./413369-primary-school-english-grade-1-and-2.json) |
 | Primate: Father of Universe | 215329 | [215329-primate-father-of-universe.json](./215329-primate-father-of-universe.json) |
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
 | Prime | 214977 | [214977-prime.json](./214977-prime.json) |
@@ -15631,6 +15644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proton VR | 392133 | [392133-proton-vr.json](./392133-proton-vr.json) |
 | Protoplanet Express | 269224 | [269224-protoplanet-express.json](./269224-protoplanet-express.json) |
 | Protoplasm Mutiny | 150637 | [150637-protoplasm-mutiny.json](./150637-protoplasm-mutiny.json) |
+| ProtoRace | 412710 | [412710-protorace.json](./412710-protorace.json) |
 | Protorunner | 220662 | [220662-protorunner.json](./220662-protorunner.json) |
 | Protory Jigen | 326078 | [326078-protory-jigen.json](./326078-protory-jigen.json) |
 | Protos Magos | 235804 | [235804-protos-magos.json](./235804-protos-magos.json) |
