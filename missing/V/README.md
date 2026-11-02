@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampires vs. Zombies | 53933 | [53933-vampires-vs-zombies.json](./53933-vampires-vs-zombies.json) |
 | Vampires: Bloodlord Rising | 278348 | [278348-vampires-bloodlord-rising.json](./278348-vampires-bloodlord-rising.json) |
 | Vampires: Bloodlust | 68009 | [68009-vampires-bloodlust.json](./68009-vampires-bloodlust.json) |
+| Vampires: Guide Them to Safety! | 17945 | [17945-vampires-guide-them-to-safety.json](./17945-vampires-guide-them-to-safety.json) |
 | Vampires: The New Birth | 184778 | [184778-vampires-the-new-birth.json](./184778-vampires-the-new-birth.json) |
 | Vampires! | 63616 | [63616-vampires.json](./63616-vampires.json) |
 | Vampires' Melody | 169435 | [169435-vampires-melody.json](./169435-vampires-melody.json) |
@@ -3012,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void | 344436 | [344436-void.json](./344436-void.json) |
 | Void | 84103 | [84103-void.json](./84103-void.json) |
 | Void & Nothingness | 30762 | [30762-void-and-nothingness.json](./30762-void-and-nothingness.json) |
+| Void 21 | 18187 | [18187-void-21.json](./18187-void-21.json) |
 | Void and Meddler | 25941 | [25941-void-and-meddler.json](./25941-void-and-meddler.json) |
 | Void And Rainbow | 256875 | [256875-void-and-rainbow.json](./256875-void-and-rainbow.json) |
 | Void Arena | 155844 | [155844-void-arena.json](./155844-void-arena.json) |
