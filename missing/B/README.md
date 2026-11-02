@@ -6221,6 +6221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berghain Trainer | 313778 | [313778-berghain-trainer.json](./313778-berghain-trainer.json) |
 | Berghotel Heist | 365817 | [365817-berghotel-heist.json](./365817-berghotel-heist.json) |
 | Bergwerk: A Mining Sim | 412235 | [412235-bergwerk-a-mining-sim.json](./412235-bergwerk-a-mining-sim.json) |
+| Bering Tonnage | 406481 | [406481-bering-tonnage.json](./406481-bering-tonnage.json) |
 | Berkeley's Maid: Remake Edition | 298059 | [298059-berkeleys-maid-remake-edition.json](./298059-berkeleys-maid-remake-edition.json) |
 | Berks | 60532 | [60532-berks.json](./60532-berks.json) |
 | Berks 3: They're Angry! | 60520 | [60520-berks-3-theyre-angry.json](./60520-berks-3-theyre-angry.json) |
@@ -6937,6 +6938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Adventure: Trip to Europe 10 | 417304 | [417304-big-adventure-trip-to-europe-10.json](./417304-big-adventure-trip-to-europe-10.json) |
 | Big Adventure: Trip to Europe 10 - Collector's Edition | 338699 | [338699-big-adventure-trip-to-europe-10-collectors-edition.json](./338699-big-adventure-trip-to-europe-10-collectors-edition.json) |
 | Big Adventure: Trip to Europe 11 | 417373 | [417373-big-adventure-trip-to-europe-11.json](./417373-big-adventure-trip-to-europe-11.json) |
+| Big Adventure: Trip to Europe 11 - Collector's Edition | 407097 | [407097-big-adventure-trip-to-europe-11-collectors-edition.json](./407097-big-adventure-trip-to-europe-11-collectors-edition.json) |
 | Big Adventure: Trip to Europe 2 | 219376 | [219376-big-adventure-trip-to-europe-2.json](./219376-big-adventure-trip-to-europe-2.json) |
 | Big Adventure: Trip to Europe 2 - Collector's Edition | 219205 | [219205-big-adventure-trip-to-europe-2-collectors-edition.json](./219205-big-adventure-trip-to-europe-2-collectors-edition.json) |
 | Big Adventure: Trip to Europe 3 | 417375 | [417375-big-adventure-trip-to-europe-3.json](./417375-big-adventure-trip-to-europe-3.json) |
@@ -7549,6 +7551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BinaryGrab | 130724 | [130724-binarygrab.json](./130724-binarygrab.json) |
 | Binaural Odyssey | 153365 | [153365-binaural-odyssey.json](./153365-binaural-odyssey.json) |
 | Bincho-tan: Shiawase-goyomi | 194932 | [194932-bincho-tan-shiawase-goyomi.json](./194932-bincho-tan-shiawase-goyomi.json) |
+| Bind | 407058 | [407058-bind.json](./407058-bind.json) |
 | Bind Her | 128870 | [128870-bind-her.json](./128870-bind-her.json) |
 | Bind More | 27368 | [27368-bind-more.json](./27368-bind-more.json) |
 | Bind: Brain teaser puzzle game | 88292 | [88292-bind-brain-teaser-puzzle-game.json](./88292-bind-brain-teaser-puzzle-game.json) |
@@ -10495,6 +10498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Warrior | 39559 | [39559-blood-warrior.json](./39559-blood-warrior.json) |
 | Blood Waves | 75720 | [75720-blood-waves.json](./75720-blood-waves.json) |
 | Blood Welkin | 406298 | [406298-blood-welkin.json](./406298-blood-welkin.json) |
+| Blood West: Dead Man's Edition | 406476 | [406476-blood-west-dead-mans-edition.json](./406476-blood-west-dead-mans-edition.json) |
 | Blood West: Dead Man’s Promise | 321312 | [321312-blood-west-dead-man-s-promise.json](./321312-blood-west-dead-man-s-promise.json) |
 | Blood West: Scavengers | 369770 | [369770-blood-west-scavengers.json](./369770-blood-west-scavengers.json) |
 | Blood will be Spilled | 103811 | [103811-blood-will-be-spilled.json](./103811-blood-will-be-spilled.json) |
@@ -10667,6 +10671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodwood Dungeon | 297847 | [297847-bloodwood-dungeon.json](./297847-bloodwood-dungeon.json) |
 | Bloodwood Reload | 35742 | [35742-bloodwood-reload.json](./35742-bloodwood-reload.json) |
 | Bloodworks | 76533 | [76533-bloodworks.json](./76533-bloodworks.json) |
+| Bloodwoven | 406456 | [406456-bloodwoven.json](./406456-bloodwoven.json) |
 | Bloodwright | 404167 | [404167-bloodwright.json](./404167-bloodwright.json) |
 | Bloodwych | 2434 | [2434-bloodwych.json](./2434-bloodwych.json) |
 | Bloodwych: Data Disks Vol. 1 | 57618 | [57618-bloodwych-data-disks-vol-1.json](./57618-bloodwych-data-disks-vol-1.json) |
@@ -12167,6 +12172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BongoTrip | 99770 | [99770-bongotrip.json](./99770-bongotrip.json) |
 | Bongus Bright-Eye & The Great Axe-Stravaganza | 255252 | [255252-bongus-bright-eye-and-the-great-axe-stravaganza.json](./255252-bongus-bright-eye-and-the-great-axe-stravaganza.json) |
 | Bonhomme 7 Heures | 151617 | [151617-bonhomme-7-heures.json](./151617-bonhomme-7-heures.json) |
+| Bōnin | 407052 | [407052-bonin.json](./407052-bonin.json) |
 | Bonito Days | 175817 | [175817-bonito-days.json](./175817-bonito-days.json) |
 | Bonjin: An Ordinary Man | 349869 | [349869-bonjin-an-ordinary-man.json](./349869-bonjin-an-ordinary-man.json) |
 | Bonk | 230865 | [230865-bonk.json](./230865-bonk.json) |
@@ -14013,6 +14019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravest Burden | 173291 | [173291-bravest-burden.json](./173291-bravest-burden.json) |
 | Bravest Chicken | 275878 | [275878-bravest-chicken.json](./275878-bravest-chicken.json) |
 | Bravest Coconut | 310837 | [310837-bravest-coconut.json](./310837-bravest-coconut.json) |
+| Bravest! | 406494 | [406494-bravest.json](./406494-bravest.json) |
 | BraveStarr | 13434 | [13434-bravestarr.json](./13434-bravestarr.json) |
 | BraveWorld: Helix Jumper | 103103 | [103103-braveworld-helix-jumper.json](./103103-braveworld-helix-jumper.json) |
 | BraveWorld: Sky Rolling Ball | 100777 | [100777-braveworld-sky-rolling-ball.json](./100777-braveworld-sky-rolling-ball.json) |
@@ -14993,6 +15000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Covenant | 282699 | [282699-broken-covenant.json](./282699-broken-covenant.json) |
 | Broken Crescent | 356248 | [356248-broken-crescent.json](./356248-broken-crescent.json) |
 | Broken Crown | 402545 | [402545-broken-crown.json](./402545-broken-crown.json) |
+| Broken Cycle | 407090 | [407090-broken-cycle.json](./407090-broken-cycle.json) |
 | Broken Darwin | 124659 | [124659-broken-darwin.json](./124659-broken-darwin.json) |
 | Broken Dawn II | 175669 | [175669-broken-dawn-ii.json](./175669-broken-dawn-ii.json) |
 | Broken Depths RPG | 412898 | [412898-broken-depths-rpg.json](./412898-broken-depths-rpg.json) |
