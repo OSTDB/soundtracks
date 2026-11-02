@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wantless: Solace at World’s End | 179999 | [179999-wantless-solace-at-world-s-end.json](./179999-wantless-solace-at-world-s-end.json) |
 | Wanton Destruction | 2532 | [2532-wanton-destruction.json](./2532-wanton-destruction.json) |
 | Wanwan Datte Uchuu No Shinpi | 325385 | [325385-wanwan-datte-uchuu-no-shinpi.json](./325385-wanwan-datte-uchuu-no-shinpi.json) |
+| WanYaoChao | 419756 | [419756-wanyaochao.json](./419756-wanyaochao.json) |
 | Waochi! Math Homerun | 395686 | [395686-waochi-math-homerun.json](./395686-waochi-math-homerun.json) |
 | Wappy Dog | 47852 | [47852-wappy-dog.json](./47852-wappy-dog.json) |
 | War | 255331 | [255331-war.json](./255331-war.json) |
@@ -6288,6 +6289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Fight! | 357739 | [357739-wizard-fight.json](./357739-wizard-fight.json) |
 | Wizard Fire | 39288 | [39288-wizard-fire.json](./39288-wizard-fire.json) |
 | Wizard Girl Anzu | 190057 | [190057-wizard-girl-anzu.json](./190057-wizard-girl-anzu.json) |
+| Wizard Gold | 418404 | [418404-wizard-gold.json](./418404-wizard-gold.json) |
 | Wizard Golf RPG | 243711 | [243711-wizard-golf-rpg.json](./243711-wizard-golf-rpg.json) |
 | Wizard Graph | 185501 | [185501-wizard-graph.json](./185501-wizard-graph.json) |
 | Wizard Hand | 338652 | [338652-wizard-hand.json](./338652-wizard-hand.json) |
