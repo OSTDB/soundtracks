@@ -3048,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Safety | 197320 | [197320-king-safety.json](./197320-king-safety.json) |
 | King Salmon: The Big Catch | 4480 | [4480-king-salmon-the-big-catch.json](./4480-king-salmon-the-big-catch.json) |
 | King Scribble | 382775 | [382775-king-scribble.json](./382775-king-scribble.json) |
+| King Slime in Cashtle | 400651 | [400651-king-slime-in-cashtle.json](./400651-king-slime-in-cashtle.json) |
 | King Sol Solitare | 209833 | [209833-king-sol-solitare.json](./209833-king-sol-solitare.json) |
 | King Solomon's Lost Mines | 209832 | [209832-king-solomons-lost-mines.json](./209832-king-solomons-lost-mines.json) |
 | King Solomon's Mines | 323289 | [323289-king-solomons-mines.json](./323289-king-solomons-mines.json) |
