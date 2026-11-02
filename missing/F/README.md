@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-16 Combat Pilot | 12085 | [12085-f-16-combat-pilot.json](./12085-f-16-combat-pilot.json) |
 | F-16 Fighting Falcon | 14060 | [14060-f-16-fighting-falcon.json](./14060-f-16-fighting-falcon.json) |
 | F-16 Fighting Falcon | 36679 | [36679-f-16-fighting-falcon.json](./36679-f-16-fighting-falcon.json) |
+| F-16 Multirole Fighter | 16011 | [16011-f-16-multirole-fighter.json](./16011-f-16-multirole-fighter.json) |
 | F-16 Multirole Fighter | 72715 | [72715-f-16-multirole-fighter.json](./72715-f-16-multirole-fighter.json) |
 | F-16 Renegade | 66706 | [66706-f-16-renegade.json](./66706-f-16-renegade.json) |
 | F-18 Hornet | 12322 | [12322-f-18-hornet.json](./12322-f-18-hornet.json) |
@@ -3035,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate U.C.P | 42868 | [42868-fate-u-c-p.json](./42868-fate-u-c-p.json) |
 | Fate War | 360916 | [360916-fate-war.json](./360916-fate-war.json) |
 | Fate: Gates of Dawn | 73057 | [73057-fate-gates-of-dawn.json](./73057-fate-gates-of-dawn.json) |
+| Fate: The Traitor Soul | 15471 | [15471-fate-the-traitor-soul.json](./15471-fate-the-traitor-soul.json) |
 | Fate: Undiscovered Realms | 8867 | [8867-fate-undiscovered-realms.json](./8867-fate-undiscovered-realms.json) |
 | Fate's Masquerade | 334310 | [334310-fates-masquerade.json](./334310-fates-masquerade.json) |
 | Fate's Reflection Tthe Case of Detective Kotomu | 348793 | [348793-fates-reflection-tthe-case-of-detective-kotomu.json](./348793-fates-reflection-tthe-case-of-detective-kotomu.json) |
@@ -3335,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Tall Grass | 399074 | [399074-fear-tall-grass.json](./399074-fear-tall-grass.json) |
 | Fear Tape | 298397 | [298397-fear-tape.json](./298397-fear-tape.json) |
 | Fear Tapes: Scrap Yard | 371599 | [371599-fear-tapes-scrap-yard.json](./371599-fear-tapes-scrap-yard.json) |
+| Fear the Dark Unknown | 125003 | [125003-fear-the-dark-unknown.json](./125003-fear-the-dark-unknown.json) |
 | Fear the Dark Unknown: Chloe | 132250 | [132250-fear-the-dark-unknown-chloe.json](./132250-fear-the-dark-unknown-chloe.json) |
 | Fear the Dark Unknown: James | 159722 | [159722-fear-the-dark-unknown-james.json](./159722-fear-the-dark-unknown-james.json) |
 | Fear the Dead | 29220 | [29220-fear-the-dead.json](./29220-fear-the-dead.json) |
@@ -7692,6 +7695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flora Domina | 247426 | [247426-flora-domina.json](./247426-flora-domina.json) |
 | Flora Learns to Sing! | 321332 | [321332-flora-learns-to-sing.json](./321332-flora-learns-to-sing.json) |
 | Flora Parasocial | 406765 | [406765-flora-parasocial.json](./406765-flora-parasocial.json) |
+| Flora's Fruit Farm | 16047 | [16047-floras-fruit-farm.json](./16047-floras-fruit-farm.json) |
 | Floracide | 386977 | [386977-floracide.json](./386977-floracide.json) |
 | Floragram | 186585 | [186585-floragram.json](./186585-floragram.json) |
 | Floraison | 415869 | [415869-floraison.json](./415869-floraison.json) |
