@@ -6982,6 +6982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinomikon | 55269 | [55269-chinomikon.json](./55269-chinomikon.json) |
 | Chio Hero | 97266 | [97266-chio-hero.json](./97266-chio-hero.json) |
 | Chior | 318131 | [318131-chior.json](./318131-chior.json) |
+| Chip | 7597 | [7597-chip.json](./7597-chip.json) |
 | Chip ‘n Clawz vs. The Brainioids | 333089 | [333089-chip-n-clawz-vs-the-brainioids.json](./333089-chip-n-clawz-vs-the-brainioids.json) |
 | Chip 'n Clawz vs. The Brainioids: Going Underground | 398527 | [398527-chip-n-clawz-vs-the-brainioids-going-underground.json](./398527-chip-n-clawz-vs-the-brainioids-going-underground.json) |
 | Chip 'n Dale SNES Port | 377229 | [377229-chip-n-dale-snes-port.json](./377229-chip-n-dale-snes-port.json) |
@@ -13391,6 +13392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Thief Guy | 398316 | [398316-cool-thief-guy.json](./398316-cool-thief-guy.json) |
 | Cool World | 307071 | [307071-cool-world.json](./307071-cool-world.json) |
 | Cool World | 307072 | [307072-cool-world.json](./307072-cool-world.json) |
+| Cool World | 7825 | [7825-cool-world.json](./7825-cool-world.json) |
 | Coolbit | 181004 | [181004-coolbit.json](./181004-coolbit.json) |
 | Cooldog Teaches Typing | 179850 | [179850-cooldog-teaches-typing.json](./179850-cooldog-teaches-typing.json) |
 | Cooldown | 293052 | [293052-cooldown.json](./293052-cooldown.json) |
