@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctuary Saga | 233575 | [233575-sanctuary-saga.json](./233575-sanctuary-saga.json) |
 | Sanctuary VR | 30182 | [30182-sanctuary-vr.json](./30182-sanctuary-vr.json) |
 | Sanctuary: Shattered Sun | 235668 | [235668-sanctuary-shattered-sun.json](./235668-sanctuary-shattered-sun.json) |
+| SanctuaryRPG: Black Edition | 25549 | [25549-sanctuaryrpg-black-edition.json](./25549-sanctuaryrpg-black-edition.json) |
 | Sanctum | 236690 | [236690-sanctum.json](./236690-sanctum.json) |
 | Sanctum | 3183 | [3183-sanctum.json](./3183-sanctum.json) |
 | Sanctum | 77136 | [77136-sanctum.json](./77136-sanctum.json) |
@@ -7113,6 +7114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered World | 264632 | [264632-shattered-world.json](./264632-shattered-world.json) |
 | Shattered World: Beneath a Stone Sky | 185389 | [185389-shattered-world-beneath-a-stone-sky.json](./185389-shattered-world-beneath-a-stone-sky.json) |
 | Shattered Worlds | 155654 | [155654-shattered-worlds.json](./155654-shattered-worlds.json) |
+| Shattered: Tale of the Forgotten King | 25555 | [25555-shattered-tale-of-the-forgotten-king.json](./25555-shattered-tale-of-the-forgotten-king.json) |
 | Shattered: The Final Days | 248048 | [248048-shattered-the-final-days.json](./248048-shattered-the-final-days.json) |
 | Shatterhand | 48648 | [48648-shatterhand.json](./48648-shatterhand.json) |
 | Shatterhold | 406135 | [406135-shatterhold.json](./406135-shatterhold.json) |
@@ -21141,6 +21143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports 5 | 254951 | [254951-sports-5.json](./254951-sports-5.json) |
 | Sports Action Pak | 56456 | [56456-sports-action-pak.json](./56456-sports-action-pak.json) |
 | Sports Babes | 382284 | [382284-sports-babes.json](./382284-sports-babes.json) |
+| Sports Bar VR | 25185 | [25185-sports-bar-vr.json](./25185-sports-bar-vr.json) |
 | Sports Betting Simulator | 192767 | [192767-sports-betting-simulator.json](./192767-sports-betting-simulator.json) |
 | Sports Car Challenge | 237868 | [237868-sports-car-challenge.json](./237868-sports-car-challenge.json) |
 | Sports Car Challenge 2 | 233243 | [233243-sports-car-challenge-2.json](./233243-sports-car-challenge-2.json) |
@@ -30341,6 +30344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Racing | 287563 | [287563-super-racing.json](./287563-super-racing.json) |
 | Super Racing | 46103 | [46103-super-racing.json](./46103-super-racing.json) |
 | Super Rad Ball | 234505 | [234505-super-rad-ball.json](./234505-super-rad-ball.json) |
+| Super Rad Raygun | 25695 | [25695-super-rad-raygun.json](./25695-super-rad-raygun.json) |
 | Super Radish Witch | 135618 | [135618-super-radish-witch.json](./135618-super-radish-witch.json) |
 | Super Raft Boat Classic | 144142 | [144142-super-raft-boat-classic.json](./144142-super-raft-boat-classic.json) |
 | Super Raft Boat Together | 233704 | [233704-super-raft-boat-together.json](./233704-super-raft-boat-together.json) |
