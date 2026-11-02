@@ -9638,6 +9638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClickTown | 391315 | [391315-clicktown.json](./391315-clicktown.json) |
 | Clicky | 284822 | [284822-clicky.json](./284822-clicky.json) |
 | Clicky & Yo | 389962 | [389962-clicky-and-yo.json](./389962-clicky-and-yo.json) |
+| Clicky Bunny | 411250 | [411250-clicky-bunny.json](./411250-clicky-bunny.json) |
 | Clicky Coven | 317990 | [317990-clicky-coven.json](./317990-clicky-coven.json) |
 | Clicky Islands | 388729 | [388729-clicky-islands.json](./388729-clicky-islands.json) |
 | Clientele | 213020 | [213020-clientele.json](./213020-clientele.json) |
