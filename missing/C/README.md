@@ -13111,6 +13111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Content Creator Simulator | 89367 | [89367-content-creator-simulator.json](./89367-content-creator-simulator.json) |
 | Content Creator's Internet Adventure | 141499 | [141499-content-creators-internet-adventure.json](./141499-content-creators-internet-adventure.json) |
 | Content King: Streamer Simulator | 351418 | [351418-content-king-streamer-simulator.json](./351418-content-king-streamer-simulator.json) |
+| Content Moderator. | 402090 | [402090-content-moderator.json](./402090-content-moderator.json) |
 | Content Warning | 294661 | [294661-content-warning.json](./294661-content-warning.json) |
 | Content Warning: Scary Filming | 337073 | [337073-content-warning-scary-filming.json](./337073-content-warning-scary-filming.json) |
 | Contestant 345 | 351077 | [351077-contestant-345.json](./351077-contestant-345.json) |
@@ -18415,6 +18416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curatours | 181083 | [181083-curatours.json](./181083-curatours.json) |
 | Curb Hound | 414100 | [414100-curb-hound.json](./414100-curb-hound.json) |
 | Curdle | 382578 | [382578-curdle.json](./382578-curdle.json) |
+| Cure for Danmaku Synd | 402089 | [402089-cure-for-danmaku-synd.json](./402089-cure-for-danmaku-synd.json) |
 | Cure for Death | 344526 | [344526-cure-for-death.json](./344526-cure-for-death.json) |
 | Cure Girl | 127963 | [127963-cure-girl.json](./127963-cure-girl.json) |
 | Cure Mate Club | 63875 | [63875-cure-mate-club.json](./63875-cure-mate-club.json) |
@@ -18706,6 +18708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursor | 352340 | [352340-cursor.json](./352340-cursor.json) |
 | Cursor & Meow | 306998 | [306998-cursor-and-meow.json](./306998-cursor-and-meow.json) |
 | Cursor Blast | 348439 | [348439-cursor-blast.json](./348439-cursor-blast.json) |
+| Cursor Camp | 402092 | [402092-cursor-camp.json](./402092-cursor-camp.json) |
 | Cursor Car | 182928 | [182928-cursor-car.json](./182928-cursor-car.json) |
 | Cursor Challenge | 33120 | [33120-cursor-challenge.json](./33120-cursor-challenge.json) |
 | Cursor Custodian | 178856 | [178856-cursor-custodian.json](./178856-cursor-custodian.json) |
