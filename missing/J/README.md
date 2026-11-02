@@ -3568,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jupiter | 370136 | [370136-jupiter.json](./370136-jupiter.json) |
 | Jupiter & Mars | 76962 | [76962-jupiter-and-mars.json](./76962-jupiter-and-mars.json) |
 | Jupiter & Mars: Definitive Edition | 416856 | [416856-jupiter-and-mars-definitive-edition.json](./416856-jupiter-and-mars-definitive-edition.json) |
+| Jupiter Defender | 400321 | [400321-jupiter-defender.json](./400321-jupiter-defender.json) |
 | Jupiter Hell Classic | 321554 | [321554-jupiter-hell-classic.json](./321554-jupiter-hell-classic.json) |
 | Jupiter Jackpot Casino | 374025 | [374025-jupiter-jackpot-casino.json](./374025-jupiter-jackpot-casino.json) |
 | Jupiter Jump | 370231 | [370231-jupiter-jump.json](./370231-jupiter-jump.json) |
