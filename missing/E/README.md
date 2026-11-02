@@ -2604,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Else Walker | 177947 | [177947-else-walker.json](./177947-else-walker.json) |
 | Elsewar | 415130 | [415130-elsewar.json](./415130-elsewar.json) |
 | Elsewhere | 182783 | [182783-elsewhere.json](./182783-elsewhere.json) |
+| Elsewhere | 407070 | [407070-elsewhere.json](./407070-elsewhere.json) |
 | Elsewhere Electric | 336146 | [336146-elsewhere-electric.json](./336146-elsewhere-electric.json) |
 | Elsewhere High: Chapter 1 - A Visual Novel | 29599 | [29599-elsewhere-high-chapter-1-a-visual-novel.json](./29599-elsewhere-high-chapter-1-a-visual-novel.json) |
 | Elsewhere High: Chapter 2 - A Visual Novel | 168866 | [168866-elsewhere-high-chapter-2-a-visual-novel.json](./168866-elsewhere-high-chapter-2-a-visual-novel.json) |
@@ -7130,7 +7131,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exile: Avengers Fire | 220283 | [220283-exile-avengers-fire.json](./220283-exile-avengers-fire.json) |
 | Exile: Escape from the Pit | 7765 | [7765-exile-escape-from-the-pit.json](./7765-exile-escape-from-the-pit.json) |
 | Exile: Wicked Phenomenon | 44315 | [44315-exile-wicked-phenomenon.json](./44315-exile-wicked-phenomenon.json) |
-| Exile's End | 24969 | [24969-exiles-end.json](./24969-exiles-end.json) |
 | Exiled | 283090 | [283090-exiled.json](./283090-exiled.json) |
 | Exiled from Court | 177356 | [177356-exiled-from-court.json](./177356-exiled-from-court.json) |
 | Exiled Survivors | 278524 | [278524-exiled-survivors.json](./278524-exiled-survivors.json) |
@@ -7413,6 +7413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expeditions | 363013 | [363013-expeditions.json](./363013-expeditions.json) |
 | Expeditions: A MudRunner Game - Cotco Canyon | 287133 | [287133-expeditions-a-mudrunner-game-cotco-canyon.json](./287133-expeditions-a-mudrunner-game-cotco-canyon.json) |
 | Expeditions: A MudRunner Game - Day One Edition | 291542 | [291542-expeditions-a-mudrunner-game-day-one-edition.json](./291542-expeditions-a-mudrunner-game-day-one-edition.json) |
+| Expeditions: A MudRunner Game - Ford Dual Pack | 406468 | [406468-expeditions-a-mudrunner-game-ford-dual-pack.json](./406468-expeditions-a-mudrunner-game-ford-dual-pack.json) |
 | Expeditions: A MudRunner Game - Pioneer Pack | 287134 | [287134-expeditions-a-mudrunner-game-pioneer-pack.json](./287134-expeditions-a-mudrunner-game-pioneer-pack.json) |
 | Expeditions: A MudRunner Game - Season 1: Cave Odyssey | 397701 | [397701-expeditions-a-mudrunner-game-season-1-cave-odyssey.json](./397701-expeditions-a-mudrunner-game-season-1-cave-odyssey.json) |
 | Expeditions: A MudRunner Game - Season 2: White Dawn | 397703 | [397703-expeditions-a-mudrunner-game-season-2-white-dawn.json](./397703-expeditions-a-mudrunner-game-season-2-white-dawn.json) |
@@ -7517,6 +7518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploria | 188419 | [188419-exploria.json](./188419-exploria.json) |
 | Exploring Friscott | 345409 | [345409-exploring-friscott.json](./345409-exploring-friscott.json) |
 | Exploring Phonics 1 for Beginners | 334109 | [334109-exploring-phonics-1-for-beginners.json](./334109-exploring-phonics-1-for-beginners.json) |
+| Exploring the Endless Land: 60s | 407053 | [407053-exploring-the-endless-land-60s.json](./407053-exploring-the-endless-land-60s.json) |
 | Explory Story | 160203 | [160203-explory-story.json](./160203-explory-story.json) |
 | Explosion | 200466 | [200466-explosion.json](./200466-explosion.json) |
 | Explosion Magic Firebolt VR | 125087 | [125087-explosion-magic-firebolt-vr.json](./125087-explosion-magic-firebolt-vr.json) |
