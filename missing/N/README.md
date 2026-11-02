@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | National Park Girls: Episode 5 - Eternal Evergreen Part 2 | 260583 | [260583-national-park-girls-episode-5-eternal-evergreen-part-2.json](./260583-national-park-girls-episode-5-eternal-evergreen-part-2.json) |
 | National Park Girls: Love Our Parks Edition | 334285 | [334285-national-park-girls-love-our-parks-edition.json](./334285-national-park-girls-love-our-parks-edition.json) |
 | National Park Legend: Bigfoot | 101109 | [101109-national-park-legend-bigfoot.json](./101109-national-park-legend-bigfoot.json) |
+| National Park Tycoon | 420320 | [420320-national-park-tycoon.json](./420320-national-park-tycoon.json) |
 | National Quiz of Common Sense | 378823 | [378823-national-quiz-of-common-sense.json](./378823-national-quiz-of-common-sense.json) |
 | National Rugby Manager | 81005 | [81005-national-rugby-manager.json](./81005-national-rugby-manager.json) |
 | National Rugby Manager: European Rugby Pack | 227022 | [227022-national-rugby-manager-european-rugby-pack.json](./227022-national-rugby-manager-european-rugby-pack.json) |
@@ -1548,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necro Story | 125711 | [125711-necro-story.json](./125711-necro-story.json) |
 | Necro Survivors | 400666 | [400666-necro-survivors.json](./400666-necro-survivors.json) |
 | Necro Wars | 127261 | [127261-necro-wars.json](./127261-necro-wars.json) |
+| Necro-Matcher | 420327 | [420327-necro-matcher.json](./420327-necro-matcher.json) |
 | NecroArcher | 199359 | [199359-necroarcher.json](./199359-necroarcher.json) |
 | NecroAttack! | 261676 | [261676-necroattack.json](./261676-necroattack.json) |
 | Necrobarista | 26870 | [26870-necrobarista.json](./26870-necrobarista.json) |
@@ -1581,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NecRomancer | 176838 | [176838-necromancer.json](./176838-necromancer.json) |
 | Necromancer Delivery Service | 406309 | [406309-necromancer-delivery-service.json](./406309-necromancer-delivery-service.json) |
 | Necromancer Nonsense | 347151 | [347151-necromancer-nonsense.json](./347151-necromancer-nonsense.json) |
+| Necromancer Park | 420312 | [420312-necromancer-park.json](./420312-necromancer-park.json) |
 | Necromancer Rising | 66572 | [66572-necromancer-rising.json](./66572-necromancer-rising.json) |
 | Necromancer: Ash & Bone | 418262 | [418262-necromancer-ash-and-bone.json](./418262-necromancer-ash-and-bone.json) |
 | Necromancer: Winter | 156183 | [156183-necromancer-winter.json](./156183-necromancer-winter.json) |
@@ -3945,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night at Grandma's | 331330 | [331330-night-at-grandmas.json](./331330-night-at-grandmas.json) |
 | Night at the Cabin | 298653 | [298653-night-at-the-cabin.json](./298653-night-at-the-cabin.json) |
 | Night at the Full Moon Motel | 253755 | [253755-night-at-the-full-moon-motel.json](./253755-night-at-the-full-moon-motel.json) |
+| Night at the Fun Park | 420345 | [420345-night-at-the-fun-park.json](./420345-night-at-the-fun-park.json) |
 | Night At the Gates of Hell | 207381 | [207381-night-at-the-gates-of-hell.json](./207381-night-at-the-gates-of-hell.json) |
 | Night at the Harbor | 377848 | [377848-night-at-the-harbor.json](./377848-night-at-the-harbor.json) |
 | Night at the Hospital | 170530 | [170530-night-at-the-hospital.json](./170530-night-at-the-hospital.json) |
