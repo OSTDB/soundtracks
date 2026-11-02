@@ -1509,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagicArchitect | 284268 | [284268-magicarchitect.json](./284268-magicarchitect.json) |
 | MagiCarnage | 211730 | [211730-magicarnage.json](./211730-magicarnage.json) |
 | Magicat | 376831 | [376831-magicat.json](./376831-magicat.json) |
+| MagiCat | 52207 | [52207-magicat.json](./52207-magicat.json) |
 | MagiCats Builder | 104963 | [104963-magicats-builder.json](./104963-magicats-builder.json) |
 | MagiCats Builder: Infinite Pack | 170312 | [170312-magicats-builder-infinite-pack.json](./170312-magicats-builder-infinite-pack.json) |
 | MagiCats Worlds | 111530 | [111530-magicats-worlds.json](./111530-magicats-worlds.json) |
@@ -5537,7 +5538,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10234,6 +10234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middle-earth: Shadow of War - Definitive Edition | 106764 | [106764-middle-earth-shadow-of-war-definitive-edition.json](./106764-middle-earth-shadow-of-war-definitive-edition.json) |
 | Middle-earth: Shadow of War - Desolation of Mordor | 164812 | [164812-middle-earth-shadow-of-war-desolation-of-mordor.json](./164812-middle-earth-shadow-of-war-desolation-of-mordor.json) |
 | Middle-earth: Shadow of War - Forthog Orcslayer | 68381 | [68381-middle-earth-shadow-of-war-forthog-orcslayer.json](./68381-middle-earth-shadow-of-war-forthog-orcslayer.json) |
+| Middle-earth: Shadow of War - Gold Edition | 53359 | [53359-middle-earth-shadow-of-war-gold-edition.json](./53359-middle-earth-shadow-of-war-gold-edition.json) |
 | Middle-earth: Shadow of War - Mithril Edition | 36986 | [36986-middle-earth-shadow-of-war-mithril-edition.json](./36986-middle-earth-shadow-of-war-mithril-edition.json) |
 | Middle-earth: Shadow of War - Outlaw Tribe Nemesis | 164808 | [164808-middle-earth-shadow-of-war-outlaw-tribe-nemesis.json](./164808-middle-earth-shadow-of-war-outlaw-tribe-nemesis.json) |
 | Middle-earth: Shadow of War - Silver Edition | 53358 | [53358-middle-earth-shadow-of-war-silver-edition.json](./53358-middle-earth-shadow-of-war-silver-edition.json) |
@@ -19821,6 +19822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Witch Wants Elixirs! | 385715 | [385715-my-witch-wants-elixirs.json](./385715-my-witch-wants-elixirs.json) |
 | My Wolf Girlfriend | 206199 | [206199-my-wolf-girlfriend.json](./206199-my-wolf-girlfriend.json) |
 | My Woods | 335652 | [335652-my-woods.json](./335652-my-woods.json) |
+| My Word Coach | 5034 | [5034-my-word-coach.json](./5034-my-word-coach.json) |
 | My World Still Burns | 184313 | [184313-my-world-still-burns.json](./184313-my-world-still-burns.json) |
 | My World, My Way | 21253 | [21253-my-world-my-way.json](./21253-my-world-my-way.json) |
 | My Xiuxian World | 341161 | [341161-my-xiuxian-world.json](./341161-my-xiuxian-world.json) |
