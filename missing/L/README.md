@@ -3911,6 +3911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewd Beach | 367201 | [367201-lewd-beach.json](./367201-lewd-beach.json) |
 | Lewd Cell | 274970 | [274970-lewd-cell.json](./274970-lewd-cell.json) |
 | Lewd City Girls | 210465 | [210465-lewd-city-girls.json](./210465-lewd-city-girls.json) |
+| Lewd Cup | 411231 | [411231-lewd-cup.json](./411231-lewd-cup.json) |
 | Lewd Delivery | 235352 | [235352-lewd-delivery.json](./235352-lewd-delivery.json) |
 | Lewd Guest | 215643 | [215643-lewd-guest.json](./215643-lewd-guest.json) |
 | Lewd Gym | 207337 | [207337-lewd-gym.json](./207337-lewd-gym.json) |
@@ -4056,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Libertarian Wario Land | 318524 | [318524-libertarian-wario-land.json](./318524-libertarian-wario-land.json) |
 | Liberte | 157375 | [157375-liberte.json](./157375-liberte.json) |
 | Libertine | 372694 | [372694-libertine.json](./372694-libertine.json) |
+| Libertine: King of Hearts | 411249 | [411249-libertine-king-of-hearts.json](./411249-libertine-king-of-hearts.json) |
 | Liberty Castle: Home of the Free | 199666 | [199666-liberty-castle-home-of-the-free.json](./199666-liberty-castle-home-of-the-free.json) |
 | Liberty City | 196522 | [196522-liberty-city.json](./196522-liberty-city.json) |
 | Liberty City Preservation Project | 334671 | [334671-liberty-city-preservation-project.json](./334671-liberty-city-preservation-project.json) |
@@ -7366,6 +7368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lose95 | 227216 | [227216-lose95.json](./227216-lose95.json) |
 | Losen Screws Puzzles | 329446 | [329446-losen-screws-puzzles.json](./329446-losen-screws-puzzles.json) |
 | Loser Got Isekai’d: Gotta Conquer the Girls Before Conquering the World | 395466 | [395466-loser-got-isekai-d-gotta-conquer-the-girls-before-conquering-the-world.json](./395466-loser-got-isekai-d-gotta-conquer-the-girls-before-conquering-the-world.json) |
+| Loser Got Isekai’d: Sex, Side Jobs, and Odd Tasks | 411253 | [411253-loser-got-isekai-d-sex-side-jobs-and-odd-tasks.json](./411253-loser-got-isekai-d-sex-side-jobs-and-odd-tasks.json) |
 | Loser Named Hana | 373880 | [373880-loser-named-hana.json](./373880-loser-named-hana.json) |
 | Loser Reborn | 122179 | [122179-loser-reborn.json](./122179-loser-reborn.json) |
 | Loser Simulator | 305835 | [305835-loser-simulator.json](./305835-loser-simulator.json) |
