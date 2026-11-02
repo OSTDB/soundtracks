@@ -4442,6 +4442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator Rising 2 | 297578 | [297578-gladiator-rising-2.json](./297578-gladiator-rising-2.json) |
 | Gladiator Rumble | 340303 | [340303-gladiator-rumble.json](./340303-gladiator-rumble.json) |
 | Gladiator School | 284329 | [284329-gladiator-school.json](./284329-gladiator-school.json) |
+| Gladiator School | 30486 | [30486-gladiator-school.json](./30486-gladiator-school.json) |
 | Gladiator Trainer | 31289 | [31289-gladiator-trainer.json](./31289-gladiator-trainer.json) |
 | Gladiator Vs. | 137521 | [137521-gladiator-vs.json](./137521-gladiator-vs.json) |
 | Gladiator X | 130795 | [130795-gladiator-x.json](./130795-gladiator-x.json) |
