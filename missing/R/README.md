@@ -3108,6 +3108,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realpolitiks: New Power | 116997 | [116997-realpolitiks-new-power.json](./116997-realpolitiks-new-power.json) |
 | RealRTCW | 165333 | [165333-realrtcw.json](./165333-realrtcw.json) |
 | RealRTCW: Agency Weapon Pack | 323254 | [323254-realrtcw-agency-weapon-pack.json](./323254-realrtcw-agency-weapon-pack.json) |
+| RealRTCW: Cursed Sands | 400718 | [400718-realrtcw-cursed-sands.json](./400718-realrtcw-cursed-sands.json) |
+| RealRTCW: Supporter Pack | 400719 | [400719-realrtcw-supporter-pack.json](./400719-realrtcw-supporter-pack.json) |
 | Realshot | 81642 | [81642-realshot.json](./81642-realshot.json) |
 | RealSports Baseball | 117409 | [117409-realsports-baseball.json](./117409-realsports-baseball.json) |
 | RealSports Baseball | 18416 | [18416-realsports-baseball.json](./18416-realsports-baseball.json) |
@@ -3190,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebaixados Elite Brasil Clássicos | 282837 | [282837-rebaixados-elite-brasil-classicos.json](./282837-rebaixados-elite-brasil-classicos.json) |
 | Reball | 68931 | [68931-reball.json](./68931-reball.json) |
 | ReBall | 153227 | [153227-reball.json](./153227-reball.json) |
+| Rebekka's Bag O'Bones | 401207 | [401207-rebekkas-bag-obones.json](./401207-rebekkas-bag-obones.json) |
 | Rebel | 193593 | [193593-rebel.json](./193593-rebel.json) |
 | Rebel | 52756 | [52756-rebel.json](./52756-rebel.json) |
 | Rebel | 78086 | [78086-rebel.json](./78086-rebel.json) |
@@ -6489,6 +6492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhino Rumble | 49947 | [49947-rhino-rumble.json](./49947-rhino-rumble.json) |
 | Rhino Runner | 261557 | [261557-rhino-runner.json](./261557-rhino-runner.json) |
 | Rhino's Rage | 33759 | [33759-rhinos-rage.json](./33759-rhinos-rage.json) |
+| RHM | 401200 | [401200-rhm.json](./401200-rhm.json) |
 | Rhodes | 229023 | [229023-rhodes.json](./229023-rhodes.json) |
 | Rhodesia '72 | 292500 | [292500-rhodesia-72.json](./292500-rhodesia-72.json) |
 | Rhom Bus | 197231 | [197231-rhom-bus.json](./197231-rhom-bus.json) |
