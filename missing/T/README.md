@@ -5205,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Dr. Franken | 48617 | [48617-the-adventures-of-dr-franken.json](./48617-the-adventures-of-dr-franken.json) |
 | The Adventures of Eggbert | 146814 | [146814-the-adventures-of-eggbert.json](./146814-the-adventures-of-eggbert.json) |
 | The Adventures of El Ballo | 146189 | [146189-the-adventures-of-el-ballo.json](./146189-the-adventures-of-el-ballo.json) |
+| The Adventures of Elena Temple | 82578 | [82578-the-adventures-of-elena-temple.json](./82578-the-adventures-of-elena-temple.json) |
 | The Adventures of Elena Temple: Definitive Edition | 147597 | [147597-the-adventures-of-elena-temple-definitive-edition.json](./147597-the-adventures-of-elena-temple-definitive-edition.json) |
 | The Adventures of Elliot: The Millennium Tales - Digital Deluxe Edition | 395685 | [395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json](./395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json) |
 | The Adventures of Elmo in Grouchland | 69682 | [69682-the-adventures-of-elmo-in-grouchland.json](./69682-the-adventures-of-elmo-in-grouchland.json) |
@@ -15066,6 +15067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Server | 405527 | [405527-the-server.json](./405527-the-server.json) |
 | The Servers Are Shutting Down in 24 Hours but My Pull Rate's Been Set to 0.0001%?! | 382984 | [382984-the-servers-are-shutting-down-in-24-hours-but-my-pull-rates-been-set-to-0-0001.json](./382984-the-servers-are-shutting-down-in-24-hours-but-my-pull-rates-been-set-to-0-0001.json) |
 | The Settlements | 259430 | [259430-the-settlements.json](./259430-the-settlements.json) |
+| The Settlers | 86493 | [86493-the-settlers.json](./86493-the-settlers.json) |
 | The Settlers 5: History Edition | 113421 | [113421-the-settlers-5-history-edition.json](./113421-the-settlers-5-history-edition.json) |
 | The Settlers 7: History Edition | 114447 | [114447-the-settlers-7-history-edition.json](./114447-the-settlers-7-history-edition.json) |
 | The Settlers 7: Paths to a Kingdom - Conquest: The Empire Expansion | 225912 | [225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json](./225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json) |
@@ -29734,6 +29736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try to Catch Up | 174040 | [174040-try-to-catch-up.json](./174040-try-to-catch-up.json) |
 | Try to Drive | 366108 | [366108-try-to-drive.json](./366108-try-to-drive.json) |
 | Try to Escape! | 258434 | [258434-try-to-escape.json](./258434-try-to-escape.json) |
+| Try to Fall Asleep | 84085 | [84085-try-to-fall-asleep.json](./84085-try-to-fall-asleep.json) |
 | Try to Fit | 259965 | [259965-try-to-fit.json](./259965-try-to-fit.json) |
 | Try to Reach 10 | 130732 | [130732-try-to-reach-10.json](./130732-try-to-reach-10.json) |
 | Try to Remember | 150409 | [150409-try-to-remember.json](./150409-try-to-remember.json) |
@@ -31201,6 +31204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typer | 88354 | [88354-typer.json](./88354-typer.json) |
 | Typer Hero | 173013 | [173013-typer-hero.json](./173013-typer-hero.json) |
 | Typer Shark | 205982 | [205982-typer-shark.json](./205982-typer-shark.json) |
+| Typer Shark! Deluxe | 27816 | [27816-typer-shark-deluxe.json](./27816-typer-shark-deluxe.json) |
 | TypeRacer | 91271 | [91271-typeracer.json](./91271-typeracer.json) |
 | TypeRush | 203185 | [203185-typerush.json](./203185-typerush.json) |
 | TyperWorldCup | 180486 | [180486-typerworldcup.json](./180486-typerworldcup.json) |
