@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.N.N. | 306778 | [306778-a-n-n.json](./306778-a-n-n.json) |
 | A.N.N.E. | 8639 | [8639-a-n-n-e.json](./8639-a-n-n-e.json) |
 | A.N.O.N.Y.M.U.S. | 279027 | [279027-a-n-o-n-y-m-u-s.json](./279027-a-n-o-n-y-m-u-s.json) |
+| A.R.A. Astro Rescue Alliance | 402083 | [402083-a-r-a-astro-rescue-alliance.json](./402083-a-r-a-astro-rescue-alliance.json) |
 | A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
 | A.R.C. | 58867 | [58867-a-r-c.json](./58867-a-r-c.json) |
 | A.R.C. Squadron | 91816 | [91816-a-r-c-squadron.json](./91816-a-r-c-squadron.json) |
@@ -5220,6 +5221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aircraft Wars | 341580 | [341580-aircraft-wars.json](./341580-aircraft-wars.json) |
 | Aircrafter | 379858 | [379858-aircrafter.json](./379858-aircrafter.json) |
 | Airdrift | 203867 | [203867-airdrift.json](./203867-airdrift.json) |
+| AirDrive | 402046 | [402046-airdrive.json](./402046-airdrive.json) |
 | Aireo Flight Simulator 2025 Edition | 328579 | [328579-aireo-flight-simulator-2025-edition.json](./328579-aireo-flight-simulator-2025-edition.json) |
 | Aireo FlightSimulator | 264563 | [264563-aireo-flightsimulator.json](./264563-aireo-flightsimulator.json) |
 | Airfield Mania | 87900 | [87900-airfield-mania.json](./87900-airfield-mania.json) |
@@ -6971,6 +6973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All You Want Bundle | 231294 | [231294-all-you-want-bundle.json](./231294-all-you-want-bundle.json) |
 | All Your Creeps | 65438 | [65438-all-your-creeps.json](./65438-all-your-creeps.json) |
 | All Your Time-Tossed Selves | 134379 | [134379-all-your-time-tossed-selves.json](./134379-all-your-time-tossed-selves.json) |
+| All Zero | 402031 | [402031-all-zero.json](./402031-all-zero.json) |
 | All Zombies Must Die! | 9971 | [9971-all-zombies-must-die.json](./9971-all-zombies-must-die.json) |
 | All-American College Football | 205116 | [205116-all-american-college-football.json](./205116-all-american-college-football.json) |
 | All-American College Football | 332296 | [332296-all-american-college-football.json](./332296-all-american-college-football.json) |
