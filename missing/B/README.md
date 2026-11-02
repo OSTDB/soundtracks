@@ -4184,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship Empire | 103104 | [103104-battleship-empire.json](./103104-battleship-empire.json) |
 | Battleship Godios | 151960 | [151960-battleship-godios.json](./151960-battleship-godios.json) |
 | Battleship Lonewolf | 260651 | [260651-battleship-lonewolf.json](./260651-battleship-lonewolf.json) |
+| Battleship Lonewolf | 75821 | [75821-battleship-lonewolf.json](./75821-battleship-lonewolf.json) |
 | Battleship Lonewolf 2 | 86604 | [86604-battleship-lonewolf-2.json](./86604-battleship-lonewolf-2.json) |
 | Battleship Naval Combat | 366404 | [366404-battleship-naval-combat.json](./366404-battleship-naval-combat.json) |
 | Battleship War Multiplayer | 325534 | [325534-battleship-war-multiplayer.json](./325534-battleship-war-multiplayer.json) |
@@ -4457,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Richest! | 140984 | [140984-be-richest.json](./140984-be-richest.json) |
 | Be Silent | 291840 | [291840-be-silent.json](./291840-be-silent.json) |
 | Be the Block | 420578 | [420578-be-the-block.json](./420578-be-the-block.json) |
+| Be the Hero | 75796 | [75796-be-the-hero.json](./75796-be-the-hero.json) |
 | Be the King: Enjoy Your Trip to the Top | 106997 | [106997-be-the-king-enjoy-your-trip-to-the-top.json](./106997-be-the-king-enjoy-your-trip-to-the-top.json) |
 | Be the One | 154387 | [154387-be-the-one.json](./154387-be-the-one.json) |
 | Be the Richest | 261398 | [261398-be-the-richest.json](./261398-be-the-richest.json) |
@@ -8191,6 +8193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin Trader | 97039 | [97039-bitcoin-trader.json](./97039-bitcoin-trader.json) |
 | Bitcoin Trading Master | 99777 | [99777-bitcoin-trading-master.json](./99777-bitcoin-trading-master.json) |
 | Bitcoin Trading Master: Simulator | 125433 | [125433-bitcoin-trading-master-simulator.json](./125433-bitcoin-trading-master-simulator.json) |
+| Bitcoin Tycoon: Mining Simulation Game | 75622 | [75622-bitcoin-tycoon-mining-simulation-game.json](./75622-bitcoin-tycoon-mining-simulation-game.json) |
 | Bitcoin VR | 28932 | [28932-bitcoin-vr.json](./28932-bitcoin-vr.json) |
 | Bitcoin VS Brain | 89961 | [89961-bitcoin-vs-brain.json](./89961-bitcoin-vs-brain.json) |
 | BitColony | 351263 | [351263-bitcolony.json](./351263-bitcolony.json) |
