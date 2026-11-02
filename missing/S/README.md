@@ -4241,6 +4241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Havendor | 374382 | [374382-secret-of-havendor.json](./374382-secret-of-havendor.json) |
 | Secret of Kandar | 60267 | [60267-secret-of-kandar.json](./60267-secret-of-kandar.json) |
 | Secret of Lost Pyramid | 103876 | [103876-secret-of-lost-pyramid.json](./103876-secret-of-lost-pyramid.json) |
+| Secret of Magia | 34597 | [34597-secret-of-magia.json](./34597-secret-of-magia.json) |
 | Secret of Mana: Relocalized | 249276 | [249276-secret-of-mana-relocalized.json](./249276-secret-of-mana-relocalized.json) |
 | Secret of Qwerty | 124581 | [124581-secret-of-qwerty.json](./124581-secret-of-qwerty.json) |
 | Secret of Sardinia | 211543 | [211543-secret-of-sardinia.json](./211543-secret-of-sardinia.json) |
@@ -12245,6 +12246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slavistan 2 | 110828 | [110828-slavistan-2.json](./110828-slavistan-2.json) |
 | Slavoj Zizek Makes A Twine Game | 139418 | [139418-slavoj-zizek-makes-a-twine-game.json](./139418-slavoj-zizek-makes-a-twine-game.json) |
 | Slay | 104693 | [104693-slay.json](./104693-slay.json) |
+| Slay | 23183 | [23183-slay.json](./23183-slay.json) |
 | Slay | 338044 | [338044-slay.json](./338044-slay.json) |
 | Slay All Bosses: Idle | 390114 | [390114-slay-all-bosses-idle.json](./390114-slay-all-bosses-idle.json) |
 | Slay All Goblins | 113481 | [113481-slay-all-goblins.json](./113481-slay-all-goblins.json) |
@@ -18611,6 +18613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rocks Blaster | 181049 | [181049-space-rocks-blaster.json](./181049-space-rocks-blaster.json) |
 | Space Rocks in Space | 365825 | [365825-space-rocks-in-space.json](./365825-space-rocks-in-space.json) |
 | Space Rocks! | 277829 | [277829-space-rocks.json](./277829-space-rocks.json) |
+| Space Rogue | 23278 | [23278-space-rogue.json](./23278-space-rogue.json) |
 | Space Rogue | 23279 | [23279-space-rogue.json](./23279-space-rogue.json) |
 | Space Roguelike Adventure | 190386 | [190386-space-roguelike-adventure.json](./190386-space-roguelike-adventure.json) |
 | Space Roller Coaster VR | 103058 | [103058-space-roller-coaster-vr.json](./103058-space-roller-coaster-vr.json) |
@@ -20362,6 +20365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Rhythm XD: Monstercat | 274597 | [274597-spin-rhythm-xd-monstercat.json](./274597-spin-rhythm-xd-monstercat.json) |
 | Spin Rhythm XD: Supporter Pack DLC | 273312 | [273312-spin-rhythm-xd-supporter-pack-dlc.json](./273312-spin-rhythm-xd-supporter-pack-dlc.json) |
 | Spin Royale | 344459 | [344459-spin-royale.json](./344459-spin-royale.json) |
+| Spin Rush | 23157 | [23157-spin-rush.json](./23157-spin-rush.json) |
 | Spin Spell | 63556 | [63556-spin-spell.json](./63556-spin-spell.json) |
 | Spin Squared | 174281 | [174281-spin-squared.json](./174281-spin-squared.json) |
 | Spin the Beat | 43500 | [43500-spin-the-beat.json](./43500-spin-the-beat.json) |
@@ -27106,6 +27110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subsideria | 86591 | [86591-subsideria.json](./86591-subsideria.json) |
 | Subsiege | 26677 | [26677-subsiege.json](./26677-subsiege.json) |
 | Subsist: Apocalypse Survival | 296453 | [296453-subsist-apocalypse-survival.json](./296453-subsist-apocalypse-survival.json) |
+| Subsistence | 34071 | [34071-subsistence.json](./34071-subsistence.json) |
 | SubSpace | 19148 | [19148-subspace.json](./19148-subspace.json) |
 | Subspace Reticulum | 367537 | [367537-subspace-reticulum.json](./367537-subspace-reticulum.json) |
 | Subspace Voyage | 365850 | [365850-subspace-voyage.json](./365850-subspace-voyage.json) |
