@@ -4825,6 +4825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomscape | 253396 | [253396-gloomscape.json](./253396-gloomscape.json) |
 | Gloomsday | 285459 | [285459-gloomsday.json](./285459-gloomsday.json) |
 | Gloomveil | 385351 | [385351-gloomveil.json](./385351-gloomveil.json) |
+| Gloomvex | 400925 | [400925-gloomvex.json](./400925-gloomvex.json) |
 | Gloomwood | 134127 | [134127-gloomwood.json](./134127-gloomwood.json) |
 | Gloomy Clues | 360152 | [360152-gloomy-clues.json](./360152-gloomy-clues.json) |
 | Gloomy Detective and Devil Girl | 309982 | [309982-gloomy-detective-and-devil-girl.json](./309982-gloomy-detective-and-devil-girl.json) |
