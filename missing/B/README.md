@@ -2714,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Base Jumpers | 12349 | [12349-base-jumpers.json](./12349-base-jumpers.json) |
 | Base Jumping | 323839 | [323839-base-jumping.json](./323839-base-jumping.json) |
 | Base of War | 252320 | [252320-base-of-war.json](./252320-base-of-war.json) |
+| Base One | 146309 | [146309-base-one.json](./146309-base-one.json) |
 | Base Raid | 31808 | [31808-base-raid.json](./31808-base-raid.json) |
 | Base Squad 49 | 33026 | [33026-base-squad-49.json](./33026-base-squad-49.json) |
 | Base Under Attack! | 233193 | [233193-base-under-attack.json](./233193-base-under-attack.json) |
