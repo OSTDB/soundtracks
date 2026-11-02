@@ -14920,6 +14920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brittle Blue | 184591 | [184591-brittle-blue.json](./184591-brittle-blue.json) |
 | Brittle Buildings | 180841 | [180841-brittle-buildings.json](./180841-brittle-buildings.json) |
 | Brix | 14458 | [14458-brix.json](./14458-brix.json) |
+| Brix | 407747 | [407747-brix.json](./407747-brix.json) |
 | Brix and Trix | 237955 | [237955-brix-and-trix.json](./237955-brix-and-trix.json) |
 | Brix II Deluxe | 148451 | [148451-brix-ii-deluxe.json](./148451-brix-ii-deluxe.json) |
 | Brix VR | 116324 | [116324-brix-vr.json](./116324-brix-vr.json) |
