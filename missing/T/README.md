@@ -1325,7 +1325,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the World: Material Dungeon | 294583 | [294583-tales-of-the-world-material-dungeon.json](./294583-tales-of-the-world-material-dungeon.json) |
 | Tales of the World: Narikiri Dungeon 2 | 49828 | [49828-tales-of-the-world-narikiri-dungeon-2.json](./49828-tales-of-the-world-narikiri-dungeon-2.json) |
 | Tales of the World: Narikiri Dungeon 3 | 49827 | [49827-tales-of-the-world-narikiri-dungeon-3.json](./49827-tales-of-the-world-narikiri-dungeon-3.json) |
-| Tales of the World: Radiant Mythology | 19159 | [19159-tales-of-the-world-radiant-mythology.json](./19159-tales-of-the-world-radiant-mythology.json) |
 | Tales of the World: Radiant Mythology 2 | 42794 | [42794-tales-of-the-world-radiant-mythology-2.json](./42794-tales-of-the-world-radiant-mythology-2.json) |
 | Tales of the World: Radiant Mythology 3 | 42793 | [42793-tales-of-the-world-radiant-mythology-3.json](./42793-tales-of-the-world-radiant-mythology-3.json) |
 | Tales of the World: Reve Unitia | 61871 | [61871-tales-of-the-world-reve-unitia.json](./61871-tales-of-the-world-reve-unitia.json) |
@@ -5165,6 +5164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abyss Has Walls | 195760 | [195760-the-abyss-has-walls.json](./195760-the-abyss-has-walls.json) |
 | The Abyss Within | 250773 | [250773-the-abyss-within.json](./250773-the-abyss-within.json) |
 | The Abyss: Incident at Europa | 74076 | [74076-the-abyss-incident-at-europa.json](./74076-the-abyss-incident-at-europa.json) |
+| The Abyss’s Last Breath | 407098 | [407098-the-abyss-s-last-breath.json](./407098-the-abyss-s-last-breath.json) |
 | The Abyssal Descent | 356435 | [356435-the-abyssal-descent.json](./356435-the-abyssal-descent.json) |
 | The Abyssal Diplomat | 400939 | [400939-the-abyssal-diplomat.json](./400939-the-abyssal-diplomat.json) |
 | The Abyssal Maze | 379096 | [379096-the-abyssal-maze.json](./379096-the-abyssal-maze.json) |
@@ -10609,6 +10609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Insignia Project | 159520 | [159520-the-insignia-project.json](./159520-the-insignia-project.json) |
 | The Insomnia Town | 182853 | [182853-the-insomnia-town.json](./182853-the-insomnia-town.json) |
 | The Inspector | 175911 | [175911-the-inspector.json](./175911-the-inspector.json) |
+| The Inspector | 407071 | [407071-the-inspector.json](./407071-the-inspector.json) |
 | The Institute: A Becky Brogan Adventure | 125380 | [125380-the-institute-a-becky-brogan-adventure.json](./125380-the-institute-a-becky-brogan-adventure.json) |
 | The Instruction Manual | 202384 | [202384-the-instruction-manual.json](./202384-the-instruction-manual.json) |
 | The Instruments of Faith: Padua's Destiny | 197009 | [197009-the-instruments-of-faith-paduas-destiny.json](./197009-the-instruments-of-faith-paduas-destiny.json) |
@@ -11060,6 +11061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XV: Day One Edition | 171281 | [171281-the-king-of-fighters-xv-day-one-edition.json](./171281-the-king-of-fighters-xv-day-one-edition.json) |
 | The King of Fighters XV: Deluxe Edition | 172556 | [172556-the-king-of-fighters-xv-deluxe-edition.json](./172556-the-king-of-fighters-xv-deluxe-edition.json) |
 | The King of Fighters XV: DLC Costume "Classic Leona" | 332031 | [332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json](./332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json) |
+| The King of Fighters XV: DLC Team Pass "Team Pass 1" | 407091 | [407091-the-king-of-fighters-xv-dlc-team-pass-team-pass-1.json](./407091-the-king-of-fighters-xv-dlc-team-pass-team-pass-1.json) |
 | The King of Fighters XV: Omega Edition | 185982 | [185982-the-king-of-fighters-xv-omega-edition.json](./185982-the-king-of-fighters-xv-omega-edition.json) |
 | The King of Fighters XV: Omega Rugal | 323408 | [323408-the-king-of-fighters-xv-omega-rugal.json](./323408-the-king-of-fighters-xv-omega-rugal.json) |
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
@@ -13179,7 +13181,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moon Night | 51962 | [51962-the-moon-night.json](./51962-the-moon-night.json) |
 | The Moon or Bust! | 112522 | [112522-the-moon-or-bust.json](./112522-the-moon-or-bust.json) |
 | The Moon Relax | 165021 | [165021-the-moon-relax.json](./165021-the-moon-relax.json) |
-| The Moon Sliver | 17965 | [17965-the-moon-sliver.json](./17965-the-moon-sliver.json) |
 | The Moonflower | 248007 | [248007-the-moonflower.json](./248007-the-moonflower.json) |
 | The Moonlight Circus | 199235 | [199235-the-moonlight-circus.json](./199235-the-moonlight-circus.json) |
 | The Moonlight Motel | 148870 | [148870-the-moonlight-motel.json](./148870-the-moonlight-motel.json) |
@@ -19458,6 +19459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrusty Ship | 113660 | [113660-thrusty-ship.json](./113660-thrusty-ship.json) |
 | Thud Ridge: American Aces in 'Nam | 57594 | [57594-thud-ridge-american-aces-in-nam.json](./57594-thud-ridge-american-aces-in-nam.json) |
 | Thug Life | 377562 | [377562-thug-life.json](./377562-thug-life.json) |
+| Thug Wars | 407084 | [407084-thug-wars.json](./407084-thug-wars.json) |
 | Thugging | 370682 | [370682-thugging.json](./370682-thugging.json) |
 | Thugs Law | 114827 | [114827-thugs-law.json](./114827-thugs-law.json) |
 | Thugsters Battle Royale | 126233 | [126233-thugsters-battle-royale.json](./126233-thugsters-battle-royale.json) |
@@ -24550,6 +24552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Seclusion | 122810 | [122810-total-seclusion.json](./122810-total-seclusion.json) |
 | Total Seduction | 169111 | [169111-total-seduction.json](./169111-total-seduction.json) |
 | Total Shift: Wheeled Rebellion | 387090 | [387090-total-shift-wheeled-rebellion.json](./387090-total-shift-wheeled-rebellion.json) |
+| Total Simp Death | 407057 | [407057-total-simp-death.json](./407057-total-simp-death.json) |
 | Total Singu | 102954 | [102954-total-singu.json](./102954-total-singu.json) |
 | Total Ski Jump | 122159 | [122159-total-ski-jump.json](./122159-total-ski-jump.json) |
 | Total Soccer | 77778 | [77778-total-soccer.json](./77778-total-soccer.json) |
