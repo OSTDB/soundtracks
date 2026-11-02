@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | -Space Hunter- | 125156 | [125156-space-hunter.json](./125156-space-hunter.json) |
 | -Sprout- | 170321 | [170321-sprout.json](./170321-sprout.json) |
 | -Top Bear- | 133863 | [133863-top-bear.json](./133863-top-bear.json) |
+| :(Blues Clean | 401590 | [401590-blues-clean.json](./401590-blues-clean.json) |
 | :) | 139909 | [139909-.json](./139909-.json) |
 | :) Sudoku + | 88712 | [88712-sudoku.json](./88712-sudoku.json) |
 | ! | 165498 | [165498-.json](./165498-.json) |
@@ -271,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Bad Wad | 259374 | [259374-1-bad-wad.json](./259374-1-bad-wad.json) |
 | 1 Bit Chaos | 412734 | [412734-1-bit-chaos.json](./412734-1-bit-chaos.json) |
 | 1 Bit Survivor | 233992 | [233992-1-bit-survivor.json](./233992-1-bit-survivor.json) |
+| 1 Button 2 Language | 401606 | [401606-1-button-2-language.json](./401606-1-button-2-language.json) |
 | 1 CatLine | 391649 | [391649-1-catline.json](./391649-1-catline.json) |
 | 1 Date Danger | 255815 | [255815-1-date-danger.json](./255815-1-date-danger.json) |
 | 1 Day a Mosquito | 308198 | [308198-1-day-a-mosquito.json](./308198-1-day-a-mosquito.json) |
