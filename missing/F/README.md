@@ -2499,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmine Land | 325722 | [325722-farmine-land.json](./325722-farmine-land.json) |
 | Farming | 340059 | [340059-farming.json](./340059-farming.json) |
 | Farming & Supermarket: Clicker | 405610 | [405610-farming-and-supermarket-clicker.json](./405610-farming-and-supermarket-clicker.json) |
+| Farming 6-in-1 bundle | 32766 | [32766-farming-6-in-1-bundle.json](./32766-farming-6-in-1-bundle.json) |
 | Farming Adventure Double Pack: Orange Season + Garden Witch Life | 381716 | [381716-farming-adventure-double-pack-orange-season-garden-witch-life.json](./381716-farming-adventure-double-pack-orange-season-garden-witch-life.json) |
 | Farming Camp | 383138 | [383138-farming-camp.json](./383138-farming-camp.json) |
 | Farming Collection | 364100 | [364100-farming-collection.json](./364100-farming-collection.json) |
@@ -10483,6 +10484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragment's Note: After Stories | 200262 | [200262-fragments-note-after-stories.json](./200262-fragments-note-after-stories.json) |
 | Fragment's Note+ | 221086 | [221086-fragments-note.json](./221086-fragments-note.json) |
 | Fragment's Note+ AfterStory | 233948 | [233948-fragments-note-afterstory.json](./233948-fragments-note-afterstory.json) |
+| Fragmental | 33954 | [33954-fragmental.json](./33954-fragmental.json) |
 | Fragmentary | 390767 | [390767-fragmentary.json](./390767-fragmentary.json) |
 | Fragmentary Order | 398499 | [398499-fragmentary-order.json](./398499-fragmentary-order.json) |
 | Fragmented | 21326 | [21326-fragmented.json](./21326-fragmented.json) |
