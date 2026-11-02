@@ -1952,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satanic | 320733 | [320733-satanic.json](./320733-satanic.json) |
 | Satanic Panic 666 | 159779 | [159779-satanic-panic-666.json](./159779-satanic-panic-666.json) |
 | Satanislas | 250027 | [250027-satanislas.json](./250027-satanislas.json) |
+| Satanist | 32517 | [32517-satanist.json](./32517-satanist.json) |
 | Satanya's Adventure: All You Need is Melonpan | 184273 | [184273-satanyas-adventure-all-you-need-is-melonpan.json](./184273-satanyas-adventure-all-you-need-is-melonpan.json) |
 | Satawn | 405573 | [405573-satawn.json](./405573-satawn.json) |
 | Satay Club mini | 95681 | [95681-satay-club-mini.json](./95681-satay-club-mini.json) |
@@ -6951,6 +6952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShaQu | 358233 | [358233-shaqu.json](./358233-shaqu.json) |
 | Shararam | 329986 | [329986-shararam.json](./329986-shararam.json) |
 | Shard | 61849 | [61849-shard.json](./61849-shard.json) |
+| Shard Games | 32544 | [32544-shard-games.json](./32544-shard-games.json) |
 | Shard Legends: Clan Wars | 396657 | [396657-shard-legends-clan-wars.json](./396657-shard-legends-clan-wars.json) |
 | Shard of Inovar | 54671 | [54671-shard-of-inovar.json](./54671-shard-of-inovar.json) |
 | Shard of Kronos | 163967 | [163967-shard-of-kronos.json](./163967-shard-of-kronos.json) |
@@ -10398,6 +10400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Snooker | 264617 | [264617-simple-snooker.json](./264617-simple-snooker.json) |
 | Simple Solitaire | 239545 | [239545-simple-solitaire.json](./239545-simple-solitaire.json) |
 | Simple Solitaire | 264616 | [264616-simple-solitaire.json](./264616-simple-solitaire.json) |
+| Simple Spy | 32554 | [32554-simple-spy.json](./32554-simple-spy.json) |
 | Simple Story: Alex | 90395 | [90395-simple-story-alex.json](./90395-simple-story-alex.json) |
 | Simple Story: Alex - Two Guys | 172132 | [172132-simple-story-alex-two-guys.json](./172132-simple-story-alex-two-guys.json) |
 | Simple Tennis | 306018 | [306018-simple-tennis.json](./306018-simple-tennis.json) |
@@ -12213,6 +12216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash of Bullet | 151675 | [151675-slash-of-bullet.json](./151675-slash-of-bullet.json) |
 | Slash of Sword | 112649 | [112649-slash-of-sword.json](./112649-slash-of-sword.json) |
 | Slash of Sword 2 | 254157 | [254157-slash-of-sword-2.json](./254157-slash-of-sword-2.json) |
+| Slash or Die | 32538 | [32538-slash-or-die.json](./32538-slash-or-die.json) |
 | Slash or Die 2 | 105258 | [105258-slash-or-die-2.json](./105258-slash-or-die-2.json) |
 | Slash Quest | 355993 | [355993-slash-quest.json](./355993-slash-quest.json) |
 | Slash Quest: The King Kabbage Mystery | 400405 | [400405-slash-quest-the-king-kabbage-mystery.json](./400405-slash-quest-the-king-kabbage-mystery.json) |
@@ -13533,6 +13537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile For Me | 116851 | [116851-smile-for-me.json](./116851-smile-for-me.json) |
 | Smile For Me: Collector's Edition | 229691 | [229691-smile-for-me-collectors-edition.json](./229691-smile-for-me-collectors-edition.json) |
 | Smile For Me: Mega Happiness Bundle | 286695 | [286695-smile-for-me-mega-happiness-bundle.json](./286695-smile-for-me-mega-happiness-bundle.json) |
+| Smile Game Builder | 32500 | [32500-smile-game-builder.json](./32500-smile-game-builder.json) |
 | Smile Guide: The Apple Escape | 56136 | [56136-smile-guide-the-apple-escape.json](./56136-smile-guide-the-apple-escape.json) |
 | Smile Inc. | 25178 | [25178-smile-inc.json](./25178-smile-inc.json) |
 | Smile More | 395023 | [395023-smile-more.json](./395023-smile-more.json) |
@@ -14708,6 +14713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Many Spiders | 182136 | [182136-so-many-spiders.json](./182136-so-many-spiders.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
 | So May It Be: A Witch Dating Simulator | 132433 | [132433-so-may-it-be-a-witch-dating-simulator.json](./132433-so-may-it-be-a-witch-dating-simulator.json) |
+| So Much Blood | 32579 | [32579-so-much-blood.json](./32579-so-much-blood.json) |
 | So Much Stuff 2 | 245814 | [245814-so-much-stuff-2.json](./245814-so-much-stuff-2.json) |
 | So Much Stuff 2: Collector's Edition | 290425 | [290425-so-much-stuff-2-collectors-edition.json](./290425-so-much-stuff-2-collectors-edition.json) |
 | So Much Stuff 3: Odds & Ends | 257896 | [257896-so-much-stuff-3-odds-and-ends.json](./257896-so-much-stuff-3-odds-and-ends.json) |
@@ -18308,6 +18314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hitchhiker Stop | 360563 | [360563-space-hitchhiker-stop.json](./360563-space-hitchhiker-stop.json) |
 | Space Hodsola 2 | 105246 | [105246-space-hodsola-2.json](./105246-space-hodsola-2.json) |
 | Space Hole | 361227 | [361227-space-hole.json](./361227-space-hole.json) |
+| Space Hole 2016 | 32548 | [32548-space-hole-2016.json](./32548-space-hole-2016.json) |
 | Space Hole 2020 | 156675 | [156675-space-hole-2020.json](./156675-space-hole-2020.json) |
 | Space Hood | 372450 | [372450-space-hood.json](./372450-space-hood.json) |
 | Space Hopper | 187255 | [187255-space-hopper.json](./187255-space-hopper.json) |
@@ -32009,6 +32016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Island: The Forest 3D | 221364 | [221364-survival-island-the-forest-3d.json](./221364-survival-island-the-forest-3d.json) |
 | Survival Journals | 114889 | [114889-survival-journals.json](./114889-survival-journals.json) |
 | Survival Kids | 338087 | [338087-survival-kids.json](./338087-survival-kids.json) |
+| Survival Kingdom | 31154 | [31154-survival-kingdom.json](./31154-survival-kingdom.json) |
 | Survival Machine | 152121 | [152121-survival-machine.json](./152121-survival-machine.json) |
 | Survival Maze | 99428 | [99428-survival-maze.json](./99428-survival-maze.json) |
 | Survival Messenger Adventure | 231453 | [231453-survival-messenger-adventure.json](./231453-survival-messenger-adventure.json) |
@@ -33853,6 +33861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System City | 257403 | [257403-system-city.json](./257403-system-city.json) |
 | System Clues | 373000 | [373000-system-clues.json](./373000-system-clues.json) |
 | System Control | 157184 | [157184-system-control.json](./157184-system-control.json) |
+| System Crash | 32518 | [32518-system-crash.json](./32518-system-crash.json) |
 | System Crash: Underworld | 171424 | [171424-system-crash-underworld.json](./171424-system-crash-underworld.json) |
 | System Critical II | 240735 | [240735-system-critical-ii.json](./240735-system-critical-ii.json) |
 | System Critical III | 354340 | [354340-system-critical-iii.json](./354340-system-critical-iii.json) |
