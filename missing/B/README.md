@@ -901,7 +901,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1148,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakugan Battle Brawlers | 328395 | [328395-bakugan-battle-brawlers.json](./328395-bakugan-battle-brawlers.json) |
 | Bakugan Battle Brawlers: Arcade Battlers | 122989 | [122989-bakugan-battle-brawlers-arcade-battlers.json](./122989-bakugan-battle-brawlers-arcade-battlers.json) |
 | Bakugan Dimensions | 128896 | [128896-bakugan-dimensions.json](./128896-bakugan-dimensions.json) |
+| Bakugan: Champions of Vestroia | 135828 | [135828-bakugan-champions-of-vestroia.json](./135828-bakugan-champions-of-vestroia.json) |
 | Bakugan: Champions of Vestroia - Deluxe Edition | 140894 | [140894-bakugan-champions-of-vestroia-deluxe-edition.json](./140894-bakugan-champions-of-vestroia-deluxe-edition.json) |
 | Bakugan: Defenders of the Core | 6909 | [6909-bakugan-defenders-of-the-core.json](./6909-bakugan-defenders-of-the-core.json) |
 | Bakugan: Defenders of the Core | 79711 | [79711-bakugan-defenders-of-the-core.json](./79711-bakugan-defenders-of-the-core.json) |
@@ -11778,6 +11778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BomberHit | 303066 | [303066-bomberhit.json](./303066-bomberhit.json) |
 | Bomberic 2 | 91561 | [91561-bomberic-2.json](./91561-bomberic-2.json) |
 | Bomberland | 179150 | [179150-bomberland.json](./179150-bomberland.json) |
+| Bomberman | 129853 | [129853-bomberman.json](./129853-bomberman.json) |
 | Bomberman | 162426 | [162426-bomberman.json](./162426-bomberman.json) |
 | Bomberman | 198033 | [198033-bomberman.json](./198033-bomberman.json) |
 | Bomberman | 198067 | [198067-bomberman.json](./198067-bomberman.json) |
@@ -12496,6 +12497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands Collection: Pandora's Box | 264479 | [264479-borderlands-collection-pandoras-box.json](./264479-borderlands-collection-pandoras-box.json) |
 | Borderlands Double Deluxe Collection | 136725 | [136725-borderlands-double-deluxe-collection.json](./136725-borderlands-double-deluxe-collection.json) |
 | Borderlands Double Game Add-On Pack | 147224 | [147224-borderlands-double-game-add-on-pack.json](./147224-borderlands-double-game-add-on-pack.json) |
+| Borderlands Legendary Collection | 131966 | [131966-borderlands-legendary-collection.json](./131966-borderlands-legendary-collection.json) |
 | Borderlands Legends | 64415 | [64415-borderlands-legends.json](./64415-borderlands-legends.json) |
 | Borderlands Mobile | 397810 | [397810-borderlands-mobile.json](./397810-borderlands-mobile.json) |
 | Borderlands Triple Pack | 268734 | [268734-borderlands-triple-pack.json](./268734-borderlands-triple-pack.json) |
