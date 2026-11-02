@@ -7862,6 +7862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biotech Samurai | 161385 | [161385-biotech-samurai.json](./161385-biotech-samurai.json) |
 | Biotek | 141392 | [141392-biotek.json](./141392-biotek.json) |
 | Biotomata | 381685 | [381685-biotomata.json](./381685-biotomata.json) |
+| Biotone | 402649 | [402649-biotone.json](./402649-biotone.json) |
 | Biotopia | 258039 | [258039-biotopia.json](./258039-biotopia.json) |
 | Biotoxin | 271184 | [271184-biotoxin.json](./271184-biotoxin.json) |
 | Biotronic | 203015 | [203015-biotronic.json](./203015-biotronic.json) |
@@ -7924,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Game + | 117932 | [117932-bird-game.json](./117932-bird-game.json) |
 | Bird Game 3 | 380006 | [380006-bird-game-3.json](./380006-bird-game-3.json) |
 | Bird Game 3 | 380007 | [380007-bird-game-3.json](./380007-bird-game-3.json) |
+| Bird Game 3 | 402646 | [402646-bird-game-3.json](./402646-bird-game-3.json) |
 | Bird Game III | 381008 | [381008-bird-game-iii.json](./381008-bird-game-iii.json) |
 | Bird Game III | 400160 | [400160-bird-game-iii.json](./400160-bird-game-iii.json) |
 | Bird Hunt | 100508 | [100508-bird-hunt.json](./100508-bird-hunt.json) |
