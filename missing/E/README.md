@@ -4748,6 +4748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Fantasy | 55777 | [55777-escape-fantasy.json](./55777-escape-fantasy.json) |
 | Escape Fear 2: Hide And Seek Horror | 308637 | [308637-escape-fear-2-hide-and-seek-horror.json](./308637-escape-fear-2-hide-and-seek-horror.json) |
 | Escape First | 97243 | [97243-escape-first.json](./97243-escape-first.json) |
+| Escape First 2 | 119545 | [119545-escape-first-2.json](./119545-escape-first-2.json) |
 | Escape First 3 | 131778 | [131778-escape-first-3.json](./131778-escape-first-3.json) |
 | Escape First Alchemist | 213537 | [213537-escape-first-alchemist.json](./213537-escape-first-alchemist.json) |
 | Escape from 1927 | 240498 | [240498-escape-from-1927.json](./240498-escape-from-1927.json) |
