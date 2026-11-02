@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.T.E | 175044 | [175044-e-t-e.json](./175044-e-t-e.json) |
 | E.T.E Chronicle | 208847 | [208847-e-t-e-chronicle.json](./208847-e-t-e-chronicle.json) |
 | E.V.O.: Search for Eden | 6979 | [6979-e-v-o-search-for-eden.json](./6979-e-v-o-search-for-eden.json) |
+| E.X. Troopers | 26384 | [26384-e-x-troopers.json](./26384-e-x-troopers.json) |
 | E.x.p.l.o.r.: A New World | 148962 | [148962-e-x-p-l-o-r-a-new-world.json](./148962-e-x-p-l-o-r-a-new-world.json) |
 | E.Y.E: Divine Cybermancy | 6230 | [6230-e-y-e-divine-cybermancy.json](./6230-e-y-e-divine-cybermancy.json) |
 | E.Z | 86280 | [86280-e-z.json](./86280-e-z.json) |
