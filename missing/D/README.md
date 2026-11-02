@@ -6830,6 +6830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deserving Life | 74190 | [74190-deserving-life.json](./74190-deserving-life.json) |
 | Desespejos | 181799 | [181799-desespejos.json](./181799-desespejos.json) |
 | Desi Adda: Games of India | 218634 | [218634-desi-adda-games-of-india.json](./218634-desi-adda-games-of-india.json) |
+| Desiderium | 415799 | [415799-desiderium.json](./415799-desiderium.json) |
 | Desierto | 327872 | [327872-desierto.json](./327872-desierto.json) |
 | Design A Train | 106083 | [106083-design-a-train.json](./106083-design-a-train.json) |
 | Design Home | 54707 | [54707-design-home.json](./54707-design-home.json) |
@@ -11531,6 +11532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominoes | 60322 | [60322-dominoes.json](./60322-dominoes.json) |
 | Dominoes Café | 204967 | [204967-dominoes-cafe.json](./204967-dominoes-cafe.json) |
 | Dominoes Colors | 264599 | [264599-dominoes-colors.json](./264599-dominoes-colors.json) |
+| Dominoes: Classic Tile Games | 415264 | [415264-dominoes-classic-tile-games.json](./415264-dominoes-classic-tile-games.json) |
 | Dominoid | 346641 | [346641-dominoid.json](./346641-dominoid.json) |
 | Dominoid | 82560 | [82560-dominoid.json](./82560-dominoid.json) |
 | Dominoir | 396033 | [396033-dominoir.json](./396033-dominoir.json) |
@@ -17514,6 +17516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons: Eye of the Beholder | 49197 | [49197-dungeons-and-dragons-eye-of-the-beholder.json](./49197-dungeons-and-dragons-eye-of-the-beholder.json) |
 | Dungeons & Dragons: Heroes | 5819 | [5819-dungeons-and-dragons-heroes.json](./5819-dungeons-and-dragons-heroes.json) |
 | Dungeons & Dragons: Krynn Series | 51746 | [51746-dungeons-and-dragons-krynn-series.json](./51746-dungeons-and-dragons-krynn-series.json) |
+| Dungeons & Dragons: Long Rest Tavern | 415176 | [415176-dungeons-and-dragons-long-rest-tavern.json](./415176-dungeons-and-dragons-long-rest-tavern.json) |
 | Dungeons & Dragons: Ravenloft Series | 51745 | [51745-dungeons-and-dragons-ravenloft-series.json](./51745-dungeons-and-dragons-ravenloft-series.json) |
 | Dungeons & Dragons: Shadow over Mystara | 10253 | [10253-dungeons-and-dragons-shadow-over-mystara.json](./10253-dungeons-and-dragons-shadow-over-mystara.json) |
 | Dungeons & Dragons: Tower of Doom | 39328 | [39328-dungeons-and-dragons-tower-of-doom.json](./39328-dungeons-and-dragons-tower-of-doom.json) |
