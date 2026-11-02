@@ -5618,6 +5618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious World | 227476 | [227476-delicious-world.json](./227476-delicious-world.json) |
 | Delicious: Cooking and Romance | 270063 | [270063-delicious-cooking-and-romance.json](./270063-delicious-cooking-and-romance.json) |
 | Delicious: Emily's Big Surprise | 322569 | [322569-delicious-emilys-big-surprise.json](./322569-delicious-emilys-big-surprise.json) |
+| Delicious: Emily's Christmas Carol | 30914 | [30914-delicious-emilys-christmas-carol.json](./30914-delicious-emilys-christmas-carol.json) |
 | Delicious: Emily's Holiday Season | 89536 | [89536-delicious-emilys-holiday-season.json](./89536-delicious-emilys-holiday-season.json) |
 | Delicious: Emily's Home Sweet Home | 30387 | [30387-delicious-emilys-home-sweet-home.json](./30387-delicious-emilys-home-sweet-home.json) |
 | Delicious: Emily's Honeymoon Cruise | 145628 | [145628-delicious-emilys-honeymoon-cruise.json](./145628-delicious-emilys-honeymoon-cruise.json) |
@@ -9766,6 +9767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Hotshots: Disney's Tarzan | 231854 | [231854-disney-hotshots-disneys-tarzan.json](./231854-disney-hotshots-disneys-tarzan.json) |
 | Disney Hotshots: The Little Mermaid | 228446 | [228446-disney-hotshots-the-little-mermaid.json](./228446-disney-hotshots-the-little-mermaid.json) |
 | Disney Infinity 2.0 Spider-Man Playset | 263922 | [263922-disney-infinity-2-0-spider-man-playset.json](./263922-disney-infinity-2-0-spider-man-playset.json) |
+| Disney Infinity 2.0: Gold Edition | 30978 | [30978-disney-infinity-2-0-gold-edition.json](./30978-disney-infinity-2-0-gold-edition.json) |
 | Disney Infinity 2.0: Marvel Super Heroes | 17818 | [17818-disney-infinity-2-0-marvel-super-heroes.json](./17818-disney-infinity-2-0-marvel-super-heroes.json) |
 | Disney Infinity 3.0 | 11083 | [11083-disney-infinity-3-0.json](./11083-disney-infinity-3-0.json) |
 | Disney Infinity 4.0 | 240940 | [240940-disney-infinity-4-0.json](./240940-disney-infinity-4-0.json) |
@@ -13526,6 +13528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: College Football 2025 | 386282 | [386282-draft-day-sports-college-football-2025.json](./386282-draft-day-sports-college-football-2025.json) |
 | Draft Day Sports: College Football 2026 | 366273 | [366273-draft-day-sports-college-football-2026.json](./366273-draft-day-sports-college-football-2026.json) |
 | Draft Day Sports: Pro Basketball 2016 | 58891 | [58891-draft-day-sports-pro-basketball-2016.json](./58891-draft-day-sports-pro-basketball-2016.json) |
+| Draft Day Sports: Pro Basketball 2017 | 30908 | [30908-draft-day-sports-pro-basketball-2017.json](./30908-draft-day-sports-pro-basketball-2017.json) |
 | Draft Day Sports: Pro Basketball 2018 | 75713 | [75713-draft-day-sports-pro-basketball-2018.json](./75713-draft-day-sports-pro-basketball-2018.json) |
 | Draft Day Sports: Pro Basketball 2019 | 111623 | [111623-draft-day-sports-pro-basketball-2019.json](./111623-draft-day-sports-pro-basketball-2019.json) |
 | Draft Day Sports: Pro Basketball 2020 | 126983 | [126983-draft-day-sports-pro-basketball-2020.json](./126983-draft-day-sports-pro-basketball-2020.json) |
@@ -14018,6 +14021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon King: The Fighting Game | 184099 | [184099-dragon-king-the-fighting-game.json](./184099-dragon-king-the-fighting-game.json) |
 | Dragon Kingdom | 182277 | [182277-dragon-kingdom.json](./182277-dragon-kingdom.json) |
 | Dragon Kingdom | 312637 | [312637-dragon-kingdom.json](./312637-dragon-kingdom.json) |
+| Dragon Kingdom War | 30961 | [30961-dragon-kingdom-war.json](./30961-dragon-kingdom-war.json) |
 | Dragon Kingdom War: Deluxe Edition | 52945 | [52945-dragon-kingdom-war-deluxe-edition.json](./52945-dragon-kingdom-war-deluxe-edition.json) |
 | Dragon Kingdoms: A Legend's Beginning | 236322 | [236322-dragon-kingdoms-a-legends-beginning.json](./236322-dragon-kingdoms-a-legends-beginning.json) |
 | Dragon Kings | 269027 | [269027-dragon-kings.json](./269027-dragon-kings.json) |
@@ -16890,6 +16894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Crawlers HD | 35642 | [35642-dungeon-crawlers-hd.json](./35642-dungeon-crawlers-hd.json) |
 | Dungeon Create | 265139 | [265139-dungeon-create.json](./265139-dungeon-create.json) |
 | Dungeon Creator | 241999 | [241999-dungeon-creator.json](./241999-dungeon-creator.json) |
+| Dungeon Creepster | 29379 | [29379-dungeon-creepster.json](./29379-dungeon-creepster.json) |
 | Dungeon Cross | 221251 | [221251-dungeon-cross.json](./221251-dungeon-cross.json) |
 | Dungeon Crusher Kiritan | 138640 | [138640-dungeon-crusher-kiritan.json](./138640-dungeon-crusher-kiritan.json) |
 | Dungeon Crusher: Soul Hunters | 142999 | [142999-dungeon-crusher-soul-hunters.json](./142999-dungeon-crusher-soul-hunters.json) |
