@@ -9072,6 +9072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroomageddon | 388305 | [388305-shroomageddon.json](./388305-shroomageddon.json) |
 | Shroomer | 346178 | [346178-shroomer.json](./346178-shroomer.json) |
 | Shroomio's Adventure | 185455 | [185455-shroomios-adventure.json](./185455-shroomios-adventure.json) |
+| Shroomocracy! And The Wand Of Ages | 414020 | [414020-shroomocracy-and-the-wand-of-ages.json](./414020-shroomocracy-and-the-wand-of-ages.json) |
 | Shroomscape Zone | 192465 | [192465-shroomscape-zone.json](./192465-shroomscape-zone.json) |
 | Shroomtopia | 286092 | [286092-shroomtopia.json](./286092-shroomtopia.json) |
 | Shrot | 291382 | [291382-shrot.json](./291382-shrot.json) |
@@ -11146,6 +11147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate City Heroes | 21120 | [21120-skate-city-heroes.json](./21120-skate-city-heroes.json) |
 | Skate City: New York | 324872 | [324872-skate-city-new-york.json](./324872-skate-city-new-york.json) |
 | Skate Crazy | 58730 | [58730-skate-crazy.json](./58730-skate-crazy.json) |
+| Skate Felon | 414066 | [414066-skate-felon.json](./414066-skate-felon.json) |
 | Skate Fish | 318004 | [318004-skate-fish.json](./318004-skate-fish.json) |
 | Skate Forever | 151497 | [151497-skate-forever.json](./151497-skate-forever.json) |
 | Skate Hooligans | 182546 | [182546-skate-hooligans.json](./182546-skate-hooligans.json) |
@@ -11678,6 +11680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulltide | 292756 | [292756-skulltide.json](./292756-skulltide.json) |
 | Skulltiverse | 259662 | [259662-skulltiverse.json](./259662-skulltiverse.json) |
 | Skulltiverse II | 388719 | [388719-skulltiverse-ii.json](./388719-skulltiverse-ii.json) |
+| Skullwake | 414057 | [414057-skullwake.json](./414057-skullwake.json) |
 | Skully | 133902 | [133902-skully.json](./133902-skully.json) |
 | Skully Bunnies | 335287 | [335287-skully-bunnies.json](./335287-skully-bunnies.json) |
 | Skullz | 178551 | [178551-skullz.json](./178551-skullz.json) |
@@ -13010,6 +13013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlipSpeed | 132818 | [132818-slipspeed.json](./132818-slipspeed.json) |
 | Slipstream | 358437 | [358437-slipstream.json](./358437-slipstream.json) |
 | Slipstream 5000 | 7148 | [7148-slipstream-5000.json](./7148-slipstream-5000.json) |
+| Slipstream Vector | 414055 | [414055-slipstream-vector.json](./414055-slipstream-vector.json) |
 | Sliptime Sleuth | 132698 | [132698-sliptime-sleuth.json](./132698-sliptime-sleuth.json) |
 | Slipuzzle | 175225 | [175225-slipuzzle.json](./175225-slipuzzle.json) |
 | SlipVector | 412342 | [412342-slipvector.json](./412342-slipvector.json) |
@@ -18411,6 +18415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19647,6 +19652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectrum Break | 77712 | [77712-spectrum-break.json](./77712-spectrum-break.json) |
 | Spectrum Descent | 304082 | [304082-spectrum-descent.json](./304082-spectrum-descent.json) |
 | Spectrum Forces | 178252 | [178252-spectrum-forces.json](./178252-spectrum-forces.json) |
+| Spectrum Stampede | 414050 | [414050-spectrum-stampede.json](./414050-spectrum-stampede.json) |
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
 | Spectrum VR | 151381 | [151381-spectrum-vr.json](./151381-spectrum-vr.json) |
 | Spectrum: First Light | 35827 | [35827-spectrum-first-light.json](./35827-spectrum-first-light.json) |
@@ -24775,6 +24781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Cardworks | 332940 | [332940-stellar-cardworks.json](./332940-stellar-cardworks.json) |
 | Stellar Checkpoint | 311593 | [311593-stellar-checkpoint.json](./311593-stellar-checkpoint.json) |
 | Stellar Code | 326775 | [326775-stellar-code.json](./326775-stellar-code.json) |
+| Stellar Conflicts | 414045 | [414045-stellar-conflicts.json](./414045-stellar-conflicts.json) |
 | Stellar Conquest | 248595 | [248595-stellar-conquest.json](./248595-stellar-conquest.json) |
 | Stellar Conquest 3: Hostile Takeover | 70092 | [70092-stellar-conquest-3-hostile-takeover.json](./70092-stellar-conquest-3-hostile-takeover.json) |
 | Stellar Dawn | 67338 | [67338-stellar-dawn.json](./67338-stellar-dawn.json) |
@@ -25247,6 +25254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickmen Castle Defense | 183882 | [183882-stickmen-castle-defense.json](./183882-stickmen-castle-defense.json) |
 | Stickmen Empire | 103043 | [103043-stickmen-empire.json](./103043-stickmen-empire.json) |
 | StickMUD | 228427 | [228427-stickmud.json](./228427-stickmud.json) |
+| Stickplosion | 414052 | [414052-stickplosion.json](./414052-stickplosion.json) |
 | Sticks | 68800 | [68800-sticks.json](./68800-sticks.json) |
 | Sticks Aim Trainer | 294818 | [294818-sticks-aim-trainer.json](./294818-sticks-aim-trainer.json) |
 | Sticks and Bones | 115508 | [115508-sticks-and-bones.json](./115508-sticks-and-bones.json) |
@@ -25339,6 +25347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StillAsleep | 405745 | [405745-stillasleep.json](./405745-stillasleep.json) |
 | Stillbone | 395163 | [395163-stillbone.json](./395163-stillbone.json) |
 | Stillborn Slayer | 189039 | [189039-stillborn-slayer.json](./189039-stillborn-slayer.json) |
+| Stillflow | 414070 | [414070-stillflow.json](./414070-stillflow.json) |
 | Stillness | 348385 | [348385-stillness.json](./348385-stillness.json) |
 | Stillness | 385149 | [385149-stillness.json](./385149-stillness.json) |
 | Stillwater | 191558 | [191558-stillwater.json](./191558-stillwater.json) |
