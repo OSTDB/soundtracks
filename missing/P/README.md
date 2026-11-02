@@ -4919,6 +4919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom breaker battle grounds over drive | 99779 | [99779-phantom-breaker-battle-grounds-over-drive.json](./99779-phantom-breaker-battle-grounds-over-drive.json) |
 | Phantom Breaker: Another Code | 144653 | [144653-phantom-breaker-another-code.json](./144653-phantom-breaker-another-code.json) |
 | Phantom Breaker: Battle Grounds Mobile | 363670 | [363670-phantom-breaker-battle-grounds-mobile.json](./363670-phantom-breaker-battle-grounds-mobile.json) |
+| Phantom Breaker: Battle Grounds Overdrive | 51683 | [51683-phantom-breaker-battle-grounds-overdrive.json](./51683-phantom-breaker-battle-grounds-overdrive.json) |
 | Phantom Breaker: Battle Grounds Ultimate | 319268 | [319268-phantom-breaker-battle-grounds-ultimate.json](./319268-phantom-breaker-battle-grounds-ultimate.json) |
 | Phantom Breaker: Extra | 43038 | [43038-phantom-breaker-extra.json](./43038-phantom-breaker-extra.json) |
 | Phantom Brigade | 69488 | [69488-phantom-brigade.json](./69488-phantom-brigade.json) |
@@ -16783,6 +16784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo!! 20th Anniversary: Mini Version | 86736 | [86736-puyo-puyo-20th-anniversary-mini-version.json](./86736-puyo-puyo-20th-anniversary-mini-version.json) |
 | Puyo Puyo!! Quest | 80188 | [80188-puyo-puyo-quest.json](./80188-puyo-puyo-quest.json) |
 | Puyo Puyo!! Quest Arcade | 251092 | [251092-puyo-puyo-quest-arcade.json](./251092-puyo-puyo-quest-arcade.json) |
+| Puyo Puyo~n | 3579 | [3579-puyo-puyo-n.json](./3579-puyo-puyo-n.json) |
 | Puyo! Push Brain | 367926 | [367926-puyo-push-brain.json](./367926-puyo-push-brain.json) |
 | Puyo! Sokoban | 367944 | [367944-puyo-sokoban.json](./367944-puyo-sokoban.json) |
 | Puyolin | 198873 | [198873-puyolin.json](./198873-puyolin.json) |
