@@ -7151,6 +7151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Keeps Me Damn Alive | 350542 | [350542-she-keeps-me-damn-alive.json](./350542-she-keeps-me-damn-alive.json) |
 | She Never Left | 416718 | [416718-she-never-left.json](./416718-she-never-left.json) |
 | She Plays Dirty | 393569 | [393569-she-plays-dirty.json](./393569-she-plays-dirty.json) |
+| She Remembered Caterpillars | 26808 | [26808-she-remembered-caterpillars.json](./26808-she-remembered-caterpillars.json) |
 | She Save | 50511 | [50511-she-save.json](./50511-she-save.json) |
 | She Sees Red | 118645 | [118645-she-sees-red.json](./118645-she-sees-red.json) |
 | She Sings, but She’s Not a Skylark, Not Even a Nightingale. | 412445 | [412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json](./412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json) |
@@ -10332,6 +10333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simplefield | 46475 | [46475-simplefield.json](./46475-simplefield.json) |
 | SimpleMMO | 145898 | [145898-simplemmo.json](./145898-simplemmo.json) |
 | SimpleMovie | 369548 | [369548-simplemovie.json](./369548-simplemovie.json) |
+| SimplePlanes | 26473 | [26473-simpleplanes.json](./26473-simpleplanes.json) |
 | SimplePlanes 2 | 304696 | [304696-simpleplanes-2.json](./304696-simpleplanes-2.json) |
 | SimplePlanes VR | 169717 | [169717-simpleplanes-vr.json](./169717-simpleplanes-vr.json) |
 | Simpler Times | 308240 | [308240-simpler-times.json](./308240-simpler-times.json) |
@@ -18201,6 +18203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18443,6 +18446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Out | 72627 | [72627-space-out.json](./72627-space-out.json) |
 | Space Outpost Sigma | 331742 | [331742-space-outpost-sigma.json](./331742-space-outpost-sigma.json) |
 | Space Overlord: I got Isekai'd into a Sci-fi World | 195979 | [195979-space-overlord-i-got-isekaid-into-a-sci-fi-world.json](./195979-space-overlord-i-got-isekaid-into-a-sci-fi-world.json) |
+| Space Overlords | 25547 | [25547-space-overlords.json](./25547-space-overlords.json) |
 | Space Panic Defense | 75306 | [75306-space-panic-defense.json](./75306-space-panic-defense.json) |
 | Space Panic VR (Room Escape) | 37405 | [37405-space-panic-vr-room-escape.json](./37405-space-panic-vr-room-escape.json) |
 | Space Papers: Planet's Border | 277840 | [277840-space-papers-planets-border.json](./277840-space-papers-planets-border.json) |
@@ -24601,6 +24605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Grand Archive | 298125 | [298125-stellaris-grand-archive.json](./298125-stellaris-grand-archive.json) |
 | Stellaris: Humanoids | 114426 | [114426-stellaris-humanoids.json](./114426-stellaris-humanoids.json) |
 | Stellaris: Infernals Species Pack | 401938 | [401938-stellaris-infernals-species-pack.json](./401938-stellaris-infernals-species-pack.json) |
+| Stellaris: Leviathans | 25566 | [25566-stellaris-leviathans.json](./25566-stellaris-leviathans.json) |
 | Stellaris: Lithoids | 148795 | [148795-stellaris-lithoids.json](./148795-stellaris-lithoids.json) |
 | Stellaris: MegaCorp | 111331 | [111331-stellaris-megacorp.json](./111331-stellaris-megacorp.json) |
 | Stellaris: Necroids Species Pack | 148799 | [148799-stellaris-necroids-species-pack.json](./148799-stellaris-necroids-species-pack.json) |
