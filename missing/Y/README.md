@@ -858,7 +858,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yooka-Laylee: Buddy Duo Pack | 154556 | [154556-yooka-laylee-buddy-duo-pack.json](./154556-yooka-laylee-buddy-duo-pack.json) |
 | Yooka-Laylee: Collector's Edition | 109236 | [109236-yooka-laylee-collectors-edition.json](./109236-yooka-laylee-collectors-edition.json) |
 | Yooka-Laylee: Deluxe Edition | 52104 | [52104-yooka-laylee-deluxe-edition.json](./52104-yooka-laylee-deluxe-edition.json) |
-| Yooka-Replaylee | 304740 | [304740-yooka-replaylee.json](./304740-yooka-replaylee.json) |
 | Yoomurjak's Ring | 117716 | [117716-yoomurjaks-ring.json](./117716-yoomurjaks-ring.json) |
 | Yooperlite | 338214 | [338214-yooperlite.json](./338214-yooperlite.json) |
 | Yoostar | 62439 | [62439-yoostar.json](./62439-yoostar.json) |
@@ -985,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are Dead | 302402 | [302402-you-are-dead.json](./302402-you-are-dead.json) |
 | You Are Dead! | 323798 | [323798-you-are-dead.json](./323798-you-are-dead.json) |
 | You are Dough | 243643 | [243643-you-are-dough.json](./243643-you-are-dough.json) |
+| You Are Elon Musk | 403396 | [403396-you-are-elon-musk.json](./403396-you-are-elon-musk.json) |
 | You Are Empty | 54651 | [54651-you-are-empty.json](./54651-you-are-empty.json) |
 | You Are Empty: Absolute Edition | 414126 | [414126-you-are-empty-absolute-edition.json](./414126-you-are-empty-absolute-edition.json) |
 | You Are Family | 418531 | [418531-you-are-family.json](./418531-you-are-family.json) |
