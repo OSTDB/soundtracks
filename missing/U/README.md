@@ -1915,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unearthed | 75400 | [75400-unearthed.json](./75400-unearthed.json) |
 | Unearthed Arsenal | 80237 | [80237-unearthed-arsenal.json](./80237-unearthed-arsenal.json) |
 | Unearthed Inc: The Lost Temple | 30644 | [30644-unearthed-inc-the-lost-temple.json](./30644-unearthed-inc-the-lost-temple.json) |
+| Unearthed Memoirs | 419094 | [419094-unearthed-memoirs.json](./419094-unearthed-memoirs.json) |
 | Unearthed VR | 293379 | [293379-unearthed-vr.json](./293379-unearthed-vr.json) |
 | Unearthed: Trail of Ibn Battuta - Episode 1: Gold Edition | 30256 | [30256-unearthed-trail-of-ibn-battuta-episode-1-gold-edition.json](./30256-unearthed-trail-of-ibn-battuta-episode-1-gold-edition.json) |
 | Unearther | 326245 | [326245-unearther.json](./326245-unearther.json) |
@@ -2264,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe in Fire | 29237 | [29237-universe-in-fire.json](./29237-universe-in-fire.json) |
 | Universe of Trials | 318789 | [318789-universe-of-trials.json](./318789-universe-of-trials.json) |
 | Universe Prison | 147045 | [147045-universe-prison.json](./147045-universe-prison.json) |
+| Universe Quiz | 418406 | [418406-universe-quiz.json](./418406-universe-quiz.json) |
 | Universe Rhythm Shooting | 337606 | [337606-universe-rhythm-shooting.json](./337606-universe-rhythm-shooting.json) |
 | Universe Simulator | 95107 | [95107-universe-simulator.json](./95107-universe-simulator.json) |
 | Universe Size Comparison VR | 295281 | [295281-universe-size-comparison-vr.json](./295281-universe-size-comparison-vr.json) |
