@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Dream: Butcher | 133925 | [133925-bad-dream-butcher.json](./133925-bad-dream-butcher.json) |
 | Bad Dream: Coma | 27874 | [27874-bad-dream-coma.json](./27874-bad-dream-coma.json) |
 | Bad Dream: Cyclops | 133928 | [133928-bad-dream-cyclops.json](./133928-bad-dream-cyclops.json) |
+| Bad Dream: Fever | 81814 | [81814-bad-dream-fever.json](./81814-bad-dream-fever.json) |
 | Bad Dream: Graveyard | 133926 | [133926-bad-dream-graveyard.json](./133926-bad-dream-graveyard.json) |
 | Bad Dream: Hospital | 133927 | [133927-bad-dream-hospital.json](./133927-bad-dream-hospital.json) |
 | Bad Dream: Memories | 133929 | [133929-bad-dream-memories.json](./133929-bad-dream-memories.json) |
@@ -900,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8129,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit.Trip Presents... Runner2: Future Legend of Rhythm Alien | 5592 | [5592-bit-trip-presents-runner2-future-legend-of-rhythm-alien.json](./5592-bit-trip-presents-runner2-future-legend-of-rhythm-alien.json) |
 | Bit.Trip Saga | 21894 | [21894-bit-trip-saga.json](./21894-bit-trip-saga.json) |
 | Bit.Trip Void 2 | 323786 | [323786-bit-trip-void-2.json](./323786-bit-trip-void-2.json) |
+| Bitardia | 34378 | [34378-bitardia.json](./34378-bitardia.json) |
 | Bitardia Cards: Memes of 2ch | 33383 | [33383-bitardia-cards-memes-of-2ch.json](./33383-bitardia-cards-memes-of-2ch.json) |
 | Bitball | 333188 | [333188-bitball.json](./333188-bitball.json) |
 | BitBattle | 163809 | [163809-bitbattle.json](./163809-bitbattle.json) |
@@ -11139,6 +11142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Board Games Live | 86121 | [86121-board-games-live.json](./86121-board-games-live.json) |
 | Board Games VR | 74457 | [74457-board-games-vr.json](./74457-board-games-vr.json) |
 | Board Heroes | 299418 | [299418-board-heroes.json](./299418-board-heroes.json) |
+| Board Kings | 86960 | [86960-board-kings.json](./86960-board-kings.json) |
 | Board of the Future | 406166 | [406166-board-of-the-future.json](./406166-board-of-the-future.json) |
 | Board Quizz Adventure | 117795 | [117795-board-quizz-adventure.json](./117795-board-quizz-adventure.json) |
 | Boarder Zone | 288071 | [288071-boarder-zone.json](./288071-boarder-zone.json) |
@@ -14387,6 +14391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
 | Brick Breaker | 206490 | [206490-brick-breaker.json](./206490-brick-breaker.json) |
 | Brick Breaker | 264223 | [264223-brick-breaker.json](./264223-brick-breaker.json) |
+| Brick Breaker | 82448 | [82448-brick-breaker.json](./82448-brick-breaker.json) |
 | Brick Breaker Arcade | 59201 | [59201-brick-breaker-arcade.json](./59201-brick-breaker-arcade.json) |
 | Brick Breaker Bunch | 87968 | [87968-brick-breaker-bunch.json](./87968-brick-breaker-bunch.json) |
 | Brick Breaker DEMOLITION | 312645 | [312645-brick-breaker-demolition.json](./312645-brick-breaker-demolition.json) |
