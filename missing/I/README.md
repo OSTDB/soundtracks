@@ -1483,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Rat: Island Digger | 390562 | [390562-idle-rat-island-digger.json](./390562-idle-rat-island-digger.json) |
 | Idle Realms: The Eternal Spire | 403657 | [403657-idle-realms-the-eternal-spire.json](./403657-idle-realms-the-eternal-spire.json) |
 | Idle Regenerator | 408041 | [408041-idle-regenerator.json](./408041-idle-regenerator.json) |
+| Idle Research | 190065 | [190065-idle-research.json](./190065-idle-research.json) |
 | Idle Research 2 | 329460 | [329460-idle-research-2.json](./329460-idle-research-2.json) |
 | Idle Robot: Build Your Own Mecha | 199940 | [199940-idle-robot-build-your-own-mecha.json](./199940-idle-robot-build-your-own-mecha.json) |
 | Idle Roboto | 152888 | [152888-idle-roboto.json](./152888-idle-roboto.json) |
@@ -4265,6 +4266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspector Gadget | 198767 | [198767-inspector-gadget.json](./198767-inspector-gadget.json) |
 | Inspector Gadget | 4859 | [4859-inspector-gadget.json](./4859-inspector-gadget.json) |
 | Inspector Gadget Racing | 49293 | [49293-inspector-gadget-racing.json](./49293-inspector-gadget-racing.json) |
+| Inspector Gadget: Gadget's Crazy Maze | 4863 | [4863-inspector-gadget-gadgets-crazy-maze.json](./4863-inspector-gadget-gadgets-crazy-maze.json) |
 | Inspector Gadget: Mad Time Party | 247190 | [247190-inspector-gadget-mad-time-party.json](./247190-inspector-gadget-mad-time-party.json) |
 | Inspector Javert and the Oath of Blood | 135626 | [135626-inspector-javert-and-the-oath-of-blood.json](./135626-inspector-javert-and-the-oath-of-blood.json) |
 | Inspector Kloo | 315231 | [315231-inspector-kloo.json](./315231-inspector-kloo.json) |
