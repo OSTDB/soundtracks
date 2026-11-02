@@ -1207,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Caos: Prelude | 58086 | [58086-a-tale-of-caos-prelude.json](./58086-a-tale-of-caos-prelude.json) |
 | A Tale of Colours | 413679 | [413679-a-tale-of-colours.json](./413679-a-tale-of-colours.json) |
 | A Tale of Dirty Whiskers | 353795 | [353795-a-tale-of-dirty-whiskers.json](./353795-a-tale-of-dirty-whiskers.json) |
+| A Tale of Fortunate Lust | 401531 | [401531-a-tale-of-fortunate-lust.json](./401531-a-tale-of-fortunate-lust.json) |
 | A Tale of Little Berry Forest | 186419 | [186419-a-tale-of-little-berry-forest.json](./186419-a-tale-of-little-berry-forest.json) |
 | A Tale of Misery | 348913 | [348913-a-tale-of-misery.json](./348913-a-tale-of-misery.json) |
 | A Tale of Paper | 102803 | [102803-a-tale-of-paper.json](./102803-a-tale-of-paper.json) |
@@ -16382,6 +16383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto RiskRisk: Deluxe Pieces | 295297 | [295297-auto-riskrisk-deluxe-pieces.json](./295297-auto-riskrisk-deluxe-pieces.json) |
 | Auto Rogue | 334135 | [334135-auto-rogue.json](./334135-auto-rogue.json) |
 | Auto Sale Life | 258011 | [258011-auto-sale-life.json](./258011-auto-sale-life.json) |
+| Auto Shop Simulator | 401368 | [401368-auto-shop-simulator.json](./401368-auto-shop-simulator.json) |
 | Auto Shrooms | 418861 | [418861-auto-shrooms.json](./418861-auto-shrooms.json) |
 | Auto Sport Racing & Drone Delivery: FPV Simulator | 394570 | [394570-auto-sport-racing-and-drone-delivery-fpv-simulator.json](./394570-auto-sport-racing-and-drone-delivery-fpv-simulator.json) |
 | Auto Sport Racing Simulator | 381702 | [381702-auto-sport-racing-simulator.json](./381702-auto-sport-racing-simulator.json) |
