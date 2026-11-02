@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icy Tower Classic | 18096 | [18096-icy-tower-classic.json](./18096-icy-tower-classic.json) |
 | ICY: Frostbite Edition | 52095 | [52095-icy-frostbite-edition.json](./52095-icy-frostbite-edition.json) |
 | Icycle | 395111 | [395111-icycle.json](./395111-icycle.json) |
+| Icycle: On Thin Ice | 22144 | [22144-icycle-on-thin-ice.json](./22144-icycle-on-thin-ice.json) |
 | iD | 172035 | [172035-id.json](./172035-id.json) |
 | id Action Pack Vol. 3 | 222855 | [222855-id-action-pack-vol-3.json](./222855-id-action-pack-vol-3.json) |
 | Id Action Pack Vol. 4 | 276330 | [276330-id-action-pack-vol-4.json](./276330-id-action-pack-vol-4.json) |
