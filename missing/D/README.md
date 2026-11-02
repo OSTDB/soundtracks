@@ -5706,6 +5706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Force: Land Warrior | 9350 | [9350-delta-force-land-warrior.json](./9350-delta-force-land-warrior.json) |
 | Delta Force: Season 1 - Genesis | 328381 | [328381-delta-force-season-1-genesis.json](./328381-delta-force-season-1-genesis.json) |
 | Delta Force: Task Force Dagger | 9348 | [9348-delta-force-task-force-dagger.json](./9348-delta-force-task-force-dagger.json) |
+| Delta Force: Urban Warfare | 4134 | [4134-delta-force-urban-warfare.json](./4134-delta-force-urban-warfare.json) |
 | Delta Force: Xtreme | 1273 | [1273-delta-force-xtreme.json](./1273-delta-force-xtreme.json) |
 | Delta Force: Xtreme 2 | 9352 | [9352-delta-force-xtreme-2.json](./9352-delta-force-xtreme-2.json) |
 | Delta G | 112924 | [112924-delta-g.json](./112924-delta-g.json) |
@@ -5924,6 +5925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Inc. | 15126 | [15126-demolition-inc.json](./15126-demolition-inc.json) |
 | Demolition Inc.: Level & Weapon | 238632 | [238632-demolition-inc-level-and-weapon.json](./238632-demolition-inc-level-and-weapon.json) |
 | Demolition Man | 131726 | [131726-demolition-man.json](./131726-demolition-man.json) |
+| Demolition Man | 4341 | [4341-demolition-man.json](./4341-demolition-man.json) |
 | Demolition Master | 106775 | [106775-demolition-master.json](./106775-demolition-master.json) |
 | Demolition Master: Project Implode All | 224993 | [224993-demolition-master-project-implode-all.json](./224993-demolition-master-project-implode-all.json) |
 | Demolition Party | 235815 | [235815-demolition-party.json](./235815-demolition-party.json) |
@@ -12341,6 +12343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Tower Defense | 357838 | [357838-doomsday-tower-defense.json](./357838-doomsday-tower-defense.json) |
 | Doomsday Vault | 117012 | [117012-doomsday-vault.json](./117012-doomsday-vault.json) |
 | Doomsday Warrior | 42599 | [42599-doomsday-warrior.json](./42599-doomsday-warrior.json) |
+| Doomsday: Last Survivors | 187739 | [187739-doomsday-last-survivors.json](./187739-doomsday-last-survivors.json) |
 | Doomstar | 110217 | [110217-doomstar.json](./110217-doomstar.json) |
 | Doomtank | 118762 | [118762-doomtank.json](./118762-doomtank.json) |
 | Doomtrain | 386910 | [386910-doomtrain.json](./386910-doomtrain.json) |
@@ -13930,6 +13933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Little Fighters 2 | 149171 | [149171-dragon-little-fighters-2.json](./149171-dragon-little-fighters-2.json) |
 | Dragon Lords 3D | 51506 | [51506-dragon-lords-3d.json](./51506-dragon-lords-3d.json) |
 | Dragon Lore II: The Heart of the Dragon Man | 71412 | [71412-dragon-lore-ii-the-heart-of-the-dragon-man.json](./71412-dragon-lore-ii-the-heart-of-the-dragon-man.json) |
+| Dragon Lore: The Legend Begins | 4342 | [4342-dragon-lore-the-legend-begins.json](./4342-dragon-lore-the-legend-begins.json) |
 | Dragon Maiden: Blossoms of the Past | 369759 | [369759-dragon-maiden-blossoms-of-the-past.json](./369759-dragon-maiden-blossoms-of-the-past.json) |
 | Dragon Man: Reignited | 215173 | [215173-dragon-man-reignited.json](./215173-dragon-man-reignited.json) |
 | Dragon Mania | 241469 | [241469-dragon-mania.json](./241469-dragon-mania.json) |
@@ -17948,6 +17952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 3: Xtreme Legends | 45014 | [45014-dynasty-warriors-3-xtreme-legends.json](./45014-dynasty-warriors-3-xtreme-legends.json) |
 | Dynasty Warriors 4 | 3007 | [3007-dynasty-warriors-4.json](./3007-dynasty-warriors-4.json) |
 | Dynasty Warriors 4: Empires | 19620 | [19620-dynasty-warriors-4-empires.json](./19620-dynasty-warriors-4-empires.json) |
+| Dynasty Warriors 4: Hyper | 186120 | [186120-dynasty-warriors-4-hyper.json](./186120-dynasty-warriors-4-hyper.json) |
 | Dynasty Warriors 4: Xtreme Legends | 19631 | [19631-dynasty-warriors-4-xtreme-legends.json](./19631-dynasty-warriors-4-xtreme-legends.json) |
 | Dynasty Warriors 5 | 5820 | [5820-dynasty-warriors-5.json](./5820-dynasty-warriors-5.json) |
 | Dynasty Warriors 5: Empires | 19624 | [19624-dynasty-warriors-5-empires.json](./19624-dynasty-warriors-5-empires.json) |
