@@ -6968,6 +6968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Tobari | 206507 | [206507-flappy-tobari.json](./206507-flappy-tobari.json) |
 | Flappy Toss | 266151 | [266151-flappy-toss.json](./266151-flappy-toss.json) |
 | Flappy Trumpadore | 28206 | [28206-flappy-trumpadore.json](./28206-flappy-trumpadore.json) |
+| Flappy Typer: Ghost Talk | 421565 | [421565-flappy-typer-ghost-talk.json](./421565-flappy-typer-ghost-talk.json) |
 | Flappy Ugandan Knuckles | 308965 | [308965-flappy-ugandan-knuckles.json](./308965-flappy-ugandan-knuckles.json) |
 | Flappy Wings | 226423 | [226423-flappy-wings.json](./226423-flappy-wings.json) |
 | Flappy Wings | 381022 | [381022-flappy-wings.json](./381022-flappy-wings.json) |
@@ -7196,6 +7197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flesh of the Killer | 159219 | [159219-flesh-of-the-killer.json](./159219-flesh-of-the-killer.json) |
 | Flesh Prison | 323209 | [323209-flesh-prison.json](./323209-flesh-prison.json) |
 | Flesh Psychosis | 333041 | [333041-flesh-psychosis.json](./333041-flesh-psychosis.json) |
+| Flesh-Handed Hot Casserole Delivery Bot | 422171 | [422171-flesh-handed-hot-casserole-delivery-bot.json](./422171-flesh-handed-hot-casserole-delivery-bot.json) |
 | Flesh, Blood, & Concrete | 172807 | [172807-flesh-blood-and-concrete.json](./172807-flesh-blood-and-concrete.json) |
 | Flesharmonic | 271178 | [271178-flesharmonic.json](./271178-flesharmonic.json) |
 | Fleshborn | 393299 | [393299-fleshborn.json](./393299-fleshborn.json) |
@@ -8538,6 +8540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fool's Paradise | 149410 | [149410-fools-paradise.json](./149410-fools-paradise.json) |
 | Fool's Paradise | 293051 | [293051-fools-paradise.json](./293051-fools-paradise.json) |
 | Fool's Pub | 325264 | [325264-fools-pub.json](./325264-fools-pub.json) |
+| Fool's Trigger | 422205 | [422205-fools-trigger.json](./422205-fools-trigger.json) |
 | Foolball | 232603 | [232603-foolball.json](./232603-foolball.json) |
 | FoolHut Pack: 3 games in 1 | 295123 | [295123-foolhut-pack-3-games-in-1.json](./295123-foolhut-pack-3-games-in-1.json) |
 | Fooling Dead | 392709 | [392709-fooling-dead.json](./392709-fooling-dead.json) |
