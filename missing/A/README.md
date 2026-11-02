@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Call to Mars | 141755 | [141755-a-call-to-mars.json](./141755-a-call-to-mars.json) |
 | A Candle to the Unknown | 309325 | [309325-a-candle-to-the-unknown.json](./309325-a-candle-to-the-unknown.json) |
 | A Car That Turns | 205084 | [205084-a-car-that-turns.json](./205084-a-car-that-turns.json) |
+| A Casa Maluca | 412104 | [412104-a-casa-maluca.json](./412104-a-casa-maluca.json) |
 | A Case for Cap & Co | 242642 | [242642-a-case-for-cap-and-co.json](./242642-a-case-for-cap-and-co.json) |
 | A Case of Distrust | 28282 | [28282-a-case-of-distrust.json](./28282-a-case-of-distrust.json) |
 | A Case of Missing Dairy | 185400 | [185400-a-case-of-missing-dairy.json](./185400-a-case-of-missing-dairy.json) |
@@ -1569,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.R.E.S.: Extinction Agenda | 6282 | [6282-a-r-e-s-extinction-agenda.json](./6282-a-r-e-s-extinction-agenda.json) |
 | A.R.E.S.: Extinction Agenda - Berzerker Suit | 120631 | [120631-a-r-e-s-extinction-agenda-berzerker-suit.json](./120631-a-r-e-s-extinction-agenda-berzerker-suit.json) |
 | A.R.S.E.N.A.L. Taste of Power | 204341 | [204341-a-r-s-e-n-a-l-taste-of-power.json](./204341-a-r-s-e-n-a-l-taste-of-power.json) |
+| A.R.U. | 412069 | [412069-a-r-u.json](./412069-a-r-u.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
 | A.S.P.: Air Strike Patrol | 42662 | [42662-a-s-p-air-strike-patrol.json](./42662-a-s-p-air-strike-patrol.json) |
 | A.S.S. (Amazing Slot Survivor) | 412463 | [412463-a-s-s-amazing-slot-survivor.json](./412463-a-s-s-amazing-slot-survivor.json) |
@@ -8117,6 +8119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Montana | 195585 | [195585-american-truck-simulator-montana.json](./195585-american-truck-simulator-montana.json) |
 | American Truck Simulator: Nebraska | 261149 | [261149-american-truck-simulator-nebraska.json](./261149-american-truck-simulator-nebraska.json) |
 | American Truck Simulator: New Mexico | 75672 | [75672-american-truck-simulator-new-mexico.json](./75672-american-truck-simulator-new-mexico.json) |
+| American Truck Simulator: North Dakota | 412071 | [412071-american-truck-simulator-north-dakota.json](./412071-american-truck-simulator-north-dakota.json) |
 | American Truck Simulator: Oklahoma | 228046 | [228046-american-truck-simulator-oklahoma.json](./228046-american-truck-simulator-oklahoma.json) |
 | American Truck Simulator: Oregon | 115773 | [115773-american-truck-simulator-oregon.json](./115773-american-truck-simulator-oregon.json) |
 | American Truck Simulator: Pink Ribbon Charity Pack | 353398 | [353398-american-truck-simulator-pink-ribbon-charity-pack.json](./353398-american-truck-simulator-pink-ribbon-charity-pack.json) |
@@ -9301,6 +9304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animaddicts 3 | 195704 | [195704-animaddicts-3.json](./195704-animaddicts-3.json) |
 | Animaddicts 4 | 196427 | [196427-animaddicts-4.json](./196427-animaddicts-4.json) |
 | Animagi | 377681 | [377681-animagi.json](./377681-animagi.json) |
+| Animahjong V3 | 412128 | [412128-animahjong-v3.json](./412128-animahjong-v3.json) |
 | Animahjong X | 331189 | [331189-animahjong-x.json](./331189-animahjong-x.json) |
 | Animal | 2309 | [2309-animal.json](./2309-animal.json) |
 | Animal Academy | 237806 | [237806-animal-academy.json](./237806-animal-academy.json) |
