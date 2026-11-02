@@ -2383,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Gigant Battle! | 47818 | [47818-one-piece-gigant-battle.json](./47818-one-piece-gigant-battle.json) |
 | One Piece: Going Baseball - Kaizoku Yakyuu | 49736 | [49736-one-piece-going-baseball-kaizoku-yakyuu.json](./49736-one-piece-going-baseball-kaizoku-yakyuu.json) |
 | One Piece: Grand Adventure | 4053 | [4053-one-piece-grand-adventure.json](./4053-one-piece-grand-adventure.json) |
+| One Piece: Grand Battle | 24266 | [24266-one-piece-grand-battle.json](./24266-one-piece-grand-battle.json) |
 | One Piece: Grand Battle! 2 | 75743 | [75743-one-piece-grand-battle-2.json](./75743-one-piece-grand-battle-2.json) |
 | One Piece: Grand Battle! 3 | 75752 | [75752-one-piece-grand-battle-3.json](./75752-one-piece-grand-battle-3.json) |
 | One Piece: Grand Cruise | 47292 | [47292-one-piece-grand-cruise.json](./47292-one-piece-grand-cruise.json) |
