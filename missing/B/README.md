@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakuden Unbalance Zone | 46381 | [46381-bakuden-unbalance-zone.json](./46381-bakuden-unbalance-zone.json) |
 | Bakugan Battle Brawlers | 328395 | [328395-bakugan-battle-brawlers.json](./328395-bakugan-battle-brawlers.json) |
 | Bakugan Battle Brawlers: Arcade Battlers | 122989 | [122989-bakugan-battle-brawlers-arcade-battlers.json](./122989-bakugan-battle-brawlers-arcade-battlers.json) |
+| Bakugan Battle Brawlers: Battle Trainer | 122863 | [122863-bakugan-battle-brawlers-battle-trainer.json](./122863-bakugan-battle-brawlers-battle-trainer.json) |
 | Bakugan Dimensions | 128896 | [128896-bakugan-dimensions.json](./128896-bakugan-dimensions.json) |
 | Bakugan: Champions of Vestroia | 135828 | [135828-bakugan-champions-of-vestroia.json](./135828-bakugan-champions-of-vestroia.json) |
 | Bakugan: Champions of Vestroia - Deluxe Edition | 140894 | [140894-bakugan-champions-of-vestroia-deluxe-edition.json](./140894-bakugan-champions-of-vestroia-deluxe-edition.json) |
@@ -6958,6 +6959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Brother | 201165 | [201165-big-brother.json](./201165-big-brother.json) |
 | Big Brother Brasil | 140880 | [140880-big-brother-brasil.json](./140880-big-brother-brasil.json) |
 | Big Brother Brasil 3D Online | 178205 | [178205-big-brother-brasil-3d-online.json](./178205-big-brother-brasil-3d-online.json) |
+| Big Brother Is Shaping You | 114214 | [114214-big-brother-is-shaping-you.json](./114214-big-brother-is-shaping-you.json) |
 | Big Brother Series 2: The Game | 72753 | [72753-big-brother-series-2-the-game.json](./72753-big-brother-series-2-the-game.json) |
 | Big Brother: The Game | 139906 | [139906-big-brother-the-game.json](./139906-big-brother-the-game.json) |
 | Big Brother: The Game | 66035 | [66035-big-brother-the-game.json](./66035-big-brother-the-game.json) |
@@ -9431,6 +9433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Roots | 316162 | [316162-bleeding-roots.json](./316162-bleeding-roots.json) |
 | Bleemcast! for Metal Gear Solid | 315682 | [315682-bleemcast-for-metal-gear-solid.json](./315682-bleemcast-for-metal-gear-solid.json) |
 | Bleemcast! for Tekken 3 | 398277 | [398277-bleemcast-for-tekken-3.json](./398277-bleemcast-for-tekken-3.json) |
+| Bleep Bloop | 113897 | [113897-bleep-bloop.json](./113897-bleep-bloop.json) |
 | Bleepfrog | 343987 | [343987-bleepfrog.json](./343987-bleepfrog.json) |
 | Bleeping Spaceships | 373673 | [373673-bleeping-spaceships.json](./373673-bleeping-spaceships.json) |
 | Bleeping Spaceships MR | 357298 | [357298-bleeping-spaceships-mr.json](./357298-bleeping-spaceships-mr.json) |
@@ -13786,6 +13789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave | 334601 | [334601-brave.json](./334601-brave.json) |
 | Brave | 6926 | [6926-brave.json](./6926-brave.json) |
 | Brave 22 | 263507 | [263507-brave-22.json](./263507-brave-22.json) |
+| Brave Alchemist Colette | 122360 | [122360-brave-alchemist-colette.json](./122360-brave-alchemist-colette.json) |
 | Brave and Desire | 272782 | [272782-brave-and-desire.json](./272782-brave-and-desire.json) |
 | Brave and Glory | 309022 | [309022-brave-and-glory.json](./309022-brave-and-glory.json) |
 | Brave Arms | 65527 | [65527-brave-arms.json](./65527-brave-arms.json) |
