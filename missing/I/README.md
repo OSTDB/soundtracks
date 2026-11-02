@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Full Bloom | 349756 | [349756-in-full-bloom.json](./349756-in-full-bloom.json) |
 | In Game Adventure: Legend of Monsters | 43127 | [43127-in-game-adventure-legend-of-monsters.json](./43127-in-game-adventure-legend-of-monsters.json) |
 | In Gehenna Fantasy Heroine Edition | 367735 | [367735-in-gehenna-fantasy-heroine-edition.json](./367735-in-gehenna-fantasy-heroine-edition.json) |
+| In Girum | 421568 | [421568-in-girum.json](./421568-in-girum.json) |
 | In Good Company | 184906 | [184906-in-good-company.json](./184906-in-good-company.json) |
 | In Harness | 369083 | [369083-in-harness.json](./369083-in-harness.json) |
 | In Hazy Clouds | 212761 | [212761-in-hazy-clouds.json](./212761-in-hazy-clouds.json) |
