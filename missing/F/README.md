@@ -1699,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Animal Friends Bundle 3 in 1 | 378833 | [378833-fantastic-animal-friends-bundle-3-in-1.json](./378833-fantastic-animal-friends-bundle-3-in-1.json) |
 | Fantastic Annihilation | 323410 | [323410-fantastic-annihilation.json](./323410-fantastic-annihilation.json) |
 | Fantastic Baseball | 292785 | [292785-fantastic-baseball.json](./292785-fantastic-baseball.json) |
+| Fantastic Beasts and Where to Find Them | 83979 | [83979-fantastic-beasts-and-where-to-find-them.json](./83979-fantastic-beasts-and-where-to-find-them.json) |
 | Fantastic Checkers | 89798 | [89798-fantastic-checkers.json](./89798-fantastic-checkers.json) |
 | Fantastic Checkers 2 | 31677 | [31677-fantastic-checkers-2.json](./31677-fantastic-checkers-2.json) |
 | Fantastic Children | 49578 | [49578-fantastic-children.json](./49578-fantastic-children.json) |
@@ -2659,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fart Hotel | 243967 | [243967-fart-hotel.json](./243967-fart-hotel.json) |
 | Fart Killer | 312865 | [312865-fart-killer.json](./312865-fart-killer.json) |
 | Fart King | 338558 | [338558-fart-king.json](./338558-fart-king.json) |
+| Fart Simulator 2018 | 84120 | [84120-fart-simulator-2018.json](./84120-fart-simulator-2018.json) |
 | Fart Up | 299455 | [299455-fart-up.json](./299455-fart-up.json) |
 | Fartal Error | 365033 | [365033-fartal-error.json](./365033-fartal-error.json) |
 | Fartcore | 374946 | [374946-fartcore.json](./374946-fartcore.json) |
@@ -4571,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Armada | 43297 | [43297-final-armada.json](./43297-final-armada.json) |
 | Final Assault | 39115 | [39115-final-assault.json](./39115-final-assault.json) |
 | Final Assault | 94615 | [94615-final-assault.json](./94615-final-assault.json) |
+| Final Battle | 76376 | [76376-final-battle.json](./76376-final-battle.json) |
 | Final Battle in Zhifudao | 415755 | [415755-final-battle-in-zhifudao.json](./415755-final-battle-in-zhifudao.json) |
 | Final Blade | 115187 | [115187-final-blade.json](./115187-final-blade.json) |
 | Final Blade | 175765 | [175765-final-blade.json](./175765-final-blade.json) |
@@ -7793,6 +7796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Cells | 216447 | [216447-flower-cells.json](./216447-flower-cells.json) |
 | Flower Daze | 366428 | [366428-flower-daze.json](./366428-flower-daze.json) |
 | Flower Defence | 56761 | [56761-flower-defence.json](./56761-flower-defence.json) |
+| Flower Design | 83864 | [83864-flower-design.json](./83864-flower-design.json) |
 | Flower Design II | 384522 | [384522-flower-design-ii.json](./384522-flower-design-ii.json) |
 | Flower Dungeon | 380214 | [380214-flower-dungeon.json](./380214-flower-dungeon.json) |
 | Flower Dungeon: Gold Nib & Dragon Fists | 380215 | [380215-flower-dungeon-gold-nib-and-dragon-fists.json](./380215-flower-dungeon-gold-nib-and-dragon-fists.json) |
@@ -12234,6 +12238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fulfillment | 126888 | [126888-fulfillment.json](./126888-fulfillment.json) |
 | Fulfillment Center Simulator | 320935 | [320935-fulfillment-center-simulator.json](./320935-fulfillment-center-simulator.json) |
 | Fulger McQueen Off road | 231951 | [231951-fulger-mcqueen-off-road.json](./231951-fulger-mcqueen-off-road.json) |
+| Full Ace Tennis Simulator | 84009 | [84009-full-ace-tennis-simulator.json](./84009-full-ace-tennis-simulator.json) |
 | Full ADHD | 326669 | [326669-full-adhd.json](./326669-full-adhd.json) |
 | Full Animal Party | 132551 | [132551-full-animal-party.json](./132551-full-animal-party.json) |
 | Full Auto | 6998 | [6998-full-auto.json](./6998-full-auto.json) |
