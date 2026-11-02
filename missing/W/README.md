@@ -7921,6 +7921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Tree | 189999 | [189999-world-tree.json](./189999-world-tree.json) |
 | World Tree Inferno | 347198 | [347198-world-tree-inferno.json](./347198-world-tree-inferno.json) |
 | World Trigger: Borderless Mission | 12892 | [12892-world-trigger-borderless-mission.json](./12892-world-trigger-borderless-mission.json) |
+| World Trophy Soccer | 4390 | [4390-world-trophy-soccer.json](./4390-world-trophy-soccer.json) |
 | World Truck Driving Simulator | 103891 | [103891-world-truck-driving-simulator.json](./103891-world-truck-driving-simulator.json) |
 | World Ultimate Mafia | 323546 | [323546-world-ultimate-mafia.json](./323546-world-ultimate-mafia.json) |
 | World Voyage | 53109 | [53109-world-voyage.json](./53109-world-voyage.json) |
