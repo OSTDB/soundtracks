@@ -4605,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masked Forces 3 | 103600 | [103600-masked-forces-3.json](./103600-masked-forces-3.json) |
 | Masked Ninja Action | 164702 | [164702-masked-ninja-action.json](./164702-masked-ninja-action.json) |
 | Masked Shooters | 36519 | [36519-masked-shooters.json](./36519-masked-shooters.json) |
+| Masked Shooters 2 | 33746 | [33746-masked-shooters-2.json](./33746-masked-shooters-2.json) |
 | Masked Shooters Assault | 240490 | [240490-masked-shooters-assault.json](./240490-masked-shooters-assault.json) |
 | Masked Shooters Single-player | 240489 | [240489-masked-shooters-single-player.json](./240489-masked-shooters-single-player.json) |
 | Masked Wolf: Astronaut Tiles Hop Beat | 182442 | [182442-masked-wolf-astronaut-tiles-hop-beat.json](./182442-masked-wolf-astronaut-tiles-hop-beat.json) |
@@ -4915,6 +4916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Thief: Skyscraper Sting | 295920 | [295920-master-thief-skyscraper-sting.json](./295920-master-thief-skyscraper-sting.json) |
 | Master Whip | 175658 | [175658-master-whip.json](./175658-master-whip.json) |
 | Master Wulder | 217204 | [217204-master-wulder.json](./217204-master-wulder.json) |
+| Master X Master | 23355 | [23355-master-x-master.json](./23355-master-x-master.json) |
 | Master x Re:master | 395138 | [395138-master-x-re-master.json](./395138-master-x-re-master.json) |
 | Masterblazer | 15258 | [15258-masterblazer.json](./15258-masterblazer.json) |
 | Masterchef Cakes Edition | 217507 | [217507-masterchef-cakes-edition.json](./217507-masterchef-cakes-edition.json) |
@@ -7958,6 +7960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melon on a Mission | 416071 | [416071-melon-on-a-mission.json](./416071-melon-on-a-mission.json) |
 | Melon Parker: We are Whatever Club! | 378816 | [378816-melon-parker-we-are-whatever-club.json](./378816-melon-parker-we-are-whatever-club.json) |
 | Melon Sandbox | 231934 | [231934-melon-sandbox.json](./231934-melon-sandbox.json) |
+| Melon Simulator | 33642 | [33642-melon-simulator.json](./33642-melon-simulator.json) |
 | Melon Truck 2.0 | 256347 | [256347-melon-truck-2-0.json](./256347-melon-truck-2-0.json) |
 | Melon's Sokoban Walk | 386103 | [386103-melons-sokoban-walk.json](./386103-melons-sokoban-walk.json) |
 | Melone in the Dark | 177404 | [177404-melone-in-the-dark.json](./177404-melone-in-the-dark.json) |
@@ -16778,6 +16781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Car Climb | 402347 | [402347-mountain-car-climb.json](./402347-mountain-car-climb.json) |
 | Mountain Climb Driver | 253225 | [253225-mountain-climb-driver.json](./253225-mountain-climb-driver.json) |
 | Mountain Climb: Stunt | 175024 | [175024-mountain-climb-stunt.json](./175024-mountain-climb-stunt.json) |
+| Mountain Crime: Requital | 34640 | [34640-mountain-crime-requital.json](./34640-mountain-crime-requital.json) |
 | Mountain King | 12315 | [12315-mountain-king.json](./12315-mountain-king.json) |
 | Mountain King Return | 288662 | [288662-mountain-king-return.json](./288662-mountain-king-return.json) |
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
