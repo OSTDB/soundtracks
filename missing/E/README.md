@@ -3527,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Life | 339749 | [339749-endless-life.json](./339749-endless-life.json) |
 | Endless Loop Complete | 52949 | [52949-endless-loop-complete.json](./52949-endless-loop-complete.json) |
 | Endless Love | 152933 | [152933-endless-love.json](./152933-endless-love.json) |
+| Endless Machines | 414044 | [414044-endless-machines.json](./414044-endless-machines.json) |
 | Endless Martian Pit | 185692 | [185692-endless-martian-pit.json](./185692-endless-martian-pit.json) |
 | Endless Maze | 405037 | [405037-endless-maze.json](./405037-endless-maze.json) |
 | Endless Memories | 126265 | [126265-endless-memories.json](./126265-endless-memories.json) |
