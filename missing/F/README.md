@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable Forts! | 261883 | [261883-fable-forts.json](./261883-fable-forts.json) |
 | Fable Fortune | 19388 | [19388-fable-fortune.json](./19388-fable-fortune.json) |
 | Fable Grove | 309476 | [309476-fable-grove.json](./309476-fable-grove.json) |
+| Fable Heroes | 19906 | [19906-fable-heroes.json](./19906-fable-heroes.json) |
 | Fable II Bonus Game Content | 289012 | [289012-fable-ii-bonus-game-content.json](./289012-fable-ii-bonus-game-content.json) |
 | Fable II: Game of the Year Edition | 47477 | [47477-fable-ii-game-of-the-year-edition.json](./47477-fable-ii-game-of-the-year-edition.json) |
 | Fable II: Limited Collector's Edition | 47415 | [47415-fable-ii-limited-collectors-edition.json](./47415-fable-ii-limited-collectors-edition.json) |
@@ -1006,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Legion: Rise to Glory | 78128 | [78128-fallen-legion-rise-to-glory.json](./78128-fallen-legion-rise-to-glory.json) |
 | Fallen Legion: Rise to Glory - Digital Deluxe Edition | 227176 | [227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json](./227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json) |
 | Fallen Legion: Rise to Glory / Fallen Legion Revenants - Deluxe Edition | 197611 | [197611-fallen-legion-rise-to-glory-fallen-legion-revenants-deluxe-edition.json](./197611-fallen-legion-rise-to-glory-fallen-legion-revenants-deluxe-edition.json) |
+| Fallen Legion: Sins of an Empire | 19617 | [19617-fallen-legion-sins-of-an-empire.json](./19617-fallen-legion-sins-of-an-empire.json) |
 | Fallen Lights | 310695 | [310695-fallen-lights.json](./310695-fallen-lights.json) |
 | Fallen London | 11285 | [11285-fallen-london.json](./11285-fallen-london.json) |
 | Fallen London: A Columbidaean Commotion | 217802 | [217802-fallen-london-a-columbidaean-commotion.json](./217802-fallen-london-a-columbidaean-commotion.json) |
@@ -3088,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Stay Night: Réalta Nua | 146062 | [146062-fate-stay-night-realta-nua.json](./146062-fate-stay-night-realta-nua.json) |
 | Fate/Stay Night: Réalta Nua - Fate | 47067 | [47067-fate-stay-night-realta-nua-fate.json](./47067-fate-stay-night-realta-nua-fate.json) |
 | Fate/Stay Night: Réalta Nua - Heaven's Feel | 47066 | [47066-fate-stay-night-realta-nua-heavens-feel.json](./47066-fate-stay-night-realta-nua-heavens-feel.json) |
+| Fate/Stay Night: Réalta Nua - Unlimited Blade Works | 24329 | [24329-fate-stay-night-realta-nua-unlimited-blade-works.json](./24329-fate-stay-night-realta-nua-unlimited-blade-works.json) |
 | Fate/tiger colosseum | 12331 | [12331-fate-tiger-colosseum.json](./12331-fate-tiger-colosseum.json) |
 | Fate/tiger colosseum Upper | 12332 | [12332-fate-tiger-colosseum-upper.json](./12332-fate-tiger-colosseum-upper.json) |
 | Fate/unlimited codes | 12381 | [12381-fate-unlimited-codes.json](./12381-fate-unlimited-codes.json) |
@@ -5571,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Path | 289818 | [289818-fire-path.json](./289818-fire-path.json) |
 | Fire Pit: Throw Things Into the Fire | 389688 | [389688-fire-pit-throw-things-into-the-fire.json](./389688-fire-pit-throw-things-into-the-fire.json) |
 | Fire Power | 110821 | [110821-fire-power.json](./110821-fire-power.json) |
+| Fire Power | 54655 | [54655-fire-power.json](./54655-fire-power.json) |
 | Fire Pro Joshi: All Star Dream Slam | 42614 | [42614-fire-pro-joshi-all-star-dream-slam.json](./42614-fire-pro-joshi-all-star-dream-slam.json) |
 | Fire Pro Wrestling | 6407 | [6407-fire-pro-wrestling.json](./6407-fire-pro-wrestling.json) |
 | Fire Pro Wrestling 2 | 6408 | [6408-fire-pro-wrestling-2.json](./6408-fire-pro-wrestling-2.json) |
@@ -7616,6 +7620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor is Lava | 207520 | [207520-floor-is-lava.json](./207520-floor-is-lava.json) |
 | Floor is Water | 193402 | [193402-floor-is-water.json](./193402-floor-is-water.json) |
 | Floor is...What!? | 189135 | [189135-floor-is-what.json](./189135-floor-is-what.json) |
+| Floor Kids | 55196 | [55196-floor-kids.json](./55196-floor-kids.json) |
 | Floor Observer | 284437 | [284437-floor-observer.json](./284437-floor-observer.json) |
 | Floor Plan 2 | 145348 | [145348-floor-plan-2.json](./145348-floor-plan-2.json) |
 | Floor Plan 2: Backside Story | 253180 | [253180-floor-plan-2-backside-story.json](./253180-floor-plan-2-backside-story.json) |
