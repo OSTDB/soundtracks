@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR: The Game 2013 | 21630 | [21630-nascar-the-game-2013.json](./21630-nascar-the-game-2013.json) |
 | Nascence | 129649 | [129649-nascence.json](./129649-nascence.json) |
 | Nascent Prophecy | 183754 | [183754-nascent-prophecy.json](./183754-nascent-prophecy.json) |
+| Nascor Descent | 424592 | [424592-nascor-descent.json](./424592-nascor-descent.json) |
 | Naser: Son of Man | 138240 | [138240-naser-son-of-man.json](./138240-naser-son-of-man.json) |
 | Nash Racing 2: Muscle cars | 68598 | [68598-nash-racing-2-muscle-cars.json](./68598-nash-racing-2-muscle-cars.json) |
 | Nash Racing 3: Drifter | 212044 | [212044-nash-racing-3-drifter.json](./212044-nash-racing-3-drifter.json) |
@@ -2262,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Blood | 223443 | [223443-neon-blood.json](./223443-neon-blood.json) |
 | Neon Blood: Limited Edition | 323889 | [323889-neon-blood-limited-edition.json](./323889-neon-blood-limited-edition.json) |
 | Neon Boost | 117682 | [117682-neon-boost.json](./117682-neon-boost.json) |
+| Neon Breaker: Endless Arcade | 424615 | [424615-neon-breaker-endless-arcade.json](./424615-neon-breaker-endless-arcade.json) |
 | Neon Brood | 99599 | [99599-neon-brood.json](./99599-neon-brood.json) |
 | Neon Cat Tickler | 116792 | [116792-neon-cat-tickler.json](./116792-neon-cat-tickler.json) |
 | Neon Caves | 116193 | [116193-neon-caves.json](./116193-neon-caves.json) |
