@@ -3536,6 +3536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive Paradise | 1395 | [1395-dead-or-alive-paradise.json](./1395-dead-or-alive-paradise.json) |
 | Dead or Alive Ultimate | 318500 | [318500-dead-or-alive-ultimate.json](./318500-dead-or-alive-ultimate.json) |
 | Dead or Alive Xtreme 3 Fortune: Collector's Edition | 166233 | [166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json](./166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json) |
+| Dead or Alive Xtreme 3: Fortune | 24525 | [24525-dead-or-alive-xtreme-3-fortune.json](./24525-dead-or-alive-xtreme-3-fortune.json) |
 | Dead or Alive Xtreme 3: Fortune - VR Paradise | 26930 | [26930-dead-or-alive-xtreme-3-fortune-vr-paradise.json](./26930-dead-or-alive-xtreme-3-fortune-vr-paradise.json) |
 | Dead or Alive Xtreme 3: Saikyou Package | 167033 | [167033-dead-or-alive-xtreme-3-saikyou-package.json](./167033-dead-or-alive-xtreme-3-saikyou-package.json) |
 | Dead or Alive Xtreme 3: Scarlet - Collector's Edition | 136672 | [136672-dead-or-alive-xtreme-3-scarlet-collectors-edition.json](./136672-dead-or-alive-xtreme-3-scarlet-collectors-edition.json) |
@@ -7710,6 +7711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DEX : Speed Run - Level Maker - World Records | 380430 | [380430-dex-speed-run-level-maker-world-records.json](./380430-dex-speed-run-level-maker-world-records.json) |
 | Dex & Akane | 315824 | [315824-dex-and-akane.json](./315824-dex-and-akane.json) |
 | Dex Survival | 168603 | [168603-dex-survival.json](./168603-dex-survival.json) |
+| Dexed | 24932 | [24932-dexed.json](./24932-dexed.json) |
 | Dexfusal | 415056 | [415056-dexfusal.json](./415056-dexfusal.json) |
 | Dexlinhale | 125963 | [125963-dexlinhale.json](./125963-dexlinhale.json) |
 | Dexodonex | 30631 | [30631-dexodonex.json](./30631-dexodonex.json) |
@@ -9716,6 +9718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Magical Dice | 55158 | [55158-disney-magical-dice.json](./55158-disney-magical-dice.json) |
 | Disney Magical Dice: The Enchanted Board Game | 98240 | [98240-disney-magical-dice-the-enchanted-board-game.json](./98240-disney-magical-dice-the-enchanted-board-game.json) |
 | Disney Magical World | 6756 | [6756-disney-magical-world.json](./6756-disney-magical-world.json) |
+| Disney Magical World 2 | 24952 | [24952-disney-magical-world-2.json](./24952-disney-magical-world-2.json) |
 | Disney Magical World 2: Enchanted Edition | 172428 | [172428-disney-magical-world-2-enchanted-edition.json](./172428-disney-magical-world-2-enchanted-edition.json) |
 | Disney Mickey's Typing Adventure | 35796 | [35796-disney-mickeys-typing-adventure.json](./35796-disney-mickeys-typing-adventure.json) |
 | Disney Miraness Fitness | 366901 | [366901-disney-miraness-fitness.json](./366901-disney-miraness-fitness.json) |
@@ -11646,6 +11649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Not Live | 259508 | [259508-dont-not-live.json](./259508-dont-not-live.json) |
 | Don't Notice Me | 105196 | [105196-dont-notice-me.json](./105196-dont-notice-me.json) |
 | Don’t Open | 398421 | [398421-don-t-open.json](./398421-don-t-open.json) |
+| Don't open the doors! | 25789 | [25789-dont-open-the-doors.json](./25789-dont-open-the-doors.json) |
 | Don't Open This Book | 336524 | [336524-dont-open-this-book.json](./336524-dont-open-this-book.json) |
 | Don't Panic | 13603 | [13603-dont-panic.json](./13603-dont-panic.json) |
 | Don't Panic | 273500 | [273500-dont-panic.json](./273500-dont-panic.json) |
