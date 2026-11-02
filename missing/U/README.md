@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UMS: The Universal Military Simulator - The American Civil War | 72459 | [72459-ums-the-universal-military-simulator-the-american-civil-war.json](./72459-ums-the-universal-military-simulator-the-american-civil-war.json) |
 | UMS: The Universal Military Simulator - Vietnam | 72460 | [72460-ums-the-universal-military-simulator-vietnam.json](./72460-ums-the-universal-military-simulator-vietnam.json) |
 | Umurangi Generation: Macro | 139015 | [139015-umurangi-generation-macro.json](./139015-umurangi-generation-macro.json) |
+| Umurangi Generation: Special Edition | 151766 | [151766-umurangi-generation-special-edition.json](./151766-umurangi-generation-special-edition.json) |
 | Un indien dans la ville | 117973 | [117973-un-indien-dans-la-ville.json](./117973-un-indien-dans-la-ville.json) |
 | Un juego de huevos | 81390 | [81390-un-juego-de-huevos.json](./81390-un-juego-de-huevos.json) |
 | Un Pas Fragile | 120003 | [120003-un-pas-fragile.json](./120003-un-pas-fragile.json) |
@@ -2938,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upgrade VR | 192550 | [192550-upgrade-vr.json](./192550-upgrade-vr.json) |
 | Upgraded | 338582 | [338582-upgraded.json](./338582-upgraded.json) |
 | Upgrades & Enemies | 362271 | [362271-upgrades-and-enemies.json](./362271-upgrades-and-enemies.json) |
+| UpGun | 152406 | [152406-upgun.json](./152406-upgun.json) |
 | Uph! | 157123 | [157123-uph.json](./157123-uph.json) |
 | Upheaval | 228064 | [228064-upheaval.json](./228064-upheaval.json) |
 | Upheaveal | 216994 | [216994-upheaveal.json](./216994-upheaveal.json) |
