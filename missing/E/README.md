@@ -3452,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Crawler | 149310 | [149310-endless-crawler.json](./149310-endless-crawler.json) |
 | Endless Crusade | 99015 | [99015-endless-crusade.json](./99015-endless-crusade.json) |
 | Endless Dark | 236912 | [236912-endless-dark.json](./236912-endless-dark.json) |
+| Endless Dark Loot | 420311 | [420311-endless-dark-loot.json](./420311-endless-dark-loot.json) |
 | Endless Days | 240077 | [240077-endless-days.json](./240077-endless-days.json) |
 | Endless Days II | 252538 | [252538-endless-days-ii.json](./252538-endless-days-ii.json) |
 | Endless Dead | 35407 | [35407-endless-dead.json](./35407-endless-dead.json) |
@@ -7167,6 +7168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Lab Expert Level | 390493 | [390493-exit-lab-expert-level.json](./390493-exit-lab-expert-level.json) |
 | Exit Lab Intermediate Level | 390492 | [390492-exit-lab-intermediate-level.json](./390492-exit-lab-intermediate-level.json) |
 | Exit Limbo: Opening | 120725 | [120725-exit-limbo-opening.json](./120725-exit-limbo-opening.json) |
+| Exit Liquidity | 420341 | [420341-exit-liquidity.json](./420341-exit-liquidity.json) |
 | Exit Loops: Street 001 | 343058 | [343058-exit-loops-street-001.json](./343058-exit-loops-street-001.json) |
 | Exit Mask | 183354 | [183354-exit-mask.json](./183354-exit-mask.json) |
 | Exit of Truth! 40 Masterpiece Quiz | 386189 | [386189-exit-of-truth-40-masterpiece-quiz.json](./386189-exit-of-truth-40-masterpiece-quiz.json) |
