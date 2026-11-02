@@ -1834,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nehonobasa | 306676 | [306676-nehonobasa.json](./306676-nehonobasa.json) |
 | Nehrim: At Fate's Edge | 114561 | [114561-nehrim-at-fates-edge.json](./114561-nehrim-at-fates-edge.json) |
 | Neidfyre | 382254 | [382254-neidfyre.json](./382254-neidfyre.json) |
+| Neighbor | 101086 | [101086-neighbor.json](./101086-neighbor.json) |
 | Neighbor | 141557 | [141557-neighbor.json](./141557-neighbor.json) |
 | Neighbor | 144366 | [144366-neighbor.json](./144366-neighbor.json) |
 | Neighbor | 181842 | [181842-neighbor.json](./181842-neighbor.json) |
@@ -3234,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New World: The Ideal World | 335762 | [335762-new-world-the-ideal-world.json](./335762-new-world-the-ideal-world.json) |
 | New World: The Tupis | 75603 | [75603-new-world-the-tupis.json](./75603-new-world-the-tupis.json) |
 | New XCommander | 337758 | [337758-new-xcommander.json](./337758-new-xcommander.json) |
+| New Yahtzee: With Buddies Dice Game | 100955 | [100955-new-yahtzee-with-buddies-dice-game.json](./100955-new-yahtzee-with-buddies-dice-game.json) |
 | New Yankee 6: In Pharaoh's Court | 117096 | [117096-new-yankee-6-in-pharaohs-court.json](./117096-new-yankee-6-in-pharaohs-court.json) |
 | New Yankee 7: Deer Hunters | 117426 | [117426-new-yankee-7-deer-hunters.json](./117426-new-yankee-7-deer-hunters.json) |
 | New Yankee 8: Journey of Odysseus | 132546 | [132546-new-yankee-8-journey-of-odysseus.json](./132546-new-yankee-8-journey-of-odysseus.json) |
