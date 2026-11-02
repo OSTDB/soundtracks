@@ -5151,6 +5151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World Town | 384700 | [384700-hentai-world-town.json](./384700-hentai-world-town.json) |
 | Hentai World West | 369998 | [369998-hentai-world-west.json](./369998-hentai-world-west.json) |
 | Hentai World Winter | 340464 | [340464-hentai-world-winter.json](./340464-hentai-world-winter.json) |
+| Hentai World: Chiyo | 403405 | [403405-hentai-world-chiyo.json](./403405-hentai-world-chiyo.json) |
 | Hentai World: Complete + | 324453 | [324453-hentai-world-complete.json](./324453-hentai-world-complete.json) |
 | Hentai World: Complete Edition | 262327 | [262327-hentai-world-complete-edition.json](./262327-hentai-world-complete-edition.json) |
 | Hentai World: Definitive Edition | 259578 | [259578-hentai-world-definitive-edition.json](./259578-hentai-world-definitive-edition.json) |
