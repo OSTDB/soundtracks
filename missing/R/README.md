@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raceborn | 311638 | [311638-raceborn.json](./311638-raceborn.json) |
 | Racecar Bed | 216943 | [216943-racecar-bed.json](./216943-racecar-bed.json) |
 | Racecar Crashers | 391835 | [391835-racecar-crashers.json](./391835-racecar-crashers.json) |
+| Racecar.io | 31020 | [31020-racecar-io.json](./31020-racecar-io.json) |
 | Racecraft | 18188 | [18188-racecraft.json](./18188-racecraft.json) |
 | RaceCraft | 238861 | [238861-racecraft.json](./238861-racecraft.json) |
 | Raceland | 81906 | [81906-raceland.json](./81906-raceland.json) |
@@ -4622,6 +4623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remain 3 | 260855 | [260855-remain-3.json](./260855-remain-3.json) |
 | Remain At Your Desk | 401513 | [401513-remain-at-your-desk.json](./401513-remain-at-your-desk.json) |
 | Remain on Earth | 316135 | [316135-remain-on-earth.json](./316135-remain-on-earth.json) |
+| Remaining in a Dream | 30950 | [30950-remaining-in-a-dream.json](./30950-remaining-in-a-dream.json) |
 | Remains of Yith | 340007 | [340007-remains-of-yith.json](./340007-remains-of-yith.json) |
 | Remains: Echoes of Strength | 391127 | [391127-remains-echoes-of-strength.json](./391127-remains-echoes-of-strength.json) |
 | Remake Lover | 403194 | [403194-remake-lover.json](./403194-remake-lover.json) |
@@ -11810,6 +11812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runes Saga: Puzzle Adventure | 122208 | [122208-runes-saga-puzzle-adventure.json](./122208-runes-saga-puzzle-adventure.json) |
 | Runes: Hidden Objects Puzzle Game | 312686 | [312686-runes-hidden-objects-puzzle-game.json](./312686-runes-hidden-objects-puzzle-game.json) |
 | Runes: The Forgotten Path | 33172 | [33172-runes-the-forgotten-path.json](./33172-runes-the-forgotten-path.json) |
+| RuneSage | 30935 | [30935-runesage.json](./30935-runesage.json) |
 | RuneScape | 5611 | [5611-runescape.json](./5611-runescape.json) |
 | RuneScape 2 | 362749 | [362749-runescape-2.json](./362749-runescape-2.json) |
 | RuneScape Classic | 138173 | [138173-runescape-classic.json](./138173-runescape-classic.json) |
