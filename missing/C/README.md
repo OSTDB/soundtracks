@@ -13430,7 +13430,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking City: Summer Party | 187892 | [187892-cooking-city-summer-party.json](./187892-cooking-city-summer-party.json) |
 | Cooking Clash | 388150 | [388150-cooking-clash.json](./388150-cooking-clash.json) |
 | Cooking Coach | 69128 | [69128-cooking-coach.json](./69128-cooking-coach.json) |
-| Cooking Companions | 132788 | [132788-cooking-companions.json](./132788-cooking-companions.json) |
 | Cooking Companions: Appetizer Edition | 139141 | [139141-cooking-companions-appetizer-edition.json](./139141-cooking-companions-appetizer-edition.json) |
 | Cooking Craze | 88770 | [88770-cooking-craze.json](./88770-cooking-craze.json) |
 | Cooking Craze: Starter Pack | 295118 | [295118-cooking-craze-starter-pack.json](./295118-cooking-craze-starter-pack.json) |
