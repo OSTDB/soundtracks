@@ -11981,6 +11981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skygard Arena | 255650 | [255650-skygard-arena.json](./255650-skygard-arena.json) |
 | Skygate Zero | 414821 | [414821-skygate-zero.json](./414821-skygate-zero.json) |
 | Skygerfall | 316726 | [316726-skygerfall.json](./316726-skygerfall.json) |
+| Skygrid Courier | 425221 | [425221-skygrid-courier.json](./425221-skygrid-courier.json) |
 | Skyguard | 367385 | [367385-skyguard.json](./367385-skyguard.json) |
 | Skyguard 0: Air Arcade | 259097 | [259097-skyguard-0-air-arcade.json](./259097-skyguard-0-air-arcade.json) |
 | SkyGunner | 43615 | [43615-skygunner.json](./43615-skygunner.json) |
@@ -18358,6 +18359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
