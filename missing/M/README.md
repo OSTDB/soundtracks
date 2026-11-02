@@ -4426,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Super Heroes vs. Street Fighter | 8245 | [8245-marvel-super-heroes-vs-street-fighter.json](./8245-marvel-super-heroes-vs-street-fighter.json) |
 | Marvel Super Heroes: War Of The Gems | 271768 | [271768-marvel-super-heroes-war-of-the-gems.json](./271768-marvel-super-heroes-war-of-the-gems.json) |
 | Marvel Super-Heroes | 290325 | [290325-marvel-super-heroes.json](./290325-marvel-super-heroes.json) |
+| Marvel Tokon: Fighting Souls - Iron Man Classic Costume | 414687 | [414687-marvel-tokon-fighting-souls-iron-man-classic-costume.json](./414687-marvel-tokon-fighting-souls-iron-man-classic-costume.json) |
 | Marvel Tokon: Fighting Souls - Year 1 Character and Stage Pass | 411741 | [411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json](./411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json) |
 | Marvel Tokon: Fighting Souls - Year 1 DLC Character: Phoenix Cyclops | 411743 | [411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json](./411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json) |
 | Marvel Trading Card Game | 21955 | [21955-marvel-trading-card-game.json](./21955-marvel-trading-card-game.json) |
@@ -14393,6 +14394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monochromatic Aberration | 417673 | [417673-monochromatic-aberration.json](./417673-monochromatic-aberration.json) |
 | Monochrome | 166291 | [166291-monochrome.json](./166291-monochrome.json) |
 | Monochrome Ace | 177198 | [177198-monochrome-ace.json](./177198-monochrome-ace.json) |
+| Monochrome Angel | 414717 | [414717-monochrome-angel.json](./414717-monochrome-angel.json) |
 | Monochrome Blues | 123993 | [123993-monochrome-blues.json](./123993-monochrome-blues.json) |
 | Monochrome Boo & Baby Boo: Kururin Boo | 273419 | [273419-monochrome-boo-and-baby-boo-kururin-boo.json](./273419-monochrome-boo-and-baby-boo-kururin-boo.json) |
 | Monochrome Echoes: Black | 410318 | [410318-monochrome-echoes-black.json](./410318-monochrome-echoes-black.json) |
