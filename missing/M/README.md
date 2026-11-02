@@ -5550,6 +5550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -11448,6 +11449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Doctor Who Skin Pack Volume 2 | 254876 | [254876-minecraft-doctor-who-skin-pack-volume-2.json](./254876-minecraft-doctor-who-skin-pack-volume-2.json) |
 | Minecraft: Dragonborn Mash-up | 233961 | [233961-minecraft-dragonborn-mash-up.json](./233961-minecraft-dragonborn-mash-up.json) |
 | Minecraft: DuckTales | 254079 | [254079-minecraft-ducktales.json](./254079-minecraft-ducktales.json) |
+| Minecraft: Dungeons & Dragons | 251497 | [251497-minecraft-dungeons-and-dragons.json](./251497-minecraft-dungeons-and-dragons.json) |
 | Minecraft: Echo Crystal | 343904 | [343904-minecraft-echo-crystal.json](./343904-minecraft-echo-crystal.json) |
 | Minecraft: Egyptian Mythology Mash-up | 237331 | [237331-minecraft-egyptian-mythology-mash-up.json](./237331-minecraft-egyptian-mythology-mash-up.json) |
 | Minecraft: Essentials | 327115 | [327115-minecraft-essentials.json](./327115-minecraft-essentials.json) |
