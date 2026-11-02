@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable Rush | 52283 | [52283-fable-rush.json](./52283-fable-rush.json) |
 | Fable: 20th Anniversary Demake | 342668 | [342668-fable-20th-anniversary-demake.json](./342668-fable-20th-anniversary-demake.json) |
 | Fable: Coin Golf | 92131 | [92131-fable-coin-golf.json](./92131-fable-coin-golf.json) |
+| Fable: Order of the Hero | 405262 | [405262-fable-order-of-the-hero.json](./405262-fable-order-of-the-hero.json) |
 | Fable: Premium Edition | 407692 | [407692-fable-premium-edition.json](./407692-fable-premium-edition.json) |
 | Fable: The Lost Chapters | 694 | [694-fable-the-lost-chapters.json](./694-fable-the-lost-chapters.json) |
 | Fableborne | 379584 | [379584-fableborne.json](./379584-fableborne.json) |
@@ -1334,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | False Dichotomy | 149824 | [149824-false-dichotomy.json](./149824-false-dichotomy.json) |
 | False Echo | 398306 | [398306-false-echo.json](./398306-false-echo.json) |
 | False Flag | 401805 | [401805-false-flag.json](./401805-false-flag.json) |
+| False Frights | 405299 | [405299-false-frights.json](./405299-false-frights.json) |
 | False Front | 97920 | [97920-false-front.json](./97920-false-front.json) |
 | False Fruit | 399201 | [399201-false-fruit.json](./399201-false-fruit.json) |
 | False God | 399172 | [399172-false-god.json](./399172-false-god.json) |
@@ -3700,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fencing Champ | 247044 | [247044-fencing-champ.json](./247044-fencing-champ.json) |
 | Fencing Girl | 186863 | [186863-fencing-girl.json](./186863-fencing-girl.json) |
 | Fency Krabby | 185146 | [185146-fency-krabby.json](./185146-fency-krabby.json) |
+| Fendershot | 405282 | [405282-fendershot.json](./405282-fendershot.json) |
 | Fenestra | 405641 | [405641-fenestra.json](./405641-fenestra.json) |
 | Fenestra: My Focus, Her Future | 415956 | [415956-fenestra-my-focus-her-future.json](./415956-fenestra-my-focus-her-future.json) |
 | Feng Qi Chang'an: Yu Gu Ren | 271674 | [271674-feng-qi-changan-yu-gu-ren.json](./271674-feng-qi-changan-yu-gu-ren.json) |
