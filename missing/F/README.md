@@ -8700,6 +8700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Mini Stars | 347322 | [347322-football-mini-stars.json](./347322-football-mini-stars.json) |
 | Football Mogul | 94600 | [94600-football-mogul.json](./94600-football-mogul.json) |
 | Football Mogul 15 | 31694 | [31694-football-mogul-15.json](./31694-football-mogul-15.json) |
+| Football Mogul 18 | 59259 | [59259-football-mogul-18.json](./59259-football-mogul-18.json) |
 | Football Mogul 2007 | 209466 | [209466-football-mogul-2007.json](./209466-football-mogul-2007.json) |
 | Football Mogul 2014 | 35185 | [35185-football-mogul-2014.json](./35185-football-mogul-2014.json) |
 | Football on the Magnavox Odyssey | 131477 | [131477-football-on-the-magnavox-odyssey.json](./131477-football-on-the-magnavox-odyssey.json) |
