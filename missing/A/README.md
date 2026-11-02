@@ -3569,6 +3569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adversary Tower | 257398 | [257398-adversary-tower.json](./257398-adversary-tower.json) |
 | Adverse Effects | 258882 | [258882-adverse-effects.json](./258882-adverse-effects.json) |
 | Adversity Andy | 178302 | [178302-adversity-andy.json](./178302-adversity-andy.json) |
+| AdvertCity | 35360 | [35360-advertcity.json](./35360-advertcity.json) |
 | Advertising Agency | 134377 | [134377-advertising-agency.json](./134377-advertising-agency.json) |
 | Advise the King | 229941 | [229941-advise-the-king.json](./229941-advise-the-king.json) |
 | Advisor: Elderly Paradigm | 383081 | [383081-advisor-elderly-paradigm.json](./383081-advisor-elderly-paradigm.json) |
@@ -5637,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Al Capone | 421189 | [421189-al-capone.json](./421189-al-capone.json) |
 | Al Crepuscolo VR | 227677 | [227677-al-crepuscolo-vr.json](./227677-al-crepuscolo-vr.json) |
 | Al Emmo and the Lost Dutchman's Mine | 17330 | [17330-al-emmo-and-the-lost-dutchmans-mine.json](./17330-al-emmo-and-the-lost-dutchmans-mine.json) |
+| Al Emmo's Postcards from Anozira | 35123 | [35123-al-emmos-postcards-from-anozira.json](./35123-al-emmos-postcards-from-anozira.json) |
 | Al Fine | 30883 | [30883-al-fine.json](./30883-al-fine.json) |
 | Al Gurbish in... Nick it & Run!!! | 316060 | [316060-al-gurbish-in-nick-it-and-run.json](./316060-al-gurbish-in-nick-it-and-run.json) |
 | Al Qaeda Hunting 3D | 370846 | [370846-al-qaeda-hunting-3d.json](./370846-al-qaeda-hunting-3d.json) |
@@ -6443,6 +6445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Resurrection | 44995 | [44995-alien-resurrection.json](./44995-alien-resurrection.json) |
 | Alien Revival | 105007 | [105007-alien-revival.json](./105007-alien-revival.json) |
 | Alien Robot Monsters | 34724 | [34724-alien-robot-monsters.json](./34724-alien-robot-monsters.json) |
+| Alien Run | 32480 | [32480-alien-run.json](./32480-alien-run.json) |
 | Alien Rush | 376851 | [376851-alien-rush.json](./376851-alien-rush.json) |
 | Alien Sanctuary | 308362 | [308362-alien-sanctuary.json](./308362-alien-sanctuary.json) |
 | Alien Scumbags | 124627 | [124627-alien-scumbags.json](./124627-alien-scumbags.json) |
@@ -7478,6 +7481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always Sometimes Monsters | 7289 | [7289-always-sometimes-monsters.json](./7289-always-sometimes-monsters.json) |
 | Always Sunset | 413736 | [413736-always-sunset.json](./413736-always-sunset.json) |
 | Always Surrender | 283401 | [283401-always-surrender.json](./283401-always-surrender.json) |
+| Always the Same Blue Sky... | 35477 | [35477-always-the-same-blue-sky.json](./35477-always-the-same-blue-sky.json) |
 | Always Together | 393647 | [393647-always-together.json](./393647-always-together.json) |
 | Alys vs. the Phantom Feline Foe | 314370 | [314370-alys-vs-the-phantom-feline-foe.json](./314370-alys-vs-the-phantom-feline-foe.json) |
 | Alyssa | 271659 | [271659-alyssa.json](./271659-alyssa.json) |
@@ -10608,6 +10612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment 327 | 109396 | [109396-apartment-327.json](./109396-apartment-327.json) |
 | Apartment 3301 | 109295 | [109295-apartment-3301.json](./109295-apartment-3301.json) |
 | Apartment 606 | 317710 | [317710-apartment-606.json](./317710-apartment-606.json) |
+| Apartment 666 | 35083 | [35083-apartment-666.json](./35083-apartment-666.json) |
 | Apartment Complex | 362869 | [362869-apartment-complex.json](./362869-apartment-complex.json) |
 | Apartment Dream | 332462 | [332462-apartment-dream.json](./332462-apartment-dream.json) |
 | Apartment Filled With Cats | 333868 | [333868-apartment-filled-with-cats.json](./333868-apartment-filled-with-cats.json) |
