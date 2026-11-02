@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Mega Tunnel Battle: Chomp Champs - Lunar Animals Pac | 300927 | [300927-pac-man-mega-tunnel-battle-chomp-champs-lunar-animals-pac.json](./300927-pac-man-mega-tunnel-battle-chomp-champs-lunar-animals-pac.json) |
 | Pac-Man Mega Tunnel Battle: Chomp Champs - Namco Pals Pac | 300926 | [300926-pac-man-mega-tunnel-battle-chomp-champs-namco-pals-pac.json](./300926-pac-man-mega-tunnel-battle-chomp-champs-namco-pals-pac.json) |
 | Pac-Man Megamix | 322106 | [322106-pac-man-megamix.json](./322106-pac-man-megamix.json) |
+| Pac-Man Museum | 25074 | [25074-pac-man-museum.json](./25074-pac-man-museum.json) |
 | Pac-Man Museum: Ms. Pac-Man DLC | 343386 | [343386-pac-man-museum-ms-pac-man-dlc.json](./343386-pac-man-museum-ms-pac-man-dlc.json) |
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
 | Pac-Man on Nex | 421408 | [421408-pac-man-on-nex.json](./421408-pac-man-on-nex.json) |
@@ -3862,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Racers | 133238 | [133238-penny-racers.json](./133238-penny-racers.json) |
 | Penny Racers Party: Turbo-Q Speedway | 51110 | [51110-penny-racers-party-turbo-q-speedway.json](./51110-penny-racers-party-turbo-q-speedway.json) |
 | Penny RPG: Shadows of the Lost - A Blood City Tale | 149611 | [149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json](./149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json) |
+| Penny-Punching Princess | 26009 | [26009-penny-punching-princess.json](./26009-penny-punching-princess.json) |
 | Penny's Path | 161608 | [161608-pennys-path.json](./161608-pennys-path.json) |
 | Pennzoil Build-N-Race: Speed Demons | 69092 | [69092-pennzoil-build-n-race-speed-demons.json](./69092-pennzoil-build-n-race-speed-demons.json) |
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
@@ -6671,6 +6673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinedrop Vale | 358655 | [358655-pinedrop-vale.json](./358655-pinedrop-vale.json) |
 | Pineford: Part I | 302120 | [302120-pineford-part-i.json](./302120-pineford-part-i.json) |
 | Pinevale Settlements | 319053 | [319053-pinevale-settlements.json](./319053-pinevale-settlements.json) |
+| Pineview Drive | 25295 | [25295-pineview-drive.json](./25295-pineview-drive.json) |
 | Pineview Drive: Homeless | 116487 | [116487-pineview-drive-homeless.json](./116487-pineview-drive-homeless.json) |
 | Pineview Drive: Rising Storm | 234706 | [234706-pineview-drive-rising-storm.json](./234706-pineview-drive-rising-storm.json) |
 | Pinewater | 413782 | [413782-pinewater.json](./413782-pinewater.json) |
