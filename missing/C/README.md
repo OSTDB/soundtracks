@@ -10439,6 +10439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codebreaker Puzzle 1000! ENG & JAN | 147958 | [147958-codebreaker-puzzle-1000-eng-and-jan.json](./147958-codebreaker-puzzle-1000-eng-and-jan.json) |
 | Codebreakers VR | 318181 | [318181-codebreakers-vr.json](./318181-codebreakers-vr.json) |
 | Coded Arms | 21619 | [21619-coded-arms.json](./21619-coded-arms.json) |
+| Coded Arms Contagion | 21939 | [21939-coded-arms-contagion.json](./21939-coded-arms-contagion.json) |
 | Coded Arms: Assault | 137876 | [137876-coded-arms-assault.json](./137876-coded-arms-assault.json) |
 | Coded Black | 347784 | [347784-coded-black.json](./347784-coded-black.json) |
 | Coded Soul: Uketsugareshi Idea | 67801 | [67801-coded-soul-uketsugareshi-idea.json](./67801-coded-soul-uketsugareshi-idea.json) |
@@ -15822,6 +15823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures of the Night | 335391 | [335391-creatures-of-the-night.json](./335391-creatures-of-the-night.json) |
 | Creatures of War | 217338 | [217338-creatures-of-war.json](./217338-creatures-of-war.json) |
 | Creatures Playground | 11378 | [11378-creatures-playground.json](./11378-creatures-playground.json) |
+| Creatures Such as We | 22038 | [22038-creatures-such-as-we.json](./22038-creatures-such-as-we.json) |
 | Creatures: Docking Station | 155011 | [155011-creatures-docking-station.json](./155011-creatures-docking-station.json) |
 | Creatures: Docking Station - Creatures 3 | 192135 | [192135-creatures-docking-station-creatures-3.json](./192135-creatures-docking-station-creatures-3.json) |
 | Creatures: Raised in Space | 46085 | [46085-creatures-raised-in-space.json](./46085-creatures-raised-in-space.json) |
@@ -16171,6 +16173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Hotel | 121645 | [121645-crimson-hotel.json](./121645-crimson-hotel.json) |
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
 | Crimson Katana Exa Label | 365112 | [365112-crimson-katana-exa-label.json](./365112-crimson-katana-exa-label.json) |
+| Crimson Keep | 22002 | [22002-crimson-keep.json](./22002-crimson-keep.json) |
 | Crimson Keep | 230177 | [230177-crimson-keep.json](./230177-crimson-keep.json) |
 | Crimson King's | 179399 | [179399-crimson-kings.json](./179399-crimson-kings.json) |
 | Crimson Knight | 367525 | [367525-crimson-knight.json](./367525-crimson-knight.json) |
@@ -16210,6 +16213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Sword Saga: The Peloran Wars | 32183 | [32183-crimson-sword-saga-the-peloran-wars.json](./32183-crimson-sword-saga-the-peloran-wars.json) |
 | Crimson System: VɅΔ Protocol | 361073 | [361073-crimson-system-v-protocol.json](./361073-crimson-system-v-protocol.json) |
 | Crimson Tale | 334656 | [334656-crimson-tale.json](./334656-crimson-tale.json) |
+| Crimson Tears | 22300 | [22300-crimson-tears.json](./22300-crimson-tears.json) |
 | Crimson Temple | 304544 | [304544-crimson-temple.json](./304544-crimson-temple.json) |
 | Crimson Theory | 339290 | [339290-crimson-theory.json](./339290-crimson-theory.json) |
 | Crimson Thread of Fate | 318769 | [318769-crimson-thread-of-fate.json](./318769-crimson-thread-of-fate.json) |
