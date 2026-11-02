@@ -900,7 +900,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3850,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Trendaria | 75191 | [75191-battle-trendaria.json](./75191-battle-trendaria.json) |
 | Battle Tryst | 58905 | [58905-battle-tryst.json](./58905-battle-tryst.json) |
 | Battle Tycoon: Flash Hiders SFX | 38216 | [38216-battle-tycoon-flash-hiders-sfx.json](./38216-battle-tycoon-flash-hiders-sfx.json) |
+| Battle Unit Zeoth | 7775 | [7775-battle-unit-zeoth.json](./7775-battle-unit-zeoth.json) |
 | Battle Vader | 80321 | [80321-battle-vader.json](./80321-battle-vader.json) |
 | Battle Wave 2323 | 166281 | [166281-battle-wave-2323.json](./166281-battle-wave-2323.json) |
 | Battle Waves | 204809 | [204809-battle-waves.json](./204809-battle-waves.json) |
@@ -5572,6 +5572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetle.io | 240338 | [240338-beetle-io.json](./240338-beetle-io.json) |
 | Beetlebum | 204198 | [204198-beetlebum.json](./204198-beetlebum.json) |
 | Beetlejuice | 198700 | [198700-beetlejuice.json](./198700-beetlejuice.json) |
+| Beetlejuice | 7778 | [7778-beetlejuice.json](./7778-beetlejuice.json) |
 | Beetlejuice: Bad as Can | 55287 | [55287-beetlejuice-bad-as-can.json](./55287-beetlejuice-bad-as-can.json) |
 | Beetlejuice: Horrific Hijinx from the Neitherworld! | 80889 | [80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json](./80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json) |
 | Beetlenaut | 62197 | [62197-beetlenaut.json](./62197-beetlenaut.json) |
@@ -8798,6 +8799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith Master | 240253 | [240253-blacksmith-master.json](./240253-blacksmith-master.json) |
 | Blacksmith of the Sand Kingdom | 142258 | [142258-blacksmith-of-the-sand-kingdom.json](./142258-blacksmith-of-the-sand-kingdom.json) |
 | Blacksmith Shop Simulator | 344980 | [344980-blacksmith-shop-simulator.json](./344980-blacksmith-shop-simulator.json) |
+| Blacksmith Simulator | 102589 | [102589-blacksmith-simulator.json](./102589-blacksmith-simulator.json) |
 | Blacksmith Simulator | 326469 | [326469-blacksmith-simulator.json](./326469-blacksmith-simulator.json) |
 | Blacksmith Simulator | 353951 | [353951-blacksmith-simulator.json](./353951-blacksmith-simulator.json) |
 | Blacksmith Tales | 391990 | [391990-blacksmith-tales.json](./391990-blacksmith-tales.json) |
@@ -9406,6 +9408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleepfrog | 343987 | [343987-bleepfrog.json](./343987-bleepfrog.json) |
 | Bleeping Spaceships | 373673 | [373673-bleeping-spaceships.json](./373673-bleeping-spaceships.json) |
 | Bleeping Spaceships MR | 357298 | [357298-bleeping-spaceships-mr.json](./357298-bleeping-spaceships-mr.json) |
+| Blek | 8597 | [8597-blek.json](./8597-blek.json) |
 | Blemo | 389496 | [389496-blemo.json](./389496-blemo.json) |
 | Blend X Brand | 387133 | [387133-blend-x-brand.json](./387133-blend-x-brand.json) |
 | Blend_IT | 338245 | [338245-blend-it.json](./338245-blend-it.json) |
@@ -9973,6 +9976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockiverse | 125799 | [125799-blockiverse.json](./125799-blockiverse.json) |
 | Blockiverse: Camouflage | 106144 | [106144-blockiverse-camouflage.json](./106144-blockiverse-camouflage.json) |
 | BlockJump | 273822 | [273822-blockjump.json](./273822-blockjump.json) |
+| Blockland | 7591 | [7591-blockland.json](./7591-blockland.json) |
 | Blockle | 36497 | [36497-blockle.json](./36497-blockle.json) |
 | BlockLock | 167468 | [167468-blocklock.json](./167468-blocklock.json) |
 | Blocklords | 262888 | [262888-blocklords.json](./262888-blocklords.json) |
@@ -12299,6 +12303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomer Slayers | 193587 | [193587-boomer-slayers.json](./193587-boomer-slayers.json) |
 | Boomer Zombie | 211250 | [211250-boomer-zombie.json](./211250-boomer-zombie.json) |
 | Boomer: Beyond Vanilla | 260500 | [260500-boomer-beyond-vanilla.json](./260500-boomer-beyond-vanilla.json) |
+| Boomer's Adventure in Asmik World | 7797 | [7797-boomers-adventure-in-asmik-world.json](./7797-boomers-adventure-in-asmik-world.json) |
 | Boomerang | 279059 | [279059-boomerang.json](./279059-boomerang.json) |
 | Boomerang | 413199 | [413199-boomerang.json](./413199-boomerang.json) |
 | Boomerang Battles | 243593 | [243593-boomerang-battles.json](./243593-boomerang-battles.json) |
