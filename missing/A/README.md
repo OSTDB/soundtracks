@@ -7646,6 +7646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazin' George 2: Digital Deluxe | 212279 | [212279-amazin-george-2-digital-deluxe.json](./212279-amazin-george-2-digital-deluxe.json) |
 | Amazin' Lumo | 207895 | [207895-amazin-lumo.json](./207895-amazin-lumo.json) |
 | Amazin' Mage | 270867 | [270867-amazin-mage.json](./270867-amazin-mage.json) |
+| Amazing Adventures Around the World | 15711 | [15711-amazing-adventures-around-the-world.json](./15711-amazing-adventures-around-the-world.json) |
 | Amazing Adventures Riddle of the Two Knights | 52584 | [52584-amazing-adventures-riddle-of-the-two-knights.json](./52584-amazing-adventures-riddle-of-the-two-knights.json) |
 | Amazing Adventures: The Caribbean Secret | 20436 | [20436-amazing-adventures-the-caribbean-secret.json](./20436-amazing-adventures-the-caribbean-secret.json) |
 | Amazing Adventures: The Forgotten Dynasty | 61675 | [61675-amazing-adventures-the-forgotten-dynasty.json](./61675-amazing-adventures-the-forgotten-dynasty.json) |
@@ -12531,6 +12532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Titans | 94789 | [94789-arena-titans.json](./94789-arena-titans.json) |
 | Arena Trainer | 107036 | [107036-arena-trainer.json](./107036-arena-trainer.json) |
 | Arena Warrior | 325022 | [325022-arena-warrior.json](./325022-arena-warrior.json) |
+| Arena Wars 2 | 15289 | [15289-arena-wars-2.json](./15289-arena-wars-2.json) |
 | Arena Wars Reloaded | 73493 | [73493-arena-wars-reloaded.json](./73493-arena-wars-reloaded.json) |
 | Arena Worker | 292780 | [292780-arena-worker.json](./292780-arena-worker.json) |
 | Arena: Blood on the Sand VR | 29795 | [29795-arena-blood-on-the-sand-vr.json](./29795-arena-blood-on-the-sand-vr.json) |
@@ -12916,6 +12918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARMA: Armed Assault | 15626 | [15626-arma-armed-assault.json](./15626-arma-armed-assault.json) |
 | Arma: Cold War Assault | 9775 | [9775-arma-cold-war-assault.json](./9775-arma-cold-war-assault.json) |
 | ARMA: Gold Edition | 27937 | [27937-arma-gold-edition.json](./27937-arma-gold-edition.json) |
+| Arma: Queen's Gambit | 15870 | [15870-arma-queens-gambit.json](./15870-arma-queens-gambit.json) |
 | ArmaCulture | 148310 | [148310-armaculture.json](./148310-armaculture.json) |
 | Armada | 11914 | [11914-armada.json](./11914-armada.json) |
 | Armada | 163191 | [163191-armada.json](./163191-armada.json) |
@@ -13334,6 +13337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ars Vox Arcana | 339941 | [339941-ars-vox-arcana.json](./339941-ars-vox-arcana.json) |
 | ArsDoom | 180260 | [180260-arsdoom.json](./180260-arsdoom.json) |
 | Arsenal | 188635 | [188635-arsenal.json](./188635-arsenal.json) |
+| Arsenal of Democracy | 2009 | [2009-arsenal-of-democracy.json](./2009-arsenal-of-democracy.json) |
 | Arsenal Online | 273361 | [273361-arsenal-online.json](./273361-arsenal-online.json) |
 | Arsenal Shock | 197114 | [197114-arsenal-shock.json](./197114-arsenal-shock.json) |
 | Arsene Lupin: Once a Thief | 302922 | [302922-arsene-lupin-once-a-thief.json](./302922-arsene-lupin-once-a-thief.json) |
@@ -15265,6 +15269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Vault | 34518 | [34518-atari-vault.json](./34518-atari-vault.json) |
 | Atari Vault: 50 Game Add-On Pack | 169904 | [169904-atari-vault-50-game-add-on-pack.json](./169904-atari-vault-50-game-add-on-pack.json) |
 | Atari Video Cube | 12243 | [12243-atari-video-cube.json](./12243-atari-video-cube.json) |
+| Atari: 80 Classic Games in One! | 2641 | [2641-atari-80-classic-games-in-one.json](./2641-atari-80-classic-games-in-one.json) |
 | Atari's Freeway for MSX-BASIC 2 | 267560 | [267560-ataris-freeway-for-msx-basic-2.json](./267560-ataris-freeway-for-msx-basic-2.json) |
 | Atari's Greatest Hits | 64079 | [64079-ataris-greatest-hits.json](./64079-ataris-greatest-hits.json) |
 | AtariAge Holiday Greetings 2006: Toyshop Trouble | 72006 | [72006-atariage-holiday-greetings-2006-toyshop-trouble.json](./72006-atariage-holiday-greetings-2006-toyshop-trouble.json) |
