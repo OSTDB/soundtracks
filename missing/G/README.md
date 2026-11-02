@@ -7741,6 +7741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grass Mud Horse | 131797 | [131797-grass-mud-horse.json](./131797-grass-mud-horse.json) |
 | Grass Toucher | 373091 | [373091-grass-toucher.json](./373091-grass-toucher.json) |
 | Grassassins | 310049 | [310049-grassassins.json](./310049-grassassins.json) |
+| GrassChopper | 405840 | [405840-grasschopper.json](./405840-grasschopper.json) |
 | Grassfires of Veldstar | 183328 | [183328-grassfires-of-veldstar.json](./183328-grassfires-of-veldstar.json) |
 | GrassGames Cribbage | 88220 | [88220-grassgames-cribbage.json](./88220-grassgames-cribbage.json) |
 | GrassGames Hearts 3 | 224835 | [224835-grassgames-hearts-3.json](./224835-grassgames-hearts-3.json) |
@@ -8750,7 +8751,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Blaster | 64778 | [64778-grim-blaster.json](./64778-grim-blaster.json) |
 | Grim Borough | 297238 | [297238-grim-borough.json](./297238-grim-borough.json) |
 | Grim Chronicles: Superior Sorcery | 416700 | [416700-grim-chronicles-superior-sorcery.json](./416700-grim-chronicles-superior-sorcery.json) |
-| Grim Clicker | 123830 | [123830-grim-clicker.json](./123830-grim-clicker.json) |
 | Grim Dawn: Crucible Mode DLC | 75683 | [75683-grim-dawn-crucible-mode-dlc.json](./75683-grim-dawn-crucible-mode-dlc.json) |
 | Grim Dawn: Fangs of Asterkarn | 298931 | [298931-grim-dawn-fangs-of-asterkarn.json](./298931-grim-dawn-fangs-of-asterkarn.json) |
 | Grim Dawn: Forgotten Gods | 105041 | [105041-grim-dawn-forgotten-gods.json](./105041-grim-dawn-forgotten-gods.json) |
