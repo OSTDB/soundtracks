@@ -6574,6 +6574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deranged Rabbits | 33389 | [33389-deranged-rabbits.json](./33389-deranged-rabbits.json) |
 | Derby Baseball | 256712 | [256712-derby-baseball.json](./256712-derby-baseball.json) |
 | Derby Champion Club | 386250 | [386250-derby-champion-club.json](./386250-derby-champion-club.json) |
+| Derby Creek | 414024 | [414024-derby-creek.json](./414024-derby-creek.json) |
 | Derby Day | 356288 | [356288-derby-day.json](./356288-derby-day.json) |
 | Derby Dynasty: Horse Racing RPG | 415194 | [415194-derby-dynasty-horse-racing-rpg.json](./415194-derby-dynasty-horse-racing-rpg.json) |
 | Derby Heroines: Run, Bet, Win! | 412502 | [412502-derby-heroines-run-bet-win.json](./412502-derby-heroines-run-bet-win.json) |
@@ -13600,6 +13601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Football 26 | 375899 | [375899-draft-day-sports-pro-football-26.json](./375899-draft-day-sports-pro-football-26.json) |
 | Draft Day Sports: Pro Golf | 105388 | [105388-draft-day-sports-pro-golf.json](./105388-draft-day-sports-pro-golf.json) |
 | Draft Eleven | 425824 | [425824-draft-eleven.json](./425824-draft-eleven.json) |
+| Draft Line | 414037 | [414037-draft-line.json](./414037-draft-line.json) |
 | Draft of Darkness | 137247 | [137247-draft-of-darkness.json](./137247-draft-of-darkness.json) |
 | Draft Showdown | 417330 | [417330-draft-showdown.json](./417330-draft-showdown.json) |
 | Draft: In the Woods | 240611 | [240611-draft-in-the-woods.json](./240611-draft-in-the-woods.json) |
@@ -15945,6 +15947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone: Remote Tactical Warfare | 43173 | [43173-drone-remote-tactical-warfare.json](./43173-drone-remote-tactical-warfare.json) |
 | Droned | 207738 | [207738-droned.json](./207738-droned.json) |
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
+| Dronerush | 414065 | [414065-dronerush.json](./414065-dronerush.json) |
 | Drones | 119566 | [119566-drones.json](./119566-drones.json) |
 | Drones | 411975 | [411975-drones.json](./411975-drones.json) |
 | Drones and Ruins | 87978 | [87978-drones-and-ruins.json](./87978-drones-and-ruins.json) |
@@ -17926,6 +17929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Slayer | 149502 | [149502-dwarf-slayer.json](./149502-dwarf-slayer.json) |
 | Dwarf Swordsman | 110160 | [110160-dwarf-swordsman.json](./110160-dwarf-swordsman.json) |
 | Dwarf Tower | 24563 | [24563-dwarf-tower.json](./24563-dwarf-tower.json) |
+| Dwarf Wars | 414064 | [414064-dwarf-wars.json](./414064-dwarf-wars.json) |
 | Dwarf's Adventure | 219405 | [219405-dwarfs-adventure.json](./219405-dwarfs-adventure.json) |
 | Dwarf's Trainfort | 217475 | [217475-dwarfs-trainfort.json](./217475-dwarfs-trainfort.json) |
 | Dwarfare: All For The Forge | 369720 | [369720-dwarfare-all-for-the-forge.json](./369720-dwarfare-all-for-the-forge.json) |
