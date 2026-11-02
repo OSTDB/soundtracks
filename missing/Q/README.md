@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Tripper: Wetwash | 221680 | [221680-quantum-tripper-wetwash.json](./221680-quantum-tripper-wetwash.json) |
 | Quantum Vision Board | 216944 | [216944-quantum-vision-board.json](./216944-quantum-vision-board.json) |
 | Quantum Void | 288758 | [288758-quantum-void.json](./288758-quantum-void.json) |
+| Quantum Voxel | 425846 | [425846-quantum-voxel.json](./425846-quantum-voxel.json) |
 | Quantum Witch | 323165 | [323165-quantum-witch.json](./323165-quantum-witch.json) |
 | Quantum Wizard | 44182 | [44182-quantum-wizard.json](./44182-quantum-wizard.json) |
 | Quantum: Recharged | 257945 | [257945-quantum-recharged.json](./257945-quantum-recharged.json) |
@@ -1033,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quill > Pistol | 366240 | [366240-quill-pistol.json](./366240-quill-pistol.json) |
 | Quilly | 123495 | [123495-quilly.json](./123495-quilly.json) |
 | quilt | 366801 | [366801-quilt.json](./366801-quilt.json) |
+| Quilt | 425845 | [425845-quilt.json](./425845-quilt.json) |
 | Quin | 152813 | [152813-quin.json](./152813-quin.json) |
 | Quinb: 4 Players Reaction Game | 369891 | [369891-quinb-4-players-reaction-game.json](./369891-quinb-4-players-reaction-game.json) |
 | Quing's Quest VII: The Death of Videogames | 128593 | [128593-quings-quest-vii-the-death-of-videogames.json](./128593-quings-quest-vii-the-death-of-videogames.json) |
