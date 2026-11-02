@@ -2304,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major Title | 40363 | [40363-major-title.json](./40363-major-title.json) |
 | Major Title Tournament Leader | 40362 | [40362-major-title-tournament-leader.json](./40362-major-title-tournament-leader.json) |
 | Major's Heart | 403182 | [403182-majors-heart.json](./403182-majors-heart.json) |
+| Major\Minor: Complete Edition | 32567 | [32567-major-minor-complete-edition.json](./32567-major-minor-complete-edition.json) |
 | Majora's Mask 3D Randomizer | 288700 | [288700-majoras-mask-3d-randomizer.json](./288700-majoras-mask-3d-randomizer.json) |
 | Majora's Mask Redux | 172479 | [172479-majoras-mask-redux.json](./172479-majoras-mask-redux.json) |
 | Majorariatto Museum | 177426 | [177426-majorariatto-museum.json](./177426-majorariatto-museum.json) |
@@ -6119,6 +6120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mearth | 197875 | [197875-mearth.json](./197875-mearth.json) |
 | Mearth II | 226722 | [226722-mearth-ii.json](./226722-mearth-ii.json) |
 | Measurement Problem | 166740 | [166740-measurement-problem.json](./166740-measurement-problem.json) |
+| Measurement Problem | 31167 | [31167-measurement-problem.json](./31167-measurement-problem.json) |
 | Measuring Up | 168558 | [168558-measuring-up.json](./168558-measuring-up.json) |
 | Meat | 183755 | [183755-meat.json](./183755-meat.json) |
 | Meat | 225816 | [225816-meat.json](./225816-meat.json) |
@@ -11997,6 +11999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Tennis | 242560 | [242560-mini-tennis.json](./242560-mini-tennis.json) |
 | Mini Tennis Club | 298308 | [298308-mini-tennis-club.json](./298308-mini-tennis-club.json) |
 | Mini Tennis: Perfect Smash | 267346 | [267346-mini-tennis-perfect-smash.json](./267346-mini-tennis-perfect-smash.json) |
+| Mini Thief | 32521 | [32521-mini-thief.json](./32521-mini-thief.json) |
 | Mini Tone Puzzle | 120401 | [120401-mini-tone-puzzle.json](./120401-mini-tone-puzzle.json) |
 | Mini Toss | 323159 | [323159-mini-toss.json](./323159-mini-toss.json) |
 | Mini Trains | 123358 | [123358-mini-trains.json](./123358-mini-trains.json) |
@@ -18308,6 +18311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Thief | 191813 | [191813-music-thief.json](./191813-music-thief.json) |
 | Music vs Block: Piano Simulation Game | 102242 | [102242-music-vs-block-piano-simulation-game.json](./102242-music-vs-block-piano-simulation-game.json) |
 | Music Wars | 95967 | [95967-music-wars.json](./95967-music-wars.json) |
+| Music Wars Empire | 32563 | [32563-music-wars-empire.json](./32563-music-wars-empire.json) |
 | Music: Music Creation for the PlayStation | 131289 | [131289-music-music-creation-for-the-playstation.json](./131289-music-music-creation-for-the-playstation.json) |
 | Music=Operator | 82635 | [82635-music-operator.json](./82635-music-operator.json) |
 | Music95 | 149512 | [149512-music95.json](./149512-music95.json) |
