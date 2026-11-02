@@ -2183,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carcassonne: The Official Board Game - The River | 157564 | [157564-carcassonne-the-official-board-game-the-river.json](./157564-carcassonne-the-official-board-game-the-river.json) |
 | Carcassonne: The Official Board Game - Traders & Builders | 227359 | [227359-carcassonne-the-official-board-game-traders-and-builders.json](./227359-carcassonne-the-official-board-game-traders-and-builders.json) |
 | Carcassonne: The Official Board Game - Winter and Gingerbread Man | 171017 | [171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json](./171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json) |
+| Carcelera | 414708 | [414708-carcelera.json](./414708-carcelera.json) |
 | CarCollector | 76252 | [76252-carcollector.json](./76252-carcollector.json) |
 | Carcosa | 140554 | [140554-carcosa.json](./140554-carcosa.json) |
 | CarCrash.Tube: Car Crash Simulator | 417332 | [417332-carcrash-tube-car-crash-simulator.json](./417332-carcrash-tube-car-crash-simulator.json) |
