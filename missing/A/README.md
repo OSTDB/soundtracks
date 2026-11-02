@@ -3016,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adorable Witch 5: Lingering | 235850 | [235850-adorable-witch-5-lingering.json](./235850-adorable-witch-5-lingering.json) |
 | Adorables | 35342 | [35342-adorables.json](./35342-adorables.json) |
 | Adorate | 362874 | [362874-adorate.json](./362874-adorate.json) |
+| Adore | 117843 | [117843-adore.json](./117843-adore.json) |
 | Adore Picture Difference: Long Distance Love | 102894 | [102894-adore-picture-difference-long-distance-love.json](./102894-adore-picture-difference-long-distance-love.json) |
 | Adore Picture Difference: Long Distance Love Lite | 88560 | [88560-adore-picture-difference-long-distance-love-lite.json](./88560-adore-picture-difference-long-distance-love-lite.json) |
 | Adore Puzzle | 99711 | [99711-adore-puzzle.json](./99711-adore-puzzle.json) |
@@ -9043,6 +9044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Trilogy: Anger Management Pack | 172417 | [172417-angry-birds-trilogy-anger-management-pack.json](./172417-angry-birds-trilogy-anger-management-pack.json) |
 | Angry Birds Trilogy: Fowl Tempered Pack | 172418 | [172418-angry-birds-trilogy-fowl-tempered-pack.json](./172418-angry-birds-trilogy-fowl-tempered-pack.json) |
 | Angry Birds V Rossii | 210310 | [210310-angry-birds-v-rossii.json](./210310-angry-birds-v-rossii.json) |
+| Angry Birds VR: Isle of Pigs | 113434 | [113434-angry-birds-vr-isle-of-pigs.json](./113434-angry-birds-vr-isle-of-pigs.json) |
 | Angry Birds World Tour | 214040 | [214040-angry-birds-world-tour.json](./214040-angry-birds-world-tour.json) |
 | Angry Birds: Dangerous Railroad | 325564 | [325564-angry-birds-dangerous-railroad.json](./325564-angry-birds-dangerous-railroad.json) |
 | Angry Birds: Flock Party | 372088 | [372088-angry-birds-flock-party.json](./372088-angry-birds-flock-party.json) |
@@ -9108,6 +9110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Video Game Nerd 8-bit | 329179 | [329179-angry-video-game-nerd-8-bit.json](./329179-angry-video-game-nerd-8-bit.json) |
 | Angry Video Game Nerd Adventures | 7960 | [7960-angry-video-game-nerd-adventures.json](./7960-angry-video-game-nerd-adventures.json) |
 | Angry Video Game Nerd Adventures 2: ASSimilation | 14742 | [14742-angry-video-game-nerd-adventures-2-assimilation.json](./14742-angry-video-game-nerd-adventures-2-assimilation.json) |
+| Angry Video Game Nerd I & II Deluxe | 114146 | [114146-angry-video-game-nerd-i-and-ii-deluxe.json](./114146-angry-video-game-nerd-i-and-ii-deluxe.json) |
 | Angry VS Android | 88075 | [88075-angry-vs-android.json](./88075-angry-vs-android.json) |
 | Angry World War 2 | 234070 | [234070-angry-world-war-2.json](./234070-angry-world-war-2.json) |
 | Angry Zombies | 88844 | [88844-angry-zombies.json](./88844-angry-zombies.json) |
@@ -10020,6 +10023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Dungeon | 245210 | [245210-another-dungeon.json](./245210-another-dungeon.json) |
 | Another Dungeon Game | 217274 | [217274-another-dungeon-game.json](./217274-another-dungeon-game.json) |
 | Another Earth | 276852 | [276852-another-earth.json](./276852-another-earth.json) |
+| Another Eden | 27055 | [27055-another-eden.json](./27055-another-eden.json) |
 | Another Eye | 151613 | [151613-another-eye.json](./151613-another-eye.json) |
 | Another Farm Roguelike | 214201 | [214201-another-farm-roguelike.json](./214201-another-farm-roguelike.json) |
 | Another Farm Roguelike: Rebirth | 283914 | [283914-another-farm-roguelike-rebirth.json](./283914-another-farm-roguelike-rebirth.json) |
@@ -11318,6 +11322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Symphony | 74332 | [74332-arc-symphony.json](./74332-arc-symphony.json) |
 | Arc TCG | 290934 | [290934-arc-tcg.json](./290934-arc-tcg.json) |
 | Arc the Lad Collection | 23100 | [23100-arc-the-lad-collection.json](./23100-arc-the-lad-collection.json) |
+| Arc the Lad II | 26345 | [26345-arc-the-lad-ii.json](./26345-arc-the-lad-ii.json) |
 | Arc the Lad R | 26382 | [26382-arc-the-lad-r.json](./26382-arc-the-lad-r.json) |
 | Arc the Lad: End of Darkness | 43649 | [43649-arc-the-lad-end-of-darkness.json](./43649-arc-the-lad-end-of-darkness.json) |
 | Arc the Lad: Kijin Fukkatsu | 26373 | [26373-arc-the-lad-kijin-fukkatsu.json](./26373-arc-the-lad-kijin-fukkatsu.json) |
@@ -16469,6 +16474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AvengeXX | 118836 | [118836-avengexx.json](./118836-avengexx.json) |
 | Avenging Angel | 35309 | [35309-avenging-angel.json](./35309-avenging-angel.json) |
 | Avenging Angel Hikari Akeldama | 386973 | [386973-avenging-angel-hikari-akeldama.json](./386973-avenging-angel-hikari-akeldama.json) |
+| Avenging Spirit | 39747 | [39747-avenging-spirit.json](./39747-avenging-spirit.json) |
 | Avenging Spirit | 7762 | [7762-avenging-spirit.json](./7762-avenging-spirit.json) |
 | Avenida Fighter | 407763 | [407763-avenida-fighter.json](./407763-avenida-fighter.json) |
 | Avenir Tower | 332414 | [332414-avenir-tower.json](./332414-avenir-tower.json) |
