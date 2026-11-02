@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oik 3 | 74196 | [74196-oik-3.json](./74196-oik-3.json) |
 | Oik 3D | 139619 | [139619-oik-3d.json](./139619-oik-3d.json) |
 | Oik 4 | 104564 | [104564-oik-4.json](./104564-oik-4.json) |
+| Oik 5 | 113912 | [113912-oik-5.json](./113912-oik-5.json) |
 | Oik 5: DLC | 171626 | [171626-oik-5-dlc.json](./171626-oik-5-dlc.json) |
 | Oik Memory | 81155 | [81155-oik-memory.json](./81155-oik-memory.json) |
 | Oik Memory 3 | 114976 | [114976-oik-memory-3.json](./114976-oik-memory-3.json) |
@@ -3307,6 +3308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Sheep Defense | 55400 | [55400-operation-sheep-defense.json](./55400-operation-sheep-defense.json) |
 | Operation Siege | 235716 | [235716-operation-siege.json](./235716-operation-siege.json) |
 | Operation Smash | 58311 | [58311-operation-smash.json](./58311-operation-smash.json) |
+| Operation Sniff | 122835 | [122835-operation-sniff.json](./122835-operation-sniff.json) |
 | Operation Snowman | 112473 | [112473-operation-snowman.json](./112473-operation-snowman.json) |
 | Operation Sour Power | 346536 | [346536-operation-sour-power.json](./346536-operation-sour-power.json) |
 | Operation Space Force | 251769 | [251769-operation-space-force.json](./251769-operation-space-force.json) |
@@ -5065,6 +5067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outrunner: Neon Nights | 258371 | [258371-outrunner-neon-nights.json](./258371-outrunner-neon-nights.json) |
 | OutRunners | 39574 | [39574-outrunners.json](./39574-outrunners.json) |
 | Outsanity | 343304 | [343304-outsanity.json](./343304-outsanity.json) |
+| Outscape | 123386 | [123386-outscape.json](./123386-outscape.json) |
 | Outscore | 182529 | [182529-outscore.json](./182529-outscore.json) |
 | Outscratched | 404375 | [404375-outscratched.json](./404375-outscratched.json) |
 | Outset | 143949 | [143949-outset.json](./143949-outset.json) |
