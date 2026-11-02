@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Zunou Power!! DS | 70411 | [70411-magical-zunou-power-ds.json](./70411-magical-zunou-power-ds.json) |
 | MagicalGirl Mimi | 167397 | [167397-magicalgirl-mimi.json](./167397-magicalgirl-mimi.json) |
 | Magicalic Sky High: Soratobu Houki ni Omoi wo Nosete | 194554 | [194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json](./194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json) |
+| Magically Sorted | 423996 | [423996-magically-sorted.json](./423996-magically-sorted.json) |
 | Magicami | 150593 | [150593-magicami.json](./150593-magicami.json) |
 | MagicArchitect | 284268 | [284268-magicarchitect.json](./284268-magicarchitect.json) |
 | MagiCarnage | 211730 | [211730-magicarnage.json](./211730-magicarnage.json) |
@@ -5572,7 +5573,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6176,6 +6176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mebius Adventure | 206172 | [206172-mebius-adventure.json](./206172-mebius-adventure.json) |
 | Mebius Drive | 67842 | [67842-mebius-drive.json](./67842-mebius-drive.json) |
 | Mebula | 56264 | [56264-mebula.json](./56264-mebula.json) |
+| Mebula Legends | 423978 | [423978-mebula-legends.json](./423978-mebula-legends.json) |
 | Mec Me Loffa | 306312 | [306312-mec-me-loffa.json](./306312-mec-me-loffa.json) |
 | Mecanic | 213792 | [213792-mecanic.json](./213792-mecanic.json) |
 | Mecarobot Golf | 42498 | [42498-mecarobot-golf.json](./42498-mecarobot-golf.json) |
@@ -10565,6 +10566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midwinter | 79580 | [79580-midwinter.json](./79580-midwinter.json) |
 | Midwinter II: Flames of Freedom | 15266 | [15266-midwinter-ii-flames-of-freedom.json](./15266-midwinter-ii-flames-of-freedom.json) |
 | MidZone | 110484 | [110484-midzone.json](./110484-midzone.json) |
+| Miecze Valdgira I+II | 424000 | [424000-miecze-valdgira-i-ii.json](./424000-miecze-valdgira-i-ii.json) |
 | MiedoW | 195510 | [195510-miedow.json](./195510-miedow.json) |
 | Miegakure | 9729 | [9729-miegakure.json](./9729-miegakure.json) |
 | Miffed | 180821 | [180821-miffed.json](./180821-miffed.json) |
@@ -16563,6 +16565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto VR | 86629 | [86629-moto-vr.json](./86629-moto-vr.json) |
 | Moto Wheelie | 257469 | [257469-moto-wheelie.json](./257469-moto-wheelie.json) |
 | Moto X | 279698 | [279698-moto-x.json](./279698-moto-x.json) |
+| Moto X | 423989 | [423989-moto-x.json](./423989-moto-x.json) |
 | Moto X Challenge | 238393 | [238393-moto-x-challenge.json](./238393-moto-x-challenge.json) |
 | Moto X Maniac | 66936 | [66936-moto-x-maniac.json](./66936-moto-x-maniac.json) |
 | Moto X Simulator | 41114 | [41114-moto-x-simulator.json](./41114-moto-x-simulator.json) |
@@ -19085,6 +19088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Gambian Boyfriend | 332636 | [332636-my-gambian-boyfriend.json](./332636-my-gambian-boyfriend.json) |
 | My Game About Me: Olympic Challenge | 210674 | [210674-my-game-about-me-olympic-challenge.json](./210674-my-game-about-me-olympic-challenge.json) |
 | My Gaming Club | 197063 | [197063-my-gaming-club.json](./197063-my-gaming-club.json) |
+| My Gaming Shop | 423985 | [423985-my-gaming-shop.json](./423985-my-gaming-shop.json) |
 | My Garage | 162411 | [162411-my-garage.json](./162411-my-garage.json) |
 | My Garbage Cat Wakes Me Up At 3AM Every Day | 128556 | [128556-my-garbage-cat-wakes-me-up-at-3am-every-day.json](./128556-my-garbage-cat-wakes-me-up-at-3am-every-day.json) |
 | My Garden | 139119 | [139119-my-garden.json](./139119-my-garden.json) |
