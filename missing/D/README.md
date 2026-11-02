@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution 2ndReMix: Append Club Version Vol. 1 | 132807 | [132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json](./132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json) |
 | Dance Dance Revolution 3rdMix | 73426 | [73426-dance-dance-revolution-3rdmix.json](./73426-dance-dance-revolution-3rdmix.json) |
 | Dance Dance Revolution 4thMix | 79708 | [79708-dance-dance-revolution-4thmix.json](./79708-dance-dance-revolution-4thmix.json) |
+| Dance Dance Revolution 5thMix | 3678 | [3678-dance-dance-revolution-5thmix.json](./3678-dance-dance-revolution-5thmix.json) |
 | Dance Dance Revolution A | 58120 | [58120-dance-dance-revolution-a.json](./58120-dance-dance-revolution-a.json) |
 | Dance Dance Revolution A20 | 124446 | [124446-dance-dance-revolution-a20.json](./124446-dance-dance-revolution-a20.json) |
 | Dance Dance Revolution A20 Plus | 135550 | [135550-dance-dance-revolution-a20-plus.json](./135550-dance-dance-revolution-a20-plus.json) |
@@ -718,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution X3 VS 2ndMix | 98239 | [98239-dance-dance-revolution-x3-vs-2ndmix.json](./98239-dance-dance-revolution-x3-vs-2ndmix.json) |
 | Dance Dance Revolution: Dear Daniel | 329929 | [329929-dance-dance-revolution-dear-daniel.json](./329929-dance-dance-revolution-dear-daniel.json) |
 | Dance Dance Revolution: Disney Channel Edition | 21282 | [21282-dance-dance-revolution-disney-channel-edition.json](./21282-dance-dance-revolution-disney-channel-edition.json) |
+| Dance Dance Revolution: Disney Dancing Museum | 3467 | [3467-dance-dance-revolution-disney-dancing-museum.json](./3467-dance-dance-revolution-disney-dancing-museum.json) |
 | Dance Dance Revolution: Hello Kitty | 207264 | [207264-dance-dance-revolution-hello-kitty.json](./207264-dance-dance-revolution-hello-kitty.json) |
 | Dance Dance Revolution: Hottest Party 2 | 50719 | [50719-dance-dance-revolution-hottest-party-2.json](./50719-dance-dance-revolution-hottest-party-2.json) |
 | Dance Dance Revolution: Hottest Party 4 | 50733 | [50733-dance-dance-revolution-hottest-party-4.json](./50733-dance-dance-revolution-hottest-party-4.json) |
