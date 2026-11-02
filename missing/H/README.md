@@ -6966,6 +6966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Heat Baseball 2000 | 746 | [746-high-heat-baseball-2000.json](./746-high-heat-baseball-2000.json) |
 | High Heat Major League Baseball 2002 | 248754 | [248754-high-heat-major-league-baseball-2002.json](./248754-high-heat-major-league-baseball-2002.json) |
 | High Heat Major League Baseball 2002 | 49399 | [49399-high-heat-major-league-baseball-2002.json](./49399-high-heat-major-league-baseball-2002.json) |
+| High Heat Major League Baseball 2003 | 248753 | [248753-high-heat-major-league-baseball-2003.json](./248753-high-heat-major-league-baseball-2003.json) |
 | High Heat Major League Baseball 2003 | 6435 | [6435-high-heat-major-league-baseball-2003.json](./6435-high-heat-major-league-baseball-2003.json) |
 | High Heat Major League Baseball 2004 | 24089 | [24089-high-heat-major-league-baseball-2004.json](./24089-high-heat-major-league-baseball-2004.json) |
 | High Heels! | 241807 | [241807-high-heels.json](./241807-high-heels.json) |
