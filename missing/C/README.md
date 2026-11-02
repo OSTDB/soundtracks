@@ -1049,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campido | 111756 | [111756-campido.json](./111756-campido.json) |
 | Camping Builder | 192838 | [192838-camping-builder.json](./192838-camping-builder.json) |
 | Camping Cat Family | 219775 | [219775-camping-cat-family.json](./219775-camping-cat-family.json) |
+| Camping Keeper | 412062 | [412062-camping-keeper.json](./412062-camping-keeper.json) |
 | Camping Mama: Outdoor Adventures | 47942 | [47942-camping-mama-outdoor-adventures.json](./47942-camping-mama-outdoor-adventures.json) |
 | Camping Park Simulator | 249079 | [249079-camping-park-simulator.json](./249079-camping-park-simulator.json) |
 | Camping Resort Simulator | 423404 | [423404-camping-resort-simulator.json](./423404-camping-resort-simulator.json) |
