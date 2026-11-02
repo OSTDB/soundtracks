@@ -2701,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bart's Quest For TV | 317310 | [317310-barts-quest-for-tv.json](./317310-barts-quest-for-tv.json) |
 | Bartender Hustle | 153899 | [153899-bartender-hustle.json](./153899-bartender-hustle.json) |
 | Bartender Life Simulator | 390052 | [390052-bartender-life-simulator.json](./390052-bartender-life-simulator.json) |
+| Bartender Simulator & Fast Food Van Simulator 2026 | 413374 | [413374-bartender-simulator-and-fast-food-van-simulator-2026.json](./413374-bartender-simulator-and-fast-food-van-simulator-2026.json) |
 | Bartender VR Simulator | 74216 | [74216-bartender-vr-simulator.json](./74216-bartender-vr-simulator.json) |
 | Bartender: The Right Mix | 192098 | [192098-bartender-the-right-mix.json](./192098-bartender-the-right-mix.json) |
 | Bartenders | 244205 | [244205-bartenders.json](./244205-bartenders.json) |
@@ -5398,6 +5399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beavertale | 403519 | [403519-beavertale.json](./403519-beavertale.json) |
 | Beavis and Butt-head: Wiener Take All | 8460 | [8460-beavis-and-butt-head-wiener-take-all.json](./8460-beavis-and-butt-head-wiener-take-all.json) |
 | Beavus | 407779 | [407779-beavus.json](./407779-beavus.json) |
+| BeBalance | 412729 | [412729-bebalance.json](./412729-bebalance.json) |
 | Bebder Game: Bebder Than the Rest | 209389 | [209389-bebder-game-bebder-than-the-rest.json](./209389-bebder-game-bebder-than-the-rest.json) |
 | Bebe Miner | 416664 | [416664-bebe-miner.json](./416664-bebe-miner.json) |
 | Beberserker | 132094 | [132094-beberserker.json](./132094-beberserker.json) |
@@ -10965,6 +10967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Fire: Void of Sorrows | 223954 | [223954-blue-fire-void-of-sorrows.json](./223954-blue-fire-void-of-sorrows.json) |
 | Blue Fish and Underwater Worlds | 146275 | [146275-blue-fish-and-underwater-worlds.json](./146275-blue-fish-and-underwater-worlds.json) |
 | Blue Fish Yokohama | 212824 | [212824-blue-fish-yokohama.json](./212824-blue-fish-yokohama.json) |
+| Blue Flag Down, Guard Up | 412751 | [412751-blue-flag-down-guard-up.json](./412751-blue-flag-down-guard-up.json) |
 | Blue Flame | 142669 | [142669-blue-flame.json](./142669-blue-flame.json) |
 | Blue Flow | 245680 | [245680-blue-flow.json](./245680-blue-flow.json) |
 | Blue Flow | 380033 | [380033-blue-flow.json](./380033-blue-flow.json) |
@@ -13869,6 +13872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Ball | 166953 | [166953-brave-ball.json](./166953-brave-ball.json) |
 | Brave Battle Saga the Space Fighter | 45542 | [45542-brave-battle-saga-the-space-fighter.json](./45542-brave-battle-saga-the-space-fighter.json) |
 | Brave Battle Saga: Legend of the Magic Warrior | 45696 | [45696-brave-battle-saga-legend-of-the-magic-warrior.json](./45696-brave-battle-saga-legend-of-the-magic-warrior.json) |
+| Brave Billiards | 412726 | [412726-brave-billiards.json](./412726-brave-billiards.json) |
 | Brave Blade | 39494 | [39494-brave-blade.json](./39494-brave-blade.json) |
 | Brave Blades | 224075 | [224075-brave-blades.json](./224075-brave-blades.json) |
 | Brave Blob | 137239 | [137239-brave-blob.json](./137239-brave-blob.json) |
@@ -15574,6 +15578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter FX | 168680 | [168680-bubble-shooter-fx.json](./168680-bubble-shooter-fx.json) |
 | Bubble Shooter Mission | 102576 | [102576-bubble-shooter-mission.json](./102576-bubble-shooter-mission.json) |
 | Bubble Shooter Star | 214288 | [214288-bubble-shooter-star.json](./214288-bubble-shooter-star.json) |
+| Bubble Shooter: Color Splash | 413361 | [413361-bubble-shooter-color-splash.json](./413361-bubble-shooter-color-splash.json) |
 | Bubble Shooter: Fashion Bird | 108444 | [108444-bubble-shooter-fashion-bird.json](./108444-bubble-shooter-fashion-bird.json) |
 | Bubble Shooter: HD | 175505 | [175505-bubble-shooter-hd.json](./175505-bubble-shooter-hd.json) |
 | Bubble Shooter: Original Bear | 97260 | [97260-bubble-shooter-original-bear.json](./97260-bubble-shooter-original-bear.json) |
