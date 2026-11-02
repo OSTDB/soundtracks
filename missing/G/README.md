@@ -3750,6 +3750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GhostCatcher | 257961 | [257961-ghostcatcher.json](./257961-ghostcatcher.json) |
 | Ghostcon: Elementals | 247773 | [247773-ghostcon-elementals.json](./247773-ghostcon-elementals.json) |
 | GhostCry Hill | 216616 | [216616-ghostcry-hill.json](./216616-ghostcry-hill.json) |
+| Ghostdream | 30900 | [30900-ghostdream.json](./30900-ghostdream.json) |
 | Ghosted | 221033 | [221033-ghosted.json](./221033-ghosted.json) |
 | Ghosted | 418760 | [418760-ghosted.json](./418760-ghosted.json) |
 | Ghosteez | 276936 | [276936-ghosteez.json](./276936-ghosteez.json) |
@@ -10292,6 +10293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungriffon Blaze | 21978 | [21978-gungriffon-blaze.json](./21978-gungriffon-blaze.json) |
 | GunGun Online: Shooting Game | 108153 | [108153-gungun-online-shooting-game.json](./108153-gungun-online-shooting-game.json) |
 | GunGun: Race Against Time | 297514 | [297514-gungun-race-against-time.json](./297514-gungun-race-against-time.json) |
+| Gungungun | 30905 | [30905-gungungun.json](./30905-gungungun.json) |
 | Gunheart | 36615 | [36615-gunheart.json](./36615-gunheart.json) |
 | Gunhed | 37710 | [37710-gunhed.json](./37710-gunhed.json) |
 | GunHed: Aratanaru Tatakai | 48478 | [48478-gunhed-aratanaru-tatakai.json](./48478-gunhed-aratanaru-tatakai.json) |
