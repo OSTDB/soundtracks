@@ -18215,6 +18215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21548,6 +21549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sqij! | 53159 | [53159-sqij.json](./53159-sqij.json) |
 | Sqij'd | 315196 | [315196-sqijd.json](./315196-sqijd.json) |
 | SQL Murder Mystery | 401188 | [401188-sql-murder-mystery.json](./401188-sql-murder-mystery.json) |
+| Sqoon | 4605 | [4605-sqoon.json](./4605-sqoon.json) |
 | Sqorp | 339493 | [339493-sqorp.json](./339493-sqorp.json) |
 | SQP Run | 273259 | [273259-sqp-run.json](./273259-sqp-run.json) |
 | SQR | 333793 | [333793-sqr.json](./333793-sqr.json) |
@@ -27622,6 +27624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suikawa Lead | 316290 | [316290-suikawa-lead.json](./316290-suikawa-lead.json) |
 | Suikoden | 1447 | [1447-suikoden.json](./1447-suikoden.json) |
 | Suikoden I & II HD Remaster: Gate Rune and Dunan Unification Wars | 217909 | [217909-suikoden-i-and-ii-hd-remaster-gate-rune-and-dunan-unification-wars.json](./217909-suikoden-i-and-ii-hd-remaster-gate-rune-and-dunan-unification-wars.json) |
+| Suikoden I HD Remaster: Gate Rune War | 328110 | [328110-suikoden-i-hd-remaster-gate-rune-war.json](./328110-suikoden-i-hd-remaster-gate-rune-war.json) |
 | Suikoden II | 1454 | [1454-suikoden-ii.json](./1454-suikoden-ii.json) |
 | Suikoden IV | 1449 | [1449-suikoden-iv.json](./1449-suikoden-iv.json) |
 | Suikoden Tierkreis | 1452 | [1452-suikoden-tierkreis.json](./1452-suikoden-tierkreis.json) |
