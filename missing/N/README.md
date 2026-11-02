@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nagai | 386265 | [386265-nagai.json](./386265-nagai.json) |
 | Nagaisan | 316995 | [316995-nagaisan.json](./316995-nagaisan.json) |
 | Nagamaki Grind | 180689 | [180689-nagamaki-grind.json](./180689-nagamaki-grind.json) |
+| Nagano Winter Olympics '98 | 3546 | [3546-nagano-winter-olympics-98.json](./3546-nagano-winter-olympics-98.json) |
 | Nagare-boshi | 168526 | [168526-nagare-boshi.json](./168526-nagare-boshi.json) |
 | Nagato - Ninja Flying and Fighting Jungle Wars | 97134 | [97134-nagato-ninja-flying-and-fighting-jungle-wars.json](./97134-nagato-ninja-flying-and-fighting-jungle-wars.json) |
 | Nagayami Nights | 286128 | [286128-nagayami-nights.json](./286128-nagayami-nights.json) |
@@ -202,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nala Cat | 257779 | [257779-nala-cat.json](./257779-nala-cat.json) |
 | Nalani: Legacy of the Ancients | 341357 | [341357-nalani-legacy-of-the-ancients.json](./341357-nalani-legacy-of-the-ancients.json) |
 | Nalogi 2 | 96899 | [96899-nalogi-2.json](./96899-nalogi-2.json) |
+| Nam | 2534 | [2534-nam.json](./2534-nam.json) |
 | Nam | 26288 | [26288-nam.json](./26288-nam.json) |
 | Nam-1975 | 95471 | [95471-nam-1975.json](./95471-nam-1975.json) |
 | Nama Chuukei 68 | 98256 | [98256-nama-chuukei-68.json](./98256-nama-chuukei-68.json) |
@@ -724,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 09 | 388398 | [388398-nascar-09.json](./388398-nascar-09.json) |
 | NASCAR 09 | 388399 | [388399-nascar-09.json](./388399-nascar-09.json) |
 | NASCAR 09 | 7104 | [7104-nascar-09.json](./7104-nascar-09.json) |
+| NASCAR 2000 | 3548 | [3548-nascar-2000.json](./3548-nascar-2000.json) |
 | NASCAR 2000 | 70272 | [70272-nascar-2000.json](./70272-nascar-2000.json) |
 | NASCAR 2001 | 45099 | [45099-nascar-2001.json](./45099-nascar-2001.json) |
 | NASCAR 21: Ignition | 170048 | [170048-nascar-21-ignition.json](./170048-nascar-21-ignition.json) |
@@ -734,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 98 | 176683 | [176683-nascar-98.json](./176683-nascar-98.json) |
 | NASCAR 98 | 45515 | [45515-nascar-98.json](./45515-nascar-98.json) |
 | NASCAR 98: Collector's Edition | 203728 | [203728-nascar-98-collectors-edition.json](./203728-nascar-98-collectors-edition.json) |
+| NASCAR 99 | 3547 | [3547-nascar-99.json](./3547-nascar-99.json) |
 | NASCAR Acceleration Pack | 85989 | [85989-nascar-acceleration-pack.json](./85989-nascar-acceleration-pack.json) |
 | NASCAR Arcade | 58426 | [58426-nascar-arcade.json](./58426-nascar-arcade.json) |
 | NASCAR Arcade Rush: Project-X Edition | 263547 | [263547-nascar-arcade-rush-project-x-edition.json](./263547-nascar-arcade-rush-project-x-edition.json) |
@@ -3809,6 +3813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicktoons: Attack of the Toybots | 241231 | [241231-nicktoons-attack-of-the-toybots.json](./241231-nicktoons-attack-of-the-toybots.json) |
 | Nicktoons: Attack of the Toybots | 2774 | [2774-nicktoons-attack-of-the-toybots.json](./2774-nicktoons-attack-of-the-toybots.json) |
 | Nicktoons: Battle for Volcano Island | 248519 | [248519-nicktoons-battle-for-volcano-island.json](./248519-nicktoons-battle-for-volcano-island.json) |
+| Nicktoons: Battle for Volcano Island | 2784 | [2784-nicktoons-battle-for-volcano-island.json](./2784-nicktoons-battle-for-volcano-island.json) |
 | Nicktoons: Freeze Frame Frenzy | 2766 | [2766-nicktoons-freeze-frame-frenzy.json](./2766-nicktoons-freeze-frame-frenzy.json) |
 | Nicktoons: Movin' | 7982 | [7982-nicktoons-movin.json](./7982-nicktoons-movin.json) |
 | Nicktoons: Snap Shot | 308564 | [308564-nicktoons-snap-shot.json](./308564-nicktoons-snap-shot.json) |
