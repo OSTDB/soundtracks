@@ -3540,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Happened on the Moon? | 335710 | [335710-what-happened-on-the-moon.json](./335710-what-happened-on-the-moon.json) |
 | What Happened to Kate | 298136 | [298136-what-happened-to-kate.json](./298136-what-happened-to-kate.json) |
 | What Happened to Lily? | 342848 | [342848-what-happened-to-lily.json](./342848-what-happened-to-lily.json) |
+| What Happened to Squad 7 | 414058 | [414058-what-happened-to-squad-7.json](./414058-what-happened-to-squad-7.json) |
 | What happened to Survey Team 4? | 135028 | [135028-what-happened-to-survey-team-4.json](./135028-what-happened-to-survey-team-4.json) |
 | What Happened to the Crew? | 381332 | [381332-what-happened-to-the-crew.json](./381332-what-happened-to-the-crew.json) |
 | What Happened: Through Worlds | 314856 | [314856-what-happened-through-worlds.json](./314856-what-happened-through-worlds.json) |
