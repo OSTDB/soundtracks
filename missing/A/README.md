@@ -2275,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Access Acquired | 403332 | [403332-access-acquired.json](./403332-access-acquired.json) |
 | Access Block | 277863 | [277863-access-block.json](./277863-access-block.json) |
 | Access Code Zero | 174269 | [174269-access-code-zero.json](./174269-access-code-zero.json) |
+| Access Denied | 26595 | [26595-access-denied.json](./26595-access-denied.json) |
 | Access Denied: Escape | 240807 | [240807-access-denied-escape.json](./240807-access-denied-escape.json) |
 | Access: EnTree | 312667 | [312667-access-entree.json](./312667-access-entree.json) |
 | Accessible MasterMind | 175523 | [175523-accessible-mastermind.json](./175523-accessible-mastermind.json) |
@@ -5146,6 +5147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airfield Mania | 87900 | [87900-airfield-mania.json](./87900-airfield-mania.json) |
 | Airfight | 67637 | [67637-airfight.json](./67637-airfight.json) |
 | AirFighter | 193485 | [193485-airfighter.json](./193485-airfighter.json) |
+| Airfix: Dogfighter | 24702 | [24702-airfix-dogfighter.json](./24702-airfix-dogfighter.json) |
 | Airflow | 312675 | [312675-airflow.json](./312675-airflow.json) |
 | Airflow: Seattle ARTCC | 376106 | [376106-airflow-seattle-artcc.json](./376106-airflow-seattle-artcc.json) |
 | AirFMC | 90201 | [90201-airfmc.json](./90201-airfmc.json) |
@@ -15499,6 +15501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom-X | 111755 | [111755-atom-x.json](./111755-atom-x.json) |
 | Atomaders | 94264 | [94264-atomaders.json](./94264-atomaders.json) |
 | Atomanta | 365222 | [365222-atomanta.json](./365222-atomanta.json) |
+| Atomas | 26997 | [26997-atomas.json](./26997-atomas.json) |
 | Atomcraft | 392209 | [392209-atomcraft.json](./392209-atomcraft.json) |
 | Atomega | 64204 | [64204-atomega.json](./64204-atomega.json) |
 | Atomfall | 305159 | [305159-atomfall.json](./305159-atomfall.json) |
