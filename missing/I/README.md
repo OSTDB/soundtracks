@@ -586,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Was Late Because A Dry-Eyed Alien Stole My Pen! | 416738 | [416738-i-was-late-because-a-dry-eyed-alien-stole-my-pen.json](./416738-i-was-late-because-a-dry-eyed-alien-stole-my-pen.json) |
 | I Was Lost | 203245 | [203245-i-was-lost.json](./203245-i-was-lost.json) |
 | I was rebuilt | 415821 | [415821-i-was-rebuilt.json](./415821-i-was-rebuilt.json) |
+| I Was Seen as the Weakest Hero But I Can Secretly Edit the Metadata of the World?!? | 413410 | [413410-i-was-seen-as-the-weakest-hero-but-i-can-secretly-edit-the-metadata-of-the-world.json](./413410-i-was-seen-as-the-weakest-hero-but-i-can-secretly-edit-the-metadata-of-the-world.json) |
 | I Was the Cat | 240138 | [240138-i-was-the-cat.json](./240138-i-was-the-cat.json) |
 | I Was Wrong | 207499 | [207499-i-was-wrong.json](./207499-i-was-wrong.json) |
 | I Will Be There | 180634 | [180634-i-will-be-there.json](./180634-i-will-be-there.json) |
@@ -4400,6 +4401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insularis Draco | 356239 | [356239-insularis-draco.json](./356239-insularis-draco.json) |
 | Insulated at the Bottom | 160035 | [160035-insulated-at-the-bottom.json](./160035-insulated-at-the-bottom.json) |
 | Insulted | 229676 | [229676-insulted.json](./229676-insulted.json) |
+| Insurance Fraud | 412737 | [412737-insurance-fraud.json](./412737-insurance-fraud.json) |
 | Insurance Hunter | 405952 | [405952-insurance-hunter.json](./405952-insurance-hunter.json) |
 | Insurance Worker Game | 380510 | [380510-insurance-worker-game.json](./380510-insurance-worker-game.json) |
 | Insurgence | 183349 | [183349-insurgence.json](./183349-insurgence.json) |
@@ -5785,6 +5787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Experiment | 27938 | [27938-island-experiment.json](./27938-island-experiment.json) |
 | Island Explorer VR | 133068 | [133068-island-explorer-vr.json](./133068-island-explorer-vr.json) |
 | Island Farmer | 178806 | [178806-island-farmer.json](./178806-island-farmer.json) |
+| Island Fever | 413406 | [413406-island-fever.json](./413406-island-fever.json) |
 | Island Flight Simulator | 24747 | [24747-island-flight-simulator.json](./24747-island-flight-simulator.json) |
 | Island Games | 208646 | [208646-island-games.json](./208646-island-games.json) |
 | Island Getaway | 29939 | [29939-island-getaway.json](./29939-island-getaway.json) |
