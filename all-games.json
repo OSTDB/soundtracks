@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-02T21:56:05.024Z",
-  "total_soundtracks": 2834,
+  "generated_at": "2026-11-02T22:07:16.128Z",
+  "total_soundtracks": 2849,
   "games": [
     {
       "igdb_id": 7522,
@@ -2959,6 +2959,20 @@
       ]
     },
     {
+      "igdb_id": 76190,
+      "game_name": "Battlefield 1: Turning Tides",
+      "game_url": "https://ostdb.net/games/battlefield-1-turning-tides",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27360c4a315cc2f31821264b5b2",
+      "albums": [
+        {
+          "album_name": "Battlefield 1: Turning Tides (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0E7gXM6AqcVCS2ul918BG9",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 240,
       "game_name": "Battlefield 1942",
       "game_url": "https://ostdb.net/games/battlefield-1942",
@@ -3317,6 +3331,20 @@
         {
           "album_name": "Beat Cop (Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7MgvqnDlv01LmKSmx5Qgi6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 38882,
+      "game_name": "Beat Hazard Ultra",
+      "game_url": "https://ostdb.net/games/beat-hazard-ultra",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273418b3c3936b08860eb6639b7",
+      "albums": [
+        {
+          "album_name": "Beat Hazard Ultra (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2iqKvM7Eer88zuoajZeVML",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -4041,6 +4069,20 @@
         {
           "album_name": "Boom Blox (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2KJUYvoABt7cYxXxQ9sE7Q",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 16742,
+      "game_name": "Boom Boom Rocket",
+      "game_url": "https://ostdb.net/games/boom-boom-rocket",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736c6c3adb8918e92b2fcc9e17",
+      "albums": [
+        {
+          "album_name": "Boom Boom Rocket (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5d1suD96ORipTwKb26U3FJ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -5161,6 +5203,20 @@
       ]
     },
     {
+      "igdb_id": 7897,
+      "game_name": "Chariot",
+      "game_url": "https://ostdb.net/games/chariot",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273532e8b20c8697af26e488319",
+      "albums": [
+        {
+          "album_name": "Chariot (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6jbR0FDkBg53EWjvjHQfQT",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 19914,
       "game_name": "Charlie Murder",
       "game_url": "https://ostdb.net/games/charlie-murder",
@@ -5917,6 +5973,20 @@
       ]
     },
     {
+      "igdb_id": 9921,
+      "game_name": "Convoy",
+      "game_url": "https://ostdb.net/games/convoy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737181f062dabfaa54a39b7842",
+      "albums": [
+        {
+          "album_name": "Convoy (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/27TZHGAZrL894rygDVGKmr",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3241,
       "game_name": "Cookie Clicker",
       "game_url": "https://ostdb.net/games/cookie-clicker",
@@ -5995,6 +6065,20 @@
         {
           "album_name": "Corpse Factory (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1G9aWKg6akVmhHy8LXVbzY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 398638,
+      "game_name": "Corsair Cove",
+      "game_url": "https://ostdb.net/games/corsair-cove",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737314d42adc41f7e6a1f7504b",
+      "albums": [
+        {
+          "album_name": "Corsair Cove (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1u8LXGO99K2zUcvkWq4HvW",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -6135,6 +6219,20 @@
         {
           "album_name": "Creaks (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2b3U8tdKEAO7ZHYruqvFMP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 4778,
+      "game_name": "Create",
+      "game_url": "https://ostdb.net/games/create",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27365e54e796e057738812813d4",
+      "albums": [
+        {
+          "album_name": "Create (EA Games Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2ecGbeoqzhxZlF24LPoiCx",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -8729,6 +8827,20 @@
         {
           "album_name": "Dreamfall Chapters (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2RlsC44qWF5C5YWt39g43R",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 337899,
+      "game_name": "Dreams of Aether",
+      "game_url": "https://ostdb.net/games/dreams-of-aether",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273abb0d303379d27db1c1b1438",
+      "albums": [
+        {
+          "album_name": "Dreams of Aether (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2qNAeaWAF03RSkDMI4cgB9",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -15255,6 +15367,20 @@
       ]
     },
     {
+      "igdb_id": 64288,
+      "game_name": "Irisu Syndrome",
+      "game_url": "https://ostdb.net/games/irisu-syndrome",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730209b5ddf870c5a498a4c13c",
+      "albums": [
+        {
+          "album_name": "Irisu Syndrome! Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/72x9BgVuSuOGqmeGgTbAOV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 25581,
       "game_name": "Iron Harvest",
       "game_url": "https://ostdb.net/games/iron-harvest",
@@ -20691,6 +20817,20 @@
       ]
     },
     {
+      "igdb_id": 118757,
+      "game_name": "Nuts",
+      "game_url": "https://ostdb.net/games/nuts",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c95b5bd45068f003846e5f95",
+      "albums": [
+        {
+          "album_name": "NUTS (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/751xxVyu3rT1y0RJiB6dWP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 8983,
       "game_name": "Obduction",
       "game_url": "https://ostdb.net/games/obduction",
@@ -20811,6 +20951,20 @@
         {
           "album_name": "Offworld Trading Company (Original Video Game Score)",
           "spotify_url": "https://open.spotify.com/album/55JznAdjnXXoG8Q4uIeBib",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1054,
+      "game_name": "Oil Rush",
+      "game_url": "https://ostdb.net/games/oil-rush",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732af81b823588f19c5f2833dd",
+      "albums": [
+        {
+          "album_name": "Oil Rush (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2zbbEPkXQ6BS9M56UnS9rx",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -23937,6 +24091,20 @@
       ]
     },
     {
+      "igdb_id": 6871,
+      "game_name": "Ridge Racer 3D",
+      "game_url": "https://ostdb.net/games/ridge-racer-3d",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736c987a46896df478e169930b",
+      "albums": [
+        {
+          "album_name": "RIDGE RACER 3D Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/345xq6BQMMQlZKZfdqFonq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 7441,
       "game_name": "Ridge Racer 7",
       "game_url": "https://ostdb.net/games/ridge-racer-7",
@@ -25799,6 +25967,20 @@
         {
           "album_name": "SILENT HILL: The Short Message ORIGINAL SOUNDTRACK",
           "spotify_url": "https://open.spotify.com/album/0a1JBUSmKoQvCJdu2ETjwP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 5155,
+      "game_name": "SimAnimals",
+      "game_url": "https://ostdb.net/games/simanimals",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273609f4d33c04bd5baf77ca7b2",
+      "albums": [
+        {
+          "album_name": "SimAnimals (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7cex5Ohk7Z42nfglBmdEnP",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -29517,6 +29699,20 @@
       ]
     },
     {
+      "igdb_id": 310643,
+      "game_name": "The Binding of Isaac: Repentance",
+      "game_url": "https://ostdb.net/games/the-binding-of-isaac-repentance",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730d856ef9aea29ae745f804ee",
+      "albums": [
+        {
+          "album_name": "The Binding of Isaac: Repentance (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7mWeSocrNQ0OvsWauMDSHq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 321536,
       "game_name": "The Binding of Isaac: Repentance+",
       "game_url": "https://ostdb.net/games/the-binding-of-isaac-repentance",
@@ -30123,6 +30319,20 @@
         {
           "album_name": "The Game of Life 2 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/38BW5cJfUBwIMx1601rrzs",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 5853,
+      "game_name": "The Great Escape",
+      "game_url": "https://ostdb.net/games/the-great-escape",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27397ed6d5360279e5da3084ca0",
+      "albums": [
+        {
+          "album_name": "The Great Escape Soundtrack Suite (Original Soundtrack Theme from \"The Great Escape\")",
+          "spotify_url": "https://open.spotify.com/album/2TLw6AqlZ4baFKiUJKjKPq",
           "apple_music_url": "",
           "album_link_url": ""
         }
