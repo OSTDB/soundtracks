@@ -3579,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scutter | 103957 | [103957-scutter.json](./103957-scutter.json) |
 | Scuttle | 285697 | [285697-scuttle.json](./285697-scuttle.json) |
 | Scuttle's Thingamubobs | 246533 | [246533-scuttles-thingamubobs.json](./246533-scuttles-thingamubobs.json) |
+| Scuttlers | 39143 | [39143-scuttlers.json](./39143-scuttlers.json) |
 | Scutum Phanti | 120059 | [120059-scutum-phanti.json](./120059-scutum-phanti.json) |
 | Scyla | 337658 | [337658-scyla.json](./337658-scyla.json) |
 | Scyphojel, Space Jellyfish! | 354752 | [354752-scyphojel-space-jellyfish.json](./354752-scyphojel-space-jellyfish.json) |
@@ -4925,6 +4926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selene's Nightmare | 153850 | [153850-selenes-nightmare.json](./153850-selenes-nightmare.json) |
 | Selene's Unbearable Night | 258414 | [258414-selenes-unbearable-night.json](./258414-selenes-unbearable-night.json) |
 | Selenelion | 210997 | [210997-selenelion.json](./210997-selenelion.json) |
+| Selenon Rising | 35512 | [35512-selenon-rising.json](./35512-selenon-rising.json) |
 | Selenon Rising: Episode 2 | 171367 | [171367-selenon-rising-episode-2.json](./171367-selenon-rising-episode-2.json) |
 | Selenon Rising: Episode 3 | 171368 | [171368-selenon-rising-episode-3.json](./171368-selenon-rising-episode-3.json) |
 | Selenwald | 190988 | [190988-selenwald.json](./190988-selenwald.json) |
@@ -13476,6 +13478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashing Spirits: Brazil's First Boxer | 135713 | [135713-smashing-spirits-brazils-first-boxer.json](./135713-smashing-spirits-brazils-first-boxer.json) |
 | Smashing Star | 202855 | [202855-smashing-star.json](./202855-smashing-star.json) |
 | Smashing the Battle Ghost Soul | 165617 | [165617-smashing-the-battle-ghost-soul.json](./165617-smashing-the-battle-ghost-soul.json) |
+| Smashing the Battle VR | 41029 | [41029-smashing-the-battle-vr.json](./41029-smashing-the-battle-vr.json) |
 | Smashing Toys | 25413 | [25413-smashing-toys.json](./25413-smashing-toys.json) |
 | Smashmak | 396422 | [396422-smashmak.json](./396422-smashmak.json) |
 | Smashmons: Spirit Red | 313342 | [313342-smashmons-spirit-red.json](./313342-smashmons-spirit-red.json) |
@@ -17939,6 +17942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Battles | 80631 | [80631-space-battles.json](./80631-space-battles.json) |
 | Space Beam | 277882 | [277882-space-beam.json](./277882-space-beam.json) |
 | Space Bear | 128946 | [128946-space-bear.json](./128946-space-bear.json) |
+| Space Beast Terror Fright | 35528 | [35528-space-beast-terror-fright.json](./35528-space-beast-terror-fright.json) |
 | Space Beastz | 195078 | [195078-space-beastz.json](./195078-space-beastz.json) |
 | Space Bees | 201423 | [201423-space-bees.json](./201423-space-bees.json) |
 | Space Bejewel | 103114 | [103114-space-bejewel.json](./103114-space-bejewel.json) |
@@ -20005,6 +20009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellt | 232088 | [232088-spellt.json](./232088-spellt.json) |
 | SpellTanks | 236863 | [236863-spelltanks.json](./236863-spelltanks.json) |
 | Spelltooth | 383063 | [383063-spelltooth.json](./383063-spelltooth.json) |
+| SpellTower | 41498 | [41498-spelltower.json](./41498-spelltower.json) |
 | SpellTower+ | 136455 | [136455-spelltower.json](./136455-spelltower.json) |
 | SpellUp | 233102 | [233102-spellup.json](./233102-spellup.json) |
 | Spellwake | 108373 | [108373-spellwake.json](./108373-spellwake.json) |
@@ -24216,6 +24221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stayer | 115266 | [115266-stayer.json](./115266-stayer.json) |
 | Stayhome Simulator | 368434 | [368434-stayhome-simulator.json](./368434-stayhome-simulator.json) |
 | Stayhomer | 171207 | [171207-stayhomer.json](./171207-stayhomer.json) |
+| Stayin' Alive | 40139 | [40139-stayin-alive.json](./40139-stayin-alive.json) |
 | Staying Fresh | 292364 | [292364-staying-fresh.json](./292364-staying-fresh.json) |
 | Staying Together | 129647 | [129647-staying-together.json](./129647-staying-together.json) |
 | STCC 2: The Game | 62410 | [62410-stcc-2-the-game.json](./62410-stcc-2-the-game.json) |
@@ -30683,6 +30689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Serious Golf | 365830 | [365830-super-serious-golf.json](./365830-super-serious-golf.json) |
 | Super Serpent Snake 3D | 412292 | [412292-super-serpent-snake-3d.json](./412292-super-serpent-snake-3d.json) |
 | Super Sexy Swiss | 303210 | [303210-super-sexy-swiss.json](./303210-super-sexy-swiss.json) |
+| Super Seymour Saves the Planet | 39167 | [39167-super-seymour-saves-the-planet.json](./39167-super-seymour-saves-the-planet.json) |
 | Super Seymour Saves the Plant | 18573 | [18573-super-seymour-saves-the-plant.json](./18573-super-seymour-saves-the-plant.json) |
 | Super Shadow Break: Showdown! Ninja vs. The Three Kaijus | 192062 | [192062-super-shadow-break-showdown-ninja-vs-the-three-kaijus.json](./192062-super-shadow-break-showdown-ninja-vs-the-three-kaijus.json) |
 | Super Shadow Dudes | 180186 | [180186-super-shadow-dudes.json](./180186-super-shadow-dudes.json) |
@@ -32104,6 +32111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the KSI Song | 321021 | [321021-survive-the-ksi-song.json](./321021-survive-the-ksi-song.json) |
 | Survive the Labyrinth | 343833 | [343833-survive-the-labyrinth.json](./343833-survive-the-labyrinth.json) |
 | Survive the Mafia | 184378 | [184378-survive-the-mafia.json](./184378-survive-the-mafia.json) |
+| Survive the Nights | 39279 | [39279-survive-the-nights.json](./39279-survive-the-nights.json) |
 | Survive the Orcs | 236795 | [236795-survive-the-orcs.json](./236795-survive-the-orcs.json) |
 | Survive the Silence | 368889 | [368889-survive-the-silence.json](./368889-survive-the-silence.json) |
 | Survive the Spin | 396490 | [396490-survive-the-spin.json](./396490-survive-the-spin.json) |
