@@ -12873,6 +12873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingo Mystery: Who's Gold | 53617 | [53617-slingo-mystery-whos-gold.json](./53617-slingo-mystery-whos-gold.json) |
 | Slingo Quest | 47712 | [47712-slingo-quest.json](./47712-slingo-quest.json) |
 | Slingo Quest Hawaii | 73807 | [73807-slingo-quest-hawaii.json](./73807-slingo-quest-hawaii.json) |
+| Slingo Supreme | 59471 | [59471-slingo-supreme.json](./59471-slingo-supreme.json) |
 | Slingoween | 338940 | [338940-slingoween.json](./338940-slingoween.json) |
 | Slingray | 62494 | [62494-slingray.json](./62494-slingray.json) |
 | Slingshell, by Muno! | 245729 | [245729-slingshell-by-muno.json](./245729-slingshell-by-muno.json) |
@@ -13775,6 +13776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Storm | 185330 | [185330-snail-storm.json](./185330-snail-storm.json) |
 | Snail Story: Love Edition | 193500 | [193500-snail-story-love-edition.json](./193500-snail-story-love-edition.json) |
 | Snail Trainer | 282541 | [282541-snail-trainer.json](./282541-snail-trainer.json) |
+| Snail Trek Chapter 1 | 75912 | [75912-snail-trek-chapter-1.json](./75912-snail-trek-chapter-1.json) |
 | Snail Trek Chapter 2 | 76494 | [76494-snail-trek-chapter-2.json](./76494-snail-trek-chapter-2.json) |
 | Snail Trek: Chapter 1 - Intershellar | 83336 | [83336-snail-trek-chapter-1-intershellar.json](./83336-snail-trek-chapter-1-intershellar.json) |
 | Snail Trek: Chapter 2 - A Snail of Two Worlds | 83337 | [83337-snail-trek-chapter-2-a-snail-of-two-worlds.json](./83337-snail-trek-chapter-2-a-snail-of-two-worlds.json) |
@@ -15448,6 +15450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire | 312270 | [312270-solitaire.json](./312270-solitaire.json) |
 | Solitaire | 313972 | [313972-solitaire.json](./313972-solitaire.json) |
 | Solitaire | 74206 | [74206-solitaire.json](./74206-solitaire.json) |
+| Solitaire | 75661 | [75661-solitaire.json](./75661-solitaire.json) |
 | Solitaire | 80743 | [80743-solitaire.json](./80743-solitaire.json) |
 | Solitaire | 80744 | [80744-solitaire.json](./80744-solitaire.json) |
 | Solitaire | 86374 | [86374-solitaire.json](./86374-solitaire.json) |
@@ -20873,6 +20876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Happens | 400899 | [400899-split-happens.json](./400899-split-happens.json) |
 | Split Happens! | 400845 | [400845-split-happens.json](./400845-split-happens.json) |
 | Split Masters | 99498 | [99498-split-masters.json](./99498-split-masters.json) |
+| Split of Knight | 75834 | [75834-split-of-knight.json](./75834-split-of-knight.json) |
 | Split or Steal | 123963 | [123963-split-or-steal.json](./123963-split-or-steal.json) |
 | Split Out | 422466 | [422466-split-out.json](./422466-split-out.json) |
 | Split Personalities | 73323 | [73323-split-personalities.json](./73323-split-personalities.json) |
@@ -21837,6 +21841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SquareWorld Unpixeled | 110825 | [110825-squareworld-unpixeled.json](./110825-squareworld-unpixeled.json) |
 | Squarez Deluxe! | 57014 | [57014-squarez-deluxe.json](./57014-squarez-deluxe.json) |
 | Squarez: Escape The Squares | 262357 | [262357-squarez-escape-the-squares.json](./262357-squarez-escape-the-squares.json) |
+| Squarism | 75636 | [75636-squarism.json](./75636-squarism.json) |
 | Squaser | 340174 | [340174-squaser.json](./340174-squaser.json) |
 | Squaser 6 | 368490 | [368490-squaser-6.json](./368490-squaser-6.json) |
 | Squaser 7 | 367047 | [367047-squaser-7.json](./367047-squaser-7.json) |
@@ -22705,6 +22710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sentry | 292129 | [292129-star-sentry.json](./292129-star-sentry.json) |
 | Star Sentry | 322825 | [322825-star-sentry.json](./322825-star-sentry.json) |
 | Star Shaman | 135111 | [135111-star-shaman.json](./135111-star-shaman.json) |
+| Star Shelter | 59245 | [59245-star-shelter.json](./59245-star-shelter.json) |
 | Star Shield Down | 88076 | [88076-star-shield-down.json](./88076-star-shield-down.json) |
 | Star Shift Freelancers | 274345 | [274345-star-shift-freelancers.json](./274345-star-shift-freelancers.json) |
 | Star Shift Origins | 163193 | [163193-star-shift-origins.json](./163193-star-shift-origins.json) |
@@ -31660,6 +31666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperTed | 73643 | [73643-superted.json](./73643-superted.json) |
 | SuperTotalCarnage! | 230356 | [230356-supertotalcarnage.json](./230356-supertotalcarnage.json) |
 | SuperTripLand | 239504 | [239504-supertripland.json](./239504-supertripland.json) |
+| SuperTrucks Offroad | 75638 | [75638-supertrucks-offroad.json](./75638-supertrucks-offroad.json) |
 | SuperTrucks Offroad Racing | 237384 | [237384-supertrucks-offroad-racing.json](./237384-supertrucks-offroad-racing.json) |
 | Supertrumpman: Patriot Fists of Truth | 114744 | [114744-supertrumpman-patriot-fists-of-truth.json](./114744-supertrumpman-patriot-fists-of-truth.json) |
 | SuperTux | 51231 | [51231-supertux.json](./51231-supertux.json) |
