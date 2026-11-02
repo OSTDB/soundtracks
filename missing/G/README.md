@@ -1492,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamius Type IV | 51175 | [51175-gamius-type-iv.json](./51175-gamius-type-iv.json) |
 | Gamlet | 146109 | [146109-gamlet.json](./146109-gamlet.json) |
 | Gamma 19 | 213480 | [213480-gamma-19.json](./213480-gamma-19.json) |
+| Gamma Aquilae | 101097 | [101097-gamma-aquilae.json](./101097-gamma-aquilae.json) |
 | Gamma Blast | 86412 | [86412-gamma-blast.json](./86412-gamma-blast.json) |
 | Gamma Bros | 33675 | [33675-gamma-bros.json](./33675-gamma-bros.json) |
 | Gamma Collexion | 80129 | [80129-gamma-collexion.json](./80129-gamma-collexion.json) |
@@ -3186,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Germany's Next Top Model: Das Offizielle Spiel zur Staffel 2009 | 86128 | [86128-germanys-next-top-model-das-offizielle-spiel-zur-staffel-2009.json](./86128-germanys-next-top-model-das-offizielle-spiel-zur-staffel-2009.json) |
 | GermCraft Deluxe | 208013 | [208013-germcraft-deluxe.json](./208013-germcraft-deluxe.json) |
 | Germinal | 202229 | [202229-germinal.json](./202229-germinal.json) |
+| Germination | 95328 | [95328-germination.json](./95328-germination.json) |
 | Germinator | 21019 | [21019-germinator.json](./21019-germinator.json) |
 | Germline | 258601 | [258601-germline.json](./258601-germline.json) |
 | GermNation | 94941 | [94941-germnation.json](./94941-germnation.json) |
@@ -7308,6 +7310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Champion | 143374 | [143374-grand-champion.json](./143374-grand-champion.json) |
 | Grand Chase Classic | 166856 | [166856-grand-chase-classic.json](./166856-grand-chase-classic.json) |
 | Grand Chase M | 56262 | [56262-grand-chase-m.json](./56262-grand-chase-m.json) |
+| Grand Chase: Dimensional Chaser | 101038 | [101038-grand-chase-dimensional-chaser.json](./101038-grand-chase-dimensional-chaser.json) |
 | Grand Circuit | 305817 | [305817-grand-circuit.json](./305817-grand-circuit.json) |
 | Grand City Car Driving | 219808 | [219808-grand-city-car-driving.json](./219808-grand-city-car-driving.json) |
 | Grand Classes | 313415 | [313415-grand-classes.json](./313415-grand-classes.json) |
