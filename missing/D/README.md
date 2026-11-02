@@ -6433,6 +6433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DepowerBall | 126607 | [126607-depowerball.json](./126607-depowerball.json) |
 | Deppart Prototype | 256802 | [256802-deppart-prototype.json](./256802-deppart-prototype.json) |
 | Depper Jar | 329664 | [329664-depper-jar.json](./329664-depper-jar.json) |
+| Depraved | 55877 | [55877-depraved.json](./55877-depraved.json) |
 | DepraviA | 390812 | [390812-depravia.json](./390812-depravia.json) |
 | Depression | 367194 | [367194-depression.json](./367194-depression.json) |
 | Depression Level 50 | 362878 | [362878-depression-level-50.json](./362878-depression-level-50.json) |
@@ -7535,6 +7536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Girl | 300747 | [300747-devil-girl.json](./300747-devil-girl.json) |
 | Devil Girl Ivlin | 212578 | [212578-devil-girl-ivlin.json](./212578-devil-girl-ivlin.json) |
 | Devil Girl Needs Massages | 111183 | [111183-devil-girl-needs-massages.json](./111183-devil-girl-needs-massages.json) |
+| Devil Guns | 55768 | [55768-devil-guns.json](./55768-devil-guns.json) |
 | Devil House | 214331 | [214331-devil-house.json](./214331-devil-house.json) |
 | Devil Hunter Idle | 234486 | [234486-devil-hunter-idle.json](./234486-devil-hunter-idle.json) |
 | Devil Hunter: Raider | 357372 | [357372-devil-hunter-raider.json](./357372-devil-hunter-raider.json) |
@@ -17644,6 +17646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dura Vita Online | 164082 | [164082-dura-vita-online.json](./164082-dura-vita-online.json) |
 | Durak Online | 266371 | [266371-durak-online.json](./266371-durak-online.json) |
 | Durak Online | 369668 | [369668-durak-online.json](./369668-durak-online.json) |
+| Durak! | 56649 | [56649-durak.json](./56649-durak.json) |
 | Duralumin Wind | 80914 | [80914-duralumin-wind.json](./80914-duralumin-wind.json) |
 | Durango: Wild Lands | 26918 | [26918-durango-wild-lands.json](./26918-durango-wild-lands.json) |
 | Durarara!! 3-way Standoff | 66353 | [66353-durarara-3-way-standoff.json](./66353-durarara-3-way-standoff.json) |
