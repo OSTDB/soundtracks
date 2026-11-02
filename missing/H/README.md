@@ -3343,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Dust Collection | 317215 | [317215-heaven-dust-collection.json](./317215-heaven-dust-collection.json) |
 | Heaven Forest Nights | 35430 | [35430-heaven-forest-nights.json](./35430-heaven-forest-nights.json) |
 | Heaven Impact | 301001 | [301001-heaven-impact.json](./301001-heaven-impact.json) |
+| Heaven Island Life | 33991 | [33991-heaven-island-life.json](./33991-heaven-island-life.json) |
 | Heaven Jump | 293184 | [293184-heaven-jump.json](./293184-heaven-jump.json) |
 | Heaven Keepers | 192941 | [192941-heaven-keepers.json](./192941-heaven-keepers.json) |
 | Heaven Knows You | 208395 | [208395-heaven-knows-you.json](./208395-heaven-knows-you.json) |
@@ -8366,6 +8367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloCure: Save the Fans! | 206336 | [206336-holocure-save-the-fans.json](./206336-holocure-save-the-fans.json) |
 | Holocure: Update 0.6 | 261921 | [261921-holocure-update-0-6.json](./261921-holocure-update-0-6.json) |
 | Holodama: Content Clash | 386190 | [386190-holodama-content-clash.json](./386190-holodama-content-clash.json) |
+| Holodance | 34003 | [34003-holodance.json](./34003-holodance.json) |
 | Holodeck Arena | 211020 | [211020-holodeck-arena.json](./211020-holodeck-arena.json) |
 | Holodrive | 20365 | [20365-holodrive.json](./20365-holodrive.json) |
 | HoloDungeon: Koyori vs HollowLive in Honsha Tower | 410033 | [410033-holodungeon-koyori-vs-hollowlive-in-honsha-tower.json](./410033-holodungeon-koyori-vs-hollowlive-in-honsha-tower.json) |
