@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radzone | 256248 | [256248-radzone.json](./256248-radzone.json) |
 | Raef | 131588 | [131588-raef.json](./131588-raef.json) |
 | Raev: Kingdom on the Distant Shores | 336154 | [336154-raev-kingdom-on-the-distant-shores.json](./336154-raev-kingdom-on-the-distant-shores.json) |
+| Rafa Nadal Tennis | 23104 | [23104-rafa-nadal-tennis.json](./23104-rafa-nadal-tennis.json) |
 | Rafa's World | 231034 | [231034-rafas-world.json](./231034-rafas-world.json) |
 | Rafa's World + Axolotl + Cat Milk | 242658 | [242658-rafas-world-axolotl-cat-milk.json](./242658-rafas-world-axolotl-cat-milk.json) |
 | Raffle Cat | 123254 | [123254-raffle-cat.json](./123254-raffle-cat.json) |
@@ -9232,6 +9233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky | 77183 | [77183-rocky.json](./77183-rocky.json) |
 | Rocky & Bullwinkle | 20780 | [20780-rocky-and-bullwinkle.json](./20780-rocky-and-bullwinkle.json) |
 | Rocky & Co | 271686 | [271686-rocky-and-co.json](./271686-rocky-and-co.json) |
+| Rocky Balboa | 23112 | [23112-rocky-balboa.json](./23112-rocky-balboa.json) |
 | Rocky Climb | 96085 | [96085-rocky-climb.json](./96085-rocky-climb.json) |
 | Rocky Idle | 391524 | [391524-rocky-idle.json](./391524-rocky-idle.json) |
 | Rocky Legends | 6016 | [6016-rocky-legends.json](./6016-rocky-legends.json) |
