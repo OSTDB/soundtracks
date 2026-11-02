@@ -1786,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank De La Muerta | 178796 | [178796-tank-de-la-muerta.json](./178796-tank-de-la-muerta.json) |
 | Tank Defender | 187895 | [187895-tank-defender.json](./187895-tank-defender.json) |
 | Tank Defense Division | 31760 | [31760-tank-defense-division.json](./31760-tank-defense-division.json) |
+| Tank Destroyer | 29293 | [29293-tank-destroyer.json](./29293-tank-destroyer.json) |
 | Tank Domination | 343877 | [343877-tank-domination.json](./343877-tank-domination.json) |
 | Tank Duel 3D | 219770 | [219770-tank-duel-3d.json](./219770-tank-duel-3d.json) |
 | Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
@@ -9791,6 +9792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Growth Project | 26614 | [26614-the-growth-project.json](./26614-the-growth-project.json) |
 | The Grugs: Origins | 262969 | [262969-the-grugs-origins.json](./262969-the-grugs-origins.json) |
 | The Guard | 238686 | [238686-the-guard.json](./238686-the-guard.json) |
+| The Guard of the Dungeon | 29297 | [29297-the-guard-of-the-dungeon.json](./29297-the-guard-of-the-dungeon.json) |
 | The Guardhouse | 271321 | [271321-the-guardhouse.json](./271321-the-guardhouse.json) |
 | The Guardian | 149495 | [149495-the-guardian.json](./149495-the-guardian.json) |
 | The Guardian | 219967 | [219967-the-guardian.json](./219967-the-guardian.json) |
@@ -13677,6 +13679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orville: Interactive Fan Experience | 120669 | [120669-the-orville-interactive-fan-experience.json](./120669-the-orville-interactive-fan-experience.json) |
 | The Othello | 91958 | [91958-the-othello.json](./91958-the-othello.json) |
 | The Other | 185366 | [185366-the-other.json](./185366-the-other.json) |
+| The Other 99 | 19535 | [19535-the-other-99.json](./19535-the-other-99.json) |
 | The Other Brothers | 116428 | [116428-the-other-brothers.json](./116428-the-other-brothers.json) |
 | The Other Me | 261550 | [261550-the-other-me.json](./261550-the-other-me.json) |
 | The Other Me Reborn | 389208 | [389208-the-other-me-reborn.json](./389208-the-other-me-reborn.json) |
@@ -18353,6 +18356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theorists | 261185 | [261185-theorists.json](./261185-theorists.json) |
 | Théoros | 412185 | [412185-theoros.json](./412185-theoros.json) |
 | Theory | 288813 | [288813-theory.json](./288813-theory.json) |
+| Theory of Fear | 29225 | [29225-theory-of-fear.json](./29225-theory-of-fear.json) |
 | Theory of Poltaran | 186314 | [186314-theory-of-poltaran.json](./186314-theory-of-poltaran.json) |
 | Theos: Cities of Myth | 403819 | [403819-theos-cities-of-myth.json](./403819-theos-cities-of-myth.json) |
 | TheoTown | 109152 | [109152-theotown.json](./109152-theotown.json) |
@@ -30252,6 +30256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumblestone | 16926 | [16926-tumblestone.json](./16926-tumblestone.json) |
 | TumbleWeed | 199743 | [199743-tumbleweed.json](./199743-tumbleweed.json) |
 | Tumbleweed Destiny | 195073 | [195073-tumbleweed-destiny.json](./195073-tumbleweed-destiny.json) |
+| Tumbleweed Express | 19392 | [19392-tumbleweed-express.json](./19392-tumbleweed-express.json) |
 | Tumbobots | 382224 | [382224-tumbobots.json](./382224-tumbobots.json) |
 | Tumiki Fighters | 50414 | [50414-tumiki-fighters.json](./50414-tumiki-fighters.json) |
 | Tummy Bonbons: The Sweet Monster | 328315 | [328315-tummy-bonbons-the-sweet-monster.json](./328315-tummy-bonbons-the-sweet-monster.json) |
