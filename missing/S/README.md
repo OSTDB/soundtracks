@@ -2381,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayori Shoots Up The Literature Club | 257531 | [257531-sayori-shoots-up-the-literature-club.json](./257531-sayori-shoots-up-the-literature-club.json) |
 | Sayri: The Beginning | 130521 | [130521-sayri-the-beginning.json](./130521-sayri-the-beginning.json) |
 | Sbaceball | 197700 | [197700-sbaceball.json](./197700-sbaceball.json) |
+| SBK 09: Superbike World Championship | 7179 | [7179-sbk-09-superbike-world-championship.json](./7179-sbk-09-superbike-world-championship.json) |
 | SBK 14: Official Mobile Game | 238673 | [238673-sbk-14-official-mobile-game.json](./238673-sbk-14-official-mobile-game.json) |
 | SBK 2011: Superbike World Championship | 41583 | [41583-sbk-2011-superbike-world-championship.json](./41583-sbk-2011-superbike-world-championship.json) |
 | SBK Team Manager | 200317 | [200317-sbk-team-manager.json](./200317-sbk-team-manager.json) |
@@ -2998,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo! Unmasked | 210729 | [210729-scooby-doo-unmasked.json](./210729-scooby-doo-unmasked.json) |
 | Scooby-Doo! Unmasked | 228909 | [228909-scooby-doo-unmasked.json](./228909-scooby-doo-unmasked.json) |
 | Scooby-Doo! Unmasked | 2854 | [2854-scooby-doo-unmasked.json](./2854-scooby-doo-unmasked.json) |
+| Scooby-Doo! Who's Watching Who? | 8087 | [8087-scooby-doo-whos-watching-who.json](./8087-scooby-doo-whos-watching-who.json) |
 | Scooby-Doo!: Big Air | 222811 | [222811-scooby-doo-big-air.json](./222811-scooby-doo-big-air.json) |
 | Scooby-Doo!: Castle Capers | 376522 | [376522-scooby-doo-castle-capers.json](./376522-scooby-doo-castle-capers.json) |
 | Scooby-Doo!: Catch Shaggy | 245412 | [245412-scooby-doo-catch-shaggy.json](./245412-scooby-doo-catch-shaggy.json) |
@@ -18233,6 +18235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19483,6 +19486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Boat | 217689 | [217689-speed-boat.json](./217689-speed-boat.json) |
 | Speed Boat | 245148 | [245148-speed-boat.json](./245148-speed-boat.json) |
 | Speed Box | 105132 | [105132-speed-box.json](./105132-speed-box.json) |
+| Speed Brawl | 101460 | [101460-speed-brawl.json](./101460-speed-brawl.json) |
 | Speed Builder | 117672 | [117672-speed-builder.json](./117672-speed-builder.json) |
 | Speed Busters: American Highways | 46531 | [46531-speed-busters-american-highways.json](./46531-speed-busters-american-highways.json) |
 | Speed Car Fighter | 99036 | [99036-speed-car-fighter.json](./99036-speed-car-fighter.json) |
