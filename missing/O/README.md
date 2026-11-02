@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Commander | 51016 | [51016-ocean-commander.json](./51016-ocean-commander.json) |
 | Ocean Current Punk | 190845 | [190845-ocean-current-punk.json](./190845-ocean-current-punk.json) |
 | Ocean Depths | 359735 | [359735-ocean-depths.json](./359735-ocean-depths.json) |
+| Ocean Diver | 412703 | [412703-ocean-diver.json](./412703-ocean-diver.json) |
 | Ocean Drift | 233521 | [233521-ocean-drift.json](./233521-ocean-drift.json) |
 | Ocean Drive Challenge | 65420 | [65420-ocean-drive-challenge.json](./65420-ocean-drive-challenge.json) |
 | Ocean Drive Challenge Remastered | 127220 | [127220-ocean-drive-challenge-remastered.json](./127220-ocean-drive-challenge-remastered.json) |
@@ -1617,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Pattern | 28908 | [28908-omega-pattern.json](./28908-omega-pattern.json) |
 | Omega Phenex Commenced Project Six | 326124 | [326124-omega-phenex-commenced-project-six.json](./326124-omega-phenex-commenced-project-six.json) |
 | Omega Pilot | 199364 | [199364-omega-pilot.json](./199364-omega-pilot.json) |
+| Omega Pilot Evolution | 413359 | [413359-omega-pilot-evolution.json](./413359-omega-pilot-evolution.json) |
 | Omega Protocol | 374633 | [374633-omega-protocol.json](./374633-omega-protocol.json) |
 | Omega Quintet | 9907 | [9907-omega-quintet.json](./9907-omega-quintet.json) |
 | Omega Quintet: Limited Edition | 166239 | [166239-omega-quintet-limited-edition.json](./166239-omega-quintet-limited-edition.json) |
@@ -2522,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Strike: Complete Edition | 238181 | [238181-one-strike-complete-edition.json](./238181-one-strike-complete-edition.json) |
 | One Strike: Rise of Dragons | 238180 | [238180-one-strike-rise-of-dragons.json](./238180-one-strike-rise-of-dragons.json) |
 | One Stroke - one tap connect | 86941 | [86941-one-stroke-one-tap-connect.json](./86941-one-stroke-one-tap-connect.json) |
+| One Stroke Hunter | 412753 | [412753-one-stroke-hunter.json](./412753-one-stroke-hunter.json) |
 | One Synth | 114059 | [114059-one-synth.json](./114059-one-synth.json) |
 | One Tank to Rule Them All | 86333 | [86333-one-tank-to-rule-them-all.json](./86333-one-tank-to-rule-them-all.json) |
 | One Tap | 265239 | [265239-one-tap.json](./265239-one-tap.json) |
