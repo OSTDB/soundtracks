@@ -2980,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paul & Tita | 183733 | [183733-paul-and-tita.json](./183733-paul-and-tita.json) |
 | Paul Blart: Mall Cop - Mall Maze | 280707 | [280707-paul-blart-mall-cop-mall-maze.json](./280707-paul-blart-mall-cop-mall-maze.json) |
 | Paul Moose in Space World | 242700 | [242700-paul-moose-in-space-world.json](./242700-paul-moose-in-space-world.json) |
+| Paul Pixel - The Awakening | 25863 | [25863-paul-pixel-the-awakening.json](./25863-paul-pixel-the-awakening.json) |
 | Paul Quest Gold Edition | 325699 | [325699-paul-quest-gold-edition.json](./325699-paul-quest-gold-edition.json) |
 | Paul Sloane & Des MacHale's Intriguing Tales | 123377 | [123377-paul-sloane-and-des-machales-intriguing-tales.json](./123377-paul-sloane-and-des-machales-intriguing-tales.json) |
 | Paul Sloane & Des MacHale's Intriguing Tales 2 | 123378 | [123378-paul-sloane-and-des-machales-intriguing-tales-2.json](./123378-paul-sloane-and-des-machales-intriguing-tales-2.json) |
