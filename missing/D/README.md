@@ -1523,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Harvest: Ascension | 224577 | [224577-dark-harvest-ascension.json](./224577-dark-harvest-ascension.json) |
 | Dark Haunting | 192225 | [192225-dark-haunting.json](./192225-dark-haunting.json) |
 | Dark Heart Mansion | 156994 | [156994-dark-heart-mansion.json](./156994-dark-heart-mansion.json) |
+| Dark Heritage: Guardians of Hope | 34634 | [34634-dark-heritage-guardians-of-hope.json](./34634-dark-heritage-guardians-of-hope.json) |
 | Dark Hero | 234480 | [234480-dark-hero.json](./234480-dark-hero.json) |
 | Dark Hero Dash | 214105 | [214105-dark-hero-dash.json](./214105-dark-hero-dash.json) |
 | Dark Hill Museum of Death | 99248 | [99248-dark-hill-museum-of-death.json](./99248-dark-hill-museum-of-death.json) |
@@ -9958,6 +9959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Treasure Planet | 144084 | [144084-disneys-treasure-planet.json](./144084-disneys-treasure-planet.json) |
 | Disney's Treasure Planet | 19248 | [19248-disneys-treasure-planet.json](./19248-disneys-treasure-planet.json) |
 | Disney's Treasure Planet | 49202 | [49202-disneys-treasure-planet.json](./49202-disneys-treasure-planet.json) |
+| Disney's Treasure Planet: Battle at Procyon | 36190 | [36190-disneys-treasure-planet-battle-at-procyon.json](./36190-disneys-treasure-planet-battle-at-procyon.json) |
 | Disney's Treasure Planet: Broadside Blast | 213035 | [213035-disneys-treasure-planet-broadside-blast.json](./213035-disneys-treasure-planet-broadside-blast.json) |
 | Disney's Treasure Planet: Etherium Rescue | 213037 | [213037-disneys-treasure-planet-etherium-rescue.json](./213037-disneys-treasure-planet-etherium-rescue.json) |
 | Disney's Treasure Planet: Treasure Racer | 213025 | [213025-disneys-treasure-planet-treasure-racer.json](./213025-disneys-treasure-planet-treasure-racer.json) |
