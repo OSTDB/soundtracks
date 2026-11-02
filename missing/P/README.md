@@ -15110,6 +15110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Phantom | 77411 | [77411-project-phantom.json](./77411-project-phantom.json) |
 | Project Phoenix | 311219 | [311219-project-phoenix.json](./311219-project-phoenix.json) |
 | Project Phoenix | 7204 | [7204-project-phoenix.json](./7204-project-phoenix.json) |
+| Project Picori | 400582 | [400582-project-picori.json](./400582-project-picori.json) |
 | Project Plainsight | 122787 | [122787-project-plainsight.json](./122787-project-plainsight.json) |
 | Project Planet: Earth Vs. Humanity | 236394 | [236394-project-planet-earth-vs-humanity.json](./236394-project-planet-earth-vs-humanity.json) |
 | Project Playtime: Phase 3 - Forsaken | 271727 | [271727-project-playtime-phase-3-forsaken.json](./271727-project-playtime-phase-3-forsaken.json) |
