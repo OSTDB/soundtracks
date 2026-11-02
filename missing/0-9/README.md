@@ -1246,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1942: Joint Strike Elefunk | 99980 | [99980-1942-joint-strike-elefunk.json](./99980-1942-joint-strike-elefunk.json) |
 | 1942: Pacific Air War | 47006 | [47006-1942-pacific-air-war.json](./47006-1942-pacific-air-war.json) |
 | 1942: The Henan Famine | 124213 | [124213-1942-the-henan-famine.json](./124213-1942-the-henan-famine.json) |
+| 1942: The Pacific Air War | 2374 | [2374-1942-the-pacific-air-war.json](./2374-1942-the-pacific-air-war.json) |
 | 1943 Berlin Blitz | 110705 | [110705-1943-berlin-blitz.json](./110705-1943-berlin-blitz.json) |
 | 1943 Deadly Desert | 101450 | [101450-1943-deadly-desert.json](./101450-1943-deadly-desert.json) |
 | 1943 Kai: Midway Kaisen | 39865 | [39865-1943-kai-midway-kaisen.json](./39865-1943-kai-midway-kaisen.json) |
