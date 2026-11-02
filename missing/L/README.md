@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Law Law Land | 127693 | [127693-law-law-land.json](./127693-law-law-land.json) |
 | Law Mower | 41933 | [41933-law-mower.json](./41933-law-mower.json) |
 | Law of Creation 2 | 193935 | [193935-law-of-creation-2.json](./193935-law-of-creation-2.json) |
+| Law of Demons | 412081 | [412081-law-of-demons.json](./412081-law-of-demons.json) |
 | Law of Dispute | 295393 | [295393-law-of-dispute.json](./295393-law-of-dispute.json) |
 | Law of Life | 126203 | [126203-law-of-life.json](./126203-law-of-life.json) |
 | Law of the West | 26259 | [26259-law-of-the-west.json](./26259-law-of-the-west.json) |
@@ -3241,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemony Snicket's A Series of Unfortunate Events | 248492 | [248492-lemony-snickets-a-series-of-unfortunate-events.json](./248492-lemony-snickets-a-series-of-unfortunate-events.json) |
 | Lemony Snicket's A Series of Unfortunate Events | 248493 | [248493-lemony-snickets-a-series-of-unfortunate-events.json](./248493-lemony-snickets-a-series-of-unfortunate-events.json) |
 | Lempo | 214175 | [214175-lempo.json](./214175-lempo.json) |
+| Lemris | 412099 | [412099-lemris.json](./412099-lemris.json) |
 | Lems | 102975 | [102975-lems.json](./102975-lems.json) |
 | Lemure | 25417 | [25417-lemure.json](./25417-lemure.json) |
 | Lemures Blue's 2 A.M. | 137068 | [137068-lemures-blues-2-a-m.json](./137068-lemures-blues-2-a-m.json) |
@@ -3890,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leviathan | 229696 | [229696-leviathan.json](./229696-leviathan.json) |
 | Leviathan | 341320 | [341320-leviathan.json](./341320-leviathan.json) |
 | Leviathan | 36865 | [36865-leviathan.json](./36865-leviathan.json) |
+| Leviathan | 413381 | [413381-leviathan.json](./413381-leviathan.json) |
 | Leviathan ~A Survival RPG~ | 106649 | [106649-leviathan-a-survival-rpg.json](./106649-leviathan-a-survival-rpg.json) |
 | Leviathan Dawn | 185018 | [185018-leviathan-dawn.json](./185018-leviathan-dawn.json) |
 | Leviathan Starblade | 30695 | [30695-leviathan-starblade.json](./30695-leviathan-starblade.json) |
