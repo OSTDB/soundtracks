@@ -4773,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aigor Escape from Bishop | 127825 | [127825-aigor-escape-from-bishop.json](./127825-aigor-escape-from-bishop.json) |
 | AIII S.V.: Take the A-Train 3 S.V. | 42301 | [42301-aiii-s-v-take-the-a-train-3-s-v.json](./42301-aiii-s-v-take-the-a-train-3-s-v.json) |
 | Aik's Cheese Adventures | 98712 | [98712-aiks-cheese-adventures.json](./98712-aiks-cheese-adventures.json) |
+| Aika Online | 23534 | [23534-aika-online.json](./23534-aika-online.json) |
 | Aikagi | 127116 | [127116-aikagi.json](./127116-aikagi.json) |
 | Aikagi 2 | 127934 | [127934-aikagi-2.json](./127934-aikagi-2.json) |
 | Aikagi 2: Limited Edition | 166226 | [166226-aikagi-2-limited-edition.json](./166226-aikagi-2-limited-edition.json) |
@@ -11277,6 +11278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arat | 208207 | [208207-arat.json](./208207-arat.json) |
 | Arata Haunted Asylum | 216669 | [216669-arata-haunted-asylum.json](./216669-arata-haunted-asylum.json) |
 | Arauco Saga | 112672 | [112672-arauco-saga.json](./112672-arauco-saga.json) |
+| Araya | 23914 | [23914-araya.json](./23914-araya.json) |
 | Arazok's Tomb | 14264 | [14264-arazoks-tomb.json](./14264-arazoks-tomb.json) |
 | ARB: Anomalous Research Bureau - Museum | 402499 | [402499-arb-anomalous-research-bureau-museum.json](./402499-arb-anomalous-research-bureau-museum.json) |
 | Arbalest 3035 | 58651 | [58651-arbalest-3035.json](./58651-arbalest-3035.json) |
@@ -14013,6 +14015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphalt 3D | 6746 | [6746-asphalt-3d.json](./6746-asphalt-3d.json) |
 | Asphalt 4: Elite Racing | 221067 | [221067-asphalt-4-elite-racing.json](./221067-asphalt-4-elite-racing.json) |
 | Asphalt 4: Elite Racing | 23296 | [23296-asphalt-4-elite-racing.json](./23296-asphalt-4-elite-racing.json) |
+| Asphalt 5 | 23303 | [23303-asphalt-5.json](./23303-asphalt-5.json) |
 | Asphalt 6: Adrenaline | 23304 | [23304-asphalt-6-adrenaline.json](./23304-asphalt-6-adrenaline.json) |
 | Asphalt 7: Heat | 23305 | [23305-asphalt-7-heat.json](./23305-asphalt-7-heat.json) |
 | Asphalt 9 Legends Arcade | 242473 | [242473-asphalt-9-legends-arcade.json](./242473-asphalt-9-legends-arcade.json) |
