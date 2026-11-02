@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valsa das Macaúbas | 350905 | [350905-valsa-das-macaubas.json](./350905-valsa-das-macaubas.json) |
 | Valthazar's Sanctum | 266306 | [266306-valthazars-sanctum.json](./266306-valthazars-sanctum.json) |
 | Valthirian Arc | 347033 | [347033-valthirian-arc.json](./347033-valthirian-arc.json) |
+| Valthirian Arc: Hero School Story | 104975 | [104975-valthirian-arc-hero-school-story.json](./104975-valthirian-arc-hero-school-story.json) |
 | Valthirian Arc: Hero School Story 2 | 163873 | [163873-valthirian-arc-hero-school-story-2.json](./163873-valthirian-arc-hero-school-story-2.json) |
 | Valtica | 413509 | [413509-valtica.json](./413509-valtica.json) |
 | Valtric | 39995 | [39995-valtric.json](./39995-valtric.json) |
