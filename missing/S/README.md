@@ -3790,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Leaves | 128275 | [128275-sea-of-leaves.json](./128275-sea-of-leaves.json) |
 | Sea of Legends | 183803 | [183803-sea-of-legends.json](./183803-sea-of-legends.json) |
 | Sea of Lies: Beneath the Surface | 91240 | [91240-sea-of-lies-beneath-the-surface.json](./91240-sea-of-lies-beneath-the-surface.json) |
+| Sea of Lies: Beneath the Surface - Collector's Edition | 416506 | [416506-sea-of-lies-beneath-the-surface-collectors-edition.json](./416506-sea-of-lies-beneath-the-surface-collectors-edition.json) |
 | Sea of Lies: Burning Coast | 98434 | [98434-sea-of-lies-burning-coast.json](./98434-sea-of-lies-burning-coast.json) |
 | Sea of Lies: Burning Coast - Collector's Edition | 83554 | [83554-sea-of-lies-burning-coast-collectors-edition.json](./83554-sea-of-lies-burning-coast-collectors-edition.json) |
 | Sea of Lies: Burning Coast HD | 99325 | [99325-sea-of-lies-burning-coast-hd.json](./99325-sea-of-lies-burning-coast-hd.json) |
@@ -4349,6 +4350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Deep Earth Shrine | 33282 | [33282-secrets-of-deep-earth-shrine.json](./33282-secrets-of-deep-earth-shrine.json) |
 | Secrets of Egypt | 163866 | [163866-secrets-of-egypt.json](./163866-secrets-of-egypt.json) |
 | Secrets of Great Art | 206627 | [206627-secrets-of-great-art.json](./206627-secrets-of-great-art.json) |
+| Secrets of Great Queens: Old Tower - Collector's Edition | 416508 | [416508-secrets-of-great-queens-old-tower-collectors-edition.json](./416508-secrets-of-great-queens-old-tower-collectors-edition.json) |
 | Secrets of Grindea | 8436 | [8436-secrets-of-grindea.json](./8436-secrets-of-grindea.json) |
 | Secrets of Magic 2: Witches and Wizards | 68599 | [68599-secrets-of-magic-2-witches-and-wizards.json](./68599-secrets-of-magic-2-witches-and-wizards.json) |
 | Secrets of Magic: The Book of Spells | 33245 | [33245-secrets-of-magic-the-book-of-spells.json](./33245-secrets-of-magic-the-book-of-spells.json) |
@@ -4359,6 +4361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Paradise: Merge | 341395 | [341395-secrets-of-paradise-merge.json](./341395-secrets-of-paradise-merge.json) |
 | Secrets of Rætikon | 8276 | [8276-secrets-of-r-tikon.json](./8276-secrets-of-r-tikon.json) |
 | Secrets of Salem: Shadow of the Witch - Collector's Edition | 341022 | [341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json](./341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json) |
+| Secrets of Salem: The Phantom Cab | 416534 | [416534-secrets-of-salem-the-phantom-cab.json](./416534-secrets-of-salem-the-phantom-cab.json) |
 | Secrets of Salem: The Phantom Cab - Collector's Edition | 355027 | [355027-secrets-of-salem-the-phantom-cab-collectors-edition.json](./355027-secrets-of-salem-the-phantom-cab-collectors-edition.json) |
 | Secrets of Salem: The Phantom Cab DLC | 377112 | [377112-secrets-of-salem-the-phantom-cab-dlc.json](./377112-secrets-of-salem-the-phantom-cab-dlc.json) |
 | Secrets of Shadows | 310246 | [310246-secrets-of-shadows.json](./310246-secrets-of-shadows.json) |
@@ -5689,6 +5692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Knights: Time Wanderer - Splendid Union Costume Set | 237930 | [237930-seven-knights-time-wanderer-splendid-union-costume-set.json](./237930-seven-knights-time-wanderer-splendid-union-costume-set.json) |
 | Seven Little Spider Kittens | 276175 | [276175-seven-little-spider-kittens.json](./276175-seven-little-spider-kittens.json) |
 | Seven Lovers in the House | 371912 | [371912-seven-lovers-in-the-house.json](./371912-seven-lovers-in-the-house.json) |
+| Seven Minutes in the Closet | 416543 | [416543-seven-minutes-in-the-closet.json](./416543-seven-minutes-in-the-closet.json) |
 | Seven Mortal Sins X-Tasy | 174741 | [174741-seven-mortal-sins-x-tasy.json](./174741-seven-mortal-sins-x-tasy.json) |
 | Seven Mysteries | 80506 | [80506-seven-mysteries.json](./80506-seven-mysteries.json) |
 | Seven Mysteries: The Last Page | 86461 | [86461-seven-mysteries-the-last-page.json](./86461-seven-mysteries-the-last-page.json) |
@@ -7041,6 +7045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Island | 385792 | [385792-shark-island.json](./385792-shark-island.json) |
 | Shark Jaws | 18202 | [18202-shark-jaws.json](./18202-shark-jaws.json) |
 | Shark Mart | 402445 | [402445-shark-mart.json](./402445-shark-mart.json) |
+| Shark Mountain | 416516 | [416516-shark-mountain.json](./416516-shark-mountain.json) |
 | Shark or Die | 61105 | [61105-shark-or-die.json](./61105-shark-or-die.json) |
 | Shark Pinball | 165614 | [165614-shark-pinball.json](./165614-shark-pinball.json) |
 | Shark Rain | 235427 | [235427-shark-rain.json](./235427-shark-rain.json) |
@@ -7076,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharks! In Space?! | 178840 | [178840-sharks-in-space.json](./178840-sharks-in-space.json) |
 | SharkSketch | 60576 | [60576-sharksketch.json](./60576-sharksketch.json) |
 | Sharkstorm | 297606 | [297606-sharkstorm.json](./297606-sharkstorm.json) |
+| Sharky Attack | 416527 | [416527-sharky-attack.json](./416527-sharky-attack.json) |
 | Sharp | 107729 | [107729-sharp.json](./107729-sharp.json) |
 | Sharp Minds | 240835 | [240835-sharp-minds.json](./240835-sharp-minds.json) |
 | Sharp Shooter | 213884 | [213884-sharp-shooter.json](./213884-sharp-shooter.json) |
@@ -9028,6 +9034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrine | 132241 | [132241-shrine.json](./132241-shrine.json) |
 | Shrine For the Gods of Lost Things | 141628 | [141628-shrine-for-the-gods-of-lost-things.json](./141628-shrine-for-the-gods-of-lost-things.json) |
 | Shrine II | 135474 | [135474-shrine-ii.json](./135474-shrine-ii.json) |
+| Shrine Labyrinth | 415815 | [415815-shrine-labyrinth.json](./415815-shrine-labyrinth.json) |
 | Shrine of Haunts | 347336 | [347336-shrine-of-haunts.json](./347336-shrine-of-haunts.json) |
 | Shrine of Tails | 192763 | [192763-shrine-of-tails.json](./192763-shrine-of-tails.json) |
 | Shrine of the Forest God | 333463 | [333463-shrine-of-the-forest-god.json](./333463-shrine-of-the-forest-god.json) |
@@ -9809,6 +9816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Iron | 94866 | [94866-silent-iron.json](./94866-silent-iron.json) |
 | Silent Island | 181595 | [181595-silent-island.json](./181595-silent-island.json) |
 | Silent Love | 237794 | [237794-silent-love.json](./237794-silent-love.json) |
+| Silent Mainland | 415809 | [415809-silent-mainland.json](./415809-silent-mainland.json) |
 | Silent Mementos | 372191 | [372191-silent-mementos.json](./372191-silent-mementos.json) |
 | Silent Mobius | 64742 | [64742-silent-mobius.json](./64742-silent-mobius.json) |
 | Silent Möbius | 401739 | [401739-silent-mobius.json](./401739-silent-mobius.json) |
@@ -15112,6 +15120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokko Seitokai: Sonic Council | 165073 | [165073-sokko-seitokai-sonic-council.json](./165073-sokko-seitokai-sonic-council.json) |
 | Sokkqer | 182173 | [182173-sokkqer.json](./182173-sokkqer.json) |
 | Soko | 239459 | [239459-soko.json](./239459-soko.json) |
+| Soko | 415200 | [415200-soko.json](./415200-soko.json) |
 | Soko Banana | 333712 | [333712-soko-banana.json](./333712-soko-banana.json) |
 | Soko Loco | 129576 | [129576-soko-loco.json](./129576-soko-loco.json) |
 | Soko Loco Deluxe | 115328 | [115328-soko-loco-deluxe.json](./115328-soko-loco-deluxe.json) |
@@ -18399,7 +18408,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20661,6 +20669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit City: Lofi Sessions - All Aboard! | 363005 | [363005-spirit-city-lofi-sessions-all-aboard.json](./363005-spirit-city-lofi-sessions-all-aboard.json) |
 | Spirit City: Lofi Sessions - Cozy Kitchen | 325655 | [325655-spirit-city-lofi-sessions-cozy-kitchen.json](./325655-spirit-city-lofi-sessions-cozy-kitchen.json) |
 | Spirit City: Lofi Sessions - Enchanted Garden | 395742 | [395742-spirit-city-lofi-sessions-enchanted-garden.json](./395742-spirit-city-lofi-sessions-enchanted-garden.json) |
+| Spirit City: Lofi Sessions - Magical Library | 416522 | [416522-spirit-city-lofi-sessions-magical-library.json](./416522-spirit-city-lofi-sessions-magical-library.json) |
 | Spirit City: Lofi Sessions - Supporter Pack | 378592 | [378592-spirit-city-lofi-sessions-supporter-pack.json](./378592-spirit-city-lofi-sessions-supporter-pack.json) |
 | Spirit City: Lofi Sessions - Winter Spirit Cosmetics Pack | 378591 | [378591-spirit-city-lofi-sessions-winter-spirit-cosmetics-pack.json](./378591-spirit-city-lofi-sessions-winter-spirit-cosmetics-pack.json) |
 | Spirit Clash | 149877 | [149877-spirit-clash.json](./149877-spirit-clash.json) |
@@ -20708,6 +20717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of Revenge: Florry's Well | 426449 | [426449-spirit-of-revenge-florrys-well.json](./426449-spirit-of-revenge-florrys-well.json) |
 | Spirit of Revenge: Florry's Well - Collector's Edition | 426448 | [426448-spirit-of-revenge-florrys-well-collectors-edition.json](./426448-spirit-of-revenge-florrys-well-collectors-edition.json) |
 | Spirit of Revenge: Gem Fury | 53652 | [53652-spirit-of-revenge-gem-fury.json](./53652-spirit-of-revenge-gem-fury.json) |
+| Spirit of Revenge: Gem Fury - Collector's Edition | 416510 | [416510-spirit-of-revenge-gem-fury-collectors-edition.json](./416510-spirit-of-revenge-gem-fury-collectors-edition.json) |
 | Spirit of the Ancient Forest | 43081 | [43081-spirit-of-the-ancient-forest.json](./43081-spirit-of-the-ancient-forest.json) |
 | Spirit of the Backwaters | 248076 | [248076-spirit-of-the-backwaters.json](./248076-spirit-of-the-backwaters.json) |
 | Spirit of the Blade | 151480 | [151480-spirit-of-the-blade.json](./151480-spirit-of-the-blade.json) |
@@ -22392,6 +22402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ball | 84472 | [84472-star-ball.json](./84472-star-ball.json) |
 | Star Balls | 35370 | [35370-star-balls.json](./35370-star-balls.json) |
 | Star Battalion | 203231 | [203231-star-battalion.json](./203231-star-battalion.json) |
+| Star Battle | 415797 | [415797-star-battle.json](./415797-star-battle.json) |
 | Star Beads | 329007 | [329007-star-beads.json](./329007-star-beads.json) |
 | Star Beasts: Meteor Version | 227920 | [227920-star-beasts-meteor-version.json](./227920-star-beasts-meteor-version.json) |
 | Star Billions | 56999 | [56999-star-billions.json](./56999-star-billions.json) |
@@ -23603,6 +23614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
 | Stark Tower Defense | 256093 | [256093-stark-tower-defense.json](./256093-stark-tower-defense.json) |
 | Starkid's Obstacle Course | 111199 | [111199-starkids-obstacle-course.json](./111199-starkids-obstacle-course.json) |
+| Starl 11: The Fog Loop | 415819 | [415819-starl-11-the-fog-loop.json](./415819-starl-11-the-fog-loop.json) |
 | Starl Metaverse Project | 229284 | [229284-starl-metaverse-project.json](./229284-starl-metaverse-project.json) |
 | StarL2 | 274570 | [274570-starl2.json](./274570-starl2.json) |
 | Starlab | 258721 | [258721-starlab.json](./258721-starlab.json) |
@@ -26173,6 +26185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Bakery | 409789 | [409789-stream-bakery.json](./409789-stream-bakery.json) |
 | Stream Basketball | 371836 | [371836-stream-basketball.json](./371836-stream-basketball.json) |
 | Stream Battlecards | 130703 | [130703-stream-battlecards.json](./130703-stream-battlecards.json) |
+| Stream Clicker | 416552 | [416552-stream-clicker.json](./416552-stream-clicker.json) |
 | Stream Defense | 239208 | [239208-stream-defense.json](./239208-stream-defense.json) |
 | Stream Defense Protocol | 343302 | [343302-stream-defense-protocol.json](./343302-stream-defense-protocol.json) |
 | Stream Dogfighter | 137357 | [137357-stream-dogfighter.json](./137357-stream-dogfighter.json) |
@@ -26270,6 +26283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Combat Fighting | 386541 | [386541-street-combat-fighting.json](./386541-street-combat-fighting.json) |
 | Street Cop | 48236 | [48236-street-cop.json](./48236-street-cop.json) |
 | Street Corner Heartbeat Snaps | 416070 | [416070-street-corner-heartbeat-snaps.json](./416070-street-corner-heartbeat-snaps.json) |
+| Street Cred Boxing | 415807 | [415807-street-cred-boxing.json](./415807-street-cred-boxing.json) |
 | Street Cred Football | 71471 | [71471-street-cred-football.json](./71471-street-cred-football.json) |
 | Street Cricket Champions | 194275 | [194275-street-cricket-champions.json](./194275-street-cricket-champions.json) |
 | Street Cricket Champions 2 | 269505 | [269505-street-cricket-champions-2.json](./269505-street-cricket-champions-2.json) |
@@ -30344,6 +30358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball: Step & Roll | 5201 | [5201-super-monkey-ball-step-and-roll.json](./5201-super-monkey-ball-step-and-roll.json) |
 | Super Monkey Ball: Ticket Blitz | 64184 | [64184-super-monkey-ball-ticket-blitz.json](./64184-super-monkey-ball-ticket-blitz.json) |
 | Super Monkey Ball: Tip 'n Tilt | 336925 | [336925-super-monkey-ball-tip-n-tilt.json](./336925-super-monkey-ball-tip-n-tilt.json) |
+| Super Monkey Ball: Tip 'n Tilt 2 | 415723 | [415723-super-monkey-ball-tip-n-tilt-2.json](./415723-super-monkey-ball-tip-n-tilt-2.json) |
 | Super Monkey Disco Ball | 383780 | [383780-super-monkey-disco-ball.json](./383780-super-monkey-disco-ball.json) |
 | Super Monkie Bounce Fatal | 252809 | [252809-super-monkie-bounce-fatal.json](./252809-super-monkie-bounce-fatal.json) |
 | Super Monster | 101108 | [101108-super-monster.json](./101108-super-monster.json) |
@@ -32412,6 +32427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Gun | 181867 | [181867-sushi-gun.json](./181867-sushi-gun.json) |
 | Sushi Lick | 402686 | [402686-sushi-lick.json](./402686-sushi-lick.json) |
 | Sushi Loop | 409770 | [409770-sushi-loop.json](./409770-sushi-loop.json) |
+| Sushi Mahjong | 415818 | [415818-sushi-mahjong.json](./415818-sushi-mahjong.json) |
 | Sushi Master VR | 134938 | [134938-sushi-master-vr.json](./134938-sushi-master-vr.json) |
 | Sushi Monster | 327994 | [327994-sushi-monster.json](./327994-sushi-monster.json) |
 | Sushi Neko | 185429 | [185429-sushi-neko.json](./185429-sushi-neko.json) |
