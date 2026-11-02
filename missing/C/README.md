@@ -6075,6 +6075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Strikes Back | 338511 | [338511-chef-strikes-back.json](./338511-chef-strikes-back.json) |
 | Chef Survivor | 258569 | [258569-chef-survivor.json](./258569-chef-survivor.json) |
 | Chef Town | 257007 | [257007-chef-town.json](./257007-chef-town.json) |
+| Chef Umami | 87497 | [87497-chef-umami.json](./87497-chef-umami.json) |
 | Chef Wanted | 232665 | [232665-chef-wanted.json](./232665-chef-wanted.json) |
 | Chef Wars | 102115 | [102115-chef-wars.json](./102115-chef-wars.json) |
 | Chef Wars Journeys | 102855 | [102855-chef-wars-journeys.json](./102855-chef-wars-journeys.json) |
@@ -17764,6 +17765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Shifu | 174492 | [174492-cube-shifu.json](./174492-cube-shifu.json) |
 | Cube Smash | 129087 | [129087-cube-smash.json](./129087-cube-smash.json) |
 | Cube Snake | 318968 | [318968-cube-snake.json](./318968-cube-snake.json) |
+| Cube Snap | 88964 | [88964-cube-snap.json](./88964-cube-snap.json) |
 | Cube Snap 2 | 86882 | [86882-cube-snap-2.json](./86882-cube-snap-2.json) |
 | Cube Solver | 231961 | [231961-cube-solver.json](./231961-cube-solver.json) |
 | Cube Space | 163195 | [163195-cube-space.json](./163195-cube-space.json) |
