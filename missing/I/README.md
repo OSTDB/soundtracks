@@ -4188,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside My Friend's Mind | 314143 | [314143-inside-my-friends-mind.json](./314143-inside-my-friends-mind.json) |
 | Inside My Mind | 149090 | [149090-inside-my-mind.json](./149090-inside-my-mind.json) |
 | Inside My Mind 2 | 226851 | [226851-inside-my-mind-2.json](./226851-inside-my-mind-2.json) |
+| Inside My Radio | 35535 | [35535-inside-my-radio.json](./35535-inside-my-radio.json) |
 | Inside My Radio - Deluxe | 53233 | [53233-inside-my-radio-deluxe.json](./53233-inside-my-radio-deluxe.json) |
 | Inside My Radio: Digital Deluxe Edition | 54127 | [54127-inside-my-radio-digital-deluxe-edition.json](./54127-inside-my-radio-digital-deluxe-edition.json) |
 | Inside Out | 175936 | [175936-inside-out.json](./175936-inside-out.json) |
@@ -6379,6 +6380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Izanami | 294262 | [294262-izanami.json](./294262-izanami.json) |
 | Izanami's Dream Battle | 30822 | [30822-izanamis-dream-battle.json](./30822-izanamis-dream-battle.json) |
 | IzanamiYako | 348212 | [348212-izanamiyako.json](./348212-izanamiyako.json) |
+| Izbot | 34774 | [34774-izbot.json](./34774-izbot.json) |
 | Izel's Observatory | 182082 | [182082-izels-observatory.json](./182082-izels-observatory.json) |
 | Izeriya | 32938 | [32938-izeriya.json](./32938-izeriya.json) |
 | Izgub 2001 | 309910 | [309910-izgub-2001.json](./309910-izgub-2001.json) |
