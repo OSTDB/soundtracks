@@ -887,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Normal Day at a Normal Beach | 420476 | [420476-a-normal-day-at-a-normal-beach.json](./420476-a-normal-day-at-a-normal-beach.json) |
 | A Normal Home in Ohio | 256730 | [256730-a-normal-home-in-ohio.json](./256730-a-normal-home-in-ohio.json) |
 | A Normal Lost Phone | 27024 | [27024-a-normal-lost-phone.json](./27024-a-normal-lost-phone.json) |
+| A Normal Quiz Game Where You Try to Solve Questions but the Questions Have Tricks and Gimmicks and if You Get Them Wrong You Have to Beat a Wacky Punishment but They Are Kinda Fun So You Lowkey Wanna Do Them Even if It Means Getting the Question Wrong. | 417742 | [417742-a-normal-quiz-game-where-you-try-to-solve-questions-but-the-questions-have-tricks-and-gimmicks-and-if-you-get-them-wrong-you-have-to-beat-a-wacky-punishment-but-they-are-kinda-fun-so-you-lowkey-wanna-do-them-even-if-it-means-getting-the-question-wrong.json](./417742-a-normal-quiz-game-where-you-try-to-solve-questions-but-the-questions-have-tricks-and-gimmicks-and-if-you-get-them-wrong-you-have-to-beat-a-wacky-punishment-but-they-are-kinda-fun-so-you-lowkey-wanna-do-them-even-if-it-means-getting-the-question-wrong.json) |
 | A Normal Survey | 393794 | [393794-a-normal-survey.json](./393794-a-normal-survey.json) |
 | A Number's Life | 30397 | [30397-a-numbers-life.json](./30397-a-numbers-life.json) |
 | A Nutritious Boyfriend | 265472 | [265472-a-nutritious-boyfriend.json](./265472-a-nutritious-boyfriend.json) |
@@ -1167,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Street Story | 98317 | [98317-a-street-story.json](./98317-a-street-story.json) |
 | A Stroke of Fate: Operation Bunker | 35155 | [35155-a-stroke-of-fate-operation-bunker.json](./35155-a-stroke-of-fate-operation-bunker.json) |
 | A Stroll in Space | 102026 | [102026-a-stroll-in-space.json](./102026-a-stroll-in-space.json) |
+| A Studied Seduction | 417213 | [417213-a-studied-seduction.json](./417213-a-studied-seduction.json) |
 | A Study in Blue | 386249 | [386249-a-study-in-blue.json](./386249-a-study-in-blue.json) |
 | A Study in Steampunk: Choice by Gaslight | 34030 | [34030-a-study-in-steampunk-choice-by-gaslight.json](./34030-a-study-in-steampunk-choice-by-gaslight.json) |
 | A Stupid Game About Pouring Drinks for the P.T.A. | 387502 | [387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json](./387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json) |
@@ -3173,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Kick Challenge | 379477 | [379477-advanced-kick-challenge.json](./379477-advanced-kick-challenge.json) |
 | Advanced Lord Monarch | 130548 | [130548-advanced-lord-monarch.json](./130548-advanced-lord-monarch.json) |
 | Advanced NetWars | 78001 | [78001-advanced-netwars.json](./78001-advanced-netwars.json) |
+| Advanced Ninja | 417803 | [417803-advanced-ninja.json](./417803-advanced-ninja.json) |
 | Advanced Pasta Cooking Simulator | 215766 | [215766-advanced-pasta-cooking-simulator.json](./215766-advanced-pasta-cooking-simulator.json) |
 | Advanced PET 2 | 353148 | [353148-advanced-pet-2.json](./353148-advanced-pet-2.json) |
 | Advanced PET Battle Chip - GutsMan DS | 354040 | [354040-advanced-pet-battle-chip-gutsman-ds.json](./354040-advanced-pet-battle-chip-gutsman-ds.json) |
@@ -8440,6 +8443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Aware Guy in the Past | 185621 | [185621-an-aware-guy-in-the-past.json](./185621-an-aware-guy-in-the-past.json) |
 | An Easter to Remember | 375298 | [375298-an-easter-to-remember.json](./375298-an-easter-to-remember.json) |
 | An Easy Lay | 178476 | [178476-an-easy-lay.json](./178476-an-easy-lay.json) |
+| An Ecospace of Epochs | 417210 | [417210-an-ecospace-of-epochs.json](./417210-an-ecospace-of-epochs.json) |
 | An Egg Can Dream | 126923 | [126923-an-egg-can-dream.json](./126923-an-egg-can-dream.json) |
 | An Elaborate History of Chess | 250293 | [250293-an-elaborate-history-of-chess.json](./250293-an-elaborate-history-of-chess.json) |
 | An Elder Scrolls Legend: Battlespire | 54 | [54-an-elder-scrolls-legend-battlespire.json](./54-an-elder-scrolls-legend-battlespire.json) |
@@ -13669,6 +13673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifact Seeker: DLC 1 - The Legacy of Mortia | 314624 | [314624-artifact-seeker-dlc-1-the-legacy-of-mortia.json](./314624-artifact-seeker-dlc-1-the-legacy-of-mortia.json) |
 | Artifact Seeker: Legend of Aurorium | 260298 | [260298-artifact-seeker-legend-of-aurorium.json](./260298-artifact-seeker-legend-of-aurorium.json) |
 | Artifact Seekers | 366306 | [366306-artifact-seekers.json](./366306-artifact-seekers.json) |
+| Artifact: 3D Puzzle | 417199 | [417199-artifact-3d-puzzle.json](./417199-artifact-3d-puzzle.json) |
 | Artifacting | 151608 | [151608-artifacting.json](./151608-artifacting.json) |
 | Artifacto | 180103 | [180103-artifacto.json](./180103-artifacto.json) |
 | Artifacts | 52352 | [52352-artifacts.json](./52352-artifacts.json) |
@@ -13721,6 +13726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artillery Duel | 12241 | [12241-artillery-duel.json](./12241-artillery-duel.json) |
 | Artillery Globe | 112696 | [112696-artillery-globe.json](./112696-artillery-globe.json) |
 | Artillery Live | 234693 | [234693-artillery-live.json](./234693-artillery-live.json) |
+| Artillery Miner | 417810 | [417810-artillery-miner.json](./417810-artillery-miner.json) |
 | Artillery Royale | 145532 | [145532-artillery-royale.json](./145532-artillery-royale.json) |
 | Artillery: Knights vs. Orcs | 84975 | [84975-artillery-knights-vs-orcs.json](./84975-artillery-knights-vs-orcs.json) |
 | Artis Impact | 197038 | [197038-artis-impact.json](./197038-artis-impact.json) |
