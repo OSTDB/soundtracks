@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden Fighters Jet | 8860 | [8860-raiden-fighters-jet.json](./8860-raiden-fighters-jet.json) |
 | Raiden Fighters Jet Remix | 394656 | [394656-raiden-fighters-jet-remix.json](./394656-raiden-fighters-jet-remix.json) |
 | Raiden Fighters Remix | 394652 | [394652-raiden-fighters-remix.json](./394652-raiden-fighters-remix.json) |
+| Raiden Fighters Remix Collection | 393026 | [393026-raiden-fighters-remix-collection.json](./393026-raiden-fighters-remix-collection.json) |
 | Raiden II | 8855 | [8855-raiden-ii.json](./8855-raiden-ii.json) |
 | Raiden III | 8856 | [8856-raiden-iii.json](./8856-raiden-iii.json) |
 | Raiden III x Mikado Maniax | 225770 | [225770-raiden-iii-x-mikado-maniax.json](./225770-raiden-iii-x-mikado-maniax.json) |
@@ -1259,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Fish Goes to College | 305138 | [305138-rainbow-fish-goes-to-college.json](./305138-rainbow-fish-goes-to-college.json) |
 | Rainbow Fish: The Most beautiful Fish in the Ocean | 235358 | [235358-rainbow-fish-the-most-beautiful-fish-in-the-ocean.json](./235358-rainbow-fish-the-most-beautiful-fish-in-the-ocean.json) |
 | Rainbow Friends: Hide 'N Seek | 262695 | [262695-rainbow-friends-hide-n-seek.json](./262695-rainbow-friends-hide-n-seek.json) |
+| Rainbow Gate | 388404 | [388404-rainbow-gate.json](./388404-rainbow-gate.json) |
 | Rainbow Heart Farewell | 181693 | [181693-rainbow-heart-farewell.json](./181693-rainbow-heart-farewell.json) |
 | Rainbow Heights Academy: Year 1 | 212141 | [212141-rainbow-heights-academy-year-1.json](./212141-rainbow-heights-academy-year-1.json) |
 | Rainbow Hero | 35906 | [35906-rainbow-hero.json](./35906-rainbow-hero.json) |
@@ -7747,6 +7749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River City Ransom | 6558 | [6558-river-city-ransom.json](./6558-river-city-ransom.json) |
 | River City Ransom EX | 24135 | [24135-river-city-ransom-ex.json](./24135-river-city-ransom-ex.json) |
 | River City Renegade | 42427 | [42427-river-city-renegade.json](./42427-river-city-renegade.json) |
+| River City Saga: Journey to the West | 387579 | [387579-river-city-saga-journey-to-the-west.json](./387579-river-city-saga-journey-to-the-west.json) |
 | River City Saga: Three Kingdoms Next | 321749 | [321749-river-city-saga-three-kingdoms-next.json](./321749-river-city-saga-three-kingdoms-next.json) |
 | River City Super Sports Challenge | 47973 | [47973-river-city-super-sports-challenge.json](./47973-river-city-super-sports-challenge.json) |
 | River City Super Sports Challenge: All Stars Special | 36210 | [36210-river-city-super-sports-challenge-all-stars-special.json](./36210-river-city-super-sports-challenge-all-stars-special.json) |
