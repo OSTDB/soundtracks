@@ -1308,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ventomori | 347051 | [347051-ventomori.json](./347051-ventomori.json) |
 | Ventreville: A Cure for Sorrow | 313981 | [313981-ventreville-a-cure-for-sorrow.json](./313981-ventreville-a-cure-for-sorrow.json) |
 | Venturaka | 381327 | [381327-venturaka.json](./381327-venturaka.json) |
+| Venture | 5703 | [5703-venture.json](./5703-venture.json) |
 | Venture | 94741 | [94741-venture.json](./94741-venture.json) |
 | Venture Arctic | 66707 | [66707-venture-arctic.json](./66707-venture-arctic.json) |
 | Venture Forth | 32087 | [32087-venture-forth.json](./32087-venture-forth.json) |
