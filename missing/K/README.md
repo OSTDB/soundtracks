@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalpa: Cosmic Symphony | 292295 | [292295-kalpa-cosmic-symphony.json](./292295-kalpa-cosmic-symphony.json) |
 | Kalpa: Cosmic Symphony - Camellia Pack | 397712 | [397712-kalpa-cosmic-symphony-camellia-pack.json](./397712-kalpa-cosmic-symphony-camellia-pack.json) |
 | Kalpa: Cosmic Symphony - Cosmic Edition | 411101 | [411101-kalpa-cosmic-symphony-cosmic-edition.json](./411101-kalpa-cosmic-symphony-cosmic-edition.json) |
+| Kalpa: Cosmic Symphony - Fourth Forte Pack | 416521 | [416521-kalpa-cosmic-symphony-fourth-forte-pack.json](./416521-kalpa-cosmic-symphony-fourth-forte-pack.json) |
 | Kalpa: Cosmic Symphony - Mass Recall Omega Pack | 397595 | [397595-kalpa-cosmic-symphony-mass-recall-omega-pack.json](./397595-kalpa-cosmic-symphony-mass-recall-omega-pack.json) |
 | Kalpa: Cosmic Symphony - Origin Vol. 1 | 405002 | [405002-kalpa-cosmic-symphony-origin-vol-1.json](./405002-kalpa-cosmic-symphony-origin-vol-1.json) |
 | Kalpa: Cosmic Symphony - Origin Vol. 2 Pack | 405003 | [405003-kalpa-cosmic-symphony-origin-vol-2-pack.json](./405003-kalpa-cosmic-symphony-origin-vol-2-pack.json) |
@@ -2031,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick the Buddy: Remastered | 212447 | [212447-kick-the-buddy-remastered.json](./212447-kick-the-buddy-remastered.json) |
 | Kick the Buddy: Second Kick | 230417 | [230417-kick-the-buddy-second-kick.json](./230417-kick-the-buddy-second-kick.json) |
 | Kick the Buddymann | 100846 | [100846-kick-the-buddymann.json](./100846-kick-the-buddymann.json) |
+| Kick the Piñata! | 415333 | [415333-kick-the-pinata.json](./415333-kick-the-pinata.json) |
 | Kick the Puppet | 112486 | [112486-kick-the-puppet.json](./112486-kick-the-puppet.json) |
 | Kick the Sumo-Smash the Buddy | 106084 | [106084-kick-the-sumo-smash-the-buddy.json](./106084-kick-the-sumo-smash-the-buddy.json) |
 | Kick the Virus | 369905 | [369905-kick-the-virus.json](./369905-kick-the-virus.json) |
@@ -2670,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2831,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King and Assassins | 175230 | [175230-king-and-assassins.json](./175230-king-and-assassins.json) |
 | King and Assassins: The Board Game | 106907 | [106907-king-and-assassins-the-board-game.json](./106907-king-and-assassins-the-board-game.json) |
 | King and Country | 151148 | [151148-king-and-country.json](./151148-king-and-country.json) |
+| King and Curse | 416548 | [416548-king-and-curse.json](./416548-king-and-curse.json) |
 | King and Kingdoms | 149687 | [149687-king-and-kingdoms.json](./149687-king-and-kingdoms.json) |
 | King Arthur | 3967 | [3967-king-arthur.json](./3967-king-arthur.json) |
 | King Arthur | 78534 | [78534-king-arthur.json](./78534-king-arthur.json) |
@@ -5959,7 +5963,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuukiyomi 2: Consider It More! - New Era | 135640 | [135640-kuukiyomi-2-consider-it-more-new-era.json](./135640-kuukiyomi-2-consider-it-more-new-era.json) |
 | Kuukiyomi 3: Consider It More and More!! - Father to Son | 147060 | [147060-kuukiyomi-3-consider-it-more-and-more-father-to-son.json](./147060-kuukiyomi-3-consider-it-more-and-more-father-to-son.json) |
 | Kuukiyomi 4: Consider It | 324139 | [324139-kuukiyomi-4-consider-it.json](./324139-kuukiyomi-4-consider-it.json) |
+| Kuukiyomi 4: Consider It - Dire Situations DLC | 415718 | [415718-kuukiyomi-4-consider-it-dire-situations-dlc.json](./415718-kuukiyomi-4-consider-it-dire-situations-dlc.json) |
 | Kuukiyomi 4: Consider It - Nintendo Switch 2 Edition | 378813 | [378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json](./378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json) |
+| Kuukiyomi 4: Consider It + "Dire Situations" DLC | 415719 | [415719-kuukiyomi-4-consider-it-dire-situations-dlc.json](./415719-kuukiyomi-4-consider-it-dire-situations-dlc.json) |
 | Kuukiyomi: Consider It! Online | 187529 | [187529-kuukiyomi-consider-it-online.json](./187529-kuukiyomi-consider-it-online.json) |
 | Kuura in the Snowglobe | 114689 | [114689-kuura-in-the-snowglobe.json](./114689-kuura-in-the-snowglobe.json) |
 | Kuuruu Kenmonroku | 263134 | [263134-kuuruu-kenmonroku.json](./263134-kuuruu-kenmonroku.json) |
