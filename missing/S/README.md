@@ -6169,6 +6169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow | 180611 | [180611-shadow.json](./180611-shadow.json) |
 | Shadow | 286061 | [286061-shadow.json](./286061-shadow.json) |
 | Shadow | 324309 | [324309-shadow.json](./324309-shadow.json) |
+| Shadow & Steel | 405825 | [405825-shadow-and-steel.json](./405825-shadow-and-steel.json) |
 | Shadow Alchemist | 340602 | [340602-shadow-alchemist.json](./340602-shadow-alchemist.json) |
 | Shadow Among Nove | 297218 | [297218-shadow-among-nove.json](./297218-shadow-among-nove.json) |
 | Shadow and Bone: Enter the Fold | 204448 | [204448-shadow-and-bone-enter-the-fold.json](./204448-shadow-and-bone-enter-the-fold.json) |
@@ -6470,6 +6471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow X Dash: Ring Collector | 104461 | [104461-shadow-x-dash-ring-collector.json](./104461-shadow-x-dash-ring-collector.json) |
 | Shadow XS | 197600 | [197600-shadow-xs.json](./197600-shadow-xs.json) |
 | Shadow Zone | 259393 | [259393-shadow-zone.json](./259393-shadow-zone.json) |
+| Shadow: A Parable of Sappho | 405843 | [405843-shadow-a-parable-of-sappho.json](./405843-shadow-a-parable-of-sappho.json) |
 | Shadow: Treachery Cannot Be Tolerated | 90309 | [90309-shadow-treachery-cannot-be-tolerated.json](./90309-shadow-treachery-cannot-be-tolerated.json) |
 | Shadow: Treachery Cannot Be Tolerated - Episode 2: Retaliation | 171950 | [171950-shadow-treachery-cannot-be-tolerated-episode-2-retaliation.json](./171950-shadow-treachery-cannot-be-tolerated-episode-2-retaliation.json) |
 | Shadow: War of Succession | 4325 | [4325-shadow-war-of-succession.json](./4325-shadow-war-of-succession.json) |
@@ -7244,7 +7246,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Keeps Me Damn Alive | 350542 | [350542-she-keeps-me-damn-alive.json](./350542-she-keeps-me-damn-alive.json) |
 | She Never Left | 416718 | [416718-she-never-left.json](./416718-she-never-left.json) |
 | She Plays Dirty | 393569 | [393569-she-plays-dirty.json](./393569-she-plays-dirty.json) |
-| She Remembered Caterpillars | 26808 | [26808-she-remembered-caterpillars.json](./26808-she-remembered-caterpillars.json) |
 | She Save | 50511 | [50511-she-save.json](./50511-she-save.json) |
 | She Sees Red | 118645 | [118645-she-sees-red.json](./118645-she-sees-red.json) |
 | She Sings, but She’s Not a Skylark, Not Even a Nightingale. | 412445 | [412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json](./412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json) |
@@ -25379,6 +25380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Heroes | 197963 | [197963-still-heroes.json](./197963-still-heroes.json) |
 | Still House | 366887 | [366887-still-house.json](./366887-still-house.json) |
 | Still Hunt | 266332 | [266332-still-hunt.json](./266332-still-hunt.json) |
+| Still in the Fog | 405830 | [405830-still-in-the-fog.json](./405830-still-in-the-fog.json) |
 | Still It Runs | 350527 | [350527-still-it-runs.json](./350527-still-it-runs.json) |
 | Still Joking | 221425 | [221425-still-joking.json](./221425-still-joking.json) |
 | Still Life | 6175 | [6175-still-life.json](./6175-still-life.json) |
@@ -27031,7 +27033,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
 | Struggle: Antaresian Legacy | 141565 | [141565-struggle-antaresian-legacy.json](./141565-struggle-antaresian-legacy.json) |
 | Struggler | 347056 | [347056-struggler.json](./347056-struggler.json) |
-| Struggling | 115624 | [115624-struggling.json](./115624-struggling.json) |
 | Strum | 285159 | [285159-strum.json](./285159-strum.json) |
 | Strung Up By Sketches | 340267 | [340267-strung-up-by-sketches.json](./340267-strung-up-by-sketches.json) |
 | Stryfe - The Everlasting Battle | 39136 | [39136-stryfe-the-everlasting-battle.json](./39136-stryfe-the-everlasting-battle.json) |
@@ -28203,7 +28204,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Photo Album | 201440 | [201440-summer-photo-album.json](./201440-summer-photo-album.json) |
 | Summer Pleasure | 210876 | [210876-summer-pleasure.json](./210876-summer-pleasure.json) |
 | Summer Pockets | 87682 | [87682-summer-pockets.json](./87682-summer-pockets.json) |
-| Summer Pockets Reflection Blue | 127571 | [127571-summer-pockets-reflection-blue.json](./127571-summer-pockets-reflection-blue.json) |
 | Summer Pop | 296790 | [296790-summer-pop.json](./296790-summer-pop.json) |
 | Summer Pop!+ | 296791 | [296791-summer-pop.json](./296791-summer-pop.json) |
 | Summer Puzzles | 226200 | [226200-summer-puzzles.json](./226200-summer-puzzles.json) |
