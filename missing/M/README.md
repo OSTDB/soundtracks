@@ -5605,7 +5605,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7285,6 +7284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man NT Warrior: Battle Chip - WideShot1 | 352839 | [352839-mega-man-nt-warrior-battle-chip-wideshot1.json](./352839-mega-man-nt-warrior-battle-chip-wideshot1.json) |
 | Mega Man Perfect Blue | 132024 | [132024-mega-man-perfect-blue.json](./132024-mega-man-perfect-blue.json) |
 | Mega Man Perfect Harmony | 210481 | [210481-mega-man-perfect-harmony.json](./210481-mega-man-perfect-harmony.json) |
+| Mega Man Pinball | 401678 | [401678-mega-man-pinball.json](./401678-mega-man-pinball.json) |
 | Mega Man Polarity Reconstruction | 210483 | [210483-mega-man-polarity-reconstruction.json](./210483-mega-man-polarity-reconstruction.json) |
 | Mega Man Powered Up | 12937 | [12937-mega-man-powered-up.json](./12937-mega-man-powered-up.json) |
 | Mega Man Ram | 209252 | [209252-mega-man-ram.json](./209252-mega-man-ram.json) |
@@ -9392,6 +9392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Mission | 21424 | [21424-meteor-mission.json](./21424-meteor-mission.json) |
 | Meteor Raiders | 353796 | [353796-meteor-raiders.json](./353796-meteor-raiders.json) |
 | Meteor Rain | 179053 | [179053-meteor-rain.json](./179053-meteor-rain.json) |
+| Meteor Rush | 401588 | [401588-meteor-rush.json](./401588-meteor-rush.json) |
 | Meteor Shower | 306668 | [306668-meteor-shower.json](./306668-meteor-shower.json) |
 | Meteor Shower | 319029 | [319029-meteor-shower.json](./319029-meteor-shower.json) |
 | Meteor Storm | 159754 | [159754-meteor-storm.json](./159754-meteor-storm.json) |
@@ -12175,6 +12176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniGolf Mania | 33237 | [33237-minigolf-mania.json](./33237-minigolf-mania.json) |
 | Minigolf Maniacs | 209219 | [209219-minigolf-maniacs.json](./209219-minigolf-maniacs.json) |
 | Minigolf Party | 182200 | [182200-minigolf-party.json](./182200-minigolf-party.json) |
+| Minigolf Rush | 401563 | [401563-minigolf-rush.json](./401563-minigolf-rush.json) |
 | Minigolf the Game | 66598 | [66598-minigolf-the-game.json](./66598-minigolf-the-game.json) |
 | MiniGolf Tour | 165603 | [165603-minigolf-tour.json](./165603-minigolf-tour.json) |
 | Minigolf VR | 34356 | [34356-minigolf-vr.json](./34356-minigolf-vr.json) |
@@ -19627,6 +19629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Neighbor Enide | 295630 | [295630-my-neighbor-enide.json](./295630-my-neighbor-enide.json) |
 | My Neighbor is a Yandere?! | 143062 | [143062-my-neighbor-is-a-yandere.json](./143062-my-neighbor-is-a-yandere.json) |
 | My Neighbor Neko | 232630 | [232630-my-neighbor-neko.json](./232630-my-neighbor-neko.json) |
+| My Neighbor Stinks | 401573 | [401573-my-neighbor-stinks.json](./401573-my-neighbor-stinks.json) |
 | My Neighbor's Lonely Wife | 389632 | [389632-my-neighbors-lonely-wife.json](./389632-my-neighbors-lonely-wife.json) |
 | My Neighbor's Lonely Wife 2 | 379889 | [379889-my-neighbors-lonely-wife-2.json](./379889-my-neighbors-lonely-wife-2.json) |
 | My Neighborhood Arcade | 153503 | [153503-my-neighborhood-arcade.json](./153503-my-neighborhood-arcade.json) |
