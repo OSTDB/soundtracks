@@ -2530,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Pet Robot | 102895 | [102895-virtual-pet-robot.json](./102895-virtual-pet-robot.json) |
 | Virtual Pet Tiger | 105669 | [105669-virtual-pet-tiger.json](./105669-virtual-pet-tiger.json) |
 | Virtual Pet Unicorn | 88151 | [88151-virtual-pet-unicorn.json](./88151-virtual-pet-unicorn.json) |
+| Virtual Pinball | 4458 | [4458-virtual-pinball.json](./4458-virtual-pinball.json) |
 | Virtual Pirate VR | 98697 | [98697-virtual-pirate-vr.json](./98697-virtual-pirate-vr.json) |
 | Virtual Pool | 20739 | [20739-virtual-pool.json](./20739-virtual-pool.json) |
 | Virtual Pool 2 | 71362 | [71362-virtual-pool-2.json](./71362-virtual-pool-2.json) |
