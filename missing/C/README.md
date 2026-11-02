@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesars Palace | 206697 | [206697-caesars-palace.json](./206697-caesars-palace.json) |
 | Caesars Palace | 206698 | [206698-caesars-palace.json](./206698-caesars-palace.json) |
 | Caesars Palace | 365687 | [365687-caesars-palace.json](./365687-caesars-palace.json) |
+| Caesars Palace | 4597 | [4597-caesars-palace.json](./4597-caesars-palace.json) |
 | Caesars Palace 2000: Millennium Gold Edition | 45807 | [45807-caesars-palace-2000-millennium-gold-edition.json](./45807-caesars-palace-2000-millennium-gold-edition.json) |
 | Caesars Palace 64 | 297465 | [297465-caesars-palace-64.json](./297465-caesars-palace-64.json) |
 | Caesars Palace Advance: Millenium Gold Edition | 49161 | [49161-caesars-palace-advance-millenium-gold-edition.json](./49161-caesars-palace-advance-millenium-gold-edition.json) |
@@ -845,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caller of the Crows | 348857 | [348857-caller-of-the-crows.json](./348857-caller-of-the-crows.json) |
 | Caller's Bane | 2600 | [2600-callers-bane.json](./2600-callers-bane.json) |
 | Calling | 403030 | [403030-calling.json](./403030-calling.json) |
+| Calling | 4742 | [4742-calling.json](./4742-calling.json) |
 | Calling All Cars! | 20701 | [20701-calling-all-cars.json](./20701-calling-all-cars.json) |
 | Calling All Mixels | 61143 | [61143-calling-all-mixels.json](./61143-calling-all-mixels.json) |
 | Calling Card | 297564 | [297564-calling-card.json](./297564-calling-card.json) |
@@ -1760,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Planet | 198714 | [198714-captain-planet.json](./198714-captain-planet.json) |
 | Captain Planet | 69790 | [69790-captain-planet.json](./69790-captain-planet.json) |
 | Captain Planet and the Planeteers | 11991 | [11991-captain-planet-and-the-planeteers.json](./11991-captain-planet-and-the-planeteers.json) |
+| Captain Planet and the Planeteers | 4384 | [4384-captain-planet-and-the-planeteers.json](./4384-captain-planet-and-the-planeteers.json) |
 | Captain Planet and the Robots of Zarm | 417539 | [417539-captain-planet-and-the-robots-of-zarm.json](./417539-captain-planet-and-the-robots-of-zarm.json) |
 | Captain Pogo | 399917 | [399917-captain-pogo.json](./399917-captain-pogo.json) |
 | Captain Power and the Soldiers of the Future | 84294 | [84294-captain-power-and-the-soldiers-of-the-future.json](./84294-captain-power-and-the-soldiers-of-the-future.json) |
@@ -5377,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Motocross featuring Ricky Carmichael | 44830 | [44830-championship-motocross-featuring-ricky-carmichael.json](./44830-championship-motocross-featuring-ricky-carmichael.json) |
 | Championship Pool | 307111 | [307111-championship-pool.json](./307111-championship-pool.json) |
 | Championship Pool | 307113 | [307113-championship-pool.json](./307113-championship-pool.json) |
+| Championship Pool | 4538 | [4538-championship-pool.json](./4538-championship-pool.json) |
 | Championship Pro-Am | 46228 | [46228-championship-pro-am.json](./46228-championship-pro-am.json) |
 | Championship Rally | 250300 | [250300-championship-rally.json](./250300-championship-rally.json) |
 | Championship Rugby Manager | 71223 | [71223-championship-rugby-manager.json](./71223-championship-rugby-manager.json) |
@@ -16106,6 +16110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Crime: Sniper Mission | 220163 | [220163-crimson-crime-sniper-mission.json](./220163-crimson-crime-sniper-mission.json) |
 | Crimson Defense | 95226 | [95226-crimson-defense.json](./95226-crimson-defense.json) |
 | Crimson Desert: Charting the Unknown | 416102 | [416102-crimson-desert-charting-the-unknown.json](./416102-crimson-desert-charting-the-unknown.json) |
+| Crimson Dragon | 4757 | [4757-crimson-dragon.json](./4757-crimson-dragon.json) |
 | Crimson Dragon Side Story | 79815 | [79815-crimson-dragon-side-story.json](./79815-crimson-dragon-side-story.json) |
 | Crimson Earth | 28945 | [28945-crimson-earth.json](./28945-crimson-earth.json) |
 | Crimson Earth 2 | 74682 | [74682-crimson-earth-2.json](./74682-crimson-earth-2.json) |
