@@ -2020,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Rider | 39512 | [39512-kick-rider.json](./39512-kick-rider.json) |
 | Kick Start | 40340 | [40340-kick-start.json](./40340-kick-start.json) |
 | Kick the Anime Simulator | 111354 | [111354-kick-the-anime-simulator.json](./111354-kick-the-anime-simulator.json) |
+| Kick the Ball | 419771 | [419771-kick-the-ball.json](./419771-kick-the-ball.json) |
 | Kick the Boss's Ass | 301977 | [301977-kick-the-bosss-ass.json](./301977-kick-the-bosss-ass.json) |
 | Kick the Brick | 103937 | [103937-kick-the-brick.json](./103937-kick-the-brick.json) |
 | Kick the Buddy | 23924 | [23924-kick-the-buddy.json](./23924-kick-the-buddy.json) |
@@ -3601,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby and the Forgotten Land | 208400 | [208400-kirby-and-the-forgotten-land.json](./208400-kirby-and-the-forgotten-land.json) |
 | Kirby and the Forgotten Land: Nintendo Switch 2 Edition + Star-Crossed World | 338074 | [338074-kirby-and-the-forgotten-land-nintendo-switch-2-edition-star-crossed-world.json](./338074-kirby-and-the-forgotten-land-nintendo-switch-2-edition-star-crossed-world.json) |
 | Kirby and the Rainbow Curse | 7338 | [7338-kirby-and-the-rainbow-curse.json](./7338-kirby-and-the-rainbow-curse.json) |
+| Kirby and the World Beyond | 417186 | [417186-kirby-and-the-world-beyond.json](./417186-kirby-and-the-world-beyond.json) |
 | Kirby Battle Blitz! | 278474 | [278474-kirby-battle-blitz.json](./278474-kirby-battle-blitz.json) |
 | Kirby Bowl 64 | 298858 | [298858-kirby-bowl-64.json](./298858-kirby-bowl-64.json) |
 | Kirby Family | 248070 | [248070-kirby-family.json](./248070-kirby-family.json) |
