@@ -12477,6 +12477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Valley | 171490 | [171490-the-lost-valley.json](./171490-the-lost-valley.json) |
 | The Lost Valley | 252295 | [252295-the-lost-valley.json](./252295-the-lost-valley.json) |
 | The Lost Valley | 35429 | [35429-the-lost-valley.json](./35429-the-lost-valley.json) |
+| The Lost Vikings | 144423 | [144423-the-lost-vikings.json](./144423-the-lost-vikings.json) |
 | The Lost Vikings | 214736 | [214736-the-lost-vikings.json](./214736-the-lost-vikings.json) |
 | The Lost Vikings | 214769 | [214769-the-lost-vikings.json](./214769-the-lost-vikings.json) |
 | The Lost Vikings | 454 | [454-the-lost-vikings.json](./454-the-lost-vikings.json) |
