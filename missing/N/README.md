@@ -5913,6 +5913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturne of Steel | 107893 | [107893-nocturne-of-steel.json](./107893-nocturne-of-steel.json) |
 | Nocturne: Prelude | 129986 | [129986-nocturne-prelude.json](./129986-nocturne-prelude.json) |
 | NocturneRecomp | 408841 | [408841-nocturnerecomp.json](./408841-nocturnerecomp.json) |
+| Nocturnis | 414027 | [414027-nocturnis.json](./414027-nocturnis.json) |
 | Nocturnous | 128149 | [128149-nocturnous.json](./128149-nocturnous.json) |
 | Nod | 184700 | [184700-nod.json](./184700-nod.json) |
 | Nod If You Can Hear Me | 177824 | [177824-nod-if-you-can-hear-me.json](./177824-nod-if-you-can-hear-me.json) |
@@ -6572,6 +6573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Not 2: A Brain Challenge - Platinum Edition | 378856 | [378856-not-not-2-a-brain-challenge-platinum-edition.json](./378856-not-not-2-a-brain-challenge-platinum-edition.json) |
 | Not Not: A Brain Buster | 117957 | [117957-not-not-a-brain-buster.json](./117957-not-not-a-brain-buster.json) |
 | Not Not: Zunou Taikyuu Game | 222266 | [222266-not-not-zunou-taikyuu-game.json](./222266-not-not-zunou-taikyuu-game.json) |
+| Not Now, Aliens! | 414074 | [414074-not-now-aliens.json](./414074-not-now-aliens.json) |
 | Not of This World | 177722 | [177722-not-of-this-world.json](./177722-not-of-this-world.json) |
 | Not Only Nine | 243672 | [243672-not-only-nine.json](./243672-not-only-nine.json) |
 | Not Our Home 2 | 156649 | [156649-not-our-home-2.json](./156649-not-our-home-2.json) |
