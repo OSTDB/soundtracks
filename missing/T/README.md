@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito Memories II Joukan | 72948 | [72948-taito-memories-ii-joukan.json](./72948-taito-memories-ii-joukan.json) |
 | Taito Memories Joukan | 72791 | [72791-taito-memories-joukan.json](./72791-taito-memories-joukan.json) |
 | Taito Memories Pocket | 71784 | [71784-taito-memories-pocket.json](./71784-taito-memories-pocket.json) |
+| Taito Milestones | 153212 | [153212-taito-milestones.json](./153212-taito-milestones.json) |
 | Taito Milestones 2 | 249737 | [249737-taito-milestones-2.json](./249737-taito-milestones-2.json) |
 | Taito Milestones 3 | 319646 | [319646-taito-milestones-3.json](./319646-taito-milestones-3.json) |
 | Taito Milestones 4 | 382959 | [382959-taito-milestones-4.json](./382959-taito-milestones-4.json) |
@@ -7133,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cozy Garden of Forgotten Dreams | 347303 | [347303-the-cozy-garden-of-forgotten-dreams.json](./347303-the-cozy-garden-of-forgotten-dreams.json) |
 | The Crab-Hat | 421813 | [421813-the-crab-hat.json](./421813-the-crab-hat.json) |
 | The Crack of Doom | 70056 | [70056-the-crack-of-doom.json](./70056-the-crack-of-doom.json) |
+| The Crackpet Show | 154039 | [154039-the-crackpet-show.json](./154039-the-crackpet-show.json) |
 | The Crackpet Show: Happy Tree Friends Edition | 262228 | [262228-the-crackpet-show-happy-tree-friends-edition.json](./262228-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Crackpet Show: Happy Tree Friends Edition | 291998 | [291998-the-crackpet-show-happy-tree-friends-edition.json](./291998-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Cracks of Fire | 12948 | [12948-the-cracks-of-fire.json](./12948-the-cracks-of-fire.json) |
@@ -13944,6 +13946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pilgrimage I | 112899 | [112899-the-pilgrimage-i.json](./112899-the-pilgrimage-i.json) |
 | The Pillage | 75219 | [75219-the-pillage.json](./75219-the-pillage.json) |
 | The Pillagers of Raillore | 137096 | [137096-the-pillagers-of-raillore.json](./137096-the-pillagers-of-raillore.json) |
+| The Pillar | 122364 | [122364-the-pillar.json](./122364-the-pillar.json) |
 | The Pillar of Amala | 140764 | [140764-the-pillar-of-amala.json](./140764-the-pillar-of-amala.json) |
 | The Pillar: Puzzle Escape | 146579 | [146579-the-pillar-puzzle-escape.json](./146579-the-pillar-puzzle-escape.json) |
 | The Pillars of the Damned | 271340 | [271340-the-pillars-of-the-damned.json](./271340-the-pillars-of-the-damned.json) |
@@ -18829,6 +18832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This War of Mine: Complete Edition | 111817 | [111817-this-war-of-mine-complete-edition.json](./111817-this-war-of-mine-complete-edition.json) |
 | This War of Mine: Final Cut | 199168 | [199168-this-war-of-mine-final-cut.json](./199168-this-war-of-mine-final-cut.json) |
 | This War of Mine: Forget Celebrations | 323204 | [323204-this-war-of-mine-forget-celebrations.json](./323204-this-war-of-mine-forget-celebrations.json) |
+| This War of Mine: Stories - Fading Embers | 155079 | [155079-this-war-of-mine-stories-fading-embers.json](./155079-this-war-of-mine-stories-fading-embers.json) |
 | This War of Mine: Stories - Father's Promise | 75871 | [75871-this-war-of-mine-stories-fathers-promise.json](./75871-this-war-of-mine-stories-fathers-promise.json) |
 | This War of Mine: Stories - Season Pass | 75872 | [75872-this-war-of-mine-stories-season-pass.json](./75872-this-war-of-mine-stories-season-pass.json) |
 | This War of Mine: Stories - The Last Broadcast | 111646 | [111646-this-war-of-mine-stories-the-last-broadcast.json](./111646-this-war-of-mine-stories-the-last-broadcast.json) |
@@ -22798,6 +22802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together: Amna & Saif | 51678 | [51678-together-amna-and-saif.json](./51678-together-amna-and-saif.json) |
 | Together: Moon Escape | 366607 | [366607-together-moon-escape.json](./366607-together-moon-escape.json) |
 | Together: To Get Her | 121408 | [121408-together-to-get-her.json](./121408-together-to-get-her.json) |
+| Toggle | 156714 | [156714-toggle.json](./156714-toggle.json) |
 | Togglebot | 387707 | [387707-togglebot.json](./387707-togglebot.json) |
 | Togo Dave | 79027 | [79027-togo-dave.json](./79027-togo-dave.json) |
 | Togum | 225182 | [225182-togum.json](./225182-togum.json) |
