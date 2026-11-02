@@ -3444,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screen VR | 121596 | [121596-screen-vr.json](./121596-screen-vr.json) |
 | Screen Wonders | 297211 | [297211-screen-wonders.json](./297211-screen-wonders.json) |
 | Screenbound | 293733 | [293733-screenbound.json](./293733-screenbound.json) |
+| ScreenCade | 411232 | [411232-screencade.json](./411232-screencade.json) |
 | Screencheat | 8816 | [8816-screencheat.json](./8816-screencheat.json) |
 | ScreenPlay | 188603 | [188603-screenplay.json](./188603-screenplay.json) |
 | Screenplay in Autumn | 392757 | [392757-screenplay-in-autumn.json](./392757-screenplay-in-autumn.json) |
@@ -5892,6 +5893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Monsters for Sex Motel | 288886 | [288886-sex-monsters-for-sex-motel.json](./288886-sex-monsters-for-sex-motel.json) |
 | Sex Motel | 288885 | [288885-sex-motel.json](./288885-sex-motel.json) |
 | Sex Novel: Cheating Wife | 418852 | [418852-sex-novel-cheating-wife.json](./418852-sex-novel-cheating-wife.json) |
+| Sex Novel: Cheating Wife 2 | 411242 | [411242-sex-novel-cheating-wife-2.json](./411242-sex-novel-cheating-wife-2.json) |
 | Sex Novel: Swingers Villa | 417821 | [417821-sex-novel-swingers-villa.json](./417821-sex-novel-swingers-villa.json) |
 | Sex Novel: Swingers Yacht | 389755 | [389755-sex-novel-swingers-yacht.json](./389755-sex-novel-swingers-yacht.json) |
 | Sex Office Story | 171580 | [171580-sex-office-story.json](./171580-sex-office-story.json) |
@@ -15135,6 +15137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokkqer | 182173 | [182173-sokkqer.json](./182173-sokkqer.json) |
 | Soko | 239459 | [239459-soko.json](./239459-soko.json) |
 | Soko | 415200 | [415200-soko.json](./415200-soko.json) |
+| SOKO 1977: Anti-Terror Task Force | 411267 | [411267-soko-1977-anti-terror-task-force.json](./411267-soko-1977-anti-terror-task-force.json) |
 | Soko Banana | 333712 | [333712-soko-banana.json](./333712-soko-banana.json) |
 | Soko Loco | 129576 | [129576-soko-loco.json](./129576-soko-loco.json) |
 | Soko Loco Deluxe | 115328 | [115328-soko-loco-deluxe.json](./115328-soko-loco-deluxe.json) |
@@ -21049,6 +21052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spoils of War | 257768 | [257768-spoils-of-war.json](./257768-spoils-of-war.json) |
 | Spoko and Poko | 35395 | [35395-spoko-and-poko.json](./35395-spoko-and-poko.json) |
 | Spolous Ex | 182920 | [182920-spolous-ex.json](./182920-spolous-ex.json) |
+| Spolous II | 411278 | [411278-spolous-ii.json](./411278-spolous-ii.json) |
 | Sponchies | 68603 | [68603-sponchies.json](./68603-sponchies.json) |
 | Sponge Art | 223910 | [223910-sponge-art.json](./223910-sponge-art.json) |
 | Sponge Bridges | 423887 | [423887-sponge-bridges.json](./423887-sponge-bridges.json) |
