@@ -1534,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhawk | 371272 | [371272-warhawk.json](./371272-warhawk.json) |
 | Warhawk | 7479 | [7479-warhawk.json](./7479-warhawk.json) |
 | Warhawk: Operation Fallen Star | 21871 | [21871-warhawk-operation-fallen-star.json](./21871-warhawk-operation-fallen-star.json) |
+| Warhawk: Operation Omega Dawn | 22533 | [22533-warhawk-operation-omega-dawn.json](./22533-warhawk-operation-omega-dawn.json) |
 | Warhead | 396769 | [396769-warhead.json](./396769-warhead.json) |
 | Warhead | 85799 | [85799-warhead.json](./85799-warhead.json) |
 | Warhead Circus | 383028 | [383028-warhead-circus.json](./383028-warhead-circus.json) |
@@ -7050,6 +7051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Pirate | 64854 | [64854-word-pirate.json](./64854-word-pirate.json) |
 | Word Play | 344825 | [344825-word-play.json](./344825-word-play.json) |
 | Word Puttz | 361232 | [361232-word-puttz.json](./361232-word-puttz.json) |
+| Word Puzzle | 21913 | [21913-word-puzzle.json](./21913-word-puzzle.json) |
 | Word Puzzle Quiz | 88436 | [88436-word-puzzle-quiz.json](./88436-word-puzzle-quiz.json) |
 | Word Puzzles by Powgi: Deluxe Edition | 140414 | [140414-word-puzzles-by-powgi-deluxe-edition.json](./140414-word-puzzles-by-powgi-deluxe-edition.json) |
 | Word Quest | 266062 | [266062-word-quest.json](./266062-word-quest.json) |
@@ -7877,6 +7879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Simulator 3 | 275415 | [275415-world-simulator-3.json](./275415-world-simulator-3.json) |
 | World Slayer | 28490 | [28490-world-slayer.json](./28490-world-slayer.json) |
 | World Snooker Challenge 2007 | 42848 | [42848-world-snooker-challenge-2007.json](./42848-world-snooker-challenge-2007.json) |
+| World Snooker Championship 2005 | 22292 | [22292-world-snooker-championship-2005.json](./22292-world-snooker-championship-2005.json) |
 | World Snooker Championship 2007 | 7248 | [7248-world-snooker-championship-2007.json](./7248-world-snooker-championship-2007.json) |
 | World Snooker Championship: Season 2007-08 | 64994 | [64994-world-snooker-championship-season-2007-08.json](./64994-world-snooker-championship-season-2007-08.json) |
 | World Soccer | 119441 | [119441-world-soccer.json](./119441-world-soccer.json) |
