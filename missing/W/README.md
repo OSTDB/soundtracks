@@ -2693,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Belong Dead | 406217 | [406217-we-belong-dead.json](./406217-we-belong-dead.json) |
 | We Bowling?! | 335052 | [335052-we-bowling.json](./335052-we-bowling.json) |
 | We Build Below | 361760 | [361760-we-build-below.json](./361760-we-build-below.json) |
+| We Build Cabins | 414715 | [414715-we-build-cabins.json](./414715-we-build-cabins.json) |
 | We Can Make It | 216485 | [216485-we-can-make-it.json](./216485-we-can-make-it.json) |
 | We Can Smell It (maybe) | 376632 | [376632-we-can-smell-it-maybe.json](./376632-we-can-smell-it-maybe.json) |
 | We can't get through the zombies | 81720 | [81720-we-cant-get-through-the-zombies.json](./81720-we-cant-get-through-the-zombies.json) |
@@ -4341,6 +4342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Day VR: The Courage Test | 150390 | [150390-white-day-vr-the-courage-test.json](./150390-white-day-vr-the-courage-test.json) |
 | White Desert | 256973 | [256973-white-desert.json](./256973-white-desert.json) |
 | White Diamond | 82509 | [82509-white-diamond.json](./82509-white-diamond.json) |
+| White Dwarf | 414689 | [414689-white-dwarf.json](./414689-white-dwarf.json) |
 | White Eternal | 314870 | [314870-white-eternal.json](./314870-white-eternal.json) |
 | White Eyes | 166719 | [166719-white-eyes.json](./166719-white-eyes.json) |
 | White Girl | 165598 | [165598-white-girl.json](./165598-white-girl.json) |
@@ -8475,6 +8477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath Rally | 184934 | [184934-wrath-rally.json](./184934-wrath-rally.json) |
 | Wrath: Aeon of Ruin | 115873 | [115873-wrath-aeon-of-ruin.json](./115873-wrath-aeon-of-ruin.json) |
 | Wrath: Aeon of Ruin VR - Brutal Edition | 313772 | [313772-wrath-aeon-of-ruin-vr-brutal-edition.json](./313772-wrath-aeon-of-ruin-vr-brutal-edition.json) |
+| Wrathline | 414738 | [414738-wrathline.json](./414738-wrathline.json) |
 | WRC 10 | 145735 | [145735-wrc-10.json](./145735-wrc-10.json) |
 | WRC 10: Deluxe Edition | 169202 | [169202-wrc-10-deluxe-edition.json](./169202-wrc-10-deluxe-edition.json) |
 | WRC 2: FIA World Rally Championship | 9393 | [9393-wrc-2-fia-world-rally-championship.json](./9393-wrc-2-fia-world-rally-championship.json) |
