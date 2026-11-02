@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XIII | 1987 | [1987-xiii.json](./1987-xiii.json) |
 | XIII Century: Blood of Europe | 9311 | [9311-xiii-century-blood-of-europe.json](./9311-xiii-century-blood-of-europe.json) |
 | XIII Century: Death or Glory | 9860 | [9860-xiii-century-death-or-glory.json](./9860-xiii-century-death-or-glory.json) |
+| XIII Century: Gold Edition | 27847 | [27847-xiii-century-gold-edition.json](./27847-xiii-century-gold-edition.json) |
 | XIII: Lost Identity | 53101 | [53101-xiii-lost-identity.json](./53101-xiii-lost-identity.json) |
 | XIIZeal | 35573 | [35573-xiizeal.json](./35573-xiizeal.json) |
 | Xile | 54731 | [54731-xile.json](./54731-xile.json) |
