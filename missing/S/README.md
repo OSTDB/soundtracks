@@ -4469,6 +4469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sedap! A Culinary Adventure | 273429 | [273429-sedap-a-culinary-adventure.json](./273429-sedap-a-culinary-adventure.json) |
 | Sedecktion | 297213 | [297213-sedecktion.json](./297213-sedecktion.json) |
 | Sedecordle | 194881 | [194881-sedecordle.json](./194881-sedecordle.json) |
+| Sediment | 420957 | [420957-sediment.json](./420957-sediment.json) |
 | Seditionis: Crutarch Royale | 178201 | [178201-seditionis-crutarch-royale.json](./178201-seditionis-crutarch-royale.json) |
 | Sedomairi | 159706 | [159706-sedomairi.json](./159706-sedomairi.json) |
 | Seduce a SuicideGirl | 245176 | [245176-seduce-a-suicidegirl.json](./245176-seduce-a-suicidegirl.json) |
@@ -19865,6 +19866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Casting: Purrfectly Portable Edition | 119541 | [119541-spell-casting-purrfectly-portable-edition.json](./119541-spell-casting-purrfectly-portable-edition.json) |
 | Spell Castle | 84181 | [84181-spell-castle.json](./84181-spell-castle.json) |
 | Spell Circle Mage | 387960 | [387960-spell-circle-mage.json](./387960-spell-circle-mage.json) |
+| Spell Code SlingerZ | 420931 | [420931-spell-code-slingerz.json](./420931-spell-code-slingerz.json) |
 | Spell Crisis | 192697 | [192697-spell-crisis.json](./192697-spell-crisis.json) |
 | Spell Dash | 174320 | [174320-spell-dash.json](./174320-spell-dash.json) |
 | Spell Death | 419606 | [419606-spell-death.json](./419606-spell-death.json) |
@@ -32385,6 +32387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Shot | 283228 | [283228-sushi-shot.json](./283228-sushi-shot.json) |
 | Sushi Simulator | 389924 | [389924-sushi-simulator.json](./389924-sushi-simulator.json) |
 | Sushi Slammers | 149254 | [149254-sushi-slammers.json](./149254-sushi-slammers.json) |
+| Sushi Slayer | 420939 | [420939-sushi-slayer.json](./420939-sushi-slayer.json) |
 | Sushi Sort | 255762 | [255762-sushi-sort.json](./255762-sushi-sort.json) |
 | Sushi Soul Universe | 264026 | [264026-sushi-soul-universe.json](./264026-sushi-soul-universe.json) |
 | Sushi Striker: The Way of Sushido | 37179 | [37179-sushi-striker-the-way-of-sushido.json](./37179-sushi-striker-the-way-of-sushido.json) |
