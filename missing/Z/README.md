@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zarzon | 39346 | [39346-zarzon.json](./39346-zarzon.json) |
 | Zasa: An AI Story | 33399 | [33399-zasa-an-ai-story.json](./33399-zasa-an-ai-story.json) |
 | Zashiki-mawashi | 356812 | [356812-zashiki-mawashi.json](./356812-zashiki-mawashi.json) |
+| Zatch Bell! Mamodo Fury | 4585 | [4585-zatch-bell-mamodo-fury.json](./4585-zatch-bell-mamodo-fury.json) |
 | Zatch Bell! Mamodo Fury Update | 358308 | [358308-zatch-bell-mamodo-fury-update.json](./358308-zatch-bell-mamodo-fury-update.json) |
 | Zatch Bell! The Electric Arena 2 | 202177 | [202177-zatch-bell-the-electric-arena-2.json](./202177-zatch-bell-the-electric-arena-2.json) |
 | Zatikon: Crusades | 52782 | [52782-zatikon-crusades.json](./52782-zatikon-crusades.json) |
@@ -735,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenless Zone Zero: Update 3.0 - A Sleepwalker's Confession | 406810 | [406810-zenless-zone-zero-update-3-0-a-sleepwalkers-confession.json](./406810-zenless-zone-zero-update-3-0-a-sleepwalkers-confession.json) |
 | Zenless Zone Zero: Update 3.1 - The Long Goodbye | 411735 | [411735-zenless-zone-zero-update-3-1-the-long-goodbye.json](./411735-zenless-zone-zero-update-3-1-the-long-goodbye.json) |
 | Zenmai Zamurai | 124128 | [124128-zenmai-zamurai.json](./124128-zenmai-zamurai.json) |
+| Zeno | 186429 | [186429-zeno.json](./186429-zeno.json) |
 | Zeno | 281232 | [281232-zeno.json](./281232-zeno.json) |
 | Zeno Archives | 52109 | [52109-zeno-archives.json](./52109-zeno-archives.json) |
 | Zeno Clash | 6360 | [6360-zeno-clash.json](./6360-zeno-clash.json) |
@@ -1240,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiac Requiem | 373741 | [373741-zodiac-requiem.json](./373741-zodiac-requiem.json) |
 | Zodiac Revenger | 274358 | [274358-zodiac-revenger.json](./274358-zodiac-revenger.json) |
 | Zodiac Tri Peaks Solitaire | 192037 | [192037-zodiac-tri-peaks-solitaire.json](./192037-zodiac-tri-peaks-solitaire.json) |
+| Zodiacats | 187534 | [187534-zodiacats.json](./187534-zodiacats.json) |
 | ZodiacChild | 216813 | [216813-zodiacchild.json](./216813-zodiacchild.json) |
 | Zodiack | 40000 | [40000-zodiack.json](./40000-zodiack.json) |
 | Zodiakalik | 161363 | [161363-zodiakalik.json](./161363-zodiakalik.json) |
