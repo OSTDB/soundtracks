@@ -5550,6 +5550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pic-a-Pix Classic 2 | 140423 | [140423-pic-a-pix-classic-2.json](./140423-pic-a-pix-classic-2.json) |
 | Pic-a-Pix Color | 82591 | [82591-pic-a-pix-color.json](./82591-pic-a-pix-color.json) |
 | Pic-a-Pix Color 2 | 120799 | [120799-pic-a-pix-color-2.json](./120799-pic-a-pix-color-2.json) |
+| Pic-a-Pix Deluxe: Pic-a-Pix Color | 403408 | [403408-pic-a-pix-deluxe-pic-a-pix-color.json](./403408-pic-a-pix-deluxe-pic-a-pix-color.json) |
 | Pic-a-Pix Pieces | 114052 | [114052-pic-a-pix-pieces.json](./114052-pic-a-pix-pieces.json) |
 | Pic-a-Pix Pieces 2 | 140424 | [140424-pic-a-pix-pieces-2.json](./140424-pic-a-pix-pieces-2.json) |
 | Pic-a-Pix Pieces: 15x15 Pieces Pack 1 | 404289 | [404289-pic-a-pix-pieces-15x15-pieces-pack-1.json](./404289-pic-a-pix-pieces-15x15-pieces-pack-1.json) |
@@ -9682,6 +9683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Cowboy | 175437 | [175437-pocket-cowboy.json](./175437-pocket-cowboy.json) |
 | Pocket Cowboys | 235255 | [235255-pocket-cowboys.json](./235255-pocket-cowboys.json) |
 | Pocket Cowboys: Wild West Standoff | 208152 | [208152-pocket-cowboys-wild-west-standoff.json](./208152-pocket-cowboys-wild-west-standoff.json) |
+| Pocket Creature | 403306 | [403306-pocket-creature.json](./403306-pocket-creature.json) |
 | Pocket Creature PVP | 399480 | [399480-pocket-creature-pvp.json](./399480-pocket-creature-pvp.json) |
 | Pocket Crystal League | 202258 | [202258-pocket-crystal-league.json](./202258-pocket-crystal-league.json) |
 | Pocket Cuisine | 277504 | [277504-pocket-cuisine.json](./277504-pocket-cuisine.json) |
