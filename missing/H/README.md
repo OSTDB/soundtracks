@@ -487,10 +487,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2: MMod - Minerva | 270708 | [270708-half-life-2-mmod-minerva.json](./270708-half-life-2-mmod-minerva.json) |
 | Half-Life 2: Survivor | 320851 | [320851-half-life-2-survivor.json](./320851-half-life-2-survivor.json) |
 | Half-Life 2: Survivor | 77081 | [77081-half-life-2-survivor.json](./77081-half-life-2-survivor.json) |
+| Half-Life 2: Update | 127906 | [127906-half-life-2-update.json](./127906-half-life-2-update.json) |
 | Half-Life 2: Very Hard Mod | 287486 | [287486-half-life-2-very-hard-mod.json](./287486-half-life-2-very-hard-mod.json) |
 | Half-Life 2: VR Mod | 28827 | [28827-half-life-2-vr-mod.json](./28827-half-life-2-vr-mod.json) |
 | Half-Life 2: VR Mod - Episode One | 243118 | [243118-half-life-2-vr-mod-episode-one.json](./243118-half-life-2-vr-mod-episode-one.json) |
 | Half-Life 2: VR Mod - Episode Two | 243119 | [243119-half-life-2-vr-mod-episode-two.json](./243119-half-life-2-vr-mod-episode-two.json) |
+| Half-Life 2: Year Long Alarm | 168930 | [168930-half-life-2-year-long-alarm.json](./168930-half-life-2-year-long-alarm.json) |
 | Half-Life 2d: Block Mesa | 177694 | [177694-half-life-2d-block-mesa.json](./177694-half-life-2d-block-mesa.json) |
 | Half-Life 3 | 28029 | [28029-half-life-3.json](./28029-half-life-3.json) |
 | Half-Life Alyx NoVR | 255791 | [255791-half-life-alyx-novr.json](./255791-half-life-alyx-novr.json) |
@@ -2154,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon 64 | 3378 | [3378-harvest-moon-64.json](./3378-harvest-moon-64.json) |
 | Harvest Moon Cozy Bundle | 329763 | [329763-harvest-moon-cozy-bundle.json](./329763-harvest-moon-cozy-bundle.json) |
 | Harvest Moon DS Cute | 47699 | [47699-harvest-moon-ds-cute.json](./47699-harvest-moon-ds-cute.json) |
+| Harvest Moon DS: Grand Bazaar | 3391 | [3391-harvest-moon-ds-grand-bazaar.json](./3391-harvest-moon-ds-grand-bazaar.json) |
 | Harvest Moon DS: Island of Happiness | 3387 | [3387-harvest-moon-ds-island-of-happiness.json](./3387-harvest-moon-ds-island-of-happiness.json) |
 | Harvest Moon DS: Sunshine Islands | 3389 | [3389-harvest-moon-ds-sunshine-islands.json](./3389-harvest-moon-ds-sunshine-islands.json) |
 | Harvest Moon for Girl | 73430 | [73430-harvest-moon-for-girl.json](./73430-harvest-moon-for-girl.json) |
@@ -2821,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | He Followed Me | 399004 | [399004-he-followed-me.json](./399004-he-followed-me.json) |
 | He Fucked the Girl Out of Me | 206498 | [206498-he-fucked-the-girl-out-of-me.json](./206498-he-fucked-the-girl-out-of-me.json) |
 | He is Coming | 312870 | [312870-he-is-coming.json](./312870-he-is-coming.json) |
+| He Needs His Medicine | 158754 | [158754-he-needs-his-medicine.json](./158754-he-needs-his-medicine.json) |
 | He Plays the Piano | 135034 | [135034-he-plays-the-piano.json](./135034-he-plays-the-piano.json) |
 | He Sneaks | 301433 | [301433-he-sneaks.json](./301433-he-sneaks.json) |
 | He Was | 184060 | [184060-he-was.json](./184060-he-was.json) |
@@ -7505,6 +7509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hire Me! | 285521 | [285521-hire-me.json](./285521-hire-me.json) |
 | Hired 2 Die | 211704 | [211704-hired-2-die.json](./211704-hired-2-die.json) |
 | Hired Explorer | 340978 | [340978-hired-explorer.json](./340978-hired-explorer.json) |
+| Hired Guns | 2527 | [2527-hired-guns.json](./2527-hired-guns.json) |
 | Hired Guns: The Jagged Edge | 21191 | [21191-hired-guns-the-jagged-edge.json](./21191-hired-guns-the-jagged-edge.json) |
 | Hired Ops | 35145 | [35145-hired-ops.json](./35145-hired-ops.json) |
 | Hired Stars | 373169 | [373169-hired-stars.json](./373169-hired-stars.json) |
@@ -11359,6 +11364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hybrid Beasts | 53218 | [53218-hybrid-beasts.json](./53218-hybrid-beasts.json) |
 | Hybrid Blood | 347161 | [347161-hybrid-blood.json](./347161-hybrid-blood.json) |
 | Hybrid Harmony | 209304 | [209304-hybrid-harmony.json](./209304-hybrid-harmony.json) |
+| Hybrid Heaven | 3513 | [3513-hybrid-heaven.json](./3513-hybrid-heaven.json) |
 | Hybrid Instinct | 157401 | [157401-hybrid-instinct.json](./157401-hybrid-instinct.json) |
 | Hybrid Miniature Golf Beta | 303557 | [303557-hybrid-miniature-golf-beta.json](./303557-hybrid-miniature-golf-beta.json) |
 | Hybrid Warrior | 165476 | [165476-hybrid-warrior.json](./165476-hybrid-warrior.json) |
