@@ -1334,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hank | 70118 | [70118-hank.json](./70118-hank.json) |
 | Hank Hill Smokes Marijuana | 335727 | [335727-hank-hill-smokes-marijuana.json](./335727-hank-hill-smokes-marijuana.json) |
 | Hank Loves the Beach | 240797 | [240797-hank-loves-the-beach.json](./240797-hank-loves-the-beach.json) |
+| Hank Shaw: Animal Investigator | 404004 | [404004-hank-shaw-animal-investigator.json](./404004-hank-shaw-animal-investigator.json) |
 | Hank: Drowning on Dry Land | 195168 | [195168-hank-drowning-on-dry-land.json](./195168-hank-drowning-on-dry-land.json) |
 | Hank: Straightjacket | 232458 | [232458-hank-straightjacket.json](./232458-hank-straightjacket.json) |
 | Hank: The Great Unraveling | 258398 | [258398-hank-the-great-unraveling.json](./258398-hank-the-great-unraveling.json) |
