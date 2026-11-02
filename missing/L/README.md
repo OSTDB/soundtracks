@@ -7641,6 +7641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Open | 208609 | [208609-lost-in-the-open.json](./208609-lost-in-the-open.json) |
 | Lost in the Pages | 197033 | [197033-lost-in-the-pages.json](./197033-lost-in-the-pages.json) |
 | Lost in the Past: A Heart's Remembrance Labyrinth | 287210 | [287210-lost-in-the-past-a-hearts-remembrance-labyrinth.json](./287210-lost-in-the-past-a-hearts-remembrance-labyrinth.json) |
+| Lost in the Rift - Reborn | 30952 | [30952-lost-in-the-rift-reborn.json](./30952-lost-in-the-rift-reborn.json) |
 | Lost in the Roots | 298235 | [298235-lost-in-the-roots.json](./298235-lost-in-the-roots.json) |
 | Lost in the Sand | 215641 | [215641-lost-in-the-sand.json](./215641-lost-in-the-sand.json) |
 | Lost In The Shadows | 250816 | [250816-lost-in-the-shadows.json](./250816-lost-in-the-shadows.json) |
