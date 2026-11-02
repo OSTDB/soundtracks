@@ -1464,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Rush 2 | 322656 | [322656-ball-rush-2.json](./322656-ball-rush-2.json) |
 | Ball Rush 3 | 402296 | [402296-ball-rush-3.json](./402296-ball-rush-3.json) |
 | Ball Shoot Aim Challenge | 334085 | [334085-ball-shoot-aim-challenge.json](./334085-ball-shoot-aim-challenge.json) |
+| Ball Shoot! | 87364 | [87364-ball-shoot.json](./87364-ball-shoot.json) |
 | Ball Shot: Fling to Hoop | 75555 | [75555-ball-shot-fling-to-hoop.json](./75555-ball-shot-fling-to-hoop.json) |
 | Ball Slinger | 176374 | [176374-ball-slinger.json](./176374-ball-slinger.json) |
 | Ball Sort | 240194 | [240194-ball-sort.json](./240194-ball-sort.json) |
@@ -7268,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike of the Wild | 75318 | [75318-bike-of-the-wild.json](./75318-bike-of-the-wild.json) |
 | Bike Offroad Simulator | 248033 | [248033-bike-offroad-simulator.json](./248033-bike-offroad-simulator.json) |
 | Bike Park Simulator: BMX, Dirt Jump & MTB | 326473 | [326473-bike-park-simulator-bmx-dirt-jump-and-mtb.json](./326473-bike-park-simulator-bmx-dirt-jump-and-mtb.json) |
+| Bike Race Pro: Motor Racing | 87346 | [87346-bike-race-pro-motor-racing.json](./87346-bike-race-pro-motor-racing.json) |
 | Bike Racer 2018 | 105866 | [105866-bike-racer-2018.json](./105866-bike-racer-2018.json) |
 | Bike Racing | 234695 | [234695-bike-racing.json](./234695-bike-racing.json) |
 | Bike Racing | 91109 | [91109-bike-racing.json](./91109-bike-racing.json) |
@@ -11004,6 +11006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Sky Arena | 208105 | [208105-blue-sky-arena.json](./208105-blue-sky-arena.json) |
 | Blue sky fighter | 129076 | [129076-blue-sky-fighter.json](./129076-blue-sky-fighter.json) |
 | Blue Sky: Acceptable Casualties | 73706 | [73706-blue-sky-acceptable-casualties.json](./73706-blue-sky-acceptable-casualties.json) |
+| Blue Slot 100 | 87386 | [87386-blue-slot-100.json](./87386-blue-slot-100.json) |
 | Blue Snake Adventures | 74182 | [74182-blue-snake-adventures.json](./74182-blue-snake-adventures.json) |
 | Blue Snake Adventures: Master Level | 171332 | [171332-blue-snake-adventures-master-level.json](./171332-blue-snake-adventures-master-level.json) |
 | Blue Solar: Chaos War | 32057 | [32057-blue-solar-chaos-war.json](./32057-blue-solar-chaos-war.json) |
@@ -15340,6 +15343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS-X: Sore ha Namae wo Nusumareta Machi no Monogatari | 38156 | [38156-bs-x-sore-ha-namae-wo-nusumareta-machi-no-monogatari.json](./38156-bs-x-sore-ha-namae-wo-nusumareta-machi-no-monogatari.json) |
 | BS2 | 329932 | [329932-bs2.json](./329932-bs2.json) |
 | BSL Winter Game Challenge | 88048 | [88048-bsl-winter-game-challenge.json](./88048-bsl-winter-game-challenge.json) |
+| BSL Winter Games Challenge | 87331 | [87331-bsl-winter-games-challenge.json](./87331-bsl-winter-games-challenge.json) |
 | BSL Winter Games Challenge | 88283 | [88283-bsl-winter-games-challenge.json](./88283-bsl-winter-games-challenge.json) |
 | BSMP | 394877 | [394877-bsmp.json](./394877-bsmp.json) |
 | BSurfing | 163733 | [163733-bsurfing.json](./163733-bsurfing.json) |
@@ -15446,6 +15450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Dogs | 298403 | [298403-bubble-dogs.json](./298403-bubble-dogs.json) |
 | Bubble Dreams 3D | 330724 | [330724-bubble-dreams-3d.json](./330724-bubble-dreams-3d.json) |
 | Bubble Escape WTH? | 110230 | [110230-bubble-escape-wth.json](./110230-bubble-escape-wth.json) |
+| Bubble Explode | 87384 | [87384-bubble-explode.json](./87384-bubble-explode.json) |
 | Bubble Explosion Adventure | 87691 | [87691-bubble-explosion-adventure.json](./87691-bubble-explosion-adventure.json) |
 | Bubble Fighter | 58095 | [58095-bubble-fighter.json](./58095-bubble-fighter.json) |
 | Bubble Fire Story | 233179 | [233179-bubble-fire-story.json](./233179-bubble-fire-story.json) |
