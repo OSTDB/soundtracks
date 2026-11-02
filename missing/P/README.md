@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora no Yume | 372435 | [372435-pandora-no-yume.json](./372435-pandora-no-yume.json) |
 | Pandora Saga: Weapons of Balance | 78647 | [78647-pandora-saga-weapons-of-balance.json](./78647-pandora-saga-weapons-of-balance.json) |
 | Pandora: Chains of Chaos | 90114 | [90114-pandora-chains-of-chaos.json](./90114-pandora-chains-of-chaos.json) |
+| Pandora: First Contact | 17185 | [17185-pandora-first-contact.json](./17185-pandora-first-contact.json) |
 | Pandora: First Contact - Eclipse of Nashira | 170827 | [170827-pandora-first-contact-eclipse-of-nashira.json](./170827-pandora-first-contact-eclipse-of-nashira.json) |
 | Pandora: Kimi no Namae wo, Boku ha Shiru | 221825 | [221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json](./221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json) |
 | Pandora: Purge of Pride | 62995 | [62995-pandora-purge-of-pride.json](./62995-pandora-purge-of-pride.json) |
@@ -6429,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Frenzy | 192050 | [192050-pinball-frenzy.json](./192050-pinball-frenzy.json) |
 | Pinball Fun | 43245 | [43245-pinball-fun.json](./43245-pinball-fun.json) |
 | Pinball FX | 185795 | [185795-pinball-fx.json](./185795-pinball-fx.json) |
+| Pinball FX | 21915 | [21915-pinball-fx.json](./21915-pinball-fx.json) |
 | Pinball FX 2: Marvel Pinball - Vengeance and Virtue | 20822 | [20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json](./20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json) |
 | Pinball FX VR | 332437 | [332437-pinball-fx-vr.json](./332437-pinball-fx-vr.json) |
 | Pinball FX VR: Indiana Jones - The Pinball Adventure | 338670 | [338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json](./338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json) |
@@ -8311,6 +8313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Tycoon | 14453 | [14453-pizza-tycoon.json](./14453-pizza-tycoon.json) |
 | Pizza Tycoon | 237575 | [237575-pizza-tycoon.json](./237575-pizza-tycoon.json) |
 | Pizza Tycoon 2 | 51885 | [51885-pizza-tycoon-2.json](./51885-pizza-tycoon-2.json) |
+| Pizza vs. Skeletons | 22338 | [22338-pizza-vs-skeletons.json](./22338-pizza-vs-skeletons.json) |
 | Pizza Western | 318191 | [318191-pizza-western.json](./318191-pizza-western.json) |
 | PIzza Wizard+ | 338632 | [338632-pizza-wizard.json](./338632-pizza-wizard.json) |
 | Pizza Worm | 9079 | [9079-pizza-worm.json](./9079-pizza-worm.json) |
@@ -8433,6 +8436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane War | 96463 | [96463-plane-war.json](./96463-plane-war.json) |
 | Plane Weaver | 91841 | [91841-plane-weaver.json](./91841-plane-weaver.json) |
 | Planecraft | 279494 | [279494-planecraft.json](./279494-planecraft.json) |
+| Planes | 17172 | [17172-planes.json](./17172-planes.json) |
 | Planes | 262093 | [262093-planes.json](./262093-planes.json) |
 | Planes and Trains and Automobiles | 209381 | [209381-planes-and-trains-and-automobiles.json](./209381-planes-and-trains-and-automobiles.json) |
 | Planes Attack | 116759 | [116759-planes-attack.json](./116759-planes-attack.json) |
