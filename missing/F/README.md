@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Worlds | 199749 | [199749-fallen-worlds.json](./199749-fallen-worlds.json) |
 | Fallen, the last light | 164267 | [164267-fallen-the-last-light.json](./164267-fallen-the-last-light.json) |
 | Fallen: Into the Darkness | 326182 | [326182-fallen-into-the-darkness.json](./326182-fallen-into-the-darkness.json) |
+| Fallen: Makina and the City of Ruins | 86299 | [86299-fallen-makina-and-the-city-of-ruins.json](./86299-fallen-makina-and-the-city-of-ruins.json) |
 | Fallen: Town of Heritage and Makina the Blazing Hair | 82831 | [82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json](./82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json) |
 | Fallen's Challenge | 285467 | [285467-fallens-challenge.json](./285467-fallens-challenge.json) |
 | FallenCore | 75101 | [75101-fallencore.json](./75101-fallencore.json) |
@@ -3185,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fault Milestone Two Side: Below | 10529 | [10529-fault-milestone-two-side-below.json](./10529-fault-milestone-two-side-below.json) |
 | Fault: Broken Promises | 336619 | [336619-fault-broken-promises.json](./336619-fault-broken-promises.json) |
 | Fault: Silence the Pedant | 44278 | [44278-fault-silence-the-pedant.json](./44278-fault-silence-the-pedant.json) |
+| Faulty Apprentice | 83085 | [83085-faulty-apprentice.json](./83085-faulty-apprentice.json) |
 | Faulty Apprentice: Bunny Rabbit Rescue | 170697 | [170697-faulty-apprentice-bunny-rabbit-rescue.json](./170697-faulty-apprentice-bunny-rabbit-rescue.json) |
 | Faulty Apprentice: Escape from Borg Mountain | 170695 | [170695-faulty-apprentice-escape-from-borg-mountain.json](./170695-faulty-apprentice-escape-from-borg-mountain.json) |
 | Faulty Apprentice: Palm Tree Paradise | 170696 | [170696-faulty-apprentice-palm-tree-paradise.json](./170696-faulty-apprentice-palm-tree-paradise.json) |
@@ -4041,7 +4043,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 16: Deluxe Edition | 82446 | [82446-fifa-16-deluxe-edition.json](./82446-fifa-16-deluxe-edition.json) |
 | FIFA 17 | 240450 | [240450-fifa-17.json](./240450-fifa-17.json) |
 | FIFA 17: Deluxe Edition | 53044 | [53044-fifa-17-deluxe-edition.json](./53044-fifa-17-deluxe-edition.json) |
+| FIFA 18: ICON Edition | 83753 | [83753-fifa-18-icon-edition.json](./83753-fifa-18-icon-edition.json) |
 | FIFA 18: Legacy Edition | 99480 | [99480-fifa-18-legacy-edition.json](./99480-fifa-18-legacy-edition.json) |
+| FIFA 18: Ronaldo Edition | 83752 | [83752-fifa-18-ronaldo-edition.json](./83752-fifa-18-ronaldo-edition.json) |
 | FIFA 19 | 240453 | [240453-fifa-19.json](./240453-fifa-19.json) |
 | FIFA 19 | 96209 | [96209-fifa-19.json](./96209-fifa-19.json) |
 | FIFA 19: Champions Edition | 103377 | [103377-fifa-19-champions-edition.json](./103377-fifa-19-champions-edition.json) |
@@ -7828,6 +7832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowers of Starlight | 264345 | [264345-flowers-of-starlight.json](./264345-flowers-of-starlight.json) |
 | Flowers: Kokoro no Hana | 308249 | [308249-flowers-kokoro-no-hana.json](./308249-flowers-kokoro-no-hana.json) |
 | Flowers: Le Volume sur Automne | 83393 | [83393-flowers-le-volume-sur-automne.json](./83393-flowers-le-volume-sur-automne.json) |
+| Flowers: Le Volume sur Été | 83394 | [83394-flowers-le-volume-sur-ete.json](./83394-flowers-le-volume-sur-ete.json) |
 | Flowers: Le Volume sur Hiver | 83392 | [83392-flowers-le-volume-sur-hiver.json](./83392-flowers-le-volume-sur-hiver.json) |
 | Flowers: Le Volume sur Printemps | 33272 | [33272-flowers-le-volume-sur-printemps.json](./33272-flowers-le-volume-sur-printemps.json) |
 | Flowers: Les Quatre Saisons | 114020 | [114020-flowers-les-quatre-saisons.json](./114020-flowers-les-quatre-saisons.json) |
@@ -9876,6 +9881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon - December IGN Car Pack | 132825 | [132825-forza-horizon-december-ign-car-pack.json](./132825-forza-horizon-december-ign-car-pack.json) |
 | Forza Horizon 2 | 7326 | [7326-forza-horizon-2.json](./7326-forza-horizon-2.json) |
 | Forza Horizon 2 Presents Fast & Furious | 74159 | [74159-forza-horizon-2-presents-fast-and-furious.json](./74159-forza-horizon-2-presents-fast-and-furious.json) |
+| Forza Horizon 2: 10th Anniversary Edition | 83743 | [83743-forza-horizon-2-10th-anniversary-edition.json](./83743-forza-horizon-2-10th-anniversary-edition.json) |
 | Forza Horizon 2: Storm Island | 20307 | [20307-forza-horizon-2-storm-island.json](./20307-forza-horizon-2-storm-island.json) |
 | Forza Horizon 3 | 19539 | [19539-forza-horizon-3.json](./19539-forza-horizon-3.json) |
 | Forza Horizon 3: Deluxe Edition | 85132 | [85132-forza-horizon-3-deluxe-edition.json](./85132-forza-horizon-3-deluxe-edition.json) |
@@ -11901,6 +11907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Time | 256864 | [256864-frozen-time.json](./256864-frozen-time.json) |
 | Frozen Way Tri-Bundle | 342237 | [342237-frozen-way-tri-bundle.json](./342237-frozen-way-tri-bundle.json) |
 | Frozen: Laptop Infantil | 297748 | [297748-frozen-laptop-infantil.json](./297748-frozen-laptop-infantil.json) |
+| Frozen: Olaf's Quest | 85088 | [85088-frozen-olafs-quest.json](./85088-frozen-olafs-quest.json) |
 | Frozen: Royal Castle | 306444 | [306444-frozen-royal-castle.json](./306444-frozen-royal-castle.json) |
 | Frozenheim | 144594 | [144594-frozenheim.json](./144594-frozenheim.json) |
 | FrozenPizza | 270096 | [270096-frozenpizza.json](./270096-frozenpizza.json) |
