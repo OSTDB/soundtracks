@@ -1924,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absinth | 68905 | [68905-absinth.json](./68905-absinth.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
 | Absinthia | 194851 | [194851-absinthia.json](./194851-absinthia.json) |
+| Absoloot | 30530 | [30530-absoloot.json](./30530-absoloot.json) |
 | Absolut deadmau5 | 58283 | [58283-absolut-deadmau5.json](./58283-absolut-deadmau5.json) |
 | Absolute | 143945 | [143945-absolute.json](./143945-absolute.json) |
 | Absolute Alchemical Potion | 158555 | [158555-absolute-alchemical-potion.json](./158555-absolute-alchemical-potion.json) |
@@ -3406,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time: Explore the Dungeon Because I Don't Know! | 4557 | [4557-adventure-time-explore-the-dungeon-because-i-dont-know.json](./4557-adventure-time-explore-the-dungeon-because-i-dont-know.json) |
 | Adventure Time: Finn and Bones | 176870 | [176870-adventure-time-finn-and-bones.json](./176870-adventure-time-finn-and-bones.json) |
 | Adventure Time: Finn and Jake Investigations | 11320 | [11320-adventure-time-finn-and-jake-investigations.json](./11320-adventure-time-finn-and-jake-investigations.json) |
+| Adventure Time: Finn and Jake's Epic Quest | 30241 | [30241-adventure-time-finn-and-jakes-epic-quest.json](./30241-adventure-time-finn-and-jakes-epic-quest.json) |
 | Adventure Time: Game Wizard | 60905 | [60905-adventure-time-game-wizard.json](./60905-adventure-time-game-wizard.json) |
 | Adventure Time: Heroes of Ooo | 62020 | [62020-adventure-time-heroes-of-ooo.json](./62020-adventure-time-heroes-of-ooo.json) |
 | Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! | 2797 | [2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json](./2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json) |
@@ -14323,6 +14325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Unity - Limited Edition | 136262 | [136262-assassins-creed-unity-limited-edition.json](./136262-assassins-creed-unity-limited-edition.json) |
 | Assassin's Creed: Utopia | 61278 | [61278-assassins-creed-utopia.json](./61278-assassins-creed-utopia.json) |
 | Assassin's Shadows | 331306 | [331306-assassins-shadows.json](./331306-assassins-shadows.json) |
+| Assassination Box | 30636 | [30636-assassination-box.json](./30636-assassination-box.json) |
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
 | Assassination Classroom: Koro-Sensei's Great Besiegement!! | 64206 | [64206-assassination-classroom-koro-senseis-great-besiegement.json](./64206-assassination-classroom-koro-senseis-great-besiegement.json) |
 | Assassination Station | 54985 | [54985-assassination-station.json](./54985-assassination-station.json) |
