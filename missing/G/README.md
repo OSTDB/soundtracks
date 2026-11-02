@@ -3370,6 +3370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getaway Girls | 313876 | [313876-getaway-girls.json](./313876-getaway-girls.json) |
 | Getaway Golf | 414298 | [414298-getaway-golf.json](./414298-getaway-golf.json) |
 | Getaway Grand Prix | 310158 | [310158-getaway-grand-prix.json](./310158-getaway-grand-prix.json) |
+| Getaway Island | 29224 | [29224-getaway-island.json](./29224-getaway-island.json) |
 | Getaway Mayhem | 128965 | [128965-getaway-mayhem.json](./128965-getaway-mayhem.json) |
 | Getaway! | 78981 | [78981-getaway.json](./78981-getaway.json) |
 | GetBackers Dakkanya: Dakkan da yo! Zenin Shuugou!! | 252071 | [252071-getbackers-dakkanya-dakkan-da-yo-zenin-shuugou.json](./252071-getbackers-dakkanya-dakkan-da-yo-zenin-shuugou.json) |
@@ -6504,6 +6505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GooCubelets: The Void | 31961 | [31961-goocubelets-the-void.json](./31961-goocubelets-the-void.json) |
 | Good | 365035 | [365035-good.json](./365035-good.json) |
 | Good & Bad Driver | 302106 | [302106-good-and-bad-driver.json](./302106-good-and-bad-driver.json) |
+| Good Archer | 29285 | [29285-good-archer.json](./29285-good-archer.json) |
 | Good Bear | 219803 | [219803-good-bear.json](./219803-good-bear.json) |
 | Good Bones | 196973 | [196973-good-bones.json](./196973-good-bones.json) |
 | Good Boy | 229329 | [229329-good-boy.json](./229329-good-boy.json) |
@@ -8872,6 +8874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire | 296800 | [296800-grimoire.json](./296800-grimoire.json) |
 | Grimoire | 86187 | [86187-grimoire.json](./86187-grimoire.json) |
 | Grimoire Arena | 125328 | [125328-grimoire-arena.json](./125328-grimoire-arena.json) |
+| Grimoire Chronicles | 29165 | [29165-grimoire-chronicles.json](./29165-grimoire-chronicles.json) |
 | Grimoire Limbo | 416334 | [416334-grimoire-limbo.json](./416334-grimoire-limbo.json) |
 | Grimoire Melody | 125599 | [125599-grimoire-melody.json](./125599-grimoire-melody.json) |
 | Grimoire of Blanks | 418214 | [418214-grimoire-of-blanks.json](./418214-grimoire-of-blanks.json) |
@@ -9378,6 +9381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gruntz | 13225 | [13225-gruntz.json](./13225-gruntz.json) |
 | Gruta | 247126 | [247126-gruta.json](./247126-gruta.json) |
 | Gruta | 367186 | [367186-gruta.json](./367186-gruta.json) |
+| Gruzchik | 29248 | [29248-gruzchik.json](./29248-gruzchik.json) |
 | Grym Wonder | 286956 | [286956-grym-wonder.json](./286956-grym-wonder.json) |
 | Grym: Knights in the Garden | 334534 | [334534-grym-knights-in-the-garden.json](./334534-grym-knights-in-the-garden.json) |
 | Gryphon | 26260 | [26260-gryphon.json](./26260-gryphon.json) |
