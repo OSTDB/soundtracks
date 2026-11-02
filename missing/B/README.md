@@ -902,7 +902,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -14776,6 +14775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | British Voter Quiz | 366245 | [366245-british-voter-quiz.json](./366245-british-voter-quiz.json) |
 | Britney Spears: American Dream | 57972 | [57972-britney-spears-american-dream.json](./57972-britney-spears-american-dream.json) |
 | Britney Spears' Theme Park | 305843 | [305843-britney-spears-theme-park.json](./305843-britney-spears-theme-park.json) |
+| Britney's Dance Beat | 248750 | [248750-britneys-dance-beat.json](./248750-britneys-dance-beat.json) |
 | Brittle | 278684 | [278684-brittle.json](./278684-brittle.json) |
 | Brittle Blue | 184591 | [184591-brittle-blue.json](./184591-brittle-blue.json) |
 | Brittle Buildings | 180841 | [180841-brittle-buildings.json](./180841-brittle-buildings.json) |
