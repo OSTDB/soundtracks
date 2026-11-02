@@ -4701,6 +4701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris New Century | 236719 | [236719-tetris-new-century.json](./236719-tetris-new-century.json) |
 | Tetris Party | 5217 | [5217-tetris-party.json](./5217-tetris-party.json) |
 | Tetris Party Deluxe | 21099 | [21099-tetris-party-deluxe.json](./21099-tetris-party-deluxe.json) |
+| Tetris Party Live | 21166 | [21166-tetris-party-live.json](./21166-tetris-party-live.json) |
 | Tetris Plus | 20712 | [20712-tetris-plus.json](./20712-tetris-plus.json) |
 | Tetris Plus | 254518 | [254518-tetris-plus.json](./254518-tetris-plus.json) |
 | Tetris Plus 2 | 39403 | [39403-tetris-plus-2.json](./39403-tetris-plus-2.json) |
@@ -15424,6 +15425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: Celebration! Stuff | 13131 | [13131-the-sims-2-celebration-stuff.json](./13131-the-sims-2-celebration-stuff.json) |
 | The Sims 2: Family Fun Stuff | 13128 | [13128-the-sims-2-family-fun-stuff.json](./13128-the-sims-2-family-fun-stuff.json) |
 | The Sims 2: Glamour Life Stuff | 13129 | [13129-the-sims-2-glamour-life-stuff.json](./13129-the-sims-2-glamour-life-stuff.json) |
+| The Sims 2: Holiday Party Pack | 22457 | [22457-the-sims-2-holiday-party-pack.json](./22457-the-sims-2-holiday-party-pack.json) |
 | The Sims 2: IKEA Home Stuff | 13135 | [13135-the-sims-2-ikea-home-stuff.json](./13135-the-sims-2-ikea-home-stuff.json) |
 | The Sims 2: Legacy Collection | 329955 | [329955-the-sims-2-legacy-collection.json](./329955-the-sims-2-legacy-collection.json) |
 | The Sims 2: Nightlife | 5534 | [5534-the-sims-2-nightlife.json](./5534-the-sims-2-nightlife.json) |
@@ -28613,6 +28615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials Evolution | 2149 | [2149-trials-evolution.json](./2149-trials-evolution.json) |
 | Trials Evolution: Gold Edition | 20748 | [20748-trials-evolution-gold-edition.json](./20748-trials-evolution-gold-edition.json) |
 | Trials Evolution: Origin of Pain | 22190 | [22190-trials-evolution-origin-of-pain.json](./22190-trials-evolution-origin-of-pain.json) |
+| Trials Evolution: Riders of Doom | 22322 | [22322-trials-evolution-riders-of-doom.json](./22322-trials-evolution-riders-of-doom.json) |
 | Trials Frontier | 7212 | [7212-trials-frontier.json](./7212-trials-frontier.json) |
 | Trials Fusion: After the Incident | 165426 | [165426-trials-fusion-after-the-incident.json](./165426-trials-fusion-after-the-incident.json) |
 | Trials Fusion: Awesome Level Max | 19951 | [19951-trials-fusion-awesome-level-max.json](./19951-trials-fusion-awesome-level-max.json) |
@@ -30984,6 +30987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Metal III | 347126 | [347126-twisted-metal-iii.json](./347126-twisted-metal-iii.json) |
 | Twisted Metal: Black | 5413 | [5413-twisted-metal-black.json](./5413-twisted-metal-black.json) |
 | Twisted Metal: Black Harbor City | 135286 | [135286-twisted-metal-black-harbor-city.json](./135286-twisted-metal-black-harbor-city.json) |
+| Twisted Metal: Black Online | 22240 | [22240-twisted-metal-black-online.json](./22240-twisted-metal-black-online.json) |
 | Twisted Metal: Head-On | 5414 | [5414-twisted-metal-head-on.json](./5414-twisted-metal-head-on.json) |
 | Twisted Metal: Head-On - Extra Twisted Edition | 5415 | [5415-twisted-metal-head-on-extra-twisted-edition.json](./5415-twisted-metal-head-on-extra-twisted-edition.json) |
 | Twisted Metal: Small Brawl | 5417 | [5417-twisted-metal-small-brawl.json](./5417-twisted-metal-small-brawl.json) |
