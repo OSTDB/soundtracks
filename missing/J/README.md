@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Keane | 10463 | [10463-jack-keane.json](./10463-jack-keane.json) |
 | Jack Keane 2: The Fire Within | 10464 | [10464-jack-keane-2-the-fire-within.json](./10464-jack-keane-2-the-fire-within.json) |
 | Jack Keane: The Complete Edition | 54132 | [54132-jack-keane-the-complete-edition.json](./54132-jack-keane-the-complete-edition.json) |
+| Jack Lumber | 15393 | [15393-jack-lumber.json](./15393-jack-lumber.json) |
 | Jack Mason: Ace Attorney | 303777 | [303777-jack-mason-ace-attorney.json](./303777-jack-mason-ace-attorney.json) |
 | Jack Move: I.C.E Breaker | 195865 | [195865-jack-move-i-c-e-breaker.json](./195865-jack-move-i-c-e-breaker.json) |
 | Jack N' Jill 3D | 25846 | [25846-jack-n-jill-3d.json](./25846-jack-n-jill-3d.json) |
@@ -2516,6 +2517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jonathan's Adventure 3 | 397996 | [397996-jonathans-adventure-3.json](./397996-jonathans-adventure-3.json) |
 | Jonathan's Adventure! Pricker Edition | 397783 | [397783-jonathans-adventure-pricker-edition.json](./397783-jonathans-adventure-pricker-edition.json) |
 | Jones in the Fast Lane | 7473 | [7473-jones-in-the-fast-lane.json](./7473-jones-in-the-fast-lane.json) |
+| Jones on Fire | 15495 | [15495-jones-on-fire.json](./15495-jones-on-fire.json) |
 | Jonesville | 290837 | [290837-jonesville.json](./290837-jonesville.json) |
 | Jong Kyu Pon | 342147 | [342147-jong-kyu-pon.json](./342147-jong-kyu-pon.json) |
 | Jongbou | 92298 | [92298-jongbou.json](./92298-jongbou.json) |
