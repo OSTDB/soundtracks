@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboardmania: Yamaha Edition | 69378 | [69378-keyboardmania-yamaha-edition.json](./69378-keyboardmania-yamaha-edition.json) |
 | Keybort | 389700 | [389700-keybort.json](./389700-keybort.json) |
 | KeyBreach | 389690 | [389690-keybreach.json](./389690-keybreach.json) |
+| Keycap Keycap! | 420975 | [420975-keycap-keycap.json](./420975-keycap-keycap.json) |
 | Keychain | 305294 | [305294-keychain.json](./305294-keychain.json) |
 | Keyclash | 386420 | [386420-keyclash.json](./386420-keyclash.json) |
 | Keyfall | 217375 | [217375-keyfall.json](./217375-keyfall.json) |
@@ -2668,7 +2669,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2863,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Boo's Seven Towers | 313302 | [313302-king-boos-seven-towers.json](./313302-king-boos-seven-towers.json) |
 | King Bundle | 279218 | [279218-king-bundle.json](./279218-king-bundle.json) |
 | King Charles: Rise of the Alpha | 391566 | [391566-king-charles-rise-of-the-alpha.json](./391566-king-charles-rise-of-the-alpha.json) |
+| King City: Open World | 422182 | [422182-king-city-open-world.json](./422182-king-city-open-world.json) |
 | King Colossus | 46524 | [46524-king-colossus.json](./46524-king-colossus.json) |
 | King Crab | 388292 | [388292-king-crab.json](./388292-king-crab.json) |
 | King Cribbage | 73209 | [73209-king-cribbage.json](./73209-king-cribbage.json) |
@@ -4637,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kobayashi Hitomi no Hold Up | 41348 | [41348-kobayashi-hitomi-no-hold-up.json](./41348-kobayashi-hitomi-no-hold-up.json) |
 | Kobayashi Maru | 80288 | [80288-kobayashi-maru.json](./80288-kobayashi-maru.json) |
 | KobberParty - Castle Explorer | 130228 | [130228-kobberparty-castle-explorer.json](./130228-kobberparty-castle-explorer.json) |
+| Kobblon | 422114 | [422114-kobblon.json](./422114-kobblon.json) |
 | Kobe Bryant in NBA Courtside | 3397 | [3397-kobe-bryant-in-nba-courtside.json](./3397-kobe-bryant-in-nba-courtside.json) |
 | Kobito Game Taizen | 416095 | [416095-kobito-game-taizen.json](./416095-kobito-game-taizen.json) |
 | Kobito-zukan: Kobito Kansatsu Set | 299548 | [299548-kobito-zukan-kobito-kansatsu-set.json](./299548-kobito-zukan-kobito-kansatsu-set.json) |
@@ -4804,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koji the Frog | 381940 | [381940-koji-the-frog.json](./381940-koji-the-frog.json) |
 | Kojimachi Island | 197199 | [197199-kojimachi-island.json](./197199-kojimachi-island.json) |
 | Kojou | 157928 | [157928-kojou.json](./157928-kojou.json) |
+| Kojou no Kuuron | 420915 | [420915-kojou-no-kuuron.json](./420915-kojou-no-kuuron.json) |
 | Kojouji | 149543 | [149543-kojouji.json](./149543-kojouji.json) |
 | Kojum | 203053 | [203053-kojum.json](./203053-kojum.json) |
 | KoKing - The King Returns! | 90345 | [90345-koking-the-king-returns.json](./90345-koking-the-king-returns.json) |
