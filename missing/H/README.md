@@ -3341,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Does Not Respond | 373598 | [373598-heaven-does-not-respond.json](./373598-heaven-does-not-respond.json) |
 | Heaven Dust 2 | 153344 | [153344-heaven-dust-2.json](./153344-heaven-dust-2.json) |
 | Heaven Dust Collection | 317215 | [317215-heaven-dust-collection.json](./317215-heaven-dust-collection.json) |
+| Heaven Forest Nights | 35430 | [35430-heaven-forest-nights.json](./35430-heaven-forest-nights.json) |
 | Heaven Impact | 301001 | [301001-heaven-impact.json](./301001-heaven-impact.json) |
 | Heaven Jump | 293184 | [293184-heaven-jump.json](./293184-heaven-jump.json) |
 | Heaven Keepers | 192941 | [192941-heaven-keepers.json](./192941-heaven-keepers.json) |
@@ -5388,6 +5389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Cummy | 285398 | [285398-hero-cummy.json](./285398-hero-cummy.json) |
 | Hero Defence | 25095 | [25095-hero-defence.json](./25095-hero-defence.json) |
 | Hero Defender | 114114 | [114114-hero-defender.json](./114114-hero-defender.json) |
+| Hero Defense | 34216 | [34216-hero-defense.json](./34216-hero-defense.json) |
 | Hero Defense: Haunted Island | 80217 | [80217-hero-defense-haunted-island.json](./80217-hero-defense-haunted-island.json) |
 | Hero Dice | 196403 | [196403-hero-dice.json](./196403-hero-dice.json) |
 | Hero Dream of School | 114289 | [114289-hero-dream-of-school.json](./114289-hero-dream-of-school.json) |
@@ -7120,6 +7122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highlander | 28851 | [28851-highlander.json](./28851-highlander.json) |
 | Highlander: The Game | 120295 | [120295-highlander-the-game.json](./120295-highlander-the-game.json) |
 | Highlander: The Gathering | 67240 | [67240-highlander-the-gathering.json](./67240-highlander-the-gathering.json) |
+| Highlands | 35482 | [35482-highlands.json](./35482-highlands.json) |
 | Highlands, Deep Waters | 72513 | [72513-highlands-deep-waters.json](./72513-highlands-deep-waters.json) |
 | Highlaundry | 156208 | [156208-highlaundry.json](./156208-highlaundry.json) |
 | Highlight | 120591 | [120591-highlight.json](./120591-highlight.json) |
@@ -11927,6 +11930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypotheticards: a nature collection mystery!! | 182848 | [182848-hypotheticards-a-nature-collection-mystery.json](./182848-hypotheticards-a-nature-collection-mystery.json) |
 | Hypothetimania | 278405 | [278405-hypothetimania.json](./278405-hypothetimania.json) |
 | Hypoxia: One Last Breath | 167291 | [167291-hypoxia-one-last-breath.json](./167291-hypoxia-one-last-breath.json) |
+| Hypt | 35488 | [35488-hypt.json](./35488-hypt.json) |
 | HypurrX | 336535 | [336535-hypurrx.json](./336535-hypurrx.json) |
 | Hyrax Hill | 419963 | [419963-hyrax-hill.json](./419963-hyrax-hill.json) |
 | Hyrax In The Rocks | 342046 | [342046-hyrax-in-the-rocks.json](./342046-hyrax-in-the-rocks.json) |
