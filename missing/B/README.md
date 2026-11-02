@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakugan Battle Brawlers: Arcade Battlers | 122989 | [122989-bakugan-battle-brawlers-arcade-battlers.json](./122989-bakugan-battle-brawlers-arcade-battlers.json) |
 | Bakugan Dimensions | 128896 | [128896-bakugan-dimensions.json](./128896-bakugan-dimensions.json) |
 | Bakugan: Champions of Vestroia - Deluxe Edition | 140894 | [140894-bakugan-champions-of-vestroia-deluxe-edition.json](./140894-bakugan-champions-of-vestroia-deluxe-edition.json) |
+| Bakugan: Defenders of the Core | 6909 | [6909-bakugan-defenders-of-the-core.json](./6909-bakugan-defenders-of-the-core.json) |
 | Bakugan: Defenders of the Core | 79711 | [79711-bakugan-defenders-of-the-core.json](./79711-bakugan-defenders-of-the-core.json) |
 | Bakugan: Rise of the Resistance | 26690 | [26690-bakugan-rise-of-the-resistance.json](./26690-bakugan-rise-of-the-resistance.json) |
 | Bakugen: Battle Brawlers | 50694 | [50694-bakugen-battle-brawlers.json](./50694-bakugen-battle-brawlers.json) |
@@ -3106,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Forever | 77350 | [77350-batman-forever.json](./77350-batman-forever.json) |
 | Batman Forever | 7769 | [7769-batman-forever.json](./7769-batman-forever.json) |
 | Batman Forever: Double Dose of Doom | 198674 | [198674-batman-forever-double-dose-of-doom.json](./198674-batman-forever-double-dose-of-doom.json) |
+| Batman Forever: The Arcade Game | 23033 | [23033-batman-forever-the-arcade-game.json](./23033-batman-forever-the-arcade-game.json) |
 | Batman Forever: The Arcade Game | 45202 | [45202-batman-forever-the-arcade-game.json](./45202-batman-forever-the-arcade-game.json) |
 | Batman Returns | 121241 | [121241-batman-returns.json](./121241-batman-returns.json) |
 | Batman Returns | 121243 | [121243-batman-returns.json](./121243-batman-returns.json) |
@@ -16228,6 +16230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunbun Shinbunbu: You are Newspaper! | 402707 | [402707-bunbun-shinbunbu-you-are-newspaper.json](./402707-bunbun-shinbunbu-you-are-newspaper.json) |
 | Bunbun Tower | 179365 | [179365-bunbun-tower.json](./179365-bunbun-tower.json) |
 | Bunce | 189903 | [189903-bunce.json](./189903-bunce.json) |
+| Bunch of Heroes | 23274 | [23274-bunch-of-heroes.json](./23274-bunch-of-heroes.json) |
 | Bunch of Heroes: Holiday Pack | 226274 | [226274-bunch-of-heroes-holiday-pack.json](./226274-bunch-of-heroes-holiday-pack.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
 | Buncho: The Lost Bird | 185419 | [185419-buncho-the-lost-bird.json](./185419-buncho-the-lost-bird.json) |
