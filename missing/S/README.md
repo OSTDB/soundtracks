@@ -4522,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeds of Love | 120204 | [120204-seeds-of-love.json](./120204-seeds-of-love.json) |
 | Seeds of Paradise | 296607 | [296607-seeds-of-paradise.json](./296607-seeds-of-paradise.json) |
 | Seeds of Power Bundle: Weedcraft Inc & Cultist Simulator: Anthology | 331515 | [331515-seeds-of-power-bundle-weedcraft-inc-and-cultist-simulator-anthology.json](./331515-seeds-of-power-bundle-weedcraft-inc-and-cultist-simulator-anthology.json) |
+| Seeds of Resilience | 103435 | [103435-seeds-of-resilience.json](./103435-seeds-of-resilience.json) |
 | Seeds of Unity | 196804 | [196804-seeds-of-unity.json](./196804-seeds-of-unity.json) |
 | Seedship | 178454 | [178454-seedship.json](./178454-seedship.json) |
 | Seedsow Lullaby | 308306 | [308306-seedsow-lullaby.json](./308306-seedsow-lullaby.json) |
@@ -10876,6 +10877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sisters of Solitude | 391847 | [391847-sisters-of-solitude.json](./391847-sisters-of-solitude.json) |
 | Sisters of Sweetwater | 225091 | [225091-sisters-of-sweetwater.json](./225091-sisters-of-sweetwater.json) |
 | Sisters Possession 1 | 195120 | [195120-sisters-possession-1.json](./195120-sisters-possession-1.json) |
+| Sisters Royale: Five Sisters Under Fire | 103365 | [103365-sisters-royale-five-sisters-under-fire.json](./103365-sisters-royale-five-sisters-under-fire.json) |
 | Sisters Royale: Five Stars Under Fire - Ode | 161756 | [161756-sisters-royale-five-stars-under-fire-ode.json](./161756-sisters-royale-five-stars-under-fire-ode.json) |
 | Sisters Runner | 222260 | [222260-sisters-runner.json](./222260-sisters-runner.json) |
 | Sisters Secrecy: Arcanum Bloodlines | 54360 | [54360-sisters-secrecy-arcanum-bloodlines.json](./54360-sisters-secrecy-arcanum-bloodlines.json) |
@@ -18270,6 +18272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -25508,6 +25511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormgate | 204358 | [204358-stormgate.json](./204358-stormgate.json) |
 | Stormhill Mystery: Family Shadows | 113784 | [113784-stormhill-mystery-family-shadows.json](./113784-stormhill-mystery-family-shadows.json) |
 | Storming the Grandmothership | 181227 | [181227-storming-the-grandmothership.json](./181227-storming-the-grandmothership.json) |
+| Stormland | 103260 | [103260-stormland.json](./103260-stormland.json) |
 | Stormlander | 378994 | [378994-stormlander.json](./378994-stormlander.json) |
 | Stormlord | 12781 | [12781-stormlord.json](./12781-stormlord.json) |
 | Stormlord | 393907 | [393907-stormlord.json](./393907-stormlord.json) |
@@ -28552,6 +28556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bomberman R 2 | 206807 | [206807-super-bomberman-r-2.json](./206807-super-bomberman-r-2.json) |
 | Super Bomberman R Online | 135826 | [135826-super-bomberman-r-online.json](./135826-super-bomberman-r-online.json) |
 | Super Bomberman R Online: Premium Pack | 150653 | [150653-super-bomberman-r-online-premium-pack.json](./150653-super-bomberman-r-online-premium-pack.json) |
+| Super Bomberman R: Shiny Edition | 103368 | [103368-super-bomberman-r-shiny-edition.json](./103368-super-bomberman-r-shiny-edition.json) |
 | Super Bomberman: Panic Bomber W | 42546 | [42546-super-bomberman-panic-bomber-w.json](./42546-super-bomberman-panic-bomber-w.json) |
 | Super Bombinhas | 185968 | [185968-super-bombinhas.json](./185968-super-bombinhas.json) |
 | Super Bonk | 9028 | [9028-super-bonk.json](./9028-super-bonk.json) |
@@ -28798,6 +28803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dancer Online | 64626 | [64626-super-dancer-online.json](./64626-super-dancer-online.json) |
 | Super Danganronpa Another 2 ~The Moon of Hope and Sun of Despair~ | 143215 | [143215-super-danganronpa-another-2-the-moon-of-hope-and-sun-of-despair.json](./143215-super-danganronpa-another-2-the-moon-of-hope-and-sun-of-despair.json) |
 | Super Danganronpa Another 2: Summer Camp | 411317 | [411317-super-danganronpa-another-2-summer-camp.json](./411317-super-danganronpa-another-2-summer-camp.json) |
+| Super Dangerous Dungeons | 103419 | [103419-super-dangerous-dungeons.json](./103419-super-dangerous-dungeons.json) |
 | Super Dangerous Trap | 95727 | [95727-super-dangerous-trap.json](./95727-super-dangerous-trap.json) |
 | Super Dany | 42658 | [42658-super-dany.json](./42658-super-dany.json) |
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
@@ -33254,6 +33260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Soldiers | 210261 | [210261-swords-and-soldiers.json](./210261-swords-and-soldiers.json) |
 | Swords & Soldiers | 210262 | [210262-swords-and-soldiers.json](./210262-swords-and-soldiers.json) |
 | Swords & Soldiers II | 19975 | [19975-swords-and-soldiers-ii.json](./19975-swords-and-soldiers-ii.json) |
+| Swords & Soldiers II: Shawarmageddon | 103651 | [103651-swords-and-soldiers-ii-shawarmageddon.json](./103651-swords-and-soldiers-ii-shawarmageddon.json) |
 | Swords & Soldiers: Super Saucy Sausage Fest | 109470 | [109470-swords-and-soldiers-super-saucy-sausage-fest.json](./109470-swords-and-soldiers-super-saucy-sausage-fest.json) |
 | Swords & Sorcery | 26303 | [26303-swords-and-sorcery.json](./26303-swords-and-sorcery.json) |
 | Swords & Souls Legacy Collection | 332299 | [332299-swords-and-souls-legacy-collection.json](./332299-swords-and-souls-legacy-collection.json) |
