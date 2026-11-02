@@ -7009,6 +7009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Colony | 178020 | [178020-the-colony.json](./178020-the-colony.json) |
 | The Colony 2044 | 271081 | [271081-the-colony-2044.json](./271081-the-colony-2044.json) |
 | The Colorado Cactus Curcuit | 364680 | [364680-the-colorado-cactus-curcuit.json](./364680-the-colorado-cactus-curcuit.json) |
+| The Colorado Cannibal - A Custom Campaign | 420336 | [420336-the-colorado-cannibal-a-custom-campaign.json](./420336-the-colorado-cannibal-a-custom-campaign.json) |
 | The Colored Moth | 184070 | [184070-the-colored-moth.json](./184070-the-colored-moth.json) |
 | The Colorful Biplane | 377719 | [377719-the-colorful-biplane.json](./377719-the-colorful-biplane.json) |
 | The Colorful Creature | 152468 | [152468-the-colorful-creature.json](./152468-the-colorful-creature.json) |
@@ -7233,6 +7234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew 2: Steelbook Gold Edition | 122358 | [122358-the-crew-2-steelbook-gold-edition.json](./122358-the-crew-2-steelbook-gold-edition.json) |
 | The Crew Motorfest: JDM Custom Car Pack | 393736 | [393736-the-crew-motorfest-jdm-custom-car-pack.json](./393736-the-crew-motorfest-jdm-custom-car-pack.json) |
 | The Crew Motorfest: Year 1 Pass | 298706 | [298706-the-crew-motorfest-year-1-pass.json](./298706-the-crew-motorfest-year-1-pass.json) |
+| The Crew Road Empire | 420316 | [420316-the-crew-road-empire.json](./420316-the-crew-road-empire.json) |
 | The Crew: Gold Edition | 53703 | [53703-the-crew-gold-edition.json](./53703-the-crew-gold-edition.json) |
 | The Crew: Motorfest - Alfa Romeo Double Car Pack | 408888 | [408888-the-crew-motorfest-alfa-romeo-double-car-pack.json](./408888-the-crew-motorfest-alfa-romeo-double-car-pack.json) |
 | The Crew: Motorfest - Audi Double Car Pack | 393735 | [393735-the-crew-motorfest-audi-double-car-pack.json](./393735-the-crew-motorfest-audi-double-car-pack.json) |
@@ -7536,6 +7538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Eye: Skilltree Saga | 53724 | [53724-the-dark-eye-skilltree-saga.json](./53724-the-dark-eye-skilltree-saga.json) |
 | The Dark Fables of Aesop | 254454 | [254454-the-dark-fables-of-aesop.json](./254454-the-dark-fables-of-aesop.json) |
 | The Dark Fever | 210551 | [210551-the-dark-fever.json](./210551-the-dark-fever.json) |
+| The Dark Forest Calls | 420350 | [420350-the-dark-forest-calls.json](./420350-the-dark-forest-calls.json) |
 | The Dark Half | 71515 | [71515-the-dark-half.json](./71515-the-dark-half.json) |
 | The Dark Heart of Balor | 199483 | [199483-the-dark-heart-of-balor.json](./199483-the-dark-heart-of-balor.json) |
 | The Dark Hills of Cherai 2: The Regal Scepter | 158947 | [158947-the-dark-hills-of-cherai-2-the-regal-scepter.json](./158947-the-dark-hills-of-cherai-2-the-regal-scepter.json) |
@@ -7602,6 +7605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkblade | 367894 | [367894-the-darkblade.json](./367894-the-darkblade.json) |
 | The Darked | 142227 | [142227-the-darked.json](./142227-the-darked.json) |
 | The Darkened Halls | 275701 | [275701-the-darkened-halls.json](./275701-the-darkened-halls.json) |
+| The Darkened Northern Lights | 420361 | [420361-the-darkened-northern-lights.json](./420361-the-darkened-northern-lights.json) |
 | The Darkened Outpost | 263424 | [263424-the-darkened-outpost.json](./263424-the-darkened-outpost.json) |
 | The Darkening: Episode 1 | 262433 | [262433-the-darkening-episode-1.json](./262433-the-darkening-episode-1.json) |
 | The Darkening: Episode 2 | 262434 | [262434-the-darkening-episode-2.json](./262434-the-darkening-episode-2.json) |
@@ -7957,6 +7961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doodle Palette | 377964 | [377964-the-doodle-palette.json](./377964-the-doodle-palette.json) |
 | The Doom Beneath | 175429 | [175429-the-doom-beneath.json](./175429-the-doom-beneath.json) |
 | The Doom Brutalist Community Project | 401315 | [401315-the-doom-brutalist-community-project.json](./401315-the-doom-brutalist-community-project.json) |
+| The Doom Collection | 420339 | [420339-the-doom-collection.json](./420339-the-doom-collection.json) |
 | The Doomed Knight | 149268 | [149268-the-doomed-knight.json](./149268-the-doomed-knight.json) |
 | The Doomsday Crisis Line | 176763 | [176763-the-doomsday-crisis-line.json](./176763-the-doomsday-crisis-line.json) |
 | The Doomsland: Survivors | 245202 | [245202-the-doomsland-survivors.json](./245202-the-doomsland-survivors.json) |
@@ -17440,6 +17445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Visit | 128660 | [128660-the-visit.json](./128660-the-visit.json) |
 | The Visit | 201289 | [201289-the-visit.json](./201289-the-visit.json) |
 | The Visit | 212153 | [212153-the-visit.json](./212153-the-visit.json) |
+| The Visit | 420318 | [420318-the-visit.json](./420318-the-visit.json) |
 | The Visit: Mizukawa | 388287 | [388287-the-visit-mizukawa.json](./388287-the-visit-mizukawa.json) |
 | The Visitor | 151752 | [151752-the-visitor.json](./151752-the-visitor.json) |
 | The Visitor | 159191 | [159191-the-visitor.json](./159191-the-visitor.json) |
