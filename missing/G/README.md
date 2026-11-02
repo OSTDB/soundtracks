@@ -4398,6 +4398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gitadora OverDrive | 60811 | [60811-gitadora-overdrive.json](./60811-gitadora-overdrive.json) |
 | Gitadora Tri-Boost | 154822 | [154822-gitadora-tri-boost.json](./154822-gitadora-tri-boost.json) |
 | Gitadora Tri-Boost Re:Evolve | 154823 | [154823-gitadora-tri-boost-re-evolve.json](./154823-gitadora-tri-boost-re-evolve.json) |
+| Gitaroo Man | 404052 | [404052-gitaroo-man.json](./404052-gitaroo-man.json) |
 | Gitaroo Man Lives! | 42813 | [42813-gitaroo-man-lives.json](./42813-gitaroo-man-lives.json) |
 | Giten Megami Tensei: Tokyo Mokushiroku | 103378 | [103378-giten-megami-tensei-tokyo-mokushiroku.json](./103378-giten-megami-tensei-tokyo-mokushiroku.json) |
 | Give a Dam! | 248066 | [248066-give-a-dam.json](./248066-give-a-dam.json) |
@@ -4956,6 +4957,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GlueFO | 407834 | [407834-gluefo.json](./407834-gluefo.json) |
 | GlueFO 2.0 | 407835 | [407835-gluefo-2-0.json](./407835-gluefo-2-0.json) |
 | GlueFO 3: Asteroid Wars | 407837 | [407837-gluefo-3-asteroid-wars.json](./407837-gluefo-3-asteroid-wars.json) |
+| Gluey | 403998 | [403998-gluey.json](./403998-gluey.json) |
+| Gluey 2 | 404010 | [404010-gluey-2.json](./404010-gluey-2.json) |
 | Gluf | 141080 | [141080-gluf.json](./141080-gluf.json) |
 | Glug Glug | 14095 | [14095-glug-glug.json](./14095-glug-glug.json) |
 | Gluk the Thunder Warrior | 48565 | [48565-gluk-the-thunder-warrior.json](./48565-gluk-the-thunder-warrior.json) |
