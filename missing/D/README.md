@@ -11563,6 +11563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino VR | 31894 | [31894-domino-vr.json](./31894-domino-vr.json) |
 | Domino World AR | 95752 | [95752-domino-world-ar.json](./95752-domino-world-ar.json) |
 | Domino! | 281483 | [281483-domino.json](./281483-domino.json) |
+| Dominocalypse | 404644 | [404644-dominocalypse.json](./404644-dominocalypse.json) |
 | Dominoes | 60322 | [60322-dominoes.json](./60322-dominoes.json) |
 | Dominoes Café | 204967 | [204967-dominoes-cafe.json](./204967-dominoes-cafe.json) |
 | Dominoes Colors | 264599 | [264599-dominoes-colors.json](./264599-dominoes-colors.json) |
