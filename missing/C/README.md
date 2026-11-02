@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campus Shock Night | 282172 | [282172-campus-shock-night.json](./282172-campus-shock-night.json) |
 | Campwood | 395096 | [395096-campwood.json](./395096-campwood.json) |
 | Camundongo Miguel na Ilha dos Novo Pogos | 298411 | [298411-camundongo-miguel-na-ilha-dos-novo-pogos.json](./298411-camundongo-miguel-na-ilha-dos-novo-pogos.json) |
+| Camy 2: The Machine | 400480 | [400480-camy-2-the-machine.json](./400480-camy-2-the-machine.json) |
 | Can A Cute Ghost Story Be Spooky? | 176645 | [176645-can-a-cute-ghost-story-be-spooky.json](./176645-can-a-cute-ghost-story-be-spooky.json) |
 | Can Androids Pray: Blue | 125388 | [125388-can-androids-pray-blue.json](./125388-can-androids-pray-blue.json) |
 | Can Androids Pray: Red | 133024 | [133024-can-androids-pray-red.json](./133024-can-androids-pray-red.json) |
@@ -9189,6 +9190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClassBoom | 372748 | [372748-classboom.json](./372748-classboom.json) |
 | Classic Action: Devilish | 47890 | [47890-classic-action-devilish.json](./47890-classic-action-devilish.json) |
 | Classic Adventure | 25589 | [25589-classic-adventure.json](./25589-classic-adventure.json) |
+| Classic Adventures | 400293 | [400293-classic-adventures.json](./400293-classic-adventures.json) |
 | Classic Adventures: The Great Gatsby | 417686 | [417686-classic-adventures-the-great-gatsby.json](./417686-classic-adventures-the-great-gatsby.json) |
 | Classic Arcade Fishing | 284976 | [284976-classic-arcade-fishing.json](./284976-classic-arcade-fishing.json) |
 | Classic Arcade Pinball | 220536 | [220536-classic-arcade-pinball.json](./220536-classic-arcade-pinball.json) |
