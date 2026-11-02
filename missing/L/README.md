@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Futures | 294144 | [294144-land-of-futures.json](./294144-land-of-futures.json) |
 | Land of Ghosts | 341629 | [341629-land-of-ghosts.json](./341629-land-of-ghosts.json) |
 | Land of Glarefall | 352737 | [352737-land-of-glarefall.json](./352737-land-of-glarefall.json) |
+| Land of Heroes | 148648 | [148648-land-of-heroes.json](./148648-land-of-heroes.json) |
 | Land of Idyllic Beauty | 348355 | [348355-land-of-idyllic-beauty.json](./348355-land-of-idyllic-beauty.json) |
 | Land of Illusion Starring Mickey Mouse | 8123 | [8123-land-of-illusion-starring-mickey-mouse.json](./8123-land-of-illusion-starring-mickey-mouse.json) |
 | Land of Legends | 130833 | [130833-land-of-legends.json](./130833-land-of-legends.json) |
@@ -735,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landlord | 385584 | [385584-landlord.json](./385584-landlord.json) |
 | Landlord and the Tenants | 310279 | [310279-landlord-and-the-tenants.json](./310279-landlord-and-the-tenants.json) |
 | Landlord Go! | 235293 | [235293-landlord-go.json](./235293-landlord-go.json) |
+| Landlord of the Woods | 144931 | [144931-landlord-of-the-woods.json](./144931-landlord-of-the-woods.json) |
 | Landlord Simulator | 231878 | [231878-landlord-simulator.json](./231878-landlord-simulator.json) |
 | Landlord Simulator | 89654 | [89654-landlord-simulator.json](./89654-landlord-simulator.json) |
 | Landlord Tycoon | 127984 | [127984-landlord-tycoon.json](./127984-landlord-tycoon.json) |
@@ -2222,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left 4 Dead: Crash Course | 22887 | [22887-left-4-dead-crash-course.json](./22887-left-4-dead-crash-course.json) |
 | Left 4 Dead: Game of the Year Edition | 47413 | [47413-left-4-dead-game-of-the-year-edition.json](./47413-left-4-dead-game-of-the-year-edition.json) |
 | Left 4 Dead: Survivors | 60984 | [60984-left-4-dead-survivors.json](./60984-left-4-dead-survivors.json) |
+| Left 4 Dead: The Last Stand | 151872 | [151872-left-4-dead-the-last-stand.json](./151872-left-4-dead-the-last-stand.json) |
 | Left 4k Dead | 384137 | [384137-left-4k-dead.json](./384137-left-4k-dead.json) |
 | Left 4k Dead 2 | 384139 | [384139-left-4k-dead-2.json](./384139-left-4k-dead-2.json) |
 | Left Alive | 68287 | [68287-left-alive.json](./68287-left-alive.json) |
