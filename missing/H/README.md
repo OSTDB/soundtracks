@@ -1461,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Day | 388974 | [388974-happy-day.json](./388974-happy-day.json) |
 | Happy Diet | 194352 | [194352-happy-diet.json](./194352-happy-diet.json) |
 | Happy Drummer VR | 29993 | [29993-happy-drummer-vr.json](./29993-happy-drummer-vr.json) |
+| Happy Dungeons | 52238 | [52238-happy-dungeons.json](./52238-happy-dungeons.json) |
 | Happy Empire | 31693 | [31693-happy-empire.json](./31693-happy-empire.json) |
 | Happy Empire - The Marriage Voyage | 105650 | [105650-happy-empire-the-marriage-voyage.json](./105650-happy-empire-the-marriage-voyage.json) |
 | Happy Empire 2: The Lost Relic | 105989 | [105989-happy-empire-2-the-lost-relic.json](./105989-happy-empire-2-the-lost-relic.json) |
@@ -1791,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Dirt Bike | 87720 | [87720-hardcore-dirt-bike.json](./87720-hardcore-dirt-bike.json) |
 | Hardcore Dirt Bike 2 | 97918 | [97918-hardcore-dirt-bike-2.json](./97918-hardcore-dirt-bike-2.json) |
 | Hardcore Leveling Warrior | 382444 | [382444-hardcore-leveling-warrior.json](./382444-hardcore-leveling-warrior.json) |
+| Hardcore Mecha | 54911 | [54911-hardcore-mecha.json](./54911-hardcore-mecha.json) |
 | Hardcore Mecha: Fighter Edition | 136927 | [136927-hardcore-mecha-fighter-edition.json](./136927-hardcore-mecha-fighter-edition.json) |
 | Hardcore Mecha: Graeme | 168211 | [168211-hardcore-mecha-graeme.json](./168211-hardcore-mecha-graeme.json) |
 | Hardcore Mecha: Pilot Pack 1 | 168209 | [168209-hardcore-mecha-pilot-pack-1.json](./168209-hardcore-mecha-pilot-pack-1.json) |
@@ -2557,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Mansion | 342075 | [342075-haunted-mansion.json](./342075-haunted-mansion.json) |
 | Haunted Mansion: Experience | 319759 | [319759-haunted-mansion-experience.json](./319759-haunted-mansion-experience.json) |
 | Haunted Maze | 266638 | [266638-haunted-maze.json](./266638-haunted-maze.json) |
+| Haunted Memories | 16552 | [16552-haunted-memories.json](./16552-haunted-memories.json) |
 | Haunted Memories: The Return | 253542 | [253542-haunted-memories-the-return.json](./253542-haunted-memories-the-return.json) |
 | Haunted Mines | 361115 | [361115-haunted-mines.json](./361115-haunted-mines.json) |
 | Haunted Nightmares | 149446 | [149446-haunted-nightmares.json](./149446-haunted-nightmares.json) |
