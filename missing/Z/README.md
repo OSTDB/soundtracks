@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeliard | 2409 | [2409-zeliard.json](./2409-zeliard.json) |
 | Zeliria Sanctuary: Isle's Memories | 170772 | [170772-zeliria-sanctuary-isles-memories.json](./170772-zeliria-sanctuary-isles-memories.json) |
 | Zella's Gun | 412572 | [412572-zellas-gun.json](./412572-zellas-gun.json) |
+| Zelle | 122523 | [122523-zelle.json](./122523-zelle.json) |
 | Zellige: The Tilemaker of Granada | 220734 | [220734-zellige-the-tilemaker-of-granada.json](./220734-zellige-the-tilemaker-of-granada.json) |
 | Zelter | 138243 | [138243-zelter.json](./138243-zelter.json) |
 | Zeltoid X1 | 216477 | [216477-zeltoid-x1.json](./216477-zeltoid-x1.json) |
@@ -750,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeno no Nichijou | 284577 | [284577-zeno-no-nichijou.json](./284577-zeno-no-nichijou.json) |
 | Zenobi Adventures CD | 85893 | [85893-zenobi-adventures-cd.json](./85893-zenobi-adventures-cd.json) |
 | Zenodeath | 118828 | [118828-zenodeath.json](./118828-zenodeath.json) |
+| Zenodyne R | 32755 | [32755-zenodyne-r.json](./32755-zenodyne-r.json) |
 | Zenoken | 326633 | [326633-zenoken.json](./326633-zenoken.json) |
 | Zenomatrix | 332450 | [332450-zenomatrix.json](./332450-zenomatrix.json) |
 | Zenonia | 38725 | [38725-zenonia.json](./38725-zenonia.json) |
@@ -1355,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Ants VR | 250003 | [250003-zombie-ants-vr.json](./250003-zombie-ants-vr.json) |
 | Zombie Ants VR: Definitive Edition | 359219 | [359219-zombie-ants-vr-definitive-edition.json](./359219-zombie-ants-vr-definitive-edition.json) |
 | Zombie Apocalypse | 106306 | [106306-zombie-apocalypse.json](./106306-zombie-apocalypse.json) |
+| Zombie Apocalypse | 115229 | [115229-zombie-apocalypse.json](./115229-zombie-apocalypse.json) |
 | Zombie Apocalypse | 147819 | [147819-zombie-apocalypse.json](./147819-zombie-apocalypse.json) |
 | Zombie Apocalypse | 18053 | [18053-zombie-apocalypse.json](./18053-zombie-apocalypse.json) |
 | Zombie Apocalypse 2021 | 154381 | [154381-zombie-apocalypse-2021.json](./154381-zombie-apocalypse-2021.json) |
