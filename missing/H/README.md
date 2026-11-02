@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hail Britannia | 340408 | [340408-hail-britannia.json](./340408-hail-britannia.json) |
 | Hail to the Chimp | 7005 | [7005-hail-to-the-chimp.json](./7005-hail-to-the-chimp.json) |
 | Hail to the King | 114265 | [114265-hail-to-the-king.json](./114265-hail-to-the-king.json) |
+| Hail to the King: Deathbat | 17921 | [17921-hail-to-the-king-deathbat.json](./17921-hail-to-the-king-deathbat.json) |
 | Hailborn: UFO Stole My Egg! | 337292 | [337292-hailborn-ufo-stole-my-egg.json](./337292-hailborn-ufo-stole-my-egg.json) |
 | Hailey | 109738 | [109738-hailey.json](./109738-hailey.json) |
 | Hailey's Aesop | 303696 | [303696-haileys-aesop.json](./303696-haileys-aesop.json) |
@@ -11843,6 +11844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperrail Detective | 272762 | [272762-hyperrail-detective.json](./272762-hyperrail-detective.json) |
 | HyperRogue | 35931 | [35931-hyperrogue.json](./35931-hyperrogue.json) |
 | Hyperscale | 410398 | [410398-hyperscale.json](./410398-hyperscale.json) |
+| Hypersensitive Bob | 18126 | [18126-hypersensitive-bob.json](./18126-hypersensitive-bob.json) |
 | HyperShift | 56238 | [56238-hypershift.json](./56238-hypershift.json) |
 | Hypership Out of Control | 35659 | [35659-hypership-out-of-control.json](./35659-hypership-out-of-control.json) |
 | HyperShip Out of Control 2 | 113291 | [113291-hypership-out-of-control-2.json](./113291-hypership-out-of-control-2.json) |
