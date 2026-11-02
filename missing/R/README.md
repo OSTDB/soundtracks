@@ -2757,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Estate Tycoon | 89224 | [89224-real-estate-tycoon.json](./89224-real-estate-tycoon.json) |
 | Real Estate Tycoon! | 348155 | [348155-real-estate-tycoon.json](./348155-real-estate-tycoon.json) |
 | Real Farm | 227480 | [227480-real-farm.json](./227480-real-farm.json) |
+| Real Farm | 54524 | [54524-real-farm.json](./54524-real-farm.json) |
 | Real Farm: Gold Edition | 152495 | [152495-real-farm-gold-edition.json](./152495-real-farm-gold-edition.json) |
 | Real Farm: Potato Pack | 225571 | [225571-real-farm-potato-pack.json](./225571-real-farm-potato-pack.json) |
 | Real Farm: Premium Edition | 155097 | [155097-real-farm-premium-edition.json](./155097-real-farm-premium-edition.json) |
@@ -8948,6 +8949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Time Trials: Galactic Highway | 389070 | [389070-rocket-time-trials-galactic-highway.json](./389070-rocket-time-trials-galactic-highway.json) |
 | Rocket Valet! Galaxy Landing Service | 212818 | [212818-rocket-valet-galaxy-landing-service.json](./212818-rocket-valet-galaxy-landing-service.json) |
 | Rocket Valley Tycoon | 95964 | [95964-rocket-valley-tycoon.json](./95964-rocket-valley-tycoon.json) |
+| Rocket Wars | 36630 | [36630-rocket-wars.json](./36630-rocket-wars.json) |
 | Rocket Wrestling Entertainment | 353290 | [353290-rocket-wrestling-entertainment.json](./353290-rocket-wrestling-entertainment.json) |
 | Rocket Zap | 216125 | [216125-rocket-zap.json](./216125-rocket-zap.json) |
 | Rocket-Man | 377774 | [377774-rocket-man.json](./377774-rocket-man.json) |
