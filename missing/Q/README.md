@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qualia | 325349 | [325349-qualia.json](./325349-qualia.json) |
 | Qualia | 383032 | [383032-qualia.json](./383032-qualia.json) |
 | Qualia | 77279 | [77279-qualia.json](./77279-qualia.json) |
+| Qualia 3: Multi Agent | 10747 | [10747-qualia-3-multi-agent.json](./10747-qualia-3-multi-agent.json) |
 | Qualia: The Path of Promise | 234206 | [234206-qualia-the-path-of-promise.json](./234206-qualia-the-path-of-promise.json) |
 | Qualia's Sweets Craft | 165658 | [165658-qualias-sweets-craft.json](./165658-qualias-sweets-craft.json) |
 | Qualia/Delta | 242066 | [242066-qualia-delta.json](./242066-qualia-delta.json) |
