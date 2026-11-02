@@ -3127,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Gems Bundle: JRPG Edition | 129805 | [129805-indie-gems-bundle-jrpg-edition.json](./129805-indie-gems-bundle-jrpg-edition.json) |
 | Indie Heroes Collection 1 | 145831 | [145831-indie-heroes-collection-1.json](./145831-indie-heroes-collection-1.json) |
 | Indie Heroes Collection 3 | 252064 | [252064-indie-heroes-collection-3.json](./252064-indie-heroes-collection-3.json) |
+| Indie Hoverboard Racing | 400577 | [400577-indie-hoverboard-racing.json](./400577-indie-hoverboard-racing.json) |
 | Indie Jane and the Snake Tower | 240198 | [240198-indie-jane-and-the-snake-tower.json](./240198-indie-jane-and-the-snake-tower.json) |
 | Indie Nights | 274481 | [274481-indie-nights.json](./274481-indie-nights.json) |
 | Indie Nights: Nightmare in Yellow Pine | 277289 | [277289-indie-nights-nightmare-in-yellow-pine.json](./277289-indie-nights-nightmare-in-yellow-pine.json) |
