@@ -6984,6 +6984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooparoopang | 109989 | [109989-wooparoopang.json](./109989-wooparoopang.json) |
 | Wooper no Juggling Game | 354236 | [354236-wooper-no-juggling-game.json](./354236-wooper-no-juggling-game.json) |
 | Woorld | 25867 | [25867-woorld.json](./25867-woorld.json) |
+| Woozy | 424009 | [424009-woozy.json](./424009-woozy.json) |
 | WoozyHero | 120739 | [120739-woozyhero.json](./120739-woozyhero.json) |
 | Woozzle Reborn | 232097 | [232097-woozzle-reborn.json](./232097-woozzle-reborn.json) |
 | Wor Games | 335847 | [335847-wor-games.json](./335847-wor-games.json) |
