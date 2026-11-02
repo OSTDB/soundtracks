@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taekwon-do | 114033 | [114033-taekwon-do.json](./114033-taekwon-do.json) |
 | Taekwondo | 93478 | [93478-taekwondo.json](./93478-taekwondo.json) |
 | Taekwondo Demonstration Team Simulator | 160108 | [160108-taekwondo-demonstration-team-simulator.json](./160108-taekwondo-demonstration-team-simulator.json) |
+| Taekwondo Grand Prix | 110735 | [110735-taekwondo-grand-prix.json](./110735-taekwondo-grand-prix.json) |
 | TaekwonGirl | 329087 | [329087-taekwongirl.json](./329087-taekwongirl.json) |
 | Taern | 55929 | [55929-taern.json](./55929-taern.json) |
 | Taffy Tales | 191607 | [191607-taffy-tales.json](./191607-taffy-tales.json) |
@@ -16058,6 +16059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story of Archer | 195901 | [195901-the-story-of-archer.json](./195901-the-story-of-archer.json) |
 | The Story of Barker | 220815 | [220815-the-story-of-barker.json](./220815-the-story-of-barker.json) |
 | The Story of Bill Bear | 173030 | [173030-the-story-of-bill-bear.json](./173030-the-story-of-bill-bear.json) |
+| The Story of Henry Bishop | 120696 | [120696-the-story-of-henry-bishop.json](./120696-the-story-of-henry-bishop.json) |
 | The Story of King Aress | 125464 | [125464-the-story-of-king-aress.json](./125464-the-story-of-king-aress.json) |
 | The Story of Mikagoyama | 390661 | [390661-the-story-of-mikagoyama.json](./390661-the-story-of-mikagoyama.json) |
 | The Story of Miss Mouse | 306026 | [306026-the-story-of-miss-mouse.json](./306026-the-story-of-miss-mouse.json) |
@@ -30500,6 +30502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok Bundle | 103215 | [103215-turok-bundle.json](./103215-turok-bundle.json) |
 | Turok Trilogy Bundle | 279028 | [279028-turok-trilogy-bundle.json](./279028-turok-trilogy-bundle.json) |
 | Turok: Battle of the Bionosaurs | 1325 | [1325-turok-battle-of-the-bionosaurs.json](./1325-turok-battle-of-the-bionosaurs.json) |
+| Turok: Escape from Lost Valley | 120545 | [120545-turok-escape-from-lost-valley.json](./120545-turok-escape-from-lost-valley.json) |
 | Turok: Evolution | 1329 | [1329-turok-evolution.json](./1329-turok-evolution.json) |
 | Turok: Evolution | 146695 | [146695-turok-evolution.json](./146695-turok-evolution.json) |
 | Turok: Origins | 325600 | [325600-turok-origins.json](./325600-turok-origins.json) |
