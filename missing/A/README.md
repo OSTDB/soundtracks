@@ -2157,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Kizuna Encounter | 113906 | [113906-aca-neo-geo-kizuna-encounter.json](./113906-aca-neo-geo-kizuna-encounter.json) |
 | ACA Neo Geo: Last Resort | 99748 | [99748-aca-neo-geo-last-resort.json](./99748-aca-neo-geo-last-resort.json) |
 | ACA Neo Geo: Magical Drop II | 99509 | [99509-aca-neo-geo-magical-drop-ii.json](./99509-aca-neo-geo-magical-drop-ii.json) |
+| ACA Neo Geo: Magical Drop III | 88578 | [88578-aca-neo-geo-magical-drop-iii.json](./88578-aca-neo-geo-magical-drop-iii.json) |
 | ACA Neo Geo: Magician Lord | 68481 | [68481-aca-neo-geo-magician-lord.json](./68481-aca-neo-geo-magician-lord.json) |
 | ACA Neo Geo: Metal Slug | 28452 | [28452-aca-neo-geo-metal-slug.json](./28452-aca-neo-geo-metal-slug.json) |
 | ACA Neo Geo: Metal Slug 2 | 99504 | [99504-aca-neo-geo-metal-slug-2.json](./99504-aca-neo-geo-metal-slug-2.json) |
@@ -3596,6 +3597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon Alpha | 141071 | [141071-aeon-alpha.json](./141071-aeon-alpha.json) |
 | Aeon Blood | 169383 | [169383-aeon-blood.json](./169383-aeon-blood.json) |
 | Aeon Command | 8374 | [8374-aeon-command.json](./8374-aeon-command.json) |
+| Aeon Drive | 135410 | [135410-aeon-drive.json](./135410-aeon-drive.json) |
 | Aeon Flux | 15847 | [15847-aeon-flux.json](./15847-aeon-flux.json) |
 | Aeon Flux | 80426 | [80426-aeon-flux.json](./80426-aeon-flux.json) |
 | Aeon Guard | 381196 | [381196-aeon-guard.json](./381196-aeon-guard.json) |
@@ -6273,6 +6275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Carnage | 8487 | [8487-alien-carnage.json](./8487-alien-carnage.json) |
 | Alien Cartographer | 374594 | [374594-alien-cartographer.json](./374594-alien-cartographer.json) |
 | Alien Caseno | 26571 | [26571-alien-caseno.json](./26571-alien-caseno.json) |
+| Alien Cat | 130159 | [130159-alien-cat.json](./130159-alien-cat.json) |
 | Alien Cat 2: Retro Collection | 405912 | [405912-alien-cat-2-retro-collection.json](./405912-alien-cat-2-retro-collection.json) |
 | Alien Cat 3 | 169493 | [169493-alien-cat-3.json](./169493-alien-cat-3.json) |
 | Alien Cat 5 | 158658 | [158658-alien-cat-5.json](./158658-alien-cat-5.json) |
