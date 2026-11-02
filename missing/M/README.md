@@ -2417,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make More! | 95125 | [95125-make-more.json](./95125-make-more.json) |
 | Make My Car | 346227 | [346227-make-my-car.json](./346227-make-my-car.json) |
 | Make My Life Worse | 318788 | [318788-make-my-life-worse.json](./318788-make-my-life-worse.json) |
+| Make My Sandwich | 406491 | [406491-make-my-sandwich.json](./406491-make-my-sandwich.json) |
 | Make New Way | 296222 | [296222-make-new-way.json](./296222-make-new-way.json) |
 | Make or Break: The Routine | 180644 | [180644-make-or-break-the-routine.json](./180644-make-or-break-the-routine.json) |
 | Make Route | 109658 | [109658-make-route.json](./109658-make-route.json) |
@@ -13806,6 +13807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe! Ninja Girls | 110797 | [110797-moe-ninja-girls.json](./110797-moe-ninja-girls.json) |
 | Moe! Ninja Girls RPG | 335179 | [335179-moe-ninja-girls-rpg.json](./335179-moe-ninja-girls-rpg.json) |
 | Moe's Body Shop | 323790 | [323790-moes-body-shop.json](./323790-moes-body-shop.json) |
+| MoeArmy vs. SuArmy | 406500 | [406500-moearmy-vs-suarmy.json](./406500-moearmy-vs-suarmy.json) |
 | Moebius: Empire Rising | 5540 | [5540-moebius-empire-rising.json](./5540-moebius-empire-rising.json) |
 | Moebius: The Orb of Celestial Harmony | 14482 | [14482-moebius-the-orb-of-celestial-harmony.json](./14482-moebius-the-orb-of-celestial-harmony.json) |
 | Moeboid | 77352 | [77352-moeboid.json](./77352-moeboid.json) |
