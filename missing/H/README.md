@@ -1469,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Empire | 31693 | [31693-happy-empire.json](./31693-happy-empire.json) |
 | Happy Empire - The Marriage Voyage | 105650 | [105650-happy-empire-the-marriage-voyage.json](./105650-happy-empire-the-marriage-voyage.json) |
 | Happy Empire 2: The Lost Relic | 105989 | [105989-happy-empire-2-the-lost-relic.json](./105989-happy-empire-2-the-lost-relic.json) |
+| Happy Empire: A Bouquet for the Princess | 30918 | [30918-happy-empire-a-bouquet-for-the-princess.json](./30918-happy-empire-a-bouquet-for-the-princess.json) |
 | Happy Fall | 274388 | [274388-happy-fall.json](./274388-happy-fall.json) |
 | Happy Farm | 246337 | [246337-happy-farm.json](./246337-happy-farm.json) |
 | Happy Farm | 62236 | [62236-happy-farm.json](./62236-happy-farm.json) |
@@ -4373,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Me | 190038 | [190038-help-me.json](./190038-help-me.json) |
 | Help me Braveman! | 212484 | [212484-help-me-braveman.json](./212484-help-me-braveman.json) |
 | Help me Cleaner Sama!: I Got Isekai'd to Clean Monster Girl Basements | 402756 | [402756-help-me-cleaner-sama-i-got-isekaid-to-clean-monster-girl-basements.json](./402756-help-me-cleaner-sama-i-got-isekaid-to-clean-monster-girl-basements.json) |
+| Help Me Doctor | 31010 | [31010-help-me-doctor.json](./31010-help-me-doctor.json) |
 | Help Me Escape! The Puzzle Maker's Office | 108438 | [108438-help-me-escape-the-puzzle-makers-office.json](./108438-help-me-escape-the-puzzle-makers-office.json) |
 | Help Me Fly | 240832 | [240832-help-me-fly.json](./240832-help-me-fly.json) |
 | Help Me Jack: Save the Dogs | 175731 | [175731-help-me-jack-save-the-dogs.json](./175731-help-me-jack-save-the-dogs.json) |
@@ -7012,6 +7014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High on Racing | 35462 | [35462-high-on-racing.json](./35462-high-on-racing.json) |
 | High Pines | 377676 | [377676-high-pines.json](./377676-high-pines.json) |
 | High Pressure | 142061 | [142061-high-pressure.json](./142061-high-pressure.json) |
+| High Profits | 30896 | [30896-high-profits.json](./30896-high-profits.json) |
 | High Quality Funkin' | 405006 | [405006-high-quality-funkin.json](./405006-high-quality-funkin.json) |
 | High Rise | 229051 | [229051-high-rise.json](./229051-high-rise.json) |
 | High Rise | 330538 | [330538-high-rise.json](./330538-high-rise.json) |
