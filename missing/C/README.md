@@ -6459,6 +6459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chest Quest | 175189 | [175189-chest-quest.json](./175189-chest-quest.json) |
 | Chester | 193414 | [193414-chester.json](./193414-chester.json) |
 | Chester | 64830 | [64830-chester.json](./64830-chester.json) |
+| Chester at the Park | 420331 | [420331-chester-at-the-park.json](./420331-chester-at-the-park.json) |
 | Chester Cheetah: Too Cool to Fool | 46255 | [46255-chester-cheetah-too-cool-to-fool.json](./46255-chester-cheetah-too-cool-to-fool.json) |
 | Chester Cheetah: Wild Wild Quest | 46283 | [46283-chester-cheetah-wild-wild-quest.json](./46283-chester-cheetah-wild-wild-quest.json) |
 | Chester Field: Ankoku Shin he no Chousen | 48538 | [48538-chester-field-ankoku-shin-he-no-chousen.json](./48538-chester-field-ankoku-shin-he-no-chousen.json) |
