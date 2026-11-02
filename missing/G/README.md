@@ -6600,6 +6600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye Dreaming | 132666 | [132666-goodbye-dreaming.json](./132666-goodbye-dreaming.json) |
 | Goodbye Gordon | 184322 | [184322-goodbye-gordon.json](./184322-goodbye-gordon.json) |
 | Goodbye Monster | 325139 | [325139-goodbye-monster.json](./325139-goodbye-monster.json) |
+| Goodbye My King | 40841 | [40841-goodbye-my-king.json](./40841-goodbye-my-king.json) |
 | Goodbye Page | 374964 | [374964-goodbye-page.json](./374964-goodbye-page.json) |
 | Goodbye Seoul | 267853 | [267853-goodbye-seoul.json](./267853-goodbye-seoul.json) |
 | Goodbye World | 376046 | [376046-goodbye-world.json](./376046-goodbye-world.json) |
@@ -8037,6 +8038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Power | 28390 | [28390-gravity-power.json](./28390-gravity-power.json) |
 | Gravity Pull | 202172 | [202172-gravity-pull.json](./202172-gravity-pull.json) |
 | Gravity puzzles | 81844 | [81844-gravity-puzzles.json](./81844-gravity-puzzles.json) |
+| Gravity Quest | 39764 | [39764-gravity-quest.json](./39764-gravity-quest.json) |
 | Gravity Racers | 379054 | [379054-gravity-racers.json](./379054-gravity-racers.json) |
 | Gravity Range | 175333 | [175333-gravity-range.json](./175333-gravity-range.json) |
 | Gravity Rider | 95075 | [95075-gravity-rider.json](./95075-gravity-rider.json) |
