@@ -4012,7 +4012,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redlight | 296318 | [296318-redlight.json](./296318-redlight.json) |
 | RedLightCenter | 61176 | [61176-redlightcenter.json](./61176-redlightcenter.json) |
 | Redline | 321136 | [321136-redline.json](./321136-redline.json) |
-| Redline | 8681 | [8681-redline.json](./8681-redline.json) |
 | RedLine | 272244 | [272244-redline.json](./272244-redline.json) |
 | Redline Crooks | 252273 | [252273-redline-crooks.json](./252273-redline-crooks.json) |
 | Redline F-1 Racer | 239898 | [239898-redline-f-1-racer.json](./239898-redline-f-1-racer.json) |
