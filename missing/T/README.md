@@ -10071,6 +10071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The History of Fruit | 268471 | [268471-the-history-of-fruit.json](./268471-the-history-of-fruit.json) |
 | The History of Magic Tower: Opening | 309354 | [309354-the-history-of-magic-tower-opening.json](./309354-the-history-of-magic-tower-opening.json) |
 | The Hive | 125291 | [125291-the-hive.json](./125291-the-hive.json) |
+| The Hive | 17889 | [17889-the-hive.json](./17889-the-hive.json) |
 | The Hive | 242803 | [242803-the-hive.json](./242803-the-hive.json) |
 | The Hive | 95385 | [95385-the-hive.json](./95385-the-hive.json) |
 | The Hobbit | 248450 | [248450-the-hobbit.json](./248450-the-hobbit.json) |
@@ -21201,6 +21202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Jong | 336379 | [336379-tile-jong.json](./336379-tile-jong.json) |
 | Tile Jumper! | 354886 | [354886-tile-jumper.json](./354886-tile-jumper.json) |
 | Tile Master | 220185 | [220185-tile-master.json](./220185-tile-master.json) |
+| Tile Miner | 17958 | [17958-tile-miner.json](./17958-tile-miner.json) |
 | Tile Perfect | 288598 | [288598-tile-perfect.json](./288598-tile-perfect.json) |
 | Tile Rider | 35625 | [35625-tile-rider.json](./35625-tile-rider.json) |
 | Tile Ruler | 270554 | [270554-tile-ruler.json](./270554-tile-ruler.json) |
