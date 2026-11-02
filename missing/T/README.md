@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Something Literally | 341284 | [341284-take-something-literally.json](./341284-take-something-literally.json) |
 | Take Something Literally 2 | 341285 | [341285-take-something-literally-2.json](./341285-take-something-literally-2.json) |
 | Take Stock | 348369 | [348369-take-stock.json](./348369-take-stock.json) |
+| Take That Mainstage! | 403373 | [403373-take-that-mainstage.json](./403373-take-that-mainstage.json) |
 | Take the Cake | 76290 | [76290-take-the-cake.json](./76290-take-the-cake.json) |
 | Take the Dream IX | 33887 | [33887-take-the-dream-ix.json](./33887-take-the-dream-ix.json) |
 | Take the Earth | 258439 | [258439-take-the-earth.json](./258439-take-the-earth.json) |
@@ -7051,6 +7052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma - light and darkness battleground | 80965 | [80965-the-coma-light-and-darkness-battleground.json](./80965-the-coma-light-and-darkness-battleground.json) |
 | The Coma 2: Vicious Sisters | 121617 | [121617-the-coma-2-vicious-sisters.json](./121617-the-coma-2-vicious-sisters.json) |
 | The Coma 2: Vicious Sisters - Deluxe Edition | 154510 | [154510-the-coma-2-vicious-sisters-deluxe-edition.json](./154510-the-coma-2-vicious-sisters-deluxe-edition.json) |
+| The Coma 2: Vicious Sisters - Gamer Girl | 403412 | [403412-the-coma-2-vicious-sisters-gamer-girl.json](./403412-the-coma-2-vicious-sisters-gamer-girl.json) |
 | The Coma 2B: Catacomb | 293779 | [293779-the-coma-2b-catacomb.json](./293779-the-coma-2b-catacomb.json) |
 | The Coma 2B: Catacomb - Deluxe Edition | 383426 | [383426-the-coma-2b-catacomb-deluxe-edition.json](./383426-the-coma-2b-catacomb-deluxe-edition.json) |
 | The Coma 2B: Catacomb - The Child of Destiny Youngho | 324364 | [324364-the-coma-2b-catacomb-the-child-of-destiny-youngho.json](./324364-the-coma-2b-catacomb-the-child-of-destiny-youngho.json) |
@@ -13993,6 +13995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pawn Broker | 406455 | [406455-the-pawn-broker.json](./406455-the-pawn-broker.json) |
 | The Pay is Nice | 281866 | [281866-the-pay-is-nice.json](./281866-the-pay-is-nice.json) |
 | The Payphone | 398484 | [398484-the-payphone.json](./398484-the-payphone.json) |
+| The Pazaak Battles | 403391 | [403391-the-pazaak-battles.json](./403391-the-pazaak-battles.json) |
 | The Peace Keepers | 44465 | [44465-the-peace-keepers.json](./44465-the-peace-keepers.json) |
 | The Peacekeeper | 307300 | [307300-the-peacekeeper.json](./307300-the-peacekeeper.json) |
 | The Peak | 184165 | [184165-the-peak.json](./184165-the-peak.json) |
@@ -18611,6 +18614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thermo Nuclear War Games | 63749 | [63749-thermo-nuclear-war-games.json](./63749-thermo-nuclear-war-games.json) |
 | Thermo Puzzle | 194381 | [194381-thermo-puzzle.json](./194381-thermo-puzzle.json) |
 | Thermo Sudoku | 153687 | [153687-thermo-sudoku.json](./153687-thermo-sudoku.json) |
+| Thermocline | 403383 | [403383-thermocline.json](./403383-thermocline.json) |
 | Thermonuclear | 167363 | [167363-thermonuclear.json](./167363-thermonuclear.json) |
 | Thermopylae: The Last Stand | 417556 | [417556-thermopylae-the-last-stand.json](./417556-thermopylae-the-last-stand.json) |
 | Thesaurus | 326659 | [326659-thesaurus.json](./326659-thesaurus.json) |
