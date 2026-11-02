@@ -11575,6 +11575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Sisters Hair Salon 2 | 100335 | [100335-pony-sisters-hair-salon-2.json](./100335-pony-sisters-hair-salon-2.json) |
 | Pony Sisters Pet Hospital | 101584 | [101584-pony-sisters-pet-hospital.json](./101584-pony-sisters-pet-hospital.json) |
 | Pony Snow Run | 96704 | [96704-pony-snow-run.json](./96704-pony-snow-run.json) |
+| Pony Unicorn | 423408 | [423408-pony-unicorn.json](./423408-pony-unicorn.json) |
 | Pony vs. Pony | 379982 | [379982-pony-vs-pony.json](./379982-pony-vs-pony.json) |
 | Pony World 2 | 30845 | [30845-pony-world-2.json](./30845-pony-world-2.json) |
 | Pony World 3 | 35427 | [35427-pony-world-3.json](./35427-pony-world-3.json) |
@@ -11958,6 +11959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppix | 105535 | [105535-poppix.json](./105535-poppix.json) |
 | Popple to Mahou no Crayon | 408947 | [408947-popple-to-mahou-no-crayon.json](./408947-popple-to-mahou-no-crayon.json) |
 | Popplings | 201457 | [201457-popplings.json](./201457-popplings.json) |
+| Poppy | 423366 | [423366-poppy.json](./423366-poppy.json) |
 | Poppy Birds | 267955 | [267955-poppy-birds.json](./267955-poppy-birds.json) |
 | Poppy It! Playtime | 281420 | [281420-poppy-it-playtime.json](./281420-poppy-it-playtime.json) |
 | Poppy Kart | 13884 | [13884-poppy-kart.json](./13884-poppy-kart.json) |
@@ -14889,6 +14891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Legion | 61731 | [61731-project-legion.json](./61731-project-legion.json) |
 | Project Life is RPG | 250919 | [250919-project-life-is-rpg.json](./250919-project-life-is-rpg.json) |
 | Project Light | 84804 | [84804-project-light.json](./84804-project-light.json) |
+| Project Lightbringer | 423384 | [423384-project-lightbringer.json](./423384-project-lightbringer.json) |
 | Project Lilith | 396240 | [396240-project-lilith.json](./396240-project-lilith.json) |
 | Project Liminal 2 | 390043 | [390043-project-liminal-2.json](./390043-project-liminal-2.json) |
 | Project Liminal Redux | 242479 | [242479-project-liminal-redux.json](./242479-project-liminal-redux.json) |
@@ -15238,6 +15241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Arrival | 175006 | [175006-project-arrival.json](./175006-project-arrival.json) |
 | Project: Ascesis | 391530 | [391530-project-ascesis.json](./391530-project-ascesis.json) |
 | Project: Aurora | 155503 | [155503-project-aurora.json](./155503-project-aurora.json) |
+| Project: Autumn | 423398 | [423398-project-autumn.json](./423398-project-autumn.json) |
 | Project: Bits | 29741 | [29741-project-bits.json](./29741-project-bits.json) |
 | Project: Break//Down | 400524 | [400524-project-break-down.json](./400524-project-break-down.json) |
 | Project: Catalepsy | 395571 | [395571-project-catalepsy.json](./395571-project-catalepsy.json) |
