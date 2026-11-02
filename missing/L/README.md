@@ -3445,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Draw | 29849 | [29849-lets-draw.json](./29849-lets-draw.json) |
 | Let's Draw A Picture Together! | 68548 | [68548-lets-draw-a-picture-together.json](./68548-lets-draw-a-picture-together.json) |
 | Let's Eat! Seaside Cafe | 33465 | [33465-lets-eat-seaside-cafe.json](./33465-lets-eat-seaside-cafe.json) |
+| Let's Explore the Airport | 35469 | [35469-lets-explore-the-airport.json](./35469-lets-explore-the-airport.json) |
 | Let's Explore the Airport | 70323 | [70323-lets-explore-the-airport.json](./70323-lets-explore-the-airport.json) |
 | Let's Explore the Farm | 35470 | [35470-lets-explore-the-farm.json](./35470-lets-explore-the-farm.json) |
 | Let's Explore the Jungle | 35471 | [35471-lets-explore-the-jungle.json](./35471-lets-explore-the-jungle.json) |
@@ -4522,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightBear | 268994 | [268994-lightbear.json](./268994-lightbear.json) |
 | LightBear: Grizzelda Returns | 289008 | [289008-lightbear-grizzelda-returns.json](./289008-lightbear-grizzelda-returns.json) |
 | Lightbender | 329105 | [329105-lightbender.json](./329105-lightbender.json) |
+| Lightbender | 34230 | [34230-lightbender.json](./34230-lightbender.json) |
 | LightBike | 140302 | [140302-lightbike.json](./140302-lightbike.json) |
 | LightBike 2 | 234015 | [234015-lightbike-2.json](./234015-lightbike-2.json) |
 | Lightbot: Programming Puzzles | 88528 | [88528-lightbot-programming-puzzles.json](./88528-lightbot-programming-puzzles.json) |
@@ -9132,6 +9134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna Online | 93982 | [93982-luna-online.json](./93982-luna-online.json) |
 | Luna Online: Reborn | 54806 | [54806-luna-online-reborn.json](./54806-luna-online-reborn.json) |
 | Luna Sanctus | 121563 | [121563-luna-sanctus.json](./121563-luna-sanctus.json) |
+| Luna Sky | 35447 | [35447-luna-sky.json](./35447-luna-sky.json) |
 | Luna Sky RDX | 118734 | [118734-luna-sky-rdx.json](./118734-luna-sky-rdx.json) |
 | Luna Sonata | 243424 | [243424-luna-sonata.json](./243424-luna-sonata.json) |
 | Luna Story II: Six Pieces of Tears | 141209 | [141209-luna-story-ii-six-pieces-of-tears.json](./141209-luna-story-ii-six-pieces-of-tears.json) |
