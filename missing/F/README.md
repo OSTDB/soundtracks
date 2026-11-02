@@ -1137,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen World | 148938 | [148938-fallen-world.json](./148938-fallen-world.json) |
 | Fallen Worlds | 199749 | [199749-fallen-worlds.json](./199749-fallen-worlds.json) |
 | Fallen, the last light | 164267 | [164267-fallen-the-last-light.json](./164267-fallen-the-last-light.json) |
+| Fallen: A2P Protocol | 17890 | [17890-fallen-a2p-protocol.json](./17890-fallen-a2p-protocol.json) |
 | Fallen: Into the Darkness | 326182 | [326182-fallen-into-the-darkness.json](./326182-fallen-into-the-darkness.json) |
 | Fallen: Makina and the City of Ruins | 86299 | [86299-fallen-makina-and-the-city-of-ruins.json](./86299-fallen-makina-and-the-city-of-ruins.json) |
 | Fallen: Town of Heritage and Makina the Blazing Hair | 82831 | [82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json](./82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json) |
@@ -7140,6 +7141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleet Commander: Pacific | 192560 | [192560-fleet-commander-pacific.json](./192560-fleet-commander-pacific.json) |
 | Fleet Conquest | 410277 | [410277-fleet-conquest.json](./410277-fleet-conquest.json) |
 | Fleet Defender Gold | 12320 | [12320-fleet-defender-gold.json](./12320-fleet-defender-gold.json) |
+| Fleet Defender: The F-14 Tomcat Simulation | 17951 | [17951-fleet-defender-the-f-14-tomcat-simulation.json](./17951-fleet-defender-the-f-14-tomcat-simulation.json) |
 | Fleet Force | 102098 | [102098-fleet-force.json](./102098-fleet-force.json) |
 | Fleet Scrapper | 98217 | [98217-fleet-scrapper.json](./98217-fleet-scrapper.json) |
 | Fleet Star V | 110747 | [110747-fleet-star-v.json](./110747-fleet-star-v.json) |
@@ -11756,6 +11758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fronteeland | 366347 | [366347-fronteeland.json](./366347-fronteeland.json) |
 | Frontera | 253568 | [253568-frontera.json](./253568-frontera.json) |
 | Frontier | 162905 | [162905-frontier.json](./162905-frontier.json) |
+| Frontier | 18177 | [18177-frontier.json](./18177-frontier.json) |
 | Frontier | 201407 | [201407-frontier.json](./201407-frontier.json) |
 | Frontier | 345638 | [345638-frontier.json](./345638-frontier.json) |
 | Frontier | 362171 | [362171-frontier.json](./362171-frontier.json) |
