@@ -5336,6 +5336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windrunner | 412780 | [412780-windrunner.json](./412780-windrunner.json) |
 | Windrush Tales | 180269 | [180269-windrush-tales.json](./180269-windrush-tales.json) |
 | Winds & Leaves | 159284 | [159284-winds-and-leaves.json](./159284-winds-and-leaves.json) |
+| Winds of Change | 95019 | [95019-winds-of-change.json](./95019-winds-of-change.json) |
 | Winds of Change - The Opening Act | 118812 | [118812-winds-of-change-the-opening-act.json](./118812-winds-of-change-the-opening-act.json) |
 | Winds of Destiny - Duels of the Magi | 39002 | [39002-winds-of-destiny-duels-of-the-magi.json](./39002-winds-of-destiny-duels-of-the-magi.json) |
 | Winds of Revenge | 25905 | [25905-winds-of-revenge.json](./25905-winds-of-revenge.json) |
