@@ -5731,7 +5731,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charging Panic | 136244 | [136244-charging-panic.json](./136244-charging-panic.json) |
 | Chari-sou Ultra DX: Sekai Tour | 222203 | [222203-chari-sou-ultra-dx-sekai-tour.json](./222203-chari-sou-ultra-dx-sekai-tour.json) |
 | Charinko Hero | 3854 | [3854-charinko-hero.json](./3854-charinko-hero.json) |
-| Chariot | 7897 | [7897-chariot.json](./7897-chariot.json) |
 | Chariot Bundle | 82458 | [82458-chariot-bundle.json](./82458-chariot-bundle.json) |
 | Chariot Land | 165644 | [165644-chariot-land.json](./165644-chariot-land.json) |
 | Chariot of Girl | 301993 | [301993-chariot-of-girl.json](./301993-chariot-of-girl.json) |
@@ -13297,7 +13296,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convicts | 340878 | [340878-convicts.json](./340878-convicts.json) |
 | Convoluted Incident: Pinch me | 368373 | [368373-convoluted-incident-pinch-me.json](./368373-convoluted-incident-pinch-me.json) |
 | Convolution of Fear | 250857 | [250857-convolution-of-fear.json](./250857-convolution-of-fear.json) |
-| Convoy | 9921 | [9921-convoy.json](./9921-convoy.json) |
 | Convoy Raider | 13514 | [13514-convoy-raider.json](./13514-convoy-raider.json) |
 | Convrgence | 269281 | [269281-convrgence.json](./269281-convrgence.json) |
 | Convrgence: Supporter Pack | 304461 | [304461-convrgence-supporter-pack.json](./304461-convrgence-supporter-pack.json) |
@@ -13977,7 +13975,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corruption of Laetitia | 124535 | [124535-corruption-of-laetitia.json](./124535-corruption-of-laetitia.json) |
 | Corruption: Political Simulator Strategy | 271476 | [271476-corruption-political-simulator-strategy.json](./271476-corruption-political-simulator-strategy.json) |
 | Corsair | 80501 | [80501-corsair.json](./80501-corsair.json) |
-| Corsair Cove | 398638 | [398638-corsair-cove.json](./398638-corsair-cove.json) |
 | Corsair's Madness | 193095 | [193095-corsairs-madness.json](./193095-corsairs-madness.json) |
 | Corsairs Gold | 50354 | [50354-corsairs-gold.json](./50354-corsairs-gold.json) |
 | Corsairs: Battle of the Caribbean | 252037 | [252037-corsairs-battle-of-the-caribbean.json](./252037-corsairs-battle-of-the-caribbean.json) |
@@ -15926,7 +15923,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creamy Mami: Futari no Rondo | 184477 | [184477-creamy-mami-futari-no-rondo.json](./184477-creamy-mami-futari-no-rondo.json) |
 | CreArt: Painting by Numbers | 393417 | [393417-creart-painting-by-numbers.json](./393417-creart-painting-by-numbers.json) |
 | Creas | 149202 | [149202-creas.json](./149202-creas.json) |
-| Create | 4778 | [4778-create.json](./4778-create.json) |
 | Create & Conquer | 305771 | [305771-create-and-conquer.json](./305771-create-and-conquer.json) |
 | Create a Pop Sensation | 369695 | [369695-create-a-pop-sensation.json](./369695-create-a-pop-sensation.json) |
 | Create a Ride | 407516 | [407516-create-a-ride.json](./407516-create-a-ride.json) |
