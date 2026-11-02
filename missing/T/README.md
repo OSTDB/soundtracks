@@ -4147,6 +4147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
 | Termination Mental | 309190 | [309190-termination-mental.json](./309190-termination-mental.json) |
 | Terminator | 208419 | [208419-terminator.json](./208419-terminator.json) |
+| Terminator | 417738 | [417738-terminator.json](./417738-terminator.json) |
 | Terminator 2: Judgment Day | 12793 | [12793-terminator-2-judgment-day.json](./12793-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day | 218325 | [218325-terminator-2-judgment-day.json](./218325-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day | 307082 | [307082-terminator-2-judgment-day.json](./307082-terminator-2-judgment-day.json) |
@@ -5589,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apollo Project | 192682 | [192682-the-apollo-project.json](./192682-the-apollo-project.json) |
 | The Apothecary | 223242 | [223242-the-apothecary.json](./223242-the-apothecary.json) |
 | The Apothecary Diaries Palace Chronicles | 406943 | [406943-the-apothecary-diaries-palace-chronicles.json](./406943-the-apothecary-diaries-palace-chronicles.json) |
+| The Apothecary Diaries: The False Imperial Brother | 417180 | [417180-the-apothecary-diaries-the-false-imperial-brother.json](./417180-the-apothecary-diaries-the-false-imperial-brother.json) |
 | The Apothecary of Trubiz | 376645 | [376645-the-apothecary-of-trubiz.json](./376645-the-apothecary-of-trubiz.json) |
 | The Apothecary's Apprentice | 177571 | [177571-the-apothecarys-apprentice.json](./177571-the-apothecarys-apprentice.json) |
 | The Apotheosis Project | 35551 | [35551-the-apotheosis-project.json](./35551-the-apotheosis-project.json) |
@@ -5691,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ascent of the Gothic Tower | 228967 | [228967-the-ascent-of-the-gothic-tower.json](./228967-the-ascent-of-the-gothic-tower.json) |
 | The Ascent: Cyber Heist | 213148 | [213148-the-ascent-cyber-heist.json](./213148-the-ascent-cyber-heist.json) |
 | The Ascent: CyberSec Pack | 276306 | [276306-the-ascent-cybersec-pack.json](./276306-the-ascent-cybersec-pack.json) |
+| The Ascent: Ultimate Edition | 417184 | [417184-the-ascent-ultimate-edition.json](./417184-the-ascent-ultimate-edition.json) |
 | The Ascot | 298061 | [298061-the-ascot.json](./298061-the-ascot.json) |
 | The Asfrixa | 192822 | [192822-the-asfrixa.json](./192822-the-asfrixa.json) |
 | The Ash Remembers | 415267 | [415267-the-ash-remembers.json](./415267-the-ash-remembers.json) |
@@ -7139,6 +7142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coroner Saga: Episode 2 - When night falls | 174534 | [174534-the-coroner-saga-episode-2-when-night-falls.json](./174534-the-coroner-saga-episode-2-when-night-falls.json) |
 | The Corporation | 397161 | [397161-the-corporation.json](./397161-the-corporation.json) |
 | The Corpse | 376714 | [376714-the-corpse.json](./376714-the-corpse.json) |
+| The Corpse Below | 417779 | [417779-the-corpse-below.json](./417779-the-corpse-below.json) |
 | The Corpse Crusade | 207711 | [207711-the-corpse-crusade.json](./207711-the-corpse-crusade.json) |
 | The Corral | 271787 | [271787-the-corral.json](./271787-the-corral.json) |
 | The Corridor | 148443 | [148443-the-corridor.json](./148443-the-corridor.json) |
@@ -14846,6 +14850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Room Tribute | 92463 | [92463-the-room-tribute.json](./92463-the-room-tribute.json) |
 | The Room Two | 11276 | [11276-the-room-two.json](./11276-the-room-two.json) |
 | The Room VR: A Dark Matter | 123991 | [123991-the-room-vr-a-dark-matter.json](./123991-the-room-vr-a-dark-matter.json) |
+| The Room Where You Can't Leave Without Drinking Water | 417175 | [417175-the-room-where-you-cant-leave-without-drinking-water.json](./417175-the-room-where-you-cant-leave-without-drinking-water.json) |
 | The Rooms | 191855 | [191855-the-rooms.json](./191855-the-rooms.json) |
 | The Rooster Files | 382502 | [382502-the-rooster-files.json](./382502-the-rooster-files.json) |
 | The Rooster's Chess | 163689 | [163689-the-roosters-chess.json](./163689-the-roosters-chess.json) |
@@ -28921,6 +28926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick Eight | 369088 | [369088-trick-eight.json](./369088-trick-eight.json) |
 | Trick or Alice | 251191 | [251191-trick-or-alice.json](./251191-trick-or-alice.json) |
 | Trick or Beat | 404236 | [404236-trick-or-beat.json](./404236-trick-or-beat.json) |
+| Trick or Freak | 417216 | [417216-trick-or-freak.json](./417216-trick-or-freak.json) |
 | Trick or Treat | 197386 | [197386-trick-or-treat.json](./197386-trick-or-treat.json) |
 | Trick or Treat | 375496 | [375496-trick-or-treat.json](./375496-trick-or-treat.json) |
 | Trick or Treat | 94358 | [94358-trick-or-treat.json](./94358-trick-or-treat.json) |
