@@ -1193,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warface: Sniper Tournament Pack | 226886 | [226886-warface-sniper-tournament-pack.json](./226886-warface-sniper-tournament-pack.json) |
 | Warface: Starter Edition | 118677 | [118677-warface-starter-edition.json](./118677-warface-starter-edition.json) |
 | WarFallen | 82438 | [82438-warfallen.json](./82438-warfallen.json) |
+| Warfare | 16048 | [16048-warfare.json](./16048-warfare.json) |
 | Warfare 1917 | 61588 | [61588-warfare-1917.json](./61588-warfare-1917.json) |
 | Warfare 1944 | 103393 | [103393-warfare-1944.json](./103393-warfare-1944.json) |
 | Warfare 1944 | 61589 | [61589-warfare-1944.json](./61589-warfare-1944.json) |
@@ -2747,8 +2748,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Sing Deutsche Hits | 5268 | [5268-we-sing-deutsche-hits.json](./5268-we-sing-deutsche-hits.json) |
 | We Sing Deutsche Hits 2 | 268208 | [268208-we-sing-deutsche-hits-2.json](./268208-we-sing-deutsche-hits-2.json) |
 | We Sing Down Under | 5269 | [5269-we-sing-down-under.json](./5269-we-sing-down-under.json) |
+| We Sing Encore | 5270 | [5270-we-sing-encore.json](./5270-we-sing-encore.json) |
 | We Sing Pop! | 5271 | [5271-we-sing-pop.json](./5271-we-sing-pop.json) |
 | We Sing Pop!: Solus Edition | 168556 | [168556-we-sing-pop-solus-edition.json](./168556-we-sing-pop-solus-edition.json) |
+| We Sing Robbie Williams | 5272 | [5272-we-sing-robbie-williams.json](./5272-we-sing-robbie-williams.json) |
+| We Sing Rock! | 5273 | [5273-we-sing-rock.json](./5273-we-sing-rock.json) |
 | We Sing Superstar Quiz | 63900 | [63900-we-sing-superstar-quiz.json](./63900-we-sing-superstar-quiz.json) |
 | We Sing UK Hits | 5274 | [5274-we-sing-uk-hits.json](./5274-we-sing-uk-hits.json) |
 | We Slay Monsters | 36183 | [36183-we-slay-monsters.json](./36183-we-slay-monsters.json) |
@@ -2770,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Were Monkeys | 292437 | [292437-we-were-monkeys.json](./292437-we-were-monkeys.json) |
 | We Who Rise | 358814 | [358814-we-who-rise.json](./358814-we-who-rise.json) |
 | We Will Be Gods | 342716 | [342716-we-will-be-gods.json](./342716-we-will-be-gods.json) |
+| We Wish You a Merry Christmas | 5277 | [5277-we-wish-you-a-merry-christmas.json](./5277-we-wish-you-a-merry-christmas.json) |
 | We, Junk Artists | 369043 | [369043-we-junk-artists.json](./369043-we-junk-artists.json) |
 | We. The Revolution | 27513 | [27513-we-the-revolution.json](./27513-we-the-revolution.json) |
 | We'll always have Paris | 164263 | [164263-well-always-have-paris.json](./164263-well-always-have-paris.json) |
@@ -4660,6 +4665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked Games | 212212 | [212212-wicked-games.json](./212212-wicked-games.json) |
 | Wicked Lands | 144794 | [144794-wicked-lands.json](./144794-wicked-lands.json) |
 | Wicked Little Witch | 353291 | [353291-wicked-little-witch.json](./353291-wicked-little-witch.json) |
+| Wicked Monsters Blast! | 5279 | [5279-wicked-monsters-blast.json](./5279-wicked-monsters-blast.json) |
 | Wicked Monsters Blast! HD Plus | 85482 | [85482-wicked-monsters-blast-hd-plus.json](./85482-wicked-monsters-blast-hd-plus.json) |
 | Wicked Paradise | 192644 | [192644-wicked-paradise.json](./192644-wicked-paradise.json) |
 | Wicked Plague | 324691 | [324691-wicked-plague.json](./324691-wicked-plague.json) |
@@ -5668,6 +5674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Ski Park: Snow Driver | 96611 | [96611-winter-ski-park-snow-driver.json](./96611-winter-ski-park-snow-driver.json) |
 | Winter Sleigh | 150349 | [150349-winter-sleigh.json](./150349-winter-sleigh.json) |
 | Winter Solitaire | 115525 | [115525-winter-solitaire.json](./115525-winter-solitaire.json) |
+| Winter Sports 2: The Next Challenge | 5285 | [5285-winter-sports-2-the-next-challenge.json](./5285-winter-sports-2-the-next-challenge.json) |
 | Winter Sports 2010: The Great Tournament | 21089 | [21089-winter-sports-2010-the-great-tournament.json](./21089-winter-sports-2010-the-great-tournament.json) |
 | Winter Sports 2011: Go for Gold | 27645 | [27645-winter-sports-2011-go-for-gold.json](./27645-winter-sports-2011-go-for-gold.json) |
 | Winter Sports 2012: Feel the Spirit | 52136 | [52136-winter-sports-2012-feel-the-spirit.json](./52136-winter-sports-2012-feel-the-spirit.json) |
@@ -7889,9 +7896,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series Baseball Starring Deion Sanders | 46428 | [46428-world-series-baseball-starring-deion-sanders.json](./46428-world-series-baseball-starring-deion-sanders.json) |
 | World Series Basketball | 45316 | [45316-world-series-basketball.json](./45316-world-series-basketball.json) |
 | World Series Major League Baseball | 5711 | [5711-world-series-major-league-baseball.json](./5711-world-series-major-league-baseball.json) |
+| World Series of Poker 2008: Battle for the Bracelets | 5289 | [5289-world-series-of-poker-2008-battle-for-the-bracelets.json](./5289-world-series-of-poker-2008-battle-for-the-bracelets.json) |
 | World Series of Poker Hold'em Legend | 61028 | [61028-world-series-of-poker-holdem-legend.json](./61028-world-series-of-poker-holdem-legend.json) |
 | World Series of Poker: Deluxe Casino Pak | 398918 | [398918-world-series-of-poker-deluxe-casino-pak.json](./398918-world-series-of-poker-deluxe-casino-pak.json) |
 | World Series of Poker: Full House Pro | 19970 | [19970-world-series-of-poker-full-house-pro.json](./19970-world-series-of-poker-full-house-pro.json) |
+| World Series of Poker: Tournament of Champions | 5288 | [5288-world-series-of-poker-tournament-of-champions.json](./5288-world-series-of-poker-tournament-of-champions.json) |
 | World Series: The Season | 40570 | [40570-world-series-the-season.json](./40570-world-series-the-season.json) |
 | World Serpent | 211064 | [211064-world-serpent.json](./211064-world-serpent.json) |
 | World Simulator 3 | 275415 | [275415-world-simulator-3.json](./275415-world-simulator-3.json) |
@@ -8593,6 +8602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wroth | 271744 | [271744-wroth.json](./271744-wroth.json) |
 | Wrought Flesh | 184780 | [184780-wrought-flesh.json](./184780-wrought-flesh.json) |
 | WSC Real 08: World Snooker Championship | 5292 | [5292-wsc-real-08-world-snooker-championship.json](./5292-wsc-real-08-world-snooker-championship.json) |
+| WSC Real 09: World Snooker Championship | 5293 | [5293-wsc-real-09-world-snooker-championship.json](./5293-wsc-real-09-world-snooker-championship.json) |
 | WSC Real 11 | 95364 | [95364-wsc-real-11.json](./95364-wsc-real-11.json) |
 | Wsg | 176388 | [176388-wsg.json](./176388-wsg.json) |
 | WSOP | 93572 | [93572-wsop.json](./93572-wsop.json) |
@@ -8863,6 +8873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWI: Aces of the Sky | 9392 | [9392-wwi-aces-of-the-sky.json](./9392-wwi-aces-of-the-sky.json) |
 | WWI: The First DogFighters | 179130 | [179130-wwi-the-first-dogfighters.json](./179130-wwi-the-first-dogfighters.json) |
 | WWI: The Great War | 71540 | [71540-wwi-the-great-war.json](./71540-wwi-the-great-war.json) |
+| WWII Aces | 5301 | [5301-wwii-aces.json](./5301-wwii-aces.json) |
 | WWII Airplane Fight: Battle War Squad | 292928 | [292928-wwii-airplane-fight-battle-war-squad.json](./292928-wwii-airplane-fight-battle-war-squad.json) |
 | WWII Airplane Fight: Battle War Squad - Cash Injection | 317287 | [317287-wwii-airplane-fight-battle-war-squad-cash-injection.json](./317287-wwii-airplane-fight-battle-war-squad-cash-injection.json) |
 | WWII Airplane Fight: Battle War Squad - Master | 317288 | [317288-wwii-airplane-fight-battle-war-squad-master.json](./317288-wwii-airplane-fight-battle-war-squad-master.json) |
