@@ -6516,6 +6516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths of Darkness | 292484 | [292484-depths-of-darkness.json](./292484-depths-of-darkness.json) |
 | Depths of Despair | 300443 | [300443-depths-of-despair.json](./300443-depths-of-despair.json) |
 | Depths of Dread | 32174 | [32174-depths-of-dread.json](./32174-depths-of-dread.json) |
+| Depths of Europa | 413404 | [413404-depths-of-europa.json](./413404-depths-of-europa.json) |
 | Depths of Faveg | 318060 | [318060-depths-of-faveg.json](./318060-depths-of-faveg.json) |
 | Depths of Fear: Knossos | 10182 | [10182-depths-of-fear-knossos.json](./10182-depths-of-fear-knossos.json) |
 | Depths of Helheim | 238674 | [238674-depths-of-helheim.json](./238674-depths-of-helheim.json) |
@@ -6866,6 +6867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desk Paws | 348883 | [348883-desk-paws.json](./348883-desk-paws.json) |
 | Desk Rumble | 425173 | [425173-desk-rumble.json](./425173-desk-rumble.json) |
 | Desk Space: Idle Spacefleet clicker | 404989 | [404989-desk-space-idle-spacefleet-clicker.json](./404989-desk-space-idle-spacefleet-clicker.json) |
+| Desk Top Racer | 412731 | [412731-desk-top-racer.json](./412731-desk-top-racer.json) |
 | Deskape | 371304 | [371304-deskape.json](./371304-deskape.json) |
 | Deskeroes | 348424 | [348424-deskeroes.json](./348424-deskeroes.json) |
 | Desktop Agents: Covid-999 | 264449 | [264449-desktop-agents-covid-999.json](./264449-desktop-agents-covid-999.json) |
@@ -8735,6 +8737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DigitalDNA Zombies | 83197 | [83197-digitaldna-zombies.json](./83197-digitaldna-zombies.json) |
 | Digitalink | 344989 | [344989-digitalink.json](./344989-digitalink.json) |
 | Digitalter | 285019 | [285019-digitalter.json](./285019-digitalter.json) |
+| DigitDash3 | 412705 | [412705-digitdash3.json](./412705-digitdash3.json) |
 | Digitris | 267866 | [267866-digitris.json](./267866-digitris.json) |
 | Digits | 245928 | [245928-digits.json](./245928-digits.json) |
 | Digits Jigsaw Puzzle - Numbers and Operations | 100749 | [100749-digits-jigsaw-puzzle-numbers-and-operations.json](./100749-digits-jigsaw-puzzle-numbers-and-operations.json) |
@@ -12059,6 +12062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Land 2 | 1093 | [1093-donkey-kong-land-2.json](./1093-donkey-kong-land-2.json) |
 | Donkey Kong Land 2: Game Boy Color Edition | 234032 | [234032-donkey-kong-land-2-game-boy-color-edition.json](./234032-donkey-kong-land-2-game-boy-color-edition.json) |
 | Donkey Kong Land III | 1095 | [1095-donkey-kong-land-iii.json](./1095-donkey-kong-land-iii.json) |
+| Donkey Kong Land Remake | 412721 | [412721-donkey-kong-land-remake.json](./412721-donkey-kong-land-remake.json) |
 | Donkey Kong Land: New Colors Mode | 173120 | [173120-donkey-kong-land-new-colors-mode.json](./173120-donkey-kong-land-new-colors-mode.json) |
 | Donkey Kong no Ongaku Asobi | 131901 | [131901-donkey-kong-no-ongaku-asobi.json](./131901-donkey-kong-no-ongaku-asobi.json) |
 | Donkey Kong Pac-Man Crossover | 290237 | [290237-donkey-kong-pac-man-crossover.json](./290237-donkey-kong-pac-man-crossover.json) |
