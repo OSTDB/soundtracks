@@ -2832,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency 2016 | 52959 | [52959-emergency-2016.json](./52959-emergency-2016.json) |
 | Emergency 2017 | 31411 | [31411-emergency-2017.json](./31411-emergency-2017.json) |
 | Emergency 3 | 46457 | [46457-emergency-3.json](./46457-emergency-3.json) |
+| Emergency 4: Deluxe | 83566 | [83566-emergency-4-deluxe.json](./83566-emergency-4-deluxe.json) |
 | Emergency 5 | 57334 | [57334-emergency-5.json](./57334-emergency-5.json) |
 | Emergency Ambulance Simulator | 63673 | [63673-emergency-ambulance-simulator.json](./63673-emergency-ambulance-simulator.json) |
 | Emergency Ambulance Simulator 2013 | 137549 | [137549-emergency-ambulance-simulator-2013.json](./137549-emergency-ambulance-simulator-2013.json) |
