@@ -6556,6 +6556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical: USA - Oregon | 59231 | [59231-logistical-usa-oregon.json](./59231-logistical-usa-oregon.json) |
 | Logistical: USA - Wisconsin | 74488 | [74488-logistical-usa-wisconsin.json](./74488-logistical-usa-wisconsin.json) |
 | Logistics Central | 271720 | [271720-logistics-central.json](./271720-logistics-central.json) |
+| Logistics Company | 17936 | [17936-logistics-company.json](./17936-logistics-company.json) |
 | Logistics Expert | 120040 | [120040-logistics-expert.json](./120040-logistics-expert.json) |
 | Logistics Inc | 183877 | [183877-logistics-inc.json](./183877-logistics-inc.json) |
 | Logistics Simulator | 161346 | [161346-logistics-simulator.json](./161346-logistics-simulator.json) |
@@ -8549,6 +8550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lower Forecourt | 271370 | [271370-lower-forecourt.json](./271370-lower-forecourt.json) |
 | Lower to Higher | 102072 | [102072-lower-to-higher.json](./102072-lower-to-higher.json) |
 | Lower? Higher! | 303640 | [303640-lower-higher.json](./303640-lower-higher.json) |
+| Lowglow | 18190 | [18190-lowglow.json](./18190-lowglow.json) |
 | Lowland Keepers | 328956 | [328956-lowland-keepers.json](./328956-lowland-keepers.json) |
 | Lowlander | 95556 | [95556-lowlander.json](./95556-lowlander.json) |
 | Lowlander II: Lowerlander | 104706 | [104706-lowlander-ii-lowerlander.json](./104706-lowlander-ii-lowerlander.json) |
