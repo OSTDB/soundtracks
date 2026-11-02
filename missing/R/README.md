@@ -4632,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rematch: Elite Edition | 339720 | [339720-rematch-elite-edition.json](./339720-rematch-elite-edition.json) |
 | Rematch: Pro Edition | 339719 | [339719-rematch-pro-edition.json](./339719-rematch-pro-edition.json) |
 | Rematch: Season 5 - Blue Lock | 416130 | [416130-rematch-season-5-blue-lock.json](./416130-rematch-season-5-blue-lock.json) |
+| Remaya Idle | 75626 | [75626-remaya-idle.json](./75626-remaya-idle.json) |
 | ReMaz! | 116859 | [116859-remaz.json](./116859-remaz.json) |
 | Rembrunir | 384209 | [384209-rembrunir.json](./384209-rembrunir.json) |
 | Remedium | 204324 | [204324-remedium.json](./204324-remedium.json) |
