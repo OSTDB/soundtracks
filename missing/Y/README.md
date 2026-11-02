@@ -1364,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Personality Test | 371549 | [371549-your-personality-test.json](./371549-your-personality-test.json) |
 | Your planet in 60 seconds | 157965 | [157965-your-planet-in-60-seconds.json](./157965-your-planet-in-60-seconds.json) |
 | Your Principal | 126596 | [126596-your-principal.json](./126596-your-principal.json) |
+| Your Quest | 34232 | [34232-your-quest.json](./34232-your-quest.json) |
 | Your Quest 2 | 128287 | [128287-your-quest-2.json](./128287-your-quest-2.json) |
 | Your Riding School | 149004 | [149004-your-riding-school.json](./149004-your-riding-school.json) |
 | Your Roar | 179559 | [179559-your-roar.json](./179559-your-roar.json) |
