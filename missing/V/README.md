@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Van Wheel Gone | 363167 | [363167-van-wheel-gone.json](./363167-van-wheel-gone.json) |
 | Van-Gale: The War of Neo-Century | 246410 | [246410-van-gale-the-war-of-neo-century.json](./246410-van-gale-the-war-of-neo-century.json) |
 | Van-Van Car | 38556 | [38556-van-van-car.json](./38556-van-van-car.json) |
+| Vanakan | 423958 | [423958-vanakan.json](./423958-vanakan.json) |
 | Vanakan 405 | 382291 | [382291-vanakan-405.json](./382291-vanakan-405.json) |
 | Vanakatu | 302066 | [302066-vanakatu.json](./302066-vanakatu.json) |
 | Vanark | 44997 | [44997-vanark.json](./44997-vanark.json) |
