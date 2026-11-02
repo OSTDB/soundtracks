@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Coin Mining | 118417 | [118417-factory-coin-mining.json](./118417-factory-coin-mining.json) |
 | Factory Company | 297071 | [297071-factory-company.json](./297071-factory-company.json) |
 | Factory Control Inc. | 252706 | [252706-factory-control-inc.json](./252706-factory-control-inc.json) |
+| Factory Default: Build, Trade, Repeat | 412085 | [412085-factory-default-build-trade-repeat.json](./412085-factory-default-build-trade-repeat.json) |
 | Factory Defense | 168529 | [168529-factory-defense.json](./168529-factory-defense.json) |
 | Factory Engineer | 31796 | [31796-factory-engineer.json](./31796-factory-engineer.json) |
 | Factory Escape | 329508 | [329508-factory-escape.json](./329508-factory-escape.json) |
@@ -8948,6 +8949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Your Information | 196419 | [196419-for-your-information.json](./196419-for-your-information.json) |
 | For Your Tranquility | 228503 | [228503-for-your-tranquility.json](./228503-for-your-tranquility.json) |
 | For Zekyll | 368814 | [368814-for-zekyll.json](./368814-for-zekyll.json) |
+| Foragarden | 412095 | [412095-foragarden.json](./412095-foragarden.json) |
 | Forager | 25580 | [25580-forager.json](./25580-forager.json) |
 | Forays into Norrendrin | 148391 | [148391-forays-into-norrendrin.json](./148391-forays-into-norrendrin.json) |
 | Forbes Corporate Warrior | 71373 | [71373-forbes-corporate-warrior.json](./71373-forbes-corporate-warrior.json) |
@@ -11106,6 +11108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frenzy Train: Undead Vengeance | 100831 | [100831-frenzy-train-undead-vengeance.json](./100831-frenzy-train-undead-vengeance.json) |
 | Frenzy VR | 165453 | [165453-frenzy-vr.json](./165453-frenzy-vr.json) |
 | Frenzy! | 135647 | [135647-frenzy.json](./135647-frenzy.json) |
+| Frequência Zero | 412086 | [412086-frequencia-zero.json](./412086-frequencia-zero.json) |
 | Frequency Dissonance | 199120 | [199120-frequency-dissonance.json](./199120-frequency-dissonance.json) |
 | Frequency Garden | 126522 | [126522-frequency-garden.json](./126522-frequency-garden.json) |
 | Frequency Sync | 130241 | [130241-frequency-sync.json](./130241-frequency-sync.json) |
@@ -11444,6 +11447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Climb | 409202 | [409202-frog-climb.json](./409202-frog-climb.json) |
 | Frog Corner | 293683 | [293683-frog-corner.json](./293683-frog-corner.json) |
 | Frog Daddy's Dash | 229255 | [229255-frog-daddys-dash.json](./229255-frog-daddys-dash.json) |
+| Frog Dares | 412136 | [412136-frog-dares.json](./412136-frog-dares.json) |
 | Frog Demon | 113289 | [113289-frog-demon.json](./113289-frog-demon.json) |
 | Frog Detective -1 | 325675 | [325675-frog-detective-1.json](./325675-frog-detective-1.json) |
 | Frog Detective 2: The Case of the Invisible Wizard | 121338 | [121338-frog-detective-2-the-case-of-the-invisible-wizard.json](./121338-frog-detective-2-the-case-of-the-invisible-wizard.json) |
