@@ -3409,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maridows 64 | 250047 | [250047-maridows-64.json](./250047-maridows-64.json) |
 | Marie & Elie no Atelier: Salburg no Renkinjutsushi 1-2 | 130822 | [130822-marie-and-elie-no-atelier-salburg-no-renkinjutsushi-1-2.json](./130822-marie-and-elie-no-atelier-salburg-no-renkinjutsushi-1-2.json) |
 | Marie & Gully no Let's Science | 65319 | [65319-marie-and-gully-no-lets-science.json](./65319-marie-and-gully-no-lets-science.json) |
+| Marie Android | 407720 | [407720-marie-android.json](./407720-marie-android.json) |
 | Marie Baby-Sitter | 74034 | [74034-marie-baby-sitter.json](./74034-marie-baby-sitter.json) |
 | Marie's Patisserie: Sweet Dreams - Collector's Edition | 362840 | [362840-maries-patisserie-sweet-dreams-collectors-edition.json](./362840-maries-patisserie-sweet-dreams-collectors-edition.json) |
 | Marie's Room | 81173 | [81173-maries-room.json](./81173-maries-room.json) |
@@ -9909,6 +9910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Race R | 378490 | [378490-micro-race-r.json](./378490-micro-race-r.json) |
 | Micro Rogue | 265326 | [265326-micro-rogue.json](./265326-micro-rogue.json) |
 | Micro RPG | 197794 | [197794-micro-rpg.json](./197794-micro-rpg.json) |
+| Micro RPG | 407728 | [407728-micro-rpg.json](./407728-micro-rpg.json) |
 | Micro Rush | 391085 | [391085-micro-rush.json](./391085-micro-rush.json) |
 | Micro Scooter Challenge | 209025 | [209025-micro-scooter-challenge.json](./209025-micro-scooter-challenge.json) |
 | Micro Slaughter Community Project | 221847 | [221847-micro-slaughter-community-project.json](./221847-micro-slaughter-community-project.json) |
@@ -13403,6 +13405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mnemophobia: Deadline | 227772 | [227772-mnemophobia-deadline.json](./227772-mnemophobia-deadline.json) |
 | Mnemosyne's Cube | 395159 | [395159-mnemosynes-cube.json](./395159-mnemosynes-cube.json) |
 | MNOZ: My Nuclear Octopus 2 | 408048 | [408048-mnoz-my-nuclear-octopus-2.json](./408048-mnoz-my-nuclear-octopus-2.json) |
+| Mò Bǐ Wū Sī De Fēngyìn | 407745 | [407745-mo-bi-wu-si-de-fengyin.json](./407745-mo-bi-wu-si-de-fengyin.json) |
 | Mó Dǎo Shèngzhàn: Fēngsè Huànxiǎng | 94939 | [94939-mo-dao-shengzhan-fengse-huanxiang.json](./94939-mo-dao-shengzhan-fengse-huanxiang.json) |
 | Mo the Frog | 111675 | [111675-mo-the-frog.json](./111675-mo-the-frog.json) |
 | Mo The Moai | 335378 | [335378-mo-the-moai.json](./335378-mo-the-moai.json) |
@@ -14182,6 +14185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monato Esprit | 68047 | [68047-monato-esprit.json](./68047-monato-esprit.json) |
 | Monch! | 250975 | [250975-monch.json](./250975-monch.json) |
 | MonCon | 156852 | [156852-moncon.json](./156852-moncon.json) |
+| MonCraft 199X | 407713 | [407713-moncraft-199x.json](./407713-moncraft-199x.json) |
 | Monculi | 261095 | [261095-monculi.json](./261095-monculi.json) |
 | Mondai no Aru Share House | 260117 | [260117-mondai-no-aru-share-house.json](./260117-mondai-no-aru-share-house.json) |
 | Mondar's Dungeon | 181228 | [181228-mondars-dungeon.json](./181228-mondars-dungeon.json) |
