@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Mania 2 | 15045 | [15045-cake-mania-2.json](./15045-cake-mania-2.json) |
 | Cake Mania 3 | 15046 | [15046-cake-mania-3.json](./15046-cake-mania-3.json) |
 | Cake Mania: Back to the Bakery | 15044 | [15044-cake-mania-back-to-the-bakery.json](./15044-cake-mania-back-to-the-bakery.json) |
+| Cake Mania: In the Mix | 24297 | [24297-cake-mania-in-the-mix.json](./24297-cake-mania-in-the-mix.json) |
 | Cake Mania: Lights, Camera, Action! | 15047 | [15047-cake-mania-lights-camera-action.json](./15047-cake-mania-lights-camera-action.json) |
 | Cake Mania: To the Max! | 15048 | [15048-cake-mania-to-the-max.json](./15048-cake-mania-to-the-max.json) |
 | Cake Master | 313251 | [313251-cake-master.json](./313251-cake-master.json) |
@@ -10796,6 +10797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold War | 68436 | [68436-cold-war.json](./68436-cold-war.json) |
 | Cold War 2395: Solus | 277138 | [277138-cold-war-2395-solus.json](./277138-cold-war-2395-solus.json) |
 | Cold War Commander | 67982 | [67982-cold-war-commander.json](./67982-cold-war-commander.json) |
+| Cold War Conflicts | 24242 | [24242-cold-war-conflicts.json](./24242-cold-war-conflicts.json) |
 | Cold War Conflicts: Days in the Field 1950-1973 | 23785 | [23785-cold-war-conflicts-days-in-the-field-1950-1973.json](./23785-cold-war-conflicts-days-in-the-field-1950-1973.json) |
 | Cold War Era | 356265 | [356265-cold-war-era.json](./356265-cold-war-era.json) |
 | Cold War Game | 122043 | [122043-cold-war-game.json](./122043-cold-war-game.json) |
@@ -15568,6 +15570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Machines 1.5 Inventors Training Camp | 90470 | [90470-crazy-machines-1-5-inventors-training-camp.json](./90470-crazy-machines-1-5-inventors-training-camp.json) |
 | Crazy Machines 1.5 New from the Lab | 90471 | [90471-crazy-machines-1-5-new-from-the-lab.json](./90471-crazy-machines-1-5-new-from-the-lab.json) |
 | Crazy Machines 2 | 197893 | [197893-crazy-machines-2.json](./197893-crazy-machines-2.json) |
+| Crazy Machines 2 Anniversary | 24319 | [24319-crazy-machines-2-anniversary.json](./24319-crazy-machines-2-anniversary.json) |
 | Crazy Machines 2: Anniversary DLC | 164367 | [164367-crazy-machines-2-anniversary-dlc.json](./164367-crazy-machines-2-anniversary-dlc.json) |
 | Crazy Machines 2: Back to the Shop Add-On | 164373 | [164373-crazy-machines-2-back-to-the-shop-add-on.json](./164373-crazy-machines-2-back-to-the-shop-add-on.json) |
 | Crazy Machines 2: Halloween | 164368 | [164368-crazy-machines-2-halloween.json](./164368-crazy-machines-2-halloween.json) |
