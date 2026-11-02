@@ -20778,6 +20778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splashy Fish | 191377 | [191377-splashy-fish.json](./191377-splashy-fish.json) |
 | Splashy Sharky | 97147 | [97147-splashy-sharky.json](./97147-splashy-sharky.json) |
 | Splashy Tiles: Bouncing to the Beat | 101659 | [101659-splashy-tiles-bouncing-to-the-beat.json](./101659-splashy-tiles-bouncing-to-the-beat.json) |
+| Splashy! | 87379 | [87379-splashy.json](./87379-splashy.json) |
 | Splat | 107064 | [107064-splat.json](./107064-splat.json) |
 | Splat Arena | 275829 | [275829-splat-arena.json](./275829-splat-arena.json) |
 | Splat Cat | 203682 | [203682-splat-cat.json](./203682-splat-cat.json) |
@@ -21031,6 +21032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spongebob: Gone Fishing | 242346 | [242346-spongebob-gone-fishing.json](./242346-spongebob-gone-fishing.json) |
 | SpongeBob: Krusty Cook-Off | 130748 | [130748-spongebob-krusty-cook-off.json](./130748-spongebob-krusty-cook-off.json) |
 | SpongeBob: Krusty Cook-Off - Extra Krusty Edition | 221331 | [221331-spongebob-krusty-cook-off-extra-krusty-edition.json](./221331-spongebob-krusty-cook-off-extra-krusty-edition.json) |
+| SpongeBob: Sponge on the Run | 87335 | [87335-spongebob-sponge-on-the-run.json](./87335-spongebob-sponge-on-the-run.json) |
 | SpongeBob's Atlantis Squarepantis | 221834 | [221834-spongebobs-atlantis-squarepantis.json](./221834-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Atlantis Squarepantis | 2773 | [2773-spongebobs-atlantis-squarepantis.json](./2773-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Atlantis Squarepantis | 43312 | [43312-spongebobs-atlantis-squarepantis.json](./43312-spongebobs-atlantis-squarepantis.json) |
@@ -25326,6 +25328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Breaker | 226757 | [226757-stone-breaker.json](./226757-stone-breaker.json) |
 | Stone Cold Sexy | 182999 | [182999-stone-cold-sexy.json](./182999-stone-cold-sexy.json) |
 | Stone Defence | 113032 | [113032-stone-defence.json](./113032-stone-defence.json) |
+| Stone Flood | 87392 | [87392-stone-flood.json](./87392-stone-flood.json) |
 | Stone Flower | 61594 | [61594-stone-flower.json](./61594-stone-flower.json) |
 | Stone Gate | 296005 | [296005-stone-gate.json](./296005-stone-gate.json) |
 | Stone Giant | 95852 | [95852-stone-giant.json](./95852-stone-giant.json) |
@@ -25339,6 +25342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone of Destiny | 242796 | [242796-stone-of-destiny.json](./242796-stone-of-destiny.json) |
 | Stone Rage | 74256 | [74256-stone-rage.json](./74256-stone-rage.json) |
 | Stone River | 167602 | [167602-stone-river.json](./167602-stone-river.json) |
+| Stone Shire | 85535 | [85535-stone-shire.json](./85535-stone-shire.json) |
 | Stone Skimming | 100718 | [100718-stone-skimming.json](./100718-stone-skimming.json) |
 | Stone Skimming | 104378 | [104378-stone-skimming.json](./104378-stone-skimming.json) |
 | Stone Smash | 64787 | [64787-stone-smash.json](./64787-stone-smash.json) |
@@ -25984,8 +25988,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Cat Crossing | 21641 | [21641-stray-cat-crossing.json](./21641-stray-cat-crossing.json) |
 | Stray Cat Doors | 95811 | [95811-stray-cat-doors.json](./95811-stray-cat-doors.json) |
 | Stray Cat Doors 2 | 135435 | [135435-stray-cat-doors-2.json](./135435-stray-cat-doors-2.json) |
+| Stray Cat Simulator | 87334 | [87334-stray-cat-simulator.json](./87334-stray-cat-simulator.json) |
 | Stray Cats in Cozy Town: Night Lights | 312994 | [312994-stray-cats-in-cozy-town-night-lights.json](./312994-stray-cats-in-cozy-town-night-lights.json) |
 | Stray Children | 266692 | [266692-stray-children.json](./266692-stray-children.json) |
+| Stray Dog Simulator | 87340 | [87340-stray-dog-simulator.json](./87340-stray-dog-simulator.json) |
 | Stray Dog: Nobody Cares | 414475 | [414475-stray-dog-nobody-cares.json](./414475-stray-dog-nobody-cares.json) |
 | Stray Doom | 251352 | [251352-stray-doom.json](./251352-stray-doom.json) |
 | Stray Gods: Orpheus | 307335 | [307335-stray-gods-orpheus.json](./307335-stray-gods-orpheus.json) |
