@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tale Ending Encore | 207164 | [207164-fairy-tale-ending-encore.json](./207164-fairy-tale-ending-encore.json) |
 | Fairy Tale Fighters | 406081 | [406081-fairy-tale-fighters.json](./406081-fairy-tale-fighters.json) |
 | Fairy Tale Mysteries 2: The Beanstalk | 34440 | [34440-fairy-tale-mysteries-2-the-beanstalk.json](./34440-fairy-tale-mysteries-2-the-beanstalk.json) |
+| Fairy Tale Mysteries: The Puppet Thief | 33855 | [33855-fairy-tale-mysteries-the-puppet-thief.json](./33855-fairy-tale-mysteries-the-puppet-thief.json) |
 | Fairy Tale Plan | 405974 | [405974-fairy-tale-plan.json](./405974-fairy-tale-plan.json) |
 | Fairy Tale Puzzles: Magic Objects | 111460 | [111460-fairy-tale-puzzles-magic-objects.json](./111460-fairy-tale-puzzles-magic-objects.json) |
 | Fairy Tale Puzzles: Magic Objects - Alice in Wonderland: The Tea Party | 238056 | [238056-fairy-tale-puzzles-magic-objects-alice-in-wonderland-the-tea-party.json](./238056-fairy-tale-puzzles-magic-objects-alice-in-wonderland-the-tea-party.json) |
@@ -3532,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feelings | 217215 | [217215-feelings.json](./217215-feelings.json) |
 | Feelings Adrift | 33959 | [33959-feelings-adrift.json](./33959-feelings-adrift.json) |
 | Feels | 116706 | [116706-feels.json](./116706-feels.json) |
+| Feesh | 34111 | [34111-feesh.json](./34111-feesh.json) |
 | FeeSoeeD | 51556 | [51556-feesoeed.json](./51556-feesoeed.json) |
 | Feet in the Snow | 234797 | [234797-feet-in-the-snow.json](./234797-feet-in-the-snow.json) |
 | Feet Paradise | 301885 | [301885-feet-paradise.json](./301885-feet-paradise.json) |
@@ -5724,6 +5726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireflies | 199286 | [199286-fireflies.json](./199286-fireflies.json) |
 | Fireflies | 233999 | [233999-fireflies.json](./233999-fireflies.json) |
 | Fireflies | 336718 | [336718-fireflies.json](./336718-fireflies.json) |
+| Fireflies | 34605 | [34605-fireflies.json](./34605-fireflies.json) |
 | Fireflies & Figments: A Willow's Journey | 190851 | [190851-fireflies-and-figments-a-willows-journey.json](./190851-fireflies-and-figments-a-willows-journey.json) |
 | Firefly | 369859 | [369859-firefly.json](./369859-firefly.json) |
 | Firefly | 55209 | [55209-firefly.json](./55209-firefly.json) |
