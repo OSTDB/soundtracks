@@ -2989,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech-Heresy | 272497 | [272497-tech-heresy.json](./272497-tech-heresy.json) |
 | Tech-Panic | 279789 | [279789-tech-panic.json](./279789-tech-panic.json) |
 | Tech48 | 92628 | [92628-tech48.json](./92628-tech48.json) |
+| TechAssault | 426455 | [426455-techassault.json](./426455-techassault.json) |
 | Techblox | 144900 | [144900-techblox.json](./144900-techblox.json) |
 | TechCompliant | 58448 | [58448-techcompliant.json](./58448-techcompliant.json) |
 | Techium Eclipse | 183508 | [183508-techium-eclipse.json](./183508-techium-eclipse.json) |
@@ -13856,6 +13857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Past | 236225 | [236225-the-past.json](./236225-the-past.json) |
 | The Past Rhapsody | 211056 | [211056-the-past-rhapsody.json](./211056-the-past-rhapsody.json) |
 | The Pasture | 30017 | [30017-the-pasture.json](./30017-the-pasture.json) |
+| The Pasture | 426426 | [426426-the-pasture.json](./426426-the-pasture.json) |
 | The Patagonians | 160042 | [160042-the-patagonians.json](./160042-the-patagonians.json) |
 | The Patashnik Parable | 176434 | [176434-the-patashnik-parable.json](./176434-the-patashnik-parable.json) |
 | The Patchmaker's Workshop | 313089 | [313089-the-patchmakers-workshop.json](./313089-the-patchmakers-workshop.json) |
@@ -25871,6 +25873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracer | 186136 | [186136-tracer.json](./186136-tracer.json) |
 | Tracer | 62405 | [62405-tracer.json](./62405-tracer.json) |
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
+| Traces | 426438 | [426438-traces.json](./426438-traces.json) |
 | TraceS | 176928 | [176928-traces.json](./176928-traces.json) |
 | Traces of Gods | 372097 | [372097-traces-of-gods.json](./372097-traces-of-gods.json) |
 | Traces of the Unknown | 286354 | [286354-traces-of-the-unknown.json](./286354-traces-of-the-unknown.json) |
@@ -28088,6 +28091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped: The Abduction | 66096 | [66096-trapped-the-abduction.json](./66096-trapped-the-abduction.json) |
 | Trapped: Wayne's Chamber | 311597 | [311597-trapped-waynes-chamber.json](./311597-trapped-waynes-chamber.json) |
 | Trapper | 118030 | [118030-trapper.json](./118030-trapper.json) |
+| Trapper | 426415 | [426415-trapper.json](./426415-trapper.json) |
 | Trapper Knight, Sharpshooter Princess | 29534 | [29534-trapper-knight-sharpshooter-princess.json](./29534-trapper-knight-sharpshooter-princess.json) |
 | Trapper Simulator | 122369 | [122369-trapper-simulator.json](./122369-trapper-simulator.json) |
 | Trapper: Drug Dealing RPG | 192182 | [192182-trapper-drug-dealing-rpg.json](./192182-trapper-drug-dealing-rpg.json) |
@@ -28879,6 +28883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trickster Trove | 314642 | [314642-trickster-trove.json](./314642-trickster-trove.json) |
 | Trickster VR | 31766 | [31766-trickster-vr.json](./31766-trickster-vr.json) |
 | Trickster VR: Horde Attack! | 119759 | [119759-trickster-vr-horde-attack.json](./119759-trickster-vr-horde-attack.json) |
+| Trickster: The Fool's Wager | 426441 | [426441-trickster-the-fools-wager.json](./426441-trickster-the-fools-wager.json) |
 | TrickStyle | 8229 | [8229-trickstyle.json](./8229-trickstyle.json) |
 | TrickStyle Jr. | 227757 | [227757-trickstyle-jr.json](./227757-trickstyle-jr.json) |
 | Tricky | 44319 | [44319-tricky.json](./44319-tricky.json) |
@@ -31359,6 +31364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type King | 250477 | [250477-type-king.json](./250477-type-king.json) |
 | Type Knight | 124180 | [124180-type-knight.json](./124180-type-knight.json) |
 | Type One | 338601 | [338601-type-one.json](./338601-type-one.json) |
+| Type or Die | 426434 | [426434-type-or-die.json](./426434-type-or-die.json) |
 | Type Ride | 374374 | [374374-type-ride.json](./374374-type-ride.json) |
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
 | Type the Rhythm | 389582 | [389582-type-the-rhythm.json](./389582-type-the-rhythm.json) |
