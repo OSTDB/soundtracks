@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Yard Master | 110007 | [110007-railway-yard-master.json](./110007-railway-yard-master.json) |
 | Railway: Koko ni Aru Yume | 271418 | [271418-railway-koko-ni-aru-yume.json](./271418-railway-koko-ni-aru-yume.json) |
 | Railways: Train Simulator | 240650 | [240650-railways-train-simulator.json](./240650-railways-train-simulator.json) |
+| Railworks | 5549 | [5549-railworks.json](./5549-railworks.json) |
 | Railworks 2: Train Simulator | 5548 | [5548-railworks-2-train-simulator.json](./5548-railworks-2-train-simulator.json) |
 | Railworks 3: Train Simulator 2012 | 51271 | [51271-railworks-3-train-simulator-2012.json](./51271-railworks-3-train-simulator-2012.json) |
 | Railworks 3: Train Simulator 2012 - Bristol to Avonmouth | 136479 | [136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json](./136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json) |
@@ -6169,6 +6170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Twinkle | 206505 | [206505-reverse-twinkle.json](./206505-reverse-twinkle.json) |
 | Reverse Will | 277499 | [277499-reverse-will.json](./277499-reverse-will.json) |
 | Reverse Woman of Human Ball | 234270 | [234270-reverse-woman-of-human-ball.json](./234270-reverse-woman-of-human-ball.json) |
+| Reverse x Reverse | 15385 | [15385-reverse-x-reverse.json](./15385-reverse-x-reverse.json) |
 | Reverse: 1999 | 188383 | [188383-reverse-1999.json](./188383-reverse-1999.json) |
 | ReverseBlue x Re-birthend | 362785 | [362785-reverseblue-x-re-birthend.json](./362785-reverseblue-x-re-birthend.json) |
 | Reversed Dreamland | 50515 | [50515-reversed-dreamland.json](./50515-reversed-dreamland.json) |
@@ -6735,6 +6737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddlord: The Consequence | 81688 | [81688-riddlord-the-consequence.json](./81688-riddlord-the-consequence.json) |
 | Ride | 183311 | [183311-ride.json](./183311-ride.json) |
 | Ride | 20047 | [20047-ride.json](./20047-ride.json) |
+| Ride 'em Low | 16205 | [16205-ride-em-low.json](./16205-ride-em-low.json) |
 | Ride 'Em Rigby: Regular Show | 61140 | [61140-ride-em-rigby-regular-show.json](./61140-ride-em-rigby-regular-show.json) |
 | Ride 2: 2017 Top Bikes Pack | 226961 | [226961-ride-2-2017-top-bikes-pack.json](./226961-ride-2-2017-top-bikes-pack.json) |
 | Ride 2: Aprilia and Suzuki Bonus Pack | 226962 | [226962-ride-2-aprilia-and-suzuki-bonus-pack.json](./226962-ride-2-aprilia-and-suzuki-bonus-pack.json) |
@@ -10524,6 +10527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotaeno | 121276 | [121276-rotaeno.json](./121276-rotaeno.json) |
 | Rotaliate | 423214 | [423214-rotaliate.json](./423214-rotaliate.json) |
 | RotaPicture | 93323 | [93323-rotapicture.json](./93323-rotapicture.json) |
+| Rotastic | 15275 | [15275-rotastic.json](./15275-rotastic.json) |
 | Rotata | 349184 | [349184-rotata.json](./349184-rotata.json) |
 | Rotate 'N' Shoot | 176155 | [176155-rotate-n-shoot.json](./176155-rotate-n-shoot.json) |
 | Rotate & Roll | 342600 | [342600-rotate-and-roll.json](./342600-rotate-and-roll.json) |
