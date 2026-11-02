@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Save the World? | 182902 | [182902-can-you-save-the-world.json](./182902-can-you-save-the-world.json) |
 | Can You See What I See?: Curfuffles Collectibles | 51399 | [51399-can-you-see-what-i-see-curfuffles-collectibles.json](./51399-can-you-see-what-i-see-curfuffles-collectibles.json) |
 | Can You See What I See?: Dream Machine | 312210 | [312210-can-you-see-what-i-see-dream-machine.json](./312210-can-you-see-what-i-see-dream-machine.json) |
+| Can You Survive the Scream House? | 419120 | [419120-can-you-survive-the-scream-house.json](./419120-can-you-survive-the-scream-house.json) |
 | Can You Survive?: Survival World | 95825 | [95825-can-you-survive-survival-world.json](./95825-can-you-survive-survival-world.json) |
 | Can Your Pet | 215086 | [215086-can-your-pet.json](./215086-can-your-pet.json) |
 | Can Your Pet 2: Returns | 240842 | [240842-can-your-pet-2-returns.json](./240842-can-your-pet-2-returns.json) |
@@ -1158,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canasta Junction | 87215 | [87215-canasta-junction.json](./87215-canasta-junction.json) |
 | Canasta Royale | 87318 | [87318-canasta-royale.json](./87318-canasta-royale.json) |
 | Canasta: Pro | 88530 | [88530-canasta-pro.json](./88530-canasta-pro.json) |
+| Cancel Subscription Simulator | 418418 | [418418-cancel-subscription-simulator.json](./418418-cancel-subscription-simulator.json) |
 | Canceled! Super Puzzles Dream | 192034 | [192034-canceled-super-puzzles-dream.json](./192034-canceled-super-puzzles-dream.json) |
 | Cancelled Christmas | 399267 | [399267-cancelled-christmas.json](./399267-cancelled-christmas.json) |
 | Candace Kane's Candy Factory | 4744 | [4744-candace-kanes-candy-factory.json](./4744-candace-kanes-candy-factory.json) |
@@ -1552,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Classics Collection | 21438 | [21438-capcom-classics-collection.json](./21438-capcom-classics-collection.json) |
 | Capcom Classics Collection Remixed | 23005 | [23005-capcom-classics-collection-remixed.json](./23005-capcom-classics-collection-remixed.json) |
 | Capcom Classics Collection Vol. 2 | 20605 | [20605-capcom-classics-collection-vol-2.json](./20605-capcom-classics-collection-vol-2.json) |
+| Capcom Classics Dual Pack: Remixed and Reloaded | 419118 | [419118-capcom-classics-dual-pack-remixed-and-reloaded.json](./419118-capcom-classics-dual-pack-remixed-and-reloaded.json) |
 | Capcom Classics Mini Mix | 49192 | [49192-capcom-classics-mini-mix.json](./49192-capcom-classics-mini-mix.json) |
 | Capcom Coin-Op Classics Series 1 | 286967 | [286967-capcom-coin-op-classics-series-1.json](./286967-capcom-coin-op-classics-series-1.json) |
 | Capcom Coin-Op Collection Volume 1 | 206704 | [206704-capcom-coin-op-collection-volume-1.json](./206704-capcom-coin-op-collection-volume-1.json) |
@@ -10695,6 +10698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cognition: An Erica Reed Thriller - Episode 4: The Cain Killer | 114987 | [114987-cognition-an-erica-reed-thriller-episode-4-the-cain-killer.json](./114987-cognition-an-erica-reed-thriller-episode-4-the-cain-killer.json) |
 | Cognition: Game of the Year Edition | 51700 | [51700-cognition-game-of-the-year-edition.json](./51700-cognition-game-of-the-year-edition.json) |
 | Cognitive Dissonance: A SiIvaGunner Christmas Comeback Crisis Side Story | 326956 | [326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json](./326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json) |
+| Cognitive Reconquista | 418408 | [418408-cognitive-reconquista.json](./418408-cognitive-reconquista.json) |
 | Cognizance | 126325 | [126325-cognizance.json](./126325-cognizance.json) |
 | Cognizant Protocol | 51557 | [51557-cognizant-protocol.json](./51557-cognizant-protocol.json) |
 | Cognizer | 102282 | [102282-cognizer.json](./102282-cognizer.json) |
@@ -14170,6 +14174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo 02 | 165690 | [165690-cosmo-02.json](./165690-cosmo-02.json) |
 | Cosmo and Yuuko: A Space Adventure | 178958 | [178958-cosmo-and-yuuko-a-space-adventure.json](./178958-cosmo-and-yuuko-a-space-adventure.json) |
 | Cosmo Angel | 92148 | [92148-cosmo-angel.json](./92148-cosmo-angel.json) |
+| Cosmo Arena | 418412 | [418412-cosmo-arena.json](./418412-cosmo-arena.json) |
 | Cosmo Cargo | 394499 | [394499-cosmo-cargo.json](./394499-cosmo-cargo.json) |
 | Cosmo Cats | 291360 | [291360-cosmo-cats.json](./291360-cosmo-cats.json) |
 | Cosmo Chaser | 120015 | [120015-cosmo-chaser.json](./120015-cosmo-chaser.json) |
@@ -15805,6 +15810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Toad | 68754 | [68754-crazy-toad.json](./68754-crazy-toad.json) |
 | Crazy Tower | 228666 | [228666-crazy-tower.json](./228666-crazy-tower.json) |
 | Crazy Tracer | 13707 | [13707-crazy-tracer.json](./13707-crazy-tracer.json) |
+| Crazy Tracker | 419085 | [419085-crazy-tracker.json](./419085-crazy-tracker.json) |
 | Crazy Traffic: City Parking Simulator | 317925 | [317925-crazy-traffic-city-parking-simulator.json](./317925-crazy-traffic-city-parking-simulator.json) |
 | Crazy Train | 41759 | [41759-crazy-train.json](./41759-crazy-train.json) |
 | Crazy Trucks | 186579 | [186579-crazy-trucks.json](./186579-crazy-trucks.json) |
