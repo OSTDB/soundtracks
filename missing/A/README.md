@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Blackout Protocol Report | 344237 | [344237-a-blackout-protocol-report.json](./344237-a-blackout-protocol-report.json) |
 | A Blast from the Past | 233566 | [233566-a-blast-from-the-past.json](./233566-a-blast-from-the-past.json) |
 | A Bleaker Predicklement | 106014 | [106014-a-bleaker-predicklement.json](./106014-a-bleaker-predicklement.json) |
+| A Blind Legend | 33641 | [33641-a-blind-legend.json](./33641-a-blind-legend.json) |
 | A Blocc World | 293077 | [293077-a-blocc-world.json](./293077-a-blocc-world.json) |
 | A Block Party! | 237595 | [237595-a-block-party.json](./237595-a-block-party.json) |
 | A Blocky Kind of Love | 234012 | [234012-a-blocky-kind-of-love.json](./234012-a-blocky-kind-of-love.json) |
@@ -1377,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Whole New Ball Game | 304311 | [304311-a-whole-new-ball-game.json](./304311-a-whole-new-ball-game.json) |
 | A Whole Wolfrush | 329682 | [329682-a-whole-wolfrush.json](./329682-a-whole-wolfrush.json) |
 | A Wholesome Game About Farming | 199292 | [199292-a-wholesome-game-about-farming.json](./199292-a-wholesome-game-about-farming.json) |
+| A Wild Catgirl Appears! | 33854 | [33854-a-wild-catgirl-appears.json](./33854-a-wild-catgirl-appears.json) |
 | A Wild Heist | 390106 | [390106-a-wild-heist.json](./390106-a-wild-heist.json) |
 | A Wild Last Boss Appeared!: Black-Winged Survivor | 371248 | [371248-a-wild-last-boss-appeared-black-winged-survivor.json](./371248-a-wild-last-boss-appeared-black-winged-survivor.json) |
 | A Wild Time Travelling Clone Dancing | 128952 | [128952-a-wild-time-travelling-clone-dancing.json](./128952-a-wild-time-travelling-clone-dancing.json) |
@@ -6157,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Trapped Beyond Wonderland | 165057 | [165057-alice-trapped-beyond-wonderland.json](./165057-alice-trapped-beyond-wonderland.json) |
 | Alice Trapped in Wonderland | 90668 | [90668-alice-trapped-in-wonderland.json](./90668-alice-trapped-in-wonderland.json) |
 | Alice Trapped in Wonderland | 91063 | [91063-alice-trapped-in-wonderland.json](./91063-alice-trapped-in-wonderland.json) |
+| Alice VR | 23187 | [23187-alice-vr.json](./23187-alice-vr.json) |
 | Alice VR: Roboto Factory | 171386 | [171386-alice-vr-roboto-factory.json](./171386-alice-vr-roboto-factory.json) |
 | Alice with Gatling | 219989 | [219989-alice-with-gatling.json](./219989-alice-with-gatling.json) |
 | Alice: Adventures in Wonderland | 66129 | [66129-alice-adventures-in-wonderland.json](./66129-alice-adventures-in-wonderland.json) |
@@ -6794,6 +6797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
 | All Motors Racing Simulator | 395221 | [395221-all-motors-racing-simulator.json](./395221-all-motors-racing-simulator.json) |
 | All My Friends Are Frogs | 183375 | [183375-all-my-friends-are-frogs.json](./183375-all-my-friends-are-frogs.json) |
+| All My Gods | 34406 | [34406-all-my-gods.json](./34406-all-my-gods.json) |
 | All New Origins | 283907 | [283907-all-new-origins.json](./283907-all-new-origins.json) |
 | All New Ultimate Pub Quiz 2008 | 320900 | [320900-all-new-ultimate-pub-quiz-2008.json](./320900-all-new-ultimate-pub-quiz-2008.json) |
 | All New World of Lemmings | 14246 | [14246-all-new-world-of-lemmings.json](./14246-all-new-world-of-lemmings.json) |
@@ -13796,6 +13800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asdivine Collection | 172729 | [172729-asdivine-collection.json](./172729-asdivine-collection.json) |
 | Asdivine Cross | 38982 | [38982-asdivine-cross.json](./38982-asdivine-cross.json) |
 | Asdivine Dios | 38981 | [38981-asdivine-dios.json](./38981-asdivine-dios.json) |
+| Asdivine Hearts | 34347 | [34347-asdivine-hearts.json](./34347-asdivine-hearts.json) |
 | Asdivine Hearts I & II | 196276 | [196276-asdivine-hearts-i-and-ii.json](./196276-asdivine-hearts-i-and-ii.json) |
 | Asdivine Hearts II | 113419 | [113419-asdivine-hearts-ii.json](./113419-asdivine-hearts-ii.json) |
 | Asdivine Kamura | 122726 | [122726-asdivine-kamura.json](./122726-asdivine-kamura.json) |
