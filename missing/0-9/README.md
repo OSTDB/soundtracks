@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Screen Platformer 2 | 133473 | [133473-1-screen-platformer-2.json](./133473-1-screen-platformer-2.json) |
 | 1 Shot 1 Kill | 297759 | [297759-1-shot-1-kill.json](./297759-1-shot-1-kill.json) |
 | 1 Shot Pool | 241205 | [241205-1-shot-pool.json](./241205-1-shot-pool.json) |
+| 1 Shot Putter Golf R | 402029 | [402029-1-shot-putter-golf-r.json](./402029-1-shot-putter-golf-r.json) |
 | 1 Square | 279165 | [279165-1-square.json](./279165-1-square.json) |
 | 1 Teratoaster | 184343 | [184343-1-teratoaster.json](./184343-1-teratoaster.json) |
 | 1 Thousand Deaths | 411656 | [411656-1-thousand-deaths.json](./411656-1-thousand-deaths.json) |
@@ -1850,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2x2 | 413378 | [413378-2x2.json](./413378-2x2.json) |
 | 2x4 Nails | 258003 | [258003-2x4-nails.json](./258003-2x4-nails.json) |
 | 2XKO: PS+ Benefit Bundle Y1S1 | 386485 | [386485-2xko-ps-benefit-bundle-y1s1.json](./386485-2xko-ps-benefit-bundle-y1s1.json) |
+| 2XKO: PS+ Benefit Bundle Y1S2 | 402039 | [402039-2xko-ps-benefit-bundle-y1s2.json](./402039-2xko-ps-benefit-bundle-y1s2.json) |
 | 2XKO: PS+ Benefit Bundle Y1S3 | 415424 | [415424-2xko-ps-benefit-bundle-y1s3.json](./415424-2xko-ps-benefit-bundle-y1s3.json) |
 | 2XKO: Starter Edition Standard | 386484 | [386484-2xko-starter-edition-standard.json](./386484-2xko-starter-edition-standard.json) |
 | 2XL ATV Offroad | 197676 | [197676-2xl-atv-offroad.json](./197676-2xl-atv-offroad.json) |
