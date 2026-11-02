@@ -2091,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Day of Mr. Potato | 246383 | [246383-one-day-of-mr-potato.json](./246383-one-day-of-mr-potato.json) |
 | One Day, the World | 414429 | [414429-one-day-the-world.json](./414429-one-day-the-world.json) |
 | One Death at a Time | 410688 | [410688-one-death-at-a-time.json](./410688-one-death-at-a-time.json) |
+| One Deck Dungeon | 88006 | [88006-one-deck-dungeon.json](./88006-one-deck-dungeon.json) |
 | One Deck Dungeon: Abyssal Depths | 163255 | [163255-one-deck-dungeon-abyssal-depths.json](./163255-one-deck-dungeon-abyssal-depths.json) |
 | One Deck Dungeon: Caliana | 163257 | [163257-one-deck-dungeon-caliana.json](./163257-one-deck-dungeon-caliana.json) |
 | One Deck Dungeon: Cinder Plains | 163258 | [163258-one-deck-dungeon-cinder-plains.json](./163258-one-deck-dungeon-cinder-plains.json) |
@@ -2554,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One week, My room | 245682 | [245682-one-week-my-room.json](./245682-one-week-my-room.json) |
 | One Wheel | 247325 | [247325-one-wheel.json](./247325-one-wheel.json) |
 | One Wheel Guy | 227771 | [227771-one-wheel-guy.json](./227771-one-wheel-guy.json) |
+| One Wish | 103939 | [103939-one-wish.json](./103939-one-wish.json) |
 | One With the Unicycleverse | 374375 | [374375-one-with-the-unicycleverse.json](./374375-one-with-the-unicycleverse.json) |
 | One Word 2 by Powgi | 104620 | [104620-one-word-2-by-powgi.json](./104620-one-word-2-by-powgi.json) |
 | One Word by Powgi | 104621 | [104621-one-word-by-powgi.json](./104621-one-word-by-powgi.json) |
@@ -4013,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oroboro | 311203 | [311203-oroboro.json](./311203-oroboro.json) |
 | Oroboros | 223259 | [223259-oroboros.json](./223259-oroboros.json) |
 | Oroborus: Planes of the Dead | 152709 | [152709-oroborus-planes-of-the-dead.json](./152709-oroborus-planes-of-the-dead.json) |
+| Orogenesis | 103047 | [103047-orogenesis.json](./103047-orogenesis.json) |
 | Ororo | 404983 | [404983-ororo.json](./404983-ororo.json) |
 | Orphan | 11580 | [11580-orphan.json](./11580-orphan.json) |
 | Orphan Age | 103133 | [103133-orphan-age.json](./103133-orphan-age.json) |
