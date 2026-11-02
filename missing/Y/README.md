@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yandere Simulator: Midori Adventure - The Visual Novel | 296375 | [296375-yandere-simulator-midori-adventure-the-visual-novel.json](./296375-yandere-simulator-midori-adventure-the-visual-novel.json) |
 | Yandere Tensei: I Can't Beat The Programming! | 321421 | [321421-yandere-tensei-i-cant-beat-the-programming.json](./321421-yandere-tensei-i-cant-beat-the-programming.json) |
 | Yandere Ura-kano Jirai-chan | 251516 | [251516-yandere-ura-kano-jirai-chan.json](./251516-yandere-ura-kano-jirai-chan.json) |
+| Yandere Virus | 405829 | [405829-yandere-virus.json](./405829-yandere-virus.json) |
 | Yandere-Chan | 125998 | [125998-yandere-chan.json](./125998-yandere-chan.json) |
 | Yandere: Love & Madness | 338643 | [338643-yandere-love-and-madness.json](./338643-yandere-love-and-madness.json) |
 | Yanderella | 125858 | [125858-yanderella.json](./125858-yanderella.json) |
@@ -746,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoiyami Dreamer: Voice of the Dreambringer | 69353 | [69353-yoiyami-dreamer-voice-of-the-dreambringer.json](./69353-yoiyami-dreamer-voice-of-the-dreambringer.json) |
 | Yoiyo Mori no Hime | 293326 | [293326-yoiyo-mori-no-hime.json](./293326-yoiyo-mori-no-hime.json) |
 | Yojimbrawl | 87819 | [87819-yojimbrawl.json](./87819-yojimbrawl.json) |
+| Yokai | 413403 | [413403-yokai.json](./413403-yokai.json) |
 | Yokai Art 2: Tales of the Nine-Tails | 345808 | [345808-yokai-art-2-tales-of-the-nine-tails.json](./345808-yokai-art-2-tales-of-the-nine-tails.json) |
 | Yokai Art: Night Parade of One Hundred Demons | 195726 | [195726-yokai-art-night-parade-of-one-hundred-demons.json](./195726-yokai-art-night-parade-of-one-hundred-demons.json) |
 | Yokai Art: Survival | 254036 | [254036-yokai-art-survival.json](./254036-yokai-art-survival.json) |
@@ -824,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomi 2 | 223376 | [223376-yomi-2.json](./223376-yomi-2.json) |
 | Yomi 2: Complete edition | 399830 | [399830-yomi-2-complete-edition.json](./399830-yomi-2-complete-edition.json) |
 | Yomi 2: Renegades | 289877 | [289877-yomi-2-renegades.json](./289877-yomi-2-renegades.json) |
+| Yomi Kikase Asobi Wii | 409082 | [409082-yomi-kikase-asobi-wii.json](./409082-yomi-kikase-asobi-wii.json) |
 | Yomi No Kuni | 400387 | [400387-yomi-no-kuni.json](./400387-yomi-no-kuni.json) |
 | Yomi: Expansion Characters | 169329 | [169329-yomi-expansion-characters.json](./169329-yomi-expansion-characters.json) |
 | Yomifuda: Kanji Survivors | 383146 | [383146-yomifuda-kanji-survivors.json](./383146-yomifuda-kanji-survivors.json) |
@@ -2004,6 +2007,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuukyuu no Tierblade: Lost Chronicle | 136438 | [136438-yuukyuu-no-tierblade-lost-chronicle.json](./136438-yuukyuu-no-tierblade-lost-chronicle.json) |
 | Yuuma Game | 252043 | [252043-yuuma-game.json](./252043-yuuma-game.json) |
 | Yuuna and the Haunted Hot Springs: Steam Dungeon | 104818 | [104818-yuuna-and-the-haunted-hot-springs-steam-dungeon.json](./104818-yuuna-and-the-haunted-hot-springs-steam-dungeon.json) |
+| Yuunagi-sou no S-kyuu no Kanojo-tachi | 410605 | [410605-yuunagi-sou-no-s-kyuu-no-kanojo-tachi.json](./410605-yuunagi-sou-no-s-kyuu-no-kanojo-tachi.json) |
+| Yuunagi-sou no S-kyuu no Kanojo-tachi 2 | 410606 | [410606-yuunagi-sou-no-s-kyuu-no-kanojo-tachi-2.json](./410606-yuunagi-sou-no-s-kyuu-no-kanojo-tachi-2.json) |
 | Yuurei Station | 179669 | [179669-yuurei-station.json](./179669-yuurei-station.json) |
 | Yuurei-kun | 141848 | [141848-yuurei-kun.json](./141848-yuurei-kun.json) |
 | Yuuri to Marin ha Iyashite Agetai | 401180 | [401180-yuuri-to-marin-ha-iyashite-agetai.json](./401180-yuuri-to-marin-ha-iyashite-agetai.json) |
