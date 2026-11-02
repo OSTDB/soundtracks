@@ -1475,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer Quest Deluxe | 53906 | [53906-warhammer-quest-deluxe.json](./53906-warhammer-quest-deluxe.json) |
 | Warhammer Quest: Silver Tower | 151194 | [151194-warhammer-quest-silver-tower.json](./151194-warhammer-quest-silver-tower.json) |
 | Warhammer Survivors | 376145 | [376145-warhammer-survivors.json](./376145-warhammer-survivors.json) |
+| Warhammer Underworlds: Online | 117743 | [117743-warhammer-underworlds-online.json](./117743-warhammer-underworlds-online.json) |
 | Warhammer Underworlds: Online - Warband: Mollog's Mob | 196057 | [196057-warhammer-underworlds-online-warband-mollogs-mob.json](./196057-warhammer-underworlds-online-warband-mollogs-mob.json) |
 | Warhammer Underworlds: Shadespire Edition | 251096 | [251096-warhammer-underworlds-shadespire-edition.json](./251096-warhammer-underworlds-shadespire-edition.json) |
 | Warhammer: Arcane Magic | 33565 | [33565-warhammer-arcane-magic.json](./33565-warhammer-arcane-magic.json) |
