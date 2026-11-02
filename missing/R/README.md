@@ -3991,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redline Royale | 237633 | [237633-redline-royale.json](./237633-redline-royale.json) |
 | Redline Rumble | 388120 | [388120-redline-rumble.json](./388120-redline-rumble.json) |
 | Redline Rush | 242003 | [242003-redline-rush.json](./242003-redline-rush.json) |
+| Redline Ultimate Racing | 84083 | [84083-redline-ultimate-racing.json](./84083-redline-ultimate-racing.json) |
 | Redline: Drift | 174854 | [174854-redline-drift.json](./174854-redline-drift.json) |
 | Redline: Sport | 255755 | [255755-redline-sport.json](./255755-redline-sport.json) |
 | RedMask | 266811 | [266811-redmask.json](./266811-redmask.json) |
@@ -4991,6 +4992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reptilian Rising | 153846 | [153846-reptilian-rising.json](./153846-reptilian-rising.json) |
 | Reptilians Must Die! | 30509 | [30509-reptilians-must-die.json](./30509-reptilians-must-die.json) |
 | Reptillian Rebellion | 123610 | [123610-reptillian-rebellion.json](./123610-reptillian-rebellion.json) |
+| Reptiloids | 83947 | [83947-reptiloids.json](./83947-reptiloids.json) |
 | Reptiloids 2 | 334831 | [334831-reptiloids-2.json](./334831-reptiloids-2.json) |
 | Repton | 9657 | [9657-repton.json](./9657-repton.json) |
 | Repton 2 | 37073 | [37073-repton-2.json](./37073-repton-2.json) |
@@ -10564,6 +10566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotato Disc Jam | 176385 | [176385-rotato-disc-jam.json](./176385-rotato-disc-jam.json) |
 | Rotato Rocket | 176156 | [176156-rotato-rocket.json](./176156-rotato-rocket.json) |
 | Rotato Ship | 185612 | [185612-rotato-ship.json](./185612-rotato-ship.json) |
+| Rotator | 83999 | [83999-rotator.json](./83999-rotator.json) |
 | Rotatorix | 74379 | [74379-rotatorix.json](./74379-rotatorix.json) |
 | Rote | 105428 | [105428-rote.json](./105428-rote.json) |
 | Rote2: RoteSquare | 195346 | [195346-rote2-rotesquare.json](./195346-rote2-rotesquare.json) |
