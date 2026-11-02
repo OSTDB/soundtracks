@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaptajn Kaper | 112044 | [112044-kaptajn-kaper.json](./112044-kaptajn-kaper.json) |
 | Kaputte Kranz Chap1 | 370992 | [370992-kaputte-kranz-chap1.json](./370992-kaputte-kranz-chap1.json) |
 | Kar Racing | 209845 | [209845-kar-racing.json](./209845-kar-racing.json) |
+| Kara | 405836 | [405836-kara.json](./405836-kara.json) |
 | Kara Fantasy | 334024 | [334024-kara-fantasy.json](./334024-kara-fantasy.json) |
 | Kara Legends | 133134 | [133134-kara-legends.json](./133134-kara-legends.json) |
 | Kara no Oukoku | 380433 | [380433-kara-no-oukoku.json](./380433-kara-no-oukoku.json) |
@@ -4155,6 +4156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knack's Quest | 62659 | [62659-knacks-quest.json](./62659-knacks-quest.json) |
 | Knaddskogen | 179866 | [179866-knaddskogen.json](./179866-knaddskogen.json) |
 | Knee Deep | 19089 | [19089-knee-deep.json](./19089-knee-deep.json) |
+| Knee Slide | 407059 | [407059-knee-slide.json](./407059-knee-slide.json) |
 | Knee-deep in 2023 | 261822 | [261822-knee-deep-in-2023.json](./261822-knee-deep-in-2023.json) |
 | Knee-Deep in Kdizd | 260668 | [260668-knee-deep-in-kdizd.json](./260668-knee-deep-in-kdizd.json) |
 | Kneedle Knight | 291531 | [291531-kneedle-knight.json](./291531-kneedle-knight.json) |
@@ -4513,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knock 'Em Downs: Worlds Fair | 209826 | [209826-knock-em-downs-worlds-fair.json](./209826-knock-em-downs-worlds-fair.json) |
 | Knock & Run | 249243 | [249243-knock-and-run.json](./249243-knock-and-run.json) |
 | Knock Harder | 120953 | [120953-knock-harder.json](./120953-knock-harder.json) |
+| Knock It Over, Again? | 407064 | [407064-knock-it-over-again.json](./407064-knock-it-over-again.json) |
 | Knock Knock | 323988 | [323988-knock-knock.json](./323988-knock-knock.json) |
 | Knock Knock Traveling soulsman | 178013 | [178013-knock-knock-traveling-soulsman.json](./178013-knock-knock-traveling-soulsman.json) |
 | Knock on the Coffin Lid | 131645 | [131645-knock-on-the-coffin-lid.json](./131645-knock-on-the-coffin-lid.json) |
@@ -6012,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kye | 98948 | [98948-kye.json](./98948-kye.json) |
 | Kyen: The Skeleton Amulet | 402754 | [402754-kyen-the-skeleton-amulet.json](./402754-kyen-the-skeleton-amulet.json) |
 | Kyivan Rus | 214197 | [214197-kyivan-rus.json](./214197-kyivan-rus.json) |
+| Kyklos | 407088 | [407088-kyklos.json](./407088-kyklos.json) |
 | Kyle is Famous: Complete Edition | 173138 | [173138-kyle-is-famous-complete-edition.json](./173138-kyle-is-famous-complete-edition.json) |
 | Kyle is Famous: Kyle is Santa | 171209 | [171209-kyle-is-famous-kyle-is-santa.json](./171209-kyle-is-famous-kyle-is-santa.json) |
 | Kyle Petty's No Fear Racing | 42505 | [42505-kyle-pettys-no-fear-racing.json](./42505-kyle-pettys-no-fear-racing.json) |
