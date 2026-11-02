@@ -11977,7 +11977,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyBoats | 31832 | [31832-skyboats.json](./31832-skyboats.json) |
 | Skybolt Zack | 109028 | [109028-skybolt-zack.json](./109028-skybolt-zack.json) |
 | Skyborg: Into the Vortex | 122940 | [122940-skyborg-into-the-vortex.json](./122940-skyborg-into-the-vortex.json) |
-| Skyborn | 9423 | [9423-skyborn.json](./9423-skyborn.json) |
 | Skyborn: IronWings | 361253 | [361253-skyborn-ironwings.json](./361253-skyborn-ironwings.json) |
 | Skyborne Chronicles | 371007 | [371007-skyborne-chronicles.json](./371007-skyborne-chronicles.json) |
 | Skyborne Terrors | 383711 | [383711-skyborne-terrors.json](./383711-skyborne-terrors.json) |
@@ -17386,7 +17385,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul at Stake: Lament of the Lovers | 170294 | [170294-soul-at-stake-lament-of-the-lovers.json](./170294-soul-at-stake-lament-of-the-lovers.json) |
 | Soul at Stake: Terror Cruise | 170291 | [170291-soul-at-stake-terror-cruise.json](./170291-soul-at-stake-terror-cruise.json) |
 | Soul Awakening Adventure | 273093 | [273093-soul-awakening-adventure.json](./273093-soul-awakening-adventure.json) |
-| Soul Axiom | 17096 | [17096-soul-axiom.json](./17096-soul-axiom.json) |
 | Soul Axiom Rebooted | 129977 | [129977-soul-axiom-rebooted.json](./129977-soul-axiom-rebooted.json) |
 | Soul Azylum | 131379 | [131379-soul-azylum.json](./131379-soul-azylum.json) |
 | Soul Balance | 391610 | [391610-soul-balance.json](./391610-soul-balance.json) |
@@ -18460,6 +18458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19289,7 +19288,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacestation Pheta | 344477 | [344477-spacestation-pheta.json](./344477-spacestation-pheta.json) |
 | SpaceStationSim | 20645 | [20645-spacestationsim.json](./20645-spacestationsim.json) |
 | SpaceTac | 47171 | [47171-spacetac.json](./47171-spacetac.json) |
-| Spaceteam | 7207 | [7207-spaceteam.json](./7207-spaceteam.json) |
 | Spaceteam VR | 119337 | [119337-spaceteam-vr.json](./119337-spaceteam-vr.json) |
 | Spaceteam: The Second Dimension | 211606 | [211606-spaceteam-the-second-dimension.json](./211606-spaceteam-the-second-dimension.json) |
 | Spacetime Chronicles | 426454 | [426454-spacetime-chronicles.json](./426454-spacetime-chronicles.json) |
@@ -22042,7 +22040,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squeakers | 87781 | [87781-squeakers.json](./87781-squeakers.json) |
 | Squeakers II | 148370 | [148370-squeakers-ii.json](./148370-squeakers-ii.json) |
 | Squeakross: Free Content Update | 392279 | [392279-squeakross-free-content-update.json](./392279-squeakross-free-content-update.json) |
-| Squeakross: Home Squeak Home | 305074 | [305074-squeakross-home-squeak-home.json](./305074-squeakross-home-squeak-home.json) |
 | Squeaky Clean | 146552 | [146552-squeaky-clean.json](./146552-squeaky-clean.json) |
 | Squeaky Squirrel | 179357 | [179357-squeaky-squirrel.json](./179357-squeaky-squirrel.json) |
 | Squeeballs Party | 21213 | [21213-squeeballs-party.json](./21213-squeeballs-party.json) |
