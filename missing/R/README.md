@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RagBlo Set3 | 97728 | [97728-ragblo-set3.json](./97728-ragblo-set3.json) |
 | RagBrawl | 244163 | [244163-ragbrawl.json](./244163-ragbrawl.json) |
 | Ragdoll Achievement | 387950 | [387950-ragdoll-achievement.json](./387950-ragdoll-achievement.json) |
+| Ragdoll Achievement 2 | 417743 | [417743-ragdoll-achievement-2.json](./417743-ragdoll-achievement-2.json) |
 | Ragdoll Arena: Kick the body | 374893 | [374893-ragdoll-arena-kick-the-body.json](./374893-ragdoll-arena-kick-the-body.json) |
 | Ragdoll Avalanche | 201952 | [201952-ragdoll-avalanche.json](./201952-ragdoll-avalanche.json) |
 | Ragdoll Avalanche 2 | 201951 | [201951-ragdoll-avalanche-2.json](./201951-ragdoll-avalanche-2.json) |
@@ -2391,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razgovor Online | 253878 | [253878-razgovor-online.json](./253878-razgovor-online.json) |
 | Raziel | 174742 | [174742-raziel.json](./174742-raziel.json) |
 | Raziel Dungeon Arena | 225689 | [225689-raziel-dungeon-arena.json](./225689-raziel-dungeon-arena.json) |
+| Razing Core | 417176 | [417176-razing-core.json](./417176-razing-core.json) |
 | Razor Freestyle Scooter | 249123 | [249123-razor-freestyle-scooter.json](./249123-razor-freestyle-scooter.json) |
 | Razor Freestyle Scooter | 249124 | [249124-razor-freestyle-scooter.json](./249124-razor-freestyle-scooter.json) |
 | Razor Global Domination Pro Tour | 62076 | [62076-razor-global-domination-pro-tour.json](./62076-razor-global-domination-pro-tour.json) |
@@ -3743,6 +3745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
 | Red Magic | 291719 | [291719-red-magic.json](./291719-red-magic.json) |
 | Red Man Follows | 243056 | [243056-red-man-follows.json](./243056-red-man-follows.json) |
+| Red Masked Ronin: Desires and Shadows | 417217 | [417217-red-masked-ronin-desires-and-shadows.json](./417217-red-masked-ronin-desires-and-shadows.json) |
 | Red Matter | 109907 | [109907-red-matter.json](./109907-red-matter.json) |
 | Red Matter 2 | 198227 | [198227-red-matter-2.json](./198227-red-matter-2.json) |
 | Red Max | 49561 | [49561-red-max.json](./49561-red-max.json) |
@@ -7656,6 +7659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riskers | 29736 | [29736-riskers.json](./29736-riskers.json) |
 | Risko: Shepherd's Leap | 390150 | [390150-risko-shepherds-leap.json](./390150-risko-shepherds-leap.json) |
 | Risky Bison | 314696 | [314696-risky-bison.json](./314696-risky-bison.json) |
+| Risky Business | 417764 | [417764-risky-business.json](./417764-risky-business.json) |
 | Risky Challenge | 394394 | [394394-risky-challenge.json](./394394-risky-challenge.json) |
 | Risky Chronicles and the Curse of Destiny | 296595 | [296595-risky-chronicles-and-the-curse-of-destiny.json](./296595-risky-chronicles-and-the-curse-of-destiny.json) |
 | Risky Floors | 167374 | [167374-risky-floors.json](./167374-risky-floors.json) |
@@ -8843,6 +8847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockefeller: The Black Gold | 10781 | [10781-rockefeller-the-black-gold.json](./10781-rockefeller-the-black-gold.json) |
 | RockerBox Tycoon | 101863 | [101863-rockerbox-tycoon.json](./101863-rockerbox-tycoon.json) |
 | Rocket Adventure | 111448 | [111448-rocket-adventure.json](./111448-rocket-adventure.json) |
+| Rocket Adventures | 417194 | [417194-rocket-adventures.json](./417194-rocket-adventures.json) |
 | Rocket Angels Inc | 239770 | [239770-rocket-angels-inc.json](./239770-rocket-angels-inc.json) |
 | Rocket Arena | 118565 | [118565-rocket-arena.json](./118565-rocket-arena.json) |
 | Rocket Arena: Mythic Edition | 136456 | [136456-rocket-arena-mythic-edition.json](./136456-rocket-arena-mythic-edition.json) |
