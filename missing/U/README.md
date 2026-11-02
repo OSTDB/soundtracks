@@ -1137,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umisho | 62407 | [62407-umisho.json](./62407-umisho.json) |
 | Umiuru to Sudoku Shiyo! | 124119 | [124119-umiuru-to-sudoku-shiyo.json](./124119-umiuru-to-sudoku-shiyo.json) |
 | Umizuri ni Ikou! | 37470 | [37470-umizuri-ni-ikou.json](./37470-umizuri-ni-ikou.json) |
+| Umm Oyoun | 423956 | [423956-umm-oyoun.json](./423956-umm-oyoun.json) |
 | Umokay 64DS | 215203 | [215203-umokay-64ds.json](./215203-umokay-64ds.json) |
 | Umokay 64DS 2 | 215205 | [215205-umokay-64ds-2.json](./215205-umokay-64ds-2.json) |
 | Umokay 64DS 3: Travel in Time | 215206 | [215206-umokay-64ds-3-travel-in-time.json](./215206-umokay-64ds-3-travel-in-time.json) |
@@ -1997,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnFound | 132471 | [132471-unfound.json](./132471-unfound.json) |
 | Unfound Footage | 347743 | [347743-unfound-footage.json](./347743-unfound-footage.json) |
 | Unfreeze Penguins | 416164 | [416164-unfreeze-penguins.json](./416164-unfreeze-penguins.json) |
+| Unfrost | 423998 | [423998-unfrost.json](./423998-unfrost.json) |
 | Unga Needs Mumba | 327668 | [327668-unga-needs-mumba.json](./327668-unga-needs-mumba.json) |
 | Ungaria | 62396 | [62396-ungaria.json](./62396-ungaria.json) |
 | Ungodly | 375516 | [375516-ungodly.json](./375516-ungodly.json) |
