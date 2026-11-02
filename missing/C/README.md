@@ -2209,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card de Renketsu! Densha de GO! | 146596 | [146596-card-de-renketsu-densha-de-go.json](./146596-card-de-renketsu-densha-de-go.json) |
 | Card Detective | 253535 | [253535-card-detective.json](./253535-card-detective.json) |
 | Card Draw | 334643 | [334643-card-draw.json](./334643-card-draw.json) |
+| Card Dungeon | 35434 | [35434-card-dungeon.json](./35434-card-dungeon.json) |
 | Card Eater | 406051 | [406051-card-eater.json](./406051-card-eater.json) |
 | Card Escape: Plane Crash | 188113 | [188113-card-escape-plane-crash.json](./188113-card-escape-plane-crash.json) |
 | Card Fable Quest | 334188 | [334188-card-fable-quest.json](./334188-card-fable-quest.json) |
@@ -7183,6 +7184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of Alexandria | 19483 | [19483-choice-of-alexandria.json](./19483-choice-of-alexandria.json) |
 | Choice of Broadsides | 63202 | [63202-choice-of-broadsides.json](./63202-choice-of-broadsides.json) |
 | Choice of Broadsides: HMS Foraker | 109340 | [109340-choice-of-broadsides-hms-foraker.json](./109340-choice-of-broadsides-hms-foraker.json) |
+| Choice of Kung Fu | 34211 | [34211-choice-of-kung-fu.json](./34211-choice-of-kung-fu.json) |
 | Choice of Life: Floors | 390183 | [390183-choice-of-life-floors.json](./390183-choice-of-life-floors.json) |
 | Choice of Life: Middle Ages | 142312 | [142312-choice-of-life-middle-ages.json](./142312-choice-of-life-middle-ages.json) |
 | Choice of Life: Samosbor | 158645 | [158645-choice-of-life-samosbor.json](./158645-choice-of-life-samosbor.json) |
@@ -7929,6 +7931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronostacia | 59155 | [59155-chronostacia.json](./59155-chronostacia.json) |
 | Chronostasis | 378253 | [378253-chronostasis.json](./378253-chronostasis.json) |
 | Chronostation | 130239 | [130239-chronostation.json](./130239-chronostation.json) |
+| Chronostorm: Siberian Border | 35452 | [35452-chronostorm-siberian-border.json](./35452-chronostorm-siberian-border.json) |
 | Chronostorm: Siberian Strike | 57992 | [57992-chronostorm-siberian-strike.json](./57992-chronostorm-siberian-strike.json) |
 | Chronostrike | 332409 | [332409-chronostrike.json](./332409-chronostrike.json) |
 | Chronosurge: Echoes of the Void | 371855 | [371855-chronosurge-echoes-of-the-void.json](./371855-chronosurge-echoes-of-the-void.json) |
@@ -8200,6 +8203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CineNerdle | 231638 | [231638-cinenerdle.json](./231638-cinenerdle.json) |
 | CineNerdle | 231639 | [231639-cinenerdle.json](./231639-cinenerdle.json) |
 | Cinescape VR | 349754 | [349754-cinescape-vr.json](./349754-cinescape-vr.json) |
+| Cineveo: Virtual Reality Cinema | 35404 | [35404-cineveo-virtual-reality-cinema.json](./35404-cineveo-virtual-reality-cinema.json) |
 | Cinicross | 367828 | [367828-cinicross.json](./367828-cinicross.json) |
 | Cinnabar Kamen | 269141 | [269141-cinnabar-kamen.json](./269141-cinnabar-kamen.json) |
 | Cinnabar Nights | 314682 | [314682-cinnabar-nights.json](./314682-cinnabar-nights.json) |
@@ -9000,6 +9004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clark: Hoova VR | 82067 | [82067-clark-hoova-vr.json](./82067-clark-hoova-vr.json) |
 | Clash | 125302 | [125302-clash.json](./125302-clash.json) |
 | Clash | 213861 | [213861-clash.json](./213861-clash.json) |
+| Clash | 34233 | [34233-clash.json](./34233-clash.json) |
 | Clash | 55033 | [55033-clash.json](./55033-clash.json) |
 | Clash & Run | 420174 | [420174-clash-and-run.json](./420174-clash-and-run.json) |
 | Clash at Demonhead | 19118 | [19118-clash-at-demonhead.json](./19118-clash-at-demonhead.json) |
@@ -14513,6 +14518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courier Beware | 399597 | [399597-courier-beware.json](./399597-courier-beware.json) |
 | Courier Chief Tycoon | 237086 | [237086-courier-chief-tycoon.json](./237086-courier-chief-tycoon.json) |
 | Courier Life Simulator | 380089 | [380089-courier-life-simulator.json](./380089-courier-life-simulator.json) |
+| Courier of the Crypts | 35468 | [35468-courier-of-the-crypts.json](./35468-courier-of-the-crypts.json) |
 | Courier Service Simulator 3D | 92330 | [92330-courier-service-simulator-3d.json](./92330-courier-service-simulator-3d.json) |
 | Courier Simulator | 349514 | [349514-courier-simulator.json](./349514-courier-simulator.json) |
 | Courier Tale | 202171 | [202171-courier-tale.json](./202171-courier-tale.json) |
@@ -15154,6 +15160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Course Builder | 258322 | [258322-crash-course-builder.json](./258322-crash-course-builder.json) |
 | Crash Course Go! | 106099 | [106099-crash-course-go.json](./106099-crash-course-go.json) |
 | Crash Dive | 24003 | [24003-crash-dive.json](./24003-crash-dive.json) |
+| Crash Dive | 35403 | [35403-crash-dive.json](./35403-crash-dive.json) |
 | Crash Dive 2 | 150949 | [150949-crash-dive-2.json](./150949-crash-dive-2.json) |
 | Crash Dive 2: East Indies Expansion Pack | 316390 | [316390-crash-dive-2-east-indies-expansion-pack.json](./316390-crash-dive-2-east-indies-expansion-pack.json) |
 | Crash Drive 2 | 35904 | [35904-crash-drive-2.json](./35904-crash-drive-2.json) |
