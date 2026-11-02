@@ -1907,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capy Farm | 407389 | [407389-capy-farm.json](./407389-capy-farm.json) |
 | Capy Hoky | 129426 | [129426-capy-hoky.json](./129426-capy-hoky.json) |
 | Capy Island | 310944 | [310944-capy-island.json](./310944-capy-island.json) |
+| Capy of Gods | 412743 | [412743-capy-of-gods.json](./412743-capy-of-gods.json) |
 | Capy Spa | 308156 | [308156-capy-spa.json](./308156-capy-spa.json) |
 | Capy Spa | 388541 | [388541-capy-spa.json](./388541-capy-spa.json) |
 | Capy's Hot Springs Haven | 389706 | [389706-capys-hot-springs-haven.json](./389706-capys-hot-springs-haven.json) |
@@ -1959,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Dealer | 133041 | [133041-car-dealer.json](./133041-car-dealer.json) |
 | Car Dealer Driver | 207881 | [207881-car-dealer-driver.json](./207881-car-dealer-driver.json) |
 | Car Dealer Garage Simulator 2026 | 393297 | [393297-car-dealer-garage-simulator-2026.json](./393297-car-dealer-garage-simulator-2026.json) |
+| Car Dealer Simulator: Retro Car for Sale | 413362 | [413362-car-dealer-simulator-retro-car-for-sale.json](./413362-car-dealer-simulator-retro-car-for-sale.json) |
 | Car Dealership Business Simulator | 336414 | [336414-car-dealership-business-simulator.json](./336414-car-dealership-business-simulator.json) |
 | Car Dealership Simulator | 216183 | [216183-car-dealership-simulator.json](./216183-car-dealership-simulator.json) |
 | Car Dealership Simulator 2 | 348687 | [348687-car-dealership-simulator-2.json](./348687-car-dealership-simulator-2.json) |
