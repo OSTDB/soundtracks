@@ -9280,6 +9280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazin' Aces | 61107 | [61107-blazin-aces.json](./61107-blazin-aces.json) |
 | Blazing 8s | 254426 | [254426-blazing-8s.json](./254426-blazing-8s.json) |
 | Blazing Ace | 243594 | [243594-blazing-ace.json](./243594-blazing-ace.json) |
+| Blazing Angels 2: Secret Missions of WWII | 3125 | [3125-blazing-angels-2-secret-missions-of-wwii.json](./3125-blazing-angels-2-secret-missions-of-wwii.json) |
 | Blazing Angels: Squadrons of WWII | 3124 | [3124-blazing-angels-squadrons-of-wwii.json](./3124-blazing-angels-squadrons-of-wwii.json) |
 | Blazing Aries | 153904 | [153904-blazing-aries.json](./153904-blazing-aries.json) |
 | Blazing Bajirao | 38696 | [38696-blazing-bajirao.json](./38696-blazing-bajirao.json) |
@@ -11988,6 +11989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonfire | 201658 | [201658-bonfire.json](./201658-bonfire.json) |
 | Bonfire and Tail | 250801 | [250801-bonfire-and-tail.json](./250801-bonfire-and-tail.json) |
 | Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
+| Bonfire Peaks | 129028 | [129028-bonfire-peaks.json](./129028-bonfire-peaks.json) |
 | Bonfire Peaks: Complete Edition | 278648 | [278648-bonfire-peaks-complete-edition.json](./278648-bonfire-peaks-complete-edition.json) |
 | Bonfire Peaks: Lost Memories | 203901 | [203901-bonfire-peaks-lost-memories.json](./203901-bonfire-peaks-lost-memories.json) |
 | Bonfire Simulator | 372790 | [372790-bonfire-simulator.json](./372790-bonfire-simulator.json) |
@@ -15518,6 +15520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buck Borris in Action | 152842 | [152842-buck-borris-in-action.json](./152842-buck-borris-in-action.json) |
 | Buck Bradley: Comic Adventure | 133213 | [133213-buck-bradley-comic-adventure.json](./133213-buck-bradley-comic-adventure.json) |
 | Buck Fever | 51007 | [51007-buck-fever.json](./51007-buck-fever.json) |
+| Buck Rogers: Countdown to Doomsday | 2436 | [2436-buck-rogers-countdown-to-doomsday.json](./2436-buck-rogers-countdown-to-doomsday.json) |
 | Buck Rogers: Matrix Cubed | 14499 | [14499-buck-rogers-matrix-cubed.json](./14499-buck-rogers-matrix-cubed.json) |
 | Buck Rogers: Planet of Zoom | 11142 | [11142-buck-rogers-planet-of-zoom.json](./11142-buck-rogers-planet-of-zoom.json) |
 | Buck Rogers: Planet of Zoom | 277214 | [277214-buck-rogers-planet-of-zoom.json](./277214-buck-rogers-planet-of-zoom.json) |
@@ -15762,6 +15765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs Bunny Birthday Bash | 283812 | [283812-bugs-bunny-birthday-bash.json](./283812-bugs-bunny-birthday-bash.json) |
 | Bugs Bunny Collection | 49097 | [49097-bugs-bunny-collection.json](./49097-bugs-bunny-collection.json) |
 | Bugs Bunny in Crazy Castle 4 | 8724 | [8724-bugs-bunny-in-crazy-castle-4.json](./8724-bugs-bunny-in-crazy-castle-4.json) |
+| Bugs Bunny in Double Trouble | 3052 | [3052-bugs-bunny-in-double-trouble.json](./3052-bugs-bunny-in-double-trouble.json) |
 | Bugs Bunny in Double Trouble | 368888 | [368888-bugs-bunny-in-double-trouble.json](./368888-bugs-bunny-in-double-trouble.json) |
 | Bugs Bunny: Crazy Castle 3 | 8723 | [8723-bugs-bunny-crazy-castle-3.json](./8723-bugs-bunny-crazy-castle-3.json) |
 | Bugs Bunny: Lost in Time | 3053 | [3053-bugs-bunny-lost-in-time.json](./3053-bugs-bunny-lost-in-time.json) |
