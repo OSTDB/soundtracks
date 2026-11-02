@@ -2649,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We are Eva | 191656 | [191656-we-are-eva.json](./191656-we-are-eva.json) |
 | We Are Football | 146039 | [146039-we-are-football.json](./146039-we-are-football.json) |
 | We are Football 2024 | 288844 | [288844-we-are-football-2024.json](./288844-we-are-football-2024.json) |
+| We Are Football 2027 | 417785 | [417785-we-are-football-2027.json](./417785-we-are-football-2027.json) |
 | We Are Football: Bundesliga Edition | 152342 | [152342-we-are-football-bundesliga-edition.json](./152342-we-are-football-bundesliga-edition.json) |
 | We Are Football: National Teams | 226881 | [226881-we-are-football-national-teams.json](./226881-we-are-football-national-teams.json) |
 | We Are Gladiators | 258445 | [258445-we-are-gladiators.json](./258445-we-are-gladiators.json) |
@@ -4878,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Isles | 220642 | [220642-wild-isles.json](./220642-wild-isles.json) |
 | Wild Jacks: Pro Edition | 96312 | [96312-wild-jacks-pro-edition.json](./96312-wild-jacks-pro-edition.json) |
 | Wild Jigsaw VR | 160149 | [160149-wild-jigsaw-vr.json](./160149-wild-jigsaw-vr.json) |
+| Wild Justice | 417202 | [417202-wild-justice.json](./417202-wild-justice.json) |
 | Wild Kratts Creature Mobile | 396719 | [396719-wild-kratts-creature-mobile.json](./396719-wild-kratts-creature-mobile.json) |
 | Wild Kratts Rescue Run | 88939 | [88939-wild-kratts-rescue-run.json](./88939-wild-kratts-rescue-run.json) |
 | Wild Legion | 243150 | [243150-wild-legion.json](./243150-wild-legion.json) |
