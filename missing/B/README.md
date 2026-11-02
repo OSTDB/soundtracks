@@ -2644,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrhell | 276702 | [276702-barrhell.json](./276702-barrhell.json) |
 | Barricade | 18116 | [18116-barricade.json](./18116-barricade.json) |
 | Barricade | 207646 | [207646-barricade.json](./207646-barricade.json) |
+| Barricade | 417163 | [417163-barricade.json](./417163-barricade.json) |
 | Barricadez | 127854 | [127854-barricadez.json](./127854-barricadez.json) |
 | Barricadez ReVisited | 169897 | [169897-barricadez-revisited.json](./169897-barricadez-revisited.json) |
 | Barrier | 317304 | [317304-barrier.json](./317304-barrier.json) |
@@ -7181,6 +7182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Theft Valkeala 3: Revenge | 395786 | [395786-big-theft-valkeala-3-revenge.json](./395786-big-theft-valkeala-3-revenge.json) |
 | Big Thinkers 1st Grade | 35061 | [35061-big-thinkers-1st-grade.json](./35061-big-thinkers-1st-grade.json) |
 | Big Thinkers Kindergarten | 35060 | [35060-big-thinkers-kindergarten.json](./35060-big-thinkers-kindergarten.json) |
+| Big Tiddy Goth Baddie | 417765 | [417765-big-tiddy-goth-baddie.json](./417765-big-tiddy-goth-baddie.json) |
 | Big Time Gangsta | 316758 | [316758-big-time-gangsta.json](./316758-big-time-gangsta.json) |
 | Big Time Rush: Backstage Pass | 47874 | [47874-big-time-rush-backstage-pass.json](./47874-big-time-rush-backstage-pass.json) |
 | Big Time Rush: Dance Party | 50625 | [50625-big-time-rush-dance-party.json](./50625-big-time-rush-dance-party.json) |
@@ -11069,6 +11071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Whale | 75320 | [75320-blue-whale.json](./75320-blue-whale.json) |
 | Blue Wish Desire | 178236 | [178236-blue-wish-desire.json](./178236-blue-wish-desire.json) |
 | Blue Wish Resurrection Plus | 122850 | [122850-blue-wish-resurrection-plus.json](./122850-blue-wish-resurrection-plus.json) |
+| Blue World | 417809 | [417809-blue-world.json](./417809-blue-world.json) |
 | Blue Wyrm | 331956 | [331956-blue-wyrm.json](./331956-blue-wyrm.json) |
 | Blue-Collar Astronaut | 34135 | [34135-blue-collar-astronaut.json](./34135-blue-collar-astronaut.json) |
 | Blue-Sky-Blue(s): Sora o Mau Tsubasa | 271420 | [271420-blue-sky-blue-s-sora-o-mau-tsubasa.json](./271420-blue-sky-blue-s-sora-o-mau-tsubasa.json) |
@@ -12346,6 +12349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Boom Volleyball | 263470 | [263470-boom-boom-volleyball.json](./263470-boom-boom-volleyball.json) |
 | Boom Boomerang | 127683 | [127683-boom-boomerang.json](./127683-boom-boomerang.json) |
 | Boom Box Blue! | 74496 | [74496-boom-box-blue.json](./74496-boom-box-blue.json) |
+| Boom Buddies | 417200 | [417200-boom-buddies.json](./417200-boom-buddies.json) |
 | Boom Buddy | 368491 | [368491-boom-buddy.json](./368491-boom-buddy.json) |
 | Boom Chick Chick | 85714 | [85714-boom-chick-chick.json](./85714-boom-chick-chick.json) |
 | Boom Company | 189993 | [189993-boom-company.json](./189993-boom-company.json) |
@@ -12618,6 +12622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BorderStrain | 115037 | [115037-borderstrain.json](./115037-borderstrain.json) |
 | Borderus: Angels & Demons | 150547 | [150547-borderus-angels-and-demons.json](./150547-borderus-angels-and-demons.json) |
 | Borderwatch: Dark Armada | 244686 | [244686-borderwatch-dark-armada.json](./244686-borderwatch-dark-armada.json) |
+| Bore | 417776 | [417776-bore.json](./417776-bore.json) |
 | Bore Blasters | 250809 | [250809-bore-blasters.json](./250809-bore-blasters.json) |
 | Bore Dome | 129431 | [129431-bore-dome.json](./129431-bore-dome.json) |
 | Boreal Blade | 122099 | [122099-boreal-blade.json](./122099-boreal-blade.json) |
@@ -14581,6 +14586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brickmasters | 240665 | [240665-brickmasters.json](./240665-brickmasters.json) |
 | Bricknosis | 391615 | [391615-bricknosis.json](./391615-bricknosis.json) |
 | Brickoid | 357167 | [357167-brickoid.json](./357167-brickoid.json) |
+| BrickOps | 417825 | [417825-brickops.json](./417825-brickops.json) |
 | Brickout Kings | 108402 | [108402-brickout-kings.json](./108402-brickout-kings.json) |
 | Bricks | 292111 | [292111-bricks.json](./292111-bricks.json) |
 | Bricks | 93476 | [93476-bricks.json](./93476-bricks.json) |
@@ -16235,6 +16241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BulletHeart | 181910 | [181910-bulletheart.json](./181910-bulletheart.json) |
 | BulletHeck | 265207 | [265207-bulletheck.json](./265207-bulletheck.json) |
 | BulletHell Planes | 135045 | [135045-bullethell-planes.json](./135045-bullethell-planes.json) |
+| Bulletjump | 417741 | [417741-bulletjump.json](./417741-bulletjump.json) |
 | Bulletkour | 210480 | [210480-bulletkour.json](./210480-bulletkour.json) |
 | Bulletline | 101365 | [101365-bulletline.json](./101365-bulletline.json) |
 | BulletLive | 235660 | [235660-bulletlive.json](./235660-bulletlive.json) |
