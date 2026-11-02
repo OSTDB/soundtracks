@@ -5386,10 +5386,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager 2011 | 14889 | [14889-championship-manager-2011.json](./14889-championship-manager-2011.json) |
 | Championship Manager 3 | 93149 | [93149-championship-manager-3.json](./93149-championship-manager-3.json) |
 | Championship Manager 4 | 18870 | [18870-championship-manager-4.json](./18870-championship-manager-4.json) |
+| Championship Manager 5 | 5773 | [5773-championship-manager-5.json](./5773-championship-manager-5.json) |
 | Championship Manager Quiz | 43786 | [43786-championship-manager-quiz.json](./43786-championship-manager-quiz.json) |
 | Championship Manager: End of Season Edition | 73351 | [73351-championship-manager-end-of-season-edition.json](./73351-championship-manager-end-of-season-edition.json) |
 | Championship Manager: Season 00/01 | 24170 | [24170-championship-manager-season-00-01.json](./24170-championship-manager-season-00-01.json) |
 | Championship Manager: Season 01/02 | 5769 | [5769-championship-manager-season-01-02.json](./5769-championship-manager-season-01-02.json) |
+| Championship Manager: Season 02/03 | 5770 | [5770-championship-manager-season-02-03.json](./5770-championship-manager-season-02-03.json) |
 | Championship Manager: Season 03/04 | 628 | [628-championship-manager-season-03-04.json](./628-championship-manager-season-03-04.json) |
 | Championship Manager: Season 1999/2000 | 71378 | [71378-championship-manager-season-1999-2000.json](./71378-championship-manager-season-1999-2000.json) |
 | Championship Manager: Season 96/97 | 70258 | [70258-championship-manager-season-96-97.json](./70258-championship-manager-season-96-97.json) |
@@ -5596,6 +5598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Storm: Strategy Edition | 236435 | [236435-chaos-storm-strategy-edition.json](./236435-chaos-storm-strategy-edition.json) |
 | Chaos Tavern | 120538 | [120538-chaos-tavern.json](./120538-chaos-tavern.json) |
 | Chaos Theory | 114298 | [114298-chaos-theory.json](./114298-chaos-theory.json) |
+| Chaos Theory | 15945 | [15945-chaos-theory.json](./15945-chaos-theory.json) |
 | Chaos Theory Pirates | 130193 | [130193-chaos-theory-pirates.json](./130193-chaos-theory-pirates.json) |
 | Chaos Town | 36819 | [36819-chaos-town.json](./36819-chaos-town.json) |
 | Chaos Trigger | 296860 | [296860-chaos-trigger.json](./296860-chaos-trigger.json) |
@@ -7036,6 +7039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chippy & Noppo | 240228 | [240228-chippy-and-noppo.json](./240228-chippy-and-noppo.json) |
 | Chippy's Escape from Seaberry Keep | 224681 | [224681-chippys-escape-from-seaberry-keep.json](./224681-chippys-escape-from-seaberry-keep.json) |
 | Chippy's Stash | 336877 | [336877-chippys-stash.json](./336877-chippys-stash.json) |
+| Chiptune Champion | 15905 | [15905-chiptune-champion.json](./15905-chiptune-champion.json) |
 | Chiptune DJ | 106409 | [106409-chiptune-dj.json](./106409-chiptune-dj.json) |
 | Chiptune Runner | 52741 | [52741-chiptune-runner.json](./52741-chiptune-runner.json) |
 | ChipWits | 292223 | [292223-chipwits.json](./292223-chipwits.json) |
@@ -8319,6 +8323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus Games | 159042 | [159042-circus-games.json](./159042-circus-games.json) |
 | Circus Lido | 37724 | [37724-circus-lido.json](./37724-circus-lido.json) |
 | Circus Maximus | 23760 | [23760-circus-maximus.json](./23760-circus-maximus.json) |
+| Circus Maximus: Chariot Wars | 5776 | [5776-circus-maximus-chariot-wars.json](./5776-circus-maximus-chariot-wars.json) |
 | Circus of Clowns | 342085 | [342085-circus-of-clowns.json](./342085-circus-of-clowns.json) |
 | Circus of TimTim | 278013 | [278013-circus-of-timtim.json](./278013-circus-of-timtim.json) |
 | Circus World | 52507 | [52507-circus-world.json](./52507-circus-world.json) |
@@ -8884,6 +8889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clad in Iron: Sakhalin 1904 | 111222 | [111222-clad-in-iron-sakhalin-1904.json](./111222-clad-in-iron-sakhalin-1904.json) |
 | Clad In Iron: War of The Pacific 1879 | 334186 | [334186-clad-in-iron-war-of-the-pacific-1879.json](./334186-clad-in-iron-war-of-the-pacific-1879.json) |
 | Cladmen | 151028 | [151028-cladmen.json](./151028-cladmen.json) |
+| Cladun X2 | 15284 | [15284-cladun-x2.json](./15284-cladun-x2.json) |
 | Cladun X3 | 317862 | [317862-cladun-x3.json](./317862-cladun-x3.json) |
 | Cladun: This is an RPG | 21576 | [21576-cladun-this-is-an-rpg.json](./21576-cladun-this-is-an-rpg.json) |
 | Claim Jumper | 18508 | [18508-claim-jumper.json](./18508-claim-jumper.json) |
@@ -14010,6 +14016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Monsters | 127505 | [127505-cosmic-monsters.json](./127505-cosmic-monsters.json) |
 | Cosmic Monsters | 281285 | [281285-cosmic-monsters.json](./281285-cosmic-monsters.json) |
 | Cosmic Monsters 2 Enclaves Dawn | 195264 | [195264-cosmic-monsters-2-enclaves-dawn.json](./195264-cosmic-monsters-2-enclaves-dawn.json) |
+| Cosmic Osmo and the Worlds Beyond the Mackerel | 16200 | [16200-cosmic-osmo-and-the-worlds-beyond-the-mackerel.json](./16200-cosmic-osmo-and-the-worlds-beyond-the-mackerel.json) |
 | Cosmic Outpost | 303738 | [303738-cosmic-outpost.json](./303738-cosmic-outpost.json) |
 | Cosmic Paradox: Noire | 290621 | [290621-cosmic-paradox-noire.json](./290621-cosmic-paradox-noire.json) |
 | Cosmic Payback | 318230 | [318230-cosmic-payback.json](./318230-cosmic-payback.json) |
@@ -16231,6 +16238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Room: Decade | 25809 | [25809-crimson-room-decade.json](./25809-crimson-room-decade.json) |
 | Crimson Room: Reverse | 67281 | [67281-crimson-room-reverse.json](./67281-crimson-room-reverse.json) |
 | Crimson Royale ~Circumstances to serve a noble~ | 130006 | [130006-crimson-royale-circumstances-to-serve-a-noble.json](./130006-crimson-royale-circumstances-to-serve-a-noble.json) |
+| Crimson Sea | 5792 | [5792-crimson-sea.json](./5792-crimson-sea.json) |
 | Crimson Sea 2 | 22166 | [22166-crimson-sea-2.json](./22166-crimson-sea-2.json) |
 | Crimson Seer | 378400 | [378400-crimson-seer.json](./378400-crimson-seer.json) |
 | Crimson Skies | 15863 | [15863-crimson-skies.json](./15863-crimson-skies.json) |
