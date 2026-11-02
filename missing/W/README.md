@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallace & Gromit: The Big Fix Up | 321331 | [321331-wallace-and-gromit-the-big-fix-up.json](./321331-wallace-and-gromit-the-big-fix-up.json) |
 | Wallace & Gromit: The Curse of the Were-Rabbit | 343178 | [343178-wallace-and-gromit-the-curse-of-the-were-rabbit.json](./343178-wallace-and-gromit-the-curse-of-the-were-rabbit.json) |
 | Wallace & Gromit: The Curse of the Were-Rabbit | 6227 | [6227-wallace-and-gromit-the-curse-of-the-were-rabbit.json](./6227-wallace-and-gromit-the-curse-of-the-were-rabbit.json) |
+| Wallace & Gromit: The Grand Getaway | 252792 | [252792-wallace-and-gromit-the-grand-getaway.json](./252792-wallace-and-gromit-the-grand-getaway.json) |
 | Wallace & Gromit: Top Bun | 320878 | [320878-wallace-and-gromit-top-bun.json](./320878-wallace-and-gromit-top-bun.json) |
 | Wallace & Gromit's Grand Adventures | 11307 | [11307-wallace-and-gromits-grand-adventures.json](./11307-wallace-and-gromits-grand-adventures.json) |
 | Wallace & Gromit's Grand Adventures: Episode 1 - Fright of the Bumblebees | 115575 | [115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json](./115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json) |
@@ -4083,6 +4084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | While I'm Still Your Eyes | 229899 | [229899-while-im-still-your-eyes.json](./229899-while-im-still-your-eyes.json) |
 | While Mom is Away | 312552 | [312552-while-mom-is-away.json](./312552-while-mom-is-away.json) |
 | While Sleeping | 312553 | [312553-while-sleeping.json](./312553-while-sleeping.json) |
+| While the Iron’s Hot | 252781 | [252781-while-the-iron-s-hot.json](./252781-while-the-iron-s-hot.json) |
 | While the Whole World Laughs | 241486 | [241486-while-the-whole-world-laughs.json](./241486-while-the-whole-world-laughs.json) |
 | while True: learn() | 76840 | [76840-while-true-learn.json](./76840-while-true-learn.json) |
 | While Waiting | 253330 | [253330-while-waiting.json](./253330-while-waiting.json) |
