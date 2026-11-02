@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radix Chronicle | 251779 | [251779-radix-chronicle.json](./251779-radix-chronicle.json) |
 | Radley Ravencroft's Spy Web Mystery | 343287 | [343287-radley-ravencrofts-spy-web-mystery.json](./343287-radley-ravencrofts-spy-web-mystery.json) |
 | Radon Blast | 144717 | [144717-radon-blast.json](./144717-radon-blast.json) |
+| Radon Blast 2 | 415722 | [415722-radon-blast-2.json](./415722-radon-blast-2.json) |
 | Radon Break | 195006 | [195006-radon-break.json](./195006-radon-break.json) |
 | RADS: The Radioactive Apocalypse Dating Simulator | 290822 | [290822-rads-the-radioactive-apocalypse-dating-simulator.json](./290822-rads-the-radioactive-apocalypse-dating-simulator.json) |
 | Radventure: The Rise of Ryle | 346530 | [346530-radventure-the-rise-of-ryle.json](./346530-radventure-the-rise-of-ryle.json) |
@@ -2179,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravensword: The Fallen King | 61031 | [61031-ravensword-the-fallen-king.json](./61031-ravensword-the-fallen-king.json) |
 | Ravensword: Undaunted | 155056 | [155056-ravensword-undaunted.json](./155056-ravensword-undaunted.json) |
 | Raventure | 250547 | [250547-raventure.json](./250547-raventure.json) |
+| RavenVeil | 416547 | [416547-ravenveil.json](./416547-ravenveil.json) |
 | RavenWeald | 142622 | [142622-ravenweald.json](./142622-ravenweald.json) |
 | Ravenwood | 312280 | [312280-ravenwood.json](./312280-ravenwood.json) |
 | Ravenwood 46 | 373051 | [373051-ravenwood-46.json](./373051-ravenwood-46.json) |
@@ -2555,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Ozma | 118162 | [118162-re-ozma.json](./118162-re-ozma.json) |
 | Re:Pairn’t | 181173 | [181173-re-pairn-t.json](./181173-re-pairn-t.json) |
 | Re:Play | 358648 | [358648-re-play.json](./358648-re-play.json) |
+| Re:Red | 415332 | [415332-re-red.json](./415332-re-red.json) |
 | Re:Rite | 402518 | [402518-re-rite.json](./402518-re-rite.json) |
 | Re:Spite | 107644 | [107644-re-spite.json](./107644-re-spite.json) |
 | Re:Stage! Prism Step | 77720 | [77720-re-stage-prism-step.json](./77720-re-stage-prism-step.json) |
@@ -4206,6 +4209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflection: The Greed | 211712 | [211712-reflection-the-greed.json](./211712-reflection-the-greed.json) |
 | Reflections in Amber | 399672 | [399672-reflections-in-amber.json](./399672-reflections-in-amber.json) |
 | Reflections Life: Equilibrium | 106451 | [106451-reflections-life-equilibrium.json](./106451-reflections-life-equilibrium.json) |
+| Reflections of Life: A Shattered Heart | 416532 | [416532-reflections-of-life-a-shattered-heart.json](./416532-reflections-of-life-a-shattered-heart.json) |
 | Reflections of Life: Call of the Ancestors | 187954 | [187954-reflections-of-life-call-of-the-ancestors.json](./187954-reflections-of-life-call-of-the-ancestors.json) |
 | Reflections of Life: Call of the Ancestors - Collector's Edition | 362827 | [362827-reflections-of-life-call-of-the-ancestors-collectors-edition.json](./362827-reflections-of-life-call-of-the-ancestors-collectors-edition.json) |
 | Reflections of Life: Dark Architect | 57718 | [57718-reflections-of-life-dark-architect.json](./57718-reflections-of-life-dark-architect.json) |
@@ -10104,6 +10108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romancing SaGa | 11311 | [11311-romancing-saga.json](./11311-romancing-saga.json) |
 | Romancing SaGa 3 | 109592 | [109592-romancing-saga-3.json](./109592-romancing-saga-3.json) |
 | Romancing SaGa 3 | 11313 | [11313-romancing-saga-3.json](./11313-romancing-saga-3.json) |
+| Romancing SaGa 3: Destinies United | 415836 | [415836-romancing-saga-3-destinies-united.json](./415836-romancing-saga-3-destinies-united.json) |
 | Romancing SaGa Re;UniverSe | 109593 | [109593-romancing-saga-re-universe.json](./109593-romancing-saga-re-universe.json) |
 | Romancing SaGa: Minstrel Song Remastered | 203315 | [203315-romancing-saga-minstrel-song-remastered.json](./203315-romancing-saga-minstrel-song-remastered.json) |
 | Romancing SaGa: Minstrel Song Remastered International Special Edition | 391997 | [391997-romancing-saga-minstrel-song-remastered-international-special-edition.json](./391997-romancing-saga-minstrel-song-remastered-international-special-edition.json) |
