@@ -2496,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barely Afloat | 123579 | [123579-barely-afloat.json](./123579-barely-afloat.json) |
 | Barely Alive | 387111 | [387111-barely-alive.json](./387111-barely-alive.json) |
 | Barely Breakout! Underwater ReMix | 82551 | [82551-barely-breakout-underwater-remix.json](./82551-barely-breakout-underwater-remix.json) |
+| Barely Breathing | 405281 | [405281-barely-breathing.json](./405281-barely-breathing.json) |
 | Barely Floating | 138214 | [138214-barely-floating.json](./138214-barely-floating.json) |
 | Barely Intersex | 419616 | [419616-barely-intersex.json](./419616-barely-intersex.json) |
 | Barely Racing | 149170 | [149170-barely-racing.json](./149170-barely-racing.json) |
@@ -4913,6 +4914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Feet | 369635 | [369635-beat-feet.json](./369635-beat-feet.json) |
 | Beat Fever: Music Tap Rhythm Game | 82995 | [82995-beat-fever-music-tap-rhythm-game.json](./82995-beat-fever-music-tap-rhythm-game.json) |
 | Beat Flip | 166848 | [166848-beat-flip.json](./166848-beat-flip.json) |
+| Beat for Speed | 405274 | [405274-beat-for-speed.json](./405274-beat-for-speed.json) |
 | Beat Game | 245701 | [245701-beat-game.json](./245701-beat-game.json) |
 | Beat Guru | 121488 | [121488-beat-guru.json](./121488-beat-guru.json) |
 | Beat Hazard | 7404 | [7404-beat-hazard.json](./7404-beat-hazard.json) |
@@ -5955,6 +5957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 Ultimate Alien: Mind Mine | 231387 | [231387-ben-10-ultimate-alien-mind-mine.json](./231387-ben-10-ultimate-alien-mind-mine.json) |
 | Ben 10 Ultimate Alien: Ultimate Crisis | 302729 | [302729-ben-10-ultimate-alien-ultimate-crisis.json](./302729-ben-10-ultimate-alien-ultimate-crisis.json) |
 | Ben 10 Ultimate Alien: Ultimate Defense | 353641 | [353641-ben-10-ultimate-alien-ultimate-defense.json](./353641-ben-10-ultimate-alien-ultimate-defense.json) |
+| Ben 10 Ultimate Alien: Xenodrome Plus | 405291 | [405291-ben-10-ultimate-alien-xenodrome-plus.json](./405291-ben-10-ultimate-alien-xenodrome-plus.json) |
 | Ben 10: 001 - Character: Ben Tennyson | 363184 | [363184-ben-10-001-character-ben-tennyson.json](./363184-ben-10-001-character-ben-tennyson.json) |
 | Ben 10: 002 - Character: Four Arms | 363186 | [363186-ben-10-002-character-four-arms.json](./363186-ben-10-002-character-four-arms.json) |
 | Ben 10: 003 - Character: Stinkfly | 363187 | [363187-ben-10-003-character-stinkfly.json](./363187-ben-10-003-character-stinkfly.json) |
@@ -6046,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Galactic Racing | 210260 | [210260-ben-10-galactic-racing.json](./210260-ben-10-galactic-racing.json) |
 | Ben 10: Galactic Racing | 2806 | [2806-ben-10-galactic-racing.json](./2806-ben-10-galactic-racing.json) |
 | Ben 10: Omni-Charge | 363892 | [363892-ben-10-omni-charge.json](./363892-ben-10-omni-charge.json) |
+| Ben 10: Omnitrix Power | 405293 | [405293-ben-10-omnitrix-power.json](./405293-ben-10-omnitrix-power.json) |
 | Ben 10: Omniverse | 2800 | [2800-ben-10-omniverse.json](./2800-ben-10-omniverse.json) |
 | Ben 10: Omniverse | 287015 | [287015-ben-10-omniverse.json](./287015-ben-10-omniverse.json) |
 | Ben 10: Omniverse | 287016 | [287016-ben-10-omniverse.json](./287016-ben-10-omniverse.json) |
@@ -10699,6 +10703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Fun Day | 386991 | [386991-bloody-fun-day.json](./386991-bloody-fun-day.json) |
 | Bloody Good Friends | 284018 | [284018-bloody-good-friends.json](./284018-bloody-good-friends.json) |
 | Bloody Good Times | 52475 | [52475-bloody-good-times.json](./52475-bloody-good-times.json) |
+| Bloody Grids | 405245 | [405245-bloody-grids.json](./405245-bloody-grids.json) |
 | Bloody Harry | 274390 | [274390-bloody-harry.json](./274390-bloody-harry.json) |
 | Bloody Heaven | 263995 | [263995-bloody-heaven.json](./263995-bloody-heaven.json) |
 | Bloody Heaven 2 | 291859 | [291859-bloody-heaven-2.json](./291859-bloody-heaven-2.json) |
