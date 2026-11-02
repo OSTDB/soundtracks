@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row IV: Commander In Chief Edition | 26198 | [26198-saints-row-iv-commander-in-chief-edition.json](./26198-saints-row-iv-commander-in-chief-edition.json) |
 | Saints Row IV: Enter the Dominatrix | 22142 | [22142-saints-row-iv-enter-the-dominatrix.json](./22142-saints-row-iv-enter-the-dominatrix.json) |
 | Saints Row IV: Game of the Century Edition | 51869 | [51869-saints-row-iv-game-of-the-century-edition.json](./51869-saints-row-iv-game-of-the-century-edition.json) |
+| Saints Row IV: How the Saints Save Christmas | 23420 | [23420-saints-row-iv-how-the-saints-save-christmas.json](./23420-saints-row-iv-how-the-saints-save-christmas.json) |
 | Saints Row IV: National Treasure Edition | 53573 | [53573-saints-row-iv-national-treasure-edition.json](./53573-saints-row-iv-national-treasure-edition.json) |
 | Saints Row IV: Re-Elected | 7707 | [7707-saints-row-iv-re-elected.json](./7707-saints-row-iv-re-elected.json) |
 | Saints Row IV: Re-Elected & Gat out of Hell | 82419 | [82419-saints-row-iv-re-elected-and-gat-out-of-hell.json](./82419-saints-row-iv-re-elected-and-gat-out-of-hell.json) |
@@ -3549,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scumbag Streamer | 391538 | [391538-scumbag-streamer.json](./391538-scumbag-streamer.json) |
 | Scumball | 45361 | [45361-scumball.json](./45361-scumball.json) |
 | Scuos | 116167 | [116167-scuos.json](./116167-scuos.json) |
+| Scurge: Hive | 6585 | [6585-scurge-hive.json](./6585-scurge-hive.json) |
 | Scurry | 374898 | [374898-scurry.json](./374898-scurry.json) |
 | Scurry | 97711 | [97711-scurry.json](./97711-scurry.json) |
 | Scurvy Dogs | 224761 | [224761-scurvy-dogs.json](./224761-scurvy-dogs.json) |
@@ -5215,6 +5217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinel Returns | 45303 | [45303-sentinel-returns.json](./45303-sentinel-returns.json) |
 | Sentinel Worlds I: Future Magic | 55155 | [55155-sentinel-worlds-i-future-magic.json](./55155-sentinel-worlds-i-future-magic.json) |
 | Sentinel: Cursed Knight | 153354 | [153354-sentinel-cursed-knight.json](./153354-sentinel-cursed-knight.json) |
+| Sentinel: Descendants in Time | 24260 | [24260-sentinel-descendants-in-time.json](./24260-sentinel-descendants-in-time.json) |
 | Sentinel: Mars Defense | 63201 | [63201-sentinel-mars-defense.json](./63201-sentinel-mars-defense.json) |
 | Sentinel: Stones of Disruption | 267797 | [267797-sentinel-stones-of-disruption.json](./267797-sentinel-stones-of-disruption.json) |
 | Sentinels | 258334 | [258334-sentinels.json](./258334-sentinels.json) |
@@ -7190,6 +7193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheeeroom | 324810 | [324810-sheeeroom.json](./324810-sheeeroom.json) |
 | Sheep | 208705 | [208705-sheep.json](./208705-sheep.json) |
 | Sheep | 229705 | [229705-sheep.json](./229705-sheep.json) |
+| Sheep | 6592 | [6592-sheep.json](./6592-sheep.json) |
 | Sheep & Love | 390700 | [390700-sheep-and-love.json](./390700-sheep-and-love.json) |
 | Sheep a Sheep | 223917 | [223917-sheep-a-sheep.json](./223917-sheep-a-sheep.json) |
 | Sheep and Gates | 347591 | [347591-sheep-and-gates.json](./347591-sheep-and-gates.json) |
@@ -8360,6 +8364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shonen Adventure: The Dual Blades Hero | 164859 | [164859-shonen-adventure-the-dual-blades-hero.json](./164859-shonen-adventure-the-dual-blades-hero.json) |
 | Shonen Idle | 101908 | [101908-shonen-idle.json](./101908-shonen-idle.json) |
 | Shonen Jump's One Piece | 75755 | [75755-shonen-jumps-one-piece.json](./75755-shonen-jumps-one-piece.json) |
+| Shonen Jump's Shaman King: Master of Spirits 2 | 6591 | [6591-shonen-jumps-shaman-king-master-of-spirits-2.json](./6591-shonen-jumps-shaman-king-master-of-spirits-2.json) |
 | Shoni Island | 306422 | [306422-shoni-island.json](./306422-shoni-island.json) |
 | Shoo, Box! | 157311 | [157311-shoo-box.json](./157311-shoo-box.json) |
 | Shoo, Naughty Little Monsters! | 407873 | [407873-shoo-naughty-little-monsters.json](./407873-shoo-naughty-little-monsters.json) |
@@ -19811,6 +19816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellforce: Conquest of Eo - Children of Nor | 343445 | [343445-spellforce-conquest-of-eo-children-of-nor.json](./343445-spellforce-conquest-of-eo-children-of-nor.json) |
 | SpellForce: Conquest of Eo - Weaver's Realms | 318472 | [318472-spellforce-conquest-of-eo-weavers-realms.json](./318472-spellforce-conquest-of-eo-weavers-realms.json) |
 | SpellForce: Heroes & Magic | 118373 | [118373-spellforce-heroes-and-magic.json](./118373-spellforce-heroes-and-magic.json) |
+| SpellForce: Platinum Edition | 24277 | [24277-spellforce-platinum-edition.json](./24277-spellforce-platinum-edition.json) |
 | SpellForce: Shadow of the Phoenix | 7031 | [7031-spellforce-shadow-of-the-phoenix.json](./7031-spellforce-shadow-of-the-phoenix.json) |
 | SpellForce: The Order of Dawn | 7027 | [7027-spellforce-the-order-of-dawn.json](./7027-spellforce-the-order-of-dawn.json) |
 | SpellForce: Universe | 78728 | [78728-spellforce-universe.json](./78728-spellforce-universe.json) |
@@ -23208,6 +23214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust Demon | 291687 | [291687-stardust-demon.json](./291687-stardust-demon.json) |
 | Stardust Escape | 373158 | [373158-stardust-escape.json](./373158-stardust-escape.json) |
 | Stardust Falls | 134264 | [134264-stardust-falls.json](./134264-stardust-falls.json) |
+| Stardust Galaxy Warriors: Stellar Climax | 23957 | [23957-stardust-galaxy-warriors-stellar-climax.json](./23957-stardust-galaxy-warriors-stellar-climax.json) |
 | Stardust League | 222391 | [222391-stardust-league.json](./222391-stardust-league.json) |
 | Stardust Odyssey | 122994 | [122994-stardust-odyssey.json](./122994-stardust-odyssey.json) |
 | Stardust Rain | 274965 | [274965-stardust-rain.json](./274965-stardust-rain.json) |
@@ -26271,6 +26278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Scooters | 279217 | [279217-street-scooters.json](./279217-street-scooters.json) |
 | Street Shuffle | 134659 | [134659-street-shuffle.json](./134659-street-shuffle.json) |
 | Street Shuffle | 212160 | [212160-street-shuffle.json](./212160-street-shuffle.json) |
+| Street Sk8er | 22839 | [22839-street-sk8er.json](./22839-street-sk8er.json) |
 | Street Sk8er 2 | 45033 | [45033-street-sk8er-2.json](./45033-street-sk8er-2.json) |
 | Street Skater City | 180484 | [180484-street-skater-city.json](./180484-street-skater-city.json) |
 | Street Smart | 41084 | [41084-street-smart.json](./41084-street-smart.json) |
@@ -32180,6 +32188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzu to Mari no Bouken: The Ghost of Friend | 206176 | [206176-suzu-to-mari-no-bouken-the-ghost-of-friend.json](./206176-suzu-to-mari-no-bouken-the-ghost-of-friend.json) |
 | Suzuka 8 Hours 2 | 41094 | [41094-suzuka-8-hours-2.json](./41094-suzuka-8-hours-2.json) |
 | Suzukaze no Melt: Where Wishes are Drawn to Each Other | 78406 | [78406-suzukaze-no-melt-where-wishes-are-drawn-to-each-other.json](./78406-suzukaze-no-melt-where-wishes-are-drawn-to-each-other.json) |
+| Suzuki Alstare Extreme Racing | 24153 | [24153-suzuki-alstare-extreme-racing.json](./24153-suzuki-alstare-extreme-racing.json) |
 | Suzuki Bakuhatsu | 43852 | [43852-suzuki-bakuhatsu.json](./43852-suzuki-bakuhatsu.json) |
 | Suzuki Super-bikes II: Riding Challenge | 67038 | [67038-suzuki-super-bikes-ii-riding-challenge.json](./67038-suzuki-super-bikes-ii-riding-challenge.json) |
 | Suzuki TT Superbikes Real Road Racing Championship | 67042 | [67042-suzuki-tt-superbikes-real-road-racing-championship.json](./67042-suzuki-tt-superbikes-real-road-racing-championship.json) |
