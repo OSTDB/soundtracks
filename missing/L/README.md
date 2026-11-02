@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landshay: Event Night | 186348 | [186348-landshay-event-night.json](./186348-landshay-event-night.json) |
 | Landslide | 256756 | [256756-landslide.json](./256756-landslide.json) |
 | Landstalker | 15072 | [15072-landstalker.json](./15072-landstalker.json) |
+| LandTraveller | 39275 | [39275-landtraveller.json](./39275-landtraveller.json) |
 | Landwars | 90175 | [90175-landwars.json](./90175-landwars.json) |
 | Landy Land | 283129 | [283129-landy-land.json](./283129-landy-land.json) |
 | Lane Drifter | 365901 | [365901-lane-drifter.json](./365901-lane-drifter.json) |
@@ -5254,6 +5255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lionel the Dragon | 197079 | [197079-lionel-the-dragon.json](./197079-lionel-the-dragon.json) |
 | Lionel Trains Presents: Trans-Con! | 348978 | [348978-lionel-trains-presents-trans-con.json](./348978-lionel-trains-presents-trans-con.json) |
 | Lionel Trains: On Track | 10738 | [10738-lionel-trains-on-track.json](./10738-lionel-trains-on-track.json) |
+| Lionessy Story | 39778 | [39778-lionessy-story.json](./39778-lionessy-story.json) |
 | Liong: the Dragon Dance | 144210 | [144210-liong-the-dragon-dance.json](./144210-liong-the-dragon-dance.json) |
 | Liong: the Lost Amulets | 144209 | [144209-liong-the-lost-amulets.json](./144209-liong-the-lost-amulets.json) |
 | Lionheart | 25687 | [25687-lionheart.json](./25687-lionheart.json) |
@@ -6834,6 +6836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LongPath | 150436 | [150436-longpath.json](./150436-longpath.json) |
 | LongStory | 74495 | [74495-longstory.json](./74495-longstory.json) |
 | LongStory 2 | 253480 | [253480-longstory-2.json](./253480-longstory-2.json) |
+| Longsword Tabletop Tactics | 41045 | [41045-longsword-tabletop-tactics.json](./41045-longsword-tabletop-tactics.json) |
 | Longtail!! | 351080 | [351080-longtail.json](./351080-longtail.json) |
 | Longvinter | 152626 | [152626-longvinter.json](./152626-longvinter.json) |
 | Lonley, Lustful, Arrogant, Hateful | 172726 | [172726-lonley-lustful-arrogant-hateful.json](./172726-lonley-lustful-arrogant-hateful.json) |
