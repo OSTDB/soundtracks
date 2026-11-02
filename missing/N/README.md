@@ -4015,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Driver | 328687 | [328687-night-driver.json](./328687-night-driver.json) |
 | Night Driver | 89496 | [89496-night-driver.json](./89496-night-driver.json) |
 | Night Drone | 373654 | [373654-night-drone.json](./373654-night-drone.json) |
+| Night Duty Log: A Shōwa School Record | 405801 | [405801-night-duty-log-a-showa-school-record.json](./405801-night-duty-log-a-showa-school-record.json) |
 | Night Errand | 381200 | [381200-night-errand.json](./381200-night-errand.json) |
 | Night Errors | 395798 | [395798-night-errors.json](./395798-night-errors.json) |
 | Night Escaper | 201266 | [201266-night-escaper.json](./201266-night-escaper.json) |
@@ -4642,6 +4643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nim | 359761 | [359761-nim.json](./359761-nim.json) |
 | Nim | 407560 | [407560-nim.json](./407560-nim.json) |
 | Nim's Sin Removal Service | 216299 | [216299-nims-sin-removal-service.json](./216299-nims-sin-removal-service.json) |
+| Nimaat | 405845 | [405845-nimaat.json](./405845-nimaat.json) |
 | Niman | 370983 | [370983-niman.json](./370983-niman.json) |
 | Nimbatus: Drone Creator | 132564 | [132564-nimbatus-drone-creator.json](./132564-nimbatus-drone-creator.json) |
 | Nimbatus: The Space Drone Constructor | 34919 | [34919-nimbatus-the-space-drone-constructor.json](./34919-nimbatus-the-space-drone-constructor.json) |
