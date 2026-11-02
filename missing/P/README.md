@@ -3751,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Colony | 354409 | [354409-penguin-colony.json](./354409-penguin-colony.json) |
 | Penguin Detectives: Crash Patrol | 317555 | [317555-penguin-detectives-crash-patrol.json](./317555-penguin-detectives-crash-patrol.json) |
 | Penguin Diner 2 | 64615 | [64615-penguin-diner-2.json](./64615-penguin-diner-2.json) |
+| Penguin Diner: Restaurant Dash | 188560 | [188560-penguin-diner-restaurant-dash.json](./188560-penguin-diner-restaurant-dash.json) |
 | Penguin Escape | 326236 | [326236-penguin-escape.json](./326236-penguin-escape.json) |
 | Penguin Festival | 335130 | [335130-penguin-festival.json](./335130-penguin-festival.json) |
 | Penguin Flight | 328443 | [328443-penguin-flight.json](./328443-penguin-flight.json) |
@@ -10566,6 +10567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Ruby Version | 355535 | [355535-pokemon-ruby-version.json](./355535-pokemon-ruby-version.json) |
 | Pokémon Ruckus | 360176 | [360176-pokemon-ruckus.json](./360176-pokemon-ruckus.json) |
 | Pokémon Rumble Blast | 4561 | [4561-pokemon-rumble-blast.json](./4561-pokemon-rumble-blast.json) |
+| Pokémon Rumble U | 4560 | [4560-pokemon-rumble-u.json](./4560-pokemon-rumble-u.json) |
 | Pokémon Rumble World | 9564 | [9564-pokemon-rumble-world.json](./9564-pokemon-rumble-world.json) |
 | Pokémon Rumble: Weekend Edition | 387401 | [387401-pokemon-rumble-weekend-edition.json](./387401-pokemon-rumble-weekend-edition.json) |
 | Pokémon Run & Bun | 246077 | [246077-pokemon-run-and-bun.json](./246077-pokemon-run-and-bun.json) |
