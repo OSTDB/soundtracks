@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vamps For the Memories | 192422 | [192422-vamps-for-the-memories.json](./192422-vamps-for-the-memories.json) |
 | Vamps-Imulator | 251817 | [251817-vamps-imulator.json](./251817-vamps-imulator.json) |
 | Vampvasion | 410896 | [410896-vampvasion.json](./410896-vampvasion.json) |
+| Vampy's Big Day | 408420 | [408420-vampys-big-day.json](./408420-vampys-big-day.json) |
 | Vampyr: Special Edition | 139984 | [139984-vampyr-special-edition.json](./139984-vampyr-special-edition.json) |
 | Vampyr: Talisman of Invocation | 69916 | [69916-vampyr-talisman-of-invocation.json](./69916-vampyr-talisman-of-invocation.json) |
 | Vampyr: The Hunters Heirlooms | 119287 | [119287-vampyr-the-hunters-heirlooms.json](./119287-vampyr-the-hunters-heirlooms.json) |
@@ -1037,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectromirror 0 | 159488 | [159488-vectromirror-0.json](./159488-vectromirror-0.json) |
 | Vectron | 287572 | [287572-vectron.json](./287572-vectron.json) |
 | Vectron | 295639 | [295639-vectron.json](./295639-vectron.json) |
+| Vectron | 409129 | [409129-vectron.json](./409129-vectron.json) |
 | Vectronom | 107182 | [107182-vectronom.json](./107182-vectronom.json) |
 | Vecxis | 59058 | [59058-vecxis.json](./59058-vecxis.json) |
 | Ved | 126673 | [126673-ved.json](./126673-ved.json) |
@@ -3053,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Crawlers | 404966 | [404966-void-crawlers.json](./404966-void-crawlers.json) |
 | Void Crew | 243017 | [243017-void-crew.json](./243017-void-crew.json) |
 | Void Cube Runner | 97091 | [97091-void-cube-runner.json](./97091-void-cube-runner.json) |
+| Void Daggers | 409602 | [409602-void-daggers.json](./409602-void-daggers.json) |
 | Void Dash | 314003 | [314003-void-dash.json](./314003-void-dash.json) |
 | Void Dementia | 182492 | [182492-void-dementia.json](./182492-void-dementia.json) |
 | Void Destroyer 2 | 35267 | [35267-void-destroyer-2.json](./35267-void-destroyer-2.json) |
@@ -3464,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Battle Simulator | 145843 | [145843-voxel-battle-simulator.json](./145843-voxel-battle-simulator.json) |
 | Voxel Blast | 34652 | [34652-voxel-blast.json](./34652-voxel-blast.json) |
 | Voxel Bot | 119473 | [119473-voxel-bot.json](./119473-voxel-bot.json) |
+| Voxel Breakers | 410587 | [410587-voxel-breakers.json](./410587-voxel-breakers.json) |
 | Voxel Clicker | 107606 | [107606-voxel-clicker.json](./107606-voxel-clicker.json) |
 | Voxel Crusade | 120689 | [120689-voxel-crusade.json](./120689-voxel-crusade.json) |
 | Voxel Delvers | 381686 | [381686-voxel-delvers.json](./381686-voxel-delvers.json) |
@@ -3524,6 +3528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxie Tactics | 178092 | [178092-voxie-tactics.json](./178092-voxie-tactics.json) |
 | Voxile | 272585 | [272585-voxile.json](./272585-voxile.json) |
 | Voxiom.io | 139381 | [139381-voxiom-io.json](./139381-voxiom-io.json) |
+| VoxLand | 410640 | [410640-voxland.json](./410640-voxland.json) |
 | Voxmons | 425869 | [425869-voxmons.json](./425869-voxmons.json) |
 | Voxorp | 178628 | [178628-voxorp.json](./178628-voxorp.json) |
 | Voxrush | 211138 | [211138-voxrush.json](./211138-voxrush.json) |
