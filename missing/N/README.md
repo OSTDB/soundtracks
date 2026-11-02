@@ -1111,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navy Mission | 406046 | [406046-navy-mission.json](./406046-navy-mission.json) |
 | Navy Moves | 12696 | [12696-navy-moves.json](./12696-navy-moves.json) |
 | Navy Seal | 75117 | [75117-navy-seal.json](./75117-navy-seal.json) |
+| Navy Seals | 15268 | [15268-navy-seals.json](./15268-navy-seals.json) |
 | Navy Seals | 25150 | [25150-navy-seals.json](./25150-navy-seals.json) |
 | Navy Seals | 369607 | [369607-navy-seals.json](./369607-navy-seals.json) |
 | Navy Strike | 69220 | [69220-navy-strike.json](./69220-navy-strike.json) |
@@ -2585,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerf Legends: Digital Deluxe Edition | 218844 | [218844-nerf-legends-digital-deluxe-edition.json](./218844-nerf-legends-digital-deluxe-edition.json) |
 | NERF Legends: Elite Blaster Combo Pack | 262314 | [262314-nerf-legends-elite-blaster-combo-pack.json](./262314-nerf-legends-elite-blaster-combo-pack.json) |
 | Nerf N-Strike | 2665 | [2665-nerf-n-strike.json](./2665-nerf-n-strike.json) |
+| Nerf N-Strike Elite | 2666 | [2666-nerf-n-strike-elite.json](./2666-nerf-n-strike-elite.json) |
 | Nerf N-Strike: Double Blast Bundle | 268392 | [268392-nerf-n-strike-double-blast-bundle.json](./268392-nerf-n-strike-double-blast-bundle.json) |
 | Nerf Ultimate Championship | 152224 | [152224-nerf-ultimate-championship.json](./152224-nerf-ultimate-championship.json) |
 | Nerf: Battle Arena | 197329 | [197329-nerf-battle-arena.json](./197329-nerf-battle-arena.json) |
