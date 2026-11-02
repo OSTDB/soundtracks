@@ -7262,6 +7262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Xulima | 9191 | [9191-lords-of-xulima.json](./9191-lords-of-xulima.json) |
 | Lords of Xulima: Deluxe Edition | 51840 | [51840-lords-of-xulima-deluxe-edition.json](./51840-lords-of-xulima-deluxe-edition.json) |
 | Lordship | 350047 | [350047-lordship.json](./350047-lordship.json) |
+| Lordz.io | 100949 | [100949-lordz-io.json](./100949-lordz-io.json) |
 | Lore City: Alkahest | 179938 | [179938-lore-city-alkahest.json](./179938-lore-city-alkahest.json) |
 | Lore Distance Relationship | 202605 | [202605-lore-distance-relationship.json](./202605-lore-distance-relationship.json) |
 | Lore Finder | 112762 | [112762-lore-finder.json](./112762-lore-finder.json) |
