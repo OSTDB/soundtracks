@@ -4118,6 +4118,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear My God | 205611 | [205611-dear-my-god.json](./205611-dear-my-god.json) |
 | Dear My Sun!! Musuko Ikusei Capriccio | 72592 | [72592-dear-my-sun-musuko-ikusei-capriccio.json](./72592-dear-my-sun-musuko-ikusei-capriccio.json) |
 | Dear Otome | 228354 | [228354-dear-otome.json](./228354-dear-otome.json) |
+| Dear Pianissimo | 408383 | [408383-dear-pianissimo.json](./408383-dear-pianissimo.json) |
+| Dear Pianissimo Refrain | 408384 | [408384-dear-pianissimo-refrain.json](./408384-dear-pianissimo-refrain.json) |
 | Dear Pretentiousness | 259668 | [259668-dear-pretentiousness.json](./259668-dear-pretentiousness.json) |
 | Dear Reader | 124034 | [124034-dear-reader.json](./124034-dear-reader.json) |
 | Dear Red | 280724 | [280724-dear-red.json](./280724-dear-red.json) |
@@ -5194,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deepy | 325023 | [325023-deepy.json](./325023-deepy.json) |
 | Deer | 383998 | [383998-deer.json](./383998-deer.json) |
 | Deer & Boy | 202138 | [202138-deer-and-boy.json](./202138-deer-and-boy.json) |
+| Deer & Boy: Deluxe Edition | 409966 | [409966-deer-and-boy-deluxe-edition.json](./409966-deer-and-boy-deluxe-edition.json) |
 | Deer Avenger | 73851 | [73851-deer-avenger.json](./73851-deer-avenger.json) |
 | Deer Avenger 2 | 316617 | [316617-deer-avenger-2.json](./316617-deer-avenger-2.json) |
 | Deer Avenger 2: Deer in the City | 68724 | [68724-deer-avenger-2-deer-in-the-city.json](./68724-deer-avenger-2-deer-in-the-city.json) |
@@ -6816,6 +6819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Thunder | 9820 | [9820-desert-thunder.json](./9820-desert-thunder.json) |
 | Desert Trek | 170340 | [170340-desert-trek.json](./170340-desert-trek.json) |
 | Desert Tycoon | 256251 | [256251-desert-tycoon.json](./256251-desert-tycoon.json) |
+| Desert Walk | 409084 | [409084-desert-walk.json](./409084-desert-walk.json) |
 | Desert War | 167163 | [167163-desert-war.json](./167163-desert-war.json) |
 | Desert War | 39928 | [39928-desert-war.json](./39928-desert-war.json) |
 | Desert War 1940-1942 | 129593 | [129593-desert-war-1940-1942.json](./129593-desert-war-1940-1942.json) |
@@ -8797,6 +8801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensi Lain Serena | 301117 | [301117-dimensi-lain-serena.json](./301117-dimensi-lain-serena.json) |
 | Dimension | 355177 | [355177-dimension.json](./355177-dimension.json) |
 | Dimension Ascent | 355596 | [355596-dimension-ascent.json](./355596-dimension-ascent.json) |
+| Dimension Core: Amethyst | 408442 | [408442-dimension-core-amethyst.json](./408442-dimension-core-amethyst.json) |
 | Dimension Defenders | 405570 | [405570-dimension-defenders.json](./405570-dimension-defenders.json) |
 | Dimension Drifter | 107761 | [107761-dimension-drifter.json](./107761-dimension-drifter.json) |
 | Dimension Drive | 27327 | [27327-dimension-drive.json](./27327-dimension-drive.json) |
@@ -12584,6 +12589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DOP 4: Draw One Part | 220217 | [220217-dop-4-draw-one-part.json](./220217-dop-4-draw-one-part.json) |
 | Dop Story: Displace It | 220220 | [220220-dop-story-displace-it.json](./220220-dop-story-displace-it.json) |
 | Dopamine | 295798 | [295798-dopamine.json](./295798-dopamine.json) |
+| Dopamine | 410634 | [410634-dopamine.json](./410634-dopamine.json) |
 | Dopamine Hit | 342894 | [342894-dopamine-hit.json](./342894-dopamine-hit.json) |
 | Dopaminer | 388170 | [388170-dopaminer.json](./388170-dopaminer.json) |
 | Dopamix | 222327 | [222327-dopamix.json](./222327-dopamix.json) |
@@ -15582,6 +15588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Ride | 196557 | [196557-drift-ride.json](./196557-drift-ride.json) |
 | Drift Runners | 287157 | [287157-drift-runners.json](./287157-drift-runners.json) |
 | Drift Shape | 231967 | [231967-drift-shape.json](./231967-drift-shape.json) |
+| Drift Shell | 410582 | [410582-drift-shell.json](./410582-drift-shell.json) |
 | Drift Showcase | 369752 | [369752-drift-showcase.json](./369752-drift-showcase.json) |
 | Drift Spark | 231990 | [231990-drift-spark.json](./231990-drift-spark.json) |
 | Drift Spirits | 174631 | [174631-drift-spirits.json](./174631-drift-spirits.json) |
@@ -16751,6 +16758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duketroid | 308457 | [308457-duketroid.json](./308457-duketroid.json) |
 | DukeVR | 273214 | [273214-dukevr.json](./273214-dukevr.json) |
 | Dukkido | 330897 | [330897-dukkido.json](./330897-dukkido.json) |
+| Dukstale | 409099 | [409099-dukstale.json](./409099-dukstale.json) |
 | Dulat | 416350 | [416350-dulat.json](./416350-dulat.json) |
 | Dulce et Decorum | 195202 | [195202-dulce-et-decorum.json](./195202-dulce-et-decorum.json) |
 | Duline | 199489 | [199489-duline.json](./199489-duline.json) |
