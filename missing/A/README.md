@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Most Curious Murder | 83853 | [83853-a-most-curious-murder.json](./83853-a-most-curious-murder.json) |
 | A Most Extraordinary Gnome | 211034 | [211034-a-most-extraordinary-gnome.json](./211034-a-most-extraordinary-gnome.json) |
 | A Moth Argent | 135835 | [135835-a-moth-argent.json](./135835-a-moth-argent.json) |
+| A Mountain Called Hope | 407748 | [407748-a-mountain-called-hope.json](./407748-a-mountain-called-hope.json) |
 | A Mountain of One | 240040 | [240040-a-mountain-of-one.json](./240040-a-mountain-of-one.json) |
 | A Murder in Fairyland | 140176 | [140176-a-murder-in-fairyland.json](./140176-a-murder-in-fairyland.json) |
 | A Murder of Crows | 261846 | [261846-a-murder-of-crows.json](./261846-a-murder-of-crows.json) |
@@ -15211,6 +15212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astropods: Starside Glaze | 316076 | [316076-astropods-starside-glaze.json](./316076-astropods-starside-glaze.json) |
 | AstroPop | 3755 | [3755-astropop.json](./3755-astropop.json) |
 | AstroPop Deluxe | 27813 | [27813-astropop-deluxe.json](./27813-astropop-deluxe.json) |
+| AstroPork | 407734 | [407734-astropork.json](./407734-astropork.json) |
 | AstroPuffs | 253505 | [253505-astropuffs.json](./253505-astropuffs.json) |
 | Astropulse: Reincarnation | 327646 | [327646-astropulse-reincarnation.json](./327646-astropulse-reincarnation.json) |
 | AstroRock | 62394 | [62394-astrorock.json](./62394-astrorock.json) |
@@ -15609,6 +15611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier: Alchemists of Arland 1-2-3 DX - Premium Box | 136717 | [136717-atelier-alchemists-of-arland-1-2-3-dx-premium-box.json](./136717-atelier-alchemists-of-arland-1-2-3-dx-premium-box.json) |
 | Atelier: Alchemists of the Dusk Trilogy DX - Premium Box | 136924 | [136924-atelier-alchemists-of-the-dusk-trilogy-dx-premium-box.json](./136924-atelier-alchemists-of-the-dusk-trilogy-dx-premium-box.json) |
 | Atelier: The Alchemist of Arland 1-2-3 DX - Premium Box | 167138 | [167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json](./167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json) |
+| Atelier's Key | 407743 | [407743-ateliers-key.json](./407743-ateliers-key.json) |
 | AteloPhobia:The Story Begins | 201501 | [201501-atelophobia-the-story-begins.json](./201501-atelophobia-the-story-begins.json) |
 | Aternia: Deep | 157001 | [157001-aternia-deep.json](./157001-aternia-deep.json) |
 | ATF: Advanced Tactical Fighter | 13344 | [13344-atf-advanced-tactical-fighter.json](./13344-atf-advanced-tactical-fighter.json) |
