@@ -6403,6 +6403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhodesia '72 | 292500 | [292500-rhodesia-72.json](./292500-rhodesia-72.json) |
 | Rhom Bus | 197231 | [197231-rhom-bus.json](./197231-rhom-bus.json) |
 | Rhombus | 370894 | [370894-rhombus.json](./370894-rhombus.json) |
+| Rhome | 130273 | [130273-rhome.json](./130273-rhome.json) |
 | Rhyme Land | 306035 | [306035-rhyme-land.json](./306035-rhyme-land.json) |
 | Rhyme Player | 67037 | [67037-rhyme-player.json](./67037-rhyme-player.json) |
 | Rhyme Rider Kerorican | 37355 | [37355-rhyme-rider-kerorican.json](./37355-rhyme-rider-kerorican.json) |
@@ -7098,6 +7099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rimo-Cocoron | 98366 | [98366-rimo-cocoron.json](./98366-rimo-cocoron.json) |
 | RimPark: A Burning World | 345469 | [345469-rimpark-a-burning-world.json](./345469-rimpark-a-burning-world.json) |
 | Rimrunner | 41131 | [41131-rimrunner.json](./41131-rimrunner.json) |
+| Rims Racing | 135668 | [135668-rims-racing.json](./135668-rims-racing.json) |
 | RiMS Racing x WRC 10 | 218414 | [218414-rims-racing-x-wrc-10.json](./218414-rims-racing-x-wrc-10.json) |
 | Rims Racing: Bahrain International Circuit | 174477 | [174477-rims-racing-bahrain-international-circuit.json](./174477-rims-racing-bahrain-international-circuit.json) |
 | Rims Racing: Ultimate Edition | 165880 | [165880-rims-racing-ultimate-edition.json](./165880-rims-racing-ultimate-edition.json) |
