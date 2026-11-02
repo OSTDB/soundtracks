@@ -854,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Revolution Presents: American Idol Encore | 21350 | [21350-karaoke-revolution-presents-american-idol-encore.json](./21350-karaoke-revolution-presents-american-idol-encore.json) |
 | Karaoke Revolution Presents: American Idol Encore 2 | 47432 | [47432-karaoke-revolution-presents-american-idol-encore-2.json](./47432-karaoke-revolution-presents-american-idol-encore-2.json) |
 | Karaoke Revolution Volume 2 | 23552 | [23552-karaoke-revolution-volume-2.json](./23552-karaoke-revolution-volume-2.json) |
+| Karaoke Revolution Volume 3 | 24249 | [24249-karaoke-revolution-volume-3.json](./24249-karaoke-revolution-volume-3.json) |
 | Karaoke Revolution: Glee | 50618 | [50618-karaoke-revolution-glee.json](./50618-karaoke-revolution-glee.json) |
 | Karaoke Revolution: J-POP Best vol.1 | 71469 | [71469-karaoke-revolution-j-pop-best-vol-1.json](./71469-karaoke-revolution-j-pop-best-vol-1.json) |
 | Karaoke Revolution: J-POP Best vol.2 | 73233 | [73233-karaoke-revolution-j-pop-best-vol-2.json](./73233-karaoke-revolution-j-pop-best-vol-2.json) |
@@ -1346,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazoku Keikaku Soshite Mata Kazoku Keikaku o | 237408 | [237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json](./237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json) |
 | Kazoku Minna no Nouryoku Trainer | 327595 | [327595-kazoku-minna-no-nouryoku-trainer.json](./327595-kazoku-minna-no-nouryoku-trainer.json) |
 | Kazoo | 279442 | [279442-kazoo.json](./279442-kazoo.json) |
+| Kazook | 23103 | [23103-kazook.json](./23103-kazook.json) |
 | Kazu Adventures | 252533 | [252533-kazu-adventures.json](./252533-kazu-adventures.json) |
 | Kazu Aether Origins | 295891 | [295891-kazu-aether-origins.json](./295891-kazu-aether-origins.json) |
 | Kazu Corp: The Math Challenge | 107120 | [107120-kazu-corp-the-math-challenge.json](./107120-kazu-corp-the-math-challenge.json) |
@@ -2654,7 +2656,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
