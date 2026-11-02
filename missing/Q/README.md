@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet Christmas | 58236 | [58236-quiet-christmas.json](./58236-quiet-christmas.json) |
 | Quiet City | 82557 | [82557-quiet-city.json](./82557-quiet-city.json) |
 | Quiet Dan | 379335 | [379335-quiet-dan.json](./379335-quiet-dan.json) |
+| Quiet Evidence: A Detective Mystery Case | 402052 | [402052-quiet-evidence-a-detective-mystery-case.json](./402052-quiet-evidence-a-detective-mystery-case.json) |
 | Quiet Express: Cabin 909 | 366348 | [366348-quiet-express-cabin-909.json](./366348-quiet-express-cabin-909.json) |
 | Quiet Farm | 190450 | [190450-quiet-farm.json](./190450-quiet-farm.json) |
 | Quiet Godo | 160058 | [160058-quiet-godo.json](./160058-quiet-godo.json) |
