@@ -2348,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Girl am Nil | 85883 | [85883-farm-girl-am-nil.json](./85883-farm-girl-am-nil.json) |
 | Farm Harbeest | 419609 | [419609-farm-harbeest.json](./419609-farm-harbeest.json) |
 | Farm Harvest | 233380 | [233380-farm-harvest.json](./233380-farm-harvest.json) |
+| Farm Heroes Saga | 86962 | [86962-farm-heroes-saga.json](./86962-farm-heroes-saga.json) |
 | Farm Heroes Super Saga | 101079 | [101079-farm-heroes-super-saga.json](./101079-farm-heroes-super-saga.json) |
 | Farm Idle Game | 371738 | [371738-farm-idle-game.json](./371738-farm-idle-game.json) |
 | Farm in Another World | 236357 | [236357-farm-in-another-world.json](./236357-farm-in-another-world.json) |
@@ -8854,6 +8855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Castle | 26264 | [26264-forbidden-castle.json](./26264-forbidden-castle.json) |
 | Forbidden Castle: Mahjong Tale | 56404 | [56404-forbidden-castle-mahjong-tale.json](./56404-forbidden-castle-mahjong-tale.json) |
 | Forbidden City Journey | 240778 | [240778-forbidden-city-journey.json](./240778-forbidden-city-journey.json) |
+| Forbidden Clicker Party | 83495 | [83495-forbidden-clicker-party.json](./83495-forbidden-clicker-party.json) |
 | Forbidden Compass | 404206 | [404206-forbidden-compass.json](./404206-forbidden-compass.json) |
 | Forbidden Dojo | 239737 | [239737-forbidden-dojo.json](./239737-forbidden-dojo.json) |
 | Forbidden Fantasy | 322641 | [322641-forbidden-fantasy.json](./322641-forbidden-fantasy.json) |
@@ -10029,6 +10031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foto Boy: A New Job | 290932 | [290932-foto-boy-a-new-job.json](./290932-foto-boy-a-new-job.json) |
 | Foto Boy: Flashstar | 343721 | [343721-foto-boy-flashstar.json](./343721-foto-boy-flashstar.json) |
 | Foto Face: The Face Stealer Strikes | 67286 | [67286-foto-face-the-face-stealer-strikes.json](./67286-foto-face-the-face-stealer-strikes.json) |
+| Foto Flash | 81869 | [81869-foto-flash.json](./81869-foto-flash.json) |
 | Foto Frenzy | 78070 | [78070-foto-frenzy.json](./78070-foto-frenzy.json) |
 | Foto Showdown | 47903 | [47903-foto-showdown.json](./47903-foto-showdown.json) |
 | FotoMuseo 3D | 420770 | [420770-fotomuseo-3d.json](./420770-fotomuseo-3d.json) |
@@ -13033,6 +13036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future War Tactics: SOF vs. Alien Invasion - Turn-based Strategy | 348829 | [348829-future-war-tactics-sof-vs-alien-invasion-turn-based-strategy.json](./348829-future-war-tactics-sof-vs-alien-invasion-turn-based-strategy.json) |
 | Future War: Reborn | 78061 | [78061-future-war-reborn.json](./78061-future-war-reborn.json) |
 | Future Wars | 2478 | [2478-future-wars.json](./2478-future-wars.json) |
+| Future Wars | 27892 | [27892-future-wars.json](./27892-future-wars.json) |
 | Future Weapon | 257271 | [257271-future-weapon.json](./257271-future-weapon.json) |
 | Future Zero | 378172 | [378172-future-zero.json](./378172-future-zero.json) |
 | Future? No Thanks! | 358273 | [358273-future-no-thanks.json](./358273-future-no-thanks.json) |
