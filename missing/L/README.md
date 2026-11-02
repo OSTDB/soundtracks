@@ -1443,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Survivor | 89997 | [89997-last-survivor.json](./89997-last-survivor.json) |
 | Last Survivors | 255964 | [255964-last-survivors.json](./255964-last-survivors.json) |
 | Last Tale | 238367 | [238367-last-tale.json](./238367-last-tale.json) |
+| Last Tale | 29129 | [29129-last-tale.json](./29129-last-tale.json) |
 | Last Term | 370870 | [370870-last-term.json](./370870-last-term.json) |
 | Last Term, First Love | 391734 | [391734-last-term-first-love.json](./391734-last-term-first-love.json) |
 | Last Threshold | 192634 | [192634-last-threshold.json](./192634-last-threshold.json) |
@@ -2816,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legions of Steel | 17614 | [17614-legions-of-steel.json](./17614-legions-of-steel.json) |
 | Legions of Tyrandel | 31123 | [31123-legions-of-tyrandel.json](./31123-legions-of-tyrandel.json) |
 | Legions: Overdrive | 72933 | [72933-legions-overdrive.json](./72933-legions-overdrive.json) |
+| Legionwood 2: Rise of the Eternal's Realm | 19146 | [19146-legionwood-2-rise-of-the-eternals-realm.json](./19146-legionwood-2-rise-of-the-eternals-realm.json) |
 | Legionwood: Tale of the Two Swords | 33016 | [33016-legionwood-tale-of-the-two-swords.json](./33016-legionwood-tale-of-the-two-swords.json) |
 | Legitimate Space Corp Simulator LLC | 347291 | [347291-legitimate-space-corp-simulator-llc.json](./347291-legitimate-space-corp-simulator-llc.json) |
 | Legna Tactica | 26666 | [26666-legna-tactica.json](./26666-legna-tactica.json) |
