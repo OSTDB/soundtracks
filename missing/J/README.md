@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jailbirdman | 362356 | [362356-jailbirdman.json](./362356-jailbirdman.json) |
 | Jailbirds | 337052 | [337052-jailbirds.json](./337052-jailbirds.json) |
 | Jailbreak | 81986 | [81986-jailbreak.json](./81986-jailbreak.json) |
+| Jailbreak Craft: Cops and Robbers | 100948 | [100948-jailbreak-craft-cops-and-robbers.json](./100948-jailbreak-craft-cops-and-robbers.json) |
 | Jailbreak Lockdown | 113328 | [113328-jailbreak-lockdown.json](./113328-jailbreak-lockdown.json) |
 | Jailbreak Russia | 104023 | [104023-jailbreak-russia.json](./104023-jailbreak-russia.json) |
 | Jailbreak Simulator | 121482 | [121482-jailbreak-simulator.json](./121482-jailbreak-simulator.json) |
