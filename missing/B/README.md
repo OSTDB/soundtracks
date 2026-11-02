@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Hockey 2005 | 46638 | [46638-backyard-hockey-2005.json](./46638-backyard-hockey-2005.json) |
 | BackYard Hoops | 213336 | [213336-backyard-hoops.json](./213336-backyard-hoops.json) |
 | Backyard Monsters | 159324 | [159324-backyard-monsters.json](./159324-backyard-monsters.json) |
+| Backyard Monsters: Unleashed | 5569 | [5569-backyard-monsters-unleashed.json](./5569-backyard-monsters-unleashed.json) |
 | Backyard NBA Basketball | 93185 | [93185-backyard-nba-basketball.json](./93185-backyard-nba-basketball.json) |
 | Backyard Paintball | 415453 | [415453-backyard-paintball.json](./415453-backyard-paintball.json) |
 | Backyard Parking 3D | 83579 | [83579-backyard-parking-3d.json](./83579-backyard-parking-3d.json) |
@@ -902,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5104,6 +5106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat, Heart, Beat | 322745 | [322745-beat-heart-beat.json](./322745-beat-heart-beat.json) |
 | Beat!: After the Summer - Another Season Episode | 241326 | [241326-beat-after-the-summer-another-season-episode.json](./241326-beat-after-the-summer-another-season-episode.json) |
 | Beat.R. | 72484 | [72484-beat-r.json](./72484-beat-r.json) |
+| Beat.School: DJ Simulator | 125049 | [125049-beat-school-dj-simulator.json](./125049-beat-school-dj-simulator.json) |
 | Beat'n Groovy | 84325 | [84325-beatn-groovy.json](./84325-beatn-groovy.json) |
 | Beatable | 342096 | [342096-beatable.json](./342096-beatable.json) |
 | BeatAim | 126945 | [126945-beataim.json](./126945-beataim.json) |
@@ -9637,6 +9640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlitzKeep Unleashed | 110148 | [110148-blitzkeep-unleashed.json](./110148-blitzkeep-unleashed.json) |
 | Blitzkrieg | 10242 | [10242-blitzkrieg.json](./10242-blitzkrieg.json) |
 | Blitzkrieg | 122201 | [122201-blitzkrieg.json](./122201-blitzkrieg.json) |
+| Blitzkrieg | 15676 | [15676-blitzkrieg.json](./15676-blitzkrieg.json) |
 | Blitzkrieg 2 | 7288 | [7288-blitzkrieg-2.json](./7288-blitzkrieg-2.json) |
 | Blitzkrieg 2 Anthology | 36260 | [36260-blitzkrieg-2-anthology.json](./36260-blitzkrieg-2-anthology.json) |
 | Blitzkrieg 2: Fall of the Reich | 11106 | [11106-blitzkrieg-2-fall-of-the-reich.json](./11106-blitzkrieg-2-fall-of-the-reich.json) |
@@ -10406,6 +10410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Valley | 13410 | [13410-blood-valley.json](./13410-blood-valley.json) |
 | Blood Vessel | 284017 | [284017-blood-vessel.json](./284017-blood-vessel.json) |
 | Blood Void Mass | 146237 | [146237-blood-void-mass.json](./146237-blood-void-mass.json) |
+| Blood Wake | 5754 | [5754-blood-wake.json](./5754-blood-wake.json) |
 | Blood War | 160109 | [160109-blood-war.json](./160109-blood-war.json) |
 | Blood Warrior | 39559 | [39559-blood-warrior.json](./39559-blood-warrior.json) |
 | Blood Waves | 75720 | [75720-blood-waves.json](./75720-blood-waves.json) |
@@ -12243,6 +12248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookworm | 316279 | [316279-bookworm.json](./316279-bookworm.json) |
 | Bookworm | 8325 | [8325-bookworm.json](./8325-bookworm.json) |
 | Bookworm Adventures Deluxe | 353868 | [353868-bookworm-adventures-deluxe.json](./353868-bookworm-adventures-deluxe.json) |
+| Bookworm Adventures Volume 2 | 15714 | [15714-bookworm-adventures-volume-2.json](./15714-bookworm-adventures-volume-2.json) |
 | Bookworm Deluxe | 140996 | [140996-bookworm-deluxe.json](./140996-bookworm-deluxe.json) |
 | Bookworm HD | 354964 | [354964-bookworm-hd.json](./354964-bookworm-hd.json) |
 | Bookworm Wordy Wonder Bundle | 196003 | [196003-bookworm-wordy-wonder-bundle.json](./196003-bookworm-wordy-wonder-bundle.json) |
@@ -12487,6 +12493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border Town | 199466 | [199466-border-town.json](./199466-border-town.json) |
 | Border Town | 272117 | [272117-border-town.json](./272117-border-town.json) |
 | Border Wars | 224091 | [224091-border-wars.json](./224091-border-wars.json) |
+| Border Zone | 15491 | [15491-border-zone.json](./15491-border-zone.json) |
 | Bordercide | 168711 | [168711-bordercide.json](./168711-bordercide.json) |
 | BorderCollie Blaster | 175768 | [175768-bordercollie-blaster.json](./175768-bordercollie-blaster.json) |
 | BorderCollie Game | 393011 | [393011-bordercollie-game.json](./393011-bordercollie-game.json) |
@@ -14405,6 +14412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brian Lara 2007 Pressure Play | 70025 | [70025-brian-lara-2007-pressure-play.json](./70025-brian-lara-2007-pressure-play.json) |
 | Brian Lara Cricket | 94848 | [94848-brian-lara-cricket.json](./94848-brian-lara-cricket.json) |
 | Brian Lara Cricket '96 | 4383 | [4383-brian-lara-cricket-96.json](./4383-brian-lara-cricket-96.json) |
+| Brian Lara International Cricket 2005 | 5757 | [5757-brian-lara-international-cricket-2005.json](./5757-brian-lara-international-cricket-2005.json) |
 | Brian Lara International Cricket 2007 | 6927 | [6927-brian-lara-international-cricket-2007.json](./6927-brian-lara-international-cricket-2007.json) |
 | Brian the Brain | 151606 | [151606-brian-the-brain.json](./151606-brian-the-brain.json) |
 | Brian the Lion | 11979 | [11979-brian-the-lion.json](./11979-brian-the-lion.json) |
@@ -14782,6 +14790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bristle and the Artificial Invasion | 316102 | [316102-bristle-and-the-artificial-invasion.json](./316102-bristle-and-the-artificial-invasion.json) |
 | Bristles | 23863 | [23863-bristles.json](./23863-bristles.json) |
 | Britannia | 190913 | [190913-britannia.json](./190913-britannia.json) |
+| Britannic | 127748 | [127748-britannic.json](./127748-britannic.json) |
 | Britannic: Patroness of the Mediterranean | 135665 | [135665-britannic-patroness-of-the-mediterranean.json](./135665-britannic-patroness-of-the-mediterranean.json) |
 | Britannica Puzzle Potpourri | 24730 | [24730-britannica-puzzle-potpourri.json](./24730-britannica-puzzle-potpourri.json) |
 | Britannica Quiz Show | 24761 | [24761-britannica-quiz-show.json](./24761-britannica-quiz-show.json) |
@@ -15939,6 +15948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build-A-Bearville | 214613 | [214613-build-a-bearville.json](./214613-build-a-bearville.json) |
 | Build-A-Delivery | 257337 | [257337-build-a-delivery.json](./257337-build-a-delivery.json) |
 | Build-a-lot 3: Passport to Europe HD | 175586 | [175586-build-a-lot-3-passport-to-europe-hd.json](./175586-build-a-lot-3-passport-to-europe-hd.json) |
+| Build-A-Lot 4: Power Source | 16089 | [16089-build-a-lot-4-power-source.json](./16089-build-a-lot-4-power-source.json) |
 | Build-a-lot 4: Power Source HD | 99722 | [99722-build-a-lot-4-power-source-hd.json](./99722-build-a-lot-4-power-source-hd.json) |
 | Build-A-Lot: Fairy Tales | 62821 | [62821-build-a-lot-fairy-tales.json](./62821-build-a-lot-fairy-tales.json) |
 | Build-A-Lot: Mysteries | 62820 | [62820-build-a-lot-mysteries.json](./62820-build-a-lot-mysteries.json) |
@@ -16123,6 +16133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Sorceress: Shooting Action Carnage | 146865 | [146865-bullet-sorceress-shooting-action-carnage.json](./146865-bullet-sorceress-shooting-action-carnage.json) |
 | Bullet Sorrow VR | 28172 | [28172-bullet-sorrow-vr.json](./28172-bullet-sorrow-vr.json) |
 | Bullet Soul | 27677 | [27677-bullet-soul.json](./27677-bullet-soul.json) |
+| Bullet Soul Infinite Burst | 5645 | [5645-bullet-soul-infinite-burst.json](./5645-bullet-soul-infinite-burst.json) |
 | Bullet Soul: Tama Tamashii | 43952 | [43952-bullet-soul-tama-tamashii.json](./43952-bullet-soul-tama-tamashii.json) |
 | Bullet Speed | 291227 | [291227-bullet-speed.json](./291227-bullet-speed.json) |
 | Bullet Strike: Battlegrounds | 70910 | [70910-bullet-strike-battlegrounds.json](./70910-bullet-strike-battlegrounds.json) |
