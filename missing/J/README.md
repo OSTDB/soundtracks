@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jarheads | 55510 | [55510-jarheads.json](./55510-jarheads.json) |
 | Jarinko Chie | 346029 | [346029-jarinko-chie.json](./346029-jarinko-chie.json) |
 | Jarinko Chie: Bakudan Musume no Shiawase Sagashi | 48453 | [48453-jarinko-chie-bakudan-musume-no-shiawase-sagashi.json](./48453-jarinko-chie-bakudan-musume-no-shiawase-sagashi.json) |
+| Jarkeeper | 425200 | [425200-jarkeeper.json](./425200-jarkeeper.json) |
 | Jarnasmal | 405569 | [405569-jarnasmal.json](./405569-jarnasmal.json) |
 | Jaro Adventures | 305927 | [305927-jaro-adventures.json](./305927-jaro-adventures.json) |
 | Jaro TCG | 339874 | [339874-jaro-tcg.json](./339874-jaro-tcg.json) |
