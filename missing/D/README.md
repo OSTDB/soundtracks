@@ -4694,6 +4694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decisive Strike | 199812 | [199812-decisive-strike.json](./199812-decisive-strike.json) |
 | Deck 'Em! | 236650 | [236650-deck-em.json](./236650-deck-em.json) |
 | Deck & Conn | 361654 | [361654-deck-and-conn.json](./361654-deck-and-conn.json) |
+| Deck & Defense | 424637 | [424637-deck-and-defense.json](./424637-deck-and-defense.json) |
 | Deck Adventure | 372254 | [372254-deck-adventure.json](./372254-deck-adventure.json) |
 | Deck Adventurers II | 199570 | [199570-deck-adventurers-ii.json](./199570-deck-adventurers-ii.json) |
 | Deck Beasts | 418622 | [418622-deck-beasts.json](./418622-deck-beasts.json) |
@@ -5728,6 +5729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Up | 361168 | [361168-delivery-up.json](./361168-delivery-up.json) |
 | DeliveryGuy | 177793 | [177793-deliveryguy.json](./177793-deliveryguy.json) |
 | Delivoo Delivery Sim | 236330 | [236330-delivoo-delivery-sim.json](./236330-delivoo-delivery-sim.json) |
+| Deliwhere? | 424617 | [424617-deliwhere.json](./424617-deliwhere.json) |
 | Delores: A Thimbleweed Park Mini-Adventure | 134408 | [134408-delores-a-thimbleweed-park-mini-adventure.json](./134408-delores-a-thimbleweed-park-mini-adventure.json) |
 | Delos: Space Traffic Control | 339299 | [339299-delos-space-traffic-control.json](./339299-delos-space-traffic-control.json) |
 | Delphine's Discovery | 177360 | [177360-delphines-discovery.json](./177360-delphines-discovery.json) |
@@ -14359,6 +14361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Chronicles: Ankoku Daimaou to Hokuto no Tsurugi | 362167 | [362167-dragons-chronicles-ankoku-daimaou-to-hokuto-no-tsurugi.json](./362167-dragons-chronicles-ankoku-daimaou-to-hokuto-no-tsurugi.json) |
 | Dragon's Crown | 3002 | [3002-dragons-crown.json](./3002-dragons-crown.json) |
 | Dragon's Crown Pro | 68283 | [68283-dragons-crown-pro.json](./68283-dragons-crown-pro.json) |
+| Dragon's Crown Pro PC | 424613 | [424613-dragons-crown-pro-pc.json](./424613-dragons-crown-pro-pc.json) |
 | Dragon's Crown Pro: Battle-Hardened Edition | 121206 | [121206-dragons-crown-pro-battle-hardened-edition.json](./121206-dragons-crown-pro-battle-hardened-edition.json) |
 | Dragon's Crown Pro: Royal Package | 167136 | [167136-dragons-crown-pro-royal-package.json](./167136-dragons-crown-pro-royal-package.json) |
 | Dragon's Curse | 210526 | [210526-dragons-curse.json](./210526-dragons-curse.json) |
@@ -16752,6 +16755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumpster Baby | 350493 | [350493-dumpster-baby.json](./350493-dumpster-baby.json) |
 | Dumpster Dive Live | 396595 | [396595-dumpster-dive-live.json](./396595-dumpster-dive-live.json) |
 | Dumpster Divers | 366903 | [366903-dumpster-divers.json](./366903-dumpster-divers.json) |
+| Dumpster Diving Simulator | 424639 | [424639-dumpster-diving-simulator.json](./424639-dumpster-diving-simulator.json) |
 | Dumpster Gang | 415120 | [415120-dumpster-gang.json](./415120-dumpster-gang.json) |
 | Dumpy: Going Elephants! | 229806 | [229806-dumpy-going-elephants.json](./229806-dumpy-going-elephants.json) |
 | Dùn | 367443 | [367443-dun.json](./367443-dun.json) |
