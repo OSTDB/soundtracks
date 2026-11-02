@@ -5017,6 +5017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Twump Tower | 179492 | [179492-escape-from-twump-tower.json](./179492-escape-from-twump-tower.json) |
 | Escape from Vacov | 412993 | [412993-escape-from-vacov.json](./412993-escape-from-vacov.json) |
 | Escape From Vampire Castle: Miss Luna's Diary | 345397 | [345397-escape-from-vampire-castle-miss-lunas-diary.json](./345397-escape-from-vampire-castle-miss-lunas-diary.json) |
+| Escape From Vlogger: Runaway | 405798 | [405798-escape-from-vlogger-runaway.json](./405798-escape-from-vlogger-runaway.json) |
 | Escape from Voyna | 96738 | [96738-escape-from-voyna.json](./96738-escape-from-voyna.json) |
 | Escape from Voyna: Aliens from Area 51 | 130191 | [130191-escape-from-voyna-aliens-from-area-51.json](./130191-escape-from-voyna-aliens-from-area-51.json) |
 | Escape From Voyna: Dead Forest | 113754 | [113754-escape-from-voyna-dead-forest.json](./113754-escape-from-voyna-dead-forest.json) |
