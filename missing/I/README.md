@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iblard: Laputa no Kaeru Machi | 111995 | [111995-iblard-laputa-no-kaeru-machi.json](./111995-iblard-laputa-no-kaeru-machi.json) |
 | iBlast Moki | 23256 | [23256-iblast-moki.json](./23256-iblast-moki.json) |
 | iBlast Moki 2 HD | 174235 | [174235-iblast-moki-2-hd.json](./174235-iblast-moki-2-hd.json) |
+| Iblis | 145861 | [145861-iblis.json](./145861-iblis.json) |
 | Iblis | 344578 | [344578-iblis.json](./344578-iblis.json) |
 | Iblis2: Sorcery | 226703 | [226703-iblis2-sorcery.json](./226703-iblis2-sorcery.json) |
 | Iblis3: Phenomena | 372013 | [372013-iblis3-phenomena.json](./372013-iblis3-phenomena.json) |
