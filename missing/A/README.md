@@ -11072,6 +11072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apprentice Knight-Iona | 132667 | [132667-apprentice-knight-iona.json](./132667-apprentice-knight-iona.json) |
 | Approach Trainer | 14261 | [14261-approach-trainer.json](./14261-approach-trainer.json) |
 | Approaches | 185093 | [185093-approaches.json](./185093-approaches.json) |
+| Approaching Blocks | 32764 | [32764-approaching-blocks.json](./32764-approaching-blocks.json) |
 | Approaching Cao Army | 254773 | [254773-approaching-cao-army.json](./254773-approaching-cao-army.json) |
 | Approaching Infinity | 59586 | [59586-approaching-infinity.json](./59586-approaching-infinity.json) |
 | Approval | 212597 | [212597-approval.json](./212597-approval.json) |
@@ -13227,6 +13228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Defense 2 | 83278 | [83278-army-defense-2.json](./83278-army-defense-2.json) |
 | Army Defense 3 | 83279 | [83279-army-defense-3.json](./83279-army-defense-3.json) |
 | Army Driver | 204087 | [204087-army-driver.json](./204087-army-driver.json) |
+| Army Gals | 34023 | [34023-army-gals.json](./34023-army-gals.json) |
 | Army Gals: The Poker Game | 171582 | [171582-army-gals-the-poker-game.json](./171582-army-gals-the-poker-game.json) |
 | Army Men | 26819 | [26819-army-men.json](./26819-army-men.json) |
 | Army Men 3D | 22833 | [22833-army-men-3d.json](./22833-army-men-3d.json) |
@@ -14720,6 +14722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterook | 129654 | [129654-asterook.json](./129654-asterook.json) |
 | Asteros | 304681 | [304681-asteros.json](./304681-asteros.json) |
 | Asterrunner | 149721 | [149721-asterrunner.json](./149721-asterrunner.json) |
+| Astervoid 2000 | 33948 | [33948-astervoid-2000.json](./33948-astervoid-2000.json) |
 | Asterz | 343141 | [343141-asterz.json](./343141-asterz.json) |
 | Asthenia | 381637 | [381637-asthenia.json](./381637-asthenia.json) |
 | Astlan | 184270 | [184270-astlan.json](./184270-astlan.json) |
@@ -15566,6 +15569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
 | Atlantic Edge | 107935 | [107935-atlantic-edge.json](./107935-atlantic-edge.json) |
+| Atlantic Fleet | 34012 | [34012-atlantic-fleet.json](./34012-atlantic-fleet.json) |
 | Atlantic Journey: The Lost Brother | 175797 | [175797-atlantic-journey-the-lost-brother.json](./175797-atlantic-journey-the-lost-brother.json) |
 | Atlantic Quest | 85504 | [85504-atlantic-quest.json](./85504-atlantic-quest.json) |
 | Atlantic Quest Solitaire | 35023 | [35023-atlantic-quest-solitaire.json](./35023-atlantic-quest-solitaire.json) |
@@ -16321,6 +16325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automata 10 Pack Volume 2 | 258188 | [258188-automata-10-pack-volume-2.json](./258188-automata-10-pack-volume-2.json) |
 | Automata Break | 139455 | [139455-automata-break.json](./139455-automata-break.json) |
 | Automata Ecosystem: Cellular Automata Simulation | 202527 | [202527-automata-ecosystem-cellular-automata-simulation.json](./202527-automata-ecosystem-cellular-automata-simulation.json) |
+| Automata Empire | 33947 | [33947-automata-empire.json](./33947-automata-empire.json) |
 | Automata Streetcar | 303903 | [303903-automata-streetcar.json](./303903-automata-streetcar.json) |
 | Automate Defend Repeat | 258069 | [258069-automate-defend-repeat.json](./258069-automate-defend-repeat.json) |
 | Automate It | 295288 | [295288-automate-it.json](./295288-automate-it.json) |
@@ -16513,6 +16518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avarice | 383169 | [383169-avarice.json](./383169-avarice.json) |
 | Avaricity: New Shadows | 303059 | [303059-avaricity-new-shadows.json](./303059-avaricity-new-shadows.json) |
 | Avaris | 377821 | [377821-avaris.json](./377821-avaris.json) |
+| Avaris 2 | 33986 | [33986-avaris-2.json](./33986-avaris-2.json) |
 | Avaris 2 | 377822 | [377822-avaris-2.json](./377822-avaris-2.json) |
 | Avaris3 | 271104 | [271104-avaris3.json](./271104-avaris3.json) |
 | Avaritia | 232635 | [232635-avaritia.json](./232635-avaritia.json) |
