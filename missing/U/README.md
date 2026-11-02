@@ -1008,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UMA-War VR | 30175 | [30175-uma-war-vr.json](./30175-uma-war-vr.json) |
 | Umadle | 369045 | [369045-umadle.json](./369045-umadle.json) |
 | Umami | 345582 | [345582-umami.json](./345582-umami.json) |
+| Umami Grove | 152645 | [152645-umami-grove.json](./152645-umami-grove.json) |
 | Umami Island | 214503 | [214503-umami-island.json](./214503-umami-island.json) |
 | Umami Island | 377201 | [377201-umami-island.json](./377201-umami-island.json) |
 | Umamusume Delish Derby | 360111 | [360111-umamusume-delish-derby.json](./360111-umamusume-delish-derby.json) |
@@ -1666,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Dungeon | 192418 | [192418-underground-dungeon.json](./192418-underground-dungeon.json) |
 | Underground Ernie: International Fun Station | 328423 | [328423-underground-ernie-international-fun-station.json](./328423-underground-ernie-international-fun-station.json) |
 | Underground Fortress | 308360 | [308360-underground-fortress.json](./308360-underground-fortress.json) |
+| Underground Garage | 156087 | [156087-underground-garage.json](./156087-underground-garage.json) |
 | Underground Gnome | 264986 | [264986-underground-gnome.json](./264986-underground-gnome.json) |
 | Underground Hangovers | 146470 | [146470-underground-hangovers.json](./146470-underground-hangovers.json) |
 | Underground Keeper II | 171732 | [171732-underground-keeper-ii.json](./171732-underground-keeper-ii.json) |
@@ -2499,6 +2501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unpleasant Horse | 66005 | [66005-unpleasant-horse.json](./66005-unpleasant-horse.json) |
 | Unplug | 249205 | [249205-unplug.json](./249205-unplug.json) |
 | Unplug: The Game | 224958 | [224958-unplug-the-game.json](./224958-unplug-the-game.json) |
+| Unplugged | 153854 | [153854-unplugged.json](./153854-unplugged.json) |
 | Unplugged | 322446 | [322446-unplugged.json](./322446-unplugged.json) |
 | Unpossess | 302429 | [302429-unpossess.json](./302429-unpossess.json) |
 | Unpossess 2 | 405731 | [405731-unpossess-2.json](./405731-unpossess-2.json) |
