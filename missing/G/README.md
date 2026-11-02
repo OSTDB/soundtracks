@@ -2693,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generic Kart Racing | 216424 | [216424-generic-kart-racing.json](./216424-generic-kart-racing.json) |
 | Generic nonbinary game | 176926 | [176926-generic-nonbinary-game.json](./176926-generic-nonbinary-game.json) |
 | Generic RPG Idle | 189316 | [189316-generic-rpg-idle.json](./189316-generic-rpg-idle.json) |
+| Generic Space Shooter | 35369 | [35369-generic-space-shooter.json](./35369-generic-space-shooter.json) |
 | Genesia Legacy: Ultimate Domain | 29493 | [29493-genesia-legacy-ultimate-domain.json](./29493-genesia-legacy-ultimate-domain.json) |
 | Genesis | 112652 | [112652-genesis.json](./112652-genesis.json) |
 | Genesis | 115984 | [115984-genesis.json](./115984-genesis.json) |
@@ -5064,6 +5065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GNU Sudoku 64 | 264098 | [264098-gnu-sudoku-64.json](./264098-gnu-sudoku-64.json) |
 | Gnubbl | 370720 | [370720-gnubbl.json](./370720-gnubbl.json) |
 | Gnumz: Arcane Power | 103877 | [103877-gnumz-arcane-power.json](./103877-gnumz-arcane-power.json) |
+| Gnumz: Masters of Defense | 35225 | [35225-gnumz-masters-of-defense.json](./35225-gnumz-masters-of-defense.json) |
 | Gnyaz | 366977 | [366977-gnyaz.json](./366977-gnyaz.json) |
 | Go | 13722 | [13722-go.json](./13722-go.json) |
 | Go | 218000 | [218000-go.json](./218000-go.json) |
@@ -8573,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid:Locked | 185956 | [185956-grid-locked.json](./185956-grid-locked.json) |
 | Grid16 | 270637 | [270637-grid16.json](./270637-grid16.json) |
 | GridBeat! | 366584 | [366584-gridbeat.json](./366584-gridbeat.json) |
+| Gridberd | 35212 | [35212-gridberd.json](./35212-gridberd.json) |
 | Gridblocked | 204719 | [204719-gridblocked.json](./204719-gridblocked.json) |
 | Gridbound Tactics | 405892 | [405892-gridbound-tactics.json](./405892-gridbound-tactics.json) |
 | Gridbug | 67680 | [67680-gridbug.json](./67680-gridbug.json) |
@@ -10467,6 +10470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslinger: Zombie Survival 2019 | 233396 | [233396-gunslinger-zombie-survival-2019.json](./233396-gunslinger-zombie-survival-2019.json) |
 | Gunslingers | 34097 | [34097-gunslingers.json](./34097-gunslingers.json) |
 | Gunslingers of the Wasteland vs. The Zombies from Mars | 170503 | [170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json](./170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json) |
+| Gunslugs | 35187 | [35187-gunslugs.json](./35187-gunslugs.json) |
 | Gunslugs 2 | 35977 | [35977-gunslugs-2.json](./35977-gunslugs-2.json) |
 | Gunslugs: Rogue Tactics | 114017 | [114017-gunslugs-rogue-tactics.json](./114017-gunslugs-rogue-tactics.json) |
 | Gunsmith | 355085 | [355085-gunsmith.json](./355085-gunsmith.json) |
