@@ -10756,6 +10756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hue Factory | 403067 | [403067-hue-factory.json](./403067-hue-factory.json) |
 | Hue Hooligans | 323856 | [323856-hue-hooligans.json](./323856-hue-hooligans.json) |
 | Hue Hop | 311642 | [311642-hue-hop.json](./311642-hue-hop.json) |
+| Hue Sniper | 402062 | [402062-hue-sniper.json](./402062-hue-sniper.json) |
 | Hue, Pulse | 334312 | [334312-hue-pulse.json](./334312-hue-pulse.json) |
 | Hue^2 | 174245 | [174245-hue-2.json](./174245-hue-2.json) |
 | Huebi's Adventure | 394339 | [394339-huebis-adventure.json](./394339-huebis-adventure.json) |
