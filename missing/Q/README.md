@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QBeez 2 | 304318 | [304318-qbeez-2.json](./304318-qbeez-2.json) |
 | Qbeh-1: The Atlas Cube | 10746 | [10746-qbeh-1-the-atlas-cube.json](./10746-qbeh-1-the-atlas-cube.json) |
 | Qbics Paint | 36755 | [36755-qbics-paint.json](./36755-qbics-paint.json) |
+| Qbik | 75761 | [75761-qbik.json](./75761-qbik.json) |
 | Qbike | 28869 | [28869-qbike.json](./28869-qbike.json) |
 | Qbike: Crypto Motorcycles | 68760 | [68760-qbike-crypto-motorcycles.json](./68760-qbike-crypto-motorcycles.json) |
 | Qbike: Cyberpunk Motorcycles | 112043 | [112043-qbike-cyberpunk-motorcycles.json](./112043-qbike-cyberpunk-motorcycles.json) |
