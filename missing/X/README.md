@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Booster | 137950 | [137950-x-booster.json](./137950-x-booster.json) |
 | X-Bundle: Windows and Xbox games bundle | 331507 | [331507-x-bundle-windows-and-xbox-games-bundle.json](./331507-x-bundle-windows-and-xbox-games-bundle.json) |
 | X-Car Stunts | 102156 | [102156-x-car-stunts.json](./102156-x-car-stunts.json) |
+| X-Clash | 409603 | [409603-x-clash.json](./409603-x-clash.json) |
 | X-COM Alliance | 85869 | [85869-x-com-alliance.json](./85869-x-com-alliance.json) |
 | X-COM Collection | 21224 | [21224-x-com-collection.json](./21224-x-com-collection.json) |
 | X-COM: Apocalypse | 26 | [26-x-com-apocalypse.json](./26-x-com-apocalypse.json) |
@@ -606,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenociders | 126240 | [126240-xenociders.json](./126240-xenociders.json) |
 | Xenocite Clad | 64694 | [64694-xenocite-clad.json](./64694-xenocite-clad.json) |
 | Xenocrystal TD | 312525 | [312525-xenocrystal-td.json](./312525-xenocrystal-td.json) |
+| XenoFeels | 404624 | [404624-xenofeels.json](./404624-xenofeels.json) |
 | XenoFeud | 235488 | [235488-xenofeud.json](./235488-xenofeud.json) |
 | Xenogen | 381675 | [381675-xenogen.json](./381675-xenogen.json) |
 | XenoGrove | 113555 | [113555-xenogrove.json](./113555-xenogrove.json) |
@@ -954,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xtreme Sports | 49869 | [49869-xtreme-sports.json](./49869-xtreme-sports.json) |
 | Xtreme Sports Arcade: Summer Edition | 205808 | [205808-xtreme-sports-arcade-summer-edition.json](./205808-xtreme-sports-arcade-summer-edition.json) |
 | Xtreme Sports Bundle 2 in 1 | 378839 | [378839-xtreme-sports-bundle-2-in-1.json](./378839-xtreme-sports-bundle-2-in-1.json) |
+| Xtreme Traffic Racing | 409310 | [409310-xtreme-traffic-racing.json](./409310-xtreme-traffic-racing.json) |
 | Xtreme Typing | 150660 | [150660-xtreme-typing.json](./150660-xtreme-typing.json) |
 | Xtremes vs Zombies | 426457 | [426457-xtremes-vs-zombies.json](./426457-xtremes-vs-zombies.json) |
 | Xtris | 330842 | [330842-xtris.json](./330842-xtris.json) |
@@ -980,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xuece Border | 112990 | [112990-xuece-border.json](./112990-xuece-border.json) |
 | XueFeng Mountain: Secret Opera | 197539 | [197539-xuefeng-mountain-secret-opera.json](./197539-xuefeng-mountain-secret-opera.json) |
 | Xuěgāo Māo | 157914 | [157914-xuegao-mao.json](./157914-xuegao-mao.json) |
+| Xuèzhàn Shāchéng: Wángzhě Guīlái | 410638 | [410638-xuezhan-shacheng-wangzhe-guilai.json](./410638-xuezhan-shacheng-wangzhe-guilai.json) |
 | Xuhivan's Autonomous Cube | 216479 | [216479-xuhivans-autonomous-cube.json](./216479-xuhivans-autonomous-cube.json) |
 | Xulaph Kaizo World | 267926 | [267926-xulaph-kaizo-world.json](./267926-xulaph-kaizo-world.json) |
 | Xump 2: Back to Space | 311040 | [311040-xump-2-back-to-space.json](./311040-xump-2-back-to-space.json) |
