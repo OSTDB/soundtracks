@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vesperia Bononia | 332268 | [332268-vesperia-bononia.json](./332268-vesperia-bononia.json) |
 | Vesperis | 391754 | [391754-vesperis.json](./391754-vesperis.json) |
 | Vespia: Shield of Aberration | 333119 | [333119-vespia-shield-of-aberration.json](./333119-vespia-shield-of-aberration.json) |
+| Vespillo | 415350 | [415350-vespillo.json](./415350-vespillo.json) |
 | Vessel | 364709 | [364709-vessel.json](./364709-vessel.json) |
 | Vessel | 8382 | [8382-vessel.json](./8382-vessel.json) |
 | Vessel Blue | 238638 | [238638-vessel-blue.json](./238638-vessel-blue.json) |
@@ -3144,6 +3145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Strife | 244209 | [244209-void-strife.json](./244209-void-strife.json) |
 | Void Surfer | 157096 | [157096-void-surfer.json](./157096-void-surfer.json) |
 | Void Survivors | 260525 | [260525-void-survivors.json](./260525-void-survivors.json) |
+| Void Swarm | 416511 | [416511-void-swarm.json](./416511-void-swarm.json) |
 | Void Tech | 346535 | [346535-void-tech.json](./346535-void-tech.json) |
 | Void Terrarium | 122721 | [122721-void-terrarium.json](./122721-void-terrarium.json) |
 | Void Terrarium 2: Deluxe Edition | 216585 | [216585-void-terrarium-2-deluxe-edition.json](./216585-void-terrarium-2-deluxe-edition.json) |
