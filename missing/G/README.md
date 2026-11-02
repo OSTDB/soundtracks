@@ -6698,6 +6698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Google Feudle | 227214 | [227214-google-feudle.json](./227214-google-feudle.json) |
 | Google Maps Snake | 264979 | [264979-google-maps-snake.json](./264979-google-maps-snake.json) |
 | Google Maps: Pokémon Challenge | 239127 | [239127-google-maps-pokemon-challenge.json](./239127-google-maps-pokemon-challenge.json) |
+| Google Minecraft | 411609 | [411609-google-minecraft.json](./411609-google-minecraft.json) |
 | Google Minesweeper | 184478 | [184478-google-minesweeper.json](./184478-google-minesweeper.json) |
 | Google Santa Tracker | 229336 | [229336-google-santa-tracker.json](./229336-google-santa-tracker.json) |
 | Google Solitaire | 228368 | [228368-google-solitaire.json](./228368-google-solitaire.json) |
