@@ -1799,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2K1X Subzero Heroes | 304215 | [304215-2k1x-subzero-heroes.json](./304215-2k1x-subzero-heroes.json) |
 | 2K20 Cuba | 203627 | [203627-2k20-cuba.json](./203627-2k20-cuba.json) |
 | 2Kxx | 358078 | [358078-2kxx.json](./358078-2kxx.json) |
+| 2MD VR Football | 68572 | [68572-2md-vr-football.json](./68572-2md-vr-football.json) |
 | 2MD: VR Football Evolution | 160137 | [160137-2md-vr-football-evolution.json](./160137-2md-vr-football-evolution.json) |
 | 2MD: VR Football Unleashed | 174552 | [174552-2md-vr-football-unleashed.json](./174552-2md-vr-football-unleashed.json) |
 | 2MD: VR Football Unleashed All Star | 216445 | [216445-2md-vr-football-unleashed-all-star.json](./216445-2md-vr-football-unleashed-all-star.json) |
