@@ -6829,6 +6829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Racing | 43931 | [43931-all-star-racing.json](./43931-all-star-racing.json) |
 | All Star Racing 2 | 43930 | [43930-all-star-racing-2.json](./43930-all-star-racing-2.json) |
 | All Star Soccer | 81432 | [81432-all-star-soccer.json](./81432-all-star-soccer.json) |
+| All Star Tennis '99 | 3436 | [3436-all-star-tennis-99.json](./3436-all-star-tennis-99.json) |
 | All Star Tennis 2000 | 249157 | [249157-all-star-tennis-2000.json](./249157-all-star-tennis-2000.json) |
 | All Star Tennis 2000 | 49880 | [49880-all-star-tennis-2000.json](./49880-all-star-tennis-2000.json) |
 | All Stars Racing Jumper | 252934 | [252934-all-stars-racing-jumper.json](./252934-all-stars-racing-jumper.json) |
@@ -10553,6 +10554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apache Flight | 14166 | [14166-apache-flight.json](./14166-apache-flight.json) |
 | Apache Overkill | 42782 | [42782-apache-overkill.json](./42782-apache-overkill.json) |
 | Apache Strike | 137662 | [137662-apache-strike.json](./137662-apache-strike.json) |
+| Apache: Air Assault | 3233 | [3233-apache-air-assault.json](./3233-apache-air-assault.json) |
 | Apacies: Creatures of the Old West | 271662 | [271662-apacies-creatures-of-the-old-west.json](./271662-apacies-creatures-of-the-old-west.json) |
 | Apano Sin | 14259 | [14259-apano-sin.json](./14259-apano-sin.json) |
 | Apano Syn Fighter | 304571 | [304571-apano-syn-fighter.json](./304571-apano-syn-fighter.json) |
@@ -16206,6 +16208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automatum | 105302 | [105302-automatum.json](./105302-automatum.json) |
 | Automobile Tycoon | 43078 | [43078-automobile-tycoon.json](./43078-automobile-tycoon.json) |
 | Automobiles and the Eisenhower Hiway System the Game | 111070 | [111070-automobiles-and-the-eisenhower-hiway-system-the-game.json](./111070-automobiles-and-the-eisenhower-hiway-system-the-game.json) |
+| Automobili Lamborghini | 3442 | [3442-automobili-lamborghini.json](./3442-automobili-lamborghini.json) |
 | Automobili Lamborghini: Recompiled | 414349 | [414349-automobili-lamborghini-recompiled.json](./414349-automobili-lamborghini-recompiled.json) |
 | Automobilista | 19442 | [19442-automobilista.json](./19442-automobilista.json) |
 | Automobilista 2 | 119811 | [119811-automobilista-2.json](./119811-automobilista-2.json) |
