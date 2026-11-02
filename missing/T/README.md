@@ -10672,6 +10672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journey: Bob's Story | 18186 | [18186-the-journey-bobs-story.json](./18186-the-journey-bobs-story.json) |
 | The Journey: Episode 1 - Whatever This Is | 169299 | [169299-the-journey-episode-1-whatever-this-is.json](./169299-the-journey-episode-1-whatever-this-is.json) |
 | The Journeyman Project | 9517 | [9517-the-journeyman-project.json](./9517-the-journeyman-project.json) |
+| The Journeyman Project 1: Pegasus Prime | 35479 | [35479-the-journeyman-project-1-pegasus-prime.json](./35479-the-journeyman-project-1-pegasus-prime.json) |
 | The Journeyman Project 2: Buried in Time | 12436 | [12436-the-journeyman-project-2-buried-in-time.json](./12436-the-journeyman-project-2-buried-in-time.json) |
 | The Journeyman Project: Pegasus Prime | 210007 | [210007-the-journeyman-project-pegasus-prime.json](./210007-the-journeyman-project-pegasus-prime.json) |
 | The Journeyman Project: Pegasus Prime | 47079 | [47079-the-journeyman-project-pegasus-prime.json](./47079-the-journeyman-project-pegasus-prime.json) |
@@ -16059,6 +16060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Storm Guard: Darkness is Coming | 23174 | [23174-the-storm-guard-darkness-is-coming.json](./23174-the-storm-guard-darkness-is-coming.json) |
 | The Stormy Islands | 267793 | [267793-the-stormy-islands.json](./267793-the-stormy-islands.json) |
 | The Story For Snow Moon | 97830 | [97830-the-story-for-snow-moon.json](./97830-the-story-for-snow-moon.json) |
+| The Story Goes On | 35268 | [35268-the-story-goes-on.json](./35268-the-story-goes-on.json) |
 | The Story Goes On Chapter 1 | 337688 | [337688-the-story-goes-on-chapter-1.json](./337688-the-story-goes-on-chapter-1.json) |
 | The Story Goes On Chapter 2 | 337689 | [337689-the-story-goes-on-chapter-2.json](./337689-the-story-goes-on-chapter-2.json) |
 | The Story Goes On Chapter 3 | 337690 | [337690-the-story-goes-on-chapter-3.json](./337690-the-story-goes-on-chapter-3.json) |
@@ -22667,6 +22669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobal 2 | 1662 | [1662-tobal-2.json](./1662-tobal-2.json) |
 | Tobari 2: Dream Ocean | 135815 | [135815-tobari-2-dream-ocean.json](./135815-tobari-2-dream-ocean.json) |
 | Tobari 2: Nightmare | 154883 | [154883-tobari-2-nightmare.json](./154883-tobari-2-nightmare.json) |
+| Tobari and the Night of the Curious Moon | 35325 | [35325-tobari-and-the-night-of-the-curious-moon.json](./35325-tobari-and-the-night-of-the-curious-moon.json) |
 | Tobari and the Vampire Alchemist | 398568 | [398568-tobari-and-the-vampire-alchemist.json](./398568-tobari-and-the-vampire-alchemist.json) |
 | Tobari Dream Ocean + Nightmare | 276950 | [276950-tobari-dream-ocean-nightmare.json](./276950-tobari-dream-ocean-nightmare.json) |
 | Tobari Dream Ocean: Nightmare | 277229 | [277229-tobari-dream-ocean-nightmare.json](./277229-tobari-dream-ocean-nightmare.json) |
@@ -27754,6 +27757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transcend | 74857 | [74857-transcend.json](./74857-transcend.json) |
 | Transcend | 94916 | [94916-transcend.json](./94916-transcend.json) |
 | Transcendence | 226894 | [226894-transcendence.json](./226894-transcendence.json) |
+| Transcendence | 35408 | [35408-transcendence.json](./35408-transcendence.json) |
 | Transcendence in the Poolrooms | 401031 | [401031-transcendence-in-the-poolrooms.json](./401031-transcendence-in-the-poolrooms.json) |
 | Transcender | 140484 | [140484-transcender.json](./140484-transcender.json) |
 | Transcender Starship | 118767 | [118767-transcender-starship.json](./118767-transcender-starship.json) |
