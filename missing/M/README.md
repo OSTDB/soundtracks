@@ -4568,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masha and the Bear: Dentist | 227487 | [227487-masha-and-the-bear-dentist.json](./227487-masha-and-the-bear-dentist.json) |
 | Masha Rescues Grandma | 30325 | [30325-masha-rescues-grandma.json](./30325-masha-rescues-grandma.json) |
 | Mashed: Drive to Survive | 5816 | [5816-mashed-drive-to-survive.json](./5816-mashed-drive-to-survive.json) |
+| Mashed: Fully Loaded | 22307 | [22307-mashed-fully-loaded.json](./22307-mashed-fully-loaded.json) |
 | Mashin Eiyuuden Wataru | 280846 | [280846-mashin-eiyuuden-wataru.json](./280846-mashin-eiyuuden-wataru.json) |
 | Mashin Eiyuuden Wataru 2: Gekisen! Ryuusei-maru vs. Kokuryuukaku | 284457 | [284457-mashin-eiyuuden-wataru-2-gekisen-ryuusei-maru-vs-kokuryuukaku.json](./284457-mashin-eiyuuden-wataru-2-gekisen-ryuusei-maru-vs-kokuryuukaku.json) |
 | Mashin Eiyuuden Wataru 2: Seikaizan Pinball! | 284452 | [284452-mashin-eiyuuden-wataru-2-seikaizan-pinball.json](./284452-mashin-eiyuuden-wataru-2-seikaizan-pinball.json) |
@@ -16804,6 +16805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Climb Driver | 253225 | [253225-mountain-climb-driver.json](./253225-mountain-climb-driver.json) |
 | Mountain Climb: Stunt | 175024 | [175024-mountain-climb-stunt.json](./175024-mountain-climb-stunt.json) |
 | Mountain Crime: Requital | 34640 | [34640-mountain-crime-requital.json](./34640-mountain-crime-requital.json) |
+| Mountain Goat Mountain | 22447 | [22447-mountain-goat-mountain.json](./22447-mountain-goat-mountain.json) |
 | Mountain King | 12315 | [12315-mountain-king.json](./12315-mountain-king.json) |
 | Mountain King Return | 288662 | [288662-mountain-king-return.json](./288662-mountain-king-return.json) |
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
