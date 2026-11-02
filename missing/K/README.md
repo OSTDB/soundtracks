@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kapsyljakt med Anki & Pytte | 225648 | [225648-kapsyljakt-med-anki-and-pytte.json](./225648-kapsyljakt-med-anki-and-pytte.json) |
 | Käpt'n Blaubär: Bannig auf Zack | 98216 | [98216-kaptn-blaubar-bannig-auf-zack.json](./98216-kaptn-blaubar-bannig-auf-zack.json) |
 | Käpt'n Blaubär: Die Verrückte Schatzsuche | 86070 | [86070-kaptn-blaubar-die-verruckte-schatzsuche.json](./86070-kaptn-blaubar-die-verruckte-schatzsuche.json) |
+| Kaptain Brawe: A Brawe New World | 10480 | [10480-kaptain-brawe-a-brawe-new-world.json](./10480-kaptain-brawe-a-brawe-new-world.json) |
 | Kaptajn Kaper | 112044 | [112044-kaptajn-kaper.json](./112044-kaptajn-kaper.json) |
 | Kaputte Kranz Chap1 | 370992 | [370992-kaputte-kranz-chap1.json](./370992-kaputte-kranz-chap1.json) |
 | Kar Racing | 209845 | [209845-kar-racing.json](./209845-kar-racing.json) |
@@ -956,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karma: Operation Barbossa | 67232 | [67232-karma-operation-barbossa.json](./67232-karma-operation-barbossa.json) |
 | Karma: The Dark World - Deluxe Edition | 403590 | [403590-karma-the-dark-world-deluxe-edition.json](./403590-karma-the-dark-world-deluxe-edition.json) |
 | Karma: The Dark World - Limited Edition | 351141 | [351141-karma-the-dark-world-limited-edition.json](./351141-karma-the-dark-world-limited-edition.json) |
+| Karma. Incarnation 1 | 25228 | [25228-karma-incarnation-1.json](./25228-karma-incarnation-1.json) |
 | Karmaflow: The Rock Opera Videogame | 8439 | [8439-karmaflow-the-rock-opera-videogame.json](./8439-karmaflow-the-rock-opera-videogame.json) |
 | Karman line: the edge of war | 173969 | [173969-karman-line-the-edge-of-war.json](./173969-karman-line-the-edge-of-war.json) |
 | KarmaRun | 294651 | [294651-karmarun.json](./294651-karmarun.json) |
@@ -1966,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kibus Moon Rock | 357146 | [357146-kibus-moon-rock.json](./357146-kibus-moon-rock.json) |
 | Kichiku Megane | 142451 | [142451-kichiku-megane.json](./142451-kichiku-megane.json) |
 | Kichikuou Rance | 132645 | [132645-kichikuou-rance.json](./132645-kichikuou-rance.json) |
+| Kick & Fennick | 24534 | [24534-kick-and-fennick.json](./24534-kick-and-fennick.json) |
 | Kick and Cows | 243734 | [243734-kick-and-cows.json](./243734-kick-and-cows.json) |
 | Kick and Hide | 346511 | [346511-kick-and-hide.json](./346511-kick-and-hide.json) |
 | Kick and Run | 39369 | [39369-kick-and-run.json](./39369-kick-and-run.json) |
