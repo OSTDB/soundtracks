@@ -2583,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend Sang 5 | 339870 | [339870-legend-sang-5.json](./339870-legend-sang-5.json) |
 | Legend Square | 304513 | [304513-legend-square.json](./304513-legend-square.json) |
 | Legend: Ashita he no Tsubasa | 334883 | [334883-legend-ashita-he-no-tsubasa.json](./334883-legend-ashita-he-no-tsubasa.json) |
+| Legend: Hand of God | 15793 | [15793-legend-hand-of-god.json](./15793-legend-hand-of-god.json) |
 | Legend: Legacy of the Dragons | 71187 | [71187-legend-legacy-of-the-dragons.json](./71187-legend-legacy-of-the-dragons.json) |
 | Legend's Duty: The Rifted World | 397265 | [397265-legends-duty-the-rifted-world.json](./397265-legends-duty-the-rifted-world.json) |
 | Legend's World | 90058 | [90058-legends-world.json](./90058-legends-world.json) |
@@ -4427,6 +4428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Nite | 164696 | [164696-light-nite.json](./164696-light-nite.json) |
 | Light No Fire | 279655 | [279655-light-no-fire.json](./279655-light-no-fire.json) |
 | Light of Alariya | 236431 | [236431-light-of-alariya.json](./236431-light-of-alariya.json) |
+| Light of Altair | 16041 | [16041-light-of-altair.json](./16041-light-of-altair.json) |
 | Light of Atlantis | 253915 | [253915-light-of-atlantis.json](./253915-light-of-atlantis.json) |
 | Light Of Chaos | 304361 | [304361-light-of-chaos.json](./304361-light-of-chaos.json) |
 | Light of Coco | 250750 | [250750-light-of-coco.json](./250750-light-of-coco.json) |
@@ -5177,6 +5179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links 2003 | 22068 | [22068-links-2003.json](./22068-links-2003.json) |
 | Links 2003: Championship Courses | 78879 | [78879-links-2003-championship-courses.json](./78879-links-2003-championship-courses.json) |
 | Links 2003: Championship Edition | 72540 | [72540-links-2003-championship-edition.json](./72540-links-2003-championship-edition.json) |
+| Links 2004 | 5902 | [5902-links-2004.json](./5902-links-2004.json) |
 | Links 386 Pro | 22611 | [22611-links-386-pro.json](./22611-links-386-pro.json) |
 | Links E6: Course Pack 1 | 153464 | [153464-links-e6-course-pack-1.json](./153464-links-e6-course-pack-1.json) |
 | Links E6: Course Pack 3 | 153465 | [153465-links-e6-course-pack-3.json](./153465-links-e6-course-pack-3.json) |
