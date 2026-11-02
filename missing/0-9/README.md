@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | [Afantasia] | 346494 | [346494-afantasia.json](./346494-afantasia.json) |
 | [Don't] Let Go | 371279 | [371279-dont-let-go.json](./371279-dont-let-go.json) |
 | [HammerA] HammerTime ! | 134969 | [134969-hammera-hammertime.json](./134969-hammera-hammertime.json) |
+| [Hell is Empty] | 412727 | [412727-hell-is-empty.json](./412727-hell-is-empty.json) |
 | [K]night City | 365226 | [365226-k-night-city.json](./365226-k-night-city.json) |
 | [OPT-OUT]: Uncanny | 153742 | [153742-opt-out-uncanny.json](./153742-opt-out-uncanny.json) |
 | [REC] Desolation | 333760 | [333760-rec-desolation.json](./333760-rec-desolation.json) |
@@ -266,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Agile Altercation | 316924 | [316924-1-agile-altercation.json](./316924-1-agile-altercation.json) |
 | 1 AM Moscow Time | 304848 | [304848-1-am-moscow-time.json](./304848-1-am-moscow-time.json) |
 | 1 Bad Wad | 259374 | [259374-1-bad-wad.json](./259374-1-bad-wad.json) |
+| 1 Bit Chaos | 412734 | [412734-1-bit-chaos.json](./412734-1-bit-chaos.json) |
 | 1 Bit Survivor | 233992 | [233992-1-bit-survivor.json](./233992-1-bit-survivor.json) |
 | 1 CatLine | 391649 | [391649-1-catline.json](./391649-1-catline.json) |
 | 1 Date Danger | 255815 | [255815-1-date-danger.json](./255815-1-date-danger.json) |
@@ -1837,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2win Ghost | 92619 | [92619-2win-ghost.json](./92619-2win-ghost.json) |
 | 2X | 208984 | [208984-2x.json](./208984-2x.json) |
 | 2x0ng | 342039 | [342039-2x0ng.json](./342039-2x0ng.json) |
+| 2x2 | 413378 | [413378-2x2.json](./413378-2x2.json) |
 | 2x4 Nails | 258003 | [258003-2x4-nails.json](./258003-2x4-nails.json) |
 | 2XKO: PS+ Benefit Bundle Y1S1 | 386485 | [386485-2xko-ps-benefit-bundle-y1s1.json](./386485-2xko-ps-benefit-bundle-y1s1.json) |
 | 2XKO: PS+ Benefit Bundle Y1S3 | 415424 | [415424-2xko-ps-benefit-bundle-y1s3.json](./415424-2xko-ps-benefit-bundle-y1s3.json) |
