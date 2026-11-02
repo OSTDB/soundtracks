@@ -2452,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaling Up | 323927 | [323927-scaling-up.json](./323927-scaling-up.json) |
 | Scallion RPG | 315710 | [315710-scallion-rpg.json](./315710-scallion-rpg.json) |
 | Scallywag: In the Lair of the Medusa | 50459 | [50459-scallywag-in-the-lair-of-the-medusa.json](./50459-scallywag-in-the-lair-of-the-medusa.json) |
+| Scallywags | 404605 | [404605-scallywags.json](./404605-scallywags.json) |
 | Scallywags | 73081 | [73081-scallywags.json](./73081-scallywags.json) |
 | Scalpers' Spoils | 422126 | [422126-scalpers-spoils.json](./422126-scalpers-spoils.json) |
 | Scam Artist | 413774 | [413774-scam-artist.json](./413774-scam-artist.json) |
@@ -5993,6 +5994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex, Drugs and Cyberpunk | 368093 | [368093-sex-drugs-and-cyberpunk.json](./368093-sex-drugs-and-cyberpunk.json) |
 | Sex, Drugs, and Beer Can | 247553 | [247553-sex-drugs-and-beer-can.json](./247553-sex-drugs-and-beer-can.json) |
 | Sex, Love & Girls | 235689 | [235689-sex-love-and-girls.json](./235689-sex-love-and-girls.json) |
+| Sex, Sin & Rock'N'Roll | 404632 | [404632-sex-sin-and-rocknroll.json](./404632-sex-sin-and-rocknroll.json) |
 | Sex, Stocks & Cocks | 301653 | [301653-sex-stocks-and-cocks.json](./301653-sex-stocks-and-cocks.json) |
 | Sexaginta Quattuordle | 249700 | [249700-sexaginta-quattuordle.json](./249700-sexaginta-quattuordle.json) |
 | Sexbot | 277364 | [277364-sexbot.json](./277364-sexbot.json) |
@@ -7018,6 +7020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of Hope | 184044 | [184044-shards-of-hope.json](./184044-shards-of-hope.json) |
 | Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
 | Shards of Order | 363332 | [363332-shards-of-order.json](./363332-shards-of-order.json) |
+| Shards Of Solitude | 404621 | [404621-shards-of-solitude.json](./404621-shards-of-solitude.json) |
 | Shards of the Library | 366296 | [366296-shards-of-the-library.json](./366296-shards-of-the-library.json) |
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
 | Shards of the Past | 266977 | [266977-shards-of-the-past.json](./266977-shards-of-the-past.json) |
@@ -10085,6 +10088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Wire | 205033 | [205033-silver-wire.json](./205033-silver-wire.json) |
 | Silver's Adventure | 326552 | [326552-silvers-adventure.json](./326552-silvers-adventure.json) |
 | Silverball | 76466 | [76466-silverball.json](./76466-silverball.json) |
+| Silverbrook: a Text-Based RPG | 404609 | [404609-silverbrook-a-text-based-rpg.json](./404609-silverbrook-a-text-based-rpg.json) |
 | SilverDollar | 101525 | [101525-silverdollar.json](./101525-silverdollar.json) |
 | Silverfall | 15718 | [15718-silverfall.json](./15718-silverfall.json) |
 | Silverfall: Earth Awakening | 11353 | [11353-silverfall-earth-awakening.json](./11353-silverfall-earth-awakening.json) |
@@ -17851,6 +17855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South of Midnight: Weaver’s Edition | 329136 | [329136-south-of-midnight-weaver-s-edition.json](./329136-south-of-midnight-weaver-s-edition.json) |
 | South of Real: Rough Beast | 124671 | [124671-south-of-real-rough-beast.json](./124671-south-of-real-rough-beast.json) |
 | South of the Circle: Deluxe Edition | 325387 | [325387-south-of-the-circle-deluxe-edition.json](./325387-south-of-the-circle-deluxe-edition.json) |
+| South of the March | 404629 | [404629-south-of-the-march.json](./404629-south-of-the-march.json) |
 | South Pacific Quest | 69529 | [69529-south-pacific-quest.json](./69529-south-pacific-quest.json) |
 | South Park | 198486 | [198486-south-park.json](./198486-south-park.json) |
 | South Park : The Stick of Truth + The Fractured but Whole Bundle | 164783 | [164783-south-park-the-stick-of-truth-the-fractured-but-whole-bundle.json](./164783-south-park-the-stick-of-truth-the-fractured-but-whole-bundle.json) |
