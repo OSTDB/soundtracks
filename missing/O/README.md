@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obara no Kiritsu: UAV Practical Simulator | 355206 | [355206-obara-no-kiritsu-uav-practical-simulator.json](./355206-obara-no-kiritsu-uav-practical-simulator.json) |
 | Obby | 260005 | [260005-obby.json](./260005-obby.json) |
 | Obby Revival Project | 414430 | [414430-obby-revival-project.json](./414430-obby-revival-project.json) |
+| Obby Sprunki Towers | 415721 | [415721-obby-sprunki-towers.json](./415721-obby-sprunki-towers.json) |
 | Obby: Build a 3D Amusement Park! | 402303 | [402303-obby-build-a-3d-amusement-park.json](./402303-obby-build-a-3d-amusement-park.json) |
 | Obcidian Legacy | 30004 | [30004-obcidian-legacy.json](./30004-obcidian-legacy.json) |
 | Obec | 349397 | [349397-obec.json](./349397-obec.json) |
@@ -4530,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Beautiful Earth 2 | 164887 | [164887-our-beautiful-earth-2.json](./164887-our-beautiful-earth-2.json) |
 | Our Beautiful Earth 3 | 294447 | [294447-our-beautiful-earth-3.json](./294447-our-beautiful-earth-3.json) |
 | Our Beautiful Earth 4 | 294692 | [294692-our-beautiful-earth-4.json](./294692-our-beautiful-earth-4.json) |
+| Our Blood Ties | 415353 | [415353-our-blood-ties.json](./415353-our-blood-ties.json) |
 | Our Brotherly War | 190865 | [190865-our-brotherly-war.json](./190865-our-brotherly-war.json) |
 | Our Burial Dolls Remastered | 386210 | [386210-our-burial-dolls-remastered.json](./386210-our-burial-dolls-remastered.json) |
 | Our Children - Escaping Earth | 115511 | [115511-our-children-escaping-earth.json](./115511-our-children-escaping-earth.json) |
