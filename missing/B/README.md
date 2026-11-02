@@ -532,13 +532,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms (2026) | 410930 | [410930-backrooms-2026.json](./410930-backrooms-2026.json) |
 | Backrooms [Redacted]: Chapter 1 | 409747 | [409747-backrooms-redacted-chapter-1.json](./409747-backrooms-redacted-chapter-1.json) |
 | Backrooms Abyss | 253419 | [253419-backrooms-abyss.json](./253419-backrooms-abyss.json) |
+| Backrooms Adventure | 420917 | [420917-backrooms-adventure.json](./420917-backrooms-adventure.json) |
 | Backrooms Anomaly | 374836 | [374836-backrooms-anomaly.json](./374836-backrooms-anomaly.json) |
 | Backrooms Blackmarket | 348848 | [348848-backrooms-blackmarket.json](./348848-backrooms-blackmarket.json) |
+| Backrooms Blocks | 420918 | [420918-backrooms-blocks.json](./420918-backrooms-blocks.json) |
 | Backrooms Brotherhood | 307641 | [307641-backrooms-brotherhood.json](./307641-backrooms-brotherhood.json) |
 | Backrooms Cats and Lava | 304830 | [304830-backrooms-cats-and-lava.json](./304830-backrooms-cats-and-lava.json) |
 | Backrooms Cycle | 235470 | [235470-backrooms-cycle.json](./235470-backrooms-cycle.json) |
 | Backrooms Cycle | 256781 | [256781-backrooms-cycle.json](./256781-backrooms-cycle.json) |
 | Backrooms Descent | 236363 | [236363-backrooms-descent.json](./236363-backrooms-descent.json) |
+| Backrooms Duck Edition | 420920 | [420920-backrooms-duck-edition.json](./420920-backrooms-duck-edition.json) |
 | Backrooms Escape Protocol | 339446 | [339446-backrooms-escape-protocol.json](./339446-backrooms-escape-protocol.json) |
 | Backrooms Exploration | 242406 | [242406-backrooms-exploration.json](./242406-backrooms-exploration.json) |
 | Backrooms Exploration Liminal | 258475 | [258475-backrooms-exploration-liminal.json](./258475-backrooms-exploration-liminal.json) |
@@ -579,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Between Lost Dimension | 304101 | [304101-backrooms-between-lost-dimension.json](./304101-backrooms-between-lost-dimension.json) |
 | Backrooms: Beyond One Year | 289230 | [289230-backrooms-beyond-one-year.json](./289230-backrooms-beyond-one-year.json) |
 | Backrooms: Blackhole | 404886 | [404886-backrooms-blackhole.json](./404886-backrooms-blackhole.json) |
+| Backrooms: Chase | 420928 | [420928-backrooms-chase.json](./420928-backrooms-chase.json) |
 | Backrooms: Code Yellow | 416594 | [416594-backrooms-code-yellow.json](./416594-backrooms-code-yellow.json) |
 | Backrooms: Duck Escape | 378180 | [378180-backrooms-duck-escape.json](./378180-backrooms-duck-escape.json) |
 | Backrooms: Eight Levels | 281947 | [281947-backrooms-eight-levels.json](./281947-backrooms-eight-levels.json) |
@@ -594,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Final Exam | 350290 | [350290-backrooms-final-exam.json](./350290-backrooms-final-exam.json) |
 | Backrooms: Final Exam Part II | 349246 | [349246-backrooms-final-exam-part-ii.json](./349246-backrooms-final-exam-part-ii.json) |
 | Backrooms: Flicker | 349244 | [349244-backrooms-flicker.json](./349244-backrooms-flicker.json) |
+| Backrooms: Forget Me Not | 420954 | [420954-backrooms-forget-me-not.json](./420954-backrooms-forget-me-not.json) |
 | Backrooms: Forgotten Floors | 349242 | [349242-backrooms-forgotten-floors.json](./349242-backrooms-forgotten-floors.json) |
 | Backrooms: Found Footage | 338186 | [338186-backrooms-found-footage.json](./338186-backrooms-found-footage.json) |
 | Backrooms: Glitchfield | 407807 | [407807-backrooms-glitchfield.json](./407807-backrooms-glitchfield.json) |
@@ -904,7 +909,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11221,6 +11225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Board Quizz Adventure | 117795 | [117795-board-quizz-adventure.json](./117795-board-quizz-adventure.json) |
 | Boarder Zone | 288071 | [288071-boarder-zone.json](./288071-boarder-zone.json) |
 | Boardfall | 375945 | [375945-boardfall.json](./375945-boardfall.json) |
+| Boarding Denied | 422118 | [422118-boarding-denied.json](./422118-boarding-denied.json) |
 | Boardland | 285914 | [285914-boardland.json](./285914-boardland.json) |
 | Boardlike | 376538 | [376538-boardlike.json](./376538-boardlike.json) |
 | Boardmancer | 395866 | [395866-boardmancer.json](./395866-boardmancer.json) |
@@ -11957,6 +11962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombo Rumble | 239683 | [239683-bombo-rumble.json](./239683-bombo-rumble.json) |
 | Bomboban | 386102 | [386102-bomboban.json](./386102-bomboban.json) |
 | Bomboban | 386355 | [386355-bomboban.json](./386355-bomboban.json) |
+| Bombogramm | 422170 | [422170-bombogramm.json](./422170-bombogramm.json) |
 | Bomboras Forever | 58173 | [58173-bomboras-forever.json](./58173-bomboras-forever.json) |
 | Bombox | 293339 | [293339-bombox.json](./293339-bombox.json) |
 | Bomboy | 45737 | [45737-bomboy.json](./45737-bomboy.json) |
@@ -16250,6 +16256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullfist | 358745 | [358745-bullfist.json](./358745-bullfist.json) |
 | Bullfrogs | 164314 | [164314-bullfrogs.json](./164314-bullfrogs.json) |
 | Bullion Blitz | 64257 | [64257-bullion-blitz.json](./64257-bullion-blitz.json) |
+| Bullistic | 422176 | [422176-bullistic.json](./422176-bullistic.json) |
 | Bullring | 281373 | [281373-bullring.json](./281373-bullring.json) |
 | Bulls and Bears | 92154 | [92154-bulls-and-bears.json](./92154-bulls-and-bears.json) |
 | Bulls and Cows | 210592 | [210592-bulls-and-cows.json](./210592-bulls-and-cows.json) |
