@@ -3050,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geoff Capes Strongman | 79164 | [79164-geoff-capes-strongman.json](./79164-geoff-capes-strongman.json) |
 | GeoFlag | 406484 | [406484-geoflag.json](./406484-geoflag.json) |
 | GeoFS | 142942 | [142942-geofs.json](./142942-geofs.json) |
+| GeoFunGames | 402209 | [402209-geofungames.json](./402209-geofungames.json) |
 | GeoFußball | 422707 | [422707-geofu-ball.json](./422707-geofu-ball.json) |
 | GeoGebra Mixed Reality | 104356 | [104356-geogebra-mixed-reality.json](./104356-geogebra-mixed-reality.json) |
 | Geograficus | 418226 | [418226-geograficus.json](./418226-geograficus.json) |
@@ -8651,6 +8652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Runner | 258951 | [258951-grid-runner.json](./258951-grid-runner.json) |
 | Grid Seeker: Project Storm Hammer | 39866 | [39866-grid-seeker-project-storm-hammer.json](./39866-grid-seeker-project-storm-hammer.json) |
 | Grid Start | 55992 | [55992-grid-start.json](./55992-grid-start.json) |
+| Grid Tactics: Duel | 402063 | [402063-grid-tactics-duel.json](./402063-grid-tactics-duel.json) |
 | Grid Tycoon | 392970 | [392970-grid-tycoon.json](./392970-grid-tycoon.json) |
 | Grid Wars II | 51233 | [51233-grid-wars-ii.json](./51233-grid-wars-ii.json) |
 | Grid Words | 202492 | [202492-grid-words.json](./202492-grid-words.json) |
@@ -10226,6 +10228,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunbound T | 234450 | [234450-gunbound-t.json](./234450-gunbound-t.json) |
 | GunboundM | 69500 | [69500-gunboundm.json](./69500-gunboundm.json) |
 | GunBoxing | 392798 | [392798-gunboxing.json](./392798-gunboxing.json) |
+| Gunboy 1 | 402080 | [402080-gunboy-1.json](./402080-gunboy-1.json) |
+| Gunboy 2 | 402081 | [402081-gunboy-2.json](./402081-gunboy-2.json) |
+| Gunboy 3 | 402091 | [402091-gunboy-3.json](./402091-gunboy-3.json) |
 | Gunbrella | 200900 | [200900-gunbrella.json](./200900-gunbrella.json) |
 | Gunbrella: Deluxe Edition | 266822 | [266822-gunbrella-deluxe-edition.json](./266822-gunbrella-deluxe-edition.json) |
 | Gunbrick | 59838 | [59838-gunbrick.json](./59838-gunbrick.json) |
