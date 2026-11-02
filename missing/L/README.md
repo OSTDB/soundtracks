@@ -2851,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Builder Bots | 145369 | [145369-lego-builder-bots.json](./145369-lego-builder-bots.json) |
 | LEGO Builder's Journey | 127985 | [127985-lego-builders-journey.json](./127985-lego-builders-journey.json) |
 | LEGO City Fire Hose Frenzy | 61624 | [61624-lego-city-fire-hose-frenzy.json](./61624-lego-city-fire-hose-frenzy.json) |
+| LEGO City Game | 89145 | [89145-lego-city-game.json](./89145-lego-city-game.json) |
 | LEGO City Spotlight Robbery | 61623 | [61623-lego-city-spotlight-robbery.json](./61623-lego-city-spotlight-robbery.json) |
 | LEGO City Undercover | 2177 | [2177-lego-city-undercover.json](./2177-lego-city-undercover.json) |
 | LEGO City Undercover | 343450 | [343450-lego-city-undercover.json](./343450-lego-city-undercover.json) |
@@ -2862,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Creator: Knights' Kingdom | 6499 | [6499-lego-creator-knights-kingdom.json](./6499-lego-creator-knights-kingdom.json) |
 | LEGO DC Comics Super Heroes: Team Up | 59190 | [59190-lego-dc-comics-super-heroes-team-up.json](./59190-lego-dc-comics-super-heroes-team-up.json) |
 | LEGO DC Mighty Micros | 104493 | [104493-lego-dc-mighty-micros.json](./104493-lego-dc-mighty-micros.json) |
+| LEGO DC Super Heroes Chase | 89137 | [89137-lego-dc-super-heroes-chase.json](./89137-lego-dc-super-heroes-chase.json) |
 | LEGO DC Super-Villains | 102321 | [102321-lego-dc-super-villains.json](./102321-lego-dc-super-villains.json) |
 | LEGO DC Super-Villains: Aquaman Bundle Pack | 214483 | [214483-lego-dc-super-villains-aquaman-bundle-pack.json](./214483-lego-dc-super-villains-aquaman-bundle-pack.json) |
 | LEGO DC Super-Villains: Aquaman Movie Level Pack 1 | 207224 | [207224-lego-dc-super-villains-aquaman-movie-level-pack-1.json](./207224-lego-dc-super-villains-aquaman-movie-level-pack-1.json) |
@@ -6047,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends Remastered: Wrath of the Beast | 397292 | [397292-living-legends-remastered-wrath-of-the-beast.json](./397292-living-legends-remastered-wrath-of-the-beast.json) |
 | Living Legends Remastered: Wrath of the Beast - Collector's Edition | 241421 | [241421-living-legends-remastered-wrath-of-the-beast-collectors-edition.json](./241421-living-legends-remastered-wrath-of-the-beast-collectors-edition.json) |
 | Living Legends: Beasts of Bremen | 188004 | [188004-living-legends-beasts-of-bremen.json](./188004-living-legends-beasts-of-bremen.json) |
+| Living Legends: Bound by Wishes | 94880 | [94880-living-legends-bound-by-wishes.json](./94880-living-legends-bound-by-wishes.json) |
 | Living Legends: Bound by Wishes - Collector's Edition | 212207 | [212207-living-legends-bound-by-wishes-collectors-edition.json](./212207-living-legends-bound-by-wishes-collectors-edition.json) |
 | Living Legends: Fallen Sky | 295660 | [295660-living-legends-fallen-sky.json](./295660-living-legends-fallen-sky.json) |
 | Living Legends: Fallen Sky - Collector's Edition | 397042 | [397042-living-legends-fallen-sky-collectors-edition.json](./397042-living-legends-fallen-sky-collectors-edition.json) |
@@ -9041,6 +9044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumines Live! | 4691 | [4691-lumines-live.json](./4691-lumines-live.json) |
 | Lumines Plus | 21389 | [21389-lumines-plus.json](./21389-lumines-plus.json) |
 | Lumines Supernova | 4692 | [4692-lumines-supernova.json](./4692-lumines-supernova.json) |
+| Lumines: Advanced Pack | 93825 | [93825-lumines-advanced-pack.json](./93825-lumines-advanced-pack.json) |
 | Lumines: Puzzle & Music | 58123 | [58123-lumines-puzzle-and-music.json](./58123-lumines-puzzle-and-music.json) |
 | Lumines: Puzzle Fusion | 78329 | [78329-lumines-puzzle-fusion.json](./78329-lumines-puzzle-fusion.json) |
 | Luminesce | 159302 | [159302-luminesce.json](./159302-luminesce.json) |
