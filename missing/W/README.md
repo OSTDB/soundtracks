@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wand of Fortune R2: Jikuu ni Shizumu Mokushiroku | 131916 | [131916-wand-of-fortune-r2-jikuu-ni-shizumu-mokushiroku.json](./131916-wand-of-fortune-r2-jikuu-ni-shizumu-mokushiroku.json) |
 | Wand of Fortune: Mirai he no Prologue | 218959 | [218959-wand-of-fortune-mirai-he-no-prologue.json](./218959-wand-of-fortune-mirai-he-no-prologue.json) |
 | Wand of Fortune: Mirai he no Prologue Portable | 218960 | [218960-wand-of-fortune-mirai-he-no-prologue-portable.json](./218960-wand-of-fortune-mirai-he-no-prologue-portable.json) |
+| Wand Wars | 33992 | [33992-wand-wars.json](./33992-wand-wars.json) |
 | Wand Wars VR | 81727 | [81727-wand-wars-vr.json](./81727-wand-wars-vr.json) |
 | Wander | 10920 | [10920-wander.json](./10920-wander.json) |
 | Wander Hero | 173009 | [173009-wander-hero.json](./173009-wander-hero.json) |
@@ -8545,6 +8546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Writhe | 142308 | [142308-writhe.json](./142308-writhe.json) |
 | Writhe | 213466 | [213466-writhe.json](./213466-writhe.json) |
 | Writhing | 378356 | [378356-writhing.json](./378356-writhing.json) |
+| Written in the Sky | 34238 | [34238-written-in-the-sky.json](./34238-written-in-the-sky.json) |
 | WrldCraft | 120169 | [120169-wrldcraft.json](./120169-wrldcraft.json) |
 | wrldDivision | 128544 | [128544-wrlddivision.json](./128544-wrlddivision.json) |
 | wrldDivision | 181379 | [181379-wrlddivision.json](./181379-wrlddivision.json) |
