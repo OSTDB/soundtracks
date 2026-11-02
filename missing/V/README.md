@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valdamour | 264531 | [264531-valdamour.json](./264531-valdamour.json) |
 | Valdis | 377296 | [377296-valdis.json](./377296-valdis.json) |
 | Valdis Story: Abyssal City | 6134 | [6134-valdis-story-abyssal-city.json](./6134-valdis-story-abyssal-city.json) |
+| Valdrys | 418391 | [418391-valdrys.json](./418391-valdrys.json) |
 | Vale | 263012 | [263012-vale.json](./263012-vale.json) |
 | Vale | 304641 | [304641-vale.json](./304641-vale.json) |
 | Vale's Echo | 373588 | [373588-vales-echo.json](./373588-vales-echo.json) |
@@ -1821,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Art Activity Cartridge | 290319 | [290319-video-art-activity-cartridge.json](./290319-video-art-activity-cartridge.json) |
 | Video Blogger Story | 32654 | [32654-video-blogger-story.json](./32654-video-blogger-story.json) |
 | Video Casino Games | 137099 | [137099-video-casino-games.json](./137099-video-casino-games.json) |
+| Video Chapel | 419074 | [419074-video-chapel.json](./419074-video-chapel.json) |
 | Video Checkers | 18003 | [18003-video-checkers.json](./18003-video-checkers.json) |
 | Video Chess | 18004 | [18004-video-chess.json](./18004-video-chess.json) |
 | Video Cube: Space | 130754 | [130754-video-cube-space.json](./130754-video-cube-space.json) |
@@ -2952,6 +2954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vladiators | 141831 | [141831-vladiators.json](./141831-vladiators.json) |
 | Vladik Brutal | 159796 | [159796-vladik-brutal.json](./159796-vladik-brutal.json) |
 | Vladimere's Lhore | 216497 | [216497-vladimeres-lhore.json](./216497-vladimeres-lhore.json) |
+| Vladimir | 419758 | [419758-vladimir.json](./419758-vladimir.json) |
 | Vladimir 2021 | 156542 | [156542-vladimir-2021.json](./156542-vladimir-2021.json) |
 | Vladimir Putin Style | 125362 | [125362-vladimir-putin-style.json](./125362-vladimir-putin-style.json) |
 | Vlak | 377281 | [377281-vlak.json](./377281-vlak.json) |
@@ -3054,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Drift | 372522 | [372522-void-drift.json](./372522-void-drift.json) |
 | Void Dungeon | 322694 | [322694-void-dungeon.json](./322694-void-dungeon.json) |
 | Void Eagle | 215671 | [215671-void-eagle.json](./215671-void-eagle.json) |
+| Void Eaters | 418415 | [418415-void-eaters.json](./418415-void-eaters.json) |
 | Void Eclipse | 126372 | [126372-void-eclipse.json](./126372-void-eclipse.json) |
 | Void Encounter | 172185 | [172185-void-encounter.json](./172185-void-encounter.json) |
 | Void Excursion | 79130 | [79130-void-excursion.json](./79130-void-excursion.json) |
