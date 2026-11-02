@@ -2892,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emery | 261672 | [261672-emery.json](./261672-emery.json) |
 | Emery Hearts | 286226 | [286226-emery-hearts.json](./286226-emery-hearts.json) |
 | Emetic Skimmer | 55185 | [55185-emetic-skimmer.json](./55185-emetic-skimmer.json) |
+| EmFPS | 93882 | [93882-emfps.json](./93882-emfps.json) |
 | Emi & The Super Boba | 192735 | [192735-emi-and-the-super-boba.json](./192735-emi-and-the-super-boba.json) |
 | Emi-chan no Moero Yakyuuken | 41373 | [41373-emi-chan-no-moero-yakyuuken.json](./41373-emi-chan-no-moero-yakyuuken.json) |
 | Emi: Christmas Special | 277747 | [277747-emi-christmas-special.json](./277747-emi-christmas-special.json) |
@@ -5878,6 +5879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euchre ++ | 240192 | [240192-euchre.json](./240192-euchre.json) |
 | Euchre 3D Pro | 86836 | [86836-euchre-3d-pro.json](./86836-euchre-3d-pro.json) |
 | Euchre by Webfoot | 88323 | [88323-euchre-by-webfoot.json](./88323-euchre-by-webfoot.json) |
+| Euchre Forever | 93855 | [93855-euchre-forever.json](./93855-euchre-forever.json) |
 | Euclid Valley | 348375 | [348375-euclid-valley.json](./348375-euclid-valley.json) |
 | Euclid's Inferno | 304994 | [304994-euclids-inferno.json](./304994-euclids-inferno.json) |
 | Euclidean | 13141 | [13141-euclidean.json](./13141-euclidean.json) |
