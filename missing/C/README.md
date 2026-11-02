@@ -9820,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork | 25195 | [25195-clockwork.json](./25195-clockwork.json) |
 | ClockWork | 217480 | [217480-clockwork.json](./217480-clockwork.json) |
 | Clockwork Apple | 182934 | [182934-clockwork-apple.json](./182934-clockwork-apple.json) |
+| Clockwork Blackout | 400649 | [400649-clockwork-blackout.json](./400649-clockwork-blackout.json) |
 | Clockwork Calamity in Mushroom World: What would you do if the time stopped ticking? | 153424 | [153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json](./153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json) |
 | Clockwork Cat | 128868 | [128868-clockwork-cat.json](./128868-clockwork-cat.json) |
 | Clockwork Dreams | 169238 | [169238-clockwork-dreams.json](./169238-clockwork-dreams.json) |
@@ -10938,6 +10939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColdRidge | 310254 | [310254-coldridge.json](./310254-coldridge.json) |
 | ColdSide | 128834 | [128834-coldside.json](./128834-coldside.json) |
 | ColdSide: Retro Edition | 410206 | [410206-coldside-retro-edition.json](./410206-coldside-retro-edition.json) |
+| Coldsnap | 400724 | [400724-coldsnap.json](./400724-coldsnap.json) |
 | Coldstar | 421577 | [421577-coldstar.json](./421577-coldstar.json) |
 | Coldsteel Adventure 7 | 275487 | [275487-coldsteel-adventure-7.json](./275487-coldsteel-adventure-7.json) |
 | Coldstone: Scoop It Up | 79153 | [79153-coldstone-scoop-it-up.json](./79153-coldstone-scoop-it-up.json) |
