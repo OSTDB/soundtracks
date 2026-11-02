@@ -4110,6 +4110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Bore | 333025 | [333025-terminal-bore.json](./333025-terminal-bore.json) |
 | Terminal Breach | 217394 | [217394-terminal-breach.json](./217394-terminal-breach.json) |
 | Terminal Breach: Final Dawn | 384902 | [384902-terminal-breach-final-dawn.json](./384902-terminal-breach-final-dawn.json) |
+| Terminal Breaker | 411233 | [411233-terminal-breaker.json](./411233-terminal-breaker.json) |
 | Terminal City | 314463 | [314463-terminal-city.json](./314463-terminal-city.json) |
 | Terminal Compression | 331969 | [331969-terminal-compression.json](./331969-terminal-compression.json) |
 | Terminal Conflict | 112417 | [112417-terminal-conflict.json](./112417-terminal-conflict.json) |
@@ -13626,6 +13627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Office Quest | 99521 | [99521-the-office-quest.json](./99521-the-office-quest.json) |
 | The Office Rooms | 373305 | [373305-the-office-rooms.json](./373305-the-office-rooms.json) |
 | The Office Simulation | 148319 | [148319-the-office-simulation.json](./148319-the-office-simulation.json) |
+| The Office: Dirty Secrets | 411243 | [411243-the-office-dirty-secrets.json](./411243-the-office-dirty-secrets.json) |
 | The Official Everton FC Intelligensia | 314965 | [314965-the-official-everton-fc-intelligensia.json](./314965-the-official-everton-fc-intelligensia.json) |
 | The Official Father Christmas | 71350 | [71350-the-official-father-christmas.json](./71350-the-official-father-christmas.json) |
 | The Official GamingTaylor Game, Great Job! | 104346 | [104346-the-official-gamingtaylor-game-great-job.json](./104346-the-official-gamingtaylor-game-great-job.json) |
@@ -27059,6 +27061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Station Renovation: Germany | 195217 | [195217-train-station-renovation-germany.json](./195217-train-station-renovation-germany.json) |
 | Train Station Simulator | 75616 | [75616-train-station-simulator.json](./75616-train-station-simulator.json) |
 | Train Station Simulator: Together in Japan | 374747 | [374747-train-station-simulator-together-in-japan.json](./374747-train-station-simulator-together-in-japan.json) |
+| Train Station Tycoon | 411263 | [411263-train-station-tycoon.json](./411263-train-station-tycoon.json) |
 | Train Station: Rail Transport | 243085 | [243085-train-station-rail-transport.json](./243085-train-station-rail-transport.json) |
 | Train Story | 128986 | [128986-train-story.json](./128986-train-story.json) |
 | Train to Amber Coast | 179666 | [179666-train-to-amber-coast.json](./179666-train-to-amber-coast.json) |
@@ -29408,6 +29411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial PurTwitch | 396241 | [396241-trivial-purtwitch.json](./396241-trivial-purtwitch.json) |
 | Trivial Trivia | 246905 | [246905-trivial-trivia.json](./246905-trivial-trivia.json) |
 | Triviaverse | 256884 | [256884-triviaverse.json](./256884-triviaverse.json) |
+| TriwarM Global | 411257 | [411257-triwarm-global.json](./411257-triwarm-global.json) |
 | Triwave | 111435 | [111435-triwave.json](./111435-triwave.json) |
 | Trix | 392817 | [392817-trix.json](./392817-trix.json) |
 | Trix and the Horny Tower | 367016 | [367016-trix-and-the-horny-tower.json](./367016-trix-and-the-horny-tower.json) |
