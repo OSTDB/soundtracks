@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallowed Haven | 292973 | [292973-hallowed-haven.json](./292973-hallowed-haven.json) |
 | Hallowed Legends: Samhain - Collector's Edition | 375380 | [375380-hallowed-legends-samhain-collectors-edition.json](./375380-hallowed-legends-samhain-collectors-edition.json) |
 | Hallowed Legends: Ship of Bones | 376641 | [376641-hallowed-legends-ship-of-bones.json](./376641-hallowed-legends-ship-of-bones.json) |
+| Hallowed Legends: Ship of Bones - Collector's Edition | 416526 | [416526-hallowed-legends-ship-of-bones-collectors-edition.json](./416526-hallowed-legends-ship-of-bones-collectors-edition.json) |
 | Hallowed Legends: Templar | 57965 | [57965-hallowed-legends-templar.json](./57965-hallowed-legends-templar.json) |
 | Hallowed Legends: Templar - Collector's Edition | 376584 | [376584-hallowed-legends-templar-collectors-edition.json](./376584-hallowed-legends-templar-collectors-edition.json) |
 | Hallowed Pumpkins | 224836 | [224836-hallowed-pumpkins.json](./224836-hallowed-pumpkins.json) |
@@ -3664,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helga the Viking Warrior 5: Dawn of Doom | 318609 | [318609-helga-the-viking-warrior-5-dawn-of-doom.json](./318609-helga-the-viking-warrior-5-dawn-of-doom.json) |
 | Helga the Viking Warrior 6: Beyond Ragnarok | 345417 | [345417-helga-the-viking-warrior-6-beyond-ragnarok.json](./345417-helga-the-viking-warrior-6-beyond-ragnarok.json) |
 | Helga the Viking Warrior 8: Valhalla's Last War | 417509 | [417509-helga-the-viking-warrior-8-valhallas-last-war.json](./417509-helga-the-viking-warrior-8-valhallas-last-war.json) |
+| Helga the Viking Warrior 9: The Last Journey | 416504 | [416504-helga-the-viking-warrior-9-the-last-journey.json](./416504-helga-the-viking-warrior-9-the-last-journey.json) |
 | Helga's Cheese Festival | 293349 | [293349-helgas-cheese-festival.json](./293349-helgas-cheese-festival.json) |
 | Helheim | 112866 | [112866-helheim.json](./112866-helheim.json) |
 | Helheim Hassle | 129208 | [129208-helheim-hassle.json](./129208-helheim-hassle.json) |
@@ -6763,6 +6765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Pleasure: Faster and Faster | 403714 | [403714-hidden-pleasure-faster-and-faster.json](./403714-hidden-pleasure-faster-and-faster.json) |
 | Hidden Pleasure: More and More | 409662 | [409662-hidden-pleasure-more-and-more.json](./409662-hidden-pleasure-more-and-more.json) |
 | Hidden Pointsman | 107124 | [107124-hidden-pointsman.json](./107124-hidden-pointsman.json) |
+| Hidden Portals: Chronicles of the Sunbound | 416492 | [416492-hidden-portals-chronicles-of-the-sunbound.json](./416492-hidden-portals-chronicles-of-the-sunbound.json) |
 | Hidden Portals: Chronicles of the Sunbound - Collector's Edition | 396600 | [396600-hidden-portals-chronicles-of-the-sunbound-collectors-edition.json](./396600-hidden-portals-chronicles-of-the-sunbound-collectors-edition.json) |
 | Hidden Portals: Eternal Balance | 416701 | [416701-hidden-portals-eternal-balance.json](./416701-hidden-portals-eternal-balance.json) |
 | Hidden Portals: Eternal Balance - Collector's Edition | 349476 | [349476-hidden-portals-eternal-balance-collectors-edition.json](./349476-hidden-portals-eternal-balance-collectors-edition.json) |
@@ -8630,6 +8633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home trip | 262103 | [262103-home-trip.json](./262103-home-trip.json) |
 | Home VR | 197003 | [197003-home-vr.json](./197003-home-vr.json) |
 | Home Wars | 43334 | [43334-home-wars.json](./43334-home-wars.json) |
+| Home Watcher | 415249 | [415249-home-watcher.json](./415249-home-watcher.json) |
 | Home World Run | 315322 | [315322-home-world-run.json](./315322-home-world-run.json) |
 | Home_0 | 325661 | [325661-home-0.json](./325661-home-0.json) |
 | Home: A Quarantine Story | 149210 | [149210-home-a-quarantine-story.json](./149210-home-a-quarantine-story.json) |
@@ -9285,6 +9289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hordes of Hunger | 244839 | [244839-hordes-of-hunger.json](./244839-hordes-of-hunger.json) |
 | Hordes of Zendar | 196461 | [196461-hordes-of-zendar.json](./196461-hordes-of-zendar.json) |
 | Hordes.io | 125365 | [125365-hordes-io.json](./125365-hordes-io.json) |
+| Hordia | 415334 | [415334-hordia.json](./415334-hordia.json) |
 | Hordound | 207764 | [207764-hordound.json](./207764-hordound.json) |
 | Horg's Brewery | 333608 | [333608-horgs-brewery.json](./333608-horgs-brewery.json) |
 | Horgihugh | 118727 | [118727-horgihugh.json](./118727-horgihugh.json) |
@@ -9597,6 +9602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horsez | 5096 | [5096-horsez.json](./5096-horsez.json) |
 | Horsle | 314416 | [314416-horsle.json](./314416-horsle.json) |
 | Horst: Der Ultimatives Rollenspiel | 285437 | [285437-horst-der-ultimatives-rollenspiel.json](./285437-horst-der-ultimatives-rollenspiel.json) |
+| Horta Maluca | 416490 | [416490-horta-maluca.json](./416490-horta-maluca.json) |
 | Hortal | 251139 | [251139-hortal.json](./251139-hortal.json) |
 | Horticular: Complete Edition | 395680 | [395680-horticular-complete-edition.json](./395680-horticular-complete-edition.json) |
 | Horticular: Frozen Frontier | 395687 | [395687-horticular-frozen-frontier.json](./395687-horticular-frozen-frontier.json) |
@@ -11826,6 +11832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperFleet | 168683 | [168683-hyperfleet.json](./168683-hyperfleet.json) |
 | Hyperflex Ultra | 355562 | [355562-hyperflex-ultra.json](./355562-hyperflex-ultra.json) |
 | HyperFlight | 340497 | [340497-hyperflight.json](./340497-hyperflight.json) |
+| Hyperflora | 415352 | [415352-hyperflora.json](./415352-hyperflora.json) |
 | Hyperforce | 74862 | [74862-hyperforce.json](./74862-hyperforce.json) |
 | Hyperforma | 96727 | [96727-hyperforma.json](./96727-hyperforma.json) |
 | Hyperforma: Lost Archives - Fragment I | 262316 | [262316-hyperforma-lost-archives-fragment-i.json](./262316-hyperforma-lost-archives-fragment-i.json) |
