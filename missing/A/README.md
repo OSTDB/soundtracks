@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Thief's Quest | 328933 | [328933-a-thiefs-quest.json](./328933-a-thiefs-quest.json) |
 | A Thin Line | 28030 | [28030-a-thin-line.json](./28030-a-thin-line.json) |
 | A Thousand Acres | 420214 | [420214-a-thousand-acres.json](./420214-a-thousand-acres.json) |
+| A Thousand Cloys | 418433 | [418433-a-thousand-cloys.json](./418433-a-thousand-cloys.json) |
 | A Thousand Mouths to Scream | 338179 | [338179-a-thousand-mouths-to-scream.json](./338179-a-thousand-mouths-to-scream.json) |
 | A thousand words that I could tell you | 257539 | [257539-a-thousand-words-that-i-could-tell-you.json](./257539-a-thousand-words-that-i-could-tell-you.json) |
 | A Thousand Words to Tell I Love You | 183791 | [183791-a-thousand-words-to-tell-i-love-you.json](./183791-a-thousand-words-to-tell-i-love-you.json) |
@@ -1965,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Instant | 253731 | [253731-absolute-instant.json](./253731-absolute-instant.json) |
 | Absolute Kreuzworträtsel | 92256 | [92256-absolute-kreuzwortratsel.json](./92256-absolute-kreuzwortratsel.json) |
 | Absolute Matter | 219697 | [219697-absolute-matter.json](./219697-absolute-matter.json) |
+| Absolute Patience | 419098 | [419098-absolute-patience.json](./419098-absolute-patience.json) |
 | Absolute Pinball | 12376 | [12376-absolute-pinball.json](./12376-absolute-pinball.json) |
 | Absolute RC Plane Simulator | 107034 | [107034-absolute-rc-plane-simulator.json](./107034-absolute-rc-plane-simulator.json) |
 | Absolute RC Simulator | 104560 | [104560-absolute-rc-simulator.json](./104560-absolute-rc-simulator.json) |
@@ -3844,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Hexxen: Death-Space Requiem Act1 | 379571 | [379571-aether-hexxen-death-space-requiem-act1.json](./379571-aether-hexxen-death-space-requiem-act1.json) |
 | Aether League | 382222 | [382222-aether-league.json](./382222-aether-league.json) |
 | Aether Rush | 379568 | [379568-aether-rush.json](./379568-aether-rush.json) |
+| Aether Sparks | 418416 | [418416-aether-sparks.json](./418416-aether-sparks.json) |
 | Aether Story | 138474 | [138474-aether-story.json](./138474-aether-story.json) |
 | Aether Wars | 115288 | [115288-aether-wars.json](./115288-aether-wars.json) |
 | Aether Way | 113506 | [113506-aether-way.json](./113506-aether-way.json) |
@@ -5087,6 +5090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Racing VR | 192445 | [192445-air-racing-vr.json](./192445-air-racing-vr.json) |
 | Air Raid | 11113 | [11113-air-raid.json](./11113-air-raid.json) |
 | Air Raid | 392396 | [392396-air-raid.json](./392396-air-raid.json) |
+| Air Raid 1: ReOvercharge | 419787 | [419787-air-raid-1-reovercharge.json](./419787-air-raid-1-reovercharge.json) |
 | Air Raid 3 | 68270 | [68270-air-raid-3.json](./68270-air-raid-3.json) |
 | Air Raid Over Britain | 89949 | [89949-air-raid-over-britain.json](./89949-air-raid-over-britain.json) |
 | Air Raid: This Is Not a Drill! | 52370 | [52370-air-raid-this-is-not-a-drill.json](./52370-air-raid-this-is-not-a-drill.json) |
@@ -8593,6 +8597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anaza: Kaleidoscope Special | 47537 | [47537-anaza-kaleidoscope-special.json](./47537-anaza-kaleidoscope-special.json) |
 | Anbar | 387545 | [387545-anbar.json](./387545-anbar.json) |
 | Anbennar: A Fantasy Total Conversion | 397813 | [397813-anbennar-a-fantasy-total-conversion.json](./397813-anbennar-a-fantasy-total-conversion.json) |
+| Anbot | 419099 | [419099-anbot.json](./419099-anbot.json) |
 | Anceder | 105204 | [105204-anceder.json](./105204-anceder.json) |
 | Ancestor's Legacy: Conqueror's Edition | 202221 | [202221-ancestors-legacy-conquerors-edition.json](./202221-ancestors-legacy-conquerors-edition.json) |
 | Ancestors Legacy Multiplayer Open Beta | 86625 | [86625-ancestors-legacy-multiplayer-open-beta.json](./86625-ancestors-legacy-multiplayer-open-beta.json) |
@@ -11243,6 +11248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarelle | 156573 | [156573-aquarelle.json](./156573-aquarelle.json) |
 | Aquaria | 297464 | [297464-aquaria.json](./297464-aquaria.json) |
 | Aquaria | 7406 | [7406-aquaria.json](./7406-aquaria.json) |
+| Aquarian Age: Tokyo Wars | 419084 | [419084-aquarian-age-tokyo-wars.json](./419084-aquarian-age-tokyo-wars.json) |
 | Aquaris | 109044 | [109044-aquaris.json](./109044-aquaris.json) |
 | Aquarist: Japanese Garden | 298389 | [298389-aquarist-japanese-garden.json](./298389-aquarist-japanese-garden.json) |
 | Aquarist: My First Job | 170934 | [170934-aquarist-my-first-job.json](./170934-aquarist-my-first-job.json) |
@@ -12101,6 +12107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Board | 333362 | [333362-arcane-board.json](./333362-arcane-board.json) |
 | Arcane Chaos | 291770 | [291770-arcane-chaos.json](./291770-arcane-chaos.json) |
 | Arcane Chaos | 322247 | [322247-arcane-chaos.json](./322247-arcane-chaos.json) |
+| Arcane Commander: Overdrive | 419058 | [419058-arcane-commander-overdrive.json](./419058-arcane-commander-overdrive.json) |
 | Arcane Coven | 350441 | [350441-arcane-coven.json](./350441-arcane-coven.json) |
 | Arcane Dice Wars: A Villain's Heart | 332629 | [332629-arcane-dice-wars-a-villains-heart.json](./332629-arcane-dice-wars-a-villains-heart.json) |
 | Arcane Dimensions | 132820 | [132820-arcane-dimensions.json](./132820-arcane-dimensions.json) |
@@ -14740,6 +14747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids | 319567 | [319567-asteroids.json](./319567-asteroids.json) |
 | Asteroids | 319568 | [319568-asteroids.json](./319568-asteroids.json) |
 | Asteroids | 376807 | [376807-asteroids.json](./376807-asteroids.json) |
+| Asteroids | 419743 | [419743-asteroids.json](./419743-asteroids.json) |
 | Asteroids | 80932 | [80932-asteroids.json](./80932-asteroids.json) |
 | Asteroids | 89564 | [89564-asteroids.json](./89564-asteroids.json) |
 | Asteroids & Deluxe | 73043 | [73043-asteroids-and-deluxe.json](./73043-asteroids-and-deluxe.json) |
@@ -15115,6 +15123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astromech | 363924 | [363924-astromech.json](./363924-astromech.json) |
 | Astromeda | 221667 | [221667-astromeda.json](./221667-astromeda.json) |
 | AstroMenace | 187894 | [187894-astromenace.json](./187894-astromenace.json) |
+| Astromental Incremental | 418388 | [418388-astromental-incremental.json](./418388-astromental-incremental.json) |
 | Astrometica | 250781 | [250781-astrometica.json](./250781-astrometica.json) |
 | Astromine | 381078 | [381078-astromine.json](./381078-astromine.json) |
 | Astrominer | 258105 | [258105-astrominer.json](./258105-astrominer.json) |
