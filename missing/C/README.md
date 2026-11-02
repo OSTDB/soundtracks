@@ -2703,6 +2703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carriages | 420477 | [420477-carriages.json](./420477-carriages.json) |
 | Carrie the Caregiver: Episode 1 - Infancy | 95416 | [95416-carrie-the-caregiver-episode-1-infancy.json](./95416-carrie-the-caregiver-episode-1-infancy.json) |
 | Carrie's Order Up! | 24812 | [24812-carries-order-up.json](./24812-carries-order-up.json) |
+| Carried Away: Winter Sports | 84049 | [84049-carried-away-winter-sports.json](./84049-carried-away-winter-sports.json) |
 | Carrier | 55181 | [55181-carrier.json](./55181-carrier.json) |
 | Carrier | 6720 | [6720-carrier.json](./6720-carrier.json) |
 | Carrier | 71183 | [71183-carrier.json](./71183-carrier.json) |
@@ -5714,6 +5715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie: The Legend | 172022 | [172022-charlie-the-legend.json](./172022-charlie-the-legend.json) |
 | Charlie's Adventure | 30487 | [30487-charlies-adventure.json](./30487-charlies-adventure.json) |
 | Charlie's Angels | 228920 | [228920-charlies-angels.json](./228920-charlies-angels.json) |
+| Charlie's Angels | 84336 | [84336-charlies-angels.json](./84336-charlies-angels.json) |
 | Charlie's Angels: Road Cyclone | 23757 | [23757-charlies-angels-road-cyclone.json](./23757-charlies-angels-road-cyclone.json) |
 | Charlie's Conscious | 110638 | [110638-charlies-conscious.json](./110638-charlies-conscious.json) |
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
@@ -8119,6 +8121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella After 4 | 303292 | [303292-cinderella-after-4.json](./303292-cinderella-after-4.json) |
 | Cinderella Classic Tale | 87319 | [87319-cinderella-classic-tale.json](./87319-cinderella-classic-tale.json) |
 | Cinderella Dollhouse 2 | 50424 | [50424-cinderella-dollhouse-2.json](./50424-cinderella-dollhouse-2.json) |
+| Cinderella Escape 2 Revenge | 68490 | [68490-cinderella-escape-2-revenge.json](./68490-cinderella-escape-2-revenge.json) |
 | Cinderella Escape! R12 | 34330 | [34330-cinderella-escape-r12.json](./34330-cinderella-escape-r12.json) |
 | Cinderella Free Fall | 60193 | [60193-cinderella-free-fall.json](./60193-cinderella-free-fall.json) |
 | Cinderella Nine in August | 82121 | [82121-cinderella-nine-in-august.json](./82121-cinderella-nine-in-august.json) |
@@ -8479,6 +8482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Ultimate Content Bundle | 215562 | [215562-cities-skylines-ultimate-content-bundle.json](./215562-cities-skylines-ultimate-content-bundle.json) |
 | Cities: Skylines - World Tour Bundle | 240904 | [240904-cities-skylines-world-tour-bundle.json](./240904-cities-skylines-world-tour-bundle.json) |
 | Cities: Skylines - World Tour Bundle 2 | 243292 | [243292-cities-skylines-world-tour-bundle-2.json](./243292-cities-skylines-world-tour-bundle-2.json) |
+| Cities: Skylines - Xbox One Edition | 83511 | [83511-cities-skylines-xbox-one-edition.json](./83511-cities-skylines-xbox-one-edition.json) |
 | Cities: Skylines + Surviving Mars | 200826 | [200826-cities-skylines-surviving-mars.json](./200826-cities-skylines-surviving-mars.json) |
 | Cities: Skylines II | 240902 | [240902-cities-skylines-ii.json](./240902-cities-skylines-ii.json) |
 | Cities: Skylines II - Beach Properties | 292637 | [292637-cities-skylines-ii-beach-properties.json](./292637-cities-skylines-ii-beach-properties.json) |
@@ -10613,6 +10617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cogmount | 341638 | [341638-cogmount.json](./341638-cogmount.json) |
 | Cognition Method | 211219 | [211219-cognition-method.json](./211219-cognition-method.json) |
 | Cognition: An Erica Reed Thriller | 8426 | [8426-cognition-an-erica-reed-thriller.json](./8426-cognition-an-erica-reed-thriller.json) |
+| Cognition: An Erica Reed Thriller - Episode 1: The Hangman | 84191 | [84191-cognition-an-erica-reed-thriller-episode-1-the-hangman.json](./84191-cognition-an-erica-reed-thriller-episode-1-the-hangman.json) |
 | Cognition: An Erica Reed Thriller - Episode 2: The Wise Monkey | 114985 | [114985-cognition-an-erica-reed-thriller-episode-2-the-wise-monkey.json](./114985-cognition-an-erica-reed-thriller-episode-2-the-wise-monkey.json) |
 | Cognition: An Erica Reed Thriller - Episode 3: The Oracle | 114986 | [114986-cognition-an-erica-reed-thriller-episode-3-the-oracle.json](./114986-cognition-an-erica-reed-thriller-episode-3-the-oracle.json) |
 | Cognition: An Erica Reed Thriller - Episode 4: The Cain Killer | 114987 | [114987-cognition-an-erica-reed-thriller-episode-4-the-cain-killer.json](./114987-cognition-an-erica-reed-thriller-episode-4-the-cain-killer.json) |
@@ -19407,6 +19412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cytus II | 89095 | [89095-cytus-ii.json](./89095-cytus-ii.json) |
 | Cytus II: Miku | 358866 | [358866-cytus-ii-miku.json](./358866-cytus-ii-miku.json) |
 | Cytus Lambda | 80227 | [80227-cytus-lambda.json](./80227-cytus-lambda.json) |
+| cyubeVR | 83736 | [83736-cyubevr.json](./83736-cyubevr.json) |
 | Cyverfunk | 419630 | [419630-cyverfunk.json](./419630-cyverfunk.json) |
 | Cyvern | 39835 | [39835-cyvern.json](./39835-cyvern.json) |
 | Cyvern: The Dragon Weapons | 65404 | [65404-cyvern-the-dragon-weapons.json](./65404-cyvern-the-dragon-weapons.json) |
