@@ -3387,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maria | 308406 | [308406-maria.json](./308406-maria.json) |
 | Maria 2: Jutai Kokuchi no Nazo | 74346 | [74346-maria-2-jutai-kokuchi-no-nazo.json](./74346-maria-2-jutai-kokuchi-no-nazo.json) |
 | Maria Adventure | 220821 | [220821-maria-adventure.json](./220821-maria-adventure.json) |
+| Maria no Jisatsu | 417162 | [417162-maria-no-jisatsu.json](./417162-maria-no-jisatsu.json) |
 | Maria the Witch | 33406 | [33406-maria-the-witch.json](./33406-maria-the-witch.json) |
 | Maria Way | 254716 | [254716-maria-way.json](./254716-maria-way.json) |
 | Maria-sama ga Gyakuten | 97525 | [97525-maria-sama-ga-gyakuten.json](./97525-maria-sama-ga-gyakuten.json) |
@@ -7933,6 +7934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melee | 113544 | [113544-melee.json](./113544-melee.json) |
 | Melee Light | 334226 | [334226-melee-light.json](./334226-melee-light.json) |
 | Melee Spaceship | 326297 | [326297-melee-spaceship.json](./326297-melee-spaceship.json) |
+| Melee Unlocked | 417799 | [417799-melee-unlocked.json](./417799-melee-unlocked.json) |
 | Melfand Stories | 42526 | [42526-melfand-stories.json](./42526-melfand-stories.json) |
 | Meli | 381846 | [381846-meli.json](./381846-meli.json) |
 | Méli-Mélo: L'Odyssée de la Crème de Marrons | 357357 | [357357-meli-melo-lodyssee-de-la-creme-de-marrons.json](./357357-meli-melo-lodyssee-de-la-creme-de-marrons.json) |
@@ -8025,6 +8027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melt Away | 330896 | [330896-melt-away.json](./330896-melt-away.json) |
 | Melt Down | 294238 | [294238-melt-down.json](./294238-melt-down.json) |
 | Meltdown | 80511 | [80511-meltdown.json](./80511-meltdown.json) |
+| Meltdown Crew | 417195 | [417195-meltdown-crew.json](./417195-meltdown-crew.json) |
 | Meltdown Masters | 415885 | [415885-meltdown-masters.json](./415885-meltdown-masters.json) |
 | Melted Time | 336526 | [336526-melted-time.json](./336526-melted-time.json) |
 | Melter Man | 34411 | [34411-melter-man.json](./34411-melter-man.json) |
@@ -9200,6 +9203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug Rush | 409737 | [409737-metal-slug-rush.json](./409737-metal-slug-rush.json) |
 | Metal Slug SB Fanthology | 324895 | [324895-metal-slug-sb-fanthology.json](./324895-metal-slug-sb-fanthology.json) |
 | Metal Slug Triple Pack | 268630 | [268630-metal-slug-triple-pack.json](./268630-metal-slug-triple-pack.json) |
+| Metal Slug Ultimate Collection | 417177 | [417177-metal-slug-ultimate-collection.json](./417177-metal-slug-ultimate-collection.json) |
 | Metal Slug X | 18840 | [18840-metal-slug-x.json](./18840-metal-slug-x.json) |
 | Metal Slug X | 191478 | [191478-metal-slug-x.json](./191478-metal-slug-x.json) |
 | Metal Slug XX | 21760 | [21760-metal-slug-xx.json](./21760-metal-slug-xx.json) |
@@ -10900,6 +10904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milfvania Ep. 3 | 260323 | [260323-milfvania-ep-3.json](./260323-milfvania-ep-3.json) |
 | Milfy City | 239289 | [239289-milfy-city.json](./239289-milfy-city.json) |
 | Milfy City: Final Edition | 265575 | [265575-milfy-city-final-edition.json](./265575-milfy-city-final-edition.json) |
+| Milfy Way: Space Orgasm | 417762 | [417762-milfy-way-space-orgasm.json](./417762-milfy-way-space-orgasm.json) |
 | Milgram | 89213 | [89213-milgram.json](./89213-milgram.json) |
 | Milinda Wind - Geheimnis des Zephyros | 91810 | [91810-milinda-wind-geheimnis-des-zephyros.json](./91810-milinda-wind-geheimnis-des-zephyros.json) |
 | Milinda Wind - Geheimnis des Zephyros | 92283 | [92283-milinda-wind-geheimnis-des-zephyros.json](./92283-milinda-wind-geheimnis-des-zephyros.json) |
@@ -15204,6 +15209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters in Cards | 380844 | [380844-monsters-in-cards.json](./380844-monsters-in-cards.json) |
 | MonsterS in haha Island | 54464 | [54464-monsters-in-haha-island.json](./54464-monsters-in-haha-island.json) |
 | Monsters in Hell | 58419 | [58419-monsters-in-hell.json](./58419-monsters-in-hell.json) |
+| Monsters in Moonlight: Block Braw | 417192 | [417192-monsters-in-moonlight-block-braw.json](./417192-monsters-in-moonlight-block-braw.json) |
 | Monsters Inc.: Scream Team Training | 281988 | [281988-monsters-inc-scream-team-training.json](./281988-monsters-inc-scream-team-training.json) |
 | Monsters James P. Sullivan Stomach Doctor | 380550 | [380550-monsters-james-p-sullivan-stomach-doctor.json](./380550-monsters-james-p-sullivan-stomach-doctor.json) |
 | Monsters Lair | 356669 | [356669-monsters-lair.json](./356669-monsters-lair.json) |
@@ -19261,6 +19267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Home Town | 166144 | [166144-my-home-town.json](./166144-my-home-town.json) |
 | My Home VR | 127206 | [127206-my-home-vr.json](./127206-my-home-vr.json) |
 | My Hooptie | 369656 | [369656-my-hooptie.json](./369656-my-hooptie.json) |
+| My Horny Anime Girls | 417814 | [417814-my-horny-anime-girls.json](./417814-my-horny-anime-girls.json) |
 | My Horse | 99916 | [99916-my-horse.json](./99916-my-horse.json) |
 | My Horse & Me | 5030 | [5030-my-horse-and-me.json](./5030-my-horse-and-me.json) |
 | My Horse 3D: Best Friends | 147823 | [147823-my-horse-3d-best-friends.json](./147823-my-horse-3d-best-friends.json) |
