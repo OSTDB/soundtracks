@@ -1608,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Witch's Trial | 247201 | [247201-under-the-witchs-trial.json](./247201-under-the-witchs-trial.json) |
 | Under The Yoke | 268939 | [268939-under-the-yoke.json](./268939-under-the-yoke.json) |
 | Under Tower Idle | 405585 | [405585-under-tower-idle.json](./405585-under-tower-idle.json) |
+| Under Us | 405827 | [405827-under-us.json](./405827-under-us.json) |
 | Under Walls | 289926 | [289926-under-walls.json](./289926-under-walls.json) |
 | Under Water : Abyss Survival VR | 118081 | [118081-under-water-abyss-survival-vr.json](./118081-under-water-abyss-survival-vr.json) |
 | Under Waves | 211645 | [211645-under-waves.json](./211645-under-waves.json) |
@@ -2868,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unusual Ghost | 232008 | [232008-unusual-ghost.json](./232008-unusual-ghost.json) |
 | Unusual Night Shift | 248828 | [248828-unusual-night-shift.json](./248828-unusual-night-shift.json) |
 | Unusual Quest | 272885 | [272885-unusual-quest.json](./272885-unusual-quest.json) |
+| Unusual Tales: After Bark | 405824 | [405824-unusual-tales-after-bark.json](./405824-unusual-tales-after-bark.json) |
 | Unusual Tales: Deep Below | 380447 | [380447-unusual-tales-deep-below.json](./380447-unusual-tales-deep-below.json) |
 | Unusual Times | 221393 | [221393-unusual-times.json](./221393-unusual-times.json) |
 | Unvanquished | 139329 | [139329-unvanquished.json](./139329-unvanquished.json) |
