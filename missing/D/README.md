@@ -3112,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De-capite | 184445 | [184445-de-capite.json](./184445-de-capite.json) |
 | De-coding Armageddon | 368999 | [368999-de-coding-armageddon.json](./368999-de-coding-armageddon.json) |
 | De-Exit: Eternal Matters | 172757 | [172757-de-exit-eternal-matters.json](./172757-de-exit-eternal-matters.json) |
+| De-formers | 19588 | [19588-de-formers.json](./19588-de-formers.json) |
 | De-Ja II | 233590 | [233590-de-ja-ii.json](./233590-de-ja-ii.json) |
 | De: Yabatanien | 145548 | [145548-de-yabatanien.json](./145548-de-yabatanien.json) |
 | De:Fanastasis | 297812 | [297812-de-fanastasis.json](./297812-de-fanastasis.json) |
@@ -9193,6 +9194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diorama Maker | 291779 | [291779-diorama-maker.json](./291779-diorama-maker.json) |
 | Diorama No.1 - Blocked In | 33799 | [33799-diorama-no-1-blocked-in.json](./33799-diorama-no-1-blocked-in.json) |
 | Diorama No.3 : The Marchland | 33798 | [33798-diorama-no-3-the-marchland.json](./33798-diorama-no-3-the-marchland.json) |
+| Diorama Worlds | 29279 | [29279-diorama-worlds.json](./29279-diorama-worlds.json) |
 | Dioramos | 333556 | [333556-dioramos.json](./333556-dioramos.json) |
 | Diortem | 300797 | [300797-diortem.json](./300797-diortem.json) |
 | Dios | 141045 | [141045-dios.json](./141045-dios.json) |
@@ -11572,6 +11574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Crash: The Zombie Game | 174022 | [174022-dont-crash-the-zombie-game.json](./174022-dont-crash-the-zombie-game.json) |
 | Don't Cross the Line | 85091 | [85091-dont-cross-the-line.json](./85091-dont-cross-the-line.json) |
 | Don't Cross the Streams | 202018 | [202018-dont-cross-the-streams.json](./202018-dont-cross-the-streams.json) |
+| Don't cut your hand | 29246 | [29246-dont-cut-your-hand.json](./29246-dont-cut-your-hand.json) |
 | Don't Cut Your Hand 2 | 158729 | [158729-dont-cut-your-hand-2.json](./158729-dont-cut-your-hand-2.json) |
 | Don't Destroy Your Friends | 270024 | [270024-dont-destroy-your-friends.json](./270024-dont-destroy-your-friends.json) |
 | Don't Die | 151570 | [151570-dont-die.json](./151570-dont-die.json) |
@@ -16074,11 +16077,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DrumMania 3rdMix | 188662 | [188662-drummania-3rdmix.json](./188662-drummania-3rdmix.json) |
 | DrumMania V8 | 60432 | [60432-drummania-v8.json](./60432-drummania-v8.json) |
 | DrumMasterVR | 120035 | [120035-drummastervr.json](./120035-drummastervr.json) |
+| Drummer Talent VR | 29128 | [29128-drummer-talent-vr.json](./29128-drummer-talent-vr.json) |
 | Drump Simulator | 407362 | [407362-drump-simulator.json](./407362-drump-simulator.json) |
 | Drumpf 2: Lost, But Not Forgotten! | 120366 | [120366-drumpf-2-lost-but-not-forgotten.json](./120366-drumpf-2-lost-but-not-forgotten.json) |
 | Drumpf: Rise Up, Libertonia! | 88017 | [88017-drumpf-rise-up-libertonia.json](./88017-drumpf-rise-up-libertonia.json) |
 | Drumpfy Walls | 116061 | [116061-drumpfy-walls.json](./116061-drumpfy-walls.json) |
 | Drums | 187313 | [187313-drums.json](./187313-drums.json) |
+| Drums Hero | 29149 | [29149-drums-hero.json](./29149-drums-hero.json) |
 | Drums Hero PC | 37398 | [37398-drums-hero-pc.json](./37398-drums-hero-pc.json) |
 | Drums of War | 123803 | [123803-drums-of-war.json](./123803-drums-of-war.json) |
 | Drums of War | 307662 | [307662-drums-of-war.json](./307662-drums-of-war.json) |
