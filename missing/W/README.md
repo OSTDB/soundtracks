@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WanderLust | 169295 | [169295-wanderlust.json](./169295-wanderlust.json) |
 | Wanderlust Adventures | 30245 | [30245-wanderlust-adventures.json](./30245-wanderlust-adventures.json) |
 | Wanderlust Travel Stories | 120902 | [120902-wanderlust-travel-stories.json](./120902-wanderlust-travel-stories.json) |
+| Wanderlust: Rebirth | 15302 | [15302-wanderlust-rebirth.json](./15302-wanderlust-rebirth.json) |
 | Wanderlust: The Bermuda Secret | 187947 | [187947-wanderlust-the-bermuda-secret.json](./187947-wanderlust-the-bermuda-secret.json) |
 | Wanderlust: The Bermuda Secret - Collector's Edition | 166046 | [166046-wanderlust-the-bermuda-secret-collectors-edition.json](./166046-wanderlust-the-bermuda-secret-collectors-edition.json) |
 | Wanderlust: The City of Mists - Collector's Edition | 416137 | [416137-wanderlust-the-city-of-mists-collectors-edition.json](./416137-wanderlust-the-city-of-mists-collectors-edition.json) |
@@ -6888,6 +6889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woody Pop | 21551 | [21551-woody-pop.json](./21551-woody-pop.json) |
 | Woody Pop | 69917 | [69917-woody-pop.json](./69917-woody-pop.json) |
 | Woody Puzzle | 96825 | [96825-woody-puzzle.json](./96825-woody-puzzle.json) |
+| Woody Two-Legs: Attack of the Zombie Pirates | 2073 | [2073-woody-two-legs-attack-of-the-zombie-pirates.json](./2073-woody-two-legs-attack-of-the-zombie-pirates.json) |
 | Woody Woodpecker and Friends Volume 2 | 268527 | [268527-woody-woodpecker-and-friends-volume-2.json](./268527-woody-woodpecker-and-friends-volume-2.json) |
 | Woody Woodpecker in Crazy Castle 5 | 8012 | [8012-woody-woodpecker-in-crazy-castle-5.json](./8012-woody-woodpecker-in-crazy-castle-5.json) |
 | Woody Woodpecker in Waterfools | 135894 | [135894-woody-woodpecker-in-waterfools.json](./135894-woody-woodpecker-in-waterfools.json) |
@@ -7376,6 +7378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World at War: WW2 Strategy MMO | 141899 | [141899-world-at-war-ww2-strategy-mmo.json](./141899-world-at-war-ww2-strategy-mmo.json) |
 | World Baseball Stars | 234443 | [234443-world-baseball-stars.json](./234443-world-baseball-stars.json) |
 | World Basketball Manager 2 | 44284 | [44284-world-basketball-manager-2.json](./44284-world-basketball-manager-2.json) |
+| World Basketball Manager 2010 | 16154 | [16154-world-basketball-manager-2010.json](./16154-world-basketball-manager-2010.json) |
 | World Basketball Manager 2014 | 53113 | [53113-world-basketball-manager-2014.json](./53113-world-basketball-manager-2014.json) |
 | World Basketball Manager Tycoon | 9365 | [9365-world-basketball-manager-tycoon.json](./9365-world-basketball-manager-tycoon.json) |
 | World Basketball Tycoon | 52129 | [52129-world-basketball-tycoon.json](./52129-world-basketball-tycoon.json) |
