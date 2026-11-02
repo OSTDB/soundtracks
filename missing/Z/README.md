@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Závody o jahody | 397107 | [397107-zavody-o-jahody.json](./397107-zavody-o-jahody.json) |
 | Zawisza The Black | 393894 | [393894-zawisza-the-black.json](./393894-zawisza-the-black.json) |
 | Zax: The Alien Hunter | 22013 | [22013-zax-the-alien-hunter.json](./22013-zax-the-alien-hunter.json) |
+| Zaxoid | 392247 | [392247-zaxoid.json](./392247-zaxoid.json) |
 | Zaxterion: Space Frenzy! | 203877 | [203877-zaxterion-space-frenzy.json](./203877-zaxterion-space-frenzy.json) |
 | Zaxxon | 198659 | [198659-zaxxon.json](./198659-zaxxon.json) |
 | Zaxxon | 218290 | [218290-zaxxon.json](./218290-zaxxon.json) |
