@@ -10456,6 +10456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Emerald Rogue V2 | 308386 | [308386-pokemon-emerald-rogue-v2.json](./308386-pokemon-emerald-rogue-v2.json) |
 | Pokémon Emerald Z | 286922 | [286922-pokemon-emerald-z.json](./286922-pokemon-emerald-z.json) |
 | Pokémon Emerald: Double Edition | 296449 | [296449-pokemon-emerald-double-edition.json](./296449-pokemon-emerald-double-edition.json) |
+| Pokémon Emerental | 401514 | [401514-pokemon-emerental.json](./401514-pokemon-emerental.json) |
 | Pokemon Empire | 327882 | [327882-pokemon-empire.json](./327882-pokemon-empire.json) |
 | Pokémon Empyrean | 221394 | [221394-pokemon-empyrean.json](./221394-pokemon-empyrean.json) |
 | Pokémon Eon Guardians | 241388 | [241388-pokemon-eon-guardians.json](./241388-pokemon-eon-guardians.json) |
