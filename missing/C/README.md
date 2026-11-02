@@ -4862,6 +4862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell to Singularity: Evolution | 259562 | [259562-cell-to-singularity-evolution.json](./259562-cell-to-singularity-evolution.json) |
 | Cell Tune | 134618 | [134618-cell-tune.json](./134618-cell-tune.json) |
 | Cell Wars | 249077 | [249077-cell-wars.json](./249077-cell-wars.json) |
+| Cell: Emergence | 22326 | [22326-cell-emergence.json](./22326-cell-emergence.json) |
 | Cell: Idle Factory Incremental | 248150 | [248150-cell-idle-factory-incremental.json](./248150-cell-idle-factory-incremental.json) |
 | Cellar | 188520 | [188520-cellar.json](./188520-cellar.json) |
 | Cellar | 33323 | [33323-cellar.json](./33323-cellar.json) |
@@ -12766,6 +12767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conspiracy Field: Fog Shadow | 163879 | [163879-conspiracy-field-fog-shadow.json](./163879-conspiracy-field-fog-shadow.json) |
 | Conspiracy Girls | 158534 | [158534-conspiracy-girls.json](./158534-conspiracy-girls.json) |
 | Conspiracy Girls: The Madness of Madison Delaroux | 219228 | [219228-conspiracy-girls-the-madness-of-madison-delaroux.json](./219228-conspiracy-girls-the-madness-of-madison-delaroux.json) |
+| Conspiracy: Weapons of Mass Destruction | 22310 | [22310-conspiracy-weapons-of-mass-destruction.json](./22310-conspiracy-weapons-of-mass-destruction.json) |
 | Conspiracy! | 151638 | [151638-conspiracy.json](./151638-conspiracy.json) |
 | Conspiration: Le défi des derniers rois | 386328 | [386328-conspiration-le-defi-des-derniers-rois.json](./386328-conspiration-le-defi-des-derniers-rois.json) |
 | Conspirocracy | 90230 | [90230-conspirocracy.json](./90230-conspirocracy.json) |
@@ -18801,6 +18803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CV: Casting Voice | 62450 | [62450-cv-casting-voice.json](./62450-cv-casting-voice.json) |
 | CW: Chaco War | 37009 | [37009-cw-chaco-war.json](./37009-cw-chaco-war.json) |
 | Cx6 | 240619 | [240619-cx6.json](./240619-cx6.json) |
+| Cy Girls | 22284 | [22284-cy-girls.json](./22284-cy-girls.json) |
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
 | Cyadonia | 99658 | [99658-cyadonia.json](./99658-cyadonia.json) |
 | Cyan | 169808 | [169808-cyan.json](./169808-cyan.json) |
