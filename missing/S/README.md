@@ -10840,6 +10840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir! I'd Like to Report a Bug! | 34702 | [34702-sir-id-like-to-report-a-bug.json](./34702-sir-id-like-to-report-a-bug.json) |
 | Sir'Haxxx | 385709 | [385709-sirhaxxx.json](./385709-sirhaxxx.json) |
 | Sira | 61626 | [61626-sira.json](./61626-sira.json) |
+| Siralim | 35454 | [35454-siralim.json](./35454-siralim.json) |
 | Siralim 3 | 100422 | [100422-siralim-3.json](./100422-siralim-3.json) |
 | Siralim Ultimate | 133050 | [133050-siralim-ultimate.json](./133050-siralim-ultimate.json) |
 | Siranui: Devilish obscene prison | 97763 | [97763-siranui-devilish-obscene-prison.json](./97763-siranui-devilish-obscene-prison.json) |
@@ -18326,6 +18327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19269,6 +19271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkle | 88277 | [88277-sparkle.json](./88277-sparkle.json) |
 | Sparkle & Umbra | 387564 | [387564-sparkle-and-umbra.json](./387564-sparkle-and-umbra.json) |
 | Sparkle 2 Evo | 16697 | [16697-sparkle-2-evo.json](./16697-sparkle-2-evo.json) |
+| Sparkle 3 Genesis | 35436 | [35436-sparkle-3-genesis.json](./35436-sparkle-3-genesis.json) |
 | Sparkle 4 Tales | 116326 | [116326-sparkle-4-tales.json](./116326-sparkle-4-tales.json) |
 | Sparkle HD | 103894 | [103894-sparkle-hd.json](./103894-sparkle-hd.json) |
 | Sparkle Milla: Eight Genetic Abnormalities and a Blood Ghost | 230371 | [230371-sparkle-milla-eight-genetic-abnormalities-and-a-blood-ghost.json](./230371-sparkle-milla-eight-genetic-abnormalities-and-a-blood-ghost.json) |
@@ -29106,6 +29109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fun Maths Science Quiz | 241771 | [241771-super-fun-maths-science-quiz.json](./241771-super-fun-maths-science-quiz.json) |
 | Super Fun Soccer | 182167 | [182167-super-fun-soccer.json](./182167-super-fun-soccer.json) |
 | Super Funky Ball! | 152044 | [152044-super-funky-ball.json](./152044-super-funky-ball.json) |
+| Super Furball | 35417 | [35417-super-furball.json](./35417-super-furball.json) |
 | Super Furi Puzzles | 334833 | [334833-super-furi-puzzles.json](./334833-super-furi-puzzles.json) |
 | Super FX Zelda | 257514 | [257514-super-fx-zelda.json](./257514-super-fx-zelda.json) |
 | Super G-Man | 73110 | [73110-super-g-man.json](./73110-super-g-man.json) |
@@ -33450,6 +33454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sydney Hunter and the Shrines of Peril | 59818 | [59818-sydney-hunter-and-the-shrines-of-peril.json](./59818-sydney-hunter-and-the-shrines-of-peril.json) |
 | Sydney Hunter Collection | 251715 | [251715-sydney-hunter-collection.json](./251715-sydney-hunter-collection.json) |
 | Sydney Shark | 275486 | [275486-sydney-shark.json](./275486-sydney-shark.json) |
+| Sydney's World | 35458 | [35458-sydneys-world.json](./35458-sydneys-world.json) |
 | Syke | 295522 | [295522-syke.json](./295522-syke.json) |
 | Syko Swinger | 97235 | [97235-syko-swinger.json](./97235-syko-swinger.json) |
 | SyLestia | 125957 | [125957-sylestia.json](./125957-sylestia.json) |
