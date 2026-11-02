@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Man | 208163 | [208163-ocean-man.json](./208163-ocean-man.json) |
 | Ocean Mirror | 280676 | [280676-ocean-mirror.json](./280676-ocean-mirror.json) |
 | Ocean Nomad | 106919 | [106919-ocean-nomad.json](./106919-ocean-nomad.json) |
+| Ocean Nomad: Survival on Raft | 107781 | [107781-ocean-nomad-survival-on-raft.json](./107781-ocean-nomad-survival-on-raft.json) |
 | Ocean Oddities | 402931 | [402931-ocean-oddities.json](./402931-ocean-oddities.json) |
 | Ocean of Battles | 124246 | [124246-ocean-of-battles.json](./124246-ocean-of-battles.json) |
 | Ocean of Eyes | 328957 | [328957-ocean-of-eyes.json](./328957-ocean-of-eyes.json) |
@@ -3279,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Kreep | 33418 | [33418-operation-kreep.json](./33418-operation-kreep.json) |
 | Operation Kyiv | 278254 | [278254-operation-kyiv.json](./278254-operation-kyiv.json) |
 | Operation Logic Bomb | 42653 | [42653-operation-logic-bomb.json](./42653-operation-logic-bomb.json) |
+| Operation Lone Wolf | 107834 | [107834-operation-lone-wolf.json](./107834-operation-lone-wolf.json) |
 | Operation Mania | 72959 | [72959-operation-mania.json](./72959-operation-mania.json) |
 | Operation Marakudja | 289428 | [289428-operation-marakudja.json](./289428-operation-marakudja.json) |
 | Operation Market Garden: Drive on Arnhem, September 1944 | 25779 | [25779-operation-market-garden-drive-on-arnhem-september-1944.json](./25779-operation-market-garden-drive-on-arnhem-september-1944.json) |
@@ -3334,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Wolf Returns: First Mission - Rescue Edition | 270583 | [270583-operation-wolf-returns-first-mission-rescue-edition.json](./270583-operation-wolf-returns-first-mission-rescue-edition.json) |
 | Operation Wolfenstein | 179472 | [179472-operation-wolfenstein.json](./179472-operation-wolfenstein.json) |
 | Operation Wolfsburg | 54266 | [54266-operation-wolfsburg.json](./54266-operation-wolfsburg.json) |
+| Operation Z - For Zombies | 101557 | [101557-operation-z-for-zombies.json](./101557-operation-z-for-zombies.json) |
 | Operation Z.E.R.O.: OutNumbuh'd! | 234540 | [234540-operation-z-e-r-o-outnumbuhd.json](./234540-operation-z-e-r-o-outnumbuhd.json) |
 | Operation Zero | 333014 | [333014-operation-zero.json](./333014-operation-zero.json) |
 | Operation Zeta | 138457 | [138457-operation-zeta.json](./138457-operation-zeta.json) |
