@@ -2561,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Puppet Reika | 64209 | [64209-virtual-puppet-reika.json](./64209-virtual-puppet-reika.json) |
 | Virtual Race Car Engineer 2018 | 74361 | [74361-virtual-race-car-engineer-2018.json](./74361-virtual-race-car-engineer-2018.json) |
 | Virtual Race Car Engineer 2020 | 237454 | [237454-virtual-race-car-engineer-2020.json](./237454-virtual-race-car-engineer-2020.json) |
+| Virtual Reality Girls | 75717 | [75717-virtual-reality-girls.json](./75717-virtual-reality-girls.json) |
 | Virtual Reality Girls 2 | 77174 | [77174-virtual-reality-girls-2.json](./77174-virtual-reality-girls-2.json) |
 | Virtual Reality Studio | 131498 | [131498-virtual-reality-studio.json](./131498-virtual-reality-studio.json) |
 | Virtual Reality Studio 2.0 | 100130 | [100130-virtual-reality-studio-2-0.json](./100130-virtual-reality-studio-2-0.json) |
