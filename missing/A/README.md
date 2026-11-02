@@ -1560,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.V.A: Guns on Fire | 55245 | [55245-a-v-a-guns-on-fire.json](./55245-a-v-a-guns-on-fire.json) |
 | A.V.I | 149840 | [149840-a-v-i.json](./149840-a-v-i.json) |
 | A.void | 128428 | [128428-a-void.json](./128428-a-void.json) |
+| A.W. Phoenix Festa | 22044 | [22044-a-w-phoenix-festa.json](./22044-a-w-phoenix-festa.json) |
 | A.W.O.L. | 193214 | [193214-a-w-o-l.json](./193214-a-w-o-l.json) |
 | A'Jatt | 372556 | [372556-ajatt.json](./372556-ajatt.json) |
 | A(s)century | 135625 | [135625-a-s-century.json](./135625-a-s-century.json) |
