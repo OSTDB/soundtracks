@@ -2207,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Leaves | 123264 | [123264-one-leaves.json](./123264-one-leaves.json) |
 | One Left | 184458 | [184458-one-left.json](./184458-one-left.json) |
 | One Life | 197239 | [197239-one-life.json](./197239-one-life.json) |
+| One Life | 426413 | [426413-one-life.json](./426413-one-life.json) |
 | One Life Clicker | 261153 | [261153-one-life-clicker.json](./261153-one-life-clicker.json) |
 | One Life to Alice | 260228 | [260228-one-life-to-alice.json](./260228-one-life-to-alice.json) |
 | One Life: Parkour Project | 318781 | [318781-one-life-parkour-project.json](./318781-one-life-parkour-project.json) |
@@ -2291,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Trail | 400855 | [400855-one-more-trail.json](./400855-one-more-trail.json) |
 | One More Treasure | 369133 | [369133-one-more-treasure.json](./369133-one-more-treasure.json) |
 | One More Try | 244135 | [244135-one-more-try.json](./244135-one-more-try.json) |
+| One More Try | 426432 | [426432-one-more-try.json](./426432-one-more-try.json) |
 | One More Wipe! | 389594 | [389594-one-more-wipe.json](./389594-one-more-wipe.json) |
 | One More Wish | 284276 | [284276-one-more-wish.json](./284276-one-more-wish.json) |
 | One more! | 304849 | [304849-one-more.json](./304849-one-more.json) |
