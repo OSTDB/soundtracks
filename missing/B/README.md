@@ -1884,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bananounce | 320974 | [320974-bananounce.json](./320974-bananounce.json) |
 | Banban Isle Rangers | 405584 | [405584-banban-isle-rangers.json](./405584-banban-isle-rangers.json) |
 | Banbard | 250842 | [250842-banbard.json](./250842-banbard.json) |
+| Bancho the Chef | 404045 | [404045-bancho-the-chef.json](./404045-bancho-the-chef.json) |
 | Banchou Tactics | 202786 | [202786-banchou-tactics.json](./202786-banchou-tactics.json) |
 | Banchou Tactics: Lion Heart | 418327 | [418327-banchou-tactics-lion-heart.json](./418327-banchou-tactics-lion-heart.json) |
 | Banco Imobiliário 2000 | 187876 | [187876-banco-imobiliario-2000.json](./187876-banco-imobiliario-2000.json) |
@@ -3111,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BathDad | 311873 | [311873-bathdad.json](./311873-bathdad.json) |
 | BathDoom | 254306 | [254306-bathdoom.json](./254306-bathdoom.json) |
 | Bathhouse Creatures | 331274 | [331274-bathhouse-creatures.json](./331274-bathhouse-creatures.json) |
+| Bathory: Heritage of Blood | 404023 | [404023-bathory-heritage-of-blood.json](./404023-bathory-heritage-of-blood.json) |
 | Bathory: The Bloody Countess | 32418 | [32418-bathory-the-bloody-countess.json](./32418-bathory-the-bloody-countess.json) |
 | Bathos | 92842 | [92842-bathos.json](./92842-bathos.json) |
 | Bathotel | 202495 | [202495-bathotel.json](./202495-bathotel.json) |
@@ -7191,6 +7193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Sea | 14301 | [14301-big-sea.json](./14301-big-sea.json) |
 | Big Sea Fishing | 342263 | [342263-big-sea-fishing.json](./342263-big-sea-fishing.json) |
 | Big Sea: The Better One Will Win | 69215 | [69215-big-sea-the-better-one-will-win.json](./69215-big-sea-the-better-one-will-win.json) |
+| Big Shark | 404020 | [404020-big-shark.json](./404020-big-shark.json) |
 | Big Shot Basketball | 116160 | [116160-big-shot-basketball.json](./116160-big-shot-basketball.json) |
 | Big Shot Boxing | 88993 | [88993-big-shot-boxing.json](./88993-big-shot-boxing.json) |
 | Big Shot Swish | 120804 | [120804-big-shot-swish.json](./120804-big-shot-swish.json) |
@@ -7457,6 +7460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billion Bastard Bots | 219207 | [219207-billion-bastard-bots.json](./219207-billion-bastard-bots.json) |
 | Billion Beat | 125040 | [125040-billion-beat.json](./125040-billion-beat.json) |
 | Billion Bounces | 382334 | [382334-billion-bounces.json](./382334-billion-bounces.json) |
+| Billion Citizens | 404028 | [404028-billion-citizens.json](./404028-billion-citizens.json) |
 | Billion Egg Farm | 407445 | [407445-billion-egg-farm.json](./407445-billion-egg-farm.json) |
 | Billion Road | 109474 | [109474-billion-road.json](./109474-billion-road.json) |
 | Billionaire | 77137 | [77137-billionaire.json](./77137-billionaire.json) |
@@ -10536,6 +10540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodbark | 339221 | [339221-bloodbark.json](./339221-bloodbark.json) |
 | BloodBasket | 364070 | [364070-bloodbasket.json](./364070-bloodbasket.json) |
 | Bloodbath | 183067 | [183067-bloodbath.json](./183067-bloodbath.json) |
+| Bloodbath | 404014 | [404014-bloodbath.json](./404014-bloodbath.json) |
 | Bloodbath | 9416 | [9416-bloodbath.json](./9416-bloodbath.json) |
 | Bloodbath Kavkaz | 26897 | [26897-bloodbath-kavkaz.json](./26897-bloodbath-kavkaz.json) |
 | Bloodbath Requiem | 81978 | [81978-bloodbath-requiem.json](./81978-bloodbath-requiem.json) |
@@ -13236,6 +13241,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowels of the Beast | 283801 | [283801-bowels-of-the-beast.json](./283801-bowels-of-the-beast.json) |
 | Bowels of the Ocean | 165481 | [165481-bowels-of-the-ocean.json](./165481-bowels-of-the-ocean.json) |
 | Bowerwhelm | 202423 | [202423-bowerwhelm.json](./202423-bowerwhelm.json) |
+| Bowja the Ninja 2 in Bigman's Compound | 404054 | [404054-bowja-the-ninja-2-in-bigmans-compound.json](./404054-bowja-the-ninja-2-in-bigmans-compound.json) |
+| Bowja the Ninja on Factory Island | 404022 | [404022-bowja-the-ninja-on-factory-island.json](./404022-bowja-the-ninja-on-factory-island.json) |
 | Bowl 'Em Down | 240106 | [240106-bowl-em-down.json](./240106-bowl-em-down.json) |
 | Bowl Big | 411351 | [411351-bowl-big.json](./411351-bowl-big.json) |
 | Bowl Bound College Football | 34541 | [34541-bowl-bound-college-football.json](./34541-bowl-bound-college-football.json) |
