@@ -5541,7 +5541,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6401,6 +6400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medabots Infinity | 3999 | [3999-medabots-infinity.json](./3999-medabots-infinity.json) |
 | Medabots Survivors | 392818 | [392818-medabots-survivors.json](./392818-medabots-survivors.json) |
 | Medabots: Metabee | 7583 | [7583-medabots-metabee.json](./7583-medabots-metabee.json) |
+| Medabots: Metabee & Rokusho | 85617 | [85617-medabots-metabee-and-rokusho.json](./85617-medabots-metabee-and-rokusho.json) |
 | Medabots: Robattle 3D | 59828 | [59828-medabots-robattle-3d.json](./59828-medabots-robattle-3d.json) |
 | Medabots: Rokusho | 49235 | [49235-medabots-rokusho.json](./49235-medabots-rokusho.json) |
 | Medal Bound | 245327 | [245327-medal-bound.json](./245327-medal-bound.json) |
@@ -11517,6 +11517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Story Mode - Episode 6: A Portal to Mystery | 127054 | [127054-minecraft-story-mode-episode-6-a-portal-to-mystery.json](./127054-minecraft-story-mode-episode-6-a-portal-to-mystery.json) |
 | Minecraft: Story Mode - Episode 7: Access Denied | 127055 | [127055-minecraft-story-mode-episode-7-access-denied.json](./127055-minecraft-story-mode-episode-7-access-denied.json) |
 | Minecraft: Story Mode - Season Two | 44158 | [44158-minecraft-story-mode-season-two.json](./44158-minecraft-story-mode-season-two.json) |
+| Minecraft: Story Mode - The Complete Adventure | 85611 | [85611-minecraft-story-mode-the-complete-adventure.json](./85611-minecraft-story-mode-the-complete-adventure.json) |
 | Minecraft: Story Mode Season Two - Episode 1: Hero in Residence | 91298 | [91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json](./91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json) |
 | Minecraft: Story Mode Season Two - Episode 2: Giant Consequences | 81099 | [81099-minecraft-story-mode-season-two-episode-2-giant-consequences.json](./81099-minecraft-story-mode-season-two-episode-2-giant-consequences.json) |
 | Minecraft: Story Mode Season Two - Episode 3: Jailhouse Block | 81098 | [81098-minecraft-story-mode-season-two-episode-3-jailhouse-block.json](./81098-minecraft-story-mode-season-two-episode-3-jailhouse-block.json) |
@@ -15831,6 +15832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphatrons Arachnid | 198826 | [198826-morphatrons-arachnid.json](./198826-morphatrons-arachnid.json) |
 | Morphatrons Raptor | 198827 | [198827-morphatrons-raptor.json](./198827-morphatrons-raptor.json) |
 | MorphaVerse | 285714 | [285714-morphaverse.json](./285714-morphaverse.json) |
+| Morphblade | 27659 | [27659-morphblade.json](./27659-morphblade.json) |
 | Morphcat Games Collection 1 | 191899 | [191899-morphcat-games-collection-1.json](./191899-morphcat-games-collection-1.json) |
 | Morphê | 23327 | [23327-morphe.json](./23327-morphe.json) |
 | Morpheus | 398019 | [398019-morpheus.json](./398019-morpheus.json) |
@@ -16648,6 +16650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorsport Manager - GT Series | 53365 | [53365-motorsport-manager-gt-series.json](./53365-motorsport-manager-gt-series.json) |
 | Motorsport Manager 2 | 408153 | [408153-motorsport-manager-2.json](./408153-motorsport-manager-2.json) |
 | Motorsport Manager 4 | 267311 | [267311-motorsport-manager-4.json](./267311-motorsport-manager-4.json) |
+| Motorsport Manager Mobile 2 | 82726 | [82726-motorsport-manager-mobile-2.json](./82726-motorsport-manager-mobile-2.json) |
 | Motorsport Manager Mobile 3 | 105772 | [105772-motorsport-manager-mobile-3.json](./105772-motorsport-manager-mobile-3.json) |
 | Motorsport Manager: Challenge Pack | 163647 | [163647-motorsport-manager-challenge-pack.json](./163647-motorsport-manager-challenge-pack.json) |
 | Motorsport Manager: Create Your Own Team | 163648 | [163648-motorsport-manager-create-your-own-team.json](./163648-motorsport-manager-create-your-own-team.json) |
@@ -18393,6 +18396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutilate-a-Doll 2 | 95937 | [95937-mutilate-a-doll-2.json](./95937-mutilate-a-doll-2.json) |
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
 | Mutiny Island | 120016 | [120016-mutiny-island.json](./120016-mutiny-island.json) |
+| Mutiny!! | 83823 | [83823-mutiny.json](./83823-mutiny.json) |
 | Mutiny!!: Grozdana Kakra - Bonus Route | 174515 | [174515-mutiny-grozdana-kakra-bonus-route.json](./174515-mutiny-grozdana-kakra-bonus-route.json) |
 | Mutland | 113307 | [113307-mutland.json](./113307-mutland.json) |
 | MutoReRe | 85975 | [85975-mutorere.json](./85975-mutorere.json) |
