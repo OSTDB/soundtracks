@@ -3924,6 +3924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just one, must choose | 135050 | [135050-just-one-must-choose.json](./135050-just-one-must-choose.json) |
 | Just Passing | 176344 | [176344-just-passing.json](./176344-just-passing.json) |
 | Just Passing Chapter 2 | 307698 | [307698-just-passing-chapter-2.json](./307698-just-passing-chapter-2.json) |
+| Just Pickin' Apples | 426447 | [426447-just-pickin-apples.json](./426447-just-pickin-apples.json) |
 | Just Pizza | 309183 | [309183-just-pizza.json](./309183-just-pizza.json) |
 | Just Place Brain Training One Shot | 371421 | [371421-just-place-brain-training-one-shot.json](./371421-just-place-brain-training-one-shot.json) |
 | Just Platformer 100 | 325497 | [325497-just-platformer-100.json](./325497-just-platformer-100.json) |
