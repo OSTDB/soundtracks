@@ -2962,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gentleman Dress Up | 227927 | [227927-gentleman-dress-up.json](./227927-gentleman-dress-up.json) |
 | Gentlemen Dispute | 136086 | [136086-gentlemen-dispute.json](./136086-gentlemen-dispute.json) |
 | Gentlemen of Fortune: Maelstrom | 176651 | [176651-gentlemen-of-fortune-maelstrom.json](./176651-gentlemen-of-fortune-maelstrom.json) |
+| Gentlemen! | 10359 | [10359-gentlemen.json](./10359-gentlemen.json) |
 | Gentlemen's Club | 286415 | [286415-gentlemens-club.json](./286415-gentlemens-club.json) |
 | Gentlemen's Puzzle Club | 252254 | [252254-gentlemens-puzzle-club.json](./252254-gentlemens-puzzle-club.json) |
 | GentleMoon 2 | 32902 | [32902-gentlemoon-2.json](./32902-gentlemoon-2.json) |
@@ -6997,6 +6998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Government Simulator | 74673 | [74673-government-simulator.json](./74673-government-simulator.json) |
 | Government Simulator 2 | 219407 | [219407-government-simulator-2.json](./219407-government-simulator-2.json) |
 | Government X | 244481 | [244481-government-x.json](./244481-government-x.json) |
+| Governor of Poker | 10374 | [10374-governor-of-poker.json](./10374-governor-of-poker.json) |
 | Governor of Poker 3 | 33663 | [33663-governor-of-poker-3.json](./33663-governor-of-poker-3.json) |
 | Governor of the West | 292632 | [292632-governor-of-the-west.json](./292632-governor-of-the-west.json) |
 | Gowf: A Golf Adventure | 168601 | [168601-gowf-a-golf-adventure.json](./168601-gowf-a-golf-adventure.json) |
@@ -8105,6 +8107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Battles of Carolus XII | 147067 | [147067-great-battles-of-carolus-xii.json](./147067-great-battles-of-carolus-xii.json) |
 | Great Battles of the American Civil War | 125773 | [125773-great-battles-of-the-american-civil-war.json](./125773-great-battles-of-the-american-civil-war.json) |
 | Great Battles of the American Civil War | 209776 | [209776-great-battles-of-the-american-civil-war.json](./209776-great-battles-of-the-american-civil-war.json) |
+| Great Battles of WWII: Stalingrad | 25125 | [25125-great-battles-of-wwii-stalingrad.json](./25125-great-battles-of-wwii-stalingrad.json) |
 | Great Battles: Battle of Tobruk | 11109 | [11109-great-battles-battle-of-tobruk.json](./11109-great-battles-battle-of-tobruk.json) |
 | Great Big War Game | 16399 | [16399-great-big-war-game.json](./16399-great-big-war-game.json) |
 | Great Bishi Bashi Champ | 321128 | [321128-great-bishi-bashi-champ.json](./321128-great-bishi-bashi-champ.json) |
@@ -10112,6 +10115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunclone Arena | 389647 | [389647-gunclone-arena.json](./389647-gunclone-arena.json) |
 | Guncom 2 | 43532 | [43532-guncom-2.json](./43532-guncom-2.json) |
 | Guncotton | 270850 | [270850-guncotton.json](./270850-guncotton.json) |
+| Guncraft | 10382 | [10382-guncraft.json](./10382-guncraft.json) |
 | Guncrafter | 343805 | [343805-guncrafter.json](./343805-guncrafter.json) |
 | GunCrank | 414292 | [414292-guncrank.json](./414292-guncrank.json) |
 | Guncrypt | 405589 | [405589-guncrypt.json](./405589-guncrypt.json) |
@@ -10337,6 +10341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns and Grapples | 152363 | [152363-guns-and-grapples.json](./152363-guns-and-grapples.json) |
 | Guns and Lords | 196537 | [196537-guns-and-lords.json](./196537-guns-and-lords.json) |
 | Guns and Nuns: Storming Hell | 381085 | [381085-guns-and-nuns-storming-hell.json](./381085-guns-and-nuns-storming-hell.json) |
+| Guns and Robots | 10384 | [10384-guns-and-robots.json](./10384-guns-and-robots.json) |
 | Guns and Spookies | 348151 | [348151-guns-and-spookies.json](./348151-guns-and-spookies.json) |
 | Guns and Spurs | 50372 | [50372-guns-and-spurs.json](./50372-guns-and-spurs.json) |
 | Guns and Spurs 2 | 174869 | [174869-guns-and-spurs-2.json](./174869-guns-and-spurs-2.json) |
@@ -10530,6 +10535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gurugedara | 61620 | [61620-gurugedara.json](./61620-gurugedara.json) |
 | Guruguru Animals | 96268 | [96268-guruguru-animals.json](./96268-guruguru-animals.json) |
 | Guruguru Tamagotchi! | 77578 | [77578-guruguru-tamagotchi.json](./77578-guruguru-tamagotchi.json) |
+| Gurumin 3D: A Monstrous Adventure | 24956 | [24956-gurumin-3d-a-monstrous-adventure.json](./24956-gurumin-3d-a-monstrous-adventure.json) |
 | Gurumin: A Monstrous Adventure | 9614 | [9614-gurumin-a-monstrous-adventure.json](./9614-gurumin-a-monstrous-adventure.json) |
 | Gururin | 40123 | [40123-gururin.json](./40123-gururin.json) |
 | Gururin World | 286633 | [286633-gururin-world.json](./286633-gururin-world.json) |
