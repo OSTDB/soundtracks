@@ -4234,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death in the Caribbean | 23243 | [23243-death-in-the-caribbean.json](./23243-death-in-the-caribbean.json) |
 | Death in the Manor | 375227 | [375227-death-in-the-manor.json](./375227-death-in-the-manor.json) |
 | Death in the Night | 215538 | [215538-death-in-the-night.json](./215538-death-in-the-night.json) |
+| Death in the Water | 122793 | [122793-death-in-the-water.json](./122793-death-in-the-water.json) |
 | Death in the Water 2 | 222355 | [222355-death-in-the-water-2.json](./222355-death-in-the-water-2.json) |
 | Death in Unison | 301383 | [301383-death-in-unison.json](./301383-death-in-unison.json) |
 | Death In Your Dice | 334740 | [334740-death-in-your-dice.json](./334740-death-in-your-dice.json) |
@@ -8173,6 +8174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Bücher Luzifers | 268865 | [268865-die-bucher-luzifers.json](./268865-die-bucher-luzifers.json) |
 | Die Bücher Luzifers 2 | 268871 | [268871-die-bucher-luzifers-2.json](./268871-die-bucher-luzifers-2.json) |
 | Die by Anything | 328099 | [328099-die-by-anything.json](./328099-die-by-anything.json) |
+| Die by the Blade | 122449 | [122449-die-by-the-blade.json](./122449-die-by-the-blade.json) |
 | Die by the Sword: Limb from Limb | 10913 | [10913-die-by-the-sword-limb-from-limb.json](./10913-die-by-the-sword-limb-from-limb.json) |
 | Die by the Sword: White Label Edition | 137376 | [137376-die-by-the-sword-white-label-edition.json](./137376-die-by-the-sword-white-label-edition.json) |
 | Die CD-ROM mit der Maus 1 | 250609 | [250609-die-cd-rom-mit-der-maus-1.json](./250609-die-cd-rom-mit-der-maus-1.json) |
@@ -13046,6 +13048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dovez | 80607 | [80607-dovez.json](./80607-dovez.json) |
 | Dowajwo! Enjeu | 208739 | [208739-dowajwo-enjeu.json](./208739-dowajwo-enjeu.json) |
 | Down | 295887 | [295887-down.json](./295887-down.json) |
+| Down & Out | 155799 | [155799-down-and-out.json](./155799-down-and-out.json) |
 | Down Among the Dead Men | 386779 | [386779-down-among-the-dead-men.json](./386779-down-among-the-dead-men.json) |
 | Down Beneath | 179725 | [179725-down-beneath.json](./179725-down-beneath.json) |
 | Down Fall | 203246 | [203246-down-fall.json](./203246-down-fall.json) |
