@@ -6517,6 +6517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth Siege Atlantis | 96521 | [96521-depth-siege-atlantis.json](./96521-depth-siege-atlantis.json) |
 | Depth VR | 31098 | [31098-depth-vr.json](./31098-depth-vr.json) |
 | Depth-Blind | 326565 | [326565-depth-blind.json](./326565-depth-blind.json) |
+| Depth-Bound | 402076 | [402076-depth-bound.json](./402076-depth-bound.json) |
 | Depth: Aquatic Stealth | 79194 | [79194-depth-aquatic-stealth.json](./79194-depth-aquatic-stealth.json) |
 | Depth: Digital Deluxe Edition | 52889 | [52889-depth-digital-deluxe-edition.json](./52889-depth-digital-deluxe-edition.json) |
 | Depth:Origin | 351787 | [351787-depth-origin.json](./351787-depth-origin.json) |
@@ -16128,6 +16129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drudge | 388738 | [388738-drudge.json](./388738-drudge.json) |
 | Drug Business | 369040 | [369040-drug-business.json](./369040-drug-business.json) |
 | Drug Dealer 2049 | 421459 | [421459-drug-dealer-2049.json](./421459-drug-dealer-2049.json) |
+| Drug Dealer Empire | 402061 | [402061-drug-dealer-empire.json](./402061-drug-dealer-empire.json) |
 | Drug Dealer Manager | 217264 | [217264-drug-dealer-manager.json](./217264-drug-dealer-manager.json) |
 | Drug Dealer Sim: Street Hustle | 295761 | [295761-drug-dealer-sim-street-hustle.json](./295761-drug-dealer-sim-street-hustle.json) |
 | Drug Dealer Simulator | 114830 | [114830-drug-dealer-simulator.json](./114830-drug-dealer-simulator.json) |
