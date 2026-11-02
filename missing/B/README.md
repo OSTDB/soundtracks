@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1870,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Band Mates | 386414 | [386414-band-mates.json](./386414-band-mates.json) |
 | Band of Badasses | 355138 | [355138-band-of-badasses.json](./355138-band-of-badasses.json) |
 | Band of Brothers | 148924 | [148924-band-of-brothers.json](./148924-band-of-brothers.json) |
+| Band of Bugs | 22022 | [22022-band-of-bugs.json](./22022-band-of-bugs.json) |
 | Band of Crusaders | 339234 | [339234-band-of-crusaders.json](./339234-band-of-crusaders.json) |
 | Band of Drones | 35578 | [35578-band-of-drones.json](./35578-band-of-drones.json) |
 | Band of Monsters | 38950 | [38950-band-of-monsters.json](./38950-band-of-monsters.json) |
@@ -3282,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle | 344392 | [344392-battle.json](./344392-battle.json) |
 | Battle 100 | 103818 | [103818-battle-100.json](./103818-battle-100.json) |
 | Battle 3D: Robots Sky | 138169 | [138169-battle-3d-robots-sky.json](./138169-battle-3d-robots-sky.json) |
+| Battle Academy | 17175 | [17175-battle-academy.json](./17175-battle-academy.json) |
 | Battle Academy | 200206 | [200206-battle-academy.json](./200206-battle-academy.json) |
 | Battle Academy | 328037 | [328037-battle-academy.json](./328037-battle-academy.json) |
 | Battle Academy 2: Battle of Kursk | 168438 | [168438-battle-academy-2-battle-of-kursk.json](./168438-battle-academy-2-battle-of-kursk.json) |
@@ -3611,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Britain | 371844 | [371844-battle-of-britain.json](./371844-battle-of-britain.json) |
 | Battle of Britain | 386810 | [386810-battle-of-britain.json](./386810-battle-of-britain.json) |
 | Battle of Britain | 82058 | [82058-battle-of-britain.json](./82058-battle-of-britain.json) |
+| Battle of Britain II: Wings of Victory | 22512 | [22512-battle-of-britain-ii-wings-of-victory.json](./22512-battle-of-britain-ii-wings-of-victory.json) |
 | Battle of Britain, Norway and Atlantic | 226244 | [226244-battle-of-britain-norway-and-atlantic.json](./226244-battle-of-britain-norway-and-atlantic.json) |
 | Battle of Castles | 142760 | [142760-battle-of-castles.json](./142760-battle-of-castles.json) |
 | Battle of Cubes | 90173 | [90173-battle-of-cubes.json](./90173-battle-of-cubes.json) |
@@ -8904,6 +8908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Flash Death | 151278 | [151278-blade-flash-death.json](./151278-blade-flash-death.json) |
 | Blade Force | 11860 | [11860-blade-force.json](./11860-blade-force.json) |
 | Blade Fury | 256946 | [256946-blade-fury.json](./256946-blade-fury.json) |
+| Blade II | 22220 | [22220-blade-ii.json](./22220-blade-ii.json) |
 | Blade II: The Return of Evil | 57547 | [57547-blade-ii-the-return-of-evil.json](./57547-blade-ii-the-return-of-evil.json) |
 | Blade Jumper | 215486 | [215486-blade-jumper.json](./215486-blade-jumper.json) |
 | Blade Kitten: Dirty Angels | 62089 | [62089-blade-kitten-dirty-angels.json](./62089-blade-kitten-dirty-angels.json) |
@@ -9208,6 +9213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastful | 147122 | [147122-blastful.json](./147122-blastful.json) |
 | Blastgrid | 303365 | [303365-blastgrid.json](./303365-blastgrid.json) |
 | Blasting Agent | 57956 | [57956-blasting-agent.json](./57956-blasting-agent.json) |
+| Blasting Agent: Ultimate Edition | 22034 | [22034-blasting-agent-ultimate-edition.json](./22034-blasting-agent-ultimate-edition.json) |
 | Blasting Bad | 326112 | [326112-blasting-bad.json](./326112-blasting-bad.json) |
 | Blasting Courier | 181047 | [181047-blasting-courier.json](./181047-blasting-courier.json) |
 | Blastlane Racers | 421462 | [421462-blastlane-racers.json](./421462-blastlane-racers.json) |
@@ -11717,6 +11723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombasm | 58562 | [58562-bombasm.json](./58562-bombasm.json) |
 | Bombastar | 379008 | [379008-bombastar.json](./379008-bombastar.json) |
 | Bombastic | 178493 | [178493-bombastic.json](./178493-bombastic.json) |
+| Bombastic | 22280 | [22280-bombastic.json](./22280-bombastic.json) |
 | Bombastic | 308253 | [308253-bombastic.json](./308253-bombastic.json) |
 | Bombastic Land | 267863 | [267863-bombastic-land.json](./267863-bombastic-land.json) |
 | Bombastic! | 103655 | [103655-bombastic.json](./103655-bombastic.json) |
@@ -17140,6 +17147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz! The Sports Quiz | 43520 | [43520-buzz-the-sports-quiz.json](./43520-buzz-the-sports-quiz.json) |
 | Buzz! The Ultimate Music Quiz | 44586 | [44586-buzz-the-ultimate-music-quiz.json](./44586-buzz-the-ultimate-music-quiz.json) |
 | Buzz!: Brain of the World | 7282 | [7282-buzz-brain-of-the-world.json](./7282-buzz-brain-of-the-world.json) |
+| Buzz!: Master Quiz | 21944 | [21944-buzz-master-quiz.json](./21944-buzz-master-quiz.json) |
 | Buzz!: quem é o génio português? | 213552 | [213552-buzz-quem-e-o-genio-portugues.json](./213552-buzz-quem-e-o-genio-portugues.json) |
 | Buzz!: Quiz TV | 7283 | [7283-buzz-quiz-tv.json](./7283-buzz-quiz-tv.json) |
 | Buzz!: Quiz TV Special Edition | 268768 | [268768-buzz-quiz-tv-special-edition.json](./268768-buzz-quiz-tv-special-edition.json) |
