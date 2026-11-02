@@ -4574,6 +4574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Skelter: Locked Up in Love – Blood High | 410471 | [410471-mary-skelter-locked-up-in-love-blood-high.json](./410471-mary-skelter-locked-up-in-love-blood-high.json) |
 | Mary Skelter: Nightmares | 19864 | [19864-mary-skelter-nightmares.json](./19864-mary-skelter-nightmares.json) |
 | Mary Skelter: Nightmares Remake | 44474 | [44474-mary-skelter-nightmares-remake.json](./44474-mary-skelter-nightmares-remake.json) |
+| Mary Wants to Play | 400589 | [400589-mary-wants-to-play.json](./400589-mary-wants-to-play.json) |
 | Mary X | 249247 | [249247-mary-x.json](./249247-mary-x.json) |
 | Mary-Kate and Ashley: Girls Night Out | 49391 | [49391-mary-kate-and-ashley-girls-night-out.json](./49391-mary-kate-and-ashley-girls-night-out.json) |
 | Mary-Kate and Ashley: Sweet 16 - Licensed to Drive | 242426 | [242426-mary-kate-and-ashley-sweet-16-licensed-to-drive.json](./242426-mary-kate-and-ashley-sweet-16-licensed-to-drive.json) |
@@ -5607,6 +5608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9810,6 +9812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey & Donald | 145210 | [145210-mickey-and-donald.json](./145210-mickey-and-donald.json) |
 | Mickey & Friends | 198815 | [198815-mickey-and-friends.json](./198815-mickey-and-friends.json) |
 | Mickey & Friends | 198816 | [198816-mickey-and-friends.json](./198816-mickey-and-friends.json) |
+| Mickey & Friends in Pillow Fight! | 400348 | [400348-mickey-and-friends-in-pillow-fight.json](./400348-mickey-and-friends-in-pillow-fight.json) |
 | Mickey & Minnie | 281882 | [281882-mickey-and-minnie.json](./281882-mickey-and-minnie.json) |
 | Mickey e Cel. Cintra | 281893 | [281893-mickey-e-cel-cintra.json](./281893-mickey-e-cel-cintra.json) |
 | Mickey in the Great Outdoors | 233960 | [233960-mickey-in-the-great-outdoors.json](./233960-mickey-in-the-great-outdoors.json) |
@@ -13867,6 +13870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mogeko Castle | 61296 | [61296-mogeko-castle.json](./61296-mogeko-castle.json) |
 | Mogh | 126526 | [126526-mogh.json](./126526-mogh.json) |
 | MoghVR | 160136 | [160136-moghvr.json](./160136-moghvr.json) |
+| Mogitate: Bearing Fruit | 400579 | [400579-mogitate-bearing-fruit.json](./400579-mogitate-bearing-fruit.json) |
 | MogMog Planet | 316034 | [316034-mogmog-planet.json](./316034-mogmog-planet.json) |
 | Mogo Invasion | 48004 | [48004-mogo-invasion.json](./48004-mogo-invasion.json) |
 | Mogrimera: Disciple of Order | 249907 | [249907-mogrimera-disciple-of-order.json](./249907-mogrimera-disciple-of-order.json) |
