@@ -1786,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rangarok End Girls | 309357 | [309357-rangarok-end-girls.json](./309357-rangarok-end-girls.json) |
 | RangBi | 297720 | [297720-rangbi.json](./297720-rangbi.json) |
 | Range Ball | 104056 | [104056-range-ball.json](./104056-range-ball.json) |
+| Range Day VR | 29303 | [29303-range-day-vr.json](./29303-range-day-vr.json) |
 | Range Game | 125837 | [125837-range-game.json](./125837-range-game.json) |
 | Range is HOT! | 146230 | [146230-range-is-hot.json](./146230-range-is-hot.json) |
 | Range Royale | 108426 | [108426-range-royale.json](./108426-range-royale.json) |
@@ -11919,6 +11920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Rich Racing | 234014 | [234014-running-rich-racing.json](./234014-running-rich-racing.json) |
 | Running Riot | 240743 | [240743-running-riot.json](./240743-running-riot.json) |
 | Running Rogue | 139371 | [139371-running-rogue.json](./139371-running-rogue.json) |
+| Running Sausage | 29214 | [29214-running-sausage.json](./29214-running-sausage.json) |
 | Running Shadow | 17985 | [17985-running-shadow.json](./17985-running-shadow.json) |
 | Running Shadow - RPG Runner | 38718 | [38718-running-shadow-rpg-runner.json](./38718-running-shadow-rpg-runner.json) |
 | Running Sheep | 25480 | [25480-running-sheep.json](./25480-running-sheep.json) |
@@ -11996,6 +11998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Commander | 265564 | [265564-rush-commander.json](./265564-rush-commander.json) |
 | Rush Delivery | 304850 | [304850-rush-delivery.json](./304850-rush-delivery.json) |
 | Rush for Berlin | 16110 | [16110-rush-for-berlin.json](./16110-rush-for-berlin.json) |
+| Rush for Berlin: Gold Edition | 29210 | [29210-rush-for-berlin-gold-edition.json](./29210-rush-for-berlin-gold-edition.json) |
 | Rush For Glory | 10803 | [10803-rush-for-glory.json](./10803-rush-for-glory.json) |
 | Rush for Gold: Alaska | 33707 | [33707-rush-for-gold-alaska.json](./33707-rush-for-gold-alaska.json) |
 | Rush for Gold: California | 33345 | [33345-rush-for-gold-california.json](./33345-rush-for-gold-california.json) |
