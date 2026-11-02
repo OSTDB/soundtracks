@@ -2312,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Civilization | 329416 | [329416-parkour-civilization.json](./329416-parkour-civilization.json) |
 | Parkour Every Day | 292167 | [292167-parkour-every-day.json](./292167-parkour-every-day.json) |
 | Parkour Flight | 86876 | [86876-parkour-flight.json](./86876-parkour-flight.json) |
+| Parkour Flight 2 | 93813 | [93813-parkour-flight-2.json](./93813-parkour-flight-2.json) |
 | Parkour Fortress: Redux | 350570 | [350570-parkour-fortress-redux.json](./350570-parkour-fortress-redux.json) |
 | Parkour Game | 156850 | [156850-parkour-game.json](./156850-parkour-game.json) |
 | Parkour Game 2 | 270957 | [270957-parkour-game-2.json](./270957-parkour-game-2.json) |
