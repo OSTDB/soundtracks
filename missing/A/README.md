@@ -1991,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute VR Experiences | 104064 | [104064-absolute-vr-experiences.json](./104064-absolute-vr-experiences.json) |
 | Absolute X | 92602 | [92602-absolute-x.json](./92602-absolute-x.json) |
 | Absolute Zero | 153078 | [153078-absolute-zero.json](./153078-absolute-zero.json) |
+| Absolute Zero | 400132 | [400132-absolute-zero.json](./400132-absolute-zero.json) |
 | Absolute-Full-Life | 316948 | [316948-absolute-full-life.json](./316948-absolute-full-life.json) |
 | Absolute: Asse raus! | 92288 | [92288-absolute-asse-raus.json](./92288-absolute-asse-raus.json) |
 | Absolute: Blazing Infinity | 78616 | [78616-absolute-blazing-infinity.json](./78616-absolute-blazing-infinity.json) |
@@ -7840,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazonia | 202189 | [202189-amazonia.json](./202189-amazonia.json) |
 | Amazônia | 94492 | [94492-amazonia.json](./94492-amazonia.json) |
 | Amazônia Viva: Animais em Extinção | 303330 | [303330-amazonia-viva-animais-em-extincao.json](./303330-amazonia-viva-animais-em-extincao.json) |
+| Amazons vs Zombies | 400592 | [400592-amazons-vs-zombies.json](./400592-amazons-vs-zombies.json) |
 | Ambar's Fate | 173807 | [173807-ambars-fate.json](./173807-ambars-fate.json) |
 | Ambassador Kane | 118835 | [118835-ambassador-kane.json](./118835-ambassador-kane.json) |
 | Amber Alert | 306398 | [306398-amber-alert.json](./306398-amber-alert.json) |
@@ -10388,6 +10390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antero Sudoku | 359363 | [359363-antero-sudoku.json](./359363-antero-sudoku.json) |
 | Anterris | 318960 | [318960-anterris.json](./318960-anterris.json) |
 | Antes todo esto era campo | 417976 | [417976-antes-todo-esto-era-campo.json](./417976-antes-todo-esto-era-campo.json) |
+| Anthalia | 400580 | [400580-anthalia.json](./400580-anthalia.json) |
 | Antharion | 64446 | [64446-antharion.json](./64446-antharion.json) |
 | AntharioN | 17227 | [17227-antharion.json](./17227-antharion.json) |
 | Antheads: It Came from the Desert II | 1061 | [1061-antheads-it-came-from-the-desert-ii.json](./1061-antheads-it-came-from-the-desert-ii.json) |
@@ -10532,6 +10535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antonball Deluxe: Fixed Gold Evil Baby Paul (Shiny) | 155546 | [155546-antonball-deluxe-fixed-gold-evil-baby-paul-shiny.json](./155546-antonball-deluxe-fixed-gold-evil-baby-paul-shiny.json) |
 | Antonblast 64 | 375976 | [375976-antonblast-64.json](./375976-antonblast-64.json) |
 | AntonDisk | 326111 | [326111-antondisk.json](./326111-antondisk.json) |
+| Antonio & Anfiloquio | 400581 | [400581-antonio-and-anfiloquio.json](./400581-antonio-and-anfiloquio.json) |
 | Antons 10 Minutes in Cool Hell | 326117 | [326117-antons-10-minutes-in-cool-hell.json](./326117-antons-10-minutes-in-cool-hell.json) |
 | AntonSneeze | 326109 | [326109-antonsneeze.json](./326109-antonsneeze.json) |
 | AntonWare | 326110 | [326110-antonware.json](./326110-antonware.json) |
@@ -11224,6 +11228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Romance: Mermaid Otome | 278886 | [278886-aqua-romance-mermaid-otome.json](./278886-aqua-romance-mermaid-otome.json) |
 | Aqua Rush | 66736 | [66736-aqua-rush.json](./66736-aqua-rush.json) |
 | Aqua Slug | 175837 | [175837-aqua-slug.json](./175837-aqua-slug.json) |
+| Aqua Teen Hunger Force Destruct-O-Thon | 400514 | [400514-aqua-teen-hunger-force-destruct-o-thon.json](./400514-aqua-teen-hunger-force-destruct-o-thon.json) |
 | Aqua Teen Hunger Force Zombie Ninja Pro-Am | 6911 | [6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json](./6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json) |
 | Aqua TV | 80908 | [80908-aqua-tv.json](./80908-aqua-tv.json) |
 | Aqua-Mix | 278012 | [278012-aqua-mix.json](./278012-aqua-mix.json) |
