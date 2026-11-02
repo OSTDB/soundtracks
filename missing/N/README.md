@@ -1513,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebula Veil | 383039 | [383039-nebula-veil.json](./383039-nebula-veil.json) |
 | Nebula Within | 137871 | [137871-nebula-within.json](./137871-nebula-within.json) |
 | Nebula's Descent | 253893 | [253893-nebulas-descent.json](./253893-nebulas-descent.json) |
+| Nebulae | 405253 | [405253-nebulae.json](./405253-nebulae.json) |
 | Nebulae | 409243 | [409243-nebulae.json](./409243-nebulae.json) |
 | Nebular Crush | 187659 | [187659-nebular-crush.json](./187659-nebular-crush.json) |
 | NebulArena | 388326 | [388326-nebularena.json](./388326-nebularena.json) |
