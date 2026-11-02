@@ -1995,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolutely Nothing Good | 414420 | [414420-absolutely-nothing-good.json](./414420-absolutely-nothing-good.json) |
 | Absolutely Perfect Specimen | 257098 | [257098-absolutely-perfect-specimen.json](./257098-absolutely-perfect-specimen.json) |
 | Absolutely: A True Crime Story | 117996 | [117996-absolutely-a-true-crime-story.json](./117996-absolutely-a-true-crime-story.json) |
+| Absolution | 412708 | [412708-absolution.json](./412708-absolution.json) |
 | Absolution of the Dead | 345661 | [345661-absolution-of-the-dead.json](./345661-absolution-of-the-dead.json) |
 | Absolved | 389697 | [389697-absolved.json](./389697-absolved.json) |
 | Absolver: Deluxe Edition | 52555 | [52555-absolver-deluxe-edition.json](./52555-absolver-deluxe-edition.json) |
@@ -9644,6 +9645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Feet Girls: The Charm Finder Quest | 386557 | [386557-anime-feet-girls-the-charm-finder-quest.json](./386557-anime-feet-girls-the-charm-finder-quest.json) |
 | Anime Fight in the Arena of Death | 105175 | [105175-anime-fight-in-the-arena-of-death.json](./105175-anime-fight-in-the-arena-of-death.json) |
 | Anime Fighting Jam | 222872 | [222872-anime-fighting-jam.json](./222872-anime-fighting-jam.json) |
+| Anime Fitness: Summer Sweat | 413360 | [413360-anime-fitness-summer-sweat.json](./413360-anime-fitness-summer-sweat.json) |
 | Anime for Sex Motel | 288890 | [288890-anime-for-sex-motel.json](./288890-anime-for-sex-motel.json) |
 | Anime Freak FX Vol. 1 | 79350 | [79350-anime-freak-fx-vol-1.json](./79350-anime-freak-fx-vol-1.json) |
 | Anime Freak FX Vol. 2 | 79735 | [79735-anime-freak-fx-vol-2.json](./79735-anime-freak-fx-vol-2.json) |
@@ -11589,6 +11591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: City Bomber | 324979 | [324979-arcade-archives-city-bomber.json](./324979-arcade-archives-city-bomber.json) |
 | Arcade Archives: City Connection | 99558 | [99558-arcade-archives-city-connection.json](./99558-arcade-archives-city-connection.json) |
 | Arcade Archives: Clu Clu Land | 68356 | [68356-arcade-archives-clu-clu-land.json](./68356-arcade-archives-clu-clu-land.json) |
+| Arcade Archives: Combat School | 412758 | [412758-arcade-archives-combat-school.json](./412758-arcade-archives-combat-school.json) |
 | Arcade Archives: Contra | 99535 | [99535-arcade-archives-contra.json](./99535-arcade-archives-contra.json) |
 | Arcade Archives: Cop 01 | 255186 | [255186-arcade-archives-cop-01.json](./255186-arcade-archives-cop-01.json) |
 | Arcade Archives: Cosmo Gang The Puzzle | 282491 | [282491-arcade-archives-cosmo-gang-the-puzzle.json](./282491-arcade-archives-cosmo-gang-the-puzzle.json) |
