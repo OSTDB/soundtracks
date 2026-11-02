@@ -2520,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neonwall VR | 110033 | [110033-neonwall-vr.json](./110033-neonwall-vr.json) |
 | NeonXSZ | 17314 | [17314-neonxsz.json](./17314-neonxsz.json) |
 | Neopets Browser | 131370 | [131370-neopets-browser.json](./131370-neopets-browser.json) |
+| Neopets Mobile | 401100 | [401100-neopets-mobile.json](./401100-neopets-mobile.json) |
 | Neopets Petpet Adventures: The Wand of Wishing | 78340 | [78340-neopets-petpet-adventures-the-wand-of-wishing.json](./78340-neopets-petpet-adventures-the-wand-of-wishing.json) |
 | Neopets: Codestone Quest | 210104 | [210104-neopets-codestone-quest.json](./210104-neopets-codestone-quest.json) |
 | Neopets: Faerie Fragments | 199906 | [199906-neopets-faerie-fragments.json](./199906-neopets-faerie-fragments.json) |
@@ -4457,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightMaresToBe | 163824 | [163824-nightmarestobe.json](./163824-nightmarestobe.json) |
 | NightmareZ | 31849 | [31849-nightmarez.json](./31849-nightmarez.json) |
 | Nightmarise | 376859 | [376859-nightmarise.json](./376859-nightmarise.json) |
+| Nightmaze | 400722 | [400722-nightmaze.json](./400722-nightmaze.json) |
 | Nightmist | 406906 | [406906-nightmist.json](./406906-nightmist.json) |
 | Nightmist Online | 140434 | [140434-nightmist-online.json](./140434-nightmist-online.json) |
 | Nightomb | 260857 | [260857-nightomb.json](./260857-nightomb.json) |
