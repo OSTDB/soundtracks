@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Drift | 164957 | [164957-galaxy-drift.json](./164957-galaxy-drift.json) |
 | Galaxy Dungeon | 295939 | [295939-galaxy-dungeon.json](./295939-galaxy-dungeon.json) |
 | Galaxy Dwellers | 254693 | [254693-galaxy-dwellers.json](./254693-galaxy-dwellers.json) |
+| Galaxy Enemies | 412066 | [412066-galaxy-enemies.json](./412066-galaxy-enemies.json) |
 | Galaxy Exodus | 420218 | [420218-galaxy-exodus.json](./420218-galaxy-exodus.json) |
 | Galaxy Express Chaldea | 339113 | [339113-galaxy-express-chaldea.json](./339113-galaxy-express-chaldea.json) |
 | Galaxy Fight Club | 198340 | [198340-galaxy-fight-club.json](./198340-galaxy-fight-club.json) |
@@ -6060,6 +6061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Axe: The Duel | 39349 | [39349-golden-axe-the-duel.json](./39349-golden-axe-the-duel.json) |
 | Golden Axed: A Cancelled Prototype | 140044 | [140044-golden-axed-a-cancelled-prototype.json](./140044-golden-axed-a-cancelled-prototype.json) |
 | Golden Ball | 311206 | [311206-golden-ball.json](./311206-golden-ball.json) |
+| Golden Balloon | 412063 | [412063-golden-balloon.json](./412063-golden-balloon.json) |
 | Golden Balls | 78081 | [78081-golden-balls.json](./78081-golden-balls.json) |
 | Golden Basket | 73598 | [73598-golden-basket.json](./73598-golden-basket.json) |
 | Golden Boy | 172331 | [172331-golden-boy.json](./172331-golden-boy.json) |
@@ -6952,6 +6954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Got Reincarnated into a World of RPG Full of NPCs... | 192788 | [192788-got-reincarnated-into-a-world-of-rpg-full-of-npcs.json](./192788-got-reincarnated-into-a-world-of-rpg-full-of-npcs.json) |
 | Got Simulator | 291537 | [291537-got-simulator.json](./291537-got-simulator.json) |
 | Got-cha Mini Game Festival | 38644 | [38644-got-cha-mini-game-festival.json](./38644-got-cha-mini-game-festival.json) |
+| GOT3D | 412100 | [412100-got3d.json](./412100-got3d.json) |
 | GOTC: Siege on the Lightorder Citadel | 164515 | [164515-gotc-siege-on-the-lightorder-citadel.json](./164515-gotc-siege-on-the-lightorder-citadel.json) |
 | Gotcha | 250633 | [250633-gotcha.json](./250633-gotcha.json) |
 | Gotcha | 7427 | [7427-gotcha.json](./7427-gotcha.json) |
