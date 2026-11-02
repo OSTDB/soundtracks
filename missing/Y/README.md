@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeoubul | 166754 | [166754-yeoubul.json](./166754-yeoubul.json) |
 | Yep It's More Skiing | 304141 | [304141-yep-its-more-skiing.json](./304141-yep-its-more-skiing.json) |
 | Yerah | 72445 | [72445-yerah.json](./72445-yerah.json) |
+| Yerba Buena | 249016 | [249016-yerba-buena.json](./249016-yerba-buena.json) |
 | Yerba Mate Tycoon | 153755 | [153755-yerba-mate-tycoon.json](./153755-yerba-mate-tycoon.json) |
 | Yerevan Drive | 214551 | [214551-yerevan-drive.json](./214551-yerevan-drive.json) |
 | Yerr Out | 201401 | [201401-yerr-out.json](./201401-yerr-out.json) |
