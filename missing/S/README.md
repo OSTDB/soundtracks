@@ -10476,6 +10476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SiN Gold | 51909 | [51909-sin-gold.json](./51909-sin-gold.json) |
 | Sin or Suffer | 413137 | [413137-sin-or-suffer.json](./413137-sin-or-suffer.json) |
 | Sin Return | 387481 | [387481-sin-return.json](./387481-sin-return.json) |
+| Sin Slayers | 81650 | [81650-sin-slayers.json](./81650-sin-slayers.json) |
 | Sin Slayers: Enhanced Edition | 148002 | [148002-sin-slayers-enhanced-edition.json](./148002-sin-slayers-enhanced-edition.json) |
 | Sin Slayers: Pharmacist | 155061 | [155061-sin-slayers-pharmacist.json](./155061-sin-slayers-pharmacist.json) |
 | Sin Slayers: Reign of The 8th | 291758 | [291758-sin-slayers-reign-of-the-8th.json](./291758-sin-slayers-reign-of-the-8th.json) |
@@ -11931,6 +11932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylanders: Spyro's Adventure - Empire of Ice | 340392 | [340392-skylanders-spyros-adventure-empire-of-ice.json](./340392-skylanders-spyros-adventure-empire-of-ice.json) |
 | Skylanders: SuperChargers | 317015 | [317015-skylanders-superchargers.json](./317015-skylanders-superchargers.json) |
 | Skylanders: SuperChargers - Portal Owner's Pack | 82418 | [82418-skylanders-superchargers-portal-owners-pack.json](./82418-skylanders-superchargers-portal-owners-pack.json) |
+| Skylanders: SuperChargers Racing | 85572 | [85572-skylanders-superchargers-racing.json](./85572-skylanders-superchargers-racing.json) |
 | Skylanders: Swap Force | 256681 | [256681-skylanders-swap-force.json](./256681-skylanders-swap-force.json) |
 | Skylanders: Swap Force | 5159 | [5159-skylanders-swap-force.json](./5159-skylanders-swap-force.json) |
 | Skylanders: Trap Team | 256683 | [256683-skylanders-trap-team.json](./256683-skylanders-trap-team.json) |
@@ -18235,7 +18237,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24732,6 +24733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stepwell | 416614 | [416614-stepwell.json](./416614-stepwell.json) |
 | StepX | 67915 | [67915-stepx.json](./67915-stepx.json) |
 | Steredenn | 14146 | [14146-steredenn.json](./14146-steredenn.json) |
+| Steredenn: Binary Stars | 87197 | [87197-steredenn-binary-stars.json](./87197-steredenn-binary-stars.json) |
 | Stereo Aereo | 31143 | [31143-stereo-aereo.json](./31143-stereo-aereo.json) |
 | Stereo Boy | 211115 | [211115-stereo-boy.json](./211115-stereo-boy.json) |
 | Stereo Life | 97479 | [97479-stereo-life.json](./97479-stereo-life.json) |
