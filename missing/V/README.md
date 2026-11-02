@@ -241,7 +241,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valcarta: Rise of the Demon | 32887 | [32887-valcarta-rise-of-the-demon.json](./32887-valcarta-rise-of-the-demon.json) |
 | Valdamour | 264531 | [264531-valdamour.json](./264531-valdamour.json) |
 | Valdis | 377296 | [377296-valdis.json](./377296-valdis.json) |
-| Valdis Story: Abyssal City | 6134 | [6134-valdis-story-abyssal-city.json](./6134-valdis-story-abyssal-city.json) |
 | Valdrys | 418391 | [418391-valdrys.json](./418391-valdrys.json) |
 | Vale | 263012 | [263012-vale.json](./263012-vale.json) |
 | Vale | 304641 | [304641-vale.json](./304641-vale.json) |
