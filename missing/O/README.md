@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old School FOTD | 74453 | [74453-old-school-fotd.json](./74453-old-school-fotd.json) |
 | Old School Horror Game : Bright Day | 125679 | [125679-old-school-horror-game-bright-day.json](./125679-old-school-horror-game-bright-day.json) |
 | Old School Maze | 122582 | [122582-old-school-maze.json](./122582-old-school-maze.json) |
+| Old School Musical | 51408 | [51408-old-school-musical.json](./51408-old-school-musical.json) |
 | Old School Musical: Pocket Edition | 196416 | [196416-old-school-musical-pocket-edition.json](./196416-old-school-musical-pocket-edition.json) |
 | Old School Racer | 91887 | [91887-old-school-racer.json](./91887-old-school-racer.json) |
 | Old School Racer 2 | 114053 | [114053-old-school-racer-2.json](./114053-old-school-racer-2.json) |
@@ -2914,6 +2915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OnlySociety: Secret | 285917 | [285917-onlysociety-secret.json](./285917-onlysociety-secret.json) |
 | OnlyUp! | 276124 | [276124-onlyup.json](./276124-onlyup.json) |
 | Onmitsu Kiritan | 204729 | [204729-onmitsu-kiritan.json](./204729-onmitsu-kiritan.json) |
+| Onmyoji | 56381 | [56381-onmyoji.json](./56381-onmyoji.json) |
 | Onmyoji Arena | 105192 | [105192-onmyoji-arena.json](./105192-onmyoji-arena.json) |
 | Onmyoji Chess | 194010 | [194010-onmyoji-chess.json](./194010-onmyoji-chess.json) |
 | Onmyoji Heian Memoirs | 181504 | [181504-onmyoji-heian-memoirs.json](./181504-onmyoji-heian-memoirs.json) |
