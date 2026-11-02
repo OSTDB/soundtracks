@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Project Nexus: Legacy of the S-3LF Eater | 269488 | [269488-madness-project-nexus-legacy-of-the-s-3lf-eater.json](./269488-madness-project-nexus-legacy-of-the-s-3lf-eater.json) |
 | Madness Retaliation | 123425 | [123425-madness-retaliation.json](./123425-madness-retaliation.json) |
 | Madness Starts Young | 386873 | [386873-madness-starts-young.json](./386873-madness-starts-young.json) |
+| Madness Survivors: A Case Gone Dark | 420334 | [420334-madness-survivors-a-case-gone-dark.json](./420334-madness-survivors-a-case-gone-dark.json) |
 | Madness: Off-Color | 179844 | [179844-madness-off-color.json](./179844-madness-off-color.json) |
 | Madness: Project Nexus - Classic | 239826 | [239826-madness-project-nexus-classic.json](./239826-madness-project-nexus-classic.json) |
 | Madnessarum | 285318 | [285318-madnessarum.json](./285318-madnessarum.json) |
@@ -10429,6 +10430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Monitor: Aldercourt | 287601 | [287601-midnight-monitor-aldercourt.json](./287601-midnight-monitor-aldercourt.json) |
 | Midnight Monitor: Halloween Forever | 275429 | [275429-midnight-monitor-halloween-forever.json](./275429-midnight-monitor-halloween-forever.json) |
 | Midnight Monorail | 183742 | [183742-midnight-monorail.json](./183742-midnight-monorail.json) |
+| Midnight Moving Crew | 420344 | [420344-midnight-moving-crew.json](./420344-midnight-moving-crew.json) |
 | Midnight Munchies | 343056 | [343056-midnight-munchies.json](./343056-midnight-munchies.json) |
 | Midnight Murder Club | 312282 | [312282-midnight-murder-club.json](./312282-midnight-murder-club.json) |
 | Midnight Murder Maze | 365255 | [365255-midnight-murder-maze.json](./365255-midnight-murder-maze.json) |
