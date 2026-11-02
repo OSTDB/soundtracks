@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naked Porn Battle | 202205 | [202205-naked-porn-battle.json](./202205-naked-porn-battle.json) |
 | Naked Puzzle: Girls | 367928 | [367928-naked-puzzle-girls.json](./367928-naked-puzzle-girls.json) |
 | Naked Story | 127838 | [127838-naked-story.json](./127838-naked-story.json) |
+| Naked Sun | 93897 | [93897-naked-sun.json](./93897-naked-sun.json) |
 | Naked Warrior | 385305 | [385305-naked-warrior.json](./385305-naked-warrior.json) |
 | NakedMan vs. The Clothes | 29485 | [29485-nakedman-vs-the-clothes.json](./29485-nakedman-vs-the-clothes.json) |
 | Näkemiin: Hongkong | 85757 | [85757-nakemiin-hongkong.json](./85757-nakemiin-hongkong.json) |
@@ -416,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Flat Owner | 391032 | [391032-nano-flat-owner.json](./391032-nano-flat-owner.json) |
 | Nano Force | 250483 | [250483-nano-force.json](./250483-nano-force.json) |
 | Nano Golf | 97041 | [97041-nano-golf.json](./97041-nano-golf.json) |
+| Nano Golf: Puzzle Putting | 95082 | [95082-nano-golf-puzzle-putting.json](./95082-nano-golf-puzzle-putting.json) |
 | Nano Neighbors | 347838 | [347838-nano-neighbors.json](./347838-nano-neighbors.json) |
 | Nano Organism | 201495 | [201495-nano-organism.json](./201495-nano-organism.json) |
 | Nano Player Pro: Mega Man | 317711 | [317711-nano-player-pro-mega-man.json](./317711-nano-player-pro-mega-man.json) |
