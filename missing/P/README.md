@@ -1915,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paragon Pioneers 2: Turn the Orc Table | 310050 | [310050-paragon-pioneers-2-turn-the-orc-table.json](./310050-paragon-pioneers-2-turn-the-orc-table.json) |
 | Paragon Sex A Doll | 356065 | [356065-paragon-sex-a-doll.json](./356065-paragon-sex-a-doll.json) |
 | Paragon Slots | 297175 | [297175-paragon-slots.json](./297175-paragon-slots.json) |
+| Paragon Story | 407086 | [407086-paragon-story.json](./407086-paragon-story.json) |
 | Paragon-R: Secrets of the Sky Sanctum | 422481 | [422481-paragon-r-secrets-of-the-sky-sanctum.json](./422481-paragon-r-secrets-of-the-sky-sanctum.json) |
 | Paragon: The Overprime | 130500 | [130500-paragon-the-overprime.json](./130500-paragon-the-overprime.json) |
 | Paragon's Hand | 415330 | [415330-paragons-hand.json](./415330-paragons-hand.json) |
@@ -11480,6 +11481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polymerikum | 180089 | [180089-polymerikum.json](./180089-polymerikum.json) |
 | Polymino | 264659 | [264659-polymino.json](./264659-polymino.json) |
 | Polymorph | 412744 | [412744-polymorph.json](./412744-polymorph.json) |
+| Polymorphite | 407094 | [407094-polymorphite.json](./407094-polymorphite.json) |
 | Polynomial 2 | 24967 | [24967-polynomial-2.json](./24967-polynomial-2.json) |
 | Polynya | 306767 | [306767-polynya.json](./306767-polynya.json) |
 | Polyology | 33313 | [33313-polyology.json](./33313-polyology.json) |
@@ -11751,6 +11753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool:Shark | 14532 | [14532-pool-shark.json](./14532-pool-shark.json) |
 | Pool! | 88287 | [88287-pool.json](./88287-pool.json) |
 | Poolcore | 238742 | [238742-poolcore.json](./238742-poolcore.json) |
+| Poolcore Reflection | 407044 | [407044-poolcore-reflection.json](./407044-poolcore-reflection.json) |
 | Poolcore: Submersion | 354485 | [354485-poolcore-submersion.json](./354485-poolcore-submersion.json) |
 | Poolgame | 222962 | [222962-poolgame.json](./222962-poolgame.json) |
 | Pooliminal | 412202 | [412202-pooliminal.json](./412202-pooliminal.json) |
@@ -11891,6 +11894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n music | 186652 | [186652-popn-music.json](./186652-popn-music.json) |
 | Pop'n Music | 281400 | [281400-popn-music.json](./281400-popn-music.json) |
 | Pop'n Music | 51020 | [51020-popn-music.json](./51020-popn-music.json) |
+| Pop'n Music 13 Carnival | 407095 | [407095-popn-music-13-carnival.json](./407095-popn-music-13-carnival.json) |
 | Pop'n Music 2 | 78975 | [78975-popn-music-2.json](./78975-popn-music-2.json) |
 | Pop'n music 3 | 78977 | [78977-popn-music-3.json](./78977-popn-music-3.json) |
 | Pop'n Music 3 Append Disc | 280791 | [280791-popn-music-3-append-disc.json](./280791-popn-music-3-append-disc.json) |
@@ -17691,6 +17695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Plunder | 105399 | [105399-pyramid-plunder.json](./105399-pyramid-plunder.json) |
 | Pyramid Power | 71535 | [71535-pyramid-power.json](./71535-pyramid-power.json) |
 | Pyramid Quest Bundle | 399801 | [399801-pyramid-quest-bundle.json](./399801-pyramid-quest-bundle.json) |
+| Pyramid Quest Junior | 407100 | [407100-pyramid-quest-junior.json](./407100-pyramid-quest-junior.json) |
 | Pyramid Raid | 26871 | [26871-pyramid-raid.json](./26871-pyramid-raid.json) |
 | Pyramid Raiders | 242974 | [242974-pyramid-raiders.json](./242974-pyramid-raiders.json) |
 | Pyramid Runner | 238356 | [238356-pyramid-runner.json](./238356-pyramid-runner.json) |
