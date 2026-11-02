@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.a.N Industry VR | 123559 | [123559-n-a-n-industry-vr.json](./123559-n-a-n-industry-vr.json) |
 | N.E.O | 125092 | [125092-n-e-o.json](./125092-n-e-o.json) |
 | N.E.O.N.: Never-Ending Onslaught of Nerds | 152922 | [152922-n-e-o-n-never-ending-onslaught-of-nerds.json](./152922-n-e-o-n-never-ending-onslaught-of-nerds.json) |
+| N.E.R.D | 402057 | [402057-n-e-r-d.json](./402057-n-e-r-d.json) |
 | N.E.R.O.: Nothing Ever Remains Obscure | 8256 | [8256-n-e-r-o-nothing-ever-remains-obscure.json](./8256-n-e-r-o-nothing-ever-remains-obscure.json) |
 | N.E.W. D.A.Y. | 119008 | [119008-n-e-w-d-a-y.json](./119008-n-e-w-d-a-y.json) |
 | N.M.E. Battle! | 381554 | [381554-n-m-e-battle.json](./381554-n-m-e-battle.json) |
@@ -6000,6 +6001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nogginknockers 2 | 78507 | [78507-nogginknockers-2.json](./78507-nogginknockers-2.json) |
 | Nogibator | 76934 | [76934-nogibator.json](./76934-nogibator.json) |
 | Nogibator: Way of Legs | 83193 | [83193-nogibator-way-of-legs.json](./83193-nogibator-way-of-legs.json) |
+| Nogizaka Haruka no Himitsu: Cosplay, Hajimemashita | 402064 | [402064-nogizaka-haruka-no-himitsu-cosplay-hajimemashita.json](./402064-nogizaka-haruka-no-himitsu-cosplay-hajimemashita.json) |
 | Nogizaka Haruka no Himitsu: Doujinshi Hajimemashita | 269442 | [269442-nogizaka-haruka-no-himitsu-doujinshi-hajimemashita.json](./269442-nogizaka-haruka-no-himitsu-doujinshi-hajimemashita.json) |
 | Nogizaka46 Rhythm Festival | 77846 | [77846-nogizaka46-rhythm-festival.json](./77846-nogizaka46-rhythm-festival.json) |
 | Nohmen: Blood Rites | 420552 | [420552-nohmen-blood-rites.json](./420552-nohmen-blood-rites.json) |
