@@ -6247,6 +6247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi Eggplant: The Birth of Sprites | 245850 | [245850-hi-eggplant-the-birth-of-sprites.json](./245850-hi-eggplant-the-birth-of-sprites.json) |
 | Hi Eggplant! | 211040 | [211040-hi-eggplant.json](./211040-hi-eggplant.json) |
 | Hi Guess the Movie 2016 | 232111 | [232111-hi-guess-the-movie-2016.json](./232111-hi-guess-the-movie-2016.json) |
+| Hi Hi Puffy Ami Yumi: Genie & The Amp | 84521 | [84521-hi-hi-puffy-ami-yumi-genie-and-the-amp.json](./84521-hi-hi-puffy-ami-yumi-genie-and-the-amp.json) |
 | Hi Hi Puffy AmiYumi Treasure Island | 141151 | [141151-hi-hi-puffy-amiyumi-treasure-island.json](./141151-hi-hi-puffy-amiyumi-treasure-island.json) |
 | Hi Hi Puffy AmiYumi: Kaznapped! | 2819 | [2819-hi-hi-puffy-amiyumi-kaznapped.json](./2819-hi-hi-puffy-amiyumi-kaznapped.json) |
 | Hi Hi Puffy AmiYumi: The Genie and the Amp | 2818 | [2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json](./2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json) |
@@ -7359,6 +7360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikikomori Life | 169864 | [169864-hikikomori-life.json](./169864-hikikomori-life.json) |
 | Hikikomori No Chuunibyou | 32072 | [32072-hikikomori-no-chuunibyou.json](./32072-hikikomori-no-chuunibyou.json) |
 | Hiking Simulator 2017 | 55491 | [55491-hiking-simulator-2017.json](./55491-hiking-simulator-2017.json) |
+| Hiking Simulator 2018 | 84088 | [84088-hiking-simulator-2018.json](./84088-hiking-simulator-2018.json) |
 | Hikisakareta Badaaru | 394545 | [394545-hikisakareta-badaaru.json](./394545-hikisakareta-badaaru.json) |
 | Hikkonuki Pikmin | 232900 | [232900-hikkonuki-pikmin.json](./232900-hikkonuki-pikmin.json) |
 | Hilarious Delivery | 390224 | [390224-hilarious-delivery.json](./390224-hilarious-delivery.json) |
