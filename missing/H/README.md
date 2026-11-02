@@ -5173,6 +5173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hepo | 266318 | [266318-hepo.json](./266318-hepo.json) |
 | Hepta Beats | 157347 | [157347-hepta-beats.json](./157347-hepta-beats.json) |
 | Heptagon | 149788 | [149788-heptagon.json](./149788-heptagon.json) |
+| Heptrix | 84523 | [84523-heptrix.json](./84523-heptrix.json) |
 | Her | 105347 | [105347-her.json](./105347-her.json) |
 | Her 2: I Want to See You Again | 114821 | [114821-her-2-i-want-to-see-you-again.json](./114821-her-2-i-want-to-see-you-again.json) |
 | Her Age, My Sex, Your Location | 354813 | [354813-her-age-my-sex-your-location.json](./354813-her-age-my-sex-your-location.json) |
