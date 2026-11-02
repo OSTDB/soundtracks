@@ -5542,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esther - Interactive Bible Stories | 87534 | [87534-esther-interactive-bible-stories.json](./87534-esther-interactive-bible-stories.json) |
 | Esther and the Fallen Star | 340594 | [340594-esther-and-the-fallen-star.json](./340594-esther-and-the-fallen-star.json) |
 | Estigma | 142497 | [142497-estigma.json](./142497-estigma.json) |
+| Estiman | 30396 | [30396-estiman.json](./30396-estiman.json) |
 | Estium Online | 417541 | [417541-estium-online.json](./417541-estium-online.json) |
 | Estra | 13711 | [13711-estra.json](./13711-estra.json) |
 | EstradaBus HD | 148951 | [148951-estradabus-hd.json](./148951-estradabus-hd.json) |
