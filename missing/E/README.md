@@ -6735,6 +6735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evilmun Family: Season 4 Spark | 198508 | [198508-evilmun-family-season-4-spark.json](./198508-evilmun-family-season-4-spark.json) |
 | Evilmun Family: Season 5 water renewal Part 1 | 230533 | [230533-evilmun-family-season-5-water-renewal-part-1.json](./230533-evilmun-family-season-5-water-renewal-part-1.json) |
 | Evilot | 63386 | [63386-evilot.json](./63386-evilot.json) |
+| EvilQuest | 3237 | [3237-evilquest.json](./3237-evilquest.json) |
 | EvilSlayer | 367354 | [367354-evilslayer.json](./367354-evilslayer.json) |
 | Evilspunk | 302907 | [302907-evilspunk.json](./302907-evilspunk.json) |
 | Eviltech: Soul of Megawad | 261823 | [261823-eviltech-soul-of-megawad.json](./261823-eviltech-soul-of-megawad.json) |
