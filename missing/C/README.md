@@ -3637,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat and Isle of Stars | 375203 | [375203-cat-and-isle-of-stars.json](./375203-cat-and-isle-of-stars.json) |
 | Cat and Ladder Climb | 252877 | [252877-cat-and-ladder-climb.json](./252877-cat-and-ladder-climb.json) |
 | Cat And Life | 301620 | [301620-cat-and-life.json](./301620-cat-and-life.json) |
+| Cat and Rat | 405278 | [405278-cat-and-rat.json](./405278-cat-and-rat.json) |
 | Cat and Shadow and Death's Four Friends | 374070 | [374070-cat-and-shadow-and-deaths-four-friends.json](./374070-cat-and-shadow-and-deaths-four-friends.json) |
 | Cat and Watermouse | 216689 | [216689-cat-and-watermouse.json](./216689-cat-and-watermouse.json) |
 | Cat Apartment | 264135 | [264135-cat-apartment.json](./264135-cat-apartment.json) |
@@ -9447,6 +9448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleaning up the Puzzle Gallery | 412359 | [412359-cleaning-up-the-puzzle-gallery.json](./412359-cleaning-up-the-puzzle-gallery.json) |
 | Cleaning Up! | 360587 | [360587-cleaning-up.json](./360587-cleaning-up.json) |
 | CleanPlay | 333524 | [333524-cleanplay.json](./333524-cleanplay.json) |
+| Cleansed | 405295 | [405295-cleansed.json](./405295-cleansed.json) |
 | CleanSheet 2 | 404382 | [404382-cleansheet-2.json](./404382-cleansheet-2.json) |
 | Cleansuit | 74460 | [74460-cleansuit.json](./74460-cleansuit.json) |
 | CleanTwin | 346462 | [346462-cleantwin.json](./346462-cleantwin.json) |
@@ -10098,6 +10100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Del Fierro | 365282 | [365282-club-del-fierro.json](./365282-club-del-fierro.json) |
 | Club Drive | 40804 | [40804-club-drive.json](./40804-club-drive.json) |
 | Club Feral | 266398 | [266398-club-feral.json](./266398-club-feral.json) |
+| Club Girl | 405272 | [405272-club-girl.json](./405272-club-girl.json) |
 | Club Goblin | 184642 | [184642-club-goblin.json](./184642-club-goblin.json) |
 | Club Hentai: Girls, Love, Sex | 149426 | [149426-club-hentai-girls-love-sex.json](./149426-club-hentai-girls-love-sex.json) |
 | Club Koala | 293555 | [293555-club-koala.json](./293555-club-koala.json) |
@@ -13831,6 +13834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coronarun | 156704 | [156704-coronarun.json](./156704-coronarun.json) |
 | Coronation | 91381 | [91381-coronation.json](./91381-coronation.json) |
 | Coronaviral | 181764 | [181764-coronaviral.json](./181764-coronaviral.json) |
+| Coronavirus Attack | 405275 | [405275-coronavirus-attack.json](./405275-coronavirus-attack.json) |
 | Coronavirus Quarantine Simulator | 137996 | [137996-coronavirus-quarantine-simulator.json](./137996-coronavirus-quarantine-simulator.json) |
 | Coronavirus: Nano Force | 165002 | [165002-coronavirus-nano-force.json](./165002-coronavirus-nano-force.json) |
 | CoronaViruses | 151556 | [151556-coronaviruses.json](./151556-coronaviruses.json) |
@@ -15683,6 +15687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Frog's Dancing | 224454 | [224454-crazy-frogs-dancing.json](./224454-crazy-frogs-dancing.json) |
 | Crazy Fruit Shooter | 406142 | [406142-crazy-fruit-shooter.json](./406142-crazy-fruit-shooter.json) |
 | Crazy Fun Ball | 172151 | [172151-crazy-fun-ball.json](./172151-crazy-fun-ball.json) |
+| Crazy Goat | 405270 | [405270-crazy-goat.json](./405270-crazy-goat.json) |
 | Crazy Gobbler | 66728 | [66728-crazy-gobbler.json](./66728-crazy-gobbler.json) |
 | Crazy Golf | 13531 | [13531-crazy-golf.json](./13531-crazy-golf.json) |
 | Crazy Golf Cat | 232896 | [232896-crazy-golf-cat.json](./232896-crazy-golf-cat.json) |
