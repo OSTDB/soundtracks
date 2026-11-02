@@ -6957,7 +6957,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer | 8546 | [8546-ridge-racer.json](./8546-ridge-racer.json) |
 | Ridge Racer 2 | 140479 | [140479-ridge-racer-2.json](./140479-ridge-racer-2.json) |
 | Ridge Racer 2 | 234285 | [234285-ridge-racer-2.json](./234285-ridge-racer-2.json) |
-| Ridge Racer 3D | 6871 | [6871-ridge-racer-3d.json](./6871-ridge-racer-3d.json) |
 | Ridge Racer 6 | 7160 | [7160-ridge-racer-6.json](./7160-ridge-racer-6.json) |
 | Ridge Racer 8 | 339264 | [339264-ridge-racer-8.json](./339264-ridge-racer-8.json) |
 | Ridge Racer Accelerated HD | 21572 | [21572-ridge-racer-accelerated-hd.json](./21572-ridge-racer-accelerated-hd.json) |
