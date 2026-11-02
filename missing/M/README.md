@@ -5579,7 +5579,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximo vs. Army of Zin | 43642 | [43642-maximo-vs-army-of-zin.json](./43642-maximo-vs-army-of-zin.json) |
 | Maximo: Ghosts to Glory | 22054 | [22054-maximo-ghosts-to-glory.json](./22054-maximo-ghosts-to-glory.json) |
 | Maximum | 231553 | [231553-maximum.json](./231553-maximum.json) |
-| Maximum Action | 92784 | [92784-maximum-action.json](./92784-maximum-action.json) |
 | Maximum Apocalypse: The Video Game | 304291 | [304291-maximum-apocalypse-the-video-game.json](./304291-maximum-apocalypse-the-video-game.json) |
 | Maximum Archery the Game | 31711 | [31711-maximum-archery-the-game.json](./31711-maximum-archery-the-game.json) |
 | Maximum Car | 246255 | [246255-maximum-car.json](./246255-maximum-car.json) |
