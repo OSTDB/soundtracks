@@ -2714,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schedule I: Dope Empire | 356511 | [356511-schedule-i-dope-empire.json](./356511-schedule-i-dope-empire.json) |
 | Schedule I: Mafia Empire | 350050 | [350050-schedule-i-mafia-empire.json](./350050-schedule-i-mafia-empire.json) |
 | Schedule Store Simulator | 406767 | [406767-schedule-store-simulator.json](./406767-schedule-store-simulator.json) |
+| Schein | 8990 | [8990-schein.json](./8990-schein.json) |
 | Schemata | 90059 | [90059-schemata.json](./90059-schemata.json) |
 | Schematic | 152499 | [152499-schematic.json](./152499-schematic.json) |
 | Scheme!!! Spica, Chinatsu, and Haruka's Enchanting, Marvelous, and Quite Frankly Elaborate Quest to Save Their Cute Girlfriend! | 202566 | [202566-scheme-spica-chinatsu-and-harukas-enchanting-marvelous-and-quite-frankly-elaborate-quest-to-save-their-cute-girlfriend.json](./202566-scheme-spica-chinatsu-and-harukas-enchanting-marvelous-and-quite-frankly-elaborate-quest-to-save-their-cute-girlfriend.json) |
@@ -9226,6 +9227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid & Al's Incredible Toons | 80152 | [80152-sid-and-als-incredible-toons.json](./80152-sid-and-als-incredible-toons.json) |
 | Sid & Marty Krofft's Land of the Lost | 217725 | [217725-sid-and-marty-kroffts-land-of-the-lost.json](./217725-sid-and-marty-kroffts-land-of-the-lost.json) |
 | Sid Classic | 158145 | [158145-sid-classic.json](./158145-sid-classic.json) |
+| Sid Meier's Ace Patrol: Pacific Skies | 9022 | [9022-sid-meiers-ace-patrol-pacific-skies.json](./9022-sid-meiers-ace-patrol-pacific-skies.json) |
 | Sid Meier's Alien Crossfire | 9197 | [9197-sid-meiers-alien-crossfire.json](./9197-sid-meiers-alien-crossfire.json) |
 | Sid Meier's Alpha Centauri | 863 | [863-sid-meiers-alpha-centauri.json](./863-sid-meiers-alpha-centauri.json) |
 | Sid Meier's Antietam! | 864 | [864-sid-meiers-antietam.json](./864-sid-meiers-antietam.json) |
@@ -15156,6 +15158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Expanse | 219595 | [219595-solar-expanse.json](./219595-solar-expanse.json) |
 | Solar Explorer: New Dawn | 107399 | [107399-solar-explorer-new-dawn.json](./107399-solar-explorer-new-dawn.json) |
 | Solar Fighters | 105185 | [105185-solar-fighters.json](./105185-solar-fighters.json) |
+| Solar Flux | 9026 | [9026-solar-flux.json](./9026-solar-flux.json) |
 | Solar Fox | 18708 | [18708-solar-fox.json](./18708-solar-fox.json) |
 | Solar Gladiators | 135447 | [135447-solar-gladiators.json](./135447-solar-gladiators.json) |
 | Solar Gun | 51558 | [51558-solar-gun.json](./51558-solar-gun.json) |
@@ -18910,6 +18913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceChem: 63 Corvi | 78431 | [78431-spacechem-63-corvi.json](./78431-spacechem-63-corvi.json) |
 | SpaceCiv | 408840 | [408840-spaceciv.json](./408840-spaceciv.json) |
 | SpaceColorsRunner | 123446 | [123446-spacecolorsrunner.json](./123446-spacecolorsrunner.json) |
+| Spacecom | 8869 | [8869-spacecom.json](./8869-spacecom.json) |
 | SpaceCombat | 94862 | [94862-spacecombat.json](./94862-spacecombat.json) |
 | SpaceCorn | 35000 | [35000-spacecorn.json](./35000-spacecorn.json) |
 | SpaceCorp: 2025-2300AD | 352297 | [352297-spacecorp-2025-2300ad.json](./352297-spacecorp-2025-2300ad.json) |
@@ -20952,6 +20956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob's Game Frenzy | 88949 | [88949-spongebobs-game-frenzy.json](./88949-spongebobs-game-frenzy.json) |
 | SpongeBob’s Idle Adventures | 266907 | [266907-spongebob-s-idle-adventures.json](./266907-spongebob-s-idle-adventures.json) |
 | SpongeBob's Pizza Toss | 326710 | [326710-spongebobs-pizza-toss.json](./326710-spongebobs-pizza-toss.json) |
+| SpongeBob's Surf & Skate Roadtrip | 7992 | [7992-spongebobs-surf-and-skate-roadtrip.json](./7992-spongebobs-surf-and-skate-roadtrip.json) |
 | SpongeBob's Truth or Square | 295621 | [295621-spongebobs-truth-or-square.json](./295621-spongebobs-truth-or-square.json) |
 | SpongeBob's Truth or Square | 5190 | [5190-spongebobs-truth-or-square.json](./5190-spongebobs-truth-or-square.json) |
 | SpongeBob’s Undersea Odyssey | 381368 | [381368-spongebob-s-undersea-odyssey.json](./381368-spongebob-s-undersea-odyssey.json) |
@@ -22872,6 +22877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Outlaws: Wild Card | 315804 | [315804-star-wars-outlaws-wild-card.json](./315804-star-wars-outlaws-wild-card.json) |
 | Star Wars Pinball | 136076 | [136076-star-wars-pinball.json](./136076-star-wars-pinball.json) |
 | Star Wars Pinball Season 1 Bundle | 99757 | [99757-star-wars-pinball-season-1-bundle.json](./99757-star-wars-pinball-season-1-bundle.json) |
+| Star Wars Pinball VR | 146363 | [146363-star-wars-pinball-vr.json](./146363-star-wars-pinball-vr.json) |
 | Star Wars Pinball: The Empire Strikes Back | 22196 | [22196-star-wars-pinball-the-empire-strikes-back.json](./22196-star-wars-pinball-the-empire-strikes-back.json) |
 | Star Wars Racer and Commando Combo | 168392 | [168392-star-wars-racer-and-commando-combo.json](./168392-star-wars-racer-and-commando-combo.json) |
 | Star Wars Rebels: Chopper Chase | 97498 | [97498-star-wars-rebels-chopper-chase.json](./97498-star-wars-rebels-chopper-chase.json) |
@@ -23068,6 +23074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: X-Wing Tour of Duty - Imperial Pursuit | 173 | [173-star-wars-x-wing-tour-of-duty-imperial-pursuit.json](./173-star-wars-x-wing-tour-of-duty-imperial-pursuit.json) |
 | Star Wars: X-Wing vs TIE Fighter - Balance of Power Campaigns | 400431 | [400431-star-wars-x-wing-vs-tie-fighter-balance-of-power-campaigns.json](./400431-star-wars-x-wing-vs-tie-fighter-balance-of-power-campaigns.json) |
 | Star Wars: X-Wing vs. TIE Fighter | 170 | [170-star-wars-x-wing-vs-tie-fighter.json](./170-star-wars-x-wing-vs-tie-fighter.json) |
+| Star Wars: X-Wing vs. TIE Fighter - Balance of Power | 172 | [172-star-wars-x-wing-vs-tie-fighter-balance-of-power.json](./172-star-wars-x-wing-vs-tie-fighter-balance-of-power.json) |
 | Star Wars: Yoda's Challenge Activity Center | 70221 | [70221-star-wars-yodas-challenge-activity-center.json](./70221-star-wars-yodas-challenge-activity-center.json) |
 | Star Waspir | 318724 | [318724-star-waspir.json](./318724-star-waspir.json) |
 | Star Wing | 385716 | [385716-star-wing.json](./385716-star-wing.json) |
@@ -28499,6 +28506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bomberman R Online: Premium Pack | 150653 | [150653-super-bomberman-r-online-premium-pack.json](./150653-super-bomberman-r-online-premium-pack.json) |
 | Super Bomberman: Panic Bomber W | 42546 | [42546-super-bomberman-panic-bomber-w.json](./42546-super-bomberman-panic-bomber-w.json) |
 | Super Bombinhas | 185968 | [185968-super-bombinhas.json](./185968-super-bombinhas.json) |
+| Super Bonk | 9028 | [9028-super-bonk.json](./9028-super-bonk.json) |
 | Super BOO Quest | 110180 | [110180-super-boo-quest.json](./110180-super-boo-quest.json) |
 | Super Bora Dragon Eyes | 122024 | [122024-super-bora-dragon-eyes.json](./122024-super-bora-dragon-eyes.json) |
 | Super Boss Collection | 214420 | [214420-super-boss-collection.json](./214420-super-boss-collection.json) |
@@ -32382,6 +32390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwapTiles | 100664 | [100664-swaptiles.json](./100664-swaptiles.json) |
 | Swapwood Quest R | 384253 | [384253-swapwood-quest-r.json](./384253-swapwood-quest-r.json) |
 | Swarm | 13766 | [13766-swarm.json](./13766-swarm.json) |
+| Swarm | 145549 | [145549-swarm.json](./145549-swarm.json) |
 | Swarm | 149182 | [149182-swarm.json](./149182-swarm.json) |
 | Swarm | 19138 | [19138-swarm.json](./19138-swarm.json) |
 | Swarm 2 | 280060 | [280060-swarm-2.json](./280060-swarm-2.json) |
@@ -33280,6 +33289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syd of Valis | 247483 | [247483-syd-of-valis.json](./247483-syd-of-valis.json) |
 | Syd of Valis | 46191 | [46191-syd-of-valis.json](./46191-syd-of-valis.json) |
 | Syde Rugby League Simulator | 163837 | [163837-syde-rugby-league-simulator.json](./163837-syde-rugby-league-simulator.json) |
+| Syder Arcade | 9029 | [9029-syder-arcade.json](./9029-syder-arcade.json) |
 | Syder Reloaded | 131976 | [131976-syder-reloaded.json](./131976-syder-reloaded.json) |
 | Sydless | 345576 | [345576-sydless.json](./345576-sydless.json) |
 | Sydney 2000 | 8333 | [8333-sydney-2000.json](./8333-sydney-2000.json) |
@@ -33716,6 +33726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SystemCrash92 | 249505 | [249505-systemcrash92.json](./249505-systemcrash92.json) |
 | Systemic War | 365202 | [365202-systemic-war.json](./365202-systemic-war.json) |
 | Systemic\\Rem | 269736 | [269736-systemic-rem.json](./269736-systemic-rem.json) |
+| Systems Nominal | 8586 | [8586-systems-nominal.json](./8586-systems-nominal.json) |
 | Syunsoku Mezase! Zenkoku Saikyou Runner | 222512 | [222512-syunsoku-mezase-zenkoku-saikyou-runner.json](./222512-syunsoku-mezase-zenkoku-saikyou-runner.json) |
 | Syvalion | 40249 | [40249-syvalion.json](./40249-syvalion.json) |
 | Syvnta: Sovereignty | 343952 | [343952-syvnta-sovereignty.json](./343952-syvnta-sovereignty.json) |
