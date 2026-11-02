@@ -5988,6 +5988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkmate in the Wild West: Chess Adventure | 373534 | [373534-checkmate-in-the-wild-west-chess-adventure.json](./373534-checkmate-in-the-wild-west-chess-adventure.json) |
 | Checkmate Kings | 163685 | [163685-checkmate-kings.json](./163685-checkmate-kings.json) |
 | Checkmate Survivors | 331813 | [331813-checkmate-survivors.json](./331813-checkmate-survivors.json) |
+| Checkmate: The Red General’s Last Move | 424609 | [424609-checkmate-the-red-general-s-last-move.json](./424609-checkmate-the-red-general-s-last-move.json) |
 | Checkmate! | 108057 | [108057-checkmate.json](./108057-checkmate.json) |
 | Checkmate! My Shogi Club President can't be this Cute! | 253997 | [253997-checkmate-my-shogi-club-president-cant-be-this-cute.json](./253997-checkmate-my-shogi-club-president-cant-be-this-cute.json) |
 | Checkmates | 57371 | [57371-checkmates.json](./57371-checkmates.json) |
@@ -11903,6 +11904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Tail: Polygon Panic | 369010 | [369010-comet-tail-polygon-panic.json](./369010-comet-tail-polygon-panic.json) |
 | Comet Tycoon | 349881 | [349881-comet-tycoon.json](./349881-comet-tycoon.json) |
 | Cometh Battle | 212568 | [212568-cometh-battle.json](./212568-cometh-battle.json) |
+| Cometrox! | 424594 | [424594-cometrox.json](./424594-cometrox.json) |
 | Comets Wake | 76918 | [76918-comets-wake.json](./76918-comets-wake.json) |
 | CometSoldier | 256107 | [256107-cometsoldier.json](./256107-cometsoldier.json) |
 | CometStriker | 55766 | [55766-cometstriker.json](./55766-cometstriker.json) |
@@ -12346,6 +12348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comrade Quack | 195176 | [195176-comrade-quack.json](./195176-comrade-quack.json) |
 | Comrade Trump's Re-election | 286523 | [286523-comrade-trumps-re-election.json](./286523-comrade-trumps-re-election.json) |
 | Comrade-in-Arms | 130169 | [130169-comrade-in-arms.json](./130169-comrade-in-arms.json) |
+| Comrade, Secrets Escape! | 424625 | [424625-comrade-secrets-escape.json](./424625-comrade-secrets-escape.json) |
 | Comrades and Barons: Gates of Freedom | 152820 | [152820-comrades-and-barons-gates-of-freedom.json](./152820-comrades-and-barons-gates-of-freedom.json) |
 | Comrades and Barons: Solitaire of Bloody 1919 | 84046 | [84046-comrades-and-barons-solitaire-of-bloody-1919.json](./84046-comrades-and-barons-solitaire-of-bloody-1919.json) |
 | Comune 0-41 | 400837 | [400837-comune-0-41.json](./400837-comune-0-41.json) |
@@ -15028,6 +15031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cramble | 105760 | [105760-cramble.json](./105760-cramble.json) |
 | Cramgene | 92857 | [92857-cramgene.json](./92857-cramgene.json) |
 | Cramit's Keep | 186846 | [186846-cramits-keep.json](./186846-cramits-keep.json) |
+| Cramped | 424622 | [424622-cramped.json](./424622-cramped.json) |
 | Cramped Map Collection | 294754 | [294754-cramped-map-collection.json](./294754-cramped-map-collection.json) |
 | Cramped Room of Death | 139616 | [139616-cramped-room-of-death.json](./139616-cramped-room-of-death.json) |
 | Cramunhão: A Sigil Tribute | 316941 | [316941-cramunhao-a-sigil-tribute.json](./316941-cramunhao-a-sigil-tribute.json) |
@@ -15948,6 +15952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creeper World 2: Redemption - Anniversary Edition | 34006 | [34006-creeper-world-2-redemption-anniversary-edition.json](./34006-creeper-world-2-redemption-anniversary-edition.json) |
 | Creeper World 3: Arc Eternal | 9809 | [9809-creeper-world-3-arc-eternal.json](./9809-creeper-world-3-arc-eternal.json) |
 | Creeper World 4 | 77752 | [77752-creeper-world-4.json](./77752-creeper-world-4.json) |
+| Creeper World 5 | 424595 | [424595-creeper-world-5.json](./424595-creeper-world-5.json) |
 | Creeper World IXE | 259104 | [259104-creeper-world-ixe.json](./259104-creeper-world-ixe.json) |
 | Creeper World: Anniversary Edition | 34005 | [34005-creeper-world-anniversary-edition.json](./34005-creeper-world-anniversary-edition.json) |
 | Creepers | 15478 | [15478-creepers.json](./15478-creepers.json) |
@@ -17167,6 +17172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush! Deluxe | 71721 | [71721-crush-deluxe.json](./71721-crush-deluxe.json) |
 | Crush3D | 22922 | [22922-crush3d.json](./22922-crush3d.json) |
 | CrushBorgs | 199626 | [199626-crushborgs.json](./199626-crushborgs.json) |
+| Crushcrop | 424628 | [424628-crushcrop.json](./424628-crushcrop.json) |
 | CrushCrushCrushCrush | 391218 | [391218-crushcrushcrushcrush.json](./391218-crushcrushcrushcrush.json) |
 | Crushed | 141171 | [141171-crushed.json](./141171-crushed.json) |
 | Crushed Baseball | 49306 | [49306-crushed-baseball.json](./49306-crushed-baseball.json) |
