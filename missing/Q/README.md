@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Siege | 54725 | [54725-quantum-siege.json](./54725-quantum-siege.json) |
 | Quantum Soteriology | 333900 | [333900-quantum-soteriology.json](./333900-quantum-soteriology.json) |
 | Quantum Storm | 226318 | [226318-quantum-storm.json](./226318-quantum-storm.json) |
+| Quantum Theory | 7149 | [7149-quantum-theory.json](./7149-quantum-theory.json) |
 | Quantum Threshold | 344962 | [344962-quantum-threshold.json](./344962-quantum-threshold.json) |
 | Quantum Tripper | 202619 | [202619-quantum-tripper.json](./202619-quantum-tripper.json) |
 | Quantum Tripper: Math | 267084 | [267084-quantum-tripper-math.json](./267084-quantum-tripper-math.json) |
