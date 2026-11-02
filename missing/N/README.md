@@ -5253,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitronauts | 333144 | [333144-nitronauts.json](./333144-nitronauts.json) |
 | Nitroneers | 120021 | [120021-nitroneers.json](./120021-nitroneers.json) |
 | Nitroplus Blasterz: Heroines Infinite Duel - Limited Edition | 167134 | [167134-nitroplus-blasterz-heroines-infinite-duel-limited-edition.json](./167134-nitroplus-blasterz-heroines-infinite-duel-limited-edition.json) |
+| NitroRage | 40703 | [40703-nitrorage.json](./40703-nitrorage.json) |
 | Nitrous Firetruck | 236458 | [236458-nitrous-firetruck.json](./236458-nitrous-firetruck.json) |
 | Nitrous Fury | 385085 | [385085-nitrous-fury.json](./385085-nitrous-fury.json) |
 | Nitroverse | 189806 | [189806-nitroverse.json](./189806-nitroverse.json) |
