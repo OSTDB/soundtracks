@@ -5724,6 +5724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delores: A Thimbleweed Park Mini-Adventure | 134408 | [134408-delores-a-thimbleweed-park-mini-adventure.json](./134408-delores-a-thimbleweed-park-mini-adventure.json) |
 | Delos: Space Traffic Control | 339299 | [339299-delos-space-traffic-control.json](./339299-delos-space-traffic-control.json) |
 | Delphine's Discovery | 177360 | [177360-delphines-discovery.json](./177360-delphines-discovery.json) |
+| Delphinia Chronicle | 40846 | [40846-delphinia-chronicle.json](./40846-delphinia-chronicle.json) |
 | Delphinium | 394603 | [394603-delphinium.json](./394603-delphinium.json) |
 | Delphiniums Rise | 247862 | [247862-delphiniums-rise.json](./247862-delphiniums-rise.json) |
 | Delphyq | 102062 | [102062-delphyq.json](./102062-delphyq.json) |
@@ -9495,6 +9496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disco No.1 | 40046 | [40046-disco-no-1.json](./40046-disco-no-1.json) |
 | Disco Noire | 194309 | [194309-disco-noire.json](./194309-disco-noire.json) |
 | Disco Samurai | 267475 | [267475-disco-samurai.json](./267475-disco-samurai.json) |
+| Disco Time 80s VR | 40466 | [40466-disco-time-80s-vr.json](./40466-disco-time-80s-vr.json) |
 | Disco Tomb | 217299 | [217299-disco-tomb.json](./217299-disco-tomb.json) |
 | Disco Zombie Fever | 240200 | [240200-disco-zombie-fever.json](./240200-disco-zombie-fever.json) |
 | Disco Zoo | 61514 | [61514-disco-zoo.json](./61514-disco-zoo.json) |
@@ -10075,6 +10077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disposable heroes 2 : The curse that killed a queen | 173193 | [173193-disposable-heroes-2-the-curse-that-killed-a-queen.json](./173193-disposable-heroes-2-the-curse-that-killed-a-queen.json) |
 | Disposal Of Otherworldly Monsters | 271223 | [271223-disposal-of-otherworldly-monsters.json](./271223-disposal-of-otherworldly-monsters.json) |
 | Disposition | 318007 | [318007-disposition.json](./318007-disposition.json) |
+| Disputed Space | 40487 | [40487-disputed-space.json](./40487-disputed-space.json) |
 | Disquiet | 226736 | [226736-disquiet.json](./226736-disquiet.json) |
 | Disquiet Fields | 157676 | [157676-disquiet-fields.json](./157676-disquiet-fields.json) |
 | Disquieted | 397663 | [397663-disquieted.json](./397663-disquieted.json) |
@@ -11787,6 +11790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Take This Risk | 75223 | [75223-dont-take-this-risk.json](./75223-dont-take-this-risk.json) |
 | Don't Talk to Strangers | 180638 | [180638-dont-talk-to-strangers.json](./180638-dont-talk-to-strangers.json) |
 | Don't Tap the White Tile | 57324 | [57324-dont-tap-the-white-tile.json](./57324-dont-tap-the-white-tile.json) |
+| Don't Tax Me, Bro! | 38966 | [38966-dont-tax-me-bro.json](./38966-dont-tax-me-bro.json) |
 | Don't Tell My Wife | 396197 | [396197-dont-tell-my-wife.json](./396197-dont-tell-my-wife.json) |
 | Don't Text and Drive | 279463 | [279463-dont-text-and-drive.json](./279463-dont-text-and-drive.json) |
 | Don't Touch Anything Red | 85090 | [85090-dont-touch-anything-red.json](./85090-dont-touch-anything-red.json) |
@@ -15638,6 +15642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive and Jump | 175243 | [175243-drive-and-jump.json](./175243-drive-and-jump.json) |
 | Drive Beyond Horizons | 290959 | [290959-drive-beyond-horizons.json](./290959-drive-beyond-horizons.json) |
 | Drive Buy | 113404 | [113404-drive-buy.json](./113404-drive-buy.json) |
+| Drive By Hero | 40098 | [40098-drive-by-hero.json](./40098-drive-by-hero.json) |
 | Drive Cars: Avoid Traffic | 255175 | [255175-drive-cars-avoid-traffic.json](./255175-drive-cars-avoid-traffic.json) |
 | Drive Dangerously! | 411661 | [411661-drive-dangerously.json](./411661-drive-dangerously.json) |
 | Drive Drift X | 187487 | [187487-drive-drift-x.json](./187487-drive-drift-x.json) |
