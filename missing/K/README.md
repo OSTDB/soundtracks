@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katana Rama | 207666 | [207666-katana-rama.json](./207666-katana-rama.json) |
 | Katana Robo: RTA | 278546 | [278546-katana-robo-rta.json](./278546-katana-robo-rta.json) |
 | Katana Soul | 115074 | [115074-katana-soul.json](./115074-katana-soul.json) |
+| Katana X | 41132 | [41132-katana-x.json](./41132-katana-x.json) |
 | Katana Zero DLC | 339625 | [339625-katana-zero-dlc.json](./339625-katana-zero-dlc.json) |
 | Katana's Path | 289307 | [289307-katanas-path.json](./289307-katanas-path.json) |
 | Katanaut | 323461 | [323461-katanaut.json](./323461-katanaut.json) |
