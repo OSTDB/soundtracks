@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TAL: Wizard's Adventures | 126956 | [126956-tal-wizards-adventures.json](./126956-tal-wizards-adventures.json) |
 | Talaire | 423953 | [423953-talaire.json](./423953-talaire.json) |
 | Talaka | 366585 | [366585-talaka.json](./366585-talaka.json) |
+| Taldi's Hardware Store: Factory Reset | 400946 | [400946-taldis-hardware-store-factory-reset.json](./400946-taldis-hardware-store-factory-reset.json) |
 | Tale of a Hero | 63385 | [63385-tale-of-a-hero.json](./63385-tale-of-a-hero.json) |
 | Tale of a Wolf | 139641 | [139641-tale-of-a-wolf.json](./139641-tale-of-a-wolf.json) |
 | Tale of Alamar | 87778 | [87778-tale-of-alamar.json](./87778-tale-of-alamar.json) |
@@ -5436,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alchemist's House | 127527 | [127527-the-alchemists-house.json](./127527-the-alchemists-house.json) |
 | The Alcor Trivia Pro Classic Star Trek (Star-Log I) | 71672 | [71672-the-alcor-trivia-pro-classic-star-trek-star-log-i.json](./71672-the-alcor-trivia-pro-classic-star-trek-star-log-i.json) |
 | The Alehouse Tavern Chronicles | 335074 | [335074-the-alehouse-tavern-chronicles.json](./335074-the-alehouse-tavern-chronicles.json) |
+| The Aleksandre Case | 400926 | [400926-the-aleksandre-case.json](./400926-the-aleksandre-case.json) |
 | The Alfonzone | 256890 | [256890-the-alfonzone.json](./256890-the-alfonzone.json) |
 | The Alien | 21637 | [21637-the-alien.json](./21637-the-alien.json) |
 | The Alien Creature | 216663 | [216663-the-alien-creature.json](./216663-the-alien-creature.json) |
@@ -6218,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Birds and the Bees II: Antics | 73610 | [73610-the-birds-and-the-bees-ii-antics.json](./73610-the-birds-and-the-bees-ii-antics.json) |
 | The Birdsong Tree | 404435 | [404435-the-birdsong-tree.json](./404435-the-birdsong-tree.json) |
 | The Birdwatcher | 198101 | [198101-the-birdwatcher.json](./198101-the-birdwatcher.json) |
+| The Birth Cry | 400911 | [400911-the-birth-cry.json](./400911-the-birth-cry.json) |
 | The Birth of an Artificial Intelligence | 165778 | [165778-the-birth-of-an-artificial-intelligence.json](./165778-the-birth-of-an-artificial-intelligence.json) |
 | The Birth of Magic | 421803 | [421803-the-birth-of-magic.json](./421803-the-birth-of-magic.json) |
 | The Birthday | 199199 | [199199-the-birthday.json](./199199-the-birthday.json) |
@@ -15189,6 +15192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Life of Dorian Pink | 217108 | [217108-the-secret-life-of-dorian-pink.json](./217108-the-secret-life-of-dorian-pink.json) |
 | The Secret Life of Pets: Unleashed | 58324 | [58324-the-secret-life-of-pets-unleashed.json](./58324-the-secret-life-of-pets-unleashed.json) |
 | The Secret Life of Probes Prologue | 249639 | [249639-the-secret-life-of-probes-prologue.json](./249639-the-secret-life-of-probes-prologue.json) |
+| The Secret Love Song of the Black and White Metropolis | 401003 | [401003-the-secret-love-song-of-the-black-and-white-metropolis.json](./401003-the-secret-love-song-of-the-black-and-white-metropolis.json) |
 | The Secret of Bastow Manor | 74846 | [74846-the-secret-of-bastow-manor.json](./74846-the-secret-of-bastow-manor.json) |
 | The Secret of Cat Island | 194003 | [194003-the-secret-of-cat-island.json](./194003-the-secret-of-cat-island.json) |
 | The Secret of Chimera Labs | 91169 | [91169-the-secret-of-chimera-labs.json](./91169-the-secret-of-chimera-labs.json) |
@@ -26314,6 +26318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trails in the Sky 1st Chapter: Character Stand Set | 370832 | [370832-trails-in-the-sky-1st-chapter-character-stand-set.json](./370832-trails-in-the-sky-1st-chapter-character-stand-set.json) |
 | Trails in the Sky 1st Chapter: Demon King Dress-up Set | 370833 | [370833-trails-in-the-sky-1st-chapter-demon-king-dress-up-set.json](./370833-trails-in-the-sky-1st-chapter-demon-king-dress-up-set.json) |
 | Trails in the Sky 1st Chapter: Fine Red Diner Costume Set Vol. 3 | 370834 | [370834-trails-in-the-sky-1st-chapter-fine-red-diner-costume-set-vol-3.json](./370834-trails-in-the-sky-1st-chapter-fine-red-diner-costume-set-vol-3.json) |
+| Trails in the Sky 1st Chapter: Glasses Set A | 400923 | [400923-trails-in-the-sky-1st-chapter-glasses-set-a.json](./400923-trails-in-the-sky-1st-chapter-glasses-set-a.json) |
 | Trails in the Sky 1st Chapter: Launch Celebration Pack | 370835 | [370835-trails-in-the-sky-1st-chapter-launch-celebration-pack.json](./370835-trails-in-the-sky-1st-chapter-launch-celebration-pack.json) |
 | Trails in the Sky 1st Chapter: Original Diner Costume Set Vol. 3 | 370836 | [370836-trails-in-the-sky-1st-chapter-original-diner-costume-set-vol-3.json](./370836-trails-in-the-sky-1st-chapter-original-diner-costume-set-vol-3.json) |
 | Trails in the Sky 1st Chapter: Resort Style Swimsuits (Estelle & Joshua) | 370837 | [370837-trails-in-the-sky-1st-chapter-resort-style-swimsuits-estelle-and-joshua.json](./370837-trails-in-the-sky-1st-chapter-resort-style-swimsuits-estelle-and-joshua.json) |
