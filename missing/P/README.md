@@ -9133,6 +9133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play! The Ultimate Casual Game Collection | 69097 | [69097-play-the-ultimate-casual-game-collection.json](./69097-play-the-ultimate-casual-game-collection.json) |
 | Play'te Spinna | 290991 | [290991-playte-spinna.json](./290991-playte-spinna.json) |
 | Playable Alpha | 304603 | [304603-playable-alpha.json](./304603-playable-alpha.json) |
+| Playable Archive | 425848 | [425848-playable-archive.json](./425848-playable-archive.json) |
 | Playable Mockup | 245387 | [245387-playable-mockup.json](./245387-playable-mockup.json) |
 | PlayAgain 2: The Golden Legend | 367482 | [367482-playagain-2-the-golden-legend.json](./367482-playagain-2-the-golden-legend.json) |
 | Playback '94: Episode 1 - Post Office | 407410 | [407410-playback-94-episode-1-post-office.json](./407410-playback-94-episode-1-post-office.json) |
@@ -17430,6 +17431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles: Fish | 414498 | [414498-puzzles-fish.json](./414498-puzzles-fish.json) |
 | PuzzlesCave | 125091 | [125091-puzzlescave.json](./125091-puzzlescave.json) |
 | PuzzleScriptMis | 312684 | [312684-puzzlescriptmis.json](./312684-puzzlescriptmis.json) |
+| PuzzlesO | 425837 | [425837-puzzleso.json](./425837-puzzleso.json) |
 | PuzzleSpin: Patterns in Nature | 98572 | [98572-puzzlespin-patterns-in-nature.json](./98572-puzzlespin-patterns-in-nature.json) |
 | Puzzlestuck | 352313 | [352313-puzzlestuck.json](./352313-puzzlestuck.json) |
 | PuzzleTales: Svalbard | 120202 | [120202-puzzletales-svalbard.json](./120202-puzzletales-svalbard.json) |
