@@ -3950,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redhowl | 382862 | [382862-redhowl.json](./382862-redhowl.json) |
 | Redial:Conundrum | 273444 | [273444-redial-conundrum.json](./273444-redial-conundrum.json) |
 | Redie | 25954 | [25954-redie.json](./25954-redie.json) |
+| Redirection | 25576 | [25576-redirection.json](./25576-redirection.json) |
 | Rediscovering Earth | 183374 | [183374-rediscovering-earth.json](./183374-rediscovering-earth.json) |
 | Redisruption | 71873 | [71873-redisruption.json](./71873-redisruption.json) |
 | Reditum | 148898 | [148898-reditum.json](./148898-reditum.json) |
