@@ -2453,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waveform | 15273 | [15273-waveform.json](./15273-waveform.json) |
 | Waveform Wipeout | 105687 | [105687-waveform-wipeout.json](./105687-waveform-wipeout.json) |
 | Waveform: Eris | 168945 | [168945-waveform-eris.json](./168945-waveform-eris.json) |
+| WaveLand | 31159 | [31159-waveland.json](./31159-waveland.json) |
 | Wavelength | 140902 | [140902-wavelength.json](./140902-wavelength.json) |
 | Waven | 109536 | [109536-waven.json](./109536-waven.json) |
 | Waven: Drhell's Bells Pack | 289458 | [289458-waven-drhells-bells-pack.json](./289458-waven-drhells-bells-pack.json) |
