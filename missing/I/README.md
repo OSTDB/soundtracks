@@ -3209,6 +3209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industry Giant II | 16947 | [16947-industry-giant-ii.json](./16947-industry-giant-ii.json) |
 | Industry Giant: Expansion Set | 100137 | [100137-industry-giant-expansion-set.json](./100137-industry-giant-expansion-set.json) |
 | Industry Idle | 148408 | [148408-industry-idle.json](./148408-industry-idle.json) |
+| Industry Manager: Future Technologies | 25808 | [25808-industry-manager-future-technologies.json](./25808-industry-manager-future-technologies.json) |
 | Industry Mania | 181097 | [181097-industry-mania.json](./181097-industry-mania.json) |
 | Industry Transporters | 35102 | [35102-industry-transporters.json](./35102-industry-transporters.json) |
 | IndustryPlayer | 79239 | [79239-industryplayer.json](./79239-industryplayer.json) |
@@ -5267,6 +5268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iratus: Lord of the Dead | 93694 | [93694-iratus-lord-of-the-dead.json](./93694-iratus-lord-of-the-dead.json) |
 | Iratus: Necromancer Edition | 154555 | [154555-iratus-necromancer-edition.json](./154555-iratus-necromancer-edition.json) |
 | Irbot | 233212 | [233212-irbot.json](./233212-irbot.json) |
+| IRec | 30471 | [30471-irec.json](./30471-irec.json) |
 | Irehon | 188413 | [188413-irehon.json](./188413-irehon.json) |
 | Irekae IQ Crossword | 292040 | [292040-irekae-iq-crossword.json](./292040-irekae-iq-crossword.json) |
 | Irekae IQ Crossword DX | 292041 | [292041-irekae-iq-crossword-dx.json](./292041-irekae-iq-crossword-dx.json) |
