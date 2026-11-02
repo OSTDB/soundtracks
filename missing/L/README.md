@@ -6853,6 +6853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tune Dash | 101947 | [101947-looney-tune-dash.json](./101947-looney-tune-dash.json) |
 | Looney Tunes | 265041 | [265041-looney-tunes.json](./265041-looney-tunes.json) |
 | Looney Tunes | 290324 | [290324-looney-tunes.json](./290324-looney-tunes.json) |
+| Looney Tunes | 8133 | [8133-looney-tunes.json](./8133-looney-tunes.json) |
 | Looney Tunes B-Ball | 42585 | [42585-looney-tunes-b-ball.json](./42585-looney-tunes-b-ball.json) |
 | Looney Tunes Collector: Alert! | 49882 | [49882-looney-tunes-collector-alert.json](./49882-looney-tunes-collector-alert.json) |
 | Looney Tunes Cosmic Capers | 71430 | [71430-looney-tunes-cosmic-capers.json](./71430-looney-tunes-cosmic-capers.json) |
@@ -7217,6 +7218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of the Realm | 12669 | [12669-lords-of-the-realm.json](./12669-lords-of-the-realm.json) |
 | Lords of the Realm II | 19124 | [19124-lords-of-the-realm-ii.json](./19124-lords-of-the-realm-ii.json) |
 | Lords of the Realm II: Siege Pack | 80478 | [80478-lords-of-the-realm-ii-siege-pack.json](./80478-lords-of-the-realm-ii-siege-pack.json) |
+| Lords of the Realm III | 7322 | [7322-lords-of-the-realm-iii.json](./7322-lords-of-the-realm-iii.json) |
 | Lords of the Realm: Royal Edition | 51841 | [51841-lords-of-the-realm-royal-edition.json](./51841-lords-of-the-realm-royal-edition.json) |
 | Lords of the Rising Sun | 8669 | [8669-lords-of-the-rising-sun.json](./8669-lords-of-the-rising-sun.json) |
 | Lords of the Shattered Kingdom | 133787 | [133787-lords-of-the-shattered-kingdom.json](./133787-lords-of-the-shattered-kingdom.json) |
@@ -7494,6 +7496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Hopes: Day of Betrayal | 415468 | [415468-lost-hopes-day-of-betrayal.json](./415468-lost-hopes-day-of-betrayal.json) |
 | Lost Horizon | 200193 | [200193-lost-horizon.json](./200193-lost-horizon.json) |
 | Lost Horizon | 7311 | [7311-lost-horizon.json](./7311-lost-horizon.json) |
+| Lost Horizon 2 | 7312 | [7312-lost-horizon-2.json](./7312-lost-horizon-2.json) |
 | Lost Host | 378896 | [378896-lost-host.json](./378896-lost-host.json) |
 | Lost Howl | 374894 | [374894-lost-howl.json](./374894-lost-howl.json) |
 | Lost Identities | 272794 | [272794-lost-identities.json](./272794-lost-identities.json) |
