@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakeside Has No Lake!! | 355614 | [355614-lakeside-has-no-lake.json](./355614-lakeside-has-no-lake.json) |
 | Lakesider: Above and Below | 285477 | [285477-lakesider-above-and-below.json](./285477-lakesider-above-and-below.json) |
 | Lakeview Cabin 2 | 149478 | [149478-lakeview-cabin-2.json](./149478-lakeview-cabin-2.json) |
+| Lakeview Cabin Collection | 25622 | [25622-lakeview-cabin-collection.json](./25622-lakeview-cabin-collection.json) |
 | Lakeview Valley | 117690 | [117690-lakeview-valley.json](./117690-lakeview-valley.json) |
 | Lakitu's Great Adventure | 217842 | [217842-lakitus-great-adventure.json](./217842-lakitus-great-adventure.json) |
 | Lakitu's Great Adventure 2 | 222974 | [222974-lakitus-great-adventure-2.json](./222974-lakitus-great-adventure-2.json) |
@@ -2226,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left Alive | 68287 | [68287-left-alive.json](./68287-left-alive.json) |
 | Left Alive: Day One Edition | 119066 | [119066-left-alive-day-one-edition.json](./119066-left-alive-day-one-edition.json) |
 | Left Alive: Mech Edition | 111022 | [111022-left-alive-mech-edition.json](./111022-left-alive-mech-edition.json) |
+| Left Alone | 26527 | [26527-left-alone.json](./26527-left-alone.json) |
 | Left at Home | 241488 | [241488-left-at-home.json](./241488-left-at-home.json) |
 | Left Behind 3: Rise of the Antichrist | 65727 | [65727-left-behind-3-rise-of-the-antichrist.json](./65727-left-behind-3-rise-of-the-antichrist.json) |
 | Left Behind 4: World at War | 62381 | [62381-left-behind-4-world-at-war.json](./62381-left-behind-4-world-at-war.json) |
@@ -4145,6 +4147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is a Race | 199086 | [199086-life-is-a-race.json](./199086-life-is-a-race.json) |
 | Life is Feudal: Arden | 321560 | [321560-life-is-feudal-arden.json](./321560-life-is-feudal-arden.json) |
 | Life is Feudal: Forest Village | 23345 | [23345-life-is-feudal-forest-village.json](./23345-life-is-feudal-forest-village.json) |
+| Life Is Feudal: MMO | 24611 | [24611-life-is-feudal-mmo.json](./24611-life-is-feudal-mmo.json) |
 | Life is Feudal: Your Own | 9243 | [9243-life-is-feudal-your-own.json](./9243-life-is-feudal-your-own.json) |
 | Life Is Hard, and Then You Buy a Cactus | 178957 | [178957-life-is-hard-and-then-you-buy-a-cactus.json](./178957-life-is-hard-and-then-you-buy-a-cactus.json) |
 | Life is Magic | 64426 | [64426-life-is-magic.json](./64426-life-is-magic.json) |
