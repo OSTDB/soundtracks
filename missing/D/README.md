@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Day: America Invades | 69911 | [69911-d-day-america-invades.json](./69911-d-day-america-invades.json) |
 | D-Day: Normandy | 180210 | [180210-d-day-normandy.json](./180210-d-day-normandy.json) |
 | D-Day: The Beginning of the End | 12417 | [12417-d-day-the-beginning-of-the-end.json](./12417-d-day-the-beginning-of-the-end.json) |
+| D-Extinction | 405809 | [405809-d-extinction.json](./405809-d-extinction.json) |
 | D-Hospital | 301866 | [301866-d-hospital.json](./301866-d-hospital.json) |
 | D-List Diva | 270279 | [270279-d-list-diva.json](./270279-d-list-diva.json) |
 | D-Pad Hero | 163218 | [163218-d-pad-hero.json](./163218-d-pad-hero.json) |
@@ -2644,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of H'btakh: Get Lost and Die | 58487 | [58487-dawn-of-hbtakh-get-lost-and-die.json](./58487-dawn-of-hbtakh-get-lost-and-die.json) |
 | Dawn of Heroes | 19721 | [19721-dawn-of-heroes.json](./19721-dawn-of-heroes.json) |
 | Dawn of Hope: Thunder Daughter | 103870 | [103870-dawn-of-hope-thunder-daughter.json](./103870-dawn-of-hope-thunder-daughter.json) |
+| Dawn of Horror | 405800 | [405800-dawn-of-horror.json](./405800-dawn-of-horror.json) |
 | Dawn of Insolence | 271110 | [271110-dawn-of-insolence.json](./271110-dawn-of-insolence.json) |
 | Dawn of Kagura: Hatsuka's Story | 325310 | [325310-dawn-of-kagura-hatsukas-story.json](./325310-dawn-of-kagura-hatsukas-story.json) |
 | Dawn of Kagura: Keika's Story | 325309 | [325309-dawn-of-kagura-keikas-story.json](./325309-dawn-of-kagura-keikas-story.json) |
@@ -4901,6 +4903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Abyss 3D | 260872 | [260872-deep-abyss-3d.json](./260872-deep-abyss-3d.json) |
 | Deep Alchemy Dungeon | 207500 | [207500-deep-alchemy-dungeon.json](./207500-deep-alchemy-dungeon.json) |
 | Deep Among the Swarm | 285013 | [285013-deep-among-the-swarm.json](./285013-deep-among-the-swarm.json) |
+| Deep Anomaly | 405842 | [405842-deep-anomaly.json](./405842-deep-anomaly.json) |
 | Deep Aquarium | 124688 | [124688-deep-aquarium.json](./124688-deep-aquarium.json) |
 | Deep Assault | 235816 | [235816-deep-assault.json](./235816-deep-assault.json) |
 | Deep Below | 31368 | [31368-deep-below.json](./31368-deep-below.json) |
@@ -8086,6 +8089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Goblin's Den | 392118 | [392118-dice-goblins-den.json](./392118-dice-goblins-den.json) |
 | Dice Goblins Clicker | 392864 | [392864-dice-goblins-clicker.json](./392864-dice-goblins-clicker.json) |
 | Dice Guess | 295089 | [295089-dice-guess.json](./295089-dice-guess.json) |
+| Dice Gun Commando | 405811 | [405811-dice-gun-commando.json](./405811-dice-gun-commando.json) |
 | Dice Guy | 217006 | [217006-dice-guy.json](./217006-dice-guy.json) |
 | Dice Have No Eyes | 399433 | [399433-dice-have-no-eyes.json](./399433-dice-have-no-eyes.json) |
 | Dice Hero: The Unoriginal Story | 234673 | [234673-dice-hero-the-unoriginal-story.json](./234673-dice-hero-the-unoriginal-story.json) |
@@ -11900,6 +11904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Touch this Button! | 158161 | [158161-dont-touch-this-button.json](./158161-dont-touch-this-button.json) |
 | Don't Toy With Me | 204257 | [204257-dont-toy-with-me.json](./204257-dont-toy-with-me.json) |
 | Don't Trust | 311121 | [311121-dont-trust.json](./311121-dont-trust.json) |
+| Don’t Trust | 405802 | [405802-don-t-trust.json](./405802-don-t-trust.json) |
 | Don’t Turn off the Light | 390080 | [390080-don-t-turn-off-the-light.json](./390080-don-t-turn-off-the-light.json) |
 | Don't Turn Your Back On The City | 256797 | [256797-dont-turn-your-back-on-the-city.json](./256797-dont-turn-your-back-on-the-city.json) |
 | Don't Wake God | 236456 | [236456-dont-wake-god.json](./236456-dont-wake-god.json) |
@@ -12434,7 +12439,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom3D | 196011 | [196011-doom3d.json](./196011-doom3d.json) |
 | DOOM4: Death Foretold | 139120 | [139120-doom4-death-foretold.json](./139120-doom4-death-foretold.json) |
 | DoomAI | 118017 | [118017-doomai.json](./118017-doomai.json) |
-| Doomblade | 114004 | [114004-doomblade.json](./114004-doomblade.json) |
 | Doombox | 308476 | [308476-doombox.json](./308476-doombox.json) |
 | Doombox | 372826 | [372826-doombox.json](./372826-doombox.json) |
 | DoomBreaker | 149474 | [149474-doombreaker.json](./149474-doombreaker.json) |
@@ -15387,6 +15391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscape Puzzles | 263870 | [263870-dreamscape-puzzles.json](./263870-dreamscape-puzzles.json) |
 | Dreamscape Return | 290920 | [290920-dreamscape-return.json](./290920-dreamscape-return.json) |
 | Dreamscape Runners | 238503 | [238503-dreamscape-runners.json](./238503-dreamscape-runners.json) |
+| Dreamscapes | 405821 | [405821-dreamscapes.json](./405821-dreamscapes.json) |
 | DreamScapes Dimensions | 189339 | [189339-dreamscapes-dimensions.json](./189339-dreamscapes-dimensions.json) |
 | Dreamscapes: Nightmare's Heir | 59908 | [59908-dreamscapes-nightmares-heir.json](./59908-dreamscapes-nightmares-heir.json) |
 | Dreamscapes: The Full Journey | 410379 | [410379-dreamscapes-the-full-journey.json](./410379-dreamscapes-the-full-journey.json) |
