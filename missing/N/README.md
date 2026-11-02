@@ -1461,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nearly Impossible Odds | 373284 | [373284-nearly-impossible-odds.json](./373284-nearly-impossible-odds.json) |
 | NearPrime VR | 122141 | [122141-nearprime-vr.json](./122141-nearprime-vr.json) |
 | Nearwood | 60336 | [60336-nearwood.json](./60336-nearwood.json) |
+| Nearwood: Collector's Edition | 36373 | [36373-nearwood-collectors-edition.json](./36373-nearwood-collectors-edition.json) |
 | Neat | 396576 | [396576-neat.json](./396576-neat.json) |
 | Neaten Up! | 385592 | [385592-neaten-up.json](./385592-neaten-up.json) |
 | Neath | 380409 | [380409-neath.json](./380409-neath.json) |
@@ -4576,6 +4577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nim's Sin Removal Service | 216299 | [216299-nims-sin-removal-service.json](./216299-nims-sin-removal-service.json) |
 | Niman | 370983 | [370983-niman.json](./370983-niman.json) |
 | Nimbatus: Drone Creator | 132564 | [132564-nimbatus-drone-creator.json](./132564-nimbatus-drone-creator.json) |
+| Nimbatus: The Space Drone Constructor | 34919 | [34919-nimbatus-the-space-drone-constructor.json](./34919-nimbatus-the-space-drone-constructor.json) |
 | Nimbit Frontier | 258173 | [258173-nimbit-frontier.json](./258173-nimbit-frontier.json) |
 | Nimble Bunn | 68805 | [68805-nimble-bunn.json](./68805-nimble-bunn.json) |
 | Nimble Fish | 55234 | [55234-nimble-fish.json](./55234-nimble-fish.json) |
