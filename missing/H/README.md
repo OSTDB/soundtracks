@@ -4448,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henchman For Hire | 132489 | [132489-henchman-for-hire.json](./132489-henchman-for-hire.json) |
 | Henchman Story | 151303 | [151303-henchman-story.json](./151303-henchman-story.json) |
 | Hendecad | 124711 | [124711-hendecad.json](./124711-hendecad.json) |
+| Hendichen | 414705 | [414705-hendichen.json](./414705-hendichen.json) |
 | Hengband | 141020 | [141020-hengband.json](./141020-hengband.json) |
 | Héngsǎo Tiānxià | 128322 | [128322-hengsao-tianxia.json](./128322-hengsao-tianxia.json) |
 | Henhouse | 44392 | [44392-henhouse.json](./44392-henhouse.json) |
