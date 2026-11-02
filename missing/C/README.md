@@ -1449,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canyon | 308315 | [308315-canyon.json](./308315-canyon.json) |
 | Canyon | 387736 | [387736-canyon.json](./387736-canyon.json) |
 | Canyon Bomber | 17017 | [17017-canyon-bomber.json](./17017-canyon-bomber.json) |
+| Canyon Capers | 7875 | [7875-canyon-capers.json](./7875-canyon-capers.json) |
 | Canyon Capers: Rio Fever | 25515 | [25515-canyon-capers-rio-fever.json](./25515-canyon-capers-rio-fever.json) |
 | Canyon Carnage | 420503 | [420503-canyon-carnage.json](./420503-canyon-carnage.json) |
 | Canyon Climber | 21921 | [21921-canyon-climber.json](./21921-canyon-climber.json) |
@@ -1613,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capitalism | 9210 | [9210-capitalism.json](./9210-capitalism.json) |
 | Capitalism II | 921 | [921-capitalism-ii.json](./921-capitalism-ii.json) |
 | Capitalism Lab | 27295 | [27295-capitalism-lab.json](./27295-capitalism-lab.json) |
+| Capitalism Plus | 9209 | [9209-capitalism-plus.json](./9209-capitalism-plus.json) |
 | Capitalist Misadventures | 358290 | [358290-capitalist-misadventures.json](./358290-capitalist-misadventures.json) |
 | Capitals | 60074 | [60074-capitals.json](./60074-capitals.json) |
 | Capitals Quizzer | 89582 | [89582-capitals-quizzer.json](./89582-capitals-quizzer.json) |
@@ -7208,6 +7210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chomperman | 62964 | [62964-chomperman.json](./62964-chomperman.json) |
 | Chompies! | 207407 | [207407-chompies.json](./207407-chompies.json) |
 | Chompsters | 141602 | [141602-chompsters.json](./141602-chompsters.json) |
+| Chompy Chomp Chomp | 8425 | [8425-chompy-chomp-chomp.json](./8425-chompy-chomp-chomp.json) |
 | Chompy Chomp Chomp Party | 223508 | [223508-chompy-chomp-chomp-party.json](./223508-chompy-chomp-chomp-party.json) |
 | Chompy: The Greedy Crocodile | 138626 | [138626-chompy-the-greedy-crocodile.json](./138626-chompy-the-greedy-crocodile.json) |
 | Chondriatic | 258572 | [258572-chondriatic.json](./258572-chondriatic.json) |
@@ -12122,6 +12125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 2: Soviet Commander - Tank Hunter Tactics | 168292 | [168292-company-of-heroes-2-soviet-commander-tank-hunter-tactics.json](./168292-company-of-heroes-2-soviet-commander-tank-hunter-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Terror Tactics | 168293 | [168293-company-of-heroes-2-soviet-commander-terror-tactics.json](./168293-company-of-heroes-2-soviet-commander-terror-tactics.json) |
 | Company of Heroes 2: The British Forces | 11496 | [11496-company-of-heroes-2-the-british-forces.json](./11496-company-of-heroes-2-the-british-forces.json) |
+| Company of Heroes 2: The Western Front Armies | 8444 | [8444-company-of-heroes-2-the-western-front-armies.json](./8444-company-of-heroes-2-the-western-front-armies.json) |
 | Company of Heroes 2: The Western Front Armies - Oberkommando West | 36375 | [36375-company-of-heroes-2-the-western-front-armies-oberkommando-west.json](./36375-company-of-heroes-2-the-western-front-armies-oberkommando-west.json) |
 | Company of Heroes 2: The Western Front Armies - US Forces | 36374 | [36374-company-of-heroes-2-the-western-front-armies-us-forces.json](./36374-company-of-heroes-2-the-western-front-armies-us-forces.json) |
 | Company of Heroes 2: US Forces Commander - Rifle Company | 168290 | [168290-company-of-heroes-2-us-forces-commander-rifle-company.json](./168290-company-of-heroes-2-us-forces-commander-rifle-company.json) |
@@ -17370,6 +17374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Project: Mod Pack 1 - Quality Fun | 300934 | [300934-crystal-project-mod-pack-1-quality-fun.json](./300934-crystal-project-mod-pack-1-quality-fun.json) |
 | Crystal Project: Mod Pack 2 - New Challenges | 314886 | [314886-crystal-project-mod-pack-2-new-challenges.json](./314886-crystal-project-mod-pack-2-new-challenges.json) |
 | Crystal Quest | 277142 | [277142-crystal-quest.json](./277142-crystal-quest.json) |
+| Crystal Quest | 7827 | [7827-crystal-quest.json](./7827-crystal-quest.json) |
 | Crystal Quest Classic | 32182 | [32182-crystal-quest-classic.json](./32182-crystal-quest-classic.json) |
 | Crystal Raider | 55188 | [55188-crystal-raider.json](./55188-crystal-raider.json) |
 | Crystal Raiders VR | 144178 | [144178-crystal-raiders-vr.json](./144178-crystal-raiders-vr.json) |
