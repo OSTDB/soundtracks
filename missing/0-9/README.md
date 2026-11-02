@@ -2569,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4NR | 55975 | [55975-4nr.json](./55975-4nr.json) |
 | 4ordle | 301040 | [301040-4ordle.json](./301040-4ordle.json) |
 | 4P Ping-Pong | 93492 | [93492-4p-ping-pong.json](./93492-4p-ping-pong.json) |
+| 4PGP | 384184 | [384184-4pgp.json](./384184-4pgp.json) |
 | 4PM | 8115 | [8115-4pm.json](./8115-4pm.json) |
 | 4RC4N01D 3: Cold Space | 89410 | [89410-4rc4n01d-3-cold-space.json](./89410-4rc4n01d-3-cold-space.json) |
 | 4rc4n01d! | 81969 | [81969-4rc4n01d.json](./81969-4rc4n01d.json) |
