@@ -3307,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoltRhythm | 349737 | [349737-voltrhythm.json](./349737-voltrhythm.json) |
 | Voltron | 95400 | [95400-voltron.json](./95400-voltron.json) |
 | Voltron: Cubes of Olkarion | 120409 | [120409-voltron-cubes-of-olkarion.json](./120409-voltron-cubes-of-olkarion.json) |
+| Voltron: Defender of the Universe | 24237 | [24237-voltron-defender-of-the-universe.json](./24237-voltron-defender-of-the-universe.json) |
 | Voltus' Neon Nightmare - Colossal Cure | 419930 | [419930-voltus-neon-nightmare-colossal-cure.json](./419930-voltus-neon-nightmare-colossal-cure.json) |
 | Volty's Quest | 181848 | [181848-voltys-quest.json](./181848-voltys-quest.json) |
 | Volume | 9647 | [9647-volume.json](./9647-volume.json) |
