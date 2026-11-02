@@ -7977,6 +7977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melty Amethyst | 307869 | [307869-melty-amethyst.json](./307869-melty-amethyst.json) |
 | Melty Blood Actress Again | 22984 | [22984-melty-blood-actress-again.json](./22984-melty-blood-actress-again.json) |
 | Melty Blood Actress Again Current Code | 19943 | [19943-melty-blood-actress-again-current-code.json](./19943-melty-blood-actress-again-current-code.json) |
+| Melty Blood Re-Act | 145125 | [145125-melty-blood-re-act.json](./145125-melty-blood-re-act.json) |
 | Melty Blood: Twi-Lumina | 400268 | [400268-melty-blood-twi-lumina.json](./400268-melty-blood-twi-lumina.json) |
 | Melty Blood: Type Lumina | 145017 | [145017-melty-blood-type-lumina.json](./145017-melty-blood-type-lumina.json) |
 | Melty Blood: Type Lumina - Deluxe Edition | 165597 | [165597-melty-blood-type-lumina-deluxe-edition.json](./165597-melty-blood-type-lumina-deluxe-edition.json) |
@@ -8611,6 +8612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MerFight | 191862 | [191862-merfight.json](./191862-merfight.json) |
 | Merge | 121544 | [121544-merge.json](./121544-merge.json) |
 | Merge | 310137 | [310137-merge.json](./310137-merge.json) |
+| Merge & Blade | 153050 | [153050-merge-and-blade.json](./153050-merge-and-blade.json) |
 | Merge & Blade: Berserker | 246767 | [246767-merge-and-blade-berserker.json](./246767-merge-and-blade-berserker.json) |
 | Merge & Blade: Mineral mine | 246768 | [246768-merge-and-blade-mineral-mine.json](./246768-merge-and-blade-mineral-mine.json) |
 | Merge & Blade: Puppy Charater | 246769 | [246769-merge-and-blade-puppy-charater.json](./246769-merge-and-blade-puppy-charater.json) |
@@ -11470,6 +11472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Mutants Add-On 2.0 | 334049 | [334049-minecraft-mutants-add-on-2-0.json](./334049-minecraft-mutants-add-on-2-0.json) |
 | Minecraft: Natural Texture Pack | 334052 | [334052-minecraft-natural-texture-pack.json](./334052-minecraft-natural-texture-pack.json) |
 | Minecraft: Nerf World | 269952 | [269952-minecraft-nerf-world.json](./269952-minecraft-nerf-world.json) |
+| Minecraft: New Nintendo 3DS Edition | 67191 | [67191-minecraft-new-nintendo-3ds-edition.json](./67191-minecraft-new-nintendo-3ds-edition.json) |
 | Minecraft: Nightmare Skin Pack | 333235 | [333235-minecraft-nightmare-skin-pack.json](./333235-minecraft-nightmare-skin-pack.json) |
 | Minecraft: Nintendo Switch Edition | 85614 | [85614-minecraft-nintendo-switch-edition.json](./85614-minecraft-nintendo-switch-edition.json) |
 | Minecraft: Norse Mythology Bonus Skins | 322957 | [322957-minecraft-norse-mythology-bonus-skins.json](./322957-minecraft-norse-mythology-bonus-skins.json) |
@@ -17588,6 +17591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muggo! | 237510 | [237510-muggo.json](./237510-muggo.json) |
 | Mughaan | 238522 | [238522-mughaan.json](./238522-mughaan.json) |
 | Mugogy Jump | 298300 | [298300-mugogy-jump.json](./298300-mugogy-jump.json) |
+| Mugsters | 68364 | [68364-mugsters.json](./68364-mugsters.json) |
 | Mugsy | 25719 | [25719-mugsy.json](./25719-mugsy.json) |
 | Mugsy & Mugsy's Revenge | 204166 | [204166-mugsy-and-mugsys-revenge.json](./204166-mugsy-and-mugsys-revenge.json) |
 | Mugsy's Revenge | 26216 | [26216-mugsys-revenge.json](./26216-mugsys-revenge.json) |
