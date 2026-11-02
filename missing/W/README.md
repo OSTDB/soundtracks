@@ -3663,6 +3663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune | 116957 | [116957-wheel-of-fortune.json](./116957-wheel-of-fortune.json) |
 | Wheel of Fortune | 119255 | [119255-wheel-of-fortune.json](./119255-wheel-of-fortune.json) |
 | Wheel of Fortune | 128891 | [128891-wheel-of-fortune.json](./128891-wheel-of-fortune.json) |
+| Wheel of Fortune | 142026 | [142026-wheel-of-fortune.json](./142026-wheel-of-fortune.json) |
 | Wheel of Fortune | 144230 | [144230-wheel-of-fortune.json](./144230-wheel-of-fortune.json) |
 | Wheel of Fortune | 194569 | [194569-wheel-of-fortune.json](./194569-wheel-of-fortune.json) |
 | Wheel of Fortune | 198964 | [198964-wheel-of-fortune.json](./198964-wheel-of-fortune.json) |
@@ -6541,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein II: The New Colossus - The Diaries of Agent Silent Death | 75845 | [75845-wolfenstein-ii-the-new-colossus-the-diaries-of-agent-silent-death.json](./75845-wolfenstein-ii-the-new-colossus-the-diaries-of-agent-silent-death.json) |
 | Wolfenstein II: The New Colossus Collector's Edition | 38025 | [38025-wolfenstein-ii-the-new-colossus-collectors-edition.json](./38025-wolfenstein-ii-the-new-colossus-collectors-edition.json) |
 | Wolfenstein II: The New Colossus Digital Deluxe Edition | 52133 | [52133-wolfenstein-ii-the-new-colossus-digital-deluxe-edition.json](./52133-wolfenstein-ii-the-new-colossus-digital-deluxe-edition.json) |
+| Wolfenstein RPG | 67744 | [67744-wolfenstein-rpg.json](./67744-wolfenstein-rpg.json) |
 | Wolfenstein VCS | 80435 | [80435-wolfenstein-vcs.json](./80435-wolfenstein-vcs.json) |
 | Wolfenstein VCS: The Next Mission | 77284 | [77284-wolfenstein-vcs-the-next-mission.json](./77284-wolfenstein-vcs-the-next-mission.json) |
 | Wolfenstein X: Hearts of Liberty | 143081 | [143081-wolfenstein-x-hearts-of-liberty.json](./143081-wolfenstein-x-hearts-of-liberty.json) |
