@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuri Sword Saga | 291062 | [291062-yuri-sword-saga.json](./291062-yuri-sword-saga.json) |
 | Yurikago | 150898 | [150898-yurikago.json](./150898-yurikago.json) |
 | Yurikago yori Tenshi made | 402470 | [402470-yurikago-yori-tenshi-made.json](./402470-yurikago-yori-tenshi-made.json) |
+| Yurippoi Ohanashi toka | 425835 | [425835-yurippoi-ohanashi-toka.json](./425835-yurippoi-ohanashi-toka.json) |
 | Yurivania 0: Soul Night Prelude | 206157 | [206157-yurivania-0-soul-night-prelude.json](./206157-yurivania-0-soul-night-prelude.json) |
 | Yurivania 1: Uhaul of the Night | 176931 | [176931-yurivania-1-uhaul-of-the-night.json](./176931-yurivania-1-uhaul-of-the-night.json) |
 | Yurivania 2: Josette's Quest | 206158 | [206158-yurivania-2-josettes-quest.json](./206158-yurivania-2-josettes-quest.json) |
