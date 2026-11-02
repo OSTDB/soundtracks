@@ -1055,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandadog in Lost Island | 214302 | [214302-pandadog-in-lost-island.json](./214302-pandadog-in-lost-island.json) |
 | Pandaman | 201461 | [201461-pandaman.json](./201461-pandaman.json) |
 | Pandamino | 294548 | [294548-pandamino.json](./294548-pandamino.json) |
+| Pandamonia | 114261 | [114261-pandamonia.json](./114261-pandamonia.json) |
 | Pandamonium | 223265 | [223265-pandamonium.json](./223265-pandamonium.json) |
 | Pandamonium | 345520 | [345520-pandamonium.json](./345520-pandamonium.json) |
 | Pandamonium Puzzle | 381571 | [381571-pandamonium-puzzle.json](./381571-pandamonium-puzzle.json) |
@@ -2534,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party's Over: Backyard Cleanup Simulator | 414162 | [414162-partys-over-backyard-cleanup-simulator.json](./414162-partys-over-backyard-cleanup-simulator.json) |
 | Partygoer! | 329035 | [329035-partygoer.json](./329035-partygoer.json) |
 | PartyIcons | 336943 | [336943-partyicons.json](./336943-partyicons.json) |
+| PartyLine VR | 122384 | [122384-partyline-vr.json](./122384-partyline-vr.json) |
 | Partymasters | 90769 | [90769-partymasters.json](./90769-partymasters.json) |
 | Partypit Games | 214905 | [214905-partypit-games.json](./214905-partypit-games.json) |
 | PartySaur: Dino Mayhem | 261731 | [261731-partysaur-dino-mayhem.json](./261731-partysaur-dino-mayhem.json) |
@@ -11709,6 +11711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poor Man's Adventure: Narco Sub Simulator | 261722 | [261722-poor-mans-adventure-narco-sub-simulator.json](./261722-poor-mans-adventure-narco-sub-simulator.json) |
 | Poor Mouse | 273437 | [273437-poor-mouse.json](./273437-poor-mouse.json) |
 | Poor Piggy Pirate | 368146 | [368146-poor-piggy-pirate.json](./368146-poor-piggy-pirate.json) |
+| Poor Stickman | 114308 | [114308-poor-stickman.json](./114308-poor-stickman.json) |
 | Poor Thief | 298257 | [298257-poor-thief.json](./298257-poor-thief.json) |
 | Poorer Art | 377160 | [377160-poorer-art.json](./377160-poorer-art.json) |
 | Poorzzle: Puzzle Alive | 289785 | [289785-poorzzle-puzzle-alive.json](./289785-poorzzle-puzzle-alive.json) |
@@ -13122,6 +13125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
 | Press Axe | 252000 | [252000-press-axe.json](./252000-press-axe.json) |
 | Press Ctrl | 149770 | [149770-press-ctrl.json](./149770-press-ctrl.json) |
+| Press F to pay respects | 115384 | [115384-press-f-to-pay-respects.json](./115384-press-f-to-pay-respects.json) |
 | Press Forward Ooooonnnnn | 129965 | [129965-press-forward-ooooonnnnn.json](./129965-press-forward-ooooonnnnn.json) |
 | Press Inc. | 108275 | [108275-press-inc.json](./108275-press-inc.json) |
 | Press Lex to Metaverx | 212097 | [212097-press-lex-to-metaverx.json](./212097-press-lex-to-metaverx.json) |
@@ -14165,6 +14169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Stadium | 268525 | [268525-pro-stadium.json](./268525-pro-stadium.json) |
 | Pro Strategy Football 2016 | 32382 | [32382-pro-strategy-football-2016.json](./32382-pro-strategy-football-2016.json) |
 | Pro Strategy Football 2018 | 76917 | [76917-pro-strategy-football-2018.json](./76917-pro-strategy-football-2018.json) |
+| Pro Strategy Football 2020 | 122255 | [122255-pro-strategy-football-2020.json](./122255-pro-strategy-football-2020.json) |
 | Pro Strategy Football 2021 | 168164 | [168164-pro-strategy-football-2021.json](./168164-pro-strategy-football-2021.json) |
 | Pro Strategy Football 2022 | 165623 | [165623-pro-strategy-football-2022.json](./165623-pro-strategy-football-2022.json) |
 | Pro Strategy Football 2023 | 215326 | [215326-pro-strategy-football-2023.json](./215326-pro-strategy-football-2023.json) |
@@ -16727,6 +16732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pusu: Uyanış | 233902 | [233902-pusu-uyan-s.json](./233902-pusu-uyan-s.json) |
 | Puszka Pandory | 93586 | [93586-puszka-pandory.json](./93586-puszka-pandory.json) |
 | Put Anna | 105173 | [105173-put-anna.json](./105173-put-anna.json) |
+| Put in | 122803 | [122803-put-in.json](./122803-put-in.json) |
 | Put In - Run Out | 119701 | [119701-put-in-run-out.json](./119701-put-in-run-out.json) |
 | Put In Bad | 131330 | [131330-put-in-bad.json](./131330-put-in-bad.json) |
 | Put it here | 291498 | [291498-put-it-here.json](./291498-put-it-here.json) |
