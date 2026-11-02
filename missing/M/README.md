@@ -3280,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | March Forward | 123936 | [123936-march-forward.json](./123936-march-forward.json) |
 | March of Giants | 363900 | [363900-march-of-giants.json](./363900-march-of-giants.json) |
 | March of History | 116432 | [116432-march-of-history.json](./116432-march-of-history.json) |
+| March of Industry | 35152 | [35152-march-of-industry.json](./35152-march-of-industry.json) |
 | March of Shrooms | 215020 | [215020-march-of-shrooms.json](./215020-march-of-shrooms.json) |
 | March of the Drunken Sailors | 254994 | [254994-march-of-the-drunken-sailors.json](./254994-march-of-the-drunken-sailors.json) |
 | March of the Eagles | 2936 | [2936-march-of-the-eagles.json](./2936-march-of-the-eagles.json) |
