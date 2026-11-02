@@ -1712,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vice City Race | 272392 | [272392-vice-city-race.json](./272392-vice-city-race.json) |
 | Vice Extended | 414843 | [414843-vice-extended.json](./414843-vice-extended.json) |
 | Vice Grill: Synthwave Survival | 297885 | [297885-vice-grill-synthwave-survival.json](./297885-vice-grill-synthwave-survival.json) |
+| Vice Signalling | 412097 | [412097-vice-signalling.json](./412097-vice-signalling.json) |
 | Vice Undercover | 204447 | [204447-vice-undercover.json](./204447-vice-undercover.json) |
 | Vice Vision Runner | 414262 | [414262-vice-vision-runner.json](./414262-vice-vision-runner.json) |
 | Vice: Magic City Mayhem | 331378 | [331378-vice-magic-city-mayhem.json](./331378-vice-magic-city-mayhem.json) |
