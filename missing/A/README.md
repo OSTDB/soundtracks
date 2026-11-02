@@ -8183,6 +8183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amiibo Tap: Nintendo's Greatest Bits | 60431 | [60431-amiibo-tap-nintendos-greatest-bits.json](./60431-amiibo-tap-nintendos-greatest-bits.json) |
 | Amikin Survival | 304969 | [304969-amikin-survival.json](./304969-amikin-survival.json) |
 | Amikin Village | 341128 | [341128-amikin-village.json](./341128-amikin-village.json) |
+| Amiko Arena | 425861 | [425861-amiko-arena.json](./425861-amiko-arena.json) |
 | Amillusion | 202238 | [202238-amillusion.json](./202238-amillusion.json) |
 | Amina's Kitchen | 91980 | [91980-aminas-kitchen.json](./91980-aminas-kitchen.json) |
 | Amir Khan Khanage | 58599 | [58599-amir-khan-khanage.json](./58599-amir-khan-khanage.json) |
@@ -11081,6 +11082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Approaching Blocks | 32764 | [32764-approaching-blocks.json](./32764-approaching-blocks.json) |
 | Approaching Cao Army | 254773 | [254773-approaching-cao-army.json](./254773-approaching-cao-army.json) |
 | Approaching Infinity | 59586 | [59586-approaching-infinity.json](./59586-approaching-infinity.json) |
+| Approaching Infinity Survivors | 425823 | [425823-approaching-infinity-survivors.json](./425823-approaching-infinity-survivors.json) |
 | Approval | 212597 | [212597-approval.json](./212597-approval.json) |
 | Approximately Up | 377061 | [377061-approximately-up.json](./377061-approximately-up.json) |
 | Appulse | 335232 | [335232-appulse.json](./335232-appulse.json) |
@@ -11104,6 +11106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | APT | 35534 | [35534-apt.json](./35534-apt.json) |
 | Apt. 407 | 345437 | [345437-apt-407.json](./345437-apt-407.json) |
 | Apt. Map | 227438 | [227438-apt-map.json](./227438-apt-map.json) |
+| Aptamirror | 425825 | [425825-aptamirror.json](./425825-aptamirror.json) |
 | Aptly Rolling | 165661 | [165661-aptly-rolling.json](./165661-aptly-rolling.json) |
 | Apu's Journey | 276854 | [276854-apus-journey.json](./276854-apus-journey.json) |
 | Apventure to Atlantis | 23291 | [23291-apventure-to-atlantis.json](./23291-apventure-to-atlantis.json) |
@@ -11190,6 +11193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquanaut | 153788 | [153788-aquanaut.json](./153788-aquanaut.json) |
 | Aquanaut | 153790 | [153790-aquanaut.json](./153790-aquanaut.json) |
 | Aquanaut | 297657 | [297657-aquanaut.json](./297657-aquanaut.json) |
+| Aquanaut | 425832 | [425832-aquanaut.json](./425832-aquanaut.json) |
 | Aquanaut | 83910 | [83910-aquanaut.json](./83910-aquanaut.json) |
 | Aquanaut's Holiday | 20589 | [20589-aquanauts-holiday.json](./20589-aquanauts-holiday.json) |
 | Aquanaut's Holiday: Hidden Memories | 7271 | [7271-aquanauts-holiday-hidden-memories.json](./7271-aquanauts-holiday-hidden-memories.json) |
@@ -11358,6 +11362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aractaur | 58008 | [58008-aractaur.json](./58008-aractaur.json) |
 | Aradena: Battlegrounds | 266121 | [266121-aradena-battlegrounds.json](./266121-aradena-battlegrounds.json) |
 | Arae: Requiem of a Lonely Spirit | 133784 | [133784-arae-requiem-of-a-lonely-spirit.json](./133784-arae-requiem-of-a-lonely-spirit.json) |
+| Araf: The In Between | 425833 | [425833-araf-the-in-between.json](./425833-araf-the-in-between.json) |
 | Arafinn Kontor | 203850 | [203850-arafinn-kontor.json](./203850-arafinn-kontor.json) |
 | Aragami: Collector's Edition | 38489 | [38489-aragami-collectors-edition.json](./38489-aragami-collectors-edition.json) |
 | Aragami: Nightfall | 96020 | [96020-aragami-nightfall.json](./96020-aragami-nightfall.json) |
@@ -11406,6 +11411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arboreal | 195879 | [195879-arboreal.json](./195879-arboreal.json) |
 | Arboretum | 122919 | [122919-arboretum.json](./122919-arboretum.json) |
 | Arboria | 126432 | [126432-arboria.json](./126432-arboria.json) |
+| Arborrosa Insidia | 425834 | [425834-arborrosa-insidia.json](./425834-arborrosa-insidia.json) |
 | Arby | 377051 | [377051-arby.json](./377051-arby.json) |
 | Arby's Greek Gyro Games | 138633 | [138633-arbys-greek-gyro-games.json](./138633-arbys-greek-gyro-games.json) |
 | Arc | 182772 | [182772-arc.json](./182772-arc.json) |
@@ -11855,6 +11861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Boy | 152873 | [152873-arcade-boy.json](./152873-arcade-boy.json) |
 | Arcade Breakout | 412241 | [412241-arcade-breakout.json](./412241-arcade-breakout.json) |
 | Arcade Bundle | 294821 | [294821-arcade-bundle.json](./294821-arcade-bundle.json) |
+| Arcade Cafe Simulator | 425829 | [425829-arcade-cafe-simulator.json](./425829-arcade-cafe-simulator.json) |
 | Arcade Cats | 252704 | [252704-arcade-cats.json](./252704-arcade-cats.json) |
 | Arcade Chess | 12393 | [12393-arcade-chess.json](./12393-arcade-chess.json) |
 | Arcade Classic No. 1: Asteroids / Missile Command | 117925 | [117925-arcade-classic-no-1-asteroids-missile-command.json](./117925-arcade-classic-no-1-asteroids-missile-command.json) |
@@ -11969,6 +11976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Tale | 28902 | [28902-arcade-tale.json](./28902-arcade-tale.json) |
 | Arcade Tanks World II: Tank Battle Simulator | 319786 | [319786-arcade-tanks-world-ii-tank-battle-simulator.json](./319786-arcade-tanks-world-ii-tank-battle-simulator.json) |
 | Arcade Tanks World: Tank Battle Simulator | 312093 | [312093-arcade-tanks-world-tank-battle-simulator.json](./312093-arcade-tanks-world-tank-battle-simulator.json) |
+| Arcade Together | 425830 | [425830-arcade-together.json](./425830-arcade-together.json) |
 | Arcade Tycoon | 103039 | [103039-arcade-tycoon.json](./103039-arcade-tycoon.json) |
 | Arcade Ultimate | 202783 | [202783-arcade-ultimate.json](./202783-arcade-ultimate.json) |
 | Arcade Ultimate Portable | 202788 | [202788-arcade-ultimate-portable.json](./202788-arcade-ultimate-portable.json) |
@@ -12282,6 +12290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Physics Objects Destruction Apple shooter | 100824 | [100824-archery-physics-objects-destruction-apple-shooter.json](./100824-archery-physics-objects-destruction-apple-shooter.json) |
 | Archery Practice VR | 29558 | [29558-archery-practice-vr.json](./29558-archery-practice-vr.json) |
 | Archery Pro | 311606 | [311606-archery-pro.json](./311606-archery-pro.json) |
+| Archery Pro with James Jean Trickshots | 425831 | [425831-archery-pro-with-james-jean-trickshots.json](./425831-archery-pro-with-james-jean-trickshots.json) |
 | Archery Red | 272199 | [272199-archery-red.json](./272199-archery-red.json) |
 | Archery Showdown | 272788 | [272788-archery-showdown.json](./272788-archery-showdown.json) |
 | Archery Simulator | 217379 | [217379-archery-simulator.json](./217379-archery-simulator.json) |
@@ -13188,6 +13197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Suit Solgante | 303679 | [303679-armored-suit-solgante.json](./303679-armored-suit-solgante.json) |
 | Armored Suit Solgante: Expansion DLC | 339879 | [339879-armored-suit-solgante-expansion-dlc.json](./339879-armored-suit-solgante-expansion-dlc.json) |
 | Armored Train | 105596 | [105596-armored-train.json](./105596-armored-train.json) |
+| Armored Train Warfare | 425879 | [425879-armored-train-warfare.json](./425879-armored-train-warfare.json) |
 | Armored Trooper Votoms: Dead Ash | 98262 | [98262-armored-trooper-votoms-dead-ash.json](./98262-armored-trooper-votoms-dead-ash.json) |
 | Armored Tussle | 275750 | [275750-armored-tussle.json](./275750-armored-tussle.json) |
 | Armored Unit | 37525 | [37525-armored-unit.json](./37525-armored-unit.json) |
@@ -13217,6 +13227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arms Devicer S!! | 82895 | [82895-arms-devicer-s.json](./82895-arms-devicer-s.json) |
 | Arms of God | 324148 | [324148-arms-of-god.json](./324148-arms-of-god.json) |
 | Arms of Telos | 65839 | [65839-arms-of-telos.json](./65839-arms-of-telos.json) |
+| Arms Race | 425844 | [425844-arms-race.json](./425844-arms-race.json) |
 | Arms Race 2 | 236420 | [236420-arms-race-2.json](./236420-arms-race-2.json) |
 | Arms Race: TCWE | 29691 | [29691-arms-race-tcwe.json](./29691-arms-race-tcwe.json) |
 | Arms Race: TCWE - Industrialization | 172191 | [172191-arms-race-tcwe-industrialization.json](./172191-arms-race-tcwe-industrialization.json) |
@@ -13240,6 +13251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Defense 2 | 83278 | [83278-army-defense-2.json](./83278-army-defense-2.json) |
 | Army Defense 3 | 83279 | [83279-army-defense-3.json](./83279-army-defense-3.json) |
 | Army Driver | 204087 | [204087-army-driver.json](./204087-army-driver.json) |
+| Army Factory | 425843 | [425843-army-factory.json](./425843-army-factory.json) |
 | Army Gals | 34023 | [34023-army-gals.json](./34023-army-gals.json) |
 | Army Gals: The Poker Game | 171582 | [171582-army-gals-the-poker-game.json](./171582-army-gals-the-poker-game.json) |
 | Army Men | 26819 | [26819-army-men.json](./26819-army-men.json) |
@@ -13386,6 +13398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow Dungeon | 351720 | [351720-arrow-dungeon.json](./351720-arrow-dungeon.json) |
 | Arrow Flash | 46522 | [46522-arrow-flash.json](./46522-arrow-flash.json) |
 | Arrow Flick | 262463 | [262463-arrow-flick.json](./262463-arrow-flick.json) |
+| Arrow Hell | 425842 | [425842-arrow-hell.json](./425842-arrow-hell.json) |
 | Arrow Match | 201987 | [201987-arrow-match.json](./201987-arrow-match.json) |
 | Arrow of Death: Part 1 | 24688 | [24688-arrow-of-death-part-1.json](./24688-arrow-of-death-part-1.json) |
 | Arrow of Death: Part 2 | 24692 | [24692-arrow-of-death-part-2.json](./24692-arrow-of-death-part-2.json) |
@@ -13414,6 +13427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrows | 189337 | [189337-arrows.json](./189337-arrows.json) |
 | Arrows and Antiquity | 274377 | [274377-arrows-and-antiquity.json](./274377-arrows-and-antiquity.json) |
 | Arrows Left | 242505 | [242505-arrows-left.json](./242505-arrows-left.json) |
+| Arrows Puzzle | 425841 | [425841-arrows-puzzle.json](./425841-arrows-puzzle.json) |
 | Arrows: Puzzle Escape | 383565 | [383565-arrows-puzzle-escape.json](./383565-arrows-puzzle-escape.json) |
 | Arrowscapades | 401766 | [401766-arrowscapades.json](./401766-arrowscapades.json) |
 | Arrowscapes: Arrows Puzzle | 392368 | [392368-arrowscapes-arrows-puzzle.json](./392368-arrowscapes-arrows-puzzle.json) |
@@ -13820,6 +13834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascend | 119486 | [119486-ascend.json](./119486-ascend.json) |
 | Ascend | 120794 | [120794-ascend.json](./120794-ascend.json) |
 | Ascend | 341279 | [341279-ascend.json](./341279-ascend.json) |
+| Ascend | 425840 | [425840-ascend.json](./425840-ascend.json) |
 | Ascend From Nine Mountains | 374310 | [374310-ascend-from-nine-mountains.json](./374310-ascend-from-nine-mountains.json) |
 | Ascend of Arlo | 252011 | [252011-ascend-of-arlo.json](./252011-ascend-of-arlo.json) |
 | Ascend to Zero | 316425 | [316425-ascend-to-zero.json](./316425-ascend-to-zero.json) |
