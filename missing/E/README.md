@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Secrets: Romantic Edition | 317258 | [317258-ecchi-secrets-romantic-edition.json](./317258-ecchi-secrets-romantic-edition.json) |
 | Ecchi Secrets: Steamy Class | 308844 | [308844-ecchi-secrets-steamy-class.json](./308844-ecchi-secrets-steamy-class.json) |
 | Ecchi Secrets: Wet & Wild Edition | 404276 | [404276-ecchi-secrets-wet-and-wild-edition.json](./404276-ecchi-secrets-wet-and-wild-edition.json) |
+| Ecchi Sketch: Draw Cute Girls Every Day! | 29175 | [29175-ecchi-sketch-draw-cute-girls-every-day.json](./29175-ecchi-sketch-draw-cute-girls-every-day.json) |
 | Ecchi Sky | 379326 | [379326-ecchi-sky.json](./379326-ecchi-sky.json) |
 | Ecchi Spirit | 147393 | [147393-ecchi-spirit.json](./147393-ecchi-spirit.json) |
 | Ecchi Time: Mia | 308848 | [308848-ecchi-time-mia.json](./308848-ecchi-time-mia.json) |
@@ -4358,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epitasis | 52051 | [52051-epitasis.json](./52051-epitasis.json) |
 | Epithymía | 352759 | [352759-epithymia.json](./352759-epithymia.json) |
 | Epoch | 16939 | [16939-epoch.json](./16939-epoch.json) |
+| Epoch | 19304 | [19304-epoch.json](./19304-epoch.json) |
 | Epoch | 24889 | [24889-epoch.json](./24889-epoch.json) |
 | Epoch | 339758 | [339758-epoch.json](./339758-epoch.json) |
 | Epoch | 369120 | [369120-epoch.json](./369120-epoch.json) |
