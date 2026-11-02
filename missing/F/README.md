@@ -11046,6 +11046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frest | 343298 | [343298-frest.json](./343298-frest.json) |
 | Fret Nice | 52230 | [52230-fret-nice.json](./52230-fret-nice.json) |
 | Fret Smasher | 139272 | [139272-fret-smasher.json](./139272-fret-smasher.json) |
+| Fretless: The Wrath of Riffson | 252794 | [252794-fretless-the-wrath-of-riffson.json](./252794-fretless-the-wrath-of-riffson.json) |
 | Freud Gate | 125200 | [125200-freud-gate.json](./125200-freud-gate.json) |
 | Freudian Slipgate | 313031 | [313031-freudian-slipgate.json](./313031-freudian-slipgate.json) |
 | Freudian Slipgate 2 | 313032 | [313032-freudian-slipgate-2.json](./313032-freudian-slipgate-2.json) |
