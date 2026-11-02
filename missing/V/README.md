@@ -854,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varicella | 9519 | [9519-varicella.json](./9519-varicella.json) |
 | VariDungeon | 307350 | [307350-varidungeon.json](./307350-varidungeon.json) |
 | Varion | 87960 | [87960-varion.json](./87960-varion.json) |
+| Various Daylife | 122319 | [122319-various-daylife.json](./122319-various-daylife.json) |
 | Various Daylife: Mobile | 233061 | [233061-various-daylife-mobile.json](./233061-various-daylife-mobile.json) |
 | Varista | 258600 | [258600-varista.json](./258600-varista.json) |
 | VariTale | 71508 | [71508-varitale.json](./71508-varitale.json) |
@@ -1814,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Game Anthology vol. 1: Terra Cresta & Moon Cresta | 58554 | [58554-video-game-anthology-vol-1-terra-cresta-and-moon-cresta.json](./58554-video-game-anthology-vol-1-terra-cresta-and-moon-cresta.json) |
 | Video Game Anthology vol. 8: Shusse Ozumo/Exciting Hour | 58552 | [58552-video-game-anthology-vol-8-shusse-ozumo-exciting-hour.json](./58552-video-game-anthology-vol-8-shusse-ozumo-exciting-hour.json) |
 | Video Game Bandle | 360891 | [360891-video-game-bandle.json](./360891-video-game-bandle.json) |
+| Video Game Fables | 156920 | [156920-video-game-fables.json](./156920-video-game-fables.json) |
 | Video Game Feminization Hypnosis | 146905 | [146905-video-game-feminization-hypnosis.json](./146905-video-game-feminization-hypnosis.json) |
 | Video Game Grid | 333195 | [333195-video-game-grid.json](./333195-video-game-grid.json) |
 | Video Game Menu: The Game | 399846 | [399846-video-game-menu-the-game.json](./399846-video-game-menu-the-game.json) |
