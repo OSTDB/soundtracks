@@ -8758,6 +8758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Circuit VR | 111616 | [111616-short-circuit-vr.json](./111616-short-circuit-vr.json) |
 | Short Creepy Tales: 7PM | 138420 | [138420-short-creepy-tales-7pm.json](./138420-short-creepy-tales-7pm.json) |
 | Short Fuse | 296804 | [296804-short-fuse.json](./296804-short-fuse.json) |
+| Short Fuse | 412068 | [412068-short-fuse.json](./412068-short-fuse.json) |
 | Short Hop Laser | 172976 | [172976-short-hop-laser.json](./172976-short-hop-laser.json) |
 | Short Life | 108798 | [108798-short-life.json](./108798-short-life.json) |
 | Short Maps for Short People | 281356 | [281356-short-maps-for-short-people.json](./281356-short-maps-for-short-people.json) |
@@ -18811,6 +18812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Salvage | 192601 | [192601-space-salvage.json](./192601-space-salvage.json) |
 | Space Salvage: Ship Happens | 377617 | [377617-space-salvage-ship-happens.json](./377617-space-salvage-ship-happens.json) |
 | Space Salvager | 17760 | [17760-space-salvager.json](./17760-space-salvager.json) |
+| Space Savory | 412084 | [412084-space-savory.json](./412084-space-savory.json) |
 | Space Scaven | 33156 | [33156-space-scaven.json](./33156-space-scaven.json) |
 | Space Scavenger | 113597 | [113597-space-scavenger.json](./113597-space-scavenger.json) |
 | Space Scavengers | 278471 | [278471-space-scavengers.json](./278471-space-scavengers.json) |
@@ -23025,6 +23027,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Timelines | 19327 | [19327-star-trek-timelines.json](./19327-star-trek-timelines.json) |
 | Star Trek: Timelines - Steam Fleet Commander Pack | 162713 | [162713-star-trek-timelines-steam-fleet-commander-pack.json](./162713-star-trek-timelines-steam-fleet-commander-pack.json) |
 | Star Trek: Voyager - Across the Unknown | 362088 | [362088-star-trek-voyager-across-the-unknown.json](./362088-star-trek-voyager-across-the-unknown.json) |
+| Star Trek: Voyager - Across the Unknown - Delta Chronicles | 412073 | [412073-star-trek-voyager-across-the-unknown-delta-chronicles.json](./412073-star-trek-voyager-across-the-unknown-delta-chronicles.json) |
+| Star Trek: Voyager - Across the Unknown - Expansion Pass | 412074 | [412074-star-trek-voyager-across-the-unknown-expansion-pass.json](./412074-star-trek-voyager-across-the-unknown-expansion-pass.json) |
 | Star Trek: Voyager - Across the Unknown: Deluxe DLC | 386561 | [386561-star-trek-voyager-across-the-unknown-deluxe-dlc.json](./386561-star-trek-voyager-across-the-unknown-deluxe-dlc.json) |
 | Star Trek: Voyager - Across the Unknown: Deluxe Edition | 386562 | [386562-star-trek-voyager-across-the-unknown-deluxe-edition.json](./386562-star-trek-voyager-across-the-unknown-deluxe-edition.json) |
 | Star Trek: Voyager - Elite Force | 877 | [877-star-trek-voyager-elite-force.json](./877-star-trek-voyager-elite-force.json) |
@@ -23564,6 +23568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starforge | 172038 | [172038-starforge.json](./172038-starforge.json) |
 | Starforge | 2649 | [2649-starforge.json](./2649-starforge.json) |
 | Starforge | 295305 | [295305-starforge.json](./295305-starforge.json) |
+| Starforge Reborn | 412072 | [412072-starforge-reborn.json](./412072-starforge-reborn.json) |
 | Starfox | 54519 | [54519-starfox.json](./54519-starfox.json) |
 | Starfox 64: Recompiled | 387287 | [387287-starfox-64-recompiled.json](./387287-starfox-64-recompiled.json) |
 | StarFox: Game&Watch | 376430 | [376430-starfox-game-and-watch.json](./376430-starfox-game-and-watch.json) |
@@ -24984,6 +24989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steps From Above | 188889 | [188889-steps-from-above.json](./188889-steps-from-above.json) |
 | Steps of Debauchery | 370578 | [370578-steps-of-debauchery.json](./370578-steps-of-debauchery.json) |
 | Steps of Doom | 187681 | [187681-steps-of-doom.json](./187681-steps-of-doom.json) |
+| Steps To The Stars | 412096 | [412096-steps-to-the-stars.json](./412096-steps-to-the-stars.json) |
 | Stepsister Shock! | 206028 | [206028-stepsister-shock.json](./206028-stepsister-shock.json) |
 | Steptile | 287097 | [287097-steptile.json](./287097-steptile.json) |
 | Stepwell | 416614 | [416614-stepwell.json](./416614-stepwell.json) |
@@ -28641,6 +28647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Among Us 64 DS | 270379 | [270379-super-among-us-64-ds.json](./270379-super-among-us-64-ds.json) |
 | Super Ancient Keys | 321450 | [321450-super-ancient-keys.json](./321450-super-ancient-keys.json) |
 | Super Aneurysm | 207120 | [207120-super-aneurysm.json](./207120-super-aneurysm.json) |
+| Super Angelo | 412102 | [412102-super-angelo.json](./412102-super-angelo.json) |
 | Super Angling | 126629 | [126629-super-angling.json](./126629-super-angling.json) |
 | Super Angry Birds | 163212 | [163212-super-angry-birds.json](./163212-super-angry-birds.json) |
 | Super Animal Royale: Season 0 | 204696 | [204696-super-animal-royale-season-0.json](./204696-super-animal-royale-season-0.json) |
