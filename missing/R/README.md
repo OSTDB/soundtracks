@@ -1439,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakugaki Kingdom | 221245 | [221245-rakugaki-kingdom.json](./221245-rakugaki-kingdom.json) |
 | Rakugaki Showtime | 46082 | [46082-rakugaki-showtime.json](./46082-rakugaki-showtime.json) |
 | Rakugaki Special | 137919 | [137919-rakugaki-special.json](./137919-rakugaki-special.json) |
+| Rakugakids | 3581 | [3581-rakugakids.json](./3581-rakugakids.json) |
 | Rakugo Sentai Kaigyaaku | 411426 | [411426-rakugo-sentai-kaigyaaku.json](./411426-rakugo-sentai-kaigyaaku.json) |
 | Rakuten | 189371 | [189371-rakuten.json](./189371-rakuten.json) |
 | Raldi's Crackhouse | 285343 | [285343-raldis-crackhouse.json](./285343-raldis-crackhouse.json) |
@@ -9720,6 +9721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller-Skating | 328498 | [328498-roller-skating.json](./328498-roller-skating.json) |
 | Roller's Escape | 306318 | [306318-rollers-escape.json](./306318-rollers-escape.json) |
 | Rollerball | 298843 | [298843-rollerball.json](./298843-rollerball.json) |
+| Rollerball | 3657 | [3657-rollerball.json](./3657-rollerball.json) |
 | Rollerball | 79731 | [79731-rollerball.json](./79731-rollerball.json) |
 | RollerBall | 245736 | [245736-rollerball.json](./245736-rollerball.json) |
 | Rollerball 464 | 380384 | [380384-rollerball-464.json](./380384-rollerball-464.json) |
