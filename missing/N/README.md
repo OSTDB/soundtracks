@@ -3379,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexomon: Extinction | 133905 | [133905-nexomon-extinction.json](./133905-nexomon-extinction.json) |
 | Nexonauts | 336563 | [336563-nexonauts.json](./336563-nexonauts.json) |
 | Nexoria: Dungeon Rogue Heroes | 128859 | [128859-nexoria-dungeon-rogue-heroes.json](./128859-nexoria-dungeon-rogue-heroes.json) |
+| Next | 83878 | [83878-next.json](./83878-next.json) |
 | Next 2 | 81627 | [81627-next-2.json](./81627-next-2.json) |
 | Next 4 | 102440 | [102440-next-4.json](./102440-next-4.json) |
 | Next Backgammon | 88796 | [88796-next-backgammon.json](./88796-next-backgammon.json) |
