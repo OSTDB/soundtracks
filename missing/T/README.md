@@ -2679,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TaxingTiles | 277937 | [277937-taxingtiles.json](./277937-taxingtiles.json) |
 | TaxMan | 19478 | [19478-taxman.json](./19478-taxman.json) |
 | Tay Son Dynasty | 256343 | [256343-tay-son-dynasty.json](./256343-tay-son-dynasty.json) |
+| Tay's Race | 93880 | [93880-tays-race.json](./93880-tays-race.json) |
 | Taya's Alphabet | 195465 | [195465-tayas-alphabet.json](./195465-tayas-alphabet.json) |
 | Tayal | 109622 | [109622-tayal.json](./109622-tayal.json) |
 | Tayke Me With You | 413502 | [413502-tayke-me-with-you.json](./413502-tayke-me-with-you.json) |
@@ -21733,6 +21734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timmy Types | 214540 | [214540-timmy-types.json](./214540-timmy-types.json) |
 | Timmy's Adventures | 224648 | [224648-timmys-adventures.json](./224648-timmys-adventures.json) |
 | Timmy's adventures : VerbMon | 123550 | [123550-timmys-adventures-verbmon.json](./123550-timmys-adventures-verbmon.json) |
+| Timmy's Kindergarten Adventure | 89135 | [89135-timmys-kindergarten-adventure.json](./89135-timmys-kindergarten-adventure.json) |
 | Timmy's Nightmare | 149873 | [149873-timmys-nightmare.json](./149873-timmys-nightmare.json) |
 | Timo Boll Beats | 280670 | [280670-timo-boll-beats.json](./280670-timo-boll-beats.json) |
 | Timo the Game | 370911 | [370911-timo-the-game.json](./370911-timo-the-game.json) |
@@ -26766,6 +26768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Münster - Bremen Route Add-On | 156472 | [156472-train-simulator-munster-bremen-route-add-on.json](./156472-train-simulator-munster-bremen-route-add-on.json) |
 | Train Simulator: Nagoya Tetsudou 1 | 323662 | [323662-train-simulator-nagoya-tetsudou-1.json](./323662-train-simulator-nagoya-tetsudou-1.json) |
 | Train Simulator: Nanbu Juukan Tetsudou | 323658 | [323658-train-simulator-nanbu-juukan-tetsudou.json](./323658-train-simulator-nanbu-juukan-tetsudou.json) |
+| Train Simulator: NEC - New York-New Haven Route | 93896 | [93896-train-simulator-nec-new-york-new-haven-route.json](./93896-train-simulator-nec-new-york-new-haven-route.json) |
 | Train Simulator: Network SouthEast Class 159 DMU Add-On | 162028 | [162028-train-simulator-network-southeast-class-159-dmu-add-on.json](./162028-train-simulator-network-southeast-class-159-dmu-add-on.json) |
 | Train Simulator: New Haven DL-109 Loco Add-On | 162538 | [162538-train-simulator-new-haven-dl-109-loco-add-on.json](./162538-train-simulator-new-haven-dl-109-loco-add-on.json) |
 | Train Simulator: New Haven E-33 Loco Add-On | 162536 | [162536-train-simulator-new-haven-e-33-loco-add-on.json](./162536-train-simulator-new-haven-e-33-loco-add-on.json) |
@@ -29175,6 +29178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Boxing Trivia | 90180 | [90180-trivia-vault-boxing-trivia.json](./90180-trivia-vault-boxing-trivia.json) |
 | Trivia Vault: Business Trivia | 100633 | [100633-trivia-vault-business-trivia.json](./100633-trivia-vault-business-trivia.json) |
 | Trivia Vault: Celebrity Trivia | 96522 | [96522-trivia-vault-celebrity-trivia.json](./96522-trivia-vault-celebrity-trivia.json) |
+| Trivia Vault: Classic Rock Trivia | 94791 | [94791-trivia-vault-classic-rock-trivia.json](./94791-trivia-vault-classic-rock-trivia.json) |
 | Trivia Vault: Classic Rock Trivia 2 | 54890 | [54890-trivia-vault-classic-rock-trivia-2.json](./54890-trivia-vault-classic-rock-trivia-2.json) |
 | Trivia Vault: Fashion Trivia | 101615 | [101615-trivia-vault-fashion-trivia.json](./101615-trivia-vault-fashion-trivia.json) |
 | Trivia Vault: Food Trivia | 101625 | [101625-trivia-vault-food-trivia.json](./101625-trivia-vault-food-trivia.json) |
@@ -29187,8 +29191,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Mixed Trivia | 52779 | [52779-trivia-vault-mixed-trivia.json](./52779-trivia-vault-mixed-trivia.json) |
 | Trivia Vault: Movie Trivia | 99663 | [99663-trivia-vault-movie-trivia.json](./99663-trivia-vault-movie-trivia.json) |
 | Trivia Vault: Music Trivia | 104219 | [104219-trivia-vault-music-trivia.json](./104219-trivia-vault-music-trivia.json) |
+| Trivia Vault: Science & History Trivia | 94777 | [94777-trivia-vault-science-and-history-trivia.json](./94777-trivia-vault-science-and-history-trivia.json) |
 | Trivia Vault: Science & History Trivia 2 | 55550 | [55550-trivia-vault-science-and-history-trivia-2.json](./55550-trivia-vault-science-and-history-trivia-2.json) |
 | Trivia Vault: Soccer Trivia | 99432 | [99432-trivia-vault-soccer-trivia.json](./99432-trivia-vault-soccer-trivia.json) |
+| Trivia Vault: Super Heroes Trivia | 94779 | [94779-trivia-vault-super-heroes-trivia.json](./94779-trivia-vault-super-heroes-trivia.json) |
 | Trivia Vault: Super Heroes Trivia 2 | 55748 | [55748-trivia-vault-super-heroes-trivia-2.json](./55748-trivia-vault-super-heroes-trivia-2.json) |
 | Trivia Vault: Toy Trivia | 101614 | [101614-trivia-vault-toy-trivia.json](./101614-trivia-vault-toy-trivia.json) |
 | Trivia Vault: TV Trivia | 100150 | [100150-trivia-vault-tv-trivia.json](./100150-trivia-vault-tv-trivia.json) |
