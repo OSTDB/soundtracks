@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cream Rush | 232348 | [232348-ice-cream-rush.json](./232348-ice-cream-rush.json) |
 | Ice Cream Simulator | 345665 | [345665-ice-cream-simulator.json](./345665-ice-cream-simulator.json) |
 | Ice Cream Stall | 63711 | [63711-ice-cream-stall.json](./63711-ice-cream-stall.json) |
+| Ice Cream Surfer | 35442 | [35442-ice-cream-surfer.json](./35442-ice-cream-surfer.json) |
 | Ice Cream Together: A Cozy Parlor Simulator | 343163 | [343163-ice-cream-together-a-cozy-parlor-simulator.json](./343163-ice-cream-together-a-cozy-parlor-simulator.json) |
 | Ice Cream Trip | 207829 | [207829-ice-cream-trip.json](./207829-ice-cream-trip.json) |
 | Ice Cream Truck | 155511 | [155511-ice-cream-truck.json](./155511-ice-cream-truck.json) |
