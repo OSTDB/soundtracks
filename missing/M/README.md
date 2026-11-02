@@ -5571,6 +5571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8297,6 +8298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Match Saga: Expansion Pack 7 | 167326 | [167326-memory-match-saga-expansion-pack-7.json](./167326-memory-match-saga-expansion-pack-7.json) |
 | Memory Match Saga: Expansion Pack 8 | 167327 | [167327-memory-match-saga-expansion-pack-8.json](./167327-memory-match-saga-expansion-pack-8.json) |
 | Memory Match Saga: Expansion Pack 9 | 167328 | [167328-memory-match-saga-expansion-pack-9.json](./167328-memory-match-saga-expansion-pack-9.json) |
+| Memory Match: 16-Bit Edition | 425225 | [425225-memory-match-16-bit-edition.json](./425225-memory-match-16-bit-edition.json) |
 | Memory Maze | 156710 | [156710-memory-maze.json](./156710-memory-maze.json) |
 | Memory Maze | 390031 | [390031-memory-maze.json](./390031-memory-maze.json) |
 | Memory Mosaic | 243792 | [243792-memory-mosaic.json](./243792-memory-mosaic.json) |
@@ -8733,6 +8735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Plane - Best Idle Game | 106477 | [106477-merge-plane-best-idle-game.json](./106477-merge-plane-best-idle-game.json) |
 | Merge Rainbow Friend | 224002 | [224002-merge-rainbow-friend.json](./224002-merge-rainbow-friend.json) |
 | Merge Rush Z | 299408 | [299408-merge-rush-z.json](./299408-merge-rush-z.json) |
+| Merge Stampede | 425192 | [425192-merge-stampede.json](./425192-merge-stampede.json) |
 | Merge Star | 249241 | [249241-merge-star.json](./249241-merge-star.json) |
 | Merge Stories | 218318 | [218318-merge-stories.json](./218318-merge-stories.json) |
 | Merge Studio: Fashion Makeover | 315111 | [315111-merge-studio-fashion-makeover.json](./315111-merge-studio-fashion-makeover.json) |
@@ -17068,6 +17071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoW: Face Off M | 36245 | [36245-mow-face-off-m.json](./36245-mow-face-off-m.json) |
 | MoW: Face Off XL | 34075 | [34075-mow-face-off-xl.json](./34075-mow-face-off-xl.json) |
 | Mowed | 285942 | [285942-mowed.json](./285942-mowed.json) |
+| Mowed Down | 425172 | [425172-mowed-down.json](./425172-mowed-down.json) |
 | Mowin' & Throwin' | 96228 | [96228-mowin-and-throwin.json](./96228-mowin-and-throwin.json) |
 | Mowing Mazes | 299615 | [299615-mowing-mazes.json](./299615-mowing-mazes.json) |
 | Mowit: Grass Cutting Simulator | 373044 | [373044-mowit-grass-cutting-simulator.json](./373044-mowit-grass-cutting-simulator.json) |
