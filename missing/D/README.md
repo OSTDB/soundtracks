@@ -5303,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender of the Crown II | 8677 | [8677-defender-of-the-crown-ii.json](./8677-defender-of-the-crown-ii.json) |
 | Defender of the Crown: Digitally Remastered Edition | 170339 | [170339-defender-of-the-crown-digitally-remastered-edition.json](./170339-defender-of-the-crown-digitally-remastered-edition.json) |
 | Defender of the Crown: Heroes Live Forever | 8676 | [8676-defender-of-the-crown-heroes-live-forever.json](./8676-defender-of-the-crown-heroes-live-forever.json) |
+| Defender of the Crown: The Legend Returns | 394671 | [394671-defender-of-the-crown-the-legend-returns.json](./394671-defender-of-the-crown-the-legend-returns.json) |
 | Defender of the Favicon | 201095 | [201095-defender-of-the-favicon.json](./201095-defender-of-the-favicon.json) |
 | Defender of the Kingdom | 379851 | [379851-defender-of-the-kingdom.json](./379851-defender-of-the-kingdom.json) |
 | Defender of the Turrets: Warp Attack | 171593 | [171593-defender-of-the-turrets-warp-attack.json](./171593-defender-of-the-turrets-warp-attack.json) |
@@ -7791,6 +7792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo II: Resurrected | 142803 | [142803-diablo-ii-resurrected.json](./142803-diablo-ii-resurrected.json) |
 | Diablo II: Resurrected - Prime Evil Collection | 155099 | [155099-diablo-ii-resurrected-prime-evil-collection.json](./155099-diablo-ii-resurrected-prime-evil-collection.json) |
 | Diablo II: Resurrected - Reign of the Warlock | 389355 | [389355-diablo-ii-resurrected-reign-of-the-warlock.json](./389355-diablo-ii-resurrected-reign-of-the-warlock.json) |
+| Diablo II: Resurrected – Infernal Edition | 389356 | [389356-diablo-ii-resurrected-infernal-edition.json](./389356-diablo-ii-resurrected-infernal-edition.json) |
 | Diablo III: Battle Chest | 136083 | [136083-diablo-iii-battle-chest.json](./136083-diablo-iii-battle-chest.json) |
 | Diablo III: Collector's Edition | 136279 | [136279-diablo-iii-collectors-edition.json](./136279-diablo-iii-collectors-edition.json) |
 | Diablo III: Eternal Collection | 90628 | [90628-diablo-iii-eternal-collection.json](./90628-diablo-iii-eternal-collection.json) |
@@ -9178,6 +9180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Direct Drive | 151992 | [151992-direct-drive.json](./151992-direct-drive.json) |
 | Direct Hit: Missile War | 17671 | [17671-direct-hit-missile-war.json](./17671-direct-hit-missile-war.json) |
 | Direct-X | 292146 | [292146-direct-x.json](./292146-direct-x.json) |
+| Direction Quad | 385117 | [385117-direction-quad.json](./385117-direction-quad.json) |
 | Direction! Level Up! | 306359 | [306359-direction-level-up.json](./306359-direction-level-up.json) |
 | Directional Isolation VR | 135710 | [135710-directional-isolation-vr.json](./135710-directional-isolation-vr.json) |
 | DirectionDungeon! | 179200 | [179200-directiondungeon.json](./179200-directiondungeon.json) |
@@ -14170,6 +14173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Song Tavern: Pumpkin Masquerade DLC | 375593 | [375593-dragon-song-tavern-pumpkin-masquerade-dlc.json](./375593-dragon-song-tavern-pumpkin-masquerade-dlc.json) |
 | Dragon Souls | 31864 | [31864-dragon-souls.json](./31864-dragon-souls.json) |
 | Dragon Spear | 77588 | [77588-dragon-spear.json](./77588-dragon-spear.json) |
+| Dragon Spira | 386780 | [386780-dragon-spira.json](./386780-dragon-spira.json) |
 | Dragon Spirit | 218370 | [218370-dragon-spirit.json](./218370-dragon-spirit.json) |
 | Dragon Spirit: The New Legend | 17461 | [17461-dragon-spirit-the-new-legend.json](./17461-dragon-spirit-the-new-legend.json) |
 | Dragon Spirits | 127202 | [127202-dragon-spirits.json](./127202-dragon-spirits.json) |
