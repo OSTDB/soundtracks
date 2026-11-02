@@ -1826,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa II: World Fighters - DLC Character Pack 1 | 407288 | [407288-captain-tsubasa-ii-world-fighters-dlc-character-pack-1.json](./407288-captain-tsubasa-ii-world-fighters-dlc-character-pack-1.json) |
 | Captain Tsubasa II: World Fighters - DLC Character Pack 2 | 407289 | [407289-captain-tsubasa-ii-world-fighters-dlc-character-pack-2.json](./407289-captain-tsubasa-ii-world-fighters-dlc-character-pack-2.json) |
 | Captain Tsubasa II: World Fighters - DLC Character Pack 3 | 407290 | [407290-captain-tsubasa-ii-world-fighters-dlc-character-pack-3.json](./407290-captain-tsubasa-ii-world-fighters-dlc-character-pack-3.json) |
+| Captain Tsubasa II: World Fighters - Ultimate Edition | 409961 | [409961-captain-tsubasa-ii-world-fighters-ultimate-edition.json](./409961-captain-tsubasa-ii-world-fighters-ultimate-edition.json) |
 | Captain Tsubasa III: Koutei no Chousen | 38340 | [38340-captain-tsubasa-iii-koutei-no-chousen.json](./38340-captain-tsubasa-iii-koutei-no-chousen.json) |
 | Captain Tsubasa IV: Pro no Rival-tachi | 38184 | [38184-captain-tsubasa-iv-pro-no-rival-tachi.json](./38184-captain-tsubasa-iv-pro-no-rival-tachi.json) |
 | Captain Tsubasa J: Get in the Tomorrow | 45320 | [45320-captain-tsubasa-j-get-in-the-tomorrow.json](./45320-captain-tsubasa-j-get-in-the-tomorrow.json) |
@@ -2712,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carpenter Genzo: Robot Empire | 55937 | [55937-carpenter-genzo-robot-empire.json](./55937-carpenter-genzo-robot-empire.json) |
 | Carperation | 163973 | [163973-carperation.json](./163973-carperation.json) |
 | Carpet Bombing | 128148 | [128148-carpet-bombing.json](./128148-carpet-bombing.json) |
+| Carpet Cleaning Master | 409989 | [409989-carpet-cleaning-master.json](./409989-carpet-cleaning-master.json) |
 | Carpet Cleaning Simulator | 407474 | [407474-carpet-cleaning-simulator.json](./407474-carpet-cleaning-simulator.json) |
 | Carpet Gallery | 320314 | [320314-carpet-gallery.json](./320314-carpet-gallery.json) |
 | Carpet Kitty | 238295 | [238295-carpet-kitty.json](./238295-carpet-kitty.json) |
@@ -3547,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Part 3 | 398844 | [398844-castlevania-part-3.json](./398844-castlevania-part-3.json) |
 | Castlevania: Portrait of Ruin | 1138 | [1138-castlevania-portrait-of-ruin.json](./1138-castlevania-portrait-of-ruin.json) |
 | Castlevania: Portrait of Ruin | 315315 | [315315-castlevania-portrait-of-ruin.json](./315315-castlevania-portrait-of-ruin.json) |
+| Castlevania: Remnants of Darkness | 409586 | [409586-castlevania-remnants-of-darkness.json](./409586-castlevania-remnants-of-darkness.json) |
 | Castlevania: Resurrection | 67824 | [67824-castlevania-resurrection.json](./67824-castlevania-resurrection.json) |
 | Castlevania: Rondo of Blood | 1139 | [1139-castlevania-rondo-of-blood.json](./1139-castlevania-rondo-of-blood.json) |
 | Castlevania: Rondo of Blood | 222228 | [222228-castlevania-rondo-of-blood.json](./222228-castlevania-rondo-of-blood.json) |
@@ -3969,6 +3972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacombs of the Yokai | 192647 | [192647-catacombs-of-the-yokai.json](./192647-catacombs-of-the-yokai.json) |
 | Catacombs Pack | 154420 | [154420-catacombs-pack.json](./154420-catacombs-pack.json) |
 | Catacombs: The Asper Case | 235854 | [235854-catacombs-the-asper-case.json](./235854-catacombs-the-asper-case.json) |
+| Catacracks | 408400 | [408400-catacracks.json](./408400-catacracks.json) |
 | Cataegis : The White Wind | 35920 | [35920-cataegis-the-white-wind.json](./35920-cataegis-the-white-wind.json) |
 | Catafalque | 191615 | [191615-catafalque.json](./191615-catafalque.json) |
 | Catagaia | 236871 | [236871-catagaia.json](./236871-catagaia.json) |
@@ -4739,6 +4743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CD 2: Trap Master | 244668 | [244668-cd-2-trap-master.json](./244668-cd-2-trap-master.json) |
 | CD Battle: Hikari no Yuushi-tachi | 267948 | [267948-cd-battle-hikari-no-yuushi-tachi.json](./267948-cd-battle-hikari-no-yuushi-tachi.json) |
 | CD Exchange Volume 1 | 131873 | [131873-cd-exchange-volume-1.json](./131873-cd-exchange-volume-1.json) |
+| CD Market | 410602 | [410602-cd-market.json](./410602-cd-market.json) |
 | CD Shoot | 77149 | [77149-cd-shoot.json](./77149-cd-shoot.json) |
 | CD-i Donkey Kong Game | 231479 | [231479-cd-i-donkey-kong-game.json](./231479-cd-i-donkey-kong-game.json) |
 | CD-i Golgo 13 | 218002 | [218002-cd-i-golgo-13.json](./218002-cd-i-golgo-13.json) |
@@ -4997,6 +5002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centipede & Millipede | 74408 | [74408-centipede-and-millipede.json](./74408-centipede-and-millipede.json) |
 | Centipede Channel F | 311682 | [311682-centipede-channel-f.json](./311682-centipede-channel-f.json) |
 | Centipede Chaos | 124434 | [124434-centipede-chaos.json](./124434-centipede-chaos.json) |
+| Centipede Swarm | 409115 | [409115-centipede-swarm.json](./409115-centipede-swarm.json) |
 | Centipede X | 356282 | [356282-centipede-x.json](./356282-centipede-x.json) |
 | Centipede: Evolved | 329639 | [329639-centipede-evolved.json](./329639-centipede-evolved.json) |
 | Centipede: Infestation | 4760 | [4760-centipede-infestation.json](./4760-centipede-infestation.json) |
@@ -6603,6 +6609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Attack Deluxe | 276001 | [276001-chicken-attack-deluxe.json](./276001-chicken-attack-deluxe.json) |
 | Chicken Balls | 254586 | [254586-chicken-balls.json](./254586-chicken-balls.json) |
 | Chicken Blaster | 175778 | [175778-chicken-blaster.json](./175778-chicken-blaster.json) |
+| Chicken Blaster | 408395 | [408395-chicken-blaster.json](./408395-chicken-blaster.json) |
 | Chicken Bomb | 137595 | [137595-chicken-bomb.json](./137595-chicken-bomb.json) |
 | Chicken Boy's Counterattack | 291488 | [291488-chicken-boys-counterattack.json](./291488-chicken-boys-counterattack.json) |
 | Chicken Butt | 183702 | [183702-chicken-butt.json](./183702-chicken-butt.json) |
@@ -10118,6 +10125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Sports Collection | 385134 | [385134-club-sports-collection.json](./385134-club-sports-collection.json) |
 | Club Sports Collection Upgrade Edition | 397887 | [397887-club-sports-collection-upgrade-edition.json](./397887-club-sports-collection-upgrade-edition.json) |
 | Club Sports Collection: Definitive Edition | 400198 | [400198-club-sports-collection-definitive-edition.json](./400198-club-sports-collection-definitive-edition.json) |
+| Club Sports Collection: Diamond Edition | 409962 | [409962-club-sports-collection-diamond-edition.json](./409962-club-sports-collection-diamond-edition.json) |
 | Club Sports Collection: Legendary Edition | 407114 | [407114-club-sports-collection-legendary-edition.json](./407114-club-sports-collection-legendary-edition.json) |
 | Club Sports Collection: Premium Edition | 395676 | [395676-club-sports-collection-premium-edition.json](./395676-club-sports-collection-premium-edition.json) |
 | Club Sports Collection: Superior Edition | 413576 | [413576-club-sports-collection-superior-edition.json](./413576-club-sports-collection-superior-edition.json) |
@@ -12841,6 +12849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Considerable Grandfather: It Followed Me Home | 408784 | [408784-considerable-grandfather-it-followed-me-home.json](./408784-considerable-grandfather-it-followed-me-home.json) |
 | Consolation: Board Meeting | 153810 | [153810-consolation-board-meeting.json](./153810-consolation-board-meeting.json) |
 | Consolation: Board Meeting - Anthology Edition | 193217 | [193217-consolation-board-meeting-anthology-edition.json](./193217-consolation-board-meeting-anthology-edition.json) |
+| Console Archives: Bokosuka Wars | 408387 | [408387-console-archives-bokosuka-wars.json](./408387-console-archives-bokosuka-wars.json) |
 | Console Archives: Bubble Bobble | 415224 | [415224-console-archives-bubble-bobble.json](./415224-console-archives-bubble-bobble.json) |
 | Console Archives: Chack’n Pop | 422202 | [422202-console-archives-chack-n-pop.json](./422202-console-archives-chack-n-pop.json) |
 | Console Archives: Crazy Climber | 418714 | [418714-console-archives-crazy-climber.json](./418714-console-archives-crazy-climber.json) |
@@ -13387,6 +13396,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena: 9 in 1 Edition | 275892 | [275892-cooking-arena-9-in-1-edition.json](./275892-cooking-arena-9-in-1-edition.json) |
 | Cooking Arena: Breakfast Bar Tycoon | 260042 | [260042-cooking-arena-breakfast-bar-tycoon.json](./260042-cooking-arena-breakfast-bar-tycoon.json) |
 | Cooking Arena: Burger Chef Tycoon | 260037 | [260037-cooking-arena-burger-chef-tycoon.json](./260037-cooking-arena-burger-chef-tycoon.json) |
+| Cooking Arena: Definitive Edition | 409963 | [409963-cooking-arena-definitive-edition.json](./409963-cooking-arena-definitive-edition.json) |
+| Cooking Arena: Elite Edition | 409964 | [409964-cooking-arena-elite-edition.json](./409964-cooking-arena-elite-edition.json) |
 | Cooking Arena: Food Truck Tycoon Asian Cuisine | 260035 | [260035-cooking-arena-food-truck-tycoon-asian-cuisine.json](./260035-cooking-arena-food-truck-tycoon-asian-cuisine.json) |
 | Cooking Arena: Pancake Bar Tycoon | 260039 | [260039-cooking-arena-pancake-bar-tycoon.json](./260039-cooking-arena-pancake-bar-tycoon.json) |
 | Cooking Arena: Pizza Bar Tycoon | 260038 | [260038-cooking-arena-pizza-bar-tycoon.json](./260038-cooking-arena-pizza-bar-tycoon.json) |
@@ -13462,6 +13473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Tycoons 3: 3 in 1 Bundle | 231045 | [231045-cooking-tycoons-3-3-in-1-bundle.json](./231045-cooking-tycoons-3-3-in-1-bundle.json) |
 | Cooking Tycoons: 3 in 1 Bundle | 129512 | [129512-cooking-tycoons-3-in-1-bundle.json](./129512-cooking-tycoons-3-in-1-bundle.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Extended Edition | 332511 | [332511-cooking-tycoons-3-in-1-bundle-extended-edition.json](./332511-cooking-tycoons-3-in-1-bundle-extended-edition.json) |
+| Cooking Tycoons: 3 in 1 Bundle - Legendary Edition | 409965 | [409965-cooking-tycoons-3-in-1-bundle-legendary-edition.json](./409965-cooking-tycoons-3-in-1-bundle-legendary-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Premium Edition | 396916 | [396916-cooking-tycoons-3-in-1-bundle-premium-edition.json](./396916-cooking-tycoons-3-in-1-bundle-premium-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Silver Edition | 412586 | [412586-cooking-tycoons-3-in-1-bundle-silver-edition.json](./412586-cooking-tycoons-3-in-1-bundle-silver-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle Diamond Edition | 410854 | [410854-cooking-tycoons-3-in-1-bundle-diamond-edition.json](./410854-cooking-tycoons-3-in-1-bundle-diamond-edition.json) |
@@ -13633,6 +13645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copter Strike VR | 240628 | [240628-copter-strike-vr.json](./240628-copter-strike-vr.json) |
 | Copter.io | 322527 | [322527-copter-io.json](./322527-copter-io.json) |
 | Copts & Robbers | 59766 | [59766-copts-and-robbers.json](./59766-copts-and-robbers.json) |
+| Copy Cat | 409094 | [409094-copy-cat.json](./409094-copy-cat.json) |
 | Copy Cats | 407162 | [407162-copy-cats.json](./407162-copy-cats.json) |
 | Copy Editor | 142730 | [142730-copy-editor.json](./142730-copy-editor.json) |
 | Copy Editor: A RegEx Puzzle | 158623 | [158623-copy-editor-a-regex-puzzle.json](./158623-copy-editor-a-regex-puzzle.json) |
@@ -13713,6 +13726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core of Innocence | 201127 | [201127-core-of-innocence.json](./201127-core-of-innocence.json) |
 | Core Online | 59767 | [59767-core-online.json](./59767-core-online.json) |
 | Core Panic! | 416669 | [416669-core-panic.json](./416669-core-panic.json) |
+| Core Reaper | 408438 | [408438-core-reaper.json](./408438-core-reaper.json) |
 | Core Rescue | 113613 | [113613-core-rescue.json](./113613-core-rescue.json) |
 | Core Runners | 417486 | [417486-core-runners.json](./417486-core-runners.json) |
 | Core Smash! | 106949 | [106949-core-smash.json](./106949-core-smash.json) |
@@ -13725,6 +13739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coreborn | 215168 | [215168-coreborn.json](./215168-coreborn.json) |
 | CoreBreach | 176727 | [176727-corebreach.json](./176727-corebreach.json) |
 | Corecraft | 307107 | [307107-corecraft.json](./307107-corecraft.json) |
+| Coredump | 408440 | [408440-coredump.json](./408440-coredump.json) |
 | Coregrounds | 11344 | [11344-coregrounds.json](./11344-coregrounds.json) |
 | Corelith | 406237 | [406237-corelith.json](./406237-corelith.json) |
 | Corenoid: Let's Build Steel Maidens | 82623 | [82623-corenoid-lets-build-steel-maidens.json](./82623-corenoid-lets-build-steel-maidens.json) |
@@ -16989,6 +17004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown of the Empire: Temple of Resurrection - Collector's Edition | 417514 | [417514-crown-of-the-empire-temple-of-resurrection-collectors-edition.json](./417514-crown-of-the-empire-temple-of-resurrection-collectors-edition.json) |
 | Crown of the Empire: Timeloop | 417714 | [417714-crown-of-the-empire-timeloop.json](./417714-crown-of-the-empire-timeloop.json) |
 | Crown of the Empire: Timeloop - Collector's Edition | 356113 | [356113-crown-of-the-empire-timeloop-collectors-edition.json](./356113-crown-of-the-empire-timeloop-collectors-edition.json) |
+| Crown of the Nile: Cleopatra's Choice | 408436 | [408436-crown-of-the-nile-cleopatras-choice.json](./408436-crown-of-the-nile-cleopatras-choice.json) |
 | Crown of Thorns | 235359 | [235359-crown-of-thorns.json](./235359-crown-of-thorns.json) |
 | Crown of Worlds | 105622 | [105622-crown-of-worlds.json](./105622-crown-of-worlds.json) |
 | Crown of Zephyr | 230727 | [230727-crown-of-zephyr.json](./230727-crown-of-zephyr.json) |
@@ -19084,6 +19100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Neon: Core Protocol | 424643 | [424643-cyber-neon-core-protocol.json](./424643-cyber-neon-core-protocol.json) |
 | Cyber Noah | 156015 | [156015-cyber-noah.json](./156015-cyber-noah.json) |
 | Cyber Noir Stories: The Trunk | 217207 | [217207-cyber-noir-stories-the-trunk.json](./217207-cyber-noir-stories-the-trunk.json) |
+| Cyber Obsession | 410595 | [410595-cyber-obsession.json](./410595-cyber-obsession.json) |
 | Cyber Ops | 114068 | [114068-cyber-ops.json](./114068-cyber-ops.json) |
 | Cyber Org | 72900 | [72900-cyber-org.json](./72900-cyber-org.json) |
 | Cyber OutRun | 121461 | [121461-cyber-outrun.json](./121461-cyber-outrun.json) |
