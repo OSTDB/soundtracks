@@ -831,7 +831,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Mau Otome no Rondo | 60374 | [60374-sakura-mau-otome-no-rondo.json](./60374-sakura-mau-otome-no-rondo.json) |
 | Sakura Mau Otome no Rondo: Anata to Miru Fuyu Sakura | 60375 | [60375-sakura-mau-otome-no-rondo-anata-to-miru-fuyu-sakura.json](./60375-sakura-mau-otome-no-rondo-anata-to-miru-fuyu-sakura.json) |
 | Sakura Mirror | 235413 | [235413-sakura-mirror.json](./235413-sakura-mirror.json) |
+| Sakura MMO | 110779 | [110779-sakura-mmo.json](./110779-sakura-mmo.json) |
 | Sakura MMO 2 | 113123 | [113123-sakura-mmo-2.json](./113123-sakura-mmo-2.json) |
+| Sakura MMO 3 | 119492 | [119492-sakura-mmo-3.json](./119492-sakura-mmo-3.json) |
 | Sakura Mochi | 167485 | [167485-sakura-mochi.json](./167485-sakura-mochi.json) |
 | Sakura Momoko Gekijou: Kojikoji | 96493 | [96493-sakura-momoko-gekijou-kojikoji.json](./96493-sakura-momoko-gekijou-kojikoji.json) |
 | Sakura Momoko no Ukiuki Carnival | 6583 | [6583-sakura-momoko-no-ukiuki-carnival.json](./6583-sakura-momoko-no-ukiuki-carnival.json) |
@@ -5100,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senkou | 358499 | [358499-senkou.json](./358499-senkou.json) |
 | Senkou no Clarias | 180766 | [180766-senkou-no-clarias.json](./180766-senkou-no-clarias.json) |
 | Senli 307 | 224618 | [224618-senli-307.json](./224618-senli-307.json) |
+| Senna and the Forest | 121127 | [121127-senna-and-the-forest.json](./121127-senna-and-the-forest.json) |
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
 | Sennen Kazoku | 6586 | [6586-sennen-kazoku.json](./6586-sennen-kazoku.json) |
 | Senninha | 281875 | [281875-senninha.json](./281875-senninha.json) |
@@ -8971,6 +8974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrine of Haunts | 347336 | [347336-shrine-of-haunts.json](./347336-shrine-of-haunts.json) |
 | Shrine of Tails | 192763 | [192763-shrine-of-tails.json](./192763-shrine-of-tails.json) |
 | Shrine of the Forest God | 333463 | [333463-shrine-of-the-forest-god.json](./333463-shrine-of-the-forest-god.json) |
+| Shrine of the God-Ape | 120128 | [120128-shrine-of-the-god-ape.json](./120128-shrine-of-the-god-ape.json) |
 | Shrine of the Silver CyberPrimate | 261466 | [261466-shrine-of-the-silver-cyberprimate.json](./261466-shrine-of-the-silver-cyberprimate.json) |
 | Shrine of the Spirits | 231544 | [231544-shrine-of-the-spirits.json](./231544-shrine-of-the-spirits.json) |
 | Shrine of the Spirits: SS Hero | 230881 | [230881-shrine-of-the-spirits-ss-hero.json](./230881-shrine-of-the-spirits-ss-hero.json) |
@@ -18456,6 +18460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mercenary Shooter: Episode 2 | 173980 | [173980-space-mercenary-shooter-episode-2.json](./173980-space-mercenary-shooter-episode-2.json) |
 | Space Merchant | 125813 | [125813-space-merchant.json](./125813-space-merchant.json) |
 | Space Merchants: Arena | 30799 | [30799-space-merchants-arena.json](./30799-space-merchants-arena.json) |
+| Space Mercs | 119493 | [119493-space-mercs.json](./119493-space-mercs.json) |
 | Space Mergers | 289348 | [289348-space-mergers.json](./289348-space-mergers.json) |
 | Space Milkman: Tsuneo wa Uchuu no Gyuunyuuya-san | 108133 | [108133-space-milkman-tsuneo-wa-uchuu-no-gyuunyuuya-san.json](./108133-space-milkman-tsuneo-wa-uchuu-no-gyuunyuuya-san.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
@@ -25432,6 +25437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm | 45275 | [45275-storm.json](./45275-storm.json) |
 | Storm & Calm | 159497 | [159497-storm-and-calm.json](./159497-storm-and-calm.json) |
 | Storm Angel | 400297 | [400297-storm-angel.json](./400297-storm-angel.json) |
+| Storm Area 51: Ayy Lmao Edition | 121142 | [121142-storm-area-51-ayy-lmao-edition.json](./121142-storm-area-51-ayy-lmao-edition.json) |
 | Storm Area 51: September 20th 2019 | 120998 | [120998-storm-area-51-september-20th-2019.json](./120998-storm-area-51-september-20th-2019.json) |
 | Storm Area 51: The Game | 120982 | [120982-storm-area-51-the-game.json](./120982-storm-area-51-the-game.json) |
 | Storm Arena | 114425 | [114425-storm-arena.json](./114425-storm-arena.json) |
@@ -27328,6 +27334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike 2 | 22063 | [22063-sudden-strike-2.json](./22063-sudden-strike-2.json) |
 | Sudden Strike 3: Arms for Victory | 21494 | [21494-sudden-strike-3-arms-for-victory.json](./21494-sudden-strike-3-arms-for-victory.json) |
 | Sudden Strike 4: Africa-Desert War | 111053 | [111053-sudden-strike-4-africa-desert-war.json](./111053-sudden-strike-4-africa-desert-war.json) |
+| Sudden Strike 4: Complete Collection | 119921 | [119921-sudden-strike-4-complete-collection.json](./119921-sudden-strike-4-complete-collection.json) |
 | Sudden Strike 4: European Battlefields Edition | 104244 | [104244-sudden-strike-4-european-battlefields-edition.json](./104244-sudden-strike-4-european-battlefields-edition.json) |
 | Sudden Strike 4: Finland - Winter Storm | 124799 | [124799-sudden-strike-4-finland-winter-storm.json](./124799-sudden-strike-4-finland-winter-storm.json) |
 | Sudden Strike 4: Steelbook Edition | 166280 | [166280-sudden-strike-4-steelbook-edition.json](./166280-sudden-strike-4-steelbook-edition.json) |
@@ -29389,6 +29396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lemonade Factory Part Two | 61011 | [61011-super-lemonade-factory-part-two.json](./61011-super-lemonade-factory-part-two.json) |
 | Super Lesbian Animal RPG | 138659 | [138659-super-lesbian-animal-rpg.json](./138659-super-lesbian-animal-rpg.json) |
 | Super Lesbian Horse RPG | 228658 | [228658-super-lesbian-horse-rpg.json](./228658-super-lesbian-horse-rpg.json) |
+| Super Life RPG | 120398 | [120398-super-life-rpg.json](./120398-super-life-rpg.json) |
 | Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
 | Super Liftpia | 279531 | [279531-super-liftpia.json](./279531-super-liftpia.json) |
 | Super Light Saga: Dragon Force | 64041 | [64041-super-light-saga-dragon-force.json](./64041-super-light-saga-dragon-force.json) |
