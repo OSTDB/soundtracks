@@ -2404,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperator: Rome - Magna Graecia Content Pack | 154497 | [154497-imperator-rome-magna-graecia-content-pack.json](./154497-imperator-rome-magna-graecia-content-pack.json) |
 | Imperator: Rome - Premium Edition | 139915 | [139915-imperator-rome-premium-edition.json](./139915-imperator-rome-premium-edition.json) |
 | Imperator: Rome - The Punic Wars Content Pack | 154496 | [154496-imperator-rome-the-punic-wars-content-pack.json](./154496-imperator-rome-the-punic-wars-content-pack.json) |
+| Imperatum | 55316 | [55316-imperatum.json](./55316-imperatum.json) |
 | Imperfect | 213171 | [213171-imperfect.json](./213171-imperfect.json) |
 | Imperfect Garden | 358297 | [358297-imperfect-garden.json](./358297-imperfect-garden.json) |
 | Imperfect Hatred | 262567 | [262567-imperfect-hatred.json](./262567-imperfect-hatred.json) |
@@ -4662,6 +4663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interplanetary Hunter | 52293 | [52293-interplanetary-hunter.json](./52293-interplanetary-hunter.json) |
 | Interplanetary Survey Simulator | 346929 | [346929-interplanetary-survey-simulator.json](./346929-interplanetary-survey-simulator.json) |
 | Interplanetary Voyage | 41541 | [41541-interplanetary-voyage.json](./41541-interplanetary-voyage.json) |
+| Interplanetary: Enhanced Edition | 54506 | [54506-interplanetary-enhanced-edition.json](./54506-interplanetary-enhanced-edition.json) |
 | Interplay Collection 1 | 130816 | [130816-interplay-collection-1.json](./130816-interplay-collection-1.json) |
 | Interplay Collection 2 | 130687 | [130687-interplay-collection-2.json](./130687-interplay-collection-2.json) |
 | Interplay Klondike Solitaire | 308359 | [308359-interplay-klondike-solitaire.json](./308359-interplay-klondike-solitaire.json) |
