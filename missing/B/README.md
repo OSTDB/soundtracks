@@ -3438,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Dodgeball II | 42293 | [42293-battle-dodgeball-ii.json](./42293-battle-dodgeball-ii.json) |
 | Battle Dodgeball: Toukyuu Daigekitotsu! | 49148 | [49148-battle-dodgeball-toukyuu-daigekitotsu.json](./49148-battle-dodgeball-toukyuu-daigekitotsu.json) |
 | Battle Dome | 143586 | [143586-battle-dome.json](./143586-battle-dome.json) |
+| Battle Dome | 32505 | [32505-battle-dome.json](./32505-battle-dome.json) |
 | Battle Dome Redux | 126917 | [126917-battle-dome-redux.json](./126917-battle-dome-redux.json) |
 | Battle Dragon Galaxy | 109977 | [109977-battle-dragon-galaxy.json](./109977-battle-dragon-galaxy.json) |
 | Battle Drive | 369444 | [369444-battle-drive.json](./369444-battle-drive.json) |
