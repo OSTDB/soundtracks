@@ -11577,6 +11577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyokkori Hyoutan-jima: Takaramono Tocchae! | 346028 | [346028-hyokkori-hyoutan-jima-takaramono-tocchae.json](./346028-hyokkori-hyoutan-jima-takaramono-tocchae.json) |
 | Hyouji Gazou Henkou Kanou Typing | 301609 | [301609-hyouji-gazou-henkou-kanou-typing.json](./301609-hyouji-gazou-henkou-kanou-typing.json) |
 | Hyoukin Kyoushitsu | 385741 | [385741-hyoukin-kyoushitsu.json](./385741-hyoukin-kyoushitsu.json) |
+| Hyouryuu | 402900 | [402900-hyouryuu.json](./402900-hyouryuu.json) |
 | Hyouryuu-ki: The Reportage Beyond the Sea | 298844 | [298844-hyouryuu-ki-the-reportage-beyond-the-sea.json](./298844-hyouryuu-ki-the-reportage-beyond-the-sea.json) |
 | Hyouryuu, Nochi, Zashou | 358724 | [358724-hyouryuu-nochi-zashou.json](./358724-hyouryuu-nochi-zashou.json) |
 | Hyousei Buyuuroku: Record of Ice Fairy War | 406953 | [406953-hyousei-buyuuroku-record-of-ice-fairy-war.json](./406953-hyousei-buyuuroku-record-of-ice-fairy-war.json) |
@@ -11935,6 +11936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspaced | 356529 | [356529-hyperspaced.json](./356529-hyperspaced.json) |
 | Hyperspacer | 293529 | [293529-hyperspacer.json](./293529-hyperspacer.json) |
 | Hyperspeed - Race with Friends | 115450 | [115450-hyperspeed-race-with-friends.json](./115450-hyperspeed-race-with-friends.json) |
+| Hyperspin | 402682 | [402682-hyperspin.json](./402682-hyperspin.json) |
 | Hyperstacks | 137604 | [137604-hyperstacks.json](./137604-hyperstacks.json) |
 | Hyperstar | 168649 | [168649-hyperstar.json](./168649-hyperstar.json) |
 | HyperStorm | 123741 | [123741-hyperstorm.json](./123741-hyperstorm.json) |
