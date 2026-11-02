@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabinet of Curiosities VR | 201691 | [201691-cabinet-of-curiosities-vr.json](./201691-cabinet-of-curiosities-vr.json) |
 | Cabins: Jigsaw Puzzles | 103465 | [103465-cabins-jigsaw-puzzles.json](./103465-cabins-jigsaw-puzzles.json) |
 | Cable 2 | 11363 | [11363-cable-2.json](./11363-cable-2.json) |
+| Cable City | 404017 | [404017-cable-city.json](./404017-cable-city.json) |
 | Cable Clutter | 211255 | [211255-cable-clutter.json](./211255-cable-clutter.json) |
 | Cable Swiper | 22363 | [22363-cable-swiper.json](./22363-cable-swiper.json) |
 | Cabling | 89472 | [89472-cabling.json](./89472-cabling.json) |
@@ -14118,6 +14119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Fantasy: Bouken Shounen Yuu | 42005 | [42005-cosmic-fantasy-bouken-shounen-yuu.json](./42005-cosmic-fantasy-bouken-shounen-yuu.json) |
 | Cosmic Fear | 340029 | [340029-cosmic-fear.json](./340029-cosmic-fear.json) |
 | Cosmic Fire Birds | 60038 | [60038-cosmic-fire-birds.json](./60038-cosmic-fire-birds.json) |
+| Cosmic Flesh: Overdrive | 404041 | [404041-cosmic-flesh-overdrive.json](./404041-cosmic-flesh-overdrive.json) |
 | Cosmic Flow: A Relaxing VR Experience | 133162 | [133162-cosmic-flow-a-relaxing-vr-experience.json](./133162-cosmic-flow-a-relaxing-vr-experience.json) |
 | Cosmic Frontline AR | 186433 | [186433-cosmic-frontline-ar.json](./186433-cosmic-frontline-ar.json) |
 | Cosmic Galaxy Wars | 396754 | [396754-cosmic-galaxy-wars.json](./396754-cosmic-galaxy-wars.json) |
