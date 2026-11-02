@@ -2586,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mallion | 279527 | [279527-mallion.json](./279527-mallion.json) |
 | Mallory and the Marble Sanctum | 144693 | [144693-mallory-and-the-marble-sanctum.json](./144693-mallory-and-the-marble-sanctum.json) |
 | Mallow & The Street of the Fallen | 376861 | [376861-mallow-and-the-street-of-the-fallen.json](./376861-mallow-and-the-street-of-the-fallen.json) |
+| Mallow Drops | 25910 | [25910-mallow-drops.json](./25910-mallow-drops.json) |
 | Mallows | 26456 | [26456-mallows.json](./26456-mallows.json) |
 | Malmyr | 140789 | [140789-malmyr.json](./140789-malmyr.json) |
 | Malody | 76901 | [76901-malody.json](./76901-malody.json) |
@@ -4008,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Simulator | 342024 | [342024-market-simulator.json](./342024-market-simulator.json) |
 | Market Street | 65955 | [65955-market-street.json](./65955-market-street.json) |
 | Market Trouble | 182541 | [182541-market-trouble.json](./182541-market-trouble.json) |
+| Market Tycoon | 30307 | [30307-market-tycoon.json](./30307-market-tycoon.json) |
 | Market Warfare | 252284 | [252284-market-warfare.json](./252284-market-warfare.json) |
 | Marketplace | 311236 | [311236-marketplace.json](./311236-marketplace.json) |
 | Markham | 40361 | [40361-markham.json](./40361-markham.json) |
@@ -5551,7 +5553,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
