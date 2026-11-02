@@ -2469,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Moros | 33320 | [33320-legend-of-moros.json](./33320-legend-of-moros.json) |
 | Legend of Mortal | 203852 | [203852-legend-of-mortal.json](./203852-legend-of-mortal.json) |
 | Legend of Mushroom | 296826 | [296826-legend-of-mushroom.json](./296826-legend-of-mushroom.json) |
+| Legend of Mysteria | 34338 | [34338-legend-of-mysteria.json](./34338-legend-of-mysteria.json) |
 | Legend of Mysteria RPG | 53268 | [53268-legend-of-mysteria-rpg.json](./53268-legend-of-mysteria-rpg.json) |
 | Legend of Numbers | 32449 | [32449-legend-of-numbers.json](./32449-legend-of-numbers.json) |
 | Legend of Pandonia | 188315 | [188315-legend-of-pandonia.json](./188315-legend-of-pandonia.json) |
@@ -2913,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Dimensions: Slimer Ghostbusters Fun Pack | 172574 | [172574-lego-dimensions-slimer-ghostbusters-fun-pack.json](./172574-lego-dimensions-slimer-ghostbusters-fun-pack.json) |
 | LEGO Dimensions: Sonic the Hedgehog Level Pack | 172563 | [172563-lego-dimensions-sonic-the-hedgehog-level-pack.json](./172563-lego-dimensions-sonic-the-hedgehog-level-pack.json) |
 | LEGO Dimensions: Starfire (Teen Titans Go!) Fun Pack | 172607 | [172607-lego-dimensions-starfire-teen-titans-go-fun-pack.json](./172607-lego-dimensions-starfire-teen-titans-go-fun-pack.json) |
+| LEGO Dimensions: Stay Puft Ghostbusters Fun Pack | 23370 | [23370-lego-dimensions-stay-puft-ghostbusters-fun-pack.json](./23370-lego-dimensions-stay-puft-ghostbusters-fun-pack.json) |
 | LEGO Dimensions: Supergirl Polybag | 172621 | [172621-lego-dimensions-supergirl-polybag.json](./172621-lego-dimensions-supergirl-polybag.json) |
 | LEGO Dimensions: Superman Fun Pack | 23378 | [23378-lego-dimensions-superman-fun-pack.json](./23378-lego-dimensions-superman-fun-pack.json) |
 | LEGO Dimensions: Teen Titans Go! Team Pack | 172632 | [172632-lego-dimensions-teen-titans-go-team-pack.json](./172632-lego-dimensions-teen-titans-go-team-pack.json) |
@@ -5006,6 +5008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line's Guarder | 252607 | [252607-lines-guarder.json](./252607-lines-guarder.json) |
 | Linea | 238289 | [238289-linea.json](./238289-linea.json) |
 | Linea VR | 121972 | [121972-linea-vr.json](./121972-linea-vr.json) |
+| Linea, the Game | 33888 | [33888-linea-the-game.json](./33888-linea-the-game.json) |
 | Lineage | 388008 | [388008-lineage.json](./388008-lineage.json) |
 | Lineage | 75854 | [75854-lineage.json](./75854-lineage.json) |
 | Lineage 2: Goddess of Destruction | 23530 | [23530-lineage-2-goddess-of-destruction.json](./23530-lineage-2-goddess-of-destruction.json) |
