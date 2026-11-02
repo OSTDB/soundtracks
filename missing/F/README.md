@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fab Fashion | 142716 | [142716-fab-fashion.json](./142716-fab-fashion.json) |
 | Fabble's Adventure | 52988 | [52988-fabbles-adventure.json](./52988-fabbles-adventure.json) |
 | Fabby Golf | 239324 | [239324-fabby-golf.json](./239324-fabby-golf.json) |
+| Fable | 2960 | [2960-fable.json](./2960-fable.json) |
 | Fable Anniversary | 7658 | [7658-fable-anniversary.json](./7658-fable-anniversary.json) |
 | Fable Anniversary: Heroes and Villains Content Pack | 226844 | [226844-fable-anniversary-heroes-and-villains-content-pack.json](./226844-fable-anniversary-heroes-and-villains-content-pack.json) |
 | Fable Anniversary: Scythe Content Pack | 226845 | [226845-fable-anniversary-scythe-content-pack.json](./226845-fable-anniversary-scythe-content-pack.json) |
@@ -2596,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Village | 121491 | [121491-farming-village.json](./121491-farming-village.json) |
 | Farming World: Jam Factory | 238724 | [238724-farming-world-jam-factory.json](./238724-farming-world-jam-factory.json) |
 | Farming-Simulator 2008 | 3168 | [3168-farming-simulator-2008.json](./3168-farming-simulator-2008.json) |
+| Farming-Simulator 2009 | 3169 | [3169-farming-simulator-2009.json](./3169-farming-simulator-2009.json) |
 | FarmingCat | 204369 | [204369-farmingcat.json](./204369-farmingcat.json) |
 | Farmington Tales | 44093 | [44093-farmington-tales.json](./44093-farmington-tales.json) |
 | Farmington Tales 2: Winter Crop | 294225 | [294225-farmington-tales-2-winter-crop.json](./294225-farmington-tales-2-winter-crop.json) |
@@ -8064,6 +8066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Dino Simulator 3D: Pterodactyl | 104671 | [104671-flying-dino-simulator-3d-pterodactyl.json](./104671-flying-dino-simulator-3d-pterodactyl.json) |
 | Flying Disk | 281687 | [281687-flying-disk.json](./281687-flying-disk.json) |
 | Flying Doggy | 270571 | [270571-flying-doggy.json](./270571-flying-doggy.json) |
+| Flying Dragon | 3497 | [3497-flying-dragon.json](./3497-flying-dragon.json) |
 | Flying Duckling | 91245 | [91245-flying-duckling.json](./91245-flying-duckling.json) |
 | Flying Feathers | 13847 | [13847-flying-feathers.json](./13847-flying-feathers.json) |
 | Flying Felix | 165905 | [165905-flying-felix.json](./165905-flying-felix.json) |
