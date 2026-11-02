@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L4UR4 | 362230 | [362230-l4ur4.json](./362230-l4ur4.json) |
 | L5RC | 71324 | [71324-l5rc.json](./71324-l5rc.json) |
 | L8R | 229724 | [229724-l8r.json](./229724-l8r.json) |
+| L8ve | 400588 | [400588-l8ve.json](./400588-l8ve.json) |
 | La Abadía del Crimen | 12375 | [12375-la-abadia-del-crimen.json](./12375-la-abadia-del-crimen.json) |
 | La Artesana de Rostros | 388786 | [388786-la-artesana-de-rostros.json](./388786-la-artesana-de-rostros.json) |
 | La Aventura De Axel | 74226 | [74226-la-aventura-de-axel.json](./74226-la-aventura-de-axel.json) |
@@ -8651,6 +8652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lu Bu Maker | 104902 | [104902-lu-bu-maker.json](./104902-lu-bu-maker.json) |
 | Lu Dajishen II | 128321 | [128321-lu-dajishen-ii.json](./128321-lu-dajishen-ii.json) |
 | Lu Dreams | 376606 | [376606-lu-dreams.json](./376606-lu-dreams.json) |
+| Lu Pei's Dream | 400519 | [400519-lu-peis-dream.json](./400519-lu-peis-dream.json) |
 | Lu Tu | 149300 | [149300-lu-tu.json](./149300-lu-tu.json) |
 | Lu Yan Gui Hang: Swallow Homing | 114210 | [114210-lu-yan-gui-hang-swallow-homing.json](./114210-lu-yan-gui-hang-swallow-homing.json) |
 | Lu Zhou: Oasis | 130066 | [130066-lu-zhou-oasis.json](./130066-lu-zhou-oasis.json) |
