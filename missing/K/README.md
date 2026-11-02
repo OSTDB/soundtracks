@@ -1769,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kerosuke no Kancho Kunren | 240055 | [240055-kerosuke-no-kancho-kunren.json](./240055-kerosuke-no-kancho-kunren.json) |
 | Kerplunk! / Toss Across / Tip It | 137995 | [137995-kerplunk-toss-across-tip-it.json](./137995-kerplunk-toss-across-tip-it.json) |
 | Kerry and Alice Run into Some Trouble | 267550 | [267550-kerry-and-alice-run-into-some-trouble.json](./267550-kerry-and-alice-run-into-some-trouble.json) |
+| Kersploosh! | 84894 | [84894-kersploosh.json](./84894-kersploosh.json) |
 | Kesenai Boken no Sho | 97693 | [97693-kesenai-boken-no-sho.json](./97693-kesenai-boken-no-sho.json) |
 | Keshtat | 72368 | [72368-keshtat.json](./72368-keshtat.json) |
 | Kessakusen! Ganbare Goemon 1+2: Yuki-hime to McGuiness | 82068 | [82068-kessakusen-ganbare-goemon-1-2-yuki-hime-to-mcguiness.json](./82068-kessakusen-ganbare-goemon-1-2-yuki-hime-to-mcguiness.json) |
@@ -5778,6 +5779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunlun Fight | 30180 | [30180-kunlun-fight.json](./30180-kunlun-fight.json) |
 | Kunoichi | 184244 | [184244-kunoichi.json](./184244-kunoichi.json) |
 | Kunoichi Beat | 369589 | [369589-kunoichi-beat.json](./369589-kunoichi-beat.json) |
+| Kunoichi Botan | 82818 | [82818-kunoichi-botan.json](./82818-kunoichi-botan.json) |
 | Kunoichi Demon Slayers | 262793 | [262793-kunoichi-demon-slayers.json](./262793-kunoichi-demon-slayers.json) |
 | Kunoichi Ninja | 122218 | [122218-kunoichi-ninja.json](./122218-kunoichi-ninja.json) |
 | Kunoichi Ninpocho | 97516 | [97516-kunoichi-ninpocho.json](./97516-kunoichi-ninpocho.json) |
