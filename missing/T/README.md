@@ -4696,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Ultimate | 8194 | [8194-tetris-ultimate.json](./8194-tetris-ultimate.json) |
 | Tetris with Cardcaptor Sakura: Eternal Heart | 80285 | [80285-tetris-with-cardcaptor-sakura-eternal-heart.json](./80285-tetris-with-cardcaptor-sakura-eternal-heart.json) |
 | Tetris Worlds | 243183 | [243183-tetris-worlds.json](./243183-tetris-worlds.json) |
+| Tetris Worlds | 4200 | [4200-tetris-worlds.json](./4200-tetris-worlds.json) |
 | Tetris Worlds: Online Edition | 23709 | [23709-tetris-worlds-online-edition.json](./23709-tetris-worlds-online-edition.json) |
 | Tetris X | 43727 | [43727-tetris-x.json](./43727-tetris-x.json) |
 | Tetris Zone | 78032 | [78032-tetris-zone.json](./78032-tetris-zone.json) |
@@ -5546,6 +5547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aquarium Does Not Dance: Special Edition | 358245 | [358245-the-aquarium-does-not-dance-special-edition.json](./358245-the-aquarium-does-not-dance-special-edition.json) |
 | The Aquarium of Luck | 85434 | [85434-the-aquarium-of-luck.json](./85434-the-aquarium-of-luck.json) |
 | The Aquatic Adventure of the Last Human | 12598 | [12598-the-aquatic-adventure-of-the-last-human.json](./12598-the-aquatic-adventure-of-the-last-human.json) |
+| The Aquatic Games: Starring James Pond and the Aquabats | 4554 | [4554-the-aquatic-games-starring-james-pond-and-the-aquabats.json](./4554-the-aquatic-games-starring-james-pond-and-the-aquabats.json) |
 | The Aquatic Messenger | 212118 | [212118-the-aquatic-messenger.json](./212118-the-aquatic-messenger.json) |
 | The Arab League of Misfits | 412531 | [412531-the-arab-league-of-misfits.json](./412531-the-arab-league-of-misfits.json) |
 | The Arab Republic of Taghia | 125681 | [125681-the-arab-republic-of-taghia.json](./125681-the-arab-republic-of-taghia.json) |
@@ -22666,6 +22668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Todd is Late | 383583 | [383583-todd-is-late.json](./383583-todd-is-late.json) |
 | Todd McFarlane's Spawn: The Video Game | 42580 | [42580-todd-mcfarlanes-spawn-the-video-game.json](./42580-todd-mcfarlanes-spawn-the-video-game.json) |
 | Todd:Howard - You can (not) play forever | 113540 | [113540-todd-howard-you-can-not-play-forever.json](./113540-todd-howard-you-can-not-play-forever.json) |
+| Todd's Adventures in Slime World | 4543 | [4543-todds-adventures-in-slime-world.json](./4543-todds-adventures-in-slime-world.json) |
 | Todd's Spider Dream | 154567 | [154567-todds-spider-dream.json](./154567-todds-spider-dream.json) |
 | Toddler Flashcards HD: Baby Learning Games & Apps | 87576 | [87576-toddler-flashcards-hd-baby-learning-games-and-apps.json](./87576-toddler-flashcards-hd-baby-learning-games-and-apps.json) |
 | Toddler Games: puzzles, shapes | 103747 | [103747-toddler-games-puzzles-shapes.json](./103747-toddler-games-puzzles-shapes.json) |
