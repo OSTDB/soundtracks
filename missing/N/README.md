@@ -4925,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Spinki Challenges!! | 56904 | [56904-ninja-spinki-challenges.json](./56904-ninja-spinki-challenges.json) |
 | Ninja Spirit | 219020 | [219020-ninja-spirit.json](./219020-ninja-spirit.json) |
 | Ninja Spirit | 6819 | [6819-ninja-spirit.json](./6819-ninja-spirit.json) |
+| Ninja Stealth | 32484 | [32484-ninja-stealth.json](./32484-ninja-stealth.json) |
 | Ninja Stealth 2 | 29639 | [29639-ninja-stealth-2.json](./29639-ninja-stealth-2.json) |
 | Ninja Stealth 4 | 163314 | [163314-ninja-stealth-4.json](./163314-ninja-stealth-4.json) |
 | Ninja Stealth 5 | 301308 | [301308-ninja-stealth-5.json](./301308-ninja-stealth-5.json) |
