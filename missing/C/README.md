@@ -3963,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catan | 196701 | [196701-catan.json](./196701-catan.json) |
 | Catan | 21830 | [21830-catan.json](./21830-catan.json) |
 | Catan | 248839 | [248839-catan.json](./248839-catan.json) |
+| Catan Classic HD | 87342 | [87342-catan-classic-hd.json](./87342-catan-classic-hd.json) |
 | Catan Universe | 28278 | [28278-catan-universe.json](./28278-catan-universe.json) |
 | Catan: Cities & Knights | 238213 | [238213-catan-cities-and-knights.json](./238213-catan-cities-and-knights.json) |
 | Catan: Console Edition | 220832 | [220832-catan-console-edition.json](./220832-catan-console-edition.json) |
@@ -5652,6 +5653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chapter Master | 154813 | [154813-chapter-master.json](./154813-chapter-master.json) |
 | Chapter Wars: Expansion Pack | 286541 | [286541-chapter-wars-expansion-pack.json](./286541-chapter-wars-expansion-pack.json) |
 | Chapter Zero: The Angel Island Saga | 266347 | [266347-chapter-zero-the-angel-island-saga.json](./266347-chapter-zero-the-angel-island-saga.json) |
+| Chapters: Interactive Stories | 87355 | [87355-chapters-interactive-stories.json](./87355-chapters-interactive-stories.json) |
 | Chaqs | 223504 | [223504-chaqs.json](./223504-chaqs.json) |
 | Char's Ennui | 384774 | [384774-chars-ennui.json](./384774-chars-ennui.json) |
 | Chara Chenko | 130385 | [130385-chara-chenko.json](./130385-chara-chenko.json) |
@@ -11096,6 +11098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color by Number | 171229 | [171229-color-by-number.json](./171229-color-by-number.json) |
 | Color by Number - Modern Art | 102240 | [102240-color-by-number-modern-art.json](./102240-color-by-number-modern-art.json) |
 | Color by Number - Puzzle | 89755 | [89755-color-by-number-puzzle.json](./89755-color-by-number-puzzle.json) |
+| Color by Number: Coloring Book | 87377 | [87377-color-by-number-coloring-book.json](./87377-color-by-number-coloring-book.json) |
 | Color by Number: Medieval Portrait | 367346 | [367346-color-by-number-medieval-portrait.json](./367346-color-by-number-medieval-portrait.json) |
 | Color by Number: New Coloring Book | 105504 | [105504-color-by-number-new-coloring-book.json](./105504-color-by-number-new-coloring-book.json) |
 | Color by Number: Pokémon Pixel Art | 95746 | [95746-color-by-number-pokemon-pixel-art.json](./95746-color-by-number-pokemon-pixel-art.json) |
