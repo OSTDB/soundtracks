@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Defense | 269008 | [269008-halloween-defense.json](./269008-halloween-defense.json) |
 | Halloween Escape | 160159 | [160159-halloween-escape.json](./160159-halloween-escape.json) |
 | Halloween Experience 3: GGen | 295556 | [295556-halloween-experience-3-ggen.json](./295556-halloween-experience-3-ggen.json) |
+| Halloween Forever | 25361 | [25361-halloween-forever.json](./25361-halloween-forever.json) |
 | Halloween Games for Toddlers and Kids | 266987 | [266987-halloween-games-for-toddlers-and-kids.json](./266987-halloween-games-for-toddlers-and-kids.json) |
 | Halloween Ghost Grabbers | 379001 | [379001-halloween-ghost-grabbers.json](./379001-halloween-ghost-grabbers.json) |
 | Halloween Girls | 373750 | [373750-halloween-girls.json](./373750-halloween-girls.json) |
@@ -3405,6 +3406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Fire: Afghanistan | 982 | [982-heavy-fire-afghanistan.json](./982-heavy-fire-afghanistan.json) |
 | Heavy Fire: Black Arms | 65497 | [65497-heavy-fire-black-arms.json](./65497-heavy-fire-black-arms.json) |
 | Heavy Fire: Black Arms 3D | 85628 | [85628-heavy-fire-black-arms-3d.json](./85628-heavy-fire-black-arms-3d.json) |
+| Heavy Fire: Shattered Spear | 10404 | [10404-heavy-fire-shattered-spear.json](./10404-heavy-fire-shattered-spear.json) |
 | Heavy Fire: Special Operations | 408862 | [408862-heavy-fire-special-operations.json](./408862-heavy-fire-special-operations.json) |
 | Heavy Fire: Special Operations 3D | 23589 | [23589-heavy-fire-special-operations-3d.json](./23589-heavy-fire-special-operations-3d.json) |
 | Heavy Fire: The Chosen Few | 145344 | [145344-heavy-fire-the-chosen-few.json](./145344-heavy-fire-the-chosen-few.json) |
@@ -9127,6 +9129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopfall | 370126 | [370126-hopfall.json](./370126-hopfall.json) |
 | HopHeaders | 152627 | [152627-hopheaders.json](./152627-hopheaders.json) |
 | HopHop Fox | 309546 | [309546-hophop-fox.json](./309546-hophop-fox.json) |
+| HoPiKo | 25240 | [25240-hopiko.json](./25240-hopiko.json) |
 | Hoping Forest | 236896 | [236896-hoping-forest.json](./236896-hoping-forest.json) |
 | Hoping This Finds You Well | 288091 | [288091-hoping-this-finds-you-well.json](./288091-hoping-this-finds-you-well.json) |
 | Hopkins FBI | 93389 | [93389-hopkins-fbi.json](./93389-hopkins-fbi.json) |
