@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Moe Pro - Moero!! Pro Yakyuu | 260682 | [260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json](./260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json) |
 | G-Mode Archives+: Momoko no Kasei Bowling - La Mars Cup | 266172 | [266172-g-mode-archives-momoko-no-kasei-bowling-la-mars-cup.json](./266172-g-mode-archives-momoko-no-kasei-bowling-la-mars-cup.json) |
 | G-Mode Archives+: Monstre Waltz | 388382 | [388382-g-mode-archives-monstre-waltz.json](./388382-g-mode-archives-monstre-waltz.json) |
+| G-Mode Archives+: Pac-Man | 407079 | [407079-g-mode-archives-pac-man.json](./407079-g-mode-archives-pac-man.json) |
 | G-Mode Archives+: Persona 3: Aegis The First Mission | 298527 | [298527-g-mode-archives-persona-3-aegis-the-first-mission.json](./298527-g-mode-archives-persona-3-aegis-the-first-mission.json) |
 | G-Mode Archives+: Ridge Racer | 416050 | [416050-g-mode-archives-ridge-racer.json](./416050-g-mode-archives-ridge-racer.json) |
 | G-Mode Archives+: Saiko Mystery Series vol. 1 - Three, Mittsu no Kioki | 251472 | [251472-g-mode-archives-saiko-mystery-series-vol-1-three-mittsu-no-kioki.json](./251472-g-mode-archives-saiko-mystery-series-vol-1-three-mittsu-no-kioki.json) |
@@ -3046,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoExpert - USA Geography | 98998 | [98998-geoexpert-usa-geography.json](./98998-geoexpert-usa-geography.json) |
 | GeoExpert - World | 100616 | [100616-geoexpert-world.json](./100616-geoexpert-world.json) |
 | Geoff Capes Strongman | 79164 | [79164-geoff-capes-strongman.json](./79164-geoff-capes-strongman.json) |
+| GeoFlag | 406484 | [406484-geoflag.json](./406484-geoflag.json) |
 | GeoFS | 142942 | [142942-geofs.json](./142942-geofs.json) |
 | GeoFußball | 422707 | [422707-geofu-ball.json](./422707-geofu-ball.json) |
 | GeoGebra Mixed Reality | 104356 | [104356-geogebra-mixed-reality.json](./104356-geogebra-mixed-reality.json) |
@@ -6185,6 +6187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Yoshi's Island | 276880 | [276880-golden-yoshis-island.json](./276880-golden-yoshis-island.json) |
 | Goldene Zeiten | 94234 | [94234-goldene-zeiten.json](./94234-goldene-zeiten.json) |
 | GoldenEye 007 | 1647 | [1647-goldeneye-007.json](./1647-goldeneye-007.json) |
+| GoldenEye 007: Recompiled | 406470 | [406470-goldeneye-007-recompiled.json](./406470-goldeneye-007-recompiled.json) |
 | GoldenEye 007: Xbox Live Arcade | 143406 | [143406-goldeneye-007-xbox-live-arcade.json](./143406-goldeneye-007-xbox-live-arcade.json) |
 | Goldeneye Doom2 | 196026 | [196026-goldeneye-doom2.json](./196026-goldeneye-doom2.json) |
 | GoldenEye With Mario Characters | 283110 | [283110-goldeneye-with-mario-characters.json](./283110-goldeneye-with-mario-characters.json) |
@@ -8161,6 +8164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gray Skies, Dark Waters | 37002 | [37002-gray-skies-dark-waters.json](./37002-gray-skies-dark-waters.json) |
 | Gray Space | 149351 | [149351-gray-space.json](./149351-gray-space.json) |
 | Gray Tank | 29394 | [29394-gray-tank.json](./29394-gray-tank.json) |
+| Gray Trading | 406492 | [406492-gray-trading.json](./406492-gray-trading.json) |
 | Grayland | 127715 | [127715-grayland.json](./127715-grayland.json) |
 | Grayland | 171899 | [171899-grayland.json](./171899-grayland.json) |
 | Grayland Remastered | 374967 | [374967-grayland-remastered.json](./374967-grayland-remastered.json) |
