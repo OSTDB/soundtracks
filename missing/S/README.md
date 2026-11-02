@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saga of Song | 287342 | [287342-saga-of-song.json](./287342-saga-of-song.json) |
 | Saga of the Moon Priestess | 274507 | [274507-saga-of-the-moon-priestess.json](./274507-saga-of-the-moon-priestess.json) |
 | Saga of the Nine Worlds: The Gathering | 74311 | [74311-saga-of-the-nine-worlds-the-gathering.json](./74311-saga-of-the-nine-worlds-the-gathering.json) |
+| Saga of the Nine Worlds: The Gathering - Collector's Edition | 426431 | [426431-saga-of-the-nine-worlds-the-gathering-collectors-edition.json](./426431-saga-of-the-nine-worlds-the-gathering-collectors-edition.json) |
 | Saga of the North Wind | 30630 | [30630-saga-of-the-north-wind.json](./30630-saga-of-the-north-wind.json) |
 | Saga of the Shattered Swords | 249267 | [249267-saga-of-the-shattered-swords.json](./249267-saga-of-the-shattered-swords.json) |
 | Saga of the Stars | 337311 | [337311-saga-of-the-stars.json](./337311-saga-of-the-stars.json) |
@@ -4363,6 +4364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Dark: Eclipse Mountain HD | 139733 | [139733-secrets-of-the-dark-eclipse-mountain-hd.json](./139733-secrets-of-the-dark-eclipse-mountain-hd.json) |
 | Secrets of the Dark: Mystery of the Ancestral Estate & Secrets of the Dark: The Flower of Shadow | 201813 | [201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json](./201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json) |
 | Secrets of the Dark: Temple of Night | 312914 | [312914-secrets-of-the-dark-temple-of-night.json](./312914-secrets-of-the-dark-temple-of-night.json) |
+| Secrets of the Dark: The Dark Flower of Shadow - Collector's Edition | 426442 | [426442-secrets-of-the-dark-the-dark-flower-of-shadow-collectors-edition.json](./426442-secrets-of-the-dark-the-dark-flower-of-shadow-collectors-edition.json) |
 | Secrets of the Dark: The Flower of Shadow | 103992 | [103992-secrets-of-the-dark-the-flower-of-shadow.json](./103992-secrets-of-the-dark-the-flower-of-shadow.json) |
 | Secrets of the Dragon Cafe | 188300 | [188300-secrets-of-the-dragon-cafe.json](./188300-secrets-of-the-dragon-cafe.json) |
 | Secrets of the Guild | 53584 | [53584-secrets-of-the-guild.json](./53584-secrets-of-the-guild.json) |
@@ -10046,6 +10048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverstone | 388049 | [388049-silverstone.json](./388049-silverstone.json) |
 | Silversword | 101539 | [101539-silversword.json](./101539-silversword.json) |
 | Silverwood Bay: An Eleanor Grey Mystery | 291246 | [291246-silverwood-bay-an-eleanor-grey-mystery.json](./291246-silverwood-bay-an-eleanor-grey-mystery.json) |
+| Silverwood Bay: An Eleanor Grey Mystery - Collector's Edition | 426443 | [426443-silverwood-bay-an-eleanor-grey-mystery-collectors-edition.json](./426443-silverwood-bay-an-eleanor-grey-mystery-collectors-edition.json) |
 | Silverworld | 98770 | [98770-silverworld.json](./98770-silverworld.json) |
 | Silverybield Foss | 138778 | [138778-silverybield-foss.json](./138778-silverybield-foss.json) |
 | SIM Chef: Restaurant management | 197047 | [197047-sim-chef-restaurant-management.json](./197047-sim-chef-restaurant-management.json) |
@@ -12563,6 +12566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleuth | 94909 | [94909-sleuth.json](./94909-sleuth.json) |
 | SLG Remix | 33428 | [33428-slg-remix.json](./33428-slg-remix.json) |
 | SLI-FI: 2D Planet Platformer | 55694 | [55694-sli-fi-2d-planet-platformer.json](./55694-sli-fi-2d-planet-platformer.json) |
+| Slice | 426422 | [426422-slice.json](./426422-slice.json) |
 | Slice | 98705 | [98705-slice.json](./98705-slice.json) |
 | Slice 'Em Up! | 185130 | [185130-slice-em-up.json](./185130-slice-em-up.json) |
 | Slice & Dice | 176099 | [176099-slice-and-dice.json](./176099-slice-and-dice.json) |
@@ -19181,6 +19185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceteam | 7207 | [7207-spaceteam.json](./7207-spaceteam.json) |
 | Spaceteam VR | 119337 | [119337-spaceteam-vr.json](./119337-spaceteam-vr.json) |
 | Spaceteam: The Second Dimension | 211606 | [211606-spaceteam-the-second-dimension.json](./211606-spaceteam-the-second-dimension.json) |
+| Spacetime Chronicles | 426454 | [426454-spacetime-chronicles.json](./426454-spacetime-chronicles.json) |
 | Spacetime Odissey | 180964 | [180964-spacetime-odissey.json](./180964-spacetime-odissey.json) |
 | Spacetour Express | 315890 | [315890-spacetour-express.json](./315890-spacetour-express.json) |
 | Spacetours VR: Ep.1 - The Solar System | 29475 | [29475-spacetours-vr-ep-1-the-solar-system.json](./29475-spacetours-vr-ep-1-the-solar-system.json) |
@@ -20642,8 +20647,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of Excalibur | 70028 | [70028-spirit-of-excalibur.json](./70028-spirit-of-excalibur.json) |
 | Spirit of Maya | 29903 | [29903-spirit-of-maya.json](./29903-spirit-of-maya.json) |
 | Spirit of Midnight | 122013 | [122013-spirit-of-midnight.json](./122013-spirit-of-midnight.json) |
+| Spirit of Revenge: A Test of Fire - Collector's Edition | 426444 | [426444-spirit-of-revenge-a-test-of-fire-collectors-edition.json](./426444-spirit-of-revenge-a-test-of-fire-collectors-edition.json) |
 | Spirit of Revenge: Cursed Castle | 140226 | [140226-spirit-of-revenge-cursed-castle.json](./140226-spirit-of-revenge-cursed-castle.json) |
 | Spirit of Revenge: Cursed Castle - Collector's Edition | 30675 | [30675-spirit-of-revenge-cursed-castle-collectors-edition.json](./30675-spirit-of-revenge-cursed-castle-collectors-edition.json) |
+| Spirit of Revenge: Elizabeth's Secret | 426445 | [426445-spirit-of-revenge-elizabeths-secret.json](./426445-spirit-of-revenge-elizabeths-secret.json) |
+| Spirit of Revenge: Elizabeth's Secret - Collector's Edition | 426446 | [426446-spirit-of-revenge-elizabeths-secret-collectors-edition.json](./426446-spirit-of-revenge-elizabeths-secret-collectors-edition.json) |
+| Spirit of Revenge: Florry's Well | 426449 | [426449-spirit-of-revenge-florrys-well.json](./426449-spirit-of-revenge-florrys-well.json) |
+| Spirit of Revenge: Florry's Well - Collector's Edition | 426448 | [426448-spirit-of-revenge-florrys-well-collectors-edition.json](./426448-spirit-of-revenge-florrys-well-collectors-edition.json) |
 | Spirit of Revenge: Gem Fury | 53652 | [53652-spirit-of-revenge-gem-fury.json](./53652-spirit-of-revenge-gem-fury.json) |
 | Spirit of the Ancient Forest | 43081 | [43081-spirit-of-the-ancient-forest.json](./43081-spirit-of-the-ancient-forest.json) |
 | Spirit of the Backwaters | 248076 | [248076-spirit-of-the-backwaters.json](./248076-spirit-of-the-backwaters.json) |
@@ -20729,6 +20739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits of Mystery: Chains of Promise | 59878 | [59878-spirits-of-mystery-chains-of-promise.json](./59878-spirits-of-mystery-chains-of-promise.json) |
 | Spirits of Mystery: Chains of Promise - Collector's Edition | 110346 | [110346-spirits-of-mystery-chains-of-promise-collectors-edition.json](./110346-spirits-of-mystery-chains-of-promise-collectors-edition.json) |
 | Spirits of Mystery: Family Lies | 102790 | [102790-spirits-of-mystery-family-lies.json](./102790-spirits-of-mystery-family-lies.json) |
+| Spirits of Mystery: Family Lies - Collector's Edition | 426451 | [426451-spirits-of-mystery-family-lies-collectors-edition.json](./426451-spirits-of-mystery-family-lies-collectors-edition.json) |
 | Spirits of Mystery: Illusions | 103560 | [103560-spirits-of-mystery-illusions.json](./103560-spirits-of-mystery-illusions.json) |
 | Spirits of Mystery: Song of the Phoenix | 62822 | [62822-spirits-of-mystery-song-of-the-phoenix.json](./62822-spirits-of-mystery-song-of-the-phoenix.json) |
 | Spirits of Mystery: Song of the Phoenix - Collector's Edition | 29620 | [29620-spirits-of-mystery-song-of-the-phoenix-collectors-edition.json](./29620-spirits-of-mystery-song-of-the-phoenix-collectors-edition.json) |
@@ -25768,6 +25779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded at Sea | 365737 | [365737-stranded-at-sea.json](./365737-stranded-at-sea.json) |
 | Stranded B | 162257 | [162257-stranded-b.json](./162257-stranded-b.json) |
 | Stranded Deep 2 | 415782 | [415782-stranded-deep-2.json](./415782-stranded-deep-2.json) |
+| Stranded Dreamscapes: The Prisoner - Collector's Edition | 426452 | [426452-stranded-dreamscapes-the-prisoner-collectors-edition.json](./426452-stranded-dreamscapes-the-prisoner-collectors-edition.json) |
 | Stranded Engineers | 273398 | [273398-stranded-engineers.json](./273398-stranded-engineers.json) |
 | Stranded Hearts | 184914 | [184914-stranded-hearts.json](./184914-stranded-hearts.json) |
 | Stranded II | 74098 | [74098-stranded-ii.json](./74098-stranded-ii.json) |
