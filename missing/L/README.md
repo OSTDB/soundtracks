@@ -4246,6 +4246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Tabayama | 344557 | [344557-life-of-tabayama.json](./344557-life-of-tabayama.json) |
 | Life of Thife | 277125 | [277125-life-of-thife.json](./277125-life-of-thife.json) |
 | Life on a Pizza | 164880 | [164880-life-on-a-pizza.json](./164880-life-on-a-pizza.json) |
+| Life on Mars Remake | 55443 | [55443-life-on-mars-remake.json](./55443-life-on-mars-remake.json) |
 | Life on Mars: Genesis | 265456 | [265456-life-on-mars-genesis.json](./265456-life-on-mars-genesis.json) |
 | Life on Mars? | 59700 | [59700-life-on-mars.json](./59700-life-on-mars.json) |
 | Life on the Earth | 175677 | [175677-life-on-the-earth.json](./175677-life-on-the-earth.json) |
@@ -4470,6 +4471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Tomb | 358937 | [358937-light-tomb.json](./358937-light-tomb.json) |
 | Light Touch: Pixel Block Escape | 197726 | [197726-light-touch-pixel-block-escape.json](./197726-light-touch-pixel-block-escape.json) |
 | Light Towers | 357847 | [357847-light-towers.json](./357847-light-towers.json) |
+| Light Tracer | 36784 | [36784-light-tracer.json](./36784-light-tracer.json) |
 | Light Tracer II: The Two Worlds | 146672 | [146672-light-tracer-ii-the-two-worlds.json](./146672-light-tracer-ii-the-two-worlds.json) |
 | Light Unseen | 303630 | [303630-light-unseen.json](./303630-light-unseen.json) |
 | Light Up the Dark | 404960 | [404960-light-up-the-dark.json](./404960-light-up-the-dark.json) |
