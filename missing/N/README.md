@@ -2316,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Drifter: Cyber Racing | 283258 | [283258-neon-drifter-cyber-racing.json](./283258-neon-drifter-cyber-racing.json) |
 | Neon Drive | 31180 | [31180-neon-drive.json](./31180-neon-drive.json) |
 | Neon Dungeon | 213243 | [213243-neon-dungeon.json](./213243-neon-dungeon.json) |
+| Neon Dystopia | 400571 | [400571-neon-dystopia.json](./400571-neon-dystopia.json) |
 | Neon Echo | 246299 | [246299-neon-echo.json](./246299-neon-echo.json) |
 | Neon Eclipse: Dominium | 346155 | [346155-neon-eclipse-dominium.json](./346155-neon-eclipse-dominium.json) |
 | Neon Exile | 120652 | [120652-neon-exile.json](./120652-neon-exile.json) |
@@ -3083,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Face On The Block | 388185 | [388185-new-face-on-the-block.json](./388185-new-face-on-the-block.json) |
 | New fantasia | 39810 | [39810-new-fantasia.json](./39810-new-fantasia.json) |
 | New Fief | 318296 | [318296-new-fief.json](./318296-new-fief.json) |
+| New Folder | 400603 | [400603-new-folder.json](./400603-new-folder.json) |
 | New Fortress | 130875 | [130875-new-fortress.json](./130875-new-fortress.json) |
 | New FreeCell Solitaire HD | 232369 | [232369-new-freecell-solitaire-hd.json](./232369-new-freecell-solitaire-hd.json) |
 | New Frontier | 120855 | [120855-new-frontier.json](./120855-new-frontier.json) |
