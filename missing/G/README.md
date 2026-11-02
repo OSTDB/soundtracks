@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Trek | 285458 | [285458-galaxy-trek.json](./285458-galaxy-trek.json) |
 | Galaxy Trek | 80258 | [80258-galaxy-trek.json](./80258-galaxy-trek.json) |
 | Galaxy Trucker | 60538 | [60538-galaxy-trucker.json](./60538-galaxy-trucker.json) |
+| Galaxy Union | 35402 | [35402-galaxy-union.json](./35402-galaxy-union.json) |
 | Galaxy War | 171857 | [171857-galaxy-war.json](./171857-galaxy-war.json) |
 | Galaxy War | 287514 | [287514-galaxy-war.json](./287514-galaxy-war.json) |
 | Galaxy War: The New Colony | 249658 | [249658-galaxy-war-the-new-colony.json](./249658-galaxy-war-the-new-colony.json) |
