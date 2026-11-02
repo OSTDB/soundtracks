@@ -1366,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Ironsides | 23577 | [23577-old-ironsides.json](./23577-old-ironsides.json) |
 | Old Lands: Winrinthia | 236924 | [236924-old-lands-winrinthia.json](./236924-old-lands-winrinthia.json) |
 | Old Lefty Johnson's Rubbin' & Racin' | 114407 | [114407-old-lefty-johnsons-rubbin-and-racin.json](./114407-old-lefty-johnsons-rubbin-and-racin.json) |
+| Old Light | 422189 | [422189-old-light.json](./422189-old-light.json) |
 | Old Love: Story | 129768 | [129768-old-love-story.json](./129768-old-love-story.json) |
 | Old Magic Grandtower | 389398 | [389398-old-magic-grandtower.json](./389398-old-magic-grandtower.json) |
 | Old Maid | 232884 | [232884-old-maid.json](./232884-old-maid.json) |
@@ -1709,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ominous Tales: The Forsaken Isle | 38759 | [38759-ominous-tales-the-forsaken-isle.json](./38759-ominous-tales-the-forsaken-isle.json) |
 | Ominous Tales: The Forsaken Isle - Collector's Edition | 283839 | [283839-ominous-tales-the-forsaken-isle-collectors-edition.json](./283839-ominous-tales-the-forsaken-isle-collectors-edition.json) |
 | Ominous! | 135069 | [135069-ominous.json](./135069-ominous.json) |
+| OminouSushi | 420938 | [420938-ominousushi.json](./420938-ominousushi.json) |
 | Omise de Tensyu | 138249 | [138249-omise-de-tensyu.json](./138249-omise-de-tensyu.json) |
 | Omitted | 192611 | [192611-omitted.json](./192611-omitted.json) |
 | Omizu no Hanamichi | 257113 | [257113-omizu-no-hanamichi.json](./257113-omizu-no-hanamichi.json) |
@@ -3002,6 +3004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ontranto | 277955 | [277955-ontranto.json](./277955-ontranto.json) |
 | Onward and Upward! DX | 279852 | [279852-onward-and-upward-dx.json](./279852-onward-and-upward-dx.json) |
 | Onward to walls! | 176268 | [176268-onward-to-walls.json](./176268-onward-to-walls.json) |
+| Onward! Autobattles | 422108 | [422108-onward-autobattles.json](./422108-onward-autobattles.json) |
 | Onwelt | 278881 | [278881-onwelt.json](./278881-onwelt.json) |
 | Onyanko Town | 48405 | [48405-onyanko-town.json](./48405-onyanko-town.json) |
 | Onyx | 131338 | [131338-onyx.json](./131338-onyx.json) |
@@ -3568,6 +3571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbifall | 379875 | [379875-orbifall.json](./379875-orbifall.json) |
 | Orbion | 370331 | [370331-orbion.json](./370331-orbion.json) |
 | Orbis - Throw them all! | 134980 | [134980-orbis-throw-them-all.json](./134980-orbis-throw-them-all.json) |
+| Orbis Alterni | 422139 | [422139-orbis-alterni.json](./422139-orbis-alterni.json) |
 | Orbis Fractura | 368587 | [368587-orbis-fractura.json](./368587-orbis-fractura.json) |
 | Orbis Fugae | 129613 | [129613-orbis-fugae.json](./129613-orbis-fugae.json) |
 | Orbis Multiplex | 176625 | [176625-orbis-multiplex.json](./176625-orbis-multiplex.json) |
