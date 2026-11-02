@@ -12107,6 +12107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archaeology: Sand Japanese | 337974 | [337974-archaeology-sand-japanese.json](./337974-archaeology-sand-japanese.json) |
 | Archage | 50251 | [50251-archage.json](./50251-archage.json) |
 | Archaic | 278890 | [278890-archaic.json](./278890-archaic.json) |
+| Archaica: The Path Of Light | 25625 | [25625-archaica-the-path-of-light.json](./25625-archaica-the-path-of-light.json) |
 | Archaid | 133211 | [133211-archaid.json](./133211-archaid.json) |
 | Archamon | 76077 | [76077-archamon.json](./76077-archamon.json) |
 | Archangel | 26504 | [26504-archangel.json](./26504-archangel.json) |
