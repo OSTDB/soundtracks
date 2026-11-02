@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Cartridge Collection Deluxe | 207709 | [207709-ultimate-cartridge-collection-deluxe.json](./207709-ultimate-cartridge-collection-deluxe.json) |
 | Ultimate Casino | 203349 | [203349-ultimate-casino.json](./203349-ultimate-casino.json) |
 | Ultimate Casino 3 Pack | 69246 | [69246-ultimate-casino-3-pack.json](./69246-ultimate-casino-3-pack.json) |
+| Ultimate Cat Simulator | 88945 | [88945-ultimate-cat-simulator.json](./88945-ultimate-cat-simulator.json) |
 | Ultimate Chess | 133638 | [133638-ultimate-chess.json](./133638-ultimate-chess.json) |
 | Ultimate Chess 3D | 91895 | [91895-ultimate-chess-3d.json](./91895-ultimate-chess-3d.json) |
 | Ultimate Chicken Horse: A-Neigh-Versary Edition | 159206 | [159206-ultimate-chicken-horse-a-neigh-versary-edition.json](./159206-ultimate-chicken-horse-a-neigh-versary-edition.json) |
@@ -471,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Dice Wars: Reborn | 233058 | [233058-ultimate-dice-wars-reborn.json](./233058-ultimate-dice-wars-reborn.json) |
 | Ultimate Dinosaur Simulator | 88927 | [88927-ultimate-dinosaur-simulator.json](./88927-ultimate-dinosaur-simulator.json) |
 | Ultimate Disc Golf | 129001 | [129001-ultimate-disc-golf.json](./129001-ultimate-disc-golf.json) |
+| Ultimate Dog Simulator | 88941 | [88941-ultimate-dog-simulator.json](./88941-ultimate-dog-simulator.json) |
 | Ultimate Domain | 12430 | [12430-ultimate-domain.json](./12430-ultimate-domain.json) |
 | Ultimate Double Dragon | 240025 | [240025-ultimate-double-dragon.json](./240025-ultimate-double-dragon.json) |
 | Ultimate Dragon Simulator | 86894 | [86894-ultimate-dragon-simulator.json](./86894-ultimate-dragon-simulator.json) |
@@ -519,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Football '95 | 69803 | [69803-ultimate-football-95.json](./69803-ultimate-football-95.json) |
 | Ultimate Forest Simulator | 86924 | [86924-ultimate-forest-simulator.json](./86924-ultimate-forest-simulator.json) |
 | Ultimate Fort Night Survival: Royale Battle | 100906 | [100906-ultimate-fort-night-survival-royale-battle.json](./100906-ultimate-fort-night-survival-royale-battle.json) |
+| Ultimate Fox Simulator | 88944 | [88944-ultimate-fox-simulator.json](./88944-ultimate-fox-simulator.json) |
 | Ultimate Fox Simulator 2 | 406643 | [406643-ultimate-fox-simulator-2.json](./406643-ultimate-fox-simulator-2.json) |
 | Ultimate FPS | 114670 | [114670-ultimate-fps.json](./114670-ultimate-fps.json) |
 | Ultimate FPS Challenge | 299175 | [299175-ultimate-fps-challenge.json](./299175-ultimate-fps-challenge.json) |
@@ -750,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Wizard | 28705 | [28705-ultimate-wizard.json](./28705-ultimate-wizard.json) |
 | Ultimate Wizard | 398392 | [398392-ultimate-wizard.json](./398392-ultimate-wizard.json) |
 | Ultimate Wobble Run | 407102 | [407102-ultimate-wobble-run.json](./407102-ultimate-wobble-run.json) |
+| Ultimate Wolf Simulator | 88943 | [88943-ultimate-wolf-simulator.json](./88943-ultimate-wolf-simulator.json) |
 | Ultimate Word Search 2: Letter Boxed | 31678 | [31678-ultimate-word-search-2-letter-boxed.json](./31678-ultimate-word-search-2-letter-boxed.json) |
 | Ultimate Yahtzee | 69218 | [69218-ultimate-yahtzee.json](./69218-ultimate-yahtzee.json) |
 | Ultimate Zombie Death Ball | 194815 | [194815-ultimate-zombie-death-ball.json](./194815-ultimate-zombie-death-ball.json) |
