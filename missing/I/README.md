@@ -6204,6 +6204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itazura Madness | 305907 | [305907-itazura-madness.json](./305907-itazura-madness.json) |
 | Itazura na Keshigum | 238117 | [238117-itazura-na-keshigum.json](./238117-itazura-na-keshigum.json) |
 | Itazura Tenshi | 224946 | [224946-itazura-tenshi.json](./224946-itazura-tenshi.json) |
+| ItazuraVR | 110730 | [110730-itazuravr.json](./110730-itazuravr.json) |
 | Itch | 25436 | [25436-itch.json](./25436-itch.json) |
 | Itch! | 143745 | [143745-itch.json](./143745-itch.json) |
 | Itchana Tchones Zombie Terror | 285139 | [285139-itchana-tchones-zombie-terror.json](./285139-itchana-tchones-zombie-terror.json) |
