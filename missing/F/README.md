@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faceball 2000 | 299462 | [299462-faceball-2000.json](./299462-faceball-2000.json) |
 | Faceball 2000 DX | 279728 | [279728-faceball-2000-dx.json](./279728-faceball-2000-dx.json) |
 | Faceball Captain | 356203 | [356203-faceball-captain.json](./356203-faceball-captain.json) |
+| FaceBreaker | 4852 | [4852-facebreaker.json](./4852-facebreaker.json) |
 | FaceBreaker K.O. Party | 85129 | [85129-facebreaker-k-o-party.json](./85129-facebreaker-k-o-party.json) |
 | Faced | 181377 | [181377-faced.json](./181377-faced.json) |
 | Faceez: Monsters! | 85131 | [85131-faceez-monsters.json](./85131-faceez-monsters.json) |
@@ -1288,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: New Vegas - Collector's Edition | 45129 | [45129-fallout-new-vegas-collectors-edition.json](./45129-fallout-new-vegas-collectors-edition.json) |
 | Fallout: New Vegas - Courier's Stash | 45127 | [45127-fallout-new-vegas-couriers-stash.json](./45127-fallout-new-vegas-couriers-stash.json) |
 | Fallout: New Vegas - Dead Money | 10304 | [10304-fallout-new-vegas-dead-money.json](./10304-fallout-new-vegas-dead-money.json) |
+| Fallout: New Vegas - Gun Runners' Arsenal | 187871 | [187871-fallout-new-vegas-gun-runners-arsenal.json](./187871-fallout-new-vegas-gun-runners-arsenal.json) |
 | Fallout: New Vegas - Honest Hearts | 10305 | [10305-fallout-new-vegas-honest-hearts.json](./10305-fallout-new-vegas-honest-hearts.json) |
 | Fallout: New Vegas - Lonesome Road | 10307 | [10307-fallout-new-vegas-lonesome-road.json](./10307-fallout-new-vegas-lonesome-road.json) |
 | Fallout: New Vegas - Old World Blues | 10306 | [10306-fallout-new-vegas-old-world-blues.json](./10306-fallout-new-vegas-old-world-blues.json) |
@@ -3058,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Epic of Remnant III - Shimousa | 414363 | [414363-fate-grand-order-epic-of-remnant-iii-shimousa.json](./414363-fate-grand-order-epic-of-remnant-iii-shimousa.json) |
 | Fate/Grand Order: Epic of Remnant IV - Salem | 414362 | [414362-fate-grand-order-epic-of-remnant-iv-salem.json](./414362-fate-grand-order-epic-of-remnant-iv-salem.json) |
 | Fate/Grand Order: Final Singularity - Solomon | 415255 | [415255-fate-grand-order-final-singularity-solomon.json](./415255-fate-grand-order-final-singularity-solomon.json) |
+| Fate/Grand Order: Great Void Sea Battle, Imaginary Scramble | 417630 | [417630-fate-grand-order-great-void-sea-battle-imaginary-scramble.json](./417630-fate-grand-order-great-void-sea-battle-imaginary-scramble.json) |
 | Fate/Grand Order: Lostbelt No. 2 - Götterdämmerung | 417540 | [417540-fate-grand-order-lostbelt-no-2-gotterdammerung.json](./417540-fate-grand-order-lostbelt-no-2-gotterdammerung.json) |
 | Fate/Grand Order: Naraka Mandala - Heian-kyo | 416642 | [416642-fate-grand-order-naraka-mandala-heian-kyo.json](./416642-fate-grand-order-naraka-mandala-heian-kyo.json) |
 | Fate/Grand Order: Ordeal Call I - Paper Moon | 414359 | [414359-fate-grand-order-ordeal-call-i-paper-moon.json](./414359-fate-grand-order-ordeal-call-i-paper-moon.json) |
@@ -7311,6 +7314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flingin' Poo | 394475 | [394475-flingin-poo.json](./394475-flingin-poo.json) |
 | Flingleberries! | 171418 | [171418-flingleberries.json](./171418-flingleberries.json) |
 | Flingo | 416736 | [416736-flingo.json](./416736-flingo.json) |
+| FlingSmash | 4856 | [4856-flingsmash.json](./4856-flingsmash.json) |
 | Flink | 5387 | [5387-flink.json](./5387-flink.json) |
 | Flint | 366876 | [366876-flint.json](./366876-flint.json) |
 | Flint | 368493 | [368493-flint.json](./368493-flint.json) |
