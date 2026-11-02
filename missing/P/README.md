@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack Man in Rio | 241281 | [241281-pack-man-in-rio.json](./241281-pack-man-in-rio.json) |
 | Pack Master | 135651 | [135651-pack-master.json](./135651-pack-master.json) |
 | Pack Master | 358434 | [358434-pack-master.json](./358434-pack-master.json) |
+| Pack my LunchBox: Showtime | 406469 | [406469-pack-my-lunchbox-showtime.json](./406469-pack-my-lunchbox-showtime.json) |
 | Pack My Stuff | 197142 | [197142-pack-my-stuff.json](./197142-pack-my-stuff.json) |
 | Pack My Stuff: New City | 257206 | [257206-pack-my-stuff-new-city.json](./257206-pack-my-stuff-new-city.json) |
 | Pack not Found 404 | 313477 | [313477-pack-not-found-404.json](./313477-pack-not-found-404.json) |
@@ -7976,6 +7977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Quest: The Lost Gifts | 413681 | [413681-pixel-quest-the-lost-gifts.json](./413681-pixel-quest-the-lost-gifts.json) |
 | Pixel Quest: The Lost Idols | 413680 | [413680-pixel-quest-the-lost-idols.json](./413680-pixel-quest-the-lost-idols.json) |
 | Pixel Race Maker | 309443 | [309443-pixel-race-maker.json](./309443-pixel-race-maker.json) |
+| Pixel Rain | 406479 | [406479-pixel-rain.json](./406479-pixel-rain.json) |
 | Pixel Rampage | 358334 | [358334-pixel-rampage.json](./358334-pixel-rampage.json) |
 | Pixel Restorer | 312026 | [312026-pixel-restorer.json](./312026-pixel-restorer.json) |
 | Pixel Restorer: Image Folder 1 | 353414 | [353414-pixel-restorer-image-folder-1.json](./353414-pixel-restorer-image-folder-1.json) |
@@ -15121,6 +15123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Remedium | 32612 | [32612-project-remedium.json](./32612-project-remedium.json) |
 | Project ReMind | 362052 | [362052-project-remind.json](./362052-project-remind.json) |
 | Project Renaissance | 419915 | [419915-project-renaissance.json](./419915-project-renaissance.json) |
+| Project Reprieve | 406499 | [406499-project-reprieve.json](./406499-project-reprieve.json) |
 | Project Reset | 108042 | [108042-project-reset.json](./108042-project-reset.json) |
 | Project Restoration | 184397 | [184397-project-restoration.json](./184397-project-restoration.json) |
 | Project Retro Ninja | 179409 | [179409-project-retro-ninja.json](./179409-project-retro-ninja.json) |
