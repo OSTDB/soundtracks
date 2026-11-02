@@ -1965,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once and Future | 73068 | [73068-once-and-future.json](./73068-once-and-future.json) |
 | Once Be Human | 208149 | [208149-once-be-human.json](./208149-once-be-human.json) |
 | Once Before Us | 373838 | [373838-once-before-us.json](./373838-once-before-us.json) |
+| Once Bitten, Twice Dead | 35491 | [35491-once-bitten-twice-dead.json](./35491-once-bitten-twice-dead.json) |
 | Once Chance | 16755 | [16755-once-chance.json](./16755-once-chance.json) |
 | Once Clover Died | 318845 | [318845-once-clover-died.json](./318845-once-clover-died.json) |
 | Once Ever After | 111467 | [111467-once-ever-after.json](./111467-once-ever-after.json) |
@@ -3752,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order from Caos 2 | 194897 | [194897-order-from-caos-2.json](./194897-order-from-caos-2.json) |
 | Order Land | 222494 | [222494-order-land.json](./222494-order-land.json) |
 | Order matters | 26486 | [26486-order-matters.json](./26486-order-matters.json) |
+| Order No. 227: Not one step back! | 39262 | [39262-order-no-227-not-one-step-back.json](./39262-order-no-227-not-one-step-back.json) |
 | Order of Ataxia: Initial Effects | 54800 | [54800-order-of-ataxia-initial-effects.json](./54800-order-of-ataxia-initial-effects.json) |
 | Order of Battle: Allies Defiant | 154565 | [154565-order-of-battle-allies-defiant.json](./154565-order-of-battle-allies-defiant.json) |
 | Order of Battle: Allies Victorious | 220614 | [220614-order-of-battle-allies-victorious.json](./220614-order-of-battle-allies-victorious.json) |
