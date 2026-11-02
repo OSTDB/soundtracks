@@ -330,6 +330,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Kanzen Kouryaku Uni-Colle'97 | 176134 | [176134-pachi-slot-kanzen-kouryaku-uni-colle97.json](./176134-pachi-slot-kanzen-kouryaku-uni-colle97.json) |
 | Pachi-Slot Kanzen Kouryaku: Takasago Super Project | 402737 | [402737-pachi-slot-kanzen-kouryaku-takasago-super-project.json](./402737-pachi-slot-kanzen-kouryaku-takasago-super-project.json) |
 | Pachi-Slot Kanzen Kouryaku: Takasago Super Project 2 | 402740 | [402740-pachi-slot-kanzen-kouryaku-takasago-super-project-2.json](./402740-pachi-slot-kanzen-kouryaku-takasago-super-project-2.json) |
+| Pachi-Slot Kanzen Kouryaku: Universal Koushiki Guide Volume 1 | 402748 | [402748-pachi-slot-kanzen-kouryaku-universal-koushiki-guide-volume-1.json](./402748-pachi-slot-kanzen-kouryaku-universal-koushiki-guide-volume-1.json) |
+| Pachi-Slot Kanzen Kouryaku: Universal Koushiki Guide Volume 3 | 402750 | [402750-pachi-slot-kanzen-kouryaku-universal-koushiki-guide-volume-3.json](./402750-pachi-slot-kanzen-kouryaku-universal-koushiki-guide-volume-3.json) |
+| Pachi-Slot Kanzen Kouryaku: Universal Koushiki Guide Volume 4 | 402745 | [402745-pachi-slot-kanzen-kouryaku-universal-koushiki-guide-volume-4.json](./402745-pachi-slot-kanzen-kouryaku-universal-koushiki-guide-volume-4.json) |
 | Pachi-Slot Kanzen Kouryaku: Universal Shindai Nyuuka Volume 1 | 66960 | [66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json](./66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json) |
 | Pachi-Slot Kenkyuu | 37900 | [37900-pachi-slot-kenkyuu.json](./37900-pachi-slot-kenkyuu.json) |
 | Pachi-Slot Land: Pachi-pachi Coin no Densetsu | 37899 | [37899-pachi-slot-land-pachi-pachi-coin-no-densetsu.json](./37899-pachi-slot-land-pachi-pachi-coin-no-densetsu.json) |
@@ -14543,6 +14546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profiler: The Hopscotch Killer - Extended Edition | 262360 | [262360-profiler-the-hopscotch-killer-extended-edition.json](./262360-profiler-the-hopscotch-killer-extended-edition.json) |
 | Profiles of the Forgotten | 123419 | [123419-profiles-of-the-forgotten.json](./123419-profiles-of-the-forgotten.json) |
 | Profit or Peril | 374028 | [374028-profit-or-peril.json](./374028-profit-or-peril.json) |
+| Profit Sea Incremental | 402655 | [402655-profit-sea-incremental.json](./402655-profit-sea-incremental.json) |
 | Profitania | 85755 | [85755-profitania.json](./85755-profitania.json) |
 | Profiteer | 311858 | [311858-profiteer.json](./311858-profiteer.json) |
 | PROFITS 2167: Planetary Resource Optimization & Freight Infrastructure Technician Simulator | 397201 | [397201-profits-2167-planetary-resource-optimization-and-freight-infrastructure-technician-simulator.json](./397201-profits-2167-planetary-resource-optimization-and-freight-infrastructure-technician-simulator.json) |
