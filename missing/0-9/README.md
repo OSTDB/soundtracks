@@ -2092,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Air Hockey | 154912 | [154912-3d-air-hockey.json](./154912-3d-air-hockey.json) |
 | 3D Alien Invasion | 210361 | [210361-3d-alien-invasion.json](./210361-3d-alien-invasion.json) |
 | 3D Alien Syndrome | 202925 | [202925-3d-alien-syndrome.json](./202925-3d-alien-syndrome.json) |
+| 3D Arcade Fishing | 31165 | [31165-3d-arcade-fishing.json](./31165-3d-arcade-fishing.json) |
 | 3D Armada | 93314 | [93314-3d-armada.json](./93314-3d-armada.json) |
 | 3D Atlas | 92624 | [92624-3d-atlas.json](./92624-3d-atlas.json) |
 | 3D Attack | 281225 | [281225-3d-attack.json](./281225-3d-attack.json) |
