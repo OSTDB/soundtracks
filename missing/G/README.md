@@ -2150,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet Legends | 322268 | [322268-gauntlet-legends.json](./322268-gauntlet-legends.json) |
 | Gauntlet Legends | 322269 | [322269-gauntlet-legends.json](./322269-gauntlet-legends.json) |
 | Gauntlet Legends | 3501 | [3501-gauntlet-legends.json](./3501-gauntlet-legends.json) |
+| Gauntlet: Seven Sorrows | 5844 | [5844-gauntlet-seven-sorrows.json](./5844-gauntlet-seven-sorrows.json) |
 | Gauntlet: Slayer Edition | 20044 | [20044-gauntlet-slayer-edition.json](./20044-gauntlet-slayer-edition.json) |
 | Gauntlet: Slayer Edition - Lilith the Necromancer Pack | 226429 | [226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json](./226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json) |
 | Gauntlet: The Deeper Dungeons | 37164 | [37164-gauntlet-the-deeper-dungeons.json](./37164-gauntlet-the-deeper-dungeons.json) |
@@ -4090,6 +4091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginger | 328946 | [328946-ginger.json](./328946-ginger.json) |
 | Ginger Rangers | 120233 | [120233-ginger-rangers.json](./120233-ginger-rangers.json) |
 | Ginger Shroom Journey | 307914 | [307914-ginger-shroom-journey.json](./307914-ginger-shroom-journey.json) |
+| Ginger: Beyond the Crystal | 25113 | [25113-ginger-beyond-the-crystal.json](./25113-ginger-beyond-the-crystal.json) |
 | Ginger: The Tooth Fairy | 209134 | [209134-ginger-the-tooth-fairy.json](./209134-ginger-the-tooth-fairy.json) |
 | Ginger's Letter to Santa | 326745 | [326745-gingers-letter-to-santa.json](./326745-gingers-letter-to-santa.json) |
 | Gingerbread Dash! | 302988 | [302988-gingerbread-dash.json](./302988-gingerbread-dash.json) |
