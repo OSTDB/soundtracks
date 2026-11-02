@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Kingdom to Conquer | 279500 | [279500-a-kingdom-to-conquer.json](./279500-a-kingdom-to-conquer.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
 | A Kiss for the Petals - Remembering How We Met | 34585 | [34585-a-kiss-for-the-petals-remembering-how-we-met.json](./34585-a-kiss-for-the-petals-remembering-how-we-met.json) |
+| A Kiss For the Petals: Maidens of Michael | 83995 | [83995-a-kiss-for-the-petals-maidens-of-michael.json](./83995-a-kiss-for-the-petals-maidens-of-michael.json) |
 | A Kiss from Death | 154248 | [154248-a-kiss-from-death.json](./154248-a-kiss-from-death.json) |
 | A Kiss From Death | 247094 | [247094-a-kiss-from-death.json](./247094-a-kiss-from-death.json) |
 | A Kiss Of Salt Water | 301907 | [301907-a-kiss-of-salt-water.json](./301907-a-kiss-of-salt-water.json) |
@@ -1009,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Rushed Project | 268351 | [268351-a-rushed-project.json](./268351-a-rushed-project.json) |
 | A Ruthless World | 303895 | [303895-a-ruthless-world.json](./303895-a-ruthless-world.json) |
 | A Safe Place | 338165 | [338165-a-safe-place.json](./338165-a-safe-place.json) |
+| A Salem Witch Trial | 84050 | [84050-a-salem-witch-trial.json](./84050-a-salem-witch-trial.json) |
 | A Sandwich, A Leash, and A Storm | 337701 | [337701-a-sandwich-a-leash-and-a-storm.json](./337701-a-sandwich-a-leash-and-a-storm.json) |
 | A Sceptic's Guide to Magic | 118127 | [118127-a-sceptics-guide-to-magic.json](./118127-a-sceptics-guide-to-magic.json) |
 | A Sea of Grey & Green | 413864 | [413864-a-sea-of-grey-and-green.json](./413864-a-sea-of-grey-and-green.json) |
@@ -9604,6 +9606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Gacha! | 307275 | [307275-anime-gacha.json](./307275-anime-gacha.json) |
 | Anime Gas Station | 202210 | [202210-anime-gas-station.json](./202210-anime-gas-station.json) |
 | Anime Girl Kawaii High School Dress Up | 364073 | [364073-anime-girl-kawaii-high-school-dress-up.json](./364073-anime-girl-kawaii-high-school-dress-up.json) |
+| Anime girl or Bottle? | 84027 | [84027-anime-girl-or-bottle.json](./84027-anime-girl-or-bottle.json) |
 | Anime Girl or Boy? | 108419 | [108419-anime-girl-or-boy.json](./108419-anime-girl-or-boy.json) |
 | Anime Girl Puzzles | 290910 | [290910-anime-girl-puzzles.json](./290910-anime-girl-puzzles.json) |
 | Anime Girl Puzzles: Akari | 297770 | [297770-anime-girl-puzzles-akari.json](./297770-anime-girl-puzzles-akari.json) |
