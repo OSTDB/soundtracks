@@ -714,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecco the Dolphin | 237309 | [237309-ecco-the-dolphin.json](./237309-ecco-the-dolphin.json) |
 | Ecco the Dolphin | 388157 | [388157-ecco-the-dolphin.json](./388157-ecco-the-dolphin.json) |
 | Ecco the Dolphin | 5378 | [5378-ecco-the-dolphin.json](./5378-ecco-the-dolphin.json) |
+| Ecco the Dolphin CD | 409123 | [409123-ecco-the-dolphin-cd.json](./409123-ecco-the-dolphin-cd.json) |
 | Ecco the Dolphin: Defender of the Future | 9188 | [9188-ecco-the-dolphin-defender-of-the-future.json](./9188-ecco-the-dolphin-defender-of-the-future.json) |
 | Ecco: The Tides of Time | 237314 | [237314-ecco-the-tides-of-time.json](./237314-ecco-the-tides-of-time.json) |
 | Ecco: The Tides of Time | 5379 | [5379-ecco-the-tides-of-time.json](./5379-ecco-the-tides-of-time.json) |
@@ -3462,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Dead | 35407 | [35407-endless-dead.json](./35407-endless-dead.json) |
 | Endless Deaths | 331920 | [331920-endless-deaths.json](./331920-endless-deaths.json) |
 | Endless Defence 2 | 120728 | [120728-endless-defence-2.json](./120728-endless-defence-2.json) |
+| Endless Defense | 408415 | [408415-endless-defense.json](./408415-endless-defense.json) |
 | Endless Defense: Survival | 339748 | [339748-endless-defense-survival.json](./339748-endless-defense-survival.json) |
 | Endless Depths | 354510 | [354510-endless-depths.json](./354510-endless-depths.json) |
 | Endless Depths 2 RPG | 197784 | [197784-endless-depths-2-rpg.json](./197784-endless-depths-2-rpg.json) |
@@ -4747,6 +4749,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Asylum | 96936 | [96936-escape-asylum.json](./96936-escape-asylum.json) |
 | Escape Baba Yaga | 298000 | [298000-escape-baba-yaga.json](./298000-escape-baba-yaga.json) |
 | Escape Backrooms Collection | 415388 | [415388-escape-backrooms-collection.json](./415388-escape-backrooms-collection.json) |
+| Escape Backrooms: Dark Edition | 409967 | [409967-escape-backrooms-dark-edition.json](./409967-escape-backrooms-dark-edition.json) |
+| Escape Backrooms: Premium Edition | 409968 | [409968-escape-backrooms-premium-edition.json](./409968-escape-backrooms-premium-edition.json) |
 | Escape Basement | 261206 | [261206-escape-basement.json](./261206-escape-basement.json) |
 | Escape Black Orion VR | 107408 | [107408-escape-black-orion-vr.json](./107408-escape-black-orion-vr.json) |
 | Escape Block King | 402311 | [402311-escape-block-king.json](./402311-escape-block-king.json) |
