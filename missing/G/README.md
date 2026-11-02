@@ -1926,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garouden Breakblow | 78509 | [78509-garouden-breakblow.json](./78509-garouden-breakblow.json) |
 | Garouden Breakblow: Fist or Twist | 66497 | [66497-garouden-breakblow-fist-or-twist.json](./66497-garouden-breakblow-fist-or-twist.json) |
 | Garrett the Slug | 70613 | [70613-garrett-the-slug.json](./70613-garrett-the-slug.json) |
+| Garrick's Hollow | 414702 | [414702-garricks-hollow.json](./414702-garricks-hollow.json) |
 | Garrison | 13856 | [13856-garrison.json](./13856-garrison.json) |
 | Garrison | 170784 | [170784-garrison.json](./170784-garrison.json) |
 | Garrison I-II | 112231 | [112231-garrison-i-ii.json](./112231-garrison-i-ii.json) |
@@ -4791,6 +4792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glogwillette | 306968 | [306968-glogwillette.json](./306968-glogwillette.json) |
 | Glompa | 296853 | [296853-glompa.json](./296853-glompa.json) |
 | Gloo Storm | 194864 | [194864-gloo-storm.json](./194864-gloo-storm.json) |
+| Glooky: Cursors in the City | 414724 | [414724-glooky-cursors-in-the-city.json](./414724-glooky-cursors-in-the-city.json) |
 | Gloom | 151203 | [151203-gloom.json](./151203-gloom.json) |
 | Gloom | 3030 | [3030-gloom.json](./3030-gloom.json) |
 | Gloom | 77750 | [77750-gloom.json](./77750-gloom.json) |
@@ -6536,6 +6538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Children Say Grace | 404251 | [404251-good-children-say-grace.json](./404251-good-children-say-grace.json) |
 | Good Company | 107754 | [107754-good-company.json](./107754-good-company.json) |
 | Good Day | 186401 | [186401-good-day.json](./186401-good-day.json) |
+| Good Dirt | 414730 | [414730-good-dirt.json](./414730-good-dirt.json) |
 | Good Dog | 176711 | [176711-good-dog.json](./176711-good-dog.json) |
 | Good Doggo | 99627 | [99627-good-doggo.json](./99627-good-doggo.json) |
 | Good doktor | 127532 | [127532-good-doktor.json](./127532-good-doktor.json) |
