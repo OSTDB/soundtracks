@@ -9393,6 +9393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Creatures World | 145333 | [145333-disc-creatures-world.json](./145333-disc-creatures-world.json) |
 | Disc Dimension | 278153 | [278153-disc-dimension.json](./278153-disc-dimension.json) |
 | Disc Drivin' | 92398 | [92398-disc-drivin.json](./92398-disc-drivin.json) |
+| Disc Drivin' 2 | 87366 | [87366-disc-drivin-2.json](./87366-disc-drivin-2.json) |
 | Disc Frenzy | 296720 | [296720-disc-frenzy.json](./296720-disc-frenzy.json) |
 | Disc Golf | 67809 | [67809-disc-golf.json](./67809-disc-golf.json) |
 | Disc Golf 3D | 89808 | [89808-disc-golf-3d.json](./89808-disc-golf-3d.json) |
@@ -11986,6 +11987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong no Ongaku Asobi | 131901 | [131901-donkey-kong-no-ongaku-asobi.json](./131901-donkey-kong-no-ongaku-asobi.json) |
 | Donkey Kong Pac-Man Crossover | 290237 | [290237-donkey-kong-pac-man-crossover.json](./290237-donkey-kong-pac-man-crossover.json) |
 | Donkey Kong Plus | 185889 | [185889-donkey-kong-plus.json](./185889-donkey-kong-plus.json) |
+| Donkey Kong Racing | 85577 | [85577-donkey-kong-racing.json](./85577-donkey-kong-racing.json) |
 | Donkey Kong Redux | 331437 | [331437-donkey-kong-redux.json](./331437-donkey-kong-redux.json) |
 | Donkey Kong Returns | 191438 | [191438-donkey-kong-returns.json](./191438-donkey-kong-returns.json) |
 | Donkey Kong vs. K. Rool Challenge | 307722 | [307722-donkey-kong-vs-k-rool-challenge.json](./307722-donkey-kong-vs-k-rool-challenge.json) |
@@ -17565,6 +17567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk Mania | 39824 | [39824-dunk-mania.json](./39824-dunk-mania.json) |
 | Dunk Nation 3x3 | 83323 | [83323-dunk-nation-3x3.json](./83323-dunk-nation-3x3.json) |
 | Dunk Shot | 40977 | [40977-dunk-shot.json](./40977-dunk-shot.json) |
+| Dunk Shot | 87372 | [87372-dunk-shot.json](./87372-dunk-shot.json) |
 | Dunk the Ball | 101567 | [101567-dunk-the-ball.json](./101567-dunk-the-ball.json) |
 | Dunk The Hoops: Bouncy Ball | 266832 | [266832-dunk-the-hoops-bouncy-ball.json](./266832-dunk-the-hoops-bouncy-ball.json) |
 | Dunk Tower | 242801 | [242801-dunk-tower.json](./242801-dunk-tower.json) |
