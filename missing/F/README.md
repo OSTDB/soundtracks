@@ -7670,6 +7670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floppy Fish | 402997 | [402997-floppy-fish.json](./402997-floppy-fish.json) |
 | Floppy Frenzy | 25137 | [25137-floppy-frenzy.json](./25137-floppy-frenzy.json) |
 | Floppy From Outer Space | 183347 | [183347-floppy-from-outer-space.json](./183347-floppy-from-outer-space.json) |
+| Floppy Heroes | 32537 | [32537-floppy-heroes.json](./32537-floppy-heroes.json) |
 | Floppy Heroes 2 | 131777 | [131777-floppy-heroes-2.json](./131777-floppy-heroes-2.json) |
 | Floppy Jump 3-in-1 | 385550 | [385550-floppy-jump-3-in-1.json](./385550-floppy-jump-3-in-1.json) |
 | Floppy Knights: Version 2.0 | 230299 | [230299-floppy-knights-version-2-0.json](./230299-floppy-knights-version-2-0.json) |
