@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdore | 364027 | [364027-ragdore.json](./364027-ragdore.json) |
 | Rage 2 | 101211 | [101211-rage-2.json](./101211-rage-2.json) |
 | Rage 2: Collector's Edition | 103297 | [103297-rage-2-collectors-edition.json](./103297-rage-2-collectors-edition.json) |
+| Rage 2: Rise of the Ghosts | 119310 | [119310-rage-2-rise-of-the-ghosts.json](./119310-rage-2-rise-of-the-ghosts.json) |
 | Rage 2: TerrorMania | 125636 | [125636-rage-2-terrormania.json](./125636-rage-2-terrormania.json) |
 | Rage 3 | 229889 | [229889-rage-3.json](./229889-rage-3.json) |
 | Rage Against the Machine | 143291 | [143291-rage-against-the-machine.json](./143291-rage-against-the-machine.json) |
@@ -5303,6 +5304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Revelations 2 - Episode 1: Penal Colony | 82435 | [82435-resident-evil-revelations-2-episode-1-penal-colony.json](./82435-resident-evil-revelations-2-episode-1-penal-colony.json) |
 | Resident Evil: Revelations 2 - Episode 3: Judgment | 116026 | [116026-resident-evil-revelations-2-episode-3-judgment.json](./116026-resident-evil-revelations-2-episode-3-judgment.json) |
 | Resident Evil: Revelations 2 - Episode 4: Metamorphosis | 116027 | [116027-resident-evil-revelations-2-episode-4-metamorphosis.json](./116027-resident-evil-revelations-2-episode-4-metamorphosis.json) |
+| Resident Evil: Revelations 2 - Extra Episode 1: The Struggle | 116028 | [116028-resident-evil-revelations-2-extra-episode-1-the-struggle.json](./116028-resident-evil-revelations-2-extra-episode-1-the-struggle.json) |
 | Resident Evil: Revelations 2 - Extra Episode 2: Little Miss | 116029 | [116029-resident-evil-revelations-2-extra-episode-2-little-miss.json](./116029-resident-evil-revelations-2-extra-episode-2-little-miss.json) |
 | Resident Evil: Seamless HD Project | 322044 | [322044-resident-evil-seamless-hd-project.json](./322044-resident-evil-seamless-hd-project.json) |
 | Resident Evil: Super Bundle | 99513 | [99513-resident-evil-super-bundle.json](./99513-resident-evil-super-bundle.json) |
