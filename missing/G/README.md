@@ -2023,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaslit Bay | 405686 | [405686-gaslit-bay.json](./405686-gaslit-bay.json) |
 | Gasnator | 229796 | [229796-gasnator.json](./229796-gasnator.json) |
 | Gasoline | 418900 | [418900-gasoline.json](./418900-gasoline.json) |
+| Gasp | 34152 | [34152-gasp.json](./34152-gasp.json) |
 | Gasparilla: Quest for the Key | 69628 | [69628-gasparilla-quest-for-the-key.json](./69628-gasparilla-quest-for-the-key.json) |
 | Gasping.2 | 303994 | [303994-gasping-2.json](./303994-gasping-2.json) |
 | Gassy GaoGao | 405545 | [405545-gassy-gaogao.json](./405545-gassy-gaogao.json) |
