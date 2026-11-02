@@ -2085,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 3 + 4 Double Pack | 136783 | [136783-far-cry-3-4-double-pack.json](./136783-far-cry-3-4-double-pack.json) |
 | Far Cry 3: Blood Dragon - Classic Edition | 188063 | [188063-far-cry-3-blood-dragon-classic-edition.json](./188063-far-cry-3-blood-dragon-classic-edition.json) |
 | Far Cry 3: Classic Edition | 86389 | [86389-far-cry-3-classic-edition.json](./86389-far-cry-3-classic-edition.json) |
+| Far Cry 3: Deluxe Edition | 25467 | [25467-far-cry-3-deluxe-edition.json](./25467-far-cry-3-deluxe-edition.json) |
 | Far Cry 3: High Tides | 284318 | [284318-far-cry-3-high-tides.json](./284318-far-cry-3-high-tides.json) |
 | Far Cry 3: Insane Edition | 142163 | [142163-far-cry-3-insane-edition.json](./142163-far-cry-3-insane-edition.json) |
 | Far Cry 3: Monkey Business | 229538 | [229538-far-cry-3-monkey-business.json](./229538-far-cry-3-monkey-business.json) |
@@ -10821,6 +10822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Physics | 169354 | [169354-freedom-physics.json](./169354-freedom-physics.json) |
 | Freedom Planet | 7116 | [7116-freedom-planet.json](./7116-freedom-planet.json) |
 | Freedom Planet 1+2 Bundle | 295696 | [295696-freedom-planet-1-2-bundle.json](./295696-freedom-planet-1-2-bundle.json) |
+| Freedom Planet 2 | 26622 | [26622-freedom-planet-2.json](./26622-freedom-planet-2.json) |
 | Freedom Tower | 260334 | [260334-freedom-tower.json](./260334-freedom-tower.json) |
 | Freedom Wars | 6060 | [6060-freedom-wars.json](./6060-freedom-wars.json) |
 | Freedom Wars Remastered | 317086 | [317086-freedom-wars-remastered.json](./317086-freedom-wars-remastered.json) |
@@ -12231,6 +12233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Spectrum Gradient | 342717 | [342717-full-spectrum-gradient.json](./342717-full-spectrum-gradient.json) |
 | Full Spectrum Warrior | 5840 | [5840-full-spectrum-warrior.json](./5840-full-spectrum-warrior.json) |
 | Full Spectrum Warrior Complete | 53060 | [53060-full-spectrum-warrior-complete.json](./53060-full-spectrum-warrior-complete.json) |
+| Full Spectrum Warrior: Ten Hammers | 5841 | [5841-full-spectrum-warrior-ten-hammers.json](./5841-full-spectrum-warrior-ten-hammers.json) |
 | Full Speed Animals: Disorder | 296380 | [296380-full-speed-animals-disorder.json](./296380-full-speed-animals-disorder.json) |
 | Full Speed Animals: The RTA | 289369 | [289369-full-speed-animals-the-rta.json](./289369-full-speed-animals-the-rta.json) |
 | Full Steam Undead | 377648 | [377648-full-steam-undead.json](./377648-full-steam-undead.json) |
