@@ -3341,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Does Not Respond | 373598 | [373598-heaven-does-not-respond.json](./373598-heaven-does-not-respond.json) |
 | Heaven Dust 2 | 153344 | [153344-heaven-dust-2.json](./153344-heaven-dust-2.json) |
 | Heaven Dust Collection | 317215 | [317215-heaven-dust-collection.json](./317215-heaven-dust-collection.json) |
+| Heaven Forest - VR MMO | 32581 | [32581-heaven-forest-vr-mmo.json](./32581-heaven-forest-vr-mmo.json) |
 | Heaven Forest Nights | 35430 | [35430-heaven-forest-nights.json](./35430-heaven-forest-nights.json) |
 | Heaven Impact | 301001 | [301001-heaven-impact.json](./301001-heaven-impact.json) |
 | Heaven Island Life | 33991 | [33991-heaven-island-life.json](./33991-heaven-island-life.json) |
@@ -3573,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heir to the Queen | 358915 | [358915-heir-to-the-queen.json](./358915-heir-to-the-queen.json) |
 | Heiress II | 417969 | [417969-heiress-ii.json](./417969-heiress-ii.json) |
 | Heirs | 329072 | [329072-heirs.json](./329072-heirs.json) |
+| Heirs and Graces | 32497 | [32497-heirs-and-graces.json](./32497-heirs-and-graces.json) |
 | Heirs of Heaven | 346237 | [346237-heirs-of-heaven.json](./346237-heirs-of-heaven.json) |
 | Heirs of the Moon | 413922 | [413922-heirs-of-the-moon.json](./413922-heirs-of-the-moon.json) |
 | Heirs to the Throne | 69893 | [69893-heirs-to-the-throne.json](./69893-heirs-to-the-throne.json) |
@@ -8368,6 +8370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holocure: Update 0.6 | 261921 | [261921-holocure-update-0-6.json](./261921-holocure-update-0-6.json) |
 | Holodama: Content Clash | 386190 | [386190-holodama-content-clash.json](./386190-holodama-content-clash.json) |
 | Holodance | 34003 | [34003-holodance.json](./34003-holodance.json) |
+| Holodaze | 32566 | [32566-holodaze.json](./32566-holodaze.json) |
 | Holodeck Arena | 211020 | [211020-holodeck-arena.json](./211020-holodeck-arena.json) |
 | Holodrive | 20365 | [20365-holodrive.json](./20365-holodrive.json) |
 | HoloDungeon: Koyori vs HollowLive in Honsha Tower | 410033 | [410033-holodungeon-koyori-vs-hollowlive-in-honsha-tower.json](./410033-holodungeon-koyori-vs-hollowlive-in-honsha-tower.json) |
