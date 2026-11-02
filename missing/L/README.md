@@ -6328,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LocoRoco 2 | 1461 | [1461-locoroco-2.json](./1461-locoroco-2.json) |
 | LocoRoco Midnight Carnival | 1462 | [1462-locoroco-midnight-carnival.json](./1462-locoroco-midnight-carnival.json) |
 | LocoRoco Midnight Carnival | 247085 | [247085-locoroco-midnight-carnival.json](./247085-locoroco-midnight-carnival.json) |
+| LocoRoco Remastered | 26234 | [26234-locoroco-remastered.json](./26234-locoroco-remastered.json) |
 | LocoSoccer 2 | 300540 | [300540-locosoccer-2.json](./300540-locosoccer-2.json) |
 | LocoSoccer Classic | 34601 | [34601-locosoccer-classic.json](./34601-locosoccer-classic.json) |
 | Locotier | 193489 | [193489-locotier.json](./193489-locotier.json) |
@@ -8588,6 +8589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucie's Potager | 199261 | [199261-lucies-potager.json](./199261-lucies-potager.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
 | Lucifer Ring | 43873 | [43873-lucifer-ring.json](./43873-lucifer-ring.json) |
+| Lucifer Within Us | 119359 | [119359-lucifer-within-us.json](./119359-lucifer-within-us.json) |
 | Lucifer: Paradise Lost | 157981 | [157981-lucifer-paradise-lost.json](./157981-lucifer-paradise-lost.json) |
 | Lucifer's Ballroom Bonanza | 246531 | [246531-lucifers-ballroom-bonanza.json](./246531-lucifers-ballroom-bonanza.json) |
 | Lucifer's Bountiful Beads | 246532 | [246532-lucifers-bountiful-beads.json](./246532-lucifers-bountiful-beads.json) |
