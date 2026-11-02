@@ -1890,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark the Dead | 304556 | [304556-dark-the-dead.json](./304556-dark-the-dead.json) |
 | Dark Theme Bundle | 265191 | [265191-dark-theme-bundle.json](./265191-dark-theme-bundle.json) |
 | Dark Things | 335174 | [335174-dark-things.json](./335174-dark-things.json) |
+| Dark Thoughts | 427274 | [427274-dark-thoughts.json](./427274-dark-thoughts.json) |
 | Dark Throne | 29597 | [29597-dark-throne.json](./29597-dark-throne.json) |
 | Dark Throne | 303074 | [303074-dark-throne.json](./303074-dark-throne.json) |
 | Dark Throne: The Queen Rises | 220587 | [220587-dark-throne-the-queen-rises.json](./220587-dark-throne-the-queen-rises.json) |
@@ -7904,6 +7905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Caves II | 122631 | [122631-diamond-caves-ii.json](./122631-diamond-caves-ii.json) |
 | Diamond Craze | 248817 | [248817-diamond-craze.json](./248817-diamond-craze.json) |
 | Diamond Crush 2 | 343975 | [343975-diamond-crush-2.json](./343975-diamond-crush-2.json) |
+| Diamond Dan | 9821 | [9821-diamond-dan.json](./9821-diamond-dan.json) |
 | Diamond Dash | 72688 | [72688-diamond-dash.json](./72688-diamond-dash.json) |
 | Diamond Dash: Plaid Peril | 276224 | [276224-diamond-dash-plaid-peril.json](./276224-diamond-dash-plaid-peril.json) |
 | Diamond Deeps | 35322 | [35322-diamond-deeps.json](./35322-diamond-deeps.json) |
