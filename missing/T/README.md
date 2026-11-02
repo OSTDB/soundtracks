@@ -3713,6 +3713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchu Z | 7213 | [7213-tenchu-z.json](./7213-tenchu-z.json) |
 | Tenchu: Dark Secret | 20557 | [20557-tenchu-dark-secret.json](./20557-tenchu-dark-secret.json) |
 | Tenchu: Fatal Shadows | 19266 | [19266-tenchu-fatal-shadows.json](./19266-tenchu-fatal-shadows.json) |
+| Tenchu: Return From Darkness | 22257 | [22257-tenchu-return-from-darkness.json](./22257-tenchu-return-from-darkness.json) |
 | Tenchu: Shadow Assassins | 5216 | [5216-tenchu-shadow-assassins.json](./5216-tenchu-shadow-assassins.json) |
 | Tenchu: Stealth Assassins | 4113 | [4113-tenchu-stealth-assassins.json](./4113-tenchu-stealth-assassins.json) |
 | Tenchu: Time Of The Assassins | 44512 | [44512-tenchu-time-of-the-assassins.json](./44512-tenchu-time-of-the-assassins.json) |
@@ -3782,6 +3783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenka Touitsu SSB: Scenario - Mouko Houkousu | 283850 | [283850-tenka-touitsu-ssb-scenario-mouko-houkousu.json](./283850-tenka-touitsu-ssb-scenario-mouko-houkousu.json) |
 | Tenka Touitsu SSB: Scenario - Ryuuko Aiutsu | 283849 | [283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json](./283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json) |
 | Tenka Touitsu: SSB | 278496 | [278496-tenka-touitsu-ssb.json](./278496-tenka-touitsu-ssb.json) |
+| Tenkai Knights: Brave Battle | 21906 | [21906-tenkai-knights-brave-battle.json](./21906-tenkai-knights-brave-battle.json) |
 | Tenkaichi Bushi: Keru Naguuru | 48389 | [48389-tenkaichi-bushi-keru-naguuru.json](./48389-tenkaichi-bushi-keru-naguuru.json) |
 | Tenkaichi: Sengoku Lovers | 206022 | [206022-tenkaichi-sengoku-lovers.json](./206022-tenkaichi-sengoku-lovers.json) |
 | Tenkaichi: Sengoku Lovers DS | 206023 | [206023-tenkaichi-sengoku-lovers-ds.json](./206023-tenkaichi-sengoku-lovers-ds.json) |
@@ -18736,6 +18738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Football | 70158 | [70158-this-is-football.json](./70158-this-is-football.json) |
 | This is Football 2 | 44833 | [44833-this-is-football-2.json](./44833-this-is-football-2.json) |
 | This is Football 2002 | 44626 | [44626-this-is-football-2002.json](./44626-this-is-football-2002.json) |
+| This Is Football 2003 | 22067 | [22067-this-is-football-2003.json](./22067-this-is-football-2003.json) |
 | This Is Football 2005 | 43444 | [43444-this-is-football-2005.json](./43444-this-is-football-2005.json) |
 | This is Football Management | 66974 | [66974-this-is-football-management.json](./66974-this-is-football-management.json) |
 | This is Forever | 148292 | [148292-this-is-forever.json](./148292-this-is-forever.json) |
