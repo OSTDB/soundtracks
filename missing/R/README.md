@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radial Fusion | 357306 | [357306-radial-fusion.json](./357306-radial-fusion.json) |
 | Radial Impact | 34819 | [34819-radial-impact.json](./34819-radial-impact.json) |
 | Radial Overdrive | 351485 | [351485-radial-overdrive.json](./351485-radial-overdrive.json) |
+| Radial-G : Racing Revolved | 17986 | [17986-radial-g-racing-revolved.json](./17986-radial-g-racing-revolved.json) |
 | Radial-G: Proteus | 130820 | [130820-radial-g-proteus.json](./130820-radial-g-proteus.json) |
 | Radiance | 120096 | [120096-radiance.json](./120096-radiance.json) |
 | Radiance of Annihilation: Disorder Eclipse | 397752 | [397752-radiance-of-annihilation-disorder-eclipse.json](./397752-radiance-of-annihilation-disorder-eclipse.json) |
@@ -3786,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Riding Hood | 54319 | [54319-red-riding-hood.json](./54319-red-riding-hood.json) |
 | Red Riding Hood: Star Crossed Lovers | 96880 | [96880-red-riding-hood-star-crossed-lovers.json](./96880-red-riding-hood-star-crossed-lovers.json) |
 | Red Ring of Immortality | 238010 | [238010-red-ring-of-immortality.json](./238010-red-ring-of-immortality.json) |
+| Red Risk | 18178 | [18178-red-risk.json](./18178-red-risk.json) |
 | Red River | 360727 | [360727-red-river.json](./360727-red-river.json) |
 | Red Robin | 171823 | [171823-red-robin.json](./171823-red-robin.json) |
 | Red Rogue Sea | 338332 | [338332-red-rogue-sea.json](./338332-red-rogue-sea.json) |
@@ -4929,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repentless | 213640 | [213640-repentless.json](./213640-repentless.json) |
 | Repentless 2 | 223062 | [223062-repentless-2.json](./223062-repentless-2.json) |
 | Reperfection: Volume 1 | 25426 | [25426-reperfection-volume-1.json](./25426-reperfection-volume-1.json) |
+| RePete | 18206 | [18206-repete.json](./18206-repete.json) |
 | Repetendium | 207744 | [207744-repetendium.json](./207744-repetendium.json) |
 | RePirates | 181332 | [181332-repirates.json](./181332-repirates.json) |
 | Repit 2 | 220685 | [220685-repit-2.json](./220685-repit-2.json) |
@@ -8790,6 +8793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Tris | 229064 | [229064-rock-tris.json](./229064-rock-tris.json) |
 | Rock UFO | 267331 | [267331-rock-ufo.json](./267331-rock-ufo.json) |
 | Rock Wrecker | 207780 | [207780-rock-wrecker.json](./207780-rock-wrecker.json) |
+| Rock Zombie | 17938 | [17938-rock-zombie.json](./17938-rock-zombie.json) |
 | Rock-Muba | 82021 | [82021-rock-muba.json](./82021-rock-muba.json) |
 | Rock-n-Rogue A Boo Bunny Plague Adventure | 33605 | [33605-rock-n-rogue-a-boo-bunny-plague-adventure.json](./33605-rock-n-rogue-a-boo-bunny-plague-adventure.json) |
 | Rock-n-Roll Domo | 68058 | [68058-rock-n-roll-domo.json](./68058-rock-n-roll-domo.json) |
@@ -11260,6 +11264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby Nations 16 | 86713 | [86713-rugby-nations-16.json](./86713-rugby-nations-16.json) |
 | Rugby Nations 18 | 86865 | [86865-rugby-nations-18.json](./86865-rugby-nations-18.json) |
 | Rugby Sevens 23 | 240817 | [240817-rugby-sevens-23.json](./240817-rugby-sevens-23.json) |
+| Rugby Union Team Manager 2015 | 17946 | [17946-rugby-union-team-manager-2015.json](./17946-rugby-union-team-manager-2015.json) |
 | Rugby Union Team Manager 2017 | 31304 | [31304-rugby-union-team-manager-2017.json](./31304-rugby-union-team-manager-2017.json) |
 | Rugby Union Team Manager 3 | 167488 | [167488-rugby-union-team-manager-3.json](./167488-rugby-union-team-manager-3.json) |
 | Rugby Union Team Manager 4 | 225072 | [225072-rugby-union-team-manager-4.json](./225072-rugby-union-team-manager-4.json) |
@@ -11400,6 +11405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruler of the Waves 1916 | 227838 | [227838-ruler-of-the-waves-1916.json](./227838-ruler-of-the-waves-1916.json) |
 | Ruler's Reign | 201636 | [201636-rulers-reign.json](./201636-rulers-reign.json) |
 | Rulers of Cospaia | 379719 | [379719-rulers-of-cospaia.json](./379719-rulers-of-cospaia.json) |
+| Rulers of Nations | 10789 | [10789-rulers-of-nations.json](./10789-rulers-of-nations.json) |
 | Rules & Rodents | 337435 | [337435-rules-and-rodents.json](./337435-rules-and-rodents.json) |
 | Rules of Alchemy | 165917 | [165917-rules-of-alchemy.json](./165917-rules-of-alchemy.json) |
 | Rules of Destruction | 55679 | [55679-rules-of-destruction.json](./55679-rules-of-destruction.json) |
@@ -11684,6 +11690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway Bride | 288240 | [288240-runaway-bride.json](./288240-runaway-bride.json) |
 | Runaway Cheater | 370272 | [370272-runaway-cheater.json](./370272-runaway-cheater.json) |
 | Runaway Demon Bride | 136260 | [136260-runaway-demon-bride.json](./136260-runaway-demon-bride.json) |
+| Runaway Express Mystery | 10790 | [10790-runaway-express-mystery.json](./10790-runaway-express-mystery.json) |
 | Runaway Farm | 249896 | [249896-runaway-farm.json](./249896-runaway-farm.json) |
 | Runaway from Vampire | 83403 | [83403-runaway-from-vampire.json](./83403-runaway-from-vampire.json) |
 | Runaway Girl: Picked up a Girl | 298724 | [298724-runaway-girl-picked-up-a-girl.json](./298724-runaway-girl-picked-up-a-girl.json) |
