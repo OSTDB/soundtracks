@@ -10511,6 +10511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CodeX | 276671 | [276671-codex.json](./276671-codex.json) |
 | Codex Combat | 392180 | [392180-codex-combat.json](./392180-codex-combat.json) |
 | Codex Lost | 235597 | [235597-codex-lost.json](./235597-codex-lost.json) |
+| Codex Mortis | 380942 | [380942-codex-mortis.json](./380942-codex-mortis.json) |
 | Codex of Victory | 27802 | [27802-codex-of-victory.json](./27802-codex-of-victory.json) |
 | Codex Temondera: Lost Vision | 115340 | [115340-codex-temondera-lost-vision.json](./115340-codex-temondera-lost-vision.json) |
 | Codex: Recall | 419171 | [419171-codex-recall.json](./419171-codex-recall.json) |
