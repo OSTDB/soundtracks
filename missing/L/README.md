@@ -1999,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaforia | 339162 | [339162-leaforia.json](./339162-leaforia.json) |
 | Leaftaker | 411043 | [411043-leaftaker.json](./411043-leaftaker.json) |
 | Leafy Corner | 363341 | [363341-leafy-corner.json](./363341-leafy-corner.json) |
+| Leafy Greenz | 404050 | [404050-leafy-greenz.json](./404050-leafy-greenz.json) |
 | Leafy Season | 330228 | [330228-leafy-season.json](./330228-leafy-season.json) |
 | Leafy Trails | 255282 | [255282-leafy-trails.json](./255282-leafy-trails.json) |
 | Leafy Trails Collection | 294838 | [294838-leafy-trails-collection.json](./294838-leafy-trails-collection.json) |
@@ -2801,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion | 18839 | [18839-legion.json](./18839-legion.json) |
 | Legion | 319203 | [319203-legion.json](./319203-legion.json) |
 | Legion Arena | 125179 | [125179-legion-arena.json](./125179-legion-arena.json) |
+| Legion Breaker | 404002 | [404002-legion-breaker.json](./404002-legion-breaker.json) |
 | Legion Defense | 327633 | [327633-legion-defense.json](./327633-legion-defense.json) |
 | Legion Draft | 395867 | [395867-legion-draft.json](./395867-legion-draft.json) |
 | Legion Fall | 184847 | [184847-legion-fall.json](./184847-legion-fall.json) |
@@ -3359,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Terres d'Amarande | 69473 | [69473-les-terres-damarande.json](./69473-les-terres-damarande.json) |
 | Les Visiteurs: Le Jeu | 213566 | [213566-les-visiteurs-le-jeu.json](./213566-les-visiteurs-le-jeu.json) |
 | Les: The Horror Game | 158963 | [158963-les-the-horror-game.json](./158963-les-the-horror-game.json) |
+| Lesbian Kissing Simulator in RPGMaker 2003 | 404040 | [404040-lesbian-kissing-simulator-in-rpgmaker-2003.json](./404040-lesbian-kissing-simulator-in-rpgmaker-2003.json) |
 | Lesbian Mothman Hunters | 151751 | [151751-lesbian-mothman-hunters.json](./151751-lesbian-mothman-hunters.json) |
 | Lesbian Spider-Queens of Mars | 84114 | [84114-lesbian-spider-queens-of-mars.json](./84114-lesbian-spider-queens-of-mars.json) |
 | Lesbian Vampire Dating Online | 184740 | [184740-lesbian-vampire-dating-online.json](./184740-lesbian-vampire-dating-online.json) |
