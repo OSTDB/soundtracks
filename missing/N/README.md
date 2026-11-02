@@ -4269,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Drive | 179679 | [179679-nightmare-drive.json](./179679-nightmare-drive.json) |
 | Nightmare Drive | 391655 | [391655-nightmare-drive.json](./391655-nightmare-drive.json) |
 | Nightmare Farm | 194343 | [194343-nightmare-farm.json](./194343-nightmare-farm.json) |
+| Nightmare Files: Clap Clap | 302877 | [302877-nightmare-files-clap-clap.json](./302877-nightmare-files-clap-clap.json) |
 | Nightmare Files: Stoned | 347222 | [347222-nightmare-files-stoned.json](./347222-nightmare-files-stoned.json) |
 | Nightmare Frontier | 342784 | [342784-nightmare-frontier.json](./342784-nightmare-frontier.json) |
 | Nightmare Fuel | 307216 | [307216-nightmare-fuel.json](./307216-nightmare-fuel.json) |
