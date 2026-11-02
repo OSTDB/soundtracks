@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabenwood 2: 99 Hidden Euros | 296513 | [296513-gabenwood-2-99-hidden-euros.json](./296513-gabenwood-2-99-hidden-euros.json) |
 | Gabenwood 3: 99 Hidden Yen | 316965 | [316965-gabenwood-3-99-hidden-yen.json](./316965-gabenwood-3-99-hidden-yen.json) |
 | Gabenwood: 99 Hidden Bucks | 224239 | [224239-gabenwood-99-hidden-bucks.json](./224239-gabenwood-99-hidden-bucks.json) |
+| Gabha | 403376 | [403376-gabha.json](./403376-gabha.json) |
 | Gabibbo Massacre | 319168 | [319168-gabibbo-massacre.json](./319168-gabibbo-massacre.json) |
 | Gabriel Knight 3: Blood of the Sacred, Blood of the Damned | 1252 | [1252-gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned.json](./1252-gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned.json) |
 | Gabriel Knight: Sins of the Fathers | 1250 | [1250-gabriel-knight-sins-of-the-fathers.json](./1250-gabriel-knight-sins-of-the-fathers.json) |
@@ -3624,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost of Viyk | 295846 | [295846-ghost-of-viyk.json](./295846-ghost-of-viyk.json) |
 | Ghost Of Wynlow | 285410 | [285410-ghost-of-wynlow.json](./285410-ghost-of-wynlow.json) |
 | Ghost of Yotei: Complete Edition | 413275 | [413275-ghost-of-yotei-complete-edition.json](./413275-ghost-of-yotei-complete-edition.json) |
+| Ghost of Yotei: Digital Deluxe Edition | 403394 | [403394-ghost-of-yotei-digital-deluxe-edition.json](./403394-ghost-of-yotei-digital-deluxe-edition.json) |
 | Ghost on the Shore | 129064 | [129064-ghost-on-the-shore.json](./129064-ghost-on-the-shore.json) |
 | Ghost Online | 112299 | [112299-ghost-online.json](./112299-ghost-online.json) |
 | Ghost Only! | 280659 | [280659-ghost-only.json](./280659-ghost-only.json) |
@@ -5738,6 +5740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godland: The Fire Quest | 202666 | [202666-godland-the-fire-quest.json](./202666-godland-the-fire-quest.json) |
 | Godland: The Fire Quest 2 | 219662 | [219662-godland-the-fire-quest-2.json](./219662-godland-the-fire-quest-2.json) |
 | Godless | 165161 | [165161-godless.json](./165161-godless.json) |
+| Godless Avalon | 403384 | [403384-godless-avalon.json](./403384-godless-avalon.json) |
 | Godless grove | 201609 | [201609-godless-grove.json](./201609-godless-grove.json) |
 | Godless Night | 273274 | [273274-godless-night.json](./273274-godless-night.json) |
 | Godless Tactics | 132673 | [132673-godless-tactics.json](./132673-godless-tactics.json) |
