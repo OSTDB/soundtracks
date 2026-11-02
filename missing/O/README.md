@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odin Sphere: Leifthrasir - Storybook Edition | 42958 | [42958-odin-sphere-leifthrasir-storybook-edition.json](./42958-odin-sphere-leifthrasir-storybook-edition.json) |
 | Odin: Valhalla Rising | 137939 | [137939-odin-valhalla-rising.json](./137939-odin-valhalla-rising.json) |
 | Odin's Adventures | 232081 | [232081-odins-adventures.json](./232081-odins-adventures.json) |
+| Odin's Fate | 425873 | [425873-odins-fate.json](./425873-odins-fate.json) |
 | Odin's Ring | 213443 | [213443-odins-ring.json](./213443-odins-ring.json) |
 | Odin's Tea Party | 226131 | [226131-odins-tea-party.json](./226131-odins-tea-party.json) |
 | Odinochestvo Skufa | 387055 | [387055-odinochestvo-skufa.json](./387055-odinochestvo-skufa.json) |
@@ -1469,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olivers äventyr: Drakens förbannelse | 320948 | [320948-olivers-aventyr-drakens-forbannelse.json](./320948-olivers-aventyr-drakens-forbannelse.json) |
 | Olivia | 230395 | [230395-olivia.json](./230395-olivia.json) |
 | Olivia | 402267 | [402267-olivia.json](./402267-olivia.json) |
+| Olivia of the Deep | 425854 | [425854-olivia-of-the-deep.json](./425854-olivia-of-the-deep.json) |
 | Olivia Takes Ballet | 231377 | [231377-olivia-takes-ballet.json](./231377-olivia-takes-ballet.json) |
 | Olivia: The Witch's Magic Shop | 394462 | [394462-olivia-the-witchs-magic-shop.json](./394462-olivia-the-witchs-magic-shop.json) |
 | Olivia's Mystery | 44386 | [44386-olivias-mystery.json](./44386-olivias-mystery.json) |
