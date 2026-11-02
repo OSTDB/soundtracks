@@ -3159,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Trial Freestyle | 196841 | [196841-urban-trial-freestyle.json](./196841-urban-trial-freestyle.json) |
 | Urban Trial Freestyle | 9435 | [9435-urban-trial-freestyle.json](./9435-urban-trial-freestyle.json) |
 | Urban Trial Freestyle 2 | 57841 | [57841-urban-trial-freestyle-2.json](./57841-urban-trial-freestyle-2.json) |
+| Urban Trial Playground | 88391 | [88391-urban-trial-playground.json](./88391-urban-trial-playground.json) |
 | Urban Trial Playground: Challenges Pack | 238311 | [238311-urban-trial-playground-challenges-pack.json](./238311-urban-trial-playground-challenges-pack.json) |
 | Urban Trial Playground: Deluxe Edition | 121510 | [121510-urban-trial-playground-deluxe-edition.json](./121510-urban-trial-playground-deluxe-edition.json) |
 | Urban Trial Pocket | 213642 | [213642-urban-trial-pocket.json](./213642-urban-trial-pocket.json) |
