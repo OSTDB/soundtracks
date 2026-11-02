@@ -903,7 +903,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1483,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Wall | 246864 | [246864-ball-wall.json](./246864-ball-wall.json) |
 | Ball With Pistons | 204807 | [204807-ball-with-pistons.json](./204807-ball-with-pistons.json) |
 | Ball-e | 229823 | [229823-ball-e.json](./229823-ball-e.json) |
+| Ball-Hop Bowling | 95015 | [95015-ball-hop-bowling.json](./95015-ball-hop-bowling.json) |
 | Ball-istic | 258436 | [258436-ball-istic.json](./258436-ball-istic.json) |
 | Ball-it Hell | 302492 | [302492-ball-it-hell.json](./302492-ball-it-hell.json) |
 | Ball.io | 171880 | [171880-ball-io.json](./171880-ball-io.json) |
@@ -9164,6 +9164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Royale | 231621 | [231621-blast-royale.json](./231621-blast-royale.json) |
 | Blast the Past | 110144 | [110144-blast-the-past.json](./110144-blast-the-past.json) |
 | Blast Thru | 127141 | [127141-blast-thru.json](./127141-blast-thru.json) |
+| Blast Valley | 93817 | [93817-blast-valley.json](./93817-blast-valley.json) |
 | Blast Valley: Flip the Gun | 96015 | [96015-blast-valley-flip-the-gun.json](./96015-blast-valley-flip-the-gun.json) |
 | Blast Waves | 194183 | [194183-blast-waves.json](./194183-blast-waves.json) |
 | Blast Works: Build, Trade, Destroy | 4720 | [4720-blast-works-build-trade-destroy.json](./4720-blast-works-build-trade-destroy.json) |
@@ -9983,6 +9984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockbusters: Gold Run | 13408 | [13408-blockbusters-gold-run.json](./13408-blockbusters-gold-run.json) |
 | BlockBustersVR | 150862 | [150862-blockbustersvr.json](./150862-blockbustersvr.json) |
 | Blockchain Brawlers | 225754 | [225754-blockchain-brawlers.json](./225754-blockchain-brawlers.json) |
+| Blockchain Tycoon | 93796 | [93796-blockchain-tycoon.json](./93796-blockchain-tycoon.json) |
 | Blockd Blast | 239239 | [239239-blockd-blast.json](./239239-blockd-blast.json) |
 | BlockDoc | 111172 | [111172-blockdoc.json](./111172-blockdoc.json) |
 | BlockDodge | 106882 | [106882-blockdodge.json](./106882-blockdodge.json) |
@@ -12983,6 +12985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Traveler | 166838 | [166838-bouncing-traveler.json](./166838-bouncing-traveler.json) |
 | Bouncy | 207170 | [207170-bouncy.json](./207170-bouncy.json) |
 | Bouncy Ball | 245201 | [245201-bouncy-ball.json](./245201-bouncy-ball.json) |
+| Bouncy Ball: The Impossible Tile Game | 93824 | [93824-bouncy-ball-the-impossible-tile-game.json](./93824-bouncy-ball-the-impossible-tile-game.json) |
 | Bouncy Bean | 388187 | [388187-bouncy-bean.json](./388187-bouncy-bean.json) |
 | Bouncy Bob | 53092 | [53092-bouncy-bob.json](./53092-bouncy-bob.json) |
 | Bouncy Bob 2 | 125663 | [125663-bouncy-bob-2.json](./125663-bouncy-bob-2.json) |
@@ -16878,6 +16881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 2008 | 83869 | [83869-bus-simulator-2008.json](./83869-bus-simulator-2008.json) |
 | Bus Simulator 2009 | 412381 | [412381-bus-simulator-2009.json](./412381-bus-simulator-2009.json) |
 | Bus Simulator 2015 HD: New York Route | 97148 | [97148-bus-simulator-2015-hd-new-york-route.json](./97148-bus-simulator-2015-hd-new-york-route.json) |
+| Bus Simulator 2017 | 93844 | [93844-bus-simulator-2017.json](./93844-bus-simulator-2017.json) |
 | Bus Simulator 2023 | 227959 | [227959-bus-simulator-2023.json](./227959-bus-simulator-2023.json) |
 | Bus Simulator 2024: City Driver - Premium Edition | 310435 | [310435-bus-simulator-2024-city-driver-premium-edition.json](./310435-bus-simulator-2024-city-driver-premium-edition.json) |
 | Bus Simulator 21 | 146828 | [146828-bus-simulator-21.json](./146828-bus-simulator-21.json) |
