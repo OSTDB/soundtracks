@@ -11808,6 +11808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Online | 271398 | [271398-minesweeper-online.json](./271398-minesweeper-online.json) |
 | Minesweeper Peak VR | 286784 | [286784-minesweeper-peak-vr.json](./286784-minesweeper-peak-vr.json) |
 | Minesweeper Plus | 377754 | [377754-minesweeper-plus.json](./377754-minesweeper-plus.json) |
+| Minesweeper Pro | 407099 | [407099-minesweeper-pro.json](./407099-minesweeper-pro.json) |
 | Minesweeper Puzzle Bomb | 104113 | [104113-minesweeper-puzzle-bomb.json](./104113-minesweeper-puzzle-bomb.json) |
 | Minesweeper Q Premium | 174254 | [174254-minesweeper-q-premium.json](./174254-minesweeper-q-premium.json) |
 | MineSweeper Reloaded | 91089 | [91089-minesweeper-reloaded.json](./91089-minesweeper-reloaded.json) |
@@ -16117,6 +16118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: Gothic Horror Skin Pack | 405350 | [405350-mortal-kombat-11-gothic-horror-skin-pack.json](./405350-mortal-kombat-11-gothic-horror-skin-pack.json) |
 | Mortal Kombat 11: Hellspawn Jacqui | 388867 | [388867-mortal-kombat-11-hellspawn-jacqui.json](./388867-mortal-kombat-11-hellspawn-jacqui.json) |
 | Mortal Kombat 11: Klassic Cassie | 406877 | [406877-mortal-kombat-11-klassic-cassie.json](./406877-mortal-kombat-11-klassic-cassie.json) |
+| Mortal Kombat 11: Klassic Femme Fatale Pack | 407089 | [407089-mortal-kombat-11-klassic-femme-fatale-pack.json](./407089-mortal-kombat-11-klassic-femme-fatale-pack.json) |
 | Mortal Kombat 11: Kollector's Edition | 136267 | [136267-mortal-kombat-11-kollectors-edition.json](./136267-mortal-kombat-11-kollectors-edition.json) |
 | Mortal Kombat 11: Kombat Pack | 133278 | [133278-mortal-kombat-11-kombat-pack.json](./133278-mortal-kombat-11-kombat-pack.json) |
 | Mortal Kombat 11: Kombat Pack 2 | 139445 | [139445-mortal-kombat-11-kombat-pack-2.json](./139445-mortal-kombat-11-kombat-pack-2.json) |
@@ -16134,6 +16136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: Spawn | 133277 | [133277-mortal-kombat-11-spawn.json](./133277-mortal-kombat-11-spawn.json) |
 | Mortal Kombat 11: Special Edition | 134218 | [134218-mortal-kombat-11-special-edition.json](./134218-mortal-kombat-11-special-edition.json) |
 | Mortal Kombat 11: Terminator T-800 | 133275 | [133275-mortal-kombat-11-terminator-t-800.json](./133275-mortal-kombat-11-terminator-t-800.json) |
+| Mortal Kombat 11: Thanks A Million Johnny Cage | 407092 | [407092-mortal-kombat-11-thanks-a-million-johnny-cage.json](./407092-mortal-kombat-11-thanks-a-million-johnny-cage.json) |
 | Mortal Kombat 11: The Joker | 128009 | [128009-mortal-kombat-11-the-joker.json](./128009-mortal-kombat-11-the-joker.json) |
 | Mortal Kombat 11: Time Lord of Apokolips Geras | 388869 | [388869-mortal-kombat-11-time-lord-of-apokolips-geras.json](./388869-mortal-kombat-11-time-lord-of-apokolips-geras.json) |
 | Mortal Kombat 11: Time Warriors Skin Pack | 388866 | [388866-mortal-kombat-11-time-warriors-skin-pack.json](./388866-mortal-kombat-11-time-warriors-skin-pack.json) |
