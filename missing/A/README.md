@@ -1977,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Signalling | 414176 | [414176-absolute-signalling.json](./414176-absolute-signalling.json) |
 | Absolute Skat | 91861 | [91861-absolute-skat.json](./91861-absolute-skat.json) |
 | Absolute Solitaire & Patience | 91558 | [91558-absolute-solitaire-and-patience.json](./91558-absolute-solitaire-and-patience.json) |
+| Absolute Sumo: Chonk Arena | 414703 | [414703-absolute-sumo-chonk-arena.json](./414703-absolute-sumo-chonk-arena.json) |
 | Absolute Supercars | 42997 | [42997-absolute-supercars.json](./42997-absolute-supercars.json) |
 | Absolute Tactics: Daughters of Mercy | 151385 | [151385-absolute-tactics-daughters-of-mercy.json](./151385-absolute-tactics-daughters-of-mercy.json) |
 | Absolute Talent | 227209 | [227209-absolute-talent.json](./227209-absolute-talent.json) |
@@ -5607,6 +5608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akira | 248743 | [248743-akira.json](./248743-akira.json) |
 | Akira | 248744 | [248744-akira.json](./248744-akira.json) |
 | Akira | 26411 | [26411-akira.json](./26411-akira.json) |
+| Akira's Deep Sea Ventures | 414693 | [414693-akiras-deep-sea-ventures.json](./414693-akiras-deep-sea-ventures.json) |
 | Akira*Hero | 400567 | [400567-akira-hero.json](./400567-akira-hero.json) |
 | Akirao: A Researcher Awakens | 307134 | [307134-akirao-a-researcher-awakens.json](./307134-akirao-a-researcher-awakens.json) |
 | Akita Oga Mystery Annai: Kogoeru Ginreika | 130626 | [130626-akita-oga-mystery-annai-kogoeru-ginreika.json](./130626-akita-oga-mystery-annai-kogoeru-ginreika.json) |
@@ -13249,6 +13251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armorines: Project S.W.A.R.M. | 3439 | [3439-armorines-project-s-w-a-r-m.json](./3439-armorines-project-s-w-a-r-m.json) |
 | Armortale | 121572 | [121572-armortale.json](./121572-armortale.json) |
 | Armory & Machine | 137363 | [137363-armory-and-machine.json](./137363-armory-and-machine.json) |
+| Armory Keeper | 414714 | [414714-armory-keeper.json](./414714-armory-keeper.json) |
 | Armory League | 105278 | [105278-armory-league.json](./105278-armory-league.json) |
 | Armory Simulator | 400663 | [400663-armory-simulator.json](./400663-armory-simulator.json) |
 | Armour-Geddon | 11915 | [11915-armour-geddon.json](./11915-armour-geddon.json) |
@@ -16467,6 +16470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autonauts vs Piratebots | 207729 | [207729-autonauts-vs-piratebots.json](./207729-autonauts-vs-piratebots.json) |
 | Autonima | 168034 | [168034-autonima.json](./168034-autonima.json) |
 | Autonomous | 63767 | [63767-autonomous.json](./63767-autonomous.json) |
+| Autonomous Air Combat | 414700 | [414700-autonomous-air-combat.json](./414700-autonomous-air-combat.json) |
 | Autonomous Anarchy | 289732 | [289732-autonomous-anarchy.json](./289732-autonomous-anarchy.json) |
 | Autonomous Gods | 382557 | [382557-autonomous-gods.json](./382557-autonomous-gods.json) |
 | Autonomous Odyssey | 333330 | [333330-autonomous-odyssey.json](./333330-autonomous-odyssey.json) |
