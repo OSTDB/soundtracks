@@ -1789,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laypo Simulator | 188895 | [188895-laypo-simulator.json](./188895-laypo-simulator.json) |
 | Laysara: Summit Kingdom | 186083 | [186083-laysara-summit-kingdom.json](./186083-laysara-summit-kingdom.json) |
 | Layton Brothers: Mystery Room | 20912 | [20912-layton-brothers-mystery-room.json](./20912-layton-brothers-mystery-room.json) |
+| Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy - Deluxe Edition | 120329 | [120329-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition.json](./120329-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition.json) |
 | Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy - Deluxe Edition Plus | 306201 | [306201-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-plus.json](./306201-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-plus.json) |
 | Laza Knitez!! | 134513 | [134513-laza-knitez.json](./134513-laza-knitez.json) |
 | Lazaret | 211740 | [211740-lazaret.json](./211740-lazaret.json) |
@@ -5423,6 +5424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Brats! | 298079 | [298079-little-brats.json](./298079-little-brats.json) |
 | Little Brick Out | 56411 | [56411-little-brick-out.json](./56411-little-brick-out.json) |
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
+| Little Brother Jim | 121056 | [121056-little-brother-jim.json](./121056-little-brother-jim.json) |
 | Little Buddy | 384329 | [384329-little-buddy.json](./384329-little-buddy.json) |
 | Little Bug | 28318 | [28318-little-bug.json](./28318-little-bug.json) |
 | Little Bunny | 380619 | [380619-little-bunny.json](./380619-little-bunny.json) |
@@ -9229,6 +9231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunatic Rave 2 | 79901 | [79901-lunatic-rave-2.json](./79901-lunatic-rave-2.json) |
 | Lunavania | 317783 | [317783-lunavania.json](./317783-lunavania.json) |
 | Lunavoid | 356023 | [356023-lunavoid.json](./356023-lunavoid.json) |
+| Lunch A Palooza | 120623 | [120623-lunch-a-palooza.json](./120623-lunch-a-palooza.json) |
 | Lunch Box | 221734 | [221734-lunch-box.json](./221734-lunch-box.json) |
 | Lunch Box Ready | 212458 | [212458-lunch-box-ready.json](./212458-lunch-box-ready.json) |
 | Lunch Box Ready | 308621 | [308621-lunch-box-ready.json](./308621-lunch-box-ready.json) |
