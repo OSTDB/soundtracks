@@ -3707,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchu 3 Portable | 134329 | [134329-tenchu-3-portable.json](./134329-tenchu-3-portable.json) |
 | Tenchu Kurenai Portable | 148204 | [148204-tenchu-kurenai-portable.json](./148204-tenchu-kurenai-portable.json) |
 | Tenchu Z | 7213 | [7213-tenchu-z.json](./7213-tenchu-z.json) |
+| Tenchu: Dark Secret | 20557 | [20557-tenchu-dark-secret.json](./20557-tenchu-dark-secret.json) |
 | Tenchu: Fatal Shadows | 19266 | [19266-tenchu-fatal-shadows.json](./19266-tenchu-fatal-shadows.json) |
 | Tenchu: Shadow Assassins | 5216 | [5216-tenchu-shadow-assassins.json](./5216-tenchu-shadow-assassins.json) |
 | Tenchu: Stealth Assassins | 4113 | [4113-tenchu-stealth-assassins.json](./4113-tenchu-stealth-assassins.json) |
@@ -5125,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Addams Family: Mystery Mansion | 122228 | [122228-the-addams-family-mystery-mansion.json](./122228-the-addams-family-mystery-mansion.json) |
 | The Addams Family: Pugsley's Scavenger Hunt | 264995 | [264995-the-addams-family-pugsleys-scavenger-hunt.json](./264995-the-addams-family-pugsleys-scavenger-hunt.json) |
 | The Addams Family: Pugsley's Scavenger Hunt | 264996 | [264996-the-addams-family-pugsleys-scavenger-hunt.json](./264996-the-addams-family-pugsleys-scavenger-hunt.json) |
+| The Addams Family: Pugsley's Scavenger Hunt | 5344 | [5344-the-addams-family-pugsleys-scavenger-hunt.json](./5344-the-addams-family-pugsleys-scavenger-hunt.json) |
 | The Adjudicator | 145697 | [145697-the-adjudicator.json](./145697-the-adjudicator.json) |
 | The Adjudicator | 164906 | [164906-the-adjudicator.json](./164906-the-adjudicator.json) |
 | The Adliberum Engine | 38043 | [38043-the-adliberum-engine.json](./38043-the-adliberum-engine.json) |
@@ -5277,6 +5279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Robin Hood | 265054 | [265054-the-adventures-of-robin-hood.json](./265054-the-adventures-of-robin-hood.json) |
 | The Adventures of Rocky and Bullwinkle and Friends | 264997 | [264997-the-adventures-of-rocky-and-bullwinkle-and-friends.json](./264997-the-adventures-of-rocky-and-bullwinkle-and-friends.json) |
 | The Adventures of Rocky and Bullwinkle and Friends | 264999 | [264999-the-adventures-of-rocky-and-bullwinkle-and-friends.json](./264999-the-adventures-of-rocky-and-bullwinkle-and-friends.json) |
+| The Adventures of Rocky and Bullwinkle and Friends | 5347 | [5347-the-adventures-of-rocky-and-bullwinkle-and-friends.json](./5347-the-adventures-of-rocky-and-bullwinkle-and-friends.json) |
 | The Adventures of Sam Carlisle: The Hunt for the L | 76876 | [76876-the-adventures-of-sam-carlisle-the-hunt-for-the-l.json](./76876-the-adventures-of-sam-carlisle-the-hunt-for-the-l.json) |
 | The Adventures of Sam Carlisle: The Hunt for the Lost Treasure | 75011 | [75011-the-adventures-of-sam-carlisle-the-hunt-for-the-lost-treasure.json](./75011-the-adventures-of-sam-carlisle-the-hunt-for-the-lost-treasure.json) |
 | The Adventures of Sheep and Sheep | 262451 | [262451-the-adventures-of-sheep-and-sheep.json](./262451-the-adventures-of-sheep-and-sheep.json) |
@@ -6092,6 +6095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Biggest Creators of Empires | 72137 | [72137-the-biggest-creators-of-empires.json](./72137-the-biggest-creators-of-empires.json) |
 | The Biggest Loser | 48035 | [48035-the-biggest-loser.json](./48035-the-biggest-loser.json) |
 | The Biggest Loser Challenge | 51003 | [51003-the-biggest-loser-challenge.json](./51003-the-biggest-loser-challenge.json) |
+| The Biggest Loser: Ultimate Workout | 20168 | [20168-the-biggest-loser-ultimate-workout.json](./20168-the-biggest-loser-ultimate-workout.json) |
 | The Bigs 2 | 210441 | [210441-the-bigs-2.json](./210441-the-bigs-2.json) |
 | The Bigs 2 | 4716 | [4716-the-bigs-2.json](./4716-the-bigs-2.json) |
 | The Bike: Moto Ride Simulator | 288163 | [288163-the-bike-moto-ride-simulator.json](./288163-the-bike-moto-ride-simulator.json) |
@@ -7022,6 +7026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Consequences of Gardening | 183026 | [183026-the-consequences-of-gardening.json](./183026-the-consequences-of-gardening.json) |
 | The Consortium: Master Edition | 51699 | [51699-the-consortium-master-edition.json](./51699-the-consortium-master-edition.json) |
 | The Construct | 31388 | [31388-the-construct.json](./31388-the-construct.json) |
+| The Consuming Shadow | 19969 | [19969-the-consuming-shadow.json](./19969-the-consuming-shadow.json) |
 | The Consumist Journey | 270099 | [270099-the-consumist-journey.json](./270099-the-consumist-journey.json) |
 | The Contact | 288981 | [288981-the-contact.json](./288981-the-contact.json) |
 | The Contact | 34717 | [34717-the-contact.json](./34717-the-contact.json) |
