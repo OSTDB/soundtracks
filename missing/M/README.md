@@ -3593,6 +3593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart 8 Deluxe: Booster Course Pass - Wave 4 | 231442 | [231442-mario-kart-8-deluxe-booster-course-pass-wave-4.json](./231442-mario-kart-8-deluxe-booster-course-pass-wave-4.json) |
 | Mario Kart 8 Deluxe: Booster Course Pass - Wave 5 | 231444 | [231444-mario-kart-8-deluxe-booster-course-pass-wave-5.json](./231444-mario-kart-8-deluxe-booster-course-pass-wave-5.json) |
 | Mario Kart 8 Deluxe: Booster Course Pass - Wave 6 | 231445 | [231445-mario-kart-8-deluxe-booster-course-pass-wave-6.json](./231445-mario-kart-8-deluxe-booster-course-pass-wave-6.json) |
+| Mario Kart 8: DLC Pack One | 22141 | [22141-mario-kart-8-dlc-pack-one.json](./22141-mario-kart-8-dlc-pack-one.json) |
 | Mario Kart 8: DLC Pack Two | 22146 | [22146-mario-kart-8-dlc-pack-two.json](./22146-mario-kart-8-dlc-pack-two.json) |
 | Mario Kart 8: Limited Edition | 45161 | [45161-mario-kart-8-limited-edition.json](./45161-mario-kart-8-limited-edition.json) |
 | Mario Kart Arcade GP | 45160 | [45160-mario-kart-arcade-gp.json](./45160-mario-kart-arcade-gp.json) |
@@ -4451,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel: Ultimate Alliance | 197883 | [197883-marvel-ultimate-alliance.json](./197883-marvel-ultimate-alliance.json) |
 | Marvel: Ultimate Alliance | 4999 | [4999-marvel-ultimate-alliance.json](./4999-marvel-ultimate-alliance.json) |
 | Marvel: Ultimate Alliance 2 | 200963 | [200963-marvel-ultimate-alliance-2.json](./200963-marvel-ultimate-alliance-2.json) |
+| Marvel: Ultimate Alliance Bundle | 22400 | [22400-marvel-ultimate-alliance-bundle.json](./22400-marvel-ultimate-alliance-bundle.json) |
 | Marvel's Avengers Definitive Edition | 259466 | [259466-marvels-avengers-definitive-edition.json](./259466-marvels-avengers-definitive-edition.json) |
 | Marvel's Avengers: Black Panther - War for Wakanda | 144774 | [144774-marvels-avengers-black-panther-war-for-wakanda.json](./144774-marvels-avengers-black-panther-war-for-wakanda.json) |
 | Marvel's Avengers: Exclusive Digital Edition | 133844 | [133844-marvels-avengers-exclusive-digital-edition.json](./133844-marvels-avengers-exclusive-digital-edition.json) |
@@ -5546,7 +5548,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -12380,6 +12381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Chou Party: Sanae to Tenshi no Gensou Labyrinth | 206944 | [206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json](./206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json) |
 | Miracle Circus | 110365 | [110365-miracle-circus.json](./110365-miracle-circus.json) |
 | Miracle Field | 160092 | [160092-miracle-field.json](./160092-miracle-field.json) |
+| Miracle Fly | 22005 | [22005-miracle-fly.json](./22005-miracle-fly.json) |
 | Miracle Girls | 42386 | [42386-miracle-girls.json](./42386-miracle-girls.json) |
 | Miracle Girls Festival | 13658 | [13658-miracle-girls-festival.json](./13658-miracle-girls-festival.json) |
 | Miracle Girls Festival | 86426 | [86426-miracle-girls-festival.json](./86426-miracle-girls-festival.json) |
@@ -16103,6 +16105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Manor | 81888 | [81888-mortal-manor.json](./81888-mortal-manor.json) |
 | Mortal Mechanism | 362225 | [362225-mortal-mechanism.json](./362225-mortal-mechanism.json) |
 | Mortal Mythos: Island of Fairies | 386553 | [386553-mortal-mythos-island-of-fairies.json](./386553-mortal-mythos-island-of-fairies.json) |
+| Mortal Online | 17188 | [17188-mortal-online.json](./17188-mortal-online.json) |
 | Mortal Online 2 | 127546 | [127546-mortal-online-2.json](./127546-mortal-online-2.json) |
 | Mortal Quest | 333130 | [333130-mortal-quest.json](./333130-mortal-quest.json) |
 | Mortal Rite | 173012 | [173012-mortal-rite.json](./173012-mortal-rite.json) |
