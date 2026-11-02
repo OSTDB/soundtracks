@@ -4248,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catpillar | 343053 | [343053-catpillar.json](./343053-catpillar.json) |
 | Catrap | 7820 | [7820-catrap.json](./7820-catrap.json) |
 | Catrina's Halloween Nightmare | 277152 | [277152-catrinas-halloween-nightmare.json](./277152-catrinas-halloween-nightmare.json) |
+| Catroid | 422772 | [422772-catroid.json](./422772-catroid.json) |
 | Catroom Drama: Case 1 | 183933 | [183933-catroom-drama-case-1.json](./183933-catroom-drama-case-1.json) |
 | Catroom Drama: Case 2 | 183953 | [183953-catroom-drama-case-2.json](./183953-catroom-drama-case-2.json) |
 | CatRoots | 130334 | [130334-catroots.json](./130334-catroots.json) |
@@ -6447,6 +6448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChessWorlds | 409781 | [409781-chessworlds.json](./409781-chessworlds.json) |
 | Chest | 301274 | [301274-chest.json](./301274-chest.json) |
 | Chest & Blade | 420009 | [420009-chest-and-blade.json](./420009-chest-and-blade.json) |
+| Chest Looter: Cardimonsta Collection | 422807 | [422807-chest-looter-cardimonsta-collection.json](./422807-chest-looter-cardimonsta-collection.json) |
 | Chest Mate | 195240 | [195240-chest-mate.json](./195240-chest-mate.json) |
 | Chest Quest | 175189 | [175189-chest-quest.json](./175189-chest-quest.json) |
 | Chester | 193414 | [193414-chester.json](./193414-chester.json) |
@@ -16966,6 +16968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crownless Abyss | 251767 | [251767-crownless-abyss.json](./251767-crownless-abyss.json) |
 | Crownrats | 410243 | [410243-crownrats.json](./410243-crownrats.json) |
 | Crowns and Pawns: Amber Road | 417328 | [417328-crowns-and-pawns-amber-road.json](./417328-crowns-and-pawns-amber-road.json) |
+| Crowns of Medieval Europe | 422776 | [422776-crowns-of-medieval-europe.json](./422776-crowns-of-medieval-europe.json) |
 | Crowns of Power | 138544 | [138544-crowns-of-power.json](./138544-crowns-of-power.json) |
 | Crownseeker | 399443 | [399443-crownseeker.json](./399443-crownseeker.json) |
 | Crownslayers | 387416 | [387416-crownslayers.json](./387416-crownslayers.json) |
@@ -17796,6 +17799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Kabaam | 377718 | [377718-cube-kabaam.json](./377718-cube-kabaam.json) |
 | Cube Kingdoms | 258967 | [258967-cube-kingdoms.json](./258967-cube-kingdoms.json) |
 | Cube Lab | 339086 | [339086-cube-lab.json](./339086-cube-lab.json) |
+| Cube Land | 422773 | [422773-cube-land.json](./422773-cube-land.json) |
 | Cube Land Arena | 33288 | [33288-cube-land-arena.json](./33288-cube-land-arena.json) |
 | Cube Life: Island Survival | 60151 | [60151-cube-life-island-survival.json](./60151-cube-life-island-survival.json) |
 | Cube Life: Island Survival 2018 | 96067 | [96067-cube-life-island-survival-2018.json](./96067-cube-life-island-survival-2018.json) |
