@@ -2607,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geneforge 1: Mutagen | 134650 | [134650-geneforge-1-mutagen.json](./134650-geneforge-1-mutagen.json) |
 | Geneforge 2 | 8363 | [8363-geneforge-2.json](./8363-geneforge-2.json) |
 | Geneforge 2: Infestation | 271041 | [271041-geneforge-2-infestation.json](./271041-geneforge-2-infestation.json) |
+| Geneforge 5: Overthrow | 8370 | [8370-geneforge-5-overthrow.json](./8370-geneforge-5-overthrow.json) |
 | Geneforge Saga | 50869 | [50869-geneforge-saga.json](./50869-geneforge-saga.json) |
 | GenEi AP: Empty Heart | 323046 | [323046-genei-ap-empty-heart.json](./323046-genei-ap-empty-heart.json) |
 | Genei Toshi: Illusion City | 46382 | [46382-genei-toshi-illusion-city.json](./46382-genei-toshi-illusion-city.json) |
