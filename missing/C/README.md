@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Callthem | 224853 | [224853-callthem.json](./224853-callthem.json) |
 | Calluna | 173248 | [173248-calluna.json](./173248-calluna.json) |
 | Callus | 387375 | [387375-callus.json](./387375-callus.json) |
+| Cally's Caves 3 | 34076 | [34076-callys-caves-3.json](./34076-callys-caves-3.json) |
 | Cally's Caves 4 | 81211 | [81211-callys-caves-4.json](./81211-callys-caves-4.json) |
 | Cally's Caves Definitive Collection | 52714 | [52714-callys-caves-definitive-collection.json](./52714-callys-caves-definitive-collection.json) |
 | Cally's Trials | 32583 | [32583-callys-trials.json](./32583-callys-trials.json) |
@@ -1056,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campus | 24998 | [24998-campus.json](./24998-campus.json) |
 | Campus Confidential | 384175 | [384175-campus-confidential.json](./384175-campus-confidential.json) |
 | Campus Fantasy | 329338 | [329338-campus-fantasy.json](./329338-campus-fantasy.json) |
+| Campus Notes: Forget Me Not. | 33710 | [33710-campus-notes-forget-me-not.json](./33710-campus-notes-forget-me-not.json) |
 | Campus Romance 101 | 232851 | [232851-campus-romance-101.json](./232851-campus-romance-101.json) |
 | Campus Shock Night | 282172 | [282172-campus-shock-night.json](./282172-campus-shock-night.json) |
 | Campwood | 395096 | [395096-campwood.json](./395096-campwood.json) |
@@ -9387,6 +9389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleopatra no Mahou | 41328 | [41328-cleopatra-no-mahou.json](./41328-cleopatra-no-mahou.json) |
 | Cleopatra: Riddle of the Tomb | 21479 | [21479-cleopatra-riddle-of-the-tomb.json](./21479-cleopatra-riddle-of-the-tomb.json) |
 | Cleopatra's Pyramid HD | 102635 | [102635-cleopatras-pyramid-hd.json](./102635-cleopatras-pyramid-hd.json) |
+| Clergy Splode | 34400 | [34400-clergy-splode.json](./34400-clergy-splode.json) |
 | Clériga | 300674 | [300674-cleriga.json](./300674-cleriga.json) |
 | Clerk Hot Tale | 157397 | [157397-clerk-hot-tale.json](./157397-clerk-hot-tale.json) |
 | Cleromancy | 199305 | [199305-cleromancy.json](./199305-cleromancy.json) |
@@ -9898,6 +9901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudpunk: City of Ghosts | 145294 | [145294-cloudpunk-city-of-ghosts.json](./145294-cloudpunk-city-of-ghosts.json) |
 | Cloudpunk: Ultimate Edition | 193737 | [193737-cloudpunk-ultimate-edition.json](./193737-cloudpunk-ultimate-edition.json) |
 | Clouds & Sheep | 255732 | [255732-clouds-and-sheep.json](./255732-clouds-and-sheep.json) |
+| Clouds & Sheep 2 | 33595 | [33595-clouds-and-sheep-2.json](./33595-clouds-and-sheep-2.json) |
 | Clouds Ahoy! | 235863 | [235863-clouds-ahoy.json](./235863-clouds-ahoy.json) |
 | Clouds and Jewels | 359390 | [359390-clouds-and-jewels.json](./359390-clouds-and-jewels.json) |
 | Clouds Kingdom 3 | 71501 | [71501-clouds-kingdom-3.json](./71501-clouds-kingdom-3.json) |
