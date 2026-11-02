@@ -7652,6 +7652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor is Water | 193402 | [193402-floor-is-water.json](./193402-floor-is-water.json) |
 | Floor is...What!? | 189135 | [189135-floor-is-what.json](./189135-floor-is-what.json) |
 | Floor Kids | 55196 | [55196-floor-kids.json](./55196-floor-kids.json) |
+| Floor Massacre | 107727 | [107727-floor-massacre.json](./107727-floor-massacre.json) |
 | Floor Observer | 284437 | [284437-floor-observer.json](./284437-floor-observer.json) |
 | Floor Plan 2 | 145348 | [145348-floor-plan-2.json](./145348-floor-plan-2.json) |
 | Floor Plan 2: Backside Story | 253180 | [253180-floor-plan-2-backside-story.json](./253180-floor-plan-2-backside-story.json) |
@@ -10074,6 +10075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foto Boy: Flashstar | 343721 | [343721-foto-boy-flashstar.json](./343721-foto-boy-flashstar.json) |
 | Foto Face: The Face Stealer Strikes | 67286 | [67286-foto-face-the-face-stealer-strikes.json](./67286-foto-face-the-face-stealer-strikes.json) |
 | Foto Flash | 81869 | [81869-foto-flash.json](./81869-foto-flash.json) |
+| Foto Flash 2 | 107872 | [107872-foto-flash-2.json](./107872-foto-flash-2.json) |
 | Foto Frenzy | 78070 | [78070-foto-frenzy.json](./78070-foto-frenzy.json) |
 | Foto Showdown | 47903 | [47903-foto-showdown.json](./47903-foto-showdown.json) |
 | FotoMuseo 3D | 420770 | [420770-fotomuseo-3d.json](./420770-fotomuseo-3d.json) |
