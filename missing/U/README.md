@@ -1528,7 +1528,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Lock | 142265 | [142265-under-lock.json](./142265-under-lock.json) |
 | Under Mythos | 419966 | [419966-under-mythos.json](./419966-under-mythos.json) |
 | Under Night In-Birth | 190982 | [190982-under-night-in-birth.json](./190982-under-night-in-birth.json) |
-| Under Night In-Birth Exe:Late[cl-r] | 121369 | [121369-under-night-in-birth-exe-late-cl-r.json](./121369-under-night-in-birth-exe-late-cl-r.json) |
 | Under Night In-Birth Exe:Late[cl-r] - Collector's Edition | 136316 | [136316-under-night-in-birth-exe-late-cl-r-collectors-edition.json](./136316-under-night-in-birth-exe-late-cl-r-collectors-edition.json) |
 | Under Night In-Birth II Sys:Celes - 25 Announcer Characters | 288064 | [288064-under-night-in-birth-ii-sys-celes-25-announcer-characters.json](./288064-under-night-in-birth-ii-sys-celes-25-announcer-characters.json) |
 | Under Night In-Birth II Sys:Celes - Character Unlock: Izumi | 362221 | [362221-under-night-in-birth-ii-sys-celes-character-unlock-izumi.json](./362221-under-night-in-birth-ii-sys-celes-character-unlock-izumi.json) |
