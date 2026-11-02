@@ -2323,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace & Aro: Heart-to-Heart | 412607 | [412607-ace-and-aro-heart-to-heart.json](./412607-ace-and-aro-heart-to-heart.json) |
 | Ace & Hearts | 142084 | [142084-ace-and-hearts.json](./142084-ace-and-hearts.json) |
 | ACE 2088 | 60721 | [60721-ace-2088.json](./60721-ace-2088.json) |
+| ACE Academy | 34610 | [34610-ace-academy.json](./34610-ace-academy.json) |
 | Ace Angler | 144863 | [144863-ace-angler.json](./144863-ace-angler.json) |
 | Ace Angler | 292017 | [292017-ace-angler.json](./292017-ace-angler.json) |
 | Ace Angler: Fishing Spirits | 222795 | [222795-ace-angler-fishing-spirits.json](./222795-ace-angler-fishing-spirits.json) |
@@ -2437,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace of Spades | 236386 | [236386-ace-of-spades.json](./236386-ace-of-spades.json) |
 | Ace of Spades: Battle Builder | 23400 | [23400-ace-of-spades-battle-builder.json](./23400-ace-of-spades-battle-builder.json) |
 | Ace of Wands | 321410 | [321410-ace-of-wands.json](./321410-ace-of-wands.json) |
+| Ace of Words | 34543 | [34543-ace-of-words.json](./34543-ace-of-words.json) |
 | Ace Online | 78841 | [78841-ace-online.json](./78841-ace-online.json) |
 | Ace Pilot Pacific | 283877 | [283877-ace-pilot-pacific.json](./283877-ace-pilot-pacific.json) |
 | Ace Prosecutor Zero | 303022 | [303022-ace-prosecutor-zero.json](./303022-ace-prosecutor-zero.json) |
@@ -6260,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Breed Trilogy | 23390 | [23390-alien-breed-trilogy.json](./23390-alien-breed-trilogy.json) |
 | Alien Breed: Impact | 9964 | [9964-alien-breed-impact.json](./9964-alien-breed-impact.json) |
 | Alien Breed: Special Edition 92 | 14596 | [14596-alien-breed-special-edition-92.json](./14596-alien-breed-special-edition-92.json) |
+| Alien Breed: Tower Assault | 11087 | [11087-alien-breed-tower-assault.json](./11087-alien-breed-tower-assault.json) |
 | Alien Brigade | 11865 | [11865-alien-brigade.json](./11865-alien-brigade.json) |
 | Alien Bubble Destroyer | 81998 | [81998-alien-bubble-destroyer.json](./81998-alien-bubble-destroyer.json) |
 | Alien Cabal | 62149 | [62149-alien-cabal.json](./62149-alien-cabal.json) |
@@ -12967,6 +12970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed With Wings 2 | 227333 | [227333-armed-with-wings-2.json](./227333-armed-with-wings-2.json) |
 | Armed With Wings 3 | 389193 | [389193-armed-with-wings-3.json](./389193-armed-with-wings-3.json) |
 | Armed With WIngs: Culmination | 379364 | [379364-armed-with-wings-culmination.json](./379364-armed-with-wings-culmination.json) |
+| Armed with Wings: Rearmed | 35970 | [35970-armed-with-wings-rearmed.json](./35970-armed-with-wings-rearmed.json) |
 | Armed Zone | 203880 | [203880-armed-zone.json](./203880-armed-zone.json) |
 | Armello | 11260 | [11260-armello.json](./11260-armello.json) |
 | Armello: Collector's Edition | 52599 | [52599-armello-collectors-edition.json](./52599-armello-collectors-edition.json) |
@@ -15228,6 +15232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Retro Handheld Console | 277413 | [277413-atari-retro-handheld-console.json](./277413-atari-retro-handheld-console.json) |
 | Atari Revival | 93395 | [93395-atari-revival.json](./93395-atari-revival.json) |
 | Atari Soccer | 40014 | [40014-atari-soccer.json](./40014-atari-soccer.json) |
+| Atari Vault | 34518 | [34518-atari-vault.json](./34518-atari-vault.json) |
 | Atari Vault: 50 Game Add-On Pack | 169904 | [169904-atari-vault-50-game-add-on-pack.json](./169904-atari-vault-50-game-add-on-pack.json) |
 | Atari Video Cube | 12243 | [12243-atari-video-cube.json](./12243-atari-video-cube.json) |
 | Atari's Freeway for MSX-BASIC 2 | 267560 | [267560-ataris-freeway-for-msx-basic-2.json](./267560-ataris-freeway-for-msx-basic-2.json) |
@@ -15445,6 +15450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantica Europe | 148255 | [148255-atlantica-europe.json](./148255-atlantica-europe.json) |
 | Atlantica Online | 9522 | [9522-atlantica-online.json](./9522-atlantica-online.json) |
 | Atlantis | 64734 | [64734-atlantis.json](./64734-atlantis.json) |
+| Atlantis 2: Beyond Atlantis | 11094 | [11094-atlantis-2-beyond-atlantis.json](./11094-atlantis-2-beyond-atlantis.json) |
 | Atlantis Academy | 245813 | [245813-atlantis-academy.json](./245813-atlantis-academy.json) |
 | Atlantis Fantasy: Reborn | 403610 | [403610-atlantis-fantasy-reborn.json](./403610-atlantis-fantasy-reborn.json) |
 | Atlantis II | 40779 | [40779-atlantis-ii.json](./40779-atlantis-ii.json) |
