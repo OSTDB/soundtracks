@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tail Gunner | 171861 | [171861-tail-gunner.json](./171861-tail-gunner.json) |
 | Tail Gunner | 307611 | [307611-tail-gunner.json](./307611-tail-gunner.json) |
 | Tail Gunner 2 | 59336 | [59336-tail-gunner-2.json](./59336-tail-gunner-2.json) |
+| Tail Happy | 414063 | [414063-tail-happy.json](./414063-tail-happy.json) |
 | Tail io | 284498 | [284498-tail-io.json](./284498-tail-io.json) |
 | Tail Me | 179081 | [179081-tail-me.json](./179081-tail-me.json) |
 | Tail of Glory | 390513 | [390513-tail-of-glory.json](./390513-tail-of-glory.json) |
@@ -5640,6 +5641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Archives | 244615 | [244615-the-archives.json](./244615-the-archives.json) |
 | The Archives of Evil Dr BA | 135702 | [135702-the-archives-of-evil-dr-ba.json](./135702-the-archives-of-evil-dr-ba.json) |
 | The Archivist | 372814 | [372814-the-archivist.json](./372814-the-archivist.json) |
+| The Archivist | 414060 | [414060-the-archivist.json](./414060-the-archivist.json) |
 | The Archivist and the Revolution | 277193 | [277193-the-archivist-and-the-revolution.json](./277193-the-archivist-and-the-revolution.json) |
 | The Archivist: VR | 101219 | [101219-the-archivist-vr.json](./101219-the-archivist-vr.json) |
 | The Archotek Project | 29092 | [29092-the-archotek-project.json](./29092-the-archotek-project.json) |
@@ -9399,6 +9401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gardens Between | 27324 | [27324-the-gardens-between.json](./27324-the-gardens-between.json) |
 | The Gas Station: Graveyard Shift | 379883 | [379883-the-gas-station-graveyard-shift.json](./379883-the-gas-station-graveyard-shift.json) |
 | The Gassal | 425882 | [425882-the-gassal.json](./425882-the-gassal.json) |
+| The Gastarbeiters | 414029 | [414029-the-gastarbeiters.json](./414029-the-gastarbeiters.json) |
 | The Gate | 273217 | [273217-the-gate.json](./273217-the-gate.json) |
 | The Gate | 319411 | [319411-the-gate.json](./319411-the-gate.json) |
 | The Gate | 323315 | [323315-the-gate.json](./323315-the-gate.json) |
@@ -21243,6 +21246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tigershark | 73047 | [73047-tigershark.json](./73047-tigershark.json) |
 | Tigey's Gift | 199302 | [199302-tigeys-gift.json](./199302-tigeys-gift.json) |
 | Tigger's Family Tree 3D Adventure | 209036 | [209036-tiggers-family-tree-3d-adventure.json](./209036-tiggers-family-tree-3d-adventure.json) |
+| Tight Lines | 414068 | [414068-tight-lines.json](./414068-tight-lines.json) |
 | Tight Man | 393457 | [393457-tight-man.json](./393457-tight-man.json) |
 | Tightrope | 388706 | [388706-tightrope.json](./388706-tightrope.json) |
 | Tightrope Theatre | 204141 | [204141-tightrope-theatre.json](./204141-tightrope-theatre.json) |
@@ -30131,6 +30135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: Supernatural Supermarket | 319850 | [319850-tsugunohi-supernatural-supermarket.json](./319850-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: The Chamber of Phantom Name | 340941 | [340941-tsugunohi-the-chamber-of-phantom-name.json](./340941-tsugunohi-the-chamber-of-phantom-name.json) |
+| Tsugunohi: The Thread That Beckons to Heaven | 414022 | [414022-tsugunohi-the-thread-that-beckons-to-heaven.json](./414022-tsugunohi-the-thread-that-beckons-to-heaven.json) |
 | Tsujidou-san no Jun'ai Road | 60746 | [60746-tsujidou-san-no-junai-road.json](./60746-tsujidou-san-no-junai-road.json) |
 | Tsuka Shikiru ha Yarazu no Ame | 395358 | [395358-tsuka-shikiru-ha-yarazu-no-ame.json](./395358-tsuka-shikiru-ha-yarazu-no-ame.json) |
 | Tsukame, Jinsei no Migiuchi! GoGo Zenkaiten Arashi wo Yobu! Honoo no Pachinkas Road | 314828 | [314828-tsukame-jinsei-no-migiuchi-gogo-zenkaiten-arashi-wo-yobu-honoo-no-pachinkas-road.json](./314828-tsukame-jinsei-no-migiuchi-gogo-zenkaiten-arashi-wo-yobu-honoo-no-pachinkas-road.json) |
