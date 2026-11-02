@@ -5635,6 +5635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Art of Fly Fishing: Volume One - Rivers of the British Isles | 207121 | [207121-the-art-of-fly-fishing-volume-one-rivers-of-the-british-isles.json](./207121-the-art-of-fly-fishing-volume-one-rivers-of-the-british-isles.json) |
 | The Art of Fugue | 364628 | [364628-the-art-of-fugue.json](./364628-the-art-of-fugue.json) |
 | The Art of GO | 14270 | [14270-the-art-of-go.json](./14270-the-art-of-go.json) |
+| The Art of Knuckle Sandwich | 55291 | [55291-the-art-of-knuckle-sandwich.json](./55291-the-art-of-knuckle-sandwich.json) |
 | The Art of Murder | 91354 | [91354-the-art-of-murder.json](./91354-the-art-of-murder.json) |
 | The Art of Tortoise Walking | 403187 | [403187-the-art-of-tortoise-walking.json](./403187-the-art-of-tortoise-walking.json) |
 | THE ART: Metamorphosis | 123492 | [123492-the-art-metamorphosis.json](./123492-the-art-metamorphosis.json) |
@@ -8028,6 +8029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drone Lord | 343308 | [343308-the-drone-lord.json](./343308-the-drone-lord.json) |
 | The Drone Zone | 244905 | [244905-the-drone-zone.json](./244905-the-drone-zone.json) |
 | The Dropper 2 | 200144 | [200144-the-dropper-2.json](./200144-the-dropper-2.json) |
+| The Dropping of the Dead | 55330 | [55330-the-dropping-of-the-dead.json](./55330-the-dropping-of-the-dead.json) |
 | The Drowned Deal | 365726 | [365726-the-drowned-deal.json](./365726-the-drowned-deal.json) |
 | The Drowning | 20917 | [20917-the-drowning.json](./20917-the-drowning.json) |
 | The Drowning Machine | 144738 | [144738-the-drowning-machine.json](./144738-the-drowning-machine.json) |
@@ -12181,6 +12183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Acre | 25680 | [25680-the-little-acre.json](./25680-the-little-acre.json) |
 | The Little Adventure | 364040 | [364040-the-little-adventure.json](./364040-the-little-adventure.json) |
 | The Little Baby | 285553 | [285553-the-little-baby.json](./285553-the-little-baby.json) |
+| The Little Ball That Could | 55231 | [55231-the-little-ball-that-could.json](./55231-the-little-ball-that-could.json) |
 | The Little Big Crisis | 217793 | [217793-the-little-big-crisis.json](./217793-the-little-big-crisis.json) |
 | The Little Black Bestiary: A Midsummer Night's Barcrawl | 151498 | [151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json](./151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json) |
 | The Little Cars in the Great Race | 371296 | [371296-the-little-cars-in-the-great-race.json](./371296-the-little-cars-in-the-great-race.json) |
@@ -27860,6 +27863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transmuters | 258501 | [258501-transmuters.json](./258501-transmuters.json) |
 | TransOcean 2: Rivals | 35728 | [35728-transocean-2-rivals.json](./35728-transocean-2-rivals.json) |
 | TransOcean: The Shipping Company | 36346 | [36346-transocean-the-shipping-company.json](./36346-transocean-the-shipping-company.json) |
+| Transparent Black | 55361 | [55361-transparent-black.json](./55361-transparent-black.json) |
 | Transparent Black: Wish | 337100 | [337100-transparent-black-wish.json](./337100-transparent-black-wish.json) |
 | Transparent Girl | 374972 | [374972-transparent-girl.json](./374972-transparent-girl.json) |
 | Transparent Her and Real Me | 316638 | [316638-transparent-her-and-real-me.json](./316638-transparent-her-and-real-me.json) |
@@ -31337,6 +31341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrannizer | 270741 | [270741-tyrannizer.json](./270741-tyrannizer.json) |
 | Tyrannosaurus Tex | 159036 | [159036-tyrannosaurus-tex.json](./159036-tyrannosaurus-tex.json) |
 | Tyranny: Archon Edition | 51797 | [51797-tyranny-archon-edition.json](./51797-tyranny-archon-edition.json) |
+| Tyranny: Bastard's Wound | 55081 | [55081-tyranny-bastards-wound.json](./55081-tyranny-bastards-wound.json) |
 | Tyranny: Commander Edition | 51796 | [51796-tyranny-commander-edition.json](./51796-tyranny-commander-edition.json) |
 | Tyranny: Deluxe Edition | 124978 | [124978-tyranny-deluxe-edition.json](./124978-tyranny-deluxe-edition.json) |
 | Tyranny: Gold Edition | 154526 | [154526-tyranny-gold-edition.json](./154526-tyranny-gold-edition.json) |
