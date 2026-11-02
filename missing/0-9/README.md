@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Second Ninja | 9848 | [9848-10-second-ninja.json](./9848-10-second-ninja.json) |
 | 10 Second Ninja X | 18686 | [18686-10-second-ninja-x.json](./18686-10-second-ninja-x.json) |
 | 10 Second Rule: Infinity Labo | 308934 | [308934-10-second-rule-infinity-labo.json](./308934-10-second-rule-infinity-labo.json) |
+| 10 Second Run Returns | 83868 | [83868-10-second-run-returns.json](./83868-10-second-run-returns.json) |
 | 10 Second Shuriken | 121374 | [121374-10-second-shuriken.json](./121374-10-second-shuriken.json) |
 | 10 Seconds | 105287 | [105287-10-seconds.json](./105287-10-seconds.json) |
 | 10 Seconds or Less | 59652 | [59652-10-seconds-or-less.json](./59652-10-seconds-or-less.json) |
