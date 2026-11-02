@@ -113,6 +113,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.W.'s Nightmare | 248212 | [248212-d-w-s-nightmare.json](./248212-d-w-s-nightmare.json) |
 | D.W.A.R.F.S. | 36414 | [36414-d-w-a-r-f-s.json](./36414-d-w-a-r-f-s.json) |
 | D' | 174654 | [174654-d.json](./174654-d.json) |
+| D'ark | 412132 | [412132-dark.json](./412132-dark.json) |
+| D'ark Gaiden | 412135 | [412135-dark-gaiden.json](./412135-dark-gaiden.json) |
 | D'lirium: The Golden Rogue | 111433 | [111433-dlirium-the-golden-rogue.json](./111433-dlirium-the-golden-rogue.json) |
 | D'ni Legacy | 142085 | [142085-dni-legacy.json](./142085-dni-legacy.json) |
 | D's Diner: The Director's Cut | 245311 | [245311-ds-diner-the-directors-cut.json](./245311-ds-diner-the-directors-cut.json) |
@@ -2310,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Hale | 143377 | [143377-dash-hale.json](./143377-dash-hale.json) |
 | Dash King | 240670 | [240670-dash-king.json](./240670-dash-king.json) |
 | Dash Lamb | 154064 | [154064-dash-lamb.json](./154064-dash-lamb.json) |
+| Dash n Cry: Bursting | 412070 | [412070-dash-n-cry-bursting.json](./412070-dash-n-cry-bursting.json) |
 | Dash N Slash | 332869 | [332869-dash-n-slash.json](./332869-dash-n-slash.json) |
 | Dash of Destruction | 8981 | [8981-dash-of-destruction.json](./8981-dash-of-destruction.json) |
 | Dash or Die | 285441 | [285441-dash-or-die.json](./285441-dash-or-die.json) |
@@ -2522,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dating Sim! Re:Mastered | 329170 | [329170-dating-sim-re-mastered.json](./329170-dating-sim-re-mastered.json) |
 | Dating Simulator | 162431 | [162431-dating-simulator.json](./162431-dating-simulator.json) |
 | Dating Simulator 2025 | 288921 | [288921-dating-simulator-2025.json](./288921-dating-simulator-2025.json) |
+| Dating Stories 2 | 412108 | [412108-dating-stories-2.json](./412108-dating-stories-2.json) |
 | Dating Under the Comet | 345595 | [345595-dating-under-the-comet.json](./345595-dating-under-the-comet.json) |
 | Dato of Srivijaya | 156679 | [156679-dato-of-srivijaya.json](./156679-dato-of-srivijaya.json) |
 | Dàtóu Zhūluójì | 158556 | [158556-datou-zhuluoji.json](./158556-datou-zhuluoji.json) |
@@ -4526,6 +4530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathmatch Remix | 322456 | [322456-deathmatch-remix.json](./322456-deathmatch-remix.json) |
 | Deathmatch Soccer | 74437 | [74437-deathmatch-soccer.json](./74437-deathmatch-soccer.json) |
 | Deathmatch Village | 42683 | [42683-deathmatch-village.json](./42683-deathmatch-village.json) |
+| Deathmate | 412077 | [412077-deathmate.json](./412077-deathmate.json) |
 | Deathmaze 5000 | 178194 | [178194-deathmaze-5000.json](./178194-deathmaze-5000.json) |
 | DeathMetal | 30579 | [30579-deathmetal.json](./30579-deathmetal.json) |
 | Deathmoon | 364008 | [364008-deathmoon.json](./364008-deathmoon.json) |
@@ -17874,6 +17879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustswap: Dusttrust | 330050 | [330050-dustswap-dusttrust.json](./330050-dustswap-dusttrust.json) |
 | Dusttale | 136912 | [136912-dusttale.json](./136912-dusttale.json) |
 | Dusttale Reimagined | 329662 | [329662-dusttale-reimagined.json](./329662-dusttale-reimagined.json) |
+| Dusttale: Just Us | 412170 | [412170-dusttale-just-us.json](./412170-dusttale-just-us.json) |
 | Dusttale: Last Genocide | 362314 | [362314-dusttale-last-genocide.json](./362314-dusttale-last-genocide.json) |
 | Dusttale: The Genocide's End | 362333 | [362333-dusttale-the-genocides-end.json](./362333-dusttale-the-genocides-end.json) |
 | Dusttale: The Murderous Comedy | 320339 | [320339-dusttale-the-murderous-comedy.json](./320339-dusttale-the-murderous-comedy.json) |
