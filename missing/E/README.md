@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EatToFight | 185611 | [185611-eattofight.json](./185611-eattofight.json) |
 | Eatventure | 208978 | [208978-eatventure.json](./208978-eatventure.json) |
 | Eatvolve | 146481 | [146481-eatvolve.json](./146481-eatvolve.json) |
+| Eba & Egg: A Hatch Trip | 54967 | [54967-eba-and-egg-a-hatch-trip.json](./54967-eba-and-egg-a-hatch-trip.json) |
 | eBall | 117546 | [117546-eball.json](./117546-eball.json) |
 | eBall 2 | 238523 | [238523-eball-2.json](./238523-eball-2.json) |
 | Ebanashi: Kaiwa | 195216 | [195216-ebanashi-kaiwa.json](./195216-ebanashi-kaiwa.json) |
@@ -4156,6 +4157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Card Battle Simulator | 407476 | [407476-epic-card-battle-simulator.json](./407476-epic-card-battle-simulator.json) |
 | Epic Card Game | 56420 | [56420-epic-card-game.json](./56420-epic-card-game.json) |
 | Epic Cards Battle | 34973 | [34973-epic-cards-battle.json](./34973-epic-cards-battle.json) |
+| Epic Cards Battle 2-Dragons Rising (TCG) | 55372 | [55372-epic-cards-battle-2-dragons-rising-tcg.json](./55372-epic-cards-battle-2-dragons-rising-tcg.json) |
 | Epic Cards Battle 3 | 258960 | [258960-epic-cards-battle-3.json](./258960-epic-cards-battle-3.json) |
 | Epic Chef | 145063 | [145063-epic-chef.json](./145063-epic-chef.json) |
 | Epic Citadel | 91847 | [91847-epic-citadel.json](./91847-epic-citadel.json) |
