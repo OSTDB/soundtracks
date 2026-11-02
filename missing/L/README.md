@@ -2750,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of the Round Table | 287791 | [287791-legends-of-the-round-table.json](./287791-legends-of-the-round-table.json) |
 | Legends of the Shadows | 208391 | [208391-legends-of-the-shadows.json](./208391-legends-of-the-shadows.json) |
 | Legends of the Universe - Cosmic Bounty | 75953 | [75953-legends-of-the-universe-cosmic-bounty.json](./75953-legends-of-the-universe-cosmic-bounty.json) |
+| Legends of the Universe - StarCore | 32527 | [32527-legends-of-the-universe-starcore.json](./32527-legends-of-the-universe-starcore.json) |
 | Legends of the Wild | 358481 | [358481-legends-of-the-wild.json](./358481-legends-of-the-wild.json) |
 | Legends of the Wild West: Golden Hill | 338055 | [338055-legends-of-the-wild-west-golden-hill.json](./338055-legends-of-the-wild-west-golden-hill.json) |
 | Legends of Time | 31673 | [31673-legends-of-time.json](./31673-legends-of-time.json) |
@@ -4526,6 +4527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightbender | 34230 | [34230-lightbender.json](./34230-lightbender.json) |
 | LightBike | 140302 | [140302-lightbike.json](./140302-lightbike.json) |
 | LightBike 2 | 234015 | [234015-lightbike-2.json](./234015-lightbike-2.json) |
+| Lightblade VR | 32546 | [32546-lightblade-vr.json](./32546-lightblade-vr.json) |
 | Lightbot: Programming Puzzles | 88528 | [88528-lightbot-programming-puzzles.json](./88528-lightbot-programming-puzzles.json) |
 | Lightbox | 153861 | [153861-lightbox.json](./153861-lightbox.json) |
 | Lightbreak | 139003 | [139003-lightbreak.json](./139003-lightbreak.json) |
@@ -7174,6 +7176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Djinn | 37384 | [37384-lord-of-djinn.json](./37384-lord-of-djinn.json) |
 | Lord of doors | 320955 | [320955-lord-of-doors.json](./320955-lord-of-doors.json) |
 | Lord of Dragons | 234865 | [234865-lord-of-dragons.json](./234865-lord-of-dragons.json) |
+| Lord of Dwarves | 32552 | [32552-lord-of-dwarves.json](./32552-lord-of-dwarves.json) |
 | Lord of Fire & Ice | 211589 | [211589-lord-of-fire-and-ice.json](./211589-lord-of-fire-and-ice.json) |
 | Lord of Gun | 40370 | [40370-lord-of-gun.json](./40370-lord-of-gun.json) |
 | Lord of Heroes | 137634 | [137634-lord-of-heroes.json](./137634-lord-of-heroes.json) |
