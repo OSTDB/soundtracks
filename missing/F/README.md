@@ -1566,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Rush | 101992 | [101992-family-rush.json](./101992-family-rush.json) |
 | Family School | 48767 | [48767-family-school.json](./48767-family-school.json) |
 | Family Secret | 75185 | [75185-family-secret.json](./75185-family-secret.json) |
+| Family Secrets 1: Empty Plate | 409137 | [409137-family-secrets-1-empty-plate.json](./409137-family-secrets-1-empty-plate.json) |
 | Family Slot Car Racing | 67779 | [67779-family-slot-car-racing.json](./67779-family-slot-car-racing.json) |
 | Family Sport | 346056 | [346056-family-sport.json](./346056-family-sport.json) |
 | Family Sport 41-in-1 | 247001 | [247001-family-sport-41-in-1.json](./247001-family-sport-41-in-1.json) |
@@ -2255,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farewell, My Dearest Love | 314063 | [314063-farewell-my-dearest-love.json](./314063-farewell-my-dearest-love.json) |
 | Farewell, We See Each Other for the Last Time..... | 348983 | [348983-farewell-we-see-each-other-for-the-last-time.json](./348983-farewell-we-see-each-other-for-the-last-time.json) |
 | Farewells | 217288 | [217288-farewells.json](./217288-farewells.json) |
+| Farewells Clicker | 408431 | [408431-farewells-clicker.json](./408431-farewells-clicker.json) |
 | Farfalla | 91442 | [91442-farfalla.json](./91442-farfalla.json) |
 | Farfalle OS | 166456 | [166456-farfalle-os.json](./166456-farfalle-os.json) |
 | Fargone | 228935 | [228935-fargone.json](./228935-fargone.json) |
@@ -2670,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fart Cat! | 64867 | [64867-fart-cat.json](./64867-fart-cat.json) |
 | Fart Drop DX | 369672 | [369672-fart-drop-dx.json](./369672-fart-drop-dx.json) |
 | Fart Fiasco Premium | 284518 | [284518-fart-fiasco-premium.json](./284518-fart-fiasco-premium.json) |
+| Fart Fighter | 410000 | [410000-fart-fighter.json](./410000-fart-fighter.json) |
 | Fart Game | 321575 | [321575-fart-game.json](./321575-fart-game.json) |
 | Fart Hotel | 243967 | [243967-fart-hotel.json](./243967-fart-hotel.json) |
 | Fart Killer | 312865 | [312865-fart-killer.json](./312865-fart-killer.json) |
@@ -4839,6 +4842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XII: The Zodiac Age - Collector's Edition | 136364 | [136364-final-fantasy-xii-the-zodiac-age-collectors-edition.json](./136364-final-fantasy-xii-the-zodiac-age-collectors-edition.json) |
 | Final Fantasy XII: The Zodiac Age - Limited Steelbook Edition | 136173 | [136173-final-fantasy-xii-the-zodiac-age-limited-steelbook-edition.json](./136173-final-fantasy-xii-the-zodiac-age-limited-steelbook-edition.json) |
 | Final Fantasy XIII Trilogy | 112093 | [112093-final-fantasy-xiii-trilogy.json](./112093-final-fantasy-xiii-trilogy.json) |
+| Final Fantasy XIII-2 DLC Bundle Pack | 409709 | [409709-final-fantasy-xiii-2-dlc-bundle-pack.json](./409709-final-fantasy-xiii-2-dlc-bundle-pack.json) |
 | Final Fantasy XIII-2: Collector's Edition | 41834 | [41834-final-fantasy-xiii-2-collectors-edition.json](./41834-final-fantasy-xiii-2-collectors-edition.json) |
 | Final Fantasy XIII-2: Limited Collector's Edition | 41845 | [41845-final-fantasy-xiii-2-limited-collectors-edition.json](./41845-final-fantasy-xiii-2-limited-collectors-edition.json) |
 | Final Fantasy XIII-2: Requiem of the Goddess | 294213 | [294213-final-fantasy-xiii-2-requiem-of-the-goddess.json](./294213-final-fantasy-xiii-2-requiem-of-the-goddess.json) |
@@ -5277,6 +5281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Bigfoot | 56494 | [56494-finding-bigfoot.json](./56494-finding-bigfoot.json) |
 | Finding Brenda: Episode 1 | 169928 | [169928-finding-brenda-episode-1.json](./169928-finding-brenda-episode-1.json) |
 | Finding Buddies | 308169 | [308169-finding-buddies.json](./308169-finding-buddies.json) |
+| Finding Cats | 409986 | [409986-finding-cats.json](./409986-finding-cats.json) |
 | Finding Chase | 359408 | [359408-finding-chase.json](./359408-finding-chase.json) |
 | Finding Chuchu | 371630 | [371630-finding-chuchu.json](./371630-finding-chuchu.json) |
 | Finding Cinderella | 207171 | [207171-finding-cinderella.json](./207171-finding-cinderella.json) |
@@ -6091,6 +6096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish the Web | 425170 | [425170-fish-the-web.json](./425170-fish-the-web.json) |
 | Fish Them All! | 415988 | [415988-fish-them-all.json](./415988-fish-them-all.json) |
 | Fish Time | 355223 | [355223-fish-time.json](./355223-fish-time.json) |
+| Fish to Cats: Catch & Feed | 410603 | [410603-fish-to-cats-catch-and-feed.json](./410603-fish-to-cats-catch-and-feed.json) |
 | Fish to Dish: Idle Sushi | 344540 | [344540-fish-to-dish-idle-sushi.json](./344540-fish-to-dish-idle-sushi.json) |
 | Fish Tycoon | 29117 | [29117-fish-tycoon.json](./29117-fish-tycoon.json) |
 | Fish Tycoon | 88574 | [88574-fish-tycoon.json](./88574-fish-tycoon.json) |
@@ -6368,6 +6374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishticuffs | 142681 | [142681-fishticuffs.json](./142681-fishticuffs.json) |
 | Fishton: A Town to Remember | 219785 | [219785-fishton-a-town-to-remember.json](./219785-fishton-a-town-to-remember.json) |
 | Fishtopia Tycoon 2 | 101916 | [101916-fishtopia-tycoon-2.json](./101916-fishtopia-tycoon-2.json) |
+| Fishu | 409120 | [409120-fishu.json](./409120-fishu.json) |
 | FishVerse: Ultimate Fishing | 279140 | [279140-fishverse-ultimate-fishing.json](./279140-fishverse-ultimate-fishing.json) |
 | FishVille | 92386 | [92386-fishville.json](./92386-fishville.json) |
 | FishWitch Halloween | 180971 | [180971-fishwitch-halloween.json](./180971-fishwitch-halloween.json) |
@@ -7158,6 +7165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleapit | 307781 | [307781-fleapit.json](./307781-fleapit.json) |
 | Fleazer | 84024 | [84024-fleazer.json](./84024-fleazer.json) |
 | Fleck | 58420 | [58420-fleck.json](./58420-fleck.json) |
+| Fleck & Grus | 409085 | [409085-fleck-and-grus.json](./409085-fleck-and-grus.json) |
 | Flecto | 407325 | [407325-flecto.json](./407325-flecto.json) |
 | Fled fierce city | 163775 | [163775-fled-fierce-city.json](./163775-fled-fierce-city.json) |
 | Fledge | 225537 | [225537-fledge.json](./225537-fledge.json) |
@@ -8452,6 +8460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Font Quiz | 232059 | [232059-font-quiz.json](./232059-font-quiz.json) |
 | Fonzi Fuddy: Ace Defective | 322050 | [322050-fonzi-fuddy-ace-defective.json](./322050-fonzi-fuddy-ace-defective.json) |
 | Foo Foo | 138148 | [138148-foo-foo.json](./138148-foo-foo.json) |
+| Foo Is Missing | 409314 | [409314-foo-is-missing.json](./409314-foo-is-missing.json) |
 | Fooaaahh! | 182451 | [182451-fooaaahh.json](./182451-fooaaahh.json) |
 | Foobar 0 | 176722 | [176722-foobar-0.json](./176722-foobar-0.json) |
 | Foobar Versus the DEA | 178186 | [178186-foobar-versus-the-dea.json](./178186-foobar-versus-the-dea.json) |
@@ -9565,6 +9574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Racing Pro 2026: Diamond Edition | 410856 | [410856-formula-racing-pro-2026-diamond-edition.json](./410856-formula-racing-pro-2026-diamond-edition.json) |
 | Formula Racing Pro 2026: Elite Edition | 404278 | [404278-formula-racing-pro-2026-elite-edition.json](./404278-formula-racing-pro-2026-elite-edition.json) |
 | Formula Racing Pro 2026: GOTY Edition | 399819 | [399819-formula-racing-pro-2026-goty-edition.json](./399819-formula-racing-pro-2026-goty-edition.json) |
+| Formula Racing Pro 2026: Legendary Edition | 409969 | [409969-formula-racing-pro-2026-legendary-edition.json](./409969-formula-racing-pro-2026-legendary-edition.json) |
 | Formula Racing Pro 2026: Silver Edtion | 412585 | [412585-formula-racing-pro-2026-silver-edtion.json](./412585-formula-racing-pro-2026-silver-edtion.json) |
 | Formula Racing Pro 2026: Upgrade Edition | 396918 | [396918-formula-racing-pro-2026-upgrade-edition.json](./396918-formula-racing-pro-2026-upgrade-edition.json) |
 | Formula Racing: Grand Prix League | 319317 | [319317-formula-racing-grand-prix-league.json](./319317-formula-racing-grand-prix-league.json) |
@@ -10891,7 +10901,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Rider Lite | 350924 | [350924-free-rider-lite.json](./350924-free-rider-lite.json) |
 | Free Road | 99464 | [99464-free-road.json](./99464-free-road.json) |
 | Free Royale | 137976 | [137976-free-royale.json](./137976-free-royale.json) |
+| Free Running | 409046 | [409046-free-running.json](./409046-free-running.json) |
 | Free Running | 4873 | [4873-free-running.json](./4873-free-running.json) |
+| Free Running 2 | 409047 | [409047-free-running-2.json](./409047-free-running-2.json) |
 | Free Skies | 316175 | [316175-free-skies.json](./316175-free-skies.json) |
 | Free Slots Fun Factory | 299573 | [299573-free-slots-fun-factory.json](./299573-free-slots-fun-factory.json) |
 | Free Solitaire | 340250 | [340250-free-solitaire.json](./340250-free-solitaire.json) |
@@ -12222,6 +12234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuck Quest | 72441 | [72441-fuck-quest.json](./72441-fuck-quest.json) |
 | Fuck Quest 2: Romancing the Bone | 69235 | [69235-fuck-quest-2-romancing-the-bone.json](./69235-fuck-quest-2-romancing-the-bone.json) |
 | Fuck Space! | 199085 | [199085-fuck-space.json](./199085-fuck-space.json) |
+| Fuck Stalin | 410581 | [410581-fuck-stalin.json](./410581-fuck-stalin.json) |
 | Fuck the Police | 159889 | [159889-fuck-the-police.json](./159889-fuck-the-police.json) |
 | Fuck Typing | 79958 | [79958-fuck-typing.json](./79958-fuck-typing.json) |
 | Fuck Who You Desire | 393382 | [393382-fuck-who-you-desire.json](./393382-fuck-who-you-desire.json) |
@@ -13046,6 +13059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fussball Manager Bundesliga 2001 | 209417 | [209417-fussball-manager-bundesliga-2001.json](./209417-fussball-manager-bundesliga-2001.json) |
 | Fusty Dungeon | 415043 | [415043-fusty-dungeon.json](./415043-fusty-dungeon.json) |
 | Futa Battle TD | 196143 | [196143-futa-battle-td.json](./196143-futa-battle-td.json) |
+| Futa Heim | 410599 | [410599-futa-heim.json](./410599-futa-heim.json) |
 | Futa Heroism | 235707 | [235707-futa-heroism.json](./235707-futa-heroism.json) |
 | Futa Jigsaw Dating | 368126 | [368126-futa-jigsaw-dating.json](./368126-futa-jigsaw-dating.json) |
 | Futa Nights: Bloody Sluts | 362274 | [362274-futa-nights-bloody-sluts.json](./362274-futa-nights-bloody-sluts.json) |
