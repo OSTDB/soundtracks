@@ -6303,6 +6303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FishWitch Halloween | 180971 | [180971-fishwitch-halloween.json](./180971-fishwitch-halloween.json) |
 | Fishy | 102522 | [102522-fishy.json](./102522-fishy.json) |
 | Fishy | 104572 | [104572-fishy.json](./104572-fishy.json) |
+| Fishy | 129494 | [129494-fishy.json](./129494-fishy.json) |
 | Fishy | 422039 | [422039-fishy.json](./422039-fishy.json) |
 | Fishy 3D | 139409 | [139409-fishy-3d.json](./139409-fishy-3d.json) |
 | Fishy Bits 2 | 297528 | [297528-fishy-bits-2.json](./297528-fishy-bits-2.json) |
