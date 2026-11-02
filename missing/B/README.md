@@ -4380,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BB Ball | 49485 | [49485-bb-ball.json](./49485-bb-ball.json) |
 | BB Carom Billiard | 103117 | [103117-bb-carom-billiard.json](./103117-bb-carom-billiard.json) |
 | BBA Ghost Story: Ward Edition | 358254 | [358254-bba-ghost-story-ward-edition.json](./358254-bba-ghost-story-ward-edition.json) |
+| Bball Destiny | 424627 | [424627-bball-destiny.json](./424627-bball-destiny.json) |
 | BBB: Boost Boom Boots | 362792 | [362792-bbb-boost-boom-boots.json](./362792-bbb-boost-boom-boots.json) |
 | BBB: Vestal (Visual Novel Vol. 1) | 118130 | [118130-bbb-vestal-visual-novel-vol-1.json](./118130-bbb-vestal-visual-novel-vol-1.json) |
 | BBC-rex | 289573 | [289573-bbc-rex.json](./289573-bbc-rex.json) |
@@ -10672,6 +10673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Roar 3 | 3824 | [3824-bloody-roar-3.json](./3824-bloody-roar-3.json) |
 | Bloody Roar 4 | 24104 | [24104-bloody-roar-4.json](./24104-bloody-roar-4.json) |
 | Bloody Roar Extreme | 225826 | [225826-bloody-roar-extreme.json](./225826-bloody-roar-extreme.json) |
+| Bloody Roar Extreme: Recomp | 424596 | [424596-bloody-roar-extreme-recomp.json](./424596-bloody-roar-extreme-recomp.json) |
 | Bloody Roar: Primal Fury | 18054 | [18054-bloody-roar-primal-fury.json](./18054-bloody-roar-primal-fury.json) |
 | Bloody Rune | 320433 | [320433-bloody-rune.json](./320433-bloody-rune.json) |
 | Bloody Rust | 315537 | [315537-bloody-rust.json](./315537-bloody-rust.json) |
@@ -17267,6 +17269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | By the King's Command | 399008 | [399008-by-the-kings-command.json](./399008-by-the-kings-command.json) |
 | By the King's Will | 398694 | [398694-by-the-kings-will.json](./398694-by-the-kings-will.json) |
 | By the Numbers | 413892 | [413892-by-the-numbers.json](./413892-by-the-numbers.json) |
+| By the Numbers | 424651 | [424651-by-the-numbers.json](./424651-by-the-numbers.json) |
 | By the Pier | 207290 | [207290-by-the-pier.json](./207290-by-the-pier.json) |
 | By Your Side | 134864 | [134864-by-your-side.json](./134864-by-your-side.json) |
 | Byakko: Shijin Butai Enrenki | 342755 | [342755-byakko-shijin-butai-enrenki.json](./342755-byakko-shijin-butai-enrenki.json) |
