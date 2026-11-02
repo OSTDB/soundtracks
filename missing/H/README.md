@@ -1832,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardfest | 261136 | [261136-hardfest.json](./261136-hardfest.json) |
 | Hardfest 2 | 280906 | [280906-hardfest-2.json](./280906-hardfest-2.json) |
 | Hardhat Wombat | 244511 | [244511-hardhat-wombat.json](./244511-hardhat-wombat.json) |
+| Hardland | 9549 | [9549-hardland.json](./9549-hardland.json) |
 | HardLander | 95327 | [95327-hardlander.json](./95327-hardlander.json) |
 | Hardlight | 138829 | [138829-hardlight.json](./138829-hardlight.json) |
 | Hardline | 94221 | [94221-hardline.json](./94221-hardline.json) |
