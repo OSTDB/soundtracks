@@ -3527,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest Tower | 327342 | [327342-tempest-tower.json](./327342-tempest-tower.json) |
 | Tempest X3 | 71878 | [71878-tempest-x3.json](./71878-tempest-x3.json) |
 | Tempest: Evolved | 329640 | [329640-tempest-evolved.json](./329640-tempest-evolved.json) |
+| Tempest: Pirate Action RPG | 83322 | [83322-tempest-pirate-action-rpg.json](./83322-tempest-pirate-action-rpg.json) |
 | Tempest: Pirate Edition | 53716 | [53716-tempest-pirate-edition.json](./53716-tempest-pirate-edition.json) |
 | Tempest: Tower of Probatio | 271561 | [271561-tempest-tower-of-probatio.json](./271561-tempest-tower-of-probatio.json) |
 | Tempest: Treasure Lands | 151542 | [151542-tempest-treasure-lands.json](./151542-tempest-treasure-lands.json) |
@@ -6303,6 +6304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bones of You | 266720 | [266720-the-bones-of-you.json](./266720-the-bones-of-you.json) |
 | The Bones Picked Clean and the Clean Bones Gone | 139316 | [139316-the-bones-picked-clean-and-the-clean-bones-gone.json](./139316-the-bones-picked-clean-and-the-clean-bones-gone.json) |
 | The Bonfire 2: Uncharted Shores | 123570 | [123570-the-bonfire-2-uncharted-shores.json](./123570-the-bonfire-2-uncharted-shores.json) |
+| The Bonfire: Forsaken Lands | 84535 | [84535-the-bonfire-forsaken-lands.json](./84535-the-bonfire-forsaken-lands.json) |
 | The Bonte Room | 316828 | [316828-the-bonte-room.json](./316828-the-bonte-room.json) |
 | The Bonte Room 2 | 316829 | [316829-the-bonte-room-2.json](./316829-the-bonte-room-2.json) |
 | The Boo Croo | 381619 | [381619-the-boo-croo.json](./381619-the-boo-croo.json) |
@@ -8423,6 +8425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escapists 2: Dungeons and Duct Tape | 155176 | [155176-the-escapists-2-dungeons-and-duct-tape.json](./155176-the-escapists-2-dungeons-and-duct-tape.json) |
 | The Escapists 2: Game of the Year Edition | 121534 | [121534-the-escapists-2-game-of-the-year-edition.json](./121534-the-escapists-2-game-of-the-year-edition.json) |
 | The Escapists 2: Pocket Breakout | 114027 | [114027-the-escapists-2-pocket-breakout.json](./114027-the-escapists-2-pocket-breakout.json) |
+| The Escapists 2: Special Edition | 83775 | [83775-the-escapists-2-special-edition.json](./83775-the-escapists-2-special-edition.json) |
 | The Escapists: Alcatraz | 53732 | [53732-the-escapists-alcatraz.json](./53732-the-escapists-alcatraz.json) |
 | The Escapists: Complete Edition | 108196 | [108196-the-escapists-complete-edition.json](./108196-the-escapists-complete-edition.json) |
 | The Escapists: Duct Tapes Are Forever | 51927 | [51927-the-escapists-duct-tapes-are-forever.json](./51927-the-escapists-duct-tapes-are-forever.json) |
@@ -21720,6 +21723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timothy and the Tower of Mu | 169876 | [169876-timothy-and-the-tower-of-mu.json](./169876-timothy-and-the-tower-of-mu.json) |
 | Timothy and Titus | 98304 | [98304-timothy-and-titus.json](./98304-timothy-and-titus.json) |
 | Timothy Leary's Mind Mirror | 26454 | [26454-timothy-learys-mind-mirror.json](./26454-timothy-learys-mind-mirror.json) |
+| Timothy vs. the Aliens | 84108 | [84108-timothy-vs-the-aliens.json](./84108-timothy-vs-the-aliens.json) |
 | Timothy: Shinpi no Mori | 189132 | [189132-timothy-shinpi-no-mori.json](./189132-timothy-shinpi-no-mori.json) |
 | Timothy's Night | 165303 | [165303-timothys-night.json](./165303-timothys-night.json) |
 | Timruk | 191816 | [191816-timruk.json](./191816-timruk.json) |
@@ -22981,6 +22985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo 24-Ku | 165063 | [165063-tokyo-24-ku.json](./165063-tokyo-24-ku.json) |
 | Tokyo 30 days | 269200 | [269200-tokyo-30-days.json](./269200-tokyo-30-days.json) |
 | Tokyo 42 | 18930 | [18930-tokyo-42.json](./18930-tokyo-42.json) |
+| Tokyo 42 + Smaceshi's Castles | 83772 | [83772-tokyo-42-smaceshis-castles.json](./83772-tokyo-42-smaceshis-castles.json) |
 | Tokyo 42: Smaceshi's Castles | 172109 | [172109-tokyo-42-smaceshis-castles.json](./172109-tokyo-42-smaceshis-castles.json) |
 | Tokyo 7th Sisters | 60623 | [60623-tokyo-7th-sisters.json](./60623-tokyo-7th-sisters.json) |
 | Tokyo Afterschool Summoners | 164311 | [164311-tokyo-afterschool-summoners.json](./164311-tokyo-afterschool-summoners.json) |
