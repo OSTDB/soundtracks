@@ -3769,6 +3769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Nightmares: The Key | 315800 | [315800-cat-nightmares-the-key.json](./315800-cat-nightmares-the-key.json) |
 | Cat Ninja: The Quest for Magic Energy Crystals | 74706 | [74706-cat-ninja-the-quest-for-magic-energy-crystals.json](./74706-cat-ninja-the-quest-for-magic-energy-crystals.json) |
 | Cat No Wash! | 234484 | [234484-cat-no-wash.json](./234484-cat-no-wash.json) |
+| Cat Notebook | 114264 | [114264-cat-notebook.json](./114264-cat-notebook.json) |
 | Cat of Khronos | 182356 | [182356-cat-of-khronos.json](./182356-cat-of-khronos.json) |
 | Cat of Monte Cristo | 155008 | [155008-cat-of-monte-cristo.json](./155008-cat-of-monte-cristo.json) |
 | Cat on a Diet | 33408 | [33408-cat-on-a-diet.json](./33408-cat-on-a-diet.json) |
@@ -4149,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catgirl Bloodhunt | 380835 | [380835-catgirl-bloodhunt.json](./380835-catgirl-bloodhunt.json) |
 | Catgirl Chainsaw Massacre | 280736 | [280736-catgirl-chainsaw-massacre.json](./280736-catgirl-chainsaw-massacre.json) |
 | Catgirl Lover | 127927 | [127927-catgirl-lover.json](./127927-catgirl-lover.json) |
+| Catgirl Lover 2 | 122837 | [122837-catgirl-lover-2.json](./122837-catgirl-lover-2.json) |
 | Catgirl Magic: Fury Duel | 105653 | [105653-catgirl-magic-fury-duel.json](./105653-catgirl-magic-fury-duel.json) |
 | Catgirls From My Sweet Dream | 215502 | [215502-catgirls-from-my-sweet-dream.json](./215502-catgirls-from-my-sweet-dream.json) |
 | Catgirls From My Sweet Dream: Neko Girls 18+ | 343613 | [343613-catgirls-from-my-sweet-dream-neko-girls-18.json](./343613-catgirls-from-my-sweet-dream-neko-girls-18.json) |
@@ -6153,6 +6155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobyl: Road of Death | 122380 | [122380-chernobyl-road-of-death.json](./122380-chernobyl-road-of-death.json) |
 | Chernobyl: Simulator | 415774 | [415774-chernobyl-simulator.json](./415774-chernobyl-simulator.json) |
 | Chernobyl: Terrorist Attack | 30844 | [30844-chernobyl-terrorist-attack.json](./30844-chernobyl-terrorist-attack.json) |
+| Chernobyl: The Untold Story | 122413 | [122413-chernobyl-the-untold-story.json](./122413-chernobyl-the-untold-story.json) |
 | Chernobylite 2: Exclusion Zone | 313433 | [313433-chernobylite-2-exclusion-zone.json](./313433-chernobylite-2-exclusion-zone.json) |
 | Chernobylite: Black Smoke Pack | 323250 | [323250-chernobylite-black-smoke-pack.json](./323250-chernobylite-black-smoke-pack.json) |
 | Chernobylite: Complete Edition | 323701 | [323701-chernobylite-complete-edition.json](./323701-chernobylite-complete-edition.json) |
@@ -6681,6 +6684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickie Catchers | 238667 | [238667-chickie-catchers.json](./238667-chickie-catchers.json) |
 | Chickip Dancers: Nori-nori Dance de Kokoro mo Odoru | 222365 | [222365-chickip-dancers-nori-nori-dance-de-kokoro-mo-odoru.json](./222365-chickip-dancers-nori-nori-dance-de-kokoro-mo-odoru.json) |
 | Chicklet | 365167 | [365167-chicklet.json](./365167-chicklet.json) |
+| Chicks and Tricks VR | 122578 | [122578-chicks-and-tricks-vr.json](./122578-chicks-and-tricks-vr.json) |
 | Chicktionary | 375202 | [375202-chicktionary.json](./375202-chicktionary.json) |
 | Chicku | 181397 | [181397-chicku.json](./181397-chicku.json) |
 | Chicku | 33515 | [33515-chicku.json](./33515-chicku.json) |
