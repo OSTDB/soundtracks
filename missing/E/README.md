@@ -1659,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EightBound Regal | 225790 | [225790-eightbound-regal.json](./225790-eightbound-regal.json) |
 | Eighteen | 295244 | [295244-eighteen.json](./295244-eighteen.json) |
 | Eighteen Gold | 258484 | [258484-eighteen-gold.json](./258484-eighteen-gold.json) |
+| Eightfold | 416497 | [416497-eightfold.json](./416497-eightfold.json) |
 | Eighth Day Kishimoto-kun | 349991 | [349991-eighth-day-kishimoto-kun.json](./349991-eighth-day-kishimoto-kun.json) |
 | Eighth Era | 329967 | [329967-eighth-era.json](./329967-eighth-era.json) |
 | Eighth Heaven | 411306 | [411306-eighth-heaven.json](./411306-eighth-heaven.json) |
@@ -2361,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Clash | 349741 | [349741-elf-clash.json](./349741-elf-clash.json) |
 | Elf Defense | 303995 | [303995-elf-defense.json](./303995-elf-defense.json) |
 | Elf Epizode One | 114356 | [114356-elf-epizode-one.json](./114356-elf-epizode-one.json) |
+| Elf Fight Club | 415796 | [415796-elf-fight-club.json](./415796-elf-fight-club.json) |
 | Elf Gets Pissed | 261183 | [261183-elf-gets-pissed.json](./261183-elf-gets-pissed.json) |
 | Elf Girl Pinball | 212891 | [212891-elf-girl-pinball.json](./212891-elf-girl-pinball.json) |
 | Elf Girls | 393045 | [393045-elf-girls.json](./393045-elf-girls.json) |
@@ -3267,6 +3269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Solitaire | 386133 | [386133-enchanted-solitaire.json](./386133-enchanted-solitaire.json) |
 | Enchanted Solitaire 2 | 386123 | [386123-enchanted-solitaire-2.json](./386123-enchanted-solitaire-2.json) |
 | Enchanted Stories: Mystic Woods - Collector's Edition | 356763 | [356763-enchanted-stories-mystic-woods-collectors-edition.json](./356763-enchanted-stories-mystic-woods-collectors-edition.json) |
+| Enchanted Stories: Pawisoned Kingdom | 416536 | [416536-enchanted-stories-pawisoned-kingdom.json](./416536-enchanted-stories-pawisoned-kingdom.json) |
 | Enchanted Stories: Pawisoned Kingdom - Collector's Edition | 374901 | [374901-enchanted-stories-pawisoned-kingdom-collectors-edition.json](./374901-enchanted-stories-pawisoned-kingdom-collectors-edition.json) |
 | Enchanted Trees Escape | 315669 | [315669-enchanted-trees-escape.json](./315669-enchanted-trees-escape.json) |
 | Enchanted Valley: Fantasy Slide Puzzle | 365900 | [365900-enchanted-valley-fantasy-slide-puzzle.json](./365900-enchanted-valley-fantasy-slide-puzzle.json) |
@@ -4769,6 +4772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Evolution | 179180 | [179180-escape-evolution.json](./179180-escape-evolution.json) |
 | Escape Expert | 81116 | [81116-escape-expert.json](./81116-escape-expert.json) |
 | Escape Factory | 317983 | [317983-escape-factory.json](./317983-escape-factory.json) |
+| Escape Failed | 414721 | [414721-escape-failed.json](./414721-escape-failed.json) |
 | Escape Fantasy | 55777 | [55777-escape-fantasy.json](./55777-escape-fantasy.json) |
 | Escape Fear 2: Hide And Seek Horror | 308637 | [308637-escape-fear-2-hide-and-seek-horror.json](./308637-escape-fear-2-hide-and-seek-horror.json) |
 | Escape First | 97243 | [97243-escape-first.json](./97243-escape-first.json) |
@@ -7552,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EXS2: EthnologySister2 - Structuralism of Kinship System | 237279 | [237279-exs2-ethnologysister2-structuralism-of-kinship-system.json](./237279-exs2-ethnologysister2-structuralism-of-kinship-system.json) |
 | Exsanguinate | 185961 | [185961-exsanguinate.json](./185961-exsanguinate.json) |
 | Exsanguination | 340045 | [340045-exsanguination.json](./340045-exsanguination.json) |
+| Exspelled | 414723 | [414723-exspelled.json](./414723-exspelled.json) |
 | Exstetra | 6769 | [6769-exstetra.json](./6769-exstetra.json) |
 | Exsynchronos | 148297 | [148297-exsynchronos.json](./148297-exsynchronos.json) |
 | Exsys | 126230 | [126230-exsys.json](./126230-exsys.json) |
