@@ -4402,6 +4402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Speed | 326750 | [326750-age-of-speed.json](./326750-age-of-speed.json) |
 | Age of Speed 2 | 326751 | [326751-age-of-speed-2.json](./326751-age-of-speed-2.json) |
 | Age of Speed Underworld | 326752 | [326752-age-of-speed-underworld.json](./326752-age-of-speed-underworld.json) |
+| Age of Steel: Recharge | 16134 | [16134-age-of-steel-recharge.json](./16134-age-of-steel-recharge.json) |
 | Age of Storm: Kingdom Under Fire Online | 62465 | [62465-age-of-storm-kingdom-under-fire-online.json](./62465-age-of-storm-kingdom-under-fire-online.json) |
 | Age of Survival | 35302 | [35302-age-of-survival.json](./35302-age-of-survival.json) |
 | Age of Talisman | 26954 | [26954-age-of-talisman.json](./26954-age-of-talisman.json) |
@@ -4481,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Brain: Tricky Puzzles | 293079 | [293079-agent-brain-tricky-puzzles.json](./293079-agent-brain-tricky-puzzles.json) |
 | Agent Dark | 409693 | [409693-agent-dark.json](./409693-agent-dark.json) |
 | Agent Dunoz | 333433 | [333433-agent-dunoz.json](./333433-agent-dunoz.json) |
+| Agent Emerson | 127618 | [127618-agent-emerson.json](./127618-agent-emerson.json) |
 | Agent Fall | 324981 | [324981-agent-fall.json](./324981-agent-fall.json) |
 | Agent Forest | 357798 | [357798-agent-forest.json](./357798-agent-forest.json) |
 | Agent from C.O.G.O.O. | 234598 | [234598-agent-from-c-o-g-o-o.json](./234598-agent-from-c-o-g-o-o.json) |
@@ -7919,6 +7921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Army 3 | 15798 | [15798-americas-army-3.json](./15798-americas-army-3.json) |
 | America's Army: Operations | 137508 | [137508-americas-army-operations.json](./137508-americas-army-operations.json) |
 | America's Army: Proving Grounds | 7843 | [7843-americas-army-proving-grounds.json](./7843-americas-army-proving-grounds.json) |
+| America's Army: Rise of a Soldier | 5722 | [5722-americas-army-rise-of-a-soldier.json](./5722-americas-army-rise-of-a-soldier.json) |
 | America's Army: True Soldiers | 5482 | [5482-americas-army-true-soldiers.json](./5482-americas-army-true-soldiers.json) |
 | America's Greatest Arcade Hits 3D | 146195 | [146195-americas-greatest-arcade-hits-3d.json](./146195-americas-greatest-arcade-hits-3d.json) |
 | America's Greatest Game Shows: Wheel of Fortune & Jeopardy! | 112182 | [112182-americas-greatest-game-shows-wheel-of-fortune-and-jeopardy.json](./112182-americas-greatest-game-shows-wheel-of-fortune-and-jeopardy.json) |
@@ -8108,6 +8111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMF Bowling Pinbusters! | 4672 | [4672-amf-bowling-pinbusters.json](./4672-amf-bowling-pinbusters.json) |
 | AMF Bowling World Lanes | 4673 | [4673-amf-bowling-world-lanes.json](./4673-amf-bowling-world-lanes.json) |
 | AMF Pro Bowl 3D | 93999 | [93999-amf-pro-bowl-3d.json](./93999-amf-pro-bowl-3d.json) |
+| AMF Xtreme Bowling 2006 | 5724 | [5724-amf-xtreme-bowling-2006.json](./5724-amf-xtreme-bowling-2006.json) |
 | AMFM | 315622 | [315622-amfm.json](./315622-amfm.json) |
 | AMG | 153143 | [153143-amg.json](./153143-amg.json) |
 | AMG2 | 208206 | [208206-amg2.json](./208206-amg2.json) |
@@ -8714,6 +8718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancings: The First Tournament | 283902 | [283902-ancings-the-first-tournament.json](./283902-ancings-the-first-tournament.json) |
 | Ancipital | 13801 | [13801-ancipital.json](./13801-ancipital.json) |
 | Ancra | 178235 | [178235-ancra.json](./178235-ancra.json) |
+| AND 1 Streetball | 5726 | [5726-and-1-streetball.json](./5726-and-1-streetball.json) |
 | And All Is Well | 184727 | [184727-and-all-is-well.json](./184727-and-all-is-well.json) |
 | And All That Could Have Been | 271055 | [271055-and-all-that-could-have-been.json](./271055-and-all-that-could-have-been.json) |
 | And All Would Cry Beware! | 117627 | [117627-and-all-would-cry-beware.json](./117627-and-all-would-cry-beware.json) |
@@ -10462,6 +10467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anty | 47546 | [47546-anty.json](./47546-anty.json) |
 | Antz | 94622 | [94622-antz.json](./94622-antz.json) |
 | Antz Extreme Racing | 248605 | [248605-antz-extreme-racing.json](./248605-antz-extreme-racing.json) |
+| Antz Extreme Racing | 5727 | [5727-antz-extreme-racing.json](./5727-antz-extreme-racing.json) |
 | Antz Racing | 71725 | [71725-antz-racing.json](./71725-antz-racing.json) |
 | Antz World Sportz | 50059 | [50059-antz-world-sportz.json](./50059-antz-world-sportz.json) |
 | Antz: Panic in the Anthill! | 371232 | [371232-antz-panic-in-the-anthill.json](./371232-antz-panic-in-the-anthill.json) |
@@ -11989,8 +11995,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Famiglia: Festa Regalo | 194276 | [194276-arcana-famiglia-festa-regalo.json](./194276-arcana-famiglia-festa-regalo.json) |
 | Arcana Famiglia: La storia della Arcana Famiglia - Ancora | 218375 | [218375-arcana-famiglia-la-storia-della-arcana-famiglia-ancora.json](./218375-arcana-famiglia-la-storia-della-arcana-famiglia-ancora.json) |
 | Arcana Famiglia: Vascello Phantasma no Majutsushi | 64668 | [64668-arcana-famiglia-vascello-phantasma-no-majutsushi.json](./64668-arcana-famiglia-vascello-phantasma-no-majutsushi.json) |
+| Arcana Heart | 15864 | [15864-arcana-heart.json](./15864-arcana-heart.json) |
 | Arcana Heart | 243694 | [243694-arcana-heart.json](./243694-arcana-heart.json) |
 | Arcana Heart 2 | 15865 | [15865-arcana-heart-2.json](./15865-arcana-heart-2.json) |
+| Arcana Heart 3 | 5490 | [5490-arcana-heart-3.json](./5490-arcana-heart-3.json) |
 | Arcana Heart 3 Lovemax Sixstars!!!!!! Xtend | 146590 | [146590-arcana-heart-3-lovemax-sixstars-xtend.json](./146590-arcana-heart-3-lovemax-sixstars-xtend.json) |
 | Arcana Heart Full! | 234824 | [234824-arcana-heart-full.json](./234824-arcana-heart-full.json) |
 | Arcana Noir | 261833 | [261833-arcana-noir.json](./261833-arcana-noir.json) |
@@ -12565,6 +12573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Titans | 94789 | [94789-arena-titans.json](./94789-arena-titans.json) |
 | Arena Trainer | 107036 | [107036-arena-trainer.json](./107036-arena-trainer.json) |
 | Arena Warrior | 325022 | [325022-arena-warrior.json](./325022-arena-warrior.json) |
+| Arena Wars | 15388 | [15388-arena-wars.json](./15388-arena-wars.json) |
 | Arena Wars 2 | 15289 | [15289-arena-wars-2.json](./15289-arena-wars-2.json) |
 | Arena Wars Reloaded | 73493 | [73493-arena-wars-reloaded.json](./73493-arena-wars-reloaded.json) |
 | Arena Worker | 292780 | [292780-arena-worker.json](./292780-arena-worker.json) |
@@ -14380,6 +14389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Ops | 59734 | [59734-assault-ops.json](./59734-assault-ops.json) |
 | Assault Ops: Warzone | 59741 | [59741-assault-ops-warzone.json](./59741-assault-ops-warzone.json) |
 | Assault Rei Play | 109004 | [109004-assault-rei-play.json](./109004-assault-rei-play.json) |
+| Assault Rigs | 15476 | [15476-assault-rigs.json](./15476-assault-rigs.json) |
 | Assault Sector | 245875 | [245875-assault-sector.json](./245875-assault-sector.json) |
 | Assault Shell | 144644 | [144644-assault-shell.json](./144644-assault-shell.json) |
 | Assault Spy | 86514 | [86514-assault-spy.json](./86514-assault-spy.json) |
@@ -15536,6 +15546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis no Puzzle | 230250 | [230250-atlantis-no-puzzle.json](./230250-atlantis-no-puzzle.json) |
 | Atlantis Odyssey | 320345 | [320345-atlantis-odyssey.json](./320345-atlantis-odyssey.json) |
 | Atlantis Quest | 73744 | [73744-atlantis-quest.json](./73744-atlantis-quest.json) |
+| Atlantis Sky Patrol | 16182 | [16182-atlantis-sky-patrol.json](./16182-atlantis-sky-patrol.json) |
 | Atlantis VR | 75328 | [75328-atlantis-vr.json](./75328-atlantis-vr.json) |
 | Atlantis-6 | 147472 | [147472-atlantis-6.json](./147472-atlantis-6.json) |
 | Atlantis: Coral Quest | 205895 | [205895-atlantis-coral-quest.json](./205895-atlantis-coral-quest.json) |
