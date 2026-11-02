@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy At War | 292976 | [292976-galaxy-at-war.json](./292976-galaxy-at-war.json) |
 | Galaxy at War Online | 39173 | [39173-galaxy-at-war-online.json](./39173-galaxy-at-war-online.json) |
 | Galaxy Attack | 14088 | [14088-galaxy-attack.json](./14088-galaxy-attack.json) |
+| Galaxy Attack: Space Shooter | 89141 | [89141-galaxy-attack-space-shooter.json](./89141-galaxy-attack-space-shooter.json) |
 | Galaxy Ball | 96882 | [96882-galaxy-ball.json](./96882-galaxy-ball.json) |
 | Galaxy Ball Defender | 96886 | [96886-galaxy-ball-defender.json](./96886-galaxy-ball-defender.json) |
 | Galaxy Ballerina | 293415 | [293415-galaxy-ballerina.json](./293415-galaxy-ballerina.json) |
@@ -7161,6 +7162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grainhold | 390256 | [390256-grainhold.json](./390256-grainhold.json) |
 | Grainwind Incident 77 | 229358 | [229358-grainwind-incident-77.json](./229358-grainwind-incident-77.json) |
 | Gral | 101295 | [101295-gral.json](./101295-gral.json) |
+| gRally | 95021 | [95021-grally.json](./95021-grally.json) |
 | Gramik Paint Roller | 253223 | [253223-gramik-paint-roller.json](./253223-gramik-paint-roller.json) |
 | Gramik Paint Roller | 254129 | [254129-gramik-paint-roller.json](./254129-gramik-paint-roller.json) |
 | Grammar Fun 2nd Grade | 89081 | [89081-grammar-fun-2nd-grade.json](./89081-grammar-fun-2nd-grade.json) |
