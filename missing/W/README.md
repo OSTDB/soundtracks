@@ -7257,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words With Foes: Quest for the Lexinomicon | 182843 | [182843-words-with-foes-quest-for-the-lexinomicon.json](./182843-words-with-foes-quest-for-the-lexinomicon.json) |
 | Words With Freds | 192956 | [192956-words-with-freds.json](./192956-words-with-freds.json) |
 | Words With Friends | 18753 | [18753-words-with-friends.json](./18753-words-with-friends.json) |
+| Words with Friends 2 | 83089 | [83089-words-with-friends-2.json](./83089-words-with-friends-2.json) |
 | Words With Friends Classic | 87350 | [87350-words-with-friends-classic.json](./87350-words-with-friends-classic.json) |
 | Words With Friends Crosswords | 233405 | [233405-words-with-friends-crosswords.json](./233405-words-with-friends-crosswords.json) |
 | Words with Gizmos | 384679 | [384679-words-with-gizmos.json](./384679-words-with-gizmos.json) |
@@ -7434,6 +7435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Conqueror 1945 | 96617 | [96617-world-conqueror-1945.json](./96617-world-conqueror-1945.json) |
 | World Conqueror 2 | 88751 | [88751-world-conqueror-2.json](./88751-world-conqueror-2.json) |
 | World Conqueror 3D | 85497 | [85497-world-conqueror-3d.json](./85497-world-conqueror-3d.json) |
+| World Conqueror 4 | 86872 | [86872-world-conqueror-4.json](./86872-world-conqueror-4.json) |
 | World Conqueror X | 89152 | [89152-world-conqueror-x.json](./89152-world-conqueror-x.json) |
 | World Court Tennis | 37732 | [37732-world-court-tennis.json](./37732-world-court-tennis.json) |
 | World Craft Epic Dream Island | 86953 | [86953-world-craft-epic-dream-island.json](./86953-world-craft-epic-dream-island.json) |
@@ -7781,6 +7783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warships: Admiral Graf Spee Pack | 225866 | [225866-world-of-warships-admiral-graf-spee-pack.json](./225866-world-of-warships-admiral-graf-spee-pack.json) |
 | World of Warships: Anshan Pack | 155372 | [155372-world-of-warships-anshan-pack.json](./155372-world-of-warships-anshan-pack.json) |
 | World of Warships: Aurora Steam Edition | 196120 | [196120-world-of-warships-aurora-steam-edition.json](./196120-world-of-warships-aurora-steam-edition.json) |
+| World of Warships: Blitz | 86970 | [86970-world-of-warships-blitz.json](./86970-world-of-warships-blitz.json) |
 | World of Warships: DLC to Celebrate the Year of the Dragon | 289326 | [289326-world-of-warships-dlc-to-celebrate-the-year-of-the-dragon.json](./289326-world-of-warships-dlc-to-celebrate-the-year-of-the-dragon.json) |
 | World of Warships: Godzilla - Apex Monster | 147042 | [147042-world-of-warships-godzilla-apex-monster.json](./147042-world-of-warships-godzilla-apex-monster.json) |
 | World of Warships: Huanghe Pack | 156113 | [156113-world-of-warships-huanghe-pack.json](./156113-world-of-warships-huanghe-pack.json) |
