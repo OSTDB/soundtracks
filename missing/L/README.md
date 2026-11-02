@@ -8677,6 +8677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucha Underground | 257260 | [257260-lucha-underground.json](./257260-lucha-underground.json) |
 | Luci RPG | 228678 | [228678-luci-rpg.json](./228678-luci-rpg.json) |
 | Lucia and the Possessed World | 266988 | [266988-lucia-and-the-possessed-world.json](./266988-lucia-and-the-possessed-world.json) |
+| Lucia Journey | 405831 | [405831-lucia-journey.json](./405831-lucia-journey.json) |
 | Lucia no Musou | 350918 | [350918-lucia-no-musou.json](./350918-lucia-no-musou.json) |
 | Lucian Bee's Evil Violet | 219140 | [219140-lucian-bees-evil-violet.json](./219140-lucian-bees-evil-violet.json) |
 | Lucian Bee's Justice Yellow | 219139 | [219139-lucian-bees-justice-yellow.json](./219139-lucian-bees-justice-yellow.json) |
