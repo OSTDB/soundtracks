@@ -2918,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headlines from the Deep | 177312 | [177312-headlines-from-the-deep.json](./177312-headlines-from-the-deep.json) |
 | Headlong Hunt | 152226 | [152226-headlong-hunt.json](./152226-headlong-hunt.json) |
 | Headlong Racing | 10396 | [10396-headlong-racing.json](./10396-headlong-racing.json) |
+| Headmaster | 24975 | [24975-headmaster.json](./24975-headmaster.json) |
 | Headmaster Disaster | 279788 | [279788-headmaster-disaster.json](./279788-headmaster-disaster.json) |
 | Headmaster: Extra Time Edition | 173111 | [173111-headmaster-extra-time-edition.json](./173111-headmaster-extra-time-edition.json) |
 | Headmaster: The Lost Lessons | 174186 | [174186-headmaster-the-lost-lessons.json](./174186-headmaster-the-lost-lessons.json) |
@@ -6842,6 +6843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Seek: Story of Dorothy | 151578 | [151578-hide-and-seek-story-of-dorothy.json](./151578-hide-and-seek-story-of-dorothy.json) |
 | Hide and Seek: Toilet Monster | 273949 | [273949-hide-and-seek-toilet-monster.json](./273949-hide-and-seek-toilet-monster.json) |
 | Hide and Shoot | 160202 | [160202-hide-and-shoot.json](./160202-hide-and-shoot.json) |
+| Hide and Shriek | 25341 | [25341-hide-and-shriek.json](./25341-hide-and-shriek.json) |
 | Hide and Sink | 410928 | [410928-hide-and-sink.json](./410928-hide-and-sink.json) |
 | Hide for Cat: All for the Best | 269993 | [269993-hide-for-cat-all-for-the-best.json](./269993-hide-for-cat-all-for-the-best.json) |
 | Hide In Dummy | 335233 | [335233-hide-in-dummy.json](./335233-hide-in-dummy.json) |
@@ -10211,6 +10213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Terror | 338328 | [338328-house-of-terror.json](./338328-house-of-terror.json) |
 | House of Terror VR | 23336 | [23336-house-of-terror-vr.json](./23336-house-of-terror-vr.json) |
 | House of the Dead 2 & 3 Return | 200001 | [200001-house-of-the-dead-2-and-3-return.json](./200001-house-of-the-dead-2-and-3-return.json) |
+| House of the Dying Sun | 25587 | [25587-house-of-the-dying-sun.json](./25587-house-of-the-dying-sun.json) |
 | House of the Golden Mask | 378175 | [378175-house-of-the-golden-mask.json](./378175-house-of-the-golden-mask.json) |
 | House of the Soul | 234198 | [234198-house-of-the-soul.json](./234198-house-of-the-soul.json) |
 | House of Torment | 308177 | [308177-house-of-torment.json](./308177-house-of-torment.json) |
