@@ -8006,6 +8006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Assassin | 267806 | [267806-dice-assassin.json](./267806-dice-assassin.json) |
 | Dice Battle | 279007 | [279007-dice-battle.json](./279007-dice-battle.json) |
 | Dice Battle: 3d Board Game | 348395 | [348395-dice-battle-3d-board-game.json](./348395-dice-battle-3d-board-game.json) |
+| Dice Beneath | 425839 | [425839-dice-beneath.json](./425839-dice-beneath.json) |
 | Dice Birth Road | 290475 | [290475-dice-birth-road.json](./290475-dice-birth-road.json) |
 | Dice Blaze | 288836 | [288836-dice-blaze.json](./288836-dice-blaze.json) |
 | Dice Block | 284170 | [284170-dice-block.json](./284170-dice-block.json) |
@@ -13549,6 +13550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Football 2024 | 270031 | [270031-draft-day-sports-pro-football-2024.json](./270031-draft-day-sports-pro-football-2024.json) |
 | Draft Day Sports: Pro Football 26 | 375899 | [375899-draft-day-sports-pro-football-26.json](./375899-draft-day-sports-pro-football-26.json) |
 | Draft Day Sports: Pro Golf | 105388 | [105388-draft-day-sports-pro-golf.json](./105388-draft-day-sports-pro-golf.json) |
+| Draft Eleven | 425824 | [425824-draft-eleven.json](./425824-draft-eleven.json) |
 | Draft of Darkness | 137247 | [137247-draft-of-darkness.json](./137247-draft-of-darkness.json) |
 | Draft Showdown | 417330 | [417330-draft-showdown.json](./417330-draft-showdown.json) |
 | Draft: In the Woods | 240611 | [240611-draft-in-the-woods.json](./240611-draft-in-the-woods.json) |
