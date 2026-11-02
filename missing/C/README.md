@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain America in: The Doom Tube of Dr. Megalomann | 13462 | [13462-captain-america-in-the-doom-tube-of-dr-megalomann.json](./13462-captain-america-in-the-doom-tube-of-dr-megalomann.json) |
 | Captain America: Brave New World | 301539 | [301539-captain-america-brave-new-world.json](./301539-captain-america-brave-new-world.json) |
 | Captain America: Shield of Justice | 65852 | [65852-captain-america-shield-of-justice.json](./65852-captain-america-shield-of-justice.json) |
+| Captain America: Super Soldier | 248739 | [248739-captain-america-super-soldier.json](./248739-captain-america-super-soldier.json) |
 | Captain America: Super Soldier | 248740 | [248740-captain-america-super-soldier.json](./248740-captain-america-super-soldier.json) |
 | Captain America: Super Soldier | 4745 | [4745-captain-america-super-soldier.json](./4745-captain-america-super-soldier.json) |
 | Captain Backwater | 54870 | [54870-captain-backwater.json](./54870-captain-backwater.json) |
@@ -15203,6 +15204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashing Not Optional | 296726 | [296726-crashing-not-optional.json](./296726-crashing-not-optional.json) |
 | Crashing Race | 172598 | [172598-crashing-race.json](./172598-crashing-race.json) |
 | Crashland | 144349 | [144349-crashland.json](./144349-crashland.json) |
+| Crashlands 2 | 252355 | [252355-crashlands-2.json](./252355-crashlands-2.json) |
 | Crashletics | 242217 | [242217-crashletics.json](./242217-crashletics.json) |
 | CrashMetal | 174683 | [174683-crashmetal.json](./174683-crashmetal.json) |
 | CrashMetal: Cyberpunk | 144661 | [144661-crashmetal-cyberpunk.json](./144661-crashmetal-cyberpunk.json) |
@@ -16098,6 +16100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
 | CrimeCraft: GangWars | 15005 | [15005-crimecraft-gangwars.json](./15005-crimecraft-gangwars.json) |
 | CrimeCrew | 23977 | [23977-crimecrew.json](./23977-crimecrew.json) |
+| Crimen: Mercenary Tales | 251251 | [251251-crimen-mercenary-tales.json](./251251-crimen-mercenary-tales.json) |
 | Crimerunner | 217146 | [217146-crimerunner.json](./217146-crimerunner.json) |
 | Crimes Against Slimes | 322649 | [322649-crimes-against-slimes.json](./322649-crimes-against-slimes.json) |
 | Crimes of Passion | 313795 | [313795-crimes-of-passion.json](./313795-crimes-of-passion.json) |
@@ -16520,6 +16523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Set Infinity | 74497 | [74497-cross-set-infinity.json](./74497-cross-set-infinity.json) |
 | Cross Shoot | 314221 | [314221-cross-shoot.json](./314221-cross-shoot.json) |
 | Cross Soul | 132453 | [132453-cross-soul.json](./132453-cross-soul.json) |
+| Cross Tails | 252437 | [252437-cross-tails.json](./252437-cross-tails.json) |
 | Cross Tantei Monogatari: Motsureta Nanatsu no Labyrinth | 122982 | [122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json](./122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json) |
 | Cross the Ages: Trading Card Game | 217807 | [217807-cross-the-ages-trading-card-game.json](./217807-cross-the-ages-trading-card-game.json) |
 | Cross The Boundaries | 334182 | [334182-cross-the-boundaries.json](./334182-cross-the-boundaries.json) |
@@ -16751,6 +16755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossy Zombie | 213388 | [213388-crossy-zombie.json](./213388-crossy-zombie.json) |
 | Crouching Panda, Hidden Moose | 343584 | [343584-crouching-panda-hidden-moose.json](./343584-crouching-panda-hidden-moose.json) |
 | Crouching Pony Hidden Dragon | 17173 | [17173-crouching-pony-hidden-dragon.json](./17173-crouching-pony-hidden-dragon.json) |
+| Crouching Tiger, Hidden Dragon | 248616 | [248616-crouching-tiger-hidden-dragon.json](./248616-crouching-tiger-hidden-dragon.json) |
 | Crouching Tiger, Hidden Dragon | 5794 | [5794-crouching-tiger-hidden-dragon.json](./5794-crouching-tiger-hidden-dragon.json) |
 | Crow | 17848 | [17848-crow.json](./17848-crow.json) |
 | Crow Boss | 351271 | [351271-crow-boss.json](./351271-crow-boss.json) |
@@ -18816,6 +18821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Chess | 208844 | [208844-cyber-chess.json](./208844-cyber-chess.json) |
 | Cyber Chicken: Extreme Edition | 52847 | [52847-cyber-chicken-extreme-edition.json](./52847-cyber-chicken-extreme-edition.json) |
 | Cyber Circuit | 60840 | [60840-cyber-circuit.json](./60840-cyber-circuit.json) |
+| Cyber Citizen Shockman | 249236 | [249236-cyber-citizen-shockman.json](./249236-cyber-citizen-shockman.json) |
 | Cyber Citizen Shockman 2: A New Menace | 266339 | [266339-cyber-citizen-shockman-2-a-new-menace.json](./266339-cyber-citizen-shockman-2-a-new-menace.json) |
 | Cyber Citizen Shockman 3: The Princess From Another World | 300374 | [300374-cyber-citizen-shockman-3-the-princess-from-another-world.json](./300374-cyber-citizen-shockman-3-the-princess-from-another-world.json) |
 | Cyber Citizen Shockman Zero | 306049 | [306049-cyber-citizen-shockman-zero.json](./306049-cyber-citizen-shockman-zero.json) |
