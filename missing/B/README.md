@@ -904,7 +904,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -15065,6 +15064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brotato: Primal Dread | 397816 | [397816-brotato-primal-dread.json](./397816-brotato-primal-dread.json) |
 | Brotes | 306792 | [306792-brotes.json](./306792-brotes.json) |
 | Broth Bounty | 349099 | [349099-broth-bounty.json](./349099-broth-bounty.json) |
+| Brothel Master | 425207 | [425207-brothel-master.json](./425207-brothel-master.json) |
 | Brothel of Darkness | 345392 | [345392-brothel-of-darkness.json](./345392-brothel-of-darkness.json) |
 | Brothel Secrets | 280329 | [280329-brothel-secrets.json](./280329-brothel-secrets.json) |
 | Brothel Simulator | 237452 | [237452-brothel-simulator.json](./237452-brothel-simulator.json) |
