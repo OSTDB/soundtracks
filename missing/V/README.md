@@ -2920,12 +2920,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivitter: Additional Mini-game - "Vivid ViviCure" | 308773 | [308773-vivitter-additional-mini-game-vivid-vivicure.json](./308773-vivitter-additional-mini-game-vivid-vivicure.json) |
 | ViVO | 121409 | [121409-vivo.json](./121409-vivo.json) |
 | Vixen | 46741 | [46741-vixen.json](./46741-vixen.json) |
+| Vixen 357 | 425864 | [425864-vixen-357.json](./425864-vixen-357.json) |
 | Vixen 357 | 4452 | [4452-vixen-357.json](./4452-vixen-357.json) |
 | Vixens From outer Space | 106391 | [106391-vixens-from-outer-space.json](./106391-vixens-from-outer-space.json) |
 | Viy | 167562 | [167562-viy.json](./167562-viy.json) |
 | Viy: Retold Story | 190142 | [190142-viy-retold-story.json](./190142-viy-retold-story.json) |
 | Viz: The Soft Floppy One | 67993 | [67993-viz-the-soft-floppy-one.json](./67993-viz-the-soft-floppy-one.json) |
 | Vizati | 53156 | [53156-vizati.json](./53156-vizati.json) |
+| Vizier | 425866 | [425866-vizier.json](./425866-vizier.json) |
 | Vizul | 301951 | [301951-vizul.json](./301951-vizul.json) |
 | Vizul 1: Empatia - Adventure in Nice Colors | 391232 | [391232-vizul-1-empatia-adventure-in-nice-colors.json](./391232-vizul-1-empatia-adventure-in-nice-colors.json) |
 | Vizzle | 159644 | [159644-vizzle.json](./159644-vizzle.json) |
@@ -3499,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxie Tactics | 178092 | [178092-voxie-tactics.json](./178092-voxie-tactics.json) |
 | Voxile | 272585 | [272585-voxile.json](./272585-voxile.json) |
 | Voxiom.io | 139381 | [139381-voxiom-io.json](./139381-voxiom-io.json) |
+| Voxmons | 425869 | [425869-voxmons.json](./425869-voxmons.json) |
 | Voxorp | 178628 | [178628-voxorp.json](./178628-voxorp.json) |
 | Voxrush | 211138 | [211138-voxrush.json](./211138-voxrush.json) |
 | VoxStory | 137887 | [137887-voxstory.json](./137887-voxstory.json) |
