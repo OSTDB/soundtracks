@@ -1829,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Online: War Shooting Simulator | 240094 | [240094-tank-online-war-shooting-simulator.json](./240094-tank-online-war-shooting-simulator.json) |
 | Tank Onslaught | 147811 | [147811-tank-onslaught.json](./147811-tank-onslaught.json) |
 | Tank Operations: Diary of the War | 342845 | [342845-tank-operations-diary-of-the-war.json](./342845-tank-operations-diary-of-the-war.json) |
+| Tank Operations: European Campaign - Remastered | 107717 | [107717-tank-operations-european-campaign-remastered.json](./107717-tank-operations-european-campaign-remastered.json) |
 | Tank POV | 402526 | [402526-tank-pov.json](./402526-tank-pov.json) |
 | Tank Racer | 11779 | [11779-tank-racer.json](./11779-tank-racer.json) |
 | Tank Rampage | 168116 | [168116-tank-rampage.json](./168116-tank-rampage.json) |
@@ -4522,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Tube Titans: Taster Trial | 157062 | [157062-test-tube-titans-taster-trial.json](./157062-test-tube-titans-taster-trial.json) |
 | Test your Atari Acumen | 331163 | [331163-test-your-atari-acumen.json](./331163-test-your-atari-acumen.json) |
 | Test Your Knowledge: Cats | 230120 | [230120-test-your-knowledge-cats.json](./230120-test-your-knowledge-cats.json) |
+| Test your knowledge: Dogs | 107828 | [107828-test-your-knowledge-dogs.json](./107828-test-your-knowledge-dogs.json) |
 | Test Your Mario Memory | 231604 | [231604-test-your-mario-memory.json](./231604-test-your-mario-memory.json) |
 | Test Your Math | 27731 | [27731-test-your-math.json](./27731-test-your-math.json) |
 | Test Your Mind | 85432 | [85432-test-your-mind.json](./85432-test-your-mind.json) |
@@ -7016,6 +7018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Comfort Zone | 177417 | [177417-the-comfort-zone.json](./177417-the-comfort-zone.json) |
 | The Commander of Steel | 262063 | [262063-the-commander-of-steel.json](./262063-the-commander-of-steel.json) |
 | The Commission 1920 | 143304 | [143304-the-commission-1920.json](./143304-the-commission-1920.json) |
+| The Commission: Organized Crime Grand Strategy | 107635 | [107635-the-commission-organized-crime-grand-strategy.json](./107635-the-commission-organized-crime-grand-strategy.json) |
 | The Communist Dogifesto | 82345 | [82345-the-communist-dogifesto.json](./82345-the-communist-dogifesto.json) |
 | The Communist Manifesto | 345427 | [345427-the-communist-manifesto.json](./345427-the-communist-manifesto.json) |
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
@@ -7106,6 +7109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Corpse Crusade | 207711 | [207711-the-corpse-crusade.json](./207711-the-corpse-crusade.json) |
 | The Corral | 271787 | [271787-the-corral.json](./271787-the-corral.json) |
 | The Corridor | 148443 | [148443-the-corridor.json](./148443-the-corridor.json) |
+| The Corridor: On Behalf of the Dead | 107587 | [107587-the-corridor-on-behalf-of-the-dead.json](./107587-the-corridor-on-behalf-of-the-dead.json) |
 | The Corridors | 287913 | [287913-the-corridors.json](./287913-the-corridors.json) |
 | The Corrupted Turnabout | 308529 | [308529-the-corrupted-turnabout.json](./308529-the-corrupted-turnabout.json) |
 | The Corruption | 333148 | [333148-the-corruption.json](./333148-the-corruption.json) |
@@ -12642,6 +12646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magician VR: The Cursed Wand | 406169 | [406169-the-magician-vr-the-cursed-wand.json](./406169-the-magician-vr-the-cursed-wand.json) |
 | The Magician's Academy | 279087 | [279087-the-magicians-academy.json](./279087-the-magicians-academy.json) |
 | The Magician's Ball | 231805 | [231805-the-magicians-ball.json](./231805-the-magicians-ball.json) |
+| The Magician's Burden | 107895 | [107895-the-magicians-burden.json](./107895-the-magicians-burden.json) |
 | The Magician's Challenge | 350368 | [350368-the-magicians-challenge.json](./350368-the-magicians-challenge.json) |
 | The Magician's Curse | 12285 | [12285-the-magicians-curse.json](./12285-the-magicians-curse.json) |
 | The Magician's Handbook II: BlackLore | 53759 | [53759-the-magicians-handbook-ii-blacklore.json](./53759-the-magicians-handbook-ii-blacklore.json) |
