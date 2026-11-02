@@ -6630,6 +6630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evidence: The Last Report | 71461 | [71461-evidence-the-last-report.json](./71461-evidence-the-last-report.json) |
 | Evidence: The Last Ritual | 20599 | [20599-evidence-the-last-ritual.json](./20599-evidence-the-last-ritual.json) |
 | Evidence01 | 389551 | [389551-evidence01.json](./389551-evidence01.json) |
+| Evidentia | 424623 | [424623-evidentia.json](./424623-evidentia.json) |
 | Evie | 296805 | [296805-evie.json](./296805-evie.json) |
 | Evie | 84017 | [84017-evie.json](./84017-evie.json) |
 | Evie Mal Games | 102776 | [102776-evie-mal-games.json](./102776-evie-mal-games.json) |
