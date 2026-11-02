@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops | 135299 | [135299-call-of-duty-black-ops.json](./135299-call-of-duty-black-ops.json) |
 | Call of Duty: Black Ops | 343819 | [343819-call-of-duty-black-ops.json](./343819-call-of-duty-black-ops.json) |
 | Call of Duty: Black Ops - Annihilation | 22636 | [22636-call-of-duty-black-ops-annihilation.json](./22636-call-of-duty-black-ops-annihilation.json) |
+| Call of Duty: Black Ops - Escalation | 22945 | [22945-call-of-duty-black-ops-escalation.json](./22945-call-of-duty-black-ops-escalation.json) |
 | Call of Duty: Black Ops - Gold Edition | 118925 | [118925-call-of-duty-black-ops-gold-edition.json](./118925-call-of-duty-black-ops-gold-edition.json) |
 | Call of Duty: Black Ops - Hardened Edition | 47476 | [47476-call-of-duty-black-ops-hardened-edition.json](./47476-call-of-duty-black-ops-hardened-edition.json) |
 | Call of Duty: Black Ops - Prestige Edition | 102079 | [102079-call-of-duty-black-ops-prestige-edition.json](./102079-call-of-duty-black-ops-prestige-edition.json) |
@@ -2702,6 +2703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Battles WW2: Admiral of the Fleet | 171481 | [171481-carrier-battles-ww2-admiral-of-the-fleet.json](./171481-carrier-battles-ww2-admiral-of-the-fleet.json) |
 | Carrier Command | 11992 | [11992-carrier-command.json](./11992-carrier-command.json) |
 | Carrier Command 2 VR | 159147 | [159147-carrier-command-2-vr.json](./159147-carrier-command-2-vr.json) |
+| Carrier Command: Gaea Mission | 6934 | [6934-carrier-command-gaea-mission.json](./6934-carrier-command-gaea-mission.json) |
 | Carrier Cuties: Pets in Mechs! | 403371 | [403371-carrier-cuties-pets-in-mechs.json](./403371-carrier-cuties-pets-in-mechs.json) |
 | Carrier Deck | 40566 | [40566-carrier-deck.json](./40566-carrier-deck.json) |
 | Carrier Joe 2 | 207845 | [207845-carrier-joe-2.json](./207845-carrier-joe-2.json) |
@@ -9000,6 +9002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of the Monsters | 33804 | [33804-clash-of-the-monsters.json](./33804-clash-of-the-monsters.json) |
 | Clash of the Olympians | 384233 | [384233-clash-of-the-olympians.json](./384233-clash-of-the-olympians.json) |
 | Clash of the Talons | 135570 | [135570-clash-of-the-talons.json](./135570-clash-of-the-talons.json) |
+| Clash of the Titans: The Videogame | 6938 | [6938-clash-of-the-titans-the-videogame.json](./6938-clash-of-the-titans-the-videogame.json) |
 | Clash of the Undead | 231863 | [231863-clash-of-the-undead.json](./231863-clash-of-the-undead.json) |
 | Clash of Ultimate Fighters | 236984 | [236984-clash-of-ultimate-fighters.json](./236984-clash-of-ultimate-fighters.json) |
 | Clash of Vessels VR | 29440 | [29440-clash-of-vessels-vr.json](./29440-clash-of-vessels-vr.json) |
@@ -17450,6 +17453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSS Room Escape | 252121 | [252121-css-room-escape.json](./252121-css-room-escape.json) |
 | CSS Traffic Regulation | 364351 | [364351-css-traffic-regulation.json](./364351-css-traffic-regulation.json) |
 | CT Football Manager | 180474 | [180474-ct-football-manager.json](./180474-ct-football-manager.json) |
+| CT Special Forces | 6352 | [6352-ct-special-forces.json](./6352-ct-special-forces.json) |
 | CT Special Forces 3: BioTerror | 43898 | [43898-ct-special-forces-3-bioterror.json](./43898-ct-special-forces-3-bioterror.json) |
 | CT Special Forces 3: BioTerror | 49253 | [49253-ct-special-forces-3-bioterror.json](./49253-ct-special-forces-3-bioterror.json) |
 | CT Special Forces: Back to Hell | 45103 | [45103-ct-special-forces-back-to-hell.json](./45103-ct-special-forces-back-to-hell.json) |
