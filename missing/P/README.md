@@ -1481,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Dolls Original | 116732 | [116732-paper-dolls-original.json](./116732-paper-dolls-original.json) |
 | Paper Dominoes | 251486 | [251486-paper-dominoes.json](./251486-paper-dominoes.json) |
 | Paper Drifter | 236826 | [236826-paper-drifter.json](./236826-paper-drifter.json) |
+| Paper Dungeons | 10654 | [10654-paper-dungeons.json](./10654-paper-dungeons.json) |
 | Paper Dungeons Crawler | 95573 | [95573-paper-dungeons-crawler.json](./95573-paper-dungeons-crawler.json) |
 | Paper Enchantress | 192742 | [192742-paper-enchantress.json](./192742-paper-enchantress.json) |
 | Paper Fire! Rookie | 74138 | [74138-paper-fire-rookie.json](./74138-paper-fire-rookie.json) |
@@ -7685,6 +7686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzler | 69693 | [69693-pixel-puzzler.json](./69693-pixel-puzzler.json) |
 | Pixel Puzzles | 243639 | [243639-pixel-puzzles.json](./243639-pixel-puzzles.json) |
 | Pixel Puzzles 2: Anime | 35740 | [35740-pixel-puzzles-2-anime.json](./35740-pixel-puzzles-2-anime.json) |
+| Pixel Puzzles 2: Birds | 10701 | [10701-pixel-puzzles-2-birds.json](./10701-pixel-puzzles-2-birds.json) |
 | Pixel Puzzles 2: Christmas | 112743 | [112743-pixel-puzzles-2-christmas.json](./112743-pixel-puzzles-2-christmas.json) |
 | Pixel Puzzles 2: Halloween | 125736 | [125736-pixel-puzzles-2-halloween.json](./125736-pixel-puzzles-2-halloween.json) |
 | Pixel Puzzles 2: Paintings | 116762 | [116762-pixel-puzzles-2-paintings.json](./116762-pixel-puzzles-2-paintings.json) |
@@ -12251,6 +12253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Hero: Bedbeard's Revenge | 392395 | [392395-post-hero-bedbeards-revenge.json](./392395-post-hero-bedbeards-revenge.json) |
 | Post Human W.A.R | 28256 | [28256-post-human-w-a-r.json](./28256-post-human-w-a-r.json) |
 | Post Impact | 395188 | [395188-post-impact.json](./395188-post-impact.json) |
+| Post Master | 10714 | [10714-post-master.json](./10714-post-master.json) |
 | Post Memory | 318530 | [318530-post-memory.json](./318530-post-memory.json) |
 | Post Mortem | 14359 | [14359-post-mortem.json](./14359-post-mortem.json) |
 | Post Scriptum CTG: Collectible Token Game | 129676 | [129676-post-scriptum-ctg-collectible-token-game.json](./129676-post-scriptum-ctg-collectible-token-game.json) |
@@ -14181,6 +14184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Riders Snowboard Extreme Edition | 10726 | [10726-pro-riders-snowboard-extreme-edition.json](./10726-pro-riders-snowboard-extreme-edition.json) |
 | Pro Rugby Manager | 94388 | [94388-pro-rugby-manager.json](./94388-pro-rugby-manager.json) |
 | Pro Rugby Manager 2 | 67949 | [67949-pro-rugby-manager-2.json](./67949-pro-rugby-manager-2.json) |
+| Pro Rugby Manager 2015 | 10727 | [10727-pro-rugby-manager-2015.json](./10727-pro-rugby-manager-2015.json) |
 | Pro Series Drag Racing | 91081 | [91081-pro-series-drag-racing.json](./91081-pro-series-drag-racing.json) |
 | Pro Skateboard Simulator | 69867 | [69867-pro-skateboard-simulator.json](./69867-pro-skateboard-simulator.json) |
 | Pro Skater 2D | 30648 | [30648-pro-skater-2d.json](./30648-pro-skater-2d.json) |
@@ -14345,6 +14349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Bull Riding: Out of the Chute | 51113 | [51113-professional-bull-riding-out-of-the-chute.json](./51113-professional-bull-riding-out-of-the-chute.json) |
 | Professional Chef | 411492 | [411492-professional-chef.json](./411492-professional-chef.json) |
 | Professional Darts Championship | 197887 | [197887-professional-darts-championship.json](./197887-professional-darts-championship.json) |
+| Professional Farmer 2014 | 10723 | [10723-professional-farmer-2014.json](./10723-professional-farmer-2014.json) |
 | Professional Farmer 2014 America | 53476 | [53476-professional-farmer-2014-america.json](./53476-professional-farmer-2014-america.json) |
 | Professional Farmer 2014: America | 170733 | [170733-professional-farmer-2014-america.json](./170733-professional-farmer-2014-america.json) |
 | Professional Farmer 2014: Collector's Edition | 53477 | [53477-professional-farmer-2014-collectors-edition.json](./53477-professional-farmer-2014-collectors-edition.json) |
