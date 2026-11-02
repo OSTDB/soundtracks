@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OH! My Office | 223992 | [223992-oh-my-office.json](./223992-oh-my-office.json) |
 | Oh! My Sister's Slit Is... | 97839 | [97839-oh-my-sisters-slit-is.json](./97839-oh-my-sisters-slit-is.json) |
 | Oh! Robot: Legendary Mechanic | 356300 | [356300-oh-robot-legendary-mechanic.json](./356300-oh-robot-legendary-mechanic.json) |
+| Oh! RPG! | 33983 | [33983-oh-rpg.json](./33983-oh-rpg.json) |
 | Oh! Sheep | 233733 | [233733-oh-sheep.json](./233733-oh-sheep.json) |
 | Oh...Sir! Prototype | 90604 | [90604-oh-sir-prototype.json](./90604-oh-sir-prototype.json) |
 | Oh...Sir! The Hollywood Roast | 29994 | [29994-oh-sir-the-hollywood-roast.json](./29994-oh-sir-the-hollywood-roast.json) |
@@ -4561,6 +4562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Life: Now & Forever | 187392 | [187392-our-life-now-and-forever.json](./187392-our-life-now-and-forever.json) |
 | Our Light Affliction: Spider's Covenant | 408537 | [408537-our-light-affliction-spiders-covenant.json](./408537-our-light-affliction-spiders-covenant.json) |
 | Our Long Walk Home | 283815 | [283815-our-long-walk-home.json](./283815-our-long-walk-home.json) |
+| Our Love Will Grow | 33946 | [33946-our-love-will-grow.json](./33946-our-love-will-grow.json) |
 | Our Lovely Escape | 111878 | [111878-our-lovely-escape.json](./111878-our-lovely-escape.json) |
 | Our Magic Window | 271939 | [271939-our-magic-window.json](./271939-our-magic-window.json) |
 | Our Memories: Hentai | 236187 | [236187-our-memories-hentai.json](./236187-our-memories-hentai.json) |
