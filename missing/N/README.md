@@ -627,9 +627,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shippuden: Gekitou Ninja Taisen! Special | 75841 | [75841-naruto-shippuden-gekitou-ninja-taisen-special.json](./75841-naruto-shippuden-gekitou-ninja-taisen-special.json) |
 | Naruto Shippuden: Kizuna Drive | 24310 | [24310-naruto-shippuden-kizuna-drive.json](./24310-naruto-shippuden-kizuna-drive.json) |
 | Naruto Shippuden: Legends - Akatsuki Rising | 19658 | [19658-naruto-shippuden-legends-akatsuki-rising.json](./19658-naruto-shippuden-legends-akatsuki-rising.json) |
+| Naruto Shippuden: Naruto vs. Sasuke | 24270 | [24270-naruto-shippuden-naruto-vs-sasuke.json](./24270-naruto-shippuden-naruto-vs-sasuke.json) |
 | Naruto Shippuden: Ninja Council 4 | 21122 | [21122-naruto-shippuden-ninja-council-4.json](./21122-naruto-shippuden-ninja-council-4.json) |
 | Naruto Shippuden: Ninja Destiny 2 | 47935 | [47935-naruto-shippuden-ninja-destiny-2.json](./47935-naruto-shippuden-ninja-destiny-2.json) |
 | Naruto Shippuden: Ninja Destiny 3 | 47824 | [47824-naruto-shippuden-ninja-destiny-3.json](./47824-naruto-shippuden-ninja-destiny-3.json) |
+| Naruto Shippuden: Shinobi Rumble | 24287 | [24287-naruto-shippuden-shinobi-rumble.json](./24287-naruto-shippuden-shinobi-rumble.json) |
 | Naruto Shippuden: Ultimate Ninja 4 | 19623 | [19623-naruto-shippuden-ultimate-ninja-4.json](./19623-naruto-shippuden-ultimate-ninja-4.json) |
 | Naruto Shippuden: Ultimate Ninja 5 | 25112 | [25112-naruto-shippuden-ultimate-ninja-5.json](./25112-naruto-shippuden-ultimate-ninja-5.json) |
 | Naruto Shippuden: Ultimate Ninja Blazing | 79298 | [79298-naruto-shippuden-ultimate-ninja-blazing.json](./79298-naruto-shippuden-ultimate-ninja-blazing.json) |
@@ -1191,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K Playgrounds 2 | 96487 | [96487-nba-2k-playgrounds-2.json](./96487-nba-2k-playgrounds-2.json) |
 | NBA 2K1 | 28836 | [28836-nba-2k1.json](./28836-nba-2k1.json) |
 | NBA 2K10 | 5054 | [5054-nba-2k10.json](./5054-nba-2k10.json) |
+| NBA 2K10: Draft Combine | 24321 | [24321-nba-2k10-draft-combine.json](./24321-nba-2k10-draft-combine.json) |
 | NBA 2K11 | 5056 | [5056-nba-2k11.json](./5056-nba-2k11.json) |
 | NBA 2K12 | 256894 | [256894-nba-2k12.json](./256894-nba-2k12.json) |
 | NBA 2K12 | 256895 | [256895-nba-2k12.json](./256895-nba-2k12.json) |
@@ -4578,6 +4581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikoli no Sudoku 3D: 8-tsu no Puzzle de 1000-mon | 222458 | [222458-nikoli-no-sudoku-3d-8-tsu-no-puzzle-de-1000-mon.json](./222458-nikoli-no-sudoku-3d-8-tsu-no-puzzle-de-1000-mon.json) |
 | Nikoli no Sudoku Lite Dai-San-Shuu | 269519 | [269519-nikoli-no-sudoku-lite-dai-san-shuu.json](./269519-nikoli-no-sudoku-lite-dai-san-shuu.json) |
 | Nikoli Sudoku | 97443 | [97443-nikoli-sudoku.json](./97443-nikoli-sudoku.json) |
+| Nikoli's Pencil Puzzle | 24238 | [24238-nikolis-pencil-puzzle.json](./24238-nikolis-pencil-puzzle.json) |
 | Nikopol: Secrets of the Immortals | 10601 | [10601-nikopol-secrets-of-the-immortals.json](./10601-nikopol-secrets-of-the-immortals.json) |
 | Nikujin | 66500 | [66500-nikujin.json](./66500-nikujin.json) |
 | Nil Action Metronome | 197034 | [197034-nil-action-metronome.json](./197034-nil-action-metronome.json) |
