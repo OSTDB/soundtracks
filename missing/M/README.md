@@ -3816,6 +3816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Power Tennis | 3985 | [3985-mario-power-tennis.json](./3985-mario-power-tennis.json) |
 | Mario Power Tennis | 84700 | [84700-mario-power-tennis.json](./84700-mario-power-tennis.json) |
 | Mario Power Tennis: Hammer Power | 328667 | [328667-mario-power-tennis-hammer-power.json](./328667-mario-power-tennis-hammer-power.json) |
+| Mario Prime | 422833 | [422833-mario-prime.json](./422833-mario-prime.json) |
 | Mario Racing Tournament | 314508 | [314508-mario-racing-tournament.json](./314508-mario-racing-tournament.json) |
 | Mario Rescues Santa Claus | 229618 | [229618-mario-rescues-santa-claus.json](./229618-mario-rescues-santa-claus.json) |
 | Mario Rescues the Golden Mushroom | 268345 | [268345-mario-rescues-the-golden-mushroom.json](./268345-mario-rescues-the-golden-mushroom.json) |
@@ -16904,6 +16905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mourning Tide | 306174 | [306174-mourning-tide.json](./306174-mourning-tide.json) |
 | Mourningwood Lodge | 370104 | [370104-mourningwood-lodge.json](./370104-mourningwood-lodge.json) |
 | Mourningwood Lodge 2: Hidden Voice | 375487 | [375487-mourningwood-lodge-2-hidden-voice.json](./375487-mourningwood-lodge-2-hidden-voice.json) |
+| Mournwake: Across the Styx | 422846 | [422846-mournwake-across-the-styx.json](./422846-mournwake-across-the-styx.json) |
 | Mouryou Senki Madara | 48418 | [48418-mouryou-senki-madara.json](./48418-mouryou-senki-madara.json) |
 | Mouse (Sneaking) | 81968 | [81968-mouse-sneaking.json](./81968-mouse-sneaking.json) |
 | Mouse & Crane | 302243 | [302243-mouse-and-crane.json](./302243-mouse-and-crane.json) |
@@ -17989,6 +17991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder in a Wheel | 62153 | [62153-murder-in-a-wheel.json](./62153-murder-in-a-wheel.json) |
 | Murder in Crayontopia | 337522 | [337522-murder-in-crayontopia.json](./337522-murder-in-crayontopia.json) |
 | Murder in the Maze | 308418 | [308418-murder-in-the-maze.json](./308418-murder-in-the-maze.json) |
+| Murder in the Pines | 422843 | [422843-murder-in-the-pines.json](./422843-murder-in-the-pines.json) |
 | Murder in the Snow Bundle | 284759 | [284759-murder-in-the-snow-bundle.json](./284759-murder-in-the-snow-bundle.json) |
 | Murder In Venice | 47792 | [47792-murder-in-venice.json](./47792-murder-in-venice.json) |
 | Murder Inc | 333442 | [333442-murder-inc.json](./333442-murder-inc.json) |
