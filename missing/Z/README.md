@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Gravity | 106303 | [106303-zero-gravity.json](./106303-zero-gravity.json) |
 | Zero Gravity | 229795 | [229795-zero-gravity.json](./229795-zero-gravity.json) |
 | Zero Gravity | 28517 | [28517-zero-gravity.json](./28517-zero-gravity.json) |
+| Zero Gravity Heroes | 417179 | [417179-zero-gravity-heroes.json](./417179-zero-gravity-heroes.json) |
 | Zero Gravity Pool | 81990 | [81990-zero-gravity-pool.json](./81990-zero-gravity-pool.json) |
 | Zero Grounds | 249073 | [249073-zero-grounds.json](./249073-zero-grounds.json) |
 | Zero Gunner | 10447 | [10447-zero-gunner.json](./10447-zero-gunner.json) |
