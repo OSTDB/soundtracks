@@ -5548,6 +5548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9070,6 +9071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal March | 228088 | [228088-metal-march.json](./228088-metal-march.json) |
 | Metal Marines | 42497 | [42497-metal-marines.json](./42497-metal-marines.json) |
 | Metal Mars | 151506 | [151506-metal-mars.json](./151506-metal-mars.json) |
+| Metal Masters | 15262 | [15262-metal-masters.json](./15262-metal-masters.json) |
 | Metal Max | 48428 | [48428-metal-max.json](./48428-metal-max.json) |
 | Metal Max 2 | 37929 | [37929-metal-max-2.json](./37929-metal-max-2.json) |
 | Metal Max 2 Kai | 49690 | [49690-metal-max-2-kai.json](./49690-metal-max-2-kai.json) |
@@ -12533,6 +12535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirrored Souls | 244278 | [244278-mirrored-souls.json](./244278-mirrored-souls.json) |
 | Mirrored: Chapter 1 | 35366 | [35366-mirrored-chapter-1.json](./35366-mirrored-chapter-1.json) |
 | Mirrormind | 345647 | [345647-mirrormind.json](./345647-mirrormind.json) |
+| MirrorMoon EP | 15544 | [15544-mirrormoon-ep.json](./15544-mirrormoon-ep.json) |
 | Mirrorplume Frostfate | 384350 | [384350-mirrorplume-frostfate.json](./384350-mirrorplume-frostfate.json) |
 | Mirrors of Deception: The Silver Peaks Secret | 386201 | [386201-mirrors-of-deception-the-silver-peaks-secret.json](./386201-mirrors-of-deception-the-silver-peaks-secret.json) |
 | Mirrors of Epiphany | 274352 | [274352-mirrors-of-epiphany.json](./274352-mirrors-of-epiphany.json) |
@@ -18146,6 +18149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Madness 2 | 399463 | [399463-mushroom-madness-2.json](./399463-mushroom-madness-2.json) |
 | Mushroom Madness 3 | 399465 | [399465-mushroom-madness-3.json](./399465-mushroom-madness-3.json) |
 | Mushroom Manor | 358476 | [358476-mushroom-manor.json](./358476-mushroom-manor.json) |
+| Mushroom Men: Truffle Trouble | 15398 | [15398-mushroom-men-truffle-trouble.json](./15398-mushroom-men-truffle-trouble.json) |
 | Mushroom Moonrise | 287780 | [287780-mushroom-moonrise.json](./287780-mushroom-moonrise.json) |
 | Mushroom Mountain | 248114 | [248114-mushroom-mountain.json](./248114-mushroom-mountain.json) |
 | Mushroom Musical | 208857 | [208857-mushroom-musical.json](./208857-mushroom-musical.json) |
