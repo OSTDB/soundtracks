@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wagamama Fairy: Mirumo de Pon! Ougon Maracas no Densetsu | 284598 | [284598-wagamama-fairy-mirumo-de-pon-ougon-maracas-no-densetsu.json](./284598-wagamama-fairy-mirumo-de-pon-ougon-maracas-no-densetsu.json) |
 | Wagamama Fairy: Mirumo de Pon! Taisen Mahoudama | 283397 | [283397-wagamama-fairy-mirumo-de-pon-taisen-mahoudama.json](./283397-wagamama-fairy-mirumo-de-pon-taisen-mahoudama.json) |
 | Wagamama Fashion: Girls Mode Yokubari Sengen! Tokimeki Up! | 136906 | [136906-wagamama-fashion-girls-mode-yokubari-sengen-tokimeki-up.json](./136906-wagamama-fashion-girls-mode-yokubari-sengen-tokimeki-up.json) |
+| Wagamama High Spec | 36727 | [36727-wagamama-high-spec.json](./36727-wagamama-high-spec.json) |
 | Wagee | 402519 | [402519-wagee.json](./402519-wagee.json) |
 | Wager | 171303 | [171303-wager.json](./171303-wager.json) |
 | Wagers of War | 54968 | [54968-wagers-of-war.json](./54968-wagers-of-war.json) |
