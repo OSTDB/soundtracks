@@ -3955,6 +3955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Reapers | 228744 | [228744-redemption-reapers.json](./228744-redemption-reapers.json) |
 | Redemption: Eternal Quest | 34754 | [34754-redemption-eternal-quest.json](./34754-redemption-eternal-quest.json) |
 | Redemption: Liar | 65221 | [65221-redemption-liar.json](./65221-redemption-liar.json) |
+| Redemption: Saints and Sinners | 35425 | [35425-redemption-saints-and-sinners.json](./35425-redemption-saints-and-sinners.json) |
 | Redemption: Wrath of Sin | 265568 | [265568-redemption-wrath-of-sin.json](./265568-redemption-wrath-of-sin.json) |
 | Redemption? | 265110 | [265110-redemption.json](./265110-redemption.json) |
 | Redemption's Guild | 76417 | [76417-redemptions-guild.json](./76417-redemptions-guild.json) |
