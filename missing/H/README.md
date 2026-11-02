@@ -5360,6 +5360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herios | 182315 | [182315-herios.json](./182315-herios.json) |
 | Heritage | 323499 | [323499-heritage.json](./323499-heritage.json) |
 | Heritage | 376042 | [376042-heritage.json](./376042-heritage.json) |
+| Heritage | 404615 | [404615-heritage.json](./404615-heritage.json) |
 | Heritage Flipper | 422174 | [422174-heritage-flipper.json](./422174-heritage-flipper.json) |
 | Heritage Hills | 156666 | [156666-heritage-hills.json](./156666-heritage-hills.json) |
 | Heritage of Eternal Splitting | 299523 | [299523-heritage-of-eternal-splitting.json](./299523-heritage-of-eternal-splitting.json) |
@@ -10156,6 +10157,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houchi City | 249180 | [249180-houchi-city.json](./249180-houchi-city.json) |
 | Houchi Shoujo | 195855 | [195855-houchi-shoujo.json](./195855-houchi-shoujo.json) |
 | Houdini Master of the Extraordinary 1: The Temple of the Serpent | 218136 | [218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json](./218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json) |
+| Houdini Master of the Extraordinary 2: The London Tower | 404637 | [404637-houdini-master-of-the-extraordinary-2-the-london-tower.json](./404637-houdini-master-of-the-extraordinary-2-the-london-tower.json) |
+| Houdini Master of the Extraordinary 3: The Vampire's Crypt | 404638 | [404638-houdini-master-of-the-extraordinary-3-the-vampires-crypt.json](./404638-houdini-master-of-the-extraordinary-3-the-vampires-crypt.json) |
 | Houdini Redux | 118805 | [118805-houdini-redux.json](./118805-houdini-redux.json) |
 | Houdini's Castle | 112790 | [112790-houdinis-castle.json](./112790-houdinis-castle.json) |
 | Houkago Campus | 97772 | [97772-houkago-campus.json](./97772-houkago-campus.json) |
