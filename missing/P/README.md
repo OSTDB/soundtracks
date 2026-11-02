@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-pac Doraemon | 349438 | [349438-pac-pac-doraemon.json](./349438-pac-pac-doraemon.json) |
 | Pac-Panic | 46572 | [46572-pac-panic.json](./46572-pac-panic.json) |
 | Pac-Pix | 18275 | [18275-pac-pix.json](./18275-pac-pix.json) |
+| Pac-Side | 405834 | [405834-pac-side.json](./405834-pac-side.json) |
 | Pac-Slot | 64458 | [64458-pac-slot.json](./64458-pac-slot.json) |
 | Pac-Snec | 393131 | [393131-pac-snec.json](./393131-pac-snec.json) |
 | Pac-Xon Hero Strikes Back! | 238859 | [238859-pac-xon-hero-strikes-back.json](./238859-pac-xon-hero-strikes-back.json) |
