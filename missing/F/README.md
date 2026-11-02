@@ -7710,6 +7710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floristry | 68956 | [68956-floristry.json](./68956-floristry.json) |
 | Florus | 183802 | [183802-florus.json](./183802-florus.json) |
 | Floss | 371841 | [371841-floss.json](./371841-floss.json) |
+| Flotilla | 8396 | [8396-flotilla.json](./8396-flotilla.json) |
 | Flotilla 2 | 99064 | [99064-flotilla-2.json](./99064-flotilla-2.json) |
 | Flotilla WWII | 36698 | [36698-flotilla-wwii.json](./36698-flotilla-wwii.json) |
 | Flotsam | 222633 | [222633-flotsam.json](./222633-flotsam.json) |
