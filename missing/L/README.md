@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.O.L.: Lack of Love | 45799 | [45799-l-o-l-lack-of-love.json](./45799-l-o-l-lack-of-love.json) |
 | L.OD | 281253 | [281253-l-od.json](./281253-l-od.json) |
 | L.S.D.: Lasting Spiritual Derangement | 174018 | [174018-l-s-d-lasting-spiritual-derangement.json](./174018-l-s-d-lasting-spiritual-derangement.json) |
+| L.S.S | 56675 | [56675-l-s-s.json](./56675-l-s-s.json) |
 | L.S.S II | 220836 | [220836-l-s-s-ii.json](./220836-l-s-s-ii.json) |
 | L'Abbaye des Morts | 270228 | [270228-labbaye-des-morts.json](./270228-labbaye-des-morts.json) |
 | L'Abbaye des Morts | 299101 | [299101-labbaye-des-morts.json](./299101-labbaye-des-morts.json) |
@@ -9110,6 +9111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna & Sol: Nightmare Ward | 368819 | [368819-luna-and-sol-nightmare-ward.json](./368819-luna-and-sol-nightmare-ward.json) |
 | Luna and the Crystal of Light | 342426 | [342426-luna-and-the-crystal-of-light.json](./342426-luna-and-the-crystal-of-light.json) |
 | Luna and the Dreams | 387563 | [387563-luna-and-the-dreams.json](./387563-luna-and-the-dreams.json) |
+| Luna and the Moonling | 55817 | [55817-luna-and-the-moonling.json](./55817-luna-and-the-moonling.json) |
 | Luna and the Sea | 369356 | [369356-luna-and-the-sea.json](./369356-luna-and-the-sea.json) |
 | Luna and the Stars | 225554 | [225554-luna-and-the-stars.json](./225554-luna-and-the-stars.json) |
 | Luna and the Wasted City of Sin | 326791 | [326791-luna-and-the-wasted-city-of-sin.json](./326791-luna-and-the-wasted-city-of-sin.json) |
