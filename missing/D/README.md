@@ -4005,6 +4005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deal of the Dead Final Cut | 292769 | [292769-deal-of-the-dead-final-cut.json](./292769-deal-of-the-dead-final-cut.json) |
 | Deal or No Deal | 220081 | [220081-deal-or-no-deal.json](./220081-deal-or-no-deal.json) |
 | Deal or No Deal | 233990 | [233990-deal-or-no-deal.json](./233990-deal-or-no-deal.json) |
+| Deal or No Deal | 248609 | [248609-deal-or-no-deal.json](./248609-deal-or-no-deal.json) |
 | Deal or No Deal | 4800 | [4800-deal-or-no-deal.json](./4800-deal-or-no-deal.json) |
 | Deal or No Deal: Das Interaktive DVD-Spiel | 242434 | [242434-deal-or-no-deal-das-interaktive-dvd-spiel.json](./242434-deal-or-no-deal-das-interaktive-dvd-spiel.json) |
 | Deal or No Deal: DVD Game | 319737 | [319737-deal-or-no-deal-dvd-game.json](./319737-deal-or-no-deal-dvd-game.json) |
@@ -8069,6 +8070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diced Pilot | 236648 | [236648-diced-pilot.json](./236648-diced-pilot.json) |
 | Diceeee | 373869 | [373869-diceeee.json](./373869-diceeee.json) |
 | Dicefeat | 184459 | [184459-dicefeat.json](./184459-dicefeat.json) |
+| Dicefolk | 251938 | [251938-dicefolk.json](./251938-dicefolk.json) |
 | Dicefolk: Will Chimeras Pack | 324415 | [324415-dicefolk-will-chimeras-pack.json](./324415-dicefolk-will-chimeras-pack.json) |
 | Diceies | 79898 | [79898-diceies.json](./79898-diceies.json) |
 | Dicentra | 255649 | [255649-dicentra.json](./255649-dicentra.json) |
