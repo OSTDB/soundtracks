@@ -3687,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Gamer | 247316 | [247316-cat-gamer.json](./247316-cat-gamer.json) |
 | Cat Gentlemans Play: Insult Spinner 10 Cents | 128626 | [128626-cat-gentlemans-play-insult-spinner-10-cents.json](./128626-cat-gentlemans-play-insult-spinner-10-cents.json) |
 | Cat Gets Medieval | 144972 | [144972-cat-gets-medieval.json](./144972-cat-gets-medieval.json) |
+| Cat Girl | 83871 | [83871-cat-girl.json](./83871-cat-girl.json) |
 | Cat Girl Survivor | 295771 | [295771-cat-girl-survivor.json](./295771-cat-girl-survivor.json) |
 | Cat Girl Survivor 2: Beyond the Veil | 368829 | [368829-cat-girl-survivor-2-beyond-the-veil.json](./368829-cat-girl-survivor-2-beyond-the-veil.json) |
 | Cat Girl Survivor: Extra Episodes and Additional Chapters | 379025 | [379025-cat-girl-survivor-extra-episodes-and-additional-chapters.json](./379025-cat-girl-survivor-extra-episodes-and-additional-chapters.json) |
@@ -7147,6 +7148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate Factory | 301790 | [301790-chocolate-factory.json](./301790-chocolate-factory.json) |
 | Chocolate Factory Simulator | 293131 | [293131-chocolate-factory-simulator.json](./293131-chocolate-factory-simulator.json) |
 | Chocolate Kiss | 263115 | [263115-chocolate-kiss.json](./263115-chocolate-kiss.json) |
+| Chocolate makes you happy 3 | 84074 | [84074-chocolate-makes-you-happy-3.json](./84074-chocolate-makes-you-happy-3.json) |
 | Chocolate makes you happy 4 | 89935 | [89935-chocolate-makes-you-happy-4.json](./89935-chocolate-makes-you-happy-4.json) |
 | Chocolate makes you happy 5 | 99433 | [99433-chocolate-makes-you-happy-5.json](./99433-chocolate-makes-you-happy-5.json) |
 | Chocolate makes you happy 7 | 105376 | [105376-chocolate-makes-you-happy-7.json](./105376-chocolate-makes-you-happy-7.json) |
@@ -9011,6 +9013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Blades | 265109 | [265109-clash-of-blades.json](./265109-clash-of-blades.json) |
 | Clash of Busts | 330471 | [330471-clash-of-busts.json](./330471-clash-of-busts.json) |
 | Clash of Cards | 94839 | [94839-clash-of-cards.json](./94839-clash-of-cards.json) |
+| Clash of Castle | 84042 | [84042-clash-of-castle.json](./84042-clash-of-castle.json) |
 | Clash of Champs | 56529 | [56529-clash-of-champs.json](./56529-clash-of-champs.json) |
 | Clash of Chefs VR | 111704 | [111704-clash-of-chefs-vr.json](./111704-clash-of-chefs-vr.json) |
 | Clash of Chess | 174898 | [174898-clash-of-chess.json](./174898-clash-of-chess.json) |
@@ -10242,6 +10245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coated | 35628 | [35628-coated.json](./35628-coated.json) |
 | Cobalt | 2999 | [2999-cobalt.json](./2999-cobalt.json) |
 | Cobalt Runner | 64283 | [64283-cobalt-runner.json](./64283-cobalt-runner.json) |
+| Cobalt WASD | 76426 | [76426-cobalt-wasd.json](./76426-cobalt-wasd.json) |
 | Cobb Can Move | 401154 | [401154-cobb-can-move.json](./401154-cobb-can-move.json) |
 | Cobble and Trouble | 182986 | [182986-cobble-and-trouble.json](./182986-cobble-and-trouble.json) |
 | Cobble: The Stone Forager | 336445 | [336445-cobble-the-stone-forager.json](./336445-cobble-the-stone-forager.json) |
@@ -12308,6 +12312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comrade Trump's Re-election | 286523 | [286523-comrade-trumps-re-election.json](./286523-comrade-trumps-re-election.json) |
 | Comrade-in-Arms | 130169 | [130169-comrade-in-arms.json](./130169-comrade-in-arms.json) |
 | Comrades and Barons: Gates of Freedom | 152820 | [152820-comrades-and-barons-gates-of-freedom.json](./152820-comrades-and-barons-gates-of-freedom.json) |
+| Comrades and Barons: Solitaire of Bloody 1919 | 84046 | [84046-comrades-and-barons-solitaire-of-bloody-1919.json](./84046-comrades-and-barons-solitaire-of-bloody-1919.json) |
 | Comune 0-41 | 400837 | [400837-comune-0-41.json](./400837-comune-0-41.json) |
 | Comuni Non Comuni | 299158 | [299158-comuni-non-comuni.json](./299158-comuni-non-comuni.json) |
 | Con Amore | 32419 | [32419-con-amore.json](./32419-con-amore.json) |
