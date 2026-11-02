@@ -2005,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat on the Run | 78607 | [78607-rat-on-the-run.json](./78607-rat-on-the-run.json) |
 | Rat Prison | 169584 | [169584-rat-prison.json](./169584-rat-prison.json) |
 | Rat Quest | 302814 | [302814-rat-quest.json](./302814-rat-quest.json) |
+| Rat Quest: The Quest For Swiss | 411272 | [411272-rat-quest-the-quest-for-swiss.json](./411272-rat-quest-the-quest-for-swiss.json) |
 | Rat Race | 288824 | [288824-rat-race.json](./288824-rat-race.json) |
 | Rat Race | 375518 | [375518-rat-race.json](./375518-rat-race.json) |
 | Rat Race | 408783 | [408783-rat-race.json](./408783-rat-race.json) |
@@ -4251,6 +4252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflex Master: Sight | 342729 | [342729-reflex-master-sight.json](./342729-reflex-master-sight.json) |
 | Reflex Point | 19707 | [19707-reflex-point.json](./19707-reflex-point.json) |
 | Reflex Run | 390190 | [390190-reflex-run.json](./390190-reflex-run.json) |
+| Reflex Rush | 411236 | [411236-reflex-rush.json](./411236-reflex-rush.json) |
 | Reflex Strike - Reaction Time Counter | 101050 | [101050-reflex-strike-reaction-time-counter.json](./101050-reflex-strike-reaction-time-counter.json) |
 | Reflex Unit 2 | 147697 | [147697-reflex-unit-2.json](./147697-reflex-unit-2.json) |
 | Reflex Unit AR | 197758 | [197758-reflex-unit-ar.json](./197758-reflex-unit-ar.json) |
@@ -9655,6 +9657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoguePool | 392751 | [392751-roguepool.json](./392751-roguepool.json) |
 | Rogueria: Roguelikes X Tactics | 143585 | [143585-rogueria-roguelikes-x-tactics.json](./143585-rogueria-roguelikes-x-tactics.json) |
 | Roguerooms New Management | 420934 | [420934-roguerooms-new-management.json](./420934-roguerooms-new-management.json) |
+| Rogues & Fate | 411255 | [411255-rogues-and-fate.json](./411255-rogues-and-fate.json) |
 | Rogues Adventure | 155401 | [155401-rogues-adventure.json](./155401-rogues-adventure.json) |
 | Rogues Like Beer | 183014 | [183014-rogues-like-beer.json](./183014-rogues-like-beer.json) |
 | Rogues Like Us | 32357 | [32357-rogues-like-us.json](./32357-rogues-like-us.json) |
