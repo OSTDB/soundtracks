@@ -3411,6 +3411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telekinesis Kyle | 20116 | [20116-telekinesis-kyle.json](./20116-telekinesis-kyle.json) |
 | TeleMorpher | 320030 | [320030-telemorpher.json](./320030-telemorpher.json) |
 | Telemount | 413083 | [413083-telemount.json](./413083-telemount.json) |
+| Telengard | 2879 | [2879-telengard.json](./2879-telengard.json) |
 | Telepaint | 19985 | [19985-telepaint.json](./19985-telepaint.json) |
 | Telepath of Evil | 339411 | [339411-telepath-of-evil.json](./339411-telepath-of-evil.json) |
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
@@ -14012,6 +14013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Police Mystery | 274876 | [274876-the-police-mystery.json](./274876-the-police-mystery.json) |
 | The Political Compass: Devil's Labyrinth | 135063 | [135063-the-political-compass-devils-labyrinth.json](./135063-the-political-compass-devils-labyrinth.json) |
 | The Political Machine 2008 | 50866 | [50866-the-political-machine-2008.json](./50866-the-political-machine-2008.json) |
+| The Political Machine 2012 | 51349 | [51349-the-political-machine-2012.json](./51349-the-political-machine-2012.json) |
 | The Political Machine 2016: Campaign DLC | 170172 | [170172-the-political-machine-2016-campaign-dlc.json](./170172-the-political-machine-2016-campaign-dlc.json) |
 | The Political Machine 2020 | 129073 | [129073-the-political-machine-2020.json](./129073-the-political-machine-2020.json) |
 | The Political Machine 2024 | 275696 | [275696-the-political-machine-2024.json](./275696-the-political-machine-2024.json) |
@@ -15354,6 +15356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons: Itchy & Scratchy in Miniature Golf Madness | 2836 | [2836-the-simpsons-itchy-and-scratchy-in-miniature-golf-madness.json](./2836-the-simpsons-itchy-and-scratchy-in-miniature-golf-madness.json) |
 | The Simpsons: Itchy & Scratchy Land | 190876 | [190876-the-simpsons-itchy-and-scratchy-land.json](./190876-the-simpsons-itchy-and-scratchy-land.json) |
 | The Simpsons: Minutes to Meltdown | 256656 | [256656-the-simpsons-minutes-to-meltdown.json](./256656-the-simpsons-minutes-to-meltdown.json) |
+| The Simpsons: Night of the Living - Treehouse of Horror | 2840 | [2840-the-simpsons-night-of-the-living-treehouse-of-horror.json](./2840-the-simpsons-night-of-the-living-treehouse-of-horror.json) |
 | The Simpsons: Road Rage | 2842 | [2842-the-simpsons-road-rage.json](./2842-the-simpsons-road-rage.json) |
 | The Simpsons: Tapped Out | 2845 | [2845-the-simpsons-tapped-out.json](./2845-the-simpsons-tapped-out.json) |
 | The Simpsons: Virtual Springfield | 2839 | [2839-the-simpsons-virtual-springfield.json](./2839-the-simpsons-virtual-springfield.json) |
@@ -23828,6 +23831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gear 2 | 13057 | [13057-top-gear-2.json](./13057-top-gear-2.json) |
 | Top Gear 3000 | 46007 | [46007-top-gear-3000.json](./46007-top-gear-3000.json) |
 | Top Gear GT Championship | 49342 | [49342-top-gear-gt-championship.json](./49342-top-gear-gt-championship.json) |
+| Top Gear Overdrive | 3616 | [3616-top-gear-overdrive.json](./3616-top-gear-overdrive.json) |
 | Top Gear Pocket | 93431 | [93431-top-gear-pocket.json](./93431-top-gear-pocket.json) |
 | Top Gear Pocket 2 | 78875 | [78875-top-gear-pocket-2.json](./78875-top-gear-pocket-2.json) |
 | Top Gear Rally | 248591 | [248591-top-gear-rally.json](./248591-top-gear-rally.json) |
@@ -28941,6 +28945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Pack: Trials HD, Limbo, Splosion Man | 141767 | [141767-triple-pack-trials-hd-limbo-splosion-man.json](./141767-triple-pack-trials-hd-limbo-splosion-man.json) |
 | Triple Pairing | 386964 | [386964-triple-pairing.json](./386964-triple-pairing.json) |
 | Triple Pairing Mini Fandisc | 418770 | [418770-triple-pairing-mini-fandisc.json](./418770-triple-pairing-mini-fandisc.json) |
+| Triple Play 2000 | 3621 | [3621-triple-play-2000.json](./3621-triple-play-2000.json) |
 | Triple Play 2001 | 249153 | [249153-triple-play-2001.json](./249153-triple-play-2001.json) |
 | Triple Play 2002 | 23464 | [23464-triple-play-2002.json](./23464-triple-play-2002.json) |
 | Triple Play 96 | 46245 | [46245-triple-play-96.json](./46245-triple-play-96.json) |
@@ -29269,6 +29274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 2: Pirate Cove | 3323 | [3323-tropico-2-pirate-cove.json](./3323-tropico-2-pirate-cove.json) |
 | Tropico 3 | 2594 | [2594-tropico-3.json](./2594-tropico-3.json) |
 | Tropico 3: Absolute Power | 8926 | [8926-tropico-3-absolute-power.json](./8926-tropico-3-absolute-power.json) |
+| Tropico 3: Gold Edition | 51799 | [51799-tropico-3-gold-edition.json](./51799-tropico-3-gold-edition.json) |
 | Tropico 4 Collector's Bundle | 50872 | [50872-tropico-4-collectors-bundle.json](./50872-tropico-4-collectors-bundle.json) |
 | Tropico 4: Apocalypse | 53848 | [53848-tropico-4-apocalypse.json](./53848-tropico-4-apocalypse.json) |
 | Tropico 4: Complete DLC Pack | 155315 | [155315-tropico-4-complete-dlc-pack.json](./155315-tropico-4-complete-dlc-pack.json) |
