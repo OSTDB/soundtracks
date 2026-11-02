@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madball | 198484 | [198484-madball.json](./198484-madball.json) |
 | Madballs | 91696 | [91696-madballs.json](./91696-madballs.json) |
 | Madballs Arcade | 98925 | [98925-madballs-arcade.json](./98925-madballs-arcade.json) |
+| Madballs in Babo: Invasion | 8385 | [8385-madballs-in-babo-invasion.json](./8385-madballs-in-babo-invasion.json) |
 | MadBreak | 314733 | [314733-madbreak.json](./314733-madbreak.json) |
 | Madcap Castle | 74288 | [74288-madcap-castle.json](./74288-madcap-castle.json) |
 | Madcap Grotto | 330290 | [330290-madcap-grotto.json](./330290-madcap-grotto.json) |
@@ -8608,6 +8609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercy Incore | 388387 | [388387-mercy-incore.json](./388387-mercy-incore.json) |
 | Mercyful Flames: The Witches | 117587 | [117587-mercyful-flames-the-witches.json](./117587-mercyful-flames-the-witches.json) |
 | Mercyrail: Havenbound | 415191 | [415191-mercyrail-havenbound.json](./415191-mercyrail-havenbound.json) |
+| Merek's Market | 146447 | [146447-mereks-market.json](./146447-mereks-market.json) |
 | Merely A Chip | 309129 | [309129-merely-a-chip.json](./309129-merely-a-chip.json) |
 | Merely a Regret | 176922 | [176922-merely-a-regret.json](./176922-merely-a-regret.json) |
 | Merendam 2: Diary of Two Shaman Sisters | 70409 | [70409-merendam-2-diary-of-two-shaman-sisters.json](./70409-merendam-2-diary-of-two-shaman-sisters.json) |
@@ -11200,6 +11202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Within | 344384 | [344384-mind-within.json](./344384-mind-within.json) |
 | Mind Your Language: Learn English | 47825 | [47825-mind-your-language-learn-english.json](./47825-mind-your-language-learn-english.json) |
 | Mind Your Manas | 118447 | [118447-mind-your-manas.json](./118447-mind-your-manas.json) |
+| Mind Zero | 8283 | [8283-mind-zero.json](./8283-mind-zero.json) |
 | Mind-Blowing Girls | 158148 | [158148-mind-blowing-girls.json](./158148-mind-blowing-girls.json) |
 | Mind-Blowing Girls 2 | 171027 | [171027-mind-blowing-girls-2.json](./171027-mind-blowing-girls-2.json) |
 | Mind-Blowing Girls 3 | 163995 | [163995-mind-blowing-girls-3.json](./163995-mind-blowing-girls-3.json) |
@@ -11873,6 +11876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Motion: Sk8 HousE | 209208 | [209208-mini-motion-sk8-house.json](./209208-mini-motion-sk8-house.json) |
 | Mini Motor Racing | 89093 | [89093-mini-motor-racing.json](./89093-mini-motor-racing.json) |
 | Mini Motor Racing 2 | 188394 | [188394-mini-motor-racing-2.json](./188394-mini-motor-racing-2.json) |
+| Mini Motor Racing EVO | 8958 | [8958-mini-motor-racing-evo.json](./8958-mini-motor-racing-evo.json) |
 | Mini Motor Racing WRT | 38682 | [38682-mini-motor-racing-wrt.json](./38682-mini-motor-racing-wrt.json) |
 | Mini Motor Racing X | 126194 | [126194-mini-motor-racing-x.json](./126194-mini-motor-racing-x.json) |
 | Mini Motor Racing X | 197623 | [197623-mini-motor-racing-x.json](./197623-mini-motor-racing-x.json) |
