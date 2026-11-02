@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Trigger | 288466 | [288466-war-trigger.json](./288466-war-trigger.json) |
 | War Trigger 2 | 128197 | [128197-war-trigger-2.json](./128197-war-trigger-2.json) |
 | War Trigger 3 | 17353 | [17353-war-trigger-3.json](./17353-war-trigger-3.json) |
+| War Trigger Classic | 107690 | [107690-war-trigger-classic.json](./107690-war-trigger-classic.json) |
 | War Truck Simulator | 32438 | [32438-war-truck-simulator.json](./32438-war-truck-simulator.json) |
 | War Untold | 399779 | [399779-war-untold.json](./399779-war-untold.json) |
 | War War | 168655 | [168655-war-war.json](./168655-war-war.json) |
@@ -7550,6 +7551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Grand Prix 2 | 40572 | [40572-world-grand-prix-2.json](./40572-world-grand-prix-2.json) |
 | World Grand Prix: Pole to Finish | 215132 | [215132-world-grand-prix-pole-to-finish.json](./215132-world-grand-prix-pole-to-finish.json) |
 | World Guesser | 259006 | [259006-world-guesser.json](./259006-world-guesser.json) |
+| World Hentai | 107772 | [107772-world-hentai.json](./107772-world-hentai.json) |
 | World Heritage True or False Quiz | 378790 | [378790-world-heritage-true-or-false-quiz.json](./378790-world-heritage-true-or-false-quiz.json) |
 | World Heritage VR: Swedish Farmhouse | 304024 | [304024-world-heritage-vr-swedish-farmhouse.json](./304024-world-heritage-vr-swedish-farmhouse.json) |
 | World Heroes | 4463 | [4463-world-heroes.json](./4463-world-heroes.json) |
