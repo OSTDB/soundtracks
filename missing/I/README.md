@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Crush 10.000 BC | 300725 | [300725-ice-crush-10-000-bc.json](./300725-ice-crush-10-000-bc.json) |
 | Ice Crystal Adventure Puzzle | 101046 | [101046-ice-crystal-adventure-puzzle.json](./101046-ice-crystal-adventure-puzzle.json) |
 | Ice Crystal Labyrinth | 82812 | [82812-ice-crystal-labyrinth.json](./82812-ice-crystal-labyrinth.json) |
+| Ice Cube | 423400 | [423400-ice-cube.json](./423400-ice-cube.json) |
 | Ice Demon | 110898 | [110898-ice-demon.json](./110898-ice-demon.json) |
 | Ice Dig | 232491 | [232491-ice-dig.json](./232491-ice-dig.json) |
 | Ice Dodo | 358894 | [358894-ice-dodo.json](./358894-ice-dodo.json) |
@@ -3845,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial D: Second Stage Typing Game | 62558 | [62558-initial-d-second-stage-typing-game.json](./62558-initial-d-second-stage-typing-game.json) |
 | Initial D: Street Stage | 45992 | [45992-initial-d-street-stage.json](./45992-initial-d-street-stage.json) |
 | Initial D: Takahashi Ryosuke no Typing Saisoku Riron | 62557 | [62557-initial-d-takahashi-ryosuke-no-typing-saisoku-riron.json](./62557-initial-d-takahashi-ryosuke-no-typing-saisoku-riron.json) |
+| Initial D: Touge Spirit | 423370 | [423370-initial-d-touge-spirit.json](./423370-initial-d-touge-spirit.json) |
 | Initial Daydream | 272464 | [272464-initial-daydream.json](./272464-initial-daydream.json) |
 | Initial Drift Online | 148573 | [148573-initial-drift-online.json](./148573-initial-drift-online.json) |
 | Initial Drift Online: Car Pack | 243067 | [243067-initial-drift-online-car-pack.json](./243067-initial-drift-online-car-pack.json) |
@@ -5461,6 +5463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Ranger | 351009 | [351009-iron-ranger.json](./351009-iron-ranger.json) |
 | Iron Reckoning | 158150 | [158150-iron-reckoning.json](./158150-iron-reckoning.json) |
 | Iron Reich | 157194 | [157194-iron-reich.json](./157194-iron-reich.json) |
+| Iron Remnant | 423376 | [423376-iron-remnant.json](./423376-iron-remnant.json) |
 | Iron Roads | 226474 | [226474-iron-roads.json](./226474-iron-roads.json) |
 | Iron Roses | 16063 | [16063-iron-roses.json](./16063-iron-roses.json) |
 | Iron Ruler | 208827 | [208827-iron-ruler.json](./208827-iron-ruler.json) |
@@ -5493,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Throne: Kingdoms | 101518 | [101518-iron-throne-kingdoms.json](./101518-iron-throne-kingdoms.json) |
 | Iron Tides | 51561 | [51561-iron-tides.json](./51561-iron-tides.json) |
 | Iron Trails: Outlaw Pursuit | 322242 | [322242-iron-trails-outlaw-pursuit.json](./322242-iron-trails-outlaw-pursuit.json) |
+| Iron Verdict | 423378 | [423378-iron-verdict.json](./423378-iron-verdict.json) |
 | Iron Village | 325377 | [325377-iron-village.json](./325377-iron-village.json) |
 | Iron Vulture | 132734 | [132734-iron-vulture.json](./132734-iron-vulture.json) |
 | Iron Warriors: T-72 Tank Command | 14794 | [14794-iron-warriors-t-72-tank-command.json](./14794-iron-warriors-t-72-tank-command.json) |
@@ -6233,6 +6237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Italian Journey: Nitro | 216144 | [216144-italian-journey-nitro.json](./216144-italian-journey-nitro.json) |
 | Italian Night 1999 | 386393 | [386393-italian-night-1999.json](./386393-italian-night-1999.json) |
 | Italian Pizza Simulator | 391123 | [391123-italian-pizza-simulator.json](./391123-italian-pizza-simulator.json) |
+| Italian Street Food Simulator | 423403 | [423403-italian-street-food-simulator.json](./423403-italian-street-food-simulator.json) |
 | Italo-Doom | 224529 | [224529-italo-doom.json](./224529-italo-doom.json) |
 | Italy '90 Soccer | 140489 | [140489-italy-90-soccer.json](./140489-italy-90-soccer.json) |
 | Italy 1990 | 85520 | [85520-italy-1990.json](./85520-italy-1990.json) |
