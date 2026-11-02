@@ -5807,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroSpace | 231488 | [231488-retrospace.json](./231488-retrospace.json) |
 | RetroSpace | 295608 | [295608-retrospace.json](./295608-retrospace.json) |
 | RetroVamp | 126634 | [126634-retrovamp.json](./126634-retrovamp.json) |
+| Retrovirus | 15418 | [15418-retrovirus.json](./15418-retrovirus.json) |
 | Retrowave | 130243 | [130243-retrowave.json](./130243-retrowave.json) |
 | Retrowave '84 | 214180 | [214180-retrowave-84.json](./214180-retrowave-84.json) |
 | Retrowave Barro Crazy Drift | 386976 | [386976-retrowave-barro-crazy-drift.json](./386976-retrowave-barro-crazy-drift.json) |
@@ -11940,6 +11941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush City | 270573 | [270573-rush-city.json](./270573-rush-city.json) |
 | Rush Commander | 265564 | [265564-rush-commander.json](./265564-rush-commander.json) |
 | Rush Delivery | 304850 | [304850-rush-delivery.json](./304850-rush-delivery.json) |
+| Rush for Berlin | 16110 | [16110-rush-for-berlin.json](./16110-rush-for-berlin.json) |
 | Rush For Glory | 10803 | [10803-rush-for-glory.json](./10803-rush-for-glory.json) |
 | Rush for Gold: Alaska | 33707 | [33707-rush-for-gold-alaska.json](./33707-rush-for-gold-alaska.json) |
 | Rush for Gold: California | 33345 | [33345-rush-for-gold-california.json](./33345-rush-for-gold-california.json) |
