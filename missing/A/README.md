@@ -5943,6 +5943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aldro | 247747 | [247747-aldro.json](./247747-aldro.json) |
 | Aldroy: Chapter 1 | 133959 | [133959-aldroy-chapter-1.json](./133959-aldroy-chapter-1.json) |
 | Ale & Aftercare | 262304 | [262304-ale-and-aftercare.json](./262304-ale-and-aftercare.json) |
+| Ale & Axes | 410002 | [410002-ale-and-axes.json](./410002-ale-and-axes.json) |
 | Ale & Tale Tavern | 276233 | [276233-ale-and-tale-tavern.json](./276233-ale-and-tale-tavern.json) |
 | Ale Abbey | 305173 | [305173-ale-abbey.json](./305173-ale-abbey.json) |
 | Ale Hop! | 92777 | [92777-ale-hop.json](./92777-ale-hop.json) |
@@ -8220,6 +8221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amir Khan Khanage | 58599 | [58599-amir-khan-khanage.json](./58599-amir-khan-khanage.json) |
 | Amira | 169857 | [169857-amira.json](./169857-amira.json) |
 | Amit the Paperman | 417681 | [417681-amit-the-paperman.json](./417681-amit-the-paperman.json) |
+| Amitabha Buddha | 408419 | [408419-amitabha-buddha.json](./408419-amitabha-buddha.json) |
 | Amity Park | 216452 | [216452-amity-park.json](./216452-amity-park.json) |
 | AmiWordle | 304190 | [304190-amiwordle.json](./304190-amiwordle.json) |
 | Amma: A Quest for Light | 138223 | [138223-amma-a-quest-for-light.json](./138223-amma-a-quest-for-light.json) |
@@ -8498,6 +8500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Outcry | 182180 | [182180-an-outcry.json](./182180-an-outcry.json) |
 | An Outcry, Prelude | 198319 | [198319-an-outcry-prelude.json](./198319-an-outcry-prelude.json) |
 | An Outland Village | 327728 | [327728-an-outland-village.json](./327728-an-outland-village.json) |
+| An RPG That Is About Rabbits | 409135 | [409135-an-rpg-that-is-about-rabbits.json](./409135-an-rpg-that-is-about-rabbits.json) |
 | An Un-epic story: The adventure of Enki and Tiny Freddie | 174093 | [174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json](./174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json) |
 | An Unfinished Game | 318451 | [318451-an-unfinished-game.json](./318451-an-unfinished-game.json) |
 | An unfolding Adventure | 184795 | [184795-an-unfolding-adventure.json](./184795-an-unfolding-adventure.json) |
@@ -11918,6 +11921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Classics | 77144 | [77144-arcade-classics.json](./77144-arcade-classics.json) |
 | Arcade Classics: Ms. Pac-Man | 219386 | [219386-arcade-classics-ms-pac-man.json](./219386-arcade-classics-ms-pac-man.json) |
 | Arcade Classics: Seawolf II and Gun Fight | 130282 | [130282-arcade-classics-seawolf-ii-and-gun-fight.json](./130282-arcade-classics-seawolf-ii-and-gun-fight.json) |
+| Arcade Classics: Starfire and Fire One | 410003 | [410003-arcade-classics-starfire-and-fire-one.json](./410003-arcade-classics-starfire-and-fire-one.json) |
 | Arcade Classics: Super Breakout / Battlezone | 79702 | [79702-arcade-classics-super-breakout-battlezone.json](./79702-arcade-classics-super-breakout-battlezone.json) |
 | Arcade Combat | 337964 | [337964-arcade-combat.json](./337964-arcade-combat.json) |
 | Arcade Crossy Road | 228367 | [228367-arcade-crossy-road.json](./228367-arcade-crossy-road.json) |
@@ -12363,6 +12367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archie: Riverdale Rescue | 186060 | [186060-archie-riverdale-rescue.json](./186060-archie-riverdale-rescue.json) |
 | Archie's Ribs | 288808 | [288808-archies-ribs.json](./288808-archies-ribs.json) |
 | Archimedean Dynasty | 2197 | [2197-archimedean-dynasty.json](./2197-archimedean-dynasty.json) |
+| Archimedes II: Some Like It Hot | 409601 | [409601-archimedes-ii-some-like-it-hot.json](./409601-archimedes-ii-some-like-it-hot.json) |
 | Archipel Logic Infinite | 310261 | [310261-archipel-logic-infinite.json](./310261-archipel-logic-infinite.json) |
 | Archipelagates | 258224 | [258224-archipelagates.json](./258224-archipelagates.json) |
 | Archipelago | 187171 | [187171-archipelago.json](./187171-archipelago.json) |
@@ -14294,6 +14299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Antiquity Pack | 164782 | [164782-assassins-creed-antiquity-pack.json](./164782-assassins-creed-antiquity-pack.json) |
 | Assassin’s Creed Black Flag Resynced: Collector’s Edition | 412816 | [412816-assassin-s-creed-black-flag-resynced-collector-s-edition.json](./412816-assassin-s-creed-black-flag-resynced-collector-s-edition.json) |
 | Assassin's Creed Black Flag Resynced: Deluxe Edition | 409613 | [409613-assassins-creed-black-flag-resynced-deluxe-edition.json](./409613-assassins-creed-black-flag-resynced-deluxe-edition.json) |
+| Assassin's Creed Black Flag Resynced: Launch Edition | 409599 | [409599-assassins-creed-black-flag-resynced-launch-edition.json](./409599-assassins-creed-black-flag-resynced-launch-edition.json) |
 | Assassin's Creed Brotherhood | 221823 | [221823-assassins-creed-brotherhood.json](./221823-assassins-creed-brotherhood.json) |
 | Assassin's Creed Brotherhood: Copernicus Conspiracy | 64133 | [64133-assassins-creed-brotherhood-copernicus-conspiracy.json](./64133-assassins-creed-brotherhood-copernicus-conspiracy.json) |
 | Assassin's Creed Brotherhood: The Da Vinci Disappearance | 8216 | [8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json](./8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json) |
@@ -14484,6 +14490,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Commander Rearmed | 371888 | [371888-assault-commander-rearmed.json](./371888-assault-commander-rearmed.json) |
 | Assault Commander Ultimate | 91235 | [91235-assault-commander-ultimate.json](./91235-assault-commander-ultimate.json) |
 | Assault CorpsII | 35101 | [35101-assault-corpsii.json](./35101-assault-corpsii.json) |
+| Assault Course | 409051 | [409051-assault-course.json](./409051-assault-course.json) |
+| Assault Course 2 | 409054 | [409054-assault-course-2.json](./409054-assault-course-2.json) |
 | Assault Dragon: The Day 5 | 65735 | [65735-assault-dragon-the-day-5.json](./65735-assault-dragon-the-day-5.json) |
 | Assault Fire | 137583 | [137583-assault-fire.json](./137583-assault-fire.json) |
 | Assault Gunners | 8645 | [8645-assault-gunners.json](./8645-assault-gunners.json) |
@@ -17301,6 +17309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Flame | 333179 | [333179-azure-flame.json](./333179-azure-flame.json) |
 | Azure Haven | 336407 | [336407-azure-haven.json](./336407-azure-haven.json) |
 | Azure Hue | 336553 | [336553-azure-hue.json](./336553-azure-hue.json) |
+| Azure Infinity | 410594 | [410594-azure-infinity.json](./410594-azure-infinity.json) |
 | Azure Influx | 322397 | [322397-azure-influx.json](./322397-azure-influx.json) |
 | Azure Moon | 271856 | [271856-azure-moon.json](./271856-azure-moon.json) |
 | Azure Orphanage | 249212 | [249212-azure-orphanage.json](./249212-azure-orphanage.json) |
