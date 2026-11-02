@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backstory | 406102 | [406102-backstory.json](./406102-backstory.json) |
 | Backstreet Billiards | 94359 | [94359-backstreet-billiards.json](./94359-backstreet-billiards.json) |
 | Backstreet Warriors | 351158 | [351158-backstreet-warriors.json](./351158-backstreet-warriors.json) |
+| Backstreets of the Mind | 18152 | [18152-backstreets-of-the-mind.json](./18152-backstreets-of-the-mind.json) |
 | Backswamp | 258632 | [258632-backswamp.json](./258632-backswamp.json) |
 | BackToNormal | 85278 | [85278-backtonormal.json](./85278-backtonormal.json) |
 | Backtrace: Mechanisms for Forgetting | 419849 | [419849-backtrace-mechanisms-for-forgetting.json](./419849-backtrace-mechanisms-for-forgetting.json) |
@@ -7255,6 +7256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biida-Bash | 372471 | [372471-biida-bash.json](./372471-biida-bash.json) |
 | Biing! 2: Sonne, Strand und Heisse Nächte | 71330 | [71330-biing-2-sonne-strand-und-heisse-nachte.json](./71330-biing-2-sonne-strand-und-heisse-nachte.json) |
 | Biing!: Sex, Intrigue and Scalpels | 50348 | [50348-biing-sex-intrigue-and-scalpels.json](./50348-biing-sex-intrigue-and-scalpels.json) |
+| Bik - A Space Adventure | 17878 | [17878-bik-a-space-adventure.json](./17878-bik-a-space-adventure.json) |
 | Bike Arena | 236266 | [236266-bike-arena.json](./236266-bike-arena.json) |
 | Bike Banditz | 216262 | [216262-bike-banditz.json](./216262-bike-banditz.json) |
 | Bike Baron | 65290 | [65290-bike-baron.json](./65290-bike-baron.json) |
@@ -8130,6 +8132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Legend | 137365 | [137365-bit-legend.json](./137365-bit-legend.json) |
 | Bit Lost | 363963 | [363963-bit-lost.json](./363963-bit-lost.json) |
 | Bit Maze | 406319 | [406319-bit-maze.json](./406319-bit-maze.json) |
+| Bit Odyssey | 17943 | [17943-bit-odyssey.json](./17943-bit-odyssey.json) |
 | Bit Orchard | 148250 | [148250-bit-orchard.json](./148250-bit-orchard.json) |
 | Bit Orchard: Animal Valley | 199892 | [199892-bit-orchard-animal-valley.json](./199892-bit-orchard-animal-valley.json) |
 | Bit Orchard: Animal Valley - Amazing Edition | 256762 | [256762-bit-orchard-animal-valley-amazing-edition.json](./256762-bit-orchard-animal-valley-amazing-edition.json) |
@@ -12707,6 +12710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss, Blind, Brandy | 349989 | [349989-boss-blind-brandy.json](./349989-boss-blind-brandy.json) |
 | Boss! | 60766 | [60766-boss.json](./60766-boss.json) |
 | Bossa Presents | 190883 | [190883-bossa-presents.json](./190883-bossa-presents.json) |
+| BossConstructor | 17971 | [17971-bossconstructor.json](./17971-bossconstructor.json) |
 | BossCrafter | 298388 | [298388-bosscrafter.json](./298388-bosscrafter.json) |
 | Bosses | 235821 | [235821-bosses.json](./235821-bosses.json) |
 | Bosses Forever 2.Bro | 94039 | [94039-bosses-forever-2-bro.json](./94039-bosses-forever-2-bro.json) |
