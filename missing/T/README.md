@@ -4928,6 +4928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Blooming Feeling | 182510 | [182510-that-blooming-feeling.json](./182510-that-blooming-feeling.json) |
 | That Castle | 190019 | [190019-that-castle.json](./190019-that-castle.json) |
 | That Coin Game | 138500 | [138500-that-coin-game.json](./138500-that-coin-game.json) |
+| That Corridor in the Backrooms | 420952 | [420952-that-corridor-in-the-backrooms.json](./420952-that-corridor-in-the-backrooms.json) |
 | That Crazy World | 71006 | [71006-that-crazy-world.json](./71006-that-crazy-world.json) |
 | That Dam Level | 59660 | [59660-that-dam-level.json](./59660-that-dam-level.json) |
 | That Dam Level redux | 33698 | [33698-that-dam-level-redux.json](./33698-that-dam-level-redux.json) |
@@ -8172,6 +8173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Edge Of | 160124 | [160124-the-edge-of.json](./160124-the-edge-of.json) |
 | The Edge of Allegoria | 219553 | [219553-the-edge-of-allegoria.json](./219553-the-edge-of-allegoria.json) |
 | The Edge of Forever | 280957 | [280957-the-edge-of-forever.json](./280957-the-edge-of-forever.json) |
+| The Edge of the Backrooms | 420958 | [420958-the-edge-of-the-backrooms.json](./420958-the-edge-of-the-backrooms.json) |
 | The Edge of The World Z Will Shock You | 212827 | [212827-the-edge-of-the-world-z-will-shock-you.json](./212827-the-edge-of-the-world-z-will-shock-you.json) |
 | The Edge of Water | 399144 | [399144-the-edge-of-water.json](./399144-the-edge-of-water.json) |
 | The Edgelands | 28217 | [28217-the-edgelands.json](./28217-the-edgelands.json) |
@@ -8899,6 +8901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Hours of Titanfall | 36336 | [36336-the-final-hours-of-titanfall.json](./36336-the-final-hours-of-titanfall.json) |
 | The Final Image | 118650 | [118650-the-final-image.json](./118650-the-final-image.json) |
 | The Final Keeper | 304555 | [304555-the-final-keeper.json](./304555-the-final-keeper.json) |
+| The Final Lane | 420937 | [420937-the-final-lane.json](./420937-the-final-lane.json) |
 | The Final Matrix | 14066 | [14066-the-final-matrix.json](./14066-the-final-matrix.json) |
 | The Final Oath | 390374 | [390374-the-final-oath.json](./390374-the-final-oath.json) |
 | The Final Payphone | 351235 | [351235-the-final-payphone.json](./351235-the-final-payphone.json) |
@@ -10515,6 +10518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Infinite Black | 32861 | [32861-the-infinite-black.json](./32861-the-infinite-black.json) |
 | The Infinite Black 2 | 221519 | [221519-the-infinite-black-2.json](./221519-the-infinite-black-2.json) |
 | The Infinite Grimoire | 401825 | [401825-the-infinite-grimoire.json](./401825-the-infinite-grimoire.json) |
+| The Infinite Shift: Backrooms | 420953 | [420953-the-infinite-shift-backrooms.json](./420953-the-infinite-shift-backrooms.json) |
 | The Infinite Trial of a Hopeless Man Running | 148233 | [148233-the-infinite-trial-of-a-hopeless-man-running.json](./148233-the-infinite-trial-of-a-hopeless-man-running.json) |
 | The Infinity Road | 341160 | [341160-the-infinity-road.json](./341160-the-infinity-road.json) |
 | The Infinity String | 74043 | [74043-the-infinity-string.json](./74043-the-infinity-string.json) |
@@ -13834,6 +13838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pale Deep | 349740 | [349740-the-pale-deep.json](./349740-the-pale-deep.json) |
 | The Pale Man | 232547 | [232547-the-pale-man.json](./232547-the-pale-man.json) |
 | The Pale Piper | 335503 | [335503-the-pale-piper.json](./335503-the-pale-piper.json) |
+| The Pale Sorcerer | 420960 | [420960-the-pale-sorcerer.json](./420960-the-pale-sorcerer.json) |
 | The Palms | 137850 | [137850-the-palms.json](./137850-the-palms.json) |
 | The Pancakes Official Game Show | 176247 | [176247-the-pancakes-official-game-show.json](./176247-the-pancakes-official-game-show.json) |
 | The Pandemonium | 276377 | [276377-the-pandemonium.json](./276377-the-pandemonium.json) |
@@ -18013,6 +18018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Woodsman | 225558 | [225558-the-woodsman.json](./225558-the-woodsman.json) |
 | The Woodworker | 220517 | [220517-the-woodworker.json](./220517-the-woodworker.json) |
 | The Wooter | 176132 | [176132-the-wooter.json](./176132-the-wooter.json) |
+| The Word | 420923 | [420923-the-word.json](./420923-the-word.json) |
 | The Word is Not the Thing | 74468 | [74468-the-word-is-not-the-thing.json](./74468-the-word-is-not-the-thing.json) |
 | The Wordland Scape | 183807 | [183807-the-wordland-scape.json](./183807-the-wordland-scape.json) |
 | The Words Within | 191657 | [191657-the-words-within.json](./191657-the-words-within.json) |
@@ -19538,6 +19544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TI Puck | 421222 | [421222-ti-puck.json](./421222-ti-puck.json) |
 | TI-Pei | 419895 | [419895-ti-pei.json](./419895-ti-pei.json) |
 | TI-Sweeper | 421191 | [421191-ti-sweeper.json](./421191-ti-sweeper.json) |
+| TI99 Clickety | 420969 | [420969-ti99-clickety.json](./420969-ti99-clickety.json) |
 | Tia.Sav | 113884 | [113884-tia-sav.json](./113884-tia-sav.json) |
 | TiaDar | 292479 | [292479-tiadar.json](./292479-tiadar.json) |
 | Tialucy and the Underground Labyrinth | 82845 | [82845-tialucy-and-the-underground-labyrinth.json](./82845-tialucy-and-the-underground-labyrinth.json) |
@@ -19723,6 +19730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Up | 406153 | [406153-tidy-up.json](./406153-tidy-up.json) |
 | Tidy Up | 412006 | [412006-tidy-up.json](./412006-tidy-up.json) |
 | Tidy Up History | 412000 | [412000-tidy-up-history.json](./412000-tidy-up-history.json) |
+| Tidy up the Backrooms | 420916 | [420916-tidy-up-the-backrooms.json](./420916-tidy-up-the-backrooms.json) |
 | Tidy Up: Electronic Store Simulator | 416679 | [416679-tidy-up-electronic-store-simulator.json](./416679-tidy-up-electronic-store-simulator.json) |
 | Tidy Up: Spaceship | 410257 | [410257-tidy-up-spaceship.json](./410257-tidy-up-spaceship.json) |
 | Tidy Wizard: A Place For Every Plate | 411998 | [411998-tidy-wizard-a-place-for-every-plate.json](./411998-tidy-wizard-a-place-for-every-plate.json) |
@@ -30969,6 +30977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Goddesses | 43810 | [43810-twin-goddesses.json](./43810-twin-goddesses.json) |
 | Twin Hawk | 294036 | [294036-twin-hawk.json](./294036-twin-hawk.json) |
 | Twin Hobo Rocket | 215565 | [215565-twin-hobo-rocket.json](./215565-twin-hobo-rocket.json) |
+| Twin Hooks | 420970 | [420970-twin-hooks.json](./420970-twin-hooks.json) |
 | Twin Horizons | 149343 | [149343-twin-horizons.json](./149343-twin-horizons.json) |
 | Twin Hotel, Spa, and More | 409208 | [409208-twin-hotel-spa-and-more.json](./409208-twin-hotel-spa-and-more.json) |
 | Twin Jet Racer | 225200 | [225200-twin-jet-racer.json](./225200-twin-jet-racer.json) |
