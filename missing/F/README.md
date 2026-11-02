@@ -3791,6 +3791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fernz Gate | 104942 | [104942-fernz-gate.json](./104942-fernz-gate.json) |
 | Ferocious | 152017 | [152017-ferocious.json](./152017-ferocious.json) |
 | Ferra | 344144 | [344144-ferra.json](./344144-ferra.json) |
+| Ferra | 400922 | [400922-ferra.json](./400922-ferra.json) |
 | Ferral Quest | 308182 | [308182-ferral-quest.json](./308182-ferral-quest.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259269 | [259269-ferrari-challenge-trofeo-pirelli.json](./259269-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259270 | [259270-ferrari-challenge-trofeo-pirelli.json](./259270-ferrari-challenge-trofeo-pirelli.json) |
@@ -9405,6 +9406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Realms: The Archives - Collection One | 51808 | [51808-forgotten-realms-the-archives-collection-one.json](./51808-forgotten-realms-the-archives-collection-one.json) |
 | Forgotten Realms: The Archives - Collection Three | 51807 | [51807-forgotten-realms-the-archives-collection-three.json](./51807-forgotten-realms-the-archives-collection-three.json) |
 | Forgotten Realms: The Archives - Collection Two | 51806 | [51806-forgotten-realms-the-archives-collection-two.json](./51806-forgotten-realms-the-archives-collection-two.json) |
+| Forgotten Records | 400921 | [400921-forgotten-records.json](./400921-forgotten-records.json) |
 | Forgotten Red Fog | 311169 | [311169-forgotten-red-fog.json](./311169-forgotten-red-fog.json) |
 | Forgotten Riddles: The Mayan Princess | 209562 | [209562-forgotten-riddles-the-mayan-princess.json](./209562-forgotten-riddles-the-mayan-princess.json) |
 | Forgotten Riddles: The Moonlight Sonatas | 64726 | [64726-forgotten-riddles-the-moonlight-sonatas.json](./64726-forgotten-riddles-the-moonlight-sonatas.json) |
@@ -13228,6 +13230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futurewar | 234634 | [234634-futurewar.json](./234634-futurewar.json) |
 | Futuridium EP | 88752 | [88752-futuridium-ep.json](./88752-futuridium-ep.json) |
 | Futuridium EP Deluxe | 8500 | [8500-futuridium-ep-deluxe.json](./8500-futuridium-ep-deluxe.json) |
+| Futurion | 401204 | [401204-futurion.json](./401204-futurion.json) |
 | Futurust | 56294 | [56294-futurust.json](./56294-futurust.json) |
 | Futwatch | 69349 | [69349-futwatch.json](./69349-futwatch.json) |
 | Fuu | 393493 | [393493-fuu.json](./393493-fuu.json) |
