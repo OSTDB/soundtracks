@@ -5807,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piczle Lines DX+α | 116247 | [116247-piczle-lines-dx.json](./116247-piczle-lines-dx.json) |
 | Piczle Lines Jr. | 110026 | [110026-piczle-lines-jr.json](./110026-piczle-lines-jr.json) |
 | Piczle Lines Super Puzzle Turbo Bundle | 385131 | [385131-piczle-lines-super-puzzle-turbo-bundle.json](./385131-piczle-lines-super-puzzle-turbo-bundle.json) |
+| Piczle Puzzle & Watch Collection | 154906 | [154906-piczle-puzzle-and-watch-collection.json](./154906-piczle-puzzle-and-watch-collection.json) |
 | Piczle Puzzle Adventures + Picto Quest Puzzle Bundle | 145690 | [145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json](./145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json) |
 | Piczle Puzzle Pack 3-in-1 | 136960 | [136960-piczle-puzzle-pack-3-in-1.json](./136960-piczle-puzzle-pack-3-in-1.json) |
 | Pid | 1892 | [1892-pid.json](./1892-pid.json) |
