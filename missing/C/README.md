@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camping Cat Family | 219775 | [219775-camping-cat-family.json](./219775-camping-cat-family.json) |
 | Camping Mama: Outdoor Adventures | 47942 | [47942-camping-mama-outdoor-adventures.json](./47942-camping-mama-outdoor-adventures.json) |
 | Camping Park Simulator | 249079 | [249079-camping-park-simulator.json](./249079-camping-park-simulator.json) |
+| Camping Resort Simulator | 423404 | [423404-camping-resort-simulator.json](./423404-camping-resort-simulator.json) |
 | Camping Simulator: The Squad | 150072 | [150072-camping-simulator-the-squad.json](./150072-camping-simulator-the-squad.json) |
 | Camping Tycoon | 62979 | [62979-camping-tycoon.json](./62979-camping-tycoon.json) |
 | Camping Vlog Simulator 2024 | 275544 | [275544-camping-vlog-simulator-2024.json](./275544-camping-vlog-simulator-2024.json) |
@@ -6560,6 +6561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chick Tac Toe | 22105 | [22105-chick-tac-toe.json](./22105-chick-tac-toe.json) |
 | Chick That Never Skipped a Leg Day | 309128 | [309128-chick-that-never-skipped-a-leg-day.json](./309128-chick-that-never-skipped-a-leg-day.json) |
 | Chick-Chick | 268317 | [268317-chick-chick.json](./268317-chick-chick.json) |
+| Chick'Hen Show | 423391 | [423391-chickhen-show.json](./423391-chickhen-show.json) |
 | Chick'n Mushroom Soup | 284968 | [284968-chickn-mushroom-soup.json](./284968-chickn-mushroom-soup.json) |
 | Chicka Wars \| Chicken Meat | 34741 | [34741-chicka-wars-chicken-meat.json](./34741-chicka-wars-chicken-meat.json) |
 | Chickaboom | 314663 | [314663-chickaboom.json](./314663-chickaboom.json) |
