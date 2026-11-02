@@ -1993,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electric | 187162 | [187162-electric.json](./187162-electric.json) |
 | Electric Blue: Gecko dash! | 297530 | [297530-electric-blue-gecko-dash.json](./297530-electric-blue-gecko-dash.json) |
 | Electric Car Tycoon | 217199 | [217199-electric-car-tycoon.json](./217199-electric-car-tycoon.json) |
+| Electric Circuit | 35500 | [35500-electric-circuit.json](./35500-electric-circuit.json) |
 | Electric Crayon 3.1: At the Zoo | 68970 | [68970-electric-crayon-3-1-at-the-zoo.json](./68970-electric-crayon-3-1-at-the-zoo.json) |
 | Electric Crayon Deluxe: Dinosaurs Are Forever | 71765 | [71765-electric-crayon-deluxe-dinosaurs-are-forever.json](./71765-electric-crayon-deluxe-dinosaurs-are-forever.json) |
 | Electric Crayon Deluxe: Teenage Mutant Hero Turtles - World Tour | 78007 | [78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json](./78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json) |
@@ -4446,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equire | 303519 | [303519-equire.json](./303519-equire.json) |
 | Equitania | 359353 | [359353-equitania.json](./359353-equitania.json) |
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
+| Equivoque | 40705 | [40705-equivoque.json](./40705-equivoque.json) |
 | ER | 69779 | [69779-er.json](./69779-er.json) |
 | Er-Spectro | 81769 | [81769-er-spectro.json](./81769-er-spectro.json) |
 | Era | 83940 | [83940-era.json](./83940-era.json) |
@@ -5499,6 +5501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPNU College Town | 93571 | [93571-espnu-college-town.json](./93571-espnu-college-town.json) |
 | Esport Club Tycoon | 197370 | [197370-esport-club-tycoon.json](./197370-esport-club-tycoon.json) |
 | ESport Manager | 81150 | [81150-esport-manager.json](./81150-esport-manager.json) |
+| ESports Club | 39762 | [39762-esports-club.json](./39762-esports-club.json) |
 | Esports Godfather | 159504 | [159504-esports-godfather.json](./159504-esports-godfather.json) |
 | Esports Godfather Origin | 282161 | [282161-esports-godfather-origin.json](./282161-esports-godfather-origin.json) |
 | ESports Hero | 335458 | [335458-esports-hero.json](./335458-esports-hero.json) |
@@ -6555,6 +6558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyday Baseball VR | 107415 | [107415-everyday-baseball-vr.json](./107415-everyday-baseball-vr.json) |
 | Everyday Devil | 380839 | [380839-everyday-devil.json](./380839-everyday-devil.json) |
 | Everyday Genius: SquareLogic | 16005 | [16005-everyday-genius-squarelogic.json](./16005-everyday-genius-squarelogic.json) |
+| Everyday Golf VR | 40504 | [40504-everyday-golf-vr.json](./40504-everyday-golf-vr.json) |
 | Everyday Heroines: 3 in 1 | 332012 | [332012-everyday-heroines-3-in-1.json](./332012-everyday-heroines-3-in-1.json) |
 | Everyday House Tamagotchi | 222427 | [222427-everyday-house-tamagotchi.json](./222427-everyday-house-tamagotchi.json) |
 | Everyday Jigsaw | 87088 | [87088-everyday-jigsaw.json](./87088-everyday-jigsaw.json) |
