@@ -8902,6 +8902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan Fantasy Adventures | 373156 | [373156-clan-fantasy-adventures.json](./373156-clan-fantasy-adventures.json) |
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
 | Clan Lord | 63698 | [63698-clan-lord.json](./63698-clan-lord.json) |
+| Clan O'Conall and the Crown of the Stag | 137993 | [137993-clan-oconall-and-the-crown-of-the-stag.json](./137993-clan-oconall-and-the-crown-of-the-stag.json) |
 | Clan of Champions | 16341 | [16341-clan-of-champions.json](./16341-clan-of-champions.json) |
 | Clan of Death | 150430 | [150430-clan-of-death.json](./150430-clan-of-death.json) |
 | Clan of Heroes: Generals of the Yang Family | 45679 | [45679-clan-of-heroes-generals-of-the-yang-family.json](./45679-clan-of-heroes-generals-of-the-yang-family.json) |
@@ -10878,6 +10879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collectibles! | 309930 | [309930-collectibles.json](./309930-collectibles.json) |
 | Collection of Mana | 27916 | [27916-collection-of-mana.json](./27916-collection-of-mana.json) |
 | Collection of Most Awful Things that Could Ever Happen on St. Valentine's Day | 319985 | [319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json](./319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json) |
+| Collection of SaGa: Final Fantasy Legend | 137130 | [137130-collection-of-saga-final-fantasy-legend.json](./137130-collection-of-saga-final-fantasy-legend.json) |
 | Collection Pocket | 228493 | [228493-collection-pocket.json](./228493-collection-pocket.json) |
 | Collection Quest | 137828 | [137828-collection-quest.json](./137828-collection-quest.json) |
 | Collective Card Game | 112877 | [112877-collective-card-game.json](./112877-collective-card-game.json) |
@@ -13794,6 +13796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupted Worlds | 408522 | [408522-corrupted-worlds.json](./408522-corrupted-worlds.json) |
 | Corruption | 101599 | [101599-corruption.json](./101599-corruption.json) |
 | Corruption | 12012 | [12012-corruption.json](./12012-corruption.json) |
+| Corruption 2029 | 129798 | [129798-corruption-2029.json](./129798-corruption-2029.json) |
 | Corruption Catharsis: Try To Act Normal | 271507 | [271507-corruption-catharsis-try-to-act-normal.json](./271507-corruption-catharsis-try-to-act-normal.json) |
 | Corruption of Champions II | 148426 | [148426-corruption-of-champions-ii.json](./148426-corruption-of-champions-ii.json) |
 | Corruption of Laetitia | 124535 | [124535-corruption-of-laetitia.json](./124535-corruption-of-laetitia.json) |
@@ -18763,6 +18766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyan Breach | 349975 | [349975-cyan-breach.json](./349975-cyan-breach.json) |
 | Cyan Heart | 374245 | [374245-cyan-heart.json](./374245-cyan-heart.json) |
 | Cyan's Snow House | 289446 | [289446-cyans-snow-house.json](./289446-cyans-snow-house.json) |
+| Cyanide & Happiness: Freakpocalypse | 131871 | [131871-cyanide-and-happiness-freakpocalypse.json](./131871-cyanide-and-happiness-freakpocalypse.json) |
 | Cyanide & Happiness: Freakpocalypse - Episode 1 | 147983 | [147983-cyanide-and-happiness-freakpocalypse-episode-1.json](./147983-cyanide-and-happiness-freakpocalypse-episode-1.json) |
 | Cyanide Angel | 397162 | [397162-cyanide-angel.json](./397162-cyanide-angel.json) |
 | Cyanos: Ao wo Tayutau Nageki no Chou | 395357 | [395357-cyanos-ao-wo-tayutau-nageki-no-chou.json](./395357-cyanos-ao-wo-tayutau-nageki-no-chou.json) |
