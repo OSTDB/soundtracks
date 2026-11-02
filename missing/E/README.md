@@ -2265,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elements: Soul of Fire | 35972 | [35972-elements-soul-of-fire.json](./35972-elements-soul-of-fire.json) |
 | Elementum | 285025 | [285025-elementum.json](./285025-elementum.json) |
 | Elementyle | 309513 | [309513-elementyle.json](./309513-elementyle.json) |
+| Elementys | 423389 | [423389-elementys.json](./423389-elementys.json) |
 | EleMetals: Death Metal Death Match! | 132515 | [132515-elemetals-death-metal-death-match.json](./132515-elemetals-death-metal-death-match.json) |
 | EleMetals: Deluxe Edition | 212283 | [212283-elemetals-deluxe-edition.json](./212283-elemetals-deluxe-edition.json) |
 | Elemgate | 207105 | [207105-elemgate.json](./207105-elemgate.json) |
@@ -7589,6 +7590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extinction Day | 325552 | [325552-extinction-day.json](./325552-extinction-day.json) |
 | Extinction Eclipse | 201687 | [201687-extinction-eclipse.json](./201687-extinction-eclipse.json) |
 | Extinction Facility | 318953 | [318953-extinction-facility.json](./318953-extinction-facility.json) |
+| Extinction Force | 423393 | [423393-extinction-force.json](./423393-extinction-force.json) |
 | Extinction Level Event | 133760 | [133760-extinction-level-event.json](./133760-extinction-level-event.json) |
 | Extinction Rifts | 296724 | [296724-extinction-rifts.json](./296724-extinction-rifts.json) |
 | Extinction Squad | 61378 | [61378-extinction-squad.json](./61378-extinction-squad.json) |
