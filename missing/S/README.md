@@ -7710,6 +7710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Era Tensei | 365818 | [365818-shin-era-tensei.json](./365818-shin-era-tensei.json) |
 | Shin Fangame Tensei | 386549 | [386549-shin-fangame-tensei.json](./386549-shin-fangame-tensei.json) |
 | Shin Fumi Ikemen Ouoku Kinjirareta Koi | 229027 | [229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json](./229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json) |
+| Shin Fushigi no Kuni no Alice | 424633 | [424633-shin-fushigi-no-kuni-no-alice.json](./424633-shin-fushigi-no-kuni-no-alice.json) |
 | Shin Galaxy: Engage | 259598 | [259598-shin-galaxy-engage.json](./259598-shin-galaxy-engage.json) |
 | Shin Gouketsuji Ichizoku: Bonnou no Kaihou | 71914 | [71914-shin-gouketsuji-ichizoku-bonnou-no-kaihou.json](./71914-shin-gouketsuji-ichizoku-bonnou-no-kaihou.json) |
 | Shin Gundam Musou | 52832 | [52832-shin-gundam-musou.json](./52832-shin-gundam-musou.json) |
@@ -7864,6 +7865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
 | Shin-chan: Me and the Professor on Summer Vacation - The Endless Seven-Day Journey | 143621 | [143621-shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey.json](./143621-shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey.json) |
 | Shin-chan: Shiro and the Coal Town | 266712 | [266712-shin-chan-shiro-and-the-coal-town.json](./266712-shin-chan-shiro-and-the-coal-town.json) |
+| Shin'ai Rewritten | 424612 | [424612-shinai-rewritten.json](./424612-shinai-rewritten.json) |
 | Shinai Naru Kodoku to Kunou e | 350600 | [350600-shinai-naru-kodoku-to-kunou-e.json](./350600-shinai-naru-kodoku-to-kunou-e.json) |
 | Shinban Arishia no Panse | 415278 | [415278-shinban-arishia-no-panse.json](./415278-shinban-arishia-no-panse.json) |
 | Shinchou Kouki | 42312 | [42312-shinchou-kouki.json](./42312-shinchou-kouki.json) |
@@ -21111,6 +21113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooble: A Search Engine Story | 177484 | [177484-spooble-a-search-engine-story.json](./177484-spooble-a-search-engine-story.json) |
 | Spoockey | 189071 | [189071-spoockey.json](./189071-spoockey.json) |
 | Spoofs Playland | 373552 | [373552-spoofs-playland.json](./373552-spoofs-playland.json) |
+| Spook & Sell | 424629 | [424629-spook-and-sell.json](./424629-spook-and-sell.json) |
 | Spook and Thunder | 182672 | [182672-spook-and-thunder.json](./182672-spook-and-thunder.json) |
 | Spook Bowl | 249376 | [249376-spook-bowl.json](./249376-spook-bowl.json) |
 | Spook Game | 340178 | [340178-spook-game.json](./340178-spook-game.json) |
@@ -31282,6 +31285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Waifu Tsunami | 403083 | [403083-super-waifu-tsunami.json](./403083-super-waifu-tsunami.json) |
 | Super Wakana Land | 275567 | [275567-super-wakana-land.json](./275567-super-wakana-land.json) |
 | Super Walrus Entertainment System | 156630 | [156630-super-walrus-entertainment-system.json](./156630-super-walrus-entertainment-system.json) |
+| Super Waluigi: Rescue Wario | 424591 | [424591-super-waluigi-rescue-wario.json](./424591-super-waluigi-rescue-wario.json) |
 | Super Wash Simulator | 391040 | [391040-super-wash-simulator.json](./391040-super-wash-simulator.json) |
 | Super Weapon Master | 213044 | [213044-super-weapon-master.json](./213044-super-weapon-master.json) |
 | Super Weekend Mode | 96642 | [96642-super-weekend-mode.json](./96642-super-weekend-mode.json) |
@@ -32109,6 +32113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival: Revelation | 124225 | [124225-survival-revelation.json](./124225-survival-revelation.json) |
 | Survival: The Ultimate Challenge | 51243 | [51243-survival-the-ultimate-challenge.json](./51243-survival-the-ultimate-challenge.json) |
 | Survival: Wicked Forest | 102626 | [102626-survival-wicked-forest.json](./102626-survival-wicked-forest.json) |
+| Survival.io | 424589 | [424589-survival-io.json](./424589-survival-io.json) |
 | Survival.io - Battle Royale | 101560 | [101560-survival-io-battle-royale.json](./101560-survival-io-battle-royale.json) |
 | Survivalcraft | 87025 | [87025-survivalcraft.json](./87025-survivalcraft.json) |
 | SurvivalIsLand | 195902 | [195902-survivalisland.json](./195902-survivalisland.json) |
@@ -32620,6 +32625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarm Universe | 34334 | [34334-swarm-universe.json](./34334-swarm-universe.json) |
 | Swarm! | 22559 | [22559-swarm.json](./22559-swarm.json) |
 | Swarmcade | 219558 | [219558-swarmcade.json](./219558-swarmcade.json) |
+| Swarmed | 424640 | [424640-swarmed.json](./424640-swarmed.json) |
 | Swarmed: Nuts & Bolts | 219559 | [219559-swarmed-nuts-and-bolts.json](./219559-swarmed-nuts-and-bolts.json) |
 | Swarmhunters | 276607 | [276607-swarmhunters.json](./276607-swarmhunters.json) |
 | Swarming Planet | 146099 | [146099-swarming-planet.json](./146099-swarming-planet.json) |
