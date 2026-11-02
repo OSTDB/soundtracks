@@ -4901,6 +4901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outergalactic Aliens Pinball | 173237 | [173237-outergalactic-aliens-pinball.json](./173237-outergalactic-aliens-pinball.json) |
 | Outerland | 208156 | [208156-outerland.json](./208156-outerland.json) |
 | Outerlands Guilds | 236140 | [236140-outerlands-guilds.json](./236140-outerlands-guilds.json) |
+| Outernauts | 22273 | [22273-outernauts.json](./22273-outernauts.json) |
 | Outerplane | 188368 | [188368-outerplane.json](./188368-outerplane.json) |
 | Outerra World Sandbox | 223254 | [223254-outerra-world-sandbox.json](./223254-outerra-world-sandbox.json) |
 | OuterRealm | 285888 | [285888-outerrealm.json](./285888-outerrealm.json) |
@@ -5539,6 +5540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owyn's Adventure | 116482 | [116482-owyns-adventure.json](./116482-owyns-adventure.json) |
 | Owys | 34642 | [34642-owys.json](./34642-owys.json) |
 | Oxenfree: Collector's Edition | 51536 | [51536-oxenfree-collectors-edition.json](./51536-oxenfree-collectors-edition.json) |
+| Oxenfree: Director's Cut | 22446 | [22446-oxenfree-directors-cut.json](./22446-oxenfree-directors-cut.json) |
 | Oxide Room 208 | 240258 | [240258-oxide-room-208.json](./240258-oxide-room-208.json) |
 | Oxide Room 208: File Josh | 392344 | [392344-oxide-room-208-file-josh.json](./392344-oxide-room-208-file-josh.json) |
 | Oxide: Room 104 | 186663 | [186663-oxide-room-104.json](./186663-oxide-room-104.json) |
