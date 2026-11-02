@@ -1503,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Taluluto-kun: Magic Adventure | 42419 | [42419-magical-taluluto-kun-magic-adventure.json](./42419-magical-taluluto-kun-magic-adventure.json) |
 | Magical Tetris Challenge | 205583 | [205583-magical-tetris-challenge.json](./205583-magical-tetris-challenge.json) |
 | Magical Tetris Challenge | 3398 | [3398-magical-tetris-challenge.json](./3398-magical-tetris-challenge.json) |
+| Magical Thief Silky | 405248 | [405248-magical-thief-silky.json](./405248-magical-thief-silky.json) |
 | Magical Town | 244877 | [244877-magical-town.json](./244877-magical-town.json) |
 | Magical Tree | 311021 | [311021-magical-tree.json](./311021-magical-tree.json) |
 | Magical Tree | 41744 | [41744-magical-tree.json](./41744-magical-tree.json) |
@@ -2548,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malfunction FPS | 168326 | [168326-malfunction-fps.json](./168326-malfunction-fps.json) |
 | Malfunction II | 167392 | [167392-malfunction-ii.json](./167392-malfunction-ii.json) |
 | Malgosia | 395973 | [395973-malgosia.json](./395973-malgosia.json) |
+| Malhaar | 405288 | [405288-malhaar.json](./405288-malhaar.json) |
 | Malibu Beach Volleyball | 49045 | [49045-malibu-beach-volleyball.json](./49045-malibu-beach-volleyball.json) |
 | Malice | 208608 | [208608-malice.json](./208608-malice.json) |
 | Malice | 246008 | [246008-malice.json](./246008-malice.json) |
@@ -8186,7 +8188,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorial Series: Sunsoft vol. 4 | 58527 | [58527-memorial-series-sunsoft-vol-4.json](./58527-memorial-series-sunsoft-vol-4.json) |
 | Memorial Series: Sunsoft vol. 5 | 58525 | [58525-memorial-series-sunsoft-vol-5.json](./58525-memorial-series-sunsoft-vol-5.json) |
 | Memorial Series: Sunsoft vol. 6 | 58526 | [58526-memorial-series-sunsoft-vol-6.json](./58526-memorial-series-sunsoft-vol-6.json) |
-| Memoriapolis | 264932 | [264932-memoriapolis.json](./264932-memoriapolis.json) |
 | Memorick: The Apprentice Knight | 24244 | [24244-memorick-the-apprentice-knight.json](./24244-memorick-the-apprentice-knight.json) |
 | Memoriedit | 373521 | [373521-memoriedit.json](./373521-memoriedit.json) |
 | Memories | 123314 | [123314-memories.json](./123314-memories.json) |
@@ -10834,6 +10835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikey Boots | 140610 | [140610-mikey-boots.json](./140610-mikey-boots.json) |
 | Mikey Hooks | 63021 | [63021-mikey-hooks.json](./63021-mikey-hooks.json) |
 | Mikey Jumps | 99317 | [99317-mikey-jumps.json](./99317-mikey-jumps.json) |
+| Mikey Shorts | 405257 | [405257-mikey-shorts.json](./405257-mikey-shorts.json) |
 | Mikeyeldey: The Album | 206476 | [206476-mikeyeldey-the-album.json](./206476-mikeyeldey-the-album.json) |
 | Mikeyeldey95 | 206475 | [206475-mikeyeldey95.json](./206475-mikeyeldey95.json) |
 | Miki's World: The Lost Tiara | 256658 | [256658-mikis-world-the-lost-tiara.json](./256658-mikis-world-the-lost-tiara.json) |
@@ -12017,6 +12019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | mini PVP | 118088 | [118088-mini-pvp.json](./118088-mini-pvp.json) |
 | Mini Quests | 207852 | [207852-mini-quests.json](./207852-mini-quests.json) |
 | Mini Racer Car Shop Simulator | 326386 | [326386-mini-racer-car-shop-simulator.json](./326386-mini-racer-car-shop-simulator.json) |
+| Mini Racer Online | 405452 | [405452-mini-racer-online.json](./405452-mini-racer-online.json) |
 | Mini Racers | 47738 | [47738-mini-racers.json](./47738-mini-racers.json) |
 | Mini Racing Adventures | 233917 | [233917-mini-racing-adventures.json](./233917-mini-racing-adventures.json) |
 | Mini Racing Mania: Multiplayer | 36922 | [36922-mini-racing-mania-multiplayer.json](./36922-mini-racing-mania-multiplayer.json) |
@@ -14226,6 +14229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Go! | 246471 | [246471-money-go.json](./246471-money-go.json) |
 | Money Hog | 294806 | [294806-money-hog.json](./294806-money-hog.json) |
 | Money Idol Exchanger | 228625 | [228625-money-idol-exchanger.json](./228625-money-idol-exchanger.json) |
+| Money Laundering Raccoon | 405265 | [405265-money-laundering-raccoon.json](./405265-money-laundering-raccoon.json) |
 | Money Laundering Simulator | 358344 | [358344-money-laundering-simulator.json](./358344-money-laundering-simulator.json) |
 | Money Loves Silence | 126608 | [126608-money-loves-silence.json](./126608-money-loves-silence.json) |
 | Money Mad | 94479 | [94479-money-mad.json](./94479-money-mad.json) |
