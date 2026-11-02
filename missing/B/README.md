@@ -899,7 +899,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2156,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarian | 3793 | [3793-barbarian.json](./3793-barbarian.json) |
 | Barbarian Bob | 393000 | [393000-barbarian-bob.json](./393000-barbarian-bob.json) |
 | Barbarian Brawl | 10021 | [10021-barbarian-brawl.json](./10021-barbarian-brawl.json) |
+| Barbarian II: The Dungeon of Drax | 4640 | [4640-barbarian-ii-the-dungeon-of-drax.json](./4640-barbarian-ii-the-dungeon-of-drax.json) |
 | Barbarian Kingdom | 216633 | [216633-barbarian-kingdom.json](./216633-barbarian-kingdom.json) |
 | Barbarian Legend | 153902 | [153902-barbarian-legend.json](./153902-barbarian-legend.json) |
 | Barbarian Roller Rally | 73058 | [73058-barbarian-roller-rally.json](./73058-barbarian-roller-rally.json) |
@@ -3243,6 +3243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battalion Commander | 27128 | [27128-battalion-commander.json](./27128-battalion-commander.json) |
 | Battalion Legacy | 17446 | [17446-battalion-legacy.json](./17446-battalion-legacy.json) |
 | Battalion Wars | 3797 | [3797-battalion-wars.json](./3797-battalion-wars.json) |
+| Battalion Wars 2 | 4708 | [4708-battalion-wars-2.json](./4708-battalion-wars-2.json) |
 | Battalion: Ghosts | 387067 | [387067-battalion-ghosts.json](./387067-battalion-ghosts.json) |
 | Battalion: Vengeance | 387069 | [387069-battalion-vengeance.json](./387069-battalion-vengeance.json) |
 | Batten Tanuki no Daibouken | 47548 | [47548-batten-tanuki-no-daibouken.json](./47548-batten-tanuki-no-daibouken.json) |
@@ -6778,6 +6779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BiBi World | 174710 | [174710-bibi-world.json](./174710-bibi-world.json) |
 | Bibidi Bibidi! | 352229 | [352229-bibidi-bibidi.json](./352229-bibidi-bibidi.json) |
 | Bibimba wo Mazesaseruna 2 | 394578 | [394578-bibimba-wo-mazesaseruna-2.json](./394578-bibimba-wo-mazesaseruna-2.json) |
+| Bible Adventures | 4462 | [4462-bible-adventures.json](./4462-bible-adventures.json) |
 | Bible Black: The Infection | 72571 | [72571-bible-black-the-infection.json](./72571-bible-black-the-infection.json) |
 | Bible Buffet | 11163 | [11163-bible-buffet.json](./11163-bible-buffet.json) |
 | Bible Fight | 229895 | [229895-bible-fight.json](./229895-bible-fight.json) |
@@ -14338,6 +14340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brian Jacks Superstar Challenge | 13439 | [13439-brian-jacks-superstar-challenge.json](./13439-brian-jacks-superstar-challenge.json) |
 | Brian Lara 2007 Pressure Play | 70025 | [70025-brian-lara-2007-pressure-play.json](./70025-brian-lara-2007-pressure-play.json) |
 | Brian Lara Cricket | 94848 | [94848-brian-lara-cricket.json](./94848-brian-lara-cricket.json) |
+| Brian Lara Cricket '96 | 4383 | [4383-brian-lara-cricket-96.json](./4383-brian-lara-cricket-96.json) |
 | Brian Lara International Cricket 2007 | 6927 | [6927-brian-lara-international-cricket-2007.json](./6927-brian-lara-international-cricket-2007.json) |
 | Brian the Brain | 151606 | [151606-brian-the-brain.json](./151606-brian-the-brain.json) |
 | Brian the Lion | 11979 | [11979-brian-the-lion.json](./11979-brian-the-lion.json) |
