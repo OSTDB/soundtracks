@@ -2400,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Assassin: Jungle | 107489 | [107489-legend-of-assassin-jungle.json](./107489-legend-of-assassin-jungle.json) |
 | Legend of Assassin: Siberia | 107830 | [107830-legend-of-assassin-siberia.json](./107830-legend-of-assassin-siberia.json) |
 | Legend of Azcarth | 158505 | [158505-legend-of-azcarth.json](./158505-legend-of-azcarth.json) |
+| Legend of Azure Peak: Wuxia Heroes | 423365 | [423365-legend-of-azure-peak-wuxia-heroes.json](./423365-legend-of-azure-peak-wuxia-heroes.json) |
 | Legend of Ball | 103242 | [103242-legend-of-ball.json](./103242-legend-of-ball.json) |
 | Legend of Bricks | 175176 | [175176-legend-of-bricks.json](./175176-legend-of-bricks.json) |
 | Legend Of Calvas: The Acurine Heart | 272955 | [272955-legend-of-calvas-the-acurine-heart.json](./272955-legend-of-calvas-the-acurine-heart.json) |
