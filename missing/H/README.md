@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakan's War Manager | 258919 | [258919-hakans-war-manager.json](./258919-hakans-war-manager.json) |
 | Hakarena Heart: Dare ga Tame ni Kimi ha Aru | 69292 | [69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json](./69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json) |
 | Hakarena Heart: Kimi ga Tame ni Kagayaki wo | 217755 | [217755-hakarena-heart-kimi-ga-tame-ni-kagayaki-wo.json](./217755-hakarena-heart-kimi-ga-tame-ni-kagayaki-wo.json) |
+| Hakata DyingZombies: Second Chance for Beautiful Live | 401597 | [401597-hakata-dyingzombies-second-chance-for-beautiful-live.json](./401597-hakata-dyingzombies-second-chance-for-beautiful-live.json) |
 | Hakei | 177744 | [177744-hakei.json](./177744-hakei.json) |
 | Haken wo Nigire: 47 Todoufuken Taisen | 110107 | [110107-haken-wo-nigire-47-todoufuken-taisen.json](./110107-haken-wo-nigire-47-todoufuken-taisen.json) |
 | Hakkaku Doku | 323707 | [323707-hakkaku-doku.json](./323707-hakkaku-doku.json) |
