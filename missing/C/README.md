@@ -2275,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Tower Defence | 153458 | [153458-card-tower-defence.json](./153458-card-tower-defence.json) |
 | Card Town | 333966 | [333966-card-town.json](./333966-card-town.json) |
 | Card Trainer | 400869 | [400869-card-trainer.json](./400869-card-trainer.json) |
+| Card Wars: Adventure Time | 39175 | [39175-card-wars-adventure-time.json](./39175-card-wars-adventure-time.json) |
 | Card Wizard | 381123 | [381123-card-wizard.json](./381123-card-wizard.json) |
 | Card World | 365048 | [365048-card-world.json](./365048-card-world.json) |
 | Card X Monster | 212747 | [212747-card-x-monster.json](./212747-card-x-monster.json) |
@@ -3194,6 +3195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Battles | 29997 | [29997-castle-battles.json](./29997-castle-battles.json) |
 | Castle Blackstar | 28569 | [28569-castle-blackstar.json](./28569-castle-blackstar.json) |
 | Castle Bloodstone | 353905 | [353905-castle-bloodstone.json](./353905-castle-bloodstone.json) |
+| Castle Breakout | 39750 | [39750-castle-breakout.json](./39750-castle-breakout.json) |
 | Castle Burn | 77597 | [77597-castle-burn.json](./77597-castle-burn.json) |
 | Castle Busters | 405982 | [405982-castle-busters.json](./405982-castle-busters.json) |
 | Castle Cab | 347022 | [347022-castle-cab.json](./347022-castle-cab.json) |
@@ -6294,6 +6296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Minis | 232378 | [232378-chess-minis.json](./232378-chess-minis.json) |
 | Chess Mix | 135240 | [135240-chess-mix.json](./135240-chess-mix.json) |
 | Chess Morph: The Queen's Wormholes | 237058 | [237058-chess-morph-the-queens-wormholes.json](./237058-chess-morph-the-queens-wormholes.json) |
+| Chess of Blades | 40847 | [40847-chess-of-blades.json](./40847-chess-of-blades.json) |
 | Chess of Chains | 148824 | [148824-chess-of-chains.json](./148824-chess-of-chains.json) |
 | Chess of Doom | 346550 | [346550-chess-of-doom.json](./346550-chess-of-doom.json) |
 | Chess of Fortune | 357216 | [357216-chess-of-fortune.json](./357216-chess-of-fortune.json) |
@@ -14366,6 +14369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Fight | 30643 | [30643-counter-fight.json](./30643-counter-fight.json) |
 | Counter Fight 4 | 129385 | [129385-counter-fight-4.json](./129385-counter-fight-4.json) |
 | Counter Fight Ichiran | 172146 | [172146-counter-fight-ichiran.json](./172146-counter-fight-ichiran.json) |
+| Counter Fight: Samurai Edition | 40553 | [40553-counter-fight-samurai-edition.json](./40553-counter-fight-samurai-edition.json) |
 | Counter Force | 393042 | [393042-counter-force.json](./393042-counter-force.json) |
 | Counter Force | 4773 | [4773-counter-force.json](./4773-counter-force.json) |
 | Counter Force: Tactical Warfare | 300735 | [300735-counter-force-tactical-warfare.json](./300735-counter-force-tactical-warfare.json) |
