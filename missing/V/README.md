@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vestiges: Fallen Tribes | 273566 | [273566-vestiges-fallen-tribes.json](./273566-vestiges-fallen-tribes.json) |
 | Vestigia | 417980 | [417980-vestigia.json](./417980-vestigia.json) |
 | Vestigia: Joust | 364706 | [364706-vestigia-joust.json](./364706-vestigia-joust.json) |
+| Vestigios | 414032 | [414032-vestigios.json](./414032-vestigios.json) |
 | Vestria Story | 193940 | [193940-vestria-story.json](./193940-vestria-story.json) |
 | Vestron | 93018 | [93018-vestron.json](./93018-vestron.json) |
 | Vesuvia | 416143 | [416143-vesuvia.json](./416143-vesuvia.json) |
