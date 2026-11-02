@@ -1395,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Mechanicus II | 302176 | [302176-warhammer-40-000-mechanicus-ii.json](./302176-warhammer-40-000-mechanicus-ii.json) |
 | Warhammer 40,000: Regicide | 11450 | [11450-warhammer-40-000-regicide.json](./11450-warhammer-40-000-regicide.json) |
 | Warhammer 40,000: Regicide - Deluxe Edition | 53903 | [53903-warhammer-40-000-regicide-deluxe-edition.json](./53903-warhammer-40-000-regicide-deluxe-edition.json) |
+| Warhammer 40,000: Rites of War | 24113 | [24113-warhammer-40-000-rites-of-war.json](./24113-warhammer-40-000-rites-of-war.json) |
 | Warhammer 40,000: Rogue Trader - Collector’s Edition | 251060 | [251060-warhammer-40-000-rogue-trader-collector-s-edition.json](./251060-warhammer-40-000-rogue-trader-collector-s-edition.json) |
 | Warhammer 40,000: Rogue Trader - Deluxe Edition | 279888 | [279888-warhammer-40-000-rogue-trader-deluxe-edition.json](./279888-warhammer-40-000-rogue-trader-deluxe-edition.json) |
 | Warhammer 40,000: Rogue Trader - Deluxe Pack | 303282 | [303282-warhammer-40-000-rogue-trader-deluxe-pack.json](./303282-warhammer-40-000-rogue-trader-deluxe-pack.json) |
@@ -5717,6 +5718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WinTrek | 69859 | [69859-wintrek.json](./69859-wintrek.json) |
 | WinWheel | 83439 | [83439-winwheel.json](./83439-winwheel.json) |
 | Winx Club | 200907 | [200907-winx-club.json](./200907-winx-club.json) |
+| Winx Club | 6680 | [6680-winx-club.json](./6680-winx-club.json) |
 | Winx Club Secret Diary 2009 | 47829 | [47829-winx-club-secret-diary-2009.json](./47829-winx-club-secret-diary-2009.json) |
 | Winx Club: Alfea Butterflix Adventures | 79740 | [79740-winx-club-alfea-butterflix-adventures.json](./79740-winx-club-alfea-butterflix-adventures.json) |
 | Winx Club: Believix in You | 25174 | [25174-winx-club-believix-in-you.json](./25174-winx-club-believix-in-you.json) |
@@ -7515,6 +7517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World II: Hunting Boss | 82403 | [82403-world-ii-hunting-boss.json](./82403-world-ii-hunting-boss.json) |
 | World in a Moment | 229759 | [229759-world-in-a-moment.json](./229759-world-in-a-moment.json) |
 | World in Conflict | 941 | [941-world-in-conflict.json](./941-world-in-conflict.json) |
+| World in Conflict: Complete Edition | 23017 | [23017-world-in-conflict-complete-edition.json](./23017-world-in-conflict-complete-edition.json) |
 | World in Conflict: Soviet Assault | 9338 | [9338-world-in-conflict-soviet-assault.json](./9338-world-in-conflict-soviet-assault.json) |
 | World In Danger | 27178 | [27178-world-in-danger.json](./27178-world-in-danger.json) |
 | World in fire | 284833 | [284833-world-in-fire.json](./284833-world-in-fire.json) |
