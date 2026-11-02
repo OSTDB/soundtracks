@@ -2526,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 17: Platinum Edition | 75868 | [75868-farming-simulator-17-platinum-edition.json](./75868-farming-simulator-17-platinum-edition.json) |
 | Farming Simulator 17: Platinum Expansion | 24785 | [24785-farming-simulator-17-platinum-expansion.json](./24785-farming-simulator-17-platinum-expansion.json) |
 | Farming Simulator 17: Ropa Pack | 90136 | [90136-farming-simulator-17-ropa-pack.json](./90136-farming-simulator-17-ropa-pack.json) |
+| Farming Simulator 18 | 41027 | [41027-farming-simulator-18.json](./41027-farming-simulator-18.json) |
 | Farming Simulator 19 | 87210 | [87210-farming-simulator-19.json](./87210-farming-simulator-19.json) |
 | Farming Simulator 19: Alpine Farming | 142604 | [142604-farming-simulator-19-alpine-farming.json](./142604-farming-simulator-19-alpine-farming.json) |
 | Farming Simulator 19: Alpine Farming Expansion | 166102 | [166102-farming-simulator-19-alpine-farming-expansion.json](./166102-farming-simulator-19-alpine-farming-expansion.json) |
