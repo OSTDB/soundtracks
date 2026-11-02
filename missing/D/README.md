@@ -7402,6 +7402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective S | 159089 | [159089-detective-s.json](./159089-detective-s.json) |
 | Detective S. Harkins | 184820 | [184820-detective-s-harkins.json](./184820-detective-s-harkins.json) |
 | Detective School Club | 304597 | [304597-detective-school-club.json](./304597-detective-school-club.json) |
+| Detective Secrets Solitaire: Silent Conspiracy | 402742 | [402742-detective-secrets-solitaire-silent-conspiracy.json](./402742-detective-secrets-solitaire-silent-conspiracy.json) |
 | Detective Secrets Solitaire: The Greyhall Mystery | 417508 | [417508-detective-secrets-solitaire-the-greyhall-mystery.json](./417508-detective-secrets-solitaire-the-greyhall-mystery.json) |
 | Detective Sherlock Holmes - Hidden Object Games | 88662 | [88662-detective-sherlock-holmes-hidden-object-games.json](./88662-detective-sherlock-holmes-hidden-object-games.json) |
 | Detective Sherlock Pug | 111976 | [111976-detective-sherlock-pug.json](./111976-detective-sherlock-pug.json) |
@@ -14858,6 +14859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Station | 86760 | [86760-dread-station.json](./86760-dread-station.json) |
 | Dread the Rabbit | 183595 | [183595-dread-the-rabbit.json](./183595-dread-the-rabbit.json) |
 | Dread Tomb | 317785 | [317785-dread-tomb.json](./317785-dread-tomb.json) |
+| Dread Trials | 402662 | [402662-dread-trials.json](./402662-dread-trials.json) |
 | Dread Weight | 249334 | [249334-dread-weight.json](./249334-dread-weight.json) |
 | Dread X Collection | 137056 | [137056-dread-x-collection.json](./137056-dread-x-collection.json) |
 | Dread X Collection 2 | 137297 | [137297-dread-x-collection-2.json](./137297-dread-x-collection-2.json) |
