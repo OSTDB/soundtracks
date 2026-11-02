@@ -1038,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Golf | 18985 | [18985-dangerous-golf.json](./18985-dangerous-golf.json) |
 | Dangerous Ground | 111219 | [111219-dangerous-ground.json](./111219-dangerous-ground.json) |
 | Dangerous Heaven: The Legend of the Ark | 386158 | [386158-dangerous-heaven-the-legend-of-the-ark.json](./386158-dangerous-heaven-the-legend-of-the-ark.json) |
+| Dangerous High School Girls in Trouble! | 15990 | [15990-dangerous-high-school-girls-in-trouble.json](./15990-dangerous-high-school-girls-in-trouble.json) |
 | Dangerous Hobby | 187732 | [187732-dangerous-hobby.json](./187732-dangerous-hobby.json) |
 | Dangerous Ivan | 262462 | [262462-dangerous-ivan.json](./262462-dangerous-ivan.json) |
 | Dangerous Land | 303096 | [303096-dangerous-land.json](./303096-dangerous-land.json) |
@@ -4133,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death by Degrees | 1241 | [1241-death-by-degrees.json](./1241-death-by-degrees.json) |
 | Death by Flower Arrangement | 186164 | [186164-death-by-flower-arrangement.json](./186164-death-by-flower-arrangement.json) |
 | Death by FrostByte | 140860 | [140860-death-by-frostbyte.json](./140860-death-by-frostbyte.json) |
+| Death by Game Show | 15486 | [15486-death-by-game-show.json](./15486-death-by-game-show.json) |
 | Death By Hamster | 262666 | [262666-death-by-hamster.json](./262666-death-by-hamster.json) |
 | Death by Hype | 307882 | [307882-death-by-hype.json](./307882-death-by-hype.json) |
 | Death by Refund | 216670 | [216670-death-by-refund.json](./216670-death-by-refund.json) |
