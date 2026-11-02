@@ -5575,6 +5575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retexo Mori | 155975 | [155975-retexo-mori.json](./155975-retexo-mori.json) |
 | Rethawed | 320929 | [320929-rethawed.json](./320929-rethawed.json) |
 | ReThink | 29260 | [29260-rethink.json](./29260-rethink.json) |
+| ReThink \| Evolved | 55757 | [55757-rethink-evolved.json](./55757-rethink-evolved.json) |
 | ReThink \| Evolved 3 | 118007 | [118007-rethink-evolved-3.json](./118007-rethink-evolved-3.json) |
 | ReThink \| Evolved 4 | 132592 | [132592-rethink-evolved-4.json](./132592-rethink-evolved-4.json) |
 | ReThink \| Evolved 5 | 244849 | [244849-rethink-evolved-5.json](./244849-rethink-evolved-5.json) |
@@ -10050,6 +10051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XIV: Legend of the Galactic Heroes Collab - Reinhard & Yang | 164500 | [164500-romance-of-the-three-kingdoms-xiv-legend-of-the-galactic-heroes-collab-reinhard-and-yang.json](./164500-romance-of-the-three-kingdoms-xiv-legend-of-the-galactic-heroes-collab-reinhard-and-yang.json) |
 | Romance of the Three Kingdoms: Legend of Shu Han | 305625 | [305625-romance-of-the-three-kingdoms-legend-of-shu-han.json](./305625-romance-of-the-three-kingdoms-legend-of-shu-han.json) |
 | Romance of the Three Kingdoms: The Legend of CaoCao | 121225 | [121225-romance-of-the-three-kingdoms-the-legend-of-caocao.json](./121225-romance-of-the-three-kingdoms-the-legend-of-caocao.json) |
+| Romance with Chocolate - Hidden Objects | 55794 | [55794-romance-with-chocolate-hidden-objects.json](./55794-romance-with-chocolate-hidden-objects.json) |
 | Romancelvania: Deluxe Edition | 241314 | [241314-romancelvania-deluxe-edition.json](./241314-romancelvania-deluxe-edition.json) |
 | Romancia: Another Legend | 71968 | [71968-romancia-another-legend.json](./71968-romancia-another-legend.json) |
 | Romancia: Dragon Slayer Jr. | 41727 | [41727-romancia-dragon-slayer-jr.json](./41727-romancia-dragon-slayer-jr.json) |
