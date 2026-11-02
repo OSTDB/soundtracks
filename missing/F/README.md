@@ -2822,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Fruit | 192619 | [192619-fast-fruit.json](./192619-fast-fruit.json) |
 | Fast Fusion | 338093 | [338093-fast-fusion.json](./338093-fast-fusion.json) |
 | Fast Gear | 358998 | [358998-fast-gear.json](./358998-fast-gear.json) |
+| Fast Hands | 411239 | [411239-fast-hands.json](./411239-fast-hands.json) |
 | Fast Jump | 167574 | [167574-fast-jump.json](./167574-fast-jump.json) |
 | Fast Lane Bowling | 198739 | [198739-fast-lane-bowling.json](./198739-fast-lane-bowling.json) |
 | Fast Lanes Bowling | 23782 | [23782-fast-lanes-bowling.json](./23782-fast-lanes-bowling.json) |
@@ -2965,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury Special | 5385 | [5385-fatal-fury-special.json](./5385-fatal-fury-special.json) |
 | Fatal Fury: Battle Archives Volume 1 | 21232 | [21232-fatal-fury-battle-archives-volume-1.json](./21232-fatal-fury-battle-archives-volume-1.json) |
 | Fatal Fury: City of the Wolves - Andy Bogard | 349908 | [349908-fatal-fury-city-of-the-wolves-andy-bogard.json](./349908-fatal-fury-city-of-the-wolves-andy-bogard.json) |
+| Fatal Fury: City of the Wolves - Blue Mary | 411283 | [411283-fatal-fury-city-of-the-wolves-blue-mary.json](./411283-fatal-fury-city-of-the-wolves-blue-mary.json) |
 | Fatal Fury: City of the Wolves - Chun-Li | 317832 | [317832-fatal-fury-city-of-the-wolves-chun-li.json](./317832-fatal-fury-city-of-the-wolves-chun-li.json) |
 | Fatal Fury: City of the Wolves - Deluxe Edition | 329713 | [329713-fatal-fury-city-of-the-wolves-deluxe-edition.json](./329713-fatal-fury-city-of-the-wolves-deluxe-edition.json) |
 | Fatal Fury: City of the Wolves - Joe Higashi | 349909 | [349909-fatal-fury-city-of-the-wolves-joe-higashi.json](./349909-fatal-fury-city-of-the-wolves-joe-higashi.json) |
@@ -2973,9 +2975,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury: City of the Wolves - Kim Jae Hoon | 388987 | [388987-fatal-fury-city-of-the-wolves-kim-jae-hoon.json](./388987-fatal-fury-city-of-the-wolves-kim-jae-hoon.json) |
 | Fatal Fury: City of the Wolves - Legend Edition | 399203 | [399203-fatal-fury-city-of-the-wolves-legend-edition.json](./399203-fatal-fury-city-of-the-wolves-legend-edition.json) |
 | Fatal Fury: City of the Wolves - Mr. Big | 349911 | [349911-fatal-fury-city-of-the-wolves-mr-big.json](./349911-fatal-fury-city-of-the-wolves-mr-big.json) |
+| Fatal Fury: City of the Wolves - Mr. Karate | 411284 | [411284-fatal-fury-city-of-the-wolves-mr-karate.json](./411284-fatal-fury-city-of-the-wolves-mr-karate.json) |
 | Fatal Fury: City of the Wolves - Nightmare Geese | 388988 | [388988-fatal-fury-city-of-the-wolves-nightmare-geese.json](./388988-fatal-fury-city-of-the-wolves-nightmare-geese.json) |
 | Fatal Fury: City of the Wolves - Rick Strowd | 411295 | [411295-fatal-fury-city-of-the-wolves-rick-strowd.json](./411295-fatal-fury-city-of-the-wolves-rick-strowd.json) |
 | Fatal Fury: City of the Wolves - Season Pass 1 | 317833 | [317833-fatal-fury-city-of-the-wolves-season-pass-1.json](./317833-fatal-fury-city-of-the-wolves-season-pass-1.json) |
+| Fatal Fury: City of the Wolves - Season Pass 2 | 411286 | [411286-fatal-fury-city-of-the-wolves-season-pass-2.json](./411286-fatal-fury-city-of-the-wolves-season-pass-2.json) |
+| Fatal Fury: City of the Wolves - Season Pass 3 | 411285 | [411285-fatal-fury-city-of-the-wolves-season-pass-3.json](./411285-fatal-fury-city-of-the-wolves-season-pass-3.json) |
 | Fatal Fury: City of the Wolves - Special Edition | 327461 | [327461-fatal-fury-city-of-the-wolves-special-edition.json](./327461-fatal-fury-city-of-the-wolves-special-edition.json) |
 | Fatal Fury: City of the Wolves - Wolfgang Krauser | 388990 | [388990-fatal-fury-city-of-the-wolves-wolfgang-krauser.json](./388990-fatal-fury-city-of-the-wolves-wolfgang-krauser.json) |
 | Fatal Fury: Wild Ambition | 28138 | [28138-fatal-fury-wild-ambition.json](./28138-fatal-fury-wild-ambition.json) |
@@ -6008,6 +6013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish and Fight | 163867 | [163867-fish-and-fight.json](./163867-fish-and-fight.json) |
 | Fish and Groove | 151101 | [151101-fish-and-groove.json](./151101-fish-and-groove.json) |
 | Fish Bone | 226156 | [226156-fish-bone.json](./226156-fish-bone.json) |
+| Fish Can Run 2 | 411273 | [411273-fish-can-run-2.json](./411273-fish-can-run-2.json) |
 | Fish Catcher | 105374 | [105374-fish-catcher.json](./105374-fish-catcher.json) |
 | Fish Chips and Bombs | 311637 | [311637-fish-chips-and-bombs.json](./311637-fish-chips-and-bombs.json) |
 | Fish Combat: Arcade | 285312 | [285312-fish-combat-arcade.json](./285312-fish-combat-arcade.json) |
