@@ -9285,6 +9285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claustrophobia | 320290 | [320290-claustrophobia.json](./320290-claustrophobia.json) |
 | Claustrophobia 1024 | 260947 | [260947-claustrophobia-1024.json](./260947-claustrophobia-1024.json) |
 | Claustrophobia 1024 2: The Mystery of Too Many Maps | 260949 | [260949-claustrophobia-1024-2-the-mystery-of-too-many-maps.json](./260949-claustrophobia-1024-2-the-mystery-of-too-many-maps.json) |
+| Claustrophobia: The Downward Struggle | 9797 | [9797-claustrophobia-the-downward-struggle.json](./9797-claustrophobia-the-downward-struggle.json) |
 | Claustrophobic Nights | 267548 | [267548-claustrophobic-nights.json](./267548-claustrophobic-nights.json) |
 | ClaustrophobicCrypt | 311504 | [311504-claustrophobiccrypt.json](./311504-claustrophobiccrypt.json) |
 | Claustrum | 414597 | [414597-claustrum.json](./414597-claustrum.json) |
@@ -10861,6 +10862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coldblooded | 403007 | [403007-coldblooded.json](./403007-coldblooded.json) |
 | Colddigger | 118996 | [118996-colddigger.json](./118996-colddigger.json) |
 | Coldfall | 113005 | [113005-coldfall.json](./113005-coldfall.json) |
+| Coldfire Keep | 9799 | [9799-coldfire-keep.json](./9799-coldfire-keep.json) |
 | ColdFortune | 204231 | [204231-coldfortune.json](./204231-coldfortune.json) |
 | Coldline | 227913 | [227913-coldline.json](./227913-coldline.json) |
 | Coldplay Canoodlers | 356110 | [356110-coldplay-canoodlers.json](./356110-coldplay-canoodlers.json) |
@@ -12178,6 +12180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comp IV | 245533 | [245533-comp-iv.json](./245533-comp-iv.json) |
 | Compact Cyber Arcade: Disney Frozen Elsa | 246551 | [246551-compact-cyber-arcade-disney-frozen-elsa.json](./246551-compact-cyber-arcade-disney-frozen-elsa.json) |
 | Compact Cyber Arcade: Ultimate Spider-Man | 277799 | [277799-compact-cyber-arcade-ultimate-spider-man.json](./277799-compact-cyber-arcade-ultimate-spider-man.json) |
+| Compacted | 427241 | [427241-compacted.json](./427241-compacted.json) |
 | Compacto: Idle Game | 154252 | [154252-compacto-idle-game.json](./154252-compacto-idle-game.json) |
 | Compactory | 323015 | [323015-compactory.json](./323015-compactory.json) |
 | Compadrone: Land Wars | 360761 | [360761-compadrone-land-wars.json](./360761-compadrone-land-wars.json) |
@@ -12788,6 +12791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Crazy Climber | 418714 | [418714-console-archives-crazy-climber.json](./418714-console-archives-crazy-climber.json) |
 | Console Archives: Hercules no Eikou II - Taitan no Metsubou | 410364 | [410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json](./410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json) |
 | Console Archives: Karate Champ | 420803 | [420803-console-archives-karate-champ.json](./420803-console-archives-karate-champ.json) |
+| Console Archives: Marl Jong | 427247 | [427247-console-archives-marl-jong.json](./427247-console-archives-marl-jong.json) |
 | Console Archives: Master of Monsters - Disciples of Gaia | 401691 | [401691-console-archives-master-of-monsters-disciples-of-gaia.json](./401691-console-archives-master-of-monsters-disciples-of-gaia.json) |
 | Console Archives: Ninja Gaiden III - The Ancient Ship of Doom | 399298 | [399298-console-archives-ninja-gaiden-iii-the-ancient-ship-of-doom.json](./399298-console-archives-ninja-gaiden-iii-the-ancient-ship-of-doom.json) |
 | Console Archives: Ninja-Kid II | 395248 | [395248-console-archives-ninja-kid-ii.json](./395248-console-archives-ninja-kid-ii.json) |
@@ -18161,6 +18165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Lamb: Unholy Edition | 324380 | [324380-cult-of-the-lamb-unholy-edition.json](./324380-cult-of-the-lamb-unholy-edition.json) |
 | Cult of the Lamb: Unholy Pack Bundle | 324472 | [324472-cult-of-the-lamb-unholy-pack-bundle.json](./324472-cult-of-the-lamb-unholy-pack-bundle.json) |
 | Cult of the Lamb: Woolhaven | 361888 | [361888-cult-of-the-lamb-woolhaven.json](./361888-cult-of-the-lamb-woolhaven.json) |
+| Cult of the Wind | 9816 | [9816-cult-of-the-wind.json](./9816-cult-of-the-wind.json) |
 | Cult Trials: Incarnation | 348009 | [348009-cult-trials-incarnation.json](./348009-cult-trials-incarnation.json) |
 | Cult Vacui | 364848 | [364848-cult-vacui.json](./364848-cult-vacui.json) |
 | Cult: Chapter One | 221140 | [221140-cult-chapter-one.json](./221140-cult-chapter-one.json) |
