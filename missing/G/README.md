@@ -9938,6 +9938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero Carabiner | 261387 | [261387-guitar-hero-carabiner.json](./261387-guitar-hero-carabiner.json) |
 | Guitar Hero Dual Pack: Guitar Hero II & Guitar Hero Aerosmith | 314957 | [314957-guitar-hero-dual-pack-guitar-hero-ii-and-guitar-hero-aerosmith.json](./314957-guitar-hero-dual-pack-guitar-hero-ii-and-guitar-hero-aerosmith.json) |
 | Guitar Hero II | 2670 | [2670-guitar-hero-ii.json](./2670-guitar-hero-ii.json) |
+| Guitar Hero II Deluxe | 404622 | [404622-guitar-hero-ii-deluxe.json](./404622-guitar-hero-ii-deluxe.json) |
 | Guitar Hero II: Hits Indonesia 2025 | 387303 | [387303-guitar-hero-ii-hits-indonesia-2025.json](./387303-guitar-hero-ii-hits-indonesia-2025.json) |
 | Guitar Hero II: Indonesia 2018 | 293740 | [293740-guitar-hero-ii-indonesia-2018.json](./293740-guitar-hero-ii-indonesia-2018.json) |
 | Guitar Hero II: Indonesia 2021 | 331737 | [331737-guitar-hero-ii-indonesia-2021.json](./331737-guitar-hero-ii-indonesia-2021.json) |
