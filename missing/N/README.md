@@ -2729,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netherworld | 113403 | [113403-netherworld.json](./113403-netherworld.json) |
 | Netherworld Covenant | 317973 | [317973-netherworld-covenant.json](./317973-netherworld-covenant.json) |
 | Netherworld: Beyond Time I Stand | 172507 | [172507-netherworld-beyond-time-i-stand.json](./172507-netherworld-beyond-time-i-stand.json) |
+| Netherwyn | 423364 | [423364-netherwyn.json](./423364-netherwyn.json) |
 | netKar Pro | 63099 | [63099-netkar-pro.json](./63099-netkar-pro.json) |
 | NetMaze: A Funnyman Game | 242782 | [242782-netmaze-a-funnyman-game.json](./242782-netmaze-a-funnyman-game.json) |
 | NetMech | 93422 | [93422-netmech.json](./93422-netmech.json) |
@@ -4211,6 +4212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightbird Society | 196309 | [196309-nightbird-society.json](./196309-nightbird-society.json) |
 | Nightbloom | 138110 | [138110-nightbloom.json](./138110-nightbloom.json) |
 | Nightboarder | 179031 | [179031-nightboarder.json](./179031-nightboarder.json) |
+| Nightbrats | 423379 | [423379-nightbrats.json](./423379-nightbrats.json) |
 | Nightbreed: The Action Game | 15269 | [15269-nightbreed-the-action-game.json](./15269-nightbreed-the-action-game.json) |
 | Nightbreed: The Interactive Movie | 15270 | [15270-nightbreed-the-interactive-movie.json](./15270-nightbreed-the-interactive-movie.json) |
 | NightCaster II: Equinox | 5970 | [5970-nightcaster-ii-equinox.json](./5970-nightcaster-ii-equinox.json) |
