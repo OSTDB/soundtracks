@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zalozhnik | 367007 | [367007-zalozhnik.json](./367007-zalozhnik.json) |
 | Zamakan | 253483 | [253483-zamakan.json](./253483-zamakan.json) |
 | Zamarian | 33860 | [33860-zamarian.json](./33860-zamarian.json) |
+| Zamb! Biomutant Extermination | 9299 | [9299-zamb-biomutant-extermination.json](./9299-zamb-biomutant-extermination.json) |
 | Zamb! Redux | 101181 | [101181-zamb-redux.json](./101181-zamb-redux.json) |
 | Zamba y San Martín | 83338 | [83338-zamba-y-san-martin.json](./83338-zamba-y-san-martin.json) |
 | Zambi 2 Kil | 55598 | [55598-zambi-2-kil.json](./55598-zambi-2-kil.json) |
@@ -1598,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Isle | 343474 | [343474-zombie-isle.json](./343474-zombie-isle.json) |
 | Zombie Kill | 28591 | [28591-zombie-kill.json](./28591-zombie-kill.json) |
 | Zombie Kill | 373670 | [373670-zombie-kill.json](./373670-zombie-kill.json) |
+| Zombie Kill of the Week: Reborn | 9307 | [9307-zombie-kill-of-the-week-reborn.json](./9307-zombie-kill-of-the-week-reborn.json) |
 | Zombie Killer | 181776 | [181776-zombie-killer.json](./181776-zombie-killer.json) |
 | Zombie Killer | 213816 | [213816-zombie-killer.json](./213816-zombie-killer.json) |
 | Zombie Killer | 301636 | [301636-zombie-killer.json](./301636-zombie-killer.json) |
