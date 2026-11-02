@@ -4235,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Kiss | 272664 | [272664-secret-kiss.json](./272664-secret-kiss.json) |
 | Secret Kiss with Knight | 303303 | [303303-secret-kiss-with-knight.json](./303303-secret-kiss-with-knight.json) |
 | Secret Lab | 273541 | [273541-secret-lab.json](./273541-secret-lab.json) |
+| Secret Light | 419077 | [419077-secret-light.json](./419077-secret-light.json) |
 | Secret Little Haven | 90060 | [90060-secret-little-haven.json](./90060-secret-little-haven.json) |
 | Secret Love (Or Not?) | 387154 | [387154-secret-love-or-not.json](./387154-secret-love-or-not.json) |
 | Secret Love Temple | 368534 | [368534-secret-love-temple.json](./368534-secret-love-temple.json) |
@@ -4332,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret World Legends | 28008 | [28008-secret-world-legends.json](./28008-secret-world-legends.json) |
 | Secret Writers Society | 206628 | [206628-secret-writers-society.json](./206628-secret-writers-society.json) |
 | Secretary's Hell | 183249 | [183249-secretarys-hell.json](./183249-secretarys-hell.json) |
+| Secretbot! | 419079 | [419079-secretbot.json](./419079-secretbot.json) |
 | SecretHitler.io | 256764 | [256764-secrethitler-io.json](./256764-secrethitler-io.json) |
 | Secrets | 179171 | [179171-secrets.json](./179171-secrets.json) |
 | Secrets After Class | 303297 | [303297-secrets-after-class.json](./303297-secrets-after-class.json) |
@@ -5246,6 +5248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentimental Gensoukyou | 306568 | [306568-sentimental-gensoukyou.json](./306568-sentimental-gensoukyou.json) |
 | Sentimental Graffiti | 124264 | [124264-sentimental-graffiti.json](./124264-sentimental-graffiti.json) |
 | Sentimental Graffiti 2 | 130632 | [130632-sentimental-graffiti-2.json](./130632-sentimental-graffiti-2.json) |
+| Sentimental Graffiti: Yakusoku | 419769 | [419769-sentimental-graffiti-yakusoku.json](./419769-sentimental-graffiti-yakusoku.json) |
 | Sentimental Journey | 268036 | [268036-sentimental-journey.json](./268036-sentimental-journey.json) |
 | Sentimental K | 132567 | [132567-sentimental-k.json](./132567-sentimental-k.json) |
 | Sentinel | 11626 | [11626-sentinel.json](./11626-sentinel.json) |
@@ -7717,6 +7720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Egokoro Kyoushitsu | 141122 | [141122-shin-egokoro-kyoushitsu.json](./141122-shin-egokoro-kyoushitsu.json) |
 | Shin Era Tensei | 365818 | [365818-shin-era-tensei.json](./365818-shin-era-tensei.json) |
 | Shin Fangame Tensei | 386549 | [386549-shin-fangame-tensei.json](./386549-shin-fangame-tensei.json) |
+| Shin Fortune Quest: Shokutaku no Kishi-tachi | 419773 | [419773-shin-fortune-quest-shokutaku-no-kishi-tachi.json](./419773-shin-fortune-quest-shokutaku-no-kishi-tachi.json) |
 | Shin Fumi Ikemen Ouoku Kinjirareta Koi | 229027 | [229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json](./229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json) |
 | Shin Fushigi no Kuni no Alice | 424633 | [424633-shin-fushigi-no-kuni-no-alice.json](./424633-shin-fushigi-no-kuni-no-alice.json) |
 | Shin Galaxy: Engage | 259598 | [259598-shin-galaxy-engage.json](./259598-shin-galaxy-engage.json) |
@@ -9954,6 +9958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Linguine Cat Simulator Deluxe Online | 396383 | [396383-silly-linguine-cat-simulator-deluxe-online.json](./396383-silly-linguine-cat-simulator-deluxe-online.json) |
 | Silly Little Guys | 300270 | [300270-silly-little-guys.json](./300270-silly-little-guys.json) |
 | Silly Polly Beast | 157379 | [157379-silly-polly-beast.json](./157379-silly-polly-beast.json) |
+| Silly Potato: Home-Run Edition | 418417 | [418417-silly-potato-home-run-edition.json](./418417-silly-potato-home-run-edition.json) |
 | Silly Royale: Devil Amongst Us | 242233 | [242233-silly-royale-devil-amongst-us.json](./242233-silly-royale-devil-amongst-us.json) |
 | Silly Sausage Buffet | 411842 | [411842-silly-sausage-buffet.json](./411842-silly-sausage-buffet.json) |
 | Silly Sausage in Meat Land | 74297 | [74297-silly-sausage-in-meat-land.json](./74297-silly-sausage-in-meat-land.json) |
@@ -10488,6 +10493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulacra 3 | 198859 | [198859-simulacra-3.json](./198859-simulacra-3.json) |
 | Simulacra 3: Deluxe Edition | 350907 | [350907-simulacra-3-deluxe-edition.json](./350907-simulacra-3-deluxe-edition.json) |
 | Simulacra: Pipe Dreams | 110900 | [110900-simulacra-pipe-dreams.json](./110900-simulacra-pipe-dreams.json) |
+| Simulacre | 418387 | [418387-simulacre.json](./418387-simulacre.json) |
 | Simulacro | 344363 | [344363-simulacro.json](./344363-simulacro.json) |
 | Simulacrum | 201125 | [201125-simulacrum.json](./201125-simulacrum.json) |
 | Simulacrum | 305813 | [305813-simulacrum.json](./305813-simulacrum.json) |
@@ -11978,6 +11984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyfear | 116976 | [116976-skyfear.json](./116976-skyfear.json) |
 | Skyfighter Arcade | 233632 | [233632-skyfighter-arcade.json](./233632-skyfighter-arcade.json) |
 | SkyFighters 1945 | 339151 | [339151-skyfighters-1945.json](./339151-skyfighters-1945.json) |
+| Skyfire Legends | 419763 | [419763-skyfire-legends.json](./419763-skyfire-legends.json) |
 | Skyfish II: Eat Your Peas | 79367 | [79367-skyfish-ii-eat-your-peas.json](./79367-skyfish-ii-eat-your-peas.json) |
 | Skyfish Rising | 340366 | [340366-skyfish-rising.json](./340366-skyfish-rising.json) |
 | Skyflower | 35411 | [35411-skyflower.json](./35411-skyflower.json) |
@@ -12132,6 +12139,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyworld: Kingdom Brawl - Fresh Meat | 296040 | [296040-skyworld-kingdom-brawl-fresh-meat.json](./296040-skyworld-kingdom-brawl-fresh-meat.json) |
 | Skywriter | 108073 | [108073-skywriter.json](./108073-skywriter.json) |
 | Skyx | 317531 | [317531-skyx.json](./317531-skyx.json) |
+| SL de Ikou! | 419782 | [419782-sl-de-ikou.json](./419782-sl-de-ikou.json) |
+| SL de Ikou! II | 419783 | [419783-sl-de-ikou-ii.json](./419783-sl-de-ikou-ii.json) |
 | SL The Game | 320274 | [320274-sl-the-game.json](./320274-sl-the-game.json) |
 | Slab | 98708 | [98708-slab.json](./98708-slab.json) |
 | Slabs | 103812 | [103812-slabs.json](./103812-slabs.json) |
@@ -13530,6 +13539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashpunks | 178088 | [178088-smashpunks.json](./178088-smashpunks.json) |
 | Smashtastic Cricket | 241549 | [241549-smashtastic-cricket.json](./241549-smashtastic-cricket.json) |
 | Smashteroid | 170262 | [170262-smashteroid.json](./170262-smashteroid.json) |
+| Smashteroids | 418389 | [418389-smashteroids.json](./418389-smashteroids.json) |
 | SmashThem | 28202 | [28202-smashthem.json](./28202-smashthem.json) |
 | Smashy Brick | 237324 | [237324-smashy-brick.json](./237324-smashy-brick.json) |
 | Smashy Cannon | 359532 | [359532-smashy-cannon.json](./359532-smashy-cannon.json) |
@@ -13947,6 +13957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Snafu | 180479 | [180479-snake-snafu.json](./180479-snake-snafu.json) |
 | Snake Sphere | 415033 | [415033-snake-sphere.json](./415033-snake-sphere.json) |
 | Snake Switch | 232600 | [232600-snake-switch.json](./232600-snake-switch.json) |
+| Snake Ultimate | 418403 | [418403-snake-ultimate.json](./418403-snake-ultimate.json) |
 | Snake VR | 78551 | [78551-snake-vr.json](./78551-snake-vr.json) |
 | Snake VS Block Math | 86730 | [86730-snake-vs-block-math.json](./86730-snake-vs-block-math.json) |
 | Snake VS Block Numbers | 113321 | [113321-snake-vs-block-numbers.json](./113321-snake-vs-block-numbers.json) |
@@ -15440,6 +15451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sole | 55604 | [55604-sole.json](./55604-sole.json) |
 | Sole Iron Tail | 132693 | [132693-sole-iron-tail.json](./132693-sole-iron-tail.json) |
 | Sole Light: Cool Puzzle Game | 187789 | [187789-sole-light-cool-puzzle-game.json](./187789-sole-light-cool-puzzle-game.json) |
+| Sole Mates: Tidy Up the Shoe Store | 419764 | [419764-sole-mates-tidy-up-the-shoe-store.json](./419764-sole-mates-tidy-up-the-shoe-store.json) |
 | Sole Saga | 211940 | [211940-sole-saga.json](./211940-sole-saga.json) |
 | Sole Salvation | 415920 | [415920-sole-salvation.json](./415920-sole-salvation.json) |
 | Sole Seeker | 266429 | [266429-sole-seeker.json](./266429-sole-seeker.json) |
@@ -19560,6 +19572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectrakin | 418636 | [418636-spectrakin.json](./418636-spectrakin.json) |
 | Spectral | 149411 | [149411-spectral.json](./149411-spectral.json) |
 | Spectral Ascension | 152938 | [152938-spectral-ascension.json](./152938-spectral-ascension.json) |
+| Spectral Blade | 419788 | [419788-spectral-blade.json](./419788-spectral-blade.json) |
 | Spectral Climb | 269208 | [269208-spectral-climb.json](./269208-spectral-climb.json) |
 | Spectral Filter | 290360 | [290360-spectral-filter.json](./290360-spectral-filter.json) |
 | Spectral Force 2 | 80134 | [80134-spectral-force-2.json](./80134-spectral-force-2.json) |
@@ -19901,6 +19914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellario | 171993 | [171993-spellario.json](./171993-spellario.json) |
 | Spellarium | 250164 | [250164-spellarium.json](./250164-spellarium.json) |
 | Spellarium 11 | 311594 | [311594-spellarium-11.json](./311594-spellarium-11.json) |
+| Spellarium 12 | 419762 | [419762-spellarium-12.json](./419762-spellarium-12.json) |
 | Spellarium 13 | 416972 | [416972-spellarium-13.json](./416972-spellarium-13.json) |
 | Spellarium 14: Collector's Edition | 416771 | [416771-spellarium-14-collectors-edition.json](./416771-spellarium-14-collectors-edition.json) |
 | Spellarium 2 | 298089 | [298089-spellarium-2.json](./298089-spellarium-2.json) |
@@ -20471,6 +20485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spikers Battle | 39791 | [39791-spikers-battle.json](./39791-spikers-battle.json) |
 | Spikes Are Dangerous | 118434 | [118434-spikes-are-dangerous.json](./118434-spikes-are-dangerous.json) |
 | Spikes Have Rage | 58716 | [58716-spikes-have-rage.json](./58716-spikes-have-rage.json) |
+| Spikes Tend to Kill You 2 | 419087 | [419087-spikes-tend-to-kill-you-2.json](./419087-spikes-tend-to-kill-you-2.json) |
 | Spikeventure | 345641 | [345641-spikeventure.json](./345641-spikeventure.json) |
 | Spikey Walls | 59445 | [59445-spikey-walls.json](./59445-spikey-walls.json) |
 | Spiki Game Box | 115337 | [115337-spiki-game-box.json](./115337-spiki-game-box.json) |
@@ -20551,6 +20566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spingun | 30803 | [30803-spingun.json](./30803-spingun.json) |
 | Spinheads | 112844 | [112844-spinheads.json](./112844-spinheads.json) |
 | Spinmaster | 15469 | [15469-spinmaster.json](./15469-spinmaster.json) |
+| Spinneous | 419071 | [419071-spinneous.json](./419071-spinneous.json) |
 | Spinner | 184716 | [184716-spinner.json](./184716-spinner.json) |
 | Spinner Breaker | 158388 | [158388-spinner-breaker.json](./158388-spinner-breaker.json) |
 | Spinner Galactic | 56375 | [56375-spinner-galactic.json](./56375-spinner-galactic.json) |
@@ -22658,6 +22674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Mine | 142424 | [142424-star-mine.json](./142424-star-mine.json) |
 | Star Mission: Remote Sectors | 336570 | [336570-star-mission-remote-sectors.json](./336570-star-mission-remote-sectors.json) |
 | Star Mobile | 41995 | [41995-star-mobile.json](./41995-star-mobile.json) |
+| Star Monja | 419789 | [419789-star-monja.json](./419789-star-monja.json) |
 | Star Monkey | 71291 | [71291-star-monkey.json](./71291-star-monkey.json) |
 | Star Mountain | 301059 | [301059-star-mountain.json](./301059-star-mountain.json) |
 | Star Nomad | 36067 | [36067-star-nomad.json](./36067-star-nomad.json) |
@@ -26979,6 +26996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Studs Up! | 427268 | [427268-studs-up.json](./427268-studs-up.json) |
 | Study Arcade | 367497 | [367497-study-arcade.json](./367497-study-arcade.json) |
 | Study of Unusual: Forest of Secrets | 105184 | [105184-study-of-unusual-forest-of-secrets.json](./105184-study-of-unusual-forest-of-secrets.json) |
+| Study Quest: Keisanjima no Daibouken | 419793 | [419793-study-quest-keisanjima-no-daibouken.json](./419793-study-quest-keisanjima-no-daibouken.json) |
 | Study Steady | 153756 | [153756-study-steady.json](./153756-study-steady.json) |
 | Study Time Anomaly | 369597 | [369597-study-time-anomaly.json](./369597-study-time-anomaly.json) |
 | Stuff | 227755 | [227755-stuff.json](./227755-stuff.json) |
@@ -30641,7 +30659,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ricko’s Islands | 324341 | [324341-super-ricko-s-islands.json](./324341-super-ricko-s-islands.json) |
 | Super Ricko's Odyssey | 333133 | [333133-super-rickos-odyssey.json](./333133-super-rickos-odyssey.json) |
 | Super Rising Ball | 350485 | [350485-super-rising-ball.json](./350485-super-rising-ball.json) |
+| Super RMN All-Stars | 419753 | [419753-super-rmn-all-stars.json](./419753-super-rmn-all-stars.json) |
 | Super RMN Bros. | 355166 | [355166-super-rmn-bros.json](./355166-super-rmn-bros.json) |
+| Super RMN Bros. 2 | 419751 | [419751-super-rmn-bros-2.json](./419751-super-rmn-bros-2.json) |
+| Super RMN Bros. 3 | 419752 | [419752-super-rmn-bros-3.json](./419752-super-rmn-bros-3.json) |
+| Super RMN World | 419754 | [419754-super-rmn-world.json](./419754-super-rmn-world.json) |
 | Super Road Blaster | 44444 | [44444-super-road-blaster.json](./44444-super-road-blaster.json) |
 | Super Road Champions | 230767 | [230767-super-road-champions.json](./230767-super-road-champions.json) |
 | Super Robin | 147040 | [147040-super-robin.json](./147040-super-robin.json) |
@@ -33540,6 +33562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syde Rugby League Simulator | 163837 | [163837-syde-rugby-league-simulator.json](./163837-syde-rugby-league-simulator.json) |
 | Syder Arcade | 9029 | [9029-syder-arcade.json](./9029-syder-arcade.json) |
 | Syder Reloaded | 131976 | [131976-syder-reloaded.json](./131976-syder-reloaded.json) |
+| Sydilix Initiation | 419095 | [419095-sydilix-initiation.json](./419095-sydilix-initiation.json) |
 | Sydless | 345576 | [345576-sydless.json](./345576-sydless.json) |
 | Sydney 2000 | 8333 | [8333-sydney-2000.json](./8333-sydney-2000.json) |
 | Sydney and the Cicadas in: Immanentize | 339426 | [339426-sydney-and-the-cicadas-in-immanentize.json](./339426-sydney-and-the-cicadas-in-immanentize.json) |
