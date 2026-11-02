@@ -11161,6 +11161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Desert Simulator: Sniper Rifle | 409533 | [409533-hunter-desert-simulator-sniper-rifle.json](./409533-hunter-desert-simulator-sniper-rifle.json) |
 | Hunter from East | 375524 | [375524-hunter-from-east.json](./375524-hunter-from-east.json) |
 | Hunter From Hell | 383456 | [383456-hunter-from-hell.json](./383456-hunter-from-hell.json) |
+| Hunter Gatherer | 35518 | [35518-hunter-gatherer.json](./35518-hunter-gatherer.json) |
 | Hunter Girls | 259065 | [259065-hunter-girls.json](./259065-hunter-girls.json) |
 | Hunter Hearts | 164873 | [164873-hunter-hearts.json](./164873-hunter-hearts.json) |
 | Hunter Hitman | 297442 | [297442-hunter-hitman.json](./297442-hunter-hitman.json) |
