@@ -3473,6 +3473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghana Bwana | 97474 | [97474-ghana-bwana.json](./97474-ghana-bwana.json) |
 | Gharp | 192438 | [192438-gharp.json](./192438-gharp.json) |
 | Ghastly Mask Shop | 391332 | [391332-ghastly-mask-shop.json](./391332-ghastly-mask-shop.json) |
+| Ghatika | 405286 | [405286-ghatika.json](./405286-ghatika.json) |
 | GHD | 171320 | [171320-ghd.json](./171320-ghd.json) |
 | Gheldia | 64796 | [64796-gheldia.json](./64796-gheldia.json) |
 | Ghen War | 45526 | [45526-ghen-war.json](./45526-ghen-war.json) |
