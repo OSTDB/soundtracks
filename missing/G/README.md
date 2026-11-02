@@ -6845,6 +6845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorf the Ghost Saves Halloween | 277415 | [277415-gorf-the-ghost-saves-halloween.json](./277415-gorf-the-ghost-saves-halloween.json) |
 | Gorfest | 267851 | [267851-gorfest.json](./267851-gorfest.json) |
 | Gorg The Game | 398681 | [398681-gorg-the-game.json](./398681-gorg-the-game.json) |
+| Gorgeous Baby Bella | 424611 | [424611-gorgeous-baby-bella.json](./424611-gorgeous-baby-bella.json) |
 | Gorgeous Elves of Ganassa | 385806 | [385806-gorgeous-elves-of-ganassa.json](./385806-gorgeous-elves-of-ganassa.json) |
 | Gorgeous Princess Dressup | 104605 | [104605-gorgeous-princess-dressup.json](./104605-gorgeous-princess-dressup.json) |
 | Gorgon | 22411 | [22411-gorgon.json](./22411-gorgon.json) |
