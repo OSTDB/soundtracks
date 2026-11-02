@@ -1412,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Pastaria | 210501 | [210501-papas-pastaria.json](./210501-papas-pastaria.json) |
 | Papa's Pastaria To Go! | 420003 | [420003-papas-pastaria-to-go.json](./420003-papas-pastaria-to-go.json) |
 | Papa's Pizzeria | 206853 | [206853-papas-pizzeria.json](./206853-papas-pizzeria.json) |
+| Papa's Pizzeria HD | 86919 | [86919-papas-pizzeria-hd.json](./86919-papas-pizzeria-hd.json) |
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
 | Papa's Quiz | 142177 | [142177-papas-quiz.json](./142177-papas-quiz.json) |
 | Papa's Scooperia | 210503 | [210503-papas-scooperia.json](./210503-papas-scooperia.json) |
