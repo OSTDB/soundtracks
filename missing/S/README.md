@@ -6492,6 +6492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrun Chronicles: Infected - Missions | 171365 | [171365-shadowrun-chronicles-infected-missions.json](./171365-shadowrun-chronicles-infected-missions.json) |
 | Shadowrun Collection | 136925 | [136925-shadowrun-collection.json](./136925-shadowrun-collection.json) |
 | Shadowrun Complete Collection | 53603 | [53603-shadowrun-complete-collection.json](./53603-shadowrun-complete-collection.json) |
+| Shadowrun Trilogy | 154181 | [154181-shadowrun-trilogy.json](./154181-shadowrun-trilogy.json) |
 | Shadowrun: Dragonfall - Director's Cut | 8864 | [8864-shadowrun-dragonfall-directors-cut.json](./8864-shadowrun-dragonfall-directors-cut.json) |
 | Shadowrun: Hong Kong - Extended Edition | 35842 | [35842-shadowrun-hong-kong-extended-edition.json](./35842-shadowrun-hong-kong-extended-edition.json) |
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
@@ -11878,6 +11879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skydome | 112175 | [112175-skydome.json](./112175-skydome.json) |
 | SkyDribble | 253429 | [253429-skydribble.json](./253429-skydribble.json) |
 | SkyDrift | 9424 | [9424-skydrift.json](./9424-skydrift.json) |
+| Skydrift Infinity | 154770 | [154770-skydrift-infinity.json](./154770-skydrift-infinity.json) |
 | SkyDrop | 384672 | [384672-skydrop.json](./384672-skydrop.json) |
 | SkyDungeon Shinobigaeshi Peak | 401709 | [401709-skydungeon-shinobigaeshi-peak.json](./401709-skydungeon-shinobigaeshi-peak.json) |
 | Skye | 130902 | [130902-skye.json](./130902-skye.json) |
@@ -13249,6 +13251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Boy's Gameroom II | 208958 | [208958-smart-boys-gameroom-ii.json](./208958-smart-boys-gameroom-ii.json) |
 | Smart Boy's: Toy Club | 124044 | [124044-smart-boys-toy-club.json](./124044-smart-boys-toy-club.json) |
 | Smart Boy's: Winter Wonderland | 124048 | [124048-smart-boys-winter-wonderland.json](./124048-smart-boys-winter-wonderland.json) |
+| Smart City Plan | 122273 | [122273-smart-city-plan.json](./122273-smart-city-plan.json) |
 | Smart Cookie Cat | 234588 | [234588-smart-cookie-cat.json](./234588-smart-cookie-cat.json) |
 | Smart Cube | 81130 | [81130-smart-cube.json](./81130-smart-cube.json) |
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
@@ -16955,6 +16958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophistry: Live2D | 168048 | [168048-sophistry-live2d.json](./168048-sophistry-live2d.json) |
 | Sophonce | 211278 | [211278-sophonce.json](./211278-sophonce.json) |
 | Sophont | 99431 | [99431-sophont.json](./99431-sophont.json) |
+| Sophstar | 157973 | [157973-sophstar.json](./157973-sophstar.json) |
 | Soporfall | 328374 | [328374-soporfall.json](./328374-soporfall.json) |
 | Sopwith VR | 113601 | [113601-sopwith-vr.json](./113601-sopwith-vr.json) |
 | Sopwith: The Author's Edition | 73126 | [73126-sopwith-the-authors-edition.json](./73126-sopwith-the-authors-edition.json) |
@@ -17028,6 +17032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
 | Sorcero | 308035 | [308035-sorcero.json](./308035-sorcero.json) |
 | Sorceror's Apprentice | 94188 | [94188-sorcerors-apprentice.json](./94188-sorcerors-apprentice.json) |
+| Sorcerous | 155851 | [155851-sorcerous.json](./155851-sorcerous.json) |
 | Sorcery | 20114 | [20114-sorcery.json](./20114-sorcery.json) |
 | Sorcery and Survival | 372223 | [372223-sorcery-and-survival.json](./372223-sorcery-and-survival.json) |
 | Sorcery Blade | 71603 | [71603-sorcery-blade.json](./71603-sorcery-blade.json) |
@@ -18261,7 +18266,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18475,6 +18479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Moonshiner | 230969 | [230969-space-moonshiner.json](./230969-space-moonshiner.json) |
 | Space Mosaics | 383727 | [383727-space-mosaics.json](./383727-space-mosaics.json) |
 | Space Moth DX | 33928 | [33928-space-moth-dx.json](./33928-space-moth-dx.json) |
+| Space Moth: Lunar Edition | 158935 | [158935-space-moth-lunar-edition.json](./158935-space-moth-lunar-edition.json) |
 | Space Mouse | 30874 | [30874-space-mouse.json](./30874-space-mouse.json) |
 | Space Mouse 2 | 149507 | [149507-space-mouse-2.json](./149507-space-mouse-2.json) |
 | Space Mouse: 35th Anniversary Edition | 98525 | [98525-space-mouse-35th-anniversary-edition.json](./98525-space-mouse-35th-anniversary-edition.json) |
@@ -21850,6 +21855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squigs | 79750 | [79750-squigs.json](./79750-squigs.json) |
 | Squiigee | 260304 | [260304-squiigee.json](./260304-squiigee.json) |
 | Squillamorph | 126652 | [126652-squillamorph.json](./126652-squillamorph.json) |
+| Squingle | 157672 | [157672-squingle.json](./157672-squingle.json) |
 | Squingle Arcade | 397933 | [397933-squingle-arcade.json](./397933-squingle-arcade.json) |
 | Squinkies | 8679 | [8679-squinkies.json](./8679-squinkies.json) |
 | Squinkies 2: Adventure Mall Surprize! | 8910 | [8910-squinkies-2-adventure-mall-surprize.json](./8910-squinkies-2-adventure-mall-surprize.json) |
@@ -22447,6 +22453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Honor | 228388 | [228388-star-honor.json](./228388-star-honor.json) |
 | Star Horizon | 35690 | [35690-star-horizon.json](./35690-star-horizon.json) |
 | Star Hound | 87103 | [87103-star-hound.json](./87103-star-hound.json) |
+| Star Hunter DX | 153512 | [153512-star-hunter-dx.json](./153512-star-hunter-dx.json) |
 | Star Hunter DX & Space Moth: Lunar Edition | 158936 | [158936-star-hunter-dx-and-space-moth-lunar-edition.json](./158936-star-hunter-dx-and-space-moth-lunar-edition.json) |
 | Star Iliad | 329676 | [329676-star-iliad.json](./329676-star-iliad.json) |
 | Star Impact | 117035 | [117035-star-impact.json](./117035-star-impact.json) |
@@ -30236,6 +30243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Off Road Track Pack | 245280 | [245280-super-off-road-track-pack.json](./245280-super-off-road-track-pack.json) |
 | Super Off Road: The Baja | 42575 | [42575-super-off-road-the-baja.json](./42575-super-off-road-the-baja.json) |
 | Super One More Jump | 83730 | [83730-super-one-more-jump.json](./83730-super-one-more-jump.json) |
+| Super Onion Boy 2 | 154002 | [154002-super-onion-boy-2.json](./154002-super-onion-boy-2.json) |
 | Super Onion Boy+ | 292476 | [292476-super-onion-boy.json](./292476-super-onion-boy.json) |
 | Super Orb Bros. | 142396 | [142396-super-orb-bros.json](./142396-super-orb-bros.json) |
 | Super Orbit | 344563 | [344563-super-orbit.json](./344563-super-orbit.json) |
@@ -30543,6 +30551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Safe Spelunking | 372246 | [372246-super-safe-spelunking.json](./372246-super-safe-spelunking.json) |
 | Super Salome World | 296508 | [296508-super-salome-world.json](./296508-super-salome-world.json) |
 | Super Sam Adventures | 343991 | [343991-super-sam-adventures.json](./343991-super-sam-adventures.json) |
+| Super Sami Roll | 158582 | [158582-super-sami-roll.json](./158582-super-sami-roll.json) |
 | Super Samtong | 92509 | [92509-super-samtong.json](./92509-super-samtong.json) |
 | Super Samurai Rampage | 54500 | [54500-super-samurai-rampage.json](./54500-super-samurai-rampage.json) |
 | Super Sangokushi | 42226 | [42226-super-sangokushi.json](./42226-super-sangokushi.json) |
