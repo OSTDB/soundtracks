@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | xkcd: Hoverboard | 59459 | [59459-xkcd-hoverboard.json](./59459-xkcd-hoverboard.json) |
 | XL1: Clipping Point | 86621 | [86621-xl1-clipping-point.json](./86621-xl1-clipping-point.json) |
 | Xlands | 403750 | [403750-xlands.json](./403750-xlands.json) |
+| XLarn | 35484 | [35484-xlarn.json](./35484-xlarn.json) |
 | XLM's Dr. Harrison | 361277 | [361277-xlms-dr-harrison.json](./361277-xlms-dr-harrison.json) |
 | XLR | 33394 | [33394-xlr.json](./33394-xlr.json) |
 | Xmas Apocalypse | 226114 | [226114-xmas-apocalypse.json](./226114-xmas-apocalypse.json) |
