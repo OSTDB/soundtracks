@@ -5880,6 +5880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ball of the Rings | 176480 | [176480-the-ball-of-the-rings.json](./176480-the-ball-of-the-rings.json) |
 | The Ball Pit | 336382 | [336382-the-ball-pit.json](./336382-the-ball-pit.json) |
 | The Ball Reach | 105542 | [105542-the-ball-reach.json](./105542-the-ball-reach.json) |
+| The Ballad of a True Thug | 405258 | [405258-the-ballad-of-a-true-thug.json](./405258-the-ballad-of-a-true-thug.json) |
 | The Ballad of Bellum | 336539 | [336539-the-ballad-of-bellum.json](./336539-the-ballad-of-bellum.json) |
 | The Ballad of Bonky | 159648 | [159648-the-ballad-of-bonky.json](./159648-the-ballad-of-bonky.json) |
 | The Ballad of Light and Shadow | 350921 | [350921-the-ballad-of-light-and-shadow.json](./350921-the-ballad-of-light-and-shadow.json) |
@@ -9431,6 +9432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gate | 35727 | [35727-the-gate.json](./35727-the-gate.json) |
 | The Gate 2 | 221912 | [221912-the-gate-2.json](./221912-the-gate-2.json) |
 | The Gate Must Stand | 370107 | [370107-the-gate-must-stand.json](./370107-the-gate-must-stand.json) |
+| The Gate of Front: Monster Auction | 405290 | [405290-the-gate-of-front-monster-auction.json](./405290-the-gate-of-front-monster-auction.json) |
 | The Gatekeeper of Scarlet's Mansion | 348237 | [348237-the-gatekeeper-of-scarlets-mansion.json](./348237-the-gatekeeper-of-scarlets-mansion.json) |
 | The Gates of Ursa | 221491 | [221491-the-gates-of-ursa.json](./221491-the-gates-of-ursa.json) |
 | The Gateway Persona | 177890 | [177890-the-gateway-persona.json](./177890-the-gateway-persona.json) |
@@ -11435,6 +11437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last King's Archer | 153371 | [153371-the-last-kings-archer.json](./153371-the-last-kings-archer.json) |
 | The Last Knife | 320118 | [320118-the-last-knife.json](./320118-the-last-knife.json) |
 | The Last Knight | 310061 | [310061-the-last-knight.json](./310061-the-last-knight.json) |
+| The Last Knight Hawk | 405302 | [405302-the-last-knight-hawk.json](./405302-the-last-knight-hawk.json) |
 | The Last Knight: Day One | 83194 | [83194-the-last-knight-day-one.json](./83194-the-last-knight-day-one.json) |
 | The Last Leviathan | 32873 | [32873-the-last-leviathan.json](./32873-the-last-leviathan.json) |
 | The Last Librarian | 134827 | [134827-the-last-librarian.json](./134827-the-last-librarian.json) |
@@ -13091,6 +13094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Misadventures of P.B. Winterbottom | 13179 | [13179-the-misadventures-of-p-b-winterbottom.json](./13179-the-misadventures-of-p-b-winterbottom.json) |
 | The Misadventures of Sigfreid the Dark Elf on Tuesday Night | 288648 | [288648-the-misadventures-of-sigfreid-the-dark-elf-on-tuesday-night.json](./288648-the-misadventures-of-sigfreid-the-dark-elf-on-tuesday-night.json) |
 | The Misadventures of Sir Randolph Doogleberry, British Explorer | 91429 | [91429-the-misadventures-of-sir-randolph-doogleberry-british-explorer.json](./91429-the-misadventures-of-sir-randolph-doogleberry-british-explorer.json) |
+| The Misadventures of Spaceman Biff | 405289 | [405289-the-misadventures-of-spaceman-biff.json](./405289-the-misadventures-of-spaceman-biff.json) |
 | The Misadventures of Tron Bonne | 1753 | [1753-the-misadventures-of-tron-bonne.json](./1753-the-misadventures-of-tron-bonne.json) |
 | The MisAdventures of Xenos | 241422 | [241422-the-misadventures-of-xenos.json](./241422-the-misadventures-of-xenos.json) |
 | The MisAdventures of Xenos: Legacy Edition | 292642 | [292642-the-misadventures-of-xenos-legacy-edition.json](./292642-the-misadventures-of-xenos-legacy-edition.json) |
@@ -16698,6 +16702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Threat of North | 112157 | [112157-the-threat-of-north.json](./112157-the-threat-of-north.json) |
 | The Three Cardinals | 408709 | [408709-the-three-cardinals.json](./408709-the-three-cardinals.json) |
 | The Three Decoders 1 - Riddle of the Ring | 58777 | [58777-the-three-decoders-1-riddle-of-the-ring.json](./58777-the-three-decoders-1-riddle-of-the-ring.json) |
+| The Three Kingdoms Era in China 2000 Years Ago | 405287 | [405287-the-three-kingdoms-era-in-china-2000-years-ago.json](./405287-the-three-kingdoms-era-in-china-2000-years-ago.json) |
 | The Three Kingdoms Era in China 2000 Years Ago: God Pass | 308860 | [308860-the-three-kingdoms-era-in-china-2000-years-ago-god-pass.json](./308860-the-three-kingdoms-era-in-china-2000-years-ago-god-pass.json) |
 | The Three Kingdoms of China | 115489 | [115489-the-three-kingdoms-of-china.json](./115489-the-three-kingdoms-of-china.json) |
 | The Three Kingdoms of Destiny | 312653 | [312653-the-three-kingdoms-of-destiny.json](./312653-the-three-kingdoms-of-destiny.json) |
@@ -19760,6 +19765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TicTacToeTwo | 400562 | [400562-tictactoetwo.json](./400562-tictactoetwo.json) |
 | TicTako | 183453 | [183453-tictako.json](./183453-tictako.json) |
 | Ticuto | 310569 | [310569-ticuto.json](./310569-ticuto.json) |
+| Ticy Adventure Club | 405276 | [405276-ticy-adventure-club.json](./405276-ticy-adventure-club.json) |
 | Tidal Affair: Before the Storm | 34618 | [34618-tidal-affair-before-the-storm.json](./34618-tidal-affair-before-the-storm.json) |
 | Tidal Hopper | 336026 | [336026-tidal-hopper.json](./336026-tidal-hopper.json) |
 | Tidal Nexus Online | 310002 | [310002-tidal-nexus-online.json](./310002-tidal-nexus-online.json) |
@@ -30627,6 +30633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Speedway | 71381 | [71381-turbo-speedway.json](./71381-turbo-speedway.json) |
 | Turbo Sprint | 229785 | [229785-turbo-sprint.json](./229785-turbo-sprint.json) |
 | Turbo Sprint Racing | 248850 | [248850-turbo-sprint-racing.json](./248850-turbo-sprint-racing.json) |
+| Turbo ST | 405249 | [405249-turbo-st.json](./405249-turbo-st.json) |
 | Turbo Stars | 352166 | [352166-turbo-stars.json](./352166-turbo-stars.json) |
 | Turbo Subs | 206070 | [206070-turbo-subs.json](./206070-turbo-subs.json) |
 | Turbo Tag | 40494 | [40494-turbo-tag.json](./40494-turbo-tag.json) |
