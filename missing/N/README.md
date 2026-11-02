@@ -6471,6 +6471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostalgia: Forte | 135471 | [135471-nostalgia-forte.json](./135471-nostalgia-forte.json) |
 | Nostalgia: Op.2 | 135470 | [135470-nostalgia-op-2.json](./135470-nostalgia-op-2.json) |
 | Nostalgia: Op.3 | 135477 | [135477-nostalgia-op-3.json](./135477-nostalgia-op-3.json) |
+| Nostalgiallo | 414720 | [414720-nostalgiallo.json](./414720-nostalgiallo.json) |
 | Nostalgiarian | 127375 | [127375-nostalgiarian.json](./127375-nostalgiarian.json) |
 | NostAlgic | 166463 | [166463-nostalgic.json](./166463-nostalgic.json) |
 | Nostalgic Entropy: Neo Retro | 312899 | [312899-nostalgic-entropy-neo-retro.json](./312899-nostalgic-entropy-neo-retro.json) |
