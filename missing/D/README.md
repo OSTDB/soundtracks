@@ -2468,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Everything!: Lavish DLC | 345712 | [345712-date-everything-lavish-dlc.json](./345712-date-everything-lavish-dlc.json) |
 | Date Everything!: Lavish Edition | 345713 | [345713-date-everything-lavish-edition.json](./345713-date-everything-lavish-edition.json) |
 | Date Kimiko no Virtual Tennis | 42435 | [42435-date-kimiko-no-virtual-tennis.json](./42435-date-kimiko-no-virtual-tennis.json) |
+| Date Math | 407083 | [407083-date-math.json](./407083-date-math.json) |
 | Date ni Game Tsui Wake Jane! Dungeon Maker Girls Type | 214552 | [214552-date-ni-game-tsui-wake-jane-dungeon-maker-girls-type.json](./214552-date-ni-game-tsui-wake-jane-dungeon-maker-girls-type.json) |
 | Date Night | 179077 | [179077-date-night.json](./179077-date-night.json) |
 | Date Night | 393971 | [393971-date-night.json](./393971-date-night.json) |
@@ -3566,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 6: Strongest Package - Limited Edition | 167104 | [167104-dead-or-alive-6-strongest-package-limited-edition.json](./167104-dead-or-alive-6-strongest-package-limited-edition.json) |
 | Dead or Alive 6: Tamaki | 155443 | [155443-dead-or-alive-6-tamaki.json](./155443-dead-or-alive-6-tamaki.json) |
 | Dead or Alive 6: Tamaki & Debut Costume Set | 155423 | [155423-dead-or-alive-6-tamaki-and-debut-costume-set.json](./155423-dead-or-alive-6-tamaki-and-debut-costume-set.json) |
+| Dead or Alive 6: The King of Fighters XIV Mashup Content Set | 407082 | [407082-dead-or-alive-6-the-king-of-fighters-xiv-mashup-content-set.json](./407082-dead-or-alive-6-the-king-of-fighters-xiv-mashup-content-set.json) |
 | Dead or Alive 6: Tina | 155425 | [155425-dead-or-alive-6-tina.json](./155425-dead-or-alive-6-tina.json) |
 | Dead or Alive 6: Zack | 155433 | [155433-dead-or-alive-6-zack.json](./155433-dead-or-alive-6-zack.json) |
 | Dead or Alive M | 123262 | [123262-dead-or-alive-m.json](./123262-dead-or-alive-m.json) |
@@ -5931,6 +5933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demeo x Dungeons & Dragons: Battlemarked | 346959 | [346959-demeo-x-dungeons-and-dragons-battlemarked.json](./346959-demeo-x-dungeons-and-dragons-battlemarked.json) |
 | Demeo: PC Edition | 194737 | [194737-demeo-pc-edition.json](./194737-demeo-pc-edition.json) |
 | Demeritocracy or the Two Faces of Arias Ruth | 68388 | [68388-demeritocracy-or-the-two-faces-of-arias-ruth.json](./68388-demeritocracy-or-the-two-faces-of-arias-ruth.json) |
+| Demersus | 406473 | [406473-demersus.json](./406473-demersus.json) |
 | Demeter | 280059 | [280059-demeter.json](./280059-demeter.json) |
 | Demetria Spirit | 166843 | [166843-demetria-spirit.json](./166843-demetria-spirit.json) |
 | Demetrios: The Big Cynical Adventure | 23425 | [23425-demetrios-the-big-cynical-adventure.json](./23425-demetrios-the-big-cynical-adventure.json) |
@@ -7633,6 +7636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 5: Playable Character - Vergil | 169336 | [169336-devil-may-cry-5-playable-character-vergil.json](./169336-devil-may-cry-5-playable-character-vergil.json) |
 | Devil May Cry 5: Ultra Limited Edition | 111299 | [111299-devil-may-cry-5-ultra-limited-edition.json](./111299-devil-may-cry-5-ultra-limited-edition.json) |
 | Devil May Cry Dead Shot | 403068 | [403068-devil-may-cry-dead-shot.json](./403068-devil-may-cry-dead-shot.json) |
+| Devil May Cry Franchise Pack | 407078 | [407078-devil-may-cry-franchise-pack.json](./407078-devil-may-cry-franchise-pack.json) |
 | Devil May Cry HD Collection | 20734 | [20734-devil-may-cry-hd-collection.json](./20734-devil-may-cry-hd-collection.json) |
 | Devil May Cry HD Collection & 4 Special Edition Bundle | 218517 | [218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json](./218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json) |
 | Devil May Cry Triple Pack | 218404 | [218404-devil-may-cry-triple-pack.json](./218404-devil-may-cry-triple-pack.json) |
@@ -8661,6 +8665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digit God | 243309 | [243309-digit-god.json](./243309-digit-god.json) |
 | Digit Monster II | 247303 | [247303-digit-monster-ii.json](./247303-digit-monster-ii.json) |
 | Digital Ange: Dennou Tenshi SS | 258872 | [258872-digital-ange-dennou-tenshi-ss.json](./258872-digital-ange-dennou-tenshi-ss.json) |
+| Digital Anima: Virtual Lifeform Care Kit | 407045 | [407045-digital-anima-virtual-lifeform-care-kit.json](./407045-digital-anima-virtual-lifeform-care-kit.json) |
 | Digital Audio Wasteland | 297818 | [297818-digital-audio-wasteland.json](./297818-digital-audio-wasteland.json) |
 | Digital Bird Playground | 124255 | [124255-digital-bird-playground.json](./124255-digital-bird-playground.json) |
 | Digital Bojangles Saga HD Remaster | 245255 | [245255-digital-bojangles-saga-hd-remaster.json](./245255-digital-bojangles-saga-hd-remaster.json) |
@@ -8904,6 +8909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Simulator: Horror Story | 326200 | [326200-diner-simulator-horror-story.json](./326200-diner-simulator-horror-story.json) |
 | Diner Together | 192648 | [192648-diner-together.json](./192648-diner-together.json) |
 | DinerTown Tycoon | 15000 | [15000-dinertown-tycoon.json](./15000-dinertown-tycoon.json) |
+| Dinerz | 406448 | [406448-dinerz.json](./406448-dinerz.json) |
 | Ding Dong Dang | 302470 | [302470-ding-dong-dang.json](./302470-ding-dong-dang.json) |
 | Ding Dong Dead | 272495 | [272495-ding-dong-dead.json](./272495-ding-dong-dead.json) |
 | Ding Dong Delivery | 237008 | [237008-ding-dong-delivery.json](./237008-ding-dong-delivery.json) |
@@ -13017,6 +13023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double K Games Store | 411667 | [411667-double-k-games-store.json](./411667-double-k-games-store.json) |
 | Double Kick Heroes | 29511 | [29511-double-kick-heroes.json](./29511-double-kick-heroes.json) |
 | Double Klondike | 91112 | [91112-double-klondike.json](./91112-double-klondike.json) |
+| Double Knight | 406495 | [406495-double-knight.json](./406495-double-knight.json) |
 | Double Knoxels | 363990 | [363990-double-knoxels.json](./363990-double-knoxels.json) |
 | Double Line | 141854 | [141854-double-line.json](./141854-double-line.json) |
 | Double Match | 83458 | [83458-double-match.json](./83458-double-match.json) |
@@ -17952,6 +17959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Shop | 130155 | [130155-dwarf-shop.json](./130155-dwarf-shop.json) |
 | Dwarf Slayer | 149502 | [149502-dwarf-slayer.json](./149502-dwarf-slayer.json) |
 | Dwarf Swordsman | 110160 | [110160-dwarf-swordsman.json](./110160-dwarf-swordsman.json) |
+| Dwarf the Dungeonist | 407056 | [407056-dwarf-the-dungeonist.json](./407056-dwarf-the-dungeonist.json) |
 | Dwarf Tower | 24563 | [24563-dwarf-tower.json](./24563-dwarf-tower.json) |
 | Dwarf Wars | 414064 | [414064-dwarf-wars.json](./414064-dwarf-wars.json) |
 | Dwarf's Adventure | 219405 | [219405-dwarfs-adventure.json](./219405-dwarfs-adventure.json) |
