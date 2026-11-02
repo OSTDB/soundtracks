@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race for the Galaxy: Brink of War | 171486 | [171486-race-for-the-galaxy-brink-of-war.json](./171486-race-for-the-galaxy-brink-of-war.json) |
 | Race for the Galaxy: Rebel vs. Imperium | 167759 | [167759-race-for-the-galaxy-rebel-vs-imperium.json](./167759-race-for-the-galaxy-rebel-vs-imperium.json) |
 | Race for The White House | 234170 | [234170-race-for-the-white-house.json](./234170-race-for-the-white-house.json) |
+| Race Horses Champions | 87488 | [87488-race-horses-champions.json](./87488-race-horses-champions.json) |
 | Race Horses Champions 2 | 108711 | [108711-race-horses-champions-2.json](./108711-race-horses-champions-2.json) |
 | Race Illegal | 240211 | [240211-race-illegal.json](./240211-race-illegal.json) |
 | Race in Desert | 234747 | [234747-race-in-desert.json](./234747-race-in-desert.json) |
@@ -721,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rafa's World + Axolotl + Cat Milk | 242658 | [242658-rafas-world-axolotl-cat-milk.json](./242658-rafas-world-axolotl-cat-milk.json) |
 | Raffle Cat | 123254 | [123254-raffle-cat.json](./123254-raffle-cat.json) |
 | Rafflesia | 40167 | [40167-rafflesia.json](./40167-rafflesia.json) |
+| Raft Island Shark Survival | 88985 | [88985-raft-island-shark-survival.json](./88985-raft-island-shark-survival.json) |
 | Raft Life | 203704 | [203704-raft-life.json](./203704-raft-life.json) |
 | Raft Rider | 22819 | [22819-raft-rider.json](./22819-raft-rider.json) |
 | Raft Survival | 193810 | [193810-raft-survival.json](./193810-raft-survival.json) |
@@ -5944,6 +5946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Returnal: Ascension | 194788 | [194788-returnal-ascension.json](./194788-returnal-ascension.json) |
 | Returnal: Digital Deluxe Edition | 221656 | [221656-returnal-digital-deluxe-edition.json](./221656-returnal-digital-deluxe-edition.json) |
 | Returner 77 | 88035 | [88035-returner-77.json](./88035-returner-77.json) |
+| Returner 77 | 88968 | [88968-returner-77.json](./88968-returner-77.json) |
 | Returner Alien | 108500 | [108500-returner-alien.json](./108500-returner-alien.json) |
 | Returner Zhero | 107202 | [107202-returner-zhero.json](./107202-returner-zhero.json) |
 | Returners | 101184 | [101184-returners.json](./101184-returners.json) |
