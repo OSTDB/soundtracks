@@ -6281,6 +6281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobster Game | 190469 | [190469-lobster-game.json](./190469-lobster-game.json) |
 | Lobsterbotomy | 182137 | [182137-lobsterbotomy.json](./182137-lobsterbotomy.json) |
 | Lobsterpunk | 369895 | [369895-lobsterpunk.json](./369895-lobsterpunk.json) |
+| LOC | 401205 | [401205-loc.json](./401205-loc.json) |
 | Loca Deserta: Odesa | 274925 | [274925-loca-deserta-odesa.json](./274925-loca-deserta-odesa.json) |
 | Loca-Love My Commuting Crush | 120792 | [120792-loca-love-my-commuting-crush.json](./120792-loca-love-my-commuting-crush.json) |
 | Loca-Love My Cute Roommate | 110774 | [110774-loca-love-my-cute-roommate.json](./110774-loca-love-my-cute-roommate.json) |
@@ -6985,6 +6986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loony | 197934 | [197934-loony.json](./197934-loony.json) |
 | Loony Balloon | 41543 | [41543-loony-balloon.json](./41543-loony-balloon.json) |
 | Loony Labyrinth | 122307 | [122307-loony-labyrinth.json](./122307-loony-labyrinth.json) |
+| Loonyland 2: Winter Woods - Collector's Edition | 400735 | [400735-loonyland-2-winter-woods-collectors-edition.json](./400735-loonyland-2-winter-woods-collectors-edition.json) |
 | Loonyland: Halloween Hill | 74154 | [74154-loonyland-halloween-hill.json](./74154-loonyland-halloween-hill.json) |
 | Loonz | 256222 | [256222-loonz.json](./256222-loonz.json) |
 | Loop | 157568 | [157568-loop.json](./157568-loop.json) |
