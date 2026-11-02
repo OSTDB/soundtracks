@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Chess Collection | 125752 | [125752-zen-chess-collection.json](./125752-zen-chess-collection.json) |
 | Zen Chess: Blindfold Masters | 125730 | [125730-zen-chess-blindfold-masters.json](./125730-zen-chess-blindfold-masters.json) |
 | Zen Chess: Mate in Four | 116702 | [116702-zen-chess-mate-in-four.json](./116702-zen-chess-mate-in-four.json) |
+| Zen Chess: Mate in One | 86620 | [86620-zen-chess-mate-in-one.json](./86620-zen-chess-mate-in-one.json) |
 | Zen Chess: Mate in Three | 116698 | [116698-zen-chess-mate-in-three.json](./116698-zen-chess-mate-in-three.json) |
 | Zen Chess: Mate in Two | 116700 | [116700-zen-chess-mate-in-two.json](./116700-zen-chess-mate-in-two.json) |
 | Zen Cube | 163988 | [163988-zen-cube.json](./163988-zen-cube.json) |
