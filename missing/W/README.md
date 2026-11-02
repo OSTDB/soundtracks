@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wan Nyan Slash | 123027 | [123027-wan-nyan-slash.json](./123027-wan-nyan-slash.json) |
 | Wanagiri | 319024 | [319024-wanagiri.json](./319024-wanagiri.json) |
 | Wanaka Farm | 172770 | [172770-wanaka-farm.json](./172770-wanaka-farm.json) |
+| Wanba Warriors | 113986 | [113986-wanba-warriors.json](./113986-wanba-warriors.json) |
 | Wanba Warriors: Character Pack 1 | 170992 | [170992-wanba-warriors-character-pack-1.json](./170992-wanba-warriors-character-pack-1.json) |
 | Wanba Warriors: Character Pack 2 | 170994 | [170994-wanba-warriors-character-pack-2.json](./170994-wanba-warriors-character-pack-2.json) |
 | Wanba Warriors: Character Pack 3 | 170993 | [170993-wanba-warriors-character-pack-3.json](./170993-wanba-warriors-character-pack-3.json) |
@@ -2066,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warzone Chronicles: Virtual Warfare Shooter | 283217 | [283217-warzone-chronicles-virtual-warfare-shooter.json](./283217-warzone-chronicles-virtual-warfare-shooter.json) |
 | Warzone Chronicles: Virtual Warfare Shooter - Premium Edition | 308795 | [308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json](./308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json) |
 | WarZone Flashpoint | 112996 | [112996-warzone-flashpoint.json](./112996-warzone-flashpoint.json) |
+| Warzone VR | 113879 | [113879-warzone-vr.json](./113879-warzone-vr.json) |
 | Warzone World | 115186 | [115186-warzone-world.json](./115186-warzone-world.json) |
 | Warzone-X | 118114 | [118114-warzone-x.json](./118114-warzone-x.json) |
 | Warzone: Clash of Generals | 71018 | [71018-warzone-clash-of-generals.json](./71018-warzone-clash-of-generals.json) |
@@ -3682,6 +3684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Balance | 389185 | [389185-wheel-balance.json](./389185-wheel-balance.json) |
 | Wheel Dismount | 101951 | [101951-wheel-dismount.json](./101951-wheel-dismount.json) |
 | Wheel Make It | 402549 | [402549-wheel-make-it.json](./402549-wheel-make-it.json) |
+| Wheel of Fate | 122104 | [122104-wheel-of-fate.json](./122104-wheel-of-fate.json) |
 | Wheel Of Fates | 338376 | [338376-wheel-of-fates.json](./338376-wheel-of-fates.json) |
 | Wheel of Fortune | 116896 | [116896-wheel-of-fortune.json](./116896-wheel-of-fortune.json) |
 | Wheel of Fortune | 116957 | [116957-wheel-of-fortune.json](./116957-wheel-of-fortune.json) |
@@ -5666,6 +5669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Polaris | 127007 | [127007-winter-polaris.json](./127007-winter-polaris.json) |
 | Winter Polaris: Append Disc teki na no | 359204 | [359204-winter-polaris-append-disc-teki-na-no.json](./359204-winter-polaris-append-disc-teki-na-no.json) |
 | Winter Quackdown | 384285 | [384285-winter-quackdown.json](./384285-winter-quackdown.json) |
+| Winter Resort Simulator | 123362 | [123362-winter-resort-simulator.json](./123362-winter-resort-simulator.json) |
 | Winter Resort Simulator 2: Riedstein | 216826 | [216826-winter-resort-simulator-2-riedstein.json](./216826-winter-resort-simulator-2-riedstein.json) |
 | Winter Resort Simulator Season 2: Content Pack | 226882 | [226882-winter-resort-simulator-season-2-content-pack.json](./226882-winter-resort-simulator-season-2-content-pack.json) |
 | Winter Resort Simulator Season 2: TechnoAlpin - Snow Expert Pack | 226883 | [226883-winter-resort-simulator-season-2-technoalpin-snow-expert-pack.json](./226883-winter-resort-simulator-season-2-technoalpin-snow-expert-pack.json) |
@@ -8385,6 +8389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wraithbinder | 218300 | [218300-wraithbinder.json](./218300-wraithbinder.json) |
 | Wraithborn | 258647 | [258647-wraithborn.json](./258647-wraithborn.json) |
 | WraithRun | 305632 | [305632-wraithrun.json](./305632-wraithrun.json) |
+| Wraithslayer | 115405 | [115405-wraithslayer.json](./115405-wraithslayer.json) |
 | Wrangel Island | 220631 | [220631-wrangel-island.json](./220631-wrangel-island.json) |
 | Wrangle Ranch | 364700 | [364700-wrangle-ranch.json](./364700-wrangle-ranch.json) |
 | Wrangler | 259185 | [259185-wrangler.json](./259185-wrangler.json) |
