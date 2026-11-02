@@ -1248,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K25: All-Star Edition | 317248 | [317248-nba-2k25-all-star-edition.json](./317248-nba-2k25-all-star-edition.json) |
 | NBA 2K25: Tournament Edition | 331859 | [331859-nba-2k25-tournament-edition.json](./331859-nba-2k25-tournament-edition.json) |
 | NBA 2K26 | 353901 | [353901-nba-2k26.json](./353901-nba-2k26.json) |
+| NBA 2K26 Arcade Edition | 415301 | [415301-nba-2k26-arcade-edition.json](./415301-nba-2k26-arcade-edition.json) |
 | NBA 2K26 x WWE 2K25 Bundle | 378835 | [378835-nba-2k26-x-wwe-2k25-bundle.json](./378835-nba-2k26-x-wwe-2k25-bundle.json) |
 | NBA 2K26: Slam Edition | 376244 | [376244-nba-2k26-slam-edition.json](./376244-nba-2k26-slam-edition.json) |
 | NBA 2K27 | 408823 | [408823-nba-2k27.json](./408823-nba-2k27.json) |
@@ -2367,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Hell | 180962 | [180962-neon-hell.json](./180962-neon-hell.json) |
 | Neon Highways | 349203 | [349203-neon-highways.json](./349203-neon-highways.json) |
 | Neon Hockey | 63176 | [63176-neon-hockey.json](./63176-neon-hockey.json) |
+| Neon Howl | 415717 | [415717-neon-howl.json](./415717-neon-howl.json) |
 | Neon Hyperdrive | 356008 | [356008-neon-hyperdrive.json](./356008-neon-hyperdrive.json) |
 | Neon Idle | 367299 | [367299-neon-idle.json](./367299-neon-idle.json) |
 | Neon Impact | 233464 | [233464-neon-impact.json](./233464-neon-impact.json) |
