@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -923,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Sector 3 | 371265 | [371265-bad-sector-3.json](./371265-bad-sector-3.json) |
 | Bad Sector HDD | 31203 | [31203-bad-sector-hdd.json](./31203-bad-sector-hdd.json) |
 | Bad Shooter 2 | 55284 | [55284-bad-shooter-2.json](./55284-bad-shooter-2.json) |
+| Bad Slime | 415832 | [415832-bad-slime.json](./415832-bad-slime.json) |
 | Bad Smell | 62083 | [62083-bad-smell.json](./62083-bad-smell.json) |
 | Bad Soccer Manager | 197235 | [197235-bad-soccer-manager.json](./197235-bad-soccer-manager.json) |
 | Bad Stars | 130343 | [130343-bad-stars.json](./130343-bad-stars.json) |
@@ -1310,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldric's Quest | 52619 | [52619-baldrics-quest.json](./52619-baldrics-quest.json) |
 | Baldrsky: Core Defender | 202140 | [202140-baldrsky-core-defender.json](./202140-baldrsky-core-defender.json) |
 | Baldur's Gate | 376722 | [376722-baldurs-gate.json](./376722-baldurs-gate.json) |
+| Baldur's Gate 2 Complete | 415834 | [415834-baldurs-gate-2-complete.json](./415834-baldurs-gate-2-complete.json) |
 | Baldur's Gate 3: Deluxe Edition | 279660 | [279660-baldurs-gate-3-deluxe-edition.json](./279660-baldurs-gate-3-deluxe-edition.json) |
 | Baldur's Gate 3: Digital Deluxe Edition | 279884 | [279884-baldurs-gate-3-digital-deluxe-edition.json](./279884-baldurs-gate-3-digital-deluxe-edition.json) |
 | Baldur's Gate and Baldur's Gate II: Enhanced Editions | 124786 | [124786-baldurs-gate-and-baldurs-gate-ii-enhanced-editions.json](./124786-baldurs-gate-and-baldurs-gate-ii-enhanced-editions.json) |
@@ -6213,6 +6216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bermuda Adventures | 216414 | [216414-bermuda-adventures.json](./216414-bermuda-adventures.json) |
 | Bermuda Farm | 214304 | [214304-bermuda-farm.json](./214304-bermuda-farm.json) |
 | Bermuda Project | 11953 | [11953-bermuda-project.json](./11953-bermuda-project.json) |
+| Bermuda Rectangle | 415239 | [415239-bermuda-rectangle.json](./415239-bermuda-rectangle.json) |
 | Bermuda Syndrome | 8337 | [8337-bermuda-syndrome.json](./8337-bermuda-syndrome.json) |
 | Bermuda Triangle | 22557 | [22557-bermuda-triangle.json](./22557-bermuda-triangle.json) |
 | Bermuda Triangle: Saving the Coral | 67391 | [67391-bermuda-triangle-saving-the-coral.json](./67391-bermuda-triangle-saving-the-coral.json) |
@@ -10181,6 +10185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blofeld X | 269108 | [269108-blofeld-x.json](./269108-blofeld-x.json) |
 | bLogic Blox | 110767 | [110767-blogic-blox.json](./110767-blogic-blox.json) |
 | Blogick | 232324 | [232324-blogick.json](./232324-blogick.json) |
+| BLOK 200: Prologue | 415302 | [415302-blok-200-prologue.json](./415302-blok-200-prologue.json) |
 | Blok Copy | 63783 | [63783-blok-copy.json](./63783-blok-copy.json) |
 | Blok Drop Chaos | 77800 | [77800-blok-drop-chaos.json](./77800-blok-drop-chaos.json) |
 | Blok Drop Neo | 74132 | [74132-blok-drop-neo.json](./74132-blok-drop-neo.json) |
@@ -12286,6 +12291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookbound | 370103 | [370103-bookbound.json](./370103-bookbound.json) |
 | Bookbound Brigade | 121218 | [121218-bookbound-brigade.json](./121218-bookbound-brigade.json) |
 | BookClub! | 282419 | [282419-bookclub.json](./282419-bookclub.json) |
+| Booked | 416542 | [416542-booked.json](./416542-booked.json) |
 | Bookend | 115559 | [115559-bookend.json](./115559-bookend.json) |
 | Bookers: Underground Chapter | 104085 | [104085-bookers-underground-chapter.json](./104085-bookers-underground-chapter.json) |
 | Bookey Manor | 333915 | [333915-bookey-manor.json](./333915-bookey-manor.json) |
@@ -16012,6 +16018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build Scrap | 340548 | [340548-build-scrap.json](./340548-build-scrap.json) |
 | Build the Bridge | 286638 | [286638-build-the-bridge.json](./286638-build-the-bridge.json) |
 | Build the Great Temple: Dora Dora Land | 401912 | [401912-build-the-great-temple-dora-dora-land.json](./401912-build-the-great-temple-dora-dora-land.json) |
+| Build the Hole | 415336 | [415336-build-the-hole.json](./415336-build-the-hole.json) |
 | Build The Sun | 328584 | [328584-build-the-sun.json](./328584-build-the-sun.json) |
 | Build Up Road | 359372 | [359372-build-up-road.json](./359372-build-up-road.json) |
 | Build Up Roads | 359373 | [359373-build-up-roads.json](./359373-build-up-roads.json) |
@@ -16438,6 +16445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker 3D | 323655 | [323655-bunker-3d.json](./323655-bunker-3d.json) |
 | Bunker 56 | 128184 | [128184-bunker-56.json](./128184-bunker-56.json) |
 | Bunker 58 | 29638 | [29638-bunker-58.json](./29638-bunker-58.json) |
+| Bunker 73 | 415238 | [415238-bunker-73.json](./415238-bunker-73.json) |
 | Bunker Builder & Construction Simulator | 328562 | [328562-bunker-builder-and-construction-simulator.json](./328562-bunker-builder-and-construction-simulator.json) |
 | Bunker Builder Simulator | 217503 | [217503-bunker-builder-simulator.json](./217503-bunker-builder-simulator.json) |
 | Bunker Buster | 110203 | [110203-bunker-buster.json](./110203-bunker-buster.json) |
@@ -16724,6 +16732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn | 94391 | [94391-burn.json](./94391-burn.json) |
 | Burn Ban | 104776 | [104776-burn-ban.json](./104776-burn-ban.json) |
 | Burn Depth | 203891 | [203891-burn-depth.json](./203891-burn-depth.json) |
+| Burn Ghost Pinball | 415816 | [415816-burn-ghost-pinball.json](./415816-burn-ghost-pinball.json) |
 | Burn It All! | 92262 | [92262-burn-it-all.json](./92262-burn-it-all.json) |
 | Burn It Down | 47991 | [47991-burn-it-down.json](./47991-burn-it-down.json) |
 | Burn Me Alive | 165929 | [165929-burn-me-alive.json](./165929-burn-me-alive.json) |
