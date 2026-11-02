@@ -2482,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Horse Ranch II | 73250 | [73250-virtual-horse-ranch-ii.json](./73250-virtual-horse-ranch-ii.json) |
 | Virtual Hunter | 173207 | [173207-virtual-hunter.json](./173207-virtual-hunter.json) |
 | Virtual Hunting Experience | 200406 | [200406-virtual-hunting-experience.json](./200406-virtual-hunting-experience.json) |
+| Virtual Hydlide | 19738 | [19738-virtual-hydlide.json](./19738-virtual-hydlide.json) |
 | Virtual Insanity | 39779 | [39779-virtual-insanity.json](./39779-virtual-insanity.json) |
 | Virtual Interactive Fireplace | 338566 | [338566-virtual-interactive-fireplace.json](./338566-virtual-interactive-fireplace.json) |
 | Virtual Islands: Mini-Golf Challenge | 31528 | [31528-virtual-islands-mini-golf-challenge.json](./31528-virtual-islands-mini-golf-challenge.json) |
