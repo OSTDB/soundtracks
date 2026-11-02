@@ -2335,6 +2335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elex | 11567 | [11567-elex.json](./11567-elex.json) |
 | Elex II | 55147 | [55147-elex-ii.json](./55147-elex-ii.json) |
 | Elex II: Collector's Edition | 181638 | [181638-elex-ii-collectors-edition.json](./181638-elex-ii-collectors-edition.json) |
+| ELEX: Collector's Edition | 51995 | [51995-elex-collectors-edition.json](./51995-elex-collectors-edition.json) |
 | Elf | 12061 | [12061-elf.json](./12061-elf.json) |
 | Elf | 12580 | [12580-elf.json](./12580-elf.json) |
 | Elf Adventure | 282715 | [282715-elf-adventure.json](./282715-elf-adventure.json) |
@@ -4067,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eol-ui Moheom | 363981 | [363981-eol-ui-moheom.json](./363981-eol-ui-moheom.json) |
 | EOL: End Of Line | 303518 | [303518-eol-end-of-line.json](./303518-eol-end-of-line.json) |
 | Eolia | 204347 | [204347-eolia.json](./204347-eolia.json) |
+| Eon Altar | 19867 | [19867-eon-altar.json](./19867-eon-altar.json) |
 | Eon Altar: Episode 2 - Whispers in the Catacombs | 24875 | [24875-eon-altar-episode-2-whispers-in-the-catacombs.json](./24875-eon-altar-episode-2-whispers-in-the-catacombs.json) |
 | Eon Altar: Episode I - The Battle for Tarnum | 24874 | [24874-eon-altar-episode-i-the-battle-for-tarnum.json](./24874-eon-altar-episode-i-the-battle-for-tarnum.json) |
 | Eon Empires | 406576 | [406576-eon-empires.json](./406576-eon-empires.json) |
