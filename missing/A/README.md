@@ -10438,6 +10438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AntiShatter | 219693 | [219693-antishatter.json](./219693-antishatter.json) |
 | Antishoot | 283918 | [283918-antishoot.json](./283918-antishoot.json) |
 | Antisphere | 32876 | [32876-antisphere.json](./32876-antisphere.json) |
+| Antisquad | 9773 | [9773-antisquad.json](./9773-antisquad.json) |
 | AntiSquad Tactics | 38987 | [38987-antisquad-tactics.json](./38987-antisquad-tactics.json) |
 | Antistar 3D: Rising | 315676 | [315676-antistar-3d-rising.json](./315676-antistar-3d-rising.json) |
 | Antistar: Rising | 315680 | [315680-antistar-rising.json](./315680-antistar-rising.json) |
