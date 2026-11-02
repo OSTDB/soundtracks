@@ -2003,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 300 Heroes | 75139 | [75139-300-heroes.json](./75139-300-heroes.json) |
 | 300 Miles to Pigsland | 286646 | [286646-300-miles-to-pigsland.json](./286646-300-miles-to-pigsland.json) |
 | 300 Minutes of /vr/ | 274121 | [274121-300-minutes-of-vr.json](./274121-300-minutes-of-vr.json) |
+| 300 Seconds Before Darkness | 420333 | [420333-300-seconds-before-darkness.json](./420333-300-seconds-before-darkness.json) |
 | 300 Spartans | 351773 | [351773-300-spartans.json](./351773-300-spartans.json) |
 | 300: March to Glory | 23086 | [23086-300-march-to-glory.json](./23086-300-march-to-glory.json) |
 | 300: Seize Your Glory | 118756 | [118756-300-seize-your-glory.json](./118756-300-seize-your-glory.json) |
