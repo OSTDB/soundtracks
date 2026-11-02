@@ -6832,6 +6832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desk Dino | 387591 | [387591-desk-dino.json](./387591-desk-dino.json) |
 | Desk of Desires: VR Office Sex | 275755 | [275755-desk-of-desires-vr-office-sex.json](./275755-desk-of-desires-vr-office-sex.json) |
 | Desk Paws | 348883 | [348883-desk-paws.json](./348883-desk-paws.json) |
+| Desk Rumble | 425173 | [425173-desk-rumble.json](./425173-desk-rumble.json) |
 | Desk Space: Idle Spacefleet clicker | 404989 | [404989-desk-space-idle-spacefleet-clicker.json](./404989-desk-space-idle-spacefleet-clicker.json) |
 | Deskape | 371304 | [371304-deskape.json](./371304-deskape.json) |
 | Deskeroes | 348424 | [348424-deskeroes.json](./348424-deskeroes.json) |
@@ -16236,6 +16237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DTC | 357672 | [357672-dtc.json](./357672-dtc.json) |
 | DTET | 341123 | [341123-dtet.json](./341123-dtet.json) |
 | DTM Race Driver: Director's Cut | 73371 | [73371-dtm-race-driver-directors-cut.json](./73371-dtm-race-driver-directors-cut.json) |
+| DTT: Defend the Tree | 425179 | [425179-dtt-defend-the-tree.json](./425179-dtt-defend-the-tree.json) |
 | DTXMania | 123018 | [123018-dtxmania.json](./123018-dtxmania.json) |
 | DTXMania AL | 123015 | [123015-dtxmania-al.json](./123015-dtxmania-al.json) |
 | DTXMania GR | 123016 | [123016-dtxmania-gr.json](./123016-dtxmania-gr.json) |
