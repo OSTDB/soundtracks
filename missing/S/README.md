@@ -986,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally's Studio HD | 107861 | [107861-sallys-studio-hd.json](./107861-sallys-studio-hd.json) |
 | Sally2 | 125595 | [125595-sally2.json](./125595-sally2.json) |
 | Sally6 | 124723 | [124723-sally6.json](./124723-sally6.json) |
+| Salmon | 403309 | [403309-salmon.json](./403309-salmon.json) |
 | Salmon City | 388166 | [388166-salmon-city.json](./388166-salmon-city.json) |
 | Salmon Man | 274318 | [274318-salmon-man.json](./274318-salmon-man.json) |
 | Salmon Ninja | 31409 | [31409-salmon-ninja.json](./31409-salmon-ninja.json) |
@@ -4529,6 +4530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed of Agony | 173307 | [173307-seed-of-agony.json](./173307-seed-of-agony.json) |
 | Seed of Amaranth | 105225 | [105225-seed-of-amaranth.json](./105225-seed-of-amaranth.json) |
 | Seed of Dragon | 400959 | [400959-seed-of-dragon.json](./400959-seed-of-dragon.json) |
+| Seed of God | 403386 | [403386-seed-of-god.json](./403386-seed-of-god.json) |
 | Seed of Heroes | 317096 | [317096-seed-of-heroes.json](./317096-seed-of-heroes.json) |
 | Seed of Life | 117261 | [117261-seed-of-life.json](./117261-seed-of-life.json) |
 | Seed of Life | 225772 | [225772-seed-of-life.json](./225772-seed-of-life.json) |
@@ -11142,6 +11144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skald: Against the Black Priory - Deluxe Edition | 380152 | [380152-skald-against-the-black-priory-deluxe-edition.json](./380152-skald-against-the-black-priory-deluxe-edition.json) |
 | Skald: Against the Black Priory - Reinforcement Pack | 311994 | [311994-skald-against-the-black-priory-reinforcement-pack.json](./311994-skald-against-the-black-priory-reinforcement-pack.json) |
 | Skaldsong | 349517 | [349517-skaldsong.json](./349517-skaldsong.json) |
+| Skall | 403397 | [403397-skall.json](./403397-skall.json) |
 | Skaphander: Der Auftrag | 98972 | [98972-skaphander-der-auftrag.json](./98972-skaphander-der-auftrag.json) |
 | Skapheim | 415290 | [415290-skapheim.json](./415290-skapheim.json) |
 | Skapon Tanken-tai: The Enchanted Hunters | 66127 | [66127-skapon-tanken-tai-the-enchanted-hunters.json](./66127-skapon-tanken-tai-the-enchanted-hunters.json) |
@@ -14146,6 +14149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapshot Spirit Live! | 357669 | [357669-snapshot-spirit-live.json](./357669-snapshot-spirit-live.json) |
 | Snapshot VR | 137443 | [137443-snapshot-vr.json](./137443-snapshot-vr.json) |
 | Snapshots | 384076 | [384076-snapshots.json](./384076-snapshots.json) |
+| Snaptic | 403307 | [403307-snaptic.json](./403307-snaptic.json) |
 | Snapto | 352945 | [352945-snapto.json](./352945-snapto.json) |
 | Snare | 40938 | [40938-snare.json](./40938-snare.json) |
 | Snares of Ruin | 81750 | [81750-snares-of-ruin.json](./81750-snares-of-ruin.json) |
@@ -18456,7 +18460,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21361,13 +21364,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Complete Edition | 260052 | [260052-sport-and-fun-swimming-complete-edition.json](./260052-sport-and-fun-swimming-complete-edition.json) |
 | Sport & Fun: Swimming - Deluxe Edition | 241186 | [241186-sport-and-fun-swimming-deluxe-edition.json](./241186-sport-and-fun-swimming-deluxe-edition.json) |
 | Sport & Fun: Swimming - Director's Cut | 271834 | [271834-sport-and-fun-swimming-directors-cut.json](./271834-sport-and-fun-swimming-directors-cut.json) |
+| Sport & Fun: Swimming - Dragon | 403406 | [403406-sport-and-fun-swimming-dragon.json](./403406-sport-and-fun-swimming-dragon.json) |
 | Sport & Fun: Swimming - Extended Edition | 246887 | [246887-sport-and-fun-swimming-extended-edition.json](./246887-sport-and-fun-swimming-extended-edition.json) |
 | Sport & Fun: Swimming - GOTY Edition | 277908 | [277908-sport-and-fun-swimming-goty-edition.json](./277908-sport-and-fun-swimming-goty-edition.json) |
+| Sport & Fun: Swimming - Hamster | 403403 | [403403-sport-and-fun-swimming-hamster.json](./403403-sport-and-fun-swimming-hamster.json) |
 | Sport & Fun: Swimming - Happy Edition | 278645 | [278645-sport-and-fun-swimming-happy-edition.json](./278645-sport-and-fun-swimming-happy-edition.json) |
 | Sport & Fun: Swimming - Legendary Edition | 263536 | [263536-sport-and-fun-swimming-legendary-edition.json](./263536-sport-and-fun-swimming-legendary-edition.json) |
 | Sport & Fun: Swimming - Platinum Edition | 268547 | [268547-sport-and-fun-swimming-platinum-edition.json](./268547-sport-and-fun-swimming-platinum-edition.json) |
 | Sport & Fun: Swimming - Premium Edition | 255221 | [255221-sport-and-fun-swimming-premium-edition.json](./255221-sport-and-fun-swimming-premium-edition.json) |
 | Sport & Fun: Swimming - Superb Edition | 288281 | [288281-sport-and-fun-swimming-superb-edition.json](./288281-sport-and-fun-swimming-superb-edition.json) |
+| Sport & Fun: Swimming - Turtle | 403404 | [403404-sport-and-fun-swimming-turtle.json](./403404-sport-and-fun-swimming-turtle.json) |
 | Sport & Fun: Swimming - Ultimate Edition | 243370 | [243370-sport-and-fun-swimming-ultimate-edition.json](./243370-sport-and-fun-swimming-ultimate-edition.json) |
 | Sport & Fun: Swimming - Ultra Definitive | 304786 | [304786-sport-and-fun-swimming-ultra-definitive.json](./304786-sport-and-fun-swimming-ultra-definitive.json) |
 | Sport & Fun: Swimming - Ultra Deluxe | 288280 | [288280-sport-and-fun-swimming-ultra-deluxe.json](./288280-sport-and-fun-swimming-ultra-deluxe.json) |
@@ -32513,6 +32519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Master VR | 134938 | [134938-sushi-master-vr.json](./134938-sushi-master-vr.json) |
 | Sushi Monster | 327994 | [327994-sushi-monster.json](./327994-sushi-monster.json) |
 | Sushi Neko | 185429 | [185429-sushi-neko.json](./185429-sushi-neko.json) |
+| Sushi Nights | 403393 | [403393-sushi-nights.json](./403393-sushi-nights.json) |
 | Sushi on Wheels | 386292 | [386292-sushi-on-wheels.json](./386292-sushi-on-wheels.json) |
 | Sushi Ou | 308894 | [308894-sushi-ou.json](./308894-sushi-ou.json) |
 | Sushi Plus | 302236 | [302236-sushi-plus.json](./302236-sushi-plus.json) |
