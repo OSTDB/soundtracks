@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La-Mulana | 7895 | [7895-la-mulana.json](./7895-la-mulana.json) |
 | La-Mulana | 7936 | [7936-la-mulana.json](./7936-la-mulana.json) |
 | La-Mulana & La-Mulana 2 | 130905 | [130905-la-mulana-and-la-mulana-2.json](./130905-la-mulana-and-la-mulana-2.json) |
+| La-Mulana 2 | 7937 | [7937-la-mulana-2.json](./7937-la-mulana-2.json) |
 | La-Mulana 2: The Tower of Oannes | 188630 | [188630-la-mulana-2-the-tower-of-oannes.json](./188630-la-mulana-2-the-tower-of-oannes.json) |
 | La-Mulana EX | 22186 | [22186-la-mulana-ex.json](./22186-la-mulana-ex.json) |
 | LA: Streets of Sorcery | 361025 | [361025-la-streets-of-sorcery.json](./361025-la-streets-of-sorcery.json) |
@@ -6872,6 +6873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes: Cartoon Concerto | 84298 | [84298-looney-tunes-cartoon-concerto.json](./84298-looney-tunes-cartoon-concerto.json) |
 | Looney Tunes: Cartoon Conductor | 21364 | [21364-looney-tunes-cartoon-conductor.json](./21364-looney-tunes-cartoon-conductor.json) |
 | Looney Tunes: Dizzy Driving | 136999 | [136999-looney-tunes-dizzy-driving.json](./136999-looney-tunes-dizzy-driving.json) |
+| Looney Tunes: Duck Amuck | 8134 | [8134-looney-tunes-duck-amuck.json](./8134-looney-tunes-duck-amuck.json) |
 | Looney Tunes: Road Rally Riot | 217947 | [217947-looney-tunes-road-rally-riot.json](./217947-looney-tunes-road-rally-riot.json) |
 | Looney Tunes: Road Runner & Wile E. Coyote | 281879 | [281879-looney-tunes-road-runner-and-wile-e-coyote.json](./281879-looney-tunes-road-runner-and-wile-e-coyote.json) |
 | Looney Tunes: Space Race | 8136 | [8136-looney-tunes-space-race.json](./8136-looney-tunes-space-race.json) |
@@ -7738,6 +7740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Qubixle | 175257 | [175257-lost-qubixle.json](./175257-lost-qubixle.json) |
 | Lost Railway | 397805 | [397805-lost-railway.json](./397805-lost-railway.json) |
 | Lost Realms | 335388 | [335388-lost-realms.json](./335388-lost-realms.json) |
+| Lost Reavers | 8595 | [8595-lost-reavers.json](./8595-lost-reavers.json) |
 | Lost Recipes | 194717 | [194717-lost-recipes.json](./194717-lost-recipes.json) |
 | Lost Records: Bloom & Rage - Tape 1 | 314260 | [314260-lost-records-bloom-and-rage-tape-1.json](./314260-lost-records-bloom-and-rage-tape-1.json) |
 | Lost Records: Bloom & Rage - Tape 2 | 314261 | [314261-lost-records-bloom-and-rage-tape-2.json](./314261-lost-records-bloom-and-rage-tape-2.json) |
@@ -8957,6 +8960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LumberReborn | 217822 | [217822-lumberreborn.json](./217822-lumberreborn.json) |
 | Lumboo | 397093 | [397093-lumboo.json](./397093-lumboo.json) |
 | Lume | 302056 | [302056-lume.json](./302056-lume.json) |
+| Lume | 9211 | [9211-lume.json](./9211-lume.json) |
 | Lume and the Shifting Void | 122952 | [122952-lume-and-the-shifting-void.json](./122952-lume-and-the-shifting-void.json) |
 | Lumeera and the Glow Reefs | 406803 | [406803-lumeera-and-the-glow-reefs.json](./406803-lumeera-and-the-glow-reefs.json) |
 | Lumen | 164330 | [164330-lumen.json](./164330-lumen.json) |
