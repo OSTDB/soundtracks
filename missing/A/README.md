@@ -3297,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Creator | 94691 | [94691-adventure-creator.json](./94691-adventure-creator.json) |
 | Adventure D: Espionage Island | 45370 | [45370-adventure-d-espionage-island.json](./45370-adventure-d-espionage-island.json) |
 | Adventure Delivery Service | 104055 | [104055-adventure-delivery-service.json](./104055-adventure-delivery-service.json) |
+| Adventure Diary | 405273 | [405273-adventure-diary.json](./405273-adventure-diary.json) |
 | Adventure Elf | 72132 | [72132-adventure-elf.json](./72132-adventure-elf.json) |
 | Adventure Escape Jetpack | 235225 | [235225-adventure-escape-jetpack.json](./235225-adventure-escape-jetpack.json) |
 | Adventure Escape Mysteries | 124620 | [124620-adventure-escape-mysteries.json](./124620-adventure-escape-mysteries.json) |
@@ -6891,7 +6892,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All One | 41370 | [41370-all-one.json](./41370-all-one.json) |
 | All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
 | All or Nothing | 152482 | [152482-all-or-nothing.json](./152482-all-or-nothing.json) |
-| All Our Asias | 68216 | [68216-all-our-asias.json](./68216-all-our-asias.json) |
 | All Our Broken Parts | 366025 | [366025-all-our-broken-parts.json](./366025-all-our-broken-parts.json) |
 | All Over | 132234 | [132234-all-over.json](./132234-all-over.json) |
 | All Pigs Deserve to Burn in Hell | 58034 | [58034-all-pigs-deserve-to-burn-in-hell.json](./58034-all-pigs-deserve-to-burn-in-hell.json) |
@@ -8703,6 +8703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Keys DX | 321448 | [321448-ancient-keys-dx.json](./321448-ancient-keys-dx.json) |
 | Ancient Kingdoms | 244176 | [244176-ancient-kingdoms.json](./244176-ancient-kingdoms.json) |
 | Ancient lands: the Tsar awakening | 112705 | [112705-ancient-lands-the-tsar-awakening.json](./112705-ancient-lands-the-tsar-awakening.json) |
+| Ancient Legacy | 405301 | [405301-ancient-legacy.json](./405301-ancient-legacy.json) |
 | Ancient Legacy 2: The Curse | 107069 | [107069-ancient-legacy-2-the-curse.json](./107069-ancient-legacy-2-the-curse.json) |
 | Ancient Life | 153154 | [153154-ancient-life.json](./153154-ancient-life.json) |
 | Ancient Magic: Bazuu! Mahou Sekai | 15892 | [15892-ancient-magic-bazuu-mahou-sekai.json](./15892-ancient-magic-bazuu-mahou-sekai.json) |
