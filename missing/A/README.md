@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Plant | 379506 | [379506-a-game-about-plant.json](./379506-a-game-about-plant.json) |
 | A Game About Selling Used Games | 379505 | [379505-a-game-about-selling-used-games.json](./379505-a-game-about-selling-used-games.json) |
 | A Game About Shooting Bullets At Bullets | 383674 | [383674-a-game-about-shooting-bullets-at-bullets.json](./383674-a-game-about-shooting-bullets-at-bullets.json) |
+| A Game About Sucking (Up Ghosts With a Vacuum) | 402671 | [402671-a-game-about-sucking-up-ghosts-with-a-vacuum.json](./402671-a-game-about-sucking-up-ghosts-with-a-vacuum.json) |
 | A Game About You | 379504 | [379504-a-game-about-you.json](./379504-a-game-about-you.json) |
 | A Game Called Paako: The Game Called Paako | 293526 | [293526-a-game-called-paako-the-game-called-paako.json](./293526-a-game-called-paako-the-game-called-paako.json) |
 | A Game of Changes | 32728 | [32728-a-game-of-changes.json](./32728-a-game-of-changes.json) |
@@ -4728,6 +4729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AHTS Ship Simulator | 44207 | [44207-ahts-ship-simulator.json](./44207-ahts-ship-simulator.json) |
 | Ai & the Demon & the Curse of Lust | 372758 | [372758-ai-and-the-demon-and-the-curse-of-lust.json](./372758-ai-and-the-demon-and-the-curse-of-lust.json) |
 | AI Alpha Cat | 129524 | [129524-ai-alpha-cat.json](./129524-ai-alpha-cat.json) |
+| AI Apocalypse | 402749 | [402749-ai-apocalypse.json](./402749-ai-apocalypse.json) |
 | AI Asylum | 329034 | [329034-ai-asylum.json](./329034-ai-asylum.json) |
 | AI Battle Royale Generator | 148364 | [148364-ai-battle-royale-generator.json](./148364-ai-battle-royale-generator.json) |
 | Ai Chou Aniki | 6475 | [6475-ai-chou-aniki.json](./6475-ai-chou-aniki.json) |
