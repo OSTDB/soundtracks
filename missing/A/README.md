@@ -2210,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Spin Master | 67624 | [67624-aca-neo-geo-spin-master.json](./67624-aca-neo-geo-spin-master.json) |
 | ACA Neo Geo: Stakes Winner | 99167 | [99167-aca-neo-geo-stakes-winner.json](./99167-aca-neo-geo-stakes-winner.json) |
 | ACA Neo Geo: Stakes Winner 2 | 118216 | [118216-aca-neo-geo-stakes-winner-2.json](./118216-aca-neo-geo-stakes-winner-2.json) |
+| ACA Neo Geo: Street Hoop | 75676 | [75676-aca-neo-geo-street-hoop.json](./75676-aca-neo-geo-street-hoop.json) |
 | ACA Neo Geo: Super Baseball 2020 | 85561 | [85561-aca-neo-geo-super-baseball-2020.json](./85561-aca-neo-geo-super-baseball-2020.json) |
 | ACA Neo Geo: Super Sidekicks | 99493 | [99493-aca-neo-geo-super-sidekicks.json](./99493-aca-neo-geo-super-sidekicks.json) |
 | ACA Neo Geo: Super Sidekicks 2 | 103850 | [103850-aca-neo-geo-super-sidekicks-2.json](./103850-aca-neo-geo-super-sidekicks-2.json) |
@@ -2555,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Idler Black | 95124 | [95124-achievement-idler-black.json](./95124-achievement-idler-black.json) |
 | Achievement Idler: Red | 97229 | [97229-achievement-idler-red.json](./97229-achievement-idler-red.json) |
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
+| Achievement Lurker: Dad Jokes | 75802 | [75802-achievement-lurker-dad-jokes.json](./75802-achievement-lurker-dad-jokes.json) |
 | Achievement Lurker: Easiest Cosmetic Numbers | 90120 | [90120-achievement-lurker-easiest-cosmetic-numbers.json](./90120-achievement-lurker-easiest-cosmetic-numbers.json) |
 | Achievement Lurker: Respectable Accomplishment | 74625 | [74625-achievement-lurker-respectable-accomplishment.json](./74625-achievement-lurker-respectable-accomplishment.json) |
 | Achievement Lurker: We Give Up! | 81624 | [81624-achievement-lurker-we-give-up.json](./81624-achievement-lurker-we-give-up.json) |
@@ -5998,6 +6000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex's Sketchbook World | 359618 | [359618-alexs-sketchbook-world.json](./359618-alexs-sketchbook-world.json) |
 | Alex's Tunnel | 369372 | [369372-alexs-tunnel.json](./369372-alexs-tunnel.json) |
 | Alexa, Destroy Me | 398487 | [398487-alexa-destroy-me.json](./398487-alexa-destroy-me.json) |
+| Alexa's Wild Night | 75718 | [75718-alexas-wild-night.json](./75718-alexas-wild-night.json) |
 | Alexander | 376852 | [376852-alexander.json](./376852-alexander.json) |
 | Alexander | 398509 | [398509-alexander.json](./398509-alexander.json) |
 | Alexander | 9359 | [9359-alexander.json](./9359-alexander.json) |
@@ -7232,6 +7235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Locus VR | 75633 | [75633-alpha-locus-vr.json](./75633-alpha-locus-vr.json) |
 | Alpha Lyrae Discovery | 120958 | [120958-alpha-lyrae-discovery.json](./120958-alpha-lyrae-discovery.json) |
 | Alpha Man | 100221 | [100221-alpha-man.json](./100221-alpha-man.json) |
+| Alpha Mike Foxtrot | 59253 | [59253-alpha-mike-foxtrot.json](./59253-alpha-mike-foxtrot.json) |
 | Alpha Mission | 273028 | [273028-alpha-mission.json](./273028-alpha-mission.json) |
 | Alpha Mission | 8911 | [8911-alpha-mission.json](./8911-alpha-mission.json) |
 | Alpha Mission II | 13681 | [13681-alpha-mission-ii.json](./13681-alpha-mission-ii.json) |
@@ -10963,6 +10967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appare-den: Fukuryuu no Shou | 243782 | [243782-appare-den-fukuryuu-no-shou.json](./243782-appare-den-fukuryuu-no-shou.json) |
 | Appare! Shogi Jiisan | 269650 | [269650-appare-shogi-jiisan.json](./269650-appare-shogi-jiisan.json) |
 | Apparition | 151958 | [151958-apparition.json](./151958-apparition.json) |
+| Apparition | 75926 | [75926-apparition.json](./75926-apparition.json) |
 | Apparition: Player vs. Players | 376821 | [376821-apparition-player-vs-players.json](./376821-apparition-player-vs-players.json) |
 | Apparitions | 202537 | [202537-apparitions.json](./202537-apparitions.json) |
 | Appearances | 244774 | [244774-appearances.json](./244774-appearances.json) |
