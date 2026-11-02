@@ -1195,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18 Dreamers | 214285 | [214285-18-dreamers.json](./214285-18-dreamers.json) |
 | 18 Floors | 411268 | [411268-18-floors.json](./411268-18-floors.json) |
 | 18 Holes Pro Golf | 313989 | [313989-18-holes-pro-golf.json](./313989-18-holes-pro-golf.json) |
+| 18 Levels of Hells | 409093 | [409093-18-levels-of-hells.json](./409093-18-levels-of-hells.json) |
 | 18 Rooms to Home | 58700 | [58700-18-rooms-to-home.json](./58700-18-rooms-to-home.json) |
 | 18 Wheeler: American Pro Trucker | 3706 | [3706-18-wheeler-american-pro-trucker.json](./3706-18-wheeler-american-pro-trucker.json) |
 | 18 Wheels of Steel: Across America | 26814 | [26814-18-wheels-of-steel-across-america.json](./26814-18-wheels-of-steel-across-america.json) |
@@ -1798,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2Deez | 349772 | [349772-2deez.json](./349772-2deez.json) |
 | 2DGameManias Taken | 109652 | [109652-2dgamemanias-taken.json](./109652-2dgamemanias-taken.json) |
 | 2do Arukotoha Sand-R | 45451 | [45451-2do-arukotoha-sand-r.json](./45451-2do-arukotoha-sand-r.json) |
+| 2Dom! | 407054 | [407054-2dom.json](./407054-2dom.json) |
 | 2econds to Starlivht: Forever My Diamond | 144193 | [144193-2econds-to-starlivht-forever-my-diamond.json](./144193-2econds-to-starlivht-forever-my-diamond.json) |
 | 2econds to Starlivht: My Heart's Reflection | 144194 | [144194-2econds-to-starlivht-my-hearts-reflection.json](./144194-2econds-to-starlivht-my-hearts-reflection.json) |
 | 2in1 | 424688 | [424688-2in1.json](./424688-2in1.json) |
@@ -2533,7 +2535,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 404 Shinigami | 176753 | [176753-404-shinigami.json](./176753-404-shinigami.json) |
 | 404: Game Not Found | 379456 | [379456-404-game-not-found.json](./379456-404-game-not-found.json) |
 | 404: The Absent God | 416093 | [416093-404-the-absent-god.json](./416093-404-the-absent-god.json) |
-| 404Sight | 19389 | [19389-404sight.json](./19389-404sight.json) |
 | 4089: Ghost Within | 11433 | [11433-4089-ghost-within.json](./11433-4089-ghost-within.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
 | 4096 Space Traders Era | 414799 | [414799-4096-space-traders-era.json](./414799-4096-space-traders-era.json) |
@@ -2598,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4RC4N01D! 4: KOHBEEP edition | 334262 | [334262-4rc4n01d-4-kohbeep-edition.json](./334262-4rc4n01d-4-kohbeep-edition.json) |
 | 4Sight | 105038 | [105038-4sight.json](./105038-4sight.json) |
 | 4Spaces | 259550 | [259550-4spaces.json](./259550-4spaces.json) |
+| 4Spicchi | 410592 | [410592-4spicchi.json](./410592-4spicchi.json) |
 | 4Story Online | 27734 | [27734-4story-online.json](./27734-4story-online.json) |
 | 4Story: Archer Armor Package | 377378 | [377378-4story-archer-armor-package.json](./377378-4story-archer-armor-package.json) |
 | 4Story: Assassin Armor Package | 377379 | [377379-4story-assassin-armor-package.json](./377379-4story-assassin-armor-package.json) |
@@ -2876,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 67 | 372820 | [372820-67.json](./372820-67.json) |
 | 67 | 388231 | [388231-67.json](./388231-67.json) |
 | 67 Game Online | 395009 | [395009-67-game-online.json](./395009-67-game-online.json) |
+| 67 Simulator | 407063 | [407063-67-simulator.json](./407063-67-simulator.json) |
 | 688 Attack Sub | 5338 | [5338-688-attack-sub.json](./5338-688-attack-sub.json) |
 | 688(I) Hunter/Killer | 585 | [585-688-i-hunter-killer.json](./585-688-i-hunter-killer.json) |
 | 69 | 334791 | [334791-69.json](./334791-69.json) |
@@ -2950,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Second Haircuts | 152274 | [152274-7-second-haircuts.json](./152274-7-second-haircuts.json) |
 | 7 Servant's Blade | 372679 | [372679-7-servants-blade.json](./372679-7-servants-blade.json) |
 | 7 Sexy Sins | 127921 | [127921-7-sexy-sins.json](./127921-7-sexy-sins.json) |
+| 7 Shifts in Subway | 409591 | [409591-7-shifts-in-subway.json](./409591-7-shifts-in-subway.json) |
 | 7 Sins | 19805 | [19805-7-sins.json](./19805-7-sins.json) |
 | 7 Sins: Lost in Labyrinth | 236243 | [236243-7-sins-lost-in-labyrinth.json](./236243-7-sins-lost-in-labyrinth.json) |
 | 7 Soccer: a sci-fi soccer tale | 88178 | [88178-7-soccer-a-sci-fi-soccer-tale.json](./88178-7-soccer-a-sci-fi-soccer-tale.json) |
