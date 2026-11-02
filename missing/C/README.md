@@ -8735,6 +8735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Patrol: Police | 97925 | [97925-city-patrol-police.json](./97925-city-patrol-police.json) |
 | City Pipes | 186574 | [186574-city-pipes.json](./186574-city-pipes.json) |
 | City Pixel Transporters | 409403 | [409403-city-pixel-transporters.json](./409403-city-pixel-transporters.json) |
+| City Play | 33995 | [33995-city-play.json](./33995-city-play.json) |
 | City Police Helicopter Flight Simulator | 100995 | [100995-city-police-helicopter-flight-simulator.json](./100995-city-police-helicopter-flight-simulator.json) |
 | City Quest | 17565 | [17565-city-quest.json](./17565-city-quest.json) |
 | City Racer | 92242 | [92242-city-racer.json](./92242-city-racer.json) |
@@ -14042,6 +14043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Lander | 185374 | [185374-cosmic-lander.json](./185374-cosmic-lander.json) |
 | Cosmic League | 57108 | [57108-cosmic-league.json](./57108-cosmic-league.json) |
 | Cosmic League | 57134 | [57134-cosmic-league.json](./57134-cosmic-league.json) |
+| Cosmic Leap | 34016 | [34016-cosmic-leap.json](./34016-cosmic-leap.json) |
 | Cosmic Magus | 149811 | [149811-cosmic-magus.json](./149811-cosmic-magus.json) |
 | Cosmic Maid Café | 381305 | [381305-cosmic-maid-cafe.json](./381305-cosmic-maid-cafe.json) |
 | Cosmic Mart | 409021 | [409021-cosmic-mart.json](./409021-cosmic-mart.json) |
@@ -16066,6 +16068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket 97: Ashes Tour Edition | 69163 | [69163-cricket-97-ashes-tour-edition.json](./69163-cricket-97-ashes-tour-edition.json) |
 | Cricket Captain | 13532 | [13532-cricket-captain.json](./13532-cricket-captain.json) |
 | Cricket Captain | 95430 | [95430-cricket-captain.json](./95430-cricket-captain.json) |
+| Cricket Captain 2015 | 33968 | [33968-cricket-captain-2015.json](./33968-cricket-captain-2015.json) |
 | Cricket Captain 2018 | 103401 | [103401-cricket-captain-2018.json](./103401-cricket-captain-2018.json) |
 | Cricket Captain 2019 | 118777 | [118777-cricket-captain-2019.json](./118777-cricket-captain-2019.json) |
 | Cricket Captain 2020 | 137914 | [137914-cricket-captain-2020.json](./137914-cricket-captain-2020.json) |
