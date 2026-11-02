@@ -4641,6 +4641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DecaDungeons | 393043 | [393043-decadungeons.json](./393043-decadungeons.json) |
 | DeCalc | 62972 | [62972-decalc.json](./62972-decalc.json) |
 | Decamped | 157028 | [157028-decamped.json](./157028-decamped.json) |
+| Decanted Sea | 400721 | [400721-decanted-sea.json](./400721-decanted-sea.json) |
 | Decanumber | 261321 | [261321-decanumber.json](./261321-decanumber.json) |
 | Décapita | 356056 | [356056-decapita.json](./356056-decapita.json) |
 | DecaPolice | 236661 | [236661-decapolice.json](./236661-decapolice.json) |
@@ -10448,6 +10449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinia Chronicles: Relics of Gan-Ti | 17437 | [17437-divinia-chronicles-relics-of-gan-ti.json](./17437-divinia-chronicles-relics-of-gan-ti.json) |
 | Divinity | 223256 | [223256-divinity.json](./223256-divinity.json) |
 | Divinity | 381216 | [381216-divinity.json](./381216-divinity.json) |
+| Divinity | 401196 | [401196-divinity.json](./401196-divinity.json) |
 | Divinity Arrival | 254569 | [254569-divinity-arrival.json](./254569-divinity-arrival.json) |
 | Divinity Chronicles: Journey to the West | 140623 | [140623-divinity-chronicles-journey-to-the-west.json](./140623-divinity-chronicles-journey-to-the-west.json) |
 | Divinity Fatum | 227769 | [227769-divinity-fatum.json](./227769-divinity-fatum.json) |
