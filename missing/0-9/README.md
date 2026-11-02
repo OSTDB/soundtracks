@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | @Card SD Gundam Gaiden | 130888 | [130888-card-sd-gundam-gaiden.json](./130888-card-sd-gundam-gaiden.json) |
 | @Field | 8615 | [8615-field.json](./8615-field.json) |
 | @Simple V Series Vol.1 - The Docodemo Gal Mahjong | 141475 | [141475-simple-v-series-vol-1-the-docodemo-gal-mahjong.json](./141475-simple-v-series-vol-1-the-docodemo-gal-mahjong.json) |
+| *** | 419797 | [419797-.json](./419797-.json) |
 | *Hello, Planet. | 142744 | [142744-hello-planet.json](./142744-hello-planet.json) |
 | *N Sync: Get to the Show | 94742 | [94742-n-sync-get-to-the-show.json](./94742-n-sync-get-to-the-show.json) |
 | // Down to Earth // | 135081 | [135081-down-to-earth.json](./135081-down-to-earth.json) |
@@ -621,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 New Year Cats: Extra Content | 325506 | [325506-100-new-year-cats-extra-content.json](./325506-100-new-year-cats-extra-content.json) |
 | 100 Ninja Cats | 283034 | [283034-100-ninja-cats.json](./283034-100-ninja-cats.json) |
 | 100 Ninja Cats: Extra Content | 288732 | [288732-100-ninja-cats-extra-content.json](./288732-100-ninja-cats-extra-content.json) |
+| 100 Panda Cats | 417750 | [417750-100-panda-cats.json](./417750-100-panda-cats.json) |
 | 100 Paris Cats | 283035 | [283035-100-paris-cats.json](./283035-100-paris-cats.json) |
 | 100 Percent Star | 45233 | [45233-100-percent-star.json](./45233-100-percent-star.json) |
 | 100 Pics Quiz | 70890 | [70890-100-pics-quiz.json](./70890-100-pics-quiz.json) |
@@ -2001,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 300 Arcade Games | 98887 | [98887-300-arcade-games.json](./98887-300-arcade-games.json) |
 | 300 Dwarves | 52354 | [52354-300-dwarves.json](./52354-300-dwarves.json) |
 | 300 Heroes | 75139 | [75139-300-heroes.json](./75139-300-heroes.json) |
+| 300 Miles to Her: Every Hitcher Lies | 415338 | [415338-300-miles-to-her-every-hitcher-lies.json](./415338-300-miles-to-her-every-hitcher-lies.json) |
 | 300 Miles to Pigsland | 286646 | [286646-300-miles-to-pigsland.json](./286646-300-miles-to-pigsland.json) |
 | 300 Minutes of /vr/ | 274121 | [274121-300-minutes-of-vr.json](./274121-300-minutes-of-vr.json) |
 | 300 Seconds Before Darkness | 420333 | [420333-300-seconds-before-darkness.json](./420333-300-seconds-before-darkness.json) |
@@ -2380,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3on3 FreeStyle: P6 Selection Rookie Pack | 377368 | [377368-3on3-freestyle-p6-selection-rookie-pack.json](./377368-3on3-freestyle-p6-selection-rookie-pack.json) |
 | 3on3 FreeStyle: Rebound | 135748 | [135748-3on3-freestyle-rebound.json](./135748-3on3-freestyle-rebound.json) |
 | 3on3 FreeStyle: Ultimate Edition | 249818 | [249818-3on3-freestyle-ultimate-edition.json](./249818-3on3-freestyle-ultimate-edition.json) |
+| 3place | 415727 | [415727-3place.json](./415727-3place.json) |
 | 3rd Degree | 45948 | [45948-3rd-degree.json](./45948-3rd-degree.json) |
 | 3rd Eye | 107236 | [107236-3rd-eye.json](./107236-3rd-eye.json) |
 | 3rd Invasion: Zombies vs. Steel | 114555 | [114555-3rd-invasion-zombies-vs-steel.json](./114555-3rd-invasion-zombies-vs-steel.json) |
@@ -3194,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 in 1 Puzzles | 212336 | [212336-9-in-1-puzzles.json](./212336-9-in-1-puzzles.json) |
 | 9 in 1 Sports Games Mega Collection | 347307 | [347307-9-in-1-sports-games-mega-collection.json](./347307-9-in-1-sports-games-mega-collection.json) |
 | 9 Kings | 288741 | [288741-9-kings.json](./288741-9-kings.json) |
+| 9 Layers of Hell | 419745 | [419745-9-layers-of-hell.json](./419745-9-layers-of-hell.json) |
 | 9 Lives | 11879 | [11879-9-lives.json](./11879-9-lives.json) |
 | 9 Lives | 251003 | [251003-9-lives.json](./251003-9-lives.json) |
 | 9 Lives 9 Millimeters | 377410 | [377410-9-lives-9-millimeters.json](./377410-9-lives-9-millimeters.json) |
