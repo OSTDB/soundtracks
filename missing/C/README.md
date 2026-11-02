@@ -5254,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalvo 55: Super Puzzle Action | 7821 | [7821-chalvo-55-super-puzzle-action.json](./7821-chalvo-55-super-puzzle-action.json) |
 | Chambara | 21933 | [21933-chambara.json](./21933-chambara.json) |
 | Chamber | 182693 | [182693-chamber.json](./182693-chamber.json) |
+| Chamber 19 | 32543 | [32543-chamber-19.json](./32543-chamber-19.json) |
 | Chamber no. 5 | 367380 | [367380-chamber-no-5.json](./367380-chamber-no-5.json) |
 | Chamber of Darkness | 96853 | [96853-chamber-of-darkness.json](./96853-chamber-of-darkness.json) |
 | Chamber of Hex | 257381 | [257381-chamber-of-hex.json](./257381-chamber-of-hex.json) |
@@ -8054,6 +8055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunks | 19838 | [19838-chunks.json](./19838-chunks.json) |
 | Chunks | 401290 | [401290-chunks.json](./401290-chunks.json) |
 | Chunky Jump! | 347853 | [347853-chunky-jump.json](./347853-chunky-jump.json) |
+| Chunky Orbits | 31172 | [31172-chunky-orbits.json](./31172-chunky-orbits.json) |
 | Chunky Tomato | 271644 | [271644-chunky-tomato.json](./271644-chunky-tomato.json) |
 | Chuno | 295141 | [295141-chuno.json](./295141-chuno.json) |
 | Chup's Quest | 243946 | [243946-chups-quest.json](./243946-chups-quest.json) |
@@ -15729,6 +15731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Stars: Sport Climbing | 312081 | [312081-crazy-stars-sport-climbing.json](./312081-crazy-stars-sport-climbing.json) |
 | Crazy Steam Bros 2 | 35640 | [35640-crazy-steam-bros-2.json](./35640-crazy-steam-bros-2.json) |
 | Crazy Stone Deep Learning | 208915 | [208915-crazy-stone-deep-learning.json](./208915-crazy-stone-deep-learning.json) |
+| Crazy Stone Deep Learning -The First Edition- | 32534 | [32534-crazy-stone-deep-learning-the-first-edition.json](./32534-crazy-stone-deep-learning-the-first-edition.json) |
 | Crazy Street Traffic Race | 105520 | [105520-crazy-street-traffic-race.json](./105520-crazy-street-traffic-race.json) |
 | Crazy Streets - Thrill Drive 4 | 65912 | [65912-crazy-streets-thrill-drive-4.json](./65912-crazy-streets-thrill-drive-4.json) |
 | Crazy Strike Bowling | 64700 | [64700-crazy-strike-bowling.json](./64700-crazy-strike-bowling.json) |
