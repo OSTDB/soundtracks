@@ -8888,6 +8888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek Extra Large | 3675 | [3675-shrek-extra-large.json](./3675-shrek-extra-large.json) |
 | Shrek Forever After | 210458 | [210458-shrek-forever-after.json](./210458-shrek-forever-after.json) |
 | Shrek Forever After | 243271 | [243271-shrek-forever-after.json](./243271-shrek-forever-after.json) |
+| Shrek Forever After | 3670 | [3670-shrek-forever-after.json](./3670-shrek-forever-after.json) |
 | Shrek Game Land Activity Center | 9208 | [9208-shrek-game-land-activity-center.json](./9208-shrek-game-land-activity-center.json) |
 | Shrek Jumble Rumble | 364541 | [364541-shrek-jumble-rumble.json](./364541-shrek-jumble-rumble.json) |
 | Shrek Kart | 395759 | [395759-shrek-kart.json](./395759-shrek-kart.json) |
@@ -8899,6 +8900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek Smash n' Crash Racing | 248508 | [248508-shrek-smash-n-crash-racing.json](./248508-shrek-smash-n-crash-racing.json) |
 | Shrek Smash n' Crash Racing | 3671 | [3671-shrek-smash-n-crash-racing.json](./3671-shrek-smash-n-crash-racing.json) |
 | Shrek Sugar Fever | 97357 | [97357-shrek-sugar-fever.json](./97357-shrek-sugar-fever.json) |
+| Shrek Super Party | 3673 | [3673-shrek-super-party.json](./3673-shrek-super-party.json) |
 | Shrek Super Slam | 2628 | [2628-shrek-super-slam.json](./2628-shrek-super-slam.json) |
 | Shrek SuperSlam | 10628 | [10628-shrek-superslam.json](./10628-shrek-superslam.json) |
 | Shrek SuperSlam | 141642 | [141642-shrek-superslam.json](./141642-shrek-superslam.json) |
