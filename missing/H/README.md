@@ -5511,6 +5511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero x Hero | 406780 | [406780-hero-x-hero.json](./406780-hero-x-hero.json) |
 | Hero Youseijyo | 208275 | [208275-hero-youseijyo.json](./208275-hero-youseijyo.json) |
 | Hero Z TPS | 223325 | [223325-hero-z-tps.json](./223325-hero-z-tps.json) |
+| Hero Zero | 32496 | [32496-hero-zero.json](./32496-hero-zero.json) |
 | Hero Zex | 191254 | [191254-hero-zex.json](./191254-hero-zex.json) |
 | Hero-ing Addict | 135043 | [135043-hero-ing-addict.json](./135043-hero-ing-addict.json) |
 | Hero-U: Rogue to Redemption | 64359 | [64359-hero-u-rogue-to-redemption.json](./64359-hero-u-rogue-to-redemption.json) |
@@ -10471,6 +10472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Survive: Kovac's Way | 164516 | [164516-how-to-survive-kovacs-way.json](./164516-how-to-survive-kovacs-way.json) |
 | How to Survive: Storm Warning Edition | 20311 | [20311-how-to-survive-storm-warning-edition.json](./20311-how-to-survive-storm-warning-edition.json) |
 | How to Survive: Third Person Standalone | 13211 | [13211-how-to-survive-third-person-standalone.json](./13211-how-to-survive-third-person-standalone.json) |
+| How to Take Off Your Mask | 35394 | [35394-how-to-take-off-your-mask.json](./35394-how-to-take-off-your-mask.json) |
 | How to Take Off Your Mask: Remastered | 143151 | [143151-how-to-take-off-your-mask-remastered.json](./143151-how-to-take-off-your-mask-remastered.json) |
 | How to Tame a Succubus | 252681 | [252681-how-to-tame-a-succubus.json](./252681-how-to-tame-a-succubus.json) |
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
