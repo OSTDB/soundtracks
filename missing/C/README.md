@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafeworld | 177027 | [177027-cafeworld.json](./177027-cafeworld.json) |
 | Caff Roulette | 201978 | [201978-caff-roulette.json](./201978-caff-roulette.json) |
 | Caffeine | 17854 | [17854-caffeine.json](./17854-caffeine.json) |
+| Caffeine: Victoria's Legacy | 107920 | [107920-caffeine-victorias-legacy.json](./107920-caffeine-victorias-legacy.json) |
 | Cafon Street | 235126 | [235126-cafon-street.json](./235126-cafon-street.json) |
 | Cage | 30653 | [30653-cage.json](./30653-cage.json) |
 | Cage Fight | 257406 | [257406-cage-fight.json](./257406-cage-fight.json) |
@@ -13321,6 +13322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Game - Valentines Day Menu | 96577 | [96577-cooking-game-valentines-day-menu.json](./96577-cooking-game-valentines-day-menu.json) |
 | Cooking Joy - Fun Cooking Game | 103872 | [103872-cooking-joy-fun-cooking-game.json](./103872-cooking-joy-fun-cooking-game.json) |
 | Cooking Live | 226690 | [226690-cooking-live.json](./226690-cooking-live.json) |
+| Cooking Madness | 101513 | [101513-cooking-madness.json](./101513-cooking-madness.json) |
 | Cooking Mama | 3060 | [3060-cooking-mama.json](./3060-cooking-mama.json) |
 | Cooking Mama 2: Dinner With Friends | 3062 | [3062-cooking-mama-2-dinner-with-friends.json](./3062-cooking-mama-2-dinner-with-friends.json) |
 | Cooking Mama 3: Shop & Chop | 3065 | [3065-cooking-mama-3-shop-and-chop.json](./3065-cooking-mama-3-shop-and-chop.json) |
