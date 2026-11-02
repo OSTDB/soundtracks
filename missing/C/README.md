@@ -12190,6 +12190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 2: German Commander - Lightning War Doctrine | 168086 | [168086-company-of-heroes-2-german-commander-lightning-war-doctrine.json](./168086-company-of-heroes-2-german-commander-lightning-war-doctrine.json) |
 | Company of Heroes 2: German Commander - Spearhead Doctrine | 168294 | [168294-company-of-heroes-2-german-commander-spearhead-doctrine.json](./168294-company-of-heroes-2-german-commander-spearhead-doctrine.json) |
 | Company of Heroes 2: Platinum Edition | 35362 | [35362-company-of-heroes-2-platinum-edition.json](./35362-company-of-heroes-2-platinum-edition.json) |
+| Company of Heroes 2: Red Star Edition | 19461 | [19461-company-of-heroes-2-red-star-edition.json](./19461-company-of-heroes-2-red-star-edition.json) |
 | Company of Heroes 2: Soviet Commander - Counterattack Tactics | 158409 | [158409-company-of-heroes-2-soviet-commander-counterattack-tactics.json](./158409-company-of-heroes-2-soviet-commander-counterattack-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Partisan Tactics | 168291 | [168291-company-of-heroes-2-soviet-commander-partisan-tactics.json](./168291-company-of-heroes-2-soviet-commander-partisan-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Tank Hunter Tactics | 168292 | [168292-company-of-heroes-2-soviet-commander-tank-hunter-tactics.json](./168292-company-of-heroes-2-soviet-commander-tank-hunter-tactics.json) |
@@ -14653,6 +14654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy War | 237627 | [237627-cowboy-war.json](./237627-cowboy-war.json) |
 | Cowboy with a Gatling Gun | 184106 | [184106-cowboy-with-a-gatling-gun.json](./184106-cowboy-with-a-gatling-gun.json) |
 | Cowboy Yakuza | 130240 | [130240-cowboy-yakuza.json](./130240-cowboy-yakuza.json) |
+| Cowboy zombie | 29252 | [29252-cowboy-zombie.json](./29252-cowboy-zombie.json) |
 | Cowboy's Adventure | 43101 | [43101-cowboys-adventure.json](./43101-cowboys-adventure.json) |
 | Cowboyana | 72896 | [72896-cowboyana.json](./72896-cowboyana.json) |
 | Cowboys & Aliens | 344313 | [344313-cowboys-and-aliens.json](./344313-cowboys-and-aliens.json) |
@@ -15681,6 +15683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Pirate | 81872 | [81872-crazy-pirate.json](./81872-crazy-pirate.json) |
 | Crazy Pirate Slots | 232364 | [232364-crazy-pirate-slots.json](./232364-crazy-pirate-slots.json) |
 | Crazy Pitcher | 227255 | [227255-crazy-pitcher.json](./227255-crazy-pitcher.json) |
+| Crazy Pixel Streaker | 19569 | [19569-crazy-pixel-streaker.json](./19569-crazy-pixel-streaker.json) |
 | Crazy Pizza Boy | 242214 | [242214-crazy-pizza-boy.json](./242214-crazy-pizza-boy.json) |
 | Crazy Plane Landing | 208460 | [208460-crazy-plane-landing.json](./208460-crazy-plane-landing.json) |
 | Crazy Planets | 182210 | [182210-crazy-planets.json](./182210-crazy-planets.json) |
@@ -19336,6 +19339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyborg Mechanic | 127017 | [127017-cyborg-mechanic.json](./127017-cyborg-mechanic.json) |
 | Cyborg Ninja vs. The Third Reich | 115585 | [115585-cyborg-ninja-vs-the-third-reich.json](./115585-cyborg-ninja-vs-the-third-reich.json) |
 | Cyborg Rage | 33861 | [33861-cyborg-rage.json](./33861-cyborg-rage.json) |
+| Cyborg Tower Defense | 29169 | [29169-cyborg-tower-defense.json](./29169-cyborg-tower-defense.json) |
 | Cyborg_Lab | 111569 | [111569-cyborg-lab.json](./111569-cyborg-lab.json) |
 | Cyborg-Prototype | 309646 | [309646-cyborg-prototype.json](./309646-cyborg-prototype.json) |
 | Cyborg: Rise | 311492 | [311492-cyborg-rise.json](./311492-cyborg-rise.json) |
