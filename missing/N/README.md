@@ -3047,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Ghostbusters II | 3658 | [3658-new-ghostbusters-ii.json](./3658-new-ghostbusters-ii.json) |
 | New Giant Business | 119609 | [119609-new-giant-business.json](./119609-new-giant-business.json) |
 | New Gunbound | 132534 | [132534-new-gunbound.json](./132534-new-gunbound.json) |
+| New Gundam Breaker | 82116 | [82116-new-gundam-breaker.json](./82116-new-gundam-breaker.json) |
 | New Gundam Breaker: Build G Sound Edition | 136768 | [136768-new-gundam-breaker-build-g-sound-edition.json](./136768-new-gundam-breaker-build-g-sound-edition.json) |
 | New Gundam Breaker: Gunpla Figure Premium Edition | 167159 | [167159-new-gundam-breaker-gunpla-figure-premium-edition.json](./167159-new-gundam-breaker-gunpla-figure-premium-edition.json) |
 | New Gundam Breaker: Premium Edition | 136654 | [136654-new-gundam-breaker-premium-edition.json](./136654-new-gundam-breaker-premium-edition.json) |
@@ -5171,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nissan Presents: Over Drivin' Skyline Memorial | 200009 | [200009-nissan-presents-over-drivin-skyline-memorial.json](./200009-nissan-presents-over-drivin-skyline-memorial.json) |
 | Nissebanden i Grønland | 288107 | [288107-nissebanden-i-gr-nland.json](./288107-nissebanden-i-gr-nland.json) |
 | Nisus Missile Master | 70316 | [70316-nisus-missile-master.json](./70316-nisus-missile-master.json) |
+| NITE Team 4 | 27675 | [27675-nite-team-4.json](./27675-nite-team-4.json) |
 | Nitebear on Sleepystreet | 304198 | [304198-nitebear-on-sleepystreet.json](./304198-nitebear-on-sleepystreet.json) |
 | Niteline | 304722 | [304722-niteline.json](./304722-niteline.json) |
 | Nitemare | 276393 | [276393-nitemare.json](./276393-nitemare.json) |
