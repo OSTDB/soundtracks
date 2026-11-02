@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Defenders | 263392 | [263392-galactic-defenders.json](./263392-galactic-defenders.json) |
 | Galactic Defense: Automation | 255492 | [255492-galactic-defense-automation.json](./255492-galactic-defense-automation.json) |
 | Galactic Diner | 199257 | [199257-galactic-diner.json](./199257-galactic-diner.json) |
+| Galactic Disharmony | 423397 | [423397-galactic-disharmony.json](./423397-galactic-disharmony.json) |
 | Galactic Dominion | 107858 | [107858-galactic-dominion.json](./107858-galactic-dominion.json) |
 | Galactic Dream: Rage of War | 1031 | [1031-galactic-dream-rage-of-war.json](./1031-galactic-dream-rage-of-war.json) |
 | Galactic Dreams | 186406 | [186406-galactic-dreams.json](./186406-galactic-dreams.json) |
@@ -6397,6 +6398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golgo-13 2 - Kiseki no Dandou | 91928 | [91928-golgo-13-2-kiseki-no-dandou.json](./91928-golgo-13-2-kiseki-no-dandou.json) |
 | Golgo-13 3 - Juusei no Chinkonka | 91929 | [91929-golgo-13-3-juusei-no-chinkonka.json](./91929-golgo-13-3-juusei-no-chinkonka.json) |
 | Golgol runner | 183320 | [183320-golgol-runner.json](./183320-golgol-runner.json) |
+| Golgothian | 423382 | [423382-golgothian.json](./423382-golgothian.json) |
 | Golgothica | 381323 | [381323-golgothica.json](./381323-golgothica.json) |
 | Goliath | 11080 | [11080-goliath.json](./11080-goliath.json) |
 | Goliath | 268929 | [268929-goliath.json](./268929-goliath.json) |
