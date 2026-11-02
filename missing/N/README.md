@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naamu: The Lost Essence | 181600 | [181600-naamu-the-lost-essence.json](./181600-naamu-the-lost-essence.json) |
 | Naàra: Contos de Resistencia | 191065 | [191065-naara-contos-de-resistencia.json](./191065-naara-contos-de-resistencia.json) |
 | Naau: The Lost Eye | 121570 | [121570-naau-the-lost-eye.json](./121570-naau-the-lost-eye.json) |
+| Naberon | 421594 | [421594-naberon.json](./421594-naberon.json) |
 | Nabi | 320551 | [320551-nabi.json](./320551-nabi.json) |
 | Nabogorf | 284229 | [284229-nabogorf.json](./284229-nabogorf.json) |
 | Nabokos | 185140 | [185140-nabokos.json](./185140-nabokos.json) |
@@ -3418,6 +3419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Space Rebels | 152256 | [152256-next-space-rebels.json](./152256-next-space-rebels.json) |
 | Next Star System | 194288 | [194288-next-star-system.json](./194288-next-star-system.json) |
 | Next Station | 405763 | [405763-next-station.json](./405763-next-station.json) |
+| Next Station is... | 422188 | [422188-next-station-is.json](./422188-next-station-is.json) |
 | Next Station: Jianghu | 188403 | [188403-next-station-jianghu.json](./188403-next-station-jianghu.json) |
 | Next Station: Zombies | 255278 | [255278-next-station-zombies.json](./255278-next-station-zombies.json) |
 | Next Step | 178655 | [178655-next-step.json](./178655-next-step.json) |
@@ -4372,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare of the Snow | 150559 | [150559-nightmare-of-the-snow.json](./150559-nightmare-of-the-snow.json) |
 | Nightmare of the Webslinger | 338785 | [338785-nightmare-of-the-webslinger.json](./338785-nightmare-of-the-webslinger.json) |
 | Nightmare of Weakest Creature | 225560 | [225560-nightmare-of-weakest-creature.json](./225560-nightmare-of-weakest-creature.json) |
+| Nightmare on Halloween | 421589 | [421589-nightmare-on-halloween.json](./421589-nightmare-on-halloween.json) |
 | Nightmare On Maple Road | 382589 | [382589-nightmare-on-maple-road.json](./382589-nightmare-on-maple-road.json) |
 | Nightmare on Ra Street | 75217 | [75217-nightmare-on-ra-street.json](./75217-nightmare-on-ra-street.json) |
 | Nightmare on the Pacific | 216238 | [216238-nightmare-on-the-pacific.json](./216238-nightmare-on-the-pacific.json) |
@@ -5016,6 +5019,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NinjaGo Endless Runner | 59303 | [59303-ninjago-endless-runner.json](./59303-ninjago-endless-runner.json) |
 | Ninjahtic | 34887 | [34887-ninjahtic.json](./34887-ninjahtic.json) |
 | Ninjahtic Mind Tricks | 34818 | [34818-ninjahtic-mind-tricks.json](./34818-ninjahtic-mind-tricks.json) |
+| Ninjakul 2: The Last Ninja | 421590 | [421590-ninjakul-2-the-last-ninja.json](./421590-ninjakul-2-the-last-ninja.json) |
+| Ninjakul in the AUIC Temple | 421591 | [421591-ninjakul-in-the-auic-temple.json](./421591-ninjakul-in-the-auic-temple.json) |
 | Ninjala | 103346 | [103346-ninjala.json](./103346-ninjala.json) |
 | Ninjala 2: The Uncharted Planet | 405438 | [405438-ninjala-2-the-uncharted-planet.json](./405438-ninjala-2-the-uncharted-planet.json) |
 | Ninjala Story Pack: Chapter Four | 247585 | [247585-ninjala-story-pack-chapter-four.json](./247585-ninjala-story-pack-chapter-four.json) |
@@ -5659,6 +5664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No, Thank You!!! | 60564 | [60564-no-thank-you.json](./60564-no-thank-you.json) |
 | NO: Never Outside | 232819 | [232819-no-never-outside.json](./232819-no-never-outside.json) |
 | No: Worse | 215625 | [215625-no-worse.json](./215625-no-worse.json) |
+| No! Stalgia! No! | 421592 | [421592-no-stalgia-no.json](./421592-no-stalgia-no.json) |
 | No!Ah!'s Ark | 163795 | [163795-no-ah-s-ark.json](./163795-no-ah-s-ark.json) |
 | No. 10: Full Confidence | 414178 | [414178-no-10-full-confidence.json](./414178-no-10-full-confidence.json) |
 | No.13 Shelter | 231853 | [231853-no-13-shelter.json](./231853-no-13-shelter.json) |
