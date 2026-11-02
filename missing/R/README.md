@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Raygun | 63779 | [63779-rad-raygun.json](./63779-rad-raygun.json) |
 | Rad Rocket | 138516 | [138516-rad-rocket.json](./138516-rad-rocket.json) |
 | Rad Rodgers: Radical Edition | 113422 | [113422-rad-rodgers-radical-edition.json](./113422-rad-rodgers-radical-edition.json) |
+| Rad Rodgers: World One | 23797 | [23797-rad-rodgers-world-one.json](./23797-rad-rodgers-world-one.json) |
 | RAD Soldiers | 64100 | [64100-rad-soldiers.json](./64100-rad-soldiers.json) |
 | Rad Survivor | 240642 | [240642-rad-survivor.json](./240642-rad-survivor.json) |
 | Rad TV | 120431 | [120431-rad-tv.json](./120431-rad-tv.json) |
@@ -1260,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Hero | 35906 | [35906-rainbow-hero.json](./35906-rainbow-hero.json) |
 | Rainbow High: Runway Rush | 249255 | [249255-rainbow-high-runway-rush.json](./249255-rainbow-high-runway-rush.json) |
 | Rainbow Hills | 216742 | [216742-rainbow-hills.json](./216742-rainbow-hills.json) |
+| Rainbow Hippie | 6783 | [6783-rainbow-hippie.json](./6783-rainbow-hippie.json) |
 | Rainbow hotel | 251125 | [251125-rainbow-hotel.json](./251125-rainbow-hotel.json) |
 | Rainbow Impostor Survivor 3D | 225782 | [225782-rainbow-impostor-survivor-3d.json](./225782-rainbow-impostor-survivor-3d.json) |
 | Rainbow Infinity | 232148 | [232148-rainbow-infinity.json](./232148-rainbow-infinity.json) |
@@ -3190,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebels: Under the Spell of Magic - Chapter 2 | 193149 | [193149-rebels-under-the-spell-of-magic-chapter-2.json](./193149-rebels-under-the-spell-of-magic-chapter-2.json) |
 | Rebels: Under the Spell of Magic - Chapter 4 | 267285 | [267285-rebels-under-the-spell-of-magic-chapter-4.json](./267285-rebels-under-the-spell-of-magic-chapter-4.json) |
 | Rebels: Under the Spell of Magic - Chapter 5 | 384218 | [384218-rebels-under-the-spell-of-magic-chapter-5.json](./384218-rebels-under-the-spell-of-magic-chapter-5.json) |
+| Rebelstar | 23078 | [23078-rebelstar.json](./23078-rebelstar.json) |
 | Rebelstar II: Alien Encounter | 104242 | [104242-rebelstar-ii-alien-encounter.json](./104242-rebelstar-ii-alien-encounter.json) |
 | Rebelstar Raiders | 36880 | [36880-rebelstar-raiders.json](./36880-rebelstar-raiders.json) |
 | Rebelstar: Tactical Command | 6554 | [6554-rebelstar-tactical-command.json](./6554-rebelstar-tactical-command.json) |
@@ -9737,6 +9740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon 3: Gold | 257414 | [257414-rollercoaster-tycoon-3-gold.json](./257414-rollercoaster-tycoon-3-gold.json) |
 | RollerCoaster Tycoon 3: Platinum | 14801 | [14801-rollercoaster-tycoon-3-platinum.json](./14801-rollercoaster-tycoon-3-platinum.json) |
 | RollerCoaster Tycoon 3D | 6873 | [6873-rollercoaster-tycoon-3d.json](./6873-rollercoaster-tycoon-3d.json) |
+| RollerCoaster Tycoon 4 Mobile | 6547 | [6547-rollercoaster-tycoon-4-mobile.json](./6547-rollercoaster-tycoon-4-mobile.json) |
 | RollerCoaster Tycoon 6 Pack | 228962 | [228962-rollercoaster-tycoon-6-pack.json](./228962-rollercoaster-tycoon-6-pack.json) |
 | RollerCoaster Tycoon 8 Pack | 252326 | [252326-rollercoaster-tycoon-8-pack.json](./252326-rollercoaster-tycoon-8-pack.json) |
 | RollerCoaster Tycoon 9 Mega Pack | 136066 | [136066-rollercoaster-tycoon-9-mega-pack.json](./136066-rollercoaster-tycoon-9-mega-pack.json) |
