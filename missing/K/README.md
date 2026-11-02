@@ -2668,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3427,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings Love | 244284 | [244284-kings-love.json](./244284-kings-love.json) |
 | Kings Odyssey: Dwarves Tale | 287170 | [287170-kings-odyssey-dwarves-tale.json](./287170-kings-odyssey-dwarves-tale.json) |
 | Kings Odyssey: Rise of The Necromancer | 287172 | [287172-kings-odyssey-rise-of-the-necromancer.json](./287172-kings-odyssey-rise-of-the-necromancer.json) |
+| Kings of Antikva | 424028 | [424028-kings-of-antikva.json](./424028-kings-of-antikva.json) |
 | Kings of Battleground | 231928 | [231928-kings-of-battleground.json](./231928-kings-of-battleground.json) |
 | Kings of Chaos | 402314 | [402314-kings-of-chaos.json](./402314-kings-of-chaos.json) |
 | Kings of Edom | 322642 | [322642-kings-of-edom.json](./322642-kings-of-edom.json) |
@@ -3908,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kittenship Care | 364062 | [364062-kittenship-care.json](./364062-kittenship-care.json) |
 | Kittentegy | 303613 | [303613-kittentegy.json](./303613-kittentegy.json) |
 | Kittie's Mazes | 98888 | [98888-kitties-mazes.json](./98888-kitties-mazes.json) |
+| Kitties on Planets | 424004 | [424004-kitties-on-planets.json](./424004-kitties-on-planets.json) |
 | Kitties Solitaire | 412344 | [412344-kitties-solitaire.json](./412344-kitties-solitaire.json) |
 | Kitto Zenbu Watashi no Sei | 243629 | [243629-kitto-zenbu-watashi-no-sei.json](./243629-kitto-zenbu-watashi-no-sei.json) |
 | Kitty & Friends: Blast of Fun | 239886 | [239886-kitty-and-friends-blast-of-fun.json](./239886-kitty-and-friends-blast-of-fun.json) |
