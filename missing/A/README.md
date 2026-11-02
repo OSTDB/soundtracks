@@ -4582,6 +4582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agnostiko Origins | 305986 | [305986-agnostiko-origins.json](./305986-agnostiko-origins.json) |
 | Agnostiko X NedMapagmahal Bundle | 308654 | [308654-agnostiko-x-nedmapagmahal-bundle.json](./308654-agnostiko-x-nedmapagmahal-bundle.json) |
 | Agon: The Lost Sword of Toledo | 9953 | [9953-agon-the-lost-sword-of-toledo.json](./9953-agon-the-lost-sword-of-toledo.json) |
+| Agon: The Mysterious Codex | 24272 | [24272-agon-the-mysterious-codex.json](./24272-agon-the-mysterious-codex.json) |
 | Agon: The Mysterious Codex - Episode 1: London Scene | 79052 | [79052-agon-the-mysterious-codex-episode-1-london-scene.json](./79052-agon-the-mysterious-codex-episode-1-london-scene.json) |
 | Agon: The Mysterious Codex - Episode 2: Adventures in Lapland | 70238 | [70238-agon-the-mysterious-codex-episode-2-adventures-in-lapland.json](./70238-agon-the-mysterious-codex-episode-2-adventures-in-lapland.json) |
 | Agon: The Mysterious Codex - Episode 3: Pirates of Madagascar | 73609 | [73609-agon-the-mysterious-codex-episode-3-pirates-of-madagascar.json](./73609-agon-the-mysterious-codex-episode-3-pirates-of-madagascar.json) |
@@ -12920,6 +12921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arm Wrestling Reborn | 190004 | [190004-arm-wrestling-reborn.json](./190004-arm-wrestling-reborn.json) |
 | Arma 2: Army of the Czech Republic | 15869 | [15869-arma-2-army-of-the-czech-republic.json](./15869-arma-2-army-of-the-czech-republic.json) |
 | Arma 2: British Armed Forces | 15867 | [15867-arma-2-british-armed-forces.json](./15867-arma-2-british-armed-forces.json) |
+| Arma 2: Combined Operations | 24314 | [24314-arma-2-combined-operations.json](./24314-arma-2-combined-operations.json) |
 | Arma 2: Free | 131091 | [131091-arma-2-free.json](./131091-arma-2-free.json) |
 | ArmA 2: Operation Arrowhead | 601 | [601-arma-2-operation-arrowhead.json](./601-arma-2-operation-arrowhead.json) |
 | Arma 2: Private Military Company | 15868 | [15868-arma-2-private-military-company.json](./15868-arma-2-private-military-company.json) |
