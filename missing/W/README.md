@@ -4712,6 +4712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked Little Witch | 353291 | [353291-wicked-little-witch.json](./353291-wicked-little-witch.json) |
 | Wicked Monsters Blast! | 5279 | [5279-wicked-monsters-blast.json](./5279-wicked-monsters-blast.json) |
 | Wicked Monsters Blast! HD Plus | 85482 | [85482-wicked-monsters-blast-hd-plus.json](./85482-wicked-monsters-blast-hd-plus.json) |
+| Wicked Night: Holy Knights | 403387 | [403387-wicked-night-holy-knights.json](./403387-wicked-night-holy-knights.json) |
 | Wicked Paradise | 192644 | [192644-wicked-paradise.json](./192644-wicked-paradise.json) |
 | Wicked Plague | 324691 | [324691-wicked-plague.json](./324691-wicked-plague.json) |
 | Wicked Rails VR | 158567 | [158567-wicked-rails-vr.json](./158567-wicked-rails-vr.json) |
@@ -8203,6 +8204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldNeverland: Black Modern Wedding Outfit Set | 301018 | [301018-worldneverland-black-modern-wedding-outfit-set.json](./301018-worldneverland-black-modern-wedding-outfit-set.json) |
 | WorldNeverland: Chocolate Donut Fair | 287173 | [287173-worldneverland-chocolate-donut-fair.json](./287173-worldneverland-chocolate-donut-fair.json) |
 | WorldNeverland: Daily Life in the Elnea Kingdom | 97980 | [97980-worldneverland-daily-life-in-the-elnea-kingdom.json](./97980-worldneverland-daily-life-in-the-elnea-kingdom.json) |
+| WorldNeverland: Daily Life in the Elnea Kingdom - Backpack | 403411 | [403411-worldneverland-daily-life-in-the-elnea-kingdom-backpack.json](./403411-worldneverland-daily-life-in-the-elnea-kingdom-backpack.json) |
 | WorldNeverland: Elnea Kingdom | 84960 | [84960-worldneverland-elnea-kingdom.json](./84960-worldneverland-elnea-kingdom.json) |
 | WorldNeverland: Elnea Kingdom - Ancestral Garb Set: Berry | 316264 | [316264-worldneverland-elnea-kingdom-ancestral-garb-set-berry.json](./316264-worldneverland-elnea-kingdom-ancestral-garb-set-berry.json) |
 | WorldNeverland: Elnea Kingdom - Floral Town-Wear Set: Brown | 324423 | [324423-worldneverland-elnea-kingdom-floral-town-wear-set-brown.json](./324423-worldneverland-elnea-kingdom-floral-town-wear-set-brown.json) |
