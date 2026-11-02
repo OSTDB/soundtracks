@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow Fins HD | 89574 | [89574-yellow-fins-hd.json](./89574-yellow-fins-hd.json) |
 | Yellow House | 309512 | [309512-yellow-house.json](./309512-yellow-house.json) |
 | Yellow Lemon | 92149 | [92149-yellow-lemon.json](./92149-yellow-lemon.json) |
+| Yellow Ninja's Extreme Zero | 401572 | [401572-yellow-ninjas-extreme-zero.json](./401572-yellow-ninjas-extreme-zero.json) |
 | Yellow or Red? | 174308 | [174308-yellow-or-red.json](./174308-yellow-or-red.json) |
 | Yellow Peril | 69929 | [69929-yellow-peril.json](./69929-yellow-peril.json) |
 | Yellow Rose | 288151 | [288151-yellow-rose.json](./288151-yellow-rose.json) |
