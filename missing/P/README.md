@@ -1381,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pao Pao Party | 184609 | [184609-pao-pao-party.json](./184609-pao-pao-party.json) |
 | Paon: Beyond the Pien | 153164 | [153164-paon-beyond-the-pien.json](./153164-paon-beyond-the-pien.json) |
 | Pãozito | 256120 | [256120-paozito.json](./256120-paozito.json) |
+| Papa Louie 2: When Burgers Attack! | 56402 | [56402-papa-louie-2-when-burgers-attack.json](./56402-papa-louie-2-when-burgers-attack.json) |
 | Papa Louie 3: When Sundaes Attack! | 101932 | [101932-papa-louie-3-when-sundaes-attack.json](./101932-papa-louie-3-when-sundaes-attack.json) |
 | Papa Needs a Headshot | 360095 | [360095-papa-needs-a-headshot.json](./360095-papa-needs-a-headshot.json) |
 | Papa Pear Saga | 18062 | [18062-papa-pear-saga.json](./18062-papa-pear-saga.json) |
@@ -2339,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paro Paro | 151646 | [151646-paro-paro.json](./151646-paro-paro.json) |
 | Paro Wars | 37305 | [37305-paro-wars.json](./37305-paro-wars.json) |
 | Parodius | 174910 | [174910-parodius.json](./174910-parodius.json) |
+| Parodius | 19714 | [19714-parodius.json](./19714-parodius.json) |
 | Parodius | 280746 | [280746-parodius.json](./280746-parodius.json) |
 | Parodius | 41712 | [41712-parodius.json](./41712-parodius.json) |
 | Parodius da!: Shinwa kara Owarai he | 37307 | [37307-parodius-da-shinwa-kara-owarai-he.json](./37307-parodius-da-shinwa-kara-owarai-he.json) |
@@ -4608,6 +4610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petite Zombies | 110981 | [110981-petite-zombies.json](./110981-petite-zombies.json) |
 | Petka 007: Zoloto Partii | 52761 | [52761-petka-007-zoloto-partii.json](./52761-petka-007-zoloto-partii.json) |
 | Petka 4: Den' Nezavisimosti | 52758 | [52758-petka-4-den-nezavisimosti.json](./52758-petka-4-den-nezavisimosti.json) |
+| Petka 5: Konec Igry | 52759 | [52759-petka-5-konec-igry.json](./52759-petka-5-konec-igry.json) |
 | Petka 6: Novaya Realnost | 52760 | [52760-petka-6-novaya-realnost.json](./52760-petka-6-novaya-realnost.json) |
 | Petka 8: Pokorenie Rima | 52762 | [52762-petka-8-pokorenie-rima.json](./52762-petka-8-pokorenie-rima.json) |
 | Petka 9: Proletarskiy Glamur | 52763 | [52763-petka-9-proletarskiy-glamur.json](./52763-petka-9-proletarskiy-glamur.json) |
@@ -4886,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom | 258994 | [258994-phantom.json](./258994-phantom.json) |
 | Phantom | 319419 | [319419-phantom.json](./319419-phantom.json) |
 | Phantom | 47147 | [47147-phantom.json](./47147-phantom.json) |
+| Phantom 2040 | 19713 | [19713-phantom-2040.json](./19713-phantom-2040.json) |
 | Phantom 3D | 387492 | [387492-phantom-3d.json](./387492-phantom-3d.json) |
 | Phantom 9 | 416629 | [416629-phantom-9.json](./416629-phantom-9.json) |
 | Phantom Abyss | 147021 | [147021-phantom-abyss.json](./147021-phantom-abyss.json) |
@@ -6388,6 +6392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball by Kotai | 252651 | [252651-pinball-by-kotai.json](./252651-pinball-by-kotai.json) |
 | Pinball Challenge Deluxe | 49361 | [49361-pinball-challenge-deluxe.json](./49361-pinball-challenge-deluxe.json) |
 | Pinball Champ '95 | 266680 | [266680-pinball-champ-95.json](./266680-pinball-champ-95.json) |
+| Pinball Construction Set | 24377 | [24377-pinball-construction-set.json](./24377-pinball-construction-set.json) |
 | Pinball Crush | 353810 | [353810-pinball-crush.json](./353810-pinball-crush.json) |
 | Pinball Crystal Caliburn II | 103573 | [103573-pinball-crystal-caliburn-ii.json](./103573-pinball-crystal-caliburn-ii.json) |
 | Pinball Deluxe | 209958 | [209958-pinball-deluxe.json](./209958-pinball-deluxe.json) |
@@ -8528,6 +8533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Jump | 91324 | [91324-planet-jump.json](./91324-planet-jump.json) |
 | Planet Jump 2 | 118441 | [118441-planet-jump-2.json](./118441-planet-jump-2.json) |
 | Planet Keeper Program | 349263 | [349263-planet-keeper-program.json](./349263-planet-keeper-program.json) |
+| Planet Laika | 56583 | [56583-planet-laika.json](./56583-planet-laika.json) |
 | Planet Lander | 41577 | [41577-planet-lander.json](./41577-planet-lander.json) |
 | Planet Lev | 150452 | [150452-planet-lev.json](./150452-planet-lev.json) |
 | Planet Love Story | 407895 | [407895-planet-love-story.json](./407895-planet-love-story.json) |
@@ -9873,6 +9879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point Blank | 74859 | [74859-point-blank.json](./74859-point-blank.json) |
 | Point Blank 2 | 40988 | [40988-point-blank-2.json](./40988-point-blank-2.json) |
 | Point Blank 3 | 44979 | [44979-point-blank-3.json](./44979-point-blank-3.json) |
+| Point Blank DS | 20532 | [20532-point-blank-ds.json](./20532-point-blank-ds.json) |
 | Point Blank X | 243045 | [243045-point-blank-x.json](./243045-point-blank-x.json) |
 | Point Blank: Strike | 70823 | [70823-point-blank-strike.json](./70823-point-blank-strike.json) |
 | Point Click Killer | 276092 | [276092-point-click-killer.json](./276092-point-click-killer.json) |
@@ -10951,6 +10958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polaris | 380125 | [380125-polaris.json](./380125-polaris.json) |
 | Polaris Chord | 263343 | [263343-polaris-chord.json](./263343-polaris-chord.json) |
 | Polaris Outpost | 226991 | [226991-polaris-outpost.json](./226991-polaris-outpost.json) |
+| Polaris Sector | 24620 | [24620-polaris-sector.json](./24620-polaris-sector.json) |
 | Polaris SnoCross | 249122 | [249122-polaris-snocross.json](./249122-polaris-snocross.json) |
 | Polarities | 133177 | [133177-polarities.json](./133177-polarities.json) |
 | Polarity | 17683 | [17683-polarity.json](./17683-polarity.json) |
@@ -12060,6 +12068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Runner | 49954 | [49954-portal-runner.json](./49954-portal-runner.json) |
 | Portal Shot Gun Teleport | 290436 | [290436-portal-shot-gun-teleport.json](./290436-portal-shot-gun-teleport.json) |
 | Portal Stories: Mel | 47107 | [47107-portal-stories-mel.json](./47107-portal-stories-mel.json) |
+| Portal Stories: VR | 54733 | [54733-portal-stories-vr.json](./54733-portal-stories-vr.json) |
 | Portal Together | 410208 | [410208-portal-together.json](./410208-portal-together.json) |
 | Portal Touch | 115783 | [115783-portal-touch.json](./115783-portal-touch.json) |
 | Portal Unity | 219160 | [219160-portal-unity.json](./219160-portal-unity.json) |
@@ -12560,6 +12569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers All-Stars | 109037 | [109037-power-rangers-all-stars.json](./109037-power-rangers-all-stars.json) |
 | Power Rangers Dino Thunder: Red Hot Rescue | 185845 | [185845-power-rangers-dino-thunder-red-hot-rescue.json](./185845-power-rangers-dino-thunder-red-hot-rescue.json) |
 | Power Rangers Legends | 63856 | [63856-power-rangers-legends.json](./63856-power-rangers-legends.json) |
+| Power Rangers Megaforce | 20105 | [20105-power-rangers-megaforce.json](./20105-power-rangers-megaforce.json) |
 | Power Rangers Online | 383684 | [383684-power-rangers-online.json](./383684-power-rangers-online.json) |
 | Power Rangers S.P.D. | 3292 | [3292-power-rangers-s-p-d.json](./3292-power-rangers-s-p-d.json) |
 | Power Rangers S.P.D.: Escape of the Five Fugitives | 220103 | [220103-power-rangers-s-p-d-escape-of-the-five-fugitives.json](./220103-power-rangers-s-p-d-escape-of-the-five-fugitives.json) |
@@ -12864,6 +12874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predator | 298432 | [298432-predator.json](./298432-predator.json) |
 | Predator | 74422 | [74422-predator.json](./74422-predator.json) |
 | Predator 2 | 15346 | [15346-predator-2.json](./15346-predator-2.json) |
+| Predator 2 | 19693 | [19693-predator-2.json](./19693-predator-2.json) |
 | Predator and Wreck | 151805 | [151805-predator-and-wreck.json](./151805-predator-and-wreck.json) |
 | Predator Simulator | 35303 | [35303-predator-simulator.json](./35303-predator-simulator.json) |
 | Predator VR | 125674 | [125674-predator-vr.json](./125674-predator-vr.json) |
