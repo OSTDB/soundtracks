@@ -3004,6 +3004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weeping Cherries | 358645 | [358645-weeping-cherries.json](./358645-weeping-cherries.json) |
 | Weeping Doll | 25340 | [25340-weeping-doll.json](./25340-weeping-doll.json) |
 | Weeping Falls Massacre | 204467 | [204467-weeping-falls-massacre.json](./204467-weeping-falls-massacre.json) |
+| Weeping of the Empire: Tears of the Kingdom | 427245 | [427245-weeping-of-the-empire-tears-of-the-kingdom.json](./427245-weeping-of-the-empire-tears-of-the-kingdom.json) |
 | Weeping Willow | 122366 | [122366-weeping-willow.json](./122366-weeping-willow.json) |
 | WeeRPG | 157458 | [157458-weerpg.json](./157458-weerpg.json) |
 | WeeWaa | 91380 | [91380-weewaa.json](./91380-weewaa.json) |
@@ -7654,6 +7655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of DASM: DASM Spell Quest | 36637 | [36637-world-of-dasm-dasm-spell-quest.json](./36637-world-of-dasm-dasm-spell-quest.json) |
 | World of Deadliest Catch | 219456 | [219456-world-of-deadliest-catch.json](./219456-world-of-deadliest-catch.json) |
 | World of Deadliest Catch: 2024 Premium Edition | 304778 | [304778-world-of-deadliest-catch-2024-premium-edition.json](./304778-world-of-deadliest-catch-2024-premium-edition.json) |
+| World of Diving | 9337 | [9337-world-of-diving.json](./9337-world-of-diving.json) |
 | World of Dragon Nest | 130532 | [130532-world-of-dragon-nest.json](./130532-world-of-dragon-nest.json) |
 | World of Dragons: Dragon Simulator | 88219 | [88219-world-of-dragons-dragon-simulator.json](./88219-world-of-dragons-dragon-simulator.json) |
 | World of Elemental | 358505 | [358505-world-of-elemental.json](./358505-world-of-elemental.json) |
@@ -8005,6 +8007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Trigger: Borderless Mission | 12892 | [12892-world-trigger-borderless-mission.json](./12892-world-trigger-borderless-mission.json) |
 | World Trophy Soccer | 4390 | [4390-world-trophy-soccer.json](./4390-world-trophy-soccer.json) |
 | World Truck Driving Simulator | 103891 | [103891-world-truck-driving-simulator.json](./103891-world-truck-driving-simulator.json) |
+| World Truck Racing | 9364 | [9364-world-truck-racing.json](./9364-world-truck-racing.json) |
 | World Ultimate Mafia | 323546 | [323546-world-ultimate-mafia.json](./323546-world-ultimate-mafia.json) |
 | World Voyage | 53109 | [53109-world-voyage.json](./53109-world-voyage.json) |
 | World VR Competition | 32801 | [32801-world-vr-competition.json](./32801-world-vr-competition.json) |
