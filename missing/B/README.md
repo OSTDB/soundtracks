@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Dudes | 215085 | [215085-bad-dudes.json](./215085-bad-dudes.json) |
 | Bad Dudes vs. Dragon Ninja | 18831 | [18831-bad-dudes-vs-dragon-ninja.json](./18831-bad-dudes-vs-dragon-ninja.json) |
 | Bad Eggs Online 2 | 60360 | [60360-bad-eggs-online-2.json](./60360-bad-eggs-online-2.json) |
+| Bad End | 34124 | [34124-bad-end.json](./34124-bad-end.json) |
 | Bad Ethics | 252094 | [252094-bad-ethics.json](./252094-bad-ethics.json) |
 | Bad Eye Deer | 386772 | [386772-bad-eye-deer.json](./386772-bad-eye-deer.json) |
 | Bad Faith | 187714 | [187714-bad-faith.json](./187714-bad-faith.json) |
@@ -10162,6 +10163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood & Blade | 60798 | [60798-blood-and-blade.json](./60798-blood-and-blade.json) |
 | Blood & Dungeon | 292545 | [292545-blood-and-dungeon.json](./292545-blood-and-dungeon.json) |
 | Blood & Glory: Immortals | 137572 | [137572-blood-and-glory-immortals.json](./137572-blood-and-glory-immortals.json) |
+| Blood & Gold: Caribbean! | 34141 | [34141-blood-and-gold-caribbean.json](./34141-blood-and-gold-caribbean.json) |
 | Blood & Gold: Caribbean! - The Zombiest Adventures | 124837 | [124837-blood-and-gold-caribbean-the-zombiest-adventures.json](./124837-blood-and-gold-caribbean-the-zombiest-adventures.json) |
 | Blood & Lace: A Gothic Novel | 69924 | [69924-blood-and-lace-a-gothic-novel.json](./69924-blood-and-lace-a-gothic-novel.json) |
 | Blood & Laurels | 141556 | [141556-blood-and-laurels.json](./141556-blood-and-laurels.json) |
@@ -10992,6 +10994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Wish Desire | 178236 | [178236-blue-wish-desire.json](./178236-blue-wish-desire.json) |
 | Blue Wish Resurrection Plus | 122850 | [122850-blue-wish-resurrection-plus.json](./122850-blue-wish-resurrection-plus.json) |
 | Blue Wyrm | 331956 | [331956-blue-wyrm.json](./331956-blue-wyrm.json) |
+| Blue-Collar Astronaut | 34135 | [34135-blue-collar-astronaut.json](./34135-blue-collar-astronaut.json) |
 | Blue-Sky-Blue(s): Sora o Mau Tsubasa | 271420 | [271420-blue-sky-blue-s-sora-o-mau-tsubasa.json](./271420-blue-sky-blue-s-sora-o-mau-tsubasa.json) |
 | Blue-Sky-Blue(s): Sora o Mau Tsubasa | 318594 | [318594-blue-sky-blue-s-sora-o-mau-tsubasa.json](./318594-blue-sky-blue-s-sora-o-mau-tsubasa.json) |
 | Blue: Store | 339452 | [339452-blue-store.json](./339452-blue-store.json) |
@@ -13093,6 +13096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowerwhelm | 202423 | [202423-bowerwhelm.json](./202423-bowerwhelm.json) |
 | Bowl 'Em Down | 240106 | [240106-bowl-em-down.json](./240106-bowl-em-down.json) |
 | Bowl Big | 411351 | [411351-bowl-big.json](./411351-bowl-big.json) |
+| Bowl Bound College Football | 34541 | [34541-bowl-bound-college-football.json](./34541-bowl-bound-college-football.json) |
 | Bowl Faster | 244409 | [244409-bowl-faster.json](./244409-bowl-faster.json) |
 | Bowl VR | 32315 | [32315-bowl-vr.json](./32315-bowl-vr.json) |
 | Bowl-Ed Over | 123236 | [123236-bowl-ed-over.json](./123236-bowl-ed-over.json) |
