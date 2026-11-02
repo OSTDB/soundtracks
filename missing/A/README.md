@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Visitor on Venus | 179590 | [179590-a-visitor-on-venus.json](./179590-a-visitor-on-venus.json) |
 | A Visual Mix: Ayumi Hamasaki Dome Tour 2001 A | 72308 | [72308-a-visual-mix-ayumi-hamasaki-dome-tour-2001-a.json](./72308-a-visual-mix-ayumi-hamasaki-dome-tour-2001-a.json) |
 | A Vøid | 240727 | [240727-a-v-id.json](./240727-a-v-id.json) |
+| A Void Hope | 252360 | [252360-a-void-hope.json](./252360-a-void-hope.json) |
 | A Void Shaper | 277981 | [277981-a-void-shaper.json](./277981-a-void-shaper.json) |
 | A Void Society | 319757 | [319757-a-void-society.json](./319757-a-void-society.json) |
 | A Voxel Action | 65411 | [65411-a-voxel-action.json](./65411-a-voxel-action.json) |
@@ -11312,6 +11313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arashi Gaiden | 307254 | [307254-arashi-gaiden.json](./307254-arashi-gaiden.json) |
 | Arashi no Yoru ni | 269645 | [269645-arashi-no-yoru-ni.json](./269645-arashi-no-yoru-ni.json) |
 | Arashi: Castles of Sin | 159109 | [159109-arashi-castles-of-sin.json](./159109-arashi-castles-of-sin.json) |
+| Arashi: Castles of Sin - Final Cut | 253196 | [253196-arashi-castles-of-sin-final-cut.json](./253196-arashi-castles-of-sin-final-cut.json) |
 | Arasuji de Kitaeru: Hayamimi no Susume DS | 269647 | [269647-arasuji-de-kitaeru-hayamimi-no-susume-ds.json](./269647-arasuji-de-kitaeru-hayamimi-no-susume-ds.json) |
 | Arasuji de Oboeru Sokudoku no Susume DS | 269646 | [269646-arasuji-de-oboeru-sokudoku-no-susume-ds.json](./269646-arasuji-de-oboeru-sokudoku-no-susume-ds.json) |
 | Arat | 208207 | [208207-arat.json](./208207-arat.json) |
@@ -12908,6 +12910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma 3: Creator DLC - CSLA Iron Curtain | 168912 | [168912-arma-3-creator-dlc-csla-iron-curtain.json](./168912-arma-3-creator-dlc-csla-iron-curtain.json) |
 | Arma 3: Creator DLC - Reaction Forces | 293467 | [293467-arma-3-creator-dlc-reaction-forces.json](./293467-arma-3-creator-dlc-reaction-forces.json) |
 | Arma 3: Creator DLC - Spearhead 1944 | 259281 | [259281-arma-3-creator-dlc-spearhead-1944.json](./259281-arma-3-creator-dlc-spearhead-1944.json) |
+| Arma 3: Helicopters | 168906 | [168906-arma-3-helicopters.json](./168906-arma-3-helicopters.json) |
 | Arma 3: Jets | 168910 | [168910-arma-3-jets.json](./168910-arma-3-jets.json) |
 | Arma 3: Laws of War | 95413 | [95413-arma-3-laws-of-war.json](./95413-arma-3-laws-of-war.json) |
 | Arma 3: Malden | 168911 | [168911-arma-3-malden.json](./168911-arma-3-malden.json) |
@@ -15445,6 +15448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athena | 273078 | [273078-athena.json](./273078-athena.json) |
 | Athena | 9052 | [9052-athena.json](./9052-athena.json) |
 | Athena Code | 370262 | [370262-athena-code.json](./370262-athena-code.json) |
+| Athena Crisis | 252072 | [252072-athena-crisis.json](./252072-athena-crisis.json) |
 | Athena Cykes: Ace Attorney - Dark Ace Saga | 308427 | [308427-athena-cykes-ace-attorney-dark-ace-saga.json](./308427-athena-cykes-ace-attorney-dark-ace-saga.json) |
 | Athena Cykes: Ace Attorney - Locks on the Heart | 306604 | [306604-athena-cykes-ace-attorney-locks-on-the-heart.json](./306604-athena-cykes-ace-attorney-locks-on-the-heart.json) |
 | Athena Cykes: Ace Attorney - Trials of time. | 305191 | [305191-athena-cykes-ace-attorney-trials-of-time.json](./305191-athena-cykes-ace-attorney-trials-of-time.json) |
@@ -15801,6 +15805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Titan Tactics | 117518 | [117518-attack-on-titan-tactics.json](./117518-attack-on-titan-tactics.json) |
 | Attack on Titan the Game | 405643 | [405643-attack-on-titan-the-game.json](./405643-attack-on-titan-the-game.json) |
 | Attack on Titan Tribute Game 2 | 316810 | [316810-attack-on-titan-tribute-game-2.json](./316810-attack-on-titan-tribute-game-2.json) |
+| Attack on Titan VR: Unbreakable | 251566 | [251566-attack-on-titan-vr-unbreakable.json](./251566-attack-on-titan-vr-unbreakable.json) |
 | Attack on Titan: A Choice with No Regrets | 200562 | [200562-attack-on-titan-a-choice-with-no-regrets.json](./200562-attack-on-titan-a-choice-with-no-regrets.json) |
 | Attack on Titan: Assault | 105884 | [105884-attack-on-titan-assault.json](./105884-attack-on-titan-assault.json) |
 | Attack on Titan: Brave Order | 174604 | [174604-attack-on-titan-brave-order.json](./174604-attack-on-titan-brave-order.json) |
