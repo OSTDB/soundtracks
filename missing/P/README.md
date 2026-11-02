@@ -10585,6 +10585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Shattered Light | 223053 | [223053-pokemon-shattered-light.json](./223053-pokemon-shattered-light.json) |
 | Pokémon Shield | 115653 | [115653-pokemon-shield.json](./115653-pokemon-shield.json) |
 | Pokémon Shield + Expansion Pass | 240024 | [240024-pokemon-shield-expansion-pass.json](./240024-pokemon-shield-expansion-pass.json) |
+| Pokémon Shield Expansion Pass | 128073 | [128073-pokemon-shield-expansion-pass.json](./128073-pokemon-shield-expansion-pass.json) |
 | Pokémon Shield: The Crown Tundra | 252783 | [252783-pokemon-shield-the-crown-tundra.json](./252783-pokemon-shield-the-crown-tundra.json) |
 | Pokémon Shield: The Isle of Armor | 252782 | [252782-pokemon-shield-the-isle-of-armor.json](./252782-pokemon-shield-the-isle-of-armor.json) |
 | Pokemon Shining Opal | 337420 | [337420-pokemon-shining-opal.json](./337420-pokemon-shining-opal.json) |
@@ -12590,6 +12591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Beats of Power | 198344 | [198344-power-rangers-beats-of-power.json](./198344-power-rangers-beats-of-power.json) |
 | Power Rangers: Beats of Power - Special Edition | 255837 | [255837-power-rangers-beats-of-power-special-edition.json](./255837-power-rangers-beats-of-power-special-edition.json) |
 | Power Rangers: Dino Thunder | 243195 | [243195-power-rangers-dino-thunder.json](./243195-power-rangers-dino-thunder.json) |
+| Power Rangers: Dino Thunder | 3289 | [3289-power-rangers-dino-thunder.json](./3289-power-rangers-dino-thunder.json) |
 | Power Rangers: Force in Time | 220104 | [220104-power-rangers-force-in-time.json](./220104-power-rangers-force-in-time.json) |
 | Power Rangers: Lightspeed Rescue | 248766 | [248766-power-rangers-lightspeed-rescue.json](./248766-power-rangers-lightspeed-rescue.json) |
 | Power Rangers: Morphin Legends | 208151 | [208151-power-rangers-morphin-legends.json](./208151-power-rangers-morphin-legends.json) |
