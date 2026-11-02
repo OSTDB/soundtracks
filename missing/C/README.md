@@ -2817,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartel Simulator | 263208 | [263208-cartel-simulator.json](./263208-cartel-simulator.json) |
 | Cartel Simulator | 312414 | [312414-cartel-simulator.json](./312414-cartel-simulator.json) |
 | Cartel Smash | 114360 | [114360-cartel-smash.json](./114360-cartel-smash.json) |
+| Cartel Tycoon | 128991 | [128991-cartel-tycoon.json](./128991-cartel-tycoon.json) |
 | Cartel Tycoon: Anniversary Edition | 268321 | [268321-cartel-tycoon-anniversary-edition.json](./268321-cartel-tycoon-anniversary-edition.json) |
 | Cartel Tycoon: Lieutenants Pack - Guerilla | 226298 | [226298-cartel-tycoon-lieutenants-pack-guerilla.json](./226298-cartel-tycoon-lieutenants-pack-guerilla.json) |
 | Cartel Tycoon: Lieutenants Pack - La Familia | 243673 | [243673-cartel-tycoon-lieutenants-pack-la-familia.json](./243673-cartel-tycoon-lieutenants-pack-la-familia.json) |
@@ -5311,6 +5312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Chaxia | 399202 | [399202-champions-of-chaxia.json](./399202-champions-of-chaxia.json) |
 | Champions of Dawn | 74035 | [74035-champions-of-dawn.json](./74035-champions-of-dawn.json) |
 | Champions of Europe | 45655 | [45655-champions-of-europe.json](./45655-champions-of-europe.json) |
+| Champions of Krynn | 2456 | [2456-champions-of-krynn.json](./2456-champions-of-krynn.json) |
 | Champions of Midgard | 111632 | [111632-champions-of-midgard.json](./111632-champions-of-midgard.json) |
 | Champions of Norrath: Realms of EverQuest | 9813 | [9813-champions-of-norrath-realms-of-everquest.json](./9813-champions-of-norrath-realms-of-everquest.json) |
 | Champions of Odin | 55629 | [55629-champions-of-odin.json](./55629-champions-of-odin.json) |
