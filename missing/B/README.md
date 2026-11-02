@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Challenge | 164952 | [164952-ball-challenge.json](./164952-ball-challenge.json) |
 | Ball Clash | 247080 | [247080-ball-clash.json](./247080-ball-clash.json) |
 | Ball Coin Chapter 5 | 281955 | [281955-ball-coin-chapter-5.json](./281955-ball-coin-chapter-5.json) |
+| Ball Collector | 101544 | [101544-ball-collector.json](./101544-ball-collector.json) |
 | Ball Crazy | 13370 | [13370-ball-crazy.json](./13370-ball-crazy.json) |
 | Ball Destiny | 291174 | [291174-ball-destiny.json](./291174-ball-destiny.json) |
 | Ball Dodge | 306048 | [306048-ball-dodge.json](./306048-ball-dodge.json) |
@@ -4129,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlerite Royale: All Champions Pack | 168365 | [168365-battlerite-royale-all-champions-pack.json](./168365-battlerite-royale-all-champions-pack.json) |
 | Battlers of Ekrasys | 339948 | [339948-battlers-of-ekrasys.json](./339948-battlers-of-ekrasys.json) |
 | BattleRush | 75941 | [75941-battlerush.json](./75941-battlerush.json) |
+| BattleRush 2 | 107878 | [107878-battlerush-2.json](./107878-battlerush-2.json) |
 | BattleRush: Ardennes Assault | 112474 | [112474-battlerush-ardennes-assault.json](./112474-battlerush-ardennes-assault.json) |
 | BattleRush: German AT Infantry | 170976 | [170976-battlerush-german-at-infantry.json](./170976-battlerush-german-at-infantry.json) |
 | BattleRush: German Snipers | 170983 | [170983-battlerush-german-snipers.json](./170983-battlerush-german-snipers.json) |
@@ -10640,6 +10642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Rage | 133590 | [133590-bloody-rage.json](./133590-bloody-rage.json) |
 | Bloody Raid | 148878 | [148878-bloody-raid.json](./148878-bloody-raid.json) |
 | Bloody Rally Show | 139211 | [139211-bloody-rally-show.json](./139211-bloody-rally-show.json) |
+| Bloody Rally Simulator | 107842 | [107842-bloody-rally-simulator.json](./107842-bloody-rally-simulator.json) |
 | Bloody Roads, California | 89781 | [89781-bloody-roads-california.json](./89781-bloody-roads-california.json) |
 | Bloody Roar | 2749 | [2749-bloody-roar.json](./2749-bloody-roar.json) |
 | Bloody Roar 3 | 3824 | [3824-bloody-roar-3.json](./3824-bloody-roar-3.json) |
