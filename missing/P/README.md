@@ -2718,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile Mobile | 125735 | [125735-path-of-exile-mobile.json](./125735-path-of-exile-mobile.json) |
 | Path of Exile: Ascendancy | 75571 | [75571-path-of-exile-ascendancy.json](./75571-path-of-exile-ascendancy.json) |
 | Path of Exile: Atlas of Worlds | 75572 | [75572-path-of-exile-atlas-of-worlds.json](./75572-path-of-exile-atlas-of-worlds.json) |
+| Path of Exile: Betrayal | 112085 | [112085-path-of-exile-betrayal.json](./112085-path-of-exile-betrayal.json) |
 | Path of Exile: Crucible | 257831 | [257831-path-of-exile-crucible.json](./257831-path-of-exile-crucible.json) |
 | Path of Exile: Curse of the Allflame | 411344 | [411344-path-of-exile-curse-of-the-allflame.json](./411344-path-of-exile-curse-of-the-allflame.json) |
 | Path of Exile: Echoes of the Atlas | 142400 | [142400-path-of-exile-echoes-of-the-atlas.json](./142400-path-of-exile-echoes-of-the-atlas.json) |
@@ -5732,6 +5733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PictoImage | 84824 | [84824-pictoimage.json](./84824-pictoimage.json) |
 | Pictooi | 154591 | [154591-pictooi.json](./154591-pictooi.json) |
 | PictoParty | 58457 | [58457-pictoparty.json](./58457-pictoparty.json) |
+| Pictopix | 26756 | [26756-pictopix.json](./26756-pictopix.json) |
 | Pictopix: Mosaics | 116210 | [116210-pictopix-mosaics.json](./116210-pictopix-mosaics.json) |
 | PictoPull | 212811 | [212811-pictopull.json](./212811-pictopull.json) |
 | Pictorbit | 414358 | [414358-pictorbit.json](./414358-pictorbit.json) |
@@ -13178,6 +13180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prey: Digital Deluxe Edition | 118686 | [118686-prey-digital-deluxe-edition.json](./118686-prey-digital-deluxe-edition.json) |
 | Prey: Limited Collector's Edition | 47397 | [47397-prey-limited-collectors-edition.json](./47397-prey-limited-collectors-edition.json) |
 | Prey: Mooncrash | 103300 | [103300-prey-mooncrash.json](./103300-prey-mooncrash.json) |
+| Prey: Typhon Hunter | 117748 | [117748-prey-typhon-hunter.json](./117748-prey-typhon-hunter.json) |
 | Preytiger | 181734 | [181734-preytiger.json](./181734-preytiger.json) |
 | Prezzemolo in un Viaggio da Sogno | 305292 | [305292-prezzemolo-in-un-viaggio-da-sogno.json](./305292-prezzemolo-in-un-viaggio-da-sogno.json) |
 | Prezzemolo in una Giornata da Incubo | 93026 | [93026-prezzemolo-in-una-giornata-da-incubo.json](./93026-prezzemolo-in-una-giornata-da-incubo.json) |
