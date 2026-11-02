@@ -2884,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real War | 27595 | [27595-real-war.json](./27595-real-war.json) |
 | Real War: Rogue States | 72294 | [72294-real-war-rogue-states.json](./72294-real-war-rogue-states.json) |
 | Real Warfare 1242 | 9856 | [9856-real-warfare-1242.json](./9856-real-warfare-1242.json) |
+| Real Warfare 2: Northern Crusades | 9414 | [9414-real-warfare-2-northern-crusades.json](./9414-real-warfare-2-northern-crusades.json) |
 | Real Winners | 105547 | [105547-real-winners.json](./105547-real-winners.json) |
 | Real Winners: Victoryball | 109659 | [109659-real-winners-victoryball.json](./109659-real-winners-victoryball.json) |
 | Real World | 275637 | [275637-real-world.json](./275637-real-world.json) |
@@ -3159,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaver | 194429 | [194429-reaver.json](./194429-reaver.json) |
 | Reavers of New Rome | 138133 | [138133-reavers-of-new-rome.json](./138133-reavers-of-new-rome.json) |
 | Reawait | 410490 | [410490-reawait.json](./410490-reawait.json) |
+| Reaxxion | 9413 | [9413-reaxxion.json](./9413-reaxxion.json) |
 | Rebadge | 397096 | [397096-rebadge.json](./397096-rebadge.json) |
 | Rebaixados Elite Brasil | 282828 | [282828-rebaixados-elite-brasil.json](./282828-rebaixados-elite-brasil.json) |
 | Rebaixados Elite Brasil Clássicos | 282837 | [282837-rebaixados-elite-brasil-classicos.json](./282837-rebaixados-elite-brasil-classicos.json) |
@@ -3453,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recoup | 373182 | [373182-recoup.json](./373182-recoup.json) |
 | Recovering Stolen | 336683 | [336683-recovering-stolen.json](./336683-recovering-stolen.json) |
 | Recovery Phrase | 320580 | [320580-recovery-phrase.json](./320580-recovery-phrase.json) |
+| Recovery Search and Rescue Simulation | 9412 | [9412-recovery-search-and-rescue-simulation.json](./9412-recovery-search-and-rescue-simulation.json) |
 | Recovery Syndicate | 235868 | [235868-recovery-syndicate.json](./235868-recovery-syndicate.json) |
 | Recovery Team | 301625 | [301625-recovery-team.json](./301625-recovery-team.json) |
 | Recovery: Search & Rescue | 53493 | [53493-recovery-search-and-rescue.json](./53493-recovery-search-and-rescue.json) |
@@ -4608,6 +4611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relo | 295306 | [295306-relo.json](./295306-relo.json) |
 | Reload | 183874 | [183874-reload.json](./183874-reload.json) |
 | Reload | 342109 | [342109-reload.json](./342109-reload.json) |
+| Reload | 9408 | [9408-reload.json](./9408-reload.json) |
 | Reload 2 Remember | 227470 | [227470-reload-2-remember.json](./227470-reload-2-remember.json) |
 | Reload Map Jam | 271844 | [271844-reload-map-jam.json](./271844-reload-map-jam.json) |
 | Reloader: test_subject | 168129 | [168129-reloader-test-subject.json](./168129-reloader-test-subject.json) |
@@ -5249,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 4: Berserker | 356696 | [356696-resident-evil-4-berserker.json](./356696-resident-evil-4-berserker.json) |
 | Resident Evil 4: Collector's Edition | 24211 | [24211-resident-evil-4-collectors-edition.json](./24211-resident-evil-4-collectors-edition.json) |
 | Resident Evil 4: Extra DLC Pack | 266401 | [266401-resident-evil-4-extra-dlc-pack.json](./266401-resident-evil-4-extra-dlc-pack.json) |
+| Resident Evil 4: GameStop Special Edition | 9668 | [9668-resident-evil-4-gamestop-special-edition.json](./9668-resident-evil-4-gamestop-special-edition.json) |
 | Resident Evil 4: Gold Edition | 284920 | [284920-resident-evil-4-gold-edition.json](./284920-resident-evil-4-gold-edition.json) |
 | Resident Evil 4: Limited Edition | 145054 | [145054-resident-evil-4-limited-edition.json](./145054-resident-evil-4-limited-edition.json) |
 | Resident Evil 4: Otome Edition | 29145 | [29145-resident-evil-4-otome-edition.json](./29145-resident-evil-4-otome-edition.json) |
