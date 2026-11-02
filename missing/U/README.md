@@ -1308,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Ocean 2 | 231293 | [231293-uncharted-ocean-2.json](./231293-uncharted-ocean-2.json) |
 | Uncharted Ocean: Adventures at the Poles | 262097 | [262097-uncharted-ocean-adventures-at-the-poles.json](./262097-uncharted-ocean-adventures-at-the-poles.json) |
 | Uncharted Ocean: Set Sail | 125062 | [125062-uncharted-ocean-set-sail.json](./125062-uncharted-ocean-set-sail.json) |
+| Uncharted SchoolBoy Hacker | 409305 | [409305-uncharted-schoolboy-hacker.json](./409305-uncharted-schoolboy-hacker.json) |
 | Uncharted Sectors | 375254 | [375254-uncharted-sectors.json](./375254-uncharted-sectors.json) |
 | Uncharted Space: Project 3062 | 204891 | [204891-uncharted-space-project-3062.json](./204891-uncharted-space-project-3062.json) |
 | Uncharted Tides: Port Royal | 121450 | [121450-uncharted-tides-port-royal.json](./121450-uncharted-tides-port-royal.json) |
@@ -2233,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Combat: Collector's Edition | 206064 | [206064-universal-combat-collectors-edition.json](./206064-universal-combat-collectors-edition.json) |
 | Universal Conquest | 258741 | [258741-universal-conquest.json](./258741-universal-conquest.json) |
 | Universal Flight Simulator | 207890 | [207890-universal-flight-simulator.json](./207890-universal-flight-simulator.json) |
+| Universal Flight Simulator 3 PvP | 409304 | [409304-universal-flight-simulator-3-pvp.json](./409304-universal-flight-simulator-3-pvp.json) |
 | Universal Flight Simulator: Extended | 281900 | [281900-universal-flight-simulator-extended.json](./281900-universal-flight-simulator-extended.json) |
 | Universal Garbage Station | 363855 | [363855-universal-garbage-station.json](./363855-universal-garbage-station.json) |
 | Universal Harvest: Incremental | 406890 | [406890-universal-harvest-incremental.json](./406890-universal-harvest-incremental.json) |
@@ -2512,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unotale: Card Game | 223859 | [223859-unotale-card-game.json](./223859-unotale-card-game.json) |
 | Unou Kaihatsu Series 10 Nontan to Issho Wai-wai Nippon | 303759 | [303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json](./303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json) |
 | Unou Kids DS | 124117 | [124117-unou-kids-ds.json](./124117-unou-kids-ds.json) |
+| Unou Kids: Okigaru Unou Training | 409081 | [409081-unou-kids-okigaru-unou-training.json](./409081-unou-kids-okigaru-unou-training.json) |
 | Unou no Tatsujin: Hirameki Kosodate My Angel | 124116 | [124116-unou-no-tatsujin-hirameki-kosodate-my-angel.json](./124116-unou-no-tatsujin-hirameki-kosodate-my-angel.json) |
 | Unou no Tatsujin: Machigai Sagashi Museum | 146795 | [146795-unou-no-tatsujin-machigai-sagashi-museum.json](./146795-unou-no-tatsujin-machigai-sagashi-museum.json) |
 | Unou Paradise | 289905 | [289905-unou-paradise.json](./289905-unou-paradise.json) |
@@ -2991,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uphold the Realm | 142626 | [142626-uphold-the-realm.json](./142626-uphold-the-realm.json) |
 | Upin & Ipin Universe | 347867 | [347867-upin-and-ipin-universe.json](./347867-upin-and-ipin-universe.json) |
 | Upin Dash | 174232 | [174232-upin-dash.json](./174232-upin-dash.json) |
+| Upipe Skateboard | 409089 | [409089-upipe-skateboard.json](./409089-upipe-skateboard.json) |
 | Upirja | 202499 | [202499-upirja.json](./202499-upirja.json) |
 | UPIXO In Action: Mission in Snowdriftland | 57957 | [57957-upixo-in-action-mission-in-snowdriftland.json](./57957-upixo-in-action-mission-in-snowdriftland.json) |
 | Uplands Motel | 55750 | [55750-uplands-motel.json](./55750-uplands-motel.json) |
@@ -3118,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Extreme: Street Rage | 50934 | [50934-urban-extreme-street-rage.json](./50934-urban-extreme-street-rage.json) |
 | Urban Fantasy: Vampires vs Werewolves | 169359 | [169359-urban-fantasy-vampires-vs-werewolves.json](./169359-urban-fantasy-vampires-vs-werewolves.json) |
 | Urban Farmer | 216852 | [216852-urban-farmer.json](./216852-urban-farmer.json) |
+| Urban Feud | 409113 | [409113-urban-feud.json](./409113-urban-feud.json) |
 | Urban Fight | 154900 | [154900-urban-fight.json](./154900-urban-fight.json) |
 | Urban Fight: DLC | 168033 | [168033-urban-fight-dlc.json](./168033-urban-fight-dlc.json) |
 | Urban Fighters: Battle Stars | 241804 | [241804-urban-fighters-battle-stars.json](./241804-urban-fighters-battle-stars.json) |
@@ -3142,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Grand Edition | 313215 | [313215-urban-flow-grand-edition.json](./313215-urban-flow-grand-edition.json) |
 | Urban Flow: London Extended Edition | 222049 | [222049-urban-flow-london-extended-edition.json](./222049-urban-flow-london-extended-edition.json) |
 | Urban Flow: London Rules | 237925 | [237925-urban-flow-london-rules.json](./237925-urban-flow-london-rules.json) |
+| Urban Flow: Luxury Edition | 409983 | [409983-urban-flow-luxury-edition.json](./409983-urban-flow-luxury-edition.json) |
 | Urban Flow: Mega Edition | 328807 | [328807-urban-flow-mega-edition.json](./328807-urban-flow-mega-edition.json) |
 | Urban Flow: Platinum Edition | 238741 | [238741-urban-flow-platinum-edition.json](./238741-urban-flow-platinum-edition.json) |
 | Urban Flow: Platinum Edition | 251493 | [251493-urban-flow-platinum-edition.json](./251493-urban-flow-platinum-edition.json) |
@@ -3150,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Silver Edition | 250390 | [250390-urban-flow-silver-edition.json](./250390-urban-flow-silver-edition.json) |
 | Urban Flow: Street Symphony | 304788 | [304788-urban-flow-street-symphony.json](./304788-urban-flow-street-symphony.json) |
 | Urban Flow: Streets Supplement | 240403 | [240403-urban-flow-streets-supplement.json](./240403-urban-flow-streets-supplement.json) |
+| Urban Flow: Throne Edition | 409985 | [409985-urban-flow-throne-edition.json](./409985-urban-flow-throne-edition.json) |
 | Urban Flow: Winter Expansion Pack | 238353 | [238353-urban-flow-winter-expansion-pack.json](./238353-urban-flow-winter-expansion-pack.json) |
 | Urban Flow: Winter Extended Edition | 222190 | [222190-urban-flow-winter-extended-edition.json](./222190-urban-flow-winter-extended-edition.json) |
 | Urban Flow: X-Mas Edition | 275893 | [275893-urban-flow-x-mas-edition.json](./275893-urban-flow-x-mas-edition.json) |
@@ -3159,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Hunter | 358895 | [358895-urban-hunter.json](./358895-urban-hunter.json) |
 | Urban Intel: Special Ops | 270565 | [270565-urban-intel-special-ops.json](./270565-urban-intel-special-ops.json) |
 | Urban Jungle | 281908 | [281908-urban-jungle.json](./281908-urban-jungle.json) |
+| Urban Jungle + Sticky Business | 407101 | [407101-urban-jungle-sticky-business.json](./407101-urban-jungle-sticky-business.json) |
 | Urban Jungle: Brother's Wedding Story | 401001 | [401001-urban-jungle-brothers-wedding-story.json](./401001-urban-jungle-brothers-wedding-story.json) |
 | Urban Justice | 113525 | [113525-urban-justice.json](./113525-urban-justice.json) |
 | Urban Kick Academy | 78353 | [78353-urban-kick-academy.json](./78353-urban-kick-academy.json) |
