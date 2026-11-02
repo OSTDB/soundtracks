@@ -3339,6 +3339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Your Tentacles Off My Waifu | 244765 | [244765-get-your-tentacles-off-my-waifu.json](./244765-get-your-tentacles-off-my-waifu.json) |
 | Get_the_Key | 180124 | [180124-get-the-key.json](./180124-get-the-key.json) |
 | Get-'em-All Bundle | 136351 | [136351-get-em-all-bundle.json](./136351-get-em-all-bundle.json) |
+| Get-A-Grip Chip | 132314 | [132314-get-a-grip-chip.json](./132314-get-a-grip-chip.json) |
 | GET! Boku no Mushi Tsukamaete | 49603 | [49603-get-boku-no-mushi-tsukamaete.json](./49603-get-boku-no-mushi-tsukamaete.json) |
 | Get! Monster | 240110 | [240110-get-monster.json](./240110-get-monster.json) |
 | Get!! Colonies | 67082 | [67082-get-colonies.json](./67082-get-colonies.json) |
@@ -4017,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigantic Maidestruction | 401896 | [401896-gigantic-maidestruction.json](./401896-gigantic-maidestruction.json) |
 | Gigantosaurus Dino Kart | 219436 | [219436-gigantosaurus-dino-kart.json](./219436-gigantosaurus-dino-kart.json) |
 | Gigantosaurus Dino Sports | 300466 | [300466-gigantosaurus-dino-sports.json](./300466-gigantosaurus-dino-sports.json) |
+| Gigantosaurus: The Game | 129274 | [129274-gigantosaurus-the-game.json](./129274-gigantosaurus-the-game.json) |
 | Gigantropolis | 239823 | [239823-gigantropolis.json](./239823-gigantropolis.json) |
 | Gigapocalypse | 158921 | [158921-gigapocalypse.json](./158921-gigapocalypse.json) |
 | GigaSlave | 348455 | [348455-gigaslave.json](./348455-gigaslave.json) |
@@ -4559,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glide Collide | 96927 | [96927-glide-collide.json](./96927-glide-collide.json) |
 | Glide Hockey | 80149 | [80149-glide-hockey.json](./80149-glide-hockey.json) |
 | Glide Scramble Mechanic Star Shooting | 98045 | [98045-glide-scramble-mechanic-star-shooting.json](./98045-glide-scramble-mechanic-star-shooting.json) |
+| Glider | 88366 | [88366-glider.json](./88366-glider.json) |
 | Glider 4.0 | 72313 | [72313-glider-4-0.json](./72313-glider-4-0.json) |
 | Glider Classic | 128791 | [128791-glider-classic.json](./128791-glider-classic.json) |
 | Glider Island | 32109 | [32109-glider-island.json](./32109-glider-island.json) |
