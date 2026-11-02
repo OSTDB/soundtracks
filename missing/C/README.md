@@ -11504,6 +11504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixel: Fantasy Characters | 173203 | [173203-coloring-pixel-fantasy-characters.json](./173203-coloring-pixel-fantasy-characters.json) |
 | Coloring Pixels | 105712 | [105712-coloring-pixels.json](./105712-coloring-pixels.json) |
 | Coloring Pixels: 1-Bit Pack | 214980 | [214980-coloring-pixels-1-bit-pack.json](./214980-coloring-pixels-1-bit-pack.json) |
+| Coloring Pixels: 1980s Pack | 406442 | [406442-coloring-pixels-1980s-pack.json](./406442-coloring-pixels-1980s-pack.json) |
 | Coloring Pixels: Advent 2 Pack | 162600 | [162600-coloring-pixels-advent-2-pack.json](./162600-coloring-pixels-advent-2-pack.json) |
 | Coloring Pixels: Advent 3 Pack | 225002 | [225002-coloring-pixels-advent-3-pack.json](./225002-coloring-pixels-advent-3-pack.json) |
 | Coloring Pixels: Advent 4 Pack | 227467 | [227467-coloring-pixels-advent-4-pack.json](./227467-coloring-pixels-advent-4-pack.json) |
@@ -11522,6 +11523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Collection 3 | 247490 | [247490-coloring-pixels-collection-3.json](./247490-coloring-pixels-collection-3.json) |
 | Coloring Pixels: Collection 4 | 317232 | [317232-coloring-pixels-collection-4.json](./317232-coloring-pixels-collection-4.json) |
 | Coloring Pixels: Collection 5 | 320454 | [320454-coloring-pixels-collection-5.json](./320454-coloring-pixels-collection-5.json) |
+| Coloring Pixels: Comic 2 XL Pack | 406441 | [406441-coloring-pixels-comic-2-xl-pack.json](./406441-coloring-pixels-comic-2-xl-pack.json) |
 | Coloring Pixels: Comic Pack | 393615 | [393615-coloring-pixels-comic-pack.json](./393615-coloring-pixels-comic-pack.json) |
 | Coloring Pixels: Cute Pack | 214978 | [214978-coloring-pixels-cute-pack.json](./214978-coloring-pixels-cute-pack.json) |
 | Coloring Pixels: Dinosaurs Pack | 162590 | [162590-coloring-pixels-dinosaurs-pack.json](./162590-coloring-pixels-dinosaurs-pack.json) |
@@ -14008,6 +14010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosa Nostra | 182863 | [182863-cosa-nostra.json](./182863-cosa-nostra.json) |
 | Cosa Nostra | 39108 | [39108-cosa-nostra.json](./39108-cosa-nostra.json) |
 | Cosdarica's Journey at the End of the World | 411506 | [411506-cosdaricas-journey-at-the-end-of-the-world.json](./411506-cosdaricas-journey-at-the-end-of-the-world.json) |
+| Cosette: The Untitled Game | 406445 | [406445-cosette-the-untitled-game.json](./406445-cosette-the-untitled-game.json) |
 | Cosh | 86589 | [86589-cosh.json](./86589-cosh.json) |
 | Cosm | 32693 | [32693-cosm.json](./32693-cosm.json) |
 | Cosmantic Cluster | 258492 | [258492-cosmantic-cluster.json](./258492-cosmantic-cluster.json) |
@@ -14847,6 +14850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Littlequarium | 379944 | [379944-cozy-littlequarium.json](./379944-cozy-littlequarium.json) |
 | Cozy Marbles | 292519 | [292519-cozy-marbles.json](./292519-cozy-marbles.json) |
 | Cozy Meadow | 335353 | [335353-cozy-meadow.json](./335353-cozy-meadow.json) |
+| Cozy Mining | 407047 | [407047-cozy-mining.json](./407047-cozy-mining.json) |
 | Cozy Monsters: The Mischievous Trabus | 356521 | [356521-cozy-monsters-the-mischievous-trabus.json](./356521-cozy-monsters-the-mischievous-trabus.json) |
 | Cozy Mozy | 399153 | [399153-cozy-mozy.json](./399153-cozy-mozy.json) |
 | Cozy Night | 295784 | [295784-cozy-night.json](./295784-cozy-night.json) |
