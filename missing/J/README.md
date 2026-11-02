@@ -2389,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Trigger: Lunatic Edition | 304779 | [304779-johnny-trigger-lunatic-edition.json](./304779-johnny-trigger-lunatic-edition.json) |
 | Johnny Trigger: Triple Rebel Edition | 375143 | [375143-johnny-trigger-triple-rebel-edition.json](./375143-johnny-trigger-triple-rebel-edition.json) |
 | Johnny Turbo | 331374 | [331374-johnny-turbo.json](./331374-johnny-turbo.json) |
+| Johnny Turbo's Arcade: Bad Dudes | 95025 | [95025-johnny-turbos-arcade-bad-dudes.json](./95025-johnny-turbos-arcade-bad-dudes.json) |
 | Johnny Turbo's Arcade: Express Raider | 105625 | [105625-johnny-turbos-arcade-express-raider.json](./105625-johnny-turbos-arcade-express-raider.json) |
 | Johnny Turbo's Arcade: Fighter's History | 114203 | [114203-johnny-turbos-arcade-fighters-history.json](./114203-johnny-turbos-arcade-fighters-history.json) |
 | Johnny Turbo's Arcade: Heavy Barrel | 112117 | [112117-johnny-turbos-arcade-heavy-barrel.json](./112117-johnny-turbos-arcade-heavy-barrel.json) |
