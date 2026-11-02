@@ -2155,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save 2B Young Man | 367009 | [367009-save-2b-young-man.json](./367009-save-2b-young-man.json) |
 | Save Aisha | 169842 | [169842-save-aisha.json](./169842-save-aisha.json) |
 | Save All Monsters! | 201432 | [201432-save-all-monsters.json](./201432-save-all-monsters.json) |
+| Save Amani | 422187 | [422187-save-amani.json](./422187-save-amani.json) |
 | Save and Conquer | 214442 | [214442-save-and-conquer.json](./214442-save-and-conquer.json) |
 | Save and Survive | 291688 | [291688-save-and-survive.json](./291688-save-and-survive.json) |
 | Save Billy | 186683 | [186683-save-billy.json](./186683-save-billy.json) |
@@ -6060,6 +6061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seybul Tech | 264634 | [264634-seybul-tech.json](./264634-seybul-tech.json) |
 | Seymour - Take One! | 142435 | [142435-seymour-take-one.json](./142435-seymour-take-one.json) |
 | Seymour Goes to Hollywood | 18572 | [18572-seymour-goes-to-hollywood.json](./18572-seymour-goes-to-hollywood.json) |
+| Sezza vs. Quackmas | 421595 | [421595-sezza-vs-quackmas.json](./421595-sezza-vs-quackmas.json) |
 | SF-HiSplitter | 131143 | [131143-sf-hisplitter.json](./131143-sf-hisplitter.json) |
 | SF: Onee-san Teacher | 83371 | [83371-sf-onee-san-teacher.json](./83371-sf-onee-san-teacher.json) |
 | SF2K: Class Dismissed | 173384 | [173384-sf2k-class-dismissed.json](./173384-sf2k-class-dismissed.json) |
@@ -7540,6 +7542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shi-Ro | 110064 | [110064-shi-ro.json](./110064-shi-ro.json) |
 | Shi's Summer Battle | 360683 | [360683-shis-summer-battle.json](./360683-shis-summer-battle.json) |
 | Shia LaBeouf: Meme Master Dating Simulator | 12076 | [12076-shia-labeouf-meme-master-dating-simulator.json](./12076-shia-labeouf-meme-master-dating-simulator.json) |
+| Shiawase Kazoku-bu | 422204 | [422204-shiawase-kazoku-bu.json](./422204-shiawase-kazoku-bu.json) |
 | Shiawase Shou no Kanrinin-san | 136792 | [136792-shiawase-shou-no-kanrinin-san.json](./136792-shiawase-shou-no-kanrinin-san.json) |
 | Shiba Army | 186410 | [186410-shiba-army.json](./186410-shiba-army.json) |
 | Shiba Boop! | 397016 | [397016-shiba-boop.json](./397016-shiba-boop.json) |
@@ -8853,6 +8856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shout Seven | 159245 | [159245-shout-seven.json](./159245-shout-seven.json) |
 | Shoutrageous! | 101952 | [101952-shoutrageous.json](./101952-shoutrageous.json) |
 | Shovel Adventure | 220784 | [220784-shovel-adventure.json](./220784-shovel-adventure.json) |
+| Shovel Adventure: The Next Quest | 421596 | [421596-shovel-adventure-the-next-quest.json](./421596-shovel-adventure-the-next-quest.json) |
 | Shovel Escape | 172450 | [172450-shovel-escape.json](./172450-shovel-escape.json) |
 | Shovel Game | 361337 | [361337-shovel-game.json](./361337-shovel-game.json) |
 | Shovel Knight Showdown | 27242 | [27242-shovel-knight-showdown.json](./27242-shovel-knight-showdown.json) |
@@ -11642,6 +11646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skullnight | 195587 | [195587-skullnight.json](./195587-skullnight.json) |
 | SkullPirates | 76869 | [76869-skullpirates.json](./76869-skullpirates.json) |
 | Skullpogo | 242471 | [242471-skullpogo.json](./242471-skullpogo.json) |
+| Skulls and Sweets | 421579 | [421579-skulls-and-sweets.json](./421579-skulls-and-sweets.json) |
 | Skulls of Olympus | 291903 | [291903-skulls-of-olympus.json](./291903-skulls-of-olympus.json) |
 | Skulls of the Shogun | 9023 | [9023-skulls-of-the-shogun.json](./9023-skulls-of-the-shogun.json) |
 | Skulls of the Shogun: Bone-A-Fide Edition | 51906 | [51906-skulls-of-the-shogun-bone-a-fide-edition.json](./51906-skulls-of-the-shogun-bone-a-fide-edition.json) |
@@ -13549,6 +13554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smells Like Fear Blossoms | 364838 | [364838-smells-like-fear-blossoms.json](./364838-smells-like-fear-blossoms.json) |
 | Smells Like Grandma's | 271721 | [271721-smells-like-grandmas.json](./271721-smells-like-grandmas.json) |
 | Smelly Bubbles | 411679 | [411679-smelly-bubbles.json](./411679-smelly-bubbles.json) |
+| Smelly Cat | 421598 | [421598-smelly-cat.json](./421598-smelly-cat.json) |
 | Smelogs Playground | 182270 | [182270-smelogs-playground.json](./182270-smelogs-playground.json) |
 | Smelter | 119191 | [119191-smelter.json](./119191-smelter.json) |
 | Smelter | 150757 | [150757-smelter.json](./150757-smelter.json) |
@@ -14582,6 +14588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowdrift | 401698 | [401698-snowdrift.json](./401698-snowdrift.json) |
 | Snowdrop Escape | 170562 | [170562-snowdrop-escape.json](./170562-snowdrop-escape.json) |
 | Snowdrop the Blade Master | 265629 | [265629-snowdrop-the-blade-master.json](./265629-snowdrop-the-blade-master.json) |
+| Snowed In | 421605 | [421605-snowed-in.json](./421605-snowed-in.json) |
 | Snower's New Clothes | 116923 | [116923-snowers-new-clothes.json](./116923-snowers-new-clothes.json) |
 | Snowfall | 303208 | [303208-snowfall.json](./303208-snowfall.json) |
 | SnowFall | 81929 | [81929-snowfall.json](./81929-snowfall.json) |
@@ -17073,6 +17080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sora Yume | 61273 | [61273-sora-yume.json](./61273-sora-yume.json) |
 | Sora Yume Portable | 221617 | [221617-sora-yume-portable.json](./221617-sora-yume-portable.json) |
 | Sora: Blue Sky Edition | 54386 | [54386-sora-blue-sky-edition.json](./54386-sora-blue-sky-edition.json) |
+| Sora: Oasis Treasures | 421570 | [421570-sora-oasis-treasures.json](./421570-sora-oasis-treasures.json) |
 | Sora: Songs of the Stone | 403724 | [403724-sora-songs-of-the-stone.json](./403724-sora-songs-of-the-stone.json) |
 | Sorades - Die Befreiung | 91547 | [91547-sorades-die-befreiung.json](./91547-sorades-die-befreiung.json) |
 | Soraja Invaders | 302231 | [302231-soraja-invaders.json](./302231-soraja-invaders.json) |
@@ -17797,6 +17805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: The Fractured But Whole - Bring the Crunch | 105422 | [105422-south-park-the-fractured-but-whole-bring-the-crunch.json](./105422-south-park-the-fractured-but-whole-bring-the-crunch.json) |
 | South Park: The Fractured but Whole - Collector's Edition | 11003 | [11003-south-park-the-fractured-but-whole-collectors-edition.json](./11003-south-park-the-fractured-but-whole-collectors-edition.json) |
 | South Park: The Fractured But Whole - Danger Deck | 153697 | [153697-south-park-the-fractured-but-whole-danger-deck.json](./153697-south-park-the-fractured-but-whole-danger-deck.json) |
+| South Park: The Fractured But Whole - Deluxe Edition | 422193 | [422193-south-park-the-fractured-but-whole-deluxe-edition.json](./422193-south-park-the-fractured-but-whole-deluxe-edition.json) |
 | South Park: The Fractured But Whole - From Dusk Till Casa Bonita | 96134 | [96134-south-park-the-fractured-but-whole-from-dusk-till-casa-bonita.json](./96134-south-park-the-fractured-but-whole-from-dusk-till-casa-bonita.json) |
 | South Park: The Fractured but Whole - Gold Edition | 53622 | [53622-south-park-the-fractured-but-whole-gold-edition.json](./53622-south-park-the-fractured-but-whole-gold-edition.json) |
 | South Park: The Fractured But Whole - Relics of Zaron | 74745 | [74745-south-park-the-fractured-but-whole-relics-of-zaron.json](./74745-south-park-the-fractured-but-whole-relics-of-zaron.json) |
@@ -18370,6 +18379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -25070,6 +25080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick War: Hero Tower Defense | 216135 | [216135-stick-war-hero-tower-defense.json](./216135-stick-war-hero-tower-defense.json) |
 | Stick War: Legacy | 239909 | [239909-stick-war-legacy.json](./239909-stick-war-legacy.json) |
 | Stick War: Saga | 233777 | [233777-stick-war-saga.json](./233777-stick-war-saga.json) |
+| Stick Wars: The Laneborn | 421555 | [421555-stick-wars-the-laneborn.json](./421555-stick-wars-the-laneborn.json) |
 | Stick With It | 366557 | [366557-stick-with-it.json](./366557-stick-with-it.json) |
 | Stickcross Classic | 390470 | [390470-stickcross-classic.json](./390470-stickcross-classic.json) |
 | StickDodgeVR | 51573 | [51573-stickdodgevr.json](./51573-stickdodgevr.json) |
@@ -31118,6 +31129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Street Basketball 2 | 64097 | [64097-super-street-basketball-2.json](./64097-super-street-basketball-2.json) |
 | Super Street Fighter II | 322188 | [322188-super-street-fighter-ii.json](./322188-super-street-fighter-ii.json) |
 | Super Street Fighter II Turbo Pinball FX | 55062 | [55062-super-street-fighter-ii-turbo-pinball-fx.json](./55062-super-street-fighter-ii-turbo-pinball-fx.json) |
+| Super Street Fighter II Turbo: New Legacy | 422195 | [422195-super-street-fighter-ii-turbo-new-legacy.json](./422195-super-street-fighter-ii-turbo-new-legacy.json) |
 | Super Street Fighter II Turbo: Revival | 45195 | [45195-super-street-fighter-ii-turbo-revival.json](./45195-super-street-fighter-ii-turbo-revival.json) |
 | Super Street Fighter II: The New Challengers | 12860 | [12860-super-street-fighter-ii-the-new-challengers.json](./12860-super-street-fighter-ii-the-new-challengers.json) |
 | Super Street Fighter II: The New Challengers | 198933 | [198933-super-street-fighter-ii-the-new-challengers.json](./198933-super-street-fighter-ii-the-new-challengers.json) |
