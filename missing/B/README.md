@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back from the other world, I missed love | 337707 | [337707-back-from-the-other-world-i-missed-love.json](./337707-back-from-the-other-world-i-missed-love.json) |
 | Back from Void | 275069 | [275069-back-from-void.json](./275069-back-from-void.json) |
 | Back Home for Christmas | 175840 | [175840-back-home-for-christmas.json](./175840-back-home-for-christmas.json) |
+| Back in 1995 | 19883 | [19883-back-in-1995.json](./19883-back-in-1995.json) |
 | Back In 1995 64 | 85503 | [85503-back-in-1995-64.json](./85503-back-in-1995-64.json) |
 | Back in Business | 272108 | [272108-back-in-business.json](./272108-back-in-business.json) |
 | Back in Time | 367896 | [367896-back-in-time.json](./367896-back-in-time.json) |
@@ -899,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3015,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BassMasters 2000 | 3420 | [3420-bassmasters-2000.json](./3420-bassmasters-2000.json) |
 | BassTour | 142320 | [142320-basstour.json](./142320-basstour.json) |
 | Bastard | 101458 | [101458-bastard.json](./101458-bastard.json) |
+| Bastard Bonds | 19724 | [19724-bastard-bonds.json](./19724-bastard-bonds.json) |
 | Bastard Little Zombie | 133697 | [133697-bastard-little-zombie.json](./133697-bastard-little-zombie.json) |
 | Bastard!! Ankoku no Hakaishin | 65403 | [65403-bastard-ankoku-no-hakaishin.json](./65403-bastard-ankoku-no-hakaishin.json) |
 | Basted | 67666 | [67666-basted.json](./67666-basted.json) |
@@ -8068,6 +8071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Dancer | 351611 | [351611-bit-dancer.json](./351611-bit-dancer.json) |
 | Bit Digger | 65329 | [65329-bit-digger.json](./65329-bit-digger.json) |
 | Bit Dungeon | 60772 | [60772-bit-dungeon.json](./60772-bit-dungeon.json) |
+| Bit Dungeon II | 24557 | [24557-bit-dungeon-ii.json](./24557-bit-dungeon-ii.json) |
 | bit Dungeon III | 116771 | [116771-bit-dungeon-iii.json](./116771-bit-dungeon-iii.json) |
 | Bit Evolution | 35966 | [35966-bit-evolution.json](./35966-bit-evolution.json) |
 | Bit Generations: Boundish | 94200 | [94200-bit-generations-boundish.json](./94200-bit-generations-boundish.json) |
@@ -8470,6 +8474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Jewel | 76509 | [76509-black-jewel.json](./76509-black-jewel.json) |
 | Black Knight Adventure | 57390 | [57390-black-knight-adventure.json](./57390-black-knight-adventure.json) |
 | Black Knight and White Devil | 108942 | [108942-black-knight-and-white-devil.json](./108942-black-knight-and-white-devil.json) |
+| Black Knight Sword | 19913 | [19913-black-knight-sword.json](./19913-black-knight-sword.json) |
 | Black Knight: Marine Strike Fighter | 71051 | [71051-black-knight-marine-strike-fighter.json](./71051-black-knight-marine-strike-fighter.json) |
 | Black Knight: Milena | 171335 | [171335-black-knight-milena.json](./171335-black-knight-milena.json) |
 | Black Lake | 410926 | [410926-black-lake.json](./410926-black-lake.json) |
@@ -8614,6 +8619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Stone: Magic & Steel | 5750 | [5750-black-stone-magic-and-steel.json](./5750-black-stone-magic-and-steel.json) |
 | Black Submarine: Deep Seek | 312208 | [312208-black-submarine-deep-seek.json](./312208-black-submarine-deep-seek.json) |
 | Black Sun | 380004 | [380004-black-sun.json](./380004-black-sun.json) |
+| Black Survival | 54956 | [54956-black-survival.json](./54956-black-survival.json) |
 | Black Survival: Return to Lumia | 282115 | [282115-black-survival-return-to-lumia.json](./282115-black-survival-return-to-lumia.json) |
 | Black Swan | 30395 | [30395-black-swan.json](./30395-black-swan.json) |
 | Black Swan: Collector's Edition | 196315 | [196315-black-swan-collectors-edition.json](./196315-black-swan-collectors-edition.json) |
@@ -10841,6 +10847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Detective: A Hotel in Scarlet | 400505 | [400505-blue-detective-a-hotel-in-scarlet.json](./400505-blue-detective-a-hotel-in-scarlet.json) |
 | Blue Dragon | 6923 | [6923-blue-dragon.json](./6923-blue-dragon.json) |
 | Blue Dragon | 79116 | [79116-blue-dragon.json](./79116-blue-dragon.json) |
+| Blue Dragon Plus | 19939 | [19939-blue-dragon-plus.json](./19939-blue-dragon-plus.json) |
 | Blue Dragon: Awakened Shadow | 20465 | [20465-blue-dragon-awakened-shadow.json](./20465-blue-dragon-awakened-shadow.json) |
 | Blue Dragon: Shuffle Dungeon | 259863 | [259863-blue-dragon-shuffle-dungeon.json](./259863-blue-dragon-shuffle-dungeon.json) |
 | Blue Drifter | 129462 | [129462-blue-drifter.json](./129462-blue-drifter.json) |
@@ -12479,6 +12486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands: The Handsome Collection | 14548 | [14548-borderlands-the-handsome-collection.json](./14548-borderlands-the-handsome-collection.json) |
 | Borderlands: The Pre-Sequel - Claptastic Voyage | 13919 | [13919-borderlands-the-pre-sequel-claptastic-voyage.json](./13919-borderlands-the-pre-sequel-claptastic-voyage.json) |
 | Borderlands: The Pre-Sequel - Handsome Jack Doppelganger | 186629 | [186629-borderlands-the-pre-sequel-handsome-jack-doppelganger.json](./186629-borderlands-the-pre-sequel-handsome-jack-doppelganger.json) |
+| Borderlands: The Pre-Sequel - Lady Hammerlock The Baroness | 52687 | [52687-borderlands-the-pre-sequel-lady-hammerlock-the-baroness.json](./52687-borderlands-the-pre-sequel-lady-hammerlock-the-baroness.json) |
 | Borderlands: The Pre-Sequel - Shock Drop Slaughter Pit | 13917 | [13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json](./13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json) |
 | Borderlands: The Pre-Sequel - The Holodome Onslaught | 13918 | [13918-borderlands-the-pre-sequel-the-holodome-onslaught.json](./13918-borderlands-the-pre-sequel-the-holodome-onslaught.json) |
 | Borderlands: The Secret Armory of General Knoxx | 13915 | [13915-borderlands-the-secret-armory-of-general-knoxx.json](./13915-borderlands-the-secret-armory-of-general-knoxx.json) |
@@ -15318,6 +15326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble Nostalgie | 251020 | [251020-bubble-bobble-nostalgie.json](./251020-bubble-bobble-nostalgie.json) |
 | Bubble Bobble Nostalgie: Christmas Edition | 251124 | [251124-bubble-bobble-nostalgie-christmas-edition.json](./251124-bubble-bobble-nostalgie-christmas-edition.json) |
 | Bubble Bobble Part 2 | 7801 | [7801-bubble-bobble-part-2.json](./7801-bubble-bobble-part-2.json) |
+| Bubble Bobble Revolution | 20577 | [20577-bubble-bobble-revolution.json](./20577-bubble-bobble-revolution.json) |
 | Bubble Bobble The Revival | 335465 | [335465-bubble-bobble-the-revival.json](./335465-bubble-bobble-the-revival.json) |
 | Bubble Bobble: Old & New | 49162 | [49162-bubble-bobble-old-and-new.json](./49162-bubble-bobble-old-and-new.json) |
 | Bubble Bobble: Return of Great Dragon | 321668 | [321668-bubble-bobble-return-of-great-dragon.json](./321668-bubble-bobble-return-of-great-dragon.json) |
@@ -15708,6 +15717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug-o-Buster | 322985 | [322985-bug-o-buster.json](./322985-bug-o-buster.json) |
 | Bug-Off! | 210321 | [210321-bug-off.json](./210321-bug-off.json) |
 | Bug: Beetles Underground | 254999 | [254999-bug-beetles-underground.json](./254999-bug-beetles-underground.json) |
+| Bug! | 19735 | [19735-bug.json](./19735-bug.json) |
 | Bug!Ban!Break! | 390484 | [390484-bug-ban-break.json](./390484-bug-ban-break.json) |
 | Bug’s Quest for Tapes | 354570 | [354570-bug-s-quest-for-tapes.json](./354570-bug-s-quest-for-tapes.json) |
 | Bug×Bug | 285389 | [285389-bug-bug.json](./285389-bug-bug.json) |
@@ -16629,6 +16639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Post II | 56191 | [56191-burning-post-ii.json](./56191-burning-post-ii.json) |
 | Burning Questions | 302494 | [302494-burning-questions.json](./302494-burning-questions.json) |
 | Burning Rainbow | 380499 | [380499-burning-rainbow.json](./380499-burning-rainbow.json) |
+| Burning Rangers | 19666 | [19666-burning-rangers.json](./19666-burning-rangers.json) |
 | Burning Rangers Tribute | 335632 | [335632-burning-rangers-tribute.json](./335632-burning-rangers-tribute.json) |
 | Burning Ravager | 180816 | [180816-burning-ravager.json](./180816-burning-ravager.json) |
 | Burning Regolith | 419155 | [419155-burning-regolith.json](./419155-burning-regolith.json) |
