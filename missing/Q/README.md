@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadrium 2 | 250882 | [250882-quadrium-2.json](./250882-quadrium-2.json) |
 | Quadrium 3 | 287228 | [287228-quadrium-3.json](./287228-quadrium-3.json) |
 | Quadrivium: Paths of History | 341317 | [341317-quadrivium-paths-of-history.json](./341317-quadrivium-paths-of-history.json) |
+| Quadrix | 408418 | [408418-quadrix.json](./408418-quadrix.json) |
 | Quadrobat | 209950 | [209950-quadrobat.json](./209950-quadrobat.json) |
 | Quadrofriend | 347172 | [347172-quadrofriend.json](./347172-quadrofriend.json) |
 | Quadroids | 264136 | [264136-quadroids.json](./264136-quadroids.json) |
@@ -1184,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuizKnock Stadium | 153511 | [153511-quizknock-stadium.json](./153511-quizknock-stadium.json) |
 | Quizl | 225272 | [225272-quizl.json](./225272-quizl.json) |
 | QuizMania | 320156 | [320156-quizmania.json](./320156-quizmania.json) |
+| QuizMasters | 408423 | [408423-quizmasters.json](./408423-quizmasters.json) |
 | QuizMi | 318989 | [318989-quizmi.json](./318989-quizmi.json) |
 | QuizPoker: Mix of Quiz and Poker | 185972 | [185972-quizpoker-mix-of-quiz-and-poker.json](./185972-quizpoker-mix-of-quiz-and-poker.json) |
 | Quiztastic | 342281 | [342281-quiztastic.json](./342281-quiztastic.json) |
