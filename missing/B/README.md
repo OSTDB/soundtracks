@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3206,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Telltale Series - Episode 1: Realm of Shadows | 26638 | [26638-batman-the-telltale-series-episode-1-realm-of-shadows.json](./26638-batman-the-telltale-series-episode-1-realm-of-shadows.json) |
 | Batman: The Telltale Series - Episode 2: Children of Arkham | 26964 | [26964-batman-the-telltale-series-episode-2-children-of-arkham.json](./26964-batman-the-telltale-series-episode-2-children-of-arkham.json) |
 | Batman: The Telltale Series - Episode 4: Guardian of Gotham | 115071 | [115071-batman-the-telltale-series-episode-4-guardian-of-gotham.json](./115071-batman-the-telltale-series-episode-4-guardian-of-gotham.json) |
+| Batman: The Telltale Series - Episode 5: City of Light | 115072 | [115072-batman-the-telltale-series-episode-5-city-of-light.json](./115072-batman-the-telltale-series-episode-5-city-of-light.json) |
 | Batman: The Telltale Series - Shadows Mode | 127561 | [127561-batman-the-telltale-series-shadows-mode.json](./127561-batman-the-telltale-series-shadows-mode.json) |
 | Batman: The Video Game | 10510 | [10510-batman-the-video-game.json](./10510-batman-the-video-game.json) |
 | Batman: The Video Game | 49226 | [49226-batman-the-video-game.json](./49226-batman-the-video-game.json) |
@@ -17135,6 +17137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bye Bye! Police! | 384866 | [384866-bye-bye-police.json](./384866-bye-bye-police.json) |
 | Bye Sweet Carole: Deluxe Edition | 401673 | [401673-bye-sweet-carole-deluxe-edition.json](./401673-bye-sweet-carole-deluxe-edition.json) |
 | Bye-Bye Bindings! | 368364 | [368364-bye-bye-bindings.json](./368364-bye-bye-bindings.json) |
+| Bye-Bye Boxboy! | 26350 | [26350-bye-bye-boxboy.json](./26350-bye-bye-boxboy.json) |
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
 | Bygg Båtar med Mulle Meck | 97733 | [97733-bygg-batar-med-mulle-meck.json](./97733-bygg-batar-med-mulle-meck.json) |
 | Bygg båtar med Mulle Meck: Specialversion | 319813 | [319813-bygg-batar-med-mulle-meck-specialversion.json](./319813-bygg-batar-med-mulle-meck-specialversion.json) |
