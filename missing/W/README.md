@@ -2030,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarSphere: The Worthy Branch | 289901 | [289901-warsphere-the-worthy-branch.json](./289901-warsphere-the-worthy-branch.json) |
 | Warspirits | 297483 | [297483-warspirits.json](./297483-warspirits.json) |
 | Warsport | 93325 | [93325-warsport.json](./93325-warsport.json) |
+| Warstead | 422825 | [422825-warstead.json](./422825-warstead.json) |
 | Warstride Challenges | 148964 | [148964-warstride-challenges.json](./148964-warstride-challenges.json) |
 | Warsword Conquest | 356193 | [356193-warsword-conquest.json](./356193-warsword-conquest.json) |
 | Wart | 195350 | [195350-wart.json](./195350-wart.json) |
@@ -5473,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings 2: Aces High | 42577 | [42577-wings-2-aces-high.json](./42577-wings-2-aces-high.json) |
 | Wings of Angels | 247991 | [247991-wings-of-angels.json](./247991-wings-of-angels.json) |
 | Wings of Aviora | 390085 | [390085-wings-of-aviora.json](./390085-wings-of-aviora.json) |
+| Wings of Beyond | 422794 | [422794-wings-of-beyond.json](./422794-wings-of-beyond.json) |
 | Wings of Bluestar | 27941 | [27941-wings-of-bluestar.json](./27941-wings-of-bluestar.json) |
 | Wings of Dawn | 401817 | [401817-wings-of-dawn.json](./401817-wings-of-dawn.json) |
 | Wings of Destiny | 15484 | [15484-wings-of-destiny.json](./15484-wings-of-destiny.json) |
