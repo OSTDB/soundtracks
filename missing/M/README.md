@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Dojo | 29627 | [29627-mad-dojo.json](./29627-mad-dojo.json) |
 | Mad Donna | 40366 | [40366-mad-donna.json](./40366-mad-donna.json) |
 | Mad Driver | 55708 | [55708-mad-driver.json](./55708-mad-driver.json) |
+| Mad Ever After | 412748 | [412748-mad-ever-after.json](./412748-mad-ever-after.json) |
 | Mad Experiments 2: Escape Room | 195600 | [195600-mad-experiments-2-escape-room.json](./195600-mad-experiments-2-escape-room.json) |
 | Mad Experiments 2: Premium Pack | 263048 | [263048-mad-experiments-2-premium-pack.json](./263048-mad-experiments-2-premium-pack.json) |
 | Mad Experiments: Escape Room | 127216 | [127216-mad-experiments-escape-room.json](./127216-mad-experiments-escape-room.json) |
@@ -4413,6 +4414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Rivals: Season 6 - Night at Museum | 381240 | [381240-marvel-rivals-season-6-night-at-museum.json](./381240-marvel-rivals-season-6-night-at-museum.json) |
 | Marvel Rivals: Season 7 - The Hunt is On | 395763 | [395763-marvel-rivals-season-7-the-hunt-is-on.json](./395763-marvel-rivals-season-7-the-hunt-is-on.json) |
 | Marvel Rivals: Season 9 – The Mystery of Thebes | 410021 | [410021-marvel-rivals-season-9-the-mystery-of-thebes.json](./410021-marvel-rivals-season-9-the-mystery-of-thebes.json) |
+| Marvel Rivals: Season 9.5 – The Hood | 412709 | [412709-marvel-rivals-season-9-5-the-hood.json](./412709-marvel-rivals-season-9-5-the-hood.json) |
 | Marvel Snap | 202279 | [202279-marvel-snap.json](./202279-marvel-snap.json) |
 | Marvel Spider-Man | 198900 | [198900-marvel-spider-man.json](./198900-marvel-spider-man.json) |
 | Marvel Spider-Man Unlimited | 89103 | [89103-marvel-spider-man-unlimited.json](./89103-marvel-spider-man-unlimited.json) |
@@ -6848,6 +6850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Capital | 149383 | [149383-mega-capital.json](./149383-mega-capital.json) |
 | Mega Carrier Simulator | 392170 | [392170-mega-carrier-simulator.json](./392170-mega-carrier-simulator.json) |
 | Mega Casanova | 270229 | [270229-mega-casanova.json](./270229-mega-casanova.json) |
+| Mega Cat Studios Collection | 413408 | [413408-mega-cat-studios-collection.json](./413408-mega-cat-studios-collection.json) |
 | Mega Cat Studios Collection 1 | 130688 | [130688-mega-cat-studios-collection-1.json](./130688-mega-cat-studios-collection-1.json) |
 | Mega Cat Studios Collection 2 | 145832 | [145832-mega-cat-studios-collection-2.json](./145832-mega-cat-studios-collection-2.json) |
 | Mega City Force | 238767 | [238767-mega-city-force.json](./238767-mega-city-force.json) |
@@ -8696,6 +8699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Academy | 354983 | [354983-merge-academy.json](./354983-merge-academy.json) |
 | Merge AirPlane | 227501 | [227501-merge-airplane.json](./227501-merge-airplane.json) |
 | Merge Archers: Bow and Arrow | 245687 | [245687-merge-archers-bow-and-arrow.json](./245687-merge-archers-bow-and-arrow.json) |
+| Merge Assault | 413365 | [413365-merge-assault.json](./413365-merge-assault.json) |
 | Merge Battle | 102592 | [102592-merge-battle.json](./102592-merge-battle.json) |
 | Merge Beasts: Defense Game | 202622 | [202622-merge-beasts-defense-game.json](./202622-merge-beasts-defense-game.json) |
 | Merge Bistro | 248103 | [248103-merge-bistro.json](./248103-merge-bistro.json) |
@@ -11777,6 +11781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper & Dungeon RPG | 324153 | [324153-minesweeper-and-dungeon-rpg.json](./324153-minesweeper-and-dungeon-rpg.json) |
 | Minesweeper 101 | 87161 | [87161-minesweeper-101.json](./87161-minesweeper-101.json) |
 | Minesweeper 3d | 349110 | [349110-minesweeper-3d.json](./349110-minesweeper-3d.json) |
+| Minesweeper 3D | 412739 | [412739-minesweeper-3d.json](./412739-minesweeper-3d.json) |
 | MineSweeper 3D | 368071 | [368071-minesweeper-3d.json](./368071-minesweeper-3d.json) |
 | Minesweeper Arena | 395161 | [395161-minesweeper-arena.json](./395161-minesweeper-arena.json) |
 | Minesweeper But the First Tile is Always a Mine | 327378 | [327378-minesweeper-but-the-first-tile-is-always-a-mine.json](./327378-minesweeper-but-the-first-tile-is-always-a-mine.json) |
@@ -12561,6 +12566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mire | 199393 | [199393-mire.json](./199393-mire.json) |
 | Mire | 339823 | [339823-mire.json](./339823-mire.json) |
 | Mirealle | 352390 | [352390-mirealle.json](./352390-mirealle.json) |
+| Mireglow | 413366 | [413366-mireglow.json](./413366-mireglow.json) |
 | Mireille and Amrita, the Forest of Illusions | 188512 | [188512-mireille-and-amrita-the-forest-of-illusions.json](./188512-mireille-and-amrita-the-forest-of-illusions.json) |
 | Mirelaine | 360065 | [360065-mirelaine.json](./360065-mirelaine.json) |
 | Miriam: The Escape | 175703 | [175703-miriam-the-escape.json](./175703-miriam-the-escape.json) |
@@ -12673,6 +12679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Satsuki Edition | 225039 | [225039-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-satsuki-edition.json](./225039-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-satsuki-edition.json) |
 | Mischief House | 408864 | [408864-mischief-house.json](./408864-mischief-house.json) |
 | Mischief Makers | 3412 | [3412-mischief-makers.json](./3412-mischief-makers.json) |
+| Mischief Mandarin | 412790 | [412790-mischief-mandarin.json](./412790-mischief-mandarin.json) |
 | Mischief Motors | 294130 | [294130-mischief-motors.json](./294130-mischief-motors.json) |
 | Mischief Moves In | 414166 | [414166-mischief-moves-in.json](./414166-mischief-moves-in.json) |
 | Mischief on Main Street | 105232 | [105232-mischief-on-main-street.json](./105232-mischief-on-main-street.json) |
@@ -12964,6 +12971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Chao | 330713 | [330713-mission-chao.json](./330713-mission-chao.json) |
 | Mission: Demolition | 74371 | [74371-mission-demolition.json](./74371-mission-demolition.json) |
 | Mission: Driver | 210855 | [210855-mission-driver.json](./210855-mission-driver.json) |
+| Mission: Earth | 413391 | [413391-mission-earth.json](./413391-mission-earth.json) |
 | Mission: Escape | 271726 | [271726-mission-escape.json](./271726-mission-escape.json) |
 | Mission: Escape from Island | 38816 | [38816-mission-escape-from-island.json](./38816-mission-escape-from-island.json) |
 | Mission: Escape from Island 2 | 82472 | [82472-mission-escape-from-island-2.json](./82472-mission-escape-from-island-2.json) |
@@ -13709,6 +13717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modest Kind | 68613 | [68613-modest-kind.json](./68613-modest-kind.json) |
 | Modi i Nanna: Sprytne Smyki | 176138 | [176138-modi-i-nanna-sprytne-smyki.json](./176138-modi-i-nanna-sprytne-smyki.json) |
 | Modice | 421198 | [421198-modice.json](./421198-modice.json) |
+| Modified Girl Eurie! | 412711 | [412711-modified-girl-eurie.json](./412711-modified-girl-eurie.json) |
 | Modified Spaceship | 301605 | [301605-modified-spaceship.json](./301605-modified-spaceship.json) |
 | ModNation Racers | 4841 | [4841-modnation-racers.json](./4841-modnation-racers.json) |
 | Modo Defence | 238451 | [238451-modo-defence.json](./238451-modo-defence.json) |
@@ -14430,6 +14439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monolith Bay | 154570 | [154570-monolith-bay.json](./154570-monolith-bay.json) |
 | Monolith O Pesadelo | 265202 | [265202-monolith-o-pesadelo.json](./265202-monolith-o-pesadelo.json) |
 | Monolith VR | 160155 | [160155-monolith-vr.json](./160155-monolith-vr.json) |
+| Monolith: Dark Matter | 412723 | [412723-monolith-dark-matter.json](./412723-monolith-dark-matter.json) |
 | Monolith: Rogue TD | 379937 | [379937-monolith-rogue-td.json](./379937-monolith-rogue-td.json) |
 | Monolith: The Horror Comp | 280711 | [280711-monolith-the-horror-comp.json](./280711-monolith-the-horror-comp.json) |
 | Monolith's Dreamers | 343261 | [343261-monoliths-dreamers.json](./343261-monoliths-dreamers.json) |
@@ -20227,6 +20237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery at Stonyford Bridge | 121333 | [121333-mystery-at-stonyford-bridge.json](./121333-mystery-at-stonyford-bridge.json) |
 | Mystery at the Movie Club | 284178 | [284178-mystery-at-the-movie-club.json](./284178-mystery-at-the-movie-club.json) |
 | Mystery At Woodbrook Hall: Hidden Object Game | 197743 | [197743-mystery-at-woodbrook-hall-hidden-object-game.json](./197743-mystery-at-woodbrook-hall-hidden-object-game.json) |
+| Mystery Box | 413367 | [413367-mystery-box.json](./413367-mystery-box.json) |
 | Mystery Box 4-in-1 Bundle | 328508 | [328508-mystery-box-4-in-1-bundle.json](./328508-mystery-box-4-in-1-bundle.json) |
 | Mystery Box 5: Elements | 292251 | [292251-mystery-box-5-elements.json](./292251-mystery-box-5-elements.json) |
 | Mystery Box Simulator | 422703 | [422703-mystery-box-simulator.json](./422703-mystery-box-simulator.json) |
