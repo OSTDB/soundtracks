@@ -3827,6 +3827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Snack Bar | 231781 | [231781-cat-snack-bar.json](./231781-cat-snack-bar.json) |
 | Cat Snap | 374884 | [374884-cat-snap.json](./374884-cat-snap.json) |
 | Cat Sokoban | 135868 | [135868-cat-sokoban.json](./135868-cat-sokoban.json) |
+| Cat Sorter VR | 54631 | [54631-cat-sorter-vr.json](./54631-cat-sorter-vr.json) |
 | Cat Souls | 244218 | [244218-cat-souls.json](./244218-cat-souls.json) |
 | Cat Spa | 224080 | [224080-cat-spa.json](./224080-cat-spa.json) |
 | Cat Spotting Challenge! | 333518 | [333518-cat-spotting-challenge.json](./333518-cat-spotting-challenge.json) |
@@ -11963,6 +11964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command Ops 2: The Cauldron Vol. 5 | 170397 | [170397-command-ops-2-the-cauldron-vol-5.json](./170397-command-ops-2-the-cauldron-vol-5.json) |
 | Command Ops 2: Westwall Vol. 7 | 170399 | [170399-command-ops-2-westwall-vol-7.json](./170399-command-ops-2-westwall-vol-7.json) |
 | Command Ops: Battles for Greece | 74324 | [74324-command-ops-battles-for-greece.json](./74324-command-ops-battles-for-greece.json) |
+| Command Ops: Battles from the Bulge | 54653 | [54653-command-ops-battles-from-the-bulge.json](./54653-command-ops-battles-from-the-bulge.json) |
 | Command Ops: Highway to the Reich | 63093 | [63093-command-ops-highway-to-the-reich.json](./63093-command-ops-highway-to-the-reich.json) |
 | Command Thousands Troops | 391144 | [391144-command-thousands-troops.json](./391144-command-thousands-troops.json) |
 | Command War : Super Special Battle & War Game | 252637 | [252637-command-war-super-special-battle-and-war-game.json](./252637-command-war-super-special-battle-and-war-game.json) |
@@ -19347,6 +19349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cynabre | 371334 | [371334-cynabre.json](./371334-cynabre.json) |
 | Cyndefense Remastered | 382289 | [382289-cyndefense-remastered.json](./382289-cyndefense-remastered.json) |
 | Cynderfall Cycle | 298268 | [298268-cynderfall-cycle.json](./298268-cynderfall-cycle.json) |
+| Cynoclept: The Game | 55351 | [55351-cynoclept-the-game.json](./55351-cynoclept-the-game.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
 | Cynoroid: Gentagelse | 120678 | [120678-cynoroid-gentagelse.json](./120678-cynoroid-gentagelse.json) |
 | Cynostone | 252248 | [252248-cynostone.json](./252248-cynostone.json) |
