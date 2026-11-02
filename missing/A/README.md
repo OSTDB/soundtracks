@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bar Where Men Go To Be Turned Into Horses | 289163 | [289163-a-bar-where-men-go-to-be-turned-into-horses.json](./289163-a-bar-where-men-go-to-be-turned-into-horses.json) |
 | A Bard's Last Song | 244429 | [244429-a-bards-last-song.json](./244429-a-bards-last-song.json) |
 | A Bark in the Dark | 225289 | [225289-a-bark-in-the-dark.json](./225289-a-bark-in-the-dark.json) |
+| A Bastard's Tale | 19944 | [19944-a-bastards-tale.json](./19944-a-bastards-tale.json) |
 | A Bear Family Adventure | 205966 | [205966-a-bear-family-adventure.json](./205966-a-bear-family-adventure.json) |
 | A Bear's Night Out | 124606 | [124606-a-bears-night-out.json](./124606-a-bears-night-out.json) |
 | A Beautiful Ride to Carlisle | 184911 | [184911-a-beautiful-ride-to-carlisle.json](./184911-a-beautiful-ride-to-carlisle.json) |
@@ -3357,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Ponies | 146120 | [146120-adventure-ponies.json](./146120-adventure-ponies.json) |
 | Adventure Ponies | 264456 | [264456-adventure-ponies.json](./264456-adventure-ponies.json) |
 | Adventure Ponies 2: Wait! There's More?! | 146121 | [146121-adventure-ponies-2-wait-theres-more.json](./146121-adventure-ponies-2-wait-theres-more.json) |
+| Adventure Pop | 56891 | [56891-adventure-pop.json](./56891-adventure-pop.json) |
 | Adventure Puss | 244114 | [244114-adventure-puss.json](./244114-adventure-puss.json) |
 | Adventure Quiz 2: Hatena? No Dai-Bouken | 65206 | [65206-adventure-quiz-2-hatena-no-dai-bouken.json](./65206-adventure-quiz-2-hatena-no-dai-bouken.json) |
 | Adventure Quiz: Capcom World - Hatena no Daibouken | 77012 | [77012-adventure-quiz-capcom-world-hatena-no-daibouken.json](./77012-adventure-quiz-capcom-world-hatena-no-daibouken.json) |
@@ -14130,6 +14132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed IV Black Flag: Illustrious Pirates Pack | 26093 | [26093-assassins-creed-iv-black-flag-illustrious-pirates-pack.json](./26093-assassins-creed-iv-black-flag-illustrious-pirates-pack.json) |
 | Assassin's Creed IV: Black Flag - Buccaneer Edition | 89872 | [89872-assassins-creed-iv-black-flag-buccaneer-edition.json](./89872-assassins-creed-iv-black-flag-buccaneer-edition.json) |
 | Assassin's Creed IV: Black Flag - Deluxe Edition | 118927 | [118927-assassins-creed-iv-black-flag-deluxe-edition.json](./118927-assassins-creed-iv-black-flag-deluxe-edition.json) |
+| Assassin's Creed IV: Black Flag - Gold Edition | 52431 | [52431-assassins-creed-iv-black-flag-gold-edition.json](./52431-assassins-creed-iv-black-flag-gold-edition.json) |
 | Assassin's Creed IV: Black Flag - Jackdaw Edition | 100553 | [100553-assassins-creed-iv-black-flag-jackdaw-edition.json](./100553-assassins-creed-iv-black-flag-jackdaw-edition.json) |
 | Assassin's Creed Jade | 216319 | [216319-assassins-creed-jade.json](./216319-assassins-creed-jade.json) |
 | Assassin's Creed Legendary Collection | 164778 | [164778-assassins-creed-legendary-collection.json](./164778-assassins-creed-legendary-collection.json) |
