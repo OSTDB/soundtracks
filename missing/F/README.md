@@ -1968,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Online 2 | 327624 | [327624-fantasy-online-2.json](./327624-fantasy-online-2.json) |
 | Fantasy Pinball | 230713 | [230713-fantasy-pinball.json](./230713-fantasy-pinball.json) |
 | Fantasy Pirates | 85657 | [85657-fantasy-pirates.json](./85657-fantasy-pirates.json) |
+| Fantasy Princess - Girls Makeup & Dress Up Games | 87491 | [87491-fantasy-princess-girls-makeup-and-dress-up-games.json](./87491-fantasy-princess-girls-makeup-and-dress-up-games.json) |
 | Fantasy Puzzle 3D | 358046 | [358046-fantasy-puzzle-3d.json](./358046-fantasy-puzzle-3d.json) |
 | Fantasy Puzzle King | 312697 | [312697-fantasy-puzzle-king.json](./312697-fantasy-puzzle-king.json) |
 | Fantasy Quake: Rise of the Phoenix | 196578 | [196578-fantasy-quake-rise-of-the-phoenix.json](./196578-fantasy-quake-rise-of-the-phoenix.json) |
@@ -2507,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Moomoo | 214299 | [214299-farming-moomoo.json](./214299-farming-moomoo.json) |
 | Farming Mushroom | 371483 | [371483-farming-mushroom.json](./371483-farming-mushroom.json) |
 | Farming PRO 2015 | 88257 | [88257-farming-pro-2015.json](./88257-farming-pro-2015.json) |
+| Farming PRO 2016 | 88996 | [88996-farming-pro-2016.json](./88996-farming-pro-2016.json) |
 | Farming Real Simulation Tractor, Combine Trucks Farmer Land Game | 231084 | [231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json](./231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json) |
 | Farming Sim 25: Drive Tractors, Combine, Trucks | 329568 | [329568-farming-sim-25-drive-tractors-combine-trucks.json](./329568-farming-sim-25-drive-tractors-combine-trucks.json) |
 | Farming Simulator | 81357 | [81357-farming-simulator.json](./81357-farming-simulator.json) |
@@ -2601,6 +2603,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Tractor Simulator 2024: Drive Combine & Trucks - Premium Edition | 309044 | [309044-farming-tractor-simulator-2024-drive-combine-and-trucks-premium-edition.json](./309044-farming-tractor-simulator-2024-drive-combine-and-trucks-premium-edition.json) |
 | Farming Tractor Simulator: Big Farm | 238346 | [238346-farming-tractor-simulator-big-farm.json](./238346-farming-tractor-simulator-big-farm.json) |
 | Farming TriPeaks Solitaire | 395966 | [395966-farming-tripeaks-solitaire.json](./395966-farming-tripeaks-solitaire.json) |
+| Farming USA | 87490 | [87490-farming-usa.json](./87490-farming-usa.json) |
+| Farming USA 2 | 88981 | [88981-farming-usa-2.json](./88981-farming-usa-2.json) |
 | Farming Village | 121491 | [121491-farming-village.json](./121491-farming-village.json) |
 | Farming World: Jam Factory | 238724 | [238724-farming-world-jam-factory.json](./238724-farming-world-jam-factory.json) |
 | Farming-Simulator 2008 | 3168 | [3168-farming-simulator-2008.json](./3168-farming-simulator-2008.json) |
