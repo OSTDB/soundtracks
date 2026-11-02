@@ -1077,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Frame | 147246 | [147246-magic-frame.json](./147246-magic-frame.json) |
 | Magic Frog | 367561 | [367561-magic-frog.json](./367561-magic-frog.json) |
 | Magic Fruit World | 421329 | [421329-magic-fruit-world.json](./421329-magic-fruit-world.json) |
+| Magic Ganglia | 404594 | [404594-magic-ganglia.json](./404594-magic-ganglia.json) |
 | Magic Garden | 317579 | [317579-magic-garden.json](./317579-magic-garden.json) |
 | Magic Garden | 366179 | [366179-magic-garden.json](./366179-magic-garden.json) |
 | Magic Garden Escape | 315471 | [315471-magic-garden-escape.json](./315471-magic-garden-escape.json) |
@@ -14473,6 +14474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monolithic | 151269 | [151269-monolithic.json](./151269-monolithic.json) |
 | Monolithic Candle Chapter.1 | 82517 | [82517-monolithic-candle-chapter-1.json](./82517-monolithic-candle-chapter-1.json) |
 | Monolithic Candle Chapter.2 | 82518 | [82518-monolithic-candle-chapter-2.json](./82518-monolithic-candle-chapter-2.json) |
+| Monologin | 404618 | [404618-monologin.json](./404618-monologin.json) |
 | Monologue: Winter melancholy | 278145 | [278145-monologue-winter-melancholy.json](./278145-monologue-winter-melancholy.json) |
 | Monomagia Cantabile | 214539 | [214539-monomagia-cantabile.json](./214539-monomagia-cantabile.json) |
 | Monomals | 117017 | [117017-monomals.json](./117017-monomals.json) |
@@ -20803,6 +20805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythmon: Mythic Monsters | 416370 | [416370-mythmon-mythic-monsters.json](./416370-mythmon-mythic-monsters.json) |
 | Mytho Duel | 320042 | [320042-mytho-duel.json](./320042-mytho-duel.json) |
 | Mythokyn Nightfall | 371278 | [371278-mythokyn-nightfall.json](./371278-mythokyn-nightfall.json) |
+| Mythologous | 404620 | [404620-mythologous.json](./404620-mythologous.json) |
 | Mythology | 50378 | [50378-mythology.json](./50378-mythology.json) |
 | Mythology Waifus Mahjong | 235388 | [235388-mythology-waifus-mahjong.json](./235388-mythology-waifus-mahjong.json) |
 | MythoMania | 419981 | [419981-mythomania.json](./419981-mythomania.json) |
