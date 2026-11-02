@@ -8442,6 +8442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End of the World Club | 397628 | [397628-the-end-of-the-world-club.json](./397628-the-end-of-the-world-club.json) |
 | The End of Us | 115033 | [115033-the-end-of-us.json](./115033-the-end-of-us.json) |
 | The End of Warren's House | 185274 | [185274-the-end-of-warrens-house.json](./185274-the-end-of-warrens-house.json) |
+| The End of Warriors | 400503 | [400503-the-end-of-warriors.json](./400503-the-end-of-warriors.json) |
 | The End Protocol | 374748 | [374748-the-end-protocol.json](./374748-the-end-protocol.json) |
 | The End Was Nigh | 135777 | [135777-the-end-was-nigh.json](./135777-the-end-was-nigh.json) |
 | The End: Inari's Quest | 77737 | [77737-the-end-inaris-quest.json](./77737-the-end-inaris-quest.json) |
@@ -9866,6 +9867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gristmill | 187272 | [187272-the-gristmill.json](./187272-the-gristmill.json) |
 | The Grizzled: Armistice Digital | 215744 | [215744-the-grizzled-armistice-digital.json](./215744-the-grizzled-armistice-digital.json) |
 | The Groom of Gallagher Mansion | 249060 | [249060-the-groom-of-gallagher-mansion.json](./249060-the-groom-of-gallagher-mansion.json) |
+| The Grotesque and Pixelesque | 400596 | [400596-the-grotesque-and-pixelesque.json](./400596-the-grotesque-and-pixelesque.json) |
 | The Grotto Diary | 153067 | [153067-the-grotto-diary.json](./153067-the-grotto-diary.json) |
 | The Ground Division | 139398 | [139398-the-ground-division.json](./139398-the-ground-division.json) |
 | The Grounding | 140506 | [140506-the-grounding.json](./140506-the-grounding.json) |
@@ -11454,6 +11456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Knight | 310061 | [310061-the-last-knight.json](./310061-the-last-knight.json) |
 | The Last Knight Hawk | 405302 | [405302-the-last-knight-hawk.json](./405302-the-last-knight-hawk.json) |
 | The Last Knight: Day One | 83194 | [83194-the-last-knight-day-one.json](./83194-the-last-knight-day-one.json) |
+| The Last Letter | 400574 | [400574-the-last-letter.json](./400574-the-last-letter.json) |
 | The Last Leviathan | 32873 | [32873-the-last-leviathan.json](./32873-the-last-leviathan.json) |
 | The Last Librarian | 134827 | [134827-the-last-librarian.json](./134827-the-last-librarian.json) |
 | The Last Librarian | 266816 | [266816-the-last-librarian.json](./266816-the-last-librarian.json) |
@@ -11635,6 +11638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Stop | 290001 | [290001-the-last-stop.json](./290001-the-last-stop.json) |
 | The Last Story | 4966 | [4966-the-last-story.json](./4966-the-last-story.json) |
 | The Last Strand | 318621 | [318621-the-last-strand.json](./318621-the-last-strand.json) |
+| The Last Summer | 400590 | [400590-the-last-summer.json](./400590-the-last-summer.json) |
 | The Last Sunshine | 131232 | [131232-the-last-sunshine.json](./131232-the-last-sunshine.json) |
 | The Last Sunshine | 34760 | [34760-the-last-sunshine.json](./34760-the-last-sunshine.json) |
 | The Last Sunshine: Rekindled | 150612 | [150612-the-last-sunshine-rekindled.json](./150612-the-last-sunshine-rekindled.json) |
