@@ -971,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse of Illusion | 68983 | [68983-eclipse-of-illusion.json](./68983-eclipse-of-illusion.json) |
 | Eclipse Saga | 188389 | [188389-eclipse-saga.json](./188389-eclipse-saga.json) |
 | Eclipse Survivors | 249757 | [249757-eclipse-survivors.json](./249757-eclipse-survivors.json) |
+| Eclipse: Anomaly Research | 391459 | [391459-eclipse-anomaly-research.json](./391459-eclipse-anomaly-research.json) |
 | Eclipse: Defending the motherland | 32643 | [32643-eclipse-defending-the-motherland.json](./32643-eclipse-defending-the-motherland.json) |
 | Eclipse: Echo of Dimension | 295490 | [295490-eclipse-echo-of-dimension.json](./295490-eclipse-echo-of-dimension.json) |
 | Eclipse: Edge of Light | 27809 | [27809-eclipse-edge-of-light.json](./27809-eclipse-edge-of-light.json) |
