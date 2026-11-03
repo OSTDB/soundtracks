@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty Bear: Panic in Paradise | 6037 | [6037-naughty-bear-panic-in-paradise.json](./6037-naughty-bear-panic-in-paradise.json) |
 | Naughty Boy | 40990 | [40990-naughty-boy.json](./40990-naughty-boy.json) |
 | Naughty College 18+ | 258984 | [258984-naughty-college-18.json](./258984-naughty-college-18.json) |
+| Naughty Doughy | 367099 | [367099-naughty-doughy.json](./367099-naughty-doughy.json) |
 | Naughty Elves | 76319 | [76319-naughty-elves.json](./76319-naughty-elves.json) |
 | Naughty Girl | 382486 | [382486-naughty-girl.json](./382486-naughty-girl.json) |
 | Naughty Girl 2 | 367915 | [367915-naughty-girl-2.json](./367915-naughty-girl-2.json) |
