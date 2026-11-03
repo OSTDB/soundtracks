@@ -1319,6 +1319,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Light | 163779 | [163779-last-light.json](./163779-last-light.json) |
 | Last Light Left | 395470 | [395470-last-light-left.json](./395470-last-light-left.json) |
 | Last Line | 179468 | [179468-last-line.json](./179468-last-line.json) |
+| Last Line of Defense: First Wave | 392625 | [392625-last-line-of-defense-first-wave.json](./392625-last-line-of-defense-first-wave.json) |
+| Last Line of Defense: Second Wave | 392626 | [392626-last-line-of-defense-second-wave.json](./392626-last-line-of-defense-second-wave.json) |
 | Last Line VR: A Zombie Defense Game | 119588 | [119588-last-line-vr-a-zombie-defense-game.json](./119588-last-line-vr-a-zombie-defense-game.json) |
 | Last Look along Woodward Boulevard | 321171 | [321171-last-look-along-woodward-boulevard.json](./321171-last-look-along-woodward-boulevard.json) |
 | Last Lovers | 192244 | [192244-last-lovers.json](./192244-last-lovers.json) |
@@ -6637,6 +6639,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logo Quiz Festival: Guess the Brands | 154917 | [154917-logo-quiz-festival-guess-the-brands.json](./154917-logo-quiz-festival-guess-the-brands.json) |
 | Logo Quiz Fever | 103661 | [103661-logo-quiz-fever.json](./103661-logo-quiz-fever.json) |
 | Logo Quiz: Guess the Image | 232483 | [232483-logo-quiz-guess-the-image.json](./232483-logo-quiz-guess-the-image.json) |
+| Logo Test: Devinez la Marque | 392694 | [392694-logo-test-devinez-la-marque.json](./392694-logo-test-devinez-la-marque.json) |
+| Logomania | 392695 | [392695-logomania.json](./392695-logomania.json) |
 | Logos | 55401 | [55401-logos.json](./55401-logos.json) |
 | Logos Panic: Goaisatu | 37942 | [37942-logos-panic-goaisatu.json](./37942-logos-panic-goaisatu.json) |
 | Logos Quiz | 254425 | [254425-logos-quiz.json](./254425-logos-quiz.json) |
