@@ -4916,6 +4916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekai no Hate Made Itte Q! Chinjuu Hunter Imoto no Daibouken | 133797 | [133797-sekai-no-hate-made-itte-q-chinjuu-hunter-imoto-no-daibouken.json](./133797-sekai-no-hate-made-itte-q-chinjuu-hunter-imoto-no-daibouken.json) |
 | Sekai no Omoshiro Party Game | 408999 | [408999-sekai-no-omoshiro-party-game.json](./408999-sekai-no-omoshiro-party-game.json) |
 | Sekai no Omoshiro Party Game 2 | 409000 | [409000-sekai-no-omoshiro-party-game-2.json](./409000-sekai-no-omoshiro-party-game-2.json) |
+| Sekai no Subete: Two of Us | 397485 | [397485-sekai-no-subete-two-of-us.json](./397485-sekai-no-subete-two-of-us.json) |
 | Sekai Saikyo Ginsei Shogi Roku: Soto no Ryu | 83434 | [83434-sekai-saikyo-ginsei-shogi-roku-soto-no-ryu.json](./83434-sekai-saikyo-ginsei-shogi-roku-soto-no-ryu.json) |
 | Sekai Saikyou Gensei Shogi Nana | 83462 | [83462-sekai-saikyou-gensei-shogi-nana.json](./83462-sekai-saikyou-gensei-shogi-nana.json) |
 | Sekai Saikyou Ginsei Igo | 107136 | [107136-sekai-saikyou-ginsei-igo.json](./107136-sekai-saikyou-ginsei-igo.json) |
@@ -5071,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Ace | 40017 | [40017-sengoku-ace.json](./40017-sengoku-ace.json) |
 | Sengoku Anthology | 43460 | [43460-sengoku-anthology.json](./43460-sengoku-anthology.json) |
 | Sengoku Asuka Zero | 104532 | [104532-sengoku-asuka-zero.json](./104532-sengoku-asuka-zero.json) |
+| Sengoku Basara | 397492 | [397492-sengoku-basara.json](./397492-sengoku-basara.json) |
 | Sengoku Basara 2 | 5150 | [5150-sengoku-basara-2.json](./5150-sengoku-basara-2.json) |
 | Sengoku Basara 2 Heroes | 72578 | [72578-sengoku-basara-2-heroes.json](./72578-sengoku-basara-2-heroes.json) |
 | Sengoku Basara 2: Heroes - Double Pack | 268378 | [268378-sengoku-basara-2-heroes-double-pack.json](./268378-sengoku-basara-2-heroes-double-pack.json) |
@@ -8994,6 +8996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoyu Ramen Forever | 383716 | [383716-shoyu-ramen-forever.json](./383716-shoyu-ramen-forever.json) |
 | Shp Space | 84016 | [84016-shp-space.json](./84016-shp-space.json) |
 | SHPDMBGWL4 Sunshine | 323292 | [323292-shpdmbgwl4-sunshine.json](./323292-shpdmbgwl4-sunshine.json) |
+| ShpML5 | 397479 | [397479-shpml5.json](./397479-shpml5.json) |
 | SHPR | 211198 | [211198-shpr.json](./211198-shpr.json) |
 | Shrak for Quake | 71748 | [71748-shrak-for-quake.json](./71748-shrak-for-quake.json) |
 | Shrapnel | 270306 | [270306-shrapnel.json](./270306-shrapnel.json) |
@@ -11495,6 +11498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi Toilets: Invasion | 266597 | [266597-skibidi-toilets-invasion.json](./266597-skibidi-toilets-invasion.json) |
 | Skibidi War: Toilets Attack | 263614 | [263614-skibidi-war-toilets-attack.json](./263614-skibidi-war-toilets-attack.json) |
 | SkibidiVerse | 266905 | [266905-skibidiverse.json](./266905-skibidiverse.json) |
+| Skibigo | 397509 | [397509-skibigo.json](./397509-skibigo.json) |
 | Skibum | 58534 | [58534-skibum.json](./58534-skibum.json) |
 | Skid | 223261 | [223261-skid.json](./223261-skid.json) |
 | Skid Island: Asphalt Mayhem | 291745 | [291745-skid-island-asphalt-mayhem.json](./291745-skid-island-asphalt-mayhem.json) |
@@ -17614,6 +17618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulbaby: Remastered | 201437 | [201437-soulbaby-remastered.json](./201437-soulbaby-remastered.json) |
 | Soulbind: Prologue | 289263 | [289263-soulbind-prologue.json](./289263-soulbind-prologue.json) |
 | Soulbind: Tales of the Underworld | 257866 | [257866-soulbind-tales-of-the-underworld.json](./257866-soulbind-tales-of-the-underworld.json) |
+| Soulblade Ascendant | 397476 | [397476-soulblade-ascendant.json](./397476-soulblade-ascendant.json) |
 | Soulblade: Dawnbreaker | 380003 | [380003-soulblade-dawnbreaker.json](./380003-soulblade-dawnbreaker.json) |
 | Soulblaze | 325674 | [325674-soulblaze.json](./325674-soulblaze.json) |
 | Soulbond | 269996 | [269996-soulbond.json](./269996-soulbond.json) |
@@ -28602,6 +28607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Arena | 312711 | [312711-sunset-arena.json](./312711-sunset-arena.json) |
 | Sunset Artisan Chocolate | 412247 | [412247-sunset-artisan-chocolate.json](./412247-sunset-artisan-chocolate.json) |
 | Sunset Beach | 358397 | [358397-sunset-beach.json](./358397-sunset-beach.json) |
+| Sunset Before New Year | 397498 | [397498-sunset-before-new-year.json](./397498-sunset-before-new-year.json) |
 | Sunset Coast Collection | 328481 | [328481-sunset-coast-collection.json](./328481-sunset-coast-collection.json) |
 | Sunset Crime | 385658 | [385658-sunset-crime.json](./385658-sunset-crime.json) |
 | Sunset Devils | 295549 | [295549-sunset-devils.json](./295549-sunset-devils.json) |
@@ -33075,6 +33081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Runaway | 185333 | [185333-sweet-runaway.json](./185333-sweet-runaway.json) |
 | Sweet Sailor | 339443 | [339443-sweet-sailor.json](./339443-sweet-sailor.json) |
 | Sweet Science: The Girls of Silversee Castle | 239656 | [239656-sweet-science-the-girls-of-silversee-castle.json](./239656-sweet-science-the-girls-of-silversee-castle.json) |
+| Sweet Scoops | 397507 | [397507-sweet-scoops.json](./397507-sweet-scoops.json) |
 | Sweet Season | 268652 | [268652-sweet-season.json](./268652-sweet-season.json) |
 | Sweet Season | 268656 | [268656-sweet-season.json](./268656-sweet-season.json) |
 | Sweet Seasons | 110531 | [110531-sweet-seasons.json](./110531-sweet-seasons.json) |
