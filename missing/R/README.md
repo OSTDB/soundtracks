@@ -7442,6 +7442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripcord | 95419 | [95419-ripcord.json](./95419-ripcord.json) |
 | Ripened Tingle's Balloon Trip of Love | 25840 | [25840-ripened-tingles-balloon-trip-of-love.json](./25840-ripened-tingles-balloon-trip-of-love.json) |
 | Ripgraze | 415096 | [415096-ripgraze.json](./415096-ripgraze.json) |
+| Ripley Remembered | 355842 | [355842-ripley-remembered.json](./355842-ripley-remembered.json) |
 | Ripley's Believe It or Not!: The Riddle of Master Lu | 12472 | [12472-ripleys-believe-it-or-not-the-riddle-of-master-lu.json](./12472-ripleys-believe-it-or-not-the-riddle-of-master-lu.json) |
 | Ripout | 150433 | [150433-ripout.json](./150433-ripout.json) |
 | Ripped/Apart | 133397 | [133397-ripped-apart.json](./133397-ripped-apart.json) |
