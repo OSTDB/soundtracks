@@ -2827,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JTAC Beats | 294960 | [294960-jtac-beats.json](./294960-jtac-beats.json) |
 | Ju | 74382 | [74382-ju.json](./74382-ju.json) |
 | Ju Ju Densetsu | 40202 | [40202-ju-ju-densetsu.json](./40202-ju-ju-densetsu.json) |
+| Ju-men: Cursed Masks | 389845 | [389845-ju-men-cursed-masks.json](./389845-ju-men-cursed-masks.json) |
 | Ju-on: The Grudge | 4945 | [4945-ju-on-the-grudge.json](./4945-ju-on-the-grudge.json) |
 | Juan v Juan | 105602 | [105602-juan-v-juan.json](./105602-juan-v-juan.json) |
 | Juanito Arcade Mayhem | 36629 | [36629-juanito-arcade-mayhem.json](./36629-juanito-arcade-mayhem.json) |
