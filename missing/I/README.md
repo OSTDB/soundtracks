@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I told you | 220041 | [220041-i-told-you.json](./220041-i-told-you.json) |
 | I Told You So! | 178908 | [178908-i-told-you-so.json](./178908-i-told-you-so.json) |
 | I Too Can Grow | 179058 | [179058-i-too-can-grow.json](./179058-i-too-can-grow.json) |
+| I Took Away My Idol Friend’s Virginity, and Did Something Similar to NTR | 393857 | [393857-i-took-away-my-idol-friend-s-virginity-and-did-something-similar-to-ntr.json](./393857-i-took-away-my-idol-friend-s-virginity-and-did-something-similar-to-ntr.json) |
 | I Touched Tips with a Femboy | 385244 | [385244-i-touched-tips-with-a-femboy.json](./385244-i-touched-tips-with-a-femboy.json) |
 | I Traveled Back to 5 Days Before the Apocalypse | 379554 | [379554-i-traveled-back-to-5-days-before-the-apocalypse.json](./379554-i-traveled-back-to-5-days-before-the-apocalypse.json) |
 | I Unplugged the Kids | 412243 | [412243-i-unplugged-the-kids.json](./412243-i-unplugged-the-kids.json) |
@@ -991,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Man | 307838 | [307838-ice-man.json](./307838-ice-man.json) |
 | Ice Master | 92841 | [92841-ice-master.json](./92841-ice-master.json) |
 | Ice Maze | 246540 | [246540-ice-maze.json](./246540-ice-maze.json) |
+| Ice Maze | 393849 | [393849-ice-maze.json](./393849-ice-maze.json) |
 | Ice Muncher | 267214 | [267214-ice-muncher.json](./267214-ice-muncher.json) |
 | Ice Nine | 6447 | [6447-ice-nine.json](./6447-ice-nine.json) |
 | Ice Nosfe | 236499 | [236499-ice-nosfe.json](./236499-ice-nosfe.json) |
