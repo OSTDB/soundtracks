@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valbrace | 318603 | [318603-valbrace.json](./318603-valbrace.json) |
 | Valcarta: Rise of the Demon | 32887 | [32887-valcarta-rise-of-the-demon.json](./32887-valcarta-rise-of-the-demon.json) |
 | Valdamour | 264531 | [264531-valdamour.json](./264531-valdamour.json) |
+| Valdis | 361991 | [361991-valdis.json](./361991-valdis.json) |
 | Valdis | 377296 | [377296-valdis.json](./377296-valdis.json) |
 | Valdrys | 418391 | [418391-valdrys.json](./418391-valdrys.json) |
 | Vale | 263012 | [263012-vale.json](./263012-vale.json) |
@@ -1396,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vera Swings | 101254 | [101254-vera-swings.json](./101254-vera-swings.json) |
 | Vera: The Last Hope | 215673 | [215673-vera-the-last-hope.json](./215673-vera-the-last-hope.json) |
 | Verald Defense | 53874 | [53874-verald-defense.json](./53874-verald-defense.json) |
+| Verbal Beatdown | 361984 | [361984-verbal-beatdown.json](./361984-verbal-beatdown.json) |
 | Verbal Void | 210987 | [210987-verbal-void.json](./210987-verbal-void.json) |
 | Verbena: Tales of Growing Up | 379429 | [379429-verbena-tales-of-growing-up.json](./379429-verbena-tales-of-growing-up.json) |
 | Verdant | 380956 | [380956-verdant.json](./380956-verdant.json) |
@@ -3387,6 +3389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volt Patrol | 126341 | [126341-volt-patrol.json](./126341-volt-patrol.json) |
 | Volt Recharge | 301069 | [301069-volt-recharge.json](./301069-volt-recharge.json) |
 | Volt Snake | 413058 | [413058-volt-snake.json](./413058-volt-snake.json) |
+| Volt Ventures Idle | 361988 | [361988-volt-ventures-idle.json](./361988-volt-ventures-idle.json) |
 | Volta-X | 130525 | [130525-volta-x.json](./130525-volta-x.json) |
 | Voltage | 131193 | [131193-voltage.json](./131193-voltage.json) |
 | Voltage | 88029 | [88029-voltage.json](./88029-voltage.json) |
