@@ -4477,6 +4477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glacier Blast | 62108 | [62108-glacier-blast.json](./62108-glacier-blast.json) |
 | Glacier Patrol | 40674 | [40674-glacier-patrol.json](./40674-glacier-patrol.json) |
 | Glaciered | 211671 | [211671-glaciered.json](./211671-glaciered.json) |
+| Glad Tidings | 379320 | [379320-glad-tidings.json](./379320-glad-tidings.json) |
 | Glad Valakas Simulator | 104566 | [104566-glad-valakas-simulator.json](./104566-glad-valakas-simulator.json) |
 | Glad Valakas: Cyberban | 116817 | [116817-glad-valakas-cyberban.json](./116817-glad-valakas-cyberban.json) |
 | Glade and Ritual | 411535 | [411535-glade-and-ritual.json](./411535-glade-and-ritual.json) |
@@ -6771,6 +6772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Googolplex | 64300 | [64300-googolplex.json](./64300-googolplex.json) |
 | Googoo: Bash! | 216728 | [216728-googoo-bash.json](./216728-googoo-bash.json) |
 | GooGooRise | 304628 | [304628-googoorise.json](./304628-googoorise.json) |
+| Googunners! | 379598 | [379598-googunners.json](./379598-googunners.json) |
 | GooHuebelets | 65792 | [65792-goohuebelets.json](./65792-goohuebelets.json) |
 | Gooing Up! | 321340 | [321340-gooing-up.json](./321340-gooing-up.json) |
 | Goojeegoop | 389532 | [389532-goojeegoop.json](./389532-goojeegoop.json) |
