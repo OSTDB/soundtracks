@@ -3883,6 +3883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whenever You Can Breathe | 203378 | [203378-whenever-you-can-breathe.json](./203378-whenever-you-can-breathe.json) |
 | WhenNightComes | 193102 | [193102-whennightcomes.json](./193102-whennightcomes.json) |
 | WhenTaken | 289005 | [289005-whentaken.json](./289005-whentaken.json) |
+| Where | 399359 | [399359-where.json](./399359-where.json) |
 | Where Adabanas Grow: An Asian Sim Date | 423251 | [423251-where-adabanas-grow-an-asian-sim-date.json](./423251-where-adabanas-grow-an-asian-sim-date.json) |
 | Where Ages Go | 179885 | [179885-where-ages-go.json](./179885-where-ages-go.json) |
 | Where Am I?: GeoGuess Game | 333996 | [333996-where-am-i-geoguess-game.json](./333996-where-am-i-geoguess-game.json) |
@@ -8501,6 +8502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of Loki: VR Adventure | 23892 | [23892-wrath-of-loki-vr-adventure.json](./23892-wrath-of-loki-vr-adventure.json) |
 | Wrath of Olympus | 60232 | [60232-wrath-of-olympus.json](./60232-wrath-of-olympus.json) |
 | Wrath of Psychobos | 349944 | [349944-wrath-of-psychobos.json](./349944-wrath-of-psychobos.json) |
+| Wrath of Sweetheart | 399350 | [399350-wrath-of-sweetheart.json](./399350-wrath-of-sweetheart.json) |
 | Wrath of the Arcane Realms | 387377 | [387377-wrath-of-the-arcane-realms.json](./387377-wrath-of-the-arcane-realms.json) |
 | Wrath of the Demon | 12832 | [12832-wrath-of-the-demon.json](./12832-wrath-of-the-demon.json) |
 | Wrath of the Gods | 73492 | [73492-wrath-of-the-gods.json](./73492-wrath-of-the-gods.json) |
