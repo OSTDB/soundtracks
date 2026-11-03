@@ -6825,6 +6825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Hero Path | 292416 | [292416-lone-hero-path.json](./292416-lone-hero-path.json) |
 | Lone King | 151046 | [151046-lone-king.json](./151046-lone-king.json) |
 | Lone Knight | 226874 | [226874-lone-knight.json](./226874-lone-knight.json) |
+| Lone Labyrinth | 353161 | [353161-lone-labyrinth.json](./353161-lone-labyrinth.json) |
 | Lone Labyrinth: Burden of the Just | 352246 | [352246-lone-labyrinth-burden-of-the-just.json](./352246-lone-labyrinth-burden-of-the-just.json) |
 | Lone Lamp | 289239 | [289239-lone-lamp.json](./289239-lone-lamp.json) |
 | Lone Land | 129981 | [129981-lone-land.json](./129981-lone-land.json) |
@@ -9120,6 +9121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion: Beyond Origins | 314570 | [314570-luigis-mansion-beyond-origins.json](./314570-luigis-mansion-beyond-origins.json) |
 | Luigi's Mansion: Dark Moon | 2476 | [2476-luigis-mansion-dark-moon.json](./2476-luigis-mansion-dark-moon.json) |
 | Luigi's Mansion: Extra Tangy | 313113 | [313113-luigis-mansion-extra-tangy.json](./313113-luigis-mansion-extra-tangy.json) |
+| Luigi's Mansion: First-Person Optimized | 353027 | [353027-luigis-mansion-first-person-optimized.json](./353027-luigis-mansion-first-person-optimized.json) |
 | Luigi's Mansion: Halloween Haunt | 313969 | [313969-luigis-mansion-halloween-haunt.json](./313969-luigis-mansion-halloween-haunt.json) |
 | Luigi's Mansion: Labyrinth of Shadows | 313413 | [313413-luigis-mansion-labyrinth-of-shadows.json](./313413-luigis-mansion-labyrinth-of-shadows.json) |
 | Luigi's Mansion: Premium Deluxe | 259268 | [259268-luigis-mansion-premium-deluxe.json](./259268-luigis-mansion-premium-deluxe.json) |
