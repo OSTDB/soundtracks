@@ -3005,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Challenge | 14498 | [14498-basketball-challenge.json](./14498-basketball-challenge.json) |
 | Basketball Club Story | 150265 | [150265-basketball-club-story.json](./150265-basketball-club-story.json) |
 | Basketball Court VR | 32166 | [32166-basketball-court-vr.json](./32166-basketball-court-vr.json) |
+| Basketball Court VR | 354905 | [354905-basketball-court-vr.json](./354905-basketball-court-vr.json) |
 | Basketball Crew 2k18: Dunk Stars Street Battle! | 216094 | [216094-basketball-crew-2k18-dunk-stars-street-battle.json](./216094-basketball-crew-2k18-dunk-stars-street-battle.json) |
 | Basketball Dunk Tournament | 197336 | [197336-basketball-dunk-tournament.json](./197336-basketball-dunk-tournament.json) |
 | Basketball Dynasty Manager 16 | 99175 | [99175-basketball-dynasty-manager-16.json](./99175-basketball-dynasty-manager-16.json) |
@@ -11546,6 +11547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Winner 2 | 25771 | [25771-bob-winner-2.json](./25771-bob-winner-2.json) |
 | Bob-Ball | 322549 | [322549-bob-ball.json](./322549-bob-ball.json) |
 | Bob: A thousand lives | 209488 | [209488-bob-a-thousand-lives.json](./209488-bob-a-thousand-lives.json) |
+| BoB: Battle of Bots | 354898 | [354898-bob-battle-of-bots.json](./354898-bob-battle-of-bots.json) |
 | Bob.exe | 230870 | [230870-bob-exe.json](./230870-bob-exe.json) |
 | Bob's Bad Day | 14329 | [14329-bobs-bad-day.json](./14329-bobs-bad-day.json) |
 | Bob's Beaker Blobs | 383144 | [383144-bobs-beaker-blobs.json](./383144-bobs-beaker-blobs.json) |
@@ -15207,7 +15209,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BroChicken | 253806 | [253806-brochicken.json](./253806-brochicken.json) |
 | Brocula | 139651 | [139651-brocula.json](./139651-brocula.json) |
 | Brødrene Mortensens Jul | 129815 | [129815-br-drene-mortensens-jul.json](./129815-br-drene-mortensens-jul.json) |
-| Broforce: Forever | 260721 | [260721-broforce-forever.json](./260721-broforce-forever.json) |
 | Broil My Buns | 178800 | [178800-broil-my-buns.json](./178800-broil-my-buns.json) |
 | Broilers | 218673 | [218673-broilers.json](./218673-broilers.json) |
 | Brok Complete Bundle | 384200 | [384200-brok-complete-bundle.json](./384200-brok-complete-bundle.json) |
