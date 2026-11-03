@@ -3362,6 +3362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected Bunker | 280306 | [280306-infected-bunker.json](./280306-infected-bunker.json) |
 | Infected City | 152649 | [152649-infected-city.json](./152649-infected-city.json) |
 | Infected Dawn | 398172 | [398172-infected-dawn.json](./398172-infected-dawn.json) |
+| Infected Escaped | 373781 | [373781-infected-escaped.json](./373781-infected-escaped.json) |
 | Infected Escaped: Upgrade | 379720 | [379720-infected-escaped-upgrade.json](./379720-infected-escaped-upgrade.json) |
 | Infected Friend | 224548 | [224548-infected-friend.json](./224548-infected-friend.json) |
 | Infected Love: The Fatal Experiment | 374135 | [374135-infected-love-the-fatal-experiment.json](./374135-infected-love-the-fatal-experiment.json) |
@@ -3986,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink Escape: Coven Conundrum | 310270 | [310270-ink-escape-coven-conundrum.json](./310270-ink-escape-coven-conundrum.json) |
 | Ink Hero | 335331 | [335331-ink-hero.json](./335331-ink-hero.json) |
 | Ink Inside | 218684 | [218684-ink-inside.json](./218684-ink-inside.json) |
+| Ink Link | 373495 | [373495-ink-link.json](./373495-ink-link.json) |
 | Ink Neko Maid | 247428 | [247428-ink-neko-maid.json](./247428-ink-neko-maid.json) |
 | Ink of Fate | 278970 | [278970-ink-of-fate.json](./278970-ink-of-fate.json) |
 | Ink or Swim | 87014 | [87014-ink-or-swim.json](./87014-ink-or-swim.json) |
@@ -5251,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Opus | 407841 | [407841-invisible-opus.json](./407841-invisible-opus.json) |
 | Invisible Parties | 7869 | [7869-invisible-parties.json](./7869-invisible-parties.json) |
 | Invisible Places: Pixel Art Jigsaw Puzzle | 287478 | [287478-invisible-places-pixel-art-jigsaw-puzzle.json](./287478-invisible-places-pixel-art-jigsaw-puzzle.json) |
+| Invisible Room | 373772 | [373772-invisible-room.json](./373772-invisible-room.json) |
 | Invisible Seams | 321934 | [321934-invisible-seams.json](./321934-invisible-seams.json) |
 | Invisible Services: Pixel Art Jigsaw Puzzle | 162208 | [162208-invisible-services-pixel-art-jigsaw-puzzle.json](./162208-invisible-services-pixel-art-jigsaw-puzzle.json) |
 | Invisible Sign: Isu | 221028 | [221028-invisible-sign-isu.json](./221028-invisible-sign-isu.json) |
