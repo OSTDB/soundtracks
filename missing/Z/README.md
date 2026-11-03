@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaxxon | 309341 | [309341-zaxxon.json](./309341-zaxxon.json) |
 | Zaxxon 3-D | 46104 | [46104-zaxxon-3-d.json](./46104-zaxxon-3-d.json) |
 | Zaxxon's Motherbase 2000 | 19764 | [19764-zaxxons-motherbase-2000.json](./19764-zaxxons-motherbase-2000.json) |
+| Zaya: Rise to the Gods | 383331 | [383331-zaya-rise-to-the-gods.json](./383331-zaya-rise-to-the-gods.json) |
 | Zayed the Leader | 100140 | [100140-zayed-the-leader.json](./100140-zayed-the-leader.json) |
 | Zayzoo: An Earth Adventure | 66645 | [66645-zayzoo-an-earth-adventure.json](./66645-zayzoo-an-earth-adventure.json) |
 | Zayzoo: My Alien Classmate | 66643 | [66643-zayzoo-my-alien-classmate.json](./66643-zayzoo-my-alien-classmate.json) |
