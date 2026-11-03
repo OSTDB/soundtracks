@@ -14474,6 +14474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pyramid Prison | 127236 | [127236-the-pyramid-prison.json](./127236-the-pyramid-prison.json) |
 | The Pyramids of Egypt | 62671 | [62671-the-pyramids-of-egypt.json](./62671-the-pyramids-of-egypt.json) |
 | The Pyraplex | 124082 | [124082-the-pyraplex.json](./124082-the-pyraplex.json) |
+| The Pyro Guy | 394352 | [394352-the-pyro-guy.json](./394352-the-pyro-guy.json) |
 | The Q - Live Trivia Network | 105863 | [105863-the-q-live-trivia-network.json](./105863-the-q-live-trivia-network.json) |
 | The Qaedon Wars - The Story Begins | 110829 | [110829-the-qaedon-wars-the-story-begins.json](./110829-the-qaedon-wars-the-story-begins.json) |
 | The Qixia Diary | 391102 | [391102-the-qixia-diary.json](./391102-the-qixia-diary.json) |
@@ -30139,6 +30140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth Seekers | 298423 | [298423-truth-seekers.json](./298423-truth-seekers.json) |
 | Truth Trail: Exorcism of Deception | 338605 | [338605-truth-trail-exorcism-of-deception.json](./338605-truth-trail-exorcism-of-deception.json) |
 | Truth Universally Acknowledged | 296370 | [296370-truth-universally-acknowledged.json](./296370-truth-universally-acknowledged.json) |
+| Truth Universally Acknowledged: Seasilk Heart | 394287 | [394287-truth-universally-acknowledged-seasilk-heart.json](./394287-truth-universally-acknowledged-seasilk-heart.json) |
 | Truth: Disorder II | 98985 | [98985-truth-disorder-ii.json](./98985-truth-disorder-ii.json) |
 | Truth: Disorder III - Gemini | 116786 | [116786-truth-disorder-iii-gemini.json](./116786-truth-disorder-iii-gemini.json) |
 | Truths Untold | 181290 | [181290-truths-untold.json](./181290-truths-untold.json) |
@@ -31518,6 +31520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Portals: A Gemstone Puzzle Game | 247501 | [247501-two-portals-a-gemstone-puzzle-game.json](./247501-two-portals-a-gemstone-puzzle-game.json) |
 | Two Putt | 265270 | [265270-two-putt.json](./265270-two-putt.json) |
 | Two Realms: Whispers from the Rift | 367734 | [367734-two-realms-whispers-from-the-rift.json](./367734-two-realms-whispers-from-the-rift.json) |
+| Two Rings: Vanquish and Bloom | 394279 | [394279-two-rings-vanquish-and-bloom.json](./394279-two-rings-vanquish-and-bloom.json) |
 | Two Sedans Driving Simulator | 195618 | [195618-two-sedans-driving-simulator.json](./195618-two-sedans-driving-simulator.json) |
 | Two Sides of Hell | 301701 | [301701-two-sides-of-hell.json](./301701-two-sides-of-hell.json) |
 | Two Sides of the Same Turnabout | 310420 | [310420-two-sides-of-the-same-turnabout.json](./310420-two-sides-of-the-same-turnabout.json) |
