@@ -2778,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Need to Go Deeper: The Atomique | 174156 | [174156-we-need-to-go-deeper-the-atomique.json](./174156-we-need-to-go-deeper-the-atomique.json) |
 | We Need To Talk | 257501 | [257501-we-need-to-talk.json](./257501-we-need-to-talk.json) |
 | We Never Left | 392241 | [392241-we-never-left.json](./392241-we-never-left.json) |
+| We Only Come Out at Night | 375484 | [375484-we-only-come-out-at-night.json](./375484-we-only-come-out-at-night.json) |
 | We Pretend | 410338 | [410338-we-pretend.json](./410338-we-pretend.json) |
 | We Ramble I: Starwake | 224711 | [224711-we-ramble-i-starwake.json](./224711-we-ramble-i-starwake.json) |
 | We Rock: Drum King | 5127 | [5127-we-rock-drum-king.json](./5127-we-rock-drum-king.json) |
@@ -8712,6 +8713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrispell | 401920 | [401920-wrispell.json](./401920-wrispell.json) |
 | Wrist Nebula | 208020 | [208020-wrist-nebula.json](./208020-wrist-nebula.json) |
 | Wrist Sprinter | 181364 | [181364-wrist-sprinter.json](./181364-wrist-sprinter.json) |
+| Wrist Sudoku | 375481 | [375481-wrist-sudoku.json](./375481-wrist-sudoku.json) |
 | Write 'n' Fight | 160204 | [160204-write-n-fight.json](./160204-write-n-fight.json) |
 | Write Emails At Work | 394102 | [394102-write-emails-at-work.json](./394102-write-emails-at-work.json) |
 | Write Night | 405749 | [405749-write-night.json](./405749-write-night.json) |
