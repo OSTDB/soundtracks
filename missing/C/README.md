@@ -2534,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Care Bears: Unlock the Magic | 324758 | [324758-care-bears-unlock-the-magic.json](./324758-care-bears-unlock-the-magic.json) |
 | Care for your Horse | 357850 | [357850-care-for-your-horse.json](./357850-care-for-your-horse.json) |
 | Care of Gongon | 350048 | [350048-care-of-gongon.json](./350048-care-of-gongon.json) |
+| Care of Gongon: Chapter 2 | 350151 | [350151-care-of-gongon-chapter-2.json](./350151-care-of-gongon-chapter-2.json) |
 | Care(taking) | 341413 | [341413-care-taking.json](./341413-care-taking.json) |
 | Carebotz | 159730 | [159730-carebotz.json](./159730-carebotz.json) |
 | Careening | 379174 | [379174-careening.json](./379174-careening.json) |
@@ -9005,6 +9006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City::Ephemera | 322040 | [322040-city-ephemera.json](./322040-city-ephemera.json) |
 | City's Hero Collection | 283205 | [283205-citys-hero-collection.json](./283205-citys-hero-collection.json) |
 | City’s Hero Collection | 328537 | [328537-city-s-hero-collection.json](./328537-city-s-hero-collection.json) |
+| CityArchitect | 350173 | [350173-cityarchitect.json](./350173-cityarchitect.json) |
 | CityBattle: Virtual Earth | 78358 | [78358-citybattle-virtual-earth.json](./78358-citybattle-virtual-earth.json) |
 | CityBeat: The Sorority Shuffle | 171990 | [171990-citybeat-the-sorority-shuffle.json](./171990-citybeat-the-sorority-shuffle.json) |
 | Citybound | 18151 | [18151-citybound.json](./18151-citybound.json) |
