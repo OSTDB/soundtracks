@@ -18487,6 +18487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24645,6 +24646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Beasts: Gold Edition | 208763 | [208763-steel-beasts-gold-edition.json](./208763-steel-beasts-gold-edition.json) |
 | Steel Beasts: Pro - Personal Edition | 73588 | [73588-steel-beasts-pro-personal-edition.json](./73588-steel-beasts-pro-personal-edition.json) |
 | Steel Bounty | 381966 | [381966-steel-bounty.json](./381966-steel-bounty.json) |
+| Steel Bridge Hidden Deep In The Mountains | 398136 | [398136-steel-bridge-hidden-deep-in-the-mountains.json](./398136-steel-bridge-hidden-deep-in-the-mountains.json) |
 | Steel Carnelian | 344031 | [344031-steel-carnelian.json](./344031-steel-carnelian.json) |
 | Steel Century Groove: Midnight | 334462 | [334462-steel-century-groove-midnight.json](./334462-steel-century-groove-midnight.json) |
 | Steel Champions | 47444 | [47444-steel-champions.json](./47444-steel-champions.json) |
@@ -29147,6 +29149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dashmatch | 95586 | [95586-super-dashmatch.json](./95586-super-dashmatch.json) |
 | Super Dashy Knight | 128849 | [128849-super-dashy-knight.json](./128849-super-dashy-knight.json) |
 | Super Dassalo Land | 313971 | [313971-super-dassalo-land.json](./313971-super-dassalo-land.json) |
+| Super Dead Heat | 398116 | [398116-super-dead-heat.json](./398116-super-dead-heat.json) |
 | Super Dead Mall | 142637 | [142637-super-dead-mall.json](./142637-super-dead-mall.json) |
 | Super Dead Rising 3 Arcade Remix | 21879 | [21879-super-dead-rising-3-arcade-remix.json](./21879-super-dead-rising-3-arcade-remix.json) |
 | Super Death Arena | 30126 | [30126-super-death-arena.json](./30126-super-death-arena.json) |
