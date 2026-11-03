@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderlost | 145380 | [145380-wanderlost.json](./145380-wanderlost.json) |
 | Wanderlost | 225712 | [225712-wanderlost.json](./225712-wanderlost.json) |
 | Wanderlust | 336914 | [336914-wanderlust.json](./336914-wanderlust.json) |
+| Wanderlust | 355976 | [355976-wanderlust.json](./355976-wanderlust.json) |
 | Wanderlust | 61175 | [61175-wanderlust.json](./61175-wanderlust.json) |
 | Wanderlust | 81181 | [81181-wanderlust.json](./81181-wanderlust.json) |
 | WanderLust | 169295 | [169295-wanderlust.json](./169295-wanderlust.json) |
@@ -8422,6 +8423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms 3 | 23410 | [23410-worms-3.json](./23410-worms-3.json) |
 | Worms 3D | 1047 | [1047-worms-3d.json](./1047-worms-3d.json) |
 | Worms 4 | 59763 | [59763-worms-4.json](./59763-worms-4.json) |
+| Worms Across Worlds | 355849 | [355849-worms-across-worlds.json](./355849-worms-across-worlds.json) |
 | Worms Anniversary Edition | 82389 | [82389-worms-anniversary-edition.json](./82389-worms-anniversary-edition.json) |
 | Worms Armageddon | 159300 | [159300-worms-armageddon.json](./159300-worms-armageddon.json) |
 | Worms Armageddon | 409027 | [409027-worms-armageddon.json](./409027-worms-armageddon.json) |
