@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Gear | 377601 | [377601-magic-gear.json](./377601-magic-gear.json) |
 | Magic Gems | 156226 | [156226-magic-gems.json](./156226-magic-gems.json) |
 | Magic Girl featuring Ling Ling The Little Witch | 45675 | [45675-magic-girl-featuring-ling-ling-the-little-witch.json](./45675-magic-girl-featuring-ling-ling-the-little-witch.json) |
+| Magic Girls | 377017 | [377017-magic-girls.json](./377017-magic-girls.json) |
 | Magic Golf | 251731 | [251731-magic-golf.json](./251731-magic-golf.json) |
 | Magic gravity | 76636 | [76636-magic-gravity.json](./76636-magic-gravity.json) |
 | Magic Griddlers | 156671 | [156671-magic-griddlers.json](./156671-magic-griddlers.json) |
@@ -1311,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Walk | 193283 | [193283-magic-walk.json](./193283-magic-walk.json) |
 | Magic Wand | 27326 | [27326-magic-wand.json](./27326-magic-wand.json) |
 | Magic Wand | 311811 | [311811-magic-wand.json](./311811-magic-wand.json) |
+| Magic Wand | 377306 | [377306-magic-wand.json](./377306-magic-wand.json) |
 | Magic War Legends | 410880 | [410880-magic-war-legends.json](./410880-magic-war-legends.json) |
 | Magic Wardrobe | 203818 | [203818-magic-wardrobe.json](./203818-magic-wardrobe.json) |
 | Magic Wars | 254472 | [254472-magic-wars.json](./254472-magic-wars.json) |
@@ -5631,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -18033,6 +18036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiversal Affairs | 270157 | [270157-multiversal-affairs.json](./270157-multiversal-affairs.json) |
 | Multiversal Time Survivors | 311558 | [311558-multiversal-time-survivors.json](./311558-multiversal-time-survivors.json) |
 | Multiverse | 339231 | [339231-multiverse.json](./339231-multiverse.json) |
+| Multiverse | 377183 | [377183-multiverse.json](./377183-multiverse.json) |
 | MultiVerse | 192255 | [192255-multiverse.json](./192255-multiverse.json) |
 | Multiverse Designer | 372219 | [372219-multiverse-designer.json](./372219-multiverse-designer.json) |
 | Multiverse Go | 253897 | [253897-multiverse-go.json](./253897-multiverse-go.json) |
@@ -18707,6 +18711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muteki Kyoujin Rozario kai | 377611 | [377611-muteki-kyoujin-rozario-kai.json](./377611-muteki-kyoujin-rozario-kai.json) |
 | Mutilate-a-Doll 2 | 95937 | [95937-mutilate-a-doll-2.json](./95937-mutilate-a-doll-2.json) |
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
+| Mutiny | 377188 | [377188-mutiny.json](./377188-mutiny.json) |
 | Mutiny Island | 120016 | [120016-mutiny-island.json](./120016-mutiny-island.json) |
 | Mutiny!! | 83823 | [83823-mutiny.json](./83823-mutiny.json) |
 | Mutiny!!: Grozdana Kakra - Bonus Route | 174515 | [174515-mutiny-grozdana-kakra-bonus-route.json](./174515-mutiny-grozdana-kakra-bonus-route.json) |
