@@ -2623,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid | 222775 | [222775-acid.json](./222775-acid.json) |
 | Acid Attack | 94523 | [94523-acid-attack.json](./94523-acid-attack.json) |
 | Acid Ball | 213058 | [213058-acid-ball.json](./213058-acid-ball.json) |
+| Acid Drizzle | 384474 | [384474-acid-drizzle.json](./384474-acid-drizzle.json) |
 | Acid Drop | 11111 | [11111-acid-drop.json](./11111-acid-drop.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
 | Acid Factory | 316099 | [316099-acid-factory.json](./316099-acid-factory.json) |
@@ -15759,7 +15760,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
