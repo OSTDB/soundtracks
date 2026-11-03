@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hall of the Saint | 268869 | [268869-hall-of-the-saint.json](./268869-hall-of-the-saint.json) |
 | Hall of the Things | 26305 | [26305-hall-of-the-things.json](./26305-hall-of-the-things.json) |
 | Halla | 101703 | [101703-halla.json](./101703-halla.json) |
+| Hallbergia Jojishi 2.5 | 388080 | [388080-hallbergia-jojishi-2-5.json](./388080-hallbergia-jojishi-2-5.json) |
 | Halley Wars | 19509 | [19509-halley-wars.json](./19509-halley-wars.json) |
 | Halley's Big Catch | 417530 | [417530-halleys-big-catch.json](./417530-halleys-big-catch.json) |
 | Halley's Comet | 40352 | [40352-halleys-comet.json](./40352-halleys-comet.json) |
