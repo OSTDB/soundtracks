@@ -556,6 +556,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball | 20730 | [20730-zen-pinball.json](./20730-zen-pinball.json) |
 | Zen Pinball | 260831 | [260831-zen-pinball.json](./260831-zen-pinball.json) |
 | Zen Pinball 2 | 6008 | [6008-zen-pinball-2.json](./6008-zen-pinball-2.json) |
+| Zen Pinball 2: Aliens vs. Pinball | 354711 | [354711-zen-pinball-2-aliens-vs-pinball.json](./354711-zen-pinball-2-aliens-vs-pinball.json) |
+| Zen Pinball 2: Balls of Glory Pinball | 354710 | [354710-zen-pinball-2-balls-of-glory-pinball.json](./354710-zen-pinball-2-balls-of-glory-pinball.json) |
+| Zen Pinball 2: Bethedsa Pinball | 354712 | [354712-zen-pinball-2-bethedsa-pinball.json](./354712-zen-pinball-2-bethedsa-pinball.json) |
+| Zen Pinball 2: Ninja Gaiden Sigma 2 | 354713 | [354713-zen-pinball-2-ninja-gaiden-sigma-2.json](./354713-zen-pinball-2-ninja-gaiden-sigma-2.json) |
+| Zen Pinball 2: Plants vs. Zombies | 354714 | [354714-zen-pinball-2-plants-vs-zombies.json](./354714-zen-pinball-2-plants-vs-zombies.json) |
+| Zen Pinball 2: Star Wars Pinball | 354708 | [354708-zen-pinball-2-star-wars-pinball.json](./354708-zen-pinball-2-star-wars-pinball.json) |
+| Zen Pinball 2: Star Wars Pinball - Balance of the Force | 354707 | [354707-zen-pinball-2-star-wars-pinball-balance-of-the-force.json](./354707-zen-pinball-2-star-wars-pinball-balance-of-the-force.json) |
+| Zen Pinball 2: Star Wars Pinball - Heroes Within | 354706 | [354706-zen-pinball-2-star-wars-pinball-heroes-within.json](./354706-zen-pinball-2-star-wars-pinball-heroes-within.json) |
+| Zen Pinball 2: Super Street Fighter 2 | 354715 | [354715-zen-pinball-2-super-street-fighter-2.json](./354715-zen-pinball-2-super-street-fighter-2.json) |
 | ZEN Pinball 2: The Walking Dead | 353719 | [353719-zen-pinball-2-the-walking-dead.json](./353719-zen-pinball-2-the-walking-dead.json) |
 | Zen Pinball 3D | 21146 | [21146-zen-pinball-3d.json](./21146-zen-pinball-3d.json) |
 | Zen Pinball Party | 174587 | [174587-zen-pinball-party.json](./174587-zen-pinball-party.json) |
