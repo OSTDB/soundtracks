@@ -2403,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Invaders | 285555 | [285555-farm-invaders.json](./285555-farm-invaders.json) |
 | Farm Invaders | 324319 | [324319-farm-invaders.json](./324319-farm-invaders.json) |
 | Farm Invasion USA | 61125 | [61125-farm-invasion-usa.json](./61125-farm-invasion-usa.json) |
+| Farm It: Cute Edition | 349594 | [349594-farm-it-cute-edition.json](./349594-farm-it-cute-edition.json) |
 | Farm It: Fluffy DLC | 316209 | [316209-farm-it-fluffy-dlc.json](./316209-farm-it-fluffy-dlc.json) |
 | Farm It: Funky DLC | 316210 | [316210-farm-it-funky-dlc.json](./316210-farm-it-funky-dlc.json) |
 | Farm It! | 194334 | [194334-farm-it.json](./194334-farm-it.json) |
@@ -3702,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femboy Fury | 377550 | [377550-femboy-fury.json](./377550-femboy-fury.json) |
 | Femboy Futa House: Dirty Election | 378216 | [378216-femboy-futa-house-dirty-election.json](./378216-femboy-futa-house-dirty-election.json) |
 | Femboy Next Door | 405697 | [405697-femboy-next-door.json](./405697-femboy-next-door.json) |
+| Femboy Streamer | 349727 | [349727-femboy-streamer.json](./349727-femboy-streamer.json) |
 | Femboys of the Phalanx | 171068 | [171068-femboys-of-the-phalanx.json](./171068-femboys-of-the-phalanx.json) |
 | Femdom First Timers | 392445 | [392445-femdom-first-timers.json](./392445-femdom-first-timers.json) |
 | Femdom Game World: Stacy | 312709 | [312709-femdom-game-world-stacy.json](./312709-femdom-game-world-stacy.json) |
