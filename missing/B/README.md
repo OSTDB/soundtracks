@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Missing Persons | 374889 | [374889-backrooms-missing-persons.json](./374889-backrooms-missing-persons.json) |
 | Backrooms: Multiplayer Horror | 405440 | [405440-backrooms-multiplayer-horror.json](./405440-backrooms-multiplayer-horror.json) |
 | Backrooms: Multiverse | 409744 | [409744-backrooms-multiverse.json](./409744-backrooms-multiverse.json) |
+| Backrooms: New Gate | 360849 | [360849-backrooms-new-gate.json](./360849-backrooms-new-gate.json) |
 | Backrooms: No Escape | 389726 | [389726-backrooms-no-escape.json](./389726-backrooms-no-escape.json) |
 | Backrooms: No Return | 236777 | [236777-backrooms-no-return.json](./236777-backrooms-no-return.json) |
 | Backrooms: No Way Out | 394802 | [394802-backrooms-no-way-out.json](./394802-backrooms-no-way-out.json) |
@@ -931,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1062,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bago | 83449 | [83449-bago.json](./83449-bago.json) |
 | Bagration | 81665 | [81665-bagration.json](./81665-bagration.json) |
 | Bagsy | 423399 | [423399-bagsy.json](./423399-bagsy.json) |
+| Bagua Alley | 360870 | [360870-bagua-alley.json](./360870-bagua-alley.json) |
 | Baguette Wars | 313638 | [313638-baguette-wars.json](./313638-baguette-wars.json) |
 | Bah, Humbug! | 97350 | [97350-bah-humbug.json](./97350-bah-humbug.json) |
 | Bahama Conch n Burger Shack | 113537 | [113537-bahama-conch-n-burger-shack.json](./113537-bahama-conch-n-burger-shack.json) |
@@ -1299,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balatro: Special Edition | 323893 | [323893-balatro-special-edition.json](./323893-balatro-special-edition.json) |
 | Balavour | 345986 | [345986-balavour.json](./345986-balavour.json) |
 | Balconing Simulator 2020 | 127988 | [127988-balconing-simulator-2020.json](./127988-balconing-simulator-2020.json) |
+| Balcony Garden | 360840 | [360840-balcony-garden.json](./360840-balcony-garden.json) |
 | Bald Bull's Punch-Out!! | 356061 | [356061-bald-bulls-punch-out.json](./356061-bald-bulls-punch-out.json) |
 | Bald Luigi's Crustmust Deluxe | 187084 | [187084-bald-luigis-crustmust-deluxe.json](./187084-bald-luigis-crustmust-deluxe.json) |
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
@@ -12988,6 +12992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot.vinnik Chess: Winning Patterns | 254119 | [254119-bot-vinnik-chess-winning-patterns.json](./254119-bot-vinnik-chess-winning-patterns.json) |
 | Botan's Bird Beats | 309968 | [309968-botans-bird-beats.json](./309968-botans-bird-beats.json) |
 | Botanic | 240028 | [240028-botanic.json](./240028-botanic.json) |
+| Botanic Bits | 360872 | [360872-botanic-bits.json](./360872-botanic-bits.json) |
 | Botanica | 281961 | [281961-botanica.json](./281961-botanica.json) |
 | Botanica: Earthbound | 59824 | [59824-botanica-earthbound.json](./59824-botanica-earthbound.json) |
 | Botanica: Earthbound - Collector's Edition | 76480 | [76480-botanica-earthbound-collectors-edition.json](./76480-botanica-earthbound-collectors-edition.json) |
