@@ -3418,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 7: Vermilion Gates | 173154 | [173154-tekken-7-vermilion-gates.json](./173154-tekken-7-vermilion-gates.json) |
 | Tekken 7: Zafina | 163260 | [163260-tekken-7-zafina.json](./163260-tekken-7-zafina.json) |
 | Tekken 8: Advanced Edition | 338032 | [338032-tekken-8-advanced-edition.json](./338032-tekken-8-advanced-edition.json) |
+| Tekken 8: Anna Williams | 349570 | [349570-tekken-8-anna-williams.json](./349570-tekken-8-anna-williams.json) |
 | Tekken 8: Armor King | 374182 | [374182-tekken-8-armor-king.json](./374182-tekken-8-armor-king.json) |
 | Tekken 8: Baobab Horizon | 379704 | [379704-tekken-8-baobab-horizon.json](./379704-tekken-8-baobab-horizon.json) |
 | Tekken 8: Bob | 389216 | [389216-tekken-8-bob.json](./389216-tekken-8-bob.json) |
@@ -10034,6 +10035,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gun Game | 235247 | [235247-the-gun-game.json](./235247-the-gun-game.json) |
 | The Gun is Good | 254024 | [254024-the-gun-is-good.json](./254024-the-gun-is-good.json) |
 | The Gunstringer | 7588 | [7588-the-gunstringer.json](./7588-the-gunstringer.json) |
+| The Gunstringer: El Diablo's 'Merican Adventure | 349729 | [349729-the-gunstringer-el-diablos-merican-adventure.json](./349729-the-gunstringer-el-diablos-merican-adventure.json) |
+| The Gunstringer: Real Big Shootin' | 349728 | [349728-the-gunstringer-real-big-shootin.json](./349728-the-gunstringer-real-big-shootin.json) |
 | The Gurgling | 381594 | [381594-the-gurgling.json](./381594-the-gurgling.json) |
 | The Gurion Mountains | 148915 | [148915-the-gurion-mountains.json](./148915-the-gurion-mountains.json) |
 | The Gutter | 415997 | [415997-the-gutter.json](./415997-the-gutter.json) |
@@ -10736,6 +10739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inner Friend | 104280 | [104280-the-inner-friend.json](./104280-the-inner-friend.json) |
 | The Inner Light | 177754 | [177754-the-inner-light.json](./177754-the-inner-light.json) |
 | The Inner Sea | 33517 | [33517-the-inner-sea.json](./33517-the-inner-sea.json) |
+| The Inner World 1 + 2 Bundle | 349613 | [349613-the-inner-world-1-2-bundle.json](./349613-the-inner-world-1-2-bundle.json) |
 | The Inner World 2 | 99344 | [99344-the-inner-world-2.json](./99344-the-inner-world-2.json) |
 | The Inner World: The Last Wind Monk | 29065 | [29065-the-inner-world-the-last-wind-monk.json](./29065-the-inner-world-the-last-wind-monk.json) |
 | The Inner World: The Puzzle | 10971 | [10971-the-inner-world-the-puzzle.json](./10971-the-inner-world-the-puzzle.json) |
@@ -18415,6 +18419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Golden Eggs: Nori Nori Rhythm-kei - Nissan Note Original Version | 268205 | [268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json](./268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json) |
 | The World of Golden Eggs: Nori Nori Uta Dekichatte Kei | 124089 | [124089-the-world-of-golden-eggs-nori-nori-uta-dekichatte-kei.json](./124089-the-world-of-golden-eggs-nori-nori-uta-dekichatte-kei.json) |
 | The World of Golden Eggs: Norinori Rhythm-kei | 165340 | [165340-the-world-of-golden-eggs-norinori-rhythm-kei.json](./165340-the-world-of-golden-eggs-norinori-rhythm-kei.json) |
+| The World of Japanese Tea Through the Way of Tea | 349583 | [349583-the-world-of-japanese-tea-through-the-way-of-tea.json](./349583-the-world-of-japanese-tea-through-the-way-of-tea.json) |
 | The World of Kungfu: Dragon and Eagle | 156090 | [156090-the-world-of-kungfu-dragon-and-eagle.json](./156090-the-world-of-kungfu-dragon-and-eagle.json) |
 | The World of Legend VR | 75824 | [75824-the-world-of-legend-vr.json](./75824-the-world-of-legend-vr.json) |
 | The World of Magic | 174728 | [174728-the-world-of-magic.json](./174728-the-world-of-magic.json) |
@@ -25707,6 +25712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tow Truck Driver Simulator 2023 | 261111 | [261111-tow-truck-driver-simulator-2023.json](./261111-tow-truck-driver-simulator-2023.json) |
 | Tow Truck Police Simulator | 401438 | [401438-tow-truck-police-simulator.json](./401438-tow-truck-police-simulator.json) |
 | Tow Truck: Max | 102137 | [102137-tow-truck-max.json](./102137-tow-truck-max.json) |
+| Towa and the Guardians of the Sacred Tree: Deluxe Edition | 349599 | [349599-towa-and-the-guardians-of-the-sacred-tree-deluxe-edition.json](./349599-towa-and-the-guardians-of-the-sacred-tree-deluxe-edition.json) |
 | Towa no Sakura | 203199 | [203199-towa-no-sakura.json](./203199-towa-no-sakura.json) |
 | Towa Tsugai | 222776 | [222776-towa-tsugai.json](./222776-towa-tsugai.json) |
 | Towaga: Among Shadows | 124407 | [124407-towaga-among-shadows.json](./124407-towaga-among-shadows.json) |
@@ -30895,6 +30901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tung Tung Together: Online Deathrun Party | 390634 | [390634-tung-tung-together-online-deathrun-party.json](./390634-tung-tung-together-online-deathrun-party.json) |
 | Tung Tung Tung Sahur Report | 356817 | [356817-tung-tung-tung-sahur-report.json](./356817-tung-tung-tung-sahur-report.json) |
 | Tung Tung Tung Sahur Runner | 344286 | [344286-tung-tung-tung-sahur-runner.json](./344286-tung-tung-tung-sahur-runner.json) |
+| Tungrooms: Escape Sahur | 349582 | [349582-tungrooms-escape-sahur.json](./349582-tungrooms-escape-sahur.json) |
 | Tungsten Orbital Destroyer | 180700 | [180700-tungsten-orbital-destroyer.json](./180700-tungsten-orbital-destroyer.json) |
 | Tungtung's Nightmare | 375934 | [375934-tungtungs-nightmare.json](./375934-tungtungs-nightmare.json) |
 | Tungulus | 47986 | [47986-tungulus.json](./47986-tungulus.json) |
