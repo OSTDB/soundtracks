@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallowanderband | 312762 | [312762-hallowanderband.json](./312762-hallowanderband.json) |
 | Hallowed Crucible | 333363 | [333363-hallowed-crucible.json](./333363-hallowed-crucible.json) |
 | Hallowed Haven | 292973 | [292973-hallowed-haven.json](./292973-hallowed-haven.json) |
+| Hallowed Legends: Samhain | 375326 | [375326-hallowed-legends-samhain.json](./375326-hallowed-legends-samhain.json) |
 | Hallowed Legends: Samhain - Collector's Edition | 375380 | [375380-hallowed-legends-samhain-collectors-edition.json](./375380-hallowed-legends-samhain-collectors-edition.json) |
 | Hallowed Legends: Ship of Bones | 376641 | [376641-hallowed-legends-ship-of-bones.json](./376641-hallowed-legends-ship-of-bones.json) |
 | Hallowed Legends: Ship of Bones - Collector's Edition | 416526 | [416526-hallowed-legends-ship-of-bones-collectors-edition.json](./416526-hallowed-legends-ship-of-bones-collectors-edition.json) |
@@ -5406,6 +5407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HereticOS Mr. Lab | 369363 | [369363-hereticos-mr-lab.json](./369363-hereticos-mr-lab.json) |
 | HereWith | 236889 | [236889-herewith.json](./236889-herewith.json) |
 | Herezh: Generations of Heroes | 212183 | [212183-herezh-generations-of-heroes.json](./212183-herezh-generations-of-heroes.json) |
+| Herihor | 375140 | [375140-herihor.json](./375140-herihor.json) |
 | Herios | 182315 | [182315-herios.json](./182315-herios.json) |
 | Heritage | 323499 | [323499-heritage.json](./323499-heritage.json) |
 | Heritage | 376042 | [376042-heritage.json](./376042-heritage.json) |
@@ -10652,6 +10654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Take Off Your Mask: Remastered | 143151 | [143151-how-to-take-off-your-mask-remastered.json](./143151-how-to-take-off-your-mask-remastered.json) |
 | How to Tame a Succubus | 252681 | [252681-how-to-tame-a-succubus.json](./252681-how-to-tame-a-succubus.json) |
 | How to Train Your Bro's Girlfriend | 412714 | [412714-how-to-train-your-bros-girlfriend.json](./412714-how-to-train-your-bros-girlfriend.json) |
+| How to Train Your Cock | 375475 | [375475-how-to-train-your-cock.json](./375475-how-to-train-your-cock.json) |
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
 | How to Train Your Dragon | 7012 | [7012-how-to-train-your-dragon.json](./7012-how-to-train-your-dragon.json) |
 | How to Train Your Dragon 2 | 50737 | [50737-how-to-train-your-dragon-2.json](./50737-how-to-train-your-dragon-2.json) |
@@ -10680,6 +10683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Howling Dogs | 62648 | [62648-howling-dogs.json](./62648-howling-dogs.json) |
 | Howling Village: Echoes | 175810 | [175810-howling-village-echoes.json](./175810-howling-village-echoes.json) |
 | Howling Woods | 424006 | [424006-howling-woods.json](./424006-howling-woods.json) |
+| HowlKraul | 375460 | [375460-howlkraul.json](./375460-howlkraul.json) |
 | HowLongToBeat: The Game | 362903 | [362903-howlongtobeat-the-game.json](./362903-howlongtobeat-the-game.json) |
 | Howloween Hero | 178362 | [178362-howloween-hero.json](./178362-howloween-hero.json) |
 | Howlville | 54104 | [54104-howlville.json](./54104-howlville.json) |
