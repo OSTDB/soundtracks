@@ -1522,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sands | 236348 | [236348-sands.json](./236348-sands.json) |
 | Sands of Aura | 143129 | [143129-sands-of-aura.json](./143129-sands-of-aura.json) |
 | Sands of Avalon: Forge Your Legend | 390861 | [390861-sands-of-avalon-forge-your-legend.json](./390861-sands-of-avalon-forge-your-legend.json) |
+| Sands of Decay | 386085 | [386085-sands-of-decay.json](./386085-sands-of-decay.json) |
 | Sands of Destruction | 24331 | [24331-sands-of-destruction.json](./24331-sands-of-destruction.json) |
 | Sands of Fate | 414293 | [414293-sands-of-fate.json](./414293-sands-of-fate.json) |
 | Sands of Hope | 289459 | [289459-sands-of-hope.json](./289459-sands-of-hope.json) |
@@ -4131,6 +4132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sebastian's Sea Urchin Symphony | 246518 | [246518-sebastians-sea-urchin-symphony.json](./246518-sebastians-sea-urchin-symphony.json) |
 | Sebastian's Treasure Hunt | 246520 | [246520-sebastians-treasure-hunt.json](./246520-sebastians-treasure-hunt.json) |
 | Sebevrah | 377067 | [377067-sebevrah.json](./377067-sebevrah.json) |
+| Sebi 16 | 386072 | [386072-sebi-16.json](./386072-sebi-16.json) |
 | Sebil Engineering | 184506 | [184506-sebil-engineering.json](./184506-sebil-engineering.json) |
 | Seblen: Battle! | 169391 | [169391-seblen-battle.json](./169391-seblen-battle.json) |
 | Secluded | 181807 | [181807-secluded.json](./181807-secluded.json) |
@@ -11002,6 +11004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren Sands | 350418 | [350418-siren-sands.json](./350418-siren-sands.json) |
 | Siren: Blood Curse | 7457 | [7457-siren-blood-curse.json](./7457-siren-blood-curse.json) |
 | Siren's Call: Escape Velocity | 258728 | [258728-sirens-call-escape-velocity.json](./258728-sirens-call-escape-velocity.json) |
+| Siren's Call: Second Wind | 386087 | [386087-sirens-call-second-wind.json](./386087-sirens-call-second-wind.json) |
 | Siren's Serenade | 179529 | [179529-sirens-serenade.json](./179529-sirens-serenade.json) |
 | Sirène | 310975 | [310975-sirene.json](./310975-sirene.json) |
 | Sirenhead | 135760 | [135760-sirenhead.json](./135760-sirenhead.json) |
@@ -27191,6 +27194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stubbs the Zombie in Rebel Without a Pulse | 79 | [79-stubbs-the-zombie-in-rebel-without-a-pulse.json](./79-stubbs-the-zombie-in-rebel-without-a-pulse.json) |
 | Stuck at Home | 71004 | [71004-stuck-at-home.json](./71004-stuck-at-home.json) |
 | Stuck At Lv. 1 | 305126 | [305126-stuck-at-lv-1.json](./305126-stuck-at-lv-1.json) |
+| Stuck in a Well with a Frog | 386083 | [386083-stuck-in-a-well-with-a-frog.json](./386083-stuck-in-a-well-with-a-frog.json) |
 | Stuck in Fears: North-east | 383471 | [383471-stuck-in-fears-north-east.json](./383471-stuck-in-fears-north-east.json) |
 | Stuck In Paris | 182132 | [182132-stuck-in-paris.json](./182132-stuck-in-paris.json) |
 | Stuck in the Airport | 357186 | [357186-stuck-in-the-airport.json](./357186-stuck-in-the-airport.json) |
@@ -27864,6 +27868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Minimalist Infinite | 200014 | [200014-sudoku-minimalist-infinite.json](./200014-sudoku-minimalist-infinite.json) |
 | Sudoku Office Style | 58254 | [58254-sudoku-office-style.json](./58254-sudoku-office-style.json) |
 | Sudoku Online | 275650 | [275650-sudoku-online.json](./275650-sudoku-online.json) |
+| Sudoku Online With Friends | 386073 | [386073-sudoku-online-with-friends.json](./386073-sudoku-online-with-friends.json) |
 | Sudoku Origin | 101677 | [101677-sudoku-origin.json](./101677-sudoku-origin.json) |
 | Sudoku Original | 103458 | [103458-sudoku-original.json](./103458-sudoku-original.json) |
 | Sudoku Party | 326814 | [326814-sudoku-party.json](./326814-sudoku-party.json) |
