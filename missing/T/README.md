@@ -5295,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Bruce Flea | 258474 | [258474-the-adventures-of-bruce-flea.json](./258474-the-adventures-of-bruce-flea.json) |
 | The Adventures of Bryan Scott | 172541 | [172541-the-adventures-of-bryan-scott.json](./172541-the-adventures-of-bryan-scott.json) |
 | The Adventures of Buckaroo Banzai: Across the Eighth Dimension | 2299 | [2299-the-adventures-of-buckaroo-banzai-across-the-eighth-dimension.json](./2299-the-adventures-of-buckaroo-banzai-across-the-eighth-dimension.json) |
+| The Adventures of Bucken Berry and Ala-Gold | 367691 | [367691-the-adventures-of-bucken-berry-and-ala-gold.json](./367691-the-adventures-of-bucken-berry-and-ala-gold.json) |
 | The Adventures of Bunny and Pig | 265127 | [265127-the-adventures-of-bunny-and-pig.json](./265127-the-adventures-of-bunny-and-pig.json) |
 | The Adventures of Busy Billy | 206207 | [206207-the-adventures-of-busy-billy.json](./206207-the-adventures-of-busy-billy.json) |
 | The Adventures of Capitano Navarro | 51512 | [51512-the-adventures-of-capitano-navarro.json](./51512-the-adventures-of-capitano-navarro.json) |
@@ -15527,6 +15528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow of Oberbaum Bridge | 184718 | [184718-the-shadow-of-oberbaum-bridge.json](./184718-the-shadow-of-oberbaum-bridge.json) |
 | The Shadow of Shadows | 377047 | [377047-the-shadow-of-shadows.json](./377047-the-shadow-of-shadows.json) |
 | The Shadow of Swallow | 333045 | [333045-the-shadow-of-swallow.json](./333045-the-shadow-of-swallow.json) |
+| The Shadow of the Cherry Trees | 367659 | [367659-the-shadow-of-the-cherry-trees.json](./367659-the-shadow-of-the-cherry-trees.json) |
 | The Shadow of the Evil Tower | 270875 | [270875-the-shadow-of-the-evil-tower.json](./270875-the-shadow-of-the-evil-tower.json) |
 | The Shadow of the Warring States Period | 348872 | [348872-the-shadow-of-the-warring-states-period.json](./348872-the-shadow-of-the-warring-states-period.json) |
 | The Shadow of Yidhra | 158373 | [158373-the-shadow-of-yidhra.json](./158373-the-shadow-of-yidhra.json) |
@@ -18113,6 +18115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Winter Games | 264346 | [264346-the-winter-games.json](./264346-the-winter-games.json) |
 | The Winter Solstice | 70917 | [70917-the-winter-solstice.json](./70917-the-winter-solstice.json) |
 | The Winter Tower | 226439 | [226439-the-winter-tower.json](./226439-the-winter-tower.json) |
+| The Winter Wedding | 367680 | [367680-the-winter-wedding.json](./367680-the-winter-wedding.json) |
 | The Winter's Deal | 140264 | [140264-the-winters-deal.json](./140264-the-winters-deal.json) |
 | The Winter's Deal: Frosty Edition | 127601 | [127601-the-winters-deal-frosty-edition.json](./127601-the-winters-deal-frosty-edition.json) |
 | The Winter's Embrace: Celestial Gateway | 263867 | [263867-the-winters-embrace-celestial-gateway.json](./263867-the-winters-embrace-celestial-gateway.json) |
