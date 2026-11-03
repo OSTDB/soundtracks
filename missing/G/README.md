@@ -5192,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go for a Punch! Saki Sanobashi | 264722 | [264722-go-for-a-punch-saki-sanobashi.json](./264722-go-for-a-punch-saki-sanobashi.json) |
 | Go For a Walk | 128165 | [128165-go-for-a-walk.json](./128165-go-for-a-walk.json) |
 | Go For Launch: Mercury | 32765 | [32765-go-for-launch-mercury.json](./32765-go-for-launch-mercury.json) |
+| Go Forward Survivors | 373775 | [373775-go-forward-survivors.json](./373775-go-forward-survivors.json) |
 | Go Go Ackman | 15926 | [15926-go-go-ackman.json](./15926-go-go-ackman.json) |
 | Go Go Ackman | 83923 | [83923-go-go-ackman.json](./83923-go-go-ackman.json) |
 | Go Go Burunyanman Ecstasy!!! | 383005 | [383005-go-go-burunyanman-ecstasy.json](./383005-go-go-burunyanman-ecstasy.json) |
