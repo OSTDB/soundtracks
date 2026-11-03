@@ -3044,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oodlescape - The Apocalypse | 29598 | [29598-oodlescape-the-apocalypse.json](./29598-oodlescape-the-apocalypse.json) |
 | Ooe | 166397 | [166397-ooe.json](./166397-ooe.json) |
 | Ooedo Blacksmith | 143445 | [143445-ooedo-blacksmith.json](./143445-ooedo-blacksmith.json) |
+| Ooedo Huusui Ingaritsu: Hanabi 2 | 386064 | [386064-ooedo-huusui-ingaritsu-hanabi-2.json](./386064-ooedo-huusui-ingaritsu-hanabi-2.json) |
 | Ooedo Senryoubako | 269521 | [269521-ooedo-senryoubako.json](./269521-ooedo-senryoubako.json) |
 | Ooer | 137342 | [137342-ooer.json](./137342-ooer.json) |
 | Oof Dah Lite | 392967 | [392967-oof-dah-lite.json](./392967-oof-dah-lite.json) |
