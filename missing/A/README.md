@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little to the Left: Seeing Stars | 305034 | [305034-a-little-to-the-left-seeing-stars.json](./305034-a-little-to-the-left-seeing-stars.json) |
 | A Little to the Left: Something Eggstra | 319541 | [319541-a-little-to-the-left-something-eggstra.json](./319541-a-little-to-the-left-something-eggstra.json) |
 | A Little Turtle Has Just Hatched on a Beach in Texas. | 180491 | [180491-a-little-turtle-has-just-hatched-on-a-beach-in-texas.json](./180491-a-little-turtle-has-just-hatched-on-a-beach-in-texas.json) |
+| A Little Turtle's Big Adventure | 383665 | [383665-a-little-turtles-big-adventure.json](./383665-a-little-turtles-big-adventure.json) |
 | A Little Walk in the Woods | 274734 | [274734-a-little-walk-in-the-woods.json](./274734-a-little-walk-in-the-woods.json) |
 | A Little War | 107053 | [107053-a-little-war.json](./107053-a-little-war.json) |
 | A Little World Generator | 182085 | [182085-a-little-world-generator.json](./182085-a-little-world-generator.json) |
@@ -14718,6 +14719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aster Force | 195114 | [195114-aster-force.json](./195114-aster-force.json) |
 | Aster Initiative | 274035 | [274035-aster-initiative.json](./274035-aster-initiative.json) |
 | Aster League: 2179 | 408839 | [408839-aster-league-2179.json](./408839-aster-league-2179.json) |
+| Aster Pebble and the Case of Bad Bureaucracy | 383402 | [383402-aster-pebble-and-the-case-of-bad-bureaucracy.json](./383402-aster-pebble-and-the-case-of-bad-bureaucracy.json) |
 | Astera | 304678 | [304678-astera.json](./304678-astera.json) |
 | Asterball | 290883 | [290883-asterball.json](./290883-asterball.json) |
 | Astercys | 307875 | [307875-astercys.json](./307875-astercys.json) |
