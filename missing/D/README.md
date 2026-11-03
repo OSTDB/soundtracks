@@ -1076,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Street | 391810 | [391810-dangerous-street.json](./391810-dangerous-street.json) |
 | Dangerous Streets | 12033 | [12033-dangerous-streets.json](./12033-dangerous-streets.json) |
 | Dangerous Streets / Wing Commander | 82504 | [82504-dangerous-streets-wing-commander.json](./82504-dangerous-streets-wing-commander.json) |
+| Dangerous Superheroes After Dark: Heroes Behind the Mask | 395652 | [395652-dangerous-superheroes-after-dark-heroes-behind-the-mask.json](./395652-dangerous-superheroes-after-dark-heroes-behind-the-mask.json) |
 | Dangerous Superheroes After Dark: Heroines Behind the Mask | 396131 | [396131-dangerous-superheroes-after-dark-heroines-behind-the-mask.json](./396131-dangerous-superheroes-after-dark-heroines-behind-the-mask.json) |
 | Dangerous Village Tradition | 273660 | [273660-dangerous-village-tradition.json](./273660-dangerous-village-tradition.json) |
 | Dangerous Waters | 14789 | [14789-dangerous-waters.json](./14789-dangerous-waters.json) |
@@ -8514,6 +8515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Night | 326010 | [326010-dig-night.json](./326010-dig-night.json) |
 | Dig Odyssey: Cosmic Mining | 251205 | [251205-dig-odyssey-cosmic-mining.json](./251205-dig-odyssey-cosmic-mining.json) |
 | Dig or Die | 17686 | [17686-dig-or-die.json](./17686-dig-or-die.json) |
+| Dig Out: Prison Escape Simulator | 395639 | [395639-dig-out-prison-escape-simulator.json](./395639-dig-out-prison-escape-simulator.json) |
 | Dig Out! | 87330 | [87330-dig-out.json](./87330-dig-out.json) |
 | Dig Raiders: Anomaly Extraction | 406661 | [406661-dig-raiders-anomaly-extraction.json](./406661-dig-raiders-anomaly-extraction.json) |
 | Dig That Gold | 41523 | [41523-dig-that-gold.json](./41523-dig-that-gold.json) |
@@ -10269,6 +10271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distorted Travesty 2: The Sequel to the Prequel | 54746 | [54746-distorted-travesty-2-the-sequel-to-the-prequel.json](./54746-distorted-travesty-2-the-sequel-to-the-prequel.json) |
 | Distorted world | 157030 | [157030-distorted-world.json](./157030-distorted-world.json) |
 | Distorted: Night Shift Anomalies | 420693 | [420693-distorted-night-shift-anomalies.json](./420693-distorted-night-shift-anomalies.json) |
+| Distorted: The Living Manor | 395640 | [395640-distorted-the-living-manor.json](./395640-distorted-the-living-manor.json) |
 | Distortion Nation | 135048 | [135048-distortion-nation.json](./135048-distortion-nation.json) |
 | Distraction Machine | 204226 | [204226-distraction-machine.json](./204226-distraction-machine.json) |
 | Distraint | 13664 | [13664-distraint.json](./13664-distraint.json) |
@@ -13352,6 +13355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dozen Chess | 420782 | [420782-dozen-chess.json](./420782-dozen-chess.json) |
 | Dozie Penguinn | 238288 | [238288-dozie-penguinn.json](./238288-dozie-penguinn.json) |
 | Dozie Penguins | 216411 | [216411-dozie-penguins.json](./216411-dozie-penguins.json) |
+| Dozy in Grackleland | 395612 | [395612-dozy-in-grackleland.json](./395612-dozy-in-grackleland.json) |
 | DP.T: Dr Pepper Terror | 140916 | [140916-dp-t-dr-pepper-terror.json](./140916-dp-t-dr-pepper-terror.json) |
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
 | DPS Idle 2 | 253970 | [253970-dps-idle-2.json](./253970-dps-idle-2.json) |
