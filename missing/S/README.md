@@ -5597,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Server is Down | 138751 | [138751-server-is-down.json](./138751-server-is-down.json) |
 | Server Owner Tycoon | 211176 | [211176-server-owner-tycoon.json](./211176-server-owner-tycoon.json) |
 | Server-Admin Simulator | 404189 | [404189-server-admin-simulator.json](./404189-server-admin-simulator.json) |
+| Service Area Simulator | 379065 | [379065-service-area-simulator.json](./379065-service-area-simulator.json) |
 | Service of Five Graces | 395046 | [395046-service-of-five-graces.json](./395046-service-of-five-graces.json) |
 | Service Please | 346532 | [346532-service-please.json](./346532-service-please.json) |
 | Service Station Car Parking | 96924 | [96924-service-station-car-parking.json](./96924-service-station-car-parking.json) |
@@ -7100,6 +7101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Share | 33417 | [33417-share.json](./33417-share.json) |
 | Shared Beauty | 270760 | [270760-shared-beauty.json](./270760-shared-beauty.json) |
 | Shared RC | 415307 | [415307-shared-rc.json](./415307-shared-rc.json) |
+| Shared Visions | 378932 | [378932-shared-visions.json](./378932-shared-visions.json) |
 | Shareholders | 311573 | [311573-shareholders.json](./311573-shareholders.json) |
 | Sharehouse | 408724 | [408724-sharehouse.json](./408724-sharehouse.json) |
 | Sharf | 77649 | [77649-sharf.json](./77649-sharf.json) |
@@ -11779,6 +11781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulldude | 181220 | [181220-skulldude.json](./181220-skulldude.json) |
 | Skullforge: The Hunt | 110272 | [110272-skullforge-the-hunt.json](./110272-skullforge-the-hunt.json) |
 | Skullgirls | 9425 | [9425-skullgirls.json](./9425-skullgirls.json) |
+| Skullgirls 2nd Encore: Upgrade | 379059 | [379059-skullgirls-2nd-encore-upgrade.json](./379059-skullgirls-2nd-encore-upgrade.json) |
 | Skullgirls Encore | 85703 | [85703-skullgirls-encore.json](./85703-skullgirls-encore.json) |
 | Skullgirls Encore: Beowulf | 127262 | [127262-skullgirls-encore-beowulf.json](./127262-skullgirls-encore-beowulf.json) |
 | Skullgirls Encore: Big Band | 127555 | [127555-skullgirls-encore-big-band.json](./127555-skullgirls-encore-big-band.json) |
@@ -15351,6 +15354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
 | Sokodice | 147080 | [147080-sokodice.json](./147080-sokodice.json) |
 | SokoFarm | 292237 | [292237-sokofarm.json](./292237-sokofarm.json) |
+| Sokofox | 378743 | [378743-sokofox.json](./378743-sokofox.json) |
 | SokoFrog | 219593 | [219593-sokofrog.json](./219593-sokofrog.json) |
 | Sokogeek | 403321 | [403321-sokogeek.json](./403321-sokogeek.json) |
 | Sokogeon | 134254 | [134254-sokogeon.json](./134254-sokogeon.json) |
@@ -18592,7 +18596,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23032,6 +23035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Rush: Stack & Jump | 329432 | [329432-star-rush-stack-and-jump.json](./329432-star-rush-stack-and-jump.json) |
 | Star Saga: One - Beyond the Boundary | 2894 | [2894-star-saga-one-beyond-the-boundary.json](./2894-star-saga-one-beyond-the-boundary.json) |
 | Star Saga: Two - The Clathran Menace | 57662 | [57662-star-saga-two-the-clathran-menace.json](./57662-star-saga-two-the-clathran-menace.json) |
+| Star Sailors | 378737 | [378737-star-sailors.json](./378737-star-sailors.json) |
 | Star Saver | 27315 | [27315-star-saver.json](./27315-star-saver.json) |
 | Star Saviors | 17661 | [17661-star-saviors.json](./17661-star-saviors.json) |
 | Star Scandal | 298894 | [298894-star-scandal.json](./298894-star-scandal.json) |
