@@ -5658,7 +5658,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -15912,6 +15911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshot: The Great Espionage | 159516 | [159516-moonshot-the-great-espionage.json](./159516-moonshot-the-great-espionage.json) |
 | Moonsigil Atlas | 322204 | [322204-moonsigil-atlas.json](./322204-moonsigil-atlas.json) |
 | Moonsouls: Echoes of the Past | 234301 | [234301-moonsouls-echoes-of-the-past.json](./234301-moonsouls-echoes-of-the-past.json) |
+| Moonsouls: The Lost Sanctum - Collector's Edition | 357673 | [357673-moonsouls-the-lost-sanctum-collectors-edition.json](./357673-moonsouls-the-lost-sanctum-collectors-edition.json) |
 | Moonspire | 41179 | [41179-moonspire.json](./41179-moonspire.json) |
 | MoonSpire | 336056 | [336056-moonspire.json](./336056-moonspire.json) |
 | Moonsters | 180995 | [180995-moonsters.json](./180995-moonsters.json) |
@@ -19940,6 +19940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pet | 245431 | [245431-my-pet.json](./245431-my-pet.json) |
 | My Pet Fan | 351721 | [351721-my-pet-fan.json](./351721-my-pet-fan.json) |
 | My Pet Femboy | 355617 | [355617-my-pet-femboy.json](./355617-my-pet-femboy.json) |
+| My Pet Flesh Monster | 357687 | [357687-my-pet-flesh-monster.json](./357687-my-pet-flesh-monster.json) |
 | My Pet Hooligan | 255474 | [255474-my-pet-hooligan.json](./255474-my-pet-hooligan.json) |
 | My Pet Hooligan: Mall Santa Pack | 279155 | [279155-my-pet-hooligan-mall-santa-pack.json](./279155-my-pet-hooligan-mall-santa-pack.json) |
 | My Pet Hooligan: Ugly Christmas Sweater Pack | 279156 | [279156-my-pet-hooligan-ugly-christmas-sweater-pack.json](./279156-my-pet-hooligan-ugly-christmas-sweater-pack.json) |
@@ -20766,6 +20767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Tales 2: The Spirit Mask | 147162 | [147162-mystery-tales-2-the-spirit-mask.json](./147162-mystery-tales-2-the-spirit-mask.json) |
 | Mystery Tales: Alaskan Wild | 140238 | [140238-mystery-tales-alaskan-wild.json](./140238-mystery-tales-alaskan-wild.json) |
 | Mystery Tales: Art and Souls | 187922 | [187922-mystery-tales-art-and-souls.json](./187922-mystery-tales-art-and-souls.json) |
+| Mystery Tales: Dealer's Choices - Collector's Edition | 357675 | [357675-mystery-tales-dealers-choices-collectors-edition.json](./357675-mystery-tales-dealers-choices-collectors-edition.json) |
 | Mystery Tales: Her Own Eyes HD - A Hidden Object Mystery (Full) | 90065 | [90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json](./90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json) |
 | Mystery Tales: Master of Puppets | 187948 | [187948-mystery-tales-master-of-puppets.json](./187948-mystery-tales-master-of-puppets.json) |
 | Mystery Tales: Master of Puppets - Collector's Edition | 170200 | [170200-mystery-tales-master-of-puppets-collectors-edition.json](./170200-mystery-tales-master-of-puppets-collectors-edition.json) |
