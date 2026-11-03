@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off the Chains Disc Golf | 170247 | [170247-off-the-chains-disc-golf.json](./170247-off-the-chains-disc-golf.json) |
 | Off the Clock | 184363 | [184363-off-the-clock.json](./184363-off-the-clock.json) |
 | Off the Grid | 89216 | [89216-off-the-grid.json](./89216-off-the-grid.json) |
+| Off The Grid: Bad Dream | 382363 | [382363-off-the-grid-bad-dream.json](./382363-off-the-grid-bad-dream.json) |
 | Off the Rails | 223638 | [223638-off-the-rails.json](./223638-off-the-rails.json) |
 | Off the Rails | 396761 | [396761-off-the-rails.json](./396761-off-the-rails.json) |
 | Off The Rails | 281989 | [281989-off-the-rails.json](./281989-off-the-rails.json) |
@@ -1527,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olteus II | 266890 | [266890-olteus-ii.json](./266890-olteus-ii.json) |
 | Olyen | 378239 | [378239-olyen.json](./378239-olyen.json) |
 | Olympia Rising | 17311 | [17311-olympia-rising.json](./17311-olympia-rising.json) |
+| Olympia Soirée Catharsis | 382140 | [382140-olympia-soiree-catharsis.json](./382140-olympia-soiree-catharsis.json) |
 | Olympia: Festival of the Gods | 341504 | [341504-olympia-festival-of-the-gods.json](./341504-olympia-festival-of-the-gods.json) |
 | Olympian Knights | 216653 | [216653-olympian-knights.json](./216653-olympian-knights.json) |
 | Olympian Wars | 235610 | [235610-olympian-wars.json](./235610-olympian-wars.json) |
