@@ -3404,6 +3404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scratch Game - Halloween Night | 89750 | [89750-scratch-game-halloween-night.json](./89750-scratch-game-halloween-night.json) |
 | Scratch Golf | 46542 | [46542-scratch-golf.json](./46542-scratch-golf.json) |
 | Scratch Inc. | 350867 | [350867-scratch-inc.json](./350867-scratch-inc.json) |
+| Scratch Off! | 396963 | [396963-scratch-off.json](./396963-scratch-off.json) |
 | Scratch the Ticket | 404220 | [404220-scratch-the-ticket.json](./404220-scratch-the-ticket.json) |
 | Scratch Wars | 139365 | [139365-scratch-wars.json](./139365-scratch-wars.json) |
 | Scratch Your Luck | 424012 | [424012-scratch-your-luck.json](./424012-scratch-your-luck.json) |
@@ -18492,7 +18493,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21247,6 +21247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spongebob: Gone Fishing | 242346 | [242346-spongebob-gone-fishing.json](./242346-spongebob-gone-fishing.json) |
 | SpongeBob: Krusty Cook-Off | 130748 | [130748-spongebob-krusty-cook-off.json](./130748-spongebob-krusty-cook-off.json) |
 | SpongeBob: Krusty Cook-Off - Extra Krusty Edition | 221331 | [221331-spongebob-krusty-cook-off-extra-krusty-edition.json](./221331-spongebob-krusty-cook-off-extra-krusty-edition.json) |
+| SpongeBob: Patty Pursuit 2 | 396983 | [396983-spongebob-patty-pursuit-2.json](./396983-spongebob-patty-pursuit-2.json) |
 | SpongeBob: Sponge on the Run | 87335 | [87335-spongebob-sponge-on-the-run.json](./87335-spongebob-sponge-on-the-run.json) |
 | SpongeBob's Atlantis Squarepantis | 221834 | [221834-spongebobs-atlantis-squarepantis.json](./221834-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Atlantis Squarepantis | 2773 | [2773-spongebobs-atlantis-squarepantis.json](./2773-spongebobs-atlantis-squarepantis.json) |
