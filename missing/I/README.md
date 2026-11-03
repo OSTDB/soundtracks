@@ -2603,6 +2603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impulsive Force | 187365 | [187365-impulsive-force.json](./187365-impulsive-force.json) |
 | Impulsow | 113286 | [113286-impulsow.json](./113286-impulsow.json) |
 | Impunes | 345147 | [345147-impunes.json](./345147-impunes.json) |
+| Imry | 389367 | [389367-imry.json](./389367-imry.json) |
 | IMSA World Championship Racing | 237511 | [237511-imsa-world-championship-racing.json](./237511-imsa-world-championship-racing.json) |
 | Imscared | 33822 | [33822-imscared.json](./33822-imscared.json) |
 | Imscared: A Pixelated Nightmare | 288083 | [288083-imscared-a-pixelated-nightmare.json](./288083-imscared-a-pixelated-nightmare.json) |
@@ -3616,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
