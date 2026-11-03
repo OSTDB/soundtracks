@@ -1645,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaahh!!! Real Monsters | 5339 | [5339-aaahh-real-monsters.json](./5339-aaahh-real-monsters.json) |
 | Aaargh! | 11883 | [11883-aaargh.json](./11883-aaargh.json) |
 | Aaarghpocalypse | 273874 | [273874-aaarghpocalypse.json](./273874-aaarghpocalypse.json) |
+| Aaattack | 396993 | [396993-aaattack.json](./396993-aaattack.json) |
 | Aabahran: The Forsaken Lands | 229139 | [229139-aabahran-the-forsaken-lands.json](./229139-aabahran-the-forsaken-lands.json) |
 | Aabs Animals | 8626 | [8626-aabs-animals.json](./8626-aabs-animals.json) |
 | Aaero | 18637 | [18637-aaero.json](./18637-aaero.json) |
@@ -4835,6 +4836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aibou DS | 269543 | [269543-aibou-ds.json](./269543-aibou-ds.json) |
 | AiCaterine | 259248 | [259248-aicaterine.json](./259248-aicaterine.json) |
 | Aichi Emperors Zero | 176672 | [176672-aichi-emperors-zero.json](./176672-aichi-emperors-zero.json) |
+| Aicomi | 396955 | [396955-aicomi.json](./396955-aicomi.json) |
 | Aida: The Beginning of the Story | 139623 | [139623-aida-the-beginning-of-the-story.json](./139623-aida-the-beginning-of-the-story.json) |
 | Aida's Bizarre Halloween | 216348 | [216348-aidas-bizarre-halloween.json](./216348-aidas-bizarre-halloween.json) |
 | Aidan in Danger | 296281 | [296281-aidan-in-danger.json](./296281-aidan-in-danger.json) |
@@ -8625,6 +8627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anata o Yurusanai | 59396 | [59396-anata-o-yurusanai.json](./59396-anata-o-yurusanai.json) |
 | Anata wa Akumade Watashi no Mono | 221034 | [221034-anata-wa-akumade-watashi-no-mono.json](./221034-anata-wa-akumade-watashi-no-mono.json) |
 | Anata wa Watashi no Danna-sama | 163233 | [163233-anata-wa-watashi-no-danna-sama.json](./163233-anata-wa-watashi-no-danna-sama.json) |
+| Anathema | 396970 | [396970-anathema.json](./396970-anathema.json) |
 | Anathema | 411408 | [411408-anathema.json](./411408-anathema.json) |
 | Anathema | 54688 | [54688-anathema.json](./54688-anathema.json) |
 | Anathema Tower Defense | 272227 | [272227-anathema-tower-defense.json](./272227-anathema-tower-defense.json) |
@@ -14536,6 +14539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Course 2 | 409054 | [409054-assault-course-2.json](./409054-assault-course-2.json) |
 | Assault Dragon: The Day 5 | 65735 | [65735-assault-dragon-the-day-5.json](./65735-assault-dragon-the-day-5.json) |
 | Assault Fire | 137583 | [137583-assault-fire.json](./137583-assault-fire.json) |
+| Assault Gear | 397007 | [397007-assault-gear.json](./397007-assault-gear.json) |
 | Assault Gunners | 8645 | [8645-assault-gunners.json](./8645-assault-gunners.json) |
 | Assault Gunners HD Edition | 87854 | [87854-assault-gunners-hd-edition.json](./87854-assault-gunners-hd-edition.json) |
 | Assault Gunners HD Edition: Extra Pack | 87855 | [87855-assault-gunners-hd-edition-extra-pack.json](./87855-assault-gunners-hd-edition-extra-pack.json) |
