@@ -6633,6 +6633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShadowFlare | 70866 | [70866-shadowflare.json](./70866-shadowflare.json) |
 | Shadowforge | 138684 | [138684-shadowforge.json](./138684-shadowforge.json) |
 | Shadowforge Chronicles | 332341 | [332341-shadowforge-chronicles.json](./332341-shadowforge-chronicles.json) |
+| Shadowframe | 349569 | [349569-shadowframe.json](./349569-shadowframe.json) |
 | Shadowgate | 389384 | [389384-shadowgate.json](./389384-shadowgate.json) |
 | Shadowgate | 8697 | [8697-shadowgate.json](./8697-shadowgate.json) |
 | Shadowgate | 8866 | [8866-shadowgate.json](./8866-shadowgate.json) |
@@ -8206,6 +8207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi, Koi Utsutsu: Banka Aya Emaki | 76232 | [76232-shinobi-koi-utsutsu-banka-aya-emaki.json](./76232-shinobi-koi-utsutsu-banka-aya-emaki.json) |
 | Shinobi, Koi Utsutsu: Banka Aya Emaki - Limited Edition | 205269 | [205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json](./205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json) |
 | Shinobi: Art of Vengeance | 279630 | [279630-shinobi-art-of-vengeance.json](./279630-shinobi-art-of-vengeance.json) |
+| Shinobi: Art of Vengeance - Digital Deluxe Edition | 349598 | [349598-shinobi-art-of-vengeance-digital-deluxe-edition.json](./349598-shinobi-art-of-vengeance-digital-deluxe-edition.json) |
 | Shinobi: Art of Vengeance - Sega Villains Stage | 375165 | [375165-shinobi-art-of-vengeance-sega-villains-stage.json](./375165-shinobi-art-of-vengeance-sega-villains-stage.json) |
 | Shinobi: Art of Vengeance Blue Outfit | 373903 | [373903-shinobi-art-of-vengeance-blue-outfit.json](./373903-shinobi-art-of-vengeance-blue-outfit.json) |
 | Shinobi: The Warlord | 300722 | [300722-shinobi-the-warlord.json](./300722-shinobi-the-warlord.json) |
@@ -11946,6 +11948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Airplane Racer: Flight & Fight Simulator | 313156 | [313156-sky-airplane-racer-flight-and-fight-simulator.json](./313156-sky-airplane-racer-flight-and-fight-simulator.json) |
 | Sky Alert | 398981 | [398981-sky-alert.json](./398981-sky-alert.json) |
 | Sky And Earth | 292051 | [292051-sky-and-earth.json](./292051-sky-and-earth.json) |
+| Sky and Ground Assault: Call of Warzone & Fighter Aces Bundle | 349611 | [349611-sky-and-ground-assault-call-of-warzone-and-fighter-aces-bundle.json](./349611-sky-and-ground-assault-call-of-warzone-and-fighter-aces-bundle.json) |
 | Sky Arena | 60556 | [60556-sky-arena.json](./60556-sky-arena.json) |
 | Sky Attack | 365603 | [365603-sky-attack.json](./365603-sky-attack.json) |
 | Sky Avenger | 245157 | [245157-sky-avenger.json](./245157-sky-avenger.json) |
@@ -16361,6 +16364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SongRunner | 364567 | [364567-songrunner.json](./364567-songrunner.json) |
 | Songs for a Hero | 19719 | [19719-songs-for-a-hero.json](./19719-songs-for-a-hero.json) |
 | Songs for a Hero | 222283 | [222283-songs-for-a-hero.json](./222283-songs-for-a-hero.json) |
+| Songs for a Hero + Shieldmaiden Bundle | 349612 | [349612-songs-for-a-hero-shieldmaiden-bundle.json](./349612-songs-for-a-hero-shieldmaiden-bundle.json) |
 | Songs for a Hero 2: March of Malachi | 219497 | [219497-songs-for-a-hero-2-march-of-malachi.json](./219497-songs-for-a-hero-2-march-of-malachi.json) |
 | Songs for a Hero: Definitive Edition | 154980 | [154980-songs-for-a-hero-definitive-edition.json](./154980-songs-for-a-hero-definitive-edition.json) |
 | Songs for a Hero: Songs for the Dead | 163667 | [163667-songs-for-a-hero-songs-for-the-dead.json](./163667-songs-for-a-hero-songs-for-the-dead.json) |
@@ -18751,6 +18755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
