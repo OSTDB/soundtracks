@@ -14259,6 +14259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Cargo | 394499 | [394499-cosmo-cargo.json](./394499-cosmo-cargo.json) |
 | Cosmo Cats | 291360 | [291360-cosmo-cats.json](./291360-cosmo-cats.json) |
 | Cosmo Chaser | 120015 | [120015-cosmo-chaser.json](./120015-cosmo-chaser.json) |
+| Cosmo Command | 396263 | [396263-cosmo-command.json](./396263-cosmo-command.json) |
 | Cosmo Duel | 95576 | [95576-cosmo-duel.json](./95576-cosmo-duel.json) |
 | Cosmo Fighter 2 | 122628 | [122628-cosmo-fighter-2.json](./122628-cosmo-fighter-2.json) |
 | Cosmo Fighter II | 112162 | [112162-cosmo-fighter-ii.json](./112162-cosmo-fighter-ii.json) |
@@ -16382,6 +16383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Crime: Sniper Mission | 220163 | [220163-crimson-crime-sniper-mission.json](./220163-crimson-crime-sniper-mission.json) |
 | Crimson Defense | 95226 | [95226-crimson-defense.json](./95226-crimson-defense.json) |
 | Crimson Desert: Charting the Unknown | 416102 | [416102-crimson-desert-charting-the-unknown.json](./416102-crimson-desert-charting-the-unknown.json) |
+| Crimson Desert: Deluxe Edition | 396302 | [396302-crimson-desert-deluxe-edition.json](./396302-crimson-desert-deluxe-edition.json) |
 | Crimson Dragon | 4757 | [4757-crimson-dragon.json](./4757-crimson-dragon.json) |
 | Crimson Dragon Side Story | 79815 | [79815-crimson-dragon-side-story.json](./79815-crimson-dragon-side-story.json) |
 | Crimson Earth | 28945 | [28945-crimson-earth.json](./28945-crimson-earth.json) |
