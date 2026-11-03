@@ -11337,6 +11337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Case of Benedict Fox: Definitive Edition | 292897 | [292897-the-last-case-of-benedict-fox-definitive-edition.json](./292897-the-last-case-of-benedict-fox-definitive-edition.json) |
 | The Last Case of John Morley | 366598 | [366598-the-last-case-of-john-morley.json](./366598-the-last-case-of-john-morley.json) |
 | The Last Castle | 244418 | [244418-the-last-castle.json](./244418-the-last-castle.json) |
+| The Last Cat in the Universe | 388671 | [388671-the-last-cat-in-the-universe.json](./388671-the-last-cat-in-the-universe.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
 | The Last Cell | 181020 | [181020-the-last-cell.json](./181020-the-last-cell.json) |
 | The Last Chapter of Man | 62055 | [62055-the-last-chapter-of-man.json](./62055-the-last-chapter-of-man.json) |
@@ -11376,6 +11377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Defense! | 154264 | [154264-the-last-defense.json](./154264-the-last-defense.json) |
 | The Last Delivery Man on Earth | 374593 | [374593-the-last-delivery-man-on-earth.json](./374593-the-last-delivery-man-on-earth.json) |
 | The Last Delivery: Nightmare Courier | 380066 | [380066-the-last-delivery-nightmare-courier.json](./380066-the-last-delivery-nightmare-courier.json) |
+| The Last Departure | 388691 | [388691-the-last-departure.json](./388691-the-last-departure.json) |
 | The Last Dig | 344729 | [344729-the-last-dig.json](./344729-the-last-dig.json) |
 | The Last Dimension | 301371 | [301371-the-last-dimension.json](./301371-the-last-dimension.json) |
 | The Last Dinner | 113493 | [113493-the-last-dinner.json](./113493-the-last-dinner.json) |
@@ -11752,6 +11754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ledge | 262425 | [262425-the-ledge.json](./262425-the-ledge.json) |
 | The Leeds Devil | 188514 | [188514-the-leeds-devil.json](./188514-the-leeds-devil.json) |
 | The Left Behind | 263982 | [263982-the-left-behind.json](./263982-the-left-behind.json) |
+| The Left Behind: A Forgotten Hill Tale | 388679 | [388679-the-left-behind-a-forgotten-hill-tale.json](./388679-the-left-behind-a-forgotten-hill-tale.json) |
 | The Left Eye | 351114 | [351114-the-left-eye.json](./351114-the-left-eye.json) |
 | The Legacy | 12437 | [12437-the-legacy.json](./12437-the-legacy.json) |
 | The Legacy | 378776 | [378776-the-legacy.json](./378776-the-legacy.json) |
@@ -28746,6 +28749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Tile | 157441 | [157441-treasure-tile.json](./157441-treasure-tile.json) |
 | Treasure Tomb VR | 153375 | [153375-treasure-tomb-vr.json](./153375-treasure-tomb-vr.json) |
 | Treasure Tombs: Ra Deal | 250487 | [250487-treasure-tombs-ra-deal.json](./250487-treasure-tombs-ra-deal.json) |
+| Treasure Touring | 388663 | [388663-treasure-touring.json](./388663-treasure-touring.json) |
 | Treasure Towers | 255820 | [255820-treasure-towers.json](./255820-treasure-towers.json) |
 | Treasure Train | 239095 | [239095-treasure-train.json](./239095-treasure-train.json) |
 | Treasure Trap | 237270 | [237270-treasure-trap.json](./237270-treasure-trap.json) |
@@ -31013,6 +31017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tusk of Spirit | 157358 | [157358-tusk-of-spirit.json](./157358-tusk-of-spirit.json) |
 | Tusmox | 381412 | [381412-tusmox.json](./381412-tusmox.json) |
 | Tussle Works | 422050 | [422050-tussle-works.json](./422050-tussle-works.json) |
+| Tut Tut Vroom Vroom | 388694 | [388694-tut-tut-vroom-vroom.json](./388694-tut-tut-vroom-vroom.json) |
 | Tut's Tomb | 282107 | [282107-tuts-tomb.json](./282107-tuts-tomb.json) |
 | Tutankham | 218928 | [218928-tutankham.json](./218928-tutankham.json) |
 | Tutankham | 385836 | [385836-tutankham.json](./385836-tutankham.json) |
