@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LabWatch | 272261 | [272261-labwatch.json](./272261-labwatch.json) |
 | Laby and the Mysterious Planet | 275507 | [275507-laby-and-the-mysterious-planet.json](./275507-laby-and-the-mysterious-planet.json) |
 | Laby to Panel de Shiritori | 325452 | [325452-laby-to-panel-de-shiritori.json](./325452-laby-to-panel-de-shiritori.json) |
+| Laby's Village | 391422 | [391422-labys-village.json](./391422-labys-village.json) |
 | Labyban | 338596 | [338596-labyban.json](./338596-labyban.json) |
 | LabyrAInth | 348918 | [348918-labyrainth.json](./348918-labyrainth.json) |
 | Labyren | 389086 | [389086-labyren.json](./389086-labyren.json) |
@@ -1796,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layer Cake | 370342 | [370342-layer-cake.json](./370342-layer-cake.json) |
 | Layer Front | 108929 | [108929-layer-front.json](./108929-layer-front.json) |
 | Layer Hunt | 219689 | [219689-layer-hunt.json](./219689-layer-hunt.json) |
+| Layer Land | 391454 | [391454-layer-land.json](./391454-layer-land.json) |
 | Layer Section & Galactic Attack: S-Tribute | 199159 | [199159-layer-section-and-galactic-attack-s-tribute.json](./199159-layer-section-and-galactic-attack-s-tribute.json) |
 | Layer Up | 200284 | [200284-layer-up.json](./200284-layer-up.json) |
 | Layer2 | 407912 | [407912-layer2.json](./407912-layer2.json) |
@@ -4803,6 +4805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil' Satan's Cake Quest | 334456 | [334456-lil-satans-cake-quest.json](./334456-lil-satans-cake-quest.json) |
 | lil' Sherman | 127628 | [127628-lil-sherman.json](./127628-lil-sherman.json) |
 | Lil'Johnny Watermelon Smash | 324274 | [324274-liljohnny-watermelon-smash.json](./324274-liljohnny-watermelon-smash.json) |
+| Lila's Atelier | 391450 | [391450-lilas-atelier.json](./391450-lilas-atelier.json) |
 | Lila's Sky Ark | 144552 | [144552-lilas-sky-ark.json](./144552-lilas-sky-ark.json) |
 | Lilac & Her Light | 178919 | [178919-lilac-and-her-light.json](./178919-lilac-and-her-light.json) |
 | Lilac 0 | 329466 | [329466-lilac-0.json](./329466-lilac-0.json) |
