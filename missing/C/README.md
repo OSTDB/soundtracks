@@ -13829,6 +13829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Defence | 266618 | [266618-core-defence.json](./266618-core-defence.json) |
 | Core Defense | 127314 | [127314-core-defense.json](./127314-core-defense.json) |
 | Core Descent | 392188 | [392188-core-descent.json](./392188-core-descent.json) |
+| Core Destroyer | 376415 | [376415-core-destroyer.json](./376415-core-destroyer.json) |
 | Core Devourer | 235764 | [235764-core-devourer.json](./235764-core-devourer.json) |
 | Core Diggers | 397645 | [397645-core-diggers.json](./397645-core-diggers.json) |
 | Core Disruption | 194922 | [194922-core-disruption.json](./194922-core-disruption.json) |
