@@ -521,6 +521,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampír: Vengeance | 388664 | [388664-vampir-vengeance.json](./388664-vampir-vengeance.json) |
 | Vampirates | 344457 | [344457-vampirates.json](./344457-vampirates.json) |
 | Vampirdzhija Vjedogonia | 130309 | [130309-vampirdzhija-vjedogonia.json](./130309-vampirdzhija-vjedogonia.json) |
+| Vampire | 385535 | [385535-vampire.json](./385535-vampire.json) |
+| Vampire | 385536 | [385536-vampire.json](./385536-vampire.json) |
 | Vampire Awakening: Elven Sword Chronicles Survival | 373020 | [373020-vampire-awakening-elven-sword-chronicles-survival.json](./373020-vampire-awakening-elven-sword-chronicles-survival.json) |
 | Vampire Blood Dynasty | 389823 | [389823-vampire-blood-dynasty.json](./389823-vampire-blood-dynasty.json) |
 | Vampire Bloody Star X | 111349 | [111349-vampire-bloody-star-x.json](./111349-vampire-bloody-star-x.json) |
