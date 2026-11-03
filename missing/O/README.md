@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obandia | 124626 | [124626-obandia.json](./124626-obandia.json) |
 | Obara no Kiritsu: UAV Practical Simulator | 355206 | [355206-obara-no-kiritsu-uav-practical-simulator.json](./355206-obara-no-kiritsu-uav-practical-simulator.json) |
 | Obby | 260005 | [260005-obby.json](./260005-obby.json) |
+| Obby Kingdom | 372159 | [372159-obby-kingdom.json](./372159-obby-kingdom.json) |
 | Obby Revival Project | 414430 | [414430-obby-revival-project.json](./414430-obby-revival-project.json) |
 | Obby Sprunki Towers | 415721 | [415721-obby-sprunki-towers.json](./415721-obby-sprunki-towers.json) |
 | Obby: Build a 3D Amusement Park! | 402303 | [402303-obby-build-a-3d-amusement-park.json](./402303-obby-build-a-3d-amusement-park.json) |
@@ -706,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odin's Ring | 213443 | [213443-odins-ring.json](./213443-odins-ring.json) |
 | Odin's Tea Party | 226131 | [226131-odins-tea-party.json](./226131-odins-tea-party.json) |
 | Odinochestvo Skufa | 387055 | [387055-odinochestvo-skufa.json](./387055-odinochestvo-skufa.json) |
+| Odiumfloreo | 371823 | [371823-odiumfloreo.json](./371823-odiumfloreo.json) |
 | Odo Odo Oddity | 143676 | [143676-odo-odo-oddity.json](./143676-odo-odo-oddity.json) |
 | Odonata Augmenta: Rogue Dragonfly | 415314 | [415314-odonata-augmenta-rogue-dragonfly.json](./415314-odonata-augmenta-rogue-dragonfly.json) |
 | Odoru? Pokémon Ongakutai | 60055 | [60055-odoru-pokemon-ongakutai.json](./60055-odoru-pokemon-ongakutai.json) |
@@ -3040,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onsui | 278256 | [278256-onsui.json](./278256-onsui.json) |
 | Ontamarama | 21509 | [21509-ontamarama.json](./21509-ontamarama.json) |
 | OnTheFrontLine | 30734 | [30734-onthefrontline.json](./30734-onthefrontline.json) |
+| Onto Maizilind Unto Infinity | 372176 | [372176-onto-maizilind-unto-infinity.json](./372176-onto-maizilind-unto-infinity.json) |
 | Onto Maizilind Unto Infinity: Act I - Destruction's Wake | 252536 | [252536-onto-maizilind-unto-infinity-act-i-destructions-wake.json](./252536-onto-maizilind-unto-infinity-act-i-destructions-wake.json) |
 | Ontos | 381219 | [381219-ontos.json](./381219-ontos.json) |
 | Ontranto | 277955 | [277955-ontranto.json](./277955-ontranto.json) |
