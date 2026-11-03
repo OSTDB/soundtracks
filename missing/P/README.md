@@ -11263,6 +11263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Chase | 157550 | [157550-police-chase.json](./157550-police-chase.json) |
 | Police Chase | 209338 | [209338-police-chase.json](./209338-police-chase.json) |
 | Police Chase Crime: Racing Car | 107672 | [107672-police-chase-crime-racing-car.json](./107672-police-chase-crime-racing-car.json) |
+| Police Chase Simulator: Highway Racers Pursuit | 371509 | [371509-police-chase-simulator-highway-racers-pursuit.json](./371509-police-chase-simulator-highway-racers-pursuit.json) |
 | Police Chase: Big City Race | 95913 | [95913-police-chase-big-city-race.json](./95913-police-chase-big-city-race.json) |
 | Police Chopper | 87917 | [87917-police-chopper.json](./87917-police-chopper.json) |
 | Police Cop Hot Pursuit | 256758 | [256758-police-cop-hot-pursuit.json](./256758-police-cop-hot-pursuit.json) |
@@ -15053,6 +15054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hacker | 72954 | [72954-project-hacker.json](./72954-project-hacker.json) |
 | Project Hacker: Kakusei | 139127 | [139127-project-hacker-kakusei.json](./139127-project-hacker-kakusei.json) |
 | Project Hailstorm | 331144 | [331144-project-hailstorm.json](./331144-project-hailstorm.json) |
+| Project Hangman | 371488 | [371488-project-hangman.json](./371488-project-hangman.json) |
 | Project Hardline | 253366 | [253366-project-hardline.json](./253366-project-hardline.json) |
 | Project Hastur | 114891 | [114891-project-hastur.json](./114891-project-hastur.json) |
 | Project Haven | 124008 | [124008-project-haven.json](./124008-project-haven.json) |
@@ -15497,6 +15499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: EGG | 330872 | [330872-project-egg.json](./330872-project-egg.json) |
 | Project: Eliot | 337158 | [337158-project-eliot.json](./337158-project-eliot.json) |
 | Project: Eternal Flame | 208233 | [208233-project-eternal-flame.json](./208233-project-eternal-flame.json) |
+| Project: Ether | 371487 | [371487-project-ether.json](./371487-project-ether.json) |
 | Project: Extreme | 224821 | [224821-project-extreme.json](./224821-project-extreme.json) |
 | Project: Firmament | 407548 | [407548-project-firmament.json](./407548-project-firmament.json) |
 | Project: Fractured Reality | 347160 | [347160-project-fractured-reality.json](./347160-project-fractured-reality.json) |
@@ -16077,6 +16080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Logy | 294750 | [294750-psycho-logy.json](./294750-psycho-logy.json) |
 | Psycho on the loose | 30036 | [30036-psycho-on-the-loose.json](./30036-psycho-on-the-loose.json) |
 | Psycho Partisans: Officer Nirvana | 374344 | [374344-psycho-partisans-officer-nirvana.json](./374344-psycho-partisans-officer-nirvana.json) |
+| Psycho Pigs | 371191 | [371191-psycho-pigs.json](./371191-psycho-pigs.json) |
 | Psycho Pigs | 59949 | [59949-psycho-pigs.json](./59949-psycho-pigs.json) |
 | Psycho Reign | 216939 | [216939-psycho-reign.json](./216939-psycho-reign.json) |
 | Psycho Santa | 66394 | [66394-psycho-santa.json](./66394-psycho-santa.json) |
