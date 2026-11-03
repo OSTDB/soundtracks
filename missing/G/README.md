@@ -7951,6 +7951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravia | 106428 | [106428-gravia.json](./106428-gravia.json) |
 | Gravibots | 309613 | [309613-gravibots.json](./309613-gravibots.json) |
 | GraviCat | 409872 | [409872-gravicat.json](./409872-gravicat.json) |
+| GraviChess | 384240 | [384240-gravichess.json](./384240-gravichess.json) |
 | Gravico | 280776 | [280776-gravico.json](./280776-gravico.json) |
 | GraviFire | 144277 | [144277-gravifire.json](./144277-gravifire.json) |
 | Gravikitty | 422786 | [422786-gravikitty.json](./422786-gravikitty.json) |
@@ -10251,6 +10252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun-Running War Dogs | 52774 | [52774-gun-running-war-dogs.json](./52774-gun-running-war-dogs.json) |
 | Gun-Toting Cats | 176358 | [176358-gun-toting-cats.json](./176358-gun-toting-cats.json) |
 | Gun: Showdown | 248546 | [248546-gun-showdown.json](./248546-gun-showdown.json) |
+| Gun.Dog.Revenge | 384129 | [384129-gun-dog-revenge.json](./384129-gun-dog-revenge.json) |
 | Gun.Smoke | 1288 | [1288-gun-smoke.json](./1288-gun-smoke.json) |
 | Gun.Smoke | 40965 | [40965-gun-smoke.json](./40965-gun-smoke.json) |
 | Gun&Dun | 160089 | [160089-gun-and-dun.json](./160089-gun-and-dun.json) |
