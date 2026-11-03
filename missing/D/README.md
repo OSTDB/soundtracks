@@ -4399,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Road to Canada | 21634 | [21634-death-road-to-canada.json](./21634-death-road-to-canada.json) |
 | Death Roads: Tournament | 149904 | [149904-death-roads-tournament.json](./149904-death-roads-tournament.json) |
 | Death Room | 75156 | [75156-death-room.json](./75156-death-room.json) |
+| Death Row Diner | 396308 | [396308-death-row-diner.json](./396308-death-row-diner.json) |
 | Death Rpg | 116313 | [116313-death-rpg.json](./116313-death-rpg.json) |
 | Death Run | 278279 | [278279-death-run.json](./278279-death-run.json) |
 | Death Run 3D | 102041 | [102041-death-run-3d.json](./102041-death-run-3d.json) |
@@ -4953,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dive | 255609 | [255609-deep-dive.json](./255609-deep-dive.json) |
 | Deep Dive | 403577 | [403577-deep-dive.json](./403577-deep-dive.json) |
 | Deep Dive Duet | 279483 | [279483-deep-dive-duet.json](./279483-deep-dive-duet.json) |
+| Deep Diver | 396304 | [396304-deep-diver.json](./396304-deep-diver.json) |
 | Deep Diving Adventures | 131978 | [131978-deep-diving-adventures.json](./131978-deep-diving-adventures.json) |
 | Deep Diving Simulator | 113427 | [113427-deep-diving-simulator.json](./113427-deep-diving-simulator.json) |
 | Deep Diving Simulator: Adventure Pack | 154506 | [154506-deep-diving-simulator-adventure-pack.json](./154506-deep-diving-simulator-adventure-pack.json) |
@@ -16277,6 +16279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk: Relapsed | 215870 | [215870-drunk-relapsed.json](./215870-drunk-relapsed.json) |
 | Drunkard Quiz Show Hyoutan | 115684 | [115684-drunkard-quiz-show-hyoutan.json](./115684-drunkard-quiz-show-hyoutan.json) |
 | Drunkard Simulator | 374423 | [374423-drunkard-simulator.json](./374423-drunkard-simulator.json) |
+| Drunken Assassin | 396274 | [396274-drunken-assassin.json](./396274-drunken-assassin.json) |
 | Drunken Baron | 379396 | [379396-drunken-baron.json](./379396-drunken-baron.json) |
 | Drunken Cowboys | 379053 | [379053-drunken-cowboys.json](./379053-drunken-cowboys.json) |
 | Drunken Dad Simulator | 156892 | [156892-drunken-dad-simulator.json](./156892-drunken-dad-simulator.json) |
@@ -17324,6 +17327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Renovators | 224654 | [224654-dungeon-renovators.json](./224654-dungeon-renovators.json) |
 | Dungeon Repeater | 410062 | [410062-dungeon-repeater.json](./410062-dungeon-repeater.json) |
 | Dungeon Restaurant | 253281 | [253281-dungeon-restaurant.json](./253281-dungeon-restaurant.json) |
+| Dungeon Rise | 396305 | [396305-dungeon-rise.json](./396305-dungeon-rise.json) |
 | Dungeon Robber | 62269 | [62269-dungeon-robber.json](./62269-dungeon-robber.json) |
 | Dungeon Rollers | 151449 | [151449-dungeon-rollers.json](./151449-dungeon-rollers.json) |
 | Dungeon Rollers | 184623 | [184623-dungeon-rollers.json](./184623-dungeon-rollers.json) |
