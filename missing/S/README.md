@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saihate Enabler | 285880 | [285880-saihate-enabler.json](./285880-saihate-enabler.json) |
 | Saihate Hospital | 204496 | [204496-saihate-hospital.json](./204496-saihate-hospital.json) |
 | Saihate no Ima | 62736 | [62736-saihate-no-ima.json](./62736-saihate-no-ima.json) |
+| Saihate no Zangeshitsu | 376621 | [376621-saihate-no-zangeshitsu.json](./376621-saihate-no-zangeshitsu.json) |
 | Saihate Station | 301102 | [301102-saihate-station.json](./301102-saihate-station.json) |
 | Saihate Station: Twilight Railway | 337103 | [337103-saihate-station-twilight-railway.json](./337103-saihate-station-twilight-railway.json) |
 | Saihate wo Mezasu | 350916 | [350916-saihate-wo-mezasu.json](./350916-saihate-wo-mezasu.json) |
@@ -21369,6 +21370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Through the Wormhole | 230452 | [230452-spongebob-squarepants-through-the-wormhole.json](./230452-spongebob-squarepants-through-the-wormhole.json) |
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
 | SpongeBob SquarePants: Titans of the Tide - Double Deluxe Costume Pack DLC | 376251 | [376251-spongebob-squarepants-titans-of-the-tide-double-deluxe-costume-pack-dlc.json](./376251-spongebob-squarepants-titans-of-the-tide-double-deluxe-costume-pack-dlc.json) |
+| SpongeBob SquarePants: Titans of the Tide - Ghostly Digital Edition | 376776 | [376776-spongebob-squarepants-titans-of-the-tide-ghostly-digital-edition.json](./376776-spongebob-squarepants-titans-of-the-tide-ghostly-digital-edition.json) |
 | SpongeBob SquarePants: Titans of the Tide - Natural Costume Pack | 376252 | [376252-spongebob-squarepants-titans-of-the-tide-natural-costume-pack.json](./376252-spongebob-squarepants-titans-of-the-tide-natural-costume-pack.json) |
 | SpongeBob SquarePants: Titans of the Tide - Plankton's Portal Challenge DLC | 376254 | [376254-spongebob-squarepants-titans-of-the-tide-planktons-portal-challenge-dlc.json](./376254-spongebob-squarepants-titans-of-the-tide-planktons-portal-challenge-dlc.json) |
 | SpongeBob SquarePants: Titans of the Tide - Search for SquarePants Costume Pack DLC | 376253 | [376253-spongebob-squarepants-titans-of-the-tide-search-for-squarepants-costume-pack-dlc.json](./376253-spongebob-squarepants-titans-of-the-tide-search-for-squarepants-costume-pack-dlc.json) |
@@ -32020,6 +32022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Simulator 2025 | 345970 | [345970-supermarket-simulator-2025.json](./345970-supermarket-simulator-2025.json) |
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
 | Supermarket Simulator 2026 | 399602 | [399602-supermarket-simulator-2026.json](./399602-supermarket-simulator-2026.json) |
+| Supermarket Simulator 25 | 376774 | [376774-supermarket-simulator-25.json](./376774-supermarket-simulator-25.json) |
 | Supermarket Simulator Bundle 3 in 1 | 385128 | [385128-supermarket-simulator-bundle-3-in-1.json](./385128-supermarket-simulator-bundle-3-in-1.json) |
 | Supermarket Simulator Deluxe | 345265 | [345265-supermarket-simulator-deluxe.json](./345265-supermarket-simulator-deluxe.json) |
 | Supermarket Simulator Manager | 307642 | [307642-supermarket-simulator-manager.json](./307642-supermarket-simulator-manager.json) |
