@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E4C: Final Salvation | 328459 | [328459-e4c-final-salvation.json](./328459-e4c-final-salvation.json) |
 | E4M1 remake | 308277 | [308277-e4m1-remake.json](./308277-e4m1-remake.json) |
 | E6 Connect | 142714 | [142714-e6-connect.json](./142714-e6-connect.json) |
+| E621dle | 372170 | [372170-e621dle.json](./372170-e621dle.json) |
 | EA Classics: Syndicate Wars & Dark Omen | 214455 | [214455-ea-classics-syndicate-wars-and-dark-omen.json](./214455-ea-classics-syndicate-wars-and-dark-omen.json) |
 | EA Create: Snap | 331966 | [331966-ea-create-snap.json](./331966-ea-create-snap.json) |
 | EA Family Bundle | 82456 | [82456-ea-family-bundle.json](./82456-ea-family-bundle.json) |
@@ -5389,6 +5390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape: Immersion | 391205 | [391205-escape-immersion.json](./391205-escape-immersion.json) |
 | Escape: Left to die | 236416 | [236416-escape-left-to-die.json](./236416-escape-left-to-die.json) |
 | Escape: Lia | 195173 | [195173-escape-lia.json](./195173-escape-lia.json) |
+| Escape: Mall | 372025 | [372025-escape-mall.json](./372025-escape-mall.json) |
 | Escape: Mouse Gun | 126236 | [126236-escape-mouse-gun.json](./126236-escape-mouse-gun.json) |
 | Escape: Sierra Leone | 33570 | [33570-escape-sierra-leone.json](./33570-escape-sierra-leone.json) |
 | Escape: Site-13 | 211065 | [211065-escape-site-13.json](./211065-escape-site-13.json) |
