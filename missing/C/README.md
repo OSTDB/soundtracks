@@ -6121,6 +6121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Chen | 142648 | [142648-chef-chen.json](./142648-chef-chen.json) |
 | Chef Curry | 113849 | [113849-chef-curry.json](./113849-chef-curry.json) |
 | Chef de Bubble | 323096 | [323096-chef-de-bubble.json](./323096-chef-de-bubble.json) |
+| Chef Express | 397512 | [397512-chef-express.json](./397512-chef-express.json) |
 | Chef Leo's Creative Kitchen | 343378 | [343378-chef-leos-creative-kitchen.json](./343378-chef-leos-creative-kitchen.json) |
 | Chef Life: A Restaurant Simulator | 191698 | [191698-chef-life-a-restaurant-simulator.json](./191698-chef-life-a-restaurant-simulator.json) |
 | Chef Life: A Restaurant Simulator - Al Forno Edition | 229122 | [229122-chef-life-a-restaurant-simulator-al-forno-edition.json](./229122-chef-life-a-restaurant-simulator-al-forno-edition.json) |
@@ -17267,6 +17268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush & Squash | 75805 | [75805-crush-and-squash.json](./75805-crush-and-squash.json) |
 | Crush at First Sight | 294068 | [294068-crush-at-first-sight.json](./294068-crush-at-first-sight.json) |
 | Crush Beats: Club Candy | 96763 | [96763-crush-beats-club-candy.json](./96763-crush-beats-club-candy.json) |
+| Crush Corp | 397500 | [397500-crush-corp.json](./397500-crush-corp.json) |
 | Crush Crush | 187865 | [187865-crush-crush.json](./187865-crush-crush.json) |
 | Crush Crush | 25252 | [25252-crush-crush.json](./25252-crush-crush.json) |
 | Crush Crush: - 18+ Naughty | 279778 | [279778-crush-crush-18-naughty.json](./279778-crush-crush-18-naughty.json) |
