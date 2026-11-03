@@ -2417,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geico Football | 264443 | [264443-geico-football.json](./264443-geico-football.json) |
 | Geico Golf | 264445 | [264445-geico-golf.json](./264445-geico-golf.json) |
 | Geico Pinball | 264446 | [264446-geico-pinball.json](./264446-geico-pinball.json) |
+| Geimu Chagama Monogatari | 368721 | [368721-geimu-chagama-monogatari.json](./368721-geimu-chagama-monogatari.json) |
 | Geisha | 12116 | [12116-geisha.json](./12116-geisha.json) |
 | Geisha Novia | 64058 | [64058-geisha-novia.json](./64058-geisha-novia.json) |
 | Geisha's Heart: Romance Among the Cherry Blossoms | 378852 | [378852-geishas-heart-romance-among-the-cherry-blossoms.json](./378852-geishas-heart-romance-among-the-cherry-blossoms.json) |
@@ -4312,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girlfriend Invites | 368690 | [368690-girlfriend-invites.json](./368690-girlfriend-invites.json) |
 | Girlfriend Note | 58812 | [58812-girlfriend-note.json](./58812-girlfriend-note.json) |
 | Girlfriend Rescue | 10364 | [10364-girlfriend-rescue.json](./10364-girlfriend-rescue.json) |
+| Girlfriend Simulator | 369284 | [369284-girlfriend-simulator.json](./369284-girlfriend-simulator.json) |
 | Girlfriend Simulator | 379587 | [379587-girlfriend-simulator.json](./379587-girlfriend-simulator.json) |
 | Girlfriend Strip Blackjack | 392400 | [392400-girlfriend-strip-blackjack.json](./392400-girlfriend-strip-blackjack.json) |
 | GirlFriend VR | 368116 | [368116-girlfriend-vr.json](./368116-girlfriend-vr.json) |
@@ -10576,6 +10578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns at Dawn: Arena | 214451 | [214451-guns-at-dawn-arena.json](./214451-guns-at-dawn-arena.json) |
 | Guns Blazing | 157370 | [157370-guns-blazing.json](./157370-guns-blazing.json) |
 | Guns Boy | 158170 | [158170-guns-boy.json](./158170-guns-boy.json) |
+| Guns Craft | 368716 | [368716-guns-craft.json](./368716-guns-craft.json) |
 | Guns Craft Mod | 90708 | [90708-guns-craft-mod.json](./90708-guns-craft-mod.json) |
 | Guns Girls Lawyers Spies | 70254 | [70254-guns-girls-lawyers-spies.json](./70254-guns-girls-lawyers-spies.json) |
 | Guns GirlZ | 79282 | [79282-guns-girlz.json](./79282-guns-girlz.json) |
