@@ -3946,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just One Chance | 181701 | [181701-just-one-chance.json](./181701-just-one-chance.json) |
 | Just One Color | 87951 | [87951-just-one-color.json](./87951-just-one-color.json) |
 | Just One Line | 40702 | [40702-just-one-line.json](./40702-just-one-line.json) |
+| Just One Man | 390340 | [390340-just-one-man.json](./390340-just-one-man.json) |
 | Just One More Spell | 387544 | [387544-just-one-more-spell.json](./387544-just-one-more-spell.json) |
 | Just one, must choose | 135050 | [135050-just-one-must-choose.json](./135050-just-one-must-choose.json) |
 | Just Passing | 176344 | [176344-just-passing.json](./176344-just-passing.json) |
