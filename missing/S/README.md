@@ -18239,6 +18239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Channel 5: Ulala's Cosmic Attack | 23716 | [23716-space-channel-5-ulalas-cosmic-attack.json](./23716-space-channel-5-ulalas-cosmic-attack.json) |
 | Space Chaos | 374354 | [374354-space-chaos.json](./374354-space-chaos.json) |
 | Space Chase: Odyssey | 333599 | [333599-space-chase-odyssey.json](./333599-space-chase-odyssey.json) |
+| Space Chaser | 385771 | [385771-space-chaser.json](./385771-space-chaser.json) |
 | Space Chaser | 39803 | [39803-space-chaser.json](./39803-space-chaser.json) |
 | Space Cheese Defenders | 278511 | [278511-space-cheese-defenders.json](./278511-space-cheese-defenders.json) |
 | Space Cheetah Hyper Runner | 224820 | [224820-space-cheetah-hyper-runner.json](./224820-space-cheetah-hyper-runner.json) |
@@ -18551,7 +18552,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -25498,6 +25498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stigfinnare | 119995 | [119995-stigfinnare.json](./119995-stigfinnare.json) |
 | Stigma: Dragonfly | 393988 | [393988-stigma-dragonfly.json](./393988-stigma-dragonfly.json) |
 | Stigma: The Salem Legacy | 373686 | [373686-stigma-the-salem-legacy.json](./373686-stigma-the-salem-legacy.json) |
+| Stigma: Unnamed | 385774 | [385774-stigma-unnamed.json](./385774-stigma-unnamed.json) |
 | Stigmata of Sacrilege | 244867 | [244867-stigmata-of-sacrilege.json](./244867-stigmata-of-sacrilege.json) |
 | Stikbold! A Dodgeball Adventure | 18614 | [18614-stikbold-a-dodgeball-adventure.json](./18614-stikbold-a-dodgeball-adventure.json) |
 | Stikir | 110941 | [110941-stikir.json](./110941-stikir.json) |
@@ -26865,6 +26866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stress testing | 267301 | [267301-stress-testing.json](./267301-stress-testing.json) |
 | Stress, Out! | 258716 | [258716-stress-out.json](./258716-stress-out.json) |
 | Stressed Out | 235421 | [235421-stressed-out.json](./235421-stressed-out.json) |
+| Stressless Lesson: Les Les | 385525 | [385525-stressless-lesson-les-les.json](./385525-stressless-lesson-les-les.json) |
 | StressOut | 128926 | [128926-stressout.json](./128926-stressout.json) |
 | StressRoom | 301256 | [301256-stressroom.json](./301256-stressroom.json) |
 | Stretch Arcade | 146018 | [146018-stretch-arcade.json](./146018-stretch-arcade.json) |
@@ -32990,6 +32992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwayBods: Physics Puzzle Game | 292423 | [292423-swaybods-physics-puzzle-game.json](./292423-swaybods-physics-puzzle-game.json) |
 | Swaying Girl | 159875 | [159875-swaying-girl.json](./159875-swaying-girl.json) |
 | Swear to God | 185344 | [185344-swear-to-god.json](./185344-swear-to-god.json) |
+| Sweat | 385880 | [385880-sweat.json](./385880-sweat.json) |
 | Sweater? Ok! | 31024 | [31024-sweater-ok.json](./31024-sweater-ok.json) |
 | Sweater? Ok! 2 | 81022 | [81022-sweater-ok-2.json](./81022-sweater-ok-2.json) |
 | Sweater? Ok!: The Dilogy | 127370 | [127370-sweater-ok-the-dilogy.json](./127370-sweater-ok-the-dilogy.json) |
