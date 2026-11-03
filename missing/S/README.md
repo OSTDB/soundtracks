@@ -3328,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrambled | 79680 | [79680-scrambled.json](./79680-scrambled.json) |
 | Scrambled Egg | 40198 | [40198-scrambled-egg.json](./40198-scrambled-egg.json) |
 | Scrambled Eggs | 309409 | [309409-scrambled-eggs.json](./309409-scrambled-eggs.json) |
+| Scrambled Eggs | 393793 | [393793-scrambled-eggs.json](./393793-scrambled-eggs.json) |
 | Scrambled Egzz | 68524 | [68524-scrambled-egzz.json](./68524-scrambled-egzz.json) |
 | Scrambled: Syd City | 178896 | [178896-scrambled-syd-city.json](./178896-scrambled-syd-city.json) |
 | Scramblies | 58181 | [58181-scramblies.json](./58181-scramblies.json) |
@@ -4457,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector 82 | 181149 | [181149-sector-82.json](./181149-sector-82.json) |
 | Sector 86 | 413152 | [413152-sector-86.json](./413152-sector-86.json) |
 | Sector 88 | 402882 | [402882-sector-88.json](./402882-sector-88.json) |
+| Sector 92 | 393873 | [393873-sector-92.json](./393873-sector-92.json) |
 | Sector a Training Facilitea | 253029 | [253029-sector-a-training-facilitea.json](./253029-sector-a-training-facilitea.json) |
 | Sector Alpha | 183518 | [183518-sector-alpha.json](./183518-sector-alpha.json) |
 | Sector Alpha | 301339 | [301339-sector-alpha.json](./301339-sector-alpha.json) |
@@ -4981,6 +4983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self Gunsbase | 149386 | [149386-self-gunsbase.json](./149386-self-gunsbase.json) |
 | Self Layout Shooter | 331194 | [331194-self-layout-shooter.json](./331194-self-layout-shooter.json) |
 | Self Made Man: Life of an Entrepreneur | 204937 | [204937-self-made-man-life-of-an-entrepreneur.json](./204937-self-made-man-life-of-an-entrepreneur.json) |
+| Self Made: Investment Life Sim | 393879 | [393879-self-made-investment-life-sim.json](./393879-self-made-investment-life-sim.json) |
 | Self Portrait (Interior) | 180512 | [180512-self-portrait-interior.json](./180512-self-portrait-interior.json) |
 | Self Reflection | 178011 | [178011-self-reflection.json](./178011-self-reflection.json) |
 | Self Shot | 117806 | [117806-self-shot.json](./117806-self-shot.json) |
@@ -11300,6 +11303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelagon | 85807 | [85807-skelagon.json](./85807-skelagon.json) |
 | Skelattack | 54837 | [54837-skelattack.json](./54837-skelattack.json) |
 | Skele Magic | 182944 | [182944-skele-magic.json](./182944-skele-magic.json) |
+| Skeleboy | 393848 | [393848-skeleboy.json](./393848-skeleboy.json) |
 | Skelecool: Remnants | 411028 | [411028-skelecool-remnants.json](./411028-skelecool-remnants.json) |
 | Skelemania | 183059 | [183059-skelemania.json](./183059-skelemania.json) |
 | Skelemental: Monk's Fury | 295881 | [295881-skelemental-monks-fury.json](./295881-skelemental-monks-fury.json) |
@@ -17667,6 +17671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulcaster: Part I & II | 33074 | [33074-soulcaster-part-i-and-ii.json](./33074-soulcaster-part-i-and-ii.json) |
 | Soulchain | 342042 | [342042-soulchain.json](./342042-soulchain.json) |
 | Soulchemist Renafine | 250248 | [250248-soulchemist-renafine.json](./250248-soulchemist-renafine.json) |
+| Soulcoom | 393853 | [393853-soulcoom.json](./393853-soulcoom.json) |
 | SoulCraft | 35261 | [35261-soulcraft.json](./35261-soulcraft.json) |
 | SoulCraft 2 | 59339 | [59339-soulcraft-2.json](./59339-soulcraft-2.json) |
 | Soulcreek | 229616 | [229616-soulcreek.json](./229616-soulcreek.json) |
@@ -24902,6 +24907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Destiny: The Last Survivor | 350427 | [350427-stellar-destiny-the-last-survivor.json](./350427-stellar-destiny-the-last-survivor.json) |
 | Stellar Docks | 327978 | [327978-stellar-docks.json](./327978-stellar-docks.json) |
 | Stellar Docks: Deep Space | 335959 | [335959-stellar-docks-deep-space.json](./335959-stellar-docks-deep-space.json) |
+| Stellar Dream | 393843 | [393843-stellar-dream.json](./393843-stellar-dream.json) |
 | Stellar Echoes: Boxing Champion | 263747 | [263747-stellar-echoes-boxing-champion.json](./263747-stellar-echoes-boxing-champion.json) |
 | Stellar Echoes: Brave Trial | 263746 | [263746-stellar-echoes-brave-trial.json](./263746-stellar-echoes-brave-trial.json) |
 | Stellar Echoes: Maze Shooter | 263748 | [263748-stellar-echoes-maze-shooter.json](./263748-stellar-echoes-maze-shooter.json) |
@@ -25135,6 +25141,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steve Reich’s Clapping Music | 312322 | [312322-steve-reich-s-clapping-music.json](./312322-steve-reich-s-clapping-music.json) |
 | Steve RPG | 209380 | [209380-steve-rpg.json](./209380-steve-rpg.json) |
 | Steve Stomp | 245188 | [245188-steve-stomp.json](./245188-steve-stomp.json) |
+| Steve the Sheriff | 393811 | [393811-steve-the-sheriff.json](./393811-steve-the-sheriff.json) |
+| Steve the Sheriff 2: The Case of the Missing Thing | 393814 | [393814-steve-the-sheriff-2-the-case-of-the-missing-thing.json](./393814-steve-the-sheriff-2-the-case-of-the-missing-thing.json) |
 | Steve: Operation Nuts | 295010 | [295010-steve-operation-nuts.json](./295010-steve-operation-nuts.json) |
 | Steve's HardCore WorldTour | 153973 | [153973-steves-hardcore-worldtour.json](./153973-steves-hardcore-worldtour.json) |
 | Steve's Pub - Soda on tap | 76215 | [76215-steves-pub-soda-on-tap.json](./76215-steves-pub-soda-on-tap.json) |
