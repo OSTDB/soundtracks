@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oath: There is a You That Remains | 375414 | [375414-oath-there-is-a-you-that-remains.json](./375414-oath-there-is-a-you-that-remains.json) |
 | Oathbound: Arena | 236445 | [236445-oathbound-arena.json](./236445-oathbound-arena.json) |
 | Oathbreakers | 221072 | [221072-oathbreakers.json](./221072-oathbreakers.json) |
+| Oathwood Realms | 389368 | [389368-oathwood-realms.json](./389368-oathwood-realms.json) |
 | Oatmeal | 159257 | [159257-oatmeal.json](./159257-oatmeal.json) |
 | Oba Doba | 238633 | [238633-oba-doba.json](./238633-oba-doba.json) |
 | Obake Nante Kowakunai JK vs. Gakkou Meikyuu | 397945 | [397945-obake-nante-kowakunai-jk-vs-gakkou-meikyuu.json](./397945-obake-nante-kowakunai-jk-vs-gakkou-meikyuu.json) |
