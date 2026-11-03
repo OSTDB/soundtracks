@@ -14920,6 +14920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Night | 337709 | [337709-cozy-night.json](./337709-cozy-night.json) |
 | Cozy Offroad Simulator Together | 405571 | [405571-cozy-offroad-simulator-together.json](./405571-cozy-offroad-simulator-together.json) |
 | Cozy Organizer | 333419 | [333419-cozy-organizer.json](./333419-cozy-organizer.json) |
+| Cozy Paintings | 389858 | [389858-cozy-paintings.json](./389858-cozy-paintings.json) |
 | Cozy Pets and Friends | 386544 | [386544-cozy-pets-and-friends.json](./386544-cozy-pets-and-friends.json) |
 | Cozy Places | 82176 | [82176-cozy-places.json](./82176-cozy-places.json) |
 | Cozy Plates | 422018 | [422018-cozy-plates.json](./422018-cozy-plates.json) |
