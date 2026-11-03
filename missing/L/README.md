@@ -3383,6 +3383,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Manley in: Search for the King | 73837 | [73837-les-manley-in-search-for-the-king.json](./73837-les-manley-in-search-for-the-king.json) |
 | Les Migeons | 183718 | [183718-les-migeons.json](./183718-les-migeons.json) |
 | Les Mills XR Bodycombat | 204582 | [204582-les-mills-xr-bodycombat.json](./204582-les-mills-xr-bodycombat.json) |
+| Les Mills XR Bodycombat 100 | 380584 | [380584-les-mills-xr-bodycombat-100.json](./380584-les-mills-xr-bodycombat-100.json) |
+| Les Mills XR Bodycombat: Bonus Club | 380585 | [380585-les-mills-xr-bodycombat-bonus-club.json](./380585-les-mills-xr-bodycombat-bonus-club.json) |
+| Les Mills XR Bodycombat: Focus Mode | 380586 | [380586-les-mills-xr-bodycombat-focus-mode.json](./380586-les-mills-xr-bodycombat-focus-mode.json) |
 | Les Mills XR Bodycombat: Never Surrender | 352208 | [352208-les-mills-xr-bodycombat-never-surrender.json](./352208-les-mills-xr-bodycombat-never-surrender.json) |
 | Les Mills XR Bodycombat: Power Strike | 352211 | [352211-les-mills-xr-bodycombat-power-strike.json](./352211-les-mills-xr-bodycombat-power-strike.json) |
 | Les Mills XR Bodycombat: Ultimate Fitness Pack | 380565 | [380565-les-mills-xr-bodycombat-ultimate-fitness-pack.json](./380565-les-mills-xr-bodycombat-ultimate-fitness-pack.json) |
