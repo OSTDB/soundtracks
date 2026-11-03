@@ -2321,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Galactic | 58094 | [58094-dash-galactic.json](./58094-dash-galactic.json) |
 | Dash Galaxy in the Alien Asylum | 48140 | [48140-dash-galaxy-in-the-alien-asylum.json](./48140-dash-galaxy-in-the-alien-asylum.json) |
 | Dash Hale | 143377 | [143377-dash-hale.json](./143377-dash-hale.json) |
+| Dash Kappei | 385531 | [385531-dash-kappei.json](./385531-dash-kappei.json) |
 | Dash King | 240670 | [240670-dash-king.json](./240670-dash-king.json) |
 | Dash Lamb | 154064 | [154064-dash-lamb.json](./154064-dash-lamb.json) |
 | Dash n Cry: Bursting | 412070 | [412070-dash-n-cry-bursting.json](./412070-dash-n-cry-bursting.json) |
@@ -3191,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead and Buried II | 123203 | [123203-dead-and-buried-ii.json](./123203-dead-and-buried-ii.json) |
 | Dead Angle | 39929 | [39929-dead-angle.json](./39929-dead-angle.json) |
 | Dead Ant | 245149 | [245149-dead-ant.json](./245149-dead-ant.json) |
+| Dead Apples Dare | 385522 | [385522-dead-apples-dare.json](./385522-dead-apples-dare.json) |
 | Dead Army - Radio Frequency | 32727 | [32727-dead-army-radio-frequency.json](./32727-dead-army-radio-frequency.json) |
 | Dead as Disco | 341592 | [341592-dead-as-disco.json](./341592-dead-as-disco.json) |
 | Dead Beacon | 213770 | [213770-dead-beacon.json](./213770-dead-beacon.json) |
@@ -6619,6 +6621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deranged | 192724 | [192724-deranged.json](./192724-deranged.json) |
 | Deranged Park Rangers | 143894 | [143894-deranged-park-rangers.json](./143894-deranged-park-rangers.json) |
 | Deranged Rabbits | 33389 | [33389-deranged-rabbits.json](./33389-deranged-rabbits.json) |
+| Derby | 385532 | [385532-derby.json](./385532-derby.json) |
 | Derby Baseball | 256712 | [256712-derby-baseball.json](./256712-derby-baseball.json) |
 | Derby Champion Club | 386250 | [386250-derby-champion-club.json](./386250-derby-champion-club.json) |
 | Derby Creek | 414024 | [414024-derby-creek.json](./414024-derby-creek.json) |
@@ -13072,6 +13075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Elf Fantasy | 241663 | [241663-double-elf-fantasy.json](./241663-double-elf-fantasy.json) |
 | Double Essence | 98440 | [98440-double-essence.json](./98440-double-essence.json) |
 | Double Feature Solitaire | 93350 | [93350-double-feature-solitaire.json](./93350-double-feature-solitaire.json) |
+| Double Fripper | 385534 | [385534-double-fripper.json](./385534-double-fripper.json) |
 | Double Golf | 413514 | [413514-double-golf.json](./413514-double-golf.json) |
 | Double Happy vs. The Infinite Sadness: Pharos | 61055 | [61055-double-happy-vs-the-infinite-sadness-pharos.json](./61055-double-happy-vs-the-infinite-sadness-pharos.json) |
 | Double Hawk | 45659 | [45659-double-hawk.json](./45659-double-hawk.json) |
