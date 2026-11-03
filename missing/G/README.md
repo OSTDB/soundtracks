@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxis | 289038 | [289038-galaxis.json](./289038-galaxis.json) |
 | Galaxis Wars | 36517 | [36517-galaxis-wars.json](./36517-galaxis-wars.json) |
 | Galaxity | 113747 | [113747-galaxity.json](./113747-galaxity.json) |
+| Galaxity: Korea | 368206 | [368206-galaxity-korea.json](./368206-galaxity-korea.json) |
 | Galaxity: Terminal 21 VR | 191132 | [191132-galaxity-terminal-21-vr.json](./191132-galaxity-terminal-21-vr.json) |
 | Galaxium | 123908 | [123908-galaxium.json](./123908-galaxium.json) |
 | GalaxIverse | 31881 | [31881-galaxiverse.json](./31881-galaxiverse.json) |
