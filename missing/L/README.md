@@ -2556,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Animal Spirits | 206154 | [206154-legend-of-the-animal-spirits.json](./206154-legend-of-the-animal-spirits.json) |
 | Legend of the Ape | 165776 | [165776-legend-of-the-ape.json](./165776-legend-of-the-ape.json) |
 | Legend of the Assassin | 114226 | [114226-legend-of-the-assassin.json](./114226-legend-of-the-assassin.json) |
+| Legend of the Coin Knight | 395051 | [395051-legend-of-the-coin-knight.json](./395051-legend-of-the-coin-knight.json) |
 | Legend of the Corndog(s) | 382551 | [382551-legend-of-the-corndog-s.json](./382551-legend-of-the-corndog-s.json) |
 | Legend of the Cryptids | 59606 | [59606-legend-of-the-cryptids.json](./59606-legend-of-the-cryptids.json) |
 | Legend of the Dark War God | 340909 | [340909-legend-of-the-dark-war-god.json](./340909-legend-of-the-dark-war-god.json) |
@@ -5873,6 +5874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Sick Girls: Osananajimi no Koibito | 415134 | [415134-little-sick-girls-osananajimi-no-koibito.json](./415134-little-sick-girls-osananajimi-no-koibito.json) |
 | Little Sim World | 140973 | [140973-little-sim-world.json](./140973-little-sim-world.json) |
 | Little Smart Planet | 81728 | [81728-little-smart-planet.json](./81728-little-smart-planet.json) |
+| Little Smiles Daycare | 395092 | [395092-little-smiles-daycare.json](./395092-little-smiles-daycare.json) |
 | Little Snatcher | 365455 | [365455-little-snatcher.json](./365455-little-snatcher.json) |
 | Little Soldier | 164436 | [164436-little-soldier.json](./164436-little-soldier.json) |
 | Little Soul | 177159 | [177159-little-soul.json](./177159-little-soul.json) |
