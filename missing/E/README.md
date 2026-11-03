@@ -3829,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engawa Danshi to Kemono Tan | 222242 | [222242-engawa-danshi-to-kemono-tan.json](./222242-engawa-danshi-to-kemono-tan.json) |
 | Engels met Rayman + Frans met Rayman | 193349 | [193349-engels-met-rayman-frans-met-rayman.json](./193349-engels-met-rayman-frans-met-rayman.json) |
 | Engie Benjy: Time for Teamwork! | 325255 | [325255-engie-benjy-time-for-teamwork.json](./325255-engie-benjy-time-for-teamwork.json) |
+| Engine Driver: Drive a Steam Train | 379322 | [379322-engine-driver-drive-a-steam-train.json](./379322-engine-driver-drive-a-steam-train.json) |
 | Engine Eternal | 347297 | [347297-engine-eternal.json](./347297-engine-eternal.json) |
 | Engine Evolution 2021 | 159523 | [159523-engine-evolution-2021.json](./159523-engine-evolution-2021.json) |
 | Engine Evolution 2022 | 197496 | [197496-engine-evolution-2022.json](./197496-engine-evolution-2022.json) |
