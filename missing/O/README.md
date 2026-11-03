@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsurity | 121322 | [121322-obsurity.json](./121322-obsurity.json) |
 | Obulis | 14856 | [14856-obulis.json](./14856-obulis.json) |
 | Obunga | 213225 | [213225-obunga.json](./213225-obunga.json) |
+| Obverse | 398105 | [398105-obverse.json](./398105-obverse.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
 | Ocak | 158875 | [158875-ocak.json](./158875-ocak.json) |
 | Ocarina of Time + Majora's Mask Crossover Randomizer | 231548 | [231548-ocarina-of-time-majoras-mask-crossover-randomizer.json](./231548-ocarina-of-time-majoras-mask-crossover-randomizer.json) |
@@ -806,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off Base | 271461 | [271461-off-base.json](./271461-off-base.json) |
 | Off Course | 361839 | [361839-off-course.json](./361839-off-course.json) |
 | Off Day | 178501 | [178501-off-day.json](./178501-off-day.json) |
+| Off Garbage | 398100 | [398100-off-garbage.json](./398100-off-garbage.json) |
 | Off Grid | 392388 | [392388-off-grid.json](./392388-off-grid.json) |
 | Off Grid | 96266 | [96266-off-grid.json](./96266-off-grid.json) |
 | Off Grids | 272255 | [272255-off-grids.json](./272255-off-grids.json) |
@@ -1998,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once On a Windswept Night | 29631 | [29631-once-on-a-windswept-night.json](./29631-once-on-a-windswept-night.json) |
 | Once Twice Thrice | 92882 | [92882-once-twice-thrice.json](./92882-once-twice-thrice.json) |
 | Once Up | 345005 | [345005-once-up.json](./345005-once-up.json) |
+| Once Upon | 398141 | [398141-once-upon.json](./398141-once-upon.json) |
 | Once Upon a Breeze | 163989 | [163989-once-upon-a-breeze.json](./163989-once-upon-a-breeze.json) |
 | Once Upon A Card | 408765 | [408765-once-upon-a-card.json](./408765-once-upon-a-card.json) |
 | Once Upon a Child - Full Stop | 375294 | [375294-once-upon-a-child-full-stop.json](./375294-once-upon-a-child-full-stop.json) |
@@ -4937,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Ridge | 14506 | [14506-outer-ridge.json](./14506-outer-ridge.json) |
 | Outer Rim: Survivor | 95191 | [95191-outer-rim-survivor.json](./95191-outer-rim-survivor.json) |
 | Outer Space | 243173 | [243173-outer-space.json](./243173-outer-space.json) |
+| Outer Space Bar | 398133 | [398133-outer-space-bar.json](./398133-outer-space-bar.json) |
 | Outer Space Casino | 131140 | [131140-outer-space-casino.json](./131140-outer-space-casino.json) |
 | Outer Space Combat | 310997 | [310997-outer-space-combat.json](./310997-outer-space-combat.json) |
 | Outer Space Survival | 207033 | [207033-outer-space-survival.json](./207033-outer-space-survival.json) |
