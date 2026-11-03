@@ -4866,6 +4866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI.Gears: Team Tag Battle | 277312 | [277312-ai-gears-team-tag-battle.json](./277312-ai-gears-team-tag-battle.json) |
 | AI.VI | 303258 | [303258-ai-vi.json](./303258-ai-vi.json) |
 | AI2U: With You 'Til The End | 293905 | [293905-ai2u-with-you-til-the-end.json](./293905-ai2u-with-you-til-the-end.json) |
+| Aiai Kitan | 378484 | [378484-aiai-kitan.json](./378484-aiai-kitan.json) |
 | Aiball | 32852 | [32852-aiball.json](./32852-aiball.json) |
 | Aibeya | 121520 | [121520-aibeya.json](./121520-aibeya.json) |
 | Aibeya 2 | 150039 | [150039-aibeya-2.json](./150039-aibeya-2.json) |
@@ -10166,6 +10167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Pools | 308605 | [308605-anomaly-pools.json](./308605-anomaly-pools.json) |
 | Anomaly President | 320975 | [320975-anomaly-president.json](./320975-anomaly-president.json) |
 | Anomaly Protocol | 348728 | [348728-anomaly-protocol.json](./348728-anomaly-protocol.json) |
+| Anomaly Recovery | 378470 | [378470-anomaly-recovery.json](./378470-anomaly-recovery.json) |
 | Anomaly Report | 257424 | [257424-anomaly-report.json](./257424-anomaly-report.json) |
 | Anomaly Report | 348409 | [348409-anomaly-report.json](./348409-anomaly-report.json) |
 | Anomaly Road | 405709 | [405709-anomaly-road.json](./405709-anomaly-road.json) |
@@ -11685,6 +11687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Blandia | 272855 | [272855-arcade-archives-blandia.json](./272855-arcade-archives-blandia.json) |
 | Arcade Archives: Blast Off | 317898 | [317898-arcade-archives-blast-off.json](./317898-arcade-archives-blast-off.json) |
 | Arcade Archives: Block Hole | 142854 | [142854-arcade-archives-block-hole.json](./142854-arcade-archives-block-hole.json) |
+| Arcade Archives: Bomb Bee | 378488 | [378488-arcade-archives-bomb-bee.json](./378488-arcade-archives-bomb-bee.json) |
 | Arcade Archives: Bomb Jack | 75704 | [75704-arcade-archives-bomb-jack.json](./75704-arcade-archives-bomb-jack.json) |
 | Arcade Archives: Bomb Jack Twin | 386364 | [386364-arcade-archives-bomb-jack-twin.json](./386364-arcade-archives-bomb-jack-twin.json) |
 | Arcade Archives: Bonze Adventure | 242553 | [242553-arcade-archives-bonze-adventure.json](./242553-arcade-archives-bonze-adventure.json) |
@@ -13700,6 +13703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Rally: Collector's Edition | 199323 | [199323-art-of-rally-collectors-edition.json](./199323-art-of-rally-collectors-edition.json) |
 | Art of Rally: Deluxe Edition | 155074 | [155074-art-of-rally-deluxe-edition.json](./155074-art-of-rally-deluxe-edition.json) |
 | Art of Solitaire | 347884 | [347884-art-of-solitaire.json](./347884-art-of-solitaire.json) |
+| Art of Stealth | 378322 | [378322-art-of-stealth.json](./378322-art-of-stealth.json) |
 | Art of Stunt | 286095 | [286095-art-of-stunt.json](./286095-art-of-stunt.json) |
 | Art of the Rail | 153400 | [153400-art-of-the-rail.json](./153400-art-of-the-rail.json) |
 | Art of War 3: Global Conflict | 95558 | [95558-art-of-war-3-global-conflict.json](./95558-art-of-war-3-global-conflict.json) |
