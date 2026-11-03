@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daldos | 157339 | [157339-daldos.json](./157339-daldos.json) |
 | Daldzah | 277978 | [277978-daldzah.json](./277978-daldzah.json) |
 | Dale & Dawson Stationery Supplies | 296326 | [296326-dale-and-dawson-stationery-supplies.json](./296326-dale-and-dawson-stationery-supplies.json) |
+| Dale & Dawson: Stationary Supplies | 369827 | [369827-dale-and-dawson-stationary-supplies.json](./369827-dale-and-dawson-stationary-supplies.json) |
 | Dale and Peakot | 270736 | [270736-dale-and-peakot.json](./270736-dale-and-peakot.json) |
 | Dale Earnhardt Winner's Circle | 198718 | [198718-dale-earnhardt-winners-circle.json](./198718-dale-earnhardt-winners-circle.json) |
 | Dale Earnhardt Winner's Circle: Pacesetter Games | 198719 | [198719-dale-earnhardt-winners-circle-pacesetter-games.json](./198719-dale-earnhardt-winners-circle-pacesetter-games.json) |
@@ -3271,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Silent Hill - James Sunderland | 358415 | [358415-dead-by-daylight-silent-hill-james-sunderland.json](./358415-dead-by-daylight-silent-hill-james-sunderland.json) |
 | Dead by Daylight: Silent Hill - Lisa Garland | 358411 | [358411-dead-by-daylight-silent-hill-lisa-garland.json](./358411-dead-by-daylight-silent-hill-lisa-garland.json) |
 | Dead by Daylight: Silent Hill Edition | 139976 | [139976-dead-by-daylight-silent-hill-edition.json](./139976-dead-by-daylight-silent-hill-edition.json) |
+| Dead by Daylight: Sinister Grace | 369789 | [369789-dead-by-daylight-sinister-grace.json](./369789-dead-by-daylight-sinister-grace.json) |
 | Dead by Daylight: Spark of Madness Chapter | 76223 | [76223-dead-by-daylight-spark-of-madness-chapter.json](./76223-dead-by-daylight-spark-of-madness-chapter.json) |
 | Dead by Daylight: Special Edition | 106079 | [106079-dead-by-daylight-special-edition.json](./106079-dead-by-daylight-special-edition.json) |
 | Dead by Daylight: Steady Pulse | 342802 | [342802-dead-by-daylight-steady-pulse.json](./342802-dead-by-daylight-steady-pulse.json) |
@@ -5992,6 +5994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demetrios: The Big Cynical Adventure - Replastered | 194005 | [194005-demetrios-the-big-cynical-adventure-replastered.json](./194005-demetrios-the-big-cynical-adventure-replastered.json) |
 | Demetrios: The Big Cynical Adventure & Xenon Valkyrie+ | 145053 | [145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json](./145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json) |
 | Demi | 137817 | [137817-demi.json](./137817-demi.json) |
+| Demi and the Fractured Dream | 369843 | [369843-demi-and-the-fractured-dream.json](./369843-demi-and-the-fractured-dream.json) |
 | Demi Daggers | 283616 | [283616-demi-daggers.json](./283616-demi-daggers.json) |
 | Demian | 338825 | [338825-demian.json](./338825-demian.json) |
 | Demian Saga | 243621 | [243621-demian-saga.json](./243621-demian-saga.json) |
@@ -8298,6 +8301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dickland: Mini Games | 367281 | [367281-dickland-mini-games.json](./367281-dickland-mini-games.json) |
 | Dickland: Quest | 367280 | [367280-dickland-quest.json](./367280-dickland-quest.json) |
 | Dickland: Racing | 259064 | [259064-dickland-racing.json](./259064-dickland-racing.json) |
+| Dickland: Tower Defense | 369834 | [369834-dickland-tower-defense.json](./369834-dickland-tower-defense.json) |
 | Dickme Dicki | 202353 | [202353-dickme-dicki.json](./202353-dickme-dicki.json) |
 | Dictator | 78955 | [78955-dictator.json](./78955-dictator.json) |
 | Dictator Simulator: Gradnar | 374789 | [374789-dictator-simulator-gradnar.json](./374789-dictator-simulator-gradnar.json) |
@@ -10993,6 +10997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Dots | 187686 | [187686-dodge-dots.json](./187686-dodge-dots.json) |
 | Dodge Dummy | 114351 | [114351-dodge-dummy.json](./114351-dodge-dummy.json) |
 | Dodge Everything | 381367 | [381367-dodge-everything.json](./381367-dodge-everything.json) |
+| Dodge It | 369805 | [369805-dodge-it.json](./369805-dodge-it.json) |
 | Dodge It! | 165736 | [165736-dodge-it.json](./165736-dodge-it.json) |
 | Dodge Mania | 211151 | [211151-dodge-mania.json](./211151-dodge-mania.json) |
 | Dodge Master | 30120 | [30120-dodge-master.json](./30120-dodge-master.json) |
