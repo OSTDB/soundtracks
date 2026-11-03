@@ -1597,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicoal | 62260 | [62260-magicoal.json](./62260-magicoal.json) |
 | Magicolor TD | 280173 | [280173-magicolor-td.json](./280173-magicolor-td.json) |
 | Magicolors | 121489 | [121489-magicolors.json](./121489-magicolors.json) |
+| Magicore Anomala | 386825 | [386825-magicore-anomala.json](./386825-magicore-anomala.json) |
 | MagiCraze | 151720 | [151720-magicraze.json](./151720-magicraze.json) |
 | Magicsea Online | 349787 | [349787-magicsea-online.json](./349787-magicsea-online.json) |
 | MagicShop2 | 253903 | [253903-magicshop2.json](./253903-magicshop2.json) |
@@ -3118,6 +3119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MapFriend | 226085 | [226085-mapfriend.json](./226085-mapfriend.json) |
 | MapGame | 341893 | [341893-mapgame.json](./341893-mapgame.json) |
 | MapGod | 412513 | [412513-mapgod.json](./412513-mapgod.json) |
+| MapHunt | 386905 | [386905-maphunt.json](./386905-maphunt.json) |
 | Mapia | 399669 | [399669-mapia.json](./399669-mapia.json) |
 | Maple & Rufus: The Water Robbery | 296490 | [296490-maple-and-rufus-the-water-robbery.json](./296490-maple-and-rufus-the-water-robbery.json) |
 | Maple and Aluna | 369124 | [369124-maple-and-aluna.json](./369124-maple-and-aluna.json) |
@@ -5619,6 +5621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9794,6 +9797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mica King | 414749 | [414749-mica-king.json](./414749-mica-king.json) |
 | Mica: Apoptosis | 177515 | [177515-mica-apoptosis.json](./177515-mica-apoptosis.json) |
 | Micchiri Neko Dash! | 328359 | [328359-micchiri-neko-dash.json](./328359-micchiri-neko-dash.json) |
+| Mice Crisis | 386900 | [386900-mice-crisis.json](./386900-mice-crisis.json) |
 | Mice Tea | 223528 | [223528-mice-tea.json](./223528-mice-tea.json) |
 | Micegard | 250492 | [250492-micegard.json](./250492-micegard.json) |
 | Michael Andretti's Indy Car Challenge | 42496 | [42496-michael-andrettis-indy-car-challenge.json](./42496-michael-andrettis-indy-car-challenge.json) |
@@ -14526,6 +14530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monolithic | 151269 | [151269-monolithic.json](./151269-monolithic.json) |
 | Monolithic Candle Chapter.1 | 82517 | [82517-monolithic-candle-chapter-1.json](./82517-monolithic-candle-chapter-1.json) |
 | Monolithic Candle Chapter.2 | 82518 | [82518-monolithic-candle-chapter-2.json](./82518-monolithic-candle-chapter-2.json) |
+| Monolithus | 386761 | [386761-monolithus.json](./386761-monolithus.json) |
 | Monologin | 404618 | [404618-monologin.json](./404618-monologin.json) |
 | Monologue: Winter melancholy | 278145 | [278145-monologue-winter-melancholy.json](./278145-monologue-winter-melancholy.json) |
 | Monomagia Cantabile | 214539 | [214539-monomagia-cantabile.json](./214539-monomagia-cantabile.json) |
@@ -17157,6 +17162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move The Box: Classic Block Puzzle | 251052 | [251052-move-the-box-classic-block-puzzle.json](./251052-move-the-box-classic-block-puzzle.json) |
 | Move the Window | 167509 | [167509-move-the-window.json](./167509-move-the-window.json) |
 | Move your Brain: Rollway Puzzle | 67050 | [67050-move-your-brain-rollway-puzzle.json](./67050-move-your-brain-rollway-puzzle.json) |
+| Moved In | 386823 | [386823-moved-in.json](./386823-moved-in.json) |
 | Moved Mind | 292420 | [292420-moved-mind.json](./292420-moved-mind.json) |
 | MoveFort | 318189 | [318189-movefort.json](./318189-movefort.json) |
 | Moveit | 188500 | [188500-moveit.json](./188500-moveit.json) |
