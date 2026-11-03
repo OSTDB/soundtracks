@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q2 Humanity | 261635 | [261635-q2-humanity.json](./261635-q2-humanity.json) |
 | Q4Max | 252081 | [252081-q4max.json](./252081-q4max.json) |
 | Q73 | 229560 | [229560-q73.json](./229560-q73.json) |
+| QA Simulator | 393238 | [393238-qa-simulator.json](./393238-qa-simulator.json) |
 | Qabara the Artist | 207717 | [207717-qabara-the-artist.json](./207717-qabara-the-artist.json) |
 | QAD: Quintessential Art of Destruction | 72102 | [72102-qad-quintessential-art-of-destruction.json](./72102-qad-quintessential-art-of-destruction.json) |
 | Qajary Cat | 75940 | [75940-qajary-cat.json](./75940-qajary-cat.json) |
