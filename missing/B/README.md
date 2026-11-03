@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balatro: Friends of Jimbo 2 | 333054 | [333054-balatro-friends-of-jimbo-2.json](./333054-balatro-friends-of-jimbo-2.json) |
 | Balatro: Friends of Jimbo 3 | 333055 | [333055-balatro-friends-of-jimbo-3.json](./333055-balatro-friends-of-jimbo-3.json) |
 | Balatro: Friends of Jimbo 4 | 333046 | [333046-balatro-friends-of-jimbo-4.json](./333046-balatro-friends-of-jimbo-4.json) |
+| Balatro: Lost Edition | 377725 | [377725-balatro-lost-edition.json](./377725-balatro-lost-edition.json) |
 | Balatro: Special Edition | 323893 | [323893-balatro-special-edition.json](./323893-balatro-special-edition.json) |
 | Balavour | 345986 | [345986-balavour.json](./345986-balavour.json) |
 | Balconing Simulator 2020 | 127988 | [127988-balconing-simulator-2020.json](./127988-balconing-simulator-2020.json) |
@@ -9246,6 +9247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blanksword | 338720 | [338720-blanksword.json](./338720-blanksword.json) |
 | BlapRacer | 71507 | [71507-blapracer.json](./71507-blapracer.json) |
 | Blargle and the Quest for the Nothing Burger | 415208 | [415208-blargle-and-the-quest-for-the-nothing-burger.json](./415208-blargle-and-the-quest-for-the-nothing-burger.json) |
+| Blaring Rooms | 377873 | [377873-blaring-rooms.json](./377873-blaring-rooms.json) |
 | Blarp! | 34015 | [34015-blarp.json](./34015-blarp.json) |
 | Blaseball | 136475 | [136475-blaseball.json](./136475-blaseball.json) |
 | Blasfemia | 343698 | [343698-blasfemia.json](./343698-blasfemia.json) |
