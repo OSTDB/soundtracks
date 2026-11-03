@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Object "Cleaning" | 83568 | [83568-object-cleaning.json](./83568-object-cleaning.json) |
 | Object Factory | 371425 | [371425-object-factory.json](./371425-object-factory.json) |
 | Object N | 142991 | [142991-object-n.json](./142991-object-n.json) |
+| Object Ward: April Fools' Collection | 393229 | [393229-object-ward-april-fools-collection.json](./393229-object-ward-april-fools-collection.json) |
 | Object Ward. | 188912 | [188912-object-ward.json](./188912-object-ward.json) |
 | Object Wars | 211166 | [211166-object-wars.json](./211166-object-wars.json) |
 | Object-37 | 261430 | [261430-object-37.json](./261430-object-37.json) |
@@ -2561,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Try, One Kill | 151121 | [151121-one-try-one-kill.json](./151121-one-try-one-kill.json) |
 | One Turkey, Two Turkeys | 332244 | [332244-one-turkey-two-turkeys.json](./332244-one-turkey-two-turkeys.json) |
 | One Turn Kill | 320604 | [320604-one-turn-kill.json](./320604-one-turn-kill.json) |
+| One Turret | 393235 | [393235-one-turret.json](./393235-one-turret.json) |
 | One Two Boat Racing | 209407 | [209407-one-two-boat-racing.json](./209407-one-two-boat-racing.json) |
 | One Upon Light | 13551 | [13551-one-upon-light.json](./13551-one-upon-light.json) |
 | One Vacancy | 184039 | [184039-one-vacancy.json](./184039-one-vacancy.json) |
