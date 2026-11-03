@@ -4696,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seen Before | 348654 | [348654-seen-before.json](./348654-seen-before.json) |
 | Seen in Liberty City | 397372 | [397372-seen-in-liberty-city.json](./397372-seen-in-liberty-city.json) |
 | Seen on Screen | 225721 | [225721-seen-on-screen.json](./225721-seen-on-screen.json) |
+| Seena | 368170 | [368170-seena.json](./368170-seena.json) |
 | SeeNa | 62590 | [62590-seena.json](./62590-seena.json) |
 | Seer | 397381 | [397381-seer.json](./397381-seer.json) |
 | Seer's Gambit | 265301 | [265301-seers-gambit.json](./265301-seers-gambit.json) |
@@ -10793,6 +10794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sing & Fly: Music space game | 175101 | [175101-sing-and-fly-music-space-game.json](./175101-sing-and-fly-music-space-game.json) |
 | Sing 4: The Hits Edition | 50602 | [50602-sing-4-the-hits-edition.json](./50602-sing-4-the-hits-edition.json) |
 | Sing Party | 3108 | [3108-sing-party.json](./3108-sing-party.json) |
+| Sing Together: VR Karaoke | 368209 | [368209-sing-together-vr-karaoke.json](./368209-sing-together-vr-karaoke.json) |
 | Singalongsong | 302932 | [302932-singalongsong.json](./302932-singalongsong.json) |
 | Singaria | 120762 | [120762-singaria.json](./120762-singaria.json) |
 | Singer Izek | 93161 | [93161-singer-izek.json](./93161-singer-izek.json) |
@@ -11772,6 +11774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skuf For Altushki | 368554 | [368554-skuf-for-altushki.json](./368554-skuf-for-altushki.json) |
 | Skuf na dachie | 380668 | [380668-skuf-na-dachie.json](./380668-skuf-na-dachie.json) |
 | Skuf Simulator | 276968 | [276968-skuf-simulator.json](./276968-skuf-simulator.json) |
+| Skuf vs Beer Bottle Party | 368195 | [368195-skuf-vs-beer-bottle-party.json](./368195-skuf-vs-beer-bottle-party.json) |
 | Skuf's Day | 294114 | [294114-skufs-day.json](./294114-skufs-day.json) |
 | Skufs and Alt-Girls | 298067 | [298067-skufs-and-alt-girls.json](./298067-skufs-and-alt-girls.json) |
 | Skuiggle | 202945 | [202945-skuiggle.json](./202945-skuiggle.json) |
@@ -18664,7 +18667,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19653,6 +19655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparrow Country | 408157 | [408157-sparrow-country.json](./408157-sparrow-country.json) |
 | Sparrow Shop | 384196 | [384196-sparrow-shop.json](./384196-sparrow-shop.json) |
 | Sparrow Solitaire | 209649 | [209649-sparrow-solitaire.json](./209649-sparrow-solitaire.json) |
+| Sparrow Warfare | 368183 | [368183-sparrow-warfare.json](./368183-sparrow-warfare.json) |
 | Sparrows | 197795 | [197795-sparrows.json](./197795-sparrows.json) |
 | SparSpecial | 292547 | [292547-sparspecial.json](./292547-sparspecial.json) |
 | Sparta Anthology | 324565 | [324565-sparta-anthology.json](./324565-sparta-anthology.json) |
@@ -22257,6 +22260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squarez: Escape The Squares | 262357 | [262357-squarez-escape-the-squares.json](./262357-squarez-escape-the-squares.json) |
 | Squarism | 75636 | [75636-squarism.json](./75636-squarism.json) |
 | Squaser | 340174 | [340174-squaser.json](./340174-squaser.json) |
+| Squaser 5 | 368210 | [368210-squaser-5.json](./368210-squaser-5.json) |
 | Squaser 6 | 368490 | [368490-squaser-6.json](./368490-squaser-6.json) |
 | Squaser 7 | 367047 | [367047-squaser-7.json](./367047-squaser-7.json) |
 | Squaser 8 | 368569 | [368569-squaser-8.json](./368569-squaser-8.json) |
@@ -22479,6 +22483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Dango | 108734 | [108734-stack-dango.json](./108734-stack-dango.json) |
 | Stack Defense | 156906 | [156906-stack-defense.json](./156906-stack-defense.json) |
 | Stack Em | 375753 | [375753-stack-em.json](./375753-stack-em.json) |
+| Stack Graffiti | 368196 | [368196-stack-graffiti.json](./368196-stack-graffiti.json) |
 | Stack Gun Heroes | 59298 | [59298-stack-gun-heroes.json](./59298-stack-gun-heroes.json) |
 | Stack Haven | 389940 | [389940-stack-haven.json](./389940-stack-haven.json) |
 | Stack It | 216749 | [216749-stack-it.json](./216749-stack-it.json) |
@@ -24431,6 +24436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Startling Odyssey | 78944 | [78944-startling-odyssey.json](./78944-startling-odyssey.json) |
 | Startling Odyssey 1: Blue Evolution | 63928 | [63928-startling-odyssey-1-blue-evolution.json](./63928-startling-odyssey-1-blue-evolution.json) |
 | Startling Odyssey II: Maryuu Sensou | 63929 | [63929-startling-odyssey-ii-maryuu-sensou.json](./63929-startling-odyssey-ii-maryuu-sensou.json) |
+| Startmove | 368190 | [368190-startmove.json](./368190-startmove.json) |
 | Startopia | 8471 | [8471-startopia.json](./8471-startopia.json) |
 | StartPlay | 339669 | [339669-startplay.json](./339669-startplay.json) |
 | Startrail Destiny | 105039 | [105039-startrail-destiny.json](./105039-startrail-destiny.json) |
