@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Go Home | 220043 | [220043-i-wanna-go-home.json](./220043-i-wanna-go-home.json) |
 | I Wanna How Many Bottles of Coke Zero Can Badlands Chug in 3 Minutes? Watch & See! | 210657 | [210657-i-wanna-how-many-bottles-of-coke-zero-can-badlands-chug-in-3-minutes-watch-and-see.json](./210657-i-wanna-how-many-bottles-of-coke-zero-can-badlands-chug-in-3-minutes-watch-and-see.json) |
 | I Wanna Kill the Guy | 80532 | [80532-i-wanna-kill-the-guy.json](./80532-i-wanna-kill-the-guy.json) |
+| I Wanna Kill The Kamilia 2 | 359703 | [359703-i-wanna-kill-the-kamilia-2.json](./359703-i-wanna-kill-the-kamilia-2.json) |
 | I Wanna Kill the Kamilia 3 | 113466 | [113466-i-wanna-kill-the-kamilia-3.json](./113466-i-wanna-kill-the-kamilia-3.json) |
 | I Wanna Lap Around | 329182 | [329182-i-wanna-lap-around.json](./329182-i-wanna-lap-around.json) |
 | I Wanna Lockpick | 231726 | [231726-i-wanna-lockpick.json](./231726-i-wanna-lockpick.json) |
@@ -3663,7 +3664,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
