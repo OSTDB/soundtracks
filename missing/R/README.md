@@ -1963,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rasen no Sora | 116337 | [116337-rasen-no-sora.json](./116337-rasen-no-sora.json) |
 | Rasen Reijoh Spiral Ojosama: Chohatsu no Makina | 265945 | [265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json](./265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json) |
 | Rasetsu 2 | 374684 | [374684-rasetsu-2.json](./374684-rasetsu-2.json) |
+| Rasetsu Alternative | 389827 | [389827-rasetsu-alternative.json](./389827-rasetsu-alternative.json) |
 | Rasetsu Fumaden | 207676 | [207676-rasetsu-fumaden.json](./207676-rasetsu-fumaden.json) |
 | Rasetsu Fuumaden | 153051 | [153051-rasetsu-fuumaden.json](./153051-rasetsu-fuumaden.json) |
 | Rasetsu Xan | 200868 | [200868-rasetsu-xan.json](./200868-rasetsu-xan.json) |
@@ -5121,6 +5122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rerodent | 311863 | [311863-rerodent.json](./311863-rerodent.json) |
 | Reroll | 104065 | [104065-reroll.json](./104065-reroll.json) |
 | ReRoll | 19700 | [19700-reroll.json](./19700-reroll.json) |
+| Reroll Routine | 389814 | [389814-reroll-routine.json](./389814-reroll-routine.json) |
 | Reroll: Back to the throne | 76329 | [76329-reroll-back-to-the-throne.json](./76329-reroll-back-to-the-throne.json) |
 | Reroute | 291487 | [291487-reroute.json](./291487-reroute.json) |
 | Res Arcana | 37869 | [37869-res-arcana.json](./37869-res-arcana.json) |
@@ -11909,6 +11911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runefall 2: Collector's Edition | 221696 | [221696-runefall-2-collectors-edition.json](./221696-runefall-2-collectors-edition.json) |
 | Runeflame | 303991 | [303991-runeflame.json](./303991-runeflame.json) |
 | Runeflame: Legacy of the Druids | 340558 | [340558-runeflame-legacy-of-the-druids.json](./340558-runeflame-legacy-of-the-druids.json) |
+| Runeforged: Monolith | 389856 | [389856-runeforged-monolith.json](./389856-runeforged-monolith.json) |
 | RuneKeeper | 396664 | [396664-runekeeper.json](./396664-runekeeper.json) |
 | RuneLight | 250858 | [250858-runelight.json](./250858-runelight.json) |
 | RuneLite | 142955 | [142955-runelite.json](./142955-runelite.json) |
