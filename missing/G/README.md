@@ -9067,6 +9067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grip: Garage Bundle Pack | 116656 | [116656-grip-garage-bundle-pack.json](./116656-grip-garage-bundle-pack.json) |
 | Gripless: Drift Valley | 386885 | [386885-gripless-drift-valley.json](./386885-gripless-drift-valley.json) |
 | Gripper | 130776 | [130776-gripper.json](./130776-gripper.json) |
+| Gripper's 3D/VR Adventure | 380359 | [380359-grippers-3d-vr-adventure.json](./380359-grippers-3d-vr-adventure.json) |
 | Gripper's Adventure | 89272 | [89272-grippers-adventure.json](./89272-grippers-adventure.json) |
 | Grippy | 177179 | [177179-grippy.json](./177179-grippy.json) |
 | Grippy | 378389 | [378389-grippy.json](./378389-grippy.json) |
@@ -9693,6 +9694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of the Zodiac | 299008 | [299008-guardians-of-the-zodiac.json](./299008-guardians-of-the-zodiac.json) |
 | Guardians of Time: The Chronicles of Chronos | 290448 | [290448-guardians-of-time-the-chronicles-of-chronos.json](./290448-guardians-of-time-the-chronicles-of-chronos.json) |
 | Guardians of Victoria | 34882 | [34882-guardians-of-victoria.json](./34882-guardians-of-victoria.json) |
+| Guardians Planetfall | 380582 | [380582-guardians-planetfall.json](./380582-guardians-planetfall.json) |
 | Guardians Survival | 244307 | [244307-guardians-survival.json](./244307-guardians-survival.json) |
 | Guardians: Denjin Makai II | 46781 | [46781-guardians-denjin-makai-ii.json](./46781-guardians-denjin-makai-ii.json) |
 | Guardians: Royal Journey | 155003 | [155003-guardians-royal-journey.json](./155003-guardians-royal-journey.json) |
