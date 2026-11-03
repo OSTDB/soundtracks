@@ -6131,6 +6131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishao | 221821 | [221821-fishao.json](./221821-fishao.json) |
 | Fishards | 152852 | [152852-fishards.json](./152852-fishards.json) |
 | Fishbait | 373634 | [373634-fishbait.json](./373634-fishbait.json) |
+| Fishball | 397527 | [397527-fishball.json](./397527-fishball.json) |
 | Fishbane | 128871 | [128871-fishbane.json](./128871-fishbane.json) |
 | Fishbone | 218068 | [218068-fishbone.json](./218068-fishbone.json) |
 | Fishbones | 122194 | [122194-fishbones.json](./122194-fishbones.json) |
@@ -6760,6 +6761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five: Champions of Canaan | 32324 | [32324-five-champions-of-canaan.json](./32324-five-champions-of-canaan.json) |
 | Five: Guardians of David | 20205 | [20205-five-guardians-of-david.json](./20205-five-guardians-of-david.json) |
 | FiveM | 146553 | [146553-fivem.json](./146553-fivem.json) |
+| Fives | 397478 | [397478-fives.json](./397478-fives.json) |
 | FiveSeven | 222727 | [222727-fiveseven.json](./222727-fiveseven.json) |
 | Fivies | 220343 | [220343-fivies.json](./220343-fivies.json) |
 | Fix and Foxi: Episode 1 - Lupo | 208380 | [208380-fix-and-foxi-episode-1-lupo.json](./208380-fix-and-foxi-episode-1-lupo.json) |
@@ -9214,6 +9216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forester Simulator 2026: Mushroom Hunting | 387104 | [387104-forester-simulator-2026-mushroom-hunting.json](./387104-forester-simulator-2026-mushroom-hunting.json) |
 | Forestia Révoltozoo | 389663 | [389663-forestia-revoltozoo.json](./389663-forestia-revoltozoo.json) |
 | Forestless | 351275 | [351275-forestless.json](./351275-forestless.json) |
+| Forestress Shade | 397495 | [397495-forestress-shade.json](./397495-forestress-shade.json) |
 | Forestrike | 310694 | [310694-forestrike.json](./310694-forestrike.json) |
 | Forestry | 29950 | [29950-forestry.json](./29950-forestry.json) |
 | Forestry 2017 - The Simulation | 36394 | [36394-forestry-2017-the-simulation.json](./36394-forestry-2017-the-simulation.json) |
@@ -11398,6 +11401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fright House | 329352 | [329352-fright-house.json](./329352-fright-house.json) |
 | Fright Knight Legend | 223333 | [223333-fright-knight-legend.json](./223333-fright-knight-legend.json) |
 | Fright Light | 31539 | [31539-fright-light.json](./31539-fright-light.json) |
+| Fright Maze | 397513 | [397513-fright-maze.json](./397513-fright-maze.json) |
 | Fright Night | 12591 | [12591-fright-night.json](./12591-fright-night.json) |
 | Fright Night | 205031 | [205031-fright-night.json](./205031-fright-night.json) |
 | Fright Night Sex Fest | 169574 | [169574-fright-night-sex-fest.json](./169574-fright-night-sex-fest.json) |
@@ -13261,6 +13265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuuun! Daisoujou | 69087 | [69087-fuuun-daisoujou.json](./69087-fuuun-daisoujou.json) |
 | Fuwa! Fuwa! Omurice Simulator Roguelite | 415083 | [415083-fuwa-fuwa-omurice-simulator-roguelite.json](./415083-fuwa-fuwa-omurice-simulator-roguelite.json) |
 | Fúyáozhíshàng | 412943 | [412943-fuyaozhishang.json](./412943-fuyaozhishang.json) |
+| Fuyou no Joudo ni Okitamau | 397592 | [397592-fuyou-no-joudo-ni-okitamau.json](./397592-fuyou-no-joudo-ni-okitamau.json) |
 | Fuyu Kiss | 159292 | [159292-fuyu-kiss.json](./159292-fuyu-kiss.json) |
 | Fuyu Kiss: Complete Limited Edition | 159822 | [159822-fuyu-kiss-complete-limited-edition.json](./159822-fuyu-kiss-complete-limited-edition.json) |
 | Fúyǔ Lù | 82042 | [82042-fuyu-lu.json](./82042-fuyu-lu.json) |
