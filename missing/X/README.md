@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xmas Tripeaks | 95661 | [95661-xmas-tripeaks.json](./95661-xmas-tripeaks.json) |
 | Xmas Zombie Rampage | 30079 | [30079-xmas-zombie-rampage.json](./30079-xmas-zombie-rampage.json) |
 | Xmas Zombie Rampage 2 | 81802 | [81802-xmas-zombie-rampage-2.json](./81802-xmas-zombie-rampage-2.json) |
+| Xmas, Super Puzzles Dream | 358013 | [358013-xmas-super-puzzles-dream.json](./358013-xmas-super-puzzles-dream.json) |
 | Xmasss Terror | 184503 | [184503-xmasss-terror.json](./184503-xmasss-terror.json) |
 | Xmax KPI | 397086 | [397086-xmax-kpi.json](./397086-xmax-kpi.json) |
 | XMinutes: Wings | 47132 | [47132-xminutes-wings.json](./47132-xminutes-wings.json) |
