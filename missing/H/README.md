@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack | 2875 | [2875-hack.json](./2875-hack.json) |
 | Hack '95 | 405079 | [405079-hack-95.json](./405079-hack-95.json) |
 | Hack 'n' Stack | 258624 | [258624-hack-n-stack.json](./258624-hack-n-stack.json) |
+| Hack & Po | 364145 | [364145-hack-and-po.json](./364145-hack-and-po.json) |
 | Hack & Schlitz | 220426 | [220426-hack-and-schlitz.json](./220426-hack-and-schlitz.json) |
 | Hack & Turn | 180114 | [180114-hack-and-turn.json](./180114-hack-and-turn.json) |
 | Hack 0 | 272813 | [272813-hack-0.json](./272813-hack-0.json) |
@@ -9076,6 +9077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: The Wings to Mars | 282498 | [282498-honkai-impact-3rd-the-wings-to-mars.json](./282498-honkai-impact-3rd-the-wings-to-mars.json) |
 | Honkai Impact 3rd: Undine's Phantasm | 281578 | [281578-honkai-impact-3rd-undines-phantasm.json](./281578-honkai-impact-3rd-undines-phantasm.json) |
 | Honkai Impact 3rd: Unequaled, Unrivaled | 279704 | [279704-honkai-impact-3rd-unequaled-unrivaled.json](./279704-honkai-impact-3rd-unequaled-unrivaled.json) |
+| Honkai: Nexus Anima | 364158 | [364158-honkai-nexus-anima.json](./364158-honkai-nexus-anima.json) |
 | Honkai: Star Rail - A New Venture on the Eighth Dawn | 322770 | [322770-honkai-star-rail-a-new-venture-on-the-eighth-dawn.json](./322770-honkai-star-rail-a-new-venture-on-the-eighth-dawn.json) |
 | Honkai: Star Rail - Annals of Pinecany's Mappou Age | 319458 | [319458-honkai-star-rail-annals-of-pinecanys-mappou-age.json](./319458-honkai-star-rail-annals-of-pinecanys-mappou-age.json) |
 | Honkai: Star Rail - As Tomorrow Became Yesterday | 375253 | [375253-honkai-star-rail-as-tomorrow-became-yesterday.json](./375253-honkai-star-rail-as-tomorrow-became-yesterday.json) |
