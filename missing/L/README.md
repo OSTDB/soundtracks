@@ -1262,6 +1262,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Gleam | 182073 | [182073-last-gleam.json](./182073-last-gleam.json) |
 | Last God's Bidding | 272956 | [272956-last-gods-bidding.json](./272956-last-gods-bidding.json) |
 | Last Group Out | 189196 | [189196-last-group-out.json](./189196-last-group-out.json) |
+| Last Guardian 2: Yomi no Fuuin | 376153 | [376153-last-guardian-2-yomi-no-fuuin.json](./376153-last-guardian-2-yomi-no-fuuin.json) |
+| Last Guardian: Juukyou no Shugosha | 376151 | [376151-last-guardian-juukyou-no-shugosha.json](./376151-last-guardian-juukyou-no-shugosha.json) |
 | Last Guest | 346778 | [346778-last-guest.json](./346778-last-guest.json) |
 | Last Half of Darkness | 312756 | [312756-last-half-of-darkness.json](./312756-last-half-of-darkness.json) |
 | Last Half of Darkness | 80604 | [80604-last-half-of-darkness.json](./80604-last-half-of-darkness.json) |
@@ -7442,6 +7444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorna | 46936 | [46936-lorna.json](./46936-lorna.json) |
 | Lorne | 235754 | [235754-lorne.json](./235754-lorne.json) |
 | Lornsword Winter Chronicle | 117358 | [117358-lornsword-winter-chronicle.json](./117358-lornsword-winter-chronicle.json) |
+| Lorsvale | 375998 | [375998-lorsvale.json](./375998-lorsvale.json) |
 | Lort | 345444 | [345444-lort.json](./345444-lort.json) |
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
 | Los Angeles Crimes | 194101 | [194101-los-angeles-crimes.json](./194101-los-angeles-crimes.json) |
