@@ -11165,6 +11165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kitty in the Trapping Garden | 273316 | [273316-the-kitty-in-the-trapping-garden.json](./273316-the-kitty-in-the-trapping-garden.json) |
 | The Klaxo Radio Hour | 122846 | [122846-the-klaxo-radio-hour.json](./122846-the-klaxo-radio-hour.json) |
 | The Knife of the Traitor | 178802 | [178802-the-knife-of-the-traitor.json](./178802-the-knife-of-the-traitor.json) |
+| The Knife Sharpener | 395617 | [395617-the-knife-sharpener.json](./395617-the-knife-sharpener.json) |
 | The Knight | 234449 | [234449-the-knight.json](./234449-the-knight.json) |
 | The Knight & the Dragon | 117963 | [117963-the-knight-and-the-dragon.json](./117963-the-knight-and-the-dragon.json) |
 | The Knight Dance | 301377 | [301377-the-knight-dance.json](./301377-the-knight-dance.json) |
@@ -22919,6 +22920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaru Pantsu no Railgun | 204322 | [204322-toaru-pantsu-no-railgun.json](./204322-toaru-pantsu-no-railgun.json) |
 | Toast | 237271 | [237271-toast.json](./237271-toast.json) |
 | Toast Astronauts | 338960 | [338960-toast-astronauts.json](./338960-toast-astronauts.json) |
+| Toast Clicker | 395630 | [395630-toast-clicker.json](./395630-toast-clicker.json) |
 | Toast Defense | 150977 | [150977-toast-defense.json](./150977-toast-defense.json) |
 | Toast Factory | 380512 | [380512-toast-factory.json](./380512-toast-factory.json) |
 | Toast Ghost | 307739 | [307739-toast-ghost.json](./307739-toast-ghost.json) |
