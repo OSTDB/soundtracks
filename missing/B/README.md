@@ -932,7 +932,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6402,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bert the Barbarian | 178830 | [178830-bert-the-barbarian.json](./178830-bert-the-barbarian.json) |
 | Bert: The Game | 371934 | [371934-bert-the-game.json](./371934-bert-the-game.json) |
 | Bert's Family Feud: The Interactive DVD Game | 231831 | [231831-berts-family-feud-the-interactive-dvd-game.json](./231831-berts-family-feud-the-interactive-dvd-game.json) |
+| Bertha | 352479 | [352479-bertha.json](./352479-bertha.json) |
 | Bertha Butt's Boogie | 314367 | [314367-bertha-butts-boogie.json](./314367-bertha-butts-boogie.json) |
 | Bertie the Brain | 19157 | [19157-bertie-the-brain.json](./19157-bertie-the-brain.json) |
 | Bertie the Stableboy | 265410 | [265410-bertie-the-stableboy.json](./265410-bertie-the-stableboy.json) |
@@ -12777,6 +12777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borb the Birb | 135057 | [135057-borb-the-birb.json](./135057-borb-the-birb.json) |
 | Borbo's Quest | 178582 | [178582-borbos-quest.json](./178582-borbos-quest.json) |
 | Borbs | 411526 | [411526-borbs.json](./411526-borbs.json) |
+| Börd Killer | 352478 | [352478-bord-killer.json](./352478-bord-killer.json) |
 | Border Bots VR | 260759 | [260759-border-bots-vr.json](./260759-border-bots-vr.json) |
 | Border Break | 81218 | [81218-border-break.json](./81218-border-break.json) |
 | Border Break: Sega Network Robot Wars | 78434 | [78434-border-break-sega-network-robot-wars.json](./78434-border-break-sega-network-robot-wars.json) |
