@@ -6007,6 +6007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoEL: Nothing on Elysion Line | 237253 | [237253-noel-nothing-on-elysion-line.json](./237253-noel-nothing-on-elysion-line.json) |
 | Noel's Hope | 113703 | [113703-noels-hope.json](./113703-noels-hope.json) |
 | Noelia | 325085 | [325085-noelia.json](./325085-noelia.json) |
+| Noelle | 381872 | [381872-noelle.json](./381872-noelle.json) |
 | Noelle Does Her Best! | 210717 | [210717-noelle-does-her-best.json](./210717-noelle-does-her-best.json) |
 | Noelle: Lost Soul | 330818 | [330818-noelle-lost-soul.json](./330818-noelle-lost-soul.json) |
 | Noelle's Ark | 396699 | [396699-noelles-ark.json](./396699-noelles-ark.json) |
