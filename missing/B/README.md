@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Lost Runners | 364009 | [364009-backrooms-lost-runners.json](./364009-backrooms-lost-runners.json) |
 | Backrooms Mainframe | 234687 | [234687-backrooms-mainframe.json](./234687-backrooms-mainframe.json) |
 | Backrooms Manager: Together | 410982 | [410982-backrooms-manager-together.json](./410982-backrooms-manager-together.json) |
+| Backrooms Maze 2D | 365929 | [365929-backrooms-maze-2d.json](./365929-backrooms-maze-2d.json) |
 | Backrooms Media | 315613 | [315613-backrooms-media.json](./315613-backrooms-media.json) |
 | BackRooms New | 213437 | [213437-backrooms-new.json](./213437-backrooms-new.json) |
 | Backrooms Not Escape | 392920 | [392920-backrooms-not-escape.json](./392920-backrooms-not-escape.json) |
@@ -929,7 +930,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5233,6 +5233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beaterator | 18383 | [18383-beaterator.json](./18383-beaterator.json) |
 | BeatEVO YG | 74785 | [74785-beatevo-yg.json](./74785-beatevo-yg.json) |
 | Beatfinder | 341983 | [341983-beatfinder.json](./341983-beatfinder.json) |
+| BeatHero | 365966 | [365966-beathero.json](./365966-beathero.json) |
 | Beatification | 207143 | [207143-beatification.json](./207143-beatification.json) |
 | Beating A Dead Horse With A One-Trick Pony | 111508 | [111508-beating-a-dead-horse-with-a-one-trick-pony.json](./111508-beating-a-dead-horse-with-a-one-trick-pony.json) |
 | Beatitas | 133620 | [133620-beatitas.json](./133620-beatitas.json) |
@@ -5313,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beats Fever: Big Apple | 155369 | [155369-beats-fever-big-apple.json](./155369-beats-fever-big-apple.json) |
 | Beats of Fury | 127181 | [127181-beats-of-fury.json](./127181-beats-of-fury.json) |
 | Beats of Rage | 46623 | [46623-beats-of-rage.json](./46623-beats-of-rage.json) |
+| Beats of Un'sonia | 365972 | [365972-beats-of-unsonia.json](./365972-beats-of-unsonia.json) |
 | Beats Runner | 123990 | [123990-beats-runner.json](./123990-beats-runner.json) |
 | Beats Trellis | 74160 | [74160-beats-trellis.json](./74160-beats-trellis.json) |
 | Beats Warrior: Nian | 118266 | [118266-beats-warrior-nian.json](./118266-beats-warrior-nian.json) |
