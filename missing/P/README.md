@@ -2762,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patchy Matchy | 307853 | [307853-patchy-matchy.json](./307853-patchy-matchy.json) |
 | Patchy Patients | 177285 | [177285-patchy-patients.json](./177285-patchy-patients.json) |
 | Patent Blaster | 60079 | [60079-patent-blaster.json](./60079-patent-blaster.json) |
+| Patent Tycoon | 377028 | [377028-patent-tycoon.json](./377028-patent-tycoon.json) |
 | Patent9 | 90117 | [90117-patent9.json](./90117-patent9.json) |
 | Path | 227012 | [227012-path.json](./227012-path.json) |
 | Path Ball | 341590 | [341590-path-ball.json](./341590-path-ball.json) |
@@ -4130,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pereelous | 347710 | [347710-pereelous.json](./347710-pereelous.json) |
 | Peregrin | 29934 | [29934-peregrin.json](./29934-peregrin.json) |
 | Peregrino | 359890 | [359890-peregrino.json](./359890-peregrino.json) |
+| Perennial | 377330 | [377330-perennial.json](./377330-perennial.json) |
 | Perennial | 58569 | [58569-perennial.json](./58569-perennial.json) |
 | Perennial Dusk: Kinsenka | 326641 | [326641-perennial-dusk-kinsenka.json](./326641-perennial-dusk-kinsenka.json) |
 | Perennial Order | 149935 | [149935-perennial-order.json](./149935-perennial-order.json) |
@@ -4221,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Porcelain | 391135 | [391135-perfect-porcelain.json](./391135-perfect-porcelain.json) |
 | Perfect Poses | 286018 | [286018-perfect-poses.json](./286018-perfect-poses.json) |
 | Perfect Round Disc Golf | 118583 | [118583-perfect-round-disc-golf.json](./118583-perfect-round-disc-golf.json) |
+| Perfect Run | 377313 | [377313-perfect-run.json](./377313-perfect-run.json) |
 | Perfect Shift | 57399 | [57399-perfect-shift.json](./57399-perfect-shift.json) |
 | Perfect Shot | 370722 | [370722-perfect-shot.json](./370722-perfect-shot.json) |
 | Perfect Slices | 253282 | [253282-perfect-slices.json](./253282-perfect-slices.json) |
@@ -16868,6 +16871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrfect Apawcalypse: Patches' Infurno | 147324 | [147324-purrfect-apawcalypse-patches-infurno.json](./147324-purrfect-apawcalypse-patches-infurno.json) |
 | Purrfect Apawcalypse! Incredible Furture! | 304121 | [304121-purrfect-apawcalypse-incredible-furture.json](./304121-purrfect-apawcalypse-incredible-furture.json) |
 | Purrfect Catch | 255041 | [255041-purrfect-catch.json](./255041-purrfect-catch.json) |
+| Purrfect Catch | 377190 | [377190-purrfect-catch.json](./377190-purrfect-catch.json) |
 | Purrfect Date | 54634 | [54634-purrfect-date.json](./54634-purrfect-date.json) |
 | Purrfect Pet Shop | 209376 | [209376-purrfect-pet-shop.json](./209376-purrfect-pet-shop.json) |
 | Purrfect Rescue | 279259 | [279259-purrfect-rescue.json](./279259-purrfect-rescue.json) |
