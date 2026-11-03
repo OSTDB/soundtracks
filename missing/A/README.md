@@ -3149,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advance Wars | 1691 | [1691-advance-wars.json](./1691-advance-wars.json) |
 | Advance Wars | 236813 | [236813-advance-wars.json](./236813-advance-wars.json) |
 | Advance Wars 1+2: Re-Boot Camp | 152360 | [152360-advance-wars-1-2-re-boot-camp.json](./152360-advance-wars-1-2-re-boot-camp.json) |
+| Advance Wars 2: Andy's Adventure | 395629 | [395629-advance-wars-2-andys-adventure.json](./395629-advance-wars-2-andys-adventure.json) |
 | Advance Wars 2: Black Hole Rising | 1692 | [1692-advance-wars-2-black-hole-rising.json](./1692-advance-wars-2-black-hole-rising.json) |
 | Advance Wars 2: Black Hole Rising | 236815 | [236815-advance-wars-2-black-hole-rising.json](./236815-advance-wars-2-black-hole-rising.json) |
 | Advance Wars by Web | 251128 | [251128-advance-wars-by-web.json](./251128-advance-wars-by-web.json) |
@@ -10534,6 +10535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antixonix | 140493 | [140493-antixonix.json](./140493-antixonix.json) |
 | Antiyoy | 25554 | [25554-antiyoy.json](./25554-antiyoy.json) |
 | Antkeep | 249825 | [249825-antkeep.json](./249825-antkeep.json) |
+| Antlers | 395635 | [395635-antlers.json](./395635-antlers.json) |
 | Antlion Soccer | 290348 | [290348-antlion-soccer.json](./290348-antlion-soccer.json) |
 | Antlions Everywhere | 268034 | [268034-antlions-everywhere.json](./268034-antlions-everywhere.json) |
 | AntMe! | 138000 | [138000-antme.json](./138000-antme.json) |
@@ -10914,6 +10916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Approaches | 335379 | [335379-apocalypse-approaches.json](./335379-apocalypse-approaches.json) |
 | Apocalypse Clash City Free: A Cyberpunk Clan War Death Race game | 351032 | [351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json](./351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json) |
 | Apocalypse Cow | 51677 | [51677-apocalypse-cow.json](./51677-apocalypse-cow.json) |
+| Apocalypse Day: Survival Z - Craft & Build | 395648 | [395648-apocalypse-day-survival-z-craft-and-build.json](./395648-apocalypse-day-survival-z-craft-and-build.json) |
 | Apocalypse Delivery Service | 304576 | [304576-apocalypse-delivery-service.json](./304576-apocalypse-delivery-service.json) |
 | Apocalypse Express | 327968 | [327968-apocalypse-express.json](./327968-apocalypse-express.json) |
 | Apocalypse Factory | 237192 | [237192-apocalypse-factory.json](./237192-apocalypse-factory.json) |
@@ -11561,6 +11564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Cyber Commando | 400162 | [400162-arcade-archives-2-cyber-commando.json](./400162-arcade-archives-2-cyber-commando.json) |
 | Arcade Archives 2: Cyber Cycles | 414798 | [414798-arcade-archives-2-cyber-cycles.json](./414798-arcade-archives-2-cyber-cycles.json) |
 | Arcade Archives 2: Dacholer | 419602 | [419602-arcade-archives-2-dacholer.json](./419602-arcade-archives-2-dacholer.json) |
+| Arcade Archives 2: Devastators | 395646 | [395646-arcade-archives-2-devastators.json](./395646-arcade-archives-2-devastators.json) |
 | Arcade Archives 2: Galactic Warriors | 377686 | [377686-arcade-archives-2-galactic-warriors.json](./377686-arcade-archives-2-galactic-warriors.json) |
 | Arcade Archives 2: Gee Bee | 371415 | [371415-arcade-archives-2-gee-bee.json](./371415-arcade-archives-2-gee-bee.json) |
 | Arcade Archives 2: Hyper Crash | 409672 | [409672-arcade-archives-2-hyper-crash.json](./409672-arcade-archives-2-hyper-crash.json) |
@@ -11658,6 +11662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Dangerous Seed | 192029 | [192029-arcade-archives-dangerous-seed.json](./192029-arcade-archives-dangerous-seed.json) |
 | Arcade Archives: Darius | 121426 | [121426-arcade-archives-darius.json](./121426-arcade-archives-darius.json) |
 | Arcade Archives: Dead Connection | 334087 | [334087-arcade-archives-dead-connection.json](./334087-arcade-archives-dead-connection.json) |
+| Arcade Archives: Devastators | 395647 | [395647-arcade-archives-devastators.json](./395647-arcade-archives-devastators.json) |
 | Arcade Archives: Dig Dug | 212615 | [212615-arcade-archives-dig-dug.json](./212615-arcade-archives-dig-dug.json) |
 | Arcade Archives: Dig Dug II | 245714 | [245714-arcade-archives-dig-dug-ii.json](./245714-arcade-archives-dig-dug-ii.json) |
 | Arcade Archives: Dinorex | 276863 | [276863-arcade-archives-dinorex.json](./276863-arcade-archives-dinorex.json) |
