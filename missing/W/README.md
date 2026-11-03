@@ -6244,6 +6244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Withering Realms | 329964 | [329964-withering-realms.json](./329964-withering-realms.json) |
 | Withering Rush | 225598 | [225598-withering-rush.json](./225598-withering-rush.json) |
 | Withering Way | 253807 | [253807-withering-way.json](./253807-withering-way.json) |
+| Withermoore Castle | 384477 | [384477-withermoore-castle.json](./384477-withermoore-castle.json) |
 | Withers | 166570 | [166570-withers.json](./166570-withers.json) |
 | Witherspring Wilds | 391858 | [391858-witherspring-wilds.json](./391858-witherspring-wilds.json) |
 | Within | 126195 | [126195-within.json](./126195-within.json) |
