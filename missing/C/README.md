@@ -1674,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capoo Pals for MAC | 289244 | [289244-capoo-pals-for-mac.json](./289244-capoo-pals-for-mac.json) |
 | Capoo Pals for MAC Expansion Set | 289464 | [289464-capoo-pals-for-mac-expansion-set.json](./289464-capoo-pals-for-mac-expansion-set.json) |
 | Capoo Stack | 387634 | [387634-capoo-stack.json](./387634-capoo-stack.json) |
+| Capote | 350720 | [350720-capote.json](./350720-capote.json) |
 | Capp's Ascent | 413482 | [413482-capps-ascent.json](./413482-capps-ascent.json) |
 | Cappadocia Puzzle | 303065 | [303065-cappadocia-puzzle.json](./303065-cappadocia-puzzle.json) |
 | Capper | 384667 | [384667-capper.json](./384667-capper.json) |
@@ -2635,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmageddon | 626 | [626-carmageddon.json](./626-carmageddon.json) |
 | Carmageddon II: Carpocalypse Now | 951 | [951-carmageddon-ii-carpocalypse-now.json](./951-carmageddon-ii-carpocalypse-now.json) |
 | Carmageddon Max Pack | 93899 | [93899-carmageddon-max-pack.json](./93899-carmageddon-max-pack.json) |
+| Carmageddon TDR 2000: Rage-o-Rama! Special Edition | 350729 | [350729-carmageddon-tdr-2000-rage-o-rama-special-edition.json](./350729-carmageddon-tdr-2000-rage-o-rama-special-edition.json) |
 | Carmageddon TV | 246897 | [246897-carmageddon-tv.json](./246897-carmageddon-tv.json) |
 | Carmageddon: Crashers | 36505 | [36505-carmageddon-crashers.json](./36505-carmageddon-crashers.json) |
 | Carmageddon: Max Damage | 18075 | [18075-carmageddon-max-damage.json](./18075-carmageddon-max-damage.json) |
@@ -7104,6 +7106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinatown Detective Agency | 125715 | [125715-chinatown-detective-agency.json](./125715-chinatown-detective-agency.json) |
 | Chinatris | 213367 | [213367-chinatris.json](./213367-chinatris.json) |
 | Chinbu's Adventure: Ice World | 171940 | [171940-chinbus-adventure-ice-world.json](./171940-chinbus-adventure-ice-world.json) |
+| Chinchón | 350879 | [350879-chinchon.json](./350879-chinchon.json) |
 | Chindouchou!! Pole no Daibouken | 50992 | [50992-chindouchou-pole-no-daibouken.json](./50992-chindouchou-pole-no-daibouken.json) |
 | Chindouchuu!! Pole no Daibouken | 79654 | [79654-chindouchuu-pole-no-daibouken.json](./79654-chindouchuu-pole-no-daibouken.json) |
 | Chinese Ancient Poetry Matching Game | 274576 | [274576-chinese-ancient-poetry-matching-game.json](./274576-chinese-ancient-poetry-matching-game.json) |
@@ -9076,6 +9079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civilization Online | 63915 | [63915-civilization-online.json](./63915-civilization-online.json) |
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
 | Civilization: Call to Power | 9930 | [9930-civilization-call-to-power.json](./9930-civilization-call-to-power.json) |
+| Civilization: Eras and Allies | 350730 | [350730-civilization-eras-and-allies.json](./350730-civilization-eras-and-allies.json) |
 | Civitas | 187380 | [187380-civitas.json](./187380-civitas.json) |
 | Civizard: Majutsu no Keifu | 66211 | [66211-civizard-majutsu-no-keifu.json](./66211-civizard-majutsu-no-keifu.json) |
 | CivRise | 348459 | [348459-civrise.json](./348459-civrise.json) |
