@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uayeb | 29539 | [29539-uayeb.json](./29539-uayeb.json) |
 | Ubai: To Take Another Man's Property | 384000 | [384000-ubai-to-take-another-mans-property.json](./384000-ubai-to-take-another-mans-property.json) |
 | Ubaste | 218474 | [218474-ubaste.json](./218474-ubaste.json) |
+| Ubasute | 360458 | [360458-ubasute.json](./360458-ubasute.json) |
 | UBeat | 91921 | [91921-ubeat.json](./91921-ubeat.json) |
 | Ubel | 195142 | [195142-ubel.json](./195142-ubel.json) |
 | Uber Squad | 179132 | [179132-uber-squad.json](./179132-uber-squad.json) |
