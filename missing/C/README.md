@@ -2065,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator 2021: Mazda Remastered DLC | 331810 | [331810-car-mechanic-simulator-2021-mazda-remastered-dlc.json](./331810-car-mechanic-simulator-2021-mazda-remastered-dlc.json) |
 | Car Mechanic Simulator 2021: Mercedes-Benz Remastered DLC | 231841 | [231841-car-mechanic-simulator-2021-mercedes-benz-remastered-dlc.json](./231841-car-mechanic-simulator-2021-mercedes-benz-remastered-dlc.json) |
 | Car Mechanic Simulator 2021: Rims | 285696 | [285696-car-mechanic-simulator-2021-rims.json](./285696-car-mechanic-simulator-2021-rims.json) |
+| Car Mechanic Simulator 2021: Taxi DLC | 359687 | [359687-car-mechanic-simulator-2021-taxi-dlc.json](./359687-car-mechanic-simulator-2021-taxi-dlc.json) |
 | Car Mechanic Simulator VR | 119714 | [119714-car-mechanic-simulator-vr.json](./119714-car-mechanic-simulator-vr.json) |
 | Car Mechanic Simulator: Deluxe Edition | 164745 | [164745-car-mechanic-simulator-deluxe-edition.json](./164745-car-mechanic-simulator-deluxe-edition.json) |
 | Car Mechanic Simulator: Pocket Edition | 122871 | [122871-car-mechanic-simulator-pocket-edition.json](./122871-car-mechanic-simulator-pocket-edition.json) |
@@ -11664,6 +11665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Advent 6 Pack | 351619 | [351619-coloring-pixels-advent-6-pack.json](./351619-coloring-pixels-advent-6-pack.json) |
 | Coloring Pixels: Advent 7 | 383922 | [383922-coloring-pixels-advent-7.json](./383922-coloring-pixels-advent-7.json) |
 | Coloring Pixels: Advent Pack | 162611 | [162611-coloring-pixels-advent-pack.json](./162611-coloring-pixels-advent-pack.json) |
+| Coloring Pixels: Alchemy Pack | 359872 | [359872-coloring-pixels-alchemy-pack.json](./359872-coloring-pixels-alchemy-pack.json) |
 | Coloring Pixels: Amusement Park Pack | 162588 | [162588-coloring-pixels-amusement-park-pack.json](./162588-coloring-pixels-amusement-park-pack.json) |
 | Coloring Pixels: Animals Pack | 162598 | [162598-coloring-pixels-animals-pack.json](./162598-coloring-pixels-animals-pack.json) |
 | Coloring Pixels: Autumn Pack | 256400 | [256400-coloring-pixels-autumn-pack.json](./256400-coloring-pixels-autumn-pack.json) |
@@ -12137,6 +12139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Bakery | 13831 | [13831-comic-bakery.json](./13831-comic-bakery.json) |
 | Comic Book Hero: The Greatest Cape | 33993 | [33993-comic-book-hero-the-greatest-cape.json](./33993-comic-book-hero-the-greatest-cape.json) |
 | Comic Book Legends | 259672 | [259672-comic-book-legends.json](./259672-comic-book-legends.json) |
+| Comic Book Store Simulator | 359699 | [359699-comic-book-store-simulator.json](./359699-comic-book-store-simulator.json) |
 | Comic Book Tycoon | 129620 | [129620-comic-book-tycoon.json](./129620-comic-book-tycoon.json) |
 | Comic Book Universe | 322774 | [322774-comic-book-universe.json](./322774-comic-book-universe.json) |
 | Comic Circus | 83201 | [83201-comic-circus.json](./83201-comic-circus.json) |
@@ -13972,6 +13975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corncob Deluxe | 94704 | [94704-corncob-deluxe.json](./94704-corncob-deluxe.json) |
 | Corndog | 215520 | [215520-corndog.json](./215520-corndog.json) |
 | Cornelius Cat in: How the Cat Saved Christmas | 421423 | [421423-cornelius-cat-in-how-the-cat-saved-christmas.json](./421423-cornelius-cat-in-how-the-cat-saved-christmas.json) |
+| Corner BookShop | 359700 | [359700-corner-bookshop.json](./359700-corner-bookshop.json) |
 | Corner Cards | 374557 | [374557-corner-cards.json](./374557-corner-cards.json) |
 | Corner Clash | 390520 | [390520-corner-clash.json](./390520-corner-clash.json) |
 | Corner Driver | 225888 | [225888-corner-driver.json](./225888-corner-driver.json) |
