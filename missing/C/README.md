@@ -16328,6 +16328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket 2005 | 5790 | [5790-cricket-2005.json](./5790-cricket-2005.json) |
 | Cricket 22 | 175987 | [175987-cricket-22.json](./175987-cricket-22.json) |
 | Cricket 24 | 243749 | [243749-cricket-24.json](./243749-cricket-24.json) |
+| Cricket 26 | 372155 | [372155-cricket-26.json](./372155-cricket-26.json) |
 | Cricket 64 | 56889 | [56889-cricket-64.json](./56889-cricket-64.json) |
 | Cricket 96 | 94684 | [94684-cricket-96.json](./94684-cricket-96.json) |
 | Cricket 97 | 47047 | [47047-cricket-97.json](./47047-cricket-97.json) |
