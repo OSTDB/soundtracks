@@ -1595,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Latex, Leather, Lipstick, Love, Lust | 340901 | [340901-latex-leather-lipstick-love-lust.json](./340901-latex-leather-lipstick-love-lust.json) |
 | Lathe Safety Simulator | 38635 | [38635-lathe-safety-simulator.json](./38635-lathe-safety-simulator.json) |
 | Latin America Empire 2027 | 219664 | [219664-latin-america-empire-2027.json](./219664-latin-america-empire-2027.json) |
+| Latin Heat | 394330 | [394330-latin-heat.json](./394330-latin-heat.json) |
 | Latin Shadows: The Visitor | 404073 | [404073-latin-shadows-the-visitor.json](./404073-latin-shadows-the-visitor.json) |
 | Latmos Explorer | 263975 | [263975-latmos-explorer.json](./263975-latmos-explorer.json) |
 | Latte Stand Tycoon | 113802 | [113802-latte-stand-tycoon.json](./113802-latte-stand-tycoon.json) |
