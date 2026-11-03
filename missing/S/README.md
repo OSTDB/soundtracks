@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura no Uta Re:Graphic - 10th Anniversary Edition | 355959 | [355959-sakura-no-uta-re-graphic-10th-anniversary-edition.json](./355959-sakura-no-uta-re-graphic-10th-anniversary-edition.json) |
 | Sakura no Uta Re:Graphic - Append Disc | 355964 | [355964-sakura-no-uta-re-graphic-append-disc.json](./355964-sakura-no-uta-re-graphic-append-disc.json) |
 | Sakura no Uta: Sakura no Mori no Ue wo Mau | 135568 | [135568-sakura-no-uta-sakura-no-mori-no-ue-wo-mau.json](./135568-sakura-no-uta-sakura-no-mori-no-ue-wo-mau.json) |
+| Sakura no Uta: Sakura no Mori no Ue wo Mau - 10th Anniversary Edition | 355974 | [355974-sakura-no-uta-sakura-no-mori-no-ue-wo-mau-10th-anniversary-edition.json](./355974-sakura-no-uta-sakura-no-mori-no-ue-wo-mau-10th-anniversary-edition.json) |
 | Sakura no Uta: To Dance Over the Cherry Blossoms | 409704 | [409704-sakura-no-uta-to-dance-over-the-cherry-blossoms.json](./409704-sakura-no-uta-to-dance-over-the-cherry-blossoms.json) |
 | Sakura Note: Ima ni Tsunagaru Mirai | 123409 | [123409-sakura-note-ima-ni-tsunagaru-mirai.json](./123409-sakura-note-ima-ni-tsunagaru-mirai.json) |
 | Sakura Peak | 389068 | [389068-sakura-peak.json](./389068-sakura-peak.json) |
@@ -9486,6 +9487,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Antietam! | 864 | [864-sid-meiers-antietam.json](./864-sid-meiers-antietam.json) |
 | Sid Meier's C.P.U. Bach | 38818 | [38818-sid-meiers-c-p-u-bach.json](./38818-sid-meiers-c-p-u-bach.json) |
 | Sid Meier's Civil War Collection | 208996 | [208996-sid-meiers-civil-war-collection.json](./208996-sid-meiers-civil-war-collection.json) |
+| Sid Meier's Civilization | 355843 | [355843-sid-meiers-civilization.json](./355843-sid-meiers-civilization.json) |
+| Sid Meier's Civilization | 355844 | [355844-sid-meiers-civilization.json](./355844-sid-meiers-civilization.json) |
 | Sid Meier's Civilization II | 634 | [634-sid-meiers-civilization-ii.json](./634-sid-meiers-civilization-ii.json) |
 | Sid Meier's Civilization II: Conflicts in Civilization | 115032 | [115032-sid-meiers-civilization-ii-conflicts-in-civilization.json](./115032-sid-meiers-civilization-ii-conflicts-in-civilization.json) |
 | Sid Meier's Civilization II: Fantastic Worlds | 72019 | [72019-sid-meiers-civilization-ii-fantastic-worlds.json](./72019-sid-meiers-civilization-ii-fantastic-worlds.json) |
@@ -19695,6 +19698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkle's Escape | 420349 | [420349-sparkles-escape.json](./420349-sparkles-escape.json) |
 | Sparkles & Gems | 146538 | [146538-sparkles-and-gems.json](./146538-sparkles-and-gems.json) |
 | SparkleWand Puzzle | 239056 | [239056-sparklewand-puzzle.json](./239056-sparklewand-puzzle.json) |
+| SparkLine | 355973 | [355973-sparkline.json](./355973-sparkline.json) |
 | Sparkling Bug | 335968 | [335968-sparkling-bug.json](./335968-sparkling-bug.json) |
 | Sparkling Corner | 172521 | [172521-sparkling-corner.json](./172521-sparkling-corner.json) |
 | Sparkling Feather | 46612 | [46612-sparkling-feather.json](./46612-sparkling-feather.json) |
@@ -27443,6 +27447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stub Game | 277700 | [277700-stub-game.json](./277700-stub-game.json) |
 | Stubborn Shibas | 382408 | [382408-stubborn-shibas.json](./382408-stubborn-shibas.json) |
 | Stubbs the Zombie in Rebel Without a Pulse | 79 | [79-stubbs-the-zombie-in-rebel-without-a-pulse.json](./79-stubbs-the-zombie-in-rebel-without-a-pulse.json) |
+| Stuck at Home | 355845 | [355845-stuck-at-home.json](./355845-stuck-at-home.json) |
 | Stuck at Home | 71004 | [71004-stuck-at-home.json](./71004-stuck-at-home.json) |
 | Stuck At Lv. 1 | 305126 | [305126-stuck-at-lv-1.json](./305126-stuck-at-lv-1.json) |
 | Stuck in a Well with a Frog | 386083 | [386083-stuck-in-a-well-with-a-frog.json](./386083-stuck-in-a-well-with-a-frog.json) |
