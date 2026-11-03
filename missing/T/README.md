@@ -8084,6 +8084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dope Game | 32754 | [32754-the-dope-game.json](./32754-the-dope-game.json) |
 | The Dope Game: Android Edition | 109202 | [109202-the-dope-game-android-edition.json](./109202-the-dope-game-android-edition.json) |
 | The Dope Game: Dope Fiend Edition | 53726 | [53726-the-dope-game-dope-fiend-edition.json](./53726-the-dope-game-dope-fiend-edition.json) |
+| The Doppel | 372705 | [372705-the-doppel.json](./372705-the-doppel.json) |
 | The Dormant Knight | 190356 | [190356-the-dormant-knight.json](./190356-the-dormant-knight.json) |
 | The Dot | 226205 | [226205-the-dot.json](./226205-the-dot.json) |
 | The Double | 394086 | [394086-the-double.json](./394086-the-double.json) |
@@ -11990,6 +11991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend Of Perchta | 290003 | [290003-the-legend-of-perchta.json](./290003-the-legend-of-perchta.json) |
 | The Legend of Pirates Online | 140587 | [140587-the-legend-of-pirates-online.json](./140587-the-legend-of-pirates-online.json) |
 | The Legend of Pomodoro | 193657 | [193657-the-legend-of-pomodoro.json](./193657-the-legend-of-pomodoro.json) |
+| The Legend of Prince Valiant | 372406 | [372406-the-legend-of-prince-valiant.json](./372406-the-legend-of-prince-valiant.json) |
 | The Legend of Prince Valiant | 48187 | [48187-the-legend-of-prince-valiant.json](./48187-the-legend-of-prince-valiant.json) |
 | The Legend of Protey | 108346 | [108346-the-legend-of-protey.json](./108346-the-legend-of-protey.json) |
 | The Legend of Queen Opala | 26163 | [26163-the-legend-of-queen-opala.json](./26163-the-legend-of-queen-opala.json) |
@@ -14789,6 +14791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reeve | 298458 | [298458-the-reeve.json](./298458-the-reeve.json) |
 | The Refinery | 271580 | [271580-the-refinery.json](./271580-the-refinery.json) |
 | The Reflection | 399671 | [399671-the-reflection.json](./399671-the-reflection.json) |
+| The Reflex Lab | 372410 | [372410-the-reflex-lab.json](./372410-the-reflex-lab.json) |
 | The Reformatory | 330654 | [330654-the-reformatory.json](./330654-the-reformatory.json) |
 | The Refuge | 125097 | [125097-the-refuge.json](./125097-the-refuge.json) |
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
@@ -18798,6 +18801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theurgy Architect | 333365 | [333365-theurgy-architect.json](./333365-theurgy-architect.json) |
 | TheVeteranVR | 118776 | [118776-theveteranvr.json](./118776-theveteranvr.json) |
 | theViewer | 111479 | [111479-theviewer.json](./111479-theviewer.json) |
+| TheVillage: Possession | 372716 | [372716-thevillage-possession.json](./372716-thevillage-possession.json) |
 | TheWalkerKiller VR | 44230 | [44230-thewalkerkiller-vr.json](./44230-thewalkerkiller-vr.json) |
 | TheWandererVR | 130098 | [130098-thewanderervr.json](./130098-thewanderervr.json) |
 | TheWaveVR | 25014 | [25014-thewavevr.json](./25014-thewavevr.json) |
