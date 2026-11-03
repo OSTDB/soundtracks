@@ -2259,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest OverRay + Ano Ko wa Ore kara Hanarenai | 207917 | [207917-harvest-overray-ano-ko-wa-ore-kara-hanarenai.json](./207917-harvest-overray-ano-ko-wa-ore-kara-hanarenai.json) |
 | Harvest OverRay + Ano Ko wa Ore kara Hanarenai: Limited Edition | 207916 | [207916-harvest-overray-ano-ko-wa-ore-kara-hanarenai-limited-edition.json](./207916-harvest-overray-ano-ko-wa-ore-kara-hanarenai-limited-edition.json) |
 | Harvest Reaper | 394903 | [394903-harvest-reaper.json](./394903-harvest-reaper.json) |
+| Harvest Scream | 362157 | [362157-harvest-scream.json](./362157-harvest-scream.json) |
 | Harvest Season: Sudoku Puzzle | 241992 | [241992-harvest-season-sudoku-puzzle.json](./241992-harvest-season-sudoku-puzzle.json) |
 | Harvest Seasons | 81864 | [81864-harvest-seasons.json](./81864-harvest-seasons.json) |
 | Harvest Simulator VR | 75579 | [75579-harvest-simulator-vr.json](./75579-harvest-simulator-vr.json) |
