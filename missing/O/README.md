@@ -2915,6 +2915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Go Up 2 | 370819 | [370819-only-go-up-2.json](./370819-only-go-up-2.json) |
 | Only Golf | 291397 | [291397-only-golf.json](./291397-only-golf.json) |
 | Only Good Babysitters Go to Heaven | 410495 | [410495-only-good-babysitters-go-to-heaven.json](./410495-only-good-babysitters-go-to-heaven.json) |
+| Only Hard | 359167 | [359167-only-hard.json](./359167-only-hard.json) |
 | Only High | 291144 | [291144-only-high.json](./291144-only-high.json) |
 | Only Hope: Episode 1 | 170917 | [170917-only-hope-episode-1.json](./170917-only-hope-episode-1.json) |
 | Only Hope: Episode 2 | 170919 | [170919-only-hope-episode-2.json](./170919-only-hope-episode-2.json) |
@@ -5122,6 +5123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost in the Dragon's Maw | 383701 | [383701-outpost-in-the-dragons-maw.json](./383701-outpost-in-the-dragons-maw.json) |
 | Outpost Kaloki X | 20508 | [20508-outpost-kaloki-x.json](./20508-outpost-kaloki-x.json) |
 | Outpost L5 | 50509 | [50509-outpost-l5.json](./50509-outpost-l5.json) |
+| Outpost Legends | 359143 | [359143-outpost-legends.json](./359143-outpost-legends.json) |
 | Outpost Luna | 174363 | [174363-outpost-luna.json](./174363-outpost-luna.json) |
 | Outpost on Syrinx | 119602 | [119602-outpost-on-syrinx.json](./119602-outpost-on-syrinx.json) |
 | Outpost Simulator | 377117 | [377117-outpost-simulator.json](./377117-outpost-simulator.json) |
