@@ -5350,6 +5350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Cinderella | 207171 | [207171-finding-cinderella.json](./207171-finding-cinderella.json) |
 | Finding Dory | 230376 | [230376-finding-dory.json](./230376-finding-dory.json) |
 | Finding Dory | 237525 | [237525-finding-dory.json](./237525-finding-dory.json) |
+| Finding Dragons | 356350 | [356350-finding-dragons.json](./356350-finding-dragons.json) |
 | Finding Ducks | 405807 | [405807-finding-ducks.json](./405807-finding-ducks.json) |
 | Finding fairies | 254582 | [254582-finding-fairies.json](./254582-finding-fairies.json) |
 | Finding Fate | 249944 | [249944-finding-fate.json](./249944-finding-fate.json) |
@@ -5702,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Lookout: Abandoned Post | 401664 | [401664-fire-lookout-abandoned-post.json](./401664-fire-lookout-abandoned-post.json) |
 | Fire Man | 247018 | [247018-fire-man.json](./247018-fire-man.json) |
 | Fire Man: Incoming Storm | 210482 | [210482-fire-man-incoming-storm.json](./210482-fire-man-incoming-storm.json) |
+| Fire Me, I Insist | 356373 | [356373-fire-me-i-insist.json](./356373-fire-me-i-insist.json) |
 | Fire Mission | 188349 | [188349-fire-mission.json](./188349-fire-mission.json) |
 | Fire on the Mountain | 272696 | [272696-fire-on-the-mountain.json](./272696-fire-on-the-mountain.json) |
 | Fire One | 39515 | [39515-fire-one.json](./39515-fire-one.json) |
