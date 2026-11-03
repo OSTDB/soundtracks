@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole The Scheme PC-8801mkIISR | 323695 | [323695-eggconsole-the-scheme-pc-8801mkiisr.json](./323695-eggconsole-the-scheme-pc-8801mkiisr.json) |
 | Eggconsole Thexder PC-8801mkIISR | 274444 | [274444-eggconsole-thexder-pc-8801mkiisr.json](./274444-eggconsole-thexder-pc-8801mkiisr.json) |
 | Eggconsole Topple Zip PC-8801 | 306531 | [306531-eggconsole-topple-zip-pc-8801.json](./306531-eggconsole-topple-zip-pc-8801.json) |
+| Eggconsole Tritorn MSX | 349581 | [349581-eggconsole-tritorn-msx.json](./349581-eggconsole-tritorn-msx.json) |
 | Eggconsole Undeadline MSX2 | 320448 | [320448-eggconsole-undeadline-msx2.json](./320448-eggconsole-undeadline-msx2.json) |
 | Eggconsole Wanderers From Ys PC-8801mkIISR | 300861 | [300861-eggconsole-wanderers-from-ys-pc-8801mkiisr.json](./300861-eggconsole-wanderers-from-ys-pc-8801mkiisr.json) |
 | Eggconsole Wonderland of Carbuncle MSX2 | 387106 | [387106-eggconsole-wonderland-of-carbuncle-msx2.json](./387106-eggconsole-wonderland-of-carbuncle-msx2.json) |
@@ -6374,6 +6375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evector: Acid Thirst | 149846 | [149846-evector-acid-thirst.json](./149846-evector-acid-thirst.json) |
 | Evel Knievel | 200330 | [200330-evel-knievel.json](./200330-evel-knievel.json) |
 | Evel Knievel | 348405 | [348405-evel-knievel.json](./348405-evel-knievel.json) |
+| Evel Knievel | 349571 | [349571-evel-knievel.json](./349571-evel-knievel.json) |
 | Evel Knievel 3D Stunt Game | 92760 | [92760-evel-knievel-3d-stunt-game.json](./92760-evel-knievel-3d-stunt-game.json) |
 | Evel Knievel Evel-ution | 23533 | [23533-evel-knievel-evel-ution.json](./23533-evel-knievel-evel-ution.json) |
 | Eveline | 416057 | [416057-eveline.json](./416057-eveline.json) |
