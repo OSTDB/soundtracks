@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Arena of Fate | 273090 | [273090-ultimate-arena-of-fate.json](./273090-ultimate-arena-of-fate.json) |
 | Ultimate Arena: Showdown | 81606 | [81606-ultimate-arena-showdown.json](./81606-ultimate-arena-showdown.json) |
 | Ultimate Armored Turbodrifter: Saga Chapter 2 - Tank Authority Wolfram | 290950 | [290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json](./290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json) |
+| Ultimate Assassin 3 | 388101 | [388101-ultimate-assassin-3.json](./388101-ultimate-assassin-3.json) |
 | Ultimate Ball | 242483 | [242483-ultimate-ball.json](./242483-ultimate-ball.json) |
 | Ultimate Ball: Fire Ball | 282259 | [282259-ultimate-ball-fire-ball.json](./282259-ultimate-ball-fire-ball.json) |
 | Ultimate Band | 5250 | [5250-ultimate-band.json](./5250-ultimate-band.json) |
@@ -467,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Coaster X | 115536 | [115536-ultimate-coaster-x.json](./115536-ultimate-coaster-x.json) |
 | Ultimate Combat Fighting | 323317 | [323317-ultimate-combat-fighting.json](./323317-ultimate-combat-fighting.json) |
 | Ultimate Control Machine | 391429 | [391429-ultimate-control-machine.json](./391429-ultimate-control-machine.json) |
+| Ultimate Crab Battle | 388102 | [388102-ultimate-crab-battle.json](./388102-ultimate-crab-battle.json) |
 | Ultimate Custom Night | 103629 | [103629-ultimate-custom-night.json](./103629-ultimate-custom-night.json) |
 | Ultimate Custom Night Demo | 230990 | [230990-ultimate-custom-night-demo.json](./230990-ultimate-custom-night-demo.json) |
 | Ultimate Custom Night VR | 220139 | [220139-ultimate-custom-night-vr.json](./220139-ultimate-custom-night-vr.json) |
@@ -3301,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Us vs. Them | 232014 | [232014-us-vs-them.json](./232014-us-vs-them.json) |
 | Us vs. Them | 25631 | [25631-us-vs-them.json](./25631-us-vs-them.json) |
 | US War Trivia | 87561 | [87561-us-war-trivia.json](./87561-us-war-trivia.json) |
+| USA Army Soldier Simulator | 388062 | [388062-usa-army-soldier-simulator.json](./388062-usa-army-soldier-simulator.json) |
 | USA East | 93221 | [93221-usa-east.json](./93221-usa-east.json) |
 | USA Nature's Trails Jigsaw Edition | 338580 | [338580-usa-natures-trails-jigsaw-edition.json](./338580-usa-natures-trails-jigsaw-edition.json) |
 | USA Nature's Trails Jigsaw Edition: Expansion Pack 1 | 357959 | [357959-usa-natures-trails-jigsaw-edition-expansion-pack-1.json](./357959-usa-natures-trails-jigsaw-edition-expansion-pack-1.json) |
