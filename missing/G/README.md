@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GALDR | 307585 | [307585-galdr.json](./307585-galdr.json) |
 | Galdregon's Domain | 13066 | [13066-galdregons-domain.json](./13066-galdregons-domain.json) |
 | Galdromeda | 394517 | [394517-galdromeda.json](./394517-galdromeda.json) |
+| Galduen of the Void | 354738 | [354738-galduen-of-the-void.json](./354738-galduen-of-the-void.json) |
 | Galdur | 103461 | [103461-galdur.json](./103461-galdur.json) |
 | Gale Gunner | 74781 | [74781-gale-gunner.json](./74781-gale-gunner.json) |
 | Gale of Windoria | 208021 | [208021-gale-of-windoria.json](./208021-gale-of-windoria.json) |
@@ -1535,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamma Zero | 332923 | [332923-gamma-zero.json](./332923-gamma-zero.json) |
 | Gamma-Attack | 40667 | [40667-gamma-attack.json](./40667-gamma-attack.json) |
 | Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
+| Gamocracy One: Legend of Robo7 | 354719 | [354719-gamocracy-one-legend-of-robo7.json](./354719-gamocracy-one-legend-of-robo7.json) |
 | Gamp | 25717 | [25717-gamp.json](./25717-gamp.json) |
 | Gamshara | 269943 | [269943-gamshara.json](./269943-gamshara.json) |
 | Gan-gan Gan-chan | 38023 | [38023-gan-gan-gan-chan.json](./38023-gan-gan-gan-chan.json) |
@@ -7158,6 +7160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goudall | 350616 | [350616-goudall.json](./350616-goudall.json) |
 | Gǒudàn Shénmàoxiǎn: Hěn Shǎ Hěn Tiānzhēn | 153336 | [153336-goudan-shenmaoxian-hen-sha-hen-tianzhen.json](./153336-goudan-shenmaoxian-hen-sha-hen-tianzhen.json) |
 | Goudou Manif | 333077 | [333077-goudou-manif.json](./333077-goudou-manif.json) |
+| Goukaku Boy Series: Z Kai Kyuukyoku no Eigo Koubun 285 | 354904 | [354904-goukaku-boy-series-z-kai-kyuukyoku-no-eigo-koubun-285.json](./354904-goukaku-boy-series-z-kai-kyuukyoku-no-eigo-koubun-285.json) |
 | Gouketsuji Ichizoku 2: Chottodake Saikyou Densetsu | 39573 | [39573-gouketsuji-ichizoku-2-chottodake-saikyou-densetsu.json](./39573-gouketsuji-ichizoku-2-chottodake-saikyou-densetsu.json) |
 | Gouketsuji Ichizoku Matsuri Senzo Kuyou | 65593 | [65593-gouketsuji-ichizoku-matsuri-senzo-kuyou.json](./65593-gouketsuji-ichizoku-matsuri-senzo-kuyou.json) |
 | Gourdlets | 226469 | [226469-gourdlets.json](./226469-gourdlets.json) |
