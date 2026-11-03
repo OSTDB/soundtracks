@@ -2015,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Chaos | 173423 | [173423-rat-chaos.json](./173423-rat-chaos.json) |
 | Rat Chef | 207597 | [207597-rat-chef.json](./207597-rat-chef.json) |
 | Rat Climber | 330135 | [330135-rat-climber.json](./330135-rat-climber.json) |
+| Rat Dreams | 354731 | [354731-rat-dreams.json](./354731-rat-dreams.json) |
 | Rat Farm | 414418 | [414418-rat-farm.json](./414418-rat-farm.json) |
 | Rat Game | 364212 | [364212-rat-game.json](./364212-rat-game.json) |
 | Rat Hotel | 296230 | [296230-rat-hotel.json](./296230-rat-hotel.json) |
