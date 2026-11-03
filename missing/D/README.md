@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakar Desert Rally: SnowRunner Cars Pack | 278428 | [278428-dakar-desert-rally-snowrunner-cars-pack.json](./278428-dakar-desert-rally-snowrunner-cars-pack.json) |
 | Dakar Moto | 123057 | [123057-dakar-moto.json](./123057-dakar-moto.json) |
 | Dakar Series: Desafío Ruta 40 | 114792 | [114792-dakar-series-desafio-ruta-40.json](./114792-dakar-series-desafio-ruta-40.json) |
+| Dakini | 390365 | [390365-dakini.json](./390365-dakini.json) |
 | Dakkan Shirei Majo Dungeon: Nushi to Tamenara Yaraneba Narumai | 222513 | [222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json](./222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json) |
 | Dakkan Stiletto | 376683 | [376683-dakkan-stiletto.json](./376683-dakkan-stiletto.json) |
 | Dakko-chan House | 65234 | [65234-dakko-chan-house.json](./65234-dakko-chan-house.json) |
@@ -2029,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Hunters | 115409 | [115409-darkest-hunters.json](./115409-darkest-hunters.json) |
 | Darkest Light | 294127 | [294127-darkest-light.json](./294127-darkest-light.json) |
 | Darkest Maze | 99224 | [99224-darkest-maze.json](./99224-darkest-maze.json) |
+| Darkest Messia | 390334 | [390334-darkest-messia.json](./390334-darkest-messia.json) |
 | Darkest Mine | 316967 | [316967-darkest-mine.json](./316967-darkest-mine.json) |
 | Darkest Moon | 132001 | [132001-darkest-moon.json](./132001-darkest-moon.json) |
 | Darkest of Days | 4219 | [4219-darkest-of-days.json](./4219-darkest-of-days.json) |
@@ -11123,6 +11125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DogeRift | 227965 | [227965-dogerift.json](./227965-dogerift.json) |
 | Dogfight | 147831 | [147831-dogfight.json](./147831-dogfight.json) |
 | Dogfight 2187 | 13599 | [13599-dogfight-2187.json](./13599-dogfight-2187.json) |
+| Dogfight Darlings | 390322 | [390322-dogfight-darlings.json](./390322-dogfight-darlings.json) |
 | Dogfight Elite | 32539 | [32539-dogfight-elite.json](./32539-dogfight-elite.json) |
 | DogFight Simulator | 52922 | [52922-dogfight-simulator.json](./52922-dogfight-simulator.json) |
 | DogFight Time | 195439 | [195439-dogfight-time.json](./195439-dogfight-time.json) |
@@ -11846,6 +11849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Panic | 13603 | [13603-dont-panic.json](./13603-dont-panic.json) |
 | Don't Panic | 273500 | [273500-dont-panic.json](./273500-dont-panic.json) |
 | Don't Panic Together | 389527 | [389527-dont-panic-together.json](./389527-dont-panic-together.json) |
+| Don't Panic! It Is Just Turbulence | 390331 | [390331-dont-panic-it-is-just-turbulence.json](./390331-dont-panic-it-is-just-turbulence.json) |
 | Don't Pause Game! | 389988 | [389988-dont-pause-game.json](./389988-dont-pause-game.json) |
 | Don't Pee | 285411 | [285411-dont-pee.json](./285411-dont-pee.json) |
 | Don't Pee in the Tub | 78565 | [78565-dont-pee-in-the-tub.json](./78565-dont-pee-in-the-tub.json) |
@@ -12821,6 +12825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dork's Dreams | 73442 | [73442-dorks-dreams.json](./73442-dorks-dreams.json) |
 | Dorke and Ymp | 32601 | [32601-dorke-and-ymp.json](./32601-dorke-and-ymp.json) |
 | Dorkom | 407600 | [407600-dorkom.json](./407600-dorkom.json) |
+| Dorkomon | 390355 | [390355-dorkomon.json](./390355-dorkomon.json) |
 | Dorky Fork | 130209 | [130209-dorky-fork.json](./130209-dorky-fork.json) |
 | Dorm Days | 223236 | [223236-dorm-days.json](./223236-dorm-days.json) |
 | Dorm Janitor's Revenge | 391946 | [391946-dorm-janitors-revenge.json](./391946-dorm-janitors-revenge.json) |
