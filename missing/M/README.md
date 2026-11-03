@@ -3620,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
 | Mario Golf: World Tour - Mushroom Pack | 309116 | [309116-mario-golf-world-tour-mushroom-pack.json](./309116-mario-golf-world-tour-mushroom-pack.json) |
 | Mario Golf: World Tour - Star Pack | 309118 | [309118-mario-golf-world-tour-star-pack.json](./309118-mario-golf-world-tour-star-pack.json) |
+| Mario Hates 2025 | 368168 | [368168-mario-hates-2025.json](./368168-mario-hates-2025.json) |
 | Mario Heardle | 203820 | [203820-mario-heardle.json](./203820-mario-heardle.json) |
 | Mario Heardle 2 | 203821 | [203821-mario-heardle-2.json](./203821-mario-heardle-2.json) |
 | Mario Hoops 3-on-3 | 3988 | [3988-mario-hoops-3-on-3.json](./3988-mario-hoops-3-on-3.json) |
@@ -5643,7 +5644,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8364,6 +8364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Girl + | 327909 | [327909-memory-girl.json](./327909-memory-girl.json) |
 | Memory Grove | 189195 | [189195-memory-grove.json](./189195-memory-grove.json) |
 | Memory Holder: Animal Kingdom | 325397 | [325397-memory-holder-animal-kingdom.json](./325397-memory-holder-animal-kingdom.json) |
+| Memory Holder: Scent of Life | 368180 | [368180-memory-holder-scent-of-life.json](./368180-memory-holder-scent-of-life.json) |
 | Memory Holder: The Alphabet | 347037 | [347037-memory-holder-the-alphabet.json](./347037-memory-holder-the-alphabet.json) |
 | Memory Holders: The Colors II | 392171 | [392171-memory-holders-the-colors-ii.json](./392171-memory-holders-the-colors-ii.json) |
 | Memory I | 68610 | [68610-memory-i.json](./68610-memory-i.json) |
@@ -14046,6 +14047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mokomon: Five Elements | 415152 | [415152-mokomon-five-elements.json](./415152-mokomon-five-elements.json) |
 | Moksha | 224702 | [224702-moksha.json](./224702-moksha.json) |
 | Moksha | 402528 | [402528-moksha.json](./402528-moksha.json) |
+| Mola Mola | 368198 | [368198-mola-mola.json](./368198-mola-mola.json) |
 | MolaMola Adventure | 333039 | [333039-molamola-adventure.json](./333039-molamola-adventure.json) |
 | Molang: A Happy Day | 101010 | [101010-molang-a-happy-day.json](./101010-molang-a-happy-day.json) |
 | Molar Maul | 212124 | [212124-molar-maul.json](./212124-molar-maul.json) |
