@@ -5743,6 +5743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Drift | 128222 | [128222-retro-drift.json](./128222-retro-drift.json) |
 | Retro Drive | 220686 | [220686-retro-drive.json](./220686-retro-drive.json) |
 | Retro Drive: Revamped | 318289 | [318289-retro-drive-revamped.json](./318289-retro-drive-revamped.json) |
+| Retro Dungeons | 377309 | [377309-retro-dungeons.json](./377309-retro-dungeons.json) |
 | Retro Dungeons | 65812 | [65812-retro-dungeons.json](./65812-retro-dungeons.json) |
 | Retro Dust | 175375 | [175375-retro-dust.json](./175375-retro-dust.json) |
 | Retro Fears | 357200 | [357200-retro-fears.json](./357200-retro-fears.json) |
@@ -10130,6 +10131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance Detective 2 | 146524 | [146524-romance-detective-2.json](./146524-romance-detective-2.json) |
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
 | Romance is Dead | 273098 | [273098-romance-is-dead.json](./273098-romance-is-dead.json) |
+| Romance is Dead | 377326 | [377326-romance-is-dead.json](./377326-romance-is-dead.json) |
 | Romance MD: Always on Call | 239207 | [239207-romance-md-always-on-call.json](./239207-romance-md-always-on-call.json) |
 | Romance of a Demon Kingdom's Fall | 262782 | [262782-romance-of-a-demon-kingdoms-fall.json](./262782-romance-of-a-demon-kingdoms-fall.json) |
 | Romance of Bousouzoku | 298515 | [298515-romance-of-bousouzoku.json](./298515-romance-of-bousouzoku.json) |
@@ -12009,6 +12011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runewaker | 186803 | [186803-runewaker.json](./186803-runewaker.json) |
 | Runeward Online | 404033 | [404033-runeward-online.json](./404033-runeward-online.json) |
 | Runewatch: Age of Arcanum | 208464 | [208464-runewatch-age-of-arcanum.json](./208464-runewatch-age-of-arcanum.json) |
+| Runewood: Hundred Nights | 377016 | [377016-runewood-hundred-nights.json](./377016-runewood-hundred-nights.json) |
 | Runeyana | 32935 | [32935-runeyana.json](./32935-runeyana.json) |
 | Runflexio | 133144 | [133144-runflexio.json](./133144-runflexio.json) |
 | Runflexio: Exhibition Version | 183330 | [183330-runflexio-exhibition-version.json](./183330-runflexio-exhibition-version.json) |
