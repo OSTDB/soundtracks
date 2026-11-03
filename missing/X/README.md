@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenophage: Alien BloodSport | 47105 | [47105-xenophage-alien-bloodsport.json](./47105-xenophage-alien-bloodsport.json) |
 | Xenophobe | 12245 | [12245-xenophobe.json](./12245-xenophobe.json) |
 | Xenophobe | 290276 | [290276-xenophobe.json](./290276-xenophobe.json) |
+| Xenophon | 397484 | [397484-xenophon.json](./397484-xenophon.json) |
 | Xenopods | 79492 | [79492-xenopods.json](./79492-xenopods.json) |
 | Xenopurge | 345292 | [345292-xenopurge.json](./345292-xenopurge.json) |
 | Xenoraid | 24028 | [24028-xenoraid.json](./24028-xenoraid.json) |
