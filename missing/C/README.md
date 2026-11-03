@@ -2622,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmageddon: Max Damage | 18075 | [18075-carmageddon-max-damage.json](./18075-carmageddon-max-damage.json) |
 | Carmageddon: Splat Pack | 2403 | [2403-carmageddon-splat-pack.json](./2403-carmageddon-splat-pack.json) |
 | Carmageddon: TDR 2000 | 246896 | [246896-carmageddon-tdr-2000.json](./246896-carmageddon-tdr-2000.json) |
+| Carmagist | 380369 | [380369-carmagist.json](./380369-carmagist.json) |
 | CarMarket | 412224 | [412224-carmarket.json](./412224-carmarket.json) |
 | Carmen Sandiego | 316681 | [316681-carmen-sandiego.json](./316681-carmen-sandiego.json) |
 | Carmen Sandiego Adventures in Math: The Big Ben Burglary | 51078 | [51078-carmen-sandiego-adventures-in-math-the-big-ben-burglary.json](./51078-carmen-sandiego-adventures-in-math-the-big-ben-burglary.json) |
@@ -10321,6 +10322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutter Puzzle Magazine Vol. 15 No. 1: Collector's Edition | 281999 | [281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json](./281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json) |
 | Clutter Puzzle Magazine: Vol. 16 No. 2 - Collector's Edition | 298695 | [298695-clutter-puzzle-magazine-vol-16-no-2-collectors-edition.json](./298695-clutter-puzzle-magazine-vol-16-no-2-collectors-edition.json) |
 | Clutter RefleXIVe: The Diceman Cometh - Collector's Edition | 250755 | [250755-clutter-reflexive-the-diceman-cometh-collectors-edition.json](./250755-clutter-reflexive-the-diceman-cometh-collectors-edition.json) |
+| Clutter V: Welcome To Clutterville | 380362 | [380362-clutter-v-welcome-to-clutterville.json](./380362-clutter-v-welcome-to-clutterville.json) |
 | Clutter VI: Leigh's Story | 74483 | [74483-clutter-vi-leighs-story.json](./74483-clutter-vi-leighs-story.json) |
 | Clutter's Greatest Hits: Collector's Edition | 219739 | [219739-clutters-greatest-hits-collectors-edition.json](./219739-clutters-greatest-hits-collectors-edition.json) |
 | Clyde's Adventure | 47008 | [47008-clydes-adventure.json](./47008-clydes-adventure.json) |
