@@ -4292,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against The Tide | 269994 | [269994-against-the-tide.json](./269994-against-the-tide.json) |
 | Against the Wall | 63004 | [63004-against-the-wall.json](./63004-against-the-wall.json) |
 | Against the Will of a Chainsaw | 207132 | [207132-against-the-will-of-a-chainsaw.json](./207132-against-the-will-of-a-chainsaw.json) |
+| Against Tribulation | 360300 | [360300-against-tribulation.json](./360300-against-tribulation.json) |
 | Against Twilight | 349927 | [349927-against-twilight.json](./349927-against-twilight.json) |
 | Against War: Medieval | 250410 | [250410-against-war-medieval.json](./250410-against-war-medieval.json) |
 | Against Wokou Frontline | 389992 | [389992-against-wokou-frontline.json](./389992-against-wokou-frontline.json) |
@@ -15884,7 +15885,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
