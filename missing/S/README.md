@@ -3983,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealed | 306661 | [306661-sealed.json](./306661-sealed.json) |
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
 | Sealed Fortress | 403228 | [403228-sealed-fortress.json](./403228-sealed-fortress.json) |
+| Sealed In | 372952 | [372952-sealed-in.json](./372952-sealed-in.json) |
 | Sealed in Wax | 285957 | [285957-sealed-in-wax.json](./285957-sealed-in-wax.json) |
 | Sealed With a Dragon’s Kiss | 298988 | [298988-sealed-with-a-dragon-s-kiss.json](./298988-sealed-with-a-dragon-s-kiss.json) |
 | Sealer Assist | 103954 | [103954-sealer-assist.json](./103954-sealer-assist.json) |
@@ -12584,6 +12585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sled Riders | 301003 | [301003-sled-riders.json](./301003-sled-riders.json) |
 | Sled Storm | 81484 | [81484-sled-storm.json](./81484-sled-storm.json) |
 | Sled Storm | 8264 | [8264-sled-storm.json](./8264-sled-storm.json) |
+| Sled Together | 372940 | [372940-sled-together.json](./372940-sled-together.json) |
 | Sledding Game | 327758 | [327758-sledding-game.json](./327758-sledding-game.json) |
 | Sledge 3D | 44303 | [44303-sledge-3d.json](./44303-sledge-3d.json) |
 | Sleembo | 262490 | [262490-sleembo.json](./262490-sleembo.json) |
@@ -22348,6 +22350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SquishCraft | 209339 | [209339-squishcraft.json](./209339-squishcraft.json) |
 | Squishies | 111451 | [111451-squishies.json](./111451-squishies.json) |
 | Squishmallows FIFA World Cup Happy Meal | 406244 | [406244-squishmallows-fifa-world-cup-happy-meal.json](./406244-squishmallows-fifa-world-cup-happy-meal.json) |
+| Squishy Bird | 373241 | [373241-squishy-bird.json](./373241-squishy-bird.json) |
 | Squishy League | 407883 | [407883-squishy-league.json](./407883-squishy-league.json) |
 | Squishy Tank | 68088 | [68088-squishy-tank.json](./68088-squishy-tank.json) |
 | Squishy the Suicidal Pig | 9874 | [9874-squishy-the-suicidal-pig.json](./9874-squishy-the-suicidal-pig.json) |
