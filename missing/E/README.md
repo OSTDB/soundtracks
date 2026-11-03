@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronics Puzzle Lab 1 & 2 Collection | 378830 | [378830-electronics-puzzle-lab-1-and-2-collection.json](./378830-electronics-puzzle-lab-1-and-2-collection.json) |
 | Electronics Puzzle Lab 2 | 362342 | [362342-electronics-puzzle-lab-2.json](./362342-electronics-puzzle-lab-2.json) |
 | Electronics Shop Simulator | 392100 | [392100-electronics-shop-simulator.json](./392100-electronics-shop-simulator.json) |
+| Electronics Store Simulator | 372961 | [372961-electronics-store-simulator.json](./372961-electronics-store-simulator.json) |
 | Electronics Supermarket Simulator | 326445 | [326445-electronics-supermarket-simulator.json](./326445-electronics-supermarket-simulator.json) |
 | Electroplankton | 18340 | [18340-electroplankton.json](./18340-electroplankton.json) |
 | Electroplankton Beatnes | 85105 | [85105-electroplankton-beatnes.json](./85105-electroplankton-beatnes.json) |
@@ -4239,6 +4240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Citadel | 91847 | [91847-epic-citadel.json](./91847-epic-citadel.json) |
 | Epic City Builder 4 | 142194 | [142194-epic-city-builder-4.json](./142194-epic-city-builder-4.json) |
 | Epic Clicker Journey | 34134 | [34134-epic-clicker-journey.json](./34134-epic-clicker-journey.json) |
+| Epic Clickers | 373230 | [373230-epic-clickers.json](./373230-epic-clickers.json) |
 | Epic Combo Redux | 387903 | [387903-epic-combo-redux.json](./387903-epic-combo-redux.json) |
 | Epic Combo! | 387904 | [387904-epic-combo.json](./387904-epic-combo.json) |
 | Epic Conquest | 129606 | [129606-epic-conquest.json](./129606-epic-conquest.json) |
