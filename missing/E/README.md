@@ -1755,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eko And The Bewitched Lands | 292963 | [292963-eko-and-the-bewitched-lands.json](./292963-eko-and-the-bewitched-lands.json) |
 | Eko Eko Azarak: Wizard of Darkness | 376543 | [376543-eko-eko-azarak-wizard-of-darkness.json](./376543-eko-eko-azarak-wizard-of-darkness.json) |
 | Ekoh Beach | 189109 | [189109-ekoh-beach.json](./189109-ekoh-beach.json) |
+| Ekoman | 384487 | [384487-ekoman.json](./384487-ekoman.json) |
 | Ekonomi Bakani Simulator | 183891 | [183891-ekonomi-bakani-simulator.json](./183891-ekonomi-bakani-simulator.json) |
 | Ekorella Vol 1 | 199926 | [199926-ekorella-vol-1.json](./199926-ekorella-vol-1.json) |
 | Ekphrasis | 339730 | [339730-ekphrasis.json](./339730-ekphrasis.json) |
@@ -5420,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eschaton | 199310 | [199310-eschaton.json](./199310-eschaton.json) |
 | Eschaton: Battle for Eternity | 385298 | [385298-eschaton-battle-for-eternity.json](./385298-eschaton-battle-for-eternity.json) |
 | Escherion | 155502 | [155502-escherion.json](./155502-escherion.json) |
+| Escoba | 384552 | [384552-escoba.json](./384552-escoba.json) |
 | Escoba Broom Cards Game | 331690 | [331690-escoba-broom-cards-game.json](./331690-escoba-broom-cards-game.json) |
 | Escom CD ROM Edition | 112656 | [112656-escom-cd-rom-edition.json](./112656-escom-cd-rom-edition.json) |
 | Escort Alia | 241363 | [241363-escort-alia.json](./241363-escort-alia.json) |
