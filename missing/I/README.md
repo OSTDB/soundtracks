@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Only Sleeping | 71001 | [71001-im-only-sleeping.json](./71001-im-only-sleeping.json) |
 | I'm Pregnant at 16 | 336639 | [336639-im-pregnant-at-16.json](./336639-im-pregnant-at-16.json) |
 | I'm Prop | 205925 | [205925-im-prop.json](./205925-im-prop.json) |
+| I'm Ready for Kindergarten: Huggly's Sleepover | 398121 | [398121-im-ready-for-kindergarten-hugglys-sleepover.json](./398121-im-ready-for-kindergarten-hugglys-sleepover.json) |
 | I'm Scared of Girls | 139697 | [139697-im-scared-of-girls.json](./139697-im-scared-of-girls.json) |
 | I'm Scared of My Girlfriend | 247580 | [247580-im-scared-of-my-girlfriend.json](./247580-im-scared-of-my-girlfriend.json) |
 | I'm Sorry | 40053 | [40053-im-sorry.json](./40053-im-sorry.json) |
@@ -875,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus Proudbottom's World of Typing Weekly! | 61865 | [61865-icarus-proudbottoms-world-of-typing-weekly.json](./61865-icarus-proudbottoms-world-of-typing-weekly.json) |
 | Icarus Six Sixty Six | 81119 | [81119-icarus-six-sixty-six.json](./81119-icarus-six-sixty-six.json) |
 | Icarus Starship Command Simulator | 28799 | [28799-icarus-starship-command-simulator.json](./28799-icarus-starship-command-simulator.json) |
+| Icarus-Bolt | 398113 | [398113-icarus-bolt.json](./398113-icarus-bolt.json) |
 | Icarus-X | 341074 | [341074-icarus-x.json](./341074-icarus-x.json) |
 | Icarus-X: Tides of Fire | 35112 | [35112-icarus-x-tides-of-fire.json](./35112-icarus-x-tides-of-fire.json) |
 | Icarus: Alien Vanguard | 140513 | [140513-icarus-alien-vanguard.json](./140513-icarus-alien-vanguard.json) |
