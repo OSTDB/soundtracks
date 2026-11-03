@@ -1588,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Pet Island | 322174 | [322174-happy-pet-island.json](./322174-happy-pet-island.json) |
 | Happy Pets | 200631 | [200631-happy-pets.json](./200631-happy-pets.json) |
 | Happy picture | 114242 | [114242-happy-picture.json](./114242-happy-picture.json) |
+| Happy Piggy 2 | 370062 | [370062-happy-piggy-2.json](./370062-happy-piggy-2.json) |
 | Happy Pinball | 373116 | [373116-happy-pinball.json](./373116-happy-pinball.json) |
 | Happy Place Remake | 264734 | [264734-happy-place-remake.json](./264734-happy-place-remake.json) |
 | Happy Pong | 352380 | [352380-happy-pong.json](./352380-happy-pong.json) |
@@ -1861,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardfest | 261136 | [261136-hardfest.json](./261136-hardfest.json) |
 | Hardfest 2 | 280906 | [280906-hardfest-2.json](./280906-hardfest-2.json) |
 | Hardhat Wombat | 244511 | [244511-hardhat-wombat.json](./244511-hardhat-wombat.json) |
+| Hardkill System | 370926 | [370926-hardkill-system.json](./370926-hardkill-system.json) |
 | Hardland | 9549 | [9549-hardland.json](./9549-hardland.json) |
 | HardLander | 95327 | [95327-hardlander.json](./95327-hardlander.json) |
 | Hardlight | 138829 | [138829-hardlight.json](./138829-hardlight.json) |
@@ -4682,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Dojo | 107111 | [107111-hentai-dojo.json](./107111-hentai-dojo.json) |
 | Hentai Dream | 208371 | [208371-hentai-dream.json](./208371-hentai-dream.json) |
 | Hentai Elf | 296686 | [296686-hentai-elf.json](./296686-hentai-elf.json) |
+| Hentai Elf | 370973 | [370973-hentai-elf.json](./370973-hentai-elf.json) |
 | Hentai Elizabeth | 340432 | [340432-hentai-elizabeth.json](./340432-hentai-elizabeth.json) |
 | Hentai Emiko | 340433 | [340433-hentai-emiko.json](./340433-hentai-emiko.json) |
 | Hentai Energy | 177680 | [177680-hentai-energy.json](./177680-hentai-energy.json) |
@@ -4759,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
 | Hentai Girls Sliding Puzzle | 286411 | [286411-hentai-girls-sliding-puzzle.json](./286411-hentai-girls-sliding-puzzle.json) |
 | Hentai Girls Special Edition | 263557 | [263557-hentai-girls-special-edition.json](./263557-hentai-girls-special-edition.json) |
+| Hentai Girls Stories | 370950 | [370950-hentai-girls-stories.json](./370950-hentai-girls-stories.json) |
 | Hentai Girls Succubus | 344302 | [344302-hentai-girls-succubus.json](./344302-hentai-girls-succubus.json) |
 | Hentai Girls: Adorable Angel | 328522 | [328522-hentai-girls-adorable-angel.json](./328522-hentai-girls-adorable-angel.json) |
 | Hentai Girls: Adventure Clicker | 259611 | [259611-hentai-girls-adventure-clicker.json](./259611-hentai-girls-adventure-clicker.json) |
