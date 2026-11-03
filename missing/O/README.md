@@ -4147,6 +4147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osaka Kowloonjo | 394451 | [394451-osaka-kowloonjo.json](./394451-osaka-kowloonjo.json) |
 | Osaka's Dream | 325667 | [325667-osakas-dream.json](./325667-osakas-dream.json) |
 | Osakabe | 159144 | [159144-osakabe.json](./159144-osakabe.json) |
+| Osananajimi no Iru Kurashi | 396954 | [396954-osananajimi-no-iru-kurashi.json](./396954-osananajimi-no-iru-kurashi.json) |
 | Osananajimi no Onee-chan wa Senzoku Maid!: Natsuyasumi Dousei Seikatsu | 280643 | [280643-osananajimi-no-onee-chan-wa-senzoku-maid-natsuyasumi-dousei-seikatsu.json](./280643-osananajimi-no-onee-chan-wa-senzoku-maid-natsuyasumi-dousei-seikatsu.json) |
 | Osananajimi Ojou-sama to H de Himitsu na Dousei Seikatsu | 396903 | [396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json](./396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json) |
 | Osawari Hockey Enko-chan | 235769 | [235769-osawari-hockey-enko-chan.json](./235769-osawari-hockey-enko-chan.json) |
@@ -4928,6 +4929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outdoors Unlimited | 137088 | [137088-outdoors-unlimited.json](./137088-outdoors-unlimited.json) |
 | OutDrive | 18077 | [18077-outdrive.json](./18077-outdrive.json) |
 | Outer | 175597 | [175597-outer.json](./175597-outer.json) |
+| Outer Banks | 396984 | [396984-outer-banks.json](./396984-outer-banks.json) |
 | Outer Base | 259394 | [259394-outer-base.json](./259394-outer-base.json) |
 | Outer Colony | 247565 | [247565-outer-colony.json](./247565-outer-colony.json) |
 | Outer Darkness | 212963 | [212963-outer-darkness.json](./212963-outer-darkness.json) |
