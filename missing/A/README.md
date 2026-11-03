@@ -8240,6 +8240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Oklahoma | 228046 | [228046-american-truck-simulator-oklahoma.json](./228046-american-truck-simulator-oklahoma.json) |
 | American Truck Simulator: Oregon | 115773 | [115773-american-truck-simulator-oregon.json](./115773-american-truck-simulator-oregon.json) |
 | American Truck Simulator: Pink Ribbon Charity Pack | 353398 | [353398-american-truck-simulator-pink-ribbon-charity-pack.json](./353398-american-truck-simulator-pink-ribbon-charity-pack.json) |
+| American Truck Simulator: RAM & Dodge Car Pack | 362153 | [362153-american-truck-simulator-ram-and-dodge-car-pack.json](./362153-american-truck-simulator-ram-and-dodge-car-pack.json) |
 | American Truck Simulator: Retrowave Paint Jobs Pack | 353405 | [353405-american-truck-simulator-retrowave-paint-jobs-pack.json](./353405-american-truck-simulator-retrowave-paint-jobs-pack.json) |
 | American Truck Simulator: South Dakota | 347862 | [347862-american-truck-simulator-south-dakota.json](./347862-american-truck-simulator-south-dakota.json) |
 | American Truck Simulator: Space Paint Jobs Pack | 353400 | [353400-american-truck-simulator-space-paint-jobs-pack.json](./353400-american-truck-simulator-space-paint-jobs-pack.json) |
@@ -15893,6 +15894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis | 64734 | [64734-atlantis.json](./64734-atlantis.json) |
 | Atlantis 2: Beyond Atlantis | 11094 | [11094-atlantis-2-beyond-atlantis.json](./11094-atlantis-2-beyond-atlantis.json) |
 | Atlantis Academy | 245813 | [245813-atlantis-academy.json](./245813-atlantis-academy.json) |
+| Atlantis Adventures | 361992 | [361992-atlantis-adventures.json](./361992-atlantis-adventures.json) |
 | Atlantis Fantasy: Reborn | 403610 | [403610-atlantis-fantasy-reborn.json](./403610-atlantis-fantasy-reborn.json) |
 | Atlantis II | 40779 | [40779-atlantis-ii.json](./40779-atlantis-ii.json) |
 | Atlantis III: The New World | 11095 | [11095-atlantis-iii-the-new-world.json](./11095-atlantis-iii-the-new-world.json) |
