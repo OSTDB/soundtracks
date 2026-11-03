@@ -11363,6 +11363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMX Challenge | 220189 | [220189-bmx-challenge.json](./220189-bmx-challenge.json) |
 | BMX Champions Cartoon Network | 232329 | [232329-bmx-champions-cartoon-network.json](./232329-bmx-champions-cartoon-network.json) |
 | BMX City Run | 345464 | [345464-bmx-city-run.json](./345464-bmx-city-run.json) |
+| BMX Flyer | 362555 | [362555-bmx-flyer.json](./362555-bmx-flyer.json) |
 | BMX for Life | 331375 | [331375-bmx-for-life.json](./331375-bmx-for-life.json) |
 | BMX Freestyle | 13411 | [13411-bmx-freestyle.json](./13411-bmx-freestyle.json) |
 | BMX Freestyle | 323850 | [323850-bmx-freestyle.json](./323850-bmx-freestyle.json) |
