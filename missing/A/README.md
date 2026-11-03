@@ -3275,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advent Neon | 139128 | [139128-advent-neon.json](./139128-advent-neon.json) |
 | Advent of Ascension | 232626 | [232626-advent-of-ascension.json](./232626-advent-of-ascension.json) |
 | Advent of God: Legends | 304168 | [304168-advent-of-god-legends.json](./304168-advent-of-god-legends.json) |
+| Advent of the Reaper | 379485 | [379485-advent-of-the-reaper.json](./379485-advent-of-the-reaper.json) |
 | Advent Rising | 5716 | [5716-advent-rising.json](./5716-advent-rising.json) |
 | Advent Shadow | 92698 | [92698-advent-shadow.json](./92698-advent-shadow.json) |
 | Advent: Dawn | 354477 | [354477-advent-dawn.json](./354477-advent-dawn.json) |
@@ -3357,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Forever | 207615 | [207615-adventure-forever.json](./207615-adventure-forever.json) |
 | Adventure Galaxy | 126585 | [126585-adventure-galaxy.json](./126585-adventure-galaxy.json) |
 | Adventure Game | 86332 | [86332-adventure-game.json](./86332-adventure-game.json) |
+| Adventure Guild Receptionist | 379484 | [379484-adventure-guild-receptionist.json](./379484-adventure-guild-receptionist.json) |
 | Adventure Hall of Fame | 70169 | [70169-adventure-hall-of-fame.json](./70169-adventure-hall-of-fame.json) |
 | Adventure Hero | 105310 | [105310-adventure-hero.json](./105310-adventure-hero.json) |
 | Adventure II | 284228 | [284228-adventure-ii.json](./284228-adventure-ii.json) |
@@ -3382,6 +3384,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Island II | 6471 | [6471-adventure-island-ii.json](./6471-adventure-island-ii.json) |
 | Adventure Island II: Aliens in Paradise | 84885 | [84885-adventure-island-ii-aliens-in-paradise.json](./84885-adventure-island-ii-aliens-in-paradise.json) |
 | Adventure Island: The Beginning | 50697 | [50697-adventure-island-the-beginning.json](./50697-adventure-island-the-beginning.json) |
+| Adventure Jam | 379483 | [379483-adventure-jam.json](./379483-adventure-jam.json) |
+| Adventure Jampilation | 379482 | [379482-adventure-jampilation.json](./379482-adventure-jampilation.json) |
 | Adventure Joystick | 214687 | [214687-adventure-joystick.json](./214687-adventure-joystick.json) |
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
 | Adventure Kitty: Drill Buster - Lights Out | 316028 | [316028-adventure-kitty-drill-buster-lights-out.json](./316028-adventure-kitty-drill-buster-lights-out.json) |
@@ -3454,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Roll | 186101 | [186101-adventure-roll.json](./186101-adventure-roll.json) |
 | Adventure Rush | 192674 | [192674-adventure-rush.json](./192674-adventure-rush.json) |
 | Adventure Seekers: Lost to Sea | 416495 | [416495-adventure-seekers-lost-to-sea.json](./416495-adventure-seekers-lost-to-sea.json) |
+| Adventure Seekers: Lost to Sea - Collector's Edition | 379486 | [379486-adventure-seekers-lost-to-sea-collectors-edition.json](./379486-adventure-seekers-lost-to-sea-collectors-edition.json) |
 | Adventure Series | 80367 | [80367-adventure-series.json](./80367-adventure-series.json) |
 | Adventure Sketchers: Draw, Play, Create | 230338 | [230338-adventure-sketchers-draw-play-create.json](./230338-adventure-sketchers-draw-play-create.json) |
 | Adventure Slime | 122073 | [122073-adventure-slime.json](./122073-adventure-slime.json) |
@@ -3563,6 +3568,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Ben: Rabbit Run | 248002 | [248002-adventures-of-ben-rabbit-run.json](./248002-adventures-of-ben-rabbit-run.json) |
 | Adventures of Brave Bob | 100364 | [100364-adventures-of-brave-bob.json](./100364-adventures-of-brave-bob.json) |
 | Adventures of Bruce | 141228 | [141228-adventures-of-bruce.json](./141228-adventures-of-bruce.json) |
+| Adventures of Caine McDowell: The Porkian Encounter | 379491 | [379491-adventures-of-caine-mcdowell-the-porkian-encounter.json](./379491-adventures-of-caine-mcdowell-the-porkian-encounter.json) |
+| Adventures of Carson: Fractured Continuum | 379490 | [379490-adventures-of-carson-fractured-continuum.json](./379490-adventures-of-carson-fractured-continuum.json) |
 | Adventures of DaKoo the Dragon | 214026 | [214026-adventures-of-dakoo-the-dragon.json](./214026-adventures-of-dakoo-the-dragon.json) |
 | Adventures of Deliveryman | 267481 | [267481-adventures-of-deliveryman.json](./267481-adventures-of-deliveryman.json) |
 | Adventures of Dino Riki | 8741 | [8741-adventures-of-dino-riki.json](./8741-adventures-of-dino-riki.json) |
@@ -3690,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon's End: The New Age | 193138 | [193138-aeons-end-the-new-age.json](./193138-aeons-end-the-new-age.json) |
 | Aeonfall | 415912 | [415912-aeonfall.json](./415912-aeonfall.json) |
 | Aeonic | 330486 | [330486-aeonic.json](./330486-aeonic.json) |
+| Aeons of Rebirth | 379489 | [379489-aeons-of-rebirth.json](./379489-aeons-of-rebirth.json) |
 | Aeons Past | 223482 | [223482-aeons-past.json](./223482-aeons-past.json) |
 | AeonX | 308321 | [308321-aeonx.json](./308321-aeonx.json) |
 | Aephemera | 355469 | [355469-aephemera.json](./355469-aephemera.json) |
@@ -3703,6 +3711,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Aces | 351162 | [351162-aerial-aces.json](./351162-aerial-aces.json) |
 | Aerial Antics | 73503 | [73503-aerial-antics.json](./73503-aerial-antics.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
+| Aerial Battle Frame: Vernion | 379488 | [379488-aerial-battle-frame-vernion.json](./379488-aerial-battle-frame-vernion.json) |
+| Aerial Camera Simulator | 379487 | [379487-aerial-camera-simulator.json](./379487-aerial-camera-simulator.json) |
 | Aerial Cleaner | 301680 | [301680-aerial-cleaner.json](./301680-aerial-cleaner.json) |
 | Aerial Destruction | 26123 | [26123-aerial-destruction.json](./26123-aerial-destruction.json) |
 | Aerial Guard | 321279 | [321279-aerial-guard.json](./321279-aerial-guard.json) |
@@ -3755,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero's Quest | 35321 | [35321-aeros-quest.json](./35321-aeros-quest.json) |
 | Aerobat | 18199 | [18199-aerobat.json](./18199-aerobat.json) |
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
+| Aerocorp | 379492 | [379492-aerocorp.json](./379492-aerocorp.json) |
 | Aerocraft | 134973 | [134973-aerocraft.json](./134973-aerocraft.json) |
 | Aerodangle | 266123 | [266123-aerodangle.json](./266123-aerodangle.json) |
 | AeroFighters Assault | 47677 | [47677-aerofighters-assault.json](./47677-aerofighters-assault.json) |
@@ -7371,6 +7382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabet ABC | 101189 | [101189-alphabet-abc.json](./101189-alphabet-abc.json) |
 | Alphabet Blocks | 66549 | [66549-alphabet-blocks.json](./66549-alphabet-blocks.json) |
 | Alphabet Express | 206656 | [206656-alphabet-express.json](./206656-alphabet-express.json) |
+| Alphabet Hero | 379600 | [379600-alphabet-hero.json](./379600-alphabet-hero.json) |
 | Alphabet Memory Match | 108476 | [108476-alphabet-memory-match.json](./108476-alphabet-memory-match.json) |
 | Alphabet Park Adventure | 100121 | [100121-alphabet-park-adventure.json](./100121-alphabet-park-adventure.json) |
 | Alphabet Solitaire Z | 89859 | [89859-alphabet-solitaire-z.json](./89859-alphabet-solitaire-z.json) |
@@ -14056,6 +14068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent: Rivals | 288339 | [288339-ascent-rivals.json](./288339-ascent-rivals.json) |
 | Ascention Suvivor | 364960 | [364960-ascention-suvivor.json](./364960-ascention-suvivor.json) |
 | Ascentroid | 137916 | [137916-ascentroid.json](./137916-ascentroid.json) |
+| ASCII Achievement Mania: Space Shooter | 379323 | [379323-ascii-achievement-mania-space-shooter.json](./379323-ascii-achievement-mania-space-shooter.json) |
 | ASCII and the Argonauts | 217764 | [217764-ascii-and-the-argonauts.json](./217764-ascii-and-the-argonauts.json) |
 | ASCII Attack | 35239 | [35239-ascii-attack.json](./35239-ascii-attack.json) |
 | ASCII Game Series: Beginning | 334774 | [334774-ascii-game-series-beginning.json](./334774-ascii-game-series-beginning.json) |
@@ -15781,7 +15794,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
