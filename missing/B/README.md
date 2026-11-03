@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel | 181597 | [181597-babel.json](./181597-babel.json) |
 | Babel | 198377 | [198377-babel.json](./198377-babel.json) |
 | Babel | 239161 | [239161-babel.json](./239161-babel.json) |
+| Babel | 378933 | [378933-babel.json](./378933-babel.json) |
 | Babel | 385394 | [385394-babel.json](./385394-babel.json) |
 | Babel | 78908 | [78908-babel.json](./78908-babel.json) |
 | Babel Climbers | 126837 | [126837-babel-climbers.json](./126837-babel-climbers.json) |
@@ -927,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6928,6 +6930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bible Master | 299818 | [299818-bible-master.json](./299818-bible-master.json) |
 | Bible Master 2: The Chaos of Aglia | 299819 | [299819-bible-master-2-the-chaos-of-aglia.json](./299819-bible-master-2-the-chaos-of-aglia.json) |
 | Bible Puzzle | 319723 | [319723-bible-puzzle.json](./319723-bible-puzzle.json) |
+| Bible Puzzle: Christian Game | 378748 | [378748-bible-puzzle-christian-game.json](./378748-bible-puzzle-christian-game.json) |
 | Bible Quiz: Trivia Game | 402227 | [402227-bible-quiz-trivia-game.json](./402227-bible-quiz-trivia-game.json) |
 | Bible Quizzer | 87142 | [87142-bible-quizzer.json](./87142-bible-quizzer.json) |
 | Bible Touchdown | 92614 | [92614-bible-touchdown.json](./92614-bible-touchdown.json) |
@@ -12428,6 +12431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book Recommendations | 207223 | [207223-book-recommendations.json](./207223-book-recommendations.json) |
 | Book Seeker | 121536 | [121536-book-seeker.json](./121536-book-seeker.json) |
 | Book Shooter | 348294 | [348294-book-shooter.json](./348294-book-shooter.json) |
+| Book Shop Simulator | 378749 | [378749-book-shop-simulator.json](./378749-book-shop-simulator.json) |
 | Book Smugglers | 291522 | [291522-book-smugglers.json](./291522-book-smugglers.json) |
 | Book Travelers II: A Royal Story - Collector's Edition | 362845 | [362845-book-travelers-ii-a-royal-story-collectors-edition.json](./362845-book-travelers-ii-a-royal-story-collectors-edition.json) |
 | Book Travelers III: A Gothic Story - Collector's Edition | 364516 | [364516-book-travelers-iii-a-gothic-story-collectors-edition.json](./364516-book-travelers-iii-a-gothic-story-collectors-edition.json) |
@@ -14469,6 +14473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Bunny | 117381 | [117381-breaking-bunny.json](./117381-breaking-bunny.json) |
 | Breaking Clay | 382733 | [382733-breaking-clay.json](./382733-breaking-clay.json) |
 | Breaking Clouds and Blooming Light | 227962 | [227962-breaking-clouds-and-blooming-light.json](./227962-breaking-clouds-and-blooming-light.json) |
+| Breaking Deck | 378736 | [378736-breaking-deck.json](./378736-breaking-deck.json) |
 | Breaking earth | 165688 | [165688-breaking-earth.json](./165688-breaking-earth.json) |
 | Breaking Enigma | 213630 | [213630-breaking-enigma.json](./213630-breaking-enigma.json) |
 | Breaking Game | 371276 | [371276-breaking-game.json](./371276-breaking-game.json) |
@@ -16413,6 +16418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Soul Infinite Burst | 5645 | [5645-bullet-soul-infinite-burst.json](./5645-bullet-soul-infinite-burst.json) |
 | Bullet Soul: Tama Tamashii | 43952 | [43952-bullet-soul-tama-tamashii.json](./43952-bullet-soul-tama-tamashii.json) |
 | Bullet Speed | 291227 | [291227-bullet-speed.json](./291227-bullet-speed.json) |
+| Bullet Strike | 378951 | [378951-bullet-strike.json](./378951-bullet-strike.json) |
 | Bullet Strike: Battlegrounds | 70910 | [70910-bullet-strike-battlegrounds.json](./70910-bullet-strike-battlegrounds.json) |
 | Bullet Strike: Sniper Battlegrounds | 106475 | [106475-bullet-strike-sniper-battlegrounds.json](./106475-bullet-strike-sniper-battlegrounds.json) |
 | Bullet Time | 158164 | [158164-bullet-time.json](./158164-bullet-time.json) |
