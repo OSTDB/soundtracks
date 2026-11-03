@@ -7222,6 +7222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chivalry 2: Steelbook Edition | 153644 | [153644-chivalry-2-steelbook-edition.json](./153644-chivalry-2-steelbook-edition.json) |
 | Chivalry is Not Dead | 377271 | [377271-chivalry-is-not-dead.json](./377271-chivalry-is-not-dead.json) |
 | Chivalry Quest: Sword and Flame | 416530 | [416530-chivalry-quest-sword-and-flame.json](./416530-chivalry-quest-sword-and-flame.json) |
+| Chivalry Quest: Sword and Flame - Collector's Edition | 361431 | [361431-chivalry-quest-sword-and-flame-collectors-edition.json](./361431-chivalry-quest-sword-and-flame-collectors-edition.json) |
 | Chivalry: Deadliest Warrior | 10083 | [10083-chivalry-deadliest-warrior.json](./10083-chivalry-deadliest-warrior.json) |
 | Chivalry: Medieval Warfare | 2358 | [2358-chivalry-medieval-warfare.json](./2358-chivalry-medieval-warfare.json) |
 | Chivalware | 403821 | [403821-chivalware.json](./403821-chivalware.json) |
@@ -9603,6 +9604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clergy Splode | 34400 | [34400-clergy-splode.json](./34400-clergy-splode.json) |
 | Clériga | 300674 | [300674-cleriga.json](./300674-cleriga.json) |
 | Clerk Hot Tale | 157397 | [157397-clerk-hot-tale.json](./157397-clerk-hot-tale.json) |
+| Clerks & Quirks | 361428 | [361428-clerks-and-quirks.json](./361428-clerks-and-quirks.json) |
 | Cleromancy | 199305 | [199305-cleromancy.json](./199305-cleromancy.json) |
 | Clessidra | 152694 | [152694-clessidra.json](./152694-clessidra.json) |
 | Cleveland 1968 | 319933 | [319933-cleveland-1968.json](./319933-cleveland-1968.json) |
@@ -18245,6 +18247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubex | 361575 | [361575-cubex.json](./361575-cubex.json) |
 | Cubey Quarry | 339352 | [339352-cubey-quarry.json](./339352-cubey-quarry.json) |
 | Cubey vs. the Universe | 244370 | [244370-cubey-vs-the-universe.json](./244370-cubey-vs-the-universe.json) |
+| Cubey: Blockbyte | 361383 | [361383-cubey-blockbyte.json](./361383-cubey-blockbyte.json) |
 | Cubey: Hexfall | 379315 | [379315-cubey-hexfall.json](./379315-cubey-hexfall.json) |
 | CubeyCollect | 387741 | [387741-cubeycollect.json](./387741-cubeycollect.json) |
 | CubeZ | 17658 | [17658-cubez.json](./17658-cubez.json) |
