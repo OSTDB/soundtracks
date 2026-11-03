@@ -3387,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western FPS | 29245 | [29245-western-fps.json](./29245-western-fps.json) |
 | Western Front: The Liberation of Europe 1944-1945 | 70234 | [70234-western-front-the-liberation-of-europe-1944-1945.json](./70234-western-front-the-liberation-of-europe-1944-1945.json) |
 | Western Games | 36657 | [36657-western-games.json](./36657-western-games.json) |
+| Western Girls | 367092 | [367092-western-girls.json](./367092-western-girls.json) |
 | Western Gun Shop Simulator | 401140 | [401140-western-gun-shop-simulator.json](./401140-western-gun-shop-simulator.json) |
 | Western Guns: Episode 01 - Redemption | 28572 | [28572-western-guns-episode-01-redemption.json](./28572-western-guns-episode-01-redemption.json) |
 | Western Justice | 391777 | [391777-western-justice.json](./391777-western-justice.json) |
