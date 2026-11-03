@@ -5091,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildeck | 411419 | [411419-wildeck.json](./411419-wildeck.json) |
 | Wildekin | 362280 | [362280-wildekin.json](./362280-wildekin.json) |
 | Wildemist Isle | 129008 | [129008-wildemist-isle.json](./129008-wildemist-isle.json) |
+| Wilder World: Super Early Access | 377547 | [377547-wilder-world-super-early-access.json](./377547-wilder-world-super-early-access.json) |
 | Wilder: Bahadur's Story | 280806 | [280806-wilder-bahadurs-story.json](./280806-wilder-bahadurs-story.json) |
 | Wilderings: The Lost Spring | 361652 | [361652-wilderings-the-lost-spring.json](./361652-wilderings-the-lost-spring.json) |
 | WilderLands | 382219 | [382219-wilderlands.json](./382219-wilderlands.json) |
@@ -6631,6 +6632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Chapel Revisit | 268917 | [268917-wolf-chapel-revisit.json](./268917-wolf-chapel-revisit.json) |
 | Wolf Commando | 414138 | [414138-wolf-commando.json](./414138-wolf-commando.json) |
 | Wolf Evolution: Merge and Create Mutant Wild Dogs | 95891 | [95891-wolf-evolution-merge-and-create-mutant-wild-dogs.json](./95891-wolf-evolution-merge-and-create-mutant-wild-dogs.json) |
+| Wolf Fang: Kuhga 2001 | 377549 | [377549-wolf-fang-kuhga-2001.json](./377549-wolf-fang-kuhga-2001.json) |
 | Wolf Gang | 76507 | [76507-wolf-gang.json](./76507-wolf-gang.json) |
 | Wolf Girl With You | 140307 | [140307-wolf-girl-with-you.json](./140307-wolf-girl-with-you.json) |
 | Wolf Hero: Animals vs. Robots | 312541 | [312541-wolf-hero-animals-vs-robots.json](./312541-wolf-hero-animals-vs-robots.json) |
