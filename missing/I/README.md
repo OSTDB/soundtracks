@@ -2304,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Empire | 21688 | [21688-immortal-empire.json](./21688-immortal-empire.json) |
 | Immortal Faces | 412621 | [412621-immortal-faces.json](./412621-immortal-faces.json) |
 | Immortal Family | 369374 | [369374-immortal-family.json](./369374-immortal-family.json) |
+| Immortal Farmer: System’s Mandate | 374540 | [374540-immortal-farmer-system-s-mandate.json](./374540-immortal-farmer-system-s-mandate.json) |
 | Immortal Game | 235339 | [235339-immortal-game.json](./235339-immortal-game.json) |
 | Immortal Girl | 128005 | [128005-immortal-girl.json](./128005-immortal-girl.json) |
 | Immortal Hero | 158209 | [158209-immortal-hero.json](./158209-immortal-hero.json) |
