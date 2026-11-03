@@ -2012,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satisfrustration | 349404 | [349404-satisfrustration.json](./349404-satisfrustration.json) |
 | Satisgame | 257477 | [257477-satisgame.json](./257477-satisgame.json) |
 | Satiszone | 332420 | [332420-satiszone.json](./332420-satiszone.json) |
+| Sato & Hama | 393210 | [393210-sato-and-hama.json](./393210-sato-and-hama.json) |
 | Sato Killing Time Chat.exe | 395020 | [395020-sato-killing-time-chat-exe.json](./395020-sato-killing-time-chat-exe.json) |
 | Satogaeri | 192382 | [192382-satogaeri.json](./192382-satogaeri.json) |
 | Satolite | 271685 | [271685-satolite.json](./271685-satolite.json) |
@@ -4216,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Cats: Easter | 368538 | [368538-secret-cats-easter.json](./368538-secret-cats-easter.json) |
 | Secret Cats: Halloween | 320315 | [320315-secret-cats-halloween.json](./320315-secret-cats-halloween.json) |
 | Secret Cats: Haunted Mansion | 320317 | [320317-secret-cats-haunted-mansion.json](./320317-secret-cats-haunted-mansion.json) |
+| Secret Cats: Haunted Mansion | 393253 | [393253-secret-cats-haunted-mansion.json](./393253-secret-cats-haunted-mansion.json) |
 | Secret Cats: Ice Cream Day | 360648 | [360648-secret-cats-ice-cream-day.json](./360648-secret-cats-ice-cream-day.json) |
 | Secret Cats: Independence Day | 416133 | [416133-secret-cats-independence-day.json](./416133-secret-cats-independence-day.json) |
 | Secret Cats: Pirates | 306611 | [306611-secret-cats-pirates.json](./306611-secret-cats-pirates.json) |
@@ -4963,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Select Quiz | 386283 | [386283-select-quiz.json](./386283-select-quiz.json) |
 | Selection I & II | 265194 | [265194-selection-i-and-ii.json](./265194-selection-i-and-ii.json) |
 | Selection Process | 152595 | [152595-selection-process.json](./152595-selection-process.json) |
+| Selective Memory | 393233 | [393233-selective-memory.json](./393233-selective-memory.json) |
 | Selena's Charm 2: Enchanted Garden | 417511 | [417511-selenas-charm-2-enchanted-garden.json](./417511-selenas-charm-2-enchanted-garden.json) |
 | Selene | 337167 | [337167-selene.json](./337167-selene.json) |
 | Selene: Apoptosis | 139705 | [139705-selene-apoptosis.json](./139705-selene-apoptosis.json) |
@@ -8537,6 +8540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Out | 373501 | [373501-shoot-out.json](./373501-shoot-out.json) |
 | Shoot Out | 38561 | [38561-shoot-out.json](./38561-shoot-out.json) |
 | Shoot Paint | 334747 | [334747-shoot-paint.json](./334747-shoot-paint.json) |
+| Shoot Pro Wrestling 2 | 393218 | [393218-shoot-pro-wrestling-2.json](./393218-shoot-pro-wrestling-2.json) |
 | Shoot Pump Shoot | 128244 | [128244-shoot-pump-shoot.json](./128244-shoot-pump-shoot.json) |
 | Shoot Rock | 261403 | [261403-shoot-rock.json](./261403-shoot-rock.json) |
 | Shoot Run | 213353 | [213353-shoot-run.json](./213353-shoot-run.json) |
@@ -13140,6 +13144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot & Learn Katakana | 403732 | [403732-slot-and-learn-katakana.json](./403732-slot-and-learn-katakana.json) |
 | Slot Car HTR+ : 3D Simulation | 239896 | [239896-slot-car-htr-3d-simulation.json](./239896-slot-car-htr-3d-simulation.json) |
 | Slot Car Rivals | 230579 | [230579-slot-car-rivals.json](./230579-slot-car-rivals.json) |
+| Slot Cave | 393245 | [393245-slot-cave.json](./393245-slot-cave.json) |
 | Slot Fever | 289286 | [289286-slot-fever.json](./289286-slot-fever.json) |
 | Slot Grind | 407715 | [407715-slot-grind.json](./407715-slot-grind.json) |
 | Slot Gun | 311124 | [311124-slot-gun.json](./311124-slot-gun.json) |
@@ -25408,6 +25413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Friends | 184368 | [184368-sticky-friends.json](./184368-sticky-friends.json) |
 | Sticky Hands | 302244 | [302244-sticky-hands.json](./302244-sticky-hands.json) |
 | Sticky Keys | 178986 | [178986-sticky-keys.json](./178986-sticky-keys.json) |
+| Sticky Limey | 393225 | [393225-sticky-limey.json](./393225-sticky-limey.json) |
 | Sticky Linky | 53673 | [53673-sticky-linky.json](./53673-sticky-linky.json) |
 | Sticky Monsters | 147082 | [147082-sticky-monsters.json](./147082-sticky-monsters.json) |
 | Sticky Ninja Academy | 286647 | [286647-sticky-ninja-academy.json](./286647-sticky-ninja-academy.json) |
@@ -27755,6 +27761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Candy Witch | 246969 | [246969-sudoku-candy-witch.json](./246969-sudoku-candy-witch.json) |
 | Sudoku Casual Puzzle | 219280 | [219280-sudoku-casual-puzzle.json](./219280-sudoku-casual-puzzle.json) |
 | Sudoku Cats | 405615 | [405615-sudoku-cats.json](./405615-sudoku-cats.json) |
+| Sudoku Challenge Pro | 393224 | [393224-sudoku-challenge-pro.json](./393224-sudoku-challenge-pro.json) |
 | Sudoku Challenge! | 50698 | [50698-sudoku-challenge.json](./50698-sudoku-challenge.json) |
 | Sudoku Classic | 163175 | [163175-sudoku-classic.json](./163175-sudoku-classic.json) |
 | Sudoku Classic | 277713 | [277713-sudoku-classic.json](./277713-sudoku-classic.json) |
