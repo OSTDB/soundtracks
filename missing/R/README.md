@@ -2080,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratking | 271600 | [271600-ratking.json](./271600-ratking.json) |
 | Ratman! | 321612 | [321612-ratman.json](./321612-ratman.json) |
 | Ratocalypse | 381137 | [381137-ratocalypse.json](./381137-ratocalypse.json) |
+| Ratocalypse | 381543 | [381543-ratocalypse.json](./381543-ratocalypse.json) |
 | Ratomon | 151041 | [151041-ratomon.json](./151041-ratomon.json) |
 | Ratpad vs Everglide: Battle of the Pads | 24118 | [24118-ratpad-vs-everglide-battle-of-the-pads.json](./24118-ratpad-vs-everglide-battle-of-the-pads.json) |
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
