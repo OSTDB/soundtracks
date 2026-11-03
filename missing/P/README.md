@@ -12916,6 +12916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerful Wind, Slicked-back Hair, But It’s a Game | 393484 | [393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json](./393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json) |
 | Powerglove | 183459 | [183459-powerglove.json](./183459-powerglove.json) |
 | Powerglove Reloaded | 187883 | [187883-powerglove-reloaded.json](./187883-powerglove-reloaded.json) |
+| Powergolf | 389342 | [389342-powergolf.json](./389342-powergolf.json) |
 | PowerHits Movies | 79010 | [79010-powerhits-movies.json](./79010-powerhits-movies.json) |
 | PowerHits Sports | 85745 | [85745-powerhits-sports.json](./85745-powerhits-sports.json) |
 | PowerHits: BattleTech | 69864 | [69864-powerhits-battletech.json](./69864-powerhits-battletech.json) |
@@ -12931,6 +12932,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerplay Hockey | 78947 | [78947-powerplay-hockey.json](./78947-powerplay-hockey.json) |
 | Powerplay Tennis | 394436 | [394436-powerplay-tennis.json](./394436-powerplay-tennis.json) |
 | Powerplay-Xtra | 93296 | [93296-powerplay-xtra.json](./93296-powerplay-xtra.json) |
+| Powerpool | 389343 | [389343-powerpool.json](./389343-powerpool.json) |
+| Powerpool 2 | 389345 | [389345-powerpool-2.json](./389345-powerpool-2.json) |
 | Powerpool Frenzy | 392635 | [392635-powerpool-frenzy.json](./392635-powerpool-frenzy.json) |
 | Powerpuff Girls D: Battle in Megaville | 194875 | [194875-powerpuff-girls-d-battle-in-megaville.json](./194875-powerpuff-girls-d-battle-in-megaville.json) |
 | Powerpuff Girls: Bad Mojo Jojo | 3246 | [3246-powerpuff-girls-bad-mojo-jojo.json](./3246-powerpuff-girls-bad-mojo-jojo.json) |
@@ -13305,6 +13308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presidents vs. Aliens | 175509 | [175509-presidents-vs-aliens.json](./175509-presidents-vs-aliens.json) |
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
 | Press “A” to Party | 147712 | [147712-press-a-to-party.json](./147712-press-a-to-party.json) |
+| Press A | 389267 | [389267-press-a.json](./389267-press-a.json) |
 | Press a Button Simulator | 369920 | [369920-press-a-button-simulator.json](./369920-press-a-button-simulator.json) |
 | Press all the buttons | 18891 | [18891-press-all-the-buttons.json](./18891-press-all-the-buttons.json) |
 | Press and Jump | 55602 | [55602-press-and-jump.json](./55602-press-and-jump.json) |
