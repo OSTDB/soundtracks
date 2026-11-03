@@ -4281,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whisper Trip | 154008 | [154008-whisper-trip.json](./154008-whisper-trip.json) |
 | Whisper Village | 365036 | [365036-whisper-village.json](./365036-whisper-village.json) |
 | Whisper: In the Dark | 267429 | [267429-whisper-in-the-dark.json](./267429-whisper-in-the-dark.json) |
+| Whisperborn: Child of the Forest | 353169 | [353169-whisperborn-child-of-the-forest.json](./353169-whisperborn-child-of-the-forest.json) |
 | Whispered Flight | 274738 | [274738-whispered-flight.json](./274738-whispered-flight.json) |
 | Whispered Promises: 14 Days of Love with Anna | 260320 | [260320-whispered-promises-14-days-of-love-with-anna.json](./260320-whispered-promises-14-days-of-love-with-anna.json) |
 | Whispered Secrets: Cruise of Misfortune - Collector's Edition | 338697 | [338697-whispered-secrets-cruise-of-misfortune-collectors-edition.json](./338697-whispered-secrets-cruise-of-misfortune-collectors-edition.json) |
