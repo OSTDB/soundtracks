@@ -4613,6 +4613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erl | 362859 | [362859-erl.json](./362859-erl.json) |
 | Erlking | 292383 | [292383-erlking.json](./292383-erlking.json) |
 | ErMa: Early Mammal | 279787 | [279787-erma-early-mammal.json](./279787-erma-early-mammal.json) |
+| Erma: The Game | 383926 | [383926-erma-the-game.json](./383926-erma-the-game.json) |
 | Ermii Kart DS | 206512 | [206512-ermii-kart-ds.json](./206512-ermii-kart-ds.json) |
 | Ermo | 74912 | [74912-ermo.json](./74912-ermo.json) |
 | ERN | 320875 | [320875-ern.json](./320875-ern.json) |
@@ -5687,6 +5688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Damnation | 66350 | [66350-eternal-damnation.json](./66350-eternal-damnation.json) |
 | Eternal Dark Winter | 370859 | [370859-eternal-dark-winter.json](./370859-eternal-dark-winter.json) |
 | Eternal Decay Souls | 387493 | [387493-eternal-decay-souls.json](./387493-eternal-decay-souls.json) |
+| Eternal Degrade | 383927 | [383927-eternal-degrade.json](./383927-eternal-degrade.json) |
 | Eternal Descent: Heavy Metal Heroes | 60849 | [60849-eternal-descent-heavy-metal-heroes.json](./60849-eternal-descent-heavy-metal-heroes.json) |
 | Eternal Destinies | 88056 | [88056-eternal-destinies.json](./88056-eternal-destinies.json) |
 | Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
