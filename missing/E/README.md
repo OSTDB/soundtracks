@@ -2989,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emma in the Mountains | 70608 | [70608-emma-in-the-mountains.json](./70608-emma-in-the-mountains.json) |
 | Emma: Lost in Memories | 121380 | [121380-emma-lost-in-memories.json](./121380-emma-lost-in-memories.json) |
 | Emma's Armaments | 213017 | [213017-emmas-armaments.json](./213017-emmas-armaments.json) |
+| Emma's Story | 376167 | [376167-emmas-story.json](./376167-emmas-story.json) |
 | Emma's World | 299220 | [299220-emmas-world.json](./299220-emmas-world.json) |
 | Emme Saves the Galaxy | 260204 | [260204-emme-saves-the-galaxy.json](./260204-emme-saves-the-galaxy.json) |
 | Emmensity | 356639 | [356639-emmensity.json](./356639-emmensity.json) |
@@ -6817,6 +6818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Origin | 348814 | [348814-evil-origin.json](./348814-evil-origin.json) |
 | Evil Park | 54888 | [54888-evil-park.json](./54888-evil-park.json) |
 | Evil Plays Dice | 381370 | [381370-evil-plays-dice.json](./381370-evil-plays-dice.json) |
+| Evil Pongon Game | 376158 | [376158-evil-pongon-game.json](./376158-evil-pongon-game.json) |
 | Evil Possession | 28796 | [28796-evil-possession.json](./28796-evil-possession.json) |
 | Evil Pumpkin: The Lost Halloween | 17387 | [17387-evil-pumpkin-the-lost-halloween.json](./17387-evil-pumpkin-the-lost-halloween.json) |
 | Evil Reap | 196170 | [196170-evil-reap.json](./196170-evil-reap.json) |
@@ -7275,6 +7277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Veil | 264054 | [264054-exit-veil.json](./264054-exit-veil.json) |
 | Exit VR | 51713 | [51713-exit-vr.json](./51713-exit-vr.json) |
 | Exit Ways | 346652 | [346652-exit-ways.json](./346652-exit-ways.json) |
+| Exit Zone | 375774 | [375774-exit-zone.json](./375774-exit-zone.json) |
 | Exit, Seriously? | 401385 | [401385-exit-seriously.json](./401385-exit-seriously.json) |
 | Exit: A Biodelic Adventure | 129020 | [129020-exit-a-biodelic-adventure.json](./129020-exit-a-biodelic-adventure.json) |
 | Exit: Echoes of Insanity | 395145 | [395145-exit-echoes-of-insanity.json](./395145-exit-echoes-of-insanity.json) |
