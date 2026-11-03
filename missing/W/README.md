@@ -8486,6 +8486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wraith Ops | 165574 | [165574-wraith-ops.json](./165574-wraith-ops.json) |
 | Wraith VR | 187515 | [187515-wraith-vr.json](./187515-wraith-vr.json) |
 | Wraith: The Oblivion - Afterlife | 135110 | [135110-wraith-the-oblivion-afterlife.json](./135110-wraith-the-oblivion-afterlife.json) |
+| Wraith’s Embrace | 393223 | [393223-wraith-s-embrace.json](./393223-wraith-s-embrace.json) |
 | Wraithbinder | 218300 | [218300-wraithbinder.json](./218300-wraithbinder.json) |
 | Wraithborn | 258647 | [258647-wraithborn.json](./258647-wraithborn.json) |
 | WraithRun | 305632 | [305632-wraithrun.json](./305632-wraithrun.json) |
