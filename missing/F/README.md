@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairvalley VR | 116401 | [116401-fairvalley-vr.json](./116401-fairvalley-vr.json) |
 | Fairway Solitaire | 94903 | [94903-fairway-solitaire.json](./94903-fairway-solitaire.json) |
 | Fairway to Hell | 310032 | [310032-fairway-to-hell.json](./310032-fairway-to-hell.json) |
+| Fairway to Hell | 396975 | [396975-fairway-to-hell.json](./396975-fairway-to-hell.json) |
 | Fairy | 94681 | [94681-fairy.json](./94681-fairy.json) |
 | Fairy 2 | 216800 | [216800-fairy-2.json](./216800-fairy-2.json) |
 | Fairy and Devil | 155577 | [155577-fairy-and-devil.json](./155577-fairy-and-devil.json) |
@@ -12239,6 +12240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FTB Evolution | 355091 | [355091-ftb-evolution.json](./355091-ftb-evolution.json) |
 | FTB Oceanblock | 234178 | [234178-ftb-oceanblock.json](./234178-ftb-oceanblock.json) |
 | FTB Stoneblock 4 | 378220 | [378220-ftb-stoneblock-4.json](./378220-ftb-stoneblock-4.json) |
+| FTB University 1.12 | 396959 | [396959-ftb-university-1-12.json](./396959-ftb-university-1-12.json) |
 | FTD: Fixin' to Die | 177560 | [177560-ftd-fixin-to-die.json](./177560-ftd-fixin-to-die.json) |
 | FTD2 | 147180 | [147180-ftd2.json](./147180-ftd2.json) |
 | FTL Team | 377629 | [377629-ftl-team.json](./377629-ftl-team.json) |
@@ -12477,6 +12479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fullmetal Alchemist: Brotherhood | 25172 | [25172-fullmetal-alchemist-brotherhood.json](./25172-fullmetal-alchemist-brotherhood.json) |
 | Fullmetal Alchemist: Daughter of the Dusk | 77766 | [77766-fullmetal-alchemist-daughter-of-the-dusk.json](./77766-fullmetal-alchemist-daughter-of-the-dusk.json) |
 | Fullmetal Alchemist: Dual Sympathy | 19073 | [19073-fullmetal-alchemist-dual-sympathy.json](./19073-fullmetal-alchemist-dual-sympathy.json) |
+| Fullmetal Alchemist: Flameout | 396976 | [396976-fullmetal-alchemist-flameout.json](./396976-fullmetal-alchemist-flameout.json) |
 | Fullmetal Alchemist: Iron & Flame | 185826 | [185826-fullmetal-alchemist-iron-and-flame.json](./185826-fullmetal-alchemist-iron-and-flame.json) |
 | Fullmetal Alchemist: Omoide no Sonata | 49594 | [49594-fullmetal-alchemist-omoide-no-sonata.json](./49594-fullmetal-alchemist-omoide-no-sonata.json) |
 | Fullmetal Alchemist: Prince of the Dawn | 69180 | [69180-fullmetal-alchemist-prince-of-the-dawn.json](./69180-fullmetal-alchemist-prince-of-the-dawn.json) |
