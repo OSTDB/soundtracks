@@ -1156,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panel no Ninja Kesamaru | 305208 | [305208-panel-no-ninja-kesamaru.json](./305208-panel-no-ninja-kesamaru.json) |
 | Panel Quiz Attack 25 | 200419 | [200419-panel-quiz-attack-25.json](./200419-panel-quiz-attack-25.json) |
 | Panel Rabbit | 253611 | [253611-panel-rabbit.json](./253611-panel-rabbit.json) |
+| Panel Room | 392688 | [392688-panel-room.json](./392688-panel-room.json) |
 | Panel Room: Escape Game | 276927 | [276927-panel-room-escape-game.json](./276927-panel-room-escape-game.json) |
 | Panelak | 327022 | [327022-panelak.json](./327022-panelak.json) |
 | Panelka | 331522 | [331522-panelka.json](./331522-panelka.json) |
@@ -3039,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PaulPaul - Act 1 | 105142 | [105142-paulpaul-act-1.json](./105142-paulpaul-act-1.json) |
 | Paunch | 127002 | [127002-paunch.json](./127002-paunch.json) |
 | Paunch 2 | 190953 | [190953-paunch-2.json](./190953-paunch-2.json) |
+| Paunchy Pets | 392604 | [392604-paunchy-pets.json](./392604-paunchy-pets.json) |
 | Pause Screen From Battletoads | 323789 | [323789-pause-screen-from-battletoads.json](./323789-pause-screen-from-battletoads.json) |
 | Pause To Play | 256707 | [256707-pause-to-play.json](./256707-pause-to-play.json) |
 | Pavane: See No Evil | 396445 | [396445-pavane-see-no-evil.json](./396445-pavane-see-no-evil.json) |
@@ -11763,6 +11765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Hustler | 23153 | [23153-pool-hustler.json](./23153-pool-hustler.json) |
 | Pool Live Pro | 38947 | [38947-pool-live-pro.json](./38947-pool-live-pro.json) |
 | Pool Live Tour: Champions | 56390 | [56390-pool-live-tour-champions.json](./56390-pool-live-tour-champions.json) |
+| Pool Loop | 392596 | [392596-pool-loop.json](./392596-pool-loop.json) |
 | Pool Lounge | 264241 | [264241-pool-lounge.json](./264241-pool-lounge.json) |
 | Pool Master | 43257 | [43257-pool-master.json](./43257-pool-master.json) |
 | Pool Master : Live Billiards | 209334 | [209334-pool-master-live-billiards.json](./209334-pool-master-live-billiards.json) |
@@ -12045,6 +12048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopIdle | 294461 | [294461-popidle.json](./294461-popidle.json) |
 | Popil | 264314 | [264314-popil.json](./264314-popil.json) |
 | Popils | 45262 | [45262-popils.json](./45262-popils.json) |
+| Popira | 392681 | [392681-popira.json](./392681-popira.json) |
 | Popit Sanic Goo! | 320034 | [320034-popit-sanic-goo.json](./320034-popit-sanic-goo.json) |
 | PoPixel | 32487 | [32487-popixel.json](./32487-popixel.json) |
 | Popmoji | 282053 | [282053-popmoji.json](./282053-popmoji.json) |
@@ -12747,6 +12751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Pets | 398471 | [398471-power-pets.json](./398471-power-pets.json) |
 | Power Piggs of the Dark Age | 42471 | [42471-power-piggs-of-the-dark-age.json](./42471-power-piggs-of-the-dark-age.json) |
 | Power Pigskin | 245420 | [245420-power-pigskin.json](./245420-power-pigskin.json) |
+| Power Pinball | 392587 | [392587-power-pinball.json](./392587-power-pinball.json) |
 | Power Ping Pong | 200031 | [200031-power-ping-pong.json](./200031-power-ping-pong.json) |
 | Power Pipes | 146913 | [146913-power-pipes.json](./146913-power-pipes.json) |
 | Power Planner | 384344 | [384344-power-planner.json](./384344-power-planner.json) |
@@ -12911,6 +12916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerplay Hockey | 78947 | [78947-powerplay-hockey.json](./78947-powerplay-hockey.json) |
 | Powerplay Tennis | 394436 | [394436-powerplay-tennis.json](./394436-powerplay-tennis.json) |
 | Powerplay-Xtra | 93296 | [93296-powerplay-xtra.json](./93296-powerplay-xtra.json) |
+| Powerpool Frenzy | 392635 | [392635-powerpool-frenzy.json](./392635-powerpool-frenzy.json) |
 | Powerpuff Girls D: Battle in Megaville | 194875 | [194875-powerpuff-girls-d-battle-in-megaville.json](./194875-powerpuff-girls-d-battle-in-megaville.json) |
 | Powerpuff Girls: Bad Mojo Jojo | 3246 | [3246-powerpuff-girls-bad-mojo-jojo.json](./3246-powerpuff-girls-bad-mojo-jojo.json) |
 | Powerpuff Girls: Gamesville | 8007 | [8007-powerpuff-girls-gamesville.json](./8007-powerpuff-girls-gamesville.json) |
