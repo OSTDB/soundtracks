@@ -2744,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Boxing 2: Remastered | 324127 | [324127-real-boxing-2-remastered.json](./324127-real-boxing-2-remastered.json) |
 | Real Boxing 2: Remastered - DeathShroud DLC | 393067 | [393067-real-boxing-2-remastered-deathshroud-dlc.json](./393067-real-boxing-2-remastered-deathshroud-dlc.json) |
 | Real Boxing 2: Remastered - DeathShroud Edition | 400203 | [400203-real-boxing-2-remastered-deathshroud-edition.json](./400203-real-boxing-2-remastered-deathshroud-edition.json) |
+| Real Boxing 2: Remastered - El Loco DLC | 380719 | [380719-real-boxing-2-remastered-el-loco-dlc.json](./380719-real-boxing-2-remastered-el-loco-dlc.json) |
 | Real Boxing 2: Remastered - El Loco Edition | 380721 | [380721-real-boxing-2-remastered-el-loco-edition.json](./380721-real-boxing-2-remastered-el-loco-edition.json) |
 | Real Boxing 2: Remastered - Emerald Edition | 407106 | [407106-real-boxing-2-remastered-emerald-edition.json](./407106-real-boxing-2-remastered-emerald-edition.json) |
 | Real Boxing 2: Remastered - Gold Edition | 411837 | [411837-real-boxing-2-remastered-gold-edition.json](./411837-real-boxing-2-remastered-gold-edition.json) |
@@ -7138,6 +7139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift: Starfall Prophecy | 26137 | [26137-rift-starfall-prophecy.json](./26137-rift-starfall-prophecy.json) |
 | Rift: Storm Legion | 1935 | [1935-rift-storm-legion.json](./1935-rift-storm-legion.json) |
 | Rift's Cave | 36079 | [36079-rifts-cave.json](./36079-rifts-cave.json) |
+| Riftaway | 380355 | [380355-riftaway.json](./380355-riftaway.json) |
 | Riftborn | 370459 | [370459-riftborn.json](./370459-riftborn.json) |
 | Riftborne | 398474 | [398474-riftborne.json](./398474-riftborne.json) |
 | Riftcast | 311635 | [311635-riftcast.json](./311635-riftcast.json) |
