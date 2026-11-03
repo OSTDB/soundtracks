@@ -6715,6 +6715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Tycoon | 64477 | [64477-pinball-tycoon.json](./64477-pinball-tycoon.json) |
 | Pinball vs. Solitaire | 250559 | [250559-pinball-vs-solitaire.json](./250559-pinball-vs-solitaire.json) |
 | Pinball Wicked | 43121 | [43121-pinball-wicked.json](./43121-pinball-wicked.json) |
+| Pinball With a Gun | 391957 | [391957-pinball-with-a-gun.json](./391957-pinball-with-a-gun.json) |
 | Pinball Wizard | 12959 | [12959-pinball-wizard.json](./12959-pinball-wizard.json) |
 | Pinball Wizard | 260830 | [260830-pinball-wizard.json](./260830-pinball-wizard.json) |
 | Pinball Wizard 2000 | 100104 | [100104-pinball-wizard-2000.json](./100104-pinball-wizard-2000.json) |
@@ -6770,6 +6771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pineapple Defense | 298152 | [298152-pineapple-defense.json](./298152-pineapple-defense.json) |
 | Pineapple Heroes | 56875 | [56875-pineapple-heroes.json](./56875-pineapple-heroes.json) |
 | Pineapple Island | 157858 | [157858-pineapple-island.json](./157858-pineapple-island.json) |
+| Pineapple Legend | 391966 | [391966-pineapple-legend.json](./391966-pineapple-legend.json) |
 | Pineapple on Pizza | 240496 | [240496-pineapple-on-pizza.json](./240496-pineapple-on-pizza.json) |
 | Pineapple Panic! | 337652 | [337652-pineapple-panic.json](./337652-pineapple-panic.json) |
 | Pineapple Pen | 87169 | [87169-pineapple-pen.json](./87169-pineapple-pen.json) |
