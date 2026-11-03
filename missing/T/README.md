@@ -4036,6 +4036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshin Ranman: Happy Go Lucky!! | 386954 | [386954-tenshin-ranman-happy-go-lucky.json](./386954-tenshin-ranman-happy-go-lucky.json) |
 | Tenshitsuki no Shoujo | 80471 | [80471-tenshitsuki-no-shoujo.json](./80471-tenshitsuki-no-shoujo.json) |
 | Tenshoku Maou | 381693 | [381693-tenshoku-maou.json](./381693-tenshoku-maou.json) |
+| Tenshokyo: Tokyo Drift | 371817 | [371817-tenshokyo-tokyo-drift.json](./371817-tenshokyo-tokyo-drift.json) |
 | Tenshou Gakuen Gensouroku | 71807 | [71807-tenshou-gakuen-gensouroku.json](./71807-tenshou-gakuen-gensouroku.json) |
 | Tenshu General | 35473 | [35473-tenshu-general.json](./35473-tenshu-general.json) |
 | Tension | 93966 | [93966-tension.json](./93966-tension.json) |
@@ -15140,6 +15141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sacrificial Girl of the Fantasy 3: Kingdoms 2 | 261669 | [261669-the-sacrificial-girl-of-the-fantasy-3-kingdoms-2.json](./261669-the-sacrificial-girl-of-the-fantasy-3-kingdoms-2.json) |
 | The Sad Story of Emmeline Burns | 33825 | [33825-the-sad-story-of-emmeline-burns.json](./33825-the-sad-story-of-emmeline-burns.json) |
 | The Saddle Club | 268211 | [268211-the-saddle-club.json](./268211-the-saddle-club.json) |
+| The Saddle Club: Pine Hollow Gymkhana | 371829 | [371829-the-saddle-club-pine-hollow-gymkhana.json](./371829-the-saddle-club-pine-hollow-gymkhana.json) |
 | The Saddle Club: Willowbrook Stables | 163160 | [163160-the-saddle-club-willowbrook-stables.json](./163160-the-saddle-club-willowbrook-stables.json) |
 | The Safe Place | 196999 | [196999-the-safe-place.json](./196999-the-safe-place.json) |
 | The Safeguard Garrison | 29672 | [29672-the-safeguard-garrison.json](./29672-the-safeguard-garrison.json) |
@@ -17558,6 +17560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The USB Stick Found in the Grass | 169467 | [169467-the-usb-stick-found-in-the-grass.json](./169467-the-usb-stick-found-in-the-grass.json) |
 | The Useful Dead | 62830 | [62830-the-useful-dead.json](./62830-the-useful-dead.json) |
 | The Useless App | 322815 | [322815-the-useless-app.json](./322815-the-useless-app.json) |
+| The Useless Wizard | 372027 | [372027-the-useless-wizard.json](./372027-the-useless-wizard.json) |
 | The Usurper: The Mines Of Qyntarr | 15516 | [15516-the-usurper-the-mines-of-qyntarr.json](./15516-the-usurper-the-mines-of-qyntarr.json) |
 | The Uzujigoku Massacre | 321305 | [321305-the-uzujigoku-massacre.json](./321305-the-uzujigoku-massacre.json) |
 | The V Anomaly | 390539 | [390539-the-v-anomaly.json](./390539-the-v-anomaly.json) |
@@ -23109,6 +23112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toby's Topsy Tale | 293615 | [293615-tobys-topsy-tale.json](./293615-tobys-topsy-tale.json) |
 | Toc | 183004 | [183004-toc.json](./183004-toc.json) |
 | Toca Boca Hair Salon 4 | 380522 | [380522-toca-boca-hair-salon-4.json](./380522-toca-boca-hair-salon-4.json) |
+| Toca Boca Jr Classics | 372161 | [372161-toca-boca-jr-classics.json](./372161-toca-boca-jr-classics.json) |
 | Toca Boo | 95743 | [95743-toca-boo.json](./95743-toca-boo.json) |
 | Toca Builders | 373243 | [373243-toca-builders.json](./373243-toca-builders.json) |
 | Toca Cars | 401919 | [401919-toca-cars.json](./401919-toca-cars.json) |
@@ -30814,6 +30818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Champions | 344036 | [344036-turbo-champions.json](./344036-turbo-champions.json) |
 | Turbo Charge | 41142 | [41142-turbo-charge.json](./41142-turbo-charge.json) |
 | Turbo Chess | 63074 | [63074-turbo-chess.json](./63074-turbo-chess.json) |
+| Turbo Circuit: Speed Racing | 371818 | [371818-turbo-circuit-speed-racing.json](./371818-turbo-circuit-speed-racing.json) |
 | Turbo Cup | 72328 | [72328-turbo-cup.json](./72328-turbo-cup.json) |
 | Turbo Dash | 329066 | [329066-turbo-dash.json](./329066-turbo-dash.json) |
 | Turbo Dash Kart 2023 Racing | 266065 | [266065-turbo-dash-kart-2023-racing.json](./266065-turbo-dash-kart-2023-racing.json) |
