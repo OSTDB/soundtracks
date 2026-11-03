@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pair Horror | 309061 | [309061-pair-horror.json](./309061-pair-horror.json) |
 | Pair Horror + Haunted Pack Set | 328990 | [328990-pair-horror-haunted-pack-set.json](./328990-pair-horror-haunted-pack-set.json) |
 | Pair Master | 347196 | [347196-pair-master.json](./347196-pair-master.json) |
+| Pair Match | 385772 | [385772-pair-match.json](./385772-pair-match.json) |
 | Pair Matching Puzzle Connect | 163440 | [163440-pair-matching-puzzle-connect.json](./163440-pair-matching-puzzle-connect.json) |
 | Pair Matching Puzzle Connect: Expansion Pack 1 | 163450 | [163450-pair-matching-puzzle-connect-expansion-pack-1.json](./163450-pair-matching-puzzle-connect-expansion-pack-1.json) |
 | Pair Matching Puzzle Connect: Expansion Pack 10 | 227154 | [227154-pair-matching-puzzle-connect-expansion-pack-10.json](./227154-pair-matching-puzzle-connect-expansion-pack-10.json) |
@@ -4136,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Balance | 186259 | [186259-perfect-balance.json](./186259-perfect-balance.json) |
 | Perfect Balance Collection | 193640 | [193640-perfect-balance-collection.json](./193640-perfect-balance-collection.json) |
 | Perfect Ball | 225542 | [225542-perfect-ball.json](./225542-perfect-ball.json) |
+| Perfect Baseball: Excitement! Craze! The Stirring Game! | 385511 | [385511-perfect-baseball-excitement-craze-the-stirring-game.json](./385511-perfect-baseball-excitement-craze-the-stirring-game.json) |
 | Perfect Beach | 56940 | [56940-perfect-beach.json](./56940-perfect-beach.json) |
 | Perfect Bird Pitch | 270650 | [270650-perfect-bird-pitch.json](./270650-perfect-bird-pitch.json) |
 | Perfect Blue | 24149 | [24149-perfect-blue.json](./24149-perfect-blue.json) |
@@ -4185,6 +4187,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Liar | 373536 | [373536-perfect-liar.json](./373536-perfect-liar.json) |
 | Perfect Loop: Soleris | 388711 | [388711-perfect-loop-soleris.json](./388711-perfect-loop-soleris.json) |
 | Perfect Love | 304089 | [304089-perfect-love.json](./304089-perfect-love.json) |
+| Perfect Mahjong | 385762 | [385762-perfect-mahjong.json](./385762-perfect-mahjong.json) |
+| Perfect Mahjong II | 385763 | [385763-perfect-mahjong-ii.json](./385763-perfect-mahjong-ii.json) |
 | Perfect Match | 15338 | [15338-perfect-match.json](./15338-perfect-match.json) |
 | Perfect Match | 313739 | [313739-perfect-match.json](./313739-perfect-match.json) |
 | Perfect Match 2 | 313740 | [313740-perfect-match-2.json](./313740-perfect-match-2.json) |
