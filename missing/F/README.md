@@ -5381,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finely Crafted Fetish Film | 140921 | [140921-finely-crafted-fetish-film.json](./140921-finely-crafted-fetish-film.json) |
 | Finely Diced | 251981 | [251981-finely-diced.json](./251981-finely-diced.json) |
 | Finesse | 248599 | [248599-finesse.json](./248599-finesse.json) |
+| Finest Fable | 379832 | [379832-finest-fable.json](./379832-finest-fable.json) |
 | Finest Hour | 40331 | [40331-finest-hour.json](./40331-finest-hour.json) |
 | Fingeance | 58408 | [58408-fingeance.json](./58408-fingeance.json) |
 | Finger Balance | 175215 | [175215-finger-balance.json](./175215-finger-balance.json) |
@@ -7288,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleshborn | 393299 | [393299-fleshborn.json](./393299-fleshborn.json) |
 | FleshBound | 327453 | [327453-fleshbound.json](./327453-fleshbound.json) |
 | FleshBound | 397043 | [397043-fleshbound.json](./397043-fleshbound.json) |
+| Fleshbreak | 379842 | [379842-fleshbreak.json](./379842-fleshbreak.json) |
 | Fleshcancer | 395805 | [395805-fleshcancer.json](./395805-fleshcancer.json) |
 | Fleshcult | 151287 | [151287-fleshcult.json](./151287-fleshcult.json) |
 | Fleshgait | 188448 | [188448-fleshgait.json](./188448-fleshgait.json) |
