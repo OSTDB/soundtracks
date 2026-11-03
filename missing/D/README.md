@@ -10422,6 +10422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Legacy: Neo Amburia | 343739 | [343739-divine-legacy-neo-amburia.json](./343739-divine-legacy-neo-amburia.json) |
 | Divine Light | 313659 | [313659-divine-light.json](./313659-divine-light.json) |
 | Divine Miko Koyori | 122451 | [122451-divine-miko-koyori.json](./122451-divine-miko-koyori.json) |
+| Divine Orbit | 398801 | [398801-divine-orbit.json](./398801-divine-orbit.json) |
 | Divine Orders | 333108 | [333108-divine-orders.json](./333108-divine-orders.json) |
 | Divine Pearl: Survivors | 248090 | [248090-divine-pearl-survivors.json](./248090-divine-pearl-survivors.json) |
 | Divine Prophecy | 273506 | [273506-divine-prophecy.json](./273506-divine-prophecy.json) |
@@ -12818,6 +12819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorpie | 360015 | [360015-dorpie.json](./360015-dorpie.json) |
 | Dorsaka | 337424 | [337424-dorsaka.json](./337424-dorsaka.json) |
 | Dört Model Müzesi | 166804 | [166804-dort-model-muzesi.json](./166804-dort-model-muzesi.json) |
+| Dorts: A Darts Roguelike | 398796 | [398796-dorts-a-darts-roguelike.json](./398796-dorts-a-darts-roguelike.json) |
 | Dorven Digger | 195916 | [195916-dorven-digger.json](./195916-dorven-digger.json) |
 | Dos-Plan | 271105 | [271105-dos-plan.json](./271105-dos-plan.json) |
 | DOS: Steve Pardo | 289828 | [289828-dos-steve-pardo.json](./289828-dos-steve-pardo.json) |
