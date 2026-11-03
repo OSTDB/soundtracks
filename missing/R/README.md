@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid: World War II | 10403 | [10403-raid-world-war-ii.json](./10403-raid-world-war-ii.json) |
 | Raidborn | 212178 | [212178-raidborn.json](./212178-raidborn.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
+| Raidbound | 372957 | [372957-raidbound.json](./372957-raidbound.json) |
 | Raiden | 6841 | [6841-raiden.json](./6841-raiden.json) |
 | Raiden DX | 8857 | [8857-raiden-dx.json](./8857-raiden-dx.json) |
 | Raiden Fighters | 8858 | [8858-raiden-fighters.json](./8858-raiden-fighters.json) |
@@ -5594,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restless Night | 154901 | [154901-restless-night.json](./154901-restless-night.json) |
 | Restless Nights | 309398 | [309398-restless-nights.json](./309398-restless-nights.json) |
 | Restless Nights | 393756 | [393756-restless-nights.json](./393756-restless-nights.json) |
+| Restless Rites | 372955 | [372955-restless-rites.json](./372955-restless-rites.json) |
 | Restless Soul | 192398 | [192398-restless-soul.json](./192398-restless-soul.json) |
 | Restless Spirit | 99468 | [99468-restless-spirit.json](./99468-restless-spirit.json) |
 | Restless Voronezh | 267058 | [267058-restless-voronezh.json](./267058-restless-voronezh.json) |
@@ -10828,6 +10830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette at Aces Casino | 147867 | [147867-roulette-at-aces-casino.json](./147867-roulette-at-aces-casino.json) |
 | Roulette Club | 368547 | [368547-roulette-club.json](./368547-roulette-club.json) |
 | Roulette Dungeon | 330004 | [330004-roulette-dungeon.json](./330004-roulette-dungeon.json) |
+| Roulette Heist | 372937 | [372937-roulette-heist.json](./372937-roulette-heist.json) |
 | Roulette Hero | 341536 | [341536-roulette-hero.json](./341536-roulette-hero.json) |
 | Roulette Knight | 101008 | [101008-roulette-knight.json](./101008-roulette-knight.json) |
 | Roulette Knight | 178687 | [178687-roulette-knight.json](./178687-roulette-knight.json) |
@@ -11293,6 +11296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubbish Island | 378890 | [378890-rubbish-island.json](./378890-rubbish-island.json) |
 | Rubblar | 238661 | [238661-rubblar.json](./238661-rubblar.json) |
 | Rubble | 223250 | [223250-rubble.json](./223250-rubble.json) |
+| Rubble Eats the World | 372954 | [372954-rubble-eats-the-world.json](./372954-rubble-eats-the-world.json) |
 | Rubble Rampage | 413127 | [413127-rubble-rampage.json](./413127-rubble-rampage.json) |
 | Rubble Rush | 118069 | [118069-rubble-rush.json](./118069-rubble-rush.json) |
 | Rubble the Engineer | 359414 | [359414-rubble-the-engineer.json](./359414-rubble-the-engineer.json) |
