@@ -11818,6 +11818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Fraud My Heart! | 213306 | [213306-dont-fraud-my-heart.json](./213306-dont-fraud-my-heart.json) |
 | Don't freak out | 191069 | [191069-dont-freak-out.json](./191069-dont-freak-out.json) |
 | Don't Freak Part 1 | 334875 | [334875-dont-freak-part-1.json](./334875-dont-freak-part-1.json) |
+| Don't Freeze: A Winter Card Survival | 372942 | [372942-dont-freeze-a-winter-card-survival.json](./372942-dont-freeze-a-winter-card-survival.json) |
 | Don't Fret | 289433 | [289433-dont-fret.json](./289433-dont-fret.json) |
 | Don't Get a Virus | 181874 | [181874-dont-get-a-virus.json](./181874-dont-get-a-virus.json) |
 | Don't Get Angry! 2 | 71325 | [71325-dont-get-angry-2.json](./71325-dont-get-angry-2.json) |
