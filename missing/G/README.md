@@ -1493,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games Tycoon | 399355 | [399355-games-tycoon.json](./399355-games-tycoon.json) |
 | Games&Girls | 29106 | [29106-games-and-girls.json](./29106-games-and-girls.json) |
 | Games8x8 | 376022 | [376022-games8x8.json](./376022-games8x8.json) |
+| GameShop Tycoon | 385105 | [385105-gameshop-tycoon.json](./385105-gameshop-tycoon.json) |
 | GameStart Pixel Battle | 207865 | [207865-gamestart-pixel-battle.json](./207865-gamestart-pixel-battle.json) |
 | GameSyndicates | 404513 | [404513-gamesyndicates.json](./404513-gamesyndicates.json) |
 | GameTap, Cup Noodles, and Bitter Tears | 353929 | [353929-gametap-cup-noodles-and-bitter-tears.json](./353929-gametap-cup-noodles-and-bitter-tears.json) |
@@ -7201,6 +7202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradient | 237809 | [237809-gradient.json](./237809-gradient.json) |
 | Gradient Flow | 273827 | [273827-gradient-flow.json](./273827-gradient-flow.json) |
 | Gradiently | 142702 | [142702-gradiently.json](./142702-gradiently.json) |
+| Gradiently 2 | 385106 | [385106-gradiently-2.json](./385106-gradiently-2.json) |
 | Gradius | 1476 | [1476-gradius.json](./1476-gradius.json) |
 | Gradius | 213188 | [213188-gradius.json](./213188-gradius.json) |
 | Gradius | 213191 | [213191-gradius.json](./213191-gradius.json) |
@@ -9469,6 +9471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grumpa | 379125 | [379125-grumpa.json](./379125-grumpa.json) |
 | Grumpy Cat: Unimpressed | 62498 | [62498-grumpy-cat-unimpressed.json](./62498-grumpy-cat-unimpressed.json) |
 | Grumpy Cat's Worst Game Ever | 98930 | [98930-grumpy-cats-worst-game-ever.json](./98930-grumpy-cats-worst-game-ever.json) |
+| Grumpy Driver | 385107 | [385107-grumpy-driver.json](./385107-grumpy-driver.json) |
 | Grumpy Gaffer | 357374 | [357374-grumpy-gaffer.json](./357374-grumpy-gaffer.json) |
 | Grumpy Gumphrey Supersleuth | 72262 | [72262-grumpy-gumphrey-supersleuth.json](./72262-grumpy-gumphrey-supersleuth.json) |
 | Grumpy Jack | 391288 | [391288-grumpy-jack.json](./391288-grumpy-jack.json) |
