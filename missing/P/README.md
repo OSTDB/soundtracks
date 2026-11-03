@@ -15680,6 +15680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protect the Earth | 152646 | [152646-protect-the-earth.json](./152646-protect-the-earth.json) |
 | Protect the Grimoire | 413133 | [413133-protect-the-grimoire.json](./413133-protect-the-grimoire.json) |
 | Protect the Kingdom | 179086 | [179086-protect-the-kingdom.json](./179086-protect-the-kingdom.json) |
+| Protect the Pit | 387282 | [387282-protect-the-pit.json](./387282-protect-the-pit.json) |
 | Protect the Planet | 257969 | [257969-protect-the-planet.json](./257969-protect-the-planet.json) |
 | Protect The Town: Armageddon | 291165 | [291165-protect-the-town-armageddon.json](./291165-protect-the-town-armageddon.json) |
 | Protect the Treasure | 368235 | [368235-protect-the-treasure.json](./368235-protect-the-treasure.json) |
