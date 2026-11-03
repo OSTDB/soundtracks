@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Corona Mágica | 69635 | [69635-la-corona-magica.json](./69635-la-corona-magica.json) |
 | La Cosa Nostra | 389976 | [389976-la-cosa-nostra.json](./389976-la-cosa-nostra.json) |
 | La costurera | 333974 | [333974-la-costurera.json](./333974-la-costurera.json) |
+| La Crapule | 386319 | [386319-la-crapule.json](./386319-la-crapule.json) |
 | La Crypte des Maudits | 320777 | [320777-la-crypte-des-maudits.json](./320777-la-crypte-des-maudits.json) |
 | La Culture Generale pour les Nuls | 269831 | [269831-la-culture-generale-pour-les-nuls.json](./269831-la-culture-generale-pour-les-nuls.json) |
 | La Dame de Monsoreau | 209442 | [209442-la-dame-de-monsoreau.json](./209442-la-dame-de-monsoreau.json) |
@@ -3701,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing Country | 125017 | [125017-lets-sing-country.json](./125017-lets-sing-country.json) |
 | Let's Sing Queen | 138761 | [138761-lets-sing-queen.json](./138761-lets-sing-queen.json) |
 | Let's Sing: Radio Italia | 268190 | [268190-lets-sing-radio-italia.json](./268190-lets-sing-radio-italia.json) |
+| Let's Sing! The World of Karaoke | 386314 | [386314-lets-sing-the-world-of-karaoke.json](./386314-lets-sing-the-world-of-karaoke.json) |
 | Let's Split Up (A Visual Novel) | 104156 | [104156-lets-split-up-a-visual-novel.json](./104156-lets-split-up-a-visual-novel.json) |
 | Let's Spot It! | 252925 | [252925-lets-spot-it.json](./252925-lets-spot-it.json) |
 | Let's Stack AR! | 104540 | [104540-lets-stack-ar.json](./104540-lets-stack-ar.json) |
