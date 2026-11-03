@@ -9159,6 +9159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blademaker: Arms Shop | 108825 | [108825-blademaker-arms-shop.json](./108825-blademaker-arms-shop.json) |
 | Blademancer | 348157 | [348157-blademancer.json](./348157-blademancer.json) |
 | Bladenet | 68166 | [68166-bladenet.json](./68166-bladenet.json) |
+| Bladepink | 369803 | [369803-bladepink.json](./369803-bladepink.json) |
 | Bladequest: The First Chapter - Gold | 106548 | [106548-bladequest-the-first-chapter-gold.json](./106548-bladequest-the-first-chapter-gold.json) |
 | BladeRite: Rivals | 409794 | [409794-bladerite-rivals.json](./409794-bladerite-rivals.json) |
 | Bladerunners SX | 330820 | [330820-bladerunners-sx.json](./330820-bladerunners-sx.json) |
@@ -9681,6 +9682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind | 216787 | [216787-blind.json](./216787-blind.json) |
 | Blind Affection | 180562 | [180562-blind-affection.json](./180562-blind-affection.json) |
 | Blind and Schizophrenic | 242965 | [242965-blind-and-schizophrenic.json](./242965-blind-and-schizophrenic.json) |
+| Blind and Stumbling | 369815 | [369815-blind-and-stumbling.json](./369815-blind-and-stumbling.json) |
 | Blind Bird | 105605 | [105605-blind-bird.json](./105605-blind-bird.json) |
 | Blind Blades | 31461 | [31461-blind-blades.json](./31461-blind-blades.json) |
 | Blind Bluff | 391527 | [391527-blind-bluff.json](./391527-blind-bluff.json) |
@@ -16775,6 +16777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny on Rails | 298831 | [298831-bunny-on-rails.json](./298831-bunny-on-rails.json) |
 | Bunny Park | 127749 | [127749-bunny-park.json](./127749-bunny-park.json) |
 | Bunny Parking | 116064 | [116064-bunny-parking.json](./116064-bunny-parking.json) |
+| Bunny Pit Stop | 369811 | [369811-bunny-pit-stop.json](./369811-bunny-pit-stop.json) |
 | Bunny Pop 2: Beat the Wolf | 103890 | [103890-bunny-pop-2-beat-the-wolf.json](./103890-bunny-pop-2-beat-the-wolf.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
 | Bunny Quest | 143942 | [143942-bunny-quest.json](./143942-bunny-quest.json) |
