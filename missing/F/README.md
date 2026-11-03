@@ -4558,6 +4558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | File 47 | 337124 | [337124-file-47.json](./337124-file-47.json) |
 | File 9 | 31121 | [31121-file-9.json](./31121-file-9.json) |
 | File Destined | 235446 | [235446-file-destined.json](./235446-file-destined.json) |
+| File Tricks | 372719 | [372719-file-tricks.json](./372719-file-tricks.json) |
 | File://maniac | 118374 | [118374-file-maniac.json](./118374-file-maniac.json) |
 | FileKiller | 294215 | [294215-filekiller.json](./294215-filekiller.json) |
 | Filiy Eclipse | 334597 | [334597-filiy-eclipse.json](./334597-filiy-eclipse.json) |
