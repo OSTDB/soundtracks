@@ -834,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Làngjì Sānguó | 150636 | [150636-langji-sanguo.json](./150636-langji-sanguo.json) |
 | Langoth | 29756 | [29756-langoth.json](./29756-langoth.json) |
 | Langrisser I | 284200 | [284200-langrisser-i.json](./284200-langrisser-i.json) |
+| Langrisser I | 375476 | [375476-langrisser-i.json](./375476-langrisser-i.json) |
 | Langrisser I & II | 107238 | [107238-langrisser-i-and-ii.json](./107238-langrisser-i-and-ii.json) |
 | Langrisser I & II | 62775 | [62775-langrisser-i-and-ii.json](./62775-langrisser-i-and-ii.json) |
 | Langrisser I & II: Limited Edition Box | 167037 | [167037-langrisser-i-and-ii-limited-edition-box.json](./167037-langrisser-i-and-ii-limited-edition-box.json) |
@@ -2190,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn to Play Vol. 7: Safe Journey | 317450 | [317450-learn-to-play-vol-7-safe-journey.json](./317450-learn-to-play-vol-7-safe-journey.json) |
 | Learn to Play vol. 8: Penalty Shootout | 322416 | [322416-learn-to-play-vol-8-penalty-shootout.json](./322416-learn-to-play-vol-8-penalty-shootout.json) |
 | Learn to Play: Jungle Frog | 358660 | [358660-learn-to-play-jungle-frog.json](./358660-learn-to-play-jungle-frog.json) |
+| Learn to Play: Pumpkin Smash! | 375132 | [375132-learn-to-play-pumpkin-smash.json](./375132-learn-to-play-pumpkin-smash.json) |
 | Learn with Illustrations! English Prepositions 4-Choice Quiz | 399658 | [399658-learn-with-illustrations-english-prepositions-4-choice-quiz.json](./399658-learn-with-illustrations-english-prepositions-4-choice-quiz.json) |
 | Learn Words: Use Syllables | 243329 | [243329-learn-words-use-syllables.json](./243329-learn-words-use-syllables.json) |
 | LearnEng - The Word Maker | 110856 | [110856-learneng-the-word-maker.json](./110856-learneng-the-word-maker.json) |
@@ -6530,6 +6532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lode Runner Twin: Justy to Liberty no Daibouken | 38219 | [38219-lode-runner-twin-justy-to-liberty-no-daibouken.json](./38219-lode-runner-twin-justy-to-liberty-no-daibouken.json) |
 | Lode Runner: Domdom Dan no Yabou! | 109026 | [109026-lode-runner-domdom-dan-no-yabou.json](./109026-lode-runner-domdom-dan-no-yabou.json) |
 | Lode Runner: Lost Labyrinth | 64123 | [64123-lode-runner-lost-labyrinth.json](./64123-lode-runner-lost-labyrinth.json) |
+| Lode Runner: The Bungeling Strikes Back | 375137 | [375137-lode-runner-the-bungeling-strikes-back.json](./375137-lode-runner-the-bungeling-strikes-back.json) |
 | Lode Runner: The Dig Fight | 40371 | [40371-lode-runner-the-dig-fight.json](./40371-lode-runner-the-dig-fight.json) |
 | Lode Runner: The Legend Returns | 46964 | [46964-lode-runner-the-legend-returns.json](./46964-lode-runner-the-legend-returns.json) |
 | Loded Depths | 373797 | [373797-loded-depths.json](./373797-loded-depths.json) |
@@ -8122,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Louis the Game | 175727 | [175727-louis-the-game.json](./175727-louis-the-game.json) |
 | Louisiana Adventure | 64279 | [64279-louisiana-adventure.json](./64279-louisiana-adventure.json) |
 | LouLan Kingdom | 404600 | [404600-loulan-kingdom.json](./404600-loulan-kingdom.json) |
+| Loulan: The Cursed Sand | 375479 | [375479-loulan-the-cursed-sand.json](./375479-loulan-the-cursed-sand.json) |
 | Louloudi Asteri: Save the Solar System | 251004 | [251004-louloudi-asteri-save-the-solar-system.json](./251004-louloudi-asteri-save-the-solar-system.json) |
 | Louma | 265116 | [265116-louma.json](./265116-louma.json) |
 | Lounge Café | 390247 | [390247-lounge-cafe.json](./390247-lounge-cafe.json) |
