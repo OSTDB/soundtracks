@@ -1958,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Wings: Birth of a Hero | 199585 | [199585-on-the-wings-birth-of-a-hero.json](./199585-on-the-wings-birth-of-a-hero.json) |
 | On the Wire | 171739 | [171739-on-the-wire.json](./171739-on-the-wire.json) |
 | On Thy Knees | 393483 | [393483-on-thy-knees.json](./393483-on-thy-knees.json) |
+| On Titan | 387283 | [387283-on-titan.json](./387283-on-titan.json) |
 | On Track | 292509 | [292509-on-track.json](./292509-on-track.json) |
 | On Tuesday, Trevor Found His Shovel | 267553 | [267553-on-tuesday-trevor-found-his-shovel.json](./267553-on-tuesday-trevor-found-his-shovel.json) |
 | On Wasteland | 284295 | [284295-on-wasteland.json](./284295-on-wasteland.json) |
