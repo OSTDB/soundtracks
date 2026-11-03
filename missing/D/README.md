@@ -5458,6 +5458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defendrion | 367929 | [367929-defendrion.json](./367929-defendrion.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
 | Defendun | 240681 | [240681-defendun.json](./240681-defendun.json) |
+| Defense & Making | 373777 | [373777-defense-and-making.json](./373777-defense-and-making.json) |
 | Defense & Protect Epic Towers | 231963 | [231963-defense-and-protect-epic-towers.json](./231963-defense-and-protect-epic-towers.json) |
 | Defense and Revenge | 128150 | [128150-defense-and-revenge.json](./128150-defense-and-revenge.json) |
 | Defense Breakers | 318957 | [318957-defense-breakers.json](./318957-defense-breakers.json) |
@@ -7150,6 +7151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Lightfall - Season of the Wish | 278312 | [278312-destiny-2-lightfall-season-of-the-wish.json](./278312-destiny-2-lightfall-season-of-the-wish.json) |
 | Destiny 2: Lightfall - Season of the Witch | 262531 | [262531-destiny-2-lightfall-season-of-the-witch.json](./262531-destiny-2-lightfall-season-of-the-witch.json) |
 | Destiny 2: Limited Edition | 132151 | [132151-destiny-2-limited-edition.json](./132151-destiny-2-limited-edition.json) |
+| Destiny 2: Reclamation Silver Bundle | 373476 | [373476-destiny-2-reclamation-silver-bundle.json](./373476-destiny-2-reclamation-silver-bundle.json) |
 | Destiny 2: Revenant | 319116 | [319116-destiny-2-revenant.json](./319116-destiny-2-revenant.json) |
 | Destiny 2: Revenant Silver Bundle | 326684 | [326684-destiny-2-revenant-silver-bundle.json](./326684-destiny-2-revenant-silver-bundle.json) |
 | Destiny 2: Season of the Splicer Silver Bundle | 147893 | [147893-destiny-2-season-of-the-splicer-silver-bundle.json](./147893-destiny-2-season-of-the-splicer-silver-bundle.json) |
@@ -8914,6 +8916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensional Dilemma | 330506 | [330506-dimensional-dilemma.json](./330506-dimensional-dilemma.json) |
 | Dimensional Double Shift | 317856 | [317856-dimensional-double-shift.json](./317856-dimensional-double-shift.json) |
 | Dimensional Fighter Epsilon3 | 62593 | [62593-dimensional-fighter-epsilon3.json](./62593-dimensional-fighter-epsilon3.json) |
+| Dimensional Gates | 373496 | [373496-dimensional-gates.json](./373496-dimensional-gates.json) |
 | Dimensional Gears | 214047 | [214047-dimensional-gears.json](./214047-dimensional-gears.json) |
 | Dimensional Illusion | 324879 | [324879-dimensional-illusion.json](./324879-dimensional-illusion.json) |
 | Dimensional Intersection | 33404 | [33404-dimensional-intersection.json](./33404-dimensional-intersection.json) |
@@ -11903,6 +11906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Pee | 285411 | [285411-dont-pee.json](./285411-dont-pee.json) |
 | Don't Pee in the Tub | 78565 | [78565-dont-pee-in-the-tub.json](./78565-dont-pee-in-the-tub.json) |
 | Don't Pick Up Stray Aliens | 409002 | [409002-dont-pick-up-stray-aliens.json](./409002-dont-pick-up-stray-aliens.json) |
+| Don't Play Breakout Deluxe | 373480 | [373480-dont-play-breakout-deluxe.json](./373480-dont-play-breakout-deluxe.json) |
 | Don't Play Games | 385682 | [385682-dont-play-games.json](./385682-dont-play-games.json) |
 | Don't Play Their Game | 410491 | [410491-dont-play-their-game.json](./410491-dont-play-their-game.json) |
 | Don't Play This | 390776 | [390776-dont-play-this.json](./390776-dont-play-this.json) |
@@ -13183,6 +13187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double-Dabble | 319108 | [319108-double-dabble.json](./319108-double-dabble.json) |
 | Double-Edged Blade: All Under Control | 183855 | [183855-double-edged-blade-all-under-control.json](./183855-double-edged-blade-all-under-control.json) |
 | Double-Entry Bookkeeping Simulator | 188549 | [188549-double-entry-bookkeeping-simulator.json](./188549-double-entry-bookkeeping-simulator.json) |
+| Double-Sided Aces | 373773 | [373773-double-sided-aces.json](./373773-double-sided-aces.json) |
 | Double-Wings | 39286 | [39286-double-wings.json](./39286-double-wings.json) |
 | Doubleback | 42148 | [42148-doubleback.json](./42148-doubleback.json) |
 | DoubleClutch 2: Basketball | 266262 | [266262-doubleclutch-2-basketball.json](./266262-doubleclutch-2-basketball.json) |
@@ -15601,6 +15606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreggon | 183318 | [183318-dreggon.json](./183318-dreggon.json) |
 | DREGS | 409618 | [409618-dregs.json](./409618-dregs.json) |
 | Drehmal: Apotheosis | 336548 | [336548-drehmal-apotheosis.json](./336548-drehmal-apotheosis.json) |
+| Dreiframe | 373666 | [373666-dreiframe.json](./373666-dreiframe.json) |
 | Dreii | 36296 | [36296-dreii.json](./36296-dreii.json) |
 | Drekirökr: Dusk of the Dragon | 171731 | [171731-drekirokr-dusk-of-the-dragon.json](./171731-drekirokr-dusk-of-the-dragon.json) |
 | Drelbs | 13841 | [13841-drelbs.json](./13841-drelbs.json) |
