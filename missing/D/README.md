@@ -3947,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Metal | 31788 | [31788-deadly-metal.json](./31788-deadly-metal.json) |
 | Deadly Metropolis | 359516 | [359516-deadly-metropolis.json](./359516-deadly-metropolis.json) |
 | Deadly Moves | 46225 | [46225-deadly-moves.json](./46225-deadly-moves.json) |
+| Deadly Neighbors 2 | 368200 | [368200-deadly-neighbors-2.json](./368200-deadly-neighbors-2.json) |
 | Deadly New Zealand | 407513 | [407513-deadly-new-zealand.json](./407513-deadly-new-zealand.json) |
 | Deadly Night | 207405 | [207405-deadly-night.json](./207405-deadly-night.json) |
 | Deadly Nightmare | 190084 | [190084-deadly-nightmare.json](./190084-deadly-nightmare.json) |
@@ -4197,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death at Cape Porto: A Dana Knightstone Novel | 418427 | [418427-death-at-cape-porto-a-dana-knightstone-novel.json](./418427-death-at-cape-porto-a-dana-knightstone-novel.json) |
 | Death at Cape Porto: A Dana Knightstone Novel - Collector's Edition | 228254 | [228254-death-at-cape-porto-a-dana-knightstone-novel-collectors-edition.json](./228254-death-at-cape-porto-a-dana-knightstone-novel-collectors-edition.json) |
 | Death at Fairing Point: A Dana Knightstone Novel | 65722 | [65722-death-at-fairing-point-a-dana-knightstone-novel.json](./65722-death-at-fairing-point-a-dana-knightstone-novel.json) |
+| Death at Fleming Manor | 368174 | [368174-death-at-fleming-manor.json](./368174-death-at-fleming-manor.json) |
 | Death at Sycamore Hall | 388250 | [388250-death-at-sycamore-hall.json](./388250-death-at-sycamore-hall.json) |
 | Death Becomes You | 153884 | [153884-death-becomes-you.json](./153884-death-becomes-you.json) |
 | Death Becomes You: Yuri Onsen Vacation | 339370 | [339370-death-becomes-you-yuri-onsen-vacation.json](./339370-death-becomes-you-yuri-onsen-vacation.json) |
@@ -12251,6 +12253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dont Buzz | 26851 | [26851-dont-buzz.json](./26851-dont-buzz.json) |
 | Dont Jump: Gamesforfarm | 364592 | [364592-dont-jump-gamesforfarm.json](./364592-dont-jump-gamesforfarm.json) |
 | Dont Play This Game.exe | 98538 | [98538-dont-play-this-game-exe.json](./98538-dont-play-this-game-exe.json) |
+| Dont Red: SIM Trading | 368189 | [368189-dont-red-sim-trading.json](./368189-dont-red-sim-trading.json) |
 | Dont Touch Your Face | 250564 | [250564-dont-touch-your-face.json](./250564-dont-touch-your-face.json) |
 | Dontbegrey | 51965 | [51965-dontbegrey.json](./51965-dontbegrey.json) |
 | Dontcrush | 384177 | [384177-dontcrush.json](./384177-dontcrush.json) |
@@ -13774,6 +13777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Battle Top Fuel | 192870 | [192870-drag-battle-top-fuel.json](./192870-drag-battle-top-fuel.json) |
 | Drag Boat Speed Racing | 243312 | [243312-drag-boat-speed-racing.json](./243312-drag-boat-speed-racing.json) |
 | Drag Clash Pro: Hot Rod Racing | 194254 | [194254-drag-clash-pro-hot-rod-racing.json](./194254-drag-clash-pro-hot-rod-racing.json) |
+| Drag Deal | 368191 | [368191-drag-deal.json](./368191-drag-deal.json) |
 | Drag Engineer | 171301 | [171301-drag-engineer.json](./171301-drag-engineer.json) |
 | Drag Fight | 208981 | [208981-drag-fight.json](./208981-drag-fight.json) |
 | Drag Journey | 215113 | [215113-drag-journey.json](./215113-drag-journey.json) |
@@ -14903,6 +14907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Sword | 359540 | [359540-draw-sword.json](./359540-draw-sword.json) |
 | Draw the Hands | 405580 | [405580-draw-the-hands.json](./405580-draw-the-hands.json) |
 | Draw the Line | 85101 | [85101-draw-the-line.json](./85101-draw-the-line.json) |
+| Draw the Road | 368192 | [368192-draw-the-road.json](./368192-draw-the-road.json) |
 | Draw the Way | 29833 | [29833-draw-the-way.json](./29833-draw-the-way.json) |
 | Draw to Collect: Sorting Line | 231965 | [231965-draw-to-collect-sorting-line.json](./231965-draw-to-collect-sorting-line.json) |
 | Draw to Smash: Logic Puzzle | 372148 | [372148-draw-to-smash-logic-puzzle.json](./372148-draw-to-smash-logic-puzzle.json) |
