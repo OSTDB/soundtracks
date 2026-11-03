@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Handful of Recurring Dreams | 184195 | [184195-a-handful-of-recurring-dreams.json](./184195-a-handful-of-recurring-dreams.json) |
 | A Happy New Year | 324964 | [324964-a-happy-new-year.json](./324964-a-happy-new-year.json) |
 | A Happy Place | 376114 | [376114-a-happy-place.json](./376114-a-happy-place.json) |
+| A Happy Summer of Loving You | 355838 | [355838-a-happy-summer-of-loving-you.json](./355838-a-happy-summer-of-loving-you.json) |
 | A Happy Valentine | 225237 | [225237-a-happy-valentine.json](./225237-a-happy-valentine.json) |
 | A Harvesting Moon | 55089 | [55089-a-harvesting-moon.json](./55089-a-harvesting-moon.json) |
 | A Hat in Time: Deluxe Edition | 237862 | [237862-a-hat-in-time-deluxe-edition.json](./237862-a-hat-in-time-deluxe-edition.json) |
@@ -2908,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actua Soccer: Club Edition | 1992 | [1992-actua-soccer-club-edition.json](./1992-actua-soccer-club-edition.json) |
 | Actua Tennis | 44736 | [44736-actua-tennis.json](./44736-actua-tennis.json) |
 | Actual Crimes: Jack the Ripper | 20411 | [20411-actual-crimes-jack-the-ripper.json](./20411-actual-crimes-jack-the-ripper.json) |
+| Actual Roommates! | 355968 | [355968-actual-roommates.json](./355968-actual-roommates.json) |
 | Actually Additions | 232420 | [232420-actually-additions.json](./232420-actually-additions.json) |
 | Actually: There's nothing | 141161 | [141161-actually-theres-nothing.json](./141161-actually-theres-nothing.json) |
 | Actuator: Overt Abnormality | 379474 | [379474-actuator-overt-abnormality.json](./379474-actuator-overt-abnormality.json) |
