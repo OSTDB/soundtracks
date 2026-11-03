@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necro Survivors | 400666 | [400666-necro-survivors.json](./400666-necro-survivors.json) |
 | Necro Wars | 127261 | [127261-necro-wars.json](./127261-necro-wars.json) |
 | Necro-Matcher | 420327 | [420327-necro-matcher.json](./420327-necro-matcher.json) |
+| Necroa Village | 370052 | [370052-necroa-village.json](./370052-necroa-village.json) |
 | NecroArcher | 199359 | [199359-necroarcher.json](./199359-necroarcher.json) |
 | NecroAttack! | 261676 | [261676-necroattack.json](./261676-necroattack.json) |
 | Necrobarista | 26870 | [26870-necrobarista.json](./26870-necrobarista.json) |
@@ -3446,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Objective | 417744 | [417744-next-objective.json](./417744-next-objective.json) |
 | Next of Kin | 306388 | [306388-next-of-kin.json](./306388-next-of-kin.json) |
 | Next of Kin: Epiphany | 420665 | [420665-next-of-kin-epiphany.json](./420665-next-of-kin-epiphany.json) |
+| Next of Kin: Fidelity | 370811 | [370811-next-of-kin-fidelity.json](./370811-next-of-kin-fidelity.json) |
 | Next Patient | 386899 | [386899-next-patient.json](./386899-next-patient.json) |
 | Next Player Please | 204346 | [204346-next-player-please.json](./204346-next-player-please.json) |
 | Next Power | 242772 | [242772-next-power.json](./242772-next-power.json) |
@@ -4857,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden 3: Collector's Edition | 47464 | [47464-ninja-gaiden-3-collectors-edition.json](./47464-ninja-gaiden-3-collectors-edition.json) |
 | Ninja Gaiden 3: Razor's Edge | 5317 | [5317-ninja-gaiden-3-razors-edge.json](./5317-ninja-gaiden-3-razors-edge.json) |
 | Ninja Gaiden 3DS | 269572 | [269572-ninja-gaiden-3ds.json](./269572-ninja-gaiden-3ds.json) |
+| Ninja Gaiden 4: The Two Masters | 370951 | [370951-ninja-gaiden-4-the-two-masters.json](./370951-ninja-gaiden-4-the-two-masters.json) |
 | Ninja Gaiden Black | 18735 | [18735-ninja-gaiden-black.json](./18735-ninja-gaiden-black.json) |
 | Ninja Gaiden Clans | 65046 | [65046-ninja-gaiden-clans.json](./65046-ninja-gaiden-clans.json) |
 | Ninja Gaiden Hurricane Pack II | 215548 | [215548-ninja-gaiden-hurricane-pack-ii.json](./215548-ninja-gaiden-hurricane-pack-ii.json) |
@@ -7166,6 +7169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Crush | 366321 | [366321-number-crush.json](./366321-number-crush.json) |
 | Number Days Sim Date | 197614 | [197614-number-days-sim-date.json](./197614-number-days-sim-date.json) |
 | Number Drawing - Coloring Book | 88990 | [88990-number-drawing-coloring-book.json](./88990-number-drawing-coloring-book.json) |
+| Number Drop | 370389 | [370389-number-drop.json](./370389-number-drop.json) |
 | Number Dungeon | 388364 | [388364-number-dungeon.json](./388364-number-dungeon.json) |
 | Number Fields | 325904 | [325904-number-fields.json](./325904-number-fields.json) |
 | Number Gacha | 402241 | [402241-number-gacha.json](./402241-number-gacha.json) |
