@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4517,6 +4518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Not Afraid: Threads of Light | 383098 | [383098-be-not-afraid-threads-of-light.json](./383098-be-not-afraid-threads-of-light.json) |
 | Be Nunner | 391051 | [391051-be-nunner.json](./391051-be-nunner.json) |
 | Be Our Guest | 334274 | [334274-be-our-guest.json](./334274-be-our-guest.json) |
+| Be Queen Bee | 385768 | [385768-be-queen-bee.json](./385768-be-queen-bee.json) |
 | Be Quiet!: Act One | 170421 | [170421-be-quiet-act-one.json](./170421-be-quiet-act-one.json) |
 | Be Richest! | 140984 | [140984-be-richest.json](./140984-be-richest.json) |
 | Be Silent | 291840 | [291840-be-silent.json](./291840-be-silent.json) |
@@ -10003,6 +10005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block N Load 2 | 204443 | [204443-block-n-load-2.json](./204443-block-n-load-2.json) |
 | Block Out | 135457 | [135457-block-out.json](./135457-block-out.json) |
 | Block Out | 246386 | [246386-block-out.json](./246386-block-out.json) |
+| Block Out | 385508 | [385508-block-out.json](./385508-block-out.json) |
 | Block Paradise | 303362 | [303362-block-paradise.json](./303362-block-paradise.json) |
 | Block Parkour Craft 3D | 104548 | [104548-block-parkour-craft-3d.json](./104548-block-parkour-craft-3d.json) |
 | Block Party | 259985 | [259985-block-party.json](./259985-block-party.json) |
@@ -11703,6 +11706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku no Bottakuri Bar 3: Sekai shinshutsu-hen | 208733 | [208733-boku-no-bottakuri-bar-3-sekai-shinshutsu-hen.json](./208733-boku-no-bottakuri-bar-3-sekai-shinshutsu-hen.json) |
 | Boku no Choro-Q | 59440 | [59440-boku-no-choro-q.json](./59440-boku-no-choro-q.json) |
 | Boku no Enikki | 148242 | [148242-boku-no-enikki.json](./148242-boku-no-enikki.json) |
+| Boku no Fiancée | 385773 | [385773-boku-no-fiancee.json](./385773-boku-no-fiancee.json) |
 | Boku no Knife de Kimi wo Tasuketai | 299585 | [299585-boku-no-knife-de-kimi-wo-tasuketai.json](./299585-boku-no-knife-de-kimi-wo-tasuketai.json) |
 | Boku no Kokoro ha Ame Nochi Hare | 395080 | [395080-boku-no-kokoro-ha-ame-nochi-hare.json](./395080-boku-no-kokoro-ha-ame-nochi-hare.json) |
 | Boku no Komayama wo Mamotte | 308901 | [308901-boku-no-komayama-wo-mamotte.json](./308901-boku-no-komayama-wo-mamotte.json) |
@@ -12927,6 +12931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boti: Byteland Overclocked - Hidden Giftware | 285112 | [285112-boti-byteland-overclocked-hidden-giftware.json](./285112-boti-byteland-overclocked-hidden-giftware.json) |
 | Boticaria | 414028 | [414028-boticaria.json](./414028-boticaria.json) |
 | Botics | 14336 | [14336-botics.json](./14336-botics.json) |
+| Botinator | 385519 | [385519-botinator.json](./385519-botinator.json) |
 | Botlike: A Robot's Rampage | 53310 | [53310-botlike-a-robots-rampage.json](./53310-botlike-a-robots-rampage.json) |
 | Botlings | 400729 | [400729-botlings.json](./400729-botlings.json) |
 | Botmare | 408414 | [408414-botmare.json](./408414-botmare.json) |
@@ -13538,6 +13543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing | 231744 | [231744-boxing.json](./231744-boxing.json) |
 | Boxing | 246996 | [246996-boxing.json](./246996-boxing.json) |
 | Boxing | 311980 | [311980-boxing.json](./311980-boxing.json) |
+| Boxing | 385517 | [385517-boxing.json](./385517-boxing.json) |
 | Boxing | 55103 | [55103-boxing.json](./55103-boxing.json) |
 | Boxing | 5663 | [5663-boxing.json](./5663-boxing.json) |
 | Boxing | 78619 | [78619-boxing.json](./78619-boxing.json) |
@@ -14457,6 +14463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout | 228318 | [228318-breakout.json](./228318-breakout.json) |
 | Breakout | 308606 | [308606-breakout.json](./308606-breakout.json) |
 | Breakout | 328918 | [328918-breakout.json](./328918-breakout.json) |
+| Breakout | 385513 | [385513-breakout.json](./385513-breakout.json) |
 | Breakout | 85967 | [85967-breakout.json](./85967-breakout.json) |
 | Breakout 13 | 212735 | [212735-breakout-13.json](./212735-breakout-13.json) |
 | Breakout 2000 | 40816 | [40816-breakout-2000.json](./40816-breakout-2000.json) |
@@ -17483,6 +17490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bye Sweet Carole: Deluxe Edition | 401673 | [401673-bye-sweet-carole-deluxe-edition.json](./401673-bye-sweet-carole-deluxe-edition.json) |
 | Bye-Bye Bindings! | 368364 | [368364-bye-bye-bindings.json](./368364-bye-bye-bindings.json) |
 | Bye-Bye Boxboy! | 26350 | [26350-bye-bye-boxboy.json](./26350-bye-bye-boxboy.json) |
+| Bye, Bye Birdie | 385515 | [385515-bye-bye-birdie.json](./385515-bye-bye-birdie.json) |
 | ByeByeObake! | 425849 | [425849-byebyeobake.json](./425849-byebyeobake.json) |
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
 | Bygg Båtar med Mulle Meck | 97733 | [97733-bygg-batar-med-mulle-meck.json](./97733-bygg-batar-med-mulle-meck.json) |
