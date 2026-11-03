@@ -5531,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deformers | 207118 | [207118-deformers.json](./207118-deformers.json) |
 | Deformity | 189854 | [189854-deformity.json](./189854-deformity.json) |
 | Deformuseum | 405485 | [405485-deformuseum.json](./405485-deformuseum.json) |
+| Defracted | 393231 | [393231-defracted.json](./393231-defracted.json) |
 | Defrag | 136116 | [136116-defrag.json](./136116-defrag.json) |
 | Defrag Incremental | 404516 | [404516-defrag-incremental.json](./404516-defrag-incremental.json) |
 | Defrag Memories | 203643 | [203643-defrag-memories.json](./203643-defrag-memories.json) |
@@ -17028,6 +17029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Cleaning Express | 114974 | [114974-dungeon-cleaning-express.json](./114974-dungeon-cleaning-express.json) |
 | Dungeon Clicker | 150405 | [150405-dungeon-clicker.json](./150405-dungeon-clicker.json) |
 | Dungeon Color | 190226 | [190226-dungeon-color.json](./190226-dungeon-color.json) |
+| Dungeon Companion | 393205 | [393205-dungeon-companion.json](./393205-dungeon-companion.json) |
 | Dungeon Concierge | 377812 | [377812-dungeon-concierge.json](./377812-dungeon-concierge.json) |
 | Dungeon Conqueror | 166172 | [166172-dungeon-conqueror.json](./166172-dungeon-conqueror.json) |
 | Dungeon Construction Co | 96196 | [96196-dungeon-construction-co.json](./96196-dungeon-construction-co.json) |
