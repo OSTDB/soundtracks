@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Playground: Cute Pets | 357373 | [357373-hamster-playground-cute-pets.json](./357373-hamster-playground-cute-pets.json) |
 | Hamster Playground: Fun & Challenge Games Pack | 332019 | [332019-hamster-playground-fun-and-challenge-games-pack.json](./332019-hamster-playground-fun-and-challenge-games-pack.json) |
 | Hamster Playground: Spooky Hamster House | 226708 | [226708-hamster-playground-spooky-hamster-house.json](./226708-hamster-playground-spooky-hamster-house.json) |
+| Hamster Quest | 385346 | [385346-hamster-quest.json](./385346-hamster-quest.json) |
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
 | Hamster Survival | 228898 | [228898-hamster-survival.json](./228898-hamster-survival.json) |
 | Hamster Town | 222833 | [222833-hamster-town.json](./222833-hamster-town.json) |
@@ -4556,8 +4557,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Balloons 2 | 156637 | [156637-hentai-balloons-2.json](./156637-hentai-balloons-2.json) |
 | Hentai Balls 3D: Heavy Attraction | 380701 | [380701-hentai-balls-3d-heavy-attraction.json](./380701-hentai-balls-3d-heavy-attraction.json) |
 | Hentai Balls 3D: Perfect Motion | 386540 | [386540-hentai-balls-3d-perfect-motion.json](./386540-hentai-balls-3d-perfect-motion.json) |
+| Hentai Balls 3D: Rise of the Curves | 385103 | [385103-hentai-balls-3d-rise-of-the-curves.json](./385103-hentai-balls-3d-rise-of-the-curves.json) |
 | Hentai Balls 3D: Sexy Girls | 390497 | [390497-hentai-balls-3d-sexy-girls.json](./390497-hentai-balls-3d-sexy-girls.json) |
 | Hentai Balls v3 | 365410 | [365410-hentai-balls-v3.json](./365410-hentai-balls-v3.json) |
+| Hentai Banana | 385102 | [385102-hentai-banana.json](./385102-hentai-banana.json) |
 | Hentai Barmaid | 389183 | [389183-hentai-barmaid.json](./389183-hentai-barmaid.json) |
 | Hentai Bath | 371039 | [371039-hentai-bath.json](./371039-hentai-bath.json) |
 | Hentai Battle Royale | 105632 | [105632-hentai-battle-royale.json](./105632-hentai-battle-royale.json) |
@@ -4704,7 +4707,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Gallery: Hot Fantasy | 378805 | [378805-hentai-gallery-hot-fantasy.json](./378805-hentai-gallery-hot-fantasy.json) |
 | Hentai Gallery: Lovely Angels | 381004 | [381004-hentai-gallery-lovely-angels.json](./381004-hentai-gallery-lovely-angels.json) |
 | Hentai Gallery: Perfect Bodies | 381706 | [381706-hentai-gallery-perfect-bodies.json](./381706-hentai-gallery-perfect-bodies.json) |
+| Hentai Gallery: Private Secrets | 385101 | [385101-hentai-gallery-private-secrets.json](./385101-hentai-gallery-private-secrets.json) |
+| Hentai Gallery: Pure Desire | 385100 | [385100-hentai-gallery-pure-desire.json](./385100-hentai-gallery-pure-desire.json) |
 | Hentai Gallery: Secret Beauties | 378806 | [378806-hentai-gallery-secret-beauties.json](./378806-hentai-gallery-secret-beauties.json) |
+| Hentai Gallery: Sexy Souls | 385099 | [385099-hentai-gallery-sexy-souls.json](./385099-hentai-gallery-sexy-souls.json) |
+| Hentai Gallery: Tender Touch | 385098 | [385098-hentai-gallery-tender-touch.json](./385098-hentai-gallery-tender-touch.json) |
 | Hentai Games Collection | 305906 | [305906-hentai-games-collection.json](./305906-hentai-games-collection.json) |
 | Hentai Games Collection Vol. 2 | 355053 | [355053-hentai-games-collection-vol-2.json](./355053-hentai-games-collection-vol-2.json) |
 | Hentai Games Collection Vol. 3 | 362202 | [362202-hentai-games-collection-vol-3.json](./362202-hentai-games-collection-vol-3.json) |
