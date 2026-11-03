@@ -11141,6 +11141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freight Tycoon | 176891 | [176891-freight-tycoon.json](./176891-freight-tycoon.json) |
 | Freight Tycoon Inc. | 10335 | [10335-freight-tycoon-inc.json](./10335-freight-tycoon-inc.json) |
 | Freiwillig | 151072 | [151072-freiwillig.json](./151072-freiwillig.json) |
+| Fremd Wagen: Mod Chaos | 391960 | [391960-fremd-wagen-mod-chaos.json](./391960-fremd-wagen-mod-chaos.json) |
 | Fremdganger: The Cheating Demon | 240297 | [240297-fremdganger-the-cheating-demon.json](./240297-fremdganger-the-cheating-demon.json) |
 | French Crime | 132048 | [132048-french-crime.json](./132048-french-crime.json) |
 | French Fries Pusher Friends | 285937 | [285937-french-fries-pusher-friends.json](./285937-french-fries-pusher-friends.json) |
