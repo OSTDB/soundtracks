@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.R.I.L.L. - Dynamix VR | 81743 | [81743-d-r-i-l-l-dynamix-vr.json](./81743-d-r-i-l-l-dynamix-vr.json) |
 | D.R.O.N.E.: The Game | 113082 | [113082-d-r-o-n-e-the-game.json](./113082-d-r-o-n-e-the-game.json) |
 | D.S. Dal Segno: Limited Edition | 212327 | [212327-d-s-dal-segno-limited-edition.json](./212327-d-s-dal-segno-limited-edition.json) |
+| D.S.A | 385114 | [385114-d-s-a.json](./385114-d-s-a.json) |
 | D.S.A. | 229634 | [229634-d-s-a.json](./229634-d-s-a.json) |
 | D.U.C.K.: Dangerous Ultimate Cartridge Kidnapper | 217487 | [217487-d-u-c-k-dangerous-ultimate-cartridge-kidnapper.json](./217487-d-u-c-k-dangerous-ultimate-cartridge-kidnapper.json) |
 | D.U.M.B. Ducks | 322425 | [322425-d-u-m-b-ducks.json](./322425-d-u-m-b-ducks.json) |
@@ -8604,6 +8605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digging a Hole: Gold Fever | 345989 | [345989-digging-a-hole-gold-fever.json](./345989-digging-a-hole-gold-fever.json) |
 | Digging A Hole: Journey to the Core | 351095 | [351095-digging-a-hole-journey-to-the-core.json](./351095-digging-a-hole-journey-to-the-core.json) |
 | Digging a Hole... with a Spoon... Escape from Alcatraz | 383483 | [383483-digging-a-hole-with-a-spoon-escape-from-alcatraz.json](./383483-digging-a-hole-with-a-spoon-escape-from-alcatraz.json) |
+| Digging And Selling: Simulator 2025 | 385118 | [385118-digging-and-selling-simulator-2025.json](./385118-digging-and-selling-simulator-2025.json) |
 | Digging Day | 122920 | [122920-digging-day.json](./122920-digging-day.json) |
 | Digging Dogs | 357862 | [357862-digging-dogs.json](./357862-digging-dogs.json) |
 | Digging Down | 384532 | [384532-digging-down.json](./384532-digging-down.json) |
@@ -9354,6 +9356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Directorate Novitiate | 330025 | [330025-directorate-novitiate.json](./330025-directorate-novitiate.json) |
 | Directory Dungeon | 387158 | [387158-directory-dungeon.json](./387158-directory-dungeon.json) |
 | Direland | 396883 | [396883-direland.json](./396883-direland.json) |
+| Direstead Settlers | 385116 | [385116-direstead-settlers.json](./385116-direstead-settlers.json) |
 | Dirge | 145680 | [145680-dirge.json](./145680-dirge.json) |
 | Dirge For The Zone | 295216 | [295216-dirge-for-the-zone.json](./295216-dirge-for-the-zone.json) |
 | Dirge of Cerberus: Final Fantasy VII | 18068 | [18068-dirge-of-cerberus-final-fantasy-vii.json](./18068-dirge-of-cerberus-final-fantasy-vii.json) |
