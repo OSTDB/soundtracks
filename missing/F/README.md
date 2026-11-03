@@ -12914,6 +12914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Girlfriend Simulator | 367038 | [367038-furry-girlfriend-simulator.json](./367038-furry-girlfriend-simulator.json) |
 | Furry Girls Paradise: Love & Fun | 386793 | [386793-furry-girls-paradise-love-and-fun.json](./386793-furry-girls-paradise-love-and-fun.json) |
 | Furry Glory | 227441 | [227441-furry-glory.json](./227441-furry-glory.json) |
+| Furry Hearts | 394979 | [394979-furry-hearts.json](./394979-furry-hearts.json) |
 | Furry Hentai Isekai | 201587 | [201587-furry-hentai-isekai.json](./201587-furry-hentai-isekai.json) |
 | Furry Hentai Quest | 192460 | [192460-furry-hentai-quest.json](./192460-furry-hentai-quest.json) |
 | Furry Heroes | 150431 | [150431-furry-heroes.json](./150431-furry-heroes.json) |
