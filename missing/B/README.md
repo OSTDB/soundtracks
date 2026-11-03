@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2824,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 324978 | [324978-baseball.json](./324978-baseball.json) |
 | Baseball | 347009 | [347009-baseball.json](./347009-baseball.json) |
 | Baseball | 358833 | [358833-baseball.json](./358833-baseball.json) |
+| Baseball | 359298 | [359298-baseball.json](./359298-baseball.json) |
 | Baseball | 7580 | [7580-baseball.json](./7580-baseball.json) |
 | Baseball | 7581 | [7581-baseball.json](./7581-baseball.json) |
 | Baseball | 7582 | [7582-baseball.json](./7582-baseball.json) |
@@ -4650,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Volley Hot Sports | 52449 | [52449-beach-volley-hot-sports.json](./52449-beach-volley-hot-sports.json) |
 | Beach Volleyball | 278855 | [278855-beach-volleyball.json](./278855-beach-volleyball.json) |
 | Beach Volleyball | 359223 | [359223-beach-volleyball.json](./359223-beach-volleyball.json) |
+| Beach Volleyball | 359297 | [359297-beach-volleyball.json](./359297-beach-volleyball.json) |
 | Beach Volleyball 2016 | 175203 | [175203-beach-volleyball-2016.json](./175203-beach-volleyball-2016.json) |
 | Beach Volleyball Boys: Hot Spike | 412948 | [412948-beach-volleyball-boys-hot-spike.json](./412948-beach-volleyball-boys-hot-spike.json) |
 | Beach Volleyball Competition | 169635 | [169635-beach-volleyball-competition.json](./169635-beach-volleyball-competition.json) |
@@ -13645,6 +13648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing | 231744 | [231744-boxing.json](./231744-boxing.json) |
 | Boxing | 246996 | [246996-boxing.json](./246996-boxing.json) |
 | Boxing | 311980 | [311980-boxing.json](./311980-boxing.json) |
+| Boxing | 359293 | [359293-boxing.json](./359293-boxing.json) |
 | Boxing | 385517 | [385517-boxing.json](./385517-boxing.json) |
 | Boxing | 55103 | [55103-boxing.json](./55103-boxing.json) |
 | Boxing | 5663 | [5663-boxing.json](./5663-boxing.json) |
