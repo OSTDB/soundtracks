@@ -5646,6 +5646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Factory Crew | 293851 | [293851-beer-factory-crew.json](./293851-beer-factory-crew.json) |
 | Beer Gunner | 399251 | [399251-beer-gunner.json](./399251-beer-gunner.json) |
 | Beer League Hockey | 241809 | [241809-beer-league-hockey.json](./241809-beer-league-hockey.json) |
+| Beer Machine | 374316 | [374316-beer-machine.json](./374316-beer-machine.json) |
 | Beer Manufacture Simulator | 373268 | [373268-beer-manufacture-simulator.json](./373268-beer-manufacture-simulator.json) |
 | Beer Pong : Trickshot | 90694 | [90694-beer-pong-trickshot.json](./90694-beer-pong-trickshot.json) |
 | Beer Pong AR | 95770 | [95770-beer-pong-ar.json](./95770-beer-pong-ar.json) |
