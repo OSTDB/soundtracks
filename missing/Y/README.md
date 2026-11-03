@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi no Panepon | 219010 | [219010-yoshi-no-panepon.json](./219010-yoshi-no-panepon.json) |
 | Yoshi Racing | 175959 | [175959-yoshi-racing.json](./175959-yoshi-racing.json) |
 | Yoshi Tanks | 320227 | [320227-yoshi-tanks.json](./320227-yoshi-tanks.json) |
+| Yoshi Tanks Kawaii | 368748 | [368748-yoshi-tanks-kawaii.json](./368748-yoshi-tanks-kawaii.json) |
 | Yoshi Touch & Go | 18329 | [18329-yoshi-touch-and-go.json](./18329-yoshi-touch-and-go.json) |
 | Yoshi Touch & Go | 231475 | [231475-yoshi-touch-and-go.json](./231475-yoshi-touch-and-go.json) |
 | Yoshi vs. Windows | 141624 | [141624-yoshi-vs-windows.json](./141624-yoshi-vs-windows.json) |
@@ -1041,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are Undead | 180665 | [180665-you-are-undead.json](./180665-you-are-undead.json) |
 | You Arrive In A Town | 138653 | [138653-you-arrive-in-a-town.json](./138653-you-arrive-in-a-town.json) |
 | You Brought a Shield to a Tentacle Fight | 181791 | [181791-you-brought-a-shield-to-a-tentacle-fight.json](./181791-you-brought-a-shield-to-a-tentacle-fight.json) |
+| You Can Buy Every Upgrade | 368743 | [368743-you-can-buy-every-upgrade.json](./368743-you-can-buy-every-upgrade.json) |
 | You Can Do!mino | 234271 | [234271-you-can-do-mino.json](./234271-you-can-do-mino.json) |
 | You Can Kana | 229890 | [229890-you-can-kana.json](./229890-you-can-kana.json) |
 | You can not be there | 229013 | [229013-you-can-not-be-there.json](./229013-you-can-not-be-there.json) |
