@@ -886,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offensive Combat: Redux! | 54697 | [54697-offensive-combat-redux.json](./54697-offensive-combat-redux.json) |
 | Offensive Dimensions | 75782 | [75782-offensive-dimensions.json](./75782-offensive-dimensions.json) |
 | OffiAtrix: Rise of the Team Leader | 332841 | [332841-offiatrix-rise-of-the-team-leader.json](./332841-offiatrix-rise-of-the-team-leader.json) |
+| Office 5 | 372953 | [372953-office-5.json](./372953-office-5.json) |
 | Office Aberrations | 366543 | [366543-office-aberrations.json](./366543-office-aberrations.json) |
 | Office Affairs | 258819 | [258819-office-affairs.json](./258819-office-affairs.json) |
 | Office After Hours | 319730 | [319730-office-after-hours.json](./319730-office-after-hours.json) |
@@ -4601,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Darkest Night | 30793 | [30793-our-darkest-night.json](./30793-our-darkest-night.json) |
 | Our Dollhouse | 294219 | [294219-our-dollhouse.json](./294219-our-dollhouse.json) |
 | Our Doomed Bunker | 293008 | [293008-our-doomed-bunker.json](./293008-our-doomed-bunker.json) |
+| Our Dreadling | 372960 | [372960-our-dreadling.json](./372960-our-dreadling.json) |
 | Our Dying World | 203781 | [203781-our-dying-world.json](./203781-our-dying-world.json) |
 | Our End of the World | 36889 | [36889-our-end-of-the-world.json](./36889-our-end-of-the-world.json) |
 | Our Ephemeral Nights | 377032 | [377032-our-ephemeral-nights.json](./377032-our-ephemeral-nights.json) |
