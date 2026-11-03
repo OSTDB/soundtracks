@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Meatbags | 191552 | [191552-wandering-meatbags.json](./191552-wandering-meatbags.json) |
 | Wandering Memories | 372183 | [372183-wandering-memories.json](./372183-wandering-memories.json) |
 | Wandering Monolith | 319831 | [319831-wandering-monolith.json](./319831-wandering-monolith.json) |
+| Wandering Okali | 358609 | [358609-wandering-okali.json](./358609-wandering-okali.json) |
 | Wandering Owl | 107420 | [107420-wandering-owl.json](./107420-wandering-owl.json) |
 | Wandering Pet Garden | 297892 | [297892-wandering-pet-garden.json](./297892-wandering-pet-garden.json) |
 | Wandering Petal | 304909 | [304909-wandering-petal.json](./304909-wandering-petal.json) |
@@ -3144,6 +3145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Amsoft Side B | 39129 | [39129-welcome-to-amsoft-side-b.json](./39129-welcome-to-amsoft-side-b.json) |
 | Welcome to Basingstoke | 364816 | [364816-welcome-to-basingstoke.json](./364816-welcome-to-basingstoke.json) |
 | Welcome to Bodyland | 374020 | [374020-welcome-to-bodyland.json](./374020-welcome-to-bodyland.json) |
+| Welcome To Bon's Burgers | 358573 | [358573-welcome-to-bons-burgers.json](./358573-welcome-to-bons-burgers.json) |
 | Welcome to Brightville | 339224 | [339224-welcome-to-brightville.json](./339224-welcome-to-brightville.json) |
 | Welcome to Bulletheck | 298784 | [298784-welcome-to-bulletheck.json](./298784-welcome-to-bulletheck.json) |
 | Welcome to Bunny Farm | 338385 | [338385-welcome-to-bunny-farm.json](./338385-welcome-to-bunny-farm.json) |
