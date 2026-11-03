@@ -2112,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Syndrome 3 | 151527 | [151527-paranormal-syndrome-3.json](./151527-paranormal-syndrome-3.json) |
 | Paranormal Syndrome: R Dolls Edition | 261219 | [261219-paranormal-syndrome-r-dolls-edition.json](./261219-paranormal-syndrome-r-dolls-edition.json) |
 | Paranormal Tales | 222843 | [222843-paranormal-tales.json](./222843-paranormal-tales.json) |
+| Paranormal Tape: Karak | 350311 | [350311-paranormal-tape-karak.json](./350311-paranormal-tape-karak.json) |
 | Paranormal Teens | 30689 | [30689-paranormal-teens.json](./30689-paranormal-teens.json) |
 | Paranormal Territory 2 | 91974 | [91974-paranormal-territory-2.json](./91974-paranormal-territory-2.json) |
 | Paranormal Torment | 345546 | [345546-paranormal-torment.json](./345546-paranormal-torment.json) |
@@ -11103,6 +11104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker 1 | 86065 | [86065-poker-1.json](./86065-poker-1.json) |
 | Poker Academy: Texas Hold 'Em Version | 209349 | [209349-poker-academy-texas-hold-em-version.json](./209349-poker-academy-texas-hold-em-version.json) |
 | Poker Academy: Texas Hold'em 2 | 209350 | [209350-poker-academy-texas-holdem-2.json](./209350-poker-academy-texas-holdem-2.json) |
+| Poker Adventurers | 350172 | [350172-poker-adventurers.json](./350172-poker-adventurers.json) |
 | Poker Ball | 68542 | [68542-poker-ball.json](./68542-poker-ball.json) |
 | Poker Champion: Texas Hold'em | 163169 | [163169-poker-champion-texas-holdem.json](./163169-poker-champion-texas-holdem.json) |
 | Poker Championship | 284515 | [284515-poker-championship.json](./284515-poker-championship.json) |
@@ -11701,6 +11703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyrhythm Master | 235175 | [235175-polyrhythm-master.json](./235175-polyrhythm-master.json) |
 | Polyroll | 87936 | [87936-polyroll.json](./87936-polyroll.json) |
 | Polyroll Pocket | 258399 | [258399-polyroll-pocket.json](./258399-polyroll-pocket.json) |
+| Polyrose | 350139 | [350139-polyrose.json](./350139-polyrose.json) |
 | PolyRoyale | 364034 | [364034-polyroyale.json](./364034-polyroyale.json) |
 | Polyrun | 120960 | [120960-polyrun.json](./120960-polyrun.json) |
 | Polysemy‌ | 326187 | [326187-polysemy.json](./326187-polysemy.json) |
@@ -12317,6 +12320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porcupine's Fate: Chapter 1 | 196694 | [196694-porcupines-fate-chapter-1.json](./196694-porcupines-fate-chapter-1.json) |
 | Porg Wars | 102841 | [102841-porg-wars.json](./102841-porg-wars.json) |
 | Porgy | 318416 | [318416-porgy.json](./318416-porgy.json) |
+| Pork 1: The Great Underground Sewer System | 350155 | [350155-pork-1-the-great-underground-sewer-system.json](./350155-pork-1-the-great-underground-sewer-system.json) |
 | Pork Barrel | 318164 | [318164-pork-barrel.json](./318164-pork-barrel.json) |
 | Porkchop's Adventure | 209281 | [209281-porkchops-adventure.json](./209281-porkchops-adventure.json) |
 | Porkchop's Horror Show | 237438 | [237438-porkchops-horror-show.json](./237438-porkchops-horror-show.json) |
@@ -12738,6 +12742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potions, Frankly | 183598 | [183598-potions-frankly.json](./183598-potions-frankly.json) |
 | Potions, Please! | 381186 | [381186-potions-please.json](./381186-potions-please.json) |
 | Potions: A Curious Tale | 22554 | [22554-potions-a-curious-tale.json](./22554-potions-a-curious-tale.json) |
+| Potionworm | 350304 | [350304-potionworm.json](./350304-potionworm.json) |
 | Potpourrii | 21799 | [21799-potpourrii.json](./21799-potpourrii.json) |
 | Potrick Snap | 341004 | [341004-potrick-snap.json](./341004-potrick-snap.json) |
 | Potrick Snap 2 | 341012 | [341012-potrick-snap-2.json](./341012-potrick-snap-2.json) |
