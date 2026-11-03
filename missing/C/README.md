@@ -3998,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataclysm: Bright Nights | 194968 | [194968-cataclysm-bright-nights.json](./194968-cataclysm-bright-nights.json) |
 | Cataclysm: Dark Days Ahead | 18730 | [18730-cataclysm-dark-days-ahead.json](./18730-cataclysm-dark-days-ahead.json) |
 | Cataclysm: Even Angels Sin | 307238 | [307238-cataclysm-even-angels-sin.json](./307238-cataclysm-even-angels-sin.json) |
+| Cataclysm: The Last Generation | 351363 | [351363-cataclysm-the-last-generation.json](./351363-cataclysm-the-last-generation.json) |
 | Cataclysmic Bite | 382833 | [382833-cataclysmic-bite.json](./382833-cataclysmic-bite.json) |
 | Cataclysms and Catastrophes | 148682 | [148682-cataclysms-and-catastrophes.json](./148682-cataclysms-and-catastrophes.json) |
 | Catacomb | 11042 | [11042-catacomb.json](./11042-catacomb.json) |
@@ -4900,6 +4901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celeste: Into The Jungle | 353715 | [353715-celeste-into-the-jungle.json](./353715-celeste-into-the-jungle.json) |
 | Celeste: The D-Sides Pack | 281897 | [281897-celeste-the-d-sides-pack.json](./281897-celeste-the-d-sides-pack.json) |
 | Celestia | 183432 | [183432-celestia.json](./183432-celestia.json) |
+| Celestia | 351356 | [351356-celestia.json](./351356-celestia.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
 | Celestia: Chain of Fate | 300474 | [300474-celestia-chain-of-fate.json](./300474-celestia-chain-of-fate.json) |
 | Celestiais & Dragões | 240741 | [240741-celestiais-and-dragoes.json](./240741-celestiais-and-dragoes.json) |
@@ -5230,6 +5232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Fury | 181756 | [181756-chain-fury.json](./181756-chain-fury.json) |
 | Chain Gun | 202033 | [202033-chain-gun.json](./202033-chain-gun.json) |
 | Chain Letter | 232119 | [232119-chain-letter.json](./232119-chain-letter.json) |
+| Chain Letter | 351365 | [351365-chain-letter.json](./351365-chain-letter.json) |
 | Chain Mail: Trip to the Panic World! | 97641 | [97641-chain-mail-trip-to-the-panic-world.json](./97641-chain-mail-trip-to-the-panic-world.json) |
 | Chain Ninja | 243577 | [243577-chain-ninja.json](./243577-chain-ninja.json) |
 | Chain of Eroticism | 163400 | [163400-chain-of-eroticism.json](./163400-chain-of-eroticism.json) |
@@ -5749,6 +5752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos: Immortal Era | 224081 | [224081-chaos-immortal-era.json](./224081-chaos-immortal-era.json) |
 | Chaos: In the Darkness | 17767 | [17767-chaos-in-the-darkness.json](./17767-chaos-in-the-darkness.json) |
 | Chaos: The Battle of Wizards | 32390 | [32390-chaos-the-battle-of-wizards.json](./32390-chaos-the-battle-of-wizards.json) |
+| Chaosborn | 351354 | [351354-chaosborn.json](./351354-chaosborn.json) |
 | Chaosground: The Siege for Freedom | 206435 | [206435-chaosground-the-siege-for-freedom.json](./206435-chaosground-the-siege-for-freedom.json) |
 | Chāoshí Kōng zhī Lún | 281408 | [281408-chaoshi-kong-zhi-lun.json](./281408-chaoshi-kong-zhi-lun.json) |
 | ChaosTower | 120326 | [120326-chaostower.json](./120326-chaostower.json) |
@@ -10361,6 +10365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Rush: Ultimate Guys - Special Edition | 223571 | [223571-clumsy-rush-ultimate-guys-special-edition.json](./223571-clumsy-rush-ultimate-guys-special-edition.json) |
 | Clumsy Rush: Ultimate Guys - Superb Edition | 271504 | [271504-clumsy-rush-ultimate-guys-superb-edition.json](./271504-clumsy-rush-ultimate-guys-superb-edition.json) |
 | Clumsy Shumsy | 66958 | [66958-clumsy-shumsy.json](./66958-clumsy-shumsy.json) |
+| Clumsy Witch | 351368 | [351368-clumsy-witch.json](./351368-clumsy-witch.json) |
 | Clumzee | 110219 | [110219-clumzee.json](./110219-clumzee.json) |
 | Cluppets | 224557 | [224557-cluppets.json](./224557-cluppets.json) |
 | Cluster | 182549 | [182549-cluster.json](./182549-cluster.json) |
@@ -13883,6 +13888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coraland: The Worst Rescuer | 254378 | [254378-coraland-the-worst-rescuer.json](./254378-coraland-the-worst-rescuer.json) |
 | Coralia and the Ocean of Stars | 391253 | [391253-coralia-and-the-ocean-of-stars.json](./391253-coralia-and-the-ocean-of-stars.json) |
 | Coralina | 230425 | [230425-coralina.json](./230425-coralina.json) |
+| Coralina: Illacrimo | 351370 | [351370-coralina-illacrimo.json](./351370-coralina-illacrimo.json) |
 | Coraline | 210273 | [210273-coraline.json](./210273-coraline.json) |
 | Coralium | 297840 | [297840-coralium.json](./297840-coralium.json) |
 | Corallo | 202243 | [202243-corallo.json](./202243-corallo.json) |
@@ -17551,6 +17557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cry of Athena | 158506 | [158506-cry-of-athena.json](./158506-cry-of-athena.json) |
 | Cry of Monster | 367403 | [367403-cry-of-monster.json](./367403-cry-of-monster.json) |
 | Cry On | 54647 | [54647-cry-on.json](./54647-cry-on.json) |
+| Cry Pic. | 351378 | [351378-cry-pic.json](./351378-cry-pic.json) |
 | Cry: Hunter's Record - Chapter 1 | 179944 | [179944-cry-hunters-record-chapter-1.json](./179944-cry-hunters-record-chapter-1.json) |
 | Cryamore | 63785 | [63785-cryamore.json](./63785-cryamore.json) |
 | Cryaxion | 215862 | [215862-cryaxion.json](./215862-cryaxion.json) |
