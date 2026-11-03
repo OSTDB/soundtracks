@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oiche Mhaith | 142248 | [142248-oiche-mhaith.json](./142248-oiche-mhaith.json) |
 | Oide Rascal | 125422 | [125422-oide-rascal.json](./125422-oide-rascal.json) |
 | Oids | 15328 | [15328-oids.json](./15328-oids.json) |
+| Oiia | 371196 | [371196-oiia.json](./371196-oiia.json) |
 | Oiia The Game | 346198 | [346198-oiia-the-game.json](./346198-oiia-the-game.json) |
 | Oik | 27338 | [27338-oik.json](./27338-oik.json) |
 | Oik 2 | 29078 | [29078-oik-2.json](./29078-oik-2.json) |
@@ -2887,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Dodge! | 362322 | [362322-only-dodge.json](./362322-only-dodge.json) |
 | Only Down | 259592 | [259592-only-down.json](./259592-only-down.json) |
 | Only Down | 391943 | [391943-only-down.json](./391943-only-down.json) |
+| Only Down: Gravitation Up | 371183 | [371183-only-down-gravitation-up.json](./371183-only-down-gravitation-up.json) |
 | Only Down: Into the Abyss | 379102 | [379102-only-down-into-the-abyss.json](./379102-only-down-into-the-abyss.json) |
 | Only Down: Not Up! | 383782 | [383782-only-down-not-up.json](./383782-only-down-not-up.json) |
 | Only Down! | 257379 | [257379-only-down.json](./257379-only-down.json) |
