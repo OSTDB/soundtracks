@@ -4151,6 +4151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eon Empires | 406576 | [406576-eon-empires.json](./406576-eon-empires.json) |
 | Eon Fighter | 219251 | [219251-eon-fighter.json](./219251-eon-fighter.json) |
 | Eon Fleet | 96885 | [96885-eon-fleet.json](./96885-eon-fleet.json) |
+| Eon of Life | 378452 | [378452-eon-of-life.json](./378452-eon-of-life.json) |
 | Eon of the Green | 233577 | [233577-eon-of-the-green.json](./233577-eon-of-the-green.json) |
 | Eon of the Green: Area Crescent | 279138 | [279138-eon-of-the-green-area-crescent.json](./279138-eon-of-the-green-area-crescent.json) |
 | Eon Survivor | 406147 | [406147-eon-survivor.json](./406147-eon-survivor.json) |
@@ -5628,6 +5629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estate Empire | 275988 | [275988-estate-empire.json](./275988-estate-empire.json) |
 | Esteem | 333142 | [333142-esteem.json](./333142-esteem.json) |
 | Estelaroid: Escape Room | 258417 | [258417-estelaroid-escape-room.json](./258417-estelaroid-escape-room.json) |
+| Estella | 378466 | [378466-estella.json](./378466-estella.json) |
 | Estellina | 286080 | [286080-estellina.json](./286080-estellina.json) |
 | Estellium Legends | 114224 | [114224-estellium-legends.json](./114224-estellium-legends.json) |
 | Estellium Legends II | 419378 | [419378-estellium-legends-ii.json](./419378-estellium-legends-ii.json) |
