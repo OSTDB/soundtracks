@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2033: Das Erschwachen der Macht | 166165 | [166165-2033-das-erschwachen-der-macht.json](./166165-2033-das-erschwachen-der-macht.json) |
 | 2034 A.C. (After Canada) | 58088 | [58088-2034-a-c-after-canada.json](./58088-2034-a-c-after-canada.json) |
 | 2034: A.C. (After Canada) II | 58089 | [58089-2034-a-c-after-canada-ii.json](./58089-2034-a-c-after-canada-ii.json) |
+| 2040World | 356387 | [356387-2040world.json](./356387-2040world.json) |
 | 2044 Moto Racer: Cyber Racing Simulator | 265709 | [265709-2044-moto-racer-cyber-racing-simulator.json](./265709-2044-moto-racer-cyber-racing-simulator.json) |
 | 2045, Tsuki yori. | 278568 | [278568-2045-tsuki-yori.json](./278568-2045-tsuki-yori.json) |
 | 2047 CCG | 205587 | [205587-2047-ccg.json](./205587-2047-ccg.json) |
