@@ -14444,6 +14444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Bricks | 301091 | [301091-breaking-bricks.json](./301091-breaking-bricks.json) |
 | Breaking Bricks | 333680 | [333680-breaking-bricks.json](./333680-breaking-bricks.json) |
 | Breaking Bunny | 117381 | [117381-breaking-bunny.json](./117381-breaking-bunny.json) |
+| Breaking Clay | 382733 | [382733-breaking-clay.json](./382733-breaking-clay.json) |
 | Breaking Clouds and Blooming Light | 227962 | [227962-breaking-clouds-and-blooming-light.json](./227962-breaking-clouds-and-blooming-light.json) |
 | Breaking earth | 165688 | [165688-breaking-earth.json](./165688-breaking-earth.json) |
 | Breaking Enigma | 213630 | [213630-breaking-enigma.json](./213630-breaking-enigma.json) |
@@ -17525,6 +17526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byrd Ronin | 422065 | [422065-byrd-ronin.json](./422065-byrd-ronin.json) |
 | Bystander | 75827 | [75827-bystander.json](./75827-bystander.json) |
 | Byte | 301066 | [301066-byte.json](./301066-byte.json) |
+| Byte & Brew | 382729 | [382729-byte-and-brew.json](./382729-byte-and-brew.json) |
 | Byte Bitten | 93183 | [93183-byte-bitten.json](./93183-byte-bitten.json) |
 | Byte Breach | 293509 | [293509-byte-breach.json](./293509-byte-breach.json) |
 | Byte Breakers | 314978 | [314978-byte-breakers.json](./314978-byte-breakers.json) |
