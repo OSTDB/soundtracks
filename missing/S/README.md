@@ -5849,7 +5849,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Adventures: Mile High Club | 286528 | [286528-sex-adventures-mile-high-club.json](./286528-sex-adventures-mile-high-club.json) |
 | Sex Adventures: Modeling Audition | 219599 | [219599-sex-adventures-modeling-audition.json](./219599-sex-adventures-modeling-audition.json) |
 | Sex Adventures: Office Affairs | 223406 | [223406-sex-adventures-office-affairs.json](./223406-sex-adventures-office-affairs.json) |
+| Sex Adventures: Swingers Cabin | 385231 | [385231-sex-adventures-swingers-cabin.json](./385231-sex-adventures-swingers-cabin.json) |
 | Sex Adventures: Swingers Gym | 212800 | [212800-sex-adventures-swingers-gym.json](./212800-sex-adventures-swingers-gym.json) |
+| Sex Adventures: Swingers Resort | 385232 | [385232-sex-adventures-swingers-resort.json](./385232-sex-adventures-swingers-resort.json) |
 | Sex Adventures: The Bar Hookup | 219600 | [219600-sex-adventures-the-bar-hookup.json](./219600-sex-adventures-the-bar-hookup.json) |
 | Sex Adventures: The Job Interview | 286475 | [286475-sex-adventures-the-job-interview.json](./286475-sex-adventures-the-job-interview.json) |
 | Sex Adventures: The Job Promotion | 368621 | [368621-sex-adventures-the-job-promotion.json](./368621-sex-adventures-the-job-promotion.json) |
@@ -6020,7 +6022,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Viking Island | 379530 | [379530-sex-viking-island.json](./379530-sex-viking-island.json) |
 | Sex Vixens From Space | 72378 | [72378-sex-vixens-from-space.json](./72378-sex-vixens-from-space.json) |
 | SEX VR Horny Nurses | 147875 | [147875-sex-vr-horny-nurses.json](./147875-sex-vr-horny-nurses.json) |
+| Sex Wheel | 385226 | [385226-sex-wheel.json](./385226-sex-wheel.json) |
 | Sex With Friends | 367048 | [367048-sex-with-friends.json](./367048-sex-with-friends.json) |
+| Sex With Hand | 385234 | [385234-sex-with-hand.json](./385234-sex-with-hand.json) |
 | Sex with Maids | 248669 | [248669-sex-with-maids.json](./248669-sex-with-maids.json) |
 | Sex with Stalin | 142719 | [142719-sex-with-stalin.json](./142719-sex-with-stalin.json) |
 | Sex With Succubus | 389753 | [389753-sex-with-succubus.json](./389753-sex-with-succubus.json) |
@@ -6053,8 +6057,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexual Nudity | 140575 | [140575-sexual-nudity.json](./140575-sexual-nudity.json) |
 | Sexual Slave Ayaka | 82840 | [82840-sexual-slave-ayaka.json](./82840-sexual-slave-ayaka.json) |
 | Sexual Summer | 226182 | [226182-sexual-summer.json](./226182-sexual-summer.json) |
+| Sexuality in Ancient Rome | 385238 | [385238-sexuality-in-ancient-rome.json](./385238-sexuality-in-ancient-rome.json) |
 | Sexuality with Girlfriends: Laler & Reese | 375977 | [375977-sexuality-with-girlfriends-laler-and-reese.json](./375977-sexuality-with-girlfriends-laler-and-reese.json) |
 | SexWife: No Limit | 259854 | [259854-sexwife-no-limit.json](./259854-sexwife-no-limit.json) |
+| Sexxnator: Adult Sandbox RPG | 385235 | [385235-sexxnator-adult-sandbox-rpg.json](./385235-sexxnator-adult-sandbox-rpg.json) |
 | Sexy Adventures on Porn Island | 78389 | [78389-sexy-adventures-on-porn-island.json](./78389-sexy-adventures-on-porn-island.json) |
 | Sexy Airlines | 140834 | [140834-sexy-airlines.json](./140834-sexy-airlines.json) |
 | Sexy Anime Puzzle Game: A Hentai Girl Puzzle Adventure | 366537 | [366537-sexy-anime-puzzle-game-a-hentai-girl-puzzle-adventure.json](./366537-sexy-anime-puzzle-game-a-hentai-girl-puzzle-adventure.json) |
@@ -19112,6 +19118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Turbo | 201008 | [201008-space-turbo.json](./201008-space-turbo.json) |
 | Space Turbo 2 | 201448 | [201448-space-turbo-2.json](./201448-space-turbo-2.json) |
 | Space Turret Gunner | 103961 | [103961-space-turret-gunner.json](./103961-space-turret-gunner.json) |
+| Space Twins | 385039 | [385039-space-twins.json](./385039-space-twins.json) |
 | Space Tycoon | 111352 | [111352-space-tycoon.json](./111352-space-tycoon.json) |
 | Space Tyrant | 30348 | [30348-space-tyrant.json](./30348-space-tyrant.json) |
 | Space UFO | 329991 | [329991-space-ufo.json](./329991-space-ufo.json) |
@@ -27047,9 +27054,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip 4: Classmate Study | 130057 | [130057-strip-4-classmate-study.json](./130057-strip-4-classmate-study.json) |
 | Strip Battle | 296990 | [296990-strip-battle.json](./296990-strip-battle.json) |
 | Strip Black Jack: At the Pub | 174115 | [174115-strip-black-jack-at-the-pub.json](./174115-strip-black-jack-at-the-pub.json) |
+| Strip Black Jack: Cyber Sex | 385230 | [385230-strip-black-jack-cyber-sex.json](./385230-strip-black-jack-cyber-sex.json) |
 | Strip Black Jack: Hot Gym | 169297 | [169297-strip-black-jack-hot-gym.json](./169297-strip-black-jack-hot-gym.json) |
 | Strip Black Jack: Manga Edition | 392893 | [392893-strip-black-jack-manga-edition.json](./392893-strip-black-jack-manga-edition.json) |
 | Strip Black Jack: Santa Babe | 385856 | [385856-strip-black-jack-santa-babe.json](./385856-strip-black-jack-santa-babe.json) |
+| Strip Black Jack: Sex Bunny | 385228 | [385228-strip-black-jack-sex-bunny.json](./385228-strip-black-jack-sex-bunny.json) |
+| Strip Black Jack: Sex Teacher | 385227 | [385227-strip-black-jack-sex-teacher.json](./385227-strip-black-jack-sex-teacher.json) |
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
 | Strip Card Duel | 286451 | [286451-strip-card-duel.json](./286451-strip-card-duel.json) |
 | Strip Dice / Strip Concentration | 71248 | [71248-strip-dice-strip-concentration.json](./71248-strip-dice-strip-concentration.json) |
