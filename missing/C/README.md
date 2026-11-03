@@ -6091,6 +6091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheer We Go! | 91722 | [91722-cheer-we-go.json](./91722-cheer-we-go.json) |
 | Cheerios Play Time | 57593 | [57593-cheerios-play-time.json](./57593-cheerios-play-time.json) |
 | Cheerleader Champion Dance Off | 86808 | [86808-cheerleader-champion-dance-off.json](./86808-cheerleader-champion-dance-off.json) |
+| Cheerleader vs Zombies | 380130 | [380130-cheerleader-vs-zombies.json](./380130-cheerleader-vs-zombies.json) |
 | Cheerleader: reverse side of life | 96424 | [96424-cheerleader-reverse-side-of-life.json](./96424-cheerleader-reverse-side-of-life.json) |
 | Cheerleader's Choice: New York Spirit | 338274 | [338274-cheerleaders-choice-new-york-spirit.json](./338274-cheerleaders-choice-new-york-spirit.json) |
 | Cheers! | 227934 | [227934-cheers.json](./227934-cheers.json) |
@@ -9650,6 +9651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click&Fight | 81795 | [81795-click-and-fight.json](./81795-click-and-fight.json) |
 | Clickable Coffee Shop | 120127 | [120127-clickable-coffee-shop.json](./120127-clickable-coffee-shop.json) |
 | Clickart | 255146 | [255146-clickart.json](./255146-clickart.json) |
+| Clickbait | 379838 | [379838-clickbait.json](./379838-clickbait.json) |
 | Clickbait Tycoon | 412779 | [412779-clickbait-tycoon.json](./412779-clickbait-tycoon.json) |
 | Clickbait: Tap to Fish | 241207 | [241207-clickbait-tap-to-fish.json](./241207-clickbait-tap-to-fish.json) |
 | ClickBit | 76644 | [76644-clickbit.json](./76644-clickbit.json) |
@@ -10853,6 +10855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Hound Lounge | 202015 | [202015-coin-hound-lounge.json](./202015-coin-hound-lounge.json) |
 | Coin Hunt World! | 153128 | [153128-coin-hunt-world.json](./153128-coin-hunt-world.json) |
 | Coin Hunter | 331678 | [331678-coin-hunter.json](./331678-coin-hunter.json) |
+| Coin idle | 379844 | [379844-coin-idle.json](./379844-coin-idle.json) |
 | Coin Jar | 291742 | [291742-coin-jar.json](./291742-coin-jar.json) |
 | Coin Master | 87020 | [87020-coin-master.json](./87020-coin-master.json) |
 | Coin Pickers | 127804 | [127804-coin-pickers.json](./127804-coin-pickers.json) |
