@@ -6638,6 +6638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Don't Exist | 113526 | [113526-aliens-dont-exist.json](./113526-aliens-dont-exist.json) |
 | Aliens Doom 3: Aliens vs Predator | 381150 | [381150-aliens-doom-3-aliens-vs-predator.json](./381150-aliens-doom-3-aliens-vs-predator.json) |
 | Aliens Extermination | 67769 | [67769-aliens-extermination.json](./67769-aliens-extermination.json) |
+| Aliens Go Home ReRun | 398097 | [398097-aliens-go-home-rerun.json](./398097-aliens-go-home-rerun.json) |
 | Aliens Go Home Run! | 26835 | [26835-aliens-go-home-run.json](./26835-aliens-go-home-run.json) |
 | Aliens Hide | 419965 | [419965-aliens-hide.json](./419965-aliens-hide.json) |
 | Aliens In Chains | 233616 | [233616-aliens-in-chains.json](./233616-aliens-in-chains.json) |
@@ -13065,6 +13066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arm Joe | 130876 | [130876-arm-joe.json](./130876-arm-joe.json) |
 | Arm Joe: Les Misérables | 50366 | [50366-arm-joe-les-miserables.json](./50366-arm-joe-les-miserables.json) |
 | Arm of Satan | 254021 | [254021-arm-of-satan.json](./254021-arm-of-satan.json) |
+| Arm of the Prince | 398107 | [398107-arm-of-the-prince.json](./398107-arm-of-the-prince.json) |
 | Arm Spirit | 68403 | [68403-arm-spirit.json](./68403-arm-spirit.json) |
 | Arm the Hero | 399991 | [399991-arm-the-hero.json](./399991-arm-the-hero.json) |
 | Arm Wrestling | 38517 | [38517-arm-wrestling.json](./38517-arm-wrestling.json) |
@@ -13909,6 +13911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asa Delta | 230675 | [230675-asa-delta.json](./230675-asa-delta.json) |
 | Asa-Chan Wants to Go Home! | 272283 | [272283-asa-chan-wants-to-go-home.json](./272283-asa-chan-wants-to-go-home.json) |
 | ASA: A Space Adventure - Remastered Edition | 17969 | [17969-asa-a-space-adventure-remastered-edition.json](./17969-asa-a-space-adventure-remastered-edition.json) |
+| Asadoke no Majo | 398089 | [398089-asadoke-no-majo.json](./398089-asadoke-no-majo.json) |
 | Asagao Academy: Normal Boots Club | 46579 | [46579-asagao-academy-normal-boots-club.json](./46579-asagao-academy-normal-boots-club.json) |
 | Asagao ha Ai wo Shiranai | 411685 | [411685-asagao-ha-ai-wo-shiranai.json](./411685-asagao-ha-ai-wo-shiranai.json) |
 | Asahi Shinbun Rensai: Katou Hifumi Kudan Shogi Shingiryuu | 58412 | [58412-asahi-shinbun-rensai-katou-hifumi-kudan-shogi-shingiryuu.json](./58412-asahi-shinbun-rensai-katou-hifumi-kudan-shogi-shingiryuu.json) |
@@ -15925,6 +15928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atropos | 326240 | [326240-atropos.json](./326240-atropos.json) |
 | Atrox | 46962 | [46962-atrox.json](./46962-atrox.json) |
 | Atrox | 73551 | [73551-atrox.json](./73551-atrox.json) |
+| Atrum | 398087 | [398087-atrum.json](./398087-atrum.json) |
 | ATSF Wagon Pack 01 | 224440 | [224440-atsf-wagon-pack-01.json](./224440-atsf-wagon-pack-01.json) |
 | ATSS Retribution II | 224100 | [224100-atss-retribution-ii.json](./224100-atss-retribution-ii.json) |
 | Atsumare! Guru Guru Onsen BB | 283323 | [283323-atsumare-guru-guru-onsen-bb.json](./283323-atsumare-guru-guru-onsen-bb.json) |
