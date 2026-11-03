@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-16 Renegade | 66706 | [66706-f-16-renegade.json](./66706-f-16-renegade.json) |
 | F-18 Hornet | 12322 | [12322-f-18-hornet.json](./12322-f-18-hornet.json) |
 | F-18 Thunder Strike | 49931 | [49931-f-18-thunder-strike.json](./49931-f-18-thunder-strike.json) |
+| F-18: No Fly Zone | 350299 | [350299-f-18-no-fly-zone.json](./350299-f-18-no-fly-zone.json) |
 | F-19 Stealth Fighter | 10206 | [10206-f-19-stealth-fighter.json](./10206-f-19-stealth-fighter.json) |
 | F-22 Air Dominance Fighter | 693 | [693-f-22-air-dominance-fighter.json](./693-f-22-air-dominance-fighter.json) |
 | F-22 Interceptor | 19494 | [19494-f-22-interceptor.json](./19494-f-22-interceptor.json) |
@@ -4828,6 +4829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII | 207026 | [207026-final-fantasy-vii.json](./207026-final-fantasy-vii.json) |
 | Final Fantasy VII | 207028 | [207028-final-fantasy-vii.json](./207028-final-fantasy-vii.json) |
 | Final Fantasy VII | 2406 | [2406-final-fantasy-vii.json](./2406-final-fantasy-vii.json) |
+| Final Fantasy VII | 350141 | [350141-final-fantasy-vii.json](./350141-final-fantasy-vii.json) |
 | Final Fantasy VII | 381337 | [381337-final-fantasy-vii.json](./381337-final-fantasy-vii.json) |
 | Final Fantasy VII | 392808 | [392808-final-fantasy-vii.json](./392808-final-fantasy-vii.json) |
 | Final Fantasy VII & Final Fantasy VIII Remastered Twin Pack | 127879 | [127879-final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack.json](./127879-final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack.json) |
