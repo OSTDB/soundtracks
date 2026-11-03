@@ -8492,6 +8492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Diver | 204832 | [204832-green-diver.json](./204832-green-diver.json) |
 | Green Elephant 2D | 29509 | [29509-green-elephant-2d.json](./29509-green-elephant-2d.json) |
 | Green Elephant: Epilogue | 128842 | [128842-green-elephant-epilogue.json](./128842-green-elephant-epilogue.json) |
+| Green Ember: Helmer in the Dragon Tomb | 356353 | [356353-green-ember-helmer-in-the-dragon-tomb.json](./356353-green-ember-helmer-in-the-dragon-tomb.json) |
 | Green Eyed Monster | 184034 | [184034-green-eyed-monster.json](./184034-green-eyed-monster.json) |
 | Green Fairy VR | 156984 | [156984-green-fairy-vr.json](./156984-green-fairy-vr.json) |
 | Green Farm | 87117 | [87117-green-farm.json](./87117-green-farm.json) |
