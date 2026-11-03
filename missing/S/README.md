@@ -5419,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serena Williams' Match Point | 238938 | [238938-serena-williams-match-point.json](./238938-serena-williams-match-point.json) |
 | Serenade of the Sirens | 107411 | [107411-serenade-of-the-sirens.json](./107411-serenade-of-the-sirens.json) |
 | Serendipalette | 383655 | [383655-serendipalette.json](./383655-serendipalette.json) |
+| Serendipity Bookshop | 395618 | [395618-serendipity-bookshop.json](./395618-serendipity-bookshop.json) |
 | Serendipity Hotel | 190218 | [190218-serendipity-hotel.json](./190218-serendipity-hotel.json) |
 | Serendipity Morning Mist: Dawn, Tobacco, Your Scent | 387003 | [387003-serendipity-morning-mist-dawn-tobacco-your-scent.json](./387003-serendipity-morning-mist-dawn-tobacco-your-scent.json) |
 | Serendipity Next Door | 238425 | [238425-serendipity-next-door.json](./238425-serendipity-next-door.json) |
@@ -9937,6 +9938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Threat | 311259 | [311259-silent-threat.json](./311259-silent-threat.json) |
 | Silent Thunder: A-10 Tank Killer II | 871 | [871-silent-thunder-a-10-tank-killer-ii.json](./871-silent-thunder-a-10-tank-killer-ii.json) |
 | Silent Tweets | 87987 | [87987-silent-tweets.json](./87987-silent-tweets.json) |
+| Silent Ward: Forever Lost | 395628 | [395628-silent-ward-forever-lost.json](./395628-silent-ward-forever-lost.json) |
 | Silent Water | 397415 | [397415-silent-water.json](./397415-silent-water.json) |
 | Silent Weapons for Quiet Wars | 285959 | [285959-silent-weapons-for-quiet-wars.json](./285959-silent-weapons-for-quiet-wars.json) |
 | Silent Whisper | 337125 | [337125-silent-whisper.json](./337125-silent-whisper.json) |
@@ -15608,6 +15610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire | 311000 | [311000-solitaire.json](./311000-solitaire.json) |
 | Solitaire | 312270 | [312270-solitaire.json](./312270-solitaire.json) |
 | Solitaire | 313972 | [313972-solitaire.json](./313972-solitaire.json) |
+| Solitaire | 395638 | [395638-solitaire.json](./395638-solitaire.json) |
 | Solitaire | 74206 | [74206-solitaire.json](./74206-solitaire.json) |
 | Solitaire | 75661 | [75661-solitaire.json](./75661-solitaire.json) |
 | Solitaire | 80743 | [80743-solitaire.json](./80743-solitaire.json) |
