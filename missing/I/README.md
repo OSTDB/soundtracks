@@ -1751,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If Nil then | 201326 | [201326-if-nil-then.json](./201326-if-nil-then.json) |
 | If on a Winter's Night, Four Travelers | 144554 | [144554-if-on-a-winters-night-four-travelers.json](./144554-if-on-a-winters-night-four-travelers.json) |
 | If One Thing Changed | 183259 | [183259-if-one-thing-changed.json](./183259-if-one-thing-changed.json) |
+| If Only | 366475 | [366475-if-only.json](./366475-if-only.json) |
 | If Only I Could Go Home Early | 90320 | [90320-if-only-i-could-go-home-early.json](./90320-if-only-i-could-go-home-early.json) |
 | If Only... | 75012 | [75012-if-only.json](./75012-if-only.json) |
 | If Platformers Were Rpgs | 181796 | [181796-if-platformers-were-rpgs.json](./181796-if-platformers-were-rpgs.json) |
