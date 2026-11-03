@@ -19278,6 +19278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Who Came: Healing Solarus | 175647 | [175647-those-who-came-healing-solarus.json](./175647-those-who-came-healing-solarus.json) |
 | Those Who Crawl | 230803 | [230803-those-who-crawl.json](./230803-those-who-crawl.json) |
 | Those Who Crawl VR | 330635 | [330635-those-who-crawl-vr.json](./330635-those-who-crawl-vr.json) |
+| Those Who Dwell | 378738 | [378738-those-who-dwell.json](./378738-those-who-dwell.json) |
 | Those Who Know | 337313 | [337313-those-who-know.json](./337313-those-who-know.json) |
 | Those Who Rule | 211226 | [211226-those-who-rule.json](./211226-those-who-rule.json) |
 | Those Who Rule II | 394374 | [394374-those-who-rule-ii.json](./394374-those-who-rule-ii.json) |
@@ -25925,6 +25926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town & Country Surf Designs: Wood & Water Rage | 48119 | [48119-town-and-country-surf-designs-wood-and-water-rage.json](./48119-town-and-country-surf-designs-wood-and-water-rage.json) |
 | Town Adventures | 284784 | [284784-town-adventures.json](./284784-town-adventures.json) |
 | Town Defence | 126350 | [126350-town-defence.json](./126350-town-defence.json) |
+| Town Diggers | 379060 | [379060-town-diggers.json](./379060-town-diggers.json) |
 | Town Diner | 214122 | [214122-town-diner.json](./214122-town-diner.json) |
 | Town Doubt | 55470 | [55470-town-doubt.json](./55470-town-doubt.json) |
 | Town Hall Toaster | 71463 | [71463-town-hall-toaster.json](./71463-town-hall-toaster.json) |
