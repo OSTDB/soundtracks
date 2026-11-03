@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Taken | 362339 | [362339-earth-taken.json](./362339-earth-taken.json) |
 | Earth Taken 2 | 365133 | [365133-earth-taken-2.json](./365133-earth-taken-2.json) |
 | Earth Taken 3 | 365131 | [365131-earth-taken-3.json](./365131-earth-taken-3.json) |
+| Earth Ten Days: 981HZ | 349022 | [349022-earth-ten-days-981hz.json](./349022-earth-ten-days-981hz.json) |
 | Earth Under Siege | 17867 | [17867-earth-under-siege.json](./17867-earth-under-siege.json) |
 | Earth Universe | 74096 | [74096-earth-universe.json](./74096-earth-universe.json) |
 | Earth Vs Moon | 63206 | [63206-earth-vs-moon.json](./63206-earth-vs-moon.json) |
@@ -1400,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Baby | 353757 | [353757-egg-baby.json](./353757-egg-baby.json) |
 | Egg Blast | 375478 | [375478-egg-blast.json](./375478-egg-blast.json) |
 | Egg Bunny 2 | 199387 | [199387-egg-bunny-2.json](./199387-egg-bunny-2.json) |
+| Egg Chicken Farm | 349062 | [349062-egg-chicken-farm.json](./349062-egg-chicken-farm.json) |
 | Egg Collector | 246497 | [246497-egg-collector.json](./246497-egg-collector.json) |
 | Egg Defense | 295230 | [295230-egg-defense.json](./295230-egg-defense.json) |
 | Egg Drop | 264233 | [264233-egg-drop.json](./264233-egg-drop.json) |
@@ -5739,6 +5741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Champions: Challenge from the Dark Side | 5383 | [5383-eternal-champions-challenge-from-the-dark-side.json](./5383-eternal-champions-challenge-from-the-dark-side.json) |
 | Eternal Champions: Special Moves Edition | 198631 | [198631-eternal-champions-special-moves-edition.json](./198631-eternal-champions-special-moves-edition.json) |
 | Eternal Chrysalis Dream | 395569 | [395569-eternal-chrysalis-dream.json](./395569-eternal-chrysalis-dream.json) |
+| Eternal Circus: Dancing with Missiles | 349192 | [349192-eternal-circus-dancing-with-missiles.json](./349192-eternal-circus-dancing-with-missiles.json) |
 | Eternal City | 90889 | [90889-eternal-city.json](./90889-eternal-city.json) |
 | Eternal Concord | 122000 | [122000-eternal-concord.json](./122000-eternal-concord.json) |
 | Eternal Curse | 399019 | [399019-eternal-curse.json](./399019-eternal-curse.json) |
