@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Main Deity Space | 277515 | [277515-main-deity-space.json](./277515-main-deity-space.json) |
 | Main Event: Wrestling Manager | 225201 | [225201-main-event-wrestling-manager.json](./225201-main-event-wrestling-manager.json) |
 | Main Frame | 68460 | [68460-main-frame.json](./68460-main-frame.json) |
+| Main Sequence | 371514 | [371514-main-sequence.json](./371514-main-sequence.json) |
 | Mainasutto: I'm Not Alone | 268991 | [268991-mainasutto-im-not-alone.json](./268991-mainasutto-im-not-alone.json) |
 | Mainbody | 223424 | [223424-mainbody.json](./223424-mainbody.json) |
 | MainFighter | 185493 | [185493-mainfighter.json](./185493-mainfighter.json) |
@@ -6128,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me is King | 212521 | [212521-me-is-king.json](./212521-me-is-king.json) |
 | Me Mostre Sonhos Doces | 299121 | [299121-me-mostre-sonhos-doces.json](./299121-me-mostre-sonhos-doces.json) |
 | Me Myself & Die | 184360 | [184360-me-myself-and-die.json](./184360-me-myself-and-die.json) |
+| Me Resbala! | 371184 | [371184-me-resbala.json](./371184-me-resbala.json) |
 | Me Smart Orc | 108431 | [108431-me-smart-orc.json](./108431-me-smart-orc.json) |
 | Me the Gravekeeper | 346681 | [346681-me-the-gravekeeper.json](./346681-me-the-gravekeeper.json) |
 | Me vs. You | 172177 | [172177-me-vs-you.json](./172177-me-vs-you.json) |
@@ -11004,6 +11006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milfvania Ep. 1 | 295234 | [295234-milfvania-ep-1.json](./295234-milfvania-ep-1.json) |
 | Milfvania Ep. 1: Winter DLC | 295108 | [295108-milfvania-ep-1-winter-dlc.json](./295108-milfvania-ep-1-winter-dlc.json) |
 | Milfvania Ep. 3 | 260323 | [260323-milfvania-ep-3.json](./260323-milfvania-ep-3.json) |
+| Milfy Cases: Damsels in Distress | 371503 | [371503-milfy-cases-damsels-in-distress.json](./371503-milfy-cases-damsels-in-distress.json) |
 | Milfy City | 239289 | [239289-milfy-city.json](./239289-milfy-city.json) |
 | Milfy City: Final Edition | 265575 | [265575-milfy-city-final-edition.json](./265575-milfy-city-final-edition.json) |
 | Milfy Way: Space Orgasm | 417762 | [417762-milfy-way-space-orgasm.json](./417762-milfy-way-space-orgasm.json) |
@@ -17072,6 +17075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mount & Blade: Warband - Napoleonic Wars | 8784 | [8784-mount-and-blade-warband-napoleonic-wars.json](./8784-mount-and-blade-warband-napoleonic-wars.json) |
 | Mount & Blade: Warband - Viking Conquest Reforged Edition | 8761 | [8761-mount-and-blade-warband-viking-conquest-reforged-edition.json](./8761-mount-and-blade-warband-viking-conquest-reforged-edition.json) |
 | Mount & Blade: With Fire and Sword | 8792 | [8792-mount-and-blade-with-fire-and-sword.json](./8792-mount-and-blade-with-fire-and-sword.json) |
+| Mount and Sword | 371193 | [371193-mount-and-sword.json](./371193-mount-and-sword.json) |
 | Mount Everest Story | 174331 | [174331-mount-everest-story.json](./174331-mount-everest-story.json) |
 | Mount Farewell | 221178 | [221178-mount-farewell.json](./221178-mount-farewell.json) |
 | Mount Hop | 184169 | [184169-mount-hop.json](./184169-mount-hop.json) |
@@ -18664,6 +18668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutan Zone | 39120 | [39120-mutan-zone.json](./39120-mutan-zone.json) |
 | Mutant | 79916 | [79916-mutant.json](./79916-mutant.json) |
 | Mutant Alien Moles of the Dead: Whack Whack or Die | 55941 | [55941-mutant-alien-moles-of-the-dead-whack-whack-or-die.json](./55941-mutant-alien-moles-of-the-dead-whack-whack-or-die.json) |
+| Mutant Alley | 371501 | [371501-mutant-alley.json](./371501-mutant-alley.json) |
 | Mutant Alley: Do the Dinosaur | 157065 | [157065-mutant-alley-do-the-dinosaur.json](./157065-mutant-alley-do-the-dinosaur.json) |
 | Mutant Boxing League | 276335 | [276335-mutant-boxing-league.json](./276335-mutant-boxing-league.json) |
 | Mutant Colossus from Outer Space | 50216 | [50216-mutant-colossus-from-outer-space.json](./50216-mutant-colossus-from-outer-space.json) |
