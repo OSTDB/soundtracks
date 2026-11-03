@@ -12382,6 +12382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom | 259944 | [259944-doom.json](./259944-doom.json) |
 | Doom | 313161 | [313161-doom.json](./313161-doom.json) |
 | Doom | 341698 | [341698-doom.json](./341698-doom.json) |
+| Doom | 377730 | [377730-doom.json](./377730-doom.json) |
 | Doom & Destiny | 13168 | [13168-doom-and-destiny.json](./13168-doom-and-destiny.json) |
 | Doom & Destiny Advanced | 25944 | [25944-doom-and-destiny-advanced.json](./25944-doom-and-destiny-advanced.json) |
 | Doom & Destiny Worlds | 133012 | [133012-doom-and-destiny-worlds.json](./133012-doom-and-destiny-worlds.json) |
@@ -15799,6 +15800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill to Hell: Clicked Too Deep | 345082 | [345082-drill-to-hell-clicked-too-deep.json](./345082-drill-to-hell-clicked-too-deep.json) |
 | Drill to the Stars | 262812 | [262812-drill-to-the-stars.json](./262812-drill-to-the-stars.json) |
 | Drill Up | 348945 | [348945-drill-up.json](./348945-drill-up.json) |
+| Drillbound | 377862 | [377862-drillbound.json](./377862-drillbound.json) |
 | Driller Tanks | 94636 | [94636-driller-tanks.json](./94636-driller-tanks.json) |
 | DrillHead | 330089 | [330089-drillhead.json](./330089-drillhead.json) |
 | Drillman 6378137 | 195703 | [195703-drillman-6378137.json](./195703-drillman-6378137.json) |
@@ -18079,6 +18081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Quest | 50835 | [50835-dwarf-quest.json](./50835-dwarf-quest.json) |
 | Dwarf Shop | 130155 | [130155-dwarf-shop.json](./130155-dwarf-shop.json) |
 | Dwarf Slayer | 149502 | [149502-dwarf-slayer.json](./149502-dwarf-slayer.json) |
+| Dwarf Sweeper | 377543 | [377543-dwarf-sweeper.json](./377543-dwarf-sweeper.json) |
 | Dwarf Swordsman | 110160 | [110160-dwarf-swordsman.json](./110160-dwarf-swordsman.json) |
 | Dwarf the Dungeonist | 407056 | [407056-dwarf-the-dungeonist.json](./407056-dwarf-the-dungeonist.json) |
 | Dwarf Tower | 24563 | [24563-dwarf-tower.json](./24563-dwarf-tower.json) |
