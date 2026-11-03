@@ -19175,6 +19175,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Eyes | 155683 | [155683-my-eyes.json](./155683-my-eyes.json) |
 | My Eyes Deceive | 274399 | [274399-my-eyes-deceive.json](./274399-my-eyes-deceive.json) |
 | My Eyes Inside Out | 400280 | [400280-my-eyes-inside-out.json](./400280-my-eyes-inside-out.json) |
+| My Eyes Inside Out Chapter Three | 380376 | [380376-my-eyes-inside-out-chapter-three.json](./380376-my-eyes-inside-out-chapter-three.json) |
+| My Eyes Inside Out Chapter Two | 380375 | [380375-my-eyes-inside-out-chapter-two.json](./380375-my-eyes-inside-out-chapter-two.json) |
 | My Eyes on You | 57694 | [57694-my-eyes-on-you.json](./57694-my-eyes-on-you.json) |
 | My Factory: Boss Life | 216044 | [216044-my-factory-boss-life.json](./216044-my-factory-boss-life.json) |
 | My Fair Cat: Snow | 298649 | [298649-my-fair-cat-snow.json](./298649-my-fair-cat-snow.json) |
