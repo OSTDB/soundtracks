@@ -4995,6 +4995,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replanted | 158992 | [158992-replanted.json](./158992-replanted.json) |
 | Replay | 288037 | [288037-replay.json](./288037-replay.json) |
 | Replay Boys | 259188 | [259188-replay-boys.json](./259188-replay-boys.json) |
+| Replay Racer | 389318 | [389318-replay-racer.json](./389318-replay-racer.json) |
+| Replay Racer 2 | 389335 | [389335-replay-racer-2.json](./389335-replay-racer-2.json) |
 | Replay Value: Second Hand Games | 347748 | [347748-replay-value-second-hand-games.json](./347748-replay-value-second-hand-games.json) |
 | Replay: A Puzzle Game | 157200 | [157200-replay-a-puzzle-game.json](./157200-replay-a-puzzle-game.json) |
 | Replay: VHS Is Not Dead | 22671 | [22671-replay-vhs-is-not-dead.json](./22671-replay-vhs-is-not-dead.json) |
@@ -11598,6 +11600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rummy 3D Premium | 118405 | [118405-rummy-3d-premium.json](./118405-rummy-3d-premium.json) |
 | Rummy Attack | 416578 | [416578-rummy-attack.json](./416578-rummy-attack.json) |
 | Rummy Club | 223923 | [223923-rummy-club.json](./223923-rummy-club.json) |
+| Rummy Odyssey | 389370 | [389370-rummy-odyssey.json](./389370-rummy-odyssey.json) |
 | Rummy With Clara | 418599 | [418599-rummy-with-clara.json](./418599-rummy-with-clara.json) |
 | Rumor Raiders | 350406 | [350406-rumor-raiders.json](./350406-rumor-raiders.json) |
 | Rumor Reporter | 391072 | [391072-rumor-reporter.json](./391072-rumor-reporter.json) |
