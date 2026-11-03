@@ -5655,7 +5655,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -12157,6 +12156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Nuts | 61481 | [61481-mini-nuts.json](./61481-mini-nuts.json) |
 | Mini Party | 83857 | [83857-mini-party.json](./83857-mini-party.json) |
 | Mini Pipes | 195147 | [195147-mini-pipes.json](./195147-mini-pipes.json) |
+| Mini Pistons GT | 359165 | [359165-mini-pistons-gt.json](./359165-mini-pistons-gt.json) |
 | Mini Pocket Racers | 238394 | [238394-mini-pocket-racers.json](./238394-mini-pocket-racers.json) |
 | Mini Pond Farm: Frogs & Lilypads | 406154 | [406154-mini-pond-farm-frogs-and-lilypads.json](./406154-mini-pond-farm-frogs-and-lilypads.json) |
 | Mini Prince | 145286 | [145286-mini-prince.json](./145286-mini-prince.json) |
@@ -20320,6 +20320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Zoo | 50707 | [50707-my-zoo.json](./50707-my-zoo.json) |
 | My Zoo - Craft Dino Tycoon | 104528 | [104528-my-zoo-craft-dino-tycoon.json](./104528-my-zoo-craft-dino-tycoon.json) |
 | My Zoo Vet Practice 3D | 84707 | [84707-my-zoo-vet-practice-3d.json](./84707-my-zoo-vet-practice-3d.json) |
+| My_Dear | 359141 | [359141-my-dear.json](./359141-my-dear.json) |
 | MY: Commander | 79157 | [79157-my-commander.json](./79157-my-commander.json) |
 | Mya Master Mind | 245675 | [245675-mya-master-mind.json](./245675-mya-master-mind.json) |
 | Mya of the Desert | 131767 | [131767-mya-of-the-desert.json](./131767-mya-of-the-desert.json) |
