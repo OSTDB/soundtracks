@@ -4973,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Crazy World | 71006 | [71006-that-crazy-world.json](./71006-that-crazy-world.json) |
 | That Dam Level | 59660 | [59660-that-dam-level.json](./59660-that-dam-level.json) |
 | That Dam Level redux | 33698 | [33698-that-dam-level-redux.json](./33698-that-dam-level-redux.json) |
+| That Damn Fox | 381538 | [381538-that-damn-fox.json](./381538-that-damn-fox.json) |
 | That Damn Goat | 267815 | [267815-that-damn-goat.json](./267815-that-damn-goat.json) |
 | That Endless Night: 1931 | 240259 | [240259-that-endless-night-1931.json](./240259-that-endless-night-1931.json) |
 | That Flipping Mountain | 119987 | [119987-that-flipping-mountain.json](./119987-that-flipping-mountain.json) |
@@ -6910,6 +6911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chosen Warriors | 81229 | [81229-the-chosen-warriors.json](./81229-the-chosen-warriors.json) |
 | The Chosen: Well of Souls | 21228 | [21228-the-chosen-well-of-souls.json](./21228-the-chosen-well-of-souls.json) |
 | The Christmas Bakeshop | 423963 | [423963-the-christmas-bakeshop.json](./423963-the-christmas-bakeshop.json) |
+| The Christmas Cackler | 381744 | [381744-the-christmas-cackler.json](./381744-the-christmas-cackler.json) |
 | The Christmas Gifts | 105688 | [105688-the-christmas-gifts.json](./105688-the-christmas-gifts.json) |
 | The Christmas Pickle | 391279 | [391279-the-christmas-pickle.json](./391279-the-christmas-pickle.json) |
 | The Christmas Spirit: Golden Ticket | 187968 | [187968-the-christmas-spirit-golden-ticket.json](./187968-the-christmas-spirit-golden-ticket.json) |
@@ -14268,6 +14270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Playroom | 89494 | [89494-the-playroom.json](./89494-the-playroom.json) |
 | The Playroom 2 | 124137 | [124137-the-playroom-2.json](./124137-the-playroom-2.json) |
 | The Playroom VR | 25263 | [25263-the-playroom-vr.json](./25263-the-playroom-vr.json) |
+| The Playroom VR Toy Wars | 381746 | [381746-the-playroom-vr-toy-wars.json](./381746-the-playroom-vr-toy-wars.json) |
 | The Playroom: AR Studio | 296039 | [296039-the-playroom-ar-studio.json](./296039-the-playroom-ar-studio.json) |
 | The Plight of the Cracked | 391849 | [391849-the-plight-of-the-cracked.json](./391849-the-plight-of-the-cracked.json) |
 | The Ploshers | 116907 | [116907-the-ploshers.json](./116907-the-ploshers.json) |
@@ -17662,6 +17665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Void of Desires | 123947 | [123947-the-void-of-desires.json](./123947-the-void-of-desires.json) |
 | The Void Project | 276145 | [276145-the-void-project.json](./276145-the-void-project.json) |
 | The Void Rolls Back | 256785 | [256785-the-void-rolls-back.json](./256785-the-void-rolls-back.json) |
+| The Void: An Incremental Roguelite | 381866 | [381866-the-void-an-incremental-roguelite.json](./381866-the-void-an-incremental-roguelite.json) |
 | The Voidness | 238654 | [238654-the-voidness.json](./238654-the-voidness.json) |
 | The Volcano | 125463 | [125463-the-volcano.json](./125463-the-volcano.json) |
 | The Volleyball B | 214475 | [214475-the-volleyball-b.json](./214475-the-volleyball-b.json) |
@@ -24502,6 +24506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toripon | 116971 | [116971-toripon.json](./116971-toripon.json) |
 | Torizon Telecom | 410067 | [410067-torizon-telecom.json](./410067-torizon-telecom.json) |
 | Tormans | 157903 | [157903-tormans.json](./157903-tormans.json) |
+| Torment Hexus | 381516 | [381516-torment-hexus.json](./381516-torment-hexus.json) |
 | Torment: Tides of Numenera | 2004 | [2004-torment-tides-of-numenera.json](./2004-torment-tides-of-numenera.json) |
 | Torment: Tides of Numenera - Collector's Edition | 26537 | [26537-torment-tides-of-numenera-collectors-edition.json](./26537-torment-tides-of-numenera-collectors-edition.json) |
 | Torment: Tides of Numenera - Day One Edition | 26538 | [26538-torment-tides-of-numenera-day-one-edition.json](./26538-torment-tides-of-numenera-day-one-edition.json) |
