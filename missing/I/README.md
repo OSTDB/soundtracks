@@ -2455,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperial Ambitions | 235944 | [235944-imperial-ambitions.json](./235944-imperial-ambitions.json) |
 | Imperial Arms: Curse of the Conqueror | 188452 | [188452-imperial-arms-curse-of-the-conqueror.json](./188452-imperial-arms-curse-of-the-conqueror.json) |
 | Imperial Bureaucracy Hero | 377963 | [377963-imperial-bureaucracy-hero.json](./377963-imperial-bureaucracy-hero.json) |
+| Imperial Command | 386896 | [386896-imperial-command.json](./386896-imperial-command.json) |
 | Imperial Destiny: Path of Gold | 231939 | [231939-imperial-destiny-path-of-gold.json](./231939-imperial-destiny-path-of-gold.json) |
 | Imperial Glory | 9059 | [9059-imperial-glory.json](./9059-imperial-glory.json) |
 | Imperial Grace | 159717 | [159717-imperial-grace.json](./159717-imperial-grace.json) |
@@ -3619,7 +3620,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
