@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Inua | 10494 | [10494-last-inua.json](./10494-last-inua.json) |
 | Last Island | 134628 | [134628-last-island.json](./134628-last-island.json) |
 | Last Island of Survival | 175118 | [175118-last-island-of-survival.json](./175118-last-island-of-survival.json) |
+| Last Journal | 363122 | [363122-last-journal.json](./363122-last-journal.json) |
 | Last Joy | 126591 | [126591-last-joy.json](./126591-last-joy.json) |
 | Last Judgment: VR | 173965 | [173965-last-judgment-vr.json](./173965-last-judgment-vr.json) |
 | Last Kid on the Bus | 409712 | [409712-last-kid-on-the-bus.json](./409712-last-kid-on-the-bus.json) |
