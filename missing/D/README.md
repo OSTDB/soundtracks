@@ -5056,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Insanity Asylum | 174784 | [174784-deep-insanity-asylum.json](./174784-deep-insanity-asylum.json) |
 | Deep Inside | 179662 | [179662-deep-inside.json](./179662-deep-inside.json) |
 | Deep Inside | 309535 | [309535-deep-inside.json](./309535-deep-inside.json) |
+| Deep Inside: Amore Sola MI Fa Remirare | 364769 | [364769-deep-inside-amore-sola-mi-fa-remirare.json](./364769-deep-inside-amore-sola-mi-fa-remirare.json) |
 | Deep Labyrinth | 20552 | [20552-deep-labyrinth.json](./20552-deep-labyrinth.json) |
 | Deep Lake Mall | 320705 | [320705-deep-lake-mall.json](./320705-deep-lake-mall.json) |
 | Deep Lake Reel Fishing | 236988 | [236988-deep-lake-reel-fishing.json](./236988-deep-lake-reel-fishing.json) |
@@ -15712,6 +15713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Empire | 390257 | [390257-drift-empire.json](./390257-drift-empire.json) |
 | Drift Experience Japan | 234533 | [234533-drift-experience-japan.json](./234533-drift-experience-japan.json) |
 | Drift Force Xtreme: Ultimate Car Simulator 2024 | 292915 | [292915-drift-force-xtreme-ultimate-car-simulator-2024.json](./292915-drift-force-xtreme-ultimate-car-simulator-2024.json) |
+| Drift Fuel Loop | 364798 | [364798-drift-fuel-loop.json](./364798-drift-fuel-loop.json) |
 | Drift Gang | 372449 | [372449-drift-gang.json](./372449-drift-gang.json) |
 | Drift Gear Racing Free | 30745 | [30745-drift-gear-racing-free.json](./30745-drift-gear-racing-free.json) |
 | Drift Girls | 58786 | [58786-drift-girls.json](./58786-drift-girls.json) |
