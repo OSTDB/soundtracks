@@ -2093,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss and Dark: The King's Secret Pledge | 103146 | [103146-abyss-and-dark-the-kings-secret-pledge.json](./103146-abyss-and-dark-the-kings-secret-pledge.json) |
 | Abyss and Dungeon | 292164 | [292164-abyss-and-dungeon.json](./292164-abyss-and-dungeon.json) |
 | Abyss Boat | 276095 | [276095-abyss-boat.json](./276095-abyss-boat.json) |
+| Abyss Born | 373494 | [373494-abyss-born.json](./373494-abyss-born.json) |
 | Abyss Cards | 398037 | [398037-abyss-cards.json](./398037-abyss-cards.json) |
 | Abyss Cave | 35789 | [35789-abyss-cave.json](./35789-abyss-cave.json) |
 | Abyss Chaser | 332446 | [332446-abyss-chaser.json](./332446-abyss-chaser.json) |
@@ -2136,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Seeker: What Do You See Deep in The Abyss | 324893 | [324893-abyss-seeker-what-do-you-see-deep-in-the-abyss.json](./324893-abyss-seeker-what-do-you-see-deep-in-the-abyss.json) |
 | Abyss Signal: Expedition | 288738 | [288738-abyss-signal-expedition.json](./288738-abyss-signal-expedition.json) |
 | Abyss Soul Lotus | 216799 | [216799-abyss-soul-lotus.json](./216799-abyss-soul-lotus.json) |
+| Abyss Stares at You | 373793 | [373793-abyss-stares-at-you.json](./373793-abyss-stares-at-you.json) |
 | Abyss Survivors | 311261 | [311261-abyss-survivors.json](./311261-abyss-survivors.json) |
 | Abyss Unchained | 331349 | [331349-abyss-unchained.json](./331349-abyss-unchained.json) |
 | Abyss Vaulter | 341612 | [341612-abyss-vaulter.json](./341612-abyss-vaulter.json) |
@@ -3943,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AEW: Fight Forever - Elite Edition | 251670 | [251670-aew-fight-forever-elite-edition.json](./251670-aew-fight-forever-elite-edition.json) |
 | AEW: Rise to the Top | 283001 | [283001-aew-rise-to-the-top.json](./283001-aew-rise-to-the-top.json) |
 | Aexia | 258924 | [258924-aexia.json](./258924-aexia.json) |
+| Aexxos | 373488 | [373488-aexxos.json](./373488-aexxos.json) |
 | Afallon | 283879 | [283879-afallon.json](./283879-afallon.json) |
 | AFAR: An Interactive Horror Film | 381551 | [381551-afar-an-interactive-horror-film.json](./381551-afar-an-interactive-horror-film.json) |
 | Afarid | 110746 | [110746-afarid.json](./110746-afarid.json) |
@@ -13102,6 +13105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkedo Series: 02 Swap! | 80166 | [80166-arkedo-series-02-swap.json](./80166-arkedo-series-02-swap.json) |
 | Arkedo Series: 03 Pixel! | 77112 | [77112-arkedo-series-03-pixel.json](./77112-arkedo-series-03-pixel.json) |
 | Arkedo Series: 04 Slash! | 67032 | [67032-arkedo-series-04-slash.json](./67032-arkedo-series-04-slash.json) |
+| Arkee Malarkey | 373779 | [373779-arkee-malarkey.json](./373779-arkee-malarkey.json) |
 | Arkelia: The Fragile Inheritance | 420348 | [420348-arkelia-the-fragile-inheritance.json](./420348-arkelia-the-fragile-inheritance.json) |
 | Arkell | 199453 | [199453-arkell.json](./199453-arkell.json) |
 | Arkem | 244684 | [244684-arkem.json](./244684-arkem.json) |
@@ -14026,6 +14030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asakura! P | 63096 | [63096-asakura-p.json](./63096-asakura-p.json) |
 | Asameshimae Nyanko | 44450 | [44450-asameshimae-nyanko.json](./44450-asameshimae-nyanko.json) |
 | Asami Escape | 314809 | [314809-asami-escape.json](./314809-asami-escape.json) |
+| Asantria | 373486 | [373486-asantria.json](./373486-asantria.json) |
 | Asatsugutori | 163145 | [163145-asatsugutori.json](./163145-asatsugutori.json) |
 | Asbak | 303896 | [303896-asbak.json](./303896-asbak.json) |
 | Asbury Pines | 258480 | [258480-asbury-pines.json](./258480-asbury-pines.json) |
