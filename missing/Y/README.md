@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yandere Goth Boss: Valentine's Day | 338362 | [338362-yandere-goth-boss-valentines-day.json](./338362-yandere-goth-boss-valentines-day.json) |
 | Yandere Institute Dating Simulator | 296311 | [296311-yandere-institute-dating-simulator.json](./296311-yandere-institute-dating-simulator.json) |
 | Yandere Lover | 82076 | [82076-yandere-lover.json](./82076-yandere-lover.json) |
+| Yandere Maid: Love-Crazed Maid | 374870 | [374870-yandere-maid-love-crazed-maid.json](./374870-yandere-maid-love-crazed-maid.json) |
 | Yandere na Onee-chan ni Aishitsukusareru Kankin Seikatsu | 97470 | [97470-yandere-na-onee-chan-ni-aishitsukusareru-kankin-seikatsu.json](./97470-yandere-na-onee-chan-ni-aishitsukusareru-kankin-seikatsu.json) |
 | Yandere no Sutoka | 285048 | [285048-yandere-no-sutoka.json](./285048-yandere-no-sutoka.json) |
 | Yandere Okami vs. Bouryoku Akazukin | 335974 | [335974-yandere-okami-vs-bouryoku-akazukin.json](./335974-yandere-okami-vs-bouryoku-akazukin.json) |
@@ -760,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai Busters | 320225 | [320225-yokai-busters.json](./320225-yokai-busters.json) |
 | Yokai Crossing | 417947 | [417947-yokai-crossing.json](./417947-yokai-crossing.json) |
 | Yokai Dungeon | 120563 | [120563-yokai-dungeon.json](./120563-yokai-dungeon.json) |
+| Yokai Goddess | 374851 | [374851-yokai-goddess.json](./374851-yokai-goddess.json) |
 | Yokai Hero | 244611 | [244611-yokai-hero.json](./244611-yokai-hero.json) |
 | Yokai Hunter Shintaro | 197022 | [197022-yokai-hunter-shintaro.json](./197022-yokai-hunter-shintaro.json) |
 | Yokai Hunters | 346461 | [346461-yokai-hunters.json](./346461-yokai-hunters.json) |
@@ -1406,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Study Mate | 325061 | [325061-your-study-mate.json](./325061-your-study-mate.json) |
 | Your Sword Is So Big | 174120 | [174120-your-sword-is-so-big.json](./174120-your-sword-is-so-big.json) |
 | Your Takeout | 379325 | [379325-your-takeout.json](./379325-your-takeout.json) |
+| Your Time Has Come | 374878 | [374878-your-time-has-come.json](./374878-your-time-has-come.json) |
 | Your Time Is Mine | 82945 | [82945-your-time-is-mine.json](./82945-your-time-is-mine.json) |
 | Your Time to Shine: Island Existence | 205610 | [205610-your-time-to-shine-island-existence.json](./205610-your-time-to-shine-island-existence.json) |
 | Your Toy | 83768 | [83768-your-toy.json](./83768-your-toy.json) |
