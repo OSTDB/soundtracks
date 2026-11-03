@@ -2955,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paths & Danger | 150957 | [150957-paths-and-danger.json](./150957-paths-and-danger.json) |
 | Paths of Fight: Samurai | 249845 | [249845-paths-of-fight-samurai.json](./249845-paths-of-fight-samurai.json) |
 | Paths of the Sentinels | 199277 | [199277-paths-of-the-sentinels.json](./199277-paths-of-the-sentinels.json) |
+| Paths of the Visionaries | 360863 | [360863-paths-of-the-visionaries.json](./360863-paths-of-the-visionaries.json) |
 | Paths of Valour | 302054 | [302054-paths-of-valour.json](./302054-paths-of-valour.json) |
 | Paths Taken | 119039 | [119039-paths-taken.json](./119039-paths-taken.json) |
 | Paths: Beatrice's Adventure | 246267 | [246267-paths-beatrices-adventure.json](./246267-paths-beatrices-adventure.json) |
@@ -7009,6 +7010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinpoint | 321116 | [321116-pinpoint.json](./321116-pinpoint.json) |
 | PinRogue | 406935 | [406935-pinrogue.json](./406935-pinrogue.json) |
 | PinScape | 412707 | [412707-pinscape.json](./412707-pinscape.json) |
+| Pinsky Protocol | 360881 | [360881-pinsky-protocol.json](./360881-pinsky-protocol.json) |
 | Pinta's Quest | 227748 | [227748-pintas-quest.json](./227748-pintas-quest.json) |
 | Pintando com Senninha | 408277 | [408277-pintando-com-senninha.json](./408277-pintando-com-senninha.json) |
 | Pintar | 330529 | [330529-pintar.json](./330529-pintar.json) |
@@ -13971,6 +13973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princesses vs Dragons: Royal Rumble | 121187 | [121187-princesses-vs-dragons-royal-rumble.json](./121187-princesses-vs-dragons-royal-rumble.json) |
 | PrincessGuardians | 114563 | [114563-princessguardians.json](./114563-princessguardians.json) |
 | PrincessGuardiansParodyH | 118343 | [118343-princessguardiansparodyh.json](./118343-princessguardiansparodyh.json) |
+| Principal Panic | 360839 | [360839-principal-panic.json](./360839-principal-panic.json) |
 | Principia | 407911 | [407911-principia.json](./407911-principia.json) |
 | Principia: Master of Science | 32826 | [32826-principia-master-of-science.json](./32826-principia-master-of-science.json) |
 | Principle of Karma | 201447 | [201447-principle-of-karma.json](./201447-principle-of-karma.json) |
@@ -15645,6 +15648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: XD | 196595 | [196595-project-xd.json](./196595-project-xd.json) |
 | Project: Youtuber | 147301 | [147301-project-youtuber.json](./147301-project-youtuber.json) |
 | Project:; Cold Case.Mirage | 337066 | [337066-project-cold-case-mirage.json](./337066-project-cold-case-mirage.json) |
+| Project:M | 360878 | [360878-project-m.json](./360878-project-m.json) |
 | Project:Pong | 149440 | [149440-project-pong.json](./149440-project-pong.json) |
 | Project.Tasker | 381301 | [381301-project-tasker.json](./381301-project-tasker.json) |
 | Project+ | 131887 | [131887-project.json](./131887-project.json) |
@@ -17007,6 +17011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Box 3D | 391087 | [391087-push-box-3d.json](./391087-push-box-3d.json) |
 | Push Comes to Shovel | 211783 | [211783-push-comes-to-shovel.json](./211783-push-comes-to-shovel.json) |
 | Push Corgi | 379156 | [379156-push-corgi.json](./379156-push-corgi.json) |
+| Push Defense | 360842 | [360842-push-defense.json](./360842-push-defense.json) |
 | Push For Emor | 32468 | [32468-push-for-emor.json](./32468-push-for-emor.json) |
 | Push IT: Sokoban Puzzle | 232386 | [232386-push-it-sokoban-puzzle.json](./232386-push-it-sokoban-puzzle.json) |
 | Push Me | 152677 | [152677-push-me.json](./152677-push-me.json) |
