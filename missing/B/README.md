@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10068,6 +10069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Puzzle Legend | 104585 | [104585-block-puzzle-legend.json](./104585-block-puzzle-legend.json) |
 | Block Puzzle Pop!! | 241805 | [241805-block-puzzle-pop.json](./241805-block-puzzle-pop.json) |
 | Block Puzzle Sudoku | 227380 | [227380-block-puzzle-sudoku.json](./227380-block-puzzle-sudoku.json) |
+| Block Puzzle Sudoku | 370361 | [370361-block-puzzle-sudoku.json](./370361-block-puzzle-sudoku.json) |
 | Block Puzzle Wood | 90538 | [90538-block-puzzle-wood.json](./90538-block-puzzle-wood.json) |
 | Block Puzzle: Gem Legend | 232488 | [232488-block-puzzle-gem-legend.json](./232488-block-puzzle-gem-legend.json) |
 | Block Puzzle: Jewel Blast | 216134 | [216134-block-puzzle-jewel-blast.json](./216134-block-puzzle-jewel-blast.json) |
@@ -14729,6 +14731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker Hero | 235267 | [235267-brick-breaker-hero.json](./235267-brick-breaker-hero.json) |
 | Brick Breaker II Turbo | 69761 | [69761-brick-breaker-ii-turbo.json](./69761-brick-breaker-ii-turbo.json) |
 | Brick Breaker Infinity | 305932 | [305932-brick-breaker-infinity.json](./305932-brick-breaker-infinity.json) |
+| Brick Breaker Journeys | 370364 | [370364-brick-breaker-journeys.json](./370364-brick-breaker-journeys.json) |
 | Brick Breaker Lab | 237306 | [237306-brick-breaker-lab.json](./237306-brick-breaker-lab.json) |
 | Brick Breaker Maker | 344515 | [344515-brick-breaker-maker.json](./344515-brick-breaker-maker.json) |
 | Brick Breaker Premium | 104081 | [104081-brick-breaker-premium.json](./104081-brick-breaker-premium.json) |
@@ -15785,6 +15788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter FX | 168680 | [168680-bubble-shooter-fx.json](./168680-bubble-shooter-fx.json) |
 | Bubble Shooter Mission | 102576 | [102576-bubble-shooter-mission.json](./102576-bubble-shooter-mission.json) |
 | Bubble Shooter Piratey | 402060 | [402060-bubble-shooter-piratey.json](./402060-bubble-shooter-piratey.json) |
+| Bubble Shooter Pop! | 370357 | [370357-bubble-shooter-pop.json](./370357-bubble-shooter-pop.json) |
 | Bubble Shooter Star | 214288 | [214288-bubble-shooter-star.json](./214288-bubble-shooter-star.json) |
 | Bubble Shooter: Color Splash | 413361 | [413361-bubble-shooter-color-splash.json](./413361-bubble-shooter-color-splash.json) |
 | Bubble Shooter: Fashion Bird | 108444 | [108444-bubble-shooter-fashion-bird.json](./108444-bubble-shooter-fashion-bird.json) |
