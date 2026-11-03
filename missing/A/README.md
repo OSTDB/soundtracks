@@ -9853,6 +9853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: Lovely Lolita | 325890 | [325890-anime-girls-lovely-lolita.json](./325890-anime-girls-lovely-lolita.json) |
 | Anime Girls: Natty New Year | 328572 | [328572-anime-girls-natty-new-year.json](./328572-anime-girls-natty-new-year.json) |
 | Anime Girls: Natty Nurse | 319782 | [319782-anime-girls-natty-nurse.json](./319782-anime-girls-natty-nurse.json) |
+| Anime Girls: Naughty Neko | 349572 | [349572-anime-girls-naughty-neko.json](./349572-anime-girls-naughty-neko.json) |
 | Anime Girls: Nimble Ninja | 362370 | [362370-anime-girls-nimble-ninja.json](./362370-anime-girls-nimble-ninja.json) |
 | Anime Girls: Puffy Pumpkin | 375125 | [375125-anime-girls-puffy-pumpkin.json](./375125-anime-girls-puffy-pumpkin.json) |
 | Anime Girls: Shanghai Romance | 393414 | [393414-anime-girls-shanghai-romance.json](./393414-anime-girls-shanghai-romance.json) |
@@ -12003,6 +12004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Solomon's Key | 99564 | [99564-arcade-archives-solomons-key.json](./99564-arcade-archives-solomons-key.json) |
 | Arcade Archives: Space Cruiser | 165601 | [165601-arcade-archives-space-cruiser.json](./165601-arcade-archives-space-cruiser.json) |
 | Arcade Archives: Space Invaders Part II | 385156 | [385156-arcade-archives-space-invaders-part-ii.json](./385156-arcade-archives-space-invaders-part-ii.json) |
+| Arcade Archives: Spinal Breakers | 349573 | [349573-arcade-archives-spinal-breakers.json](./349573-arcade-archives-spinal-breakers.json) |
 | Arcade Archives: Splatter House | 254628 | [254628-arcade-archives-splatter-house.json](./254628-arcade-archives-splatter-house.json) |
 | Arcade Archives: Star Force | 75707 | [75707-arcade-archives-star-force.json](./75707-arcade-archives-star-force.json) |
 | Arcade Archives: Stinger | 356975 | [356975-arcade-archives-stinger.json](./356975-arcade-archives-stinger.json) |
@@ -15919,7 +15921,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -16178,6 +16179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack From the Void | 244062 | [244062-attack-from-the-void.json](./244062-attack-from-the-void.json) |
 | Attack Heroes | 28305 | [28305-attack-heroes.json](./28305-attack-heroes.json) |
 | Attack Hole | 324782 | [324782-attack-hole.json](./324782-attack-hole.json) |
+| Attack Hole: Hero Edition | 349593 | [349593-attack-hole-hero-edition.json](./349593-attack-hole-hero-edition.json) |
 | Attack of Insects | 56655 | [56655-attack-of-insects.json](./56655-attack-of-insects.json) |
 | Attack of Jeff the Killer: Scary Slender Life | 63154 | [63154-attack-of-jeff-the-killer-scary-slender-life.json](./63154-attack-of-jeff-the-killer-scary-slender-life.json) |
 | Attack of the Alien Robot Monsters | 114745 | [114745-attack-of-the-alien-robot-monsters.json](./114745-attack-of-the-alien-robot-monsters.json) |
