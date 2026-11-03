@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wagamama Fairy: Mirumo de Pon! Taisen Mahoudama | 283397 | [283397-wagamama-fairy-mirumo-de-pon-taisen-mahoudama.json](./283397-wagamama-fairy-mirumo-de-pon-taisen-mahoudama.json) |
 | Wagamama Fashion: Girls Mode Yokubari Sengen! Tokimeki Up! | 136906 | [136906-wagamama-fashion-girls-mode-yokubari-sengen-tokimeki-up.json](./136906-wagamama-fashion-girls-mode-yokubari-sengen-tokimeki-up.json) |
 | Wagamama High Spec | 36727 | [36727-wagamama-high-spec.json](./36727-wagamama-high-spec.json) |
+| Wagamama High Spec Oc | 384235 | [384235-wagamama-high-spec-oc.json](./384235-wagamama-high-spec-oc.json) |
 | Wagee | 402519 | [402519-wagee.json](./402519-wagee.json) |
 | Wager | 171303 | [171303-wager.json](./171303-wager.json) |
 | Wagers of War | 54968 | [54968-wagers-of-war.json](./54968-wagers-of-war.json) |
@@ -2479,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waveform | 15273 | [15273-waveform.json](./15273-waveform.json) |
 | Waveform Wipeout | 105687 | [105687-waveform-wipeout.json](./105687-waveform-wipeout.json) |
 | Waveform: Eris | 168945 | [168945-waveform-eris.json](./168945-waveform-eris.json) |
+| Wavefront | 384120 | [384120-wavefront.json](./384120-wavefront.json) |
 | WaveLand | 31159 | [31159-waveland.json](./31159-waveland.json) |
 | Wavelength | 140902 | [140902-wavelength.json](./140902-wavelength.json) |
 | Waven | 109536 | [109536-waven.json](./109536-waven.json) |
@@ -4064,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where To? | 415434 | [415434-where-to.json](./415434-where-to.json) |
 | Where We Remain | 242922 | [242922-where-we-remain.json](./242922-where-we-remain.json) |
 | Where We Used to Play | 385956 | [385956-where-we-used-to-play.json](./385956-where-we-used-to-play.json) |
+| Where We Went | 384124 | [384124-where-we-went.json](./384124-where-we-went.json) |
 | Where wh..? | 305971 | [305971-where-wh.json](./305971-where-wh.json) |
 | Where Wind Becomes Quiet | 147003 | [147003-where-wind-becomes-quiet.json](./147003-where-wind-becomes-quiet.json) |
 | Where Winds Meet: Hidden Mountain | 405087 | [405087-where-winds-meet-hidden-mountain.json](./405087-where-winds-meet-hidden-mountain.json) |
@@ -6573,6 +6576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobble Warriors | 261558 | [261558-wobble-warriors.json](./261558-wobble-warriors.json) |
 | Wobble Wobble | 397923 | [397923-wobble-wobble.json](./397923-wobble-wobble.json) |
 | Wobbledogs: Console Edition | 250554 | [250554-wobbledogs-console-edition.json](./250554-wobbledogs-console-edition.json) |
+| Wobbler | 383990 | [383990-wobbler.json](./383990-wobbler.json) |
 | Wobbly Bobbly | 69882 | [69882-wobbly-bobbly.json](./69882-wobbly-bobbly.json) |
 | Wobbly Construction! | 327448 | [327448-wobbly-construction.json](./327448-wobbly-construction.json) |
 | Wobbly Heights | 311197 | [311197-wobbly-heights.json](./311197-wobbly-heights.json) |
