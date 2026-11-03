@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W.O.T.E: Waking On The Endtimes | 309875 | [309875-w-o-t-e-waking-on-the-endtimes.json](./309875-w-o-t-e-waking-on-the-endtimes.json) |
 | W.R.M. | 214345 | [214345-w-r-m.json](./214345-w-r-m.json) |
 | W.T. | 151689 | [151689-w-t.json](./151689-w-t.json) |
+| W.U.R.M. | 364795 | [364795-w-u-r-m.json](./364795-w-u-r-m.json) |
 | W2000_CHAN_>W<.exe | 383932 | [383932-w2000-chan-w-exe.json](./383932-w2000-chan-w-exe.json) |
 | W3Champions | 316722 | [316722-w3champions.json](./316722-w3champions.json) |
 | W3DR | 50448 | [50448-w3dr.json](./50448-w3dr.json) |
@@ -3139,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Albion! | 204893 | [204893-welcome-to-albion.json](./204893-welcome-to-albion.json) |
 | Welcome to Amsoft Side A | 39128 | [39128-welcome-to-amsoft-side-a.json](./39128-welcome-to-amsoft-side-a.json) |
 | Welcome to Amsoft Side B | 39129 | [39129-welcome-to-amsoft-side-b.json](./39129-welcome-to-amsoft-side-b.json) |
+| Welcome to Basingstoke | 364816 | [364816-welcome-to-basingstoke.json](./364816-welcome-to-basingstoke.json) |
 | Welcome to Bodyland | 374020 | [374020-welcome-to-bodyland.json](./374020-welcome-to-bodyland.json) |
 | Welcome to Brightville | 339224 | [339224-welcome-to-brightville.json](./339224-welcome-to-brightville.json) |
 | Welcome to Bulletheck | 298784 | [298784-welcome-to-bulletheck.json](./298784-welcome-to-bulletheck.json) |
@@ -6668,6 +6670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Simulator | 253803 | [253803-wolf-simulator.json](./253803-wolf-simulator.json) |
 | Wolf Simulator | 258514 | [258514-wolf-simulator.json](./258514-wolf-simulator.json) |
 | Wolf Simulator | 32481 | [32481-wolf-simulator.json](./32481-wolf-simulator.json) |
+| Wolf Simulator 2025: Wild RPG Survival | 364817 | [364817-wolf-simulator-2025-wild-rpg-survival.json](./364817-wolf-simulator-2025-wild-rpg-survival.json) |
 | Wolf Souls | 249670 | [249670-wolf-souls.json](./249670-wolf-souls.json) |
 | Wolf Souls: Arena | 324331 | [324331-wolf-souls-arena.json](./324331-wolf-souls-arena.json) |
 | Wolf Survival | 287688 | [287688-wolf-survival.json](./287688-wolf-survival.json) |
