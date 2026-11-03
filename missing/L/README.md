@@ -4934,6 +4934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lim Beyond One-on-One Basketball | 254782 | [254782-lim-beyond-one-on-one-basketball.json](./254782-lim-beyond-one-on-one-basketball.json) |
 | Limacina Open Season | 398564 | [398564-limacina-open-season.json](./398564-limacina-open-season.json) |
 | Limax.io | 54892 | [54892-limax-io.json](./54892-limax-io.json) |
+| Limb | 371486 | [371486-limb.json](./371486-limb.json) |
 | Limb Chopper | 323985 | [323985-limb-chopper.json](./323985-limb-chopper.json) |
 | Limb Driver | 348582 | [348582-limb-driver.json](./348582-limb-driver.json) |
 | Limb From Limb | 290881 | [290881-limb-from-limb.json](./290881-limb-from-limb.json) |
@@ -7359,6 +7360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord Temin's Fortress | 187441 | [187441-lord-temins-fortress.json](./187441-lord-temins-fortress.json) |
 | Lord Winklebottom Investigates | 115180 | [115180-lord-winklebottom-investigates.json](./115180-lord-winklebottom-investigates.json) |
 | Lord's Journey | 313531 | [313531-lords-journey.json](./313531-lords-journey.json) |
+| Lordbound | 371497 | [371497-lordbound.json](./371497-lordbound.json) |
 | Lordcraft | 420669 | [420669-lordcraft.json](./420669-lordcraft.json) |
 | Lordian: karma | 101237 | [101237-lordian-karma.json](./101237-lordian-karma.json) |
 | Lordlings of Yore | 25614 | [25614-lordlings-of-yore.json](./25614-lordlings-of-yore.json) |
