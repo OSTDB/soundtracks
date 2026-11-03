@@ -7514,6 +7514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShellFire | 193826 | [193826-shellfire.json](./193826-shellfire.json) |
 | Shellguard: Starbound Expansion Remastered | 357316 | [357316-shellguard-starbound-expansion-remastered.json](./357316-shellguard-starbound-expansion-remastered.json) |
 | Shellie's Secret | 378169 | [378169-shellies-secret.json](./378169-shellies-secret.json) |
+| ShellMobile: Titan Rampart | 353162 | [353162-shellmobile-titan-rampart.json](./353162-shellmobile-titan-rampart.json) |
 | Shelloween | 328324 | [328324-shelloween.json](./328324-shelloween.json) |
 | ShellPieces | 356894 | [356894-shellpieces.json](./356894-shellpieces.json) |
 | Shellrazer | 214670 | [214670-shellrazer.json](./214670-shellrazer.json) |
@@ -34405,10 +34406,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Electro Swing Essentials | 356829 | [356829-synth-riders-electro-swing-essentials.json](./356829-synth-riders-electro-swing-essentials.json) |
 | Synth Riders: Electro Swing Essentials 2 | 356902 | [356902-synth-riders-electro-swing-essentials-2.json](./356902-synth-riders-electro-swing-essentials-2.json) |
 | Synth Riders: FM-84 & Ollie Wride - "Running in the Night" | 356365 | [356365-synth-riders-fm-84-and-ollie-wride-running-in-the-night.json](./356365-synth-riders-fm-84-and-ollie-wride-running-in-the-night.json) |
+| Synth Riders: Gorillaz - "Clint Eastwood" | 353170 | [353170-synth-riders-gorillaz-clint-eastwood.json](./353170-synth-riders-gorillaz-clint-eastwood.json) |
+| Synth Riders: Gorillaz - "Cracker Island" | 353171 | [353171-synth-riders-gorillaz-cracker-island.json](./353171-synth-riders-gorillaz-cracker-island.json) |
 | Synth Riders: Gorillaz - "Dare" | 353174 | [353174-synth-riders-gorillaz-dare.json](./353174-synth-riders-gorillaz-dare.json) |
 | Synth Riders: Gorillaz - "Feel Good Inc" | 353175 | [353175-synth-riders-gorillaz-feel-good-inc.json](./353175-synth-riders-gorillaz-feel-good-inc.json) |
 | Synth Riders: Gorillaz - "New Gold" | 353176 | [353176-synth-riders-gorillaz-new-gold.json](./353176-synth-riders-gorillaz-new-gold.json) |
 | Synth Riders: Gorillaz - "On Melancholy Hill" | 353173 | [353173-synth-riders-gorillaz-on-melancholy-hill.json](./353173-synth-riders-gorillaz-on-melancholy-hill.json) |
+| Synth Riders: Gorillaz - "Sleeping Powder" | 353172 | [353172-synth-riders-gorillaz-sleeping-powder.json](./353172-synth-riders-gorillaz-sleeping-powder.json) |
 | Synth Riders: Gorillaz Music Pack | 353181 | [353181-synth-riders-gorillaz-music-pack.json](./353181-synth-riders-gorillaz-music-pack.json) |
 | Synth Riders: Gorillaz Music Pack | 382179 | [382179-synth-riders-gorillaz-music-pack.json](./382179-synth-riders-gorillaz-music-pack.json) |
 | Synth Riders: Groovin' Essentials | 356180 | [356180-synth-riders-groovin-essentials.json](./356180-synth-riders-groovin-essentials.json) |
@@ -34465,9 +34469,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Pegboard Nerds - "Moshi" | 356366 | [356366-synth-riders-pegboard-nerds-moshi.json](./356366-synth-riders-pegboard-nerds-moshi.json) |
 | Synth Riders: Phil Collins - "Sussudio" | 298702 | [298702-synth-riders-phil-collins-sussudio.json](./298702-synth-riders-phil-collins-sussudio.json) |
 | Synth Riders: Queen - "Don't Stop Me Now" | 352400 | [352400-synth-riders-queen-dont-stop-me-now.json](./352400-synth-riders-queen-dont-stop-me-now.json) |
+| Synth Riders: Radiohead - "Creep" | 353166 | [353166-synth-riders-radiohead-creep.json](./353166-synth-riders-radiohead-creep.json) |
+| Synth Riders: Red Hot Chili Peppers - "Give It Away" | 353165 | [353165-synth-riders-red-hot-chili-peppers-give-it-away.json](./353165-synth-riders-red-hot-chili-peppers-give-it-away.json) |
 | Synth Riders: Remastered Edition | 235073 | [235073-synth-riders-remastered-edition.json](./235073-synth-riders-remastered-edition.json) |
 | Synth Riders: Rick Astley - "Never Gonna Give You Up" | 352396 | [352396-synth-riders-rick-astley-never-gonna-give-you-up.json](./352396-synth-riders-rick-astley-never-gonna-give-you-up.json) |
+| Synth Riders: Sia - "Gimme Love" | 353164 | [353164-synth-riders-sia-gimme-love.json](./353164-synth-riders-sia-gimme-love.json) |
 | Synth Riders: Silk Sonic - "Skate" | 356116 | [356116-synth-riders-silk-sonic-skate.json](./356116-synth-riders-silk-sonic-skate.json) |
+| Synth Riders: Simple Minds - "Don't You (Forget About Me)" | 353168 | [353168-synth-riders-simple-minds-dont-you-forget-about-me.json](./353168-synth-riders-simple-minds-dont-you-forget-about-me.json) |
 | Synth Riders: Soundgarden - "Black Hole Sun" | 352398 | [352398-synth-riders-soundgarden-black-hole-sun.json](./352398-synth-riders-soundgarden-black-hole-sun.json) |
 | Synth Riders: Starcadian - "Manuals" | 356172 | [356172-synth-riders-starcadian-manuals.json](./356172-synth-riders-starcadian-manuals.json) |
 | Synth Riders: Starcadian - "New Cydonia" | 356080 | [356080-synth-riders-starcadian-new-cydonia.json](./356080-synth-riders-starcadian-new-cydonia.json) |
@@ -34489,6 +34497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: The Smile - "Zero Sum" | 364552 | [364552-synth-riders-the-smile-zero-sum.json](./364552-synth-riders-the-smile-zero-sum.json) |
 | Synth Riders: Tokyo Machine - "Turbo" | 356171 | [356171-synth-riders-tokyo-machine-turbo.json](./356171-synth-riders-tokyo-machine-turbo.json) |
 | Synth Riders: Toto - "Africa" | 352395 | [352395-synth-riders-toto-africa.json](./352395-synth-riders-toto-africa.json) |
+| Synth Riders: Wham! - "Wake Me Up Before You Go-Go" | 353167 | [353167-synth-riders-wham-wake-me-up-before-you-go-go.json](./353167-synth-riders-wham-wake-me-up-before-you-go-go.json) |
 | Synth Swinger | 156051 | [156051-synth-swinger.json](./156051-synth-swinger.json) |
 | Synth War Tactics | 151188 | [151188-synth-war-tactics.json](./151188-synth-war-tactics.json) |
 | Synthaar | 304880 | [304880-synthaar.json](./304880-synthaar.json) |
