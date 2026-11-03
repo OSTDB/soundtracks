@@ -7555,6 +7555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper Lifter | 151969 | [151969-flipper-lifter.json](./151969-flipper-lifter.json) |
 | Flipper Mechanic | 117798 | [117798-flipper-mechanic.json](./117798-flipper-mechanic.json) |
 | Flipper Mechanic Simulator | 244789 | [244789-flipper-mechanic-simulator.json](./244789-flipper-mechanic-simulator.json) |
+| Flipper of Eridanus | 391417 | [391417-flipper-of-eridanus.json](./391417-flipper-of-eridanus.json) |
 | Flipper on Recoil | 391227 | [391227-flipper-on-recoil.json](./391227-flipper-on-recoil.json) |
 | Flipper Pool | 84342 | [84342-flipper-pool.json](./84342-flipper-pool.json) |
 | Flipper Slipper | 40896 | [40896-flipper-slipper.json](./40896-flipper-slipper.json) |
@@ -8999,6 +9000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Zekyll | 368814 | [368814-for-zekyll.json](./368814-for-zekyll.json) |
 | Foragarden | 412095 | [412095-foragarden.json](./412095-foragarden.json) |
 | Forager | 25580 | [25580-forager.json](./25580-forager.json) |
+| Forager's Finds | 391421 | [391421-foragers-finds.json](./391421-foragers-finds.json) |
 | Forays into Norrendrin | 148391 | [148391-forays-into-norrendrin.json](./148391-forays-into-norrendrin.json) |
 | Forbes Corporate Warrior | 71373 | [71373-forbes-corporate-warrior.json](./71373-forbes-corporate-warrior.json) |
 | Forbidden | 195953 | [195953-forbidden.json](./195953-forbidden.json) |
@@ -11402,6 +11404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendzoned 3 | 276806 | [276806-friendzoned-3.json](./276806-friendzoned-3.json) |
 | Friendzoned 4 | 276807 | [276807-friendzoned-4.json](./276807-friendzoned-4.json) |
 | FriendZoned Archer | 88132 | [88132-friendzoned-archer.json](./88132-friendzoned-archer.json) |
+| Fries Drive | 391428 | [391428-fries-drive.json](./391428-fries-drive.json) |
 | Frieseria: The Grand Reopening | 266994 | [266994-frieseria-the-grand-reopening.json](./266994-frieseria-the-grand-reopening.json) |
 | Frigate | 250923 | [250923-frigate.json](./250923-frigate.json) |
 | Frigato: Shadows of the Caribbean | 204842 | [204842-frigato-shadows-of-the-caribbean.json](./204842-frigato-shadows-of-the-caribbean.json) |
@@ -12234,6 +12237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruity Freddy | 347833 | [347833-fruity-freddy.json](./347833-fruity-freddy.json) |
 | Fruity Friendz Adventurez | 340266 | [340266-fruity-friendz-adventurez.json](./340266-fruity-friendz-adventurez.json) |
 | Fruity Game | 400565 | [400565-fruity-game.json](./400565-fruity-game.json) |
+| Frukt | 391456 | [391456-frukt.json](./391456-frukt.json) |
 | Frustrate-a-ball | 367150 | [367150-frustrate-a-ball.json](./367150-frustrate-a-ball.json) |
 | Frustration Golf | 181713 | [181713-frustration-golf.json](./181713-frustration-golf.json) |
 | Frustration Nation | 335504 | [335504-frustration-nation.json](./335504-frustration-nation.json) |
