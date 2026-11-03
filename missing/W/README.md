@@ -2301,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watchmen: The End Is Nigh | 7246 | [7246-watchmen-the-end-is-nigh.json](./7246-watchmen-the-end-is-nigh.json) |
 | Watchmen: The End Is Nigh Complete Experience | 44619 | [44619-watchmen-the-end-is-nigh-complete-experience.json](./44619-watchmen-the-end-is-nigh-complete-experience.json) |
 | Watchmen: The End is Nigh Part 2 | 27854 | [27854-watchmen-the-end-is-nigh-part-2.json](./27854-watchmen-the-end-is-nigh-part-2.json) |
+| Watchstander: Surface Warfare Officer Training Simulator | 363134 | [363134-watchstander-surface-warfare-officer-training-simulator.json](./363134-watchstander-surface-warfare-officer-training-simulator.json) |
 | Watchtower | 15568 | [15568-watchtower.json](./15568-watchtower.json) |
 | Watchword | 343281 | [343281-watchword.json](./343281-watchword.json) |
 | Watee | 240189 | [240189-watee.json](./240189-watee.json) |
