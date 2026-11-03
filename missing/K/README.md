@@ -2687,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5954,6 +5955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KuruKuru MaruMaru | 263956 | [263956-kurukuru-marumaru.json](./263956-kurukuru-marumaru.json) |
 | KuruKuru Princess: Tokimeki Figure Mezase! Vancouver | 77135 | [77135-kurukuru-princess-tokimeki-figure-mezase-vancouver.json](./77135-kurukuru-princess-tokimeki-figure-mezase-vancouver.json) |
 | KuruKuru Princess: Yume no White Quartet | 70668 | [70668-kurukuru-princess-yume-no-white-quartet.json](./70668-kurukuru-princess-yume-no-white-quartet.json) |
+| Kurukuru Twinkle: Onegai Ohoshisama | 396331 | [396331-kurukuru-twinkle-onegai-ohoshisama.json](./396331-kurukuru-twinkle-onegai-ohoshisama.json) |
 | Kuruma de DS | 302675 | [302675-kuruma-de-ds.json](./302675-kuruma-de-ds.json) |
 | Kurumi Diary | 233476 | [233476-kurumi-diary.json](./233476-kurumi-diary.json) |
 | Kurumi-chan A-so-bo | 97385 | [97385-kurumi-chan-a-so-bo.json](./97385-kurumi-chan-a-so-bo.json) |
