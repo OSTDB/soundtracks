@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bank | 364595 | [364595-bank.json](./364595-bank.json) |
 | Bank Escape Pro | 68773 | [68773-bank-escape-pro.json](./68773-bank-escape-pro.json) |
 | Bank Heist | 11129 | [11129-bank-heist.json](./11129-bank-heist.json) |
+| Bank It! | 359691 | [359691-bank-it.json](./359691-bank-it.json) |
 | Bank Panic | 6083 | [6083-bank-panic.json](./6083-bank-panic.json) |
 | Bank Raid | 218362 | [218362-bank-raid.json](./218362-bank-raid.json) |
 | Bank Robber | 234848 | [234848-bank-robber.json](./234848-bank-robber.json) |
@@ -2100,7 +2101,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bank-A-Ball | 84323 | [84323-bank-a-ball.json](./84323-bank-a-ball.json) |
 | BankBank | 98057 | [98057-bankbank.json](./98057-bankbank.json) |
 | Banker HD | 213789 | [213789-banker-hd.json](./213789-banker-hd.json) |
+| Bankfeest | 359689 | [359689-bankfeest.json](./359689-bankfeest.json) |
 | Banking Dream | 84776 | [84776-banking-dream.json](./84776-banking-dream.json) |
+| BankingSim | 359690 | [359690-bankingsim.json](./359690-bankingsim.json) |
 | Bankrupt Demon King | 216071 | [216071-bankrupt-demon-king.json](./216071-bankrupt-demon-king.json) |
 | Bankrupt Heroines | 157077 | [157077-bankrupt-heroines.json](./157077-bankrupt-heroines.json) |
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
@@ -2648,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baron von Puttyngton versus the Cancerous M.C. Escher Maze of Cheese | 80428 | [80428-baron-von-puttyngton-versus-the-cancerous-m-c-escher-maze-of-cheese.json](./80428-baron-von-puttyngton-versus-the-cancerous-m-c-escher-maze-of-cheese.json) |
 | Baron Wittard: Nemesis of Ragnarok | 10022 | [10022-baron-wittard-nemesis-of-ragnarok.json](./10022-baron-wittard-nemesis-of-ragnarok.json) |
 | Baron: Fur is Gonna Fly | 123216 | [123216-baron-fur-is-gonna-fly.json](./123216-baron-fur-is-gonna-fly.json) |
+| Baron: The Real Estate Simulation | 359704 | [359704-baron-the-real-estate-simulation.json](./359704-baron-the-real-estate-simulation.json) |
 | Barony | 35189 | [35189-barony.json](./35189-barony.json) |
 | Barony: Deserters & Disciples | 387400 | [387400-barony-deserters-and-disciples.json](./387400-barony-deserters-and-disciples.json) |
 | Barony: Legends & Pariahs | 154520 | [154520-barony-legends-and-pariahs.json](./154520-barony-legends-and-pariahs.json) |
@@ -2685,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrel Full of Monkeys | 223496 | [223496-barrel-full-of-monkeys.json](./223496-barrel-full-of-monkeys.json) |
 | Barrel It: The Water Adventure | 248392 | [248392-barrel-it-the-water-adventure.json](./248392-barrel-it-the-water-adventure.json) |
 | Barrel of DNA | 175220 | [175220-barrel-of-dna.json](./175220-barrel-of-dna.json) |
+| Barrel Patrol 3D | 359705 | [359705-barrel-patrol-3d.json](./359705-barrel-patrol-3d.json) |
 | Barrel Rescue | 7438 | [7438-barrel-rescue.json](./7438-barrel-rescue.json) |
 | Barrel River 2 | 196809 | [196809-barrel-river-2.json](./196809-barrel-river-2.json) |
 | Barrel Roll | 135056 | [135056-barrel-roll.json](./135056-barrel-roll.json) |
@@ -11106,6 +11111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Blood | 141770 | [141770-blue-blood.json](./141770-blue-blood.json) |
 | Blue Blood | 213939 | [213939-blue-blood.json](./213939-blue-blood.json) |
 | Blue Blood Lagoon | 69519 | [69519-blue-blood-lagoon.json](./69519-blue-blood-lagoon.json) |
+| Blue Book | 359694 | [359694-blue-book.json](./359694-blue-book.json) |
 | Blue Box | 200753 | [200753-blue-box.json](./200753-blue-box.json) |
 | Blue Boy Adventure | 262193 | [262193-blue-boy-adventure.json](./262193-blue-boy-adventure.json) |
 | Blue Boy: Bleeding Out | 126879 | [126879-blue-boy-bleeding-out.json](./126879-blue-boy-bleeding-out.json) |
@@ -12445,6 +12451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book 5 Untold | 254549 | [254549-book-5-untold.json](./254549-book-5-untold.json) |
 | Book Collector | 212688 | [212688-book-collector.json](./212688-book-collector.json) |
 | Book End | 221419 | [221419-book-end.json](./221419-book-end.json) |
+| Book Head Monster | 359695 | [359695-book-head-monster.json](./359695-book-head-monster.json) |
 | Book Hunter | 190930 | [190930-book-hunter.json](./190930-book-hunter.json) |
 | Book Inside | 392921 | [392921-book-inside.json](./392921-book-inside.json) |
 | Book Nook | 404843 | [404843-book-nook.json](./404843-book-nook.json) |
@@ -12453,8 +12460,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Aliens | 127235 | [127235-book-of-aliens.json](./127235-book-of-aliens.json) |
 | Book of Beasts | 141179 | [141179-book-of-beasts.json](./141179-book-of-beasts.json) |
 | Book of Coin | 221113 | [221113-book-of-coin.json](./221113-book-of-coin.json) |
+| Book of Decisions | 359698 | [359698-book-of-decisions.json](./359698-book-of-decisions.json) |
 | Book of Demons | 22747 | [22747-book-of-demons.json](./22747-book-of-demons.json) |
 | Book of Eos | 115388 | [115388-book-of-eos.json](./115388-book-of-eos.json) |
+| Book of Fei | 359693 | [359693-book-of-fei.json](./359693-book-of-fei.json) |
 | Book of Hours | 119228 | [119228-book-of-hours.json](./119228-book-of-hours.json) |
 | Book of Hours: Anthology Edition | 383428 | [383428-book-of-hours-anthology-edition.json](./383428-book-of-hours-anthology-edition.json) |
 | Book of Hours: House of Light | 294012 | [294012-book-of-hours-house-of-light.json](./294012-book-of-hours-house-of-light.json) |
@@ -12492,8 +12501,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookend | 115559 | [115559-bookend.json](./115559-bookend.json) |
 | Bookers: Underground Chapter | 104085 | [104085-bookers-underground-chapter.json](./104085-bookers-underground-chapter.json) |
 | Bookey Manor | 333915 | [333915-bookey-manor.json](./333915-bookey-manor.json) |
+| Bookie | 359696 | [359696-bookie.json](./359696-bookie.json) |
 | Booking Revolution | 76991 | [76991-booking-revolution.json](./76991-booking-revolution.json) |
 | Booking Revolution HD | 89018 | [89018-booking-revolution-hd.json](./89018-booking-revolution-hd.json) |
+| Booklet's Big Story | 359697 | [359697-booklets-big-story.json](./359697-booklets-big-story.json) |
 | Bookmark Hero | 404936 | [404936-bookmark-hero.json](./404936-bookmark-hero.json) |
 | Books | 55327 | [55327-books.json](./55327-books.json) |
 | Books & Blood | 418903 | [418903-books-and-blood.json](./418903-books-and-blood.json) |
