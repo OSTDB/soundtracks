@@ -11817,6 +11817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Pro Tennis World Court | 200943 | [200943-arcade-archives-pro-tennis-world-court.json](./200943-arcade-archives-pro-tennis-world-court.json) |
 | Arcade Archives: Punch-Out!! | 68357 | [68357-arcade-archives-punch-out.json](./68357-arcade-archives-punch-out.json) |
 | Arcade Archives: Qix | 194365 | [194365-arcade-archives-qix.json](./194365-arcade-archives-qix.json) |
+| Arcade Archives: Quester | 389843 | [389843-arcade-archives-quester.json](./389843-arcade-archives-quester.json) |
 | Arcade Archives: Rabio Lepus | 208425 | [208425-arcade-archives-rabio-lepus.json](./208425-arcade-archives-rabio-lepus.json) |
 | Arcade Archives: Rack'em Up | 406055 | [406055-arcade-archives-rackem-up.json](./406055-arcade-archives-rackem-up.json) |
 | Arcade Archives: Radical Radial | 147936 | [147936-arcade-archives-radical-radial.json](./147936-arcade-archives-radical-radial.json) |
@@ -14347,6 +14348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin Girls | 286746 | [286746-assassin-girls.json](./286746-assassin-girls.json) |
 | Assassin In the City | 181767 | [181767-assassin-in-the-city.json](./181767-assassin-in-the-city.json) |
 | Assassin Of Dombardos | 406159 | [406159-assassin-of-dombardos.json](./406159-assassin-of-dombardos.json) |
+| Assassin of Dragon | 389819 | [389819-assassin-of-dragon.json](./389819-assassin-of-dragon.json) |
 | Assassin of Goblin | 370159 | [370159-assassin-of-goblin.json](./370159-assassin-of-goblin.json) |
 | Assassin of Monsters | 370186 | [370186-assassin-of-monsters.json](./370186-assassin-of-monsters.json) |
 | Assassin of Monsters 2: Spacenator | 404810 | [404810-assassin-of-monsters-2-spacenator.json](./404810-assassin-of-monsters-2-spacenator.json) |
