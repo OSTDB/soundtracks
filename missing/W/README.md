@@ -3133,6 +3133,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Erin's Story in the World of Our Church and Halloween: Visual Novel | 223064 | [223064-welcome-to-erins-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./223064-welcome-to-erins-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
 | Welcome to Everdell | 304887 | [304887-welcome-to-everdell.json](./304887-welcome-to-everdell.json) |
 | Welcome to Factus | 362796 | [362796-welcome-to-factus.json](./362796-welcome-to-factus.json) |
+| Welcome to Fredbears | 394988 | [394988-welcome-to-fredbears.json](./394988-welcome-to-fredbears.json) |
+| Welcome to Fredbears | 394990 | [394990-welcome-to-fredbears.json](./394990-welcome-to-fredbears.json) |
 | Welcome to Free Will: Episode 3 | 237060 | [237060-welcome-to-free-will-episode-3.json](./237060-welcome-to-free-will-episode-3.json) |
 | Welcome to GameCube World!! | 175969 | [175969-welcome-to-gamecube-world.json](./175969-welcome-to-gamecube-world.json) |
 | Welcome to Genius High! | 208317 | [208317-welcome-to-genius-high.json](./208317-welcome-to-genius-high.json) |
@@ -6147,6 +6149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WitchGhost | 284837 | [284837-witchghost.json](./284837-witchghost.json) |
 | WitchHand | 258057 | [258057-witchhand.json](./258057-witchhand.json) |
 | Witchhazel Woods | 207582 | [207582-witchhazel-woods.json](./207582-witchhazel-woods.json) |
+| Witchhunter.exe | 394982 | [394982-witchhunter-exe.json](./394982-witchhunter-exe.json) |
 | Witching Hour | 154077 | [154077-witching-hour.json](./154077-witching-hour.json) |
 | Witching Hour | 261158 | [261158-witching-hour.json](./261158-witching-hour.json) |
 | Witching Hour | 410130 | [410130-witching-hour.json](./410130-witching-hour.json) |
@@ -7351,6 +7354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words for a bird | 134692 | [134692-words-for-a-bird.json](./134692-words-for-a-bird.json) |
 | Words for Evil | 36107 | [36107-words-for-evil.json](./36107-words-for-evil.json) |
 | Words for in Between | 398282 | [398282-words-for-in-between.json](./398282-words-for-in-between.json) |
+| Words from Pluto... | 395061 | [395061-words-from-pluto.json](./395061-words-from-pluto.json) |
 | Words Guesser | 314664 | [314664-words-guesser.json](./314664-words-guesser.json) |
 | Words in Pics - Drawing Puzzle | 106948 | [106948-words-in-pics-drawing-puzzle.json](./106948-words-in-pics-drawing-puzzle.json) |
 | Words In Progress | 286596 | [286596-words-in-progress.json](./286596-words-in-progress.json) |
