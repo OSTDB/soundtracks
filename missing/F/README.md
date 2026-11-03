@@ -6831,6 +6831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fjong | 55556 | [55556-fjong.json](./55556-fjong.json) |
 | Fjord battle racing | 50523 | [50523-fjord-battle-racing.json](./50523-fjord-battle-racing.json) |
 | Fjords | 62535 | [62535-fjords.json](./62535-fjords.json) |
+| FL Battle Beam | 385510 | [385510-fl-battle-beam.json](./385510-fl-battle-beam.json) |
 | FL Frisky Tom | 300009 | [300009-fl-frisky-tom.json](./300009-fl-frisky-tom.json) |
 | FL Tron | 286629 | [286629-fl-tron.json](./286629-fl-tron.json) |
 | Fl337 | 34361 | [34361-fl337.json](./34361-fl337.json) |
