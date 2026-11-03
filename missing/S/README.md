@@ -11844,7 +11844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Head World | 157408 | [157408-skull-head-world.json](./157408-skull-head-world.json) |
 | Skull Hotel | 347285 | [347285-skull-hotel.json](./347285-skull-hotel.json) |
 | Skull Hunter | 234236 | [234236-skull-hunter.json](./234236-skull-hunter.json) |
-| Skull Island: Rise of Kong | 257674 | [257674-skull-island-rise-of-kong.json](./257674-skull-island-rise-of-kong.json) |
 | Skull Island: Rise of Kong - Colossal Edition | 269382 | [269382-skull-island-rise-of-kong-colossal-edition.json](./269382-skull-island-rise-of-kong-colossal-edition.json) |
 | Skull Island: Rise of Kong - Colossal Pack | 272584 | [272584-skull-island-rise-of-kong-colossal-pack.json](./272584-skull-island-rise-of-kong-colossal-pack.json) |
 | Skull Jones | 259664 | [259664-skull-jones.json](./259664-skull-jones.json) |
@@ -18730,6 +18729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
