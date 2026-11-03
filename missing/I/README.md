@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Walk Among Zombies Vol. 0 | 163740 | [163740-i-walk-among-zombies-vol-0.json](./163740-i-walk-among-zombies-vol-0.json) |
 | I Walk Among Zombies Vol. 3 | 161519 | [161519-i-walk-among-zombies-vol-3.json](./161519-i-walk-among-zombies-vol-3.json) |
 | I Wani Hug that Gator! | 197078 | [197078-i-wani-hug-that-gator.json](./197078-i-wani-hug-that-gator.json) |
+| I Wanna Ascend | 368702 | [368702-i-wanna-ascend.json](./368702-i-wanna-ascend.json) |
 | I Wanna Be the Cat | 76580 | [76580-i-wanna-be-the-cat.json](./76580-i-wanna-be-the-cat.json) |
 | I Wanna Be the Co-op | 108829 | [108829-i-wanna-be-the-co-op.json](./108829-i-wanna-be-the-co-op.json) |
 | I Wanna Be the Creator | 110912 | [110912-i-wanna-be-the-creator.json](./110912-i-wanna-be-the-creator.json) |
@@ -2317,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal King | 216074 | [216074-immortal-king.json](./216074-immortal-king.json) |
 | Immortal Legacy: The Jade Cipher | 116010 | [116010-immortal-legacy-the-jade-cipher.json](./116010-immortal-legacy-the-jade-cipher.json) |
 | Immortal Legacy: The Jade Cipher - Console Edition | 132851 | [132851-immortal-legacy-the-jade-cipher-console-edition.json](./132851-immortal-legacy-the-jade-cipher-console-edition.json) |
+| Immortal Legends | 369264 | [369264-immortal-legends.json](./369264-immortal-legends.json) |
 | Immortal Life | 151738 | [151738-immortal-life.json](./151738-immortal-life.json) |
 | Immortal life of Confucius | 196975 | [196975-immortal-life-of-confucius.json](./196975-immortal-life-of-confucius.json) |
 | Immortal Love: Bitter Awakening | 187951 | [187951-immortal-love-bitter-awakening.json](./187951-immortal-love-bitter-awakening.json) |
@@ -3750,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Nikki: Encore Season | 375611 | [375611-infinity-nikki-encore-season.json](./375611-infinity-nikki-encore-season.json) |
 | Infinity Nikki: Firework Season | 328586 | [328586-infinity-nikki-firework-season.json](./328586-infinity-nikki-firework-season.json) |
 | Infinity Nikki: Golden Dust | 410212 | [410212-infinity-nikki-golden-dust.json](./410212-infinity-nikki-golden-dust.json) |
+| Infinity Nikki: Golden Season | 370959 | [370959-infinity-nikki-golden-season.json](./370959-infinity-nikki-golden-season.json) |
 | Infinity Nikki: Life as a Poem | 383945 | [383945-infinity-nikki-life-as-a-poem.json](./383945-infinity-nikki-life-as-a-poem.json) |
 | Infinity Nikki: Revelry Season | 336160 | [336160-infinity-nikki-revelry-season.json](./336160-infinity-nikki-revelry-season.json) |
 | Infinity Nikki: Uncrowned Heart | 393593 | [393593-infinity-nikki-uncrowned-heart.json](./393593-infinity-nikki-uncrowned-heart.json) |
@@ -5381,6 +5384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irem Collection: Volume 3 | 342246 | [342246-irem-collection-volume-3.json](./342246-irem-collection-volume-3.json) |
 | Irena: Genesis Metal Fury | 142750 | [142750-irena-genesis-metal-fury.json](./142750-irena-genesis-metal-fury.json) |
 | Irene: Journey To The North | 335071 | [335071-irene-journey-to-the-north.json](./335071-irene-journey-to-the-north.json) |
+| Irene: The Window | 370948 | [370948-irene-the-window.json](./370948-irene-the-window.json) |
 | Irezumi Defenders | 375225 | [375225-irezumi-defenders.json](./375225-irezumi-defenders.json) |
 | Irheobeorin Jeguk | 145580 | [145580-irheobeorin-jeguk.json](./145580-irheobeorin-jeguk.json) |
 | Irian: City of Ruin | 370733 | [370733-irian-city-of-ruin.json](./370733-irian-city-of-ruin.json) |
