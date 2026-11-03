@@ -7294,6 +7294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Survivors | 341573 | [341573-pirate-survivors.json](./341573-pirate-survivors.json) |
 | Pirate Tales | 100779 | [100779-pirate-tales.json](./100779-pirate-tales.json) |
 | Pirate Trails | 333525 | [333525-pirate-trails.json](./333525-pirate-trails.json) |
+| Pirate Trails: Tentacles and Treasures | 349585 | [349585-pirate-trails-tentacles-and-treasures.json](./349585-pirate-trails-tentacles-and-treasures.json) |
 | Pirate Treasure: Island of Mazes | 187489 | [187489-pirate-treasure-island-of-mazes.json](./187489-pirate-treasure-island-of-mazes.json) |
 | Pirate Treasures: Jewel & Gems | 204874 | [204874-pirate-treasures-jewel-and-gems.json](./204874-pirate-treasures-jewel-and-gems.json) |
 | Pirate Troops | 417939 | [417939-pirate-troops.json](./417939-pirate-troops.json) |
