@@ -2941,6 +2941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealFlight Evolution: Triple Tree Float Flight Line | 311082 | [311082-realflight-evolution-triple-tree-float-flight-line.json](./311082-realflight-evolution-triple-tree-float-flight-line.json) |
 | RealFlight RF8 | 112570 | [112570-realflight-rf8.json](./112570-realflight-rf8.json) |
 | RealFlight Trainer Edition | 162755 | [162755-realflight-trainer-edition.json](./162755-realflight-trainer-edition.json) |
+| Realindustry | 396996 | [396996-realindustry.json](./396996-realindustry.json) |
 | Realistic Battle Tank | 216153 | [216153-realistic-battle-tank.json](./216153-realistic-battle-tank.json) |
 | Realistic Illusion | 97193 | [97193-realistic-illusion.json](./97193-realistic-illusion.json) |
 | Realistic Kissing Simulator | 402156 | [402156-realistic-kissing-simulator.json](./402156-realistic-kissing-simulator.json) |
@@ -5347,6 +5348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Requiem: Lenticular Edition | 392779 | [392779-resident-evil-requiem-lenticular-edition.json](./392779-resident-evil-requiem-lenticular-edition.json) |
 | Resident Evil Requiem: Leon Must Die Forever | 400876 | [400876-resident-evil-requiem-leon-must-die-forever.json](./400876-resident-evil-requiem-leon-must-die-forever.json) |
 | Resident Evil Resistance | 122108 | [122108-resident-evil-resistance.json](./122108-resident-evil-resistance.json) |
+| Resident Evil Revelations - Complete Pack | 396987 | [396987-resident-evil-revelations-complete-pack.json](./396987-resident-evil-revelations-complete-pack.json) |
 | Resident Evil Revelations 1 & 2 Bundle | 164826 | [164826-resident-evil-revelations-1-and-2-bundle.json](./164826-resident-evil-revelations-1-and-2-bundle.json) |
 | Resident Evil Revelations 2: Season Pass | 254130 | [254130-resident-evil-revelations-2-season-pass.json](./254130-resident-evil-revelations-2-season-pass.json) |
 | Resident Evil Revelations Collection | 53790 | [53790-resident-evil-revelations-collection.json](./53790-resident-evil-revelations-collection.json) |
@@ -12230,6 +12232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Overkill | 134501 | [134501-russian-overkill.json](./134501-russian-overkill.json) |
 | Russian Pawn Store | 211749 | [211749-russian-pawn-store.json](./211749-russian-pawn-store.json) |
 | Russian Peace Duck: Take My Nalogi | 96614 | [96614-russian-peace-duck-take-my-nalogi.json](./96614-russian-peace-duck-take-my-nalogi.json) |
+| Russian Prison Mafia | 396960 | [396960-russian-prison-mafia.json](./396960-russian-prison-mafia.json) |
 | Russian Prison Sport: Ochko | 96458 | [96458-russian-prison-sport-ochko.json](./96458-russian-prison-sport-ochko.json) |
 | Russian Prison Tattoo Simulator | 155884 | [155884-russian-prison-tattoo-simulator.json](./155884-russian-prison-tattoo-simulator.json) |
 | Russian Prisoner VS Nazi Zombies | 90177 | [90177-russian-prisoner-vs-nazi-zombies.json](./90177-russian-prisoner-vs-nazi-zombies.json) |
