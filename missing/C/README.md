@@ -6076,6 +6076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheers! | 227934 | [227934-cheers.json](./227934-cheers.json) |
 | Cheery Party | 148977 | [148977-cheery-party.json](./148977-cheery-party.json) |
 | Cheery Soccer | 196620 | [196620-cheery-soccer.json](./196620-cheery-soccer.json) |
+| Chees | 390362 | [390362-chees.json](./390362-chees.json) |
 | Cheese Banquet Advanced | 294695 | [294695-cheese-banquet-advanced.json](./294695-cheese-banquet-advanced.json) |
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
 | Cheese Cat-Astrophe starring Speedy Gonzales | 4460 | [4460-cheese-cat-astrophe-starring-speedy-gonzales.json](./4460-cheese-cat-astrophe-starring-speedy-gonzales.json) |
@@ -7369,6 +7370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Chains | 386731 | [386731-chop-chains.json](./386731-chop-chains.json) |
 | Chop Chef | 359323 | [359323-chop-chef.json](./359323-chop-chef.json) |
 | Chop Chop Caveman | 256384 | [256384-chop-chop-caveman.json](./256384-chop-chop-caveman.json) |
+| Chop Chop for the Old God | 390324 | [390324-chop-chop-for-the-old-god.json](./390324-chop-chop-for-the-old-god.json) |
 | Chop Chop Hockey | 97055 | [97055-chop-chop-hockey.json](./97055-chop-chop-hockey.json) |
 | Chop Chop Inc. | 398967 | [398967-chop-chop-inc.json](./398967-chop-chop-inc.json) |
 | Chop Chop Kicker | 232489 | [232489-chop-chop-kicker.json](./232489-chop-chop-kicker.json) |
@@ -15016,6 +15018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crabs: Sponge's Neighbor | 326702 | [326702-crabs-sponges-neighbor.json](./326702-crabs-sponges-neighbor.json) |
 | Crabs! | 179118 | [179118-crabs.json](./179118-crabs.json) |
 | Crabs! | 349509 | [349509-crabs.json](./349509-crabs.json) |
+| Crabwave | 390359 | [390359-crabwave.json](./390359-crabwave.json) |
 | Crack a Bottle | 87220 | [87220-crack-a-bottle.json](./87220-crack-a-bottle.json) |
 | Crack a Pack | 413193 | [413193-crack-a-pack.json](./413193-crack-a-pack.json) |
 | Crack Down | 12015 | [12015-crack-down.json](./12015-crack-down.json) |
