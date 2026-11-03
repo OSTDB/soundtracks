@@ -8836,6 +8836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digits Jigsaw Puzzle - Numbers and Operations | 100749 | [100749-digits-jigsaw-puzzle-numbers-and-operations.json](./100749-digits-jigsaw-puzzle-numbers-and-operations.json) |
 | Digitum | 366276 | [366276-digitum.json](./366276-digitum.json) |
 | Digitwars - The Grigits | 101766 | [101766-digitwars-the-grigits.json](./101766-digitwars-the-grigits.json) |
+| Digivice Ver. Portable | 371832 | [371832-digivice-ver-portable.json](./371832-digivice-ver-portable.json) |
 | Dignacia | 253454 | [253454-dignacia.json](./253454-dignacia.json) |
 | DigRun | 197777 | [197777-digrun.json](./197777-digrun.json) |
 | Digs | 236753 | [236753-digs.json](./236753-digs.json) |
@@ -10490,6 +10491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Heart Makina Gaiden 07 ~5-dai Kaijinshuu Shingeki!~ | 59073 | [59073-divine-heart-makina-gaiden-07-5-dai-kaijinshuu-shingeki.json](./59073-divine-heart-makina-gaiden-07-5-dai-kaijinshuu-shingeki.json) |
 | Divine Heart Makina Gaiden 08 ~Kindan no Junai Shokushu Hen~ | 59072 | [59072-divine-heart-makina-gaiden-08-kindan-no-junai-shokushu-hen.json](./59072-divine-heart-makina-gaiden-08-kindan-no-junai-shokushu-hen.json) |
 | Divine Intervention (Pt. 1) | 141017 | [141017-divine-intervention-pt-1.json](./141017-divine-intervention-pt-1.json) |
+| Divine Intervention: Quran Miracles | 372163 | [372163-divine-intervention-quran-miracles.json](./372163-divine-intervention-quran-miracles.json) |
 | Divine Journey 2: The Five Books of Moses | 288721 | [288721-divine-journey-2-the-five-books-of-moses.json](./288721-divine-journey-2-the-five-books-of-moses.json) |
 | Divine Journey: The Life of Jesus | 280199 | [280199-divine-journey-the-life-of-jesus.json](./280199-divine-journey-the-life-of-jesus.json) |
 | Divine Justice Zero | 65757 | [65757-divine-justice-zero.json](./65757-divine-justice-zero.json) |
@@ -14887,6 +14889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw the Line | 85101 | [85101-draw-the-line.json](./85101-draw-the-line.json) |
 | Draw the Way | 29833 | [29833-draw-the-way.json](./29833-draw-the-way.json) |
 | Draw to Collect: Sorting Line | 231965 | [231965-draw-to-collect-sorting-line.json](./231965-draw-to-collect-sorting-line.json) |
+| Draw to Smash: Logic Puzzle | 372148 | [372148-draw-to-smash-logic-puzzle.json](./372148-draw-to-smash-logic-puzzle.json) |
 | Draw Two Save: Save the man | 197363 | [197363-draw-two-save-save-the-man.json](./197363-draw-two-save-save-the-man.json) |
 | Draw Wario | 328684 | [328684-draw-wario.json](./328684-draw-wario.json) |
 | Draw World | 346538 | [346538-draw-world.json](./346538-draw-world.json) |
@@ -16607,6 +16610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Hunt Pro | 326693 | [326693-duck-hunt-pro.json](./326693-duck-hunt-pro.json) |
 | Duck Hunt Remake | 254462 | [254462-duck-hunt-remake.json](./254462-duck-hunt-remake.json) |
 | Duck Hunt VR | 27517 | [27517-duck-hunt-vr.json](./27517-duck-hunt-vr.json) |
+| Duck Hunt VR | 372157 | [372157-duck-hunt-vr.json](./372157-duck-hunt-vr.json) |
 | Duck Hunter Pro 3D | 101553 | [101553-duck-hunter-pro-3d.json](./101553-duck-hunter-pro-3d.json) |
 | Duck Hunting | 28885 | [28885-duck-hunting.json](./28885-duck-hunting.json) |
 | Duck Hunting Challenge | 115333 | [115333-duck-hunting-challenge.json](./115333-duck-hunting-challenge.json) |
