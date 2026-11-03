@@ -2794,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Groove 2 | 70591 | [70591-in-the-groove-2.json](./70591-in-the-groove-2.json) |
 | In the Hole | 195023 | [195023-in-the-hole.json](./195023-in-the-hole.json) |
 | In the Hollow of the Valley | 202569 | [202569-in-the-hollow-of-the-valley.json](./202569-in-the-hollow-of-the-valley.json) |
+| In The Hours of Darkness | 351349 | [351349-in-the-hours-of-darkness.json](./351349-in-the-hours-of-darkness.json) |
 | In the Hunt | 10456 | [10456-in-the-hunt.json](./10456-in-the-hunt.json) |
 | In the Intrigue of the Ratings | 145694 | [145694-in-the-intrigue-of-the-ratings.json](./145694-in-the-intrigue-of-the-ratings.json) |
 | In the Keeper's Shadow | 120884 | [120884-in-the-keepers-shadow.json](./120884-in-the-keepers-shadow.json) |
