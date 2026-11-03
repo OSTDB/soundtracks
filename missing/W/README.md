@@ -5844,6 +5844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winterlight: Where Silence Says It All | 369529 | [369529-winterlight-where-silence-says-it-all.json](./369529-winterlight-where-silence-says-it-all.json) |
 | Winterlore II | 174284 | [174284-winterlore-ii.json](./174284-winterlore-ii.json) |
 | Wintermoor Tactics Club | 107436 | [107436-wintermoor-tactics-club.json](./107436-wintermoor-tactics-club.json) |
+| Winterreach Emporium | 373122 | [373122-winterreach-emporium.json](./373122-winterreach-emporium.json) |
 | Wintersands | 183851 | [183851-wintersands.json](./183851-wintersands.json) |
 | Wintersdawn in the Deep | 183591 | [183591-wintersdawn-in-the-deep.json](./183591-wintersdawn-in-the-deep.json) |
 | Wintersport | 68677 | [68677-wintersport.json](./68677-wintersport.json) |
