@@ -10528,6 +10528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Age Commanders: Tsugu Mono Tsugareru Mono | 91669 | [91669-code-age-commanders-tsugu-mono-tsugareru-mono.json](./91669-code-age-commanders-tsugu-mono-tsugareru-mono.json) |
 | Code Alpha: The Final Frontier | 284828 | [284828-code-alpha-the-final-frontier.json](./284828-code-alpha-the-final-frontier.json) |
 | Code angel | 153943 | [153943-code-angel.json](./153943-code-angel.json) |
+| Code Angel Reloaded VR | 374875 | [374875-code-angel-reloaded-vr.json](./374875-code-angel-reloaded-vr.json) |
 | Code Arcturus | 133097 | [133097-code-arcturus.json](./133097-code-arcturus.json) |
 | Code Blue | 401137 | [401137-code-blue.json](./401137-code-blue.json) |
 | Code Breaker | 315457 | [315457-code-breaker.json](./315457-code-breaker.json) |
@@ -13906,6 +13907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corncob Deluxe | 94704 | [94704-corncob-deluxe.json](./94704-corncob-deluxe.json) |
 | Corndog | 215520 | [215520-corndog.json](./215520-corndog.json) |
 | Cornelius Cat in: How the Cat Saved Christmas | 421423 | [421423-cornelius-cat-in-how-the-cat-saved-christmas.json](./421423-cornelius-cat-in-how-the-cat-saved-christmas.json) |
+| Corner Cards | 374557 | [374557-corner-cards.json](./374557-corner-cards.json) |
 | Corner Clash | 390520 | [390520-corner-clash.json](./390520-corner-clash.json) |
 | Corner Driver | 225888 | [225888-corner-driver.json](./225888-corner-driver.json) |
 | Corner Kitchen Fast Food Simulator | 326454 | [326454-corner-kitchen-fast-food-simulator.json](./326454-corner-kitchen-fast-food-simulator.json) |
@@ -15561,6 +15563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crawler | 380096 | [380096-crawler.json](./380096-crawler.json) |
 | Crawlies | 181840 | [181840-crawlies.json](./181840-crawlies.json) |
 | Crawlies Re-Hatched | 418719 | [418719-crawlies-re-hatched.json](./418719-crawlies-re-hatched.json) |
+| Crawling Angels | 374864 | [374864-crawling-angels.json](./374864-crawling-angels.json) |
 | Crawling of the Dead | 121353 | [121353-crawling-of-the-dead.json](./121353-crawling-of-the-dead.json) |
 | Crawlspace | 179208 | [179208-crawlspace.json](./179208-crawlspace.json) |
 | Crawlspace | 252728 | [252728-crawlspace.json](./252728-crawlspace.json) |
