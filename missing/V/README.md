@@ -4081,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vyrox | 94665 | [94665-vyrox.json](./94665-vyrox.json) |
 | Vyruz: Destruction of the Untel Empire | 112224 | [112224-vyruz-destruction-of-the-untel-empire.json](./112224-vyruz-destruction-of-the-untel-empire.json) |
 | Vysions | 290957 | [290957-vysions.json](./290957-vysions.json) |
+| Vytal Tactics | 379062 | [379062-vytal-tactics.json](./379062-vytal-tactics.json) |
 | Vythzkel of City Dinasty | 338557 | [338557-vythzkel-of-city-dinasty.json](./338557-vythzkel-of-city-dinasty.json) |
 | Vyulettes | 371006 | [371006-vyulettes.json](./371006-vyulettes.json) |
 | Vyun, Kosmeya, and the Witch's Curse | 374714 | [374714-vyun-kosmeya-and-the-witchs-curse.json](./374714-vyun-kosmeya-and-the-witchs-curse.json) |
