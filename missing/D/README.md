@@ -3404,6 +3404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Fun Pack: Penguins and Aliens Strike Again | 102588 | [102588-dead-fun-pack-penguins-and-aliens-strike-again.json](./102588-dead-fun-pack-penguins-and-aliens-strike-again.json) |
 | Dead Function | 179737 | [179737-dead-function.json](./179737-dead-function.json) |
 | Dead Fury | 193734 | [193734-dead-fury.json](./193734-dead-fury.json) |
+| Dead Garden Zero | 367645 | [367645-dead-garden-zero.json](./367645-dead-garden-zero.json) |
 | Dead Gears: Space of War | 401118 | [401118-dead-gears-space-of-war.json](./401118-dead-gears-space-of-war.json) |
 | Dead Girl's Notebook | 249322 | [249322-dead-girls-notebook.json](./249322-dead-girls-notebook.json) |
 | Dead Giveaway: Zombie Quiz | 232044 | [232044-dead-giveaway-zombie-quiz.json](./232044-dead-giveaway-zombie-quiz.json) |
@@ -6095,6 +6096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Castle | 266914 | [266914-demon-castle.json](./266914-demon-castle.json) |
 | Demon Castle Story | 381568 | [381568-demon-castle-story.json](./381568-demon-castle-story.json) |
 | Demon Compass | 323594 | [323594-demon-compass.json](./323594-demon-compass.json) |
+| Demon Contract Warrior | 367677 | [367677-demon-contract-warrior.json](./367677-demon-contract-warrior.json) |
 | Demon Core | 110239 | [110239-demon-core.json](./110239-demon-core.json) |
 | Demon Core | 330485 | [330485-demon-core.json](./330485-demon-core.json) |
 | Demon Corporation: Onboarding | 333944 | [333944-demon-corporation-onboarding.json](./333944-demon-corporation-onboarding.json) |
@@ -6978,6 +6980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Dynasties | 111519 | [111519-desktop-dynasties.json](./111519-desktop-dynasties.json) |
 | Desktop Explorer | 275251 | [275251-desktop-explorer.json](./275251-desktop-explorer.json) |
 | Desktop Farm | 150447 | [150447-desktop-farm.json](./150447-desktop-farm.json) |
+| Desktop Farm Remastered | 367664 | [367664-desktop-farm-remastered.json](./367664-desktop-farm-remastered.json) |
 | Desktop Fidget | 392831 | [392831-desktop-fidget.json](./392831-desktop-fidget.json) |
 | Desktop Fisher | 348752 | [348752-desktop-fisher.json](./348752-desktop-fisher.json) |
 | Desktop Fishes | 364006 | [364006-desktop-fishes.json](./364006-desktop-fishes.json) |
@@ -15870,6 +15873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drink Inc. | 90280 | [90280-drink-inc.json](./90280-drink-inc.json) |
 | Drink More Glurp | 117180 | [117180-drink-more-glurp.json](./117180-drink-more-glurp.json) |
 | Drink Pro Tycoon | 87997 | [87997-drink-pro-tycoon.json](./87997-drink-pro-tycoon.json) |
+| Drink Stand Tycoon | 367653 | [367653-drink-stand-tycoon.json](./367653-drink-stand-tycoon.json) |
 | Drink Tea or Die!!! | 56202 | [56202-drink-tea-or-die.json](./56202-drink-tea-or-die.json) |
 | Drinkbox Vita Collection | 99542 | [99542-drinkbox-vita-collection.json](./99542-drinkbox-vita-collection.json) |
 | Drinking in the Hot Spring! | 330180 | [330180-drinking-in-the-hot-spring.json](./330180-drinking-in-the-hot-spring.json) |
