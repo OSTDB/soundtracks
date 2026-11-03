@@ -8562,6 +8562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plaguemon: Kado | 247371 | [247371-plaguemon-kado.json](./247371-plaguemon-kado.json) |
 | Plaguemon: Lost Diaries | 247362 | [247362-plaguemon-lost-diaries.json](./247362-plaguemon-lost-diaries.json) |
 | Plaguepunk Justice | 114516 | [114516-plaguepunk-justice.json](./114516-plaguepunk-justice.json) |
+| Plaguetrix | 373482 | [373482-plaguetrix.json](./373482-plaguetrix.json) |
 | Plagueworld: Expansion Pack | 167316 | [167316-plagueworld-expansion-pack.json](./167316-plagueworld-expansion-pack.json) |
 | Plaid - A Unique Puzzle Game | 101193 | [101193-plaid-a-unique-puzzle-game.json](./101193-plaid-a-unique-puzzle-game.json) |
 | Plain Sight | 8585 | [8585-plain-sight.json](./8585-plain-sight.json) |
@@ -15825,6 +15826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protolife | 89973 | [89973-protolife.json](./89973-protolife.json) |
 | Protolife: Other Side | 244889 | [244889-protolife-other-side.json](./244889-protolife-other-side.json) |
 | Protologic | 10430 | [10430-protologic.json](./10430-protologic.json) |
+| Proton & Electron | 373788 | [373788-proton-and-electron.json](./373788-proton-and-electron.json) |
 | Proton Bus Simulator Road | 219822 | [219822-proton-bus-simulator-road.json](./219822-proton-bus-simulator-road.json) |
 | Proton Pulse + | 56526 | [56526-proton-pulse.json](./56526-proton-pulse.json) |
 | Proton VR | 392133 | [392133-proton-vr.json](./392133-proton-vr.json) |
