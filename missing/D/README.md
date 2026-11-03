@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance It! | 317853 | [317853-dance-it.json](./317853-dance-it.json) |
 | Dance It's Your Stage | 27477 | [27477-dance-its-your-stage.json](./27477-dance-its-your-stage.json) |
 | Dance Legend | 56818 | [56818-dance-legend.json](./56818-dance-legend.json) |
+| Dance Loop | 368715 | [368715-dance-loop.json](./368715-dance-loop.json) |
 | Dance Magic | 34720 | [34720-dance-magic.json](./34720-dance-magic.json) |
 | Dance Magic Fashion Style Games | 96298 | [96298-dance-magic-fashion-style-games.json](./96298-dance-magic-fashion-style-games.json) |
 | Dance Mania | 330184 | [330184-dance-mania.json](./330184-dance-mania.json) |
@@ -1597,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Killing | 266967 | [266967-dark-killing.json](./266967-dark-killing.json) |
 | Dark Kingdom | 42317 | [42317-dark-kingdom.json](./42317-dark-kingdom.json) |
 | Dark Labyrinth | 348165 | [348165-dark-labyrinth.json](./348165-dark-labyrinth.json) |
+| Dark Lady | 368713 | [368713-dark-lady.json](./368713-dark-lady.json) |
 | Dark Law: Meaning of Death | 15898 | [15898-dark-law-meaning-of-death.json](./15898-dark-law-meaning-of-death.json) |
 | Dark Laws | 279134 | [279134-dark-laws.json](./279134-dark-laws.json) |
 | Dark Leaches | 403792 | [403792-dark-leaches.json](./403792-dark-leaches.json) |
@@ -5961,6 +5963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delver's Drop | 64697 | [64697-delvers-drop.json](./64697-delvers-drop.json) |
 | Delverium | 291342 | [291342-delverium.json](./291342-delverium.json) |
 | Delverun | 416683 | [416683-delverun.json](./416683-delverun.json) |
+| Delvin: Origins | 369303 | [369303-delvin-origins.json](./369303-delvin-origins.json) |
 | Delving Deep | 226748 | [226748-delving-deep.json](./226748-delving-deep.json) |
 | Delving The Depths | 349994 | [349994-delving-the-depths.json](./349994-delving-the-depths.json) |
 | Delysium | 238078 | [238078-delysium.json](./238078-delysium.json) |
@@ -17718,6 +17721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons: Long Rest Tavern | 415176 | [415176-dungeons-and-dragons-long-rest-tavern.json](./415176-dungeons-and-dragons-long-rest-tavern.json) |
 | Dungeons & Dragons: Ravenloft Series | 51745 | [51745-dungeons-and-dragons-ravenloft-series.json](./51745-dungeons-and-dragons-ravenloft-series.json) |
 | Dungeons & Dragons: Shadow over Mystara | 10253 | [10253-dungeons-and-dragons-shadow-over-mystara.json](./10253-dungeons-and-dragons-shadow-over-mystara.json) |
+| Dungeons & Dragons: Tiny Adventures | 368742 | [368742-dungeons-and-dragons-tiny-adventures.json](./368742-dungeons-and-dragons-tiny-adventures.json) |
 | Dungeons & Dragons: Tower of Doom | 39328 | [39328-dungeons-and-dragons-tower-of-doom.json](./39328-dungeons-and-dragons-tower-of-doom.json) |
 | Dungeons & Drivers | 332842 | [332842-dungeons-and-drivers.json](./332842-dungeons-and-drivers.json) |
 | Dungeons & Dummies | 408190 | [408190-dungeons-and-dummies.json](./408190-dungeons-and-dummies.json) |
