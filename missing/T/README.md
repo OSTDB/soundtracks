@@ -2789,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Te Amo Mamá | 306753 | [306753-te-amo-mama.json](./306753-te-amo-mama.json) |
 | Te Encontré | 189986 | [189986-te-encontre.json](./189986-te-encontre.json) |
 | Te to Te Try on! | 402460 | [402460-te-to-te-try-on.json](./402460-te-to-te-try-on.json) |
+| Te-Amic | 399385 | [399385-te-amic.json](./399385-te-amic.json) |
 | Tea for God | 175782 | [175782-tea-for-god.json](./175782-tea-for-god.json) |
 | Tea for Sana | 310036 | [310036-tea-for-sana.json](./310036-tea-for-sana.json) |
 | Tea for the King | 238103 | [238103-tea-for-the-king.json](./238103-tea-for-the-king.json) |
@@ -6809,6 +6810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Challenge of Nexar | 11149 | [11149-the-challenge-of-nexar.json](./11149-the-challenge-of-nexar.json) |
 | The Challengers | 94624 | [94624-the-challengers.json](./94624-the-challengers.json) |
 | The Chambers | 104357 | [104357-the-chambers.json](./104357-the-chambers.json) |
+| The Chambers Beneath | 399384 | [399384-the-chambers-beneath.json](./399384-the-chambers-beneath.json) |
 | The Chameleon | 142126 | [142126-the-chameleon.json](./142126-the-chameleon.json) |
 | The Champ | 78689 | [78689-the-champ.json](./78689-the-champ.json) |
 | The Champions of Lootheim | 382759 | [382759-the-champions-of-lootheim.json](./382759-the-champions-of-lootheim.json) |
@@ -9854,6 +9856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grim Reaper Who Reaped My Heart | 134642 | [134642-the-grim-reaper-who-reaped-my-heart.json](./134642-the-grim-reaper-who-reaped-my-heart.json) |
 | The Grimoire of Alice | 134858 | [134858-the-grimoire-of-alice.json](./134858-the-grimoire-of-alice.json) |
 | The Grimsworth Reports: Woodfall | 75004 | [75004-the-grimsworth-reports-woodfall.json](./75004-the-grimsworth-reports-woodfall.json) |
+| The Grimwood Hex | 399943 | [399943-the-grimwood-hex.json](./399943-the-grimwood-hex.json) |
 | The Grinch | 15487 | [15487-the-grinch.json](./15487-the-grinch.json) |
 | The Grinch | 265046 | [265046-the-grinch.json](./265046-the-grinch.json) |
 | The Grinch 2: Saving Christmas | 409510 | [409510-the-grinch-2-saving-christmas.json](./409510-the-grinch-2-saving-christmas.json) |
@@ -10185,6 +10188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hollow | 14116 | [14116-the-hollow.json](./14116-the-hollow.json) |
 | The Hollow | 388518 | [388518-the-hollow.json](./388518-the-hollow.json) |
 | The Hollow Alchemist | 371257 | [371257-the-hollow-alchemist.json](./371257-the-hollow-alchemist.json) |
+| The Hollow Complex | 399375 | [399375-the-hollow-complex.json](./399375-the-hollow-complex.json) |
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
 | The Hollow Line | 335122 | [335122-the-hollow-line.json](./335122-the-hollow-line.json) |
 | The Hollow Road: Prologue | 399769 | [399769-the-hollow-road-prologue.json](./399769-the-hollow-road-prologue.json) |
@@ -11806,6 +11810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes III: Shiroki Majo | 105413 | [105413-the-legend-of-heroes-iii-shiroki-majo.json](./105413-the-legend-of-heroes-iii-shiroki-majo.json) |
 | The Legend of Heroes III: Song of the Ocean | 10944 | [10944-the-legend-of-heroes-iii-song-of-the-ocean.json](./10944-the-legend-of-heroes-iii-song-of-the-ocean.json) |
 | The Legend of Heroes in the Jianghu | 210864 | [210864-the-legend-of-heroes-in-the-jianghu.json](./210864-the-legend-of-heroes-in-the-jianghu.json) |
+| The Legend of Heroes IV: Akai Shizuku | 399972 | [399972-the-legend-of-heroes-iv-akai-shizuku.json](./399972-the-legend-of-heroes-iv-akai-shizuku.json) |
 | The Legend of Heroes: A Tear of Vermillion | 10943 | [10943-the-legend-of-heroes-a-tear-of-vermillion.json](./10943-the-legend-of-heroes-a-tear-of-vermillion.json) |
 | The Legend of Heroes: Akatsuki no Kiseki | 74267 | [74267-the-legend-of-heroes-akatsuki-no-kiseki.json](./74267-the-legend-of-heroes-akatsuki-no-kiseki.json) |
 | The Legend of Heroes: Akatsuki no Kiseki Mobile | 199963 | [199963-the-legend-of-heroes-akatsuki-no-kiseki-mobile.json](./199963-the-legend-of-heroes-akatsuki-no-kiseki-mobile.json) |
@@ -13472,6 +13477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Neverland of the Mountain and Sea | 236966 | [236966-the-neverland-of-the-mountain-and-sea.json](./236966-the-neverland-of-the-mountain-and-sea.json) |
 | The Neverwhere Tales : Book 1 | 275692 | [275692-the-neverwhere-tales-book-1.json](./275692-the-neverwhere-tales-book-1.json) |
 | The New Addams Family | 5345 | [5345-the-new-addams-family.json](./5345-the-new-addams-family.json) |
+| The New Adventures Of Billy The Kid | 399983 | [399983-the-new-adventures-of-billy-the-kid.json](./399983-the-new-adventures-of-billy-the-kid.json) |
 | The New Adventures of Sonic the Hedgehog | 316589 | [316589-the-new-adventures-of-sonic-the-hedgehog.json](./316589-the-new-adventures-of-sonic-the-hedgehog.json) |
 | The New Adventures of the Time Machine | 24127 | [24127-the-new-adventures-of-the-time-machine.json](./24127-the-new-adventures-of-the-time-machine.json) |
 | The New Apartment | 332567 | [332567-the-new-apartment.json](./332567-the-new-apartment.json) |
@@ -13731,6 +13737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The One Who Knows | 416695 | [416695-the-one-who-knows.json](./416695-the-one-who-knows.json) |
 | The One Who Runs Away Is Chased | 410250 | [410250-the-one-who-runs-away-is-chased.json](./410250-the-one-who-runs-away-is-chased.json) |
 | The One Who Stands Behind | 258191 | [258191-the-one-who-stands-behind.json](./258191-the-one-who-stands-behind.json) |
+| The One Who Wouldn't Leave | 399377 | [399377-the-one-who-wouldnt-leave.json](./399377-the-one-who-wouldnt-leave.json) |
 | The One: Chapter 2 | 244230 | [244230-the-one-chapter-2.json](./244230-the-one-chapter-2.json) |
 | The Oneironaut | 318958 | [318958-the-oneironaut.json](./318958-the-oneironaut.json) |
 | The Ones Beyond | 390597 | [390597-the-ones-beyond.json](./390597-the-ones-beyond.json) |
@@ -18344,6 +18351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatre of War 2: Battle for Caen - Special Edition | 25511 | [25511-theatre-of-war-2-battle-for-caen-special-edition.json](./25511-theatre-of-war-2-battle-for-caen-special-edition.json) |
 | Theatre of War 3: Korea | 9859 | [9859-theatre-of-war-3-korea.json](./9859-theatre-of-war-3-korea.json) |
 | Theatre of War: Collection | 54198 | [54198-theatre-of-war-collection.json](./54198-theatre-of-war-collection.json) |
+| Theatre of War: Rearmed | 399969 | [399969-theatre-of-war-rearmed.json](./399969-theatre-of-war-rearmed.json) |
 | Theatre People | 57478 | [57478-theatre-people.json](./57478-theatre-people.json) |
 | Theatre Tales | 117666 | [117666-theatre-tales.json](./117666-theatre-tales.json) |
 | Theatre Wars: Goraku no Dendou | 247566 | [247566-theatre-wars-goraku-no-dendou.json](./247566-theatre-wars-goraku-no-dendou.json) |
@@ -19044,6 +19052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Means Warp | 132443 | [132443-this-means-warp.json](./132443-this-means-warp.json) |
 | This Morning I Decided to Die | 258695 | [258695-this-morning-i-decided-to-die.json](./258695-this-morning-i-decided-to-die.json) |
 | This Next Time | 197272 | [197272-this-next-time.json](./197272-this-next-time.json) |
+| This One's From Santa | 399352 | [399352-this-ones-from-santa.json](./399352-this-ones-from-santa.json) |
 | This Onion | 271243 | [271243-this-onion.json](./271243-this-onion.json) |
 | This Panda Needs You | 185652 | [185652-this-panda-needs-you.json](./185652-this-panda-needs-you.json) |
 | This Place at the End: An Apocalyptic RPG | 392226 | [392226-this-place-at-the-end-an-apocalyptic-rpg.json](./392226-this-place-at-the-end-an-apocalyptic-rpg.json) |
@@ -25249,6 +25258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Volleyball Danmaku | 351389 | [351389-touhou-volleyball-danmaku.json](./351389-touhou-volleyball-danmaku.json) |
 | Touhou Witch's Night Market | 380424 | [380424-touhou-witchs-night-market.json](./380424-touhou-witchs-night-market.json) |
 | Touhou Youyoumu: Perfect Cherry Blossom | 27166 | [27166-touhou-youyoumu-perfect-cherry-blossom.json](./27166-touhou-youyoumu-perfect-cherry-blossom.json) |
+| Touhou Yukkuri Mountain | 399975 | [399975-touhou-yukkuri-mountain.json](./399975-touhou-yukkuri-mountain.json) |
 | Touhou Yumejikuu: Phantasmagoria of Dim. Dream | 45965 | [45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json](./45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json) |
 | Touhou Yuuyajaku -Solar Eclipse Night- | 335062 | [335062-touhou-yuuyajaku-solar-eclipse-night.json](./335062-touhou-yuuyajaku-solar-eclipse-night.json) |
 | Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
@@ -31618,6 +31628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typer Shark | 205982 | [205982-typer-shark.json](./205982-typer-shark.json) |
 | Typer Shark! Deluxe | 27816 | [27816-typer-shark-deluxe.json](./27816-typer-shark-deluxe.json) |
 | TypeRacer | 91271 | [91271-typeracer.json](./91271-typeracer.json) |
+| Typers Combat | 399360 | [399360-typers-combat.json](./399360-typers-combat.json) |
 | TypeRush | 203185 | [203185-typerush.json](./203185-typerush.json) |
 | TyperWorldCup | 180486 | [180486-typerworldcup.json](./180486-typerworldcup.json) |
 | Typeshift | 27884 | [27884-typeshift.json](./27884-typeshift.json) |
