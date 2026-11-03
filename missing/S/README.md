@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S Mahjong 2 | 97722 | [97722-s-mahjong-2.json](./97722-s-mahjong-2.json) |
 | S na Kanojo | 97425 | [97425-s-na-kanojo.json](./97425-s-na-kanojo.json) |
 | S-Copter | 76653 | [76653-s-copter.json](./76653-s-copter.json) |
+| S-Mail | 388783 | [388783-s-mail.json](./388783-s-mail.json) |
 | S-Race | 59799 | [59799-s-race.json](./59799-s-race.json) |
 | S-Tetris | 70465 | [70465-s-tetris.json](./70465-s-tetris.json) |
 | S: Lost Chapters | 260288 | [260288-s-lost-chapters.json](./260288-s-lost-chapters.json) |
@@ -9653,6 +9654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sift With Shorty | 393429 | [393429-sift-with-shorty.json](./393429-sift-with-shorty.json) |
 | Sift With Shorty X-Mess | 393430 | [393430-sift-with-shorty-x-mess.json](./393430-sift-with-shorty-x-mess.json) |
 | Sifu | 144022 | [144022-sifu.json](./144022-sifu.json) |
+| Sifu Kidnapped!: Adventure in the Women's Kingdom | 388687 | [388687-sifu-kidnapped-adventure-in-the-womens-kingdom.json](./388687-sifu-kidnapped-adventure-in-the-womens-kingdom.json) |
 | Sifu: Arenas | 240171 | [240171-sifu-arenas.json](./240171-sifu-arenas.json) |
 | Sifu: Deluxe Edition | 169165 | [169165-sifu-deluxe-edition.json](./169165-sifu-deluxe-edition.json) |
 | Sifu: Vengeance Edition | 191494 | [191494-sifu-vengeance-edition.json](./191494-sifu-vengeance-edition.json) |
@@ -10164,6 +10166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SIM Chef: Restaurant management | 197047 | [197047-sim-chef-restaurant-management.json](./197047-sim-chef-restaurant-management.json) |
 | Sim Cinema Deluxe | 139154 | [139154-sim-cinema-deluxe.json](./139154-sim-cinema-deluxe.json) |
 | Sim Companies | 176094 | [176094-sim-companies.json](./176094-sim-companies.json) |
+| SIM Day and Night Trilogy | 388676 | [388676-sim-day-and-night-trilogy.json](./388676-sim-day-and-night-trilogy.json) |
 | SIM Dispatcher | 140311 | [140311-sim-dispatcher.json](./140311-sim-dispatcher.json) |
 | Sim Empire | 116820 | [116820-sim-empire.json](./116820-sim-empire.json) |
 | Sim Junta | 34748 | [34748-sim-junta.json](./34748-sim-junta.json) |
@@ -16359,6 +16362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Blast Man | 144413 | [144413-sonic-blast-man.json](./144413-sonic-blast-man.json) |
 | Sonic Blast Man | 39804 | [39804-sonic-blast-man.json](./39804-sonic-blast-man.json) |
 | Sonic Blast Man: Real Puncher | 56327 | [56327-sonic-blast-man-real-puncher.json](./56327-sonic-blast-man-real-puncher.json) |
+| Sonic Blast Next | 388730 | [388730-sonic-blast-next.json](./388730-sonic-blast-next.json) |
 | Sonic Blaster 2 | 331656 | [331656-sonic-blaster-2.json](./331656-sonic-blaster-2.json) |
 | Sonic Blasters | 334140 | [334140-sonic-blasters.json](./334140-sonic-blasters.json) |
 | Sonic Blaze | 330512 | [330512-sonic-blaze.json](./330512-sonic-blaze.json) |
