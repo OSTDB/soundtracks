@@ -3264,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - Season Pass | 324361 | [324361-teenage-mutant-ninja-turtles-mutants-unleashed-season-pass.json](./324361-teenage-mutant-ninja-turtles-mutants-unleashed-season-pass.json) |
 | Teenage Mutant Ninja Turtles: Portal Power | 59086 | [59086-teenage-mutant-ninja-turtles-portal-power.json](./59086-teenage-mutant-ninja-turtles-portal-power.json) |
 | Teenage Mutant Ninja Turtles: Rescue Palooza! | 126491 | [126491-teenage-mutant-ninja-turtles-rescue-palooza.json](./126491-teenage-mutant-ninja-turtles-rescue-palooza.json) |
+| Teenage Mutant Ninja Turtles: Rooftop Mayhem | 382118 | [382118-teenage-mutant-ninja-turtles-rooftop-mayhem.json](./382118-teenage-mutant-ninja-turtles-rooftop-mayhem.json) |
 | Teenage Mutant Ninja Turtles: Sewer Run | 64715 | [64715-teenage-mutant-ninja-turtles-sewer-run.json](./64715-teenage-mutant-ninja-turtles-sewer-run.json) |
 | Teenage Mutant Ninja Turtles: Shadow Heroes | 60961 | [60961-teenage-mutant-ninja-turtles-shadow-heroes.json](./60961-teenage-mutant-ninja-turtles-shadow-heroes.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Limited Edition | 207919 | [207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json](./207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json) |
@@ -19358,6 +19359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms Fantasy: Miss Meng and the Explosive Boy | 128328 | [128328-three-kingdoms-fantasy-miss-meng-and-the-explosive-boy.json](./128328-three-kingdoms-fantasy-miss-meng-and-the-explosive-boy.json) |
 | Three Kingdoms Front | 339098 | [339098-three-kingdoms-front.json](./339098-three-kingdoms-front.json) |
 | Three Kingdoms Heroes | 324871 | [324871-three-kingdoms-heroes.json](./324871-three-kingdoms-heroes.json) |
+| Three Kingdoms Heroes | 382485 | [382485-three-kingdoms-heroes.json](./382485-three-kingdoms-heroes.json) |
 | Three Kingdoms Origin | 245821 | [245821-three-kingdoms-origin.json](./245821-three-kingdoms-origin.json) |
 | Three Kingdoms VR - Jade Knight | 75820 | [75820-three-kingdoms-vr-jade-knight.json](./75820-three-kingdoms-vr-jade-knight.json) |
 | Three Kingdoms Written Words | 157538 | [157538-three-kingdoms-written-words.json](./157538-three-kingdoms-written-words.json) |
@@ -27307,6 +27309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainbow | 182229 | [182229-trainbow.json](./182229-trainbow.json) |
 | TrainClicker Idle Evolution | 149364 | [149364-trainclicker-idle-evolution.json](./149364-trainclicker-idle-evolution.json) |
 | TrainCraft | 265614 | [265614-traincraft.json](./265614-traincraft.json) |
+| Trained by a Succubus | 382143 | [382143-trained-by-a-succubus.json](./382143-trained-by-a-succubus.json) |
 | Trainee Death Simulator | 319810 | [319810-trainee-death-simulator.json](./319810-trainee-death-simulator.json) |
 | Trainer Canyon | 196526 | [196526-trainer-canyon.json](./196526-trainer-canyon.json) |
 | Trainer Eyes | 338952 | [338952-trainer-eyes.json](./338952-trainer-eyes.json) |
@@ -28675,6 +28678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Drop | 373651 | [373651-treasure-drop.json](./373651-treasure-drop.json) |
 | Treasure Drop: Complete Edition | 385211 | [385211-treasure-drop-complete-edition.json](./385211-treasure-drop-complete-edition.json) |
 | Treasure Far Away | 184166 | [184166-treasure-far-away.json](./184166-treasure-far-away.json) |
+| Treasure Flea Market | 382355 | [382355-treasure-flea-market.json](./382355-treasure-flea-market.json) |
 | Treasure Forest Clicker | 350494 | [350494-treasure-forest-clicker.json](./350494-treasure-forest-clicker.json) |
 | Treasure Galaxy! | 142146 | [142146-treasure-galaxy.json](./142146-treasure-galaxy.json) |
 | Treasure Gaust: Gaust Diver - Crimson Red | 123462 | [123462-treasure-gaust-gaust-diver-crimson-red.json](./123462-treasure-gaust-gaust-diver-crimson-red.json) |
