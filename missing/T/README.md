@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taking Today Off | 384156 | [384156-taking-today-off.json](./384156-taking-today-off.json) |
 | Takishawa is Dead | 242655 | [242655-takishawa-is-dead.json](./242655-takishawa-is-dead.json) |
 | Takkyuubin | 345629 | [345629-takkyuubin.json](./345629-takkyuubin.json) |
+| Tako Bubble | 366491 | [366491-tako-bubble.json](./366491-tako-bubble.json) |
 | Tako no Himitsu: Ocean of Secrets | 250031 | [250031-tako-no-himitsu-ocean-of-secrets.json](./250031-tako-no-himitsu-ocean-of-secrets.json) |
 | Tako no Marine | 107647 | [107647-tako-no-marine.json](./107647-tako-no-marine.json) |
 | Tako to Ika 3 | 410183 | [410183-tako-to-ika-3.json](./410183-tako-to-ika-3.json) |
@@ -24244,6 +24245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TooBold 3 | 97102 | [97102-toobold-3.json](./97102-toobold-3.json) |
 | Toobtrix | 96548 | [96548-toobtrix.json](./96548-toobtrix.json) |
 | Toodee and Topdee | 101690 | [101690-toodee-and-topdee.json](./101690-toodee-and-topdee.json) |
+| Toodee and Topdee | 366489 | [366489-toodee-and-topdee.json](./366489-toodee-and-topdee.json) |
 | Toodle's Toboggan: Wintery Slopes | 109517 | [109517-toodles-toboggan-wintery-slopes.json](./109517-toodles-toboggan-wintery-slopes.json) |
 | Toodles & Toddlers | 144570 | [144570-toodles-and-toddlers.json](./144570-toodles-and-toddlers.json) |
 | Toofan AlAqsa | 289938 | [289938-toofan-alaqsa.json](./289938-toofan-alaqsa.json) |
@@ -30713,6 +30715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumble Jumble | 206067 | [206067-tumble-jumble.json](./206067-tumble-jumble.json) |
 | Tumble Marble | 393605 | [393605-tumble-marble.json](./393605-tumble-marble.json) |
 | Tumble Rush | 297337 | [297337-tumble-rush.json](./297337-tumble-rush.json) |
+| Tumble Tiles | 366452 | [366452-tumble-tiles.json](./366452-tumble-tiles.json) |
 | Tumble Toys: Aviation | 215897 | [215897-tumble-toys-aviation.json](./215897-tumble-toys-aviation.json) |
 | Tumble Troopers | 327214 | [327214-tumble-troopers.json](./327214-tumble-troopers.json) |
 | Tumble Tundra | 259279 | [259279-tumble-tundra.json](./259279-tumble-tundra.json) |
@@ -31280,6 +31283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twice Go! Go! Fightin' | 115763 | [115763-twice-go-go-fightin.json](./115763-twice-go-go-fightin.json) |
 | Twiddlefinger | 307551 | [307551-twiddlefinger.json](./307551-twiddlefinger.json) |
 | Twig & Flipper | 152453 | [152453-twig-and-flipper.json](./152453-twig-and-flipper.json) |
+| Twig's Adventure 64 | 366473 | [366473-twigs-adventure-64.json](./366473-twigs-adventure-64.json) |
 | Twikkel.io | 133605 | [133605-twikkel-io.json](./133605-twikkel-io.json) |
 | Twilight | 206534 | [206534-twilight.json](./206534-twilight.json) |
 | Twilight Apartment | 331887 | [331887-twilight-apartment.json](./331887-twilight-apartment.json) |
