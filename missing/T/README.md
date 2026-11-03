@@ -4392,6 +4392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraria: Split Mod | 223035 | [223035-terraria-split-mod.json](./223035-terraria-split-mod.json) |
 | Terraria: The Stars Above | 223034 | [223034-terraria-the-stars-above.json](./223034-terraria-the-stars-above.json) |
 | TerrariaCraft | 300699 | [300699-terrariacraft.json](./300699-terrariacraft.json) |
+| Terrarium | 360876 | [360876-terrarium.json](./360876-terrarium.json) |
 | Terrarium: Garden Idle | 116433 | [116433-terrarium-garden-idle.json](./116433-terrarium-garden-idle.json) |
 | Terrarium.live | 405646 | [405646-terrarium-live.json](./405646-terrarium-live.json) |
 | Terrarium/Aquarium | 182685 | [182685-terrarium-aquarium.json](./182685-terrarium-aquarium.json) |
@@ -9124,6 +9125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Present | 278675 | [278675-the-first-present.json](./278675-the-first-present.json) |
 | The First Project | 144584 | [144584-the-first-project.json](./144584-the-first-project.json) |
 | The First Samurai + The Second Samurai Bundle | 154183 | [154183-the-first-samurai-the-second-samurai-bundle.json](./154183-the-first-samurai-the-second-samurai-bundle.json) |
+| The First Scene | 360867 | [360867-the-first-scene.json](./360867-the-first-scene.json) |
 | The First Settlement VR | 311550 | [311550-the-first-settlement-vr.json](./311550-the-first-settlement-vr.json) |
 | The First SMW Hack that will Ever be so Lucky as to Gain the Luxury of Leaving My PC | 278628 | [278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json](./278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json) |
 | The First Spark | 32394 | [32394-the-first-spark.json](./32394-the-first-spark.json) |
@@ -13036,6 +13038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Masked Rider: Kamen Rider ZO | 46409 | [46409-the-masked-rider-kamen-rider-zo.json](./46409-the-masked-rider-kamen-rider-zo.json) |
 | The Masque of Red Death | 271065 | [271065-the-masque-of-red-death.json](./271065-the-masque-of-red-death.json) |
 | The Masquerade | 270530 | [270530-the-masquerade.json](./270530-the-masquerade.json) |
+| The Masquerade | 360875 | [360875-the-masquerade.json](./360875-the-masquerade.json) |
 | The Massive Iceberg Schoolhouse | 340004 | [340004-the-massive-iceberg-schoolhouse.json](./340004-the-massive-iceberg-schoolhouse.json) |
 | The Master | 70106 | [70106-the-master.json](./70106-the-master.json) |
 | The Master | 81625 | [81625-the-master.json](./81625-the-master.json) |
@@ -24132,6 +24135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonight, I Die in My Sleep | 268942 | [268942-tonight-i-die-in-my-sleep.json](./268942-tonight-i-die-in-my-sleep.json) |
 | Tonight's Special | 394814 | [394814-tonights-special.json](./394814-tonights-special.json) |
 | Tonikk Tycoon | 195455 | [195455-tonikk-tycoon.json](./195455-tonikk-tycoon.json) |
+| Tonin | 360864 | [360864-tonin.json](./360864-tonin.json) |
 | Tonka Construction | 7954 | [7954-tonka-construction.json](./7954-tonka-construction.json) |
 | Tonka Construction 2 | 7958 | [7958-tonka-construction-2.json](./7958-tonka-construction-2.json) |
 | Tonka Firefighter | 206757 | [206757-tonka-firefighter.json](./206757-tonka-firefighter.json) |
@@ -31149,6 +31153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turret Defense: Bug Invasion | 160079 | [160079-turret-defense-bug-invasion.json](./160079-turret-defense-bug-invasion.json) |
 | Turret Girl | 235670 | [235670-turret-girl.json](./235670-turret-girl.json) |
 | Turret Jumper 2 | 183350 | [183350-turret-jumper-2.json](./183350-turret-jumper-2.json) |
+| Turret Kingdom | 360847 | [360847-turret-kingdom.json](./360847-turret-kingdom.json) |
 | Turret Lab | 223519 | [223519-turret-lab.json](./223519-turret-lab.json) |
 | Turret Rampage | 260519 | [260519-turret-rampage.json](./260519-turret-rampage.json) |
 | Turret Tech | 106155 | [106155-turret-tech.json](./106155-turret-tech.json) |
