@@ -3647,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Reset | 346233 | [346233-dead-reset.json](./346233-dead-reset.json) |
 | Dead Rider | 87312 | [87312-dead-rider.json](./87312-dead-rider.json) |
 | Dead Rig | 402729 | [402729-dead-rig.json](./402729-dead-rig.json) |
+| Dead Ringer | 374852 | [374852-dead-ringer.json](./374852-dead-ringer.json) |
 | Dead Rising | 4797 | [4797-dead-rising.json](./4797-dead-rising.json) |
 | Dead Rising 2 | 496 | [496-dead-rising-2.json](./496-dead-rising-2.json) |
 | Dead Rising 2: Case West | 21764 | [21764-dead-rising-2-case-west.json](./21764-dead-rising-2-case-west.json) |
@@ -12646,6 +12647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door Slammers 2 | 55829 | [55829-door-slammers-2.json](./55829-door-slammers-2.json) |
 | Door Smasher | 153844 | [153844-door-smasher.json](./153844-door-smasher.json) |
 | Door to Door | 34244 | [34244-door-to-door.json](./34244-door-to-door.json) |
+| Door to Somewhere | 374868 | [374868-door-to-somewhere.json](./374868-door-to-somewhere.json) |
 | Door XP | 178956 | [178956-door-xp.json](./178956-door-xp.json) |
 | Door4: Ultimatum | 319686 | [319686-door4-ultimatum.json](./319686-door4-ultimatum.json) |
 | Doorbell Game! | 176728 | [176728-doorbell-game.json](./176728-doorbell-game.json) |
@@ -14144,6 +14146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Extinction VR | 149002 | [149002-dragon-extinction-vr.json](./149002-dragon-extinction-vr.json) |
 | Dragon Eye Online | 113566 | [113566-dragon-eye-online.json](./113566-dragon-eye-online.json) |
 | Dragon Eyes | 282749 | [282749-dragon-eyes.json](./282749-dragon-eyes.json) |
+| Dragon Fall | 374554 | [374554-dragon-fall.json](./374554-dragon-fall.json) |
 | Dragon Fang Z | 175312 | [175312-dragon-fang-z.json](./175312-dragon-fang-z.json) |
 | Dragon Fang Z: The Rose & Dungeon of Time - Extra Dungeon: Friendship's Labyrinth | 171446 | [171446-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-friendships-labyrinth.json](./171446-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-friendships-labyrinth.json) |
 | Dragon Fang Z: The Rose & Dungeon of Time - Extra Dungeon: The Cave of Fangs | 171939 | [171939-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-cave-of-fangs.json](./171939-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-cave-of-fangs.json) |
@@ -16736,6 +16739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Jousting VR | 200515 | [200515-duel-jousting-vr.json](./200515-duel-jousting-vr.json) |
 | Duel Legends | 369734 | [369734-duel-legends.json](./369734-duel-legends.json) |
 | Duel Love: Koisuru Otome wa Shouri no Megami | 123306 | [123306-duel-love-koisuru-otome-wa-shouri-no-megami.json](./123306-duel-love-koisuru-otome-wa-shouri-no-megami.json) |
+| Duel Masters | 374543 | [374543-duel-masters.json](./374543-duel-masters.json) |
 | Duel Masters 2 - Kirifuda Shoubu Ver. | 49583 | [49583-duel-masters-2-kirifuda-shoubu-ver.json](./49583-duel-masters-2-kirifuda-shoubu-ver.json) |
 | Duel Masters 2: Invincible Advance | 49584 | [49584-duel-masters-2-invincible-advance.json](./49584-duel-masters-2-invincible-advance.json) |
 | Duel Masters 3 | 412221 | [412221-duel-masters-3.json](./412221-duel-masters-3.json) |
