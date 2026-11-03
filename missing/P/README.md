@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Files: Buried Sanity | 391090 | [391090-panic-files-buried-sanity.json](./391090-panic-files-buried-sanity.json) |
 | Panic Floor!! | 202658 | [202658-panic-floor.json](./202658-panic-floor.json) |
 | Panic in Nakayoshi World | 42374 | [42374-panic-in-nakayoshi-world.json](./42374-panic-in-nakayoshi-world.json) |
+| Panic in Puzzle World | 358035 | [358035-panic-in-puzzle-world.json](./358035-panic-in-puzzle-world.json) |
 | Panic in the Mushroom Kingdom | 268108 | [268108-panic-in-the-mushroom-kingdom.json](./268108-panic-in-the-mushroom-kingdom.json) |
 | Panic in the Park | 69251 | [69251-panic-in-the-park.json](./69251-panic-in-the-park.json) |
 | Panic in the Woods | 315508 | [315508-panic-in-the-woods.json](./315508-panic-in-the-woods.json) |
@@ -5561,6 +5562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physics Drop | 100924 | [100924-physics-drop.json](./100924-physics-drop.json) |
 | Physics Overdrive | 252935 | [252935-physics-overdrive.json](./252935-physics-overdrive.json) |
 | Physics Playground | 372071 | [372071-physics-playground.json](./372071-physics-playground.json) |
+| Physics Puzzle Ball | 358034 | [358034-physics-puzzle-ball.json](./358034-physics-puzzle-ball.json) |
 | Physics Sandbox VR | 168047 | [168047-physics-sandbox-vr.json](./168047-physics-sandbox-vr.json) |
 | Physics World | 158144 | [158144-physics-world.json](./158144-physics-world.json) |
 | Physics World: Evolution | 373306 | [373306-physics-world-evolution.json](./373306-physics-world-evolution.json) |
@@ -5961,6 +5963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piczle Puzzle & Watch Collection | 154906 | [154906-piczle-puzzle-and-watch-collection.json](./154906-piczle-puzzle-and-watch-collection.json) |
 | Piczle Puzzle Adventures + Picto Quest Puzzle Bundle | 145690 | [145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json](./145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json) |
 | Piczle Puzzle Pack 3-in-1 | 136960 | [136960-piczle-puzzle-pack-3-in-1.json](./136960-piczle-puzzle-pack-3-in-1.json) |
+| Piczle World of Puzzles | 358033 | [358033-piczle-world-of-puzzles.json](./358033-piczle-world-of-puzzles.json) |
 | Pid | 1892 | [1892-pid.json](./1892-pid.json) |
 | Pid | 225890 | [225890-pid.json](./225890-pid.json) |
 | Pid: Deluxe Edition | 231248 | [231248-pid-deluxe-edition.json](./231248-pid-deluxe-edition.json) |
@@ -7064,6 +7067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pip L | 226685 | [226685-pip-l.json](./226685-pip-l.json) |
 | Pip My Dice | 314288 | [314288-pip-my-dice.json](./314288-pip-my-dice.json) |
 | Pip Pepper Park Planner | 347116 | [347116-pip-pepper-park-planner.json](./347116-pip-pepper-park-planner.json) |
+| Pip Puzzle | 358032 | [358032-pip-puzzle.json](./358032-pip-puzzle.json) |
 | Pip XL | 234235 | [234235-pip-xl.json](./234235-pip-xl.json) |
 | Pip: Battle for the Arctic | 240723 | [240723-pip-battle-for-the-arctic.json](./240723-pip-battle-for-the-arctic.json) |
 | Pip! | 123445 | [123445-pip.json](./123445-pip.json) |
@@ -17321,6 +17325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Blast | 92943 | [92943-puzzle-blast.json](./92943-puzzle-blast.json) |
 | Puzzle Block - Glow Block Game | 91289 | [91289-puzzle-block-glow-block-game.json](./91289-puzzle-block-glow-block-game.json) |
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
+| Puzzle Block Defender | 358031 | [358031-puzzle-block-defender.json](./358031-puzzle-block-defender.json) |
 | Puzzle Block Wood - Wooden Block & Puzzle Game | 100936 | [100936-puzzle-block-wood-wooden-block-and-puzzle-game.json](./100936-puzzle-block-wood-wooden-block-and-puzzle-game.json) |
 | Puzzle Blocks | 83937 | [83937-puzzle-blocks.json](./83937-puzzle-blocks.json) |
 | Puzzle Bloom | 93931 | [93931-puzzle-bloom.json](./93931-puzzle-bloom.json) |
@@ -17393,6 +17398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Chambers | 75620 | [75620-puzzle-chambers.json](./75620-puzzle-chambers.json) |
 | Puzzle Champions | 213271 | [213271-puzzle-champions.json](./213271-puzzle-champions.json) |
 | Puzzle Chasers | 292140 | [292140-puzzle-chasers.json](./292140-puzzle-chasers.json) |
+| Puzzle Checkers: The Rooks | 358030 | [358030-puzzle-checkers-the-rooks.json](./358030-puzzle-checkers-the-rooks.json) |
 | Puzzle Chronicles | 10732 | [10732-puzzle-chronicles.json](./10732-puzzle-chronicles.json) |
 | Puzzle City | 54275 | [54275-puzzle-city.json](./54275-puzzle-city.json) |
 | Puzzle Club | 218450 | [218450-puzzle-club.json](./218450-puzzle-club.json) |
@@ -17406,6 +17412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Craft | 47286 | [47286-puzzle-craft.json](./47286-puzzle-craft.json) |
 | Puzzle Craft 2 | 22115 | [22115-puzzle-craft-2.json](./22115-puzzle-craft-2.json) |
 | Puzzle Cross | 398143 | [398143-puzzle-cross.json](./398143-puzzle-cross.json) |
+| Puzzle Crossing | 358029 | [358029-puzzle-crossing.json](./358029-puzzle-crossing.json) |
 | Puzzle Cube | 275146 | [275146-puzzle-cube.json](./275146-puzzle-cube.json) |
 | Puzzle Cube: Magic Urbik Game | 207876 | [207876-puzzle-cube-magic-urbik-game.json](./207876-puzzle-cube-magic-urbik-game.json) |
 | Puzzle da Moro! | 259828 | [259828-puzzle-da-moro.json](./259828-puzzle-da-moro.json) |
@@ -17531,8 +17538,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Mate DS: Nanpure Mate | 306449 | [306449-puzzle-mate-ds-nanpure-mate.json](./306449-puzzle-mate-ds-nanpure-mate.json) |
 | Puzzle Mate DS: Oekaki Mate | 306448 | [306448-puzzle-mate-ds-oekaki-mate.json](./306448-puzzle-mate-ds-oekaki-mate.json) |
 | Puzzle Me | 208819 | [208819-puzzle-me.json](./208819-puzzle-me.json) |
+| Puzzle Milk Tea | 358028 | [358028-puzzle-milk-tea.json](./358028-puzzle-milk-tea.json) |
 | Puzzle Mino | 199328 | [199328-puzzle-mino.json](./199328-puzzle-mino.json) |
 | Puzzle Mix | 195430 | [195430-puzzle-mix.json](./195430-puzzle-mix.json) |
+| Puzzle Moments | 358027 | [358027-puzzle-moments.json](./358027-puzzle-moments.json) |
 | Puzzle Monarch: Egypt | 109335 | [109335-puzzle-monarch-egypt.json](./109335-puzzle-monarch-egypt.json) |
 | Puzzle Monarch: Forests | 107537 | [107537-puzzle-monarch-forests.json](./107537-puzzle-monarch-forests.json) |
 | Puzzle Monarch: Mummy | 107538 | [107538-puzzle-monarch-mummy.json](./107538-puzzle-monarch-mummy.json) |
@@ -17636,7 +17645,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Station 15th Anniversary Retro Release | 35348 | [35348-puzzle-station-15th-anniversary-retro-release.json](./35348-puzzle-station-15th-anniversary-retro-release.json) |
 | Puzzle Strike | 34863 | [34863-puzzle-strike.json](./34863-puzzle-strike.json) |
 | Puzzle Sudoku | 304171 | [304171-puzzle-sudoku.json](./304171-puzzle-sudoku.json) |
+| Puzzle Summit: Climbing Difficulty Expansion Pack | 358015 | [358015-puzzle-summit-climbing-difficulty-expansion-pack.json](./358015-puzzle-summit-climbing-difficulty-expansion-pack.json) |
+| Puzzle Summit: Color Sort Difficulty Expansion Pack | 358016 | [358016-puzzle-summit-color-sort-difficulty-expansion-pack.json](./358016-puzzle-summit-color-sort-difficulty-expansion-pack.json) |
+| Puzzle Summit: Connect Difficulty Expansion Pack | 358017 | [358017-puzzle-summit-connect-difficulty-expansion-pack.json](./358017-puzzle-summit-connect-difficulty-expansion-pack.json) |
+| Puzzle Summit: Fill Lines Difficulty Expansion Pack | 358018 | [358018-puzzle-summit-fill-lines-difficulty-expansion-pack.json](./358018-puzzle-summit-fill-lines-difficulty-expansion-pack.json) |
+| Puzzle Summit: Fill Shapes Difficulty Expansion Pack | 358019 | [358019-puzzle-summit-fill-shapes-difficulty-expansion-pack.json](./358019-puzzle-summit-fill-shapes-difficulty-expansion-pack.json) |
+| Puzzle Summit: Neighbours Difficulty Expansion Pack | 358020 | [358020-puzzle-summit-neighbours-difficulty-expansion-pack.json](./358020-puzzle-summit-neighbours-difficulty-expansion-pack.json) |
+| Puzzle Summit: Nonogram Difficulty Expansion Pack | 358021 | [358021-puzzle-summit-nonogram-difficulty-expansion-pack.json](./358021-puzzle-summit-nonogram-difficulty-expansion-pack.json) |
+| Puzzle Summit: Pyramid Difficulty Expansion Pack | 358022 | [358022-puzzle-summit-pyramid-difficulty-expansion-pack.json](./358022-puzzle-summit-pyramid-difficulty-expansion-pack.json) |
+| Puzzle Summit: Roll Cube Difficulty Expansion Pack | 358023 | [358023-puzzle-summit-roll-cube-difficulty-expansion-pack.json](./358023-puzzle-summit-roll-cube-difficulty-expansion-pack.json) |
 | Puzzle Summit: Solve & Rise | 341429 | [341429-puzzle-summit-solve-and-rise.json](./341429-puzzle-summit-solve-and-rise.json) |
+| Puzzle Summit: Sudoku Difficulty Expansion Pack | 358014 | [358014-puzzle-summit-sudoku-difficulty-expansion-pack.json](./358014-puzzle-summit-sudoku-difficulty-expansion-pack.json) |
 | Puzzle Tactics | 75773 | [75773-puzzle-tactics.json](./75773-puzzle-tactics.json) |
 | Puzzle Tales: Arcane Voyager | 358451 | [358451-puzzle-tales-arcane-voyager.json](./358451-puzzle-tales-arcane-voyager.json) |
 | Puzzle Temptation: Anime Reveal | 357764 | [357764-puzzle-temptation-anime-reveal.json](./357764-puzzle-temptation-anime-reveal.json) |
