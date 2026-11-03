@@ -4055,6 +4055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entomophobia | 195153 | [195153-entomophobia.json](./195153-entomophobia.json) |
 | Entomorph: Plague of the Darkfall | 3138 | [3138-entomorph-plague-of-the-darkfall.json](./3138-entomorph-plague-of-the-darkfall.json) |
 | Entrance 8 Iriguchi | 391864 | [391864-entrance-8-iriguchi.json](./391864-entrance-8-iriguchi.json) |
+| Entrance No.9 | 390875 | [390875-entrance-no-9.json](./390875-entrance-no-9.json) |
 | Entrapment | 148785 | [148785-entrapment.json](./148785-entrapment.json) |
 | Entre Laços e Amassos | 215790 | [215790-entre-lacos-e-amassos.json](./215790-entre-lacos-e-amassos.json) |
 | Entre-Deux | 99445 | [99445-entre-deux.json](./99445-entre-deux.json) |
@@ -4362,6 +4363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epidemic Escape: A Race for the Cure | 250989 | [250989-epidemic-escape-a-race-for-the-cure.json](./250989-epidemic-escape-a-race-for-the-cure.json) |
 | Epidemic! | 23496 | [23496-epidemic.json](./23496-epidemic.json) |
 | Epidemyc | 190944 | [190944-epidemyc.json](./190944-epidemyc.json) |
+| EpiDexa Racing | 390864 | [390864-epidexa-racing.json](./390864-epidexa-racing.json) |
 | Epido | 127947 | [127947-epido.json](./127947-epido.json) |
 | Epido: Second Move | 127946 | [127946-epido-second-move.json](./127946-epido-second-move.json) |
 | Epifrog | 128248 | [128248-epifrog.json](./128248-epifrog.json) |
