@@ -12006,6 +12006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop's Gun | 409126 | [409126-pops-gun.json](./409126-pops-gun.json) |
 | Pop's Pipes / Slurp | 206462 | [206462-pops-pipes-slurp.json](./206462-pops-pipes-slurp.json) |
 | Pop's Pop's | 254593 | [254593-pops-pops.json](./254593-pops-pops.json) |
+| Pop's World | 388673 | [388673-pops-world.json](./388673-pops-world.json) |
 | Pop4 | 134028 | [134028-pop4.json](./134028-pop4.json) |
 | Popap | 29154 | [29154-popap.json](./29154-popap.json) |
 | PopCap Arcade Vol. 1 | 7132 | [7132-popcap-arcade-vol-1.json](./7132-popcap-arcade-vol-1.json) |
@@ -12337,6 +12338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portrait of a Cornish Woman | 319137 | [319137-portrait-of-a-cornish-woman.json](./319137-portrait-of-a-cornish-woman.json) |
 | Portrait of a Ghost | 320911 | [320911-portrait-of-a-ghost.json](./320911-portrait-of-a-ghost.json) |
 | Portrait of a Torn | 318362 | [318362-portrait-of-a-torn.json](./318362-portrait-of-a-torn.json) |
+| Portrait of an Obsession: A Forgotten Hill Tale | 388675 | [388675-portrait-of-an-obsession-a-forgotten-hill-tale.json](./388675-portrait-of-an-obsession-a-forgotten-hill-tale.json) |
 | Portrait of Ruin: Refined Edition | 233601 | [233601-portrait-of-ruin-refined-edition.json](./233601-portrait-of-ruin-refined-edition.json) |
 | Portrait Painter | 406709 | [406709-portrait-painter.json](./406709-portrait-painter.json) |
 | Portraits of Doom | 318067 | [318067-portraits-of-doom.json](./318067-portraits-of-doom.json) |
