@@ -6589,6 +6589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: Dawn of Prosperity - Collector's Edition | 31689 | [31689-hidden-expedition-dawn-of-prosperity-collectors-edition.json](./31689-hidden-expedition-dawn-of-prosperity-collectors-edition.json) |
 | Hidden Expedition: Devil's Triangle | 64723 | [64723-hidden-expedition-devils-triangle.json](./64723-hidden-expedition-devils-triangle.json) |
 | Hidden Expedition: Neptune's Gift | 187960 | [187960-hidden-expedition-neptunes-gift.json](./187960-hidden-expedition-neptunes-gift.json) |
+| Hidden Expedition: Neptune's Gift - Collector's Edition | 357685 | [357685-hidden-expedition-neptunes-gift-collectors-edition.json](./357685-hidden-expedition-neptunes-gift-collectors-edition.json) |
 | Hidden Expedition: New Adventures Steve and Victoria | 249232 | [249232-hidden-expedition-new-adventures-steve-and-victoria.json](./249232-hidden-expedition-new-adventures-steve-and-victoria.json) |
 | Hidden Expedition: Smithsonian Castle | 187950 | [187950-hidden-expedition-smithsonian-castle.json](./187950-hidden-expedition-smithsonian-castle.json) |
 | Hidden Expedition: Smithsonian Hope Diamond | 187955 | [187955-hidden-expedition-smithsonian-hope-diamond.json](./187955-hidden-expedition-smithsonian-hope-diamond.json) |
@@ -10190,6 +10191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotdog Cart Simulator | 385447 | [385447-hotdog-cart-simulator.json](./385447-hotdog-cart-simulator.json) |
 | Hotdog Delivery Hotdog | 390621 | [390621-hotdog-delivery-hotdog.json](./390621-hotdog-delivery-hotdog.json) |
 | Hotdog Hazards | 357152 | [357152-hotdog-hazards.json](./357152-hotdog-hazards.json) |
+| Hotdog Hustler | 357704 | [357704-hotdog-hustler.json](./357704-hotdog-hustler.json) |
 | Hotdog Kitchen | 295653 | [295653-hotdog-kitchen.json](./295653-hotdog-kitchen.json) |
 | Hotdog Man | 116189 | [116189-hotdog-man.json](./116189-hotdog-man.json) |
 | Hotdog Quest: One With Everything | 212995 | [212995-hotdog-quest-one-with-everything.json](./212995-hotdog-quest-one-with-everything.json) |
