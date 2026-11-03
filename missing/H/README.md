@@ -6878,6 +6878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Office | 152739 | [152739-hidden-office.json](./152739-hidden-office.json) |
 | Hidden Office Top-Down 3D | 220036 | [220036-hidden-office-top-down-3d.json](./220036-hidden-office-top-down-3d.json) |
 | Hidden Old House Top-Down 3D | 302062 | [302062-hidden-old-house-top-down-3d.json](./302062-hidden-old-house-top-down-3d.json) |
+| Hidden Pairs 3: Lovely Birds | 365937 | [365937-hidden-pairs-3-lovely-birds.json](./365937-hidden-pairs-3-lovely-birds.json) |
 | Hidden Paradise: Aloha with Love - Collector's Edition | 362831 | [362831-hidden-paradise-aloha-with-love-collectors-edition.json](./362831-hidden-paradise-aloha-with-love-collectors-edition.json) |
 | Hidden Paradise: Kiwi Christmas - Collector's Edition | 399130 | [399130-hidden-paradise-kiwi-christmas-collectors-edition.json](./399130-hidden-paradise-kiwi-christmas-collectors-edition.json) |
 | Hidden Pass | 253352 | [253352-hidden-pass.json](./253352-hidden-pass.json) |
@@ -8159,6 +8160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey League Simulator | 15503 | [15503-hockey-league-simulator.json](./15503-hockey-league-simulator.json) |
 | Hockey League Simulator II | 15504 | [15504-hockey-league-simulator-ii.json](./15504-hockey-league-simulator-ii.json) |
 | Hockey Legacy Manager 25 | 340475 | [340475-hockey-legacy-manager-25.json](./340475-hockey-legacy-manager-25.json) |
+| Hockey Legacy Manager 26 | 365944 | [365944-hockey-legacy-manager-26.json](./365944-hockey-legacy-manager-26.json) |
 | Hockey Manager 20\|20 | 129979 | [129979-hockey-manager-20-20.json](./129979-hockey-manager-20-20.json) |
 | Hockey Nations 2010 | 62038 | [62038-hockey-nations-2010.json](./62038-hockey-nations-2010.json) |
 | Hockey Player VR | 117837 | [117837-hockey-player-vr.json](./117837-hockey-player-vr.json) |
