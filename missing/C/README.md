@@ -4891,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Ascend | 387108 | [387108-celestial-ascend.json](./387108-celestial-ascend.json) |
 | Celestial Ascent | 292048 | [292048-celestial-ascent.json](./292048-celestial-ascent.json) |
 | Celestial Breach | 30795 | [30795-celestial-breach.json](./30795-celestial-breach.json) |
+| Celestial City Fantasy | 367682 | [367682-celestial-city-fantasy.json](./367682-celestial-city-fantasy.json) |
 | Celestial Clockwork | 374241 | [374241-celestial-clockwork.json](./374241-celestial-clockwork.json) |
 | Celestial Coffee Quest | 404643 | [404643-celestial-coffee-quest.json](./404643-celestial-coffee-quest.json) |
 | Celestial Command | 17978 | [17978-celestial-command.json](./17978-celestial-command.json) |
@@ -15389,6 +15390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot 4: It's About Time | 135254 | [135254-crash-bandicoot-4-its-about-time.json](./135254-crash-bandicoot-4-its-about-time.json) |
 | Crash Bandicoot 4: N. Hanced | 323730 | [323730-crash-bandicoot-4-n-hanced.json](./323730-crash-bandicoot-4-n-hanced.json) |
 | Crash Bandicoot Action Pack | 196663 | [196663-crash-bandicoot-action-pack.json](./196663-crash-bandicoot-action-pack.json) |
+| Crash Bandicoot and the Retro Dimension | 367688 | [367688-crash-bandicoot-and-the-retro-dimension.json](./367688-crash-bandicoot-and-the-retro-dimension.json) |
 | Crash Bandicoot Collectors' Edition | 43683 | [43683-crash-bandicoot-collectors-edition.json](./43683-crash-bandicoot-collectors-edition.json) |
 | Crash Bandicoot Flash | 228752 | [228752-crash-bandicoot-flash.json](./228752-crash-bandicoot-flash.json) |
 | Crash Bandicoot N. Sane Trilogy: Future Tense | 229857 | [229857-crash-bandicoot-n-sane-trilogy-future-tense.json](./229857-crash-bandicoot-n-sane-trilogy-future-tense.json) |
