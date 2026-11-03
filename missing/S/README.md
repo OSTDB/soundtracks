@@ -4488,6 +4488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector Ninja | 402053 | [402053-sector-ninja.json](./402053-sector-ninja.json) |
 | Sector Shooter | 361266 | [361266-sector-shooter.json](./361266-sector-shooter.json) |
 | Sector Six | 32924 | [32924-sector-six.json](./32924-sector-six.json) |
+| Sector Space | 382135 | [382135-sector-space.json](./382135-sector-space.json) |
 | Sector Strike | 145016 | [145016-sector-strike.json](./145016-sector-strike.json) |
 | Sector Sweep | 224598 | [224598-sector-sweep.json](./224598-sector-sweep.json) |
 | Sector War | 413131 | [413131-sector-war.json](./413131-sector-war.json) |
@@ -5903,6 +5904,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Game - Threesome - Episode 5 | 382385 | [382385-sex-game-threesome-episode-5.json](./382385-sex-game-threesome-episode-5.json) |
 | Sex Game - Threesome - Episode 6 | 382392 | [382392-sex-game-threesome-episode-6.json](./382392-sex-game-threesome-episode-6.json) |
 | Sex Game: BDSM - Episode 2 | 375513 | [375513-sex-game-bdsm-episode-2.json](./375513-sex-game-bdsm-episode-2.json) |
+| Sex Game: Futanari - Episode 1 | 382150 | [382150-sex-game-futanari-episode-1.json](./382150-sex-game-futanari-episode-1.json) |
+| Sex Game: Futanari - Episode 3 | 382153 | [382153-sex-game-futanari-episode-3.json](./382153-sex-game-futanari-episode-3.json) |
 | Sex Game: Gay Affair - Episode 1 | 384891 | [384891-sex-game-gay-affair-episode-1.json](./384891-sex-game-gay-affair-episode-1.json) |
 | Sex Game: Gay Affair - Episode 2 | 382383 | [382383-sex-game-gay-affair-episode-2.json](./382383-sex-game-gay-affair-episode-2.json) |
 | Sex Game: Naughty Couple - Episode 1 | 371053 | [371053-sex-game-naughty-couple-episode-1.json](./371053-sex-game-naughty-couple-episode-1.json) |
@@ -5919,6 +5922,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Game: Threesome - Episode 1 | 371056 | [371056-sex-game-threesome-episode-1.json](./371056-sex-game-threesome-episode-1.json) |
 | Sex Game: Threesome - Episode 2 | 377092 | [377092-sex-game-threesome-episode-2.json](./377092-sex-game-threesome-episode-2.json) |
 | Sex Game: Threesome - Episode 4 | 375268 | [375268-sex-game-threesome-episode-4.json](./375268-sex-game-threesome-episode-4.json) |
+| Sex Game: Threesome - Episode 7 | 382151 | [382151-sex-game-threesome-episode-7.json](./382151-sex-game-threesome-episode-7.json) |
+| Sex Game: Threesome - Episode 8 | 382152 | [382152-sex-game-threesome-episode-8.json](./382152-sex-game-threesome-episode-8.json) |
 | Sex Girlfriend Simulator | 189977 | [189977-sex-girlfriend-simulator.json](./189977-sex-girlfriend-simulator.json) |
 | Sex Goddess Punishment | 295371 | [295371-sex-goddess-punishment.json](./295371-sex-goddess-punishment.json) |
 | Sex Gym 3D | 237453 | [237453-sex-gym-3d.json](./237453-sex-gym-3d.json) |
@@ -14299,6 +14304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Bimbuls | 406134 | [406134-sneaky-bimbuls.json](./406134-sneaky-bimbuls.json) |
 | Sneaky Claws | 358649 | [358649-sneaky-claws.json](./358649-sneaky-claws.json) |
 | Sneaky Clean | 411990 | [411990-sneaky-clean.json](./411990-sneaky-clean.json) |
+| Sneaky Doggie | 382487 | [382487-sneaky-doggie.json](./382487-sneaky-doggie.json) |
 | Sneaky Fishy | 419369 | [419369-sneaky-fishy.json](./419369-sneaky-fishy.json) |
 | Sneaky Forest | 221517 | [221517-sneaky-forest.json](./221517-sneaky-forest.json) |
 | Sneaky IT Support | 211572 | [211572-sneaky-it-support.json](./211572-sneaky-it-support.json) |
@@ -18567,7 +18573,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -33697,6 +33702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Sanctuary | 333394 | [333394-sword-sanctuary.json](./333394-sword-sanctuary.json) |
 | Sword sand Shotguns | 258071 | [258071-sword-sand-shotguns.json](./258071-sword-sand-shotguns.json) |
 | Sword Shop | 182738 | [182738-sword-shop.json](./182738-sword-shop.json) |
+| Sword Slash Adventure | 382114 | [382114-sword-slash-adventure.json](./382114-sword-slash-adventure.json) |
 | Sword Slayer | 63789 | [63789-sword-slayer.json](./63789-sword-slayer.json) |
 | Sword Slinger | 139613 | [139613-sword-slinger.json](./139613-sword-slinger.json) |
 | Sword Smash | 244385 | [244385-sword-smash.json](./244385-sword-smash.json) |
