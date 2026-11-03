@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Vengeance: Play the Game | 230924 | [230924-tactical-vengeance-play-the-game.json](./230924-tactical-vengeance-play-the-game.json) |
 | Tactical Warrior | 208388 | [208388-tactical-warrior.json](./208388-tactical-warrior.json) |
 | Tactical Zone | 261641 | [261641-tactical-zone.json](./261641-tactical-zone.json) |
+| Tactical2 | 364781 | [364781-tactical2.json](./364781-tactical2.json) |
 | TacticalDuty.io | 234036 | [234036-tacticalduty-io.json](./234036-tacticalduty-io.json) |
 | Tacticalunderground Arcade | 154366 | [154366-tacticalunderground-arcade.json](./154366-tacticalunderground-arcade.json) |
 | TactiCats | 197511 | [197511-tacticats.json](./197511-tacticats.json) |
@@ -6885,6 +6886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Charnel House Trilogy | 19385 | [19385-the-charnel-house-trilogy.json](./19385-the-charnel-house-trilogy.json) |
 | The Chase | 133821 | [133821-the-chase.json](./133821-the-chase.json) |
 | The Chase | 168949 | [168949-the-chase.json](./168949-the-chase.json) |
+| The Chase: Police Rush | 364815 | [364815-the-chase-police-rush.json](./364815-the-chase-police-rush.json) |
 | The Chase: Ultimate Edition | 138568 | [138568-the-chase-ultimate-edition.json](./138568-the-chase-ultimate-edition.json) |
 | The Chasm | 123752 | [123752-the-chasm.json](./123752-the-chasm.json) |
 | The Chaste Full-Metal Maiden - Leiria | 124262 | [124262-the-chaste-full-metal-maiden-leiria.json](./124262-the-chaste-full-metal-maiden-leiria.json) |
@@ -13617,6 +13619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Next Big Thing | 264879 | [264879-the-next-big-thing.json](./264879-the-next-big-thing.json) |
 | The Next Door | 33405 | [33405-the-next-door.json](./33405-the-next-door.json) |
 | The Next Jianghu I | 155867 | [155867-the-next-jianghu-i.json](./155867-the-next-jianghu-i.json) |
+| The Next Journey of Life | 364773 | [364773-the-next-journey-of-life.json](./364773-the-next-journey-of-life.json) |
 | The Next Kingpin | 292569 | [292569-the-next-kingpin.json](./292569-the-next-kingpin.json) |
 | The Next Penelope: Race to Odysseus | 61538 | [61538-the-next-penelope-race-to-odysseus.json](./61538-the-next-penelope-race-to-odysseus.json) |
 | The Next Space | 21703 | [21703-the-next-space.json](./21703-the-next-space.json) |
@@ -14596,6 +14599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Queen of Hearts Maze Game | 25153 | [25153-the-queen-of-hearts-maze-game.json](./25153-the-queen-of-hearts-maze-game.json) |
 | The Queen of Phalli | 392986 | [392986-the-queen-of-phalli.json](./392986-the-queen-of-phalli.json) |
 | The Queen of Snakes | 408090 | [408090-the-queen-of-snakes.json](./408090-the-queen-of-snakes.json) |
+| The Queen Riding Insects | 364768 | [364768-the-queen-riding-insects.json](./364768-the-queen-riding-insects.json) |
 | The Queen TV-Game 2 | 147931 | [147931-the-queen-tv-game-2.json](./147931-the-queen-tv-game-2.json) |
 | The Queen's Footsteps | 304181 | [304181-the-queens-footsteps.json](./304181-the-queens-footsteps.json) |
 | The Queen's Gambit Chess | 204451 | [204451-the-queens-gambit-chess.json](./204451-the-queens-gambit-chess.json) |
@@ -22948,6 +22952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To My Darling | 393512 | [393512-to-my-darling.json](./393512-to-my-darling.json) |
 | To My Forever Love | 259710 | [259710-to-my-forever-love.json](./259710-to-my-forever-love.json) |
 | To Pixelia | 239780 | [239780-to-pixelia.json](./239780-to-pixelia.json) |
+| To Put Your Childhood Sweetheart Into A Refrigerator | 364818 | [364818-to-put-your-childhood-sweetheart-into-a-refrigerator.json](./364818-to-put-your-childhood-sweetheart-into-a-refrigerator.json) |
 | To Save Humanity From Virus | 159816 | [159816-to-save-humanity-from-virus.json](./159816-to-save-humanity-from-virus.json) |
 | To Swat A Fly | 378212 | [378212-to-swat-a-fly.json](./378212-to-swat-a-fly.json) |
 | To Take Root Among the Stars | 234778 | [234778-to-take-root-among-the-stars.json](./234778-to-take-root-among-the-stars.json) |
@@ -28837,6 +28842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Island | 194283 | [194283-treasure-island.json](./194283-treasure-island.json) |
 | Treasure Island | 25782 | [25782-treasure-island.json](./25782-treasure-island.json) |
 | Treasure Island | 282746 | [282746-treasure-island.json](./282746-treasure-island.json) |
+| Treasure Island | 364791 | [364791-treasure-island.json](./364791-treasure-island.json) |
 | Treasure Island | 44397 | [44397-treasure-island.json](./44397-treasure-island.json) |
 | Treasure Island | 52523 | [52523-treasure-island.json](./52523-treasure-island.json) |
 | Treasure Island | 79649 | [79649-treasure-island.json](./79649-treasure-island.json) |
@@ -30141,6 +30147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator: World | 236249 | [236249-truck-simulator-world.json](./236249-truck-simulator-world.json) |
 | Truck Space | 220829 | [220829-truck-space.json](./220829-truck-space.json) |
 | Truck Stars AR | 95771 | [95771-truck-stars-ar.json](./95771-truck-stars-ar.json) |
+| Truck Titans | 364783 | [364783-truck-titans.json](./364783-truck-titans.json) |
 | Truck Toss | 409110 | [409110-truck-toss.json](./409110-truck-toss.json) |
 | Truck Trials 2 | 175379 | [175379-truck-trials-2.json](./175379-truck-trials-2.json) |
 | Truck Truck | 157197 | [157197-truck-truck.json](./157197-truck-truck.json) |
@@ -31270,6 +31277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twelve Sky M | 221390 | [221390-twelve-sky-m.json](./221390-twelve-sky-m.json) |
 | Twelve Sky2 World | 325269 | [325269-twelve-sky2-world.json](./325269-twelve-sky2-world.json) |
 | Twelve Sticks | 320840 | [320840-twelve-sticks.json](./320840-twelve-sticks.json) |
+| Twelve Succubus | 364778 | [364778-twelve-succubus.json](./364778-twelve-succubus.json) |
 | Twelve Tales: Conker 64 | 142678 | [142678-twelve-tales-conker-64.json](./142678-twelve-tales-conker-64.json) |
 | Twelves: Shadow | 360688 | [360688-twelves-shadow.json](./360688-twelves-shadow.json) |
 | Twenties Flappers vs. The Mummy | 269836 | [269836-twenties-flappers-vs-the-mummy.json](./269836-twenties-flappers-vs-the-mummy.json) |
