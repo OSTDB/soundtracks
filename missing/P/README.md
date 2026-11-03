@@ -2801,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Giants | 122047 | [122047-path-of-giants.json](./122047-path-of-giants.json) |
 | Path of Heaven | 278142 | [278142-path-of-heaven.json](./278142-path-of-heaven.json) |
 | Path of Hero. Story of Dartes | 310216 | [310216-path-of-hero-story-of-dartes.json](./310216-path-of-hero-story-of-dartes.json) |
+| Path of Idle: Old Gods Rising | 388087 | [388087-path-of-idle-old-gods-rising.json](./388087-path-of-idle-old-gods-rising.json) |
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
 | Path of Legends | 368766 | [368766-path-of-legends.json](./368766-path-of-legends.json) |
 | Path of Light | 344839 | [344839-path-of-light.json](./344839-path-of-light.json) |
@@ -12845,6 +12846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Unite | 252558 | [252558-power-rangers-unite.json](./252558-power-rangers-unite.json) |
 | Power Rangers: Wild Force | 49181 | [49181-power-rangers-wild-force.json](./49181-power-rangers-wild-force.json) |
 | Power Rush | 194375 | [194375-power-rush.json](./194375-power-rush.json) |
+| Power Scadle | 388099 | [388099-power-scadle.json](./388099-power-scadle.json) |
 | Power Serve 3D Tennis | 20641 | [20641-power-serve-3d-tennis.json](./20641-power-serve-3d-tennis.json) |
 | Power Shovel | 44741 | [44741-power-shovel.json](./44741-power-shovel.json) |
 | Power Sink | 236781 | [236781-power-sink.json](./236781-power-sink.json) |
