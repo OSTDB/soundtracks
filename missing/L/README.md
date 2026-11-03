@@ -1754,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Game Racing 2: Drunken | 340906 | [340906-lawnmower-game-racing-2-drunken.json](./340906-lawnmower-game-racing-2-drunken.json) |
 | Lawnmower Game: 2024 | 340904 | [340904-lawnmower-game-2024.json](./340904-lawnmower-game-2024.json) |
 | Lawnmower Game: Battle | 172930 | [172930-lawnmower-game-battle.json](./172930-lawnmower-game-battle.json) |
+| Lawnmower Game: Find Trump | 389272 | [389272-lawnmower-game-find-trump.json](./389272-lawnmower-game-find-trump.json) |
 | Lawnmower Game: Mission X | 368655 | [368655-lawnmower-game-mission-x.json](./368655-lawnmower-game-mission-x.json) |
 | Lawnmower Game: Mortal Race | 202657 | [202657-lawnmower-game-mortal-race.json](./202657-lawnmower-game-mortal-race.json) |
 | Lawnmower Game: Next Generation | 147735 | [147735-lawnmower-game-next-generation.json](./147735-lawnmower-game-next-generation.json) |
@@ -3337,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lep's World Plus | 88271 | [88271-leps-world-plus.json](./88271-leps-world-plus.json) |
 | Lep's World Plus - super best platformer games | 90375 | [90375-leps-world-plus-super-best-platformer-games.json](./90375-leps-world-plus-super-best-platformer-games.json) |
 | Lep's World Run | 344899 | [344899-leps-world-run.json](./344899-leps-world-run.json) |
+| Lepidarium | 389366 | [389366-lepidarium.json](./389366-lepidarium.json) |
 | Lepidoptera | 257092 | [257092-lepidoptera.json](./257092-lepidoptera.json) |
 | Lepistus | 268918 | [268918-lepistus.json](./268918-lepistus.json) |
 | LepozhdianVibe | 325866 | [325866-lepozhdianvibe.json](./325866-lepozhdianvibe.json) |
@@ -3393,6 +3395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LesLove.Club: Emily and Sarah | 155569 | [155569-leslove-club-emily-and-sarah.json](./155569-leslove-club-emily-and-sarah.json) |
 | LesLove.Club: Jessica and Ashley | 393230 | [393230-leslove-club-jessica-and-ashley.json](./393230-leslove-club-jessica-and-ashley.json) |
 | Less Hope | 400183 | [400183-less-hope.json](./400183-less-hope.json) |
+| Less Miserables | 389262 | [389262-less-miserables.json](./389262-less-miserables.json) |
 | Lessaria: Fantasy Kingdom Sim | 261556 | [261556-lessaria-fantasy-kingdom-sim.json](./261556-lessaria-fantasy-kingdom-sim.json) |
 | Lessen | 232089 | [232089-lessen.json](./232089-lessen.json) |
 | Lesson | 111658 | [111658-lesson.json](./111658-lesson.json) |
@@ -7301,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Сlick | 207815 | [207815-lord-of-the-lick.json](./207815-lord-of-the-lick.json) |
 | Lord of Tokens | 415772 | [415772-lord-of-tokens.json](./415772-lord-of-tokens.json) |
 | Lord of Ultima | 66713 | [66713-lord-of-ultima.json](./66713-lord-of-ultima.json) |
+| Lord of Undead | 389330 | [389330-lord-of-undead.json](./389330-lord-of-undead.json) |
 | Lord of Vermilion | 68298 | [68298-lord-of-vermilion.json](./68298-lord-of-vermilion.json) |
 | Lord of Vermilion II | 65461 | [65461-lord-of-vermilion-ii.json](./65461-lord-of-vermilion-ii.json) |
 | Lord of Vermilion III | 62957 | [62957-lord-of-vermilion-iii.json](./62957-lord-of-vermilion-iii.json) |
