@@ -2460,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva Extend | 11767 | [11767-hatsune-miku-project-diva-extend.json](./11767-hatsune-miku-project-diva-extend.json) |
 | Hatsune Miku: Project Diva F 2nd | 9626 | [9626-hatsune-miku-project-diva-f-2nd.json](./9626-hatsune-miku-project-diva-f-2nd.json) |
 | Hatsune Miku: Project Diva Future Tone | 25821 | [25821-hatsune-miku-project-diva-future-tone.json](./25821-hatsune-miku-project-diva-future-tone.json) |
+| Hatsune Miku: Project Diva Future Tone - Colorful Tone | 353606 | [353606-hatsune-miku-project-diva-future-tone-colorful-tone.json](./353606-hatsune-miku-project-diva-future-tone-colorful-tone.json) |
 | Hatsune Miku: Project Diva Future Tone DX | 117659 | [117659-hatsune-miku-project-diva-future-tone-dx.json](./117659-hatsune-miku-project-diva-future-tone-dx.json) |
 | Hatsune Miku: Project Diva Future Tone DX - Memorial Pack | 167080 | [167080-hatsune-miku-project-diva-future-tone-dx-memorial-pack.json](./167080-hatsune-miku-project-diva-future-tone-dx-memorial-pack.json) |
 | Hatsune Miku: Project DIVA Future Tone Season Pass | 372751 | [372751-hatsune-miku-project-diva-future-tone-season-pass.json](./372751-hatsune-miku-project-diva-future-tone-season-pass.json) |
