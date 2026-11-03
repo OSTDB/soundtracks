@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Up | 188897 | [188897-fall-up.json](./188897-fall-up.json) |
 | Fall Valley | 267843 | [267843-fall-valley.json](./267843-fall-valley.json) |
 | Fall Weiss | 62205 | [62205-fall-weiss.json](./62205-fall-weiss.json) |
+| Fall With Friends | 393217 | [393217-fall-with-friends.json](./393217-fall-with-friends.json) |
 | Fall Words | 296350 | [296350-fall-words.json](./296350-fall-words.json) |
 | Fall... in Love | 105228 | [105228-fall-in-love.json](./105228-fall-in-love.json) |
 | Fallacy of Dawn | 57613 | [57613-fallacy-of-dawn.json](./57613-fallacy-of-dawn.json) |
@@ -10522,6 +10523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Mind | 294273 | [294273-fractured-mind.json](./294273-fractured-mind.json) |
 | Fractured Perception | 336149 | [336149-fractured-perception.json](./336149-fractured-perception.json) |
 | Fractured Realms: Season 1 | 385972 | [385972-fractured-realms-season-1.json](./385972-fractured-realms-season-1.json) |
+| Fractured Rift | 393244 | [393244-fractured-rift.json](./393244-fractured-rift.json) |
 | Fractured Sanity | 199303 | [199303-fractured-sanity.json](./199303-fractured-sanity.json) |
 | Fractured Skyline | 116426 | [116426-fractured-skyline.json](./116426-fractured-skyline.json) |
 | Fractured Soul | 8261 | [8261-fractured-soul.json](./8261-fractured-soul.json) |
