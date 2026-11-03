@@ -2488,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardtographer | 330339 | [330339-cardtographer.json](./330339-cardtographer.json) |
 | Cardtonia | 389373 | [389373-cardtonia.json](./389373-cardtonia.json) |
 | CardWarden | 175409 | [175409-cardwarden.json](./175409-cardwarden.json) |
+| Cardwheel | 390876 | [390876-cardwheel.json](./390876-cardwheel.json) |
 | CardWirth | 172774 | [172774-cardwirth.json](./172774-cardwirth.json) |
 | Cardwoven Empires | 337828 | [337828-cardwoven-empires.json](./337828-cardwoven-empires.json) |
 | Cardygon | 367579 | [367579-cardygon.json](./367579-cardygon.json) |
@@ -3685,6 +3686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Chases Mouse | 406722 | [406722-cat-chases-mouse.json](./406722-cat-chases-mouse.json) |
 | Cat City | 260227 | [260227-cat-city.json](./260227-cat-city.json) |
 | Cat City | 265475 | [265475-cat-city.json](./265475-cat-city.json) |
+| Cat City: A Story About Dreams | 390900 | [390900-cat-city-a-story-about-dreams.json](./390900-cat-city-a-story-about-dreams.json) |
 | Cat Clean Ocean | 320916 | [320916-cat-clean-ocean.json](./320916-cat-clean-ocean.json) |
 | Cat Clicker | 190014 | [190014-cat-clicker.json](./190014-cat-clicker.json) |
 | Cat Clicker | 337840 | [337840-cat-clicker.json](./337840-cat-clicker.json) |
@@ -6766,6 +6768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickip Dancers: Nori-nori Dance de Kokoro mo Odoru | 222365 | [222365-chickip-dancers-nori-nori-dance-de-kokoro-mo-odoru.json](./222365-chickip-dancers-nori-nori-dance-de-kokoro-mo-odoru.json) |
 | Chicklet | 365167 | [365167-chicklet.json](./365167-chicklet.json) |
 | Chicks and Tricks VR | 122578 | [122578-chicks-and-tricks-vr.json](./122578-chicks-and-tricks-vr.json) |
+| Chicks in Trouble | 390873 | [390873-chicks-in-trouble.json](./390873-chicks-in-trouble.json) |
 | Chicktionary | 375202 | [375202-chicktionary.json](./375202-chicktionary.json) |
 | Chicku | 181397 | [181397-chicku.json](./181397-chicku.json) |
 | Chicku | 33515 | [33515-chicku.json](./33515-chicku.json) |
@@ -11408,6 +11411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorami | 378517 | [378517-colorami.json](./378517-colorami.json) |
 | Coloratura | 410054 | [410054-coloratura.json](./410054-coloratura.json) |
 | Colorbind | 79525 | [79525-colorbind.json](./79525-colorbind.json) |
+| Colorboration | 390884 | [390884-colorboration.json](./390884-colorboration.json) |
 | Colorbound | 347850 | [347850-colorbound.json](./347850-colorbound.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
 | ColorClimb | 183761 | [183761-colorclimb.json](./183761-colorclimb.json) |
@@ -11661,6 +11665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorma | 304967 | [304967-colorma.json](./304967-colorma.json) |
 | ColorMari | 222925 | [222925-colormari.json](./222925-colormari.json) |
 | Colormeleons | 127703 | [127703-colormeleons.json](./127703-colormeleons.json) |
+| Colornova | 390888 | [390888-colornova.json](./390888-colornova.json) |
 | Coloropus | 415758 | [415758-coloropus.json](./415758-coloropus.json) |
 | Colorpicker | 304866 | [304866-colorpicker.json](./304866-colorpicker.json) |
 | ColorPixel: Color by Number, Pixel Art | 101658 | [101658-colorpixel-color-by-number-pixel-art.json](./101658-colorpixel-color-by-number-pixel-art.json) |
@@ -13448,6 +13453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena: Breakfast Bar Tycoon | 260042 | [260042-cooking-arena-breakfast-bar-tycoon.json](./260042-cooking-arena-breakfast-bar-tycoon.json) |
 | Cooking Arena: Burger Chef Tycoon | 260037 | [260037-cooking-arena-burger-chef-tycoon.json](./260037-cooking-arena-burger-chef-tycoon.json) |
 | Cooking Arena: Definitive Edition | 409963 | [409963-cooking-arena-definitive-edition.json](./409963-cooking-arena-definitive-edition.json) |
+| Cooking Arena: Diamond Edition | 390904 | [390904-cooking-arena-diamond-edition.json](./390904-cooking-arena-diamond-edition.json) |
 | Cooking Arena: Elite Edition | 409964 | [409964-cooking-arena-elite-edition.json](./409964-cooking-arena-elite-edition.json) |
 | Cooking Arena: Food Truck Tycoon Asian Cuisine | 260035 | [260035-cooking-arena-food-truck-tycoon-asian-cuisine.json](./260035-cooking-arena-food-truck-tycoon-asian-cuisine.json) |
 | Cooking Arena: Pancake Bar Tycoon | 260039 | [260039-cooking-arena-pancake-bar-tycoon.json](./260039-cooking-arena-pancake-bar-tycoon.json) |
@@ -17019,6 +17025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowbar Climber | 348928 | [348928-crowbar-climber.json](./348928-crowbar-climber.json) |
 | Crowborne | 295786 | [295786-crowborne.json](./295786-crowborne.json) |
 | Crowd | 263109 | [263109-crowd.json](./263109-crowd.json) |
+| Crowd | 390872 | [390872-crowd.json](./390872-crowd.json) |
 | Crowd City | 118715 | [118715-crowd-city.json](./118715-crowd-city.json) |
 | Crowd City | 268535 | [268535-crowd-city.json](./268535-crowd-city.json) |
 | Crowd City: Complete Edition | 270299 | [270299-crowd-city-complete-edition.json](./270299-crowd-city-complete-edition.json) |
