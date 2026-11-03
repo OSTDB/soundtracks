@@ -4478,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light | 212975 | [212975-light.json](./212975-light.json) |
 | Light | 220607 | [220607-light.json](./220607-light.json) |
 | Light | 93759 | [93759-light.json](./93759-light.json) |
+| Light 'em | 349029 | [349029-light-em.json](./349029-light-em.json) |
 | Light 'em Up | 204495 | [204495-light-em-up.json](./204495-light-em-up.json) |
 | Light & Dark Bundle | 82452 | [82452-light-and-dark-bundle.json](./82452-light-and-dark-bundle.json) |
 | Light & Glory | 414412 | [414412-light-and-glory.json](./414412-light-and-glory.json) |
@@ -7525,6 +7526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Losers Lament | 345258 | [345258-losers-lament.json](./345258-losers-lament.json) |
 | Losers Lament 2 | 345259 | [345259-losers-lament-2.json](./345259-losers-lament-2.json) |
 | Losers Lament 3 | 345260 | [345260-losers-lament-3.json](./345260-losers-lament-3.json) |
+| Losers of the Crossroads | 349056 | [349056-losers-of-the-crossroads.json](./349056-losers-of-the-crossroads.json) |
 | Losing Control | 179061 | [179061-losing-control.json](./179061-losing-control.json) |
 | Loskop | 200112 | [200112-loskop.json](./200112-loskop.json) |
 | Loss | 319061 | [319061-loss.json](./319061-loss.json) |
@@ -9252,6 +9254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumina | 347889 | [347889-lumina.json](./347889-lumina.json) |
 | Lumina | 355599 | [355599-lumina.json](./355599-lumina.json) |
 | Lumina Rush | 289829 | [289829-lumina-rush.json](./289829-lumina-rush.json) |
+| Lumina: The Uprising of Folk Legends | 349033 | [349033-lumina-the-uprising-of-folk-legends.json](./349033-lumina-the-uprising-of-folk-legends.json) |
 | Luminaria | 365602 | [365602-luminaria.json](./365602-luminaria.json) |
 | Luminaria: Dark Echoes | 278450 | [278450-luminaria-dark-echoes.json](./278450-luminaria-dark-echoes.json) |
 | Luminary | 152498 | [152498-luminary.json](./152498-luminary.json) |
