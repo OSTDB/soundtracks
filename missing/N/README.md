@@ -4099,6 +4099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night is Coming: Wrath of the Woods | 336551 | [336551-night-is-coming-wrath-of-the-woods.json](./336551-night-is-coming-wrath-of-the-woods.json) |
 | Night Island | 120793 | [120793-night-island.json](./120793-night-island.json) |
 | Night Jackal | 133166 | [133166-night-jackal.json](./133166-night-jackal.json) |
+| Night Jackal: Blood Debt | 352487 | [352487-night-jackal-blood-debt.json](./352487-night-jackal-blood-debt.json) |
 | Night Keep | 311622 | [311622-night-keep.json](./311622-night-keep.json) |
 | Night Life | 13562 | [13562-night-life.json](./13562-night-life.json) |
 | Night Light | 206626 | [206626-night-light.json](./206626-night-light.json) |
