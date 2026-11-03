@@ -3998,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Puyo Puyo Sun | 215749 | [215749-vs-puyo-puyo-sun.json](./215749-vs-puyo-puyo-sun.json) |
 | Vs. Racing | 259071 | [259071-vs-racing.json](./259071-vs-racing.json) |
 | Vs. Raid on Bungeling Bay | 40545 | [40545-vs-raid-on-bungeling-bay.json](./40545-vs-raid-on-bungeling-bay.json) |
+| Vs. RetroSpecter | 372149 | [372149-vs-retrospecter.json](./372149-vs-retrospecter.json) |
 | Vs. RetroSpecter P2: Infernadise | 378156 | [378156-vs-retrospecter-p2-infernadise.json](./378156-vs-retrospecter-p2-infernadise.json) |
 | Vs. Self | 311143 | [311143-vs-self.json](./311143-vs-self.json) |
 | Vs. Slalom | 40543 | [40543-vs-slalom.json](./40543-vs-slalom.json) |
