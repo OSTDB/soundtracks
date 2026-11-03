@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yes, My Demon Queen! | 227982 | [227982-yes-my-demon-queen.json](./227982-yes-my-demon-queen.json) |
 | Yes, my mother is... | 57473 | [57473-yes-my-mother-is.json](./57473-yes-my-mother-is.json) |
 | Yes, My Queen | 356604 | [356604-yes-my-queen.json](./356604-yes-my-queen.json) |
+| Yes, No, Goodbye | 365359 | [365359-yes-no-goodbye.json](./365359-yes-no-goodbye.json) |
 | Yes, Sir | 284252 | [284252-yes-sir.json](./284252-yes-sir.json) |
 | Yes, Your Grace | 122729 | [122729-yes-your-grace.json](./122729-yes-your-grace.json) |
 | Yes! PreCure 5 | 168328 | [168328-yes-precure-5.json](./168328-yes-precure-5.json) |
@@ -1163,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Shouldn't Be Here | 336878 | [336878-you-shouldnt-be-here.json](./336878-you-shouldnt-be-here.json) |
 | You Stole My Heart! | 340344 | [340344-you-stole-my-heart.json](./340344-you-stole-my-heart.json) |
 | You Suck and I Hate You | 362413 | [362413-you-suck-and-i-hate-you.json](./362413-you-suck-and-i-hate-you.json) |
+| You Suck and I Hate You: Part 2 | 365360 | [365360-you-suck-and-i-hate-you-part-2.json](./365360-you-suck-and-i-hate-you-part-2.json) |
 | You Suck at Football | 363571 | [363571-you-suck-at-football.json](./363571-you-suck-at-football.json) |
 | You Sure Wanna Drink This? | 346699 | [346699-you-sure-wanna-drink-this.json](./346699-you-sure-wanna-drink-this.json) |
 | You Versus 27 Elves | 116074 | [116074-you-versus-27-elves.json](./116074-you-versus-27-elves.json) |
