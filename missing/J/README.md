@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeb's Legend of Zelda | 396648 | [396648-jebs-legend-of-zelda.json](./396648-jebs-legend-of-zelda.json) |
 | Jected: Rivals | 206966 | [206966-jected-rivals.json](./206966-jected-rivals.json) |
 | Jected: Rivals - Expansion Pack | 271144 | [271144-jected-rivals-expansion-pack.json](./271144-jected-rivals-expansion-pack.json) |
+| Jedi Survive | 393847 | [393847-jedi-survive.json](./393847-jedi-survive.json) |
 | Jeebo & Jerbo vs. Life | 171985 | [171985-jeebo-and-jerbo-vs-life.json](./171985-jeebo-and-jerbo-vs-life.json) |
 | Jeeboman | 34688 | [34688-jeeboman.json](./34688-jeeboman.json) |
 | Jeep Climb Mountain | 312834 | [312834-jeep-climb-mountain.json](./312834-jeep-climb-mountain.json) |
