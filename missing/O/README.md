@@ -1743,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omni Kitty | 391070 | [391070-omni-kitty.json](./391070-omni-kitty.json) |
 | Omni Link | 31270 | [31270-omni-link.json](./31270-omni-link.json) |
 | Omni Magic! | 221736 | [221736-omni-magic.json](./221736-omni-magic.json) |
+| Omni-Dissonance | 379825 | [379825-omni-dissonance.json](./379825-omni-dissonance.json) |
 | Omni-Play Basketball | 73125 | [73125-omni-play-basketball.json](./73125-omni-play-basketball.json) |
 | Omni-Play Horse Racing | 73642 | [73642-omni-play-horse-racing.json](./73642-omni-play-horse-racing.json) |
 | Omnia | 160099 | [160099-omnia.json](./160099-omnia.json) |
