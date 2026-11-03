@@ -9900,6 +9900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Season 5 | 313434 | [313434-fortnite-festival-season-5.json](./313434-fortnite-festival-season-5.json) |
 | Fortnite Festival: Season 6 | 322820 | [322820-fortnite-festival-season-6.json](./322820-fortnite-festival-season-6.json) |
 | Fortnite Festival: Season 8 | 339230 | [339230-fortnite-festival-season-8.json](./339230-fortnite-festival-season-8.json) |
+| Fortnite Festival: Season 9 | 360293 | [360293-fortnite-festival-season-9.json](./360293-fortnite-festival-season-9.json) |
 | Fortnite Festival: Shelter | 375401 | [375401-fortnite-festival-shelter.json](./375401-fortnite-festival-shelter.json) |
 | Fortnite Festival: Snow (Hey Oh) | 366804 | [366804-fortnite-festival-snow-hey-oh.json](./366804-fortnite-festival-snow-hey-oh.json) |
 | Fortnite Festival: Song 2 | 366803 | [366803-fortnite-festival-song-2.json](./366803-fortnite-festival-song-2.json) |
@@ -9958,6 +9959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 5 - Underground | 278837 | [278837-fortnite-chapter-5-underground.json](./278837-fortnite-chapter-5-underground.json) |
 | Fortnite: Chapter 6 - Mini Season 1: Galactic Battle | 342555 | [342555-fortnite-chapter-6-mini-season-1-galactic-battle.json](./342555-fortnite-chapter-6-mini-season-1-galactic-battle.json) |
 | Fortnite: Chapter 6 - Season 1: Demon Hunters | 323914 | [323914-fortnite-chapter-6-season-1-demon-hunters.json](./323914-fortnite-chapter-6-season-1-demon-hunters.json) |
+| Fortnite: Chapter 6 - Season 4: Shock 'N Awesome | 360278 | [360278-fortnite-chapter-6-season-4-shock-n-awesome.json](./360278-fortnite-chapter-6-season-4-shock-n-awesome.json) |
 | Fortnite: Chapter 7 - Season 2: Showdown | 394366 | [394366-fortnite-chapter-7-season-2-showdown.json](./394366-fortnite-chapter-7-season-2-showdown.json) |
 | Fortnite: Chapter 7 - Season 3: Runners | 404689 | [404689-fortnite-chapter-7-season-3-runners.json](./404689-fortnite-chapter-7-season-3-runners.json) |
 | Fortnite: Chapter 7 - Season 4: Override | 414179 | [414179-fortnite-chapter-7-season-4-override.json](./414179-fortnite-chapter-7-season-4-override.json) |
