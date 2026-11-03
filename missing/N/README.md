@@ -1972,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Office: Nightlife Adventures | 246011 | [246011-neko-office-nightlife-adventures.json](./246011-neko-office-nightlife-adventures.json) |
 | Neko Papala | 150539 | [150539-neko-papala.json](./150539-neko-papala.json) |
 | Neko Puzzle | 212851 | [212851-neko-puzzle.json](./212851-neko-puzzle.json) |
+| Neko Ramen | 368752 | [368752-neko-ramen.json](./368752-neko-ramen.json) |
 | Neko Rescue Tale | 241040 | [241040-neko-rescue-tale.json](./241040-neko-rescue-tale.json) |
 | Neko Sagashi | 227270 | [227270-neko-sagashi.json](./227270-neko-sagashi.json) |
 | Neko Samurai | 212468 | [212468-neko-samurai.json](./212468-neko-samurai.json) |
