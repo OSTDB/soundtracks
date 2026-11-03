@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Detective's Demise | 219938 | [219938-a-detectives-demise.json](./219938-a-detectives-demise.json) |
 | A Detective's Novel | 27921 | [27921-a-detectives-novel.json](./27921-a-detectives-novel.json) |
 | A Devilish Nightmare | 217850 | [217850-a-devilish-nightmare.json](./217850-a-devilish-nightmare.json) |
+| A Dialect for Two | 396271 | [396271-a-dialect-for-two.json](./396271-a-dialect-for-two.json) |
 | A Diamond Display | 397163 | [397163-a-diamond-display.json](./397163-a-diamond-display.json) |
 | A different summer | 278426 | [278426-a-different-summer.json](./278426-a-different-summer.json) |
 | A Different World | 184355 | [184355-a-different-world.json](./184355-a-different-world.json) |
@@ -12957,6 +12958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: Ultimate Survivor Edition | 152344 | [152344-ark-ultimate-survivor-edition.json](./152344-ark-ultimate-survivor-edition.json) |
 | Ark: Valguero Ascended | 377895 | [377895-ark-valguero-ascended.json](./377895-ark-valguero-ascended.json) |
 | Ark's Wonder Dungeon | 321588 | [321588-arks-wonder-dungeon.json](./321588-arks-wonder-dungeon.json) |
+| Arka Kraya | 396282 | [396282-arka-kraya.json](./396282-arka-kraya.json) |
 | Arkadia | 193835 | [193835-arkadia.json](./193835-arkadia.json) |
 | Arkadia | 338155 | [338155-arkadia.json](./338155-arkadia.json) |
 | Arkadian Warriors | 21867 | [21867-arkadian-warriors.json](./21867-arkadian-warriors.json) |
@@ -13044,6 +13046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arknights Episode 15: Dissociative Recombination | 413438 | [413438-arknights-episode-15-dissociative-recombination.json](./413438-arknights-episode-15-dissociative-recombination.json) |
 | Arknights Episode 16: Abnormal Spectrum | 413439 | [413439-arknights-episode-16-abnormal-spectrum.json](./413439-arknights-episode-16-abnormal-spectrum.json) |
 | Arknights Episode 17: Critical Phase Transition | 413440 | [413440-arknights-episode-17-critical-phase-transition.json](./413440-arknights-episode-17-critical-phase-transition.json) |
+| Arknights: Endfield - Update 1.1 - Old Deep Water Dies, by Rising Tide It is Denied | 396289 | [396289-arknights-endfield-update-1-1-old-deep-water-dies-by-rising-tide-it-is-denied.json](./396289-arknights-endfield-update-1-1-old-deep-water-dies-by-rising-tide-it-is-denied.json) |
 | Arknights: Endfield - Update 1.2: At the Wake of Spring | 398565 | [398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json](./398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json) |
 | Arknights: Endfield - Update 1.4: Homecoming | 410274 | [410274-arknights-endfield-update-1-4-homecoming.json](./410274-arknights-endfield-update-1-4-homecoming.json) |
 | Arknights: Endfield - Update 1.5: Dreamscape of Wind and Snow | 415939 | [415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json](./415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json) |
@@ -15559,6 +15562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Lulua: The Scion of Arland - Digital Deluxe Edition | 118934 | [118934-atelier-lulua-the-scion-of-arland-digital-deluxe-edition.json](./118934-atelier-lulua-the-scion-of-arland-digital-deluxe-edition.json) |
 | Atelier Lulua: The Scion of Arland - Limited Edition | 116000 | [116000-atelier-lulua-the-scion-of-arland-limited-edition.json](./116000-atelier-lulua-the-scion-of-arland-limited-edition.json) |
 | Atelier Lulua: The Scion of Arland - Premium Box | 136723 | [136723-atelier-lulua-the-scion-of-arland-premium-box.json](./136723-atelier-lulua-the-scion-of-arland-premium-box.json) |
+| Atelier Lydie & Suelle: 'Blue Reflection' BGM Pack | 396334 | [396334-atelier-lydie-and-suelle-blue-reflection-bgm-pack.json](./396334-atelier-lydie-and-suelle-blue-reflection-bgm-pack.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings | 36814 | [36814-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings.json](./36814-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Battle Mix Secret Teachings | 238144 | [238144-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-battle-mix-secret-teachings.json](./238144-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-battle-mix-secret-teachings.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Great Adventures in New Worlds Vol. 1 | 171395 | [171395-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-1.json](./171395-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-1.json) |
@@ -15608,6 +15612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza 3: Alchemist of the End & the Secret Key - Ultimate Edition | 239482 | [239482-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-ultimate-edition.json](./239482-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-ultimate-edition.json) |
 | Atelier Ryza 3: Alchemist of the End & the Secret Key DX | 359427 | [359427-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-dx.json](./359427-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-dx.json) |
 | Atelier Ryza 3: Endless Summer Splash! Costume Set | 242543 | [242543-atelier-ryza-3-endless-summer-splash-costume-set.json](./242543-atelier-ryza-3-endless-summer-splash-costume-set.json) |
+| Atelier Ryza 3: Season Pass | 396266 | [396266-atelier-ryza-3-season-pass.json](./396266-atelier-ryza-3-season-pass.json) |
 | Atelier Ryza 3: Summer Look Costume Set | 242544 | [242544-atelier-ryza-3-summer-look-costume-set.json](./242544-atelier-ryza-3-summer-look-costume-set.json) |
 | Atelier Ryza Secret Trilogy Deluxe Pack | 354258 | [354258-atelier-ryza-secret-trilogy-deluxe-pack.json](./354258-atelier-ryza-secret-trilogy-deluxe-pack.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - "Ever Summer Queen & the Secret Island" | 168939 | [168939-atelier-ryza-ever-darkness-and-the-secret-hideout-ever-summer-queen-and-the-secret-island.json](./168939-atelier-ryza-ever-darkness-and-the-secret-hideout-ever-summer-queen-and-the-secret-island.json) |
@@ -15833,6 +15838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Escape | 203879 | [203879-atomic-escape.json](./203879-atomic-escape.json) |
 | Atomic Exile | 303900 | [303900-atomic-exile.json](./303900-atomic-exile.json) |
 | Atomic Girls | 286447 | [286447-atomic-girls.json](./286447-atomic-girls.json) |
+| Atomic Gringo | 396275 | [396275-atomic-gringo.json](./396275-atomic-gringo.json) |
 | Atomic Hazard | 270008 | [270008-atomic-hazard.json](./270008-atomic-hazard.json) |
 | Atomic Heart II | 347639 | [347639-atomic-heart-ii.json](./347639-atomic-heart-ii.json) |
 | Atomic Heart: Annihilation Instinct | 255689 | [255689-atomic-heart-annihilation-instinct.json](./255689-atomic-heart-annihilation-instinct.json) |
@@ -15979,6 +15985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Earthlings Mobile | 299288 | [299288-attack-of-the-earthlings-mobile.json](./299288-attack-of-the-earthlings-mobile.json) |
 | Attack of the Evil Poop | 119733 | [119733-attack-of-the-evil-poop.json](./119733-attack-of-the-evil-poop.json) |
 | Attack of the Evil Poop VR | 166738 | [166738-attack-of-the-evil-poop-vr.json](./166738-attack-of-the-evil-poop-vr.json) |
+| Attack of the Fever Heads | 396276 | [396276-attack-of-the-fever-heads.json](./396276-attack-of-the-fever-heads.json) |
 | Attack of the Friday Monsters! A Tokyo Tale | 19923 | [19923-attack-of-the-friday-monsters-a-tokyo-tale.json](./19923-attack-of-the-friday-monsters-a-tokyo-tale.json) |
 | Attack of the Giant Crab | 188506 | [188506-attack-of-the-giant-crab.json](./188506-attack-of-the-giant-crab.json) |
 | Attack of the Giant Mutant Lizard | 113711 | [113711-attack-of-the-giant-mutant-lizard.json](./113711-attack-of-the-giant-mutant-lizard.json) |
