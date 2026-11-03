@@ -4659,10 +4659,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Shop Snacks: Extended Edition | 222233 | [222233-pet-shop-snacks-extended-edition.json](./222233-pet-shop-snacks-extended-edition.json) |
 | Pet Shop Snacks: Premium Edition | 225499 | [225499-pet-shop-snacks-premium-edition.json](./225499-pet-shop-snacks-premium-edition.json) |
 | Pet Shop World | 260255 | [260255-pet-shop-world.json](./260255-pet-shop-world.json) |
+| Pet Show | 353587 | [353587-pet-show.json](./353587-pet-show.json) |
 | Pet Show Craze | 177041 | [177041-pet-show-craze.json](./177041-pet-show-craze.json) |
 | Pet Show: Complete Edition | 357018 | [357018-pet-show-complete-edition.json](./357018-pet-show-complete-edition.json) |
+| Pet Show: Sea Animals | 353599 | [353599-pet-show-sea-animals.json](./353599-pet-show-sea-animals.json) |
 | Pet Show: Sea Edition | 366781 | [366781-pet-show-sea-edition.json](./366781-pet-show-sea-edition.json) |
+| Pet Show: Wild Animals | 353600 | [353600-pet-show-wild-animals.json](./353600-pet-show-wild-animals.json) |
 | Pet Show: Wild Edition | 362216 | [362216-pet-show-wild-edition.json](./362216-pet-show-wild-edition.json) |
+| Pet Show: Winter Animals | 353601 | [353601-pet-show-winter-animals.json](./353601-pet-show-winter-animals.json) |
 | Pet Shows | 9736 | [9736-pet-shows.json](./9736-pet-shows.json) |
 | Pet Simulator | 412223 | [412223-pet-simulator.json](./412223-pet-simulator.json) |
 | Pet Store Panic | 32789 | [32789-pet-store-panic.json](./32789-pet-store-panic.json) |
