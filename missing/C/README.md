@@ -3926,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat vs. Corgis | 54448 | [54448-cat-vs-corgis.json](./54448-cat-vs-corgis.json) |
 | Cat vs. Dog | 277869 | [277869-cat-vs-dog.json](./277869-cat-vs-dog.json) |
 | Cat vs. Dog | 323977 | [323977-cat-vs-dog.json](./323977-cat-vs-dog.json) |
+| Cat vs. Slime | 374004 | [374004-cat-vs-slime.json](./374004-cat-vs-slime.json) |
 | Cat Walker Simulator | 176439 | [176439-cat-walker-simulator.json](./176439-cat-walker-simulator.json) |
 | Cat Warfare | 107806 | [107806-cat-warfare.json](./107806-cat-warfare.json) |
 | Cat Warrior | 281983 | [281983-cat-warrior.json](./281983-cat-warrior.json) |
@@ -4466,6 +4467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattlieb | 349851 | [349851-cattlieb.json](./349851-cattlieb.json) |
 | Catto Boi Forever | 398086 | [398086-catto-boi-forever.json](./398086-catto-boi-forever.json) |
 | Catto Chateau | 366387 | [366387-catto-chateau.json](./366387-catto-chateau.json) |
+| Catto Pew Pew! | 374320 | [374320-catto-pew-pew.json](./374320-catto-pew-pew.json) |
 | Catto's Post Office | 304835 | [304835-cattos-post-office.json](./304835-cattos-post-office.json) |
 | Cattopia | 351421 | [351421-cattopia.json](./351421-cattopia.json) |
 | CatTrio | 320615 | [320615-cattrio.json](./320615-cattrio.json) |
@@ -7129,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip and Charge | 289208 | [289208-chip-and-charge.json](./289208-chip-and-charge.json) |
 | Chip Beat Blaster | 232145 | [232145-chip-beat-blaster.json](./232145-chip-beat-blaster.json) |
 | Chip Buster | 13703 | [13703-chip-buster.json](./13703-chip-buster.json) |
+| Chip by Chip | 374329 | [374329-chip-by-chip.json](./374329-chip-by-chip.json) |
 | Chip McCallahan in Sonic the Hedgehog 2 | 323860 | [323860-chip-mccallahan-in-sonic-the-hedgehog-2.json](./323860-chip-mccallahan-in-sonic-the-hedgehog-2.json) |
 | Chip Off the Ol' Stumbling Block | 221108 | [221108-chip-off-the-ol-stumbling-block.json](./221108-chip-off-the-ol-stumbling-block.json) |
 | Chip Shot Challenge | 360927 | [360927-chip-shot-challenge.json](./360927-chip-shot-challenge.json) |
@@ -9928,6 +9931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone Your Way Out | 318254 | [318254-clone-your-way-out.json](./318254-clone-your-way-out.json) |
 | Clone-A-Doodle-Doo | 357350 | [357350-clone-a-doodle-doo.json](./357350-clone-a-doodle-doo.json) |
 | Clones | 16218 | [16218-clones.json](./16218-clones.json) |
+| Clones Conquer Worlds | 374010 | [374010-clones-conquer-worlds.json](./374010-clones-conquer-worlds.json) |
 | Clones Run | 322999 | [322999-clones-run.json](./322999-clones-run.json) |
 | Clones Selection | 181030 | [181030-clones-selection.json](./181030-clones-selection.json) |
 | CloneZWars | 249089 | [249089-clonezwars.json](./249089-clonezwars.json) |
@@ -10463,6 +10467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cockroach Simulator | 31329 | [31329-cockroach-simulator.json](./31329-cockroach-simulator.json) |
 | Cockroach Simulator: Household Survivor | 240022 | [240022-cockroach-simulator-household-survivor.json](./240022-cockroach-simulator-household-survivor.json) |
 | Cockroach VR | 31361 | [31361-cockroach-vr.json](./31361-cockroach-vr.json) |
+| Cockroach! | 374319 | [374319-cockroach.json](./374319-cockroach.json) |
 | Cocktail Harmony | 60599 | [60599-cocktail-harmony.json](./60599-cocktail-harmony.json) |
 | Cocktail Magic | 260411 | [260411-cocktail-magic.json](./260411-cocktail-magic.json) |
 | Cocktail Paradise | 68632 | [68632-cocktail-paradise.json](./68632-cocktail-paradise.json) |
@@ -13634,6 +13639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Cats | 174909 | [174909-cool-cats.json](./174909-cool-cats.json) |
 | Cool Cool Jam | 43967 | [43967-cool-cool-jam.json](./43967-cool-cool-jam.json) |
 | Cool Cool Toon | 6728 | [6728-cool-cool-toon.json](./6728-cool-cool-toon.json) |
+| Cool Cool Water | 374000 | [374000-cool-cool-water.json](./374000-cool-cool-water.json) |
 | Cool Cucumber Cricket | 291450 | [291450-cool-cucumber-cricket.json](./291450-cool-cucumber-cricket.json) |
 | Cool Cucumber Cricket Manager | 311270 | [311270-cool-cucumber-cricket-manager.json](./311270-cool-cucumber-cricket-manager.json) |
 | Cool Cycling | 359742 | [359742-cool-cycling.json](./359742-cool-cycling.json) |
@@ -18810,6 +18816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Silence | 269273 | [269273-cursed-silence.json](./269273-cursed-silence.json) |
 | Cursed Soul | 117305 | [117305-cursed-soul.json](./117305-cursed-soul.json) |
 | Cursed Soul | 183210 | [183210-cursed-soul.json](./183210-cursed-soul.json) |
+| Cursed Soul | 374330 | [374330-cursed-soul.json](./374330-cursed-soul.json) |
 | Cursed Spire | 195250 | [195250-cursed-spire.json](./195250-cursed-spire.json) |
 | Cursed Station | 343025 | [343025-cursed-station.json](./343025-cursed-station.json) |
 | Cursed Swamp Escape | 315468 | [315468-cursed-swamp-escape.json](./315468-cursed-swamp-escape.json) |
