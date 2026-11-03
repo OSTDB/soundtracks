@@ -10905,6 +10905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons 2 Christmas Expansion | 326782 | [326782-bloons-2-christmas-expansion.json](./326782-bloons-2-christmas-expansion.json) |
 | Bloons 2: Spring Fling | 318006 | [318006-bloons-2-spring-fling.json](./318006-bloons-2-spring-fling.json) |
 | Bloons Adventure Time TD | 107194 | [107194-bloons-adventure-time-td.json](./107194-bloons-adventure-time-td.json) |
+| Bloons Blitz | 378479 | [378479-bloons-blitz.json](./378479-bloons-blitz.json) |
 | Bloons Bomb Gem 3 Match | 230967 | [230967-bloons-bomb-gem-3-match.json](./230967-bloons-bomb-gem-3-match.json) |
 | Bloons But You're the Bloon | 246094 | [246094-bloons-but-youre-the-bloon.json](./246094-bloons-but-youre-the-bloon.json) |
 | Bloons Card Storm | 314325 | [314325-bloons-card-storm.json](./314325-bloons-card-storm.json) |
