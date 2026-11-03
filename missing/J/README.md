@@ -1976,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jim & Dill: The Legend of Weed N' Stiff | 299147 | [299147-jim-and-dill-the-legend-of-weed-n-stiff.json](./299147-jim-and-dill-the-legend-of-weed-n-stiff.json) |
 | Jim Brimstone: Devil Advocate | 306231 | [306231-jim-brimstone-devil-advocate.json](./306231-jim-brimstone-devil-advocate.json) |
 | Jim Henson's Bear in the Big Blue House | 49914 | [49914-jim-hensons-bear-in-the-big-blue-house.json](./49914-jim-hensons-bear-in-the-big-blue-house.json) |
+| Jim Henson's Muppet Babies: What Do You Want to Be When You Grow Up? | 391485 | [391485-jim-hensons-muppet-babies-what-do-you-want-to-be-when-you-grow-up.json](./391485-jim-hensons-muppet-babies-what-do-you-want-to-be-when-you-grow-up.json) |
 | Jim Henson's Muppets Party Cruise | 43569 | [43569-jim-hensons-muppets-party-cruise.json](./43569-jim-hensons-muppets-party-cruise.json) |
 | Jim Henson's Muppets: Coach Kermit | 198780 | [198780-jim-hensons-muppets-coach-kermit.json](./198780-jim-hensons-muppets-coach-kermit.json) |
 | Jim Henson's Muppets: Street Surfin' | 198781 | [198781-jim-hensons-muppets-street-surfin.json](./198781-jim-hensons-muppets-street-surfin.json) |
