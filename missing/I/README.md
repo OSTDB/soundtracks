@@ -3184,7 +3184,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiemon: Earth Nation - Villain Version | 62721 | [62721-indiemon-earth-nation-villain-version.json](./62721-indiemon-earth-nation-villain-version.json) |
 | Indiepocalypse #1 | 240975 | [240975-indiepocalypse-1.json](./240975-indiepocalypse-1.json) |
 | Indiepocalypse #3 | 248808 | [248808-indiepocalypse-3.json](./248808-indiepocalypse-3.json) |
+| Indiepocalypse #32 | 362681 | [362681-indiepocalypse-32.json](./362681-indiepocalypse-32.json) |
+| Indiepocalypse #33 | 362682 | [362682-indiepocalypse-33.json](./362682-indiepocalypse-33.json) |
+| Indiepocalypse #34 | 362683 | [362683-indiepocalypse-34.json](./362683-indiepocalypse-34.json) |
+| Indiepocalypse #35 | 362684 | [362684-indiepocalypse-35.json](./362684-indiepocalypse-35.json) |
+| Indiepocalypse #36 | 362685 | [362685-indiepocalypse-36.json](./362685-indiepocalypse-36.json) |
+| Indiepocalypse #37 | 362686 | [362686-indiepocalypse-37.json](./362686-indiepocalypse-37.json) |
+| Indiepocalypse #38 | 362687 | [362687-indiepocalypse-38.json](./362687-indiepocalypse-38.json) |
+| Indiepocalypse #39 | 362688 | [362688-indiepocalypse-39.json](./362688-indiepocalypse-39.json) |
+| Indiepocalypse #40 | 362689 | [362689-indiepocalypse-40.json](./362689-indiepocalypse-40.json) |
+| Indiepocalypse #41 | 362690 | [362690-indiepocalypse-41.json](./362690-indiepocalypse-41.json) |
 | Indiepocalypse #42 | 256179 | [256179-indiepocalypse-42.json](./256179-indiepocalypse-42.json) |
+| Indiepocalypse #43 | 362691 | [362691-indiepocalypse-43.json](./362691-indiepocalypse-43.json) |
+| Indiepocalypse #44 | 362692 | [362692-indiepocalypse-44.json](./362692-indiepocalypse-44.json) |
+| Indiepocalypse #45 | 362693 | [362693-indiepocalypse-45.json](./362693-indiepocalypse-45.json) |
+| Indiepocalypse #46 | 362694 | [362694-indiepocalypse-46.json](./362694-indiepocalypse-46.json) |
+| Indiepocalypse #47 | 362695 | [362695-indiepocalypse-47.json](./362695-indiepocalypse-47.json) |
+| Indiepocalypse #48 | 362696 | [362696-indiepocalypse-48.json](./362696-indiepocalypse-48.json) |
+| Indiepocalypse #49 | 362697 | [362697-indiepocalypse-49.json](./362697-indiepocalypse-49.json) |
+| Indiepocalypse #50 | 362698 | [362698-indiepocalypse-50.json](./362698-indiepocalypse-50.json) |
+| Indiepocalypse #51 | 362699 | [362699-indiepocalypse-51.json](./362699-indiepocalypse-51.json) |
 | Indiepocalypse #52 | 362700 | [362700-indiepocalypse-52.json](./362700-indiepocalypse-52.json) |
 | Indiepocalypse #53 | 362701 | [362701-indiepocalypse-53.json](./362701-indiepocalypse-53.json) |
 | Indiepocalypse #54 | 362702 | [362702-indiepocalypse-54.json](./362702-indiepocalypse-54.json) |
