@@ -2935,6 +2935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teamkill | 191560 | [191560-teamkill.json](./191560-teamkill.json) |
 | TeamPlay | 163976 | [163976-teamplay.json](./163976-teamplay.json) |
 | TeamPunk | 232927 | [232927-teampunk.json](./232927-teampunk.json) |
+| Teams War | 396299 | [396299-teams-war.json](./396299-teams-war.json) |
 | TeamTanks | 103253 | [103253-teamtanks.json](./103253-teamtanks.json) |
 | TeamTower | 160255 | [160255-teamtower.json](./160255-teamtower.json) |
 | Teamup | 340794 | [340794-teamup.json](./340794-teamup.json) |
@@ -5591,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anomaly 3: Tower | 280893 | [280893-the-anomaly-3-tower.json](./280893-the-anomaly-3-tower.json) |
 | The Anomaly Demo | 111208 | [111208-the-anomaly-demo.json](./111208-the-anomaly-demo.json) |
 | The Anomaly Experiment | 342048 | [342048-the-anomaly-experiment.json](./342048-the-anomaly-experiment.json) |
+| The Anomaly Inspector | 396332 | [396332-the-anomaly-inspector.json](./396332-the-anomaly-inspector.json) |
 | The Anomaly Project | 312378 | [312378-the-anomaly-project.json](./312378-the-anomaly-project.json) |
 | The Anomaly Protocol | 348663 | [348663-the-anomaly-protocol.json](./348663-the-anomaly-protocol.json) |
 | The Anomaly Unit | 389695 | [389695-the-anomaly-unit.json](./389695-the-anomaly-unit.json) |
@@ -9976,6 +9978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Happy Little Virus | 158903 | [158903-the-happy-little-virus.json](./158903-the-happy-little-virus.json) |
 | The Happyhills Homicide | 209496 | [209496-the-happyhills-homicide.json](./209496-the-happyhills-homicide.json) |
 | The Harakin | 385968 | [385968-the-harakin.json](./385968-the-harakin.json) |
+| The Harbinger of the Deep | 396280 | [396280-the-harbinger-of-the-deep.json](./396280-the-harbinger-of-the-deep.json) |
 | The Harbinger's Head | 103466 | [103466-the-harbingers-head.json](./103466-the-harbingers-head.json) |
 | The Hard Game | 215743 | [215743-the-hard-game.json](./215743-the-hard-game.json) |
 | The Hardest BrickBreaker | 113708 | [113708-the-hardest-brickbreaker.json](./113708-the-hardest-brickbreaker.json) |
@@ -14884,6 +14887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Riverside Incident | 125266 | [125266-the-riverside-incident.json](./125266-the-riverside-incident.json) |
 | The Roach Hotel | 371857 | [371857-the-roach-hotel.json](./371857-the-roach-hotel.json) |
 | The Roach Hotel: Chapter 2 | 412903 | [412903-the-roach-hotel-chapter-2.json](./412903-the-roach-hotel-chapter-2.json) |
+| The Road | 396300 | [396300-the-road.json](./396300-the-road.json) |
 | The Road 2 Success | 97386 | [97386-the-road-2-success.json](./97386-the-road-2-success.json) |
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
 | The Road Less Taken | 219122 | [219122-the-road-less-taken.json](./219122-the-road-less-taken.json) |
@@ -24058,6 +24062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Animals ! | 427270 | [427270-too-many-animals.json](./427270-too-many-animals.json) |
 | Too Many Bots | 366889 | [366889-too-many-bots.json](./366889-too-many-bots.json) |
 | Too Many Cooks | 375838 | [375838-too-many-cooks.json](./375838-too-many-cooks.json) |
+| Too Many F*cking Nazis | 396335 | [396335-too-many-f-cking-nazis.json](./396335-too-many-f-cking-nazis.json) |
 | Too many Geckos! | 148127 | [148127-too-many-geckos.json](./148127-too-many-geckos.json) |
 | Too Many Humans | 181014 | [181014-too-many-humans.json](./181014-too-many-humans.json) |
 | Too Many Kittens | 269839 | [269839-too-many-kittens.json](./269839-too-many-kittens.json) |
