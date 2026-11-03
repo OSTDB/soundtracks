@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saenai Heroine no Sodatekata: Blessing Flowers | 11777 | [11777-saenai-heroine-no-sodatekata-blessing-flowers.json](./11777-saenai-heroine-no-sodatekata-blessing-flowers.json) |
 | Safari | 171771 | [171771-safari.json](./171771-safari.json) |
 | Safari | 305470 | [305470-safari.json](./305470-safari.json) |
+| Safari | 363626 | [363626-safari.json](./363626-safari.json) |
 | Safari Adventures | 205836 | [205836-safari-adventures.json](./205836-safari-adventures.json) |
 | Safari Adventures: Africa | 51135 | [51135-safari-adventures-africa.json](./51135-safari-adventures-africa.json) |
 | Safari Arena: Wildlife Arcade Fighter | 102821 | [102821-safari-arena-wildlife-arcade-fighter.json](./102821-safari-arena-wildlife-arcade-fighter.json) |
@@ -12654,6 +12655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Walk | 331170 | [331170-sleep-walk.json](./331170-sleep-walk.json) |
 | Sleep Walk | 413417 | [413417-sleep-walk.json](./413417-sleep-walk.json) |
 | Sleep Walker | 305471 | [305471-sleep-walker.json](./305471-sleep-walker.json) |
+| Sleep Walker | 363628 | [363628-sleep-walker.json](./363628-sleep-walker.json) |
 | Sleep When I'm Dead | 140918 | [140918-sleep-when-im-dead.json](./140918-sleep-when-im-dead.json) |
 | sleep_mode | 384331 | [384331-sleep-mode.json](./384331-sleep-mode.json) |
 | Sleep: H Now | 264072 | [264072-sleep-h-now.json](./264072-sleep-h-now.json) |
@@ -13949,6 +13951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoots Summer Games | 120795 | [120795-smoots-summer-games.json](./120795-smoots-summer-games.json) |
 | Smoots World Cup Tennis | 24720 | [24720-smoots-world-cup-tennis.json](./24720-smoots-world-cup-tennis.json) |
 | Smoq Games 25 | 396361 | [396361-smoq-games-25.json](./396361-smoq-games-25.json) |
+| Smorca | 363627 | [363627-smorca.json](./363627-smorca.json) |
 | Smorgasbord Earth | 297419 | [297419-smorgasbord-earth.json](./297419-smorgasbord-earth.json) |
 | Smosh Fighter | 325567 | [325567-smosh-fighter.json](./325567-smosh-fighter.json) |
 | Smothered Hope | 273549 | [273549-smothered-hope.json](./273549-smothered-hope.json) |
@@ -14640,6 +14643,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoop Dogg Cruisin' | 225651 | [225651-snoop-dogg-cruisin.json](./225651-snoop-dogg-cruisin.json) |
 | Snooper Troops: Case #2 - The Case of the Disappearing Dolphin | 78945 | [78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json](./78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json) |
 | Snoopy | 145235 | [145235-snoopy.json](./145235-snoopy.json) |
+| Snoopy | 363623 | [363623-snoopy.json](./363623-snoopy.json) |
+| Snoopy | 363624 | [363624-snoopy.json](./363624-snoopy.json) |
 | Snoopy | 410060 | [410060-snoopy.json](./410060-snoopy.json) |
 | Snoopy & The Great Mystery Club | 360904 | [360904-snoopy-and-the-great-mystery-club.json](./360904-snoopy-and-the-great-mystery-club.json) |
 | Snoopy & The Great Mystery Club: Deluxe Edition | 368775 | [368775-snoopy-and-the-great-mystery-club-deluxe-edition.json](./368775-snoopy-and-the-great-mystery-club-deluxe-edition.json) |
@@ -18991,6 +18996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Quest: Incinerations | 265067 | [265067-space-quest-incinerations.json](./265067-space-quest-incinerations.json) |
 | Space Quest: The Lost Chapter | 349896 | [349896-space-quest-the-lost-chapter.json](./349896-space-quest-the-lost-chapter.json) |
 | Space Quiz | 74456 | [74456-space-quiz.json](./74456-space-quiz.json) |
+| Space Rabbit | 363644 | [363644-space-rabbit.json](./363644-space-rabbit.json) |
 | Space Rabbits in Space | 114895 | [114895-space-rabbits-in-space.json](./114895-space-rabbits-in-space.json) |
 | Space Race | 11552 | [11552-space-race.json](./11552-space-race.json) |
 | Space Race | 274592 | [274592-space-race.json](./274592-space-race.json) |
@@ -22500,6 +22506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack 'Em Up | 312826 | [312826-stack-em-up.json](./312826-stack-em-up.json) |
 | Stack & Sigil | 421229 | [421229-stack-and-sigil.json](./421229-stack-and-sigil.json) |
 | Stack & Spell | 416348 | [416348-stack-and-spell.json](./416348-stack-and-spell.json) |
+| Stack Attack | 363635 | [363635-stack-attack.json](./363635-stack-attack.json) |
 | Stack Ball | 345833 | [345833-stack-ball.json](./345833-stack-ball.json) |
 | Stack Ball Run! | 262331 | [262331-stack-ball-run.json](./262331-stack-ball-run.json) |
 | Stack Bounce | 302747 | [302747-stack-bounce.json](./302747-stack-bounce.json) |
