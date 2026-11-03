@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waffle Boy's Jungle Adventure | 416939 | [416939-waffle-boys-jungle-adventure.json](./416939-waffle-boys-jungle-adventure.json) |
 | Waffle Cone Willie | 311888 | [311888-waffle-cone-willie.json](./311888-waffle-cone-willie.json) |
 | Waffle House | 301335 | [301335-waffle-house.json](./301335-waffle-house.json) |
+| Waffle Kitty | 356967 | [356967-waffle-kitty.json](./356967-waffle-kitty.json) |
 | Waffle Painter | 383699 | [383699-waffle-painter.json](./383699-waffle-painter.json) |
 | Waffle Spin Ball | 360671 | [360671-waffle-spin-ball.json](./360671-waffle-spin-ball.json) |
 | Waffles' Cranked Stories | 382500 | [382500-waffles-cranked-stories.json](./382500-waffles-cranked-stories.json) |
@@ -4210,6 +4211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whip the Vote | 37379 | [37379-whip-the-vote.json](./37379-whip-the-vote.json) |
 | Whip the Worker | 263466 | [263466-whip-the-worker.json](./263466-whip-the-worker.json) |
 | Whip! Whip! | 103366 | [103366-whip-whip.json](./103366-whip-whip.json) |
+| Whip/Sky/Fly | 356986 | [356986-whip-sky-fly.json](./356986-whip-sky-fly.json) |
 | Whiplash | 411608 | [411608-whiplash.json](./411608-whiplash.json) |
 | Whiplash | 6233 | [6233-whiplash.json](./6233-whiplash.json) |
 | Whiplash | 95503 | [95503-whiplash.json](./95503-whiplash.json) |
