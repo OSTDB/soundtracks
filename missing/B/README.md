@@ -7390,6 +7390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikini Island | 385819 | [385819-bikini-island.json](./385819-bikini-island.json) |
 | Bikini Island Challenge | 169817 | [169817-bikini-island-challenge.json](./169817-bikini-island-challenge.json) |
 | Bikini Karate Babes | 51236 | [51236-bikini-karate-babes.json](./51236-bikini-karate-babes.json) |
+| Bikini Match Girls | 395650 | [395650-bikini-match-girls.json](./395650-bikini-match-girls.json) |
 | Bikini Tits | 192765 | [192765-bikini-tits.json](./192765-bikini-tits.json) |
 | Bikkuri Nekketsu Shinkiroku: Dokodemo Kin Medal | 49108 | [49108-bikkuri-nekketsu-shinkiroku-dokodemo-kin-medal.json](./49108-bikkuri-nekketsu-shinkiroku-dokodemo-kin-medal.json) |
 | Bikkuri Pachinko: Ashita no Joe Kyoraku Collection Vol. 1 | 65561 | [65561-bikkuri-pachinko-ashita-no-joe-kyoraku-collection-vol-1.json](./65561-bikkuri-pachinko-ashita-no-joe-kyoraku-collection-vol-1.json) |
@@ -16924,6 +16925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Skies Arcade: Extra Content | 380209 | [380209-burning-skies-arcade-extra-content.json](./380209-burning-skies-arcade-extra-content.json) |
 | Burning Skies Arcade: Supporter Pack | 380210 | [380210-burning-skies-arcade-supporter-pack.json](./380210-burning-skies-arcade-supporter-pack.json) |
 | Burning Sky | 336709 | [336709-burning-sky.json](./336709-burning-sky.json) |
+| Burning Snow | 395620 | [395620-burning-snow.json](./395620-burning-snow.json) |
 | Burning Soldier | 11861 | [11861-burning-soldier.json](./11861-burning-soldier.json) |
 | Burning Steel: Superschiffe im Atlantik | 92067 | [92067-burning-steel-superschiffe-im-atlantik.json](./92067-burning-steel-superschiffe-im-atlantik.json) |
 | Burning Sword: Death Sun | 272780 | [272780-burning-sword-death-sun.json](./272780-burning-sword-death-sun.json) |
