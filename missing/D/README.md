@@ -5848,6 +5848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Dash | 213621 | [213621-delta-dash.json](./213621-delta-dash.json) |
 | Delta Directive | 412266 | [412266-delta-directive.json](./412266-delta-directive.json) |
 | Delta Fighter | 70192 | [70192-delta-fighter.json](./70192-delta-fighter.json) |
+| Delta Force | 358615 | [358615-delta-force.json](./358615-delta-force.json) |
 | Delta Force + Delta Force 2 Double Pack | 423991 | [423991-delta-force-delta-force-2-double-pack.json](./423991-delta-force-delta-force-2-double-pack.json) |
 | Delta Force 2 | 9349 | [9349-delta-force-2.json](./9349-delta-force-2.json) |
 | Delta Force: Angel Falls | 9353 | [9353-delta-force-angel-falls.json](./9353-delta-force-angel-falls.json) |
@@ -8448,6 +8449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Rangliste | 157882 | [157882-die-rangliste.json](./157882-die-rangliste.json) |
 | Die Rave | 245904 | [245904-die-rave.json](./245904-die-rave.json) |
 | Die Reise ins All | 127916 | [127916-die-reise-ins-all.json](./127916-die-reise-ins-all.json) |
+| Die Robot | 358602 | [358602-die-robot.json](./358602-die-robot.json) |
 | Die Rowdy | 299766 | [299766-die-rowdy.json](./299766-die-rowdy.json) |
 | Die Sage von Nietoom | 92927 | [92927-die-sage-von-nietoom.json](./92927-die-sage-von-nietoom.json) |
 | Die schwarzen Reiter | 112896 | [112896-die-schwarzen-reiter.json](./112896-die-schwarzen-reiter.json) |
@@ -18134,6 +18136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusty's Challenge | 359392 | [359392-dustys-challenge.json](./359392-dustys-challenge.json) |
 | Dutch Maximus: Out of the Toy Box | 217004 | [217004-dutch-maximus-out-of-the-toy-box.json](./217004-dutch-maximus-out-of-the-toy-box.json) |
 | Dutch's Chickens | 234541 | [234541-dutchs-chickens.json](./234541-dutchs-chickens.json) |
+| Dutchman's Dash | 358587 | [358587-dutchmans-dash.json](./358587-dutchmans-dash.json) |
 | Duterra | 213018 | [213018-duterra.json](./213018-duterra.json) |
 | Dutiful Bulldozer | 106518 | [106518-dutiful-bulldozer.json](./106518-dutiful-bulldozer.json) |
 | Duty and Beyond | 94589 | [94589-duty-and-beyond.json](./94589-duty-and-beyond.json) |
