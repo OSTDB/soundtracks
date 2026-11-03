@@ -739,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenless Zone Zero: Update 2.4 - On the Precipice of the Abyss | 377975 | [377975-zenless-zone-zero-update-2-4-on-the-precipice-of-the-abyss.json](./377975-zenless-zone-zero-update-2-4-on-the-precipice-of-the-abyss.json) |
 | Zenless Zone Zero: Update 2.5 - To Be Fuel for the Night | 381220 | [381220-zenless-zone-zero-update-2-5-to-be-fuel-for-the-night.json](./381220-zenless-zone-zero-update-2-5-to-be-fuel-for-the-night.json) |
 | Zenless Zone Zero: Update 2.6 - Encore for an Old Dream | 388532 | [388532-zenless-zone-zero-update-2-6-encore-for-an-old-dream.json](./388532-zenless-zone-zero-update-2-6-encore-for-an-old-dream.json) |
+| Zenless Zone Zero: Update 2.7 - Champions Never Fall to the Past | 395633 | [395633-zenless-zone-zero-update-2-7-champions-never-fall-to-the-past.json](./395633-zenless-zone-zero-update-2-7-champions-never-fall-to-the-past.json) |
 | Zenless Zone Zero: Update 2.8 - New Eridan Sunset | 400497 | [400497-zenless-zone-zero-update-2-8-new-eridan-sunset.json](./400497-zenless-zone-zero-update-2-8-new-eridan-sunset.json) |
 | Zenless Zone Zero: Update 3.0 - A Sleepwalker's Confession | 406810 | [406810-zenless-zone-zero-update-3-0-a-sleepwalkers-confession.json](./406810-zenless-zone-zero-update-3-0-a-sleepwalkers-confession.json) |
 | Zenless Zone Zero: Update 3.1 - The Long Goodbye | 411735 | [411735-zenless-zone-zero-update-3-1-the-long-goodbye.json](./411735-zenless-zone-zero-update-3-1-the-long-goodbye.json) |
