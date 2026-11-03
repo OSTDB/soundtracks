@@ -5243,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Evil Genius - Collector's Edition | 326566 | [326566-rescue-team-evil-genius-collectors-edition.json](./326566-rescue-team-evil-genius-collectors-edition.json) |
 | Rescue Team: Heist of the Century | 195206 | [195206-rescue-team-heist-of-the-century.json](./195206-rescue-team-heist-of-the-century.json) |
 | Rescue Team: Legion of Destruction | 410458 | [410458-rescue-team-legion-of-destruction.json](./410458-rescue-team-legion-of-destruction.json) |
+| Rescue Team: Lights. Camera. Outer Space | 359869 | [359869-rescue-team-lights-camera-outer-space.json](./359869-rescue-team-lights-camera-outer-space.json) |
 | Rescue Team: Mineral of Miracles | 264631 | [264631-rescue-team-mineral-of-miracles.json](./264631-rescue-team-mineral-of-miracles.json) |
 | Rescue Team: Phantom Crisis - Collector's Edition | 417512 | [417512-rescue-team-phantom-crisis-collectors-edition.json](./417512-rescue-team-phantom-crisis-collectors-edition.json) |
 | Rescue Team: Power Eaters | 188860 | [188860-rescue-team-power-eaters.json](./188860-rescue-team-power-eaters.json) |
@@ -11670,6 +11671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Road | 58666 | [58666-rumble-road.json](./58666-rumble-road.json) |
 | Rumble Roses XX | 7167 | [7167-rumble-roses-xx.json](./7167-rumble-roses-xx.json) |
 | Rumble Runners | 152458 | [152458-rumble-runners.json](./152458-rumble-runners.json) |
+| Rumble Rush | 359713 | [359713-rumble-rush.json](./359713-rumble-rush.json) |
 | Rumble Solitaire | 416040 | [416040-rumble-solitaire.json](./416040-rumble-solitaire.json) |
 | Rumble Stars | 114700 | [114700-rumble-stars.json](./114700-rumble-stars.json) |
 | Rumble Sus | 238437 | [238437-rumble-sus.json](./238437-rumble-sus.json) |
@@ -12178,6 +12180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Water a.k.a Jugsy | 178424 | [178424-running-water-a-k-a-jugsy.json](./178424-running-water-a-k-a-jugsy.json) |
 | Running Wild | 44973 | [44973-running-wild.json](./44973-running-wild.json) |
 | Running With Dinosaurs | 103470 | [103470-running-with-dinosaurs.json](./103470-running-with-dinosaurs.json) |
+| Running With Rifles 2 | 359709 | [359709-running-with-rifles-2.json](./359709-running-with-rifles-2.json) |
 | RunningDead | 29650 | [29650-runningdead.json](./29650-runningdead.json) |
 | RunningJoe | 30716 | [30716-runningjoe.json](./30716-runningjoe.json) |
 | Runny Bunny | 317999 | [317999-runny-bunny.json](./317999-runny-bunny.json) |
