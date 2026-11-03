@@ -3530,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neyyah | 133474 | [133474-neyyah.json](./133474-neyyah.json) |
 | Nezha Crossing the Sea | 311592 | [311592-nezha-crossing-the-sea.json](./311592-nezha-crossing-the-sea.json) |
 | Nezha Legend | 334308 | [334308-nezha-legend.json](./334308-nezha-legend.json) |
+| Nezori | 350314 | [350314-nezori.json](./350314-nezori.json) |
 | Nezumi Man | 276480 | [276480-nezumi-man.json](./276480-nezumi-man.json) |
 | NFK: Santa's Gone Postal | 50342 | [50342-nfk-santas-gone-postal.json](./50342-nfk-santas-gone-postal.json) |
 | NFL '95 | 127140 | [127140-nfl-95.json](./127140-nfl-95.json) |
@@ -4274,6 +4275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightbloom | 138110 | [138110-nightbloom.json](./138110-nightbloom.json) |
 | Nightboarder | 179031 | [179031-nightboarder.json](./179031-nightboarder.json) |
 | Nightbrats | 423379 | [423379-nightbrats.json](./423379-nightbrats.json) |
+| NightBreak | 350315 | [350315-nightbreak.json](./350315-nightbreak.json) |
 | Nightbreed: The Action Game | 15269 | [15269-nightbreed-the-action-game.json](./15269-nightbreed-the-action-game.json) |
 | Nightbreed: The Interactive Movie | 15270 | [15270-nightbreed-the-interactive-movie.json](./15270-nightbreed-the-interactive-movie.json) |
 | Nightcap Witch | 384689 | [384689-nightcap-witch.json](./384689-nightcap-witch.json) |
