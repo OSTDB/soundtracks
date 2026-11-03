@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halls of the Things | 45349 | [45349-halls-of-the-things.json](./45349-halls-of-the-things.json) |
 | Halls of Things | 23047 | [23047-halls-of-things.json](./23047-halls-of-things.json) |
 | Halls of Torment | 235846 | [235846-halls-of-torment.json](./235846-halls-of-torment.json) |
+| Halls of Torment: The Boglands | 375781 | [375781-halls-of-torment-the-boglands.json](./375781-halls-of-torment-the-boglands.json) |
 | Halls of Watershot | 258296 | [258296-halls-of-watershot.json](./258296-halls-of-watershot.json) |
 | Halluci-Sabbat of Koishi | 167358 | [167358-halluci-sabbat-of-koishi.json](./167358-halluci-sabbat-of-koishi.json) |
 | Hallucigenia | 166466 | [166466-hallucigenia.json](./166466-hallucigenia.json) |
@@ -10241,6 +10242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houkago Cinderella Mini Fandisk: Anata to Kaeru Saigo no Gekoudou | 377772 | [377772-houkago-cinderella-mini-fandisk-anata-to-kaeru-saigo-no-gekoudou.json](./377772-houkago-cinderella-mini-fandisk-anata-to-kaeru-saigo-no-gekoudou.json) |
 | Houkago Cinderella: Complete Limited Edition | 182479 | [182479-houkago-cinderella-complete-limited-edition.json](./182479-houkago-cinderella-complete-limited-edition.json) |
 | Houkago Girls Tribe | 55928 | [55928-houkago-girls-tribe.json](./55928-houkago-girls-tribe.json) |
+| Houkago no Futekikakusha | 375768 | [375768-houkago-no-futekikakusha.json](./375768-houkago-no-futekikakusha.json) |
 | Houkago no Senpai | 127961 | [127961-houkago-no-senpai.json](./127961-houkago-no-senpai.json) |
 | Houkago Shounen | 109060 | [109060-houkago-shounen.json](./109060-houkago-shounen.json) |
 | Houkago wa Gin no Shirabe | 218475 | [218475-houkago-wa-gin-no-shirabe.json](./218475-houkago-wa-gin-no-shirabe.json) |
