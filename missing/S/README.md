@@ -1671,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanic the Hawtdawg: Da Movie - Da Game 2.1: Electric Boogaloo 2.2 Version 4 - The Squeakquel: VHS Edition - Directors Cut: Special Edition - The Musical & Knackles | 137494 | [137494-sanic-the-hawtdawg-da-movie-da-game-2-1-electric-boogaloo-2-2-version-4-the-squeakquel-vhs-edition-directors-cut-special-edition-the-musical-and-knackles.json](./137494-sanic-the-hawtdawg-da-movie-da-game-2-1-electric-boogaloo-2-2-version-4-the-squeakquel-vhs-edition-directors-cut-special-edition-the-musical-and-knackles.json) |
 | Sanitarium Enhanced | 414849 | [414849-sanitarium-enhanced.json](./414849-sanitarium-enhanced.json) |
 | Sanitarium Massacre | 62684 | [62684-sanitarium-massacre.json](./62684-sanitarium-massacre.json) |
+| Sanitism | 357679 | [357679-sanitism.json](./357679-sanitism.json) |
 | Sanity Break | 188245 | [188245-sanity-break.json](./188245-sanity-break.json) |
 | Sanity Break | 369013 | [369013-sanity-break.json](./369013-sanity-break.json) |
 | Sanity City | 192559 | [192559-sanity-city.json](./192559-sanity-city.json) |
@@ -32755,6 +32756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Backrooms! | 192961 | [192961-survive-the-backrooms.json](./192961-survive-the-backrooms.json) |
 | Survive the Blackout | 116184 | [116184-survive-the-blackout.json](./116184-survive-the-blackout.json) |
 | Survive the Cards | 360721 | [360721-survive-the-cards.json](./360721-survive-the-cards.json) |
+| Survive the Descent | 357696 | [357696-survive-the-descent.json](./357696-survive-the-descent.json) |
 | Survive the Fall | 216900 | [216900-survive-the-fall.json](./216900-survive-the-fall.json) |
 | Survive the Fog | 235781 | [235781-survive-the-fog.json](./235781-survive-the-fog.json) |
 | Survive the Forest | 219572 | [219572-survive-the-forest.json](./219572-survive-the-forest.json) |
