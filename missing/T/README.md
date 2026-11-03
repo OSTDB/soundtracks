@@ -16971,6 +16971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Time Plague | 253831 | [253831-the-time-plague.json](./253831-the-time-plague.json) |
 | The Time Warp of Dr. Brain | 72309 | [72309-the-time-warp-of-dr-brain.json](./72309-the-time-warp-of-dr-brain.json) |
 | The Time Watcher | 192289 | [192289-the-time-watcher.json](./192289-the-time-watcher.json) |
+| The TimeBuilders: Pyramid Rising | 356378 | [356378-the-timebuilders-pyramid-rising.json](./356378-the-timebuilders-pyramid-rising.json) |
 | The Timeless Battle | 19800 | [19800-the-timeless-battle.json](./19800-the-timeless-battle.json) |
 | The Tin Soldier | 327328 | [327328-the-tin-soldier.json](./327328-the-tin-soldier.json) |
 | The Tiny Bang Story | 15120 | [15120-the-tiny-bang-story.json](./15120-the-tiny-bang-story.json) |
