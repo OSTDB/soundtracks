@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valehands | 422782 | [422782-valehands.json](./422782-valehands.json) |
 | Valehona Tap! | 406679 | [406679-valehona-tap.json](./406679-valehona-tap.json) |
 | Valencia Surehunter: Staff of the Irismancer | 360544 | [360544-valencia-surehunter-staff-of-the-irismancer.json](./360544-valencia-surehunter-staff-of-the-irismancer.json) |
+| Valendor | 398807 | [398807-valendor.json](./398807-valendor.json) |
 | Valenium | 382294 | [382294-valenium.json](./382294-valenium.json) |
 | Valens | 33537 | [33537-valens.json](./33537-valens.json) |
 | Valentina | 147092 | [147092-valentina.json](./147092-valentina.json) |
@@ -1184,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velaster | 212213 | [212213-velaster.json](./212213-velaster.json) |
 | Velato | 398989 | [398989-velato.json](./398989-velato.json) |
 | Velaya: Tale of a Warrior | 383436 | [383436-velaya-tale-of-a-warrior.json](./383436-velaya-tale-of-a-warrior.json) |
+| Velen | 398785 | [398785-velen.json](./398785-velen.json) |
 | Velev | 299556 | [299556-velev.json](./299556-velev.json) |
 | Velhodium Isle | 332391 | [332391-velhodium-isle.json](./332391-velhodium-isle.json) |
 | Velhokissa Kloridi Klaviatuuri ja Kadonneet Aakkoset | 7639 | [7639-velhokissa-kloridi-klaviatuuri-ja-kadonneet-aakkoset.json](./7639-velhokissa-kloridi-klaviatuuri-ja-kadonneet-aakkoset.json) |
@@ -3126,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void of Lilly | 366284 | [366284-void-of-lilly.json](./366284-void-of-lilly.json) |
 | Void of Space | 173295 | [173295-void-of-space.json](./173295-void-of-space.json) |
 | Void Operators | 413874 | [413874-void-operators.json](./413874-void-operators.json) |
+| Void Outcasts | 398770 | [398770-void-outcasts.json](./398770-void-outcasts.json) |
 | Void Pachinko | 384212 | [384212-void-pachinko.json](./384212-void-pachinko.json) |
 | Void Phantom | 388256 | [388256-void-phantom.json](./388256-void-phantom.json) |
 | Void Point | 384047 | [384047-void-point.json](./384047-void-point.json) |
