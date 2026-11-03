@@ -931,7 +931,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -12661,6 +12660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoostBots VR | 54841 | [54841-boostbots-vr.json](./54841-boostbots-vr.json) |
 | Boosted | 264053 | [264053-boosted.json](./264053-boosted.json) |
 | Boosted Survivors | 314666 | [314666-boosted-survivors.json](./314666-boosted-survivors.json) |
+| Booster | 363118 | [363118-booster.json](./363118-booster.json) |
 | Booster Pack Heroes | 400386 | [400386-booster-pack-heroes.json](./400386-booster-pack-heroes.json) |
 | Booster Racers | 303105 | [303105-booster-racers.json](./303105-booster-racers.json) |
 | Booster Trooper | 14948 | [14948-booster-trooper.json](./14948-booster-trooper.json) |
