@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZeroRanger | 59737 | [59737-zeroranger.json](./59737-zeroranger.json) |
 | Zerosen | 345918 | [345918-zerosen.json](./345918-zerosen.json) |
 | ZeroSpace | 262659 | [262659-zerospace.json](./262659-zerospace.json) |
+| Zeroth | 362004 | [362004-zeroth.json](./362004-zeroth.json) |
 | Zeroth Zone | 72133 | [72133-zeroth-zone.json](./72133-zeroth-zone.json) |
 | Zerouno Games Collection Pack 1 | 312066 | [312066-zerouno-games-collection-pack-1.json](./312066-zerouno-games-collection-pack-1.json) |
 | ZeroVector | 241638 | [241638-zerovector.json](./241638-zerovector.json) |
