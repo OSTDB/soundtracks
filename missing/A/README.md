@@ -11591,6 +11591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Gee Bee | 371415 | [371415-arcade-archives-2-gee-bee.json](./371415-arcade-archives-2-gee-bee.json) |
 | Arcade Archives 2: Hyper Crash | 409672 | [409672-arcade-archives-2-hyper-crash.json](./409672-arcade-archives-2-hyper-crash.json) |
 | Arcade Archives 2: Konami GT | 398768 | [398768-arcade-archives-2-konami-gt.json](./398768-arcade-archives-2-konami-gt.json) |
+| Arcade Archives 2: Labyrinth Runner | 386906 | [386906-arcade-archives-2-labyrinth-runner.json](./386906-arcade-archives-2-labyrinth-runner.json) |
 | Arcade Archives 2: Mach Breakers | 365534 | [365534-arcade-archives-2-mach-breakers.json](./365534-arcade-archives-2-mach-breakers.json) |
 | Arcade Archives 2: Mega Zone | 390481 | [390481-arcade-archives-2-mega-zone.json](./390481-arcade-archives-2-mega-zone.json) |
 | Arcade Archives 2: Moon Shuttle | 408159 | [408159-arcade-archives-2-moon-shuttle.json](./408159-arcade-archives-2-moon-shuttle.json) |
@@ -14124,6 +14125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen Will | 211044 | [211044-ashen-will.json](./211044-ashen-will.json) |
 | Ashen World | 379451 | [379451-ashen-world.json](./379451-ashen-world.json) |
 | Ashen: Nightstorm Isle | 133044 | [133044-ashen-nightstorm-isle.json](./133044-ashen-nightstorm-isle.json) |
+| Ashentia Hauntings | 386822 | [386822-ashentia-hauntings.json](./386822-ashentia-hauntings.json) |
 | Asher | 184726 | [184726-asher.json](./184726-asher.json) |
 | Asher | 33483 | [33483-asher.json](./33483-asher.json) |
 | Asher Descent | 405612 | [405612-asher-descent.json](./405612-asher-descent.json) |
@@ -15752,7 +15754,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
