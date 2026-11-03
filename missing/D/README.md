@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damn Dog | 313198 | [313198-damn-dog.json](./313198-damn-dog.json) |
 | Damn Dolls | 132533 | [132533-damn-dolls.json](./132533-damn-dolls.json) |
 | Damn Endless Orcs | 163903 | [163903-damn-endless-orcs.json](./163903-damn-endless-orcs.json) |
+| Damn Gravity! | 372419 | [372419-damn-gravity.json](./372419-damn-gravity.json) |
 | Damn it! | 284995 | [284995-damn-it.json](./284995-damn-it.json) |
 | Damn Little Town | 262062 | [262062-damn-little-town.json](./262062-damn-little-town.json) |
 | Damn Love | 402274 | [402274-damn-love.json](./402274-damn-love.json) |
@@ -8639,6 +8640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digging Hours | 342749 | [342749-digging-hours.json](./342749-digging-hours.json) |
 | Digging Jim | 19222 | [19222-digging-jim.json](./19222-digging-jim.json) |
 | Digging the Forgotten Cave | 365828 | [365828-digging-the-forgotten-cave.json](./365828-digging-the-forgotten-cave.json) |
+| Digging Together | 372405 | [372405-digging-together.json](./372405-digging-together.json) |
 | Diggles: The Myth of Fenris | 9521 | [9521-diggles-the-myth-of-fenris.json](./9521-diggles-the-myth-of-fenris.json) |
 | Diggy Diggy Dwarf | 269388 | [269388-diggy-diggy-dwarf.json](./269388-diggy-diggy-dwarf.json) |
 | Diggy: Gold Rush | 248098 | [248098-diggy-gold-rush.json](./248098-diggy-gold-rush.json) |
