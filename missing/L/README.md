@@ -2344,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy | 377594 | [377594-legacy.json](./377594-legacy.json) |
 | Legacy | 401477 | [401477-legacy.json](./401477-legacy.json) |
 | Legacy 1917 | 211724 | [211724-legacy-1917.json](./211724-legacy-1917.json) |
+| Legacy 3: The Hidden Relic | 360301 | [360301-legacy-3-the-hidden-relic.json](./360301-legacy-3-the-hidden-relic.json) |
 | Legacy 4: Tomb of Secrets | 252563 | [252563-legacy-4-tomb-of-secrets.json](./252563-legacy-4-tomb-of-secrets.json) |
 | Legacy Battle heart 2 | 108505 | [108505-legacy-battle-heart-2.json](./108505-legacy-battle-heart-2.json) |
 | Legacy Bird | 128602 | [128602-legacy-bird.json](./128602-legacy-bird.json) |
@@ -3353,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leon&Suharto | 401867 | [401867-leon-and-suharto.json](./401867-leon-and-suharto.json) |
 | Leona's Tricky Adventures | 17518 | [17518-leonas-tricky-adventures.json](./17518-leonas-tricky-adventures.json) |
 | Leonardo | 133430 | [133430-leonardo.json](./133430-leonardo.json) |
+| Leonardo: The Inventor | 360281 | [360281-leonardo-the-inventor.json](./360281-leonardo-the-inventor.json) |
 | Leonardo's Cat | 175398 | [175398-leonardos-cat.json](./175398-leonardos-cat.json) |
 | Leonardo's Island | 160075 | [160075-leonardos-island.json](./160075-leonardos-island.json) |
 | Leonidov | 374277 | [374277-leonidov.json](./374277-leonidov.json) |
@@ -7120,6 +7122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Miner | 404411 | [404411-loop-miner.json](./404411-loop-miner.json) |
 | Loop My Crank | 374629 | [374629-loop-my-crank.json](./374629-loop-my-crank.json) |
 | Loop of Command | 390357 | [390357-loop-of-command.json](./390357-loop-of-command.json) |
+| Loop One: Done | 360314 | [360314-loop-one-done.json](./360314-loop-one-done.json) |
 | Loop Room | 168151 | [168151-loop-room.json](./168151-loop-room.json) |
 | Loop Spot | 423244 | [423244-loop-spot.json](./423244-loop-spot.json) |
 | Loop the Loop: The Mansion of Gluttony | 387558 | [387558-loop-the-loop-the-mansion-of-gluttony.json](./387558-loop-the-loop-the-mansion-of-gluttony.json) |
