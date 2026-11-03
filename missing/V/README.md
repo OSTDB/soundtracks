@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-Katsu | 106135 | [106135-v-katsu.json](./106135-v-katsu.json) |
 | V-Lover! | 351035 | [351035-v-lover.json](./351035-v-lover.json) |
 | V-Master Cross | 240903 | [240903-v-master-cross.json](./240903-v-master-cross.json) |
+| V-Monsters Forgotten Link | 365967 | [365967-v-monsters-forgotten-link.json](./365967-v-monsters-forgotten-link.json) |
 | V-Monsters: Digital Farm | 269979 | [269979-v-monsters-digital-farm.json](./269979-v-monsters-digital-farm.json) |
 | V-Pong | 272844 | [272844-v-pong.json](./272844-v-pong.json) |
 | V-Rally 3 | 243024 | [243024-v-rally-3.json](./243024-v-rally-3.json) |
@@ -3748,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Kayaking Game | 186255 | [186255-vr-kayaking-game.json](./186255-vr-kayaking-game.json) |
 | VR King Arthur's Sword in Romano Britania | 164422 | [164422-vr-king-arthurs-sword-in-romano-britania.json](./164422-vr-king-arthurs-sword-in-romano-britania.json) |
 | VR King of Battle Cards | 155674 | [155674-vr-king-of-battle-cards.json](./155674-vr-king-of-battle-cards.json) |
+| VR Lander: Lunar Edition | 365932 | [365932-vr-lander-lunar-edition.json](./365932-vr-lander-lunar-edition.json) |
 | VR Laser Harp | 30761 | [30761-vr-laser-harp.json](./30761-vr-laser-harp.json) |
 | VR Laser Puzzle | 96685 | [96685-vr-laser-puzzle.json](./96685-vr-laser-puzzle.json) |
 | VR Long March | 159512 | [159512-vr-long-march.json](./159512-vr-long-march.json) |
