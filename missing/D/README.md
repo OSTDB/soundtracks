@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Lord | 175733 | [175733-dark-lord.json](./175733-dark-lord.json) |
 | Dark Lord | 227272 | [227272-dark-lord.json](./227272-dark-lord.json) |
 | Dark Lord | 85882 | [85882-dark-lord.json](./85882-dark-lord.json) |
+| Dark Lord Leona | 382484 | [382484-dark-lord-leona.json](./382484-dark-lord-leona.json) |
 | Dark Lord: Peacemaker | 284562 | [284562-dark-lord-peacemaker.json](./284562-dark-lord-peacemaker.json) |
 | Dark Lord's Maze | 209472 | [209472-dark-lords-maze.json](./209472-dark-lords-maze.json) |
 | Dark Lords Don't Give A :) | 113519 | [113519-dark-lords-dont-give-a.json](./113519-dark-lords-dont-give-a.json) |
@@ -5434,6 +5435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of Time | 17722 | [17722-defenders-of-time.json](./17722-defenders-of-time.json) |
 | Defenders: Survival and Tower Defense | 135661 | [135661-defenders-survival-and-tower-defense.json](./135661-defenders-survival-and-tower-defense.json) |
 | DefenderWorks | 61131 | [61131-defenderworks.json](./61131-defenderworks.json) |
+| Defendguin | 382123 | [382123-defendguin.json](./382123-defendguin.json) |
 | Defendin' De Penguin | 51034 | [51034-defendin-de-penguin.json](./51034-defendin-de-penguin.json) |
 | Defending Camelot | 107486 | [107486-defending-camelot.json](./107486-defending-camelot.json) |
 | Defending Earth | 235172 | [235172-defending-earth.json](./235172-defending-earth.json) |
@@ -10437,6 +10439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Business: Fantasy Trading Simulator | 113744 | [113744-divine-business-fantasy-trading-simulator.json](./113744-divine-business-fantasy-trading-simulator.json) |
 | Divine D.I.V.A. | 117684 | [117684-divine-d-i-v-a.json](./117684-divine-d-i-v-a.json) |
 | Divine Dawn | 223232 | [223232-divine-dawn.json](./223232-divine-dawn.json) |
+| Divine Dice | 382126 | [382126-divine-dice.json](./382126-divine-dice.json) |
 | Divine Divinity | 671 | [671-divine-divinity.json](./671-divine-divinity.json) |
 | Divine Doubt | 278707 | [278707-divine-doubt.json](./278707-divine-doubt.json) |
 | Divine Duel | 215026 | [215026-divine-duel.json](./215026-divine-duel.json) |
