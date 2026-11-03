@@ -6501,6 +6501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rg-ft | 176997 | [176997-rg-ft.json](./176997-rg-ft.json) |
 | RGB | 191381 | [191381-rgb.json](./191381-rgb.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
+| RGB Athletes | 373787 | [373787-rgb-athletes.json](./373787-rgb-athletes.json) |
 | RGB Express | 87892 | [87892-rgb-express.json](./87892-rgb-express.json) |
 | RGB ON Experience | 174629 | [174629-rgb-on-experience.json](./174629-rgb-on-experience.json) |
 | RGB Run | 112480 | [112480-rgb-run.json](./112480-rgb-run.json) |
@@ -8019,6 +8020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Avenger | 93049 | [93049-road-avenger.json](./93049-road-avenger.json) |
 | Road Block | 124709 | [124709-road-block.json](./124709-road-block.json) |
 | Road Builder | 172994 | [172994-road-builder.json](./172994-road-builder.json) |
+| Road Burners | 373474 | [373474-road-burners.json](./373474-road-burners.json) |
 | Road Bustle 2 | 254636 | [254636-road-bustle-2.json](./254636-road-bustle-2.json) |
 | Road Cafe Simulator | 351028 | [351028-road-cafe-simulator.json](./351028-road-cafe-simulator.json) |
 | Road Cards | 187880 | [187880-road-cards.json](./187880-road-cards.json) |
