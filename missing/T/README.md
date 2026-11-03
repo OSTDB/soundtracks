@@ -3804,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenebrarium | 408272 | [408272-tenebrarium.json](./408272-tenebrarium.json) |
 | Tenebrarium | 417965 | [417965-tenebrarium.json](./417965-tenebrarium.json) |
 | Tenebrea | 372096 | [372096-tenebrea.json](./372096-tenebrea.json) |
+| Tenebris | 377187 | [377187-tenebris.json](./377187-tenebris.json) |
 | TenebriS | 158128 | [158128-tenebris.json](./158128-tenebris.json) |
 | Tenebris Lake | 288272 | [288272-tenebris-lake.json](./288272-tenebris-lake.json) |
 | Tenebris Somnia | 216692 | [216692-tenebris-somnia.json](./216692-tenebris-somnia.json) |
@@ -5907,6 +5908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Baldina | 367183 | [367183-the-baldina.json](./367183-the-baldina.json) |
 | The Baleful Tower | 193092 | [193092-the-baleful-tower.json](./193092-the-baleful-tower.json) |
 | The Ball | 363961 | [363961-the-ball.json](./363961-the-ball.json) |
+| The Ball | 377324 | [377324-the-ball.json](./377324-the-ball.json) |
 | The Ball | 9402 | [9402-the-ball.json](./9402-the-ball.json) |
 | The Ball 2 | 224475 | [224475-the-ball-2.json](./224475-the-ball-2.json) |
 | The Ball Adventure | 148535 | [148535-the-ball-adventure.json](./148535-the-ball-adventure.json) |
@@ -8167,6 +8169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Driver's Mission | 121195 | [121195-the-drivers-mission.json](./121195-the-drivers-mission.json) |
 | The Drone Lord | 343308 | [343308-the-drone-lord.json](./343308-the-drone-lord.json) |
 | The Drone Zone | 244905 | [244905-the-drone-zone.json](./244905-the-drone-zone.json) |
+| The Drop | 377315 | [377315-the-drop.json](./377315-the-drop.json) |
 | The Dropper 2 | 200144 | [200144-the-dropper-2.json](./200144-the-dropper-2.json) |
 | The Dropping of the Dead | 55330 | [55330-the-dropping-of-the-dead.json](./55330-the-dropping-of-the-dead.json) |
 | The Drowned Deal | 365726 | [365726-the-drowned-deal.json](./365726-the-drowned-deal.json) |
@@ -11032,6 +11035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Killbox: Arena Combat US | 86976 | [86976-the-killbox-arena-combat-us.json](./86976-the-killbox-arena-combat-us.json) |
 | The Killbox: Leo | 223874 | [223874-the-killbox-leo.json](./223874-the-killbox-leo.json) |
 | The Killer | 212582 | [212582-the-killer.json](./212582-the-killer.json) |
+| The Killer | 377312 | [377312-the-killer.json](./377312-the-killer.json) |
 | The Killer | 425167 | [425167-the-killer.json](./425167-the-killer.json) |
 | The Killer of Dishonor | 150538 | [150538-the-killer-of-dishonor.json](./150538-the-killer-of-dishonor.json) |
 | The Killing Antidote | 287004 | [287004-the-killing-antidote.json](./287004-the-killing-antidote.json) |
@@ -11486,6 +11490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hearth Defense | 352321 | [352321-the-last-hearth-defense.json](./352321-the-last-hearth-defense.json) |
 | The Last Hero | 343592 | [343592-the-last-hero.json](./343592-the-last-hero.json) |
 | The Last Hero | 343593 | [343593-the-last-hero.json](./343593-the-last-hero.json) |
+| The Last Hero | 377321 | [377321-the-last-hero.json](./377321-the-last-hero.json) |
 | The Last Hero of Nostalgaia | 214707 | [214707-the-last-hero-of-nostalgaia.json](./214707-the-last-hero-of-nostalgaia.json) |
 | The Last Hero of Nostalgaia: Deluxe Edition | 254283 | [254283-the-last-hero-of-nostalgaia-deluxe-edition.json](./254283-the-last-hero-of-nostalgaia-deluxe-edition.json) |
 | The Last Hero: Journey to the Unknown | 251972 | [251972-the-last-hero-journey-to-the-unknown.json](./251972-the-last-hero-journey-to-the-unknown.json) |
@@ -15089,6 +15094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Runemaster's Diary | 167588 | [167588-the-runemasters-diary.json](./167588-the-runemasters-diary.json) |
 | The Runes of Zendos | 299696 | [299696-the-runes-of-zendos.json](./299696-the-runes-of-zendos.json) |
 | The Runesmith | 376438 | [376438-the-runesmith.json](./376438-the-runesmith.json) |
+| The Runner | 377317 | [377317-the-runner.json](./377317-the-runner.json) |
 | The Runner | 64036 | [64036-the-runner.json](./64036-the-runner.json) |
 | The Running Dead | 183333 | [183333-the-running-dead.json](./183333-the-running-dead.json) |
 | The Running Man | 12756 | [12756-the-running-man.json](./12756-the-running-man.json) |
@@ -22813,6 +22819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Be a HerpWitch | 135033 | [135033-to-be-a-herpwitch.json](./135033-to-be-a-herpwitch.json) |
 | To Be A King: Volume 1 | 254754 | [254754-to-be-a-king-volume-1.json](./254754-to-be-a-king-volume-1.json) |
 | To Be A King: Volume 2 - Part 1 | 296868 | [296868-to-be-a-king-volume-2-part-1.json](./296868-to-be-a-king-volume-2-part-1.json) |
+| To Be a Millionaire | 377022 | [377022-to-be-a-millionaire.json](./377022-to-be-a-millionaire.json) |
 | To Be Altered | 370664 | [370664-to-be-altered.json](./370664-to-be-altered.json) |
 | To Be Besieged | 416765 | [416765-to-be-besieged.json](./416765-to-be-besieged.json) |
 | To Be Connected | 390596 | [390596-to-be-connected.json](./390596-to-be-connected.json) |
@@ -24623,6 +24630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torture | 268464 | [268464-torture.json](./268464-torture.json) |
 | Torture | 272171 | [272171-torture.json](./272171-torture.json) |
 | Torture | 276458 | [276458-torture.json](./276458-torture.json) |
+| Torture | 377308 | [377308-torture.json](./377308-torture.json) |
 | Torture Chamber | 99673 | [99673-torture-chamber.json](./99673-torture-chamber.json) |
 | Torture Jam 1 | 308525 | [308525-torture-jam-1.json](./308525-torture-jam-1.json) |
 | Torture the Stickman 2 | 188324 | [188324-torture-the-stickman-2.json](./188324-torture-the-stickman-2.json) |
