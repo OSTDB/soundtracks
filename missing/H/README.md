@@ -2598,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Manager | 360081 | [360081-haunted-manager.json](./360081-haunted-manager.json) |
 | Haunted Manor 2 | 109018 | [109018-haunted-manor-2.json](./109018-haunted-manor-2.json) |
 | Haunted Manor HD | 91314 | [91314-haunted-manor-hd.json](./91314-haunted-manor-hd.json) |
+| Haunted Manor: Halloween's Uninvited Guest - Collector's Edition | 369788 | [369788-haunted-manor-halloweens-uninvited-guest-collectors-edition.json](./369788-haunted-manor-halloweens-uninvited-guest-collectors-edition.json) |
 | Haunted Manor: Lord of Mirrors | 140029 | [140029-haunted-manor-lord-of-mirrors.json](./140029-haunted-manor-lord-of-mirrors.json) |
 | Haunted Manor: Painted Beauties | 140030 | [140030-haunted-manor-painted-beauties.json](./140030-haunted-manor-painted-beauties.json) |
 | Haunted Manor: Painted Beauties - Collector's Edition | 95241 | [95241-haunted-manor-painted-beauties-collectors-edition.json](./95241-haunted-manor-painted-beauties-collectors-edition.json) |
@@ -4571,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Asmodeus | 125352 | [125352-hentai-asmodeus.json](./125352-hentai-asmodeus.json) |
 | Hentai Ayumi | 244081 | [244081-hentai-ayumi.json](./244081-hentai-ayumi.json) |
 | Hentai Bad Girls | 280267 | [280267-hentai-bad-girls.json](./280267-hentai-bad-girls.json) |
+| Hentai Bae Violet | 369830 | [369830-hentai-bae-violet.json](./369830-hentai-bae-violet.json) |
 | Hentai Balloons | 161549 | [161549-hentai-balloons.json](./161549-hentai-balloons.json) |
 | Hentai Balloons 2 | 156637 | [156637-hentai-balloons-2.json](./156637-hentai-balloons-2.json) |
 | Hentai Balls 3D: Heavy Attraction | 380701 | [380701-hentai-balls-3d-heavy-attraction.json](./380701-hentai-balls-3d-heavy-attraction.json) |
@@ -4806,6 +4808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Racy Racer | 304789 | [304789-hentai-girls-racy-racer.json](./304789-hentai-girls-racy-racer.json) |
 | Hentai Girls: Sakura Romance | 294843 | [294843-hentai-girls-sakura-romance.json](./294843-hentai-girls-sakura-romance.json) |
 | Hentai Girls: Sexy Feet Goddesses | 296907 | [296907-hentai-girls-sexy-feet-goddesses.json](./296907-hentai-girls-sexy-feet-goddesses.json) |
+| Hentai Girls: Sexy Maid Party | 369826 | [369826-hentai-girls-sexy-maid-party.json](./369826-hentai-girls-sexy-maid-party.json) |
 | Hentai Girls: Sexy Sakura | 336419 | [336419-hentai-girls-sexy-sakura.json](./336419-hentai-girls-sexy-sakura.json) |
 | Hentai Girls: Steamy Maid | 300864 | [300864-hentai-girls-steamy-maid.json](./300864-hentai-girls-steamy-maid.json) |
 | Hentai Girls: Sweet Doctor | 288164 | [288164-hentai-girls-sweet-doctor.json](./288164-hentai-girls-sweet-doctor.json) |
@@ -5052,6 +5055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Senpai: Kairaku No Maid Service | 389625 | [389625-hentai-senpai-kairaku-no-maid-service.json](./389625-hentai-senpai-kairaku-no-maid-service.json) |
 | Hentai Senpai: Konbini no Shirigaru Onna | 311134 | [311134-hentai-senpai-konbini-no-shirigaru-onna.json](./311134-hentai-senpai-konbini-no-shirigaru-onna.json) |
 | Hentai Senpai: Pirates! | 296952 | [296952-hentai-senpai-pirates.json](./296952-hentai-senpai-pirates.json) |
+| Hentai Senpai: Tavern Whores | 369824 | [369824-hentai-senpai-tavern-whores.json](./369824-hentai-senpai-tavern-whores.json) |
 | Hentai Senpai: Thicc Fairies of Forest Lake | 372118 | [372118-hentai-senpai-thicc-fairies-of-forest-lake.json](./372118-hentai-senpai-thicc-fairies-of-forest-lake.json) |
 | Hentai Senpai: Thiccmas Cumsluts | 384704 | [384704-hentai-senpai-thiccmas-cumsluts.json](./384704-hentai-senpai-thiccmas-cumsluts.json) |
 | Hentai Sensei | 301666 | [301666-hentai-sensei.json](./301666-hentai-sensei.json) |
@@ -5207,6 +5211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World Tour | 389179 | [389179-hentai-world-tour.json](./389179-hentai-world-tour.json) |
 | Hentai World Town | 384700 | [384700-hentai-world-town.json](./384700-hentai-world-town.json) |
 | Hentai World West | 369998 | [369998-hentai-world-west.json](./369998-hentai-world-west.json) |
+| Hentai World Wild | 369828 | [369828-hentai-world-wild.json](./369828-hentai-world-wild.json) |
 | Hentai World Winter | 340464 | [340464-hentai-world-winter.json](./340464-hentai-world-winter.json) |
 | Hentai World: Chiyo | 403405 | [403405-hentai-world-chiyo.json](./403405-hentai-world-chiyo.json) |
 | Hentai World: Complete + | 324453 | [324453-hentai-world-complete.json](./324453-hentai-world-complete.json) |
@@ -8588,6 +8593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Shit | 202726 | [202726-holy-shit.json](./202726-holy-shit.json) |
 | Holy Shoot | 292514 | [292514-holy-shoot.json](./292514-holy-shoot.json) |
 | Holy Shot | 325271 | [325271-holy-shot.json](./325271-holy-shot.json) |
+| Holy Sisters | 369831 | [369831-holy-sisters.json](./369831-holy-sisters.json) |
 | Holy SIsters 3D | 369661 | [369661-holy-sisters-3d.json](./369661-holy-sisters-3d.json) |
 | Holy Stick! | 157037 | [157037-holy-stick.json](./157037-holy-stick.json) |
 | Holy Stone Mage | 310019 | [310019-holy-stone-mage.json](./310019-holy-stone-mage.json) |
@@ -9687,6 +9693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Shoes | 359310 | [359310-horse-shoes.json](./359310-horse-shoes.json) |
 | Horse Spirit Valley | 412010 | [412010-horse-spirit-valley.json](./412010-horse-spirit-valley.json) |
 | Horse Stable: Herd Care Simulator | 203700 | [203700-horse-stable-herd-care-simulator.json](./203700-horse-stable-herd-care-simulator.json) |
+| Horse Store Simulator | 369809 | [369809-horse-store-simulator.json](./369809-horse-store-simulator.json) |
 | Horse Tales: Emerald Valley Ranch | 206679 | [206679-horse-tales-emerald-valley-ranch.json](./206679-horse-tales-emerald-valley-ranch.json) |
 | Horse Tales: Emerald Valley Ranch - Deluxe | 283268 | [283268-horse-tales-emerald-valley-ranch-deluxe.json](./283268-horse-tales-emerald-valley-ranch-deluxe.json) |
 | Horse Tales: Emerald Valley Ranch - DLC Pack | 371935 | [371935-horse-tales-emerald-valley-ranch-dlc-pack.json](./371935-horse-tales-emerald-valley-ranch-dlc-pack.json) |
