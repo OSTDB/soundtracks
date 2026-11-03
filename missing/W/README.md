@@ -7319,8 +7319,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Whip | 178970 | [178970-word-whip.json](./178970-word-whip.json) |
 | Word Whisper | 254163 | [254163-word-whisper.json](./254163-word-whisper.json) |
 | Word Whiz | 93345 | [93345-word-whiz.json](./93345-word-whiz.json) |
+| Word Whomp | 366454 | [366454-word-whomp.json](./366454-word-whomp.json) |
 | Word Whomp HD | 318610 | [318610-word-whomp-hd.json](./318610-word-whomp-hd.json) |
 | Word Whomp Underground | 205884 | [205884-word-whomp-underground.json](./205884-word-whomp-underground.json) |
+| Word Whomp Whackdown | 366453 | [366453-word-whomp-whackdown.json](./366453-word-whomp-whackdown.json) |
 | Word Wise | 157723 | [157723-word-wise.json](./157723-word-wise.json) |
 | Word Wiz | 370359 | [370359-word-wiz.json](./370359-word-wiz.json) |
 | Word Wizard 3D | 84937 | [84937-word-wizard-3d.json](./84937-word-wizard-3d.json) |
