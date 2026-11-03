@@ -14537,6 +14537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout | 228318 | [228318-breakout.json](./228318-breakout.json) |
 | Breakout | 308606 | [308606-breakout.json](./308606-breakout.json) |
 | Breakout | 328918 | [328918-breakout.json](./328918-breakout.json) |
+| Breakout | 366504 | [366504-breakout.json](./366504-breakout.json) |
 | Breakout | 385513 | [385513-breakout.json](./385513-breakout.json) |
 | Breakout | 85967 | [85967-breakout.json](./85967-breakout.json) |
 | Breakout 13 | 212735 | [212735-breakout-13.json](./212735-breakout-13.json) |
