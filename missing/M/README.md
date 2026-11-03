@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnitude: Eta | 344283 | [344283-magnitude-eta.json](./344283-magnitude-eta.json) |
 | Magnitude: Lambda | 356505 | [356505-magnitude-lambda.json](./356505-magnitude-lambda.json) |
 | Magnitude: Sigma | 366213 | [366213-magnitude-sigma.json](./366213-magnitude-sigma.json) |
+| Magnitude: X | 391969 | [391969-magnitude-x.json](./391969-magnitude-x.json) |
 | Magnolia | 141031 | [141031-magnolia.json](./141031-magnolia.json) |
 | Magnolia Manor | 140162 | [140162-magnolia-manor.json](./140162-magnolia-manor.json) |
 | Magnum Kiki Ippatsu: Empire City 1931 | 48431 | [48431-magnum-kiki-ippatsu-empire-city-1931.json](./48431-magnum-kiki-ippatsu-empire-city-1931.json) |
@@ -9079,6 +9080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Fight Beyblade: Bakushin Susanow Attacks! | 394193 | [394193-metal-fight-beyblade-bakushin-susanow-attacks.json](./394193-metal-fight-beyblade-bakushin-susanow-attacks.json) |
 | Metal Fighter Miku | 107633 | [107633-metal-fighter-miku.json](./107633-metal-fighter-miku.json) |
 | Metal Force | 48325 | [48325-metal-force.json](./48325-metal-force.json) |
+| Metal Force: Tank Games Online | 391935 | [391935-metal-force-tank-games-online.json](./391935-metal-force-tank-games-online.json) |
 | Metal Force: Tank Shooter | 87113 | [87113-metal-force-tank-shooter.json](./87113-metal-force-tank-shooter.json) |
 | Metal Freezer | 267644 | [267644-metal-freezer.json](./267644-metal-freezer.json) |
 | Metal Fury 3000 | 124179 | [124179-metal-fury-3000.json](./124179-metal-fury-3000.json) |
@@ -9958,6 +9960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Wars | 314450 | [314450-micro-wars.json](./314450-micro-wars.json) |
 | Micro Wars | 341963 | [341963-micro-wars.json](./341963-micro-wars.json) |
 | Micro-Breakout | 320150 | [320150-micro-breakout.json](./320150-micro-breakout.json) |
+| Micro-Zoo | 391947 | [391947-micro-zoo.json](./391947-micro-zoo.json) |
 | Micro's Dilemma II | 398798 | [398798-micros-dilemma-ii.json](./398798-micros-dilemma-ii.json) |
 | Micro$oft Simulaattori | 98940 | [98940-micro-oft-simulaattori.json](./98940-micro-oft-simulaattori.json) |
 | Microarcade ApplePie | 223617 | [223617-microarcade-applepie.json](./223617-microarcade-applepie.json) |
@@ -11822,6 +11825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper & Dungeon RPG | 324153 | [324153-minesweeper-and-dungeon-rpg.json](./324153-minesweeper-and-dungeon-rpg.json) |
 | Minesweeper 101 | 87161 | [87161-minesweeper-101.json](./87161-minesweeper-101.json) |
 | Minesweeper 3d | 349110 | [349110-minesweeper-3d.json](./349110-minesweeper-3d.json) |
+| Minesweeper 3D | 391924 | [391924-minesweeper-3d.json](./391924-minesweeper-3d.json) |
 | Minesweeper 3D | 412739 | [412739-minesweeper-3d.json](./412739-minesweeper-3d.json) |
 | MineSweeper 3D | 368071 | [368071-minesweeper-3d.json](./368071-minesweeper-3d.json) |
 | Minesweeper Arena | 395161 | [395161-minesweeper-arena.json](./395161-minesweeper-arena.json) |
@@ -17393,6 +17397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Word | 87329 | [87329-mr-word.json](./87329-mr-word.json) |
 | Mr Zig | 126810 | [126810-mr-zig.json](./126810-mr-zig.json) |
 | Mr. "Bargain Expert" | 413075 | [413075-mr-bargain-expert.json](./413075-mr-bargain-expert.json) |
+| Mr. Addon Game Maker | 391930 | [391930-mr-addon-game-maker.json](./391930-mr-addon-game-maker.json) |
 | Mr. Akun's Jump | 287737 | [287737-mr-akuns-jump.json](./287737-mr-akuns-jump.json) |
 | Mr. and Mrs. Potato Head Go on Vacation | 209156 | [209156-mr-and-mrs-potato-head-go-on-vacation.json](./209156-mr-and-mrs-potato-head-go-on-vacation.json) |
 | Mr. Angry | 77380 | [77380-mr-angry.json](./77380-mr-angry.json) |
@@ -19377,6 +19382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Home Poltergeist | 158692 | [158692-my-home-poltergeist.json](./158692-my-home-poltergeist.json) |
 | My Home Town | 166144 | [166144-my-home-town.json](./166144-my-home-town.json) |
 | My Home VR | 127206 | [127206-my-home-vr.json](./127206-my-home-vr.json) |
+| My Home/Zombie Center | 391937 | [391937-my-home-zombie-center.json](./391937-my-home-zombie-center.json) |
 | My Hooptie | 369656 | [369656-my-hooptie.json](./369656-my-hooptie.json) |
 | My Horny Anime Girls | 417814 | [417814-my-horny-anime-girls.json](./417814-my-horny-anime-girls.json) |
 | My Horse | 99916 | [99916-my-horse.json](./99916-my-horse.json) |
@@ -20013,6 +20019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town: Police Station | 214319 | [214319-my-town-police-station.json](./214319-my-town-police-station.json) |
 | My Town: Shopping Mall | 88919 | [88919-my-town-shopping-mall.json](./88919-my-town-shopping-mall.json) |
 | My Town: World of Games | 227539 | [227539-my-town-world-of-games.json](./227539-my-town-world-of-games.json) |
+| My Townies | 391951 | [391951-my-townies.json](./391951-my-townies.json) |
 | My Traditional Princes | 299600 | [299600-my-traditional-princes.json](./299600-my-traditional-princes.json) |
 | My Trailer Park Life | 275018 | [275018-my-trailer-park-life.json](./275018-my-trailer-park-life.json) |
 | My Train Arrives | 121980 | [121980-my-train-arrives.json](./121980-my-train-arrives.json) |
@@ -20531,6 +20538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: Grimm's Tales 5 | 195869 | [195869-mystery-solitaire-grimms-tales-5.json](./195869-mystery-solitaire-grimms-tales-5.json) |
 | Mystery Solitaire: Grimm's Tales 6 | 208822 | [208822-mystery-solitaire-grimms-tales-6.json](./208822-mystery-solitaire-grimms-tales-6.json) |
 | Mystery Solitaire: Grimm's Tales 7 | 231817 | [231817-mystery-solitaire-grimms-tales-7.json](./231817-mystery-solitaire-grimms-tales-7.json) |
+| Mystery Solitaire: Grimm's Tales 8 | 391938 | [391938-mystery-solitaire-grimms-tales-8.json](./391938-mystery-solitaire-grimms-tales-8.json) |
 | Mystery Solitaire: Grimm's Tales 9 | 262586 | [262586-mystery-solitaire-grimms-tales-9.json](./262586-mystery-solitaire-grimms-tales-9.json) |
 | Mystery Solitaire: Powerful Alchemist 2 | 193598 | [193598-mystery-solitaire-powerful-alchemist-2.json](./193598-mystery-solitaire-powerful-alchemist-2.json) |
 | Mystery Solitaire: Powerful Alchemist 3 | 214006 | [214006-mystery-solitaire-powerful-alchemist-3.json](./214006-mystery-solitaire-powerful-alchemist-3.json) |
