@@ -5631,6 +5631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10766,6 +10767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Kingdom | 360638 | [360638-mighty-kingdom.json](./360638-mighty-kingdom.json) |
 | Mighty Knight | 364230 | [364230-mighty-knight.json](./364230-mighty-knight.json) |
 | Mighty Knight Legacy | 275339 | [275339-mighty-knight-legacy.json](./275339-mighty-knight-legacy.json) |
+| Mighty Magus | 379614 | [379614-mighty-magus.json](./379614-mighty-magus.json) |
 | Mighty Mahjong | 406111 | [406111-mighty-mahjong.json](./406111-mighty-mahjong.json) |
 | Mighty Marbles | 258441 | [258441-mighty-marbles.json](./258441-mighty-marbles.json) |
 | Mighty Match Puzzle Adventure | 259972 | [259972-mighty-match-puzzle-adventure.json](./259972-mighty-match-puzzle-adventure.json) |
@@ -14326,6 +14328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Puzzle Exchanger | 37280 | [37280-money-puzzle-exchanger.json](./37280-money-puzzle-exchanger.json) |
 | Money Run | 197138 | [197138-money-run.json](./197138-money-run.json) |
 | Money Simulator | 304431 | [304431-money-simulator.json](./304431-money-simulator.json) |
+| Money Simulator: Brokeville | 379601 | [379601-money-simulator-brokeville.json](./379601-money-simulator-brokeville.json) |
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
 | Money Tree | 405322 | [405322-money-tree.json](./405322-money-tree.json) |
@@ -19523,6 +19526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lewd Adventure | 341350 | [341350-my-lewd-adventure.json](./341350-my-lewd-adventure.json) |
 | My Lewd OS | 297150 | [297150-my-lewd-os.json](./297150-my-lewd-os.json) |
 | My Liege | 289317 | [289317-my-liege.json](./289317-my-liege.json) |
+| My Life | 379307 | [379307-my-life.json](./379307-my-life.json) |
 | My Life | 41155 | [41155-my-life.json](./41155-my-life.json) |
 | My Life as a Teenage Robot: Techno Tennis | 335724 | [335724-my-life-as-a-teenage-robot-techno-tennis.json](./335724-my-life-as-a-teenage-robot-techno-tennis.json) |
 | My Life as a Vampire's Maid | 408507 | [408507-my-life-as-a-vampires-maid.json](./408507-my-life-as-a-vampires-maid.json) |
@@ -20168,6 +20172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Wife Serves the King | 385243 | [385243-my-wife-serves-the-king.json](./385243-my-wife-serves-the-king.json) |
 | My Wife Sucked a Futanari's Toes | 341356 | [341356-my-wife-sucked-a-futanaris-toes.json](./341356-my-wife-sucked-a-futanaris-toes.json) |
 | My Wife Wants to Be a Professional Cosplayer?! | 380787 | [380787-my-wife-wants-to-be-a-professional-cosplayer.json](./380787-my-wife-wants-to-be-a-professional-cosplayer.json) |
+| My Winter Car | 379608 | [379608-my-winter-car.json](./379608-my-winter-car.json) |
 | My Winter Drive | 380505 | [380505-my-winter-drive.json](./380505-my-winter-drive.json) |
 | My Witch Wants Elixirs! | 385715 | [385715-my-witch-wants-elixirs.json](./385715-my-witch-wants-elixirs.json) |
 | My Wolf Girlfriend | 206199 | [206199-my-wolf-girlfriend.json](./206199-my-wolf-girlfriend.json) |
