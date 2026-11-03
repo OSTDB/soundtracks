@@ -4810,6 +4810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi ni, Kanmi o Soete | 83402 | [83402-koi-ni-kanmi-o-soete.json](./83402-koi-ni-kanmi-o-soete.json) |
 | Koi no Hanasaku Hyakkaen | 136929 | [136929-koi-no-hanasaku-hyakkaen.json](./136929-koi-no-hanasaku-hyakkaen.json) |
 | Koi No Hotrock | 40230 | [40230-koi-no-hotrock.json](./40230-koi-no-hotrock.json) |
+| Koi no Summer Fantasy: In Miyazaki Seagaia | 361385 | [361385-koi-no-summer-fantasy-in-miyazaki-seagaia.json](./361385-koi-no-summer-fantasy-in-miyazaki-seagaia.json) |
 | Koi no Tsuzuki wa Honeymoon de | 238412 | [238412-koi-no-tsuzuki-wa-honeymoon-de.json](./238412-koi-no-tsuzuki-wa-honeymoon-de.json) |
 | Koi Puncher MMXVIII | 184972 | [184972-koi-puncher-mmxviii.json](./184972-koi-puncher-mmxviii.json) |
 | Koi Remake | 212444 | [212444-koi-remake.json](./212444-koi-remake.json) |
