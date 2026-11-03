@@ -13038,6 +13038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Marauder Chronicles: Curse over Valdria | 161901 | [161901-the-marauder-chronicles-curse-over-valdria.json](./161901-the-marauder-chronicles-curse-over-valdria.json) |
 | The Marbians | 336387 | [336387-the-marbians.json](./336387-the-marbians.json) |
 | The Marble Princess Had Secrets | 419080 | [419080-the-marble-princess-had-secrets.json](./419080-the-marble-princess-had-secrets.json) |
+| The Mare Show | 349069 | [349069-the-mare-show.json](./349069-the-mare-show.json) |
 | The Mare Show: Obscure Tech Skin Pack | 374097 | [374097-the-mare-show-obscure-tech-skin-pack.json](./374097-the-mare-show-obscure-tech-skin-pack.json) |
 | The Margot Collapse | 422175 | [422175-the-margot-collapse.json](./422175-the-margot-collapse.json) |
 | The Mariachi Loco | 178909 | [178909-the-mariachi-loco.json](./178909-the-mariachi-loco.json) |
@@ -16100,6 +16101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slime Plague | 244203 | [244203-the-slime-plague.json](./244203-the-slime-plague.json) |
 | The Slime Sanctuary | 280894 | [280894-the-slime-sanctuary.json](./280894-the-slime-sanctuary.json) |
 | The Slime's Choice: TSC | 297751 | [297751-the-slimes-choice-tsc.json](./297751-the-slimes-choice-tsc.json) |
+| The Sling and The Stone | 349191 | [349191-the-sling-and-the-stone.json](./349191-the-sling-and-the-stone.json) |
 | The Slingshot VR | 32212 | [32212-the-slingshot-vr.json](./32212-the-slingshot-vr.json) |
 | The Slipgate Duplex | 271186 | [271186-the-slipgate-duplex.json](./271186-the-slipgate-duplex.json) |
 | The Slipgate Massacre | 309198 | [309198-the-slipgate-massacre.json](./309198-the-slipgate-massacre.json) |
@@ -16126,6 +16128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smiling, Proud Wanderer 2 | 62442 | [62442-the-smiling-proud-wanderer-2.json](./62442-the-smiling-proud-wanderer-2.json) |
 | The Smoke Room | 136774 | [136774-the-smoke-room.json](./136774-the-smoke-room.json) |
 | The Smoking Dog | 269466 | [269466-the-smoking-dog.json](./269466-the-smoking-dog.json) |
+| The Smol Mushroomancer | 349073 | [349073-the-smol-mushroomancer.json](./349073-the-smol-mushroomancer.json) |
 | The Smugglers | 191187 | [191187-the-smugglers.json](./191187-the-smugglers.json) |
 | The Smurfs | 106272 | [106272-the-smurfs.json](./106272-the-smurfs.json) |
 | The Smurfs | 23482 | [23482-the-smurfs.json](./23482-the-smurfs.json) |
@@ -16389,6 +16392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The St Christopher's School Lockdown | 74393 | [74393-the-st-christophers-school-lockdown.json](./74393-the-st-christophers-school-lockdown.json) |
 | The Stacks | 40616 | [40616-the-stacks.json](./40616-the-stacks.json) |
 | The Stadium Project | 62177 | [62177-the-stadium-project.json](./62177-the-stadium-project.json) |
+| The Stage: No Way Out | 349060 | [349060-the-stage-no-way-out.json](./349060-the-stage-no-way-out.json) |
 | The Stairway | 138435 | [138435-the-stairway.json](./138435-the-stairway.json) |
 | The Stairway 7 | 295332 | [295332-the-stairway-7.json](./295332-the-stairway-7.json) |
 | The Stairwell | 347177 | [347177-the-stairwell.json](./347177-the-stairwell.json) |
@@ -18796,6 +18800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Are Ghosts In These Stalls | 177292 | [177292-there-are-ghosts-in-these-stalls.json](./177292-there-are-ghosts-in-these-stalls.json) |
 | There Are Millions of Goblins | 402248 | [402248-there-are-millions-of-goblins.json](./402248-there-are-millions-of-goblins.json) |
 | There Are No Ghosts at the Grand | 347841 | [347841-there-are-no-ghosts-at-the-grand.json](./347841-there-are-no-ghosts-at-the-grand.json) |
+| There Are No Orcs | 349032 | [349032-there-are-no-orcs.json](./349032-there-are-no-orcs.json) |
 | There Are People In Your Walls | 373644 | [373644-there-are-people-in-your-walls.json](./373644-there-are-people-in-your-walls.json) |
 | There Aren't Really Words... | 135852 | [135852-there-arent-really-words.json](./135852-there-arent-really-words.json) |
 | There be Treasure! | 176258 | [176258-there-be-treasure.json](./176258-there-be-treasure.json) |
@@ -20092,6 +20097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidebound | 282041 | [282041-tidebound.json](./282041-tidebound.json) |
 | Tidebreaker | 373568 | [373568-tidebreaker.json](./373568-tidebreaker.json) |
 | TideBroker | 398776 | [398776-tidebroker.json](./398776-tidebroker.json) |
+| Tidehaven: Ale & Trade | 349078 | [349078-tidehaven-ale-and-trade.json](./349078-tidehaven-ale-and-trade.json) |
 | Tideheart | 420221 | [420221-tideheart.json](./420221-tideheart.json) |
 | Tidepool | 407503 | [407503-tidepool.json](./407503-tidepool.json) |
 | Tides Odyssey | 315777 | [315777-tides-odyssey.json](./315777-tides-odyssey.json) |
@@ -22659,6 +22665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Turnip | 340853 | [340853-tiny-turnip.json](./340853-tiny-turnip.json) |
 | Tiny Tycoons | 63671 | [63671-tiny-tycoons.json](./63671-tiny-tycoons.json) |
 | Tiny Utopia | 390175 | [390175-tiny-utopia.json](./390175-tiny-utopia.json) |
+| Tiny Vending Machines | 349068 | [349068-tiny-vending-machines.json](./349068-tiny-vending-machines.json) |
 | Tiny Vikings | 276813 | [276813-tiny-vikings.json](./276813-tiny-vikings.json) |
 | Tiny Village | 368263 | [368263-tiny-village.json](./368263-tiny-village.json) |
 | Tiny Vinyard | 384488 | [384488-tiny-vinyard.json](./384488-tiny-vinyard.json) |
@@ -23121,6 +23128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Wolves | 57475 | [57475-to-the-wolves.json](./57475-to-the-wolves.json) |
 | To Trust an Incubus | 111730 | [111730-to-trust-an-incubus.json](./111730-to-trust-an-incubus.json) |
 | To Victory | 274471 | [274471-to-victory.json](./274471-to-victory.json) |
+| To You, the Evil Spirit | 349026 | [349026-to-you-the-evil-spirit.json](./349026-to-you-the-evil-spirit.json) |
 | To Your Stations! | 135750 | [135750-to-your-stations.json](./135750-to-your-stations.json) |
 | To-Fu Collection | 206765 | [206765-to-fu-collection.json](./206765-to-fu-collection.json) |
 | To-Fu Fury | 100497 | [100497-to-fu-fury.json](./100497-to-fu-fury.json) |
