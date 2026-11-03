@@ -1332,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombase | 161555 | [161555-zombase.json](./161555-zombase.json) |
 | Zombase | 377134 | [377134-zombase.json](./377134-zombase.json) |
 | Zombasite | 20460 | [20460-zombasite.json](./20460-zombasite.json) |
+| Zombastic | 394985 | [394985-zombastic.json](./394985-zombastic.json) |
 | ZomBay | 287002 | [287002-zombay.json](./287002-zombay.json) |
 | ZombCube | 305975 | [305975-zombcube.json](./305975-zombcube.json) |
 | Zombeat | 79946 | [79946-zombeat.json](./79946-zombeat.json) |
@@ -1742,7 +1743,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Sniper Shooting 3D | 284194 | [284194-zombie-sniper-shooting-3d.json](./284194-zombie-sniper-shooting-3d.json) |
 | Zombie Sniper Survival | 245191 | [245191-zombie-sniper-survival.json](./245191-zombie-sniper-survival.json) |
 | Zombie Society Dead Detective: A Cat's Chance in Hell | 95927 | [95927-zombie-society-dead-detective-a-cats-chance-in-hell.json](./95927-zombie-society-dead-detective-a-cats-chance-in-hell.json) |
+| Zombie Society Dead Detective: A Curse in Disguise | 395065 | [395065-zombie-society-dead-detective-a-curse-in-disguise.json](./395065-zombie-society-dead-detective-a-curse-in-disguise.json) |
+| Zombie Society Dead Detective: Back From The Dead | 395073 | [395073-zombie-society-dead-detective-back-from-the-dead.json](./395073-zombie-society-dead-detective-back-from-the-dead.json) |
 | Zombie Society Dead Detective: Brain Drain | 95950 | [95950-zombie-society-dead-detective-brain-drain.json](./95950-zombie-society-dead-detective-brain-drain.json) |
+| Zombie Society Dead Detective: Graves & Secrets | 395070 | [395070-zombie-society-dead-detective-graves-and-secrets.json](./395070-zombie-society-dead-detective-graves-and-secrets.json) |
+| Zombie Society Dead Detective: Murder Case | 395069 | [395069-zombie-society-dead-detective-murder-case.json](./395069-zombie-society-dead-detective-murder-case.json) |
+| Zombie Society Dead Detective: Pumpkin Dead | 395072 | [395072-zombie-society-dead-detective-pumpkin-dead.json](./395072-zombie-society-dead-detective-pumpkin-dead.json) |
+| Zombie Society Dead Detective: Roving Eyes | 395068 | [395068-zombie-society-dead-detective-roving-eyes.json](./395068-zombie-society-dead-detective-roving-eyes.json) |
 | Zombie Society Dead Detective: Walls can Bleed | 95954 | [95954-zombie-society-dead-detective-walls-can-bleed.json](./95954-zombie-society-dead-detective-walls-can-bleed.json) |
 | Zombie Society: Dead Detective | 28019 | [28019-zombie-society-dead-detective.json](./28019-zombie-society-dead-detective.json) |
 | Zombie Sokoban for Playdate | 230792 | [230792-zombie-sokoban-for-playdate.json](./230792-zombie-sokoban-for-playdate.json) |
