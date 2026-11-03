@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veggie Menace | 203926 | [203926-veggie-menace.json](./203926-veggie-menace.json) |
 | Veggie Panino Tactics | 323787 | [323787-veggie-panino-tactics.json](./323787-veggie-panino-tactics.json) |
 | Veggie Samurai | 94124 | [94124-veggie-samurai.json](./94124-veggie-samurai.json) |
+| Veggie Stand | 384480 | [384480-veggie-stand.json](./384480-veggie-stand.json) |
 | Veggie Tales 3D | 269838 | [269838-veggie-tales-3d.json](./269838-veggie-tales-3d.json) |
 | Veggie Warfare: Feast of Fury | 394386 | [394386-veggie-warfare-feast-of-fury.json](./394386-veggie-warfare-feast-of-fury.json) |
 | Veggies vs. Undead | 290659 | [290659-veggies-vs-undead.json](./290659-veggies-vs-undead.json) |
@@ -2533,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Frenzy: Nexus Corps | 349970 | [349970-virtual-frenzy-nexus-corps.json](./349970-virtual-frenzy-nexus-corps.json) |
 | Virtual girl save virtual boy | 282016 | [282016-virtual-girl-save-virtual-boy.json](./282016-virtual-girl-save-virtual-boy.json) |
 | Virtual Girlfriend Dating Simulator | 289196 | [289196-virtual-girlfriend-dating-simulator.json](./289196-virtual-girlfriend-dating-simulator.json) |
+| Virtual Girlfriend Lia | 384813 | [384813-virtual-girlfriend-lia.json](./384813-virtual-girlfriend-lia.json) |
 | Virtual Goaltender | 86861 | [86861-virtual-goaltender.json](./86861-virtual-goaltender.json) |
 | Virtual Golf | 13261 | [13261-virtual-golf.json](./13261-virtual-golf.json) |
 | Virtual Goose! | 301138 | [301138-virtual-goose.json](./301138-virtual-goose.json) |
@@ -3632,6 +3634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Blade of Blocks | 334924 | [334924-vr-blade-of-blocks.json](./334924-vr-blade-of-blocks.json) |
 | VR Boyfriend | 196337 | [196337-vr-boyfriend.json](./196337-vr-boyfriend.json) |
 | VR Brewing Simulator | 158631 | [158631-vr-brewing-simulator.json](./158631-vr-brewing-simulator.json) |
+| VR Bukkake | 384684 | [384684-vr-bukkake.json](./384684-vr-bukkake.json) |
 | VR Catgirl | 162846 | [162846-vr-catgirl.json](./162846-vr-catgirl.json) |
 | VR Catgirl Isle 2100 | 325508 | [325508-vr-catgirl-isle-2100.json](./325508-vr-catgirl-isle-2100.json) |
 | VR Chair Games | 29227 | [29227-vr-chair-games.json](./29227-vr-chair-games.json) |
@@ -3703,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Hentai Girl | 366539 | [366539-vr-hentai-girl.json](./366539-vr-hentai-girl.json) |
 | VR Hentai Hot | 384635 | [384635-vr-hentai-hot.json](./384635-vr-hentai-hot.json) |
 | VR Hentai Room | 366540 | [366540-vr-hentai-room.json](./366540-vr-hentai-room.json) |
+| VR Hentai Sex Party | 384683 | [384683-vr-hentai-sex-party.json](./384683-vr-hentai-sex-party.json) |
 | VR Hero Sentry | 110715 | [110715-vr-hero-sentry.json](./110715-vr-hero-sentry.json) |
 | VR Hiroshima 1945 | 160140 | [160140-vr-hiroshima-1945.json](./160140-vr-hiroshima-1945.json) |
 | VR Hockey League | 72515 | [72515-vr-hockey-league.json](./72515-vr-hockey-league.json) |
