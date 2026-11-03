@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factorized | 421349 | [421349-factorized.json](./421349-factorized.json) |
 | Factory | 400736 | [400736-factory.json](./400736-factory.json) |
 | Factory & Roof Collection | 328529 | [328529-factory-and-roof-collection.json](./328529-factory-and-roof-collection.json) |
+| Factory 95 | 380969 | [380969-factory-95.json](./380969-factory-95.json) |
 | Factory Balls | 224951 | [224951-factory-balls.json](./224951-factory-balls.json) |
 | Factory Balls | 87256 | [87256-factory-balls.json](./87256-factory-balls.json) |
 | Factory Balls 2 | 225277 | [225277-factory-balls-2.json](./225277-factory-balls-2.json) |
@@ -4792,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VI: Brave New World Final Frontier | 360105 | [360105-final-fantasy-vi-brave-new-world-final-frontier.json](./360105-final-fantasy-vi-brave-new-world-final-frontier.json) |
 | Final Fantasy VI: Divergent Paths | 326643 | [326643-final-fantasy-vi-divergent-paths.json](./326643-final-fantasy-vi-divergent-paths.json) |
 | Final Fantasy VI: General Leo Edition | 339239 | [339239-final-fantasy-vi-general-leo-edition.json](./339239-final-fantasy-vi-general-leo-edition.json) |
+| Final Fantasy VI: Hope Eternal and Love Everlasting | 381163 | [381163-final-fantasy-vi-hope-eternal-and-love-everlasting.json](./381163-final-fantasy-vi-hope-eternal-and-love-everlasting.json) |
 | Final Fantasy VI: Omega-A | 393097 | [393097-final-fantasy-vi-omega-a.json](./393097-final-fantasy-vi-omega-a.json) |
 | Final Fantasy VI: Presentiment Era | 339252 | [339252-final-fantasy-vi-presentiment-era.json](./339252-final-fantasy-vi-presentiment-era.json) |
 | Final Fantasy VI: Return of the Dark Sorcerer | 246588 | [246588-final-fantasy-vi-return-of-the-dark-sorcerer.json](./246588-final-fantasy-vi-return-of-the-dark-sorcerer.json) |
@@ -5277,6 +5279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Your Way | 98709 | [98709-find-your-way.json](./98709-find-your-way.json) |
 | Find Your Way: Episode 1 | 171925 | [171925-find-your-way-episode-1.json](./171925-find-your-way-episode-1.json) |
 | Find Your Wings | 214273 | [214273-find-your-wings.json](./214273-find-your-wings.json) |
+| Find Your Words | 380957 | [380957-find-your-words.json](./380957-find-your-words.json) |
 | Find Yourself | 143776 | [143776-find-yourself.json](./143776-find-yourself.json) |
 | Find-a-frog | 229011 | [229011-find-a-frog.json](./229011-find-a-frog.json) |
 | Find-Life EP1 | 113500 | [113500-find-life-ep1.json](./113500-find-life-ep1.json) |
