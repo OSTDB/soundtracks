@@ -2282,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Princess | 134922 | [134922-save-the-princess.json](./134922-save-the-princess.json) |
 | Save the Princess | 216927 | [216927-save-the-princess.json](./216927-save-the-princess.json) |
 | Save the Princess? Save a Fart! | 405464 | [405464-save-the-princess-save-a-fart.json](./405464-save-the-princess-save-a-fart.json) |
+| Save the Puppies | 378138 | [378138-save-the-puppies.json](./378138-save-the-puppies.json) |
 | Save the Puppy: Pet Dog Rescue | 221384 | [221384-save-the-puppy-pet-dog-rescue.json](./221384-save-the-puppy-pet-dog-rescue.json) |
 | Save the Queen | 223358 | [223358-save-the-queen.json](./223358-save-the-queen.json) |
 | Save The Queen | 343783 | [343783-save-the-queen.json](./343783-save-the-queen.json) |
@@ -7079,6 +7080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shardhunters | 128282 | [128282-shardhunters.json](./128282-shardhunters.json) |
 | Shardlight: Deluxe | 53601 | [53601-shardlight-deluxe.json](./53601-shardlight-deluxe.json) |
 | Shardlight: Special Edition | 51912 | [51912-shardlight-special-edition.json](./51912-shardlight-special-edition.json) |
+| Shardpunk 2 | 378128 | [378128-shardpunk-2.json](./378128-shardpunk-2.json) |
 | Shardpunk: Verminfall - Rat Pack | 255149 | [255149-shardpunk-verminfall-rat-pack.json](./255149-shardpunk-verminfall-rat-pack.json) |
 | Shards of Azuria | 32164 | [32164-shards-of-azuria.json](./32164-shards-of-azuria.json) |
 | Shards of Chaos | 187729 | [187729-shards-of-chaos.json](./187729-shards-of-chaos.json) |
@@ -8260,6 +8262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Regulus | 263970 | [263970-ship-regulus.json](./263970-ship-regulus.json) |
 | Ship Rescue | 97273 | [97273-ship-rescue.json](./97273-ship-rescue.json) |
 | Ship Shape | 263590 | [263590-ship-shape.json](./263590-ship-shape.json) |
+| Ship Shape Slam!!! | 378137 | [378137-ship-shape-slam.json](./378137-ship-shape-slam.json) |
 | Ship Shifters | 151487 | [151487-ship-shifters.json](./151487-ship-shifters.json) |
 | Ship Sim 2020 | 146819 | [146819-ship-sim-2020.json](./146819-ship-sim-2020.json) |
 | Ship Simulator | 327584 | [327584-ship-simulator.json](./327584-ship-simulator.json) |
@@ -13378,9 +13381,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64 Colorful Stars | 313109 | [313109-sm64-colorful-stars.json](./313109-sm64-colorful-stars.json) |
 | SM64 Coop Deluxe: Mario in the Multiverse | 378261 | [378261-sm64-coop-deluxe-mario-in-the-multiverse.json](./378261-sm64-coop-deluxe-mario-in-the-multiverse.json) |
 | SM64 Coop DX: Bananza Kong | 386853 | [386853-sm64-coop-dx-bananza-kong.json](./386853-sm64-coop-dx-bananza-kong.json) |
+| SM64 Coop DX: Goomba's Easter Egg Hunt | 378331 | [378331-sm64-coop-dx-goombas-easter-egg-hunt.json](./378331-sm64-coop-dx-goombas-easter-egg-hunt.json) |
 | SM64 Coop DX: Mario on Indigo Island | 378332 | [378332-sm64-coop-dx-mario-on-indigo-island.json](./378332-sm64-coop-dx-mario-on-indigo-island.json) |
+| SM64 Coop DX: Organ of Matrias | 378328 | [378328-sm64-coop-dx-organ-of-matrias.json](./378328-sm64-coop-dx-organ-of-matrias.json) |
+| SM64 Coop DX: SM64 - The Green Comet | 378330 | [378330-sm64-coop-dx-sm64-the-green-comet.json](./378330-sm64-coop-dx-sm64-the-green-comet.json) |
+| SM64 Coop DX: Star Revenge 4.5 - The Kedama Takeover Rewritten | 378329 | [378329-sm64-coop-dx-star-revenge-4-5-the-kedama-takeover-rewritten.json](./378329-sm64-coop-dx-star-revenge-4-5-the-kedama-takeover-rewritten.json) |
 | SM64 Coop DX: Super Mario World in Super Mario 64 | 360171 | [360171-sm64-coop-dx-super-mario-world-in-super-mario-64.json](./360171-sm64-coop-dx-super-mario-world-in-super-mario-64.json) |
 | SM64 Coop DX: Uranium Mario 64 | 378333 | [378333-sm64-coop-dx-uranium-mario-64.json](./378333-sm64-coop-dx-uranium-mario-64.json) |
+| SM64 Coop DX: Waluigi's Taco Stand | 378327 | [378327-sm64-coop-dx-waluigis-taco-stand.json](./378327-sm64-coop-dx-waluigis-taco-stand.json) |
 | SM64 from Memory | 362717 | [362717-sm64-from-memory.json](./362717-sm64-from-memory.json) |
 | SM64 GBA | 314743 | [314743-sm64-gba.json](./314743-sm64-gba.json) |
 | SM64 Generations | 195080 | [195080-sm64-generations.json](./195080-sm64-generations.json) |
@@ -13404,6 +13412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64DS: The Adventurous Journey | 315012 | [315012-sm64ds-the-adventurous-journey.json](./315012-sm64ds-the-adventurous-journey.json) |
 | SM64EX | 199212 | [199212-sm64ex.json](./199212-sm64ex.json) |
 | SM64EX Coop | 198369 | [198369-sm64ex-coop.json](./198369-sm64ex-coop.json) |
+| SM64EX Coop: King Boo's Revenge X | 378324 | [378324-sm64ex-coop-king-boos-revenge-x.json](./378324-sm64ex-coop-king-boos-revenge-x.json) |
 | SM64EX Coop: Lug's Delightful Dioramas | 378300 | [378300-sm64ex-coop-lugs-delightful-dioramas.json](./378300-sm64ex-coop-lugs-delightful-dioramas.json) |
 | SM64EX Coop: Mega Man X | 297999 | [297999-sm64ex-coop-mega-man-x.json](./297999-sm64ex-coop-mega-man-x.json) |
 | SM64EX Coop: Odyssey Mario's Moveset - Rebirth | 378302 | [378302-sm64ex-coop-odyssey-marios-moveset-rebirth.json](./378302-sm64ex-coop-odyssey-marios-moveset-rebirth.json) |
@@ -13415,7 +13424,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64EX Coop: SM64 Trouble Town | 378264 | [378264-sm64ex-coop-sm64-trouble-town.json](./378264-sm64ex-coop-sm64-trouble-town.json) |
 | SM64EX Coop: Star Revenge 2 - Night of Doom | 378298 | [378298-sm64ex-coop-star-revenge-2-night-of-doom.json](./378298-sm64ex-coop-star-revenge-2-night-of-doom.json) |
 | SM64EX Coop: Star Revenge 4 - The Kedama Takeover 64 | 378267 | [378267-sm64ex-coop-star-revenge-4-the-kedama-takeover-64.json](./378267-sm64ex-coop-star-revenge-4-the-kedama-takeover-64.json) |
+| SM64EX Coop: Super Mario 64 - Twisted Adventures | 378326 | [378326-sm64ex-coop-super-mario-64-twisted-adventures.json](./378326-sm64ex-coop-super-mario-64-twisted-adventures.json) |
 | SM64EX Coop: Super Mario 64 Moonshine | 378301 | [378301-sm64ex-coop-super-mario-64-moonshine.json](./378301-sm64ex-coop-super-mario-64-moonshine.json) |
+| SM64EX Coop: Super Mario and the Marvel Adventure | 378323 | [378323-sm64ex-coop-super-mario-and-the-marvel-adventure.json](./378323-sm64ex-coop-super-mario-and-the-marvel-adventure.json) |
+| SM64EX Coop: The Gate of the Good | 378325 | [378325-sm64ex-coop-the-gate-of-the-good.json](./378325-sm64ex-coop-the-gate-of-the-good.json) |
 | SM64EX Coop: Yoshi's Adventure 64 | 378263 | [378263-sm64ex-coop-yoshis-adventure-64.json](./378263-sm64ex-coop-yoshis-adventure-64.json) |
 | SM64EX OMM: Super Mario 64 - The Green Stars | 378236 | [378236-sm64ex-omm-super-mario-64-the-green-stars.json](./378236-sm64ex-omm-super-mario-64-the-green-stars.json) |
 | SM64EX OMM: Super Mario 74 | 378237 | [378237-sm64ex-omm-super-mario-74.json](./378237-sm64ex-omm-super-mario-74.json) |
@@ -24463,6 +24475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station 37 | 277027 | [277027-station-37.json](./277027-station-37.json) |
 | Station 5 | 281313 | [281313-station-5.json](./281313-station-5.json) |
 | Station 5 | 307931 | [307931-station-5.json](./307931-station-5.json) |
+| Station 58 | 378136 | [378136-station-58.json](./378136-station-58.json) |
 | Station 7 | 384602 | [384602-station-7.json](./384602-station-7.json) |
 | Station 99 | 238572 | [238572-station-99.json](./238572-station-99.json) |
 | Station Command | 402523 | [402523-station-command.json](./402523-station-command.json) |
@@ -26225,6 +26238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger Things: Puzzle Tales | 197248 | [197248-stranger-things-puzzle-tales.json](./197248-stranger-things-puzzle-tales.json) |
 | Stranger Things: Tales from '85 | 400515 | [400515-stranger-things-tales-from-85.json](./400515-stranger-things-tales-from-85.json) |
 | Stranger Things: Will's Side Quest | 120708 | [120708-stranger-things-wills-side-quest.json](./120708-stranger-things-wills-side-quest.json) |
+| Stranger's Mark | 378140 | [378140-strangers-mark.json](./378140-strangers-mark.json) |
 | Strangers at Night | 178511 | [178511-strangers-at-night.json](./178511-strangers-at-night.json) |
 | Strangers Awaken | 262377 | [262377-strangers-awaken.json](./262377-strangers-awaken.json) |
 | Strangers in a Strange Land | 44202 | [44202-strangers-in-a-strange-land.json](./44202-strangers-in-a-strange-land.json) |
