@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Hack//G.U. Vol. 3: Redemption | 12027 | [12027-hack-g-u-vol-3-redemption.json](./12027-hack-g-u-vol-3-redemption.json) |
 | .Hack//G.U. Vol. 3: Redemption HD | 182461 | [182461-hack-g-u-vol-3-redemption-hd.json](./182461-hack-g-u-vol-3-redemption-hd.json) |
 | .Hack//G.U. Vol. 4: Reconnection | 140841 | [140841-hack-g-u-vol-4-reconnection.json](./140841-hack-g-u-vol-4-reconnection.json) |
+| .hack//Gift+Vol.1~4 | 382790 | [382790-hack-gift-vol-1-4.json](./382790-hack-gift-vol-1-4.json) |
 | .Hack//Infection | 11807 | [11807-hack-infection.json](./11807-hack-infection.json) |
 | .Hack//Mutation | 11808 | [11808-hack-mutation.json](./11808-hack-mutation.json) |
 | .Hack//Outbreak | 11809 | [11809-hack-outbreak.json](./11809-hack-outbreak.json) |
