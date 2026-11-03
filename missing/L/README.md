@@ -3538,7 +3538,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let’s Fall in Love | 392309 | [392309-let-s-fall-in-love.json](./392309-let-s-fall-in-love.json) |
 | Let's Fight!! Nokachan | 381117 | [381117-lets-fight-nokachan.json](./381117-lets-fight-nokachan.json) |
 | Let's Find a Way | 51496 | [51496-lets-find-a-way.json](./51496-lets-find-a-way.json) |
-| Let's Find Larry! | 279431 | [279431-lets-find-larry.json](./279431-lets-find-larry.json) |
 | Let's Fish! Hooked On | 21022 | [21022-lets-fish-hooked-on.json](./21022-lets-fish-hooked-on.json) |
 | Let's Fly Away | 321286 | [321286-lets-fly-away.json](./321286-lets-fly-away.json) |
 | Let's Freeze Some Penguins | 348717 | [348717-lets-freeze-some-penguins.json](./348717-lets-freeze-some-penguins.json) |
