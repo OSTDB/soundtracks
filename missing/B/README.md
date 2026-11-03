@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad ass babes | 31265 | [31265-bad-ass-babes.json](./31265-bad-ass-babes.json) |
 | Bad Atom Episode 1 | 70622 | [70622-bad-atom-episode-1.json](./70622-bad-atom-episode-1.json) |
 | Bad Bad | 195235 | [195235-bad-bad.json](./195235-bad-bad.json) |
+| Bad Badger | 380966 | [380966-bad-badger.json](./380966-bad-badger.json) |
 | Bad Badtz-Maru Robo Battle | 92603 | [92603-bad-badtz-maru-robo-battle.json](./92603-bad-badtz-maru-robo-battle.json) |
 | Bad Banker | 57747 | [57747-bad-banker.json](./57747-bad-banker.json) |
 | Bad Banker | 58139 | [58139-bad-banker.json](./58139-bad-banker.json) |
@@ -1035,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bag Fight: Handful Edition | 410852 | [410852-bag-fight-handful-edition.json](./410852-bag-fight-handful-edition.json) |
 | Bag Game | 411696 | [411696-bag-game.json](./411696-bag-game.json) |
 | Bag Hero | 345985 | [345985-bag-hero.json](./345985-bag-hero.json) |
+| Bag of Dreams | 381292 | [381292-bag-of-dreams.json](./381292-bag-of-dreams.json) |
 | Bag of Holding | 182698 | [182698-bag-of-holding.json](./182698-bag-of-holding.json) |
 | Bag Toss | 359328 | [359328-bag-toss.json](./359328-bag-toss.json) |
 | Bagaco | 184198 | [184198-bagaco.json](./184198-bagaco.json) |
@@ -6232,6 +6234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bent on Destruction | 195648 | [195648-bent-on-destruction.json](./195648-bent-on-destruction.json) |
 | BenTen Puzzle | 118883 | [118883-benten-puzzle.json](./118883-benten-puzzle.json) |
 | Bentley Bear’s Crystal Quest | 314440 | [314440-bentley-bear-s-crystal-quest.json](./314440-bentley-bear-s-crystal-quest.json) |
+| Bento Blocks | 380971 | [380971-bento-blocks.json](./380971-bento-blocks.json) |
 | Bento Bugs | 329354 | [329354-bento-bugs.json](./329354-bento-bugs.json) |
 | Bento no Subarashisa wo Ano 2-do 3-do: Nama-ham to Yaki-udon Hen | 336179 | [336179-bento-no-subarashisa-wo-ano-2-do-3-do-nama-ham-to-yaki-udon-hen.json](./336179-bento-no-subarashisa-wo-ano-2-do-3-do-nama-ham-to-yaki-udon-hen.json) |
 | BentoBlox | 108913 | [108913-bentoblox.json](./108913-bentoblox.json) |
@@ -8861,6 +8864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack | 27230 | [27230-blackjack.json](./27230-blackjack.json) |
 | Blackjack | 315460 | [315460-blackjack.json](./315460-blackjack.json) |
 | Blackjack | 348302 | [348302-blackjack.json](./348302-blackjack.json) |
+| Blackjack | 380955 | [380955-blackjack.json](./380955-blackjack.json) |
 | Blackjack | 41530 | [41530-blackjack.json](./41530-blackjack.json) |
 | Blackjack | 418292 | [418292-blackjack.json](./418292-blackjack.json) |
 | Blackjack / Poker / Acey-Deucey | 169265 | [169265-blackjack-poker-acey-deucey.json](./169265-blackjack-poker-acey-deucey.json) |
@@ -10717,6 +10721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodshots | 277436 | [277436-bloodshots.json](./277436-bloodshots.json) |
 | Bloodsong | 280103 | [280103-bloodsong.json](./280103-bloodsong.json) |
 | Bloodspeed | 257299 | [257299-bloodspeed.json](./257299-bloodspeed.json) |
+| Bloodspill | 380962 | [380962-bloodspill.json](./380962-bloodspill.json) |
 | BloodSpiller | 392805 | [392805-bloodspiller.json](./392805-bloodspiller.json) |
 | BloodSpire | 411005 | [411005-bloodspire.json](./411005-bloodspire.json) |
 | Bloodsports.TV | 10057 | [10057-bloodsports-tv.json](./10057-bloodsports-tv.json) |
@@ -15101,6 +15106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Aperture | 372221 | [372221-broken-aperture.json](./372221-broken-aperture.json) |
 | Broken Armor | 31900 | [31900-broken-armor.json](./31900-broken-armor.json) |
 | Broken Arrow | 147187 | [147187-broken-arrow.json](./147187-broken-arrow.json) |
+| Broken Arrow: Baltic Battalion | 380986 | [380986-broken-arrow-baltic-battalion.json](./380986-broken-arrow-baltic-battalion.json) |
 | Broken Banners | 192839 | [192839-broken-banners.json](./192839-broken-banners.json) |
 | Broken Betrayal | 190921 | [190921-broken-betrayal.json](./190921-broken-betrayal.json) |
 | Broken Bird: Spread Your Wings | 210320 | [210320-broken-bird-spread-your-wings.json](./210320-broken-bird-spread-your-wings.json) |
