@@ -8951,6 +8951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Chase | 79109 | [79109-rocket-chase.json](./79109-rocket-chase.json) |
 | Rocket Chicken | 254975 | [254975-rocket-chicken.json](./254975-rocket-chicken.json) |
 | Rocket Chimp | 252553 | [252553-rocket-chimp.json](./252553-rocket-chimp.json) |
+| Rocket Club | 388084 | [388084-rocket-club.json](./388084-rocket-club.json) |
 | Rocket Coaster | 82928 | [82928-rocket-coaster.json](./82928-rocket-coaster.json) |
 | Rocket Commander VR | 394289 | [394289-rocket-commander-vr.json](./394289-rocket-commander-vr.json) |
 | Rocket Control | 242478 | [242478-rocket-control.json](./242478-rocket-control.json) |
@@ -11924,6 +11925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeforged: Monolith | 389856 | [389856-runeforged-monolith.json](./389856-runeforged-monolith.json) |
 | RuneKeeper | 396664 | [396664-runekeeper.json](./396664-runekeeper.json) |
 | RuneLight | 250858 | [250858-runelight.json](./250858-runelight.json) |
+| Runeline | 388081 | [388081-runeline.json](./388081-runeline.json) |
 | RuneLite | 142955 | [142955-runelite.json](./142955-runelite.json) |
 | Runelords | 208730 | [208730-runelords.json](./208730-runelords.json) |
 | Runelords Arena | 142056 | [142056-runelords-arena.json](./142056-runelords-arena.json) |
