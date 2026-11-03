@@ -4924,6 +4924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renex III | 73884 | [73884-renex-iii.json](./73884-renex-iii.json) |
 | Renfield | 82885 | [82885-renfield.json](./82885-renfield.json) |
 | Renfield: Bring Your Own Blood | 245426 | [245426-renfield-bring-your-own-blood.json](./245426-renfield-bring-your-own-blood.json) |
+| Reng Azure Requiem | 372400 | [372400-reng-azure-requiem.json](./372400-reng-azure-requiem.json) |
 | Renga in Four Parts | 138150 | [138150-renga-in-four-parts.json](./138150-renga-in-four-parts.json) |
 | Rengo Kantai | 345908 | [345908-rengo-kantai.json](./345908-rengo-kantai.json) |
 | Rengoku | 325284 | [325284-rengoku.json](./325284-rengoku.json) |
@@ -7417,6 +7418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripper | 6829 | [6829-ripper.json](./6829-ripper.json) |
 | Ripper Ribbit | 130899 | [130899-ripper-ribbit.json](./130899-ripper-ribbit.json) |
 | Ripper! | 24668 | [24668-ripper.json](./24668-ripper.json) |
+| Ripperdoc Simulator | 372593 | [372593-ripperdoc-simulator.json](./372593-ripperdoc-simulator.json) |
 | Rippin' Riders Snowboarding | 26132 | [26132-rippin-riders-snowboarding.json](./26132-rippin-riders-snowboarding.json) |
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
 | Ripple | 24545 | [24545-ripple.json](./24545-ripple.json) |
@@ -10021,6 +10023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Car | 198069 | [198069-rolling-car.json](./198069-rolling-car.json) |
 | Rolling Car: Deluxe Edition | 204300 | [204300-rolling-car-deluxe-edition.json](./204300-rolling-car-deluxe-edition.json) |
 | Rolling Combine | 292573 | [292573-rolling-combine.json](./292573-rolling-combine.json) |
+| Rolling Core | 372713 | [372713-rolling-core.json](./372713-rolling-core.json) |
 | Rolling Crash | 277500 | [277500-rolling-crash.json](./277500-rolling-crash.json) |
 | Rolling Cube | 148691 | [148691-rolling-cube.json](./148691-rolling-cube.json) |
 | Rolling Cube | 246364 | [246364-rolling-cube.json](./246364-rolling-cube.json) |
