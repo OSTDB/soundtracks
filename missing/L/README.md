@@ -3860,6 +3860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters of Bernard Thorne | 337466 | [337466-letters-of-bernard-thorne.json](./337466-letters-of-bernard-thorne.json) |
 | Letters of Longing | 346619 | [346619-letters-of-longing.json](./346619-letters-of-longing.json) |
 | Letters on the Loose | 91742 | [91742-letters-on-the-loose.json](./91742-letters-on-the-loose.json) |
+| Letters Past | 382726 | [382726-letters-past.json](./382726-letters-past.json) |
 | Letters to a Friend: Farewell | 186081 | [186081-letters-to-a-friend-farewell.json](./186081-letters-to-a-friend-farewell.json) |
 | Letters to Arralla | 224565 | [224565-letters-to-arralla.json](./224565-letters-to-arralla.json) |
 | Letters to Heaven | 274463 | [274463-letters-to-heaven.json](./274463-letters-to-heaven.json) |
