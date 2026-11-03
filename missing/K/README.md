@@ -5506,6 +5506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krautscape | 16903 | [16903-krautscape.json](./16903-krautscape.json) |
 | Kraven Manor | 17326 | [17326-kraven-manor.json](./17326-kraven-manor.json) |
 | Krax Ca-caw's Concoction Chaos | 340891 | [340891-krax-ca-caws-concoction-chaos.json](./340891-krax-ca-caws-concoction-chaos.json) |
+| KRAZ | 378473 | [378473-kraz.json](./378473-kraz.json) |
 | Krazy Bowl | 40339 | [40339-krazy-bowl.json](./40339-krazy-bowl.json) |
 | Krazy Ivan | 20604 | [20604-krazy-ivan.json](./20604-krazy-ivan.json) |
 | Krazy Kakoom | 208089 | [208089-krazy-kakoom.json](./208089-krazy-kakoom.json) |
