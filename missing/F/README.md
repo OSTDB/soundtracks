@@ -4755,7 +4755,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy III | 77234 | [77234-final-fantasy-iii.json](./77234-final-fantasy-iii.json) |
 | Final Fantasy III + Final Fantasy IV: Double Pack Edition | 301387 | [301387-final-fantasy-iii-final-fantasy-iv-double-pack-edition.json](./301387-final-fantasy-iii-final-fantasy-iv-double-pack-edition.json) |
 | Final Fantasy III/VI Rumble | 377732 | [377732-final-fantasy-iii-vi-rumble.json](./377732-final-fantasy-iii-vi-rumble.json) |
-| Final Fantasy IV | 282725 | [282725-final-fantasy-iv.json](./282725-final-fantasy-iv.json) |
 | Final Fantasy IV | 283093 | [283093-final-fantasy-iv.json](./283093-final-fantasy-iv.json) |
 | Final Fantasy IV | 283313 | [283313-final-fantasy-iv.json](./283313-final-fantasy-iv.json) |
 | Final Fantasy IV | 283317 | [283317-final-fantasy-iv.json](./283317-final-fantasy-iv.json) |
@@ -5360,7 +5359,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Felicia | 208335 | [208335-finding-felicia.json](./208335-finding-felicia.json) |
 | Finding Fern | 239659 | [239659-finding-fern.json](./239659-finding-fern.json) |
 | Finding Fido: The Journey | 150978 | [150978-finding-fido-the-journey.json](./150978-finding-fido-the-journey.json) |
-| Finding Frankie | 266421 | [266421-finding-frankie.json](./266421-finding-frankie.json) |
 | Finding Frankie 2 | 404932 | [404932-finding-frankie-2.json](./404932-finding-frankie-2.json) |
 | Finding Hannah | 237954 | [237954-finding-hannah.json](./237954-finding-hannah.json) |
 | Finding Heart | 109911 | [109911-finding-heart.json](./109911-finding-heart.json) |
@@ -6700,7 +6698,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: Help Wanted | 241473 | [241473-five-nights-at-freddys-help-wanted.json](./241473-five-nights-at-freddys-help-wanted.json) |
 | Five Nights at Freddy's: Help Wanted - Bundle | 240281 | [240281-five-nights-at-freddys-help-wanted-bundle.json](./240281-five-nights-at-freddys-help-wanted-bundle.json) |
 | Five Nights at Freddy's: Help Wanted - Curse of Dreadbear | 169108 | [169108-five-nights-at-freddys-help-wanted-curse-of-dreadbear.json](./169108-five-nights-at-freddys-help-wanted-curse-of-dreadbear.json) |
-| Five Nights at Freddy's: Help Wanted 2 | 250627 | [250627-five-nights-at-freddys-help-wanted-2.json](./250627-five-nights-at-freddys-help-wanted-2.json) |
 | Five Nights at Freddy's: Help Wanted Plus | 261510 | [261510-five-nights-at-freddys-help-wanted-plus.json](./261510-five-nights-at-freddys-help-wanted-plus.json) |
 | Five Nights at Freddy's: Into Madness | 303290 | [303290-five-nights-at-freddys-into-madness.json](./303290-five-nights-at-freddys-into-madness.json) |
 | Five Nights at Freddy's: Into the Pit | 283679 | [283679-five-nights-at-freddys-into-the-pit.json](./283679-five-nights-at-freddys-into-the-pit.json) |
