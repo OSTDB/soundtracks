@@ -5290,6 +5290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcast - Walden and the Werewolf | 17228 | [17228-overcast-walden-and-the-werewolf.json](./17228-overcast-walden-and-the-werewolf.json) |
 | Overcast and Light Rain | 185011 | [185011-overcast-and-light-rain.json](./185011-overcast-and-light-rain.json) |
 | Overcat | 373530 | [373530-overcat.json](./373530-overcat.json) |
+| Overcharged | 382727 | [382727-overcharged.json](./382727-overcharged.json) |
 | Overchunked | 96416 | [96416-overchunked.json](./96416-overchunked.json) |
 | Overclocked | 71312 | [71312-overclocked.json](./71312-overclocked.json) |
 | Overclocked: A History of Violence | 21485 | [21485-overclocked-a-history-of-violence.json](./21485-overclocked-a-history-of-violence.json) |
