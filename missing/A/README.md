@@ -1245,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Two Flowers | 380229 | [380229-a-tale-of-two-flowers.json](./380229-a-tale-of-two-flowers.json) |
 | A Tale of Two Kingdoms | 29264 | [29264-a-tale-of-two-kingdoms.json](./29264-a-tale-of-two-kingdoms.json) |
 | A Tale of Two Lovers | 271116 | [271116-a-tale-of-two-lovers.json](./271116-a-tale-of-two-lovers.json) |
+| A Tale of Wind and Sea | 365385 | [365385-a-tale-of-wind-and-sea.json](./365385-a-tale-of-wind-and-sea.json) |
 | A Tangled Path | 177757 | [177757-a-tangled-path.json](./177757-a-tangled-path.json) |
 | A Tarot Reading | 183787 | [183787-a-tarot-reading.json](./183787-a-tarot-reading.json) |
 | A Taste for Blood | 273726 | [273726-a-taste-for-blood.json](./273726-a-taste-for-blood.json) |
@@ -6432,6 +6433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Breed: Special Edition 92 | 14596 | [14596-alien-breed-special-edition-92.json](./14596-alien-breed-special-edition-92.json) |
 | Alien Breed: Tower Assault | 11087 | [11087-alien-breed-tower-assault.json](./11087-alien-breed-tower-assault.json) |
 | Alien Brigade | 11865 | [11865-alien-brigade.json](./11865-alien-brigade.json) |
+| Alien Brothers 2 | 365364 | [365364-alien-brothers-2.json](./365364-alien-brothers-2.json) |
 | Alien Bubble Destroyer | 81998 | [81998-alien-bubble-destroyer.json](./81998-alien-bubble-destroyer.json) |
 | Alien Cabal | 62149 | [62149-alien-cabal.json](./62149-alien-cabal.json) |
 | Alien Carnage | 8487 | [8487-alien-carnage.json](./8487-alien-carnage.json) |
@@ -15868,6 +15870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
