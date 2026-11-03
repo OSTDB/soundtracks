@@ -4712,6 +4712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitchspace | 6070 | [6070-glitchspace.json](./6070-glitchspace.json) |
 | Glitchspankr | 282076 | [282076-glitchspankr.json](./282076-glitchspankr.json) |
 | Glitchy: Cute Loop | 396475 | [396475-glitchy-cute-loop.json](./396475-glitchy-cute-loop.json) |
+| Glitchy: Not So Sweet | 398793 | [398793-glitchy-not-so-sweet.json](./398793-glitchy-not-so-sweet.json) |
 | Glitter Justice | 251757 | [251757-glitter-justice.json](./251757-glitter-justice.json) |
 | Glitter Slime Maker | 106370 | [106370-glitter-slime-maker.json](./106370-glitter-slime-maker.json) |
 | Glitter Star Nucleus | 174600 | [174600-glitter-star-nucleus.json](./174600-glitter-star-nucleus.json) |
@@ -7069,6 +7070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotta Protectors: Cart of Darkness DLC Pack 3 | 199880 | [199880-gotta-protectors-cart-of-darkness-dlc-pack-3.json](./199880-gotta-protectors-cart-of-darkness-dlc-pack-3.json) |
 | Gotta Protectors: Cart of Darkness DLC Pack 4 | 199881 | [199881-gotta-protectors-cart-of-darkness-dlc-pack-4.json](./199881-gotta-protectors-cart-of-darkness-dlc-pack-4.json) |
 | GottaGoFast | 275211 | [275211-gottagofast.json](./275211-gottagofast.json) |
+| Gotthic II: The Sisters | 398775 | [398775-gotthic-ii-the-sisters.json](./398775-gotthic-ii-the-sisters.json) |
 | Götzendiener | 19661 | [19661-gotzendiener.json](./19661-gotzendiener.json) |
 | Goubakuran: RumbleStorm | 260742 | [260742-goubakuran-rumblestorm.json](./260742-goubakuran-rumblestorm.json) |
 | Goudall | 350616 | [350616-goudall.json](./350616-goudall.json) |
