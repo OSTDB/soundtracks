@@ -1566,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggstinct! | 392254 | [392254-eggstinct.json](./392254-eggstinct.json) |
 | Eggstraction | 294300 | [294300-eggstraction.json](./294300-eggstraction.json) |
 | Eggstreme Farming | 416949 | [416949-eggstreme-farming.json](./416949-eggstreme-farming.json) |
+| Eggtastic | 382805 | [382805-eggtastic.json](./382805-eggtastic.json) |
 | EggTime 2 | 101452 | [101452-eggtime-2.json](./101452-eggtime-2.json) |
 | Eggular Game | 307310 | [307310-eggular-game.json](./307310-eggular-game.json) |
 | Eggventure | 390125 | [390125-eggventure.json](./390125-eggventure.json) |
@@ -3220,6 +3221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empyrios: Prophecy of Flame | 61288 | [61288-empyrios-prophecy-of-flame.json](./61288-empyrios-prophecy-of-flame.json) |
 | Emre and Jevon's Tale of Knowledge, Emulating a Dream Where You Gain Wisdom and Knowledge and Probably Meet Hermes | 323301 | [323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json](./323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json) |
 | Emross War | 343482 | [343482-emross-war.json](./343482-emross-war.json) |
+| Emu Empire | 382738 | [382738-emu-empire.json](./382738-emu-empire.json) |
 | Emu Otori Clicker | 341993 | [341993-emu-otori-clicker.json](./341993-emu-otori-clicker.json) |
 | Emu War! | 128180 | [128180-emu-war.json](./128180-emu-war.json) |
 | Emüd | 60842 | [60842-emud.json](./60842-emud.json) |
@@ -3343,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encore! | 372557 | [372557-encore.json](./372557-encore.json) |
 | Encore! | 380428 | [380428-encore.json](./380428-encore.json) |
 | Encounter | 24507 | [24507-encounter.json](./24507-encounter.json) |
+| Encounter | 382799 | [382799-encounter.json](./382799-encounter.json) |
 | Encounter | 81445 | [81445-encounter.json](./81445-encounter.json) |
 | Encounter at L-5 | 18772 | [18772-encounter-at-l-5.json](./18772-encounter-at-l-5.json) |
 | Encounter At L5 | 40673 | [40673-encounter-at-l5.json](./40673-encounter-at-l5.json) |
