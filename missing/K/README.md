@@ -1962,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kharon 108 | 194170 | [194170-kharon-108.json](./194170-kharon-108.json) |
 | Kharon's Crypt: Even Death May Die | 74721 | [74721-kharons-crypt-even-death-may-die.json](./74721-kharons-crypt-even-death-may-die.json) |
 | Khatyrka: Prelude | 229967 | [229967-khatyrka-prelude.json](./229967-khatyrka-prelude.json) |
+| Khazyle | 394354 | [394354-khazyle.json](./394354-khazyle.json) |
 | Khemia | 136460 | [136460-khemia.json](./136460-khemia.json) |
 | Khemia | 378556 | [378556-khemia.json](./378556-khemia.json) |
 | Kheshig Treasure Empires Fight | 240865 | [240865-kheshig-treasure-empires-fight.json](./240865-kheshig-treasure-empires-fight.json) |
@@ -5623,6 +5624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KSTG | 395364 | [395364-kstg.json](./395364-kstg.json) |
 | KSudoku | 263610 | [263610-ksudoku.json](./263610-ksudoku.json) |
 | Ktgame | 189877 | [189877-ktgame.json](./189877-ktgame.json) |
+| Ktrl Smash | 394303 | [394303-ktrl-smash.json](./394303-ktrl-smash.json) |
 | KTX-1 | 170044 | [170044-ktx-1.json](./170044-ktx-1.json) |
 | Ku Blast Brawl | 133699 | [133699-ku-blast-brawl.json](./133699-ku-blast-brawl.json) |
 | Ku Gyoku Den | 216761 | [216761-ku-gyoku-den.json](./216761-ku-gyoku-den.json) |
