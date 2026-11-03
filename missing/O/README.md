@@ -2584,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Ton Reloaded | 234173 | [234173-one-ton-reloaded.json](./234173-one-ton-reloaded.json) |
 | One Tower | 58103 | [58103-one-tower.json](./58103-one-tower.json) |
 | One Tower Defense | 390517 | [390517-one-tower-defense.json](./390517-one-tower-defense.json) |
+| One Trillion Free Draws | 360317 | [360317-one-trillion-free-draws.json](./360317-one-trillion-free-draws.json) |
 | One Troll Army | 19302 | [19302-one-troll-army.json](./19302-one-troll-army.json) |
 | One True Cuddle | 158633 | [158633-one-true-cuddle.json](./158633-one-true-cuddle.json) |
 | One True Hero | 208434 | [208434-one-true-hero.json](./208434-one-true-hero.json) |
