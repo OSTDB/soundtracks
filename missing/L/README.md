@@ -2661,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Road Online | 279158 | [279158-legendary-road-online.json](./279158-legendary-road-online.json) |
 | Legendary Slide | 261781 | [261781-legendary-slide.json](./261781-legendary-slide.json) |
 | Legendary Slide 2: Platinum Edition | 266814 | [266814-legendary-slide-2-platinum-edition.json](./266814-legendary-slide-2-platinum-edition.json) |
+| Legendary Spell | 393888 | [393888-legendary-spell.json](./393888-legendary-spell.json) |
 | Legendary Spell: Deluxe Edition | 395679 | [395679-legendary-spell-deluxe-edition.json](./395679-legendary-spell-deluxe-edition.json) |
 | Legendary Spell: Spell Panic | 393901 | [393901-legendary-spell-spell-panic.json](./393901-legendary-spell-spell-panic.json) |
 | Legendary Sword | 193643 | [193643-legendary-sword.json](./193643-legendary-sword.json) |
