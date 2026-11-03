@@ -1554,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Goemon: Tengu-tou no Gyakushuu! | 129172 | [129172-ganbare-goemon-tengu-tou-no-gyakushuu.json](./129172-ganbare-goemon-tengu-tou-no-gyakushuu.json) |
 | Ganbare Goemon: Tentekomai-mai Meikyuu-kan | 186467 | [186467-ganbare-goemon-tentekomai-mai-meikyuu-kan.json](./186467-ganbare-goemon-tentekomai-mai-meikyuu-kan.json) |
 | Ganbare Goemon: Toukai Douchuu Ooedo Tengurigaeshi no Maki | 73299 | [73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json](./73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json) |
+| Ganbare Goemon: Yukihime Kyuushutsu Emaki | 371833 | [371833-ganbare-goemon-yukihime-kyuushutsu-emaki.json](./371833-ganbare-goemon-yukihime-kyuushutsu-emaki.json) |
 | Ganbare Goemon!: Karakuri Douchuu | 41718 | [41718-ganbare-goemon-karakuri-douchuu.json](./41718-ganbare-goemon-karakuri-douchuu.json) |
 | Ganbare Golf Boys | 44330 | [44330-ganbare-golf-boys.json](./44330-ganbare-golf-boys.json) |
 | Ganbare Jajamaru Saisho ha Goo | 234221 | [234221-ganbare-jajamaru-saisho-ha-goo.json](./234221-ganbare-jajamaru-saisho-ha-goo.json) |
@@ -7482,6 +7483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Piano Keys | 200552 | [200552-grand-piano-keys.json](./200552-grand-piano-keys.json) |
 | Grand Piano Simulator | 312440 | [312440-grand-piano-simulator.json](./312440-grand-piano-simulator.json) |
 | Grand Pigeon's Duty | 33346 | [33346-grand-pigeons-duty.json](./33346-grand-pigeons-duty.json) |
+| Grand Poker Casino | 371816 | [371816-grand-poker-casino.json](./371816-grand-poker-casino.json) |
 | Grand Poo World | 138218 | [138218-grand-poo-world.json](./138218-grand-poo-world.json) |
 | Grand Poo World II | 138219 | [138219-grand-poo-world-ii.json](./138219-grand-poo-world-ii.json) |
 | Grand Poo World III | 277198 | [277198-grand-poo-world-iii.json](./277198-grand-poo-world-iii.json) |
@@ -8428,6 +8430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy Words | 209778 | [209778-greedy-words.json](./209778-greedy-words.json) |
 | Greedy Worm | 212523 | [212523-greedy-worm.json](./212523-greedy-worm.json) |
 | GreedyCraft | 204701 | [204701-greedycraft.json](./204701-greedycraft.json) |
+| Greek Kitchen Frenzy: Dionysus | 371831 | [371831-greek-kitchen-frenzy-dionysus.json](./371831-greek-kitchen-frenzy-dionysus.json) |
 | Greek Kitchen Frenzy: Dionysus - Collector's Edition | 337249 | [337249-greek-kitchen-frenzy-dionysus-collectors-edition.json](./337249-greek-kitchen-frenzy-dionysus-collectors-edition.json) |
 | Greek Letters and Alphabet 2 | 99394 | [99394-greek-letters-and-alphabet-2.json](./99394-greek-letters-and-alphabet-2.json) |
 | Greek Tragedy | 182699 | [182699-greek-tragedy.json](./182699-greek-tragedy.json) |
