@@ -1316,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldr Sky | 127153 | [127153-baldr-sky.json](./127153-baldr-sky.json) |
 | Baldr Sky "Zero" | 54941 | [54941-baldr-sky-zero.json](./54941-baldr-sky-zero.json) |
 | Baldr Sky "Zero" Extreme | 182150 | [182150-baldr-sky-zero-extreme.json](./182150-baldr-sky-zero-extreme.json) |
+| Baldr Sky Dive2: Recordare | 396298 | [396298-baldr-sky-dive2-recordare.json](./396298-baldr-sky-dive2-recordare.json) |
 | Baldr Sky: Zero 2 | 54744 | [54744-baldr-sky-zero-2.json](./54744-baldr-sky-zero-2.json) |
 | Baldr's Squid Isekai: A Parody | 273362 | [273362-baldrs-squid-isekai-a-parody.json](./273362-baldrs-squid-isekai-a-parody.json) |
 | Baldrhead: Busou Kinyuu Gaiden | 180223 | [180223-baldrhead-busou-kinyuu-gaiden.json](./180223-baldrhead-busou-kinyuu-gaiden.json) |
@@ -9100,6 +9101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades Away | 242463 | [242463-blades-away.json](./242463-blades-away.json) |
 | Blades of Avernum | 73536 | [73536-blades-of-avernum.json](./73536-blades-of-avernum.json) |
 | Blades of Brim | 28822 | [28822-blades-of-brim.json](./28822-blades-of-brim.json) |
+| Blades of Crossed Hearts | 396313 | [396313-blades-of-crossed-hearts.json](./396313-blades-of-crossed-hearts.json) |
 | Blades of Exile | 19579 | [19579-blades-of-exile.json](./19579-blades-of-exile.json) |
 | Blades of Fury | 23260 | [23260-blades-of-fury.json](./23260-blades-of-fury.json) |
 | Blades of Heaven | 72174 | [72174-blades-of-heaven.json](./72174-blades-of-heaven.json) |
@@ -11084,14 +11086,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Reflection Ray | 396234 | [396234-blue-reflection-ray.json](./396234-blue-reflection-ray.json) |
 | Blue Reflection Sun | 154785 | [154785-blue-reflection-sun.json](./154785-blue-reflection-sun.json) |
 | Blue Reflection Sun | 396235 | [396235-blue-reflection-sun.json](./396235-blue-reflection-sun.json) |
+| Blue Reflection: Bonus Costume Nightless Saber | 396320 | [396320-blue-reflection-bonus-costume-nightless-saber.json](./396320-blue-reflection-bonus-costume-nightless-saber.json) |
 | Blue Reflection: Final Fantasy XV Costumes | 396396 | [396396-blue-reflection-final-fantasy-xv-costumes.json](./396396-blue-reflection-final-fantasy-xv-costumes.json) |
 | Blue Reflection: Premium Box | 167079 | [167079-blue-reflection-premium-box.json](./167079-blue-reflection-premium-box.json) |
+| Blue Reflection: Seasons Pass | 396318 | [396318-blue-reflection-seasons-pass.json](./396318-blue-reflection-seasons-pass.json) |
 | Blue Reflection: Second Light | 154784 | [154784-blue-reflection-second-light.json](./154784-blue-reflection-second-light.json) |
 | Blue Reflection: Second Light | 396237 | [396237-blue-reflection-second-light.json](./396237-blue-reflection-second-light.json) |
 | Blue Reflection: Second Light - Premium Box | 155073 | [155073-blue-reflection-second-light-premium-box.json](./155073-blue-reflection-second-light-premium-box.json) |
+| Blue Reflection: Second Light - Ryza's Outfit: Special Costume for Ao | 396265 | [396265-blue-reflection-second-light-ryzas-outfit-special-costume-for-ao.json](./396265-blue-reflection-second-light-ryzas-outfit-special-costume-for-ao.json) |
 | Blue Reflection: Second Light - Season Pass | 396336 | [396336-blue-reflection-second-light-season-pass.json](./396336-blue-reflection-second-light-season-pass.json) |
 | Blue Reflection: Second Light - Special Collection Box | 155072 | [155072-blue-reflection-second-light-special-collection-box.json](./155072-blue-reflection-second-light-special-collection-box.json) |
 | Blue Reflection: Second Light - Ultimate Edition | 237859 | [237859-blue-reflection-second-light-ultimate-edition.json](./237859-blue-reflection-second-light-ultimate-edition.json) |
+| Blue Reflection: Second Light Additional Map - Atelier Ryza Collab Dungeon | 396319 | [396319-blue-reflection-second-light-additional-map-atelier-ryza-collab-dungeon.json](./396319-blue-reflection-second-light-additional-map-atelier-ryza-collab-dungeon.json) |
+| Blue Reflection: Special Event | 396303 | [396303-blue-reflection-special-event.json](./396303-blue-reflection-special-event.json) |
 | Blue Revolver | 24928 | [24928-blue-revolver.json](./24928-blue-revolver.json) |
 | Blue Ribbon Darts | 159275 | [159275-blue-ribbon-darts.json](./159275-blue-ribbon-darts.json) |
 | Blue Ribbon Show Jumper | 52472 | [52472-blue-ribbon-show-jumper.json](./52472-blue-ribbon-show-jumper.json) |
@@ -12073,6 +12080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomi Omyeon Kkochi Pigo | 304247 | [304247-bomi-omyeon-kkochi-pigo.json](./304247-bomi-omyeon-kkochi-pigo.json) |
 | Bomight | 99443 | [99443-bomight.json](./99443-bomight.json) |
 | BomjMan | 120746 | [120746-bomjman.json](./120746-bomjman.json) |
+| Bommy | 396293 | [396293-bommy.json](./396293-bommy.json) |
 | Bomsy | 74681 | [74681-bomsy.json](./74681-bomsy.json) |
 | Bomtiles | 126228 | [126228-bomtiles.json](./126228-bomtiles.json) |
 | Bon Appecheese | 352379 | [352379-bon-appecheese.json](./352379-bon-appecheese.json) |
@@ -12661,6 +12669,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 3: Takedown at the Maliwan Blacksite | 126181 | [126181-borderlands-3-takedown-at-the-maliwan-blacksite.json](./126181-borderlands-3-takedown-at-the-maliwan-blacksite.json) |
 | Borderlands 3: Ultimate Edition | 140899 | [140899-borderlands-3-ultimate-edition.json](./140899-borderlands-3-ultimate-edition.json) |
 | Borderlands 4: Bounty Pack 1 - How Rush Saved Mercenary Day | 398014 | [398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json](./398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json) |
+| Borderlands 4: Bounty Pack 2 - Legend of the Stone Demon | 396307 | [396307-borderlands-4-bounty-pack-2-legend-of-the-stone-demon.json](./396307-borderlands-4-bounty-pack-2-legend-of-the-stone-demon.json) |
+| Borderlands 4: Gilded Glory Pack | 396327 | [396327-borderlands-4-gilded-glory-pack.json](./396327-borderlands-4-gilded-glory-pack.json) |
 | Borderlands 4: Story Pack 2 - FL4K and the Last Resort | 417666 | [417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json](./417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json) |
 | Borderlands 4: Vault Hunter Pack | 370632 | [370632-borderlands-4-vault-hunter-pack.json](./370632-borderlands-4-vault-hunter-pack.json) |
 | Borderlands Collection: Pandora's Box | 264479 | [264479-borderlands-collection-pandoras-box.json](./264479-borderlands-collection-pandoras-box.json) |
