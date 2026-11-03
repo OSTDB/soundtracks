@@ -5633,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Vision Quest | 141237 | [141237-fire-emblem-vision-quest.json](./141237-fire-emblem-vision-quest.json) |
 | Fire Embrace 2 | 371203 | [371203-fire-embrace-2.json](./371203-fire-embrace-2.json) |
 | Fire Embrace: Erabareshi Chigyuu no Ken | 163923 | [163923-fire-embrace-erabareshi-chigyuu-no-ken.json](./163923-fire-embrace-erabareshi-chigyuu-no-ken.json) |
+| Fire Engine Simulator | 383403 | [383403-fire-engine-simulator.json](./383403-fire-engine-simulator.json) |
 | Fire Entrance | 374086 | [374086-fire-entrance.json](./374086-fire-entrance.json) |
 | Fire Escape | 62575 | [62575-fire-escape.json](./62575-fire-escape.json) |
 | Fire Farm VR | 31964 | [31964-fire-farm-vr.json](./31964-fire-farm-vr.json) |
@@ -7821,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floral Town | 158098 | [158098-floral-town.json](./158098-floral-town.json) |
 | Floralgraphic Memory | 265620 | [265620-floralgraphic-memory.json](./265620-floralgraphic-memory.json) |
 | Floralis | 293514 | [293514-floralis.json](./293514-floralis.json) |
+| FloraLumina | 383541 | [383541-floralumina.json](./383541-floralumina.json) |
 | FloraMancer: Seeds and Spells | 235982 | [235982-floramancer-seeds-and-spells.json](./235982-floramancer-seeds-and-spells.json) |
 | Floramino | 364361 | [364361-floramino.json](./364361-floramino.json) |
 | Florani Match | 392295 | [392295-florani-match.json](./392295-florani-match.json) |
