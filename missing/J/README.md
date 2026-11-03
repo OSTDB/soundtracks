@@ -3548,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkyard Builder Simulator | 174883 | [174883-junkyard-builder-simulator.json](./174883-junkyard-builder-simulator.json) |
 | Junkyard Builder Simulator | 390537 | [390537-junkyard-builder-simulator.json](./390537-junkyard-builder-simulator.json) |
 | Junkyard Builder: King Of Scrap | 414445 | [414445-junkyard-builder-king-of-scrap.json](./414445-junkyard-builder-king-of-scrap.json) |
+| Junkyard File | 392683 | [392683-junkyard-file.json](./392683-junkyard-file.json) |
 | Junkyard Frog | 334742 | [334742-junkyard-frog.json](./334742-junkyard-frog.json) |
 | Junkyard Fury | 173024 | [173024-junkyard-fury.json](./173024-junkyard-fury.json) |
 | Junkyard Fury 2 | 211613 | [211613-junkyard-fury-2.json](./211613-junkyard-fury-2.json) |
