@@ -2427,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Pinball | 246442 | [246442-farm-pinball.json](./246442-farm-pinball.json) |
 | Farm Racing | 292224 | [292224-farm-racing.json](./292224-farm-racing.json) |
 | Farm Racing | 381014 | [381014-farm-racing.json](./381014-farm-racing.json) |
+| Farm Racing. | 394296 | [394296-farm-racing.json](./394296-farm-racing.json) |
 | Farm Renovator | 216618 | [216618-farm-renovator.json](./216618-farm-renovator.json) |
 | Farm Rescue | 359407 | [359407-farm-rescue.json](./359407-farm-rescue.json) |
 | Farm RPG | 208184 | [208184-farm-rpg.json](./208184-farm-rpg.json) |
@@ -3281,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faye Freelance: Rebel Reporter | 270536 | [270536-faye-freelance-rebel-reporter.json](./270536-faye-freelance-rebel-reporter.json) |
 | Faye King: Jungle Jeopardy | 399894 | [399894-faye-king-jungle-jeopardy.json](./399894-faye-king-jungle-jeopardy.json) |
 | Faye: A Tale of Shadow | 192885 | [192885-faye-a-tale-of-shadow.json](./192885-faye-a-tale-of-shadow.json) |
+| Faye's Garden | 394305 | [394305-fayes-garden.json](./394305-fayes-garden.json) |
 | Faye/Sleepwalker | 142665 | [142665-faye-sleepwalker.json](./142665-faye-sleepwalker.json) |
 | Faylinn's Quest | 173840 | [173840-faylinns-quest.json](./173840-faylinns-quest.json) |
 | Fayrehaven | 340066 | [340066-fayrehaven.json](./340066-fayrehaven.json) |
@@ -11485,6 +11487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog 'N Roll | 229276 | [229276-frog-n-roll.json](./229276-frog-n-roll.json) |
 | Frog 'n' Roll | 301816 | [301816-frog-n-roll.json](./301816-frog-n-roll.json) |
 | Frog & Spiders | 39293 | [39293-frog-and-spiders.json](./39293-frog-and-spiders.json) |
+| Frog 64 | 394308 | [394308-frog-64.json](./394308-frog-64.json) |
 | Frog Adventure | 386430 | [386430-frog-adventure.json](./386430-frog-adventure.json) |
 | Frog Adventure | 417347 | [417347-frog-adventure.json](./417347-frog-adventure.json) |
 | Frog Affirmations | 229071 | [229071-frog-affirmations.json](./229071-frog-affirmations.json) |
@@ -11669,6 +11672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy | 14080 | [14080-froggy.json](./14080-froggy.json) |
 | Froggy | 193290 | [193290-froggy.json](./193290-froggy.json) |
 | Froggy | 227828 | [227828-froggy.json](./227828-froggy.json) |
+| Froggy | 394321 | [394321-froggy.json](./394321-froggy.json) |
 | Froggy Bouncing Adventures | 293048 | [293048-froggy-bouncing-adventures.json](./293048-froggy-bouncing-adventures.json) |
 | Froggy Brews | 351261 | [351261-froggy-brews.json](./351261-froggy-brews.json) |
 | Froggy Castle | 243405 | [243405-froggy-castle.json](./243405-froggy-castle.json) |
@@ -11702,8 +11706,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogo | 208426 | [208426-frogo.json](./208426-frogo.json) |
 | Frogo Jump | 293601 | [293601-frogo-jump.json](./293601-frogo-jump.json) |
 | Frogreign | 260558 | [260558-frogreign.json](./260558-frogreign.json) |
+| Frogrun 64 | 394323 | [394323-frogrun-64.json](./394323-frogrun-64.json) |
 | Frogs | 229253 | [229253-frogs.json](./229253-frogs.json) |
 | Frogs | 318688 | [318688-frogs.json](./318688-frogs.json) |
+| Frogs | 394324 | [394324-frogs.json](./394324-frogs.json) |
 | Frogs Also Struggle | 258202 | [258202-frogs-also-struggle.json](./258202-frogs-also-struggle.json) |
 | Frogs vs. Storks | 10336 | [10336-frogs-vs-storks.json](./10336-frogs-vs-storks.json) |
 | Frogshot Adventure | 380559 | [380559-frogshot-adventure.json](./380559-frogshot-adventure.json) |
