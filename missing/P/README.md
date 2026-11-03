@@ -1543,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper io 2: Mishmash DLC | 263546 | [263546-paper-io-2-mishmash-dlc.json](./263546-paper-io-2-mishmash-dlc.json) |
 | Paper io 2: Variety Pack | 280616 | [280616-paper-io-2-variety-pack.json](./280616-paper-io-2-variety-pack.json) |
 | Paper Kingdom | 279110 | [279110-paper-kingdom.json](./279110-paper-kingdom.json) |
+| Paper Kite: Threads of Longing | 349034 | [349034-paper-kite-threads-of-longing.json](./349034-paper-kite-threads-of-longing.json) |
 | Paper Knight | 386401 | [386401-paper-knight.json](./386401-paper-knight.json) |
 | Paper Knights | 55552 | [55552-paper-knights.json](./55552-paper-knights.json) |
 | Paper Lily: Chapter 1 | 227213 | [227213-paper-lily-chapter-1.json](./227213-paper-lily-chapter-1.json) |
@@ -9044,6 +9045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plantan | 110330 | [110330-plantan.json](./110330-plantan.json) |
 | Plantasia | 333098 | [333098-plantasia.json](./333098-plantasia.json) |
 | Plantasia | 53463 | [53463-plantasia.json](./53463-plantasia.json) |
+| Plantastic | 349197 | [349197-plantastic.json](./349197-plantastic.json) |
 | PlanTechtor | 110711 | [110711-plantechtor.json](./110711-plantechtor.json) |
 | Planted | 183411 | [183411-planted.json](./183411-planted.json) |
 | Planted! | 398336 | [398336-planted.json](./398336-planted.json) |
@@ -9721,6 +9723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunkocity | 156571 | [156571-plunkocity.json](./156571-plunkocity.json) |
 | Pluralys | 336112 | [336112-pluralys.json](./336112-pluralys.json) |
 | Plus Alpha | 40090 | [40090-plus-alpha.json](./40090-plus-alpha.json) |
+| Plus Belle la Vie: Le Secret du Dr Livia | 349054 | [349054-plus-belle-la-vie-le-secret-du-dr-livia.json](./349054-plus-belle-la-vie-le-secret-du-dr-livia.json) |
 | Plus City | 281416 | [281416-plus-city.json](./281416-plus-city.json) |
 | Plus One | 313894 | [313894-plus-one.json](./313894-plus-one.json) |
 | Plus Plum 2 | 62227 | [62227-plus-plum-2.json](./62227-plus-plum-2.json) |
@@ -13655,6 +13658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priklyucheniya Mishek Gammi | 210311 | [210311-priklyucheniya-mishek-gammi.json](./210311-priklyucheniya-mishek-gammi.json) |
 | Prim | 143333 | [143333-prim.json](./143333-prim.json) |
 | Prim Rogue | 93803 | [93803-prim-rogue.json](./93803-prim-rogue.json) |
+| Prima Materia XXV | 349193 | [349193-prima-materia-xxv.json](./349193-prima-materia-xxv.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
 | Primado Reig 103 | 305212 | [305212-primado-reig-103.json](./305212-primado-reig-103.json) |
 | Primage | 292969 | [292969-primage.json](./292969-primage.json) |
