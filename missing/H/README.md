@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana: Hide and Seek | 250529 | [250529-hana-hide-and-seek.json](./250529-hana-hide-and-seek.json) |
 | Hana: Spacetime Fantasy | 260715 | [260715-hana-spacetime-fantasy.json](./260715-hana-spacetime-fantasy.json) |
 | Hana's Campus Life! | 149907 | [149907-hanas-campus-life.json](./149907-hanas-campus-life.json) |
+| Hana's Light | 360461 | [360461-hanas-light.json](./360461-hanas-light.json) |
 | Hanabi | 131388 | [131388-hanabi.json](./131388-hanabi.json) |
 | Hanabi and Ghost Girl | 405738 | [405738-hanabi-and-ghost-girl.json](./405738-hanabi-and-ghost-girl.json) |
 | Hanabi Fantast | 179382 | [179382-hanabi-fantast.json](./179382-hanabi-fantast.json) |
@@ -5438,6 +5439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here to Stay | 190391 | [190391-here-to-stay.json](./190391-here-to-stay.json) |
 | Here to There | 204419 | [204419-here-to-there.json](./204419-here-to-there.json) |
 | Here We Exist | 262846 | [262846-here-we-exist.json](./262846-here-we-exist.json) |
+| Here, Flower Picking, Manila North | 360460 | [360460-here-flower-picking-manila-north.json](./360460-here-flower-picking-manila-north.json) |
 | Hereafter | 287147 | [287147-hereafter.json](./287147-hereafter.json) |
 | Hereafter | 47988 | [47988-hereafter.json](./47988-hereafter.json) |
 | Hereford 1642 | 190138 | [190138-hereford-1642.json](./190138-hereford-1642.json) |
@@ -7116,6 +7118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higan: Eruthyll | 216031 | [216031-higan-eruthyll.json](./216031-higan-eruthyll.json) |
 | Higanbana | 122634 | [122634-higanbana.json](./122634-higanbana.json) |
 | Higanbana | 308896 | [308896-higanbana.json](./308896-higanbana.json) |
+| Higanbana no Saku Yoru ni Extra Credit | 360279 | [360279-higanbana-no-saku-yoru-ni-extra-credit.json](./360279-higanbana-no-saku-yoru-ni-extra-credit.json) |
 | Higanbana no Saku Yoru ni: The First Night | 65719 | [65719-higanbana-no-saku-yoru-ni-the-first-night.json](./65719-higanbana-no-saku-yoru-ni-the-first-night.json) |
 | Higanbana no Saku Yoru ni: The Second Night | 64864 | [64864-higanbana-no-saku-yoru-ni-the-second-night.json](./64864-higanbana-no-saku-yoru-ni-the-second-night.json) |
 | Higanjima | 94205 | [94205-higanjima.json](./94205-higanjima.json) |
@@ -8858,6 +8861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homemade TCG | 199504 | [199504-homemade-tcg.json](./199504-homemade-tcg.json) |
 | Homeostasis | 389444 | [389444-homeostasis.json](./389444-homeostasis.json) |
 | Homepage | 347702 | [347702-homepage.json](./347702-homepage.json) |
+| Homeplanet | 360315 | [360315-homeplanet.json](./360315-homeplanet.json) |
 | Homer The Flanders Killer 2 | 383768 | [383768-homer-the-flanders-killer-2.json](./383768-homer-the-flanders-killer-2.json) |
 | Homer The Flanders Killer 3 | 383769 | [383769-homer-the-flanders-killer-3.json](./383769-homer-the-flanders-killer-3.json) |
 | Homer The Flanders Killer 4 | 383770 | [383770-homer-the-flanders-killer-4.json](./383770-homer-the-flanders-killer-4.json) |
