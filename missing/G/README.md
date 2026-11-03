@@ -7532,6 +7532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Street Vegas Mafia Crime: Fight to Survive | 102669 | [102669-grand-street-vegas-mafia-crime-fight-to-survive.json](./102669-grand-street-vegas-mafia-crime-fight-to-survive.json) |
 | Grand Strokers | 240911 | [240911-grand-strokers.json](./240911-grand-strokers.json) |
 | Grand Summoners | 90072 | [90072-grand-summoners.json](./90072-grand-summoners.json) |
+| Grand Tactician: Napoleonic Wars (1792-1815) | 379823 | [379823-grand-tactician-napoleonic-wars-1792-1815.json](./379823-grand-tactician-napoleonic-wars-1792-1815.json) |
 | Grand Tactician: The Civil War (1861-1865) | 106575 | [106575-grand-tactician-the-civil-war-1861-1865.json](./106575-grand-tactician-the-civil-war-1861-1865.json) |
 | Grand Tanks: WW2 Tank Games | 249327 | [249327-grand-tanks-ww2-tank-games.json](./249327-grand-tanks-ww2-tank-games.json) |
 | Grand Taxi Auto | 329571 | [329571-grand-taxi-auto.json](./329571-grand-taxi-auto.json) |
@@ -7869,6 +7870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Prosperity: Redux- part 1 | 35553 | [35553-grave-prosperity-redux-part-1.json](./35553-grave-prosperity-redux-part-1.json) |
 | Grave Prosperity: The Vestigial Princess | 202204 | [202204-grave-prosperity-the-vestigial-princess.json](./202204-grave-prosperity-the-vestigial-princess.json) |
 | Grave Realms | 303986 | [303986-grave-realms.json](./303986-grave-realms.json) |
+| Grave Regrets | 380132 | [380132-grave-regrets.json](./380132-grave-regrets.json) |
 | Grave Robber | 249890 | [249890-grave-robber.json](./249890-grave-robber.json) |
 | Grave Rogue | 351800 | [351800-grave-rogue.json](./351800-grave-rogue.json) |
 | Grave Seasons | 251059 | [251059-grave-seasons.json](./251059-grave-seasons.json) |
