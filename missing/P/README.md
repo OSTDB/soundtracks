@@ -7627,6 +7627,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cross Stitch: Color by Number - Simple Patterns Pack 5 | 374128 | [374128-pixel-cross-stitch-color-by-number-simple-patterns-pack-5.json](./374128-pixel-cross-stitch-color-by-number-simple-patterns-pack-5.json) |
 | Pixel Cross Stitch: Color by Number - Spring Pack | 334588 | [334588-pixel-cross-stitch-color-by-number-spring-pack.json](./334588-pixel-cross-stitch-color-by-number-spring-pack.json) |
 | Pixel Cross Stitch: Color by Number - Spring Pack 3 | 339715 | [339715-pixel-cross-stitch-color-by-number-spring-pack-3.json](./339715-pixel-cross-stitch-color-by-number-spring-pack-3.json) |
+| Pixel Cross Stitch: Color by Number - Summer Pack | 359875 | [359875-pixel-cross-stitch-color-by-number-summer-pack.json](./359875-pixel-cross-stitch-color-by-number-summer-pack.json) |
+| Pixel Cross Stitch: Color by Number - Summer Pack 2 | 359874 | [359874-pixel-cross-stitch-color-by-number-summer-pack-2.json](./359874-pixel-cross-stitch-color-by-number-summer-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Summer Pack 3 | 361077 | [361077-pixel-cross-stitch-color-by-number-summer-pack-3.json](./361077-pixel-cross-stitch-color-by-number-summer-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Tiny Vehicles Pack | 374126 | [374126-pixel-cross-stitch-color-by-number-tiny-vehicles-pack.json](./374126-pixel-cross-stitch-color-by-number-tiny-vehicles-pack.json) |
 | Pixel Cross Stitch: Color by Number - Tiny Vehicles Pack 2 | 377603 | [377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json](./377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json) |
