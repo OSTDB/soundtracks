@@ -5569,6 +5569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Deep | 346395 | [346395-no-more-deep.json](./346395-no-more-deep.json) |
 | No More Demon | 405755 | [405755-no-more-demon.json](./405755-no-more-demon.json) |
 | No More Future | 177912 | [177912-no-more-future.json](./177912-no-more-future.json) |
+| No More Grudges | 349053 | [349053-no-more-grudges.json](./349053-no-more-grudges.json) |
 | No More Heroes | 377191 | [377191-no-more-heroes.json](./377191-no-more-heroes.json) |
 | No More Heroes 1 & 2 | 175207 | [175207-no-more-heroes-1-and-2.json](./175207-no-more-heroes-1-and-2.json) |
 | No More Heroes 1-3 Bundle | 384792 | [384792-no-more-heroes-1-3-bundle.json](./384792-no-more-heroes-1-3-bundle.json) |
