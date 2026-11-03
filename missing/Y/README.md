@@ -1910,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yumtree | 312815 | [312815-yumtree.json](./312815-yumtree.json) |
 | Yun | 345357 | [345357-yun.json](./345357-yun.json) |
 | Yuna and other troubles | 129072 | [129072-yuna-and-other-troubles.json](./129072-yuna-and-other-troubles.json) |
+| Yuna and the Spirit Forest | 372397 | [372397-yuna-and-the-spirit-forest.json](./372397-yuna-and-the-spirit-forest.json) |
 | Yuna: Sugar hearts and Love | 110967 | [110967-yuna-sugar-hearts-and-love.json](./110967-yuna-sugar-hearts-and-love.json) |
 | Yuna: Sugar Hearts and Love - New Love | 169963 | [169963-yuna-sugar-hearts-and-love-new-love.json](./169963-yuna-sugar-hearts-and-love-new-love.json) |
 | Yunak | 330541 | [330541-yunak.json](./330541-yunak.json) |
