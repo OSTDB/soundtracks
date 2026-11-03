@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld Soulstorm: Limited Oddition | 210461 | [210461-oddworld-soulstorm-limited-oddition.json](./210461-oddworld-soulstorm-limited-oddition.json) |
 | Oddworld: Abe's Exoddus | 1000 | [1000-oddworld-abes-exoddus.json](./1000-oddworld-abes-exoddus.json) |
 | Oddworld: Abe's Exoddus | 306055 | [306055-oddworld-abes-exoddus.json](./306055-oddworld-abes-exoddus.json) |
+| Oddworld: Abe's Oddysee | 351909 | [351909-oddworld-abes-oddysee.json](./351909-oddworld-abes-oddysee.json) |
 | Oddworld: Hand of Odd | 66007 | [66007-oddworld-hand-of-odd.json](./66007-oddworld-hand-of-odd.json) |
 | Oddworld: Munch's Oddysee | 1001 | [1001-oddworld-munchs-oddysee.json](./1001-oddworld-munchs-oddysee.json) |
 | Oddworld: Munch's Oddysee | 134025 | [134025-oddworld-munchs-oddysee.json](./134025-oddworld-munchs-oddysee.json) |
