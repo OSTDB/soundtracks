@@ -3353,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected: The Twin Vaccine | 62424 | [62424-infected-the-twin-vaccine.json](./62424-infected-the-twin-vaccine.json) |
 | Infected: The Twin Vaccine - Collector's Edition | 125309 | [125309-infected-the-twin-vaccine-collectors-edition.json](./125309-infected-the-twin-vaccine-collectors-edition.json) |
 | Infected: Zombie Apocalypse Survival Story | 236152 | [236152-infected-zombie-apocalypse-survival-story.json](./236152-infected-zombie-apocalypse-survival-story.json) |
+| Infectica | 395076 | [395076-infectica.json](./395076-infectica.json) |
 | Infection | 129082 | [129082-infection.json](./129082-infection.json) |
 | Infection | 142474 | [142474-infection.json](./142474-infection.json) |
 | Infection | 259494 | [259494-infection.json](./259494-infection.json) |
