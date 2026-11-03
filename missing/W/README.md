@@ -2236,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs: Legion - Resistance Edition | 142847 | [142847-watch-dogs-legion-resistance-edition.json](./142847-watch-dogs-legion-resistance-edition.json) |
 | Watch Dogs: Legion - Season Pass | 142845 | [142845-watch-dogs-legion-season-pass.json](./142845-watch-dogs-legion-season-pass.json) |
 | Watch Dogs: Legion - Ultimate Edition | 119574 | [119574-watch-dogs-legion-ultimate-edition.json](./119574-watch-dogs-legion-ultimate-edition.json) |
+| Watch Eye | 389832 | [389832-watch-eye.json](./389832-watch-eye.json) |
 | Watch Grass Grow Simulator | 384224 | [384224-watch-grass-grow-simulator.json](./384224-watch-grass-grow-simulator.json) |
 | Watch Mario | 278623 | [278623-watch-mario.json](./278623-watch-mario.json) |
 | Watch Me Jump | 55772 | [55772-watch-me-jump.json](./55772-watch-me-jump.json) |
@@ -2841,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapon Ball Fight | 383930 | [383930-weapon-ball-fight.json](./383930-weapon-ball-fight.json) |
 | Weapon Devourer | 282248 | [282248-weapon-devourer.json](./282248-weapon-devourer.json) |
 | Weapon Hacker | 133377 | [133377-weapon-hacker.json](./133377-weapon-hacker.json) |
+| Weapon Master | 389853 | [389853-weapon-master.json](./389853-weapon-master.json) |
 | Weapon Meister | 282220 | [282220-weapon-meister.json](./282220-weapon-meister.json) |
 | Weapon Mix | 289902 | [289902-weapon-mix.json](./289902-weapon-mix.json) |
 | Weapon of Choice DX | 154991 | [154991-weapon-of-choice-dx.json](./154991-weapon-of-choice-dx.json) |
@@ -6321,6 +6323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard | 104479 | [104479-wizard.json](./104479-wizard.json) |
 | Wizard | 151933 | [151933-wizard.json](./151933-wizard.json) |
 | Wizard | 25797 | [25797-wizard.json](./25797-wizard.json) |
+| Wizard 64 | 389841 | [389841-wizard-64.json](./389841-wizard-64.json) |
 | Wizard Another World | 294280 | [294280-wizard-another-world.json](./294280-wizard-another-world.json) |
 | Wizard Battle | 121638 | [121638-wizard-battle.json](./121638-wizard-battle.json) |
 | Wizard Bros | 158233 | [158233-wizard-bros.json](./158233-wizard-bros.json) |
