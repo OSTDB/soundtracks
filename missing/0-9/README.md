@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ¿ Y ? A Short Memoir Told in Bits | 381331 | [381331-y-a-short-memoir-told-in-bits.json](./381331-y-a-short-memoir-told-in-bits.json) |
 | ¿Me verán? | 401164 | [401164-me-veran.json](./401164-me-veran.json) |
 | ... :D | 407769 | [407769-d.json](./407769-d.json) |
+| ...In White | 367678 | [367678-in-white.json](./367678-in-white.json) |
 | ...Iru! | 93548 | [93548-iru.json](./93548-iru.json) |
 | ...Knew the Beginning | 195155 | [195155-knew-the-beginning.json](./195155-knew-the-beginning.json) |
 | ...Vincent: Mansion of The Dead | 376667 | [376667-vincent-mansion-of-the-dead.json](./376667-vincent-mansion-of-the-dead.json) |
@@ -1131,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1428: Shadows over Silesia | 130261 | [130261-1428-shadows-over-silesia.json](./130261-1428-shadows-over-silesia.json) |
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
 | 1428: Shadows over Silesia - Tourney at the Bear Rock | 289334 | [289334-1428-shadows-over-silesia-tourney-at-the-bear-rock.json](./289334-1428-shadows-over-silesia-tourney-at-the-bear-rock.json) |
+| 144 | 370382 | [370382-144.json](./370382-144.json) |
 | 1483 Anno Domini | 409431 | [409431-1483-anno-domini.json](./409431-1483-anno-domini.json) |
 | 1492: Anno Domini | 402829 | [402829-1492-anno-domini.json](./402829-1492-anno-domini.json) |
 | 1492: Colonization of the New World | 373086 | [373086-1492-colonization-of-the-new-world.json](./373086-1492-colonization-of-the-new-world.json) |
@@ -1451,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 in 1: V-Rally 3 + Stuntman | 84266 | [84266-2-in-1-v-rally-3-stuntman.json](./84266-2-in-1-v-rally-3-stuntman.json) |
 | 2 jeux en 1 I Titeuf: Ze Gag Machine + Titeuf: Méga-Compet' | 82103 | [82103-2-jeux-en-1-i-titeuf-ze-gag-machine-titeuf-mega-compet.json](./82103-2-jeux-en-1-i-titeuf-ze-gag-machine-titeuf-mega-compet.json) |
 | 2 Late 2 Evade | 216773 | [216773-2-late-2-evade.json](./216773-2-late-2-evade.json) |
+| 2 Minutes 16 Seconds | 367672 | [367672-2-minutes-16-seconds.json](./367672-2-minutes-16-seconds.json) |
 | 2 Minutes in Space | 311679 | [311679-2-minutes-in-space.json](./311679-2-minutes-in-space.json) |
 | 2 Minutes to Die | 358081 | [358081-2-minutes-to-die.json](./358081-2-minutes-to-die.json) |
 | 2 Ninjas 1 Cup | 29898 | [29898-2-ninjas-1-cup.json](./29898-2-ninjas-1-cup.json) |
