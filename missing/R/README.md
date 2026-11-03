@@ -12413,6 +12413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust Rails | 267063 | [267063-rust-rails.json](./267063-rust-rails.json) |
 | Rust Rides | 373620 | [373620-rust-rides.json](./373620-rust-rides.json) |
 | Rust Rivalry | 305941 | [305941-rust-rivalry.json](./305941-rust-rivalry.json) |
+| Rust Runners | 367097 | [367097-rust-runners.json](./367097-rust-runners.json) |
 | Rust: Console Deluxe Edition | 148452 | [148452-rust-console-deluxe-edition.json](./148452-rust-console-deluxe-edition.json) |
 | Rust: Console Edition | 145149 | [145149-rust-console-edition.json](./145149-rust-console-edition.json) |
 | Rust: Console Edition - Day One | 146116 | [146116-rust-console-edition-day-one.json](./146116-rust-console-edition-day-one.json) |
