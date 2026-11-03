@@ -12380,6 +12380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Mechs: Camel Chaos | 340578 | [340578-mining-mechs-camel-chaos.json](./340578-mining-mechs-camel-chaos.json) |
 | Mining Mechs: Magnetic Mystery | 278988 | [278988-mining-mechs-magnetic-mystery.json](./278988-mining-mechs-magnetic-mystery.json) |
 | Mining Merchant | 364518 | [364518-mining-merchant.json](./364518-mining-merchant.json) |
+| Mining My Own Business | 361987 | [361987-mining-my-own-business.json](./361987-mining-my-own-business.json) |
 | Mining Odyssey | 215597 | [215597-mining-odyssey.json](./215597-mining-odyssey.json) |
 | Mining Platform | 361033 | [361033-mining-platform.json](./361033-mining-platform.json) |
 | Mining Rail 2 | 122720 | [122720-mining-rail-2.json](./122720-mining-rail-2.json) |
