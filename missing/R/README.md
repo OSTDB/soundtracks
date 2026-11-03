@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Unhappy | 199916 | [199916-raccoon-unhappy.json](./199916-raccoon-unhappy.json) |
 | Raccoon Valley Tycoon | 373083 | [373083-raccoon-valley-tycoon.json](./373083-raccoon-valley-tycoon.json) |
 | Raccooneering | 306601 | [306601-raccooneering.json](./306601-raccooneering.json) |
+| Raccoons to Riches | 351355 | [351355-raccoons-to-riches.json](./351355-raccoons-to-riches.json) |
 | Raccoonwave | 307120 | [307120-raccoonwave.json](./307120-raccoonwave.json) |
 | Race | 295994 | [295994-race.json](./295994-race.json) |
 | Race | 82336 | [82336-race.json](./82336-race.json) |
@@ -5746,6 +5747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Arcade Toppers | 60317 | [60317-retro-arcade-toppers.json](./60317-retro-arcade-toppers.json) |
 | Retro Arcade: Pac-Man | 219421 | [219421-retro-arcade-pac-man.json](./219421-retro-arcade-pac-man.json) |
 | Retro Arcade: Space Invaders | 220106 | [220106-retro-arcade-space-invaders.json](./220106-retro-arcade-space-invaders.json) |
+| Retro Arsenal | 351353 | [351353-retro-arsenal.json](./351353-retro-arsenal.json) |
 | Retro Asylum | 409559 | [409559-retro-asylum.json](./409559-retro-asylum.json) |
 | Retro Ball | 309465 | [309465-retro-ball.json](./309465-retro-ball.json) |
 | Retro Basketball Coach 2021 | 175250 | [175250-retro-basketball-coach-2021.json](./175250-retro-basketball-coach-2021.json) |
@@ -6264,6 +6266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversal of Deck | 283717 | [283717-reversal-of-deck.json](./283717-reversal-of-deck.json) |
 | Reversary | 204197 | [204197-reversary.json](./204197-reversary.json) |
 | Reverse | 153147 | [153147-reverse.json](./153147-reverse.json) |
+| Reverse 1999: 1987 Cosmic Overture | 351500 | [351500-reverse-1999-1987-cosmic-overture.json](./351500-reverse-1999-1987-cosmic-overture.json) |
 | Reverse 1999: A Flowing Feast | 384575 | [384575-reverse-1999-a-flowing-feast.json](./384575-reverse-1999-a-flowing-feast.json) |
 | Reverse 1999: A Long Long Way | 374300 | [374300-reverse-1999-a-long-long-way.json](./374300-reverse-1999-a-long-long-way.json) |
 | Reverse 1999: A Nightmare at Green Lake | 279786 | [279786-reverse-1999-a-nightmare-at-green-lake.json](./279786-reverse-1999-a-nightmare-at-green-lake.json) |
@@ -9978,6 +9981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Coaster: Amazing Island Visit | 108210 | [108210-roller-coaster-amazing-island-visit.json](./108210-roller-coaster-amazing-island-visit.json) |
 | Roller Crash | 114722 | [114722-roller-crash.json](./114722-roller-crash.json) |
 | Roller Drama | 143895 | [143895-roller-drama.json](./143895-roller-drama.json) |
+| Roller Heist | 351358 | [351358-roller-heist.json](./351358-roller-heist.json) |
 | Roller Jammer | 40420 | [40420-roller-jammer.json](./40420-roller-jammer.json) |
 | Roller Katz: BF - Episode 1 | 231041 | [231041-roller-katz-bf-episode-1.json](./231041-roller-katz-bf-episode-1.json) |
 | Roller Loop | 350198 | [350198-roller-loop.json](./350198-roller-loop.json) |
