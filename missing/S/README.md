@@ -2419,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara Man | 330595 | [330595-sayonara-man.json](./330595-sayonara-man.json) |
 | Sayonara Mr. Stealer | 388004 | [388004-sayonara-mr-stealer.json](./388004-sayonara-mr-stealer.json) |
 | Sayonara NightCap | 260397 | [260397-sayonara-nightcap.json](./260397-sayonara-nightcap.json) |
+| Sayonara Okaasan | 360846 | [360846-sayonara-okaasan.json](./360846-sayonara-okaasan.json) |
 | Sayonara Sigil Sentry | 331679 | [331679-sayonara-sigil-sentry.json](./331679-sayonara-sigil-sentry.json) |
 | Sayonara Umihara Kawase | 27108 | [27108-sayonara-umihara-kawase.json](./27108-sayonara-umihara-kawase.json) |
 | Sayonara Umihara Kawase Smart | 247199 | [247199-sayonara-umihara-kawase-smart.json](./247199-sayonara-umihara-kawase-smart.json) |
@@ -11556,6 +11557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchy's Contract | 288082 | [288082-sketchys-contract.json](./288082-sketchys-contract.json) |
 | Skew | 233020 | [233020-skew.json](./233020-skew.json) |
 | Skew Pong | 190076 | [190076-skew-pong.json](./190076-skew-pong.json) |
+| Skewer of Heroes | 360855 | [360855-skewer-of-heroes.json](./360855-skewer-of-heroes.json) |
 | Skewer Squad | 374413 | [374413-skewer-squad.json](./374413-skewer-squad.json) |
 | SKG Hunt | 392876 | [392876-skg-hunt.json](./392876-skg-hunt.json) |
 | Ski Air Mix | 186129 | [186129-ski-air-mix.json](./186129-ski-air-mix.json) |
@@ -16100,6 +16102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Distant Memory | 121952 | [121952-some-distant-memory.json](./121952-some-distant-memory.json) |
 | Some Goodbyes We Made | 279465 | [279465-some-goodbyes-we-made.json](./279465-some-goodbyes-we-made.json) |
 | Some Heroines Climb Up a Tower to Ask God Why the Game Has a Name That's So Long | 310001 | [310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json](./310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json) |
+| Some Jello and a Hard Place | 360848 | [360848-some-jello-and-a-hard-place.json](./360848-some-jello-and-a-hard-place.json) |
 | Some Knights Left | 179497 | [179497-some-knights-left.json](./179497-some-knights-left.json) |
 | Some Like It Hot: Chapter 0 | 135051 | [135051-some-like-it-hot-chapter-0.json](./135051-some-like-it-hot-chapter-0.json) |
 | Some Munnings | 305899 | [305899-some-munnings.json](./305899-some-munnings.json) |
@@ -18704,7 +18707,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20965,6 +20967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiral Wave | 42045 | [42045-spiral-wave.json](./42045-spiral-wave.json) |
 | Spiral!! | 399062 | [399062-spiral.json](./399062-spiral.json) |
 | Spiralagon | 122342 | [122342-spiralagon.json](./122342-spiralagon.json) |
+| SpiralGo | 360871 | [360871-spiralgo.json](./360871-spiralgo.json) |
 | Spiraling Snow | 246547 | [246547-spiraling-snow.json](./246547-spiraling-snow.json) |
 | Spire Adventure | 233422 | [233422-spire-adventure.json](./233422-spire-adventure.json) |
 | Spire Blast | 194335 | [194335-spire-blast.json](./194335-spire-blast.json) |
