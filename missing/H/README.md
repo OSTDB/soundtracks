@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajwala Qatar | 370432 | [370432-hajwala-qatar.json](./370432-hajwala-qatar.json) |
 | Hakabyou: Kuwabiyau | 108146 | [108146-hakabyou-kuwabiyau.json](./108146-hakabyou-kuwabiyau.json) |
 | Hakai | 286482 | [286482-hakai.json](./286482-hakai.json) |
+| Håkan Bråkan | 399387 | [399387-hakan-brakan.json](./399387-hakan-brakan.json) |
 | Hakan's War Manager | 258919 | [258919-hakans-war-manager.json](./258919-hakans-war-manager.json) |
 | Hakarena Heart: Dare ga Tame ni Kimi ha Aru | 69292 | [69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json](./69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json) |
 | Hakarena Heart: Kimi ga Tame ni Kagayaki wo | 217755 | [217755-hakarena-heart-kimi-ga-tame-ni-kagayaki-wo.json](./217755-hakarena-heart-kimi-ga-tame-ni-kagayaki-wo.json) |
@@ -2700,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Havoc | 13873 | [13873-havoc.json](./13873-havoc.json) |
 | Havoc | 219238 | [219238-havoc.json](./219238-havoc.json) |
 | Havoc Fox | 215099 | [215099-havoc-fox.json](./215099-havoc-fox.json) |
+| Havoc Heirs | 399993 | [399993-havoc-heirs.json](./399993-havoc-heirs.json) |
 | Havoc in heaven | 96120 | [96120-havoc-in-heaven.json](./96120-havoc-in-heaven.json) |
 | Havoc Monkeys | 327875 | [327875-havoc-monkeys.json](./327875-havoc-monkeys.json) |
 | Havoc Runner | 148557 | [148557-havoc-runner.json](./148557-havoc-runner.json) |
@@ -4076,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellFlame | 273498 | [273498-hellflame.json](./273498-hellflame.json) |
 | Hellfo | 123969 | [123969-hellfo.json](./123969-hellfo.json) |
 | Hellforces | 84469 | [84469-hellforces.json](./84469-hellforces.json) |
+| Hellforged | 399378 | [399378-hellforged.json](./399378-hellforged.json) |
 | Hellfront: Honeymoon | 107369 | [107369-hellfront-honeymoon.json](./107369-hellfront-honeymoon.json) |
 | Hellfrost Dark Knight Styria: The Ultimate Knight Falleth Flesh Toilet | 82657 | [82657-hellfrost-dark-knight-styria-the-ultimate-knight-falleth-flesh-toilet.json](./82657-hellfrost-dark-knight-styria-the-ultimate-knight-falleth-flesh-toilet.json) |
 | HellFull: The Last Hope | 192273 | [192273-hellfull-the-last-hope.json](./192273-hellfull-the-last-hope.json) |
@@ -4981,6 +4984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzles: Attack on Tight Panties | 245767 | [245767-hentai-puzzles-attack-on-tight-panties.json](./245767-hentai-puzzles-attack-on-tight-panties.json) |
 | Hentai Queens | 149431 | [149431-hentai-queens.json](./149431-hentai-queens.json) |
 | Hentai Reality 3 | 400177 | [400177-hentai-reality-3.json](./400177-hentai-reality-3.json) |
+| Hentai Reina | 399965 | [399965-hentai-reina.json](./399965-hentai-reina.json) |
 | Hentai Rika | 340448 | [340448-hentai-rika.json](./340448-hentai-rika.json) |
 | Hentai Rina | 271623 | [271623-hentai-rina.json](./271623-hentai-rina.json) |
 | Hentai Romance | 389169 | [389169-hentai-romance.json](./389169-hentai-romance.json) |
@@ -8820,6 +8824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey and Swallowtail | 261453 | [261453-honey-and-swallowtail.json](./261453-honey-and-swallowtail.json) |
 | Honey Are You There? | 250785 | [250785-honey-are-you-there.json](./250785-honey-are-you-there.json) |
 | Honey Badger Don't Care | 56908 | [56908-honey-badger-dont-care.json](./56908-honey-badger-dont-care.json) |
+| Honey Badger Don't Die | 399986 | [399986-honey-badger-dont-die.json](./399986-honey-badger-dont-die.json) |
 | Honey Bee | 47211 | [47211-honey-bee.json](./47211-honey-bee.json) |
 | Honey Bee | 71186 | [71186-honey-bee.json](./71186-honey-bee.json) |
 | Honey Bee With Guns | 298663 | [298663-honey-bee-with-guns.json](./298663-honey-bee-with-guns.json) |
