@@ -6440,6 +6440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Unicorn | 26417 | [26417-shadow-of-the-unicorn.json](./26417-shadow-of-the-unicorn.json) |
 | Shadow of the Wool Ball | 195860 | [195860-shadow-of-the-wool-ball.json](./195860-shadow-of-the-wool-ball.json) |
 | Shadow of the Wyrm | 77656 | [77656-shadow-of-the-wyrm.json](./77656-shadow-of-the-wyrm.json) |
+| Shadow of the Yokai | 372702 | [372702-shadow-of-the-yokai.json](./372702-shadow-of-the-yokai.json) |
 | Shadow of Valhalla | 171735 | [171735-shadow-of-valhalla.json](./171735-shadow-of-valhalla.json) |
 | Shadow of Winter | 374067 | [374067-shadow-of-winter.json](./374067-shadow-of-winter.json) |
 | Shadow of Witch Marionette | 210516 | [210516-shadow-of-witch-marionette.json](./210516-shadow-of-witch-marionette.json) |
@@ -7231,6 +7232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Dimension | 356879 | [356879-shattered-dimension.json](./356879-shattered-dimension.json) |
 | Shattered Divinities | 346217 | [346217-shattered-divinities.json](./346217-shattered-divinities.json) |
 | Shattered Dreams | 313507 | [313507-shattered-dreams.json](./313507-shattered-dreams.json) |
+| Shattered Dreams: Redemption | 372409 | [372409-shattered-dreams-redemption.json](./372409-shattered-dreams-redemption.json) |
 | Shattered Earth | 315109 | [315109-shattered-earth.json](./315109-shattered-earth.json) |
 | Shattered Echoes | 278512 | [278512-shattered-echoes.json](./278512-shattered-echoes.json) |
 | Shattered Fate | 307270 | [307270-shattered-fate.json](./307270-shattered-fate.json) |
@@ -7250,6 +7252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Lights | 118800 | [118800-shattered-lights.json](./118800-shattered-lights.json) |
 | Shattered Melodies | 311221 | [311221-shattered-melodies.json](./311221-shattered-melodies.json) |
 | Shattered Memories | 203641 | [203641-shattered-memories.json](./203641-shattered-memories.json) |
+| Shattered Memories | 372706 | [372706-shattered-memories.json](./372706-shattered-memories.json) |
 | Shattered Minds: Encore | 158948 | [158948-shattered-minds-encore.json](./158948-shattered-minds-encore.json) |
 | Shattered Minds: Masquerade | 369714 | [369714-shattered-minds-masquerade.json](./369714-shattered-minds-masquerade.json) |
 | Shattered Mythos | 365029 | [365029-shattered-mythos.json](./365029-shattered-mythos.json) |
@@ -14238,6 +14241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snaketroidvania | 182128 | [182128-snaketroidvania.json](./182128-snaketroidvania.json) |
 | SnakeVib | 340804 | [340804-snakevib.json](./340804-snakevib.json) |
 | Snakey | 92901 | [92901-snakey.json](./92901-snakey.json) |
+| Snakky | 372423 | [372423-snakky.json](./372423-snakky.json) |
 | Snaky Cat | 337093 | [337093-snaky-cat.json](./337093-snaky-cat.json) |
 | Snaky Snake | 70996 | [70996-snaky-snake.json](./70996-snaky-snake.json) |
 | Snaky Snakes | 321505 | [321505-snaky-snakes.json](./321505-snaky-snakes.json) |
@@ -15938,6 +15942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solivagant | 262840 | [262840-solivagant.json](./262840-solivagant.json) |
 | Sollarion | 238586 | [238586-sollarion.json](./238586-sollarion.json) |
 | Solm | 183079 | [183079-solm.json](./183079-solm.json) |
+| Solnest | 372591 | [372591-solnest.json](./372591-solnest.json) |
 | Solnox: Grimoire of Seasons | 302321 | [302321-solnox-grimoire-of-seasons.json](./302321-solnox-grimoire-of-seasons.json) |
 | Solo | 145987 | [145987-solo.json](./145987-solo.json) |
 | Solo | 185292 | [185292-solo.json](./185292-solo.json) |
@@ -16021,6 +16026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somber | 238663 | [238663-somber.json](./238663-somber.json) |
 | Somber Echoes | 293058 | [293058-somber-echoes.json](./293058-somber-echoes.json) |
 | Somber: Card Game | 185431 | [185431-somber-card-game.json](./185431-somber-card-game.json) |
+| Sombie | 372399 | [372399-sombie.json](./372399-sombie.json) |
 | Sombra | 311212 | [311212-sombra.json](./311212-sombra.json) |
 | Sombras | 261304 | [261304-sombras.json](./261304-sombras.json) |
 | Sombras: Negative Frames | 406115 | [406115-sombras-negative-frames.json](./406115-sombras-negative-frames.json) |
@@ -17424,6 +17430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorrow Asylum | 259621 | [259621-sorrow-asylum.json](./259621-sorrow-asylum.json) |
 | Sorrow Asylum 2 | 264627 | [264627-sorrow-asylum-2.json](./264627-sorrow-asylum-2.json) |
 | Sorrow Asylum 3 | 309515 | [309515-sorrow-asylum-3.json](./309515-sorrow-asylum-3.json) |
+| Sorrow: Rise of Divinity | 372413 | [372413-sorrow-rise-of-divinity.json](./372413-sorrow-rise-of-divinity.json) |
 | Sorrow's Serenade | 385870 | [385870-sorrows-serenade.json](./385870-sorrows-serenade.json) |
 | Sorrowful Night | 244119 | [244119-sorrowful-night.json](./244119-sorrowful-night.json) |
 | Sorrowself | 143731 | [143731-sorrowself.json](./143731-sorrowself.json) |
@@ -28591,6 +28598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumo Revise | 35024 | [35024-sumo-revise.json](./35024-sumo-revise.json) |
 | Sumo Rumble | 307974 | [307974-sumo-rumble.json](./307974-sumo-rumble.json) |
 | Sumo Seals | 211612 | [211612-sumo-seals.json](./211612-sumo-seals.json) |
+| Sumo Slam | 372422 | [372422-sumo-slam.json](./372422-sumo-slam.json) |
 | Sumo Smashdown | 177246 | [177246-sumo-smashdown.json](./177246-sumo-smashdown.json) |
 | Sumo Stuntmen 7 | 189987 | [189987-sumo-stuntmen-7.json](./189987-sumo-stuntmen-7.json) |
 | Sumo Tatami | 274893 | [274893-sumo-tatami.json](./274893-sumo-tatami.json) |
@@ -33577,6 +33585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switchblade | 12788 | [12788-switchblade.json](./12788-switchblade.json) |
 | Switchblade | 334055 | [334055-switchblade.json](./334055-switchblade.json) |
 | Switchblade | 336503 | [336503-switchblade.json](./336503-switchblade.json) |
+| Switchblade | 372420 | [372420-switchblade.json](./372420-switchblade.json) |
 | Switchblade | 68106 | [68106-switchblade.json](./68106-switchblade.json) |
 | Switchblade II | 12369 | [12369-switchblade-ii.json](./12369-switchblade-ii.json) |
 | Switchblade II | 126452 | [126452-switchblade-ii.json](./126452-switchblade-ii.json) |
