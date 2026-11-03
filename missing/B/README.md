@@ -5768,6 +5768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Closure | 369925 | [369925-before-closure.json](./369925-before-closure.json) |
 | Before Dark | 149858 | [149858-before-dark.json](./149858-before-dark.json) |
 | Before Dawn | 229101 | [229101-before-dawn.json](./229101-before-dawn.json) |
+| Before Exit: Gas Station | 349038 | [349038-before-exit-gas-station.json](./349038-before-exit-gas-station.json) |
 | Before Exit: Gas Station - Daylight DLC | 378305 | [378305-before-exit-gas-station-daylight-dlc.json](./378305-before-exit-gas-station-daylight-dlc.json) |
 | Before Exit: Gas Station - Midnight DLC | 378304 | [378304-before-exit-gas-station-midnight-dlc.json](./378304-before-exit-gas-station-midnight-dlc.json) |
 | Before Exit: Supermarket + Fig. bundle | 339067 | [339067-before-exit-supermarket-fig-bundle.json](./339067-before-exit-supermarket-fig-bundle.json) |
@@ -7429,6 +7430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Banditz | 216262 | [216262-bike-banditz.json](./216262-bike-banditz.json) |
 | Bike Baron | 65290 | [65290-bike-baron.json](./65290-bike-baron.json) |
 | Bike Baron 2 | 160225 | [160225-bike-baron-2.json](./160225-bike-baron-2.json) |
+| Bike Baron 2: The Art of Riding | 349057 | [349057-bike-baron-2-the-art-of-riding.json](./349057-bike-baron-2-the-art-of-riding.json) |
 | Bike Bites | 245190 | [245190-bike-bites.json](./245190-bike-bites.json) |
 | Bike Blast | 116396 | [116396-bike-blast.json](./116396-bike-blast.json) |
 | Bike Challenge | 89742 | [89742-bike-challenge.json](./89742-bike-challenge.json) |
@@ -9894,6 +9896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitzkrieg: Rolling Thunder | 11263 | [11263-blitzkrieg-rolling-thunder.json](./11263-blitzkrieg-rolling-thunder.json) |
 | Blitzkrieg: Total Challenge | 55955 | [55955-blitzkrieg-total-challenge.json](./55955-blitzkrieg-total-challenge.json) |
 | Blitzkrieg: Toubu Sensen 1941-45 | 242517 | [242517-blitzkrieg-toubu-sensen-1941-45.json](./242517-blitzkrieg-toubu-sensen-1941-45.json) |
+| Blitzpoint | 349039 | [349039-blitzpoint.json](./349039-blitzpoint.json) |
 | BlitzPunch | 188123 | [188123-blitzpunch.json](./188123-blitzpunch.json) |
 | Blitzr Ball | 338864 | [338864-blitzr-ball.json](./338864-blitzr-ball.json) |
 | BlitzRift | 382501 | [382501-blitzrift.json](./382501-blitzrift.json) |
@@ -13006,6 +13009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bossfall | 414157 | [414157-bossfall.json](./414157-bossfall.json) |
 | Bossfight Tactics | 346141 | [346141-bossfight-tactics.json](./346141-bossfight-tactics.json) |
 | Bossleft | 408913 | [408913-bossleft.json](./408913-bossleft.json) |
+| Bosslife Office Manager | 349028 | [349028-bosslife-office-manager.json](./349028-bosslife-office-manager.json) |
 | Bosslords | 167563 | [167563-bosslords.json](./167563-bosslords.json) |
 | Bosstack | 296725 | [296725-bosstack.json](./296725-bosstack.json) |
 | Bostilda | 39882 | [39882-bostilda.json](./39882-bostilda.json) |
@@ -13017,6 +13021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot Beats | 322619 | [322619-bot-beats.json](./322619-bot-beats.json) |
 | Bot Brigade | 202552 | [202552-bot-brigade.json](./202552-bot-brigade.json) |
 | Bot Colony | 16835 | [16835-bot-colony.json](./16835-bot-colony.json) |
+| Bot Colony _redux | 349075 | [349075-bot-colony-redux.json](./349075-bot-colony-redux.json) |
 | Bot Crafter | 253584 | [253584-bot-crafter.json](./253584-bot-crafter.json) |
 | Bot Gaiden | 96218 | [96218-bot-gaiden.json](./96218-bot-gaiden.json) |
 | Bot Hunt | 293110 | [293110-bot-hunt.json](./293110-bot-hunt.json) |
@@ -16125,6 +16130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Adventure | 206691 | [206691-bug-adventure.json](./206691-bug-adventure.json) |
 | Bug Alliance | 304438 | [304438-bug-alliance.json](./304438-bug-alliance.json) |
 | Bug Aviators in Theme Park | 116163 | [116163-bug-aviators-in-theme-park.json](./116163-bug-aviators-in-theme-park.json) |
+| Bug Bait | 349031 | [349031-bug-bait.json](./349031-bug-bait.json) |
 | Bug Ball | 274364 | [274364-bug-ball.json](./274364-bug-ball.json) |
 | Bug Bane Survivors | 366362 | [366362-bug-bane-survivors.json](./366362-bug-bane-survivors.json) |
 | Bug Bash | 93309 | [93309-bug-bash.json](./93309-bug-bash.json) |
