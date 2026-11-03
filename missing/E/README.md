@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Arguice no Tsubasa PC-8801mkIISR | 312082 | [312082-eggconsole-arguice-no-tsubasa-pc-8801mkiisr.json](./312082-eggconsole-arguice-no-tsubasa-pc-8801mkiisr.json) |
 | Eggconsole Babylon PC-8801mkIISR | 328528 | [328528-eggconsole-babylon-pc-8801mkiisr.json](./328528-eggconsole-babylon-pc-8801mkiisr.json) |
 | Eggconsole Burai: Jokan PC-8801mkIISR | 332331 | [332331-eggconsole-burai-jokan-pc-8801mkiisr.json](./332331-eggconsole-burai-jokan-pc-8801mkiisr.json) |
+| Eggconsole Carbuncle Pi MSX2 | 385115 | [385115-eggconsole-carbuncle-pi-msx2.json](./385115-eggconsole-carbuncle-pi-msx2.json) |
 | Eggconsole Carmine 88 PC-8801mkIISR | 330400 | [330400-eggconsole-carmine-88-pc-8801mkiisr.json](./330400-eggconsole-carmine-88-pc-8801mkiisr.json) |
 | Eggconsole Courageous Perseus PC-8801 | 386184 | [386184-eggconsole-courageous-perseus-pc-8801.json](./386184-eggconsole-courageous-perseus-pc-8801.json) |
 | Eggconsole Crimson II PC-8801mkIISR | 365538 | [365538-eggconsole-crimson-ii-pc-8801mkiisr.json](./365538-eggconsole-crimson-ii-pc-8801mkiisr.json) |
@@ -1466,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Kohakuiro no Yuigon PC-8801mkIISR | 393629 | [393629-eggconsole-kohakuiro-no-yuigon-pc-8801mkiisr.json](./393629-eggconsole-kohakuiro-no-yuigon-pc-8801mkiisr.json) |
 | Eggconsole Lizard PC-8801 | 379358 | [379358-eggconsole-lizard-pc-8801.json](./379358-eggconsole-lizard-pc-8801.json) |
 | Eggconsole Lord Monarch PC-9801 | 364076 | [364076-eggconsole-lord-monarch-pc-9801.json](./364076-eggconsole-lord-monarch-pc-9801.json) |
+| Eggconsole Mad Rider MSX2 | 385113 | [385113-eggconsole-mad-rider-msx2.json](./385113-eggconsole-mad-rider-msx2.json) |
 | Eggconsole Marchen Veil II PC-9801 | 403743 | [403743-eggconsole-marchen-veil-ii-pc-9801.json](./403743-eggconsole-marchen-veil-ii-pc-9801.json) |
 | Eggconsole Meurtre d'un Clown PC-8801 | 401113 | [401113-eggconsole-meurtre-dun-clown-pc-8801.json](./401113-eggconsole-meurtre-dun-clown-pc-8801.json) |
 | Eggconsole Mirai MSX2 | 406080 | [406080-eggconsole-mirai-msx2.json](./406080-eggconsole-mirai-msx2.json) |
@@ -1480,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Relics MSX2 | 407852 | [407852-eggconsole-relics-msx2.json](./407852-eggconsole-relics-msx2.json) |
 | Eggconsole Revival Xanadu Easy Ver PC-9801 | 347313 | [347313-eggconsole-revival-xanadu-easy-ver-pc-9801.json](./347313-eggconsole-revival-xanadu-easy-ver-pc-9801.json) |
 | Eggconsole Riglas PC-8801 | 324189 | [324189-eggconsole-riglas-pc-8801.json](./324189-eggconsole-riglas-pc-8801.json) |
+| Eggconsole Rune Worth 2 PC-9801 | 385112 | [385112-eggconsole-rune-worth-2-pc-9801.json](./385112-eggconsole-rune-worth-2-pc-9801.json) |
 | Eggconsole Seilane PC-8801MkIISR | 308640 | [308640-eggconsole-seilane-pc-8801mkiisr.json](./308640-eggconsole-seilane-pc-8801mkiisr.json) |
 | Eggconsole Silver Ghost PC-8801mkIISR | 317893 | [317893-eggconsole-silver-ghost-pc-8801mkiisr.json](./317893-eggconsole-silver-ghost-pc-8801mkiisr.json) |
 | Eggconsole Sorcerian PC-8801mkIISR | 304797 | [304797-eggconsole-sorcerian-pc-8801mkiisr.json](./304797-eggconsole-sorcerian-pc-8801mkiisr.json) |
@@ -3225,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EmyLiveShow: BossRush | 379543 | [379543-emyliveshow-bossrush.json](./379543-emyliveshow-bossrush.json) |
 | EmyLiveShow: Case of Four Hot Witnesses | 379538 | [379538-emyliveshow-case-of-four-hot-witnesses.json](./379538-emyliveshow-case-of-four-hot-witnesses.json) |
 | EmyLiveShow: Dangers & Mysteries Tale | 311055 | [311055-emyliveshow-dangers-and-mysteries-tale.json](./311055-emyliveshow-dangers-and-mysteries-tale.json) |
+| EmyLiveShow: Demons and Mistresses Tale | 385111 | [385111-emyliveshow-demons-and-mistresses-tale.json](./385111-emyliveshow-demons-and-mistresses-tale.json) |
 | EmyLiveShow: Hentai Puzzle Game | 264774 | [264774-emyliveshow-hentai-puzzle-game.json](./264774-emyliveshow-hentai-puzzle-game.json) |
 | Emzombed | 267473 | [267473-emzombed.json](./267473-emzombed.json) |
 | En Campaña | 262267 | [262267-en-campana.json](./262267-en-campana.json) |
@@ -3305,6 +3309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanter Trilogy | 73789 | [73789-enchanter-trilogy.json](./73789-enchanter-trilogy.json) |
 | Enchanting Mahjong Match | 90097 | [90097-enchanting-mahjong-match.json](./90097-enchanting-mahjong-match.json) |
 | Enchantment 2: Sun's Tear | 337836 | [337836-enchantment-2-suns-tear.json](./337836-enchantment-2-suns-tear.json) |
+| Enchantment 2: Sun's Tear - Collector's Edition | 385110 | [385110-enchantment-2-suns-tear-collectors-edition.json](./385110-enchantment-2-suns-tear-collectors-edition.json) |
 | Enchantment Siege | 253966 | [253966-enchantment-siege.json](./253966-enchantment-siege.json) |
 | Enchantment: Secret Hideaway - Collector's Edition | 395948 | [395948-enchantment-secret-hideaway-collectors-edition.json](./395948-enchantment-secret-hideaway-collectors-edition.json) |
 | Enchantress of the Sea | 322014 | [322014-enchantress-of-the-sea.json](./322014-enchantress-of-the-sea.json) |
@@ -7672,6 +7677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extra Cream | 310134 | [310134-extra-cream.json](./310134-extra-cream.json) |
 | Extra Evolution: L’Era del Primordiale | 342778 | [342778-extra-evolution-l-era-del-primordiale.json](./342778-extra-evolution-l-era-del-primordiale.json) |
 | Extra Extra Poison | 369578 | [369578-extra-extra-poison.json](./369578-extra-extra-poison.json) |
+| Extra Extra Poison NS | 385109 | [385109-extra-extra-poison-ns.json](./385109-extra-extra-poison-ns.json) |
 | Extra Innings | 42558 | [42558-extra-innings.json](./42558-extra-innings.json) |
 | Extra Lives | 216104 | [216104-extra-lives.json](./216104-extra-lives.json) |
 | Extra Mario Bros. | 219115 | [219115-extra-mario-bros.json](./219115-extra-mario-bros.json) |
