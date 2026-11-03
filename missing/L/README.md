@@ -6256,6 +6256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Livora | 402966 | [402966-livora.json](./402966-livora.json) |
 | Liwertown: Rebirth | 267453 | [267453-liwertown-rebirth.json](./267453-liwertown-rebirth.json) |
 | Lix | 97896 | [97896-lix.json](./97896-lix.json) |
+| Lixing's Picross World | 351507 | [351507-lixings-picross-world.json](./351507-lixings-picross-world.json) |
 | Liyf | 275349 | [275349-liyf.json](./275349-liyf.json) |
 | Liyla and the Shadows of War | 74505 | [74505-liyla-and-the-shadows-of-war.json](./74505-liyla-and-the-shadows-of-war.json) |
 | Liz and Rose's Alchemy Factory | 337806 | [337806-liz-and-roses-alchemy-factory.json](./337806-liz-and-roses-alchemy-factory.json) |
@@ -7898,6 +7899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Legends: The Pharaoh's Tomb | 43135 | [43135-lost-legends-the-pharaohs-tomb.json](./43135-lost-legends-the-pharaohs-tomb.json) |
 | Lost Legends: The Weeping Woman - Collector's Edition | 34592 | [34592-lost-legends-the-weeping-woman-collectors-edition.json](./34592-lost-legends-the-weeping-woman-collectors-edition.json) |
 | Lost Legions | 304719 | [304719-lost-legions.json](./304719-lost-legions.json) |
+| Lost Letter | 351364 | [351364-lost-letter.json](./351364-lost-letter.json) |
 | Lost Letters | 110909 | [110909-lost-letters.json](./110909-lost-letters.json) |
 | Lost Lies | 164178 | [164178-lost-lies.json](./164178-lost-lies.json) |
 | Lost Life: Origins | 207758 | [207758-lost-life-origins.json](./207758-lost-life-origins.json) |
@@ -8859,6 +8861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucifer: Paradise Lost | 157981 | [157981-lucifer-paradise-lost.json](./157981-lucifer-paradise-lost.json) |
 | Lucifer's Ballroom Bonanza | 246531 | [246531-lucifers-ballroom-bonanza.json](./246531-lucifers-ballroom-bonanza.json) |
 | Lucifer's Bountiful Beads | 246532 | [246532-lucifers-bountiful-beads.json](./246532-lucifers-bountiful-beads.json) |
+| Lucifer's Grand Adventure | 351510 | [351510-lucifers-grand-adventure.json](./351510-lucifers-grand-adventure.json) |
 | Lucifer's Kingdom | 72097 | [72097-lucifers-kingdom.json](./72097-lucifers-kingdom.json) |
 | Lucifer's Realm | 25895 | [25895-lucifers-realm.json](./25895-lucifers-realm.json) |
 | Lucifer's Spell | 268635 | [268635-lucifers-spell.json](./268635-lucifers-spell.json) |
