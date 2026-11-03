@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C17 | 253346 | [253346-c17.json](./253346-c17.json) |
 | C21: Steel Battle Chronicles | 240373 | [240373-c21-steel-battle-chronicles.json](./240373-c21-steel-battle-chronicles.json) |
 | C2H6O | 69384 | [69384-c2h6o.json](./69384-c2h6o.json) |
+| C4 Clicker: First Mint | 363119 | [363119-c4-clicker-first-mint.json](./363119-c4-clicker-first-mint.json) |
 | C5 Clive | 86025 | [86025-c5-clive.json](./86025-c5-clive.json) |
 | C64 & Amiga Classix Remakes Sixpack | 94773 | [94773-c64-and-amiga-classix-remakes-sixpack.json](./94773-c64-and-amiga-classix-remakes-sixpack.json) |
 | C64 & Amiga Classix Remakes Sixpack 2 | 84129 | [84129-c64-and-amiga-classix-remakes-sixpack-2.json](./84129-c64-and-amiga-classix-remakes-sixpack-2.json) |
@@ -13828,6 +13829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copz N Zombies | 291866 | [291866-copz-n-zombies.json](./291866-copz-n-zombies.json) |
 | Coquette Dragoon: Volume One | 210093 | [210093-coquette-dragoon-volume-one.json](./210093-coquette-dragoon-volume-one.json) |
 | Coqui the Game | 55982 | [55982-coqui-the-game.json](./55982-coqui-the-game.json) |
+| Cor Draconis | 363140 | [363140-cor-draconis.json](./363140-cor-draconis.json) |
 | Cor Ex Machina | 63876 | [63876-cor-ex-machina.json](./63876-cor-ex-machina.json) |
 | Cora | 366836 | [366836-cora.json](./366836-cora.json) |
 | Coraabia | 63300 | [63300-coraabia.json](./63300-coraabia.json) |
