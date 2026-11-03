@@ -3364,6 +3364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encounter at Questar IV | 408509 | [408509-encounter-at-questar-iv.json](./408509-encounter-at-questar-iv.json) |
 | Encounter Bar | 385258 | [385258-encounter-bar.json](./385258-encounter-bar.json) |
 | Encounter of Galaxies | 28931 | [28931-encounter-of-galaxies.json](./28931-encounter-of-galaxies.json) |
+| Encounter: A 8-Bit Noir Adventure | 371192 | [371192-encounter-a-8-bit-noir-adventure.json](./371192-encounter-a-8-bit-noir-adventure.json) |
 | Encounter: The Lost Cards | 354540 | [354540-encounter-the-lost-cards.json](./354540-encounter-the-lost-cards.json) |
 | Encounters | 311181 | [311181-encounters.json](./311181-encounters.json) |
 | Encourage | 113142 | [113142-encourage.json](./113142-encourage.json) |
@@ -5307,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Manor | 128840 | [128840-escape-the-manor.json](./128840-escape-the-manor.json) |
 | Escape the Marine Lab | 406693 | [406693-escape-the-marine-lab.json](./406693-escape-the-marine-lab.json) |
 | Escape the Maze | 366117 | [366117-escape-the-maze.json](./366117-escape-the-maze.json) |
+| Escape the Maze | 371195 | [371195-escape-the-maze.json](./371195-escape-the-maze.json) |
 | Escape the Mazes | 90483 | [90483-escape-the-mazes.json](./90483-escape-the-mazes.json) |
 | Escape the MonStalkers! | 343042 | [343042-escape-the-monstalkers.json](./343042-escape-the-monstalkers.json) |
 | Escape the Museum | 6668 | [6668-escape-the-museum.json](./6668-escape-the-museum.json) |
