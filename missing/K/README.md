@@ -2624,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Moon | 74725 | [74725-killing-moon.json](./74725-killing-moon.json) |
 | Killing random dudes online | 110668 | [110668-killing-random-dudes-online.json](./110668-killing-random-dudes-online.json) |
 | Killing Room | 25254 | [25254-killing-room.json](./25254-killing-room.json) |
+| Killing Things With Your Friends | 389258 | [389258-killing-things-with-your-friends.json](./389258-killing-things-with-your-friends.json) |
 | Killing Time | 82092 | [82092-killing-time.json](./82092-killing-time.json) |
 | Killing Time At Lightspeed | 20293 | [20293-killing-time-at-lightspeed.json](./20293-killing-time-at-lightspeed.json) |
 | Killing Time At Lightspeed: Enhanced Edition | 35001 | [35001-killing-time-at-lightspeed-enhanced-edition.json](./35001-killing-time-at-lightspeed-enhanced-edition.json) |
