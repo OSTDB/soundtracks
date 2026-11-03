@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle School Simulator | 299903 | [299903-idle-school-simulator.json](./299903-idle-school-simulator.json) |
 | Idle Shapes | 226164 | [226164-idle-shapes.json](./226164-idle-shapes.json) |
 | Idle Shelter: Dog Rescue Tycoon | 400825 | [400825-idle-shelter-dog-rescue-tycoon.json](./400825-idle-shelter-dog-rescue-tycoon.json) |
+| Idle Shooter | 379834 | [379834-idle-shooter.json](./379834-idle-shooter.json) |
 | Idle ShowOff | 368683 | [368683-idle-showoff.json](./368683-idle-showoff.json) |
 | Idle Siege: Army Tycoon Game | 246982 | [246982-idle-siege-army-tycoon-game.json](./246982-idle-siege-army-tycoon-game.json) |
 | Idle Simple RPG | 243212 | [243212-idle-simple-rpg.json](./243212-idle-simple-rpg.json) |
@@ -4566,6 +4567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intercontinental | 131383 | [131383-intercontinental.json](./131383-intercontinental.json) |
 | Interdictor Pilot | 342035 | [342035-interdictor-pilot.json](./342035-interdictor-pilot.json) |
 | Interdimension | 191076 | [191076-interdimension.json](./191076-interdimension.json) |
+| Interdimensional Lili | 379829 | [379829-interdimensional-lili.json](./379829-interdimensional-lili.json) |
 | Interesting Kaizo World | 215768 | [215768-interesting-kaizo-world.json](./215768-interesting-kaizo-world.json) |
 | Interfectorem | 30826 | [30826-interfectorem.json](./30826-interfectorem.json) |
 | Interference | 131445 | [131445-interference.json](./131445-interference.json) |
