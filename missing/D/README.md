@@ -10204,6 +10204,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dispatch | 127531 | [127531-dispatch.json](./127531-dispatch.json) |
 | Dispatch | 339997 | [339997-dispatch.json](./339997-dispatch.json) |
 | Dispatch Madness | 289262 | [289262-dispatch-madness.json](./289262-dispatch-madness.json) |
+| Dispatch: Episode 1 - Pivot | 376768 | [376768-dispatch-episode-1-pivot.json](./376768-dispatch-episode-1-pivot.json) |
+| Dispatch: Episode 2 - Onboard | 376771 | [376771-dispatch-episode-2-onboard.json](./376771-dispatch-episode-2-onboard.json) |
 | Dispatch: HR Violations Pack | 417758 | [417758-dispatch-hr-violations-pack.json](./417758-dispatch-hr-violations-pack.json) |
 | Dispatched | 415504 | [415504-dispatched.json](./415504-dispatched.json) |
 | Dispatcher | 11348 | [11348-dispatcher.json](./11348-dispatcher.json) |
