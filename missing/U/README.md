@@ -3280,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | US Bus Simulator 2020 | 188372 | [188372-us-bus-simulator-2020.json](./188372-us-bus-simulator-2020.json) |
 | US Coin | 86702 | [86702-us-coin.json](./86702-us-coin.json) |
 | US Conflict: Tank Battles | 410368 | [410368-us-conflict-tank-battles.json](./410368-us-conflict-tank-battles.json) |
+| Us Five Forever | 394984 | [394984-us-five-forever.json](./394984-us-five-forever.json) |
 | US History: Western Settlement to Modern Day | 70303 | [70303-us-history-western-settlement-to-modern-day.json](./70303-us-history-western-settlement-to-modern-day.json) |
 | US Long Trucks : Road Simulator | 46495 | [46495-us-long-trucks-road-simulator.json](./46495-us-long-trucks-road-simulator.json) |
 | Us Lovely Corpses | 123279 | [123279-us-lovely-corpses.json](./123279-us-lovely-corpses.json) |
