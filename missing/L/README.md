@@ -6937,6 +6937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Drop | 204176 | [204176-long-drop.json](./204176-long-drop.json) |
 | Long Gone | 216609 | [216609-long-gone.json](./216609-long-gone.json) |
 | Long Gone Days | 31820 | [31820-long-gone-days.json](./31820-long-gone-days.json) |
+| Lóng Hún Dàmàoxiǎn | 367129 | [367129-long-hun-damaoxian.json](./367129-long-hun-damaoxian.json) |
 | Long Hun Shi Ke | 90619 | [90619-long-hun-shi-ke.json](./90619-long-hun-shi-ke.json) |
 | Long in the Tooth | 376130 | [376130-long-in-the-tooth.json](./376130-long-in-the-tooth.json) |
 | Long Journey | 200571 | [200571-long-journey.json](./200571-long-journey.json) |
