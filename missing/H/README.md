@@ -1466,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Breeding | 92696 | [92696-happy-breeding.json](./92696-happy-breeding.json) |
 | Happy Burger | 257780 | [257780-happy-burger.json](./257780-happy-burger.json) |
 | Happy Burger Days | 88481 | [88481-happy-burger-days.json](./88481-happy-burger-days.json) |
+| Happy Bushman | 386311 | [386311-happy-bushman.json](./386311-happy-bushman.json) |
 | Happy Campers | 29292 | [29292-happy-campers.json](./29292-happy-campers.json) |
 | Happy Cat Tavern | 209603 | [209603-happy-cat-tavern.json](./209603-happy-cat-tavern.json) |
 | Happy Challenger Yamada | 313312 | [313312-happy-challenger-yamada.json](./313312-happy-challenger-yamada.json) |
