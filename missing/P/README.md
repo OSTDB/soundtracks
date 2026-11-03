@@ -13932,6 +13932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess: The East and the Expedition | 308902 | [308902-princess-the-east-and-the-expedition.json](./308902-princess-the-east-and-the-expedition.json) |
 | Princess.Loot.Pixel.Again | 34129 | [34129-princess-loot-pixel-again.json](./34129-princess-loot-pixel-again.json) |
 | Princess.Loot.Pixel.Again x2 | 79101 | [79101-princess-loot-pixel-again-x2.json](./79101-princess-loot-pixel-again-x2.json) |
+| Princess's Peak | 367083 | [367083-princesss-peak.json](./367083-princesss-peak.json) |
 | Princesses Lylop: Royal Puzzle Challenge | 328495 | [328495-princesses-lylop-royal-puzzle-challenge.json](./328495-princesses-lylop-royal-puzzle-challenge.json) |
 | Princesses Never Lose! | 117701 | [117701-princesses-never-lose.json](./117701-princesses-never-lose.json) |
 | Princesses vs Dragons: Royal Rumble | 121187 | [121187-princesses-vs-dragons-royal-rumble.json](./121187-princesses-vs-dragons-royal-rumble.json) |
@@ -17416,6 +17417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Gems | 290240 | [290240-puzzle-gems.json](./290240-puzzle-gems.json) |
 | Puzzle Girl | 155463 | [155463-puzzle-girl.json](./155463-puzzle-girl.json) |
 | Puzzle Girls | 255527 | [255527-puzzle-girls.json](./255527-puzzle-girls.json) |
+| Puzzle Girls | 367125 | [367125-puzzle-girls.json](./367125-puzzle-girls.json) |
 | Puzzle Girls: Alexa | 286400 | [286400-puzzle-girls-alexa.json](./286400-puzzle-girls-alexa.json) |
 | Puzzle Girls: Celia | 163913 | [163913-puzzle-girls-celia.json](./163913-puzzle-girls-celia.json) |
 | Puzzle Girls: Cheryl | 163548 | [163548-puzzle-girls-cheryl.json](./163548-puzzle-girls-cheryl.json) |
