@@ -1720,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tango | 321121 | [321121-tango.json](./321121-tango.json) |
 | Tango 5 Reloaded: Grid Action Heroes | 105223 | [105223-tango-5-reloaded-grid-action-heroes.json](./105223-tango-5-reloaded-grid-action-heroes.json) |
 | Tango 5: The Last Dance | 80338 | [80338-tango-5-the-last-dance.json](./80338-tango-5-the-last-dance.json) |
+| Tango District | 398146 | [398146-tango-district.json](./398146-tango-district.json) |
 | Tango Fiesta | 9459 | [9459-tango-fiesta.json](./9459-tango-fiesta.json) |
 | Tango Race: Nou Training Kotoba Game | 208851 | [208851-tango-race-nou-training-kotoba-game.json](./208851-tango-race-nou-training-kotoba-game.json) |
 | Tango Survival: Omoshiroi Kotoba Game | 208852 | [208852-tango-survival-omoshiroi-kotoba-game.json](./208852-tango-survival-omoshiroi-kotoba-game.json) |
@@ -6446,6 +6447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bounty V2 | 75832 | [75832-the-bounty-v2.json](./75832-the-bounty-v2.json) |
 | The Bourntyverse! | 272662 | [272662-the-bourntyverse.json](./272662-the-bourntyverse.json) |
 | The Bow | 60602 | [60602-the-bow.json](./60602-the-bow.json) |
+| The Bow: Ultimate Weapon | 398134 | [398134-the-bow-ultimate-weapon.json](./398134-the-bow-ultimate-weapon.json) |
 | The Bowling Tournament | 277418 | [277418-the-bowling-tournament.json](./277418-the-bowling-tournament.json) |
 | The Bowyage | 265208 | [265208-the-bowyage.json](./265208-the-bowyage.json) |
 | The Box | 133718 | [133718-the-box.json](./133718-the-box.json) |
@@ -6524,6 +6526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bronze Age | 206517 | [206517-the-bronze-age.json](./206517-the-bronze-age.json) |
 | The Broston Saga | 143932 | [143932-the-broston-saga.json](./143932-the-broston-saga.json) |
 | The Brotherhood of Ruin | 142277 | [142277-the-brotherhood-of-ruin.json](./142277-the-brotherhood-of-ruin.json) |
+| The Brotherhood: The Way of the Sleeper | 398130 | [398130-the-brotherhood-the-way-of-the-sleeper.json](./398130-the-brotherhood-the-way-of-the-sleeper.json) |
 | The Brothers | 216751 | [216751-the-brothers.json](./216751-the-brothers.json) |
 | The Brothers Hotel | 333084 | [333084-the-brothers-hotel.json](./333084-the-brothers-hotel.json) |
 | The Browning Duck Hunter | 119582 | [119582-the-browning-duck-hunter.json](./119582-the-browning-duck-hunter.json) |
@@ -13994,6 +13997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Patashnik Parable | 176434 | [176434-the-patashnik-parable.json](./176434-the-patashnik-parable.json) |
 | The Patchmaker's Workshop | 313089 | [313089-the-patchmakers-workshop.json](./313089-the-patchmakers-workshop.json) |
 | The Path | 10199 | [10199-the-path.json](./10199-the-path.json) |
+| The Path | 398120 | [398120-the-path.json](./398120-the-path.json) |
 | The Path of Blades | 367484 | [367484-the-path-of-blades.json](./367484-the-path-of-blades.json) |
 | The Path of Calydra | 138527 | [138527-the-path-of-calydra.json](./138527-the-path-of-calydra.json) |
 | The Path of Greatest Resistance | 32372 | [32372-the-path-of-greatest-resistance.json](./32372-the-path-of-greatest-resistance.json) |
@@ -16337,6 +16341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Subterrestrial Hangar | 309199 | [309199-the-subterrestrial-hangar.json](./309199-the-subterrestrial-hangar.json) |
 | The Suburb: Not Just Dinner | 176766 | [176766-the-suburb-not-just-dinner.json](./176766-the-suburb-not-just-dinner.json) |
 | The Succubi Trap | 74354 | [74354-the-succubi-trap.json](./74354-the-succubi-trap.json) |
+| The Succubus Trap Island | 398129 | [398129-the-succubus-trap-island.json](./398129-the-succubus-trap-island.json) |
 | The Sudoku Challenge! | 257311 | [257311-the-sudoku-challenge.json](./257311-the-sudoku-challenge.json) |
 | The Sueño | 86088 | [86088-the-sueno.json](./86088-the-sueno.json) |
 | The Suffering: Ties That Bind | 6181 | [6181-the-suffering-ties-that-bind.json](./6181-the-suffering-ties-that-bind.json) |
