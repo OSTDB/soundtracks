@@ -11521,6 +11521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Fighter | 209662 | [209662-the-last-fighter.json](./209662-the-last-fighter.json) |
 | The Last Flame | 226601 | [226601-the-last-flame.json](./226601-the-last-flame.json) |
 | The Last Flight | 407566 | [407566-the-last-flight.json](./407566-the-last-flight.json) |
+| The Last Flight: Return Home | 355294 | [355294-the-last-flight-return-home.json](./355294-the-last-flight-return-home.json) |
 | The Last Flower | 146304 | [146304-the-last-flower.json](./146304-the-last-flower.json) |
 | The Last Flower | 294869 | [294869-the-last-flower.json](./294869-the-last-flower.json) |
 | The last four | 216794 | [216794-the-last-four.json](./216794-the-last-four.json) |
@@ -25949,6 +25950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: LSZH Airport | 353325 | [353325-tower-simulator-3-lszh-airport.json](./353325-tower-simulator-3-lszh-airport.json) |
 | Tower! Simulator 3: Miyo | 353333 | [353333-tower-simulator-3-miyo.json](./353333-tower-simulator-3-miyo.json) |
 | Tower! Simulator 3: MMPR Airport | 289932 | [289932-tower-simulator-3-mmpr-airport.json](./289932-tower-simulator-3-mmpr-airport.json) |
+| Tower! Simulator 3: NZAA Airport | 355297 | [355297-tower-simulator-3-nzaa-airport.json](./355297-tower-simulator-3-nzaa-airport.json) |
 | Tower! Simulator 3: OMDB Airport | 236836 | [236836-tower-simulator-3-omdb-airport.json](./236836-tower-simulator-3-omdb-airport.json) |
 | Tower! Simulator 3: PANC Airport | 396510 | [396510-tower-simulator-3-panc-airport.json](./396510-tower-simulator-3-panc-airport.json) |
 | Tower! Simulator 3: RJTT Airport | 310044 | [310044-tower-simulator-3-rjtt-airport.json](./310044-tower-simulator-3-rjtt-airport.json) |
