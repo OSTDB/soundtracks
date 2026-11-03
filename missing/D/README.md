@@ -1395,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Craft | 379935 | [379935-dark-craft.json](./379935-dark-craft.json) |
 | Dark Cravings | 199276 | [199276-dark-cravings.json](./199276-dark-cravings.json) |
 | Dark Crescent | 404660 | [404660-dark-crescent.json](./404660-dark-crescent.json) |
+| Dark Cross | 350306 | [350306-dark-cross.json](./350306-dark-cross.json) |
 | Dark Crypt | 164215 | [164215-dark-crypt.json](./164215-dark-crypt.json) |
 | Dark Cube | 125906 | [125906-dark-cube.json](./125906-dark-cube.json) |
 | Dark Cut | 165329 | [165329-dark-cut.json](./165329-dark-cut.json) |
@@ -6956,6 +6957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desire City | 175708 | [175708-desire-city.json](./175708-desire-city.json) |
 | Desire Den | 367267 | [367267-desire-den.json](./367267-desire-den.json) |
 | Desire Empire | 417208 | [417208-desire-empire.json](./417208-desire-empire.json) |
+| Desire For Power: Council Intrigues | 350146 | [350146-desire-for-power-council-intrigues.json](./350146-desire-for-power-council-intrigues.json) |
 | Desire Gambling House | 284339 | [284339-desire-gambling-house.json](./284339-desire-gambling-house.json) |
 | Desire Ninja | 195641 | [195641-desire-ninja.json](./195641-desire-ninja.json) |
 | Desire Remaster Version | 57087 | [57087-desire-remaster-version.json](./57087-desire-remaster-version.json) |
@@ -11902,6 +11904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Go in the woods | 285443 | [285443-dont-go-in-the-woods.json](./285443-dont-go-in-the-woods.json) |
 | Don't Go Live | 399210 | [399210-dont-go-live.json](./399210-dont-go-live.json) |
 | Don't Go Maki-chan | 82715 | [82715-dont-go-maki-chan.json](./82715-dont-go-maki-chan.json) |
+| Don't Go Out | 350300 | [350300-dont-go-out.json](./350300-dont-go-out.json) |
 | Don't Go Up There | 387546 | [387546-dont-go-up-there.json](./387546-dont-go-up-there.json) |
 | Don't Go, Pikachu! | 250496 | [250496-dont-go-pikachu.json](./250496-dont-go-pikachu.json) |
 | Don't Grind | 96894 | [96894-dont-grind.json](./96894-dont-grind.json) |
@@ -14651,6 +14654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Gold | 13609 | [13609-dragons-gold.json](./13609-dragons-gold.json) |
 | Dragon's Heaven | 216403 | [216403-dragons-heaven.json](./216403-dragons-heaven.json) |
 | Dragon's Heaven | 264306 | [264306-dragons-heaven.json](./264306-dragons-heaven.json) |
+| Dragon's Heaven | 350145 | [350145-dragons-heaven.json](./350145-dragons-heaven.json) |
 | Dragon's Hoard | 93621 | [93621-dragons-hoard.json](./93621-dragons-hoard.json) |
 | Dragon's Hope | 113740 | [113740-dragons-hope.json](./113740-dragons-hope.json) |
 | Dragon's Jewels | 422045 | [422045-dragons-jewels.json](./422045-dragons-jewels.json) |
@@ -16238,6 +16242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop one NPC to another | 187183 | [187183-drop-one-npc-to-another.json](./187183-drop-one-npc-to-another.json) |
 | Drop Out 0 | 31594 | [31594-drop-out-0.json](./31594-drop-out-0.json) |
 | Drop Pane: Not Only Match-3 | 290480 | [290480-drop-pane-not-only-match-3.json](./290480-drop-pane-not-only-match-3.json) |
+| Drop Point | 350156 | [350156-drop-point.json](./350156-drop-point.json) |
 | Drop Point: Alaska | 63688 | [63688-drop-point-alaska.json](./63688-drop-point-alaska.json) |
 | Drop Pop | 386981 | [386981-drop-pop.json](./386981-drop-pop.json) |
 | Drop That Cat | 330399 | [330399-drop-that-cat.json](./330399-drop-that-cat.json) |
@@ -18518,6 +18523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynatron Mission | 14046 | [14046-dynatron-mission.json](./14046-dynatron-mission.json) |
 | Dynetzzle Extended | 20101 | [20101-dynetzzle-extended.json](./20101-dynetzzle-extended.json) |
 | Dyno Adventure | 31399 | [31399-dyno-adventure.json](./31399-dyno-adventure.json) |
+| DynoBlaze | 350144 | [350144-dynoblaze.json](./350144-dynoblaze.json) |
 | Dynogems | 42826 | [42826-dynogems.json](./42826-dynogems.json) |
 | Dynomite Deluxe | 71301 | [71301-dynomite-deluxe.json](./71301-dynomite-deluxe.json) |
 | Dynomite! | 8324 | [8324-dynomite.json](./8324-dynomite.json) |
