@@ -1185,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Duke Nukem | 369758 | [369758-falling-duke-nukem.json](./369758-falling-duke-nukem.json) |
 | Falling Elevator | 201486 | [201486-falling-elevator.json](./201486-falling-elevator.json) |
 | Falling Flower | 340055 | [340055-falling-flower.json](./340055-falling-flower.json) |
+| Falling for Autumn | 384479 | [384479-falling-for-autumn.json](./384479-falling-for-autumn.json) |
 | Falling for Beans | 275539 | [275539-falling-for-beans.json](./275539-falling-for-beans.json) |
 | Falling for Yaoguais | 333569 | [333569-falling-for-yaoguais.json](./333569-falling-for-yaoguais.json) |
 | Falling Fred | 381065 | [381065-falling-fred.json](./381065-falling-fred.json) |
