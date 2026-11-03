@@ -560,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikoro Saiko: Miss Fortune | 314826 | [314826-saikoro-saiko-miss-fortune.json](./314826-saikoro-saiko-miss-fortune.json) |
 | Saikoro Saiko: Promises | 314825 | [314825-saikoro-saiko-promises.json](./314825-saikoro-saiko-promises.json) |
 | Saikuru | 287059 | [287059-saikuru.json](./287059-saikuru.json) |
+| Saikyo no Mahjong 3D | 389263 | [389263-saikyo-no-mahjong-3d.json](./389263-saikyo-no-mahjong-3d.json) |
 | Saikyo no Mahjong: 100 Mannin no Tame no Mahjong Dojo | 222373 | [222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json](./222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json) |
 | Saikyo Robots | 251824 | [251824-saikyo-robots.json](./251824-saikyo-robots.json) |
 | Saikyoo Silver Star Shogi | 67772 | [67772-saikyoo-silver-star-shogi.json](./67772-saikyoo-silver-star-shogi.json) |
@@ -4493,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Security 51 | 386228 | [386228-security-51.json](./386228-security-51.json) |
 | Security Booth | 159045 | [159045-security-booth.json](./159045-security-booth.json) |
 | Security Booth: Director's Cut | 205075 | [205075-security-booth-directors-cut.json](./205075-security-booth-directors-cut.json) |
+| Security Breach | 389334 | [389334-security-breach.json](./389334-security-breach.json) |
 | Security Control | 278913 | [278913-security-control.json](./278913-security-control.json) |
 | Security Guard | 167565 | [167565-security-guard.json](./167565-security-guard.json) |
 | Security Guard Sex: Episode 1 | 301648 | [301648-security-guard-sex-episode-1.json](./301648-security-guard-sex-episode-1.json) |
@@ -8057,6 +8059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Wind | 72920 | [72920-shining-wind.json](./72920-shining-wind.json) |
 | Shinjatta Kanojo | 251614 | [251614-shinjatta-kanojo.json](./251614-shinjatta-kanojo.json) |
 | Shinjisougeki Carnival | 368986 | [368986-shinjisougeki-carnival.json](./368986-shinjisougeki-carnival.json) |
+| Shinju | 389337 | [389337-shinju.json](./389337-shinju.json) |
 | Shinjuku Anomaly | 386407 | [386407-shinjuku-anomaly.json](./386407-shinjuku-anomaly.json) |
 | Shinjuku Dungeon | 222471 | [222471-shinjuku-dungeon.json](./222471-shinjuku-dungeon.json) |
 | Shinjuku no Okami | 70573 | [70573-shinjuku-no-okami.json](./70573-shinjuku-no-okami.json) |
@@ -10913,6 +10916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SinsFromGod Remake | 212647 | [212647-sinsfromgod-remake.json](./212647-sinsfromgod-remake.json) |
 | SinSiege | 347043 | [347043-sinsiege.json](./347043-sinsiege.json) |
 | Sint Nicolaas | 122964 | [122964-sint-nicolaas.json](./122964-sint-nicolaas.json) |
+| Sinta: Escape from Ixerron Keep | 389347 | [389347-sinta-escape-from-ixerron-keep.json](./389347-sinta-escape-from-ixerron-keep.json) |
 | Sintel: The Game | 61722 | [61722-sintel-the-game.json](./61722-sintel-the-game.json) |
 | Sintesoft 2.0 | 343319 | [343319-sintesoft-2-0.json](./343319-sintesoft-2-0.json) |
 | Sinthetic | 192805 | [192805-sinthetic.json](./192805-sinthetic.json) |
@@ -14281,6 +14285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Sneaky | 14553 | [14553-sneaky-sneaky.json](./14553-sneaky-sneaky.json) |
 | Sneaky Squad | 419179 | [419179-sneaky-squad.json](./419179-sneaky-squad.json) |
 | Sneaky Stealy | 176359 | [176359-sneaky-stealy.json](./176359-sneaky-stealy.json) |
+| Snedronningen | 389350 | [389350-snedronningen.json](./389350-snedronningen.json) |
 | Sneezeman | 189099 | [189099-sneezeman.json](./189099-sneezeman.json) |
 | Sneezies HD | 21748 | [21748-sneezies-hd.json](./21748-sneezies-hd.json) |
 | Sneggit | 42177 | [42177-sneggit.json](./42177-sneggit.json) |
@@ -22202,6 +22207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel Launcher | 230307 | [230307-squirrel-launcher.json](./230307-squirrel-launcher.json) |
 | Squirrel Legacy II: Children of the Nut | 286045 | [286045-squirrel-legacy-ii-children-of-the-nut.json](./286045-squirrel-legacy-ii-children-of-the-nut.json) |
 | Squirrel Madness & Silent Mist | 371431 | [371431-squirrel-madness-and-silent-mist.json](./371431-squirrel-madness-and-silent-mist.json) |
+| Squirrel Simulator | 389266 | [389266-squirrel-simulator.json](./389266-squirrel-simulator.json) |
 | Squirrel Sphere | 89999 | [89999-squirrel-sphere.json](./89999-squirrel-sphere.json) |
 | Squirrel Stapler | 263382 | [263382-squirrel-stapler.json](./263382-squirrel-stapler.json) |
 | Squirrel vs. Worms | 262075 | [262075-squirrel-vs-worms.json](./262075-squirrel-vs-worms.json) |
@@ -23479,6 +23485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star-Wired | 310939 | [310939-star-wired.json](./310939-star-wired.json) |
 | Star: M | 306059 | [306059-star-m.json](./306059-star-m.json) |
 | Star.Bit | 184898 | [184898-star-bit.json](./184898-star-bit.json) |
+| Star's Peaces Renai Ouen Tomodachi Kakutoku Keikaku | 389344 | [389344-stars-peaces-renai-ouen-tomodachi-kakutoku-keikaku.json](./389344-stars-peaces-renai-ouen-tomodachi-kakutoku-keikaku.json) |
 | Star'Shoot | 105327 | [105327-starshoot.json](./105327-starshoot.json) |
 | Star*Burst | 174301 | [174301-star-burst.json](./174301-star-burst.json) |
 | StarAbyss Heroes | 379108 | [379108-starabyss-heroes.json](./379108-starabyss-heroes.json) |
@@ -25994,6 +26001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strahl | 4336 | [4336-strahl.json](./4336-strahl.json) |
 | Straif | 360577 | [360577-straif.json](./360577-straif.json) |
 | Straight Ahead | 187394 | [187394-straight-ahead.json](./187394-straight-ahead.json) |
+| Straight Dice | 389338 | [389338-straight-dice.json](./389338-straight-dice.json) |
 | Straight on 8 | 143968 | [143968-straight-on-8.json](./143968-straight-on-8.json) |
 | Straight to the Bone | 368894 | [368894-straight-to-the-bone.json](./368894-straight-to-the-bone.json) |
 | Straight Up | 289478 | [289478-straight-up.json](./289478-straight-up.json) |
@@ -32566,6 +32574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors | 291906 | [291906-survivors.json](./291906-survivors.json) |
 | Survivors | 292413 | [292413-survivors.json](./292413-survivors.json) |
 | Survivors Gate | 390865 | [390865-survivors-gate.json](./390865-survivors-gate.json) |
+| Survivors Guild | 389352 | [389352-survivors-guild.json](./389352-survivors-guild.json) |
 | Survivors in Blood | 296532 | [296532-survivors-in-blood.json](./296532-survivors-in-blood.json) |
 | Survivors Left: X | 124177 | [124177-survivors-left-x.json](./124177-survivors-left-x.json) |
 | Survivors of Journey to the West: Bald Guy vs Wukong | 310058 | [310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json](./310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json) |
