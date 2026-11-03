@@ -1135,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakeru | 254466 | [254466-bakeru.json](./254466-bakeru.json) |
 | Bakery | 75628 | [75628-bakery.json](./75628-bakery.json) |
 | Bakery Biz Tycoon | 119306 | [119306-bakery-biz-tycoon.json](./119306-bakery-biz-tycoon.json) |
+| Bakery Bundle: Lemon Cake + Magical Bakery | 376777 | [376777-bakery-bundle-lemon-cake-magical-bakery.json](./376777-bakery-bundle-lemon-cake-magical-bakery.json) |
 | Bakery Cafe Simulator | 339217 | [339217-bakery-cafe-simulator.json](./339217-bakery-cafe-simulator.json) |
 | Bakery Magnate: Beginning | 292692 | [292692-bakery-magnate-beginning.json](./292692-bakery-magnate-beginning.json) |
 | Bakery Master | 147091 | [147091-bakery-master.json](./147091-bakery-master.json) |
@@ -4520,6 +4521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be King | 372786 | [372786-be-king.json](./372786-be-king.json) |
 | Be Like Pac-Man and the Ghostly Adventures | 185672 | [185672-be-like-pac-man-and-the-ghostly-adventures.json](./185672-be-like-pac-man-and-the-ghostly-adventures.json) |
 | Be Lost | 369099 | [369099-be-lost.json](./369099-be-lost.json) |
+| Be Missed and Remembered: The Letter from Mayoiga | 376416 | [376416-be-missed-and-remembered-the-letter-from-mayoiga.json](./376416-be-missed-and-remembered-the-letter-from-mayoiga.json) |
 | Be My Loyal Subject | 215490 | [215490-be-my-loyal-subject.json](./215490-be-my-loyal-subject.json) |
 | Be My Match | 299025 | [299025-be-my-match.json](./299025-be-my-match.json) |
 | Be My Princess | 238419 | [238419-be-my-princess.json](./238419-be-my-princess.json) |
@@ -14100,6 +14102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Rabbit's Adventure in the Underworld | 184404 | [184404-brave-rabbits-adventure-in-the-underworld.json](./184404-brave-rabbits-adventure-in-the-underworld.json) |
 | Brave Rounds | 390759 | [390759-brave-rounds.json](./390759-brave-rounds.json) |
 | Brave Roy | 98738 | [98738-brave-roy.json](./98738-brave-roy.json) |
+| Brave Saga: Artifact Reborn | 376410 | [376410-brave-saga-artifact-reborn.json](./376410-brave-saga-artifact-reborn.json) |
 | Brave Shot 2 | 286666 | [286666-brave-shot-2.json](./286666-brave-shot-2.json) |
 | Brave Soldier: Invasion of Cyborgs | 227856 | [227856-brave-soldier-invasion-of-cyborgs.json](./227856-brave-soldier-invasion-of-cyborgs.json) |
 | Brave Soul | 70800 | [70800-brave-soul.json](./70800-brave-soul.json) |
