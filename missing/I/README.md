@@ -1887,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iJezzball | 88218 | [88218-ijezzball.json](./88218-ijezzball.json) |
 | Iji | 9778 | [9778-iji.json](./9778-iji.json) |
 | Ijigen Kara no Dasshutsu: Escape from Twilight Zone | 97326 | [97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json](./97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json) |
+| Ijimerarekko ni Happy End ha Odozureru no ka | 376619 | [376619-ijimerarekko-ni-happy-end-ha-odozureru-no-ka.json](./376619-ijimerarekko-ni-happy-end-ha-odozureru-no-ka.json) |
 | Ijitte! Otouto | 97764 | [97764-ijitte-otouto.json](./97764-ijitte-otouto.json) |
 | Ika Blade | 268913 | [268913-ika-blade.json](./268913-ika-blade.json) |
 | Ika's Odyssey | 340510 | [340510-ikas-odyssey.json](./340510-ikas-odyssey.json) |
@@ -4162,6 +4163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane | 33263 | [33263-insane.json](./33263-insane.json) |
 | Insane | 384816 | [384816-insane.json](./384816-insane.json) |
 | Insane Aquarium Deluxe | 174746 | [174746-insane-aquarium-deluxe.json](./174746-insane-aquarium-deluxe.json) |
+| Insane Bundle with 21 Games | 376778 | [376778-insane-bundle-with-21-games.json](./376778-insane-bundle-with-21-games.json) |
 | Insane Cold: Back to the Ice Age | 76664 | [76664-insane-cold-back-to-the-ice-age.json](./76664-insane-cold-back-to-the-ice-age.json) |
 | Insane Creations | 149528 | [149528-insane-creations.json](./149528-insane-creations.json) |
 | Insane Escape | 244322 | [244322-insane-escape.json](./244322-insane-escape.json) |
