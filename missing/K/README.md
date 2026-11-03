@@ -2156,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidblock | 243171 | [243171-kidblock.json](./243171-kidblock.json) |
 | Kidd Copter | 381326 | [381326-kidd-copter.json](./381326-kidd-copter.json) |
 | Kiddie Coaster | 66045 | [66045-kiddie-coaster.json](./66045-kiddie-coaster.json) |
+| Kiddie Train | 374743 | [374743-kiddie-train.json](./374743-kiddie-train.json) |
 | Kiddies Party Pack | 100174 | [100174-kiddies-party-pack.json](./100174-kiddies-party-pack.json) |
 | Kiddo | 176794 | [176794-kiddo.json](./176794-kiddo.json) |
 | Kiddopia - Preschool Learning Games | 105831 | [105831-kiddopia-preschool-learning-games.json](./105831-kiddopia-preschool-learning-games.json) |
@@ -2701,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4453,6 +4455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights End | 390270 | [390270-knights-end.json](./390270-knights-end.json) |
 | Knights Fight 2: New Blood | 188313 | [188313-knights-fight-2-new-blood.json](./188313-knights-fight-2-new-blood.json) |
 | Knights Hunt | 72501 | [72501-knights-hunt.json](./72501-knights-hunt.json) |
+| Knights in a Different Spacetime | 374866 | [374866-knights-in-a-different-spacetime.json](./374866-knights-in-a-different-spacetime.json) |
 | Knights in Shining Armor: Our King's Tale Episode 1 | 25378 | [25378-knights-in-shining-armor-our-kings-tale-episode-1.json](./25378-knights-in-shining-armor-our-kings-tale-episode-1.json) |
 | Knights in the Nightmare Remaster | 222421 | [222421-knights-in-the-nightmare-remaster.json](./222421-knights-in-the-nightmare-remaster.json) |
 | Knights in Tight Spaces | 292879 | [292879-knights-in-tight-spaces.json](./292879-knights-in-tight-spaces.json) |
