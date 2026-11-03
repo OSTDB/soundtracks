@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamburg: Neue Burg VR | 291510 | [291510-hamburg-neue-burg-vr.json](./291510-hamburg-neue-burg-vr.json) |
 | Hamburger | 284447 | [284447-hamburger.json](./284447-hamburger.json) |
 | Hamburger | 346059 | [346059-hamburger.json](./346059-hamburger.json) |
+| Hamburger Shop | 385514 | [385514-hamburger-shop.json](./385514-hamburger-shop.json) |
 | Hamburger Shop | 386974 | [386974-hamburger-shop.json](./386974-hamburger-shop.json) |
 | Hamburgers VS Eggs | 118684 | [118684-hamburgers-vs-eggs.json](./118684-hamburgers-vs-eggs.json) |
 | Hamcorollin’ | 263330 | [263330-hamcorollin.json](./263330-hamcorollin.json) |
@@ -7621,6 +7622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hirdrih Technologic | 404974 | [404974-hirdrih-technologic.json](./404974-hirdrih-technologic.json) |
 | Hire Me! | 285521 | [285521-hire-me.json](./285521-hire-me.json) |
 | Hired 2 Die | 211704 | [211704-hired-2-die.json](./211704-hired-2-die.json) |
+| Hired Blade | 385761 | [385761-hired-blade.json](./385761-hired-blade.json) |
 | Hired Explorer | 340978 | [340978-hired-explorer.json](./340978-hired-explorer.json) |
 | Hired Guns | 2527 | [2527-hired-guns.json](./2527-hired-guns.json) |
 | Hired Guns: The Jagged Edge | 21191 | [21191-hired-guns-the-jagged-edge.json](./21191-hired-guns-the-jagged-edge.json) |
