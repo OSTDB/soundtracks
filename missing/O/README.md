@@ -4751,6 +4751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Cube | 219626 | [219626-out-of-the-cube.json](./219626-out-of-the-cube.json) |
 | Out of the Deathmount | 231505 | [231505-out-of-the-deathmount.json](./231505-out-of-the-deathmount.json) |
 | Out of the ground | 226202 | [226202-out-of-the-ground.json](./226202-out-of-the-ground.json) |
+| Out of the Ink Machine | 394992 | [394992-out-of-the-ink-machine.json](./394992-out-of-the-ink-machine.json) |
 | Out of the Loop | 95085 | [95085-out-of-the-loop.json](./95085-out-of-the-loop.json) |
 | Out of the Mist | 259121 | [259121-out-of-the-mist.json](./259121-out-of-the-mist.json) |
 | Out of the Ocean | 370075 | [370075-out-of-the-ocean.json](./370075-out-of-the-ocean.json) |
@@ -5049,6 +5050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutOfColors | 96237 | [96237-outofcolors.json](./96237-outofcolors.json) |
 | Outpacked | 377983 | [377983-outpacked.json](./377983-outpacked.json) |
 | Outpath: First Journey | 236761 | [236761-outpath-first-journey.json](./236761-outpath-first-journey.json) |
+| Outplay | 395088 | [395088-outplay.json](./395088-outplay.json) |
 | Outpost | 100123 | [100123-outpost.json](./100123-outpost.json) |
 | Outpost | 14487 | [14487-outpost.json](./14487-outpost.json) |
 | Outpost | 195952 | [195952-outpost.json](./195952-outpost.json) |
