@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rails Across America | 68741 | [68741-rails-across-america.json](./68741-rails-across-america.json) |
 | Rails Lite | 91277 | [91277-rails-lite.json](./91277-rails-lite.json) |
 | Rails West | 24661 | [24661-rails-west.json](./24661-rails-west.json) |
+| Railstrider | 392593 | [392593-railstrider.json](./392593-railstrider.json) |
 | Railway | 210643 | [210643-railway.json](./210643-railway.json) |
 | Railway Chai Wala | 341313 | [341313-railway-chai-wala.json](./341313-railway-chai-wala.json) |
 | Railway Company Owner | 239658 | [239658-railway-company-owner.json](./239658-railway-company-owner.json) |
@@ -7289,6 +7290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RingoWord | 241335 | [241335-ringoword.json](./241335-ringoword.json) |
 | RingRacer | 193252 | [193252-ringracer.json](./193252-ringracer.json) |
 | Rings | 179069 | [179069-rings.json](./179069-rings.json) |
+| Rings | 392608 | [392608-rings.json](./392608-rings.json) |
 | Rings of Harmony | 285928 | [285928-rings-of-harmony.json](./285928-rings-of-harmony.json) |
 | Rings of Hell | 160217 | [160217-rings-of-hell.json](./160217-rings-of-hell.json) |
 | Rings of Medusa | 14507 | [14507-rings-of-medusa.json](./14507-rings-of-medusa.json) |
@@ -8830,6 +8832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock of Destruction! | 104114 | [104114-rock-of-destruction.json](./104114-rock-of-destruction.json) |
 | Rock of the Dead | 7163 | [7163-rock-of-the-dead.json](./7163-rock-of-the-dead.json) |
 | Rock On | 37658 | [37658-rock-on.json](./37658-rock-on.json) |
+| Rock On, Raccoon! | 392697 | [392697-rock-on-raccoon.json](./392697-rock-on-raccoon.json) |
 | Rock on: A SongPop Adventure | 232090 | [232090-rock-on-a-songpop-adventure.json](./232090-rock-on-a-songpop-adventure.json) |
 | Rock On! Island | 318739 | [318739-rock-on-island.json](./318739-rock-on-island.json) |
 | Rock Paper Clash | 364441 | [364441-rock-paper-clash.json](./364441-rock-paper-clash.json) |
@@ -10619,6 +10622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoShamBo Arena: Starter Fighter Pack | 170304 | [170304-roshambo-arena-starter-fighter-pack.json](./170304-roshambo-arena-starter-fighter-pack.json) |
 | Roshpit Champions 2 | 306411 | [306411-roshpit-champions-2.json](./306411-roshpit-champions-2.json) |
 | Rosiana | 74807 | [74807-rosiana.json](./74807-rosiana.json) |
+| Rosie Planet | 392685 | [392685-rosie-planet.json](./392685-rosie-planet.json) |
 | Rosie's Inn | 183526 | [183526-rosies-inn.json](./183526-rosies-inn.json) |
 | Rosie's Rampage | 391170 | [391170-rosies-rampage.json](./391170-rosies-rampage.json) |
 | Rosie's Reality | 356020 | [356020-rosies-reality.json](./356020-rosies-reality.json) |
@@ -12414,6 +12418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RWBY: Grimm Eclipse - JNPR | 282712 | [282712-rwby-grimm-eclipse-jnpr.json](./282712-rwby-grimm-eclipse-jnpr.json) |
 | RWBY: Vale of Darkness | 236806 | [236806-rwby-vale-of-darkness.json](./236806-rwby-vale-of-darkness.json) |
 | Rwen's Day Out | 185025 | [185025-rwens-day-out.json](./185025-rwens-day-out.json) |
+| RWS | 392606 | [392606-rws.json](./392606-rws.json) |
 | RWSD | 352286 | [352286-rwsd.json](./352286-rwsd.json) |
 | RX Racing 2022 Pro | 386412 | [386412-rx-racing-2022-pro.json](./386412-rx-racing-2022-pro.json) |
 | RX10-40 | 324312 | [324312-rx10-40.json](./324312-rx10-40.json) |
