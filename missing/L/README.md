@@ -7550,6 +7550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Brother | 323895 | [323895-lost-brother.json](./323895-lost-brother.json) |
 | Lost Brothers | 127311 | [127311-lost-brothers.json](./127311-lost-brothers.json) |
 | Lost Bubbles: Sweet Mates | 185666 | [185666-lost-bubbles-sweet-mates.json](./185666-lost-bubbles-sweet-mates.json) |
+| Lost Bus | 376769 | [376769-lost-bus.json](./376769-lost-bus.json) |
 | Lost But Found | 319745 | [319745-lost-but-found.json](./319745-lost-but-found.json) |
 | Lost but Lucid | 213549 | [213549-lost-but-lucid.json](./213549-lost-but-lucid.json) |
 | Lost Call | 392195 | [392195-lost-call.json](./392195-lost-call.json) |
