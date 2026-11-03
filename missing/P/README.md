@@ -1041,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda in the clouds | 165645 | [165645-panda-in-the-clouds.json](./165645-panda-in-the-clouds.json) |
 | Panda Jump | 147846 | [147846-panda-jump.json](./147846-panda-jump.json) |
 | Panda Jump Seasons | 353362 | [353362-panda-jump-seasons.json](./353362-panda-jump-seasons.json) |
+| Panda Keeper | 395661 | [395661-panda-keeper.json](./395661-panda-keeper.json) |
 | Panda Legend | 214723 | [214723-panda-legend.json](./214723-panda-legend.json) |
 | Panda Love | 43087 | [43087-panda-love.json](./43087-panda-love.json) |
 | Panda Lu Baby Bear Care 2 | 227472 | [227472-panda-lu-baby-bear-care-2.json](./227472-panda-lu-baby-bear-care-2.json) |
@@ -2643,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passion Rift | 369776 | [369776-passion-rift.json](./369776-passion-rift.json) |
 | Passioners | 379534 | [379534-passioners.json](./379534-passioners.json) |
 | Passionstruck | 409840 | [409840-passionstruck.json](./409840-passionstruck.json) |
+| Passis | 395631 | [395631-passis.json](./395631-passis.json) |
 | Passive Hero: Save the World in 100 Days! | 359575 | [359575-passive-hero-save-the-world-in-100-days.json](./359575-passive-hero-save-the-world-in-100-days.json) |
 | Passive Income | 167192 | [167192-passive-income.json](./167192-passive-income.json) |
 | Passpartout 2: The Lost Artist | 152185 | [152185-passpartout-2-the-lost-artist.json](./152185-passpartout-2-the-lost-artist.json) |
@@ -3785,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penga & Obcster's Christmish Adventure | 26757 | [26757-penga-and-obcsters-christmish-adventure.json](./26757-penga-and-obcsters-christmish-adventure.json) |
 | Penga's Peril | 68539 | [68539-pengas-peril.json](./68539-pengas-peril.json) |
 | Pengicitis The Game | 353324 | [353324-pengicitis-the-game.json](./353324-pengicitis-the-game.json) |
+| Pengilo | 395660 | [395660-pengilo.json](./395660-pengilo.json) |
 | Pengin-gin | 385334 | [385334-pengin-gin.json](./385334-pengin-gin.json) |
 | Pengo | 198644 | [198644-pengo.json](./198644-pengo.json) |
 | Pengo | 198645 | [198645-pengo.json](./198645-pengo.json) |
@@ -4053,6 +4056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peppy Elephant | 100696 | [100696-peppy-elephant.json](./100696-peppy-elephant.json) |
 | Peppy Mario | 228887 | [228887-peppy-mario.json](./228887-peppy-mario.json) |
 | Peppy's Adventure | 152303 | [152303-peppys-adventure.json](./152303-peppys-adventure.json) |
+| Peppy's Stuntbike | 395611 | [395611-peppys-stuntbike.json](./395611-peppys-stuntbike.json) |
 | Pepsi Cola | 209445 | [209445-pepsi-cola.json](./209445-pepsi-cola.json) |
 | Pepsi in Sonic the Hedgehog I | 270218 | [270218-pepsi-in-sonic-the-hedgehog-i.json](./270218-pepsi-in-sonic-the-hedgehog-i.json) |
 | Pepsi Invaders | 40715 | [40715-pepsi-invaders.json](./40715-pepsi-invaders.json) |
@@ -4202,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Tides: Station to Station | 215695 | [215695-perfect-tides-station-to-station.json](./215695-perfect-tides-station-to-station.json) |
 | Perfect Tower | 87670 | [87670-perfect-tower.json](./87670-perfect-tower.json) |
 | Perfect Traffic Simulator | 140951 | [140951-perfect-traffic-simulator.json](./140951-perfect-traffic-simulator.json) |
+| Perfect Tritone | 395621 | [395621-perfect-tritone.json](./395621-perfect-tritone.json) |
 | Perfect Truck Bundle | 199780 | [199780-perfect-truck-bundle.json](./199780-perfect-truck-bundle.json) |
 | Perfect Universe | 15842 | [15842-perfect-universe.json](./15842-perfect-universe.json) |
 | Perfect Universe Play with Gravity | 99545 | [99545-perfect-universe-play-with-gravity.json](./99545-perfect-universe-play-with-gravity.json) |
@@ -4696,6 +4701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petoons Party | 117453 | [117453-petoons-party.json](./117453-petoons-party.json) |
 | Petpet Park | 268054 | [268054-petpet-park.json](./268054-petpet-park.json) |
 | Petra and the Thylacine | 149815 | [149815-petra-and-the-thylacine.json](./149815-petra-and-the-thylacine.json) |
+| Petra Theos | 395609 | [395609-petra-theos.json](./395609-petra-theos.json) |
 | Petracal | 364824 | [364824-petracal.json](./364824-petracal.json) |
 | Petradise | 175246 | [175246-petradise.json](./175246-petradise.json) |
 | Petri Dish | 356624 | [356624-petri-dish.json](./356624-petri-dish.json) |
@@ -6730,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinch 2 HD | 63320 | [63320-pinch-2-hd.json](./63320-pinch-2-hd.json) |
 | Pinch 2 HD: Special Edition | 63316 | [63316-pinch-2-hd-special-edition.json](./63316-pinch-2-hd-special-edition.json) |
 | Pinch 50 Renpatsu!! | 292570 | [292570-pinch-50-renpatsu.json](./292570-pinch-50-renpatsu.json) |
+| Pinch Hitters | 395622 | [395622-pinch-hitters.json](./395622-pinch-hitters.json) |
 | Pinch of Fighting Girls | 211611 | [211611-pinch-of-fighting-girls.json](./211611-pinch-of-fighting-girls.json) |
 | Pinchcliffe Grand Prix | 54663 | [54663-pinchcliffe-grand-prix.json](./54663-pinchcliffe-grand-prix.json) |
 | Pinchcliffe Grand Prix: Anniversary Edition | 345121 | [345121-pinchcliffe-grand-prix-anniversary-edition.json](./345121-pinchcliffe-grand-prix-anniversary-edition.json) |
