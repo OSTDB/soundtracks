@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rachael Savage | 156921 | [156921-rachael-savage.json](./156921-rachael-savage.json) |
 | Rachel and Ariane | 255101 | [255101-rachel-and-ariane.json](./255101-rachel-and-ariane.json) |
 | Rachel's Game Pack | 208431 | [208431-rachels-game-pack.json](./208431-rachels-game-pack.json) |
+| Rachel's Journal | 360459 | [360459-rachels-journal.json](./360459-rachels-journal.json) |
 | Rachel's Retreat | 54313 | [54313-rachels-retreat.json](./54313-rachels-retreat.json) |
 | Racing | 139247 | [139247-racing.json](./139247-racing.json) |
 | Racing | 217831 | [217831-racing.json](./217831-racing.json) |
@@ -6551,6 +6552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhea of the Remnant | 392718 | [392718-rhea-of-the-remnant.json](./392718-rhea-of-the-remnant.json) |
 | Rheinland | 303997 | [303997-rheinland.json](./303997-rheinland.json) |
 | Rheksetor: Waves of Fury | 81807 | [81807-rheksetor-waves-of-fury.json](./81807-rheksetor-waves-of-fury.json) |
+| Rhell: Warped Worlds & Troubled Times | 360462 | [360462-rhell-warped-worlds-and-troubled-times.json](./360462-rhell-warped-worlds-and-troubled-times.json) |
 | Rhem | 22758 | [22758-rhem.json](./22758-rhem.json) |
 | Rhem 2: The Cave | 69248 | [69248-rhem-2-the-cave.json](./69248-rhem-2-the-cave.json) |
 | Rhem I SE: The Mysterious Land | 50510 | [50510-rhem-i-se-the-mysterious-land.json](./50510-rhem-i-se-the-mysterious-land.json) |
