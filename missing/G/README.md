@@ -7651,6 +7651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
 | Grandma, No! | 328915 | [328915-grandma-no.json](./328915-grandma-no.json) |
 | Grandma's Cheese | 246836 | [246836-grandmas-cheese.json](./246836-grandmas-cheese.json) |
+| GrandMa’s Delicious Cakes: A Forgotten Hill Tale | 388677 | [388677-grandma-s-delicious-cakes-a-forgotten-hill-tale.json](./388677-grandma-s-delicious-cakes-a-forgotten-hill-tale.json) |
 | Grandma's Footsteps | 172907 | [172907-grandmas-footsteps.json](./172907-grandmas-footsteps.json) |
 | Grandma's Garden | 376810 | [376810-grandmas-garden.json](./376810-grandmas-garden.json) |
 | Grandma's Ghosts | 176307 | [176307-grandmas-ghosts.json](./176307-grandmas-ghosts.json) |
@@ -8385,6 +8386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy Goblin | 184219 | [184219-greedy-goblin.json](./184219-greedy-goblin.json) |
 | Greedy Goblins | 125787 | [125787-greedy-goblins.json](./125787-greedy-goblins.json) |
 | Greedy Goose | 306430 | [306430-greedy-goose.json](./306430-greedy-goose.json) |
+| Greedy Greedy Gnomes | 388771 | [388771-greedy-greedy-gnomes.json](./388771-greedy-greedy-gnomes.json) |
 | Greedy Guns | 40556 | [40556-greedy-guns.json](./40556-greedy-guns.json) |
 | Greedy in the Dark | 272349 | [272349-greedy-in-the-dark.json](./272349-greedy-in-the-dark.json) |
 | Greedy Little Kingdoms | 404805 | [404805-greedy-little-kingdoms.json](./404805-greedy-little-kingdoms.json) |
