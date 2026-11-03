@@ -9809,6 +9809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Uni 3D: Hot Vacay | 401560 | [401560-anime-uni-3d-hot-vacay.json](./401560-anime-uni-3d-hot-vacay.json) |
 | Anime Uni 4 | 375566 | [375566-anime-uni-4.json](./375566-anime-uni-4.json) |
 | Anime Uni 6 3D | 389041 | [389041-anime-uni-6-3d.json](./389041-anime-uni-6-3d.json) |
+| Anime Uni 7: A Happy Valentine | 389351 | [389351-anime-uni-7-a-happy-valentine.json](./389351-anime-uni-7-a-happy-valentine.json) |
 | Anime Uni St. Patrick’s Puzzle | 394996 | [394996-anime-uni-st-patrick-s-puzzle.json](./394996-anime-uni-st-patrick-s-puzzle.json) |
 | Anime Vampire Slayer | 118421 | [118421-anime-vampire-slayer.json](./118421-anime-vampire-slayer.json) |
 | Anime vs. Evil: Apocalypse | 238081 | [238081-anime-vs-evil-apocalypse.json](./238081-anime-vs-evil-apocalypse.json) |
@@ -15740,6 +15741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
