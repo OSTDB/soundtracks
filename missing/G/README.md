@@ -6231,6 +6231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Treasure: The Great Green | 117849 | [117849-golden-treasure-the-great-green.json](./117849-golden-treasure-the-great-green.json) |
 | Golden Underfoot | 189890 | [189890-golden-underfoot.json](./189890-golden-underfoot.json) |
 | Golden Voyage | 18525 | [18525-golden-voyage.json](./18525-golden-voyage.json) |
+| Golden Voyage | 377322 | [377322-golden-voyage.json](./377322-golden-voyage.json) |
 | Golden war spirit | 119607 | [119607-golden-war-spirit.json](./119607-golden-war-spirit.json) |
 | Golden Warden | 310836 | [310836-golden-warden.json](./310836-golden-warden.json) |
 | Golden Yoshi's Island | 276880 | [276880-golden-yoshis-island.json](./276880-golden-yoshis-island.json) |
@@ -8363,6 +8364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed | 129623 | [129623-greed.json](./129623-greed.json) |
 | Greed | 171765 | [171765-greed.json](./171765-greed.json) |
 | Greed | 204991 | [204991-greed.json](./204991-greed.json) |
+| Greed | 377024 | [377024-greed.json](./377024-greed.json) |
 | Greed & Darkness | 328409 | [328409-greed-and-darkness.json](./328409-greed-and-darkness.json) |
 | Greed 3: Old Enemies Returning | 115702 | [115702-greed-3-old-enemies-returning.json](./115702-greed-3-old-enemies-returning.json) |
 | Greed Adventure | 102323 | [102323-greed-adventure.json](./102323-greed-adventure.json) |
