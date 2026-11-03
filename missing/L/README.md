@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lalaloopsy: Carnival of Friends | 47640 | [47640-lalaloopsy-carnival-of-friends.json](./47640-lalaloopsy-carnival-of-friends.json) |
 | Lalaloopsy: Sew Magical! Sew Cute! | 113888 | [113888-lalaloopsy-sew-magical-sew-cute.json](./113888-lalaloopsy-sew-magical-sew-cute.json) |
 | Lalli | 311161 | [311161-lalli.json](./311161-lalli.json) |
+| Lalulu Island Survival | 385093 | [385093-lalulu-island-survival.json](./385093-lalulu-island-survival.json) |
 | Lam Lam | 223317 | [223317-lam-lam.json](./223317-lam-lam.json) |
 | Lam's Untitled Neon | 399027 | [399027-lams-untitled-neon.json](./399027-lams-untitled-neon.json) |
 | Lama Azavtani | 151446 | [151446-lama-azavtani.json](./151446-lama-azavtani.json) |
@@ -4031,6 +4032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Li'l Red | 272357 | [272357-lil-red.json](./272357-lil-red.json) |
 | Li'l Rumble | 284353 | [284353-lil-rumble.json](./284353-lil-rumble.json) |
 | Li'l Taffer | 323377 | [323377-lil-taffer.json](./323377-lil-taffer.json) |
+| Lia and the Train of the Seasons | 385092 | [385092-lia-and-the-train-of-the-seasons.json](./385092-lia-and-the-train-of-the-seasons.json) |
 | Liam and the Disaster of the Week | 362205 | [362205-liam-and-the-disaster-of-the-week.json](./362205-liam-and-the-disaster-of-the-week.json) |
 | Liam FitzRoy Kills Everyone: The Game Part Zero | 278746 | [278746-liam-fitzroy-kills-everyone-the-game-part-zero.json](./278746-liam-fitzroy-kills-everyone-the-game-part-zero.json) |
 | Liam_99 | 244696 | [244696-liam-99.json](./244696-liam-99.json) |
@@ -5570,6 +5572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Computer People | 12179 | [12179-little-computer-people.json](./12179-little-computer-people.json) |
 | Little Corner Tea House | 327278 | [327278-little-corner-tea-house.json](./327278-little-corner-tea-house.json) |
 | Little Corners | 353890 | [353890-little-corners.json](./353890-little-corners.json) |
+| Little Cozy Home | 385091 | [385091-little-cozy-home.json](./385091-little-cozy-home.json) |
 | Little Crab Fisher | 242943 | [242943-little-crab-fisher.json](./242943-little-crab-fisher.json) |
 | Little Critters 2 | 305179 | [305179-little-critters-2.json](./305179-little-critters-2.json) |
 | Little Crossroads | 374710 | [374710-little-crossroads.json](./374710-little-crossroads.json) |
