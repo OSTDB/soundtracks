@@ -4432,6 +4432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattle Crisis! | 346466 | [346466-cattle-crisis.json](./346466-cattle-crisis.json) |
 | Cattle Hyperdrive | 247745 | [247745-cattle-hyperdrive.json](./247745-cattle-hyperdrive.json) |
 | Cattlieb | 349851 | [349851-cattlieb.json](./349851-cattlieb.json) |
+| Catto Boi Forever | 398086 | [398086-catto-boi-forever.json](./398086-catto-boi-forever.json) |
 | Catto Chateau | 366387 | [366387-catto-chateau.json](./366387-catto-chateau.json) |
 | Catto's Post Office | 304835 | [304835-cattos-post-office.json](./304835-cattos-post-office.json) |
 | Cattopia | 351421 | [351421-cattopia.json](./351421-cattopia.json) |
@@ -18543,6 +18544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Lich King | 178005 | [178005-curse-of-the-lich-king.json](./178005-curse-of-the-lich-king.json) |
 | Curse of The Lineage | 375835 | [375835-curse-of-the-lineage.json](./375835-curse-of-the-lineage.json) |
 | Curse of the Lost Gods | 268878 | [268878-curse-of-the-lost-gods.json](./268878-curse-of-the-lost-gods.json) |
+| Curse of the Mirror | 398091 | [398091-curse-of-the-mirror.json](./398091-curse-of-the-mirror.json) |
 | Curse of the Pharaoh: Napoleon's Secret | 208843 | [208843-curse-of-the-pharaoh-napoleons-secret.json](./208843-curse-of-the-pharaoh-napoleons-secret.json) |
 | Curse of the Pharaoh: Tears of Sekhmet | 158940 | [158940-curse-of-the-pharaoh-tears-of-sekhmet.json](./158940-curse-of-the-pharaoh-tears-of-sekhmet.json) |
 | Curse of the Pharaoh: The Quest for Nefertiti | 70043 | [70043-curse-of-the-pharaoh-the-quest-for-nefertiti.json](./70043-curse-of-the-pharaoh-the-quest-for-nefertiti.json) |
