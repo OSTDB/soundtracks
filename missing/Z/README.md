@@ -2087,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo keeper | 184408 | [184408-zoo-keeper.json](./184408-zoo-keeper.json) |
 | Zoo Keeper | 23872 | [23872-zoo-keeper.json](./23872-zoo-keeper.json) |
 | Zoo Keeper | 327638 | [327638-zoo-keeper.json](./327638-zoo-keeper.json) |
+| Zoo Keeper | 398095 | [398095-zoo-keeper.json](./398095-zoo-keeper.json) |
 | Zoo Keeper | 69987 | [69987-zoo-keeper.json](./69987-zoo-keeper.json) |
 | Zoo Keeper 3D | 222337 | [222337-zoo-keeper-3d.json](./222337-zoo-keeper-3d.json) |
 | Zoo Leap | 259961 | [259961-zoo-leap.json](./259961-zoo-leap.json) |
