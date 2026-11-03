@@ -3651,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Stars Forgot | 375983 | [375983-what-the-stars-forgot.json](./375983-what-the-stars-forgot.json) |
 | What The?! Party Trivia Game | 68245 | [68245-what-the-party-trivia-game.json](./68245-what-the-party-trivia-game.json) |
 | What They Don't Sea | 223345 | [223345-what-they-dont-sea.json](./223345-what-they-dont-sea.json) |
+| What They Don't Teach You At Harvard Business School | 386322 | [386322-what-they-dont-teach-you-at-harvard-business-school.json](./386322-what-they-dont-teach-you-at-harvard-business-school.json) |
 | What They Gave Us | 407391 | [407391-what-they-gave-us.json](./407391-what-they-gave-us.json) |
 | What Time Is It | 168715 | [168715-what-time-is-it.json](./168715-what-time-is-it.json) |
 | What Time is it? | 372192 | [372192-what-time-is-it.json](./372192-what-time-is-it.json) |
