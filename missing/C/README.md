@@ -16033,6 +16033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Saloon VR | 30560 | [30560-crazy-saloon-vr.json](./30560-crazy-saloon-vr.json) |
 | Crazy Santa | 368978 | [368978-crazy-santa.json](./368978-crazy-santa.json) |
 | Crazy Sapper 3D: Classic Mode | 170963 | [170963-crazy-sapper-3d-classic-mode.json](./170963-crazy-sapper-3d-classic-mode.json) |
+| Crazy School Games | 356386 | [356386-crazy-school-games.json](./356386-crazy-school-games.json) |
 | Crazy School Simulator | 114228 | [114228-crazy-school-simulator.json](./114228-crazy-school-simulator.json) |
 | Crazy School: Schulverweis! | 327219 | [327219-crazy-school-schulverweis.json](./327219-crazy-school-schulverweis.json) |
 | Crazy Science: Long Run | 95628 | [95628-crazy-science-long-run.json](./95628-crazy-science-long-run.json) |
