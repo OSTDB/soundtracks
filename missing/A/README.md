@@ -2084,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss | 210669 | [210669-abyss.json](./210669-abyss.json) |
 | Abyss | 237021 | [237021-abyss.json](./237021-abyss.json) |
 | Abyss | 249689 | [249689-abyss.json](./249689-abyss.json) |
+| Abyss | 377542 | [377542-abyss.json](./377542-abyss.json) |
 | Abyss | 414121 | [414121-abyss.json](./414121-abyss.json) |
 | Abyss | 80512 | [80512-abyss.json](./80512-abyss.json) |
 | Abyss | 8524 | [8524-abyss.json](./8524-abyss.json) |
@@ -16096,6 +16097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Mutant Fishcrows | 113424 | [113424-attack-of-the-mutant-fishcrows.json](./113424-attack-of-the-mutant-fishcrows.json) |
 | Attack of the Mutant Penguins | 40819 | [40819-attack-of-the-mutant-penguins.json](./40819-attack-of-the-mutant-penguins.json) |
 | Attack of the Petscii Robots | 159163 | [159163-attack-of-the-petscii-robots.json](./159163-attack-of-the-petscii-robots.json) |
+| Attack of the Petscii Robots: Rumble Support | 377731 | [377731-attack-of-the-petscii-robots-rumble-support.json](./377731-attack-of-the-petscii-robots-rumble-support.json) |
 | Attack of the Phantom Karate Devils | 24707 | [24707-attack-of-the-phantom-karate-devils.json](./24707-attack-of-the-phantom-karate-devils.json) |
 | Attack of the Retro Bots | 118043 | [118043-attack-of-the-retro-bots.json](./118043-attack-of-the-retro-bots.json) |
 | Attack of the Saucerman | 4143 | [4143-attack-of-the-saucerman.json](./4143-attack-of-the-saucerman.json) |
