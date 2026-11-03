@@ -8355,6 +8355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNAF in Sonic Forever | 361571 | [361571-fnaf-in-sonic-forever.json](./361571-fnaf-in-sonic-forever.json) |
 | FNaF Multiplayer: Forgotten Pizzeria | 260060 | [260060-fnaf-multiplayer-forgotten-pizzeria.json](./260060-fnaf-multiplayer-forgotten-pizzeria.json) |
 | FNaF Ultimate Edition | 281319 | [281319-fnaf-ultimate-edition.json](./281319-fnaf-ultimate-edition.json) |
+| FNAF Weird Mobile Port | 382359 | [382359-fnaf-weird-mobile-port.json](./382359-fnaf-weird-mobile-port.json) |
 | FNaF World | 241218 | [241218-fnaf-world.json](./241218-fnaf-world.json) |
 | FNaF World 2 | 412776 | [412776-fnaf-world-2.json](./412776-fnaf-world-2.json) |
 | FNaF World Randomizer | 237325 | [237325-fnaf-world-randomizer.json](./237325-fnaf-world-randomizer.json) |
@@ -10245,6 +10246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foundation of Nightmares | 81061 | [81061-foundation-of-nightmares.json](./81061-foundation-of-nightmares.json) |
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
 | Foundation's Waste | 15223 | [15223-foundations-waste.json](./15223-foundations-waste.json) |
+| Foundations | 382131 | [382131-foundations.json](./382131-foundations.json) |
 | Founder of the Final Cult | 309175 | [309175-founder-of-the-final-cult.json](./309175-founder-of-the-final-cult.json) |
 | Founders' Fortune | 120455 | [120455-founders-fortune.json](./120455-founders-fortune.json) |
 | Founding Paws: How America Began | 409525 | [409525-founding-paws-how-america-began.json](./409525-founding-paws-how-america-began.json) |
