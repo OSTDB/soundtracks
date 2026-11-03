@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safecracker: The Ultimate Puzzle Adventure | 5135 | [5135-safecracker-the-ultimate-puzzle-adventure.json](./5135-safecracker-the-ultimate-puzzle-adventure.json) |
 | Safeguard | 383034 | [383034-safeguard.json](./383034-safeguard.json) |
 | SafeGuard | 195542 | [195542-safeguard.json](./195542-safeguard.json) |
+| Safeguard Saga | 368750 | [368750-safeguard-saga.json](./368750-safeguard-saga.json) |
 | Safehouse | 232934 | [232934-safehouse.json](./232934-safehouse.json) |
 | Safelight | 302926 | [302926-safelight.json](./302926-safelight.json) |
 | Safetopia | 74836 | [74836-safetopia.json](./74836-safetopia.json) |
@@ -15280,6 +15281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sofia in Exchange for Lies | 324789 | [324789-sofia-in-exchange-for-lies.json](./324789-sofia-in-exchange-for-lies.json) |
 | Sofia the First | 213469 | [213469-sofia-the-first.json](./213469-sofia-the-first.json) |
 | Sofia the First Royal Learning Tablet | 213378 | [213378-sofia-the-first-royal-learning-tablet.json](./213378-sofia-the-first-royal-learning-tablet.json) |
+| Sofia the Witch: Curse of the Monster Moon | 369278 | [369278-sofia-the-witch-curse-of-the-monster-moon.json](./369278-sofia-the-witch-curse-of-the-monster-moon.json) |
 | Sofia? | 177901 | [177901-sofia.json](./177901-sofia.json) |
 | Sofia's Debt | 196794 | [196794-sofias-debt.json](./196794-sofias-debt.json) |
 | Sofie: The Echoes | 307140 | [307140-sofie-the-echoes.json](./307140-sofie-the-echoes.json) |
@@ -16748,6 +16750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Mode: Recoil | 330357 | [330357-sonic-mode-recoil.json](./330357-sonic-mode-recoil.json) |
 | Sonic Momentum | 316489 | [316489-sonic-momentum.json](./316489-sonic-momentum.json) |
 | Sonic Move | 331098 | [331098-sonic-move.json](./331098-sonic-move.json) |
+| Sonic Mushroom Blast Legacy | 369255 | [369255-sonic-mushroom-blast-legacy.json](./369255-sonic-mushroom-blast-legacy.json) |
 | Sonic Mystic Land | 370234 | [370234-sonic-mystic-land.json](./370234-sonic-mystic-land.json) |
 | Sonic Nebulous | 282688 | [282688-sonic-nebulous.json](./282688-sonic-nebulous.json) |
 | Sonic Neo Genesis | 325849 | [325849-sonic-neo-genesis.json](./325849-sonic-neo-genesis.json) |
@@ -17883,6 +17886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls of Shadow | 320557 | [320557-souls-of-shadow.json](./320557-souls-of-shadow.json) |
 | Souls of Tartarus | 226619 | [226619-souls-of-tartarus.json](./226619-souls-of-tartarus.json) |
 | Souls of the Wind | 147069 | [147069-souls-of-the-wind.json](./147069-souls-of-the-wind.json) |
+| Souls of White Star | 369258 | [369258-souls-of-white-star.json](./369258-souls-of-white-star.json) |
 | Souls Quest | 326705 | [326705-souls-quest.json](./326705-souls-quest.json) |
 | Souls Rescue | 57952 | [57952-souls-rescue.json](./57952-souls-rescue.json) |
 | Souls Runner | 417942 | [417942-souls-runner.json](./417942-souls-runner.json) |
@@ -18660,6 +18664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27139,6 +27144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striker | 237504 | [237504-striker.json](./237504-striker.json) |
 | Striker '95 | 92814 | [92814-striker-95.json](./92814-striker-95.json) |
 | Striker Arena | 175158 | [175158-striker-arena.json](./175158-striker-arena.json) |
+| Striker Hero | 368705 | [368705-striker-hero.json](./368705-striker-hero.json) |
 | Striker Modes | 203706 | [203706-striker-modes.json](./203706-striker-modes.json) |
 | Striker of Sky | 238498 | [238498-striker-of-sky.json](./238498-striker-of-sky.json) |
 | Striker Pro | 237509 | [237509-striker-pro.json](./237509-striker-pro.json) |
@@ -27846,6 +27852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Sexy Devils | 345111 | [345111-succubus-sexy-devils.json](./345111-succubus-sexy-devils.json) |
 | Succubus Shop | 185414 | [185414-succubus-shop.json](./185414-succubus-shop.json) |
 | Succubus Simulator | 277684 | [277684-succubus-simulator.json](./277684-succubus-simulator.json) |
+| Succubus Spell | 369287 | [369287-succubus-spell.json](./369287-succubus-spell.json) |
 | Succubus Successor: Delilah's Juicy Journey | 406898 | [406898-succubus-successor-delilahs-juicy-journey.json](./406898-succubus-successor-delilahs-juicy-journey.json) |
 | Succubus Temptation | 416377 | [416377-succubus-temptation.json](./416377-succubus-temptation.json) |
 | Succubus Throne | 385254 | [385254-succubus-throne.json](./385254-succubus-throne.json) |
