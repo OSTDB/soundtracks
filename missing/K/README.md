@@ -6053,6 +6053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuukiyomi 4: Consider It - Dire Situations DLC | 415718 | [415718-kuukiyomi-4-consider-it-dire-situations-dlc.json](./415718-kuukiyomi-4-consider-it-dire-situations-dlc.json) |
 | Kuukiyomi 4: Consider It - Nintendo Switch 2 Edition | 378813 | [378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json](./378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json) |
 | Kuukiyomi 4: Consider It + "Dire Situations" DLC | 415719 | [415719-kuukiyomi-4-consider-it-dire-situations-dlc.json](./415719-kuukiyomi-4-consider-it-dire-situations-dlc.json) |
+| Kuukiyomi: Consider It World - Thailand Ver. | 355970 | [355970-kuukiyomi-consider-it-world-thailand-ver.json](./355970-kuukiyomi-consider-it-world-thailand-ver.json) |
 | Kuukiyomi: Consider It! Online | 187529 | [187529-kuukiyomi-consider-it-online.json](./187529-kuukiyomi-consider-it-online.json) |
 | Kuura in the Snowglobe | 114689 | [114689-kuura-in-the-snowglobe.json](./114689-kuura-in-the-snowglobe.json) |
 | Kuuruu Kenmonroku | 263134 | [263134-kuuruu-kenmonroku.json](./263134-kuuruu-kenmonroku.json) |
