@@ -1558,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Important Needs | 423388 | [423388-very-important-needs.json](./423388-very-important-needs.json) |
 | Very Important Potato | 194292 | [194292-very-important-potato.json](./194292-very-important-potato.json) |
 | Very Little Nightmares | 117295 | [117295-very-little-nightmares.json](./117295-very-little-nightmares.json) |
+| Very Normal Rail Game | 392597 | [392597-very-normal-rail-game.json](./392597-very-normal-rail-game.json) |
 | Very Pink Game | 151580 | [151580-very-pink-game.json](./151580-very-pink-game.json) |
 | Very Real Chess | 31371 | [31371-very-real-chess.json](./31371-very-real-chess.json) |
 | Very Safe Dino Park | 408586 | [408586-very-safe-dino-park.json](./408586-very-safe-dino-park.json) |
