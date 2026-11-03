@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Line VR: A Zombie Defense Game | 119588 | [119588-last-line-vr-a-zombie-defense-game.json](./119588-last-line-vr-a-zombie-defense-game.json) |
 | Last Look along Woodward Boulevard | 321171 | [321171-last-look-along-woodward-boulevard.json](./321171-last-look-along-woodward-boulevard.json) |
 | Last Lovers | 192244 | [192244-last-lovers.json](./192244-last-lovers.json) |
+| Last Mage | 370978 | [370978-last-mage.json](./370978-last-mage.json) |
 | Last Mage Standing | 141498 | [141498-last-mage-standing.json](./141498-last-mage-standing.json) |
 | Last Mage Standing | 30008 | [30008-last-mage-standing.json](./30008-last-mage-standing.json) |
 | Last Mage Survivors | 257498 | [257498-last-mage-survivors.json](./257498-last-mage-survivors.json) |
@@ -4659,6 +4660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighting End VR | 29677 | [29677-lighting-end-vr.json](./29677-lighting-end-vr.json) |
 | Lighting Lanterns | 346593 | [346593-lighting-lanterns.json](./346593-lighting-lanterns.json) |
 | Lightkeeper | 375543 | [375543-lightkeeper.json](./375543-lightkeeper.json) |
+| Lightkeeper's Curse | 370374 | [370374-lightkeepers-curse.json](./370374-lightkeepers-curse.json) |
 | Lightless: The 21st Sacrifice | 135482 | [135482-lightless-the-21st-sacrifice.json](./135482-lightless-the-21st-sacrifice.json) |
 | Lightlike | 176464 | [176464-lightlike.json](./176464-lightlike.json) |
 | Lightman | 121385 | [121385-lightman.json](./121385-lightman.json) |
@@ -5391,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LipTrip: My Boss Is My Heat Suppressant?! | 397215 | [397215-liptrip-my-boss-is-my-heat-suppressant.json](./397215-liptrip-my-boss-is-my-heat-suppressant.json) |
 | Liquid | 224964 | [224964-liquid.json](./224964-liquid.json) |
 | Liquid Abyss: The Melted Jelly | 331883 | [331883-liquid-abyss-the-melted-jelly.json](./331883-liquid-abyss-the-melted-jelly.json) |
+| Liquid Cat | 370369 | [370369-liquid-cat.json](./370369-liquid-cat.json) |
 | Liquid Defense | 91281 | [91281-liquid-defense.json](./91281-liquid-defense.json) |
 | Liquid Dungeon Byproduct | 178863 | [178863-liquid-dungeon-byproduct.json](./178863-liquid-dungeon-byproduct.json) |
 | Liquid Entry | 290766 | [290766-liquid-entry.json](./290766-liquid-entry.json) |
@@ -6784,6 +6787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | London to Cardiff | 421580 | [421580-london-to-cardiff.json](./421580-london-to-cardiff.json) |
 | London Underground Simulator - World of Subways Vol.3 | 50410 | [50410-london-underground-simulator-world-of-subways-vol-3.json](./50410-london-underground-simulator-world-of-subways-vol-3.json) |
 | London-Faversham High Speed | 63799 | [63799-london-faversham-high-speed.json](./63799-london-faversham-high-speed.json) |
+| London: Echoes of the Past | 370063 | [370063-london-echoes-of-the-past.json](./370063-london-echoes-of-the-past.json) |
 | London's Aesop | 177903 | [177903-londons-aesop.json](./177903-londons-aesop.json) |
 | Londonian Gothics: Meikyuu no Lolita | 122996 | [122996-londonian-gothics-meikyuu-no-lolita.json](./122996-londonian-gothics-meikyuu-no-lolita.json) |
 | Lone | 181160 | [181160-lone.json](./181160-lone.json) |
@@ -9460,6 +9464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunch with Ronan | 292023 | [292023-lunch-with-ronan.json](./292023-lunch-with-ronan.json) |
 | Lunch-O-Matic | 320121 | [320121-lunch-o-matic.json](./320121-lunch-o-matic.json) |
 | Lunch-Out 3: Waste Disposal 20XX | 371531 | [371531-lunch-out-3-waste-disposal-20xx.json](./371531-lunch-out-3-waste-disposal-20xx.json) |
+| Lunchbreak Tactics | 370349 | [370349-lunchbreak-tactics.json](./370349-lunchbreak-tactics.json) |
 | Lunchtime at Lilly's | 229266 | [229266-lunchtime-at-lillys.json](./229266-lunchtime-at-lillys.json) |
 | Lunchtime of the Damned | 70838 | [70838-lunchtime-of-the-damned.json](./70838-lunchtime-of-the-damned.json) |
 | Lunchy | 320401 | [320401-lunchy.json](./320401-lunchy.json) |
@@ -9656,6 +9661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxe Chalk | 87798 | [87798-luxe-chalk.json](./87798-luxe-chalk.json) |
 | Luxin Time | 41894 | [41894-luxin-time.json](./41894-luxin-time.json) |
 | Luxis | 31701 | [31701-luxis.json](./31701-luxis.json) |
+| Luxman Moonlit Market | 370378 | [370378-luxman-moonlit-market.json](./370378-luxman-moonlit-market.json) |
 | Luxo Buddies | 106427 | [106427-luxo-buddies.json](./106427-luxo-buddies.json) |
 | Luxo Buddies: Expansion Pack 1 | 226877 | [226877-luxo-buddies-expansion-pack-1.json](./226877-luxo-buddies-expansion-pack-1.json) |
 | Luxocraft | 43168 | [43168-luxocraft.json](./43168-luxocraft.json) |
