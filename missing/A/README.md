@@ -5302,6 +5302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airplane Chefs | 142762 | [142762-airplane-chefs.json](./142762-airplane-chefs.json) |
 | Airplane Delivery Simulator 2024: Realistic Geographical | 300962 | [300962-airplane-delivery-simulator-2024-realistic-geographical.json](./300962-airplane-delivery-simulator-2024-realistic-geographical.json) |
 | Airplane Flight Simulator | 251630 | [251630-airplane-flight-simulator.json](./251630-airplane-flight-simulator.json) |
+| Airplane Flight Simulator Bundle: Combat Zone & Dangerous Landings | 390901 | [390901-airplane-flight-simulator-bundle-combat-zone-and-dangerous-landings.json](./390901-airplane-flight-simulator-bundle-combat-zone-and-dangerous-landings.json) |
 | Airplane Flight Simulator: Dangerous Landings | 328580 | [328580-airplane-flight-simulator-dangerous-landings.json](./328580-airplane-flight-simulator-dangerous-landings.json) |
 | Airplane Flight Simulator: EVO | 343494 | [343494-airplane-flight-simulator-evo.json](./343494-airplane-flight-simulator-evo.json) |
 | Airplane Flight Simulator: Farming Agricultural Plane S2-Carrier | 310474 | [310474-airplane-flight-simulator-farming-agricultural-plane-s2-carrier.json](./310474-airplane-flight-simulator-farming-agricultural-plane-s2-carrier.json) |
@@ -10085,6 +10086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalogenos | 404998 | [404998-anomalogenos.json](./404998-anomalogenos.json) |
 | Anomalous Adventure | 309951 | [309951-anomalous-adventure.json](./309951-anomalous-adventure.json) |
 | Anomalous City | 250274 | [250274-anomalous-city.json](./250274-anomalous-city.json) |
+| Anomalous Cleaning Detail | 390898 | [390898-anomalous-cleaning-detail.json](./390898-anomalous-cleaning-detail.json) |
 | Anomalous Crossing: Shibuya | 306408 | [306408-anomalous-crossing-shibuya.json](./306408-anomalous-crossing-shibuya.json) |
 | Anomalous Materials | 252095 | [252095-anomalous-materials.json](./252095-anomalous-materials.json) |
 | Anomalous Veil | 407323 | [407323-anomalous-veil.json](./407323-anomalous-veil.json) |
@@ -10101,6 +10103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Corp. | 390064 | [390064-anomaly-corp.json](./390064-anomaly-corp.json) |
 | Anomaly Corridor | 319143 | [319143-anomaly-corridor.json](./319143-anomaly-corridor.json) |
 | Anomaly Corridor | 377100 | [377100-anomaly-corridor.json](./377100-anomaly-corridor.json) |
+| Anomaly Directive | 390862 | [390862-anomaly-directive.json](./390862-anomaly-directive.json) |
 | Anomaly Echoes | 292949 | [292949-anomaly-echoes.json](./292949-anomaly-echoes.json) |
 | Anomaly Escape | 294047 | [294047-anomaly-escape.json](./294047-anomaly-escape.json) |
 | Anomaly Evolution | 377943 | [377943-anomaly-evolution.json](./377943-anomaly-evolution.json) |
@@ -11258,6 +11261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquabike Rush | 410015 | [410015-aquabike-rush.json](./410015-aquabike-rush.json) |
 | Aquablast | 14262 | [14262-aquablast.json](./14262-aquablast.json) |
 | AquaBlitz: Alien Racer | 298689 | [298689-aquablitz-alien-racer.json](./298689-aquablitz-alien-racer.json) |
+| Aquachamber | 390887 | [390887-aquachamber.json](./390887-aquachamber.json) |
 | Aquacity | 148956 | [148956-aquacity.json](./148956-aquacity.json) |
 | Aquaculture Land: Fish Farming Simulation | 111859 | [111859-aquaculture-land-fish-farming-simulation.json](./111859-aquaculture-land-fish-farming-simulation.json) |
 | Aquaculture Simulator | 413032 | [413032-aquaculture-simulator.json](./413032-aquaculture-simulator.json) |
