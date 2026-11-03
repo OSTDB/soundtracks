@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'll Do It Tomorrow | 278990 | [278990-ill-do-it-tomorrow.json](./278990-ill-do-it-tomorrow.json) |
 | I’ll Fuck Your Grandpa! | 338695 | [338695-i-ll-fuck-your-grandpa.json](./338695-i-ll-fuck-your-grandpa.json) |
 | I'll Invaligate your Aid | 251423 | [251423-ill-invaligate-your-aid.json](./251423-ill-invaligate-your-aid.json) |
+| I'll Invaligate Your Aid: Foreaver | 384118 | [384118-ill-invaligate-your-aid-foreaver.json](./384118-ill-invaligate-your-aid-foreaver.json) |
 | I'll Kill Her | 245899 | [245899-ill-kill-her.json](./245899-ill-kill-her.json) |
 | I'll Put You In Debt | 82856 | [82856-ill-put-you-in-debt.json](./82856-ill-put-you-in-debt.json) |
 | I'll respond to that later | 183970 | [183970-ill-respond-to-that-later.json](./183970-ill-respond-to-that-later.json) |
