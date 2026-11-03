@@ -7099,6 +7099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excommunicado | 211266 | [211266-excommunicado.json](./211266-excommunicado.json) |
 | Excommunicated | 340043 | [340043-excommunicated.json](./340043-excommunicated.json) |
 | Excommunication | 360449 | [360449-excommunication.json](./360449-excommunication.json) |
+| Excremental Game | 385757 | [385757-excremental-game.json](./385757-excremental-game.json) |
 | Excubitor | 19332 | [19332-excubitor.json](./19332-excubitor.json) |
 | Excursion | 108635 | [108635-excursion.json](./108635-excursion.json) |
 | Excursus | 177025 | [177025-excursus.json](./177025-excursus.json) |
