@@ -10845,7 +10845,30 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Morphin Power Rangers: The Fighting Edition | 3287 | [3287-mighty-morphin-power-rangers-the-fighting-edition.json](./3287-mighty-morphin-power-rangers-the-fighting-edition.json) |
 | Mighty Morphin Power Rangers: The Movie | 75980 | [75980-mighty-morphin-power-rangers-the-movie.json](./75980-mighty-morphin-power-rangers-the-movie.json) |
 | Mighty Morphin Power Rangers: The Movie | 75981 | [75981-mighty-morphin-power-rangers-the-movie.json](./75981-mighty-morphin-power-rangers-the-movie.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 01: Zords | 362570 | [362570-mighty-morphin-power-rangers-tiger-barcodzz-01-zords.json](./362570-mighty-morphin-power-rangers-tiger-barcodzz-01-zords.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 02: Zords | 362574 | [362574-mighty-morphin-power-rangers-tiger-barcodzz-02-zords.json](./362574-mighty-morphin-power-rangers-tiger-barcodzz-02-zords.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 03: Megazord | 362562 | [362562-mighty-morphin-power-rangers-tiger-barcodzz-03-megazord.json](./362562-mighty-morphin-power-rangers-tiger-barcodzz-03-megazord.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 04: White Ranger | 362557 | [362557-mighty-morphin-power-rangers-tiger-barcodzz-04-white-ranger.json](./362557-mighty-morphin-power-rangers-tiger-barcodzz-04-white-ranger.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 05: Goldar | 362571 | [362571-mighty-morphin-power-rangers-tiger-barcodzz-05-goldar.json](./362571-mighty-morphin-power-rangers-tiger-barcodzz-05-goldar.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 06: Lord Zedd | 362561 | [362561-mighty-morphin-power-rangers-tiger-barcodzz-06-lord-zedd.json](./362561-mighty-morphin-power-rangers-tiger-barcodzz-06-lord-zedd.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 07: Blue Ranger | 362556 | [362556-mighty-morphin-power-rangers-tiger-barcodzz-07-blue-ranger.json](./362556-mighty-morphin-power-rangers-tiger-barcodzz-07-blue-ranger.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 08: Pink Ranger | 362560 | [362560-mighty-morphin-power-rangers-tiger-barcodzz-08-pink-ranger.json](./362560-mighty-morphin-power-rangers-tiger-barcodzz-08-pink-ranger.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 09: Yellow Ranger | 362552 | [362552-mighty-morphin-power-rangers-tiger-barcodzz-09-yellow-ranger.json](./362552-mighty-morphin-power-rangers-tiger-barcodzz-09-yellow-ranger.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 10: Black Ranger | 362559 | [362559-mighty-morphin-power-rangers-tiger-barcodzz-10-black-ranger.json](./362559-mighty-morphin-power-rangers-tiger-barcodzz-10-black-ranger.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 11: Zords | 362568 | [362568-mighty-morphin-power-rangers-tiger-barcodzz-11-zords.json](./362568-mighty-morphin-power-rangers-tiger-barcodzz-11-zords.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 12: Red Ranger | 362566 | [362566-mighty-morphin-power-rangers-tiger-barcodzz-12-red-ranger.json](./362566-mighty-morphin-power-rangers-tiger-barcodzz-12-red-ranger.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 13: Zords | 362569 | [362569-mighty-morphin-power-rangers-tiger-barcodzz-13-zords.json](./362569-mighty-morphin-power-rangers-tiger-barcodzz-13-zords.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 14: Squatt | 362573 | [362573-mighty-morphin-power-rangers-tiger-barcodzz-14-squatt.json](./362573-mighty-morphin-power-rangers-tiger-barcodzz-14-squatt.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 15: Putty Patrol | 362558 | [362558-mighty-morphin-power-rangers-tiger-barcodzz-15-putty-patrol.json](./362558-mighty-morphin-power-rangers-tiger-barcodzz-15-putty-patrol.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 16: Alpha 5 | 362563 | [362563-mighty-morphin-power-rangers-tiger-barcodzz-16-alpha-5.json](./362563-mighty-morphin-power-rangers-tiger-barcodzz-16-alpha-5.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 17: Baboo | 362572 | [362572-mighty-morphin-power-rangers-tiger-barcodzz-17-baboo.json](./362572-mighty-morphin-power-rangers-tiger-barcodzz-17-baboo.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 18: Zords | 362567 | [362567-mighty-morphin-power-rangers-tiger-barcodzz-18-zords.json](./362567-mighty-morphin-power-rangers-tiger-barcodzz-18-zords.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 19: Black Ranger | 362565 | [362565-mighty-morphin-power-rangers-tiger-barcodzz-19-black-ranger.json](./362565-mighty-morphin-power-rangers-tiger-barcodzz-19-black-ranger.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 20: Blue Ranger | 362575 | [362575-mighty-morphin-power-rangers-tiger-barcodzz-20-blue-ranger.json](./362575-mighty-morphin-power-rangers-tiger-barcodzz-20-blue-ranger.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 21: Red Ranger | 362553 | [362553-mighty-morphin-power-rangers-tiger-barcodzz-21-red-ranger.json](./362553-mighty-morphin-power-rangers-tiger-barcodzz-21-red-ranger.json) |
 | Mighty Morphin Power Rangers: Tiger Barcodzz - 22: Yellow Ranger | 362576 | [362576-mighty-morphin-power-rangers-tiger-barcodzz-22-yellow-ranger.json](./362576-mighty-morphin-power-rangers-tiger-barcodzz-22-yellow-ranger.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 23: Pink Ranger | 362564 | [362564-mighty-morphin-power-rangers-tiger-barcodzz-23-pink-ranger.json](./362564-mighty-morphin-power-rangers-tiger-barcodzz-23-pink-ranger.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 24: Green Ranger | 362554 | [362554-mighty-morphin-power-rangers-tiger-barcodzz-24-green-ranger.json](./362554-mighty-morphin-power-rangers-tiger-barcodzz-24-green-ranger.json) |
 | Mighty Morpho | 395081 | [395081-mighty-morpho.json](./395081-mighty-morpho.json) |
 | Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
 | Mighty Muddy | 236982 | [236982-mighty-muddy.json](./236982-mighty-muddy.json) |
