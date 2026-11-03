@@ -6222,6 +6222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IT Simulator | 193080 | [193080-it-simulator.json](./193080-it-simulator.json) |
 | It Sleeps Below the Haar | 217396 | [217396-it-sleeps-below-the-haar.json](./217396-it-sleeps-below-the-haar.json) |
 | IT Specialist Simulator | 346606 | [346606-it-specialist-simulator.json](./346606-it-specialist-simulator.json) |
+| It Sprawls | 362152 | [362152-it-sprawls.json](./362152-it-sprawls.json) |
 | It Stares Back | 119268 | [119268-it-stares-back.json](./119268-it-stares-back.json) |
 | It Started With Hairs | 301299 | [301299-it-started-with-hairs.json](./301299-it-started-with-hairs.json) |
 | IT Startup: Tech Fodder | 168121 | [168121-it-startup-tech-fodder.json](./168121-it-startup-tech-fodder.json) |
