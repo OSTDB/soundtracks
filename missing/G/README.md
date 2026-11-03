@@ -2424,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekido Advance: Kintaro's Revenge | 6418 | [6418-gekido-advance-kintaros-revenge.json](./6418-gekido-advance-kintaros-revenge.json) |
 | Gekifu Bakegyamon: Ayakashi Fighting | 61346 | [61346-gekifu-bakegyamon-ayakashi-fighting.json](./61346-gekifu-bakegyamon-ayakashi-fighting.json) |
 | Gekihaden | 259417 | [259417-gekihaden.json](./259417-gekihaden.json) |
+| Gekimetsu! Grand Shocker | 385527 | [385527-gekimetsu-grand-shocker.json](./385527-gekimetsu-grand-shocker.json) |
 | Gekioh: Shooting King | 44938 | [44938-gekioh-shooting-king.json](./44938-gekioh-shooting-king.json) |
 | Gekiretsu Pachinkazu | 247347 | [247347-gekiretsu-pachinkazu.json](./247347-gekiretsu-pachinkazu.json) |
 | Gekirin | 137349 | [137349-gekirin.json](./137349-gekirin.json) |
