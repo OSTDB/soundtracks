@@ -2280,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Quest: Simple Card Game | 406084 | [406084-card-quest-simple-card-game.json](./406084-card-quest-simple-card-game.json) |
 | Card Racer | 291901 | [291901-card-racer.json](./291901-card-racer.json) |
 | Card Racing Simulator: Otterrific Arcade | 217917 | [217917-card-racing-simulator-otterrific-arcade.json](./217917-card-racing-simulator-otterrific-arcade.json) |
+| Card Roguelike of Musou Farming | 389364 | [389364-card-roguelike-of-musou-farming.json](./389364-card-roguelike-of-musou-farming.json) |
 | Card Scramble: Viola's Diner | 354966 | [354966-card-scramble-violas-diner.json](./354966-card-scramble-violas-diner.json) |
 | Card Shark Solitaire | 88827 | [88827-card-shark-solitaire.json](./88827-card-shark-solitaire.json) |
 | Card Shark: Deluxe Edition | 203686 | [203686-card-shark-deluxe-edition.json](./203686-card-shark-deluxe-edition.json) |
