@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaderaze Inferno | 412465 | [412465-jaderaze-inferno.json](./412465-jaderaze-inferno.json) |
 | Jadoraki | 238574 | [238574-jadoraki.json](./238574-jadoraki.json) |
 | Jaeger | 157826 | [157826-jaeger.json](./157826-jaeger.json) |
+| Jaesbich-ui Haengseong | 367135 | [367135-jaesbich-ui-haengseong.json](./367135-jaesbich-ui-haengseong.json) |
 | Jagainu-kun | 281588 | [281588-jagainu-kun.json](./281588-jagainu-kun.json) |
 | Jagan: Evil Eye | 97991 | [97991-jagan-evil-eye.json](./97991-jagan-evil-eye.json) |
 | Jagd Lanzer | 125109 | [125109-jagd-lanzer.json](./125109-jagd-lanzer.json) |
@@ -2888,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judged: A Court Simulator | 112365 | [112365-judged-a-court-simulator.json](./112365-judged-a-court-simulator.json) |
 | Judgement | 182838 | [182838-judgement.json](./182838-judgement.json) |
 | Judgement | 335650 | [335650-judgement.json](./335650-judgement.json) |
+| Judgement Angel | 367089 | [367089-judgement-angel.json](./367089-judgement-angel.json) |
 | Judgement Silversword | 140313 | [140313-judgement-silversword.json](./140313-judgement-silversword.json) |
 | Judgement Silversword: Rebirth Edition | 37699 | [37699-judgement-silversword-rebirth-edition.json](./37699-judgement-silversword-rebirth-edition.json) |
 | Judgement Silversword: Resurrection | 36405 | [36405-judgement-silversword-resurrection.json](./36405-judgement-silversword-resurrection.json) |
