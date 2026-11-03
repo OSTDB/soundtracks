@@ -2271,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Cup | 421810 | [421810-one-more-cup.json](./421810-one-more-cup.json) |
 | One More Dash | 260105 | [260105-one-more-dash.json](./260105-one-more-dash.json) |
 | One More Day | 291885 | [291885-one-more-day.json](./291885-one-more-day.json) |
+| One More Delve | 399394 | [399394-one-more-delve.json](./399394-one-more-delve.json) |
 | One More Dig! | 405576 | [405576-one-more-dig.json](./405576-one-more-dig.json) |
 | One More Dream | 216981 | [216981-one-more-dream.json](./216981-one-more-dream.json) |
 | One More Dungeon | 14764 | [14764-one-more-dungeon.json](./14764-one-more-dungeon.json) |
@@ -3131,6 +3132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Fire: Ready | 389966 | [389966-open-fire-ready.json](./389966-open-fire-ready.json) |
 | Open Fishing 2 | 333003 | [333003-open-fishing-2.json](./333003-open-fishing-2.json) |
 | Open Fishing XL | 231355 | [231355-open-fishing-xl.json](./231355-open-fishing-xl.json) |
+| Open For Business | 399958 | [399958-open-for-business.json](./399958-open-for-business.json) |
 | Open Fortress | 134576 | [134576-open-fortress.json](./134576-open-fortress.json) |
 | Open Gizmy Zimy | 400186 | [400186-open-gizmy-zimy.json](./400186-open-gizmy-zimy.json) |
 | Open Heart: Book 1 | 313721 | [313721-open-heart-book-1.json](./313721-open-heart-book-1.json) |
