@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another Hero Legend | 118988 | [118988-yet-another-hero-legend.json](./118988-yet-another-hero-legend.json) |
 | Yet Another Hero Story | 120105 | [120105-yet-another-hero-story.json](./120105-yet-another-hero-story.json) |
 | Yet Another Incremental Game (But This Time About Coding) | 412965 | [412965-yet-another-incremental-game-but-this-time-about-coding.json](./412965-yet-another-incremental-game-but-this-time-about-coding.json) |
+| Yet Another Jumping Game | 395082 | [395082-yet-another-jumping-game.json](./395082-yet-another-jumping-game.json) |
 | Yet Another Killing Game | 329407 | [329407-yet-another-killing-game.json](./329407-yet-another-killing-game.json) |
 | Yet Another Krappy Shooter | 281533 | [281533-yet-another-krappy-shooter.json](./281533-yet-another-krappy-shooter.json) |
 | Yet Another One | 338117 | [338117-yet-another-one.json](./338117-yet-another-one.json) |
