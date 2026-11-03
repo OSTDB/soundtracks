@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XenoGrove | 113555 | [113555-xenogrove.json](./113555-xenogrove.json) |
 | Xenogunner | 98587 | [98587-xenogunner.json](./98587-xenogunner.json) |
 | Xenogunner Returns: Rule of Chaos | 316693 | [316693-xenogunner-returns-rule-of-chaos.json](./316693-xenogunner-returns-rule-of-chaos.json) |
+| XenoHaven | 374869 | [374869-xenohaven.json](./374869-xenohaven.json) |
 | Xenoids | 191203 | [191203-xenoids.json](./191203-xenoids.json) |
 | Xenomare | 168624 | [168624-xenomare.json](./168624-xenomare.json) |
 | Xenomarine | 74260 | [74260-xenomarine.json](./74260-xenomarine.json) |
