@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Circus MD | 125458 | [125458-f1-circus-md.json](./125458-f1-circus-md.json) |
 | F1 Circus Special: Pole to Win | 185879 | [185879-f1-circus-special-pole-to-win.json](./185879-f1-circus-special-pole-to-win.json) |
 | F1 Clash | 153653 | [153653-f1-clash.json](./153653-f1-clash.json) |
+| F1 Crazy Stunts | 367648 | [367648-f1-crazy-stunts.json](./367648-f1-crazy-stunts.json) |
 | F1 Douchuuki | 41711 | [41711-f1-douchuuki.json](./41711-f1-douchuuki.json) |
 | F1 Dream | 44327 | [44327-f1-dream.json](./44327-f1-dream.json) |
 | F1 GP Circuits | 47210 | [47210-f1-gp-circuits.json](./47210-f1-gp-circuits.json) |
@@ -2117,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far a Night | 389617 | [389617-far-a-night.json](./389617-far-a-night.json) |
 | Far Away | 130105 | [130105-far-away.json](./130105-far-away.json) |
 | Far Away From Home | 190432 | [190432-far-away-from-home.json](./190432-far-away-from-home.json) |
+| Far Away Horse | 367662 | [367662-far-away-horse.json](./367662-far-away-horse.json) |
 | Far Away Train | 150527 | [150527-far-away-train.json](./150527-far-away-train.json) |
 | Far Away, Pixel Horror | 177696 | [177696-far-away-pixel-horror.json](./177696-far-away-pixel-horror.json) |
 | Far Beyond the World | 158979 | [158979-far-beyond-the-world.json](./158979-far-beyond-the-world.json) |
