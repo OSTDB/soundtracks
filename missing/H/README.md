@@ -3490,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Storm Shadow | 291319 | [291319-heavy-storm-shadow.json](./291319-heavy-storm-shadow.json) |
 | Heavy Sword | 259037 | [259037-heavy-sword.json](./259037-heavy-sword.json) |
 | Heavy Traffic | 272334 | [272334-heavy-traffic.json](./272334-heavy-traffic.json) |
+| Heavy Truck | 396325 | [396325-heavy-truck.json](./396325-heavy-truck.json) |
 | Heavy Truck Simulator | 58250 | [58250-heavy-truck-simulator.json](./58250-heavy-truck-simulator.json) |
 | Heavy Trucking | 271698 | [271698-heavy-trucking.json](./271698-heavy-trucking.json) |
 | Heavy Unit | 46859 | [46859-heavy-unit.json](./46859-heavy-unit.json) |
