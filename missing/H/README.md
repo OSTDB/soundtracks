@@ -6030,6 +6030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroine's Quest: The Herald of Ragnarok | 36441 | [36441-heroines-quest-the-herald-of-ragnarok.json](./36441-heroines-quest-the-herald-of-ragnarok.json) |
 | Heroines Fantasy Inherit | 284290 | [284290-heroines-fantasy-inherit.json](./284290-heroines-fantasy-inherit.json) |
 | Heroines of Swords & Spells | 130129 | [130129-heroines-of-swords-and-spells.json](./130129-heroines-of-swords-and-spells.json) |
+| Heroines of Swords & Spells 2 | 349065 | [349065-heroines-of-swords-and-spells-2.json](./349065-heroines-of-swords-and-spells-2.json) |
 | Heroines Paradox | 408539 | [408539-heroines-paradox.json](./408539-heroines-paradox.json) |
 | Heroines Through My Lens | 381971 | [381971-heroines-through-my-lens.json](./381971-heroines-through-my-lens.json) |
 | Heroines' Chord | 422068 | [422068-heroines-chord.json](./422068-heroines-chord.json) |
@@ -7107,6 +7108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide vs. Seek! | 378808 | [378808-hide-vs-seek.json](./378808-hide-vs-seek.json) |
 | Hide Your Butts! | 113004 | [113004-hide-your-butts.json](./113004-hide-your-butts.json) |
 | Hide Zone | 374338 | [374338-hide-zone.json](./374338-hide-zone.json) |
+| Hide-a-neigh | 349189 | [349189-hide-a-neigh.json](./349189-hide-a-neigh.json) |
 | Hide-And-Seek | 86196 | [86196-hide-and-seek.json](./86196-hide-and-seek.json) |
 | Hide.io | 102269 | [102269-hide-io.json](./102269-hide-io.json) |
 | Hide&Seek | 166425 | [166425-hide-and-seek.json](./166425-hide-and-seek.json) |
@@ -11045,6 +11047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugs | 179542 | [179542-hugs.json](./179542-hugs.json) |
 | Hugungui Beopchik | 212858 | [212858-hugungui-beopchik.json](./212858-hugungui-beopchik.json) |
 | Huh?: and the Adventures of Something | 367123 | [367123-huh-and-the-adventures-of-something.json](./367123-huh-and-the-adventures-of-something.json) |
+| Hui-shuo | 349081 | [349081-hui-shuo.json](./349081-hui-shuo.json) |
 | Huíwén Píngtái Tiàoyuè | 156136 | [156136-huiwen-pingtai-tiaoyue.json](./156136-huiwen-pingtai-tiaoyue.json) |
 | Huíwén Zhànqí | 415511 | [415511-huiwen-zhanqi.json](./415511-huiwen-zhanqi.json) |
 | Hula Wii: Hula de Hajimeru - Bi to Kenkou! | 141473 | [141473-hula-wii-hula-de-hajimeru-bi-to-kenkou.json](./141473-hula-wii-hula-de-hajimeru-bi-to-kenkou.json) |
