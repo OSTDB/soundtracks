@@ -10714,6 +10714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DNA: Season 2 - Episode 4 | 311104 | [311104-dna-season-2-episode-4.json](./311104-dna-season-2-episode-4.json) |
 | DnB Starfighter | 356735 | [356735-dnb-starfighter.json](./356735-dnb-starfighter.json) |
 | DND | 2888 | [2888-dnd.json](./2888-dnd.json) |
+| DND | 381158 | [381158-dnd.json](./381158-dnd.json) |
 | DnD Adventure: Rogue's Choice | 221505 | [221505-dnd-adventure-rogues-choice.json](./221505-dnd-adventure-rogues-choice.json) |
 | DnD Adventure: Wizard's Choice | 154281 | [154281-dnd-adventure-wizards-choice.json](./154281-dnd-adventure-wizards-choice.json) |
 | DnD Dice | 105951 | [105951-dnd-dice.json](./105951-dnd-dice.json) |
