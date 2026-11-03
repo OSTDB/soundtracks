@@ -2430,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imp | 378448 | [378448-imp.json](./378448-imp.json) |
 | Imp Adventure | 385415 | [385415-imp-adventure.json](./385415-imp-adventure.json) |
 | Imp and Cubes | 246462 | [246462-imp-and-cubes.json](./246462-imp-and-cubes.json) |
+| Imp and Oaf Kick Off! | 350886 | [350886-imp-and-oaf-kick-off.json](./350886-imp-and-oaf-kick-off.json) |
 | Imp Dreams | 320189 | [320189-imp-dreams.json](./320189-imp-dreams.json) |
 | Imp Encounter | 296198 | [296198-imp-encounter.json](./296198-imp-encounter.json) |
 | iMP: Surf the Music | 100197 | [100197-imp-surf-the-music.json](./100197-imp-surf-the-music.json) |
