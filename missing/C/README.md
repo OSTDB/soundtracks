@@ -2196,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carbonflesh | 224641 | [224641-carbonflesh.json](./224641-carbonflesh.json) |
 | Carbox | 317997 | [317997-carbox.json](./317997-carbox.json) |
 | Carbuncle Pi | 400985 | [400985-carbuncle-pi.json](./400985-carbuncle-pi.json) |
+| CarCam | 373493 | [373493-carcam.json](./373493-carcam.json) |
 | Carcará: Asas da Justiça | 133857 | [133857-carcara-asas-da-justica.json](./133857-carcara-asas-da-justica.json) |
 | Carcass | 298533 | [298533-carcass.json](./298533-carcass.json) |
 | Carcass Clad | 405160 | [405160-carcass-clad.json](./405160-carcass-clad.json) |
@@ -4854,6 +4855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrity Slot Machine | 242550 | [242550-celebrity-slot-machine.json](./242550-celebrity-slot-machine.json) |
 | Celebrity Smackdown | 389039 | [389039-celebrity-smackdown.json](./389039-celebrity-smackdown.json) |
 | Celebrity Sports Showdown | 4753 | [4753-celebrity-sports-showdown.json](./4753-celebrity-sports-showdown.json) |
+| Celephaïs Dead Cities | 373664 | [373664-celephais-dead-cities.json](./373664-celephais-dead-cities.json) |
 | Celerity | 183396 | [183396-celerity.json](./183396-celerity.json) |
 | Celerity | 185903 | [185903-celerity.json](./185903-celerity.json) |
 | Celestarium | 226300 | [226300-celestarium.json](./226300-celestarium.json) |
@@ -10162,6 +10164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clowned Pro | 276060 | [276060-clowned-pro.json](./276060-clowned-pro.json) |
 | Clownfield 2042 | 186132 | [186132-clownfield-2042.json](./186132-clownfield-2042.json) |
 | Clownfield 6 | 383451 | [383451-clownfield-6.json](./383451-clownfield-6.json) |
+| Clownout | 373792 | [373792-clownout.json](./373792-clownout.json) |
 | Clowns | 165915 | [165915-clowns.json](./165915-clowns.json) |
 | Clowns and Balloons | 40781 | [40781-clowns-and-balloons.json](./40781-clowns-and-balloons.json) |
 | ClownScapades Rally | 257924 | [257924-clownscapades-rally.json](./257924-clownscapades-rally.json) |
@@ -13730,6 +13733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copa Petrobras de Marcas | 90609 | [90609-copa-petrobras-de-marcas.json](./90609-copa-petrobras-de-marcas.json) |
 | Copa Toon 2010 | 344709 | [344709-copa-toon-2010.json](./344709-copa-toon-2010.json) |
 | Copa Toon: Superestrellas | 334930 | [334930-copa-toon-superestrellas.json](./334930-copa-toon-superestrellas.json) |
+| Copacetic | 373485 | [373485-copacetic.json](./373485-copacetic.json) |
 | Copcore | 217193 | [217193-copcore.json](./217193-copcore.json) |
 | Cope Island: Adrift | 113755 | [113755-cope-island-adrift.json](./113755-cope-island-adrift.json) |
 | Cope: Shodown | 165108 | [165108-cope-shodown.json](./165108-cope-shodown.json) |
