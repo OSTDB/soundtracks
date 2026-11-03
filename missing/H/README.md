@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana Taaka Daka! | 38076 | [38076-hana-taaka-daka.json](./38076-hana-taaka-daka.json) |
 | Hana to Otome ni Shukufuku wo Royal Bouquet | 60368 | [60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json](./60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json) |
 | Hana to Otome ni Shukufuku wo: Harukaze No Okurimono | 69054 | [69054-hana-to-otome-ni-shukufuku-wo-harukaze-no-okurimono.json](./69054-hana-to-otome-ni-shukufuku-wo-harukaze-no-okurimono.json) |
+| Hana to Ryuu | 352509 | [352509-hana-to-ryuu.json](./352509-hana-to-ryuu.json) |
 | Hana: Episode I | 263345 | [263345-hana-episode-i.json](./263345-hana-episode-i.json) |
 | Hana: Episode II | 263346 | [263346-hana-episode-ii.json](./263346-hana-episode-ii.json) |
 | Hana: Hide and Seek | 250529 | [250529-hana-hide-and-seek.json](./250529-hana-hide-and-seek.json) |
