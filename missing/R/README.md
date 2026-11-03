@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Simulator Bundle: Driving School Simulator & Real Driving Simulator | 378836 | [378836-racing-simulator-bundle-driving-school-simulator-and-real-driving-simulator.json](./378836-racing-simulator-bundle-driving-school-simulator-and-real-driving-simulator.json) |
 | Racing Skill | 358355 | [358355-racing-skill.json](./358355-racing-skill.json) |
 | Racing Stars | 295274 | [295274-racing-stars.json](./295274-racing-stars.json) |
+| Racing Tanks! | 370059 | [370059-racing-tanks.json](./370059-racing-tanks.json) |
 | Racing Team Manager | 54312 | [54312-racing-team-manager.json](./54312-racing-team-manager.json) |
 | Racing the Gods: Beyond Horizons | 197573 | [197573-racing-the-gods-beyond-horizons.json](./197573-racing-the-gods-beyond-horizons.json) |
 | Racing Wars | 180701 | [180701-racing-wars.json](./180701-racing-wars.json) |
@@ -1580,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rallyween | 376146 | [376146-rallyween.json](./376146-rallyween.json) |
 | Ralph Baer's Pinball! | 257666 | [257666-ralph-baers-pinball.json](./257666-ralph-baers-pinball.json) |
 | Ralph Breaks VR | 246638 | [246638-ralph-breaks-vr.json](./246638-ralph-breaks-vr.json) |
+| Ralsei Hwrot | 370385 | [370385-ralsei-hwrot.json](./370385-ralsei-hwrot.json) |
 | Ralsei's got a gun! | 175924 | [175924-ralseis-got-a-gun.json](./175924-ralseis-got-a-gun.json) |
 | RAM 1982 | 349953 | [349953-ram-1982.json](./349953-ram-1982.json) |
 | RAM Downloader | 384225 | [384225-ram-downloader.json](./384225-ram-downloader.json) |
@@ -3416,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reckless Racing | 38702 | [38702-reckless-racing.json](./38702-reckless-racing.json) |
 | Reckless Racing HD | 90542 | [90542-reckless-racing-hd.json](./90542-reckless-racing-hd.json) |
 | Reckless Rally | 276830 | [276830-reckless-rally.json](./276830-reckless-rally.json) |
+| Reckless Ruckus | 370391 | [370391-reckless-ruckus.json](./370391-reckless-ruckus.json) |
 | Reckless Rufus | 39164 | [39164-reckless-rufus.json](./39164-reckless-rufus.json) |
 | Reckless Space Pirates | 38729 | [38729-reckless-space-pirates.json](./38729-reckless-space-pirates.json) |
 | Reckon | 74074 | [74074-reckon.json](./74074-reckon.json) |
@@ -4472,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reincarnated As A Monster | 127158 | [127158-reincarnated-as-a-monster.json](./127158-reincarnated-as-a-monster.json) |
 | Reincarnated as a Noble | 217746 | [217746-reincarnated-as-a-noble.json](./217746-reincarnated-as-a-noble.json) |
 | Reincarnated as a Rookie | 302798 | [302798-reincarnated-as-a-rookie.json](./302798-reincarnated-as-a-rookie.json) |
+| Reincarnated Souls | 370363 | [370363-reincarnated-souls.json](./370363-reincarnated-souls.json) |
 | Reincarnatio | 260270 | [260270-reincarnatio.json](./260270-reincarnatio.json) |
 | Reincarnation | 247901 | [247901-reincarnation.json](./247901-reincarnation.json) |
 | Reincarnation of Ocean | 160028 | [160028-reincarnation-of-ocean.json](./160028-reincarnation-of-ocean.json) |
@@ -7999,6 +8003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RNG Quest | 338865 | [338865-rng-quest.json](./338865-rng-quest.json) |
 | RNG Quest | 338866 | [338866-rng-quest.json](./338866-rng-quest.json) |
 | RNG Royale | 191532 | [191532-rng-royale.json](./191532-rng-royale.json) |
+| RNLI Storm Force Rescue | 370398 | [370398-rnli-storm-force-rescue.json](./370398-rnli-storm-force-rescue.json) |
 | Ro | 238286 | [238286-ro.json](./238286-ro.json) |
 | Rô + Fire Race + Scrap Bolts + Milk Seller + Home Sweet Home + Rafa's World | 306552 | [306552-ro-fire-race-scrap-bolts-milk-seller-home-sweet-home-rafas-world.json](./306552-ro-fire-race-scrap-bolts-milk-seller-home-sweet-home-rafas-world.json) |
 | Ro Sham Bo Rush | 252142 | [252142-ro-sham-bo-rush.json](./252142-ro-sham-bo-rush.json) |
@@ -11659,6 +11664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rummi | 181530 | [181530-rummi.json](./181530-rummi.json) |
 | Rummikub | 243274 | [243274-rummikub.json](./243274-rummikub.json) |
 | Rummix | 387075 | [387075-rummix.json](./387075-rummix.json) |
+| Rummy | 370401 | [370401-rummy.json](./370401-rummy.json) |
 | Rummy - classic card game | 88416 | [88416-rummy-classic-card-game.json](./88416-rummy-classic-card-game.json) |
 | Rummy 3D Premium | 118405 | [118405-rummy-3d-premium.json](./118405-rummy-3d-premium.json) |
 | Rummy Attack | 416578 | [416578-rummy-attack.json](./416578-rummy-attack.json) |
