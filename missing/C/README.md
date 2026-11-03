@@ -1474,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canvas Quest | 44290 | [44290-canvas-quest.json](./44290-canvas-quest.json) |
 | Canvas Street | 347904 | [347904-canvas-street.json](./347904-canvas-street.json) |
 | Canvas the Gallery | 29515 | [29515-canvas-the-gallery.json](./29515-canvas-the-gallery.json) |
+| Canvas: The Board Game | 364786 | [364786-canvas-the-board-game.json](./364786-canvas-the-board-game.json) |
 | CanvasCraft | 332241 | [332241-canvascraft.json](./332241-canvascraft.json) |
 | Canvasmount | 341635 | [341635-canvasmount.json](./341635-canvasmount.json) |
 | CanVerse | 227999 | [227999-canverse.json](./227999-canverse.json) |
@@ -18101,6 +18102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Mission | 113723 | [113723-cube-mission.json](./113723-cube-mission.json) |
 | Cube Monster | 74389 | [74389-cube-monster.json](./74389-cube-monster.json) |
 | Cube Monster 3D | 108244 | [108244-cube-monster-3d.json](./108244-cube-monster-3d.json) |
+| Cube Ninja | 364789 | [364789-cube-ninja.json](./364789-cube-ninja.json) |
 | Cube on a Leash | 415855 | [415855-cube-on-a-leash.json](./415855-cube-on-a-leash.json) |
 | Cube Paste | 146231 | [146231-cube-paste.json](./146231-cube-paste.json) |
 | Cube Projection | 143911 | [143911-cube-projection.json](./143911-cube-projection.json) |
@@ -18561,6 +18563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupcake Baker | 87719 | [87719-cupcake-baker.json](./87719-cupcake-baker.json) |
 | Cupcake Clicker 4 | 231381 | [231381-cupcake-clicker-4.json](./231381-cupcake-clicker-4.json) |
 | Cupcake Doodle | 101424 | [101424-cupcake-doodle.json](./101424-cupcake-doodle.json) |
+| Cupcake Galaxy | 364784 | [364784-cupcake-galaxy.json](./364784-cupcake-galaxy.json) |
 | Cupcake House: Liv's cupcakes matching sweetness! | 252705 | [252705-cupcake-house-livs-cupcakes-matching-sweetness.json](./252705-cupcake-house-livs-cupcakes-matching-sweetness.json) |
 | Cupcake Mania | 323098 | [323098-cupcake-mania.json](./323098-cupcake-mania.json) |
 | Cupcake Match | 146751 | [146751-cupcake-match.json](./146751-cupcake-match.json) |
