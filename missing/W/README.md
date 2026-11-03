@@ -8178,6 +8178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Heroes: WW2 FPS Shooter! | 96747 | [96747-world-war-heroes-ww2-fps-shooter.json](./96747-world-war-heroes-ww2-fps-shooter.json) |
 | World War I | 35439 | [35439-world-war-i.json](./35439-world-war-i.json) |
 | World War I: The Great War | 23745 | [23745-world-war-i-the-great-war.json](./23745-world-war-i-the-great-war.json) |
+| World War II Armored Recon | 351508 | [351508-world-war-ii-armored-recon.json](./351508-world-war-ii-armored-recon.json) |
 | World War II City Rebirth Tycoon | 322400 | [322400-world-war-ii-city-rebirth-tycoon.json](./322400-world-war-ii-city-rebirth-tycoon.json) |
 | World War II Combat: Iwo Jima | 6242 | [6242-world-war-ii-combat-iwo-jima.json](./6242-world-war-ii-combat-iwo-jima.json) |
 | World War II Combat: Road to Berlin | 6243 | [6243-world-war-ii-combat-road-to-berlin.json](./6243-world-war-ii-combat-road-to-berlin.json) |
