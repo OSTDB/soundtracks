@@ -6624,7 +6624,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Ethans | 194614 | [194614-five-nights-at-ethans.json](./194614-five-nights-at-ethans.json) |
 | Five Nights at F***boy's 2: Final Mix | 170335 | [170335-five-nights-at-f-boys-2-final-mix.json](./170335-five-nights-at-f-boys-2-final-mix.json) |
 | Five Nights at F***boy's 3: Final Mix | 171894 | [171894-five-nights-at-f-boys-3-final-mix.json](./171894-five-nights-at-f-boys-3-final-mix.json) |
+| Five Nights at F***boy's: Dancing All Night | 374328 | [374328-five-nights-at-f-boys-dancing-all-night.json](./374328-five-nights-at-f-boys-dancing-all-night.json) |
 | Five Nights at F***boy's: Final Mix | 170035 | [170035-five-nights-at-f-boys-final-mix.json](./170035-five-nights-at-f-boys-final-mix.json) |
+| Five Nights at F***boy's: Golden Edition | 374324 | [374324-five-nights-at-f-boys-golden-edition.json](./374324-five-nights-at-f-boys-golden-edition.json) |
+| Five Nights at F***boy's: Golden Edition 2 | 374327 | [374327-five-nights-at-f-boys-golden-edition-2.json](./374327-five-nights-at-f-boys-golden-edition-2.json) |
 | Five Nights at F**kboy's: Sister Location | 393576 | [393576-five-nights-at-f-kboys-sister-location.json](./393576-five-nights-at-f-kboys-sister-location.json) |
 | Five Nights at F**kboys: Ennard's Valiant Expedition | 374102 | [374102-five-nights-at-f-kboys-ennards-valiant-expedition.json](./374102-five-nights-at-f-kboys-ennards-valiant-expedition.json) |
 | Five Nights at Floppa 0 | 207759 | [207759-five-nights-at-floppa-0.json](./207759-five-nights-at-floppa-0.json) |
@@ -10577,6 +10580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Mind | 294273 | [294273-fractured-mind.json](./294273-fractured-mind.json) |
 | Fractured Perception | 336149 | [336149-fractured-perception.json](./336149-fractured-perception.json) |
 | Fractured Realms: Season 1 | 385972 | [385972-fractured-realms-season-1.json](./385972-fractured-realms-season-1.json) |
+| Fractured Red | 374009 | [374009-fractured-red.json](./374009-fractured-red.json) |
 | Fractured Rift | 393244 | [393244-fractured-rift.json](./393244-fractured-rift.json) |
 | Fractured Sanity | 199303 | [199303-fractured-sanity.json](./199303-fractured-sanity.json) |
 | Fractured Skyline | 116426 | [116426-fractured-skyline.json](./116426-fractured-skyline.json) |
