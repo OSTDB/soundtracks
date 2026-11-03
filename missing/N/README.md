@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nagamaki Grind | 180689 | [180689-nagamaki-grind.json](./180689-nagamaki-grind.json) |
 | Nagano Winter Olympics '98 | 3546 | [3546-nagano-winter-olympics-98.json](./3546-nagano-winter-olympics-98.json) |
 | Nagare-boshi | 168526 | [168526-nagare-boshi.json](./168526-nagare-boshi.json) |
+| Nagareochiru Shirabe ni Nosete | 376770 | [376770-nagareochiru-shirabe-ni-nosete.json](./376770-nagareochiru-shirabe-ni-nosete.json) |
 | Nagato - Ninja Flying and Fighting Jungle Wars | 97134 | [97134-nagato-ninja-flying-and-fighting-jungle-wars.json](./97134-nagato-ninja-flying-and-fighting-jungle-wars.json) |
 | Nagayami Nights | 286128 | [286128-nagayami-nights.json](./286128-nagayami-nights.json) |
 | Nage Libre: Seijaku no Suishin | 37915 | [37915-nage-libre-seijaku-no-suishin.json](./37915-nage-libre-seijaku-no-suishin.json) |
