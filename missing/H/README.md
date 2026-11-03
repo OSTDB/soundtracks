@@ -7559,6 +7559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiouden | 38384 | [38384-hiouden.json](./38384-hiouden.json) |
 | Hiouden II | 297548 | [297548-hiouden-ii.json](./297548-hiouden-ii.json) |
 | Hiouden: Mamono-tachi to no Chikai | 60499 | [60499-hiouden-mamono-tachi-to-no-chikai.json](./60499-hiouden-mamono-tachi-to-no-chikai.json) |
+| Hip Game | 393855 | [393855-hip-game.json](./393855-hip-game.json) |
 | Hip Hop & Street Dance School | 87868 | [87868-hip-hop-and-street-dance-school.json](./87868-hip-hop-and-street-dance-school.json) |
 | Hip Hop Battle: Girls vs. Boys - Dance Clash of the Sexes | 106902 | [106902-hip-hop-battle-girls-vs-boys-dance-clash-of-the-sexes.json](./106902-hip-hop-battle-girls-vs-boys-dance-clash-of-the-sexes.json) |
 | Hip Hop King: Rytmik Edition | 65460 | [65460-hip-hop-king-rytmik-edition.json](./65460-hip-hop-king-rytmik-edition.json) |
