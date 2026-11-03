@@ -4565,6 +4565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Amazon Girls | 368011 | [368011-hentai-amazon-girls.json](./368011-hentai-amazon-girls.json) |
 | Hentai Ami | 245995 | [245995-hentai-ami.json](./245995-hentai-ami.json) |
 | Hentai Ancient Secret | 271032 | [271032-hentai-ancient-secret.json](./271032-hentai-ancient-secret.json) |
+| Hentai Angel: Smite the Nazis | 365400 | [365400-hentai-angel-smite-the-nazis.json](./365400-hentai-angel-smite-the-nazis.json) |
 | Hentai Animation Puzzle | 367037 | [367037-hentai-animation-puzzle.json](./367037-hentai-animation-puzzle.json) |
 | Hentai Anime Girls Succubus | 290449 | [290449-hentai-anime-girls-succubus.json](./290449-hentai-anime-girls-succubus.json) |
 | Hentai Anime Girls Succubus: Extended Edition | 312058 | [312058-hentai-anime-girls-succubus-extended-edition.json](./312058-hentai-anime-girls-succubus-extended-edition.json) |
@@ -4575,7 +4576,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Ariel | 242624 | [242624-hentai-ariel.json](./242624-hentai-ariel.json) |
 | Hentai Ariya | 379336 | [379336-hentai-ariya.json](./379336-hentai-ariya.json) |
 | Hentai Asmodeus | 125352 | [125352-hentai-asmodeus.json](./125352-hentai-asmodeus.json) |
+| Hentai ASMR | 365401 | [365401-hentai-asmr.json](./365401-hentai-asmr.json) |
 | Hentai Ayumi | 244081 | [244081-hentai-ayumi.json](./244081-hentai-ayumi.json) |
+| Hentai Babes: Broken Vows | 365402 | [365402-hentai-babes-broken-vows.json](./365402-hentai-babes-broken-vows.json) |
+| Hentai Babes: Fantasy | 365403 | [365403-hentai-babes-fantasy.json](./365403-hentai-babes-fantasy.json) |
+| Hentai Babes: In Costume | 365404 | [365404-hentai-babes-in-costume.json](./365404-hentai-babes-in-costume.json) |
+| Hentai Babes: In Public | 365405 | [365405-hentai-babes-in-public.json](./365405-hentai-babes-in-public.json) |
+| Hentai Babes: Nations | 365406 | [365406-hentai-babes-nations.json](./365406-hentai-babes-nations.json) |
+| Hentai Babes: Servants | 365407 | [365407-hentai-babes-servants.json](./365407-hentai-babes-servants.json) |
+| Hentai Babes: Sport Lovers | 365408 | [365408-hentai-babes-sport-lovers.json](./365408-hentai-babes-sport-lovers.json) |
+| Hentai Babes: Waifu | 365409 | [365409-hentai-babes-waifu.json](./365409-hentai-babes-waifu.json) |
 | Hentai Bad Girls | 280267 | [280267-hentai-bad-girls.json](./280267-hentai-bad-girls.json) |
 | Hentai Bae Sunny | 369307 | [369307-hentai-bae-sunny.json](./369307-hentai-bae-sunny.json) |
 | Hentai Bae Violet | 369830 | [369830-hentai-bae-violet.json](./369830-hentai-bae-violet.json) |
