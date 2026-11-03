@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habitat Rescue: Lion's Pride | 227447 | [227447-habitat-rescue-lions-pride.json](./227447-habitat-rescue-lions-pride.json) |
 | Habitat Shapes | 379161 | [379161-habitat-shapes.json](./379161-habitat-shapes.json) |
 | Habitat Shapes: The Tropical Journey | 401127 | [401127-habitat-shapes-the-tropical-journey.json](./401127-habitat-shapes-the-tropical-journey.json) |
+| Habitat Toxica | 374343 | [374343-habitat-toxica.json](./374343-habitat-toxica.json) |
 | Habitatrix | 292242 | [292242-habitatrix.json](./292242-habitatrix.json) |
 | Habitica | 395187 | [395187-habitica.json](./395187-habitica.json) |
 | Habitking RPG | 127585 | [127585-habitking-rpg.json](./127585-habitking-rpg.json) |
@@ -7005,6 +7006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide vs. Seek | 28942 | [28942-hide-vs-seek.json](./28942-hide-vs-seek.json) |
 | Hide vs. Seek! | 378808 | [378808-hide-vs-seek.json](./378808-hide-vs-seek.json) |
 | Hide Your Butts! | 113004 | [113004-hide-your-butts.json](./113004-hide-your-butts.json) |
+| Hide Zone | 374338 | [374338-hide-zone.json](./374338-hide-zone.json) |
 | Hide-And-Seek | 86196 | [86196-hide-and-seek.json](./86196-hide-and-seek.json) |
 | Hide.io | 102269 | [102269-hide-io.json](./102269-hide-io.json) |
 | Hide&Seek | 166425 | [166425-hide-and-seek.json](./166425-hide-and-seek.json) |
@@ -10150,6 +10152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Investigation 09 | 352041 | [352041-hotel-investigation-09.json](./352041-hotel-investigation-09.json) |
 | Hotel Is Hungry | 414079 | [414079-hotel-is-hungry.json](./414079-hotel-is-hungry.json) |
 | Hotel Island: Paradise Story! | 88318 | [88318-hotel-island-paradise-story.json](./88318-hotel-island-paradise-story.json) |
+| Hotel Keeper | 374006 | [374006-hotel-keeper.json](./374006-hotel-keeper.json) |
 | Hotel Life: A Resort Simulator | 151044 | [151044-hotel-life-a-resort-simulator.json](./151044-hotel-life-a-resort-simulator.json) |
 | Hotel Lust | 367295 | [367295-hotel-lust.json](./367295-hotel-lust.json) |
 | Hotel Management Simulator | 217285 | [217285-hotel-management-simulator.json](./217285-hotel-management-simulator.json) |
