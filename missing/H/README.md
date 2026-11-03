@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: 25th Anniversary Update | 277523 | [277523-half-life-25th-anniversary-update.json](./277523-half-life-25th-anniversary-update.json) |
 | Half-Life: Abeyance | 221789 | [221789-half-life-abeyance.json](./221789-half-life-abeyance.json) |
 | Half-Life: Absolute Zero | 168931 | [168931-half-life-absolute-zero.json](./168931-half-life-absolute-zero.json) |
+| Half-Life: Alyx - Return to Rapture | 395625 | [395625-half-life-alyx-return-to-rapture.json](./395625-half-life-alyx-return-to-rapture.json) |
 | Half-Life: Anti-Climax | 128194 | [128194-half-life-anti-climax.json](./128194-half-life-anti-climax.json) |
 | Half-Life: Before | 30369 | [30369-half-life-before.json](./30369-half-life-before.json) |
 | Half-Life: Beyond | 329025 | [329025-half-life-beyond.json](./329025-half-life-beyond.json) |
@@ -8806,6 +8807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homo Flimsy | 103433 | [103433-homo-flimsy.json](./103433-homo-flimsy.json) |
 | Homo Machina | 101468 | [101468-homo-machina.json](./101468-homo-machina.json) |
 | Homo Sovieticus | 405885 | [405885-homo-sovieticus.json](./405885-homo-sovieticus.json) |
+| Homonculus | 395627 | [395627-homonculus.json](./395627-homonculus.json) |
 | Homuha no X 1.5: Sukisuki Date Daisakusen | 59020 | [59020-homuha-no-x-1-5-sukisuki-date-daisakusen.json](./59020-homuha-no-x-1-5-sukisuki-date-daisakusen.json) |
 | Homunculus | 255669 | [255669-homunculus.json](./255669-homunculus.json) |
 | Homunculus | 319807 | [319807-homunculus.json](./319807-homunculus.json) |
@@ -9033,6 +9035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoodoo Voodoo | 13879 | [13879-hoodoo-voodoo.json](./13879-hoodoo-voodoo.json) |
 | Hoodsters | 259536 | [259536-hoodsters.json](./259536-hoodsters.json) |
 | Hoodwink | 20820 | [20820-hoodwink.json](./20820-hoodwink.json) |
+| Hoof & Seek | 395644 | [395644-hoof-and-seek.json](./395644-hoof-and-seek.json) |
 | Hoofdrekenen | 98950 | [98950-hoofdrekenen.json](./98950-hoofdrekenen.json) |
 | Hoofield | 229912 | [229912-hoofield.json](./229912-hoofield.json) |
 | Hoofobia | 279898 | [279898-hoofobia.json](./279898-hoofobia.json) |
