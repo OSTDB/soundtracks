@@ -4253,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightbrats | 423379 | [423379-nightbrats.json](./423379-nightbrats.json) |
 | Nightbreed: The Action Game | 15269 | [15269-nightbreed-the-action-game.json](./15269-nightbreed-the-action-game.json) |
 | Nightbreed: The Interactive Movie | 15270 | [15270-nightbreed-the-interactive-movie.json](./15270-nightbreed-the-interactive-movie.json) |
+| Nightcap Witch | 384689 | [384689-nightcap-witch.json](./384689-nightcap-witch.json) |
 | NightCaster II: Equinox | 5970 | [5970-nightcaster-ii-equinox.json](./5970-nightcaster-ii-equinox.json) |
 | NightCaster: Defeat the Darkness | 47323 | [47323-nightcaster-defeat-the-darkness.json](./47323-nightcaster-defeat-the-darkness.json) |
 | Nightclub 69: Bunny Girls | 367032 | [367032-nightclub-69-bunny-girls.json](./367032-nightclub-69-bunny-girls.json) |
@@ -4710,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
 | Nine Lives | 139614 | [139614-nine-lives.json](./139614-nine-lives.json) |
 | Nine Men's Morris Multiplayer | 351063 | [351063-nine-mens-morris-multiplayer.json](./351063-nine-mens-morris-multiplayer.json) |
+| Nine Mile Ride | 384473 | [384473-nine-mile-ride.json](./384473-nine-mile-ride.json) |
 | Nine Nights: Martial Ci Lang Story | 300857 | [300857-nine-nights-martial-ci-lang-story.json](./300857-nine-nights-martial-ci-lang-story.json) |
 | Nine of Wands | 163106 | [163106-nine-of-wands.json](./163106-nine-of-wands.json) |
 | Nine Paradise: The Origin | 253349 | [253349-nine-paradise-the-origin.json](./253349-nine-paradise-the-origin.json) |
