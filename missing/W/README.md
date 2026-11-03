@@ -3640,6 +3640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Remains | 260665 | [260665-what-remains.json](./260665-what-remains.json) |
 | What Remains | 318969 | [318969-what-remains.json](./318969-what-remains.json) |
 | What Remains of Us | 256288 | [256288-what-remains-of-us.json](./256288-what-remains-of-us.json) |
+| What Should I Eat | 360853 | [360853-what-should-i-eat.json](./360853-what-should-i-eat.json) |
 | What Surrounds Us | 390367 | [390367-what-surrounds-us.json](./390367-what-surrounds-us.json) |
 | What the Bat?: Batty Goes to Battywood | 306932 | [306932-what-the-bat-batty-goes-to-battywood.json](./306932-what-the-bat-batty-goes-to-battywood.json) |
 | What the Block | 65327 | [65327-what-the-block.json](./65327-what-the-block.json) |
@@ -5005,6 +5006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Snake | 49055 | [49055-wild-snake.json](./49055-wild-snake.json) |
 | Wild Snap | 367577 | [367577-wild-snap.json](./367577-wild-snap.json) |
 | Wild Souls | 152740 | [152740-wild-souls.json](./152740-wild-souls.json) |
+| Wild Space | 360860 | [360860-wild-space.json](./360860-wild-space.json) |
 | Wild Squirrel Family Sim 3D | 234455 | [234455-wild-squirrel-family-sim-3d.json](./234455-wild-squirrel-family-sim-3d.json) |
 | Wild Streets | 12827 | [12827-wild-streets.json](./12827-wild-streets.json) |
 | Wild Summer | 76135 | [76135-wild-summer.json](./76135-wild-summer.json) |
@@ -8839,6 +8841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wǔlín Zhìzūn Zhuàn | 367434 | [367434-wulin-zhizun-zhuan.json](./367434-wulin-zhizun-zhuan.json) |
 | Wumball | 344405 | [344405-wumball.json](./344405-wumball.json) |
 | Wumbo's Adventure | 102750 | [102750-wumbos-adventure.json](./102750-wumbos-adventure.json) |
+| Wumbrik | 360868 | [360868-wumbrik.json](./360868-wumbrik.json) |
 | Wúmián Yèqǔ | 149799 | [149799-wumian-yequ.json](./149799-wumian-yequ.json) |
 | Wummsen Village | 361118 | [361118-wummsen-village.json](./361118-wummsen-village.json) |
 | Wumpus | 61029 | [61029-wumpus.json](./61029-wumpus.json) |
