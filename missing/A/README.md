@@ -8350,6 +8350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amma: Chronicles of Lost Stars | 204230 | [204230-amma-chronicles-of-lost-stars.json](./204230-amma-chronicles-of-lost-stars.json) |
 | Ammo 666 | 153883 | [153883-ammo-666.json](./153883-ammo-666.json) |
 | Ammo and Oxygen | 264568 | [264568-ammo-and-oxygen.json](./264568-ammo-and-oxygen.json) |
+| Ammo Bounce | 359145 | [359145-ammo-bounce.json](./359145-ammo-bounce.json) |
 | Ammo Garden | 336574 | [336574-ammo-garden.json](./336574-ammo-garden.json) |
 | Ammo Pigs: Armed and Delicious | 107889 | [107889-ammo-pigs-armed-and-delicious.json](./107889-ammo-pigs-armed-and-delicious.json) |
 | Ammo Pigs: Cocked and Loaded | 192012 | [192012-ammo-pigs-cocked-and-loaded.json](./192012-ammo-pigs-cocked-and-loaded.json) |
@@ -10224,6 +10225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Recovery | 378470 | [378470-anomaly-recovery.json](./378470-anomaly-recovery.json) |
 | Anomaly Report | 257424 | [257424-anomaly-report.json](./257424-anomaly-report.json) |
 | Anomaly Report | 348409 | [348409-anomaly-report.json](./348409-anomaly-report.json) |
+| Anomaly Report | 359146 | [359146-anomaly-report.json](./359146-anomaly-report.json) |
 | Anomaly Road | 405709 | [405709-anomaly-road.json](./405709-anomaly-road.json) |
 | Anomaly Rooms | 356550 | [356550-anomaly-rooms.json](./356550-anomaly-rooms.json) |
 | Anomaly Runner | 345803 | [345803-anomaly-runner.json](./345803-anomaly-runner.json) |
@@ -15888,6 +15890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
