@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Race | 375518 | [375518-rat-race.json](./375518-rat-race.json) |
 | Rat Race | 408783 | [408783-rat-race.json](./408783-rat-race.json) |
 | Rat Race | 60789 | [60789-rat-race.json](./60789-rat-race.json) |
+| Rat Race Combat: Zombie Tribute | 357684 | [357684-rat-race-combat-zombie-tribute.json](./357684-rat-race-combat-zombie-tribute.json) |
 | Rat Racer | 127760 | [127760-rat-racer.json](./127760-rat-racer.json) |
 | Rat Raze / Road to Riches: Tilt Five | 341308 | [341308-rat-raze-road-to-riches-tilt-five.json](./341308-rat-raze-road-to-riches-tilt-five.json) |
 | Rat Royal | 212064 | [212064-rat-royal.json](./212064-rat-royal.json) |
@@ -3071,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm Racer | 382379 | [382379-realm-racer.json](./382379-realm-racer.json) |
 | Realm Revolutions | 81696 | [81696-realm-revolutions.json](./81696-realm-revolutions.json) |
 | Realm Royale Shadowfall Bundle | 115647 | [115647-realm-royale-shadowfall-bundle.json](./115647-realm-royale-shadowfall-bundle.json) |
+| Realm Runner | 357701 | [357701-realm-runner.json](./357701-realm-runner.json) |
 | Realm Runners | 95067 | [95067-realm-runners.json](./95067-realm-runners.json) |
 | Realm Survivors | 337163 | [337163-realm-survivors.json](./337163-realm-survivors.json) |
 | Realm Watch | 347371 | [347371-realm-watch.json](./347371-realm-watch.json) |
@@ -3676,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Comrades Save the Galaxy: Reloaded | 27752 | [27752-red-comrades-save-the-galaxy-reloaded.json](./27752-red-comrades-save-the-galaxy-reloaded.json) |
 | Red Comrades: For the Great Justice | 52753 | [52753-red-comrades-for-the-great-justice.json](./52753-red-comrades-for-the-great-justice.json) |
 | Red Conquer | 186862 | [186862-red-conquer.json](./186862-red-conquer.json) |
+| Red Core Division | 357699 | [357699-red-core-division.json](./357699-red-core-division.json) |
 | Red Crimes: Hidden Murders | 108508 | [108508-red-crimes-hidden-murders.json](./108508-red-crimes-hidden-murders.json) |
 | Red Cross: Emergency Response Unit | 146498 | [146498-red-cross-emergency-response-unit.json](./146498-red-cross-emergency-response-unit.json) |
 | Red Crow Mysteries: Legion | 9410 | [9410-red-crow-mysteries-legion.json](./9410-red-crow-mysteries-legion.json) |
