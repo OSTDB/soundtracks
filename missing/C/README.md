@@ -5320,6 +5320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge Cube VR | 91198 | [91198-challenge-cube-vr.json](./91198-challenge-cube-vr.json) |
 | Challenge Dream Cat | 179997 | [179997-challenge-dream-cat.json](./179997-challenge-dream-cat.json) |
 | Challenge from Kiyoshi | 141772 | [141772-challenge-from-kiyoshi.json](./141772-challenge-from-kiyoshi.json) |
+| Challenge from the Black Cat | 369290 | [369290-challenge-from-the-black-cat.json](./369290-challenge-from-the-black-cat.json) |
 | Challenge Golf | 385537 | [385537-challenge-golf.json](./385537-challenge-golf.json) |
 | Challenge Love | 296608 | [296608-challenge-love.json](./296608-challenge-love.json) |
 | Challenge ME : Word Puzzles | 148769 | [148769-challenge-me-word-puzzles.json](./148769-challenge-me-word-puzzles.json) |
@@ -6421,6 +6422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Player 2150 | 70473 | [70473-chess-player-2150.json](./70473-chess-player-2150.json) |
 | Chess Plus+ | 86901 | [86901-chess-plus.json](./86901-chess-plus.json) |
 | Chess Premium HD | 89487 | [89487-chess-premium-hd.json](./89487-chess-premium-hd.json) |
+| Chess President | 368717 | [368717-chess-president.json](./368717-chess-president.json) |
 | Chess Prime 3D Pro | 86834 | [86834-chess-prime-3d-pro.json](./86834-chess-prime-3d-pro.json) |
 | Chess Pro - with coach | 89097 | [89097-chess-pro-with-coach.json](./89097-chess-pro-with-coach.json) |
 | Chess Pro 3D | 88419 | [88419-chess-pro-3d.json](./88419-chess-pro-3d.json) |
@@ -11303,6 +11305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color by Number - Puzzle | 89755 | [89755-color-by-number-puzzle.json](./89755-color-by-number-puzzle.json) |
 | Color by Number: Coloring Book | 87377 | [87377-color-by-number-coloring-book.json](./87377-color-by-number-coloring-book.json) |
 | Color by Number: Medieval Portrait | 367346 | [367346-color-by-number-medieval-portrait.json](./367346-color-by-number-medieval-portrait.json) |
+| Color by Number: Monster Heroes | 369299 | [369299-color-by-number-monster-heroes.json](./369299-color-by-number-monster-heroes.json) |
 | Color by Number: New Coloring Book | 105504 | [105504-color-by-number-new-coloring-book.json](./105504-color-by-number-new-coloring-book.json) |
 | Color by Number: Pokémon Pixel Art | 95746 | [95746-color-by-number-pokemon-pixel-art.json](./95746-color-by-number-pokemon-pixel-art.json) |
 | Color by Numbers - Animals | 111173 | [111173-color-by-numbers-animals.json](./111173-color-by-numbers-animals.json) |
@@ -16840,6 +16843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Changer | 66896 | [66896-cross-changer.json](./66896-cross-changer.json) |
 | Cross Channel | 78650 | [78650-cross-channel.json](./78650-cross-channel.json) |
 | Cross Chase | 293229 | [293229-cross-chase.json](./293229-cross-chase.json) |
+| Cross Concerto | 368707 | [368707-cross-concerto.json](./368707-cross-concerto.json) |
 | Cross Country Express - An Oddfellows Mini | 121335 | [121335-cross-country-express-an-oddfellows-mini.json](./121335-cross-country-express-an-oddfellows-mini.json) |
 | Cross Country Skiing VR | 99035 | [99035-cross-country-skiing-vr.json](./99035-cross-country-skiing-vr.json) |
 | Cross Court Tennis 2 | 332906 | [332906-cross-court-tennis-2.json](./332906-cross-court-tennis-2.json) |
