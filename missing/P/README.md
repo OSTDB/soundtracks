@@ -8284,6 +8284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelSlime | 223613 | [223613-pixelslime.json](./223613-pixelslime.json) |
 | Pixelstar Hero | 158885 | [158885-pixelstar-hero.json](./158885-pixelstar-hero.json) |
 | PixelTerra | 257247 | [257247-pixelterra.json](./257247-pixelterra.json) |
+| PixelTorque | 365357 | [365357-pixeltorque.json](./365357-pixeltorque.json) |
 | PixelTown | 183283 | [183283-pixeltown.json](./183283-pixeltown.json) |
 | PixelTown | 194144 | [194144-pixeltown.json](./194144-pixeltown.json) |
 | Pixeltroid | 321673 | [321673-pixeltroid.json](./321673-pixeltroid.json) |
@@ -12798,6 +12799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Instinct 2 | 38642 | [38642-power-instinct-2.json](./38642-power-instinct-2.json) |
 | Power Instinct Legends | 39548 | [39548-power-instinct-legends.json](./39548-power-instinct-legends.json) |
 | Power Instinct Matrimelee | 39543 | [39543-power-instinct-matrimelee.json](./39543-power-instinct-matrimelee.json) |
+| Power is Everything | 365390 | [365390-power-is-everything.json](./365390-power-is-everything.json) |
 | Power League '93 | 37662 | [37662-power-league-93.json](./37662-power-league-93.json) |
 | Power League II | 38089 | [38089-power-league-ii.json](./38089-power-league-ii.json) |
 | Power League IV | 43191 | [43191-power-league-iv.json](./43191-power-league-iv.json) |
