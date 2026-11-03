@@ -814,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fake Signals | 236273 | [236273-fake-signals.json](./236273-fake-signals.json) |
 | Fake World | 55270 | [55270-fake-world.json](./55270-fake-world.json) |
 | Fake/SuperSonia | 59233 | [59233-fake-supersonia.json](./59233-fake-supersonia.json) |
+| Fakebook | 359701 | [359701-fakebook.json](./359701-fakebook.json) |
 | Fakemon FireRed | 324145 | [324145-fakemon-firered.json](./324145-fakemon-firered.json) |
 | Faker Crime: Elysion | 82709 | [82709-faker-crime-elysion.json](./82709-faker-crime-elysion.json) |
 | Fakespearean: Overdramatic | 118254 | [118254-fakespearean-overdramatic.json](./118254-fakespearean-overdramatic.json) |
@@ -4434,6 +4435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighters Wizards | 131595 | [131595-fighters-wizards.json](./131595-fighters-wizards.json) |
 | Fighters' Glory | 129700 | [129700-fighters-glory.json](./129700-fighters-glory.json) |
 | Fighters' Impact | 44826 | [44826-fighters-impact.json](./44826-fighters-impact.json) |
+| Fighters' Impact A | 359711 | [359711-fighters-impact-a.json](./359711-fighters-impact-a.json) |
 | Fightfinity | 388361 | [388361-fightfinity.json](./388361-fightfinity.json) |
 | FightGirl | 310025 | [310025-fightgirl.json](./310025-fightgirl.json) |
 | Fighties | 35466 | [35466-fighties.json](./35466-fighties.json) |
