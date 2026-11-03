@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamlet | 176717 | [176717-hamlet.json](./176717-hamlet.json) |
 | Hamlet in a Pond | 306081 | [306081-hamlet-in-a-pond.json](./306081-hamlet-in-a-pond.json) |
 | Hamlet or the Last Game without MMORPG Features, Shaders and Product Placement | 28221 | [28221-hamlet-or-the-last-game-without-mmorpg-features-shaders-and-product-placement.json](./28221-hamlet-or-the-last-game-without-mmorpg-features-shaders-and-product-placement.json) |
+| Hamlet, Act VI, Scene I | 359866 | [359866-hamlet-act-vi-scene-i.json](./359866-hamlet-act-vi-scene-i.json) |
 | Hamlet: The Text Adventure | 146192 | [146192-hamlet-the-text-adventure.json](./146192-hamlet-the-text-adventure.json) |
 | Hammal | 287521 | [287521-hammal.json](./287521-hammal.json) |
 | Hammena Dreams | 109267 | [109267-hammena-dreams.json](./109267-hammena-dreams.json) |
@@ -9694,6 +9695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrors of the North | 195537 | [195537-horrors-of-the-north.json](./195537-horrors-of-the-north.json) |
 | Horrortale | 332880 | [332880-horrortale.json](./332880-horrortale.json) |
 | Horrortale: Waterfall | 332881 | [332881-horrortale-waterfall.json](./332881-horrortale-waterfall.json) |
+| HorrorToleranceTest | 359710 | [359710-horrortolerancetest.json](./359710-horrortolerancetest.json) |
 | HorrorVale | 120814 | [120814-horrorvale.json](./120814-horrorvale.json) |
 | Horroyale | 158414 | [158414-horroyale.json](./158414-horroyale.json) |
 | Horse | 114273 | [114273-horse.json](./114273-horse.json) |
@@ -11745,6 +11747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hykee: Episode 1 - Underwater | 93787 | [93787-hykee-episode-1-underwater.json](./93787-hykee-episode-1-underwater.json) |
 | Hylics | 11599 | [11599-hylics.json](./11599-hylics.json) |
 | Hymeno Striker: Akashicverse Minigame | 171597 | [171597-hymeno-striker-akashicverse-minigame.json](./171597-hymeno-striker-akashicverse-minigame.json) |
+| Hymer 2000 | 359686 | [359686-hymer-2000.json](./359686-hymer-2000.json) |
 | Hymn | 183937 | [183937-hymn.json](./183937-hymn.json) |
 | Hymn to the Earless God | 263959 | [263959-hymn-to-the-earless-god.json](./263959-hymn-to-the-earless-god.json) |
 | Hymn: A Heretic Community Project | 262180 | [262180-hymn-a-heretic-community-project.json](./262180-hymn-a-heretic-community-project.json) |
@@ -12125,6 +12128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperthymesia | 382116 | [382116-hyperthymesia.json](./382116-hyperthymesia.json) |
 | Hypertrain | 96430 | [96430-hypertrain.json](./96430-hypertrain.json) |
 | Hypertron | 210058 | [210058-hypertron.json](./210058-hypertron.json) |
+| HyperTyper 2000 | 359685 | [359685-hypertyper-2000.json](./359685-hypertyper-2000.json) |
 | Hyperun | 49512 | [49512-hyperun.json](./49512-hyperun.json) |
 | Hyperventila: The Game | 125059 | [125059-hyperventila-the-game.json](./125059-hyperventila-the-game.json) |
 | Hyperwave | 207843 | [207843-hyperwave.json](./207843-hyperwave.json) |
