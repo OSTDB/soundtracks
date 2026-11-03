@@ -7338,6 +7338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringognir 3 | 68336 | [68336-ringognir-3.json](./68336-ringognir-3.json) |
 | RingoWord | 241335 | [241335-ringoword.json](./241335-ringoword.json) |
 | RingRacer | 193252 | [193252-ringracer.json](./193252-ringracer.json) |
+| RingRiker | 369822 | [369822-ringriker.json](./369822-ringriker.json) |
 | Rings | 179069 | [179069-rings.json](./179069-rings.json) |
 | Rings | 392608 | [392608-rings.json](./392608-rings.json) |
 | Rings of Harmony | 285928 | [285928-rings-of-harmony.json](./285928-rings-of-harmony.json) |
@@ -8955,6 +8956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock, the Tree Hugger | 34732 | [34732-rock-the-tree-hugger.json](./34732-rock-the-tree-hugger.json) |
 | Rock: Paper - Death | 392934 | [392934-rock-paper-death.json](./392934-rock-paper-death.json) |
 | Rock'n Bark | 171853 | [171853-rockn-bark.json](./171853-rockn-bark.json) |
+| Rock'n Tread | 369814 | [369814-rockn-tread.json](./369814-rockn-tread.json) |
 | Rock'n Wrestle | 39146 | [39146-rockn-wrestle.json](./39146-rockn-wrestle.json) |
 | Rock'n' Ball | 48206 | [48206-rockn-ball.json](./48206-rockn-ball.json) |
 | Rock'n'Roll | 67849 | [67849-rocknroll.json](./67849-rocknroll.json) |
@@ -10430,6 +10432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Cleaning 2 | 272939 | [272939-room-cleaning-2.json](./272939-room-cleaning-2.json) |
 | Room Cleaning Simulator 2014 | 178937 | [178937-room-cleaning-simulator-2014.json](./178937-room-cleaning-simulator-2014.json) |
 | Room Containing Candle x4 | 142502 | [142502-room-containing-candle-x4.json](./142502-room-containing-candle-x4.json) |
+| Room Dot Exe | 369804 | [369804-room-dot-exe.json](./369804-room-dot-exe.json) |
 | Room Escape '1053' | 127376 | [127376-room-escape-1053.json](./127376-room-escape-1053.json) |
 | Room Escape in Voxels | 200440 | [200440-room-escape-in-voxels.json](./200440-room-escape-in-voxels.json) |
 | Room Escape: Prisoners Hero | 222068 | [222068-room-escape-prisoners-hero.json](./222068-room-escape-prisoners-hero.json) |
