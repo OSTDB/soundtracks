@@ -9752,6 +9752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb Jump | 175746 | [175746-climb-jump.json](./175746-climb-jump.json) |
 | Climb Jump Obby Tower | 366208 | [366208-climb-jump-obby-tower.json](./366208-climb-jump-obby-tower.json) |
 | Climb New York Parkour VR | 244640 | [244640-climb-new-york-parkour-vr.json](./244640-climb-new-york-parkour-vr.json) |
+| Climb of Death | 383322 | [383322-climb-of-death.json](./383322-climb-of-death.json) |
 | Climb out of Hell | 343322 | [343322-climb-out-of-hell.json](./343322-climb-out-of-hell.json) |
 | Climb Out! | 128236 | [128236-climb-out.json](./128236-climb-out.json) |
 | Climb Quest | 315113 | [315113-climb-quest.json](./315113-climb-quest.json) |
