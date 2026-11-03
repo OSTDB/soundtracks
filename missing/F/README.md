@@ -1139,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Saint Yhoundeh | 295405 | [295405-fallen-saint-yhoundeh.json](./295405-fallen-saint-yhoundeh.json) |
 | Fallen Sanctum | 26886 | [26886-fallen-sanctum.json](./26886-fallen-sanctum.json) |
 | Fallen Seeds | 270112 | [270112-fallen-seeds.json](./270112-fallen-seeds.json) |
+| Fallen Seeds II | 372171 | [372171-fallen-seeds-ii.json](./372171-fallen-seeds-ii.json) |
 | Fallen Shadows | 60779 | [60779-fallen-shadows.json](./60779-fallen-shadows.json) |
 | Fallen Sky Online | 110655 | [110655-fallen-sky-online.json](./110655-fallen-sky-online.json) |
 | Fallen Spirit | 188518 | [188518-fallen-spirit.json](./188518-fallen-spirit.json) |
@@ -5238,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Demon | 367161 | [367161-find-the-demon.json](./367161-find-the-demon.json) |
 | Find the Difference | 214296 | [214296-find-the-difference.json](./214296-find-the-difference.json) |
 | Find the difference - Very difficult Images | 104725 | [104725-find-the-difference-very-difficult-images.json](./104725-find-the-difference-very-difficult-images.json) |
+| Find the Difference: Spot it | 372160 | [372160-find-the-difference-spot-it.json](./372160-find-the-difference-spot-it.json) |
 | Find the Differences 3D | 348809 | [348809-find-the-differences-3d.json](./348809-find-the-differences-3d.json) |
 | Find the Differences Detective | 232174 | [232174-find-the-differences-detective.json](./232174-find-the-differences-detective.json) |
 | Find the exit | 180557 | [180557-find-the-exit.json](./180557-find-the-exit.json) |
@@ -6776,6 +6778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights With Your Mother | 376200 | [376200-five-nights-with-your-mother.json](./376200-five-nights-with-your-mother.json) |
 | Five Owls | 343867 | [343867-five-owls.json](./343867-five-owls.json) |
 | Five Rooms | 102361 | [102361-five-rooms.json](./102361-five-rooms.json) |
+| Five S'hIft Masters | 371819 | [371819-five-shift-masters.json](./371819-five-shift-masters.json) |
 | Five Seconds of Bad Music | 109619 | [109619-five-seconds-of-bad-music.json](./109619-five-seconds-of-bad-music.json) |
 | Five Shifts at Zlata's | 385280 | [385280-five-shifts-at-zlatas.json](./385280-five-shifts-at-zlatas.json) |
 | Five Shows at Wario's | 145343 | [145343-five-shows-at-warios.json](./145343-five-shows-at-warios.json) |
@@ -9606,6 +9609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula 1: Championship Edition | 8295 | [8295-formula-1-championship-edition.json](./8295-formula-1-championship-edition.json) |
 | Formula 11 Mini Racing | 411563 | [411563-formula-11-mini-racing.json](./411563-formula-11-mini-racing.json) |
 | Formula 2.5 | 377030 | [377030-formula-2-5.json](./377030-formula-2-5.json) |
+| Formula 2025: Grand Prix Heroes | 371815 | [371815-formula-2025-grand-prix-heroes.json](./371815-formula-2025-grand-prix-heroes.json) |
 | Formula 2025: Grand Prix Legends | 345711 | [345711-formula-2025-grand-prix-legends.json](./345711-formula-2025-grand-prix-legends.json) |
 | Formula 2026: Rise of Legends | 401728 | [401728-formula-2026-rise-of-legends.json](./401728-formula-2026-rise-of-legends.json) |
 | Formula 2D: Steer To Persevere | 212833 | [212833-formula-2d-steer-to-persevere.json](./212833-formula-2d-steer-to-persevere.json) |
@@ -9805,6 +9809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Die With A Smile | 366806 | [366806-fortnite-festival-die-with-a-smile.json](./366806-fortnite-festival-die-with-a-smile.json) |
 | Fortnite Festival: Dog Days Are Over | 370641 | [370641-fortnite-festival-dog-days-are-over.json](./370641-fortnite-festival-dog-days-are-over.json) |
 | Fortnite Festival: Drop It like it's hot | 367588 | [367588-fortnite-festival-drop-it-like-its-hot.json](./367588-fortnite-festival-drop-it-like-its-hot.json) |
+| Fortnite Festival: Ella Baila Sola | 372153 | [372153-fortnite-festival-ella-baila-sola.json](./372153-fortnite-festival-ella-baila-sola.json) |
 | Fortnite Festival: Empty Out Your Pockets | 366809 | [366809-fortnite-festival-empty-out-your-pockets.json](./366809-fortnite-festival-empty-out-your-pockets.json) |
 | Fortnite Festival: Everybody (Backstreet's Back) | 365609 | [365609-fortnite-festival-everybody-backstreets-back.json](./365609-fortnite-festival-everybody-backstreets-back.json) |
 | Fortnite Festival: Fade to Black | 367589 | [367589-fortnite-festival-fade-to-black.json](./367589-fortnite-festival-fade-to-black.json) |
@@ -9817,6 +9822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Get Lucky | 370567 | [370567-fortnite-festival-get-lucky.json](./370567-fortnite-festival-get-lucky.json) |
 | Fortnite Festival: Gimme Chocolate!! | 370634 | [370634-fortnite-festival-gimme-chocolate.json](./370634-fortnite-festival-gimme-chocolate.json) |
 | Fortnite Festival: Givenchy | 367580 | [367580-fortnite-festival-givenchy.json](./367580-fortnite-festival-givenchy.json) |
+| Fortnite Festival: Heartbreaker | 372150 | [372150-fortnite-festival-heartbreaker.json](./372150-fortnite-festival-heartbreaker.json) |
 | Fortnite Festival: High Hopes | 366808 | [366808-fortnite-festival-high-hopes.json](./366808-fortnite-festival-high-hopes.json) |
 | Fortnite Festival: I Wish | 369067 | [369067-fortnite-festival-i-wish.json](./369067-fortnite-festival-i-wish.json) |
 | Fortnite Festival: Instant Crush | 370570 | [370570-fortnite-festival-instant-crush.json](./370570-fortnite-festival-instant-crush.json) |
@@ -9835,11 +9841,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Old Town Road (Remix) | 370573 | [370573-fortnite-festival-old-town-road-remix.json](./370573-fortnite-festival-old-town-road-remix.json) |
 | Fortnite Festival: One | 367587 | [367587-fortnite-festival-one.json](./367587-fortnite-festival-one.json) |
 | Fortnite Festival: Paint The Town Red | 372795 | [372795-fortnite-festival-paint-the-town-red.json](./372795-fortnite-festival-paint-the-town-red.json) |
+| Fortnite Festival: Poison | 372151 | [372151-fortnite-festival-poison.json](./372151-fortnite-festival-poison.json) |
 | Fortnite Festival: Positions | 366201 | [366201-fortnite-festival-positions.json](./366201-fortnite-festival-positions.json) |
 | Fortnite Festival: PPAP (Pen Pineapple Apple Pen) [Long Version] | 372802 | [372802-fortnite-festival-ppap-pen-pineapple-apple-pen-long-version.json](./372802-fortnite-festival-ppap-pen-pineapple-apple-pen-long-version.json) |
 | Fortnite Festival: Proibida Pra Mim (Grazon) | 369071 | [369071-fortnite-festival-proibida-pra-mim-grazon.json](./369071-fortnite-festival-proibida-pra-mim-grazon.json) |
 | Fortnite Festival: Radioactive | 372009 | [372009-fortnite-festival-radioactive.json](./372009-fortnite-festival-radioactive.json) |
 | Fortnite Festival: Ride the Lightning | 370637 | [370637-fortnite-festival-ride-the-lightning.json](./370637-fortnite-festival-ride-the-lightning.json) |
+| Fortnite Festival: Ride Wit Me | 372152 | [372152-fortnite-festival-ride-wit-me.json](./372152-fortnite-festival-ride-wit-me.json) |
 | Fortnite Festival: Right Round | 366429 | [366429-fortnite-festival-right-round.json](./366429-fortnite-festival-right-round.json) |
 | Fortnite Festival: Sandstorm | 372126 | [372126-fortnite-festival-sandstorm.json](./372126-fortnite-festival-sandstorm.json) |
 | Fortnite Festival: Season 1 | 383943 | [383943-fortnite-festival-season-1.json](./383943-fortnite-festival-season-1.json) |
