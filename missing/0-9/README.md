@@ -361,6 +361,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Frame Bowling | 64247 | [64247-10-frame-bowling.json](./64247-10-frame-bowling.json) |
 | 10 Games | 319563 | [319563-10-games.json](./319563-10-games.json) |
 | 10 Gnomes 1: The Rooftops | 306567 | [306567-10-gnomes-1-the-rooftops.json](./306567-10-gnomes-1-the-rooftops.json) |
+| 10 Gnomes 10: Seashore | 383538 | [383538-10-gnomes-10-seashore.json](./383538-10-gnomes-10-seashore.json) |
+| 10 Gnomes 11: the Remains | 383542 | [383542-10-gnomes-11-the-remains.json](./383542-10-gnomes-11-the-remains.json) |
+| 10 Gnomes 12: the Tank | 383544 | [383544-10-gnomes-12-the-tank.json](./383544-10-gnomes-12-the-tank.json) |
 | 10 Gnomes 2: Walk In the Park | 306570 | [306570-10-gnomes-2-walk-in-the-park.json](./306570-10-gnomes-2-walk-in-the-park.json) |
 | 10 Gnomes 3: Spring Garden March | 383480 | [383480-10-gnomes-3-spring-garden-march.json](./383480-10-gnomes-3-spring-garden-march.json) |
 | 10 Gnomes 4: Foggy Flat | 383484 | [383484-10-gnomes-4-foggy-flat.json](./383484-10-gnomes-4-foggy-flat.json) |
@@ -3137,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 800 Fathoms | 39338 | [39338-800-fathoms.json](./39338-800-fathoms.json) |
 | 808 | 357760 | [357760-808.json](./357760-808.json) |
 | 8088 Othello | 94424 | [94424-8088-othello.json](./94424-8088-othello.json) |
+| 8088 Tetris Attack | 383341 | [383341-8088-tetris-attack.json](./383341-8088-tetris-attack.json) |
 | 8089: The Next Action RPG | 181023 | [181023-8089-the-next-action-rpg.json](./181023-8089-the-next-action-rpg.json) |
 | 808s&Genetics | 264544 | [264544-808s-and-genetics.json](./264544-808s-and-genetics.json) |
 | 80s Mania Wrestling | 232083 | [232083-80s-mania-wrestling.json](./232083-80s-mania-wrestling.json) |
