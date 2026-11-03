@@ -4009,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealer Assist | 103954 | [103954-sealer-assist.json](./103954-sealer-assist.json) |
 | Sealer of Dungeons | 211707 | [211707-sealer-of-dungeons.json](./211707-sealer-of-dungeons.json) |
 | Sealife Safari | 180991 | [180991-sealife-safari.json](./180991-sealife-safari.json) |
+| Sealing Tower | 358580 | [358580-sealing-tower.json](./358580-sealing-tower.json) |
 | Seals From the Frosty Bay | 402302 | [402302-seals-from-the-frosty-bay.json](./402302-seals-from-the-frosty-bay.json) |
 | Seals of the Bygone | 120572 | [120572-seals-of-the-bygone.json](./120572-seals-of-the-bygone.json) |
 | Seaman | 9130 | [9130-seaman.json](./9130-seaman.json) |
@@ -7379,6 +7380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Wants Me Dead: Ultimate Edition | 237768 | [237768-she-wants-me-dead-ultimate-edition.json](./237768-she-wants-me-dead-ultimate-edition.json) |
 | She Wants to Suck My Blood? | 254324 | [254324-she-wants-to-suck-my-blood.json](./254324-she-wants-to-suck-my-blood.json) |
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
+| She Was Swallowed By The Sun | 358590 | [358590-she-was-swallowed-by-the-sun.json](./358590-she-was-swallowed-by-the-sun.json) |
 | She Who Fights Monsters | 60343 | [60343-she-who-fights-monsters.json](./60343-she-who-fights-monsters.json) |
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
@@ -7601,6 +7603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shepherd's Crossing 2 | 47797 | [47797-shepherds-crossing-2.json](./47797-shepherds-crossing-2.json) |
 | Shepherd's Eye | 288230 | [288230-shepherds-eye.json](./288230-shepherds-eye.json) |
 | Shepherd’s Plan | 314068 | [314068-shepherd-s-plan.json](./314068-shepherd-s-plan.json) |
+| Shepherdmancer | 358605 | [358605-shepherdmancer.json](./358605-shepherdmancer.json) |
 | Shepherds | 320589 | [320589-shepherds.json](./320589-shepherds.json) |
 | Shepherds of the Abyss | 33623 | [33623-shepherds-of-the-abyss.json](./33623-shepherds-of-the-abyss.json) |
 | Shephy | 41893 | [41893-shephy.json](./41893-shephy.json) |
@@ -9282,6 +9285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffle to Fortune | 140991 | [140991-shuffle-to-fortune.json](./140991-shuffle-to-fortune.json) |
 | Shuffle World | 123980 | [123980-shuffle-world.json](./123980-shuffle-world.json) |
 | Shuffle! | 31127 | [31127-shuffle.json](./31127-shuffle.json) |
+| Shuffle! Episode 2: Kami ni mo Akuma ni mo Nerawareteiru Otoko | 358592 | [358592-shuffle-episode-2-kami-ni-mo-akuma-ni-mo-nerawareteiru-otoko.json](./358592-shuffle-episode-2-kami-ni-mo-akuma-ni-mo-nerawareteiru-otoko.json) |
 | Shuffle! Episode 2: Kami ni mo Akuma ni mo Nerawareteiru Otoko | 380427 | [380427-shuffle-episode-2-kami-ni-mo-akuma-ni-mo-nerawareteiru-otoko.json](./380427-shuffle-episode-2-kami-ni-mo-akuma-ni-mo-nerawareteiru-otoko.json) |
 | Shuffle! Love Rainbow | 371580 | [371580-shuffle-love-rainbow.json](./371580-shuffle-love-rainbow.json) |
 | Shuffleboard | 170526 | [170526-shuffleboard.json](./170526-shuffleboard.json) |
@@ -9639,6 +9643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidelined Futures | 308540 | [308540-sidelined-futures.json](./308540-sidelined-futures.json) |
 | SideQuest | 398501 | [398501-sidequest.json](./398501-sidequest.json) |
 | SideQuest Hunters | 360017 | [360017-sidequest-hunters.json](./360017-sidequest-hunters.json) |
+| Sidequest Survivors | 358576 | [358576-sidequest-survivors.json](./358576-sidequest-survivors.json) |
 | SideQuest: Reanimated | 260641 | [260641-sidequest-reanimated.json](./260641-sidequest-reanimated.json) |
 | Sideral | 119471 | [119471-sideral.json](./119471-sideral.json) |
 | Sidereal | 278930 | [278930-sidereal.json](./278930-sidereal.json) |
@@ -19352,6 +19357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space X: Galaxy War of Air Force | 99369 | [99369-space-x-galaxy-war-of-air-force.json](./99369-space-x-galaxy-war-of-air-force.json) |
 | Space X: Sky War of Air Force | 98929 | [98929-space-x-sky-war-of-air-force.json](./98929-space-x-sky-war-of-air-force.json) |
 | Space Yandere | 174062 | [174062-space-yandere.json](./174062-space-yandere.json) |
+| Space Yugoslav 2D | 358618 | [358618-space-yugoslav-2d.json](./358618-space-yugoslav-2d.json) |
 | Space Zap | 23244 | [23244-space-zap.json](./23244-space-zap.json) |
 | Space Zero | 37185 | [37185-space-zero.json](./37185-space-zero.json) |
 | Space Zombies Invasion | 88243 | [88243-space-zombies-invasion.json](./88243-space-zombies-invasion.json) |
@@ -20212,6 +20218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell 9 | 57552 | [57552-spell-9.json](./57552-spell-9.json) |
 | Spell Alchemist | 402132 | [402132-spell-alchemist.json](./402132-spell-alchemist.json) |
 | Spell Bandit | 114747 | [114747-spell-bandit.json](./114747-spell-bandit.json) |
+| Spell Beat | 358598 | [358598-spell-beat.json](./358598-spell-beat.json) |
 | Spell Blitz | 241558 | [241558-spell-blitz.json](./241558-spell-blitz.json) |
 | Spell Blocks | 182968 | [182968-spell-blocks.json](./182968-spell-blocks.json) |
 | Spell Boy | 329093 | [329093-spell-boy.json](./329093-spell-boy.json) |
@@ -23938,6 +23945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starforge | 2649 | [2649-starforge.json](./2649-starforge.json) |
 | Starforge | 295305 | [295305-starforge.json](./295305-starforge.json) |
 | Starforge Reborn | 412072 | [412072-starforge-reborn.json](./412072-starforge-reborn.json) |
+| Starforged Legacy | 358574 | [358574-starforged-legacy.json](./358574-starforged-legacy.json) |
 | Starfox | 54519 | [54519-starfox.json](./54519-starfox.json) |
 | Starfox 64: Recompiled | 387287 | [387287-starfox-64-recompiled.json](./387287-starfox-64-recompiled.json) |
 | StarFox: Game&Watch | 376430 | [376430-starfox-game-and-watch.json](./376430-starfox-game-and-watch.json) |
@@ -26084,6 +26092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm over Thyrion | 386849 | [386849-storm-over-thyrion.json](./386849-storm-over-thyrion.json) |
 | Storm Racer G | 125823 | [125823-storm-racer-g.json](./125823-storm-racer-g.json) |
 | Storm Rider | 125842 | [125842-storm-rider.json](./125842-storm-rider.json) |
+| Storm Seas | 358577 | [358577-storm-seas.json](./358577-storm-seas.json) |
 | Storm Settlers | 353912 | [353912-storm-settlers.json](./353912-storm-settlers.json) |
 | Storm Sharks | 53675 | [53675-storm-sharks.json](./53675-storm-sharks.json) |
 | Storm Shelter | 318827 | [318827-storm-shelter.json](./318827-storm-shelter.json) |
@@ -27471,6 +27480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuffed | 140522 | [140522-stuffed.json](./140522-stuffed.json) |
 | Stuffed | 396544 | [396544-stuffed.json](./396544-stuffed.json) |
 | Stuffo the Puzzle Bot | 236848 | [236848-stuffo-the-puzzle-bot.json](./236848-stuffo-the-puzzle-bot.json) |
+| Stufft TD | 358604 | [358604-stufft-td.json](./358604-stufft-td.json) |
 | Stug | 180219 | [180219-stug.json](./180219-stug.json) |
 | Stumble And Fall | 310388 | [310388-stumble-and-fall.json](./310388-stumble-and-fall.json) |
 | Stumble Guys: Burger Banger | 331462 | [331462-stumble-guys-burger-banger.json](./331462-stumble-guys-burger-banger.json) |
@@ -29724,6 +29734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Galaxy Squadron EX | 17991 | [17991-super-galaxy-squadron-ex.json](./17991-super-galaxy-squadron-ex.json) |
 | Super Galaxy Squadron EX Turbo | 27738 | [27738-super-galaxy-squadron-ex-turbo.json](./27738-super-galaxy-squadron-ex-turbo.json) |
 | Super Galdelic Hour | 43439 | [43439-super-galdelic-hour.json](./43439-super-galdelic-hour.json) |
+| Super Gals! Kotobuki Ran Special: Ikemen Get You Gals Party | 358619 | [358619-super-gals-kotobuki-ran-special-ikemen-get-you-gals-party.json](./358619-super-gals-kotobuki-ran-special-ikemen-get-you-gals-party.json) |
 | Super Game Collection | 56223 | [56223-super-game-collection.json](./56223-super-game-collection.json) |
 | Super Game System Basic | 76193 | [76193-super-game-system-basic.json](./76193-super-game-system-basic.json) |
 | Super gamebear with its three girlfriends | 112997 | [112997-super-gamebear-with-its-three-girlfriends.json](./112997-super-gamebear-with-its-three-girlfriends.json) |
