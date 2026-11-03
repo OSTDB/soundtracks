@@ -2842,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazels | 257521 | [257521-hazels.json](./257521-hazels.json) |
 | Hazelwood Station | 295001 | [295001-hazelwood-station.json](./295001-hazelwood-station.json) |
 | Hazen: The Dark Whispers | 16153 | [16153-hazen-the-dark-whispers.json](./16153-hazen-the-dark-whispers.json) |
+| Hazen's Children | 379833 | [379833-hazens-children.json](./379833-hazens-children.json) |
 | Hazeron Starship | 277286 | [277286-hazeron-starship.json](./277286-hazeron-starship.json) |
 | Hazing: Night Shift | 305147 | [305147-hazing-night-shift.json](./305147-hazing-night-shift.json) |
 | Hazmat Hijinks | 101327 | [101327-hazmat-hijinks.json](./101327-hazmat-hijinks.json) |
@@ -6014,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Mechs | 103555 | [103555-hex-mechs.json](./103555-hex-mechs.json) |
 | Hex of Steel | 147277 | [147277-hex-of-steel.json](./147277-hex-of-steel.json) |
 | Hex of the Lich | 164889 | [164889-hex-of-the-lich.json](./164889-hex-of-the-lich.json) |
+| Hex Park | 380134 | [380134-hex-park.json](./380134-hex-park.json) |
 | Hex Park: Master DLC | 411828 | [411828-hex-park-master-dlc.json](./411828-hex-park-master-dlc.json) |
 | Hex Phase | 30609 | [30609-hex-phase.json](./30609-hex-phase.json) |
 | Hex Picross | 213362 | [213362-hex-picross.json](./213362-hex-picross.json) |
@@ -6234,6 +6236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexlords: Quantum Warfare | 259998 | [259998-hexlords-quantum-warfare.json](./259998-hexlords-quantum-warfare.json) |
 | Hexmas Community Project | 268880 | [268880-hexmas-community-project.json](./268880-hexmas-community-project.json) |
 | Hexmet World | 217222 | [217222-hexmet-world.json](./217222-hexmet-world.json) |
+| Hexmin | 380135 | [380135-hexmin.json](./380135-hexmin.json) |
 | Hexmon War | 56287 | [56287-hexmon-war.json](./56287-hexmon-war.json) |
 | HeXO | 404794 | [404794-hexo.json](./404794-hexo.json) |
 | Hexoboy | 423409 | [423409-hexoboy.json](./423409-hexoboy.json) |
