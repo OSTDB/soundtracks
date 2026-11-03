@@ -1831,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Skies: The Nemansk Incident | 126971 | [126971-dark-skies-the-nemansk-incident.json](./126971-dark-skies-the-nemansk-incident.json) |
 | Dark Sky | 290393 | [290393-dark-sky.json](./290393-dark-sky.json) |
 | Dark Slayer | 297015 | [297015-dark-slayer.json](./297015-dark-slayer.json) |
+| Dark Slayer | 365942 | [365942-dark-slayer.json](./365942-dark-slayer.json) |
 | Dark Slime | 202506 | [202506-dark-slime.json](./202506-dark-slime.json) |
 | Dark Soil | 101441 | [101441-dark-soil.json](./101441-dark-soil.json) |
 | Dark Solid | 141736 | [141736-dark-solid.json](./141736-dark-solid.json) |
@@ -1851,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls III: The Convergence | 188607 | [188607-dark-souls-iii-the-convergence.json](./188607-dark-souls-iii-the-convergence.json) |
 | Dark Souls III: The Fire Fades Edition | 28210 | [28210-dark-souls-iii-the-fire-fades-edition.json](./28210-dark-souls-iii-the-fire-fades-edition.json) |
 | Dark Souls III: The Ringed City | 26916 | [26916-dark-souls-iii-the-ringed-city.json](./26916-dark-souls-iii-the-ringed-city.json) |
+| Dark Souls Remastest | 365939 | [365939-dark-souls-remastest.json](./365939-dark-souls-remastest.json) |
 | Dark Souls Trilogy | 114143 | [114143-dark-souls-trilogy.json](./114143-dark-souls-trilogy.json) |
 | Dark Souls Trilogy Box | 81201 | [81201-dark-souls-trilogy-box.json](./81201-dark-souls-trilogy-box.json) |
 | Dark Souls Trilogy: Collector's Edition | 114144 | [114144-dark-souls-trilogy-collectors-edition.json](./114144-dark-souls-trilogy-collectors-edition.json) |
@@ -4277,6 +4279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death End Re;Quest Code Z | 292873 | [292873-death-end-re-quest-code-z.json](./292873-death-end-re-quest-code-z.json) |
 | Death End Re;Quest: Deluxe Bundle | 114010 | [114010-death-end-re-quest-deluxe-bundle.json](./114010-death-end-re-quest-deluxe-bundle.json) |
 | Death End Re;Quest: Dungeon Re;Quest Pack | 223547 | [223547-death-end-re-quest-dungeon-re-quest-pack.json](./223547-death-end-re-quest-dungeon-re-quest-pack.json) |
+| Death Ephemera | 365951 | [365951-death-ephemera.json](./365951-death-ephemera.json) |
 | Death Escape | 148495 | [148495-death-escape.json](./148495-death-escape.json) |
 | Death Everywhere, So Save Paranoiacally | 397401 | [397401-death-everywhere-so-save-paranoiacally.json](./397401-death-everywhere-so-save-paranoiacally.json) |
 | Death Everywhere, So Save Paranoiacally 2 | 397934 | [397934-death-everywhere-so-save-paranoiacally-2.json](./397934-death-everywhere-so-save-paranoiacally-2.json) |
@@ -5955,6 +5958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delve Deeper: Gratis Grottos | 26640 | [26640-delve-deeper-gratis-grottos.json](./26640-delve-deeper-gratis-grottos.json) |
 | Delve Deeper: Treasures and Tunnels | 171487 | [171487-delve-deeper-treasures-and-tunnels.json](./171487-delve-deeper-treasures-and-tunnels.json) |
 | Delve Diver | 320606 | [320606-delve-diver.json](./320606-delve-diver.json) |
+| Delve Down Under | 365962 | [365962-delve-down-under.json](./365962-delve-down-under.json) |
 | Delve into Pawssion | 308049 | [308049-delve-into-pawssion.json](./308049-delve-into-pawssion.json) |
 | Delve Survivors | 351789 | [351789-delve-survivors.json](./351789-delve-survivors.json) |
 | Delve! Die! Repeat! | 423301 | [423301-delve-die-repeat.json](./423301-delve-die-repeat.json) |
