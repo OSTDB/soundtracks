@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XX Game: The Evolution Merge Puzzle | 411133 | [411133-xx-game-the-evolution-merge-puzzle.json](./411133-xx-game-the-evolution-merge-puzzle.json) |
 | XX Mission | 39423 | [39423-xx-mission.json](./39423-xx-mission.json) |
 | XXL | 400570 | [400570-xxl.json](./400570-xxl.json) |
+| XXL Woofia | 354748 | [354748-xxl-woofia.json](./354748-xxl-woofia.json) |
 | XXOO | 277718 | [277718-xxoo.json](./277718-xxoo.json) |
 | XxU | 389627 | [389627-xxu.json](./389627-xxu.json) |
 | xXx | 85941 | [85941-xxx.json](./85941-xxx.json) |
