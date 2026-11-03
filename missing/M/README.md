@@ -13535,6 +13535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam RX-78 | 218262 | [218262-mobile-suit-gundam-rx-78.json](./218262-mobile-suit-gundam-rx-78.json) |
 | Mobile Suit Gundam SEED | 66591 | [66591-mobile-suit-gundam-seed.json](./66591-mobile-suit-gundam-seed.json) |
 | Mobile Suit Gundam SEED Destiny | 66594 | [66594-mobile-suit-gundam-seed-destiny.json](./66594-mobile-suit-gundam-seed-destiny.json) |
+| Mobile Suit Gundam SEED Destiny: Generation of C.E. | 396312 | [396312-mobile-suit-gundam-seed-destiny-generation-of-c-e.json](./396312-mobile-suit-gundam-seed-destiny-generation-of-c-e.json) |
 | Mobile Suit Gundam SEED: Battle Assault | 49325 | [49325-mobile-suit-gundam-seed-battle-assault.json](./49325-mobile-suit-gundam-seed-battle-assault.json) |
 | Mobile Suit Gundam SEED: Battle Destiny | 75723 | [75723-mobile-suit-gundam-seed-battle-destiny.json](./75723-mobile-suit-gundam-seed-battle-destiny.json) |
 | Mobile Suit Gundam Seed: Battle Destiny Remastered | 331460 | [331460-mobile-suit-gundam-seed-battle-destiny-remastered.json](./331460-mobile-suit-gundam-seed-battle-destiny-remastered.json) |
