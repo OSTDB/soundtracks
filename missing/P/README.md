@@ -2816,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
 | Path of Legends | 368766 | [368766-path-of-legends.json](./368766-path-of-legends.json) |
 | Path of Light | 344839 | [344839-path-of-light.json](./344839-path-of-light.json) |
+| Path of Master | 369792 | [369792-path-of-master.json](./369792-path-of-master.json) |
 | Path of Memory | 156836 | [156836-path-of-memory.json](./156836-path-of-memory.json) |
 | Path of Mystery: A Brush with Death | 353783 | [353783-path-of-mystery-a-brush-with-death.json](./353783-path-of-mystery-a-brush-with-death.json) |
 | Path of Ninja | 295093 | [295093-path-of-ninja.json](./295093-path-of-ninja.json) |
@@ -5694,6 +5695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick Up | 94362 | [94362-pick-up.json](./94362-pick-up.json) |
 | Pick Up Pencils | 96444 | [96444-pick-up-pencils.json](./96444-pick-up-pencils.json) |
 | Pick up the Phone Booth and Die | 72463 | [72463-pick-up-the-phone-booth-and-die.json](./72463-pick-up-the-phone-booth-and-die.json) |
+| Pick Up Your Masks | 369801 | [369801-pick-up-your-masks.json](./369801-pick-up-your-masks.json) |
 | Pick Your Poison | 126789 | [126789-pick-your-poison.json](./126789-pick-your-poison.json) |
 | Pick-A-Gem | 59460 | [59460-pick-a-gem.json](./59460-pick-a-gem.json) |
 | Pick, shoot, repeat! | 129075 | [129075-pick-shoot-repeat.json](./129075-pick-shoot-repeat.json) |
@@ -8459,6 +8461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Shop Manager | 165557 | [165557-pizza-shop-manager.json](./165557-pizza-shop-manager.json) |
 | Pizza Shop Simulator | 348821 | [348821-pizza-shop-simulator.json](./348821-pizza-shop-simulator.json) |
 | Pizza Simulator Together | 326382 | [326382-pizza-simulator-together.json](./326382-pizza-simulator-together.json) |
+| Pizza Slice | 370982 | [370982-pizza-slice.json](./370982-pizza-slice.json) |
 | Pizza Snake! | 202023 | [202023-pizza-snake.json](./202023-pizza-snake.json) |
 | Pizza Spy | 273438 | [273438-pizza-spy.json](./273438-pizza-spy.json) |
 | Pizza Syndicate | 373071 | [373071-pizza-syndicate.json](./373071-pizza-syndicate.json) |
@@ -11495,6 +11498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly-Net Warriors | 222907 | [222907-poly-net-warriors.json](./222907-poly-net-warriors.json) |
 | Polyamorous Relationships | 179048 | [179048-polyamorous-relationships.json](./179048-polyamorous-relationships.json) |
 | Polyaris | 307263 | [307263-polyaris.json](./307263-polyaris.json) |
+| Polyarmory: High Calibre Love | 369799 | [369799-polyarmory-high-calibre-love.json](./369799-polyarmory-high-calibre-love.json) |
 | Polyball | 20348 | [20348-polyball.json](./20348-polyball.json) |
 | Polybius | 178251 | [178251-polybius.json](./178251-polybius.json) |
 | Polybius | 239548 | [239548-polybius.json](./239548-polybius.json) |
@@ -17428,6 +17432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Kombat | 265855 | [265855-puzzle-kombat.json](./265855-puzzle-kombat.json) |
 | Puzzle Lab | 88118 | [88118-puzzle-lab.json](./88118-puzzle-lab.json) |
 | Puzzle League | 179406 | [179406-puzzle-league.json](./179406-puzzle-league.json) |
+| Puzzle League | 370388 | [370388-puzzle-league.json](./370388-puzzle-league.json) |
 | Puzzle Light | 149455 | [149455-puzzle-light.json](./149455-puzzle-light.json) |
 | Puzzle Light: Connect | 168561 | [168561-puzzle-light-connect.json](./168561-puzzle-light-connect.json) |
 | Puzzle Light: One Move | 150257 | [150257-puzzle-light-one-move.json](./150257-puzzle-light-one-move.json) |
