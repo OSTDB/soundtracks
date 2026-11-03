@@ -2211,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vindicators | 355960 | [355960-vindicators.json](./355960-vindicators.json) |
 | Vindicators | 83909 | [83909-vindicators.json](./83909-vindicators.json) |
 | Vindicators Part II | 39998 | [39998-vindicators-part-ii.json](./39998-vindicators-part-ii.json) |
+| Vindices: Beyond the Walls | 393214 | [393214-vindices-beyond-the-walls.json](./393214-vindices-beyond-the-walls.json) |
 | Vindicta | 29386 | [29386-vindicta.json](./29386-vindicta.json) |
 | Vindicta Arcade | 88229 | [88229-vindicta-arcade.json](./88229-vindicta-arcade.json) |
 | Vindictive Drive | 31913 | [31913-vindictive-drive.json](./31913-vindictive-drive.json) |
