@@ -8426,6 +8426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circles of Hell | 96621 | [96621-circles-of-hell.json](./96621-circles-of-hell.json) |
 | Circles with Grandma | 100645 | [100645-circles-with-grandma.json](./100645-circles-with-grandma.json) |
 | Circles3 | 106293 | [106293-circles3.json](./106293-circles3.json) |
+| Circlet | 366455 | [366455-circlet.json](./366455-circlet.json) |
 | Circling | 304338 | [304338-circling.json](./304338-circling.json) |
 | Circloo | 177672 | [177672-circloo.json](./177672-circloo.json) |
 | Circlt | 57750 | [57750-circlt.json](./57750-circlt.json) |
