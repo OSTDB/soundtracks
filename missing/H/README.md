@@ -2695,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Have You Seen This Cat? | 391457 | [391457-have-you-seen-this-cat.json](./391457-have-you-seen-this-cat.json) |
 | Have Your Monster | 314368 | [314368-have-your-monster.json](./314368-have-your-monster.json) |
 | Havelyn | 401019 | [401019-havelyn.json](./401019-havelyn.json) |
+| Haven | 377323 | [377323-haven.json](./377323-haven.json) |
 | Haven | 380666 | [380666-haven.json](./380666-haven.json) |
 | Haven | 403429 | [403429-haven.json](./403429-haven.json) |
 | Haven & Hearth | 213961 | [213961-haven-and-hearth.json](./213961-haven-and-hearth.json) |
@@ -2826,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazardous Journey | 110332 | [110332-hazardous-journey.json](./110332-hazardous-journey.json) |
 | Hazardous: Ovesis | 273778 | [273778-hazardous-ovesis.json](./273778-hazardous-ovesis.json) |
 | Hazatron | 237224 | [237224-hazatron.json](./237224-hazatron.json) |
+| Haze | 377318 | [377318-haze.json](./377318-haze.json) |
 | Haze | 7317 | [7317-haze.json](./7317-haze.json) |
 | Haze Man: The Local Hero | 327952 | [327952-haze-man-the-local-hero.json](./327952-haze-man-the-local-hero.json) |
 | Haze of Lucidity: The Fish | 390087 | [390087-haze-of-lucidity-the-fish.json](./390087-haze-of-lucidity-the-fish.json) |
