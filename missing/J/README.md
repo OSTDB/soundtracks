@@ -2666,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey Through Memories | 110666 | [110666-journey-through-memories.json](./110666-journey-through-memories.json) |
 | Journey Through the Nightmare Realm II | 347683 | [347683-journey-through-the-nightmare-realm-ii.json](./347683-journey-through-the-nightmare-realm-ii.json) |
 | Journey Through the Undead | 348198 | [348198-journey-through-the-undead.json](./348198-journey-through-the-undead.json) |
+| Journey to Ascension | 388688 | [388688-journey-to-ascension.json](./388688-journey-to-ascension.json) |
 | Journey To Bethlehem: Fig Run | 275580 | [275580-journey-to-bethlehem-fig-run.json](./275580-journey-to-bethlehem-fig-run.json) |
 | Journey to Candy Mountain | 364234 | [364234-journey-to-candy-mountain.json](./364234-journey-to-candy-mountain.json) |
 | Journey to Chaos: Pilgrimage to the West | 355218 | [355218-journey-to-chaos-pilgrimage-to-the-west.json](./355218-journey-to-chaos-pilgrimage-to-the-west.json) |
