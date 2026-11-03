@@ -1984,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lead & Blood | 372687 | [372687-lead-and-blood.json](./372687-lead-and-blood.json) |
 | Lead on Mars | 61728 | [61728-lead-on-mars.json](./61728-lead-on-mars.json) |
 | Lead Soldier | 270616 | [270616-lead-soldier.json](./270616-lead-soldier.json) |
+| Lead The Dragon | 356349 | [356349-lead-the-dragon.json](./356349-lead-the-dragon.json) |
 | Lead the Meerkats | 85244 | [85244-lead-the-meerkats.json](./85244-lead-the-meerkats.json) |
 | Lead the Way | 196693 | [196693-lead-the-way.json](./196693-lead-the-way.json) |
 | Lead to Fire | 61154 | [61154-lead-to-fire.json](./61154-lead-to-fire.json) |
@@ -9667,6 +9668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lux Ex: Cyber Initiation | 214190 | [214190-lux-ex-cyber-initiation.json](./214190-lux-ex-cyber-initiation.json) |
 | Lux Ex: Legacy | 133086 | [133086-lux-ex-legacy.json](./133086-lux-ex-legacy.json) |
 | Lux Intacta | 217286 | [217286-lux-intacta.json](./217286-lux-intacta.json) |
+| Lux Leonarii: A Mechanical Puzzle Adventure | 356339 | [356339-lux-leonarii-a-mechanical-puzzle-adventure.json](./356339-lux-leonarii-a-mechanical-puzzle-adventure.json) |
 | Lux Licentia | 383204 | [383204-lux-licentia.json](./383204-lux-licentia.json) |
 | Lux mina | 163036 | [163036-lux-mina.json](./163036-lux-mina.json) |
 | Lux Muris | 390713 | [390713-lux-muris.json](./390713-lux-muris.json) |
