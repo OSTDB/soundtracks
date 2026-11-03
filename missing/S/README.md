@@ -2447,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaleplanet | 201411 | [201411-scaleplanet.json](./201411-scaleplanet.json) |
 | Scaler | 312135 | [312135-scaler.json](./312135-scaler.json) |
 | Scaler | 4095 | [4095-scaler.json](./4095-scaler.json) |
+| Scales | 392585 | [392585-scales.json](./392585-scales.json) |
 | Scales of Justice | 311879 | [311879-scales-of-justice.json](./311879-scales-of-justice.json) |
 | Scales of Silence | 398317 | [398317-scales-of-silence.json](./398317-scales-of-silence.json) |
 | Scales of Stardust | 185076 | [185076-scales-of-stardust.json](./185076-scales-of-stardust.json) |
@@ -3370,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Yard Idle | 406496 | [406496-scrap-yard-idle.json](./406496-scrap-yard-idle.json) |
 | Scrapbook Memories | 302605 | [302605-scrapbook-memories.json](./302605-scrapbook-memories.json) |
 | Scrapbooking Story | 399679 | [399679-scrapbooking-story.json](./399679-scrapbooking-story.json) |
+| Scrapborne | 392605 | [392605-scrapborne.json](./392605-scrapborne.json) |
 | Scrapbox | 371878 | [371878-scrapbox.json](./371878-scrapbox.json) |
 | Scrapchasers | 258578 | [258578-scrapchasers.json](./258578-scrapchasers.json) |
 | ScrapCrew: Running on Fumes | 418623 | [418623-scrapcrew-running-on-fumes.json](./418623-scrapcrew-running-on-fumes.json) |
@@ -12345,6 +12347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash Quest! | 171982 | [171982-slash-quest.json](./171982-slash-quest.json) |
 | Slash Roll | 132081 | [132081-slash-roll.json](./132081-slash-roll.json) |
 | Slash Them All | 239626 | [239626-slash-them-all.json](./239626-slash-them-all.json) |
+| Slash-Out: Fantasy Dueling | 392588 | [392588-slash-out-fantasy-dueling.json](./392588-slash-out-fantasy-dueling.json) |
 | Slash'EM | 85960 | [85960-slashem.json](./85960-slashem.json) |
 | Slash'EM Extended | 351135 | [351135-slashem-extended.json](./351135-slashem-extended.json) |
 | Slash/Dots. | 55653 | [55653-slash-dots.json](./55653-slash-dots.json) |
@@ -26281,6 +26284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Kids SKZOO Tamagotchi | 334864 | [334864-stray-kids-skzoo-tamagotchi.json](./334864-stray-kids-skzoo-tamagotchi.json) |
 | Stray Kitten | 150691 | [150691-stray-kitten.json](./150691-stray-kitten.json) |
 | Stray Memoria | 320796 | [320796-stray-memoria.json](./320796-stray-memoria.json) |
+| Stray Night | 392586 | [392586-stray-night.json](./392586-stray-night.json) |
 | Stray of Lost Cat | 330649 | [330649-stray-of-lost-cat.json](./330649-stray-of-lost-cat.json) |
 | Stray of Lostcat | 385078 | [385078-stray-of-lostcat.json](./385078-stray-of-lostcat.json) |
 | Stray Path | 268948 | [268948-stray-path.json](./268948-stray-path.json) |
@@ -27895,6 +27899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suez Canal Bulldozer | 181865 | [181865-suez-canal-bulldozer.json](./181865-suez-canal-bulldozer.json) |
 | Suez Canal Girl | 368042 | [368042-suez-canal-girl.json](./368042-suez-canal-girl.json) |
 | Suez Canal Simulator | 149409 | [149409-suez-canal-simulator.json](./149409-suez-canal-simulator.json) |
+| Suez Canal Training Simulator | 392599 | [392599-suez-canal-training-simulator.json](./392599-suez-canal-training-simulator.json) |
 | Suffer | 110650 | [110650-suffer.json](./110650-suffer.json) |
 | Suffer | 203187 | [203187-suffer.json](./203187-suffer.json) |
 | Suffer 2 | 211689 | [211689-suffer-2.json](./211689-suffer-2.json) |
@@ -32940,6 +32945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweep Squad | 384179 | [384179-sweep-squad.json](./384179-sweep-squad.json) |
 | Sweep Strike | 376540 | [376540-sweep-strike.json](./376540-sweep-strike.json) |
 | Sweep'n'Sweep | 91329 | [91329-sweepnsweep.json](./91329-sweepnsweep.json) |
+| Sweepcremental | 392590 | [392590-sweepcremental.json](./392590-sweepcremental.json) |
 | Sweeper | 178436 | [178436-sweeper.json](./178436-sweeper.json) |
 | Sweeper Zero | 107870 | [107870-sweeper-zero.json](./107870-sweeper-zero.json) |
 | Sweepers Mine | 252914 | [252914-sweepers-mine.json](./252914-sweepers-mine.json) |
