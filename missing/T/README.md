@@ -3336,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tek-Kids Flash-Ops: Mission - Sky Fortress | 69940 | [69940-tek-kids-flash-ops-mission-sky-fortress.json](./69940-tek-kids-flash-ops-mission-sky-fortress.json) |
 | Teke Teke: Moonlit Dread | 274395 | [274395-teke-teke-moonlit-dread.json](./274395-teke-teke-moonlit-dread.json) |
 | Teke-teke | 149335 | [149335-teke-teke.json](./149335-teke-teke.json) |
+| Teki ha Ningen | 397505 | [397505-teki-ha-ningen.json](./397505-teki-ha-ningen.json) |
 | Teki Paki | 175805 | [175805-teki-paki.json](./175805-teki-paki.json) |
 | Tekichuu Keiba Juku | 37791 | [37791-tekichuu-keiba-juku.json](./37791-tekichuu-keiba-juku.json) |
 | TekiKare: Boyfriend or Foe? | 284610 | [284610-tekikare-boyfriend-or-foe.json](./284610-tekikare-boyfriend-or-foe.json) |
@@ -6435,6 +6436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Botanist | 240970 | [240970-the-botanist.json](./240970-the-botanist.json) |
 | The Botanist | 26425 | [26425-the-botanist.json](./26425-the-botanist.json) |
 | The Bottle of the Heart | 371035 | [371035-the-bottle-of-the-heart.json](./371035-the-bottle-of-the-heart.json) |
+| The Bottom of the Sea | 397524 | [397524-the-bottom-of-the-sea.json](./397524-the-bottom-of-the-sea.json) |
 | The Bottom of the Well | 33370 | [33370-the-bottom-of-the-well.json](./33370-the-bottom-of-the-well.json) |
 | The Bou: Special Edition | 278745 | [278745-the-bou-special-edition.json](./278745-the-bou-special-edition.json) |
 | The Bouncer | 1349 | [1349-the-bouncer.json](./1349-the-bouncer.json) |
@@ -9184,6 +9186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Football Playbook: Tactical Puzzles | 197247 | [197247-the-football-playbook-tactical-puzzles.json](./197247-the-football-playbook-tactical-puzzles.json) |
 | The Football Quiz | 219171 | [219171-the-football-quiz.json](./219171-the-football-quiz.json) |
 | The Football T | 209917 | [209917-the-football-t.json](./209917-the-football-t.json) |
+| The Footlong Felon | 397477 | [397477-the-footlong-felon.json](./397477-the-footlong-felon.json) |
 | The Forage | 102802 | [102802-the-forage.json](./102802-the-forage.json) |
 | The Forbidden Arts | 77814 | [77814-the-forbidden-arts.json](./77814-the-forbidden-arts.json) |
 | The Forbidden Flask | 323429 | [323429-the-forbidden-flask.json](./323429-the-forbidden-flask.json) |
@@ -13102,6 +13105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Minesweeper's Tale | 411056 | [411056-the-minesweepers-tale.json](./411056-the-minesweepers-tale.json) |
 | The Mini Crossword | 311756 | [311756-the-mini-crossword.json](./311756-the-mini-crossword.json) |
 | The Mini-Skirt Police | 72595 | [72595-the-mini-skirt-police.json](./72595-the-mini-skirt-police.json) |
+| The Minimum Project | 397504 | [397504-the-minimum-project.json](./397504-the-minimum-project.json) |
 | The Ministry for Anomaly Observation | 405582 | [405582-the-ministry-for-anomaly-observation.json](./405582-the-ministry-for-anomaly-observation.json) |
 | The Ministry of Silly Walks | 8556 | [8556-the-ministry-of-silly-walks.json](./8556-the-ministry-of-silly-walks.json) |
 | The Minotaur | 34159 | [34159-the-minotaur.json](./34159-the-minotaur.json) |
@@ -17588,6 +17592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Void | 261703 | [261703-the-void.json](./261703-the-void.json) |
 | The Void | 340808 | [340808-the-void.json](./340808-the-void.json) |
 | The Void | 357725 | [357725-the-void.json](./357725-the-void.json) |
+| The Void | 397506 | [397506-the-void.json](./397506-the-void.json) |
 | The Void Below | 333167 | [333167-the-void-below.json](./333167-the-void-below.json) |
 | The Void Between | 282022 | [282022-the-void-between.json](./282022-the-void-between.json) |
 | The Void Calls | 244589 | [244589-the-void-calls.json](./244589-the-void-calls.json) |
@@ -18659,6 +18664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These Doomed Isles | 217269 | [217269-these-doomed-isles.json](./217269-these-doomed-isles.json) |
 | These Doomed Isles: The First God | 244276 | [244276-these-doomed-isles-the-first-god.json](./244276-these-doomed-isles-the-first-god.json) |
 | These Heavenly Bodies | 315193 | [315193-these-heavenly-bodies.json](./315193-these-heavenly-bodies.json) |
+| These Little Pigs | 397529 | [397529-these-little-pigs.json](./397529-these-little-pigs.json) |
 | These Nights Alone | 156071 | [156071-these-nights-alone.json](./156071-these-nights-alone.json) |
 | These nights in Cairo | 74688 | [74688-these-nights-in-cairo.json](./74688-these-nights-in-cairo.json) |
 | These Out of Control Booty Shaking Kittens are Ruining My Castlevania! | 184745 | [184745-these-out-of-control-booty-shaking-kittens-are-ruining-my-castlevania.json](./184745-these-out-of-control-booty-shaking-kittens-are-ruining-my-castlevania.json) |
@@ -31551,6 +31557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two-Timin' Towers | 142113 | [142113-two-timin-towers.json](./142113-two-timin-towers.json) |
 | TwoBrains OneShip | 378588 | [378588-twobrains-oneship.json](./378588-twobrains-oneship.json) |
 | Twofer Goofer | 388748 | [388748-twofer-goofer.json](./388748-twofer-goofer.json) |
+| Twofishtysix | 397481 | [397481-twofishtysix.json](./397481-twofishtysix.json) |
 | Twofold | 202559 | [202559-twofold.json](./202559-twofold.json) |
 | Twofold Inc. | 80559 | [80559-twofold-inc.json](./80559-twofold-inc.json) |
 | Twofold Tower | 403331 | [403331-twofold-tower.json](./403331-twofold-tower.json) |
