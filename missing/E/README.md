@@ -1751,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ejihon Tantei Jimusho | 107588 | [107588-ejihon-tantei-jimusho.json](./107588-ejihon-tantei-jimusho.json) |
 | Ekans | 260588 | [260588-ekans.json](./260588-ekans.json) |
 | Ekholux | 374399 | [374399-ekholux.json](./374399-ekholux.json) |
+| Eki: The Station | 380350 | [380350-eki-the-station.json](./380350-eki-the-station.json) |
 | Ekika Queen's Iand | 206444 | [206444-ekika-queens-iand.json](./206444-ekika-queens-iand.json) |
 | Eklips | 174180 | [174180-eklips.json](./174180-eklips.json) |
 | Eko | 223673 | [223673-eko.json](./223673-eko.json) |
@@ -5629,6 +5630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estellium Legends II | 419378 | [419378-estellium-legends-ii.json](./419378-estellium-legends-ii.json) |
 | Esten | 186291 | [186291-esten.json](./186291-esten.json) |
 | Estencel | 207327 | [207327-estencel.json](./207327-estencel.json) |
+| Estetiikka | 380360 | [380360-estetiikka.json](./380360-estetiikka.json) |
 | Esther - Interactive Bible Stories | 87534 | [87534-esther-interactive-bible-stories.json](./87534-esther-interactive-bible-stories.json) |
 | Esther and the Fallen Star | 340594 | [340594-esther-and-the-fallen-star.json](./340594-esther-and-the-fallen-star.json) |
 | Estigma | 142497 | [142497-estigma.json](./142497-estigma.json) |
