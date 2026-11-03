@@ -2377,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevators Amiss | 57580 | [57580-elevators-amiss.json](./57580-elevators-amiss.json) |
 | Elevatrix | 316408 | [316408-elevatrix.json](./316408-elevatrix.json) |
 | Eleven | 179401 | [179401-eleven.json](./179401-eleven.json) |
+| Eleven | 361429 | [361429-eleven.json](./361429-eleven.json) |
 | Eleven Beat World Tournament | 299780 | [299780-eleven-beat-world-tournament.json](./299780-eleven-beat-world-tournament.json) |
 | Eleven Eleven | 118433 | [118433-eleven-eleven.json](./118433-eleven-eleven.json) |
 | Eleven Islands Puzzle | 102640 | [102640-eleven-islands-puzzle.json](./102640-eleven-islands-puzzle.json) |
@@ -4305,6 +4306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Meal Time | 64751 | [64751-epic-meal-time.json](./64751-epic-meal-time.json) |
 | Epic Mickey | 1509 | [1509-epic-mickey.json](./1509-epic-mickey.json) |
 | Epic Mickey Awesome Edition | 345246 | [345246-epic-mickey-awesome-edition.json](./345246-epic-mickey-awesome-edition.json) |
+| Epic Mickey: Path Painter | 361434 | [361434-epic-mickey-path-painter.json](./361434-epic-mickey-path-painter.json) |
 | Epic Mickey: Power of Illusion | 6765 | [6765-epic-mickey-power-of-illusion.json](./6765-epic-mickey-power-of-illusion.json) |
 | Epic Mickey: Rebrushed | 287849 | [287849-epic-mickey-rebrushed.json](./287849-epic-mickey-rebrushed.json) |
 | Epic Mickey: Rebrushed - Costume Pack | 308842 | [308842-epic-mickey-rebrushed-costume-pack.json](./308842-epic-mickey-rebrushed-costume-pack.json) |
@@ -6593,6 +6595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: Underfoot | 67713 | [67713-everquest-underfoot.json](./67713-everquest-underfoot.json) |
 | EverQuest: Veil of Alaris | 65851 | [65851-everquest-veil-of-alaris.json](./65851-everquest-veil-of-alaris.json) |
 | EverRail | 382172 | [382172-everrail.json](./382172-everrail.json) |
+| Everranger | 361432 | [361432-everranger.json](./361432-everranger.json) |
 | Everreach: Project Eden | 105551 | [105551-everreach-project-eden.json](./105551-everreach-project-eden.json) |
 | EverRun | 90704 | [90704-everrun.json](./90704-everrun.json) |
 | Everseed | 294473 | [294473-everseed.json](./294473-everseed.json) |
