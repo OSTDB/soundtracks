@@ -8305,6 +8305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Acornflare | 389416 | [389416-pixicharm-acornflare.json](./389416-pixicharm-acornflare.json) |
 | Pixicharm: BitPew | 392346 | [392346-pixicharm-bitpew.json](./392346-pixicharm-bitpew.json) |
 | Pixicharm: Blaster Orbit | 368186 | [368186-pixicharm-blaster-orbit.json](./368186-pixicharm-blaster-orbit.json) |
+| Pixicharm: Brotillery | 364809 | [364809-pixicharm-brotillery.json](./364809-pixicharm-brotillery.json) |
 | Pixicharm: Bus Coinventure | 332538 | [332538-pixicharm-bus-coinventure.json](./332538-pixicharm-bus-coinventure.json) |
 | Pixicharm: Cavrielle | 374716 | [374716-pixicharm-cavrielle.json](./374716-pixicharm-cavrielle.json) |
 | Pixicharm: Celestibun | 378768 | [378768-pixicharm-celestibun.json](./378768-pixicharm-celestibun.json) |
@@ -12350,6 +12351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Rescue | 180809 | [180809-portal-rescue.json](./180809-portal-rescue.json) |
 | Portal Returns CE | 285154 | [285154-portal-returns-ce.json](./285154-portal-returns-ce.json) |
 | Portal Runner | 49954 | [49954-portal-runner.json](./49954-portal-runner.json) |
+| Portal Shooter | 364808 | [364808-portal-shooter.json](./364808-portal-shooter.json) |
 | Portal Shot Gun Teleport | 290436 | [290436-portal-shot-gun-teleport.json](./290436-portal-shot-gun-teleport.json) |
 | Portal Stories: Mel | 47107 | [47107-portal-stories-mel.json](./47107-portal-stories-mel.json) |
 | Portal Stories: VR | 54733 | [54733-portal-stories-vr.json](./54733-portal-stories-vr.json) |
