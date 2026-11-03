@@ -6461,12 +6461,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf With Your Friends: Critical Hit Pack | 298594 | [298594-golf-with-your-friends-critical-hit-pack.json](./298594-golf-with-your-friends-critical-hit-pack.json) |
 | Golf With Your Friends: Deluxe Edition | 223789 | [223789-golf-with-your-friends-deluxe-edition.json](./223789-golf-with-your-friends-deluxe-edition.json) |
 | Golf With Your Friends: Fairytale Fables Pack | 268540 | [268540-golf-with-your-friends-fairytale-fables-pack.json](./268540-golf-with-your-friends-fairytale-fables-pack.json) |
+| Golf With Your Friends: Headbangers Hat | 355848 | [355848-golf-with-your-friends-headbangers-hat.json](./355848-golf-with-your-friends-headbangers-hat.json) |
 | Golf With Your Friends: Horrifying Headgear Pack | 336929 | [336929-golf-with-your-friends-horrifying-headgear-pack.json](./336929-golf-with-your-friends-horrifying-headgear-pack.json) |
 | Golf With Your Friends: Legends of Olympus Pack | 317679 | [317679-golf-with-your-friends-legends-of-olympus-pack.json](./317679-golf-with-your-friends-legends-of-olympus-pack.json) |
 | Golf With Your Friends: Olympus Odyssey Course | 317687 | [317687-golf-with-your-friends-olympus-odyssey-course.json](./317687-golf-with-your-friends-olympus-odyssey-course.json) |
 | Golf With Your Friends: Peaceful Pines Course | 265868 | [265868-golf-with-your-friends-peaceful-pines-course.json](./265868-golf-with-your-friends-peaceful-pines-course.json) |
+| Golf With Your Friends: Soaring Eagles Cosplay Pack | 355846 | [355846-golf-with-your-friends-soaring-eagles-cosplay-pack.json](./355846-golf-with-your-friends-soaring-eagles-cosplay-pack.json) |
 | Golf With Your Friends: Sports Pack | 230825 | [230825-golf-with-your-friends-sports-pack.json](./230825-golf-with-your-friends-sports-pack.json) |
 | Golf With Your Friends: Starter Edition | 277884 | [277884-golf-with-your-friends-starter-edition.json](./277884-golf-with-your-friends-starter-edition.json) |
+| Golf With Your Friends: Teams Mascot Sticker Pack | 355847 | [355847-golf-with-your-friends-teams-mascot-sticker-pack.json](./355847-golf-with-your-friends-teams-mascot-sticker-pack.json) |
 | Golf With Your Friends: Ultimate Edition | 277883 | [277883-golf-with-your-friends-ultimate-edition.json](./277883-golf-with-your-friends-ultimate-edition.json) |
 | Golf With Your Grandmother | 158352 | [158352-golf-with-your-grandmother.json](./158352-golf-with-your-grandmother.json) |
 | Golf Zero | 91121 | [91121-golf-zero.json](./91121-golf-zero.json) |
