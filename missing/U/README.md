@@ -3240,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban War Defense | 46591 | [46591-urban-war-defense.json](./46591-urban-war-defense.json) |
 | Urban Warfare: Assault | 308489 | [308489-urban-warfare-assault.json](./308489-urban-warfare-assault.json) |
 | Urban Witch Story | 133862 | [133862-urban-witch-story.json](./133862-urban-witch-story.json) |
+| Urban Yuri: A Lady's Romance Manifesto | 370060 | [370060-urban-yuri-a-ladys-romance-manifesto.json](./370060-urban-yuri-a-ladys-romance-manifesto.json) |
 | Urbance Clans Card Battle! | 107879 | [107879-urbance-clans-card-battle.json](./107879-urbance-clans-card-battle.json) |
 | Urbano: Legends' Debut | 216853 | [216853-urbano-legends-debut.json](./216853-urbano-legends-debut.json) |
 | Urbek City Builder | 151535 | [151535-urbek-city-builder.json](./151535-urbek-city-builder.json) |
