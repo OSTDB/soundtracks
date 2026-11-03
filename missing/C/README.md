@@ -5685,6 +5685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Town | 36819 | [36819-chaos-town.json](./36819-chaos-town.json) |
 | Chaos Trigger | 296860 | [296860-chaos-trigger.json](./296860-chaos-trigger.json) |
 | Chaos Uproar | 188949 | [188949-chaos-uproar.json](./188949-chaos-uproar.json) |
+| Chaos Vectors | 382133 | [382133-chaos-vectors.json](./382133-chaos-vectors.json) |
 | Chaos Village | 114822 | [114822-chaos-village.json](./114822-chaos-village.json) |
 | Chaos War | 203933 | [203933-chaos-war.json](./203933-chaos-war.json) |
 | Chaos Warrior | 415933 | [415933-chaos-warrior.json](./415933-chaos-warrior.json) |
@@ -7576,6 +7577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christa & Tonyo | 352857 | [352857-christa-and-tonyo.json](./352857-christa-and-tonyo.json) |
 | Christian Matchups | 95423 | [95423-christian-matchups.json](./95423-christian-matchups.json) |
 | Christine | 92150 | [92150-christine.json](./92150-christine.json) |
+| Christine's Care | 382144 | [382144-christines-care.json](./382144-christines-care.json) |
 | Christmas | 228669 | [228669-christmas.json](./228669-christmas.json) |
 | Christmas - Color Your Puzzle and Paint for Kids | 87617 | [87617-christmas-color-your-puzzle-and-paint-for-kids.json](./87617-christmas-color-your-puzzle-and-paint-for-kids.json) |
 | Christmas Across America | 417584 | [417584-christmas-across-america.json](./417584-christmas-across-america.json) |
@@ -10293,6 +10295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluster Tumble | 118156 | [118156-cluster-tumble.json](./118156-cluster-tumble.json) |
 | Clusterball | 10349 | [10349-clusterball.json](./10349-clusterball.json) |
 | Clusterball Arcade | 63838 | [63838-clusterball-arcade.json](./63838-clusterball-arcade.json) |
+| ClusterCluck | 382119 | [382119-clustercluck.json](./382119-clustercluck.json) |
 | ClusterDisaster | 103799 | [103799-clusterdisaster.json](./103799-clusterdisaster.json) |
 | Clusterduck | 194667 | [194667-clusterduck.json](./194667-clusterduck.json) |
 | Clutch | 16049 | [16049-clutch.json](./16049-clutch.json) |
