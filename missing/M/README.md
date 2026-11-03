@@ -4083,6 +4083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Dominion: Global Rivalry | 170987 | [170987-market-dominion-global-rivalry.json](./170987-market-dominion-global-rivalry.json) |
 | Market Dominion: Last Penny | 170988 | [170988-market-dominion-last-penny.json](./170988-market-dominion-last-penny.json) |
 | Market Empire Simulator | 366962 | [366962-market-empire-simulator.json](./366962-market-empire-simulator.json) |
+| Market Garden | 349059 | [349059-market-garden.json](./349059-market-garden.json) |
 | Market Hours | 399710 | [399710-market-hours.json](./399710-market-hours.json) |
 | Market Manager Simulator | 412597 | [412597-market-manager-simulator.json](./412597-market-manager-simulator.json) |
 | Market Master Simulator | 309952 | [309952-market-master-simulator.json](./309952-market-master-simulator.json) |
@@ -4113,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marktopia | 365154 | [365154-marktopia.json](./365154-marktopia.json) |
 | Markus Ritter: Ghosts of the Past | 235604 | [235604-markus-ritter-ghosts-of-the-past.json](./235604-markus-ritter-ghosts-of-the-past.json) |
 | Markus Ritter: The Lost Family | 154296 | [154296-markus-ritter-the-lost-family.json](./154296-markus-ritter-the-lost-family.json) |
+| Markus's Miasma | 349198 | [349198-markuss-miasma.json](./349198-markuss-miasma.json) |
 | Marky Mark and the Funky Bunch: Make My Video | 46416 | [46416-marky-mark-and-the-funky-bunch-make-my-video.json](./46416-marky-mark-and-the-funky-bunch-make-my-video.json) |
 | Marl de Jigsaw | 165610 | [165610-marl-de-jigsaw.json](./165610-marl-de-jigsaw.json) |
 | Marl Jong!! | 165594 | [165594-marl-jong.json](./165594-marl-jong.json) |
@@ -7911,6 +7913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami Tensei QIX: Persona 3 | 289392 | [289392-megami-tensei-qix-persona-3.json](./289392-megami-tensei-qix-persona-3.json) |
 | Megami Tensei: Neuroheroine | 278572 | [278572-megami-tensei-neuroheroine.json](./278572-megami-tensei-neuroheroine.json) |
 | MegaMind | 45742 | [45742-megamind.json](./45742-megamind.json) |
+| Megamind: Bad. Blue. Brilliant | 349042 | [349042-megamind-bad-blue-brilliant.json](./349042-megamind-bad-blue-brilliant.json) |
 | Megamind: Bad. Blue. Brilliant | 57954 | [57954-megamind-bad-blue-brilliant.json](./57954-megamind-bad-blue-brilliant.json) |
 | Megamind: Mega Team Unite | 51061 | [51061-megamind-mega-team-unite.json](./51061-megamind-mega-team-unite.json) |
 | Megamind: The Blue Defender | 47896 | [47896-megamind-the-blue-defender.json](./47896-megamind-the-blue-defender.json) |
@@ -11281,6 +11284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennium Atoll | 156838 | [156838-millennium-atoll.json](./156838-millennium-atoll.json) |
 | Millennium Conflict | 213528 | [213528-millennium-conflict.json](./213528-millennium-conflict.json) |
 | Millennium Dawn: A Modern Day Mod | 256450 | [256450-millennium-dawn-a-modern-day-mod.json](./256450-millennium-dawn-a-modern-day-mod.json) |
+| Millennium Dream | 349036 | [349036-millennium-dream.json](./349036-millennium-dream.json) |
 | Millennium GamePak Gold | 273905 | [273905-millennium-gamepak-gold.json](./273905-millennium-gamepak-gold.json) |
 | Millennium Gamepak Platinum | 273906 | [273906-millennium-gamepak-platinum.json](./273906-millennium-gamepak-platinum.json) |
 | Millennium Mantra | 209223 | [209223-millennium-mantra.json](./209223-millennium-mantra.json) |
@@ -11445,6 +11449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Min Dyrepension | 288109 | [288109-min-dyrepension.json](./288109-min-dyrepension.json) |
 | Min Dyreskole | 288111 | [288111-min-dyreskole.json](./288111-min-dyreskole.json) |
 | Min-Mins | 134286 | [134286-min-mins.json](./134286-min-mins.json) |
+| Mina | 349061 | [349061-mina.json](./349061-mina.json) |
 | Mina | 373622 | [373622-mina.json](./373622-mina.json) |
 | Mina & Michi | 152408 | [152408-mina-and-michi.json](./152408-mina-and-michi.json) |
 | Mina Mangkukulam | 223061 | [223061-mina-mangkukulam.json](./223061-mina-mangkukulam.json) |
@@ -12518,6 +12523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Rail Adventure | 417438 | [417438-mining-rail-adventure.json](./417438-mining-rail-adventure.json) |
 | Mining Shift | 382835 | [382835-mining-shift.json](./382835-mining-shift.json) |
 | Mining Simulator | 241512 | [241512-mining-simulator.json](./241512-mining-simulator.json) |
+| Mining Survivors | 349037 | [349037-mining-survivors.json](./349037-mining-survivors.json) |
 | Mining Wizards | 379861 | [379861-mining-wizards.json](./379861-mining-wizards.json) |
 | Minion Forest | 82333 | [82333-minion-forest.json](./82333-minion-forest.json) |
 | Minion Mail | 139671 | [139671-minion-mail.json](./139671-minion-mail.json) |
@@ -17665,6 +17671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Jump S | 216439 | [216439-mr-jump-s.json](./216439-mr-jump-s.json) |
 | Mr Jump World | 217804 | [217804-mr-jump-world.json](./217804-mr-jump-world.json) |
 | Mr Love: Queen's Choice | 118949 | [118949-mr-love-queens-choice.json](./118949-mr-love-queens-choice.json) |
+| Mr Magpie's Harmless Card Game | 349047 | [349047-mr-magpies-harmless-card-game.json](./349047-mr-magpies-harmless-card-game.json) |
 | Mr Maker 3D Level Editor | 192072 | [192072-mr-maker-3d-level-editor.json](./192072-mr-maker-3d-level-editor.json) |
 | Mr Makeshifter | 34655 | [34655-mr-makeshifter.json](./34655-mr-makeshifter.json) |
 | Mr Meal | 190862 | [190862-mr-meal.json](./190862-mr-meal.json) |
@@ -20966,6 +20973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Balloon | 280890 | [280890-mystic-balloon.json](./280890-mystic-balloon.json) |
 | Mystic Balloon | 339688 | [339688-mystic-balloon.json](./339688-mystic-balloon.json) |
 | Mystic Blast | 246809 | [246809-mystic-blast.json](./246809-mystic-blast.json) |
+| Mystic Brews | 349079 | [349079-mystic-brews.json](./349079-mystic-brews.json) |
 | Mystic Cards | 190058 | [190058-mystic-cards.json](./190058-mystic-cards.json) |
 | Mystic Cave Zone Remake | 361570 | [361570-mystic-cave-zone-remake.json](./361570-mystic-cave-zone-remake.json) |
 | Mystic Chronicles | 10945 | [10945-mystic-chronicles.json](./10945-mystic-chronicles.json) |
