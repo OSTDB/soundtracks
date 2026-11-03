@@ -1464,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Legends | 303184 | [303184-idle-legends.json](./303184-idle-legends.json) |
 | Idle Lemonade Tycoon Empire | 255802 | [255802-idle-lemonade-tycoon-empire.json](./255802-idle-lemonade-tycoon-empire.json) |
 | Idle Library | 395347 | [395347-idle-library.json](./395347-idle-library.json) |
+| Idle Life: An Idle Game | 353609 | [353609-idle-life-an-idle-game.json](./353609-idle-life-an-idle-game.json) |
 | Idle looter | 376073 | [376073-idle-looter.json](./376073-idle-looter.json) |
 | Idle Love | 101067 | [101067-idle-love.json](./101067-idle-love.json) |
 | Idle Luca | 193999 | [193999-idle-luca.json](./193999-idle-luca.json) |
@@ -3671,7 +3672,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
