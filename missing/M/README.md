@@ -2463,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Up Human | 329985 | [329985-make-up-human.json](./329985-make-up-human.json) |
 | Make War | 121410 | [121410-make-war.json](./121410-make-war.json) |
 | Make War Not Love 5 | 88234 | [88234-make-war-not-love-5.json](./88234-make-war-not-love-5.json) |
+| Make Watermelon | 365936 | [365936-make-watermelon.json](./365936-make-watermelon.json) |
 | Make Way | 258230 | [258230-make-way.json](./258230-make-way.json) |
 | Make Way | 294663 | [294663-make-way.json](./294663-make-way.json) |
 | Make Way: Legends Pack | 399141 | [399141-make-way-legends-pack.json](./399141-make-way-legends-pack.json) |
@@ -5647,6 +5648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9777,6 +9779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mi ni Iku zo! Hedgehog | 228507 | [228507-mi-ni-iku-zo-hedgehog.json](./228507-mi-ni-iku-zo-hedgehog.json) |
 | Mi Scusi | 175650 | [175650-mi-scusi.json](./175650-mi-scusi.json) |
 | Mi'pu'mi' Collection | 151627 | [151627-mipumi-collection.json](./151627-mipumi-collection.json) |
+| Mi10 | 365943 | [365943-mi10.json](./365943-mi10.json) |
 | MI5 Bob | 71166 | [71166-mi5-bob.json](./71166-mi5-bob.json) |
 | Mia | 169370 | [169370-mia.json](./169370-mia.json) |
 | Mia & Mio | 388752 | [388752-mia-and-mio.json](./388752-mia-and-mio.json) |
@@ -10069,6 +10072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroMacro: Downtown Detective | 387475 | [387475-micromacro-downtown-detective.json](./387475-micromacro-downtown-detective.json) |
 | MicroMan | 24760 | [24760-microman.json](./24760-microman.json) |
 | MicroMan's Crazy Computers | 62650 | [62650-micromans-crazy-computers.json](./62650-micromans-crazy-computers.json) |
+| Micromancer | 365948 | [365948-micromancer.json](./365948-micromancer.json) |
 | MicroMechanica | 379714 | [379714-micromechanica.json](./379714-micromechanica.json) |
 | Micromon | 125761 | [125761-micromon.json](./125761-micromon.json) |
 | Micromon Adventures | 105865 | [105865-micromon-adventures.json](./105865-micromon-adventures.json) |
@@ -12765,6 +12769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirrormind | 345647 | [345647-mirrormind.json](./345647-mirrormind.json) |
 | MirrorMoon EP | 15544 | [15544-mirrormoon-ep.json](./15544-mirrormoon-ep.json) |
 | Mirrorplume Frostfate | 384350 | [384350-mirrorplume-frostfate.json](./384350-mirrorplume-frostfate.json) |
+| Mirrors of Deception: The Poisoned Legacy | 365957 | [365957-mirrors-of-deception-the-poisoned-legacy.json](./365957-mirrors-of-deception-the-poisoned-legacy.json) |
 | Mirrors of Deception: The Silver Peaks Secret | 386201 | [386201-mirrors-of-deception-the-silver-peaks-secret.json](./386201-mirrors-of-deception-the-silver-peaks-secret.json) |
 | Mirrors of Epiphany | 274352 | [274352-mirrors-of-epiphany.json](./274352-mirrors-of-epiphany.json) |
 | Mirrorscape | 270120 | [270120-mirrorscape.json](./270120-mirrorscape.json) |
@@ -17848,6 +17853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MT Force Aliens Uprising | 341343 | [341343-mt-force-aliens-uprising.json](./341343-mt-force-aliens-uprising.json) |
 | Mt. Aki | 211533 | [211533-mt-aki.json](./211533-mt-aki.json) |
 | Mt. Doubt | 101979 | [101979-mt-doubt.json](./101979-mt-doubt.json) |
+| Mt. Recollection | 365946 | [365946-mt-recollection.json](./365946-mt-recollection.json) |
 | MTB Dirt | 154999 | [154999-mtb-dirt.json](./154999-mtb-dirt.json) |
 | MTB DirtCross | 298860 | [298860-mtb-dirtcross.json](./298860-mtb-dirtcross.json) |
 | MTB Downhill Simulator | 53389 | [53389-mtb-downhill-simulator.json](./53389-mtb-downhill-simulator.json) |
