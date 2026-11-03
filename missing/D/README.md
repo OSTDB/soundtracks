@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Line | 87048 | [87048-dancing-line.json](./87048-dancing-line.json) |
 | Dancing Line: Community Edition | 393403 | [393403-dancing-line-community-edition.json](./393403-dancing-line-community-edition.json) |
 | Dancing Monster | 13836 | [13836-dancing-monster.json](./13836-dancing-monster.json) |
+| Dancing of Cho Aniki | 375780 | [375780-dancing-of-cho-aniki.json](./375780-dancing-of-cho-aniki.json) |
 | Dancing on Ice | 20419 | [20419-dancing-on-ice.json](./20419-dancing-on-ice.json) |
 | Dancing Pandas | 236881 | [236881-dancing-pandas.json](./236881-dancing-pandas.json) |
 | Dancing Queen: Club Puzzle | 107059 | [107059-dancing-queen-club-puzzle.json](./107059-dancing-queen-club-puzzle.json) |
@@ -18081,6 +18082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Land | 284905 | [284905-dwarf-land.json](./284905-dwarf-land.json) |
 | Dwarf Legacy | 338297 | [338297-dwarf-legacy.json](./338297-dwarf-legacy.json) |
 | Dwarf Looter | 274030 | [274030-dwarf-looter.json](./274030-dwarf-looter.json) |
+| Dwarf Miner | 376157 | [376157-dwarf-miner.json](./376157-dwarf-miner.json) |
 | Dwarf Prison | 211546 | [211546-dwarf-prison.json](./211546-dwarf-prison.json) |
 | Dwarf Quest | 50835 | [50835-dwarf-quest.json](./50835-dwarf-quest.json) |
 | Dwarf Shop | 130155 | [130155-dwarf-shop.json](./130155-dwarf-shop.json) |
