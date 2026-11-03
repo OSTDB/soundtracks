@@ -9107,6 +9107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Aliens | 175144 | [175144-clash-of-aliens.json](./175144-clash-of-aliens.json) |
 | Clash of Beasts | 197185 | [197185-clash-of-beasts.json](./197185-clash-of-beasts.json) |
 | Clash of Blades | 265109 | [265109-clash-of-blades.json](./265109-clash-of-blades.json) |
+| Clash of Builders | 393220 | [393220-clash-of-builders.json](./393220-clash-of-builders.json) |
 | Clash of Busts | 330471 | [330471-clash-of-busts.json](./330471-clash-of-busts.json) |
 | Clash of Cards | 94839 | [94839-clash-of-cards.json](./94839-clash-of-cards.json) |
 | Clash of Castle | 84042 | [84042-clash-of-castle.json](./84042-clash-of-castle.json) |
@@ -11411,6 +11412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorCube | 208378 | [208378-colorcube.json](./208378-colorcube.json) |
 | ColorCube | 52519 | [52519-colorcube.json](./52519-colorcube.json) |
 | Colored Eyes Girls | 271652 | [271652-colored-eyes-girls.json](./271652-colored-eyes-girls.json) |
+| Colored Pencil Bakery | 393211 | [393211-colored-pencil-bakery.json](./393211-colored-pencil-bakery.json) |
 | Colored Shapes | 158627 | [158627-colored-shapes.json](./158627-colored-shapes.json) |
 | Coloree | 141695 | [141695-coloree.json](./141695-coloree.json) |
 | Colorelli | 80125 | [80125-colorelli.json](./80125-colorelli.json) |
@@ -15841,6 +15843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Projectile | 143966 | [143966-crazy-projectile.json](./143966-crazy-projectile.json) |
 | Crazy Puzzle | 358935 | [358935-crazy-puzzle.json](./358935-crazy-puzzle.json) |
 | Crazy Quader | 91587 | [91587-crazy-quader.json](./91587-crazy-quader.json) |
+| Crazy Qualle | 393212 | [393212-crazy-qualle.json](./393212-crazy-qualle.json) |
 | Crazy Quiz | 64845 | [64845-crazy-quiz.json](./64845-crazy-quiz.json) |
 | Crazy Quiz! Are You Crazy Enough? | 268117 | [268117-crazy-quiz-are-you-crazy-enough.json](./268117-crazy-quiz-are-you-crazy-enough.json) |
 | Crazy Rabbits | 250973 | [250973-crazy-rabbits.json](./250973-crazy-rabbits.json) |
