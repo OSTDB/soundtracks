@@ -5738,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Dungeons | 65812 | [65812-retro-dungeons.json](./65812-retro-dungeons.json) |
 | Retro Dust | 175375 | [175375-retro-dust.json](./175375-retro-dust.json) |
 | Retro Fears | 357200 | [357200-retro-fears.json](./357200-retro-fears.json) |
+| Retro Fighter | 386937 | [386937-retro-fighter.json](./386937-retro-fighter.json) |
 | Retro Fighter: Dragon's Revenge | 147690 | [147690-retro-fighter-dragons-revenge.json](./147690-retro-fighter-dragons-revenge.json) |
 | Retro First Friday Collection #1 | 154616 | [154616-retro-first-friday-collection-1.json](./154616-retro-first-friday-collection-1.json) |
 | Retro First Friday Collection #2 | 154177 | [154177-retro-first-friday-collection-2.json](./154177-retro-first-friday-collection-2.json) |
@@ -7942,6 +7943,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riyou Kiyaku | 418728 | [418728-riyou-kiyaku.json](./418728-riyou-kiyaku.json) |
 | Rize of the Summonds | 25594 | [25594-rize-of-the-summonds.json](./25594-rize-of-the-summonds.json) |
 | Rizline | 245214 | [245214-rizline.json](./245214-rizline.json) |
+| Rizuberuru no Ma 1+2 | 386857 | [386857-rizuberuru-no-ma-1-2.json](./386857-rizuberuru-no-ma-1-2.json) |
+| Rizuberuru no Ma 3+4 | 386858 | [386858-rizuberuru-no-ma-3-4.json](./386858-rizuberuru-no-ma-3-4.json) |
+| Rizuberuru no Ma 5+6 | 386859 | [386859-rizuberuru-no-ma-5-6.json](./386859-rizuberuru-no-ma-5-6.json) |
+| Rizuberuru no Ma 7: Kanketsu Hen - Hateshinaki Hontou no Monogatari | 386915 | [386915-rizuberuru-no-ma-7-kanketsu-hen-hateshinaki-hontou-no-monogatari.json](./386915-rizuberuru-no-ma-7-kanketsu-hen-hateshinaki-hontou-no-monogatari.json) |
 | Rizuhuritan! Rhythmic Flip (Re)Turn | 339977 | [339977-rizuhuritan-rhythmic-flip-re-turn.json](./339977-rizuhuritan-rhythmic-flip-re-turn.json) |
 | Rizz Dungeon: Skeleton Key to My Heart | 377662 | [377662-rizz-dungeon-skeleton-key-to-my-heart.json](./377662-rizz-dungeon-skeleton-key-to-my-heart.json) |
 | Rizzoli and Isles: The Boston Butcher | 57370 | [57370-rizzoli-and-isles-the-boston-butcher.json](./57370-rizzoli-and-isles-the-boston-butcher.json) |
