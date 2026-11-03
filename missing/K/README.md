@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Master Knock Down Blow | 50457 | [50457-karate-master-knock-down-blow.json](./50457-karate-master-knock-down-blow.json) |
 | Karate Panda | 54158 | [54158-karate-panda.json](./54158-karate-panda.json) |
 | Karate Phants: Gloves of Glory | 68633 | [68633-karate-phants-gloves-of-glory.json](./68633-karate-phants-gloves-of-glory.json) |
+| Karate Rogue | 375997 | [375997-karate-rogue.json](./375997-karate-rogue.json) |
 | Karate Survivor | 307796 | [307796-karate-survivor.json](./307796-karate-survivor.json) |
 | Karate Warrior | 134424 | [134424-karate-warrior.json](./134424-karate-warrior.json) |
 | Karateka | 27551 | [27551-karateka.json](./27551-karateka.json) |
@@ -3979,6 +3980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Cat Tycoon | 169125 | [169125-kitty-cat-tycoon.json](./169125-kitty-cat-tycoon.json) |
 | Kitty Cat: Jigsaw Puzzles | 32122 | [32122-kitty-cat-jigsaw-puzzles.json](./32122-kitty-cat-jigsaw-puzzles.json) |
 | Kitty Catsanova | 101694 | [101694-kitty-catsanova.json](./101694-kitty-catsanova.json) |
+| Kitty Cauldron | 375773 | [375773-kitty-cauldron.json](./375773-kitty-cauldron.json) |
 | Kitty Collapse | 303614 | [303614-kitty-collapse.json](./303614-kitty-collapse.json) |
 | Kitty Curling | 180770 | [180770-kitty-curling.json](./180770-kitty-curling.json) |
 | Kitty Death Room | 221408 | [221408-kitty-death-room.json](./221408-kitty-death-room.json) |
