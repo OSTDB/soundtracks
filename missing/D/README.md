@@ -8241,6 +8241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice to Meet You | 270140 | [270140-dice-to-meet-you.json](./270140-dice-to-meet-you.json) |
 | Dice to Pay | 346399 | [346399-dice-to-pay.json](./346399-dice-to-pay.json) |
 | Dice Tourney | 165750 | [165750-dice-tourney.json](./165750-dice-tourney.json) |
+| Dice Tower | 352502 | [352502-dice-tower.json](./352502-dice-tower.json) |
 | Dice Tower Defense | 55593 | [55593-dice-tower-defense.json](./55593-dice-tower-defense.json) |
 | Dice Town Mobile | 175217 | [175217-dice-town-mobile.json](./175217-dice-town-mobile.json) |
 | Dice Tribes: Ambitions | 200871 | [200871-dice-tribes-ambitions.json](./200871-dice-tribes-ambitions.json) |
@@ -15189,6 +15190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Dazia | 378543 | [378543-dream-dazia.json](./378543-dream-dazia.json) |
 | Dream Dealer | 31214 | [31214-dream-dealer.json](./31214-dream-dealer.json) |
 | Dream Detective | 126379 | [126379-dream-detective.json](./126379-dream-detective.json) |
+| Dream Diary | 352482 | [352482-dream-diary.json](./352482-dream-diary.json) |
 | Dream Distortion | 375830 | [375830-dream-distortion.json](./375830-dream-distortion.json) |
 | Dream Divers 2 | 303014 | [303014-dream-divers-2.json](./303014-dream-divers-2.json) |
 | Dream Doctor | 401819 | [401819-dream-doctor.json](./401819-dream-doctor.json) |
@@ -16012,6 +16014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver's Dread! | 311689 | [311689-drivers-dread.json](./311689-drivers-dread.json) |
 | Driver's Edge | 39825 | [39825-drivers-edge.json](./39825-drivers-edge.json) |
 | Driver's Education '98 | 69331 | [69331-drivers-education-98.json](./69331-drivers-education-98.json) |
+| Driver's Eyes | 352504 | [352504-drivers-eyes.json](./352504-drivers-eyes.json) |
 | Driver's Work Trip | 185150 | [185150-drivers-work-trip.json](./185150-drivers-work-trip.json) |
 | Driver4VR | 152871 | [152871-driver4vr.json](./152871-driver4vr.json) |
 | Driver4VR: Kinetic | 296880 | [296880-driver4vr-kinetic.json](./296880-driver4vr-kinetic.json) |
