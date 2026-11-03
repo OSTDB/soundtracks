@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Rider | 23601 | [23601-rail-rider.json](./23601-rail-rider.json) |
 | Rail Romanesque Origin | 280057 | [280057-rail-romanesque-origin.json](./280057-rail-romanesque-origin.json) |
 | Rail Route | 145422 | [145422-rail-route.json](./145422-rail-route.json) |
+| Rail Route: Expect Delays | 398771 | [398771-rail-route-expect-delays.json](./398771-rail-route-expect-delays.json) |
 | Rail Route: Happy Passengers | 302036 | [302036-rail-route-happy-passengers.json](./302036-rail-route-happy-passengers.json) |
 | Rail Route: Map Pack | 376799 | [376799-rail-route-map-pack.json](./376799-rail-route-map-pack.json) |
 | Rail Route: Supporter Bundle | 336134 | [336134-rail-route-supporter-bundle.json](./336134-rail-route-supporter-bundle.json) |
@@ -1104,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railink | 329107 | [329107-railink.json](./329107-railink.json) |
 | RailKing's Model Railroad Simulator | 80190 | [80190-railkings-model-railroad-simulator.json](./80190-railkings-model-railroad-simulator.json) |
 | Railkings Model Railroad Simulator | 54311 | [54311-railkings-model-railroad-simulator.json](./54311-railkings-model-railroad-simulator.json) |
+| Railmount | 398748 | [398748-railmount.json](./398748-railmount.json) |
 | Railpunk Mayhem | 292426 | [292426-railpunk-mayhem.json](./292426-railpunk-mayhem.json) |
 | RaiLRhythm | 312147 | [312147-railrhythm.json](./312147-railrhythm.json) |
 | Railroad Corporation | 112362 | [112362-railroad-corporation.json](./112362-railroad-corporation.json) |
@@ -3861,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Spider 2: Exiled Remastered | 401844 | [401844-red-spider-2-exiled-remastered.json](./401844-red-spider-2-exiled-remastered.json) |
 | Red Spider Anecdote: The Longest Nite | 324318 | [324318-red-spider-anecdote-the-longest-nite.json](./324318-red-spider-anecdote-the-longest-nite.json) |
 | Red Spider Anecdote: Triangle | 100706 | [100706-red-spider-anecdote-triangle.json](./100706-red-spider-anecdote-triangle.json) |
+| Red Spider Lily | 398790 | [398790-red-spider-lily.json](./398790-red-spider-lily.json) |
 | Red Spider: Vengeance Remastered | 371969 | [371969-red-spider-vengeance-remastered.json](./371969-red-spider-vengeance-remastered.json) |
 | Red Spider3: A Heroine Never Dies | 100709 | [100709-red-spider3-a-heroine-never-dies.json](./100709-red-spider3-a-heroine-never-dies.json) |
 | Red Square | 120977 | [120977-red-square.json](./120977-red-square.json) |
@@ -8710,6 +8713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robug Rampage | 346930 | [346930-robug-rampage.json](./346930-robug-rampage.json) |
 | Roburst | 199647 | [199647-roburst.json](./199647-roburst.json) |
 | Robust Road Roller | 30447 | [30447-robust-road-roller.json](./30447-robust-road-roller.json) |
+| Robustation | 398804 | [398804-robustation.json](./398804-robustation.json) |
 | Robzawar | 295395 | [295395-robzawar.json](./295395-robzawar.json) |
 | Roc 'N Rope | 25727 | [25727-roc-n-rope.json](./25727-roc-n-rope.json) |
 | Roc's Odyssey | 268954 | [268954-rocs-odyssey.json](./268954-rocs-odyssey.json) |
@@ -11473,6 +11477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rule No. 3: Downpour | 411315 | [411315-rule-no-3-downpour.json](./411315-rule-no-3-downpour.json) |
 | Rule of Rose | 7415 | [7415-rule-of-rose.json](./7415-rule-of-rose.json) |
 | Rule The Beach Volleyball | 324832 | [324832-rule-the-beach-volleyball.json](./324832-rule-the-beach-volleyball.json) |
+| Rule the Dungeon | 398777 | [398777-rule-the-dungeon.json](./398777-rule-the-dungeon.json) |
 | Rule the Kingdom | 343760 | [343760-rule-the-kingdom.json](./343760-rule-the-kingdom.json) |
 | Rule the Waves | 59943 | [59943-rule-the-waves.json](./59943-rule-the-waves.json) |
 | Rule the Waves 3 | 249172 | [249172-rule-the-waves-3.json](./249172-rule-the-waves-3.json) |
