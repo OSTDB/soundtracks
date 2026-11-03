@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Tales | 244736 | [244736-land-of-tales.json](./244736-land-of-tales.json) |
 | Land of the Dead Trees | 389490 | [389490-land-of-the-dead-trees.json](./389490-land-of-the-dead-trees.json) |
 | Land of the Dead: Road to Fiddler's Green | 5900 | [5900-land-of-the-dead-road-to-fiddlers-green.json](./5900-land-of-the-dead-road-to-fiddlers-green.json) |
+| Land of the Druids | 379843 | [379843-land-of-the-druids.json](./379843-land-of-the-druids.json) |
 | Land of the Lost: Crystal Adventure | 68042 | [68042-land-of-the-lost-crystal-adventure.json](./68042-land-of-the-lost-crystal-adventure.json) |
 | Land of the Survivors | 249028 | [249028-land-of-the-survivors.json](./249028-land-of-the-survivors.json) |
 | Land of the Vikings | 211376 | [211376-land-of-the-vikings.json](./211376-land-of-the-vikings.json) |
