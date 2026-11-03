@@ -3731,6 +3731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Story | 135572 | [135572-ghost-story.json](./135572-ghost-story.json) |
 | Ghost Story | 184585 | [184585-ghost-story.json](./184585-ghost-story.json) |
 | Ghost Story | 311269 | [311269-ghost-story.json](./311269-ghost-story.json) |
+| Ghost Story | 354183 | [354183-ghost-story.json](./354183-ghost-story.json) |
 | Ghost Story: Love Destiny | 327718 | [327718-ghost-story-love-destiny.json](./327718-ghost-story-love-destiny.json) |
 | Ghost Strike | 410384 | [410384-ghost-strike.json](./410384-ghost-strike.json) |
 | Ghost Study | 229328 | [229328-ghost-study.json](./229328-ghost-study.json) |
@@ -4012,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Rush: Cute DLC | 324437 | [324437-giant-rush-cute-dlc.json](./324437-giant-rush-cute-dlc.json) |
 | Giant Rush: Gold Edition | 385201 | [385201-giant-rush-gold-edition.json](./385201-giant-rush-gold-edition.json) |
 | Giant Rush: Silly DLC | 324438 | [324438-giant-rush-silly-dlc.json](./324438-giant-rush-silly-dlc.json) |
+| Giant Rush: Silly Edition | 354190 | [354190-giant-rush-silly-edition.json](./354190-giant-rush-silly-edition.json) |
 | Giant Slayers | 125067 | [125067-giant-slayers.json](./125067-giant-slayers.json) |
 | Giant Snake Girl Wants the Burger! | 383379 | [383379-giant-snake-girl-wants-the-burger.json](./383379-giant-snake-girl-wants-the-burger.json) |
 | Giant Trucks Driving Simulator | 90355 | [90355-giant-trucks-driving-simulator.json](./90355-giant-trucks-driving-simulator.json) |
@@ -4808,6 +4810,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Effect | 13051 | [13051-global-effect.json](./13051-global-effect.json) |
 | Global Elite | 298684 | [298684-global-elite.json](./298684-global-elite.json) |
 | Global Farmer | 301913 | [301913-global-farmer.json](./301913-global-farmer.json) |
+| Global Farmer: Africa | 354169 | [354169-global-farmer-africa.json](./354169-global-farmer-africa.json) |
+| Global Farmer: Asia | 354176 | [354176-global-farmer-asia.json](./354176-global-farmer-asia.json) |
+| Global Farmer: Australia and Oceania | 354177 | [354177-global-farmer-australia-and-oceania.json](./354177-global-farmer-australia-and-oceania.json) |
+| Global Farmer: Central America | 354168 | [354168-global-farmer-central-america.json](./354168-global-farmer-central-america.json) |
+| Global Farmer: Eastern Europe | 354175 | [354175-global-farmer-eastern-europe.json](./354175-global-farmer-eastern-europe.json) |
+| Global Farmer: North America | 354172 | [354172-global-farmer-north-america.json](./354172-global-farmer-north-america.json) |
+| Global Farmer: Northern Europe | 354170 | [354170-global-farmer-northern-europe.json](./354170-global-farmer-northern-europe.json) |
+| Global Farmer: Russia | 354173 | [354173-global-farmer-russia.json](./354173-global-farmer-russia.json) |
+| Global Farmer: South America | 354174 | [354174-global-farmer-south-america.json](./354174-global-farmer-south-america.json) |
+| Global Farmer: Southern Europe | 354171 | [354171-global-farmer-southern-europe.json](./354171-global-farmer-southern-europe.json) |
 | Global Flame | 188358 | [188358-global-flame.json](./188358-global-flame.json) |
 | Global Folktale | 254538 | [254538-global-folktale.json](./254538-global-folktale.json) |
 | Global Football | 402377 | [402377-global-football.json](./402377-global-football.json) |
