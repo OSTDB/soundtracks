@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Civil War Battles: Robert E. Lee vs. Ulysses S. Grant | 69057 | [69057-ultimate-civil-war-battles-robert-e-lee-vs-ulysses-s-grant.json](./69057-ultimate-civil-war-battles-robert-e-lee-vs-ulysses-s-grant.json) |
 | Ultimate Coaster X | 115536 | [115536-ultimate-coaster-x.json](./115536-ultimate-coaster-x.json) |
 | Ultimate Combat Fighting | 323317 | [323317-ultimate-combat-fighting.json](./323317-ultimate-combat-fighting.json) |
+| Ultimate Control Machine | 391429 | [391429-ultimate-control-machine.json](./391429-ultimate-control-machine.json) |
 | Ultimate Custom Night | 103629 | [103629-ultimate-custom-night.json](./103629-ultimate-custom-night.json) |
 | Ultimate Custom Night Demo | 230990 | [230990-ultimate-custom-night-demo.json](./230990-ultimate-custom-night-demo.json) |
 | Ultimate Custom Night VR | 220139 | [220139-ultimate-custom-night-vr.json](./220139-ultimate-custom-night-vr.json) |
