@@ -5855,6 +5855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireflies | 336718 | [336718-fireflies.json](./336718-fireflies.json) |
 | Fireflies | 34605 | [34605-fireflies.json](./34605-fireflies.json) |
 | Fireflies & Figments: A Willow's Journey | 190851 | [190851-fireflies-and-figments-a-willows-journey.json](./190851-fireflies-and-figments-a-willows-journey.json) |
+| Firefly | 357700 | [357700-firefly.json](./357700-firefly.json) |
 | Firefly | 369859 | [369859-firefly.json](./369859-firefly.json) |
 | Firefly | 55209 | [55209-firefly.json](./55209-firefly.json) |
 | FireFly | 169861 | [169861-firefly.json](./169861-firefly.json) |
