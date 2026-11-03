@@ -5631,7 +5631,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -16054,6 +16053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morituri Te Salutant | 305809 | [305809-morituri-te-salutant.json](./305809-morituri-te-salutant.json) |
 | Morituria | 347798 | [347798-morituria.json](./347798-morituria.json) |
 | Moriya Rhythm Rainbow | 214937 | [214937-moriya-rhythm-rainbow.json](./214937-moriya-rhythm-rainbow.json) |
+| MoriyaRhythm | 378947 | [378947-moriyarhythm.json](./378947-moriyarhythm.json) |
 | Mörk Borg Heresy Supreme | 317584 | [317584-mork-borg-heresy-supreme.json](./317584-mork-borg-heresy-supreme.json) |
 | Mörker | 389394 | [389394-morker.json](./389394-morker.json) |
 | Morkredd | 100157 | [100157-morkredd.json](./100157-morkredd.json) |
