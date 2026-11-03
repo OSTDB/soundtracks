@@ -1236,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocity Racing: 1000 | 359572 | [359572-velocity-racing-1000.json](./359572-velocity-racing-1000.json) |
 | Velocity Raptor | 145388 | [145388-velocity-raptor.json](./145388-velocity-raptor.json) |
 | Velocity Redux | 413229 | [413229-velocity-redux.json](./413229-velocity-redux.json) |
+| Velocity Rift | 368714 | [368714-velocity-rift.json](./368714-velocity-rift.json) |
 | Velocity Rift | 377299 | [377299-velocity-rift.json](./377299-velocity-rift.json) |
 | Velocity Rush | 338574 | [338574-velocity-rush.json](./338574-velocity-rush.json) |
 | Velocity Stream | 34623 | [34623-velocity-stream.json](./34623-velocity-stream.json) |
@@ -2721,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtueror: The Virtual Conqueror | 216859 | [216859-virtueror-the-virtual-conqueror.json](./216859-virtueror-the-virtual-conqueror.json) |
 | Virtues | 240955 | [240955-virtues.json](./240955-virtues.json) |
 | VirtuGO | 55643 | [55643-virtugo.json](./55643-virtugo.json) |
+| Virtuoso | 370964 | [370964-virtuoso.json](./370964-virtuoso.json) |
 | Virtuoso GP Race: On | 373077 | [373077-virtuoso-gp-race-on.json](./373077-virtuoso-gp-race-on.json) |
 | Virtuoso Skins Game | 391886 | [391886-virtuoso-skins-game.json](./391886-virtuoso-skins-game.json) |
 | Virtuous | 275416 | [275416-virtuous.json](./275416-virtuous.json) |
@@ -3381,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volta-X | 130525 | [130525-volta-x.json](./130525-volta-x.json) |
 | Voltage | 131193 | [131193-voltage.json](./131193-voltage.json) |
 | Voltage | 88029 | [88029-voltage.json](./88029-voltage.json) |
+| Voltage Box | 369294 | [369294-voltage-box.json](./369294-voltage-box.json) |
 | Voltage Drop | 110665 | [110665-voltage-drop.json](./110665-voltage-drop.json) |
 | Voltage Fighter Gowcaizer | 39590 | [39590-voltage-fighter-gowcaizer.json](./39590-voltage-fighter-gowcaizer.json) |
 | Voltage High Society | 208420 | [208420-voltage-high-society.json](./208420-voltage-high-society.json) |
