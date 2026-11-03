@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Mini Golf | 63631 | [63631-table-mini-golf.json](./63631-table-mini-golf.json) |
 | Table of Tales: The Crooked Crown | 103347 | [103347-table-of-tales-the-crooked-crown.json](./103347-table-of-tales-the-crooked-crown.json) |
 | Table Party | 276641 | [276641-table-party.json](./276641-table-party.json) |
+| Table Party: Kushi Express | 352508 | [352508-table-party-kushi-express.json](./352508-table-party-kushi-express.json) |
 | Table Soccer | 94130 | [94130-table-soccer.json](./94130-table-soccer.json) |
 | Table Soccer Club | 151413 | [151413-table-soccer-club.json](./151413-table-soccer-club.json) |
 | Table Soccer Foosball | 147953 | [147953-table-soccer-foosball.json](./147953-table-soccer-foosball.json) |
@@ -2959,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team17 Indie Heroes | 99526 | [99526-team17-indie-heroes.json](./99526-team17-indie-heroes.json) |
 | Teamball.io | 154815 | [154815-teamball-io.json](./154815-teamball-io.json) |
 | Teamchef | 93006 | [93006-teamchef.json](./93006-teamchef.json) |
+| Teamcrafter | 352471 | [352471-teamcrafter.json](./352471-teamcrafter.json) |
 | Teamfight Manager | 144006 | [144006-teamfight-manager.json](./144006-teamfight-manager.json) |
 | Teamfight Manager 2 | 369638 | [369638-teamfight-manager-2.json](./369638-teamfight-manager-2.json) |
 | TeamJumpers 2: New Reality | 152032 | [152032-teamjumpers-2-new-reality.json](./152032-teamjumpers-2-new-reality.json) |
@@ -11430,6 +11432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Camp | 334177 | [334177-the-last-camp.json](./334177-the-last-camp.json) |
 | The Last Camp 1990 | 289997 | [289997-the-last-camp-1990.json](./289997-the-last-camp-1990.json) |
 | The Last Campfire | 113115 | [113115-the-last-campfire.json](./113115-the-last-campfire.json) |
+| The Last Captain | 352474 | [352474-the-last-captain.json](./352474-the-last-captain.json) |
 | The Last Caretaker | 333443 | [333443-the-last-caretaker.json](./333443-the-last-caretaker.json) |
 | The Last Cargo | 29461 | [29461-the-last-cargo.json](./29461-the-last-cargo.json) |
 | The Last Case of Benedict Fox: Definitive Edition | 292897 | [292897-the-last-case-of-benedict-fox-definitive-edition.json](./292897-the-last-case-of-benedict-fox-definitive-edition.json) |
@@ -15478,6 +15481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Serial Adventures of Dick Jack BB! | 176441 | [176441-the-serial-adventures-of-dick-jack-bb.json](./176441-the-serial-adventures-of-dick-jack-bb.json) |
 | The Serious Sam Collection | 23414 | [23414-the-serious-sam-collection.json](./23414-the-serious-sam-collection.json) |
 | The Serpent | 234184 | [234184-the-serpent.json](./234184-the-serpent.json) |
+| The Serpent and the Crow | 352473 | [352473-the-serpent-and-the-crow.json](./352473-the-serpent-and-the-crow.json) |
 | The Serpent of Isis | 206657 | [206657-the-serpent-of-isis.json](./206657-the-serpent-of-isis.json) |
 | The Server | 405527 | [405527-the-server.json](./405527-the-server.json) |
 | The Servers Are Shutting Down in 24 Hours but My Pull Rate's Been Set to 0.0001%?! | 382984 | [382984-the-servers-are-shutting-down-in-24-hours-but-my-pull-rates-been-set-to-0-0001.json](./382984-the-servers-are-shutting-down-in-24-hours-but-my-pull-rates-been-set-to-0-0001.json) |
