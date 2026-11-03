@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omelet's Quest | 373522 | [373522-omelets-quest.json](./373522-omelets-quest.json) |
 | Omelettes | 145922 | [145922-omelettes.json](./145922-omelettes.json) |
 | Omen | 259144 | [259144-omen.json](./259144-omen.json) |
+| Omen | 359714 | [359714-omen.json](./359714-omen.json) |
 | Omen Exitio: Hunger | 236941 | [236941-omen-exitio-hunger.json](./236941-omen-exitio-hunger.json) |
 | Omen Fall | 251805 | [251805-omen-fall.json](./251805-omen-fall.json) |
 | Omen of Sorrow | 27070 | [27070-omen-of-sorrow.json](./27070-omen-of-sorrow.json) |
