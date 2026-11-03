@@ -834,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karakuri Kengou-den: Musashi Road - Harikiri Daishuugyou! | 346027 | [346027-karakuri-kengou-den-musashi-road-harikiri-daishuugyou.json](./346027-karakuri-kengou-den-musashi-road-harikiri-daishuugyou.json) |
 | Karakuri Ninpou | 267991 | [267991-karakuri-ninpou.json](./267991-karakuri-ninpou.json) |
 | Karakuri-kun: A Japanese Tale | 135040 | [135040-karakuri-kun-a-japanese-tale.json](./135040-karakuri-kun-a-japanese-tale.json) |
+| Karakurium | 393236 | [393236-karakurium.json](./393236-karakurium.json) |
 | Karakuru | 371904 | [371904-karakuru.json](./371904-karakuru.json) |
 | Karambola | 134981 | [134981-karambola.json](./134981-karambola.json) |
 | Karamu Trilogy | 286073 | [286073-karamu-trilogy.json](./286073-karamu-trilogy.json) |
