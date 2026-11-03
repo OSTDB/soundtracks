@@ -8578,6 +8578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Sword Rave Ranciel Story | 95585 | [95585-holy-sword-rave-ranciel-story.json](./95585-holy-sword-rave-ranciel-story.json) |
 | Holy Towers | 76328 | [76328-holy-towers.json](./76328-holy-towers.json) |
 | Holy Umbrella: Dondera no Mubou!! | 38386 | [38386-holy-umbrella-dondera-no-mubou.json](./38386-holy-umbrella-dondera-no-mubou.json) |
+| Holy Valkyrie Exs-Tia 3 | 376414 | [376414-holy-valkyrie-exs-tia-3.json](./376414-holy-valkyrie-exs-tia-3.json) |
 | Holy Valkyrie Exs-Tia F Parallel Episode 2: Reunion | 404653 | [404653-holy-valkyrie-exs-tia-f-parallel-episode-2-reunion.json](./404653-holy-valkyrie-exs-tia-f-parallel-episode-2-reunion.json) |
 | Holy Valkyrie Exs-Tia P Parallel Episode 1: Magical Girl Pastel Marie | 404786 | [404786-holy-valkyrie-exs-tia-p-parallel-episode-1-magical-girl-pastel-marie.json](./404786-holy-valkyrie-exs-tia-p-parallel-episode-1-magical-girl-pastel-marie.json) |
 | Holy Valkyrie Exs-Tia TS Parallel Episode 3: Twilight Sabre | 404785 | [404785-holy-valkyrie-exs-tia-ts-parallel-episode-3-twilight-sabre.json](./404785-holy-valkyrie-exs-tia-ts-parallel-episode-3-twilight-sabre.json) |
