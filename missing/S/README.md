@@ -22683,6 +22683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fisher | 181064 | [181064-star-fisher.json](./181064-star-fisher.json) |
 | Star Flashback Blast! | 304288 | [304288-star-flashback-blast.json](./304288-star-flashback-blast.json) |
 | Star Fleet Armada: Rogue Adventures | 38796 | [38796-star-fleet-armada-rogue-adventures.json](./38796-star-fleet-armada-rogue-adventures.json) |
+| Star Fleet Deluxe | 395062 | [395062-star-fleet-deluxe.json](./395062-star-fleet-deluxe.json) |
 | Star Fleet I: The War Begins! | 25939 | [25939-star-fleet-i-the-war-begins.json](./25939-star-fleet-i-the-war-begins.json) |
 | Star Force | 284222 | [284222-star-force.json](./284222-star-force.json) |
 | Star Force | 288103 | [288103-star-force.json](./288103-star-force.json) |
@@ -26323,6 +26324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Dogfighter | 137357 | [137357-stream-dogfighter.json](./137357-stream-dogfighter.json) |
 | Stream Draws | 139448 | [139448-stream-draws.json](./139448-stream-draws.json) |
 | Stream Fighters | 126578 | [126578-stream-fighters.json](./126578-stream-fighters.json) |
+| Stream Games | 395067 | [395067-stream-games.json](./395067-stream-games.json) |
 | Stream Madness | 150685 | [150685-stream-madness.json](./150685-stream-madness.json) |
 | Stream or Die! | 292306 | [292306-stream-or-die.json](./292306-stream-or-die.json) |
 | Stream Pairs | 191270 | [191270-stream-pairs.json](./191270-stream-pairs.json) |
