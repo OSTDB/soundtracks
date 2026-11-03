@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lost Man | 403628 | [403628-a-lost-man.json](./403628-a-lost-man.json) |
 | A Lost Note | 244748 | [244748-a-lost-note.json](./244748-a-lost-note.json) |
 | A Lost Room | 29058 | [29058-a-lost-room.json](./29058-a-lost-room.json) |
+| A Lost Whisker | 381531 | [381531-a-lost-whisker.json](./381531-a-lost-whisker.json) |
 | A Lot of Asteroids | 185347 | [185347-a-lot-of-asteroids.json](./185347-a-lot-of-asteroids.json) |
 | A Lot of Universes | 135727 | [135727-a-lot-of-universes.json](./135727-a-lot-of-universes.json) |
 | A Lounge Somewhere | 352388 | [352388-a-lounge-somewhere.json](./352388-a-lounge-somewhere.json) |
@@ -3920,6 +3921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AEW: Rise to the Top | 283001 | [283001-aew-rise-to-the-top.json](./283001-aew-rise-to-the-top.json) |
 | Aexia | 258924 | [258924-aexia.json](./258924-aexia.json) |
 | Afallon | 283879 | [283879-afallon.json](./283879-afallon.json) |
+| AFAR: An Interactive Horror Film | 381551 | [381551-afar-an-interactive-horror-film.json](./381551-afar-an-interactive-horror-film.json) |
 | Afarid | 110746 | [110746-afarid.json](./110746-afarid.json) |
 | Afei's Trouble | 357790 | [357790-afeis-trouble.json](./357790-afeis-trouble.json) |
 | Afelhem | 107720 | [107720-afelhem.json](./107720-afelhem.json) |
@@ -5250,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirDrive | 402046 | [402046-airdrive.json](./402046-airdrive.json) |
 | Aireo Flight Simulator 2025 Edition | 328579 | [328579-aireo-flight-simulator-2025-edition.json](./328579-aireo-flight-simulator-2025-edition.json) |
 | Aireo FlightSimulator | 264563 | [264563-aireo-flightsimulator.json](./264563-aireo-flightsimulator.json) |
+| AIRevolution | 381550 | [381550-airevolution.json](./381550-airevolution.json) |
 | Airfield Mania | 87900 | [87900-airfield-mania.json](./87900-airfield-mania.json) |
 | Airfight | 67637 | [67637-airfight.json](./67637-airfight.json) |
 | AirFighter | 193485 | [193485-airfighter.json](./193485-airfighter.json) |
@@ -8719,6 +8722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Conquest: The Golden Fleece | 7713 | [7713-ancient-conquest-the-golden-fleece.json](./7713-ancient-conquest-the-golden-fleece.json) |
 | Ancient Cultivatrix | 290502 | [290502-ancient-cultivatrix.json](./290502-ancient-cultivatrix.json) |
 | Ancient Cultures: Tikal's Realm | 216466 | [216466-ancient-cultures-tikals-realm.json](./216466-ancient-cultures-tikals-realm.json) |
+| Ancient Dangers | 381750 | [381750-ancient-dangers.json](./381750-ancient-dangers.json) |
 | Ancient Demon Shadow | 304817 | [304817-ancient-demon-shadow.json](./304817-ancient-demon-shadow.json) |
 | Ancient Demons | 232110 | [232110-ancient-demons.json](./232110-ancient-demons.json) |
 | Ancient Dino Runner | 156227 | [156227-ancient-dino-runner.json](./156227-ancient-dino-runner.json) |
@@ -15156,6 +15160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Kitty: Space Mining | 422490 | [422490-astro-kitty-space-mining.json](./422490-astro-kitty-space-mining.json) |
 | Astro Knight | 217371 | [217371-astro-knight.json](./217371-astro-knight.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
+| Astro Loopers | 381523 | [381523-astro-loopers.json](./381523-astro-loopers.json) |
 | Astro Looter | 304469 | [304469-astro-looter.json](./304469-astro-looter.json) |
 | Astro Lords: Oort Cloud | 35194 | [35194-astro-lords-oort-cloud.json](./35194-astro-lords-oort-cloud.json) |
 | Astro Maths | 15605 | [15605-astro-maths.json](./15605-astro-maths.json) |
