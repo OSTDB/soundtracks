@@ -16548,6 +16548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aussie Bogan Hero | 244401 | [244401-aussie-bogan-hero.json](./244401-aussie-bogan-hero.json) |
 | Aussie Clowns At War | 190194 | [190194-aussie-clowns-at-war.json](./190194-aussie-clowns-at-war.json) |
 | Aussie Joker Poker | 14276 | [14276-aussie-joker-poker.json](./14276-aussie-joker-poker.json) |
+| Aussie Rules Evolution 2 | 354182 | [354182-aussie-rules-evolution-2.json](./354182-aussie-rules-evolution-2.json) |
 | Aussie Rules Footy | 9107 | [9107-aussie-rules-footy.json](./9107-aussie-rules-footy.json) |
 | Aussie Sports VR | 31920 | [31920-aussie-sports-vr.json](./31920-aussie-sports-vr.json) |
 | Austen Translation | 68768 | [68768-austen-translation.json](./68768-austen-translation.json) |
