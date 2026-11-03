@@ -8905,6 +8905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Mario 64 | 273745 | [273745-shotgun-mario-64.json](./273745-shotgun-mario-64.json) |
 | Shotgun Ninja | 70270 | [70270-shotgun-ninja.json](./70270-shotgun-ninja.json) |
 | Shotgun Raiders | 31862 | [31862-shotgun-raiders.json](./31862-shotgun-raiders.json) |
+| Shotgun Rogue | 382938 | [382938-shotgun-rogue.json](./382938-shotgun-rogue.json) |
 | Shotgun Science | 365155 | [365155-shotgun-science.json](./365155-shotgun-science.json) |
 | Shotgun Shenanigans | 279691 | [279691-shotgun-shenanigans.json](./279691-shotgun-shenanigans.json) |
 | Shotgun Symphony | 144262 | [144262-shotgun-symphony.json](./144262-shotgun-symphony.json) |
@@ -24327,6 +24328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starvedge | 349454 | [349454-starvedge.json](./349454-starvedge.json) |
 | Starveil | 258582 | [258582-starveil.json](./258582-starveil.json) |
 | Starverse: Requiem Aeternam Eden | 342543 | [342543-starverse-requiem-aeternam-eden.json](./342543-starverse-requiem-aeternam-eden.json) |
+| Starvester | 382810 | [382810-starvester.json](./382810-starvester.json) |
 | Starving | 28754 | [28754-starving.json](./28754-starving.json) |
 | Starving Cat | 326004 | [326004-starving-cat.json](./326004-starving-cat.json) |
 | Starving Gods | 401928 | [401928-starving-gods.json](./401928-starving-gods.json) |
@@ -24415,6 +24417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static Signal | 375824 | [375824-static-signal.json](./375824-static-signal.json) |
 | Static Sky | 114676 | [114676-static-sky.json](./114676-static-sky.json) |
 | Static Sky: And Yet It | 341159 | [341159-static-sky-and-yet-it.json](./341159-static-sky-and-yet-it.json) |
+| Static Voice | 382737 | [382737-static-voice.json](./382737-static-voice.json) |
 | Static-End | 178028 | [178028-static-end.json](./178028-static-end.json) |
 | Static: Investigator Training | 35671 | [35671-static-investigator-training.json](./35671-static-investigator-training.json) |
 | Static: The Beginning | 337744 | [337744-static-the-beginning.json](./337744-static-the-beginning.json) |
