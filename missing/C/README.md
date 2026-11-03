@@ -8997,6 +8997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claim Jumper | 18508 | [18508-claim-jumper.json](./18508-claim-jumper.json) |
 | Claim the Forest | 366209 | [366209-claim-the-forest.json](./366209-claim-the-forest.json) |
 | Claim the Forest: Settling Peace | 399618 | [399618-claim-the-forest-settling-peace.json](./399618-claim-the-forest-settling-peace.json) |
+| Claim thy Land | 395079 | [395079-claim-thy-land.json](./395079-claim-thy-land.json) |
 | Claim your Free BitBuddy Today! | 197064 | [197064-claim-your-free-bitbuddy-today.json](./197064-claim-your-free-bitbuddy-today.json) |
 | Claims & Caverns | 414284 | [414284-claims-and-caverns.json](./414284-claims-and-caverns.json) |
 | Clair & Lune | 184768 | [184768-clair-and-lune.json](./184768-clair-and-lune.json) |
@@ -13762,6 +13763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core MUD | 229773 | [229773-core-mud.json](./229773-core-mud.json) |
 | Core of Darkness | 117681 | [117681-core-of-darkness.json](./117681-core-of-darkness.json) |
 | Core of Innocence | 201127 | [201127-core-of-innocence.json](./201127-core-of-innocence.json) |
+| Core of Y | 395087 | [395087-core-of-y.json](./395087-core-of-y.json) |
 | Core Online | 59767 | [59767-core-online.json](./59767-core-online.json) |
 | Core Panic! | 416669 | [416669-core-panic.json](./416669-core-panic.json) |
 | Core Reaper | 408438 | [408438-core-reaper.json](./408438-core-reaper.json) |
