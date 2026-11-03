@@ -3937,6 +3937,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Manager Mobile | 234016 | [234016-tennis-manager-mobile.json](./234016-tennis-manager-mobile.json) |
 | Tennis Masters Series | 18334 | [18334-tennis-masters-series.json](./18334-tennis-masters-series.json) |
 | Tennis Masters Series 2003 | 23698 | [23698-tennis-masters-series-2003.json](./23698-tennis-masters-series-2003.json) |
+| Tennis Menace | 363629 | [363629-tennis-menace.json](./363629-tennis-menace.json) |
+| Tennis Menace | 363631 | [363631-tennis-menace.json](./363631-tennis-menace.json) |
 | Tennis Menace | 47262 | [47262-tennis-menace.json](./47262-tennis-menace.json) |
 | Tennis no Ouji-sama | 77688 | [77688-tennis-no-ouji-sama.json](./77688-tennis-no-ouji-sama.json) |
 | Tennis no Ouji-sama 2003: Cool Blue | 49849 | [49849-tennis-no-ouji-sama-2003-cool-blue.json](./49849-tennis-no-ouji-sama-2003-cool-blue.json) |
@@ -6234,6 +6236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Wall | 221292 | [221292-the-big-wall.json](./221292-the-big-wall.json) |
 | The Big Wave | 135018 | [135018-the-big-wave.json](./135018-the-big-wave.json) |
 | The Big, Friendly Thud! | 260937 | [260937-the-big-friendly-thud.json](./260937-the-big-friendly-thud.json) |
+| The Bigback Room | 363642 | [363642-the-bigback-room.json](./363642-the-bigback-room.json) |
 | The Bigger Picture | 359531 | [359531-the-bigger-picture.json](./359531-the-bigger-picture.json) |
 | The Biggest Creators of Empires | 72137 | [72137-the-biggest-creators-of-empires.json](./72137-the-biggest-creators-of-empires.json) |
 | The Biggest Loser | 48035 | [48035-the-biggest-loser.json](./48035-the-biggest-loser.json) |
@@ -15168,6 +15171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sacred Hero | 26872 | [26872-the-sacred-hero.json](./26872-the-sacred-hero.json) |
 | The Sacred Memory | 302323 | [302323-the-sacred-memory.json](./302323-the-sacred-memory.json) |
 | The Sacred Mirror of Kofun | 70081 | [70081-the-sacred-mirror-of-kofun.json](./70081-the-sacred-mirror-of-kofun.json) |
+| The Sacred Six Crystal: A Hero's Journey | 363640 | [363640-the-sacred-six-crystal-a-heros-journey.json](./363640-the-sacred-six-crystal-a-heros-journey.json) |
 | The Sacred Stone: A Story Adventure | 33777 | [33777-the-sacred-stone-a-story-adventure.json](./33777-the-sacred-stone-a-story-adventure.json) |
 | The Sacred Tears True | 9483 | [9483-the-sacred-tears-true.json](./9483-the-sacred-tears-true.json) |
 | The Sacrifice | 294370 | [294370-the-sacrifice.json](./294370-the-sacrifice.json) |
@@ -22654,6 +22658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tireless Pig | 219653 | [219653-tireless-pig.json](./219653-tireless-pig.json) |
 | Tireless: Prepare For the Adrenaline | 103279 | [103279-tireless-prepare-for-the-adrenaline.json](./103279-tireless-prepare-for-the-adrenaline.json) |
 | Tiresmoke | 103862 | [103862-tiresmoke.json](./103862-tiresmoke.json) |
+| Tiris | 363646 | [363646-tiris.json](./363646-tiris.json) |
 | Tirkiss ~Princess Shade~ | 60530 | [60530-tirkiss-princess-shade.json](./60530-tirkiss-princess-shade.json) |
 | Tirsy's Tale | 207611 | [207611-tirsys-tale.json](./207611-tirsys-tale.json) |
 | Tirta | 154777 | [154777-tirta.json](./154777-tirta.json) |
@@ -23590,6 +23595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom & Jerry 2 | 123248 | [123248-tom-and-jerry-2.json](./123248-tom-and-jerry-2.json) |
 | Tom & Jerry in Dynamice | 343181 | [343181-tom-and-jerry-in-dynamice.json](./343181-tom-and-jerry-in-dynamice.json) |
 | Tom & Jerry MMO | 79312 | [79312-tom-and-jerry-mmo.json](./79312-tom-and-jerry-mmo.json) |
+| Tom & Jerry Popper | 363633 | [363633-tom-and-jerry-popper.json](./363633-tom-and-jerry-popper.json) |
 | Tom & Jerry Popper | 47255 | [47255-tom-and-jerry-popper.json](./47255-tom-and-jerry-popper.json) |
 | Tom & Jerry: Hunting High and Low | 8024 | [8024-tom-and-jerry-hunting-high-and-low.json](./8024-tom-and-jerry-hunting-high-and-low.json) |
 | Tom & Jerry: The Ultimate Game of Cat and Mouse! | 8023 | [8023-tom-and-jerry-the-ultimate-game-of-cat-and-mouse.json](./8023-tom-and-jerry-the-ultimate-game-of-cat-and-mouse.json) |
@@ -29835,6 +29841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trompers | 296228 | [296228-trompers.json](./296228-trompers.json) |
 | Tron | 284223 | [284223-tron.json](./284223-tron.json) |
 | Tron | 297488 | [297488-tron.json](./297488-tron.json) |
+| Tron | 363619 | [363619-tron.json](./363619-tron.json) |
 | Tron | 5247 | [5247-tron.json](./5247-tron.json) |
 | Tron | 89933 | [89933-tron.json](./89933-tron.json) |
 | Tron 2.0 | 6217 | [6217-tron-2-0.json](./6217-tron-2-0.json) |
