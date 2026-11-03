@@ -10689,6 +10689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ants Times Infinity | 398648 | [398648-ants-times-infinity.json](./398648-ants-times-infinity.json) |
 | Ants Took My Eyeball | 211273 | [211273-ants-took-my-eyeball.json](./211273-ants-took-my-eyeball.json) |
 | Ants With Guns | 211436 | [211436-ants-with-guns.json](./211436-ants-with-guns.json) |
+| Ants: Leaf-al Warfare | 357689 | [357689-ants-leaf-al-warfare.json](./357689-ants-leaf-al-warfare.json) |
 | Ants! Mission of the Salvation | 101301 | [101301-ants-mission-of-the-salvation.json](./101301-ants-mission-of-the-salvation.json) |
 | Ants.io | 303333 | [303333-ants-io.json](./303333-ants-io.json) |
 | Antuel's Lament | 315621 | [315621-antuels-lament.json](./315621-antuels-lament.json) |
