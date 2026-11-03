@@ -1215,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samuel Prince Attorney at Law: Chapter 4 | 397791 | [397791-samuel-prince-attorney-at-law-chapter-4.json](./397791-samuel-prince-attorney-at-law-chapter-4.json) |
 | Samuel Sage: The Mystery at Penby Inn | 285505 | [285505-samuel-sage-the-mystery-at-penby-inn.json](./285505-samuel-sage-the-mystery-at-penby-inn.json) |
 | Samui kara Nabe Kuitai ne Joon-chan to!! | 330062 | [330062-samui-kara-nabe-kuitai-ne-joon-chan-to.json](./330062-samui-kara-nabe-kuitai-ne-joon-chan-to.json) |
+| Samukid | 361425 | [361425-samukid.json](./361425-samukid.json) |
 | Samurado | 244254 | [244254-samurado.json](./244254-samurado.json) |
 | Samurai | 140531 | [140531-samurai.json](./140531-samurai.json) |
 | Samurai | 199761 | [199761-samurai.json](./199761-samurai.json) |
@@ -2852,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Fighter | 317809 | [317809-school-fighter.json](./317809-school-fighter.json) |
 | School Flight Simulator | 234650 | [234650-school-flight-simulator.json](./234650-school-flight-simulator.json) |
 | School for the Friendless | 179366 | [179366-school-for-the-friendless.json](./179366-school-for-the-friendless.json) |
+| School Game | 361404 | [361404-school-game.json](./361404-school-game.json) |
 | School Girl Apartment Paradise | 210314 | [210314-school-girl-apartment-paradise.json](./210314-school-girl-apartment-paradise.json) |
 | School Girl Simulator | 265808 | [265808-school-girl-simulator.json](./265808-school-girl-simulator.json) |
 | School Girl/Zombie Hunter | 41827 | [41827-school-girl-zombie-hunter.json](./41827-school-girl-zombie-hunter.json) |
@@ -7584,6 +7586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shep Hard | 281439 | [281439-shep-hard.json](./281439-shep-hard.json) |
 | Shepard Fairey VR: Damaged | 110899 | [110899-shepard-fairey-vr-damaged.json](./110899-shepard-fairey-vr-damaged.json) |
 | Shepherd | 192319 | [192319-shepherd.json](./192319-shepherd.json) |
+| Shepherd | 361423 | [361423-shepherd.json](./361423-shepherd.json) |
 | Shepherd Dog | 249021 | [249021-shepherd-dog.json](./249021-shepherd-dog.json) |
 | Shepherd Knight | 372123 | [372123-shepherd-knight.json](./372123-shepherd-knight.json) |
 | Shepherd of Light | 121594 | [121594-shepherd-of-light.json](./121594-shepherd-of-light.json) |
@@ -10127,6 +10130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silkgrove | 338322 | [338322-silkgrove.json](./338322-silkgrove.json) |
 | Silkroad 8 | 394157 | [394157-silkroad-8.json](./394157-silkroad-8.json) |
 | Silkroad Online | 72944 | [72944-silkroad-online.json](./72944-silkroad-online.json) |
+| Silkroad Origin Mobile | 361403 | [361403-silkroad-origin-mobile.json](./361403-silkroad-origin-mobile.json) |
 | Silkroad Project | 398494 | [398494-silkroad-project.json](./398494-silkroad-project.json) |
 | Silktrails: Cats in the Grove | 351059 | [351059-silktrails-cats-in-the-grove.json](./351059-silktrails-cats-in-the-grove.json) |
 | Silktrails: Cats in the Grove 2 | 373271 | [373271-silktrails-cats-in-the-grove-2.json](./373271-silktrails-cats-in-the-grove-2.json) |
@@ -10338,6 +10342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simkea | 368231 | [368231-simkea.json](./368231-simkea.json) |
 | SimLife | 12768 | [12768-simlife.json](./12768-simlife.json) |
 | SimMayor | 138454 | [138454-simmayor.json](./138454-simmayor.json) |
+| SimNation | 361400 | [361400-simnation.json](./361400-simnation.json) |
 | Simnetzero | 234751 | [234751-simnetzero.json](./234751-simnetzero.json) |
 | Simogo Legacy Collection | 375500 | [375500-simogo-legacy-collection.json](./375500-simogo-legacy-collection.json) |
 | Simon | 324847 | [324847-simon.json](./324847-simon.json) |
@@ -21056,6 +21061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of War | 10838 | [10838-spirit-of-war.json](./10838-spirit-of-war.json) |
 | Spirit Overflow | 173249 | [173249-spirit-overflow.json](./173249-spirit-overflow.json) |
 | Spirit Parade | 56500 | [56500-spirit-parade.json](./56500-spirit-parade.json) |
+| Spirit Rancher | 361427 | [361427-spirit-rancher.json](./361427-spirit-rancher.json) |
 | Spirit Realm | 51498 | [51498-spirit-realm.json](./51498-spirit-realm.json) |
 | Spirit Realm Saga | 295336 | [295336-spirit-realm-saga.json](./295336-spirit-realm-saga.json) |
 | Spirit Reforged | 395286 | [395286-spirit-reforged.json](./395286-spirit-reforged.json) |
@@ -26351,6 +26357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger by Night | 73558 | [73558-stranger-by-night.json](./73558-stranger-by-night.json) |
 | Stranger Cases | 107567 | [107567-stranger-cases.json](./107567-stranger-cases.json) |
 | Stranger Danger or Horror, Quest and Magic | 197390 | [197390-stranger-danger-or-horror-quest-and-magic.json](./197390-stranger-danger-or-horror-quest-and-magic.json) |
+| Stranger Heroes | 361426 | [361426-stranger-heroes.json](./361426-stranger-heroes.json) |
 | Stranger in Utopia | 273871 | [273871-stranger-in-utopia.json](./273871-stranger-in-utopia.json) |
 | Stranger Mahjong | 390892 | [390892-stranger-mahjong.json](./390892-stranger-mahjong.json) |
 | Stranger of Paradise: Final Fantasy Origin - Collector's Edition | 201028 | [201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json](./201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json) |
@@ -27057,6 +27064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreetStep: 21st Century Basketball | 244930 | [244930-streetstep-21st-century-basketball.json](./244930-streetstep-21st-century-basketball.json) |
 | StreetSync | 332983 | [332983-streetsync.json](./332983-streetsync.json) |
 | Streichholz wegnehmen | 100042 | [100042-streichholz-wegnehmen.json](./100042-streichholz-wegnehmen.json) |
+| Strength | 361392 | [361392-strength.json](./361392-strength.json) |
 | Strength & Honour 2 | 54404 | [54404-strength-and-honour-2.json](./54404-strength-and-honour-2.json) |
 | Strength & Skill: Guiness Book of Records | 283734 | [283734-strength-and-skill-guiness-book-of-records.json](./283734-strength-and-skill-guiness-book-of-records.json) |
 | Strength & Virtue: Lord of Midchester | 225194 | [225194-strength-and-virtue-lord-of-midchester.json](./225194-strength-and-virtue-lord-of-midchester.json) |
@@ -32384,6 +32392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suqare: Hired Gun | 333171 | [333171-suqare-hired-gun.json](./333171-suqare-hired-gun.json) |
 | Sur | 159127 | [159127-sur.json](./159127-sur.json) |
 | Sur LC | 287564 | [287564-sur-lc.json](./287564-sur-lc.json) |
+| Sur Tout Le Retour | 361440 | [361440-sur-tout-le-retour.json](./361440-sur-tout-le-retour.json) |
 | Sur Tout Le Trajet | 179013 | [179013-sur-tout-le-trajet.json](./179013-sur-tout-le-trajet.json) |
 | Sur5 | 236310 | [236310-sur5.json](./236310-sur5.json) |
 | Sura: Shattered Star | 412474 | [412474-sura-shattered-star.json](./412474-sura-shattered-star.json) |
