@@ -2407,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make it Meme | 144934 | [144934-make-it-meme.json](./144934-make-it-meme.json) |
 | Make It Rain | 106249 | [106249-make-it-rain.json](./106249-make-it-rain.json) |
 | Make It Rain: The Love of Money | 61718 | [61718-make-it-rain-the-love-of-money.json](./61718-make-it-rain-the-love-of-money.json) |
+| Make It Stable | 383336 | [383336-make-it-stable.json](./383336-make-it-stable.json) |
 | Make It Stop! | 301349 | [301349-make-it-stop.json](./301349-make-it-stop.json) |
 | Make It True | 326679 | [326679-make-it-true.json](./326679-make-it-true.json) |
 | Make it! Crepe | 315839 | [315839-make-it-crepe.json](./315839-make-it-crepe.json) |
@@ -2615,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Tycoon 3 | 69181 | [69181-mall-tycoon-3.json](./69181-mall-tycoon-3.json) |
 | Mall-A-Palooza | 54213 | [54213-mall-a-palooza.json](./54213-mall-a-palooza.json) |
 | Mallard Hunt | 228276 | [228276-mallard-hunt.json](./228276-mallard-hunt.json) |
+| Malleable Girl Simulator | 383327 | [383327-malleable-girl-simulator.json](./383327-malleable-girl-simulator.json) |
 | Mallet Legend's Whac-A-Critter | 47054 | [47054-mallet-legends-whac-a-critter.json](./47054-mallet-legends-whac-a-critter.json) |
 | Mallet Mania | 308063 | [308063-mallet-mania.json](./308063-mallet-mania.json) |
 | Malleus Cocconum: The Heiress | 328106 | [328106-malleus-cocconum-the-heiress.json](./328106-malleus-cocconum-the-heiress.json) |
@@ -8865,6 +8867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merlin Racing | 51184 | [51184-merlin-racing.json](./51184-merlin-racing.json) |
 | Merlin Soccer | 105662 | [105662-merlin-soccer.json](./105662-merlin-soccer.json) |
 | Merlin Survivors | 374165 | [374165-merlin-survivors.json](./374165-merlin-survivors.json) |
+| Merlin: A Servant of Two Masters | 383335 | [383335-merlin-a-servant-of-two-masters.json](./383335-merlin-a-servant-of-two-masters.json) |
 | Merlin: The Game | 304206 | [304206-merlin-the-game.json](./304206-merlin-the-game.json) |
 | Merlin's Apprentice | 45913 | [45913-merlins-apprentice.json](./45913-merlins-apprentice.json) |
 | Merlin's Chess | 325875 | [325875-merlins-chess.json](./325875-merlins-chess.json) |
@@ -18680,6 +18683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutation Nation | 39522 | [39522-mutation-nation.json](./39522-mutation-nation.json) |
 | Mutation of J.B. | 186582 | [186582-mutation-of-j-b.json](./186582-mutation-of-j-b.json) |
 | Mutation Phase | 105093 | [105093-mutation-phase.json](./105093-mutation-phase.json) |
+| Mutation Village | 383323 | [383323-mutation-village.json](./383323-mutation-village.json) |
 | Mutations | 300556 | [300556-mutations.json](./300556-mutations.json) |
 | Mutato Match | 34736 | [34736-mutato-match.json](./34736-mutato-match.json) |
 | Mute Crimson DX | 293595 | [293595-mute-crimson-dx.json](./293595-mute-crimson-dx.json) |
