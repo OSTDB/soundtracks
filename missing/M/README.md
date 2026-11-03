@@ -8984,6 +8984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Villa | 227958 | [227958-merge-villa.json](./227958-merge-villa.json) |
 | Merge War: Super Legion Master | 262375 | [262375-merge-war-super-legion-master.json](./262375-merge-war-super-legion-master.json) |
 | Merge Wood | 220181 | [220181-merge-wood.json](./220181-merge-wood.json) |
+| Merge World Alchemist | 349590 | [349590-merge-world-alchemist.json](./349590-merge-world-alchemist.json) |
 | Merge Your Room: Extended Edition | 231259 | [231259-merge-your-room-extended-edition.json](./231259-merge-your-room-extended-edition.json) |
 | Merge Your Room: Toys Pack | 231229 | [231229-merge-your-room-toys-pack.json](./231229-merge-your-room-toys-pack.json) |
 | Merge Zoo | 224105 | [224105-merge-zoo.json](./224105-merge-zoo.json) |
@@ -19532,6 +19533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend Aki | 274353 | [274353-my-friend-aki.json](./274353-my-friend-aki.json) |
 | My Friend Barrington | 398323 | [398323-my-friend-barrington.json](./398323-my-friend-barrington.json) |
 | My Friend Koo | 206771 | [206771-my-friend-koo.json](./206771-my-friend-koo.json) |
+| My Friend Pedro x Shotgun Cop Man Bundle | 349610 | [349610-my-friend-pedro-x-shotgun-cop-man-bundle.json](./349610-my-friend-pedro-x-shotgun-cop-man-bundle.json) |
 | My Friend Peppa Pig: Complete Edition | 214721 | [214721-my-friend-peppa-pig-complete-edition.json](./214721-my-friend-peppa-pig-complete-edition.json) |
 | My Friend Peppa Pig: Pirate Adventures | 195617 | [195617-my-friend-peppa-pig-pirate-adventures.json](./195617-my-friend-peppa-pig-pirate-adventures.json) |
 | My Friend Spooner | 22137 | [22137-my-friend-spooner.json](./22137-my-friend-spooner.json) |
