@@ -1728,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Collision | 165748 | [165748-captain-collision.json](./165748-captain-collision.json) |
 | Captain Comet | 400453 | [400453-captain-comet.json](./400453-captain-comet.json) |
 | Captain Comic: The Adventure | 48110 | [48110-captain-comic-the-adventure.json](./48110-captain-comic-the-adventure.json) |
+| Captain Commander | 396965 | [396965-captain-commander.json](./396965-captain-commander.json) |
 | Captain Commander's Conquest | 366566 | [366566-captain-commanders-conquest.json](./366566-captain-commanders-conquest.json) |
 | Captain Commando | 19821 | [19821-captain-commando.json](./19821-captain-commando.json) |
 | Captain Contraband | 129201 | [129201-captain-contraband.json](./129201-captain-contraband.json) |
@@ -6814,6 +6815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiki-chiki Machine Mou Race: Kenken to Black Maou no Ijiwaru Daisakusen | 245250 | [245250-chiki-chiki-machine-mou-race-kenken-to-black-maou-no-ijiwaru-daisakusen.json](./245250-chiki-chiki-machine-mou-race-kenken-to-black-maou-no-ijiwaru-daisakusen.json) |
 | Chiki-Chiki Tengoku | 49095 | [49095-chiki-chiki-tengoku.json](./49095-chiki-chiki-tengoku.json) |
 | Chiki's Chase | 204918 | [204918-chikis-chase.json](./204918-chikis-chase.json) |
+| Chiklet's Human Products | 396991 | [396991-chiklets-human-products.json](./396991-chiklets-human-products.json) |
 | Chikn Nuggit Nightmare Fwiends | 275929 | [275929-chikn-nuggit-nightmare-fwiends.json](./275929-chikn-nuggit-nightmare-fwiends.json) |
 | Chiko-chan no Noukatsu Kenkyuujo | 251520 | [251520-chiko-chan-no-noukatsu-kenkyuujo.json](./251520-chiko-chan-no-noukatsu-kenkyuujo.json) |
 | Chikoku no Mokushiroku | 150555 | [150555-chikoku-no-mokushiroku.json](./150555-chikoku-no-mokushiroku.json) |
@@ -7036,6 +7038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Chess Wargame | 259502 | [259502-chinese-chess-wargame.json](./259502-chinese-chess-wargame.json) |
 | Chinese Chess, Xiangqi (Professional Edition) | 101565 | [101565-chinese-chess-xiangqi-professional-edition.json](./101565-chinese-chess-xiangqi-professional-edition.json) |
 | Chinese Chess: Elephant Game | 72872 | [72872-chinese-chess-elephant-game.json](./72872-chinese-chess-elephant-game.json) |
+| Chinese Chess: Xiangqi | 396997 | [396997-chinese-chess-xiangqi.json](./396997-chinese-chess-xiangqi.json) |
 | Chinese Culinary Shop | 276221 | [276221-chinese-culinary-shop.json](./276221-chinese-culinary-shop.json) |
 | Chinese Driving Test Simulator | 189929 | [189929-chinese-driving-test-simulator.json](./189929-chinese-driving-test-simulator.json) |
 | Chinese Empire | 155923 | [155923-chinese-empire.json](./155923-chinese-empire.json) |
@@ -15944,6 +15947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cream Me | 158397 | [158397-cream-me.json](./158397-cream-me.json) |
 | Cream Soda Club | 249940 | [249940-cream-soda-club.json](./249940-cream-soda-club.json) |
 | Cream War | 239746 | [239746-cream-war.json](./239746-cream-war.json) |
+| Cream Wolf | 396973 | [396973-cream-wolf.json](./396973-cream-wolf.json) |
 | Creamare: The Game | 339338 | [339338-creamare-the-game.json](./339338-creamare-the-game.json) |
 | Creamy Dream Restaurant | 87242 | [87242-creamy-dream-restaurant.json](./87242-creamy-dream-restaurant.json) |
 | Creamy Mami: Futari no Rondo | 184477 | [184477-creamy-mami-futari-no-rondo.json](./184477-creamy-mami-futari-no-rondo.json) |
