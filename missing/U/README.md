@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Hunt Challenge | 94346 | [94346-ultimate-hunt-challenge.json](./94346-ultimate-hunt-challenge.json) |
 | Ultimate Hunting | 337832 | [337832-ultimate-hunting.json](./337832-ultimate-hunting.json) |
 | Ultimate I Spy | 5252 | [5252-ultimate-i-spy.json](./5252-ultimate-i-spy.json) |
+| Ultimate Incremental Resource | 365960 | [365960-ultimate-incremental-resource.json](./365960-ultimate-incremental-resource.json) |
 | Ultimate Indie Racing | 306651 | [306651-ultimate-indie-racing.json](./306651-ultimate-indie-racing.json) |
 | Ultimate Jan Ken Pon | 22033 | [22033-ultimate-jan-ken-pon.json](./22033-ultimate-jan-ken-pon.json) |
 | Ultimate Janitor Simulator | 390866 | [390866-ultimate-janitor-simulator.json](./390866-ultimate-janitor-simulator.json) |
@@ -3197,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Kick Academy | 78353 | [78353-urban-kick-academy.json](./78353-urban-kick-academy.json) |
 | Urban Legend Hunters: Ghosts in the Circuit | 369921 | [369921-urban-legend-hunters-ghosts-in-the-circuit.json](./369921-urban-legend-hunters-ghosts-in-the-circuit.json) |
 | Urban Legends | 17384 | [17384-urban-legends.json](./17384-urban-legends.json) |
+| Urban Legends: The Dry Body | 369288 | [369288-urban-legends-the-dry-body.json](./369288-urban-legends-the-dry-body.json) |
 | Urban Legends: The Maze | 57964 | [57964-urban-legends-the-maze.json](./57964-urban-legends-the-maze.json) |
 | Urban Mage | 160034 | [160034-urban-mage.json](./160034-urban-mage.json) |
 | Urban Massacre | 278500 | [278500-urban-massacre.json](./278500-urban-massacre.json) |
