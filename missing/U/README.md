@@ -2638,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unrested Development | 68579 | [68579-unrested-development.json](./68579-unrested-development.json) |
 | Unrestrained | 231356 | [231356-unrestrained.json](./231356-unrestrained.json) |
 | Unrestricted Pest Control | 262824 | [262824-unrestricted-pest-control.json](./262824-unrestricted-pest-control.json) |
+| Unreturning | 350152 | [350152-unreturning.json](./350152-unreturning.json) |
 | Unriddle | 187435 | [187435-unriddle.json](./187435-unriddle.json) |
 | Unrivaled | 421359 | [421359-unrivaled.json](./421359-unrivaled.json) |
 | Unrivaled Heroes | 278933 | [278933-unrivaled-heroes.json](./278933-unrivaled-heroes.json) |
