@@ -4772,6 +4772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets at Work | 190153 | [190153-pets-at-work.json](./190153-pets-at-work.json) |
 | Pets Crossing | 247028 | [247028-pets-crossing.json](./247028-pets-crossing.json) |
 | Pets Fun House | 90466 | [90466-pets-fun-house.json](./90466-pets-fun-house.json) |
+| Pets Hidden In The Office | 379068 | [379068-pets-hidden-in-the-office.json](./379068-pets-hidden-in-the-office.json) |
 | Pets Hotel | 216607 | [216607-pets-hotel.json](./216607-pets-hotel.json) |
 | Pets in Action Bundle | 212787 | [212787-pets-in-action-bundle.json](./212787-pets-in-action-bundle.json) |
 | Pets Live | 340799 | [340799-pets-live.json](./340799-pets-live.json) |
@@ -15628,6 +15629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prompt | 35336 | [35336-prompt.json](./35336-prompt.json) |
 | PromptCrafter | 297912 | [297912-promptcrafter.json](./297912-promptcrafter.json) |
 | Pröng | 183003 | [183003-prong.json](./183003-prong.json) |
+| Pronoun Palace | 379066 | [379066-pronoun-palace.json](./379066-pronoun-palace.json) |
 | Pronty | 143125 | [143125-pronty.json](./143125-pronty.json) |
 | Proof of Existence | 405467 | [405467-proof-of-existence.json](./405467-proof-of-existence.json) |
 | Proof-O: Super Godotrio | 334739 | [334739-proof-o-super-godotrio.json](./334739-proof-o-super-godotrio.json) |
