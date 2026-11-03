@@ -14596,6 +14596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Process of Elimination | 216583 | [216583-process-of-elimination.json](./216583-process-of-elimination.json) |
 | Process of Elimination: Deluxe Edition | 216584 | [216584-process-of-elimination-deluxe-edition.json](./216584-process-of-elimination-deluxe-edition.json) |
 | Procession Engine | 413079 | [413079-procession-engine.json](./413079-procession-engine.json) |
+| Processor Tycoon | 361407 | [361407-processor-tycoon.json](./361407-processor-tycoon.json) |
 | Procrabstination | 199216 | [199216-procrabstination.json](./199216-procrabstination.json) |
 | Procrastinaire: Solitairy Confinement | 179932 | [179932-procrastinaire-solitairy-confinement.json](./179932-procrastinaire-solitairy-confinement.json) |
 | Procrastinaut | 270951 | [270951-procrastinaut.json](./270951-procrastinaut.json) |
