@@ -1416,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KeelOver | 399140 | [399140-keelover.json](./399140-keelover.json) |
 | Keen | 30163 | [30163-keen.json](./30163-keen.json) |
 | Keena The Voidslayer | 419332 | [419332-keena-the-voidslayer.json](./419332-keena-the-voidslayer.json) |
+| Keep | 373786 | [373786-keep.json](./373786-keep.json) |
 | Keep Away | 359741 | [359741-keep-away.json](./359741-keep-away.json) |
 | Keep Balance VR | 29454 | [29454-keep-balance-vr.json](./29454-keep-balance-vr.json) |
 | Keep Combo | 255052 | [255052-keep-combo.json](./255052-keep-combo.json) |
