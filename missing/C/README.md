@@ -17417,6 +17417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader: No Remorse | 207101 | [207101-crusader-no-remorse.json](./207101-crusader-no-remorse.json) |
 | Crusader: No Remorse | 7840 | [7840-crusader-no-remorse.json](./7840-crusader-no-remorse.json) |
 | Crusader's March | 240627 | [240627-crusaders-march.json](./240627-crusaders-march.json) |
+| Crusaderman | 365949 | [365949-crusaderman.json](./365949-crusaderman.json) |
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
 | Crusaders of Solaria | 61380 | [61380-crusaders-of-solaria.json](./61380-crusaders-of-solaria.json) |
 | Crusaders Quest : Mini | 379602 | [379602-crusaders-quest-mini.json](./379602-crusaders-quest-mini.json) |
@@ -19250,6 +19251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber City Escape | 149725 | [149725-cyber-city-escape.json](./149725-cyber-city-escape.json) |
 | Cyber City Knights | 299005 | [299005-cyber-city-knights.json](./299005-cyber-city-knights.json) |
 | Cyber City Oedo 808: Kemono no Zokusei | 64382 | [64382-cyber-city-oedo-808-kemono-no-zokusei.json](./64382-cyber-city-oedo-808-kemono-no-zokusei.json) |
+| Cyber Cleaner Simulator | 365974 | [365974-cyber-cleaner-simulator.json](./365974-cyber-cleaner-simulator.json) |
 | Cyber Clutch: Hot Import Nights | 302383 | [302383-cyber-clutch-hot-import-nights.json](./302383-cyber-clutch-hot-import-nights.json) |
 | Cyber Clutch: Hot Import Nights - Overdrive Pack | 322637 | [322637-cyber-clutch-hot-import-nights-overdrive-pack.json](./322637-cyber-clutch-hot-import-nights-overdrive-pack.json) |
 | Cyber Combat | 236335 | [236335-cyber-combat.json](./236335-cyber-combat.json) |
@@ -19367,6 +19369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Sex | 294054 | [294054-cyber-sex.json](./294054-cyber-sex.json) |
 | Cyber Shadow | 116650 | [116650-cyber-shadow.json](./116650-cyber-shadow.json) |
 | Cyber Shard Clicker | 374205 | [374205-cyber-shard-clicker.json](./374205-cyber-shard-clicker.json) |
+| Cyber Siege | 365975 | [365975-cyber-siege.json](./365975-cyber-siege.json) |
 | Cyber Skirmish | 226517 | [226517-cyber-skirmish.json](./226517-cyber-skirmish.json) |
 | Cyber Slayer | 219672 | [219672-cyber-slayer.json](./219672-cyber-slayer.json) |
 | Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
