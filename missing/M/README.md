@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maestria | 207841 | [207841-maestria.json](./207841-maestria.json) |
 | Maestro | 184279 | [184279-maestro.json](./184279-maestro.json) |
 | Maestro | 306924 | [306924-maestro.json](./306924-maestro.json) |
+| Maestro | 397480 | [397480-maestro.json](./397480-maestro.json) |
 | Maestro Mario | 328592 | [328592-maestro-mario.json](./328592-maestro-mario.json) |
 | Maestro VR | 174017 | [174017-maestro-vr.json](./174017-maestro-vr.json) |
 | Maestro: Attack on Titan | 414808 | [414808-maestro-attack-on-titan.json](./414808-maestro-attack-on-titan.json) |
@@ -1462,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Merge: Fairy Adventure | 309501 | [309501-magical-merge-fairy-adventure.json](./309501-magical-merge-fairy-adventure.json) |
 | Magical Mic Duel: Senpai, Hear My Spell | 288167 | [288167-magical-mic-duel-senpai-hear-my-spell.json](./288167-magical-mic-duel-senpai-hear-my-spell.json) |
 | Magical MILFs | 136257 | [136257-magical-milfs.json](./136257-magical-milfs.json) |
+| Magical Mishaps | 397501 | [397501-magical-mishaps.json](./397501-magical-mishaps.json) |
 | Magical Monster Land | 110671 | [110671-magical-monster-land.json](./110671-magical-monster-land.json) |
 | Magical Monstergirls Academy | 276251 | [276251-magical-monstergirls-academy.json](./276251-magical-monstergirls-academy.json) |
 | Magical Mysteries: Path of the Sorceress | 30714 | [30714-magical-mysteries-path-of-the-sorceress.json](./30714-magical-mysteries-path-of-the-sorceress.json) |
@@ -8881,6 +8883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Swamp | 287635 | [287635-mermaid-swamp.json](./287635-mermaid-swamp.json) |
 | Mermaid Swamp | 62117 | [62117-mermaid-swamp.json](./62117-mermaid-swamp.json) |
 | Mermaid Tail | 302132 | [302132-mermaid-tail.json](./302132-mermaid-tail.json) |
+| Mermaid's Cove | 397494 | [397494-mermaids-cove.json](./397494-mermaids-cove.json) |
 | Mermaidio | 222766 | [222766-mermaidio.json](./222766-mermaidio.json) |
 | Mermaidio 3 | 229077 | [229077-mermaidio-3.json](./229077-mermaidio-3.json) |
 | Mermaids Are Seafood | 381188 | [381188-mermaids-are-seafood.json](./381188-mermaids-are-seafood.json) |
@@ -13882,6 +13885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mogitate: Bearing Fruit | 400579 | [400579-mogitate-bearing-fruit.json](./400579-mogitate-bearing-fruit.json) |
 | MogMog Planet | 316034 | [316034-mogmog-planet.json](./316034-mogmog-planet.json) |
 | Mogo Invasion | 48004 | [48004-mogo-invasion.json](./48004-mogo-invasion.json) |
+| Mogo-Mogo | 397560 | [397560-mogo-mogo.json](./397560-mogo-mogo.json) |
 | Mogrimera: Disciple of Order | 249907 | [249907-mogrimera-disciple-of-order.json](./249907-mogrimera-disciple-of-order.json) |
 | Mogu Valley | 371607 | [371607-mogu-valley.json](./371607-mogu-valley.json) |
 | Mogu-mogu Gombo | 228622 | [228622-mogu-mogu-gombo.json](./228622-mogu-mogu-gombo.json) |
@@ -17987,6 +17991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mummy Maze Deluxe | 62007 | [62007-mummy-maze-deluxe.json](./62007-mummy-maze-deluxe.json) |
 | Mummy on the run | 107687 | [107687-mummy-on-the-run.json](./107687-mummy-on-the-run.json) |
 | Mummy Sandbox | 175883 | [175883-mummy-sandbox.json](./175883-mummy-sandbox.json) |
+| Mummy Twist | 397511 | [397511-mummy-twist.json](./397511-mummy-twist.json) |
 | Mummy, mummy, mummy! | 165692 | [165692-mummy-mummy-mummy.json](./165692-mummy-mummy-mummy.json) |
 | Mummy: Egyptian Puzzle | 313460 | [313460-mummy-egyptian-puzzle.json](./313460-mummy-egyptian-puzzle.json) |
 | Mummy's Curse | 24852 | [24852-mummys-curse.json](./24852-mummys-curse.json) |
