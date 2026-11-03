@@ -4485,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator | 401718 | [401718-gladiator.json](./401718-gladiator.json) |
 | Gladiator 1984 | 38645 | [38645-gladiator-1984.json](./38645-gladiator-1984.json) |
 | Gladiator 3D | 403536 | [403536-gladiator-3d.json](./403536-gladiator-3d.json) |
+| Gladiator Ascension | 392592 | [392592-gladiator-ascension.json](./392592-gladiator-ascension.json) |
 | Gladiator Bastards | 114698 | [114698-gladiator-bastards.json](./114698-gladiator-bastards.json) |
 | Gladiator Command | 391532 | [391532-gladiator-command.json](./391532-gladiator-command.json) |
 | Gladiator Fights | 343401 | [343401-gladiator-fights.json](./343401-gladiator-fights.json) |
@@ -7771,6 +7772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapploteer | 253213 | [253213-grapploteer.json](./253213-grapploteer.json) |
 | Grapply | 31612 | [31612-grapply.json](./31612-grapply.json) |
 | Grashers | 124247 | [124247-grashers.json](./124247-grashers.json) |
+| Grass | 392682 | [392682-grass.json](./392682-grass.json) |
 | Grass Cut | 189917 | [189917-grass-cut.json](./189917-grass-cut.json) |
 | Grass Cutter 9000: Director's Cut | 414763 | [414763-grass-cutter-9000-directors-cut.json](./414763-grass-cutter-9000-directors-cut.json) |
 | Grass Cutter: Mutated Lawns | 120257 | [120257-grass-cutter-mutated-lawns.json](./120257-grass-cutter-mutated-lawns.json) |
@@ -9752,6 +9754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GuessMe! | 183809 | [183809-guessme.json](./183809-guessme.json) |
 | Guessmoji | 231463 | [231463-guessmoji.json](./231463-guessmoji.json) |
 | Guessr.tv | 268667 | [268667-guessr-tv.json](./268667-guessr-tv.json) |
+| Guesstimation | 392601 | [392601-guesstimation.json](./392601-guesstimation.json) |
 | GuessWhat | 94931 | [94931-guesswhat.json](./94931-guesswhat.json) |
 | GuessWord | 92953 | [92953-guessword.json](./92953-guessword.json) |
 | Guesswork: Heroes of Cosplay | 110196 | [110196-guesswork-heroes-of-cosplay.json](./110196-guesswork-heroes-of-cosplay.json) |
