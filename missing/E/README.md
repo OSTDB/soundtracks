@@ -1644,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eidolon | 183752 | [183752-eidolon.json](./183752-eidolon.json) |
 | Eidolon Adventure | 119459 | [119459-eidolon-adventure.json](./119459-eidolon-adventure.json) |
 | Eidolon Awakened | 262874 | [262874-eidolon-awakened.json](./262874-eidolon-awakened.json) |
+| Eidolons Cross | 376617 | [376617-eidolons-cross.json](./376617-eidolons-cross.json) |
 | Eidolons: Nethergate | 116818 | [116818-eidolons-nethergate.json](./116818-eidolons-nethergate.json) |
 | Eien | 392743 | [392743-eien.json](./392743-eien.json) |
 | Eien no Filena | 15899 | [15899-eien-no-filena.json](./15899-eien-no-filena.json) |
@@ -4424,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epoch | 24889 | [24889-epoch.json](./24889-epoch.json) |
 | Epoch | 339758 | [339758-epoch.json](./339758-epoch.json) |
 | Epoch | 369120 | [369120-epoch.json](./369120-epoch.json) |
+| Epoch | 376618 | [376618-epoch.json](./376618-epoch.json) |
 | Epoch 2 | 23485 | [23485-epoch-2.json](./23485-epoch-2.json) |
 | Epoch Cycle | 374134 | [374134-epoch-cycle.json](./374134-epoch-cycle.json) |
 | Epoch Makers | 339760 | [339760-epoch-makers.json](./339760-epoch-makers.json) |
