@@ -7624,6 +7624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Hair Salon | 96837 | [96837-christmas-hair-salon.json](./96837-christmas-hair-salon.json) |
 | Christmas Hentai Party | 418859 | [418859-christmas-hentai-party.json](./418859-christmas-hentai-party.json) |
 | Christmas Hidden Objects | 102729 | [102729-christmas-hidden-objects.json](./102729-christmas-hidden-objects.json) |
+| Christmas Holidays | 385120 | [385120-christmas-holidays.json](./385120-christmas-holidays.json) |
 | Christmas Horror | 185877 | [185877-christmas-horror.json](./185877-christmas-horror.json) |
 | Christmas Horror Land | 336538 | [336538-christmas-horror-land.json](./336538-christmas-horror-land.json) |
 | Christmas Horse 4 | 280858 | [280858-christmas-horse-4.json](./280858-christmas-horse-4.json) |
@@ -10092,6 +10093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clout Chaser | 401064 | [401064-clout-chaser.json](./401064-clout-chaser.json) |
 | Clouzy! | 136984 | [136984-clouzy.json](./136984-clouzy.json) |
 | Cloven Crania Meadow | 52503 | [52503-cloven-crania-meadow.json](./52503-cloven-crania-meadow.json) |
+| Clover Cove | 385119 | [385119-clover-cove.json](./385119-clover-cove.json) |
 | Clover Cuby | 267340 | [267340-clover-cuby.json](./267340-clover-cuby.json) |
 | Clover Day's Plus | 254554 | [254554-clover-days-plus.json](./254554-clover-days-plus.json) |
 | Clover Day's: Making for Happiness | 60433 | [60433-clover-days-making-for-happiness.json](./60433-clover-days-making-for-happiness.json) |
@@ -11361,6 +11363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Soul: Memories | 124229 | [124229-color-soul-memories.json](./124229-color-soul-memories.json) |
 | Color Souls | 167604 | [167604-color-souls.json](./167604-color-souls.json) |
 | Color Space | 133735 | [133735-color-space.json](./133735-color-space.json) |
+| Color Space Fever | 385233 | [385233-color-space-fever.json](./385233-color-space-fever.json) |
 | Color Spin | 96917 | [96917-color-spin.json](./96917-color-spin.json) |
 | Color Splash: Animals | 276677 | [276677-color-splash-animals.json](./276677-color-splash-animals.json) |
 | Color Splash: Birds | 264764 | [264764-color-splash-birds.json](./264764-color-splash-birds.json) |
@@ -14113,6 +14116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Bugs | 72161 | [72161-cosmic-bugs.json](./72161-cosmic-bugs.json) |
 | Cosmic Call | 319212 | [319212-cosmic-call.json](./319212-cosmic-call.json) |
 | Cosmic Cannon | 327195 | [327195-cosmic-cannon.json](./327195-cosmic-cannon.json) |
+| Cosmic Cargo | 385348 | [385348-cosmic-cargo.json](./385348-cosmic-cargo.json) |
 | Cosmic Carnage | 253342 | [253342-cosmic-carnage.json](./253342-cosmic-carnage.json) |
 | Cosmic Carnage | 45883 | [45883-cosmic-carnage.json](./45883-cosmic-carnage.json) |
 | Cosmic Carnage: Prologue | 277943 | [277943-cosmic-carnage-prologue.json](./277943-cosmic-carnage-prologue.json) |
@@ -16978,6 +16982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroads of Fate | 185601 | [185601-crossroads-of-fate.json](./185601-crossroads-of-fate.json) |
 | Crossroads of Life | 213323 | [213323-crossroads-of-life.json](./213323-crossroads-of-life.json) |
 | Crossroads: Escaping the Dark - Collector's Edition | 225976 | [225976-crossroads-escaping-the-dark-collectors-edition.json](./225976-crossroads-escaping-the-dark-collectors-edition.json) |
+| Crossroads: Fatal Truths | 385225 | [385225-crossroads-fatal-truths.json](./385225-crossroads-fatal-truths.json) |
 | Crossroads: Fatal Truths - Collector's Edition | 383745 | [383745-crossroads-fatal-truths-collectors-edition.json](./383745-crossroads-fatal-truths-collectors-edition.json) |
 | Crossroads: Lucky Edition | 113241 | [113241-crossroads-lucky-edition.json](./113241-crossroads-lucky-edition.json) |
 | Crossroads: On a Just Path - Collector's Edition | 187306 | [187306-crossroads-on-a-just-path-collectors-edition.json](./187306-crossroads-on-a-just-path-collectors-edition.json) |
