@@ -15601,6 +15601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadows of Mordor | 70055 | [70055-the-shadows-of-mordor.json](./70055-the-shadows-of-mordor.json) |
 | The Shadows of Pygmalion | 30693 | [30693-the-shadows-of-pygmalion.json](./30693-the-shadows-of-pygmalion.json) |
 | The Shadows of Sergoth | 107055 | [107055-the-shadows-of-sergoth.json](./107055-the-shadows-of-sergoth.json) |
+| The Shadows Over Lighthouse | 354737 | [354737-the-shadows-over-lighthouse.json](./354737-the-shadows-over-lighthouse.json) |
 | The Shadows That Linger | 185409 | [185409-the-shadows-that-linger.json](./185409-the-shadows-that-linger.json) |
 | The Shadows That Run Alongside Our Car | 77595 | [77595-the-shadows-that-run-alongside-our-car.json](./77595-the-shadows-that-run-alongside-our-car.json) |
 | The Shadows Within: Nightmare's Game | 304615 | [304615-the-shadows-within-nightmares-game.json](./304615-the-shadows-within-nightmares-game.json) |
@@ -25283,6 +25284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Fantasy | 387333 | [387333-touhou-fantasy.json](./387333-touhou-fantasy.json) |
 | Touhou Fantasy Day | 128261 | [128261-touhou-fantasy-day.json](./128261-touhou-fantasy-day.json) |
 | Touhou Fantasy Destination | 256332 | [256332-touhou-fantasy-destination.json](./256332-touhou-fantasy-destination.json) |
+| Touhou Farming: Minoriko's Homestead Harvest | 354718 | [354718-touhou-farming-minorikos-homestead-harvest.json](./354718-touhou-farming-minorikos-homestead-harvest.json) |
 | Touhou Female Fist Mutation | 296242 | [296242-touhou-female-fist-mutation.json](./296242-touhou-female-fist-mutation.json) |
 | Touhou Flower Fight | 301104 | [301104-touhou-flower-fight.json](./301104-touhou-flower-fight.json) |
 | Touhou Fractured Transience | 238468 | [238468-touhou-fractured-transience.json](./238468-touhou-fractured-transience.json) |
