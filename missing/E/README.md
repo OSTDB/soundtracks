@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Effigy | 218715 | [218715-effigy.json](./218715-effigy.json) |
 | Effigy: The Descent | 200385 | [200385-effigy-the-descent.json](./200385-effigy-the-descent.json) |
 | Effing Hail | 314706 | [314706-effing-hail.json](./314706-effing-hail.json) |
+| Effing Meteors | 392598 | [392598-effing-meteors.json](./392598-effing-meteors.json) |
 | Effing Worms | 210662 | [210662-effing-worms.json](./210662-effing-worms.json) |
 | Efflorescence of Lust | 286420 | [286420-efflorescence-of-lust.json](./286420-efflorescence-of-lust.json) |
 | Effortworld | 265655 | [265655-effortworld.json](./265655-effortworld.json) |
@@ -2778,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embers Adrift | 186247 | [186247-embers-adrift.json](./186247-embers-adrift.json) |
 | Embers of Caerus | 64975 | [64975-embers-of-caerus.json](./64975-embers-of-caerus.json) |
 | Embers of Magic | 31380 | [31380-embers-of-magic.json](./31380-embers-of-magic.json) |
+| Embers of Mana | 392684 | [392684-embers-of-mana.json](./392684-embers-of-mana.json) |
 | Embers of Mirrim | 29141 | [29141-embers-of-mirrim.json](./29141-embers-of-mirrim.json) |
 | Embers of Spiritflame | 319681 | [319681-embers-of-spiritflame.json](./319681-embers-of-spiritflame.json) |
 | Embers of the Empire | 402913 | [402913-embers-of-the-empire.json](./402913-embers-of-the-empire.json) |
@@ -3626,6 +3628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless TD | 388515 | [388515-endless-td.json](./388515-endless-td.json) |
 | Endless Thief: a Furry Stealth Adventure | 201567 | [201567-endless-thief-a-furry-stealth-adventure.json](./201567-endless-thief-a-furry-stealth-adventure.json) |
 | Endless Thunder | 284278 | [284278-endless-thunder.json](./284278-endless-thunder.json) |
+| Endless Tower | 392594 | [392594-endless-tower.json](./392594-endless-tower.json) |
 | Endless Treasure Hunt | 74145 | [74145-endless-treasure-hunt.json](./74145-endless-treasure-hunt.json) |
 | Endless Truck | 261084 | [261084-endless-truck.json](./261084-endless-truck.json) |
 | Endless Turns | 117807 | [117807-endless-turns.json](./117807-endless-turns.json) |
@@ -7578,6 +7581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Express Hero | 270045 | [270045-express-hero.json](./270045-express-hero.json) |
 | Express No. 6 | 381091 | [381091-express-no-6.json](./381091-express-no-6.json) |
 | Express Raider | 13654 | [13654-express-raider.json](./13654-express-raider.json) |
+| Express Rider Simulator | 392602 | [392602-express-rider-simulator.json](./392602-express-rider-simulator.json) |
 | Express Simulator | 152463 | [152463-express-simulator.json](./152463-express-simulator.json) |
 | Expresso Espresso | 189848 | [189848-expresso-espresso.json](./189848-expresso-espresso.json) |
 | Expresso Run | 209183 | [209183-expresso-run.json](./209183-expresso-run.json) |
