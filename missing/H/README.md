@@ -9232,6 +9232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopeless. | 228080 | [228080-hopeless.json](./228080-hopeless.json) |
 | Hopepunk City | 255098 | [255098-hopepunk-city.json](./255098-hopepunk-city.json) |
 | Hopfall | 370126 | [370126-hopfall.json](./370126-hopfall.json) |
+| Hopfinity | 394986 | [394986-hopfinity.json](./394986-hopfinity.json) |
 | HopHeaders | 152627 | [152627-hopheaders.json](./152627-hopheaders.json) |
 | HopHop Fox | 309546 | [309546-hophop-fox.json](./309546-hophop-fox.json) |
 | HoPiKo | 25240 | [25240-hopiko.json](./25240-hopiko.json) |
