@@ -2197,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenous Horde | 268980 | [268980-ravenous-horde.json](./268980-ravenous-horde.json) |
 | RavenQuest: Munk Madness | 414094 | [414094-ravenquest-munk-madness.json](./414094-ravenquest-munk-madness.json) |
 | RavenQuest: Rise of Tyrants | 414192 | [414192-ravenquest-rise-of-tyrants.json](./414192-ravenquest-rise-of-tyrants.json) |
+| Ravenrift | 358579 | [358579-ravenrift.json](./358579-ravenrift.json) |
 | Ravens Battle Fields | 174849 | [174849-ravens-battle-fields.json](./174849-ravens-battle-fields.json) |
 | Ravensburger Kinderwelt | 288067 | [288067-ravensburger-kinderwelt.json](./288067-ravensburger-kinderwelt.json) |
 | Ravensburger Labyrinth | 200049 | [200049-ravensburger-labyrinth.json](./200049-ravensburger-labyrinth.json) |
@@ -9221,6 +9222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RockFree | 165487 | [165487-rockfree.json](./165487-rockfree.json) |
 | Rockhopper | 291817 | [291817-rockhopper.json](./291817-rockhopper.json) |
 | Rockhounds | 391653 | [391653-rockhounds.json](./391653-rockhounds.json) |
+| Rockin' Hell | 358575 | [358575-rockin-hell.json](./358575-rockin-hell.json) |
 | Rockin' Night Crusade | 128777 | [128777-rockin-night-crusade.json](./128777-rockin-night-crusade.json) |
 | Rockin' Pretty | 69155 | [69155-rockin-pretty.json](./69155-rockin-pretty.json) |
 | Rockin' Rabbit | 317444 | [317444-rockin-rabbit.json](./317444-rockin-rabbit.json) |
