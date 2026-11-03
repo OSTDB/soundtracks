@@ -7049,6 +7049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coin Game | 99192 | [99192-the-coin-game.json](./99192-the-coin-game.json) |
 | The Cold Case | 302140 | [302140-the-cold-case.json](./302140-the-cold-case.json) |
 | The Cold Forest | 211946 | [211946-the-cold-forest.json](./211946-the-cold-forest.json) |
+| The Cold Hand | 384549 | [384549-the-cold-hand.json](./384549-the-cold-hand.json) |
 | The Cold Hand Reef | 326980 | [326980-the-cold-hand-reef.json](./326980-the-cold-hand-reef.json) |
 | The Cold War Era | 32133 | [32133-the-cold-war-era.json](./32133-the-cold-war-era.json) |
 | The Cold War Era 2 | 132791 | [132791-the-cold-war-era-2.json](./132791-the-cold-war-era-2.json) |
@@ -22068,6 +22069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tin Toy | 80787 | [80787-tin-toy.json](./80787-tin-toy.json) |
 | Tin-Heart: The Game | 104243 | [104243-tin-heart-the-game.json](./104243-tin-heart-the-game.json) |
 | Tina & Rook! Cookie Quest! | 213206 | [213206-tina-and-rook-cookie-quest.json](./213206-tina-and-rook-cookie-quest.json) |
+| Tina of the Stars | 384475 | [384475-tina-of-the-stars.json](./384475-tina-of-the-stars.json) |
 | Tina wa Seirei Tsukai | 194925 | [194925-tina-wa-seirei-tsukai.json](./194925-tina-wa-seirei-tsukai.json) |
 | Tina: Swordswoman of the Scarlet Prison | 115490 | [115490-tina-swordswoman-of-the-scarlet-prison.json](./115490-tina-swordswoman-of-the-scarlet-prison.json) |
 | Tina's Toy Factory | 59900 | [59900-tinas-toy-factory.json](./59900-tinas-toy-factory.json) |
@@ -22455,6 +22457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Utopia | 390175 | [390175-tiny-utopia.json](./390175-tiny-utopia.json) |
 | Tiny Vikings | 276813 | [276813-tiny-vikings.json](./276813-tiny-vikings.json) |
 | Tiny Village | 368263 | [368263-tiny-village.json](./368263-tiny-village.json) |
+| Tiny Vinyard | 384488 | [384488-tiny-vinyard.json](./384488-tiny-vinyard.json) |
 | Tiny Vision | 161332 | [161332-tiny-vision.json](./161332-tiny-vision.json) |
 | Tiny Visitors | 254656 | [254656-tiny-visitors.json](./254656-tiny-visitors.json) |
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
