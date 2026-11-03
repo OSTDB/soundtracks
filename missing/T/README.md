@@ -6490,6 +6490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boomies Show | 405633 | [405633-the-boomies-show.json](./405633-the-boomies-show.json) |
 | The Boondock Saints Video Game | 95391 | [95391-the-boondock-saints-video-game.json](./95391-the-boondock-saints-video-game.json) |
 | The Boons of IIUIR | 374690 | [374690-the-boons-of-iiuir.json](./374690-the-boons-of-iiuir.json) |
+| The Boons of Iluir | 354167 | [354167-the-boons-of-iluir.json](./354167-the-boons-of-iluir.json) |
 | The Booty Creek Cheek Freak | 303318 | [303318-the-booty-creek-cheek-freak.json](./303318-the-booty-creek-cheek-freak.json) |
 | The Booze of Monkey Island | 321206 | [321206-the-booze-of-monkey-island.json](./321206-the-booze-of-monkey-island.json) |
 | The Border Lands | 64696 | [64696-the-border-lands.json](./64696-the-border-lands.json) |
