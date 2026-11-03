@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La storia della Arcana Famiglia 2 | 213834 | [213834-la-storia-della-arcana-famiglia-2.json](./213834-la-storia-della-arcana-famiglia-2.json) |
 | La storia della Arcana Famiglia: Rinato | 339376 | [339376-la-storia-della-arcana-famiglia-rinato.json](./339376-la-storia-della-arcana-famiglia-rinato.json) |
 | LA Street Racing | 27553 | [27553-la-street-racing.json](./27553-la-street-racing.json) |
+| La Table des Savoirs | 387434 | [387434-la-table-des-savoirs.json](./387434-la-table-des-savoirs.json) |
 | La Tailor Girl | 198353 | [198353-la-tailor-girl.json](./198353-la-tailor-girl.json) |
 | La Tale | 16856 | [16856-la-tale.json](./16856-la-tale.json) |
 | La Tale: Devil's garden - Rosengarten | 80964 | [80964-la-tale-devils-garden-rosengarten.json](./80964-la-tale-devils-garden-rosengarten.json) |
@@ -1208,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Duel: Inter Planet War 2012 | 12171 | [12171-last-duel-inter-planet-war-2012.json](./12171-last-duel-inter-planet-war-2012.json) |
 | Last dungeon of defeat - Humiliation for female warrior Erina | 134627 | [134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json](./134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json) |
 | Last Egg Alive | 419092 | [419092-last-egg-alive.json](./419092-last-egg-alive.json) |
+| Last Egg Standing | 387437 | [387437-last-egg-standing.json](./387437-last-egg-standing.json) |
 | Last Embryo: Either of Brave to Story | 163754 | [163754-last-embryo-either-of-brave-to-story.json](./163754-last-embryo-either-of-brave-to-story.json) |
 | Last Emperor | 258554 | [258554-last-emperor.json](./258554-last-emperor.json) |
 | Last Empire: War Z | 88093 | [88093-last-empire-war-z.json](./88093-last-empire-war-z.json) |
@@ -5462,6 +5464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LithoBreak | 143263 | [143263-lithobreak.json](./143263-lithobreak.json) |
 | Lithoi: Trials of Memory | 172002 | [172002-lithoi-trials-of-memory.json](./172002-lithoi-trials-of-memory.json) |
 | Litil Divil | 10516 | [10516-litil-divil.json](./10516-litil-divil.json) |
+| Litlip | 387281 | [387281-litlip.json](./387281-litlip.json) |
 | Litter ShiFu | 296623 | [296623-litter-shifu.json](./296623-litter-shifu.json) |
 | Litterbox League | 404654 | [404654-litterbox-league.json](./404654-litterbox-league.json) |
 | Little | 191414 | [191414-little.json](./191414-little.json) |
