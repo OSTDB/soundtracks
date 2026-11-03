@@ -2891,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bases Loaded for Game Boy | 273096 | [273096-bases-loaded-for-game-boy.json](./273096-bases-loaded-for-game-boy.json) |
 | Bash Arena | 233450 | [233450-bash-arena.json](./233450-bash-arena.json) |
 | Bash It! | 252150 | [252150-bash-it.json](./252150-bash-it.json) |
+| Bash Moto | 391939 | [391939-bash-moto.json](./391939-bash-moto.json) |
 | Bash Sports Online Bowling | 214339 | [214339-bash-sports-online-bowling.json](./214339-bash-sports-online-bowling.json) |
 | Bash the Bear | 114191 | [114191-bash-the-bear.json](./114191-bash-the-bear.json) |
 | Bash The Party | 381960 | [381960-bash-the-party.json](./381960-bash-the-party.json) |
@@ -4213,6 +4214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battles of the Ancient World III | 197344 | [197344-battles-of-the-ancient-world-iii.json](./197344-battles-of-the-ancient-world-iii.json) |
 | Battles of the Valiant Universe CCG | 30663 | [30663-battles-of-the-valiant-universe-ccg.json](./30663-battles-of-the-valiant-universe-ccg.json) |
 | Battles Pirates: HQ | 102666 | [102666-battles-pirates-hq.json](./102666-battles-pirates-hq.json) |
+| BattleSail | 391974 | [391974-battlesail.json](./391974-battlesail.json) |
 | Battlescar: Punk Was Invented By Girls | 171452 | [171452-battlescar-punk-was-invented-by-girls.json](./171452-battlescar-punk-was-invented-by-girls.json) |
 | Battleship | 154988 | [154988-battleship.json](./154988-battleship.json) |
 | Battleship | 218315 | [218315-battleship.json](./218315-battleship.json) |
@@ -9549,6 +9551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeping Spaceships | 373673 | [373673-bleeping-spaceships.json](./373673-bleeping-spaceships.json) |
 | Bleeping Spaceships MR | 357298 | [357298-bleeping-spaceships-mr.json](./357298-bleeping-spaceships-mr.json) |
 | Blek | 8597 | [8597-blek.json](./8597-blek.json) |
+| Blemdeck | 391961 | [391961-blemdeck.json](./391961-blemdeck.json) |
 | Blemo | 389496 | [389496-blemo.json](./389496-blemo.json) |
 | Blend X Brand | 387133 | [387133-blend-x-brand.json](./387133-blend-x-brand.json) |
 | Blend_IT | 338245 | [338245-blend-it.json](./338245-blend-it.json) |
@@ -15757,6 +15760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubbly | 407150 | [407150-bubbly.json](./407150-bubbly.json) |
 | Bubbly Letters | 292058 | [292058-bubbly-letters.json](./292058-bubbly-letters.json) |
 | Bubbly's Symphony: Guardians of the Depths | 301319 | [301319-bubblys-symphony-guardians-of-the-depths.json](./301319-bubblys-symphony-guardians-of-the-depths.json) |
+| Bubbo: Adventure on Geralds Island | 391967 | [391967-bubbo-adventure-on-geralds-island.json](./391967-bubbo-adventure-on-geralds-island.json) |
 | Bubbo: The Lost Hat | 148121 | [148121-bubbo-the-lost-hat.json](./148121-bubbo-the-lost-hat.json) |
 | Bubbu School | 224077 | [224077-bubbu-school.json](./224077-bubbu-school.json) |
 | BUBG Single on the Ground | 269039 | [269039-bubg-single-on-the-ground.json](./269039-bubg-single-on-the-ground.json) |
