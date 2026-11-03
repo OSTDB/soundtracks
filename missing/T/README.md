@@ -16298,6 +16298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirit Guide | 325404 | [325404-the-spirit-guide.json](./325404-the-spirit-guide.json) |
 | The Spirit in the Woods | 201505 | [201505-the-spirit-in-the-woods.json](./201505-the-spirit-in-the-woods.json) |
 | The Spirit Lift | 217312 | [217312-the-spirit-lift.json](./217312-the-spirit-lift.json) |
+| The Spirit of Outa | 358613 | [358613-the-spirit-of-outa.json](./358613-the-spirit-of-outa.json) |
 | The Spirit of Snowflake | 167550 | [167550-the-spirit-of-snowflake.json](./167550-the-spirit-of-snowflake.json) |
 | The Spirit of the Samurai | 226037 | [226037-the-spirit-of-the-samurai.json](./226037-the-spirit-of-the-samurai.json) |
 | The Spirit of Twelve | 89820 | [89820-the-spirit-of-twelve.json](./89820-the-spirit-of-twelve.json) |
@@ -19977,6 +19978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ticket to Ride: First Journey | 69654 | [69654-ticket-to-ride-first-journey.json](./69654-ticket-to-ride-first-journey.json) |
 | Ticket to Ride: France | 154475 | [154475-ticket-to-ride-france.json](./154475-ticket-to-ride-france.json) |
 | Ticket to Ride: Germany | 154470 | [154470-ticket-to-ride-germany.json](./154470-ticket-to-ride-germany.json) |
+| Ticket to Ride: Heart of Africa Expansion | 358572 | [358572-ticket-to-ride-heart-of-africa-expansion.json](./358572-ticket-to-ride-heart-of-africa-expansion.json) |
 | Ticket to Ride: India | 154472 | [154472-ticket-to-ride-india.json](./154472-ticket-to-ride-india.json) |
 | Ticket to Ride: Legendary Asia | 53799 | [53799-ticket-to-ride-legendary-asia.json](./53799-ticket-to-ride-legendary-asia.json) |
 | Ticket to Ride: Nordic Countries | 154471 | [154471-ticket-to-ride-nordic-countries.json](./154471-ticket-to-ride-nordic-countries.json) |
@@ -26411,6 +26413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tractor to the infinite | 50285 | [50285-tractor-to-the-infinite.json](./50285-tractor-to-the-infinite.json) |
 | Tractorball | 55233 | [55233-tractorball.json](./55233-tractorball.json) |
 | Trade & Battle: Card Hero | 67836 | [67836-trade-and-battle-card-hero.json](./67836-trade-and-battle-card-hero.json) |
+| Trade Anchor | 358582 | [358582-trade-anchor.json](./358582-trade-anchor.json) |
 | Trade And Fight | 306366 | [306366-trade-and-fight.json](./306366-trade-and-fight.json) |
 | Trade and Magic | 224718 | [224718-trade-and-magic.json](./224718-trade-and-magic.json) |
 | Trade Around | 183823 | [183823-trade-around.json](./183823-trade-around.json) |
@@ -29920,6 +29923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trophy Hunter 2003 | 72532 | [72532-trophy-hunter-2003.json](./72532-trophy-hunter-2003.json) |
 | Trophy Hunting | 40496 | [40496-trophy-hunting.json](./40496-trophy-hunting.json) |
 | Trophy Knight | 219527 | [219527-trophy-knight.json](./219527-trophy-knight.json) |
+| Trophy Season | 358616 | [358616-trophy-season.json](./358616-trophy-season.json) |
 | Trophy Trout | 43150 | [43150-trophy-trout.json](./43150-trophy-trout.json) |
 | Trophy Truck Racing Tour | 369650 | [369650-trophy-truck-racing-tour.json](./369650-trophy-truck-racing-tour.json) |
 | TrophyRC | 388307 | [388307-trophyrc.json](./388307-trophyrc.json) |
@@ -31027,6 +31031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turing Sandbox | 400448 | [400448-turing-sandbox.json](./400448-turing-sandbox.json) |
 | Turing Trial | 183987 | [183987-turing-trial.json](./183987-turing-trial.json) |
 | Turis Station | 244501 | [244501-turis-station.json](./244501-turis-station.json) |
+| Turistifyer | 358588 | [358588-turistifyer.json](./358588-turistifyer.json) |
 | Turk-A-Lurk | 186811 | [186811-turk-a-lurk.json](./186811-turk-a-lurk.json) |
 | Turkey Fling | 261542 | [261542-turkey-fling.json](./261542-turkey-fling.json) |
 | Turkey Got Guts | 394210 | [394210-turkey-got-guts.json](./394210-turkey-got-guts.json) |
