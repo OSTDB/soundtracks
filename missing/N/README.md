@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nairo High School: Seishun Hakusho | 52609 | [52609-nairo-high-school-seishun-hakusho.json](./52609-nairo-high-school-seishun-hakusho.json) |
 | Nairo High School: Seishun Hakusho | 52611 | [52611-nairo-high-school-seishun-hakusho.json](./52611-nairo-high-school-seishun-hakusho.json) |
 | Nairobi X | 139890 | [139890-nairobi-x.json](./139890-nairobi-x.json) |
+| Naishitai: The parts I'm missing. | 373483 | [373483-naishitai-the-parts-im-missing.json](./373483-naishitai-the-parts-im-missing.json) |
 | NaissanceE | 8116 | [8116-naissancee.json](./8116-naissancee.json) |
 | Naisu Gaisu Survivors | 305871 | [305871-naisu-gaisu-survivors.json](./305871-naisu-gaisu-survivors.json) |
 | Naive Boy Super Lash | 309751 | [309751-naive-boy-super-lash.json](./309751-naive-boy-super-lash.json) |
@@ -3784,6 +3785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nibû | 112753 | [112753-nibu.json](./112753-nibu.json) |
 | Nice Body All-Star Suiei Taikai | 248117 | [248117-nice-body-all-star-suiei-taikai.json](./248117-nice-body-all-star-suiei-taikai.json) |
 | Nice Bowling | 129953 | [129953-nice-bowling.json](./129953-nice-bowling.json) |
+| Nice City | 373490 | [373490-nice-city.json](./373490-nice-city.json) |
 | Nice Day for Fishing | 324939 | [324939-nice-day-for-fishing.json](./324939-nice-day-for-fishing.json) |
 | Nice de Shot: World Course Selections | 37907 | [37907-nice-de-shot-world-course-selections.json](./37907-nice-de-shot-world-course-selections.json) |
 | Nice Dice - 3D dice roller | 102724 | [102724-nice-dice-3d-dice-roller.json](./102724-nice-dice-3d-dice-roller.json) |
