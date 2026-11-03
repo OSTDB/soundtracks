@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamburg: Neue Burg VR | 291510 | [291510-hamburg-neue-burg-vr.json](./291510-hamburg-neue-burg-vr.json) |
 | Hamburger | 284447 | [284447-hamburger.json](./284447-hamburger.json) |
 | Hamburger | 346059 | [346059-hamburger.json](./346059-hamburger.json) |
+| Hamburger Shop | 386974 | [386974-hamburger-shop.json](./386974-hamburger-shop.json) |
 | Hamburgers VS Eggs | 118684 | [118684-hamburgers-vs-eggs.json](./118684-hamburgers-vs-eggs.json) |
 | Hamcorollin’ | 263330 | [263330-hamcorollin.json](./263330-hamcorollin.json) |
 | Hame Houdai! All You Can F*ck! 3 Female Teachers Endless Creampie! | 280694 | [280694-hame-houdai-all-you-can-f-ck-3-female-teachers-endless-creampie.json](./280694-hame-houdai-all-you-can-f-ck-3-female-teachers-endless-creampie.json) |
