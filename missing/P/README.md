@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Package Inc | 174530 | [174530-package-inc.json](./174530-package-inc.json) |
 | Package Inspector | 195697 | [195697-package-inspector.json](./195697-package-inspector.json) |
 | Package Man | 131395 | [131395-package-man.json](./131395-package-man.json) |
+| Package Resolved | 355971 | [355971-package-resolved.json](./355971-package-resolved.json) |
 | Package Runner | 260615 | [260615-package-runner.json](./260615-package-runner.json) |
 | Package Rush | 215594 | [215594-package-rush.json](./215594-package-rush.json) |
 | Package Stower VR | 350492 | [350492-package-stower-vr.json](./350492-package-stower-vr.json) |
@@ -7593,6 +7594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Chess | 416592 | [416592-pixel-chess.json](./416592-pixel-chess.json) |
 | Pixel Chess Idle RPG | 414174 | [414174-pixel-chess-idle-rpg.json](./414174-pixel-chess-idle-rpg.json) |
 | Pixel Chix | 296823 | [296823-pixel-chix.json](./296823-pixel-chix.json) |
+| Pixel Chix: Love 2 Shop Mall | 355978 | [355978-pixel-chix-love-2-shop-mall.json](./355978-pixel-chix-love-2-shop-mall.json) |
 | Pixel Clicker | 392000 | [392000-pixel-clicker.json](./392000-pixel-clicker.json) |
 | Pixel Collector | 312165 | [312165-pixel-collector.json](./312165-pixel-collector.json) |
 | Pixel Colony | 262875 | [262875-pixel-colony.json](./262875-pixel-colony.json) |
@@ -9260,6 +9262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Cubes with Uncle Billy | 84539 | [84539-play-cubes-with-uncle-billy.json](./84539-play-cubes-with-uncle-billy.json) |
 | Play Dead! | 355470 | [355470-play-dead.json](./355470-play-dead.json) |
 | Play Dead! #2 | 183073 | [183073-play-dead-2.json](./183073-play-dead-2.json) |
+| Play Dead! #3 | 355840 | [355840-play-dead-3.json](./355840-play-dead-3.json) |
 | Play Dice | 277867 | [277867-play-dice.json](./277867-play-dice.json) |
 | Play Disney Parks | 225352 | [225352-play-disney-parks.json](./225352-play-disney-parks.json) |
 | Play Dog Play Tag | 119271 | [119271-play-dog-play-tag.json](./119271-play-dog-play-tag.json) |
@@ -15346,6 +15349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Renaissance | 419915 | [419915-project-renaissance.json](./419915-project-renaissance.json) |
 | Project Reprieve | 406499 | [406499-project-reprieve.json](./406499-project-reprieve.json) |
 | Project Reset | 108042 | [108042-project-reset.json](./108042-project-reset.json) |
+| Project Restitution | 355851 | [355851-project-restitution.json](./355851-project-restitution.json) |
 | Project Restoration | 184397 | [184397-project-restoration.json](./184397-project-restoration.json) |
 | Project Retro Ninja | 179409 | [179409-project-retro-ninja.json](./179409-project-retro-ninja.json) |
 | Project Revenant | 368793 | [368793-project-revenant.json](./368793-project-revenant.json) |
