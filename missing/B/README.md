@@ -7690,6 +7690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Prototype | 226257 | [226257-bio-prototype.json](./226257-bio-prototype.json) |
 | Bio Prototype 2 | 303372 | [303372-bio-prototype-2.json](./303372-bio-prototype-2.json) |
 | Bio Senshi Dan: Increaser to no Tatakai | 48647 | [48647-bio-senshi-dan-increaser-to-no-tatakai.json](./48647-bio-senshi-dan-increaser-to-no-tatakai.json) |
+| Bio Sin | 394989 | [394989-bio-sin.json](./394989-bio-sin.json) |
 | Bio Soup | 72354 | [72354-bio-soup.json](./72354-bio-soup.json) |
 | Bio Spheres | 13402 | [13402-bio-spheres.json](./13402-bio-spheres.json) |
 | Bio Worm | 134359 | [134359-bio-worm.json](./134359-bio-worm.json) |
@@ -11671,6 +11672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku no Choro-Q | 59440 | [59440-boku-no-choro-q.json](./59440-boku-no-choro-q.json) |
 | Boku no Enikki | 148242 | [148242-boku-no-enikki.json](./148242-boku-no-enikki.json) |
 | Boku no Knife de Kimi wo Tasuketai | 299585 | [299585-boku-no-knife-de-kimi-wo-tasuketai.json](./299585-boku-no-knife-de-kimi-wo-tasuketai.json) |
+| Boku no Kokoro ha Ame Nochi Hare | 395080 | [395080-boku-no-kokoro-ha-ame-nochi-hare.json](./395080-boku-no-kokoro-ha-ame-nochi-hare.json) |
 | Boku no Komayama wo Mamotte | 308901 | [308901-boku-no-komayama-wo-mamotte.json](./308901-boku-no-komayama-wo-mamotte.json) |
 | Boku no Mirai ha, Koi to Kakin to.: Charge to the Future | 194539 | [194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json](./194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json) |
 | Boku no Natsuyasumi | 44775 | [44775-boku-no-natsuyasumi.json](./44775-boku-no-natsuyasumi.json) |
