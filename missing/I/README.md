@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I See You | 113642 | [113642-i-see-you.json](./113642-i-see-you.json) |
 | I See You | 135609 | [135609-i-see-you.json](./135609-i-see-you.json) |
 | I See You | 259630 | [259630-i-see-you.json](./259630-i-see-you.json) |
+| I Sell Lemonade | 373996 | [373996-i-sell-lemonade.json](./373996-i-sell-lemonade.json) |
 | I Shall Remain | 17234 | [17234-i-shall-remain.json](./17234-i-shall-remain.json) |
 | I Slay Zombies: VR Shooter | 174343 | [174343-i-slay-zombies-vr-shooter.json](./174343-i-slay-zombies-vr-shooter.json) |
 | I Spoke to God | 176143 | [176143-i-spoke-to-god.json](./176143-i-spoke-to-god.json) |
