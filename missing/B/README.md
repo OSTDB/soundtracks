@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon Royale | 12397 | [12397-backgammon-royale.json](./12397-backgammon-royale.json) |
 | Backgammon: Board Game Puzzle | 221587 | [221587-backgammon-board-game-puzzle.json](./221587-backgammon-board-game-puzzle.json) |
 | Backgammon. | 88715 | [88715-backgammon.json](./88715-backgammon.json) |
+| Background Bells | 375996 | [375996-background-bells.json](./375996-background-bells.json) |
 | BackGuiner: Yomigaeru Yuusha-tachi - Hishou-hen Uragiri no Senjou | 45425 | [45425-backguiner-yomigaeru-yuusha-tachi-hishou-hen-uragiri-no-senjou.json](./45425-backguiner-yomigaeru-yuusha-tachi-hishou-hen-uragiri-no-senjou.json) |
 | BackGuiner: Yomigaeru Yuusha-tachi - Kakusei-hen Guiner Tensei | 45424 | [45424-backguiner-yomigaeru-yuusha-tachi-kakusei-hen-guiner-tensei.json](./45424-backguiner-yomigaeru-yuusha-tachi-kakusei-hen-guiner-tensei.json) |
 | Backlash | 11931 | [11931-backlash.json](./11931-backlash.json) |
@@ -928,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1318,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldo: The Elemental Temples | 241842 | [241842-baldo-the-elemental-temples.json](./241842-baldo-the-elemental-temples.json) |
 | Baldo: The Guardian Owls | 118873 | [118873-baldo-the-guardian-owls.json](./118873-baldo-the-guardian-owls.json) |
 | Baldo: The Guardian Owls - The Three Fairies Edition | 200682 | [200682-baldo-the-guardian-owls-the-three-fairies-edition.json](./200682-baldo-the-guardian-owls-the-three-fairies-edition.json) |
+| Baldo's Discovery | 376159 | [376159-baldos-discovery.json](./376159-baldos-discovery.json) |
 | Baldoo | 116822 | [116822-baldoo.json](./116822-baldoo.json) |
 | Baldr Bringer | 71194 | [71194-baldr-bringer.json](./71194-baldr-bringer.json) |
 | Baldr Bringer Extend Code | 180651 | [180651-baldr-bringer-extend-code.json](./180651-baldr-bringer-extend-code.json) |
@@ -8583,6 +8586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Fist Ninja Run Challenge | 175576 | [175576-black-fist-ninja-run-challenge.json](./175576-black-fist-ninja-run-challenge.json) |
 | Black Flower | 400966 | [400966-black-flower.json](./400966-black-flower.json) |
 | Black Forest | 31435 | [31435-black-forest.json](./31435-black-forest.json) |
+| Black Forest Castle | 376163 | [376163-black-forest-castle.json](./376163-black-forest-castle.json) |
 | Black Forest Tale | 49098 | [49098-black-forest-tale.json](./49098-black-forest-tale.json) |
 | Black Friday | 176745 | [176745-black-friday.json](./176745-black-friday.json) |
 | Black Friday | 249699 | [249699-black-friday.json](./249699-black-friday.json) |
@@ -15313,6 +15317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brother Against Brother | 59494 | [59494-brother-against-brother.json](./59494-brother-against-brother.json) |
 | Brother Brother | 123734 | [123734-brother-brother.json](./123734-brother-brother.json) |
 | Brother Cat: The Legend of Super Cat | 98500 | [98500-brother-cat-the-legend-of-super-cat.json](./98500-brother-cat-the-legend-of-super-cat.json) |
+| Brother Hai's Pho Restaurant | 375992 | [375992-brother-hais-pho-restaurant.json](./375992-brother-hais-pho-restaurant.json) |
 | Brother Perro | 96867 | [96867-brother-perro.json](./96867-brother-perro.json) |
 | Brother Wake Up | 149696 | [149696-brother-wake-up.json](./149696-brother-wake-up.json) |
 | Brother Wings | 29912 | [29912-brother-wings.json](./29912-brother-wings.json) |
@@ -16107,6 +16112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Challenge | 242374 | [242374-buggy-challenge.json](./242374-buggy-challenge.json) |
 | Buggy Derby Arena | 297324 | [297324-buggy-derby-arena.json](./297324-buggy-derby-arena.json) |
 | Buggy Game | 192890 | [192890-buggy-game.json](./192890-buggy-game.json) |
+| Buggy League | 376149 | [376149-buggy-league.json](./376149-buggy-league.json) |
 | Buggy Mess | 379925 | [379925-buggy-mess.json](./379925-buggy-mess.json) |
 | Buggy Off-Road Racing | 289375 | [289375-buggy-off-road-racing.json](./289375-buggy-off-road-racing.json) |
 | Buggy Off-Road Racing Wild Skins | 380713 | [380713-buggy-off-road-racing-wild-skins.json](./380713-buggy-off-road-racing-wild-skins.json) |
