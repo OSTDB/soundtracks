@@ -8603,6 +8603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Forest Tale | 49098 | [49098-black-forest-tale.json](./49098-black-forest-tale.json) |
 | Black Friday | 176745 | [176745-black-friday.json](./176745-black-friday.json) |
 | Black Friday | 249699 | [249699-black-friday.json](./249699-black-friday.json) |
+| Black Friday | 367121 | [367121-black-friday.json](./367121-black-friday.json) |
 | Black Friday: The Game | 68600 | [68600-black-friday-the-game.json](./68600-black-friday-the-game.json) |
 | Black Future '88 | 74561 | [74561-black-future-88.json](./74561-black-future-88.json) |
 | Black Geyser: Couriers of Darkness - Tales of the Moon Cult | 379444 | [379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json](./379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json) |
