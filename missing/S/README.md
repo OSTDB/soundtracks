@@ -1318,6 +1318,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown: Baiken | 167836 | [167836-samurai-shodown-baiken.json](./167836-samurai-shodown-baiken.json) |
 | Samurai Shodown: Deluxe Edition | 331842 | [331842-samurai-shodown-deluxe-edition.json](./331842-samurai-shodown-deluxe-edition.json) |
 | Samurai Shodown: Deluxe Pack | 237974 | [237974-samurai-shodown-deluxe-pack.json](./237974-samurai-shodown-deluxe-pack.json) |
+| Samurai Shodown: Genjuro Retro 3D Costume | 350169 | [350169-samurai-shodown-genjuro-retro-3d-costume.json](./350169-samurai-shodown-genjuro-retro-3d-costume.json) |
+| Samurai Shodown: Haohmaru Retro 3D Costume | 350170 | [350170-samurai-shodown-haohmaru-retro-3d-costume.json](./350170-samurai-shodown-haohmaru-retro-3d-costume.json) |
 | Samurai Shodown: Nakoruru Retro 3D Costume | 350223 | [350223-samurai-shodown-nakoruru-retro-3d-costume.json](./350223-samurai-shodown-nakoruru-retro-3d-costume.json) |
 | Samurai Shodown: Oborozuki Densetsu | 112917 | [112917-samurai-shodown-oborozuki-densetsu.json](./112917-samurai-shodown-oborozuki-densetsu.json) |
 | Samurai Shodown: Warriors Rage | 45053 | [45053-samurai-shodown-warriors-rage.json](./45053-samurai-shodown-warriors-rage.json) |
@@ -3134,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorching Light | 410629 | [410629-scorching-light.json](./410629-scorching-light.json) |
 | Scorching Strings | 331873 | [331873-scorching-strings.json](./331873-scorching-strings.json) |
 | Scorchlands | 165401 | [165401-scorchlands.json](./165401-scorchlands.json) |
+| Scorchwalkers | 350159 | [350159-scorchwalkers.json](./350159-scorchwalkers.json) |
 | Scorchy Sky Trials | 402905 | [402905-scorchy-sky-trials.json](./402905-scorchy-sky-trials.json) |
 | Score | 171268 | [171268-score.json](./171268-score.json) |
 | Score | 33624 | [33624-score.json](./33624-score.json) |
@@ -16162,6 +16165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Sword, Some Play | 215774 | [215774-some-sword-some-play.json](./215774-some-sword-some-play.json) |
 | Some Synergy | 210883 | [210883-some-synergy.json](./210883-some-synergy.json) |
 | Some Trashy Game | 181536 | [181536-some-trashy-game.json](./181536-some-trashy-game.json) |
+| Some: The House | 350308 | [350308-some-the-house.json](./350308-some-the-house.json) |
 | Someday | 120923 | [120923-someday.json](./120923-someday.json) |
 | Someday You'll Return: Director's Cut | 241044 | [241044-someday-youll-return-directors-cut.json](./241044-someday-youll-return-directors-cut.json) |
 | Someone Creepy | 357196 | [357196-someone-creepy.json](./357196-someone-creepy.json) |
@@ -18747,7 +18751,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27126,6 +27129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreetStep: 21st Century Basketball | 244930 | [244930-streetstep-21st-century-basketball.json](./244930-streetstep-21st-century-basketball.json) |
 | StreetSync | 332983 | [332983-streetsync.json](./332983-streetsync.json) |
 | Streichholz wegnehmen | 100042 | [100042-streichholz-wegnehmen.json](./100042-streichholz-wegnehmen.json) |
+| Strelitzia | 350316 | [350316-strelitzia.json](./350316-strelitzia.json) |
 | Strength | 361392 | [361392-strength.json](./361392-strength.json) |
 | Strength & Honour 2 | 54404 | [54404-strength-and-honour-2.json](./54404-strength-and-honour-2.json) |
 | Strength & Skill: Guiness Book of Records | 283734 | [283734-strength-and-skill-guiness-book-of-records.json](./283734-strength-and-skill-guiness-book-of-records.json) |
@@ -28755,6 +28759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoners War: Chronicles - Adventure Starter Package | 274988 | [274988-summoners-war-chronicles-adventure-starter-package.json](./274988-summoners-war-chronicles-adventure-starter-package.json) |
 | Summoners War: Chronicles - Adventure Support Package | 274987 | [274987-summoners-war-chronicles-adventure-support-package.json](./274987-summoners-war-chronicles-adventure-support-package.json) |
 | Summoners War: Lost Centuria | 115479 | [115479-summoners-war-lost-centuria.json](./115479-summoners-war-lost-centuria.json) |
+| Summoners War: Rush | 350162 | [350162-summoners-war-rush.json](./350162-summoners-war-rush.json) |
 | SummonerVR | 74491 | [74491-summonervr.json](./74491-summonervr.json) |
 | Summoning Pixel Dungeon | 176998 | [176998-summoning-pixel-dungeon.json](./176998-summoning-pixel-dungeon.json) |
 | Summoning: Ouija Best Practices | 387358 | [387358-summoning-ouija-best-practices.json](./387358-summoning-ouija-best-practices.json) |
