@@ -1717,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viarkanoid | 89373 | [89373-viarkanoid.json](./89373-viarkanoid.json) |
 | Vib-Ribbon | 9676 | [9676-vib-ribbon.json](./9676-vib-ribbon.json) |
 | Vib-Ripple | 25096 | [25096-vib-ripple.json](./25096-vib-ripple.json) |
+| Vibe City Islands Architect | 374849 | [374849-vibe-city-islands-architect.json](./374849-vibe-city-islands-architect.json) |
 | Vibe Clicker | 352311 | [352311-vibe-clicker.json](./352311-vibe-clicker.json) |
 | Vibe or Dare | 404046 | [404046-vibe-or-dare.json](./404046-vibe-or-dare.json) |
 | Vibes | 94126 | [94126-vibes.json](./94126-vibes.json) |
@@ -2349,12 +2350,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viractal: Will You Trust Your Party? | 341985 | [341985-viractal-will-you-trust-your-party.json](./341985-viractal-will-you-trust-your-party.json) |
 | Virage Rally | 129988 | [129988-virage-rally.json](./129988-virage-rally.json) |
 | Virago | 189823 | [189823-virago.json](./189823-virago.json) |
+| Virago Run | 374740 | [374740-virago-run.json](./374740-virago-run.json) |
 | Virago World | 374738 | [374738-virago-world.json](./374738-virago-world.json) |
 | Virago: Herstory | 226184 | [226184-virago-herstory.json](./226184-virago-herstory.json) |
 | Virago: Herstory 2 | 374735 | [374735-virago-herstory-2.json](./374735-virago-herstory-2.json) |
 | Virago: Reality New | 264528 | [264528-virago-reality-new.json](./264528-virago-reality-new.json) |
 | Virago: Trepidation | 219517 | [219517-virago-trepidation.json](./219517-virago-trepidation.json) |
 | Virago: What If | 374745 | [374745-virago-what-if.json](./374745-virago-what-if.json) |
+| ViragoHerstory Go! | 374742 | [374742-viragoherstory-go.json](./374742-viragoherstory-go.json) |
 | Viral | 265255 | [265255-viral.json](./265255-viral.json) |
 | Viral | 72457 | [72457-viral.json](./72457-viral.json) |
 | Viral Complex | 236867 | [236867-viral-complex.json](./236867-viral-complex.json) |
