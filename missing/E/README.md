@@ -1516,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EggGarden | 349402 | [349402-egggarden.json](./349402-egggarden.json) |
 | Eggggg | 24074 | [24074-eggggg.json](./24074-eggggg.json) |
 | Egghead Gumpty | 210852 | [210852-egghead-gumpty.json](./210852-egghead-gumpty.json) |
+| Eggheads | 397001 | [397001-eggheads.json](./397001-eggheads.json) |
 | Eggies | 233770 | [233770-eggies.json](./233770-eggies.json) |
 | Eggineer | 169767 | [169767-eggineer.json](./169767-eggineer.json) |
 | Egging On | 294270 | [294270-egging-on.json](./294270-egging-on.json) |
@@ -3436,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ending the Happy Route | 350045 | [350045-ending-the-happy-route.json](./350045-ending-the-happy-route.json) |
 | Ending Way | 189198 | [189198-ending-way.json](./189198-ending-way.json) |
 | Endings | 165668 | [165668-endings.json](./165668-endings.json) |
+| Endix | 396999 | [396999-endix.json](./396999-endix.json) |
 | Endless | 74796 | [74796-endless.json](./74796-endless.json) |
 | Endless Adventure | 200287 | [200287-endless-adventure.json](./200287-endless-adventure.json) |
 | Endless Ages | 69777 | [69777-endless-ages.json](./69777-endless-ages.json) |
