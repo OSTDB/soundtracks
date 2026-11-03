@@ -3389,6 +3389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reckless Death Race | 239108 | [239108-reckless-death-race.json](./239108-reckless-death-race.json) |
 | Reckless Drive | 335266 | [335266-reckless-drive.json](./335266-reckless-drive.json) |
 | Reckless Driver | 204067 | [204067-reckless-driver.json](./204067-reckless-driver.json) |
+| Reckless Drivin' | 398109 | [398109-reckless-drivin.json](./398109-reckless-drivin.json) |
 | Reckless Getaway | 62940 | [62940-reckless-getaway.json](./62940-reckless-getaway.json) |
 | Reckless Getaway 2 | 237666 | [237666-reckless-getaway-2.json](./237666-reckless-getaway-2.json) |
 | Reckless Racing | 38702 | [38702-reckless-racing.json](./38702-reckless-racing.json) |
@@ -10534,6 +10535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rory's Restaurant: Winter Rush | 190001 | [190001-rorys-restaurant-winter-rush.json](./190001-rorys-restaurant-winter-rush.json) |
 | Ros | 101631 | [101631-ros.json](./101631-ros.json) |
 | Rosa + Juliet | 382822 | [382822-rosa-juliet.json](./382822-rosa-juliet.json) |
+| Rosa Inferna | 398132 | [398132-rosa-inferna.json](./398132-rosa-inferna.json) |
 | Rosa Musou | 214765 | [214765-rosa-musou.json](./214765-rosa-musou.json) |
 | Rosa's Quest | 402869 | [402869-rosas-quest.json](./402869-rosas-quest.json) |
 | Rosabella: Eternal Light and Magic in Harmony | 336398 | [336398-rosabella-eternal-light-and-magic-in-harmony.json](./336398-rosabella-eternal-light-and-magic-in-harmony.json) |
