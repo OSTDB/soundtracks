@@ -1068,12 +1068,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamstörm | 303055 | [303055-hamstorm.json](./303055-hamstorm.json) |
 | Hamstory | 391100 | [391100-hamstory.json](./391100-hamstory.json) |
 | HamSumo | 287751 | [287751-hamsumo.json](./287751-hamsumo.json) |
+| Hamtaro Card e: B016 - Sandy | 355827 | [355827-hamtaro-card-e-b016-sandy.json](./355827-hamtaro-card-e-b016-sandy.json) |
+| Hamtaro Card e: B017 - Stan | 355828 | [355828-hamtaro-card-e-b017-stan.json](./355828-hamtaro-card-e-b017-stan.json) |
+| Hamtaro Card e: B018 - Dexter | 355829 | [355829-hamtaro-card-e-b018-dexter.json](./355829-hamtaro-card-e-b018-dexter.json) |
+| Hamtaro Card e: B019 - Panda | 355830 | [355830-hamtaro-card-e-b019-panda.json](./355830-hamtaro-card-e-b019-panda.json) |
+| Hamtaro Card e: B020 - Maxwell | 355831 | [355831-hamtaro-card-e-b020-maxwell.json](./355831-hamtaro-card-e-b020-maxwell.json) |
+| Hamtaro Card e: B021 - Jingle | 355832 | [355832-hamtaro-card-e-b021-jingle.json](./355832-hamtaro-card-e-b021-jingle.json) |
+| Hamtaro Card e: B022 - Elder Ham | 355833 | [355833-hamtaro-card-e-b022-elder-ham.json](./355833-hamtaro-card-e-b022-elder-ham.json) |
+| Hamtaro Card e: B023 - Auntie Viv | 355834 | [355834-hamtaro-card-e-b023-auntie-viv.json](./355834-hamtaro-card-e-b023-auntie-viv.json) |
+| Hamtaro Card e: B024 - Omar | 355835 | [355835-hamtaro-card-e-b024-omar.json](./355835-hamtaro-card-e-b024-omar.json) |
+| Hamtaro Card e: B025 - Stucky | 355836 | [355836-hamtaro-card-e-b025-stucky.json](./355836-hamtaro-card-e-b025-stucky.json) |
+| Hamtaro Card e: B026 - Sparkle | 355837 | [355837-hamtaro-card-e-b026-sparkle.json](./355837-hamtaro-card-e-b026-sparkle.json) |
+| Hamtaro Card e: B027 - Chef-Ham | 355841 | [355841-hamtaro-card-e-b027-chef-ham.json](./355841-hamtaro-card-e-b027-chef-ham.json) |
 | Hamtaro Card e: B028 - Pepper | 356388 | [356388-hamtaro-card-e-b028-pepper.json](./356388-hamtaro-card-e-b028-pepper.json) |
 | Hamtaro Card e: B029 - Hannah | 356390 | [356390-hamtaro-card-e-b029-hannah.json](./356390-hamtaro-card-e-b029-hannah.json) |
 | Hamtaro Card e: B030 - Nin-Ham | 356391 | [356391-hamtaro-card-e-b030-nin-ham.json](./356391-hamtaro-card-e-b030-nin-ham.json) |
 | Hamtaro Card e: B031 - Sabu | 356392 | [356392-hamtaro-card-e-b031-sabu.json](./356392-hamtaro-card-e-b031-sabu.json) |
 | Hamtaro Card e: B032 - Seamore | 356393 | [356393-hamtaro-card-e-b032-seamore.json](./356393-hamtaro-card-e-b032-seamore.json) |
 | Hamtaro Card e: B033 - Nurse | 356394 | [356394-hamtaro-card-e-b033-nurse.json](./356394-hamtaro-card-e-b033-nurse.json) |
+| Hamtaro Card e: Daisuki na no ha Himawari no Tane | 355826 | [355826-hamtaro-card-e-daisuki-na-no-ha-himawari-no-tane.json](./355826-hamtaro-card-e-daisuki-na-no-ha-himawari-no-tane.json) |
 | Hamtaro Card e: Gekijou Gentei - 03-A001: Mo Hams | 356401 | [356401-hamtaro-card-e-gekijou-gentei-03-a001-mo-hams.json](./356401-hamtaro-card-e-gekijou-gentei-03-a001-mo-hams.json) |
 | Hamtaro Card e: Gekijou Gentei - 03-A002: Minihamuzu | 356402 | [356402-hamtaro-card-e-gekijou-gentei-03-a002-minihamuzu.json](./356402-hamtaro-card-e-gekijou-gentei-03-a002-minihamuzu.json) |
 | Hamtaro Card e: Gekijou Gentei - 03-A003: Hamtaro | 356403 | [356403-hamtaro-card-e-gekijou-gentei-03-a003-hamtaro.json](./356403-hamtaro-card-e-gekijou-gentei-03-a003-hamtaro.json) |
@@ -1095,6 +1108,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamtaro Card e: Gekijou Gentei - 03-A019: Nonno-chan | 356419 | [356419-hamtaro-card-e-gekijou-gentei-03-a019-nonno-chan.json](./356419-hamtaro-card-e-gekijou-gentei-03-a019-nonno-chan.json) |
 | Hamtaro Card e: Gekijou Gentei - 03-A020: Good-chan | 356420 | [356420-hamtaro-card-e-gekijou-gentei-03-a020-good-chan.json](./356420-hamtaro-card-e-gekijou-gentei-03-a020-good-chan.json) |
 | Hamtaro Card e: Ham Ham Ham-ja! Maboroshi no Princess - Gekijou Gentei Minihamuzu & Mo Hams & Ko Hams Version | 356398 | [356398-hamtaro-card-e-ham-ham-ham-ja-maboroshi-no-princess-gekijou-gentei-minihamuzu-and-mo-hams-and-ko-hams-version.json](./356398-hamtaro-card-e-ham-ham-ham-ja-maboroshi-no-princess-gekijou-gentei-minihamuzu-and-mo-hams-and-ko-hams-version.json) |
+| Hamtaro Card e: Kaburu-kun Kaburu | 355824 | [355824-hamtaro-card-e-kaburu-kun-kaburu.json](./355824-hamtaro-card-e-kaburu-kun-kaburu.json) |
+| Hamtaro Card e: Kokohore Taishou-kun | 355822 | [355822-hamtaro-card-e-kokohore-taishou-kun.json](./355822-hamtaro-card-e-kokohore-taishou-kun.json) |
+| Hamtaro Card e: Maido-kun no Maido | 355821 | [355821-hamtaro-card-e-maido-kun-no-maido.json](./355821-hamtaro-card-e-maido-kun-no-maido.json) |
+| Hamtaro Card e: Neteru-kun wo Mamoru no Da | 355825 | [355825-hamtaro-card-e-neteru-kun-wo-mamoru-no-da.json](./355825-hamtaro-card-e-neteru-kun-wo-mamoru-no-da.json) |
 | Hamtaro: Ham-Ham Games | 6429 | [6429-hamtaro-ham-ham-games.json](./6429-hamtaro-ham-ham-games.json) |
 | Hamtaro: Ham-Ham Heartbreak | 6428 | [6428-hamtaro-ham-ham-heartbreak.json](./6428-hamtaro-ham-ham-heartbreak.json) |
 | Hamtaro: Ham-Hams Unite! | 22228 | [22228-hamtaro-ham-hams-unite.json](./22228-hamtaro-ham-hams-unite.json) |
