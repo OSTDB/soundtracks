@@ -3506,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingsport Festival | 193685 | [193685-kingsport-festival.json](./193685-kingsport-festival.json) |
 | Kingspray Graffiti | 26358 | [26358-kingspray-graffiti.json](./26358-kingspray-graffiti.json) |
 | KingsRoad | 23620 | [23620-kingsroad.json](./23620-kingsroad.json) |
+| Kingster | 382808 | [382808-kingster.json](./382808-kingster.json) |
 | Kingsvein | 243670 | [243670-kingsvein.json](./243670-kingsvein.json) |
 | Kingsway | 27712 | [27712-kingsway.json](./27712-kingsway.json) |
 | Kinguin: Become a Streaming Legend | 396493 | [396493-kinguin-become-a-streaming-legend.json](./396493-kinguin-become-a-streaming-legend.json) |
@@ -3728,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiro Ramy Story: The Junior | 123582 | [123582-kiro-ramy-story-the-junior.json](./123582-kiro-ramy-story-the-junior.json) |
 | Kiru Kiru Kiru | 257913 | [257913-kiru-kiru-kiru.json](./257913-kiru-kiru-kiru.json) |
 | Kirubiru | 93420 | [93420-kirubiru.json](./93420-kirubiru.json) |
+| Kirugakuen | 382803 | [382803-kirugakuen.json](./382803-kirugakuen.json) |
 | Kisaragi | 385512 | [385512-kisaragi.json](./385512-kisaragi.json) |
 | Kisaragi Gold Star: Nonstop Go Go!! | 272535 | [272535-kisaragi-gold-star-nonstop-go-go.json](./272535-kisaragi-gold-star-nonstop-go-go.json) |
 | Kisaragi no Hougyoku | 32132 | [32132-kisaragi-no-hougyoku.json](./32132-kisaragi-no-hougyoku.json) |
@@ -5739,6 +5741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kumamon Run | 283275 | [283275-kumamon-run.json](./283275-kumamon-run.json) |
 | Kumari Samsara: The Living Goddess | 402909 | [402909-kumari-samsara-the-living-goddess.json](./402909-kumari-samsara-the-living-goddess.json) |
 | Kumarn: The Wandering Spirit | 360910 | [360910-kumarn-the-wandering-spirit.json](./360910-kumarn-the-wandering-spirit.json) |
+| Kumasama | 382730 | [382730-kumasama.json](./382730-kumasama.json) |
 | Kumatanchi | 70683 | [70683-kumatanchi.json](./70683-kumatanchi.json) |
 | Kumatopia | 418205 | [418205-kumatopia.json](./418205-kumatopia.json) |
 | KumaWelt 1: Honey Frontier | 291183 | [291183-kumawelt-1-honey-frontier.json](./291183-kumawelt-1-honey-frontier.json) |
