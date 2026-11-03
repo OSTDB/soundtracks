@@ -5753,6 +5753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firearms Master | 335326 | [335326-firearms-master.json](./335326-firearms-master.json) |
 | Fireball | 18565 | [18565-fireball.json](./18565-fireball.json) |
 | Fireball | 374834 | [374834-fireball.json](./374834-fireball.json) |
+| Fireball | 377327 | [377327-fireball.json](./377327-fireball.json) |
 | Fireball | 91644 | [91644-fireball.json](./91644-fireball.json) |
 | Fireball Classic | 91446 | [91446-fireball-classic.json](./91446-fireball-classic.json) |
 | Fireball SE | 22313 | [22313-fireball-se.json](./22313-fireball-se.json) |
@@ -9021,6 +9022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For the People | 135844 | [135844-for-the-people.json](./135844-for-the-people.json) |
 | For the Realm | 423367 | [423367-for-the-realm.json](./423367-for-the-realm.json) |
 | For the Revenge | 107921 | [107921-for-the-revenge.json](./107921-for-the-revenge.json) |
+| For The Stars | 377329 | [377329-for-the-stars.json](./377329-for-the-stars.json) |
 | For the Warp | 127685 | [127685-for-the-warp.json](./127685-for-the-warp.json) |
 | For the Wheat | 361734 | [361734-for-the-wheat.json](./361734-for-the-wheat.json) |
 | For The Win | 321509 | [321509-for-the-win.json](./321509-for-the-win.json) |
