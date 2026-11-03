@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthling of Gaia | 294367 | [294367-earthling-of-gaia.json](./294367-earthling-of-gaia.json) |
 | Earthling Priorities | 229154 | [229154-earthling-priorities.json](./229154-earthling-priorities.json) |
 | Earthling's Undertaking | 371631 | [371631-earthlings-undertaking.json](./371631-earthlings-undertaking.json) |
+| Earthlings | 370937 | [370937-earthlings.json](./370937-earthlings.json) |
 | Earthlings Must Die | 123857 | [123857-earthlings-must-die.json](./123857-earthlings-must-die.json) |
 | Earthlock 2 | 136090 | [136090-earthlock-2.json](./136090-earthlock-2.json) |
 | Earthlock: Festival of Magic | 7202 | [7202-earthlock-festival-of-magic.json](./7202-earthlock-festival-of-magic.json) |
@@ -930,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes+ | 28586 | [28586-echoes.json](./28586-echoes.json) |
 | EchoEvade | 386295 | [386295-echoevade.json](./386295-echoevade.json) |
 | Echofall | 391560 | [391560-echofall.json](./391560-echofall.json) |
+| Echograph | 370967 | [370967-echograph.json](./370967-echograph.json) |
 | Echoic Memory | 151965 | [151965-echoic-memory.json](./151965-echoic-memory.json) |
 | Echoing Silence | 332957 | [332957-echoing-silence.json](./332957-echoing-silence.json) |
 | Echoland | 415209 | [415209-echoland.json](./415209-echoland.json) |
@@ -1146,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden.schemata(); | 151707 | [151707-eden-schemata.json](./151707-eden-schemata.json) |
 | Eden's Aegis | 143307 | [143307-edens-aegis.json](./143307-edens-aegis.json) |
 | Eden's Eclipse | 405559 | [405559-edens-eclipse.json](./405559-edens-eclipse.json) |
+| Eden’s Frontier | 369836 | [369836-eden-s-frontier.json](./369836-eden-s-frontier.json) |
 | Eden's Guardian | 265806 | [265806-edens-guardian.json](./265806-edens-guardian.json) |
 | Eden's Inferno | 353304 | [353304-edens-inferno.json](./353304-edens-inferno.json) |
 | Eden's Lair | 149497 | [149497-edens-lair.json](./149497-edens-lair.json) |
@@ -1827,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Narco | 321170 | [321170-el-narco.json](./321170-el-narco.json) |
 | El Ne Rue | 232943 | [232943-el-ne-rue.json](./232943-el-ne-rue.json) |
 | El Ninja | 57413 | [57413-el-ninja.json](./57413-el-ninja.json) |
+| El Norte Salvaje, Juego De Cartas RPG | 369808 | [369808-el-norte-salvaje-juego-de-cartas-rpg.json](./369808-el-norte-salvaje-juego-de-cartas-rpg.json) |
 | El Notas | 414382 | [414382-el-notas.json](./414382-el-notas.json) |
 | El Panadero: The Baker | 239662 | [239662-el-panadero-the-baker.json](./239662-el-panadero-the-baker.json) |
 | El Pansas | 110530 | [110530-el-pansas.json](./110530-el-pansas.json) |
@@ -3620,6 +3624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Rush | 261857 | [261857-endless-rush.json](./261857-endless-rush.json) |
 | Endless Salvation | 333168 | [333168-endless-salvation.json](./333168-endless-salvation.json) |
 | Endless Samurai | 235740 | [235740-endless-samurai.json](./235740-endless-samurai.json) |
+| Endless Sans | 370384 | [370384-endless-sans.json](./370384-endless-sans.json) |
 | Endless Savagery | 143921 | [143921-endless-savagery.json](./143921-endless-savagery.json) |
 | Endless Scroll | 131786 | [131786-endless-scroll.json](./131786-endless-scroll.json) |
 | Endless Season | 166583 | [166583-endless-season.json](./166583-endless-season.json) |
@@ -3992,6 +3997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ensemble Stars! 2 | 197334 | [197334-ensemble-stars-2.json](./197334-ensemble-stars-2.json) |
 | Ensemble Stars!! Music | 145907 | [145907-ensemble-stars-music.json](./145907-ensemble-stars-music.json) |
 | Ensemble Training!! | 364828 | [364828-ensemble-training.json](./364828-ensemble-training.json) |
+| Enshrined: Sword of Fates | 370968 | [370968-enshrined-sword-of-fates.json](./370968-enshrined-sword-of-fates.json) |
 | Enshrouded | 248643 | [248643-enshrouded.json](./248643-enshrouded.json) |
 | Enshrouded World: Home Truths | 27676 | [27676-enshrouded-world-home-truths.json](./27676-enshrouded-world-home-truths.json) |
 | Enshrouded: Thralls of Twilight | 339610 | [339610-enshrouded-thralls-of-twilight.json](./339610-enshrouded-thralls-of-twilight.json) |
@@ -7905,6 +7911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of Bain | 298804 | [298804-eye-of-bain.json](./298804-eye-of-bain.json) |
 | Eye of D'akess | 236732 | [236732-eye-of-dakess.json](./236732-eye-of-dakess.json) |
 | Eye of Horus | 12069 | [12069-eye-of-horus.json](./12069-eye-of-horus.json) |
+| Eye of Khaos | 370923 | [370923-eye-of-khaos.json](./370923-eye-of-khaos.json) |
 | Eye of Nollyn | 276193 | [276193-eye-of-nollyn.json](./276193-eye-of-nollyn.json) |
 | Eye of Odin | 43122 | [43122-eye-of-odin.json](./43122-eye-of-odin.json) |
 | Eye of Ouroboros | 158130 | [158130-eye-of-ouroboros.json](./158130-eye-of-ouroboros.json) |
