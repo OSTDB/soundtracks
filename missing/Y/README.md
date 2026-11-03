@@ -1753,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuko and the Akuma Menace | 153942 | [153942-yuko-and-the-akuma-menace.json](./153942-yuko-and-the-akuma-menace.json) |
 | Yuko: tragic love story | 95273 | [95273-yuko-tragic-love-story.json](./95273-yuko-tragic-love-story.json) |
 | Yukomon | 337755 | [337755-yukomon.json](./337755-yukomon.json) |
+| Yukon Russian Solitaire | 370352 | [370352-yukon-russian-solitaire.json](./370352-yukon-russian-solitaire.json) |
 | Yukti | 174360 | [174360-yukti.json](./174360-yukti.json) |
 | Yukyo Station | 216809 | [216809-yukyo-station.json](./216809-yukyo-station.json) |
 | Yul-Hyul Kangho M: Ruler of the Land | 174624 | [174624-yul-hyul-kangho-m-ruler-of-the-land.json](./174624-yul-hyul-kangho-m-ruler-of-the-land.json) |
