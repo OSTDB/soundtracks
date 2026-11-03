@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Stranded Spark | 304676 | [304676-a-stranded-spark.json](./304676-a-stranded-spark.json) |
 | A Strange City | 148280 | [148280-a-strange-city.json](./148280-a-strange-city.json) |
 | A Strange Hotel | 153773 | [153773-a-strange-hotel.json](./153773-a-strange-hotel.json) |
+| A Stray Line | 388733 | [388733-a-stray-line.json](./388733-a-stray-line.json) |
 | A Street Cat's Tale 2: Out side is Dangerous | 250774 | [250774-a-street-cats-tale-2-out-side-is-dangerous.json](./250774-a-street-cats-tale-2-out-side-is-dangerous.json) |
 | A Street Story | 98317 | [98317-a-street-story.json](./98317-a-street-story.json) |
 | A Stroke of Fate: Operation Bunker | 35155 | [35155-a-stroke-of-fate-operation-bunker.json](./35155-a-stroke-of-fate-operation-bunker.json) |
@@ -2010,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolutely: A True Crime Story | 117996 | [117996-absolutely-a-true-crime-story.json](./117996-absolutely-a-true-crime-story.json) |
 | Absolution | 412708 | [412708-absolution.json](./412708-absolution.json) |
 | Absolution of the Dead | 345661 | [345661-absolution-of-the-dead.json](./345661-absolution-of-the-dead.json) |
+| Absølve | 388778 | [388778-abs-lve.json](./388778-abs-lve.json) |
 | Absolved | 389697 | [389697-absolved.json](./389697-absolved.json) |
 | Absolver: Deluxe Edition | 52555 | [52555-absolver-deluxe-edition.json](./52555-absolver-deluxe-edition.json) |
 | Absolver: Downfall | 105421 | [105421-absolver-downfall.json](./105421-absolver-downfall.json) |
@@ -5798,6 +5800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaskan Road Truckers: Mother Truckers DLC | 371572 | [371572-alaskan-road-truckers-mother-truckers-dlc.json](./371572-alaskan-road-truckers-mother-truckers-dlc.json) |
 | Alaskan Road Truckers: Truck Skin Pack | 323265 | [323265-alaskan-road-truckers-truck-skin-pack.json](./323265-alaskan-road-truckers-truck-skin-pack.json) |
 | Alastrius | 383582 | [383582-alastrius.json](./383582-alastrius.json) |
+| Alaturka | 388665 | [388665-alaturka.json](./388665-alaturka.json) |
 | Alawar Adventure Collection | 52591 | [52591-alawar-adventure-collection.json](./52591-alawar-adventure-collection.json) |
 | Alawar Hidden Realms Bundle | 99790 | [99790-alawar-hidden-realms-bundle.json](./99790-alawar-hidden-realms-bundle.json) |
 | Alawon: Life of a Game Composer | 400274 | [400274-alawon-life-of-a-game-composer.json](./400274-alawon-life-of-a-game-composer.json) |
@@ -5903,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemistry | 171813 | [171813-alchemistry.json](./171813-alchemistry.json) |
 | Alchemists | 316465 | [316465-alchemists.json](./316465-alchemists.json) |
 | Alchemists' Garden | 199908 | [199908-alchemists-garden.json](./199908-alchemists-garden.json) |
+| Alchemortis | 388779 | [388779-alchemortis.json](./388779-alchemortis.json) |
 | Alchemos | 190041 | [190041-alchemos.json](./190041-alchemos.json) |
 | Alchemy | 179418 | [179418-alchemy.json](./179418-alchemy.json) |
 | Alchemy | 337805 | [337805-alchemy.json](./337805-alchemy.json) |
@@ -16172,6 +16176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Au-Delà | 191651 | [191651-au-dela.json](./191651-au-dela.json) |
 | Aubac | 416163 | [416163-aubac.json](./416163-aubac.json) |
 | Aube | 104450 | [104450-aube.json](./104450-aube.json) |
+| AubirdForce | 388782 | [388782-aubirdforce.json](./388782-aubirdforce.json) |
 | Aubirdforce After | 344855 | [344855-aubirdforce-after.json](./344855-aubirdforce-after.json) |
 | Auction | 192701 | [192701-auction.json](./192701-auction.json) |
 | Audiball | 70616 | [70616-audiball.json](./70616-audiball.json) |
