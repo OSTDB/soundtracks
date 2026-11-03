@@ -1503,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Pixel Battle | 411410 | [411410-idle-pixel-battle.json](./411410-idle-pixel-battle.json) |
 | Idle Pixel Crush - Ball Crush | 105876 | [105876-idle-pixel-crush-ball-crush.json](./105876-idle-pixel-crush-ball-crush.json) |
 | Idle Pixel Fantasy | 369699 | [369699-idle-pixel-fantasy.json](./369699-idle-pixel-fantasy.json) |
+| Idle Pixels | 364147 | [364147-idle-pixels.json](./364147-idle-pixels.json) |
 | Idle Pizza Business | 373736 | [373736-idle-pizza-business.json](./373736-idle-pizza-business.json) |
 | Idle Pizza Empire | 235299 | [235299-idle-pizza-empire.json](./235299-idle-pizza-empire.json) |
 | Idle Planet Miner | 361818 | [361818-idle-planet-miner.json](./361818-idle-planet-miner.json) |
