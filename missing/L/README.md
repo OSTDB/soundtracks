@@ -4312,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Redemption | 123904 | [123904-life-redemption.json](./123904-life-redemption.json) |
 | Life Save Service | 376677 | [376677-life-save-service.json](./376677-life-save-service.json) |
 | Life Saver | 247989 | [247989-life-saver.json](./247989-life-saver.json) |
+| Life Seeker | 398802 | [398802-life-seeker.json](./398802-life-seeker.json) |
 | Life Sim | 404409 | [404409-life-sim.json](./404409-life-sim.json) |
 | Life Sim | 90515 | [90515-life-sim.json](./90515-life-sim.json) |
 | Life Sim Bundle | 301534 | [301534-life-sim-bundle.json](./301534-life-sim-bundle.json) |
