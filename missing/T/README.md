@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabula Rasa | 21525 | [21525-tabula-rasa.json](./21525-tabula-rasa.json) |
 | Tabula Sono | 219563 | [219563-tabula-sono.json](./219563-tabula-sono.json) |
 | Tabulo | 337994 | [337994-tabulo.json](./337994-tabulo.json) |
+| Tabuto | 389340 | [389340-tabuto.json](./389340-tabuto.json) |
 | Tac Tiles | 38057 | [38057-tac-tiles.json](./38057-tac-tiles.json) |
 | Tac-Scan | 18667 | [18667-tac-scan.json](./18667-tac-scan.json) |
 | TAC: Tactical Armor Command | 23969 | [23969-tac-tactical-armor-command.json](./23969-tac-tactical-armor-command.json) |
@@ -3153,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teddy Bear Wars | 131605 | [131605-teddy-bear-wars.json](./131605-teddy-bear-wars.json) |
 | Teddy Bear Zombies | 120334 | [120334-teddy-bear-zombies.json](./120334-teddy-bear-zombies.json) |
 | Teddy Boy | 46100 | [46100-teddy-boy.json](./46100-teddy-boy.json) |
+| Teddy Collector | 389357 | [389357-teddy-collector.json](./389357-teddy-collector.json) |
 | Teddy Defender | 65274 | [65274-teddy-defender.json](./65274-teddy-defender.json) |
 | Teddy Factory | 206353 | [206353-teddy-factory.json](./206353-teddy-factory.json) |
 | Teddy Floppy Ear | 64894 | [64894-teddy-floppy-ear.json](./64894-teddy-floppy-ear.json) |
@@ -6503,6 +6505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The BreakFive | 339214 | [339214-the-breakfive.json](./339214-the-breakfive.json) |
 | the Breath. | 59242 | [59242-the-breath.json](./59242-the-breath.json) |
 | The Brew Barons | 149850 | [149850-the-brew-barons.json](./149850-the-brew-barons.json) |
+| The Brewline | 389336 | [389336-the-brewline.json](./389336-the-brewline.json) |
 | The Brick | 13440 | [13440-the-brick.json](./13440-the-brick.json) |
 | The Brick Wall | 92392 | [92392-the-brick-wall.json](./92392-the-brick-wall.json) |
 | The Bricksperience | 184370 | [184370-the-bricksperience.json](./184370-the-bricksperience.json) |
@@ -14453,6 +14456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Puppet Master | 30910 | [30910-the-puppet-master.json](./30910-the-puppet-master.json) |
 | The Puppet of Tersa: A Curious Place | 123237 | [123237-the-puppet-of-tersa-a-curious-place.json](./123237-the-puppet-of-tersa-a-curious-place.json) |
 | The Puppet Word Game | 220808 | [220808-the-puppet-word-game.json](./220808-the-puppet-word-game.json) |
+| The Puppet's Casket | 389332 | [389332-the-puppets-casket.json](./389332-the-puppets-casket.json) |
 | The Puppeteer | 252010 | [252010-the-puppeteer.json](./252010-the-puppeteer.json) |
 | The Pure Bundle | 82409 | [82409-the-pure-bundle.json](./82409-the-pure-bundle.json) |
 | The Pure Wargame | 72279 | [72279-the-pure-wargame.json](./72279-the-pure-wargame.json) |
@@ -14680,6 +14684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rebirth | 327223 | [327223-the-rebirth.json](./327223-the-rebirth.json) |
 | The Rebirth of Kingdom Lo | 244868 | [244868-the-rebirth-of-kingdom-lo.json](./244868-the-rebirth-of-kingdom-lo.json) |
 | The Rebirth Tale of Broken Horn Demon Lord Alice | 402741 | [402741-the-rebirth-tale-of-broken-horn-demon-lord-alice.json](./402741-the-rebirth-tale-of-broken-horn-demon-lord-alice.json) |
+| The Recipe for Life. A Journey Through Silent Apocalypses | 389260 | [389260-the-recipe-for-life-a-journey-through-silent-apocalypses.json](./389260-the-recipe-for-life-a-journey-through-silent-apocalypses.json) |
 | The Recipe of Madness | 134879 | [134879-the-recipe-of-madness.json](./134879-the-recipe-of-madness.json) |
 | The Reckoning Day | 55545 | [55545-the-reckoning-day.json](./55545-the-reckoning-day.json) |
 | The Reconnection Clinic | 183775 | [183775-the-reconnection-clinic.json](./183775-the-reconnection-clinic.json) |
