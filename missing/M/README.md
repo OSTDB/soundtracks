@@ -5624,7 +5624,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -12544,6 +12543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mira's Workshop | 169724 | [169724-miras-workshop.json](./169724-miras-workshop.json) |
 | Miracle | 386063 | [386063-miracle.json](./386063-miracle.json) |
 | Miracle Adventure Esparks | 49130 | [49130-miracle-adventure-esparks.json](./49130-miracle-adventure-esparks.json) |
+| Miracle Baseball | 385759 | [385759-miracle-baseball.json](./385759-miracle-baseball.json) |
 | Miracle Brave | 405560 | [405560-miracle-brave.json](./405560-miracle-brave.json) |
 | Miracle Casino Paradise | 37926 | [37926-miracle-casino-paradise.json](./37926-miracle-casino-paradise.json) |
 | Miracle Chou Party Plus: Sanae to Tenshi no Gensou Labyrinth | 206955 | [206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json](./206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json) |
@@ -12563,6 +12563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Party: Fushigi no Gensoukyou 2 | 206936 | [206936-miracle-party-fushigi-no-gensoukyou-2.json](./206936-miracle-party-fushigi-no-gensoukyou-2.json) |
 | Miracle Pool | 306934 | [306934-miracle-pool.json](./306934-miracle-pool.json) |
 | Miracle Ropit's Adventure in 2100 | 64685 | [64685-miracle-ropits-adventure-in-2100.json](./64685-miracle-ropits-adventure-in-2100.json) |
+| Miracle Seven | 385758 | [385758-miracle-seven.json](./385758-miracle-seven.json) |
 | Miracle Snack Shop | 113331 | [113331-miracle-snack-shop.json](./113331-miracle-snack-shop.json) |
 | Miracle Snack Shop: Philia After Story | 172342 | [172342-miracle-snack-shop-philia-after-story.json](./172342-miracle-snack-shop-philia-after-story.json) |
 | Miracle Space Race | 43779 | [43779-miracle-space-race.json](./43779-miracle-space-race.json) |
@@ -18930,6 +18931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Billionaire Girlfriend | 220335 | [220335-my-billionaire-girlfriend.json](./220335-my-billionaire-girlfriend.json) |
 | My Bimbo Dream: Season 1 | 368058 | [368058-my-bimbo-dream-season-1.json](./368058-my-bimbo-dream-season-1.json) |
 | My Bird | 368664 | [368664-my-bird.json](./368664-my-bird.json) |
+| My Birthday: Herpit | 385766 | [385766-my-birthday-herpit.json](./385766-my-birthday-herpit.json) |
 | My Bloodsucking 9-to-5 | 397260 | [397260-my-bloodsucking-9-to-5.json](./397260-my-bloodsucking-9-to-5.json) |
 | My Bloody Weekend | 219637 | [219637-my-bloody-weekend.json](./219637-my-bloody-weekend.json) |
 | My Body Coach | 67354 | [67354-my-body-coach.json](./67354-my-body-coach.json) |
