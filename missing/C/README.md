@@ -2272,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Girl Army II | 196692 | [196692-card-girl-army-ii.json](./196692-card-girl-army-ii.json) |
 | Card Guardians | 175698 | [175698-card-guardians.json](./175698-card-guardians.json) |
 | Card Guesser: Red or Black | 324160 | [324160-card-guesser-red-or-black.json](./324160-card-guesser-red-or-black.json) |
+| Card Heroes of Millford | 369797 | [369797-card-heroes-of-millford.json](./369797-card-heroes-of-millford.json) |
 | Card Hog | 126819 | [126819-card-hog.json](./126819-card-hog.json) |
 | Card Homestead | 404614 | [404614-card-homestead.json](./404614-card-homestead.json) |
 | Card Hunter | 17231 | [17231-card-hunter.json](./17231-card-hunter.json) |
@@ -9739,6 +9740,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clif Danger | 129401 | [129401-clif-danger.json](./129401-clif-danger.json) |
 | Cliff Empire | 99124 | [99124-cliff-empire.json](./99124-cliff-empire.json) |
 | Cliff Hanger | 24504 | [24504-cliff-hanger.json](./24504-cliff-hanger.json) |
+| Cliff Hanger | 369841 | [369841-cliff-hanger.json](./369841-cliff-hanger.json) |
+| Cliff Hanger PC | 369835 | [369835-cliff-hanger-pc.json](./369835-cliff-hanger-pc.json) |
 | Cliff Johnson's Labyrinth of Crete | 55831 | [55831-cliff-johnsons-labyrinth-of-crete.json](./55831-cliff-johnsons-labyrinth-of-crete.json) |
 | Cliff Kingdom | 401152 | [401152-cliff-kingdom.json](./401152-cliff-kingdom.json) |
 | Cliff Rush 3D | 322986 | [322986-cliff-rush-3d.json](./322986-cliff-rush-3d.json) |
@@ -12067,6 +12070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Alpha Rescue | 313538 | [313538-comet-alpha-rescue.json](./313538-comet-alpha-rescue.json) |
 | Comet Angel | 303736 | [303736-comet-angel.json](./303736-comet-angel.json) |
 | Comet Busters! | 74014 | [74014-comet-busters.json](./74014-comet-busters.json) |
+| Comet Catastrophe | 369837 | [369837-comet-catastrophe.json](./369837-comet-catastrophe.json) |
 | Comet Cats | 395341 | [395341-comet-cats.json](./395341-comet-cats.json) |
 | Comet Clash | 253460 | [253460-comet-clash.json](./253460-comet-clash.json) |
 | Comet Crash | 21246 | [21246-comet-crash.json](./21246-comet-crash.json) |
@@ -14521,6 +14525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosy Company Puzzle | 346686 | [346686-cosy-company-puzzle.json](./346686-cosy-company-puzzle.json) |
 | Cosy Housing | 391768 | [391768-cosy-housing.json](./391768-cosy-housing.json) |
 | CotBot Farm | 100496 | [100496-cotbot-farm.json](./100496-cotbot-farm.json) |
+| CoThrust | 369832 | [369832-cothrust.json](./369832-cothrust.json) |
 | Cotorro en Mano | 334712 | [334712-cotorro-en-mano.json](./334712-cotorro-en-mano.json) |
 | Cotropitorii | 113007 | [113007-cotropitorii.json](./113007-cotropitorii.json) |
 | Cottage Garden | 74224 | [74224-cottage-garden.json](./74224-cottage-garden.json) |
@@ -16137,6 +16142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Match | 298370 | [298370-creature-match.json](./298370-creature-match.json) |
 | Creature Menace: The Ultimate Nightmare | 374570 | [374570-creature-menace-the-ultimate-nightmare.json](./374570-creature-menace-the-ultimate-nightmare.json) |
 | Creature Oasis | 321925 | [321925-creature-oasis.json](./321925-creature-oasis.json) |
+| Creature Pedia | 369791 | [369791-creature-pedia.json](./369791-creature-pedia.json) |
 | Creature Quest | 138166 | [138166-creature-quest.json](./138166-creature-quest.json) |
 | Creature Resort | 136985 | [136985-creature-resort.json](./136985-creature-resort.json) |
 | Creature Romances: Kokonoe Kokoro | 89726 | [89726-creature-romances-kokonoe-kokoro.json](./89726-creature-romances-kokonoe-kokoro.json) |
