@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 in1 Racing Collection | 391258 | [391258-3-in1-racing-collection.json](./391258-3-in1-racing-collection.json) |
 | 3 Kings | 305270 | [305270-3-kings.json](./305270-3-kings.json) |
 | 3 Last Chances | 244883 | [244883-3-last-chances.json](./244883-3-last-chances.json) |
+| 3 Lines of a Delta | 388100 | [388100-3-lines-of-a-delta.json](./388100-3-lines-of-a-delta.json) |
 | 3 Little Pigs & Bad Wolf | 124267 | [124267-3-little-pigs-and-bad-wolf.json](./124267-3-little-pigs-and-bad-wolf.json) |
 | 3 minutes Mystery 2 | 300960 | [300960-3-minutes-mystery-2.json](./300960-3-minutes-mystery-2.json) |
 | 3 Minutes to Midnight | 86657 | [86657-3-minutes-to-midnight.json](./86657-3-minutes-to-midnight.json) |
