@@ -3933,6 +3933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feyhearth: the Art of Handling Extraordinary Clientele | 396354 | [396354-feyhearth-the-art-of-handling-extraordinary-clientele.json](./396354-feyhearth-the-art-of-handling-extraordinary-clientele.json) |
 | Feylin | 164188 | [164188-feylin.json](./164188-feylin.json) |
 | Feyruna - Fairy Forest | 73134 | [73134-feyruna-fairy-forest.json](./73134-feyruna-fairy-forest.json) |
+| Feywood Wanderers | 351371 | [351371-feywood-wanderers.json](./351371-feywood-wanderers.json) |
 | Fez II | 63291 | [63291-fez-ii.json](./63291-fez-ii.json) |
 | Fez Pocket Edition | 78543 | [78543-fez-pocket-edition.json](./78543-fez-pocket-edition.json) |
 | Feztal | 176887 | [176887-feztal.json](./176887-feztal.json) |
@@ -5487,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finnish Cabin Mayhem: Mökkimähinä | 321737 | [321737-finnish-cabin-mayhem-mokkimahina.json](./321737-finnish-cabin-mayhem-mokkimahina.json) |
 | Finnish Cottage 8 | 334484 | [334484-finnish-cottage-8.json](./334484-finnish-cottage-8.json) |
 | Finnish Cottage Simulator | 319559 | [319559-finnish-cottage-simulator.json](./319559-finnish-cottage-simulator.json) |
+| Finnish Forest | 351367 | [351367-finnish-forest.json](./351367-finnish-forest.json) |
 | Finnish Inheritance | 367842 | [367842-finnish-inheritance.json](./367842-finnish-inheritance.json) |
 | Finnish Pub Simulator | 326424 | [326424-finnish-pub-simulator.json](./326424-finnish-pub-simulator.json) |
 | Finnish Roller | 29671 | [29671-finnish-roller.json](./29671-finnish-roller.json) |
@@ -9285,7 +9287,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Pop | 218724 | [218724-forest-pop.json](./218724-forest-pop.json) |
 | Forest Problems | 161705 | [161705-forest-problems.json](./161705-forest-problems.json) |
 | Forest Puzzle | 209561 | [209561-forest-puzzle.json](./209561-forest-puzzle.json) |
+| Forest Ranger Services | 351376 | [351376-forest-ranger-services.json](./351376-forest-ranger-services.json) |
 | Forest Ranger Services: Episode 1 | 340232 | [340232-forest-ranger-services-episode-1.json](./340232-forest-ranger-services-episode-1.json) |
+| Forest Ranger Services: Episode 2 | 351374 | [351374-forest-ranger-services-episode-2.json](./351374-forest-ranger-services-episode-2.json) |
 | Forest Ranger Services: The Pilot | 288117 | [288117-forest-ranger-services-the-pilot.json](./288117-forest-ranger-services-the-pilot.json) |
 | Forest Reigns | 328032 | [328032-forest-reigns.json](./328032-forest-reigns.json) |
 | Forest Restoration | 361744 | [361744-forest-restoration.json](./361744-forest-restoration.json) |
