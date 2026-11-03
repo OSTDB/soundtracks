@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Selling Used Games | 379505 | [379505-a-game-about-selling-used-games.json](./379505-a-game-about-selling-used-games.json) |
 | A Game About Shooting Bullets At Bullets | 383674 | [383674-a-game-about-shooting-bullets-at-bullets.json](./383674-a-game-about-shooting-bullets-at-bullets.json) |
 | A Game About Sucking (Up Ghosts With a Vacuum) | 402671 | [402671-a-game-about-sucking-up-ghosts-with-a-vacuum.json](./402671-a-game-about-sucking-up-ghosts-with-a-vacuum.json) |
+| A Game About Typing The Alphabet | 350726 | [350726-a-game-about-typing-the-alphabet.json](./350726-a-game-about-typing-the-alphabet.json) |
 | A Game About You | 379504 | [379504-a-game-about-you.json](./379504-a-game-about-you.json) |
 | A Game Called Paako: The Game Called Paako | 293526 | [293526-a-game-called-paako-the-game-called-paako.json](./293526-a-game-called-paako-the-game-called-paako.json) |
 | A Game of Changes | 32728 | [32728-a-game-of-changes.json](./32728-a-game-of-changes.json) |
@@ -11320,6 +11321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apricot Kernel | 364531 | [364531-apricot-kernel.json](./364531-apricot-kernel.json) |
 | April | 110045 | [110045-april.json](./110045-april.json) |
 | April '86 | 251841 | [251841-april-86.json](./251841-april-86.json) |
+| April 18st | 350727 | [350727-april-18st.json](./350727-april-18st.json) |
 | April 24th | 295300 | [295300-april-24th.json](./295300-april-24th.json) |
 | April 7th | 58863 | [58863-april-7th.json](./58863-april-7th.json) |
 | April Freebee | 324819 | [324819-april-freebee.json](./324819-april-freebee.json) |
@@ -13776,6 +13778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Battle | 411747 | [411747-art-of-battle.json](./411747-art-of-battle.json) |
 | Art of Beauties | 385791 | [385791-art-of-beauties.json](./385791-art-of-beauties.json) |
 | Art of Blades | 292428 | [292428-art-of-blades.json](./292428-art-of-blades.json) |
+| Art of Bloodshed | 350747 | [350747-art-of-bloodshed.json](./350747-art-of-bloodshed.json) |
 | Art of Boxing | 129037 | [129037-art-of-boxing.json](./129037-art-of-boxing.json) |
 | Art of Conquest | 79154 | [79154-art-of-conquest.json](./79154-art-of-conquest.json) |
 | Art of Destruction | 152831 | [152831-art-of-destruction.json](./152831-art-of-destruction.json) |
