@@ -10387,6 +10387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood for the Queen | 383070 | [383070-blood-for-the-queen.json](./383070-blood-for-the-queen.json) |
 | Blood for the Throne | 370202 | [370202-blood-for-the-throne.json](./370202-blood-for-the-throne.json) |
 | Blood Foundry | 309205 | [309205-blood-foundry.json](./309205-blood-foundry.json) |
+| Blood Gauntlet | 397488 | [397488-blood-gauntlet.json](./397488-blood-gauntlet.json) |
 | Blood Gazm | 248672 | [248672-blood-gazm.json](./248672-blood-gazm.json) |
 | Blood Gear | 42020 | [42020-blood-gear.json](./42020-blood-gear.json) |
 | Blood girl | 177854 | [177854-blood-girl.json](./177854-blood-girl.json) |
@@ -16525,6 +16526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker | 170332 | [170332-bunker.json](./170332-bunker.json) |
 | Bunker | 22780 | [22780-bunker.json](./22780-bunker.json) |
 | Bunker | 380042 | [380042-bunker.json](./380042-bunker.json) |
+| Bunker 1024 | 397490 | [397490-bunker-1024.json](./397490-bunker-1024.json) |
 | Bunker 1945: Capture the Gray Wolf | 415073 | [415073-bunker-1945-capture-the-gray-wolf.json](./415073-bunker-1945-capture-the-gray-wolf.json) |
 | Bunker 21: Extended Edition | 215491 | [215491-bunker-21-extended-edition.json](./215491-bunker-21-extended-edition.json) |
 | Bunker 22 | 203892 | [203892-bunker-22.json](./203892-bunker-22.json) |
