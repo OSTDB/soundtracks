@@ -7096,6 +7096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Cup Cricket | 22337 | [22337-big-cup-cricket.json](./22337-big-cup-cricket.json) |
 | Big D Randy | 276269 | [276269-big-d-randy.json](./276269-big-d-randy.json) |
 | Big Dengi | 323417 | [323417-big-dengi.json](./323417-big-dengi.json) |
+| Big Dig | 399372 | [399372-big-dig.json](./399372-big-dig.json) |
 | Big Dig Energy | 343135 | [343135-big-dig-energy.json](./343135-big-dig-energy.json) |
 | Big Dipper | 112798 | [112798-big-dipper.json](./112798-big-dipper.json) |
 | Big Donut | 177218 | [177218-big-donut.json](./177218-big-donut.json) |
@@ -7899,6 +7900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bir Garip Diyar: Hatunum Nerede? | 346932 | [346932-bir-garip-diyar-hatunum-nerede.json](./346932-bir-garip-diyar-hatunum-nerede.json) |
 | Birb Café | 200356 | [200356-birb-cafe.json](./200356-birb-cafe.json) |
 | Birb Game | 343803 | [343803-birb-game.json](./343803-birb-game.json) |
+| Birb Taxi | 400006 | [400006-birb-taxi.json](./400006-birb-taxi.json) |
 | Birbout! | 148910 | [148910-birbout.json](./148910-birbout.json) |
 | Birch Simulator | 271136 | [271136-birch-simulator.json](./271136-birch-simulator.json) |
 | Birchian Flight Simulator | 119997 | [119997-birchian-flight-simulator.json](./119997-birchian-flight-simulator.json) |
@@ -15032,6 +15034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Crescent | 356248 | [356248-broken-crescent.json](./356248-broken-crescent.json) |
 | Broken Crown | 402545 | [402545-broken-crown.json](./402545-broken-crown.json) |
 | Broken Cycle | 407090 | [407090-broken-cycle.json](./407090-broken-cycle.json) |
+| Broken Dagger | 399967 | [399967-broken-dagger.json](./399967-broken-dagger.json) |
 | Broken Darwin | 124659 | [124659-broken-darwin.json](./124659-broken-darwin.json) |
 | Broken Dawn II | 175669 | [175669-broken-dawn-ii.json](./175669-broken-dawn-ii.json) |
 | Broken Depths RPG | 412898 | [412898-broken-depths-rpg.json](./412898-broken-depths-rpg.json) |
@@ -15127,6 +15130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrokenFolx | 176642 | [176642-brokenfolx.json](./176642-brokenfolx.json) |
 | BrokenLore: Ascend | 377235 | [377235-brokenlore-ascend.json](./377235-brokenlore-ascend.json) |
 | BrokenLore: Don't Lie | 370708 | [370708-brokenlore-dont-lie.json](./370708-brokenlore-dont-lie.json) |
+| BrokenLore: Don't Play | 399376 | [399376-brokenlore-dont-play.json](./399376-brokenlore-dont-play.json) |
 | BrokenLore: Low | 304308 | [304308-brokenlore-low.json](./304308-brokenlore-low.json) |
 | Brokensides | 419749 | [419749-brokensides.json](./419749-brokensides.json) |
 | Brolections 2022 | 193078 | [193078-brolections-2022.json](./193078-brolections-2022.json) |
@@ -16543,6 +16547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker Renovator | 216649 | [216649-bunker-renovator.json](./216649-bunker-renovator.json) |
 | Bunker Survival | 176098 | [176098-bunker-survival.json](./176098-bunker-survival.json) |
 | Bunker Tidy Up | 417324 | [417324-bunker-tidy-up.json](./417324-bunker-tidy-up.json) |
+| Bunker-7 | 399345 | [399345-bunker-7.json](./399345-bunker-7.json) |
 | Bunker: Nightmare Begins | 116925 | [116925-bunker-nightmare-begins.json](./116925-bunker-nightmare-begins.json) |
 | Bunker's Shadow | 293113 | [293113-bunkers-shadow.json](./293113-bunkers-shadow.json) |
 | Bunker16 | 223684 | [223684-bunker16.json](./223684-bunker16.json) |
