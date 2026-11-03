@@ -3625,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedro Kicks Back | 108932 | [108932-pedro-kicks-back.json](./108932-pedro-kicks-back.json) |
 | Pedro of Brazil | 265471 | [265471-pedro-of-brazil.json](./265471-pedro-of-brazil.json) |
 | Pedro's Adventures in Spanish | 159161 | [159161-pedros-adventures-in-spanish.json](./159161-pedros-adventures-in-spanish.json) |
+| Pedros Eggventure | 367650 | [367650-pedros-eggventure.json](./367650-pedros-eggventure.json) |
 | Pee Pee Bon Bon: Qusumi Masayuki No Appare Characters 100 | 279806 | [279806-pee-pee-bon-bon-qusumi-masayuki-no-appare-characters-100.json](./279806-pee-pee-bon-bon-qusumi-masayuki-no-appare-characters-100.json) |
 | Pee War! | 163861 | [163861-pee-war.json](./163861-pee-war.json) |
 | Peeb Adventures | 144744 | [144744-peeb-adventures.json](./144744-peeb-adventures.json) |
@@ -11480,6 +11481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Plaza | 307204 | [307204-poly-plaza.json](./307204-poly-plaza.json) |
 | Poly Plaza 2 | 377755 | [377755-poly-plaza-2.json](./377755-poly-plaza-2.json) |
 | Poly Puzzle: Animals | 235619 | [235619-poly-puzzle-animals.json](./235619-poly-puzzle-animals.json) |
+| Poly Puzzle: Birds | 367665 | [367665-poly-puzzle-birds.json](./367665-poly-puzzle-birds.json) |
 | Poly Puzzle: Dinosaurs | 221133 | [221133-poly-puzzle-dinosaurs.json](./221133-poly-puzzle-dinosaurs.json) |
 | Poly Puzzle: Dogs | 286418 | [286418-poly-puzzle-dogs.json](./286418-poly-puzzle-dogs.json) |
 | Poly Puzzle: Furries | 170229 | [170229-poly-puzzle-furries.json](./170229-poly-puzzle-furries.json) |
@@ -17386,6 +17388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle for Kids | 84066 | [84066-puzzle-for-kids.json](./84066-puzzle-for-kids.json) |
 | Puzzle For Peppa Pig | 100825 | [100825-puzzle-for-peppa-pig.json](./100825-puzzle-for-peppa-pig.json) |
 | Puzzle Forge Dungeon | 130197 | [130197-puzzle-forge-dungeon.json](./130197-puzzle-forge-dungeon.json) |
+| Puzzle Frame | 367646 | [367646-puzzle-frame.json](./367646-puzzle-frame.json) |
 | Puzzle Freak | 196795 | [196795-puzzle-freak.json](./196795-puzzle-freak.json) |
 | Puzzle Frenzy | 187276 | [187276-puzzle-frenzy.json](./187276-puzzle-frenzy.json) |
 | Puzzle Fruit Merge: Match Game | 376229 | [376229-puzzle-fruit-merge-match-game.json](./376229-puzzle-fruit-merge-match-game.json) |
