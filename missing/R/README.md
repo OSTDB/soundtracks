@@ -1806,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Range is HOT! | 146230 | [146230-range-is-hot.json](./146230-range-is-hot.json) |
 | Range Royale | 108426 | [108426-range-royale.json](./108426-range-royale.json) |
 | Rangedrifter | 401275 | [401275-rangedrifter.json](./401275-rangedrifter.json) |
+| Ranger | 388780 | [388780-ranger.json](./388780-ranger.json) |
 | Ranger Danger | 224740 | [224740-ranger-danger.json](./224740-ranger-danger.json) |
 | Ranger Force | 304422 | [304422-ranger-force.json](./304422-ranger-force.json) |
 | Ranger in Spider's den | 108353 | [108353-ranger-in-spiders-den.json](./108353-ranger-in-spiders-den.json) |
@@ -2098,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratshaker: Rat-Chan Pack | 395801 | [395801-ratshaker-rat-chan-pack.json](./395801-ratshaker-rat-chan-pack.json) |
 | Ratshaker: Ratsummer Pack | 408401 | [408401-ratshaker-ratsummer-pack.json](./408401-ratshaker-ratsummer-pack.json) |
 | Ratshot | 376215 | [376215-ratshot.json](./376215-ratshot.json) |
+| RatSpiderFrog | 388662 | [388662-ratspiderfrog.json](./388662-ratspiderfrog.json) |
 | Ratstronaut | 362912 | [362912-ratstronaut.json](./362912-ratstronaut.json) |
 | Ratten Reich | 195961 | [195961-ratten-reich.json](./195961-ratten-reich.json) |
 | Ratten Reich: Dance of Kings | 149032 | [149032-ratten-reich-dance-of-kings.json](./149032-ratten-reich-dance-of-kings.json) |
@@ -2535,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Birth Online | 133728 | [133728-re-birth-online.json](./133728-re-birth-online.json) |
 | Re:Birthday Song - Koi wo Utau Shinigami | 54920 | [54920-re-birthday-song-koi-wo-utau-shinigami.json](./54920-re-birthday-song-koi-wo-utau-shinigami.json) |
 | Re:Birthday Song: Koi wo Utau Shinigami - Another Record | 199220 | [199220-re-birthday-song-koi-wo-utau-shinigami-another-record.json](./199220-re-birthday-song-koi-wo-utau-shinigami-another-record.json) |
+| Re:Blade | 388692 | [388692-re-blade.json](./388692-re-blade.json) |
 | Re:Blue | 415482 | [415482-re-blue.json](./415482-re-blue.json) |
 | Re:bound | 229012 | [229012-re-bound.json](./229012-re-bound.json) |
 | Re:Bounding | 107668 | [107668-re-bounding.json](./107668-re-bounding.json) |
@@ -7446,6 +7449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Ages | 111564 | [111564-rise-of-ages.json](./111564-rise-of-ages.json) |
 | Rise of Agon | 57000 | [57000-rise-of-agon.json](./57000-rise-of-agon.json) |
 | Rise Of Anupet | 309644 | [309644-rise-of-anupet.json](./309644-rise-of-anupet.json) |
+| Rise of Atom | 388767 | [388767-rise-of-atom.json](./388767-rise-of-atom.json) |
 | Rise of Awakened: Project E | 216056 | [216056-rise-of-awakened-project-e.json](./216056-rise-of-awakened-project-e.json) |
 | Rise of Balloons | 29100 | [29100-rise-of-balloons.json](./29100-rise-of-balloons.json) |
 | Rise of Block | 256112 | [256112-rise-of-block.json](./256112-rise-of-block.json) |
@@ -7502,6 +7506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Nightmares | 20159 | [20159-rise-of-nightmares.json](./20159-rise-of-nightmares.json) |
 | Rise of Nosferacula | 179516 | [179516-rise-of-nosferacula.json](./179516-rise-of-nosferacula.json) |
 | Rise of Peles | 152794 | [152794-rise-of-peles.json](./152794-rise-of-peles.json) |
+| Rise of Pico: A Forgotten Hill Tale | 388681 | [388681-rise-of-pico-a-forgotten-hill-tale.json](./388681-rise-of-pico-a-forgotten-hill-tale.json) |
 | Rise of Piracy | 154973 | [154973-rise-of-piracy.json](./154973-rise-of-piracy.json) |
 | Rise of Prussia | 2069 | [2069-rise-of-prussia.json](./2069-rise-of-prussia.json) |
 | Rise of Prussia Gold | 36319 | [36319-rise-of-prussia-gold.json](./36319-rise-of-prussia-gold.json) |
@@ -7929,6 +7934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riviera: Yakusoku no Chi Riviera | 37281 | [37281-riviera-yakusoku-no-chi-riviera.json](./37281-riviera-yakusoku-no-chi-riviera.json) |
 | RiVR | 26844 | [26844-rivr.json](./26844-rivr.json) |
 | RivWorld | 144530 | [144530-rivworld.json](./144530-rivworld.json) |
+| Rixa | 388697 | [388697-rixa.json](./388697-rixa.json) |
 | Rixe | 392111 | [392111-rixe.json](./392111-rixe.json) |
 | Rixer | 260242 | [260242-rixer.json](./260242-rixer.json) |
 | Riyou | 369076 | [369076-riyou.json](./369076-riyou.json) |
@@ -11744,6 +11750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Sausage Run!: Emerald Edition | 411838 | [411838-run-sausage-run-emerald-edition.json](./411838-run-sausage-run-emerald-edition.json) |
 | Run Sausage Run!: Hella Weenies Edition | 376245 | [376245-run-sausage-run-hella-weenies-edition.json](./376245-run-sausage-run-hella-weenies-edition.json) |
 | Run Sausage Run!: Poison Edition | 396928 | [396928-run-sausage-run-poison-edition.json](./396928-run-sausage-run-poison-edition.json) |
+| Run Sheldon | 388670 | [388670-run-sheldon.json](./388670-run-sheldon.json) |
 | Run Show Quest | 280359 | [280359-run-show-quest.json](./280359-run-show-quest.json) |
 | Run Tank Run | 247889 | [247889-run-tank-run.json](./247889-run-tank-run.json) |
 | Run TavernQuest | 132835 | [132835-run-tavernquest.json](./132835-run-tavernquest.json) |
