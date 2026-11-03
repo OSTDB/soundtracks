@@ -1508,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys III | 206522 | [206522-ys-iii.json](./206522-ys-iii.json) |
 | Ys III: Wanderers from Ys | 201313 | [201313-ys-iii-wanderers-from-ys.json](./201313-ys-iii-wanderers-from-ys.json) |
 | Ys III: Wanderers from Ys | 206524 | [206524-ys-iii-wanderers-from-ys.json](./206524-ys-iii-wanderers-from-ys.json) |
+| Ys III: Wanderers from Ys | 375463 | [375463-ys-iii-wanderers-from-ys.json](./375463-ys-iii-wanderers-from-ys.json) |
 | Ys III: Wanderers from Ys | 375490 | [375490-ys-iii-wanderers-from-ys.json](./375490-ys-iii-wanderers-from-ys.json) |
 | Ys IV: Mask of the Sun | 15451 | [15451-ys-iv-mask-of-the-sun.json](./15451-ys-iv-mask-of-the-sun.json) |
 | Ys IV: The Dawn of Ys | 15452 | [15452-ys-iv-the-dawn-of-ys.json](./15452-ys-iv-the-dawn-of-ys.json) |
@@ -1576,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys: The Vanished Omens | 206129 | [206129-ys-the-vanished-omens.json](./206129-ys-the-vanished-omens.json) |
 | Ys: Wanderers from Ys | 15450 | [15450-ys-wanderers-from-ys.json](./15450-ys-wanderers-from-ys.json) |
 | Ys: Wanderers from Ys | 206523 | [206523-ys-wanderers-from-ys.json](./206523-ys-wanderers-from-ys.json) |
+| Ys: Wanderers from Ys | 375461 | [375461-ys-wanderers-from-ys.json](./375461-ys-wanderers-from-ys.json) |
 | YSFlight | 50309 | [50309-ysflight.json](./50309-ysflight.json) |
 | Ytbb | 188456 | [188456-ytbb.json](./188456-ytbb.json) |
 | YTP All-Stars | 370903 | [370903-ytp-all-stars.json](./370903-ytp-all-stars.json) |
