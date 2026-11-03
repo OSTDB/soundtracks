@@ -5795,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Chronicles: The Final Chapters | 209872 | [209872-heroes-chronicles-the-final-chapters.json](./209872-heroes-chronicles-the-final-chapters.json) |
 | Heroes Chronicles: The Sword of Frost | 8140 | [8140-heroes-chronicles-the-sword-of-frost.json](./8140-heroes-chronicles-the-sword-of-frost.json) |
 | Heroes Chronicles: Warlords of the Wasteland | 7845 | [7845-heroes-chronicles-warlords-of-the-wasteland.json](./7845-heroes-chronicles-warlords-of-the-wasteland.json) |
+| Heroes City Superman Edition | 354733 | [354733-heroes-city-superman-edition.json](./354733-heroes-city-superman-edition.json) |
 | Heroes Clash | 226778 | [226778-heroes-clash.json](./226778-heroes-clash.json) |
 | Heroes Corp | 214323 | [214323-heroes-corp.json](./214323-heroes-corp.json) |
 | Heroes de Peronia | 272761 | [272761-heroes-de-peronia.json](./272761-heroes-de-peronia.json) |
