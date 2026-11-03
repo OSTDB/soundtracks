@@ -3114,6 +3114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DDinosaur with Double D's | 332934 | [332934-ddinosaur-with-double-ds.json](./332934-ddinosaur-with-double-ds.json) |
 | DDM Soccer '96 | 93390 | [93390-ddm-soccer-96.json](./93390-ddm-soccer-96.json) |
 | DDoD | 361039 | [361039-ddod.json](./361039-ddod.json) |
+| DDOL | 392595 | [392595-ddol.json](./392595-ddol.json) |
 | DDR Festival Dance Dance Revolution | 269397 | [269397-ddr-festival-dance-dance-revolution.json](./269397-ddr-festival-dance-dance-revolution.json) |
 | DDraceNetwork | 136770 | [136770-ddracenetwork.json](./136770-ddracenetwork.json) |
 | DDRMax Dance Dance Revolution | 79707 | [79707-ddrmax-dance-dance-revolution.json](./79707-ddrmax-dance-dance-revolution.json) |
