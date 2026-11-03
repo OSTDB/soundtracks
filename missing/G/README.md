@@ -9507,6 +9507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grunn | 281353 | [281353-grunn.json](./281353-grunn.json) |
 | Grunnd | 167915 | [167915-grunnd.json](./167915-grunnd.json) |
 | Grunt 1991 | 236144 | [236144-grunt-1991.json](./236144-grunt-1991.json) |
+| Grunt's Castle | 376166 | [376166-grunts-castle.json](./376166-grunts-castle.json) |
 | Grunt1914 | 117398 | [117398-grunt1914.json](./117398-grunt1914.json) |
 | Grunty's Mansion | 267251 | [267251-gruntys-mansion.json](./267251-gruntys-mansion.json) |
 | Gruntz | 13225 | [13225-gruntz.json](./13225-gruntz.json) |
