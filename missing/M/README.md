@@ -4050,6 +4050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark of the Ninja: Remastered | 94969 | [94969-mark-of-the-ninja-remastered.json](./94969-mark-of-the-ninja-remastered.json) |
 | Mark of the Ninja: Special Edition DLC | 26891 | [26891-mark-of-the-ninja-special-edition-dlc.json](./26891-mark-of-the-ninja-special-edition-dlc.json) |
 | Mark One | 160121 | [160121-mark-one.json](./160121-mark-one.json) |
+| Mark the Game | 369268 | [369268-mark-the-game.json](./369268-mark-the-game.json) |
 | Mark the Headless Chicken | 391616 | [391616-mark-the-headless-chicken.json](./391616-mark-the-headless-chicken.json) |
 | Mark Twain's Tom Sawyer: Survival Game | 151108 | [151108-mark-twains-tom-sawyer-survival-game.json](./151108-mark-twains-tom-sawyer-survival-game.json) |
 | Mark-I: Mission Pilot | 156632 | [156632-mark-i-mission-pilot.json](./156632-mark-i-mission-pilot.json) |
@@ -5642,6 +5643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7791,6 +7793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megan The Fox | 287331 | [287331-megan-the-fox.json](./287331-megan-the-fox.json) |
 | Megan's Adventure | 310067 | [310067-megans-adventure.json](./310067-megans-adventure.json) |
 | Meganaut | 340021 | [340021-meganaut.json](./340021-meganaut.json) |
+| Megane Breaker | 369286 | [369286-megane-breaker.json](./369286-megane-breaker.json) |
 | Megania Online | 169487 | [169487-megania-online.json](./169487-megania-online.json) |
 | Megankreuzstilette | 252297 | [252297-megankreuzstilette.json](./252297-megankreuzstilette.json) |
 | Meganoid | 29184 | [29184-meganoid.json](./29184-meganoid.json) |
@@ -10663,6 +10666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midori Forest | 214908 | [214908-midori-forest.json](./214908-midori-forest.json) |
 | Midori No Makibao: Kuroi Inazuma Shiroi Kiseki | 396756 | [396756-midori-no-makibao-kuroi-inazuma-shiroi-kiseki.json](./396756-midori-no-makibao-kuroi-inazuma-shiroi-kiseki.json) |
 | Midori no Makibaoo | 228619 | [228619-midori-no-makibaoo.json](./228619-midori-no-makibaoo.json) |
+| Midsummer | 369285 | [369285-midsummer.json](./369285-midsummer.json) |
 | Midsummer Leg's Dream | 303791 | [303791-midsummer-legs-dream.json](./303791-midsummer-legs-dream.json) |
 | Midtown Crazy Race | 85290 | [85290-midtown-crazy-race.json](./85290-midtown-crazy-race.json) |
 | Midtown Madness | 2348 | [2348-midtown-madness.json](./2348-midtown-madness.json) |
@@ -15206,6 +15210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Radar | 94189 | [94189-monster-radar.json](./94189-monster-radar.json) |
 | Monster Radar Plus | 148202 | [148202-monster-radar-plus.json](./148202-monster-radar-plus.json) |
 | Monster Rain | 110226 | [110226-monster-rain.json](./110226-monster-rain.json) |
+| Monster Ramp Racing | 368753 | [368753-monster-ramp-racing.json](./368753-monster-ramp-racing.json) |
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
 | Monster Rancher 1 DX | 184782 | [184782-monster-rancher-1-dx.json](./184782-monster-rancher-1-dx.json) |
 | Monster Rancher 2 DX | 184783 | [184783-monster-rancher-2-dx.json](./184783-monster-rancher-2-dx.json) |
