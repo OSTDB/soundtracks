@@ -14779,6 +14779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakheir | 279389 | [279389-drakheir.json](./279389-drakheir.json) |
 | Drakkar | 13611 | [13611-drakkar.json](./13611-drakkar.json) |
 | Drakkar Crew | 107886 | [107886-drakkar-crew.json](./107886-drakkar-crew.json) |
+| DrakkenRidge | 371365 | [371365-drakkenridge.json](./371365-drakkenridge.json) |
 | Draknek and Friends Puzzle Bundle | 168691 | [168691-draknek-and-friends-puzzle-bundle.json](./168691-draknek-and-friends-puzzle-bundle.json) |
 | DraKoI | 60505 | [60505-drakoi.json](./60505-drakoi.json) |
 | Drakojan Skies | 404239 | [404239-drakojan-skies.json](./404239-drakojan-skies.json) |
