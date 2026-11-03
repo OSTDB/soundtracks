@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zardy's Maze | 139234 | [139234-zardys-maze.json](./139234-zardys-maze.json) |
 | Zargog | 356638 | [356638-zargog.json](./356638-zargog.json) |
 | Zargon | 106302 | [106302-zargon.json](./106302-zargon.json) |
+| Zaria | 386069 | [386069-zaria.json](./386069-zaria.json) |
 | Zarktor's Realm | 189172 | [189172-zarktors-realm.json](./189172-zarktors-realm.json) |
 | Zarlor Mercenary | 12371 | [12371-zarlor-mercenary.json](./12371-zarlor-mercenary.json) |
 | Zarth | 45977 | [45977-zarth.json](./45977-zarth.json) |
@@ -2255,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zork: The Undiscovered Underground | 1954 | [1954-zork-the-undiscovered-underground.json](./1954-zork-the-undiscovered-underground.json) |
 | ZorkQuest: Assault on Egreth Castle | 59856 | [59856-zorkquest-assault-on-egreth-castle.json](./59856-zorkquest-assault-on-egreth-castle.json) |
 | ZorkQuest: The Crystal of Doom | 59857 | [59857-zorkquest-the-crystal-of-doom.json](./59857-zorkquest-the-crystal-of-doom.json) |
+| Zorlac's Revenge | 386321 | [386321-zorlacs-revenge.json](./386321-zorlacs-revenge.json) |
 | Zorlok | 361789 | [361789-zorlok.json](./361789-zorlok.json) |
 | Zornhau | 408281 | [408281-zornhau.json](./408281-zornhau.json) |
 | ZoroMe | 252550 | [252550-zorome.json](./252550-zorome.json) |
