@@ -5599,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos | 156546 | [156546-chaos.json](./156546-chaos.json) |
 | Chaos | 300015 | [300015-chaos.json](./300015-chaos.json) |
 | Chaos | 334058 | [334058-chaos.json](./334058-chaos.json) |
+| Chaos | 367101 | [367101-chaos.json](./367101-chaos.json) |
 | Chaos | 91395 | [91395-chaos.json](./91395-chaos.json) |
 | Chaos A La Maison | 144076 | [144076-chaos-a-la-maison.json](./144076-chaos-a-la-maison.json) |
 | Chaos Academy | 208057 | [208057-chaos-academy.json](./208057-chaos-academy.json) |
@@ -8808,6 +8809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Brave | 150248 | [150248-city-of-brave.json](./150248-city-of-brave.json) |
 | City of Broken Dreamers: Book One | 172514 | [172514-city-of-broken-dreamers-book-one.json](./172514-city-of-broken-dreamers-book-one.json) |
 | City of Cards | 171555 | [171555-city-of-cards.json](./171555-city-of-cards.json) |
+| City of Cats | 367103 | [367103-city-of-cats.json](./367103-city-of-cats.json) |
 | City of Cats | 380073 | [380073-city-of-cats.json](./380073-city-of-cats.json) |
 | City of Chains | 34177 | [34177-city-of-chains.json](./34177-city-of-chains.json) |
 | City of Chaos | 360173 | [360173-city-of-chaos.json](./360173-city-of-chaos.json) |
@@ -9650,6 +9652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Quest | 157936 | [157936-click-quest.json](./157936-click-quest.json) |
 | Click Quest 3D | 169824 | [169824-click-quest-3d.json](./169824-click-quest-3d.json) |
 | Click Quest 3D 2: Plus | 379551 | [379551-click-quest-3d-2-plus.json](./379551-click-quest-3d-2-plus.json) |
+| Click Real Fast | 367105 | [367105-click-real-fast.json](./367105-click-real-fast.json) |
 | Click Space Miner | 31714 | [31714-click-space-miner.json](./31714-click-space-miner.json) |
 | Click Space Miner 2 | 120121 | [120121-click-space-miner-2.json](./120121-click-space-miner-2.json) |
 | Click Space Miner 2: Deluxe Edition | 170121 | [170121-click-space-miner-2-deluxe-edition.json](./170121-click-space-miner-2-deluxe-edition.json) |
