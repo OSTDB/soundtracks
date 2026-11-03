@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to New Atlantis | 127678 | [127678-journey-to-new-atlantis.json](./127678-journey-to-new-atlantis.json) |
 | Journey To Paradise | 411361 | [411361-journey-to-paradise.json](./411361-journey-to-paradise.json) |
 | Journey to Planet Earth | 128950 | [128950-journey-to-planet-earth.json](./128950-journey-to-planet-earth.json) |
+| Journey to Shambhala | 381525 | [381525-journey-to-shambhala.json](./381525-journey-to-shambhala.json) |
 | Journey to Silius | 9159 | [9159-journey-to-silius.json](./9159-journey-to-silius.json) |
 | Journey to Slimetopia | 371285 | [371285-journey-to-slimetopia.json](./371285-journey-to-slimetopia.json) |
 | Journey to Stonehenge | 69812 | [69812-journey-to-stonehenge.json](./69812-journey-to-stonehenge.json) |
