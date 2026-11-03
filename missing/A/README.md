@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Minecraft Movie | 338668 | [338668-a-minecraft-movie.json](./338668-a-minecraft-movie.json) |
 | A Mini Falafel Adventure | 56880 | [56880-a-mini-falafel-adventure.json](./56880-a-mini-falafel-adventure.json) |
 | A Mining Game | 120861 | [120861-a-mining-game.json](./120861-a-mining-game.json) |
+| A Minor Pest Problem | 363120 | [363120-a-minor-pest-problem.json](./363120-a-minor-pest-problem.json) |
 | A Mirror Puzzle | 209705 | [209705-a-mirror-puzzle.json](./209705-a-mirror-puzzle.json) |
 | A Mirror, Darkly | 340948 | [340948-a-mirror-darkly.json](./340948-a-mirror-darkly.json) |
 | A Missing Salesman | 301792 | [301792-a-missing-salesman.json](./301792-a-missing-salesman.json) |
@@ -15878,7 +15879,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
