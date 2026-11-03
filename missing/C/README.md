@@ -17497,6 +17497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush Penguin | 219233 | [219233-crush-penguin.json](./219233-crush-penguin.json) |
 | Crush Roller | 39641 | [39641-crush-roller.json](./39641-crush-roller.json) |
 | Crush Roller | 72747 | [72747-crush-roller.json](./72747-crush-roller.json) |
+| Crush Rush | 352615 | [352615-crush-rush.json](./352615-crush-rush.json) |
 | Crush the Castle 2 | 192099 | [192099-crush-the-castle-2.json](./192099-crush-the-castle-2.json) |
 | Crush the Castle 2 Players Pack | 399454 | [399454-crush-the-castle-2-players-pack.json](./399454-crush-the-castle-2-players-pack.json) |
 | Crush the Castle Players Pack | 399453 | [399453-crush-the-castle-players-pack.json](./399453-crush-the-castle-players-pack.json) |
