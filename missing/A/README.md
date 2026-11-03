@@ -2390,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney Investigations 2: Prosecutor's Gambit | 307145 | [307145-ace-attorney-investigations-2-prosecutors-gambit.json](./307145-ace-attorney-investigations-2-prosecutors-gambit.json) |
 | Ace Attorney Investigations Collection | 306152 | [306152-ace-attorney-investigations-collection.json](./306152-ace-attorney-investigations-collection.json) |
 | Ace Attorney Investigations: Miles Edgeworth | 1430 | [1430-ace-attorney-investigations-miles-edgeworth.json](./1430-ace-attorney-investigations-miles-edgeworth.json) |
+| Ace Attorney Investigations: Miles Edgeworth | 384241 | [384241-ace-attorney-investigations-miles-edgeworth.json](./384241-ace-attorney-investigations-miles-edgeworth.json) |
 | Ace Attorney Online: The Game | 303774 | [303774-ace-attorney-online-the-game.json](./303774-ace-attorney-online-the-game.json) |
 | Ace Attorney Turnabout Collection | 146326 | [146326-ace-attorney-turnabout-collection.json](./146326-ace-attorney-turnabout-collection.json) |
 | Ace Attorney: Athena Cykes - Wisdom at Law | 308533 | [308533-ace-attorney-athena-cykes-wisdom-at-law.json](./308533-ace-attorney-athena-cykes-wisdom-at-law.json) |
@@ -14367,6 +14368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin Blue | 124628 | [124628-assassin-blue.json](./124628-assassin-blue.json) |
 | Assassin Girls | 286746 | [286746-assassin-girls.json](./286746-assassin-girls.json) |
 | Assassin In the City | 181767 | [181767-assassin-in-the-city.json](./181767-assassin-in-the-city.json) |
+| Assassin of Demon | 383984 | [383984-assassin-of-demon.json](./383984-assassin-of-demon.json) |
 | Assassin Of Dombardos | 406159 | [406159-assassin-of-dombardos.json](./406159-assassin-of-dombardos.json) |
 | Assassin of Dragon | 389819 | [389819-assassin-of-dragon.json](./389819-assassin-of-dragon.json) |
 | Assassin of Goblin | 370159 | [370159-assassin-of-goblin.json](./370159-assassin-of-goblin.json) |
