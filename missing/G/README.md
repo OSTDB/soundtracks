@@ -2104,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gatecrasher | 207840 | [207840-gatecrasher.json](./207840-gatecrasher.json) |
 | Gatedelvers | 217382 | [217382-gatedelvers.json](./217382-gatedelvers.json) |
 | Gatekeeper | 222906 | [222906-gatekeeper.json](./222906-gatekeeper.json) |
+| Gatekeeper of the Yin Dynasty | 372590 | [372590-gatekeeper-of-the-yin-dynasty.json](./372590-gatekeeper-of-the-yin-dynasty.json) |
 | Gatekeeper Simulator: Inner Circle | 407484 | [407484-gatekeeper-simulator-inner-circle.json](./407484-gatekeeper-simulator-inner-circle.json) |
 | Gatekeeper: Eclipse | 226801 | [226801-gatekeeper-eclipse.json](./226801-gatekeeper-eclipse.json) |
 | Gatekeeper: Infinity | 247898 | [247898-gatekeeper-infinity.json](./247898-gatekeeper-infinity.json) |
@@ -3678,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Rider | 218142 | [218142-ghost-rider.json](./218142-ghost-rider.json) |
 | Ghost Rider | 6420 | [6420-ghost-rider.json](./6420-ghost-rider.json) |
 | Ghost Ring: The Soul Labyrinth | 60265 | [60265-ghost-ring-the-soul-labyrinth.json](./60265-ghost-ring-the-soul-labyrinth.json) |
+| Ghost Ripper | 372708 | [372708-ghost-ripper.json](./372708-ghost-ripper.json) |
 | Ghost Road | 272707 | [272707-ghost-road.json](./272707-ghost-road.json) |
 | Ghost Room | 291882 | [291882-ghost-room.json](./291882-ghost-room.json) |
 | Ghost Room Deep | 343720 | [343720-ghost-room-deep.json](./343720-ghost-room-deep.json) |
