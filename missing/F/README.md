@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Threats | 110170 | [110170-fallen-threats.json](./110170-fallen-threats.json) |
 | Fallen Times | 68762 | [68762-fallen-times.json](./68762-fallen-times.json) |
 | Fallen Valiant: Loopy | 120012 | [120012-fallen-valiant-loopy.json](./120012-fallen-valiant-loopy.json) |
+| Fallen Vestige | 371194 | [371194-fallen-vestige.json](./371194-fallen-vestige.json) |
 | Fallen World | 148938 | [148938-fallen-world.json](./148938-fallen-world.json) |
 | Fallen Worlds | 199749 | [199749-fallen-worlds.json](./199749-fallen-worlds.json) |
 | Fallen, the last light | 164267 | [164267-fallen-the-last-light.json](./164267-fallen-the-last-light.json) |
@@ -5209,6 +5210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Meow in Wild West | 356748 | [356748-find-meow-in-wild-west.json](./356748-find-meow-in-wild-west.json) |
 | Find My Frogs | 347218 | [347218-find-my-frogs.json](./347218-find-my-frogs.json) |
 | Find My Frogs: Branches | 362893 | [362893-find-my-frogs-branches.json](./362893-find-my-frogs-branches.json) |
+| Find My Love | 371494 | [371494-find-my-love.json](./371494-find-my-love.json) |
 | Find My Mom | 387057 | [387057-find-my-mom.json](./387057-find-my-mom.json) |
 | Find My Shadow | 97207 | [97207-find-my-shadow.json](./97207-find-my-shadow.json) |
 | Find My Weiner | 292292 | [292292-find-my-weiner.json](./292292-find-my-weiner.json) |
@@ -9993,6 +9995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress Europe | 61897 | [61897-fortress-europe.json](./61897-fortress-europe.json) |
 | Fortress Forever | 30237 | [30237-fortress-forever.json](./30237-fortress-forever.json) |
 | Fortress Forge | 310928 | [310928-fortress-forge.json](./310928-fortress-forge.json) |
+| Fortress Fury | 371511 | [371511-fortress-fury.json](./371511-fortress-fury.json) |
 | Fortress Guardian | 394140 | [394140-fortress-guardian.json](./394140-fortress-guardian.json) |
 | Fortress Interior | 272168 | [272168-fortress-interior.json](./272168-fortress-interior.json) |
 | Fortress Legends | 323128 | [323128-fortress-legends.json](./323128-fortress-legends.json) |
