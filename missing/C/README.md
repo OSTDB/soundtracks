@@ -3693,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Craft | 404190 | [404190-cat-craft.json](./404190-cat-craft.json) |
 | Cat Crisis | 412438 | [412438-cat-crisis.json](./412438-cat-crisis.json) |
 | Cat Crunch | 304955 | [304955-cat-crunch.json](./304955-cat-crunch.json) |
+| Cat Cursor by Travellin Cats | 394275 | [394275-cat-cursor-by-travellin-cats.json](./394275-cat-cursor-by-travellin-cats.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
 | Cat Dash Go | 236232 | [236232-cat-dash-go.json](./236232-cat-dash-go.json) |
 | Cat Defense | 116940 | [116940-cat-defense.json](./116940-cat-defense.json) |
@@ -15912,6 +15913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Train | 41759 | [41759-crazy-train.json](./41759-crazy-train.json) |
 | Crazy Trucks | 186579 | [186579-crazy-trucks.json](./186579-crazy-trucks.json) |
 | Crazy Vacation | 310553 | [310553-crazy-vacation.json](./310553-crazy-vacation.json) |
+| Crazy Valet | 394351 | [394351-crazy-valet.json](./394351-crazy-valet.json) |
 | Crazy Valet | 40719 | [40719-crazy-valet.json](./40719-crazy-valet.json) |
 | Crazy Valet CGE | 70749 | [70749-crazy-valet-cge.json](./70749-crazy-valet-cge.json) |
 | Crazy Veggies | 28787 | [28787-crazy-veggies.json](./28787-crazy-veggies.json) |
