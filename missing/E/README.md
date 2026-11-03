@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Mana | 174178 | [174178-echoes-of-mana.json](./174178-echoes-of-mana.json) |
 | Echoes of Mayhem | 197207 | [197207-echoes-of-mayhem.json](./197207-echoes-of-mayhem.json) |
 | Echoes of Midnight | 405883 | [405883-echoes-of-midnight.json](./405883-echoes-of-midnight.json) |
+| Echoes of MK-ULTRA | 367679 | [367679-echoes-of-mk-ultra.json](./367679-echoes-of-mk-ultra.json) |
 | Echoes of Mora | 361858 | [361858-echoes-of-mora.json](./361858-echoes-of-mora.json) |
 | Echoes of Mystralia | 314426 | [314426-echoes-of-mystralia.json](./314426-echoes-of-mystralia.json) |
 | Echoes of Nara | 348321 | [348321-echoes-of-nara.json](./348321-echoes-of-nara.json) |
