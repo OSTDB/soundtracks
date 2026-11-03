@@ -2864,6 +2864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inagawa de Ikou!! | 317803 | [317803-inagawa-de-ikou.json](./317803-inagawa-de-ikou.json) |
 | Inago Rage | 335797 | [335797-inago-rage.json](./335797-inago-rage.json) |
 | Inaka Gurashi: Minami no Shima no Monogatari | 56385 | [56385-inaka-gurashi-minami-no-shima-no-monogatari.json](./56385-inaka-gurashi-minami-no-shima-no-monogatari.json) |
+| Inaka no Koukou de Atta Kowai Hanashi | 381546 | [381546-inaka-no-koukou-de-atta-kowai-hanashi.json](./381546-inaka-no-koukou-de-atta-kowai-hanashi.json) |
 | Inamina | 273895 | [273895-inamina.json](./273895-inamina.json) |
 | Inamorata | 299865 | [299865-inamorata.json](./299865-inamorata.json) |
 | Inanima | 237189 | [237189-inanima.json](./237189-inanima.json) |
