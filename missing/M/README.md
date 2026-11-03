@@ -1484,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Pool | 64040 | [64040-magical-pool.json](./64040-magical-pool.json) |
 | Magical Pop'n | 9671 | [9671-magical-popn.json](./9671-magical-popn.json) |
 | Magical Princess | 339996 | [339996-magical-princess.json](./339996-magical-princess.json) |
+| Magical Princess Lily | 376625 | [376625-magical-princess-lily.json](./376625-magical-princess-lily.json) |
 | Magical Prisma | 130404 | [130404-magical-prisma.json](./130404-magical-prisma.json) |
 | Magical Psalter II: Féngmó zhī Tú | 394500 | [394500-magical-psalter-ii-fengmo-zhi-tu.json](./394500-magical-psalter-ii-fengmo-zhi-tu.json) |
 | Magical Psalter: Yù Mó zhī Lù | 394412 | [394412-magical-psalter-yu-mo-zhi-lu.json](./394412-magical-psalter-yu-mo-zhi-lu.json) |
@@ -5968,6 +5969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: Nightmare Realm | 102516 | [102516-maze-nightmare-realm.json](./102516-maze-nightmare-realm.json) |
 | Maze: Path of Light | 322572 | [322572-maze-path-of-light.json](./322572-maze-path-of-light.json) |
 | Maze: Path of Light - Complete Edition | 358666 | [358666-maze-path-of-light-complete-edition.json](./358666-maze-path-of-light-complete-edition.json) |
+| Maze: Path of Light - Dusk Edition | 376783 | [376783-maze-path-of-light-dusk-edition.json](./376783-maze-path-of-light-dusk-edition.json) |
 | Maze: Path of Light - Forest Edition | 362372 | [362372-maze-path-of-light-forest-edition.json](./362372-maze-path-of-light-forest-edition.json) |
 | Maze: Path of Light - Oasis Constellations | 354194 | [354194-maze-path-of-light-oasis-constellations.json](./354194-maze-path-of-light-oasis-constellations.json) |
 | Maze: Path of Light - Oasis Edition | 404280 | [404280-maze-path-of-light-oasis-edition.json](./404280-maze-path-of-light-oasis-edition.json) |
@@ -14714,9 +14716,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Camp Character Pack: Colorful Campers | 378384 | [378384-monster-camp-character-pack-colorful-campers.json](./378384-monster-camp-character-pack-colorful-campers.json) |
 | Monster Car Garage Fun | 103098 | [103098-monster-car-garage-fun.json](./103098-monster-car-garage-fun.json) |
 | Monster Cards | 212605 | [212605-monster-cards.json](./212605-monster-cards.json) |
+| Monster Cards: Plus License | 376423 | [376423-monster-cards-plus-license.json](./376423-monster-cards-plus-license.json) |
 | Monster Cards: Skill Pack - Card of Horror | 376425 | [376425-monster-cards-skill-pack-card-of-horror.json](./376425-monster-cards-skill-pack-card-of-horror.json) |
 | Monster Cards: Skill Pack - Card of Inspiration | 376427 | [376427-monster-cards-skill-pack-card-of-inspiration.json](./376427-monster-cards-skill-pack-card-of-inspiration.json) |
 | Monster Cards: Skill Pack - Card of Named | 376426 | [376426-monster-cards-skill-pack-card-of-named.json](./376426-monster-cards-skill-pack-card-of-named.json) |
+| Monster Cards: Skill Pack - Card of Sunrise | 376424 | [376424-monster-cards-skill-pack-card-of-sunrise.json](./376424-monster-cards-skill-pack-card-of-sunrise.json) |
 | Monster Care Simulator | 326387 | [326387-monster-care-simulator.json](./326387-monster-care-simulator.json) |
 | Monster Challenge Circus | 17395 | [17395-monster-challenge-circus.json](./17395-monster-challenge-circus.json) |
 | Monster Charmer | 310724 | [310724-monster-charmer.json](./310724-monster-charmer.json) |
@@ -14937,12 +14941,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Stories 3: Twisted Reflection - Accessory: Pearl Earrings | 412287 | [412287-monster-hunter-stories-3-twisted-reflection-accessory-pearl-earrings.json](./412287-monster-hunter-stories-3-twisted-reflection-accessory-pearl-earrings.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Accessory: Protective Band | 412285 | [412285-monster-hunter-stories-3-twisted-reflection-accessory-protective-band.json](./412285-monster-hunter-stories-3-twisted-reflection-accessory-protective-band.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Accessory: Royal Monocle | 412283 | [412283-monster-hunter-stories-3-twisted-reflection-accessory-royal-monocle.json](./412283-monster-hunter-stories-3-twisted-reflection-accessory-royal-monocle.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Additional Side Story: Rudy | 376793 | [376793-monster-hunter-stories-3-twisted-reflection-additional-side-story-rudy.json](./376793-monster-hunter-stories-3-twisted-reflection-additional-side-story-rudy.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Deluxe Edition | 376773 | [376773-monster-hunter-stories-3-twisted-reflection-deluxe-edition.json](./376773-monster-hunter-stories-3-twisted-reflection-deluxe-edition.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Goss Hairagy | 378869 | [378869-monster-hunter-stories-3-twisted-reflection-goss-hairagy.json](./378869-monster-hunter-stories-3-twisted-reflection-goss-hairagy.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Hellfire Tail | 378870 | [378870-monster-hunter-stories-3-twisted-reflection-hellfire-tail.json](./378870-monster-hunter-stories-3-twisted-reflection-hellfire-tail.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Eleanor: Foreign Dancer | 376782 | [376782-monster-hunter-stories-3-twisted-reflection-layered-armor-for-eleanor-foreign-dancer.json](./376782-monster-hunter-stories-3-twisted-reflection-layered-armor-for-eleanor-foreign-dancer.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Gaul: Fur-tive Five Leader | 376781 | [376781-monster-hunter-stories-3-twisted-reflection-layered-armor-for-gaul-fur-tive-five-leader.json](./376781-monster-hunter-stories-3-twisted-reflection-layered-armor-for-gaul-fur-tive-five-leader.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Kora: Attendant's Attire | 376780 | [376780-monster-hunter-stories-3-twisted-reflection-layered-armor-for-kora-attendants-attire.json](./376780-monster-hunter-stories-3-twisted-reflection-layered-armor-for-kora-attendants-attire.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Ogden: Summertime Ogden | 376784 | [376784-monster-hunter-stories-3-twisted-reflection-layered-armor-for-ogden-summertime-ogden.json](./376784-monster-hunter-stories-3-twisted-reflection-layered-armor-for-ogden-summertime-ogden.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Simon: Wind Wyvern's Friend | 394804 | [394804-monster-hunter-stories-3-twisted-reflection-layered-armor-for-simon-wind-wyverns-friend.json](./394804-monster-hunter-stories-3-twisted-reflection-layered-armor-for-simon-wind-wyverns-friend.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Thea: Canyne Ward | 378874 | [378874-monster-hunter-stories-3-twisted-reflection-layered-armor-for-thea-canyne-ward.json](./378874-monster-hunter-stories-3-twisted-reflection-layered-armor-for-thea-canyne-ward.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Monster Hair: Espinas Spikes | 376786 | [376786-monster-hunter-stories-3-twisted-reflection-monster-hair-espinas-spikes.json](./376786-monster-hunter-stories-3-twisted-reflection-monster-hair-espinas-spikes.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Monster Hair: Garangolm Nest | 376787 | [376787-monster-hunter-stories-3-twisted-reflection-monster-hair-garangolm-nest.json](./376787-monster-hunter-stories-3-twisted-reflection-monster-hair-garangolm-nest.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Monster Hair: Malzeno Bob | 376788 | [376788-monster-hunter-stories-3-twisted-reflection-monster-hair-malzeno-bob.json](./376788-monster-hunter-stories-3-twisted-reflection-monster-hair-malzeno-bob.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Monster Hair: Octolocks Princess | 376785 | [376785-monster-hunter-stories-3-twisted-reflection-monster-hair-octolocks-princess.json](./376785-monster-hunter-stories-3-twisted-reflection-monster-hair-octolocks-princess.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Premium Deluxe Edition | 378855 | [378855-monster-hunter-stories-3-twisted-reflection-premium-deluxe-edition.json](./378855-monster-hunter-stories-3-twisted-reflection-premium-deluxe-edition.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Relaxed-acabra | 378872 | [378872-monster-hunter-stories-3-twisted-reflection-rudys-outfit-relaxed-acabra.json](./378872-monster-hunter-stories-3-twisted-reflection-rudys-outfit-relaxed-acabra.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Rudy's Arkbelt | 376789 | [376789-monster-hunter-stories-3-twisted-reflection-rudys-outfit-rudys-arkbelt.json](./376789-monster-hunter-stories-3-twisted-reflection-rudys-outfit-rudys-arkbelt.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Rudyzeno | 376792 | [376792-monster-hunter-stories-3-twisted-reflection-rudys-outfit-rudyzeno.json](./376792-monster-hunter-stories-3-twisted-reflection-rudys-outfit-rudyzeno.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Scintillating Armor | 376791 | [376791-monster-hunter-stories-3-twisted-reflection-rudys-outfit-scintillating-armor.json](./376791-monster-hunter-stories-3-twisted-reflection-rudys-outfit-scintillating-armor.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Shogun Rudy | 376790 | [376790-monster-hunter-stories-3-twisted-reflection-rudys-outfit-shogun-rudy.json](./376790-monster-hunter-stories-3-twisted-reflection-rudys-outfit-shogun-rudy.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Special Outfits Set | 376797 | [376797-monster-hunter-stories-3-twisted-reflection-special-outfits-set.json](./376797-monster-hunter-stories-3-twisted-reflection-special-outfits-set.json) |
 | Monster Hunter Stories Collection | 292151 | [292151-monster-hunter-stories-collection.json](./292151-monster-hunter-stories-collection.json) |
 | Monster Hunter Stories Deluxe Collection | 306546 | [306546-monster-hunter-stories-deluxe-collection.json](./306546-monster-hunter-stories-deluxe-collection.json) |
