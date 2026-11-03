@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Tengoku: Cruisin Mix | 52187 | [52187-game-tengoku-cruisin-mix.json](./52187-game-tengoku-cruisin-mix.json) |
 | Game Tengoku: Cruisin Mix Special - Gokuraku Box | 167054 | [167054-game-tengoku-cruisin-mix-special-gokuraku-box.json](./167054-game-tengoku-cruisin-mix-special-gokuraku-box.json) |
 | Game Tester Quest | 283308 | [283308-game-tester-quest.json](./283308-game-tester-quest.json) |
+| Game the Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!: Dungeon and Mystery Girl | 396950 | [396950-game-the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser-provisional-dungeon-and-mystery-girl.json](./396950-game-the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser-provisional-dungeon-and-mystery-girl.json) |
 | Game Time Glizzys | 266298 | [266298-game-time-glizzys.json](./266298-game-time-glizzys.json) |
 | Game Title | 139818 | [139818-game-title.json](./139818-game-title.json) |
 | Game Title | 376524 | [376524-game-title.json](./376524-game-title.json) |
@@ -4379,6 +4380,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls' Civilization 3 | 207398 | [207398-girls-civilization-3.json](./207398-girls-civilization-3.json) |
 | Girls' Day Out | 407327 | [407327-girls-day-out.json](./407327-girls-day-out.json) |
 | Girls' Dorm Wars | 359346 | [359346-girls-dorm-wars.json](./359346-girls-dorm-wars.json) |
+| Girls’ Dorm: Managing an All-Girls’ Dormitory | 396952 | [396952-girls-dorm-managing-an-all-girls-dormitory.json](./396952-girls-dorm-managing-an-all-girls-dormitory.json) |
+| Girls’ Dorm: Managing an All-Girls’ Dormitory - After | 396953 | [396953-girls-dorm-managing-an-all-girls-dormitory-after.json](./396953-girls-dorm-managing-an-all-girls-dormitory-after.json) |
 | Girls' Fashion Shoot | 79894 | [79894-girls-fashion-shoot.json](./79894-girls-fashion-shoot.json) |
 | Girls' Film Club! | 410245 | [410245-girls-film-club.json](./410245-girls-film-club.json) |
 | Girls' Frontline | 58075 | [58075-girls-frontline.json](./58075-girls-frontline.json) |
@@ -4530,6 +4533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GladMort | 320021 | [320021-gladmort.json](./320021-gladmort.json) |
 | Gladom: The 2D MOBA in Pixel Art | 121469 | [121469-gladom-the-2d-moba-in-pixel-art.json](./121469-gladom-the-2d-moba-in-pixel-art.json) |
 | Gladston Valley | 366181 | [366181-gladston-valley.json](./366181-gladston-valley.json) |
+| GlagStone | 396946 | [396946-glagstone.json](./396946-glagstone.json) |
 | Glais Gawizt | 266765 | [266765-glais-gawizt.json](./266765-glais-gawizt.json) |
 | Glaive | 262009 | [262009-glaive.json](./262009-glaive.json) |
 | Glaive | 31965 | [31965-glaive.json](./31965-glaive.json) |
@@ -4909,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory Wall! | 393838 | [393838-glory-wall.json](./393838-glory-wall.json) |
 | Glory Warrior: Lord of Darkness | 32963 | [32963-glory-warrior-lord-of-darkness.json](./32963-glory-warrior-lord-of-darkness.json) |
 | Glory's Witness | 161407 | [161407-glorys-witness.json](./161407-glorys-witness.json) |
+| Glossolalia | 396992 | [396992-glossolalia.json](./396992-glossolalia.json) |
 | Glove on Fight | 56983 | [56983-glove-on-fight.json](./56983-glove-on-fight.json) |
 | Glove On Fight 2: Gleam of Force | 56984 | [56984-glove-on-fight-2-gleam-of-force.json](./56984-glove-on-fight-2-gleam-of-force.json) |
 | Glove Pilot | 380537 | [380537-glove-pilot.json](./380537-glove-pilot.json) |
@@ -6427,6 +6432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golfinite | 219801 | [219801-golfinite.json](./219801-golfinite.json) |
 | Golfinity | 60075 | [60075-golfinity.json](./60075-golfinity.json) |
 | Golfish | 409519 | [409519-golfish.json](./409519-golfish.json) |
+| Golfle | 396995 | [396995-golfle.json](./396995-golfle.json) |
 | Golfme | 390748 | [390748-golfme.json](./390748-golfme.json) |
 | Golfslinger | 330943 | [330943-golfslinger.json](./330943-golfslinger.json) |
 | Golftacular! | 351646 | [351646-golftacular.json](./351646-golftacular.json) |
@@ -8741,6 +8747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridz | 229815 | [229815-gridz.json](./229815-gridz.json) |
 | Gridz Keeper | 378760 | [378760-gridz-keeper.json](./378760-gridz-keeper.json) |
 | Grief | 207713 | [207713-grief.json](./207713-grief.json) |
+| Grief | 396971 | [396971-grief.json](./396971-grief.json) |
 | Grief | 415253 | [415253-grief.json](./415253-grief.json) |
 | Grief | 61934 | [61934-grief.json](./61934-grief.json) |
 | Grief Like a Stray Dog | 195531 | [195531-grief-like-a-stray-dog.json](./195531-grief-like-a-stray-dog.json) |
