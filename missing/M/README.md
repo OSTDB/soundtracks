@@ -4733,6 +4733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Extinction | 261817 | [261817-mass-extinction.json](./261817-mass-extinction.json) |
 | Mass for the Dead | 115452 | [115452-mass-for-the-dead.json](./115452-mass-for-the-dead.json) |
 | Mass Harvest | 211183 | [211183-mass-harvest.json](./211183-mass-harvest.json) |
+| Mass Mayhem | 393886 | [393886-mass-mayhem.json](./393886-mass-mayhem.json) |
 | Mass Mayhem 2 | 393902 | [393902-mass-mayhem-2.json](./393902-mass-mayhem-2.json) |
 | Mass Mayhem 2099 A.D. | 394147 | [394147-mass-mayhem-2099-a-d.json](./394147-mass-mayhem-2099-a-d.json) |
 | Mass Mayhem 3 | 393904 | [393904-mass-mayhem-3.json](./393904-mass-mayhem-3.json) |
@@ -12847,6 +12848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss World '96 | 38567 | [38567-miss-world-96.json](./38567-miss-world-96.json) |
 | Miss World '96: Nude | 63152 | [63152-miss-world-96-nude.json](./63152-miss-world-96-nude.json) |
 | Miss You | 157915 | [157915-miss-you.json](./157915-miss-you.json) |
+| Miss! Don't Affect my Rank | 393840 | [393840-miss-dont-affect-my-rank.json](./393840-miss-dont-affect-my-rank.json) |
 | Missão Bioma | 341277 | [341277-missao-bioma.json](./341277-missao-bioma.json) |
 | Missed Messages. | 118171 | [118171-missed-messages.json](./118171-missed-messages.json) |
 | Misshapen | 128977 | [128977-misshapen.json](./128977-misshapen.json) |
@@ -18958,6 +18960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My City - Entertainment Tycoon | 105926 | [105926-my-city-entertainment-tycoon.json](./105926-my-city-entertainment-tycoon.json) |
 | My City and Army | 155985 | [155985-my-city-and-army.json](./155985-my-city-and-army.json) |
 | My City: Newborn Baby | 214328 | [214328-my-city-newborn-baby.json](./214328-my-city-newborn-baby.json) |
+| My Classmate is AV Actress | 393708 | [393708-my-classmate-is-av-actress.json](./393708-my-classmate-is-av-actress.json) |
 | My Clinical Death | 414168 | [414168-my-clinical-death.json](./414168-my-clinical-death.json) |
 | My Clone Army: Me, Myself & I | 224010 | [224010-my-clone-army-me-myself-and-i.json](./224010-my-clone-army-me-myself-and-i.json) |
 | My College Life is Very Happy | 405168 | [405168-my-college-life-is-very-happy.json](./405168-my-college-life-is-very-happy.json) |
