@@ -2964,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jujutsu Kaisen: Cursed Clash - The Shibuya Incident | 307753 | [307753-jujutsu-kaisen-cursed-clash-the-shibuya-incident.json](./307753-jujutsu-kaisen-cursed-clash-the-shibuya-incident.json) |
 | Jujutsu Kaisen: Cursed Clash - Ultimate Edition | 276325 | [276325-jujutsu-kaisen-cursed-clash-ultimate-edition.json](./276325-jujutsu-kaisen-cursed-clash-ultimate-edition.json) |
 | Jujutsu Kaisen: Phantom Parade | 174523 | [174523-jujutsu-kaisen-phantom-parade.json](./174523-jujutsu-kaisen-phantom-parade.json) |
+| Jujutsu: Shibuya Incident | 398741 | [398741-jujutsu-shibuya-incident.json](./398741-jujutsu-shibuya-incident.json) |
 | Jujutsutchi 0 | 230186 | [230186-jujutsutchi-0.json](./230186-jujutsutchi-0.json) |
 | Jukai Maze | 387051 | [387051-jukai-maze.json](./387051-jukai-maze.json) |
 | Jukaya | 180587 | [180587-jukaya.json](./180587-jukaya.json) |
@@ -3047,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Ball-Bounce on Tower Tile | 105909 | [105909-jump-ball-bounce-on-tower-tile.json](./105909-jump-ball-bounce-on-tower-tile.json) |
 | Jump Barrel | 239334 | [239334-jump-barrel.json](./239334-jump-barrel.json) |
 | Jump Boy | 261076 | [261076-jump-boy.json](./261076-jump-boy.json) |
+| Jump Broke | 398751 | [398751-jump-broke.json](./398751-jump-broke.json) |
 | Jump Bug | 25696 | [25696-jump-bug.json](./25696-jump-bug.json) |
 | Jump Bunny | 390457 | [390457-jump-bunny.json](./390457-jump-bunny.json) |
 | Jump Burger | 292003 | [292003-jump-burger.json](./292003-jump-burger.json) |
