@@ -9275,6 +9275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Video Game Nerd I & II Deluxe | 114146 | [114146-angry-video-game-nerd-i-and-ii-deluxe.json](./114146-angry-video-game-nerd-i-and-ii-deluxe.json) |
 | Angry VS Android | 88075 | [88075-angry-vs-android.json](./88075-angry-vs-android.json) |
 | Angry World War 2 | 234070 | [234070-angry-world-war-2.json](./234070-angry-world-war-2.json) |
+| Angry Youth | 394281 | [394281-angry-youth.json](./394281-angry-youth.json) |
 | Angry Zombies | 88844 | [88844-angry-zombies.json](./88844-angry-zombies.json) |
 | Angrymals | 178364 | [178364-angrymals.json](./178364-angrymals.json) |
 | Angst | 216203 | [216203-angst.json](./216203-angst.json) |
