@@ -4791,6 +4791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
 | AHTS Ship Simulator | 44207 | [44207-ahts-ship-simulator.json](./44207-ahts-ship-simulator.json) |
 | Ai & the Demon & the Curse of Lust | 372758 | [372758-ai-and-the-demon-and-the-curse-of-lust.json](./372758-ai-and-the-demon-and-the-curse-of-lust.json) |
+| Ai Ai Kissaten | 364221 | [364221-ai-ai-kissaten.json](./364221-ai-ai-kissaten.json) |
 | AI Alpha Cat | 129524 | [129524-ai-alpha-cat.json](./129524-ai-alpha-cat.json) |
 | AI Apocalypse | 402749 | [402749-ai-apocalypse.json](./402749-ai-apocalypse.json) |
 | AI Asylum | 329034 | [329034-ai-asylum.json](./329034-ai-asylum.json) |
@@ -5713,6 +5714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akogare Mario World | 284225 | [284225-akogare-mario-world.json](./284225-akogare-mario-world.json) |
 | Akogare no Onna Joushi ga Shin'ya no Office de Onatteru Tokoro o Mite kara Hajimaru Himitsu no Kankei. | 230237 | [230237-akogare-no-onna-joushi-ga-shinya-no-office-de-onatteru-tokoro-o-mite-kara-hajimaru-himitsu-no-kankei.json](./230237-akogare-no-onna-joushi-ga-shinya-no-office-de-onatteru-tokoro-o-mite-kara-hajimaru-himitsu-no-kankei.json) |
 | Akolyta | 116211 | [116211-akolyta.json](./116211-akolyta.json) |
+| Akolyte | 364152 | [364152-akolyte.json](./364152-akolyte.json) |
 | Akpala | 266122 | [266122-akpala.json](./266122-akpala.json) |
 | Akrasia | 91828 | [91828-akrasia.json](./91828-akrasia.json) |
 | Akron | 306990 | [306990-akron.json](./306990-akron.json) |
@@ -6113,6 +6115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex the Ball | 304385 | [304385-alex-the-ball.json](./304385-alex-the-ball.json) |
 | Alex the Rabbit | 392877 | [392877-alex-the-rabbit.json](./392877-alex-the-rabbit.json) |
 | AleX-World | 125285 | [125285-alex-world.json](./125285-alex-world.json) |
+| Alex: Virus Composer | 364154 | [364154-alex-virus-composer.json](./364154-alex-virus-composer.json) |
 | Alex's Caves | 316145 | [316145-alexs-caves.json](./316145-alexs-caves.json) |
 | Alex's Journey to the Grave | 319226 | [319226-alexs-journey-to-the-grave.json](./319226-alexs-journey-to-the-grave.json) |
 | Alex's Mobs | 334021 | [334021-alexs-mobs.json](./334021-alexs-mobs.json) |
@@ -6127,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alexander the Great: Secrets of Power | 58039 | [58039-alexander-the-great-secrets-of-power.json](./58039-alexander-the-great-secrets-of-power.json) |
 | Alexander: Heroes of the Conquest | 202679 | [202679-alexander-heroes-of-the-conquest.json](./202679-alexander-heroes-of-the-conquest.json) |
 | Alexander: The Heroes Hour | 130040 | [130040-alexander-the-heroes-hour.json](./130040-alexander-the-heroes-hour.json) |
+| Alexander: The Road to Percia | 364155 | [364155-alexander-the-road-to-percia.json](./364155-alexander-the-road-to-percia.json) |
 | Alexandra Fortune: Mystery of the Lunar Archipelago | 177047 | [177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json](./177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json) |
 | Alexandra Ledermann 2: Equitation Competition | 278849 | [278849-alexandra-ledermann-2-equitation-competition.json](./278849-alexandra-ledermann-2-equitation-competition.json) |
 | Alexandra Ledermann 5 : Legacy of the Stud | 381906 | [381906-alexandra-ledermann-5-legacy-of-the-stud.json](./381906-alexandra-ledermann-5-legacy-of-the-stud.json) |
@@ -15053,6 +15057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Noctis | 250808 | [250808-astra-noctis.json](./250808-astra-noctis.json) |
 | Astra Protocol 2 | 165305 | [165305-astra-protocol-2.json](./165305-astra-protocol-2.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
+| Astra Protocol Remake | 364172 | [364172-astra-protocol-remake.json](./364172-astra-protocol-remake.json) |
 | Astra Quest | 347718 | [347718-astra-quest.json](./347718-astra-quest.json) |
 | Astra Sentinel | 392126 | [392126-astra-sentinel.json](./392126-astra-sentinel.json) |
 | Astra Space Defender | 401820 | [401820-astra-space-defender.json](./401820-astra-space-defender.json) |
