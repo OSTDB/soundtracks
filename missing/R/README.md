@@ -12417,6 +12417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust in Peace | 271765 | [271765-rust-in-peace.json](./271765-rust-in-peace.json) |
 | Rust Knight | 193948 | [193948-rust-knight.json](./193948-rust-knight.json) |
 | Rust Mobile | 358975 | [358975-rust-mobile.json](./358975-rust-mobile.json) |
+| Rust Moon | 361433 | [361433-rust-moon.json](./361433-rust-moon.json) |
 | Rust of New York | 407168 | [407168-rust-of-new-york.json](./407168-rust-of-new-york.json) |
 | Rust of Steel | 328922 | [328922-rust-of-steel.json](./328922-rust-of-steel.json) |
 | Rust Onslaught | 341511 | [341511-rust-onslaught.json](./341511-rust-onslaught.json) |
