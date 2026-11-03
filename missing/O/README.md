@@ -3555,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange Salvifique | 172513 | [172513-orange-salvifique.json](./172513-orange-salvifique.json) |
 | Orange Santa | 151131 | [151131-orange-santa.json](./151131-orange-santa.json) |
 | Orange Season | 34231 | [34231-orange-season.json](./34231-orange-season.json) |
+| Orange Shaker | 384478 | [384478-orange-shaker.json](./384478-orange-shaker.json) |
 | Orange Simulator | 351769 | [351769-orange-simulator.json](./351769-orange-simulator.json) |
 | Orange: The Annoying Clicker | 314358 | [314358-orange-the-annoying-clicker.json](./314358-orange-the-annoying-clicker.json) |
 | Orangeblood | 119591 | [119591-orangeblood.json](./119591-orangeblood.json) |
