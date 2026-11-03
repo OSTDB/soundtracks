@@ -12525,6 +12525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PostZ: Zombies VR | 172148 | [172148-postz-zombies-vr.json](./172148-postz-zombies-vr.json) |
 | Pòsuì Fǎshù | 121308 | [121308-posui-fashu.json](./121308-posui-fashu.json) |
 | Poszukiwacze Zaginionej Warszawy | 85962 | [85962-poszukiwacze-zaginionej-warszawy.json](./85962-poszukiwacze-zaginionej-warszawy.json) |
+| Pot | 376411 | [376411-pot.json](./376411-pot.json) |
 | Pot Breaker | 223444 | [223444-pot-breaker.json](./223444-pot-breaker.json) |
 | Pot Farm | 137394 | [137394-pot-farm.json](./137394-pot-farm.json) |
 | Pot Farm - Grass Roots | 39215 | [39215-pot-farm-grass-roots.json](./39215-pot-farm-grass-roots.json) |
