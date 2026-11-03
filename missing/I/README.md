@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IceLine | 221129 | [221129-iceline.json](./221129-iceline.json) |
 | Iceman: Digital PlayStage | 180837 | [180837-iceman-digital-playstage.json](./180837-iceman-digital-playstage.json) |
 | Icemaze Cave: Skate Escape | 195560 | [195560-icemaze-cave-skate-escape.json](./195560-icemaze-cave-skate-escape.json) |
+| Icenoid | 364805 | [364805-icenoid.json](./364805-icenoid.json) |
 | Iceroyds! | 126502 | [126502-iceroyds.json](./126502-iceroyds.json) |
 | Icesolation | 116121 | [116121-icesolation.json](./116121-icesolation.json) |
 | Icetwine | 346403 | [346403-icetwine.json](./346403-icetwine.json) |
@@ -3641,6 +3642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6327,6 +6329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itadaki Street: Gorgeous King | 60478 | [60478-itadaki-street-gorgeous-king.json](./60478-itadaki-street-gorgeous-king.json) |
 | Itako Works | 182898 | [182898-itako-works.json](./182898-itako-works.json) |
 | Italia 1990 | 94594 | [94594-italia-1990.json](./94594-italia-1990.json) |
+| Italian Brainrot | 364804 | [364804-italian-brainrot.json](./364804-italian-brainrot.json) |
 | Italian Brainrot TCG | 369541 | [369541-italian-brainrot-tcg.json](./369541-italian-brainrot-tcg.json) |
 | Italian Brainrot: Arena | 348706 | [348706-italian-brainrot-arena.json](./348706-italian-brainrot-arena.json) |
 | Italian Brainrot: In Prison | 367674 | [367674-italian-brainrot-in-prison.json](./367674-italian-brainrot-in-prison.json) |
