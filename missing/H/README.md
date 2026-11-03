@@ -4346,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellreaper | 371214 | [371214-hellreaper.json](./371214-hellreaper.json) |
 | Hellrider | 143083 | [143083-hellrider.json](./143083-hellrider.json) |
 | Hellrider 3 | 232607 | [232607-hellrider-3.json](./232607-hellrider-3.json) |
+| Hellrifters | 390890 | [390890-hellrifters.json](./390890-hellrifters.json) |
 | Hellrooms | 324322 | [324322-hellrooms.json](./324322-hellrooms.json) |
 | Hells Bend on Wounded Knee | 248679 | [248679-hells-bend-on-wounded-knee.json](./248679-hells-bend-on-wounded-knee.json) |
 | Hells Divide | 121359 | [121359-hells-divide.json](./121359-hells-divide.json) |
