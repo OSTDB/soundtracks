@@ -2593,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Lief - Shinai Naru Anata he: For Switch | 197684 | [197684-re-lief-shinai-naru-anata-he-for-switch.json](./197684-re-lief-shinai-naru-anata-he-for-switch.json) |
 | Re:Lord 2 - The witch of Cologne and black cat | 189940 | [189940-re-lord-2-the-witch-of-cologne-and-black-cat.json](./189940-re-lord-2-the-witch-of-cologne-and-black-cat.json) |
 | Re:Memento - White Shadow | 326138 | [326138-re-memento-white-shadow.json](./326138-re-memento-white-shadow.json) |
+| Re:Memento - White Shadow: When the Cadella Blooms Again | 350163 | [350163-re-memento-white-shadow-when-the-cadella-blooms-again.json](./350163-re-memento-white-shadow-when-the-cadella-blooms-again.json) |
 | Re:Metamorphosis Candina | 409768 | [409768-re-metamorphosis-candina.json](./409768-re-metamorphosis-candina.json) |
 | Re:Mobilize | 270851 | [270851-re-mobilize.json](./270851-re-mobilize.json) |
 | Re:Mobilize Jam 3: Re:Frigerated | 393783 | [393783-re-mobilize-jam-3-re-frigerated.json](./393783-re-mobilize-jam-3-re-frigerated.json) |
@@ -6013,6 +6014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of the Saiyans | 237407 | [237407-return-of-the-saiyans.json](./237407-return-of-the-saiyans.json) |
 | Return of the Skeletal | 135175 | [135175-return-of-the-skeletal.json](./135175-return-of-the-skeletal.json) |
 | Return of the Slimepires | 288848 | [288848-return-of-the-slimepires.json](./288848-return-of-the-slimepires.json) |
+| Return of the Soul | 350310 | [350310-return-of-the-soul.json](./350310-return-of-the-soul.json) |
 | Return of the Space Warrior | 37293 | [37293-return-of-the-space-warrior.json](./37293-return-of-the-space-warrior.json) |
 | Return of the Things | 66627 | [66627-return-of-the-things.json](./66627-return-of-the-things.json) |
 | Return of the Triad | 163083 | [163083-return-of-the-triad.json](./163083-return-of-the-triad.json) |
@@ -10218,6 +10220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms II | 350627 | [350627-romance-of-the-three-kingdoms-ii.json](./350627-romance-of-the-three-kingdoms-ii.json) |
 | Romance of the Three Kingdoms II | 7026 | [7026-romance-of-the-three-kingdoms-ii.json](./7026-romance-of-the-three-kingdoms-ii.json) |
 | Romance of the Three Kingdoms IV with Power Up Kit | 91114 | [91114-romance-of-the-three-kingdoms-iv-with-power-up-kit.json](./91114-romance-of-the-three-kingdoms-iv-with-power-up-kit.json) |
+| Romance of the Three Kingdoms IV: Wall of Fire | 350298 | [350298-romance-of-the-three-kingdoms-iv-wall-of-fire.json](./350298-romance-of-the-three-kingdoms-iv-wall-of-fire.json) |
 | Romance of the Three Kingdoms IV: Wall of Fire | 350561 | [350561-romance-of-the-three-kingdoms-iv-wall-of-fire.json](./350561-romance-of-the-three-kingdoms-iv-wall-of-fire.json) |
 | Romance of the Three Kingdoms IV: Wall of Fire | 7040 | [7040-romance-of-the-three-kingdoms-iv-wall-of-fire.json](./7040-romance-of-the-three-kingdoms-iv-wall-of-fire.json) |
 | Romance of the Three Kingdoms IX with Power Up Kit | 74684 | [74684-romance-of-the-three-kingdoms-ix-with-power-up-kit.json](./74684-romance-of-the-three-kingdoms-ix-with-power-up-kit.json) |
@@ -10817,6 +10820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roterra: Flip the Fairytale | 114537 | [114537-roterra-flip-the-fairytale.json](./114537-roterra-flip-the-fairytale.json) |
 | Rotfang: The House | 417563 | [417563-rotfang-the-house.json](./417563-rotfang-the-house.json) |
 | Rotfront | 404800 | [404800-rotfront.json](./404800-rotfront.json) |
+| Rotgut | 350301 | [350301-rotgut.json](./350301-rotgut.json) |
 | Rothdam! | 196865 | [196865-rothdam.json](./196865-rothdam.json) |
 | RoThings | 227951 | [227951-rothings.json](./227951-rothings.json) |
 | Rothschild: The Sheep Will Wake | 34136 | [34136-rothschild-the-sheep-will-wake.json](./34136-rothschild-the-sheep-will-wake.json) |
