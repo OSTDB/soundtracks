@@ -1282,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Tower | 210644 | [210644-magic-tower.json](./210644-magic-tower.json) |
 | Magic Tower | 267517 | [267517-magic-tower.json](./267517-magic-tower.json) |
 | Magic Tower | 81118 | [81118-magic-tower.json](./81118-magic-tower.json) |
+| Magic Tower & Maidens | 389269 | [389269-magic-tower-and-maidens.json](./389269-magic-tower-and-maidens.json) |
 | Magic Tower 2018 | 111628 | [111628-magic-tower-2018.json](./111628-magic-tower-2018.json) |
 | Magic Tower Adventure | 173803 | [173803-magic-tower-adventure.json](./173803-magic-tower-adventure.json) |
 | Magic Tower Hero: DungeonKing | 255685 | [255685-magic-tower-hero-dungeonking.json](./255685-magic-tower-hero-dungeonking.json) |
@@ -11459,6 +11460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Jam 1 | 343595 | [343595-mine-jam-1.json](./343595-mine-jam-1.json) |
 | Mine Make Escape | 347745 | [347745-mine-make-escape.json](./347745-mine-make-escape.json) |
 | Mine Memory | 278412 | [278412-mine-memory.json](./278412-mine-memory.json) |
+| Mine Mine | 389362 | [389362-mine-mine.json](./389362-mine-mine.json) |
 | Mine My Mind | 187685 | [187685-mine-my-mind.json](./187685-mine-my-mind.json) |
 | Mine Nueeper Ninin ga Shinobuden | 98028 | [98028-mine-nueeper-ninin-ga-shinobuden.json](./98028-mine-nueeper-ninin-ga-shinobuden.json) |
 | Mine of My Mind | 389970 | [389970-mine-of-my-mind.json](./389970-mine-of-my-mind.json) |
