@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calamai Kid | 95688 | [95688-calamai-kid.json](./95688-calamai-kid.json) |
 | Calamari Capsize | 266346 | [266346-calamari-capsize.json](./266346-calamari-capsize.json) |
 | Calamari Clash | 127844 | [127844-calamari-clash.json](./127844-calamari-clash.json) |
+| Calame | 399999 | [399999-calame.json](./399999-calame.json) |
 | Calamity | 303719 | [303719-calamity.json](./303719-calamity.json) |
 | Calamity | 364103 | [364103-calamity.json](./364103-calamity.json) |
 | Calamity Angels: Special Delivery | 293165 | [293165-calamity-angels-special-delivery.json](./293165-calamity-angels-special-delivery.json) |
@@ -8166,6 +8167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuzzo | 316413 | [316413-chuzzo.json](./316413-chuzzo.json) |
 | CHV: VR Trunk Escape | 151306 | [151306-chv-vr-trunk-escape.json](./151306-chv-vr-trunk-escape.json) |
 | Chwæst: A Creeping Parasite Horror | 393633 | [393633-chw-st-a-creeping-parasite-horror.json](./393633-chw-st-a-creeping-parasite-horror.json) |
+| Chyma and the Toll of Time | 399348 | [399348-chyma-and-the-toll-of-time.json](./399348-chyma-and-the-toll-of-time.json) |
 | Chymera Chronicles: The Great Lush Forest | 384833 | [384833-chymera-chronicles-the-great-lush-forest.json](./384833-chymera-chronicles-the-great-lush-forest.json) |
 | Chymicalia | 294180 | [294180-chymicalia.json](./294180-chymicalia.json) |
 | Chyrza | 142395 | [142395-chyrza.json](./142395-chyrza.json) |
