@@ -4950,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limbus Company: Season 4 - Clear All Cathy | 297431 | [297431-limbus-company-season-4-clear-all-cathy.json](./297431-limbus-company-season-4-clear-all-cathy.json) |
 | Limbus Company: Season 5 - Oblivion | 319013 | [319013-limbus-company-season-5-oblivion.json](./319013-limbus-company-season-5-oblivion.json) |
 | Limbus Company: Season 6 - Zàng Huā Yín | 341710 | [341710-limbus-company-season-6-zang-hua-yin.json](./341710-limbus-company-season-6-zang-hua-yin.json) |
+| Limbus Company: Season 7 - Kumo no Ito / Aka no Ito | 377728 | [377728-limbus-company-season-7-kumo-no-ito-aka-no-ito.json](./377728-limbus-company-season-7-kumo-no-ito-aka-no-ito.json) |
 | Limbus Company: Season 8 - Punctum | 416722 | [416722-limbus-company-season-8-punctum.json](./416722-limbus-company-season-8-punctum.json) |
 | Limbus Stable | 352213 | [352213-limbus-stable.json](./352213-limbus-stable.json) |
 | Lime Ergot | 138142 | [138142-lime-ergot.json](./138142-lime-ergot.json) |
@@ -7428,6 +7429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loren the Amazon Princess: The Castle Of N'Mar | 171634 | [171634-loren-the-amazon-princess-the-castle-of-nmar.json](./171634-loren-the-amazon-princess-the-castle-of-nmar.json) |
 | Lorena and the Land of Ruins | 239694 | [239694-lorena-and-the-land-of-ruins.json](./239694-lorena-and-the-land-of-ruins.json) |
 | Lorenzo il Magnifico | 117174 | [117174-lorenzo-il-magnifico.json](./117174-lorenzo-il-magnifico.json) |
+| Lorenzo PC Adventure DX Director's Cut Ultimate New Funky Mode Edition | 377868 | [377868-lorenzo-pc-adventure-dx-directors-cut-ultimate-new-funky-mode-edition.json](./377868-lorenzo-pc-adventure-dx-directors-cut-ultimate-new-funky-mode-edition.json) |
 | Lorenzo the Runner | 274040 | [274040-lorenzo-the-runner.json](./274040-lorenzo-the-runner.json) |
 | Lorera | 135769 | [135769-lorera.json](./135769-lorera.json) |
 | Lorerim | 383387 | [383387-lorerim.json](./383387-lorerim.json) |
