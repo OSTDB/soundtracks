@@ -7984,6 +7984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RMX Real Motocross | 147133 | [147133-rmx-real-motocross.json](./147133-rmx-real-motocross.json) |
 | RNFF: Running Naked in a Field of Flowers | 69544 | [69544-rnff-running-naked-in-a-field-of-flowers.json](./69544-rnff-running-naked-in-a-field-of-flowers.json) |
 | RNG & Yuri | 228867 | [228867-rng-and-yuri.json](./228867-rng-and-yuri.json) |
+| Rng Arena: Fate Fight | 374873 | [374873-rng-arena-fate-fight.json](./374873-rng-arena-fate-fight.json) |
 | RNG Quest | 338865 | [338865-rng-quest.json](./338865-rng-quest.json) |
 | RNG Quest | 338866 | [338866-rng-quest.json](./338866-rng-quest.json) |
 | RNG Royale | 191532 | [191532-rng-royale.json](./191532-rng-royale.json) |
@@ -10675,6 +10676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoShamBo Arena: Starter Fighter Pack | 170304 | [170304-roshambo-arena-starter-fighter-pack.json](./170304-roshambo-arena-starter-fighter-pack.json) |
 | Roshpit Champions 2 | 306411 | [306411-roshpit-champions-2.json](./306411-roshpit-champions-2.json) |
 | Rosiana | 74807 | [74807-rosiana.json](./74807-rosiana.json) |
+| Rosie | 374872 | [374872-rosie.json](./374872-rosie.json) |
 | Rosie Planet | 392685 | [392685-rosie-planet.json](./392685-rosie-planet.json) |
 | Rosie's Inn | 183526 | [183526-rosies-inn.json](./183526-rosies-inn.json) |
 | Rosie's Rampage | 391170 | [391170-rosies-rampage.json](./391170-rosies-rampage.json) |
