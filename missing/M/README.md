@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Encyclopedia: First Story | 175070 | [175070-magic-encyclopedia-first-story.json](./175070-magic-encyclopedia-first-story.json) |
 | Magic Encyclopedia: Illusions | 99383 | [99383-magic-encyclopedia-illusions.json](./99383-magic-encyclopedia-illusions.json) |
 | Magic Escape | 273468 | [273468-magic-escape.json](./273468-magic-escape.json) |
+| Magic Exposure 2 | 395658 | [395658-magic-exposure-2.json](./395658-magic-exposure-2.json) |
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
 | Magic Fairies Flower Kingdom | 54174 | [54174-magic-fairies-flower-kingdom.json](./54174-magic-fairies-flower-kingdom.json) |
 | Magic Fairy Tales: Barbie as Rapunzel | 19401 | [19401-magic-fairy-tales-barbie-as-rapunzel.json](./19401-magic-fairy-tales-barbie-as-rapunzel.json) |
@@ -8547,6 +8548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Mission | 322246 | [322246-meow-mission.json](./322246-meow-mission.json) |
 | Meow Moments: Celebrating Frost & Flora | 410375 | [410375-meow-moments-celebrating-frost-and-flora.json](./410375-meow-moments-celebrating-frost-and-flora.json) |
 | Meow Moments: Celebrating Geeks & Athletes | 342234 | [342234-meow-moments-celebrating-geeks-and-athletes.json](./342234-meow-moments-celebrating-geeks-and-athletes.json) |
+| Meow Moments: Celebrating Myth & Machine | 395659 | [395659-meow-moments-celebrating-myth-and-machine.json](./395659-meow-moments-celebrating-myth-and-machine.json) |
 | Meow Moments: Celebrating Renewal & Romance | 325008 | [325008-meow-moments-celebrating-renewal-and-romance.json](./325008-meow-moments-celebrating-renewal-and-romance.json) |
 | Meow Moments: Celebrating Together | 284581 | [284581-meow-moments-celebrating-together.json](./284581-meow-moments-celebrating-together.json) |
 | Meow Moments: Valentine's Day | 289844 | [289844-meow-moments-valentines-day.json](./289844-meow-moments-valentines-day.json) |
