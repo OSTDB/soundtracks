@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20th Century Video Almanac | 69029 | [69029-20th-century-video-almanac.json](./69029-20th-century-video-almanac.json) |
 | 20x20x20 | 175786 | [175786-20x20x20.json](./175786-20x20x20.json) |
 | 20XX | 17828 | [17828-20xx.json](./17828-20xx.json) |
+| 20XX / 30XX | 364164 | [364164-20xx-30xx.json](./364164-20xx-30xx.json) |
 | 20XX: Hawk Character | 227240 | [227240-20xx-hawk-character.json](./227240-20xx-hawk-character.json) |
 | 20XX.io | 269480 | [269480-20xx-io.json](./269480-20xx-io.json) |
 | 21 | 110876 | [110876-21.json](./110876-21.json) |
