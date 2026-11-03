@@ -6472,6 +6472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everest: The Ultimate Strategy Game | 85763 | [85763-everest-the-ultimate-strategy-game.json](./85763-everest-the-ultimate-strategy-game.json) |
 | Everett Isle | 214989 | [214989-everett-isle.json](./214989-everett-isle.json) |
 | Everfall | 246852 | [246852-everfall.json](./246852-everfall.json) |
+| Everfall 1999 | 359675 | [359675-everfall-1999.json](./359675-everfall-1999.json) |
 | Everfall 2: Idle Dungeon RPG | 390050 | [390050-everfall-2-idle-dungeon-rpg.json](./390050-everfall-2-idle-dungeon-rpg.json) |
 | Everfall: Idle Dungeon RPG | 377083 | [377083-everfall-idle-dungeon-rpg.json](./377083-everfall-idle-dungeon-rpg.json) |
 | Everfront | 400550 | [400550-everfront.json](./400550-everfront.json) |
