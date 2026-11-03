@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TacWars | 94881 | [94881-tacwars.json](./94881-tacwars.json) |
 | Tad the Lost Explorer and the Emerald Tablet | 204124 | [204124-tad-the-lost-explorer-and-the-emerald-tablet.json](./204124-tad-the-lost-explorer-and-the-emerald-tablet.json) |
 | Tad the Lost Explorer and the Emerald Tablet: Craziest and Madness Edition | 250359 | [250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json](./250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json) |
+| Tad-Bubble! | 376627 | [376627-tad-bubble.json](./376627-tad-bubble.json) |
 | TAD: That Alien Dude | 94060 | [94060-tad-that-alien-dude.json](./94060-tad-that-alien-dude.json) |
 | Tadahito: Story of Ellis | 152049 | [152049-tadahito-story-of-ellis.json](./152049-tadahito-story-of-ellis.json) |
 | Tadaima Yuusha Boshuuchuu Okawari | 37799 | [37799-tadaima-yuusha-boshuuchuu-okawari.json](./37799-tadaima-yuusha-boshuuchuu-okawari.json) |
@@ -6788,6 +6789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cat Maze | 218709 | [218709-the-cat-maze.json](./218709-the-cat-maze.json) |
 | The Cat Scheduled Oil Sampling Game | 281379 | [281379-the-cat-scheduled-oil-sampling-game.json](./281379-the-cat-scheduled-oil-sampling-game.json) |
 | The Cat That Got the Milk | 283742 | [283742-the-cat-that-got-the-milk.json](./283742-the-cat-that-got-the-milk.json) |
+| The Cat With Amazing Hat | 376620 | [376620-the-cat-with-amazing-hat.json](./376620-the-cat-with-amazing-hat.json) |
 | The Cat: Tales of Istanbul | 377880 | [377880-the-cat-tales-of-istanbul.json](./377880-the-cat-tales-of-istanbul.json) |
 | The Cat! Porfirio's Adventure | 32352 | [32352-the-cat-porfirios-adventure.json](./32352-the-cat-porfirios-adventure.json) |
 | The Catacombs | 231801 | [231801-the-catacombs.json](./231801-the-catacombs.json) |
@@ -10061,6 +10063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunted House: Dark Island | 392259 | [392259-the-haunted-house-dark-island.json](./392259-the-haunted-house-dark-island.json) |
 | The Haunted Nora Apartment | 342540 | [342540-the-haunted-nora-apartment.json](./342540-the-haunted-nora-apartment.json) |
 | The Haunted Song | 229056 | [229056-the-haunted-song.json](./229056-the-haunted-song.json) |
+| The Haunted Spot | 376421 | [376421-the-haunted-spot.json](./376421-the-haunted-spot.json) |
 | The Haunted Spot 2 | 411080 | [411080-the-haunted-spot-2.json](./411080-the-haunted-spot-2.json) |
 | The Haunted Tunnel | 156063 | [156063-the-haunted-tunnel.json](./156063-the-haunted-tunnel.json) |
 | The Haunted: Hells Reach | 15017 | [15017-the-haunted-hells-reach.json](./15017-the-haunted-hells-reach.json) |
@@ -24502,6 +24505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torej: Red Cubes | 61611 | [61611-torej-red-cubes.json](./61611-torej-red-cubes.json) |
 | Toren | 10240 | [10240-toren.json](./10240-toren.json) |
 | Toren: Deluxe Edition | 51803 | [51803-toren-deluxe-edition.json](./51803-toren-deluxe-edition.json) |
+| Torerowa | 376420 | [376420-torerowa.json](./376420-torerowa.json) |
 | Torevetchi | 230184 | [230184-torevetchi.json](./230184-torevetchi.json) |
 | Torgar's Quest | 33361 | [33361-torgars-quest.json](./33361-torgars-quest.json) |
 | Tori | 95218 | [95218-tori.json](./95218-tori.json) |
@@ -28718,6 +28722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Dive | 278504 | [278504-treasure-dive.json](./278504-treasure-dive.json) |
 | Treasure Drop | 373651 | [373651-treasure-drop.json](./373651-treasure-drop.json) |
 | Treasure Drop: Complete Edition | 385211 | [385211-treasure-drop-complete-edition.json](./385211-treasure-drop-complete-edition.json) |
+| Treasure Drop: Gold Edition | 376775 | [376775-treasure-drop-gold-edition.json](./376775-treasure-drop-gold-edition.json) |
 | Treasure Far Away | 184166 | [184166-treasure-far-away.json](./184166-treasure-far-away.json) |
 | Treasure Flea Market | 382355 | [382355-treasure-flea-market.json](./382355-treasure-flea-market.json) |
 | Treasure Forest Clicker | 350494 | [350494-treasure-forest-clicker.json](./350494-treasure-forest-clicker.json) |
@@ -30532,6 +30537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuyokiss Next | 194588 | [194588-tsuyokiss-next.json](./194588-tsuyokiss-next.json) |
 | Tsuyokiss: Mighty Heart | 62432 | [62432-tsuyokiss-mighty-heart.json](./62432-tsuyokiss-mighty-heart.json) |
 | Tsuyoshi Shikkari Shinasai Taisen Puzzle-dama | 37778 | [37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json](./37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json) |
+| Tsuyu ga Akeru Made | 376616 | [376616-tsuyu-ga-akeru-made.json](./376616-tsuyu-ga-akeru-made.json) |
 | Tsuyukusa Euphoria | 390538 | [390538-tsuyukusa-euphoria.json](./390538-tsuyukusa-euphoria.json) |
 | Tsuzuku Sekai to Wakarebana | 285869 | [285869-tsuzuku-sekai-to-wakarebana.json](./285869-tsuzuku-sekai-to-wakarebana.json) |
 | Tsuzumigusa | 387572 | [387572-tsuzumigusa.json](./387572-tsuzumigusa.json) |
@@ -31896,6 +31902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyto Ecology: Cretaceous Mongolia | 171000 | [171000-tyto-ecology-cretaceous-mongolia.json](./171000-tyto-ecology-cretaceous-mongolia.json) |
 | Tyto Ecology: Himalayas Ecosystem | 171002 | [171002-tyto-ecology-himalayas-ecosystem.json](./171002-tyto-ecology-himalayas-ecosystem.json) |
 | Tyto Online | 30789 | [30789-tyto-online.json](./30789-tyto-online.json) |
+| Tz Mini Stg Collection | 376417 | [376417-tz-mini-stg-collection.json](./376417-tz-mini-stg-collection.json) |
 | Tzakol in Exile | 189112 | [189112-tzakol-in-exile.json](./189112-tzakol-in-exile.json) |
 | Tzar: The Burden of the Crown | 9691 | [9691-tzar-the-burden-of-the-crown.json](./9691-tzar-the-burden-of-the-crown.json) |
 | Tzared | 145882 | [145882-tzared.json](./145882-tzared.json) |
