@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Need Space | 241369 | [241369-i-need-space.json](./241369-i-need-space.json) |
 | I Need to Fix My Dream Car (But I Work at a Junkyard) | 407176 | [407176-i-need-to-fix-my-dream-car-but-i-work-at-a-junkyard.json](./407176-i-need-to-fix-my-dream-car-but-i-work-at-a-junkyard.json) |
 | I need to pee | 181544 | [181544-i-need-to-pee.json](./181544-i-need-to-pee.json) |
+| I Never Late for Work | 389840 | [389840-i-never-late-for-work.json](./389840-i-never-late-for-work.json) |
 | I of the Enemy | 222809 | [222809-i-of-the-enemy.json](./222809-i-of-the-enemy.json) |
 | I Offered You the Crown | 355016 | [355016-i-offered-you-the-crown.json](./355016-i-offered-you-the-crown.json) |
 | I open the harem in the last days | 154267 | [154267-i-open-the-harem-in-the-last-days.json](./154267-i-open-the-harem-in-the-last-days.json) |
@@ -4565,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intergalactic Fishing | 111754 | [111754-intergalactic-fishing.json](./111754-intergalactic-fishing.json) |
 | Intergalactic Galactic Dinosaur Banana | 85537 | [85537-intergalactic-galactic-dinosaur-banana.json](./85537-intergalactic-galactic-dinosaur-banana.json) |
 | Intergalactic Gus | 109482 | [109482-intergalactic-gus.json](./109482-intergalactic-gus.json) |
+| Intergalactic Juice Bar | 389848 | [389848-intergalactic-juice-bar.json](./389848-intergalactic-juice-bar.json) |
 | Intergalactic Mystery | 258913 | [258913-intergalactic-mystery.json](./258913-intergalactic-mystery.json) |
 | Intergalactic Panic!! | 236967 | [236967-intergalactic-panic.json](./236967-intergalactic-panic.json) |
 | Intergalactic Rescue | 147235 | [147235-intergalactic-rescue.json](./147235-intergalactic-rescue.json) |
@@ -5251,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invocation: The Festival of Souls | 221084 | [221084-invocation-the-festival-of-souls.json](./221084-invocation-the-festival-of-souls.json) |
 | inVokeR | 36821 | [36821-invoker.json](./36821-invoker.json) |
 | Invokers Tournament | 60781 | [60781-invokers-tournament.json](./60781-invokers-tournament.json) |
+| Invokers: Titan Legacy | 389816 | [389816-invokers-titan-legacy.json](./389816-invokers-titan-legacy.json) |
 | Involuntary Fighting Simulator | 393974 | [393974-involuntary-fighting-simulator.json](./393974-involuntary-fighting-simulator.json) |
 | Involve | 384289 | [384289-involve.json](./384289-involve.json) |
 | Involved | 124649 | [124649-involved.json](./124649-involved.json) |
