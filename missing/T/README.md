@@ -10219,6 +10219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hollow | 388518 | [388518-the-hollow.json](./388518-the-hollow.json) |
 | The Hollow Alchemist | 371257 | [371257-the-hollow-alchemist.json](./371257-the-hollow-alchemist.json) |
 | The Hollow Complex | 399375 | [399375-the-hollow-complex.json](./399375-the-hollow-complex.json) |
+| The Hollow Keep | 385518 | [385518-the-hollow-keep.json](./385518-the-hollow-keep.json) |
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
 | The Hollow Line | 335122 | [335122-the-hollow-line.json](./335122-the-hollow-line.json) |
 | The Hollow Road: Prologue | 399769 | [399769-the-hollow-road-prologue.json](./399769-the-hollow-road-prologue.json) |
@@ -12851,6 +12852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magpie Takes the Train | 216336 | [216336-the-magpie-takes-the-train.json](./216336-the-magpie-takes-the-train.json) |
 | The Magus Circle | 295074 | [295074-the-magus-circle.json](./295074-the-magus-circle.json) |
 | The Mahjong | 84459 | [84459-the-mahjong.json](./84459-the-mahjong.json) |
+| The Mahjong III | 385755 | [385755-the-mahjong-iii.json](./385755-the-mahjong-iii.json) |
 | The Mahjong Touhai-den | 37935 | [37935-the-mahjong-touhai-den.json](./37935-the-mahjong-touhai-den.json) |
 | The Mahjong: Tsuushin Taikyoku Kinoudzuke | 43046 | [43046-the-mahjong-tsuushin-taikyoku-kinoudzuke.json](./43046-the-mahjong-tsuushin-taikyoku-kinoudzuke.json) |
 | The Maid | 335680 | [335680-the-maid.json](./335680-the-maid.json) |
@@ -24549,6 +24551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torpedo Fire | 23998 | [23998-torpedo-fire.json](./23998-torpedo-fire.json) |
 | Torpedo Range | 49083 | [49083-torpedo-range.json](./49083-torpedo-range.json) |
 | Torpedo Run | 179324 | [179324-torpedo-run.json](./179324-torpedo-run.json) |
+| Torpedo Shoot | 385769 | [385769-torpedo-shoot.json](./385769-torpedo-shoot.json) |
 | Torpedo Strike | 88726 | [88726-torpedo-strike.json](./88726-torpedo-strike.json) |
 | Torpedorun | 58872 | [58872-torpedorun.json](./58872-torpedorun.json) |
 | TorpedoRun Naval War | 89525 | [89525-torpedorun-naval-war.json](./89525-torpedorun-naval-war.json) |
