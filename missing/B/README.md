@@ -928,7 +928,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8510,6 +8509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Butler: Phantom & Ghost | 115532 | [115532-black-butler-phantom-and-ghost.json](./115532-black-butler-phantom-and-ghost.json) |
 | Black Butterfly | 121299 | [121299-black-butterfly.json](./121299-black-butterfly.json) |
 | Black Castle | 143051 | [143051-black-castle.json](./143051-black-castle.json) |
+| Black Castle | 377328 | [377328-black-castle.json](./377328-black-castle.json) |
 | Black Cat | 144278 | [144278-black-cat.json](./144278-black-cat.json) |
 | Black Cat Adventures | 129752 | [129752-black-cat-adventures.json](./129752-black-cat-adventures.json) |
 | Black Cat Blitz | 316085 | [316085-black-cat-blitz.json](./316085-black-cat-blitz.json) |
@@ -11721,6 +11721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boktai: The Sun Is in Your Hand | 6326 | [6326-boktai-the-sun-is-in-your-hand.json](./6326-boktai-the-sun-is-in-your-hand.json) |
 | Boku Boku | 236974 | [236974-boku-boku.json](./236974-boku-boku.json) |
 | Boku dake ga Shitteiru | 375356 | [375356-boku-dake-ga-shitteiru.json](./375356-boku-dake-ga-shitteiru.json) |
+| Boku ga Oni ne | 377026 | [377026-boku-ga-oni-ne.json](./377026-boku-ga-oni-ne.json) |
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335729 | [335729-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335729-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335996 | [335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
 | Boku ha Koukuu Kanseikan: Airport Hero 3D - Haneda All Stars | 222492 | [222492-boku-ha-koukuu-kanseikan-airport-hero-3d-haneda-all-stars.json](./222492-boku-ha-koukuu-kanseikan-airport-hero-3d-haneda-all-stars.json) |
@@ -15794,6 +15795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Trubble | 42829 | [42829-bubble-trubble.json](./42829-bubble-trubble.json) |
 | Bubble Truck | 235228 | [235228-bubble-truck.json](./235228-bubble-truck.json) |
 | Bubble Wars | 215480 | [215480-bubble-wars.json](./215480-bubble-wars.json) |
+| Bubble Wars | 377186 | [377186-bubble-wars.json](./377186-bubble-wars.json) |
 | Bubble Whirl Shooter | 89616 | [89616-bubble-whirl-shooter.json](./89616-bubble-whirl-shooter.json) |
 | Bubble Witch 2 Saga | 61369 | [61369-bubble-witch-2-saga.json](./61369-bubble-witch-2-saga.json) |
 | Bubble Witch 3 Saga | 78386 | [78386-bubble-witch-3-saga.json](./78386-bubble-witch-3-saga.json) |
