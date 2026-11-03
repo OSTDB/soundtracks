@@ -3822,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Riding Hood | 179695 | [179695-red-riding-hood.json](./179695-red-riding-hood.json) |
 | Red Riding Hood | 225309 | [225309-red-riding-hood.json](./225309-red-riding-hood.json) |
 | Red Riding Hood | 54319 | [54319-red-riding-hood.json](./54319-red-riding-hood.json) |
+| Red Riding Hood on All Fours | 393709 | [393709-red-riding-hood-on-all-fours.json](./393709-red-riding-hood-on-all-fours.json) |
 | Red Riding Hood: Star Crossed Lovers | 96880 | [96880-red-riding-hood-star-crossed-lovers.json](./96880-red-riding-hood-star-crossed-lovers.json) |
 | Red Ring of Immortality | 238010 | [238010-red-ring-of-immortality.json](./238010-red-ring-of-immortality.json) |
 | Red Risk | 18178 | [18178-red-risk.json](./18178-red-risk.json) |
