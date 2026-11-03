@@ -5594,6 +5594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anomaly 2: Water | 271301 | [271301-the-anomaly-2-water.json](./271301-the-anomaly-2-water.json) |
 | The Anomaly 3: Tower | 280893 | [280893-the-anomaly-3-tower.json](./280893-the-anomaly-3-tower.json) |
 | The Anomaly Demo | 111208 | [111208-the-anomaly-demo.json](./111208-the-anomaly-demo.json) |
+| The Anomaly Detective | 390350 | [390350-the-anomaly-detective.json](./390350-the-anomaly-detective.json) |
 | The Anomaly Experiment | 342048 | [342048-the-anomaly-experiment.json](./342048-the-anomaly-experiment.json) |
 | The Anomaly Inspector | 396332 | [396332-the-anomaly-inspector.json](./396332-the-anomaly-inspector.json) |
 | The Anomaly Project | 312378 | [312378-the-anomaly-project.json](./312378-the-anomaly-project.json) |
@@ -10591,6 +10592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Indigo Initiative | 358848 | [358848-the-indigo-initiative.json](./358848-the-indigo-initiative.json) |
 | The Indigo Parallel | 157128 | [157128-the-indigo-parallel.json](./157128-the-indigo-parallel.json) |
 | The Indirect Castle Retreat | 322765 | [322765-the-indirect-castle-retreat.json](./322765-the-indirect-castle-retreat.json) |
+| The Industrial Council | 390348 | [390348-the-industrial-council.json](./390348-the-industrial-council.json) |
 | The Inescapable Nightmare | 357239 | [357239-the-inescapable-nightmare.json](./357239-the-inescapable-nightmare.json) |
 | The Inevitability | 28804 | [28804-the-inevitability.json](./28804-the-inevitability.json) |
 | The Inexperienced Exorcist | 393597 | [393597-the-inexperienced-exorcist.json](./393597-the-inexperienced-exorcist.json) |
@@ -11479,6 +11481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Knight | 310061 | [310061-the-last-knight.json](./310061-the-last-knight.json) |
 | The Last Knight Hawk | 405302 | [405302-the-last-knight-hawk.json](./405302-the-last-knight-hawk.json) |
 | The Last Knight: Day One | 83194 | [83194-the-last-knight-day-one.json](./83194-the-last-knight-day-one.json) |
+| The Last Legion | 390346 | [390346-the-last-legion.json](./390346-the-last-legion.json) |
 | The Last Letter | 400574 | [400574-the-last-letter.json](./400574-the-last-letter.json) |
 | The Last Leviathan | 32873 | [32873-the-last-leviathan.json](./32873-the-last-leviathan.json) |
 | The Last Librarian | 134827 | [134827-the-last-librarian.json](./134827-the-last-librarian.json) |
@@ -17542,6 +17545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Victims of Lost Sunny Days: Eclipse | 343143 | [343143-the-victims-of-lost-sunny-days-eclipse.json](./343143-the-victims-of-lost-sunny-days-eclipse.json) |
 | The Victor Initiative | 320732 | [320732-the-victor-initiative.json](./320732-the-victor-initiative.json) |
 | The Video Game Machine | 123066 | [123066-the-video-game-machine.json](./123066-the-video-game-machine.json) |
+| The Vig | 390351 | [390351-the-vig.json](./390351-the-vig.json) |
 | The Vigil | 271494 | [271494-the-vigil.json](./271494-the-vigil.json) |
 | The Vigil Files: Case 1 | 102258 | [102258-the-vigil-files-case-1.json](./102258-the-vigil-files-case-1.json) |
 | The Vigilant Villa: Non-existent Mirror | 164332 | [164332-the-vigilant-villa-non-existent-mirror.json](./164332-the-vigilant-villa-non-existent-mirror.json) |
