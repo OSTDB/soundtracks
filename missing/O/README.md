@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oak Defenders | 183514 | [183514-oak-defenders.json](./183514-oak-defenders.json) |
 | Oak Hill | 219043 | [219043-oak-hill.json](./219043-oak-hill.json) |
 | Oak Quercana | 401479 | [401479-oak-quercana.json](./401479-oak-quercana.json) |
+| Oakbound Quest | 379316 | [379316-oakbound-quest.json](./379316-oakbound-quest.json) |
 | Oaken Tower | 345143 | [345143-oaken-tower.json](./345143-oaken-tower.json) |
 | Oakenfold | 163742 | [163742-oakenfold.json](./163742-oakenfold.json) |
 | Oakley's World | 337601 | [337601-oakleys-world.json](./337601-oakleys-world.json) |
