@@ -4561,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oumori Charisou DX | 98303 | [98303-oumori-charisou-dx.json](./98303-oumori-charisou-dx.json) |
 | Ounba | 391451 | [391451-ounba.json](./391451-ounba.json) |
 | OuO | 174781 | [174781-ouo.json](./174781-ouo.json) |
+| OuPaiWar2 Hua's lake hut | 380364 | [380364-oupaiwar2-huas-lake-hut.json](./380364-oupaiwar2-huas-lake-hut.json) |
 | Our Adventure Time | 178549 | [178549-our-adventure-time.json](./178549-our-adventure-time.json) |
 | Our Adventurer Guild | 212060 | [212060-our-adventurer-guild.json](./212060-our-adventurer-guild.json) |
 | Our America | 149337 | [149337-our-america.json](./149337-our-america.json) |
