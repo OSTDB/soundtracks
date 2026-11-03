@@ -5681,6 +5681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Surrender Heroes | 287769 | [287769-no-surrender-heroes.json](./287769-no-surrender-heroes.json) |
 | No Surrender: Battle of the Bulge | 73480 | [73480-no-surrender-battle-of-the-bulge.json](./73480-no-surrender-battle-of-the-bulge.json) |
 | No Sushi, No Life | 156001 | [156001-no-sushi-no-life.json](./156001-no-sushi-no-life.json) |
+| No Sweet Looks | 361983 | [361983-no-sweet-looks.json](./361983-no-sweet-looks.json) |
 | No T!me No Space | 228431 | [228431-no-t-me-no-space.json](./228431-no-t-me-no-space.json) |
 | No Tears For Heroes | 328439 | [328439-no-tears-for-heroes.json](./328439-no-tears-for-heroes.json) |
 | No Thing | 18828 | [18828-no-thing.json](./18828-no-thing.json) |
@@ -6213,6 +6214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram Minimal | 197918 | [197918-nonogram-minimal.json](./197918-nonogram-minimal.json) |
 | Nonogram Mon | 312367 | [312367-nonogram-mon.json](./312367-nonogram-mon.json) |
 | Nonogram Nights | 273451 | [273451-nonogram-nights.json](./273451-nonogram-nights.json) |
+| Nonogram Piggy Valley | 362007 | [362007-nonogram-piggy-valley.json](./362007-nonogram-piggy-valley.json) |
 | Nonogram Survival | 227823 | [227823-nonogram-survival.json](./227823-nonogram-survival.json) |
 | Nonogram: Girl's Sweets | 220454 | [220454-nonogram-girls-sweets.json](./220454-nonogram-girls-sweets.json) |
 | Nonogram: Girl's Sweets II | 228090 | [228090-nonogram-girls-sweets-ii.json](./228090-nonogram-girls-sweets-ii.json) |
