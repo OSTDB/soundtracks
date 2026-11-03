@@ -10768,6 +10768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Morphin Power Rangers: The Movie | 75980 | [75980-mighty-morphin-power-rangers-the-movie.json](./75980-mighty-morphin-power-rangers-the-movie.json) |
 | Mighty Morphin Power Rangers: The Movie | 75981 | [75981-mighty-morphin-power-rangers-the-movie.json](./75981-mighty-morphin-power-rangers-the-movie.json) |
 | Mighty Morphin Power Rangers: Tiger Barcodzz - 22: Yellow Ranger | 362576 | [362576-mighty-morphin-power-rangers-tiger-barcodzz-22-yellow-ranger.json](./362576-mighty-morphin-power-rangers-tiger-barcodzz-22-yellow-ranger.json) |
+| Mighty Morpho | 395081 | [395081-mighty-morpho.json](./395081-mighty-morpho.json) |
 | Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
 | Mighty Muddy | 236982 | [236982-mighty-muddy.json](./236982-mighty-muddy.json) |
 | Mighty Mulan | 66940 | [66940-mighty-mulan.json](./66940-mighty-mulan.json) |
@@ -17693,6 +17694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Spinderella | 408299 | [408299-ms-spinderella.json](./408299-ms-spinderella.json) |
 | Ms. Splosion Man | 15140 | [15140-ms-splosion-man.json](./15140-ms-splosion-man.json) |
 | Ms. Squeaker's Home for the Sick | 109402 | [109402-ms-squeakers-home-for-the-sick.json](./109402-ms-squeakers-home-for-the-sick.json) |
+| Ms. Terry's Pleasure Mansion | 395060 | [395060-ms-terrys-pleasure-mansion.json](./395060-ms-terrys-pleasure-mansion.json) |
 | Ms.Lemons | 240156 | [240156-ms-lemons.json](./240156-ms-lemons.json) |
 | MSCR | 310930 | [310930-mscr.json](./310930-mscr.json) |
 | MSI Electric City | 32177 | [32177-msi-electric-city.json](./32177-msi-electric-city.json) |
