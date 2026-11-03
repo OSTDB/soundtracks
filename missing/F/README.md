@@ -1541,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Guy: Time Warped | 66114 | [66114-family-guy-time-warped.json](./66114-family-guy-time-warped.json) |
 | Family Guy: Uncensored | 65231 | [65231-family-guy-uncensored.json](./65231-family-guy-uncensored.json) |
 | Family Hidden Secret | 368258 | [368258-family-hidden-secret.json](./368258-family-hidden-secret.json) |
+| Family House | 373232 | [373232-family-house.json](./373232-family-house.json) |
 | Family Igo: Super Strong | 83472 | [83472-family-igo-super-strong.json](./83472-family-igo-super-strong.json) |
 | Family in Puzzle House | 261163 | [261163-family-in-puzzle-house.json](./261163-family-in-puzzle-house.json) |
 | Family Jigsaw Puzzle: Classic Mosaic Puzzles | 255188 | [255188-family-jigsaw-puzzle-classic-mosaic-puzzles.json](./255188-family-jigsaw-puzzle-classic-mosaic-puzzles.json) |
@@ -10986,6 +10987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free for Fall | 192970 | [192970-free-for-fall.json](./192970-free-for-fall.json) |
 | Free for Fall | 366627 | [366627-free-for-fall.json](./366627-free-for-fall.json) |
 | Free Friends | 127665 | [127665-free-friends.json](./127665-free-friends.json) |
+| Free Fur All: We Bare Bears | 373234 | [373234-free-fur-all-we-bare-bears.json](./373234-free-fur-all-we-bare-bears.json) |
 | Free Gear | 268080 | [268080-free-gear.json](./268080-free-gear.json) |
 | Free Heroes of Might and Magic II: Resurrection | 186606 | [186606-free-heroes-of-might-and-magic-ii-resurrection.json](./186606-free-heroes-of-might-and-magic-ii-resurrection.json) |
 | Free Hugs Inc. | 178566 | [178566-free-hugs-inc.json](./178566-free-hugs-inc.json) |
@@ -11851,6 +11853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Age of Dinosaurs to the Edo Period: Tokio no Meiro - By Gentaro Kagawa | 396908 | [396908-from-the-age-of-dinosaurs-to-the-edo-period-tokio-no-meiro-by-gentaro-kagawa.json](./396908-from-the-age-of-dinosaurs-to-the-edo-period-tokio-no-meiro-by-gentaro-kagawa.json) |
 | From the Ashes | 224243 | [224243-from-the-ashes.json](./224243-from-the-ashes.json) |
 | From the Bunker | 235921 | [235921-from-the-bunker.json](./235921-from-the-bunker.json) |
+| From the Dark | 373228 | [373228-from-the-dark.json](./373228-from-the-dark.json) |
 | From the Darkness | 149716 | [149716-from-the-darkness.json](./149716-from-the-darkness.json) |
 | From the Deep | 224240 | [224240-from-the-deep.json](./224240-from-the-deep.json) |
 | From the Deep | 263093 | [263093-from-the-deep.json](./263093-from-the-deep.json) |
