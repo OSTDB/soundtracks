@@ -3621,6 +3621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NGT: Next Generation Tennis | 49320 | [49320-ngt-next-generation-tennis.json](./49320-ngt-next-generation-tennis.json) |
 | NGU Idle | 124926 | [124926-ngu-idle.json](./124926-ngu-idle.json) |
 | NGU Industries | 143451 | [143451-ngu-industries.json](./143451-ngu-industries.json) |
+| NH Bid at MSCYPAA: The Game | 391940 | [391940-nh-bid-at-mscypaa-the-game.json](./391940-nh-bid-at-mscypaa-the-game.json) |
 | Nhero2 | 225723 | [225723-nhero2.json](./225723-nhero2.json) |
 | NHK Academy: Space School - Math 4th Grade Part 1 | 122110 | [122110-nhk-academy-space-school-math-4th-grade-part-1.json](./122110-nhk-academy-space-school-math-4th-grade-part-1.json) |
 | NHK Academy: Space School - Math 4th Grade Part 2 | 122111 | [122111-nhk-academy-space-school-math-4th-grade-part-2.json](./122111-nhk-academy-space-school-math-4th-grade-part-2.json) |
@@ -6423,6 +6424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northern Tale 5: Revival | 132019 | [132019-northern-tale-5-revival.json](./132019-northern-tale-5-revival.json) |
 | Northern Tales | 114405 | [114405-northern-tales.json](./114405-northern-tales.json) |
 | Northern Tales 6: Oath to the Gods - Collector's Edition | 296480 | [296480-northern-tales-6-oath-to-the-gods-collectors-edition.json](./296480-northern-tales-6-oath-to-the-gods-collectors-edition.json) |
+| Northern Waters: Fishing & Restaurant Simulator | 391954 | [391954-northern-waters-fishing-and-restaurant-simulator.json](./391954-northern-waters-fishing-and-restaurant-simulator.json) |
 | Northflower: The Last Watch | 380222 | [380222-northflower-the-last-watch.json](./380222-northflower-the-last-watch.json) |
 | Northgale | 389393 | [389393-northgale.json](./389393-northgale.json) |
 | Northgard | 18918 | [18918-northgard.json](./18918-northgard.json) |
@@ -6448,6 +6450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northstar Courier | 357367 | [357367-northstar-courier.json](./357367-northstar-courier.json) |
 | Northward | 408026 | [408026-northward.json](./408026-northward.json) |
 | Northwest Fur Trader | 387691 | [387691-northwest-fur-trader.json](./387691-northwest-fur-trader.json) |
+| Northwick | 391972 | [391972-northwick.json](./391972-northwick.json) |
 | Northwind | 190958 | [190958-northwind.json](./190958-northwind.json) |
 | Nortinium | 122791 | [122791-nortinium.json](./122791-nortinium.json) |
 | Nortopia | 318256 | [318256-nortopia.json](./318256-nortopia.json) |
