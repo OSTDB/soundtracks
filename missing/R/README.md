@@ -5827,6 +5827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Quiz Tower | 251378 | [251378-retro-quiz-tower.json](./251378-retro-quiz-tower.json) |
 | Retro Racer | 148469 | [148469-retro-racer.json](./148469-retro-racer.json) |
 | Retro Racers | 180039 | [180039-retro-racers.json](./180039-retro-racers.json) |
+| Retro Racers | 364792 | [364792-retro-racers.json](./364792-retro-racers.json) |
 | Retro Racers 2 | 104960 | [104960-retro-racers-2.json](./104960-retro-racers-2.json) |
 | Retro Racing 2 | 373614 | [373614-retro-racing-2.json](./373614-retro-racing-2.json) |
 | Retro Racing City | 116860 | [116860-retro-racing-city.json](./116860-retro-racing-city.json) |
@@ -8510,6 +8511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robocraft 2 | 217298 | [217298-robocraft-2.json](./217298-robocraft-2.json) |
 | Robocraft Royale | 89976 | [89976-robocraft-royale.json](./89976-robocraft-royale.json) |
 | RoboCritters | 38749 | [38749-robocritters.json](./38749-robocritters.json) |
+| Robocrush | 364807 | [364807-robocrush.json](./364807-robocrush.json) |
 | Roboctletes | 272465 | [272465-roboctletes.json](./272465-roboctletes.json) |
 | Robodash | 257093 | [257093-robodash.json](./257093-robodash.json) |
 | RoboDeal Simulator | 406127 | [406127-robodeal-simulator.json](./406127-robodeal-simulator.json) |
@@ -9034,6 +9036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Fruit | 144778 | [144778-rocket-fruit.json](./144778-rocket-fruit.json) |
 | Rocket Ghost Aidan 2 | 156909 | [156909-rocket-ghost-aidan-2.json](./156909-rocket-ghost-aidan-2.json) |
 | Rocket Golf | 89832 | [89832-rocket-golf.json](./89832-rocket-golf.json) |
+| Rocket Golf: Tap | 364777 | [364777-rocket-golf-tap.json](./364777-rocket-golf-tap.json) |
 | Rocket Hat | 329397 | [329397-rocket-hat.json](./329397-rocket-hat.json) |
 | Rocket Hippo! | 107392 | [107392-rocket-hippo.json](./107392-rocket-hippo.json) |
 | Rocket Horizon | 256928 | [256928-rocket-horizon.json](./256928-rocket-horizon.json) |
@@ -11206,6 +11209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Plus: Virtual Tabletop | 404364 | [404364-rpg-plus-virtual-tabletop.json](./404364-rpg-plus-virtual-tabletop.json) |
 | RPG Quest: Minimae | 104595 | [104595-rpg-quest-minimae.json](./104595-rpg-quest-minimae.json) |
 | RPG Quiz | 368498 | [368498-rpg-quiz.json](./368498-rpg-quiz.json) |
+| RPG Raiders: Battle of Realms | 364810 | [364810-rpg-raiders-battle-of-realms.json](./364810-rpg-raiders-battle-of-realms.json) |
 | RPG Rusted Emeth | 60276 | [60276-rpg-rusted-emeth.json](./60276-rpg-rusted-emeth.json) |
 | RPG Shelterra the Skyworld | 60272 | [60272-rpg-shelterra-the-skyworld.json](./60272-rpg-shelterra-the-skyworld.json) |
 | RPG Shooter: Starwish | 148178 | [148178-rpg-shooter-starwish.json](./148178-rpg-shooter-starwish.json) |
