@@ -2783,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schlag den Star: Das 2. Spiel | 144617 | [144617-schlag-den-star-das-2-spiel.json](./144617-schlag-den-star-das-2-spiel.json) |
 | Schlag den Star: Das 3. Spiel | 256216 | [256216-schlag-den-star-das-3-spiel.json](./256216-schlag-den-star-das-3-spiel.json) |
 | Schlag den Star: Das Spiel | 78045 | [78045-schlag-den-star-das-spiel.json](./78045-schlag-den-star-das-spiel.json) |
+| Schlangen-Schmaus | 381865 | [381865-schlangen-schmaus.json](./381865-schlangen-schmaus.json) |
 | Schleich Puzzles: Farm World | 261382 | [261382-schleich-puzzles-farm-world.json](./261382-schleich-puzzles-farm-world.json) |
 | Schlenderman | 141466 | [141466-schlenderman.json](./141466-schlenderman.json) |
 | Schlo Complications | 298792 | [298792-schlo-complications.json](./298792-schlo-complications.json) |
@@ -5186,6 +5187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senli 307 | 224618 | [224618-senli-307.json](./224618-senli-307.json) |
 | Senna and the Forest | 121127 | [121127-senna-and-the-forest.json](./121127-senna-and-the-forest.json) |
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
+| Sennen Dokei | 381520 | [381520-sennen-dokei.json](./381520-sennen-dokei.json) |
 | Sennen Kazoku | 6586 | [6586-sennen-kazoku.json](./6586-sennen-kazoku.json) |
 | Senninha | 281875 | [281875-senninha.json](./281875-senninha.json) |
 | Senninha GP Racing | 203290 | [203290-senninha-gp-racing.json](./203290-senninha-gp-racing.json) |
@@ -8729,6 +8731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooty Fruity | 54700 | [54700-shooty-fruity.json](./54700-shooty-fruity.json) |
 | Shooty McSpaceFace | 393891 | [393891-shooty-mcspaceface.json](./393891-shooty-mcspaceface.json) |
 | Shooty Mine | 129043 | [129043-shooty-mine.json](./129043-shooty-mine.json) |
+| Shooty Seas | 381544 | [381544-shooty-seas.json](./381544-shooty-seas.json) |
 | Shooty Shooty Robot Invasion | 349889 | [349889-shooty-shooty-robot-invasion.json](./349889-shooty-shooty-robot-invasion.json) |
 | Shooty Skies | 59547 | [59547-shooty-skies.json](./59547-shooty-skies.json) |
 | Shooty Skies Overdrive | 137654 | [137654-shooty-skies-overdrive.json](./137654-shooty-skies-overdrive.json) |
@@ -10288,7 +10291,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon the Sorcerer 4: Chaos Happens | 462 | [462-simon-the-sorcerer-4-chaos-happens.json](./462-simon-the-sorcerer-4-chaos-happens.json) |
 | Simon the Sorcerer 5: Who'd Even Want Contact?! | 463 | [463-simon-the-sorcerer-5-whod-even-want-contact.json](./463-simon-the-sorcerer-5-whod-even-want-contact.json) |
 | Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe | 460 | [460-simon-the-sorcerer-ii-the-lion-the-wizard-and-the-wardrobe.json](./460-simon-the-sorcerer-ii-the-lion-the-wizard-and-the-wardrobe.json) |
+| Simon the Sorcerer: Origins - Deluxe DLC | 381749 | [381749-simon-the-sorcerer-origins-deluxe-dlc.json](./381749-simon-the-sorcerer-origins-deluxe-dlc.json) |
 | Simon the Sorcerer: Origins - Digital Deluxe Edition | 365551 | [365551-simon-the-sorcerer-origins-digital-deluxe-edition.json](./365551-simon-the-sorcerer-origins-digital-deluxe-edition.json) |
+| Simon The Sorcerer: Origins - Pony DLC | 381748 | [381748-simon-the-sorcerer-origins-pony-dlc.json](./381748-simon-the-sorcerer-origins-pony-dlc.json) |
 | Simon the Sorcerer's Pinball | 69186 | [69186-simon-the-sorcerers-pinball.json](./69186-simon-the-sorcerers-pinball.json) |
 | Simon the Sorcerer's Puzzle Pack | 77254 | [77254-simon-the-sorcerers-puzzle-pack.json](./77254-simon-the-sorcerers-puzzle-pack.json) |
 | Simon: The Memory Game | 227848 | [227848-simon-the-memory-game.json](./227848-simon-the-memory-game.json) |
@@ -14259,6 +14264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snark Busters: All Revved Up | 96592 | [96592-snark-busters-all-revved-up.json](./96592-snark-busters-all-revved-up.json) |
 | Snark Busters: Welcome to the Club | 53638 | [53638-snark-busters-welcome-to-the-club.json](./53638-snark-busters-welcome-to-the-club.json) |
 | Snarl | 396583 | [396583-snarl.json](./396583-snarl.json) |
+| Snatch | 381545 | [381545-snatch.json](./381545-snatch.json) |
 | Snatch & Swallow | 304517 | [304517-snatch-and-swallow.json](./304517-snatch-and-swallow.json) |
 | Snatch Squad | 365686 | [365686-snatch-squad.json](./365686-snatch-squad.json) |
 | Snatched | 302822 | [302822-snatched.json](./302822-snatched.json) |
@@ -15314,6 +15320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokobear: Spring | 219592 | [219592-sokobear-spring.json](./219592-sokobear-spring.json) |
 | Sokobear: Summer | 220796 | [220796-sokobear-summer.json](./220796-sokobear-summer.json) |
 | Sokobear: Winter | 171878 | [171878-sokobear-winter.json](./171878-sokobear-winter.json) |
+| Sokobomb | 381513 | [381513-sokobomb.json](./381513-sokobomb.json) |
 | Sokobond Express | 164896 | [164896-sokobond-express.json](./164896-sokobond-express.json) |
 | Sokobos | 189863 | [189863-sokobos.json](./189863-sokobos.json) |
 | Sokobos 2 | 347350 | [347350-sokobos-2.json](./347350-sokobos-2.json) |
@@ -21465,6 +21472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooples | 249806 | [249806-spooples.json](./249806-spooples.json) |
 | Spoopy Maryo | 318040 | [318040-spoopy-maryo.json](./318040-spoopy-maryo.json) |
 | Spoorky | 110897 | [110897-spoorky.json](./110897-spoorky.json) |
+| Sporbs | 381519 | [381519-sporbs.json](./381519-sporbs.json) |
 | Sporcle | 86844 | [86844-sporcle.json](./86844-sporcle.json) |
 | Sporcle Party | 283574 | [283574-sporcle-party.json](./283574-sporcle-party.json) |
 | Spore | 55043 | [55043-spore.json](./55043-spore.json) |
@@ -27327,6 +27335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuntboost | 304846 | [304846-stuntboost.json](./304846-stuntboost.json) |
 | Stuntcar Extreme | 73246 | [73246-stuntcar-extreme.json](./73246-stuntcar-extreme.json) |
 | StuntCopter! | 108515 | [108515-stuntcopter.json](./108515-stuntcopter.json) |
+| Stunted Gravity | 381535 | [381535-stunted-gravity.json](./381535-stunted-gravity.json) |
 | Stuntman | 197884 | [197884-stuntman.json](./197884-stuntman.json) |
 | Stuntman | 8267 | [8267-stuntman.json](./8267-stuntman.json) |
 | Stuntman Seymour | 39165 | [39165-stuntman-seymour.json](./39165-stuntman-seymour.json) |
@@ -30050,6 +30059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Advance 4: Super Mario Bros. 3-e - Treacherous Halls | 241027 | [241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json](./241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Vexing Doors | 241017 | [241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json](./241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json) |
 | Super Mario Adventure | 314117 | [314117-super-mario-adventure.json](./314117-super-mario-adventure.json) |
+| Super Mario Adventure | 381752 | [381752-super-mario-adventure.json](./381752-super-mario-adventure.json) |
 | Super Mario Aftermath | 314128 | [314128-super-mario-aftermath.json](./314128-super-mario-aftermath.json) |
 | Super Mario All-Star Attack | 307656 | [307656-super-mario-all-star-attack.json](./307656-super-mario-all-star-attack.json) |
 | Super Mario All-Stars | 5199 | [5199-super-mario-all-stars.json](./5199-super-mario-all-stars.json) |
@@ -33494,6 +33504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switchfire | 54418 | [54418-switchfire.json](./54418-switchfire.json) |
 | Switching Heroes | 395295 | [395295-switching-heroes.json](./395295-switching-heroes.json) |
 | Switchquiz | 71302 | [71302-switchquiz.json](./71302-switchquiz.json) |
+| SwitchTrack | 381532 | [381532-switchtrack.json](./381532-switchtrack.json) |
 | Switchy Road DeluX | 147608 | [147608-switchy-road-delux.json](./147608-switchy-road-delux.json) |
 | Switzerland Omelette Deluxe | 351398 | [351398-switzerland-omelette-deluxe.json](./351398-switzerland-omelette-deluxe.json) |
 | SWIV | 12789 | [12789-swiv.json](./12789-swiv.json) |
