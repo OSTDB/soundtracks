@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Fighter | 246459 | [246459-hamster-fighter.json](./246459-hamster-fighter.json) |
 | Hamster Game | 133734 | [133734-hamster-game.json](./133734-hamster-game.json) |
 | Hamster Hunter: Rodent Rampage | 330556 | [330556-hamster-hunter-rodent-rampage.json](./330556-hamster-hunter-rodent-rampage.json) |
+| Hamster Hustle | 367082 | [367082-hamster-hustle.json](./367082-hamster-hustle.json) |
 | Hamster Inn | 297166 | [297166-hamster-inn.json](./297166-hamster-inn.json) |
 | Hamster Logic 3D | 172355 | [172355-hamster-logic-3d.json](./172355-hamster-logic-3d.json) |
 | Hamster Mapster | 400521 | [400521-hamster-mapster.json](./400521-hamster-mapster.json) |
@@ -4955,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai MineSweeper: Endless Mode | 146281 | [146281-hentai-minesweeper-endless-mode.json](./146281-hentai-minesweeper-endless-mode.json) |
 | Hentai Misaki | 393929 | [393929-hentai-misaki.json](./393929-hentai-misaki.json) |
 | Hentai Misuzu | 296670 | [296670-hentai-misuzu.json](./296670-hentai-misuzu.json) |
+| Hentai Mizugi | 367094 | [367094-hentai-mizugi.json](./367094-hentai-mizugi.json) |
 | Hentai Mommy | 379652 | [379652-hentai-mommy.json](./379652-hentai-mommy.json) |
 | Hentai Morgana | 411072 | [411072-hentai-morgana.json](./411072-hentai-morgana.json) |
 | Hentai Mosaique Fix-IT Shoppe | 139429 | [139429-hentai-mosaique-fix-it-shoppe.json](./139429-hentai-mosaique-fix-it-shoppe.json) |
@@ -5004,6 +5006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Photo: Yuri | 365539 | [365539-hentai-photo-yuri.json](./365539-hentai-photo-yuri.json) |
 | Hentai Pieces | 379657 | [379657-hentai-pieces.json](./379657-hentai-pieces.json) |
 | Hentai Pink | 243552 | [243552-hentai-pink.json](./243552-hentai-pink.json) |
+| Hentai Pix | 367122 | [367122-hentai-pix.json](./367122-hentai-pix.json) |
 | Hentai Plus Girl | 111487 | [111487-hentai-plus-girl.json](./111487-hentai-plus-girl.json) |
 | Hentai Plus Girl: Puzzle Pack - 5 Girls | 163543 | [163543-hentai-plus-girl-puzzle-pack-5-girls.json](./163543-hentai-plus-girl-puzzle-pack-5-girls.json) |
 | Hentai Police Girl | 411068 | [411068-hentai-police-girl.json](./411068-hentai-police-girl.json) |
@@ -7673,6 +7676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiragana Flashcards | 391533 | [391533-hiragana-flashcards.json](./391533-hiragana-flashcards.json) |
 | Hiragana Hero | 303308 | [303308-hiragana-hero.json](./303308-hiragana-hero.json) |
 | Hiragana Katakana Ninja | 372185 | [372185-hiragana-katakana-ninja.json](./372185-hiragana-katakana-ninja.json) |
+| Hiragana Pow! | 367100 | [367100-hiragana-pow.json](./367100-hiragana-pow.json) |
 | Hiragana Word Challenge | 418325 | [418325-hiragana-word-challenge.json](./418325-hiragana-word-challenge.json) |
 | Hirai Nya | 333507 | [333507-hirai-nya.json](./333507-hirai-nya.json) |
 | Hirake! Ponkikki | 48472 | [48472-hirake-ponkikki.json](./48472-hirake-ponkikki.json) |
@@ -9443,6 +9447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Shift | 17896 | [17896-horizon-shift.json](./17896-horizon-shift.json) |
 | Horizon Source | 86511 | [86511-horizon-source.json](./86511-horizon-source.json) |
 | Horizon Steel Frontiers | 377555 | [377555-horizon-steel-frontiers.json](./377555-horizon-steel-frontiers.json) |
+| Horizon To Crinoa: Have Faith in Radiance - Prototype | 367132 | [367132-horizon-to-crinoa-have-faith-in-radiance-prototype.json](./367132-horizon-to-crinoa-have-faith-in-radiance-prototype.json) |
 | Horizon V | 24880 | [24880-horizon-v.json](./24880-horizon-v.json) |
 | Horizon Valley | 360690 | [360690-horizon-valley.json](./360690-horizon-valley.json) |
 | Horizon Vanguard | 55249 | [55249-horizon-vanguard.json](./55249-horizon-vanguard.json) |
@@ -10952,6 +10957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo's House of Horrors | 8881 | [8881-hugos-house-of-horrors.json](./8881-hugos-house-of-horrors.json) |
 | Hugs | 179542 | [179542-hugs.json](./179542-hugs.json) |
 | Hugungui Beopchik | 212858 | [212858-hugungui-beopchik.json](./212858-hugungui-beopchik.json) |
+| Huh?: and the Adventures of Something | 367123 | [367123-huh-and-the-adventures-of-something.json](./367123-huh-and-the-adventures-of-something.json) |
 | Huíwén Píngtái Tiàoyuè | 156136 | [156136-huiwen-pingtai-tiaoyue.json](./156136-huiwen-pingtai-tiaoyue.json) |
 | Huíwén Zhànqí | 415511 | [415511-huiwen-zhanqi.json](./415511-huiwen-zhanqi.json) |
 | Hula Wii: Hula de Hajimeru - Bi to Kenkou! | 141473 | [141473-hula-wii-hula-de-hajimeru-bi-to-kenkou.json](./141473-hula-wii-hula-de-hajimeru-bi-to-kenkou.json) |
@@ -11771,6 +11777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Hentai Bikini Party | 246814 | [246814-hyper-hentai-bikini-party.json](./246814-hyper-hentai-bikini-party.json) |
 | Hyper Hentai Devil Hell | 247781 | [247781-hyper-hentai-devil-hell.json](./247781-hyper-hentai-devil-hell.json) |
 | Hyper Hentai Elf Attendant | 245927 | [245927-hyper-hentai-elf-attendant.json](./245927-hyper-hentai-elf-attendant.json) |
+| Hyper Hentai Sexy Sensei | 367084 | [367084-hyper-hentai-sexy-sensei.json](./367084-hyper-hentai-sexy-sensei.json) |
 | Hyper Hentai Sister Nun | 244113 | [244113-hyper-hentai-sister-nun.json](./244113-hyper-hentai-sister-nun.json) |
 | Hyper Heroes | 54992 | [54992-hyper-heroes.json](./54992-hyper-heroes.json) |
 | Hyper HitBoxing | 247943 | [247943-hyper-hitboxing.json](./247943-hyper-hitboxing.json) |
