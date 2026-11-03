@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katekyou Hitman Reborn!: Ore ga Boss! Saikyou Family Taisen | 269823 | [269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json](./269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json) |
 | KateLabs | 184797 | [184797-katelabs.json](./184797-katelabs.json) |
 | Kathana | 349446 | [349446-kathana.json](./349446-kathana.json) |
+| Katharsi | 350872 | [350872-katharsi.json](./350872-katharsi.json) |
 | Katharsis | 55461 | [55461-katharsis.json](./55461-katharsis.json) |
 | Katharsis Project | 117624 | [117624-katharsis-project.json](./117624-katharsis-project.json) |
 | Katharsis: The second act | 82366 | [82366-katharsis-the-second-act.json](./82366-katharsis-the-second-act.json) |
