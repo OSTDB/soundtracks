@@ -12320,6 +12320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuckling | 192750 | [192750-fuckling.json](./192750-fuckling.json) |
 | Fuddo & Slam | 250342 | [250342-fuddo-and-slam.json](./250342-fuddo-and-slam.json) |
 | Fudêncio e Seus Amigos: Jogo do Miolo-Mole! | 331195 | [331195-fudencio-e-seus-amigos-jogo-do-miolo-mole.json](./331195-fudencio-e-seus-amigos-jogo-do-miolo-mole.json) |
+| Fudge Nuggets | 383908 | [383908-fudge-nuggets.json](./383908-fudge-nuggets.json) |
 | Fudou Myouou Den | 48909 | [48909-fudou-myouou-den.json](./48909-fudou-myouou-den.json) |
 | Fuel | 567 | [567-fuel.json](./567-fuel.json) |
 | Fuel & Food Bundle | 284863 | [284863-fuel-and-food-bundle.json](./284863-fuel-and-food-bundle.json) |
