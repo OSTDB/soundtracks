@@ -13136,10 +13136,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingo | 94426 | [94426-slingo.json](./94426-slingo.json) |
 | Slingo 15th Anniversary Edition | 208976 | [208976-slingo-15th-anniversary-edition.json](./208976-slingo-15th-anniversary-edition.json) |
 | Slingo Adventure | 234185 | [234185-slingo-adventure.json](./234185-slingo-adventure.json) |
+| Slingo Blast | 366448 | [366448-slingo-blast.json](./366448-slingo-blast.json) |
 | Slingo Deluxe Bundle | 208921 | [208921-slingo-deluxe-bundle.json](./208921-slingo-deluxe-bundle.json) |
 | Slingo Mystery: Who's Gold | 53617 | [53617-slingo-mystery-whos-gold.json](./53617-slingo-mystery-whos-gold.json) |
 | Slingo Quest | 47712 | [47712-slingo-quest.json](./47712-slingo-quest.json) |
 | Slingo Quest Hawaii | 73807 | [73807-slingo-quest-hawaii.json](./73807-slingo-quest-hawaii.json) |
+| Slingo Ricochet | 366449 | [366449-slingo-ricochet.json](./366449-slingo-ricochet.json) |
 | Slingo Supreme | 59471 | [59471-slingo-supreme.json](./59471-slingo-supreme.json) |
 | Slingoween | 338940 | [338940-slingoween.json](./338940-slingoween.json) |
 | Slingray | 62494 | [62494-slingray.json](./62494-slingray.json) |
@@ -15851,6 +15853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire FunPak | 79683 | [79683-solitaire-funpak.json](./79683-solitaire-funpak.json) |
 | Solitaire Game Christmas | 201471 | [201471-solitaire-game-christmas.json](./201471-solitaire-game-christmas.json) |
 | Solitaire Game Halloween | 122587 | [122587-solitaire-game-halloween.json](./122587-solitaire-game-halloween.json) |
+| Solitaire Gardens | 366450 | [366450-solitaire-gardens.json](./366450-solitaire-gardens.json) |
 | Solitaire Grand Harvest | 321601 | [321601-solitaire-grand-harvest.json](./321601-solitaire-grand-harvest.json) |
 | Solitaire Halloween Story | 156089 | [156089-solitaire-halloween-story.json](./156089-solitaire-halloween-story.json) |
 | Solitaire Harmony | 190396 | [190396-solitaire-harmony.json](./190396-solitaire-harmony.json) |
@@ -22303,6 +22306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squeeze Box | 22802 | [22802-squeeze-box.json](./22802-squeeze-box.json) |
 | Squeezils | 206708 | [206708-squeezils.json](./206708-squeezils.json) |
 | Squeezone | 31709 | [31709-squeezone.json](./31709-squeezone.json) |
+| Squelchies | 366451 | [366451-squelchies.json](./366451-squelchies.json) |
 | Squewe Run | 312884 | [312884-squewe-run.json](./312884-squewe-run.json) |
 | Squibble | 38699 | [38699-squibble.json](./38699-squibble.json) |
 | Squibs Arcade | 92354 | [92354-squibs-arcade.json](./92354-squibs-arcade.json) |
