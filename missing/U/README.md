@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Chess | 94392 | [94392-ultra-chess.json](./94392-ultra-chess.json) |
 | Ultra Combat 64 | 356271 | [356271-ultra-combat-64.json](./356271-ultra-combat-64.json) |
 | Ultra Cop | 322513 | [322513-ultra-cop.json](./322513-ultra-cop.json) |
+| Ultra Damage | 373121 | [373121-ultra-damage.json](./373121-ultra-damage.json) |
 | Ultra Donkey Kong | 231473 | [231473-ultra-donkey-kong.json](./231473-ultra-donkey-kong.json) |
 | Ultra Dynasty Warriors | 44157 | [44157-ultra-dynasty-warriors.json](./44157-ultra-dynasty-warriors.json) |
 | Ultra Fight Da! Kyanta 2 | 125614 | [125614-ultra-fight-da-kyanta-2.json](./125614-ultra-fight-da-kyanta-2.json) |
