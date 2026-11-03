@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zgr3d | 241657 | [241657-zgr3d.json](./241657-zgr3d.json) |
 | Zhadnost: The People's Party | 4298 | [4298-zhadnost-the-peoples-party.json](./4298-zhadnost-the-peoples-party.json) |
 | Zhàn jiǎ Online | 368360 | [368360-zhan-jia-online.json](./368360-zhan-jia-online.json) |
+| Zhàn Qí Dàlù | 372424 | [372424-zhan-qi-dalu.json](./372424-zhan-qi-dalu.json) |
 | Zhànchǎng Yīngxióng Wùyǔ | 130192 | [130192-zhanchang-yingxiong-wuyu.json](./130192-zhanchang-yingxiong-wuyu.json) |
 | ZhanDou | 84138 | [84138-zhandou.json](./84138-zhandou.json) |
 | Zhǎng Fěn Èrwéimǎ | 165762 | [165762-zhang-fen-erweima.json](./165762-zhang-fen-erweima.json) |
