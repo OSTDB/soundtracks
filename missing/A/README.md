@@ -7999,6 +7999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amentes Online | 401011 | [401011-amentes-online.json](./401011-amentes-online.json) |
 | Ameprod Television Game 10 | 243416 | [243416-ameprod-television-game-10.json](./243416-ameprod-television-game-10.json) |
 | Amer Fighting | 315927 | [315927-amer-fighting.json](./315927-amer-fighting.json) |
+| Amer: The Chase Hit and Run | 387459 | [387459-amer-the-chase-hit-and-run.json](./387459-amer-the-chase-hit-and-run.json) |
 | America Adventure | 206111 | [206111-america-adventure.json](./206111-america-adventure.json) |
 | America Against Ants | 338224 | [338224-america-against-ants.json](./338224-america-against-ants.json) |
 | America Double Barrel Collection | 57561 | [57561-america-double-barrel-collection.json](./57561-america-double-barrel-collection.json) |
@@ -11048,6 +11049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aporia: Beyond the Valley | 24105 | [24105-aporia-beyond-the-valley.json](./24105-aporia-beyond-the-valley.json) |
 | Aporia: Beyond the Valley - Deluxe Edition | 52596 | [52596-aporia-beyond-the-valley-deluxe-edition.json](./52596-aporia-beyond-the-valley-deluxe-edition.json) |
 | Aporkalypse: Pigs of Doom | 333544 | [333544-aporkalypse-pigs-of-doom.json](./333544-aporkalypse-pigs-of-doom.json) |
+| Aposis: Infinity Hero | 387448 | [387448-aposis-infinity-hero.json](./387448-aposis-infinity-hero.json) |
 | Apostasy | 104063 | [104063-apostasy.json](./104063-apostasy.json) |
 | Apostate | 240760 | [240760-apostate.json](./240760-apostate.json) |
 | Apostle | 115592 | [115592-apostle.json](./115592-apostle.json) |
@@ -14000,6 +14002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendrix | 326005 | [326005-ascendrix.json](./326005-ascendrix.json) |
 | Ascendshaft | 214060 | [214060-ascendshaft.json](./214060-ascendshaft.json) |
 | Ascendshaft and Endless Shaft | 144174 | [144174-ascendshaft-and-endless-shaft.json](./144174-ascendshaft-and-endless-shaft.json) |
+| Ascension | 387441 | [387441-ascension.json](./387441-ascension.json) |
 | Ascension | 95408 | [95408-ascension.json](./95408-ascension.json) |
 | Ascension to the Throne | 27467 | [27467-ascension-to-the-throne.json](./27467-ascension-to-the-throne.json) |
 | Ascension to the Throne: Valkyrie | 27455 | [27455-ascension-to-the-throne-valkyrie.json](./27455-ascension-to-the-throne-valkyrie.json) |
@@ -15749,6 +15752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -16547,6 +16551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automatrain | 217329 | [217329-automatrain.json](./217329-automatrain.json) |
 | Automatrons | 153151 | [153151-automatrons.json](./153151-automatrons.json) |
 | Automatum | 105302 | [105302-automatum.json](./105302-automatum.json) |
+| Automobil | 387436 | [387436-automobil.json](./387436-automobil.json) |
 | Automobile Tycoon | 43078 | [43078-automobile-tycoon.json](./43078-automobile-tycoon.json) |
 | Automobiles and the Eisenhower Hiway System the Game | 111070 | [111070-automobiles-and-the-eisenhower-hiway-system-the-game.json](./111070-automobiles-and-the-eisenhower-hiway-system-the-game.json) |
 | Automobili Lamborghini | 3442 | [3442-automobili-lamborghini.json](./3442-automobili-lamborghini.json) |
@@ -16902,6 +16907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aviation Hurricane Storm | 102227 | [102227-aviation-hurricane-storm.json](./102227-aviation-hurricane-storm.json) |
 | Aviation Manager | 215097 | [215097-aviation-manager.json](./215097-aviation-manager.json) |
 | Aviator | 13694 | [13694-aviator.json](./13694-aviator.json) |
+| Aviator | 387435 | [387435-aviator.json](./387435-aviator.json) |
 | Aviator Arcade II | 182926 | [182926-aviator-arcade-ii.json](./182926-aviator-arcade-ii.json) |
 | Aviator: Air Combat | 226161 | [226161-aviator-air-combat.json](./226161-aviator-air-combat.json) |
 | Aviators | 274928 | [274928-aviators.json](./274928-aviators.json) |
