@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Escape 2.0 | 294442 | [294442-half-life-escape-2-0.json](./294442-half-life-escape-2-0.json) |
 | Half-Life: Extended | 335820 | [335820-half-life-extended.json](./335820-half-life-extended.json) |
 | Half-Life: Field Intensity | 196731 | [196731-half-life-field-intensity.json](./196731-half-life-field-intensity.json) |
+| Half-Life: Game of the Year Edition | 383405 | [383405-half-life-game-of-the-year-edition.json](./383405-half-life-game-of-the-year-edition.json) |
 | Half-Life: Hard Duty | 221802 | [221802-half-life-hard-duty.json](./221802-half-life-hard-duty.json) |
 | Half-Life: Hazardous Course 2 | 196733 | [196733-half-life-hazardous-course-2.json](./196733-half-life-hazardous-course-2.json) |
 | Half-Life: History of Kumertau | 320004 | [320004-half-life-history-of-kumertau.json](./320004-half-life-history-of-kumertau.json) |
@@ -1301,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanger | 238858 | [238858-hanger.json](./238858-hanger.json) |
 | Hanger World | 32504 | [32504-hanger-world.json](./32504-hanger-world.json) |
 | Hangin' Off! | 409331 | [409331-hangin-off.json](./409331-hangin-off.json) |
+| Hanging Crosswords | 383338 | [383338-hanging-crosswords.json](./383338-hanging-crosswords.json) |
 | Hanging With Friends | 65346 | [65346-hanging-with-friends.json](./65346-hanging-with-friends.json) |
 | Hangler | 388728 | [388728-hangler.json](./388728-hangler.json) |
 | Hangman | 17259 | [17259-hangman.json](./17259-hangman.json) |
