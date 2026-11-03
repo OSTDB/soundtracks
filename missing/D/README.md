@@ -5196,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeply Absurd Chain | 101993 | [101993-deeply-absurd-chain.json](./101993-deeply-absurd-chain.json) |
 | Deeply Dark: Found Footage | 132519 | [132519-deeply-dark-found-footage.json](./132519-deeply-dark-found-footage.json) |
 | Deepmess | 285015 | [285015-deepmess.json](./285015-deepmess.json) |
+| Deepnight Trip: Tasogare | 395052 | [395052-deepnight-trip-tasogare.json](./395052-deepnight-trip-tasogare.json) |
 | Deepolis | 318139 | [318139-deepolis.json](./318139-deepolis.json) |
 | DeepOne | 242521 | [242521-deepone.json](./242521-deepone.json) |
 | Deepophobia | 275417 | [275417-deepophobia.json](./275417-deepophobia.json) |
@@ -10690,6 +10691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Crimes! | 380413 | [380413-do-crimes.json](./380413-do-crimes.json) |
 | Do Disciplinary Committee Members Dream of Succubi? | 405981 | [405981-do-disciplinary-committee-members-dream-of-succubi.json](./405981-do-disciplinary-committee-members-dream-of-succubi.json) |
 | Do Dishes As Spencer | 327284 | [327284-do-dishes-as-spencer.json](./327284-do-dishes-as-spencer.json) |
+| Do Goats Dream of Golden Grass? | 394981 | [394981-do-goats-dream-of-golden-grass.json](./394981-do-goats-dream-of-golden-grass.json) |
 | Do I Have a Right? | 207871 | [207871-do-i-have-a-right.json](./207871-do-i-have-a-right.json) |
 | Do I Know You? | 274334 | [274334-do-i-know-you.json](./274334-do-i-know-you.json) |
 | Do I Pass? | 179738 | [179738-do-i-pass.json](./179738-do-i-pass.json) |
