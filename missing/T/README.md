@@ -1495,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Bruce the Panda | 266251 | [266251-talking-bruce-the-panda.json](./266251-talking-bruce-the-panda.json) |
 | Talking Cactus | 358423 | [358423-talking-cactus.json](./358423-talking-cactus.json) |
 | Talking Caillou | 325678 | [325678-talking-caillou.json](./325678-talking-caillou.json) |
+| Talking Carl | 373242 | [373242-talking-carl.json](./373242-talking-carl.json) |
 | Talking Ghostbusters II | 218434 | [218434-talking-ghostbusters-ii.json](./218434-talking-ghostbusters-ii.json) |
 | Talking Gina | 214350 | [214350-talking-gina.json](./214350-talking-gina.json) |
 | Talking Ginger | 326529 | [326529-talking-ginger.json](./326529-talking-ginger.json) |
@@ -7884,6 +7885,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Depths of Avalon | 339207 | [339207-the-depths-of-avalon.json](./339207-the-depths-of-avalon.json) |
 | The Depths of Depravity | 345133 | [345133-the-depths-of-depravity.json](./345133-the-depths-of-depravity.json) |
 | The Depths of Despair | 317305 | [317305-the-depths-of-despair.json](./317305-the-depths-of-despair.json) |
+| The Depths of Duskraven Manor | 372941 | [372941-the-depths-of-duskraven-manor.json](./372941-the-depths-of-duskraven-manor.json) |
+| The Depths of My Guilt | 372959 | [372959-the-depths-of-my-guilt.json](./372959-the-depths-of-my-guilt.json) |
 | The Depths: Prehistoric Survival | 166724 | [166724-the-depths-prehistoric-survival.json](./166724-the-depths-prehistoric-survival.json) |
 | The Derailed | 333377 | [333377-the-derailed.json](./333377-the-derailed.json) |
 | The Derailed: Devour the Harvest | 413675 | [413675-the-derailed-devour-the-harvest.json](./413675-the-derailed-devour-the-harvest.json) |
@@ -16291,6 +16294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stairwell | 347177 | [347177-the-stairwell.json](./347177-the-stairwell.json) |
 | The Stalin Subway: Red Veil | 17579 | [17579-the-stalin-subway-red-veil.json](./17579-the-stalin-subway-red-veil.json) |
 | The Stalked | 273803 | [273803-the-stalked.json](./273803-the-stalked.json) |
+| The Stalked 3 | 372947 | [372947-the-stalked-3.json](./372947-the-stalked-3.json) |
 | The Stalked 4 | 416802 | [416802-the-stalked-4.json](./416802-the-stalked-4.json) |
 | The Stamp | 332591 | [332591-the-stamp.json](./332591-the-stamp.json) |
 | The Standard Model | 307208 | [307208-the-standard-model.json](./307208-the-standard-model.json) |
@@ -31514,6 +31518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Tangle | 254744 | [254744-twisted-tangle.json](./254744-twisted-tangle.json) |
 | Twisted to the Roots | 309529 | [309529-twisted-to-the-roots.json](./309529-twisted-to-the-roots.json) |
 | Twisted Tower | 269507 | [269507-twisted-tower.json](./269507-twisted-tower.json) |
+| Twisted Toys | 373226 | [373226-twisted-toys.json](./373226-twisted-toys.json) |
 | Twisted Waters | 295283 | [295283-twisted-waters.json](./295283-twisted-waters.json) |
 | Twisted Worlds | 32918 | [32918-twisted-worlds.json](./32918-twisted-worlds.json) |
 | Twisted: A Haunted Carol | 65879 | [65879-twisted-a-haunted-carol.json](./65879-twisted-a-haunted-carol.json) |
