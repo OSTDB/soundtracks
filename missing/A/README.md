@@ -5444,6 +5444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirportSim: Bologna Airport | 289839 | [289839-airportsim-bologna-airport.json](./289839-airportsim-bologna-airport.json) |
 | AirportSim: Rovaniemi Airport | 283886 | [283886-airportsim-rovaniemi-airport.json](./283886-airportsim-rovaniemi-airport.json) |
 | AirRacer | 332571 | [332571-airracer.json](./332571-airracer.json) |
+| Airrade: Air | 360856 | [360856-airrade-air.json](./360856-airrade-air.json) |
 | Airrade: Summer | 384707 | [384707-airrade-summer.json](./384707-airrade-summer.json) |
 | AirRaid | 211028 | [211028-airraid.json](./211028-airraid.json) |
 | Airranger | 122978 | [122978-airranger.json](./122978-airranger.json) |
@@ -12583,6 +12584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archmage: Reincarnation from Hell | 383106 | [383106-archmage-reincarnation-from-hell.json](./383106-archmage-reincarnation-from-hell.json) |
 | ArchMMO 2 | 116916 | [116916-archmmo-2.json](./116916-archmmo-2.json) |
 | ArchOlden | 248018 | [248018-archolden.json](./248018-archolden.json) |
+| Archomni | 360838 | [360838-archomni.json](./360838-archomni.json) |
 | Archon | 273032 | [273032-archon.json](./273032-archon.json) |
 | Archon | 375399 | [375399-archon.json](./375399-archon.json) |
 | Archon | 5539 | [5539-archon.json](./5539-archon.json) |
@@ -15882,6 +15884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
