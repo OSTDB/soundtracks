@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Reality: Fatal Luck | 397142 | [397142-edge-of-reality-fatal-luck.json](./397142-edge-of-reality-fatal-luck.json) |
 | Edge of Reality: Fatal Luck - Collector's Edition | 397143 | [397143-edge-of-reality-fatal-luck-collectors-edition.json](./397143-edge-of-reality-fatal-luck-collectors-edition.json) |
 | Edge of Reality: Great Deeds | 397146 | [397146-edge-of-reality-great-deeds.json](./397146-edge-of-reality-great-deeds.json) |
+| Edge of Reality: Great Deeds Collector's Edition | 357682 | [357682-edge-of-reality-great-deeds-collectors-edition.json](./357682-edge-of-reality-great-deeds-collectors-edition.json) |
 | Edge of Reality: Hunter's Legacy | 397144 | [397144-edge-of-reality-hunters-legacy.json](./397144-edge-of-reality-hunters-legacy.json) |
 | Edge of Reality: Hunter's Legacy - Collector's Edition | 397145 | [397145-edge-of-reality-hunters-legacy-collectors-edition.json](./397145-edge-of-reality-hunters-legacy-collectors-edition.json) |
 | Edge of Reality: Island of Shadows | 397152 | [397152-edge-of-reality-island-of-shadows.json](./397152-edge-of-reality-island-of-shadows.json) |
@@ -3541,6 +3542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Fables 4: Shadow Within | 122827 | [122827-endless-fables-4-shadow-within.json](./122827-endless-fables-4-shadow-within.json) |
 | Endless Fables Collection | 125131 | [125131-endless-fables-collection.json](./125131-endless-fables-collection.json) |
 | Endless Fables: Shadow Within | 165611 | [165611-endless-fables-shadow-within.json](./165611-endless-fables-shadow-within.json) |
+| Endless Fables: Shadow Within - Collector's Edition | 357676 | [357676-endless-fables-shadow-within-collectors-edition.json](./357676-endless-fables-shadow-within-collectors-edition.json) |
 | Endless Fables: The Minotaur's Curse | 32003 | [32003-endless-fables-the-minotaurs-curse.json](./32003-endless-fables-the-minotaurs-curse.json) |
 | Endless Fighter | 107698 | [107698-endless-fighter.json](./107698-endless-fighter.json) |
 | Endless Fire | 425182 | [425182-endless-fire.json](./425182-endless-fire.json) |
