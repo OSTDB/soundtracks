@@ -5144,6 +5144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue | 46855 | [46855-rescue.json](./46855-rescue.json) |
 | Rescue 2: Everyday Heroes | 53500 | [53500-rescue-2-everyday-heroes.json](./53500-rescue-2-everyday-heroes.json) |
 | Rescue 2013: Everyday Heroes | 24767 | [24767-rescue-2013-everyday-heroes.json](./24767-rescue-2013-everyday-heroes.json) |
+| Rescue 24 Hours | 387439 | [387439-rescue-24-hours.json](./387439-rescue-24-hours.json) |
 | Rescue 911 | 219016 | [219016-rescue-911.json](./219016-rescue-911.json) |
 | Rescue Agency: The Kidnapper of Happiness | 243513 | [243513-rescue-agency-the-kidnapper-of-happiness.json](./243513-rescue-agency-the-kidnapper-of-happiness.json) |
 | Rescue at Rajini Island | 54317 | [54317-rescue-at-rajini-island.json](./54317-rescue-at-rajini-island.json) |
@@ -11847,6 +11848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Caves: Eternal Echo | 422469 | [422469-rune-caves-eternal-echo.json](./422469-rune-caves-eternal-echo.json) |
 | Rune Classic | 102113 | [102113-rune-classic.json](./102113-rune-classic.json) |
 | Rune Coliseum: Chained Warrior | 258351 | [258351-rune-coliseum-chained-warrior.json](./258351-rune-coliseum-chained-warrior.json) |
+| Rune Crystal: Adventure | 387470 | [387470-rune-crystal-adventure.json](./387470-rune-crystal-adventure.json) |
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
 | Rune Delvers: Idle RPG | 422140 | [422140-rune-delvers-idle-rpg.json](./422140-rune-delvers-idle-rpg.json) |
 | Rune Dice | 345982 | [345982-rune-dice.json](./345982-rune-dice.json) |
