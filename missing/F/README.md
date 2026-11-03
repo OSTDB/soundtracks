@@ -7498,6 +7498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flingo | 416736 | [416736-flingo.json](./416736-flingo.json) |
 | FlingSmash | 4856 | [4856-flingsmash.json](./4856-flingsmash.json) |
 | Flink | 5387 | [5387-flink.json](./5387-flink.json) |
+| Flint | 365388 | [365388-flint.json](./365388-flint.json) |
 | Flint | 366876 | [366876-flint.json](./366876-flint.json) |
 | Flint | 368493 | [368493-flint.json](./368493-flint.json) |
 | Flint | 369680 | [369680-flint.json](./369680-flint.json) |
