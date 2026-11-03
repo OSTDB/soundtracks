@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Arena: Voicebound | 366214 | [366214-mage-arena-voicebound.json](./366214-mage-arena-voicebound.json) |
 | Mage Ball | 232942 | [232942-mage-ball.json](./232942-mage-ball.json) |
 | Mage Battle Arena | 370436 | [370436-mage-battle-arena.json](./370436-mage-battle-arena.json) |
+| Mage Blast | 356369 | [356369-mage-blast.json](./356369-mage-blast.json) |
 | Mage Bros. | 210408 | [210408-mage-bros.json](./210408-mage-bros.json) |
 | Mage Chess | 171221 | [171221-mage-chess.json](./171221-mage-chess.json) |
 | Mage Craft | 130897 | [130897-mage-craft.json](./130897-mage-craft.json) |
@@ -6301,6 +6302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Knight Chronicles | 63570 | [63570-mech-knight-chronicles.json](./63570-mech-knight-chronicles.json) |
 | Mech League Boxing | 36521 | [36521-mech-league-boxing.json](./36521-mech-league-boxing.json) |
 | Mech League Hunting | 87952 | [87952-mech-league-hunting.json](./87952-mech-league-hunting.json) |
+| Mech Log Zero | 356338 | [356338-mech-log-zero.json](./356338-mech-log-zero.json) |
 | Mech Marines: Steel March | 36112 | [36112-mech-marines-steel-march.json](./36112-mech-marines-steel-march.json) |
 | Mech Mastery | 246805 | [246805-mech-mastery.json](./246805-mech-mastery.json) |
 | Mech Mechanic Simulator | 116068 | [116068-mech-mechanic-simulator.json](./116068-mech-mechanic-simulator.json) |
@@ -6339,6 +6341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Jump | 365786 | [365786-mecha-jump.json](./365786-mecha-jump.json) |
 | Mecha Knights: Nightmare | 125202 | [125202-mecha-knights-nightmare.json](./125202-mecha-knights-nightmare.json) |
 | Mecha Knights: Nightmare - Operation Ascalon Expansion | 265492 | [265492-mecha-knights-nightmare-operation-ascalon-expansion.json](./265492-mecha-knights-nightmare-operation-ascalon-expansion.json) |
+| Mecha Knights: Nightmare - Raid Map Pack | 356347 | [356347-mecha-knights-nightmare-raid-map-pack.json](./356347-mecha-knights-nightmare-raid-map-pack.json) |
 | Mecha Knights: Nightmare 2 | 377069 | [377069-mecha-knights-nightmare-2.json](./377069-mecha-knights-nightmare-2.json) |
 | Mecha Kucha Gacha Defence | 255038 | [255038-mecha-kucha-gacha-defence.json](./255038-mecha-kucha-gacha-defence.json) |
 | Mecha Legends | 394298 | [394298-mecha-legends.json](./394298-mecha-legends.json) |
@@ -6381,6 +6384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanic 8230: Escape From Ilgrot - Extended Edition | 259544 | [259544-mechanic-8230-escape-from-ilgrot-extended-edition.json](./259544-mechanic-8230-escape-from-ilgrot-extended-edition.json) |
 | Mechanic 8230: Mission Citytone | 260527 | [260527-mechanic-8230-mission-citytone.json](./260527-mechanic-8230-mission-citytone.json) |
 | Mechanic Battle | 203724 | [203724-mechanic-battle.json](./203724-mechanic-battle.json) |
+| Mechanic Beyond the Horizon | 356344 | [356344-mechanic-beyond-the-horizon.json](./356344-mechanic-beyond-the-horizon.json) |
 | Mechanic Heroes | 207565 | [207565-mechanic-heroes.json](./207565-mechanic-heroes.json) |
 | Mechanic Infantry | 61986 | [61986-mechanic-infantry.json](./61986-mechanic-infantry.json) |
 | Mechanic Legends | 314472 | [314472-mechanic-legends.json](./314472-mechanic-legends.json) |
@@ -6399,11 +6403,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanical Gods | 245881 | [245881-mechanical-gods.json](./245881-mechanical-gods.json) |
 | Mechanical Growth | 260189 | [260189-mechanical-growth.json](./260189-mechanical-growth.json) |
 | Mechanical Lab | 278262 | [278262-mechanical-lab.json](./278262-mechanical-lab.json) |
+| Mechanical Mayhem | 356346 | [356346-mechanical-mayhem.json](./356346-mechanical-mayhem.json) |
 | Mechanical Relations | 381794 | [381794-mechanical-relations.json](./381794-mechanical-relations.json) |
 | Mechanical Relations Ep 2 | 398691 | [398691-mechanical-relations-ep-2.json](./398691-mechanical-relations-ep-2.json) |
 | Mechanical Siege | 244146 | [244146-mechanical-siege.json](./244146-mechanical-siege.json) |
 | Mechanical Siege | 283845 | [283845-mechanical-siege.json](./283845-mechanical-siege.json) |
 | Mechanical Successor Bizameka | 417978 | [417978-mechanical-successor-bizameka.json](./417978-mechanical-successor-bizameka.json) |
+| Mechanical Throb | 356340 | [356340-mechanical-throb.json](./356340-mechanical-throb.json) |
 | Mechanical Tralp | 278665 | [278665-mechanical-tralp.json](./278665-mechanical-tralp.json) |
 | Mechanical Violator Hakaider: Last Judgement | 66147 | [66147-mechanical-violator-hakaider-last-judgement.json](./66147-mechanical-violator-hakaider-last-judgement.json) |
 | Mechanician Alex | 60617 | [60617-mechanician-alex.json](./60617-mechanician-alex.json) |
@@ -6460,6 +6466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechQuest | 78644 | [78644-mechquest.json](./78644-mechquest.json) |
 | Mechrunner | 19246 | [19246-mechrunner.json](./19246-mechrunner.json) |
 | Mechs and Mercs: Black Talons | 8721 | [8721-mechs-and-mercs-black-talons.json](./8721-mechs-and-mercs-black-talons.json) |
+| Mechs and Muskets | 356337 | [356337-mechs-and-muskets.json](./356337-mechs-and-muskets.json) |
 | Mechs V Kaijus 2 | 400402 | [400402-mechs-v-kaijus-2.json](./400402-mechs-v-kaijus-2.json) |
 | MechScape | 94019 | [94019-mechscape.json](./94019-mechscape.json) |
 | MechShell | 373147 | [373147-mechshell.json](./373147-mechshell.json) |
@@ -6506,6 +6513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior Online: Gauntlet Mech Pack | 357320 | [357320-mechwarrior-online-gauntlet-mech-pack.json](./357320-mechwarrior-online-gauntlet-mech-pack.json) |
 | MechWarrior Online: Gausszilla Legendary Mech Pack | 357341 | [357341-mechwarrior-online-gausszilla-legendary-mech-pack.json](./357341-mechwarrior-online-gausszilla-legendary-mech-pack.json) |
 | MechWarrior Online: Gorewing Legendary Mech Pack | 357410 | [357410-mechwarrior-online-gorewing-legendary-mech-pack.json](./357410-mechwarrior-online-gorewing-legendary-mech-pack.json) |
+| MechWarrior Online: Grand Summoner Mech Pack | 356343 | [356343-mechwarrior-online-grand-summoner-mech-pack.json](./356343-mechwarrior-online-grand-summoner-mech-pack.json) |
 | MechWarrior Online: Hashké and Abaddon Legendary Mech Pack | 357330 | [357330-mechwarrior-online-hashke-and-abaddon-legendary-mech-pack.json](./357330-mechwarrior-online-hashke-and-abaddon-legendary-mech-pack.json) |
 | MechWarrior Online: Moonwalker Legendary Mech Pack | 357331 | [357331-mechwarrior-online-moonwalker-legendary-mech-pack.json](./357331-mechwarrior-online-moonwalker-legendary-mech-pack.json) |
 | MechWarrior Online: Naomi Legendary Mech Pack | 357325 | [357325-mechwarrior-online-naomi-legendary-mech-pack.json](./357325-mechwarrior-online-naomi-legendary-mech-pack.json) |
@@ -6520,9 +6528,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior Online: Starshot Legendary Mech Pack | 357323 | [357323-mechwarrior-online-starshot-legendary-mech-pack.json](./357323-mechwarrior-online-starshot-legendary-mech-pack.json) |
 | MechWarrior Online: Stone Crusher Legendary Mech Pack | 357340 | [357340-mechwarrior-online-stone-crusher-legendary-mech-pack.json](./357340-mechwarrior-online-stone-crusher-legendary-mech-pack.json) |
 | MechWarrior Online: War Emu Legendary Mech Pack | 262584 | [262584-mechwarrior-online-war-emu-legendary-mech-pack.json](./262584-mechwarrior-online-war-emu-legendary-mech-pack.json) |
+| MechWarrior Online: Wolf Dragoons Mech Pack | 356342 | [356342-mechwarrior-online-wolf-dragoons-mech-pack.json](./356342-mechwarrior-online-wolf-dragoons-mech-pack.json) |
 | MechWarrior Tactics | 94184 | [94184-mechwarrior-tactics.json](./94184-mechwarrior-tactics.json) |
 | MechWarrior: Living Legends | 51237 | [51237-mechwarrior-living-legends.json](./51237-mechwarrior-living-legends.json) |
 | MechWarrior: Tactical Command | 19196 | [19196-mechwarrior-tactical-command.json](./19196-mechwarrior-tactical-command.json) |
+| Mechxis War: The Rise of AI | 356336 | [356336-mechxis-war-the-rise-of-ai.json](./356336-mechxis-war-the-rise-of-ai.json) |
 | MechZ9 | 123270 | [123270-mechz9.json](./123270-mechz9.json) |
 | Meco Rocket Simulator | 360866 | [360866-meco-rocket-simulator.json](./360866-meco-rocket-simulator.json) |
 | Meda Avi | 188842 | [188842-meda-avi.json](./188842-meda-avi.json) |
