@@ -7455,6 +7455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Cru: The Wine Maker | 410620 | [410620-grand-cru-the-wine-maker.json](./410620-grand-cru-the-wine-maker.json) |
 | Grand Dad | 129542 | [129542-grand-dad.json](./129542-grand-dad.json) |
 | Grand Dad Overthrows Bowser | 238208 | [238208-grand-dad-overthrows-bowser.json](./238208-grand-dad-overthrows-bowser.json) |
+| Grand Dude Simulator | 367128 | [367128-grand-dude-simulator.json](./367128-grand-dude-simulator.json) |
 | Grand Emprise 2: Portals Apart | 285901 | [285901-grand-emprise-2-portals-apart.json](./285901-grand-emprise-2-portals-apart.json) |
 | Grand Emprise: Time Travel Survival | 229106 | [229106-grand-emprise-time-travel-survival.json](./229106-grand-emprise-time-travel-survival.json) |
 | Grand Fantasia | 47106 | [47106-grand-fantasia.json](./47106-grand-fantasia.json) |
@@ -8279,6 +8280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greasemnk++ | 347290 | [347290-greasemnk.json](./347290-greasemnk.json) |
 | GreasyMac: Void Wilds | 410023 | [410023-greasymac-void-wilds.json](./410023-greasymac-void-wilds.json) |
 | Great 1000 Miles Rally: Evolution Model!!! | 40157 | [40157-great-1000-miles-rally-evolution-model.json](./40157-great-1000-miles-rally-evolution-model.json) |
+| Great Adventure in the World of Sky | 367104 | [367104-great-adventure-in-the-world-of-sky.json](./367104-great-adventure-in-the-world-of-sky.json) |
 | Great Adventures Lost Mountains | 54060 | [54060-great-adventures-lost-mountains.json](./54060-great-adventures-lost-mountains.json) |
 | Great Adventures: Castle | 167280 | [167280-great-adventures-castle.json](./167280-great-adventures-castle.json) |
 | Great Adventures: Lost in Mountains | 146477 | [146477-great-adventures-lost-in-mountains.json](./146477-great-adventures-lost-in-mountains.json) |
