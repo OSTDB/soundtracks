@@ -2972,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jukemeister | 181790 | [181790-jukemeister.json](./181790-jukemeister.json) |
 | Juken Jigoku | 127745 | [127745-juken-jigoku.json](./127745-juken-jigoku.json) |
 | Jukugon | 56830 | [56830-jukugon.json](./56830-jukugon.json) |
+| Julens Hjältar | 399388 | [399388-julens-hjaltar.json](./399388-julens-hjaltar.json) |
 | Jules | 187368 | [187368-jules.json](./187368-jules.json) |
 | Jules Verne's Journey to the center of the moon | 95908 | [95908-jules-vernes-journey-to-the-center-of-the-moon.json](./95908-jules-vernes-journey-to-the-center-of-the-moon.json) |
 | Jules Verne's Mystery of the Nautilus | 104368 | [104368-jules-vernes-mystery-of-the-nautilus.json](./104368-jules-vernes-mystery-of-the-nautilus.json) |
@@ -2987,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juliette's Fashion Empire | 54162 | [54162-juliettes-fashion-empire.json](./54162-juliettes-fashion-empire.json) |
 | Julius | 405771 | [405771-julius.json](./405771-julius.json) |
 | Julius Styles: The International | 65732 | [65732-julius-styles-the-international.json](./65732-julius-styles-the-international.json) |
+| Julkalender med Kosmos & Co | 399391 | [399391-julkalender-med-kosmos-and-co.json](./399391-julkalender-med-kosmos-and-co.json) |
 | July | 200946 | [200946-july.json](./200946-july.json) |
 | July | 62243 | [62243-july.json](./62243-july.json) |
 | July 4th, 1976 | 348976 | [348976-july-4th-1976.json](./348976-july-4th-1976.json) |
