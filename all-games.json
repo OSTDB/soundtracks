@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-02T22:40:56.592Z",
-  "total_soundtracks": 2865,
+  "generated_at": "2026-11-03T20:36:41.612Z",
+  "total_soundtracks": 2876,
   "games": [
     {
       "igdb_id": 7522,
@@ -4409,6 +4409,20 @@
       ]
     },
     {
+      "igdb_id": 260721,
+      "game_name": "Broforce: Forever",
+      "game_url": "https://ostdb.net/games/broforce-forever",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731fa2cbc915affffa46ac0085",
+      "albums": [
+        {
+          "album_name": "Broforce Forever (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3G31wkexSCqkI7vNm2eMjA",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3087,
       "game_name": "Broken Age",
       "game_url": "https://ostdb.net/games/broken-age",
@@ -4601,6 +4615,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/bye-sweet-carole-original-game-soundtrack/1834071514?uo=4",
           "album_link_url": "https://album.link/i/1834071514"
+        }
+      ]
+    },
+    {
+      "igdb_id": 250803,
+      "game_name": "Cabernet",
+      "game_url": "https://ostdb.net/games/cabernet",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735f209cd9e02856a448c5b1cd",
+      "albums": [
+        {
+          "album_name": "Cabernet (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3k1mLR7o6cKhVO6gSK6L0r",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -10709,6 +10737,20 @@
       ]
     },
     {
+      "igdb_id": 282725,
+      "game_name": "Final Fantasy IV",
+      "game_url": "https://ostdb.net/games/final-fantasy-iv",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27327922359e0355d0de08c24c5",
+      "albums": [
+        {
+          "album_name": "FINAL FANTASY IV Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/55779J248b7xDIJd3iExEn",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 421,
       "game_name": "Final Fantasy IX",
       "game_url": "https://ostdb.net/games/final-fantasy-ix",
@@ -11127,6 +11169,20 @@
       ]
     },
     {
+      "igdb_id": 266421,
+      "game_name": "Finding Frankie",
+      "game_url": "https://ostdb.net/games/finding-frankie",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d6673acab7083e6e8f45e7bd",
+      "albums": [
+        {
+          "album_name": "Finding Frankie (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3MZkIKJxy7cQ6LaJANPhPf",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 36044,
       "game_name": "Finding Paradise",
       "game_url": "https://ostdb.net/games/finding-paradise",
@@ -11164,6 +11220,20 @@
           "album_name": "Firewatch (Original Score)",
           "spotify_url": "https://open.spotify.com/album/6t4gSUaC3GZoUac8gpOFtn",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 250627,
+      "game_name": "Five Nights at Freddy's: Help Wanted 2",
+      "game_url": "https://ostdb.net/games/five-nights-at-freddys-help-wanted-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27377189eaa839d5345c38c3e6b",
+      "albums": [
+        {
+          "album_name": "Five Nights at Freddy's: Help Wanted 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3Kpo1RHEdCHh9Fn8jbQUgA",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -16689,6 +16759,20 @@
       ]
     },
     {
+      "igdb_id": 279431,
+      "game_name": "Let's Find Larry!",
+      "game_url": "https://ostdb.net/games/lets-find-larry",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738430fd19d4bfaa446804e232",
+      "albums": [
+        {
+          "album_name": "Let's Find Larry! (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4v1AARP98h337tzn1m44ui",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 35132,
       "game_name": "LiEat",
       "game_url": "https://ostdb.net/games/lieat",
@@ -18883,6 +18967,20 @@
       ]
     },
     {
+      "igdb_id": 267837,
+      "game_name": "Millennia",
+      "game_url": "https://ostdb.net/games/millennia",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731fe7cf709236b9ed6f3f7610",
+      "albums": [
+        {
+          "album_name": "Millennia (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0xOlc3MlvB0yjayFXIDPrf",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 139600,
       "game_name": "Milo and the Magpies",
       "game_url": "https://ostdb.net/games/milo-and-the-magpies",
@@ -20190,6 +20288,20 @@
           "album_name": "Need for Speed: Prostreet (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0GkqAfKIIhGGydfQo7lPnK",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 248126,
+      "game_name": "Need for Speed: ProStreet",
+      "game_url": "https://ostdb.net/games/need-for-speed-prostreet",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273eb4a8253a1b8f68bbdfb2e3f",
+      "albums": [
+        {
+          "album_name": "Need for Speed: Prostreet (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0GkqAfKIIhGGydfQo7lPnK",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -26324,6 +26436,20 @@
           "album_name": "Skull and Bones: Rise of the Kingpins (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6Ka5oZIVMtC7SU0e3EdZ1e",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 257674,
+      "game_name": "Skull Island: Rise of Kong",
+      "game_url": "https://ostdb.net/games/skull-island-rise-of-kong",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b600ee0f86423b110217237b",
+      "albums": [
+        {
+          "album_name": "Skull Island: Rise of Kong (Original Soundtrack from the Video Game)",
+          "spotify_url": "https://open.spotify.com/album/4AmdDxTcjt7AAPYaUEnqn3",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -32737,6 +32863,20 @@
       ]
     },
     {
+      "igdb_id": 262582,
+      "game_name": "Train Sim World 4",
+      "game_url": "https://ostdb.net/games/train-sim-world-4",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733c7c0f8ef1d3a9e44738f38e",
+      "albums": [
+        {
+          "album_name": "Train Sim World 4 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6qnYSbigaLfTfuUJTi4pcj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 363370,
       "game_name": "Train Sim World 6",
       "game_url": "https://ostdb.net/games/train-sim-world-6",
@@ -33077,6 +33217,20 @@
         {
           "album_name": "Trover Saves the Universe (Official Soundtrack) [Deluxe Edition]",
           "spotify_url": "https://open.spotify.com/album/6GJQ4mCR4OXIlWm0QDOcIO",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 249388,
+      "game_name": "Try Again",
+      "game_url": "https://ostdb.net/games/try-again",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734551711b1f273defc12365f8",
+      "albums": [
+        {
+          "album_name": "Try Again (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7eQ4XaTiLYpRRnOtOu8Usm",
           "apple_music_url": "",
           "album_link_url": ""
         }
