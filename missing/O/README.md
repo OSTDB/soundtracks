@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occult Cleanup Agency | 420488 | [420488-occult-cleanup-agency.json](./420488-occult-cleanup-agency.json) |
 | Occult Crime Police | 178899 | [178899-occult-crime-police.json](./178899-occult-crime-police.json) |
 | Occult Maiden | 59011 | [59011-occult-maiden.json](./59011-occult-maiden.json) |
+| Occult Office: Lofi Rituals | 381517 | [381517-occult-office-lofi-rituals.json](./381517-occult-office-lofi-rituals.json) |
 | Occult PreRaise | 74980 | [74980-occult-preraise.json](./74980-occult-preraise.json) |
 | Occult Raise | 43110 | [43110-occult-raise.json](./43110-occult-raise.json) |
 | Occult ReRaise | 54860 | [54860-occult-reraise.json](./54860-occult-reraise.json) |
@@ -3650,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Approach | 207566 | [207566-orbital-approach.json](./207566-orbital-approach.json) |
 | Orbital Bombardment | 237078 | [237078-orbital-bombardment.json](./237078-orbital-bombardment.json) |
 | Orbital Cargo Division | 224726 | [224726-orbital-cargo-division.json](./224726-orbital-cargo-division.json) |
+| Orbital Chaos | 381524 | [381524-orbital-chaos.json](./381524-orbital-chaos.json) |
 | Orbital Checkpoint | 413803 | [413803-orbital-checkpoint.json](./413803-orbital-checkpoint.json) |
 | Orbital Clash | 226165 | [226165-orbital-clash.json](./226165-orbital-clash.json) |
 | Orbital Crash | 392462 | [392462-orbital-crash.json](./392462-orbital-crash.json) |
