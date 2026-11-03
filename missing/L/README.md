@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landlord and the Tenants | 310279 | [310279-landlord-and-the-tenants.json](./310279-landlord-and-the-tenants.json) |
 | Landlord Go! | 235293 | [235293-landlord-go.json](./235293-landlord-go.json) |
 | Landlord of the Woods | 144931 | [144931-landlord-of-the-woods.json](./144931-landlord-of-the-woods.json) |
+| Landlord Quest | 373479 | [373479-landlord-quest.json](./373479-landlord-quest.json) |
 | Landlord Simulator | 231878 | [231878-landlord-simulator.json](./231878-landlord-simulator.json) |
 | Landlord Simulator | 410591 | [410591-landlord-simulator.json](./410591-landlord-simulator.json) |
 | Landlord Simulator | 89654 | [89654-landlord-simulator.json](./89654-landlord-simulator.json) |
@@ -2059,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Evil 3 | 41508 | [41508-league-of-evil-3.json](./41508-league-of-evil-3.json) |
 | League of Felt Tanks | 173038 | [173038-league-of-felt-tanks.json](./173038-league-of-felt-tanks.json) |
 | League of Fighters | 107159 | [107159-league-of-fighters.json](./107159-league-of-fighters.json) |
+| League of Foes | 373487 | [373487-league-of-foes.json](./373487-league-of-foes.json) |
 | League Of Guessing | 31381 | [31381-league-of-guessing.json](./31381-league-of-guessing.json) |
 | League of Kingdoms | 188647 | [188647-league-of-kingdoms.json](./188647-league-of-kingdoms.json) |
 | League of Legends: 2025 Season One - Welcome to Noxus | 327916 | [327916-league-of-legends-2025-season-one-welcome-to-noxus.json](./327916-league-of-legends-2025-season-one-welcome-to-noxus.json) |
