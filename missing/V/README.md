@@ -1727,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vibe City Islands Architect | 374849 | [374849-vibe-city-islands-architect.json](./374849-vibe-city-islands-architect.json) |
 | Vibe Clicker | 352311 | [352311-vibe-clicker.json](./352311-vibe-clicker.json) |
 | Vibe or Dare | 404046 | [404046-vibe-or-dare.json](./404046-vibe-or-dare.json) |
+| Vibes | 354901 | [354901-vibes.json](./354901-vibes.json) |
 | Vibes | 94126 | [94126-vibes.json](./94126-vibes.json) |
 | Vibin'Vendetta | 302671 | [302671-vibinvendetta.json](./302671-vibinvendetta.json) |
 | Vibrant | 74188 | [74188-vibrant.json](./74188-vibrant.json) |
