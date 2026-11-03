@@ -4446,6 +4446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Visiting El Dorado | 368761 | [368761-cats-visiting-el-dorado.json](./368761-cats-visiting-el-dorado.json) |
 | Cats Visiting Fairy Tales | 343725 | [343725-cats-visiting-fairy-tales.json](./343725-cats-visiting-fairy-tales.json) |
 | Cats Visiting Lunar New Year | 328566 | [328566-cats-visiting-lunar-new-year.json](./328566-cats-visiting-lunar-new-year.json) |
+| Cats Visiting the Cinema | 356961 | [356961-cats-visiting-the-cinema.json](./356961-cats-visiting-the-cinema.json) |
 | Cats Visiting Underwater World | 328542 | [328542-cats-visiting-underwater-world.json](./328542-cats-visiting-underwater-world.json) |
 | Cats vs Cthulhu | 327957 | [327957-cats-vs-cthulhu.json](./327957-cats-vs-cthulhu.json) |
 | Cats vs Trolls | 394763 | [394763-cats-vs-trolls.json](./394763-cats-vs-trolls.json) |
@@ -6453,6 +6454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Puzzles: 100 by Liam | 163414 | [163414-chess-puzzles-100-by-liam.json](./163414-chess-puzzles-100-by-liam.json) |
 | Chess Puzzles: 100 by Tyrone | 163413 | [163413-chess-puzzles-100-by-tyrone.json](./163413-chess-puzzles-100-by-tyrone.json) |
 | Chess Quest: A Cozy Puzzle | 394428 | [394428-chess-quest-a-cozy-puzzle.json](./394428-chess-quest-a-cozy-puzzle.json) |
+| Chess Quest: From Pawn to Master | 356962 | [356962-chess-quest-from-pawn-to-master.json](./356962-chess-quest-from-pawn-to-master.json) |
 | Chess Remix | 259293 | [259293-chess-remix.json](./259293-chess-remix.json) |
 | Chess Royal | 142699 | [142699-chess-royal.json](./142699-chess-royal.json) |
 | Chess Royale | 330918 | [330918-chess-royale.json](./330918-chess-royale.json) |
@@ -10827,6 +10829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Run | 210667 | [210667-coffee-run.json](./210667-coffee-run.json) |
 | Coffee Run | 74470 | [74470-coffee-run.json](./74470-coffee-run.json) |
 | Coffee Runner Black and Mocha | 119490 | [119490-coffee-runner-black-and-mocha.json](./119490-coffee-runner-black-and-mocha.json) |
+| Coffee Shop Simulator | 356970 | [356970-coffee-shop-simulator.json](./356970-coffee-shop-simulator.json) |
 | Coffee Shop Tycoon | 35274 | [35274-coffee-shop-tycoon.json](./35274-coffee-shop-tycoon.json) |
 | Coffee Stack | 212506 | [212506-coffee-stack.json](./212506-coffee-stack.json) |
 | Coffee Talk 1+2 Double Pack Edition | 270576 | [270576-coffee-talk-1-2-double-pack-edition.json](./270576-coffee-talk-1-2-double-pack-edition.json) |
@@ -12010,6 +12013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Shock 2 | 140432 | [140432-combat-shock-2.json](./140432-combat-shock-2.json) |
 | Combat Space Journey | 192294 | [192294-combat-space-journey.json](./192294-combat-space-journey.json) |
 | Combat Spec Ops | 256887 | [256887-combat-spec-ops.json](./256887-combat-spec-ops.json) |
+| Combat Strike | 356976 | [356976-combat-strike.json](./356976-combat-strike.json) |
 | Combat Survivors | 402266 | [402266-combat-survivors.json](./402266-combat-survivors.json) |
 | Combat Tanks | 73367 | [73367-combat-tanks.json](./73367-combat-tanks.json) |
 | Combat the Space | 325881 | [325881-combat-the-space.json](./325881-combat-the-space.json) |
@@ -13384,6 +13388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraptions 2 | 242598 | [242598-contraptions-2.json](./242598-contraptions-2.json) |
 | Contraptions 3 | 255187 | [255187-contraptions-3.json](./255187-contraptions-3.json) |
 | Contraptions Collection | 282051 | [282051-contraptions-collection.json](./282051-contraptions-collection.json) |
+| Contraria | 356957 | [356957-contraria.json](./356957-contraria.json) |
 | Contrast | 383509 | [383509-contrast.json](./383509-contrast.json) |
 | Contrast | 3839 | [3839-contrast.json](./3839-contrast.json) |
 | Contrast Tunnel | 150942 | [150942-contrast-tunnel.json](./150942-contrast-tunnel.json) |
@@ -13987,6 +13992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corner Driver | 225888 | [225888-corner-driver.json](./225888-corner-driver.json) |
 | Corner Kitchen Fast Food Simulator | 326454 | [326454-corner-kitchen-fast-food-simulator.json](./326454-corner-kitchen-fast-food-simulator.json) |
 | Corner Loot | 360003 | [360003-corner-loot.json](./360003-corner-loot.json) |
+| Corner Shop: NightShift | 356955 | [356955-corner-shop-nightshift.json](./356955-corner-shop-nightshift.json) |
 | Corner Streamer | 392320 | [392320-corner-streamer.json](./392320-corner-streamer.json) |
 | Corner World | 325991 | [325991-corner-world.json](./325991-corner-world.json) |
 | Cornerfall | 409189 | [409189-cornerfall.json](./409189-cornerfall.json) |
@@ -17613,6 +17619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt Worlds | 63063 | [63063-crypt-worlds.json](./63063-crypt-worlds.json) |
 | Crypt-Oink Racing Friends | 130823 | [130823-crypt-oink-racing-friends.json](./130823-crypt-oink-racing-friends.json) |
 | Crypt: The Black Tower | 84059 | [84059-crypt-the-black-tower.json](./84059-crypt-the-black-tower.json) |
+| Cryptadia Village | 356979 | [356979-cryptadia-village.json](./356979-cryptadia-village.json) |
 | Cryptage | 333114 | [333114-cryptage.json](./333114-cryptage.json) |
 | CryptantCrab | 110043 | [110043-cryptantcrab.json](./110043-cryptantcrab.json) |
 | CryptaSync Cyber: Urban Depths | 271111 | [271111-cryptasync-cyber-urban-depths.json](./271111-cryptasync-cyber-urban-depths.json) |
