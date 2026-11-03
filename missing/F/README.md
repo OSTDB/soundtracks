@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fake Lay | 98501 | [98501-fake-lay.json](./98501-fake-lay.json) |
 | Fake News | 184789 | [184789-fake-news.json](./184789-fake-news.json) |
 | Fake Racing | 150861 | [150861-fake-racing.json](./150861-fake-racing.json) |
+| Fake Roads | 399960 | [399960-fake-roads.json](./399960-fake-roads.json) |
 | Fake Signals | 236273 | [236273-fake-signals.json](./236273-fake-signals.json) |
 | Fake World | 55270 | [55270-fake-world.json](./55270-fake-world.json) |
 | Fake/SuperSonia | 59233 | [59233-fake-supersonia.json](./59233-fake-supersonia.json) |
@@ -10518,6 +10519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Worlds | 222639 | [222639-fractured-worlds.json](./222639-fractured-worlds.json) |
 | Fractured Worlds | 321943 | [321943-fractured-worlds.json](./321943-fractured-worlds.json) |
 | Fractured: A Tale of Two Worlds | 114663 | [114663-fractured-a-tale-of-two-worlds.json](./114663-fractured-a-tale-of-two-worlds.json) |
+| Fractured: Snowpine Strangers | 398758 | [398758-fractured-snowpine-strangers.json](./398758-fractured-snowpine-strangers.json) |
 | Fracturefront | 374774 | [374774-fracturefront.json](./374774-fracturefront.json) |
 | Fractus | 75072 | [75072-fractus.json](./75072-fractus.json) |
 | Fracuum | 387919 | [387919-fracuum.json](./387919-fracuum.json) |
