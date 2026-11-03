@@ -3066,6 +3066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Clicker | 304868 | [304868-heart-clicker.json](./304868-heart-clicker.json) |
 | Heart de Roommate | 84234 | [84234-heart-de-roommate.json](./84234-heart-de-roommate.json) |
 | Heart Electric | 328329 | [328329-heart-electric.json](./328329-heart-electric.json) |
+| Heart Flipper: A House Flipper Dating Sim | 381165 | [381165-heart-flipper-a-house-flipper-dating-sim.json](./381165-heart-flipper-a-house-flipper-dating-sim.json) |
 | Heart Fragment | 131599 | [131599-heart-fragment.json](./131599-heart-fragment.json) |
 | Heart Fragment: Book One - Fantasy Fragments | 245032 | [245032-heart-fragment-book-one-fantasy-fragments.json](./245032-heart-fragment-book-one-fantasy-fragments.json) |
 | Heart Fragment: Book Three - Despair Fragments | 246566 | [246566-heart-fragment-book-three-despair-fragments.json](./246566-heart-fragment-book-three-despair-fragments.json) |
@@ -6409,6 +6410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Animals Find : Detective Neko | 289343 | [289343-hidden-animals-find-detective-neko.json](./289343-hidden-animals-find-detective-neko.json) |
 | Hidden Animals: English - Spanish | 28068 | [28068-hidden-animals-english-spanish.json](./28068-hidden-animals-english-spanish.json) |
 | Hidden Anime Girls | 369666 | [369666-hidden-anime-girls.json](./369666-hidden-anime-girls.json) |
+| Hidden Around the World | 380976 | [380976-hidden-around-the-world.json](./380976-hidden-around-the-world.json) |
 | Hidden Art: Twilight in The Museum | 294435 | [294435-hidden-art-twilight-in-the-museum.json](./294435-hidden-art-twilight-in-the-museum.json) |
 | Hidden Bananas | 348683 | [348683-hidden-bananas.json](./348683-hidden-bananas.json) |
 | Hidden Battle Top-Down 3D | 205004 | [205004-hidden-battle-top-down-3d.json](./205004-hidden-battle-top-down-3d.json) |
