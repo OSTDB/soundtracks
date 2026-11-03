@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairytale Thief: Sleeping Beauty | 351748 | [351748-fairytale-thief-sleeping-beauty.json](./351748-fairytale-thief-sleeping-beauty.json) |
 | Fairytale Thief: Snow White | 365172 | [365172-fairytale-thief-snow-white.json](./365172-fairytale-thief-snow-white.json) |
 | Fairytale Thief: The Goldfish | 259568 | [259568-fairytale-thief-the-goldfish.json](./259568-fairytale-thief-the-goldfish.json) |
+| Fairywood Survivors | 393883 | [393883-fairywood-survivors.json](./393883-fairywood-survivors.json) |
 | FairyWoods Patisserie | 258613 | [258613-fairywoods-patisserie.json](./258613-fairywoods-patisserie.json) |
 | Fäiser | 186063 | [186063-faiser.json](./186063-faiser.json) |
 | Fait: The Machine | 122188 | [122188-fait-the-machine.json](./122188-fait-the-machine.json) |
@@ -11983,6 +11984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frost Loop | 391230 | [391230-frost-loop.json](./391230-frost-loop.json) |
 | Frost Ornament | 403919 | [403919-frost-ornament.json](./403919-frost-ornament.json) |
 | Frost Station | 397729 | [397729-frost-station.json](./397729-frost-station.json) |
+| Frost Survival: Winter | 393887 | [393887-frost-survival-winter.json](./393887-frost-survival-winter.json) |
 | Frost Survivors: Text Game | 318197 | [318197-frost-survivors-text-game.json](./318197-frost-survivors-text-game.json) |
 | Frost Vale | 389056 | [389056-frost-vale.json](./389056-frost-vale.json) |
 | Frost Wars: The Rise of Fatty Sparkles | 64440 | [64440-frost-wars-the-rise-of-fatty-sparkles.json](./64440-frost-wars-the-rise-of-fatty-sparkles.json) |
