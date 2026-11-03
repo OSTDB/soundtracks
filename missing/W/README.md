@@ -2425,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watson | 276150 | [276150-watson.json](./276150-watson.json) |
 | Watson's Watch | 33477 | [33477-watsons-watch.json](./33477-watsons-watch.json) |
 | Watsonville | 401076 | [401076-watsonville.json](./401076-watsonville.json) |
+| Watt's the Limit? | 390333 | [390333-watts-the-limit.json](./390333-watts-the-limit.json) |
 | Wattam | 28818 | [28818-wattam.json](./28818-wattam.json) |
 | WattGames | 298138 | [298138-wattgames.json](./298138-wattgames.json) |
 | Wattson the Bulb | 385349 | [385349-wattson-the-bulb.json](./385349-wattson-the-bulb.json) |
@@ -3614,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Remains | 260665 | [260665-what-remains.json](./260665-what-remains.json) |
 | What Remains | 318969 | [318969-what-remains.json](./318969-what-remains.json) |
 | What Remains of Us | 256288 | [256288-what-remains-of-us.json](./256288-what-remains-of-us.json) |
+| What Surrounds Us | 390367 | [390367-what-surrounds-us.json](./390367-what-surrounds-us.json) |
 | What the Bat?: Batty Goes to Battywood | 306932 | [306932-what-the-bat-batty-goes-to-battywood.json](./306932-what-the-bat-batty-goes-to-battywood.json) |
 | What the Block | 65327 | [65327-what-the-block.json](./65327-what-the-block.json) |
 | What the Box? | 23943 | [23943-what-the-box.json](./23943-what-the-box.json) |
@@ -4214,6 +4216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskers in the Dark | 309131 | [309131-whiskers-in-the-dark.json](./309131-whiskers-in-the-dark.json) |
 | Whiskers on Time's Corner | 370098 | [370098-whiskers-on-times-corner.json](./370098-whiskers-on-times-corner.json) |
 | Whiskers Reborn | 267348 | [267348-whiskers-reborn.json](./267348-whiskers-reborn.json) |
+| Whiskers Tale | 390371 | [390371-whiskers-tale.json](./390371-whiskers-tale.json) |
 | Whiskers Warehouse | 385068 | [385068-whiskers-warehouse.json](./385068-whiskers-warehouse.json) |
 | Whiskers Wizards & Wands | 373248 | [373248-whiskers-wizards-and-wands.json](./373248-whiskers-wizards-and-wands.json) |
 | Whiskers Wonderland | 306092 | [306092-whiskers-wonderland.json](./306092-whiskers-wonderland.json) |
