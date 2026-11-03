@@ -7444,6 +7444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Dragmoria | 337309 | [337309-the-curse-of-dragmoria.json](./337309-the-curse-of-dragmoria.json) |
 | The Curse of Dwight Periwinkle | 112599 | [112599-the-curse-of-dwight-periwinkle.json](./112599-the-curse-of-dwight-periwinkle.json) |
 | The Curse of Eclipse | 235807 | [235807-the-curse-of-eclipse.json](./235807-the-curse-of-eclipse.json) |
+| The Curse of Eira | 395078 | [395078-the-curse-of-eira.json](./395078-the-curse-of-eira.json) |
 | The Curse of Esrevni | 169868 | [169868-the-curse-of-esrevni.json](./169868-the-curse-of-esrevni.json) |
 | The Curse of Fafnir | 158871 | [158871-the-curse-of-fafnir.json](./158871-the-curse-of-fafnir.json) |
 | The Curse of Feldar Vale | 161558 | [161558-the-curse-of-feldar-vale.json](./161558-the-curse-of-feldar-vale.json) |
@@ -11465,6 +11466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Journey | 267924 | [267924-the-last-journey.json](./267924-the-last-journey.json) |
 | The Last Joy | 384309 | [384309-the-last-joy.json](./384309-the-last-joy.json) |
 | The Last Keeper | 368905 | [368905-the-last-keeper.json](./368905-the-last-keeper.json) |
+| The Last Kich Of Us | 395050 | [395050-the-last-kich-of-us.json](./395050-the-last-kich-of-us.json) |
 | The Last Kids on Earth: Happy Apocalypse to You | 256865 | [256865-the-last-kids-on-earth-happy-apocalypse-to-you.json](./256865-the-last-kids-on-earth-happy-apocalypse-to-you.json) |
 | The Last King | 258200 | [258200-the-last-king.json](./258200-the-last-king.json) |
 | The Last King's Archer | 153371 | [153371-the-last-kings-archer.json](./153371-the-last-kings-archer.json) |
@@ -25510,6 +25512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Island: Explore, Discover and Disassemble | 32413 | [32413-tower-island-explore-discover-and-disassemble.json](./32413-tower-island-explore-discover-and-disassemble.json) |
 | Tower Jump | 101559 | [101559-tower-jump.json](./101559-tower-jump.json) |
 | Tower Keepers | 101736 | [101736-tower-keepers.json](./101736-tower-keepers.json) |
+| Tower King | 394983 | [394983-tower-king.json](./394983-tower-king.json) |
 | Tower Knight | 298628 | [298628-tower-knight.json](./298628-tower-knight.json) |
 | Tower Lord: Sword Loop Saga | 176267 | [176267-tower-lord-sword-loop-saga.json](./176267-tower-lord-sword-loop-saga.json) |
 | Tower Lords | 367004 | [367004-tower-lords.json](./367004-tower-lords.json) |
@@ -28093,6 +28096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transcriptions of Time | 413818 | [413818-transcriptions-of-time.json](./413818-transcriptions-of-time.json) |
 | Transfer | 182769 | [182769-transfer.json](./182769-transfer.json) |
 | Transfer of Essence | 156031 | [156031-transfer-of-essence.json](./156031-transfer-of-essence.json) |
+| Transfer Point | 395064 | [395064-transfer-point.json](./395064-transfer-point.json) |
 | Transference | 37064 | [37064-transference.json](./37064-transference.json) |
 | Transformation Tycoon | 192646 | [192646-transformation-tycoon.json](./192646-transformation-tycoon.json) |
 | Transformer | 40500 | [40500-transformer.json](./40500-transformer.json) |
