@@ -933,7 +933,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5613,6 +5612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee Fighting | 247014 | [247014-bee-fighting.json](./247014-bee-fighting.json) |
 | Bee Flowers | 330941 | [330941-bee-flowers.json](./330941-bee-flowers.json) |
 | Bee Flowers: Royal Garden | 336876 | [336876-bee-flowers-royal-garden.json](./336876-bee-flowers-royal-garden.json) |
+| Bee Flowers: Save the Garden | 349574 | [349574-bee-flowers-save-the-garden.json](./349574-bee-flowers-save-the-garden.json) |
 | Bee Garden: The Lost Queen | 263453 | [263453-bee-garden-the-lost-queen.json](./263453-bee-garden-the-lost-queen.json) |
 | Bee Hero: Bug Blaster | 312139 | [312139-bee-hero-bug-blaster.json](./312139-bee-hero-bug-blaster.json) |
 | Bee Holder | 184505 | [184505-bee-holder.json](./184505-bee-holder.json) |
@@ -10106,6 +10106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Paradise | 303362 | [303362-block-paradise.json](./303362-block-paradise.json) |
 | Block Parkour Craft 3D | 104548 | [104548-block-parkour-craft-3d.json](./104548-block-parkour-craft-3d.json) |
 | Block Party | 259985 | [259985-block-party.json](./259985-block-party.json) |
+| Block Party DX! | 349575 | [349575-block-party-dx.json](./349575-block-party-dx.json) |
 | Block Pile | 360562 | [360562-block-pile.json](./360562-block-pile.json) |
 | Block Pong-Pong | 288322 | [288322-block-pong-pong.json](./288322-block-pong-pong.json) |
 | Block Pooper 9 | 112466 | [112466-block-pooper-9.json](./112466-block-pooper-9.json) |
@@ -11694,6 +11695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodycam Recorded | 377079 | [377079-bodycam-recorded.json](./377079-bodycam-recorded.json) |
 | Bodycam Shooter | 317436 | [317436-bodycam-shooter.json](./317436-bodycam-shooter.json) |
 | Bodycam Shooter 2025 | 330807 | [330807-bodycam-shooter-2025.json](./330807-bodycam-shooter-2025.json) |
+| Bodycam Stray Kitty | 349576 | [349576-bodycam-stray-kitty.json](./349576-bodycam-stray-kitty.json) |
 | Bodycam Unrecord Shooter | 323681 | [323681-bodycam-unrecord-shooter.json](./323681-bodycam-unrecord-shooter.json) |
 | BodyCam Zombie Waves | 343495 | [343495-bodycam-zombie-waves.json](./343495-bodycam-zombie-waves.json) |
 | Bodycamera FPS | 400174 | [400174-bodycamera-fps.json](./400174-bodycamera-fps.json) |
@@ -15906,6 +15908,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Town 2 | 66429 | [66429-bubble-town-2.json](./66429-bubble-town-2.json) |
 | Bubble Troops | 236531 | [236531-bubble-troops.json](./236531-bubble-troops.json) |
 | Bubble Trouble | 83918 | [83918-bubble-trouble.json](./83918-bubble-trouble.json) |
+| Bubble Trouble 2: Rebubbled | 349600 | [349600-bubble-trouble-2-rebubbled.json](./349600-bubble-trouble-2-rebubbled.json) |
+| Bubble Trouble 3 | 349601 | [349601-bubble-trouble-3.json](./349601-bubble-trouble-3.json) |
 | Bubble Trouble: Adventures | 343726 | [343726-bubble-trouble-adventures.json](./343726-bubble-trouble-adventures.json) |
 | Bubble Trubble | 42829 | [42829-bubble-trubble.json](./42829-bubble-trubble.json) |
 | Bubble Truck | 235228 | [235228-bubble-truck.json](./235228-bubble-truck.json) |
