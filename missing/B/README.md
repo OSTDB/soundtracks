@@ -17495,6 +17495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly Escape | 73587 | [73587-butterfly-escape.json](./73587-butterfly-escape.json) |
 | Butterfly Garden | 69285 | [69285-butterfly-garden.json](./69285-butterfly-garden.json) |
 | Butterfly Killer | 128305 | [128305-butterfly-killer.json](./128305-butterfly-killer.json) |
+| Butterfly Loop Night | 358571 | [358571-butterfly-loop-night.json](./358571-butterfly-loop-night.json) |
 | Butterfly Moment | 63719 | [63719-butterfly-moment.json](./63719-butterfly-moment.json) |
 | Butterfly Simulator | 293114 | [293114-butterfly-simulator.json](./293114-butterfly-simulator.json) |
 | Butterfly Sky | 233519 | [233519-butterfly-sky.json](./233519-butterfly-sky.json) |
