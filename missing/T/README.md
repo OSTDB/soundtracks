@@ -1523,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking to My Dad | 229016 | [229016-talking-to-my-dad.json](./229016-talking-to-my-dad.json) |
 | Talking Tom & Ben News | 214781 | [214781-talking-tom-and-ben-news.json](./214781-talking-tom-and-ben-news.json) |
 | Talking Tom 3 in Olympics | 315363 | [315363-talking-tom-3-in-olympics.json](./315363-talking-tom-3-in-olympics.json) |
+| Talking Tom Blast Park | 355980 | [355980-talking-tom-blast-park.json](./355980-talking-tom-blast-park.json) |
 | Talking Tom Bubble Shooter | 91225 | [91225-talking-tom-bubble-shooter.json](./91225-talking-tom-bubble-shooter.json) |
 | Talking Tom Cake Jump | 105698 | [105698-talking-tom-cake-jump.json](./105698-talking-tom-cake-jump.json) |
 | Talking Tom Camp | 91217 | [91217-talking-tom-camp.json](./91217-talking-tom-camp.json) |
@@ -1667,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamed Faces Jigsaw Puzzle - Domesticated Animals | 89027 | [89027-tamed-faces-jigsaw-puzzle-domesticated-animals.json](./89027-tamed-faces-jigsaw-puzzle-domesticated-animals.json) |
 | Tamed: Chapter 1 | 186497 | [186497-tamed-chapter-1.json](./186497-tamed-chapter-1.json) |
 | Tamer Saga | 56489 | [56489-tamer-saga.json](./56489-tamer-saga.json) |
+| Tamer Town | 355839 | [355839-tamer-town.json](./355839-tamer-town.json) |
 | Tamer Vale | 253840 | [253840-tamer-vale.json](./253840-tamer-vale.json) |
 | Tamerlane | 233633 | [233633-tamerlane.json](./233633-tamerlane.json) |
 | Tameshi | 197497 | [197497-tameshi.json](./197497-tameshi.json) |
@@ -4905,6 +4907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Hold'em | 137058 | [137058-texas-holdem.json](./137058-texas-holdem.json) |
 | Texas Hold'Em | 246381 | [246381-texas-holdem.json](./246381-texas-holdem.json) |
 | Texas Hold'em Poker DS | 208344 | [208344-texas-holdem-poker-ds.json](./208344-texas-holdem-poker-ds.json) |
+| Texas Hold'em Poker: Pokerist+ | 355985 | [355985-texas-holdem-poker-pokerist.json](./355985-texas-holdem-poker-pokerist.json) |
 | Texas Hold'em: Daily Poke it! | 87154 | [87154-texas-holdem-daily-poke-it.json](./87154-texas-holdem-daily-poke-it.json) |
 | Texas Hold'em: High Stakes Poker | 73540 | [73540-texas-holdem-high-stakes-poker.json](./73540-texas-holdem-high-stakes-poker.json) |
 | Texas Moon HD | 103572 | [103572-texas-moon-hd.json](./103572-texas-moon-hd.json) |
