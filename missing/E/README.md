@@ -5585,6 +5585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essence of Waluigi | 250044 | [250044-essence-of-waluigi.json](./250044-essence-of-waluigi.json) |
 | Essence of Waluigi II: Eternal Awakening | 307404 | [307404-essence-of-waluigi-ii-eternal-awakening.json](./307404-essence-of-waluigi-ii-eternal-awakening.json) |
 | Essence//Structure | 269151 | [269151-essence-structure.json](./269151-essence-structure.json) |
+| Essentia: A Monster Catching Adventure | 389333 | [389333-essentia-a-monster-catching-adventure.json](./389333-essentia-a-monster-catching-adventure.json) |
 | Essential Mayhem | 159739 | [159739-essential-mayhem.json](./159739-essential-mayhem.json) |
 | Essential Power | 369038 | [369038-essential-power.json](./369038-essential-power.json) |
 | Essentures | 115455 | [115455-essentures.json](./115455-essentures.json) |
