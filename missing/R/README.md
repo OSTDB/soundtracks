@@ -10422,6 +10422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rook | 129441 | [129441-rook.json](./129441-rook.json) |
 | Rook | 359282 | [359282-rook.json](./359282-rook.json) |
 | Rookfall | 174617 | [174617-rookfall.json](./174617-rookfall.json) |
+| Rookie | 359161 | [359161-rookie.json](./359161-rookie.json) |
 | Rookie Bowman | 165758 | [165758-rookie-bowman.json](./165758-rookie-bowman.json) |
 | Rookie Boxing | 319776 | [319776-rookie-boxing.json](./319776-rookie-boxing.json) |
 | Rookie Guard and the Queen | 280259 | [280259-rookie-guard-and-the-queen.json](./280259-rookie-guard-and-the-queen.json) |
@@ -12088,6 +12089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runic - Legacy of Sin | 21964 | [21964-runic-legacy-of-sin.json](./21964-runic-legacy-of-sin.json) |
 | Runic Curse | 207851 | [207851-runic-curse.json](./207851-runic-curse.json) |
 | Runic Defenders: Trials of Ascension | 246800 | [246800-runic-defenders-trials-of-ascension.json](./246800-runic-defenders-trials-of-ascension.json) |
+| Runic Prophecy | 359170 | [359170-runic-prophecy.json](./359170-runic-prophecy.json) |
 | Runic Rampage | 28997 | [28997-runic-rampage.json](./28997-runic-rampage.json) |
 | Runic Relay: The Trials | 159121 | [159121-runic-relay-the-trials.json](./159121-runic-relay-the-trials.json) |
 | Runic Rogues | 413052 | [413052-runic-rogues.json](./413052-runic-rogues.json) |
