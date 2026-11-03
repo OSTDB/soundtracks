@@ -7183,6 +7183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rigby Saw Game | 384923 | [384923-rigby-saw-game.json](./384923-rigby-saw-game.json) |
 | Rigel's Revenge | 55084 | [55084-rigels-revenge.json](./55084-rigels-revenge.json) |
 | Rigged Hammer | 247030 | [247030-rigged-hammer.json](./247030-rigged-hammer.json) |
+| Right & Left Column Battle | 372026 | [372026-right-and-left-column-battle.json](./372026-right-and-left-column-battle.json) |
 | Right and Down | 207494 | [207494-right-and-down.json](./207494-right-and-down.json) |
 | Right and Down and Dice | 238600 | [238600-right-and-down-and-dice.json](./238600-right-and-down-and-dice.json) |
 | Right and Down Double Bundle | 294855 | [294855-right-and-down-double-bundle.json](./294855-right-and-down-double-bundle.json) |
@@ -8174,6 +8175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Trip: Family Fun | 105704 | [105704-road-trip-family-fun.json](./105704-road-trip-family-fun.json) |
 | Road Trip: Shifting Gears | 49251 | [49251-road-trip-shifting-gears.json](./49251-road-trip-shifting-gears.json) |
 | Road Tripper | 150776 | [150776-road-tripper.json](./150776-road-tripper.json) |
+| Road Turbo | 371830 | [371830-road-turbo.json](./371830-road-turbo.json) |
 | Road Warrior | 223974 | [223974-road-warrior.json](./223974-road-warrior.json) |
 | Road Warrior | 364536 | [364536-road-warrior.json](./364536-road-warrior.json) |
 | Road Warriors | 111303 | [111303-road-warriors.json](./111303-road-warriors.json) |
@@ -12070,6 +12072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runner | 84538 | [84538-runner.json](./84538-runner.json) |
 | Runner Bear | 307074 | [307074-runner-bear.json](./307074-runner-bear.json) |
 | Runner Coaster | 220055 | [220055-runner-coaster.json](./220055-runner-coaster.json) |
+| Runner Frog | 372177 | [372177-runner-frog.json](./372177-runner-frog.json) |
 | Runner Fruit Jumping | 265511 | [265511-runner-fruit-jumping.json](./265511-runner-fruit-jumping.json) |
 | Runner Heroes: The Curse of Night and Day | 127001 | [127001-runner-heroes-the-curse-of-night-and-day.json](./127001-runner-heroes-the-curse-of-night-and-day.json) |
 | Runner Party | 193306 | [193306-runner-party.json](./193306-runner-party.json) |
