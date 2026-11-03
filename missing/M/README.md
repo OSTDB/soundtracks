@@ -2266,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maji de Watashi ni Koishinasai! A-3 | 112293 | [112293-maji-de-watashi-ni-koishinasai-a-3.json](./112293-maji-de-watashi-ni-koishinasai-a-3.json) |
 | Maji de Watashi ni Koishinasai! A-4 | 112294 | [112294-maji-de-watashi-ni-koishinasai-a-4.json](./112294-maji-de-watashi-ni-koishinasai-a-4.json) |
 | Maji de Watashi ni Koishinasai! A-5 | 112297 | [112297-maji-de-watashi-ni-koishinasai-a-5.json](./112297-maji-de-watashi-ni-koishinasai-a-5.json) |
+| Maji de Watashi ni Koishinasai! A: Ryouken Route After | 358594 | [358594-maji-de-watashi-ni-koishinasai-a-ryouken-route-after.json](./358594-maji-de-watashi-ni-koishinasai-a-ryouken-route-after.json) |
 | Maji Kyun! Renaissance | 131913 | [131913-maji-kyun-renaissance.json](./131913-maji-kyun-renaissance.json) |
 | MaJiang | 160250 | [160250-majiang.json](./160250-majiang.json) |
 | Majid, Smash'Em! | 176842 | [176842-majid-smashem.json](./176842-majid-smashem.json) |
@@ -6973,6 +6974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man | 195570 | [195570-mega-man.json](./195570-mega-man.json) |
 | Mega Man | 236703 | [236703-mega-man.json](./236703-mega-man.json) |
 | Mega Man | 281415 | [281415-mega-man.json](./281415-mega-man.json) |
+| Mega Man & Bass: Player Switching | 358600 | [358600-mega-man-and-bass-player-switching.json](./358600-mega-man-and-bass-player-switching.json) |
 | Mega Man & Mega Man X 5in1 Special Box | 124033 | [124033-mega-man-and-mega-man-x-5in1-special-box.json](./124033-mega-man-and-mega-man-x-5in1-special-box.json) |
 | Mega Man 10 | 1723 | [1723-mega-man-10.json](./1723-mega-man-10.json) |
 | Mega Man 10: Bass Mode | 255821 | [255821-mega-man-10-bass-mode.json](./255821-mega-man-10-bass-mode.json) |
@@ -9270,6 +9272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Rage | 137019 | [137019-metal-rage.json](./137019-metal-rage.json) |
 | Metal Rage: Defender of the Earth | 64966 | [64966-metal-rage-defender-of-the-earth.json](./64966-metal-rage-defender-of-the-earth.json) |
 | Metal Rampage Uprising | 278541 | [278541-metal-rampage-uprising.json](./278541-metal-rampage-uprising.json) |
+| Metal Ranger | 358567 | [358567-metal-ranger.json](./358567-metal-ranger.json) |
 | Metal Reaper Online | 35446 | [35446-metal-reaper-online.json](./35446-metal-reaper-online.json) |
 | Metal Revolution | 114398 | [114398-metal-revolution.json](./114398-metal-revolution.json) |
 | Metal Saga | 20521 | [20521-metal-saga.json](./20521-metal-saga.json) |
@@ -19885,6 +19888,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My New Classmate is a Dragon?! | 261120 | [261120-my-new-classmate-is-a-dragon.json](./261120-my-new-classmate-is-a-dragon.json) |
 | My New Memories: The Beginning | 311191 | [311191-my-new-memories-the-beginning.json](./311191-my-new-memories-the-beginning.json) |
 | My new neighbor is a Futa | 266608 | [266608-my-new-neighbor-is-a-futa.json](./266608-my-new-neighbor-is-a-futa.json) |
+| My New Room | 358591 | [358591-my-new-room.json](./358591-my-new-room.json) |
+| My New Room 2 | 358593 | [358593-my-new-room-2.json](./358593-my-new-room-2.json) |
+| My New Room 3 | 358596 | [358596-my-new-room-3.json](./358596-my-new-room-3.json) |
+| My New Room Christmas Edition | 358597 | [358597-my-new-room-christmas-edition.json](./358597-my-new-room-christmas-edition.json) |
 | My New Tenant | 408305 | [408305-my-new-tenant.json](./408305-my-new-tenant.json) |
 | My Newborn Puppy | 109165 | [109165-my-newborn-puppy.json](./109165-my-newborn-puppy.json) |
 | My Newborn Santa: Grow A Christmas Baby | 256348 | [256348-my-newborn-santa-grow-a-christmas-baby.json](./256348-my-newborn-santa-grow-a-christmas-baby.json) |
@@ -20985,6 +20992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth of Future Dimension | 277739 | [277739-myth-of-future-dimension.json](./277739-myth-of-future-dimension.json) |
 | Myth of Mirka | 209670 | [209670-myth-of-mirka.json](./209670-myth-of-mirka.json) |
 | Myth of Mist: Legacy | 167766 | [167766-myth-of-mist-legacy.json](./167766-myth-of-mist-legacy.json) |
+| Myth of Slayer | 358599 | [358599-myth-of-slayer.json](./358599-myth-of-slayer.json) |
 | Myth of Valderit | 386842 | [386842-myth-of-valderit.json](./386842-myth-of-valderit.json) |
 | Myth of Yggdrasil | 383741 | [383741-myth-of-yggdrasil.json](./383741-myth-of-yggdrasil.json) |
 | Myth or Reality: Mystery of the Lake - Collector's Edition | 265794 | [265794-myth-or-reality-mystery-of-the-lake-collectors-edition.json](./265794-myth-or-reality-mystery-of-the-lake-collectors-edition.json) |
