@@ -3889,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Tag Rendezvous | 180769 | [180769-red-tag-rendezvous.json](./180769-red-tag-rendezvous.json) |
 | Red Tanks vs Lizard | 418250 | [418250-red-tanks-vs-lizard.json](./418250-red-tanks-vs-lizard.json) |
 | Red Tape | 226968 | [226968-red-tape.json](./226968-red-tape.json) |
+| Red Tape Rampage | 391458 | [391458-red-tape-rampage.json](./391458-red-tape-rampage.json) |
 | Red Tentacle | 53496 | [53496-red-tentacle.json](./53496-red-tentacle.json) |
 | Red Terror | 256208 | [256208-red-terror.json](./256208-red-terror.json) |
 | Red the Cook | 390770 | [390770-red-the-cook.json](./390770-red-the-cook.json) |
@@ -4586,6 +4587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relentless | 46736 | [46736-relentless.json](./46736-relentless.json) |
 | Relentless Expanse | 322762 | [322762-relentless-expanse.json](./322762-relentless-expanse.json) |
 | Relentless Frontier | 164196 | [164196-relentless-frontier.json](./164196-relentless-frontier.json) |
+| Relentless Logic | 391471 | [391471-relentless-logic.json](./391471-relentless-logic.json) |
 | Relentless Rex | 110277 | [110277-relentless-rex.json](./110277-relentless-rex.json) |
 | Relentless: Ranger | 150397 | [150397-relentless-ranger.json](./150397-relentless-ranger.json) |
 | Releveler | 151830 | [151830-releveler.json](./151830-releveler.json) |
@@ -4937,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rental Commander | 292955 | [292955-rental-commander.json](./292955-rental-commander.json) |
 | Rental House | 313336 | [313336-rental-house.json](./313336-rental-house.json) |
 | Rental-ya: Stage-gata Nazotoki Story | 212445 | [212445-rental-ya-stage-gata-nazotoki-story.json](./212445-rental-ya-stage-gata-nazotoki-story.json) |
+| Rentcthulhu | 391453 | [391453-rentcthulhu.json](./391453-rentcthulhu.json) |
 | Rented Nightmare | 313039 | [313039-rented-nightmare.json](./313039-rented-nightmare.json) |
 | Renters Revenge | 75177 | [75177-renters-revenge.json](./75177-renters-revenge.json) |
 | Rento Fortune Monolit | 105624 | [105624-rento-fortune-monolit.json](./105624-rento-fortune-monolit.json) |
@@ -5523,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rest In Peace | 30057 | [30057-rest-in-peace.json](./30057-rest-in-peace.json) |
 | Rest in Pieces | 115315 | [115315-rest-in-pieces.json](./115315-rest-in-pieces.json) |
 | Rest to Landia | 292279 | [292279-rest-to-landia.json](./292279-rest-to-landia.json) |
+| Rest: In a Dark Room | 391447 | [391447-rest-in-a-dark-room.json](./391447-rest-in-a-dark-room.json) |
 | Resta um | 230716 | [230716-resta-um.json](./230716-resta-um.json) |
 | Restart | 240774 | [240774-restart.json](./240774-restart.json) |
 | Restart Heart | 341858 | [341858-restart-heart.json](./341858-restart-heart.json) |
