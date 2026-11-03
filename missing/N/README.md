@@ -4455,6 +4455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Temptation Academy | 144117 | [144117-nightmare-temptation-academy.json](./144117-nightmare-temptation-academy.json) |
 | Nightmare traveler | 178819 | [178819-nightmare-traveler.json](./178819-nightmare-traveler.json) |
 | Nightmare Trip | 309020 | [309020-nightmare-trip.json](./309020-nightmare-trip.json) |
+| Nightmare Visions Chapter 1 | 367663 | [367663-nightmare-visions-chapter-1.json](./367663-nightmare-visions-chapter-1.json) |
 | Nightmare Vortex | 263323 | [263323-nightmare-vortex.json](./263323-nightmare-vortex.json) |
 | Nightmare Within | 311615 | [311615-nightmare-within.json](./311615-nightmare-within.json) |
 | Nightmare Without Return | 216792 | [216792-nightmare-without-return.json](./216792-nightmare-without-return.json) |
@@ -7415,6 +7416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyasha | 280076 | [280076-nyasha.json](./280076-nyasha.json) |
 | Nyasha Beach | 115950 | [115950-nyasha-beach.json](./115950-nyasha-beach.json) |
 | Nyasha Land of Elves | 116945 | [116945-nyasha-land-of-elves.json](./116945-nyasha-land-of-elves.json) |
+| Nyasha Valkyrie | 367668 | [367668-nyasha-valkyrie.json](./367668-nyasha-valkyrie.json) |
 | Nyasha Winter | 115952 | [115952-nyasha-winter.json](./115952-nyasha-winter.json) |
 | Nyassembled! | 332979 | [332979-nyassembled.json](./332979-nyassembled.json) |
 | Nyaz | 311556 | [311556-nyaz.json](./311556-nyaz.json) |
