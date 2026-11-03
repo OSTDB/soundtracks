@@ -5028,6 +5028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Aero Chord - "Boundless" | 358199 | [358199-beat-saber-aero-chord-boundless.json](./358199-beat-saber-aero-chord-boundless.json) |
 | Beat Saber: Alan Walker - "Wake Up" | 357566 | [357566-beat-saber-alan-walker-wake-up.json](./357566-beat-saber-alan-walker-wake-up.json) |
 | Beat Saber: Billie Eilish Music Pack | 363178 | [363178-beat-saber-billie-eilish-music-pack.json](./363178-beat-saber-billie-eilish-music-pack.json) |
+| Beat Saber: Bossfight - "Endgame" | 357565 | [357565-beat-saber-bossfight-endgame.json](./357565-beat-saber-bossfight-endgame.json) |
 | Beat Saber: Britney Spears - "…Baby One More Time" | 357222 | [357222-beat-saber-britney-spears-baby-one-more-time.json](./357222-beat-saber-britney-spears-baby-one-more-time.json) |
 | Beat Saber: Britney Spears - "Circus" | 357582 | [357582-beat-saber-britney-spears-circus.json](./357582-beat-saber-britney-spears-circus.json) |
 | Beat Saber: Britney Spears - "Gimme More" | 357581 | [357581-beat-saber-britney-spears-gimme-more.json](./357581-beat-saber-britney-spears-gimme-more.json) |
@@ -5065,6 +5066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Dyro x Conro - "Memory Bank" | 357567 | [357567-beat-saber-dyro-x-conro-memory-bank.json](./357567-beat-saber-dyro-x-conro-memory-bank.json) |
 | Beat Saber: Electronic Mixtape Music Pack | 357354 | [357354-beat-saber-electronic-mixtape-music-pack.json](./357354-beat-saber-electronic-mixtape-music-pack.json) |
 | Beat Saber: Eminem - "Houdini" | 357583 | [357583-beat-saber-eminem-houdini.json](./357583-beat-saber-eminem-houdini.json) |
+| Beat Saber: Excision & Dion Timmer - "Dabadabadabadaba" | 357563 | [357563-beat-saber-excision-and-dion-timmer-dabadabadabadaba.json](./357563-beat-saber-excision-and-dion-timmer-dabadabadabadaba.json) |
 | Beat Saber: F.O.O.L & Power Glove - "Mercenary" | 357574 | [357574-beat-saber-f-o-o-l-and-power-glove-mercenary.json](./357574-beat-saber-f-o-o-l-and-power-glove-mercenary.json) |
 | Beat Saber: Fall Out Boy Music Pack | 363180 | [363180-beat-saber-fall-out-boy-music-pack.json](./363180-beat-saber-fall-out-boy-music-pack.json) |
 | Beat Saber: Foo Fighters - "The Pretender" | 357231 | [357231-beat-saber-foo-fighters-the-pretender.json](./357231-beat-saber-foo-fighters-the-pretender.json) |
@@ -5111,10 +5113,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Linkin Park Music Pack | 363198 | [363198-beat-saber-linkin-park-music-pack.json](./363198-beat-saber-linkin-park-music-pack.json) |
 | Beat Saber: Linkin Park x Mike Shinoda Music Pack | 363196 | [363196-beat-saber-linkin-park-x-mike-shinoda-music-pack.json](./363196-beat-saber-linkin-park-x-mike-shinoda-music-pack.json) |
 | Beat Saber: Lizzo Music Pack | 363193 | [363193-beat-saber-lizzo-music-pack.json](./363193-beat-saber-lizzo-music-pack.json) |
+| Beat Saber: Metallica - "Atlas, Rise!" | 357559 | [357559-beat-saber-metallica-atlas-rise.json](./357559-beat-saber-metallica-atlas-rise.json) |
+| Beat Saber: Metallica - "Blackened" | 357550 | [357550-beat-saber-metallica-blackened.json](./357550-beat-saber-metallica-blackened.json) |
+| Beat Saber: Metallica - "Creeping Death" | 357549 | [357549-beat-saber-metallica-creeping-death.json](./357549-beat-saber-metallica-creeping-death.json) |
+| Beat Saber: Metallica - "Enter Sandman" | 357556 | [357556-beat-saber-metallica-enter-sandman.json](./357556-beat-saber-metallica-enter-sandman.json) |
+| Beat Saber: Metallica - "For Whom the Bell Tolls" | 357553 | [357553-beat-saber-metallica-for-whom-the-bell-tolls.json](./357553-beat-saber-metallica-for-whom-the-bell-tolls.json) |
+| Beat Saber: Metallica - "Fuel" | 357560 | [357560-beat-saber-metallica-fuel.json](./357560-beat-saber-metallica-fuel.json) |
+| Beat Saber: Metallica - "Hit the Lights" | 357548 | [357548-beat-saber-metallica-hit-the-lights.json](./357548-beat-saber-metallica-hit-the-lights.json) |
+| Beat Saber: Metallica - "King Nothing" | 357558 | [357558-beat-saber-metallica-king-nothing.json](./357558-beat-saber-metallica-king-nothing.json) |
+| Beat Saber: Metallica - "Lux Æterna" | 357557 | [357557-beat-saber-metallica-lux-terna.json](./357557-beat-saber-metallica-lux-terna.json) |
+| Beat Saber: Metallica - "Master of Puppets" | 357552 | [357552-beat-saber-metallica-master-of-puppets.json](./357552-beat-saber-metallica-master-of-puppets.json) |
+| Beat Saber: Metallica - "Nothing Else Matters" | 357547 | [357547-beat-saber-metallica-nothing-else-matters.json](./357547-beat-saber-metallica-nothing-else-matters.json) |
+| Beat Saber: Metallica - "One" | 357551 | [357551-beat-saber-metallica-one.json](./357551-beat-saber-metallica-one.json) |
+| Beat Saber: Metallica - "Sad but True" | 357555 | [357555-beat-saber-metallica-sad-but-true.json](./357555-beat-saber-metallica-sad-but-true.json) |
+| Beat Saber: Metallica - "Seek & Destroy" | 357554 | [357554-beat-saber-metallica-seek-and-destroy.json](./357554-beat-saber-metallica-seek-and-destroy.json) |
+| Beat Saber: Metallica - "The Unforgiven" | 357561 | [357561-beat-saber-metallica-the-unforgiven.json](./357561-beat-saber-metallica-the-unforgiven.json) |
 | Beat Saber: Mike Shinoda - "Already Over" | 357607 | [357607-beat-saber-mike-shinoda-already-over.json](./357607-beat-saber-mike-shinoda-already-over.json) |
 | Beat Saber: Mike Shinoda & Kaliee Morgue - "In My Head" | 357604 | [357604-beat-saber-mike-shinoda-and-kaliee-morgue-in-my-head.json](./357604-beat-saber-mike-shinoda-and-kaliee-morgue-in-my-head.json) |
 | Beat Saber: Monstercat Music Pack Vol. 1 | 251057 | [251057-beat-saber-monstercat-music-pack-vol-1.json](./251057-beat-saber-monstercat-music-pack-vol-1.json) |
 | Beat Saber: Nash Overstreet, Karra & Common Strangers - "What I Like" | 358177 | [358177-beat-saber-nash-overstreet-karra-and-common-strangers-what-i-like.json](./358177-beat-saber-nash-overstreet-karra-and-common-strangers-what-i-like.json) |
+| Beat Saber: Nitro Fun - "Final Boss" | 357564 | [357564-beat-saber-nitro-fun-final-boss.json](./357564-beat-saber-nitro-fun-final-boss.json) |
 | Beat Saber: Öwnboss & Selva - "Riot" | 357573 | [357573-beat-saber-ownboss-and-selva-riot.json](./357573-beat-saber-ownboss-and-selva-riot.json) |
 | Beat Saber: Panic! at the Disco - "Emperor's New Clothes" | 358175 | [358175-beat-saber-panic-at-the-disco-emperors-new-clothes.json](./358175-beat-saber-panic-at-the-disco-emperors-new-clothes.json) |
 | Beat Saber: Panic! at the Disco - "High Hopes" | 358197 | [358197-beat-saber-panic-at-the-disco-high-hopes.json](./358197-beat-saber-panic-at-the-disco-high-hopes.json) |
@@ -5585,6 +5603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee | 78084 | [78084-bee.json](./78084-bee.json) |
 | Bee & Flower | 41691 | [41691-bee-and-flower.json](./41691-bee-and-flower.json) |
 | Bee 52 | 48106 | [48106-bee-52.json](./48106-bee-52.json) |
+| Bee Careful! | 357674 | [357674-bee-careful.json](./357674-bee-careful.json) |
 | Bee Eliminator | 247066 | [247066-bee-eliminator.json](./247066-bee-eliminator.json) |
 | Bee Farming | 175281 | [175281-bee-farming.json](./175281-bee-farming.json) |
 | Bee Fighting | 247014 | [247014-bee-fighting.json](./247014-bee-fighting.json) |
@@ -13206,6 +13225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Original | 344928 | [344928-bounce-original.json](./344928-bounce-original.json) |
 | Bounce Out | 92676 | [92676-bounce-out.json](./92676-bounce-out.json) |
 | Bounce Out Blitz | 206468 | [206468-bounce-out-blitz.json](./206468-bounce-out-blitz.json) |
+| Bounce Quest | 357694 | [357694-bounce-quest.json](./357694-bounce-quest.json) |
 | Bounce Rescue! | 82327 | [82327-bounce-rescue.json](./82327-bounce-rescue.json) |
 | Bounce Restart | 177203 | [177203-bounce-restart.json](./177203-bounce-restart.json) |
 | Bounce Shot | 262460 | [262460-bounce-shot.json](./262460-bounce-shot.json) |
@@ -13259,6 +13279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing DVD : The Game | 114565 | [114565-bouncing-dvd-the-game.json](./114565-bouncing-dvd-the-game.json) |
 | Bouncing Hero | 121193 | [121193-bouncing-hero.json](./121193-bouncing-hero.json) |
 | Bouncing Kamungas! | 24658 | [24658-bouncing-kamungas.json](./24658-bouncing-kamungas.json) |
+| Bouncing Missile | 357681 | [357681-bouncing-missile.json](./357681-bouncing-missile.json) |
 | Bouncing Music | 236744 | [236744-bouncing-music.json](./236744-bouncing-music.json) |
 | Bouncing Odyssey | 81034 | [81034-bouncing-odyssey.json](./81034-bouncing-odyssey.json) |
 | Bouncing Over It with friends | 106406 | [106406-bouncing-over-it-with-friends.json](./106406-bouncing-over-it-with-friends.json) |
