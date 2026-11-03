@@ -2087,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saucer Arena | 348957 | [348957-saucer-arena.json](./348957-saucer-arena.json) |
 | Saucer Attack! | 59645 | [59645-saucer-attack.json](./59645-saucer-attack.json) |
 | Saucer Destruction 3: Armagedon | 337204 | [337204-saucer-destruction-3-armagedon.json](./337204-saucer-destruction-3-armagedon.json) |
+| Saucer Wars | 381162 | [381162-saucer-wars.json](./381162-saucer-wars.json) |
 | Saucers | 245744 | [245744-saucers.json](./245744-saucers.json) |
 | Saucy Boy Adventures | 210095 | [210095-saucy-boy-adventures.json](./210095-saucy-boy-adventures.json) |
 | Saucy Devil Gordon | 310660 | [310660-saucy-devil-gordon.json](./310660-saucy-devil-gordon.json) |
@@ -3332,6 +3333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scramble All Fighters | 249888 | [249888-scramble-all-fighters.json](./249888-scramble-all-fighters.json) |
 | Scramble Cobra | 4315 | [4315-scramble-cobra.json](./4315-scramble-cobra.json) |
 | Scramble Heart City | 319148 | [319148-scramble-heart-city.json](./319148-scramble-heart-city.json) |
+| Scramble Knights Online | 380980 | [380980-scramble-knights-online.json](./380980-scramble-knights-online.json) |
 | Scramble Mania | 401447 | [401447-scramble-mania.json](./401447-scramble-mania.json) |
 | Scramble of the Far East | 364555 | [364555-scramble-of-the-far-east.json](./364555-scramble-of-the-far-east.json) |
 | Scramble Spirits | 12847 | [12847-scramble-spirits.json](./12847-scramble-spirits.json) |
@@ -9780,6 +9782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signets of Power | 61982 | [61982-signets-of-power.json](./61982-signets-of-power.json) |
 | Significant | 384208 | [384208-significant.json](./384208-significant.json) |
 | Signs of Birth | 199754 | [199754-signs-of-birth.json](./199754-signs-of-birth.json) |
+| Signs of Danger | 380964 | [380964-signs-of-danger.json](./380964-signs-of-danger.json) |
 | Signs of Darkness | 76531 | [76531-signs-of-darkness.json](./76531-signs-of-darkness.json) |
 | Signs Of Life | 366579 | [366579-signs-of-life.json](./366579-signs-of-life.json) |
 | Signs of the Sojourner | 118603 | [118603-signs-of-the-sojourner.json](./118603-signs-of-the-sojourner.json) |
@@ -18017,6 +18020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Pole Bebop | 298875 | [298875-south-pole-bebop.json](./298875-south-pole-bebop.json) |
 | South Scrimshaw, Part One | 183581 | [183581-south-scrimshaw-part-one.json](./183581-south-scrimshaw-part-one.json) |
 | South Scrimshaw, Part Two | 285550 | [285550-south-scrimshaw-part-two.json](./285550-south-scrimshaw-part-two.json) |
+| South Star River | 381286 | [381286-south-star-river.json](./381286-south-star-river.json) |
 | South Surfers Park | 96716 | [96716-south-surfers-park.json](./96716-south-surfers-park.json) |
 | Southbound | 391602 | [391602-southbound.json](./391602-southbound.json) |
 | Southern Belle | 10744 | [10744-southern-belle.json](./10744-southern-belle.json) |
@@ -25673,6 +25677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stomp and the Sword of Miracles | 356053 | [356053-stomp-and-the-sword-of-miracles.json](./356053-stomp-and-the-sword-of-miracles.json) |
 | Stomper | 182990 | [182990-stomper.json](./182990-stomper.json) |
 | Stomper | 313867 | [313867-stomper.json](./313867-stomper.json) |
+| Stompgame | 380977 | [380977-stompgame.json](./380977-stompgame.json) |
 | Stomping Grounds | 275711 | [275711-stomping-grounds.json](./275711-stomping-grounds.json) |
 | Stompy's Big Adventure | 409515 | [409515-stompys-big-adventure.json](./409515-stompys-big-adventure.json) |
 | StompyBoy | 329382 | [329382-stompyboy.json](./329382-stompyboy.json) |
@@ -27534,6 +27539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine | 274867 | [274867-submarine.json](./274867-submarine.json) |
 | Submarine | 346083 | [346083-submarine.json](./346083-submarine.json) |
 | Submarine | 68458 | [68458-submarine.json](./68458-submarine.json) |
+| Submarine / Racing | 381160 | [381160-submarine-racing.json](./381160-submarine-racing.json) |
 | Submarine Adventure | 133233 | [133233-submarine-adventure.json](./133233-submarine-adventure.json) |
 | Submarine Attack | 413048 | [413048-submarine-attack.json](./413048-submarine-attack.json) |
 | Submarine Attack | 46120 | [46120-submarine-attack.json](./46120-submarine-attack.json) |
@@ -29289,6 +29295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dashmatch | 95586 | [95586-super-dashmatch.json](./95586-super-dashmatch.json) |
 | Super Dashy Knight | 128849 | [128849-super-dashy-knight.json](./128849-super-dashy-knight.json) |
 | Super Dassalo Land | 313971 | [313971-super-dassalo-land.json](./313971-super-dassalo-land.json) |
+| Super Davy Fresh | 380954 | [380954-super-davy-fresh.json](./380954-super-davy-fresh.json) |
 | Super Dead Heat | 398116 | [398116-super-dead-heat.json](./398116-super-dead-heat.json) |
 | Super Dead Mall | 142637 | [142637-super-dead-mall.json](./142637-super-dead-mall.json) |
 | Super Dead Rising 3 Arcade Remix | 21879 | [21879-super-dead-rising-3-arcade-remix.json](./21879-super-dead-rising-3-arcade-remix.json) |
@@ -29541,6 +29548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
 | Super Golf World | 256751 | [256751-super-golf-world.json](./256751-super-golf-world.json) |
 | Super Goo Goo | 35563 | [35563-super-goo-goo.json](./35563-super-goo-goo.json) |
+| Super Goomba Math | 380984 | [380984-super-goomba-math.json](./380984-super-goomba-math.json) |
 | Super Goribei | 86336 | [86336-super-goribei.json](./86336-super-goribei.json) |
 | Super Gorilla Quest | 264235 | [264235-super-gorilla-quest.json](./264235-super-gorilla-quest.json) |
 | Super Gorilla Quest 2: A Space Chimpanzee | 347230 | [347230-super-gorilla-quest-2-a-space-chimpanzee.json](./347230-super-gorilla-quest-2-a-space-chimpanzee.json) |
