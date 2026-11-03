@@ -2382,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Paws | 386898 | [386898-parkour-paws.json](./386898-parkour-paws.json) |
 | Parkour Polygon | 107502 | [107502-parkour-polygon.json](./107502-parkour-polygon.json) |
 | Parkour Posse | 154049 | [154049-parkour-posse.json](./154049-parkour-posse.json) |
+| Parkour Rewrite | 350749 | [350749-parkour-rewrite.json](./350749-parkour-rewrite.json) |
 | Parkour Simulator | 377589 | [377589-parkour-simulator.json](./377589-parkour-simulator.json) |
 | Parkour Simulator | 89265 | [89265-parkour-simulator.json](./89265-parkour-simulator.json) |
 | Parkour Simulator 2026 | 386784 | [386784-parkour-simulator-2026.json](./386784-parkour-simulator-2026.json) |
@@ -4120,6 +4121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Per Aspera: Deluxe Edition | 154545 | [154545-per-aspera-deluxe-edition.json](./154545-per-aspera-deluxe-edition.json) |
 | Per Aspera: Green Mars | 196114 | [196114-per-aspera-green-mars.json](./196114-per-aspera-green-mars.json) |
 | Per Aspera: Home | 232963 | [232963-per-aspera-home.json](./232963-per-aspera-home.json) |
+| Pera Coda | 350877 | [350877-pera-coda.json](./350877-pera-coda.json) |
 | Peraglees: The Ooloufian Resistance | 249245 | [249245-peraglees-the-ooloufian-resistance.json](./249245-peraglees-the-ooloufian-resistance.json) |
 | Perash | 358442 | [358442-perash.json](./358442-perash.json) |
 | Perceptio | 195167 | [195167-perceptio.json](./195167-perceptio.json) |
