@@ -3500,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania Chronicles | 19468 | [19468-castlevania-chronicles.json](./19468-castlevania-chronicles.json) |
 | Castlevania Chronicles II: Simon's Quest | 233564 | [233564-castlevania-chronicles-ii-simons-quest.json](./233564-castlevania-chronicles-ii-simons-quest.json) |
 | Castlevania Dominus Collection | 314944 | [314944-castlevania-dominus-collection.json](./314944-castlevania-dominus-collection.json) |
+| Castlevania II SNES Port | 377727 | [377727-castlevania-ii-snes-port.json](./377727-castlevania-ii-snes-port.json) |
 | Castlevania II: Belmont's Revenge | 1123 | [1123-castlevania-ii-belmonts-revenge.json](./1123-castlevania-ii-belmonts-revenge.json) |
 | Castlevania II: Simon's Quest | 1116 | [1116-castlevania-ii-simons-quest.json](./1116-castlevania-ii-simons-quest.json) |
 | Castlevania II: Simon's Quest | 198661 | [198661-castlevania-ii-simons-quest.json](./198661-castlevania-ii-simons-quest.json) |
@@ -17582,6 +17583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptoforce | 247500 | [247500-cryptoforce.json](./247500-cryptoforce.json) |
 | Cryptogram | 355105 | [355105-cryptogram.json](./355105-cryptogram.json) |
 | Cryptogram | 413000 | [413000-cryptogram.json](./413000-cryptogram.json) |
+| Cryptogram Nature Facts | 377537 | [377537-cryptogram-nature-facts.json](./377537-cryptogram-nature-facts.json) |
 | Cryptograms | 116955 | [116955-cryptograms.json](./116955-cryptograms.json) |
 | Cryptographer | 120052 | [120052-cryptographer.json](./120052-cryptographer.json) |
 | CryptoGrid | 411789 | [411789-cryptogrid.json](./411789-cryptogrid.json) |
