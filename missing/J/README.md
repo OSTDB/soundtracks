@@ -2594,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Josou Gal Bitch Gakuen | 59047 | [59047-josou-gal-bitch-gakuen.json](./59047-josou-gal-bitch-gakuen.json) |
 | Josou Gal Bitch Gakuen: Half Musume Judy no Yuuwaku | 59049 | [59049-josou-gal-bitch-gakuen-half-musume-judy-no-yuuwaku.json](./59049-josou-gal-bitch-gakuen-half-musume-judy-no-yuuwaku.json) |
 | JosPlays' Escape: GameJam April 2024 | 303597 | [303597-josplays-escape-gamejam-april-2024.json](./303597-josplays-escape-gamejam-april-2024.json) |
+| Jostle Bastard | 395616 | [395616-jostle-bastard.json](./395616-jostle-bastard.json) |
 | Joth Fading | 372726 | [372726-joth-fading.json](./372726-joth-fading.json) |
 | Jottobots | 64245 | [64245-jottobots.json](./64245-jottobots.json) |
 | Jotun: Valhalla Edition | 14147 | [14147-jotun-valhalla-edition.json](./14147-jotun-valhalla-edition.json) |
@@ -3086,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Hero: Beginning | 166802 | [166802-jump-hero-beginning.json](./166802-jump-hero-beginning.json) |
 | Jump Heroes | 290726 | [290726-jump-heroes.json](./290726-jump-heroes.json) |
 | Jump If You Can! | 193227 | [193227-jump-if-you-can.json](./193227-jump-if-you-can.json) |
+| Jump into the New Year | 395645 | [395645-jump-into-the-new-year.json](./395645-jump-into-the-new-year.json) |
 | Jump into the Plane | 174703 | [174703-jump-into-the-plane.json](./174703-jump-into-the-plane.json) |
 | Jump Jack | 85863 | [85863-jump-jack.json](./85863-jump-jack.json) |
 | Jump Jam! | 89022 | [89022-jump-jam.json](./89022-jump-jam.json) |
