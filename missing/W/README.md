@@ -2803,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Thieves HD | 343368 | [343368-we-thieves-hd.json](./343368-we-thieves-hd.json) |
 | We Three Gifts | 325887 | [325887-we-three-gifts.json](./325887-we-three-gifts.json) |
 | We Took That Trip | 203678 | [203678-we-took-that-trip.json](./203678-we-took-that-trip.json) |
+| We Used to Play Here | 382120 | [382120-we-used-to-play-here.json](./382120-we-used-to-play-here.json) |
 | We Walked In Darkness | 81734 | [81734-we-walked-in-darkness.json](./81734-we-walked-in-darkness.json) |
 | We Want You | 242646 | [242646-we-want-you.json](./242646-we-want-you.json) |
 | We Want Your Head | 383154 | [383154-we-want-your-head.json](./383154-we-want-your-head.json) |
@@ -4076,6 +4077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Winds Meet: Live to Game | 384243 | [384243-where-winds-meet-live-to-game.json](./384243-where-winds-meet-live-to-game.json) |
 | Where Winds Meet: Spring's Bliss | 388906 | [388906-where-winds-meet-springs-bliss.json](./388906-where-winds-meet-springs-bliss.json) |
 | Where Winds Meet: The Imperial Palace | 381243 | [381243-where-winds-meet-the-imperial-palace.json](./381243-where-winds-meet-the-imperial-palace.json) |
+| Where Winds Meet: Timeless Bonds | 382127 | [382127-where-winds-meet-timeless-bonds.json](./382127-where-winds-meet-timeless-bonds.json) |
 | Where's Ami Do | 362741 | [362741-wheres-ami-do.json](./362741-wheres-ami-do.json) |
 | Where's an Egg? | 135870 | [135870-wheres-an-egg.json](./135870-wheres-an-egg.json) |
 | Where's Baby | 107932 | [107932-wheres-baby.json](./107932-wheres-baby.json) |
