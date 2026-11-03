@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haikyuu!! Cross Team Match! | 136910 | [136910-haikyuu-cross-team-match.json](./136910-haikyuu-cross-team-match.json) |
 | Haikyuu!! Donpisha Match!! | 196599 | [196599-haikyuu-donpisha-match.json](./196599-haikyuu-donpisha-match.json) |
 | Hail Britannia | 340408 | [340408-hail-britannia.json](./340408-hail-britannia.json) |
+| Hail the Devourer | 392600 | [392600-hail-the-devourer.json](./392600-hail-the-devourer.json) |
 | Hail to the Chimp | 7005 | [7005-hail-to-the-chimp.json](./7005-hail-to-the-chimp.json) |
 | Hail to the King | 114265 | [114265-hail-to-the-king.json](./114265-hail-to-the-king.json) |
 | Hail to the King: Deathbat | 17921 | [17921-hail-to-the-king-deathbat.json](./17921-hail-to-the-king-deathbat.json) |
@@ -10351,6 +10352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Nightmares B-Movie Edition | 35388 | [35388-house-of-nightmares-b-movie-edition.json](./35388-house-of-nightmares-b-movie-edition.json) |
 | House of Nowhere | 385861 | [385861-house-of-nowhere.json](./385861-house-of-nowhere.json) |
 | House of Pain | 211980 | [211980-house-of-pain.json](./211980-house-of-pain.json) |
+| House of Petals | 392687 | [392687-house-of-petals.json](./392687-house-of-petals.json) |
 | House of Pips: a Domino Roguelike | 422186 | [422186-house-of-pips-a-domino-roguelike.json](./422186-house-of-pips-a-domino-roguelike.json) |
 | House of Plague 0 | 107907 | [107907-house-of-plague-0.json](./107907-house-of-plague-0.json) |
 | House of Portals VR | 154384 | [154384-house-of-portals-vr.json](./154384-house-of-portals-vr.json) |
