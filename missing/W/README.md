@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Factory | 153155 | [153155-war-factory.json](./153155-war-factory.json) |
 | War Fantasy | 404616 | [404616-war-fantasy.json](./404616-war-fantasy.json) |
 | War Field | 105682 | [105682-war-field.json](./105682-war-field.json) |
+| War for Bryndor | 391948 | [391948-war-for-bryndor.json](./391948-war-for-bryndor.json) |
 | War For Galaxy | 250897 | [250897-war-for-galaxy.json](./250897-war-for-galaxy.json) |
 | War for Magincia | 129711 | [129711-war-for-magincia.json](./129711-war-for-magincia.json) |
 | War for the Overworld | 1878 | [1878-war-for-the-overworld.json](./1878-war-for-the-overworld.json) |
@@ -2322,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Level / B.l.u.e. Exploration | 320938 | [320938-water-level-b-l-u-e-exploration.json](./320938-water-level-b-l-u-e-exploration.json) |
 | Water Mage: Act I | 307414 | [307414-water-mage-act-i.json](./307414-water-mage-act-i.json) |
 | Water Maid | 333038 | [333038-water-maid.json](./333038-water-maid.json) |
+| Water Margin Scrolls | 391949 | [391949-water-margin-scrolls.json](./391949-water-margin-scrolls.json) |
 | Water Margin: The Tales of Clouds and Winds | 120062 | [120062-water-margin-the-tales-of-clouds-and-winds.json](./120062-water-margin-the-tales-of-clouds-and-winds.json) |
 | Water Match | 40525 | [40525-water-match.json](./40525-water-match.json) |
 | Water Me & You | 260169 | [260169-water-me-and-you.json](./260169-water-me-and-you.json) |
