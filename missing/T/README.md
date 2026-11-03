@@ -3707,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Temple | 33563 | [33563-temporal-temple.json](./33563-temporal-temple.json) |
 | Temporal Titans | 309865 | [309865-temporal-titans.json](./309865-temporal-titans.json) |
 | Temporal War | 257793 | [257793-temporal-war.json](./257793-temporal-war.json) |
+| Temporalysis | 360330 | [360330-temporalysis.json](./360330-temporalysis.json) |
 | Temporarily | 280255 | [280255-temporarily.json](./280255-temporarily.json) |
 | Temporary Girl | 160206 | [160206-temporary-girl.json](./160206-temporary-girl.json) |
 | Temporian | 228969 | [228969-temporian.json](./228969-temporian.json) |
@@ -4075,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentador Leches | 179500 | [179500-tentador-leches.json](./179500-tentador-leches.json) |
 | Tentaizu | 245747 | [245747-tentaizu.json](./245747-tentaizu.json) |
 | Tentama | 392870 | [392870-tentama.json](./392870-tentama.json) |
+| Tentaphage | 360328 | [360328-tentaphage.json](./360328-tentaphage.json) |
 | Tenth Degree | 340980 | [340980-tenth-degree.json](./340980-tenth-degree.json) |
 | Tentis | 56894 | [56894-tentis.json](./56894-tentis.json) |
 | Tentlan | 103434 | [103434-tentlan.json](./103434-tentlan.json) |
@@ -4288,6 +4290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Mystica | 37036 | [37036-terra-mystica.json](./37036-terra-mystica.json) |
 | Terra Nil Prototype | 123998 | [123998-terra-nil-prototype.json](./123998-terra-nil-prototype.json) |
 | Terra Nil: Deluxe Edition | 243138 | [243138-terra-nil-deluxe-edition.json](./243138-terra-nil-deluxe-edition.json) |
+| Terra Nil: Heatwave | 360290 | [360290-terra-nil-heatwave.json](./360290-terra-nil-heatwave.json) |
 | Terra Nova Pinball | 289034 | [289034-terra-nova-pinball.json](./289034-terra-nova-pinball.json) |
 | Terra Nova: Strategy of Survival | 130533 | [130533-terra-nova-strategy-of-survival.json](./130533-terra-nova-strategy-of-survival.json) |
 | Terra Nova: Strike Force Centauri | 70 | [70-terra-nova-strike-force-centauri.json](./70-terra-nova-strike-force-centauri.json) |
