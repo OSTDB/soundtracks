@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Snails 4 | 360653 | [360653-i-commissioned-some-snails-4.json](./360653-i-commissioned-some-snails-4.json) |
 | I Commissioned Some Unicorns | 257692 | [257692-i-commissioned-some-unicorns.json](./257692-i-commissioned-some-unicorns.json) |
 | I Contemplated the Sun of Limbo | 143549 | [143549-i-contemplated-the-sun-of-limbo.json](./143549-i-contemplated-the-sun-of-limbo.json) |
+| I Crossed Over Into the World of Magic | 371502 | [371502-i-crossed-over-into-the-world-of-magic.json](./371502-i-crossed-over-into-the-world-of-magic.json) |
 | I Deserve a Happy Ending | 167355 | [167355-i-deserve-a-happy-ending.json](./167355-i-deserve-a-happy-ending.json) |
 | I Did a Bad Thing | 229370 | [229370-i-did-a-bad-thing.json](./229370-i-did-a-bad-thing.json) |
 | I Did It All For The Cookie! | 311209 | [311209-i-did-it-all-for-the-cookie.json](./311209-i-did-it-all-for-the-cookie.json) |
@@ -2790,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Line of My Heart | 189973 | [189973-in-the-line-of-my-heart.json](./189973-in-the-line-of-my-heart.json) |
 | In the Long Run: The Game | 104525 | [104525-in-the-long-run-the-game.json](./104525-in-the-long-run-the-game.json) |
 | In the Loop | 364678 | [364678-in-the-loop.json](./364678-in-the-loop.json) |
+| In The Middle Of | 371500 | [371500-in-the-middle-of.json](./371500-in-the-middle-of.json) |
 | In the Middle of Ages | 383334 | [383334-in-the-middle-of-ages.json](./383334-in-the-middle-of-ages.json) |
 | In the Midnight Light | 200350 | [200350-in-the-midnight-light.json](./200350-in-the-midnight-light.json) |
 | In the Midst of a Neverending Season | 369052 | [369052-in-the-midst-of-a-neverending-season.json](./369052-in-the-midst-of-a-neverending-season.json) |
@@ -3635,7 +3637,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
