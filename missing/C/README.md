@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadalion Online | 9872 | [9872-cadalion-online.json](./9872-cadalion-online.json) |
 | Cadash | 6652 | [6652-cadash.json](./6652-cadash.json) |
 | Cadaver | 11983 | [11983-cadaver.json](./11983-cadaver.json) |
+| Cadaver | 377316 | [377316-cadaver.json](./377316-cadaver.json) |
 | Cadaver: The Payoff | 37130 | [37130-cadaver-the-payoff.json](./37130-cadaver-the-payoff.json) |
 | Cadavers for Dinner | 174126 | [174126-cadavers-for-dinner.json](./174126-cadavers-for-dinner.json) |
 | Cadbury Creme Egg: Goo the Egg | 307347 | [307347-cadbury-creme-egg-goo-the-egg.json](./307347-cadbury-creme-egg-goo-the-egg.json) |
@@ -4087,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatCat Save The World | 284794 | [284794-catcat-save-the-world.json](./284794-catcat-save-the-world.json) |
 | CatCatch | 107759 | [107759-catcatch.json](./107759-catcatch.json) |
 | CatCatMan | 334224 | [334224-catcatman.json](./334224-catcatman.json) |
+| Catch | 377015 | [377015-catch.json](./377015-catch.json) |
 | Catch 'Em | 80503 | [80503-catch-em.json](./80503-catch-em.json) |
 | Catch 'Em! Goldfish Scooping | 106973 | [106973-catch-em-goldfish-scooping.json](./106973-catch-em-goldfish-scooping.json) |
 | Catch & Cook | 244231 | [244231-catch-and-cook.json](./244231-catch-and-cook.json) |
@@ -9471,6 +9473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Cut | 275315 | [275315-clean-cut.json](./275315-clean-cut.json) |
 | Clean Energy Creatures | 223513 | [223513-clean-energy-creatures.json](./223513-clean-energy-creatures.json) |
 | Clean Freak! Perfect Cook! | 365166 | [365166-clean-freak-perfect-cook.json](./365166-clean-freak-perfect-cook.json) |
+| Clean It Dry It | 377023 | [377023-clean-it-dry-it.json](./377023-clean-it-dry-it.json) |
 | Clean it Up! | 335150 | [335150-clean-it-up.json](./335150-clean-it-up.json) |
 | Clean My Carpet: ASMR Washing | 228451 | [228451-clean-my-carpet-asmr-washing.json](./228451-clean-my-carpet-asmr-washing.json) |
 | Clean Paper | 239598 | [239598-clean-paper.json](./239598-clean-paper.json) |
@@ -17403,6 +17406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crushcrop | 424628 | [424628-crushcrop.json](./424628-crushcrop.json) |
 | CrushCrushCrushCrush | 391218 | [391218-crushcrushcrushcrush.json](./391218-crushcrushcrushcrush.json) |
 | Crushed | 141171 | [141171-crushed.json](./141171-crushed.json) |
+| Crushed | 377307 | [377307-crushed.json](./377307-crushed.json) |
 | Crushed Baseball | 49306 | [49306-crushed-baseball.json](./49306-crushed-baseball.json) |
 | Crushed in Time | 362089 | [362089-crushed-in-time.json](./362089-crushed-in-time.json) |
 | Crusher Makochan | 40109 | [40109-crusher-makochan.json](./40109-crusher-makochan.json) |
