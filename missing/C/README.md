@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty 4: Survival Mode | 299136 | [299136-call-of-duty-4-survival-mode.json](./299136-call-of-duty-4-survival-mode.json) |
 | Call of Duty Classic | 43029 | [43029-call-of-duty-classic.json](./43029-call-of-duty-classic.json) |
 | Call of Duty Endowment (C.O.D.E.) Knight Recon: Tracer Pack | 310052 | [310052-call-of-duty-endowment-c-o-d-e-knight-recon-tracer-pack.json](./310052-call-of-duty-endowment-c-o-d-e-knight-recon-tracer-pack.json) |
+| Call of Duty Frontlines | 372401 | [372401-call-of-duty-frontlines.json](./372401-call-of-duty-frontlines.json) |
 | Call of Duty Ghosts: Festive Pack | 305608 | [305608-call-of-duty-ghosts-festive-pack.json](./305608-call-of-duty-ghosts-festive-pack.json) |
 | Call of Duty Tactics | 276488 | [276488-call-of-duty-tactics.json](./276488-call-of-duty-tactics.json) |
 | Call of Duty: Advanced Warfare - Ascendance | 20890 | [20890-call-of-duty-advanced-warfare-ascendance.json](./20890-call-of-duty-advanced-warfare-ascendance.json) |
@@ -4321,6 +4322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatRunner 2022 | 299902 | [299902-catrunner-2022.json](./299902-catrunner-2022.json) |
 | Cats | 301856 | [301856-cats.json](./301856-cats.json) |
 | Cats 'n Blocks | 332280 | [332280-cats-n-blocks.json](./332280-cats-n-blocks.json) |
+| Cats & Cakes: The Card Game | 372703 | [372703-cats-and-cakes-the-card-game.json](./372703-cats-and-cakes-the-card-game.json) |
 | Cats & Carnations | 398806 | [398806-cats-and-carnations.json](./398806-cats-and-carnations.json) |
 | Cats & Castles | 260182 | [260182-cats-and-castles.json](./260182-cats-and-castles.json) |
 | Cats & Cups | 360002 | [360002-cats-and-cups.json](./360002-cats-and-cups.json) |
@@ -7899,6 +7901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Albian: The Magic Convention | 232567 | [232567-chronicles-of-albian-the-magic-convention.json](./232567-chronicles-of-albian-the-magic-convention.json) |
 | Chronicles of Arcadia | 123541 | [123541-chronicles-of-arcadia.json](./123541-chronicles-of-arcadia.json) |
 | Chronicles of Ash | 169608 | [169608-chronicles-of-ash.json](./169608-chronicles-of-ash.json) |
+| Chronicles of Childhood | 372411 | [372411-chronicles-of-childhood.json](./372411-chronicles-of-childhood.json) |
 | Chronicles Of Crystal: Turn-Basde Epoch | 297367 | [297367-chronicles-of-crystal-turn-basde-epoch.json](./297367-chronicles-of-crystal-turn-basde-epoch.json) |
 | Chronicles of cyberpunk | 75931 | [75931-chronicles-of-cyberpunk.json](./75931-chronicles-of-cyberpunk.json) |
 | Chronicles of Cyberpunk: Deep Sleep | 155499 | [155499-chronicles-of-cyberpunk-deep-sleep.json](./155499-chronicles-of-cyberpunk-deep-sleep.json) |
@@ -18006,6 +18009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Dodger 3D | 384821 | [384821-cube-dodger-3d.json](./384821-cube-dodger-3d.json) |
 | Cube Droid Holiday Special | 360110 | [360110-cube-droid-holiday-special.json](./360110-cube-droid-holiday-special.json) |
 | Cube Droid Saves the Galaxy | 327774 | [327774-cube-droid-saves-the-galaxy.json](./327774-cube-droid-saves-the-galaxy.json) |
+| Cube Dungeon | 372415 | [372415-cube-dungeon.json](./372415-cube-dungeon.json) |
 | Cube Escape | 253984 | [253984-cube-escape.json](./253984-cube-escape.json) |
 | Cube Escape Collection | 133416 | [133416-cube-escape-collection.json](./133416-cube-escape-collection.json) |
 | Cube Escape: Arles | 75125 | [75125-cube-escape-arles.json](./75125-cube-escape-arles.json) |
