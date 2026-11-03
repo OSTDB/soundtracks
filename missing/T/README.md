@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeyariman | 222300 | [222300-takeyariman.json](./222300-takeyariman.json) |
 | Takin' it to the Hoop | 44338 | [44338-takin-it-to-the-hoop.json](./44338-takin-it-to-the-hoop.json) |
 | Taking Care of Business | 69740 | [69740-taking-care-of-business.json](./69740-taking-care-of-business.json) |
+| Taking My Dark Knight Girlfriend to the Corner Store | 365941 | [365941-taking-my-dark-knight-girlfriend-to-the-corner-store.json](./365941-taking-my-dark-knight-girlfriend-to-the-corner-store.json) |
 | Taking Over Her Heart | 327901 | [327901-taking-over-her-heart.json](./327901-taking-over-her-heart.json) |
 | Taking Root | 263045 | [263045-taking-root.json](./263045-taking-root.json) |
 | Taking Root: Academic Version | 270089 | [270089-taking-root-academic-version.json](./270089-taking-root-academic-version.json) |
@@ -4448,6 +4449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror | 112116 | [112116-terror.json](./112116-terror.json) |
 | Terror at Oakheart | 258945 | [258945-terror-at-oakheart.json](./258945-terror-at-oakheart.json) |
 | Terror Brain: Night Out | 211258 | [211258-terror-brain-night-out.json](./211258-terror-brain-night-out.json) |
+| Terror Call | 365935 | [365935-terror-call.json](./365935-terror-call.json) |
 | Terror Diversion | 318013 | [318013-terror-diversion.json](./318013-terror-diversion.json) |
 | Terror for Two | 110167 | [110167-terror-for-two.json](./110167-terror-for-two.json) |
 | Terror House | 62798 | [62798-terror-house.json](./62798-terror-house.json) |
@@ -12754,6 +12756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Sky | 102928 | [102928-the-lost-sky.json](./102928-the-lost-sky.json) |
 | The Lost Skywhales | 182976 | [182976-the-lost-skywhales.json](./182976-the-lost-skywhales.json) |
 | The Lost Son | 261886 | [261886-the-lost-son.json](./261886-the-lost-son.json) |
+| The Lost Song | 365931 | [365931-the-lost-song.json](./365931-the-lost-song.json) |
 | The Lost Souls | 33236 | [33236-the-lost-souls.json](./33236-the-lost-souls.json) |
 | The Lost Streamer | 413791 | [413791-the-lost-streamer.json](./413791-the-lost-streamer.json) |
 | The Lost Strings | 121449 | [121449-the-lost-strings.json](./121449-the-lost-strings.json) |
@@ -13200,6 +13203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mini Crossword | 311756 | [311756-the-mini-crossword.json](./311756-the-mini-crossword.json) |
 | The Mini-Skirt Police | 72595 | [72595-the-mini-skirt-police.json](./72595-the-mini-skirt-police.json) |
 | The Minimum Project | 397504 | [397504-the-minimum-project.json](./397504-the-minimum-project.json) |
+| The Minister | 365934 | [365934-the-minister.json](./365934-the-minister.json) |
 | The Ministry for Anomaly Observation | 405582 | [405582-the-ministry-for-anomaly-observation.json](./405582-the-ministry-for-anomaly-observation.json) |
 | The Ministry of Silly Walks | 8556 | [8556-the-ministry-of-silly-walks.json](./8556-the-ministry-of-silly-walks.json) |
 | The Minotaur | 34159 | [34159-the-minotaur.json](./34159-the-minotaur.json) |
@@ -15571,6 +15575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shape of Time | 165730 | [165730-the-shape-of-time.json](./165730-the-shape-of-time.json) |
 | The Shape of Us | 279601 | [279601-the-shape-of-us.json](./279601-the-shape-of-us.json) |
 | The Shape on the Ground | 152383 | [152383-the-shape-on-the-ground.json](./152383-the-shape-on-the-ground.json) |
+| The Shape That Waits | 365961 | [365961-the-shape-that-waits.json](./365961-the-shape-that-waits.json) |
 | The Shape You Make When You Want Your Bones to Be Closest to the Surface | 123625 | [123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json](./123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json) |
 | The Shapeshifter | 259640 | [259640-the-shapeshifter.json](./259640-the-shapeshifter.json) |
 | The Shapeshifter 2 | 259644 | [259644-the-shapeshifter-2.json](./259644-the-shapeshifter-2.json) |
@@ -18709,6 +18714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Came an Echo | 14415 | [14415-there-came-an-echo.json](./14415-there-came-an-echo.json) |
 | There Can Be Only One | 181893 | [181893-there-can-be-only-one.json](./181893-there-can-be-only-one.json) |
 | There Can Only be Two | 235711 | [235711-there-can-only-be-two.json](./235711-there-can-only-be-two.json) |
+| There Exists | 365927 | [365927-there-exists.json](./365927-there-exists.json) |
 | There Exists Nobody | 322970 | [322970-there-exists-nobody.json](./322970-there-exists-nobody.json) |
 | There Is A Bomb | 210830 | [210830-there-is-a-bomb.json](./210830-there-is-a-bomb.json) |
 | There Is A Genie In My Szechuan Sauce | 75317 | [75317-there-is-a-genie-in-my-szechuan-sauce.json](./75317-there-is-a-genie-in-my-szechuan-sauce.json) |
