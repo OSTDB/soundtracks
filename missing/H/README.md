@@ -5042,6 +5042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Solitaire: Special Edition | 317911 | [317911-hentai-solitaire-special-edition.json](./317911-hentai-solitaire-special-edition.json) |
 | Hentai Solitaire: Themes Pack | 310476 | [310476-hentai-solitaire-themes-pack.json](./310476-hentai-solitaire-themes-pack.json) |
 | Hentai Solitaire: Ultimate Edition | 313785 | [313785-hentai-solitaire-ultimate-edition.json](./313785-hentai-solitaire-ultimate-edition.json) |
+| Hentai Sora | 393227 | [393227-hentai-sora.json](./393227-hentai-sora.json) |
 | Hentai SpaceSuit | 243553 | [243553-hentai-spacesuit.json](./243553-hentai-spacesuit.json) |
 | Hentai Special 4-in-1 | 399644 | [399644-hentai-special-4-in-1.json](./399644-hentai-special-4-in-1.json) |
 | Hentai Sport | 286537 | [286537-hentai-sport.json](./286537-hentai-sport.json) |
@@ -6594,6 +6595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Crosswords | 107056 | [107056-hidden-object-crosswords.json](./107056-hidden-object-crosswords.json) |
 | Hidden Object Fairy Tales | 101345 | [101345-hidden-object-fairy-tales.json](./101345-hidden-object-fairy-tales.json) |
 | Hidden Object Game | 102562 | [102562-hidden-object-game.json](./102562-hidden-object-game.json) |
+| Hidden Object Greed Collection | 393209 | [393209-hidden-object-greed-collection.json](./393209-hidden-object-greed-collection.json) |
 | Hidden Object Hunt | 277446 | [277446-hidden-object-hunt.json](./277446-hidden-object-hunt.json) |
 | Hidden Object Hunt Classic | 172900 | [172900-hidden-object-hunt-classic.json](./172900-hidden-object-hunt-classic.json) |
 | Hidden Object Mania! | 146496 | [146496-hidden-object-mania.json](./146496-hidden-object-mania.json) |
