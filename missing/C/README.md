@@ -7674,6 +7674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Hair Salon | 96837 | [96837-christmas-hair-salon.json](./96837-christmas-hair-salon.json) |
 | Christmas Hentai Party | 418859 | [418859-christmas-hentai-party.json](./418859-christmas-hentai-party.json) |
 | Christmas Hidden Objects | 102729 | [102729-christmas-hidden-objects.json](./102729-christmas-hidden-objects.json) |
+| Christmas Holiday Celebration | 361997 | [361997-christmas-holiday-celebration.json](./361997-christmas-holiday-celebration.json) |
 | Christmas Holidays | 385120 | [385120-christmas-holidays.json](./385120-christmas-holidays.json) |
 | Christmas Horror | 185877 | [185877-christmas-horror.json](./185877-christmas-horror.json) |
 | Christmas Horror Land | 336538 | [336538-christmas-horror-land.json](./336538-christmas-horror-land.json) |
@@ -11392,6 +11393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Lines - Classic Puzzle | 103142 | [103142-color-lines-classic-puzzle.json](./103142-color-lines-classic-puzzle.json) |
 | Color Madness | 367049 | [367049-color-madness.json](./367049-color-madness.json) |
 | Color Match - Balance Ball | 90327 | [90327-color-match-balance-ball.json](./90327-color-match-balance-ball.json) |
+| Color Match Pro | 361998 | [361998-color-match-pro.json](./361998-color-match-pro.json) |
 | Color Matching | 234168 | [234168-color-matching.json](./234168-color-matching.json) |
 | Color Math | 89573 | [89573-color-math.json](./89573-color-math.json) |
 | Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
@@ -13590,6 +13592,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Craze: Starter Pack | 295118 | [295118-cooking-craze-starter-pack.json](./295118-cooking-craze-starter-pack.json) |
 | Cooking Crew | 262954 | [262954-cooking-crew.json](./262954-cooking-crew.json) |
 | Cooking Dash | 16068 | [16068-cooking-dash.json](./16068-cooking-dash.json) |
+| Cooking Dash Deluxe | 361999 | [361999-cooking-dash-deluxe.json](./361999-cooking-dash-deluxe.json) |
+| Cooking Dash: Thrills & Spills Deluxe | 362000 | [362000-cooking-dash-thrills-and-spills-deluxe.json](./362000-cooking-dash-thrills-and-spills-deluxe.json) |
 | Cooking Diary: Welcome to Tasty Hills | 106991 | [106991-cooking-diary-welcome-to-tasty-hills.json](./106991-cooking-diary-welcome-to-tasty-hills.json) |
 | Cooking Dream | 227455 | [227455-cooking-dream.json](./227455-cooking-dream.json) |
 | Cooking Festival | 147632 | [147632-cooking-festival.json](./147632-cooking-festival.json) |
@@ -15996,6 +16000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Road: Trouble Racer | 246251 | [246251-crazy-road-trouble-racer.json](./246251-crazy-road-trouble-racer.json) |
 | Crazy Roads | 399693 | [399693-crazy-roads.json](./399693-crazy-roads.json) |
 | Crazy Robot Ball | 356206 | [356206-crazy-robot-ball.json](./356206-crazy-robot-ball.json) |
+| Crazy Rocket | 362001 | [362001-crazy-rocket.json](./362001-crazy-rocket.json) |
 | Crazy Saloon VR | 30560 | [30560-crazy-saloon-vr.json](./30560-crazy-saloon-vr.json) |
 | Crazy Santa | 368978 | [368978-crazy-santa.json](./368978-crazy-santa.json) |
 | Crazy Sapper 3D: Classic Mode | 170963 | [170963-crazy-sapper-3d-classic-mode.json](./170963-crazy-sapper-3d-classic-mode.json) |
@@ -17439,6 +17444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusades | 274149 | [274149-crusades.json](./274149-crusades.json) |
 | CrusaDoom | 310608 | [310608-crusadoom.json](./310608-crusadoom.json) |
 | Crush | 102296 | [102296-crush.json](./102296-crush.json) |
+| Crush | 362002 | [362002-crush.json](./362002-crush.json) |
 | Crush | 6753 | [6753-crush.json](./6753-crush.json) |
 | Crush & Squash | 75805 | [75805-crush-and-squash.json](./75805-crush-and-squash.json) |
 | Crush at First Sight | 294068 | [294068-crush-at-first-sight.json](./294068-crush-at-first-sight.json) |
@@ -18032,6 +18038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Conflict | 167569 | [167569-cube-conflict.json](./167569-cube-conflict.json) |
 | Cube Control | 251760 | [251760-cube-control.json](./251760-cube-control.json) |
 | Cube Course | 130245 | [130245-cube-course.json](./130245-cube-course.json) |
+| Cube Crash II | 362003 | [362003-cube-crash-ii.json](./362003-cube-crash-ii.json) |
 | Cube Crawler | 193939 | [193939-cube-crawler.json](./193939-cube-crawler.json) |
 | Cube Crawler | 328260 | [328260-cube-crawler.json](./328260-cube-crawler.json) |
 | Cube Creator DX | 56162 | [56162-cube-creator-dx.json](./56162-cube-creator-dx.json) |
