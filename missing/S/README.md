@@ -1651,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānguó Yǎnyì: Huǒshāo Chìbì | 356018 | [356018-sanguo-yanyi-huoshao-chibi.json](./356018-sanguo-yanyi-huoshao-chibi.json) |
 | Sānguó Yōngbīng Chuánqí | 114316 | [114316-sanguo-yongbing-chuanqi.json](./114316-sanguo-yongbing-chuanqi.json) |
 | Sānguó Yóuxiá Zhì | 83569 | [83569-sanguo-youxia-zhi.json](./83569-sanguo-youxia-zhi.json) |
+| Sānguó Zhī Nù | 367133 | [367133-sanguo-zhi-nu.json](./367133-sanguo-zhi-nu.json) |
 | Sānguó Zhì: Qúnxióng Zhēngbà | 350017 | [350017-sanguo-zhi-qunxiong-zhengba.json](./350017-sanguo-zhi-qunxiong-zhengba.json) |
 | Sānguó: 223 | 257678 | [257678-sanguo-223.json](./257678-sanguo-223.json) |
 | Sanguo's Ambition 4: Three Kingdoms | 265802 | [265802-sanguos-ambition-4-three-kingdoms.json](./265802-sanguos-ambition-4-three-kingdoms.json) |
@@ -5945,6 +5946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Game: Naughty Girls - Episode 1 | 371054 | [371054-sex-game-naughty-girls-episode-1.json](./371054-sex-game-naughty-girls-episode-1.json) |
 | Sex Game: Naughty Girls - Episode 2 | 371059 | [371059-sex-game-naughty-girls-episode-2.json](./371059-sex-game-naughty-girls-episode-2.json) |
 | Sex Game: Naughty Girls - Episode 3 | 371057 | [371057-sex-game-naughty-girls-episode-3.json](./371057-sex-game-naughty-girls-episode-3.json) |
+| Sex Game: Naughty Girls - Episode 4 | 367131 | [367131-sex-game-naughty-girls-episode-4.json](./367131-sex-game-naughty-girls-episode-4.json) |
 | Sex Game: Naughty Girls - Episode 5 | 375270 | [375270-sex-game-naughty-girls-episode-5.json](./375270-sex-game-naughty-girls-episode-5.json) |
 | Sex Game: Naughty Girls - Episode 6 | 375271 | [375271-sex-game-naughty-girls-episode-6.json](./375271-sex-game-naughty-girls-episode-6.json) |
 | Sex Game: Naughty Girls - Episode 9 | 382156 | [382156-sex-game-naughty-girls-episode-9.json](./382156-sex-game-naughty-girls-episode-9.json) |
@@ -6159,6 +6161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy New Year | 240041 | [240041-sexy-new-year.json](./240041-sexy-new-year.json) |
 | Sexy Nurse Puzzle | 367288 | [367288-sexy-nurse-puzzle.json](./367288-sexy-nurse-puzzle.json) |
 | Sexy Poker | 21217 | [21217-sexy-poker.json](./21217-sexy-poker.json) |
+| Sexy President | 367124 | [367124-sexy-president.json](./367124-sexy-president.json) |
 | Sexy Pussies | 384875 | [384875-sexy-pussies.json](./384875-sexy-pussies.json) |
 | Sexy Puzzle | 335443 | [335443-sexy-puzzle.json](./335443-sexy-puzzle.json) |
 | Sexy Sharks | 207635 | [207635-sexy-sharks.json](./207635-sexy-sharks.json) |
@@ -12047,6 +12050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Repairs | 108916 | [108916-sky-repairs.json](./108916-sky-repairs.json) |
 | Sky Resort 2 | 375974 | [375974-sky-resort-2.json](./375974-sky-resort-2.json) |
 | Sky Resort 3 | 384600 | [384600-sky-resort-3.json](./384600-sky-resort-3.json) |
+| Sky Resort: Delphi & Jessy | 367130 | [367130-sky-resort-delphi-and-jessy.json](./367130-sky-resort-delphi-and-jessy.json) |
 | Sky Revolver | 342154 | [342154-sky-revolver.json](./342154-sky-revolver.json) |
 | Sky Rhythm | 328909 | [328909-sky-rhythm.json](./328909-sky-rhythm.json) |
 | Sky Road | 76383 | [76383-sky-road.json](./76383-sky-road.json) |
@@ -23130,6 +23134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ruler 2 | 19170 | [19170-star-ruler-2.json](./19170-star-ruler-2.json) |
 | Star Ruler 2: Wake of the Heralds | 19204 | [19204-star-ruler-2-wake-of-the-heralds.json](./19204-star-ruler-2-wake-of-the-heralds.json) |
 | Star Run!: Rainbow Galaxy | 241820 | [241820-star-run-rainbow-galaxy.json](./241820-star-run-rainbow-galaxy.json) |
+| Star Runaway | 367087 | [367087-star-runaway.json](./367087-star-runaway.json) |
 | Star Runner | 174275 | [174275-star-runner.json](./174275-star-runner.json) |
 | Star Rush: Stack & Jump | 329432 | [329432-star-rush-stack-and-jump.json](./329432-star-rush-stack-and-jump.json) |
 | Star Saga: One - Beyond the Boundary | 2894 | [2894-star-saga-one-beyond-the-boundary.json](./2894-star-saga-one-beyond-the-boundary.json) |
@@ -29439,6 +29444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Death Arena | 30126 | [30126-super-death-arena.json](./30126-super-death-arena.json) |
 | Super Death Game Show! VR | 243506 | [243506-super-death-game-show-vr.json](./243506-super-death-game-show-vr.json) |
 | Super Debt | 332370 | [332370-super-debt.json](./332370-super-debt.json) |
+| Super Dee | 367096 | [367096-super-dee.json](./367096-super-dee.json) |
 | Super Deepthroat | 139001 | [139001-super-deepthroat.json](./139001-super-deepthroat.json) |
 | Super Demo World: The Legend Continues | 198224 | [198224-super-demo-world-the-legend-continues.json](./198224-super-demo-world-the-legend-continues.json) |
 | Super Demon Attack | 44376 | [44376-super-demon-attack.json](./44376-super-demon-attack.json) |
