@@ -3376,6 +3376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newo Zero | 410890 | [410890-newo-zero.json](./410890-newo-zero.json) |
 | NewPark Simon XL | 101507 | [101507-newpark-simon-xl.json](./101507-newpark-simon-xl.json) |
 | News Agency Simulator | 127852 | [127852-news-agency-simulator.json](./127852-news-agency-simulator.json) |
+| News Company Simulator | 374867 | [374867-news-company-simulator.json](./374867-news-company-simulator.json) |
 | News Reacts | 197127 | [197127-news-reacts.json](./197127-news-reacts.json) |
 | News Roll | 385361 | [385361-news-roll.json](./385361-news-roll.json) |
 | News Tycoon | 29738 | [29738-news-tycoon.json](./29738-news-tycoon.json) |
@@ -6642,6 +6643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not so Simple Sonic Advance 2 Worlds | 294405 | [294405-not-so-simple-sonic-advance-2-worlds.json](./294405-not-so-simple-sonic-advance-2-worlds.json) |
 | Not Sonic Flash | 330525 | [330525-not-sonic-flash.json](./330525-not-sonic-flash.json) |
 | Not Spooky: But Good Enough For Me | 197117 | [197117-not-spooky-but-good-enough-for-me.json](./197117-not-spooky-but-good-enough-for-me.json) |
+| Not Survivors | 374556 | [374556-not-survivors.json](./374556-not-survivors.json) |
 | Not Tetris 2 | 8727 | [8727-not-tetris-2.json](./8727-not-tetris-2.json) |
 | Not the End | 373816 | [373816-not-the-end.json](./373816-not-the-end.json) |
 | Not the Hero | 241938 | [241938-not-the-hero.json](./241938-not-the-hero.json) |
