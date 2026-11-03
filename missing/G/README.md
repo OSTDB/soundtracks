@@ -4713,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitchspankr | 282076 | [282076-glitchspankr.json](./282076-glitchspankr.json) |
 | Glitchy: Cute Loop | 396475 | [396475-glitchy-cute-loop.json](./396475-glitchy-cute-loop.json) |
 | Glitchy: Not So Sweet | 398793 | [398793-glitchy-not-so-sweet.json](./398793-glitchy-not-so-sweet.json) |
+| Glitter Invitation | 397499 | [397499-glitter-invitation.json](./397499-glitter-invitation.json) |
 | Glitter Justice | 251757 | [251757-glitter-justice.json](./251757-glitter-justice.json) |
 | Glitter Slime Maker | 106370 | [106370-glitter-slime-maker.json](./106370-glitter-slime-maker.json) |
 | Glitter Star Nucleus | 174600 | [174600-glitter-star-nucleus.json](./174600-glitter-star-nucleus.json) |
