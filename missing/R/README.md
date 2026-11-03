@@ -8203,6 +8203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadside | 286079 | [286079-roadside.json](./286079-roadside.json) |
 | Roadside Assistance Simulator | 154268 | [154268-roadside-assistance-simulator.json](./154268-roadside-assistance-simulator.json) |
 | Roadside Assistance Simulator | 36317 | [36317-roadside-assistance-simulator.json](./36317-roadside-assistance-simulator.json) |
+| Roadside Store Simulator | 382741 | [382741-roadside-store-simulator.json](./382741-roadside-store-simulator.json) |
 | Roadster | 78529 | [78529-roadster.json](./78529-roadster.json) |
 | Roadsters '98 | 208859 | [208859-roadsters-98.json](./208859-roadsters-98.json) |
 | Roadtrip | 266233 | [266233-roadtrip.json](./266233-roadtrip.json) |
@@ -9487,6 +9488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Card | 149855 | [149855-rogue-card.json](./149855-rogue-card.json) |
 | Rogue Cards | 267871 | [267871-rogue-cards.json](./267871-rogue-cards.json) |
 | Rogue Carrier | 409641 | [409641-rogue-carrier.json](./409641-rogue-carrier.json) |
+| Rogue Cave | 382939 | [382939-rogue-cave.json](./382939-rogue-cave.json) |
 | Rogue Cell | 373824 | [373824-rogue-cell.json](./373824-rogue-cell.json) |
 | Rogue Citadel | 299379 | [299379-rogue-citadel.json](./299379-rogue-citadel.json) |
 | Rogue City: Casual Top Down Shooter | 266434 | [266434-rogue-city-casual-top-down-shooter.json](./266434-rogue-city-casual-top-down-shooter.json) |
@@ -9716,6 +9718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RogueJack: Roguelike Blackjack | 133370 | [133370-roguejack-roguelike-blackjack.json](./133370-roguejack-roguelike-blackjack.json) |
 | RogueJack21 | 342713 | [342713-roguejack21.json](./342713-roguejack21.json) |
 | RoguekiniZ | 171507 | [171507-roguekiniz.json](./171507-roguekiniz.json) |
+| Rogueknight | 382937 | [382937-rogueknight.json](./382937-rogueknight.json) |
 | Roguelands | 19748 | [19748-roguelands.json](./19748-roguelands.json) |
 | Roguelegends: Dark Realms | 137852 | [137852-roguelegends-dark-realms.json](./137852-roguelegends-dark-realms.json) |
 | Roguelight | 56913 | [56913-roguelight.json](./56913-roguelight.json) |
@@ -11697,6 +11700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run from the Feds! | 316019 | [316019-run-from-the-feds.json](./316019-run-from-the-feds.json) |
 | Run from the Light | 296017 | [296017-run-from-the-light.json](./296017-run-from-the-light.json) |
 | Run Ghost Run | 125057 | [125057-run-ghost-run.json](./125057-run-ghost-run.json) |
+| Run Giraffe Run | 382742 | [382742-run-giraffe-run.json](./382742-run-giraffe-run.json) |
 | Run Girls Run | 193622 | [193622-run-girls-run.json](./193622-run-girls-run.json) |
 | Run Godzilla | 145862 | [145862-run-godzilla.json](./145862-run-godzilla.json) |
 | Run Gor | 270932 | [270932-run-gor.json](./270932-run-gor.json) |
