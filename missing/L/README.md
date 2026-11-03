@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Man Running | 424653 | [424653-last-man-running.json](./424653-last-man-running.json) |
 | Last Man Sitting | 76091 | [76091-last-man-sitting.json](./76091-last-man-sitting.json) |
 | Last Man Standing Coop: A Doom 3 Coop Mod | 301959 | [301959-last-man-standing-coop-a-doom-3-coop-mod.json](./301959-last-man-standing-coop-a-doom-3-coop-mod.json) |
+| Last Meadow Online | 396989 | [396989-last-meadow-online.json](./396989-last-meadow-online.json) |
 | Last Meal | 125999 | [125999-last-meal.json](./125999-last-meal.json) |
 | Last Memories | 236385 | [236385-last-memories.json](./236385-last-memories.json) |
 | Last Memory | 155693 | [155693-last-memory.json](./155693-last-memory.json) |
@@ -3342,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Aventures de Pepito au Mexique | 342556 | [342556-les-aventures-de-pepito-au-mexique.json](./342556-les-aventures-de-pepito-au-mexique.json) |
 | Les aventures de T'choupi a l'ecole | 269653 | [269653-les-aventures-de-tchoupi-a-lecole.json](./269653-les-aventures-de-tchoupi-a-lecole.json) |
 | Les Cartes Poker | 415968 | [415968-les-cartes-poker.json](./415968-les-cartes-poker.json) |
+| Les Chairs Cruelles: Aishiau Touhi no Naka de | 396985 | [396985-les-chairs-cruelles-aishiau-touhi-no-naka-de.json](./396985-les-chairs-cruelles-aishiau-touhi-no-naka-de.json) |
 | Les Chevaliers de l'An Mil | 356870 | [356870-les-chevaliers-de-lan-mil.json](./356870-les-chevaliers-de-lan-mil.json) |
 | Les Dictées de Rayman | 83787 | [83787-les-dictees-de-rayman.json](./83787-les-dictees-de-rayman.json) |
 | Les Fleursword | 54331 | [54331-les-fleursword.json](./54331-les-fleursword.json) |
@@ -6110,6 +6112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends Remastered: Wrath of the Beast | 397292 | [397292-living-legends-remastered-wrath-of-the-beast.json](./397292-living-legends-remastered-wrath-of-the-beast.json) |
 | Living Legends Remastered: Wrath of the Beast - Collector's Edition | 241421 | [241421-living-legends-remastered-wrath-of-the-beast-collectors-edition.json](./241421-living-legends-remastered-wrath-of-the-beast-collectors-edition.json) |
 | Living Legends: Beasts of Bremen | 188004 | [188004-living-legends-beasts-of-bremen.json](./188004-living-legends-beasts-of-bremen.json) |
+| Living Legends: Beasts of Bremen - Collector's Edition | 396979 | [396979-living-legends-beasts-of-bremen-collectors-edition.json](./396979-living-legends-beasts-of-bremen-collectors-edition.json) |
 | Living Legends: Bound by Wishes | 94880 | [94880-living-legends-bound-by-wishes.json](./94880-living-legends-bound-by-wishes.json) |
 | Living Legends: Bound by Wishes - Collector's Edition | 212207 | [212207-living-legends-bound-by-wishes-collectors-edition.json](./212207-living-legends-bound-by-wishes-collectors-edition.json) |
 | Living Legends: Fallen Sky | 295660 | [295660-living-legends-fallen-sky.json](./295660-living-legends-fallen-sky.json) |
@@ -6126,6 +6129,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends: The Blue Chamber Collector's Edition | 216441 | [216441-living-legends-the-blue-chamber-collectors-edition.json](./216441-living-legends-the-blue-chamber-collectors-edition.json) |
 | Living Legends: The Red Trace | 397038 | [397038-living-legends-the-red-trace.json](./397038-living-legends-the-red-trace.json) |
 | Living Legends: The Red Trace - Collector's Edition | 340557 | [340557-living-legends-the-red-trace-collectors-edition.json](./340557-living-legends-the-red-trace-collectors-edition.json) |
+| Living Legends: Uninvited Guests | 396980 | [396980-living-legends-uninvited-guests.json](./396980-living-legends-uninvited-guests.json) |
+| Living Legends: Uninvited Guests - Collector's Edition | 396981 | [396981-living-legends-uninvited-guests-collectors-edition.json](./396981-living-legends-uninvited-guests-collectors-edition.json) |
 | Living Legends: Voice of the Sea | 187963 | [187963-living-legends-voice-of-the-sea.json](./187963-living-legends-voice-of-the-sea.json) |
 | Living Legends: Voice of the Sea - Collector's Edition | 154276 | [154276-living-legends-voice-of-the-sea-collectors-edition.json](./154276-living-legends-voice-of-the-sea-collectors-edition.json) |
 | Living Legends: Wrath of the Beast Collector's Edition | 107860 | [107860-living-legends-wrath-of-the-beast-collectors-edition.json](./107860-living-legends-wrath-of-the-beast-collectors-edition.json) |
