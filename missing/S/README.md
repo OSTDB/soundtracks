@@ -1861,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapo Xulé vs. Os Invasores do Brejo | 70287 | [70287-sapo-xule-vs-os-invasores-do-brejo.json](./70287-sapo-xule-vs-os-invasores-do-brejo.json) |
 | Sapo Xulé: O Mestre do Kung Fu | 152305 | [152305-sapo-xule-o-mestre-do-kung-fu.json](./152305-sapo-xule-o-mestre-do-kung-fu.json) |
 | Sapo Xulé: S.O.S. Lagoa Poluída | 84282 | [84282-sapo-xule-s-o-s-lagoa-poluida.json](./84282-sapo-xule-s-o-s-lagoa-poluida.json) |
+| Saposo Supimpa | 372173 | [372173-saposo-supimpa.json](./372173-saposo-supimpa.json) |
 | Sapper | 127519 | [127519-sapper.json](./127519-sapper.json) |
 | Sapper boom! | 102958 | [102958-sapper-boom.json](./102958-sapper-boom.json) |
 | Sapper Robot | 211657 | [211657-sapper-robot.json](./211657-sapper-robot.json) |
@@ -8356,6 +8357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island | 268079 | [268079-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island.json](./268079-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island.json) |
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island - Plus Pack | 323544 | [323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json](./323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json) |
 | Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | 19460 | [19460-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json](./19460-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json) |
+| Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | 371814 | [371814-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json](./371814-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json) |
 | Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | 80619 | [80619-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json](./80619-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json) |
 | Shiren The Wanderer: The Tower of Fortune and the Dice of Fate - Eternal Wanderer Edition | 42676 | [42676-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-eternal-wanderer-edition.json](./42676-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-eternal-wanderer-edition.json) |
 | Shirime 2: The Genesis of Butt-Eye | 253854 | [253854-shirime-2-the-genesis-of-butt-eye.json](./253854-shirime-2-the-genesis-of-butt-eye.json) |
@@ -12083,6 +12085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Wars | 107577 | [107577-sky-wars.json](./107577-sky-wars.json) |
 | Sky Whale | 100852 | [100852-sky-whale.json](./100852-sky-whale.json) |
 | Sky Wings | 371037 | [371037-sky-wings.json](./371037-sky-wings.json) |
+| Sky World 64 | 372167 | [372167-sky-world-64.json](./372167-sky-world-64.json) |
 | Sky-Rain | 407711 | [407711-sky-rain.json](./407711-sky-rain.json) |
 | Sky: Children of the Light | 65503 | [65503-sky-children-of-the-light.json](./65503-sky-children-of-the-light.json) |
 | Sky: Children of the Light - Season of Belonging | 388383 | [388383-sky-children-of-the-light-season-of-belonging.json](./388383-sky-children-of-the-light-season-of-belonging.json) |
@@ -13823,6 +13826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smiling Terror | 343919 | [343919-smiling-terror.json](./343919-smiling-terror.json) |
 | Smilinguido: Desafio na Floresta | 183610 | [183610-smilinguido-desafio-na-floresta.json](./183610-smilinguido-desafio-na-floresta.json) |
 | Smily Angry | 318754 | [318754-smily-angry.json](./318754-smily-angry.json) |
+| Sminer | 371820 | [371820-sminer.json](./371820-sminer.json) |
 | Sminis | 93532 | [93532-sminis.json](./93532-sminis.json) |
 | Smipat and the Lost Bones | 188556 | [188556-smipat-and-the-lost-bones.json](./188556-smipat-and-the-lost-bones.json) |
 | Smirkers | 371236 | [371236-smirkers.json](./371236-smirkers.json) |
@@ -18638,6 +18642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20145,6 +20150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Disk | 240803 | [240803-spell-disk.json](./240803-spell-disk.json) |
 | Spell Disk Survivor | 259580 | [259580-spell-disk-survivor.json](./259580-spell-disk-survivor.json) |
 | Spell Fist | 383200 | [383200-spell-fist.json](./383200-spell-fist.json) |
+| Spell Fragments | 372174 | [372174-spell-fragments.json](./372174-spell-fragments.json) |
 | Spell Hell | 253518 | [253518-spell-hell.json](./253518-spell-hell.json) |
 | Spell Karts | 139304 | [139304-spell-karts.json](./139304-spell-karts.json) |
 | Spell Knight | 404683 | [404683-spell-knight.json](./404683-spell-knight.json) |
