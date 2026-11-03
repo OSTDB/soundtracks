@@ -9103,6 +9103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clair Obscur: Expedition 33 - Thank You Update | 381336 | [381336-clair-obscur-expedition-33-thank-you-update.json](./381336-clair-obscur-expedition-33-thank-you-update.json) |
 | Clair Obscur: Expedition 33 – Deluxe Edition | 333209 | [333209-clair-obscur-expedition-33-deluxe-edition.json](./333209-clair-obscur-expedition-33-deluxe-edition.json) |
 | Claire | 10082 | [10082-claire.json](./10082-claire.json) |
+| Claire | 354721 | [354721-claire.json](./354721-claire.json) |
 | Claire Darksage and the Accursed Objects: Collector's Editon | 362828 | [362828-claire-darksage-and-the-accursed-objects-collectors-editon.json](./362828-claire-darksage-and-the-accursed-objects-collectors-editon.json) |
 | Claire Darksage and the Penumbra Deaths: Collector's Edition | 416780 | [416780-claire-darksage-and-the-penumbra-deaths-collectors-edition.json](./416780-claire-darksage-and-the-penumbra-deaths-collectors-edition.json) |
 | Claire de Lune | 118217 | [118217-claire-de-lune.json](./118217-claire-de-lune.json) |
@@ -9832,6 +9833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb Out! | 128236 | [128236-climb-out.json](./128236-climb-out.json) |
 | Climb Quest | 315113 | [315113-climb-quest.json](./315113-climb-quest.json) |
 | Climb Rusher | 381164 | [381164-climb-rusher.json](./381164-climb-rusher.json) |
+| Climb The Backrooms | 354740 | [354740-climb-the-backrooms.json](./354740-climb-the-backrooms.json) |
 | Climb the Tower | 157208 | [157208-climb-the-tower.json](./157208-climb-the-tower.json) |
 | Climb the Tower | 268185 | [268185-climb-the-tower.json](./268185-climb-the-tower.json) |
 | Climb Up the Down | 158498 | [158498-climb-up-the-down.json](./158498-climb-up-the-down.json) |
@@ -13902,6 +13904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cordyceps Island | 295169 | [295169-cordyceps-island.json](./295169-cordyceps-island.json) |
 | Core | 131411 | [131411-core.json](./131411-core.json) |
 | Core | 13517 | [13517-core.json](./13517-core.json) |
+| Core | 354893 | [354893-core.json](./354893-core.json) |
 | Core | 400887 | [400887-core.json](./400887-core.json) |
 | Core Awaken: Jilelen and LittleSnow | 138448 | [138448-core-awaken-jilelen-and-littlesnow.json](./138448-core-awaken-jilelen-and-littlesnow.json) |
 | Core Awaken: The Yuka | 104814 | [104814-core-awaken-the-yuka.json](./104814-core-awaken-the-yuka.json) |
@@ -18262,6 +18265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubes: Procedural Wonders | 240339 | [240339-cubes-procedural-wonders.json](./240339-cubes-procedural-wonders.json) |
 | CubeSat Builder: Build a NASA Spacecraft! | 309025 | [309025-cubesat-builder-build-a-nasa-spacecraft.json](./309025-cubesat-builder-build-a-nasa-spacecraft.json) |
 | Cubesc | 98760 | [98760-cubesc.json](./98760-cubesc.json) |
+| Cubescape | 354736 | [354736-cubescape.json](./354736-cubescape.json) |
 | Cubeshift | 54542 | [54542-cubeshift.json](./54542-cubeshift.json) |
 | CubeShooter | 203967 | [203967-cubeshooter.json](./203967-cubeshooter.json) |
 | CubeShot | 218635 | [218635-cubeshot.json](./218635-cubeshot.json) |
