@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kassei: Road Cycling - Next Season | 410020 | [410020-kassei-road-cycling-next-season.json](./410020-kassei-road-cycling-next-season.json) |
 | Kassei: Road Cycling 2025 | 357207 | [357207-kassei-road-cycling-2025.json](./357207-kassei-road-cycling-2025.json) |
 | Kasshoku no Sei Senshi Aisha | 108119 | [108119-kasshoku-no-sei-senshi-aisha.json](./108119-kasshoku-no-sei-senshi-aisha.json) |
+| Kasso Gaiden: Escape from the Skaterverse | 395634 | [395634-kasso-gaiden-escape-from-the-skaterverse.json](./395634-kasso-gaiden-escape-from-the-skaterverse.json) |
 | Kasumi | 285383 | [285383-kasumi.json](./285383-kasumi.json) |
 | Kasumi Ninja | 40798 | [40798-kasumi-ninja.json](./40798-kasumi-ninja.json) |
 | Kat Trap: Planet of the Cat-Men | 13010 | [13010-kat-trap-planet-of-the-cat-men.json](./13010-kat-trap-planet-of-the-cat-men.json) |
