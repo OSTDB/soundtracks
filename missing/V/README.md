@@ -3276,6 +3276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidpixel | 138496 | [138496-voidpixel.json](./138496-voidpixel.json) |
 | VoidReaver | 392408 | [392408-voidreaver.json](./392408-voidreaver.json) |
 | Voidrel | 408996 | [408996-voidrel.json](./408996-voidrel.json) |
+| Voidronaut | 359152 | [359152-voidronaut.json](./359152-voidronaut.json) |
 | Voidrun | 232011 | [232011-voidrun.json](./232011-voidrun.json) |
 | Voidrunner | 36569 | [36569-voidrunner.json](./36569-voidrunner.json) |
 | Voidrunner | 377287 | [377287-voidrunner.json](./377287-voidrunner.json) |
