@@ -9868,6 +9868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork Blackout | 400649 | [400649-clockwork-blackout.json](./400649-clockwork-blackout.json) |
 | Clockwork Calamity in Mushroom World: What would you do if the time stopped ticking? | 153424 | [153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json](./153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json) |
 | Clockwork Cat | 128868 | [128868-clockwork-cat.json](./128868-clockwork-cat.json) |
+| Clockwork Cleanup | 382941 | [382941-clockwork-cleanup.json](./382941-clockwork-cleanup.json) |
 | Clockwork Dreams | 169238 | [169238-clockwork-dreams.json](./169238-clockwork-dreams.json) |
 | Clockwork Dungeon | 165682 | [165682-clockwork-dungeon.json](./165682-clockwork-dungeon.json) |
 | Clockwork Empires | 9764 | [9764-clockwork-empires.json](./9764-clockwork-empires.json) |
@@ -16124,6 +16125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures: The Albian Years | 163101 | [163101-creatures-the-albian-years.json](./163101-creatures-the-albian-years.json) |
 | Creaturing: Sea Wonders | 340561 | [340561-creaturing-sea-wonders.json](./340561-creaturing-sea-wonders.json) |
 | Creatzor: Isekai Dino Fighter | 320113 | [320113-creatzor-isekai-dino-fighter.json](./320113-creatzor-isekai-dino-fighter.json) |
+| Creaworm | 382806 | [382806-creaworm.json](./382806-creaworm.json) |
 | Credence Filter | 30472 | [30472-credence-filter.json](./30472-credence-filter.json) |
 | Creed Arena | 52324 | [52324-creed-arena.json](./52324-creed-arena.json) |
 | Creed: Rise to Glory | 102134 | [102134-creed-rise-to-glory.json](./102134-creed-rise-to-glory.json) |
