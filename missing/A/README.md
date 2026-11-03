@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little Bird | 148797 | [148797-a-little-bird.json](./148797-a-little-bird.json) |
 | A Little Bus Stop | 176254 | [176254-a-little-bus-stop.json](./176254-a-little-bus-stop.json) |
 | A Little Golf Journey | 132300 | [132300-a-little-golf-journey.json](./132300-a-little-golf-journey.json) |
+| A little Jumpingspider's Garden Adventure (Day 1+2) | 392700 | [392700-a-little-jumpingspiders-garden-adventure-day-1-2.json](./392700-a-little-jumpingspiders-garden-adventure-day-1-2.json) |
 | A Little Less Desperation | 392213 | [392213-a-little-less-desperation.json](./392213-a-little-less-desperation.json) |
 | A Little Lily Princess | 33333 | [33333-a-little-lily-princess.json](./33333-a-little-lily-princess.json) |
 | A Little Physics Roguelike | 389960 | [389960-a-little-physics-roguelike.json](./389960-a-little-physics-roguelike.json) |
@@ -13982,6 +13983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascension | 95408 | [95408-ascension.json](./95408-ascension.json) |
 | Ascension to the Throne | 27467 | [27467-ascension-to-the-throne.json](./27467-ascension-to-the-throne.json) |
 | Ascension to the Throne: Valkyrie | 27455 | [27455-ascension-to-the-throne-valkyrie.json](./27455-ascension-to-the-throne-valkyrie.json) |
+| Ascension Trail | 392696 | [392696-ascension-trail.json](./392696-ascension-trail.json) |
 | Ascension VR | 32106 | [32106-ascension-vr.json](./32106-ascension-vr.json) |
 | Ascension: Arenas of War | 64823 | [64823-ascension-arenas-of-war.json](./64823-ascension-arenas-of-war.json) |
 | Ascension: Deckbuilding Game | 8638 | [8638-ascension-deckbuilding-game.json](./8638-ascension-deckbuilding-game.json) |
