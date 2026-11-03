@@ -3941,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Trax | 117412 | [117412-cat-trax.json](./117412-cat-trax.json) |
 | Cat Trax | 40689 | [40689-cat-trax.json](./40689-cat-trax.json) |
 | Cat Tree | 326792 | [326792-cat-tree.json](./326792-cat-tree.json) |
+| Cat Tricks | 349577 | [349577-cat-tricks.json](./349577-cat-tricks.json) |
 | Cat Trip | 322032 | [322032-cat-trip.json](./322032-cat-trip.json) |
 | Cat Tsunami | 388233 | [388233-cat-tsunami.json](./388233-cat-tsunami.json) |
 | Cat Veterinary: Emergency Hospital Close to Me | 328541 | [328541-cat-veterinary-emergency-hospital-close-to-me.json](./328541-cat-veterinary-emergency-hospital-close-to-me.json) |
@@ -11703,6 +11704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Collection 3 | 247490 | [247490-coloring-pixels-collection-3.json](./247490-coloring-pixels-collection-3.json) |
 | Coloring Pixels: Collection 4 | 317232 | [317232-coloring-pixels-collection-4.json](./317232-coloring-pixels-collection-4.json) |
 | Coloring Pixels: Collection 5 | 320454 | [320454-coloring-pixels-collection-5.json](./320454-coloring-pixels-collection-5.json) |
+| Coloring Pixels: Collection 6 | 349578 | [349578-coloring-pixels-collection-6.json](./349578-coloring-pixels-collection-6.json) |
 | Coloring Pixels: Comic 2 XL Pack | 406441 | [406441-coloring-pixels-comic-2-xl-pack.json](./406441-coloring-pixels-comic-2-xl-pack.json) |
 | Coloring Pixels: Comic Pack | 393615 | [393615-coloring-pixels-comic-pack.json](./393615-coloring-pixels-comic-pack.json) |
 | Coloring Pixels: Cute Pack | 214978 | [214978-coloring-pixels-cute-pack.json](./214978-coloring-pixels-cute-pack.json) |
@@ -14025,6 +14027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cornfield Escape | 370575 | [370575-cornfield-escape.json](./370575-cornfield-escape.json) |
 | Cornflake Crisis | 115169 | [115169-cornflake-crisis.json](./115169-cornflake-crisis.json) |
 | Cornflower Corbin | 23939 | [23939-cornflower-corbin.json](./23939-cornflower-corbin.json) |
+| Cornhole | 349579 | [349579-cornhole.json](./349579-cornhole.json) |
 | Cornhole Hero | 418742 | [418742-cornhole-hero.json](./418742-cornhole-hero.json) |
 | Cornsweeper | 285039 | [285039-cornsweeper.json](./285039-cornsweeper.json) |
 | Cornucopia | 197077 | [197077-cornucopia.json](./197077-cornucopia.json) |
@@ -14836,6 +14839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courageous Reasoning Nori 6 MikiEdition Last | 298567 | [298567-courageous-reasoning-nori-6-mikiedition-last.json](./298567-courageous-reasoning-nori-6-mikiedition-last.json) |
 | Courageous Reasoning Nori 7 New World | 309077 | [309077-courageous-reasoning-nori-7-new-world.json](./309077-courageous-reasoning-nori-7-new-world.json) |
 | Courageous Reasoning Nori 9 Reasoning Tournament Sticking Nori | 330129 | [330129-courageous-reasoning-nori-9-reasoning-tournament-sticking-nori.json](./330129-courageous-reasoning-nori-9-reasoning-tournament-sticking-nori.json) |
+| Courageous Reasoning Nori Remaster | 349580 | [349580-courageous-reasoning-nori-remaster.json](./349580-courageous-reasoning-nori-remaster.json) |
 | Courier | 414883 | [414883-courier.json](./414883-courier.json) |
 | Courier 79 | 264712 | [264712-courier-79.json](./264712-courier-79.json) |
 | Courier Bay | 366943 | [366943-courier-bay.json](./366943-courier-bay.json) |
