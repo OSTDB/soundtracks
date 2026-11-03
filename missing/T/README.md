@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Ball: Amazing Extras Skin Pack | 293399 | [293399-table-ball-amazing-extras-skin-pack.json](./293399-table-ball-amazing-extras-skin-pack.json) |
 | Table Ball: Emotions Skin Pack | 293398 | [293398-table-ball-emotions-skin-pack.json](./293398-table-ball-emotions-skin-pack.json) |
 | Table Barrier | 172652 | [172652-table-barrier.json](./172652-table-barrier.json) |
+| Table Battle Simulator | 370976 | [370976-table-battle-simulator.json](./370976-table-battle-simulator.json) |
 | Table Flip Simulator | 306415 | [306415-table-flip-simulator.json](./306415-table-flip-simulator.json) |
 | Table Football | 131398 | [131398-table-football.json](./131398-table-football.json) |
 | Table Football | 85421 | [85421-table-football.json](./85421-table-football.json) |
@@ -4204,6 +4205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator 3: War of the Machines | 47069 | [47069-terminator-3-war-of-the-machines.json](./47069-terminator-3-war-of-the-machines.json) |
 | Terminator Salvation | 142768 | [142768-terminator-salvation.json](./142768-terminator-salvation.json) |
 | Terminator Salvation: Fight for the Future | 115311 | [115311-terminator-salvation-fight-for-the-future.json](./115311-terminator-salvation-fight-for-the-future.json) |
+| Terminator: Arena | 370370 | [370370-terminator-arena.json](./370370-terminator-arena.json) |
 | Terminator: Dark Fate | 287867 | [287867-terminator-dark-fate.json](./287867-terminator-dark-fate.json) |
 | Terminator: Dark Fate - Defiance: Evolution | 380994 | [380994-terminator-dark-fate-defiance-evolution.json](./380994-terminator-dark-fate-defiance-evolution.json) |
 | Terminator: Dark Fate - Defiance: We are Legion | 320901 | [320901-terminator-dark-fate-defiance-we-are-legion.json](./320901-terminator-dark-fate-defiance-we-are-legion.json) |
@@ -4309,6 +4311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraCube | 361690 | [361690-terracube.json](./361690-terracube.json) |
 | Terrafactor | 368990 | [368990-terrafactor.json](./368990-terrafactor.json) |
 | Terrafactory: Idle Planet | 384154 | [384154-terrafactory-idle-planet.json](./384154-terrafactory-idle-planet.json) |
+| Terrafarmers Inc. | 370399 | [370399-terrafarmers-inc.json](./370399-terrafarmers-inc.json) |
 | TerraFire | 69334 | [69334-terrafire.json](./69334-terrafire.json) |
 | TerraFirmaCraft | 296225 | [296225-terrafirmacraft.json](./296225-terrafirmacraft.json) |
 | TerraFirmaCraft+ | 297577 | [297577-terrafirmacraft.json](./297577-terrafirmacraft.json) |
@@ -6984,6 +6987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cinderella Contract | 417578 | [417578-the-cinderella-contract.json](./417578-the-cinderella-contract.json) |
 | The Cinderling | 404855 | [404855-the-cinderling.json](./404855-the-cinderling.json) |
 | The Cinema Rosa | 101449 | [101449-the-cinema-rosa.json](./101449-the-cinema-rosa.json) |
+| The Cinema VR | 370400 | [370400-the-cinema-vr.json](./370400-the-cinema-vr.json) |
 | The Circle Move | 341106 | [341106-the-circle-move.json](./341106-the-circle-move.json) |
 | The Circle of Suffering | 190364 | [190364-the-circle-of-suffering.json](./190364-the-circle-of-suffering.json) |
 | The Circle: Martial Arts Fighter | 206189 | [206189-the-circle-martial-arts-fighter.json](./206189-the-circle-martial-arts-fighter.json) |
@@ -13984,6 +13988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outpost Nine | 105325 | [105325-the-outpost-nine.json](./105325-the-outpost-nine.json) |
 | The Outreach | 294360 | [294360-the-outreach.json](./294360-the-outreach.json) |
 | The Outsider | 180560 | [180560-the-outsider.json](./180560-the-outsider.json) |
+| The Outsider | 370069 | [370069-the-outsider.json](./370069-the-outsider.json) |
 | The Outsider | 52938 | [52938-the-outsider.json](./52938-the-outsider.json) |
 | The Outsider TD | 235661 | [235661-the-outsider-td.json](./235661-the-outsider-td.json) |
 | The Outsiders | 247952 | [247952-the-outsiders.json](./247952-the-outsiders.json) |
@@ -16641,6 +16646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Lumi | 263990 | [263990-the-tale-of-lumi.json](./263990-the-tale-of-lumi.json) |
 | The Tale of Mara & Moa | 294025 | [294025-the-tale-of-mara-and-moa.json](./294025-the-tale-of-mara-and-moa.json) |
 | The Tale of Marena's Deft | 298716 | [298716-the-tale-of-marenas-deft.json](./298716-the-tale-of-marenas-deft.json) |
+| The Tale of Oath | 370939 | [370939-the-tale-of-oath.json](./370939-the-tale-of-oath.json) |
 | The Tale of Onogoro | 196312 | [196312-the-tale-of-onogoro.json](./196312-the-tale-of-onogoro.json) |
 | The Tale of Relm | 333396 | [333396-the-tale-of-relm.json](./333396-the-tale-of-relm.json) |
 | The Tale of Spring City | 391004 | [391004-the-tale-of-spring-city.json](./391004-the-tale-of-spring-city.json) |
@@ -19087,6 +19093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirsty Princess | 381575 | [381575-thirsty-princess.json](./381575-thirsty-princess.json) |
 | Thirteen & Half Cats | 120888 | [120888-thirteen-and-half-cats.json](./120888-thirteen-and-half-cats.json) |
 | Thirteen Souls | 129770 | [129770-thirteen-souls.json](./129770-thirteen-souls.json) |
+| Thirtle | 370381 | [370381-thirtle.json](./370381-thirtle.json) |
 | Thirty Cycles | 200710 | [200710-thirty-cycles.json](./200710-thirty-cycles.json) |
 | Thirty Eternal Days | 187153 | [187153-thirty-eternal-days.json](./187153-thirty-eternal-days.json) |
 | Thirty Monsters Challenge | 260506 | [260506-thirty-monsters-challenge.json](./260506-thirty-monsters-challenge.json) |
@@ -23024,6 +23031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toadette Strikes | 134069 | [134069-toadette-strikes.json](./134069-toadette-strikes.json) |
 | Toadette's Christmas Adventure | 215198 | [215198-toadettes-christmas-adventure.json](./215198-toadettes-christmas-adventure.json) |
 | Toadette's Sweets Gallery | 294781 | [294781-toadettes-sweets-gallery.json](./294781-toadettes-sweets-gallery.json) |
+| Toadled: Eating Frenzy | 370362 | [370362-toadled-eating-frenzy.json](./370362-toadled-eating-frenzy.json) |
 | Toado | 92867 | [92867-toado.json](./92867-toado.json) |
 | Toadomination | 173243 | [173243-toadomination.json](./173243-toadomination.json) |
 | Toads of the Bayou | 244138 | [244138-toads-of-the-bayou.json](./244138-toads-of-the-bayou.json) |
