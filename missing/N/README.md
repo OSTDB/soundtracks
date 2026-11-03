@@ -4300,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nighthawk no Shokuzai: Zenpen | 401609 | [401609-nighthawk-no-shokuzai-zenpen.json](./401609-nighthawk-no-shokuzai-zenpen.json) |
 | Nighthawks | 109259 | [109259-nighthawks.json](./109259-nighthawks.json) |
 | Nighthold | 324568 | [324568-nighthold.json](./324568-nighthold.json) |
+| Nighthold: Number 1 | 383985 | [383985-nighthold-number-1.json](./383985-nighthold-number-1.json) |
 | NightHover | 250835 | [250835-nighthover.json](./250835-nighthover.json) |
 | Nightin Cage | 351701 | [351701-nightin-cage.json](./351701-nightin-cage.json) |
 | Nightingale Downs | 74112 | [74112-nightingale-downs.json](./74112-nightingale-downs.json) |
