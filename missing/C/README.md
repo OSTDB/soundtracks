@@ -4088,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catastrophies | 13466 | [13466-catastrophies.json](./13466-catastrophies.json) |
 | Catatattack! | 368083 | [368083-catatattack.json](./368083-catatattack.json) |
 | Catatonic Fits of Despair | 309195 | [309195-catatonic-fits-of-despair.json](./309195-catatonic-fits-of-despair.json) |
+| Catatonic Game | 360857 | [360857-catatonic-game.json](./360857-catatonic-game.json) |
 | Cataverse MVP | 381868 | [381868-cataverse-mvp.json](./381868-cataverse-mvp.json) |
 | CatAway | 381293 | [381293-cataway.json](./381293-cataway.json) |
 | Catbo | 311477 | [311477-catbo.json](./311477-catbo.json) |
@@ -8378,8 +8379,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CipherPilot | 155863 | [155863-cipherpilot.json](./155863-cipherpilot.json) |
 | Cipheur | 330901 | [330901-cipheur.json](./330901-cipheur.json) |
 | Cipheur - Famous People Quotes 3 | 361018 | [361018-cipheur-famous-people-quotes-3.json](./361018-cipheur-famous-people-quotes-3.json) |
+| Cipheur: Famous People - Quotes 5 | 361010 | [361010-cipheur-famous-people-quotes-5.json](./361010-cipheur-famous-people-quotes-5.json) |
 | Cipheur: Famous People Quotes 2 | 361017 | [361017-cipheur-famous-people-quotes-2.json](./361017-cipheur-famous-people-quotes-2.json) |
+| Cipheur: Famous People Quotes 4 | 361016 | [361016-cipheur-famous-people-quotes-4.json](./361016-cipheur-famous-people-quotes-4.json) |
+| Cipheur: Proverbs 4 | 361013 | [361013-cipheur-proverbs-4.json](./361013-cipheur-proverbs-4.json) |
+| Cipheur: Trivia - Astronomy | 361014 | [361014-cipheur-trivia-astronomy.json](./361014-cipheur-trivia-astronomy.json) |
+| Cipheur: Trivia - Biology | 361015 | [361015-cipheur-trivia-biology.json](./361015-cipheur-trivia-biology.json) |
 | Cipheur: Trivia - Geography | 384009 | [384009-cipheur-trivia-geography.json](./384009-cipheur-trivia-geography.json) |
+| Cipheur: Trivia - Physics | 361011 | [361011-cipheur-trivia-physics.json](./361011-cipheur-trivia-physics.json) |
 | Ciphoid 9 | 329980 | [329980-ciphoid-9.json](./329980-ciphoid-9.json) |
 | Circa | 94170 | [94170-circa.json](./94170-circa.json) |
 | Circa Infinity | 16312 | [16312-circa-infinity.json](./16312-circa-infinity.json) |
@@ -18710,6 +18717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Cards | 422033 | [422033-curse-of-cards.json](./422033-curse-of-cards.json) |
 | Curse of D'sparil | 145206 | [145206-curse-of-dsparil.json](./145206-curse-of-dsparil.json) |
 | Curse of Dares | 303673 | [303673-curse-of-dares.json](./303673-curse-of-dares.json) |
+| Curse of Darkness | 360880 | [360880-curse-of-darkness.json](./360880-curse-of-darkness.json) |
 | Curse of Deflection | 404204 | [404204-curse-of-deflection.json](./404204-curse-of-deflection.json) |
 | Curse of Destiny | 82728 | [82728-curse-of-destiny.json](./82728-curse-of-destiny.json) |
 | Curse of Dominion | 366886 | [366886-curse-of-dominion.json](./366886-curse-of-dominion.json) |
