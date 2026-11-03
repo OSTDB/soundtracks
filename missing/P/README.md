@@ -6880,6 +6880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong | 247006 | [247006-ping-pong.json](./247006-ping-pong.json) |
 | Ping Pong | 343478 | [343478-ping-pong.json](./343478-ping-pong.json) |
 | Ping Pong | 358839 | [358839-ping-pong.json](./358839-ping-pong.json) |
+| Ping Pong | 359294 | [359294-ping-pong.json](./359294-ping-pong.json) |
 | Ping Pong | 86218 | [86218-ping-pong.json](./86218-ping-pong.json) |
 | Ping Pong 3D | 90348 | [90348-ping-pong-3d.json](./90348-ping-pong-3d.json) |
 | Ping Pong 3D HD | 252560 | [252560-ping-pong-3d-hd.json](./252560-ping-pong-3d-hd.json) |
@@ -16086,6 +16087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psyche Soldier VR | 30097 | [30097-psyche-soldier-vr.json](./30097-psyche-soldier-vr.json) |
 | Psyche60s | 264170 | [264170-psyche60s.json](./264170-psyche60s.json) |
 | Psychedelia: The Psychonaut | 220473 | [220473-psychedelia-the-psychonaut.json](./220473-psychedelia-the-psychonaut.json) |
+| Psychedelic Dream | 359154 | [359154-psychedelic-dream.json](./359154-psychedelic-dream.json) |
 | Psychedelica of the Ashen Hawk | 41824 | [41824-psychedelica-of-the-ashen-hawk.json](./41824-psychedelica-of-the-ashen-hawk.json) |
 | Psychiatric Hospital | 245978 | [245978-psychiatric-hospital.json](./245978-psychiatric-hospital.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Boys Dating Sim | 336558 | [336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json](./336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json) |
@@ -17862,6 +17864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlink | 283379 | [283379-puzzlink.json](./283379-puzzlink.json) |
 | Puzzlix | 68543 | [68543-puzzlix.json](./68543-puzzlix.json) |
 | Puzzlor | 399884 | [399884-puzzlor.json](./399884-puzzlor.json) |
+| Puzzly | 359155 | [359155-puzzly.json](./359155-puzzly.json) |
 | Puzzly Game Collection | 105938 | [105938-puzzly-game-collection.json](./105938-puzzly-game-collection.json) |
 | Puzzmagic | 188229 | [188229-puzzmagic.json](./188229-puzzmagic.json) |
 | PuzzMiX | 295756 | [295756-puzzmix.json](./295756-puzzmix.json) |
