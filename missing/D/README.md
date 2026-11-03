@@ -5663,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delete | 380599 | [380599-delete.json](./380599-delete.json) |
 | Delete | 81918 | [81918-delete.json](./81918-delete.json) |
 | Delete After Reading | 199767 | [199767-delete-after-reading.json](./199767-delete-after-reading.json) |
+| Delete the World | 384492 | [384492-delete-the-world.json](./384492-delete-the-world.json) |
 | Delete Virus; | 202629 | [202629-delete-virus.json](./202629-delete-virus.json) |
 | Delete? | 125643 | [125643-delete.json](./125643-delete.json) |
 | Deleted | 264654 | [264654-deleted.json](./264654-deleted.json) |
@@ -6956,6 +6957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Friend | 385649 | [385649-desktop-friend.json](./385649-desktop-friend.json) |
 | Desktop Garden | 177478 | [177478-desktop-garden.json](./177478-desktop-garden.json) |
 | Desktop Garden | 377977 | [377977-desktop-garden.json](./377977-desktop-garden.json) |
+| Desktop Girlfriend Neo | 384815 | [384815-desktop-girlfriend-neo.json](./384815-desktop-girlfriend-neo.json) |
 | Desktop Goose | 135622 | [135622-desktop-goose.json](./135622-desktop-goose.json) |
 | Desktop Hacker | 203953 | [203953-desktop-hacker.json](./203953-desktop-hacker.json) |
 | Desktop Hacker: Echoes of Pandora | 288061 | [288061-desktop-hacker-echoes-of-pandora.json](./288061-desktop-hacker-echoes-of-pandora.json) |
@@ -9652,6 +9654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discouraged Workers: Teen Version | 33792 | [33792-discouraged-workers-teen-version.json](./33792-discouraged-workers-teen-version.json) |
 | Discover girl | 158395 | [158395-discover-girl.json](./158395-discover-girl.json) |
 | Discover My Body | 153577 | [153577-discover-my-body.json](./153577-discover-my-body.json) |
+| Discover the Dinosaurs | 384484 | [384484-discover-the-dinosaurs.json](./384484-discover-the-dinosaurs.json) |
 | Discover the Ocean | 229220 | [229220-discover-the-ocean.json](./229220-discover-the-ocean.json) |
 | Discover The World | 375321 | [375321-discover-the-world.json](./375321-discover-the-world.json) |
 | Discovered | 137519 | [137519-discovered.json](./137519-discovered.json) |
