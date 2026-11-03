@@ -10155,6 +10155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Helping Hand Paradox | 323651 | [323651-the-helping-hand-paradox.json](./323651-the-helping-hand-paradox.json) |
 | The Henchmen | 220674 | [220674-the-henchmen.json](./220674-the-henchmen.json) |
 | The Henchmen | 389670 | [389670-the-henchmen.json](./389670-the-henchmen.json) |
+| The Hentai Memory | 369296 | [369296-the-hentai-memory.json](./369296-the-hentai-memory.json) |
 | The Hepatica Spring | 190222 | [190222-the-hepatica-spring.json](./190222-the-hepatica-spring.json) |
 | The Herbalist | 231526 | [231526-the-herbalist.json](./231526-the-herbalist.json) |
 | The Herbalist | 30942 | [30942-the-herbalist.json](./30942-the-herbalist.json) |
@@ -14165,6 +14166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Match | 68420 | [68420-the-perfect-match.json](./68420-the-perfect-match.json) |
 | The Perfect Pencil | 199737 | [199737-the-perfect-pencil.json](./199737-the-perfect-pencil.json) |
 | The Perfect Portrait | 390015 | [390015-the-perfect-portrait.json](./390015-the-perfect-portrait.json) |
+| The Perfect Prince | 368749 | [368749-the-perfect-prince.json](./368749-the-perfect-prince.json) |
 | The Perfect Shape | 158713 | [158713-the-perfect-shape.json](./158713-the-perfect-shape.json) |
 | The Perfect Sniper | 81012 | [81012-the-perfect-sniper.json](./81012-the-perfect-sniper.json) |
 | The Perfect Specimen | 243620 | [243620-the-perfect-specimen.json](./243620-the-perfect-specimen.json) |
@@ -14251,6 +14253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pink Panther's Passport to Peril | 47088 | [47088-the-pink-panthers-passport-to-peril.json](./47088-the-pink-panthers-passport-to-peril.json) |
 | The Pinkman Files | 391523 | [391523-the-pinkman-files.json](./391523-the-pinkman-files.json) |
 | The Pioneers: Surviving Desolation | 171471 | [171471-the-pioneers-surviving-desolation.json](./171471-the-pioneers-surviving-desolation.json) |
+| The Piper of Dawn | 368746 | [368746-the-piper-of-dawn.json](./368746-the-piper-of-dawn.json) |
 | The PipeTuber's Guide to the Solar System | 373802 | [373802-the-pipetubers-guide-to-the-solar-system.json](./373802-the-pipetubers-guide-to-the-solar-system.json) |
 | The Pirate Keko | 402054 | [402054-the-pirate-keko.json](./402054-the-pirate-keko.json) |
 | The Pirate King | 152731 | [152731-the-pirate-king.json](./152731-the-pirate-king.json) |
@@ -21764,6 +21767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time for You to Leave | 416355 | [416355-time-for-you-to-leave.json](./416355-time-for-you-to-leave.json) |
 | Time For You: Chapter 01 | 168860 | [168860-time-for-you-chapter-01.json](./168860-time-for-you-chapter-01.json) |
 | Time for You: Chapter 02 - Dirty Thoughts and Corporate Bots | 170373 | [170373-time-for-you-chapter-02-dirty-thoughts-and-corporate-bots.json](./170373-time-for-you-chapter-02-dirty-thoughts-and-corporate-bots.json) |
+| Time Foray | 368754 | [368754-time-foray.json](./368754-time-foray.json) |
 | Time Force X: Mission of Lennon | 337523 | [337523-time-force-x-mission-of-lennon.json](./337523-time-force-x-mission-of-lennon.json) |
 | Time Fragments: 24h in Capua | 126818 | [126818-time-fragments-24h-in-capua.json](./126818-time-fragments-24h-in-capua.json) |
 | Time Freeze | 168936 | [168936-time-freeze.json](./168936-time-freeze.json) |
@@ -23946,6 +23950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomboy Adventure | 154577 | [154577-tomboy-adventure.json](./154577-tomboy-adventure.json) |
 | Tomboy Adventure 2 | 298096 | [298096-tomboy-adventure-2.json](./298096-tomboy-adventure-2.json) |
 | Tomboy Stranded in Space | 393388 | [393388-tomboy-stranded-in-space.json](./393388-tomboy-stranded-in-space.json) |
+| Tomboy: Annoying Childhood Friend | 368734 | [368734-tomboy-annoying-childhood-friend.json](./368734-tomboy-annoying-childhood-friend.json) |
 | Tomboy: Love in Hot Forge | 267792 | [267792-tomboy-love-in-hot-forge.json](./267792-tomboy-love-in-hot-forge.json) |
 | Tomboy: Trapped by Orcs | 348934 | [348934-tomboy-trapped-by-orcs.json](./348934-tomboy-trapped-by-orcs.json) |
 | Tomboys Need Love Too! | 36470 | [36470-tomboys-need-love-too.json](./36470-tomboys-need-love-too.json) |
@@ -26390,6 +26395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trading Towns | 297880 | [297880-trading-towns.json](./297880-trading-towns.json) |
 | TradingLife | 392961 | [392961-tradinglife.json](./392961-tradinglife.json) |
 | Traditional Braves with Sess-AI 2.0 | 387668 | [387668-traditional-braves-with-sess-ai-2-0.json](./387668-traditional-braves-with-sess-ai-2-0.json) |
+| Traditional Chinese Medicine Simulator | 368720 | [368720-traditional-chinese-medicine-simulator.json](./368720-traditional-chinese-medicine-simulator.json) |
 | Traditional Story | 241460 | [241460-traditional-story.json](./241460-traditional-story.json) |
 | Traditional Tactics | 122293 | [122293-traditional-tactics.json](./122293-traditional-tactics.json) |
 | Traditional Tactics Mobile | 122294 | [122294-traditional-tactics-mobile.json](./122294-traditional-tactics-mobile.json) |
@@ -30188,6 +30194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Hentai Puzzle | 163568 | [163568-true-hentai-puzzle.json](./163568-true-hentai-puzzle.json) |
 | True Hentai Puzzle: 666 | 163569 | [163569-true-hentai-puzzle-666.json](./163569-true-hentai-puzzle-666.json) |
 | True Horror | 103674 | [103674-true-horror.json](./103674-true-horror.json) |
+| True Idle Simulator | 368704 | [368704-true-idle-simulator.json](./368704-true-idle-simulator.json) |
 | True Idle Simulator 2 | 295294 | [295294-true-idle-simulator-2.json](./295294-true-idle-simulator-2.json) |
 | True Legacy | 88946 | [88946-true-legacy.json](./88946-true-legacy.json) |
 | True Lies | 282484 | [282484-true-lies.json](./282484-true-lies.json) |
