@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.R.I.F.T. | 394335 | [394335-d-r-i-f-t.json](./394335-d-r-i-f-t.json) |
 | D.R.I.L.L. - Dynamix VR | 81743 | [81743-d-r-i-l-l-dynamix-vr.json](./81743-d-r-i-l-l-dynamix-vr.json) |
 | D.R.O.N.E.: The Game | 113082 | [113082-d-r-o-n-e-the-game.json](./113082-d-r-o-n-e-the-game.json) |
+| D.S. al Fine | 349595 | [349595-d-s-al-fine.json](./349595-d-s-al-fine.json) |
 | D.S. Dal Segno: Limited Edition | 212327 | [212327-d-s-dal-segno-limited-edition.json](./212327-d-s-dal-segno-limited-edition.json) |
 | D.S.A | 385114 | [385114-d-s-a.json](./385114-d-s-a.json) |
 | D.S.A. | 229634 | [229634-d-s-a.json](./229634-d-s-a.json) |
@@ -277,12 +278,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemon X Machina: Deluxe Edition | 187824 | [187824-daemon-x-machina-deluxe-edition.json](./187824-daemon-x-machina-deluxe-edition.json) |
 | Daemon X Machina: Orbital Limited Edition | 120324 | [120324-daemon-x-machina-orbital-limited-edition.json](./120324-daemon-x-machina-orbital-limited-edition.json) |
 | Daemon X Machina: The Witcher Costume Pack | 262301 | [262301-daemon-x-machina-the-witcher-costume-pack.json](./262301-daemon-x-machina-the-witcher-costume-pack.json) |
+| Daemon x Machina: Titanic Scion - Arsenal Skin Set | 349606 | [349606-daemon-x-machina-titanic-scion-arsenal-skin-set.json](./349606-daemon-x-machina-titanic-scion-arsenal-skin-set.json) |
+| Daemon x Machina: Titanic Scion - Digital Deluxe Edition | 349591 | [349591-daemon-x-machina-titanic-scion-digital-deluxe-edition.json](./349591-daemon-x-machina-titanic-scion-digital-deluxe-edition.json) |
 | Daemon x Machina: Titanic Scion - Free Axiom Researcher Outfit | 375259 | [375259-daemon-x-machina-titanic-scion-free-axiom-researcher-outfit.json](./375259-daemon-x-machina-titanic-scion-free-axiom-researcher-outfit.json) |
 | Daemon x Machina: Titanic Scion - Free Formal Suit Outfit | 375258 | [375258-daemon-x-machina-titanic-scion-free-formal-suit-outfit.json](./375258-daemon-x-machina-titanic-scion-free-formal-suit-outfit.json) |
 | Daemon x Machina: Titanic Scion - Free Iris Outfit | 375260 | [375260-daemon-x-machina-titanic-scion-free-iris-outfit.json](./375260-daemon-x-machina-titanic-scion-free-iris-outfit.json) |
 | Daemon x Machina: Titanic Scion - Free Reclaimer Outfit | 375262 | [375262-daemon-x-machina-titanic-scion-free-reclaimer-outfit.json](./375262-daemon-x-machina-titanic-scion-free-reclaimer-outfit.json) |
 | Daemon x Machina: Titanic Scion - Into the Abyss | 375177 | [375177-daemon-x-machina-titanic-scion-into-the-abyss.json](./375177-daemon-x-machina-titanic-scion-into-the-abyss.json) |
 | Daemon x Machina: Titanic Scion - Reclaimers Outfit Set | 375261 | [375261-daemon-x-machina-titanic-scion-reclaimers-outfit-set.json](./375261-daemon-x-machina-titanic-scion-reclaimers-outfit-set.json) |
+| Daemon x Machina: Titanic Scion - Special Equipment Set | 349604 | [349604-daemon-x-machina-titanic-scion-special-equipment-set.json](./349604-daemon-x-machina-titanic-scion-special-equipment-set.json) |
+| Daemon x Machina: Titanic Scion - Special SFX Weapon Set | 349605 | [349605-daemon-x-machina-titanic-scion-special-sfx-weapon-set.json](./349605-daemon-x-machina-titanic-scion-special-sfx-weapon-set.json) |
+| Daemon x Machina: Titanic Scion - Super Digital Deluxe Edition | 349592 | [349592-daemon-x-machina-titanic-scion-super-digital-deluxe-edition.json](./349592-daemon-x-machina-titanic-scion-super-digital-deluxe-edition.json) |
 | Daemon: The Wolf, the Witch, and the Labyrinth | 390477 | [390477-daemon-the-wolf-the-witch-and-the-labyrinth.json](./390477-daemon-the-wolf-the-witch-and-the-labyrinth.json) |
 | Daemonfall | 345115 | [345115-daemonfall.json](./345115-daemonfall.json) |
 | Daemonic Runner | 127779 | [127779-daemonic-runner.json](./127779-daemonic-runner.json) |
@@ -17796,6 +17802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: Universal Tree - Vistani Knife Fighter | 349642 | [349642-dungeons-and-dragons-online-universal-tree-vistani-knife-fighter.json](./349642-dungeons-and-dragons-online-universal-tree-vistani-knife-fighter.json) |
 | Dungeons & Dragons Online: Vault of Night | 339142 | [339142-dungeons-and-dragons-online-vault-of-night.json](./339142-dungeons-and-dragons-online-vault-of-night.json) |
 | Dungeons & Dragons Online: Vecna Unleashed | 258958 | [258958-dungeons-and-dragons-online-vecna-unleashed.json](./258958-dungeons-and-dragons-online-vecna-unleashed.json) |
+| Dungeons & Dragons Online: White Plume Mountain and Other Tales | 349724 | [349724-dungeons-and-dragons-online-white-plume-mountain-and-other-tales.json](./349724-dungeons-and-dragons-online-white-plume-mountain-and-other-tales.json) |
 | Dungeons & Dragons: Dark Alliance | 127348 | [127348-dungeons-and-dragons-dark-alliance.json](./127348-dungeons-and-dragons-dark-alliance.json) |
 | Dungeons & Dragons: Dark Alliance - Day One Edition | 242924 | [242924-dungeons-and-dragons-dark-alliance-day-one-edition.json](./242924-dungeons-and-dragons-dark-alliance-day-one-edition.json) |
 | Dungeons & Dragons: Dark Alliance - Deluxe Edition | 148269 | [148269-dungeons-and-dragons-dark-alliance-deluxe-edition.json](./148269-dungeons-and-dragons-dark-alliance-deluxe-edition.json) |
