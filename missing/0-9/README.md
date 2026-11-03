@@ -1994,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3:28am | 215861 | [215861-3-28am.json](./215861-3-28am.json) |
 | 3:30 am. at Floater's Cemetery | 184959 | [184959-3-30-am-at-floaters-cemetery.json](./184959-3-30-am-at-floaters-cemetery.json) |
 | 3:33 A.M. | 318976 | [318976-3-33-a-m.json](./318976-3-33-a-m.json) |
+| 3:33 AM | 389849 | [389849-3-33-am.json](./389849-3-33-am.json) |
 | 3..2..1..Grenades! | 32004 | [32004-3-2-1-grenades.json](./32004-3-2-1-grenades.json) |
 | 3.5 Ins Micro Disc Software: Adventure with Technician Ted / Heathrow International Air Traffic Control | 137331 | [137331-3-5-ins-micro-disc-software-adventure-with-technician-ted-heathrow-international-air-traffic-control.json](./137331-3-5-ins-micro-disc-software-adventure-with-technician-ted-heathrow-international-air-traffic-control.json) |
 | 3/4 Spell Swap | 397011 | [397011-3-4-spell-swap.json](./397011-3-4-spell-swap.json) |
@@ -2912,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 69 Natasha Hot | 212672 | [212672-69-natasha-hot.json](./212672-69-natasha-hot.json) |
 | 69 Penny Hot | 211067 | [211067-69-penny-hot.json](./211067-69-penny-hot.json) |
 | 69 Samantha Love | 195723 | [195723-69-samantha-love.json](./195723-69-samantha-love.json) |
+| 69 Seconds Later | 389812 | [389812-69-seconds-later.json](./389812-69-seconds-later.json) |
 | 69 Ways to Kill a Zombie | 31722 | [31722-69-ways-to-kill-a-zombie.json](./31722-69-ways-to-kill-a-zombie.json) |
 | 69 Yuki Love | 167167 | [167167-69-yuki-love.json](./167167-69-yuki-love.json) |
 | 6N23 | 276230 | [276230-6n23.json](./276230-6n23.json) |
