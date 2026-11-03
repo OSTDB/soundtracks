@@ -18734,7 +18734,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22388,6 +22387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid and Let Die | 57342 | [57342-squid-and-let-die.json](./57342-squid-and-let-die.json) |
 | Squid Commando | 270562 | [270562-squid-commando.json](./270562-squid-commando.json) |
 | Squid Fighter | 226613 | [226613-squid-fighter.json](./226613-squid-fighter.json) |
+| Squid Game: Game Boy Demake | 351907 | [351907-squid-game-game-boy-demake.json](./351907-squid-game-game-boy-demake.json) |
 | Squid Game: The Game | 184603 | [184603-squid-game-the-game.json](./184603-squid-game-the-game.json) |
 | Squid Game: Unleashed | 314273 | [314273-squid-game-unleashed.json](./314273-squid-game-unleashed.json) |
 | Squid Girl World Ep.0 | 257564 | [257564-squid-girl-world-ep-0.json](./257564-squid-girl-world-ep-0.json) |
