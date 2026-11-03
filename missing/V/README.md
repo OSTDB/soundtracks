@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V Life | 395536 | [395536-v-life.json](./395536-v-life.json) |
 | V Lights | 216498 | [216498-v-lights.json](./216498-v-lights.json) |
 | V Mahjong | 131144 | [131144-v-mahjong.json](./131144-v-mahjong.json) |
+| V nekotorom tsarstve | 379324 | [379324-v-nekotorom-tsarstve.json](./379324-v-nekotorom-tsarstve.json) |
 | V pod''ezde | 116844 | [116844-v-podezde.json](./116844-v-podezde.json) |
 | V poiskakh Atlantidy | 111215 | [111215-v-poiskakh-atlantidy.json](./111215-v-poiskakh-atlantidy.json) |
 | V Prototype | 122613 | [122613-v-prototype.json](./122613-v-prototype.json) |
@@ -3279,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidwalker | 385383 | [385383-voidwalker.json](./385383-voidwalker.json) |
 | VoidWalker: Call of Insomnia | 345080 | [345080-voidwalker-call-of-insomnia.json](./345080-voidwalker-call-of-insomnia.json) |
 | Voidwalkers: Astora's Darkness | 170939 | [170939-voidwalkers-astoras-darkness.json](./170939-voidwalkers-astoras-darkness.json) |
+| Voidwalkers: Exodus | 379609 | [379609-voidwalkers-exodus.json](./379609-voidwalkers-exodus.json) |
 | Voidwalkers: Soul Hunters | 170931 | [170931-voidwalkers-soul-hunters.json](./170931-voidwalkers-soul-hunters.json) |
 | Voidwalkers: The Gates of Hell - Death to the Heretics! | 208338 | [208338-voidwalkers-the-gates-of-hell-death-to-the-heretics.json](./208338-voidwalkers-the-gates-of-hell-death-to-the-heretics.json) |
 | Voidwalkers: The Gates of Hell - Hell's Dungeon | 205036 | [205036-voidwalkers-the-gates-of-hell-hells-dungeon.json](./205036-voidwalkers-the-gates-of-hell-hells-dungeon.json) |
