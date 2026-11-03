@@ -5278,6 +5278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Sneaky Chameleon | 412567 | [412567-find-the-sneaky-chameleon.json](./412567-find-the-sneaky-chameleon.json) |
 | Find the Stalker | 310219 | [310219-find-the-stalker.json](./310219-find-the-stalker.json) |
 | Find the Sunbed | 189959 | [189959-find-the-sunbed.json](./189959-find-the-sunbed.json) |
+| Find the Text! | 356978 | [356978-find-the-text.json](./356978-find-the-text.json) |
 | Find the Thermal Core Trainer | 105809 | [105809-find-the-thermal-core-trainer.json](./105809-find-the-thermal-core-trainer.json) |
 | Find The Thing | 309635 | [309635-find-the-thing.json](./309635-find-the-thing.json) |
 | Find the Treasure | 126244 | [126244-find-the-treasure.json](./126244-find-the-treasure.json) |
