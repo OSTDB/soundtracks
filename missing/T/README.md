@@ -15406,6 +15406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sex Adventures of a Gladiator | 367766 | [367766-the-sex-adventures-of-a-gladiator.json](./367766-the-sex-adventures-of-a-gladiator.json) |
 | The Sexorcist | 211723 | [211723-the-sexorcist.json](./211723-the-sexorcist.json) |
 | The Sexy Brutale | 22783 | [22783-the-sexy-brutale.json](./22783-the-sexy-brutale.json) |
+| The Shack | 393785 | [393785-the-shack.json](./393785-the-shack.json) |
 | The Shackles Holder #735 | 406551 | [406551-the-shackles-holder-735.json](./406551-the-shackles-holder-735.json) |
 | The Shade Forest | 319028 | [319028-the-shade-forest.json](./319028-the-shade-forest.json) |
 | The Shadelight | 207612 | [207612-the-shadelight.json](./207612-the-shadelight.json) |
@@ -18313,6 +18314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zachtronics Solitaire Collection | 214973 | [214973-the-zachtronics-solitaire-collection.json](./214973-the-zachtronics-solitaire-collection.json) |
 | The Zebra Z | 233018 | [233018-the-zebra-z.json](./233018-the-zebra-z.json) |
 | The Zebra-Man! | 236250 | [236250-the-zebra-man.json](./236250-the-zebra-man.json) |
+| The Zen Garden | 393738 | [393738-the-zen-garden.json](./393738-the-zen-garden.json) |
 | The Zen of Kayaking | 304730 | [304730-the-zen-of-kayaking.json](./304730-the-zen-of-kayaking.json) |
 | The Zero Dome | 72349 | [72349-the-zero-dome.json](./72349-the-zero-dome.json) |
 | The Zhukov Line | 288617 | [288617-the-zhukov-line.json](./288617-the-zhukov-line.json) |
@@ -18680,6 +18682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These Robotic Hearts of Mine | 22920 | [22920-these-robotic-hearts-of-mine.json](./22920-these-robotic-hearts-of-mine.json) |
 | These Starless Skies | 409594 | [409594-these-starless-skies.json](./409594-these-starless-skies.json) |
 | These Thieving Hearts | 289966 | [289966-these-thieving-hearts.json](./289966-these-thieving-hearts.json) |
+| These Waves of Girls | 393842 | [393842-these-waves-of-girls.json](./393842-these-waves-of-girls.json) |
 | Theseis | 92339 | [92339-theseis.json](./92339-theseis.json) |
 | Theseus | 139912 | [139912-theseus.json](./139912-theseus.json) |
 | Theseus | 27216 | [27216-theseus.json](./27216-theseus.json) |
