@@ -854,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Joysound for Streamer | 316469 | [316469-karaoke-joysound-for-streamer.json](./316469-karaoke-joysound-for-streamer.json) |
 | Karaoke Joysound Wii: DX Deluxe Edition | 131263 | [131263-karaoke-joysound-wii-dx-deluxe-edition.json](./131263-karaoke-joysound-wii-dx-deluxe-edition.json) |
 | Karaoke Klassics: Family Favorites | 45922 | [45922-karaoke-klassics-family-favorites.json](./45922-karaoke-klassics-family-favorites.json) |
+| Karaoke Love Song | 368741 | [368741-karaoke-love-song.json](./368741-karaoke-love-song.json) |
 | Karaoke Mugen | 125793 | [125793-karaoke-mugen.json](./125793-karaoke-mugen.json) |
 | Karaoke Party | 137687 | [137687-karaoke-party.json](./137687-karaoke-party.json) |
 | Karaoke Revolution | 7034 | [7034-karaoke-revolution.json](./7034-karaoke-revolution.json) |
@@ -2715,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi no Hitomi ni Hit Me | 82803 | [82803-kimi-no-hitomi-ni-hit-me.json](./82803-kimi-no-hitomi-ni-hit-me.json) |
 | Kimi no Mirai | 251537 | [251537-kimi-no-mirai.json](./251537-kimi-no-mirai.json) |
 | Kimi no Nisemono ni Koi wo Suru Asterism | 396470 | [396470-kimi-no-nisemono-ni-koi-wo-suru-asterism.json](./396470-kimi-no-nisemono-ni-koi-wo-suru-asterism.json) |
+| Kimi no Shinzou to Cosmos wo Miru | 370394 | [370394-kimi-no-shinzou-to-cosmos-wo-miru.json](./370394-kimi-no-shinzou-to-cosmos-wo-miru.json) |
 | Kimi no Tonari de Koishiteru! | 194548 | [194548-kimi-no-tonari-de-koishiteru.json](./194548-kimi-no-tonari-de-koishiteru.json) |
 | Kimi no Tonari de Koishiteru!: The Respective Happiness | 194549 | [194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json](./194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json) |
 | Kimi no Yusha | 59401 | [59401-kimi-no-yusha.json](./59401-kimi-no-yusha.json) |
@@ -4690,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koakuma | 222787 | [222787-koakuma.json](./222787-koakuma.json) |
 | Koakuma Nurse no Itazura Karte: Kangoshi Kanojo to no Dousei Seikatsu | 402718 | [402718-koakuma-nurse-no-itazura-karte-kangoshi-kanojo-to-no-dousei-seikatsu.json](./402718-koakuma-nurse-no-itazura-karte-kangoshi-kanojo-to-no-dousei-seikatsu.json) |
 | Koala Kids | 34981 | [34981-koala-kids.json](./34981-koala-kids.json) |
+| Koala Kids Golf | 368740 | [368740-koala-kids-golf.json](./368740-koala-kids-golf.json) |
 | Koala Lumpur: Journey to the Edge | 6736 | [6736-koala-lumpur-journey-to-the-edge.json](./6736-koala-lumpur-journey-to-the-edge.json) |
 | Koala Quest: Parenthood Prevention | 171321 | [171321-koala-quest-parenthood-prevention.json](./171321-koala-quest-parenthood-prevention.json) |
 | Koala Rush | 187841 | [187841-koala-rush.json](./187841-koala-rush.json) |
@@ -5180,6 +5183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korea: Forgotten Conflict | 24186 | [24186-korea-forgotten-conflict.json](./24186-korea-forgotten-conflict.json) |
 | Korean Adventures in Russia | 156547 | [156547-korean-adventures-in-russia.json](./156547-korean-adventures-in-russia.json) |
 | Korean Dominatrixes Are the Best | 385706 | [385706-korean-dominatrixes-are-the-best.json](./385706-korean-dominatrixes-are-the-best.json) |
+| Korean Drone Flying Tour Anmyeon Temple | 368755 | [368755-korean-drone-flying-tour-anmyeon-temple.json](./368755-korean-drone-flying-tour-anmyeon-temple.json) |
 | Korean Drone Flying Tour Ansan-si | 345971 | [345971-korean-drone-flying-tour-ansan-si.json](./345971-korean-drone-flying-tour-ansan-si.json) |
 | Korean Drone Flying Tour Baegun Lake | 353994 | [353994-korean-drone-flying-tour-baegun-lake.json](./353994-korean-drone-flying-tour-baegun-lake.json) |
 | Korean Drone Flying Tour Baekje Military Museum | 411817 | [411817-korean-drone-flying-tour-baekje-military-museum.json](./411817-korean-drone-flying-tour-baekje-military-museum.json) |
@@ -5323,6 +5327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotamon: My Sis Found a Super-Rare Card in Her Cereal Box, so I Became a Garbage Man to Find the Entire Collection and Earn $1,000,000 | 387714 | [387714-kotamon-my-sis-found-a-super-rare-card-in-her-cereal-box-so-i-became-a-garbage-man-to-find-the-entire-collection-and-earn-1-000-000.json](./387714-kotamon-my-sis-found-a-super-rare-card-in-her-cereal-box-so-i-became-a-garbage-man-to-find-the-entire-collection-and-earn-1-000-000.json) |
 | Kotaro Survivor | 351584 | [351584-kotaro-survivor.json](./351584-kotaro-survivor.json) |
 | Koten Tsumego Shuu: Shijin no Maki | 384658 | [384658-koten-tsumego-shuu-shijin-no-maki.json](./384658-koten-tsumego-shuu-shijin-no-maki.json) |
+| Kotenok | 368756 | [368756-kotenok.json](./368756-kotenok.json) |
 | KóterGame | 111856 | [111856-kotergame.json](./111856-kotergame.json) |
 | Kotiro | 204152 | [204152-kotiro.json](./204152-kotiro.json) |
 | Kotoba Dash | 388182 | [388182-kotoba-dash.json](./388182-kotoba-dash.json) |
@@ -5667,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubberz | 190415 | [190415-kubberz.json](./190415-kubberz.json) |
 | Kubble | 111617 | [111617-kubble.json](./111617-kubble.json) |
 | Kubble Star | 129218 | [129218-kubble-star.json](./129218-kubble-star.json) |
+| Kubby Big Adventure | 369266 | [369266-kubby-big-adventure.json](./369266-kubby-big-adventure.json) |
 | Kube | 180095 | [180095-kube.json](./180095-kube.json) |
 | Kube | 212976 | [212976-kube.json](./212976-kube.json) |
 | Kube Kreatures: Bleached White | 386274 | [386274-kube-kreatures-bleached-white.json](./386274-kube-kreatures-bleached-white.json) |
