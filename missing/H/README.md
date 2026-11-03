@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: E7 Black Star | 196832 | [196832-half-life-e7-black-star.json](./196832-half-life-e7-black-star.json) |
 | Half-Life: Echoes | 150226 | [150226-half-life-echoes.json](./150226-half-life-echoes.json) |
 | Half-Life: Edge of Darkness | 196833 | [196833-half-life-edge-of-darkness.json](./196833-half-life-edge-of-darkness.json) |
+| Half-Life: Element 64 | 379604 | [379604-half-life-element-64.json](./379604-half-life-element-64.json) |
 | Half-Life: Enriched | 247375 | [247375-half-life-enriched.json](./247375-half-life-enriched.json) |
 | Half-Life: Escape | 221856 | [221856-half-life-escape.json](./221856-half-life-escape.json) |
 | Half-Life: Escape 2.0 | 294442 | [294442-half-life-escape-2-0.json](./294442-half-life-escape-2-0.json) |
@@ -7874,6 +7875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3: Street Art Pack | 233713 | [233713-hitman-3-street-art-pack.json](./233713-hitman-3-street-art-pack.json) |
 | Hitman 3: The Banker Pack | 357256 | [357256-hitman-3-the-banker-pack.json](./357256-hitman-3-the-banker-pack.json) |
 | Hitman 3: The Disruptor Pack | 307382 | [307382-hitman-3-the-disruptor-pack.json](./307382-hitman-3-the-disruptor-pack.json) |
+| Hitman 3: The Eminem vs. Slim Shady Pack | 379612 | [379612-hitman-3-the-eminem-vs-slim-shady-pack.json](./379612-hitman-3-the-eminem-vs-slim-shady-pack.json) |
 | Hitman 3: The Sarajevo Six | 279033 | [279033-hitman-3-the-sarajevo-six.json](./279033-hitman-3-the-sarajevo-six.json) |
 | Hitman 3: The Splitter Pack | 357257 | [357257-hitman-3-the-splitter-pack.json](./357257-hitman-3-the-splitter-pack.json) |
 | Hitman 3: Trinity Pack | 224225 | [224225-hitman-3-trinity-pack.json](./224225-hitman-3-trinity-pack.json) |
