@@ -5619,7 +5619,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -11180,6 +11179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimi and Lisa | 241787 | [241787-mimi-and-lisa.json](./241787-mimi-and-lisa.json) |
 | Mimi in Meowndering House | 385290 | [385290-mimi-in-meowndering-house.json](./385290-mimi-in-meowndering-house.json) |
 | Mimi in The Sky | 267374 | [267374-mimi-in-the-sky.json](./267374-mimi-in-the-sky.json) |
+| Mimi la fourmi | 387284 | [387284-mimi-la-fourmi.json](./387284-mimi-la-fourmi.json) |
 | Mimi the Cat: Meow Together | 264783 | [264783-mimi-the-cat-meow-together.json](./264783-mimi-the-cat-meow-together.json) |
 | Mimi the Cat: Mimi's Scratcher | 269052 | [269052-mimi-the-cat-mimis-scratcher.json](./269052-mimi-the-cat-mimis-scratcher.json) |
 | Mimi the Cat: New Friends | 253911 | [253911-mimi-the-cat-new-friends.json](./253911-mimi-the-cat-new-friends.json) |
