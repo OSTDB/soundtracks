@@ -3375,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Rektorized | 207522 | [207522-get-rektorized.json](./207522-get-rektorized.json) |
 | Get Rich | 311645 | [311645-get-rich.json](./311645-get-rich.json) |
 | Get Rich or Die Gaming | 34627 | [34627-get-rich-or-die-gaming.json](./34627-get-rich-or-die-gaming.json) |
+| Get Rich Quick | 350751 | [350751-get-rich-quick.json](./350751-get-rich-quick.json) |
 | Get Rich Slow | 250779 | [250779-get-rich-slow.json](./250779-get-rich-slow.json) |
 | Get Rich! | 180704 | [180704-get-rich.json](./180704-get-rich.json) |
 | Get Rid Of Those Corners | 401523 | [401523-get-rid-of-those-corners.json](./401523-get-rid-of-those-corners.json) |
@@ -3581,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Follows | 191224 | [191224-ghost-follows.json](./191224-ghost-follows.json) |
 | Ghost For Hire | 295310 | [295310-ghost-for-hire.json](./295310-ghost-for-hire.json) |
 | Ghost Girl Ghussy: XXXL Edition | 271042 | [271042-ghost-girl-ghussy-xxxl-edition.json](./271042-ghost-girl-ghussy-xxxl-edition.json) |
+| Ghost Golfing | 350721 | [350721-ghost-golfing.json](./350721-ghost-golfing.json) |
 | Ghost Grab 3000 | 116547 | [116547-ghost-grab-3000.json](./116547-ghost-grab-3000.json) |
 | Ghost Grimoire | 178949 | [178949-ghost-grimoire.json](./178949-ghost-grimoire.json) |
 | Ghost Guidance | 387922 | [387922-ghost-guidance.json](./387922-ghost-guidance.json) |
@@ -4441,6 +4443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girlvania: Summer Lust | 169127 | [169127-girlvania-summer-lust.json](./169127-girlvania-summer-lust.json) |
 | Girly Block | 41716 | [41716-girly-block.json](./41716-girly-block.json) |
 | Girp | 137545 | [137545-girp.json](./137545-girp.json) |
+| Girth | 350756 | [350756-girth.json](./350756-girth.json) |
 | Girthbound | 389522 | [389522-girthbound.json](./389522-girthbound.json) |
 | GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
 | Giselle | 249703 | [249703-giselle.json](./249703-giselle.json) |
@@ -8733,6 +8736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey's Anatomy: The Video Game | 4897 | [4897-greys-anatomy-the-video-game.json](./4897-greys-anatomy-the-video-game.json) |
 | Greyfell | 47140 | [47140-greyfell.json](./47140-greyfell.json) |
 | Greyfox | 19377 | [19377-greyfox.json](./19377-greyfox.json) |
+| Greyfront | 350868 | [350868-greyfront.json](./350868-greyfront.json) |
 | Greyhill Incident | 196995 | [196995-greyhill-incident.json](./196995-greyhill-incident.json) |
 | Greyhill Incident: Abducted Edition | 240035 | [240035-greyhill-incident-abducted-edition.json](./240035-greyhill-incident-abducted-edition.json) |
 | Greyhill Incident: Found Footage Mode | 252682 | [252682-greyhill-incident-found-footage-mode.json](./252682-greyhill-incident-found-footage-mode.json) |
@@ -10974,6 +10978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gynogenesis: The Next Day | 256899 | [256899-gynogenesis-the-next-day.json](./256899-gynogenesis-the-next-day.json) |
 | Gynotai | 319866 | [319866-gynotai.json](./319866-gynotai.json) |
 | Gynoug | 410065 | [410065-gynoug.json](./410065-gynoug.json) |
+| Gyogun Tanchiki: Pocket Sonar | 350753 | [350753-gyogun-tanchiki-pocket-sonar.json](./350753-gyogun-tanchiki-pocket-sonar.json) |
 | Gyossait | 42684 | [42684-gyossait.json](./42684-gyossait.json) |
 | Gyossait: Deluxe Edition | 134001 | [134001-gyossait-deluxe-edition.json](./134001-gyossait-deluxe-edition.json) |
 | Gyousatsu! Spirits: Final Version | 137598 | [137598-gyousatsu-spirits-final-version.json](./137598-gyousatsu-spirits-final-version.json) |
