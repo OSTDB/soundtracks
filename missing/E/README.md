@@ -2722,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysium: Blood Games | 33828 | [33828-elysium-blood-games.json](./33828-elysium-blood-games.json) |
 | Elysium: Blue Den Mansion | 410488 | [410488-elysium-blue-den-mansion.json](./410488-elysium-blue-den-mansion.json) |
 | Elysium's Curse | 257352 | [257352-elysiums-curse.json](./257352-elysiums-curse.json) |
+| Elzypon | 386909 | [386909-elzypon.json](./386909-elzypon.json) |
 | Elzzup | 252876 | [252876-elzzup.json](./252876-elzzup.json) |
 | Em | 187163 | [187163-em.json](./187163-em.json) |
 | Em-A-Li | 127793 | [127793-em-a-li.json](./127793-em-a-li.json) |
@@ -4986,6 +4987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Terror City | 142882 | [142882-escape-from-terror-city.json](./142882-escape-from-terror-city.json) |
 | Escape from Tethys | 103256 | [103256-escape-from-tethys.json](./103256-escape-from-tethys.json) |
 | Escape from the Abandoned Outpost | 273669 | [273669-escape-from-the-abandoned-outpost.json](./273669-escape-from-the-abandoned-outpost.json) |
+| Escape from the Black Monolith | 386762 | [386762-escape-from-the-black-monolith.json](./386762-escape-from-the-black-monolith.json) |
 | Escape From The Boykisser | 298928 | [298928-escape-from-the-boykisser.json](./298928-escape-from-the-boykisser.json) |
 | Escape from the Cannibal Family | 301246 | [301246-escape-from-the-cannibal-family.json](./301246-escape-from-the-cannibal-family.json) |
 | Escape From the Castle of Sad Ghosts | 181775 | [181775-escape-from-the-castle-of-sad-ghosts.json](./181775-escape-from-the-castle-of-sad-ghosts.json) |
