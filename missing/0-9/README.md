@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 124 Handle of the World | 309169 | [309169-124-handle-of-the-world.json](./309169-124-handle-of-the-world.json) |
 | 125 Monkey Games | 203204 | [203204-125-monkey-games.json](./203204-125-monkey-games.json) |
 | 128 Linedefs, 64 Things | 260890 | [260890-128-linedefs-64-things.json](./260890-128-linedefs-64-things.json) |
+| 128k | 393844 | [393844-128k.json](./393844-128k.json) |
 | 12am | 212754 | [212754-12am.json](./212754-12am.json) |
 | 12Gems | 292786 | [292786-12gems.json](./292786-12gems.json) |
 | 12nin no Onna Kyoushi | 98423 | [98423-12nin-no-onna-kyoushi.json](./98423-12nin-no-onna-kyoushi.json) |
