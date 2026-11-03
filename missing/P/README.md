@@ -3904,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguins vs. Bugs | 122402 | [122402-penguins-vs-bugs.json](./122402-penguins-vs-bugs.json) |
 | Penguins! | 147344 | [147344-penguins.json](./147344-penguins.json) |
 | Penguins' Journey | 71568 | [71568-penguins-journey.json](./71568-penguins-journey.json) |
+| Penguinz | 377863 | [377863-penguinz.json](./377863-penguinz.json) |
 | PenguPult | 401036 | [401036-pengupult.json](./401036-pengupult.json) |
 | Penguru | 264648 | [264648-penguru.json](./264648-penguru.json) |
 | Pengwyn | 13745 | [13745-pengwyn.json](./13745-pengwyn.json) |
@@ -10601,6 +10602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Gray | 228904 | [228904-pokemon-gray.json](./228904-pokemon-gray.json) |
 | Pokémon GS Chronicles | 163125 | [163125-pokemon-gs-chronicles.json](./163125-pokemon-gs-chronicles.json) |
 | Pokémon Heart & Soul | 376212 | [376212-pokemon-heart-and-soul.json](./376212-pokemon-heart-and-soul.json) |
+| Pokémon Hearth | 377553 | [377553-pokemon-hearth.json](./377553-pokemon-hearth.json) |
 | Pokémon Hero | 314728 | [314728-pokemon-hero.json](./314728-pokemon-hero.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
 | Pokémon HGSS: Sevii Islands | 327148 | [327148-pokemon-hgss-sevii-islands.json](./327148-pokemon-hgss-sevii-islands.json) |
@@ -10871,6 +10873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon The Soul of Hope | 384685 | [384685-pokemon-the-soul-of-hope.json](./384685-pokemon-the-soul-of-hope.json) |
 | Pokémon Theta Emerald EX | 194828 | [194828-pokemon-theta-emerald-ex.json](./194828-pokemon-theta-emerald-ex.json) |
 | Pokémon Theta Emerald Renev | 209550 | [209550-pokemon-theta-emerald-renev.json](./209550-pokemon-theta-emerald-renev.json) |
+| Pokémon Thief Ruby | 377859 | [377859-pokemon-thief-ruby.json](./377859-pokemon-thief-ruby.json) |
 | Pokémon This Gym of Mine | 227653 | [227653-pokemon-this-gym-of-mine.json](./227653-pokemon-this-gym-of-mine.json) |
 | Pokémon Throwback | 232636 | [232636-pokemon-throwback.json](./232636-pokemon-throwback.json) |
 | Pokemon Topaz | 383058 | [383058-pokemon-topaz.json](./383058-pokemon-topaz.json) |
@@ -15789,6 +15792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocol: Children of War | 215325 | [215325-protocol-children-of-war.json](./215325-protocol-children-of-war.json) |
 | Protocol: Hyperspace Dive‪r‬ | 144008 | [144008-protocol-hyperspace-dive-r.json](./144008-protocol-hyperspace-dive-r.json) |
 | Protocol: Requiem | 399412 | [399412-protocol-requiem.json](./399412-protocol-requiem.json) |
+| Protocol: Terminate | 377885 | [377885-protocol-terminate.json](./377885-protocol-terminate.json) |
 | Protocol: Zero-Day | 397998 | [397998-protocol-zero-day.json](./397998-protocol-zero-day.json) |
 | Protocol:Null | 301982 | [301982-protocol-null.json](./301982-protocol-null.json) |
 | Protocole: Hedera | 270101 | [270101-protocole-hedera.json](./270101-protocole-hedera.json) |
