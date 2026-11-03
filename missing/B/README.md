@@ -2078,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bank Robber | 319569 | [319569-bank-robber.json](./319569-bank-robber.json) |
 | Bank Robbery Royale: Battle Simulator | 100937 | [100937-bank-robbery-royale-battle-simulator.json](./100937-bank-robbery-royale-battle-simulator.json) |
 | Bank Roll 2000 | 273208 | [273208-bank-roll-2000.json](./273208-bank-roll-2000.json) |
+| Bank Shot | 381871 | [381871-bank-shot.json](./381871-bank-shot.json) |
 | Bank Simulator | 326470 | [326470-bank-simulator.json](./326470-bank-simulator.json) |
 | Bank-A-Ball | 84323 | [84323-bank-a-ball.json](./84323-bank-a-ball.json) |
 | BankBank | 98057 | [98057-bankbank.json](./98057-bankbank.json) |
@@ -4703,6 +4704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bean's Quest | 65391 | [65391-beans-quest.json](./65391-beans-quest.json) |
 | Bean's Quest 2: Bean Dreams | 26919 | [26919-beans-quest-2-bean-dreams.json](./26919-beans-quest-2-bean-dreams.json) |
 | Beanball | 361464 | [361464-beanball.json](./361464-beanball.json) |
+| Beandejo | 381529 | [381529-beandejo.json](./381529-beandejo.json) |
 | BeanKind by Ketnipz | 249657 | [249657-beankind-by-ketnipz.json](./249657-beankind-by-ketnipz.json) |
 | Beanotown Racing | 57608 | [57608-beanotown-racing.json](./57608-beanotown-racing.json) |
 | Beanrise | 322273 | [322273-beanrise.json](./322273-beanrise.json) |
@@ -8984,6 +8986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackthorn Witch | 362326 | [362326-blackthorn-witch.json](./362326-blackthorn-witch.json) |
 | Blackthorne | 452 | [452-blackthorne.json](./452-blackthorne.json) |
 | BlackThorne Keep: Chronicles | 159262 | [159262-blackthorne-keep-chronicles.json](./159262-blackthorne-keep-chronicles.json) |
+| Blackthorne's Manor | 381870 | [381870-blackthornes-manor.json](./381870-blackthornes-manor.json) |
 | Blacktop Hoops | 196481 | [196481-blacktop-hoops.json](./196481-blacktop-hoops.json) |
 | Blacktop Hustle | 365741 | [365741-blacktop-hustle.json](./365741-blacktop-hustle.json) |
 | Blacktower | 403767 | [403767-blacktower.json](./403767-blacktower.json) |
@@ -14562,6 +14565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breathe | 89392 | [89392-breathe.json](./89392-breathe.json) |
 | Breathe in | 135773 | [135773-breathe-in.json](./135773-breathe-in.json) |
 | Breathe In | 207173 | [207173-breathe-in.json](./207173-breathe-in.json) |
+| Breathe of the Abyss | 381527 | [381527-breathe-of-the-abyss.json](./381527-breathe-of-the-abyss.json) |
 | Breathedge | 89326 | [89326-breathedge.json](./89326-breathedge.json) |
 | Breathedge 2 | 252870 | [252870-breathedge-2.json](./252870-breathedge-2.json) |
 | Breathedge: Cosmic Cluck | 286571 | [286571-breathedge-cosmic-cluck.json](./286571-breathedge-cosmic-cluck.json) |
