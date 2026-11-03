@@ -2561,6 +2561,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Grains | 94529 | [94529-scarlet-grains.json](./94529-scarlet-grains.json) |
 | Scarlet Hollow | 139194 | [139194-scarlet-hollow.json](./139194-scarlet-hollow.json) |
 | Scarlet Hollow: Episode 1 | 170219 | [170219-scarlet-hollow-episode-1.json](./170219-scarlet-hollow-episode-1.json) |
+| Scarlet Hollow: Episode 2 | 377867 | [377867-scarlet-hollow-episode-2.json](./377867-scarlet-hollow-episode-2.json) |
+| Scarlet Hollow: Episode 3 | 377872 | [377872-scarlet-hollow-episode-3.json](./377872-scarlet-hollow-episode-3.json) |
+| Scarlet Hollow: Episode 4 | 377877 | [377877-scarlet-hollow-episode-4.json](./377877-scarlet-hollow-episode-4.json) |
+| Scarlet Hollow: Episode 5 | 377878 | [377878-scarlet-hollow-episode-5.json](./377878-scarlet-hollow-episode-5.json) |
 | Scarlet Hood and the Wicked Wood | 143814 | [143814-scarlet-hood-and-the-wicked-wood.json](./143814-scarlet-hood-and-the-wicked-wood.json) |
 | Scarlet Hood and the Wicked Wood: Deluxe Edition | 154546 | [154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json](./154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json) |
 | Scarlet Idol | 408245 | [408245-scarlet-idol.json](./408245-scarlet-idol.json) |
@@ -3433,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scratchers | 352885 | [352885-scratchers.json](./352885-scratchers.json) |
 | Scratches: Director's Cut | 51365 | [51365-scratches-directors-cut.json](./51365-scratches-directors-cut.json) |
 | Scratchin' Melodii | 215235 | [215235-scratchin-melodii.json](./215235-scratchin-melodii.json) |
+| Scratching Shadows | 377864 | [377864-scratching-shadows.json](./377864-scratching-shadows.json) |
 | ScrawlBrawl | 194902 | [194902-scrawlbrawl.json](./194902-scrawlbrawl.json) |
 | Scray Nightmare: Secret Mystery | 89001 | [89001-scray-nightmare-secret-mystery.json](./89001-scray-nightmare-secret-mystery.json) |
 | Scream | 183211 | [183211-scream.json](./183211-scream.json) |
@@ -11528,6 +11533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Jumping PVP | 259082 | [259082-ski-jumping-pvp.json](./259082-ski-jumping-pvp.json) |
 | Ski Jumping World Cup | 374349 | [374349-ski-jumping-world-cup.json](./374349-ski-jumping-world-cup.json) |
 | Ski King 2024 | 420179 | [420179-ski-king-2024.json](./420179-ski-king-2024.json) |
+| Ski Maniacs | 377866 | [377866-ski-maniacs.json](./377866-ski-maniacs.json) |
 | Ski on Neon HD | 108599 | [108599-ski-on-neon-hd.json](./108599-ski-on-neon-hd.json) |
 | Ski or Die | 11675 | [11675-ski-or-die.json](./11675-ski-or-die.json) |
 | Ski Play by Samplay | 202017 | [202017-ski-play-by-samplay.json](./202017-ski-play-by-samplay.json) |
@@ -23628,6 +23634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbucket | 90854 | [90854-starbucket.json](./90854-starbucket.json) |
 | Starbucks | 378167 | [378167-starbucks.json](./378167-starbucks.json) |
 | Starbug Troopers: The 4 Horseflies of the Apocalypse | 347072 | [347072-starbug-troopers-the-4-horseflies-of-the-apocalypse.json](./347072-starbug-troopers-the-4-horseflies-of-the-apocalypse.json) |
+| Starbump | 377734 | [377734-starbump.json](./377734-starbump.json) |
 | Starburst Fever Night | 390669 | [390669-starburst-fever-night.json](./390669-starburst-fever-night.json) |
 | Starbust | 181378 | [181378-starbust.json](./181378-starbust.json) |
 | Starbuster | 139004 | [139004-starbuster.json](./139004-starbuster.json) |
@@ -29159,6 +29166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Casino 2 | 38304 | [38304-super-casino-2.json](./38304-super-casino-2.json) |
 | Super Castlevania IV | 1124 | [1124-super-castlevania-iv.json](./1124-super-castlevania-iv.json) |
 | Super Castlevania IV: Other Castle | 309603 | [309603-super-castlevania-iv-other-castle.json](./309603-super-castlevania-iv-other-castle.json) |
+| Super Castlevania IV: Rumble | 377733 | [377733-super-castlevania-iv-rumble.json](./377733-super-castlevania-iv-rumble.json) |
 | Super Cat Herding: Totally Awesome Edition | 33084 | [33084-super-cat-herding-totally-awesome-edition.json](./33084-super-cat-herding-totally-awesome-edition.json) |
 | Super Cat Planet | 134314 | [134314-super-cat-planet.json](./134314-super-cat-planet.json) |
 | Super Cat Simulator | 244946 | [244946-super-cat-simulator.json](./244946-super-cat-simulator.json) |
