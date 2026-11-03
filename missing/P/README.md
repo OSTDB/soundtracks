@@ -10851,6 +10851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Tectonic | 251716 | [251716-pokemon-tectonic.json](./251716-pokemon-tectonic.json) |
 | Pokémon Tetris | 25027 | [25027-pokemon-tetris.json](./25027-pokemon-tetris.json) |
 | Pokémon The Pit | 331084 | [331084-pokemon-the-pit.json](./331084-pokemon-the-pit.json) |
+| Pokémon The Soul of Hope | 384685 | [384685-pokemon-the-soul-of-hope.json](./384685-pokemon-the-soul-of-hope.json) |
 | Pokémon Theta Emerald EX | 194828 | [194828-pokemon-theta-emerald-ex.json](./194828-pokemon-theta-emerald-ex.json) |
 | Pokémon Theta Emerald Renev | 209550 | [209550-pokemon-theta-emerald-renev.json](./209550-pokemon-theta-emerald-renev.json) |
 | Pokémon This Gym of Mine | 227653 | [227653-pokemon-this-gym-of-mine.json](./227653-pokemon-this-gym-of-mine.json) |
