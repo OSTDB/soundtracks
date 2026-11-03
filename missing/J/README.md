@@ -2304,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Christian | 155001 | [155001-john-christian.json](./155001-john-christian.json) |
 | John Christian 2 | 195141 | [195141-john-christian-2.json](./195141-john-christian-2.json) |
 | John Christian 3.0 | 274458 | [274458-john-christian-3-0.json](./274458-john-christian-3-0.json) |
+| John Citizen | 388040 | [388040-john-citizen.json](./388040-john-citizen.json) |
 | John Clicker | 394705 | [394705-john-clicker.json](./394705-john-clicker.json) |
 | John Conway's Game of Life | 311354 | [311354-john-conways-game-of-life.json](./311354-john-conways-game-of-life.json) |
 | John Daly's ProStroke Golf | 21738 | [21738-john-dalys-prostroke-golf.json](./21738-john-dalys-prostroke-golf.json) |
