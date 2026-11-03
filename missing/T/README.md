@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of a Wolf | 139641 | [139641-tale-of-a-wolf.json](./139641-tale-of-a-wolf.json) |
 | Tale of Alamar | 87778 | [87778-tale-of-alamar.json](./87778-tale-of-alamar.json) |
 | Tale of an Apocalypse | 157014 | [157014-tale-of-an-apocalypse.json](./157014-tale-of-an-apocalypse.json) |
+| Tale of Android After the Apocalypse | 374850 | [374850-tale-of-android-after-the-apocalypse.json](./374850-tale-of-android-after-the-apocalypse.json) |
 | Tale of Avamphil | 177925 | [177925-tale-of-avamphil.json](./177925-tale-of-avamphil.json) |
 | Tale of Dark Lands | 333459 | [333459-tale-of-dark-lands.json](./333459-tale-of-dark-lands.json) |
 | Tale of Dark Light | 415748 | [415748-tale-of-dark-light.json](./415748-tale-of-dark-light.json) |
@@ -8168,6 +8169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drift Challenge | 167570 | [167570-the-drift-challenge.json](./167570-the-drift-challenge.json) |
 | The Drifter | 126870 | [126870-the-drifter.json](./126870-the-drifter.json) |
 | The Drifting Woods | 149705 | [149705-the-drifting-woods.json](./149705-the-drifting-woods.json) |
+| The Driver Syndicate | 374545 | [374545-the-driver-syndicate.json](./374545-the-driver-syndicate.json) |
 | The Driver's Mission | 121195 | [121195-the-drivers-mission.json](./121195-the-drivers-mission.json) |
 | The Drone Lord | 343308 | [343308-the-drone-lord.json](./343308-the-drone-lord.json) |
 | The Drone Zone | 244905 | [244905-the-drone-zone.json](./244905-the-drone-zone.json) |
@@ -16535,6 +16537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Survivors | 345387 | [345387-the-survivors.json](./345387-the-survivors.json) |
 | The Survivors | 47142 | [47142-the-survivors.json](./47142-the-survivors.json) |
 | The Survivors: Battle Royale | 108808 | [108808-the-survivors-battle-royale.json](./108808-the-survivors-battle-royale.json) |
+| The Sushi Restaurant | 374548 | [374548-the-sushi-restaurant.json](./374548-the-sushi-restaurant.json) |
 | The Sushi Spinnery | 63346 | [63346-the-sushi-spinnery.json](./63346-the-sushi-spinnery.json) |
 | The Suspected Murder | 308911 | [308911-the-suspected-murder.json](./308911-the-suspected-murder.json) |
 | The Suspense | 333070 | [333070-the-suspense.json](./333070-the-suspense.json) |
@@ -17706,6 +17709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Voyage Sinister | 338651 | [338651-the-voyage-sinister.json](./338651-the-voyage-sinister.json) |
 | The Voyager | 248248 | [248248-the-voyager.json](./248248-the-voyager.json) |
 | The Voyager's Trail | 180757 | [180757-the-voyagers-trail.json](./180757-the-voyagers-trail.json) |
+| The Voynich Project | 374880 | [374880-the-voynich-project.json](./374880-the-voynich-project.json) |
 | The VR Canyon | 126660 | [126660-the-vr-canyon.json](./126660-the-vr-canyon.json) |
 | The VR Idol lives next door!? | 303279 | [303279-the-vr-idol-lives-next-door.json](./303279-the-vr-idol-lives-next-door.json) |
 | The VR Museum of Fine Art | 31662 | [31662-the-vr-museum-of-fine-art.json](./31662-the-vr-museum-of-fine-art.json) |
@@ -30643,6 +30647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tulak | 183757 | [183757-tulak.json](./183757-tulak.json) |
 | Tulgey Wood | 246763 | [246763-tulgey-wood.json](./246763-tulgey-wood.json) |
 | Tulip | 270074 | [270074-tulip.json](./270074-tulip.json) |
+| Tulip Season | 374541 | [374541-tulip-season.json](./374541-tulip-season.json) |
 | Tulpa | 36170 | [36170-tulpa.json](./36170-tulpa.json) |
 | Tulpa the Unseen Lover | 414136 | [414136-tulpa-the-unseen-lover.json](./414136-tulpa-the-unseen-lover.json) |
 | Tuma-7 | 141842 | [141842-tuma-7.json](./141842-tuma-7.json) |
