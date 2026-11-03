@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.U.S.E.: The Chimera Pack | 400743 | [400743-r-u-s-e-the-chimera-pack.json](./400743-r-u-s-e-the-chimera-pack.json) |
 | R.U.S.H.: Rival Ultimate Steel Hand | 395527 | [395527-r-u-s-h-rival-ultimate-steel-hand.json](./395527-r-u-s-h-rival-ultimate-steel-hand.json) |
 | R'lyeh Assault | 230194 | [230194-rlyeh-assault.json](./230194-rlyeh-assault.json) |
+| R(IV)P-1 | 399343 | [399343-r-iv-p-1.json](./399343-r-iv-p-1.json) |
 | R/A\W | 341548 | [341548-r-a-w.json](./341548-r-a-w.json) |
 | R/C Sports: Copter Challenge | 202927 | [202927-r-c-sports-copter-challenge.json](./202927-r-c-sports-copter-challenge.json) |
 | R/C Stunt Copter | 44953 | [44953-r-c-stunt-copter.json](./44953-r-c-stunt-copter.json) |
@@ -5095,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiem: Unleashed | 341093 | [341093-requiem-unleashed.json](./341093-requiem-unleashed.json) |
 | Requiescat | 164933 | [164933-requiescat.json](./164933-requiescat.json) |
 | Requiescence | 31219 | [31219-requiescence.json](./31219-requiescence.json) |
+| Required Synergy Workshop: Deja Damnation | 399951 | [399951-required-synergy-workshop-deja-damnation.json](./399951-required-synergy-workshop-deja-damnation.json) |
 | Requisition VR | 193293 | [193293-requisition-vr.json](./193293-requisition-vr.json) |
 | Requisition VR: Survival Update | 253181 | [253181-requisition-vr-survival-update.json](./253181-requisition-vr-survival-update.json) |
 | Requital | 72410 | [72410-requital.json](./72410-requital.json) |
@@ -8952,13 +8954,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Knight Adventures: Re-Sparked | 283095 | [283095-rocket-knight-adventures-re-sparked.json](./283095-rocket-knight-adventures-re-sparked.json) |
 | Rocket Lander | 25152 | [25152-rocket-lander.json](./25152-rocket-lander.json) |
 | Rocket League Sideswipe: Season 5 | 223084 | [223084-rocket-league-sideswipe-season-5.json](./223084-rocket-league-sideswipe-season-5.json) |
+| Rocket League: Aftershock | 399990 | [399990-rocket-league-aftershock.json](./399990-rocket-league-aftershock.json) |
 | Rocket League: Chaos Run | 202859 | [202859-rocket-league-chaos-run.json](./202859-rocket-league-chaos-run.json) |
 | Rocket League: Collector's Edition | 41620 | [41620-rocket-league-collectors-edition.json](./41620-rocket-league-collectors-edition.json) |
 | Rocket League: DC Super Heroes DLC Pack | 226939 | [226939-rocket-league-dc-super-heroes-dlc-pack.json](./226939-rocket-league-dc-super-heroes-dlc-pack.json) |
+| Rocket League: Esper | 400002 | [400002-rocket-league-esper.json](./400002-rocket-league-esper.json) |
 | Rocket League: Fast & Furious DLC Bundle | 348657 | [348657-rocket-league-fast-and-furious-dlc-bundle.json](./348657-rocket-league-fast-and-furious-dlc-bundle.json) |
 | Rocket League: Game of the Year Edition | 282134 | [282134-rocket-league-game-of-the-year-edition.json](./282134-rocket-league-game-of-the-year-edition.json) |
 | Rocket League: Hot Wheels Triple Threat | 156174 | [156174-rocket-league-hot-wheels-triple-threat.json](./156174-rocket-league-hot-wheels-triple-threat.json) |
 | Rocket League: Knight Rider Car Pack | 348680 | [348680-rocket-league-knight-rider-car-pack.json](./348680-rocket-league-knight-rider-car-pack.json) |
+| Rocket League: Marauder | 400007 | [400007-rocket-league-marauder.json](./400007-rocket-league-marauder.json) |
 | Rocket League: McLaren 570S Car Pack | 348659 | [348659-rocket-league-mclaren-570s-car-pack.json](./348659-rocket-league-mclaren-570s-car-pack.json) |
 | Rocket League: MLB Fan Pack | 348677 | [348677-rocket-league-mlb-fan-pack.json](./348677-rocket-league-mlb-fan-pack.json) |
 | Rocket League: Painted Paragon Bundle | 277522 | [277522-rocket-league-painted-paragon-bundle.json](./277522-rocket-league-painted-paragon-bundle.json) |
@@ -8998,6 +9003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Triplex Black Wheels | 403304 | [403304-rocket-league-triplex-black-wheels.json](./403304-rocket-league-triplex-black-wheels.json) |
 | Rocket League: TriTrim Wheels | 366848 | [366848-rocket-league-tritrim-wheels.json](./366848-rocket-league-tritrim-wheels.json) |
 | Rocket League: Whiplash | 279244 | [279244-rocket-league-whiplash.json](./279244-rocket-league-whiplash.json) |
+| Rocket League: Xbox Customization Pack | 399987 | [399987-rocket-league-xbox-customization-pack.json](./399987-rocket-league-xbox-customization-pack.json) |
 | Rocket Lift | 255178 | [255178-rocket-lift.json](./255178-rocket-lift.json) |
 | Rocket Man | 152089 | [152089-rocket-man.json](./152089-rocket-man.json) |
 | Rocket Man | 315331 | [315331-rocket-man.json](./315331-rocket-man.json) |
@@ -10134,6 +10140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XIV: Legend of the Galactic Heroes Collab - Reinhard & Yang | 164500 | [164500-romance-of-the-three-kingdoms-xiv-legend-of-the-galactic-heroes-collab-reinhard-and-yang.json](./164500-romance-of-the-three-kingdoms-xiv-legend-of-the-galactic-heroes-collab-reinhard-and-yang.json) |
 | Romance of the Three Kingdoms: Legend of Shu Han | 305625 | [305625-romance-of-the-three-kingdoms-legend-of-shu-han.json](./305625-romance-of-the-three-kingdoms-legend-of-shu-han.json) |
 | Romance of the Three Kingdoms: The Legend of CaoCao | 121225 | [121225-romance-of-the-three-kingdoms-the-legend-of-caocao.json](./121225-romance-of-the-three-kingdoms-the-legend-of-caocao.json) |
+| Romance Protocol | 399380 | [399380-romance-protocol.json](./399380-romance-protocol.json) |
 | Romance with Chocolate - Hidden Objects | 55794 | [55794-romance-with-chocolate-hidden-objects.json](./55794-romance-with-chocolate-hidden-objects.json) |
 | Romancelvania: Deluxe Edition | 241314 | [241314-romancelvania-deluxe-edition.json](./241314-romancelvania-deluxe-edition.json) |
 | Romancia: Another Legend | 71968 | [71968-romancia-another-legend.json](./71968-romancia-another-legend.json) |
@@ -10255,6 +10262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronnarium | 263758 | [263758-ronnarium.json](./263758-ronnarium.json) |
 | Ronnie O'Sullivan's Snooker | 312350 | [312350-ronnie-osullivans-snooker.json](./312350-ronnie-osullivans-snooker.json) |
 | Ronnie O'Sullivan's Snooker | 64669 | [64669-ronnie-osullivans-snooker.json](./64669-ronnie-osullivans-snooker.json) |
+| Ronny & Julia | 399389 | [399389-ronny-and-julia.json](./399389-ronny-and-julia.json) |
 | Ronny Runs Around Robots | 53526 | [53526-ronny-runs-around-robots.json](./53526-ronny-runs-around-robots.json) |
 | Ronny's Climb | 291079 | [291079-ronnys-climb.json](./291079-ronnys-climb.json) |
 | Ronshade | 264639 | [264639-ronshade.json](./264639-ronshade.json) |
@@ -10359,6 +10367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Service | 343231 | [343231-room-service.json](./343231-room-service.json) |
 | Room Service | 54819 | [54819-room-service.json](./54819-room-service.json) |
 | Room Ten | 31181 | [31181-room-ten.json](./31181-room-ten.json) |
+| Room to Breathe | 399382 | [399382-room-to-breathe.json](./399382-room-to-breathe.json) |
 | Room to Grow | 143916 | [143916-room-to-grow.json](./143916-room-to-grow.json) |
 | Room with Lina | 370861 | [370861-room-with-lina.json](./370861-room-with-lina.json) |
 | Room XIII | 360042 | [360042-room-xiii.json](./360042-room-xiii.json) |
@@ -11547,6 +11556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rummel & Rabalder: Dr. Franks Mask | 154830 | [154830-rummel-and-rabalder-dr-franks-mask.json](./154830-rummel-and-rabalder-dr-franks-mask.json) |
 | Rummel & Rabalder: I Snarkofagens Skugga | 154832 | [154832-rummel-and-rabalder-i-snarkofagens-skugga.json](./154832-rummel-and-rabalder-i-snarkofagens-skugga.json) |
 | Rummel & Rabalder: Jakten på Kapten Hanssons Guld | 154827 | [154827-rummel-and-rabalder-jakten-pa-kapten-hanssons-guld.json](./154827-rummel-and-rabalder-jakten-pa-kapten-hanssons-guld.json) |
+| Rummel & Rabalder: SkumCity | 399390 | [399390-rummel-and-rabalder-skumcity.json](./399390-rummel-and-rabalder-skumcity.json) |
 | Rummi | 181530 | [181530-rummi.json](./181530-rummi.json) |
 | Rummikub | 243274 | [243274-rummikub.json](./243274-rummikub.json) |
 | Rummix | 387075 | [387075-rummix.json](./387075-rummix.json) |
