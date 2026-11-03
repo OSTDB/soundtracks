@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walto | 391237 | [391237-walto.json](./391237-walto.json) |
 | Waltz and Jam | 288479 | [288479-waltz-and-jam.json](./288479-waltz-and-jam.json) |
 | Waltz of the Wizard | 119994 | [119994-waltz-of-the-wizard.json](./119994-waltz-of-the-wizard.json) |
+| Waluigi World | 381751 | [381751-waluigi-world.json](./381751-waluigi-world.json) |
 | Waluigi's Road to Glory: Horlogic Will Go On | 260819 | [260819-waluigis-road-to-glory-horlogic-will-go-on.json](./260819-waluigis-road-to-glory-horlogic-will-go-on.json) |
 | Waluigi's Taco Stand | 135227 | [135227-waluigis-taco-stand.json](./135227-waluigis-taco-stand.json) |
 | Waluigi's Wadventure | 269772 | [269772-waluigis-wadventure.json](./269772-waluigis-wadventure.json) |
