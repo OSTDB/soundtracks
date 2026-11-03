@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Packing Shift | 419747 | [419747-packing-shift.json](./419747-packing-shift.json) |
 | Packit List | 341601 | [341601-packit-list.json](./341601-packit-list.json) |
 | Packmates | 366231 | [366231-packmates.json](./366231-packmates.json) |
+| Packonomy | 374196 | [374196-packonomy.json](./374196-packonomy.json) |
 | Packri Monster | 347688 | [347688-packri-monster.json](./347688-packri-monster.json) |
 | Packs Adventure | 100295 | [100295-packs-adventure.json](./100295-packs-adventure.json) |
 | Packs Land | 98825 | [98825-packs-land.json](./98825-packs-land.json) |
@@ -4916,6 +4917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
 | Phage Wars | 154817 | [154817-phage-wars.json](./154817-phage-wars.json) |
 | Phageplay Basic | 409707 | [409707-phageplay-basic.json](./409707-phageplay-basic.json) |
+| PhaigeX: Confiners | 374195 | [374195-phaigex-confiners.json](./374195-phaigex-confiners.json) |
 | PhaigeX: Hyperspace Survivors | 242602 | [242602-phaigex-hyperspace-survivors.json](./242602-phaigex-hyperspace-survivors.json) |
 | Phalanstery | 74286 | [74286-phalanstery.json](./74286-phalanstery.json) |
 | Phalanx | 6532 | [6532-phalanx.json](./6532-phalanx.json) |
@@ -16066,6 +16068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Killer | 74033 | [74033-psycho-killer.json](./74033-psycho-killer.json) |
 | Psycho Logy | 294750 | [294750-psycho-logy.json](./294750-psycho-logy.json) |
 | Psycho on the loose | 30036 | [30036-psycho-on-the-loose.json](./30036-psycho-on-the-loose.json) |
+| Psycho Partisans: Officer Nirvana | 374344 | [374344-psycho-partisans-officer-nirvana.json](./374344-psycho-partisans-officer-nirvana.json) |
 | Psycho Pigs | 59949 | [59949-psycho-pigs.json](./59949-psycho-pigs.json) |
 | Psycho Reign | 216939 | [216939-psycho-reign.json](./216939-psycho-reign.json) |
 | Psycho Santa | 66394 | [66394-psycho-santa.json](./66394-psycho-santa.json) |
@@ -17913,6 +17916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyroclysm | 54271 | [54271-pyroclysm.json](./54271-pyroclysm.json) |
 | Pyromancer | 124580 | [124580-pyromancer.json](./124580-pyromancer.json) |
 | Pyromania | 325671 | [325671-pyromania.json](./325671-pyromania.json) |
+| Pyromaniac | 374317 | [374317-pyromaniac.json](./374317-pyromaniac.json) |
 | Pyromaniacs | 110190 | [110190-pyromaniacs.json](./110190-pyromaniacs.json) |
 | Pyromasters | 387292 | [387292-pyromasters.json](./387292-pyromasters.json) |
 | PyroMind | 103051 | [103051-pyromind.json](./103051-pyromind.json) |
