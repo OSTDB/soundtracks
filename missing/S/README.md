@@ -2440,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scalebound | 264882 | [264882-scalebound.json](./264882-scalebound.json) |
 | Scalebound | 7345 | [7345-scalebound.json](./7345-scalebound.json) |
 | ScaleBox | 344714 | [344714-scalebox.json](./344714-scalebox.json) |
+| Scaledeep | 399997 | [399997-scaledeep.json](./399997-scaledeep.json) |
 | ScaleMan | 223920 | [223920-scaleman.json](./223920-scaleman.json) |
 | Scalemarch | 356012 | [356012-scalemarch.json](./356012-scalemarch.json) |
 | Scaleplanet | 201411 | [201411-scaleplanet.json](./201411-scaleplanet.json) |
@@ -6035,6 +6036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Beach 3 Plus | 22463 | [22463-sexy-beach-3-plus.json](./22463-sexy-beach-3-plus.json) |
 | Sexy Beach Premium Resort | 22485 | [22485-sexy-beach-premium-resort.json](./22485-sexy-beach-premium-resort.json) |
 | Sexy Beach Zero | 22423 | [22423-sexy-beach-zero.json](./22423-sexy-beach-zero.json) |
+| Sexy Beaches | 399349 | [399349-sexy-beaches.json](./399349-sexy-beaches.json) |
 | Sexy Beats | 301656 | [301656-sexy-beats.json](./301656-sexy-beats.json) |
 | Sexy Blackjack | 288056 | [288056-sexy-blackjack.json](./288056-sexy-blackjack.json) |
 | Sexy Blonde | 370759 | [370759-sexy-blonde.json](./370759-sexy-blonde.json) |
@@ -9122,6 +9124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrouded | 26791 | [26791-shrouded.json](./26791-shrouded.json) |
 | Shrouded Aspect | 345146 | [345146-shrouded-aspect.json](./345146-shrouded-aspect.json) |
 | Shrouded in Sanity: Freebirth | 90178 | [90178-shrouded-in-sanity-freebirth.json](./90178-shrouded-in-sanity-freebirth.json) |
+| Shrouded Lands | 399998 | [399998-shrouded-lands.json](./399998-shrouded-lands.json) |
 | Shrouded Mind | 297979 | [297979-shrouded-mind.json](./297979-shrouded-mind.json) |
 | Shrouded Siege | 374052 | [374052-shrouded-siege.json](./374052-shrouded-siege.json) |
 | Shrouded Space | 300335 | [300335-shrouded-space.json](./300335-shrouded-space.json) |
@@ -13543,6 +13546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Realm | 402941 | [402941-smash-realm.json](./402941-smash-realm.json) |
 | Smash Remix | 132637 | [132637-smash-remix.json](./132637-smash-remix.json) |
 | Smash Remix +Extra | 413132 | [413132-smash-remix-extra.json](./413132-smash-remix-extra.json) |
+| Smash Remix: Project Galleon | 399949 | [399949-smash-remix-project-galleon.json](./399949-smash-remix-project-galleon.json) |
 | Smash Remix: Version 1.1.0 | 255783 | [255783-smash-remix-version-1-1-0.json](./255783-smash-remix-version-1-1-0.json) |
 | Smash Remix: Version 1.2.0 | 255784 | [255784-smash-remix-version-1-2-0.json](./255784-smash-remix-version-1-2-0.json) |
 | Smash Remix: Version 1.3.0 | 255786 | [255786-smash-remix-version-1-3-0.json](./255786-smash-remix-version-1-3-0.json) |
@@ -13718,6 +13722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smog City | 313958 | [313958-smog-city.json](./313958-smog-city.json) |
 | Smogland | 44095 | [44095-smogland.json](./44095-smogland.json) |
 | Smok: Legend of the Laid-Back Heroes | 216298 | [216298-smok-legend-of-the-laid-back-heroes.json](./216298-smok-legend-of-the-laid-back-heroes.json) |
+| Smoke & Lottery Simulator | 399354 | [399354-smoke-and-lottery-simulator.json](./399354-smoke-and-lottery-simulator.json) |
 | Smoke and Mirrors | 356784 | [356784-smoke-and-mirrors.json](./356784-smoke-and-mirrors.json) |
 | Smoke and Sacrifice | 86442 | [86442-smoke-and-sacrifice.json](./86442-smoke-and-sacrifice.json) |
 | Smoke and Steel | 419598 | [419598-smoke-and-steel.json](./419598-smoke-and-steel.json) |
@@ -15392,6 +15397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Revival | 193892 | [193892-solar-revival.json](./193892-solar-revival.json) |
 | Solar Rogue | 133421 | [133421-solar-rogue.json](./133421-solar-rogue.json) |
 | Solar Sails | 171937 | [171937-solar-sails.json](./171937-solar-sails.json) |
+| Solar Sandbox | 399946 | [399946-solar-sandbox.json](./399946-solar-sandbox.json) |
 | Solar Savage | 347891 | [347891-solar-savage.json](./347891-solar-savage.json) |
 | Solar Scion | 139010 | [139010-solar-scion.json](./139010-solar-scion.json) |
 | Solar Siege | 56260 | [56260-solar-siege.json](./56260-solar-siege.json) |
@@ -19390,6 +19396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spare Parts: Episode 1 | 162854 | [162854-spare-parts-episode-1.json](./162854-spare-parts-episode-1.json) |
 | Spare Parts: Episode 2 | 162855 | [162855-spare-parts-episode-2.json](./162855-spare-parts-episode-2.json) |
 | Spare Teeth VR | 116203 | [116203-spare-teeth-vr.json](./116203-spare-teeth-vr.json) |
+| Spared without Mercy | 399992 | [399992-spared-without-mercy.json](./399992-spared-without-mercy.json) |
 | Spared! | 330112 | [330112-spared.json](./330112-spared.json) |
 | Sparedevil | 303840 | [303840-sparedevil.json](./303840-sparedevil.json) |
 | Spareware | 31224 | [31224-spareware.json](./31224-spareware.json) |
@@ -20275,6 +20282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spherocious | 285309 | [285309-spherocious.json](./285309-spherocious.json) |
 | Spheroid | 100149 | [100149-spheroid.json](./100149-spheroid.json) |
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
+| Spheroll | 399340 | [399340-spheroll.json](./399340-spheroll.json) |
 | Spheromania | 378361 | [378361-spheromania.json](./378361-spheromania.json) |
 | Spherythm | 118456 | [118456-spherythm.json](./118456-spherythm.json) |
 | Sphex: Minimal Arcade Game | 307429 | [307429-sphex-minimal-arcade-game.json](./307429-sphex-minimal-arcade-game.json) |
@@ -24410,6 +24418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Tooned! | 13786 | [13786-stay-tooned.json](./13786-stay-tooned.json) |
 | Stay With Him | 415505 | [415505-stay-with-him.json](./415505-stay-with-him.json) |
 | Stay With Me | 184308 | [184308-stay-with-me.json](./184308-stay-with-me.json) |
+| Stay With Me | 399358 | [399358-stay-with-me.json](./399358-stay-with-me.json) |
 | Stay With Me | 422473 | [422473-stay-with-me.json](./422473-stay-with-me.json) |
 | Stay with Me!: An Alien Abduction Story | 192638 | [192638-stay-with-me-an-alien-abduction-story.json](./192638-stay-with-me-an-alien-abduction-story.json) |
 | Stay Woke Etheral Edition | 75499 | [75499-stay-woke-etheral-edition.json](./75499-stay-woke-etheral-edition.json) |
@@ -24989,6 +24998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: MegaCorp | 111331 | [111331-stellaris-megacorp.json](./111331-stellaris-megacorp.json) |
 | Stellaris: Necroids Species Pack | 148799 | [148799-stellaris-necroids-species-pack.json](./148799-stellaris-necroids-species-pack.json) |
 | Stellaris: Nemesis | 148794 | [148794-stellaris-nemesis.json](./148794-stellaris-nemesis.json) |
+| Stellaris: Nomads | 399970 | [399970-stellaris-nomads.json](./399970-stellaris-nomads.json) |
 | Stellaris: Nova Edition | 53671 | [53671-stellaris-nova-edition.json](./53671-stellaris-nova-edition.json) |
 | Stellaris: Overlord | 196297 | [196297-stellaris-overlord.json](./196297-stellaris-overlord.json) |
 | Stellaris: Plantoids | 53669 | [53669-stellaris-plantoids.json](./53669-stellaris-plantoids.json) |
@@ -32592,6 +32602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
 | Suspension Railroad Simulator | 85414 | [85414-suspension-railroad-simulator.json](./85414-suspension-railroad-simulator.json) |
 | Suspicious Downpour | 152462 | [152462-suspicious-downpour.json](./152462-suspicious-downpour.json) |
+| Suspicious Holes | 399994 | [399994-suspicious-holes.json](./399994-suspicious-holes.json) |
 | Suspicious Person Information | 275904 | [275904-suspicious-person-information.json](./275904-suspicious-person-information.json) |
 | Suspicious Shuffle | 219557 | [219557-suspicious-shuffle.json](./219557-suspicious-shuffle.json) |
 | Suspicious Slide | 127575 | [127575-suspicious-slide.json](./127575-suspicious-slide.json) |
