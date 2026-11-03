@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider Battle Rush | 304337 | [304337-kamen-rider-battle-rush.json](./304337-kamen-rider-battle-rush.json) |
 | Kamen Rider Battle: Ganbaride | 83930 | [83930-kamen-rider-battle-ganbaride.json](./83930-kamen-rider-battle-ganbaride.json) |
 | Kamen Rider Battle: Ganbaride Card Battle Taisen | 61916 | [61916-kamen-rider-battle-ganbaride-card-battle-taisen.json](./61916-kamen-rider-battle-ganbaride-card-battle-taisen.json) |
+| Kamen Rider Black RX: Isoge! Crisis Teikoku | 385509 | [385509-kamen-rider-black-rx-isoge-crisis-teikoku.json](./385509-kamen-rider-black-rx-isoge-crisis-teikoku.json) |
 | Kamen Rider Black: Hissatsu Rider Kick | 385754 | [385754-kamen-rider-black-hissatsu-rider-kick.json](./385754-kamen-rider-black-hissatsu-rider-kick.json) |
 | Kamen Rider Black: Taiketsu Shadow Moon | 41264 | [41264-kamen-rider-black-taiketsu-shadow-moon.json](./41264-kamen-rider-black-taiketsu-shadow-moon.json) |
 | Kamen Rider Blade | 59003 | [59003-kamen-rider-blade.json](./59003-kamen-rider-blade.json) |
@@ -2202,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Senshi Gundam: Senjou No Kizuna Portable | 56744 | [56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json](./56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json) |
 | Kidou Senshi Gundam: Senshi-tachi no Kiseki | 3965 | [3965-kidou-senshi-gundam-senshi-tachi-no-kiseki.json](./3965-kidou-senshi-gundam-senshi-tachi-no-kiseki.json) |
 | Kidou Senshi V-Gundam | 42518 | [42518-kidou-senshi-v-gundam.json](./42518-kidou-senshi-v-gundam.json) |
+| Kidou Senshi Z Gundam: Gryps no Koubou | 385760 | [385760-kidou-senshi-z-gundam-gryps-no-koubou.json](./385760-kidou-senshi-z-gundam-gryps-no-koubou.json) |
 | Kidou Senshi Z Gundam: Hot Scramble | 48423 | [48423-kidou-senshi-z-gundam-hot-scramble.json](./48423-kidou-senshi-z-gundam-hot-scramble.json) |
 | Kidou Senshi Z-Gundam: Away to the NewType | 42517 | [42517-kidou-senshi-z-gundam-away-to-the-newtype.json](./42517-kidou-senshi-z-gundam-away-to-the-newtype.json) |
 | Kidou Shinsengumi: Moeyo Ken | 370867 | [370867-kidou-shinsengumi-moeyo-ken.json](./370867-kidou-shinsengumi-moeyo-ken.json) |
@@ -3723,6 +3725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiro Ramy Story: The Junior | 123582 | [123582-kiro-ramy-story-the-junior.json](./123582-kiro-ramy-story-the-junior.json) |
 | Kiru Kiru Kiru | 257913 | [257913-kiru-kiru-kiru.json](./257913-kiru-kiru-kiru.json) |
 | Kirubiru | 93420 | [93420-kirubiru.json](./93420-kirubiru.json) |
+| Kisaragi | 385512 | [385512-kisaragi.json](./385512-kisaragi.json) |
 | Kisaragi Gold Star: Nonstop Go Go!! | 272535 | [272535-kisaragi-gold-star-nonstop-go-go.json](./272535-kisaragi-gold-star-nonstop-go-go.json) |
 | Kisaragi no Hougyoku | 32132 | [32132-kisaragi-no-hougyoku.json](./32132-kisaragi-no-hougyoku.json) |
 | Kisaragi's Dangerously Erotic Certification Exam! Resistance Is Futile | 82752 | [82752-kisaragis-dangerously-erotic-certification-exam-resistance-is-futile.json](./82752-kisaragis-dangerously-erotic-certification-exam-resistance-is-futile.json) |
