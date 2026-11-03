@@ -3686,6 +3686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femboy Besties | 156318 | [156318-femboy-besties.json](./156318-femboy-besties.json) |
 | Femboy Called It “Massage” | 370477 | [370477-femboy-called-it-massage.json](./370477-femboy-called-it-massage.json) |
 | Femboy Fun | 231782 | [231782-femboy-fun.json](./231782-femboy-fun.json) |
+| Femboy Fury | 377550 | [377550-femboy-fury.json](./377550-femboy-fury.json) |
 | Femboy Futa House: Dirty Election | 378216 | [378216-femboy-futa-house-dirty-election.json](./378216-femboy-futa-house-dirty-election.json) |
 | Femboy Next Door | 405697 | [405697-femboy-next-door.json](./405697-femboy-next-door.json) |
 | Femboys of the Phalanx | 171068 | [171068-femboys-of-the-phalanx.json](./171068-femboys-of-the-phalanx.json) |
@@ -4736,6 +4737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy III | 340019 | [340019-final-fantasy-iii.json](./340019-final-fantasy-iii.json) |
 | Final Fantasy III | 77234 | [77234-final-fantasy-iii.json](./77234-final-fantasy-iii.json) |
 | Final Fantasy III + Final Fantasy IV: Double Pack Edition | 301387 | [301387-final-fantasy-iii-final-fantasy-iv-double-pack-edition.json](./301387-final-fantasy-iii-final-fantasy-iv-double-pack-edition.json) |
+| Final Fantasy III/VI Rumble | 377732 | [377732-final-fantasy-iii-vi-rumble.json](./377732-final-fantasy-iii-vi-rumble.json) |
 | Final Fantasy IV | 282725 | [282725-final-fantasy-iv.json](./282725-final-fantasy-iv.json) |
 | Final Fantasy IV | 283093 | [283093-final-fantasy-iv.json](./283093-final-fantasy-iv.json) |
 | Final Fantasy IV | 283313 | [283313-final-fantasy-iv.json](./283313-final-fantasy-iv.json) |
@@ -10348,6 +10350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FourFeather | 322442 | [322442-fourfeather.json](./322442-fourfeather.json) |
 | Fourfit | 92983 | [92983-fourfit.json](./92983-fourfit.json) |
 | FourFourTwo Touchline Passion | 68711 | [68711-fourfourtwo-touchline-passion.json](./68711-fourfourtwo-touchline-passion.json) |
+| Fourleaf Fields | 377540 | [377540-fourleaf-fields.json](./377540-fourleaf-fields.json) |
 | FourPlay Chess | 193236 | [193236-fourplay-chess.json](./193236-fourplay-chess.json) |
 | Foursite | 273735 | [273735-foursite.json](./273735-foursite.json) |
 | Fourspell Survivors Online | 224247 | [224247-fourspell-survivors-online.json](./224247-fourspell-survivors-online.json) |
@@ -11317,6 +11320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': Super Idol | 231382 | [231382-friday-night-funkin-super-idol.json](./231382-friday-night-funkin-super-idol.json) |
 | Friday Night Funkin': The Trollge Files | 221226 | [221226-friday-night-funkin-the-trollge-files.json](./221226-friday-night-funkin-the-trollge-files.json) |
 | Friday Night Funkin': The X Event | 329152 | [329152-friday-night-funkin-the-x-event.json](./329152-friday-night-funkin-the-x-event.json) |
+| Friday Night Funkin': V.S Cat Mangle YT | 377551 | [377551-friday-night-funkin-v-s-cat-mangle-yt.json](./377551-friday-night-funkin-v-s-cat-mangle-yt.json) |
 | Friday Night Funkin': V.S. Father Foundest | 200665 | [200665-friday-night-funkin-v-s-father-foundest.json](./200665-friday-night-funkin-v-s-father-foundest.json) |
 | Friday Night Funkin': V.S. Neco-Arc | 203230 | [203230-friday-night-funkin-v-s-neco-arc.json](./203230-friday-night-funkin-v-s-neco-arc.json) |
 | Friday Night Funkin': V.S. Whitty | 165075 | [165075-friday-night-funkin-v-s-whitty.json](./165075-friday-night-funkin-v-s-whitty.json) |
