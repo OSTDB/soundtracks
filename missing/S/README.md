@@ -2448,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scab | 402285 | [402285-scab.json](./402285-scab.json) |
 | SCAD | 309936 | [309936-scad.json](./309936-scad.json) |
 | Scaffold | 400460 | [400460-scaffold.json](./400460-scaffold.json) |
+| Scaffold Now | 364811 | [364811-scaffold-now.json](./364811-scaffold-now.json) |
 | Scaffolder | 195056 | [195056-scaffolder.json](./195056-scaffolder.json) |
 | Scalak | 100543 | [100543-scalak.json](./100543-scalak.json) |
 | Scale | 88773 | [88773-scale.json](./88773-scale.json) |
@@ -9615,6 +9616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Swipers | 280783 | [280783-side-swipers.json](./280783-side-swipers.json) |
 | Side to Side | 128569 | [128569-side-to-side.json](./128569-side-to-side.json) |
 | Side Trak | 39517 | [39517-side-trak.json](./39517-side-trak.json) |
+| Side Walls Multi Kicks | 364812 | [364812-side-walls-multi-kicks.json](./364812-side-walls-multi-kicks.json) |
 | Side Whoop | 390656 | [390656-side-whoop.json](./390656-side-whoop.json) |
 | Sidecar Evolution 2024 | 254900 | [254900-sidecar-evolution-2024.json](./254900-sidecar-evolution-2024.json) |
 | Sidecar Evolution 2025 | 385834 | [385834-sidecar-evolution-2025.json](./385834-sidecar-evolution-2025.json) |
@@ -19075,6 +19077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Savory | 412084 | [412084-space-savory.json](./412084-space-savory.json) |
 | Space Scaven | 33156 | [33156-space-scaven.json](./33156-space-scaven.json) |
 | Space Scavenger | 113597 | [113597-space-scavenger.json](./113597-space-scavenger.json) |
+| Space Scavenger Origins | 364813 | [364813-space-scavenger-origins.json](./364813-space-scavenger-origins.json) |
 | Space Scavengers | 278471 | [278471-space-scavengers.json](./278471-space-scavengers.json) |
 | Space Science Investigations | 215211 | [215211-space-science-investigations.json](./215211-space-science-investigations.json) |
 | Space Scrap Shuffle | 183351 | [183351-space-scrap-shuffle.json](./183351-space-scrap-shuffle.json) |
@@ -26668,6 +26671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Cleaner 3 | 305382 | [305382-street-cleaner-3.json](./305382-street-cleaner-3.json) |
 | Street Cleaning Simulator | 65867 | [65867-street-cleaning-simulator.json](./65867-street-cleaning-simulator.json) |
 | Street Combat Fighting | 386541 | [386541-street-combat-fighting.json](./386541-street-combat-fighting.json) |
+| Street Combat: Ultimate MMA Fighters | 364814 | [364814-street-combat-ultimate-mma-fighters.json](./364814-street-combat-ultimate-mma-fighters.json) |
 | Street Cop | 48236 | [48236-street-cop.json](./48236-street-cop.json) |
 | Street Corner Heartbeat Snaps | 416070 | [416070-street-corner-heartbeat-snaps.json](./416070-street-corner-heartbeat-snaps.json) |
 | Street Cred Boxing | 415807 | [415807-street-cred-boxing.json](./415807-street-cred-boxing.json) |
@@ -32813,6 +32817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors | 265811 | [265811-survivors.json](./265811-survivors.json) |
 | Survivors | 291906 | [291906-survivors.json](./291906-survivors.json) |
 | Survivors | 292413 | [292413-survivors.json](./292413-survivors.json) |
+| Survivors Dawn: Zombie World | 364787 | [364787-survivors-dawn-zombie-world.json](./364787-survivors-dawn-zombie-world.json) |
 | Survivors Gate | 390865 | [390865-survivors-gate.json](./390865-survivors-gate.json) |
 | Survivors Guild | 389352 | [389352-survivors-guild.json](./389352-survivors-guild.json) |
 | Survivors in Blood | 296532 | [296532-survivors-in-blood.json](./296532-survivors-in-blood.json) |
@@ -33479,6 +33484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetie Candy Maze: Blueberry | 387747 | [387747-sweetie-candy-maze-blueberry.json](./387747-sweetie-candy-maze-blueberry.json) |
 | Sweetie Candy Maze: Brown Chocolate | 398322 | [398322-sweetie-candy-maze-brown-chocolate.json](./398322-sweetie-candy-maze-brown-chocolate.json) |
 | Sweetie Candy Maze: Crimson Strawberry | 418576 | [418576-sweetie-candy-maze-crimson-strawberry.json](./418576-sweetie-candy-maze-crimson-strawberry.json) |
+| Sweetie Candy Maze: Green Apple | 364770 | [364770-sweetie-candy-maze-green-apple.json](./364770-sweetie-candy-maze-green-apple.json) |
 | Sweetie Candy Maze: Lime | 399728 | [399728-sweetie-candy-maze-lime.json](./399728-sweetie-candy-maze-lime.json) |
 | Sweetie Candy Maze: Orange | 357201 | [357201-sweetie-candy-maze-orange.json](./357201-sweetie-candy-maze-orange.json) |
 | Sweetie Candy Maze: Pink Raspberry | 387750 | [387750-sweetie-candy-maze-pink-raspberry.json](./387750-sweetie-candy-maze-pink-raspberry.json) |
