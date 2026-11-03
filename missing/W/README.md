@@ -2420,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterworld | 133281 | [133281-waterworld.json](./133281-waterworld.json) |
 | Waterworld | 265035 | [265035-waterworld.json](./265035-waterworld.json) |
 | Waterworld | 338817 | [338817-waterworld.json](./338817-waterworld.json) |
+| Waterworld | 388690 | [388690-waterworld.json](./388690-waterworld.json) |
 | Waterworld: The Quest for Dry Land | 64847 | [64847-waterworld-the-quest-for-dry-land.json](./64847-waterworld-the-quest-for-dry-land.json) |
 | Wathitdew Record: Game Studio - Battlefield | 254638 | [254638-wathitdew-record-game-studio-battlefield.json](./254638-wathitdew-record-game-studio-battlefield.json) |
 | Watris | 306037 | [306037-watris.json](./306037-watris.json) |
@@ -7409,6 +7410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordSearch Story: Chapter 1 | 213325 | [213325-wordsearch-story-chapter-1.json](./213325-wordsearch-story-chapter-1.json) |
 | Wordslop | 402911 | [402911-wordslop.json](./402911-wordslop.json) |
 | Wordsmith | 224682 | [224682-wordsmith.json](./224682-wordsmith.json) |
+| WordsNoir | 388770 | [388770-wordsnoir.json](./388770-wordsnoir.json) |
 | Wordsock Classic | 253431 | [253431-wordsock-classic.json](./253431-wordsock-classic.json) |
 | Wordspionage | 175391 | [175391-wordspionage.json](./175391-wordspionage.json) |
 | WordSpiral | 227777 | [227777-wordspiral.json](./227777-wordspiral.json) |
