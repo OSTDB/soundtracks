@@ -3860,6 +3860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon All-Star Brawl: Turbo Mode | 330975 | [330975-nickelodeon-all-star-brawl-turbo-mode.json](./330975-nickelodeon-all-star-brawl-turbo-mode.json) |
 | Nickelodeon All-Star Brawl: Ultimate Edition | 225326 | [225326-nickelodeon-all-star-brawl-ultimate-edition.json](./225326-nickelodeon-all-star-brawl-ultimate-edition.json) |
 | Nickelodeon Brain Bender Puzzles & Activities | 206474 | [206474-nickelodeon-brain-bender-puzzles-and-activities.json](./206474-nickelodeon-brain-bender-puzzles-and-activities.json) |
+| Nickelodeon Card Clash | 382944 | [382944-nickelodeon-card-clash.json](./382944-nickelodeon-card-clash.json) |
 | Nickelodeon Dance | 20240 | [20240-nickelodeon-dance.json](./20240-nickelodeon-dance.json) |
 | Nickelodeon Director's Lab | 243145 | [243145-nickelodeon-directors-lab.json](./243145-nickelodeon-directors-lab.json) |
 | Nickelodeon DVD Bingo | 77045 | [77045-nickelodeon-dvd-bingo.json](./77045-nickelodeon-dvd-bingo.json) |
