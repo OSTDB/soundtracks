@@ -2782,6 +2782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Line of My Heart | 189973 | [189973-in-the-line-of-my-heart.json](./189973-in-the-line-of-my-heart.json) |
 | In the Long Run: The Game | 104525 | [104525-in-the-long-run-the-game.json](./104525-in-the-long-run-the-game.json) |
 | In the Loop | 364678 | [364678-in-the-loop.json](./364678-in-the-loop.json) |
+| In the Middle of Ages | 383334 | [383334-in-the-middle-of-ages.json](./383334-in-the-middle-of-ages.json) |
 | In the Midnight Light | 200350 | [200350-in-the-midnight-light.json](./200350-in-the-midnight-light.json) |
 | In the Midst of a Neverending Season | 369052 | [369052-in-the-midst-of-a-neverending-season.json](./369052-in-the-midst-of-a-neverending-season.json) |
 | In the Midst of Ratings | 66749 | [66749-in-the-midst-of-ratings.json](./66749-in-the-midst-of-ratings.json) |
@@ -6023,6 +6024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolated | 283144 | [283144-isolated.json](./283144-isolated.json) |
 | Isolated | 86116 | [86116-isolated.json](./86116-isolated.json) |
 | Isolated Hours | 381855 | [381855-isolated-hours.json](./381855-isolated-hours.json) |
+| Isolated Inhale | 383329 | [383329-isolated-inhale.json](./383329-isolated-inhale.json) |
 | Isolated Island | 114300 | [114300-isolated-island.json](./114300-isolated-island.json) |
 | Isolated Island: After the Flood | 412908 | [412908-isolated-island-after-the-flood.json](./412908-isolated-island-after-the-flood.json) |
 | Isolated Life | 156119 | [156119-isolated-life.json](./156119-isolated-life.json) |
