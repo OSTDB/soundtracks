@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCQ | 216272 | [216272-tcq.json](./216272-tcq.json) |
 | TCStrikers5 | 339414 | [339414-tcstrikers5.json](./339414-tcstrikers5.json) |
 | TD GoGoGo | 200825 | [200825-td-gogogo.json](./200825-td-gogogo.json) |
+| TD Master | 397005 | [397005-td-master.json](./397005-td-master.json) |
 | TD Overdrive: The Brotherhood of Speed | 6191 | [6191-td-overdrive-the-brotherhood-of-speed.json](./6191-td-overdrive-the-brotherhood-of-speed.json) |
 | TD Quest | 233092 | [233092-td-quest.json](./233092-td-quest.json) |
 | TD Royale | 253525 | [253525-td-royale.json](./253525-td-royale.json) |
@@ -30665,6 +30666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Golf Racing | 194736 | [194736-turbo-golf-racing.json](./194736-turbo-golf-racing.json) |
 | Turbo Golf Racing: Deep Space Bundle | 295641 | [295641-turbo-golf-racing-deep-space-bundle.json](./295641-turbo-golf-racing-deep-space-bundle.json) |
 | Turbo Golf Racing: Ultimate Bundle | 295642 | [295642-turbo-golf-racing-ultimate-bundle.json](./295642-turbo-golf-racing-ultimate-bundle.json) |
+| Turbo Granny | 396982 | [396982-turbo-granny.json](./396982-turbo-granny.json) |
 | Turbo Grid | 236981 | [236981-turbo-grid.json](./236981-turbo-grid.json) |
 | Turbo GT | 94635 | [94635-turbo-gt.json](./94635-turbo-gt.json) |
 | Turbo Hills | 409299 | [409299-turbo-hills.json](./409299-turbo-hills.json) |
