@@ -6037,6 +6037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alekhine's Gun | 15691 | [15691-alekhines-gun.json](./15691-alekhines-gun.json) |
 | Alekon | 151066 | [151066-alekon.json](./151066-alekon.json) |
 | Alembix TCG | 424671 | [424671-alembix-tcg.json](./424671-alembix-tcg.json) |
+| Alentejo: The Tinto & The Ugly | 374551 | [374551-alentejo-the-tinto-and-the-ugly.json](./374551-alentejo-the-tinto-and-the-ugly.json) |
 | Alentejo: Tinto's Law | 325876 | [325876-alentejo-tintos-law.json](./325876-alentejo-tintos-law.json) |
 | Aleon's Nightmare | 211408 | [211408-aleons-nightmare.json](./211408-aleons-nightmare.json) |
 | Aleon's Nightmare 2 | 239663 | [239663-aleons-nightmare-2.json](./239663-aleons-nightmare-2.json) |
@@ -12850,6 +12851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argo Adventure | 120885 | [120885-argo-adventure.json](./120885-argo-adventure.json) |
 | Argo Checkers | 73443 | [73443-argo-checkers.json](./73443-argo-checkers.json) |
 | Argo Online | 64268 | [64268-argo-online.json](./64268-argo-online.json) |
+| Argo's Choice | 374542 | [374542-argos-choice.json](./374542-argos-choice.json) |
 | Argol: Kronoss' Castle | 229807 | [229807-argol-kronoss-castle.json](./229807-argol-kronoss-castle.json) |
 | Argolis | 140940 | [140940-argolis.json](./140940-argolis.json) |
 | Argon Swamp | 137308 | [137308-argon-swamp.json](./137308-argon-swamp.json) |
@@ -13600,6 +13602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow Tourney | 127924 | [127924-arrow-tourney.json](./127924-arrow-tourney.json) |
 | Arrow Ventura VR | 132853 | [132853-arrow-ventura-vr.json](./132853-arrow-ventura-vr.json) |
 | Arrow War | 248104 | [248104-arrow-war.json](./248104-arrow-war.json) |
+| Arrow World | 374881 | [374881-arrow-world.json](./374881-arrow-world.json) |
 | Arrow: Button Heart | 417341 | [417341-arrow-button-heart.json](./417341-arrow-button-heart.json) |
 | Arrow.io | 86785 | [86785-arrow-io.json](./86785-arrow-io.json) |
 | ArrowBall | 172599 | [172599-arrowball.json](./172599-arrowball.json) |
@@ -14172,6 +14175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen Arrows | 211413 | [211413-ashen-arrows.json](./211413-ashen-arrows.json) |
 | Ashen Daughter | 349929 | [349929-ashen-daughter.json](./349929-ashen-daughter.json) |
 | Ashen Destiny | 364992 | [364992-ashen-destiny.json](./364992-ashen-destiny.json) |
+| Ashen Dungeon | 374877 | [374877-ashen-dungeon.json](./374877-ashen-dungeon.json) |
 | Ashen Falls | 78490 | [78490-ashen-falls.json](./78490-ashen-falls.json) |
 | Ashen Knights: Foreshadow | 211412 | [211412-ashen-knights-foreshadow.json](./211412-ashen-knights-foreshadow.json) |
 | Ashen Knights: One Passage | 211181 | [211181-ashen-knights-one-passage.json](./211181-ashen-knights-one-passage.json) |
@@ -15817,6 +15821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
