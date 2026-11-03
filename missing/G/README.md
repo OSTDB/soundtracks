@@ -6054,6 +6054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Rush | 352253 | [352253-gold-rush.json](./352253-gold-rush.json) |
 | Gold Rush Clicker | 264658 | [264658-gold-rush-clicker.json](./264658-gold-rush-clicker.json) |
 | Gold Rush in the Oort Cloud | 44298 | [44298-gold-rush-in-the-oort-cloud.json](./44298-gold-rush-in-the-oort-cloud.json) |
+| Gold Rush Ventures | 398099 | [398099-gold-rush-ventures.json](./398099-gold-rush-ventures.json) |
 | Gold Rush! | 12121 | [12121-gold-rush.json](./12121-gold-rush.json) |
 | Gold Rush! 2 | 29091 | [29091-gold-rush-2.json](./29091-gold-rush-2.json) |
 | Gold Rush! Anniversary | 36230 | [36230-gold-rush-anniversary.json](./36230-gold-rush-anniversary.json) |
@@ -6919,6 +6920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorilla Banana | 375451 | [375451-gorilla-banana.json](./375451-gorilla-banana.json) |
 | Gorilla Big Adventure | 147687 | [147687-gorilla-big-adventure.json](./147687-gorilla-big-adventure.json) |
 | Gorilla Cop | 392725 | [392725-gorilla-cop.json](./392725-gorilla-cop.json) |
+| Gorilla Galaxy | 398096 | [398096-gorilla-galaxy.json](./398096-gorilla-galaxy.json) |
 | Gorilla Guerrillas | 143919 | [143919-gorilla-guerrillas.json](./143919-gorilla-guerrillas.json) |
 | Gorilla Online! | 188402 | [188402-gorilla-online.json](./188402-gorilla-online.json) |
 | Gorilla Showdown | 396646 | [396646-gorilla-showdown.json](./396646-gorilla-showdown.json) |
