@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack Per Duck | 157092 | [157092-pack-per-duck.json](./157092-pack-per-duck.json) |
 | Pack Playlink That's You! + Knowledge is Power + Singstar Celebration + Hidden Agenda | 145334 | [145334-pack-playlink-thats-you-knowledge-is-power-singstar-celebration-hidden-agenda.json](./145334-pack-playlink-thats-you-knowledge-is-power-singstar-celebration-hidden-agenda.json) |
 | Pack Powersports | 112892 | [112892-pack-powersports.json](./112892-pack-powersports.json) |
+| Pack-a-Boom | 397515 | [397515-pack-a-boom.json](./397515-pack-a-boom.json) |
 | Pack'n Boy | 138652 | [138652-packn-boy.json](./138652-packn-boy.json) |
 | Package chaos | 411698 | [411698-package-chaos.json](./411698-package-chaos.json) |
 | Package Dudes | 234240 | [234240-package-dudes.json](./234240-package-dudes.json) |
@@ -527,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pact With a Witch | 118350 | [118350-pact-with-a-witch.json](./118350-pact-with-a-witch.json) |
 | Pactum + Episode 1 | 243532 | [243532-pactum-episode-1.json](./243532-pactum-episode-1.json) |
 | Pacula's Curse | 141478 | [141478-paculas-curse.json](./141478-paculas-curse.json) |
+| PacVenture | 397552 | [397552-pacventure.json](./397552-pacventure.json) |
 | PacWorm | 25140 | [25140-pacworm.json](./25140-pacworm.json) |
 | Pacwyn 20 | 130643 | [130643-pacwyn-20.json](./130643-pacwyn-20.json) |
 | Pacybits | 124662 | [124662-pacybits.json](./124662-pacybits.json) |
@@ -1057,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Punch | 190828 | [190828-panda-punch.json](./190828-panda-punch.json) |
 | Panda Push | 162868 | [162868-panda-push.json](./162868-panda-push.json) |
 | Panda Roll | 218665 | [218665-panda-roll.json](./218665-panda-roll.json) |
+| Panda Run | 397530 | [397530-panda-run.json](./397530-panda-run.json) |
 | Panda Run | 55267 | [55267-panda-run.json](./55267-panda-run.json) |
 | Panda vs Lightning | 98796 | [98796-panda-vs-lightning.json](./98796-panda-vs-lightning.json) |
 | Panda vs. Bugs | 196555 | [196555-panda-vs-bugs.json](./196555-panda-vs-bugs.json) |
