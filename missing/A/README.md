@@ -16,9 +16,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Army Base | 277571 | [277571-a-army-base.json](./277571-a-army-base.json) |
 | A Aventura Máxica de Merliño | 362969 | [362969-a-aventura-maxica-de-merlino.json](./362969-a-aventura-maxica-de-merlino.json) |
 | A Baby CEO?! | 391884 | [391884-a-baby-ceo.json](./391884-a-baby-ceo.json) |
+| A Bad Christmas Story | 379078 | [379078-a-bad-christmas-story.json](./379078-a-bad-christmas-story.json) |
 | A Bad Clicker | 337787 | [337787-a-bad-clicker.json](./337787-a-bad-clicker.json) |
 | A Bad Day | 180555 | [180555-a-bad-day.json](./180555-a-bad-day.json) |
 | A Bad Game of Football | 203751 | [203751-a-bad-game-of-football.json](./203751-a-bad-game-of-football.json) |
+| A Bad Space Game | 379079 | [379079-a-bad-space-game.json](./379079-a-bad-space-game.json) |
 | A Baker's Dungeon | 423363 | [423363-a-bakers-dungeon.json](./423363-a-bakers-dungeon.json) |
 | A Balloon Game | 266127 | [266127-a-balloon-game.json](./266127-a-balloon-game.json) |
 | A Bar Where Men Go To Be Turned Into Horses | 289163 | [289163-a-bar-where-men-go-to-be-turned-into-horses.json](./289163-a-bar-where-men-go-to-be-turned-into-horses.json) |
@@ -84,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Brief Tryst | 73658 | [73658-a-brief-tryst.json](./73658-a-brief-tryst.json) |
 | A Broken Halo | 216776 | [216776-a-broken-halo.json](./216776-a-broken-halo.json) |
 | A Broken Tale | 135579 | [135579-a-broken-tale.json](./135579-a-broken-tale.json) |
+| A Brown Rabbit's Story | 379080 | [379080-a-brown-rabbits-story.json](./379080-a-brown-rabbits-story.json) |
 | A Bug's Life | 205931 | [205931-a-bugs-life.json](./205931-a-bugs-life.json) |
 | A Bug's Life | 247330 | [247330-a-bugs-life.json](./247330-a-bugs-life.json) |
 | A Bug's Life | 2847 | [2847-a-bugs-life.json](./2847-a-bugs-life.json) |
@@ -9823,6 +9826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime RPG: Isekai Journey | 282156 | [282156-anime-rpg-isekai-journey.json](./282156-anime-rpg-isekai-journey.json) |
 | Anime School Chase Sim | 301215 | [301215-anime-school-chase-sim.json](./301215-anime-school-chase-sim.json) |
 | Anime School Girl Dating Sim | 296758 | [296758-anime-school-girl-dating-sim.json](./296758-anime-school-girl-dating-sim.json) |
+| Anime School Love: Her Teacher's Secret Lesson | 378950 | [378950-anime-school-love-her-teachers-secret-lesson.json](./378950-anime-school-love-her-teachers-secret-lesson.json) |
 | Anime School Love: His Teacher Secret Lesson | 378780 | [378780-anime-school-love-his-teacher-secret-lesson.json](./378780-anime-school-love-his-teacher-secret-lesson.json) |
 | Anime School Zombie Simulator | 296754 | [296754-anime-school-zombie-simulator.json](./296754-anime-school-zombie-simulator.json) |
 | Anime Sexy Girl Puzzle: Hentai Game History Adventure | 267371 | [267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json](./267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json) |
@@ -9847,6 +9851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Uni 3 | 328090 | [328090-anime-uni-3.json](./328090-anime-uni-3.json) |
 | Anime Uni 3D: Hot Vacay | 401560 | [401560-anime-uni-3d-hot-vacay.json](./401560-anime-uni-3d-hot-vacay.json) |
 | Anime Uni 4 | 375566 | [375566-anime-uni-4.json](./375566-anime-uni-4.json) |
+| Anime Uni 5 | 378747 | [378747-anime-uni-5.json](./378747-anime-uni-5.json) |
 | Anime Uni 6 3D | 389041 | [389041-anime-uni-6-3d.json](./389041-anime-uni-6-3d.json) |
 | Anime Uni 7: A Happy Valentine | 389351 | [389351-anime-uni-7-a-happy-valentine.json](./389351-anime-uni-7-a-happy-valentine.json) |
 | Anime Uni St. Patrick’s Puzzle | 394996 | [394996-anime-uni-st-patrick-s-puzzle.json](./394996-anime-uni-st-patrick-s-puzzle.json) |
@@ -9857,6 +9862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime World | 167886 | [167886-anime-world.json](./167886-anime-world.json) |
 | Anime World Bundle 4 in 1 | 398190 | [398190-anime-world-bundle-4-in-1.json](./398190-anime-world-bundle-4-in-1.json) |
 | Anime-dle | 337089 | [337089-anime-dle.json](./337089-anime-dle.json) |
+| Anime: Fantasy Uni | 378746 | [378746-anime-fantasy-uni.json](./378746-anime-fantasy-uni.json) |
 | Anime: Fantasy Uni | 393625 | [393625-anime-fantasy-uni.json](./393625-anime-fantasy-uni.json) |
 | Anime: Fantasy Uni 3 | 392866 | [392866-anime-fantasy-uni-3.json](./392866-anime-fantasy-uni-3.json) |
 | Anime: Japanese Goblins | 293364 | [293364-anime-japanese-goblins.json](./293364-anime-japanese-goblins.json) |
@@ -15794,6 +15800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
