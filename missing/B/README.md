@@ -1051,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bagel Love Story | 298691 | [298691-bagel-love-story.json](./298691-bagel-love-story.json) |
 | Bagelball | 341300 | [341300-bagelball.json](./341300-bagelball.json) |
 | Bagels | 242135 | [242135-bagels.json](./242135-bagels.json) |
+| Baggage Handler Simulator | 364772 | [364772-baggage-handler-simulator.json](./364772-baggage-handler-simulator.json) |
 | Baggage Inspector | 293854 | [293854-baggage-inspector.json](./293854-baggage-inspector.json) |
 | Baggio's Magical Kicks | 64973 | [64973-baggios-magical-kicks.json](./64973-baggios-magical-kicks.json) |
 | Baghdad Central: Desert Gunner | 63014 | [63014-baghdad-central-desert-gunner.json](./63014-baghdad-central-desert-gunner.json) |
@@ -10240,6 +10241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks and Ropes | 224092 | [224092-blocks-and-ropes.json](./224092-blocks-and-ropes.json) |
 | Blocks Challenge | 315771 | [315771-blocks-challenge.json](./315771-blocks-challenge.json) |
 | Blocks Crush | 234458 | [234458-blocks-crush.json](./234458-blocks-crush.json) |
+| Blocks Flying At Me | 364800 | [364800-blocks-flying-at-me.json](./364800-blocks-flying-at-me.json) |
 | Blocks for Babies | 284014 | [284014-blocks-for-babies.json](./284014-blocks-for-babies.json) |
 | Blocks from Hell | 71307 | [71307-blocks-from-hell.json](./71307-blocks-from-hell.json) |
 | Blocks Hurt! | 233898 | [233898-blocks-hurt.json](./233898-blocks-hurt.json) |
@@ -13522,6 +13524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Head: Zombies Must Die! | 267350 | [267350-box-head-zombies-must-die.json](./267350-box-head-zombies-must-die.json) |
 | Box Heap | 233523 | [233523-box-heap.json](./233523-box-heap.json) |
 | Box Hustle | 369747 | [369747-box-hustle.json](./369747-box-hustle.json) |
+| Box in Box | 364799 | [364799-box-in-box.json](./364799-box-in-box.json) |
 | Box It | 102281 | [102281-box-it.json](./102281-box-it.json) |
 | Box It Up! Inc. | 306634 | [306634-box-it-up-inc.json](./306634-box-it-up-inc.json) |
 | Box Kid Adventures | 128453 | [128453-box-kid-adventures.json](./128453-box-kid-adventures.json) |
