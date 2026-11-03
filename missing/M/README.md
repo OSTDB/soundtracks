@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic By Nature | 17322 | [17322-magnetic-by-nature.json](./17322-magnetic-by-nature.json) |
 | Magnetic Crane | 70952 | [70952-magnetic-crane.json](./70952-magnetic-crane.json) |
 | Magnetic Daydream | 120756 | [120756-magnetic-daydream.json](./120756-magnetic-daydream.json) |
+| Magnetic Defense | 392582 | [392582-magnetic-defense.json](./392582-magnetic-defense.json) |
 | Magnetic Joe | 85270 | [85270-magnetic-joe.json](./85270-magnetic-joe.json) |
 | Magnetic Merge: Number Master | 256150 | [256150-magnetic-merge-number-master.json](./256150-magnetic-merge-number-master.json) |
 | Magnetic Monopole Mayhem | 181137 | [181137-magnetic-monopole-mayhem.json](./181137-magnetic-monopole-mayhem.json) |
@@ -14965,6 +14966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Land | 84186 | [84186-monster-land.json](./84186-monster-land.json) |
 | Monster Land: 2D MMORPG | 208746 | [208746-monster-land-2d-mmorpg.json](./208746-monster-land-2d-mmorpg.json) |
 | Monster land: Builder | 216043 | [216043-monster-land-builder.json](./216043-monster-land-builder.json) |
+| Monster Layer | 392680 | [392680-monster-layer.json](./392680-monster-layer.json) |
 | Monster League | 110497 | [110497-monster-league.json](./110497-monster-league.json) |
 | Monster Legacy | 20066 | [20066-monster-legacy.json](./20066-monster-legacy.json) |
 | Monster Legacy: Cozy Puzzle Crossing | 356528 | [356528-monster-legacy-cozy-puzzle-crossing.json](./356528-monster-legacy-cozy-puzzle-crossing.json) |
