@@ -2719,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends Aligned | 335085 | [335085-legends-aligned.json](./335085-legends-aligned.json) |
 | Legends Aligned: Minis in Conflict | 343710 | [343710-legends-aligned-minis-in-conflict.json](./343710-legends-aligned-minis-in-conflict.json) |
 | Legends BMX | 325081 | [325081-legends-bmx.json](./325081-legends-bmx.json) |
+| Legends Collection 6-in-1 | 349609 | [349609-legends-collection-6-in-1.json](./349609-legends-collection-6-in-1.json) |
 | Legends Core Plus | 231401 | [231401-legends-core-plus.json](./231401-legends-core-plus.json) |
 | Legends Esport Manager | 348765 | [348765-legends-esport-manager.json](./348765-legends-esport-manager.json) |
 | Legends Flashback Blast! | 245653 | [245653-legends-flashback-blast.json](./245653-legends-flashback-blast.json) |
@@ -8239,6 +8240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Birds | 236734 | [236734-love-birds.json](./236734-love-birds.json) |
 | Love Bites | 254451 | [254451-love-bites.json](./254451-love-bites.json) |
 | Love Bites | 75578 | [75578-love-bites.json](./75578-love-bites.json) |
+| Love Blossoms News | 349589 | [349589-love-blossoms-news.json](./349589-love-blossoms-news.json) |
 | Love Breakout | 280176 | [280176-love-breakout.json](./280176-love-breakout.json) |
 | Love Brings You Home | 238907 | [238907-love-brings-you-home.json](./238907-love-brings-you-home.json) |
 | Love Burger | 311033 | [311033-love-burger.json](./311033-love-burger.json) |
