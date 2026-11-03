@@ -2494,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scandal Notes | 212069 | [212069-scandal-notes.json](./212069-scandal-notes.json) |
 | Scandinavian Cottage Survival Simulator | 360000 | [360000-scandinavian-cottage-survival-simulator.json](./360000-scandinavian-cottage-survival-simulator.json) |
 | Scania Truck Driving Simulator: The Game | 53580 | [53580-scania-truck-driving-simulator-the-game.json](./53580-scania-truck-driving-simulator-the-game.json) |
+| ScanIt! | 373995 | [373995-scanit.json](./373995-scanit.json) |
 | Scanline | 180810 | [180810-scanline.json](./180810-scanline.json) |
 | Scanner Force | 402269 | [402269-scanner-force.json](./402269-scanner-force.json) |
 | Scanner Sombre | 28224 | [28224-scanner-sombre.json](./28224-scanner-sombre.json) |
@@ -7745,6 +7746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shifter | 409016 | [409016-shifter.json](./409016-shifter.json) |
 | Shifter's Box: Outside In | 171777 | [171777-shifters-box-outside-in.json](./171777-shifters-box-outside-in.json) |
 | Shifters | 43557 | [43557-shifters.json](./43557-shifters.json) |
+| Shifting Chambers | 374321 | [374321-shifting-chambers.json](./374321-shifting-chambers.json) |
 | Shifting Dreamscape | 177891 | [177891-shifting-dreamscape.json](./177891-shifting-dreamscape.json) |
 | Shifting Dungeon | 181028 | [181028-shifting-dungeon.json](./181028-shifting-dungeon.json) |
 | Shifting Edge | 183278 | [183278-shifting-edge.json](./183278-shifting-edge.json) |
@@ -8411,6 +8413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shit Storm | 81100 | [81100-shit-storm.json](./81100-shit-storm.json) |
 | Shit!! | 79214 | [79214-shit.json](./79214-shit.json) |
 | Shita ni | 238565 | [238565-shita-ni.json](./238565-shita-ni.json) |
+| Shitamichi Chinsou Club | 374331 | [374331-shitamichi-chinsou-club.json](./374331-shitamichi-chinsou-club.json) |
 | Shitataru Ano Ko: Drenched Girls | 271505 | [271505-shitataru-ano-ko-drenched-girls.json](./271505-shitataru-ano-ko-drenched-girls.json) |
 | Shitataru Nikki | 257085 | [257085-shitataru-nikki.json](./257085-shitataru-nikki.json) |
 | Shitlings | 369626 | [369626-shitlings.json](./369626-shitlings.json) |
@@ -25702,6 +25705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stockcars Unleashed 2 | 95758 | [95758-stockcars-unleashed-2.json](./95758-stockcars-unleashed-2.json) |
 | Stockfish Chess | 87155 | [87155-stockfish-chess.json](./87155-stockfish-chess.json) |
 | Stocks | 364990 | [364990-stocks.json](./364990-stocks.json) |
+| Stocks: Main Force Simulator | 374337 | [374337-stocks-main-force-simulator.json](./374337-stocks-main-force-simulator.json) |
 | StockSim | 332623 | [332623-stocksim.json](./332623-stocksim.json) |
 | Stocksynd House | 128767 | [128767-stocksynd-house.json](./128767-stocksynd-house.json) |
 | Stockwave Online | 373042 | [373042-stockwave-online.json](./373042-stockwave-online.json) |
