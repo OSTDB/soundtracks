@@ -3222,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void's Calling ep. 2 | 196093 | [196093-voids-calling-ep-2.json](./196093-voids-calling-ep-2.json) |
 | Void's Rage | 381274 | [381274-voids-rage.json](./381274-voids-rage.json) |
 | Void/Breaker | 339626 | [339626-void-breaker.json](./339626-void-breaker.json) |
+| Void81 | 383668 | [383668-void81.json](./383668-void81.json) |
 | Voidblade | 392912 | [392912-voidblade.json](./392912-voidblade.json) |
 | Voidblade Shadows of The Realm | 374064 | [374064-voidblade-shadows-of-the-realm.json](./374064-voidblade-shadows-of-the-realm.json) |
 | Voidblazers | 253286 | [253286-voidblazers.json](./253286-voidblazers.json) |
