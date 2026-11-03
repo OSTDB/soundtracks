@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Past: Wolf Healer | 139289 | [139289-echoes-of-the-past-wolf-healer.json](./139289-echoes-of-the-past-wolf-healer.json) |
 | Echoes of the Plum Grove: Deluxe Edition | 401668 | [401668-echoes-of-the-plum-grove-deluxe-edition.json](./401668-echoes-of-the-plum-grove-deluxe-edition.json) |
 | Echoes of the Scourge | 398979 | [398979-echoes-of-the-scourge.json](./398979-echoes-of-the-scourge.json) |
+| Echoes of the Skyfire | 356372 | [356372-echoes-of-the-skyfire.json](./356372-echoes-of-the-skyfire.json) |
 | Echoes of the Stars | 201586 | [201586-echoes-of-the-stars.json](./201586-echoes-of-the-stars.json) |
 | Echoes of the Sun | 289815 | [289815-echoes-of-the-sun.json](./289815-echoes-of-the-sun.json) |
 | Echoes of the Wind | 366124 | [366124-echoes-of-the-wind.json](./366124-echoes-of-the-wind.json) |
@@ -4936,6 +4937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Ghosts | 385314 | [385314-escape-from-ghosts.json](./385314-escape-from-ghosts.json) |
 | Escape from Grimazel's Cottage | 410453 | [410453-escape-from-grimazels-cottage.json](./410453-escape-from-grimazels-cottage.json) |
 | Escape From Ground | 406563 | [406563-escape-from-ground.json](./406563-escape-from-ground.json) |
+| Escape from Grustovia | 356385 | [356385-escape-from-grustovia.json](./356385-escape-from-grustovia.json) |
 | Escape from Gulag | 132441 | [132441-escape-from-gulag.json](./132441-escape-from-gulag.json) |
 | Escape From Hadrian's Wall | 372603 | [372603-escape-from-hadrians-wall.json](./372603-escape-from-hadrians-wall.json) |
 | Escape from Haon Island | 339768 | [339768-escape-from-haon-island.json](./339768-escape-from-haon-island.json) |
