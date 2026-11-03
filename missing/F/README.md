@@ -10516,6 +10516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPVSIM Drone Simulator | 271047 | [271047-fpvsim-drone-simulator.json](./271047-fpvsim-drone-simulator.json) |
 | FR Legends | 126025 | [126025-fr-legends.json](./126025-fr-legends.json) |
 | FR Master: Formula Racing Simulator | 261356 | [261356-fr-master-formula-racing-simulator.json](./261356-fr-master-formula-racing-simulator.json) |
+| FR: Fantastic Rain | 375333 | [375333-fr-fantastic-rain.json](./375333-fr-fantastic-rain.json) |
 | FR34KS | 412538 | [412538-fr34ks.json](./412538-fr34ks.json) |
 | FR3DD-Y2 p1223-R1a | 209282 | [209282-fr3dd-y2-p1223-r1a.json](./209282-fr3dd-y2-p1223-r1a.json) |
 | Frac | 92910 | [92910-frac.json](./92910-frac.json) |
