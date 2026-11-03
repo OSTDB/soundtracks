@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampires Fable | 316731 | [316731-vampires-fable.json](./316731-vampires-fable.json) |
 | Vampires in your area | 330018 | [330018-vampires-in-your-area.json](./330018-vampires-in-your-area.json) |
 | Vampires Live | 79011 | [79011-vampires-live.json](./79011-vampires-live.json) |
+| Vampires of the 99th Night | 382735 | [382735-vampires-of-the-99th-night.json](./382735-vampires-of-the-99th-night.json) |
 | Vampires vs. Zombies | 53933 | [53933-vampires-vs-zombies.json](./53933-vampires-vs-zombies.json) |
 | Vampires: Bloodlord Rising | 278348 | [278348-vampires-bloodlord-rising.json](./278348-vampires-bloodlord-rising.json) |
 | Vampires: Bloodlust | 68009 | [68009-vampires-bloodlust.json](./68009-vampires-bloodlust.json) |
