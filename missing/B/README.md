@@ -1978,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang Bang Simulations | 266288 | [266288-bang-bang-simulations.json](./266288-bang-bang-simulations.json) |
 | Bang Bang Streaming | 416970 | [416970-bang-bang-streaming.json](./416970-bang-bang-streaming.json) |
 | Bang Bang Tank | 377921 | [377921-bang-bang-tank.json](./377921-bang-bang-tank.json) |
+| Bang Banger! Aim Trainer | 398101 | [398101-bang-banger-aim-trainer.json](./398101-bang-banger-aim-trainer.json) |
 | Bang Bead | 40235 | [40235-bang-bead.json](./40235-bang-bead.json) |
 | Bang Dream! Garupa AR! | 220326 | [220326-bang-dream-garupa-ar.json](./220326-bang-dream-garupa-ar.json) |
 | BanG Dream! Girls Band Party! for Nintendo Switch | 152887 | [152887-bang-dream-girls-band-party-for-nintendo-switch.json](./152887-bang-dream-girls-band-party-for-nintendo-switch.json) |
@@ -3880,6 +3881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Supremacy | 26895 | [26895-battle-supremacy.json](./26895-battle-supremacy.json) |
 | Battle Survive Hentai | 126399 | [126399-battle-survive-hentai.json](./126399-battle-survive-hentai.json) |
 | Battle Sweeper | 139250 | [139250-battle-sweeper.json](./139250-battle-sweeper.json) |
+| Battle Synth | 398126 | [398126-battle-synth.json](./398126-battle-synth.json) |
 | Battle Talent | 163454 | [163454-battle-talent.json](./163454-battle-talent.json) |
 | Battle Talent: Multiplayer Update | 306952 | [306952-battle-talent-multiplayer-update.json](./306952-battle-talent-multiplayer-update.json) |
 | Battle Tank | 15664 | [15664-battle-tank.json](./15664-battle-tank.json) |
