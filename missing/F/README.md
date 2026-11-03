@@ -7811,6 +7811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floracide | 386977 | [386977-floracide.json](./386977-floracide.json) |
 | Floragram | 186585 | [186585-floragram.json](./186585-floragram.json) |
 | Floraison | 415869 | [415869-floraison.json](./415869-floraison.json) |
+| Floral Disaffect | 386065 | [386065-floral-disaffect.json](./386065-floral-disaffect.json) |
 | Floral Flowlove: Limited Edition | 212319 | [212319-floral-flowlove-limited-edition.json](./212319-floral-flowlove-limited-edition.json) |
 | Floral Fury Online | 389923 | [389923-floral-fury-online.json](./389923-floral-fury-online.json) |
 | Floral Gate | 255271 | [255271-floral-gate.json](./255271-floral-gate.json) |
