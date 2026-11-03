@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween with Veronica | 286397 | [286397-halloween-with-veronica.json](./286397-halloween-with-veronica.json) |
 | Halloween World | 267206 | [267206-halloween-world.json](./267206-halloween-world.json) |
 | Halloween: "Trick or Treat" | 61364 | [61364-halloween-trick-or-treat.json](./61364-halloween-trick-or-treat.json) |
+| Halloween: A Match Made in Terror | 358608 | [358608-halloween-a-match-made-in-terror.json](./358608-halloween-a-match-made-in-terror.json) |
 | Halloween: DinoBoo & The Valley of Shadows | 378822 | [378822-halloween-dinoboo-and-the-valley-of-shadows.json](./378822-halloween-dinoboo-and-the-valley-of-shadows.json) |
 | Halloween: Global Candy Cup 2015 | 275629 | [275629-halloween-global-candy-cup-2015.json](./275629-halloween-global-candy-cup-2015.json) |
 | Halloween: Jigsaw Puzzles | 72494 | [72494-halloween-jigsaw-puzzles.json](./72494-halloween-jigsaw-puzzles.json) |
@@ -2899,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | He Needs His Medicine | 158754 | [158754-he-needs-his-medicine.json](./158754-he-needs-his-medicine.json) |
 | He Plays the Piano | 135034 | [135034-he-plays-the-piano.json](./135034-he-plays-the-piano.json) |
 | He Sneaks | 301433 | [301433-he-sneaks.json](./301433-he-sneaks.json) |
+| He Stole My Panties, So I Stole His Virginity! | 358585 | [358585-he-stole-my-panties-so-i-stole-his-virginity.json](./358585-he-stole-my-panties-so-i-stole-his-virginity.json) |
 | He Was | 184060 | [184060-he-was.json](./184060-he-was.json) |
 | He Watches Me | 264342 | [264342-he-watches-me.json](./264342-he-watches-me.json) |
 | He Who Tied The Bell | 335785 | [335785-he-who-tied-the-bell.json](./335785-he-who-tied-the-bell.json) |
