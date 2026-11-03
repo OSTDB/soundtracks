@@ -2486,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jojo's Fashion Show | 27549 | [27549-jojos-fashion-show.json](./27549-jojos-fashion-show.json) |
 | JoJo's Venture | 46815 | [46815-jojos-venture.json](./46815-jojos-venture.json) |
 | JoJodle | 225621 | [225621-jojodle.json](./225621-jojodle.json) |
+| Jojon Wik | 357690 | [357690-jojon-wik.json](./357690-jojon-wik.json) |
 | Jojos Fashion Show 3: World Tour | 25512 | [25512-jojos-fashion-show-3-world-tour.json](./25512-jojos-fashion-show-3-world-tour.json) |
 | JojoVsDio | 220690 | [220690-jojovsdio.json](./220690-jojovsdio.json) |
 | Jojoy!: Ecorpy Islands | 244850 | [244850-jojoy-ecorpy-islands.json](./244850-jojoy-ecorpy-islands.json) |
@@ -3286,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping jet | 131844 | [131844-jumping-jet.json](./131844-jumping-jet.json) |
 | Jumping Joe & Friends | 102789 | [102789-jumping-joe-and-friends.json](./102789-jumping-joe-and-friends.json) |
 | Jumping Joe! Friends Edition | 170387 | [170387-jumping-joe-friends-edition.json](./170387-jumping-joe-friends-edition.json) |
+| Jumping Jump Ninja | 357693 | [357693-jumping-jump-ninja.json](./357693-jumping-jump-ninja.json) |
 | Jumping Jupingo | 22107 | [22107-jumping-jupingo.json](./22107-jumping-jupingo.json) |
 | Jumping Knight | 159755 | [159755-jumping-knight.json](./159755-jumping-knight.json) |
 | Jumping Knight | 343743 | [343743-jumping-knight.json](./343743-jumping-knight.json) |
