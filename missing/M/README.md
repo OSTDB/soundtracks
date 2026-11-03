@@ -5318,6 +5318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Hero | 86331 | [86331-math-hero.json](./86331-math-hero.json) |
 | Math Hero: Minimalist Puzzle | 163556 | [163556-math-hero-minimalist-puzzle.json](./163556-math-hero-minimalist-puzzle.json) |
 | Math Heroes | 238935 | [238935-math-heroes.json](./238935-math-heroes.json) |
+| Math in Space | 369794 | [369794-math-in-space.json](./369794-math-in-space.json) |
 | Math Invaders | 209546 | [209546-math-invaders.json](./209546-math-invaders.json) |
 | Math Is Hard | 391632 | [391632-math-is-hard.json](./391632-math-is-hard.json) |
 | Math is Horror | 278542 | [278542-math-is-horror.json](./278542-math-is-horror.json) |
@@ -12227,6 +12228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minibus Simulator Vietnam | 384616 | [384616-minibus-simulator-vietnam.json](./384616-minibus-simulator-vietnam.json) |
 | MiniCar Extreme: Car Driving Racing (Truck, Suv, Sedan, Cars) | 242665 | [242665-minicar-extreme-car-driving-racing-truck-suv-sedan-cars.json](./242665-minicar-extreme-car-driving-racing-truck-suv-sedan-cars.json) |
 | MiniCar Race | 104840 | [104840-minicar-race.json](./104840-minicar-race.json) |
+| MiniCar Shop Simulator | 369802 | [369802-minicar-shop-simulator.json](./369802-minicar-shop-simulator.json) |
 | Minicars | 90522 | [90522-minicars.json](./90522-minicars.json) |
 | MiniChef | 147203 | [147203-minichef.json](./147203-minichef.json) |
 | MiniChess by Kasparov | 174239 | [174239-minichess-by-kasparov.json](./174239-minichess-by-kasparov.json) |
@@ -15757,6 +15759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Cow: Guardian of the Night | 386229 | [386229-moonlight-cow-guardian-of-the-night.json](./386229-moonlight-cow-guardian-of-the-night.json) |
 | Moonlight Cradle | 404334 | [404334-moonlight-cradle.json](./404334-moonlight-cradle.json) |
 | Moonlight Destiny | 222607 | [222607-moonlight-destiny.json](./222607-moonlight-destiny.json) |
+| Moonlight Dialogue | 369812 | [369812-moonlight-dialogue.json](./369812-moonlight-dialogue.json) |
 | Moonlight Express: Fortnight | 193726 | [193726-moonlight-express-fortnight.json](./193726-moonlight-express-fortnight.json) |
 | Moonlight Frog Inn | 320346 | [320346-moonlight-frog-inn.json](./320346-moonlight-frog-inn.json) |
 | Moonlight In Garland | 152459 | [152459-moonlight-in-garland.json](./152459-moonlight-in-garland.json) |
@@ -16432,6 +16435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Weapon | 74333 | [74333-mortal-weapon.json](./74333-mortal-weapon.json) |
 | Mortal Wrestle Fight Pro | 99991 | [99991-mortal-wrestle-fight-pro.json](./99991-mortal-wrestle-fight-pro.json) |
 | Mortality Decomp. Killers | 337999 | [337999-mortality-decomp-killers.json](./337999-mortality-decomp-killers.json) |
+| Mortality Decomp. Killers: Shadow of Abaddon | 369823 | [369823-mortality-decomp-killers-shadow-of-abaddon.json](./369823-mortality-decomp-killers-shadow-of-abaddon.json) |
 | Mortality... Please | 417597 | [417597-mortality-please.json](./417597-mortality-please.json) |
 | Mortals and Monsters: Blood Orc | 191049 | [191049-mortals-and-monsters-blood-orc.json](./191049-mortals-and-monsters-blood-orc.json) |
 | Mortalus: The Quest for Immortality | 145423 | [145423-mortalus-the-quest-for-immortality.json](./145423-mortalus-the-quest-for-immortality.json) |
@@ -20644,6 +20648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Phantoms: Ghostly Secrets | 416489 | [416489-mystery-phantoms-ghostly-secrets.json](./416489-mystery-phantoms-ghostly-secrets.json) |
 | Mystery Phantoms: Ghostly Secrets - Collector's Edition | 413147 | [413147-mystery-phantoms-ghostly-secrets-collectors-edition.json](./413147-mystery-phantoms-ghostly-secrets-collectors-edition.json) |
 | Mystery PI: The Vegas Heist | 28976 | [28976-mystery-pi-the-vegas-heist.json](./28976-mystery-pi-the-vegas-heist.json) |
+| Mystery Quest | 369818 | [369818-mystery-quest.json](./369818-mystery-quest.json) |
 | Mystery Quest | 48195 | [48195-mystery-quest.json](./48195-mystery-quest.json) |
 | Mystery Quest: Curse of the Ancient Spirits | 65918 | [65918-mystery-quest-curse-of-the-ancient-spirits.json](./65918-mystery-quest-curse-of-the-ancient-spirits.json) |
 | Mystery Riddles | 29371 | [29371-mystery-riddles.json](./29371-mystery-riddles.json) |
