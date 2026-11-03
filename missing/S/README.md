@@ -10058,6 +10058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Station | 238556 | [238556-silent-station.json](./238556-silent-station.json) |
 | Silent Steel | 73827 | [73827-silent-steel.json](./73827-silent-steel.json) |
 | Silent Still | 312219 | [312219-silent-still.json](./312219-silent-still.json) |
+| Silent Still II | 357117 | [357117-silent-still-ii.json](./357117-silent-still-ii.json) |
 | Silent Still III | 387378 | [387378-silent-still-iii.json](./387378-silent-still-iii.json) |
 | Silent Storm | 10844 | [10844-silent-storm.json](./10844-silent-storm.json) |
 | Silent Storm: Gold Edition | 53613 | [53613-silent-storm-gold-edition.json](./53613-silent-storm-gold-edition.json) |
@@ -12328,6 +12329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyRig | 348286 | [348286-skyrig.json](./348286-skyrig.json) |
 | Skyrim Anniversary Edition + Fallout 4 G.O.T.Y. Bundle | 342531 | [342531-skyrim-anniversary-edition-fallout-4-g-o-t-y-bundle.json](./342531-skyrim-anniversary-edition-fallout-4-g-o-t-y-bundle.json) |
 | SkyRoads X-mas Special | 19236 | [19236-skyroads-x-mas-special.json](./19236-skyroads-x-mas-special.json) |
+| SkyRunner | 357114 | [357114-skyrunner.json](./357114-skyrunner.json) |
 | Skyrush | 176725 | [176725-skyrush.json](./176725-skyrush.json) |
 | SkySaga: Infinite Isles | 60733 | [60733-skysaga-infinite-isles.json](./60733-skysaga-infinite-isles.json) |
 | SkySavior Helicopter Services | 385656 | [385656-skysavior-helicopter-services.json](./385656-skysavior-helicopter-services.json) |
@@ -21727,6 +21729,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Babes | 382284 | [382284-sports-babes.json](./382284-sports-babes.json) |
 | Sports Bar VR | 25185 | [25185-sports-bar-vr.json](./25185-sports-bar-vr.json) |
 | Sports Betting Simulator | 192767 | [192767-sports-betting-simulator.json](./192767-sports-betting-simulator.json) |
+| Sports Camp: A 35-Game Adventure | 356964 | [356964-sports-camp-a-35-game-adventure.json](./356964-sports-camp-a-35-game-adventure.json) |
+| Sports Camp: A 35-Game Adventure - Deluxe | 356988 | [356988-sports-camp-a-35-game-adventure-deluxe.json](./356988-sports-camp-a-35-game-adventure-deluxe.json) |
 | Sports Car Challenge | 237868 | [237868-sports-car-challenge.json](./237868-sports-car-challenge.json) |
 | Sports Car Challenge 2 | 233243 | [233243-sports-car-challenge-2.json](./233243-sports-car-challenge-2.json) |
 | Sports Car Driver | 187493 | [187493-sports-car-driver.json](./187493-sports-car-driver.json) |
@@ -28930,6 +28934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunnyside vs. the Eggies | 222797 | [222797-sunnyside-vs-the-eggies.json](./222797-sunnyside-vs-the-eggies.json) |
 | Sunpolis | 267330 | [267330-sunpolis.json](./267330-sunpolis.json) |
 | Sunray OS | 285582 | [285582-sunray-os.json](./285582-sunray-os.json) |
+| Sunrest Oasis | 356987 | [356987-sunrest-oasis.json](./356987-sunrest-oasis.json) |
 | Sunrider 4: The Captain's Return | 234352 | [234352-sunrider-4-the-captains-return.json](./234352-sunrider-4-the-captains-return.json) |
 | Sunrider Academy | 35976 | [35976-sunrider-academy.json](./35976-sunrider-academy.json) |
 | Sunrider: First Arrival | 61283 | [61283-sunrider-first-arrival.json](./61283-sunrider-first-arrival.json) |
