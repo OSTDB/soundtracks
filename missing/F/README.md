@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Frontier | 132621 | [132621-falling-frontier.json](./132621-falling-frontier.json) |
 | Falling Fruit | 359730 | [359730-falling-fruit.json](./359730-falling-fruit.json) |
 | Falling Guys | 361739 | [361739-falling-guys.json](./361739-falling-guys.json) |
+| Falling in Love with Zetton | 396296 | [396296-falling-in-love-with-zetton.json](./396296-falling-in-love-with-zetton.json) |
 | Falling in Reverse Heardle | 371468 | [371468-falling-in-reverse-heardle.json](./371468-falling-in-reverse-heardle.json) |
 | Falling Into Dreams | 247962 | [247962-falling-into-dreams.json](./247962-falling-into-dreams.json) |
 | Falling Into You | 218165 | [218165-falling-into-you.json](./218165-falling-into-you.json) |
@@ -2090,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FanTris | 108072 | [108072-fantris.json](./108072-fantris.json) |
 | Fap & Cum | 235279 | [235279-fap-and-cum.json](./235279-fap-and-cum.json) |
 | Fap & Cum: Simulator | 368131 | [368131-fap-and-cum-simulator.json](./368131-fap-and-cum-simulator.json) |
+| Fap Feets | 396333 | [396333-fap-feets.json](./396333-fap-feets.json) |
 | Fap Goddess | 226802 | [226802-fap-goddess.json](./226802-fap-goddess.json) |
 | Fap Queen | 110145 | [110145-fap-queen.json](./110145-fap-queen.json) |
 | Fap Queen II | 177700 | [177700-fap-queen-ii.json](./177700-fap-queen-ii.json) |
@@ -2926,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Rat Pinball | 145988 | [145988-fat-rat-pinball.json](./145988-fat-rat-pinball.json) |
 | Fat Slice 2 | 185653 | [185653-fat-slice-2.json](./185653-fat-slice-2.json) |
 | Fat Sonic | 330866 | [330866-fat-sonic.json](./330866-fat-sonic.json) |
+| Fat Wizard | 396309 | [396309-fat-wizard.json](./396309-fat-wizard.json) |
 | Fat Worm Blows a Sparky | 37075 | [37075-fat-worm-blows-a-sparky.json](./37075-fat-worm-blows-a-sparky.json) |
 | Fat-Frumos & The Solomonar | 298541 | [298541-fat-frumos-and-the-solomonar.json](./298541-fat-frumos-and-the-solomonar.json) |
 | FAT-stronaut | 185352 | [185352-fat-stronaut.json](./185352-fat-stronaut.json) |
@@ -7639,6 +7642,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Float Survival Simulator: Ocean Survivor | 324184 | [324184-float-survival-simulator-ocean-survivor.json](./324184-float-survival-simulator-ocean-survivor.json) |
 | Float: Champions | 257948 | [257948-float-champions.json](./257948-float-champions.json) |
 | Float: Journey of Flower | 175104 | [175104-float-journey-of-flower.json](./175104-float-journey-of-flower.json) |
+| Floater | 396310 | [396310-floater.json](./396310-floater.json) |
+| Floater on Ice | 396311 | [396311-floater-on-ice.json](./396311-floater-on-ice.json) |
 | Floathink | 149936 | [149936-floathink.json](./149936-floathink.json) |
 | Floatineer | 358242 | [358242-floatineer.json](./358242-floatineer.json) |
 | Floating Block Forever | 393095 | [393095-floating-block-forever.json](./393095-floating-block-forever.json) |
