@@ -6555,7 +6555,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betrayal at Krondor | 2211 | [2211-betrayal-at-krondor.json](./2211-betrayal-at-krondor.json) |
 | Betrayal Banquet | 410289 | [410289-betrayal-banquet.json](./410289-betrayal-banquet.json) |
 | Betrayal Beach | 272648 | [272648-betrayal-beach.json](./272648-betrayal-beach.json) |
+| Betrayal Beach: Island's Curse | 354178 | [354178-betrayal-beach-islands-curse.json](./354178-betrayal-beach-islands-curse.json) |
 | Betrayal Beach: Supporter Pack | 310051 | [310051-betrayal-beach-supporter-pack.json](./310051-betrayal-beach-supporter-pack.json) |
+| Betrayal Beach: The Mountain | 354179 | [354179-betrayal-beach-the-mountain.json](./354179-betrayal-beach-the-mountain.json) |
 | Betrayal Collection | 30409 | [30409-betrayal-collection.json](./30409-betrayal-collection.json) |
 | Betrayal in Antara | 8828 | [8828-betrayal-in-antara.json](./8828-betrayal-in-antara.json) |
 | Betrayal of Blood | 243585 | [243585-betrayal-of-blood.json](./243585-betrayal-of-blood.json) |
