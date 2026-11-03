@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mortician's Tale | 28073 | [28073-a-morticians-tale.json](./28073-a-morticians-tale.json) |
 | A Most Curious Murder | 83853 | [83853-a-most-curious-murder.json](./83853-a-most-curious-murder.json) |
 | A Most Extraordinary Gnome | 211034 | [211034-a-most-extraordinary-gnome.json](./211034-a-most-extraordinary-gnome.json) |
+| A Most Important Night | 371491 | [371491-a-most-important-night.json](./371491-a-most-important-night.json) |
 | A Moth Argent | 135835 | [135835-a-moth-argent.json](./135835-a-moth-argent.json) |
 | A Mountain Called Hope | 407748 | [407748-a-mountain-called-hope.json](./407748-a-mountain-called-hope.json) |
 | A Mountain of One | 240040 | [240040-a-mountain-of-one.json](./240040-a-mountain-of-one.json) |
@@ -9720,6 +9721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Beauty Girl Puzzle: Love Game History Adventure | 252699 | [252699-anime-beauty-girl-puzzle-love-game-history-adventure.json](./252699-anime-beauty-girl-puzzle-love-game-history-adventure.json) |
 | Anime Bowling Babes | 24997 | [24997-anime-bowling-babes.json](./24997-anime-bowling-babes.json) |
 | Anime Boys Dating: Sexy Halloween Costumes | 320790 | [320790-anime-boys-dating-sexy-halloween-costumes.json](./320790-anime-boys-dating-sexy-halloween-costumes.json) |
+| Anime Boys Mirror Quest | 371188 | [371188-anime-boys-mirror-quest.json](./371188-anime-boys-mirror-quest.json) |
 | Anime Bubble Pop | 75812 | [75812-anime-bubble-pop.json](./75812-anime-bubble-pop.json) |
 | Anime Cards | 154279 | [154279-anime-cards.json](./154279-anime-cards.json) |
 | Anime Catgirl Runner | 224759 | [224759-anime-catgirl-runner.json](./224759-anime-catgirl-runner.json) |
