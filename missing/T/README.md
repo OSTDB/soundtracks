@@ -2999,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tears of Magic | 224574 | [224574-tears-of-magic.json](./224574-tears-of-magic.json) |
 | Tears of the Maker | 349443 | [349443-tears-of-the-maker.json](./349443-tears-of-the-maker.json) |
 | Tears of Themis | 146245 | [146245-tears-of-themis.json](./146245-tears-of-themis.json) |
+| Tears of Viceroy | 363125 | [363125-tears-of-viceroy.json](./363125-tears-of-viceroy.json) |
 | Tears Rain: Tears of Goddess | 236887 | [236887-tears-rain-tears-of-goddess.json](./236887-tears-rain-tears-of-goddess.json) |
 | Tears Revolude | 32148 | [32148-tears-revolude.json](./32148-tears-revolude.json) |
 | Tears to Tiara Gaiden: Avalon no Nazo | 76907 | [76907-tears-to-tiara-gaiden-avalon-no-nazo.json](./76907-tears-to-tiara-gaiden-avalon-no-nazo.json) |
@@ -22936,6 +22937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Heart | 69724 | [69724-to-heart.json](./69724-to-heart.json) |
 | To Heaven | 392107 | [392107-to-heaven.json](./392107-to-heaven.json) |
 | To Hell and Back | 306327 | [306327-to-hell-and-back.json](./306327-to-hell-and-back.json) |
+| To Hell and Back | 363142 | [363142-to-hell-and-back.json](./363142-to-hell-and-back.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
 | To Hell With the Ugly | 158137 | [158137-to-hell-with-the-ugly.json](./158137-to-hell-with-the-ugly.json) |
 | To Kill A Black Swan | 183371 | [183371-to-kill-a-black-swan.json](./183371-to-kill-a-black-swan.json) |
@@ -25192,6 +25194,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Crawl | 356561 | [356561-touhou-crawl.json](./356561-touhou-crawl.json) |
 | Touhou Crisis | 202507 | [202507-touhou-crisis.json](./202507-touhou-crisis.json) |
 | Touhou Danmaku Kagura | 159010 | [159010-touhou-danmaku-kagura.json](./159010-touhou-danmaku-kagura.json) |
+| Touhou Danmaku Kagura Phantasia Lost - Extra Song Pack 5 | 363256 | [363256-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-5.json](./363256-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-5.json) |
+| Touhou Danmaku Kagura Phantasia Lost - Extra Song Pack 6 | 363257 | [363257-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-6.json](./363257-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-6.json) |
+| Touhou Danmaku Kagura Phantasia Lost - Extra Song Pack 8 | 363258 | [363258-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-8.json](./363258-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-8.json) |
+| Touhou Danmaku Kagura Phantasia Lost - Extra Song Pack 9 | 363259 | [363259-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-9.json](./363259-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-9.json) |
 | Touhou Danmaku Kagura: Phantasia Lost | 222995 | [222995-touhou-danmaku-kagura-phantasia-lost.json](./222995-touhou-danmaku-kagura-phantasia-lost.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 1 | 289028 | [289028-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-1.json](./289028-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-1.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 10 | 351245 | [351245-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-10.json](./351245-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-10.json) |
@@ -28630,6 +28636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trauma | 301607 | [301607-trauma.json](./301607-trauma.json) |
 | Trauma | 55014 | [55014-trauma.json](./55014-trauma.json) |
 | Trauma | 86012 | [86012-trauma.json](./86012-trauma.json) |
+| Trauma Football | 363117 | [363117-trauma-football.json](./363117-trauma-football.json) |
 | Trauma Pets | 409415 | [409415-trauma-pets.json](./409415-trauma-pets.json) |
 | Trauma Playground | 422143 | [422143-trauma-playground.json](./422143-trauma-playground.json) |
 | Trauma Record | 347577 | [347577-trauma-record.json](./347577-trauma-record.json) |
@@ -31357,6 +31364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Phenomena: The Incredible Show - Collector's Edition | 95243 | [95243-twilight-phenomena-the-incredible-show-collectors-edition.json](./95243-twilight-phenomena-the-incredible-show-collectors-edition.json) |
 | Twilight Protocol | 373734 | [373734-twilight-protocol.json](./373734-twilight-protocol.json) |
 | Twilight Refrain | 63843 | [63843-twilight-refrain.json](./63843-twilight-refrain.json) |
+| Twilight Requiem | 363270 | [363270-twilight-requiem.json](./363270-twilight-requiem.json) |
 | Twilight Romance | 299599 | [299599-twilight-romance.json](./299599-twilight-romance.json) |
 | Twilight School: The Forbidden Experiment | 325728 | [325728-twilight-school-the-forbidden-experiment.json](./325728-twilight-school-the-forbidden-experiment.json) |
 | Twilight Shadows | 188354 | [188354-twilight-shadows.json](./188354-twilight-shadows.json) |
