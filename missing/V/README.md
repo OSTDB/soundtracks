@@ -2904,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ViViD | 61070 | [61070-vivid.json](./61070-vivid.json) |
 | Vivid Army | 389485 | [389485-vivid-army.json](./389485-vivid-army.json) |
 | Vivid Conceptions | 93152 | [93152-vivid-conceptions.json](./93152-vivid-conceptions.json) |
+| Vivid Intrusion | 399379 | [399379-vivid-intrusion.json](./399379-vivid-intrusion.json) |
 | Vivid Knight | 148301 | [148301-vivid-knight.json](./148301-vivid-knight.json) |
 | Vivid Spirit | 122012 | [122012-vivid-spirit.json](./122012-vivid-spirit.json) |
 | Vivid Surf | 171315 | [171315-vivid-surf.json](./171315-vivid-surf.json) |
