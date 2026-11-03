@@ -5891,6 +5891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herogrinder: Tactical Combat Arenas | 122397 | [122397-herogrinder-tactical-combat-arenas.json](./122397-herogrinder-tactical-combat-arenas.json) |
 | Herogue | 224633 | [224633-herogue.json](./224633-herogue.json) |
 | Herohero-kun | 209906 | [209906-herohero-kun.json](./209906-herohero-kun.json) |
+| Heroic | 383981 | [383981-heroic.json](./383981-heroic.json) |
 | Heroic Adventures | 155701 | [155701-heroic-adventures.json](./155701-heroic-adventures.json) |
 | Heroic Armored Company | 159771 | [159771-heroic-armored-company.json](./159771-heroic-armored-company.json) |
 | Heroic Battle | 89178 | [89178-heroic-battle.json](./89178-heroic-battle.json) |
