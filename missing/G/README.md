@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal*Gun 2: Complete DLC Bundle | 238337 | [238337-gal-gun-2-complete-dlc-bundle.json](./238337-gal-gun-2-complete-dlc-bundle.json) |
 | Gal*Gun 2: Complete Edition | 238338 | [238338-gal-gun-2-complete-edition.json](./238338-gal-gun-2-complete-edition.json) |
 | Gal*Gun 2: Limited Edition | 358981 | [358981-gal-gun-2-limited-edition.json](./358981-gal-gun-2-limited-edition.json) |
+| Gal*Gun Returns: Birthday Suit Edition | 370383 | [370383-gal-gun-returns-birthday-suit-edition.json](./370383-gal-gun-returns-birthday-suit-edition.json) |
 | Gal*Gun VR | 54581 | [54581-gal-gun-vr.json](./54581-gal-gun-vr.json) |
 | Gal*Gun: Double Peace | 11564 | [11564-gal-gun-double-peace.json](./11564-gal-gun-double-peace.json) |
 | Gal*Gun: Double Peace - Mr. Happiness Edition | 89910 | [89910-gal-gun-double-peace-mr-happiness-edition.json](./89910-gal-gun-double-peace-mr-happiness-edition.json) |
@@ -1324,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Room | 91353 | [91353-game-room.json](./91353-game-room.json) |
 | Game Room Excitement | 205920 | [205920-game-room-excitement.json](./205920-game-room-excitement.json) |
 | Game Royale 2 - The Secret of Jannis Island | 30140 | [30140-game-royale-2-the-secret-of-jannis-island.json](./30140-game-royale-2-the-secret-of-jannis-island.json) |
+| Game Saloon Simulator | 370376 | [370376-game-saloon-simulator.json](./370376-game-saloon-simulator.json) |
 | Game School Pro | 104577 | [104577-game-school-pro.json](./104577-game-school-pro.json) |
 | Game Set and Match 2 | 41001 | [41001-game-set-and-match-2.json](./41001-game-set-and-match-2.json) |
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
@@ -1789,6 +1791,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Seif: Chronicles of an Assassin | 195081 | [195081-garden-of-seif-chronicles-of-an-assassin.json](./195081-garden-of-seif-chronicles-of-an-assassin.json) |
 | Garden of Seif: Curse of Gravehollow Peaks | 209456 | [209456-garden-of-seif-curse-of-gravehollow-peaks.json](./209456-garden-of-seif-curse-of-gravehollow-peaks.json) |
 | Garden of the Atom | 384819 | [384819-garden-of-the-atom.json](./384819-garden-of-the-atom.json) |
+| Garden of the Greek Goddesses: Aphrodite, Artemis & Athena Love Story. | 370809 | [370809-garden-of-the-greek-goddesses-aphrodite-artemis-and-athena-love-story.json](./370809-garden-of-the-greek-goddesses-aphrodite-artemis-and-athena-love-story.json) |
+| Garden of the Greek Gods: Zeus, Poseidon & Hades Love Story | 370810 | [370810-garden-of-the-greek-gods-zeus-poseidon-and-hades-love-story.json](./370810-garden-of-the-greek-gods-zeus-poseidon-and-hades-love-story.json) |
 | Garden of the Sea | 336717 | [336717-garden-of-the-sea.json](./336717-garden-of-the-sea.json) |
 | Garden of the Sea VR | 119339 | [119339-garden-of-the-sea-vr.json](./119339-garden-of-the-sea-vr.json) |
 | Garden of Wandering Souls | 327174 | [327174-garden-of-wandering-souls.json](./327174-garden-of-wandering-souls.json) |
@@ -5750,6 +5754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess of Card War 2 | 202518 | [202518-goddess-of-card-war-2.json](./202518-goddess-of-card-war-2.json) |
 | Goddess of Card War: DLC-1 | 170420 | [170420-goddess-of-card-war-dlc-1.json](./170420-goddess-of-card-war-dlc-1.json) |
 | Goddess of Card War: DLC-2 | 170419 | [170419-goddess-of-card-war-dlc-2.json](./170419-goddess-of-card-war-dlc-2.json) |
+| Goddess of Fate | 370054 | [370054-goddess-of-fate.json](./370054-goddess-of-fate.json) |
 | Goddess of Fate IV: Lilith | 281447 | [281447-goddess-of-fate-iv-lilith.json](./281447-goddess-of-fate-iv-lilith.json) |
 | Goddess of Genesis | 137258 | [137258-goddess-of-genesis.json](./137258-goddess-of-genesis.json) |
 | Goddess of Genesis S | 188323 | [188323-goddess-of-genesis-s.json](./188323-goddess-of-genesis-s.json) |
@@ -6799,6 +6804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goombario and the Adventure of the Hot Lava Rocks | 328623 | [328623-goombario-and-the-adventure-of-the-hot-lava-rocks.json](./328623-goombario-and-the-adventure-of-the-hot-lava-rocks.json) |
 | Goombario's Quest | 322546 | [322546-goombarios-quest.json](./322546-goombarios-quest.json) |
 | Gooms: A Physics Puzzle | 358048 | [358048-gooms-a-physics-puzzle.json](./358048-gooms-a-physics-puzzle.json) |
+| Goomy Clicker 1 | 370402 | [370402-goomy-clicker-1.json](./370402-goomy-clicker-1.json) |
 | Goon Company | 400695 | [400695-goon-company.json](./400695-goon-company.json) |
 | Gooncrusher | 302113 | [302113-gooncrusher.json](./302113-gooncrusher.json) |
 | Goonect | 207212 | [207212-goonect.json](./207212-goonect.json) |
