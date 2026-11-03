@@ -8083,6 +8083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds'n'Blocks | 88843 | [88843-birdsnblocks.json](./88843-birdsnblocks.json) |
 | Birds'n'Blocks 2 | 87694 | [87694-birdsnblocks-2.json](./87694-birdsnblocks-2.json) |
 | BirdsBorough: Town of Alchemy | 214368 | [214368-birdsborough-town-of-alchemy.json](./214368-birdsborough-town-of-alchemy.json) |
+| Birdseed VR | 380580 | [380580-birdseed-vr.json](./380580-birdseed-vr.json) |
 | Birdsong | 133016 | [133016-birdsong.json](./133016-birdsong.json) |
 | Birdtale | 284002 | [284002-birdtale.json](./284002-birdtale.json) |
 | Birdteeth | 362240 | [362240-birdteeth.json](./362240-birdteeth.json) |
@@ -11756,6 +11757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokuaso2 | 97826 | [97826-bokuaso2.json](./97826-bokuaso2.json) |
 | Bokube | 37000 | [37000-bokube.json](./37000-bokube.json) |
 | Bokuhime Project | 121199 | [121199-bokuhime-project.json](./121199-bokuhime-project.json) |
+| Bokujou Monogatari Mobile: Life & Love | 380352 | [380352-bokujou-monogatari-mobile-life-and-love.json](./380352-bokujou-monogatari-mobile-life-and-love.json) |
 | Bokujou Monogatari: Futago no Mura+ | 136904 | [136904-bokujou-monogatari-futago-no-mura.json](./136904-bokujou-monogatari-futago-no-mura.json) |
 | Bokura ga Koko ni Iru Fushigi. | 131381 | [131381-bokura-ga-koko-ni-iru-fushigi.json](./131381-bokura-ga-koko-ni-iru-fushigi.json) |
 | Bokura no Daiundoukai | 165436 | [165436-bokura-no-daiundoukai.json](./165436-bokura-no-daiundoukai.json) |
@@ -16083,6 +16085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Game | 192890 | [192890-buggy-game.json](./192890-buggy-game.json) |
 | Buggy Mess | 379925 | [379925-buggy-mess.json](./379925-buggy-mess.json) |
 | Buggy Off-Road Racing | 289375 | [289375-buggy-off-road-racing.json](./289375-buggy-off-road-racing.json) |
+| Buggy Off-Road Racing Wild Skins | 380713 | [380713-buggy-off-road-racing-wild-skins.json](./380713-buggy-off-road-racing-wild-skins.json) |
 | Buggy Off-Road Racing: Deluxe Edition | 308799 | [308799-buggy-off-road-racing-deluxe-edition.json](./308799-buggy-off-road-racing-deluxe-edition.json) |
 | Buggy Off-Road Racing: Epic Edition | 409960 | [409960-buggy-off-road-racing-epic-edition.json](./409960-buggy-off-road-racing-epic-edition.json) |
 | Buggy Off-Road Racing: Max Edition | 413578 | [413578-buggy-off-road-racing-max-edition.json](./413578-buggy-off-road-racing-max-edition.json) |
