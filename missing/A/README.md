@@ -7697,6 +7697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amanatsu Adolescence | 402451 | [402451-amanatsu-adolescence.json](./402451-amanatsu-adolescence.json) |
 | Amanatsu Location | 413057 | [413057-amanatsu-location.json](./413057-amanatsu-location.json) |
 | Amanatsu: Perfect Edition | 297063 | [297063-amanatsu-perfect-edition.json](./297063-amanatsu-perfect-edition.json) |
+| Amanatsu+ | 372165 | [372165-amanatsu.json](./372165-amanatsu.json) |
 | Amanda Rose: The Game of Time | 52399 | [52399-amanda-rose-the-game-of-time.json](./52399-amanda-rose-the-game-of-time.json) |
 | Amanda Stories | 262405 | [262405-amanda-stories.json](./262405-amanda-stories.json) |
 | Amanda the Adventurer 2 | 272840 | [272840-amanda-the-adventurer-2.json](./272840-amanda-the-adventurer-2.json) |
@@ -15836,7 +15837,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
