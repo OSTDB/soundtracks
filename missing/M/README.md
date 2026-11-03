@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madgun | 241277 | [241277-madgun.json](./241277-madgun.json) |
 | MadGuns | 151411 | [151411-madguns.json](./151411-madguns.json) |
 | Madhack | 140449 | [140449-madhack.json](./140449-madhack.json) |
+| Madhouse | 360316 | [360316-madhouse.json](./360316-madhouse.json) |
 | Madhouse Madness | 247911 | [247911-madhouse-madness.json](./247911-madhouse-madness.json) |
 | Madhouse13 | 204553 | [204553-madhouse13.json](./204553-madhouse13.json) |
 | Madievals | 120378 | [120378-madievals.json](./120378-madievals.json) |
@@ -839,6 +840,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mag | 178431 | [178431-mag.json](./178431-mag.json) |
 | MAG | 229766 | [229766-mag.json](./229766-mag.json) |
 | MAG | 7365 | [7365-mag.json](./7365-mag.json) |
+| MAG Escalation Mission Pack | 360298 | [360298-mag-escalation-mission-pack.json](./360298-mag-escalation-mission-pack.json) |
+| MAG Interdiction Mission Pack | 360296 | [360296-mag-interdiction-mission-pack.json](./360296-mag-interdiction-mission-pack.json) |
 | Mag the Magician | 421583 | [421583-mag-the-magician.json](./421583-mag-the-magician.json) |
 | Mag-Racer | 70229 | [70229-mag-racer.json](./70229-mag-racer.json) |
 | Maga Patalójika | 289222 | [289222-maga-patalojika.json](./289222-maga-patalojika.json) |
@@ -5652,6 +5655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8541,6 +8545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mènghuàn Shuǐguǒ Pán: 777 Casino | 86066 | [86066-menghuan-shuiguo-pan-777-casino.json](./86066-menghuan-shuiguo-pan-777-casino.json) |
 | Mèngyá | 118031 | [118031-mengya.json](./118031-mengya.json) |
 | Menhera & Troll | 344713 | [344713-menhera-and-troll.json](./344713-menhera-and-troll.json) |
+| Menhera Farm | 360321 | [360321-menhera-farm.json](./360321-menhera-farm.json) |
 | Menhera Kanojo to Boku: Uwaki shitara Jinsei Shuuryou yo | 208936 | [208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json](./208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json) |
 | Menhera Ota-hime Circle: Needy Princess Nerd Club | 305286 | [305286-menhera-ota-hime-circle-needy-princess-nerd-club.json](./305286-menhera-ota-hime-circle-needy-princess-nerd-club.json) |
 | MenheRafflesia | 131584 | [131584-menherafflesia.json](./131584-menherafflesia.json) |
@@ -11239,6 +11244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milo's Astro Lanes | 3411 | [3411-milos-astro-lanes.json](./3411-milos-astro-lanes.json) |
 | Milo's Magical Adventure | 392488 | [392488-milos-magical-adventure.json](./392488-milos-magical-adventure.json) |
 | Milo's Quest | 137608 | [137608-milos-quest.json](./137608-milos-quest.json) |
+| Milo's Quest | 360286 | [360286-milos-quest.json](./360286-milos-quest.json) |
 | Milo's Tiny Fish Pond | 414169 | [414169-milos-tiny-fish-pond.json](./414169-milos-tiny-fish-pond.json) |
 | Milon no Hoshizora Shabon: Puzzle Kumikyoku | 97681 | [97681-milon-no-hoshizora-shabon-puzzle-kumikyoku.json](./97681-milon-no-hoshizora-shabon-puzzle-kumikyoku.json) |
 | Milon's Secret Castle | 48081 | [48081-milons-secret-castle.json](./48081-milons-secret-castle.json) |
@@ -11995,6 +12001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Army Tactics Medieval | 190343 | [190343-mini-army-tactics-medieval.json](./190343-mini-army-tactics-medieval.json) |
 | Mini Attack Submarine | 57763 | [57763-mini-attack-submarine.json](./57763-mini-attack-submarine.json) |
 | Mini Avoid | 208158 | [208158-mini-avoid.json](./208158-mini-avoid.json) |
+| Mini Bash | 360463 | [360463-mini-bash.json](./360463-mini-bash.json) |
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
 | Mini Battle Ground | 191033 | [191033-mini-battle-ground.json](./191033-mini-battle-ground.json) |
 | Mini Bike Challenge | 409119 | [409119-mini-bike-challenge.json](./409119-mini-bike-challenge.json) |
