@@ -3085,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Ninjago: Spinjitzu Smash | 251420 | [251420-lego-ninjago-spinjitzu-smash.json](./251420-lego-ninjago-spinjitzu-smash.json) |
 | LEGO Ninjago: Spinjitzu Smash DX | 343140 | [343140-lego-ninjago-spinjitzu-smash-dx.json](./343140-lego-ninjago-spinjitzu-smash-dx.json) |
 | LEGO Ninjago: Spinjitzu Snakedown | 343198 | [343198-lego-ninjago-spinjitzu-snakedown.json](./343198-lego-ninjago-spinjitzu-snakedown.json) |
+| LEGO Ninjago: The Final Battle | 373236 | [373236-lego-ninjago-the-final-battle.json](./373236-lego-ninjago-the-final-battle.json) |
 | LEGO Ninjago: The Four Paths | 340034 | [340034-lego-ninjago-the-four-paths.json](./340034-lego-ninjago-the-four-paths.json) |
 | LEGO Ninjago: Tournament | 77616 | [77616-lego-ninjago-tournament.json](./77616-lego-ninjago-tournament.json) |
 | LEGO Ninjago: Viper Smash | 343132 | [343132-lego-ninjago-viper-smash.json](./343132-lego-ninjago-viper-smash.json) |
@@ -8447,6 +8448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Sucks: Night One | 156516 | [156516-love-sucks-night-one.json](./156516-love-sucks-night-one.json) |
 | Love Sucks: Night Three | 303639 | [303639-love-sucks-night-three.json](./303639-love-sucks-night-three.json) |
 | Love Sucks: Night Two | 220433 | [220433-love-sucks-night-two.json](./220433-love-sucks-night-two.json) |
+| Love Surge! | 372946 | [372946-love-surge.json](./372946-love-surge.json) |
 | Love Sweets | 178338 | [178338-love-sweets.json](./178338-love-sweets.json) |
 | Love Take Back | 330814 | [330814-love-take-back.json](./330814-love-take-back.json) |
 | Love Talks | 209477 | [209477-love-talks.json](./209477-love-talks.json) |
