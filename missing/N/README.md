@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nameless Worlds | 117585 | [117585-nameless-worlds.json](./117585-nameless-worlds.json) |
 | Nameless: the Hackers | 200322 | [200322-nameless-the-hackers.json](./200322-nameless-the-hackers.json) |
 | Nameless: The One Thing You Must Recall | 28580 | [28580-nameless-the-one-thing-you-must-recall.json](./28580-nameless-the-one-thing-you-must-recall.json) |
+| Namennayo | 385767 | [385767-namennayo.json](./385767-namennayo.json) |
 | Nami | 169846 | [169846-nami.json](./169846-nami.json) |
 | Nami no Iro: The Color of the Waves | 385775 | [385775-nami-no-iro-the-color-of-the-waves.json](./385775-nami-no-iro-the-color-of-the-waves.json) |
 | Nami no Mani Mani - Sazanami Shinryoushou | 70645 | [70645-nami-no-mani-mani-sazanami-shinryoushou.json](./70645-nami-no-mani-mani-sazanami-shinryoushou.json) |
@@ -1912,6 +1913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekketsu Monogatari Advance | 266916 | [266916-nekketsu-monogatari-advance.json](./266916-nekketsu-monogatari-advance.json) |
 | Nekketsu Oyako | 61633 | [61633-nekketsu-oyako.json](./61633-nekketsu-oyako.json) |
 | Nekketsu Renegade Kunio-kun | 191643 | [191643-nekketsu-renegade-kunio-kun.json](./191643-nekketsu-renegade-kunio-kun.json) |
+| Nekketsu Stadium Card Baseball | 385507 | [385507-nekketsu-stadium-card-baseball.json](./385507-nekketsu-stadium-card-baseball.json) |
 | Nekketsu Tairiku: Burning Heroes | 15935 | [15935-nekketsu-tairiku-burning-heroes.json](./15935-nekketsu-tairiku-burning-heroes.json) |
 | Nekketsu! Beach Volley Da yo: Kunio-kun | 49107 | [49107-nekketsu-beach-volley-da-yo-kunio-kun.json](./49107-nekketsu-beach-volley-da-yo-kunio-kun.json) |
 | Nekketsu! Street Basketball All-Out Dunk Heroes | 48572 | [48572-nekketsu-street-basketball-all-out-dunk-heroes.json](./48572-nekketsu-street-basketball-all-out-dunk-heroes.json) |
@@ -6754,6 +6756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Force | 60583 | [60583-nova-force.json](./60583-nova-force.json) |
 | Nova Genetics | 160073 | [160073-nova-genetics.json](./160073-nova-genetics.json) |
 | Nova Golf | 89242 | [89242-nova-golf.json](./89242-nova-golf.json) |
+| Nova Hunter | 385520 | [385520-nova-hunter.json](./385520-nova-hunter.json) |
 | Nova III | 139027 | [139027-nova-iii.json](./139027-nova-iii.json) |
 | Nova Impact | 405521 | [405521-nova-impact.json](./405521-nova-impact.json) |
 | Nova Island | 144768 | [144768-nova-island.json](./144768-nova-island.json) |
@@ -6943,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NTR Hunter: Hisako’s Secret | 386949 | [386949-ntr-hunter-hisako-s-secret.json](./386949-ntr-hunter-hisako-s-secret.json) |
 | NTR Life | 392884 | [392884-ntr-life.json](./392884-ntr-life.json) |
 | NTR Sexy Girl With Cold-hearded | 389765 | [389765-ntr-sexy-girl-with-cold-hearded.json](./389765-ntr-sexy-girl-with-cold-hearded.json) |
+| NTR Tales: Adventurer Corruption | 385878 | [385878-ntr-tales-adventurer-corruption.json](./385878-ntr-tales-adventurer-corruption.json) |
 | NTR!? NTRed!? Trendy Slut's One Million Yen Repaying Project! | 82647 | [82647-ntr-ntred-trendy-sluts-one-million-yen-repaying-project.json](./82647-ntr-ntred-trendy-sluts-one-million-yen-repaying-project.json) |
 | NTR'd By Clumsiness | 236205 | [236205-ntrd-by-clumsiness.json](./236205-ntrd-by-clumsiness.json) |
 | NTRed Class Rep Yukino: H Days of Class Rep Who Can't Say No | 83173 | [83173-ntred-class-rep-yukino-h-days-of-class-rep-who-cant-say-no.json](./83173-ntred-class-rep-yukino-h-days-of-class-rep-who-cant-say-no.json) |
