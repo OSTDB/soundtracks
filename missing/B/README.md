@@ -4143,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleGlide | 301113 | [301113-battleglide.json](./301113-battleglide.json) |
 | Battlegods CCG: Card Battle | 91104 | [91104-battlegods-ccg-card-battle.json](./91104-battlegods-ccg-card-battle.json) |
 | Battleground | 147923 | [147923-battleground.json](./147923-battleground.json) |
+| Battleground | 356383 | [356383-battleground.json](./356383-battleground.json) |
 | Battleground 3: Waterloo | 608 | [608-battleground-3-waterloo.json](./608-battleground-3-waterloo.json) |
 | Battleground 4: Shiloh | 609 | [609-battleground-4-shiloh.json](./609-battleground-4-shiloh.json) |
 | Battleground 5: Antietam | 610 | [610-battleground-5-antietam.json](./610-battleground-5-antietam.json) |
@@ -11645,6 +11646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodacious Agents | 216620 | [216620-bodacious-agents.json](./216620-bodacious-agents.json) |
 | Bodacious Babes: Holidays | 302436 | [302436-bodacious-babes-holidays.json](./302436-bodacious-babes-holidays.json) |
 | Bodacious Babes: Nightlife | 295370 | [295370-bodacious-babes-nightlife.json](./295370-bodacious-babes-nightlife.json) |
+| Bodacious Blasteroids | 356368 | [356368-bodacious-blasteroids.json](./356368-bodacious-blasteroids.json) |
 | Bode Miller Alpine Skiing | 43553 | [43553-bode-miller-alpine-skiing.json](./43553-bode-miller-alpine-skiing.json) |
 | Bodega | 309904 | [309904-bodega.json](./309904-bodega.json) |
 | Bodge Dall | 180457 | [180457-bodge-dall.json](./180457-bodge-dall.json) |
@@ -12347,6 +12349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonfire Stories: Faceless Gravedigger - Collector's Edition | 381374 | [381374-bonfire-stories-faceless-gravedigger-collectors-edition.json](./381374-bonfire-stories-faceless-gravedigger-collectors-edition.json) |
 | Bonfire Stories: Manifest Horror | 417393 | [417393-bonfire-stories-manifest-horror.json](./417393-bonfire-stories-manifest-horror.json) |
 | Bonfire Stories: Manifest Horror - Collector's Edition | 417394 | [417394-bonfire-stories-manifest-horror-collectors-edition.json](./417394-bonfire-stories-manifest-horror-collectors-edition.json) |
+| Bonfires of Azure | 356374 | [356374-bonfires-of-azure.json](./356374-bonfires-of-azure.json) |
 | Bong | 201992 | [201992-bong.json](./201992-bong.json) |
 | Bong Bong | 111549 | [111549-bong-bong.json](./111549-bong-bong.json) |
 | BongBongCapy | 400862 | [400862-bongbongcapy.json](./400862-bongbongcapy.json) |
