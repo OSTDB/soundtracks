@@ -3770,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
 | Fenix Box | 81925 | [81925-fenix-box.json](./81925-fenix-box.json) |
 | Fenix Rage | 17295 | [17295-fenix-rage.json](./17295-fenix-rage.json) |
+| Fenrir Banquet | 359136 | [359136-fenrir-banquet.json](./359136-fenrir-banquet.json) |
 | Fenrir's fury | 252245 | [252245-fenrirs-fury.json](./252245-fenrirs-fury.json) |
 | Fenrir's Prelude | 143510 | [143510-fenrirs-prelude.json](./143510-fenrirs-prelude.json) |
 | Fentanyl Edition | 327411 | [327411-fentanyl-edition.json](./327411-fentanyl-edition.json) |
@@ -9310,6 +9311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forestation: Circles of Nature | 118325 | [118325-forestation-circles-of-nature.json](./118325-forestation-circles-of-nature.json) |
 | Forested Super Mario Bros. U | 314122 | [314122-forested-super-mario-bros-u.json](./314122-forested-super-mario-bros-u.json) |
 | Forester Simulator 2026: Mushroom Hunting | 387104 | [387104-forester-simulator-2026-mushroom-hunting.json](./387104-forester-simulator-2026-mushroom-hunting.json) |
+| Forester: First Step | 359160 | [359160-forester-first-step.json](./359160-forester-first-step.json) |
 | Forestia Révoltozoo | 389663 | [389663-forestia-revoltozoo.json](./389663-forestia-revoltozoo.json) |
 | Forestless | 351275 | [351275-forestless.json](./351275-forestless.json) |
 | Forestress Shade | 397495 | [397495-forestress-shade.json](./397495-forestress-shade.json) |
@@ -9449,6 +9451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Adventure | 101388 | [101388-forgotten-adventure.json](./101388-forgotten-adventure.json) |
 | Forgotten at Fredbear's | 385937 | [385937-forgotten-at-fredbears.json](./385937-forgotten-at-fredbears.json) |
 | Forgotten Ball | 33725 | [33725-forgotten-ball.json](./33725-forgotten-ball.json) |
+| Forgotten Beginnings: A New Afterlife | 359162 | [359162-forgotten-beginnings-a-new-afterlife.json](./359162-forgotten-beginnings-a-new-afterlife.json) |
 | Forgotten Blood | 404288 | [404288-forgotten-blood.json](./404288-forgotten-blood.json) |
 | Forgotten but Unbroken | 223293 | [223293-forgotten-but-unbroken.json](./223293-forgotten-but-unbroken.json) |
 | Forgotten Castle | 113891 | [113891-forgotten-castle.json](./113891-forgotten-castle.json) |
