@@ -5164,6 +5164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeper Club | 396698 | [396698-deeper-club.json](./396698-deeper-club.json) |
 | Deeper in the Dark | 240047 | [240047-deeper-in-the-dark.json](./240047-deeper-in-the-dark.json) |
 | Deeper Red 2028: We Are Escape | 128345 | [128345-deeper-red-2028-we-are-escape.json](./128345-deeper-red-2028-we-are-escape.json) |
+| Deeper Still | 398088 | [398088-deeper-still.json](./398088-deeper-still.json) |
 | Deeper Than Hell | 295792 | [295792-deeper-than-hell.json](./295792-deeper-than-hell.json) |
 | Deeper You Go | 346746 | [346746-deeper-you-go.json](./346746-deeper-you-go.json) |
 | Deepest Depth | 320186 | [320186-deepest-depth.json](./320186-deepest-depth.json) |
@@ -6201,6 +6202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Island | 301576 | [301576-demons-island.json](./301576-demons-island.json) |
 | Demon's Mirror | 152170 | [152170-demons-mirror.json](./152170-demons-mirror.json) |
 | Demon's Nightmare: Ar Ek-Qua Er Seta | 177704 | [177704-demons-nightmare-ar-ek-qua-er-seta.json](./177704-demons-nightmare-ar-ek-qua-er-seta.json) |
+| Demon’s Reign | 398098 | [398098-demon-s-reign.json](./398098-demon-s-reign.json) |
 | Demon's Residence | 164275 | [164275-demons-residence.json](./164275-demons-residence.json) |
 | Demon's Residence | 207878 | [207878-demons-residence.json](./207878-demons-residence.json) |
 | Demon's Revenge | 13587 | [13587-demons-revenge.json](./13587-demons-revenge.json) |
@@ -7866,6 +7868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DFP: Disappear From Polizia | 373098 | [373098-dfp-disappear-from-polizia.json](./373098-dfp-disappear-from-polizia.json) |
 | Dfragmente | 76555 | [76555-dfragmente.json](./76555-dfragmente.json) |
 | Dfuse | 314423 | [314423-dfuse.json](./314423-dfuse.json) |
+| DG Little Red Riding Hood | 398093 | [398093-dg-little-red-riding-hood.json](./398093-dg-little-red-riding-hood.json) |
 | DGGWare | 301292 | [301292-dggware.json](./301292-dggware.json) |
 | DGU: Death God University | 35689 | [35689-dgu-death-god-university.json](./35689-dgu-death-god-university.json) |
 | DGU: Death God University - Finals Week | 165962 | [165962-dgu-death-god-university-finals-week.json](./165962-dgu-death-god-university-finals-week.json) |
@@ -9861,6 +9864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Learning: Math Quest with Aladdin | 70247 | [70247-disney-learning-math-quest-with-aladdin.json](./70247-disney-learning-math-quest-with-aladdin.json) |
 | Disney Learning: Phonics Quest | 59939 | [59939-disney-learning-phonics-quest.json](./59939-disney-learning-phonics-quest.json) |
 | Disney Learning: Toddler | 50478 | [50478-disney-learning-toddler.json](./50478-disney-learning-toddler.json) |
+| Disney Magic Connection | 398128 | [398128-disney-magic-connection.json](./398128-disney-magic-connection.json) |
 | Disney Magic Kingdoms | 86813 | [86813-disney-magic-kingdoms.json](./86813-disney-magic-kingdoms.json) |
 | Disney Magical Dice | 55158 | [55158-disney-magical-dice.json](./55158-disney-magical-dice.json) |
 | Disney Magical Dice: The Enchanted Board Game | 98240 | [98240-disney-magical-dice-the-enchanted-board-game.json](./98240-disney-magical-dice-the-enchanted-board-game.json) |
@@ -10703,6 +10707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Open | 183869 | [183869-do-not-open.json](./183869-do-not-open.json) |
 | Do Not Pass Go | 184967 | [184967-do-not-pass-go.json](./184967-do-not-pass-go.json) |
 | Do Not Play | 339989 | [339989-do-not-play.json](./339989-do-not-play.json) |
+| Do Not Press Me | 398135 | [398135-do-not-press-me.json](./398135-do-not-press-me.json) |
 | Do Not Press the Red Button | 88105 | [88105-do-not-press-the-red-button.json](./88105-do-not-press-the-red-button.json) |
 | Do Not Smile | 271107 | [271107-do-not-smile.json](./271107-do-not-smile.json) |
 | Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
@@ -17443,6 +17448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon's Hell | 163699 | [163699-dungeons-hell.json](./163699-dungeons-hell.json) |
 | Dungeon's Legion | 244122 | [244122-dungeons-legion.json](./244122-dungeons-legion.json) |
 | Dungeon&Girls | 131403 | [131403-dungeon-and-girls.json](./131403-dungeon-and-girls.json) |
+| Dungeon4X | 398108 | [398108-dungeon4x.json](./398108-dungeon4x.json) |
 | Dungeonblade: Haunted Kingdom | 185836 | [185836-dungeonblade-haunted-kingdom.json](./185836-dungeonblade-haunted-kingdom.json) |
 | Dungeonborne | 125037 | [125037-dungeonborne.json](./125037-dungeonborne.json) |
 | Dungeonborne | 253880 | [253880-dungeonborne.json](./253880-dungeonborne.json) |
