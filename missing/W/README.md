@@ -4300,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispered Secrets: Morbid Obsession - Collector's Edition | 362837 | [362837-whispered-secrets-morbid-obsession-collectors-edition.json](./362837-whispered-secrets-morbid-obsession-collectors-edition.json) |
 | Whispered Secrets: Poisoner's Masquerade | 416626 | [416626-whispered-secrets-poisoners-masquerade.json](./416626-whispered-secrets-poisoners-masquerade.json) |
 | Whispered Secrets: Poisoner's Masquerade - Collector's Edition | 409717 | [409717-whispered-secrets-poisoners-masquerade-collectors-edition.json](./409717-whispered-secrets-poisoners-masquerade-collectors-edition.json) |
+| Whispered Secrets: Purrfect Horror - Collector's Edition | 350309 | [350309-whispered-secrets-purrfect-horror-collectors-edition.json](./350309-whispered-secrets-purrfect-horror-collectors-edition.json) |
 | Whispered Secrets: Ripple of the Heart | 187972 | [187972-whispered-secrets-ripple-of-the-heart.json](./187972-whispered-secrets-ripple-of-the-heart.json) |
 | Whispered Secrets: Silence | 99915 | [99915-whispered-secrets-silence.json](./99915-whispered-secrets-silence.json) |
 | Whispered Secrets: Song of Sorrow - Collector's Edition | 361251 | [361251-whispered-secrets-song-of-sorrow-collectors-edition.json](./361251-whispered-secrets-song-of-sorrow-collectors-edition.json) |
