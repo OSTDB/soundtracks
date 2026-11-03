@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faery: Swapped | 298022 | [298022-faery-swapped.json](./298022-faery-swapped.json) |
 | FaeTerra | 309750 | [309750-faeterra.json](./309750-faeterra.json) |
 | Faewoods | 352248 | [352248-faewoods.json](./352248-faewoods.json) |
+| FAFO Executive Order Simulator | 390877 | [390877-fafo-executive-order-simulator.json](./390877-fafo-executive-order-simulator.json) |
 | Fahrenheit | 298554 | [298554-fahrenheit.json](./298554-fahrenheit.json) |
 | Fahrenheit | 298555 | [298555-fahrenheit.json](./298555-fahrenheit.json) |
 | Fahrenheit | 6612 | [6612-fahrenheit.json](./6612-fahrenheit.json) |
@@ -13291,6 +13292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuuun Takeshi-jou | 300010 | [300010-fuuun-takeshi-jou.json](./300010-fuuun-takeshi-jou.json) |
 | Fuuun! Daisoujou | 69087 | [69087-fuuun-daisoujou.json](./69087-fuuun-daisoujou.json) |
 | Fuwa! Fuwa! Omurice Simulator Roguelite | 415083 | [415083-fuwa-fuwa-omurice-simulator-roguelite.json](./415083-fuwa-fuwa-omurice-simulator-roguelite.json) |
+| FuwaFuwa Survivors | 390882 | [390882-fuwafuwa-survivors.json](./390882-fuwafuwa-survivors.json) |
 | Fúyáozhíshàng | 412943 | [412943-fuyaozhishang.json](./412943-fuyaozhishang.json) |
 | Fuyou no Joudo ni Okitamau | 397592 | [397592-fuyou-no-joudo-ni-okitamau.json](./397592-fuyou-no-joudo-ni-okitamau.json) |
 | Fuyu Kiss | 159292 | [159292-fuyu-kiss.json](./159292-fuyu-kiss.json) |
