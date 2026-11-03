@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | General Practitioner 2 | 196468 | [196468-general-practitioner-2.json](./196468-general-practitioner-2.json) |
 | General Room | 176979 | [176979-general-room.json](./176979-general-room.json) |
 | General Staff: Black Powder | 249226 | [249226-general-staff-black-powder.json](./249226-general-staff-black-powder.json) |
+| General Tactics: An Shi Rebellion | 363138 | [363138-general-tactics-an-shi-rebellion.json](./363138-general-tactics-an-shi-rebellion.json) |
 | General War Memories | 168623 | [168623-general-war-memories.json](./168623-general-war-memories.json) |
 | General Warfare | 328928 | [328928-general-warfare.json](./328928-general-warfare.json) |
 | General's Son | 48579 | [48579-generals-son.json](./48579-generals-son.json) |
