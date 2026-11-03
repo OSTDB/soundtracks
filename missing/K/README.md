@@ -3935,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Mischief | 397183 | [397183-kitten-mischief.json](./397183-kitten-mischief.json) |
 | Kitten Rampage | 33688 | [33688-kitten-rampage.json](./33688-kitten-rampage.json) |
 | Kitten Sanctuary | 54149 | [54149-kitten-sanctuary.json](./54149-kitten-sanctuary.json) |
+| Kitten Space Agency | 377729 | [377729-kitten-space-agency.json](./377729-kitten-space-agency.json) |
 | Kitten Squad | 30825 | [30825-kitten-squad.json](./30825-kitten-squad.json) |
 | Kitten Super Adventure | 35807 | [35807-kitten-super-adventure.json](./35807-kitten-super-adventure.json) |
 | Kitten Tales | 262483 | [262483-kitten-tales.json](./262483-kitten-tales.json) |
