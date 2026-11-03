@@ -8315,6 +8315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greatest Angels | 365856 | [365856-greatest-angels.json](./365856-greatest-angels.json) |
 | Greatest Artists Jigsaw Puzzle | 96828 | [96828-greatest-artists-jigsaw-puzzle.json](./96828-greatest-artists-jigsaw-puzzle.json) |
 | Greatest Dungeon | 295546 | [295546-greatest-dungeon.json](./295546-greatest-dungeon.json) |
+| Greatest Estate Developer | 394994 | [394994-greatest-estate-developer.json](./394994-greatest-estate-developer.json) |
 | Greatest Heavyweights | 45783 | [45783-greatest-heavyweights.json](./45783-greatest-heavyweights.json) |
 | Greatest Moments of Our Time | 176078 | [176078-greatest-moments-of-our-time.json](./176078-greatest-moments-of-our-time.json) |
 | Greatest Nine '96 | 176116 | [176116-greatest-nine-96.json](./176116-greatest-nine-96.json) |
@@ -8729,6 +8730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridlock Dungeon | 297221 | [297221-gridlock-dungeon.json](./297221-gridlock-dungeon.json) |
 | Gridlock Gladiators | 264675 | [264675-gridlock-gladiators.json](./264675-gridlock-gladiators.json) |
 | Gridlocke | 236791 | [236791-gridlocke.json](./236791-gridlocke.json) |
+| Gridlords | 395075 | [395075-gridlords.json](./395075-gridlords.json) |
 | GridMath | 151020 | [151020-gridmath.json](./151020-gridmath.json) |
 | Gridmount | 328954 | [328954-gridmount.json](./328954-gridmount.json) |
 | Gridnova | 417794 | [417794-gridnova.json](./417794-gridnova.json) |
