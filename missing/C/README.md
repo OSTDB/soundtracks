@@ -6128,6 +6128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheeky Chooks | 111620 | [111620-cheeky-chooks.json](./111620-cheeky-chooks.json) |
 | Cheeky Mouse | 40024 | [40024-cheeky-mouse.json](./40024-cheeky-mouse.json) |
 | Cheeky Princess | 189074 | [189074-cheeky-princess.json](./189074-cheeky-princess.json) |
+| Cheems Bonk | 351900 | [351900-cheems-bonk.json](./351900-cheems-bonk.json) |
 | Cheep Cheep Challenge | 268181 | [268181-cheep-cheep-challenge.json](./268181-cheep-cheep-challenge.json) |
 | Cheer and Track | 123517 | [123517-cheer-and-track.json](./123517-cheer-and-track.json) |
 | Cheer We Go! | 91722 | [91722-cheer-we-go.json](./91722-cheer-we-go.json) |
@@ -12876,6 +12877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect/Words | 87696 | [87696-connect-words.json](./87696-connect-words.json) |
 | Connect01 | 105657 | [105657-connect01.json](./105657-connect01.json) |
 | ConnecTank | 152381 | [152381-connectank.json](./152381-connectank.json) |
+| Connected Colors | 351906 | [351906-connected-colors.json](./351906-connected-colors.json) |
 | Connected Dreams | 225369 | [225369-connected-dreams.json](./225369-connected-dreams.json) |
 | Connected Fates | 310982 | [310982-connected-fates.json](./310982-connected-fates.json) |
 | Connected Hearts | 54525 | [54525-connected-hearts.json](./54525-connected-hearts.json) |
