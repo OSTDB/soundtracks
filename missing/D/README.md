@@ -3265,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Steady Pulse | 342802 | [342802-dead-by-daylight-steady-pulse.json](./342802-dead-by-daylight-steady-pulse.json) |
 | Dead by Daylight: Stranger Things - Jonathan Byers | 358410 | [358410-dead-by-daylight-stranger-things-jonathan-byers.json](./358410-dead-by-daylight-stranger-things-jonathan-byers.json) |
 | Dead by Daylight: Stranger Things Chapter | 129473 | [129473-dead-by-daylight-stranger-things-chapter.json](./129473-dead-by-daylight-stranger-things-chapter.json) |
+| Dead by Daylight: Stranger Things Chapter 2 | 388693 | [388693-dead-by-daylight-stranger-things-chapter-2.json](./388693-dead-by-daylight-stranger-things-chapter-2.json) |
 | Dead by Daylight: Stranger Things Edition | 164813 | [164813-dead-by-daylight-stranger-things-edition.json](./164813-dead-by-daylight-stranger-things-edition.json) |
 | Dead by Daylight: Survivor Edition | 136716 | [136716-dead-by-daylight-survivor-edition.json](./136716-dead-by-daylight-survivor-edition.json) |
 | Dead by Daylight: The 80's Suitcase | 227406 | [227406-dead-by-daylight-the-80s-suitcase.json](./227406-dead-by-daylight-the-80s-suitcase.json) |
@@ -6320,6 +6321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons with Shotguns | 35205 | [35205-demons-with-shotguns.json](./35205-demons-with-shotguns.json) |
 | Demons with Shotguns: Deluxe Edition | 52890 | [52890-demons-with-shotguns-deluxe-edition.json](./52890-demons-with-shotguns-deluxe-edition.json) |
 | Demons' Night Fever | 351210 | [351210-demons-night-fever.json](./351210-demons-night-fever.json) |
+| Demons' Timeline | 388666 | [388666-demons-timeline.json](./388666-demons-timeline.json) |
 | DemonsAreCrazy | 103228 | [103228-demonsarecrazy.json](./103228-demonsarecrazy.json) |
 | Demonschool | 204640 | [204640-demonschool.json](./204640-demonschool.json) |
 | Demonschool: Digital Deluxe Edition | 378957 | [378957-demonschool-digital-deluxe-edition.json](./378957-demonschool-digital-deluxe-edition.json) |
@@ -10580,6 +10582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Djikstra's Enigmatic Puzzle Cube | 278423 | [278423-djikstras-enigmatic-puzzle-cube.json](./278423-djikstras-enigmatic-puzzle-cube.json) |
 | Djilyaro | 75615 | [75615-djilyaro.json](./75615-djilyaro.json) |
 | Djinn Caster | 129605 | [129605-djinn-caster.json](./129605-djinn-caster.json) |
+| Djinn Scrolls | 388777 | [388777-djinn-scrolls.json](./388777-djinn-scrolls.json) |
 | Djinn: The Forbidden Knowledge | 302578 | [302578-djinn-the-forbidden-knowledge.json](./302578-djinn-the-forbidden-knowledge.json) |
 | Djinni & Thaco: Trial By Spire | 132779 | [132779-djinni-and-thaco-trial-by-spire.json](./132779-djinni-and-thaco-trial-by-spire.json) |
 | DJLand | 371909 | [371909-djland.json](./371909-djland.json) |
@@ -17306,6 +17309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Minos | 175346 | [175346-dungeon-of-minos.json](./175346-dungeon-of-minos.json) |
 | Dungeon of Minos - movable maze | 97142 | [97142-dungeon-of-minos-movable-maze.json](./97142-dungeon-of-minos-movable-maze.json) |
 | Dungeon of Nazarick | 147842 | [147842-dungeon-of-nazarick.json](./147842-dungeon-of-nazarick.json) |
+| Dungeon of Slyn | 388768 | [388768-dungeon-of-slyn.json](./388768-dungeon-of-slyn.json) |
 | Dungeon of Souls | 103900 | [103900-dungeon-of-souls.json](./103900-dungeon-of-souls.json) |
 | Dungeon of Stone | 290628 | [290628-dungeon-of-stone.json](./290628-dungeon-of-stone.json) |
 | Dungeon of the Damned | 200585 | [200585-dungeon-of-the-damned.json](./200585-dungeon-of-the-damned.json) |
