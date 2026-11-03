@@ -2383,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Lina | 110521 | [110521-legacy-of-lina.json](./110521-legacy-of-lina.json) |
 | Legacy of Medieval | 83283 | [83283-legacy-of-medieval.json](./83283-legacy-of-medieval.json) |
 | Legacy of Orsinium | 393944 | [393944-legacy-of-orsinium.json](./393944-legacy-of-orsinium.json) |
+| Legacy of Pandora | 365970 | [365970-legacy-of-pandora.json](./365970-legacy-of-pandora.json) |
 | Legacy of Rust | 313118 | [313118-legacy-of-rust.json](./313118-legacy-of-rust.json) |
 | Legacy of Shnaus: Horror Room Escape | 386196 | [386196-legacy-of-shnaus-horror-room-escape.json](./386196-legacy-of-shnaus-horror-room-escape.json) |
 | Legacy of Sin: Ill-Boding | 301243 | [301243-legacy-of-sin-ill-boding.json](./301243-legacy-of-sin-ill-boding.json) |
@@ -6892,6 +6893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Planet | 374174 | [374174-lonely-planet.json](./374174-lonely-planet.json) |
 | Lonely Red Night | 149700 | [149700-lonely-red-night.json](./149700-lonely-red-night.json) |
 | Lonely Rover | 121216 | [121216-lonely-rover.json](./121216-lonely-rover.json) |
+| Lonely Rover | 365959 | [365959-lonely-rover.json](./365959-lonely-rover.json) |
 | Lonely shooter | 111680 | [111680-lonely-shooter.json](./111680-lonely-shooter.json) |
 | Lonely Silver Rose | 407201 | [407201-lonely-silver-rose.json](./407201-lonely-silver-rose.json) |
 | Lonely Skies | 117811 | [117811-lonely-skies.json](./117811-lonely-skies.json) |
