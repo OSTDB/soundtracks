@@ -1949,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rara Magic | 298790 | [298790-rara-magic.json](./298790-rara-magic.json) |
 | Rara Racer | 125769 | [125769-rara-racer.json](./125769-rara-racer.json) |
 | Rare Collection 1 | 365170 | [365170-rare-collection-1.json](./365170-rare-collection-1.json) |
+| Rare Metel War: The Sins of Memory | 386323 | [386323-rare-metel-war-the-sins-of-memory.json](./386323-rare-metel-war-the-sins-of-memory.json) |
 | Rare Rabbits: Snuggle Haven | 374107 | [374107-rare-rabbits-snuggle-haven.json](./374107-rare-rabbits-snuggle-haven.json) |
 | Rare Replay | 11147 | [11147-rare-replay.json](./11147-rare-replay.json) |
 | Rarity | 307045 | [307045-rarity.json](./307045-rarity.json) |
