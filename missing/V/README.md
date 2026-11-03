@@ -2760,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Rush | 288269 | [288269-virus-rush.json](./288269-virus-rush.json) |
 | Virüs Saldırısı | 346464 | [346464-virus-sald-r-s.json](./346464-virus-sald-r-s.json) |
 | Virus Shooter XX | 65317 | [65317-virus-shooter-xx.json](./65317-virus-shooter-xx.json) |
+| Virus Survivor | 368201 | [368201-virus-survivor.json](./368201-virus-survivor.json) |
 | Virus X | 407840 | [407840-virus-x.json](./407840-virus-x.json) |
 | Virus Z | 43098 | [43098-virus-z.json](./43098-virus-z.json) |
 | Virus: It is Aware | 43794 | [43794-virus-it-is-aware.json](./43794-virus-it-is-aware.json) |
