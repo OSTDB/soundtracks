@@ -5608,6 +5608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6179,6 +6180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Gone Wrong | 376038 | [376038-meat-gone-wrong.json](./376038-meat-gone-wrong.json) |
 | Meat Grinder | 391149 | [391149-meat-grinder.json](./391149-meat-grinder.json) |
 | Meat Grinder: First Cut | 348384 | [348384-meat-grinder-first-cut.json](./348384-meat-grinder-first-cut.json) |
+| Meat II: Absolute Zero | 398110 | [398110-meat-ii-absolute-zero.json](./398110-meat-ii-absolute-zero.json) |
 | Meat is Murder | 379390 | [379390-meat-is-murder.json](./379390-meat-is-murder.json) |
 | Meat Lead Fire | 169632 | [169632-meat-lead-fire.json](./169632-meat-lead-fire.json) |
 | Meat Madness | 226171 | [226171-meat-madness.json](./226171-meat-madness.json) |
@@ -7490,6 +7492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Schwarzschild | 46388 | [46388-mega-schwarzschild.json](./46388-mega-schwarzschild.json) |
 | Mega Screen Solitaire | 330210 | [330210-mega-screen-solitaire.json](./330210-mega-screen-solitaire.json) |
 | Mega Serval | 224750 | [224750-mega-serval.json](./224750-mega-serval.json) |
+| Mega Shoot | 398127 | [398127-mega-shoot.json](./398127-mega-shoot.json) |
 | Mega Shooter: Shoot em up | 100922 | [100922-mega-shooter-shoot-em-up.json](./100922-mega-shooter-shoot-em-up.json) |
 | Mega Snake: 16-Bit Edition | 412598 | [412598-mega-snake-16-bit-edition.json](./412598-mega-snake-16-bit-edition.json) |
 | Mega Snake: highly addictive | 232602 | [232602-mega-snake-highly-addictive.json](./232602-mega-snake-highly-addictive.json) |
@@ -7748,6 +7751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megania Online | 169487 | [169487-megania-online.json](./169487-megania-online.json) |
 | Megankreuzstilette | 252297 | [252297-megankreuzstilette.json](./252297-megankreuzstilette.json) |
 | Meganoid | 29184 | [29184-meganoid.json](./29184-meganoid.json) |
+| Meganoid | 398103 | [398103-meganoid.json](./398103-meganoid.json) |
 | Meganoid: Chronicles | 370812 | [370812-meganoid-chronicles.json](./370812-meganoid-chronicles.json) |
 | Meganova | 93290 | [93290-meganova.json](./93290-meganova.json) |
 | Megapain | 398461 | [398461-megapain.json](./398461-megapain.json) |
