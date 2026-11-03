@@ -2142,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Bus Driver Simulator | 125726 | [125726-village-bus-driver-simulator.json](./125726-village-bus-driver-simulator.json) |
 | Village businessman | 159820 | [159820-village-businessman.json](./159820-village-businessman.json) |
 | Village City Island Sim Build | 104606 | [104606-village-city-island-sim-build.json](./104606-village-city-island-sim-build.json) |
+| Village Climb Obby | 375473 | [375473-village-climb-obby.json](./375473-village-climb-obby.json) |
 | Village Cricket | 175401 | [175401-village-cricket.json](./175401-village-cricket.json) |
 | Village Cult | 309452 | [309452-village-cult.json](./309452-village-cult.json) |
 | Village Defender | 149777 | [149777-village-defender.json](./149777-village-defender.json) |
