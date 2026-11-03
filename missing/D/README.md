@@ -8523,6 +8523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Difficult | 399873 | [399873-difficult.json](./399873-difficult.json) |
 | Difficult Platformer Game | 148804 | [148804-difficult-platformer-game.json](./148804-difficult-platformer-game.json) |
 | Difficult times | 327826 | [327826-difficult-times.json](./327826-difficult-times.json) |
+| Difficult Times 2 | 360879 | [360879-difficult-times-2.json](./360879-difficult-times-2.json) |
 | Difficult? Punch-Out!! | 410279 | [410279-difficult-punch-out.json](./410279-difficult-punch-out.json) |
 | Difficulty Spike | 130575 | [130575-difficulty-spike.json](./130575-difficulty-spike.json) |
 | Diffraction | 207247 | [207247-diffraction.json](./207247-diffraction.json) |
@@ -8946,6 +8947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensional Dilemma | 330506 | [330506-dimensional-dilemma.json](./330506-dimensional-dilemma.json) |
 | Dimensional Double Shift | 317856 | [317856-dimensional-double-shift.json](./317856-dimensional-double-shift.json) |
 | Dimensional Fighter Epsilon3 | 62593 | [62593-dimensional-fighter-epsilon3.json](./62593-dimensional-fighter-epsilon3.json) |
+| Dimensional Fold | 360862 | [360862-dimensional-fold.json](./360862-dimensional-fold.json) |
 | Dimensional Gates | 373496 | [373496-dimensional-gates.json](./373496-dimensional-gates.json) |
 | Dimensional Gears | 214047 | [214047-dimensional-gears.json](./214047-dimensional-gears.json) |
 | Dimensional Illusion | 324879 | [324879-dimensional-illusion.json](./324879-dimensional-illusion.json) |
@@ -13502,6 +13504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr Scrime's Spook School | 13607 | [13607-dr-scrimes-spook-school.json](./13607-dr-scrimes-spook-school.json) |
 | Dr Smart Space Adventure | 237554 | [237554-dr-smart-space-adventure.json](./237554-dr-smart-space-adventure.json) |
 | Dr Smart Space Encyclopedia | 242046 | [242046-dr-smart-space-encyclopedia.json](./242046-dr-smart-space-encyclopedia.json) |
+| Dr Voss' Escape Room | 360859 | [360859-dr-voss-escape-room.json](./360859-dr-voss-escape-room.json) |
 | Dr Wan | 246849 | [246849-dr-wan.json](./246849-dr-wan.json) |
 | Dr. Alb's Prodigy | 291844 | [291844-dr-albs-prodigy.json](./291844-dr-albs-prodigy.json) |
 | Dr. Atominus | 142807 | [142807-dr-atominus.json](./142807-dr-atominus.json) |
@@ -14717,6 +14720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons Online | 56000 | [56000-dragons-online.json](./56000-dragons-online.json) |
 | Dragons Online Ultra | 187753 | [187753-dragons-online-ultra.json](./187753-dragons-online-ultra.json) |
 | Dragons Reef | 344711 | [344711-dragons-reef.json](./344711-dragons-reef.json) |
+| Dragons Reef VR | 360877 | [360877-dragons-reef-vr.json](./360877-dragons-reef-vr.json) |
 | Dragons Vs Aircrafts | 101500 | [101500-dragons-vs-aircrafts.json](./101500-dragons-vs-aircrafts.json) |
 | Dragons War | 69335 | [69335-dragons-war.json](./69335-dragons-war.json) |
 | Dragons: Rise of Berk | 57751 | [57751-dragons-rise-of-berk.json](./57751-dragons-rise-of-berk.json) |
@@ -18389,6 +18393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynarog 2 | 165732 | [165732-dynarog-2.json](./165732-dynarog-2.json) |
 | Dynast.io | 115762 | [115762-dynast-io.json](./115762-dynast-io.json) |
 | Dynasthir | 244949 | [244949-dynasthir.json](./244949-dynasthir.json) |
+| Dynastopia | 360858 | [360858-dynastopia.json](./360858-dynastopia.json) |
 | Dynasty | 278441 | [278441-dynasty.json](./278441-dynasty.json) |
 | Dynasty | 41537 | [41537-dynasty.json](./41537-dynasty.json) |
 | Dynasty Blades | 58102 | [58102-dynasty-blades.json](./58102-dynasty-blades.json) |
