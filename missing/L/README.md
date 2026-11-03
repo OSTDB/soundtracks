@@ -4724,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights Out Luigi | 323285 | [323285-lights-out-luigi.json](./323285-lights-out-luigi.json) |
 | Lights Out, Please | 128827 | [128827-lights-out-please.json](./128827-lights-out-please.json) |
 | Lights Out, Run | 394678 | [394678-lights-out-run.json](./394678-lights-out-run.json) |
+| Lights Out: Forgotten Past | 368719 | [368719-lights-out-forgotten-past.json](./368719-lights-out-forgotten-past.json) |
 | Lights Out! | 376190 | [376190-lights-out.json](./376190-lights-out.json) |
 | Lights, Camera, Party! | 52543 | [52543-lights-camera-party.json](./52543-lights-camera-party.json) |
 | Lights! | 311983 | [311983-lights.json](./311983-lights.json) |
@@ -4903,6 +4904,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily | 332883 | [332883-lily.json](./332883-lily.json) |
 | Lily & Ghost | 285433 | [285433-lily-and-ghost.json](./285433-lily-and-ghost.json) |
 | Lily & Sury: Adventures On Cristya | 333230 | [333230-lily-and-sury-adventures-on-cristya.json](./333230-lily-and-sury-adventures-on-cristya.json) |
+| Lily Adventuresses! Episode 1: She Who Lost Everything but Her Name | 369304 | [369304-lily-adventuresses-episode-1-she-who-lost-everything-but-her-name.json](./369304-lily-adventuresses-episode-1-she-who-lost-everything-but-her-name.json) |
+| Lily Adventuresses! Episode 2: Rise of the Arcritters | 369305 | [369305-lily-adventuresses-episode-2-rise-of-the-arcritters.json](./369305-lily-adventuresses-episode-2-rise-of-the-arcritters.json) |
+| Lily Adventuresses! Episode 3: The Explorer Sisters and the Deepest Depths | 369306 | [369306-lily-adventuresses-episode-3-the-explorer-sisters-and-the-deepest-depths.json](./369306-lily-adventuresses-episode-3-the-explorer-sisters-and-the-deepest-depths.json) |
 | Lily Adventuresses! Episode 4: The Ancienaut beneath the Mask | 419954 | [419954-lily-adventuresses-episode-4-the-ancienaut-beneath-the-mask.json](./419954-lily-adventuresses-episode-4-the-ancienaut-beneath-the-mask.json) |
 | Lily Bard Mysteries: The Body in Shakespeare Park | 120617 | [120617-lily-bard-mysteries-the-body-in-shakespeare-park.json](./120617-lily-bard-mysteries-the-body-in-shakespeare-park.json) |
 | Lily Bergamo | 52542 | [52542-lily-bergamo.json](./52542-lily-bergamo.json) |
@@ -6171,6 +6175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Dolls Rebirth Alpha | 270030 | [270030-living-dolls-rebirth-alpha.json](./270030-living-dolls-rebirth-alpha.json) |
 | Living in 2020 | 368909 | [368909-living-in-2020.json](./368909-living-in-2020.json) |
 | Living in a Brothel | 304293 | [304293-living-in-a-brothel.json](./304293-living-in-a-brothel.json) |
+| Living In Infinity | 369263 | [369263-living-in-infinity.json](./369263-living-in-infinity.json) |
 | Living in Spring | 297364 | [297364-living-in-spring.json](./297364-living-in-spring.json) |
 | Living in the Ending World | 140406 | [140406-living-in-the-ending-world.json](./140406-living-in-the-ending-world.json) |
 | Living Island Project | 284330 | [284330-living-island-project.json](./284330-living-island-project.json) |
@@ -9307,6 +9312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna Crabs | 71054 | [71054-luna-crabs.json](./71054-luna-crabs.json) |
 | Luna de Selene | 383349 | [383349-luna-de-selene.json](./383349-luna-de-selene.json) |
 | Luna Game | 228656 | [228656-luna-game.json](./228656-luna-game.json) |
+| Luna Has Gone | 369282 | [369282-luna-has-gone.json](./369282-luna-has-gone.json) |
 | Luna Hop | 342300 | [342300-luna-hop.json](./342300-luna-hop.json) |
 | Luna in Silver Shards | 271233 | [271233-luna-in-silver-shards.json](./271233-luna-in-silver-shards.json) |
 | Luna League Soccer | 267324 | [267324-luna-league-soccer.json](./267324-luna-league-soccer.json) |
