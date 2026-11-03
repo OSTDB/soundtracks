@@ -3642,6 +3642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Was | 372210 | [372210-what-was.json](./372210-what-was.json) |
 | What Was Here? 1-Minute Memory Quiz!! | 420687 | [420687-what-was-here-1-minute-memory-quiz.json](./420687-what-was-here-1-minute-memory-quiz.json) |
 | What Was Home | 374148 | [374148-what-was-home.json](./374148-what-was-home.json) |
+| What We Bring | 398122 | [398122-what-we-bring.json](./398122-what-we-bring.json) |
 | What We Carry | 386478 | [386478-what-we-carry.json](./386478-what-we-carry.json) |
 | What We Carry | 405565 | [405565-what-we-carry.json](./405565-what-we-carry.json) |
 | What We Pretend to Be | 142173 | [142173-what-we-pretend-to-be.json](./142173-what-we-pretend-to-be.json) |
@@ -9032,6 +9033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyv and Keep: The Temple of the Lost Idol | 16847 | [16847-wyv-and-keep-the-temple-of-the-lost-idol.json](./16847-wyv-and-keep-the-temple-of-the-lost-idol.json) |
 | Wyvern | 389106 | [389106-wyvern.json](./389106-wyvern.json) |
 | Wyvern | 97988 | [97988-wyvern.json](./97988-wyvern.json) |
+| Wyvern F-0 | 398117 | [398117-wyvern-f-0.json](./398117-wyvern-f-0.json) |
 | Wyvern Studios Solitaire: 30th Aniversary Edition | 289861 | [289861-wyvern-studios-solitaire-30th-aniversary-edition.json](./289861-wyvern-studios-solitaire-30th-aniversary-edition.json) |
 | Wyvern Studios Solitaire: Solitaire Favorites | 294004 | [294004-wyvern-studios-solitaire-solitaire-favorites.json](./294004-wyvern-studios-solitaire-solitaire-favorites.json) |
 | Wyvern Warriors | 410079 | [410079-wyvern-warriors.json](./410079-wyvern-warriors.json) |
