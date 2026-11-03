@@ -3132,6 +3132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat to the Beat | 319430 | [319430-bat-to-the-beat.json](./319430-bat-to-the-beat.json) |
 | Bat to the Heavens | 307210 | [307210-bat-to-the-heavens.json](./307210-bat-to-the-heavens.json) |
 | Bat-L-Blocks | 92616 | [92616-bat-l-blocks.json](./92616-bat-l-blocks.json) |
+| Bat-Rush | 372963 | [372963-bat-rush.json](./372963-bat-rush.json) |
 | BataGacha! | 121031 | [121031-batagacha.json](./121031-batagacha.json) |
 | Batalia | 145247 | [145247-batalia.json](./145247-batalia.json) |
 | Batalj | 112225 | [112225-batalj.json](./112225-batalj.json) |
@@ -8209,6 +8210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Shashinkan II: Moving School | 41378 | [41378-bishoujo-shashinkan-ii-moving-school.json](./41378-bishoujo-shashinkan-ii-moving-school.json) |
 | Bishoujo Shashinkan Part III: Photo Club - Kyoufu no Kan Hen | 67385 | [67385-bishoujo-shashinkan-part-iii-photo-club-kyoufu-no-kan-hen.json](./67385-bishoujo-shashinkan-part-iii-photo-club-kyoufu-no-kan-hen.json) |
 | Bishoujo Shashinkan Special: Double Vision | 67384 | [67384-bishoujo-shashinkan-special-double-vision.json](./67384-bishoujo-shashinkan-special-double-vision.json) |
+| Bishoujo Tennis | 372962 | [372962-bishoujo-tennis.json](./372962-bishoujo-tennis.json) |
 | Bishoujo Variety Game: Rapyulus Panic | 45416 | [45416-bishoujo-variety-game-rapyulus-panic.json](./45416-bishoujo-variety-game-rapyulus-panic.json) |
 | Bishoujo Wrestler Retsuden: Blizzard Yuki Rannyuu!! | 38275 | [38275-bishoujo-wrestler-retsuden-blizzard-yuki-rannyuu.json](./38275-bishoujo-wrestler-retsuden-blizzard-yuki-rannyuu.json) |
 | Bismarck: Death of a Battleship | 15674 | [15674-bismarck-death-of-a-battleship.json](./15674-bismarck-death-of-a-battleship.json) |
