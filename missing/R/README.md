@@ -5491,6 +5491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistance TD | 132463 | [132463-resistance-td.json](./132463-resistance-td.json) |
 | Resistance: The 8th Wave | 192689 | [192689-resistance-the-8th-wave.json](./192689-resistance-the-8th-wave.json) |
 | Resistor | 252786 | [252786-resistor.json](./252786-resistor.json) |
+| Resize Me! | 365386 | [365386-resize-me.json](./365386-resize-me.json) |
 | reSnake | 230734 | [230734-resnake.json](./230734-resnake.json) |
 | Reso-Seeker | 244630 | [244630-reso-seeker.json](./244630-reso-seeker.json) |
 | Resobeat | 377046 | [377046-resobeat.json](./377046-resobeat.json) |
@@ -7179,6 +7180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riftella | 395960 | [395960-riftella.json](./395960-riftella.json) |
 | Rifter | 255498 | [255498-rifter.json](./255498-rifter.json) |
 | Riftfall | 411762 | [411762-riftfall.json](./411762-riftfall.json) |
+| RiftGuard | 365368 | [365368-riftguard.json](./365368-riftguard.json) |
 | Riftnote | 158920 | [158920-riftnote.json](./158920-riftnote.json) |
 | Riftopia | 346234 | [346234-riftopia.json](./346234-riftopia.json) |
 | Riftshot | 417536 | [417536-riftshot.json](./417536-riftshot.json) |
