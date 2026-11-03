@@ -2154,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiǔtiān Fēngshén | 156223 | [156223-jiutian-fengshen.json](./156223-jiutian-fengshen.json) |
 | JiuTian Idle RPG | 187845 | [187845-jiutian-idle-rpg.json](./187845-jiutian-idle-rpg.json) |
 | Jiǔxiāo Huánshén Jì | 119640 | [119640-jiuxiao-huanshen-ji.json](./119640-jiuxiao-huanshen-ji.json) |
+| Jiuzhaigou Valley Scenic and Historic Interest Area | 379061 | [379061-jiuzhaigou-valley-scenic-and-historic-interest-area.json](./379061-jiuzhaigou-valley-scenic-and-historic-interest-area.json) |
 | Jiǔzhōu Jiàn Gē | 367405 | [367405-jiuzhou-jian-ge.json](./367405-jiuzhou-jian-ge.json) |
 | Jivana | 187295 | [187295-jivana.json](./187295-jivana.json) |
 | Jive Blocks | 222993 | [222993-jive-blocks.json](./222993-jive-blocks.json) |
