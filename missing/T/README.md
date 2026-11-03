@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table of Tales: The Crooked Crown | 103347 | [103347-table-of-tales-the-crooked-crown.json](./103347-table-of-tales-the-crooked-crown.json) |
 | Table Party | 276641 | [276641-table-party.json](./276641-table-party.json) |
 | Table Party: Kushi Express | 352508 | [352508-table-party-kushi-express.json](./352508-table-party-kushi-express.json) |
+| Table Party: Memoroute | 351495 | [351495-table-party-memoroute.json](./351495-table-party-memoroute.json) |
 | Table Soccer | 94130 | [94130-table-soccer.json](./94130-table-soccer.json) |
 | Table Soccer Club | 151413 | [151413-table-soccer-club.json](./151413-table-soccer-club.json) |
 | Table Soccer Foosball | 147953 | [147953-table-soccer-foosball.json](./147953-table-soccer-foosball.json) |
@@ -11604,6 +11605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Lodge | 392476 | [392476-the-last-lodge.json](./392476-the-last-lodge.json) |
 | The Last Login | 406897 | [406897-the-last-login.json](./406897-the-last-login.json) |
 | The Last Look | 32871 | [32871-the-last-look.json](./32871-the-last-look.json) |
+| The Last Love Letter | 351359 | [351359-the-last-love-letter.json](./351359-the-last-love-letter.json) |
 | The Last Lover | 224973 | [224973-the-last-lover.json](./224973-the-last-lover.json) |
 | The Last Lunch | 413906 | [413906-the-last-lunch.json](./413906-the-last-lunch.json) |
 | The Last Mage | 350430 | [350430-the-last-mage.json](./350430-the-last-mage.json) |
@@ -16428,6 +16430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stillness of the Wind | 96275 | [96275-the-stillness-of-the-wind.json](./96275-the-stillness-of-the-wind.json) |
 | The Sting! | 11851 | [11851-the-sting.json](./11851-the-sting.json) |
 | The Stinky Adventures of DungDung | 403365 | [403365-the-stinky-adventures-of-dungdung.json](./403365-the-stinky-adventures-of-dungdung.json) |
+| The Stochastic Dungeons of Apogee | 351360 | [351360-the-stochastic-dungeons-of-apogee.json](./351360-the-stochastic-dungeons-of-apogee.json) |
 | The Stockpile | 253770 | [253770-the-stockpile.json](./253770-the-stockpile.json) |
 | The Stoevi Curse | 247476 | [247476-the-stoevi-curse.json](./247476-the-stoevi-curse.json) |
 | The Stomping Land | 6731 | [6731-the-stomping-land.json](./6731-the-stomping-land.json) |
