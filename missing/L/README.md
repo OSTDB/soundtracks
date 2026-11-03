@@ -5123,6 +5123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linelight | 27034 | [27034-linelight.json](./27034-linelight.json) |
 | Linelith | 199313 | [199313-linelith.json](./199313-linelith.json) |
 | Lineoff | 181913 | [181913-lineoff.json](./181913-lineoff.json) |
+| Linerunner | 396269 | [396269-linerunner.json](./396269-linerunner.json) |
 | Lines | 91339 | [91339-lines.json](./91339-lines.json) |
 | Lines - Best Puzzle Game | 87073 | [87073-lines-best-puzzle-game.json](./87073-lines-best-puzzle-game.json) |
 | Lines 3D | 140567 | [140567-lines-3d.json](./140567-lines-3d.json) |
