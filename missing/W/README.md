@@ -3144,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Bunny Farm | 338385 | [338385-welcome-to-bunny-farm.json](./338385-welcome-to-bunny-farm.json) |
 | Welcome to Cathouse | 118236 | [118236-welcome-to-cathouse.json](./118236-welcome-to-cathouse.json) |
 | Welcome To Chichester OVN 3: The Mysterious Affair at the Violet Hotel | 132264 | [132264-welcome-to-chichester-ovn-3-the-mysterious-affair-at-the-violet-hotel.json](./132264-welcome-to-chichester-ovn-3-the-mysterious-affair-at-the-violet-hotel.json) |
+| Welcome to Chirpvenience | 368745 | [368745-welcome-to-chirpvenience.json](./368745-welcome-to-chirpvenience.json) |
 | Welcome to Chornobayivka VR | 211275 | [211275-welcome-to-chornobayivka-vr.json](./211275-welcome-to-chornobayivka-vr.json) |
 | Welcome to Desal | 413022 | [413022-welcome-to-desal.json](./413022-welcome-to-desal.json) |
 | Welcome To Eden | 278918 | [278918-welcome-to-eden.json](./278918-welcome-to-eden.json) |
@@ -4312,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers From the Rift | 123479 | [123479-whispers-from-the-rift.json](./123479-whispers-from-the-rift.json) |
 | Whispers from Within: Moving On | 159832 | [159832-whispers-from-within-moving-on.json](./159832-whispers-from-within-moving-on.json) |
 | Whispers in Akarra | 180208 | [180208-whispers-in-akarra.json](./180208-whispers-in-akarra.json) |
+| Whispers in the Bitter Frost | 369289 | [369289-whispers-in-the-bitter-frost.json](./369289-whispers-in-the-bitter-frost.json) |
 | Whispers in the Dark | 165417 | [165417-whispers-in-the-dark.json](./165417-whispers-in-the-dark.json) |
 | Whispers in the Dark | 275423 | [275423-whispers-in-the-dark.json](./275423-whispers-in-the-dark.json) |
 | Whispers in the Fog | 347871 | [347871-whispers-in-the-fog.json](./347871-whispers-in-the-fog.json) |
@@ -5460,6 +5462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windwalkers | 9185 | [9185-windwalkers.json](./9185-windwalkers.json) |
 | Windward | 17902 | [17902-windward.json](./17902-windward.json) |
 | Windward Horizon | 298621 | [298621-windward-horizon.json](./298621-windward-horizon.json) |
+| Windweaver | 368724 | [368724-windweaver.json](./368724-windweaver.json) |
 | WindWind | 187665 | [187665-windwind.json](./187665-windwind.json) |
 | WindWord | 104641 | [104641-windword.json](./104641-windword.json) |
 | Windwoven | 374606 | [374606-windwoven.json](./374606-windwoven.json) |
