@@ -1178,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Day of Rome | 119551 | [119551-last-day-of-rome.json](./119551-last-day-of-rome.json) |
 | Last Day of Summer | 216575 | [216575-last-day-of-summer.json](./216575-last-day-of-summer.json) |
 | Last Day on Stroggos | 402832 | [402832-last-day-on-stroggos.json](./402832-last-day-on-stroggos.json) |
+| Last Day On The Ship | 395657 | [395657-last-day-on-the-ship.json](./395657-last-day-on-the-ship.json) |
 | Last Day Rules: Survival | 174717 | [174717-last-day-rules-survival.json](./174717-last-day-rules-survival.json) |
 | Last Day: Zombie Survival VR | 199484 | [199484-last-day-zombie-survival-vr.json](./199484-last-day-zombie-survival-vr.json) |
 | Last Days | 154316 | [154316-last-days.json](./154316-last-days.json) |
