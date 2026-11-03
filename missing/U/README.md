@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umokay 64DS 8: The End is Near... | 270374 | [270374-umokay-64ds-8-the-end-is-near.json](./270374-umokay-64ds-8-the-end-is-near.json) |
 | Umokay 64DS 9: The Purple Comet | 270375 | [270375-umokay-64ds-9-the-purple-comet.json](./270375-umokay-64ds-9-the-purple-comet.json) |
 | Umokay 64DS X: To Infinity And Beyond! | 270376 | [270376-umokay-64ds-x-to-infinity-and-beyond.json](./270376-umokay-64ds-x-to-infinity-and-beyond.json) |
+| Umortis | 372166 | [372166-umortis.json](./372166-umortis.json) |
 | Umpire Simulator | 88113 | [88113-umpire-simulator.json](./88113-umpire-simulator.json) |
 | Umpteenth Photo | 386887 | [386887-umpteenth-photo.json](./386887-umpteenth-photo.json) |
 | UMS II: Nations at War | 74007 | [74007-ums-ii-nations-at-war.json](./74007-ums-ii-nations-at-war.json) |
