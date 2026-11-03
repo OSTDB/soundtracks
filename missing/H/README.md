@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack 42: Typing Incremental | 407601 | [407601-hack-42-typing-incremental.json](./407601-hack-42-typing-incremental.json) |
 | Hack 5 | 171893 | [171893-hack-5.json](./171893-hack-5.json) |
 | Hack 6 | 294533 | [294533-hack-6.json](./294533-hack-6.json) |
+| Hack 8 | 367689 | [367689-hack-8.json](./367689-hack-8.json) |
 | Hack and Climb | 332284 | [332284-hack-and-climb.json](./332284-hack-and-climb.json) |
 | Hack and Slash Fury | 329207 | [329207-hack-and-slash-fury.json](./329207-hack-and-slash-fury.json) |
 | Hack And Slash Fury: Battalion Armor | 334515 | [334515-hack-and-slash-fury-battalion-armor.json](./334515-hack-and-slash-fury-battalion-armor.json) |
@@ -2129,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haru Uso: Passing Memories | 77857 | [77857-haru-uso-passing-memories.json](./77857-haru-uso-passing-memories.json) |
 | Haruiro Communication | 77849 | [77849-haruiro-communication.json](./77849-haruiro-communication.json) |
 | Harujion no Sakasekata | 396683 | [396683-harujion-no-sakasekata.json](./396683-harujion-no-sakasekata.json) |
+| Haruka Ao no Hanayome ni | 367681 | [367681-haruka-ao-no-hanayome-ni.json](./367681-haruka-ao-no-hanayome-ni.json) |
 | Haruka Drive! | 409417 | [409417-haruka-drive.json](./409417-haruka-drive.json) |
 | Haruka na Sora | 326640 | [326640-haruka-na-sora.json](./326640-haruka-na-sora.json) |
 | Haruka no Kuni | 341606 | [341606-haruka-no-kuni.json](./341606-haruka-no-kuni.json) |
@@ -2378,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsujou Saimin Appli: Shikyuu ni Todoku Chakushin'on | 108868 | [108868-hatsujou-saimin-appli-shikyuu-ni-todoku-chakushinon.json](./108868-hatsujou-saimin-appli-shikyuu-ni-todoku-chakushinon.json) |
 | Hatsujou Sprinkle | 107270 | [107270-hatsujou-sprinkle.json](./107270-hatsujou-sprinkle.json) |
 | Hatsujousei | 108856 | [108856-hatsujousei.json](./108856-hatsujousei.json) |
+| Hatsuka | 367652 | [367652-hatsuka.json](./367652-hatsuka.json) |
 | HatsuKare Renai Debut Sengen! | 59151 | [59151-hatsukare-renai-debut-sengen.json](./59151-hatsukare-renai-debut-sengen.json) |
 | Hatsukoi Bloom | 345245 | [345245-hatsukoi-bloom.json](./345245-hatsukoi-bloom.json) |
 | Hatsukoi Master Up | 329945 | [329945-hatsukoi-master-up.json](./329945-hatsukoi-master-up.json) |
@@ -4724,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Furry Goat | 411126 | [411126-hentai-furry-goat.json](./411126-hentai-furry-goat.json) |
 | Hentai Furry Milf | 384701 | [384701-hentai-furry-milf.json](./384701-hentai-furry-milf.json) |
 | Hentai Furry Pig | 399712 | [399712-hentai-furry-pig.json](./399712-hentai-furry-pig.json) |
+| Hentai Furry Pony | 367661 | [367661-hentai-furry-pony.json](./367661-hentai-furry-pony.json) |
 | Hentai Furry Sheepy | 396715 | [396715-hentai-furry-sheepy.json](./396715-hentai-furry-sheepy.json) |
 | Hentai Furry Unicorny | 347771 | [347771-hentai-furry-unicorny.json](./347771-hentai-furry-unicorny.json) |
 | Hentai Furry Wolfy | 368526 | [368526-hentai-furry-wolfy.json](./368526-hentai-furry-wolfy.json) |
@@ -7793,6 +7797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | History in Letters - The Eternal Alchemist | 36226 | [36226-history-in-letters-the-eternal-alchemist.json](./36226-history-in-letters-the-eternal-alchemist.json) |
 | History Lesson | 139388 | [139388-history-lesson.json](./139388-history-lesson.json) |
 | History Mosaics: Ancient Greece | 415879 | [415879-history-mosaics-ancient-greece.json](./415879-history-mosaics-ancient-greece.json) |
+| History of Football World Cup | 367692 | [367692-history-of-football-world-cup.json](./367692-history-of-football-world-cup.json) |
 | History of Korea: VR | 368266 | [368266-history-of-korea-vr.json](./368266-history-of-korea-vr.json) |
 | History Racers 2 | 127691 | [127691-history-racers-2.json](./127691-history-racers-2.json) |
 | History Table: Lore & Quiz | 173254 | [173254-history-table-lore-and-quiz.json](./173254-history-table-lore-and-quiz.json) |
