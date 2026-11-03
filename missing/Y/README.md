@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Died but a Necromancer Revived You | 116041 | [116041-you-died-but-a-necromancer-revived-you.json](./116041-you-died-but-a-necromancer-revived-you.json) |
 | You Dig | 414026 | [414026-you-dig.json](./414026-you-dig.json) |
 | You Do Jump | 202012 | [202012-you-do-jump.json](./202012-you-do-jump.json) |
+| You Do Not Exist | 349058 | [349058-you-do-not-exist.json](./349058-you-do-not-exist.json) |
 | You Do Voodoo | 294751 | [294751-you-do-voodoo.json](./294751-you-do-voodoo.json) |
 | You Doesn't Exist | 65826 | [65826-you-doesnt-exist.json](./65826-you-doesnt-exist.json) |
 | You Don't Belong Here | 391115 | [391115-you-dont-belong-here.json](./391115-you-dont-belong-here.json) |
