@@ -2410,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imouto Paradise! 3 | 404219 | [404219-imouto-paradise-3.json](./404219-imouto-paradise-3.json) |
 | Imouto Scramble | 299502 | [299502-imouto-scramble.json](./299502-imouto-scramble.json) |
 | Imouto Yugi | 97731 | [97731-imouto-yugi.json](./97731-imouto-yugi.json) |
+| Imp | 378448 | [378448-imp.json](./378448-imp.json) |
 | Imp Adventure | 385415 | [385415-imp-adventure.json](./385415-imp-adventure.json) |
 | Imp and Cubes | 246462 | [246462-imp-and-cubes.json](./246462-imp-and-cubes.json) |
 | Imp Dreams | 320189 | [320189-imp-dreams.json](./320189-imp-dreams.json) |
