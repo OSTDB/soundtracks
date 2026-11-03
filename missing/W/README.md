@@ -8388,6 +8388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Visitor | 267514 | [267514-worm-visitor.json](./267514-worm-visitor.json) |
 | Worm War I | 22556 | [22556-worm-war-i.json](./22556-worm-war-i.json) |
 | Worm War: Greengrocer | 290420 | [290420-worm-war-greengrocer.json](./290420-worm-war-greengrocer.json) |
+| Worm Wars | 355296 | [355296-worm-wars.json](./355296-worm-wars.json) |
 | Worm.is: The Game | 32723 | [32723-worm-is-the-game.json](./32723-worm-is-the-game.json) |
 | Wormate.io | 36808 | [36808-wormate-io.json](./36808-wormate-io.json) |
 | Wormatozoa | 190722 | [190722-wormatozoa.json](./190722-wormatozoa.json) |
