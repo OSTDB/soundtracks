@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Da Rock | 332579 | [332579-da-rock.json](./332579-da-rock.json) |
 | Dà Sānguó Shídài | 347226 | [347226-da-sanguo-shidai.json](./347226-da-sanguo-shidai.json) |
 | Dà Táng Xīyù Jì | 149892 | [149892-da-tang-xiyu-ji.json](./149892-da-tang-xiyu-ji.json) |
+| Da Tutu | 370365 | [370365-da-tutu.json](./370365-da-tutu.json) |
 | Da Vinci Cannon 2 | 219919 | [219919-da-vinci-cannon-2.json](./219919-da-vinci-cannon-2.json) |
 | Da Vinci Pinball | 89149 | [89149-da-vinci-pinball.json](./89149-da-vinci-pinball.json) |
 | Da Vinci's Legacy | 328319 | [328319-da-vincis-legacy.json](./328319-da-vincis-legacy.json) |
@@ -1820,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Side of War | 150599 | [150599-dark-side-of-war.json](./150599-dark-side-of-war.json) |
 | Dark Side: Moonbase Mayhem | 273206 | [273206-dark-side-moonbase-mayhem.json](./273206-dark-side-moonbase-mayhem.json) |
 | Dark Siege: The First Knight | 192677 | [192677-dark-siege-the-first-knight.json](./192677-dark-siege-the-first-knight.json) |
+| Dark Silence | 370933 | [370933-dark-silence.json](./370933-dark-silence.json) |
 | Dark Siren | 227716 | [227716-dark-siren.json](./227716-dark-siren.json) |
 | Dark Skeleton Survival | 118636 | [118636-dark-skeleton-survival.json](./118636-dark-skeleton-survival.json) |
 | Dark Skies 2: Keepers of Nemansk | 296689 | [296689-dark-skies-2-keepers-of-nemansk.json](./296689-dark-skies-2-keepers-of-nemansk.json) |
@@ -6799,6 +6801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Armor | 127217 | [127217-desert-armor.json](./127217-desert-armor.json) |
 | Desert Assault | 38631 | [38631-desert-assault.json](./38631-desert-assault.json) |
 | Desert attack | 163878 | [163878-desert-attack.json](./163878-desert-attack.json) |
+| Desert Blocks | 370397 | [370397-desert-blocks.json](./370397-desert-blocks.json) |
 | Desert Blossom | 201405 | [201405-desert-blossom.json](./201405-desert-blossom.json) |
 | Desert Breaker | 39862 | [39862-desert-breaker.json](./39862-desert-breaker.json) |
 | Desert Burner | 14029 | [14029-desert-burner.json](./14029-desert-burner.json) |
@@ -7041,6 +7044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desomnia | 365844 | [365844-desomnia.json](./365844-desomnia.json) |
 | DésoPadéso | 140845 | [140845-desopadeso.json](./140845-desopadeso.json) |
 | Desouled | 413087 | [413087-desouled.json](./413087-desouled.json) |
+| Despa | 370061 | [370061-despa.json](./370061-despa.json) |
 | Despair | 268774 | [268774-despair.json](./268774-despair.json) |
 | Despair 3 | 57684 | [57684-despair-3.json](./57684-despair-3.json) |
 | Despair Beneath the Sunless Sky | 416383 | [416383-despair-beneath-the-sunless-sky.json](./416383-despair-beneath-the-sunless-sky.json) |
@@ -8004,6 +8008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diagnosis -Inma no Note- | 97381 | [97381-diagnosis-inma-no-note.json](./97381-diagnosis-inma-no-note.json) |
 | Diagnosis Murder | 78400 | [78400-diagnosis-murder.json](./78400-diagnosis-murder.json) |
 | Diagnosis: Multitude | 196434 | [196434-diagnosis-multitude.json](./196434-diagnosis-multitude.json) |
+| Dial 666 | 370974 | [370974-dial-666.json](./370974-dial-666.json) |
 | Dial M for Machina | 403023 | [403023-dial-m-for-machina.json](./403023-dial-m-for-machina.json) |
 | Dial Pilot | 106839 | [106839-dial-pilot.json](./106839-dial-pilot.json) |
 | Dial-In | 195718 | [195718-dial-in.json](./195718-dial-in.json) |
@@ -8175,6 +8180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Mage 2 | 87866 | [87866-dice-mage-2.json](./87866-dice-mage-2.json) |
 | Dice Make 10! | 314860 | [314860-dice-make-10.json](./314860-dice-make-10.json) |
 | Dice Mayor | 253470 | [253470-dice-mayor.json](./253470-dice-mayor.json) |
+| Dice Merge | 370358 | [370358-dice-merge.json](./370358-dice-merge.json) |
 | Dice Mice | 184615 | [184615-dice-mice.json](./184615-dice-mice.json) |
 | Dice Mice | 409217 | [409217-dice-mice.json](./409217-dice-mice.json) |
 | Dice Nights | 414435 | [414435-dice-nights.json](./414435-dice-nights.json) |
@@ -9416,6 +9422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Bike Extreme | 87160 | [87160-dirt-bike-extreme.json](./87160-dirt-bike-extreme.json) |
 | Dirt Bike Extreme 3D | 330237 | [330237-dirt-bike-extreme-3d.json](./330237-dirt-bike-extreme-3d.json) |
 | Dirt Bike Insanity | 98688 | [98688-dirt-bike-insanity.json](./98688-dirt-bike-insanity.json) |
+| Dirt Bike Mini Racer | 370057 | [370057-dirt-bike-mini-racer.json](./370057-dirt-bike-mini-racer.json) |
 | Dirt Bike Motocross Stunts | 387009 | [387009-dirt-bike-motocross-stunts.json](./387009-dirt-bike-motocross-stunts.json) |
 | Dirt Bike Racer Simulator | 262848 | [262848-dirt-bike-racer-simulator.json](./262848-dirt-bike-racer-simulator.json) |
 | Dirt Bike Retro | 147637 | [147637-dirt-bike-retro.json](./147637-dirt-bike-retro.json) |
@@ -17750,6 +17757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Dungeons | 283544 | [283544-dungeons-and-dungeons.json](./283544-dungeons-and-dungeons.json) |
 | Dungeons and Female Teachers | 264758 | [264758-dungeons-and-female-teachers.json](./264758-dungeons-and-female-teachers.json) |
 | Dungeons and Goblins | 270328 | [270328-dungeons-and-goblins.json](./270328-dungeons-and-goblins.json) |
+| Dungeons and Honor | 370371 | [370371-dungeons-and-honor.json](./370371-dungeons-and-honor.json) |
 | Dungeons and Kingdoms | 157929 | [157929-dungeons-and-kingdoms.json](./157929-dungeons-and-kingdoms.json) |
 | Dungeons and Monsters | 268751 | [268751-dungeons-and-monsters.json](./268751-dungeons-and-monsters.json) |
 | Dungeons and Myths | 226816 | [226816-dungeons-and-myths.json](./226816-dungeons-and-myths.json) |
