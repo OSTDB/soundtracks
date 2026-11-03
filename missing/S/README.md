@@ -11648,6 +11648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkidStorm | 54977 | [54977-skidstorm.json](./54977-skidstorm.json) |
 | Skidz | 15369 | [15369-skidz.json](./15369-skidz.json) |
 | Skidz | 98828 | [98828-skidz.json](./98828-skidz.json) |
+| Skiers Landing | 363115 | [363115-skiers-landing.json](./363115-skiers-landing.json) |
 | Skies Above | 272931 | [272931-skies-above.json](./272931-skies-above.json) |
 | Skies Above the Great War | 244876 | [244876-skies-above-the-great-war.json](./244876-skies-above-the-great-war.json) |
 | Skies of Arcadia | 19007 | [19007-skies-of-arcadia.json](./19007-skies-of-arcadia.json) |
@@ -18695,6 +18696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20660,6 +20662,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man Cartoon Maker | 63702 | [63702-spider-man-cartoon-maker.json](./63702-spider-man-cartoon-maker.json) |
 | Spider-Man Ultimate Avenger | 383437 | [383437-spider-man-ultimate-avenger.json](./383437-spider-man-ultimate-avenger.json) |
 | Spider-Man vs. Doc Ock | 23542 | [23542-spider-man-vs-doc-ock.json](./23542-spider-man-vs-doc-ock.json) |
+| Spider-Man: 001 - Character: Spider-Man | 363267 | [363267-spider-man-001-character-spider-man.json](./363267-spider-man-001-character-spider-man.json) |
+| Spider-Man: 002 - Black Suit Mod: Black Widow | 363268 | [363268-spider-man-002-black-suit-mod-black-widow.json](./363268-spider-man-002-black-suit-mod-black-widow.json) |
+| Spider-Man: 003 - Black Suit Mod: Attitude Adjustment | 363269 | [363269-spider-man-003-black-suit-mod-attitude-adjustment.json](./363269-spider-man-003-black-suit-mod-attitude-adjustment.json) |
+| Spider-Man: 004 - Red Suit Mod: Fly Paper | 363271 | [363271-spider-man-004-red-suit-mod-fly-paper.json](./363271-spider-man-004-red-suit-mod-fly-paper.json) |
+| Spider-Man: 005 - Red Suit Mod: Daddy Long Legs | 363272 | [363272-spider-man-005-red-suit-mod-daddy-long-legs.json](./363272-spider-man-005-red-suit-mod-daddy-long-legs.json) |
 | Spider-Man: 006 - Arsenal Mod: Web Fluid | 363273 | [363273-spider-man-006-arsenal-mod-web-fluid.json](./363273-spider-man-006-arsenal-mod-web-fluid.json) |
 | Spider-Man: 007 - Black Suit Mod: Spider Bite | 363275 | [363275-spider-man-007-black-suit-mod-spider-bite.json](./363275-spider-man-007-black-suit-mod-spider-bite.json) |
 | Spider-Man: 008 - Black Suit Mod: The Tarantula | 363276 | [363276-spider-man-008-black-suit-mod-the-tarantula.json](./363276-spider-man-008-black-suit-mod-the-tarantula.json) |
@@ -25202,6 +25209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Return | 311275 | [311275-stellar-return.json](./311275-stellar-return.json) |
 | Stellar Rhythm | 372609 | [372609-stellar-rhythm.json](./372609-stellar-rhythm.json) |
 | Stellar Rising | 395790 | [395790-stellar-rising.json](./395790-stellar-rising.json) |
+| Stellar Routes | 363143 | [363143-stellar-routes.json](./363143-stellar-routes.json) |
 | Stellar Scrapm'n | 369009 | [369009-stellar-scrapmn.json](./369009-stellar-scrapmn.json) |
 | Stellar Serenity | 251764 | [251764-stellar-serenity.json](./251764-stellar-serenity.json) |
 | Stellar Settlers | 272276 | [272276-stellar-settlers.json](./272276-stellar-settlers.json) |
@@ -25744,6 +25752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sting & Swing | 398983 | [398983-sting-and-swing.json](./398983-sting-and-swing.json) |
 | Sting of the Wasp | 217760 | [217760-sting-of-the-wasp.json](./217760-sting-of-the-wasp.json) |
 | Sting Operation | 300748 | [300748-sting-operation.json](./300748-sting-operation.json) |
+| Stinger: Episode 1 | 363123 | [363123-stinger-episode-1.json](./363123-stinger-episode-1.json) |
 | Stingray | 299545 | [299545-stingray.json](./299545-stingray.json) |
 | Stink Bug Plague | 133304 | [133304-stink-bug-plague.json](./133304-stink-bug-plague.json) |
 | Stink Eye | 68379 | [68379-stink-eye.json](./68379-stink-eye.json) |
