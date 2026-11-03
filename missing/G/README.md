@@ -1743,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Buddies | 271860 | [271860-garden-buddies.json](./271860-garden-buddies.json) |
 | Garden Bundle | 164825 | [164825-garden-bundle.json](./164825-garden-bundle.json) |
 | Garden Business | 215902 | [215902-garden-business.json](./215902-garden-business.json) |
+| Garden Catcher | 364803 | [364803-garden-catcher.json](./364803-garden-catcher.json) |
 | Garden Circuit | 185006 | [185006-garden-circuit.json](./185006-garden-circuit.json) |
 | Garden City | 151118 | [151118-garden-city.json](./151118-garden-city.json) |
 | Garden City Bundle | 295257 | [295257-garden-city-bundle.json](./295257-garden-city-bundle.json) |
@@ -3647,6 +3648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost of a Tale | 7684 | [7684-ghost-of-a-tale.json](./7684-ghost-of-a-tale.json) |
 | Ghost of a Tale: Collector's Edition | 140166 | [140166-ghost-of-a-tale-collectors-edition.json](./140166-ghost-of-a-tale-collectors-edition.json) |
 | Ghost of Dragon | 133143 | [133143-ghost-of-dragon.json](./133143-ghost-of-dragon.json) |
+| Ghost of the Diced Steak | 364776 | [364776-ghost-of-the-diced-steak.json](./364776-ghost-of-the-diced-steak.json) |
 | Ghost of the Fireflies | 68729 | [68729-ghost-of-the-fireflies.json](./68729-ghost-of-the-fireflies.json) |
 | Ghost of the Seas | 150995 | [150995-ghost-of-the-seas.json](./150995-ghost-of-the-seas.json) |
 | Ghost of Tokyo | 406790 | [406790-ghost-of-tokyo.json](./406790-ghost-of-tokyo.json) |
