@@ -4231,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ternox Games 4-in-1 Bundle | 362379 | [362379-ternox-games-4-in-1-bundle.json](./362379-ternox-games-4-in-1-bundle.json) |
 | Tero: Terror Hour | 254312 | [254312-tero-terror-hour.json](./254312-tero-terror-hour.json) |
 | Terpaling Legend | 339406 | [339406-terpaling-legend.json](./339406-terpaling-legend.json) |
+| Terpenie | 371490 | [371490-terpenie.json](./371490-terpenie.json) |
 | Terra | 183439 | [183439-terra.json](./183439-terra.json) |
 | Terra | 196634 | [196634-terra.json](./196634-terra.json) |
 | Terra | 295236 | [295236-terra.json](./295236-terra.json) |
@@ -6041,11 +6042,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Polytopia: Elyrion | 219473 | [219473-the-battle-of-polytopia-elyrion.json](./219473-the-battle-of-polytopia-elyrion.json) |
 | The Battle of Polytopia: Forgotten | 370329 | [370329-the-battle-of-polytopia-forgotten.json](./370329-the-battle-of-polytopia-forgotten.json) |
 | The Battle of Polytopia: Hoodrick | 366857 | [366857-the-battle-of-polytopia-hoodrick.json](./366857-the-battle-of-polytopia-hoodrick.json) |
+| The Battle of Polytopia: Iqaruz | 371515 | [371515-the-battle-of-polytopia-iqaruz.json](./371515-the-battle-of-polytopia-iqaruz.json) |
+| The Battle of Polytopia: Khondor | 371513 | [371513-the-battle-of-polytopia-khondor.json](./371513-the-battle-of-polytopia-khondor.json) |
 | The Battle of Polytopia: Kickoo | 366858 | [366858-the-battle-of-polytopia-kickoo.json](./366858-the-battle-of-polytopia-kickoo.json) |
 | The Battle of Polytopia: Lirepacci | 366860 | [366860-the-battle-of-polytopia-lirepacci.json](./366860-the-battle-of-polytopia-lirepacci.json) |
+| The Battle of Polytopia: Luxidoor | 371517 | [371517-the-battle-of-polytopia-luxidoor.json](./371517-the-battle-of-polytopia-luxidoor.json) |
 | The Battle of Polytopia: Midŋighţ Skin - Elyrioŋ Tribe | 305532 | [305532-the-battle-of-polytopia-mid-ight-skin-elyrio-tribe.json](./305532-the-battle-of-polytopia-mid-ight-skin-elyrio-tribe.json) |
 | The Battle of Polytopia: New Dawn Skin | 381100 | [381100-the-battle-of-polytopia-new-dawn-skin.json](./381100-the-battle-of-polytopia-new-dawn-skin.json) |
 | The Battle of Polytopia: Polaris | 219475 | [219475-the-battle-of-polytopia-polaris.json](./219475-the-battle-of-polytopia-polaris.json) |
+| The Battle of Polytopia: Quetzali | 371512 | [371512-the-battle-of-polytopia-quetzali.json](./371512-the-battle-of-polytopia-quetzali.json) |
 | The Battle of Polytopia: Ragoo | 366856 | [366856-the-battle-of-polytopia-ragoo.json](./366856-the-battle-of-polytopia-ragoo.json) |
 | The Battle of Polytopia: Sha-po | 366862 | [366862-the-battle-of-polytopia-sha-po.json](./366862-the-battle-of-polytopia-sha-po.json) |
 | The Battle of Polytopia: Skin Pack 1 | 255230 | [255230-the-battle-of-polytopia-skin-pack-1.json](./255230-the-battle-of-polytopia-skin-pack-1.json) |
@@ -6055,6 +6060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Polytopia: Solaris | 370330 | [370330-the-battle-of-polytopia-solaris.json](./370330-the-battle-of-polytopia-solaris.json) |
 | The Battle of Polytopia: To-Lï | 371523 | [371523-the-battle-of-polytopia-to-li.json](./371523-the-battle-of-polytopia-to-li.json) |
 | The Battle of Polytopia: Ürkaz | 371526 | [371526-the-battle-of-polytopia-urkaz.json](./371526-the-battle-of-polytopia-urkaz.json) |
+| The Battle of Polytopia: Yădakk | 371516 | [371516-the-battle-of-polytopia-yadakk.json](./371516-the-battle-of-polytopia-yadakk.json) |
 | The Battle of Polytopia: Yorthwober | 366859 | [366859-the-battle-of-polytopia-yorthwober.json](./366859-the-battle-of-polytopia-yorthwober.json) |
 | The Battle of Polytopia+ | 357407 | [357407-the-battle-of-polytopia.json](./357407-the-battle-of-polytopia.json) |
 | The Battle of Sacred Heart | 239700 | [239700-the-battle-of-sacred-heart.json](./239700-the-battle-of-sacred-heart.json) |
@@ -14414,6 +14420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Primrose Path | 300362 | [300362-the-primrose-path.json](./300362-the-primrose-path.json) |
 | The Primrose Theater | 335860 | [335860-the-primrose-theater.json](./335860-the-primrose-theater.json) |
 | The Prince Edward | 256314 | [256314-the-prince-edward.json](./256314-the-prince-edward.json) |
+| The Prince Fights the Dragon | 371484 | [371484-the-prince-fights-the-dragon.json](./371484-the-prince-fights-the-dragon.json) |
 | The Prince is a 10, But... | 395850 | [395850-the-prince-is-a-10-but.json](./395850-the-prince-is-a-10-but.json) |
 | The Prince is Dead | 239877 | [239877-the-prince-is-dead.json](./239877-the-prince-is-dead.json) |
 | The Prince of Landis | 178791 | [178791-the-prince-of-landis.json](./178791-the-prince-of-landis.json) |
@@ -15074,6 +15081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Royal Romance: Book 3 | 313670 | [313670-the-royal-romance-book-3.json](./313670-the-royal-romance-book-3.json) |
 | The Royal Writ | 340830 | [340830-the-royal-writ.json](./340830-the-royal-writ.json) |
 | The RPG | 250819 | [250819-the-rpg.json](./250819-the-rpg.json) |
+| The RPS Game Show | 371189 | [371189-the-rps-game-show.json](./371189-the-rps-game-show.json) |
 | The Rub Rabbits! | 20488 | [20488-the-rub-rabbits.json](./20488-the-rub-rabbits.json) |
 | The Rubro Rose's Castle | 271563 | [271563-the-rubro-roses-castle.json](./271563-the-rubro-roses-castle.json) |
 | The Ruby Court | 298436 | [298436-the-ruby-court.json](./298436-the-ruby-court.json) |
