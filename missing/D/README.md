@@ -14392,6 +14392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest VII Reimagined: The Road of Regal Wretches | 375190 | [375190-dragon-quest-vii-reimagined-the-road-of-regal-wretches.json](./375190-dragon-quest-vii-reimagined-the-road-of-regal-wretches.json) |
 | Dragon Quest VII Reimagined: White Wolf Costume | 375191 | [375191-dragon-quest-vii-reimagined-white-wolf-costume.json](./375191-dragon-quest-vii-reimagined-white-wolf-costume.json) |
 | Dragon Quest VII: Fragments of the Forgotten Past | 23913 | [23913-dragon-quest-vii-fragments-of-the-forgotten-past.json](./23913-dragon-quest-vii-fragments-of-the-forgotten-past.json) |
+| Dragon Quest VII: Reimagined - Digital Deluxe Edition | 367098 | [367098-dragon-quest-vii-reimagined-digital-deluxe-edition.json](./367098-dragon-quest-vii-reimagined-digital-deluxe-edition.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 145528 | [145528-dragon-quest-viii-journey-of-the-cursed-king.json](./145528-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 205649 | [205649-dragon-quest-viii-journey-of-the-cursed-king.json](./205649-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Quest VIII: Journey of the Cursed King - Mobile Remaster | 313424 | [313424-dragon-quest-viii-journey-of-the-cursed-king-mobile-remaster.json](./313424-dragon-quest-viii-journey-of-the-cursed-king-mobile-remaster.json) |
