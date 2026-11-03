@@ -2817,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TDS | 287793 | [287793-tds.json](./287793-tds.json) |
 | TDS Legacy | 331381 | [331381-tds-legacy.json](./331381-tds-legacy.json) |
 | TDS v0.1.3 | 418219 | [418219-tds-v0-1-3.json](./418219-tds-v0-1-3.json) |
+| TDS: Tower Destiny Survive | 353603 | [353603-tds-tower-destiny-survive.json](./353603-tds-tower-destiny-survive.json) |
 | TDS: War Games | 203541 | [203541-tds-war-games.json](./203541-tds-war-games.json) |
 | Te Amo Mamá | 306753 | [306753-te-amo-mama.json](./306753-te-amo-mama.json) |
 | Te Encontré | 189986 | [189986-te-encontre.json](./189986-te-encontre.json) |
@@ -12628,6 +12629,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: Riders of Rohan - Heroic Edition Live | 95570 | [95570-the-lord-of-the-rings-online-riders-of-rohan-heroic-edition-live.json](./95570-the-lord-of-the-rings-online-riders-of-rohan-heroic-edition-live.json) |
 | The Lord of the Rings Online: Siege of Mirkwood | 21155 | [21155-the-lord-of-the-rings-online-siege-of-mirkwood.json](./21155-the-lord-of-the-rings-online-siege-of-mirkwood.json) |
 | The Lord of the Rings Online: War of Three Peaks | 275925 | [275925-the-lord-of-the-rings-online-war-of-three-peaks.json](./275925-the-lord-of-the-rings-online-war-of-three-peaks.json) |
+| The Lord of the Rings Pinball | 353605 | [353605-the-lord-of-the-rings-pinball.json](./353605-the-lord-of-the-rings-pinball.json) |
+| The Lord of the Rings Trivia Game | 353604 | [353604-the-lord-of-the-rings-trivia-game.json](./353604-the-lord-of-the-rings-trivia-game.json) |
 | The Lord of the Rings: Adventure Card Game | 77176 | [77176-the-lord-of-the-rings-adventure-card-game.json](./77176-the-lord-of-the-rings-adventure-card-game.json) |
 | The Lord of the Rings: Adventure Card Game - Definitive Edition | 147962 | [147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json](./147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json) |
 | The Lord of the Rings: Aragorn's Quest | 333444 | [333444-the-lord-of-the-rings-aragorns-quest.json](./333444-the-lord-of-the-rings-aragorns-quest.json) |
@@ -12641,6 +12644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: Heroes of Middle Earth | 209924 | [209924-the-lord-of-the-rings-heroes-of-middle-earth.json](./209924-the-lord-of-the-rings-heroes-of-middle-earth.json) |
 | The Lord of the Rings: Journey to Rivendell | 46888 | [46888-the-lord-of-the-rings-journey-to-rivendell.json](./46888-the-lord-of-the-rings-journey-to-rivendell.json) |
 | The Lord of the Rings: Journeys in Middle-earth | 115329 | [115329-the-lord-of-the-rings-journeys-in-middle-earth.json](./115329-the-lord-of-the-rings-journeys-in-middle-earth.json) |
+| The Lord of the Rings: Legends | 353610 | [353610-the-lord-of-the-rings-legends.json](./353610-the-lord-of-the-rings-legends.json) |
 | The Lord of the Rings: Return to Moria - Ent-craft Pack | 336898 | [336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json](./336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json) |
 | The Lord of the Rings: Rise to War | 174867 | [174867-the-lord-of-the-rings-rise-to-war.json](./174867-the-lord-of-the-rings-rise-to-war.json) |
 | The Lord of the Rings: Tactics | 22458 | [22458-the-lord-of-the-rings-tactics.json](./22458-the-lord-of-the-rings-tactics.json) |
@@ -12656,6 +12660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: The Two Towers | 248460 | [248460-the-lord-of-the-rings-the-two-towers.json](./248460-the-lord-of-the-rings-the-two-towers.json) |
 | The Lord of the Rings: The Two Towers | 2965 | [2965-the-lord-of-the-rings-the-two-towers.json](./2965-the-lord-of-the-rings-the-two-towers.json) |
 | The Lord of the Rings: Total War | 356262 | [356262-the-lord-of-the-rings-total-war.json](./356262-the-lord-of-the-rings-total-war.json) |
+| The Lord of the Rings: Trilogy | 353608 | [353608-the-lord-of-the-rings-trilogy.json](./353608-the-lord-of-the-rings-trilogy.json) |
 | The Lord of the Rings: War in the North | 1052 | [1052-the-lord-of-the-rings-war-in-the-north.json](./1052-the-lord-of-the-rings-war-in-the-north.json) |
 | The Lord of the Rings: War in the North - Legacy Edition | 413144 | [413144-the-lord-of-the-rings-war-in-the-north-legacy-edition.json](./413144-the-lord-of-the-rings-war-in-the-north-legacy-edition.json) |
 | The Lord of the Rings: War of the Ring | 9256 | [9256-the-lord-of-the-rings-war-of-the-ring.json](./9256-the-lord-of-the-rings-war-of-the-ring.json) |
@@ -30958,6 +30963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Charge | 41142 | [41142-turbo-charge.json](./41142-turbo-charge.json) |
 | Turbo Chess | 63074 | [63074-turbo-chess.json](./63074-turbo-chess.json) |
 | Turbo Circuit: Speed Racing | 371818 | [371818-turbo-circuit-speed-racing.json](./371818-turbo-circuit-speed-racing.json) |
+| Turbo Circuit: Sports Car Racing | 353589 | [353589-turbo-circuit-sports-car-racing.json](./353589-turbo-circuit-sports-car-racing.json) |
 | Turbo Cup | 72328 | [72328-turbo-cup.json](./72328-turbo-cup.json) |
 | Turbo Dash | 329066 | [329066-turbo-dash.json](./329066-turbo-dash.json) |
 | Turbo Dash Kart 2023 Racing | 266065 | [266065-turbo-dash-kart-2023-racing.json](./266065-turbo-dash-kart-2023-racing.json) |
