@@ -8786,6 +8786,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football League 2026 | 326649 | [326649-football-league-2026.json](./326649-football-league-2026.json) |
 | Football League Cup: Arcade Soccer Simulator | 319316 | [319316-football-league-cup-arcade-soccer-simulator.json](./319316-football-league-cup-arcade-soccer-simulator.json) |
 | Football Legacy | 394539 | [394539-football-legacy.json](./394539-football-legacy.json) |
+| Football Legacy Manager 25 | 365947 | [365947-football-legacy-manager-25.json](./365947-football-legacy-manager-25.json) |
+| Football Legacy Manager 26 | 365945 | [365945-football-legacy-manager-26.json](./365945-football-legacy-manager-26.json) |
 | Football Legend | 59080 | [59080-football-legend.json](./59080-football-legend.json) |
 | Football Legends 2025 | 385108 | [385108-football-legends-2025.json](./385108-football-legends-2025.json) |
 | Football Legends 2025: Complete Edition | 404277 | [404277-football-legends-2025-complete-edition.json](./404277-football-legends-2025-complete-edition.json) |
