@@ -8031,6 +8031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diagnosis -Inma no Note- | 97381 | [97381-diagnosis-inma-no-note.json](./97381-diagnosis-inma-no-note.json) |
 | Diagnosis Murder | 78400 | [78400-diagnosis-murder.json](./78400-diagnosis-murder.json) |
 | Diagnosis: Multitude | 196434 | [196434-diagnosis-multitude.json](./196434-diagnosis-multitude.json) |
+| Diagnosis: No Answer | 359138 | [359138-diagnosis-no-answer.json](./359138-diagnosis-no-answer.json) |
 | Dial 666 | 370974 | [370974-dial-666.json](./370974-dial-666.json) |
 | Dial M for Machina | 403023 | [403023-dial-m-for-machina.json](./403023-dial-m-for-machina.json) |
 | Dial Pilot | 106839 | [106839-dial-pilot.json](./106839-dial-pilot.json) |
@@ -11696,6 +11697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino VR | 31894 | [31894-domino-vr.json](./31894-domino-vr.json) |
 | Domino World AR | 95752 | [95752-domino-world-ar.json](./95752-domino-world-ar.json) |
 | Domino! | 281483 | [281483-domino.json](./281483-domino.json) |
+| Domino! | 359139 | [359139-domino.json](./359139-domino.json) |
 | Dominocalypse | 404644 | [404644-dominocalypse.json](./404644-dominocalypse.json) |
 | Dominoes | 60322 | [60322-dominoes.json](./60322-dominoes.json) |
 | Dominoes Café | 204967 | [204967-dominoes-cafe.json](./204967-dominoes-cafe.json) |
