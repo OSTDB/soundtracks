@@ -8206,6 +8206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Trip: Shifting Gears | 49251 | [49251-road-trip-shifting-gears.json](./49251-road-trip-shifting-gears.json) |
 | Road Tripper | 150776 | [150776-road-tripper.json](./150776-road-tripper.json) |
 | Road Trucker | 367657 | [367657-road-trucker.json](./367657-road-trucker.json) |
+| Road Truckers: New Beginning | 356995 | [356995-road-truckers-new-beginning.json](./356995-road-truckers-new-beginning.json) |
 | Road Turbo | 371830 | [371830-road-turbo.json](./371830-road-turbo.json) |
 | Road Warrior | 223974 | [223974-road-warrior.json](./223974-road-warrior.json) |
 | Road Warrior | 364536 | [364536-road-warrior.json](./364536-road-warrior.json) |
@@ -10428,6 +10429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rook | 359282 | [359282-rook.json](./359282-rook.json) |
 | Rookfall | 174617 | [174617-rookfall.json](./174617-rookfall.json) |
 | Rookie | 359161 | [359161-rookie.json](./359161-rookie.json) |
+| Rookie Basketball Shoots | 356980 | [356980-rookie-basketball-shoots.json](./356980-rookie-basketball-shoots.json) |
 | Rookie Bowman | 165758 | [165758-rookie-bowman.json](./165758-rookie-bowman.json) |
 | Rookie Boxing | 319776 | [319776-rookie-boxing.json](./319776-rookie-boxing.json) |
 | Rookie Guard and the Queen | 280259 | [280259-rookie-guard-and-the-queen.json](./280259-rookie-guard-and-the-queen.json) |
@@ -11080,6 +11082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Envoy 2 | 63401 | [63401-royal-envoy-2.json](./63401-royal-envoy-2.json) |
 | Royal Envoy 2: Collector's Edition | 201855 | [201855-royal-envoy-2-collectors-edition.json](./201855-royal-envoy-2-collectors-edition.json) |
 | Royal Envoy 3: Collector's Edition | 132804 | [132804-royal-envoy-3-collectors-edition.json](./132804-royal-envoy-3-collectors-edition.json) |
+| Royal Envoy Super Pack | 356994 | [356994-royal-envoy-super-pack.json](./356994-royal-envoy-super-pack.json) |
 | Royal Envoy: Campaign for the Crown - Collector's Edition | 356131 | [356131-royal-envoy-campaign-for-the-crown-collectors-edition.json](./356131-royal-envoy-campaign-for-the-crown-collectors-edition.json) |
 | Royal Escape | 71203 | [71203-royal-escape.json](./71203-royal-escape.json) |
 | Royal Farm | 254750 | [254750-royal-farm.json](./254750-royal-farm.json) |
