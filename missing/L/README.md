@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laboratory X-29 | 258550 | [258550-laboratory-x-29.json](./258550-laboratory-x-29.json) |
 | LaborSurviveManual | 246825 | [246825-laborsurvivemanual.json](./246825-laborsurvivemanual.json) |
 | LabRat | 139925 | [139925-labrat.json](./139925-labrat.json) |
+| Labsylle | 381515 | [381515-labsylle.json](./381515-labsylle.json) |
 | LabTrainingVR: Biosafety Cabinet Edition | 163711 | [163711-labtrainingvr-biosafety-cabinet-edition.json](./163711-labtrainingvr-biosafety-cabinet-edition.json) |
 | LabTrainingVR: Personal Protective - Equipment Edition | 174091 | [174091-labtrainingvr-personal-protective-equipment-edition.json](./174091-labtrainingvr-personal-protective-equipment-edition.json) |
 | Labublas: Battle Royale Shooter | 359987 | [359987-labublas-battle-royale-shooter.json](./359987-labublas-battle-royale-shooter.json) |
@@ -3270,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemonade Tycoon | 11824 | [11824-lemonade-tycoon.json](./11824-lemonade-tycoon.json) |
 | Lemonade Tycoon 2: New York Edition | 68041 | [68041-lemonade-tycoon-2-new-york-edition.json](./68041-lemonade-tycoon-2-new-york-edition.json) |
 | Lemonade. | 184051 | [184051-lemonade.json](./184051-lemonade.json) |
+| Lemoncholia | 381869 | [381869-lemoncholia.json](./381869-lemoncholia.json) |
 | Lemonhunter | 185124 | [185124-lemonhunter.json](./185124-lemonhunter.json) |
 | Lemonia The Last Castle | 384217 | [384217-lemonia-the-last-castle.json](./384217-lemonia-the-last-castle.json) |
 | Lemons Must Die | 70408 | [70408-lemons-must-die.json](./70408-lemons-must-die.json) |
@@ -8279,6 +8281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love In the Valley | 284745 | [284745-love-in-the-valley.json](./284745-love-in-the-valley.json) |
 | Love In Tiny Spaces | 325341 | [325341-love-in-tiny-spaces.json](./325341-love-in-tiny-spaces.json) |
 | Love is a Canvas | 210315 | [210315-love-is-a-canvas.json](./210315-love-is-a-canvas.json) |
+| Love is a Demon | 381526 | [381526-love-is-a-demon.json](./381526-love-is-a-demon.json) |
 | Love is a Game | 179848 | [179848-love-is-a-game.json](./179848-love-is-a-game.json) |
 | Love Is All Around | 253391 | [253391-love-is-all-around.json](./253391-love-is-all-around.json) |
 | Love Is All Around 2 | 348790 | [348790-love-is-all-around-2.json](./348790-love-is-all-around-2.json) |
