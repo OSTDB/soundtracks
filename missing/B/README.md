@@ -5136,6 +5136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the Boss 3 | 91036 | [91036-beat-the-boss-3.json](./91036-beat-the-boss-3.json) |
 | Beat the Boss 4 | 88144 | [88144-beat-the-boss-4.json](./88144-beat-the-boss-4.json) |
 | Beat The Boss Game | 331699 | [331699-beat-the-boss-game.json](./331699-beat-the-boss-game.json) |
+| Beat the Champions | 392603 | [392603-beat-the-champions.json](./392603-beat-the-champions.json) |
 | Beat the Clock | 196261 | [196261-beat-the-clock.json](./196261-beat-the-clock.json) |
 | Beat the Dictators | 31683 | [31683-beat-the-dictators.json](./31683-beat-the-dictators.json) |
 | Beat the Fed | 301073 | [301073-beat-the-fed.json](./301073-beat-the-fed.json) |
