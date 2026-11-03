@@ -2705,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2715,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi no Hitomi ni Hit Me | 372774 | [372774-kimi-no-hitomi-ni-hit-me.json](./372774-kimi-no-hitomi-ni-hit-me.json) |
 | Kimi no Hitomi ni Hit Me | 82803 | [82803-kimi-no-hitomi-ni-hit-me.json](./82803-kimi-no-hitomi-ni-hit-me.json) |
 | Kimi no Mirai | 251537 | [251537-kimi-no-mirai.json](./251537-kimi-no-mirai.json) |
+| Kimi no Nisemono ni Koi wo Suru | 366458 | [366458-kimi-no-nisemono-ni-koi-wo-suru.json](./366458-kimi-no-nisemono-ni-koi-wo-suru.json) |
 | Kimi no Nisemono ni Koi wo Suru Asterism | 396470 | [396470-kimi-no-nisemono-ni-koi-wo-suru-asterism.json](./396470-kimi-no-nisemono-ni-koi-wo-suru-asterism.json) |
 | Kimi no Shinzou to Cosmos wo Miru | 370394 | [370394-kimi-no-shinzou-to-cosmos-wo-miru.json](./370394-kimi-no-shinzou-to-cosmos-wo-miru.json) |
 | Kimi no Tonari de Koishiteru! | 194548 | [194548-kimi-no-tonari-de-koishiteru.json](./194548-kimi-no-tonari-de-koishiteru.json) |
