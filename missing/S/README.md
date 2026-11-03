@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Secret Valley | 215791 | [215791-santas-secret-valley.json](./215791-santas-secret-valley.json) |
 | Santa's Shop | 396682 | [396682-santas-shop.json](./396682-santas-shop.json) |
 | Santa's Silent Night | 183912 | [183912-santas-silent-night.json](./183912-santas-silent-night.json) |
+| Santa's Slippery Slope Ski Stunts | 370957 | [370957-santas-slippery-slope-ski-stunts.json](./370957-santas-slippery-slope-ski-stunts.json) |
 | Santa's Spot It | 317227 | [317227-santas-spot-it.json](./317227-santas-spot-it.json) |
 | Santa's Spot It + Exit Station 7 + Find Room 96 + HighScore Anomaly Shop +HighScore Anomaly Underground | 319775 | [319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json](./319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json) |
 | Santa's Story of Christmas | 112629 | [112629-santas-story-of-christmas.json](./112629-santas-story-of-christmas.json) |
@@ -3145,6 +3146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorpion Overdrive | 193464 | [193464-scorpion-overdrive.json](./193464-scorpion-overdrive.json) |
 | Scorpion Simulator | 96600 | [96600-scorpion-simulator.json](./96600-scorpion-simulator.json) |
 | Scorpion's Curse | 295376 | [295376-scorpions-curse.json](./295376-scorpions-curse.json) |
+| Scorzle | 370354 | [370354-scorzle.json](./370354-scorzle.json) |
 | Scotch Broom | 118448 | [118448-scotch-broom.json](./118448-scotch-broom.json) |
 | Scotland Yard | 197725 | [197725-scotland-yard.json](./197725-scotland-yard.json) |
 | Scotland Yard | 209023 | [209023-scotland-yard.json](./209023-scotland-yard.json) |
@@ -3631,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scumbag Streamer | 391538 | [391538-scumbag-streamer.json](./391538-scumbag-streamer.json) |
 | Scumball | 45361 | [45361-scumball.json](./45361-scumball.json) |
 | Scuos | 116167 | [116167-scuos.json](./116167-scuos.json) |
+| Scurge: Hive | 370966 | [370966-scurge-hive.json](./370966-scurge-hive.json) |
 | Scurge: Hive | 6585 | [6585-scurge-hive.json](./6585-scurge-hive.json) |
 | Scurry | 374898 | [374898-scurry.json](./374898-scurry.json) |
 | Scurry | 97711 | [97711-scurry.json](./97711-scurry.json) |
@@ -4309,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Neighbor: Welcome Pack | 305854 | [305854-secret-neighbor-welcome-pack.json](./305854-secret-neighbor-welcome-pack.json) |
 | Secret Number Simulator | 312433 | [312433-secret-number-simulator.json](./312433-secret-number-simulator.json) |
 | Secret Odyssey: Orb of Eternity | 291680 | [291680-secret-odyssey-orb-of-eternity.json](./291680-secret-odyssey-orb-of-eternity.json) |
+| Secret of a Dream | 370065 | [370065-secret-of-a-dream.json](./370065-secret-of-a-dream.json) |
 | Secret of Dawnstone | 421825 | [421825-secret-of-dawnstone.json](./421825-secret-of-dawnstone.json) |
 | Secret of Dungeon | 158515 | [158515-secret-of-dungeon.json](./158515-secret-of-dungeon.json) |
 | Secret of Evangelion | 61670 | [61670-secret-of-evangelion.json](./61670-secret-of-evangelion.json) |
@@ -5931,6 +5935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Game: Gay Affair - Episode 2 | 382383 | [382383-sex-game-gay-affair-episode-2.json](./382383-sex-game-gay-affair-episode-2.json) |
 | Sex Game: Naughty Couple - Episode 1 | 371053 | [371053-sex-game-naughty-couple-episode-1.json](./371053-sex-game-naughty-couple-episode-1.json) |
 | Sex Game: Naughty Couple - Episode 2 | 371055 | [371055-sex-game-naughty-couple-episode-2.json](./371055-sex-game-naughty-couple-episode-2.json) |
+| Sex Game: Naughty Couple - Episode 3 | 370953 | [370953-sex-game-naughty-couple-episode-3.json](./370953-sex-game-naughty-couple-episode-3.json) |
 | Sex Game: Naughty Couple - Episode 4 | 371058 | [371058-sex-game-naughty-couple-episode-4.json](./371058-sex-game-naughty-couple-episode-4.json) |
 | Sex Game: Naughty Couple - Episode 5 | 375267 | [375267-sex-game-naughty-couple-episode-5.json](./375267-sex-game-naughty-couple-episode-5.json) |
 | Sex Game: Naughty Couple - Episode 6 | 375272 | [375272-sex-game-naughty-couple-episode-6.json](./375272-sex-game-naughty-couple-episode-6.json) |
@@ -6251,6 +6256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow | 286061 | [286061-shadow.json](./286061-shadow.json) |
 | Shadow | 324309 | [324309-shadow.json](./324309-shadow.json) |
 | Shadow & Steel | 405825 | [405825-shadow-and-steel.json](./405825-shadow-and-steel.json) |
+| Shadow Album | 370393 | [370393-shadow-album.json](./370393-shadow-album.json) |
 | Shadow Alchemist | 340602 | [340602-shadow-alchemist.json](./340602-shadow-alchemist.json) |
 | Shadow Among Nove | 297218 | [297218-shadow-among-nove.json](./297218-shadow-among-nove.json) |
 | Shadow and Bone: Enter the Fold | 204448 | [204448-shadow-and-bone-enter-the-fold.json](./204448-shadow-and-bone-enter-the-fold.json) |
@@ -8234,6 +8240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinyaku Boushi Sekai | 396208 | [396208-shinyaku-boushi-sekai.json](./396208-shinyaku-boushi-sekai.json) |
 | Shinyuu no Haha Kumiko: Ana no Ichi kara Haramase Kata made Subete Kanojo ga Oshiete Kureta | 83000 | [83000-shinyuu-no-haha-kumiko-ana-no-ichi-kara-haramase-kata-made-subete-kanojo-ga-oshiete-kureta.json](./83000-shinyuu-no-haha-kumiko-ana-no-ichi-kara-haramase-kata-made-subete-kanojo-ga-oshiete-kureta.json) |
 | Shinzen Hollow | 292512 | [292512-shinzen-hollow.json](./292512-shinzen-hollow.json) |
+| Shinzo Count | 370395 | [370395-shinzo-count.json](./370395-shinzo-count.json) |
 | Shinzui Taikyoku Igo: Go Sennin | 42318 | [42318-shinzui-taikyoku-igo-go-sennin.json](./42318-shinzui-taikyoku-igo-go-sennin.json) |
 | Shio | 31393 | [31393-shio.json](./31393-shio.json) |
 | Shio: Deluxe Edition | 53597 | [53597-shio-deluxe-edition.json](./53597-shio-deluxe-edition.json) |
@@ -9967,6 +9974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Night: A Christmas Delivery | 158667 | [158667-silent-night-a-christmas-delivery.json](./158667-silent-night-a-christmas-delivery.json) |
 | Silent Nightmares: A Christmas Story | 285511 | [285511-silent-nightmares-a-christmas-story.json](./285511-silent-nightmares-a-christmas-story.json) |
 | Silent Nights | 240787 | [240787-silent-nights.json](./240787-silent-nights.json) |
+| Silent Nights: Children's Orchestra - Collector's Edition | 370925 | [370925-silent-nights-childrens-orchestra-collectors-edition.json](./370925-silent-nights-childrens-orchestra-collectors-edition.json) |
 | Silent Noise: Prologue | 403539 | [403539-silent-noise-prologue.json](./403539-silent-noise-prologue.json) |
 | Silent Nova | 362974 | [362974-silent-nova.json](./362974-silent-nova.json) |
 | Silent Numbers | 390104 | [390104-silent-numbers.json](./390104-silent-numbers.json) |
@@ -10727,6 +10735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin Return | 387481 | [387481-sin-return.json](./387481-sin-return.json) |
 | Sin Slayers | 81650 | [81650-sin-slayers.json](./81650-sin-slayers.json) |
 | Sin Slayers: Enhanced Edition | 148002 | [148002-sin-slayers-enhanced-edition.json](./148002-sin-slayers-enhanced-edition.json) |
+| Sin Slayers: Meat & Greed | 370373 | [370373-sin-slayers-meat-and-greed.json](./370373-sin-slayers-meat-and-greed.json) |
 | Sin Slayers: Pharmacist | 155061 | [155061-sin-slayers-pharmacist.json](./155061-sin-slayers-pharmacist.json) |
 | Sin Slayers: Reign of The 8th | 291758 | [291758-sin-slayers-reign-of-the-8th.json](./291758-sin-slayers-reign-of-the-8th.json) |
 | Sin Survivor | 151138 | [151138-sin-survivor.json](./151138-sin-survivor.json) |
@@ -15707,6 +15716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solid Aether | 107763 | [107763-solid-aether.json](./107763-solid-aether.json) |
 | Solid Boat Adventure | 420801 | [420801-solid-boat-adventure.json](./420801-solid-boat-adventure.json) |
 | Solid Body Picross | 124053 | [124053-solid-body-picross.json](./124053-solid-body-picross.json) |
+| Solid Flight | 370368 | [370368-solid-flight.json](./370368-solid-flight.json) |
 | Solid Force | 80122 | [80122-solid-force.json](./80122-solid-force.json) |
 | Solid Gold | 38832 | [38832-solid-gold.json](./38832-solid-gold.json) |
 | Solid Ice | 208882 | [208882-solid-ice.json](./208882-solid-ice.json) |
@@ -15855,6 +15865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Master VS | 212271 | [212271-solitaire-master-vs.json](./212271-solitaire-master-vs.json) |
 | Solitaire Match 2 Cards | 89858 | [89858-solitaire-match-2-cards.json](./89858-solitaire-match-2-cards.json) |
 | Solitaire Match 2 Cards. Thanksgiving Day | 199574 | [199574-solitaire-match-2-cards-thanksgiving-day.json](./199574-solitaire-match-2-cards-thanksgiving-day.json) |
+| Solitaire Match 3 | 370360 | [370360-solitaire-match-3.json](./370360-solitaire-match-3.json) |
 | Solitaire MegaPack | 102764 | [102764-solitaire-megapack.json](./102764-solitaire-megapack.json) |
 | Solitaire Mystery: Four Seasons | 91130 | [91130-solitaire-mystery-four-seasons.json](./91130-solitaire-mystery-four-seasons.json) |
 | Solitaire Mystery: Four Seasons HD | 99342 | [99342-solitaire-mystery-four-seasons-hd.json](./99342-solitaire-mystery-four-seasons-hd.json) |
@@ -16393,6 +16404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Adventure 2D | 334733 | [334733-sonic-adventure-2d.json](./334733-sonic-adventure-2d.json) |
 | Sonic Adventure 3 | 324955 | [324955-sonic-adventure-3.json](./324955-sonic-adventure-3.json) |
 | Sonic Adventure 7 | 275488 | [275488-sonic-adventure-7.json](./275488-sonic-adventure-7.json) |
+| Sonic Adventure Advanced | 370068 | [370068-sonic-adventure-advanced.json](./370068-sonic-adventure-advanced.json) |
 | Sonic Adventure DS | 336362 | [336362-sonic-adventure-ds.json](./336362-sonic-adventure-ds.json) |
 | Sonic Adventure DX: Director's Cut | 23695 | [23695-sonic-adventure-dx-directors-cut.json](./23695-sonic-adventure-dx-directors-cut.json) |
 | Sonic Adventure Emerald | 330304 | [330304-sonic-adventure-emerald.json](./330304-sonic-adventure-emerald.json) |
@@ -17938,6 +17950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound of Drop: Fall into Poison | 19279 | [19279-sound-of-drop-fall-into-poison.json](./19279-sound-of-drop-fall-into-poison.json) |
 | Sound of Horses | 357859 | [357859-sound-of-horses.json](./357859-sound-of-horses.json) |
 | Sound of Summer Thunder | 360669 | [360669-sound-of-summer-thunder.json](./360669-sound-of-summer-thunder.json) |
+| Sound of Survival | 370064 | [370064-sound-of-survival.json](./370064-sound-of-survival.json) |
 | Sound of the Sky: Maiden Quintet | 140854 | [140854-sound-of-the-sky-maiden-quintet.json](./140854-sound-of-the-sky-maiden-quintet.json) |
 | Sound Science | 133158 | [133158-sound-science.json](./133158-sound-science.json) |
 | Sound Shapes | 7729 | [7729-sound-shapes.json](./7729-sound-shapes.json) |
@@ -18644,7 +18657,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19818,6 +19830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Specter Spelunker Resizes | 283736 | [283736-specter-spelunker-resizes.json](./283736-specter-spelunker-resizes.json) |
 | Specter Spelunker Shrinks | 242907 | [242907-specter-spelunker-shrinks.json](./242907-specter-spelunker-shrinks.json) |
 | Specters | 164046 | [164046-specters.json](./164046-specters.json) |
+| Specters of the Deep | 370379 | [370379-specters-of-the-deep.json](./370379-specters-of-the-deep.json) |
 | Specters of the Sun | 257207 | [257207-specters-of-the-sun.json](./257207-specters-of-the-sun.json) |
 | Spectography | 328929 | [328929-spectography.json](./328929-spectography.json) |
 | Spectra | 183346 | [183346-spectra.json](./183346-spectra.json) |
@@ -20170,6 +20183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Strike | 395350 | [395350-spell-strike.json](./395350-spell-strike.json) |
 | Spell Sweeper | 192598 | [192598-spell-sweeper.json](./192598-spell-sweeper.json) |
 | Spell Tonaeru | 319150 | [319150-spell-tonaeru.json](./319150-spell-tonaeru.json) |
+| Spell Trigger | 370367 | [370367-spell-trigger.json](./370367-spell-trigger.json) |
 | Spell Unbound | 417183 | [417183-spell-unbound.json](./417183-spell-unbound.json) |
 | Spell Weaver | 335381 | [335381-spell-weaver.json](./335381-spell-weaver.json) |
 | Spell Welders | 199501 | [199501-spell-welders.json](./199501-spell-welders.json) |
@@ -20505,6 +20519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Fighter: Superhero Revenge | 196535 | [196535-spider-fighter-superhero-revenge.json](./196535-spider-fighter-superhero-revenge.json) |
 | Spider Fire | 181117 | [181117-spider-fire.json](./181117-spider-fire.json) |
 | Spider Fox | 254558 | [254558-spider-fox.json](./254558-spider-fox.json) |
+| Spider Go Solitaire | 370351 | [370351-spider-go-solitaire.json](./370351-spider-go-solitaire.json) |
 | Spider Hero | 407886 | [407886-spider-hero.json](./407886-spider-hero.json) |
 | Spider Hero Lava Floor 2: Craft Exploration | 99360 | [99360-spider-hero-lava-floor-2-craft-exploration.json](./99360-spider-hero-lava-floor-2-craft-exploration.json) |
 | Spider Hotel | 374371 | [374371-spider-hotel.json](./374371-spider-hotel.json) |
@@ -24533,6 +24548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station 5 | 307931 | [307931-station-5.json](./307931-station-5.json) |
 | Station 58 | 378136 | [378136-station-58.json](./378136-station-58.json) |
 | Station 7 | 384602 | [384602-station-7.json](./384602-station-7.json) |
+| Station 77 | 370346 | [370346-station-77.json](./370346-station-77.json) |
 | Station 99 | 238572 | [238572-station-99.json](./238572-station-99.json) |
 | Station Command | 402523 | [402523-station-command.json](./402523-station-command.json) |
 | Station Commander | 166074 | [166074-station-commander.json](./166074-station-commander.json) |
@@ -26070,6 +26086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Eve - A Hero's Study | 110743 | [110743-story-of-eve-a-heros-study.json](./110743-story-of-eve-a-heros-study.json) |
 | Story of Heterosexuality | 333547 | [333547-story-of-heterosexuality.json](./333547-story-of-heterosexuality.json) |
 | Story of Infinity: Xia | 247704 | [247704-story-of-infinity-xia.json](./247704-story-of-infinity-xia.json) |
+| Story of Leaves | 370969 | [370969-story-of-leaves.json](./370969-story-of-leaves.json) |
 | Story of Love & Food | 392466 | [392466-story-of-love-and-food.json](./392466-story-of-love-and-food.json) |
 | Story of Mine Company | 265514 | [265514-story-of-mine-company.json](./265514-story-of-mine-company.json) |
 | Story of Nararale | 173026 | [173026-story-of-nararale.json](./173026-story-of-nararale.json) |
@@ -26459,6 +26476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Dog Simulator | 87340 | [87340-stray-dog-simulator.json](./87340-stray-dog-simulator.json) |
 | Stray Dog: Nobody Cares | 414475 | [414475-stray-dog-nobody-cares.json](./414475-stray-dog-nobody-cares.json) |
 | Stray Doom | 251352 | [251352-stray-doom.json](./251352-stray-doom.json) |
+| Stray Girl | 370972 | [370972-stray-girl.json](./370972-stray-girl.json) |
 | Stray Gods: Orpheus | 307335 | [307335-stray-gods-orpheus.json](./307335-stray-gods-orpheus.json) |
 | Stray Gods: Orpheus Edition | 385325 | [385325-stray-gods-orpheus-edition.json](./385325-stray-gods-orpheus-edition.json) |
 | Stray Kids SKZOO Tamagotchi | 334864 | [334864-stray-kids-skzoo-tamagotchi.json](./334864-stray-kids-skzoo-tamagotchi.json) |
@@ -28519,6 +28537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Vacation | 221405 | [221405-summer-vacation.json](./221405-summer-vacation.json) |
 | Summer Valley Hike | 255267 | [255267-summer-valley-hike.json](./255267-summer-valley-hike.json) |
 | Summer Village | 236513 | [236513-summer-village.json](./236513-summer-village.json) |
+| Summer Waifu | 370970 | [370970-summer-waifu.json](./370970-summer-waifu.json) |
 | Summer Walk | 397814 | [397814-summer-walk.json](./397814-summer-walk.json) |
 | Summer Weekend | 370018 | [370018-summer-weekend.json](./370018-summer-weekend.json) |
 | Summer Wheelie | 104430 | [104430-summer-wheelie.json](./104430-summer-wheelie.json) |
@@ -32219,6 +32238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supipara: Chapter 2 | 90149 | [90149-supipara-chapter-2.json](./90149-supipara-chapter-2.json) |
 | Supotto Spot | 379574 | [379574-supotto-spot.json](./379574-supotto-spot.json) |
 | Suppa Ninja | 397833 | [397833-suppa-ninja.json](./397833-suppa-ninja.json) |
+| Supple | 370963 | [370963-supple.json](./370963-supple.json) |
 | Supplementaries | 239531 | [239531-supplementaries.json](./239531-supplementaries.json) |
 | Supplice | 165070 | [165070-supplice.json](./165070-supplice.json) |
 | Supply Chain | 184296 | [184296-supply-chain.json](./184296-supply-chain.json) |
