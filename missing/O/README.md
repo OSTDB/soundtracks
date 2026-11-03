@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Blades & Tails | 187655 | [187655-of-blades-and-tails.json](./187655-of-blades-and-tails.json) |
 | Of Blood and Descent | 317601 | [317601-of-blood-and-descent.json](./317601-of-blood-and-descent.json) |
 | Of Carrots and Blood | 33604 | [33604-of-carrots-and-blood.json](./33604-of-carrots-and-blood.json) |
+| Of Crowns & Chains | 377546 | [377546-of-crowns-and-chains.json](./377546-of-crowns-and-chains.json) |
 | Of Dice and Minions | 420800 | [420800-of-dice-and-minions.json](./420800-of-dice-and-minions.json) |
 | Of Evil and Darkness | 129729 | [129729-of-evil-and-darkness.json](./129729-of-evil-and-darkness.json) |
 | Of Fair and Flesh | 318815 | [318815-of-fair-and-flesh.json](./318815-of-fair-and-flesh.json) |
