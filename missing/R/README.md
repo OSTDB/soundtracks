@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rackets & Rivals | 48213 | [48213-rackets-and-rivals.json](./48213-rackets-and-rivals.json) |
 | Rackham's Shambala Adventure | 127523 | [127523-rackhams-shambala-adventure.json](./127523-rackhams-shambala-adventure.json) |
 | RackJacker | 163981 | [163981-rackjacker.json](./163981-rackjacker.json) |
+| Racoon Escape 2: Warehouse Storage | 375118 | [375118-racoon-escape-2-warehouse-storage.json](./375118-racoon-escape-2-warehouse-storage.json) |
 | Racoon Lagoon | 128847 | [128847-racoon-lagoon.json](./128847-racoon-lagoon.json) |
 | Racoon the Thief | 256187 | [256187-racoon-the-thief.json](./256187-racoon-the-thief.json) |
 | Racoonfeast | 326971 | [326971-racoonfeast.json](./326971-racoonfeast.json) |
@@ -4594,6 +4595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relayer Advanced: Definitive Edition | 370821 | [370821-relayer-advanced-definitive-edition.json](./370821-relayer-advanced-definitive-edition.json) |
 | Relayer: Limited Edition | 172776 | [172776-relayer-limited-edition.json](./172776-relayer-limited-edition.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
+| Releaseburg | 375471 | [375471-releaseburg.json](./375471-releaseburg.json) |
 | Relentless | 111883 | [111883-relentless.json](./111883-relentless.json) |
 | Relentless | 129699 | [129699-relentless.json](./129699-relentless.json) |
 | Relentless | 46736 | [46736-relentless.json](./46736-relentless.json) |
@@ -8127,6 +8129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road To Heaven | 400566 | [400566-road-to-heaven.json](./400566-road-to-heaven.json) |
 | Road to Jonin! The 3-Choice Ninja Quiz | 406060 | [406060-road-to-jonin-the-3-choice-ninja-quiz.json](./406060-road-to-jonin-the-3-choice-ninja-quiz.json) |
 | Road to Jukai | 380485 | [380485-road-to-jukai.json](./380485-road-to-jukai.json) |
+| Road to Karatl | 375485 | [375485-road-to-karatl.json](./375485-road-to-karatl.json) |
 | Road to Mechalopolis | 413009 | [413009-road-to-mechalopolis.json](./413009-road-to-mechalopolis.json) |
 | Road to Morrow | 172669 | [172669-road-to-morrow.json](./172669-road-to-morrow.json) |
 | Road to Moscow | 25613 | [25613-road-to-moscow.json](./25613-road-to-moscow.json) |
