@@ -3240,13 +3240,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced PET: Battle Chip - Aqua Upper 2 | 354022 | [354022-advanced-pet-battle-chip-aqua-upper-2.json](./354022-advanced-pet-battle-chip-aqua-upper-2.json) |
 | Advanced PET: Battle Chip - Aqua Upper 3 | 354023 | [354023-advanced-pet-battle-chip-aqua-upper-3.json](./354023-advanced-pet-battle-chip-aqua-upper-3.json) |
 | Advanced PET: Battle Chip - Attack+30 | 354028 | [354028-advanced-pet-battle-chip-attack-30.json](./354028-advanced-pet-battle-chip-attack-30.json) |
+| Advanced PET: Battle Chip - Black Barrier | 355288 | [355288-advanced-pet-battle-chip-black-barrier.json](./355288-advanced-pet-battle-chip-black-barrier.json) |
 | Advanced PET: Battle Chip - Black Wing | 354033 | [354033-advanced-pet-battle-chip-black-wing.json](./354033-advanced-pet-battle-chip-black-wing.json) |
 | Advanced PET: Battle Chip - Bug Chain | 354031 | [354031-advanced-pet-battle-chip-bug-chain.json](./354031-advanced-pet-battle-chip-bug-chain.json) |
+| Advanced PET: Battle Chip - Bug Charge | 355289 | [355289-advanced-pet-battle-chip-bug-charge.json](./355289-advanced-pet-battle-chip-bug-charge.json) |
 | Advanced PET: Battle Chip - Bug Shuusei | 354029 | [354029-advanced-pet-battle-chip-bug-shuusei.json](./354029-advanced-pet-battle-chip-bug-shuusei.json) |
 | Advanced PET: Battle Chip - Counter 2 | 352964 | [352964-advanced-pet-battle-chip-counter-2.json](./352964-advanced-pet-battle-chip-counter-2.json) |
 | Advanced PET: Battle Chip - Daikouzui | 354013 | [354013-advanced-pet-battle-chip-daikouzui.json](./354013-advanced-pet-battle-chip-daikouzui.json) |
 | Advanced PET: Battle Chip - Dark Line | 354034 | [354034-advanced-pet-battle-chip-dark-line.json](./354034-advanced-pet-battle-chip-dark-line.json) |
+| Advanced PET: Battle Chip - Duo | 355290 | [355290-advanced-pet-battle-chip-duo.json](./355290-advanced-pet-battle-chip-duo.json) |
 | Advanced PET: Battle Chip - Element Dark | 354032 | [354032-advanced-pet-battle-chip-element-dark.json](./354032-advanced-pet-battle-chip-element-dark.json) |
+| Advanced PET: Battle Chip - Grand Prix Power | 355291 | [355291-advanced-pet-battle-chip-grand-prix-power.json](./355291-advanced-pet-battle-chip-grand-prix-power.json) |
 | Advanced PET: Battle Chip - Green Wood 1 | 354024 | [354024-advanced-pet-battle-chip-green-wood-1.json](./354024-advanced-pet-battle-chip-green-wood-1.json) |
 | Advanced PET: Battle Chip - Green Wood 2 | 354025 | [354025-advanced-pet-battle-chip-green-wood-2.json](./354025-advanced-pet-battle-chip-green-wood-2.json) |
 | Advanced PET: Battle Chip - Green Wood 3 | 354026 | [354026-advanced-pet-battle-chip-green-wood-3.json](./354026-advanced-pet-battle-chip-green-wood-3.json) |
@@ -15906,7 +15910,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
