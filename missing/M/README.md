@@ -9060,6 +9060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta Revelations - Ring Spirits | 112194 | [112194-meta-revelations-ring-spirits.json](./112194-meta-revelations-ring-spirits.json) |
 | Meta Star | 55514 | [55514-meta-star.json](./55514-meta-star.json) |
 | Meta Sudoku | 208639 | [208639-meta-sudoku.json](./208639-meta-sudoku.json) |
+| Meta Toy DragonZ Saga | 359706 | [359706-meta-toy-dragonz-saga.json](./359706-meta-toy-dragonz-saga.json) |
 | Meta Visual Art | 288378 | [288378-meta-visual-art.json](./288378-meta-visual-art.json) |
 | Meta World: My City | 193861 | [193861-meta-world-my-city.json](./193861-meta-world-my-city.json) |
 | Meta-Ph-List: Gamma X 2097 | 43755 | [43755-meta-ph-list-gamma-x-2097.json](./43755-meta-ph-list-gamma-x-2097.json) |
@@ -9118,6 +9119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Clash | 40355 | [40355-metal-clash.json](./40355-metal-clash.json) |
 | Metal Coffin | 335256 | [335256-metal-coffin.json](./335256-metal-coffin.json) |
 | Metal Combat | 209523 | [209523-metal-combat.json](./209523-metal-combat.json) |
+| Metal Combat | 359716 | [359716-metal-combat.json](./359716-metal-combat.json) |
 | Metal Combat: Falcon's Revenge | 44461 | [44461-metal-combat-falcons-revenge.json](./44461-metal-combat-falcons-revenge.json) |
 | Metal Country | 116933 | [116933-metal-country.json](./116933-metal-country.json) |
 | Metal Crisis | 368579 | [368579-metal-crisis.json](./368579-metal-crisis.json) |
@@ -19084,6 +19086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Body Coach | 67354 | [67354-my-body-coach.json](./67354-my-body-coach.json) |
 | My Bones Remastered | 121192 | [121192-my-bones-remastered.json](./121192-my-bones-remastered.json) |
 | My Boo Album | 373238 | [373238-my-boo-album.json](./373238-my-boo-album.json) |
+| My Bookshop Dreams | 359871 | [359871-my-bookshop-dreams.json](./359871-my-bookshop-dreams.json) |
 | My Boris Neighbor | 95809 | [95809-my-boris-neighbor.json](./95809-my-boris-neighbor.json) |
 | My Boss Is Scaring Me | 341346 | [341346-my-boss-is-scaring-me.json](./341346-my-boss-is-scaring-me.json) |
 | My boss is weird | 164219 | [164219-my-boss-is-weird.json](./164219-my-boss-is-weird.json) |
