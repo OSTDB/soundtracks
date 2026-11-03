@@ -5262,6 +5262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirBlade | 8231 | [8231-airblade.json](./8231-airblade.json) |
 | Airbo | 98716 | [98716-airbo.json](./98716-airbo.json) |
 | AirBob | 295874 | [295874-airbob.json](./295874-airbob.json) |
+| AirBoost Airship Knight | 352475 | [352475-airboost-airship-knight.json](./352475-airboost-airship-knight.json) |
 | Airborn | 114234 | [114234-airborn.json](./114234-airborn.json) |
 | Airborn: Piño's Journey | 60474 | [60474-airborn-pinos-journey.json](./60474-airborn-pinos-journey.json) |
 | Airborne | 281030 | [281030-airborne.json](./281030-airborne.json) |
@@ -11747,6 +11748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: A-Jax | 99563 | [99563-arcade-archives-a-jax.json](./99563-arcade-archives-a-jax.json) |
 | Arcade Archives: Adventure Canoe | 392765 | [392765-arcade-archives-adventure-canoe.json](./392765-arcade-archives-adventure-canoe.json) |
 | Arcade Archives: Aero Fighters | 280360 | [280360-arcade-archives-aero-fighters.json](./280360-arcade-archives-aero-fighters.json) |
+| Arcade Archives: Air Combat 22 | 352490 | [352490-arcade-archives-air-combat-22.json](./352490-arcade-archives-air-combat-22.json) |
 | Arcade Archives: Alpha Mission | 111459 | [111459-arcade-archives-alpha-mission.json](./111459-arcade-archives-alpha-mission.json) |
 | Arcade Archives: Alpine Ski | 119218 | [119218-arcade-archives-alpine-ski.json](./119218-arcade-archives-alpine-ski.json) |
 | Arcade Archives: Aqua Jet | 361237 | [361237-arcade-archives-aqua-jet.json](./361237-arcade-archives-aqua-jet.json) |
@@ -15199,6 +15201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astranded | 379990 | [379990-astranded.json](./379990-astranded.json) |
 | Astraphia | 365592 | [365592-astraphia.json](./365592-astraphia.json) |
 | Astraphobia | 349746 | [349746-astraphobia.json](./349746-astraphobia.json) |
+| AstraPuffs | 352481 | [352481-astrapuffs.json](./352481-astrapuffs.json) |
 | Astraverse | 163794 | [163794-astraverse.json](./163794-astraverse.json) |
 | Astraware Casino | 206235 | [206235-astraware-casino.json](./206235-astraware-casino.json) |
 | Astraware Zap! | 257482 | [257482-astraware-zap.json](./257482-astraware-zap.json) |
