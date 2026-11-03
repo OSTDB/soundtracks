@@ -8664,6 +8664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digging Jim | 19222 | [19222-digging-jim.json](./19222-digging-jim.json) |
 | Digging the Forgotten Cave | 365828 | [365828-digging-the-forgotten-cave.json](./365828-digging-the-forgotten-cave.json) |
 | Digging Together | 372405 | [372405-digging-together.json](./372405-digging-together.json) |
+| Digging Town | 364219 | [364219-digging-town.json](./364219-digging-town.json) |
 | Diggles: The Myth of Fenris | 9521 | [9521-diggles-the-myth-of-fenris.json](./9521-diggles-the-myth-of-fenris.json) |
 | Diggy Diggy Dwarf | 269388 | [269388-diggy-diggy-dwarf.json](./269388-diggy-diggy-dwarf.json) |
 | Diggy: Gold Rush | 248098 | [248098-diggy-gold-rush.json](./248098-diggy-gold-rush.json) |
@@ -12802,6 +12803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora the Explorer: Wildlife Rescue | 69055 | [69055-dora-the-explorer-wildlife-rescue.json](./69055-dora-the-explorer-wildlife-rescue.json) |
 | Dora the Explorer: World Adventure | 209119 | [209119-dora-the-explorer-world-adventure.json](./209119-dora-the-explorer-world-adventure.json) |
 | Dora Think Nobita's Exciting Brain Adventure | 233929 | [233929-dora-think-nobitas-exciting-brain-adventure.json](./233929-dora-think-nobitas-exciting-brain-adventure.json) |
+| Dora: Rainforest Rescue | 364161 | [364161-dora-rainforest-rescue.json](./364161-dora-rainforest-rescue.json) |
 | Dora's Ballet Adventures | 209122 | [209122-doras-ballet-adventures.json](./209122-doras-ballet-adventures.json) |
 | Dora's Big Birthday Adventure | 202095 | [202095-doras-big-birthday-adventure.json](./202095-doras-big-birthday-adventure.json) |
 | Dora's Camping Adventure | 69050 | [69050-doras-camping-adventure.json](./69050-doras-camping-adventure.json) |
@@ -13634,6 +13636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Umgebung's School of Life | 128992 | [128992-dr-umgebungs-school-of-life.json](./128992-dr-umgebungs-school-of-life.json) |
 | Dr. Virus | 254084 | [254084-dr-virus.json](./254084-dr-virus.json) |
 | Dr. What & Detective Son | 289806 | [289806-dr-what-and-detective-son.json](./289806-dr-what-and-detective-son.json) |
+| Dr. Wirawan's Clinic | 364220 | [364220-dr-wirawans-clinic.json](./364220-dr-wirawans-clinic.json) |
 | Dr. Wise: Medical Mysteries | 65185 | [65185-dr-wise-medical-mysteries.json](./65185-dr-wise-medical-mysteries.json) |
 | Dr. Woo's Twisted Clone Shop | 343996 | [343996-dr-woos-twisted-clone-shop.json](./343996-dr-woos-twisted-clone-shop.json) |
 | Dr. Yue's Dream Hospital | 401257 | [401257-dr-yues-dream-hospital.json](./401257-dr-yues-dream-hospital.json) |
@@ -15663,6 +15666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dress | 94748 | [94748-dress.json](./94748-dress.json) |
 | Dress Me | 101049 | [101049-dress-me.json](./101049-dress-me.json) |
 | Dress out! | 118011 | [118011-dress-out.json](./118011-dress-out.json) |
+| Dress Rehearsal | 364222 | [364222-dress-rehearsal.json](./364222-dress-rehearsal.json) |
 | Dress the Duel | 368822 | [368822-dress-the-duel.json](./368822-dress-the-duel.json) |
 | Dress to Play: Cute Witches! | 85100 | [85100-dress-to-play-cute-witches.json](./85100-dress-to-play-cute-witches.json) |
 | Dress to Play: Magic Bubbles! | 85099 | [85099-dress-to-play-magic-bubbles.json](./85099-dress-to-play-magic-bubbles.json) |
