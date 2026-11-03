@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oasis | 821 | [821-oasis.json](./821-oasis.json) |
 | Oasis Bistro | 220154 | [220154-oasis-bistro.json](./220154-oasis-bistro.json) |
 | Oasis Blitz | 319690 | [319690-oasis-blitz.json](./319690-oasis-blitz.json) |
+| Oasis Defense | 367118 | [367118-oasis-defense.json](./367118-oasis-defense.json) |
 | Oasis Games VR Fun Pack | 108862 | [108862-oasis-games-vr-fun-pack.json](./108862-oasis-games-vr-fun-pack.json) |
 | Oasis Invasion | 380648 | [380648-oasis-invasion.json](./380648-oasis-invasion.json) |
 | Oasis Mission: Colony Sim | 274349 | [274349-oasis-mission-colony-sim.json](./274349-oasis-mission-colony-sim.json) |
