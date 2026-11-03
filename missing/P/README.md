@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palamedes II: Star Twinkles | 48808 | [48808-palamedes-ii-star-twinkles.json](./48808-palamedes-ii-star-twinkles.json) |
 | Palavras Cruzadas: O Globo | 252063 | [252063-palavras-cruzadas-o-globo.json](./252063-palavras-cruzadas-o-globo.json) |
 | Palavrinhas | 329784 | [329784-palavrinhas.json](./329784-palavrinhas.json) |
+| Paldorian Defense | 394331 | [394331-paldorian-defense.json](./394331-paldorian-defense.json) |
 | Pale | 337011 | [337011-pale.json](./337011-pale.json) |
 | Pale Abyss | 331783 | [331783-pale-abyss.json](./331783-pale-abyss.json) |
 | Pale Cachexia | 145865 | [145865-pale-cachexia.json](./145865-pale-cachexia.json) |
@@ -1227,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Mansion | 26726 | [26726-panic-mansion.json](./26726-panic-mansion.json) |
 | Panic Mode | 154761 | [154761-panic-mode.json](./154761-panic-mode.json) |
 | Panic Museum | 245707 | [245707-panic-museum.json](./245707-panic-museum.json) |
+| Panic of the Apes | 394290 | [394290-panic-of-the-apes.json](./394290-panic-of-the-apes.json) |
 | Panic on Ice | 239559 | [239559-panic-on-ice.json](./239559-panic-on-ice.json) |
 | Panic Palette Portable | 204391 | [204391-panic-palette-portable.json](./204391-panic-palette-portable.json) |
 | Panic Park | 62238 | [62238-panic-park.json](./62238-panic-park.json) |
@@ -7462,6 +7464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Ars of Perfect Frontier | 99353 | [99353-pixel-ars-of-perfect-frontier.json](./99353-pixel-ars-of-perfect-frontier.json) |
 | Pixel Art Academy: Learn Mode | 270752 | [270752-pixel-art-academy-learn-mode.json](./270752-pixel-art-academy-learn-mode.json) |
 | Pixel Art Bundle Vol. 1 | 132864 | [132864-pixel-art-bundle-vol-1.json](./132864-pixel-art-bundle-vol-1.json) |
+| Pixel Art Coloring Book 2 | 394280 | [394280-pixel-art-coloring-book-2.json](./394280-pixel-art-coloring-book-2.json) |
 | Pixel Art Monster: Color by Number | 391688 | [391688-pixel-art-monster-color-by-number.json](./391688-pixel-art-monster-color-by-number.json) |
 | Pixel Art: Color by Number | 87040 | [87040-pixel-art-color-by-number.json](./87040-pixel-art-color-by-number.json) |
 | Pixel Art: Mash-Up | 155445 | [155445-pixel-art-mash-up.json](./155445-pixel-art-mash-up.json) |
