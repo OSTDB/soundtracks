@@ -4565,6 +4565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Beads | 342752 | [342752-glass-beads.json](./342752-glass-beads.json) |
 | Glass Breaker | 108116 | [108116-glass-breaker.json](./108116-glass-breaker.json) |
 | Glass Bridge | 215580 | [215580-glass-bridge.json](./215580-glass-bridge.json) |
+| Glass Cannon Defense | 389363 | [389363-glass-cannon-defense.json](./389363-glass-cannon-defense.json) |
 | Glass Cannons | 181772 | [181772-glass-cannons.json](./181772-glass-cannons.json) |
 | Glass City : The Dust | 76433 | [76433-glass-city-the-dust.json](./76433-glass-city-the-dust.json) |
 | Glass Empire | 19180 | [19180-glass-empire.json](./19180-glass-empire.json) |
