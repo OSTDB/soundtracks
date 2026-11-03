@@ -2759,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schein | 8990 | [8990-schein.json](./8990-schein.json) |
 | Schemata | 90059 | [90059-schemata.json](./90059-schemata.json) |
 | Schematic | 152499 | [152499-schematic.json](./152499-schematic.json) |
+| Scheme | 379840 | [379840-scheme.json](./379840-scheme.json) |
 | Scheme!!! Spica, Chinatsu, and Haruka's Enchanting, Marvelous, and Quite Frankly Elaborate Quest to Save Their Cute Girlfriend! | 202566 | [202566-scheme-spica-chinatsu-and-harukas-enchanting-marvelous-and-quite-frankly-elaborate-quest-to-save-their-cute-girlfriend.json](./202566-scheme-spica-chinatsu-and-harukas-enchanting-marvelous-and-quite-frankly-elaborate-quest-to-save-their-cute-girlfriend.json) |
 | Scheming Through the Zombie Apocalypse: Episode 2 - Caged | 110542 | [110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json](./110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json) |
 | Scherzo | 276039 | [276039-scherzo.json](./276039-scherzo.json) |
@@ -3365,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Clicker | 397173 | [397173-scrap-clicker.json](./397173-scrap-clicker.json) |
 | Scrap Clicker 2 | 212705 | [212705-scrap-clicker-2.json](./212705-scrap-clicker-2.json) |
 | Scrap Collector | 298457 | [298457-scrap-collector.json](./298457-scrap-collector.json) |
+| Scrap Daddies | 380143 | [380143-scrap-daddies.json](./380143-scrap-daddies.json) |
 | Scrap Dealer Simulator | 334136 | [334136-scrap-dealer-simulator.json](./334136-scrap-dealer-simulator.json) |
 | Scrap Divers | 334102 | [334102-scrap-divers.json](./334102-scrap-divers.json) |
 | Scrap Galaxy | 75021 | [75021-scrap-galaxy.json](./75021-scrap-galaxy.json) |
@@ -5568,6 +5570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serpent Squad | 402273 | [402273-serpent-squad.json](./402273-serpent-squad.json) |
 | Serpent Wine | 332401 | [332401-serpent-wine.json](./332401-serpent-wine.json) |
 | Serpent: Resurrection | 268877 | [268877-serpent-resurrection.json](./268877-serpent-resurrection.json) |
+| Serpent's Gaze | 380138 | [380138-serpents-gaze.json](./380138-serpents-gaze.json) |
 | Serpent's Wake | 263361 | [263361-serpents-wake.json](./263361-serpents-wake.json) |
 | Serpentes | 141594 | [141594-serpentes.json](./141594-serpentes.json) |
 | Serpentes: Anniversary Edition | 403951 | [403951-serpentes-anniversary-edition.json](./403951-serpentes-anniversary-edition.json) |
@@ -27876,6 +27879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Cats | 405615 | [405615-sudoku-cats.json](./405615-sudoku-cats.json) |
 | Sudoku Challenge Pro | 393224 | [393224-sudoku-challenge-pro.json](./393224-sudoku-challenge-pro.json) |
 | Sudoku Challenge! | 50698 | [50698-sudoku-challenge.json](./50698-sudoku-challenge.json) |
+| Sudoku Champions | 380131 | [380131-sudoku-champions.json](./380131-sudoku-champions.json) |
 | Sudoku Classic | 163175 | [163175-sudoku-classic.json](./163175-sudoku-classic.json) |
 | Sudoku Classic | 277713 | [277713-sudoku-classic.json](./277713-sudoku-classic.json) |
 | Sudoku Classic 2 | 328479 | [328479-sudoku-classic-2.json](./328479-sudoku-classic-2.json) |
@@ -33067,6 +33071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweep'n'Sweep | 91329 | [91329-sweepnsweep.json](./91329-sweepnsweep.json) |
 | Sweepcremental | 392590 | [392590-sweepcremental.json](./392590-sweepcremental.json) |
 | Sweeper | 178436 | [178436-sweeper.json](./178436-sweeper.json) |
+| Sweeper | 379822 | [379822-sweeper.json](./379822-sweeper.json) |
 | Sweeper Zero | 107870 | [107870-sweeper-zero.json](./107870-sweeper-zero.json) |
 | Sweepers Mine | 252914 | [252914-sweepers-mine.json](./252914-sweepers-mine.json) |
 | Sweeping the Ruins | 154886 | [154886-sweeping-the-ruins.json](./154886-sweeping-the-ruins.json) |
