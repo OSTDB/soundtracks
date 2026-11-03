@@ -2012,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satisfrustration | 349404 | [349404-satisfrustration.json](./349404-satisfrustration.json) |
 | Satisgame | 257477 | [257477-satisgame.json](./257477-satisgame.json) |
 | Satiszone | 332420 | [332420-satiszone.json](./332420-satiszone.json) |
+| Sato | 391968 | [391968-sato.json](./391968-sato.json) |
 | Sato & Hama | 393210 | [393210-sato-and-hama.json](./393210-sato-and-hama.json) |
 | Sato Killing Time Chat.exe | 395020 | [395020-sato-killing-time-chat-exe.json](./395020-sato-killing-time-chat-exe.json) |
 | Satogaeri | 192382 | [192382-satogaeri.json](./192382-satogaeri.json) |
@@ -5822,6 +5823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex & Drift | 237181 | [237181-sex-and-drift.json](./237181-sex-and-drift.json) |
 | Sex & Gun | 368092 | [368092-sex-and-gun.json](./368092-sex-and-gun.json) |
 | Sex 2 | 185853 | [185853-sex-2.json](./185853-sex-2.json) |
+| Sex Adventure: The Board Game | 391944 | [391944-sex-adventure-the-board-game.json](./391944-sex-adventure-the-board-game.json) |
 | Sex Adventures: BDSM Dungeon | 219597 | [219597-sex-adventures-bdsm-dungeon.json](./219597-sex-adventures-bdsm-dungeon.json) |
 | Sex Adventures: Cuckold Gym | 226151 | [226151-sex-adventures-cuckold-gym.json](./226151-sex-adventures-cuckold-gym.json) |
 | Sex Adventures: Futanari Doctor | 286529 | [286529-sex-adventures-futanari-doctor.json](./286529-sex-adventures-futanari-doctor.json) |
@@ -12331,6 +12333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash Abyss | 290629 | [290629-slash-abyss.json](./290629-slash-abyss.json) |
 | Slash and Fuck | 82893 | [82893-slash-and-fuck.json](./82893-slash-and-fuck.json) |
 | Slash Arena: Online | 51943 | [51943-slash-arena-online.json](./51943-slash-arena-online.json) |
+| Slash Cash | 391970 | [391970-slash-cash.json](./391970-slash-cash.json) |
 | Slash Em | 176825 | [176825-slash-em.json](./176825-slash-em.json) |
 | Slash It | 30129 | [30129-slash-it.json](./30129-slash-it.json) |
 | Slash It 2 | 29694 | [29694-slash-it-2.json](./29694-slash-it-2.json) |
@@ -13374,6 +13377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Bird Forest | 417498 | [417498-small-bird-forest.json](./417498-small-bird-forest.json) |
 | Small Bird Poem | 348580 | [348580-small-bird-poem.json](./348580-small-bird-poem.json) |
 | Small Buttons | 96768 | [96768-small-buttons.json](./96768-small-buttons.json) |
+| Small Cave Action | 391941 | [391941-small-cave-action.json](./391941-small-cave-action.json) |
 | Small Cell | 224657 | [224657-small-cell.json](./224657-small-cell.json) |
 | Small Crystal | 192200 | [192200-small-crystal.json](./192200-small-crystal.json) |
 | Small Demon | 280107 | [280107-small-demon.json](./280107-small-demon.json) |
@@ -24651,6 +24655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamy Livestreams with My Girlfriend | 396198 | [396198-steamy-livestreams-with-my-girlfriend.json](./396198-steamy-livestreams-with-my-girlfriend.json) |
 | Steamy Sextet | 127997 | [127997-steamy-sextet.json](./127997-steamy-sextet.json) |
 | STED: Iseki Wakusei no Yabou | 48703 | [48703-sted-iseki-wakusei-no-yabou.json](./48703-sted-iseki-wakusei-no-yabou.json) |
+| Steeb | 391926 | [391926-steeb.json](./391926-steeb.json) |
 | Steed | 60435 | [60435-steed.json](./60435-steed.json) |
 | Steel | 237272 | [237272-steel.json](./237272-steel.json) |
 | Steel | 329915 | [329915-steel.json](./329915-steel.json) |
@@ -28192,6 +28197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Adventurers: Mediterranean | 374062 | [374062-summer-adventurers-mediterranean.json](./374062-summer-adventurers-mediterranean.json) |
 | Summer After Ten Years: Steam Edition | 263753 | [263753-summer-after-ten-years-steam-edition.json](./263753-summer-after-ten-years-steam-edition.json) |
 | Summer and Poetry Journey | 308909 | [308909-summer-and-poetry-journey.json](./308909-summer-and-poetry-journey.json) |
+| Summer and Score Through the Doors | 391956 | [391956-summer-and-score-through-the-doors.json](./391956-summer-and-score-through-the-doors.json) |
 | Summer and Winter Sports Games Bundle: 4K Edition | 301778 | [301778-summer-and-winter-sports-games-bundle-4k-edition.json](./301778-summer-and-winter-sports-games-bundle-4k-edition.json) |
 | Summer at Marisol Bay | 183035 | [183035-summer-at-marisol-bay.json](./183035-summer-at-marisol-bay.json) |
 | Summer at the Edge of the Universe | 285617 | [285617-summer-at-the-edge-of-the-universe.json](./285617-summer-at-the-edge-of-the-universe.json) |
@@ -28382,6 +28388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoner Wars | 22159 | [22159-summoner-wars.json](./22159-summoner-wars.json) |
 | Summoner's Automata | 360691 | [360691-summoners-automata.json](./360691-summoners-automata.json) |
 | Summoner's Battle 2048 | 208121 | [208121-summoners-battle-2048.json](./208121-summoners-battle-2048.json) |
+| Summoner's Cookbook | 391958 | [391958-summoners-cookbook.json](./391958-summoners-cookbook.json) |
 | Summoner's Gambit | 353894 | [353894-summoners-gambit.json](./353894-summoners-gambit.json) |
 | Summoner's Greed | 158957 | [158957-summoners-greed.json](./158957-summoners-greed.json) |
 | Summoner's Handbook | 181696 | [181696-summoners-handbook.json](./181696-summoners-handbook.json) |
@@ -33242,6 +33249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwiftGrids | 380486 | [380486-swiftgrids.json](./380486-swiftgrids.json) |
 | Swiftle | 327426 | [327426-swiftle.json](./327426-swiftle.json) |
 | Swiftly | 34038 | [34038-swiftly.json](./34038-swiftly.json) |
+| Swifty | 391965 | [391965-swifty.json](./391965-swifty.json) |
 | Swiggart's Last Will | 252810 | [252810-swiggarts-last-will.json](./252810-swiggarts-last-will.json) |
 | Swigglio | 183819 | [183819-swigglio.json](./183819-swigglio.json) |
 | Swigridova kletba | 182294 | [182294-swigridova-kletba.json](./182294-swigridova-kletba.json) |
@@ -34095,6 +34103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SynthCave | 238375 | [238375-synthcave.json](./238375-synthcave.json) |
 | Synther | 99008 | [99008-synther.json](./99008-synther.json) |
 | Syntherapy | 139473 | [139473-syntherapy.json](./139473-syntherapy.json) |
+| SynthEscape | 391928 | [391928-synthescape.json](./391928-synthescape.json) |
 | Synthesia | 50109 | [50109-synthesia.json](./50109-synthesia.json) |
 | Synthesis | 281311 | [281311-synthesis.json](./281311-synthesis.json) |
 | Synthesis of Corruption | 346556 | [346556-synthesis-of-corruption.json](./346556-synthesis-of-corruption.json) |
