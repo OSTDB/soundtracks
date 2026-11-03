@@ -6754,6 +6754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Colonial Marines - Reconnaissance Pack | 118183 | [118183-aliens-colonial-marines-reconnaissance-pack.json](./118183-aliens-colonial-marines-reconnaissance-pack.json) |
 | Aliens: Colonial Marines - Sawed-off Double Barrel Shotgun | 118186 | [118186-aliens-colonial-marines-sawed-off-double-barrel-shotgun.json](./118186-aliens-colonial-marines-sawed-off-double-barrel-shotgun.json) |
 | Aliens: Colonial Marines - Sharp Sticks | 118187 | [118187-aliens-colonial-marines-sharp-sticks.json](./118187-aliens-colonial-marines-sharp-sticks.json) |
+| Aliens: Dark Descent - Lethe Recon Pack | 367093 | [367093-aliens-dark-descent-lethe-recon-pack.json](./367093-aliens-dark-descent-lethe-recon-pack.json) |
 | Aliens: Fireteam Elite - Hardened Marine Pack | 247755 | [247755-aliens-fireteam-elite-hardened-marine-pack.json](./247755-aliens-fireteam-elite-hardened-marine-pack.json) |
 | Aliens: Fireteam Elite - Into the Hive Edition | 201027 | [201027-aliens-fireteam-elite-into-the-hive-edition.json](./201027-aliens-fireteam-elite-into-the-hive-edition.json) |
 | Aliens: Fireteam Elite - Pathogen | 204435 | [204435-aliens-fireteam-elite-pathogen.json](./204435-aliens-fireteam-elite-pathogen.json) |
@@ -12555,6 +12556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Architectus | 160270 | [160270-architectus.json](./160270-architectus.json) |
 | Archive 1985 | 276249 | [276249-archive-1985.json](./276249-archive-1985.json) |
 | Archive Fever | 369449 | [369449-archive-fever.json](./369449-archive-fever.json) |
+| Archive: Zero | 367102 | [367102-archive-zero.json](./367102-archive-zero.json) |
 | Archiver | 362909 | [362909-archiver.json](./362909-archiver.json) |
 | Archivist: Tidy Up & Sort | 403093 | [403093-archivist-tidy-up-and-sort.json](./403093-archivist-tidy-up-and-sort.json) |
 | ArchLord | 20598 | [20598-archlord.json](./20598-archlord.json) |
