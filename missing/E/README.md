@@ -3501,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Ark | 208087 | [208087-endless-ark.json](./208087-endless-ark.json) |
 | Endless Ascent | 289423 | [289423-endless-ascent.json](./289423-endless-ascent.json) |
 | Endless Asphalt | 382950 | [382950-endless-asphalt.json](./382950-endless-asphalt.json) |
+| Endless Asteroids: Crank to Survive | 355969 | [355969-endless-asteroids-crank-to-survive.json](./355969-endless-asteroids-crank-to-survive.json) |
 | Endless Battle | 109664 | [109664-endless-battle.json](./109664-endless-battle.json) |
 | Endless Battle: Return of Hero +1 | 169576 | [169576-endless-battle-return-of-hero-1.json](./169576-endless-battle-return-of-hero-1.json) |
 | Endless Battlefield | 186317 | [186317-endless-battlefield.json](./186317-endless-battlefield.json) |
@@ -5181,6 +5182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Labyrinth | 109971 | [109971-escape-labyrinth.json](./109971-escape-labyrinth.json) |
 | Escape Lala | 105033 | [105033-escape-lala.json](./105033-escape-lala.json) |
 | Escape Lala 2 | 118370 | [118370-escape-lala-2.json](./118370-escape-lala-2.json) |
+| Escape Lanky Kong | 355823 | [355823-escape-lanky-kong.json](./355823-escape-lanky-kong.json) |
 | Escape Legacy VR | 113192 | [113192-escape-legacy-vr.json](./113192-escape-legacy-vr.json) |
 | Escape Legacy: Ancient Scrolls | 110733 | [110733-escape-legacy-ancient-scrolls.json](./110733-escape-legacy-ancient-scrolls.json) |
 | Escape Lite | 88579 | [88579-escape-lite.json](./88579-escape-lite.json) |
