@@ -4873,7 +4873,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIII Trilogy | 112093 | [112093-final-fantasy-xiii-trilogy.json](./112093-final-fantasy-xiii-trilogy.json) |
 | Final Fantasy XIII-2 DLC Bundle Pack | 409709 | [409709-final-fantasy-xiii-2-dlc-bundle-pack.json](./409709-final-fantasy-xiii-2-dlc-bundle-pack.json) |
 | Final Fantasy XIII-2: Collector's Edition | 41834 | [41834-final-fantasy-xiii-2-collectors-edition.json](./41834-final-fantasy-xiii-2-collectors-edition.json) |
+| Final Fantasy XIII-2: Heads or Tails? | 382801 | [382801-final-fantasy-xiii-2-heads-or-tails.json](./382801-final-fantasy-xiii-2-heads-or-tails.json) |
 | Final Fantasy XIII-2: Limited Collector's Edition | 41845 | [41845-final-fantasy-xiii-2-limited-collectors-edition.json](./41845-final-fantasy-xiii-2-limited-collectors-edition.json) |
+| Final Fantasy XIII-2: Perpetual Battlefield | 382800 | [382800-final-fantasy-xiii-2-perpetual-battlefield.json](./382800-final-fantasy-xiii-2-perpetual-battlefield.json) |
 | Final Fantasy XIII-2: Requiem of the Goddess | 294213 | [294213-final-fantasy-xiii-2-requiem-of-the-goddess.json](./294213-final-fantasy-xiii-2-requiem-of-the-goddess.json) |
 | Final Fantasy XIII-2: Steelbook Edition | 41843 | [41843-final-fantasy-xiii-2-steelbook-edition.json](./41843-final-fantasy-xiii-2-steelbook-edition.json) |
 | Final Fantasy XIII: Limited Collector's Edition | 41840 | [41840-final-fantasy-xiii-limited-collectors-edition.json](./41840-final-fantasy-xiii-limited-collectors-edition.json) |
@@ -5143,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find All Things: Christmas | 361059 | [361059-find-all-things-christmas.json](./361059-find-all-things-christmas.json) |
 | Find All: Bunker | 337499 | [337499-find-all-bunker.json](./337499-find-all-bunker.json) |
 | Find All: Bunker - Extra Level | 345512 | [345512-find-all-bunker-extra-level.json](./345512-find-all-bunker-extra-level.json) |
+| Find All: Christmas 2025 - Extra Level | 382724 | [382724-find-all-christmas-2025-extra-level.json](./382724-find-all-christmas-2025-extra-level.json) |
 | Find All: Valentine's Day | 388766 | [388766-find-all-valentines-day.json](./388766-find-all-valentines-day.json) |
 | Find Brains | 304704 | [304704-find-brains.json](./304704-find-brains.json) |
 | Find Brooklyn Guy! | 342711 | [342711-find-brooklyn-guy.json](./342711-find-brooklyn-guy.json) |
@@ -6886,6 +6889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaky Love | 310039 | [310039-flaky-love.json](./310039-flaky-love.json) |
 | Flam the Purge of the Century | 201088 | [201088-flam-the-purge-of-the-century.json](./201088-flam-the-purge-of-the-century.json) |
 | Flamango | 180034 | [180034-flamango.json](./180034-flamango.json) |
+| Flamberge no Seirei | 383086 | [383086-flamberge-no-seirei.json](./383086-flamberge-no-seirei.json) |
 | Flambo's Inferno | 196164 | [196164-flambos-inferno.json](./196164-flambos-inferno.json) |
 | Flame | 312847 | [312847-flame.json](./312847-flame.json) |
 | Flame and Blame | 419180 | [419180-flame-and-blame.json](./419180-flame-and-blame.json) |
@@ -7470,6 +7474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip | 35356 | [35356-flip.json](./35356-flip.json) |
 | Flip | 381025 | [381025-flip.json](./381025-flip.json) |
 | Flip & Flop | 41006 | [41006-flip-and-flop.json](./41006-flip-and-flop.json) |
+| Flip & Shop Simulator | 382725 | [382725-flip-and-shop-simulator.json](./382725-flip-and-shop-simulator.json) |
 | Flip Boarder | 74752 | [74752-flip-boarder.json](./74752-flip-boarder.json) |
 | Flip Coin | 336702 | [336702-flip-coin.json](./336702-flip-coin.json) |
 | Flip Dimensions | 394125 | [394125-flip-dimensions.json](./394125-flip-dimensions.json) |
