@@ -2637,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerl's Crazy C"rough"t! | 311598 | [311598-nerls-crazy-c-rough-t.json](./311598-nerls-crazy-c-rough-t.json) |
 | Nerm the Worm | 149331 | [149331-nerm-the-worm.json](./149331-nerm-the-worm.json) |
 | Nero | 156570 | [156570-nero.json](./156570-nero.json) |
+| Nero | 388074 | [388074-nero.json](./388074-nero.json) |
 | Nero E Rosso ~Kane no Tame ni Kane wa Naru 2 | 82686 | [82686-nero-e-rosso-kane-no-tame-ni-kane-wa-naru-2.json](./82686-nero-e-rosso-kane-no-tame-ni-kane-wa-naru-2.json) |
 | NERO: Neuro-Evolving Robotic Operatives | 7616 | [7616-nero-neuro-evolving-robotic-operatives.json](./7616-nero-neuro-evolving-robotic-operatives.json) |
 | Nerobi | 300485 | [300485-nerobi.json](./300485-nerobi.json) |
