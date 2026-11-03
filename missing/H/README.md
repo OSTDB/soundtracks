@@ -6400,6 +6400,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hezarin | 25114 | [25114-hezarin.json](./25114-hezarin.json) |
 | HG Adventure | 372070 | [372070-hg-adventure.json](./372070-hg-adventure.json) |
 | HgmGame Horse | 357851 | [357851-hgmgame-horse.json](./357851-hgmgame-horse.json) |
+| HgmGame-Lion | 363636 | [363636-hgmgame-lion.json](./363636-hgmgame-lion.json) |
+| HgmGame-Snail | 363632 | [363632-hgmgame-snail.json](./363632-hgmgame-snail.json) |
+| HgmGame-Tiger | 363630 | [363630-hgmgame-tiger.json](./363630-hgmgame-tiger.json) |
 | hhGregg's Quest for Coupons | 125942 | [125942-hhgreggs-quest-for-coupons.json](./125942-hhgreggs-quest-for-coupons.json) |
 | HHHalloween | 289471 | [289471-hhhalloween.json](./289471-hhhalloween.json) |
 | Hi Color | 228450 | [228450-hi-color.json](./228450-hi-color.json) |
