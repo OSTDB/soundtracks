@@ -9911,6 +9911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley: Ultimate Edition | 214449 | [214449-disney-dreamlight-valley-ultimate-edition.json](./214449-disney-dreamlight-valley-ultimate-edition.json) |
 | Disney Dreamlight Valley: Ursula's Transformation Dream Bundle | 406164 | [406164-disney-dreamlight-valley-ursulas-transformation-dream-bundle.json](./406164-disney-dreamlight-valley-ursulas-transformation-dream-bundle.json) |
 | Disney Dreamlight Valley: Whispers of the Wind | 397675 | [397675-disney-dreamlight-valley-whispers-of-the-wind.json](./397675-disney-dreamlight-valley-whispers-of-the-wind.json) |
+| Disney Dreamlight Valley: Wishblossom Ranch | 366464 | [366464-disney-dreamlight-valley-wishblossom-ranch.json](./366464-disney-dreamlight-valley-wishblossom-ranch.json) |
 | Disney Dreamlight Valley: Wonderland Whimsy | 341581 | [341581-disney-dreamlight-valley-wonderland-whimsy.json](./341581-disney-dreamlight-valley-wonderland-whimsy.json) |
 | Disney DVD Game World: Disney Dogs Edition | 228445 | [228445-disney-dvd-game-world-disney-dogs-edition.json](./228445-disney-dvd-game-world-disney-dogs-edition.json) |
 | Disney Emoji Blitz | 89817 | [89817-disney-emoji-blitz.json](./89817-disney-emoji-blitz.json) |
