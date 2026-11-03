@@ -2050,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | illuminati Simulator VR | 156142 | [156142-illuminati-simulator-vr.json](./156142-illuminati-simulator-vr.json) |
 | Illuminati Tycoon | 184859 | [184859-illuminati-tycoon.json](./184859-illuminati-tycoon.json) |
 | Illuminati Wars MLG Edition | 397735 | [397735-illuminati-wars-mlg-edition.json](./397735-illuminati-wars-mlg-edition.json) |
+| Illuminati: MLG Clicker | 396284 | [396284-illuminati-mlg-clicker.json](./396284-illuminati-mlg-clicker.json) |
 | Illumination | 201977 | [201977-illumination.json](./201977-illumination.json) |
 | Illumination | 292940 | [292940-illumination.json](./292940-illumination.json) |
 | Illumination Laser | 280690 | [280690-illumination-laser.json](./280690-illumination-laser.json) |
