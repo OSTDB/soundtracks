@@ -1622,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramen or Jail | 190992 | [190992-ramen-or-jail.json](./190992-ramen-or-jail.json) |
 | Ramen Shop Simulator | 337287 | [337287-ramen-shop-simulator.json](./337287-ramen-shop-simulator.json) |
 | Ramen Simulator | 339984 | [339984-ramen-simulator.json](./339984-ramen-simulator.json) |
+| Ramen-ten: Heart Abyss | 377724 | [377724-ramen-ten-heart-abyss.json](./377724-ramen-ten-heart-abyss.json) |
 | Ramen://Protocol | 410658 | [410658-ramen-protocol.json](./410658-ramen-protocol.json) |
 | Ramen! Road to Mastery | 343712 | [343712-ramen-road-to-mastery.json](./343712-ramen-road-to-mastery.json) |
 | Ramenbashi | 92513 | [92513-ramenbashi.json](./92513-ramenbashi.json) |
@@ -4897,6 +4898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renegade | 6852 | [6852-renegade.json](./6852-renegade.json) |
 | Renegade Grounds: Episode 1 | 55508 | [55508-renegade-grounds-episode-1.json](./55508-renegade-grounds-episode-1.json) |
 | Renegade Grounds: Episode 2 | 127579 | [127579-renegade-grounds-episode-2.json](./127579-renegade-grounds-episode-2.json) |
+| Renegade Hero: Termination of Salvation | 377869 | [377869-renegade-hero-termination-of-salvation.json](./377869-renegade-hero-termination-of-salvation.json) |
 | Renegade Legion: Interceptor | 73333 | [73333-renegade-legion-interceptor.json](./73333-renegade-legion-interceptor.json) |
 | Renegade Line | 58091 | [58091-renegade-line.json](./58091-renegade-line.json) |
 | Renegade Ops | 2139 | [2139-renegade-ops.json](./2139-renegade-ops.json) |
@@ -6570,6 +6572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Destruction | 9011 | [9011-rhythm-destruction.json](./9011-rhythm-destruction.json) |
 | Rhythm Doctor | 27907 | [27907-rhythm-doctor.json](./27907-rhythm-doctor.json) |
 | Rhythm Dodge | 257999 | [257999-rhythm-dodge.json](./257999-rhythm-dodge.json) |
+| Rhythm Doggo | 377539 | [377539-rhythm-doggo.json](./377539-rhythm-doggo.json) |
 | Rhythm Drive: Synthwave City | 237202 | [237202-rhythm-drive-synthwave-city.json](./237202-rhythm-drive-synthwave-city.json) |
 | Rhythm Fighter | 129413 | [129413-rhythm-fighter.json](./129413-rhythm-fighter.json) |
 | Rhythm Flash | 234445 | [234445-rhythm-flash.json](./234445-rhythm-flash.json) |
@@ -10763,6 +10766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotrex | 290978 | [290978-rotrex.json](./290978-rotrex.json) |
 | Rotschwert | 333660 | [333660-rotschwert.json](./333660-rotschwert.json) |
 | Rotted: A Brain Rot Simulator | 403927 | [403927-rotted-a-brain-rot-simulator.json](./403927-rotted-a-brain-rot-simulator.json) |
+| rotten angel | 377879 | [377879-rotten-angel.json](./377879-rotten-angel.json) |
 | Rotten Apple | 238539 | [238539-rotten-apple.json](./238539-rotten-apple.json) |
 | Rotten Apple: New York Fallen | 211639 | [211639-rotten-apple-new-york-fallen.json](./211639-rotten-apple-new-york-fallen.json) |
 | Rotten Apples | 255543 | [255543-rotten-apples.json](./255543-rotten-apples.json) |
