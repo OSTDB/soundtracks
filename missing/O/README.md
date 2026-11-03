@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occidental Heroes | 388012 | [388012-occidental-heroes.json](./388012-occidental-heroes.json) |
 | Occlude | 340862 | [340862-occlude.json](./340862-occlude.json) |
 | Occula | 222626 | [222626-occula.json](./222626-occula.json) |
+| Occuleye | 395636 | [395636-occuleye.json](./395636-occuleye.json) |
 | Occult | 153954 | [153954-occult.json](./153954-occult.json) |
 | Occult Case Files: Case One | 273254 | [273254-occult-case-files-case-one.json](./273254-occult-case-files-case-one.json) |
 | Occult Chambers | 235186 | [235186-occult-chambers.json](./235186-occult-chambers.json) |
@@ -612,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddest Sea | 133171 | [133171-oddest-sea.json](./133171-oddest-sea.json) |
 | OddFauna: Secret of the Terrabeast | 192830 | [192830-oddfauna-secret-of-the-terrabeast.json](./192830-oddfauna-secret-of-the-terrabeast.json) |
 | Oddhop | 174368 | [174368-oddhop.json](./174368-oddhop.json) |
+| Oddie's Doughnut Dash | 395610 | [395610-oddies-doughnut-dash.json](./395610-oddies-doughnut-dash.json) |
 | Oddinary Farm | 392291 | [392291-oddinary-farm.json](./392291-oddinary-farm.json) |
 | Oddity Girls: Virtual World | 156530 | [156530-oddity-girls-virtual-world.json](./156530-oddity-girls-virtual-world.json) |
 | Oddli: A Satisfying Game | 346623 | [346623-oddli-a-satisfying-game.json](./346623-oddli-a-satisfying-game.json) |
