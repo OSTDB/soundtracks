@@ -9779,6 +9779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miami Nights: Bartending in the 80s | 312138 | [312138-miami-nights-bartending-in-the-80s.json](./312138-miami-nights-bartending-in-the-80s.json) |
 | Miami Nights: Life in the Spotlight | 67226 | [67226-miami-nights-life-in-the-spotlight.json](./67226-miami-nights-life-in-the-spotlight.json) |
 | Miami Nights: Singles in the City | 21284 | [21284-miami-nights-singles-in-the-city.json](./21284-miami-nights-singles-in-the-city.json) |
+| Miami Paradise | 378485 | [378485-miami-paradise.json](./378485-miami-paradise.json) |
 | Miami Resort | 115503 | [115503-miami-resort.json](./115503-miami-resort.json) |
 | Miami Shark | 234942 | [234942-miami-shark.json](./234942-miami-shark.json) |
 | Miami Vice | 272177 | [272177-miami-vice.json](./272177-miami-vice.json) |
@@ -14105,6 +14106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mom Life Simulator | 380163 | [380163-mom-life-simulator.json](./380163-mom-life-simulator.json) |
 | Mom Simulator 2023 | 277841 | [277841-mom-simulator-2023.json](./277841-mom-simulator-2023.json) |
 | Mom-chan Diet Wii Figureobics by Jung Da-yeon | 5013 | [5013-mom-chan-diet-wii-figureobics-by-jung-da-yeon.json](./5013-mom-chan-diet-wii-figureobics-by-jung-da-yeon.json) |
+| Mom's Hotel | 378450 | [378450-moms-hotel.json](./378450-moms-hotel.json) |
 | Mom's Tent | 302998 | [302998-moms-tent.json](./302998-moms-tent.json) |
 | Momatron | 249836 | [249836-momatron.json](./249836-momatron.json) |
 | Mombo Combo 2 | 134331 | [134331-mombo-combo-2.json](./134331-mombo-combo-2.json) |
