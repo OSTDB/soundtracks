@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Asleep | 381010 | [381010-fall-asleep.json](./381010-fall-asleep.json) |
 | Fall Balance Ball | 144212 | [144212-fall-balance-ball.json](./144212-fall-balance-ball.json) |
 | Fall Ball Fall | 141852 | [141852-fall-ball-fall.json](./141852-fall-ball-fall.json) |
+| Fall Buddies | 388067 | [388067-fall-buddies.json](./388067-fall-buddies.json) |
 | Fall Cars: Ultimate Car Battle | 278492 | [278492-fall-cars-ultimate-car-battle.json](./278492-fall-cars-ultimate-car-battle.json) |
 | Fall Cat | 410306 | [410306-fall-cat.json](./410306-fall-cat.json) |
 | Fall Cleaning | 272165 | [272165-fall-cleaning.json](./272165-fall-cleaning.json) |
@@ -12020,6 +12021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostfire Planet | 139904 | [139904-frostfire-planet.json](./139904-frostfire-planet.json) |
 | FrostFire: Battle Frenzy | 269023 | [269023-frostfire-battle-frenzy.json](./269023-frostfire-battle-frenzy.json) |
 | Frosthaven | 336152 | [336152-frosthaven.json](./336152-frosthaven.json) |
+| Frostholm Isle | 388066 | [388066-frostholm-isle.json](./388066-frostholm-isle.json) |
 | Frostland | 401270 | [401270-frostland.json](./401270-frostland.json) |
 | Frostlands | 184168 | [184168-frostlands.json](./184168-frostlands.json) |
 | Frostliner | 358967 | [358967-frostliner.json](./358967-frostliner.json) |
