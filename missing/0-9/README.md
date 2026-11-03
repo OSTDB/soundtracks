@@ -1782,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2901 Freelancer | 198139 | [198139-2901-freelancer.json](./198139-2901-freelancer.json) |
 | 2945VR | 171733 | [171733-2945vr.json](./171733-2945vr.json) |
 | 2999 Game Kids | 209723 | [209723-2999-game-kids.json](./209723-2999-game-kids.json) |
+| 2AM Truck Stop | 396273 | [396273-2am-truck-stop.json](./396273-2am-truck-stop.json) |
 | 2BBee | 261789 | [261789-2bbee.json](./261789-2bbee.json) |
 | 2D Baseball Duel | 146064 | [146064-2d-baseball-duel.json](./146064-2d-baseball-duel.json) |
 | 2D Brick Breaker Game Remastered | 368060 | [368060-2d-brick-breaker-game-remastered.json](./368060-2d-brick-breaker-game-remastered.json) |
