@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Hue Out! | 297310 | [297310-odd-hue-out.json](./297310-odd-hue-out.json) |
 | Odd Infinitum: First Contact | 267274 | [267274-odd-infinitum-first-contact.json](./267274-odd-infinitum-first-contact.json) |
 | Odd Island | 103037 | [103037-odd-island.json](./103037-odd-island.json) |
+| Odd Jobs: On The Lot | 380968 | [380968-odd-jobs-on-the-lot.json](./380968-odd-jobs-on-the-lot.json) |
 | Odd Mobs Zero: Arrange | 375587 | [375587-odd-mobs-zero-arrange.json](./375587-odd-mobs-zero-arrange.json) |
 | Odd Night | 302400 | [302400-odd-night.json](./302400-odd-night.json) |
 | Odd One | 177481 | [177481-odd-one.json](./177481-odd-one.json) |
@@ -4577,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Brotherly War | 190865 | [190865-our-brotherly-war.json](./190865-our-brotherly-war.json) |
 | Our Burial Dolls Remastered | 386210 | [386210-our-burial-dolls-remastered.json](./386210-our-burial-dolls-remastered.json) |
 | Our Children - Escaping Earth | 115511 | [115511-our-children-escaping-earth.json](./115511-our-children-escaping-earth.json) |
+| Our Choices | 381291 | [381291-our-choices.json](./381291-our-choices.json) |
 | Our Church and Halloween RPG: Story Five - James Version | 214940 | [214940-our-church-and-halloween-rpg-story-five-james-version.json](./214940-our-church-and-halloween-rpg-story-five-james-version.json) |
 | Our Church and Halloween RPG: Story Five - Scott Version | 214939 | [214939-our-church-and-halloween-rpg-story-five-scott-version.json](./214939-our-church-and-halloween-rpg-story-five-scott-version.json) |
 | Our Church and Halloween: Story Four | 147944 | [147944-our-church-and-halloween-story-four.json](./147944-our-church-and-halloween-story-four.json) |
