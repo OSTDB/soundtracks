@@ -6960,6 +6960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Up: Gold Edition | 227178 | [227178-shape-up-gold-edition.json](./227178-shape-up-gold-edition.json) |
 | Shape Wars | 414440 | [414440-shape-wars.json](./414440-shape-wars.json) |
 | Shape Warzone | 345098 | [345098-shape-warzone.json](./345098-shape-warzone.json) |
+| Shape World Level up Lite | 390342 | [390342-shape-world-level-up-lite.json](./390342-shape-world-level-up-lite.json) |
 | Shapebreaker | 197590 | [197590-shapebreaker.json](./197590-shapebreaker.json) |
 | ShapeBreaker | 422515 | [422515-shapebreaker.json](./422515-shapebreaker.json) |
 | Shaped Touches | 154311 | [154311-shaped-touches.json](./154311-shaped-touches.json) |
@@ -10219,6 +10220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimHarbor | 171245 | [171245-simharbor.json](./171245-simharbor.json) |
 | Simhaus: Football | 425872 | [425872-simhaus-football.json](./425872-simhaus-football.json) |
 | SimHealth | 93048 | [93048-simhealth.json](./93048-simhealth.json) |
+| Simian | 390344 | [390344-simian.json](./390344-simian.json) |
 | Simian Rising | 102147 | [102147-simian-rising.json](./102147-simian-rising.json) |
 | Simian.Interface | 32702 | [32702-simian-interface.json](./32702-simian-interface.json) |
 | Similars: Climb | 121194 | [121194-similars-climb.json](./121194-similars-climb.json) |
@@ -14007,6 +14009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Charmer - TPS Snek | 81038 | [81038-snake-charmer-tps-snek.json](./81038-snake-charmer-tps-snek.json) |
 | Snake Classic | 84014 | [84014-snake-classic.json](./84014-snake-classic.json) |
 | Snake Classic 3D Reborn | 384323 | [384323-snake-classic-3d-reborn.json](./384323-snake-classic-3d-reborn.json) |
+| Snake Coil: Puzzle Adventure | 390368 | [390368-snake-coil-puzzle-adventure.json](./390368-snake-coil-puzzle-adventure.json) |
 | Snake Colors: Slithering Game | 285336 | [285336-snake-colors-slithering-game.json](./285336-snake-colors-slithering-game.json) |
 | Snake Core | 132783 | [132783-snake-core.json](./132783-snake-core.json) |
 | Snake Couple | 334805 | [334805-snake-couple.json](./334805-snake-couple.json) |
@@ -15903,6 +15906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solve & Roll | 259552 | [259552-solve-and-roll.json](./259552-solve-and-roll.json) |
 | Solve et Coagula | 280910 | [280910-solve-et-coagula.json](./280910-solve-et-coagula.json) |
 | Solve This! Emoji Puzzle | 213596 | [213596-solve-this-emoji-puzzle.json](./213596-solve-this-emoji-puzzle.json) |
+| SolveIt! A Puzzle Solving Simulator | 390328 | [390328-solveit-a-puzzle-solving-simulator.json](./390328-solveit-a-puzzle-solving-simulator.json) |
 | Solver: The Bank Quest | 71450 | [71450-solver-the-bank-quest.json](./71450-solver-the-bank-quest.json) |
 | SolveWithMe | 241203 | [241203-solvewithme.json](./241203-solvewithme.json) |
 | Solvimus | 370138 | [370138-solvimus.json](./370138-solvimus.json) |
@@ -27474,6 +27478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SubmarineCraft | 113183 | [113183-submarinecraft.json](./113183-submarinecraft.json) |
 | Submarines | 277915 | [277915-submarines.json](./277915-submarines.json) |
 | Submarines 2D | 301992 | [301992-submarines-2d.json](./301992-submarines-2d.json) |
+| Submerge | 390353 | [390353-submerge.json](./390353-submerge.json) |
 | Submerged | 11409 | [11409-submerged.json](./11409-submerged.json) |
 | Submerged | 182813 | [182813-submerged.json](./182813-submerged.json) |
 | Submerged Gallery | 290299 | [290299-submerged-gallery.json](./290299-submerged-gallery.json) |
