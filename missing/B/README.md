@@ -2031,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bangkok Awakening | 320115 | [320115-bangkok-awakening.json](./320115-bangkok-awakening.json) |
 | Bangkok Story: A Stray Dog | 216760 | [216760-bangkok-story-a-stray-dog.json](./216760-bangkok-story-a-stray-dog.json) |
 | Bangkok: City of Legends | 416965 | [416965-bangkok-city-of-legends.json](./416965-bangkok-city-of-legends.json) |
+| Bangman | 363653 | [363653-bangman.json](./363653-bangman.json) |
 | Bangungot | 217862 | [217862-bangungot.json](./217862-bangungot.json) |
 | Bangy: Adventures in Egypt | 179135 | [179135-bangy-adventures-in-egypt.json](./179135-bangy-adventures-in-egypt.json) |
 | BanHammer | 286506 | [286506-banhammer.json](./286506-banhammer.json) |
@@ -8930,6 +8931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Roulette | 380530 | [380530-blackjack-roulette.json](./380530-blackjack-roulette.json) |
 | Blackjack Roulette | 390217 | [390217-blackjack-roulette.json](./390217-blackjack-roulette.json) |
 | Blackjack Royale | 90986 | [90986-blackjack-royale.json](./90986-blackjack-royale.json) |
+| Blackjack Saloon | 363641 | [363641-blackjack-saloon.json](./363641-blackjack-saloon.json) |
 | Blackjack Simple | 369322 | [369322-blackjack-simple.json](./369322-blackjack-simple.json) |
 | Blackjack Simulator 2024 | 266297 | [266297-blackjack-simulator-2024.json](./266297-blackjack-simulator-2024.json) |
 | Blackjack Simulator 2025 | 359000 | [359000-blackjack-simulator-2025.json](./359000-blackjack-simulator-2025.json) |
@@ -12262,6 +12264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonelords | 202536 | [202536-bonelords.json](./202536-bonelords.json) |
 | Bonely Hearts Club | 411802 | [411802-bonely-hearts-club.json](./411802-bonely-hearts-club.json) |
 | Boneman's Buttons | 181627 | [181627-bonemans-buttons.json](./181627-bonemans-buttons.json) |
+| Bonemarrow | 363761 | [363761-bonemarrow.json](./363761-bonemarrow.json) |
 | Boner | 25557 | [25557-boner.json](./25557-boner.json) |
 | Boneraiser Minions | 197011 | [197011-boneraiser-minions.json](./197011-boneraiser-minions.json) |
 | Bonerdale | 221762 | [221762-bonerdale.json](./221762-bonerdale.json) |
@@ -13924,6 +13927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainroll | 250782 | [250782-brainroll.json](./250782-brainroll.json) |
 | BrainRot | 336518 | [336518-brainrot.json](./336518-brainrot.json) |
 | Brainrot & Tung Collection 5 in 1 | 385139 | [385139-brainrot-and-tung-collection-5-in-1.json](./385139-brainrot-and-tung-collection-5-in-1.json) |
+| Brainrot Animals Fighting | 363637 | [363637-brainrot-animals-fighting.json](./363637-brainrot-animals-fighting.json) |
 | Brainrot Battle | 363564 | [363564-brainrot-battle.json](./363564-brainrot-battle.json) |
 | Brainrot Battle Royale | 366730 | [366730-brainrot-battle-royale.json](./366730-brainrot-battle-royale.json) |
 | Brainrot Battle Simulator | 369317 | [369317-brainrot-battle-simulator.json](./369317-brainrot-battle-simulator.json) |
