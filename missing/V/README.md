@@ -3584,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoxLand | 410640 | [410640-voxland.json](./410640-voxland.json) |
 | Voxmons | 425869 | [425869-voxmons.json](./425869-voxmons.json) |
 | Voxorp | 178628 | [178628-voxorp.json](./178628-voxorp.json) |
+| Voxquarter | 366461 | [366461-voxquarter.json](./366461-voxquarter.json) |
 | Voxrush | 211138 | [211138-voxrush.json](./211138-voxrush.json) |
 | VoxStory | 137887 | [137887-voxstory.json](./137887-voxstory.json) |
 | Voxtale | 400733 | [400733-voxtale.json](./400733-voxtale.json) |
