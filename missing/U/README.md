@@ -2838,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unto the End: Special Edition | 154218 | [154218-unto-the-end-special-edition.json](./154218-unto-the-end-special-edition.json) |
 | Untold | 184415 | [184415-untold.json](./184415-untold.json) |
 | Untold Atlas | 218836 | [218836-untold-atlas.json](./218836-untold-atlas.json) |
+| Untold Cases: Stillwater Lake | 390356 | [390356-untold-cases-stillwater-lake.json](./390356-untold-cases-stillwater-lake.json) |
 | Untold Chronicles: The Harvest | 374829 | [374829-untold-chronicles-the-harvest.json](./374829-untold-chronicles-the-harvest.json) |
 | Untold History: Descendant of the Sun - Collector's Edition | 416161 | [416161-untold-history-descendant-of-the-sun-collectors-edition.json](./416161-untold-history-descendant-of-the-sun-collectors-edition.json) |
 | Untold Legends: Brotherhood of the Blade | 22508 | [22508-untold-legends-brotherhood-of-the-blade.json](./22508-untold-legends-brotherhood-of-the-blade.json) |
@@ -2864,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untold Tales: A Scarlet Way | 312567 | [312567-untold-tales-a-scarlet-way.json](./312567-untold-tales-a-scarlet-way.json) |
 | Untouchable | 101594 | [101594-untouchable.json](./101594-untouchable.json) |
 | Untouchable | 195063 | [195063-untouchable.json](./195063-untouchable.json) |
+| Untouchable Ground | 390339 | [390339-untouchable-ground.json](./390339-untouchable-ground.json) |
 | Untraveled Lands: Chantico | 292372 | [292372-untraveled-lands-chantico.json](./292372-untraveled-lands-chantico.json) |
 | Untravelled Planet | 325270 | [325270-untravelled-planet.json](./325270-untravelled-planet.json) |
 | Untrue New World | 164858 | [164858-untrue-new-world.json](./164858-untrue-new-world.json) |
