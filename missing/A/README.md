@@ -3385,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure in Kana Village | 101314 | [101314-adventure-in-kana-village.json](./101314-adventure-in-kana-village.json) |
 | Adventure in King Caries Land | 117044 | [117044-adventure-in-king-caries-land.json](./117044-adventure-in-king-caries-land.json) |
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
+| Adventure in Russia: Road to Harvetsky | 367690 | [367690-adventure-in-russia-road-to-harvetsky.json](./367690-adventure-in-russia-road-to-harvetsky.json) |
 | Adventure in the Fifth Dimension | 21556 | [21556-adventure-in-the-fifth-dimension.json](./21556-adventure-in-the-fifth-dimension.json) |
 | Adventure in the Park | 230846 | [230846-adventure-in-the-park.json](./230846-adventure-in-the-park.json) |
 | Adventure in the Snow Globe | 365077 | [365077-adventure-in-the-snow-globe.json](./365077-adventure-in-the-snow-globe.json) |
@@ -4996,6 +4997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aimtropolis | 226103 | [226103-aimtropolis.json](./226103-aimtropolis.json) |
 | Aimx | 316463 | [316463-aimx.json](./316463-aimx.json) |
 | AimX | 212901 | [212901-aimx.json](./212901-aimx.json) |
+| Ain Dodo | 367683 | [367683-ain-dodo.json](./367683-ain-dodo.json) |
 | Ain't No Surprise | 379518 | [379518-aint-no-surprise.json](./379518-aint-no-surprise.json) |
 | AInder | 239682 | [239682-ainder.json](./239682-ainder.json) |
 | Ainmora: The Impending Disaster | 241949 | [241949-ainmora-the-impending-disaster.json](./241949-ainmora-the-impending-disaster.json) |
@@ -10245,6 +10247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Bar Game | 235780 | [235780-another-bar-game.json](./235780-another-bar-game.json) |
 | Another Bible | 78310 | [78310-another-bible.json](./78310-another-bible.json) |
 | Another Big Base Attacked | 270694 | [270694-another-big-base-attacked.json](./270694-another-big-base-attacked.json) |
+| Another Blue | 367671 | [367671-another-blue.json](./367671-another-blue.json) |
 | Another Boss Battle Test | 214716 | [214716-another-boss-battle-test.json](./214716-another-boss-battle-test.json) |
 | Another Box of Hotcorn | 335299 | [335299-another-box-of-hotcorn.json](./335299-another-box-of-hotcorn.json) |
 | Another Brick in Space | 95601 | [95601-another-brick-in-space.json](./95601-another-brick-in-space.json) |
