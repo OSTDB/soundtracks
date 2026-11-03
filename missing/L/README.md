@@ -3215,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leisure Suit Larry 6: Shape Up or Slip Out! | 2911 | [2911-leisure-suit-larry-6-shape-up-or-slip-out.json](./2911-leisure-suit-larry-6-shape-up-or-slip-out.json) |
 | Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals | 2908 | [2908-leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsating-pectorals.json](./2908-leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsating-pectorals.json) |
 | Leisure Suit Larry in the Land of the Lounge Lizards | 2906 | [2906-leisure-suit-larry-in-the-land-of-the-lounge-lizards.json](./2906-leisure-suit-larry-in-the-land-of-the-lounge-lizards.json) |
+| Leisure Suit Larry: Bikini Beach Volleyball | 350153 | [350153-leisure-suit-larry-bikini-beach-volleyball.json](./350153-leisure-suit-larry-bikini-beach-volleyball.json) |
 | Leisure Suit Larry: Box Office Bust | 2914 | [2914-leisure-suit-larry-box-office-bust.json](./2914-leisure-suit-larry-box-office-bust.json) |
 | Leisure Suit Larry: Greatest Hits and Misses | 50324 | [50324-leisure-suit-larry-greatest-hits-and-misses.json](./50324-leisure-suit-larry-greatest-hits-and-misses.json) |
 | Leisure Suit Larry: Kühle Drinks und Heiße Girls | 85980 | [85980-leisure-suit-larry-kuhle-drinks-und-hei-e-girls.json](./85980-leisure-suit-larry-kuhle-drinks-und-hei-e-girls.json) |
@@ -3229,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leisure Suit Larry: Wet Dreams Dry Twice - Save the World Edition | 154215 | [154215-leisure-suit-larry-wet-dreams-dry-twice-save-the-world-edition.json](./154215-leisure-suit-larry-wet-dreams-dry-twice-save-the-world-edition.json) |
 | Leisure Suit Larry: Wet Dreams Saga Bundle | 173791 | [173791-leisure-suit-larry-wet-dreams-saga-bundle.json](./173791-leisure-suit-larry-wet-dreams-saga-bundle.json) |
 | Leisure Suit Larry's Casino | 144534 | [144534-leisure-suit-larrys-casino.json](./144534-leisure-suit-larrys-casino.json) |
+| Leisure Suit Larry’s Sexy Pinball | 350154 | [350154-leisure-suit-larry-s-sexy-pinball.json](./350154-leisure-suit-larry-s-sexy-pinball.json) |
 | Leisure Town | 108424 | [108424-leisure-town.json](./108424-leisure-town.json) |
 | Leisure Yacht | 238580 | [238580-leisure-yacht.json](./238580-leisure-yacht.json) |
 | Leisurely Brick | 267656 | [267656-leisurely-brick.json](./267656-leisurely-brick.json) |
@@ -5984,6 +5986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Tiger - Mini Kids Games | 104571 | [104571-little-tiger-mini-kids-games.json](./104571-little-tiger-mini-kids-games.json) |
 | Little Tournament Over Yonder | 67207 | [67207-little-tournament-over-yonder.json](./67207-little-tournament-over-yonder.json) |
 | Little Town Hero | 109459 | [109459-little-town-hero.json](./109459-little-town-hero.json) |
+| Little Town Secrets | 350307 | [350307-little-town-secrets.json](./350307-little-town-secrets.json) |
 | Little Toys | 393216 | [393216-little-toys.json](./393216-little-toys.json) |
 | Little Treasures | 383639 | [383639-little-treasures.json](./383639-little-treasures.json) |
 | Little Tree Kingdom | 381625 | [381625-little-tree-kingdom.json](./381625-little-tree-kingdom.json) |
