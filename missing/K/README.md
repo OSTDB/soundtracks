@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kannagi no Mori: Ryuujin Kitan | 223083 | [223083-kannagi-no-mori-ryuujin-kitan.json](./223083-kannagi-no-mori-ryuujin-kitan.json) |
 | Kannagi no Mori: Youko Kitan | 223082 | [223082-kannagi-no-mori-youko-kitan.json](./223082-kannagi-no-mori-youko-kitan.json) |
 | Kannagi Usagi | 263139 | [263139-kannagi-usagi.json](./263139-kannagi-usagi.json) |
+| Kannan! Äventyr i Riddarborgen | 399948 | [399948-kannan-aventyr-i-riddarborgen.json](./399948-kannan-aventyr-i-riddarborgen.json) |
 | Kannou Mukashi Banashi Portable | 56766 | [56766-kannou-mukashi-banashi-portable.json](./56766-kannou-mukashi-banashi-portable.json) |
 | Kanojo * Step | 139862 | [139862-kanojo-step.json](./139862-kanojo-step.json) |
 | Kanojo ha Boku ni Kietehoshii | 221588 | [221588-kanojo-ha-boku-ni-kietehoshii.json](./221588-kanojo-ha-boku-ni-kietehoshii.json) |
@@ -776,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kao The Kangaroo: Top Of The Class | 290412 | [290412-kao-the-kangaroo-top-of-the-class.json](./290412-kao-the-kangaroo-top-of-the-class.json) |
 | Kao the Kangaroo: VIP | 290411 | [290411-kao-the-kangaroo-vip.json](./290411-kao-the-kangaroo-vip.json) |
 | Kao the Kangaroo: Yooka x Kao | 226327 | [226327-kao-the-kangaroo-yooka-x-kao.json](./226327-kao-the-kangaroo-yooka-x-kao.json) |
+| Kao: Resurgence of the Volcano | 399370 | [399370-kao-resurgence-of-the-volcano.json](./399370-kao-resurgence-of-the-volcano.json) |
 | Kaoamaru Kaiju | 222982 | [222982-kaoamaru-kaiju.json](./222982-kaoamaru-kaiju.json) |
 | Kaodi | 328336 | [328336-kaodi.json](./328336-kaodi.json) |
 | Kaon : Fragmented Core | 379582 | [379582-kaon-fragmented-core.json](./379582-kaon-fragmented-core.json) |
@@ -957,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karma City Police | 132198 | [132198-karma-city-police.json](./132198-karma-city-police.json) |
 | Karma Clicker | 342551 | [342551-karma-clicker.json](./342551-karma-clicker.json) |
 | Karma Crown | 189944 | [189944-karma-crown.json](./189944-karma-crown.json) |
+| Karma Exorcist | 399955 | [399955-karma-exorcist.json](./399955-karma-exorcist.json) |
 | Karma Flow 2: Tears of a Ghost | 164997 | [164997-karma-flow-2-tears-of-a-ghost.json](./164997-karma-flow-2-tears-of-a-ghost.json) |
 | Karma II | 316288 | [316288-karma-ii.json](./316288-karma-ii.json) |
 | Karma Jump | 367481 | [367481-karma-jump.json](./367481-karma-jump.json) |
@@ -2955,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Fighters XV: Garou MotW Terry Costume | 320249 | [320249-king-of-fighters-xv-garou-motw-terry-costume.json](./320249-king-of-fighters-xv-garou-motw-terry-costume.json) |
 | King of Fighters: Survival City | 241577 | [241577-king-of-fighters-survival-city.json](./241577-king-of-fighters-survival-city.json) |
 | King of Football | 67980 | [67980-king-of-football.json](./67980-king-of-football.json) |
+| King of Gladiators | 399940 | [399940-king-of-gladiators.json](./399940-king-of-gladiators.json) |
 | King of Gods: Angel the Awakening of a Demon | 110674 | [110674-king-of-gods-angel-the-awakening-of-a-demon.json](./110674-king-of-gods-angel-the-awakening-of-a-demon.json) |
 | King of Halloween | 123503 | [123503-king-of-halloween.json](./123503-king-of-halloween.json) |
 | King of Hearts | 264204 | [264204-king-of-hearts.json](./264204-king-of-hearts.json) |
@@ -5953,6 +5957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurupara! | 37364 | [37364-kurupara.json](./37364-kurupara.json) |
 | Kururin Cafe | 288094 | [288094-kururin-cafe.json](./288094-kururin-cafe.json) |
 | Kururin Donuts: Okashi Recipe | 228453 | [228453-kururin-donuts-okashi-recipe.json](./228453-kururin-donuts-okashi-recipe.json) |
+| Kururin Pa! | 399392 | [399392-kururin-pa.json](./399392-kururin-pa.json) |
 | Kururin Paradise | 1470 | [1470-kururin-paradise.json](./1470-kururin-paradise.json) |
 | Kururin Squash! | 1471 | [1471-kururin-squash.json](./1471-kururin-squash.json) |
 | Kururin Sushi | 222321 | [222321-kururin-sushi.json](./222321-kururin-sushi.json) |
