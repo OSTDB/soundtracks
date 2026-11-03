@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty Boy | 40990 | [40990-naughty-boy.json](./40990-naughty-boy.json) |
 | Naughty College 18+ | 258984 | [258984-naughty-college-18.json](./258984-naughty-college-18.json) |
 | Naughty Elves | 76319 | [76319-naughty-elves.json](./76319-naughty-elves.json) |
+| Naughty Girl | 382486 | [382486-naughty-girl.json](./382486-naughty-girl.json) |
 | Naughty Girl 2 | 367915 | [367915-naughty-girl-2.json](./367915-naughty-girl-2.json) |
 | Naughty Kittens | 368765 | [368765-naughty-kittens.json](./368765-naughty-kittens.json) |
 | Naughty Kitties | 19593 | [19593-naughty-kitties.json](./19593-naughty-kitties.json) |
@@ -2967,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevermind This | 244123 | [244123-nevermind-this.json](./244123-nevermind-this.json) |
 | Nevermore | 115564 | [115564-nevermore.json](./115564-nevermore.json) |
 | NeverMore | 143460 | [143460-nevermore.json](./143460-nevermore.json) |
+| Nevermore 2 | 382121 | [382121-nevermore-2.json](./382121-nevermore-2.json) |
 | Nevermore 3 | 328005 | [328005-nevermore-3.json](./328005-nevermore-3.json) |
 | Nevermore VIII-XIII | 119498 | [119498-nevermore-viii-xiii.json](./119498-nevermore-viii-xiii.json) |
 | Nevermore: Documentary Kinetic Novel | 206511 | [206511-nevermore-documentary-kinetic-novel.json](./206511-nevermore-documentary-kinetic-novel.json) |
@@ -3712,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL Open Ice | 209404 | [209404-nhl-open-ice.json](./209404-nhl-open-ice.json) |
 | NHL Powerplay '96 | 45122 | [45122-nhl-powerplay-96.json](./45122-nhl-powerplay-96.json) |
 | NHL Powerplay '98 | 43761 | [43761-nhl-powerplay-98.json](./43761-nhl-powerplay-98.json) |
+| NHL Puck Rush | 382113 | [382113-nhl-puck-rush.json](./382113-nhl-puck-rush.json) |
 | NHL Rivals 2004 | 45126 | [45126-nhl-rivals-2004.json](./45126-nhl-rivals-2004.json) |
 | NHL Rock the Rink | 44843 | [44843-nhl-rock-the-rink.json](./44843-nhl-rock-the-rink.json) |
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
