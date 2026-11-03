@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Me Home | 181890 | [181890-take-me-home.json](./181890-take-me-home.json) |
 | Take Me Home | 362292 | [362292-take-me-home.json](./362292-take-me-home.json) |
 | Take Me To The Dungeon!! | 403711 | [403711-take-me-to-the-dungeon.json](./403711-take-me-to-the-dungeon.json) |
+| Take Me to the Ending! | 398750 | [398750-take-me-to-the-ending.json](./398750-take-me-to-the-ending.json) |
 | Take Me to the Moon | 187294 | [187294-take-me-to-the-moon.json](./187294-take-me-to-the-moon.json) |
 | Take Me to Your Leader | 414870 | [414870-take-me-to-your-leader.json](./414870-take-me-to-your-leader.json) |
 | Take me, Vitaly: Sea Wolf | 394501 | [394501-take-me-vitaly-sea-wolf.json](./394501-take-me-vitaly-sea-wolf.json) |
@@ -17460,6 +17461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Valley | 94585 | [94585-the-valley.json](./94585-the-valley.json) |
 | The Valley Beyond | 373132 | [373132-the-valley-beyond.json](./373132-the-valley-beyond.json) |
 | The Valley In My Mind | 76353 | [76353-the-valley-in-my-mind.json](./76353-the-valley-in-my-mind.json) |
+| The Valley of Dawn | 398787 | [398787-the-valley-of-dawn.json](./398787-the-valley-of-dawn.json) |
 | The Valley of Super Flowers | 131821 | [131821-the-valley-of-super-flowers.json](./131821-the-valley-of-super-flowers.json) |
 | The Valley of the Architects | 282039 | [282039-the-valley-of-the-architects.json](./282039-the-valley-of-the-architects.json) |
 | The Vamp | 254552 | [254552-the-vamp.json](./254552-the-vamp.json) |
@@ -19020,6 +19022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Is Not a Game About Catching Monsters | 181735 | [181735-this-is-not-a-game-about-catching-monsters.json](./181735-this-is-not-a-game-about-catching-monsters.json) |
 | This Is Not A Jumping Game | 76326 | [76326-this-is-not-a-jumping-game.json](./76326-this-is-not-a-jumping-game.json) |
 | This Is Not A Love Letter | 339951 | [339951-this-is-not-a-love-letter.json](./339951-this-is-not-a-love-letter.json) |
+| This Is Not an Escape | 398744 | [398744-this-is-not-an-escape.json](./398744-this-is-not-an-escape.json) |
 | This Is Not Chess | 151514 | [151514-this-is-not-chess.json](./151514-this-is-not-chess.json) |
 | This Is Not For You | 417522 | [417522-this-is-not-for-you.json](./417522-this-is-not-for-you.json) |
 | This is not RPG | 43156 | [43156-this-is-not-rpg.json](./43156-this-is-not-rpg.json) |
@@ -19828,6 +19831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tideborne Haven | 402429 | [402429-tideborne-haven.json](./402429-tideborne-haven.json) |
 | Tidebound | 282041 | [282041-tidebound.json](./282041-tidebound.json) |
 | Tidebreaker | 373568 | [373568-tidebreaker.json](./373568-tidebreaker.json) |
+| TideBroker | 398776 | [398776-tidebroker.json](./398776-tidebroker.json) |
 | Tideheart | 420221 | [420221-tideheart.json](./420221-tideheart.json) |
 | Tidepool | 407503 | [407503-tidepool.json](./407503-tidepool.json) |
 | Tides Odyssey | 315777 | [315777-tides-odyssey.json](./315777-tides-odyssey.json) |
@@ -29545,10 +29549,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troll & Armor | 91856 | [91856-troll-and-armor.json](./91856-troll-and-armor.json) |
 | Troll Control | 125146 | [125146-troll-control.json](./125146-troll-control.json) |
 | Troll Face Clicker Quest | 105860 | [105860-troll-face-clicker-quest.json](./105860-troll-face-clicker-quest.json) |
+| Troll Face Quest Classic | 398752 | [398752-troll-face-quest-classic.json](./398752-troll-face-quest-classic.json) |
 | Troll Face Quest Horror | 351627 | [351627-troll-face-quest-horror.json](./351627-troll-face-quest-horror.json) |
 | Troll Face Quest Video Games 2 | 89622 | [89622-troll-face-quest-video-games-2.json](./89622-troll-face-quest-video-games-2.json) |
 | Troll Face Quest Video Memes | 90890 | [90890-troll-face-quest-video-memes.json](./90890-troll-face-quest-video-memes.json) |
 | Troll Face Quest: Game of Trolls | 306703 | [306703-troll-face-quest-game-of-trolls.json](./306703-troll-face-quest-game-of-trolls.json) |
+| Troll Face Quest: TV Shows | 398757 | [398757-troll-face-quest-tv-shows.json](./398757-troll-face-quest-tv-shows.json) |
 | Troll Hunter VR | 150916 | [150916-troll-hunter-vr.json](./150916-troll-hunter-vr.json) |
 | Troll Quest | 145930 | [145930-troll-quest.json](./145930-troll-quest.json) |
 | Troll-A-Mania | 217701 | [217701-troll-a-mania.json](./217701-troll-a-mania.json) |
@@ -31296,6 +31302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twistcan | 333467 | [333467-twistcan.json](./333467-twistcan.json) |
 | Twisted | 30260 | [30260-twisted.json](./30260-twisted.json) |
 | Twisted Arrow | 32285 | [32285-twisted-arrow.json](./32285-twisted-arrow.json) |
+| Twisted Chance Online | 398792 | [398792-twisted-chance-online.json](./398792-twisted-chance-online.json) |
 | Twisted Christmas Jam 2022 | 271049 | [271049-twisted-christmas-jam-2022.json](./271049-twisted-christmas-jam-2022.json) |
 | Twisted Citadel | 182526 | [182526-twisted-citadel.json](./182526-twisted-citadel.json) |
 | Twisted Detective | 301488 | [301488-twisted-detective.json](./301488-twisted-detective.json) |
