@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Shadow | 36331 | [36331-neon-shadow.json](./36331-neon-shadow.json) |
 | Neon Ships: The Type'em Up Shooter | 143707 | [143707-neon-ships-the-typeem-up-shooter.json](./143707-neon-ships-the-typeem-up-shooter.json) |
 | Neon Shooter | 158651 | [158651-neon-shooter.json](./158651-neon-shooter.json) |
+| Neon Shot | 363124 | [363124-neon-shot.json](./363124-neon-shot.json) |
 | Neon Slashers | 119487 | [119487-neon-slashers.json](./119487-neon-slashers.json) |
 | Neon Sling | 242457 | [242457-neon-sling.json](./242457-neon-sling.json) |
 | Neon Snake | 161694 | [161694-neon-snake.json](./161694-neon-snake.json) |
@@ -2782,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetStars: VR Goalie Trainer | 93679 | [93679-netstars-vr-goalie-trainer.json](./93679-netstars-vr-goalie-trainer.json) |
 | NetStorm: Islands At War | 1358 | [1358-netstorm-islands-at-war.json](./1358-netstorm-islands-at-war.json) |
 | Netsu Chu! Pro Yakyuu 2002 | 403523 | [403523-netsu-chu-pro-yakyuu-2002.json](./403523-netsu-chu-pro-yakyuu-2002.json) |
+| Nettle Slasher | 363139 | [363139-nettle-slasher.json](./363139-nettle-slasher.json) |
 | Netto de Para | 267584 | [267584-netto-de-para.json](./267584-netto-de-para.json) |
 | Netto de Tennis | 58169 | [58169-netto-de-tennis.json](./58169-netto-de-tennis.json) |
 | Nettou Garou Densetsu 2: Aratanaru Tatakai | 49114 | [49114-nettou-garou-densetsu-2-aratanaru-tatakai.json](./49114-nettou-garou-densetsu-2-aratanaru-tatakai.json) |
@@ -5971,6 +5973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturne | 80411 | [80411-nocturne.json](./80411-nocturne.json) |
 | Nocturne 191 | 186712 | [186712-nocturne-191.json](./186712-nocturne-191.json) |
 | Nocturne for Cyl-Hestia | 390813 | [390813-nocturne-for-cyl-hestia.json](./390813-nocturne-for-cyl-hestia.json) |
+| Nocturne FX | 363126 | [363126-nocturne-fx.json](./363126-nocturne-fx.json) |
 | Nocturne in Yellow | 141870 | [141870-nocturne-in-yellow.json](./141870-nocturne-in-yellow.json) |
 | Nocturne Maze: Shadows in the Hedge | 374079 | [374079-nocturne-maze-shadows-in-the-hedge.json](./374079-nocturne-maze-shadows-in-the-hedge.json) |
 | Nocturne of Steel | 107893 | [107893-nocturne-of-steel.json](./107893-nocturne-of-steel.json) |
