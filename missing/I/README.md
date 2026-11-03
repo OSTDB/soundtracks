@@ -2660,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Her Eyes | 130131 | [130131-in-her-eyes.json](./130131-in-her-eyes.json) |
 | In Her Footsteps | 134910 | [134910-in-her-footsteps.json](./134910-in-her-footsteps.json) |
 | In Her Head | 276846 | [276846-in-her-head.json](./276846-in-her-head.json) |
+| In Her Image | 390859 | [390859-in-her-image.json](./390859-in-her-image.json) |
 | In Hindsight | 179503 | [179503-in-hindsight.json](./179503-in-hindsight.json) |
 | In His Time | 246817 | [246817-in-his-time.json](./246817-in-his-time.json) |
 | In Hope Voiden | 350022 | [350022-in-hope-voiden.json](./350022-in-hope-voiden.json) |
