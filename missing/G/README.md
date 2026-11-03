@@ -4370,6 +4370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Frantic Clan | 263606 | [263606-girls-frantic-clan.json](./263606-girls-frantic-clan.json) |
 | Girls Free | 127940 | [127940-girls-free.json](./127940-girls-free.json) |
 | Girls Girls Girls VR (create + pose in vr) | 103809 | [103809-girls-girls-girls-vr-create-pose-in-vr.json](./103809-girls-girls-girls-vr-create-pose-in-vr.json) |
+| Girls Go Fashion Party | 358589 | [358589-girls-go-fashion-party.json](./358589-girls-go-fashion-party.json) |
 | Girls Gym | 237483 | [237483-girls-gym.json](./237483-girls-gym.json) |
 | Girls Hair Salon | 88026 | [88026-girls-hair-salon.json](./88026-girls-hair-salon.json) |
 | Girls Hobby in Love | 278922 | [278922-girls-hobby-in-love.json](./278922-girls-hobby-in-love.json) |
