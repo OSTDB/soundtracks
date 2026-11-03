@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards Infinity | 187836 | [187836-cards-infinity.json](./187836-cards-infinity.json) |
 | Cards Lie | 390487 | [390487-cards-lie.json](./390487-cards-lie.json) |
 | Cards Matching Memory Game | 172941 | [172941-cards-matching-memory-game.json](./172941-cards-matching-memory-game.json) |
+| Cards Mod Prime | 363645 | [363645-cards-mod-prime.json](./363645-cards-mod-prime.json) |
 | Cards n' Varmints | 349750 | [349750-cards-n-varmints.json](./349750-cards-n-varmints.json) |
 | Cards of Action | 400971 | [400971-cards-of-action.json](./400971-cards-of-action.json) |
 | Cards of Binokee | 207351 | [207351-cards-of-binokee.json](./207351-cards-of-binokee.json) |
@@ -17868,6 +17869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystals of Carus | 13834 | [13834-crystals-of-carus.json](./13834-crystals-of-carus.json) |
 | Crystals of Irm | 177742 | [177742-crystals-of-irm.json](./177742-crystals-of-irm.json) |
 | Crystals of Niberium | 76361 | [76361-crystals-of-niberium.json](./76361-crystals-of-niberium.json) |
+| Crystals of Power | 363638 | [363638-crystals-of-power.json](./363638-crystals-of-power.json) |
 | Crystalux: New Discovery | 57406 | [57406-crystalux-new-discovery.json](./57406-crystalux-new-discovery.json) |
 | Crystalverse | 25796 | [25796-crystalverse.json](./25796-crystalverse.json) |
 | Crystalyn | 406900 | [406900-crystalyn.json](./406900-crystalyn.json) |
