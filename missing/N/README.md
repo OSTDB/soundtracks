@@ -6407,6 +6407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | North Atlantic '86 | 23999 | [23999-north-atlantic-86.json](./23999-north-atlantic-86.json) |
 | North Atlantic Convoy Raider | 23997 | [23997-north-atlantic-convoy-raider.json](./23997-north-atlantic-convoy-raider.json) |
 | North Depths | 367459 | [367459-north-depths.json](./367459-north-depths.json) |
+| North Hunt | 378130 | [378130-north-hunt.json](./378130-north-hunt.json) |
 | North Modding Company: Bergsbruk | 143689 | [143689-north-modding-company-bergsbruk.json](./143689-north-modding-company-bergsbruk.json) |
 | North of Iraq Part 1 | 128318 | [128318-north-of-iraq-part-1.json](./128318-north-of-iraq-part-1.json) |
 | North of Nowhere | 216970 | [216970-north-of-nowhere.json](./216970-north-of-nowhere.json) |
