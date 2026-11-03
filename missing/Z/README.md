@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zagan Must Be Rescued | 163907 | [163907-zagan-must-be-rescued.json](./163907-zagan-must-be-rescued.json) |
 | Zagerrrr | 176366 | [176366-zagerrrr.json](./176366-zagerrrr.json) |
 | Zaggy Car | 308299 | [308299-zaggy-car.json](./308299-zaggy-car.json) |
+| Zags: The Role We Play | 358617 | [358617-zags-the-role-we-play.json](./358617-zags-the-role-we-play.json) |
 | ZagZag | 369904 | [369904-zagzag.json](./369904-zagzag.json) |
 | Zahak | 287676 | [287676-zahak.json](./287676-zahak.json) |
 | Zahalia | 86481 | [86481-zahalia.json](./86481-zahalia.json) |
