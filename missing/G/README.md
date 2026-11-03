@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gearcrack Arena | 8924 | [8924-gearcrack-arena.json](./8924-gearcrack-arena.json) |
 | Geared 2! | 92145 | [92145-geared-2.json](./92145-geared-2.json) |
 | Gearend | 29963 | [29963-gearend.json](./29963-gearend.json) |
+| Geargrid Tile Match | 363639 | [363639-geargrid-tile-match.json](./363639-geargrid-tile-match.json) |
 | GearGrit | 292410 | [292410-geargrit.json](./292410-geargrit.json) |
 | Gearguns: Tank Offensive | 31375 | [31375-gearguns-tank-offensive.json](./31375-gearguns-tank-offensive.json) |
 | GearHead 2 | 183288 | [183288-gearhead-2.json](./183288-gearhead-2.json) |
@@ -4905,6 +4906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloria Union: Twin Fates in Blue Ocean | 66057 | [66057-gloria-union-twin-fates-in-blue-ocean.json](./66057-gloria-union-twin-fates-in-blue-ocean.json) |
 | Gloria Victis: Merchant Pack | 405949 | [405949-gloria-victis-merchant-pack.json](./405949-gloria-victis-merchant-pack.json) |
 | Gloria: Kindan no Ketsuzoku | 94940 | [94940-gloria-kindan-no-ketsuzoku.json](./94940-gloria-kindan-no-ketsuzoku.json) |
+| Gloria's House | 363648 | [363648-glorias-house.json](./363648-glorias-house.json) |
 | Gloriana | 169888 | [169888-gloriana.json](./169888-gloriana.json) |
 | Glorious | 169851 | [169851-glorious.json](./169851-glorious.json) |
 | Glorious Cocktails | 394218 | [394218-glorious-cocktails.json](./394218-glorious-cocktails.json) |
@@ -8587,6 +8589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greenman | 276804 | [276804-greenman.json](./276804-greenman.json) |
 | Greenrise | 416836 | [416836-greenrise.json](./416836-greenrise.json) |
 | greenTech+ | 54058 | [54058-greentech.json](./54058-greentech.json) |
+| Greenveil Hike | 363655 | [363655-greenveil-hike.json](./363655-greenveil-hike.json) |
 | GreenWood Defense | 309858 | [309858-greenwood-defense.json](./309858-greenwood-defense.json) |
 | Greenwood Falls | 285545 | [285545-greenwood-falls.json](./285545-greenwood-falls.json) |
 | Greenwood the Last Ritual | 31109 | [31109-greenwood-the-last-ritual.json](./31109-greenwood-the-last-ritual.json) |
@@ -10277,6 +10280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Runner | 319122 | [319122-gun-runner.json](./319122-gun-runner.json) |
 | Gun Runner | 81287 | [81287-gun-runner.json](./81287-gun-runner.json) |
 | Gun Runners | 301081 | [301081-gun-runners.json](./301081-gun-runners.json) |
+| Gun Shooting Range Aim Master | 363657 | [363657-gun-shooting-range-aim-master.json](./363657-gun-shooting-range-aim-master.json) |
 | Gun Shop 3 | 301245 | [301245-gun-shop-3.json](./301245-gun-shop-3.json) |
 | Gun Shop Dealer Simulator | 325000 | [325000-gun-shop-dealer-simulator.json](./325000-gun-shop-dealer-simulator.json) |
 | Gun Shop Manager | 349095 | [349095-gun-shop-manager.json](./349095-gun-shop-manager.json) |
