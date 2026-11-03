@@ -3266,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: Mega City Tailor Pack | 225171 | [225171-payday-2-mega-city-tailor-pack.json](./225171-payday-2-mega-city-tailor-pack.json) |
 | Payday 2: Midland Ranch Heist | 240963 | [240963-payday-2-midland-ranch-heist.json](./240963-payday-2-midland-ranch-heist.json) |
 | Payday 2: Mountain Master Heist | 196150 | [196150-payday-2-mountain-master-heist.json](./196150-payday-2-mountain-master-heist.json) |
+| Payday 2: Restoration Mod | 395083 | [395083-payday-2-restoration-mod.json](./395083-payday-2-restoration-mod.json) |
 | Payday 2: San Martin Bank Heist | 167690 | [167690-payday-2-san-martin-bank-heist.json](./167690-payday-2-san-martin-bank-heist.json) |
 | Payday 2: Scarface Heist | 167698 | [167698-payday-2-scarface-heist.json](./167698-payday-2-scarface-heist.json) |
 | Payday 2: Silk Road Collection | 252882 | [252882-payday-2-silk-road-collection.json](./252882-payday-2-silk-road-collection.json) |
@@ -14986,6 +14987,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hovercraft | 32181 | [32181-project-hovercraft.json](./32181-project-hovercraft.json) |
 | Project Hoyrá | 253403 | [253403-project-hoyra.json](./253403-project-hoyra.json) |
 | Project Hunt | 253516 | [253516-project-hunt.json](./253516-project-hunt.json) |
+| Project Hunt: HTR .338 Big Game Access Pack | 395085 | [395085-project-hunt-htr-338-big-game-access-pack.json](./395085-project-hunt-htr-338-big-game-access-pack.json) |
+| Project Hunt: Lone Star Hunting Ranch | 395084 | [395084-project-hunt-lone-star-hunting-ranch.json](./395084-project-hunt-lone-star-hunting-ranch.json) |
+| Project Hunt: Trophy Sanctuary | 395086 | [395086-project-hunt-trophy-sanctuary.json](./395086-project-hunt-trophy-sanctuary.json) |
 | Project Hybrid | 269223 | [269223-project-hybrid.json](./269223-project-hybrid.json) |
 | Project Hypnagogia | 250405 | [250405-project-hypnagogia.json](./250405-project-hypnagogia.json) |
 | Project Hyrax: Beyond Time | 197728 | [197728-project-hyrax-beyond-time.json](./197728-project-hyrax-beyond-time.json) |
