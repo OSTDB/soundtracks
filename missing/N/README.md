@@ -2711,6 +2711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netabare ga Hageshisugiru RPG: Saigo no Teki no Shoutai ha Yuusha no Chichi | 335671 | [335671-netabare-ga-hageshisugiru-rpg-saigo-no-teki-no-shoutai-ha-yuusha-no-chichi.json](./335671-netabare-ga-hageshisugiru-rpg-saigo-no-teki-no-shoutai-ha-yuusha-no-chichi.json) |
 | NetaJump | 211058 | [211058-netajump.json](./211058-netajump.json) |
 | Netannad | 254568 | [254568-netannad.json](./254568-netannad.json) |
+| Netbit: Mystery Dungeon | 386066 | [386066-netbit-mystery-dungeon.json](./386066-netbit-mystery-dungeon.json) |
 | Netcode The Protogen | 356706 | [356706-netcode-the-protogen.json](./356706-netcode-the-protogen.json) |
 | Netcode Warriors | 290611 | [290611-netcode-warriors.json](./290611-netcode-warriors.json) |
 | Netcorter: City 2179 | 217385 | [217385-netcorter-city-2179.json](./217385-netcorter-city-2179.json) |
@@ -4158,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Raid | 43697 | [43697-night-raid.json](./43697-night-raid.json) |
 | Night Raid | 80867 | [80867-night-raid.json](./80867-night-raid.json) |
 | Night Raider | 279474 | [279474-night-raider.json](./279474-night-raider.json) |
+| Night Rampage | 386305 | [386305-night-rampage.json](./386305-night-rampage.json) |
 | Night Ranger | 388213 | [388213-night-ranger.json](./388213-night-ranger.json) |
 | Night Record: Thin Walls | 405696 | [405696-night-record-thin-walls.json](./405696-night-record-thin-walls.json) |
 | Night Reverie | 139598 | [139598-night-reverie.json](./139598-night-reverie.json) |
@@ -7172,6 +7174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Tower | 341490 | [341490-number-tower.json](./341490-number-tower.json) |
 | Number Two Ice Cream Shop! | 183784 | [183784-number-two-ice-cream-shop.json](./183784-number-two-ice-cream-shop.json) |
 | Number Wars | 193474 | [193474-number-wars.json](./193474-number-wars.json) |
+| Number Way | 386078 | [386078-number-way.json](./386078-number-way.json) |
 | Number World | 63735 | [63735-number-world.json](./63735-number-world.json) |
 | Number's Addict | 94187 | [94187-numbers-addict.json](./94187-numbers-addict.json) |
 | Number8 | 246794 | [246794-number8.json](./246794-number8.json) |
