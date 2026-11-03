@@ -7203,6 +7203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exile III: Ruined World | 19578 | [19578-exile-iii-ruined-world.json](./19578-exile-iii-ruined-world.json) |
 | Exile of the Gods | 120507 | [120507-exile-of-the-gods.json](./120507-exile-of-the-gods.json) |
 | Exile Online | 27669 | [27669-exile-online.json](./27669-exile-online.json) |
+| Exile Protocol | 373481 | [373481-exile-protocol.json](./373481-exile-protocol.json) |
 | Exile Squadron | 123849 | [123849-exile-squadron.json](./123849-exile-squadron.json) |
 | Exile to Death | 32869 | [32869-exile-to-death.json](./32869-exile-to-death.json) |
 | Exile: Avengers Fire | 220283 | [220283-exile-avengers-fire.json](./220283-exile-avengers-fire.json) |
