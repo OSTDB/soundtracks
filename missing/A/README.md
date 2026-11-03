@@ -4885,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aibeya: Premium Limited Edition | 166265 | [166265-aibeya-premium-limited-edition.json](./166265-aibeya-premium-limited-edition.json) |
 | Aibou DS | 269543 | [269543-aibou-ds.json](./269543-aibou-ds.json) |
 | AiCaterine | 259248 | [259248-aicaterine.json](./259248-aicaterine.json) |
+| Aice | 369793 | [369793-aice.json](./369793-aice.json) |
 | Aichi Emperors Zero | 176672 | [176672-aichi-emperors-zero.json](./176672-aichi-emperors-zero.json) |
 | Aicomi | 396955 | [396955-aicomi.json](./396955-aicomi.json) |
 | Aida: The Beginning of the Story | 139623 | [139623-aida-the-beginning-of-the-story.json](./139623-aida-the-beginning-of-the-story.json) |
@@ -8719,6 +8720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancestors Legacy: Special Edition | 124820 | [124820-ancestors-legacy-special-edition.json](./124820-ancestors-legacy-special-edition.json) |
 | Ancestory | 13193 | [13193-ancestory.json](./13193-ancestory.json) |
 | Ancestral | 318397 | [318397-ancestral.json](./318397-ancestral.json) |
+| Ancestral Harvest | 369825 | [369825-ancestral-harvest.json](./369825-ancestral-harvest.json) |
 | Ancestral Hunter | 294026 | [294026-ancestral-hunter.json](./294026-ancestral-hunter.json) |
 | Ancestral Players | 291312 | [291312-ancestral-players.json](./291312-ancestral-players.json) |
 | Anchor | 375444 | [375444-anchor.json](./375444-anchor.json) |
@@ -9120,6 +9122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angélica no Reino Animal | 292093 | [292093-angelica-no-reino-animal.json](./292093-angelica-no-reino-animal.json) |
 | Angelica Weaver: Catch Me When You Can | 9975 | [9975-angelica-weaver-catch-me-when-you-can.json](./9975-angelica-weaver-catch-me-when-you-can.json) |
 | Angelica Weaver: Catch Me When You Can - Collector's Edition | 30149 | [30149-angelica-weaver-catch-me-when-you-can-collectors-edition.json](./30149-angelica-weaver-catch-me-when-you-can-collectors-edition.json) |
+| Angelica's Chaotic Hardcore School | 369796 | [369796-angelicas-chaotic-hardcore-school.json](./369796-angelicas-chaotic-hardcore-school.json) |
 | Angeline Era | 252768 | [252768-angeline-era.json](./252768-angeline-era.json) |
 | Angelique Duet | 272090 | [272090-angelique-duet.json](./272090-angelique-duet.json) |
 | Angelique Duet | 45437 | [45437-angelique-duet.json](./45437-angelique-duet.json) |
@@ -16399,6 +16402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aura Kingdom: Impact | 353913 | [353913-aura-kingdom-impact.json](./353913-aura-kingdom-impact.json) |
 | Aura of Worlds | 55866 | [55866-aura-of-worlds.json](./55866-aura-of-worlds.json) |
 | Aura Shift | 121379 | [121379-aura-shift.json](./121379-aura-shift.json) |
+| Aura: Echoes of Pain | 369833 | [369833-aura-echoes-of-pain.json](./369833-aura-echoes-of-pain.json) |
 | Aura: Fate of the Ages | 9776 | [9776-aura-fate-of-the-ages.json](./9776-aura-fate-of-the-ages.json) |
 | Aura: Hentai Cards | 254012 | [254012-aura-hentai-cards.json](./254012-aura-hentai-cards.json) |
 | Aura: Hentai Cards - Horny Madness | 301641 | [301641-aura-hentai-cards-horny-madness.json](./301641-aura-hentai-cards-horny-madness.json) |
