@@ -11691,6 +11691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don Memo | 388704 | [388704-don-memo.json](./388704-don-memo.json) |
 | Don Orlo's Magazine: Issue #1 | 252545 | [252545-don-orlos-magazine-issue-1.json](./252545-don-orlos-magazine-issue-1.json) |
 | Don Pan | 55860 | [55860-don-pan.json](./55860-don-pan.json) |
+| Don Pepe & His Balloons | 381534 | [381534-don-pepe-and-his-balloons.json](./381534-don-pepe-and-his-balloons.json) |
 | Don Quijote | 51440 | [51440-don-quijote.json](./51440-don-quijote.json) |
 | Don Quixote: A Dream in Seven Crystals | 273124 | [273124-don-quixote-a-dream-in-seven-crystals.json](./273124-don-quixote-a-dream-in-seven-crystals.json) |
 | Don-Chan Puzzle: Hanabi de Don | 309598 | [309598-don-chan-puzzle-hanabi-de-don.json](./309598-don-chan-puzzle-hanabi-de-don.json) |
