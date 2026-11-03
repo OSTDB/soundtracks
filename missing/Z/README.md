@@ -1724,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Scream | 202491 | [202491-zombie-scream.json](./202491-zombie-scream.json) |
 | Zombie Season | 123547 | [123547-zombie-season.json](./123547-zombie-season.json) |
 | Zombie Serial Killer Incident | 99594 | [99594-zombie-serial-killer-incident.json](./99594-zombie-serial-killer-incident.json) |
+| Zombie Ship | 368171 | [368171-zombie-ship.json](./368171-zombie-ship.json) |
 | Zombie Shooter | 16017 | [16017-zombie-shooter.json](./16017-zombie-shooter.json) |
 | Zombie Shooter - Dead City | 200325 | [200325-zombie-shooter-dead-city.json](./200325-zombie-shooter-dead-city.json) |
 | Zombie Shooter 2 | 16018 | [16018-zombie-shooter-2.json](./16018-zombie-shooter-2.json) |
