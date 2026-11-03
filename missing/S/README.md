@@ -30378,6 +30378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 3Mix | 144986 | [144986-super-mario-bros-3mix.json](./144986-super-mario-bros-3mix.json) |
 | Super Mario Bros. 5 | 318552 | [318552-super-mario-bros-5.json](./318552-super-mario-bros-5.json) |
 | Super Mario Bros. 5: Reborn | 223847 | [223847-super-mario-bros-5-reborn.json](./223847-super-mario-bros-5-reborn.json) |
+| Super Mario Bros. 6 | 355428 | [355428-super-mario-bros-6.json](./355428-super-mario-bros-6.json) |
 | Super Mario Bros. 64 | 135232 | [135232-super-mario-bros-64.json](./135232-super-mario-bros-64.json) |
 | Super Mario Bros. 64 | 150101 | [150101-super-mario-bros-64.json](./150101-super-mario-bros-64.json) |
 | Super Mario Bros. All-Star Quest | 135132 | [135132-super-mario-bros-all-star-quest.json](./135132-super-mario-bros-all-star-quest.json) |
