@@ -5656,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Mansion | 185364 | [185364-chaos-mansion.json](./185364-chaos-mansion.json) |
 | Chaos Mecha | 208084 | [208084-chaos-mecha.json](./208084-chaos-mecha.json) |
 | Chaos Metaverse | 267658 | [267658-chaos-metaverse.json](./267658-chaos-metaverse.json) |
+| Chaos Method | 378750 | [378750-chaos-method.json](./378750-chaos-method.json) |
 | Chaos of East | 101353 | [101353-chaos-of-east.json](./101353-chaos-of-east.json) |
 | Chaos of Fallen City | 159864 | [159864-chaos-of-fallen-city.json](./159864-chaos-of-fallen-city.json) |
 | Chaos of Hearts | 31636 | [31636-chaos-of-hearts.json](./31636-chaos-of-hearts.json) |
@@ -10891,6 +10892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coincremental | 358992 | [358992-coincremental.json](./358992-coincremental.json) |
 | Coindice Simulator | 326447 | [326447-coindice-simulator.json](./326447-coindice-simulator.json) |
 | Coindle | 376642 | [376642-coindle.json](./376642-coindle.json) |
+| Coinfields | 378751 | [378751-coinfields.json](./378751-coinfields.json) |
 | Coinflate!! | 345135 | [345135-coinflate.json](./345135-coinflate.json) |
 | CoinForge | 338874 | [338874-coinforge.json](./338874-coinforge.json) |
 | CoinLife | 133824 | [133824-coinlife.json](./133824-coinlife.json) |
@@ -11924,6 +11926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission: Shock Force - NATO | 80130 | [80130-combat-mission-shock-force-nato.json](./80130-combat-mission-shock-force-nato.json) |
 | Combat Monsters | 24543 | [24543-combat-monsters.json](./24543-combat-monsters.json) |
 | Combat Online 2 | 414219 | [414219-combat-online-2.json](./414219-combat-online-2.json) |
+| Combat Ops: Arena | 378952 | [378952-combat-ops-arena.json](./378952-combat-ops-arena.json) |
 | Combat Pilot: Carrier Qualification | 392211 | [392211-combat-pilot-carrier-qualification.json](./392211-combat-pilot-carrier-qualification.json) |
 | Combat Queen | 74801 | [74801-combat-queen.json](./74801-combat-queen.json) |
 | Combat Raccoon | 54857 | [54857-combat-raccoon.json](./54857-combat-raccoon.json) |
@@ -14961,6 +14964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Island | 334286 | [334286-cozy-island.json](./334286-cozy-island.json) |
 | Cozy Island Idle | 272775 | [272775-cozy-island-idle.json](./272775-cozy-island-idle.json) |
 | Cozy Islands | 208194 | [208194-cozy-islands.json](./208194-cozy-islands.json) |
+| Cozy Jigsaw Puzzles | 378752 | [378752-cozy-jigsaw-puzzles.json](./378752-cozy-jigsaw-puzzles.json) |
 | Cozy Keep: Farm, Craft, Manage | 271208 | [271208-cozy-keep-farm-craft-manage.json](./271208-cozy-keep-farm-craft-manage.json) |
 | Cozy Kingdom | 362198 | [362198-cozy-kingdom.json](./362198-cozy-kingdom.json) |
 | Cozy Land | 335183 | [335183-cozy-land.json](./335183-cozy-land.json) |
