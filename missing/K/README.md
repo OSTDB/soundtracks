@@ -5215,8 +5215,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Gapyeong-gun | 342421 | [342421-korean-drone-flying-tour-gapyeong-gun.json](./342421-korean-drone-flying-tour-gapyeong-gun.json) |
 | Korean Drone Flying Tour Geomdansan | 336426 | [336426-korean-drone-flying-tour-geomdansan.json](./336426-korean-drone-flying-tour-geomdansan.json) |
 | Korean Drone Flying Tour Geumsan-gun | 376222 | [376222-korean-drone-flying-tour-geumsan-gun.json](./376222-korean-drone-flying-tour-geumsan-gun.json) |
+| Korean Drone Flying Tour Gwangju-si | 349588 | [349588-korean-drone-flying-tour-gwangju-si.json](./349588-korean-drone-flying-tour-gwangju-si.json) |
 | Korean Drone Flying Tour Hanam-City | 336427 | [336427-korean-drone-flying-tour-hanam-city.json](./336427-korean-drone-flying-tour-hanam-city.json) |
 | Korean Drone Flying Tour Hangang Park | 351220 | [351220-korean-drone-flying-tour-hangang-park.json](./351220-korean-drone-flying-tour-hangang-park.json) |
+| Korean Drone Flying Tour Icheon-si | 349587 | [349587-korean-drone-flying-tour-icheon-si.json](./349587-korean-drone-flying-tour-icheon-si.json) |
 | Korean Drone Flying Tour Ilsan Lake Park | 342420 | [342420-korean-drone-flying-tour-ilsan-lake-park.json](./342420-korean-drone-flying-tour-ilsan-lake-park.json) |
 | Korean Drone Flying Tour Jeju Island-1 | 314872 | [314872-korean-drone-flying-tour-jeju-island-1.json](./314872-korean-drone-flying-tour-jeju-island-1.json) |
 | Korean Drone Flying Tour Jeju Island-2 | 317226 | [317226-korean-drone-flying-tour-jeju-island-2.json](./317226-korean-drone-flying-tour-jeju-island-2.json) |
@@ -5236,6 +5238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Wanju-gun | 386193 | [386193-korean-drone-flying-tour-wanju-gun.json](./386193-korean-drone-flying-tour-wanju-gun.json) |
 | Korean Drone Flying Tour Wonsan-do | 362179 | [362179-korean-drone-flying-tour-wonsan-do.json](./362179-korean-drone-flying-tour-wonsan-do.json) |
 | Korean Drone Flying Tour Woryeongsan | 376223 | [376223-korean-drone-flying-tour-woryeongsan.json](./376223-korean-drone-flying-tour-woryeongsan.json) |
+| Korean Drone Flying Tour Yangpyeong-gun | 349586 | [349586-korean-drone-flying-tour-yangpyeong-gun.json](./349586-korean-drone-flying-tour-yangpyeong-gun.json) |
 | Korean Drone Flying Tour Yumyeongsan | 342418 | [342418-korean-drone-flying-tour-yumyeongsan.json](./342418-korean-drone-flying-tour-yumyeongsan.json) |
 | Korean Flower Name Game | 231988 | [231988-korean-flower-name-game.json](./231988-korean-flower-name-game.json) |
 | Korean Monorail Panorama Line Hwagaesan | 378809 | [378809-korean-monorail-panorama-line-hwagaesan.json](./378809-korean-monorail-panorama-line-hwagaesan.json) |
