@@ -7435,6 +7435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Sim 18 | 106904 | [106904-flight-sim-18.json](./106904-flight-sim-18.json) |
 | Flight Sim 2018 | 106900 | [106900-flight-sim-2018.json](./106900-flight-sim-2018.json) |
 | Flight Sim 2019 | 147704 | [147704-flight-sim-2019.json](./147704-flight-sim-2019.json) |
+| Flight Sim 2025 | 364802 | [364802-flight-sim-2025.json](./364802-flight-sim-2025.json) |
 | Flight Sim Toolkit | 79065 | [79065-flight-sim-toolkit.json](./79065-flight-sim-toolkit.json) |
 | Flight Sim World | 28453 | [28453-flight-sim-world.json](./28453-flight-sim-world.json) |
 | Flight Sims Air Cavalry Pilots | 175336 | [175336-flight-sims-air-cavalry-pilots.json](./175336-flight-sims-air-cavalry-pilots.json) |
@@ -11250,6 +11251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | French Meat | 143290 | [143290-french-meat.json](./143290-french-meat.json) |
 | French Tarot | 100488 | [100488-french-tarot.json](./100488-french-tarot.json) |
 | French with Rayman | 193346 | [193346-french-with-rayman.json](./193346-french-with-rayman.json) |
+| FrenchConnection | 364774 | [364774-frenchconnection.json](./364774-frenchconnection.json) |
 | Frenesis | 47146 | [47146-frenesis.json](./47146-frenesis.json) |
 | Frenetic | 15226 | [15226-frenetic.json](./15226-frenetic.json) |
 | Frenetika | 372083 | [372083-frenetika.json](./372083-frenetika.json) |
@@ -11929,6 +11931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FromTheEarth VR | 122172 | [122172-fromtheearth-vr.json](./122172-fromtheearth-vr.json) |
 | Frond Online | 307348 | [307348-frond-online.json](./307348-frond-online.json) |
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
+| Front Frontiers | 364771 | [364771-front-frontiers.json](./364771-front-frontiers.json) |
 | Front Line | 408293 | [408293-front-line.json](./408293-front-line.json) |
 | Front Line Pack | 83741 | [83741-front-line-pack.json](./83741-front-line-pack.json) |
 | Front Lines | 340265 | [340265-front-lines.json](./340265-front-lines.json) |
