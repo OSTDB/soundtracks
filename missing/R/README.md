@@ -12185,6 +12185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Hours Collection | 283209 | [283209-rush-hours-collection.json](./283209-rush-hours-collection.json) |
 | Rush Legends | 229206 | [229206-rush-legends.json](./229206-rush-legends.json) |
 | Rush Legends PvP FPS | 231906 | [231906-rush-legends-pvp-fps.json](./231906-rush-legends-pvp-fps.json) |
+| Rush Minutes: Online Shooter | 379063 | [379063-rush-minutes-online-shooter.json](./379063-rush-minutes-online-shooter.json) |
 | Rush N Crash | 374782 | [374782-rush-n-crash.json](./374782-rush-n-crash.json) |
 | Rush of Heroes | 59608 | [59608-rush-of-heroes.json](./59608-rush-of-heroes.json) |
 | Rush On | 253353 | [253353-rush-on.json](./253353-rush-on.json) |
