@@ -8937,6 +8937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homo Machina | 101468 | [101468-homo-machina.json](./101468-homo-machina.json) |
 | Homo Sovieticus | 405885 | [405885-homo-sovieticus.json](./405885-homo-sovieticus.json) |
 | Homonculus | 395627 | [395627-homonculus.json](./395627-homonculus.json) |
+| Homoworld | 361387 | [361387-homoworld.json](./361387-homoworld.json) |
 | Homuha no X 1.5: Sukisuki Date Daisakusen | 59020 | [59020-homuha-no-x-1-5-sukisuki-date-daisakusen.json](./59020-homuha-no-x-1-5-sukisuki-date-daisakusen.json) |
 | Homunculus | 255669 | [255669-homunculus.json](./255669-homunculus.json) |
 | Homunculus | 319807 | [319807-homunculus.json](./319807-homunculus.json) |
@@ -9063,6 +9064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Passage to New Dawns | 393908 | [393908-honkai-impact-3rd-passage-to-new-dawns.json](./393908-honkai-impact-3rd-passage-to-new-dawns.json) |
 | Honkai Impact 3rd: Planetary Rewind | 319450 | [319450-honkai-impact-3rd-planetary-rewind.json](./319450-honkai-impact-3rd-planetary-rewind.json) |
 | Honkai Impact 3rd: Post-Dusk Odyssey | 276501 | [276501-honkai-impact-3rd-post-dusk-odyssey.json](./276501-honkai-impact-3rd-post-dusk-odyssey.json) |
+| Honkai Impact 3rd: Prisoner of Babylon | 361397 | [361397-honkai-impact-3rd-prisoner-of-babylon.json](./361397-honkai-impact-3rd-prisoner-of-babylon.json) |
 | Honkai Impact 3rd: Pristine Realm | 276504 | [276504-honkai-impact-3rd-pristine-realm.json](./276504-honkai-impact-3rd-pristine-realm.json) |
 | Honkai Impact 3rd: Re: Promise to Luna | 276505 | [276505-honkai-impact-3rd-re-promise-to-luna.json](./276505-honkai-impact-3rd-re-promise-to-luna.json) |
 | Honkai Impact 3rd: Rhythms of Neon | 279713 | [279713-honkai-impact-3rd-rhythms-of-neon.json](./279713-honkai-impact-3rd-rhythms-of-neon.json) |
@@ -9078,6 +9080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: The Chrono and the Hare | 276421 | [276421-honkai-impact-3rd-the-chrono-and-the-hare.json](./276421-honkai-impact-3rd-the-chrono-and-the-hare.json) |
 | Honkai Impact 3rd: The Fleet Sets Sail | 361297 | [361297-honkai-impact-3rd-the-fleet-sets-sail.json](./361297-honkai-impact-3rd-the-fleet-sets-sail.json) |
 | Honkai Impact 3rd: The Light at Dream's End | 415396 | [415396-honkai-impact-3rd-the-light-at-dreams-end.json](./415396-honkai-impact-3rd-the-light-at-dreams-end.json) |
+| Honkai Impact 3rd: The Silver Wolf Awakens | 361398 | [361398-honkai-impact-3rd-the-silver-wolf-awakens.json](./361398-honkai-impact-3rd-the-silver-wolf-awakens.json) |
 | Honkai Impact 3rd: The Wings to Mars | 282498 | [282498-honkai-impact-3rd-the-wings-to-mars.json](./282498-honkai-impact-3rd-the-wings-to-mars.json) |
 | Honkai Impact 3rd: Undine's Phantasm | 281578 | [281578-honkai-impact-3rd-undines-phantasm.json](./281578-honkai-impact-3rd-undines-phantasm.json) |
 | Honkai Impact 3rd: Unequaled, Unrivaled | 279704 | [279704-honkai-impact-3rd-unequaled-unrivaled.json](./279704-honkai-impact-3rd-unequaled-unrivaled.json) |
