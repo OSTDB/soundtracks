@@ -3308,6 +3308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get It Up! | 357211 | [357211-get-it-up.json](./357211-get-it-up.json) |
 | Get Lit | 400420 | [400420-get-lit.json](./400420-get-lit.json) |
 | Get Lost in Nature With Luke | 165162 | [165162-get-lost-in-nature-with-luke.json](./165162-get-lost-in-nature-with-luke.json) |
+| Get Lost! | 383543 | [383543-get-lost.json](./383543-get-lost.json) |
 | Get Lost! | 50252 | [50252-get-lost.json](./50252-get-lost.json) |
 | Get Low, Grandpa! | 392902 | [392902-get-low-grandpa.json](./392902-get-low-grandpa.json) |
 | Get Mazed | 378566 | [378566-get-mazed.json](./378566-get-mazed.json) |
