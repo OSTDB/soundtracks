@@ -1763,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp & Warp | 39399 | [39399-warp-and-warp.json](./39399-warp-and-warp.json) |
 | Warp 1 | 131295 | [131295-warp-1.json](./131295-warp-1.json) |
 | Warp 7 | 231062 | [231062-warp-7.json](./231062-warp-7.json) |
+| Warp Blaster VR | 356367 | [356367-warp-blaster-vr.json](./356367-warp-blaster-vr.json) |
 | Warp Bot | 347879 | [347879-warp-bot.json](./347879-warp-bot.json) |
 | Warp Bound | 387421 | [387421-warp-bound.json](./387421-warp-bound.json) |
 | Warp Cinema | 321600 | [321600-warp-cinema.json](./321600-warp-cinema.json) |
@@ -8256,6 +8257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's End Garden | 98043 | [98043-worlds-end-garden.json](./98043-worlds-end-garden.json) |
 | World's Fair Jig Saw | 130865 | [130865-worlds-fair-jig-saw.json](./130865-worlds-fair-jig-saw.json) |
 | World's Fastest Pizza | 34599 | [34599-worlds-fastest-pizza.json](./34599-worlds-fastest-pizza.json) |
+| World's Greatest Cities Mahjong | 356376 | [356376-worlds-greatest-cities-mahjong.json](./356376-worlds-greatest-cities-mahjong.json) |
 | World's Greatest Cities Mosaics 10 | 294471 | [294471-worlds-greatest-cities-mosaics-10.json](./294471-worlds-greatest-cities-mosaics-10.json) |
 | World's Greatest Cities Mosaics 2 | 415863 | [415863-worlds-greatest-cities-mosaics-2.json](./415863-worlds-greatest-cities-mosaics-2.json) |
 | World's Greatest Cities Mosaics 3 | 416079 | [416079-worlds-greatest-cities-mosaics-3.json](./416079-worlds-greatest-cities-mosaics-3.json) |
