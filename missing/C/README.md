@@ -4288,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatRunner 2022 | 299902 | [299902-catrunner-2022.json](./299902-catrunner-2022.json) |
 | Cats | 301856 | [301856-cats.json](./301856-cats.json) |
 | Cats 'n Blocks | 332280 | [332280-cats-n-blocks.json](./332280-cats-n-blocks.json) |
+| Cats & Carnations | 398806 | [398806-cats-and-carnations.json](./398806-cats-and-carnations.json) |
 | Cats & Castles | 260182 | [260182-cats-and-castles.json](./260182-cats-and-castles.json) |
 | Cats & Cups | 360002 | [360002-cats-and-cups.json](./360002-cats-and-cups.json) |
 | Cats & Dice | 319342 | [319342-cats-and-dice.json](./319342-cats-and-dice.json) |
@@ -12566,6 +12567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cone Sweet Cone | 418882 | [418882-cone-sweet-cone.json](./418882-cone-sweet-cone.json) |
 | Cone Wars | 57918 | [57918-cone-wars.json](./57918-cone-wars.json) |
 | Cone’Z Broken Bonez | 369901 | [369901-cone-z-broken-bonez.json](./369901-cone-z-broken-bonez.json) |
+| Conejito Cagón | 398749 | [398749-conejito-cagon.json](./398749-conejito-cagon.json) |
 | Coneru: Dimension Girl | 267466 | [267466-coneru-dimension-girl.json](./267466-coneru-dimension-girl.json) |
 | Cones in Space | 254771 | [254771-cones-in-space.json](./254771-cones-in-space.json) |
 | Conexus | 202920 | [202920-conexus.json](./202920-conexus.json) |
@@ -12881,6 +12883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Crazy Climber | 418714 | [418714-console-archives-crazy-climber.json](./418714-console-archives-crazy-climber.json) |
 | Console Archives: Geki-Oh ShienRyu | 403301 | [403301-console-archives-geki-oh-shienryu.json](./403301-console-archives-geki-oh-shienryu.json) |
 | Console Archives: Hercules no Eikou II - Taitan no Metsubou | 410364 | [410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json](./410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json) |
+| Console Archives: Ishin no Arashi | 398773 | [398773-console-archives-ishin-no-arashi.json](./398773-console-archives-ishin-no-arashi.json) |
 | Console Archives: Karate Champ | 420803 | [420803-console-archives-karate-champ.json](./420803-console-archives-karate-champ.json) |
 | Console Archives: L'Empereur | 405808 | [405808-console-archives-lempereur.json](./405808-console-archives-lempereur.json) |
 | Console Archives: Marl Jong | 427247 | [427247-console-archives-marl-jong.json](./427247-console-archives-marl-jong.json) |
@@ -15463,6 +15466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crawlspace | 252728 | [252728-crawlspace.json](./252728-crawlspace.json) |
 | Crawlspace 2 | 231850 | [231850-crawlspace-2.json](./231850-crawlspace-2.json) |
 | Crawlspace Multiplayer | 300526 | [300526-crawlspace-multiplayer.json](./300526-crawlspace-multiplayer.json) |
+| Crawlspace: Insanity Remastered | 398738 | [398738-crawlspace-insanity-remastered.json](./398738-crawlspace-insanity-remastered.json) |
 | Crawlyard | 166753 | [166753-crawlyard.json](./166753-crawlyard.json) |
 | Cray-5 | 13530 | [13530-cray-5.json](./13530-cray-5.json) |
 | Crayation: The First Sketch | 379010 | [379010-crayation-the-first-sketch.json](./379010-crayation-the-first-sketch.json) |
@@ -17078,6 +17082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crownslayers | 387416 | [387416-crownslayers.json](./387416-crownslayers.json) |
 | Crowntakers | 10070 | [10070-crowntakers.json](./10070-crowntakers.json) |
 | Crowntakers: Undead Undertakings | 170221 | [170221-crowntakers-undead-undertakings.json](./170221-crowntakers-undead-undertakings.json) |
+| Crownwarden | 398800 | [398800-crownwarden.json](./398800-crownwarden.json) |
 | Crows | 103426 | [103426-crows.json](./103426-crows.json) |
 | Crows Coming | 245018 | [245018-crows-coming.json](./245018-crows-coming.json) |
 | Crows: Burning Edge | 13521 | [13521-crows-burning-edge.json](./13521-crows-burning-edge.json) |
@@ -19513,6 +19518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cycle Chaser H-5 | 231369 | [231369-cycle-chaser-h-5.json](./231369-cycle-chaser-h-5.json) |
 | Cycle Idle RPG | 272253 | [272253-cycle-idle-rpg.json](./272253-cycle-idle-rpg.json) |
 | Cycle Maabou | 375607 | [375607-cycle-maabou.json](./375607-cycle-maabou.json) |
+| Cycle of Carnations | 398797 | [398797-cycle-of-carnations.json](./398797-cycle-of-carnations.json) |
 | Cycle of Cinder | 398628 | [398628-cycle-of-cinder.json](./398628-cycle-of-cinder.json) |
 | Cycle of Eternity: Space Anomaly | 90686 | [90686-cycle-of-eternity-space-anomaly.json](./90686-cycle-of-eternity-space-anomaly.json) |
 | Cycle of Pawmerce | 176803 | [176803-cycle-of-pawmerce.json](./176803-cycle-of-pawmerce.json) |
