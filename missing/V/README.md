@@ -1166,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil Runners | 310932 | [310932-veil-runners.json](./310932-veil-runners.json) |
 | Veil Stream | 360675 | [360675-veil-stream.json](./360675-veil-stream.json) |
 | Veil Transfer | 318733 | [318733-veil-transfer.json](./318733-veil-transfer.json) |
+| Veil: Mirages | 350160 | [350160-veil-mirages.json](./350160-veil-mirages.json) |
 | Veil: Tactics | 304619 | [304619-veil-tactics.json](./304619-veil-tactics.json) |
 | Veilborn | 374945 | [374945-veilborn.json](./374945-veilborn.json) |
 | Veilborne Sacrament | 375532 | [375532-veilborne-sacrament.json](./375532-veilborne-sacrament.json) |
