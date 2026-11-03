@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VA-11 Hall-A: Cyberpunk Bartender Action | 15465 | [15465-va-11-hall-a-cyberpunk-bartender-action.json](./15465-va-11-hall-a-cyberpunk-bartender-action.json) |
 | Vaboom! | 37537 | [37537-vaboom.json](./37537-vaboom.json) |
 | Vac Attack | 308488 | [308488-vac-attack.json](./308488-vac-attack.json) |
+| Vaca Bullet | 373789 | [373789-vaca-bullet.json](./373789-vaca-bullet.json) |
 | Vacancy Unlimited | 153956 | [153956-vacancy-unlimited.json](./153956-vacancy-unlimited.json) |
 | Vacant | 414747 | [414747-vacant.json](./414747-vacant.json) |
 | Vacant | 55554 | [55554-vacant.json](./55554-vacant.json) |
