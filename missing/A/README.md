@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cup of Coffee | 211247 | [211247-a-cup-of-coffee.json](./211247-a-cup-of-coffee.json) |
 | A Cup of Eternity | 382212 | [382212-a-cup-of-eternity.json](./382212-a-cup-of-eternity.json) |
 | A Cup of Tea | 392397 | [392397-a-cup-of-tea.json](./392397-a-cup-of-tea.json) |
+| A Cupid's Day | 397528 | [397528-a-cupids-day.json](./397528-a-cupids-day.json) |
 | A Cure for Jessica | 169597 | [169597-a-cure-for-jessica.json](./169597-a-cure-for-jessica.json) |
 | A Curious Pastime | 166669 | [166669-a-curious-pastime.json](./166669-a-curious-pastime.json) |
 | A Cut Above: Mow & Grow | 379572 | [379572-a-cut-above-mow-and-grow.json](./379572-a-cut-above-mow-and-grow.json) |
@@ -5846,6 +5847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchementalist | 157082 | [157082-alchementalist.json](./157082-alchementalist.json) |
 | Alchemia | 117032 | [117032-alchemia.json](./117032-alchemia.json) |
 | Alchemia | 58040 | [58040-alchemia.json](./58040-alchemia.json) |
+| Alchemia Rogue: Mia and the Mystery Labyrinth | 397497 | [397497-alchemia-rogue-mia-and-the-mystery-labyrinth.json](./397497-alchemia-rogue-mia-and-the-mystery-labyrinth.json) |
 | Alchemia Story | 109917 | [109917-alchemia-story.json](./109917-alchemia-story.json) |
 | Alchemic Cutie | 107171 | [107171-alchemic-cutie.json](./107171-alchemic-cutie.json) |
 | Alchemic Dungeons | 54657 | [54657-alchemic-dungeons.json](./54657-alchemic-dungeons.json) |
@@ -5894,6 +5896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemos | 190041 | [190041-alchemos.json](./190041-alchemos.json) |
 | Alchemy | 179418 | [179418-alchemy.json](./179418-alchemy.json) |
 | Alchemy | 337805 | [337805-alchemy.json](./337805-alchemy.json) |
+| Alchemy | 397482 | [397482-alchemy.json](./397482-alchemy.json) |
 | Alchemy 1000 | 134383 | [134383-alchemy-1000.json](./134383-alchemy-1000.json) |
 | Alchemy Absorption: Melody | 157940 | [157940-alchemy-absorption-melody.json](./157940-alchemy-absorption-melody.json) |
 | Alchemy Academy | 337810 | [337810-alchemy-academy.json](./337810-alchemy-academy.json) |
@@ -10719,6 +10722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apacies: Creatures of the Old West | 271662 | [271662-apacies-creatures-of-the-old-west.json](./271662-apacies-creatures-of-the-old-west.json) |
 | Apano Sin | 14259 | [14259-apano-sin.json](./14259-apano-sin.json) |
 | Apano Syn Fighter | 304571 | [304571-apano-syn-fighter.json](./304571-apano-syn-fighter.json) |
+| Apart | 397487 | [397487-apart.json](./397487-apart.json) |
 | Apart | 415185 | [415185-apart.json](./415185-apart.json) |
 | Apart of Me | 233971 | [233971-apart-of-me.json](./233971-apart-of-me.json) |
 | Apartament 1406 | 249766 | [249766-apartament-1406.json](./249766-apartament-1406.json) |
@@ -14998,6 +15002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astralith | 395380 | [395380-astralith.json](./395380-astralith.json) |
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astralojia: Episode 1 | 119982 | [119982-astralojia-episode-1.json](./119982-astralojia-episode-1.json) |
+| Astralyte | 397474 | [397474-astralyte.json](./397474-astralyte.json) |
 | Astranded | 317045 | [317045-astranded.json](./317045-astranded.json) |
 | Astranded | 379990 | [379990-astranded.json](./379990-astranded.json) |
 | Astraphia | 365592 | [365592-astraphia.json](./365592-astraphia.json) |
@@ -15116,6 +15121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Ranch | 66729 | [66729-astro-ranch.json](./66729-astro-ranch.json) |
 | Astro Rescue | 63108 | [63108-astro-rescue.json](./63108-astro-rescue.json) |
 | Astro Rider | 126327 | [126327-astro-rider.json](./126327-astro-rider.json) |
+| Astro Ryders | 397514 | [397514-astro-ryders.json](./397514-astro-ryders.json) |
 | Astro Sentai Jarbonder | 150924 | [150924-astro-sentai-jarbonder.json](./150924-astro-sentai-jarbonder.json) |
 | Astro Shooter | 95341 | [95341-astro-shooter.json](./95341-astro-shooter.json) |
 | Astro Smash 'n' Blast! | 233553 | [233553-astro-smash-n-blast.json](./233553-astro-smash-n-blast.json) |
