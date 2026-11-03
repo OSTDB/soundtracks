@@ -4306,6 +4306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight For Your Resurrection | 242969 | [242969-fight-for-your-resurrection.json](./242969-fight-for-your-resurrection.json) |
 | Fight For Your Resurrection VR | 255147 | [255147-fight-for-your-resurrection-vr.json](./255147-fight-for-your-resurrection-vr.json) |
 | Fight Game Rivals | 79772 | [79772-fight-game-rivals.json](./79772-fight-game-rivals.json) |
+| Fight Girls | 395641 | [395641-fight-girls.json](./395641-fight-girls.json) |
 | Fight High | 127584 | [127584-fight-high.json](./127584-fight-high.json) |
 | Fight In Hole | 211248 | [211248-fight-in-hole.json](./211248-fight-in-hole.json) |
 | Fight in the Mind | 179478 | [179478-fight-in-the-mind.json](./179478-fight-in-the-mind.json) |
@@ -5214,6 +5215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Differences Detective | 232174 | [232174-find-the-differences-detective.json](./232174-find-the-differences-detective.json) |
 | Find the exit | 180557 | [180557-find-the-exit.json](./180557-find-the-exit.json) |
 | Find the Four-Leaf Clover | 389055 | [389055-find-the-four-leaf-clover.json](./389055-find-the-four-leaf-clover.json) |
+| Find the Funny Mistake! | 395642 | [395642-find-the-funny-mistake.json](./395642-find-the-funny-mistake.json) |
 | Find the Gnome | 96682 | [96682-find-the-gnome.json](./96682-find-the-gnome.json) |
 | Find the Gnome 2 | 197270 | [197270-find-the-gnome-2.json](./197270-find-the-gnome-2.json) |
 | Find the heart | 188955 | [188955-find-the-heart.json](./188955-find-the-heart.json) |
