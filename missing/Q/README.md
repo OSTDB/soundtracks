@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qianhu Miao Village in Guizhou Province | 392854 | [392854-qianhu-miao-village-in-guizhou-province.json](./392854-qianhu-miao-village-in-guizhou-province.json) |
 | Qianli: The Vastscape Scroll | 399598 | [399598-qianli-the-vastscape-scroll.json](./399598-qianli-the-vastscape-scroll.json) |
 | Qianling Mainland | 220744 | [220744-qianling-mainland.json](./220744-qianling-mainland.json) |
+| Qilich Izidan | 376422 | [376422-qilich-izidan.json](./376422-qilich-izidan.json) |
 | Qǐluó Sìshí Tán | 130935 | [130935-qiluo-sishi-tan.json](./130935-qiluo-sishi-tan.json) |
 | Qimen Tower Defense | 344705 | [344705-qimen-tower-defense.json](./344705-qimen-tower-defense.json) |
 | Qīnglán Xuèfēng | 120850 | [120850-qinglan-xuefeng.json](./120850-qinglan-xuefeng.json) |
