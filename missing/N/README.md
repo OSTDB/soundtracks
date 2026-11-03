@@ -4766,6 +4766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nineteen: 19 | 413046 | [413046-nineteen-19.json](./413046-nineteen-19.json) |
 | Ninety Days | 149683 | [149683-ninety-days.json](./149683-ninety-days.json) |
 | Ninety Thousand Acres | 321499 | [321499-ninety-thousand-acres.json](./321499-ninety-thousand-acres.json) |
+| Ninety-Nine (99) | 359676 | [359676-ninety-nine-99.json](./359676-ninety-nine-99.json) |
 | Ninety-Nine Nights Online | 66135 | [66135-ninety-nine-nights-online.json](./66135-ninety-nine-nights-online.json) |
 | Ninety-Six | 236649 | [236649-ninety-six.json](./236649-ninety-six.json) |
 | Ninety8 | 246977 | [246977-ninety8.json](./246977-ninety8.json) |
