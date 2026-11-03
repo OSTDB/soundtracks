@@ -1653,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangsters | 69233 | [69233-gangsters.json](./69233-gangsters.json) |
 | Gangsters 1920 | 125078 | [125078-gangsters-1920.json](./125078-gangsters-1920.json) |
 | Gangsters 2: Vendetta | 51226 | [51226-gangsters-2-vendetta.json](./51226-gangsters-2-vendetta.json) |
+| Gangsters Way | 361989 | [361989-gangsters-way.json](./361989-gangsters-way.json) |
 | GangV: Battle Royale | 144201 | [144201-gangv-battle-royale.json](./144201-gangv-battle-royale.json) |
 | Gangway Monsters | 43844 | [43844-gangway-monsters.json](./43844-gangway-monsters.json) |
 | Ganja Farmer | 25801 | [25801-ganja-farmer.json](./25801-ganja-farmer.json) |
