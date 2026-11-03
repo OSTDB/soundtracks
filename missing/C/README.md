@@ -2667,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnage | 271325 | [271325-carnage.json](./271325-carnage.json) |
 | Carnage | 298396 | [298396-carnage.json](./298396-carnage.json) |
 | Carnage | 399041 | [399041-carnage.json](./399041-carnage.json) |
+| Carnage Cliff | 357688 | [357688-carnage-cliff.json](./357688-carnage-cliff.json) |
 | Carnage Contest | 395407 | [395407-carnage-contest.json](./395407-carnage-contest.json) |
 | Carnage Cuisine | 258808 | [258808-carnage-cuisine.json](./258808-carnage-cuisine.json) |
 | Carnage Heart | 20733 | [20733-carnage-heart.json](./20733-carnage-heart.json) |
@@ -4000,6 +4001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacomb | 11042 | [11042-catacomb.json](./11042-catacomb.json) |
 | Catacomb | 380060 | [380060-catacomb.json](./380060-catacomb.json) |
 | Catacomb | 404084 | [404084-catacomb.json](./404084-catacomb.json) |
+| Catacomb 3-D | 357692 | [357692-catacomb-3-d.json](./357692-catacomb-3-d.json) |
 | Catacomb 3-D | 8705 | [8705-catacomb-3-d.json](./8705-catacomb-3-d.json) |
 | Catacomb Abyss 3D | 11044 | [11044-catacomb-abyss-3d.json](./11044-catacomb-abyss-3d.json) |
 | Catacomb Chase | 275255 | [275255-catacomb-chase.json](./275255-catacomb-chase.json) |
