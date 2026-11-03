@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O reino em outro mundo | 315131 | [315131-o-reino-em-outro-mundo.json](./315131-o-reino-em-outro-mundo.json) |
 | O Réquiem das Crianças | 385652 | [385652-o-requiem-das-criancas.json](./385652-o-requiem-das-criancas.json) |
 | O Resgate dos Bichos | 90303 | [90303-o-resgate-dos-bichos.json](./90303-o-resgate-dos-bichos.json) |
+| O Retrato de Monte Calmo | 351350 | [351350-o-retrato-de-monte-calmo.json](./351350-o-retrato-de-monte-calmo.json) |
 | O Salão Encantado | 216274 | [216274-o-salao-encantado.json](./216274-o-salao-encantado.json) |
 | O Sítio do Picapau Amarelo: As Reinações de Narizinho | 286924 | [286924-o-sitio-do-picapau-amarelo-as-reinacoes-de-narizinho.json](./286924-o-sitio-do-picapau-amarelo-as-reinacoes-de-narizinho.json) |
 | O Sombrio: A Voz das Almas | 278832 | [278832-o-sombrio-a-voz-das-almas.json](./278832-o-sombrio-a-voz-das-almas.json) |
@@ -1391,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Gay Cats Look at Old Photos | 264353 | [264353-old-gay-cats-look-at-old-photos.json](./264353-old-gay-cats-look-at-old-photos.json) |
 | Old Gods | 202494 | [202494-old-gods.json](./202494-old-gods.json) |
 | Old Gods Rising | 118635 | [118635-old-gods-rising.json](./118635-old-gods-rising.json) |
+| Old Hero | 351381 | [351381-old-hero.json](./351381-old-hero.json) |
 | Old Hound of Baker Street | 280181 | [280181-old-hound-of-baker-street.json](./280181-old-hound-of-baker-street.json) |
 | Old Hunter | 165664 | [165664-old-hunter.json](./165664-old-hunter.json) |
 | Old Ironsides | 23577 | [23577-old-ironsides.json](./23577-old-ironsides.json) |
@@ -2712,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oneli | 388348 | [388348-oneli.json](./388348-oneli.json) |
 | OneManVurgeR | 30547 | [30547-onemanvurger.json](./30547-onemanvurger.json) |
 | OneMaze.io | 98444 | [98444-onemaze-io.json](./98444-onemaze-io.json) |
+| OneMore | 351496 | [351496-onemore.json](./351496-onemore.json) |
 | Onenellemoo | 239638 | [239638-onenellemoo.json](./239638-onenellemoo.json) |
 | Oneone | 348907 | [348907-oneone.json](./348907-oneone.json) |
 | Oneons: Prisoners | 159643 | [159643-oneons-prisoners.json](./159643-oneons-prisoners.json) |
