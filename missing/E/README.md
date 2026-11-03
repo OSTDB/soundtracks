@@ -1483,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Star Trader PC-8801mkIISR | 314867 | [314867-eggconsole-star-trader-pc-8801mkiisr.json](./314867-eggconsole-star-trader-pc-8801mkiisr.json) |
 | Eggconsole Super Laydock Mission Striker MSX | 380840 | [380840-eggconsole-super-laydock-mission-striker-msx.json](./380840-eggconsole-super-laydock-mission-striker-msx.json) |
 | Eggconsole Super Tritorn MSX2 | 387663 | [387663-eggconsole-super-tritorn-msx2.json](./387663-eggconsole-super-tritorn-msx2.json) |
+| Eggconsole Take the A-Train PC-8801 | 395655 | [395655-eggconsole-take-the-a-train-pc-8801.json](./395655-eggconsole-take-the-a-train-pc-8801.json) |
 | Eggconsole Templo Del Sol: Asteka II PC-8801 | 319319 | [319319-eggconsole-templo-del-sol-asteka-ii-pc-8801.json](./319319-eggconsole-templo-del-sol-asteka-ii-pc-8801.json) |
 | Eggconsole The Legend of Heroes Saga PC-8801 | 334093 | [334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json](./334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json) |
 | Eggconsole The Scheme PC-8801mkIISR | 323695 | [323695-eggconsole-the-scheme-pc-8801mkiisr.json](./323695-eggconsole-the-scheme-pc-8801mkiisr.json) |
@@ -3825,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | England Team Manager | 69289 | [69289-england-team-manager.json](./69289-england-team-manager.json) |
 | Englisch Pfiffikus - 1995 | 91634 | [91634-englisch-pfiffikus-1995.json](./91634-englisch-pfiffikus-1995.json) |
 | English A-Game | 219250 | [219250-english-a-game.json](./219250-english-a-game.json) |
+| English Basics English Vocabulary Fill-in Quiz | 395654 | [395654-english-basics-english-vocabulary-fill-in-quiz.json](./395654-english-basics-english-vocabulary-fill-in-quiz.json) |
 | English Civil War | 129580 | [129580-english-civil-war.json](./129580-english-civil-war.json) |
 | English Country Tune | 9699 | [9699-english-country-tune.json](./9699-english-country-tune.json) |
 | English Is Hard_ | 266094 | [266094-english-is-hard.json](./266094-english-is-hard.json) |
@@ -5222,6 +5224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Darkness | 95166 | [95166-escape-the-darkness.json](./95166-escape-the-darkness.json) |
 | Escape the Dead | 217212 | [217212-escape-the-dead.json](./217212-escape-the-dead.json) |
 | Escape the Desert | 348696 | [348696-escape-the-desert.json](./348696-escape-the-desert.json) |
+| Escape the Doom | 395623 | [395623-escape-the-doom.json](./395623-escape-the-doom.json) |
 | Escape the Dungeon: The Eye of Tormak | 286017 | [286017-escape-the-dungeon-the-eye-of-tormak.json](./286017-escape-the-dungeon-the-eye-of-tormak.json) |
 | Escape the Dynasty | 389719 | [389719-escape-the-dynasty.json](./389719-escape-the-dynasty.json) |
 | Escape the Emerald Star | 205994 | [205994-escape-the-emerald-star.json](./205994-escape-the-emerald-star.json) |
@@ -6830,6 +6833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvilvEvil | 153752 | [153752-evilvevil.json](./153752-evilvevil.json) |
 | Eviron's Chronicles | 161378 | [161378-evirons-chronicles.json](./161378-evirons-chronicles.json) |
 | EviscerateThisGirl.com | 260064 | [260064-evisceratethisgirl-com.json](./260064-evisceratethisgirl-com.json) |
+| Evitania Online | 395615 | [395615-evitania-online.json](./395615-evitania-online.json) |
 | Eviternity | 136040 | [136040-eviternity.json](./136040-eviternity.json) |
 | Eviternity II | 279772 | [279772-eviternity-ii.json](./279772-eviternity-ii.json) |
 | Evkworld | 120379 | [120379-evkworld.json](./120379-evkworld.json) |
@@ -7711,6 +7715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Forklifting 3 | 352766 | [352766-extreme-forklifting-3.json](./352766-extreme-forklifting-3.json) |
 | Extreme Formula Championship | 101592 | [101592-extreme-formula-championship.json](./101592-extreme-formula-championship.json) |
 | Extreme Formula Championship 2015 | 88450 | [88450-extreme-formula-championship-2015.json](./88450-extreme-formula-championship-2015.json) |
+| Extreme Garage: Offroad | 395653 | [395653-extreme-garage-offroad.json](./395653-extreme-garage-offroad.json) |
 | Extreme Gear: Demolition Arena | 98172 | [98172-extreme-gear-demolition-arena.json](./98172-extreme-gear-demolition-arena.json) |
 | Extreme Ghostbusters | 8161 | [8161-extreme-ghostbusters.json](./8161-extreme-ghostbusters.json) |
 | Extreme Ghostbusters: Code Ecto-1 | 129158 | [129158-extreme-ghostbusters-code-ecto-1.json](./129158-extreme-ghostbusters-code-ecto-1.json) |
