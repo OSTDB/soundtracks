@@ -9072,6 +9072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyrmhole: The Forbidden Knowledge | 253384 | [253384-wyrmhole-the-forbidden-knowledge.json](./253384-wyrmhole-the-forbidden-knowledge.json) |
 | Wyrmicide | 255183 | [255183-wyrmicide.json](./255183-wyrmicide.json) |
 | Wyrmicide: Tombstone Die | 256124 | [256124-wyrmicide-tombstone-die.json](./256124-wyrmicide-tombstone-die.json) |
+| Wyrmspace Tactics | 380963 | [380963-wyrmspace-tactics.json](./380963-wyrmspace-tactics.json) |
 | Wyrmstooth | 313267 | [313267-wyrmstooth.json](./313267-wyrmstooth.json) |
 | Wyrmsun | 28362 | [28362-wyrmsun.json](./28362-wyrmsun.json) |
 | WyshBound | 337300 | [337300-wyshbound.json](./337300-wyshbound.json) |
