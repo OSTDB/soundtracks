@@ -1121,6 +1121,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Magic Academy Ake no Arcadia | 373577 | [373577-quiz-magic-academy-ake-no-arcadia.json](./373577-quiz-magic-academy-ake-no-arcadia.json) |
 | Quiz Magic Academy DS | 61435 | [61435-quiz-magic-academy-ds.json](./61435-quiz-magic-academy-ds.json) |
 | Quiz Magic Academy DS: Futatsu no Jikuu Koku | 61436 | [61436-quiz-magic-academy-ds-futatsu-no-jikuu-koku.json](./61436-quiz-magic-academy-ds-futatsu-no-jikuu-koku.json) |
+| Quiz Magic Academy: Maxivcord | 396283 | [396283-quiz-magic-academy-maxivcord.json](./396283-quiz-magic-academy-maxivcord.json) |
+| Quiz Magic Academy: The World Evolve | 396285 | [396285-quiz-magic-academy-the-world-evolve.json](./396285-quiz-magic-academy-the-world-evolve.json) |
+| Quiz Magic Academy: Tokyo Grimoire | 396286 | [396286-quiz-magic-academy-tokyo-grimoire.json](./396286-quiz-magic-academy-tokyo-grimoire.json) |
 | Quiz Maker* | 105844 | [105844-quiz-maker.json](./105844-quiz-maker.json) |
 | Quiz Marugoto The World | 317808 | [317808-quiz-marugoto-the-world.json](./317808-quiz-marugoto-the-world.json) |
 | Quiz Master Zero and the Silky Road | 110313 | [110313-quiz-master-zero-and-the-silky-road.json](./110313-quiz-master-zero-and-the-silky-road.json) |
