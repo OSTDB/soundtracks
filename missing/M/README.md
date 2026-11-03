@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Realm | 316636 | [316636-magic-realm.json](./316636-magic-realm.json) |
 | Magic Realm Obby | 391250 | [391250-magic-realm-obby.json](./391250-magic-realm-obby.json) |
 | Magic Realm: Online | 102934 | [102934-magic-realm-online.json](./102934-magic-realm-online.json) |
+| Magic Regrowth | 373782 | [373782-magic-regrowth.json](./373782-magic-regrowth.json) |
 | Magic Research | 241876 | [241876-magic-research.json](./241876-magic-research.json) |
 | Magic Research 2 | 296750 | [296750-magic-research-2.json](./296750-magic-research-2.json) |
 | Magic Revenge: Casual Idle RPG | 180234 | [180234-magic-revenge-casual-idle-rpg.json](./180234-magic-revenge-casual-idle-rpg.json) |
@@ -5430,6 +5431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matrix Jump | 215848 | [215848-matrix-jump.json](./215848-matrix-jump.json) |
 | Matrix Mahjong | 392317 | [392317-matrix-mahjong.json](./392317-matrix-mahjong.json) |
 | Matrix Marauders | 15259 | [15259-matrix-marauders.json](./15259-matrix-marauders.json) |
+| Matrix Rampage | 373665 | [373665-matrix-rampage.json](./373665-matrix-rampage.json) |
 | Matrix Runner | 62092 | [62092-matrix-runner.json](./62092-matrix-runner.json) |
 | Matrix World | 272953 | [272953-matrix-world.json](./272953-matrix-world.json) |
 | Matrixed Reality | 218650 | [218650-matrixed-reality.json](./218650-matrixed-reality.json) |
@@ -5810,6 +5812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayor Moon | 121434 | [121434-mayor-moon.json](./121434-mayor-moon.json) |
 | Mayor of Defense | 166746 | [166746-mayor-of-defense.json](./166746-mayor-of-defense.json) |
 | Mayor T-Rex | 203666 | [203666-mayor-t-rex.json](./203666-mayor-t-rex.json) |
+| Mayor's Secretary Escape Game | 373769 | [373769-mayors-secretary-escape-game.json](./373769-mayors-secretary-escape-game.json) |
 | Mayority | 254169 | [254169-mayority.json](./254169-mayority.json) |
 | Maytroid | 111981 | [111981-maytroid.json](./111981-maytroid.json) |
 | Mayu | 242712 | [242712-mayu.json](./242712-mayu.json) |
@@ -6287,6 +6290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Punk | 211792 | [211792-mech-punk.json](./211792-mech-punk.json) |
 | Mech Rage | 109378 | [109378-mech-rage.json](./109378-mech-rage.json) |
 | Mech Robot: Battle Shooter Warrior | 399661 | [399661-mech-robot-battle-shooter-warrior.json](./399661-mech-robot-battle-shooter-warrior.json) |
+| Mech Shop | 373783 | [373783-mech-shop.json](./373783-mech-shop.json) |
 | Mech Shuffle | 211964 | [211964-mech-shuffle.json](./211964-mech-shuffle.json) |
 | Mech Skeleton | 28163 | [28163-mech-skeleton.json](./28163-mech-skeleton.json) |
 | Mech Striker | 256235 | [256235-mech-striker.json](./256235-mech-striker.json) |
@@ -14481,6 +14485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Tales: The Museum of Anything | 18458 | [18458-monkey-tales-the-museum-of-anything.json](./18458-monkey-tales-the-museum-of-anything.json) |
 | Monkey Tales: The Princess of Sundara | 18457 | [18457-monkey-tales-the-princess-of-sundara.json](./18457-monkey-tales-the-princess-of-sundara.json) |
 | Monkey Tales: The Valley of the Jackal | 18461 | [18461-monkey-tales-the-valley-of-the-jackal.json](./18461-monkey-tales-the-valley-of-the-jackal.json) |
+| Monkey Testing | 373780 | [373780-monkey-testing.json](./373780-monkey-testing.json) |
 | Monkey Time | 187300 | [187300-monkey-time.json](./187300-monkey-time.json) |
 | Monkey Turn V | 58065 | [58065-monkey-turn-v.json](./58065-monkey-turn-v.json) |
 | Monkey Valley | 216627 | [216627-monkey-valley.json](./216627-monkey-valley.json) |
