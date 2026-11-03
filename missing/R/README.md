@@ -2245,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rawring Candies | 359359 | [359359-rawring-candies.json](./359359-rawring-candies.json) |
 | Rawshire the Last Hatchling | 158214 | [158214-rawshire-the-last-hatchling.json](./158214-rawshire-the-last-hatchling.json) |
 | Rawyokan | 334915 | [334915-rawyokan.json](./334915-rawyokan.json) |
+| Rax Genesis | 371185 | [371185-rax-genesis.json](./371185-rax-genesis.json) |
 | Rax Runner! | 338288 | [338288-rax-runner.json](./338288-rax-runner.json) |
 | Ray | 298639 | [298639-ray.json](./298639-ray.json) |
 | Ray - Part 1 | 229594 | [229594-ray-part-1.json](./229594-ray-part-1.json) |
@@ -4360,6 +4361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reginald Does His Thang | 74375 | [74375-reginald-does-his-thang.json](./74375-reginald-does-his-thang.json) |
 | Reginald's Death Arena | 156025 | [156025-reginalds-death-arena.json](./156025-reginalds-death-arena.json) |
 | Region: Gear D | 292390 | [292390-region-gear-d.json](./292390-region-gear-d.json) |
+| Region55 | 371190 | [371190-region55.json](./371190-region55.json) |
 | Regional Power | 238360 | [238360-regional-power.json](./238360-regional-power.json) |
 | Regional Power II | 238362 | [238362-regional-power-ii.json](./238362-regional-power-ii.json) |
 | Regional Power III | 238365 | [238365-regional-power-iii.json](./238365-regional-power-iii.json) |
@@ -5802,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Machina: Nucleonics | 159569 | [159569-retro-machina-nucleonics.json](./159569-retro-machina-nucleonics.json) |
 | Retro Meadow | 362759 | [362759-retro-meadow.json](./362759-retro-meadow.json) |
 | Retro Miami | 76505 | [76505-retro-miami.json](./76505-retro-miami.json) |
+| Retro Motel Simulator | 371508 | [371508-retro-motel-simulator.json](./371508-retro-motel-simulator.json) |
 | Retro Mystery Club Vol.2: The Beppu Case | 289264 | [289264-retro-mystery-club-vol-2-the-beppu-case.json](./289264-retro-mystery-club-vol-2-the-beppu-case.json) |
 | Retro Ninja Runner | 74810 | [74810-retro-ninja-runner.json](./74810-retro-ninja-runner.json) |
 | Retro One | 78092 | [78092-retro-one.json](./78092-retro-one.json) |
@@ -9402,6 +9405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockstar Games presents Table Tennis | 2541 | [2541-rockstar-games-presents-table-tennis.json](./2541-rockstar-games-presents-table-tennis.json) |
 | Rockstar Life | 192668 | [192668-rockstar-life.json](./192668-rockstar-life.json) |
 | Rockstar! | 78693 | [78693-rockstar.json](./78693-rockstar.json) |
+| RockStars! | 371485 | [371485-rockstars.json](./371485-rockstars.json) |
 | RockTop | 252270 | [252270-rocktop.json](./252270-rocktop.json) |
 | Rocktopus | 301904 | [301904-rocktopus.json](./301904-rocktopus.json) |
 | Rocky | 247438 | [247438-rocky.json](./247438-rocky.json) |
@@ -11481,6 +11485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rui wa Tomo o Yobu | 273890 | [273890-rui-wa-tomo-o-yobu.json](./273890-rui-wa-tomo-o-yobu.json) |
 | Ruiga Pirates | 274367 | [274367-ruiga-pirates.json](./274367-ruiga-pirates.json) |
 | Ruiga Pirates: Cursed Seas | 301823 | [301823-ruiga-pirates-cursed-seas.json](./301823-ruiga-pirates-cursed-seas.json) |
+| Ruiga Pirates: First Survivors | 371489 | [371489-ruiga-pirates-first-survivors.json](./371489-ruiga-pirates-first-survivors.json) |
 | Ruin | 169603 | [169603-ruin.json](./169603-ruin.json) |
 | Ruin | 17021 | [17021-ruin.json](./17021-ruin.json) |
 | Ruin | 174083 | [174083-ruin.json](./174083-ruin.json) |
