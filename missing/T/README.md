@@ -5604,6 +5604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anomaly Detective | 390350 | [390350-the-anomaly-detective.json](./390350-the-anomaly-detective.json) |
 | The Anomaly Experiment | 342048 | [342048-the-anomaly-experiment.json](./342048-the-anomaly-experiment.json) |
 | The Anomaly Inspector | 396332 | [396332-the-anomaly-inspector.json](./396332-the-anomaly-inspector.json) |
+| The Anomaly Manor | 386320 | [386320-the-anomaly-manor.json](./386320-the-anomaly-manor.json) |
 | The Anomaly Project | 312378 | [312378-the-anomaly-project.json](./312378-the-anomaly-project.json) |
 | The Anomaly Protocol | 348663 | [348663-the-anomaly-protocol.json](./348663-the-anomaly-protocol.json) |
 | The Anomaly Unit | 389695 | [389695-the-anomaly-unit.json](./389695-the-anomaly-unit.json) |
@@ -11760,6 +11761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lécuyer Cult | 254984 | [254984-the-lecuyer-cult.json](./254984-the-lecuyer-cult.json) |
 | The Ledge | 262425 | [262425-the-ledge.json](./262425-the-ledge.json) |
 | The Leeds Devil | 188514 | [188514-the-leeds-devil.json](./188514-the-leeds-devil.json) |
+| The Leet Adventure | 386062 | [386062-the-leet-adventure.json](./386062-the-leet-adventure.json) |
 | The Left Behind | 263982 | [263982-the-left-behind.json](./263982-the-left-behind.json) |
 | The Left Behind: A Forgotten Hill Tale | 388679 | [388679-the-left-behind-a-forgotten-hill-tale.json](./388679-the-left-behind-a-forgotten-hill-tale.json) |
 | The Left Eye | 351114 | [351114-the-left-eye.json](./351114-the-left-eye.json) |
@@ -16332,6 +16334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story of the Flood | 164171 | [164171-the-story-of-the-flood.json](./164171-the-story-of-the-flood.json) |
 | The Story of the Goddess Ankhanessa: Journey to the East | 181193 | [181193-the-story-of-the-goddess-ankhanessa-journey-to-the-east.json](./181193-the-story-of-the-goddess-ankhanessa-journey-to-the-east.json) |
 | The Story of the Revolutionary Watermelon That Wanted to Live Free as a Bird and Learned How to Escape | 144241 | [144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json](./144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json) |
+| The Story of the Rice House | 386310 | [386310-the-story-of-the-rice-house.json](./386310-the-story-of-the-rice-house.json) |
 | The Story Page | 393239 | [393239-the-story-page.json](./393239-the-story-page.json) |
 | The StoryTale | 36467 | [36467-the-storytale.json](./36467-the-storytale.json) |
 | The Storyteller | 302369 | [302369-the-storyteller.json](./302369-the-storyteller.json) |
@@ -22941,6 +22944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toado | 92867 | [92867-toado.json](./92867-toado.json) |
 | Toadomination | 173243 | [173243-toadomination.json](./173243-toadomination.json) |
 | Toads of the Bayou | 244138 | [244138-toads-of-the-bayou.json](./244138-toads-of-the-bayou.json) |
+| Toads of Trees | 386076 | [386076-toads-of-trees.json](./386076-toads-of-trees.json) |
 | Toads vs. Koopas | 307663 | [307663-toads-vs-koopas.json](./307663-toads-vs-koopas.json) |
 | Toaplan Arcade 1 | 216586 | [216586-toaplan-arcade-1.json](./216586-toaplan-arcade-1.json) |
 | Toaplan Arcade 2 | 239142 | [239142-toaplan-arcade-2.json](./239142-toaplan-arcade-2.json) |
