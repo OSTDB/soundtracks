@@ -1962,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel Doomensions | 308071 | [308071-parallel-doomensions.json](./308071-parallel-doomensions.json) |
 | Parallel Dungeons | 418901 | [418901-parallel-dungeons.json](./418901-parallel-dungeons.json) |
 | Parallel Harmony ~Getsuyou no Tobira wa Suiyou no Mukou ni~ | 153737 | [153737-parallel-harmony-getsuyou-no-tobira-wa-suiyou-no-mukou-ni.json](./153737-parallel-harmony-getsuyou-no-tobira-wa-suiyou-no-mukou-ni.json) |
+| Parallel Hearts | 390870 | [390870-parallel-hearts.json](./390870-parallel-hearts.json) |
 | Parallel Kingdom | 70600 | [70600-parallel-kingdom.json](./70600-parallel-kingdom.json) |
 | Parallel Kingdom Echoes | 410633 | [410633-parallel-kingdom-echoes.json](./410633-parallel-kingdom-echoes.json) |
 | Parallel Lab | 198114 | [198114-parallel-lab.json](./198114-parallel-lab.json) |
@@ -2398,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parquet | 166063 | [166063-parquet.json](./166063-parquet.json) |
 | Parralysis | 399271 | [399271-parralysis.json](./399271-parralysis.json) |
 | Parrot | 186827 | [186827-parrot.json](./186827-parrot.json) |
+| Parrot Hero | 390886 | [390886-parrot-hero.json](./390886-parrot-hero.json) |
 | Parry Counter | 414476 | [414476-parry-counter.json](./414476-parry-counter.json) |
 | Parry de Bougai! Dual Runner | 355190 | [355190-parry-de-bougai-dual-runner.json](./355190-parry-de-bougai-dual-runner.json) |
 | Parry King | 263044 | [263044-parry-king.json](./263044-parry-king.json) |
@@ -4739,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets and Friends Butterflies Bundle | 366792 | [366792-pets-and-friends-butterflies-bundle.json](./366792-pets-and-friends-butterflies-bundle.json) |
 | Pets and Friends Easter Bundle | 396924 | [396924-pets-and-friends-easter-bundle.json](./396924-pets-and-friends-easter-bundle.json) |
 | Pets and Friends Summer Vibes | 404270 | [404270-pets-and-friends-summer-vibes.json](./404270-pets-and-friends-summer-vibes.json) |
+| Pets and Friends Valentines Bundle | 390906 | [390906-pets-and-friends-valentines-bundle.json](./390906-pets-and-friends-valentines-bundle.json) |
 | Pets and Friends: Butterflies Pack | 366797 | [366797-pets-and-friends-butterflies-pack.json](./366797-pets-and-friends-butterflies-pack.json) |
 | Pets and Friends: Christmas Pack | 378873 | [378873-pets-and-friends-christmas-pack.json](./378873-pets-and-friends-christmas-pack.json) |
 | Pets and Friends: Cuties Bundle | 400207 | [400207-pets-and-friends-cuties-bundle.json](./400207-pets-and-friends-cuties-bundle.json) |
@@ -6533,6 +6536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX 2: Marvel Pinball - Vengeance and Virtue | 20822 | [20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json](./20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json) |
 | Pinball FX 2: Star Wars | 24227 | [24227-pinball-fx-2-star-wars.json](./24227-pinball-fx-2-star-wars.json) |
 | Pinball FX VR | 332437 | [332437-pinball-fx-vr.json](./332437-pinball-fx-vr.json) |
+| Pinball FX VR: Bethesda Pinball | 390897 | [390897-pinball-fx-vr-bethesda-pinball.json](./390897-pinball-fx-vr-bethesda-pinball.json) |
 | Pinball FX VR: Indiana Jones - The Pinball Adventure | 338670 | [338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json](./338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json) |
 | Pinball FX VR: Universal Pinball - TV Classics | 338671 | [338671-pinball-fx-vr-universal-pinball-tv-classics.json](./338671-pinball-fx-vr-universal-pinball-tv-classics.json) |
 | Pinball FX VR: Williams Pinball - Star Trek: The Next Generation | 338677 | [338677-pinball-fx-vr-williams-pinball-star-trek-the-next-generation.json](./338677-pinball-fx-vr-williams-pinball-star-trek-the-next-generation.json) |
