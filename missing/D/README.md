@@ -3778,6 +3778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Wishes | 113656 | [113656-dead-wishes.json](./113656-dead-wishes.json) |
 | Dead Witch in Night Sky | 394161 | [394161-dead-witch-in-night-sky.json](./394161-dead-witch-in-night-sky.json) |
 | Dead World Heroes | 221185 | [221185-dead-world-heroes.json](./221185-dead-world-heroes.json) |
+| Dead World Tales | 378453 | [378453-dead-world-tales.json](./378453-dead-world-tales.json) |
 | Dead World: La Argentina Muerta | 237246 | [237246-dead-world-la-argentina-muerta.json](./237246-dead-world-la-argentina-muerta.json) |
 | Dead Years | 19582 | [19582-dead-years.json](./19582-dead-years.json) |
 | Dead Z Meat | 147083 | [147083-dead-z-meat.json](./147083-dead-z-meat.json) |
@@ -5298,6 +5299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defcon 5 | 2505 | [2505-defcon-5.json](./2505-defcon-5.json) |
 | Defcon 5 | 39776 | [39776-defcon-5.json](./39776-defcon-5.json) |
 | DEFCON VR | 27325 | [27325-defcon-vr.json](./27325-defcon-vr.json) |
+| Defcon Zero: Frontlines of Tomorrow | 378481 | [378481-defcon-zero-frontlines-of-tomorrow.json](./378481-defcon-zero-frontlines-of-tomorrow.json) |
 | Defcon-2: Missiles of October | 107105 | [107105-defcon-2-missiles-of-october.json](./107105-defcon-2-missiles-of-october.json) |
 | Defcon: Xenos | 231174 | [231174-defcon-xenos.json](./231174-defcon-xenos.json) |
 | Defe the Defender | 344972 | [344972-defe-the-defender.json](./344972-defe-the-defender.json) |
