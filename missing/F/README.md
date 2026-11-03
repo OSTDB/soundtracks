@@ -2634,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming USA | 87490 | [87490-farming-usa.json](./87490-farming-usa.json) |
 | Farming USA 2 | 88981 | [88981-farming-usa-2.json](./88981-farming-usa-2.json) |
 | Farming Village | 121491 | [121491-farming-village.json](./121491-farming-village.json) |
+| Farming With Lasers | 389365 | [389365-farming-with-lasers.json](./389365-farming-with-lasers.json) |
 | Farming World: Jam Factory | 238724 | [238724-farming-world-jam-factory.json](./238724-farming-world-jam-factory.json) |
 | Farming-Simulator 2008 | 3168 | [3168-farming-simulator-2008.json](./3168-farming-simulator-2008.json) |
 | Farming-Simulator 2009 | 3169 | [3169-farming-simulator-2009.json](./3169-farming-simulator-2009.json) |
@@ -3349,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear For Sale: Phantom Tide - Collector’s Edition | 100065 | [100065-fear-for-sale-phantom-tide-collector-s-edition.json](./100065-fear-for-sale-phantom-tide-collector-s-edition.json) |
 | Fear for Sale: The 13 Keys - Collector's Edition | 93830 | [93830-fear-for-sale-the-13-keys-collectors-edition.json](./93830-fear-for-sale-the-13-keys-collectors-edition.json) |
 | Fear for Sale: The House on Black River | 101654 | [101654-fear-for-sale-the-house-on-black-river.json](./101654-fear-for-sale-the-house-on-black-river.json) |
+| Fear Frame | 389346 | [389346-fear-frame.json](./389346-fear-frame.json) |
 | Fear Half Factor | 88079 | [88079-fear-half-factor.json](./88079-fear-half-factor.json) |
 | Fear Hour | 423309 | [423309-fear-hour.json](./423309-fear-hour.json) |
 | Fear in Hospital | 120067 | [120067-fear-in-hospital.json](./120067-fear-in-hospital.json) |
