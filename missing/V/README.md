@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verald Defense | 53874 | [53874-verald-defense.json](./53874-verald-defense.json) |
 | Verbal Void | 210987 | [210987-verbal-void.json](./210987-verbal-void.json) |
 | Verbena: Tales of Growing Up | 379429 | [379429-verbena-tales-of-growing-up.json](./379429-verbena-tales-of-growing-up.json) |
+| Verdant | 380956 | [380956-verdant.json](./380956-verdant.json) |
 | Verdant Citadel | 141778 | [141778-verdant-citadel.json](./141778-verdant-citadel.json) |
 | Verdant Village | 134277 | [134277-verdant-village.json](./134277-verdant-village.json) |
 | Verdge | 377701 | [377701-verdge.json](./377701-verdge.json) |
