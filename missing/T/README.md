@@ -18085,6 +18085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch Blade | 204140 | [204140-the-witch-blade.json](./204140-the-witch-blade.json) |
 | The Witch Doctor | 172316 | [172316-the-witch-doctor.json](./172316-the-witch-doctor.json) |
 | The Witch Eye | 169770 | [169770-the-witch-eye.json](./169770-the-witch-eye.json) |
+| The Witch Girls | 379606 | [379606-the-witch-girls.json](./379606-the-witch-girls.json) |
 | The Witch House | 176813 | [176813-the-witch-house.json](./176813-the-witch-house.json) |
 | The Witch in the Forest | 156016 | [156016-the-witch-in-the-forest.json](./156016-the-witch-in-the-forest.json) |
 | The Witch In The Woods | 253355 | [253355-the-witch-in-the-woods.json](./253355-the-witch-in-the-woods.json) |
@@ -22543,6 +22544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tippy Train | 245262 | [245262-tippy-train.json](./245262-tippy-train.json) |
 | Tippy Tree | 113041 | [113041-tippy-tree.json](./113041-tippy-tree.json) |
 | Tippy Tree: A Christmas Puzzle | 109530 | [109530-tippy-tree-a-christmas-puzzle.json](./109530-tippy-tree-a-christmas-puzzle.json) |
+| Tippy's Quest | 379314 | [379314-tippys-quest.json](./379314-tippys-quest.json) |
 | Tipston Salvage | 184482 | [184482-tipston-salvage.json](./184482-tipston-salvage.json) |
 | Tipsy Rescue | 288592 | [288592-tipsy-rescue.json](./288592-tipsy-rescue.json) |
 | TipTop | 136413 | [136413-tiptop.json](./136413-tiptop.json) |
@@ -29344,6 +29346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigonometry | 75792 | [75792-trigonometry.json](./75792-trigonometry.json) |
 | Trigonometry Dash | 283128 | [283128-trigonometry-dash.json](./283128-trigonometry-dash.json) |
 | Trigonomis | 338608 | [338608-trigonomis.json](./338608-trigonomis.json) |
+| Trigwa | 379305 | [379305-trigwa.json](./379305-trigwa.json) |
 | Trihard | 183008 | [183008-trihard.json](./183008-trihard.json) |
 | Trikaya | 142630 | [142630-trikaya.json](./142630-trikaya.json) |
 | Triku | 316628 | [316628-triku.json](./316628-triku.json) |
