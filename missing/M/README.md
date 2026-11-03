@@ -2545,6 +2545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malagai | 23288 | [23288-malagai.json](./23288-malagai.json) |
 | Malaika: Prehistoric Quest | 73055 | [73055-malaika-prehistoric-quest.json](./73055-malaika-prehistoric-quest.json) |
 | Malasombra | 227820 | [227820-malasombra.json](./227820-malasombra.json) |
+| MaLaTang | 364780 | [364780-malatang.json](./364780-malatang.json) |
 | Malavision: The Origin | 31812 | [31812-malavision-the-origin.json](./31812-malavision-the-origin.json) |
 | Malazar's Inscrutable Tower | 421451 | [421451-malazars-inscrutable-tower.json](./421451-malazars-inscrutable-tower.json) |
 | Malazard: The Master of Magic | 32139 | [32139-malazard-the-master-of-magic.json](./32139-malazard-the-master-of-magic.json) |
@@ -17335,6 +17336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MovoD II | 229826 | [229826-movod-ii.json](./229826-movod-ii.json) |
 | Mow | 200107 | [200107-mow.json](./200107-mow.json) |
 | MoW 2-player | 200866 | [200866-mow-2-player.json](./200866-mow-2-player.json) |
+| Mow Grass | 364779 | [364779-mow-grass.json](./364779-mow-grass.json) |
 | Mow Meow | 333990 | [333990-mow-meow.json](./333990-mow-meow.json) |
 | Mow VR: Challenge Your Limits | 264775 | [264775-mow-vr-challenge-your-limits.json](./264775-mow-vr-challenge-your-limits.json) |
 | Mow-Town Riding | 90513 | [90513-mow-town-riding.json](./90513-mow-town-riding.json) |
