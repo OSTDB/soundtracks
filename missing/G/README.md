@@ -9076,6 +9076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grinded Meat | 237068 | [237068-grinded-meat.json](./237068-grinded-meat.json) |
 | GrindFest | 324815 | [324815-grindfest.json](./324815-grindfest.json) |
 | Grindhouse Games Volume I | 142851 | [142851-grindhouse-games-volume-i.json](./142851-grindhouse-games-volume-i.json) |
+| Grinding Guilds | 369810 | [369810-grinding-guilds.json](./369810-grinding-guilds.json) |
 | Grindset T.V. | 330641 | [330641-grindset-t-v.json](./330641-grindset-t-v.json) |
 | Grindshift | 207307 | [207307-grindshift.json](./207307-grindshift.json) |
 | Grindstar | 407722 | [407722-grindstar.json](./407722-grindstar.json) |
