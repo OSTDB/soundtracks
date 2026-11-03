@@ -2176,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Static | 336607 | [336607-neo-static.json](./336607-neo-static.json) |
 | Neo Steam: The Shattered Continent | 51198 | [51198-neo-steam-the-shattered-continent.json](./51198-neo-steam-the-shattered-continent.json) |
 | Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
+| Neo Titan | 399362 | [399362-neo-titan.json](./399362-neo-titan.json) |
 | Neo Turf Masters | 20323 | [20323-neo-turf-masters.json](./20323-neo-turf-masters.json) |
 | Neo Turf Masters | 392403 | [392403-neo-turf-masters.json](./392403-neo-turf-masters.json) |
 | Neo Turf Masters Scotland | 400237 | [400237-neo-turf-masters-scotland.json](./400237-neo-turf-masters-scotland.json) |
@@ -3778,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Shot! The Gun Golfing Game | 110942 | [110942-nice-shot-the-gun-golfing-game.json](./110942-nice-shot-the-gun-golfing-game.json) |
 | Nice Slice | 29541 | [29541-nice-slice.json](./29541-nice-slice.json) |
 | Nice Spice | 166948 | [166948-nice-spice.json](./166948-nice-spice.json) |
+| Nice to Meet You, Again | 399341 | [399341-nice-to-meet-you-again.json](./399341-nice-to-meet-you-again.json) |
 | Nice to NO you | 139240 | [139240-nice-to-no-you.json](./139240-nice-to-no-you.json) |
 | Nice To Yeet You | 309761 | [309761-nice-to-yeet-you.json](./309761-nice-to-yeet-you.json) |
 | Nice Try! | 129229 | [129229-nice-try.json](./129229-nice-try.json) |
@@ -6747,6 +6749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Patria | 353828 | [353828-nova-patria.json](./353828-nova-patria.json) |
 | Nova Rally | 373246 | [373246-nova-rally.json](./373246-nova-rally.json) |
 | Nova Roma | 252867 | [252867-nova-roma.json](./252867-nova-roma.json) |
+| Nova Rush | 399357 | [399357-nova-rush.json](./399357-nova-rush.json) |
 | Nova Slash: Unparalleled Power | 195608 | [195608-nova-slash-unparalleled-power.json](./195608-nova-slash-unparalleled-power.json) |
 | Nova Sol Marine | 380477 | [380477-nova-sol-marine.json](./380477-nova-sol-marine.json) |
 | Nova Squadron | 215624 | [215624-nova-squadron.json](./215624-nova-squadron.json) |
