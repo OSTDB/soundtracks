@@ -15909,6 +15909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Pro: Island Delivery | 105779 | [105779-driving-pro-island-delivery.json](./105779-driving-pro-island-delivery.json) |
 | Driving Quest | 209691 | [209691-driving-quest.json](./209691-driving-quest.json) |
 | Driving Range | 359307 | [359307-driving-range.json](./359307-driving-range.json) |
+| Driving Rogue | 386893 | [386893-driving-rogue.json](./386893-driving-rogue.json) |
 | Driving School 2016 | 89273 | [89273-driving-school-2016.json](./89273-driving-school-2016.json) |
 | Driving School 2017 | 98855 | [98855-driving-school-2017.json](./98855-driving-school-2017.json) |
 | Driving School 3D | 102104 | [102104-driving-school-3d.json](./102104-driving-school-3d.json) |
