@@ -3770,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letris 4 | 233103 | [233103-letris-4.json](./233103-letris-4.json) |
 | Letris Power: Word puzzle game | 89239 | [89239-letris-power-word-puzzle-game.json](./89239-letris-power-word-puzzle-game.json) |
 | Lets Beats | 105319 | [105319-lets-beats.json](./105319-lets-beats.json) |
+| Lets call my game slippery!suberu | 391925 | [391925-lets-call-my-game-slippery-suberu.json](./391925-lets-call-my-game-slippery-suberu.json) |
 | Lets Castle | 317559 | [317559-lets-castle.json](./317559-lets-castle.json) |
 | Lets Get Loot | 331988 | [331988-lets-get-loot.json](./331988-lets-get-loot.json) |
 | Lets Go Champ | 60539 | [60539-lets-go-champ.json](./60539-lets-go-champ.json) |
@@ -4067,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberation Maiden: SIN | 52548 | [52548-liberation-maiden-sin.json](./52548-liberation-maiden-sin.json) |
 | Liberation Mutagenix | 166829 | [166829-liberation-mutagenix.json](./166829-liberation-mutagenix.json) |
 | Liberation: Captive II | 12665 | [12665-liberation-captive-ii.json](./12665-liberation-captive-ii.json) |
+| LiberationTeam | 391936 | [391936-liberationteam.json](./391936-liberationteam.json) |
 | Liberator | 15250 | [15250-liberator.json](./15250-liberator.json) |
 | Liberator | 159066 | [159066-liberator.json](./159066-liberator.json) |
 | Liberator | 18456 | [18456-liberator.json](./18456-liberator.json) |
@@ -4971,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Spaces Jam | 323735 | [323735-liminal-spaces-jam.json](./323735-liminal-spaces-jam.json) |
 | Liminal Spaces: Outside The Backrooms | 341524 | [341524-liminal-spaces-outside-the-backrooms.json](./341524-liminal-spaces-outside-the-backrooms.json) |
 | Liminal State | 391558 | [391558-liminal-state.json](./391558-liminal-state.json) |
+| Liminal Tower | 391959 | [391959-liminal-tower.json](./391959-liminal-tower.json) |
 | Liminal Trial | 344724 | [344724-liminal-trial.json](./344724-liminal-trial.json) |
 | Liminal Underground: Creatures Beyond | 411125 | [411125-liminal-underground-creatures-beyond.json](./411125-liminal-underground-creatures-beyond.json) |
 | Liminal Universe | 324176 | [324176-liminal-universe.json](./324176-liminal-universe.json) |
