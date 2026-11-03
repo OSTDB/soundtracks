@@ -7019,6 +7019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wookie's Blade | 118133 | [118133-wookies-blade.json](./118133-wookies-blade.json) |
 | Wool | 377141 | [377141-wool.json](./377141-wool.json) |
 | Wool at the Gates | 319042 | [319042-wool-at-the-gates.json](./319042-wool-at-the-gates.json) |
+| Woolberry Ranch | 391448 | [391448-woolberry-ranch.json](./391448-woolberry-ranch.json) |
 | Woolfe: The Red Hood Diaries | 11647 | [11647-woolfe-the-red-hood-diaries.json](./11647-woolfe-the-red-hood-diaries.json) |
 | Woolly | 373250 | [373250-woolly.json](./373250-woolly.json) |
 | Woolly Boy And The Circus | 292582 | [292582-woolly-boy-and-the-circus.json](./292582-woolly-boy-and-the-circus.json) |
@@ -8775,6 +8776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wúmián Yèqǔ | 149799 | [149799-wumian-yequ.json](./149799-wumian-yequ.json) |
 | Wummsen Village | 361118 | [361118-wummsen-village.json](./361118-wummsen-village.json) |
 | Wumpus | 61029 | [61029-wumpus.json](./61029-wumpus.json) |
+| Wunder: The Double-sided Deckbuilder | 391435 | [391435-wunder-the-double-sided-deckbuilder.json](./391435-wunder-the-double-sided-deckbuilder.json) |
 | Wunderdoktor | 74537 | [74537-wunderdoktor.json](./74537-wunderdoktor.json) |
 | Wunderhaven | 166763 | [166763-wunderhaven.json](./166763-wunderhaven.json) |
 | Wunderheilung | 128560 | [128560-wunderheilung.json](./128560-wunderheilung.json) |
