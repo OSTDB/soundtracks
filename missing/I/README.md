@@ -1705,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idolyaki: From Delinquents to Pop Stars | 173957 | [173957-idolyaki-from-delinquents-to-pop-stars.json](./173957-idolyaki-from-delinquents-to-pop-stars.json) |
 | Idolz | 348248 | [348248-idolz.json](./348248-idolz.json) |
 | Idra and the Little Fish | 229637 | [229637-idra-and-the-little-fish.json](./229637-idra-and-the-little-fish.json) |
+| Idrscape | 393237 | [393237-idrscape.json](./393237-idrscape.json) |
 | Idtipsa | 201838 | [201838-idtipsa.json](./201838-idtipsa.json) |
 | Idumea | 319039 | [319039-idumea.json](./319039-idumea.json) |
 | Idun | 237048 | [237048-idun.json](./237048-idun.json) |
@@ -6364,6 +6365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itty Bitty Tiny Town | 184892 | [184892-itty-bitty-tiny-town.json](./184892-itty-bitty-tiny-town.json) |
 | Itty Bitty Toilet Kitty | 332973 | [332973-itty-bitty-toilet-kitty.json](./332973-itty-bitty-toilet-kitty.json) |
 | ITYH: A Horror Otome | 215187 | [215187-ityh-a-horror-otome.json](./215187-ityh-a-horror-otome.json) |
+| Itzo | 393206 | [393206-itzo.json](./393206-itzo.json) |
 | ItzVerse: The Last File | 409209 | [409209-itzverse-the-last-file.json](./409209-itzverse-the-last-file.json) |
 | Iubes:2 | 76559 | [76559-iubes-2.json](./76559-iubes-2.json) |
 | Ivan | 365151 | [365151-ivan.json](./365151-ivan.json) |
