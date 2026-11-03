@@ -1944,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SAS: Zombie Assault 3 | 188396 | [188396-sas-zombie-assault-3.json](./188396-sas-zombie-assault-3.json) |
 | SAS: Zombie Assault 4 | 39197 | [39197-sas-zombie-assault-4.json](./39197-sas-zombie-assault-4.json) |
 | Sasa | 48602 | [48602-sasa.json](./48602-sasa.json) |
+| Sasaeng | 361982 | [361982-sasaeng.json](./361982-sasaeng.json) |
 | Sasami Kisscomi | 92424 | [92424-sasami-kisscomi.json](./92424-sasami-kisscomi.json) |
 | Sasayu Meshiki | 357807 | [357807-sasayu-meshiki.json](./357807-sasayu-meshiki.json) |
 | Sasha Darko's Sacred Line | 45682 | [45682-sasha-darkos-sacred-line.json](./45682-sasha-darkos-sacred-line.json) |
@@ -3094,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooter Space | 223919 | [223919-scooter-space.json](./223919-scooter-space.json) |
 | Scooter War3z | 72160 | [72160-scooter-war3z.json](./72160-scooter-war3z.json) |
 | Scooter's Magic Castle | 72173 | [72173-scooters-magic-castle.json](./72173-scooters-magic-castle.json) |
+| ScootX | 362005 | [362005-scootx.json](./362005-scootx.json) |
 | Scooty Shooty | 151429 | [151429-scooty-shooty.json](./151429-scooty-shooty.json) |
 | SCOP | 251085 | [251085-scop.json](./251085-scop.json) |
 | Scopa | 100012 | [100012-scopa.json](./100012-scopa.json) |
@@ -6438,6 +6440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Guild | 188902 | [188902-shadow-of-the-guild.json](./188902-shadow-of-the-guild.json) |
 | Shadow of the Lost Citadel | 101032 | [101032-shadow-of-the-lost-citadel.json](./101032-shadow-of-the-lost-citadel.json) |
 | Shadow of the Mask | 75020 | [75020-shadow-of-the-mask.json](./75020-shadow-of-the-mask.json) |
+| Shadow of the Matrix | 361990 | [361990-shadow-of-the-matrix.json](./361990-shadow-of-the-matrix.json) |
 | Shadow of the Moonlight | 384232 | [384232-shadow-of-the-moonlight.json](./384232-shadow-of-the-moonlight.json) |
 | Shadow of the Night: Monsters | 256339 | [256339-shadow-of-the-night-monsters.json](./256339-shadow-of-the-night-monsters.json) |
 | Shadow of the Ninja | 9154 | [9154-shadow-of-the-ninja.json](./9154-shadow-of-the-ninja.json) |
@@ -34451,6 +34454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthwaifu: Neon Space Fighter | 171314 | [171314-synthwaifu-neon-space-fighter.json](./171314-synthwaifu-neon-space-fighter.json) |
 | Synthwave Ascension | 265117 | [265117-synthwave-ascension.json](./265117-synthwave-ascension.json) |
 | Synthwave Burnout | 169733 | [169733-synthwave-burnout.json](./169733-synthwave-burnout.json) |
+| Synthwave Burnout VR | 361993 | [361993-synthwave-burnout-vr.json](./361993-synthwave-burnout-vr.json) |
 | Synthwave Driver | 344387 | [344387-synthwave-driver.json](./344387-synthwave-driver.json) |
 | Synthwave Escape | 319296 | [319296-synthwave-escape.json](./319296-synthwave-escape.json) |
 | Synthwave Fury | 203600 | [203600-synthwave-fury.json](./203600-synthwave-fury.json) |
