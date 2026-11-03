@@ -1239,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Monkey Island: Chapter 5 - Rise of the Pirate God | 81266 | [81266-tales-of-monkey-island-chapter-5-rise-of-the-pirate-god.json](./81266-tales-of-monkey-island-chapter-5-rise-of-the-pirate-god.json) |
 | Tales of Monsterland DX | 307196 | [307196-tales-of-monsterland-dx.json](./307196-tales-of-monsterland-dx.json) |
 | Tales of Moriviha: Deadly Secret | 276162 | [276162-tales-of-moriviha-deadly-secret.json](./276162-tales-of-moriviha-deadly-secret.json) |
+| Tales of Morphos | 380137 | [380137-tales-of-morphos.json](./380137-tales-of-morphos.json) |
 | Tales of Nebezem RPG: Red Peril | 115609 | [115609-tales-of-nebezem-rpg-red-peril.json](./115609-tales-of-nebezem-rpg-red-peril.json) |
 | Tales of Nebezem: Elemental Link | 86749 | [86749-tales-of-nebezem-elemental-link.json](./86749-tales-of-nebezem-elemental-link.json) |
 | Tales of Nebezem: Gnomish Plot | 101697 | [101697-tales-of-nebezem-gnomish-plot.json](./101697-tales-of-nebezem-gnomish-plot.json) |
@@ -11441,6 +11442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Faith: The Nycrux Edition | 291539 | [291539-the-last-faith-the-nycrux-edition.json](./291539-the-last-faith-the-nycrux-edition.json) |
 | The Last Farewell | 339193 | [339193-the-last-farewell.json](./339193-the-last-farewell.json) |
 | The Last Farmer | 298118 | [298118-the-last-farmer.json](./298118-the-last-farmer.json) |
+| The Last Feather | 379830 | [379830-the-last-feather.json](./379830-the-last-feather.json) |
 | The Last Federation | 11050 | [11050-the-last-federation.json](./11050-the-last-federation.json) |
 | The Last Federation Collection | 51924 | [51924-the-last-federation-collection.json](./51924-the-last-federation-collection.json) |
 | The Last Federation: Betrayed Hope | 8782 | [8782-the-last-federation-betrayed-hope.json](./8782-the-last-federation-betrayed-hope.json) |
@@ -12637,6 +12639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Episode | 276386 | [276386-the-lost-episode.json](./276386-the-lost-episode.json) |
 | The Lost Episodes | 276387 | [276387-the-lost-episodes.json](./276387-the-lost-episodes.json) |
 | The Lost Episodes of Doom | 310595 | [310595-the-lost-episodes-of-doom.json](./310595-the-lost-episodes-of-doom.json) |
+| The Lost Experiment | 379845 | [379845-the-lost-experiment.json](./379845-the-lost-experiment.json) |
 | The Lost Fate of the Oni | 299016 | [299016-the-lost-fate-of-the-oni.json](./299016-the-lost-fate-of-the-oni.json) |
 | The Lost Fear | 273992 | [273992-the-lost-fear.json](./273992-the-lost-fear.json) |
 | The Lost Files of Sherlock Holmes: The Case of the Rose Tattoo | 6762 | [6762-the-lost-files-of-sherlock-holmes-the-case-of-the-rose-tattoo.json](./6762-the-lost-files-of-sherlock-holmes-the-case-of-the-rose-tattoo.json) |
@@ -17952,6 +17955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Weird One | 179364 | [179364-the-weird-one.json](./179364-the-weird-one.json) |
 | The Welkin World: Rebels | 121278 | [121278-the-welkin-world-rebels.json](./121278-the-welkin-world-rebels.json) |
 | The Well | 169799 | [169799-the-well.json](./169799-the-well.json) |
+| The Well | 379828 | [379828-the-well.json](./379828-the-well.json) |
 | The Well | 72520 | [72520-the-well.json](./72520-the-well.json) |
 | The Well of Essenwood | 290903 | [290903-the-well-of-essenwood.json](./290903-the-well-of-essenwood.json) |
 | The Well of Heaven-Reaching | 310713 | [310713-the-well-of-heaven-reaching.json](./310713-the-well-of-heaven-reaching.json) |
@@ -29127,6 +29131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triazzle Island | 64788 | [64788-triazzle-island.json](./64788-triazzle-island.json) |
 | TRIB3 | 300800 | [300800-trib3.json](./300800-trib3.json) |
 | Tribal | 193166 | [193166-tribal.json](./193166-tribal.json) |
+| Tribal Feeding | 379821 | [379821-tribal-feeding.json](./379821-tribal-feeding.json) |
 | Tribal Hunter | 139591 | [139591-tribal-hunter.json](./139591-tribal-hunter.json) |
 | Tribal Jump | 387426 | [387426-tribal-jump.json](./387426-tribal-jump.json) |
 | Tribal Mania | 377799 | [377799-tribal-mania.json](./377799-tribal-mania.json) |
@@ -29308,6 +29313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Henry | 212075 | [212075-trigger-henry.json](./212075-trigger-henry.json) |
 | Trigger Knight | 314452 | [314452-trigger-knight.json](./314452-trigger-knight.json) |
 | Trigger Land | 366111 | [366111-trigger-land.json](./366111-trigger-land.json) |
+| Trigger of Silence | 379837 | [379837-trigger-of-silence.json](./379837-trigger-of-silence.json) |
 | Trigger on the Road | 232335 | [232335-trigger-on-the-road.json](./232335-trigger-on-the-road.json) |
 | Trigger Path | 378386 | [378386-trigger-path.json](./378386-trigger-path.json) |
 | Trigger Rally | 63239 | [63239-trigger-rally.json](./63239-trigger-rally.json) |
