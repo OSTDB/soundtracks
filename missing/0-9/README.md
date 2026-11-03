@@ -2546,6 +2546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 404 Knight | 277397 | [277397-404-knight.json](./277397-404-knight.json) |
 | 404 Missing Page Detective Agency | 182768 | [182768-404-missing-page-detective-agency.json](./182768-404-missing-page-detective-agency.json) |
 | 404 Shinigami | 176753 | [176753-404-shinigami.json](./176753-404-shinigami.json) |
+| 404 Survivor | 390894 | [390894-404-survivor.json](./390894-404-survivor.json) |
 | 404: Game Not Found | 379456 | [379456-404-game-not-found.json](./379456-404-game-not-found.json) |
 | 404: The Absent God | 416093 | [416093-404-the-absent-god.json](./416093-404-the-absent-god.json) |
 | 4089: Ghost Within | 11433 | [11433-4089-ghost-within.json](./11433-4089-ghost-within.json) |
