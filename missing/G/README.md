@@ -9610,6 +9610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Angel for Hire | 178585 | [178585-guardian-angel-for-hire.json](./178585-guardian-angel-for-hire.json) |
 | Guardian Chicken | 346505 | [346505-guardian-chicken.json](./346505-guardian-chicken.json) |
 | Guardian Chronicle: Random Defense | 144989 | [144989-guardian-chronicle-random-defense.json](./144989-guardian-chronicle-random-defense.json) |
+| Guardian Demon | 376413 | [376413-guardian-demon.json](./376413-guardian-demon.json) |
 | Guardian Force: Saturn Tribute | 173780 | [173780-guardian-force-saturn-tribute.json](./173780-guardian-force-saturn-tribute.json) |
 | Guardian Frame: Debrief! | 283386 | [283386-guardian-frame-debrief.json](./283386-guardian-frame-debrief.json) |
 | Guardian Girls: Astral Battle | 298624 | [298624-guardian-girls-astral-battle.json](./298624-guardian-girls-astral-battle.json) |
