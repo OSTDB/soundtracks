@@ -15491,6 +15491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldat 2 | 129499 | [129499-soldat-2.json](./129499-soldat-2.json) |
 | Soldier | 150243 | [150243-soldier.json](./150243-soldier.json) |
 | Soldier | 345936 | [345936-soldier.json](./345936-soldier.json) |
+| Soldier | 394277 | [394277-soldier.json](./394277-soldier.json) |
 | Soldier Blade Special: Caravan Stage | 42024 | [42024-soldier-blade-special-caravan-stage.json](./42024-soldier-blade-special-caravan-stage.json) |
 | Soldier Blaster | 412972 | [412972-soldier-blaster.json](./412972-soldier-blaster.json) |
 | Soldier Boyz | 69225 | [69225-soldier-boyz.json](./69225-soldier-boyz.json) |
@@ -28826,6 +28827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bases Loaded | 42430 | [42430-super-bases-loaded.json](./42430-super-bases-loaded.json) |
 | Super Basketball | 39389 | [39389-super-basketball.json](./39389-super-basketball.json) |
 | Super Basketball AR | 107005 | [107005-super-basketball-ar.json](./107005-super-basketball-ar.json) |
+| Super Basketball Classics | 394311 | [394311-super-basketball-classics.json](./394311-super-basketball-classics.json) |
 | Super Bass Fishing | 380802 | [380802-super-bass-fishing.json](./380802-super-bass-fishing.json) |
 | Super Battle Cards | 147615 | [147615-super-battle-cards.json](./147615-super-battle-cards.json) |
 | Super Battle Golf | 387070 | [387070-super-battle-golf.json](./387070-super-battle-golf.json) |
@@ -31135,15 +31137,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Gohan Custom Moveset | 394599 | [394599-super-smash-bros-ultimate-gohan-custom-moveset.json](./394599-super-smash-bros-ultimate-gohan-custom-moveset.json) |
 | Super Smash Bros. Ultimate: Goku Mod | 242815 | [242815-super-smash-bros-ultimate-goku-mod.json](./242815-super-smash-bros-ultimate-goku-mod.json) |
 | Super Smash Bros. Ultimate: Goomba Moveset | 385642 | [385642-super-smash-bros-ultimate-goomba-moveset.json](./385642-super-smash-bros-ultimate-goomba-moveset.json) |
+| Super Smash Bros. Ultimate: Hilda Moveset | 394274 | [394274-super-smash-bros-ultimate-hilda-moveset.json](./394274-super-smash-bros-ultimate-hilda-moveset.json) |
 | Super Smash Bros. Ultimate: Ice Beam Moveset | 394596 | [394596-super-smash-bros-ultimate-ice-beam-moveset.json](./394596-super-smash-bros-ultimate-ice-beam-moveset.json) |
 | Super Smash Bros. Ultimate: Ichiban Kasuga Moveset (Yakuza) | 395018 | [395018-super-smash-bros-ultimate-ichiban-kasuga-moveset-yakuza.json](./395018-super-smash-bros-ultimate-ichiban-kasuga-moveset-yakuza.json) |
 | Super Smash Bros. Ultimate: Ike 20% Bigger | 343411 | [343411-super-smash-bros-ultimate-ike-20-bigger.json](./343411-super-smash-bros-ultimate-ike-20-bigger.json) |
 | Super Smash Bros. Ultimate: Impostor Moveset | 395030 | [395030-super-smash-bros-ultimate-impostor-moveset.json](./395030-super-smash-bros-ultimate-impostor-moveset.json) |
 | Super Smash Bros. Ultimate: Iron Man Moveset | 395016 | [395016-super-smash-bros-ultimate-iron-man-moveset.json](./395016-super-smash-bros-ultimate-iron-man-moveset.json) |
 | Super Smash Bros. Ultimate: Jin - Xenoblade 2 Moveset | 395027 | [395027-super-smash-bros-ultimate-jin-xenoblade-2-moveset.json](./395027-super-smash-bros-ultimate-jin-xenoblade-2-moveset.json) |
+| Super Smash Bros. Ultimate: Jungle Hijinxs - Smash Wii U | 394300 | [394300-super-smash-bros-ultimate-jungle-hijinxs-smash-wii-u.json](./394300-super-smash-bros-ultimate-jungle-hijinxs-smash-wii-u.json) |
 | Super Smash Bros. Ultimate: Kamek Moveset | 376025 | [376025-super-smash-bros-ultimate-kamek-moveset.json](./376025-super-smash-bros-ultimate-kamek-moveset.json) |
 | Super Smash Bros. Ultimate: Knuckles Mod | 263428 | [263428-super-smash-bros-ultimate-knuckles-mod.json](./263428-super-smash-bros-ultimate-knuckles-mod.json) |
 | Super Smash Bros. Ultimate: Knuckles Outfit and Hat | 317929 | [317929-super-smash-bros-ultimate-knuckles-outfit-and-hat.json](./317929-super-smash-bros-ultimate-knuckles-outfit-and-hat.json) |
+| Super Smash Bros. Ultimate: Krystal Moveset | 394293 | [394293-super-smash-bros-ultimate-krystal-moveset.json](./394293-super-smash-bros-ultimate-krystal-moveset.json) |
 | Super Smash Bros. Ultimate: Latios/Latias Moveset | 395019 | [395019-super-smash-bros-ultimate-latios-latias-moveset.json](./395019-super-smash-bros-ultimate-latios-latias-moveset.json) |
 | Super Smash Bros. Ultimate: Lloyd Outfit and Wig | 306450 | [306450-super-smash-bros-ultimate-lloyd-outfit-and-wig.json](./306450-super-smash-bros-ultimate-lloyd-outfit-and-wig.json) |
 | Super Smash Bros. Ultimate: Masked Man Moveset | 294524 | [294524-super-smash-bros-ultimate-masked-man-moveset.json](./294524-super-smash-bros-ultimate-masked-man-moveset.json) |
@@ -31158,12 +31163,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Persona 3 Protagonist Outfit and Wig | 317931 | [317931-super-smash-bros-ultimate-persona-3-protagonist-outfit-and-wig.json](./317931-super-smash-bros-ultimate-persona-3-protagonist-outfit-and-wig.json) |
 | Super Smash Bros. Ultimate: Persona 4 Protagonist Outfit and Wig | 317932 | [317932-super-smash-bros-ultimate-persona-4-protagonist-outfit-and-wig.json](./317932-super-smash-bros-ultimate-persona-4-protagonist-outfit-and-wig.json) |
 | Super Smash Bros. Ultimate: Phoenix Wright Moveset | 385646 | [385646-super-smash-bros-ultimate-phoenix-wright-moveset.json](./385646-super-smash-bros-ultimate-phoenix-wright-moveset.json) |
+| Super Smash Bros. Ultimate: Planet Zebes Smash 64 Stage | 394299 | [394299-super-smash-bros-ultimate-planet-zebes-smash-64-stage.json](./394299-super-smash-bros-ultimate-planet-zebes-smash-64-stage.json) |
 | Super Smash Bros. Ultimate: Proto Man's Armor and Helmet | 317933 | [317933-super-smash-bros-ultimate-proto-mans-armor-and-helmet.json](./317933-super-smash-bros-ultimate-proto-mans-armor-and-helmet.json) |
 | Super Smash Bros. Ultimate: Rayman Custom Moveset | 394615 | [394615-super-smash-bros-ultimate-rayman-custom-moveset.json](./394615-super-smash-bros-ultimate-rayman-custom-moveset.json) |
 | Super Smash Bros. Ultimate: Ryo Sakazaki Outfit and Wig | 344727 | [344727-super-smash-bros-ultimate-ryo-sakazaki-outfit-and-wig.json](./344727-super-smash-bros-ultimate-ryo-sakazaki-outfit-and-wig.json) |
 | Super Smash Bros. Ultimate: Sackboy Moveset | 395026 | [395026-super-smash-bros-ultimate-sackboy-moveset.json](./395026-super-smash-bros-ultimate-sackboy-moveset.json) |
 | Super Smash Bros. Ultimate: Sandbag Moveset | 376033 | [376033-super-smash-bros-ultimate-sandbag-moveset.json](./376033-super-smash-bros-ultimate-sandbag-moveset.json) |
 | Super Smash Bros. Ultimate: Sans Outfit and Mask | 317934 | [317934-super-smash-bros-ultimate-sans-outfit-and-mask.json](./317934-super-smash-bros-ultimate-sans-outfit-and-mask.json) |
+| Super Smash Bros. Ultimate: Scrolling Vanishing Island | 394297 | [394297-super-smash-bros-ultimate-scrolling-vanishing-island.json](./394297-super-smash-bros-ultimate-scrolling-vanishing-island.json) |
 | Super Smash Bros. Ultimate: Selectable Namco Roulette | 390281 | [390281-super-smash-bros-ultimate-selectable-namco-roulette.json](./390281-super-smash-bros-ultimate-selectable-namco-roulette.json) |
 | Super Smash Bros. Ultimate: Shadow the Hedgehog Moveset | 385645 | [385645-super-smash-bros-ultimate-shadow-the-hedgehog-moveset.json](./385645-super-smash-bros-ultimate-shadow-the-hedgehog-moveset.json) |
 | Super Smash Bros. Ultimate: Shy Guy Moveset | 395032 | [395032-super-smash-bros-ultimate-shy-guy-moveset.json](./395032-super-smash-bros-ultimate-shy-guy-moveset.json) |
@@ -31178,6 +31185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: The Alucard Moveset | 281459 | [281459-super-smash-bros-ultimate-the-alucard-moveset.json](./281459-super-smash-bros-ultimate-the-alucard-moveset.json) |
 | Super Smash Bros. Ultimate: Ultron Moveset | 395035 | [395035-super-smash-bros-ultimate-ultron-moveset.json](./395035-super-smash-bros-ultimate-ultron-moveset.json) |
 | Super Smash Bros. Ultimate: Vegeta Moveset | 375984 | [375984-super-smash-bros-ultimate-vegeta-moveset.json](./375984-super-smash-bros-ultimate-vegeta-moveset.json) |
+| Super Smash Bros. Ultimate: Wario Land Wario Moveset | 394294 | [394294-super-smash-bros-ultimate-wario-land-wario-moveset.json](./394294-super-smash-bros-ultimate-wario-land-wario-moveset.json) |
 | Super Smash Bros. Ultimate: Waxing Crescent Meta Knight Moveset | 394597 | [394597-super-smash-bros-ultimate-waxing-crescent-meta-knight-moveset.json](./394597-super-smash-bros-ultimate-waxing-crescent-meta-knight-moveset.json) |
 | Super Smash Bros. Ultimate: World of Memes | 390285 | [390285-super-smash-bros-ultimate-world-of-memes.json](./390285-super-smash-bros-ultimate-world-of-memes.json) |
 | Super Smash Bros. Ultimate: Z Broly Moveset | 394593 | [394593-super-smash-bros-ultimate-z-broly-moveset.json](./394593-super-smash-bros-ultimate-z-broly-moveset.json) |
