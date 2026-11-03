@@ -2015,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Chef | 207597 | [207597-rat-chef.json](./207597-rat-chef.json) |
 | Rat Climber | 330135 | [330135-rat-climber.json](./330135-rat-climber.json) |
 | Rat Farm | 414418 | [414418-rat-farm.json](./414418-rat-farm.json) |
+| Rat Game | 364212 | [364212-rat-game.json](./364212-rat-game.json) |
 | Rat Hotel | 296230 | [296230-rat-hotel.json](./296230-rat-hotel.json) |
 | Rat Hunter | 54308 | [54308-rat-hunter.json](./54308-rat-hunter.json) |
 | Rat it! | 263119 | [263119-rat-it.json](./263119-rat-it.json) |
@@ -4443,6 +4444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of Guilds: Commoner | 317302 | [317302-reign-of-guilds-commoner.json](./317302-reign-of-guilds-commoner.json) |
 | Reign of Guilds: Raubritter | 289842 | [289842-reign-of-guilds-raubritter.json](./289842-reign-of-guilds-raubritter.json) |
 | Reign of King | 107147 | [107147-reign-of-king.json](./107147-reign-of-king.json) |
+| Reign of Legends | 364171 | [364171-reign-of-legends.json](./364171-reign-of-legends.json) |
 | Reign of the Renegade | 278911 | [278911-reign-of-the-renegade.json](./278911-reign-of-the-renegade.json) |
 | Reign of the Succubus | 106618 | [106618-reign-of-the-succubus.json](./106618-reign-of-the-succubus.json) |
 | Reign of the Undead: Revolution | 299134 | [299134-reign-of-the-undead-revolution.json](./299134-reign-of-the-undead-revolution.json) |
