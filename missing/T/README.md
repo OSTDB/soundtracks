@@ -15335,6 +15335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Order Collection | 53780 | [53780-the-secret-order-collection.json](./53780-the-secret-order-collection.json) |
 | The Secret Order: Return to the Buried Kingdom | 140947 | [140947-the-secret-order-return-to-the-buried-kingdom.json](./140947-the-secret-order-return-to-the-buried-kingdom.json) |
 | The Secret Order: Return to the Buried Kingdom - Collector's Edition | 358091 | [358091-the-secret-order-return-to-the-buried-kingdom-collectors-edition.json](./358091-the-secret-order-return-to-the-buried-kingdom-collectors-edition.json) |
+| The Secret Planet | 375464 | [375464-the-secret-planet.json](./375464-the-secret-planet.json) |
 | The Secret Pyramid | 225184 | [225184-the-secret-pyramid.json](./225184-the-secret-pyramid.json) |
 | The Secret Saturdays: Beasts of the 5th Sun | 2821 | [2821-the-secret-saturdays-beasts-of-the-5th-sun.json](./2821-the-secret-saturdays-beasts-of-the-5th-sun.json) |
 | The Secret Society | 88642 | [88642-the-secret-society.json](./88642-the-secret-society.json) |
@@ -26504,6 +26505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Crew | 182347 | [182347-train-crew.json](./182347-train-crew.json) |
 | Train Crisis | 83943 | [83943-train-crisis.json](./83943-train-crisis.json) |
 | Train Defense | 105139 | [105139-train-defense.json](./105139-train-defense.json) |
+| Train Delux 2026 Kurakyu | 375136 | [375136-train-delux-2026-kurakyu.json](./375136-train-delux-2026-kurakyu.json) |
 | Train Depart | 285858 | [285858-train-depart.json](./285858-train-depart.json) |
 | Train Drive Ats 2 | 175113 | [175113-train-drive-ats-2.json](./175113-train-drive-ats-2.json) |
 | Train Drive ATS 3 Kintetsu Nara Line | 109505 | [109505-train-drive-ats-3-kintetsu-nara-line.json](./109505-train-drive-ats-3-kintetsu-nara-line.json) |
