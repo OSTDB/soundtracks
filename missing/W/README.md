@@ -7032,6 +7032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wookie's Blade | 118133 | [118133-wookies-blade.json](./118133-wookies-blade.json) |
 | Wool | 377141 | [377141-wool.json](./377141-wool.json) |
 | Wool at the Gates | 319042 | [319042-wool-at-the-gates.json](./319042-wool-at-the-gates.json) |
+| Wool Craze | 387464 | [387464-wool-craze.json](./387464-wool-craze.json) |
 | Woolberry Ranch | 391448 | [391448-woolberry-ranch.json](./391448-woolberry-ranch.json) |
 | Woolfe: The Red Hood Diaries | 11647 | [11647-woolfe-the-red-hood-diaries.json](./11647-woolfe-the-red-hood-diaries.json) |
 | Woolly | 373250 | [373250-woolly.json](./373250-woolly.json) |
@@ -8736,6 +8737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wsg | 176388 | [176388-wsg.json](./176388-wsg.json) |
 | WSOP | 93572 | [93572-wsop.json](./93572-wsop.json) |
 | WST Snooker | 175858 | [175858-wst-snooker.json](./175858-wst-snooker.json) |
+| WStandard Wonderland Lv.1 | 387450 | [387450-wstandard-wonderland-lv-1.json](./387450-wstandard-wonderland-lv-1.json) |
 | WSYC Remix | 271992 | [271992-wsyc-remix.json](./271992-wsyc-remix.json) |
 | WTA Tour Tennis | 66701 | [66701-wta-tour-tennis.json](./66701-wta-tour-tennis.json) |
 | WtBoy | 94139 | [94139-wtboy.json](./94139-wtboy.json) |
