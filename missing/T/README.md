@@ -7567,6 +7567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursor Game | 292260 | [292260-the-cursor-game.json](./292260-the-cursor-game.json) |
 | The Custard Kid | 14021 | [14021-the-custard-kid.json](./14021-the-custard-kid.json) |
 | The Customer is Always Right! | 255270 | [255270-the-customer-is-always-right.json](./255270-the-customer-is-always-right.json) |
+| The Cute Machine | 361420 | [361420-the-cute-machine.json](./361420-the-cute-machine.json) |
 | The Cute the Baldy and the Fluffy | 372434 | [372434-the-cute-the-baldy-and-the-fluffy.json](./372434-the-cute-the-baldy-and-the-fluffy.json) |
 | The Cute Whale | 378182 | [378182-the-cute-whale.json](./378182-the-cute-whale.json) |
 | The CW Quest | 58501 | [58501-the-cw-quest.json](./58501-the-cw-quest.json) |
@@ -13682,6 +13683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nightmare | 24860 | [24860-the-nightmare.json](./24860-the-nightmare.json) |
 | The Nightmare Accord | 289976 | [289976-the-nightmare-accord.json](./289976-the-nightmare-accord.json) |
 | The Nightmare Before Christmas: Oogie's Revenge | 6200 | [6200-the-nightmare-before-christmas-oogies-revenge.json](./6200-the-nightmare-before-christmas-oogies-revenge.json) |
+| The Nightmare Begins | 361405 | [361405-the-nightmare-begins.json](./361405-the-nightmare-begins.json) |
 | The Nightmare Catcher | 196038 | [196038-the-nightmare-catcher.json](./196038-the-nightmare-catcher.json) |
 | The Nightmare Chronicles: Horror In Da Hood | 309107 | [309107-the-nightmare-chronicles-horror-in-da-hood.json](./309107-the-nightmare-chronicles-horror-in-da-hood.json) |
 | The Nightmare Cooperative | 9373 | [9373-the-nightmare-cooperative.json](./9373-the-nightmare-cooperative.json) |
@@ -21908,6 +21910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Reject | 190834 | [190834-time-reject.json](./190834-time-reject.json) |
 | Time Relics: Gears of Light | 18895 | [18895-time-relics-gears-of-light.json](./18895-time-relics-gears-of-light.json) |
 | Time Reversal | 188352 | [188352-time-reversal.json](./188352-time-reversal.json) |
+| Time Riddles: The Mansion | 361386 | [361386-time-riddles-the-mansion.json](./361386-time-riddles-the-mansion.json) |
 | Time Riders in American History | 73722 | [73722-time-riders-in-american-history.json](./73722-time-riders-in-american-history.json) |
 | Time Rift | 133222 | [133222-time-rift.json](./133222-time-rift.json) |
 | Time Riggers | 318286 | [318286-time-riggers.json](./318286-time-riggers.json) |
