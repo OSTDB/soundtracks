@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamplight City mobile | 175316 | [175316-lamplight-city-mobile.json](./175316-lamplight-city-mobile.json) |
 | Lamplight Station | 76682 | [76682-lamplight-station.json](./76682-lamplight-station.json) |
 | Lamplighter | 150417 | [150417-lamplighter.json](./150417-lamplighter.json) |
+| Lamplighter | 378486 | [378486-lamplighter.json](./378486-lamplighter.json) |
 | LampMan | 317421 | [317421-lampman.json](./317421-lampman.json) |
 | Lamprey | 277380 | [277380-lamprey.json](./277380-lamprey.json) |
 | Lampy | 276236 | [276236-lampy.json](./276236-lampy.json) |
@@ -2083,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Stickman | 99720 | [99720-league-of-stickman.json](./99720-league-of-stickman.json) |
 | League of Stickman 2 | 174638 | [174638-league-of-stickman-2.json](./174638-league-of-stickman-2.json) |
 | League of Stickman: (Dreamsky)Warriors | 105871 | [105871-league-of-stickman-dreamsky-warriors.json](./105871-league-of-stickman-dreamsky-warriors.json) |
+| League of Super Evil: Card Game of Doom | 378471 | [378471-league-of-super-evil-card-game-of-doom.json](./378471-league-of-super-evil-card-game-of-doom.json) |
 | League of Survivors | 88050 | [88050-league-of-survivors.json](./88050-league-of-survivors.json) |
 | League Of Tacticians: Path of Tarkan | 345820 | [345820-league-of-tacticians-path-of-tarkan.json](./345820-league-of-tacticians-path-of-tarkan.json) |
 | League of Tanks: Global War | 330353 | [330353-league-of-tanks-global-war.json](./330353-league-of-tanks-global-war.json) |
@@ -5933,6 +5935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Squire's Quests | 146778 | [146778-little-squires-quests.json](./146778-little-squires-quests.json) |
 | Little Squirrel Cabin | 377926 | [377926-little-squirrel-cabin.json](./377926-little-squirrel-cabin.json) |
 | Little Stars | 180996 | [180996-little-stars.json](./180996-little-stars.json) |
+| Little Stone Journey | 378121 | [378121-little-stone-journey.json](./378121-little-stone-journey.json) |
 | Little Strategy | 65384 | [65384-little-strategy.json](./65384-little-strategy.json) |
 | Little Strays | 324140 | [324140-little-strays.json](./324140-little-strays.json) |
 | Little Strays 2 | 389064 | [389064-little-strays-2.json](./389064-little-strays-2.json) |
