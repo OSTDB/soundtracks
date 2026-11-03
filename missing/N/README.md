@@ -2167,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo no Panepon | 109447 | [109447-neo-no-panepon.json](./109447-neo-no-panepon.json) |
 | Neo Pang | 75495 | [75495-neo-pang.json](./75495-neo-pang.json) |
 | Neo Planet | 61574 | [61574-neo-planet.json](./61574-neo-planet.json) |
+| Neo Pussy Masters | 395057 | [395057-neo-pussy-masters.json](./395057-neo-pussy-masters.json) |
 | Neo Racing Genesis | 305747 | [305747-neo-racing-genesis.json](./305747-neo-racing-genesis.json) |
 | Neo Sonic 2 | 266707 | [266707-neo-sonic-2.json](./266707-neo-sonic-2.json) |
 | Neo Sonic 3 | 266706 | [266706-neo-sonic-3.json](./266706-neo-sonic-3.json) |
@@ -6626,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Tonight: Take Back Control Edition | 121156 | [121156-not-tonight-take-back-control-edition.json](./121156-not-tonight-take-back-control-edition.json) |
 | Not Treasure Hunter | 56141 | [56141-not-treasure-hunter.json](./56141-not-treasure-hunter.json) |
 | Not Turn | 404367 | [404367-not-turn.json](./404367-not-turn.json) |
+| Not Us | 394987 | [394987-not-us.json](./394987-not-us.json) |
 | Not without my donuts | 35338 | [35338-not-without-my-donuts.json](./35338-not-without-my-donuts.json) |
 | Not Without My Poop | 83525 | [83525-not-without-my-poop.json](./83525-not-without-my-poop.json) |
 | Not Without You | 65389 | [65389-not-without-you.json](./65389-not-without-you.json) |
