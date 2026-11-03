@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Sonic | 330319 | [330319-radical-sonic.json](./330319-radical-sonic.json) |
 | Radical Spectrum: Volume 1 | 32416 | [32416-radical-spectrum-volume-1.json](./32416-radical-spectrum-volume-1.json) |
 | Radical Spectrum: Volume 2 | 55509 | [55509-radical-spectrum-volume-2.json](./55509-radical-spectrum-volume-2.json) |
+| Radical Zomboarding | 391973 | [391973-radical-zomboarding.json](./391973-radical-zomboarding.json) |
 | Radicorn | 293225 | [293225-radicorn.json](./293225-radicorn.json) |
 | Radii | 211146 | [211146-radii.json](./211146-radii.json) |
 | Radiis | 104856 | [104856-radiis.json](./104856-radiis.json) |
@@ -6215,6 +6216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse 1999: Revival! The Uluru Games | 340205 | [340205-reverse-1999-revival-the-uluru-games.json](./340205-reverse-1999-revival-the-uluru-games.json) |
 | Reverse 1999: Showdown in Chinatown | 342261 | [342261-reverse-1999-showdown-in-chinatown.json](./342261-reverse-1999-showdown-in-chinatown.json) |
 | Reverse 1999: Spring Unending | 397101 | [397101-reverse-1999-spring-unending.json](./397101-reverse-1999-spring-unending.json) |
+| Reverse 1999: The Campaign's Tale | 391929 | [391929-reverse-1999-the-campaigns-tale.json](./391929-reverse-1999-the-campaigns-tale.json) |
 | Reverse 1999: The Haunted Highway | 343346 | [343346-reverse-1999-the-haunted-highway.json](./343346-reverse-1999-the-haunted-highway.json) |
 | Reverse 1999: The Midnight Whistle | 379188 | [379188-reverse-1999-the-midnight-whistle.json](./379188-reverse-1999-the-midnight-whistle.json) |
 | Reverse 1999: The Prisoner In The Cave | 340190 | [340190-reverse-1999-the-prisoner-in-the-cave.json](./340190-reverse-1999-the-prisoner-in-the-cave.json) |
@@ -7774,6 +7776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritual Tournament | 190107 | [190107-ritual-tournament.json](./190107-ritual-tournament.json) |
 | Ritual: Crown of Horns | 117897 | [117897-ritual-crown-of-horns.json](./117897-ritual-crown-of-horns.json) |
 | Ritual: Path of Darkness | 265574 | [265574-ritual-path-of-darkness.json](./265574-ritual-path-of-darkness.json) |
+| Ritualis: Summoner Simulator | 391955 | [391955-ritualis-summoner-simulator.json](./391955-ritualis-summoner-simulator.json) |
 | Ritualist | 392001 | [392001-ritualist.json](./392001-ritualist.json) |
 | Ritualistic Madness | 117719 | [117719-ritualistic-madness.json](./117719-ritualistic-madness.json) |
 | RitualRX | 346188 | [346188-ritualrx.json](./346188-ritualrx.json) |
@@ -12385,6 +12388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruthless Conquest | 126304 | [126304-ruthless-conquest.json](./126304-ruthless-conquest.json) |
 | Ruthless Pandas | 101923 | [101923-ruthless-pandas.json](./101923-ruthless-pandas.json) |
 | Ruthless Safari | 52777 | [52777-ruthless-safari.json](./52777-ruthless-safari.json) |
+| Ruthless Water | 391932 | [391932-ruthless-water.json](./391932-ruthless-water.json) |
 | Ruthless:1 | 260608 | [260608-ruthless-1.json](./260608-ruthless-1.json) |
 | Ruthnar Online | 293325 | [293325-ruthnar-online.json](./293325-ruthnar-online.json) |
 | Rutile Ruby | 47693 | [47693-rutile-ruby.json](./47693-rutile-ruby.json) |
@@ -12420,6 +12424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rwen's Day Out | 185025 | [185025-rwens-day-out.json](./185025-rwens-day-out.json) |
 | RWS | 392606 | [392606-rws.json](./392606-rws.json) |
 | RWSD | 352286 | [352286-rwsd.json](./352286-rwsd.json) |
+| RX Racing 2021 Pro | 391934 | [391934-rx-racing-2021-pro.json](./391934-rx-racing-2021-pro.json) |
 | RX Racing 2022 Pro | 386412 | [386412-rx-racing-2022-pro.json](./386412-rx-racing-2022-pro.json) |
 | RX10-40 | 324312 | [324312-rx10-40.json](./324312-rx10-40.json) |
 | RXC | 192185 | [192185-rxc.json](./192185-rxc.json) |
