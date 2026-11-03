@@ -7642,6 +7642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherman Commander | 155650 | [155650-sherman-commander.json](./155650-sherman-commander.json) |
 | Sherman M4 | 15365 | [15365-sherman-m4.json](./15365-sherman-m4.json) |
 | Sherman's Quest | 336997 | [336997-shermans-quest.json](./336997-shermans-quest.json) |
+| Sherok's Case: Recollection | 374550 | [374550-sheroks-case-recollection.json](./374550-sheroks-case-recollection.json) |
 | Sherpa's Caravan | 374567 | [374567-sherpas-caravan.json](./374567-sherpas-caravan.json) |
 | Sherwood | 403549 | [403549-sherwood.json](./403549-sherwood.json) |
 | Sherwood Classic | 153682 | [153682-sherwood-classic.json](./153682-sherwood-classic.json) |
@@ -18625,7 +18626,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -31323,6 +31323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Fighters Pass | 113120 | [113120-super-smash-bros-ultimate-fighters-pass.json](./113120-super-smash-bros-ultimate-fighters-pass.json) |
 | Super Smash Bros. Ultimate: Fighters Pass Bonus Mii Fighter Costume (Ancient Soldier) | 317688 | [317688-super-smash-bros-ultimate-fighters-pass-bonus-mii-fighter-costume-ancient-soldier.json](./317688-super-smash-bros-ultimate-fighters-pass-bonus-mii-fighter-costume-ancient-soldier.json) |
 | Super Smash Bros. Ultimate: Fighters Pass Vol. 2 | 133834 | [133834-super-smash-bros-ultimate-fighters-pass-vol-2.json](./133834-super-smash-bros-ultimate-fighters-pass-vol-2.json) |
+| Super Smash Bros. Ultimate: Funky Kong Moveset | 374863 | [374863-super-smash-bros-ultimate-funky-kong-moveset.json](./374863-super-smash-bros-ultimate-funky-kong-moveset.json) |
 | Super Smash Bros. Ultimate: Geno Hat + Outfit | 325078 | [325078-super-smash-bros-ultimate-geno-hat-outfit.json](./325078-super-smash-bros-ultimate-geno-hat-outfit.json) |
 | Super Smash Bros. Ultimate: Geralt of Rivia Moveset | 394594 | [394594-super-smash-bros-ultimate-geralt-of-rivia-moveset.json](./394594-super-smash-bros-ultimate-geralt-of-rivia-moveset.json) |
 | Super Smash Bros. Ultimate: Gil's Armor and Helmet | 306452 | [306452-super-smash-bros-ultimate-gils-armor-and-helmet.json](./306452-super-smash-bros-ultimate-gils-armor-and-helmet.json) |
@@ -33876,6 +33877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords and Sandals I: Gladiator | 259783 | [259783-swords-and-sandals-i-gladiator.json](./259783-swords-and-sandals-i-gladiator.json) |
 | Swords and Sandals II | 58874 | [58874-swords-and-sandals-ii.json](./58874-swords-and-sandals-ii.json) |
 | Swords and Sandals III | 192892 | [192892-swords-and-sandals-iii.json](./192892-swords-and-sandals-iii.json) |
+| Swords and Sandals III Redux | 374559 | [374559-swords-and-sandals-iii-redux.json](./374559-swords-and-sandals-iii-redux.json) |
 | Swords and Sandals IV: Tavern Quests | 180102 | [180102-swords-and-sandals-iv-tavern-quests.json](./180102-swords-and-sandals-iv-tavern-quests.json) |
 | Swords and Sandals Medieval | 67933 | [67933-swords-and-sandals-medieval.json](./67933-swords-and-sandals-medieval.json) |
 | Swords and Sandals Pirates | 112729 | [112729-swords-and-sandals-pirates.json](./112729-swords-and-sandals-pirates.json) |
