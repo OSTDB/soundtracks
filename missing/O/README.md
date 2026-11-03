@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obey the Voice | 386276 | [386276-obey-the-voice.json](./386276-obey-the-voice.json) |
 | Obey Your Pirate Queen! | 282655 | [282655-obey-your-pirate-queen.json](./282655-obey-your-pirate-queen.json) |
 | Obey! The Game | 251705 | [251705-obey-the-game.json](./251705-obey-the-game.json) |
+| ObeyE | 376000 | [376000-obeye.json](./376000-obeye.json) |
 | Obgob | 349739 | [349739-obgob.json](./349739-obgob.json) |
 | Obgoose | 183866 | [183866-obgoose.json](./183866-obgoose.json) |
 | Obi3011 | 309901 | [309901-obi3011.json](./309901-obi3011.json) |
@@ -1141,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Ship! | 399593 | [399593-oh-ship.json](./399593-oh-ship.json) |
 | Oh Shit Boulder | 211691 | [211691-oh-shit-boulder.json](./211691-oh-shit-boulder.json) |
 | Oh Shit! | 70242 | [70242-oh-shit.json](./70242-oh-shit.json) |
+| Oh Silent Night | 376164 | [376164-oh-silent-night.json](./376164-oh-silent-night.json) |
 | Oh Snake! | 182780 | [182780-oh-snake.json](./182780-oh-snake.json) |
 | Oh Snap | 92086 | [92086-oh-snap.json](./92086-oh-snap.json) |
 | Oh Snow! | 408051 | [408051-oh-snow.json](./408051-oh-snow.json) |
@@ -1357,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ol' No Name | 273734 | [273734-ol-no-name.json](./273734-ol-no-name.json) |
 | Ola! Borijin Hore Yuke! Brazil | 291707 | [291707-ola-borijin-hore-yuke-brazil.json](./291707-ola-borijin-hore-yuke-brazil.json) |
 | Olaf and the Crowning Hangover | 326125 | [326125-olaf-and-the-crowning-hangover.json](./326125-olaf-and-the-crowning-hangover.json) |
+| Olaf's Demise | 376169 | [376169-olafs-demise.json](./376169-olafs-demise.json) |
 | Olaguna Chronicles | 128372 | [128372-olaguna-chronicles.json](./128372-olaguna-chronicles.json) |
 | Olav & the Lute | 131996 | [131996-olav-and-the-lute.json](./131996-olav-and-the-lute.json) |
 | Olav: the story of one boy | 28427 | [28427-olav-the-story-of-one-boy.json](./28427-olav-the-story-of-one-boy.json) |
