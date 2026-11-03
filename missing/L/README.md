@@ -3295,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Len'en Tasouken: Earthen Miraculous Sword | 125796 | [125796-lenen-tasouken-earthen-miraculous-sword.json](./125796-lenen-tasouken-earthen-miraculous-sword.json) |
 | Len'en Ten'eisenki: Brilliant Pagoda or Haze Castle | 125794 | [125794-lenen-teneisenki-brilliant-pagoda-or-haze-castle.json](./125794-lenen-teneisenki-brilliant-pagoda-or-haze-castle.json) |
 | Lendarios: Limits Breakers 1 | 393450 | [393450-lendarios-limits-breakers-1.json](./393450-lendarios-limits-breakers-1.json) |
+| Lendas da Amazônia | 381287 | [381287-lendas-da-amazonia.json](./381287-lendas-da-amazonia.json) |
 | Lendas do Pebol: Mythic Football | 231180 | [231180-lendas-do-pebol-mythic-football.json](./231180-lendas-do-pebol-mythic-football.json) |
 | Lendele | 182744 | [182744-lendele.json](./182744-lendele.json) |
 | Lěngxiě Zhèng Shǎizǐ | 157365 | [157365-lengxie-zheng-shaizi.json](./157365-lengxie-zheng-shaizi.json) |
@@ -8123,6 +8124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love & Dehumanization | 254094 | [254094-love-and-dehumanization.json](./254094-love-and-dehumanization.json) |
 | Love & Destroy | 63368 | [63368-love-and-destroy.json](./63368-love-and-destroy.json) |
 | Love & Diaries: Duncan | 299421 | [299421-love-and-diaries-duncan.json](./299421-love-and-diaries-duncan.json) |
+| Love & Fool's Gold | 381157 | [381157-love-and-fools-gold.json](./381157-love-and-fools-gold.json) |
 | Love & Friendship | 177347 | [177347-love-and-friendship.json](./177347-love-and-friendship.json) |
 | Love & Hip Hop the Game | 57752 | [57752-love-and-hip-hop-the-game.json](./57752-love-and-hip-hop-the-game.json) |
 | Love & Knights Solitaire | 336987 | [336987-love-and-knights-solitaire.json](./336987-love-and-knights-solitaire.json) |
