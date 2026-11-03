@@ -11645,6 +11645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindshadow | 338126 | [338126-mindshadow.json](./338126-mindshadow.json) |
 | Mindshadow | 338140 | [338140-mindshadow.json](./338140-mindshadow.json) |
 | Mindshow | 75145 | [75145-mindshow.json](./75145-mindshow.json) |
+| Mindsight | 350875 | [350875-mindsight.json](./350875-mindsight.json) |
 | MindStorm | 47861 | [47861-mindstorm.json](./47861-mindstorm.json) |
 | MindStorm 2 | 123357 | [123357-mindstorm-2.json](./123357-mindstorm-2.json) |
 | MindSweeper | 194773 | [194773-mindsweeper.json](./194773-mindsweeper.json) |
