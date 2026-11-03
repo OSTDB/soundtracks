@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YouFight | 74921 | [74921-youfight.json](./74921-youfight.json) |
 | Yougekitai: Jashin Koumaroku | 240216 | [240216-yougekitai-jashin-koumaroku.json](./240216-yougekitai-jashin-koumaroku.json) |
 | Yougen | 216807 | [216807-yougen.json](./216807-yougen.json) |
+| Youhou no Salete | 360861 | [360861-youhou-no-salete.json](./360861-youhou-no-salete.json) |
 | Youjuu Kikou-hei WerDragon | 268900 | [268900-youjuu-kikou-hei-werdragon.json](./268900-youjuu-kikou-hei-werdragon.json) |
 | Youka and Her Summer | 285364 | [285364-youka-and-her-summer.json](./285364-youka-and-her-summer.json) |
 | Youka no Sono | 221050 | [221050-youka-no-sono.json](./221050-youka-no-sono.json) |
