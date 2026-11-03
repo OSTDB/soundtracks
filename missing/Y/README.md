@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yabai Girls: Graceful Girlfriend | 345983 | [345983-yabai-girls-graceful-girlfriend.json](./345983-yabai-girls-graceful-girlfriend.json) |
 | Yabai Girls: Heavenly Homemaker | 385065 | [385065-yabai-girls-heavenly-homemaker.json](./385065-yabai-girls-heavenly-homemaker.json) |
 | Yabai Girls: Hot Hiker | 365549 | [365549-yabai-girls-hot-hiker.json](./365549-yabai-girls-hot-hiker.json) |
+| Yabai Girls: Saucy Police | 353590 | [353590-yabai-girls-saucy-police.json](./353590-yabai-girls-saucy-police.json) |
 | Yabai Girls: Valentine Babe | 390508 | [390508-yabai-girls-valentine-babe.json](./390508-yabai-girls-valentine-babe.json) |
 | Yabai Mantis VR | 155838 | [155838-yabai-mantis-vr.json](./155838-yabai-mantis-vr.json) |
 | Yabai Otoko ni Nanpa Sareru Game | 347737 | [347737-yabai-otoko-ni-nanpa-sareru-game.json](./347737-yabai-otoko-ni-nanpa-sareru-game.json) |
