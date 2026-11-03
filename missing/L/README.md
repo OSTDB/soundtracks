@@ -7319,6 +7319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord Legend: Match Brawl | 196585 | [196585-lord-legend-match-brawl.json](./196585-lord-legend-match-brawl.json) |
 | Lord Liberty Quest II: Pure White | 416022 | [416022-lord-liberty-quest-ii-pure-white.json](./416022-lord-liberty-quest-ii-pure-white.json) |
 | Lord Mayor | 32376 | [32376-lord-mayor.json](./32376-lord-mayor.json) |
+| Lord Monarch | 356968 | [356968-lord-monarch.json](./356968-lord-monarch.json) |
 | Lord Monarch | 37941 | [37941-lord-monarch.json](./37941-lord-monarch.json) |
 | Lord Monarch First | 130550 | [130550-lord-monarch-first.json](./130550-lord-monarch-first.json) |
 | Lord Monarch Online | 130552 | [130552-lord-monarch-online.json](./130552-lord-monarch-online.json) |
