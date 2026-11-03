@@ -3322,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Unknown. | 95998 | [95998-scp-unknown.json](./95998-scp-unknown.json) |
 | SCP: Vacation | 191617 | [191617-scp-vacation.json](./191617-scp-vacation.json) |
 | SCP: Valravn | 280174 | [280174-scp-valravn.json](./280174-scp-valravn.json) |
+| SCP: Yet Another Day | 349187 | [349187-scp-yet-another-day.json](./349187-scp-yet-another-day.json) |
 | Scrabble | 131524 | [131524-scrabble.json](./131524-scrabble.json) |
 | Scrabble | 199433 | [199433-scrabble.json](./199433-scrabble.json) |
 | Scrabble | 270238 | [270238-scrabble.json](./270238-scrabble.json) |
@@ -9537,6 +9538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization V: Explorer's Map Pack | 164398 | [164398-sid-meiers-civilization-v-explorers-map-pack.json](./164398-sid-meiers-civilization-v-explorers-map-pack.json) |
 | Sid Meier's Civilization V: Gods & Kings | 3271 | [3271-sid-meiers-civilization-v-gods-and-kings.json](./3271-sid-meiers-civilization-v-gods-and-kings.json) |
 | Sid Meier's Civilization V: Gold Edition | 50880 | [50880-sid-meiers-civilization-v-gold-edition.json](./50880-sid-meiers-civilization-v-gold-edition.json) |
+| Sid Meier's Civilization V: Scenario Pack - Conquest of the New World Deluxe | 349021 | [349021-sid-meiers-civilization-v-scenario-pack-conquest-of-the-new-world-deluxe.json](./349021-sid-meiers-civilization-v-scenario-pack-conquest-of-the-new-world-deluxe.json) |
 | Sid Meier's Civilization V: Scenario Pack - Wonders of the Ancient World | 164388 | [164388-sid-meiers-civilization-v-scenario-pack-wonders-of-the-ancient-world.json](./164388-sid-meiers-civilization-v-scenario-pack-wonders-of-the-ancient-world.json) |
 | Sid Meier's Civilization V: Scrambled Nations Map Pack | 164390 | [164390-sid-meiers-civilization-v-scrambled-nations-map-pack.json](./164390-sid-meiers-civilization-v-scrambled-nations-map-pack.json) |
 | Sid Meier's Civilization VI Anthology | 153047 | [153047-sid-meiers-civilization-vi-anthology.json](./153047-sid-meiers-civilization-vi-anthology.json) |
@@ -9850,6 +9852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Decay | 58715 | [58715-signal-decay.json](./58715-signal-decay.json) |
 | Signal Garden | 400311 | [400311-signal-garden.json](./400311-signal-garden.json) |
 | Signal Hill | 390655 | [390655-signal-hill.json](./390655-signal-hill.json) |
+| Signal Intentions | 349077 | [349077-signal-intentions.json](./349077-signal-intentions.json) |
 | Signal Lost | 178224 | [178224-signal-lost.json](./178224-signal-lost.json) |
 | Signal Lost | 236689 | [236689-signal-lost.json](./236689-signal-lost.json) |
 | Signal Lost | 327358 | [327358-signal-lost.json](./327358-signal-lost.json) |
@@ -13372,6 +13375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slots Ancient | 232572 | [232572-slots-ancient.json](./232572-slots-ancient.json) |
 | Slots Casino Game | 267493 | [267493-slots-casino-game.json](./267493-slots-casino-game.json) |
 | Slots Frenzy | 232359 | [232359-slots-frenzy.json](./232359-slots-frenzy.json) |
+| Slots Man | 349023 | [349023-slots-man.json](./349023-slots-man.json) |
 | Slots of Poker at Aces Casino | 147974 | [147974-slots-of-poker-at-aces-casino.json](./147974-slots-of-poker-at-aces-casino.json) |
 | Slots of the Season | 147975 | [147975-slots-of-the-season.json](./147975-slots-of-the-season.json) |
 | Slots Royale: 777 Casino Games | 231072 | [231072-slots-royale-777-casino-games.json](./231072-slots-royale-777-casino-games.json) |
@@ -16394,6 +16398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of the Mystics | 175218 | [175218-songs-of-the-mystics.json](./175218-songs-of-the-mystics.json) |
 | Songs of Travel | 298961 | [298961-songs-of-travel.json](./298961-songs-of-travel.json) |
 | Songs of Wuxia | 129448 | [129448-songs-of-wuxia.json](./129448-songs-of-wuxia.json) |
+| Songs of Yummy | 349040 | [349040-songs-of-yummy.json](./349040-songs-of-yummy.json) |
 | Songs2See Game | 90553 | [90553-songs2see-game.json](./90553-songs2see-game.json) |
 | Songtail: Whiskers of Destiny | 389740 | [389740-songtail-whiskers-of-destiny.json](./389740-songtail-whiskers-of-destiny.json) |
 | Sonia and the Hypnotic City | 150420 | [150420-sonia-and-the-hypnotic-city.json](./150420-sonia-and-the-hypnotic-city.json) |
@@ -22469,6 +22474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel Bobble | 246392 | [246392-squirrel-bobble.json](./246392-squirrel-bobble.json) |
 | Squirrel Day | 278693 | [278693-squirrel-day.json](./278693-squirrel-day.json) |
 | Squirrel Divorce | 157409 | [157409-squirrel-divorce.json](./157409-squirrel-divorce.json) |
+| Squirrel Horse | 349190 | [349190-squirrel-horse.json](./349190-squirrel-horse.json) |
 | Squirrel Jump | 122165 | [122165-squirrel-jump.json](./122165-squirrel-jump.json) |
 | Squirrel Jump: Forest Pathway | 280367 | [280367-squirrel-jump-forest-pathway.json](./280367-squirrel-jump-forest-pathway.json) |
 | Squirrel King | 45703 | [45703-squirrel-king.json](./45703-squirrel-king.json) |
