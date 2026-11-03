@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Arena | 385924 | [385924-samurai-arena.json](./385924-samurai-arena.json) |
 | Samurai Bamboo | 120290 | [120290-samurai-bamboo.json](./120290-samurai-bamboo.json) |
 | Samurai Beat | 253866 | [253866-samurai-beat.json](./253866-samurai-beat.json) |
+| Samurai Beat Demon | 365971 | [365971-samurai-beat-demon.json](./365971-samurai-beat-demon.json) |
 | Samurai Blade | 237671 | [237671-samurai-blade.json](./237671-samurai-blade.json) |
 | Samurai Blitz | 130573 | [130573-samurai-blitz.json](./130573-samurai-blitz.json) |
 | Samurai Bloodshow | 92500 | [92500-samurai-bloodshow.json](./92500-samurai-bloodshow.json) |
@@ -4209,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Wave | 242250 | [242250-second-wave.json](./242250-second-wave.json) |
 | Second Wind | 390123 | [390123-second-wind.json](./390123-second-wind.json) |
 | Second Wing | 183916 | [183916-second-wing.json](./183916-second-wing.json) |
+| Second Works | 365940 | [365940-second-works.json](./365940-second-works.json) |
 | Second World | 192254 | [192254-second-world.json](./192254-second-world.json) |
 | Second World War | 257777 | [257777-second-world-war.json](./257777-second-world-war.json) |
 | Second World: Air War S | 113002 | [113002-second-world-air-war-s.json](./113002-second-world-air-war-s.json) |
@@ -7052,6 +7054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapes of Gray | 34559 | [34559-shapes-of-gray.json](./34559-shapes-of-gray.json) |
 | Shapes of Memory: Jigsaw Puzzle | 392260 | [392260-shapes-of-memory-jigsaw-puzzle.json](./392260-shapes-of-memory-jigsaw-puzzle.json) |
 | Shapes on the Run | 108479 | [108479-shapes-on-the-run.json](./108479-shapes-on-the-run.json) |
+| Shapes Trader | 365953 | [365953-shapes-trader.json](./365953-shapes-trader.json) |
 | Shapes! Toddler Kids Games,Baby Boys Learning Free | 86806 | [86806-shapes-toddler-kids-games-baby-boys-learning-free.json](./86806-shapes-toddler-kids-games-baby-boys-learning-free.json) |
 | Shapes2 | 54478 | [54478-shapes2.json](./54478-shapes2.json) |
 | Shapes3 | 54477 | [54477-shapes3.json](./54477-shapes3.json) |
@@ -9130,6 +9133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek 2: Beg for Mercy! | 49223 | [49223-shrek-2-beg-for-mercy.json](./49223-shrek-2-beg-for-mercy.json) |
 | Shrek 2: Castle Run | 230273 | [230273-shrek-2-castle-run.json](./230273-shrek-2-castle-run.json) |
 | Shrek 2: Ogre Bowler | 208995 | [208995-shrek-2-ogre-bowler.json](./208995-shrek-2-ogre-bowler.json) |
+| Shrek 2: The Adventure of Puss in Boots | 365950 | [365950-shrek-2-the-adventure-of-puss-in-boots.json](./365950-shrek-2-the-adventure-of-puss-in-boots.json) |
 | Shrek Extra Large | 3675 | [3675-shrek-extra-large.json](./3675-shrek-extra-large.json) |
 | Shrek Forever After | 210458 | [210458-shrek-forever-after.json](./210458-shrek-forever-after.json) |
 | Shrek Forever After | 243271 | [243271-shrek-forever-after.json](./243271-shrek-forever-after.json) |
@@ -18678,6 +18682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27917,6 +27922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sucker Punch | 257302 | [257302-sucker-punch.json](./257302-sucker-punch.json) |
 | Sucker Punch 2 | 261460 | [261460-sucker-punch-2.json](./261460-sucker-punch-2.json) |
 | Sucker Punch Mech Gunner | 59357 | [59357-sucker-punch-mech-gunner.json](./59357-sucker-punch-mech-gunner.json) |
+| Sucky Safari | 365956 | [365956-sucky-safari.json](./365956-sucky-safari.json) |
 | Sucre: Sweet and Charming Time for You | 396945 | [396945-sucre-sweet-and-charming-time-for-you.json](./396945-sucre-sweet-and-charming-time-for-you.json) |
 | Sucronomicon | 414171 | [414171-sucronomicon.json](./414171-sucronomicon.json) |
 | Suction Bot | 390278 | [390278-suction-bot.json](./390278-suction-bot.json) |
@@ -29332,6 +29338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cloudbuilt | 27396 | [27396-super-cloudbuilt.json](./27396-super-cloudbuilt.json) |
 | Super Clown 3: Revenge | 223179 | [223179-super-clown-3-revenge.json](./223179-super-clown-3-revenge.json) |
 | Super Clown Puzzles | 412996 | [412996-super-clown-puzzles.json](./412996-super-clown-puzzles.json) |
+| Super Clown Ultimatum | 365930 | [365930-super-clown-ultimatum.json](./365930-super-clown-ultimatum.json) |
 | Super Clown: Lost Diamonds | 190445 | [190445-super-clown-lost-diamonds.json](./190445-super-clown-lost-diamonds.json) |
 | Super Club Soccer | 110018 | [110018-super-club-soccer.json](./110018-super-club-soccer.json) |
 | Super Club Tennis | 147857 | [147857-super-club-tennis.json](./147857-super-club-tennis.json) |
