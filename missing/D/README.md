@@ -2820,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daybringer | 133058 | [133058-daybringer.json](./133058-daybringer.json) |
 | Daycare Descent | 256909 | [256909-daycare-descent.json](./256909-daycare-descent.json) |
 | Daycare Dungeon | 324947 | [324947-daycare-dungeon.json](./324947-daycare-dungeon.json) |
+| Daycare Of Happy Children | 380583 | [380583-daycare-of-happy-children.json](./380583-daycare-of-happy-children.json) |
 | DayD Time Mayhem TD | 101195 | [101195-dayd-time-mayhem-td.json](./101195-dayd-time-mayhem-td.json) |
 | DayD: Through Time | 105300 | [105300-dayd-through-time.json](./105300-dayd-through-time.json) |
 | Daydam Knight | 295794 | [295794-daydam-knight.json](./295794-daydam-knight.json) |
@@ -5288,6 +5289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
 | Defaced | 236312 | [236312-defaced.json](./236312-defaced.json) |
 | Defaction | 178537 | [178537-defaction.json](./178537-defaction.json) |
+| Default Unreal Physics and Assets AKA DUPA Project | 380367 | [380367-default-unreal-physics-and-assets-aka-dupa-project.json](./380367-default-unreal-physics-and-assets-aka-dupa-project.json) |
 | Defcom | 13586 | [13586-defcom.json](./13586-defcom.json) |
 | Defcom 1 | 13584 | [13584-defcom-1.json](./13584-defcom-1.json) |
 | DEFCON | 2592 | [2592-defcon.json](./2592-defcon.json) |
@@ -5471,6 +5473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Grid: The Awakening - You Monster DLC | 164418 | [164418-defense-grid-the-awakening-you-monster-dlc.json](./164418-defense-grid-the-awakening-you-monster-dlc.json) |
 | Defense High | 143925 | [143925-defense-high.json](./143925-defense-high.json) |
 | Defense Keeper | 24020 | [24020-defense-keeper.json](./24020-defense-keeper.json) |
+| Defense Legend 5: Survivor TD | 380366 | [380366-defense-legend-5-survivor-td.json](./380366-defense-legend-5-survivor-td.json) |
 | Defense Master | 284486 | [284486-defense-master.json](./284486-defense-master.json) |
 | Defense of Castle Chilly | 31445 | [31445-defense-of-castle-chilly.json](./31445-defense-of-castle-chilly.json) |
 | Defense of Egypt: Cleopatra Mission | 31097 | [31097-defense-of-egypt-cleopatra-mission.json](./31097-defense-of-egypt-cleopatra-mission.json) |
@@ -15314,6 +15317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamCatcher: Reflections - Volume 1 | 154972 | [154972-dreamcatcher-reflections-volume-1.json](./154972-dreamcatcher-reflections-volume-1.json) |
 | DreamCell: Lost in Nightmares | 211601 | [211601-dreamcell-lost-in-nightmares.json](./211601-dreamcell-lost-in-nightmares.json) |
 | Dreamcore: Playrooms | 347846 | [347846-dreamcore-playrooms.json](./347846-dreamcore-playrooms.json) |
+| Dreamcore: Rabbit Hole | 380371 | [380371-dreamcore-rabbit-hole.json](./380371-dreamcore-rabbit-hole.json) |
 | Dreamcore95 Idle | 322138 | [322138-dreamcore95-idle.json](./322138-dreamcore95-idle.json) |
 | Dreamcutter | 224329 | [224329-dreamcutter.json](./224329-dreamcutter.json) |
 | Dreamcutter: Steelbook Limited Edition | 300476 | [300476-dreamcutter-steelbook-limited-edition.json](./300476-dreamcutter-steelbook-limited-edition.json) |
@@ -16701,6 +16705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Due Process | 60900 | [60900-due-process.json](./60900-due-process.json) |
 | Due to Rain | 309343 | [309343-due-to-rain.json](./309343-due-to-rain.json) |
 | Duel | 181915 | [181915-duel.json](./181915-duel.json) |
+| Duel | 380365 | [380365-duel.json](./380365-duel.json) |
 | Duel | 385542 | [385542-duel.json](./385542-duel.json) |
 | Duel | 74207 | [74207-duel.json](./74207-duel.json) |
 | Duel Arms | 100744 | [100744-duel-arms.json](./100744-duel-arms.json) |
@@ -18031,6 +18036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duty Calls | 80555 | [80555-duty-calls.json](./80555-duty-calls.json) |
 | Duty First | 317095 | [317095-duty-first.json](./317095-duty-first.json) |
 | Duty Free Shop Simulator | 373099 | [373099-duty-free-shop-simulator.json](./373099-duty-free-shop-simulator.json) |
+| Duty: Lost Arcadia | 380591 | [380591-duty-lost-arcadia.json](./380591-duty-lost-arcadia.json) |
 | Dux | 68409 | [68409-dux.json](./68409-dux.json) |
 | Dvalloc | 258533 | [258533-dvalloc.json](./258533-dvalloc.json) |
 | DVD Dancemachine DVT-F800 | 245697 | [245697-dvd-dancemachine-dvt-f800.json](./245697-dvd-dancemachine-dvt-f800.json) |
