@@ -932,7 +932,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1369,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldy Dash | 314681 | [314681-baldy-dash.json](./314681-baldy-dash.json) |
 | Baldy Land | 45420 | [45420-baldy-land.json](./45420-baldy-land.json) |
 | Balefire Blues | 410201 | [410201-balefire-blues.json](./410201-balefire-blues.json) |
+| Balefire: Ashes To Ashes | 360285 | [360285-balefire-ashes-to-ashes.json](./360285-balefire-ashes-to-ashes.json) |
 | Bales of Amber | 206732 | [206732-bales-of-amber.json](./206732-bales-of-amber.json) |
 | Bali Adventure | 25519 | [25519-bali-adventure.json](./25519-bali-adventure.json) |
 | Balikaw | 390132 | [390132-balikaw.json](./390132-balikaw.json) |
@@ -9931,6 +9931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobz | 14320 | [14320-blobz.json](./14320-blobz.json) |
 | Bloc | 94860 | [94860-bloc.json](./94860-bloc.json) |
 | Bloc-Age: Path of the Oracle | 259124 | [259124-bloc-age-path-of-the-oracle.json](./259124-bloc-age-path-of-the-oracle.json) |
+| Blocate | 360302 | [360302-blocate.json](./360302-blocate.json) |
 | Blocco | 94466 | [94466-blocco.json](./94466-blocco.json) |
 | Blochead | 78963 | [78963-blochead.json](./78963-blochead.json) |
 | Block | 120081 | [120081-block.json](./120081-block.json) |
@@ -17048,6 +17049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnin' Rubber 5 HD | 82533 | [82533-burnin-rubber-5-hd.json](./82533-burnin-rubber-5-hd.json) |
 | Burnin' Rubber 5 XS | 172646 | [172646-burnin-rubber-5-xs.json](./172646-burnin-rubber-5-xs.json) |
 | Burnin' Rubber 6 | 320749 | [320749-burnin-rubber-6.json](./320749-burnin-rubber-6.json) |
+| Burnin' Rubber Crash n' Burn | 360304 | [360304-burnin-rubber-crash-n-burn.json](./360304-burnin-rubber-crash-n-burn.json) |
 | Burnin' Rubber Shift | 237965 | [237965-burnin-rubber-shift.json](./237965-burnin-rubber-shift.json) |
 | Burninate the Barnyard | 231613 | [231613-burninate-the-barnyard.json](./231613-burninate-the-barnyard.json) |
 | Burning Angels | 266889 | [266889-burning-angels.json](./266889-burning-angels.json) |
