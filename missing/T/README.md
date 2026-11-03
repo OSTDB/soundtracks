@@ -8705,6 +8705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exit Project: Backstreets | 319939 | [319939-the-exit-project-backstreets.json](./319939-the-exit-project-backstreets.json) |
 | The Exit Strategy | 377346 | [377346-the-exit-strategy.json](./377346-the-exit-strategy.json) |
 | The Exit: Liminal Anomaly Horror | 332345 | [332345-the-exit-liminal-anomaly-horror.json](./332345-the-exit-liminal-anomaly-horror.json) |
+| The Exit: Liminal Supermarket Horror | 356983 | [356983-the-exit-liminal-supermarket-horror.json](./356983-the-exit-liminal-supermarket-horror.json) |
 | The Exodus | 188839 | [188839-the-exodus.json](./188839-the-exodus.json) |
 | The Exomachinist | 153930 | [153930-the-exomachinist.json](./153930-the-exomachinist.json) |
 | The Exorcist | 117425 | [117425-the-exorcist.json](./117425-the-exorcist.json) |
@@ -11082,6 +11083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Key to Home | 75948 | [75948-the-key-to-home.json](./75948-the-key-to-home.json) |
 | The Keyboard | 264029 | [264029-the-keyboard.json](./264029-the-keyboard.json) |
 | The Keys to Maramon | 12654 | [12654-the-keys-to-maramon.json](./12654-the-keys-to-maramon.json) |
+| The Keys to the Imagination | 356965 | [356965-the-keys-to-the-imagination.json](./356965-the-keys-to-the-imagination.json) |
 | The Kharzov Effect | 322134 | [322134-the-kharzov-effect.json](./322134-the-kharzov-effect.json) |
 | The Kids Puzzle | 85922 | [85922-the-kids-puzzle.json](./85922-the-kids-puzzle.json) |
 | The Kids We Were | 148238 | [148238-the-kids-we-were.json](./148238-the-kids-we-were.json) |
@@ -11431,6 +11433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Cat in the Universe | 388671 | [388671-the-last-cat-in-the-universe.json](./388671-the-last-cat-in-the-universe.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
 | The Last Cell | 181020 | [181020-the-last-cell.json](./181020-the-last-cell.json) |
+| The Last Chance | 357116 | [357116-the-last-chance.json](./357116-the-last-chance.json) |
 | The Last Chapter of Man | 62055 | [62055-the-last-chapter-of-man.json](./62055-the-last-chapter-of-man.json) |
 | The Last Child | 289998 | [289998-the-last-child.json](./289998-the-last-child.json) |
 | The Last Chronomancer | 146352 | [146352-the-last-chronomancer.json](./146352-the-last-chronomancer.json) |
@@ -19384,6 +19387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Days | 306209 | [306209-those-days.json](./306209-those-days.json) |
 | Those Dirty Colonists | 179527 | [179527-those-dirty-colonists.json](./179527-those-dirty-colonists.json) |
 | Those Funny Funguloids! | 70049 | [70049-those-funny-funguloids.json](./70049-those-funny-funguloids.json) |
+| Those I hate 1 | 356984 | [356984-those-i-hate-1.json](./356984-those-i-hate-1.json) |
 | Those Infernal Girls! | 225744 | [225744-those-infernal-girls.json](./225744-those-infernal-girls.json) |
 | Those Left Behind | 212854 | [212854-those-left-behind.json](./212854-those-left-behind.json) |
 | Those Nights at Fredbear's | 209295 | [209295-those-nights-at-fredbears.json](./209295-those-nights-at-fredbears.json) |
@@ -22813,6 +22817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titeuf | 169133 | [169133-titeuf.json](./169133-titeuf.json) |
 | Titeuf: Le Film | 268430 | [268430-titeuf-le-film.json](./268430-titeuf-le-film.json) |
 | Titeuf: Méga-Compet' | 46494 | [46494-titeuf-mega-compet.json](./46494-titeuf-mega-compet.json) |
+| Titi Drop | 356966 | [356966-titi-drop.json](./356966-titi-drop.json) |
 | Titjob Battle | 83363 | [83363-titjob-battle.json](./83363-titjob-battle.json) |
 | Title Fight | 78404 | [78404-title-fight.json](./78404-title-fight.json) |
 | Title Fight Pro Boxing for Windows | 94548 | [94548-title-fight-pro-boxing-for-windows.json](./94548-title-fight-pro-boxing-for-windows.json) |
@@ -28975,6 +28980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Tech | 140468 | [140468-treasure-tech.json](./140468-treasure-tech.json) |
 | Treasure Temples | 188792 | [188792-treasure-temples.json](./188792-treasure-temples.json) |
 | Treasure Tides | 402050 | [402050-treasure-tides.json](./402050-treasure-tides.json) |
+| Treasure Tiger | 356956 | [356956-treasure-tiger.json](./356956-treasure-tiger.json) |
 | Treasure Tile | 157441 | [157441-treasure-tile.json](./157441-treasure-tile.json) |
 | Treasure Tomb VR | 153375 | [153375-treasure-tomb-vr.json](./153375-treasure-tomb-vr.json) |
 | Treasure Tombs: Ra Deal | 250487 | [250487-treasure-tombs-ra-deal.json](./250487-treasure-tombs-ra-deal.json) |
