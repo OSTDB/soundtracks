@@ -10222,6 +10222,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SIM Day and Night Trilogy | 388676 | [388676-sim-day-and-night-trilogy.json](./388676-sim-day-and-night-trilogy.json) |
 | SIM Dispatcher | 140311 | [140311-sim-dispatcher.json](./140311-sim-dispatcher.json) |
 | Sim Empire | 116820 | [116820-sim-empire.json](./116820-sim-empire.json) |
+| Sim Hospital | 376147 | [376147-sim-hospital.json](./376147-sim-hospital.json) |
+| Sim Hospital: Emergency Rescue | 376148 | [376148-sim-hospital-emergency-rescue.json](./376148-sim-hospital-emergency-rescue.json) |
 | Sim Junta | 34748 | [34748-sim-junta.json](./34748-sim-junta.json) |
 | Sim Settlements 2 | 298970 | [298970-sim-settlements-2.json](./298970-sim-settlements-2.json) |
 | Sim Solver | 309928 | [309928-sim-solver.json](./309928-sim-solver.json) |
@@ -14457,6 +14459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite: Nazi Zombie Army | 7637 | [7637-sniper-elite-nazi-zombie-army.json](./7637-sniper-elite-nazi-zombie-army.json) |
 | Sniper Elite: Nazi Zombie Army 2 | 10877 | [10877-sniper-elite-nazi-zombie-army-2.json](./10877-sniper-elite-nazi-zombie-army-2.json) |
 | Sniper Elite: Resistance | 314238 | [314238-sniper-elite-resistance.json](./314238-sniper-elite-resistance.json) |
+| Sniper Elite: Resistance - Commando Weapon Pack | 375751 | [375751-sniper-elite-resistance-commando-weapon-pack.json](./375751-sniper-elite-resistance-commando-weapon-pack.json) |
 | Sniper Fodder | 103815 | [103815-sniper-fodder.json](./103815-sniper-fodder.json) |
 | Sniper Fury | 20356 | [20356-sniper-fury.json](./20356-sniper-fury.json) |
 | Sniper Game | 195893 | [195893-sniper-game.json](./195893-sniper-game.json) |
@@ -17876,6 +17879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulstation | 402447 | [402447-soulstation.json](./402447-soulstation.json) |
 | Soulstice | 152262 | [152262-soulstice.json](./152262-soulstice.json) |
 | Soulstice: Deluxe Edition | 201781 | [201781-soulstice-deluxe-edition.json](./201781-soulstice-deluxe-edition.json) |
+| Soulstone Survivors: Supporter Pack | 376150 | [376150-soulstone-survivors-supporter-pack.json](./376150-soulstone-survivors-supporter-pack.json) |
 | Soulstonia | 415792 | [415792-soulstonia.json](./415792-soulstonia.json) |
 | Soulstopia: Phi | 173212 | [173212-soulstopia-phi.json](./173212-soulstopia-phi.json) |
 | SoulStream Saga | 393438 | [393438-soulstream-saga.json](./393438-soulstream-saga.json) |
@@ -18620,7 +18624,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22420,6 +22423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Columns | 63129 | [63129-stack-columns.json](./63129-stack-columns.json) |
 | Stack Dango | 108734 | [108734-stack-dango.json](./108734-stack-dango.json) |
 | Stack Defense | 156906 | [156906-stack-defense.json](./156906-stack-defense.json) |
+| Stack Em | 375753 | [375753-stack-em.json](./375753-stack-em.json) |
 | Stack Gun Heroes | 59298 | [59298-stack-gun-heroes.json](./59298-stack-gun-heroes.json) |
 | Stack Haven | 389940 | [389940-stack-haven.json](./389940-stack-haven.json) |
 | Stack It | 216749 | [216749-stack-it.json](./216749-stack-it.json) |
@@ -33379,6 +33383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetie Candy Maze: Violet Plum | 406218 | [406218-sweetie-candy-maze-violet-plum.json](./406218-sweetie-candy-maze-violet-plum.json) |
 | Sweetie Candy Maze: White Chocolate | 392855 | [392855-sweetie-candy-maze-white-chocolate.json](./392855-sweetie-candy-maze-white-chocolate.json) |
 | Sweetopia | 207023 | [207023-sweetopia.json](./207023-sweetopia.json) |
+| Sweetoria Land | 375777 | [375777-sweetoria-land.json](./375777-sweetoria-land.json) |
 | SweetPea Village | 177894 | [177894-sweetpea-village.json](./177894-sweetpea-village.json) |
 | Sweets and Swipes | 259555 | [259555-sweets-and-swipes.json](./259555-sweets-and-swipes.json) |
 | Sweets Drop | 283721 | [283721-sweets-drop.json](./283721-sweets-drop.json) |
