@@ -10776,6 +10776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodpath | 329922 | [329922-bloodpath.json](./329922-bloodpath.json) |
 | Bloodpire | 216744 | [216744-bloodpire.json](./216744-bloodpire.json) |
 | Bloodplague Lockdown | 373721 | [373721-bloodplague-lockdown.json](./373721-bloodplague-lockdown.json) |
+| Bloodpunished: No Time Por Patience | 351373 | [351373-bloodpunished-no-time-por-patience.json](./351373-bloodpunished-no-time-por-patience.json) |
 | BloodRayne | 1015 | [1015-bloodrayne.json](./1015-bloodrayne.json) |
 | BloodRayne 2 | 1016 | [1016-bloodrayne-2.json](./1016-bloodrayne-2.json) |
 | BloodRayne Absolute Bundle | 186537 | [186537-bloodrayne-absolute-bundle.json](./186537-bloodrayne-absolute-bundle.json) |
@@ -15185,6 +15186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brixity | 188331 | [188331-brixity.json](./188331-brixity.json) |
 | Brixout XP | 92788 | [92788-brixout-xp.json](./92788-brixout-xp.json) |
 | Brköut | 56602 | [56602-brkout.json](./56602-brkout.json) |
+| Brno Transit | 351502 | [351502-brno-transit.json](./351502-brno-transit.json) |
 | Bro YuanShen Survivors | 292481 | [292481-bro-yuanshen-survivors.json](./292481-bro-yuanshen-survivors.json) |
 | Bro, Where's My Head? | 151445 | [151445-bro-wheres-my-head.json](./151445-bro-wheres-my-head.json) |
 | Broad City High Score | 99352 | [99352-broad-city-high-score.json](./99352-broad-city-high-score.json) |
