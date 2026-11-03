@@ -5503,6 +5503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Airplane 3D for kids: learn colors, numbers | 101495 | [101495-little-airplane-3d-for-kids-learn-colors-numbers.json](./101495-little-airplane-3d-for-kids-learn-colors-numbers.json) |
 | Little Alchemy | 38911 | [38911-little-alchemy.json](./38911-little-alchemy.json) |
 | Little Alchemy 2 | 68111 | [68111-little-alchemy-2.json](./68111-little-alchemy-2.json) |
+| Little Alchemy 2: Myths and Monsters | 378745 | [378745-little-alchemy-2-myths-and-monsters.json](./378745-little-alchemy-2-myths-and-monsters.json) |
 | Little Amazon | 356196 | [356196-little-amazon.json](./356196-little-amazon.json) |
 | Little Anchor | 69082 | [69082-little-anchor.json](./69082-little-anchor.json) |
 | Little Animals: The Wild Race | 328505 | [328505-little-animals-the-wild-race.json](./328505-little-animals-the-wild-race.json) |
