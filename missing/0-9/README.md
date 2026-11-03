@@ -2237,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Infinity | 108136 | [108136-3d-infinity.json](./108136-3d-infinity.json) |
 | 3D Joys | 205073 | [205073-3d-joys.json](./205073-3d-joys.json) |
 | 3D Kaleidoscope: Baby Universe | 143644 | [143644-3d-kaleidoscope-baby-universe.json](./143644-3d-kaleidoscope-baby-universe.json) |
+| 3D Kimodameshi: Norowareta Haioku | 358595 | [358595-3d-kimodameshi-norowareta-haioku.json](./358595-3d-kimodameshi-norowareta-haioku.json) |
 | 3D Knifflis | 365464 | [365464-3d-knifflis.json](./365464-3d-knifflis.json) |
 | 3D Lemmings Winterland | 93313 | [93313-3d-lemmings-winterland.json](./93313-3d-lemmings-winterland.json) |
 | 3D Lunattack | 28476 | [28476-3d-lunattack.json](./28476-3d-lunattack.json) |
