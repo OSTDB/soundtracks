@@ -9722,6 +9722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi Saga 3 | 377220 | [377220-hoshi-saga-3.json](./377220-hoshi-saga-3.json) |
 | Hoshi Saga 5: Ringoame | 377262 | [377262-hoshi-saga-5-ringoame.json](./377262-hoshi-saga-5-ringoame.json) |
 | Hoshi Saga 6: Ringoen | 377712 | [377712-hoshi-saga-6-ringoen.json](./377712-hoshi-saga-6-ringoen.json) |
+| Hoshi Saga 7: Ringohime | 377554 | [377554-hoshi-saga-7-ringohime.json](./377554-hoshi-saga-7-ringohime.json) |
 | Hoshi Saga 8: Dokuringo | 377800 | [377800-hoshi-saga-8-dokuringo.json](./377800-hoshi-saga-8-dokuringo.json) |
 | Hoshi wo Miru Hito | 25016 | [25016-hoshi-wo-miru-hito.json](./25016-hoshi-wo-miru-hito.json) |
 | Hoshi wo Miru Hito: Bad Ebuna Patch 2 | 269869 | [269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json](./269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json) |
