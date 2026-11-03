@@ -7980,6 +7980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dishwasher: Dead Samurai | 21178 | [21178-the-dishwasher-dead-samurai.json](./21178-the-dishwasher-dead-samurai.json) |
 | The Dishwasher: Vampire Smile | 20582 | [20582-the-dishwasher-vampire-smile.json](./20582-the-dishwasher-vampire-smile.json) |
 | The Dismal Silhouette | 282620 | [282620-the-dismal-silhouette.json](./282620-the-dismal-silhouette.json) |
+| The Dismissed Case: Black Hollow | 385223 | [385223-the-dismissed-case-black-hollow.json](./385223-the-dismissed-case-black-hollow.json) |
 | The Disney Afternoon Collection | 27791 | [27791-the-disney-afternoon-collection.json](./27791-the-disney-afternoon-collection.json) |
 | The Disney Collection: Quackshot Starring Donald Duck & Castle of Illusion Starring Mickey Mouse | 45561 | [45561-the-disney-collection-quackshot-starring-donald-duck-and-castle-of-illusion-starring-mickey-mouse.json](./45561-the-disney-collection-quackshot-starring-donald-duck-and-castle-of-illusion-starring-mickey-mouse.json) |
 | The Disney/Pixar Collection | 230424 | [230424-the-disney-pixar-collection.json](./230424-the-disney-pixar-collection.json) |
