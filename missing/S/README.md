@@ -6436,6 +6436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Runner | 116287 | [116287-shadow-runner.json](./116287-shadow-runner.json) |
 | Shadow Runner | 385379 | [385379-shadow-runner.json](./385379-shadow-runner.json) |
 | Shadow Running | 188800 | [188800-shadow-running.json](./188800-shadow-running.json) |
+| Shadow Rush | 387468 | [387468-shadow-rush.json](./387468-shadow-rush.json) |
 | Shadow Saboteur | 246790 | [246790-shadow-saboteur.json](./246790-shadow-saboteur.json) |
 | Shadow Sacrament: The Roots of Evil | 347848 | [347848-shadow-sacrament-the-roots-of-evil.json](./347848-shadow-sacrament-the-roots-of-evil.json) |
 | Shadow Samurai Revenge | 192038 | [192038-shadow-samurai-revenge.json](./192038-shadow-samurai-revenge.json) |
@@ -18542,7 +18543,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -30334,6 +30334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Wars! | 323752 | [323752-super-mario-wars.json](./323752-super-mario-wars.json) |
 | Super Mario Wonderland 1987 | 307716 | [307716-super-mario-wonderland-1987.json](./307716-super-mario-wonderland-1987.json) |
 | Super Mario World | 178104 | [178104-super-mario-world.json](./178104-super-mario-world.json) |
+| Super Mario World | 387455 | [387455-super-mario-world.json](./387455-super-mario-world.json) |
 | Super Mario World 2021 | 267933 | [267933-super-mario-world-2021.json](./267933-super-mario-world-2021.json) |
 | Super Mario World 2025 | 378564 | [378564-super-mario-world-2025.json](./378564-super-mario-world-2025.json) |
 | Super Mario World 3: A Whole New World | 276879 | [276879-super-mario-world-3-a-whole-new-world.json](./276879-super-mario-world-3-a-whole-new-world.json) |
