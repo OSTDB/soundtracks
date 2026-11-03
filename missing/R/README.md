@@ -5756,6 +5756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Game Crunch | 36349 | [36349-retro-game-crunch.json](./36349-retro-game-crunch.json) |
 | Retro Game Pack | 147902 | [147902-retro-game-pack.json](./147902-retro-game-pack.json) |
 | Retro Game Store Simulator | 331111 | [331111-retro-game-store-simulator.json](./331111-retro-game-store-simulator.json) |
+| Retro Gamer Adventure | 383537 | [383537-retro-gamer-adventure.json](./383537-retro-gamer-adventure.json) |
 | Retro GameShop Simulator | 337503 | [337503-retro-gameshop-simulator.json](./337503-retro-gameshop-simulator.json) |
 | Retro Garbage | 62675 | [62675-retro-garbage.json](./62675-retro-garbage.json) |
 | Retro Geek Shop Simulator | 348968 | [348968-retro-geek-shop-simulator.json](./348968-retro-geek-shop-simulator.json) |
