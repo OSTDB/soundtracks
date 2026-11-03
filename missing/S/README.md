@@ -5406,6 +5406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
 | Sequence Storm | 111533 | [111533-sequence-storm.json](./111533-sequence-storm.json) |
 | Sequential | 291007 | [291007-sequential.json](./291007-sequential.json) |
+| Sequester | 388041 | [388041-sequester.json](./388041-sequester.json) |
 | Sequoia | 185595 | [185595-sequoia.json](./185595-sequoia.json) |
 | Ser BubbleHelm | 385564 | [385564-ser-bubblehelm.json](./385564-ser-bubblehelm.json) |
 | Ser Jorryn | 379867 | [379867-ser-jorryn.json](./379867-ser-jorryn.json) |
@@ -12252,6 +12253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlabWell: The Quest For Kaktun's Alpaca | 124402 | [124402-slabwell-the-quest-for-kaktuns-alpaca.json](./124402-slabwell-the-quest-for-kaktuns-alpaca.json) |
 | Slack Off Master | 309420 | [309420-slack-off-master.json](./309420-slack-off-master.json) |
 | Slackball | 392905 | [392905-slackball.json](./392905-slackball.json) |
+| Slacker | 388043 | [388043-slacker.json](./388043-slacker.json) |
 | Slacker Dungeon | 190904 | [190904-slacker-dungeon.json](./190904-slacker-dungeon.json) |
 | Slackers: Carts of Glory | 293685 | [293685-slackers-carts-of-glory.json](./293685-slackers-carts-of-glory.json) |
 | Slackjaw | 355520 | [355520-slackjaw.json](./355520-slackjaw.json) |
@@ -17235,6 +17237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sora: Blue Sky Edition | 54386 | [54386-sora-blue-sky-edition.json](./54386-sora-blue-sky-edition.json) |
 | Sora: Oasis Treasures | 421570 | [421570-sora-oasis-treasures.json](./421570-sora-oasis-treasures.json) |
 | Sora: Songs of the Stone | 403724 | [403724-sora-songs-of-the-stone.json](./403724-sora-songs-of-the-stone.json) |
+| Sora: Winds of the Jungle | 388061 | [388061-sora-winds-of-the-jungle.json](./388061-sora-winds-of-the-jungle.json) |
 | Sorades - Die Befreiung | 91547 | [91547-sorades-die-befreiung.json](./91547-sorades-die-befreiung.json) |
 | Soraja Invaders | 302231 | [302231-soraja-invaders.json](./302231-soraja-invaders.json) |
 | Soraja Towers | 300721 | [300721-soraja-towers.json](./300721-soraja-towers.json) |
@@ -18539,6 +18542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20234,6 +20238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellsword Cards: Origins | 118104 | [118104-spellsword-cards-origins.json](./118104-spellsword-cards-origins.json) |
 | Spellsworn | 26573 | [26573-spellsworn.json](./26573-spellsworn.json) |
 | Spellsworn | 289358 | [289358-spellsworn.json](./289358-spellsworn.json) |
+| Spellsy | 388060 | [388060-spellsy.json](./388060-spellsy.json) |
 | Spellt | 232088 | [232088-spellt.json](./232088-spellt.json) |
 | SpellTanks | 236863 | [236863-spelltanks.json](./236863-spelltanks.json) |
 | Spelltooth | 383063 | [383063-spelltooth.json](./383063-spelltooth.json) |
@@ -20573,6 +20578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Sense Spider-Man and the Masked Menace | 220110 | [220110-spider-sense-spider-man-and-the-masked-menace.json](./220110-spider-sense-spider-man-and-the-masked-menace.json) |
 | Spider-Sense Spider-Man: Web-Master | 220111 | [220111-spider-sense-spider-man-web-master.json](./220111-spider-sense-spider-man-web-master.json) |
 | Spider-Tank vs. Aliens | 340182 | [340182-spider-tank-vs-aliens.json](./340182-spider-tank-vs-aliens.json) |
+| Spider: Downloaded | 388048 | [388048-spider-downloaded.json](./388048-spider-downloaded.json) |
 | Spider: Gang City Hero | 93705 | [93705-spider-gang-city-hero.json](./93705-spider-gang-city-hero.json) |
 | Spider: The Secret Of Bryce Manor | 23259 | [23259-spider-the-secret-of-bryce-manor.json](./23259-spider-the-secret-of-bryce-manor.json) |
 | Spider: The Video Game | 45034 | [45034-spider-the-video-game.json](./45034-spider-the-video-game.json) |
@@ -25278,7 +25284,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Soldiers | 68700 | [68700-stick-soldiers.json](./68700-stick-soldiers.json) |
 | Stick Spartans | 102956 | [102956-stick-spartans.json](./102956-stick-spartans.json) |
 | Stick Sprint | 233169 | [233169-stick-sprint.json](./233169-stick-sprint.json) |
+| Stick Squad | 388089 | [388089-stick-squad.json](./388089-stick-squad.json) |
+| Stick Squad 2 | 388090 | [388090-stick-squad-2.json](./388090-stick-squad-2.json) |
 | Stick Squad 3 | 101924 | [101924-stick-squad-3.json](./101924-stick-squad-3.json) |
+| Stick Squad 4 | 388091 | [388091-stick-squad-4.json](./388091-stick-squad-4.json) |
+| Stick Squad Battlegrounds | 388093 | [388093-stick-squad-battlegrounds.json](./388093-stick-squad-battlegrounds.json) |
 | Stick Stunt Biker | 289564 | [289564-stick-stunt-biker.json](./289564-stick-stunt-biker.json) |
 | Stick Stunt Biker 2 | 87927 | [87927-stick-stunt-biker-2.json](./87927-stick-stunt-biker-2.json) |
 | Stick Tennis | 277566 | [277566-stick-tennis.json](./277566-stick-tennis.json) |
@@ -29747,6 +29757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations: Random 6 | 268950 | [268950-super-jigsaw-puzzle-generations-random-6.json](./268950-super-jigsaw-puzzle-generations-random-6.json) |
 | Super Jigsaw Puzzle: Monuments | 103792 | [103792-super-jigsaw-puzzle-monuments.json](./103792-super-jigsaw-puzzle-monuments.json) |
 | Super Jigsaw Puzzle: Space | 110937 | [110937-super-jigsaw-puzzle-space.json](./110937-super-jigsaw-puzzle-space.json) |
+| Super John 2: The Revenge of the Johnsons | 388071 | [388071-super-john-2-the-revenge-of-the-johnsons.json](./388071-super-john-2-the-revenge-of-the-johnsons.json) |
 | Super Jolly RPG | 282440 | [282440-super-jolly-rpg.json](./282440-super-jolly-rpg.json) |
 | Super Juicy HD | 232346 | [232346-super-juicy-hd.json](./232346-super-juicy-hd.json) |
 | Super Jump Guys | 267683 | [267683-super-jump-guys.json](./267683-super-jump-guys.json) |
