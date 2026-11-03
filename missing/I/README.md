@@ -5986,6 +5986,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islander | 176851 | [176851-islander.json](./176851-islander.json) |
 | Islanders | 116133 | [116133-islanders.json](./116133-islanders.json) |
 | Islanders: New Shores | 333961 | [333961-islanders-new-shores.json](./333961-islanders-new-shores.json) |
+| Islanders: New Shores - Island Hopping Bundle | 349607 | [349607-islanders-new-shores-island-hopping-bundle.json](./349607-islanders-new-shores-island-hopping-bundle.json) |
+| Islanders: New Shores - Photo Filter Pack | 349602 | [349602-islanders-new-shores-photo-filter-pack.json](./349602-islanders-new-shores-photo-filter-pack.json) |
+| Islanders: New Shores - The Full Archipelago Bundle | 349608 | [349608-islanders-new-shores-the-full-archipelago-bundle.json](./349608-islanders-new-shores-the-full-archipelago-bundle.json) |
+| Islanders: New Shores - The Scenic Builders Pack | 349603 | [349603-islanders-new-shores-the-scenic-builders-pack.json](./349603-islanders-new-shores-the-scenic-builders-pack.json) |
 | Islanders: VR Edition | 260703 | [260703-islanders-vr-edition.json](./260703-islanders-vr-edition.json) |
 | Islandia | 92478 | [92478-islandia.json](./92478-islandia.json) |
 | IslandPop Photo | 185553 | [185553-islandpop-photo.json](./185553-islandpop-photo.json) |
