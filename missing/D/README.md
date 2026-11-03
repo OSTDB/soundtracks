@@ -8973,6 +8973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimiria: The Agrarian Falls | 64786 | [64786-dimiria-the-agrarian-falls.json](./64786-dimiria-the-agrarian-falls.json) |
 | Dimlight Cafe | 183443 | [183443-dimlight-cafe.json](./183443-dimlight-cafe.json) |
 | Dimlight Dungeon | 276835 | [276835-dimlight-dungeon.json](./276835-dimlight-dungeon.json) |
+| Dimmed Light | 365347 | [365347-dimmed-light.json](./365347-dimmed-light.json) |
 | Dimo's Quest | 45892 | [45892-dimos-quest.json](./45892-dimos-quest.json) |
 | Dimraeth | 249202 | [249202-dimraeth.json](./249202-dimraeth.json) |
 | Dimwarper | 215884 | [215884-dimwarper.json](./215884-dimwarper.json) |
@@ -13884,6 +13885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Budokai AF | 180246 | [180246-dragon-ball-budokai-af.json](./180246-dragon-ball-budokai-af.json) |
 | Dragon Ball Devolution | 159246 | [159246-dragon-ball-devolution.json](./159246-dragon-ball-devolution.json) |
 | Dragon Ball Extreme Fusion Pack | 72764 | [72764-dragon-ball-extreme-fusion-pack.json](./72764-dragon-ball-extreme-fusion-pack.json) |
+| Dragon Ball Fierce Fighting | 365352 | [365352-dragon-ball-fierce-fighting.json](./365352-dragon-ball-fierce-fighting.json) |
 | Dragon Ball FighterZ | 36911 | [36911-dragon-ball-fighterz.json](./36911-dragon-ball-fighterz.json) |
 | Dragon Ball FighterZ and Dragon Ball Xenoverse 2 Double Pack | 144760 | [144760-dragon-ball-fighterz-and-dragon-ball-xenoverse-2-double-pack.json](./144760-dragon-ball-fighterz-and-dragon-ball-xenoverse-2-double-pack.json) |
 | Dragon Ball FighterZ: Android 17 | 144712 | [144712-dragon-ball-fighterz-android-17.json](./144712-dragon-ball-fighterz-android-17.json) |
