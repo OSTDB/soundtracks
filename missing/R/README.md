@@ -2526,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re: My Dear Sister | 368648 | [368648-re-my-dear-sister.json](./368648-re-my-dear-sister.json) |
 | Re: Pian | 368035 | [368035-re-pian.json](./368035-re-pian.json) |
 | RE: Prince of Nigeria | 126001 | [126001-re-prince-of-nigeria.json](./126001-re-prince-of-nigeria.json) |
+| Re: Promise - Promise of Linaria | 373994 | [373994-re-promise-promise-of-linaria.json](./373994-re-promise-promise-of-linaria.json) |
 | Re: Rem Plus | 108843 | [108843-re-rem-plus.json](./108843-re-rem-plus.json) |
 | Re: Rem Plus | 231787 | [231787-re-rem-plus.json](./231787-re-rem-plus.json) |
 | Re: Spin. Die. Repeat. | 392073 | [392073-re-spin-die-repeat.json](./392073-re-spin-die-repeat.json) |
@@ -3336,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reborn: The Mark Of The Blood | 143465 | [143465-reborn-the-mark-of-the-blood.json](./143465-reborn-the-mark-of-the-blood.json) |
 | Rebornia | 297842 | [297842-rebornia.json](./297842-rebornia.json) |
 | Rebots | 137815 | [137815-rebots.json](./137815-rebots.json) |
+| Rebounce | 374323 | [374323-rebounce.json](./374323-rebounce.json) |
 | ReBounce | 66368 | [66368-rebounce.json](./66368-rebounce.json) |
 | Rebound | 111188 | [111188-rebound.json](./111188-rebound.json) |
 | Rebound | 16977 | [16977-rebound.json](./16977-rebound.json) |
