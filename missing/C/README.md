@@ -3115,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino De Luxe | 131274 | [131274-casino-de-luxe.json](./131274-casino-de-luxe.json) |
 | Casino De Pink | 41372 | [41372-casino-de-pink.json](./41372-casino-de-pink.json) |
 | Casino FunPak | 117931 | [117931-casino-funpak.json](./117931-casino-funpak.json) |
+| Casino Games | 358606 | [358606-casino-games.json](./358606-casino-games.json) |
 | Casino Games | 45656 | [45656-casino-games.json](./45656-casino-games.json) |
 | Casino Golf | 204283 | [204283-casino-golf.json](./204283-casino-golf.json) |
 | Casino Heist | 243587 | [243587-casino-heist.json](./243587-casino-heist.json) |
@@ -13670,6 +13671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Voyage: Cook & Travel | 233494 | [233494-cooking-voyage-cook-and-travel.json](./233494-cooking-voyage-cook-and-travel.json) |
 | Cooking Witch | 28741 | [28741-cooking-witch.json](./28741-cooking-witch.json) |
 | Cooking with Bebo | 105931 | [105931-cooking-with-bebo.json](./105931-cooking-with-bebo.json) |
+| Cooking with Belmont | 358612 | [358612-cooking-with-belmont.json](./358612-cooking-with-belmont.json) |
 | Cooking with Cat | 180310 | [180310-cooking-with-cat.json](./180310-cooking-with-cat.json) |
 | Cooking With Cthulhu | 176449 | [176449-cooking-with-cthulhu.json](./176449-cooking-with-cthulhu.json) |
 | Cooking with Magic | 337541 | [337541-cooking-with-magic.json](./337541-cooking-with-magic.json) |
@@ -18432,6 +18434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cucumber Defense VR | 126947 | [126947-cucumber-defense-vr.json](./126947-cucumber-defense-vr.json) |
 | CucumbeRunner | 236011 | [236011-cucumberunner.json](./236011-cucumberunner.json) |
 | Cuddle Corner | 360729 | [360729-cuddle-corner.json](./360729-cuddle-corner.json) |
+| Cuddle Kobold: Just a Bite! | 358610 | [358610-cuddle-kobold-just-a-bite.json](./358610-cuddle-kobold-just-a-bite.json) |
 | Cuddly Cuburt | 367195 | [367195-cuddly-cuburt.json](./367195-cuddly-cuburt.json) |
 | Cuddly Forest Friends | 222944 | [222944-cuddly-forest-friends.json](./222944-cuddly-forest-friends.json) |
 | Cue Academy | 61545 | [61545-cue-academy.json](./61545-cue-academy.json) |
