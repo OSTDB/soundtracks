@@ -15148,6 +15148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Saint Wife’s Newlywed Trials | 376560 | [376560-the-saint-wife-s-newlywed-trials.json](./376560-the-saint-wife-s-newlywed-trials.json) |
 | The Saint's Tomb | 132052 | [132052-the-saints-tomb.json](./132052-the-saints-tomb.json) |
 | The Saiyuki Saruden | 59277 | [59277-the-saiyuki-saruden.json](./59277-the-saiyuki-saruden.json) |
+| The Sakabashira Game | 376165 | [376165-the-sakabashira-game.json](./376165-the-sakabashira-game.json) |
 | The Salatroisk Incident | 216168 | [216168-the-salatroisk-incident.json](./216168-the-salatroisk-incident.json) |
 | The Salatroitsk Incident | 180807 | [180807-the-salatroitsk-incident.json](./180807-the-salatroitsk-incident.json) |
 | The Salesman | 376198 | [376198-the-salesman.json](./376198-the-salesman.json) |
@@ -18929,6 +18930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief: The Trail of the Arch-Heretic | 268465 | [268465-thief-the-trail-of-the-arch-heretic.json](./268465-thief-the-trail-of-the-arch-heretic.json) |
 | Thief's Adventure | 372490 | [372490-thiefs-adventure.json](./372490-thiefs-adventure.json) |
 | Thief's Market | 384798 | [384798-thiefs-market.json](./384798-thiefs-market.json) |
+| Thief's Riddles | 375775 | [375775-thiefs-riddles.json](./375775-thiefs-riddles.json) |
 | Thief's Roulette | 129137 | [129137-thiefs-roulette.json](./129137-thiefs-roulette.json) |
 | Thief's Shelter | 158907 | [158907-thiefs-shelter.json](./158907-thiefs-shelter.json) |
 | Thief's Treasure | 178843 | [178843-thiefs-treasure.json](./178843-thiefs-treasure.json) |
@@ -22857,6 +22859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Fight The Sea | 333704 | [333704-to-fight-the-sea.json](./333704-to-fight-the-sea.json) |
 | To Find Her | 341715 | [341715-to-find-her.json](./341715-to-find-her.json) |
 | To Get There | 348828 | [348828-to-get-there.json](./348828-to-get-there.json) |
+| To Give Is To Force | 376162 | [376162-to-give-is-to-force.json](./376162-to-give-is-to-force.json) |
 | To Grant a Wish | 350889 | [350889-to-grant-a-wish.json](./350889-to-grant-a-wish.json) |
 | To Have and to Hold | 260317 | [260317-to-have-and-to-hold.json](./260317-to-have-and-to-hold.json) |
 | To Heart | 69724 | [69724-to-heart.json](./69724-to-heart.json) |
