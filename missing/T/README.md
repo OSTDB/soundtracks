@@ -5899,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms: Anomaly Containment Unit | 339219 | [339219-the-backrooms-anomaly-containment-unit.json](./339219-the-backrooms-anomaly-containment-unit.json) |
 | The Backrooms: Deeper | 201535 | [201535-the-backrooms-deeper.json](./201535-the-backrooms-deeper.json) |
 | The Backrooms: Escape | 272252 | [272252-the-backrooms-escape.json](./272252-the-backrooms-escape.json) |
+| The Backrooms: Expedition | 357678 | [357678-the-backrooms-expedition.json](./357678-the-backrooms-expedition.json) |
 | The Backrooms: Forsaken | 329584 | [329584-the-backrooms-forsaken.json](./329584-the-backrooms-forsaken.json) |
 | The Backrooms: Investigate and Escape | 244595 | [244595-the-backrooms-investigate-and-escape.json](./244595-the-backrooms-investigate-and-escape.json) |
 | The Backrooms: Last Expedition | 260284 | [260284-the-backrooms-last-expedition.json](./260284-the-backrooms-last-expedition.json) |
@@ -13126,6 +13127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Melting Apartment | 278282 | [278282-the-melting-apartment.json](./278282-the-melting-apartment.json) |
 | The Membrane | 403012 | [403012-the-membrane.json](./403012-the-membrane.json) |
 | The Meme Hunter | 238745 | [238745-the-meme-hunter.json](./238745-the-meme-hunter.json) |
+| The Memological Dungeon | 357705 | [357705-the-memological-dungeon.json](./357705-the-memological-dungeon.json) |
 | The Memories That Shape Us | 327371 | [327371-the-memories-that-shape-us.json](./327371-the-memories-that-shape-us.json) |
 | The Memory Library | 414404 | [414404-the-memory-library.json](./414404-the-memory-library.json) |
 | The Memory of Eldurim | 16905 | [16905-the-memory-of-eldurim.json](./16905-the-memory-of-eldurim.json) |
@@ -16772,6 +16774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Temple of No | 19699 | [19699-the-temple-of-no.json](./19699-the-temple-of-no.json) |
 | The Temple of Torment | 181257 | [181257-the-temple-of-torment.json](./181257-the-temple-of-torment.json) |
 | The Temple Warrior: Battleground of Demons | 262786 | [262786-the-temple-warrior-battleground-of-demons.json](./262786-the-temple-warrior-battleground-of-demons.json) |
+| The Temple: Ch 1 | 357695 | [357695-the-temple-ch-1.json](./357695-the-temple-ch-1.json) |
 | The Temporal Invasion | 19896 | [19896-the-temporal-invasion.json](./19896-the-temporal-invasion.json) |
 | The Tempura Samurai | 64435 | [64435-the-tempura-samurai.json](./64435-the-tempura-samurai.json) |
 | The Ten Soul | 289960 | [289960-the-ten-soul.json](./289960-the-ten-soul.json) |
@@ -28555,6 +28558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped | 360621 | [360621-trapped.json](./360621-trapped.json) |
 | Trapped 2 | 84296 | [84296-trapped-2.json](./84296-trapped-2.json) |
 | Trapped 2: Pirates | 311648 | [311648-trapped-2-pirates.json](./311648-trapped-2-pirates.json) |
+| Trapped at Home | 357698 | [357698-trapped-at-home.json](./357698-trapped-at-home.json) |
 | Trapped Beast | 339106 | [339106-trapped-beast.json](./339106-trapped-beast.json) |
 | Trapped Dead | 9443 | [9443-trapped-dead.json](./9443-trapped-dead.json) |
 | Trapped Dead: Lockdown | 17508 | [17508-trapped-dead-lockdown.json](./17508-trapped-dead-lockdown.json) |
