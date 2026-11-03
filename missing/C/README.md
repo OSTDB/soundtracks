@@ -1159,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canadian Higurashi | 254361 | [254361-canadian-higurashi.json](./254361-canadian-higurashi.json) |
 | Canadian Robot Racing League | 127175 | [127175-canadian-robot-racing-league.json](./127175-canadian-robot-racing-league.json) |
 | Canal Control | 243702 | [243702-canal-control.json](./243702-canal-control.json) |
+| Canal Meutre | 386318 | [386318-canal-meutre.json](./386318-canal-meutre.json) |
 | Canal Towns | 197335 | [197335-canal-towns.json](./197335-canal-towns.json) |
 | Canari | 51580 | [51580-canari.json](./51580-canari.json) |
 | Canary in a Crater | 148138 | [148138-canary-in-a-crater.json](./148138-canary-in-a-crater.json) |
@@ -6958,6 +6959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiller | 247378 | [247378-chiller.json](./247378-chiller.json) |
 | Chilli Con Valley | 187200 | [187200-chilli-con-valley.json](./187200-chilli-con-valley.json) |
 | Chillin' | 308265 | [308265-chillin.json](./308265-chillin.json) |
+| Chilling Devotion | 386074 | [386074-chilling-devotion.json](./386074-chilling-devotion.json) |
 | Chilling Urban Legends | 409670 | [409670-chilling-urban-legends.json](./409670-chilling-urban-legends.json) |
 | Chillingham | 392339 | [392339-chillingham.json](./392339-chillingham.json) |
 | Chilljong | 223505 | [223505-chilljong.json](./223505-chilljong.json) |
@@ -8087,6 +8089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck Rock | 81871 | [81871-chuck-rock.json](./81871-chuck-rock.json) |
 | Chuck Rock II: Son of Chuck | 4371 | [4371-chuck-rock-ii-son-of-chuck.json](./4371-chuck-rock-ii-son-of-chuck.json) |
 | Chuck the Metalhead in Medieval Hell | 235809 | [235809-chuck-the-metalhead-in-medieval-hell.json](./235809-chuck-the-metalhead-in-medieval-hell.json) |
+| Chuck the Sheep | 386081 | [386081-chuck-the-sheep.json](./386081-chuck-the-sheep.json) |
 | Chuck Yeager's Air Combat | 51396 | [51396-chuck-yeagers-air-combat.json](./51396-chuck-yeagers-air-combat.json) |
 | Chuck's Challenge | 130048 | [130048-chucks-challenge.json](./130048-chucks-challenge.json) |
 | Chuck's Challenge 3D 2020 | 139021 | [139021-chucks-challenge-3d-2020.json](./139021-chucks-challenge-3d-2020.json) |
@@ -8229,6 +8232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cǐkè Tànsuǒ Zhōng | 156705 | [156705-cike-tansuo-zhong.json](./156705-cike-tansuo-zhong.json) |
 | CIMA: The Enemy | 6348 | [6348-cima-the-enemy.json](./6348-cima-the-enemy.json) |
 | Cimmerian Night | 272164 | [272164-cimmerian-night.json](./272164-cimmerian-night.json) |
+| Cinco Noches Con Mi Tío Raúl | 386307 | [386307-cinco-noches-con-mi-tio-raul.json](./386307-cinco-noches-con-mi-tio-raul.json) |
 | Cinco Noches en Casa Rosada | 327222 | [327222-cinco-noches-en-casa-rosada.json](./327222-cinco-noches-en-casa-rosada.json) |
 | Cinco Noches en Casa Rosada 2 | 353900 | [353900-cinco-noches-en-casa-rosada-2.json](./353900-cinco-noches-en-casa-rosada-2.json) |
 | Cinco Noches en Casa Rosada 3 | 376680 | [376680-cinco-noches-en-casa-rosada-3.json](./376680-cinco-noches-en-casa-rosada-3.json) |
@@ -10357,6 +10361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coaster Mania | 306926 | [306926-coaster-mania.json](./306926-coaster-mania.json) |
 | Coaster of Carnage VR | 75392 | [75392-coaster-of-carnage-vr.json](./75392-coaster-of-carnage-vr.json) |
 | Coaster Park Tycoon | 60612 | [60612-coaster-park-tycoon.json](./60612-coaster-park-tycoon.json) |
+| Coaster Racer | 386082 | [386082-coaster-racer.json](./386082-coaster-racer.json) |
 | Coaster Works | 6725 | [6725-coaster-works.json](./6725-coaster-works.json) |
 | Coasterama | 372830 | [372830-coasterama.json](./372830-coasterama.json) |
 | Coastiality | 96668 | [96668-coastiality.json](./96668-coastiality.json) |
@@ -10528,6 +10533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Of Superheroes | 301809 | [301809-code-of-superheroes.json](./301809-code-of-superheroes.json) |
 | Code of the Savage | 173310 | [173310-code-of-the-savage.json](./173310-code-of-the-savage.json) |
 | Code of War | 89730 | [89730-code-of-war.json](./89730-code-of-war.json) |
+| Code One Dispatch | 386315 | [386315-code-one-dispatch.json](./386315-code-one-dispatch.json) |
 | Code R | 125786 | [125786-code-r.json](./125786-code-r.json) |
 | Code R | 193858 | [193858-code-r.json](./193858-code-r.json) |
 | Code Racer | 289792 | [289792-code-racer.json](./289792-code-racer.json) |
@@ -10675,6 +10681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codex of Victory | 27802 | [27802-codex-of-victory.json](./27802-codex-of-victory.json) |
 | Codex Temondera: Lost Vision | 115340 | [115340-codex-temondera-lost-vision.json](./115340-codex-temondera-lost-vision.json) |
 | Codex: Recall | 419171 | [419171-codex-recall.json](./419171-codex-recall.json) |
+| Codeyssey | 386080 | [386080-codeyssey.json](./386080-codeyssey.json) |
 | Coding Day | 302094 | [302094-coding-day.json](./302094-coding-day.json) |
 | Coding for Carrots | 77733 | [77733-coding-for-carrots.json](./77733-coding-for-carrots.json) |
 | Coding With Doc | 372594 | [372594-coding-with-doc.json](./372594-coding-with-doc.json) |
@@ -14719,6 +14726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covenant of Solitude | 200936 | [200936-covenant-of-solitude.json](./200936-covenant-of-solitude.json) |
 | Covenant: Project Zero | 236368 | [236368-covenant-project-zero.json](./236368-covenant-project-zero.json) |
 | Covenanted | 157155 | [157155-covenanted.json](./157155-covenanted.json) |
+| Coveny Town | 386061 | [386061-coveny-town.json](./386061-coveny-town.json) |
 | Cover Fire | 38954 | [38954-cover-fire.json](./38954-cover-fire.json) |
 | Cover Fire: Shooter vs Sniper | 103855 | [103855-cover-fire-shooter-vs-sniper.json](./103855-cover-fire-shooter-vs-sniper.json) |
 | Cover Orange | 403224 | [403224-cover-orange.json](./403224-cover-orange.json) |
