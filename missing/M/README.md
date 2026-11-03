@@ -2351,6 +2351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major\Minor: Complete Edition | 32567 | [32567-major-minor-complete-edition.json](./32567-major-minor-complete-edition.json) |
 | Majora's Mask 3D Randomizer | 288700 | [288700-majoras-mask-3d-randomizer.json](./288700-majoras-mask-3d-randomizer.json) |
 | Majora's Mask Redux | 172479 | [172479-majoras-mask-redux.json](./172479-majoras-mask-redux.json) |
+| Majorariatto Duo Bundle | 353580 | [353580-majorariatto-duo-bundle.json](./353580-majorariatto-duo-bundle.json) |
 | Majorariatto Museum | 177426 | [177426-majorariatto-museum.json](./177426-majorariatto-museum.json) |
 | Majorelle Mystery | 232705 | [232705-majorelle-mystery.json](./232705-majorelle-mystery.json) |
 | Majoriko Inbikai Inbizone | 92071 | [92071-majoriko-inbikai-inbizone.json](./92071-majoriko-inbikai-inbizone.json) |
@@ -2428,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make It Stable | 383336 | [383336-make-it-stable.json](./383336-make-it-stable.json) |
 | Make It Stop! | 301349 | [301349-make-it-stop.json](./301349-make-it-stop.json) |
 | Make It True | 326679 | [326679-make-it-true.json](./326679-make-it-true.json) |
+| Make it! Choco Banana | 353579 | [353579-make-it-choco-banana.json](./353579-make-it-choco-banana.json) |
 | Make it! Crepe | 315839 | [315839-make-it-crepe.json](./315839-make-it-crepe.json) |
 | Make it! Donut | 332360 | [332360-make-it-donut.json](./332360-make-it-donut.json) |
 | Make it! Ikayaki | 294837 | [294837-make-it-ikayaki.json](./294837-make-it-ikayaki.json) |
@@ -5660,6 +5662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10999,6 +11002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko Gakkou Monogatari: Kaede Episode | 36177 | [36177-miko-gakkou-monogatari-kaede-episode.json](./36177-miko-gakkou-monogatari-kaede-episode.json) |
 | Miko Gakkou Monogatari: Sanae Episode | 62526 | [62526-miko-gakkou-monogatari-sanae-episode.json](./62526-miko-gakkou-monogatari-sanae-episode.json) |
 | Miko Gakkou: Second Year | 36169 | [36169-miko-gakkou-second-year.json](./36169-miko-gakkou-second-year.json) |
+| Miko Girls | 353581 | [353581-miko-girls.json](./353581-miko-girls.json) |
 | Miko Kanna Noukin Taimaki | 82738 | [82738-miko-kanna-noukin-taimaki.json](./82738-miko-kanna-noukin-taimaki.json) |
 | Miko Miko Nurse | 321402 | [321402-miko-miko-nurse.json](./321402-miko-miko-nurse.json) |
 | Miko Mole | 32631 | [32631-miko-mole.json](./32631-miko-mole.json) |
@@ -11230,6 +11234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | million x Pac-Man | 219447 | [219447-million-x-pac-man.json](./219447-million-x-pac-man.json) |
 | Millionaire City | 115543 | [115543-millionaire-city.json](./115543-millionaire-city.json) |
 | Millionaire Dancer | 117098 | [117098-millionaire-dancer.json](./117098-millionaire-dancer.json) |
+| Millionaire Escape | 353582 | [353582-millionaire-escape.json](./353582-millionaire-escape.json) |
 | Millionaire Manor | 17371 | [17371-millionaire-manor.json](./17371-millionaire-manor.json) |
 | Millionaire Manor, Robin's Quest, Escape the Lost Kingdom and the Hidden Object Show 2 | 209510 | [209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json](./209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json) |
 | Millionaire Obby | 401099 | [401099-millionaire-obby.json](./401099-millionaire-obby.json) |
@@ -18047,6 +18052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugsy | 25719 | [25719-mugsy.json](./25719-mugsy.json) |
 | Mugsy & Mugsy's Revenge | 204166 | [204166-mugsy-and-mugsys-revenge.json](./204166-mugsy-and-mugsys-revenge.json) |
 | Mugsy's Revenge | 26216 | [26216-mugsys-revenge.json](./26216-mugsys-revenge.json) |
+| Muh Quest | 353607 | [353607-muh-quest.json](./353607-muh-quest.json) |
 | Muhammad Ali | 228360 | [228360-muhammad-ali.json](./228360-muhammad-ali.json) |
 | Muhammad Ali Heavyweight Boxing | 288070 | [288070-muhammad-ali-heavyweight-boxing.json](./288070-muhammad-ali-heavyweight-boxing.json) |
 | Muhammad Ali Heavyweight Boxing | 46269 | [46269-muhammad-ali-heavyweight-boxing.json](./46269-muhammad-ali-heavyweight-boxing.json) |
@@ -20467,6 +20473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst | 347130 | [347130-myst.json](./347130-myst.json) |
 | Myst 25th Anniversary Collection | 101035 | [101035-myst-25th-anniversary-collection.json](./101035-myst-25th-anniversary-collection.json) |
 | Myst Demake | 334868 | [334868-myst-demake.json](./334868-myst-demake.json) |
+| Myst House | 353591 | [353591-myst-house.json](./353591-myst-house.json) |
 | Myst Mobile | 237366 | [237366-myst-mobile.json](./237366-myst-mobile.json) |
 | Myst of Guatemala | 311571 | [311571-myst-of-guatemala.json](./311571-myst-of-guatemala.json) |
 | Myst Online: URU Live | 21540 | [21540-myst-online-uru-live.json](./21540-myst-online-uru-live.json) |
@@ -20641,6 +20648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Gold | 55862 | [55862-mystery-gold.json](./55862-mystery-gold.json) |
 | Mystery Horror Bundle: Saint Kotar & Charon's Staircase | 380703 | [380703-mystery-horror-bundle-saint-kotar-and-charons-staircase.json](./380703-mystery-horror-bundle-saint-kotar-and-charons-staircase.json) |
 | Mystery Hotel: Hidden Object Detective Game | 151452 | [151452-mystery-hotel-hidden-object-detective-game.json](./151452-mystery-hotel-hidden-object-detective-game.json) |
+| Mystery Hotel: Hidden Objects | 353583 | [353583-mystery-hotel-hidden-objects.json](./353583-mystery-hotel-hidden-objects.json) |
 | Mystery House | 229793 | [229793-mystery-house.json](./229793-mystery-house.json) |
 | Mystery House | 2479 | [2479-mystery-house.json](./2479-mystery-house.json) |
 | Mystery House | 342677 | [342677-mystery-house.json](./342677-mystery-house.json) |
