@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Pioneer | 208049 | [208049-galactic-pioneer.json](./208049-galactic-pioneer.json) |
 | Galactic Pit Stop Simulator | 407554 | [407554-galactic-pit-stop-simulator.json](./407554-galactic-pit-stop-simulator.json) |
 | Galactic Pixel Wars: The Farce Awakens | 351041 | [351041-galactic-pixel-wars-the-farce-awakens.json](./351041-galactic-pixel-wars-the-farce-awakens.json) |
+| Galactic Plague 2000 | 359682 | [359682-galactic-plague-2000.json](./359682-galactic-plague-2000.json) |
 | Galactic Pocket Billiards | 75936 | [75936-galactic-pocket-billiards.json](./75936-galactic-pocket-billiards.json) |
 | Galactic Police 1: Lost | 372179 | [372179-galactic-police-1-lost.json](./372179-galactic-police-1-lost.json) |
 | Galactic Princess | 62553 | [62553-galactic-princess.json](./62553-galactic-princess.json) |
