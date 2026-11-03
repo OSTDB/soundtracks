@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Collection of Intellivision Classic Games | 65901 | [65901-a-collection-of-intellivision-classic-games.json](./65901-a-collection-of-intellivision-classic-games.json) |
 | A Collection of Mini-Games | 263641 | [263641-a-collection-of-mini-games.json](./263641-a-collection-of-mini-games.json) |
 | A College of Thirst & Claws: Season 1 | 301678 | [301678-a-college-of-thirst-and-claws-season-1.json](./301678-a-college-of-thirst-and-claws-season-1.json) |
+| A Color Theory | 390327 | [390327-a-color-theory.json](./390327-a-color-theory.json) |
 | A Coloring Break | 326233 | [326233-a-coloring-break.json](./326233-a-coloring-break.json) |
 | A Coloring Break: Expansion pack 1 | 357765 | [357765-a-coloring-break-expansion-pack-1.json](./357765-a-coloring-break-expansion-pack-1.json) |
 | A Coloring Break: Expansion pack 10 | 357766 | [357766-a-coloring-break-expansion-pack-10.json](./357766-a-coloring-break-expansion-pack-10.json) |
@@ -1743,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abasralsa | 81962 | [81962-abasralsa.json](./81962-abasralsa.json) |
 | Abathor: Collector's Edition | 284479 | [284479-abathor-collectors-edition.json](./284479-abathor-collectors-edition.json) |
 | Abatron | 25556 | [25556-abatron.json](./25556-abatron.json) |
+| Abattoir: Cow Escape | 390354 | [390354-abattoir-cow-escape.json](./390354-abattoir-cow-escape.json) |
 | ABBA: You Can Dance | 3305 | [3305-abba-you-can-dance.json](./3305-abba-you-can-dance.json) |
 | Abberbury | 111212 | [111212-abberbury.json](./111212-abberbury.json) |
 | Abbie's Farm | 147459 | [147459-abbies-farm.json](./147459-abbies-farm.json) |
@@ -7286,6 +7288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Chimp: Episode 1 - The Jungle | 310194 | [310194-alpha-chimp-episode-1-the-jungle.json](./310194-alpha-chimp-episode-1-the-jungle.json) |
 | Alpha Collapse | 356502 | [356502-alpha-collapse.json](./356502-alpha-collapse.json) |
 | Alpha Command | 164871 | [164871-alpha-command.json](./164871-alpha-command.json) |
+| Alpha Crisis | 390329 | [390329-alpha-crisis.json](./390329-alpha-crisis.json) |
 | Alpha Decay | 31707 | [31707-alpha-decay.json](./31707-alpha-decay.json) |
 | Alpha Dog | 120429 | [120429-alpha-dog.json](./120429-alpha-dog.json) |
 | Alpha Guns | 137675 | [137675-alpha-guns.json](./137675-alpha-guns.json) |
@@ -12206,6 +12209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Merchant | 380788 | [380788-arcane-merchant.json](./380788-arcane-merchant.json) |
 | Arcane Overdrive | 370895 | [370895-arcane-overdrive.json](./370895-arcane-overdrive.json) |
 | Arcane Path | 339643 | [339643-arcane-path.json](./339643-arcane-path.json) |
+| Arcane Paws | 390360 | [390360-arcane-paws.json](./390360-arcane-paws.json) |
 | Arcane Pets: Plushie Empire | 256545 | [256545-arcane-pets-plushie-empire.json](./256545-arcane-pets-plushie-empire.json) |
 | Arcane Plunder | 373538 | [373538-arcane-plunder.json](./373538-arcane-plunder.json) |
 | Arcane PreRaise | 29259 | [29259-arcane-preraise.json](./29259-arcane-preraise.json) |
@@ -16444,6 +16448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Sport Racing & Drone Delivery: FPV Simulator | 394570 | [394570-auto-sport-racing-and-drone-delivery-fpv-simulator.json](./394570-auto-sport-racing-and-drone-delivery-fpv-simulator.json) |
 | Auto Sport Racing Simulator | 381702 | [381702-auto-sport-racing-simulator.json](./381702-auto-sport-racing-simulator.json) |
 | Auto Squad RPG | 423369 | [423369-auto-squad-rpg.json](./423369-auto-squad-rpg.json) |
+| Auto Statue Battle: The Forces of Evil | 390347 | [390347-auto-statue-battle-the-forces-of-evil.json](./390347-auto-statue-battle-the-forces-of-evil.json) |
 | Auto Test | 347705 | [347705-auto-test.json](./347705-auto-test.json) |
 | Auto Theft Gang Wars | 103061 | [103061-auto-theft-gang-wars.json](./103061-auto-theft-gang-wars.json) |
 | Auto Tow Truck Simulator | 278710 | [278710-auto-tow-truck-simulator.json](./278710-auto-tow-truck-simulator.json) |
