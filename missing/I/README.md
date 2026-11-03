@@ -1593,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Tree | 365747 | [365747-idle-tree.json](./365747-idle-tree.json) |
 | Idle Trillionaire | 294137 | [294137-idle-trillionaire.json](./294137-idle-trillionaire.json) |
 | Idle Tuber Empire | 96010 | [96010-idle-tuber-empire.json](./96010-idle-tuber-empire.json) |
+| Idle Tycoon Manufacturing | 380951 | [380951-idle-tycoon-manufacturing.json](./380951-idle-tycoon-manufacturing.json) |
 | Idle Ultimate | 368509 | [368509-idle-ultimate.json](./368509-idle-ultimate.json) |
 | Idle Universe Creator | 351606 | [351606-idle-universe-creator.json](./351606-idle-universe-creator.json) |
 | Idle Universe: Planet Miner | 231925 | [231925-idle-universe-planet-miner.json](./231925-idle-universe-planet-miner.json) |
