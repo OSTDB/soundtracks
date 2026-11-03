@@ -8286,6 +8286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicey Bizniz | 373578 | [373578-dicey-bizniz.json](./373578-dicey-bizniz.json) |
 | Dicey Bugs | 335636 | [335636-dicey-bugs.json](./335636-dicey-bugs.json) |
 | Dicey Chess | 320304 | [320304-dicey-chess.json](./320304-dicey-chess.json) |
+| Dicey Decisions | 357683 | [357683-dicey-decisions.json](./357683-dicey-decisions.json) |
 | Dicey Demons | 309130 | [309130-dicey-demons.json](./309130-dicey-demons.json) |
 | Dicey Dungeons | 102420 | [102420-dicey-dungeons.json](./102420-dicey-dungeons.json) |
 | Dicey Dungeons Reunion | 208403 | [208403-dicey-dungeons-reunion.json](./208403-dicey-dungeons-reunion.json) |
@@ -9338,6 +9339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaurus Life VR | 112711 | [112711-dinosaurus-life-vr.json](./112711-dinosaurus-life-vr.json) |
 | DinoSawUs | 420777 | [420777-dinosawus.json](./420777-dinosawus.json) |
 | DinoScape | 143335 | [143335-dinoscape.json](./143335-dinoscape.json) |
+| Dinoslap | 357703 | [357703-dinoslap.json](./357703-dinoslap.json) |
 | DinoSource | 77983 | [77983-dinosource.json](./77983-dinosource.json) |
 | Dinostria | 288638 | [288638-dinostria.json](./288638-dinostria.json) |
 | DinoSystem | 35131 | [35131-dinosystem.json](./35131-dinosystem.json) |
