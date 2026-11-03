@@ -11121,6 +11121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sisters Secrecy: Arcanum Bloodlines - Premium Edition | 35137 | [35137-sisters-secrecy-arcanum-bloodlines-premium-edition.json](./35137-sisters-secrecy-arcanum-bloodlines-premium-edition.json) |
 | Sisyphe | 310257 | [310257-sisyphe.json](./310257-sisyphe.json) |
 | Sisyphe's Backspace | 347270 | [347270-sisyphes-backspace.json](./347270-sisyphes-backspace.json) |
+| Sisyphi | 371182 | [371182-sisyphi.json](./371182-sisyphi.json) |
 | Sisyphos | 311870 | [311870-sisyphos.json](./311870-sisyphos.json) |
 | Sisyphus | 151619 | [151619-sisyphus.json](./151619-sisyphus.json) |
 | Sisyphus | 340369 | [340369-sisyphus.json](./340369-sisyphus.json) |
@@ -15766,6 +15767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Antics Ultimate | 208876 | [208876-solitaire-antics-ultimate.json](./208876-solitaire-antics-ultimate.json) |
 | Solitaire Antics Ultimate Plus | 54388 | [54388-solitaire-antics-ultimate-plus.json](./54388-solitaire-antics-ultimate-plus.json) |
 | Solitaire Battle | 353365 | [353365-solitaire-battle.json](./353365-solitaire-battle.json) |
+| Solitaire Battle Online | 371492 | [371492-solitaire-battle-online.json](./371492-solitaire-battle-online.json) |
 | Solitaire Battle Royal | 111907 | [111907-solitaire-battle-royal.json](./111907-solitaire-battle-royal.json) |
 | Solitaire Beach Season | 31284 | [31284-solitaire-beach-season.json](./31284-solitaire-beach-season.json) |
 | Solitaire Beach Season 2 | 95559 | [95559-solitaire-beach-season-2.json](./95559-solitaire-beach-season-2.json) |
@@ -21927,6 +21929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy 1 Lovecraftian | 289437 | [289437-spy-1-lovecraftian.json](./289437-spy-1-lovecraftian.json) |
 | Spy Against Spy | 57639 | [57639-spy-against-spy.json](./57639-spy-against-spy.json) |
 | Spy Alarm | 148572 | [148572-spy-alarm.json](./148572-spy-alarm.json) |
+| Spy Alliance | 371495 | [371495-spy-alliance.json](./371495-spy-alliance.json) |
 | Spy Bot Chronicles | 78344 | [78344-spy-bot-chronicles.json](./78344-spy-bot-chronicles.json) |
 | Spy Bugs | 35345 | [35345-spy-bugs.json](./35345-spy-bugs.json) |
 | Spy Car | 401797 | [401797-spy-car.json](./401797-spy-car.json) |
@@ -28748,6 +28751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunken Brawl | 75147 | [75147-sunken-brawl.json](./75147-sunken-brawl.json) |
 | Sunken Century | 188318 | [188318-sunken-century.json](./188318-sunken-century.json) |
 | Sunken Citadel | 137306 | [137306-sunken-citadel.json](./137306-sunken-citadel.json) |
+| Sunken Dreams | 371499 | [371499-sunken-dreams.json](./371499-sunken-dreams.json) |
 | Sunken Engine | 336738 | [336738-sunken-engine.json](./336738-sunken-engine.json) |
 | Sunken Heads | 138821 | [138821-sunken-heads.json](./138821-sunken-heads.json) |
 | Sunken Realms | 197140 | [197140-sunken-realms.json](./197140-sunken-realms.json) |
