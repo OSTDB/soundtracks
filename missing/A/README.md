@@ -12113,6 +12113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Daze | 251088 | [251088-arcade-daze.json](./251088-arcade-daze.json) |
 | Arcade Drift | 167347 | [167347-arcade-drift.json](./167347-arcade-drift.json) |
 | Arcade Dungeon | 215525 | [215525-arcade-dungeon.json](./215525-arcade-dungeon.json) |
+| Arcade Empire Tycoon | 356341 | [356341-arcade-empire-tycoon.json](./356341-arcade-empire-tycoon.json) |
 | Arcade Essentials | 51094 | [51094-arcade-essentials.json](./51094-arcade-essentials.json) |
 | Arcade Fishing | 248242 | [248242-arcade-fishing.json](./248242-arcade-fishing.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
@@ -14205,6 +14206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asgard | 187282 | [187282-asgard.json](./187282-asgard.json) |
 | Asgard Rift: Battle Arena | 110210 | [110210-asgard-rift-battle-arena.json](./110210-asgard-rift-battle-arena.json) |
 | Asgard Run | 57327 | [57327-asgard-run.json](./57327-asgard-run.json) |
+| Asgard's Edda: Mechanical Threat | 356345 | [356345-asgards-edda-mechanical-threat.json](./356345-asgards-edda-mechanical-threat.json) |
 | Asgard's Wrath | 115031 | [115031-asgards-wrath.json](./115031-asgards-wrath.json) |
 | Asgard’s Wrath II | 251569 | [251569-asgard-s-wrath-ii.json](./251569-asgard-s-wrath-ii.json) |
 | Asghan 2 | 10864 | [10864-asghan-2.json](./10864-asghan-2.json) |
@@ -15350,6 +15352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroclone | 28478 | [28478-astroclone.json](./28478-astroclone.json) |
 | Astrocode | 383119 | [383119-astrocode.json](./383119-astrocode.json) |
 | Astrocop | 295848 | [295848-astrocop.json](./295848-astrocop.json) |
+| AstroCore Mining | 356348 | [356348-astrocore-mining.json](./356348-astrocore-mining.json) |
 | Astrocraft | 418889 | [418889-astrocraft.json](./418889-astrocraft.json) |
 | Astrodelia | 290827 | [290827-astrodelia.json](./290827-astrodelia.json) |
 | Astroderps | 32323 | [32323-astroderps.json](./32323-astroderps.json) |
@@ -16630,6 +16633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto WWII Equips | 374825 | [374825-auto-wwii-equips.json](./374825-auto-wwii-equips.json) |
 | Auto X | 246311 | [246311-auto-x.json](./246311-auto-x.json) |
 | Auto-Crisis | 330022 | [330022-auto-crisis.json](./330022-auto-crisis.json) |
+| Auto-Land: Mechanical Horror | 356335 | [356335-auto-land-mechanical-horror.json](./356335-auto-land-mechanical-horror.json) |
 | Auto-Miner | 183795 | [183795-auto-miner.json](./183795-auto-miner.json) |
 | Auto-Smash! | 102012 | [102012-auto-smash.json](./102012-auto-smash.json) |
 | Auto-Staccato | 81087 | [81087-auto-staccato.json](./81087-auto-staccato.json) |
