@@ -4066,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catastrophies | 13466 | [13466-catastrophies.json](./13466-catastrophies.json) |
 | Catatattack! | 368083 | [368083-catatattack.json](./368083-catatattack.json) |
 | Catatonic Fits of Despair | 309195 | [309195-catatonic-fits-of-despair.json](./309195-catatonic-fits-of-despair.json) |
+| Cataverse MVP | 381868 | [381868-cataverse-mvp.json](./381868-cataverse-mvp.json) |
 | CatAway | 381293 | [381293-cataway.json](./381293-cataway.json) |
 | Catbo | 311477 | [311477-catbo.json](./311477-catbo.json) |
 | CatBox | 273761 | [273761-catbox.json](./273761-catbox.json) |
@@ -10918,6 +10919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Case | 413103 | [413103-cold-case.json](./413103-cold-case.json) |
 | Cold Case Files | 57683 | [57683-cold-case-files.json](./57683-cold-case-files.json) |
 | Cold Case Summer | 151544 | [151544-cold-case-summer.json](./151544-cold-case-summer.json) |
+| Cold Case: The Red Dress Murder | 381528 | [381528-cold-case-the-red-dress-murder.json](./381528-cold-case-the-red-dress-murder.json) |
 | Cold City | 401838 | [401838-cold-city.json](./401838-cold-city.json) |
 | Cold Comfort | 28096 | [28096-cold-comfort.json](./28096-cold-comfort.json) |
 | Cold Contours: Intake | 407822 | [407822-cold-contours-intake.json](./407822-cold-contours-intake.json) |
