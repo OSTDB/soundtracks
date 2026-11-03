@@ -92,6 +92,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakouchuu | 37761 | [37761-yakouchuu.json](./37761-yakouchuu.json) |
 | Yakouchuu GB | 282797 | [282797-yakouchuu-gb.json](./282797-yakouchuu-gb.json) |
 | Yakouchuu II: Satsujin Kouro | 64868 | [64868-yakouchuu-ii-satsujin-kouro.json](./64868-yakouchuu-ii-satsujin-kouro.json) |
+| Yakouga | 365952 | [365952-yakouga.json](./365952-yakouga.json) |
+| Yakouga 2 | 365955 | [365955-yakouga-2.json](./365955-yakouga-2.json) |
 | Yakouga 3 | 365991 | [365991-yakouga-3.json](./365991-yakouga-3.json) |
 | Yakouga 4 | 365992 | [365992-yakouga-4.json](./365992-yakouga-4.json) |
 | Yakouga 5 | 366020 | [366020-yakouga-5.json](./366020-yakouga-5.json) |
@@ -196,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yametei | 114842 | [114842-yametei.json](./114842-yametei.json) |
 | Yami | 138518 | [138518-yami.json](./138518-yami.json) |
 | Yami Fuku Natsu: Teito Monogatari Futatabi | 147956 | [147956-yami-fuku-natsu-teito-monogatari-futatabi.json](./147956-yami-fuku-natsu-teito-monogatari-futatabi.json) |
+| Yami Kids | 365969 | [365969-yami-kids.json](./365969-yami-kids.json) |
 | Yami Mura | 392945 | [392945-yami-mura.json](./392945-yami-mura.json) |
 | Yami no Ketsuzoku | 112035 | [112035-yami-no-ketsuzoku.json](./112035-yami-no-ketsuzoku.json) |
 | Yami no Ketsuzoku Special | 112037 | [112037-yami-no-ketsuzoku-special.json](./112037-yami-no-ketsuzoku-special.json) |
@@ -1764,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yule Dads | 423226 | [423226-yule-dads.json](./423226-yule-dads.json) |
 | Yule Sock | 178610 | [178610-yule-sock.json](./178610-yule-sock.json) |
 | Yuletide Legends: Frozen Hearts | 415949 | [415949-yuletide-legends-frozen-hearts.json](./415949-yuletide-legends-frozen-hearts.json) |
+| Yuletide Legends: Frozen Hearts - Collector's Edition | 365954 | [365954-yuletide-legends-frozen-hearts-collectors-edition.json](./365954-yuletide-legends-frozen-hearts-collectors-edition.json) |
 | Yuletide Legends: Who Framed Santa Claus | 127738 | [127738-yuletide-legends-who-framed-santa-claus.json](./127738-yuletide-legends-who-framed-santa-claus.json) |
 | Yuletide Machine | 402856 | [402856-yuletide-machine.json](./402856-yuletide-machine.json) |
 | Yuletide Regicide | 381113 | [381113-yuletide-regicide.json](./381113-yuletide-regicide.json) |
