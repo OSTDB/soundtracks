@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Game No. 999999 | 283973 | [283973-backrooms-game-no-999999.json](./283973-backrooms-game-no-999999.json) |
 | Backrooms Hide and Seek | 220349 | [220349-backrooms-hide-and-seek.json](./220349-backrooms-hide-and-seek.json) |
 | Backrooms Horror Escape | 317563 | [317563-backrooms-horror-escape.json](./317563-backrooms-horror-escape.json) |
+| Backrooms in the Forest | 393242 | [393242-backrooms-in-the-forest.json](./393242-backrooms-in-the-forest.json) |
 | Backrooms Interception | 378603 | [378603-backrooms-interception.json](./378603-backrooms-interception.json) |
 | Backrooms Invasion | 298365 | [298365-backrooms-invasion.json](./298365-backrooms-invasion.json) |
 | Backrooms Journey: Into the unknown | 329167 | [329167-backrooms-journey-into-the-unknown.json](./329167-backrooms-journey-into-the-unknown.json) |
@@ -1482,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Run | 118797 | [118797-ball-run.json](./118797-ball-run.json) |
 | Ball Run and Rush | 108384 | [108384-ball-run-and-rush.json](./108384-ball-run-and-rush.json) |
 | Ball Rush | 192063 | [192063-ball-rush.json](./192063-ball-rush.json) |
+| Ball Rush | 393207 | [393207-ball-rush.json](./393207-ball-rush.json) |
 | Ball Rush 2 | 322656 | [322656-ball-rush-2.json](./322656-ball-rush-2.json) |
 | Ball Rush 3 | 402296 | [402296-ball-rush-3.json](./402296-ball-rush-3.json) |
 | Ball Shoot Aim Challenge | 334085 | [334085-ball-shoot-aim-challenge.json](./334085-ball-shoot-aim-challenge.json) |
@@ -9177,6 +9179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blandia Plus | 41409 | [41409-blandia-plus.json](./41409-blandia-plus.json) |
 | Blandville | 177393 | [177393-blandville.json](./177393-blandville.json) |
 | Blank | 127800 | [127800-blank.json](./127800-blank.json) |
+| Blank | 393222 | [393222-blank.json](./393222-blank.json) |
 | Blank Blood | 266670 | [266670-blank-blood.json](./266670-blank-blood.json) |
 | Blank Dream | 47005 | [47005-blank-dream.json](./47005-blank-dream.json) |
 | Blank Frame | 181888 | [181888-blank-frame.json](./181888-blank-frame.json) |
@@ -10905,6 +10908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossom Voyage | 403740 | [403740-blossom-voyage.json](./403740-blossom-voyage.json) |
 | Blossom: La Jirafa Saga | 186496 | [186496-blossom-la-jirafa-saga.json](./186496-blossom-la-jirafa-saga.json) |
 | Blossom: The Seed of Life | 370981 | [370981-blossom-the-seed-of-life.json](./370981-blossom-the-seed-of-life.json) |
+| Blossom’s Grove: An English-learning Game | 393243 | [393243-blossom-s-grove-an-english-learning-game.json](./393243-blossom-s-grove-an-english-learning-game.json) |
 | Blossoming Ruins | 375208 | [375208-blossoming-ruins.json](./375208-blossoming-ruins.json) |
 | Blossoming Yandere | 114115 | [114115-blossoming-yandere.json](./114115-blossoming-yandere.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
@@ -12465,6 +12469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom-Bahh | 43537 | [43537-boom-bahh.json](./43537-boom-bahh.json) |
 | Boom-Bap!! | 393739 | [393739-boom-bap.json](./393739-boom-bap.json) |
 | Boom-Shaka-Laka! | 281962 | [281962-boom-shaka-laka.json](./281962-boom-shaka-laka.json) |
+| Boom: Defense of Abydos | 393202 | [393202-boom-defense-of-abydos.json](./393202-boom-defense-of-abydos.json) |
 | Boom! | 203894 | [203894-boom.json](./203894-boom.json) |
 | Boom! | 251582 | [251582-boom.json](./251582-boom.json) |
 | Boom! | 56836 | [56836-boom.json](./56836-boom.json) |
