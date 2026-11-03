@@ -4,6 +4,7 @@
 
 | Cover | Game | Albums |
 |---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f209cd9e02856a448c5b1cd" width="60" /> | [Cabernet](https://ostdb.net/games/cabernet) | **Cabernet (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3k1mLR7o6cKhVO6gSK6L0r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e55d37e64590988ae67828f" width="60" /> | [Caesar IV](https://ostdb.net/games/caesar-iv) | **Caesar IV- Original Game Music Score** · [Spotify](https://open.spotify.com/album/5v6ax5nCQViqJGPkGJYgNJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b8c7c61c19e54862a3023a65" width="60" /> | [Cairn](https://ostdb.net/games/cairn) | **Cairn (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3goW8YLesdd64Jh2DBiWhw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c18d836f1353b11b50b26aa" width="60" /> | [Calico](https://ostdb.net/games/calico) | **Calico (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6BruBYjMbZgMEWc9Lx6OOO) |
