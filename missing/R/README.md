@@ -1575,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rallycross Track Racing | 221383 | [221383-rallycross-track-racing.json](./221383-rallycross-track-racing.json) |
 | Rallye Racing 97 | 73062 | [73062-rallye-racing-97.json](./73062-rallye-racing-97.json) |
 | Rallygator | 212053 | [212053-rallygator.json](./212053-rallygator.json) |
+| Rallyween | 376146 | [376146-rallyween.json](./376146-rallyween.json) |
 | Ralph Baer's Pinball! | 257666 | [257666-ralph-baers-pinball.json](./257666-ralph-baers-pinball.json) |
 | Ralph Breaks VR | 246638 | [246638-ralph-breaks-vr.json](./246638-ralph-breaks-vr.json) |
 | Ralsei's got a gun! | 175924 | [175924-ralseis-got-a-gun.json](./175924-ralseis-got-a-gun.json) |
@@ -3524,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recur | 325277 | [325277-recur.json](./325277-recur.json) |
 | Recurrence | 374412 | [374412-recurrence.json](./374412-recurrence.json) |
 | Recurring Dreams | 156719 | [156719-recurring-dreams.json](./156719-recurring-dreams.json) |
+| Recurring Nightmares | 376161 | [376161-recurring-nightmares.json](./376161-recurring-nightmares.json) |
 | Recursed | 32191 | [32191-recursed.json](./32191-recursed.json) |
 | Recursed: The Ice Palace | 322272 | [322272-recursed-the-ice-palace.json](./322272-recursed-the-ice-palace.json) |
 | Recursion | 296738 | [296738-recursion.json](./296738-recursion.json) |
