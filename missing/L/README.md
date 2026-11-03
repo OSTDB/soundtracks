@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Ith | 62551 | [62551-legends-of-ith.json](./62551-legends-of-ith.json) |
 | Legends of Kailrate | 309212 | [309212-legends-of-kailrate.json](./309212-legends-of-kailrate.json) |
 | Legends of Kingdom Rush | 159076 | [159076-legends-of-kingdom-rush.json](./159076-legends-of-kingdom-rush.json) |
+| Legends of Kong | 368214 | [368214-legends-of-kong.json](./368214-legends-of-kong.json) |
 | Legends of Koyannis | 110368 | [110368-legends-of-koyannis.json](./110368-legends-of-koyannis.json) |
 | Legends of Libra | 178253 | [178253-legends-of-libra.json](./178253-legends-of-libra.json) |
 | Legends of Loot | 64346 | [64346-legends-of-loot.json](./64346-legends-of-loot.json) |
@@ -6173,6 +6174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Dead House | 365730 | [365730-living-dead-house.json](./365730-living-dead-house.json) |
 | Living Dead Outbreak | 389910 | [389910-living-dead-outbreak.json](./389910-living-dead-outbreak.json) |
 | Living Dolls Rebirth Alpha | 270030 | [270030-living-dolls-rebirth-alpha.json](./270030-living-dolls-rebirth-alpha.json) |
+| Living Hell | 368188 | [368188-living-hell.json](./368188-living-hell.json) |
 | Living in 2020 | 368909 | [368909-living-in-2020.json](./368909-living-in-2020.json) |
 | Living in a Brothel | 304293 | [304293-living-in-a-brothel.json](./304293-living-in-a-brothel.json) |
 | Living In Infinity | 369263 | [369263-living-in-infinity.json](./369263-living-in-infinity.json) |
