@@ -6130,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me, the Drifter; Her, the Optimist | 392465 | [392465-me-the-drifter-her-the-optimist.json](./392465-me-the-drifter-her-the-optimist.json) |
 | Me2 | 329211 | [329211-me2.json](./329211-me2.json) |
 | Mea’s Saifu Collection Party | 411618 | [411618-mea-s-saifu-collection-party.json](./411618-mea-s-saifu-collection-party.json) |
+| Mead & Glory | 374865 | [374865-mead-and-glory.json](./374865-mead-and-glory.json) |
 | Mead Crafter | 139122 | [139122-mead-crafter.json](./139122-mead-crafter.json) |
 | Meadgard | 280279 | [280279-meadgard.json](./280279-meadgard.json) |
 | Meadow Assault | 304582 | [304582-meadow-assault.json](./304582-meadow-assault.json) |
@@ -11999,6 +12000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Championship | 204705 | [204705-mini-golf-championship.json](./204705-mini-golf-championship.json) |
 | Mini Golf Club | 130078 | [130078-mini-golf-club.json](./130078-mini-golf-club.json) |
 | Mini Golf Game 3D | 86491 | [86491-mini-golf-game-3d.json](./86491-mini-golf-game-3d.json) |
+| Mini Golf Gold | 374555 | [374555-mini-golf-gold.json](./374555-mini-golf-gold.json) |
 | Mini Golf Halloween | 233754 | [233754-mini-golf-halloween.json](./233754-mini-golf-halloween.json) |
 | Mini Golf King | 125936 | [125936-mini-golf-king.json](./125936-mini-golf-king.json) |
 | Mini Golf King - Multiplayer | 87011 | [87011-mini-golf-king-multiplayer.json](./87011-mini-golf-king-multiplayer.json) |
@@ -14081,6 +14083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molewack | 294815 | [294815-molewack.json](./294815-molewack.json) |
 | Moley Christmas | 59679 | [59679-moley-christmas.json](./59679-moley-christmas.json) |
 | MoleZ | 75411 | [75411-molez.json](./75411-molez.json) |
+| Molitva | 374552 | [374552-molitva.json](./374552-molitva.json) |
 | Mollie | 180688 | [180688-mollie.json](./180688-mollie.json) |
 | Mollusk Redux | 41167 | [41167-mollusk-redux.json](./41167-mollusk-redux.json) |
 | Molly and the Gunmids | 185687 | [185687-molly-and-the-gunmids.json](./185687-molly-and-the-gunmids.json) |
