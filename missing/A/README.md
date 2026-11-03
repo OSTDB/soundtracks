@@ -11555,6 +11555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Galactic Warriors | 377686 | [377686-arcade-archives-2-galactic-warriors.json](./377686-arcade-archives-2-galactic-warriors.json) |
 | Arcade Archives 2: Gee Bee | 371415 | [371415-arcade-archives-2-gee-bee.json](./371415-arcade-archives-2-gee-bee.json) |
 | Arcade Archives 2: Hyper Crash | 409672 | [409672-arcade-archives-2-hyper-crash.json](./409672-arcade-archives-2-hyper-crash.json) |
+| Arcade Archives 2: Konami GT | 398768 | [398768-arcade-archives-2-konami-gt.json](./398768-arcade-archives-2-konami-gt.json) |
 | Arcade Archives 2: Mach Breakers | 365534 | [365534-arcade-archives-2-mach-breakers.json](./365534-arcade-archives-2-mach-breakers.json) |
 | Arcade Archives 2: Mega Zone | 390481 | [390481-arcade-archives-2-mega-zone.json](./390481-arcade-archives-2-mega-zone.json) |
 | Arcade Archives 2: Moon Shuttle | 408159 | [408159-arcade-archives-2-moon-shuttle.json](./408159-arcade-archives-2-moon-shuttle.json) |
@@ -11718,6 +11719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: KiKi KaiKai | 99536 | [99536-arcade-archives-kiki-kaikai.json](./99536-arcade-archives-kiki-kaikai.json) |
 | Arcade Archives: King & Balloon | 257326 | [257326-arcade-archives-king-and-balloon.json](./257326-arcade-archives-king-and-balloon.json) |
 | Arcade Archives: Knuckle Heads | 314877 | [314877-arcade-archives-knuckle-heads.json](./314877-arcade-archives-knuckle-heads.json) |
+| Arcade Archives: Konami GT | 398767 | [398767-arcade-archives-konami-gt.json](./398767-arcade-archives-konami-gt.json) |
 | Arcade Archives: Konami's Table Tennis | 322440 | [322440-arcade-archives-konamis-table-tennis.json](./322440-arcade-archives-konamis-table-tennis.json) |
 | Arcade Archives: Koutetsu Yousai Strahl | 147107 | [147107-arcade-archives-koutetsu-yousai-strahl.json](./147107-arcade-archives-koutetsu-yousai-strahl.json) |
 | Arcade Archives: Kuri Kinton | 164766 | [164766-arcade-archives-kuri-kinton.json](./164766-arcade-archives-kuri-kinton.json) |
@@ -16594,6 +16596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ava Airborne | 96207 | [96207-ava-airborne.json](./96207-ava-airborne.json) |
 | Ava and Avior Save the Earth | 84979 | [84979-ava-and-avior-save-the-earth.json](./84979-ava-and-avior-save-the-earth.json) |
 | Ava and the Half-World | 303268 | [303268-ava-and-the-half-world.json](./303268-ava-and-the-half-world.json) |
+| Ava Loveless | 398808 | [398808-ava-loveless.json](./398808-ava-loveless.json) |
 | AVA: An Interactive Fairy Tale | 133593 | [133593-ava-an-interactive-fairy-tale.json](./133593-ava-an-interactive-fairy-tale.json) |
 | AVA: Dark History | 123856 | [123856-ava-dark-history.json](./123856-ava-dark-history.json) |
 | AVA: Dog Tag | 116760 | [116760-ava-dog-tag.json](./116760-ava-dog-tag.json) |
