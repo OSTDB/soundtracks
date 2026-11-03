@@ -26805,7 +26805,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 3: US Passenger Bundle | 239255 | [239255-train-sim-world-3-us-passenger-bundle.json](./239255-train-sim-world-3-us-passenger-bundle.json) |
 | Train Sim World 3: US Super Bundle | 239256 | [239256-train-sim-world-3-us-super-bundle.json](./239256-train-sim-world-3-us-super-bundle.json) |
 | Train Sim World 3: West Somerset Railway | 225932 | [225932-train-sim-world-3-west-somerset-railway.json](./225932-train-sim-world-3-west-somerset-railway.json) |
-| Train Sim World 4 | 262582 | [262582-train-sim-world-4.json](./262582-train-sim-world-4.json) |
 | Train Sim World 4: Antelope Valley Line - Los Angeles - Lancaster Route | 269324 | [269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json](./269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json) |
 | Train Sim World 4: Austrian Regional Edition | 268833 | [268833-train-sim-world-4-austrian-regional-edition.json](./268833-train-sim-world-4-austrian-regional-edition.json) |
 | Train Sim World 4: Bahnstrecke Salzburg - Rosenheim Route Add-On | 293695 | [293695-train-sim-world-4-bahnstrecke-salzburg-rosenheim-route-add-on.json](./293695-train-sim-world-4-bahnstrecke-salzburg-rosenheim-route-add-on.json) |
@@ -30445,7 +30444,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try 'n Cry: Prologue | 123784 | [123784-try-n-cry-prologue.json](./123784-try-n-cry-prologue.json) |
 | Try 2 Sleep | 323434 | [323434-try-2-sleep.json](./323434-try-2-sleep.json) |
 | Try Again | 219526 | [219526-try-again.json](./219526-try-again.json) |
-| Try Again | 249388 | [249388-try-again.json](./249388-try-again.json) |
 | Try again! | 127595 | [127595-try-again.json](./127595-try-again.json) |
 | Try Dying | 319713 | [319713-try-dying.json](./319713-try-dying.json) |
 | Try Harder | 191613 | [191613-try-harder.json](./191613-try-harder.json) |
