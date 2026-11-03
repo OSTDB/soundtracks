@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Day Betsy | 109863 | [109863-bad-day-betsy.json](./109863-bad-day-betsy.json) |
 | Bad Delivery: Pizza Your Heart | 381617 | [381617-bad-delivery-pizza-your-heart.json](./381617-bad-delivery-pizza-your-heart.json) |
 | Bad Dinos | 23219 | [23219-bad-dinos.json](./23219-bad-dinos.json) |
+| Bad Dog, Good Nights | 393851 | [393851-bad-dog-good-nights.json](./393851-bad-dog-good-nights.json) |
 | Bad Dog, Good Time | 393805 | [393805-bad-dog-good-time.json](./393805-bad-dog-good-time.json) |
 | Bad Dream | 329075 | [329075-bad-dream.json](./329075-bad-dream.json) |
 | Bad Dream: Afterlife | 372663 | [372663-bad-dream-afterlife.json](./372663-bad-dream-afterlife.json) |
@@ -12806,6 +12807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Battle Arena | 371065 | [371065-boss-battle-arena.json](./371065-boss-battle-arena.json) |
 | Boss Beek-Beekeeping Simulator | 188782 | [188782-boss-beek-beekeeping-simulator.json](./188782-boss-beek-beekeeping-simulator.json) |
 | Boss Breaker | 291348 | [291348-boss-breaker.json](./291348-boss-breaker.json) |
+| Boss Faction | 393869 | [393869-boss-faction.json](./393869-boss-faction.json) |
 | Boss Fighters | 235372 | [235372-boss-fighters.json](./235372-boss-fighters.json) |
 | Boss Hunter | 233485 | [233485-boss-hunter.json](./233485-boss-hunter.json) |
 | Boss Hunter | 368679 | [368679-boss-hunter.json](./368679-boss-hunter.json) |
@@ -16420,6 +16422,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulu Monster | 262350 | [262350-bulu-monster.json](./262350-bulu-monster.json) |
 | Buluk: Mayan Warfare | 125420 | [125420-buluk-mayan-warfare.json](./125420-buluk-mayan-warfare.json) |
 | Bulwark | 351181 | [351181-bulwark.json](./351181-bulwark.json) |
+| Bulwark 53 | 393774 | [393774-bulwark-53.json](./393774-bulwark-53.json) |
+| Bulwark 53 Part 2 | 393775 | [393775-bulwark-53-part-2.json](./393775-bulwark-53-part-2.json) |
 | Bulwark Evolution: Falconeer Chronicles | 214486 | [214486-bulwark-evolution-falconeer-chronicles.json](./214486-bulwark-evolution-falconeer-chronicles.json) |
 | Bulwark Evolution: Falconeer Chronicles - Dreadnot Day One | 294008 | [294008-bulwark-evolution-falconeer-chronicles-dreadnot-day-one.json](./294008-bulwark-evolution-falconeer-chronicles-dreadnot-day-one.json) |
 | Bulwark Evolution: Falconeer Chronicles - GunBoat | 350915 | [350915-bulwark-evolution-falconeer-chronicles-gunboat.json](./350915-bulwark-evolution-falconeer-chronicles-gunboat.json) |
