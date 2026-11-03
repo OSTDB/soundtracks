@@ -2746,9 +2746,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patapon 1+2 Replay | 337025 | [337025-patapon-1-2-replay.json](./337025-patapon-1-2-replay.json) |
 | Patapon 2 | 7813 | [7813-patapon-2.json](./7813-patapon-2.json) |
 | Patapon 2 Remastered | 76961 | [76961-patapon-2-remastered.json](./76961-patapon-2-remastered.json) |
+| Patapon 2 Replay | 352489 | [352489-patapon-2-replay.json](./352489-patapon-2-replay.json) |
 | Patapon 2: Art of War | 61093 | [61093-patapon-2-art-of-war.json](./61093-patapon-2-art-of-war.json) |
 | Patapon 3 | 18373 | [18373-patapon-3.json](./18373-patapon-3.json) |
 | Patapon Remastered | 26233 | [26233-patapon-remastered.json](./26233-patapon-remastered.json) |
+| Patapon Replay | 352488 | [352488-patapon-replay.json](./352488-patapon-replay.json) |
 | Patapon: Band Camp | 61092 | [61092-patapon-band-camp.json](./61092-patapon-band-camp.json) |
 | Patch | 391686 | [391686-patch.json](./391686-patch.json) |
 | Patch Catch | 256196 | [256196-patch-catch.json](./256196-patch-catch.json) |
