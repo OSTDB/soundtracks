@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dad's Dice: History of Legends | 217461 | [217461-dads-dice-history-of-legends.json](./217461-dads-dice-history-of-legends.json) |
 | Dad’s Gonna Be a Travel Influencer. | 403932 | [403932-dad-s-gonna-be-a-travel-influencer.json](./403932-dad-s-gonna-be-a-travel-influencer.json) |
 | Dad's Last Fishing Trip | 328894 | [328894-dads-last-fishing-trip.json](./328894-dads-last-fishing-trip.json) |
+| Dad's Office 1998 | 359674 | [359674-dads-office-1998.json](./359674-dads-office-1998.json) |
 | Daddy | 223230 | [223230-daddy.json](./223230-daddy.json) |
 | Daddy Comes Home | 330477 | [330477-daddy-comes-home.json](./330477-daddy-comes-home.json) |
 | Daddy Long Legs | 89289 | [89289-daddy-long-legs.json](./89289-daddy-long-legs.json) |
@@ -1265,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark | 380231 | [380231-dark.json](./380231-dark.json) |
 | Dark & Quispy | 303457 | [303457-dark-and-quispy.json](./303457-dark-and-quispy.json) |
 | Dark & Under | 144371 | [144371-dark-and-under.json](./144371-dark-and-under.json) |
+| Dark 4799 | 359673 | [359673-dark-4799.json](./359673-dark-4799.json) |
 | Dark 7 | 310528 | [310528-dark-7.json](./310528-dark-7.json) |
 | Dark Abyss | 148283 | [148283-dark-abyss.json](./148283-dark-abyss.json) |
 | Dark Adelita | 350419 | [350419-dark-adelita.json](./350419-dark-adelita.json) |
@@ -10861,6 +10863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doashime | 274538 | [274538-doashime.json](./274538-doashime.json) |
 | Dob | 395373 | [395373-dob.json](./395373-dob.json) |
 | Doba Dash | 182942 | [182942-doba-dash.json](./182942-doba-dash.json) |
+| DOBA: Dogs Battle Arena | 359692 | [359692-doba-dogs-battle-arena.json](./359692-doba-dogs-battle-arena.json) |
 | DoBad Inc | 369896 | [369896-dobad-inc.json](./369896-dobad-inc.json) |
 | Dobbel | 94605 | [94605-dobbel.json](./94605-dobbel.json) |
 | Dobbel Dungeon | 290612 | [290612-dobbel-dungeon.json](./290612-dobbel-dungeon.json) |
@@ -17069,6 +17072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune Strider | 203547 | [203547-dune-strider.json](./203547-dune-strider.json) |
 | Dune War | 287504 | [287504-dune-war.json](./287504-dune-war.json) |
 | Dune: Awakening - Chapter 2 | 362059 | [362059-dune-awakening-chapter-2.json](./362059-dune-awakening-chapter-2.json) |
+| Dune: Awakening - Dune Film Stillsuit | 359688 | [359688-dune-awakening-dune-film-stillsuit.json](./359688-dune-awakening-dune-film-stillsuit.json) |
 | Dune: Awakening - Filmic Archive | 415291 | [415291-dune-awakening-filmic-archive.json](./415291-dune-awakening-filmic-archive.json) |
 | Dune: Awakening - The Lost Harvest | 362058 | [362058-dune-awakening-the-lost-harvest.json](./362058-dune-awakening-the-lost-harvest.json) |
 | Dune: Awakening - The Water Wars DLC | 400089 | [400089-dune-awakening-the-water-wars-dlc.json](./400089-dune-awakening-the-water-wars-dlc.json) |
