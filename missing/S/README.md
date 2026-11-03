@@ -1655,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānguó Yǎnyì: Huǒshāo Chìbì | 356018 | [356018-sanguo-yanyi-huoshao-chibi.json](./356018-sanguo-yanyi-huoshao-chibi.json) |
 | Sānguó Yōngbīng Chuánqí | 114316 | [114316-sanguo-yongbing-chuanqi.json](./114316-sanguo-yongbing-chuanqi.json) |
 | Sānguó Yóuxiá Zhì | 83569 | [83569-sanguo-youxia-zhi.json](./83569-sanguo-youxia-zhi.json) |
+| Sānguó Zhào Yún Zhuàn Zhī Zònghéng Tiānxià | 351352 | [351352-sanguo-zhao-yun-zhuan-zhi-zongheng-tianxia.json](./351352-sanguo-zhao-yun-zhuan-zhi-zongheng-tianxia.json) |
 | Sānguó Zhī Nù | 367133 | [367133-sanguo-zhi-nu.json](./367133-sanguo-zhi-nu.json) |
 | Sānguó Zhì: Qúnxióng Zhēngbà | 350017 | [350017-sanguo-zhi-qunxiong-zhengba.json](./350017-sanguo-zhi-qunxiong-zhengba.json) |
 | Sānguó: 223 | 257678 | [257678-sanguo-223.json](./257678-sanguo-223.json) |
@@ -4089,6 +4090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seas of Blood | 26356 | [26356-seas-of-blood.json](./26356-seas-of-blood.json) |
 | Seas of Fortune | 120964 | [120964-seas-of-fortune.json](./120964-seas-of-fortune.json) |
 | Seas of Kahtaone | 260300 | [260300-seas-of-kahtaone.json](./260300-seas-of-kahtaone.json) |
+| Seas of Raesenia | 351366 | [351366-seas-of-raesenia.json](./351366-seas-of-raesenia.json) |
 | Seascape Paradiso | 304321 | [304321-seascape-paradiso.json](./304321-seascape-paradiso.json) |
 | Seashell | 195692 | [195692-seashell.json](./195692-seashell.json) |
 | Seashell Isle | 356536 | [356536-seashell-isle.json](./356536-seashell-isle.json) |
@@ -5049,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self Portrait (Interior) | 180512 | [180512-self-portrait-interior.json](./180512-self-portrait-interior.json) |
 | Self Reflection | 178011 | [178011-self-reflection.json](./178011-self-reflection.json) |
 | Self Shot | 117806 | [117806-self-shot.json](./117806-self-shot.json) |
+| Self-Comb Women: Home Left Behind | 351380 | [351380-self-comb-women-home-left-behind.json](./351380-self-comb-women-home-left-behind.json) |
 | Self-Defense Training Camp | 8545 | [8545-self-defense-training-camp.json](./8545-self-defense-training-camp.json) |
 | Self-indulgence | 273784 | [273784-self-indulgence.json](./273784-self-indulgence.json) |
 | Self-Isolation | 139644 | [139644-self-isolation.json](./139644-self-isolation.json) |
@@ -5071,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selknam Defense | 10816 | [10816-selknam-defense.json](./10816-selknam-defense.json) |
 | Selkö | 229507 | [229507-selko.json](./229507-selko.json) |
 | Selling & Parking & Crash Simulator Bundle | 387414 | [387414-selling-and-parking-and-crash-simulator-bundle.json](./387414-selling-and-parking-and-crash-simulator-bundle.json) |
+| Selling Game | 351505 | [351505-selling-game.json](./351505-selling-game.json) |
 | Selling Souls | 283244 | [283244-selling-souls.json](./283244-selling-souls.json) |
 | Selling Sunlight | 118412 | [118412-selling-sunlight.json](./118412-selling-sunlight.json) |
 | Selling Sunlight | 68479 | [68479-selling-sunlight.json](./68479-selling-sunlight.json) |
@@ -6210,6 +6214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sfinx | 228956 | [228956-sfinx.json](./228956-sfinx.json) |
 | SFPD Homicide / Case File: The Body in the Bay | 78441 | [78441-sfpd-homicide-case-file-the-body-in-the-bay.json](./78441-sfpd-homicide-case-file-the-body-in-the-bay.json) |
 | Sfsim | 415868 | [415868-sfsim.json](./415868-sfsim.json) |
+| SFZ Project: E0 Deluxe Remake | 351506 | [351506-sfz-project-e0-deluxe-remake.json](./351506-sfz-project-e0-deluxe-remake.json) |
 | SG Racing | 207760 | [207760-sg-racing.json](./207760-sg-racing.json) |
 | SGarden | 180050 | [180050-sgarden.json](./180050-sgarden.json) |
 | SGC: Short Games Collection #1 | 173141 | [173141-sgc-short-games-collection-1.json](./173141-sgc-short-games-collection-1.json) |
@@ -10175,6 +10180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Souls | 422809 | [422809-silly-souls.json](./422809-silly-souls.json) |
 | Silly Suspects | 309735 | [309735-silly-suspects.json](./309735-silly-suspects.json) |
 | Silly Sync | 379894 | [379894-silly-sync.json](./379894-silly-sync.json) |
+| Silly Tanks | 351504 | [351504-silly-tanks.json](./351504-silly-tanks.json) |
 | Silly Wisher | 358506 | [358506-silly-wisher.json](./358506-silly-wisher.json) |
 | Silly's Gameshow | 347804 | [347804-sillys-gameshow.json](./347804-sillys-gameshow.json) |
 | Sillyfun Valley | 158577 | [158577-sillyfun-valley.json](./158577-sillyfun-valley.json) |
@@ -13044,6 +13050,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Laboratory | 108794 | [108794-slime-laboratory.json](./108794-slime-laboratory.json) |
 | Slime Laboratory 2 | 409010 | [409010-slime-laboratory-2.json](./409010-slime-laboratory-2.json) |
 | Slime Labs | 152791 | [152791-slime-labs.json](./152791-slime-labs.json) |
+| Slime Labs | 351375 | [351375-slime-labs.json](./351375-slime-labs.json) |
+| Slime Labs 2 | 351379 | [351379-slime-labs-2.json](./351379-slime-labs-2.json) |
 | Slime Labs 3 | 243307 | [243307-slime-labs-3.json](./243307-slime-labs-3.json) |
 | Slime Land Adventures | 220056 | [220056-slime-land-adventures.json](./220056-slime-land-adventures.json) |
 | Slime Legion | 242238 | [242238-slime-legion.json](./242238-slime-legion.json) |
@@ -14550,6 +14558,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite: Nazi Zombie Army 2 | 10877 | [10877-sniper-elite-nazi-zombie-army-2.json](./10877-sniper-elite-nazi-zombie-army-2.json) |
 | Sniper Elite: Resistance | 314238 | [314238-sniper-elite-resistance.json](./314238-sniper-elite-resistance.json) |
 | Sniper Elite: Resistance - Commando Weapon Pack | 375751 | [375751-sniper-elite-resistance-commando-weapon-pack.json](./375751-sniper-elite-resistance-commando-weapon-pack.json) |
+| Sniper Elite: Resistance - Mud and Thunder Mission, Weapons and Skin Pack | 351494 | [351494-sniper-elite-resistance-mud-and-thunder-mission-weapons-and-skin-pack.json](./351494-sniper-elite-resistance-mud-and-thunder-mission-weapons-and-skin-pack.json) |
+| Sniper Elite: Resistance - Wrath of the Resistance Weapon and Skins Pack | 351493 | [351493-sniper-elite-resistance-wrath-of-the-resistance-weapon-and-skins-pack.json](./351493-sniper-elite-resistance-wrath-of-the-resistance-weapon-and-skins-pack.json) |
 | Sniper Fodder | 103815 | [103815-sniper-fodder.json](./103815-sniper-fodder.json) |
 | Sniper Fury | 20356 | [20356-sniper-fury.json](./20356-sniper-fury.json) |
 | Sniper Game | 195893 | [195893-sniper-game.json](./195893-sniper-game.json) |
@@ -18734,6 +18744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21670,6 +21681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spore Hero Arena | 21214 | [21214-spore-hero-arena.json](./21214-spore-hero-arena.json) |
 | Spore Monsters.io 3D | 105810 | [105810-spore-monsters-io-3d.json](./105810-spore-monsters-io-3d.json) |
 | Spore Origins | 78885 | [78885-spore-origins.json](./78885-spore-origins.json) |
+| Spore Valley | 351497 | [351497-spore-valley.json](./351497-spore-valley.json) |
 | Spore: Creepy and Cute | 70680 | [70680-spore-creepy-and-cute.json](./70680-spore-creepy-and-cute.json) |
 | Spore: Galactic Edition | 46617 | [46617-spore-galactic-edition.json](./46617-spore-galactic-edition.json) |
 | SporeBloom | 304716 | [304716-sporebloom.json](./304716-sporebloom.json) |
@@ -26573,6 +26585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Shortcake: The Four Seasons Cake | 8574 | [8574-strawberry-shortcake-the-four-seasons-cake.json](./8574-strawberry-shortcake-the-four-seasons-cake.json) |
 | Strawberry Shortcake: The Sweet Dreams Game | 8572 | [8572-strawberry-shortcake-the-sweet-dreams-game.json](./8572-strawberry-shortcake-the-sweet-dreams-game.json) |
 | Strawberry Sweet Pop | 214960 | [214960-strawberry-sweet-pop.json](./214960-strawberry-sweet-pop.json) |
+| Strawberry Test | 351491 | [351491-strawberry-test.json](./351491-strawberry-test.json) |
 | Strawberry Vinegar | 34341 | [34341-strawberry-vinegar.json](./34341-strawberry-vinegar.json) |
 | Strawberry's Flowers | 297414 | [297414-strawberrys-flowers.json](./297414-strawberrys-flowers.json) |
 | Strawhart | 123365 | [123365-strawhart.json](./123365-strawhart.json) |
