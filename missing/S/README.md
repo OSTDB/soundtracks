@@ -12222,6 +12222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyfighter Arcade | 233632 | [233632-skyfighter-arcade.json](./233632-skyfighter-arcade.json) |
 | SkyFighters 1945 | 339151 | [339151-skyfighters-1945.json](./339151-skyfighters-1945.json) |
 | Skyfire Legends | 419763 | [419763-skyfire-legends.json](./419763-skyfire-legends.json) |
+| Skyfire: Death From Above | 356371 | [356371-skyfire-death-from-above.json](./356371-skyfire-death-from-above.json) |
 | Skyfish II: Eat Your Peas | 79367 | [79367-skyfish-ii-eat-your-peas.json](./79367-skyfish-ii-eat-your-peas.json) |
 | Skyfish Rising | 340366 | [340366-skyfish-rising.json](./340366-skyfish-rising.json) |
 | Skyflower | 35411 | [35411-skyflower.json](./35411-skyflower.json) |
@@ -28877,6 +28878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunken Brawl | 75147 | [75147-sunken-brawl.json](./75147-sunken-brawl.json) |
 | Sunken Century | 188318 | [188318-sunken-century.json](./188318-sunken-century.json) |
 | Sunken Citadel | 137306 | [137306-sunken-citadel.json](./137306-sunken-citadel.json) |
+| Sunken Dragon | 356352 | [356352-sunken-dragon.json](./356352-sunken-dragon.json) |
 | Sunken Dreams | 371499 | [371499-sunken-dreams.json](./371499-sunken-dreams.json) |
 | Sunken Engine | 336738 | [336738-sunken-engine.json](./336738-sunken-engine.json) |
 | Sunken Heads | 138821 | [138821-sunken-heads.json](./138821-sunken-heads.json) |
@@ -34358,12 +34360,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: 90s Rock Music Pack | 353648 | [353648-synth-riders-90s-rock-music-pack.json](./353648-synth-riders-90s-rock-music-pack.json) |
 | Synth Riders: A-ha - "Take On Me" | 298699 | [298699-synth-riders-a-ha-take-on-me.json](./298699-synth-riders-a-ha-take-on-me.json) |
 | Synth Riders: Artemas - "I Like the Way You Kiss Me" | 354554 | [354554-synth-riders-artemas-i-like-the-way-you-kiss-me.json](./354554-synth-riders-artemas-i-like-the-way-you-kiss-me.json) |
+| Synth Riders: Au5 - "Eden" | 356362 | [356362-synth-riders-au5-eden.json](./356362-synth-riders-au5-eden.json) |
 | Synth Riders: Bad Religion - "21st Century (Digital Boy)" | 356085 | [356085-synth-riders-bad-religion-21st-century-digital-boy.json](./356085-synth-riders-bad-religion-21st-century-digital-boy.json) |
 | Synth Riders: Balduin, Wolfgang Lohr - "Magic Man" | 288233 | [288233-synth-riders-balduin-wolfgang-lohr-magic-man.json](./288233-synth-riders-balduin-wolfgang-lohr-magic-man.json) |
 | Synth Riders: Blur - "Song 2" | 352397 | [352397-synth-riders-blur-song-2.json](./352397-synth-riders-blur-song-2.json) |
 | Synth Riders: Bruno Mars - "24K Magic" | 353177 | [353177-synth-riders-bruno-mars-24k-magic.json](./353177-synth-riders-bruno-mars-24k-magic.json) |
 | Synth Riders: Bruno Mars - "Runaway Baby" | 356079 | [356079-synth-riders-bruno-mars-runaway-baby.json](./356079-synth-riders-bruno-mars-runaway-baby.json) |
 | Synth Riders: Caravan Palace - "Lone Digger" | 356191 | [356191-synth-riders-caravan-palace-lone-digger.json](./356191-synth-riders-caravan-palace-lone-digger.json) |
+| Synth Riders: Caravan Palace - "Miracle" | 356357 | [356357-synth-riders-caravan-palace-miracle.json](./356357-synth-riders-caravan-palace-miracle.json) |
+| Synth Riders: Caravan Palace - "Rock It For Me" | 356356 | [356356-synth-riders-caravan-palace-rock-it-for-me.json](./356356-synth-riders-caravan-palace-rock-it-for-me.json) |
 | Synth Riders: Caravan Palace - "Tattoos" | 356183 | [356183-synth-riders-caravan-palace-tattoos.json](./356183-synth-riders-caravan-palace-tattoos.json) |
 | Synth Riders: Caravan Palace - "Wonderland" | 353652 | [353652-synth-riders-caravan-palace-wonderland.json](./353652-synth-riders-caravan-palace-wonderland.json) |
 | Synth Riders: Challenges+ Update | 341049 | [341049-synth-riders-challenges-update.json](./341049-synth-riders-challenges-update.json) |
@@ -34378,6 +34383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Devo - "Whip It" | 298700 | [298700-synth-riders-devo-whip-it.json](./298700-synth-riders-devo-whip-it.json) |
 | Synth Riders: Electro Swing Essentials | 356829 | [356829-synth-riders-electro-swing-essentials.json](./356829-synth-riders-electro-swing-essentials.json) |
 | Synth Riders: Electro Swing Essentials 2 | 356902 | [356902-synth-riders-electro-swing-essentials-2.json](./356902-synth-riders-electro-swing-essentials-2.json) |
+| Synth Riders: FM-84 & Ollie Wride - "Running in the Night" | 356365 | [356365-synth-riders-fm-84-and-ollie-wride-running-in-the-night.json](./356365-synth-riders-fm-84-and-ollie-wride-running-in-the-night.json) |
 | Synth Riders: Gorillaz - "Dare" | 353174 | [353174-synth-riders-gorillaz-dare.json](./353174-synth-riders-gorillaz-dare.json) |
 | Synth Riders: Gorillaz - "Feel Good Inc" | 353175 | [353175-synth-riders-gorillaz-feel-good-inc.json](./353175-synth-riders-gorillaz-feel-good-inc.json) |
 | Synth Riders: Gorillaz - "New Gold" | 353176 | [353176-synth-riders-gorillaz-new-gold.json](./353176-synth-riders-gorillaz-new-gold.json) |
@@ -34392,6 +34398,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: INXS - "New Sensation" | 298701 | [298701-synth-riders-inxs-new-sensation.json](./298701-synth-riders-inxs-new-sensation.json) |
 | Synth Riders: Jack Harlow - "Lovin On Me" | 354555 | [354555-synth-riders-jack-harlow-lovin-on-me.json](./354555-synth-riders-jack-harlow-lovin-on-me.json) |
 | Synth Riders: Jamie Berry - "Guilty Pleasure" | 288238 | [288238-synth-riders-jamie-berry-guilty-pleasure.json](./288238-synth-riders-jamie-berry-guilty-pleasure.json) |
+| Synth Riders: Jamie Berry - "Lost In The Rhythm" | 356360 | [356360-synth-riders-jamie-berry-lost-in-the-rhythm.json](./356360-synth-riders-jamie-berry-lost-in-the-rhythm.json) |
+| Synth Riders: K/DA - "More" | 356355 | [356355-synth-riders-k-da-more.json](./356355-synth-riders-k-da-more.json) |
+| Synth Riders: K/DA - "Pop/Stars" | 356354 | [356354-synth-riders-k-da-pop-stars.json](./356354-synth-riders-k-da-pop-stars.json) |
 | Synth Riders: Kendrick Lamar - "Humble." + Experience | 372106 | [372106-synth-riders-kendrick-lamar-humble-experience.json](./372106-synth-riders-kendrick-lamar-humble-experience.json) |
 | Synth Riders: Lady Gaga - "Abracadabra" | 382266 | [382266-synth-riders-lady-gaga-abracadabra.json](./382266-synth-riders-lady-gaga-abracadabra.json) |
 | Synth Riders: Lady Gaga - "Applause" | 382269 | [382269-synth-riders-lady-gaga-applause.json](./382269-synth-riders-lady-gaga-applause.json) |
@@ -34426,9 +34435,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Muse - "Pressure" | 356083 | [356083-synth-riders-muse-pressure.json](./356083-synth-riders-muse-pressure.json) |
 | Synth Riders: Muse - "Reapers" | 356174 | [356174-synth-riders-muse-reapers.json](./356174-synth-riders-muse-reapers.json) |
 | Synth Riders: Muse - "Starlight" | 353650 | [353650-synth-riders-muse-starlight.json](./353650-synth-riders-muse-starlight.json) |
+| Synth Riders: Muse - "The Dark Side" | 356364 | [356364-synth-riders-muse-the-dark-side.json](./356364-synth-riders-muse-the-dark-side.json) |
 | Synth Riders: Muse - "Uprising" | 356176 | [356176-synth-riders-muse-uprising.json](./356176-synth-riders-muse-uprising.json) |
 | Synth Riders: Muse Music Pack & Experience | 356175 | [356175-synth-riders-muse-music-pack-and-experience.json](./356175-synth-riders-muse-music-pack-and-experience.json) |
 | Synth Riders: Nitro Fun - "New Game" | 356184 | [356184-synth-riders-nitro-fun-new-game.json](./356184-synth-riders-nitro-fun-new-game.json) |
+| Synth Riders: Parov Stelar - "All Night" | 356359 | [356359-synth-riders-parov-stelar-all-night.json](./356359-synth-riders-parov-stelar-all-night.json) |
+| Synth Riders: Parov Stelar - "Booty Swing" | 356363 | [356363-synth-riders-parov-stelar-booty-swing.json](./356363-synth-riders-parov-stelar-booty-swing.json) |
+| Synth Riders: Pegboard Nerds - "Moshi" | 356366 | [356366-synth-riders-pegboard-nerds-moshi.json](./356366-synth-riders-pegboard-nerds-moshi.json) |
 | Synth Riders: Phil Collins - "Sussudio" | 298702 | [298702-synth-riders-phil-collins-sussudio.json](./298702-synth-riders-phil-collins-sussudio.json) |
 | Synth Riders: Queen - "Don't Stop Me Now" | 352400 | [352400-synth-riders-queen-dont-stop-me-now.json](./352400-synth-riders-queen-dont-stop-me-now.json) |
 | Synth Riders: Remastered Edition | 235073 | [235073-synth-riders-remastered-edition.json](./235073-synth-riders-remastered-edition.json) |
@@ -34440,11 +34453,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Starcadian - "Supersymmetry" | 356179 | [356179-synth-riders-starcadian-supersymmetry.json](./356179-synth-riders-starcadian-supersymmetry.json) |
 | Synth Riders: Starship - "We Built This City" | 298703 | [298703-synth-riders-starship-we-built-this-city.json](./298703-synth-riders-starship-we-built-this-city.json) |
 | Synth Riders: Swingrowers - "Butterfly" | 356084 | [356084-synth-riders-swingrowers-butterfly.json](./356084-synth-riders-swingrowers-butterfly.json) |
+| Synth Riders: Swingrowers - "No Strings Attached" | 356358 | [356358-synth-riders-swingrowers-no-strings-attached.json](./356358-synth-riders-swingrowers-no-strings-attached.json) |
 | Synth Riders: Swingrowers - "Rose" | 288235 | [288235-synth-riders-swingrowers-rose.json](./288235-synth-riders-swingrowers-rose.json) |
 | Synth Riders: Synthwave Essentials 3 Music Pack | 382181 | [382181-synth-riders-synthwave-essentials-3-music-pack.json](./382181-synth-riders-synthwave-essentials-3-music-pack.json) |
 | Synth Riders: Tamela D'Amico, Wolfgang Lohr - "Boring 20s" | 288237 | [288237-synth-riders-tamela-damico-wolfgang-lohr-boring-20s.json](./288237-synth-riders-tamela-damico-wolfgang-lohr-boring-20s.json) |
 | Synth Riders: The Cure - "Just Like Heaven" | 353390 | [353390-synth-riders-the-cure-just-like-heaven.json](./353390-synth-riders-the-cure-just-like-heaven.json) |
 | Synth Riders: The Electric Swing Circus - "Empires" | 356901 | [356901-synth-riders-the-electric-swing-circus-empires.json](./356901-synth-riders-the-electric-swing-circus-empires.json) |
+| Synth Riders: The Interrupters - "Gave You Everything" | 356361 | [356361-synth-riders-the-interrupters-gave-you-everything.json](./356361-synth-riders-the-interrupters-gave-you-everything.json) |
 | Synth Riders: The Midnight - "Days of Thunder" | 356192 | [356192-synth-riders-the-midnight-days-of-thunder.json](./356192-synth-riders-the-midnight-days-of-thunder.json) |
 | Synth Riders: The Midnight - "Sunset" | 356081 | [356081-synth-riders-the-midnight-sunset.json](./356081-synth-riders-the-midnight-sunset.json) |
 | Synth Riders: The Offspring - "Come Out and Play" | 353178 | [353178-synth-riders-the-offspring-come-out-and-play.json](./353178-synth-riders-the-offspring-come-out-and-play.json) |
