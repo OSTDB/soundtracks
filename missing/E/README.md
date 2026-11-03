@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Divide | 224313 | [224313-echo-divide.json](./224313-echo-divide.json) |
 | Echo Drop! | 383482 | [383482-echo-drop.json](./383482-echo-drop.json) |
 | Echo Extract | 342722 | [342722-echo-extract.json](./342722-echo-extract.json) |
+| Echo Factory | 379827 | [379827-echo-factory.json](./379827-echo-factory.json) |
 | Echo Flesh Metal | 303511 | [303511-echo-flesh-metal.json](./303511-echo-flesh-metal.json) |
 | Echo Generation 2 | 378228 | [378228-echo-generation-2.json](./378228-echo-generation-2.json) |
 | Echo Generation: Midnight Edition | 304747 | [304747-echo-generation-midnight-edition.json](./304747-echo-generation-midnight-edition.json) |
@@ -817,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes From Ciudadela | 387335 | [387335-echoes-from-ciudadela.json](./387335-echoes-from-ciudadela.json) |
 | Echoes from Levia: Soulbound | 105816 | [105816-echoes-from-levia-soulbound.json](./105816-echoes-from-levia-soulbound.json) |
 | Echoes from the Abyss | 309135 | [309135-echoes-from-the-abyss.json](./309135-echoes-from-the-abyss.json) |
+| Echoes From The Soul | 379839 | [379839-echoes-from-the-soul.json](./379839-echoes-from-the-soul.json) |
 | Echoes From The Threshold 2 | 267289 | [267289-echoes-from-the-threshold-2.json](./267289-echoes-from-the-threshold-2.json) |
 | Echoes Ⅱ | 303505 | [303505-echoes-ii.json](./303505-echoes-ii.json) |
 | Echoes III | 107373 | [107373-echoes-iii.json](./107373-echoes-iii.json) |
