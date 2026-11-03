@@ -1478,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olimpiadas 92: Gimnasia Deportiva | 111310 | [111310-olimpiadas-92-gimnasia-deportiva.json](./111310-olimpiadas-92-gimnasia-deportiva.json) |
 | Olin in Emerald: Kingdom of Myrrh | 73069 | [73069-olin-in-emerald-kingdom-of-myrrh.json](./73069-olin-in-emerald-kingdom-of-myrrh.json) |
 | Olinda Fighters | 415941 | [415941-olinda-fighters.json](./415941-olinda-fighters.json) |
+| Olive Raiders | 383535 | [383535-olive-raiders.json](./383535-olive-raiders.json) |
 | Olive's Art-Venture | 266049 | [266049-olives-art-venture.json](./266049-olives-art-venture.json) |
 | Oliver & Spike: Dimension Jumpers | 63894 | [63894-oliver-and-spike-dimension-jumpers.json](./63894-oliver-and-spike-dimension-jumpers.json) |
 | Oliver and Spike | 51660 | [51660-oliver-and-spike.json](./51660-oliver-and-spike.json) |
@@ -4104,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orpheus: Echo of Hades | 401774 | [401774-orpheus-echo-of-hades.json](./401774-orpheus-echo-of-hades.json) |
 | Orpheus: Fall For Eurydice | 144654 | [144654-orpheus-fall-for-eurydice.json](./144654-orpheus-fall-for-eurydice.json) |
 | Orpheus: Tale of a Lover | 258095 | [258095-orpheus-tale-of-a-lover.json](./258095-orpheus-tale-of-a-lover.json) |
+| Orpheus: To Hell and Back | 383410 | [383410-orpheus-to-hell-and-back.json](./383410-orpheus-to-hell-and-back.json) |
 | Orpheus's Dream | 119766 | [119766-orpheuss-dream.json](./119766-orpheuss-dream.json) |
 | Orpiment | 153055 | [153055-orpiment.json](./153055-orpiment.json) |
 | Orqa FPV SkyDive | 196854 | [196854-orqa-fpv-skydive.json](./196854-orqa-fpv-skydive.json) |
