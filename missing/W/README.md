@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallrunners | 95209 | [95209-wallrunners.json](./95209-wallrunners.json) |
 | Walls | 268136 | [268136-walls.json](./268136-walls.json) |
 | Walls | 275006 | [275006-walls.json](./275006-walls.json) |
+| Walls | 383534 | [383534-walls.json](./383534-walls.json) |
 | Walls of Illusion | 70443 | [70443-walls-of-illusion.json](./70443-walls-of-illusion.json) |
 | Walls of Rust | 287201 | [287201-walls-of-rust.json](./287201-walls-of-rust.json) |
 | Walls That Watch | 350291 | [350291-walls-that-watch.json](./350291-walls-that-watch.json) |
@@ -1194,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warehouse Tycoon | 132481 | [132481-warehouse-tycoon.json](./132481-warehouse-tycoon.json) |
 | Warehuman | 201685 | [201685-warehuman.json](./201685-warehuman.json) |
 | Warena | 393255 | [393255-warena.json](./393255-warena.json) |
+| Warentines | 383400 | [383400-warentines.json](./383400-warentines.json) |
 | Warera Mitsurin Tankentai!! | 179034 | [179034-warera-mitsurin-tankentai.json](./179034-warera-mitsurin-tankentai.json) |
 | Warf | 262881 | [262881-warf.json](./262881-warf.json) |
 | Warface | 393919 | [393919-warface.json](./393919-warface.json) |
@@ -9056,6 +9058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyrdsong | 214419 | [214419-wyrdsong.json](./214419-wyrdsong.json) |
 | Wyred | 261764 | [261764-wyred.json](./261764-wyred.json) |
 | Wyrm Climb | 305795 | [305795-wyrm-climb.json](./305795-wyrm-climb.json) |
+| WYRM Plus | 383540 | [383540-wyrm-plus.json](./383540-wyrm-plus.json) |
 | Wyrm's Wrath | 184239 | [184239-wyrms-wrath.json](./184239-wyrms-wrath.json) |
 | WyrmBound | 290721 | [290721-wyrmbound.json](./290721-wyrmbound.json) |
 | Wyrmfall | 398799 | [398799-wyrmfall.json](./398799-wyrmfall.json) |
