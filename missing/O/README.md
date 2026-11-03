@@ -597,6 +597,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Night | 302400 | [302400-odd-night.json](./302400-odd-night.json) |
 | Odd One | 177481 | [177481-odd-one.json](./177481-odd-one.json) |
 | Odd One Out | 380129 | [380129-odd-one-out.json](./380129-odd-one-out.json) |
+| Odd One Out 2 | 390895 | [390895-odd-one-out-2.json](./390895-odd-one-out-2.json) |
+| Odd One Out Christmas | 390896 | [390896-odd-one-out-christmas.json](./390896-odd-one-out-christmas.json) |
 | Odd One Out Zebra | 100522 | [100522-odd-one-out-zebra.json](./100522-odd-one-out-zebra.json) |
 | Odd Remedy | 323312 | [323312-odd-remedy.json](./323312-odd-remedy.json) |
 | Odd Sequence | 296396 | [296396-odd-sequence.json](./296396-odd-sequence.json) |
@@ -3710,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OrbQuest: The Search for Seven Wards | 140450 | [140450-orbquest-the-search-for-seven-wards.json](./140450-orbquest-the-search-for-seven-wards.json) |
 | Orbra | 411311 | [411311-orbra.json](./411311-orbra.json) |
 | OrbRider | 243525 | [243525-orbrider.json](./243525-orbrider.json) |
+| Orbrix | 390902 | [390902-orbrix.json](./390902-orbrix.json) |
 | Orbs | 43089 | [43089-orbs.json](./43089-orbs.json) |
 | Orbs Match | 88157 | [88157-orbs-match.json](./88157-orbs-match.json) |
 | Orbs of Duality | 349114 | [349114-orbs-of-duality.json](./349114-orbs-of-duality.json) |
