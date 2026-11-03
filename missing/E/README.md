@@ -3918,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmi.net | 327205 | [327205-enigmi-net.json](./327205-enigmi-net.json) |
 | Enigmic: Crime Puzzle Cases | 412060 | [412060-enigmic-crime-puzzle-cases.json](./412060-enigmic-crime-puzzle-cases.json) |
 | Enigmite's Prophecy | 194126 | [194126-enigmites-prophecy.json](./194126-enigmites-prophecy.json) |
+| Enigmo | 377181 | [377181-enigmo.json](./377181-enigmo.json) |
 | Enigmo 2 | 66614 | [66614-enigmo-2.json](./66614-enigmo-2.json) |
 | EnigmOn | 174328 | [174328-enigmon.json](./174328-enigmon.json) |
 | Enigmoon | 261257 | [261257-enigmoon.json](./261257-enigmoon.json) |
@@ -6416,6 +6417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everdark: Undead Apocalypse | 366590 | [366590-everdark-undead-apocalypse.json](./366590-everdark-undead-apocalypse.json) |
 | Everdate: The Let's Play Dating Game | 244143 | [244143-everdate-the-lets-play-dating-game.json](./244143-everdate-the-lets-play-dating-game.json) |
 | Everdawn | 185494 | [185494-everdawn.json](./185494-everdawn.json) |
+| Everdawn | 377182 | [377182-everdawn.json](./377182-everdawn.json) |
 | EverDead: Zombie Apocalypse | 63681 | [63681-everdead-zombie-apocalypse.json](./63681-everdead-zombie-apocalypse.json) |
 | Everdeep Aurora | 252778 | [252778-everdeep-aurora.json](./252778-everdeep-aurora.json) |
 | Everdell | 210527 | [210527-everdell.json](./210527-everdell.json) |
