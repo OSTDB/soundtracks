@@ -9185,6 +9185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek: Fairy Tale Freakdown | 18576 | [18576-shrek-fairy-tale-freakdown.json](./18576-shrek-fairy-tale-freakdown.json) |
 | Shrek: Fire Donkey | 229066 | [229066-shrek-fire-donkey.json](./229066-shrek-fire-donkey.json) |
 | Shrek: Hassle at the Castle | 49241 | [49241-shrek-hassle-at-the-castle.json](./49241-shrek-hassle-at-the-castle.json) |
+| Shrek: Ogre Resistance Renegade | 352484 | [352484-shrek-ogre-resistance-renegade.json](./352484-shrek-ogre-resistance-renegade.json) |
 | Shrek: Ogres and Dronkeys | 47860 | [47860-shrek-ogres-and-dronkeys.json](./47860-shrek-ogres-and-dronkeys.json) |
 | Shrek: Reekin' Havoc | 49222 | [49222-shrek-reekin-havoc.json](./49222-shrek-reekin-havoc.json) |
 | Shrek: Swamp Kart Speedway | 49240 | [49240-shrek-swamp-kart-speedway.json](./49240-shrek-swamp-kart-speedway.json) |
@@ -24061,6 +24062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight Re:Volver | 324573 | [324573-starlight-re-volver.json](./324573-starlight-re-volver.json) |
 | Starlight Riddles | 292993 | [292993-starlight-riddles.json](./292993-starlight-riddles.json) |
 | Starlight Squad | 343737 | [343737-starlight-squad.json](./343737-starlight-squad.json) |
+| Starlight Street | 352485 | [352485-starlight-street.json](./352485-starlight-street.json) |
 | Starlight Tactics | 35660 | [35660-starlight-tactics.json](./35660-starlight-tactics.json) |
 | StarLight Terminus | 180047 | [180047-starlight-terminus.json](./180047-starlight-terminus.json) |
 | Starlight Vega | 35041 | [35041-starlight-vega.json](./35041-starlight-vega.json) |
@@ -25889,6 +25891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stomper | 313867 | [313867-stomper.json](./313867-stomper.json) |
 | Stompgame | 380977 | [380977-stompgame.json](./380977-stompgame.json) |
 | Stomping Grounds | 275711 | [275711-stomping-grounds.json](./275711-stomping-grounds.json) |
+| Stomping Grounds | 352506 | [352506-stomping-grounds.json](./352506-stomping-grounds.json) |
 | Stompy's Big Adventure | 409515 | [409515-stompys-big-adventure.json](./409515-stompys-big-adventure.json) |
 | StompyBoy | 329382 | [329382-stompyboy.json](./329382-stompyboy.json) |
 | Stone | 131356 | [131356-stone.json](./131356-stone.json) |
