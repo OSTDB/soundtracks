@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaccine Rebirth VR | 264178 | [264178-vaccine-rebirth-vr.json](./264178-vaccine-rebirth-vr.json) |
 | Vacoo: The Adventure in Garbage City | 223413 | [223413-vacoo-the-adventure-in-garbage-city.json](./223413-vacoo-the-adventure-in-garbage-city.json) |
 | Vactics | 202067 | [202067-vactics.json](./202067-vactics.json) |
+| VacuuBot: Home Cleaning Simulator | 378135 | [378135-vacuubot-home-cleaning-simulator.json](./378135-vacuubot-home-cleaning-simulator.json) |
 | Vacuum | 274673 | [274673-vacuum.json](./274673-vacuum.json) |
 | Vacuum Balaena | 301791 | [301791-vacuum-balaena.json](./301791-vacuum-balaena.json) |
 | Vacuum Ball | 192820 | [192820-vacuum-ball.json](./192820-vacuum-ball.json) |
@@ -4075,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vy Worlds | 192896 | [192896-vy-worlds.json](./192896-vy-worlds.json) |
 | Vyanka's Memories | 307943 | [307943-vyankas-memories.json](./307943-vyankas-memories.json) |
 | Vyder | 385961 | [385961-vyder.json](./385961-vyder.json) |
+| Vyjazd | 378454 | [378454-vyjazd.json](./378454-vyjazd.json) |
 | Vylan | 157088 | [157088-vylan.json](./157088-vylan.json) |
 | Vyper | 130799 | [130799-vyper.json](./130799-vyper.json) |
 | Vyperspace | 181231 | [181231-vyperspace.json](./181231-vyperspace.json) |
