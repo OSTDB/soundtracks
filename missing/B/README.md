@@ -930,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9626,6 +9627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blendamaze | 101530 | [101530-blendamaze.json](./101530-blendamaze.json) |
 | Blender Express HD | 245259 | [245259-blender-express-hd.json](./245259-blender-express-hd.json) |
 | Blenderman | 303364 | [303364-blenderman.json](./303364-blenderman.json) |
+| Blendkins | 365362 | [365362-blendkins.json](./365362-blendkins.json) |
 | Blendoku | 259559 | [259559-blendoku.json](./259559-blendoku.json) |
 | Blendoku | 38914 | [38914-blendoku.json](./38914-blendoku.json) |
 | Blendr | 382601 | [382601-blendr.json](./382601-blendr.json) |
@@ -13153,6 +13155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Ball | 68653 | [68653-bounce-ball.json](./68653-bounce-ball.json) |
 | Bounce Ball Blitz | 272382 | [272382-bounce-ball-blitz.json](./272382-bounce-ball-blitz.json) |
 | Bounce ball light | 115312 | [115312-bounce-ball-light.json](./115312-bounce-ball-light.json) |
+| Bounce Blade | 365397 | [365397-bounce-blade.json](./365397-bounce-blade.json) |
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
 | Bounce Castle | 211465 | [211465-bounce-castle.json](./211465-bounce-castle.json) |
 | Bounce Cat | 352747 | [352747-bounce-cat.json](./352747-bounce-cat.json) |
@@ -13662,6 +13665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxnigma | 195955 | [195955-boxnigma.json](./195955-boxnigma.json) |
 | Boxocost | 144962 | [144962-boxocost.json](./144962-boxocost.json) |
 | Boxoku! | 156711 | [156711-boxoku.json](./156711-boxoku.json) |
+| Boxoxox | 365396 | [365396-boxoxox.json](./365396-boxoxox.json) |
 | Boxpast Lov3you | 392301 | [392301-boxpast-lov3you.json](./392301-boxpast-lov3you.json) |
 | Boxplosion | 29054 | [29054-boxplosion.json](./29054-boxplosion.json) |
 | Boxroom | 396520 | [396520-boxroom.json](./396520-boxroom.json) |
@@ -17569,6 +17573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | By Myself | 390185 | [390185-by-myself.json](./390185-by-myself.json) |
 | By Royal Request | 419060 | [419060-by-royal-request.json](./419060-by-royal-request.json) |
 | By Sword & Road | 394371 | [394371-by-sword-and-road.json](./394371-by-sword-and-road.json) |
+| By the Balls | 365383 | [365383-by-the-balls.json](./365383-by-the-balls.json) |
 | By the King's Command | 399008 | [399008-by-the-kings-command.json](./399008-by-the-kings-command.json) |
 | By the King's Will | 398694 | [398694-by-the-kings-will.json](./398694-by-the-kings-will.json) |
 | By the Numbers | 413892 | [413892-by-the-numbers.json](./413892-by-the-numbers.json) |
