@@ -3981,6 +3981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexicon | 412907 | [412907-lexicon.json](./412907-lexicon.json) |
 | Lexicontainer | 183527 | [183527-lexicontainer.json](./183527-lexicontainer.json) |
 | Lexie the Takeover | 81651 | [81651-lexie-the-takeover.json](./81651-lexie-the-takeover.json) |
+| Lexiflaire | 388056 | [388056-lexiflaire.json](./388056-lexiflaire.json) |
 | LexiLoong | 357823 | [357823-lexiloong.json](./357823-lexiloong.json) |
 | Leximan | 177455 | [177455-leximan.json](./177455-leximan.json) |
 | LexiMint | 415824 | [415824-leximint.json](./415824-leximint.json) |
@@ -6033,6 +6034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Littlewing | 143965 | [143965-littlewing.json](./143965-littlewing.json) |
 | Littlewitch Parfait: Kuroneko Mahouten Monogatari | 56559 | [56559-littlewitch-parfait-kuroneko-mahouten-monogatari.json](./56559-littlewitch-parfait-kuroneko-mahouten-monogatari.json) |
 | Littlewitch Romanesque: Editio Regia | 35757 | [35757-littlewitch-romanesque-editio-regia.json](./35757-littlewitch-romanesque-editio-regia.json) |
+| Liturnian | 388073 | [388073-liturnian.json](./388073-liturnian.json) |
 | Liu Yi's strange world adventure | 193637 | [193637-liu-yis-strange-world-adventure.json](./193637-liu-yis-strange-world-adventure.json) |
 | Liu Yin | 175728 | [175728-liu-yin.json](./175728-liu-yin.json) |
 | Liú Yǐn | 375417 | [375417-liu-yin.json](./375417-liu-yin.json) |
@@ -6203,6 +6205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizard Brain | 375283 | [375283-lizard-brain.json](./375283-lizard-brain.json) |
 | Lizard Crash | 25759 | [25759-lizard-crash.json](./25759-lizard-crash.json) |
 | Lizard Lady vs the Cats | 152856 | [152856-lizard-lady-vs-the-cats.json](./152856-lizard-lady-vs-the-cats.json) |
+| Lizard Noisemaker | 388078 | [388078-lizard-noisemaker.json](./388078-lizard-noisemaker.json) |
 | Lizard Quest | 229627 | [229627-lizard-quest.json](./229627-lizard-quest.json) |
 | Lizard Quest! | 244471 | [244471-lizard-quest.json](./244471-lizard-quest.json) |
 | Lizard Simulator | 406306 | [406306-lizard-simulator.json](./406306-lizard-simulator.json) |
