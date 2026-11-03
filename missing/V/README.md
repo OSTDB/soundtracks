@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Blood Dynasty | 389823 | [389823-vampire-blood-dynasty.json](./389823-vampire-blood-dynasty.json) |
 | Vampire Bloody Star X | 111349 | [111349-vampire-bloody-star-x.json](./111349-vampire-bloody-star-x.json) |
 | Vampire Boyfriend Plus | 210521 | [210521-vampire-boyfriend-plus.json](./210521-vampire-boyfriend-plus.json) |
+| Vampire Boys Love Story: Date or Die | 388063 | [388063-vampire-boys-love-story-date-or-die.json](./388063-vampire-boys-love-story-date-or-die.json) |
 | Vampire Brides: Love Over Death | 65857 | [65857-vampire-brides-love-over-death.json](./65857-vampire-brides-love-over-death.json) |
 | Vampire Castle | 171251 | [171251-vampire-castle.json](./171251-vampire-castle.json) |
 | Vampire Castle | 50365 | [50365-vampire-castle.json](./50365-vampire-castle.json) |
@@ -545,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Family | 236837 | [236837-vampire-family.json](./236837-vampire-family.json) |
 | Vampire Garden | 145928 | [145928-vampire-garden.json](./145928-vampire-garden.json) |
 | Vampire Girls | 243152 | [243152-vampire-girls.json](./243152-vampire-girls.json) |
+| Vampire Girls Love Story: Date or Die | 388064 | [388064-vampire-girls-love-story-date-or-die.json](./388064-vampire-girls-love-story-date-or-die.json) |
 | Vampire Heist | 184760 | [184760-vampire-heist.json](./184760-vampire-heist.json) |
 | Vampire Hunt | 370479 | [370479-vampire-hunt.json](./370479-vampire-hunt.json) |
 | Vampire Hunter D | 126469 | [126469-vampire-hunter-d.json](./126469-vampire-hunter-d.json) |
@@ -819,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vapor Maze | 178543 | [178543-vapor-maze.json](./178543-vapor-maze.json) |
 | Vapor Memories | 184122 | [184122-vapor-memories.json](./184122-vapor-memories.json) |
 | Vapor Music Tour | 160172 | [160172-vapor-music-tour.json](./160172-vapor-music-tour.json) |
+| Vapor Strange | 388086 | [388086-vapor-strange.json](./388086-vapor-strange.json) |
 | Vapor Tanks | 261786 | [261786-vapor-tanks.json](./261786-vapor-tanks.json) |
 | Vapor Trail | 39996 | [39996-vapor-trail.json](./39996-vapor-trail.json) |
 | Vapor TRX | 41075 | [41075-vapor-trx.json](./41075-vapor-trx.json) |
@@ -1517,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertical Adventure: Jump, Die, Retry | 207857 | [207857-vertical-adventure-jump-die-retry.json](./207857-vertical-adventure-jump-die-retry.json) |
 | Vertical Collapse: Ghost in the Machine | 326544 | [326544-vertical-collapse-ghost-in-the-machine.json](./326544-vertical-collapse-ghost-in-the-machine.json) |
 | Vertical Dash | 59438 | [59438-vertical-dash.json](./59438-vertical-dash.json) |
+| Vertical Drop Heroes | 388103 | [388103-vertical-drop-heroes.json](./388103-vertical-drop-heroes.json) |
 | Vertical Fall | 111860 | [111860-vertical-fall.json](./111860-vertical-fall.json) |
 | Vertical Fighters | 295200 | [295200-vertical-fighters.json](./295200-vertical-fighters.json) |
 | Vertical Golf | 197654 | [197654-vertical-golf.json](./197654-vertical-golf.json) |
