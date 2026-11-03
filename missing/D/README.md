@@ -4663,6 +4663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decay - Part 3 | 92220 | [92220-decay-part-3.json](./92220-decay-part-3.json) |
 | Decay in Crevice | 358621 | [358621-decay-in-crevice.json](./358621-decay-in-crevice.json) |
 | Decay of Logos | 56510 | [56510-decay-of-logos.json](./56510-decay-of-logos.json) |
+| Decay of Men | 394353 | [394353-decay-of-men.json](./394353-decay-of-men.json) |
 | Decay of Opulence | 318128 | [318128-decay-of-opulence.json](./318128-decay-of-opulence.json) |
 | Decay of Worlds | 373832 | [373832-decay-of-worlds.json](./373832-decay-of-worlds.json) |
 | Decay Z : Space Survival | 107152 | [107152-decay-z-space-survival.json](./107152-decay-z-space-survival.json) |
@@ -6951,6 +6952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Raid | 392137 | [392137-desktop-raid.json](./392137-desktop-raid.json) |
 | Desktop Reptiles | 405581 | [405581-desktop-reptiles.json](./405581-desktop-reptiles.json) |
 | Desktop Rugby | 125016 | [125016-desktop-rugby.json](./125016-desktop-rugby.json) |
+| Desktop Sex Doll | 394302 | [394302-desktop-sex-doll.json](./394302-desktop-sex-doll.json) |
 | Desktop Snail Assassin | 408604 | [408604-desktop-snail-assassin.json](./408604-desktop-snail-assassin.json) |
 | Desktop Soccer | 112128 | [112128-desktop-soccer.json](./112128-desktop-soccer.json) |
 | Desktop Soccer 2 | 225328 | [225328-desktop-soccer-2.json](./225328-desktop-soccer-2.json) |
@@ -7874,6 +7876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DFP: Disappear From Polizia | 373098 | [373098-dfp-disappear-from-polizia.json](./373098-dfp-disappear-from-polizia.json) |
 | Dfragmente | 76555 | [76555-dfragmente.json](./76555-dfragmente.json) |
 | Dfuse | 314423 | [314423-dfuse.json](./314423-dfuse.json) |
+| DFX | 394304 | [394304-dfx.json](./394304-dfx.json) |
 | DG Little Red Riding Hood | 398093 | [398093-dg-little-red-riding-hood.json](./398093-dg-little-red-riding-hood.json) |
 | DGGWare | 301292 | [301292-dggware.json](./301292-dggware.json) |
 | DGU: Death God University | 35689 | [35689-dgu-death-god-university.json](./35689-dgu-death-god-university.json) |
