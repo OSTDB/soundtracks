@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11487,6 +11488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob's Cat Challenge | 115441 | [115441-bobs-cat-challenge.json](./115441-bobs-cat-challenge.json) |
 | Bob's Fears | 381283 | [381283-bobs-fears.json](./381283-bobs-fears.json) |
 | Bob's Full House | 13416 | [13416-bobs-full-house.json](./13416-bobs-full-house.json) |
+| Bob's Island | 374855 | [374855-bobs-island.json](./374855-bobs-island.json) |
 | Bob's Mansion | 267490 | [267490-bobs-mansion.json](./267490-bobs-mansion.json) |
 | Bob's World | 227548 | [227548-bobs-world.json](./227548-bobs-world.json) |
 | Boba | 177569 | [177569-boba.json](./177569-boba.json) |
