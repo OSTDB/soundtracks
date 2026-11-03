@@ -3539,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario and the Cowboys from Hell | 323609 | [323609-mario-and-the-cowboys-from-hell.json](./323609-mario-and-the-cowboys-from-hell.json) |
 | Mario and the Mystic Purple Stars | 218088 | [218088-mario-and-the-mystic-purple-stars.json](./218088-mario-and-the-mystic-purple-stars.json) |
 | Mario and the Mystical Worlds | 314124 | [314124-mario-and-the-mystical-worlds.json](./314124-mario-and-the-mystical-worlds.json) |
+| Mario and Yoshi | 381741 | [381741-mario-and-yoshi.json](./381741-mario-and-yoshi.json) |
 | Mario Andretti Racing | 20593 | [20593-mario-andretti-racing.json](./20593-mario-andretti-racing.json) |
 | Mario Andretti's Racing Challenge | 138177 | [138177-mario-andrettis-racing-challenge.json](./138177-mario-andrettis-racing-challenge.json) |
 | Mario Artist: Game Maker | 175951 | [175951-mario-artist-game-maker.json](./175951-mario-artist-game-maker.json) |
@@ -3793,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Lemieux Hockey | 4441 | [4441-mario-lemieux-hockey.json](./4441-mario-lemieux-hockey.json) |
 | Mario Lost In Space | 384109 | [384109-mario-lost-in-space.json](./384109-mario-lost-in-space.json) |
 | Mario Mania | 218089 | [218089-mario-mania.json](./218089-mario-mania.json) |
+| Mario Moto | 381747 | [381747-mario-moto.json](./381747-mario-moto.json) |
 | Mario Motors | 231507 | [231507-mario-motors.json](./231507-mario-motors.json) |
 | Mario Movie Game | 318554 | [318554-mario-movie-game.json](./318554-mario-movie-game.json) |
 | Mario Net Quest | 246087 | [246087-mario-net-quest.json](./246087-mario-net-quest.json) |
@@ -15921,6 +15923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morbid Catastrophe | 248313 | [248313-morbid-catastrophe.json](./248313-morbid-catastrophe.json) |
 | Morbid Inhale | 173000 | [173000-morbid-inhale.json](./173000-morbid-inhale.json) |
 | Morbid Land | 62826 | [62826-morbid-land.json](./62826-morbid-land.json) |
+| Morbid Mailroom | 381541 | [381541-morbid-mailroom.json](./381541-morbid-mailroom.json) |
 | Morbid: The Lords of Ire | 237772 | [237772-morbid-the-lords-of-ire.json](./237772-morbid-the-lords-of-ire.json) |
 | Morbid: The Seven Acolytes - Signature Edition | 139857 | [139857-morbid-the-seven-acolytes-signature-edition.json](./139857-morbid-the-seven-acolytes-signature-edition.json) |
 | Morbidity: 1 | 271757 | [271757-morbidity-1.json](./271757-morbidity-1.json) |
