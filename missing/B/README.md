@@ -11014,6 +11014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloops Game | 175744 | [175744-bloops-game.json](./175744-bloops-game.json) |
 | Bloopy & Droopy | 168685 | [168685-bloopy-and-droopy.json](./168685-bloopy-and-droopy.json) |
 | Blop | 368979 | [368979-blop.json](./368979-blop.json) |
+| Blop, Your Virtual Buddy | 355967 | [355967-blop-your-virtual-buddy.json](./355967-blop-your-virtual-buddy.json) |
 | Blopper | 287236 | [287236-blopper.json](./287236-blopper.json) |
 | Blopy Ventures N0 | 413160 | [413160-blopy-ventures-n0.json](./413160-blopy-ventures-n0.json) |
 | Blorks: The Quest for Magnesium | 149561 | [149561-blorks-the-quest-for-magnesium.json](./149561-blorks-the-quest-for-magnesium.json) |
@@ -13072,6 +13073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bots n' Bugs | 183979 | [183979-bots-n-bugs.json](./183979-bots-n-bugs.json) |
 | Bots Rush | 112350 | [112350-bots-rush.json](./112350-bots-rush.json) |
 | Bots!! | 175926 | [175926-bots.json](./175926-bots.json) |
+| Botsbotsbots | 355850 | [355850-botsbotsbots.json](./355850-botsbotsbots.json) |
 | Bottakuri Taxi | 298605 | [298605-bottakuri-taxi.json](./298605-bottakuri-taxi.json) |
 | Botticelli | 362434 | [362434-botticelli.json](./362434-botticelli.json) |
 | Bottle | 219728 | [219728-bottle.json](./219728-bottle.json) |
