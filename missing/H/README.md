@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | h 4 in a Row | 89155 | [89155-h-4-in-a-row.json](./89155-h-4-in-a-row.json) |
+| H Chan: Girl | 382488 | [382488-h-chan-girl.json](./382488-h-chan-girl.json) |
 | h Checkers | 91164 | [91164-h-checkers.json](./91164-h-checkers.json) |
 | h Find the Differences 1 | 88842 | [88842-h-find-the-differences-1.json](./88842-h-find-the-differences-1.json) |
 | h Find the Differences 2 | 88449 | [88449-h-find-the-differences-2.json](./88449-h-find-the-differences-2.json) |
@@ -3243,6 +3244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartomics: Valkyries | 109610 | [109610-heartomics-valkyries.json](./109610-heartomics-valkyries.json) |
 | Heartreasure | 175945 | [175945-heartreasure.json](./175945-heartreasure.json) |
 | Heartreasure 2: Underground | 175946 | [175946-heartreasure-2-underground.json](./175946-heartreasure-2-underground.json) |
+| Heartreasure: Stellar Journey | 382357 | [382357-heartreasure-stellar-journey.json](./382357-heartreasure-stellar-journey.json) |
 | Heartrender | 258725 | [258725-heartrender.json](./258725-heartrender.json) |
 | Hearts | 88690 | [88690-hearts.json](./88690-hearts.json) |
 | Hearts & Hexes | 191906 | [191906-hearts-and-hexes.json](./191906-hearts-and-hexes.json) |
@@ -5180,6 +5182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World Halloween | 326234 | [326234-hentai-world-halloween.json](./326234-hentai-world-halloween.json) |
 | Hentai World Mystery | 371371 | [371371-hentai-world-mystery.json](./371371-hentai-world-mystery.json) |
 | Hentai World Office | 384699 | [384699-hentai-world-office.json](./384699-hentai-world-office.json) |
+| Hentai World Relax | 382141 | [382141-hentai-world-relax.json](./382141-hentai-world-relax.json) |
 | Hentai World Sexy | 322716 | [322716-hentai-world-sexy.json](./322716-hentai-world-sexy.json) |
 | Hentai World Slice | 340462 | [340462-hentai-world-slice.json](./340462-hentai-world-slice.json) |
 | Hentai World Succubus | 340463 | [340463-hentai-world-succubus.json](./340463-hentai-world-succubus.json) |
@@ -8776,6 +8779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homerun Bun | 209947 | [209947-homerun-bun.json](./209947-homerun-bun.json) |
 | Homerun Clash | 109568 | [109568-homerun-clash.json](./109568-homerun-clash.json) |
 | Homerun Clash 2: Legends Derby | 312584 | [312584-homerun-clash-2-legends-derby.json](./312584-homerun-clash-2-legends-derby.json) |
+| Homerun Heroes: Starstrikers | 382115 | [382115-homerun-heroes-starstrikers.json](./382115-homerun-heroes-starstrikers.json) |
 | Homerun Hitters | 66766 | [66766-homerun-hitters.json](./66766-homerun-hitters.json) |
 | Homerun King - Pro Baseball | 39011 | [39011-homerun-king-pro-baseball.json](./39011-homerun-king-pro-baseball.json) |
 | Homerun Touchdown 2017 | 137588 | [137588-homerun-touchdown-2017.json](./137588-homerun-touchdown-2017.json) |
@@ -9880,6 +9884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Milf | 193265 | [193265-hot-milf.json](./193265-hot-milf.json) |
 | Hot Milf 10 Bikini | 384880 | [384880-hot-milf-10-bikini.json](./384880-hot-milf-10-bikini.json) |
 | Hot Milf 2 | 189976 | [189976-hot-milf-2.json](./189976-hot-milf-2.json) |
+| Hot Milf 3 | 382489 | [382489-hot-milf-3.json](./382489-hot-milf-3.json) |
 | Hot Milf 4 | 192441 | [192441-hot-milf-4.json](./192441-hot-milf-4.json) |
 | Hot Milf 5 | 286748 | [286748-hot-milf-5.json](./286748-hot-milf-5.json) |
 | Hot Milf 6 | 204794 | [204794-hot-milf-6.json](./204794-hot-milf-6.json) |
@@ -11943,6 +11948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperide | 131423 | [131423-hyperide.json](./131423-hyperide.json) |
 | Hyperide VR | 75024 | [75024-hyperide-vr.json](./75024-hyperide-vr.json) |
 | Hyperide: Vector Raid | 112815 | [112815-hyperide-vector-raid.json](./112815-hyperide-vector-raid.json) |
+| Hyperion | 382134 | [382134-hyperion.json](./382134-hyperion.json) |
 | Hyperjustice | 189815 | [189815-hyperjustice.json](./189815-hyperjustice.json) |
 | Hyperjustice: Hyper Holidays Expansion | 285320 | [285320-hyperjustice-hyper-holidays-expansion.json](./285320-hyperjustice-hyper-holidays-expansion.json) |
 | Hyperkidmorph2mr.gunner | 336110 | [336110-hyperkidmorph2mr-gunner.json](./336110-hyperkidmorph2mr-gunner.json) |
@@ -12004,6 +12010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperStorm | 123741 | [123741-hyperstorm.json](./123741-hyperstorm.json) |
 | Hypersudoku Puzzle | 58258 | [58258-hypersudoku-puzzle.json](./58258-hypersudoku-puzzle.json) |
 | HyperTag | 77408 | [77408-hypertag.json](./77408-hypertag.json) |
+| Hyperthymesia | 382116 | [382116-hyperthymesia.json](./382116-hyperthymesia.json) |
 | Hypertrain | 96430 | [96430-hypertrain.json](./96430-hypertrain.json) |
 | Hypertron | 210058 | [210058-hypertron.json](./210058-hypertron.json) |
 | Hyperun | 49512 | [49512-hyperun.json](./49512-hyperun.json) |
