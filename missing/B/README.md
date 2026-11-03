@@ -8197,6 +8197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit | 413076 | [413076-bit.json](./413076-bit.json) |
 | Bit Addiction | 277573 | [277573-bit-addiction.json](./277573-bit-addiction.json) |
 | Bit Ballers | 175557 | [175557-bit-ballers.json](./175557-bit-ballers.json) |
+| Bit Battles | 386068 | [386068-bit-battles.json](./386068-bit-battles.json) |
 | Bit Bike | 250778 | [250778-bit-bike.json](./250778-bit-bike.json) |
 | Bit Bit Blocks | 61153 | [61153-bit-bit-blocks.json](./61153-bit-bit-blocks.json) |
 | Bit Blaster XL | 33733 | [33733-bit-blaster-xl.json](./33733-bit-blaster-xl.json) |
@@ -12850,6 +12851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss of the Mafia | 189290 | [189290-boss-of-the-mafia.json](./189290-boss-of-the-mafia.json) |
 | Boss Pit | 394823 | [394823-boss-pit.json](./394823-boss-pit.json) |
 | Boss Rally | 8431 | [8431-boss-rally.json](./8431-boss-rally.json) |
+| Boss Rush Apocalypse | 386071 | [386071-boss-rush-apocalypse.json](./386071-boss-rush-apocalypse.json) |
 | Boss Rush Bundle | 259136 | [259136-boss-rush-bundle.json](./259136-boss-rush-bundle.json) |
 | Boss Rush Delivery | 303355 | [303355-boss-rush-delivery.json](./303355-boss-rush-delivery.json) |
 | Boss Rush: Mythology | 141079 | [141079-boss-rush-mythology.json](./141079-boss-rush-mythology.json) |
@@ -14991,6 +14993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brisca | 359211 | [359211-brisca.json](./359211-brisca.json) |
 | Briscola | 100011 | [100011-briscola.json](./100011-briscola.json) |
 | Brisk | 327267 | [327267-brisk.json](./327267-brisk.json) |
+| Brisk | 386325 | [386325-brisk.json](./386325-brisk.json) |
 | Brisk Square | 151178 | [151178-brisk-square.json](./151178-brisk-square.json) |
 | Brisk Up | 291389 | [291389-brisk-up.json](./291389-brisk-up.json) |
 | Bristle and the Artificial Invasion | 316102 | [316102-bristle-and-the-artificial-invasion.json](./316102-bristle-and-the-artificial-invasion.json) |
@@ -16327,6 +16330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Heat | 166836 | [166836-bullet-heat.json](./166836-bullet-heat.json) |
 | Bullet Heaven | 228297 | [228297-bullet-heaven.json](./228297-bullet-heaven.json) |
 | Bullet Heaven 2 | 34164 | [34164-bullet-heaven-2.json](./34164-bullet-heaven-2.json) |
+| Bullet Heaven 3 | 386075 | [386075-bullet-heaven-3.json](./386075-bullet-heaven-3.json) |
 | Bullet Heck | 245790 | [245790-bullet-heck.json](./245790-bullet-heck.json) |
 | Bullet Heli | 176463 | [176463-bullet-heli.json](./176463-bullet-heli.json) |
 | Bullet Hell Action Roguelites | 333753 | [333753-bullet-hell-action-roguelites.json](./333753-bullet-hell-action-roguelites.json) |
