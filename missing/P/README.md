@@ -3501,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peak Item Randomizer | 363315 | [363315-peak-item-randomizer.json](./363315-peak-item-randomizer.json) |
 | Peak or Die | 382886 | [382886-peak-or-die.json](./382886-peak-or-die.json) |
 | Peak Performance | 20139 | [20139-peak-performance.json](./20139-peak-performance.json) |
+| Peak Rhythm | 393870 | [393870-peak-rhythm.json](./393870-peak-rhythm.json) |
 | Peak: The Dillydally Update | 375509 | [375509-peak-the-dillydally-update.json](./375509-peak-the-dillydally-update.json) |
 | Peak: The Final Ascent | 412529 | [412529-peak-the-final-ascent.json](./412529-peak-the-final-ascent.json) |
 | Peak: The Mesa Update | 363305 | [363305-peak-the-mesa-update.json](./363305-peak-the-mesa-update.json) |
@@ -8325,6 +8326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piyo Puzz: Piyokoro x Puzzle | 328493 | [328493-piyo-puzz-piyokoro-x-puzzle.json](./328493-piyo-puzz-piyokoro-x-puzzle.json) |
 | Piyokoro | 280072 | [280072-piyokoro.json](./280072-piyokoro.json) |
 | Piyopoyon | 394481 | [394481-piyopoyon.json](./394481-piyopoyon.json) |
+| PiyoRide! | 393884 | [393884-piyoride.json](./393884-piyoride.json) |
 | PiyoShogi | 388512 | [388512-piyoshogi.json](./388512-piyoshogi.json) |
 | Piyotama | 21882 | [21882-piyotama.json](./21882-piyotama.json) |
 | Pizz'Amore | 304233 | [304233-pizzamore.json](./304233-pizzamore.json) |
@@ -9682,6 +9684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Aquarium | 381900 | [381900-pocket-aquarium.json](./381900-pocket-aquarium.json) |
 | Pocket Arcade Story | 56989 | [56989-pocket-arcade-story.json](./56989-pocket-arcade-story.json) |
 | Pocket Arcade Story DX | 208033 | [208033-pocket-arcade-story-dx.json](./208033-pocket-arcade-story-dx.json) |
+| Pocket Archery Master | 393885 | [393885-pocket-archery-master.json](./393885-pocket-archery-master.json) |
 | Pocket Army | 344887 | [344887-pocket-army.json](./344887-pocket-army.json) |
 | Pocket Assault | 118818 | [118818-pocket-assault.json](./118818-pocket-assault.json) |
 | Pocket Battle | 418587 | [418587-pocket-battle.json](./418587-pocket-battle.json) |
@@ -13541,6 +13544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime Slime | 183275 | [183275-prime-slime.json](./183275-prime-slime.json) |
 | Prime T!me: Der Fernsehmanager | 98938 | [98938-prime-t-me-der-fernsehmanager.json](./98938-prime-t-me-der-fernsehmanager.json) |
 | Prime Time | 54714 | [54714-prime-time.json](./54714-prime-time.json) |
+| Prime Time Figther | 393867 | [393867-prime-time-figther.json](./393867-prime-time-figther.json) |
 | Prime Time NFL Starring Deion Sanders | 45770 | [45770-prime-time-nfl-starring-deion-sanders.json](./45770-prime-time-nfl-starring-deion-sanders.json) |
 | Prime World | 15037 | [15037-prime-world.json](./15037-prime-world.json) |
 | Prime World: Alchemy | 63306 | [63306-prime-world-alchemy.json](./63306-prime-world-alchemy.json) |
