@@ -924,7 +924,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2365,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Sonic (Game Ichizoku) | 329351 | [329351-barcode-battler-ii-shogaku-ninensei-special-barcode-card-sonic-game-ichizoku.json](./329351-barcode-battler-ii-shogaku-ninensei-special-barcode-card-sonic-game-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Ultraman (Hero Ichizoku) | 329359 | [329359-barcode-battler-ii-shogaku-ninensei-special-barcode-card-ultraman-hero-ichizoku.json](./329359-barcode-battler-ii-shogaku-ninensei-special-barcode-card-ultraman-hero-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Yossy (Game Ichizoku) | 329348 | [329348-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy-game-ichizoku.json](./329348-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy-game-ichizoku.json) |
+| Barcode Battler II: Street Fighter II - 13. Ryuusei Ochi | 387995 | [387995-barcode-battler-ii-street-fighter-ii-13-ryuusei-ochi.json](./387995-barcode-battler-ii-street-fighter-ii-13-ryuusei-ochi.json) |
 | Barcode Battler II: Street Fighter II - 14. Joudanshuu | 387996 | [387996-barcode-battler-ii-street-fighter-ii-14-joudanshuu.json](./387996-barcode-battler-ii-street-fighter-ii-14-joudanshuu.json) |
 | Barcode Battler II: Street Fighter II - 15. Moto Den Ansatsuke | 387997 | [387997-barcode-battler-ii-street-fighter-ii-15-moto-den-ansatsuke.json](./387997-barcode-battler-ii-street-fighter-ii-15-moto-den-ansatsuke.json) |
 | Barcode Battler II: Street Fighter II - 16. Hishou Ashi | 387998 | [387998-barcode-battler-ii-street-fighter-ii-16-hishou-ashi.json](./387998-barcode-battler-ii-street-fighter-ii-16-hishou-ashi.json) |
@@ -2731,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bartender Hustle | 153899 | [153899-bartender-hustle.json](./153899-bartender-hustle.json) |
 | Bartender Life Simulator | 390052 | [390052-bartender-life-simulator.json](./390052-bartender-life-simulator.json) |
 | Bartender Simulator & Fast Food Van Simulator 2026 | 413374 | [413374-bartender-simulator-and-fast-food-van-simulator-2026.json](./413374-bartender-simulator-and-fast-food-van-simulator-2026.json) |
+| Bartender Simulator 2026 | 388070 | [388070-bartender-simulator-2026.json](./388070-bartender-simulator-2026.json) |
 | Bartender VR Simulator | 74216 | [74216-bartender-vr-simulator.json](./74216-bartender-vr-simulator.json) |
 | Bartender: The Right Mix | 192098 | [192098-bartender-the-right-mix.json](./192098-bartender-the-right-mix.json) |
 | Bartenders | 244205 | [244205-bartenders.json](./244205-bartenders.json) |
@@ -13038,6 +13039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Match | 66567 | [66567-boulder-match.json](./66567-boulder-match.json) |
 | Boulder Match 3 | 66568 | [66568-boulder-match-3.json](./66568-boulder-match-3.json) |
 | Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
+| Boulder Star | 388055 | [388055-boulder-star.json](./388055-boulder-star.json) |
 | Boulderdash | 311358 | [311358-boulderdash.json](./311358-boulderdash.json) |
 | Boulderdash | 47237 | [47237-boulderdash.json](./47237-boulderdash.json) |
 | Bouldering ... At Home | 180483 | [180483-bouldering-at-home.json](./180483-bouldering-at-home.json) |
