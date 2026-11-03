@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomawari: Night Alone - Digital Pitch Dark Edition | 52105 | [52105-yomawari-night-alone-digital-pitch-dark-edition.json](./52105-yomawari-night-alone-digital-pitch-dark-edition.json) |
 | Yomawari: Night Alone / htol#NiQ: The Firefly Diary - Limited Edition | 297245 | [297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json](./297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json) |
 | Yomawari: The Long Night Collection | 103052 | [103052-yomawari-the-long-night-collection.json](./103052-yomawari-the-long-night-collection.json) |
+| Yomegami: My Sweet Goddess | 361980 | [361980-yomegami-my-sweet-goddess.json](./361980-yomegami-my-sweet-goddess.json) |
 | Yomesou de Yomenai Kanji DS | 287632 | [287632-yomesou-de-yomenai-kanji-ds.json](./287632-yomesou-de-yomenai-kanji-ds.json) |
 | Yomi | 17189 | [17189-yomi.json](./17189-yomi.json) |
 | Yomi 2 | 223376 | [223376-yomi-2.json](./223376-yomi-2.json) |
