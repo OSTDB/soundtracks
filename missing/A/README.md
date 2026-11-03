@@ -348,12 +348,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Few Days With: Bianca | 329203 | [329203-a-few-days-with-bianca.json](./329203-a-few-days-with-bianca.json) |
 | A Few Days With: Cassandra | 301682 | [301682-a-few-days-with-cassandra.json](./301682-a-few-days-with-cassandra.json) |
 | A Few Days With: Emma | 326177 | [326177-a-few-days-with-emma.json](./326177-a-few-days-with-emma.json) |
+| A Few Days With: Hazel | 382146 | [382146-a-few-days-with-hazel.json](./382146-a-few-days-with-hazel.json) |
 | A Few Days With: Olivia | 392955 | [392955-a-few-days-with-olivia.json](./392955-a-few-days-with-olivia.json) |
 | A Few Days With: Rebecca | 301683 | [301683-a-few-days-with-rebecca.json](./301683-a-few-days-with-rebecca.json) |
 | A Few Days With: The Fairies | 392953 | [392953-a-few-days-with-the-fairies.json](./392953-a-few-days-with-the-fairies.json) |
 | A Few Days With: Tiffany | 306404 | [306404-a-few-days-with-tiffany.json](./306404-a-few-days-with-tiffany.json) |
 | A Few Days With: Valentina | 337797 | [337797-a-few-days-with-valentina.json](./337797-a-few-days-with-valentina.json) |
 | A Few Days With: Violette | 301684 | [301684-a-few-days-with-violette.json](./301684-a-few-days-with-violette.json) |
+| A Few Days With: Zoey | 382138 | [382138-a-few-days-with-zoey.json](./382138-a-few-days-with-zoey.json) |
 | A Few Minutes of Glory | 216159 | [216159-a-few-minutes-of-glory.json](./216159-a-few-minutes-of-glory.json) |
 | A Few Nights With: Francesca | 371042 | [371042-a-few-nights-with-francesca.json](./371042-a-few-nights-with-francesca.json) |
 | A Few Nights With: Margaret | 371041 | [371041-a-few-nights-with-margaret.json](./371041-a-few-nights-with-margaret.json) |
@@ -13312,6 +13314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core: Formula Front - Extreme Battle | 46022 | [46022-armored-core-formula-front-extreme-battle.json](./46022-armored-core-formula-front-extreme-battle.json) |
 | Armored Core: Last Raven | 19410 | [19410-armored-core-last-raven.json](./19410-armored-core-last-raven.json) |
 | Armored Core: Last Raven Portable | 38480 | [38480-armored-core-last-raven-portable.json](./38480-armored-core-last-raven-portable.json) |
+| Armored Core: Machine Side Box | 382351 | [382351-armored-core-machine-side-box.json](./382351-armored-core-machine-side-box.json) |
 | Armored Core: Master of Arena | 19424 | [19424-armored-core-master-of-arena.json](./19424-armored-core-master-of-arena.json) |
 | Armored Core: Nexus | 19412 | [19412-armored-core-nexus.json](./19412-armored-core-nexus.json) |
 | Armored Core: Project Phantasma | 19428 | [19428-armored-core-project-phantasma.json](./19428-armored-core-project-phantasma.json) |
@@ -15768,6 +15771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -16477,6 +16481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Sale Life | 258011 | [258011-auto-sale-life.json](./258011-auto-sale-life.json) |
 | Auto Shop Simulator | 401368 | [401368-auto-shop-simulator.json](./401368-auto-shop-simulator.json) |
 | Auto Shrooms | 418861 | [418861-auto-shrooms.json](./418861-auto-shrooms.json) |
+| Auto Snakes in Outer Space | 382122 | [382122-auto-snakes-in-outer-space.json](./382122-auto-snakes-in-outer-space.json) |
 | Auto Sport Racing & Drone Delivery: FPV Simulator | 394570 | [394570-auto-sport-racing-and-drone-delivery-fpv-simulator.json](./394570-auto-sport-racing-and-drone-delivery-fpv-simulator.json) |
 | Auto Sport Racing Simulator | 381702 | [381702-auto-sport-racing-simulator.json](./381702-auto-sport-racing-simulator.json) |
 | Auto Squad RPG | 423369 | [423369-auto-squad-rpg.json](./423369-auto-squad-rpg.json) |
