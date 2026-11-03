@@ -2616,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Davy's Dreams of Chasing Things | 323366 | [323366-davys-dreams-of-chasing-things.json](./323366-davys-dreams-of-chasing-things.json) |
 | Davyria: Heroes of Eternity | 29438 | [29438-davyria-heroes-of-eternity.json](./29438-davyria-heroes-of-eternity.json) |
 | Dawes-24 | 185356 | [185356-dawes-24.json](./185356-dawes-24.json) |
+| Dawg Game | 383983 | [383983-dawg-game.json](./383983-dawg-game.json) |
 | Dawgs: The Revenge | 400905 | [400905-dawgs-the-revenge.json](./400905-dawgs-the-revenge.json) |
 | Dawn | 29216 | [29216-dawn.json](./29216-dawn.json) |
 | Dawn | 319979 | [319979-dawn.json](./319979-dawn.json) |
@@ -4869,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decypher | 290633 | [290633-decypher.json](./290633-decypher.json) |
 | Ded | 30073 | [30073-ded.json](./30073-ded.json) |
 | Ded Inside | 120776 | [120776-ded-inside.json](./120776-ded-inside.json) |
+| Deda | 383905 | [383905-deda.json](./383905-deda.json) |
 | Dedale | 73435 | [73435-dedale.json](./73435-dedale.json) |
 | Dedalium | 199418 | [199418-dedalium.json](./199418-dedalium.json) |
 | Dedalus | 138998 | [138998-dedalus.json](./138998-dedalus.json) |
@@ -8556,6 +8558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Too Deep | 402553 | [402553-dig-too-deep.json](./402553-dig-too-deep.json) |
 | Dig VR | 299295 | [299295-dig-vr.json](./299295-dig-vr.json) |
 | Dig, Craft, Kill | 391547 | [391547-dig-craft-kill.json](./391547-dig-craft-kill.json) |
+| Dig, Dig, Die | 384126 | [384126-dig-dig-die.json](./384126-dig-dig-die.json) |
 | DIG: Deep In Galaxies | 228455 | [228455-dig-deep-in-galaxies.json](./228455-dig-deep-in-galaxies.json) |
 | Dig! | 341070 | [341070-dig.json](./341070-dig.json) |
 | Dig! Dig! Dig! | 423201 | [423201-dig-dig-dig.json](./423201-dig-dig-dig.json) |
@@ -12665,6 +12668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DOP 4: Draw One Part | 220217 | [220217-dop-4-draw-one-part.json](./220217-dop-4-draw-one-part.json) |
 | Dop Story: Displace It | 220220 | [220220-dop-story-displace-it.json](./220220-dop-story-displace-it.json) |
 | Dopamine | 295798 | [295798-dopamine.json](./295798-dopamine.json) |
+| Dopamine | 384238 | [384238-dopamine.json](./384238-dopamine.json) |
 | Dopamine | 410634 | [410634-dopamine.json](./410634-dopamine.json) |
 | Dopamine Hit | 342894 | [342894-dopamine-hit.json](./342894-dopamine-hit.json) |
 | Dopaminer | 388170 | [388170-dopaminer.json](./388170-dopaminer.json) |
@@ -14911,6 +14915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Delusion: Rise of the Skeletons | 272835 | [272835-dread-delusion-rise-of-the-skeletons.json](./272835-dread-delusion-rise-of-the-skeletons.json) |
 | Dread Descent | 251763 | [251763-dread-descent.json](./251763-dread-descent.json) |
 | Dread Dice | 184444 | [184444-dread-dice.json](./184444-dread-dice.json) |
+| Dread Fields | 383923 | [383923-dread-fields.json](./383923-dread-fields.json) |
 | Dread Flats | 351690 | [351690-dread-flats.json](./351690-dread-flats.json) |
 | Dread Hunger | 141365 | [141365-dread-hunger.json](./141365-dread-hunger.json) |
 | Dread Keep | 181170 | [181170-dread-keep.json](./181170-dread-keep.json) |
