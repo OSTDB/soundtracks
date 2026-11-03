@@ -2984,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wednesday Basketball | 172979 | [172979-wednesday-basketball.json](./172979-wednesday-basketball.json) |
 | Wednesday Night | 358638 | [358638-wednesday-night.json](./358638-wednesday-night.json) |
 | Wednesdays | 333946 | [333946-wednesdays.json](./333946-wednesdays.json) |
+| Wee Boats | 378133 | [378133-wee-boats.json](./378133-wee-boats.json) |
 | Wee Curl | 60846 | [60846-wee-curl.json](./60846-wee-curl.json) |
 | Wee Tanks! | 142708 | [142708-wee-tanks.json](./142708-wee-tanks.json) |
 | Wee Trains | 120293 | [120293-wee-trains.json](./120293-wee-trains.json) |
