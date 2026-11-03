@@ -3704,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Scope | 130511 | [130511-dead-scope.json](./130511-dead-scope.json) |
 | Dead Scrap | 303466 | [303466-dead-scrap.json](./303466-dead-scrap.json) |
 | Dead Sea | 25514 | [25514-dead-sea.json](./25514-dead-sea.json) |
+| Dead Sea Scrolls | 356382 | [356382-dead-sea-scrolls.json](./356382-dead-sea-scrolls.json) |
 | Dead Season | 295207 | [295207-dead-season.json](./295207-dead-season.json) |
 | Dead Seater | 145174 | [145174-dead-seater.json](./145174-dead-seater.json) |
 | Dead Second | 216300 | [216300-dead-second.json](./216300-dead-second.json) |
@@ -14464,6 +14465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Raja L: The Classic | 267353 | [267353-dragon-raja-l-the-classic.json](./267353-dragon-raja-l-the-classic.json) |
 | Dragon Raja: ReRise | 402964 | [402964-dragon-raja-rerise.json](./402964-dragon-raja-rerise.json) |
 | Dragon Raja: The Farewell Passage | 411333 | [411333-dragon-raja-the-farewell-passage.json](./411333-dragon-raja-the-farewell-passage.json) |
+| Dragon Rancher | 356351 | [356351-dragon-rancher.json](./356351-dragon-rancher.json) |
 | Dragon Riddler | 348661 | [348661-dragon-riddler.json](./348661-dragon-riddler.json) |
 | Dragon Riders | 411136 | [411136-dragon-riders.json](./411136-dragon-riders.json) |
 | Dragon Riders: Chronicles of Pern | 132134 | [132134-dragon-riders-chronicles-of-pern.json](./132134-dragon-riders-chronicles-of-pern.json) |
@@ -17805,6 +17807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 3: Once Upon A Time | 138057 | [138057-dungeons-3-once-upon-a-time.json](./138057-dungeons-3-once-upon-a-time.json) |
 | Dungeons 4 | 215915 | [215915-dungeons-4.json](./215915-dungeons-4.json) |
 | Dungeons 4: Nintendo Switch Edition | 319321 | [319321-dungeons-4-nintendo-switch-edition.json](./319321-dungeons-4-nintendo-switch-edition.json) |
+| Dungeons 4: Tales from the Campfire | 356370 | [356370-dungeons-4-tales-from-the-campfire.json](./356370-dungeons-4-tales-from-the-campfire.json) |
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
 | Dungeons Adventurer | 237789 | [237789-dungeons-adventurer.json](./237789-dungeons-adventurer.json) |
 | Dungeons Again | 120742 | [120742-dungeons-again.json](./120742-dungeons-again.json) |
