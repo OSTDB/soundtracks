@@ -3040,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumbo Egg Hunt (Fun Easter Egg Hunting Adventure) | 91051 | [91051-jumbo-egg-hunt-fun-easter-egg-hunting-adventure.json](./91051-jumbo-egg-hunt-fun-easter-egg-hunting-adventure.json) |
 | Jumbo Pumbo | 341471 | [341471-jumbo-pumbo.json](./341471-jumbo-pumbo.json) |
 | Jumbo: Jewel of Realms | 197165 | [197165-jumbo-jewel-of-realms.json](./197165-jumbo-jewel-of-realms.json) |
+| Jumbot | 364782 | [364782-jumbot.json](./364782-jumbot.json) |
 | Jumfrog | 318762 | [318762-jumfrog.json](./318762-jumfrog.json) |
 | Jump | 152140 | [152140-jump.json](./152140-jump.json) |
 | Jump | 271775 | [271775-jump.json](./271775-jump.json) |
@@ -4025,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Wak and Beats | 233959 | [233959-just-wak-and-beats.json](./233959-just-wak-and-beats.json) |
 | Just Walk | 303603 | [303603-just-walk.json](./303603-just-walk.json) |
 | Just War Trains | 313752 | [313752-just-war-trains.json](./313752-just-war-trains.json) |
+| Just Work | 364788 | [364788-just-work.json](./364788-just-work.json) |
 | Just Xiangqi | 235701 | [235701-just-xiangqi.json](./235701-just-xiangqi.json) |
 | Just You | 303602 | [303602-just-you.json](./303602-just-you.json) |
 | Just Yuri | 194762 | [194762-just-yuri.json](./194762-just-yuri.json) |
