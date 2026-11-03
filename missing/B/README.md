@@ -925,7 +925,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4859,6 +4858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Whalers | 192685 | [192685-beast-whalers.json](./192685-beast-whalers.json) |
 | Beast Wrestler | 46239 | [46239-beast-wrestler.json](./46239-beast-wrestler.json) |
 | Beast: Bio Exo Arena Suit Team | 287551 | [287551-beast-bio-exo-arena-suit-team.json](./287551-beast-bio-exo-arena-suit-team.json) |
+| Beast's Bane | 386827 | [386827-beasts-bane.json](./386827-beasts-bane.json) |
 | Beast's Fury | 61004 | [61004-beasts-fury.json](./61004-beasts-fury.json) |
 | Beastball | 45738 | [45738-beastball.json](./45738-beastball.json) |
 | Beastbound | 323425 | [323425-beastbound.json](./323425-beastbound.json) |
@@ -8267,6 +8267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit.Trip Presents... Runner2: Future Legend of Rhythm Alien | 5592 | [5592-bit-trip-presents-runner2-future-legend-of-rhythm-alien.json](./5592-bit-trip-presents-runner2-future-legend-of-rhythm-alien.json) |
 | Bit.Trip Saga | 21894 | [21894-bit-trip-saga.json](./21894-bit-trip-saga.json) |
 | Bit.Trip Void 2 | 323786 | [323786-bit-trip-void-2.json](./323786-bit-trip-void-2.json) |
+| Bit//Cycle | 386828 | [386828-bit-cycle.json](./386828-bit-cycle.json) |
 | Bitardia | 34378 | [34378-bitardia.json](./34378-bitardia.json) |
 | Bitardia Cards: Memes of 2ch | 33383 | [33383-bitardia-cards-memes-of-2ch.json](./33383-bitardia-cards-memes-of-2ch.json) |
 | Bitball | 333188 | [333188-bitball.json](./333188-bitball.json) |
@@ -9624,6 +9625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bliink: Staring Contest | 143089 | [143089-bliink-staring-contest.json](./143089-bliink-staring-contest.json) |
 | Blik | 82033 | [82033-blik.json](./82033-blik.json) |
 | Blik Ball | 413660 | [413660-blik-ball.json](./413660-blik-ball.json) |
+| Blimblau: Kill Them All! | 386830 | [386830-blimblau-kill-them-all.json](./386830-blimblau-kill-them-all.json) |
 | Blimby | 153871 | [153871-blimby.json](./153871-blimby.json) |
 | Blimpo Warrior | 337310 | [337310-blimpo-warrior.json](./337310-blimpo-warrior.json) |
 | Blimpy | 328975 | [328975-blimpy.json](./328975-blimpy.json) |
@@ -13523,6 +13525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxgame | 242919 | [242919-boxgame.json](./242919-boxgame.json) |
 | Boxguy Adventure | 358322 | [358322-boxguy-adventure.json](./358322-boxguy-adventure.json) |
 | Boxguy Adventure 2 | 358292 | [358292-boxguy-adventure-2.json](./358292-boxguy-adventure-2.json) |
+| Boxguy Adventure 3: Super Boxguy World | 386819 | [386819-boxguy-adventure-3-super-boxguy-world.json](./386819-boxguy-adventure-3-super-boxguy-world.json) |
 | Boxhead: 2Play Rooms | 147504 | [147504-boxhead-2play-rooms.json](./147504-boxhead-2play-rooms.json) |
 | Boxhead: A Halloween Special | 373637 | [373637-boxhead-a-halloween-special.json](./373637-boxhead-a-halloween-special.json) |
 | Boxhead: Immortal | 291083 | [291083-boxhead-immortal.json](./291083-boxhead-immortal.json) |
