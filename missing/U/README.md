@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate I Spy | 5252 | [5252-ultimate-i-spy.json](./5252-ultimate-i-spy.json) |
 | Ultimate Indie Racing | 306651 | [306651-ultimate-indie-racing.json](./306651-ultimate-indie-racing.json) |
 | Ultimate Jan Ken Pon | 22033 | [22033-ultimate-jan-ken-pon.json](./22033-ultimate-jan-ken-pon.json) |
+| Ultimate Janitor Simulator | 390866 | [390866-ultimate-janitor-simulator.json](./390866-ultimate-janitor-simulator.json) |
 | Ultimate Jazz Jackrabbit Doom | 196004 | [196004-ultimate-jazz-jackrabbit-doom.json](./196004-ultimate-jazz-jackrabbit-doom.json) |
 | Ultimate Jello Party | 306922 | [306922-ultimate-jello-party.json](./306922-ultimate-jello-party.json) |
 | Ultimate Jewel | 242209 | [242209-ultimate-jewel.json](./242209-ultimate-jewel.json) |
@@ -3155,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Full Edition | 332506 | [332506-urban-flow-full-edition.json](./332506-urban-flow-full-edition.json) |
 | Urban Flow: GOTY Edition | 278653 | [278653-urban-flow-goty-edition.json](./278653-urban-flow-goty-edition.json) |
 | Urban Flow: Grand Edition | 313215 | [313215-urban-flow-grand-edition.json](./313215-urban-flow-grand-edition.json) |
+| Urban Flow: Hero's Edition | 390908 | [390908-urban-flow-heros-edition.json](./390908-urban-flow-heros-edition.json) |
 | Urban Flow: London Extended Edition | 222049 | [222049-urban-flow-london-extended-edition.json](./222049-urban-flow-london-extended-edition.json) |
 | Urban Flow: London Rules | 237925 | [237925-urban-flow-london-rules.json](./237925-urban-flow-london-rules.json) |
 | Urban Flow: Luxury Edition | 409983 | [409983-urban-flow-luxury-edition.json](./409983-urban-flow-luxury-edition.json) |
