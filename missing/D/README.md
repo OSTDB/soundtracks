@@ -3553,6 +3553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead On Arrival | 380246 | [380246-dead-on-arrival.json](./380246-dead-on-arrival.json) |
 | Dead on Arrival 2 | 51670 | [51670-dead-on-arrival-2.json](./51670-dead-on-arrival-2.json) |
 | Dead on Arrival: Remastered | 226516 | [226516-dead-on-arrival-remastered.json](./226516-dead-on-arrival-remastered.json) |
+| Dead on Delivery | 350746 | [350746-dead-on-delivery.json](./350746-dead-on-delivery.json) |
 | Dead on Time | 13574 | [13574-dead-on-time.json](./13574-dead-on-time.json) |
 | Dead on Your Lawn | 345394 | [345394-dead-on-your-lawn.json](./345394-dead-on-your-lawn.json) |
 | Dead or Alive | 1387 | [1387-dead-or-alive.json](./1387-dead-or-alive.json) |
@@ -4468,6 +4469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Star Interceptor | 45334 | [45334-death-star-interceptor.json](./45334-death-star-interceptor.json) |
 | Death Star Prison Break | 178618 | [178618-death-star-prison-break.json](./178618-death-star-prison-break.json) |
 | Death Stare | 176220 | [176220-death-stare.json](./176220-death-stare.json) |
+| Death Stranding 2: On The Beach - Digital Deluxe Edition | 350752 | [350752-death-stranding-2-on-the-beach-digital-deluxe-edition.json](./350752-death-stranding-2-on-the-beach-digital-deluxe-edition.json) |
 | Death Stranding: Collector's Edition | 134230 | [134230-death-stranding-collectors-edition.json](./134230-death-stranding-collectors-edition.json) |
 | Death Stranding: Digital Deluxe Edition | 136160 | [136160-death-stranding-digital-deluxe-edition.json](./136160-death-stranding-digital-deluxe-edition.json) |
 | Death Stranding: Director's Cut | 152063 | [152063-death-stranding-directors-cut.json](./152063-death-stranding-directors-cut.json) |
@@ -7036,6 +7038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Tower Defense | 21189 | [21189-desktop-tower-defense.json](./21189-desktop-tower-defense.json) |
 | Desktop Town | 372681 | [372681-desktop-town.json](./372681-desktop-town.json) |
 | Desktop Volleyball | 147834 | [147834-desktop-volleyball.json](./147834-desktop-volleyball.json) |
+| Desktop Waifu | 350870 | [350870-desktop-waifu.json](./350870-desktop-waifu.json) |
 | Desktop Waifu | 377572 | [377572-desktop-waifu.json](./377572-desktop-waifu.json) |
 | Desktop Wooden Fish | 350405 | [350405-desktop-wooden-fish.json](./350405-desktop-wooden-fish.json) |
 | Desktopia: A Desktop Village Simulator | 212720 | [212720-desktopia-a-desktop-village-simulator.json](./212720-desktopia-a-desktop-village-simulator.json) |
@@ -11850,6 +11853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Fall | 140024 | [140024-dont-fall.json](./140024-dont-fall.json) |
 | Don't Fall | 266312 | [266312-dont-fall.json](./266312-dont-fall.json) |
 | Don't Fall | 348942 | [348942-dont-fall.json](./348942-dont-fall.json) |
+| Don't Fall | 350885 | [350885-dont-fall.json](./350885-dont-fall.json) |
 | Don't Fall | 365196 | [365196-dont-fall.json](./365196-dont-fall.json) |
 | Don't Fall | 86473 | [86473-dont-fall.json](./86473-dont-fall.json) |
 | Don't Fall Asleep | 149192 | [149192-dont-fall-asleep.json](./149192-dont-fall-asleep.json) |
@@ -11982,6 +11986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Push the Red Button: Anniversary Edition & VR | 182795 | [182795-dont-push-the-red-button-anniversary-edition-and-vr.json](./182795-dont-push-the-red-button-anniversary-edition-and-vr.json) |
 | Don't Push Your Luck | 400304 | [400304-dont-push-your-luck.json](./400304-dont-push-your-luck.json) |
 | Don't Rage | 243576 | [243576-dont-rage.json](./243576-dont-rage.json) |
+| Don't Rank Cuomo | 350873 | [350873-dont-rank-cuomo.json](./350873-dont-rank-cuomo.json) |
 | Don't Remember | 236878 | [236878-dont-remember.json](./236878-dont-remember.json) |
 | Don’t Return to Wonderland | 407157 | [407157-don-t-return-to-wonderland.json](./407157-don-t-return-to-wonderland.json) |
 | Don't Save the Princess | 111468 | [111468-dont-save-the-princess.json](./111468-dont-save-the-princess.json) |
