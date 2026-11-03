@@ -4848,6 +4848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast's Fury | 61004 | [61004-beasts-fury.json](./61004-beasts-fury.json) |
 | Beastball | 45738 | [45738-beastball.json](./45738-beastball.json) |
 | Beastbound | 323425 | [323425-beastbound.json](./323425-beastbound.json) |
+| BeastBreak: Monster Horde Shooter | 394286 | [394286-beastbreak-monster-horde-shooter.json](./394286-beastbreak-monster-horde-shooter.json) |
 | Beastfall | 381252 | [381252-beastfall.json](./381252-beastfall.json) |
 | Beastiarium | 30927 | [30927-beastiarium.json](./30927-beastiarium.json) |
 | Beastie Bay | 22184 | [22184-beastie-bay.json](./22184-beastie-bay.json) |
