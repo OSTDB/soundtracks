@@ -1717,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FantasicReverie | 407897 | [407897-fantasicreverie.json](./407897-fantasicreverie.json) |
 | Fantasista Asuka | 389206 | [389206-fantasista-asuka.json](./389206-fantasista-asuka.json) |
 | Fantasization | 68593 | [68593-fantasization.json](./68593-fantasization.json) |
+| Fantasketch | 355981 | [355981-fantasketch.json](./355981-fantasketch.json) |
 | Fantasma | 153915 | [153915-fantasma.json](./153915-fantasma.json) |
 | Fantasma Ville | 166826 | [166826-fantasma-ville.json](./166826-fantasma-ville.json) |
 | FantaStep | 97526 | [97526-fantastep.json](./97526-fantastep.json) |
@@ -3985,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiction Fixers: Adventures in Wonderland | 277237 | [277237-fiction-fixers-adventures-in-wonderland.json](./277237-fiction-fixers-adventures-in-wonderland.json) |
 | Fiction Fixers: Curse of OZ | 277236 | [277236-fiction-fixers-curse-of-oz.json](./277236-fiction-fixers-curse-of-oz.json) |
 | Fiction Fixers: The Curse of Oz & Adventures in Wonderland | 209421 | [209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json](./209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json) |
+| Fiction Paradox | 355979 | [355979-fiction-paradox.json](./355979-fiction-paradox.json) |
 | Fiction.Colors | 341152 | [341152-fiction-colors.json](./341152-fiction-colors.json) |
 | FictionSphere | 27171 | [27171-fictionsphere.json](./27171-fictionsphere.json) |
 | Fictophilia: A fools hope | 184266 | [184266-fictophilia-a-fools-hope.json](./184266-fictophilia-a-fools-hope.json) |
