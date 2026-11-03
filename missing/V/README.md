@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Casino 2 | 66925 | [66925-vegas-casino-2.json](./66925-vegas-casino-2.json) |
 | Vegas Casino Slots Mania | 232362 | [232362-vegas-casino-slots-mania.json](./232362-vegas-casino-slots-mania.json) |
 | Vegas Connection: Casino Kara Ai wo Komete | 48872 | [48872-vegas-connection-casino-kara-ai-wo-komete.json](./48872-vegas-connection-casino-kara-ai-wo-komete.json) |
+| Vegas Craps by Pokerist | 350881 | [350881-vegas-craps-by-pokerist.json](./350881-vegas-craps-by-pokerist.json) |
 | Vegas Dream | 3661 | [3661-vegas-dream.json](./3661-vegas-dream.json) |
 | Vegas Fever Winner Takes All | 70792 | [70792-vegas-fever-winner-takes-all.json](./70792-vegas-fever-winner-takes-all.json) |
 | Vegas Fever: High Roller Edition | 206203 | [206203-vegas-fever-high-roller-edition.json](./206203-vegas-fever-high-roller-edition.json) |
