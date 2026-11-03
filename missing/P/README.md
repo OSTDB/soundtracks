@@ -2032,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoide | 333371 | [333371-paranoide.json](./333371-paranoide.json) |
 | Paranoihell | 123826 | [123826-paranoihell.json](./123826-paranoihell.json) |
 | Paranoir | 354639 | [354639-paranoir.json](./354639-paranoir.json) |
+| Paranordle | 383911 | [383911-paranordle.json](./383911-paranordle.json) |
 | Paranormal | 183194 | [183194-paranormal.json](./183194-paranormal.json) |
 | Paranormal '98 | 376489 | [376489-paranormal-98.json](./376489-paranormal-98.json) |
 | Paranormal Activity: The Lost Soul | 32699 | [32699-paranormal-activity-the-lost-soul.json](./32699-paranormal-activity-the-lost-soul.json) |
@@ -10114,6 +10115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poka-poka Mama Koi Onsen: Mommy's Warm Hot Sprint | 288432 | [288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json](./288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json) |
 | Pokaban | 197006 | [197006-pokaban.json](./197006-pokaban.json) |
 | Pokaboo | 197851 | [197851-pokaboo.json](./197851-pokaboo.json) |
+| PokAidle: The Everfall Chronicles | 384130 | [384130-pokaidle-the-everfall-chronicles.json](./384130-pokaidle-the-everfall-chronicles.json) |
 | Poke a Nose | 405173 | [405173-poke-a-nose.json](./405173-poke-a-nose.json) |
 | Poke Abby | 210464 | [210464-poke-abby.json](./210464-poke-abby.json) |
 | Poke All Toads | 241785 | [241785-poke-all-toads.json](./241785-poke-all-toads.json) |
