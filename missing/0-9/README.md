@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Dogs Hidden in Singapore | 407181 | [407181-101-dogs-hidden-in-singapore.json](./407181-101-dogs-hidden-in-singapore.json) |
 | 101 Dogs Hidden in Vienna | 407535 | [407535-101-dogs-hidden-in-vienna.json](./407535-101-dogs-hidden-in-vienna.json) |
 | 101 Dolphin Pets | 52340 | [52340-101-dolphin-pets.json](./52340-101-dolphin-pets.json) |
+| 101 Easy-Peasy Things to Do With Your Computer | 379610 | [379610-101-easy-peasy-things-to-do-with-your-computer.json](./379610-101-easy-peasy-things-to-do-with-your-computer.json) |
 | 101 Kid's Brainy Games | 180204 | [180204-101-kids-brainy-games.json](./180204-101-kids-brainy-games.json) |
 | 101 Kitty Pets | 100264 | [100264-101-kitty-pets.json](./100264-101-kitty-pets.json) |
 | 101 Minigolf World | 84621 | [84621-101-minigolf-world.json](./84621-101-minigolf-world.json) |
@@ -2357,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Tic-Tac-Toe | 421224 | [421224-3d-tic-tac-toe.json](./421224-3d-tic-tac-toe.json) |
 | 3D Tower | 75313 | [75313-3d-tower.json](./75313-3d-tower.json) |
 | 3D Train Studio V9 | 376272 | [376272-3d-train-studio-v9.json](./376272-3d-train-studio-v9.json) |
+| 3D Tunnel | 379615 | [379615-3d-tunnel.json](./379615-3d-tunnel.json) |
 | 3D Turbo OutRun | 202923 | [202923-3d-turbo-outrun.json](./202923-3d-turbo-outrun.json) |
 | 3D Twist & Match | 65551 | [65551-3d-twist-and-match.json](./65551-3d-twist-and-match.json) |
 | 3D Ultra Lionel Traintown | 10735 | [10735-3d-ultra-lionel-traintown.json](./10735-3d-ultra-lionel-traintown.json) |
