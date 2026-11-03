@@ -10807,6 +10807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette Hero | 341536 | [341536-roulette-hero.json](./341536-roulette-hero.json) |
 | Roulette Knight | 101008 | [101008-roulette-knight.json](./101008-roulette-knight.json) |
 | Roulette Knight | 178687 | [178687-roulette-knight.json](./178687-roulette-knight.json) |
+| Roulette of the Void | 379835 | [379835-roulette-of-the-void.json](./379835-roulette-of-the-void.json) |
 | Roulette Pro Simulator | 348299 | [348299-roulette-pro-simulator.json](./348299-roulette-pro-simulator.json) |
 | Roulette Rush | 330097 | [330097-roulette-rush.json](./330097-roulette-rush.json) |
 | Roulette Simulator | 82001 | [82001-roulette-simulator.json](./82001-roulette-simulator.json) |
