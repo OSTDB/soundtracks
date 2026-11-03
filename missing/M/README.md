@@ -3108,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Many Years Ago | 146483 | [146483-many-years-ago.json](./146483-many-years-ago.json) |
 | Manygolf | 54740 | [54740-manygolf.json](./54740-manygolf.json) |
 | Manyland | 35940 | [35940-manyland.json](./35940-manyland.json) |
+| Mànyóu Wǔ Qiānnián | 367660 | [367660-manyou-wu-qiannian.json](./367660-manyou-wu-qiannian.json) |
 | Manzaka | 288757 | [288757-manzaka.json](./288757-manzaka.json) |
 | Mao Tan | 137606 | [137606-mao-tan.json](./137606-mao-tan.json) |
 | Maoh Maker the Future with You | 97505 | [97505-maoh-maker-the-future-with-you.json](./97505-maoh-maker-the-future-with-you.json) |
