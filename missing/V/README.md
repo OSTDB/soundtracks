@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vilde | 253827 | [253827-vilde.json](./253827-vilde.json) |
 | Vile | 111386 | [111386-vile.json](./111386-vile.json) |
 | Vile | 409723 | [409723-vile.json](./409723-vile.json) |
+| Vile Halicarnassus | 386086 | [386086-vile-halicarnassus.json](./386086-vile-halicarnassus.json) |
 | Vile Matter | 126997 | [126997-vile-matter.json](./126997-vile-matter.json) |
 | Vile: Exhumed | 320741 | [320741-vile-exhumed.json](./320741-vile-exhumed.json) |
 | Villa Banana | 416140 | [416140-villa-banana.json](./416140-villa-banana.json) |
