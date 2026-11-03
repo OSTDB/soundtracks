@@ -6083,6 +6083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold & Goblins | 341628 | [341628-gold-and-goblins.json](./341628-gold-and-goblins.json) |
 | Gold & Ship Bundle: Gold Mining & Ship Graveyard Simulator | 340951 | [340951-gold-and-ship-bundle-gold-mining-and-ship-graveyard-simulator.json](./340951-gold-and-ship-bundle-gold-mining-and-ship-graveyard-simulator.json) |
 | Gold Ambush | 68280 | [68280-gold-ambush.json](./68280-gold-ambush.json) |
+| Gold and Bricks | 350296 | [350296-gold-and-bricks.json](./350296-gold-and-bricks.json) |
 | Gold and Gems | 3274 | [3274-gold-and-gems.json](./3274-gold-and-gems.json) |
 | Gold and Glory: The Road to El Dorado | 209636 | [209636-gold-and-glory-the-road-to-el-dorado.json](./209636-gold-and-glory-the-road-to-el-dorado.json) |
 | Gold and Graves | 345281 | [345281-gold-and-graves.json](./345281-gold-and-graves.json) |
@@ -6296,6 +6297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Yoshi's Island | 276880 | [276880-golden-yoshis-island.json](./276880-golden-yoshis-island.json) |
 | Goldene Zeiten | 94234 | [94234-goldene-zeiten.json](./94234-goldene-zeiten.json) |
 | GoldenEye 007 | 1647 | [1647-goldeneye-007.json](./1647-goldeneye-007.json) |
+| GoldenEye 007 | 350140 | [350140-goldeneye-007.json](./350140-goldeneye-007.json) |
 | GoldenEye 007: Recompiled | 406470 | [406470-goldeneye-007-recompiled.json](./406470-goldeneye-007-recompiled.json) |
 | GoldenEye 007: Xbox Live Arcade | 143406 | [143406-goldeneye-007-xbox-live-arcade.json](./143406-goldeneye-007-xbox-live-arcade.json) |
 | Goldeneye Doom2 | 196026 | [196026-goldeneye-doom2.json](./196026-goldeneye-doom2.json) |
@@ -7304,6 +7306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graduate Battle | 358511 | [358511-graduate-battle.json](./358511-graduate-battle.json) |
 | Graduated | 117617 | [117617-graduated.json](./117617-graduated.json) |
 | Graduation | 71310 | [71310-graduation.json](./71310-graduation.json) |
+| Graduation Game | 350302 | [350302-graduation-game.json](./350302-graduation-game.json) |
 | Graduation Life Simulator | 326302 | [326302-graduation-life-simulator.json](./326302-graduation-life-simulator.json) |
 | Graeme Souness Soccer Manager | 79084 | [79084-graeme-souness-soccer-manager.json](./79084-graeme-souness-soccer-manager.json) |
 | Graeme Souness Vector Soccer | 12603 | [12603-graeme-souness-vector-soccer.json](./12603-graeme-souness-vector-soccer.json) |
