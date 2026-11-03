@@ -12820,6 +12820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorkom | 407600 | [407600-dorkom.json](./407600-dorkom.json) |
 | Dorky Fork | 130209 | [130209-dorky-fork.json](./130209-dorky-fork.json) |
 | Dorm Days | 223236 | [223236-dorm-days.json](./223236-dorm-days.json) |
+| Dorm Janitor's Revenge | 391946 | [391946-dorm-janitors-revenge.json](./391946-dorm-janitors-revenge.json) |
 | Dorman's Attraction: Upgraded & Advanced | 396897 | [396897-dormans-attraction-upgraded-and-advanced.json](./396897-dormans-attraction-upgraded-and-advanced.json) |
 | Dormant | 313496 | [313496-dormant.json](./313496-dormant.json) |
 | Dormant World | 55802 | [55802-dormant-world.json](./55802-dormant-world.json) |
@@ -14790,6 +14791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Near | 95600 | [95600-draw-near.json](./95600-draw-near.json) |
 | Draw Nine | 135613 | [135613-draw-nine.json](./135613-draw-nine.json) |
 | Draw No More | 177523 | [177523-draw-no-more.json](./177523-draw-no-more.json) |
+| Draw of Destiny | 391971 | [391971-draw-of-destiny.json](./391971-draw-of-destiny.json) |
 | Draw Physics Line | 291379 | [291379-draw-physics-line.json](./291379-draw-physics-line.json) |
 | Draw Puzzle | 46479 | [46479-draw-puzzle.json](./46479-draw-puzzle.json) |
 | Draw Race 2: Racing Evolved | 65859 | [65859-draw-race-2-racing-evolved.json](./65859-draw-race-2-racing-evolved.json) |
@@ -16000,6 +16002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Shadow Strike | 303262 | [303262-drone-shadow-strike.json](./303262-drone-shadow-strike.json) |
 | Drone Showcase | 186287 | [186287-drone-showcase.json](./186287-drone-showcase.json) |
 | Drone Simulator | 188948 | [188948-drone-simulator.json](./188948-drone-simulator.json) |
+| Drone Simulator | 391953 | [391953-drone-simulator.json](./391953-drone-simulator.json) |
 | Drone Simulator VR | 316723 | [316723-drone-simulator-vr.json](./316723-drone-simulator-vr.json) |
 | Drone Simulator: Smash Zombies | 343249 | [343249-drone-simulator-smash-zombies.json](./343249-drone-simulator-smash-zombies.json) |
 | Drone Simulator: Smash Zombies | 401116 | [401116-drone-simulator-smash-zombies.json](./401116-drone-simulator-smash-zombies.json) |
@@ -17990,6 +17993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DvDrum, Ultimate Drum Simulator! | 27206 | [27206-dvdrum-ultimate-drum-simulator.json](./27206-dvdrum-ultimate-drum-simulator.json) |
 | Dvergatal: Thorin's Quest | 178420 | [178420-dvergatal-thorins-quest.json](./178420-dvergatal-thorins-quest.json) |
 | Dverghold | 380832 | [380832-dverghold.json](./380832-dverghold.json) |
+| DVG Survivors | 391975 | [391975-dvg-survivors.json](./391975-dvg-survivors.json) |
 | DvG: Conquering Giants | 163768 | [163768-dvg-conquering-giants.json](./163768-dvg-conquering-giants.json) |
 | Dvor | 414122 | [414122-dvor.json](./414122-dvor.json) |
 | DW | 168616 | [168616-dw.json](./168616-dw.json) |
