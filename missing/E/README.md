@@ -5282,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Prison: 3 Days to Freedom | 248657 | [248657-escape-the-prison-3-days-to-freedom.json](./248657-escape-the-prison-3-days-to-freedom.json) |
 | Escape the Quack | 332986 | [332986-escape-the-quack.json](./332986-escape-the-quack.json) |
 | Escape the Reef | 315249 | [315249-escape-the-reef.json](./315249-escape-the-reef.json) |
+| Escape the Riddlerock Ruins | 388781 | [388781-escape-the-riddlerock-ruins.json](./388781-escape-the-riddlerock-ruins.json) |
 | Escape the room | 192157 | [192157-escape-the-room.json](./192157-escape-the-room.json) |
 | Escape the Room | 108954 | [108954-escape-the-room.json](./108954-escape-the-room.json) |
 | Escape the Room | 339772 | [339772-escape-the-room.json](./339772-escape-the-room.json) |
