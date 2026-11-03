@@ -11854,10 +11854,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Sausage Run: Coins, Bugs and Chicken | 247754 | [247754-run-sausage-run-coins-bugs-and-chicken.json](./247754-run-sausage-run-coins-bugs-and-chicken.json) |
 | Run Sausage Run: Complete Edition | 248060 | [248060-run-sausage-run-complete-edition.json](./248060-run-sausage-run-complete-edition.json) |
 | Run Sausage Run!: Bones Edition | 368779 | [368779-run-sausage-run-bones-edition.json](./368779-run-sausage-run-bones-edition.json) |
+| Run Sausage Run!: Cop, Crime and Crazy | 353593 | [353593-run-sausage-run-cop-crime-and-crazy.json](./353593-run-sausage-run-cop-crime-and-crazy.json) |
 | Run Sausage Run!: Crazy Edition | 362217 | [362217-run-sausage-run-crazy-edition.json](./362217-run-sausage-run-crazy-edition.json) |
 | Run Sausage Run!: Diamond Edition | 380722 | [380722-run-sausage-run-diamond-edition.json](./380722-run-sausage-run-diamond-edition.json) |
 | Run Sausage Run!: Emerald Edition | 411838 | [411838-run-sausage-run-emerald-edition.json](./411838-run-sausage-run-emerald-edition.json) |
+| Run Sausage Run!: Eyes, Brains and Bones | 353598 | [353598-run-sausage-run-eyes-brains-and-bones.json](./353598-run-sausage-run-eyes-brains-and-bones.json) |
+| Run Sausage Run!: Fish, Plant and Hunt | 353597 | [353597-run-sausage-run-fish-plant-and-hunt.json](./353597-run-sausage-run-fish-plant-and-hunt.json) |
+| Run Sausage Run!: Good, Bad and Curious | 353596 | [353596-run-sausage-run-good-bad-and-curious.json](./353596-run-sausage-run-good-bad-and-curious.json) |
 | Run Sausage Run!: Hella Weenies Edition | 376245 | [376245-run-sausage-run-hella-weenies-edition.json](./376245-run-sausage-run-hella-weenies-edition.json) |
+| Run Sausage Run!: Honey, Light and Poison | 353595 | [353595-run-sausage-run-honey-light-and-poison.json](./353595-run-sausage-run-honey-light-and-poison.json) |
+| Run Sausage Run!: Old, Ancient and Fossil | 353594 | [353594-run-sausage-run-old-ancient-and-fossil.json](./353594-run-sausage-run-old-ancient-and-fossil.json) |
 | Run Sausage Run!: Poison Edition | 396928 | [396928-run-sausage-run-poison-edition.json](./396928-run-sausage-run-poison-edition.json) |
 | Run Sheldon | 388670 | [388670-run-sheldon.json](./388670-run-sheldon.json) |
 | Run Show Quest | 280359 | [280359-run-show-quest.json](./280359-run-show-quest.json) |
