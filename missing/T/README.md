@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails of Iron II: Whiskers of Winter - Augur of the Draugr Armour Pack | 371224 | [371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json](./371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json) |
 | Tails of Iron II: Whiskers of Winter - Deluxe Edition | 331256 | [331256-tails-of-iron-ii-whiskers-of-winter-deluxe-edition.json](./331256-tails-of-iron-ii-whiskers-of-winter-deluxe-edition.json) |
 | Tails of Iron II: Whiskers of Winter - Hair to the Throne Pack | 371223 | [371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json](./371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json) |
+| Tails of Iron: Bloody Whiskers | 378141 | [378141-tails-of-iron-bloody-whiskers.json](./378141-tails-of-iron-bloody-whiskers.json) |
 | Tails of Iron: Bright Fir Forest | 280942 | [280942-tails-of-iron-bright-fir-forest.json](./280942-tails-of-iron-bright-fir-forest.json) |
 | Tails of Iron: Complete Edition | 371205 | [371205-tails-of-iron-complete-edition.json](./371205-tails-of-iron-complete-edition.json) |
 | Tails of Iron: Crimson Knight Edition | 159209 | [159209-tails-of-iron-crimson-knight-edition.json](./159209-tails-of-iron-crimson-knight-edition.json) |
@@ -10917,6 +10918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Cookie | 228592 | [228592-the-jumping-cookie.json](./228592-the-jumping-cookie.json) |
 | The Jumping Cookie: Turbo | 228593 | [228593-the-jumping-cookie-turbo.json](./228593-the-jumping-cookie-turbo.json) |
 | The Jumping Donut | 315810 | [315810-the-jumping-donut.json](./315810-the-jumping-donut.json) |
+| The Jumping Food Catcher | 378487 | [378487-the-jumping-food-catcher.json](./378487-the-jumping-food-catcher.json) |
 | The Jumping Food Delivery | 359991 | [359991-the-jumping-food-delivery.json](./359991-the-jumping-food-delivery.json) |
 | The Jumping Food Memory | 266064 | [266064-the-jumping-food-memory.json](./266064-the-jumping-food-memory.json) |
 | The Jumping Food Racing | 377709 | [377709-the-jumping-food-racing.json](./377709-the-jumping-food-racing.json) |
@@ -13027,6 +13029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maze X: The First Chapter | 342539 | [342539-the-maze-x-the-first-chapter.json](./342539-the-maze-x-the-first-chapter.json) |
 | The Maze: L'ultimo soldato | 381333 | [381333-the-maze-lultimo-soldato.json](./381333-the-maze-lultimo-soldato.json) |
 | The McCarthy Chronicles: Episode 1 | 171983 | [171983-the-mccarthy-chronicles-episode-1.json](./171983-the-mccarthy-chronicles-episode-1.json) |
+| The McMilian Tree Lot | 378451 | [378451-the-mcmilian-tree-lot.json](./378451-the-mcmilian-tree-lot.json) |
 | The Mean Checkers Machine 2 | 70841 | [70841-the-mean-checkers-machine-2.json](./70841-the-mean-checkers-machine-2.json) |
 | The Mean Craps Machine | 69507 | [69507-the-mean-craps-machine.json](./69507-the-mean-craps-machine.json) |
 | The Mean Green | 263415 | [263415-the-mean-green.json](./263415-the-mean-green.json) |
@@ -18828,6 +18831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Live in the Fractures | 333431 | [333431-they-live-in-the-fractures.json](./333431-they-live-in-the-fractures.json) |
 | They Look Like People | 189841 | [189841-they-look-like-people.json](./189841-they-look-like-people.json) |
 | They Look Strange and Have to Die | 181233 | [181233-they-look-strange-and-have-to-die.json](./181233-they-look-strange-and-have-to-die.json) |
+| They Looked Like Us | 378449 | [378449-they-looked-like-us.json](./378449-they-looked-like-us.json) |
 | They Love Them | 235813 | [235813-they-love-them.json](./235813-they-love-them.json) |
 | They Need To Be Fed | 242725 | [242725-they-need-to-be-fed.json](./242725-they-need-to-be-fed.json) |
 | They Not Fae! | 397294 | [397294-they-not-fae.json](./397294-they-not-fae.json) |
@@ -23936,6 +23940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tommy's Hollywords | 71146 | [71146-tommys-hollywords.json](./71146-tommys-hollywords.json) |
 | Tommygun's Frag | 387516 | [387516-tommyguns-frag.json](./387516-tommyguns-frag.json) |
 | Tommyrot | 416523 | [416523-tommyrot.json](./416523-tommyrot.json) |
+| Tomo Jam! | 378142 | [378142-tomo-jam.json](./378142-tomo-jam.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
 | Tomodachi 8in1 | 376653 | [376653-tomodachi-8in1.json](./376653-tomodachi-8in1.json) |
 | Tomodachi Ijou, Joubutsu Miman | 394078 | [394078-tomodachi-ijou-joubutsu-miman.json](./394078-tomodachi-ijou-joubutsu-miman.json) |
