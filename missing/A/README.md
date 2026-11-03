@@ -9396,6 +9396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anima: Song from the Abyss | 136432 | [136432-anima-song-from-the-abyss.json](./136432-anima-song-from-the-abyss.json) |
 | Anima: The Reign of Darkness | 151647 | [151647-anima-the-reign-of-darkness.json](./151647-anima-the-reign-of-darkness.json) |
 | ANIMAC | 145243 | [145243-animac.json](./145243-animac.json) |
+| AnimaCircus | 372948 | [372948-animacircus.json](./372948-animacircus.json) |
 | AnimAction | 2386 | [2386-animaction.json](./2386-animaction.json) |
 | Animaddicts | 190724 | [190724-animaddicts.json](./190724-animaddicts.json) |
 | Animaddicts 2 | 192891 | [192891-animaddicts-2.json](./192891-animaddicts-2.json) |
