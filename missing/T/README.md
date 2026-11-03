@@ -17330,6 +17330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treflik Family: Deluxe Edition | 246883 | [246883-the-treflik-family-deluxe-edition.json](./246883-the-treflik-family-deluxe-edition.json) |
 | The Trench | 219669 | [219669-the-trench.json](./219669-the-trench.json) |
 | The Trial | 170383 | [170383-the-trial.json](./170383-the-trial.json) |
+| The Trial | 359715 | [359715-the-trial.json](./359715-the-trial.json) |
 | The Trial of Kharzoid | 385683 | [385683-the-trial-of-kharzoid.json](./385683-the-trial-of-kharzoid.json) |
 | The trial of witch | 80918 | [80918-the-trial-of-witch.json](./80918-the-trial-of-witch.json) |
 | The Trials | 172767 | [172767-the-trials.json](./172767-the-trials.json) |
@@ -21820,6 +21821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Gal & Ninja Hayate | 55871 | [55871-time-gal-and-ninja-hayate.json](./55871-time-gal-and-ninja-hayate.json) |
 | Time Gal HD Remaster | 255872 | [255872-time-gal-hd-remaster.json](./255872-time-gal-hd-remaster.json) |
 | Time Gal Re:birth | 377094 | [377094-time-gal-re-birth.json](./377094-time-gal-re-birth.json) |
+| Time Gamers: 12000 Years in One Square Mile | 359683 | [359683-time-gamers-12000-years-in-one-square-mile.json](./359683-time-gamers-12000-years-in-one-square-mile.json) |
 | Time Gap | 109199 | [109199-time-gap.json](./109199-time-gap.json) |
 | Time Gap Mystery | 68501 | [68501-time-gap-mystery.json](./68501-time-gap-mystery.json) |
 | Time Gap Puppies | 156518 | [156518-time-gap-puppies.json](./156518-time-gap-puppies.json) |
