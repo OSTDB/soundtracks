@@ -5947,6 +5947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Game: Naughty Girls - Episode 9 | 382156 | [382156-sex-game-naughty-girls-episode-9.json](./382156-sex-game-naughty-girls-episode-9.json) |
 | Sex Game: Threesome - Episode 1 | 371056 | [371056-sex-game-threesome-episode-1.json](./371056-sex-game-threesome-episode-1.json) |
 | Sex Game: Threesome - Episode 2 | 377092 | [377092-sex-game-threesome-episode-2.json](./377092-sex-game-threesome-episode-2.json) |
+| Sex Game: Threesome - Episode 3 | 369820 | [369820-sex-game-threesome-episode-3.json](./369820-sex-game-threesome-episode-3.json) |
 | Sex Game: Threesome - Episode 4 | 375268 | [375268-sex-game-threesome-episode-4.json](./375268-sex-game-threesome-episode-4.json) |
 | Sex Game: Threesome - Episode 7 | 382151 | [382151-sex-game-threesome-episode-7.json](./382151-sex-game-threesome-episode-7.json) |
 | Sex Game: Threesome - Episode 8 | 382152 | [382152-sex-game-threesome-episode-8.json](./382152-sex-game-threesome-episode-8.json) |
@@ -8121,6 +8122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinjuku Dungeon | 222471 | [222471-shinjuku-dungeon.json](./222471-shinjuku-dungeon.json) |
 | Shinjuku no Okami | 70573 | [70573-shinjuku-no-okami.json](./70573-shinjuku-no-okami.json) |
 | Shinjuku Soumei | 261212 | [261212-shinjuku-soumei.json](./261212-shinjuku-soumei.json) |
+| Shinka Tales | 369806 | [369806-shinka-tales.json](./369806-shinka-tales.json) |
 | Shinkai Densetsu Meremanoid | 112178 | [112178-shinkai-densetsu-meremanoid.json](./112178-shinkai-densetsu-meremanoid.json) |
 | Shinkan Senshi Eris no Bouken | 97379 | [97379-shinkan-senshi-eris-no-bouken.json](./97379-shinkan-senshi-eris-no-bouken.json) |
 | Shinkansen 0 | 292568 | [292568-shinkansen-0.json](./292568-shinkansen-0.json) |
@@ -12941,6 +12943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime City: Trials | 389550 | [389550-slime-city-trials.json](./389550-slime-city-trials.json) |
 | Slime Clicker | 298090 | [298090-slime-clicker.json](./298090-slime-clicker.json) |
 | Slime Climb | 164934 | [164934-slime-climb.json](./164934-slime-climb.json) |
+| Slime Climb | 369800 | [369800-slime-climb.json](./369800-slime-climb.json) |
 | Slime Climb: A Count Pumpcula Tale | 310801 | [310801-slime-climb-a-count-pumpcula-tale.json](./310801-slime-climb-a-count-pumpcula-tale.json) |
 | Slime Climber | 292626 | [292626-slime-climber.json](./292626-slime-climber.json) |
 | Slime Color | 382853 | [382853-slime-color.json](./382853-slime-color.json) |
@@ -27817,6 +27820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Successor to Your Throne | 271935 | [271935-successor-to-your-throne.json](./271935-successor-to-your-throne.json) |
 | Succubers! Dark Covenant | 320229 | [320229-succubers-dark-covenant.json](./320229-succubers-dark-covenant.json) |
 | Succubi Domini | 401043 | [401043-succubi-domini.json](./401043-succubi-domini.json) |
+| Succubi's Trap Dungeon of Seduction | 369829 | [369829-succubis-trap-dungeon-of-seduction.json](./369829-succubis-trap-dungeon-of-seduction.json) |
 | SuccuBoss | 367057 | [367057-succuboss.json](./367057-succuboss.json) |
 | Succubus | 77820 | [77820-succubus.json](./77820-succubus.json) |
 | Succubus 2069 | 278897 | [278897-succubus-2069.json](./278897-succubus-2069.json) |
@@ -33485,6 +33489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swigglio | 183819 | [183819-swigglio.json](./183819-swigglio.json) |
 | Swigridova kletba | 182294 | [182294-swigridova-kletba.json](./182294-swigridova-kletba.json) |
 | Swim | 359195 | [359195-swim.json](./359195-swim.json) |
+| Swim | 369819 | [369819-swim.json](./369819-swim.json) |
 | Swim Meet | 242453 | [242453-swim-meet.json](./242453-swim-meet.json) |
 | Swim Out | 47995 | [47995-swim-out.json](./47995-swim-out.json) |
 | Swim Penguin | 106298 | [106298-swim-penguin.json](./106298-swim-penguin.json) |
