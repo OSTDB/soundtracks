@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | i3Peaks - Tri Peaks Solitaire | 87084 | [87084-i3peaks-tri-peaks-solitaire.json](./87084-i3peaks-tri-peaks-solitaire.json) |
 | Ia Scatter City | 258949 | [258949-ia-scatter-city.json](./258949-ia-scatter-city.json) |
 | Iactura | 31736 | [31736-iactura.json](./31736-iactura.json) |
+| Iago | 377876 | [377876-iago.json](./377876-iago.json) |
 | IAH: Internet War | 371911 | [371911-iah-internet-war.json](./371911-iah-internet-war.json) |
 | Iai | 196885 | [196885-iai.json](./196885-iai.json) |
 | IAI | 358896 | [358896-iai.json](./358896-iai.json) |
@@ -6184,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It sucks to be a succulent | 179668 | [179668-it-sucks-to-be-a-succulent.json](./179668-it-sucks-to-be-a-succulent.json) |
 | It Sucks to Be Us | 397062 | [397062-it-sucks-to-be-us.json](./397062-it-sucks-to-be-us.json) |
 | It sucks, y'know | 302661 | [302661-it-sucks-yknow.json](./302661-it-sucks-yknow.json) |
+| It Takes a Tribe | 377883 | [377883-it-takes-a-tribe.json](./377883-it-takes-a-tribe.json) |
 | It Takes a Village | 290861 | [290861-it-takes-a-village.json](./290861-it-takes-a-village.json) |
 | It Takes a War | 367738 | [367738-it-takes-a-war.json](./367738-it-takes-a-war.json) |
 | It Takes a War: Demo Drills - Director's Cut | 402538 | [402538-it-takes-a-war-demo-drills-directors-cut.json](./402538-it-takes-a-war-demo-drills-directors-cut.json) |
