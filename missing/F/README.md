@@ -1904,6 +1904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Land | 40333 | [40333-fantasy-land.json](./40333-fantasy-land.json) |
 | Fantasy Lands | 286790 | [286790-fantasy-lands.json](./286790-fantasy-lands.json) |
 | Fantasy Legend: War of Contract | 96551 | [96551-fantasy-legend-war-of-contract.json](./96551-fantasy-legend-war-of-contract.json) |
+| Fantasy Legend. The Frozen Century | 368706 | [368706-fantasy-legend-the-frozen-century.json](./368706-fantasy-legend-the-frozen-century.json) |
 | Fantasy Legion | 314211 | [314211-fantasy-legion.json](./314211-fantasy-legion.json) |
 | Fantasy Life | 214147 | [214147-fantasy-life.json](./214147-fantasy-life.json) |
 | Fantasy Life | 6770 | [6770-fantasy-life.json](./6770-fantasy-life.json) |
@@ -13395,6 +13396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzion Frenzy | 5842 | [5842-fuzion-frenzy.json](./5842-fuzion-frenzy.json) |
 | Fuzion Frenzy 2 | 6999 | [6999-fuzion-frenzy-2.json](./6999-fuzion-frenzy-2.json) |
 | Fuzoku Frame | 368118 | [368118-fuzoku-frame.json](./368118-fuzoku-frame.json) |
+| Fuzoku Frame | 368736 | [368736-fuzoku-frame.json](./368736-fuzoku-frame.json) |
 | Fuzoroi no Lemon | 402552 | [402552-fuzoroi-no-lemon.json](./402552-fuzoroi-no-lemon.json) |
 | Fuzz | 240718 | [240718-fuzz.json](./240718-fuzz.json) |
 | Fuzz & Dizzy: Part-time Heroes | 348826 | [348826-fuzz-and-dizzy-part-time-heroes.json](./348826-fuzz-and-dizzy-part-time-heroes.json) |
