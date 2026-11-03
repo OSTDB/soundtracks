@@ -14801,6 +14801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw it | 415304 | [415304-draw-it.json](./415304-draw-it.json) |
 | Draw It! | 99473 | [99473-draw-it.json](./99473-draw-it.json) |
 | Draw It! 2 | 107753 | [107753-draw-it-2.json](./107753-draw-it-2.json) |
+| Draw King | 388068 | [388068-draw-king.json](./388068-draw-king.json) |
 | Draw li | 322427 | [322427-draw-li.json](./322427-draw-li.json) |
 | Draw Light | 106500 | [106500-draw-light.json](./106500-draw-light.json) |
 | Draw Mania | 200155 | [200155-draw-mania.json](./200155-draw-mania.json) |
