@@ -4483,9 +4483,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel vs. Capcom: Infinite - Chris Classic Costume | 386491 | [386491-marvel-vs-capcom-infinite-chris-classic-costume.json](./386491-marvel-vs-capcom-infinite-chris-classic-costume.json) |
 | Marvel vs. Capcom: Infinite - Dante Nephilim Costume | 386455 | [386455-marvel-vs-capcom-infinite-dante-nephilim-costume.json](./386455-marvel-vs-capcom-infinite-dante-nephilim-costume.json) |
 | Marvel vs. Capcom: Infinite - Doctor Strange Illuminati Costume | 386492 | [386492-marvel-vs-capcom-infinite-doctor-strange-illuminati-costume.json](./386492-marvel-vs-capcom-infinite-doctor-strange-illuminati-costume.json) |
+| Marvel vs. Capcom: Infinite - Evil Ryu Costume | 386452 | [386452-marvel-vs-capcom-infinite-evil-ryu-costume.json](./386452-marvel-vs-capcom-infinite-evil-ryu-costume.json) |
 | Marvel vs. Capcom: Infinite - Firebrand Ultimate Costume | 386482 | [386482-marvel-vs-capcom-infinite-firebrand-ultimate-costume.json](./386482-marvel-vs-capcom-infinite-firebrand-ultimate-costume.json) |
 | Marvel vs. Capcom: Infinite - Gamora Classic Costume | 386486 | [386486-marvel-vs-capcom-infinite-gamora-classic-costume.json](./386486-marvel-vs-capcom-infinite-gamora-classic-costume.json) |
 | Marvel vs. Capcom: Infinite - Ghost Rider Outlaw Costume | 386481 | [386481-marvel-vs-capcom-infinite-ghost-rider-outlaw-costume.json](./386481-marvel-vs-capcom-infinite-ghost-rider-outlaw-costume.json) |
+| Marvel vs. Capcom: Infinite - Gladiator Hulk Costume | 386451 | [386451-marvel-vs-capcom-infinite-gladiator-hulk-costume.json](./386451-marvel-vs-capcom-infinite-gladiator-hulk-costume.json) |
 | Marvel vs. Capcom: Infinite - Haggar Metro City Mayor Costume | 386488 | [386488-marvel-vs-capcom-infinite-haggar-metro-city-mayor-costume.json](./386488-marvel-vs-capcom-infinite-haggar-metro-city-mayor-costume.json) |
 | Marvel vs. Capcom: Infinite - Joe Fixit Costume | 386463 | [386463-marvel-vs-capcom-infinite-joe-fixit-costume.json](./386463-marvel-vs-capcom-infinite-joe-fixit-costume.json) |
 | Marvel vs. Capcom: Infinite - Monster Hunter | 161320 | [161320-marvel-vs-capcom-infinite-monster-hunter.json](./161320-marvel-vs-capcom-infinite-monster-hunter.json) |
@@ -4495,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel vs. Capcom: Infinite - Sigma | 161322 | [161322-marvel-vs-capcom-infinite-sigma.json](./161322-marvel-vs-capcom-infinite-sigma.json) |
 | Marvel vs. Capcom: Infinite - Strider Hien Costume | 386487 | [386487-marvel-vs-capcom-infinite-strider-hien-costume.json](./386487-marvel-vs-capcom-infinite-strider-hien-costume.json) |
 | Marvel vs. Capcom: Infinite - Superior Iron Man Costume | 386461 | [386461-marvel-vs-capcom-infinite-superior-iron-man-costume.json](./386461-marvel-vs-capcom-infinite-superior-iron-man-costume.json) |
+| Marvel vs. Capcom: Infinite - Superior Spider-Man Costume | 386450 | [386450-marvel-vs-capcom-infinite-superior-spider-man-costume.json](./386450-marvel-vs-capcom-infinite-superior-spider-man-costume.json) |
 | Marvel vs. Capcom: Infinite - Thanos Annihilation Costume | 386490 | [386490-marvel-vs-capcom-infinite-thanos-annihilation-costume.json](./386490-marvel-vs-capcom-infinite-thanos-annihilation-costume.json) |
 | Marvel vs. Capcom: Infinite - Ultimate Hawkeye Costume | 386459 | [386459-marvel-vs-capcom-infinite-ultimate-hawkeye-costume.json](./386459-marvel-vs-capcom-infinite-ultimate-hawkeye-costume.json) |
 | Marvel vs. Capcom: Infinite - Ultimate Thor Costume | 386480 | [386480-marvel-vs-capcom-infinite-ultimate-thor-costume.json](./386480-marvel-vs-capcom-infinite-ultimate-thor-costume.json) |
@@ -12539,6 +12542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mira's Mirage Mirror | 361691 | [361691-miras-mirage-mirror.json](./361691-miras-mirage-mirror.json) |
 | Mira's Tale | 129088 | [129088-miras-tale.json](./129088-miras-tale.json) |
 | Mira's Workshop | 169724 | [169724-miras-workshop.json](./169724-miras-workshop.json) |
+| Miracle | 386063 | [386063-miracle.json](./386063-miracle.json) |
 | Miracle Adventure Esparks | 49130 | [49130-miracle-adventure-esparks.json](./49130-miracle-adventure-esparks.json) |
 | Miracle Brave | 405560 | [405560-miracle-brave.json](./405560-miracle-brave.json) |
 | Miracle Casino Paradise | 37926 | [37926-miracle-casino-paradise.json](./37926-miracle-casino-paradise.json) |
@@ -15897,6 +15901,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moratorium: Don’t Beat This Game | 279519 | [279519-moratorium-don-t-beat-this-game.json](./279519-moratorium-don-t-beat-this-game.json) |
 | Morbid | 145591 | [145591-morbid.json](./145591-morbid.json) |
 | Morbid | 219628 | [219628-morbid.json](./219628-morbid.json) |
+| Morbid | 386306 | [386306-morbid.json](./386306-morbid.json) |
+| Morbid 2 | 386309 | [386309-morbid-2.json](./386309-morbid-2.json) |
 | Morbid Catastrophe | 248313 | [248313-morbid-catastrophe.json](./248313-morbid-catastrophe.json) |
 | Morbid Inhale | 173000 | [173000-morbid-inhale.json](./173000-morbid-inhale.json) |
 | Morbid Land | 62826 | [62826-morbid-land.json](./62826-morbid-land.json) |
