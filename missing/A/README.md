@@ -7675,6 +7675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always Surrender | 283401 | [283401-always-surrender.json](./283401-always-surrender.json) |
 | Always the Same Blue Sky... | 35477 | [35477-always-the-same-blue-sky.json](./35477-always-the-same-blue-sky.json) |
 | Always Together | 393647 | [393647-always-together.json](./393647-always-together.json) |
+| Always with You | 349030 | [349030-always-with-you.json](./349030-always-with-you.json) |
 | Alys vs. the Phantom Feline Foe | 314370 | [314370-alys-vs-the-phantom-feline-foe.json](./314370-alys-vs-the-phantom-feline-foe.json) |
 | Alyssa | 271659 | [271659-alyssa.json](./271659-alyssa.json) |
 | Alyssa's Quest | 310536 | [310536-alyssas-quest.json](./310536-alyssas-quest.json) |
@@ -11685,6 +11686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Wizards 3 | 157426 | [157426-arc-wizards-3.json](./157426-arc-wizards-3.json) |
 | ARC: Antic Runes Combat | 294277 | [294277-arc-antic-runes-combat.json](./294277-arc-antic-runes-combat.json) |
 | Arc’s Glitch Defender | 362391 | [362391-arc-s-glitch-defender.json](./362391-arc-s-glitch-defender.json) |
+| Arca | 349045 | [349045-arca.json](./349045-arca.json) |
 | ARCA Sim Racing 08' | 197936 | [197936-arca-sim-racing-08.json](./197936-arca-sim-racing-08.json) |
 | ARCA Sim Racing X | 197923 | [197923-arca-sim-racing-x.json](./197923-arca-sim-racing-x.json) |
 | ARCA-102 | 342290 | [342290-arca-102.json](./342290-arca-102.json) |
@@ -14151,6 +14153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendrix | 326005 | [326005-ascendrix.json](./326005-ascendrix.json) |
 | Ascendshaft | 214060 | [214060-ascendshaft.json](./214060-ascendshaft.json) |
 | Ascendshaft and Endless Shaft | 144174 | [144174-ascendshaft-and-endless-shaft.json](./144174-ascendshaft-and-endless-shaft.json) |
+| Ascension | 349051 | [349051-ascension.json](./349051-ascension.json) |
 | Ascension | 387441 | [387441-ascension.json](./387441-ascension.json) |
 | Ascension | 95408 | [95408-ascension.json](./95408-ascension.json) |
 | Ascension Gamebook | 359702 | [359702-ascension-gamebook.json](./359702-ascension-gamebook.json) |
