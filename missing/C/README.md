@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cage of Y | 398032 | [398032-cage-of-y.json](./398032-cage-of-y.json) |
 | Cage-Face: Case 1 - The Mine | 175651 | [175651-cage-face-case-1-the-mine.json](./175651-cage-face-case-1-the-mine.json) |
 | Cage-Face: Case 2 - The Sewer | 193432 | [193432-cage-face-case-2-the-sewer.json](./193432-cage-face-case-2-the-sewer.json) |
+| Cage: Along With Us | 381289 | [381289-cage-along-with-us.json](./381289-cage-along-with-us.json) |
 | Cage: Open | 193307 | [193307-cage-open.json](./193307-cage-open.json) |
 | Cagebreak | 60568 | [60568-cagebreak.json](./60568-cagebreak.json) |
 | Caged | 248844 | [248844-caged.json](./248844-caged.json) |
@@ -4163,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catching Spirits | 236769 | [236769-catching-spirits.json](./236769-catching-spirits.json) |
 | Catching the Train | 146005 | [146005-catching-the-train.json](./146005-catching-the-train.json) |
 | CatchKing | 215227 | [215227-catchking.json](./215227-catchking.json) |
+| CatchMaker | 380958 | [380958-catchmaker.json](./380958-catchmaker.json) |
 | Catchup | 250153 | [250153-catchup.json](./250153-catchup.json) |
 | CatchWord | 71420 | [71420-catchword.json](./71420-catchword.json) |
 | Catchy Cheese | 240105 | [240105-catchy-cheese.json](./240105-catchy-cheese.json) |
@@ -9759,6 +9761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb out of Hell | 343322 | [343322-climb-out-of-hell.json](./343322-climb-out-of-hell.json) |
 | Climb Out! | 128236 | [128236-climb-out.json](./128236-climb-out.json) |
 | Climb Quest | 315113 | [315113-climb-quest.json](./315113-climb-quest.json) |
+| Climb Rusher | 381164 | [381164-climb-rusher.json](./381164-climb-rusher.json) |
 | Climb the Tower | 157208 | [157208-climb-the-tower.json](./157208-climb-the-tower.json) |
 | Climb the Tower | 268185 | [268185-climb-the-tower.json](./268185-climb-the-tower.json) |
 | Climb Up the Down | 158498 | [158498-climb-up-the-down.json](./158498-climb-up-the-down.json) |
