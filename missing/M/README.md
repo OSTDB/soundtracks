@@ -2090,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Slaves & Golden Dungeon | 260328 | [260328-maid-slaves-and-golden-dungeon.json](./260328-maid-slaves-and-golden-dungeon.json) |
 | Maid Survivors: Little Angels | 298032 | [298032-maid-survivors-little-angels.json](./298032-maid-survivors-little-angels.json) |
 | Maid to Maze: Anata no Soba ni | 77919 | [77919-maid-to-maze-anata-no-soba-ni.json](./77919-maid-to-maze-anata-no-soba-ni.json) |
+| Maid to Work | 361390 | [361390-maid-to-work.json](./361390-maid-to-work.json) |
 | Maid With Perfection | 304238 | [304238-maid-with-perfection.json](./304238-maid-with-perfection.json) |
 | Maid-Sama Cafe: Anime Boys Services in Cute Outfits | 396434 | [396434-maid-sama-cafe-anime-boys-services-in-cute-outfits.json](./396434-maid-sama-cafe-anime-boys-services-in-cute-outfits.json) |
 | Maid-Sama Cafe: Anime Girls Services in Cute Outfits | 396913 | [396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json](./396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json) |
@@ -19253,6 +19254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dream is to Be a Model, Not a Maid! | 212806 | [212806-my-dream-is-to-be-a-model-not-a-maid.json](./212806-my-dream-is-to-be-a-model-not-a-maid.json) |
 | My Dream Job: Babysitter | 206768 | [206768-my-dream-job-babysitter.json](./206768-my-dream-job-babysitter.json) |
 | My Dream Job: How I Survived Job Hunting in Animation | 178684 | [178684-my-dream-job-how-i-survived-job-hunting-in-animation.json](./178684-my-dream-job-how-i-survived-job-hunting-in-animation.json) |
+| My Dream PC | 361421 | [361421-my-dream-pc.json](./361421-my-dream-pc.json) |
 | My Dream Setup | 226386 | [226386-my-dream-setup.json](./226386-my-dream-setup.json) |
 | My Dream Setup: Bathroom DLC | 297148 | [297148-my-dream-setup-bathroom-dlc.json](./297148-my-dream-setup-bathroom-dlc.json) |
 | My Dream Setup: Kitchen DLC | 297149 | [297149-my-dream-setup-kitchen-dlc.json](./297149-my-dream-setup-kitchen-dlc.json) |
@@ -20935,6 +20937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystina Online | 319462 | [319462-mystina-online.json](./319462-mystina-online.json) |
 | Mystina: Remaster Online | 403159 | [403159-mystina-remaster-online.json](./403159-mystina-remaster-online.json) |
 | Mystiqa | 134476 | [134476-mystiqa.json](./134476-mystiqa.json) |
+| Mystiques: Haunted Antiques | 361422 | [361422-mystiques-haunted-antiques.json](./361422-mystiques-haunted-antiques.json) |
 | Mystologia: The Witch & the Noisy Forest | 396015 | [396015-mystologia-the-witch-and-the-noisy-forest.json](./396015-mystologia-the-witch-and-the-noisy-forest.json) |
 | Mystragedy | 97475 | [97475-mystragedy.json](./97475-mystragedy.json) |
 | MyStylist | 68303 | [68303-mystylist.json](./68303-mystylist.json) |
