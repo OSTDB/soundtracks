@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Xmas Jam 2021 | 196466 | [196466-quake-xmas-jam-2021.json](./196466-quake-xmas-jam-2021.json) |
 | Quake3Quest | 328304 | [328304-quake3quest.json](./328304-quake3quest.json) |
 | Quakeguy Goes to White Castle | 271234 | [271234-quakeguy-goes-to-white-castle.json](./271234-quakeguy-goes-to-white-castle.json) |
+| Quakeguy in Groceries From Hell | 372147 | [372147-quakeguy-in-groceries-from-hell.json](./372147-quakeguy-in-groceries-from-hell.json) |
 | Quaker Meeting Simulator | 400270 | [400270-quaker-meeting-simulator.json](./400270-quaker-meeting-simulator.json) |
 | QuakeWorld | 300456 | [300456-quakeworld.json](./300456-quakeworld.json) |
 | Qual | 142908 | [142908-qual.json](./142908-qual.json) |
