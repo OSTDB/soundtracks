@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Orbital Death Sport | 75190 | [75190-galactic-orbital-death-sport.json](./75190-galactic-orbital-death-sport.json) |
 | Galactic Overlord | 22003 | [22003-galactic-overlord.json](./22003-galactic-overlord.json) |
 | Galactic Overlord | 352259 | [352259-galactic-overlord.json](./352259-galactic-overlord.json) |
+| Galactic Overthrow | 386820 | [386820-galactic-overthrow.json](./386820-galactic-overthrow.json) |
 | Galactic Panic | 367850 | [367850-galactic-panic.json](./367850-galactic-panic.json) |
 | Galactic Pawns | 348382 | [348382-galactic-pawns.json](./348382-galactic-pawns.json) |
 | Galactic Phantasy Prelude | 64473 | [64473-galactic-phantasy-prelude.json](./64473-galactic-phantasy-prelude.json) |
@@ -9412,6 +9413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growing Pug | 102125 | [102125-growing-pug.json](./102125-growing-pug.json) |
 | Growing Sakura | 185517 | [185517-growing-sakura.json](./185517-growing-sakura.json) |
 | Growing Things Up | 351731 | [351731-growing-things-up.json](./351731-growing-things-up.json) |
+| Growing Things Up: Season 1 | 386757 | [386757-growing-things-up-season-1.json](./386757-growing-things-up-season-1.json) |
 | Growing Up | 155796 | [155796-growing-up.json](./155796-growing-up.json) |
 | Growing Up | 376045 | [376045-growing-up.json](./376045-growing-up.json) |
 | Growing Wild | 356751 | [356751-growing-wild.json](./356751-growing-wild.json) |
