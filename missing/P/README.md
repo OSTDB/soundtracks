@@ -10064,6 +10064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poison Selection | 394551 | [394551-poison-selection.json](./394551-poison-selection.json) |
 | Poisoner | 110532 | [110532-poisoner.json](./110532-poisoner.json) |
 | Poisonous Abyss | 324271 | [324271-poisonous-abyss.json](./324271-poisonous-abyss.json) |
+| Pojangmacha: Korean Street Food Management Simulator | 398115 | [398115-pojangmacha-korean-street-food-management-simulator.json](./398115-pojangmacha-korean-street-food-management-simulator.json) |
 | Pòjìng Kǒngjù | 160187 | [160187-pojing-kongju.json](./160187-pojing-kongju.json) |
 | Pok The Little Artiste | 279557 | [279557-pok-the-little-artiste.json](./279557-pok-the-little-artiste.json) |
 | Poka-poka Mama Koi Onsen: Mommy's Warm Hot Sprint | 288432 | [288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json](./288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json) |
@@ -17195,6 +17196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Cozy | 386692 | [386692-puzzle-cozy.json](./386692-puzzle-cozy.json) |
 | Puzzle Craft | 47286 | [47286-puzzle-craft.json](./47286-puzzle-craft.json) |
 | Puzzle Craft 2 | 22115 | [22115-puzzle-craft-2.json](./22115-puzzle-craft-2.json) |
+| Puzzle Cross | 398143 | [398143-puzzle-cross.json](./398143-puzzle-cross.json) |
 | Puzzle Cube | 275146 | [275146-puzzle-cube.json](./275146-puzzle-cube.json) |
 | Puzzle Cube: Magic Urbik Game | 207876 | [207876-puzzle-cube-magic-urbik-game.json](./207876-puzzle-cube-magic-urbik-game.json) |
 | Puzzle da Moro! | 259828 | [259828-puzzle-da-moro.json](./259828-puzzle-da-moro.json) |
