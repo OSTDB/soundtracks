@@ -12972,6 +12972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot by Dot+ | 19383 | [19383-dot-by-dot.json](./19383-dot-by-dot.json) |
 | Dot Clicker | 411575 | [411575-dot-clicker.json](./411575-dot-clicker.json) |
 | Dot Com Mystery | 393383 | [393383-dot-com-mystery.json](./393383-dot-com-mystery.json) |
+| Dot Connect | 363651 | [363651-dot-connect.json](./363651-dot-connect.json) |
 | Dot Dash Defense | 400361 | [400361-dot-dash-defense.json](./400361-dot-dash-defense.json) |
 | Dot Dash Dot | 167619 | [167619-dot-dash-dot.json](./167619-dot-dash-dot.json) |
 | Dot Eater New Pick Dan | 222180 | [222180-dot-eater-new-pick-dan.json](./222180-dot-eater-new-pick-dan.json) |
@@ -17539,6 +17540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Survival | 261827 | [261827-dungeon-survival.json](./261827-dungeon-survival.json) |
 | Dungeon Survival | 91070 | [91070-dungeon-survival.json](./91070-dungeon-survival.json) |
 | Dungeon Survive | 232939 | [232939-dungeon-survive.json](./232939-dungeon-survive.json) |
+| Dungeon Survivor | 363647 | [363647-dungeon-survivor.json](./363647-dungeon-survivor.json) |
 | Dungeon Survivor II | 126007 | [126007-dungeon-survivor-ii.json](./126007-dungeon-survivor-ii.json) |
 | Dungeon Survivor III: Dark Genesis | 224061 | [224061-dungeon-survivor-iii-dark-genesis.json](./224061-dungeon-survivor-iii-dark-genesis.json) |
 | Dungeon Survivor.io | 260706 | [260706-dungeon-survivor-io.json](./260706-dungeon-survivor-io.json) |
