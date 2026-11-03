@@ -4387,6 +4387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Dragons | 59980 | [59980-knights-and-dragons.json](./59980-knights-and-dragons.json) |
 | Knights & Dragons: The Endless Quest | 297602 | [297602-knights-and-dragons-the-endless-quest.json](./297602-knights-and-dragons-the-endless-quest.json) |
 | Knights & Guns Arcane Arsenal | 380708 | [380708-knights-and-guns-arcane-arsenal.json](./380708-knights-and-guns-arcane-arsenal.json) |
+| Knights & Guns Content Bundle | 390905 | [390905-knights-and-guns-content-bundle.json](./390905-knights-and-guns-content-bundle.json) |
 | Knights & Guns Dragon's Wrath | 385166 | [385166-knights-and-guns-dragons-wrath.json](./385166-knights-and-guns-dragons-wrath.json) |
 | Knights & Guns Mystic Armor | 385167 | [385167-knights-and-guns-mystic-armor.json](./385167-knights-and-guns-mystic-armor.json) |
 | Knights & Guns: 5 in 1 DLC Bundle | 308823 | [308823-knights-and-guns-5-in-1-dlc-bundle.json](./308823-knights-and-guns-5-in-1-dlc-bundle.json) |
