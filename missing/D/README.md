@@ -5548,6 +5548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defying Fate | 205233 | [205233-defying-fate.json](./205233-defying-fate.json) |
 | Defying Heaven's Will | 183050 | [183050-defying-heavens-will.json](./183050-defying-heavens-will.json) |
 | Defying the Shadows | 333457 | [333457-defying-the-shadows.json](./333457-defying-the-shadows.json) |
+| Deg | 390880 | [390880-deg.json](./390880-deg.json) |
 | Deg-Deg the Ravenous | 194470 | [194470-deg-deg-the-ravenous.json](./194470-deg-deg-the-ravenous.json) |
 | Dega Madness | 110545 | [110545-dega-madness.json](./110545-dega-madness.json) |
 | Degauss | 75045 | [75045-degauss.json](./75045-degauss.json) |
@@ -6938,6 +6939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Fisher | 348752 | [348752-desktop-fisher.json](./348752-desktop-fisher.json) |
 | Desktop Fishes | 364006 | [364006-desktop-fishes.json](./364006-desktop-fishes.json) |
 | Desktop Fishing | 344545 | [344545-desktop-fishing.json](./344545-desktop-fishing.json) |
+| Desktop Fishing Cat | 390885 | [390885-desktop-fishing-cat.json](./390885-desktop-fishing-cat.json) |
 | Desktop Football | 196831 | [196831-desktop-football.json](./196831-desktop-football.json) |
 | Desktop Friend | 385649 | [385649-desktop-friend.json](./385649-desktop-friend.json) |
 | Desktop Garden | 177478 | [177478-desktop-garden.json](./177478-desktop-garden.json) |
