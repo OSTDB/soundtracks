@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HackyZack | 28076 | [28076-hackyzack.json](./28076-hackyzack.json) |
 | HacX: Twitch 'n Kill | 78912 | [78912-hacx-twitch-n-kill.json](./78912-hacx-twitch-n-kill.json) |
 | Had | 239085 | [239085-had.json](./239085-had.json) |
+| Hadaka Apron Gakuen | 396986 | [396986-hadaka-apron-gakuen.json](./396986-hadaka-apron-gakuen.json) |
 | Hadal | 384310 | [384310-hadal.json](./384310-hadal.json) |
 | Hadalis | 384311 | [384311-hadalis.json](./384311-hadalis.json) |
 | Hadalyth Zero | 414616 | [414616-hadalyth-zero.json](./414616-hadalyth-zero.json) |
@@ -10297,6 +10298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Cards: TD | 298128 | [298128-house-of-cards-td.json](./298128-house-of-cards-td.json) |
 | House of Cathalon | 142442 | [142442-house-of-cathalon.json](./142442-house-of-cathalon.json) |
 | House of Chavez | 273821 | [273821-house-of-chavez.json](./273821-house-of-chavez.json) |
+| House of Dead Ninjas | 396967 | [396967-house-of-dead-ninjas.json](./396967-house-of-dead-ninjas.json) |
 | House of Dead Skin | 316078 | [316078-house-of-dead-skin.json](./316078-house-of-dead-skin.json) |
 | House of Decay | 333465 | [333465-house-of-decay.json](./333465-house-of-decay.json) |
 | House of Detention | 137405 | [137405-house-of-detention.json](./137405-house-of-detention.json) |
@@ -11986,6 +11988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HypnoFamily Game | 109198 | [109198-hypnofamily-game.json](./109198-hypnofamily-game.json) |
 | Hypnofantasis | 276228 | [276228-hypnofantasis.json](./276228-hypnofantasis.json) |
 | HypnoFish Inc. | 413025 | [413025-hypnofish-inc.json](./413025-hypnofish-inc.json) |
+| Hypnogenesis | 396994 | [396994-hypnogenesis.json](./396994-hypnogenesis.json) |
 | Hypnolab VR | 168626 | [168626-hypnolab-vr.json](./168626-hypnolab-vr.json) |
 | Hypnomemoria | 295615 | [295615-hypnomemoria.json](./295615-hypnomemoria.json) |
 | Hypnophobia; From Your Shadow | 397035 | [397035-hypnophobia-from-your-shadow.json](./397035-hypnophobia-from-your-shadow.json) |
