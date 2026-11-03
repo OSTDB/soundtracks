@@ -3400,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Île d'Or | 335517 | [335517-ile-dor.json](./335517-ile-dor.json) |
 | ­Into the Deep Dark Green Sleep | 320018 | [320018-into-the-deep-dark-green-sleep.json](./320018-into-the-deep-dark-green-sleep.json) |
 | İstanbul Kıyamet Vakti | 58900 | [58900-istanbul-k-yamet-vakti.json](./58900-istanbul-k-yamet-vakti.json) |
+| İstanbul Puzzle | 358041 | [358041-istanbul-puzzle.json](./358041-istanbul-puzzle.json) |
 | ‎Love & Magic: Spellfyre | 387640 | [387640-love-and-magic-spellfyre.json](./387640-love-and-magic-spellfyre.json) |
 | Łowca Głów | 98944 | [98944-owca-g-ow.json](./98944-owca-g-ow.json) |
 | Ñamto | 379383 | [379383-namto.json](./379383-namto.json) |
