@@ -1511,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Dungeon Breaker | 205011 | [205011-zombie-dungeon-breaker.json](./205011-zombie-dungeon-breaker.json) |
 | Zombie Elimnator: VR Shooter | 380479 | [380479-zombie-elimnator-vr-shooter.json](./380479-zombie-elimnator-vr-shooter.json) |
 | Zombie Epoch: Deck Apocalypse | 391952 | [391952-zombie-epoch-deck-apocalypse.json](./391952-zombie-epoch-deck-apocalypse.json) |
+| Zombie Escape | 376168 | [376168-zombie-escape.json](./376168-zombie-escape.json) |
 | Zombie Escape | 377131 | [377131-zombie-escape.json](./377131-zombie-escape.json) |
 | Zombie Escape: The Driving Dead | 213589 | [213589-zombie-escape-the-driving-dead.json](./213589-zombie-escape-the-driving-dead.json) |
 | Zombie Estate | 66378 | [66378-zombie-estate.json](./66378-zombie-estate.json) |
@@ -1630,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Lockdown Simulator | 361112 | [361112-zombie-lockdown-simulator.json](./361112-zombie-lockdown-simulator.json) |
 | Zombie Madness: The Awakening | 408052 | [408052-zombie-madness-the-awakening.json](./408052-zombie-madness-the-awakening.json) |
 | Zombie Mansion | 218713 | [218713-zombie-mansion.json](./218713-zombie-mansion.json) |
+| Zombie Marbles | 375755 | [375755-zombie-marbles.json](./375755-zombie-marbles.json) |
 | Zombie Massacre | 415927 | [415927-zombie-massacre.json](./415927-zombie-massacre.json) |
 | Zombie Mathters | 156890 | [156890-zombie-mathters.json](./156890-zombie-mathters.json) |
 | Zombie Maze | 190348 | [190348-zombie-maze.json](./190348-zombie-maze.json) |
