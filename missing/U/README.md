@@ -1475,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Syndrome Episode 1 | 152019 | [152019-undead-syndrome-episode-1.json](./152019-undead-syndrome-episode-1.json) |
 | Undead Syndrome Episode 2 | 152020 | [152020-undead-syndrome-episode-2.json](./152020-undead-syndrome-episode-2.json) |
 | Undead Trail: Haunting Shadows | 304851 | [304851-undead-trail-haunting-shadows.json](./304851-undead-trail-haunting-shadows.json) |
+| Undead Tread | 374879 | [374879-undead-tread.json](./374879-undead-tread.json) |
 | Undead Under Night Rain | 199267 | [199267-undead-under-night-rain.json](./199267-undead-under-night-rain.json) |
 | Undead Uprising | 270871 | [270871-undead-uprising.json](./270871-undead-uprising.json) |
 | Undead Village | 244375 | [244375-undead-village.json](./244375-undead-village.json) |
