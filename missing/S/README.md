@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SandRipper | 270930 | [270930-sandripper.json](./270930-sandripper.json) |
 | Sands | 236348 | [236348-sands.json](./236348-sands.json) |
 | Sands of Aura | 143129 | [143129-sands-of-aura.json](./143129-sands-of-aura.json) |
+| Sands of Avalon: Forge Your Legend | 390861 | [390861-sands-of-avalon-forge-your-legend.json](./390861-sands-of-avalon-forge-your-legend.json) |
 | Sands of Destruction | 24331 | [24331-sands-of-destruction.json](./24331-sands-of-destruction.json) |
 | Sands of Fate | 414293 | [414293-sands-of-fate.json](./414293-sands-of-fate.json) |
 | Sands of Hope | 289459 | [289459-sands-of-hope.json](./289459-sands-of-hope.json) |
@@ -17179,6 +17180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophia - My Little Sis | 86824 | [86824-sophia-my-little-sis.json](./86824-sophia-my-little-sis.json) |
 | Sophia and the Mansion of Doubt | 82897 | [82897-sophia-and-the-mansion-of-doubt.json](./82897-sophia-and-the-mansion-of-doubt.json) |
 | Sophia’s Animal Clinic: Mission Wildlife Park | 380652 | [380652-sophia-s-animal-clinic-mission-wildlife-park.json](./380652-sophia-s-animal-clinic-mission-wildlife-park.json) |
+| Sophia's Path | 390863 | [390863-sophias-path.json](./390863-sophias-path.json) |
 | Sophia's Spa | 272222 | [272222-sophias-spa.json](./272222-sophias-spa.json) |
 | Sophia's World | 173129 | [173129-sophias-world.json](./173129-sophias-world.json) |
 | Sophias Pizza Restaurant | 293636 | [293636-sophias-pizza-restaurant.json](./293636-sophias-pizza-restaurant.json) |
@@ -24729,6 +24731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Fight | 116920 | [116920-steel-fight.json](./116920-steel-fight.json) |
 | Steel Flood | 275710 | [275710-steel-flood.json](./275710-steel-flood.json) |
 | Steel Force | 39670 | [39670-steel-force.json](./39670-steel-force.json) |
+| Steel Force: Top Down Shooter | 390871 | [390871-steel-force-top-down-shooter.json](./390871-steel-force-top-down-shooter.json) |
 | Steel Fury: Kharkov 1942 | 21219 | [21219-steel-fury-kharkov-1942.json](./21219-steel-fury-kharkov-1942.json) |
 | Steel Graves | 143583 | [143583-steel-graves.json](./143583-steel-graves.json) |
 | Steel Guardian | 204364 | [204364-steel-guardian.json](./204364-steel-guardian.json) |
@@ -26106,6 +26109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger Cases | 107567 | [107567-stranger-cases.json](./107567-stranger-cases.json) |
 | Stranger Danger or Horror, Quest and Magic | 197390 | [197390-stranger-danger-or-horror-quest-and-magic.json](./197390-stranger-danger-or-horror-quest-and-magic.json) |
 | Stranger in Utopia | 273871 | [273871-stranger-in-utopia.json](./273871-stranger-in-utopia.json) |
+| Stranger Mahjong | 390892 | [390892-stranger-mahjong.json](./390892-stranger-mahjong.json) |
 | Stranger of Paradise: Final Fantasy Origin - Collector's Edition | 201028 | [201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json](./201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json) |
 | Stranger of Paradise: Final Fantasy Origin - Different Future | 227675 | [227675-stranger-of-paradise-final-fantasy-origin-different-future.json](./227675-stranger-of-paradise-final-fantasy-origin-different-future.json) |
 | Stranger of Paradise: Final Fantasy Origin - Digital Deluxe Edition | 173775 | [173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json](./173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json) |
@@ -32550,6 +32554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors | 265811 | [265811-survivors.json](./265811-survivors.json) |
 | Survivors | 291906 | [291906-survivors.json](./291906-survivors.json) |
 | Survivors | 292413 | [292413-survivors.json](./292413-survivors.json) |
+| Survivors Gate | 390865 | [390865-survivors-gate.json](./390865-survivors-gate.json) |
 | Survivors in Blood | 296532 | [296532-survivors-in-blood.json](./296532-survivors-in-blood.json) |
 | Survivors Left: X | 124177 | [124177-survivors-left-x.json](./124177-survivors-left-x.json) |
 | Survivors of Journey to the West: Bald Guy vs Wukong | 310058 | [310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json](./310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json) |
