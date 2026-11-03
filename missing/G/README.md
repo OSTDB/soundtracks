@@ -3878,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts of Trastevere | 372652 | [372652-ghosts-of-trastevere.json](./372652-ghosts-of-trastevere.json) |
 | Ghosts of War | 174822 | [174822-ghosts-of-war.json](./174822-ghosts-of-war.json) |
 | Ghosts over the Water: Changing the Tides of Japan's Future | 242995 | [242995-ghosts-over-the-water-changing-the-tides-of-japans-future.json](./242995-ghosts-over-the-water-changing-the-tides-of-japans-future.json) |
+| Ghosts With Hats | 390889 | [390889-ghosts-with-hats.json](./390889-ghosts-with-hats.json) |
 | Ghosts'n Demons | 138077 | [138077-ghostsn-demons.json](./138077-ghostsn-demons.json) |
 | Ghosts'n DJs | 129198 | [129198-ghostsn-djs.json](./129198-ghostsn-djs.json) |
 | Ghosts'n Goblins Arcade | 41139 | [41139-ghostsn-goblins-arcade.json](./41139-ghostsn-goblins-arcade.json) |
@@ -4251,6 +4252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Meets Princess | 82841 | [82841-girl-meets-princess.json](./82841-girl-meets-princess.json) |
 | Girl Nail Art | 87708 | [87708-girl-nail-art.json](./87708-girl-nail-art.json) |
 | Girl Next Door | 169406 | [169406-girl-next-door.json](./169406-girl-next-door.json) |
+| Girl of the Ruins | 390891 | [390891-girl-of-the-ruins.json](./390891-girl-of-the-ruins.json) |
 | Girl Purgatoriem | 343365 | [343365-girl-purgatoriem.json](./343365-girl-purgatoriem.json) |
 | Girl Raid | 195172 | [195172-girl-raid.json](./195172-girl-raid.json) |
 | Girl Rescue: Dragon Out! | 347028 | [347028-girl-rescue-dragon-out.json](./347028-girl-rescue-dragon-out.json) |
