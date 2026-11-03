@@ -5239,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go on Forever | 179322 | [179322-go-on-forever.json](./179322-go-on-forever.json) |
 | Go Outside Simulator | 111491 | [111491-go-outside-simulator.json](./111491-go-outside-simulator.json) |
 | Go Over the Edge | 235755 | [235755-go-over-the-edge.json](./235755-go-over-the-edge.json) |
+| Go Phish | 380970 | [380970-go-phish.json](./380970-go-phish.json) |
 | Go Plague Monkey! Go! | 60558 | [60558-go-plague-monkey-go.json](./60558-go-plague-monkey-go.json) |
 | Go Plane | 87041 | [87041-go-plane.json](./87041-go-plane.json) |
 | Go Play Circus Star | 51075 | [51075-go-play-circus-star.json](./51075-go-play-circus-star.json) |
@@ -7004,6 +7005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gossipia | 59991 | [59991-gossipia.json](./59991-gossipia.json) |
 | Gost! Buster | 339153 | [339153-gost-buster.json](./339153-gost-buster.json) |
 | GoSub | 78517 | [78517-gosub.json](./78517-gosub.json) |
+| GoSub 2 | 381161 | [381161-gosub-2.json](./381161-gosub-2.json) |
 | GoSupermodel | 347099 | [347099-gosupermodel.json](./347099-gosupermodel.json) |
 | Got Cha Mini Game Festival 2 | 270598 | [270598-got-cha-mini-game-festival-2.json](./270598-got-cha-mini-game-festival-2.json) |
 | Got Got | 252569 | [252569-got-got.json](./252569-got-got.json) |
