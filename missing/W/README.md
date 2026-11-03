@@ -6702,6 +6702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein: Alt History Collection | 139958 | [139958-wolfenstein-alt-history-collection.json](./139958-wolfenstein-alt-history-collection.json) |
 | Wolfenstein: Cyberpilot | 103302 | [103302-wolfenstein-cyberpilot.json](./103302-wolfenstein-cyberpilot.json) |
 | Wolfenstein: Enemy Territory | 2987 | [2987-wolfenstein-enemy-territory.json](./2987-wolfenstein-enemy-territory.json) |
+| Wolfenstein: Enemy Territory Single-Player | 375756 | [375756-wolfenstein-enemy-territory-single-player.json](./375756-wolfenstein-enemy-territory-single-player.json) |
 | Wolfenstein: The Two-Pack | 136205 | [136205-wolfenstein-the-two-pack.json](./136205-wolfenstein-the-two-pack.json) |
 | Wolfenstein: Triple Pack | 152339 | [152339-wolfenstein-triple-pack.json](./152339-wolfenstein-triple-pack.json) |
 | Wolfenstein: Youngblood - Deluxe Edition | 72945 | [72945-wolfenstein-youngblood-deluxe-edition.json](./72945-wolfenstein-youngblood-deluxe-edition.json) |
