@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yaarrgh! Battle Island! | 149372 | [149372-yaarrgh-battle-island.json](./149372-yaarrgh-battle-island.json) |
 | YAB! Baseball | 93407 | [93407-yab-baseball.json](./93407-yab-baseball.json) |
 | Yabai Girls: Ballet Beauty | 388065 | [388065-yabai-girls-ballet-beauty.json](./388065-yabai-girls-ballet-beauty.json) |
+| Yabai Girls: Elegant Egyptian | 356985 | [356985-yabai-girls-elegant-egyptian.json](./356985-yabai-girls-elegant-egyptian.json) |
 | Yabai Girls: Fairy Love | 395213 | [395213-yabai-girls-fairy-love.json](./395213-yabai-girls-fairy-love.json) |
 | Yabai Girls: Graceful Girlfriend | 345983 | [345983-yabai-girls-graceful-girlfriend.json](./345983-yabai-girls-graceful-girlfriend.json) |
 | Yabai Girls: Heavenly Homemaker | 385065 | [385065-yabai-girls-heavenly-homemaker.json](./385065-yabai-girls-heavenly-homemaker.json) |
@@ -183,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamasa Digi Guide: Faust | 361388 | [361388-yamasa-digi-guide-faust.json](./361388-yamasa-digi-guide-faust.json) |
 | Yamasa Digi Guide: Hyper Rush | 357102 | [357102-yamasa-digi-guide-hyper-rush.json](./357102-yamasa-digi-guide-hyper-rush.json) |
 | Yamasa Digi Guide: M-771 | 357103 | [357103-yamasa-digi-guide-m-771.json](./357103-yamasa-digi-guide-m-771.json) |
+| Yamasa Digi Guide: New Pulsar R | 357109 | [357109-yamasa-digi-guide-new-pulsar-r.json](./357109-yamasa-digi-guide-new-pulsar-r.json) |
 | Yamasa Digi Guide: Umekagetsu R | 364376 | [364376-yamasa-digi-guide-umekagetsu-r.json](./364376-yamasa-digi-guide-umekagetsu-r.json) |
 | Yamasa Digi Selection 2 | 361283 | [361283-yamasa-digi-selection-2.json](./361283-yamasa-digi-selection-2.json) |
 | Yamasa Digi World 2: LCD Edition | 61328 | [61328-yamasa-digi-world-2-lcd-edition.json](./61328-yamasa-digi-world-2-lcd-edition.json) |
