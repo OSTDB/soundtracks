@@ -3222,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebaixados Elite Brasil Clássicos | 282837 | [282837-rebaixados-elite-brasil-classicos.json](./282837-rebaixados-elite-brasil-classicos.json) |
 | Reball | 68931 | [68931-reball.json](./68931-reball.json) |
 | ReBall | 153227 | [153227-reball.json](./153227-reball.json) |
+| Rebecca and the Sword of Nasty Curses | 363650 | [363650-rebecca-and-the-sword-of-nasty-curses.json](./363650-rebecca-and-the-sword-of-nasty-curses.json) |
 | Rebekka's Bag O'Bones | 401207 | [401207-rebekkas-bag-obones.json](./401207-rebekkas-bag-obones.json) |
 | Rebel | 193593 | [193593-rebel.json](./193593-rebel.json) |
 | Rebel | 52756 | [52756-rebel.json](./52756-rebel.json) |
@@ -9946,6 +9947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Ball 6 | 196287 | [196287-roller-ball-6.json](./196287-roller-ball-6.json) |
 | Roller Ball Adventure | 220820 | [220820-roller-ball-adventure.json](./220820-roller-ball-adventure.json) |
 | Roller Champions | 119158 | [119158-roller-champions.json](./119158-roller-champions.json) |
+| Roller Coaster | 363625 | [363625-roller-coaster.json](./363625-roller-coaster.json) |
 | Roller Coaster 3D | 88492 | [88492-roller-coaster-3d.json](./88492-roller-coaster-3d.json) |
 | Roller Coaster Apocalypse VR | 96876 | [96876-roller-coaster-apocalypse-vr.json](./96876-roller-coaster-apocalypse-vr.json) |
 | Roller Coaster Factory | 209003 | [209003-roller-coaster-factory.json](./209003-roller-coaster-factory.json) |
@@ -12180,6 +12182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runout | 173182 | [173182-runout.json](./173182-runout.json) |
 | RunOut | 220490 | [220490-runout.json](./220490-runout.json) |
 | RunPostmanRun | 94132 | [94132-runpostmanrun.json](./94132-runpostmanrun.json) |
+| RunPunk: The Parkour Game | 363649 | [363649-runpunk-the-parkour-game.json](./363649-runpunk-the-parkour-game.json) |
 | Runpuzzle | 132539 | [132539-runpuzzle.json](./132539-runpuzzle.json) |
 | Runr End | 197538 | [197538-runr-end.json](./197538-runr-end.json) |
 | Runren Simulator | 390721 | [390721-runren-simulator.json](./390721-runren-simulator.json) |
