@@ -4966,6 +4966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Roswell | 225901 | [225901-escape-from-roswell.json](./225901-escape-from-roswell.json) |
 | Escape from Rowei | 200529 | [200529-escape-from-rowei.json](./200529-escape-from-rowei.json) |
 | Escape From Ruby Castle | 149034 | [149034-escape-from-ruby-castle.json](./149034-escape-from-ruby-castle.json) |
+| Escape From Ruin: Greymart Simulator | 377860 | [377860-escape-from-ruin-greymart-simulator.json](./377860-escape-from-ruin-greymart-simulator.json) |
 | Escape from Rungistan | 18761 | [18761-escape-from-rungistan.json](./18761-escape-from-rungistan.json) |
 | Escape From Russia | 368672 | [368672-escape-from-russia.json](./368672-escape-from-russia.json) |
 | Escape From Russia: Mobilization | 251361 | [251361-escape-from-russia-mobilization.json](./251361-escape-from-russia-mobilization.json) |
@@ -4995,6 +4996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Tarkov: Bear - Senezh | 384747 | [384747-escape-from-tarkov-bear-senezh.json](./384747-escape-from-tarkov-bear-senezh.json) |
 | Escape from Tarkov: Bear - Vacation | 399123 | [399123-escape-from-tarkov-bear-vacation.json](./399123-escape-from-tarkov-bear-vacation.json) |
 | Escape from Tarkov: Bear - Zaslon | 399110 | [399110-escape-from-tarkov-bear-zaslon.json](./399110-escape-from-tarkov-bear-zaslon.json) |
+| Escape from Tarkov: PVE Zone | 377855 | [377855-escape-from-tarkov-pve-zone.json](./377855-escape-from-tarkov-pve-zone.json) |
 | Escape from Tarkov: Usec - AC Ranger Green | 399107 | [399107-escape-from-tarkov-usec-ac-ranger-green.json](./399107-escape-from-tarkov-usec-ac-ranger-green.json) |
 | Escape from Tarkov: Usec - Day off | 399109 | [399109-escape-from-tarkov-usec-day-off.json](./399109-escape-from-tarkov-usec-day-off.json) |
 | Escape from Tarkov: Usec - Deadly Frog | 399118 | [399118-escape-from-tarkov-usec-deadly-frog.json](./399118-escape-from-tarkov-usec-deadly-frog.json) |
