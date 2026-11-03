@@ -1864,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsawship | 255760 | [255760-jigsawship.json](./255760-jigsawship.json) |
 | Jigsort Journey: Puzzle Blend | 309725 | [309725-jigsort-journey-puzzle-blend.json](./309725-jigsort-journey-puzzle-blend.json) |
 | Jigsu | 79944 | [79944-jigsu.json](./79944-jigsu.json) |
+| Jigsudo | 397493 | [397493-jigsudo.json](./397493-jigsudo.json) |
 | Jigten: Mandala of Shadows | 376449 | [376449-jigten-mandala-of-shadows.json](./376449-jigten-mandala-of-shadows.json) |
 | Jigty Jigsaw Puzzles | 328004 | [328004-jigty-jigsaw-puzzles.json](./328004-jigty-jigsaw-puzzles.json) |
 | Jiguland | 164964 | [164964-jiguland.json](./164964-jiguland.json) |
