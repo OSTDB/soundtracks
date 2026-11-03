@@ -10022,6 +10022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clothing Store Simulator | 300492 | [300492-clothing-store-simulator.json](./300492-clothing-store-simulator.json) |
 | Clothing Store Simulator | 381799 | [381799-clothing-store-simulator.json](./381799-clothing-store-simulator.json) |
 | Clothing Store Simulator | 395637 | [395637-clothing-store-simulator.json](./395637-clothing-store-simulator.json) |
+| Clothing Store Simulator 3D | 375139 | [375139-clothing-store-simulator-3d.json](./375139-clothing-store-simulator-3d.json) |
 | Clotilde Soffritti in Never Double Park your Spaceship | 217876 | [217876-clotilde-soffritti-in-never-double-park-your-spaceship.json](./217876-clotilde-soffritti-in-never-double-park-your-spaceship.json) |
 | Clotilde Soffritti in: Never Buy a Used Spaceship | 217875 | [217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json](./217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json) |
 | Clou: Roll & Heist | 195644 | [195644-clou-roll-and-heist.json](./195644-clou-roll-and-heist.json) |
