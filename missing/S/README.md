@@ -19572,6 +19572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SparkBlast | 301507 | [301507-sparkblast.json](./301507-sparkblast.json) |
 | SparkChess | 110728 | [110728-sparkchess.json](./110728-sparkchess.json) |
 | Sparked | 382199 | [382199-sparked.json](./382199-sparked.json) |
+| SparkFyre | 373478 | [373478-sparkfyre.json](./373478-sparkfyre.json) |
 | Sparkhunt | 270153 | [270153-sparkhunt.json](./270153-sparkhunt.json) |
 | Sparkie | 41760 | [41760-sparkie.json](./41760-sparkie.json) |
 | Sparking Beam Strike 1000 | 328485 | [328485-sparking-beam-strike-1000.json](./328485-sparking-beam-strike-1000.json) |
@@ -21126,6 +21127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Wars | 113676 | [113676-splash-wars.json](./113676-splash-wars.json) |
 | Splash: O Bichinho Virtual | 300533 | [300533-splash-o-bichinho-virtual.json](./300533-splash-o-bichinho-virtual.json) |
 | Splash: Ocean Sanctuary | 122902 | [122902-splash-ocean-sanctuary.json](./122902-splash-ocean-sanctuary.json) |
+| Splash: Paintball | 373771 | [373771-splash-paintball.json](./373771-splash-paintball.json) |
 | Splashdown | 6149 | [6149-splashdown.json](./6149-splashdown.json) |
 | Splashdown: Rides Gone Wild | 6150 | [6150-splashdown-rides-gone-wild.json](./6150-splashdown-rides-gone-wild.json) |
 | Splasher | 26363 | [26363-splasher.json](./26363-splasher.json) |
@@ -21244,6 +21246,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Times | 368502 | [368502-split-times.json](./368502-split-times.json) |
 | Split/Second | 2150 | [2150-split-second.json](./2150-split-second.json) |
 | Splitgate | 114684 | [114684-splitgate.json](./114684-splitgate.json) |
+| Splitgate 2: Meridian Founders Pack | 373469 | [373469-splitgate-2-meridian-founders-pack.json](./373469-splitgate-2-meridian-founders-pack.json) |
+| Splitgate 2: Sabrask Founder's Pack | 373472 | [373472-splitgate-2-sabrask-founders-pack.json](./373472-splitgate-2-sabrask-founders-pack.json) |
+| Splitgate 2: Starter Pack | 373470 | [373470-splitgate-2-starter-pack.json](./373470-splitgate-2-starter-pack.json) |
+| Splitgate 2: Ultimate Founder's Pack | 373471 | [373471-splitgate-2-ultimate-founders-pack.json](./373471-splitgate-2-ultimate-founders-pack.json) |
 | Splitgate: Arena Reloaded | 308978 | [308978-splitgate-arena-reloaded.json](./308978-splitgate-arena-reloaded.json) |
 | Spliti | 289722 | [289722-spliti.json](./289722-spliti.json) |
 | SplitPool | 340180 | [340180-splitpool.json](./340180-splitpool.json) |
@@ -21509,6 +21515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky's Jump Scare Mansion | 35577 | [35577-spookys-jump-scare-mansion.json](./35577-spookys-jump-scare-mansion.json) |
 | Spooky's Jump Scare Mansion: The Doll House | 140550 | [140550-spookys-jump-scare-mansion-the-doll-house.json](./140550-spookys-jump-scare-mansion-the-doll-house.json) |
 | Spooky's Jumpscare Mansion Plus | 356227 | [356227-spookys-jumpscare-mansion-plus.json](./356227-spookys-jumpscare-mansion-plus.json) |
+| SpookY2K | 373784 | [373784-spooky2k.json](./373784-spooky2k.json) |
 | Spookyard | 161546 | [161546-spookyard.json](./161546-spookyard.json) |
 | SpookyKillers | 191121 | [191121-spookykillers.json](./191121-spookykillers.json) |
 | Spookyman | 54951 | [54951-spookyman.json](./54951-spookyman.json) |
@@ -28756,6 +28763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Beach | 189205 | [189205-sunny-beach.json](./189205-sunny-beach.json) |
 | Sunny Beach Dolls | 418836 | [418836-sunny-beach-dolls.json](./418836-sunny-beach-dolls.json) |
 | Sunny Beach Girls | 294973 | [294973-sunny-beach-girls.json](./294973-sunny-beach-girls.json) |
+| Sunny Blooms Garden Center | 373778 | [373778-sunny-blooms-garden-center.json](./373778-sunny-blooms-garden-center.json) |
 | Sunny Cafe | 154353 | [154353-sunny-cafe.json](./154353-sunny-cafe.json) |
 | Sunny Day Sky | 397853 | [397853-sunny-day-sky.json](./397853-sunny-day-sky.json) |
 | Sunny Fairy | 151678 | [151678-sunny-fairy.json](./151678-sunny-fairy.json) |
@@ -29030,6 +29038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bear Adventure | 148427 | [148427-super-bear-adventure.json](./148427-super-bear-adventure.json) |
 | Super Beast Activation | 311823 | [311823-super-beast-activation.json](./311823-super-beast-activation.json) |
 | Super Beast Hunt | 229090 | [229090-super-beast-hunt.json](./229090-super-beast-hunt.json) |
+| Super Beast World | 373785 | [373785-super-beast-world.json](./373785-super-beast-world.json) |
 | Super Beasts: Gang up! | 260708 | [260708-super-beasts-gang-up.json](./260708-super-beasts-gang-up.json) |
 | Super Beat 'em up World | 415317 | [415317-super-beat-em-up-world.json](./415317-super-beat-em-up-world.json) |
 | Super Beat Sports | 55174 | [55174-super-beat-sports.json](./55174-super-beat-sports.json) |
@@ -29076,6 +29085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bloo Kid Adventure | 219582 | [219582-super-bloo-kid-adventure.json](./219582-super-bloo-kid-adventure.json) |
 | Super Blood Hockey: Rogue Manager | 410956 | [410956-super-blood-hockey-rogue-manager.json](./410956-super-blood-hockey-rogue-manager.json) |
 | Super Bloom | 415743 | [415743-super-bloom.json](./415743-super-bloom.json) |
+| Super Blowfish Castle | 373489 | [373489-super-blowfish-castle.json](./373489-super-blowfish-castle.json) |
 | Super Blox | 113576 | [113576-super-blox.json](./113576-super-blox.json) |
 | Super Blue Fighter | 32965 | [32965-super-blue-fighter.json](./32965-super-blue-fighter.json) |
 | Super Bo Noise | 316988 | [316988-super-bo-noise.json](./316988-super-bo-noise.json) |
