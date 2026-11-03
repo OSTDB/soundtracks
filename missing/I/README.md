@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Was Seen as the Weakest Hero But I Can Secretly Edit the Metadata of the World?!? | 413410 | [413410-i-was-seen-as-the-weakest-hero-but-i-can-secretly-edit-the-metadata-of-the-world.json](./413410-i-was-seen-as-the-weakest-hero-but-i-can-secretly-edit-the-metadata-of-the-world.json) |
 | I Was the Cat | 240138 | [240138-i-was-the-cat.json](./240138-i-was-the-cat.json) |
 | I Was Wrong | 207499 | [207499-i-was-wrong.json](./207499-i-was-wrong.json) |
+| I Will Be a Star | 359140 | [359140-i-will-be-a-star.json](./359140-i-will-be-a-star.json) |
 | I Will Be There | 180634 | [180634-i-will-be-there.json](./180634-i-will-be-there.json) |
 | I Will Be Your Eyes | 126649 | [126649-i-will-be-your-eyes.json](./126649-i-will-be-your-eyes.json) |
 | I Will Become a Swordsman | 284343 | [284343-i-will-become-a-swordsman.json](./284343-i-will-become-a-swordsman.json) |
@@ -3664,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
