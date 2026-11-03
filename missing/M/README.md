@@ -6830,6 +6830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Her There | 263786 | [263786-meet-her-there.json](./263786-meet-her-there.json) |
 | Meet In | 281231 | [281231-meet-in.json](./281231-meet-in.json) |
 | Meet In Paris | 196032 | [196032-meet-in-paris.json](./196032-meet-in-paris.json) |
+| Meet in Paris: Girls of Flowers City | 366457 | [366457-meet-in-paris-girls-of-flowers-city.json](./366457-meet-in-paris-girls-of-flowers-city.json) |
 | Meet me at Noon | 197148 | [197148-meet-me-at-noon.json](./197148-meet-me-at-noon.json) |
 | Meet Me at the Apple Garden | 374608 | [374608-meet-me-at-the-apple-garden.json](./374608-meet-me-at-the-apple-garden.json) |
 | Meet Me at The Workers' Club | 302426 | [302426-meet-me-at-the-workers-club.json](./302426-meet-me-at-the-workers-club.json) |
@@ -20372,6 +20373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MySolar: Build your Planets | 89576 | [89576-mysolar-build-your-planets.json](./89576-mysolar-build-your-planets.json) |
 | Mysperyence | 195113 | [195113-mysperyence.json](./195113-mysperyence.json) |
 | Mysperyence Story 1: The Curious Case of the Headless Magnate | 207899 | [207899-mysperyence-story-1-the-curious-case-of-the-headless-magnate.json](./207899-mysperyence-story-1-the-curious-case-of-the-headless-magnate.json) |
+| Mysplaced | 366494 | [366494-mysplaced.json](./366494-mysplaced.json) |
 | Myst | 236 | [236-myst.json](./236-myst.json) |
 | Myst | 272031 | [272031-myst.json](./272031-myst.json) |
 | Myst | 272173 | [272173-myst.json](./272173-myst.json) |
