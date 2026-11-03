@@ -7049,6 +7049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Merchant | 364669 | [364669-loop-merchant.json](./364669-loop-merchant.json) |
 | Loop Miner | 404411 | [404411-loop-miner.json](./404411-loop-miner.json) |
 | Loop My Crank | 374629 | [374629-loop-my-crank.json](./374629-loop-my-crank.json) |
+| Loop of Command | 390357 | [390357-loop-of-command.json](./390357-loop-of-command.json) |
 | Loop Room | 168151 | [168151-loop-room.json](./168151-loop-room.json) |
 | Loop Spot | 423244 | [423244-loop-spot.json](./423244-loop-spot.json) |
 | Loop the Loop: The Mansion of Gluttony | 387558 | [387558-loop-the-loop-the-mansion-of-gluttony.json](./387558-loop-the-loop-the-mansion-of-gluttony.json) |
@@ -7127,6 +7128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot & Ledger | 373055 | [373055-loot-and-ledger.json](./373055-loot-and-ledger.json) |
 | Loot & Legends | 22354 | [22354-loot-and-legends.json](./22354-loot-and-legends.json) |
 | Loot & Looter | 184209 | [184209-loot-and-looter.json](./184209-loot-and-looter.json) |
+| Loot And Defend | 390336 | [390336-loot-and-defend.json](./390336-loot-and-defend.json) |
 | Loot and Order | 385336 | [385336-loot-and-order.json](./385336-loot-and-order.json) |
 | Loot and Shoot | 250000 | [250000-loot-and-shoot.json](./250000-loot-and-shoot.json) |
 | Loot Before the Law | 411820 | [411820-loot-before-the-law.json](./411820-loot-before-the-law.json) |
