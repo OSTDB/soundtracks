@@ -14904,6 +14904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Azriel | 74193 | [74193-project-azriel.json](./74193-project-azriel.json) |
 | Project B | 240081 | [240081-project-b.json](./240081-project-b.json) |
 | Project B-Fer | 257651 | [257651-project-b-fer.json](./257651-project-b-fer.json) |
+| Project B-Fer: Prime Cut | 356992 | [356992-project-b-fer-prime-cut.json](./356992-project-b-fer-prime-cut.json) |
 | Project Babel | 113381 | [113381-project-babel.json](./113381-project-babel.json) |
 | Project Backrooms | 236529 | [236529-project-backrooms.json](./236529-project-backrooms.json) |
 | Project Bad Apple's AP400 | 411112 | [411112-project-bad-apples-ap400.json](./411112-project-bad-apples-ap400.json) |
