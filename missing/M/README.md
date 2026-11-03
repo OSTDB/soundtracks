@@ -5628,7 +5628,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9498,6 +9497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetrixVR | 124142 | [124142-metrixvr.json](./124142-metrixvr.json) |
 | Metro | 253748 | [253748-metro.json](./253748-metro.json) |
 | Metro - The Board Game | 88803 | [88803-metro-the-board-game.json](./88803-metro-the-board-game.json) |
+| Metro 2031: Last Chance | 382348 | [382348-metro-2031-last-chance.json](./382348-metro-2031-last-chance.json) |
 | Metro 2033 | 251142 | [251142-metro-2033.json](./251142-metro-2033.json) |
 | Metro 2033 Wars: Born in the Dark | 23973 | [23973-metro-2033-wars-born-in-the-dark.json](./23973-metro-2033-wars-born-in-the-dark.json) |
 | Metro 2033: Wars | 59064 | [59064-metro-2033-wars.json](./59064-metro-2033-wars.json) |
@@ -14978,6 +14978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Jam Showdown: Day One Edition | 293931 | [293931-monster-jam-showdown-day-one-edition.json](./293931-monster-jam-showdown-day-one-edition.json) |
 | Monster Jam Showdown: Digatron | 324483 | [324483-monster-jam-showdown-digatron.json](./324483-monster-jam-showdown-digatron.json) |
 | Monster Jam Showdown: Law & Disorder | 308821 | [308821-monster-jam-showdown-law-and-disorder.json](./308821-monster-jam-showdown-law-and-disorder.json) |
+| Monster Jam Showdown: Mega Bite | 382124 | [382124-monster-jam-showdown-mega-bite.json](./382124-monster-jam-showdown-mega-bite.json) |
 | Monster Jam Showdown: Season Pass | 316275 | [316275-monster-jam-showdown-season-pass.json](./316275-monster-jam-showdown-season-pass.json) |
 | Monster Jam Showdown: The Odd Couple | 308822 | [308822-monster-jam-showdown-the-odd-couple.json](./308822-monster-jam-showdown-the-odd-couple.json) |
 | Monster Jam Showdown: Yeti | 332228 | [332228-monster-jam-showdown-yeti.json](./332228-monster-jam-showdown-yeti.json) |
@@ -15072,6 +15073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster of the Matrix | 179558 | [179558-monster-of-the-matrix.json](./179558-monster-of-the-matrix.json) |
 | Monster of the Weekend | 297427 | [297427-monster-of-the-weekend.json](./297427-monster-of-the-weekend.json) |
 | Monster Ops 10 | 379334 | [379334-monster-ops-10.json](./379334-monster-ops-10.json) |
+| Monster Ops 11 | 382149 | [382149-monster-ops-11.json](./382149-monster-ops-11.json) |
 | Monster Ops 12 | 349272 | [349272-monster-ops-12.json](./349272-monster-ops-12.json) |
 | Monster Ops 13 | 400692 | [400692-monster-ops-13.json](./400692-monster-ops-13.json) |
 | Monster Ops 14 | 384811 | [384811-monster-ops-14.json](./384811-monster-ops-14.json) |
@@ -15086,8 +15088,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Ops 3 | 341334 | [341334-monster-ops-3.json](./341334-monster-ops-3.json) |
 | Monster Ops 4 | 341335 | [341335-monster-ops-4.json](./341335-monster-ops-4.json) |
 | Monster Ops 5 | 370276 | [370276-monster-ops-5.json](./370276-monster-ops-5.json) |
+| Monster Ops 6 | 382145 | [382145-monster-ops-6.json](./382145-monster-ops-6.json) |
 | Monster Ops 7 | 382007 | [382007-monster-ops-7.json](./382007-monster-ops-7.json) |
 | Monster Ops 8 | 379328 | [379328-monster-ops-8.json](./379328-monster-ops-8.json) |
+| Monster Ops 9 | 382142 | [382142-monster-ops-9.json](./382142-monster-ops-9.json) |
 | Monster Outbreak | 154046 | [154046-monster-outbreak.json](./154046-monster-outbreak.json) |
 | Monster Pack Volume 1 | 78937 | [78937-monster-pack-volume-1.json](./78937-monster-pack-volume-1.json) |
 | Monster Pack Volume 2 | 98947 | [98947-monster-pack-volume-2.json](./98947-monster-pack-volume-2.json) |
