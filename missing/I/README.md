@@ -3550,6 +3550,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InfiniPicross 2.0: 100 Medium Puzzles | 163425 | [163425-infinipicross-2-0-100-medium-puzzles.json](./163425-infinipicross-2-0-100-medium-puzzles.json) |
 | InfiniPicross 2.0: Halloween | 220028 | [220028-infinipicross-2-0-halloween.json](./220028-infinipicross-2-0-halloween.json) |
 | InfiniPicross 3 | 251807 | [251807-infinipicross-3.json](./251807-infinipicross-3.json) |
+| InfiniPicross 3: 100 Large Puzzles - Animals | 358042 | [358042-infinipicross-3-100-large-puzzles-animals.json](./358042-infinipicross-3-100-large-puzzles-animals.json) |
+| InfiniPicross 3: 100 Medium Puzzles | 358043 | [358043-infinipicross-3-100-medium-puzzles.json](./358043-infinipicross-3-100-medium-puzzles.json) |
+| InfiniPicross 3: Original Puzzles | 358044 | [358044-infinipicross-3-original-puzzles.json](./358044-infinipicross-3-original-puzzles.json) |
 | Infiniroom | 120229 | [120229-infiniroom.json](./120229-infiniroom.json) |
 | InfiniSweeper | 375573 | [375573-infinisweeper.json](./375573-infinisweeper.json) |
 | Infinita Strada | 61682 | [61682-infinita-strada.json](./61682-infinita-strada.json) |
@@ -3665,7 +3668,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6564,6 +6566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Izanami's Dream Battle | 30822 | [30822-izanamis-dream-battle.json](./30822-izanamis-dream-battle.json) |
 | IzanamiYako | 348212 | [348212-izanamiyako.json](./348212-izanamiyako.json) |
 | Izbot | 34774 | [34774-izbot.json](./34774-izbot.json) |
+| Izea: 10 Puzzle Rogue-Lite RPG! | 358036 | [358036-izea-10-puzzle-rogue-lite-rpg.json](./358036-izea-10-puzzle-rogue-lite-rpg.json) |
 | Izel's Observatory | 182082 | [182082-izels-observatory.json](./182082-izels-observatory.json) |
 | Izeriya | 32938 | [32938-izeriya.json](./32938-izeriya.json) |
 | Izgub 2001 | 309910 | [309910-izgub-2001.json](./309910-izgub-2001.json) |
