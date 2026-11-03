@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campfire Legends: The Hookman | 62834 | [62834-campfire-legends-the-hookman.json](./62834-campfire-legends-the-hookman.json) |
 | Campfire Legends: The Last Act | 62832 | [62832-campfire-legends-the-last-act.json](./62832-campfire-legends-the-last-act.json) |
 | Campfire Legends: The Last Act - Premium Edition | 341083 | [341083-campfire-legends-the-last-act-premium-edition.json](./341083-campfire-legends-the-last-act-premium-edition.json) |
+| Campfire of Oasis 2 | 371507 | [371507-campfire-of-oasis-2.json](./371507-campfire-of-oasis-2.json) |
 | Campfire Of Oasis: The Story | 401377 | [401377-campfire-of-oasis-the-story.json](./401377-campfire-of-oasis-the-story.json) |
 | Campfire Stories : Episode 1 | 265400 | [265400-campfire-stories-episode-1.json](./265400-campfire-stories-episode-1.json) |
 | Campfire Tales | 165585 | [165585-campfire-tales.json](./165585-campfire-tales.json) |
@@ -6005,6 +6006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheap Tattoo | 414764 | [414764-cheap-tattoo.json](./414764-cheap-tattoo.json) |
 | Cheaphaven | 203247 | [203247-cheaphaven.json](./203247-cheaphaven.json) |
 | Cheapshot | 130885 | [130885-cheapshot.json](./130885-cheapshot.json) |
+| Cheapskate | 371493 | [371493-cheapskate.json](./371493-cheapskate.json) |
 | Cheat or Die | 160031 | [160031-cheat-or-die.json](./160031-cheat-or-die.json) |
 | Cheatbusters | 52497 | [52497-cheatbusters.json](./52497-cheatbusters.json) |
 | CheatCheat | 402363 | [402363-cheatcheat.json](./402363-cheatcheat.json) |
