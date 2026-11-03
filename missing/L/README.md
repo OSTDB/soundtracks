@@ -3821,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Fall: Swipe Letters | 233105 | [233105-letter-fall-swipe-letters.json](./233105-letter-fall-swipe-letters.json) |
 | Letter Fridge | 103653 | [103653-letter-fridge.json](./103653-letter-fridge.json) |
 | Letter From Heart Antique Shop | 374361 | [374361-letter-from-heart-antique-shop.json](./374361-letter-from-heart-antique-shop.json) |
+| Letter from Nadine | 374336 | [374336-letter-from-nadine.json](./374336-letter-from-nadine.json) |
 | Letter Hunter | 372516 | [372516-letter-hunter.json](./372516-letter-hunter.json) |
 | Letter Land 2 | 97146 | [97146-letter-land-2.json](./97146-letter-land-2.json) |
 | Letter Lattice | 174190 | [174190-letter-lattice.json](./174190-letter-lattice.json) |
@@ -5694,6 +5695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Inner Monsters | 193666 | [193666-little-inner-monsters.json](./193666-little-inner-monsters.json) |
 | Little Invasion Tales | 57441 | [57441-little-invasion-tales.json](./57441-little-invasion-tales.json) |
 | Little Island | 189072 | [189072-little-island.json](./189072-little-island.json) |
+| Little Island | 373998 | [373998-little-island.json](./373998-little-island.json) |
 | Little Island Adventure | 202134 | [202134-little-island-adventure.json](./202134-little-island-adventure.json) |
 | Little Islanders | 211251 | [211251-little-islanders.json](./211251-little-islanders.json) |
 | Little Jack's Adventures | 30101 | [30101-little-jacks-adventures.json](./30101-little-jacks-adventures.json) |
@@ -8692,6 +8694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Löwenzahn 5: Geschichten aus Natur, Umwelt und Technik | 374190 | [374190-lowenzahn-5-geschichten-aus-natur-umwelt-und-technik.json](./374190-lowenzahn-5-geschichten-aus-natur-umwelt-und-technik.json) |
 | Löwenzahn 6: Geschichten aus Natur, Umwelt und Technik | 374191 | [374191-lowenzahn-6-geschichten-aus-natur-umwelt-und-technik.json](./374191-lowenzahn-6-geschichten-aus-natur-umwelt-und-technik.json) |
 | Löwenzahn 7: Geschichten aus Natur, Umwelt und Technik | 374192 | [374192-lowenzahn-7-geschichten-aus-natur-umwelt-und-technik.json](./374192-lowenzahn-7-geschichten-aus-natur-umwelt-und-technik.json) |
+| Löwenzahn 8: Geschichten aus Natur, Umwelt und Technik | 374194 | [374194-lowenzahn-8-geschichten-aus-natur-umwelt-und-technik.json](./374194-lowenzahn-8-geschichten-aus-natur-umwelt-und-technik.json) |
 | Löwenzahn: Geschichten aus Natur, Umwelt und Technik | 250534 | [250534-lowenzahn-geschichten-aus-natur-umwelt-und-technik.json](./250534-lowenzahn-geschichten-aus-natur-umwelt-und-technik.json) |
 | Lower Forecourt | 271370 | [271370-lower-forecourt.json](./271370-lower-forecourt.json) |
 | Lower to Higher | 102072 | [102072-lower-to-higher.json](./102072-lower-to-higher.json) |
