@@ -6951,6 +6951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flannel Amethyst | 185276 | [185276-flannel-amethyst.json](./185276-flannel-amethyst.json) |
 | Flannville | 288645 | [288645-flannville.json](./288645-flannville.json) |
 | Flannville 2 | 288646 | [288646-flannville-2.json](./288646-flannville-2.json) |
+| Flap de Clap | 378949 | [378949-flap-de-clap.json](./378949-flap-de-clap.json) |
 | Flap Demon | 158646 | [158646-flap-demon.json](./158646-flap-demon.json) |
 | Flap Flap | 85145 | [85145-flap-flap.json](./85145-flap-flap.json) |
 | Flap Happy | 307102 | [307102-flap-happy.json](./307102-flap-happy.json) |
@@ -8873,6 +8874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football, Tactics & Glory 2 | 258555 | [258555-football-tactics-and-glory-2.json](./258555-football-tactics-and-glory-2.json) |
 | Football, Tactics & Glory: Football Stars | 170718 | [170718-football-tactics-and-glory-football-stars.json](./170718-football-tactics-and-glory-football-stars.json) |
 | Football, Tactics & Glory: Manager's Journey | 192149 | [192149-football-tactics-and-glory-managers-journey.json](./192149-football-tactics-and-glory-managers-journey.json) |
+| Football, Tactics & Glory: Treble Deluxe Edition | 378754 | [378754-football-tactics-and-glory-treble-deluxe-edition.json](./378754-football-tactics-and-glory-treble-deluxe-edition.json) |
 | Football: Breakthrough Gaming Arcade | 145489 | [145489-football-breakthrough-gaming-arcade.json](./145489-football-breakthrough-gaming-arcade.json) |
 | Football: The Beautiful Game | 257008 | [257008-football-the-beautiful-game.json](./257008-football-the-beautiful-game.json) |
 | Football: The Hardest Job | 123574 | [123574-football-the-hardest-job.json](./123574-football-the-hardest-job.json) |
@@ -11710,6 +11712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggies at the Zoo | 265459 | [265459-froggies-at-the-zoo.json](./265459-froggies-at-the-zoo.json) |
 | Froggin Up | 236128 | [236128-froggin-up.json](./236128-froggin-up.json) |
 | Froggin' Around | 265777 | [265777-froggin-around.json](./265777-froggin-around.json) |
+| Frogging Up | 378753 | [378753-frogging-up.json](./378753-frogging-up.json) |
 | Froggle | 407506 | [407506-froggle.json](./407506-froggle.json) |
 | Froggo | 115678 | [115678-froggo.json](./115678-froggo.json) |
 | Froggo Swing 'n Grapple | 197194 | [197194-froggo-swing-n-grapple.json](./197194-froggo-swing-n-grapple.json) |
