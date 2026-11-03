@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madtoys Knights | 319115 | [319115-madtoys-knights.json](./319115-madtoys-knights.json) |
 | Madu Maths | 55559 | [55559-madu-maths.json](./55559-madu-maths.json) |
 | Maduro Run | 392933 | [392933-maduro-run.json](./392933-maduro-run.json) |
+| Madvent Calendar 2021 | 354896 | [354896-madvent-calendar-2021.json](./354896-madvent-calendar-2021.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
 | MadVentures | 204180 | [204180-madventures.json](./204180-madventures.json) |
 | Madville+ | 197475 | [197475-madville.json](./197475-madville.json) |
@@ -5659,7 +5660,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14175,6 +14175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molehill Empire 2 | 347203 | [347203-molehill-empire-2.json](./347203-molehill-empire-2.json) |
 | Molek-Syntez | 125208 | [125208-molek-syntez.json](./125208-molek-syntez.json) |
 | Molekraft | 388353 | [388353-molekraft.json](./388353-molekraft.json) |
+| Molemania | 354735 | [354735-molemania.json](./354735-molemania.json) |
 | Molemen Must Die! | 29316 | [29316-molemen-must-die.json](./29316-molemen-must-die.json) |
 | Molementum | 296721 | [296721-molementum.json](./296721-molementum.json) |
 | Moleshine Cooking Simulator | 237057 | [237057-moleshine-cooking-simulator.json](./237057-moleshine-cooking-simulator.json) |
