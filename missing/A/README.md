@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Perfect Day for White Dolphin | 150480 | [150480-a-perfect-day-for-white-dolphin.json](./150480-a-perfect-day-for-white-dolphin.json) |
 | A Personal Nightmare | 41868 | [41868-a-personal-nightmare.json](./41868-a-personal-nightmare.json) |
 | A Pet Shop After Dark | 138081 | [138081-a-pet-shop-after-dark.json](./138081-a-pet-shop-after-dark.json) |
+| A Philosophical Discussion of Worms | 382736 | [382736-a-philosophical-discussion-of-worms.json](./382736-a-philosophical-discussion-of-worms.json) |
 | A Phone Found in Tall Grass | 245025 | [245025-a-phone-found-in-tall-grass.json](./245025-a-phone-found-in-tall-grass.json) |
 | A Piano Tale | 201677 | [201677-a-piano-tale.json](./201677-a-piano-tale.json) |
 | A Piece of Wish upon the Stars | 106410 | [106410-a-piece-of-wish-upon-the-stars.json](./106410-a-piece-of-wish-upon-the-stars.json) |
@@ -1414,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wild Time Travelling Clone Dancing | 128952 | [128952-a-wild-time-travelling-clone-dancing.json](./128952-a-wild-time-travelling-clone-dancing.json) |
 | A Wind-Shaped Love | 415768 | [415768-a-wind-shaped-love.json](./415768-a-wind-shaped-love.json) |
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
+| A Winter Away | 383084 | [383084-a-winter-away.json](./383084-a-winter-away.json) |
 | A Winter Story | 181085 | [181085-a-winter-story.json](./181085-a-winter-story.json) |
 | A Winter's Daydream | 110460 | [110460-a-winters-daydream.json](./110460-a-winters-daydream.json) |
 | A Wise Use of Time | 34579 | [34579-a-wise-use-of-time.json](./34579-a-wise-use-of-time.json) |
@@ -3114,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrenalynn | 11886 | [11886-adrenalynn.json](./11886-adrenalynn.json) |
 | Adrenix | 18486 | [18486-adrenix.json](./18486-adrenix.json) |
 | Adrian Ford in the Tomb of the Moon | 314994 | [314994-adrian-ford-in-the-tomb-of-the-moon.json](./314994-adrian-ford-in-the-tomb-of-the-moon.json) |
+| Adrian's Quest | 382723 | [382723-adrians-quest.json](./382723-adrians-quest.json) |
 | Adrian's Tale | 219112 | [219112-adrians-tale.json](./219112-adrians-tale.json) |
 | Adrianne and Oliver | 216781 | [216781-adrianne-and-oliver.json](./216781-adrianne-and-oliver.json) |
 | Adrift | 304673 | [304673-adrift.json](./304673-adrift.json) |
@@ -12382,6 +12385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer MacLean's Pool | 11910 | [11910-archer-macleans-pool.json](./11910-archer-macleans-pool.json) |
 | Archer Maclean's Super Dropzone | 42637 | [42637-archer-macleans-super-dropzone.json](./42637-archer-macleans-super-dropzone.json) |
 | Archer Master | 150744 | [150744-archer-master.json](./150744-archer-master.json) |
+| Archer of Den | 382734 | [382734-archer-of-den.json](./382734-archer-of-den.json) |
 | Archer of God | 237646 | [237646-archer-of-god.json](./237646-archer-of-god.json) |
 | Archer Pinball | 261802 | [261802-archer-pinball.json](./261802-archer-pinball.json) |
 | Archer VR | 133082 | [133082-archer-vr.json](./133082-archer-vr.json) |
