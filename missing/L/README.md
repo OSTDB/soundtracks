@@ -3307,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lenny Loosejocks in Space | 199337 | [199337-lenny-loosejocks-in-space.json](./199337-lenny-loosejocks-in-space.json) |
 | Lenny! | 186343 | [186343-lenny.json](./186343-lenny.json) |
 | Lenny's Music Toons | 71995 | [71995-lennys-music-toons.json](./71995-lennys-music-toons.json) |
+| Lenocity Online | 382353 | [382353-lenocity-online.json](./382353-lenocity-online.json) |
 | Lenrual | 380692 | [380692-lenrual.json](./380692-lenrual.json) |
 | Lens | 349181 | [349181-lens.json](./349181-lens.json) |
 | Lens Gloss | 272236 | [272236-lens-gloss.json](./272236-lens-gloss.json) |
