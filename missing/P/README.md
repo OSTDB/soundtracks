@@ -9509,6 +9509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasure Puzzle:Workshop - Part 5 | 163465 | [163465-pleasure-puzzle-workshop-part-5.json](./163465-pleasure-puzzle-workshop-part-5.json) |
 | Pleasure Ran Online | 392332 | [392332-pleasure-ran-online.json](./392332-pleasure-ran-online.json) |
 | Pleasure Sweet Secret | 309737 | [309737-pleasure-sweet-secret.json](./309737-pleasure-sweet-secret.json) |
+| Pleasure Thieves | 372175 | [372175-pleasure-thieves.json](./372175-pleasure-thieves.json) |
 | Pleasure Zones | 261923 | [261923-pleasure-zones.json](./261923-pleasure-zones.json) |
 | Pleasuredrome | 325246 | [325246-pleasuredrome.json](./325246-pleasuredrome.json) |
 | Pleasuredromes Of Kubla Khan | 268738 | [268738-pleasuredromes-of-kubla-khan.json](./268738-pleasuredromes-of-kubla-khan.json) |
