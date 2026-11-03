@@ -2078,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone Trip | 264036 | [264036-zone-trip.json](./264036-zone-trip.json) |
 | Zone Warrior | 130079 | [130079-zone-warrior.json](./130079-zone-warrior.json) |
 | Zone Z | 223882 | [223882-zone-z.json](./223882-zone-z.json) |
+| Zone-0 | 357702 | [357702-zone-0.json](./357702-zone-0.json) |
 | Zone.E | 244193 | [244193-zone-e.json](./244193-zone-e.json) |
 | Zone4M | 188385 | [188385-zone4m.json](./188385-zone4m.json) |
 | Zoned | 311587 | [311587-zoned.json](./311587-zoned.json) |
