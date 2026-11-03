@@ -10586,6 +10586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragmented 6th | 348772 | [348772-fragmented-6th.json](./348772-fragmented-6th.json) |
 | Fragmented Almanac | 313285 | [313285-fragmented-almanac.json](./313285-fragmented-almanac.json) |
 | Fragmented City | 235756 | [235756-fragmented-city.json](./235756-fragmented-city.json) |
+| Fragmented Echoes | 398147 | [398147-fragmented-echoes.json](./398147-fragmented-echoes.json) |
 | Fragmented Fear | 342245 | [342245-fragmented-fear.json](./342245-fragmented-fear.json) |
 | Fragmented Leaves: Before the Storm | 283062 | [283062-fragmented-leaves-before-the-storm.json](./283062-fragmented-leaves-before-the-storm.json) |
 | Fragmented Memories | 190387 | [190387-fragmented-memories.json](./190387-fragmented-memories.json) |
