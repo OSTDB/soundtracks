@@ -2615,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerd's Guide to Surviving High School | 210369 | [210369-nerds-guide-to-surviving-high-school.json](./210369-nerds-guide-to-surviving-high-school.json) |
 | Nerdook Bundle Vol. 1 | 147664 | [147664-nerdook-bundle-vol-1.json](./147664-nerdook-bundle-vol-1.json) |
 | Nerds & Ammo | 391585 | [391585-nerds-and-ammo.json](./391585-nerds-and-ammo.json) |
+| Nerds Revenge | 396990 | [396990-nerds-revenge.json](./396990-nerds-revenge.json) |
 | Nerds Rope: Follow the Leader Game | 373535 | [373535-nerds-rope-follow-the-leader-game.json](./373535-nerds-rope-follow-the-leader-game.json) |
 | Nerdtastic Norman & The Soul Fragments | 295400 | [295400-nerdtastic-norman-and-the-soul-fragments.json](./295400-nerdtastic-norman-and-the-soul-fragments.json) |
 | Nerepis | 75577 | [75577-nerepis.json](./75577-nerepis.json) |
@@ -7292,6 +7293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nutty Nemesis: Nile's Downfall | 371751 | [371751-nutty-nemesis-niles-downfall.json](./371751-nutty-nemesis-niles-downfall.json) |
 | Nutty Noon | 240329 | [240329-nutty-noon.json](./240329-nutty-noon.json) |
 | Nutz Revenge | 302942 | [302942-nutz-revenge.json](./302942-nutz-revenge.json) |
+| Nuumonsters | 397002 | [397002-nuumonsters.json](./397002-nuumonsters.json) |
 | Nuumonsters: Classic | 142668 | [142668-nuumonsters-classic.json](./142668-nuumonsters-classic.json) |
 | Nuvavult | 126360 | [126360-nuvavult.json](./126360-nuvavult.json) |
 | Nuvoid | 25906 | [25906-nuvoid.json](./25906-nuvoid.json) |
