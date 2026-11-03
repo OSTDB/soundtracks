@@ -3895,6 +3895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon Party Blast | 2764 | [2764-nickelodeon-party-blast.json](./2764-nickelodeon-party-blast.json) |
 | Nickelodeon Pixel Town | 128374 | [128374-nickelodeon-pixel-town.json](./128374-nickelodeon-pixel-town.json) |
 | Nickelodeon Rugrats | 198878 | [198878-nickelodeon-rugrats.json](./198878-nickelodeon-rugrats.json) |
+| Nickelodeon Splat Pack | 368169 | [368169-nickelodeon-splat-pack.json](./368169-nickelodeon-splat-pack.json) |
 | Nickelodeon: All-Star Brawl 2 - Rocksteady Brawl Pack | 308825 | [308825-nickelodeon-all-star-brawl-2-rocksteady-brawl-pack.json](./308825-nickelodeon-all-star-brawl-2-rocksteady-brawl-pack.json) |
 | NickProject | 88142 | [88142-nickproject.json](./88142-nickproject.json) |
 | Nicktoons | 220098 | [220098-nicktoons.json](./220098-nicktoons.json) |
@@ -7283,6 +7284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nurbits | 41902 | [41902-nurbits.json](./41902-nurbits.json) |
 | Nurburgring-1 | 238207 | [238207-nurburgring-1.json](./238207-nurburgring-1.json) |
 | Nuremberg: VRdict of Nations | 171877 | [171877-nuremberg-vrdict-of-nations.json](./171877-nuremberg-vrdict-of-nations.json) |
+| Nuri VR: Coding | 368205 | [368205-nuri-vr-coding.json](./368205-nuri-vr-coding.json) |
 | Nurie de Asobou: Sanrio Characters | 266170 | [266170-nurie-de-asobou-sanrio-characters.json](./266170-nurie-de-asobou-sanrio-characters.json) |
 | Nurikabe | 105092 | [105092-nurikabe.json](./105092-nurikabe.json) |
 | Nurikabe World | 310757 | [310757-nurikabe-world.json](./310757-nurikabe-world.json) |
