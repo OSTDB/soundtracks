@@ -5383,6 +5383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overdungeon - Mr.Almighty (Card Pack) | 208372 | [208372-overdungeon-mr-almighty-card-pack.json](./208372-overdungeon-mr-almighty-card-pack.json) |
 | Overduty VR: Battle Royale | 81943 | [81943-overduty-vr-battle-royale.json](./81943-overduty-vr-battle-royale.json) |
 | Overencumbered In Another World | 333382 | [333382-overencumbered-in-another-world.json](./333382-overencumbered-in-another-world.json) |
+| Overexplode | 364806 | [364806-overexplode.json](./364806-overexplode.json) |
 | Overexposure | 184773 | [184773-overexposure.json](./184773-overexposure.json) |
 | Overfall | 17253 | [17253-overfall.json](./17253-overfall.json) |
 | OverField | 306810 | [306810-overfield.json](./306810-overfield.json) |
