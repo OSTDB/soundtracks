@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanba Warriors: Character Pack 3 | 170993 | [170993-wanba-warriors-character-pack-3.json](./170993-wanba-warriors-character-pack-3.json) |
 | Wanba Warriors: Character Pack 5 | 202623 | [202623-wanba-warriors-character-pack-5.json](./202623-wanba-warriors-character-pack-5.json) |
 | Wand & Order: Tidy Up the Magic Shop! | 411997 | [411997-wand-and-order-tidy-up-the-magic-shop.json](./411997-wand-and-order-tidy-up-the-magic-shop.json) |
+| Wand Art Online | 392607 | [392607-wand-art-online.json](./392607-wand-art-online.json) |
 | Wand Mart | 371451 | [371451-wand-mart.json](./371451-wand-mart.json) |
 | Wand of Fortune | 218957 | [218957-wand-of-fortune.json](./218957-wand-of-fortune.json) |
 | Wand of Fortune 2 FD: Kimi ni Sasageru Epilogue | 219130 | [219130-wand-of-fortune-2-fd-kimi-ni-sasageru-epilogue.json](./219130-wand-of-fortune-2-fd-kimi-ni-sasageru-epilogue.json) |
@@ -2178,6 +2179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Survival | 284617 | [284617-wasteland-survival.json](./284617-wasteland-survival.json) |
 | Wasteland Travelers | 356730 | [356730-wasteland-travelers.json](./356730-wasteland-travelers.json) |
 | Wasteland Warden | 190434 | [190434-wasteland-warden.json](./190434-wasteland-warden.json) |
+| Wasteland With Robots | 392591 | [392591-wasteland-with-robots.json](./392591-wasteland-with-robots.json) |
 | Wastelander | 178100 | [178100-wastelander.json](./178100-wastelander.json) |
 | Wastelanders | 362823 | [362823-wastelanders.json](./362823-wastelanders.json) |
 | Wastelands | 79221 | [79221-wastelands.json](./79221-wastelands.json) |
@@ -4134,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Which Naruto Character Are You? | 230540 | [230540-which-naruto-character-are-you.json](./230540-which-naruto-character-are-you.json) |
 | Which Place in the World? Sightseeing Word Quiz | 100314 | [100314-which-place-in-the-world-sightseeing-word-quiz.json](./100314-which-place-in-the-world-sightseeing-word-quiz.json) |
 | Which Sausage, Mate? | 397597 | [397597-which-sausage-mate.json](./397597-which-sausage-mate.json) |
+| Which Sea Is This? | 392583 | [392583-which-sea-is-this.json](./392583-which-sea-is-this.json) |
 | Which Way | 246372 | [246372-which-way.json](./246372-which-way.json) |
 | Which Way Out | 104088 | [104088-which-way-out.json](./104088-which-way-out.json) |
 | Which Way Up: Galaxy Games | 240762 | [240762-which-way-up-galaxy-games.json](./240762-which-way-up-galaxy-games.json) |
