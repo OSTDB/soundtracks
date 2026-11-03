@@ -1913,6 +1913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keylogger | 172070 | [172070-keylogger.json](./172070-keylogger.json) |
 | Keymash | 141630 | [141630-keymash.json](./141630-keymash.json) |
 | Keymasher Ultimate | 201113 | [201113-keymasher-ultimate.json](./201113-keymasher-ultimate.json) |
+| Keypad Kaos | 392579 | [392579-keypad-kaos.json](./392579-keypad-kaos.json) |
 | Keypad Simulator | 412483 | [412483-keypad-simulator.json](./412483-keypad-simulator.json) |
 | Keypress Express | 420772 | [420772-keypress-express.json](./420772-keypress-express.json) |
 | Keypress Mania | 373544 | [373544-keypress-mania.json](./373544-keypress-mania.json) |
@@ -2746,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kin's Chronicle | 149981 | [149981-kins-chronicle.json](./149981-kins-chronicle.json) |
 | Kinacoustic | 33093 | [33093-kinacoustic.json](./33093-kinacoustic.json) |
 | Kinaman vs Gray Elephant | 96457 | [96457-kinaman-vs-gray-elephant.json](./96457-kinaman-vs-gray-elephant.json) |
+| Kinanaki no Mori | 392643 | [392643-kinanaki-no-mori.json](./392643-kinanaki-no-mori.json) |
 | Kinap | 374366 | [374366-kinap.json](./374366-kinap.json) |
 | Kind () Station | 357438 | [357438-kind-station.json](./357438-kind-station.json) |
 | Kind Gals | 41325 | [41325-kind-gals.json](./41325-kind-gals.json) |
