@@ -7189,6 +7189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exiled from Court | 177356 | [177356-exiled-from-court.json](./177356-exiled-from-court.json) |
 | Exiled Survivors | 278524 | [278524-exiled-survivors.json](./278524-exiled-survivors.json) |
 | Exiler | 307799 | [307799-exiler.json](./307799-exiler.json) |
+| Exiles | 382136 | [382136-exiles.json](./382136-exiles.json) |
 | Exiles of Embermark | 95549 | [95549-exiles-of-embermark.json](./95549-exiles-of-embermark.json) |
 | Exilio | 218712 | [218712-exilio.json](./218712-exilio.json) |
 | Exilium | 258318 | [258318-exilium.json](./258318-exilium.json) |
