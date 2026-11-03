@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Fox Adventure | 123910 | [123910-sakura-fox-adventure.json](./123910-sakura-fox-adventure.json) |
 | Sakura Gamer | 57032 | [57032-sakura-gamer.json](./57032-sakura-gamer.json) |
 | Sakura Gamer 2 | 127212 | [127212-sakura-gamer-2.json](./127212-sakura-gamer-2.json) |
+| Sakura Gozen | 391440 | [391440-sakura-gozen.json](./391440-sakura-gozen.json) |
 | Sakura Halloween | 135891 | [135891-sakura-halloween.json](./135891-sakura-halloween.json) |
 | Sakura High School Love Story | 299884 | [299884-sakura-high-school-love-story.json](./299884-sakura-high-school-love-story.json) |
 | Sakura Hime | 176092 | [176092-sakura-hime.json](./176092-sakura-hime.json) |
@@ -5696,6 +5697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Bullets Zombie Apocalypse | 117062 | [117062-seven-bullets-zombie-apocalypse.json](./117062-seven-bullets-zombie-apocalypse.json) |
 | Seven Cities | 188589 | [188589-seven-cities.json](./188589-seven-cities.json) |
 | Seven Days | 219619 | [219619-seven-days.json](./219619-seven-days.json) |
+| Seven Days on the Edge: Galactic Fringe | 391423 | [391423-seven-days-on-the-edge-galactic-fringe.json](./391423-seven-days-on-the-edge-galactic-fringe.json) |
 | Seven Days Until Morning | 351527 | [351527-seven-days-until-morning.json](./351527-seven-days-until-morning.json) |
 | Seven days with the Ghost | 110935 | [110935-seven-days-with-the-ghost.json](./110935-seven-days-with-the-ghost.json) |
 | Seven Days: Anata to Sugosu Nanokakan | 240072 | [240072-seven-days-anata-to-sugosu-nanokakan.json](./240072-seven-days-anata-to-sugosu-nanokakan.json) |
@@ -6981,6 +6983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapes & Colors Farm Puzzles | 175095 | [175095-shapes-and-colors-farm-puzzles.json](./175095-shapes-and-colors-farm-puzzles.json) |
 | Shapes & Colors Learning: Free Toddler Kids Games | 89822 | [89822-shapes-and-colors-learning-free-toddler-kids-games.json](./89822-shapes-and-colors-learning-free-toddler-kids-games.json) |
 | Shapes and Patterns | 285871 | [285871-shapes-and-patterns.json](./285871-shapes-and-patterns.json) |
+| Shapes N Music | 391420 | [391420-shapes-n-music.json](./391420-shapes-n-music.json) |
 | Shapes of Gray | 34559 | [34559-shapes-of-gray.json](./34559-shapes-of-gray.json) |
 | Shapes of Memory: Jigsaw Puzzle | 392260 | [392260-shapes-of-memory-jigsaw-puzzle.json](./392260-shapes-of-memory-jigsaw-puzzle.json) |
 | Shapes on the Run | 108479 | [108479-shapes-on-the-run.json](./108479-shapes-on-the-run.json) |
@@ -8644,6 +8647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Game Kari | 211718 | [211718-shooting-game-kari.json](./211718-shooting-game-kari.json) |
 | Shooting Genius | 253280 | [253280-shooting-genius.json](./253280-shooting-genius.json) |
 | Shooting girl | 201669 | [201669-shooting-girl.json](./201669-shooting-girl.json) |
+| Shooting Girls | 391442 | [391442-shooting-girls.json](./391442-shooting-girls.json) |
 | Shooting Hunter Terrorist | 103155 | [103155-shooting-hunter-terrorist.json](./103155-shooting-hunter-terrorist.json) |
 | Shooting Hurts | 109356 | [109356-shooting-hurts.json](./109356-shooting-hurts.json) |
 | Shooting King | 105518 | [105518-shooting-king.json](./105518-shooting-king.json) |
@@ -9536,6 +9540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidereal | 278930 | [278930-sidereal.json](./278930-sidereal.json) |
 | Sidereal Defense | 54357 | [54357-sidereal-defense.json](./54357-sidereal-defense.json) |
 | Sidereal Wanderer | 291712 | [291712-sidereal-wanderer.json](./291712-sidereal-wanderer.json) |
+| Sidereal Wanderer St | 391439 | [391439-sidereal-wanderer-st.json](./391439-sidereal-wanderer-st.json) |
 | SideShow | 70364 | [70364-sideshow.json](./70364-sideshow.json) |
 | Sideswiped | 91666 | [91666-sideswiped.json](./91666-sideswiped.json) |
 | Sidewalk Fighter II | 60912 | [60912-sidewalk-fighter-ii.json](./60912-sidewalk-fighter-ii.json) |
@@ -27283,6 +27288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Zombies 3 | 207251 | [207251-stupid-zombies-3.json](./207251-stupid-zombies-3.json) |
 | Stupid Zombies Xterminator | 209935 | [209935-stupid-zombies-xterminator.json](./209935-stupid-zombies-xterminator.json) |
 | StupidAdoptables | 25032 | [25032-stupidadoptables.json](./25032-stupidadoptables.json) |
+| Stupor | 391434 | [391434-stupor.json](./391434-stupor.json) |
 | SturmFront - The Mutant War | 15394 | [15394-sturmfront-the-mutant-war.json](./15394-sturmfront-the-mutant-war.json) |
 | SturmFront: The Mutant War - Farewell Edition | 215362 | [215362-sturmfront-the-mutant-war-farewell-edition.json](./215362-sturmfront-the-mutant-war-farewell-edition.json) |
 | SturmFront: The Mutant War - Übel Edition | 52764 | [52764-sturmfront-the-mutant-war-ubel-edition.json](./52764-sturmfront-the-mutant-war-ubel-edition.json) |
