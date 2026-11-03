@@ -4509,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightomb | 260857 | [260857-nightomb.json](./260857-nightomb.json) |
 | Nightout | 172503 | [172503-nightout.json](./172503-nightout.json) |
 | Nightowl | 182138 | [182138-nightowl.json](./182138-nightowl.json) |
+| Nightpyre | 349726 | [349726-nightpyre.json](./349726-nightpyre.json) |
 | Nightraiders | 23948 | [23948-nightraiders.json](./23948-nightraiders.json) |
 | NightReaper2 | 388192 | [388192-nightreaper2.json](./388192-nightreaper2.json) |
 | Nightriderz | 159142 | [159142-nightriderz.json](./159142-nightriderz.json) |
@@ -6652,6 +6653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not My Tempo | 408128 | [408128-not-my-tempo.json](./408128-not-my-tempo.json) |
 | Not My War | 377669 | [377669-not-my-war.json](./377669-not-my-war.json) |
 | Not Not & Not Not 2 | 353584 | [353584-not-not-and-not-not-2.json](./353584-not-not-and-not-not-2.json) |
+| Not Not 2: A Brain Challenge - Complete Edition | 349596 | [349596-not-not-2-a-brain-challenge-complete-edition.json](./349596-not-not-2-a-brain-challenge-complete-edition.json) |
 | Not Not 2: A Brain Challenge - Golden DLC | 343730 | [343730-not-not-2-a-brain-challenge-golden-dlc.json](./343730-not-not-2-a-brain-challenge-golden-dlc.json) |
 | Not Not 2: A Brain Challenge - Platinum DLC | 343731 | [343731-not-not-2-a-brain-challenge-platinum-dlc.json](./343731-not-not-2-a-brain-challenge-platinum-dlc.json) |
 | Not Not 2: A Brain Challenge - Platinum Edition | 378856 | [378856-not-not-2-a-brain-challenge-platinum-edition.json](./378856-not-not-2-a-brain-challenge-platinum-edition.json) |
