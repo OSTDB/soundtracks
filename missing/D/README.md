@@ -6518,6 +6518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depict | 66761 | [66761-depict.json](./66761-depict.json) |
 | Depict the City | 212462 | [212462-depict-the-city.json](./212462-depict-the-city.json) |
 | Depict1 | 186635 | [186635-depict1.json](./186635-depict1.json) |
+| Depiction of Pleasure | 374340 | [374340-depiction-of-pleasure.json](./374340-depiction-of-pleasure.json) |
 | Depixtion | 119465 | [119465-depixtion.json](./119465-depixtion.json) |
 | Depixtion: Halloween Edition | 336909 | [336909-depixtion-halloween-edition.json](./336909-depixtion-halloween-edition.json) |
 | Deplau | 105642 | [105642-deplau.json](./105642-deplau.json) |
@@ -8726,6 +8727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon: Battle Spirit | 6374 | [6374-digimon-battle-spirit.json](./6374-digimon-battle-spirit.json) |
 | Digimon: Heroic Battle Spirit | 332590 | [332590-digimon-heroic-battle-spirit.json](./332590-digimon-heroic-battle-spirit.json) |
 | Digimon: Quest to Save the Net | 338409 | [338409-digimon-quest-to-save-the-net.json](./338409-digimon-quest-to-save-the-net.json) |
+| Digimon: Source Code | 374314 | [374314-digimon-source-code.json](./374314-digimon-source-code.json) |
 | Digiquad | 301500 | [301500-digiquad.json](./301500-digiquad.json) |
 | Digit & Dash | 60255 | [60255-digit-and-dash.json](./60255-digit-and-dash.json) |
 | Digit Dare | 266124 | [266124-digit-dare.json](./266124-digit-dare.json) |
@@ -14120,6 +14122,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Court: Revived | 315101 | [315101-dragon-court-revived.json](./315101-dragon-court-revived.json) |
 | Dragon Creek | 142675 | [142675-dragon-creek.json](./142675-dragon-creek.json) |
 | Dragon Crystal | 18226 | [18226-dragon-crystal.json](./18226-dragon-crystal.json) |
+| Dragon Crystal | 374339 | [374339-dragon-crystal.json](./374339-dragon-crystal.json) |
+| Dragon Crystal II | 374342 | [374342-dragon-crystal-ii.json](./374342-dragon-crystal-ii.json) |
 | Dragon Dance | 49940 | [49940-dragon-dance.json](./49940-dragon-dance.json) |
 | Dragon Dash Division | 167535 | [167535-dragon-dash-division.json](./167535-dragon-dash-division.json) |
 | Dragon Defender | 40644 | [40644-dragon-defender.json](./40644-dragon-defender.json) |
@@ -16223,6 +16227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drowned Lake | 278605 | [278605-drowned-lake.json](./278605-drowned-lake.json) |
 | Drowning | 111432 | [111432-drowning.json](./111432-drowning.json) |
 | Drowning | 191030 | [191030-drowning.json](./191030-drowning.json) |
+| Drowning Ashes | 374322 | [374322-drowning-ashes.json](./374322-drowning-ashes.json) |
 | Drowning Cross | 119750 | [119750-drowning-cross.json](./119750-drowning-cross.json) |
 | Drowning In Problems | 134444 | [134444-drowning-in-problems.json](./134444-drowning-in-problems.json) |
 | Drowning Song of the Stagnant Sea | 370694 | [370694-drowning-song-of-the-stagnant-sea.json](./370694-drowning-song-of-the-stagnant-sea.json) |
@@ -17192,6 +17197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Drafters | 133810 | [133810-dungeon-drafters.json](./133810-dungeon-drafters.json) |
 | Dungeon Drawlers | 398575 | [398575-dungeon-drawlers.json](./398575-dungeon-drawlers.json) |
 | Dungeon Dreams 2 | 217296 | [217296-dungeon-dreams-2.json](./217296-dungeon-dreams-2.json) |
+| Dungeon Dreams Wanderers | 373997 | [373997-dungeon-dreams-wanderers.json](./373997-dungeon-dreams-wanderers.json) |
 | Dungeon Dueler | 197093 | [197093-dungeon-dueler.json](./197093-dungeon-dueler.json) |
 | Dungeon Dungeon! | 224631 | [224631-dungeon-dungeon.json](./224631-dungeon-dungeon.json) |
 | Dungeon Duos | 83939 | [83939-dungeon-duos.json](./83939-dungeon-duos.json) |
