@@ -5576,6 +5576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Crab Fisher | 242943 | [242943-little-crab-fisher.json](./242943-little-crab-fisher.json) |
 | Little Critters 2 | 305179 | [305179-little-critters-2.json](./305179-little-critters-2.json) |
 | Little Crossroads | 374710 | [374710-little-crossroads.json](./374710-little-crossroads.json) |
+| Little Crow, Little Crow | 384491 | [384491-little-crow-little-crow.json](./384491-little-crow-little-crow.json) |
 | Little Demon | 61476 | [61476-little-demon.json](./61476-little-demon.json) |
 | Little Dentist | 351702 | [351702-little-dentist.json](./351702-little-dentist.json) |
 | Little Desktop Runner | 385833 | [385833-little-desktop-runner.json](./385833-little-desktop-runner.json) |
@@ -9434,6 +9435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunia Record | 304511 | [304511-lunia-record.json](./304511-lunia-record.json) |
 | Lunia Z:Revival | 259020 | [259020-lunia-z-revival.json](./259020-lunia-z-revival.json) |
 | Lunicus | 79597 | [79597-lunicus.json](./79597-lunicus.json) |
+| Lunio | 384486 | [384486-lunio.json](./384486-lunio.json) |
 | Lunistice | 139168 | [139168-lunistice.json](./139168-lunistice.json) |
 | Lunium | 282674 | [282674-lunium.json](./282674-lunium.json) |
 | Lunnye Devitsy | 16491 | [16491-lunnye-devitsy.json](./16491-lunnye-devitsy.json) |
