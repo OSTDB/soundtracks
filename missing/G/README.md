@@ -2266,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear Notes: Ogre Slayer | 409796 | [409796-gear-notes-ogre-slayer.json](./409796-gear-notes-ogre-slayer.json) |
 | Gear Number Go Up | 391013 | [391013-gear-number-go-up.json](./391013-gear-number-go-up.json) |
 | Gear of Glass: Eolarn's war | 181077 | [181077-gear-of-glass-eolarns-war.json](./181077-gear-of-glass-eolarns-war.json) |
+| Gear of Glass: Marionette of Time | 389835 | [389835-gear-of-glass-marionette-of-time.json](./389835-gear-of-glass-marionette-of-time.json) |
 | Gear of Time | 329085 | [329085-gear-of-time.json](./329085-gear-of-time.json) |
 | Gear Path | 76913 | [76913-gear-path.json](./76913-gear-path.json) |
 | Gear Planet | 266399 | [266399-gear-planet.json](./266399-gear-planet.json) |
@@ -6015,6 +6016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold and Gems | 3274 | [3274-gold-and-gems.json](./3274-gold-and-gems.json) |
 | Gold and Glory: The Road to El Dorado | 209636 | [209636-gold-and-glory-the-road-to-el-dorado.json](./209636-gold-and-glory-the-road-to-el-dorado.json) |
 | Gold and Graves | 345281 | [345281-gold-and-graves.json](./345281-gold-and-graves.json) |
+| Gold and Wars | 389833 | [389833-gold-and-wars.json](./389833-gold-and-wars.json) |
 | Gold Ball | 131125 | [131125-gold-ball.json](./131125-gold-ball.json) |
 | Gold Cliff | 145225 | [145225-gold-cliff.json](./145225-gold-cliff.json) |
 | Gold Coast Gambits: Boca Raton & Palm Beach | 414353 | [414353-gold-coast-gambits-boca-raton-and-palm-beach.json](./414353-gold-coast-gambits-boca-raton-and-palm-beach.json) |
