@@ -4998,6 +4998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Golf Game | 213358 | [213358-that-golf-game.json](./213358-that-golf-game.json) |
 | That Gravity Glow | 290120 | [290120-that-gravity-glow.json](./290120-that-gravity-glow.json) |
 | That Gun Crafter Cat | 257934 | [257934-that-gun-crafter-cat.json](./257934-that-gun-crafter-cat.json) |
+| That Guy Pisses Me Off | 365353 | [365353-that-guy-pisses-me-off.json](./365353-that-guy-pisses-me-off.json) |
 | That Hole-in-the-Wall Place | 215234 | [215234-that-hole-in-the-wall-place.json](./215234-that-hole-in-the-wall-place.json) |
 | That Last Girl | 236957 | [236957-that-last-girl.json](./236957-that-last-girl.json) |
 | That Lava Escape Game | 128015 | [128015-that-lava-escape-game.json](./128015-that-lava-escape-game.json) |
@@ -14732,6 +14733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Raven: Legacy of a Master Thief - Episode 2 | 172592 | [172592-the-raven-legacy-of-a-master-thief-episode-2.json](./172592-the-raven-legacy-of-a-master-thief-episode-2.json) |
 | The Ravendree Oracle | 258090 | [258090-the-ravendree-oracle.json](./258090-the-ravendree-oracle.json) |
 | The Ravine | 176241 | [176241-the-ravine.json](./176241-the-ravine.json) |
+| The Ravine | 365387 | [365387-the-ravine.json](./365387-the-ravine.json) |
 | The Razorform | 353804 | [353804-the-razorform.json](./353804-the-razorform.json) |
 | The Reaction | 89680 | [89680-the-reaction.json](./89680-the-reaction.json) |
 | The Real Academic Challenge High School Level | 401094 | [401094-the-real-academic-challenge-high-school-level.json](./401094-the-real-academic-challenge-high-school-level.json) |
@@ -19017,7 +19019,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thing-Thing | 92455 | [92455-thing-thing.json](./92455-thing-thing.json) |
 | Thing-Thing 3 | 92453 | [92453-thing-thing-3.json](./92453-thing-thing-3.json) |
 | Thing-Thing 4 | 92454 | [92454-thing-thing-4.json](./92454-thing-thing-4.json) |
+| Thing-Thing Arena | 365375 | [365375-thing-thing-arena.json](./365375-thing-thing-arena.json) |
+| Thing-Thing Arena 2 | 365376 | [365376-thing-thing-arena-2.json](./365376-thing-thing-arena-2.json) |
 | Thing-Thing Arena 3 | 234938 | [234938-thing-thing-arena-3.json](./234938-thing-thing-arena-3.json) |
+| Thing-Thing Arena Classic | 365378 | [365378-thing-thing-arena-classic.json](./365378-thing-thing-arena-classic.json) |
+| Thing-Thing Arena Pro | 365379 | [365379-thing-thing-arena-pro.json](./365379-thing-thing-arena-pro.json) |
 | Thingamajig | 114167 | [114167-thingamajig.json](./114167-thingamajig.json) |
 | Thingamajigs | 397930 | [397930-thingamajigs.json](./397930-thingamajigs.json) |
 | Thingdle | 401683 | [401683-thingdle.json](./401683-thingdle.json) |
