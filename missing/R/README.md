@@ -9322,6 +9322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman X4 | 311025 | [311025-rockman-x4.json](./311025-rockman-x4.json) |
 | Rockman Xover | 64138 | [64138-rockman-xover.json](./64138-rockman-xover.json) |
 | Rockman Zero 3: Kaizou Card - Part 1 | 352613 | [352613-rockman-zero-3-kaizou-card-part-1.json](./352613-rockman-zero-3-kaizou-card-part-1.json) |
+| Rockman Zero 3: Kaizou Card - Part 2 | 352614 | [352614-rockman-zero-3-kaizou-card-part-2.json](./352614-rockman-zero-3-kaizou-card-part-2.json) |
 | Rockman ZX Prequel | 209270 | [209270-rockman-zx-prequel.json](./209270-rockman-zx-prequel.json) |
 | Rockman.EXE Operate Shooting Star | 1774 | [1774-rockman-exe-operate-shooting-star.json](./1774-rockman-exe-operate-shooting-star.json) |
 | Rockmen R: Dr. Wily no Gyakushuu | 80225 | [80225-rockmen-r-dr-wily-no-gyakushuu.json](./80225-rockmen-r-dr-wily-no-gyakushuu.json) |
