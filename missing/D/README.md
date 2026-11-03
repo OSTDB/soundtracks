@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.O.R.F. Real-Time Strategic Conflict | 247998 | [247998-d-o-r-f-real-time-strategic-conflict.json](./247998-d-o-r-f-real-time-strategic-conflict.json) |
 | D.O.T. Defence | 334069 | [334069-d-o-t-defence.json](./334069-d-o-t-defence.json) |
 | D.O.W.N | 229383 | [229383-d-o-w-n.json](./229383-d-o-w-n.json) |
+| D.P.S: Weapons Testing Facility 2 | 354903 | [354903-d-p-s-weapons-testing-facility-2.json](./354903-d-p-s-weapons-testing-facility-2.json) |
 | D.R.I.F.T. | 394335 | [394335-d-r-i-f-t.json](./394335-d-r-i-f-t.json) |
 | D.R.I.L.L. - Dynamix VR | 81743 | [81743-d-r-i-l-l-dynamix-vr.json](./81743-d-r-i-l-l-dynamix-vr.json) |
 | D.R.O.N.E.: The Game | 113082 | [113082-d-r-o-n-e-the-game.json](./113082-d-r-o-n-e-the-game.json) |
@@ -14702,6 +14703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonfist Limitless | 256455 | [256455-dragonfist-limitless.json](./256455-dragonfist-limitless.json) |
 | Dragonflight | 12056 | [12056-dragonflight.json](./12056-dragonflight.json) |
 | Dragonflight | 34826 | [34826-dragonflight.json](./34826-dragonflight.json) |
+| Dragonfly | 354900 | [354900-dragonfly.json](./354900-dragonfly.json) |
 | Dragonfly | 97469 | [97469-dragonfly.json](./97469-dragonfly.json) |
 | Dragonfly Chronicles | 105133 | [105133-dragonfly-chronicles.json](./105133-dragonfly-chronicles.json) |
 | Dragonfly II | 97467 | [97467-dragonfly-ii.json](./97467-dragonfly-ii.json) |
@@ -16937,6 +16939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem 3D: Megaton Edition | 20868 | [20868-duke-nukem-3d-megaton-edition.json](./20868-duke-nukem-3d-megaton-edition.json) |
 | Duke Nukem 3D: Plutonium Pak | 85709 | [85709-duke-nukem-3d-plutonium-pak.json](./85709-duke-nukem-3d-plutonium-pak.json) |
 | Duke Nukem 64 | 10680 | [10680-duke-nukem-64.json](./10680-duke-nukem-64.json) |
+| Duke Nukem 64 | 354728 | [354728-duke-nukem-64.json](./354728-duke-nukem-64.json) |
 | Duke Nukem Collection 1 | 252052 | [252052-duke-nukem-collection-1.json](./252052-duke-nukem-collection-1.json) |
 | Duke Nukem Collection 2 | 252053 | [252053-duke-nukem-collection-2.json](./252053-duke-nukem-collection-2.json) |
 | Duke Nukem Eternity | 376199 | [376199-duke-nukem-eternity.json](./376199-duke-nukem-eternity.json) |
