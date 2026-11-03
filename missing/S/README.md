@@ -5067,6 +5067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sen.Tur. | 166043 | [166043-sen-tur.json](./166043-sen-tur.json) |
 | Senalux: Level Pack 3 | 168755 | [168755-senalux-level-pack-3.json](./168755-senalux-level-pack-3.json) |
 | Senalux: Level Pack 4 | 168756 | [168756-senalux-level-pack-4.json](./168756-senalux-level-pack-4.json) |
+| Senara: The Sacrament | 384122 | [384122-senara-the-sacrament.json](./384122-senara-the-sacrament.json) |
 | Senbazuru | 288681 | [288681-senbazuru.json](./288681-senbazuru.json) |
 | Send | 133672 | [133672-send.json](./133672-send.json) |
 | Send & Defend | 421335 | [421335-send-and-defend.json](./421335-send-and-defend.json) |
@@ -12245,6 +12246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyward | 117099 | [117099-skyward.json](./117099-skyward.json) |
 | Skyward | 193447 | [193447-skyward.json](./193447-skyward.json) |
 | Skyward | 291940 | [291940-skyward.json](./291940-skyward.json) |
+| Skyward Bastion | 384125 | [384125-skyward-bastion.json](./384125-skyward-bastion.json) |
 | Skyward Battles | 334855 | [334855-skyward-battles.json](./334855-skyward-battles.json) |
 | Skyward Collapse | 9328 | [9328-skyward-collapse.json](./9328-skyward-collapse.json) |
 | Skyward Collapse: Nihon no Mura | 10871 | [10871-skyward-collapse-nihon-no-mura.json](./10871-skyward-collapse-nihon-no-mura.json) |
