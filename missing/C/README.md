@@ -2174,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravan: The Trade Road | 390563 | [390563-caravan-the-trade-road.json](./390563-caravan-the-trade-road.json) |
 | Caravana 2000 | 400367 | [400367-caravana-2000.json](./400367-caravana-2000.json) |
 | Caravaneer 2 | 102034 | [102034-caravaneer-2.json](./102034-caravaneer-2.json) |
+| CaraVanguard | 386902 | [386902-caravanguard.json](./386902-caravanguard.json) |
 | Caravanners | 320126 | [320126-caravanners.json](./320126-caravanners.json) |
 | Caravanserail | 33387 | [33387-caravanserail.json](./33387-caravanserail.json) |
 | Caravel: Deadly Rooms of Death | 69705 | [69705-caravel-deadly-rooms-of-death.json](./69705-caravel-deadly-rooms-of-death.json) |
@@ -10667,6 +10668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CodeWalkers | 158363 | [158363-codewalkers.json](./158363-codewalkers.json) |
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
 | CodeX | 276671 | [276671-codex.json](./276671-codex.json) |
+| Codex Arcana: Grimoire of Monsters | 386832 | [386832-codex-arcana-grimoire-of-monsters.json](./386832-codex-arcana-grimoire-of-monsters.json) |
 | Codex Combat | 392180 | [392180-codex-combat.json](./392180-codex-combat.json) |
 | Codex Lost | 235597 | [235597-codex-lost.json](./235597-codex-lost.json) |
 | Codex Mortis | 380942 | [380942-codex-mortis.json](./380942-codex-mortis.json) |
@@ -11982,6 +11984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come Towards Me. | 371129 | [371129-come-towards-me.json](./371129-come-towards-me.json) |
 | Come with Me | 147401 | [147401-come-with-me.json](./147401-come-with-me.json) |
 | Come-Frutas | 403313 | [403313-come-frutas.json](./403313-come-frutas.json) |
+| Comeback | 386758 | [386758-comeback.json](./386758-comeback.json) |
 | Comeback Golf | 181716 | [181716-comeback-golf.json](./181716-comeback-golf.json) |
 | Comer | 94225 | [94225-comer.json](./94225-comer.json) |
 | Comet | 153222 | [153222-comet.json](./153222-comet.json) |
@@ -15514,6 +15517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayola Colorful Creatures | 225659 | [225659-crayola-colorful-creatures.json](./225659-crayola-colorful-creatures.json) |
 | Crayola Colorful Journey | 51047 | [51047-crayola-colorful-journey.json](./51047-crayola-colorful-journey.json) |
 | Crayola Create and Play | 415260 | [415260-crayola-create-and-play.json](./415260-crayola-create-and-play.json) |
+| Crayola My First TV Play System | 386972 | [386972-crayola-my-first-tv-play-system.json](./386972-crayola-my-first-tv-play-system.json) |
 | Crayola Paint 'n Play Pony | 313287 | [313287-crayola-paint-n-play-pony.json](./313287-crayola-paint-n-play-pony.json) |
 | Crayola Scoot | 104980 | [104980-crayola-scoot.json](./104980-crayola-scoot.json) |
 | Crayola Scribble Scrubbie Pets | 355892 | [355892-crayola-scribble-scrubbie-pets.json](./355892-crayola-scribble-scrubbie-pets.json) |
@@ -19378,6 +19382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberjump | 264201 | [264201-cyberjump.json](./264201-cyberjump.json) |
 | Cyberkiller2049 | 320821 | [320821-cyberkiller2049.json](./320821-cyberkiller2049.json) |
 | CyberKitty: Neon Merge | 415858 | [415858-cyberkitty-neon-merge.json](./415858-cyberkitty-neon-merge.json) |
+| Cyberknight: Awakening | 386901 | [386901-cyberknight-awakening.json](./386901-cyberknight-awakening.json) |
 | Cyberlaser | 232508 | [232508-cyberlaser.json](./232508-cyberlaser.json) |
 | Cyberless III: Online | 129418 | [129418-cyberless-iii-online.json](./129418-cyberless-iii-online.json) |
 | Cyberlife | 424665 | [424665-cyberlife.json](./424665-cyberlife.json) |
