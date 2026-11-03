@@ -1481,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Lizard PC-8801 | 379358 | [379358-eggconsole-lizard-pc-8801.json](./379358-eggconsole-lizard-pc-8801.json) |
 | Eggconsole Lord Monarch PC-9801 | 364076 | [364076-eggconsole-lord-monarch-pc-9801.json](./364076-eggconsole-lord-monarch-pc-9801.json) |
 | Eggconsole Mad Rider MSX2 | 385113 | [385113-eggconsole-mad-rider-msx2.json](./385113-eggconsole-mad-rider-msx2.json) |
+| Eggconsole Manhattan Requiem: Angels Flying In The Dark PC-8801 | 356973 | [356973-eggconsole-manhattan-requiem-angels-flying-in-the-dark-pc-8801.json](./356973-eggconsole-manhattan-requiem-angels-flying-in-the-dark-pc-8801.json) |
 | Eggconsole Marchen Veil II PC-9801 | 403743 | [403743-eggconsole-marchen-veil-ii-pc-9801.json](./403743-eggconsole-marchen-veil-ii-pc-9801.json) |
 | Eggconsole Meurtre d'un Clown PC-8801 | 401113 | [401113-eggconsole-meurtre-dun-clown-pc-8801.json](./401113-eggconsole-meurtre-dun-clown-pc-8801.json) |
 | Eggconsole Mirai MSX2 | 406080 | [406080-eggconsole-mirai-msx2.json](./406080-eggconsole-mirai-msx2.json) |
@@ -2255,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental World | 311798 | [311798-elemental-world.json](./311798-elemental-world.json) |
 | Elemental World Part 1: Rise of the Guardians | 91443 | [91443-elemental-world-part-1-rise-of-the-guardians.json](./91443-elemental-world-part-1-rise-of-the-guardians.json) |
 | Elemental, Querido Gunso | 234252 | [234252-elemental-querido-gunso.json](./234252-elemental-querido-gunso.json) |
+| Elemental: Reforged | 357122 | [357122-elemental-reforged.json](./357122-elemental-reforged.json) |
 | Elemental: War of Magic | 20451 | [20451-elemental-war-of-magic.json](./20451-elemental-war-of-magic.json) |
 | Elementalia the Invasion | 114661 | [114661-elementalia-the-invasion.json](./114661-elementalia-the-invasion.json) |
 | Elementalism | 269464 | [269464-elementalism.json](./269464-elementalism.json) |
@@ -3259,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EmyLiveShow: Dangers & Mysteries Tale | 311055 | [311055-emyliveshow-dangers-and-mysteries-tale.json](./311055-emyliveshow-dangers-and-mysteries-tale.json) |
 | EmyLiveShow: Demons and Mistresses Tale | 385111 | [385111-emyliveshow-demons-and-mistresses-tale.json](./385111-emyliveshow-demons-and-mistresses-tale.json) |
 | EmyLiveShow: Hentai Puzzle Game | 264774 | [264774-emyliveshow-hentai-puzzle-game.json](./264774-emyliveshow-hentai-puzzle-game.json) |
+| EmyLiveShow: King of Desires | 356959 | [356959-emyliveshow-king-of-desires.json](./356959-emyliveshow-king-of-desires.json) |
 | Emzombed | 267473 | [267473-emzombed.json](./267473-emzombed.json) |
 | En Campaña | 262267 | [262267-en-campana.json](./262267-en-campana.json) |
 | En Passant | 234059 | [234059-en-passant.json](./234059-en-passant.json) |
@@ -5153,6 +5156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game: R00m 02 | 334094 | [334094-escape-game-r00m-02.json](./334094-escape-game-r00m-02.json) |
 | Escape Game: The Old Folk House | 288312 | [288312-escape-game-the-old-folk-house.json](./288312-escape-game-the-old-folk-house.json) |
 | Escape Game:The Kitty The Vacant Lot | 351229 | [351229-escape-game-the-kitty-the-vacant-lot.json](./351229-escape-game-the-kitty-the-vacant-lot.json) |
+| Escape Game:The Odd Crime Scene | 356977 | [356977-escape-game-the-odd-crime-scene.json](./356977-escape-game-the-odd-crime-scene.json) |
 | Escape Goat 2 | 8252 | [8252-escape-goat-2.json](./8252-escape-goat-2.json) |
 | Escape Goat: Azuma Eiji no Enzai | 395464 | [395464-escape-goat-azuma-eiji-no-enzai.json](./395464-escape-goat-azuma-eiji-no-enzai.json) |
 | Escape Halloween Forest | 226518 | [226518-escape-halloween-forest.json](./226518-escape-halloween-forest.json) |
