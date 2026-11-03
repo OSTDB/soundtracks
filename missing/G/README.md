@@ -4699,6 +4699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glingdom | 317022 | [317022-glingdom.json](./317022-glingdom.json) |
 | Glint Glitters | 304119 | [304119-glint-glitters.json](./304119-glint-glitters.json) |
 | Glint's Trial | 356156 | [356156-glints-trial.json](./356156-glints-trial.json) |
+| Glintland | 355293 | [355293-glintland.json](./355293-glintland.json) |
 | Gliont Lights | 388260 | [388260-gliont-lights.json](./388260-gliont-lights.json) |
 | Glista | 84045 | [84045-glista.json](./84045-glista.json) |
 | Glisten to Your Heart: The Courage Within You | 170564 | [170564-glisten-to-your-heart-the-courage-within-you.json](./170564-glisten-to-your-heart-the-courage-within-you.json) |
