@@ -3897,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell O Corn | 223306 | [223306-hell-o-corn.json](./223306-hell-o-corn.json) |
 | Hell O’ Halo | 412473 | [412473-hell-o-halo.json](./412473-hell-o-halo.json) |
 | Hell of a Birthday | 338614 | [338614-hell-of-a-birthday.json](./338614-hell-of-a-birthday.json) |
+| Hell of a Bullet | 394284 | [394284-hell-of-a-bullet.json](./394284-hell-of-a-bullet.json) |
 | Hell of a marriage | 178503 | [178503-hell-of-a-marriage.json](./178503-hell-of-a-marriage.json) |
 | Hell of an Office | 150002 | [150002-hell-of-an-office.json](./150002-hell-of-an-office.json) |
 | Hell of Fear: Mind Breach | 361595 | [361595-hell-of-fear-mind-breach.json](./361595-hell-of-fear-mind-breach.json) |
@@ -7998,6 +7999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ho-Hop! | 368973 | [368973-ho-hop.json](./368973-ho-hop.json) |
 | Ho-K | 180470 | [180470-ho-k.json](./180470-ho-k.json) |
 | Ho'omana'o Mau: A Somber Daydream | 400216 | [400216-hoomanao-mau-a-somber-daydream.json](./400216-hoomanao-mau-a-somber-daydream.json) |
+| Hoa 2 | 394282 | [394282-hoa-2.json](./394282-hoa-2.json) |
 | Hoard | 7402 | [7402-hoard.json](./7402-hoard.json) |
 | Hoard Defender VR | 346371 | [346371-hoard-defender-vr.json](./346371-hoard-defender-vr.json) |
 | Hoard It! | 184210 | [184210-hoard-it.json](./184210-hoard-it.json) |
