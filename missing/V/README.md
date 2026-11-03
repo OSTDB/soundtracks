@@ -2927,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivaland: Dream House | 268932 | [268932-vivaland-dream-house.json](./268932-vivaland-dream-house.json) |
 | Vivaldia | 140477 | [140477-vivaldia.json](./140477-vivaldia.json) |
 | Vivaldia 2 | 272358 | [272358-vivaldia-2.json](./272358-vivaldia-2.json) |
+| Vivarium | 354306 | [354306-vivarium.json](./354306-vivarium.json) |
 | Vivarium: Summer Vacay Update | 354376 | [354376-vivarium-summer-vacay-update.json](./354376-vivarium-summer-vacay-update.json) |
 | Vivat Rex | 235674 | [235674-vivat-rex.json](./235674-vivat-rex.json) |
 | Vivat Sloboda | 283608 | [283608-vivat-sloboda.json](./283608-vivat-sloboda.json) |
