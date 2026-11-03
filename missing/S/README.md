@@ -3976,6 +3976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seal Electric Railway | 147668 | [147668-seal-electric-railway.json](./147668-seal-electric-railway.json) |
 | Seal Game's | 389608 | [389608-seal-games.json](./389608-seal-games.json) |
 | Seal Guardian | 76392 | [76392-seal-guardian.json](./76392-seal-guardian.json) |
+| Seal Hunter | 360325 | [360325-seal-hunter.json](./360325-seal-hunter.json) |
 | Seal M | 267580 | [267580-seal-m.json](./267580-seal-m.json) |
 | Seal of Evil | 14586 | [14586-seal-of-evil.json](./14586-seal-of-evil.json) |
 | Seal of Fate | 369855 | [369855-seal-of-fate.json](./369855-seal-of-fate.json) |
@@ -16137,6 +16138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Someone's Outside | 303174 | [303174-someones-outside.json](./303174-someones-outside.json) |
 | Someplace Else | 136387 | [136387-someplace-else.json](./136387-someplace-else.json) |
 | Somer Assault | 44341 | [44341-somer-assault.json](./44341-somer-assault.json) |
+| Something | 360312 | [360312-something.json](./360312-something.json) |
 | Something a Little Super | 352844 | [352844-something-a-little-super.json](./352844-something-a-little-super.json) |
 | Something Amazing Room | 235411 | [235411-something-amazing-room.json](./235411-something-amazing-room.json) |
 | Something Ate My Alien | 116749 | [116749-something-ate-my-alien.json](./116749-something-ate-my-alien.json) |
@@ -17263,6 +17265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic.Exe 2: The Game | 341904 | [341904-sonic-exe-2-the-game.json](./341904-sonic-exe-2-the-game.json) |
 | Sonic.EXE One Last Round | 307226 | [307226-sonic-exe-one-last-round.json](./307226-sonic-exe-one-last-round.json) |
 | Sonic.exe Plus! | 412839 | [412839-sonic-exe-plus.json](./412839-sonic-exe-plus.json) |
+| Sonic.Exe The Destiny | 360307 | [360307-sonic-exe-the-destiny.json](./360307-sonic-exe-the-destiny.json) |
 | Sonic.exe: Dark Souls | 369107 | [369107-sonic-exe-dark-souls.json](./369107-sonic-exe-dark-souls.json) |
 | Sonic.exe: Dark Souls Remake | 369098 | [369098-sonic-exe-dark-souls-remake.json](./369098-sonic-exe-dark-souls-remake.json) |
 | Sonic.EXE: The Assault | 321068 | [321068-sonic-exe-the-assault.json](./321068-sonic-exe-the-assault.json) |
@@ -18707,6 +18710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19984,6 +19988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Boat | 245148 | [245148-speed-boat.json](./245148-speed-boat.json) |
 | Speed Box | 105132 | [105132-speed-box.json](./105132-speed-box.json) |
 | Speed Brawl | 101460 | [101460-speed-brawl.json](./101460-speed-brawl.json) |
+| Speed Bubble | 360287 | [360287-speed-bubble.json](./360287-speed-bubble.json) |
 | Speed Builder | 117672 | [117672-speed-builder.json](./117672-speed-builder.json) |
 | Speed Busters: American Highways | 46531 | [46531-speed-busters-american-highways.json](./46531-speed-busters-american-highways.json) |
 | Speed Car Fighter | 99036 | [99036-speed-car-fighter.json](./99036-speed-car-fighter.json) |
@@ -29243,6 +29248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bowling | 3344 | [3344-super-bowling.json](./3344-super-bowling.json) |
 | Super Bowling | 71864 | [71864-super-bowling.json](./71864-super-bowling.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
+| Super Box Box | 360291 | [360291-super-box-box.json](./360291-super-box-box.json) |
 | Super Box Delivery: Beyond the Horizon | 252698 | [252698-super-box-delivery-beyond-the-horizon.json](./252698-super-box-delivery-beyond-the-horizon.json) |
 | Super Boxing Championship! | 170256 | [170256-super-boxing-championship.json](./170256-super-boxing-championship.json) |
 | Super BoxMan Ultra | 75270 | [75270-super-boxman-ultra.json](./75270-super-boxman-ultra.json) |
