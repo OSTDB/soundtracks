@@ -10858,6 +10858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gut Eater | 350956 | [350956-gut-eater.json](./350956-gut-eater.json) |
 | Gut Fear Boundary | 393377 | [393377-gut-fear-boundary.json](./393377-gut-fear-boundary.json) |
 | Gutasaga | 257439 | [257439-gutasaga.json](./257439-gutasaga.json) |
+| Gutbuster | 351926 | [351926-gutbuster.json](./351926-gutbuster.json) |
 | Gute Zeiten Schlechte Zeiten Quiz | 281539 | [281539-gute-zeiten-schlechte-zeiten-quiz.json](./281539-gute-zeiten-schlechte-zeiten-quiz.json) |
 | Gütertrennung | 86017 | [86017-gutertrennung.json](./86017-gutertrennung.json) |
 | Gutfarm | 348700 | [348700-gutfarm.json](./348700-gutfarm.json) |
