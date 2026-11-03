@@ -2179,6 +2179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Empire | 297816 | [297816-elemental-empire.json](./297816-elemental-empire.json) |
 | Elemental Escape | 264729 | [264729-elemental-escape.json](./264729-elemental-escape.json) |
 | Elemental Exiles | 295812 | [295812-elemental-exiles.json](./295812-elemental-exiles.json) |
+| Elemental Exogear | 398137 | [398137-elemental-exogear.json](./398137-elemental-exogear.json) |
 | Elemental Force | 274062 | [274062-elemental-force.json](./274062-elemental-force.json) |
 | Elemental Gearbolt | 9137 | [9137-elemental-gearbolt.json](./9137-elemental-gearbolt.json) |
 | Elemental Gelade: Tozasareshi Uta | 49413 | [49413-elemental-gelade-tozasareshi-uta.json](./49413-elemental-gelade-tozasareshi-uta.json) |
@@ -3669,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endoparasitic VR | 271633 | [271633-endoparasitic-vr.json](./271633-endoparasitic-vr.json) |
 | Endorfire Tower Defense | 164760 | [164760-endorfire-tower-defense.json](./164760-endorfire-tower-defense.json) |
 | Endorlight: Deluxe Edition | 52948 | [52948-endorlight-deluxe-edition.json](./52948-endorlight-deluxe-edition.json) |
+| Endou-san | 398090 | [398090-endou-san.json](./398090-endou-san.json) |
 | Endquest | 268763 | [268763-endquest.json](./268763-endquest.json) |
 | Endragon | 192706 | [192706-endragon.json](./192706-endragon.json) |
 | Endrays | 266860 | [266860-endrays.json](./266860-endrays.json) |
