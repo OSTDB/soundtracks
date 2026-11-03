@@ -10960,6 +10960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MILF Next Door | 278877 | [278877-milf-next-door.json](./278877-milf-next-door.json) |
 | MILF Next Door 2: Hijabi Mama | 279226 | [279226-milf-next-door-2-hijabi-mama.json](./279226-milf-next-door-2-hijabi-mama.json) |
 | Milf Puzzle | 382483 | [382483-milf-puzzle.json](./382483-milf-puzzle.json) |
+| Milf Sex Prison: Sector X | 385237 | [385237-milf-sex-prison-sector-x.json](./385237-milf-sex-prison-sector-x.json) |
 | Milf Solitaire: Lust Collector | 400316 | [400316-milf-solitaire-lust-collector.json](./400316-milf-solitaire-lust-collector.json) |
 | Milf Toys | 193663 | [193663-milf-toys.json](./193663-milf-toys.json) |
 | Milf Toys 2 | 195244 | [195244-milf-toys-2.json](./195244-milf-toys-2.json) |
@@ -14322,6 +14323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoneySeize | 97519 | [97519-moneyseize.json](./97519-moneyseize.json) |
 | Mong Jung Mong | 166568 | [166568-mong-jung-mong.json](./166568-mong-jung-mong.json) |
 | Mongil: Star Dive | 347667 | [347667-mongil-star-dive.json](./347667-mongil-star-dive.json) |
+| MonGirl Conquest | 385038 | [385038-mongirl-conquest.json](./385038-mongirl-conquest.json) |
 | MonGirl Expedition | 202525 | [202525-mongirl-expedition.json](./202525-mongirl-expedition.json) |
 | MonGirlTile | 113305 | [113305-mongirltile.json](./113305-mongirltile.json) |
 | Mongol | 227967 | [227967-mongol.json](./227967-mongol.json) |
