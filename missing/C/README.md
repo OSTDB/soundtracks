@@ -936,8 +936,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camazotz no Shuugou | 394764 | [394764-camazotz-no-shuugou.json](./394764-camazotz-no-shuugou.json) |
 | Camazotz no Tanjou | 394692 | [394692-camazotz-no-tanjou.json](./394692-camazotz-no-tanjou.json) |
 | Cambell’s Oddity Box | 387368 | [387368-cambell-s-oddity-box.json](./387368-cambell-s-oddity-box.json) |
+| Cambion | 383915 | [383915-cambion.json](./383915-cambion.json) |
 | Cambo: Webbed Fist | 307126 | [307126-cambo-webbed-fist.json](./307126-cambo-webbed-fist.json) |
 | Cambria | 344349 | [344349-cambria.json](./344349-cambria.json) |
+| Cambria Sword: Another Cry | 384131 | [384131-cambria-sword-another-cry.json](./384131-cambria-sword-another-cry.json) |
 | Cambria Sword: Life of Wonder | 105541 | [105541-cambria-sword-life-of-wonder.json](./105541-cambria-sword-life-of-wonder.json) |
 | Cambrian Crawl | 404981 | [404981-cambrian-crawl.json](./404981-cambrian-crawl.json) |
 | Cambrian Dawn | 226280 | [226280-cambrian-dawn.json](./226280-cambrian-dawn.json) |
@@ -1755,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Firebeard and the Bay of Crows | 72496 | [72496-captain-firebeard-and-the-bay-of-crows.json](./72496-captain-firebeard-and-the-bay-of-crows.json) |
 | Captain Firehawk and the Laser Love Situation | 215495 | [215495-captain-firehawk-and-the-laser-love-situation.json](./215495-captain-firehawk-and-the-laser-love-situation.json) |
 | Captain Fizz Meets the Blaster-Trons | 14376 | [14376-captain-fizz-meets-the-blaster-trons.json](./14376-captain-fizz-meets-the-blaster-trons.json) |
+| Captain Fly and Sexy Girls at the Night Club | 383914 | [383914-captain-fly-and-sexy-girls-at-the-night-club.json](./383914-captain-fly-and-sexy-girls-at-the-night-club.json) |
 | Captain Fly and Sexy Students | 384874 | [384874-captain-fly-and-sexy-students.json](./384874-captain-fly-and-sexy-students.json) |
 | Captain Flying Robot | 90666 | [90666-captain-flying-robot.json](./90666-captain-flying-robot.json) |
 | Captain Forever | 29046 | [29046-captain-forever.json](./29046-captain-forever.json) |
@@ -2423,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardmare: Descent | 398444 | [398444-cardmare-descent.json](./398444-cardmare-descent.json) |
 | CardMatch | 116951 | [116951-cardmatch.json](./116951-cardmatch.json) |
 | Cardmon | 200977 | [200977-cardmon.json](./200977-cardmon.json) |
+| Cardnal Desires | 383913 | [383913-cardnal-desires.json](./383913-cardnal-desires.json) |
 | Cardnarok: Raid with Gods | 132232 | [132232-cardnarok-raid-with-gods.json](./132232-cardnarok-raid-with-gods.json) |
 | Cardness | 338688 | [338688-cardness.json](./338688-cardness.json) |
 | Cardoom | 386985 | [386985-cardoom.json](./386985-cardoom.json) |
@@ -4041,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catapult | 180599 | [180599-catapult.json](./180599-catapult.json) |
 | Catapult Battle Simulator! | 122399 | [122399-catapult-battle-simulator.json](./122399-catapult-battle-simulator.json) |
 | Catapult for Hire | 63002 | [63002-catapult-for-hire.json](./63002-catapult-for-hire.json) |
+| Catapult Girls | 383912 | [383912-catapult-girls.json](./383912-catapult-girls.json) |
 | Catapulteers | 404171 | [404171-catapulteers.json](./404171-catapulteers.json) |
 | Catapulture | 408024 | [408024-catapulture.json](./408024-catapulture.json) |
 | Cataract: Autobattler Roguelite Deckbuilder | 403200 | [403200-cataract-autobattler-roguelite-deckbuilder.json](./403200-cataract-autobattler-roguelite-deckbuilder.json) |
@@ -5581,6 +5586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Battle | 57063 | [57063-chaos-battle.json](./57063-chaos-battle.json) |
 | Chaos Battle League | 69350 | [69350-chaos-battle-league.json](./69350-chaos-battle-league.json) |
 | Chaos Battle Universe | 148865 | [148865-chaos-battle-universe.json](./148865-chaos-battle-universe.json) |
+| Chaos Beach: A Virgin Boy’s Pheromone-Fueled Summer of Lust! | 383910 | [383910-chaos-beach-a-virgin-boy-s-pheromone-fueled-summer-of-lust.json](./383910-chaos-beach-a-virgin-boy-s-pheromone-fueled-summer-of-lust.json) |
 | Chaos Brave Village | 298693 | [298693-chaos-brave-village.json](./298693-chaos-brave-village.json) |
 | Chaos Break | 46084 | [46084-chaos-break.json](./46084-chaos-break.json) |
 | Chaos Breaker | 76597 | [76597-chaos-breaker.json](./76597-chaos-breaker.json) |
@@ -5629,6 +5635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Heroes Online | 286427 | [286427-chaos-heroes-online.json](./286427-chaos-heroes-online.json) |
 | Chaos in Aisle Seven | 223263 | [223263-chaos-in-aisle-seven.json](./223263-chaos-in-aisle-seven.json) |
 | Chaos In Andromeda | 15873 | [15873-chaos-in-andromeda.json](./15873-chaos-in-andromeda.json) |
+| Chaos in the Harem | 383909 | [383909-chaos-in-the-harem.json](./383909-chaos-in-the-harem.json) |
 | Chaos Islands | 296395 | [296395-chaos-islands.json](./296395-chaos-islands.json) |
 | Chaos Journey | 295021 | [295021-chaos-journey.json](./295021-chaos-journey.json) |
 | Chaos Law | 196422 | [196422-chaos-law.json](./196422-chaos-law.json) |
@@ -10412,6 +10419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coca-Cola Happiness Factory - Mortar Men | 67815 | [67815-coca-cola-happiness-factory-mortar-men.json](./67815-coca-cola-happiness-factory-mortar-men.json) |
 | Coca-Cola Lawnmower | 329722 | [329722-coca-cola-lawnmower.json](./329722-coca-cola-lawnmower.json) |
 | Cocaine Dealer | 369903 | [369903-cocaine-dealer.json](./369903-cocaine-dealer.json) |
+| Cocaine Diesel | 384237 | [384237-cocaine-diesel.json](./384237-cocaine-diesel.json) |
 | Cocaine McBain | 185007 | [185007-cocaine-mcbain.json](./185007-cocaine-mcbain.json) |
 | Cocco Game | 145904 | [145904-cocco-game.json](./145904-cocco-game.json) |
 | Cochonnet | 382750 | [382750-cochonnet.json](./382750-cochonnet.json) |
@@ -11572,6 +11580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Advent 4 Pack | 227467 | [227467-coloring-pixels-advent-4-pack.json](./227467-coloring-pixels-advent-4-pack.json) |
 | Coloring Pixels: Advent 5 Pack | 277438 | [277438-coloring-pixels-advent-5-pack.json](./277438-coloring-pixels-advent-5-pack.json) |
 | Coloring Pixels: Advent 6 Pack | 351619 | [351619-coloring-pixels-advent-6-pack.json](./351619-coloring-pixels-advent-6-pack.json) |
+| Coloring Pixels: Advent 7 | 383922 | [383922-coloring-pixels-advent-7.json](./383922-coloring-pixels-advent-7.json) |
 | Coloring Pixels: Advent Pack | 162611 | [162611-coloring-pixels-advent-pack.json](./162611-coloring-pixels-advent-pack.json) |
 | Coloring Pixels: Amusement Park Pack | 162588 | [162588-coloring-pixels-amusement-park-pack.json](./162588-coloring-pixels-amusement-park-pack.json) |
 | Coloring Pixels: Animals Pack | 162598 | [162598-coloring-pixels-animals-pack.json](./162598-coloring-pixels-animals-pack.json) |
@@ -11595,6 +11604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Farm Pack | 162613 | [162613-coloring-pixels-farm-pack.json](./162613-coloring-pixels-farm-pack.json) |
 | Coloring Pixels: Flag Pack | 162607 | [162607-coloring-pixels-flag-pack.json](./162607-coloring-pixels-flag-pack.json) |
 | Coloring Pixels: Flowers Pack | 162591 | [162591-coloring-pixels-flowers-pack.json](./162591-coloring-pixels-flowers-pack.json) |
+| Coloring Pixels: Folklore | 383924 | [383924-coloring-pixels-folklore.json](./383924-coloring-pixels-folklore.json) |
 | Coloring Pixels: Food Pack | 162602 | [162602-coloring-pixels-food-pack.json](./162602-coloring-pixels-food-pack.json) |
 | Coloring Pixels: Fun and Games Pack | 277968 | [277968-coloring-pixels-fun-and-games-pack.json](./277968-coloring-pixels-fun-and-games-pack.json) |
 | Coloring Pixels: Gems and Minerals Pack | 242390 | [242390-coloring-pixels-gems-and-minerals-pack.json](./242390-coloring-pixels-gems-and-minerals-pack.json) |
@@ -11652,6 +11662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Vistas Pack 3 | 305513 | [305513-coloring-pixels-vistas-pack-3.json](./305513-coloring-pixels-vistas-pack-3.json) |
 | Coloring Pixels: Winter Holidays Pack | 162589 | [162589-coloring-pixels-winter-holidays-pack.json](./162589-coloring-pixels-winter-holidays-pack.json) |
 | Coloring Pixels: Zodiac Pack | 351625 | [351625-coloring-pixels-zodiac-pack.json](./351625-coloring-pixels-zodiac-pack.json) |
+| Coloring Pixels: Zoom Out | 383920 | [383920-coloring-pixels-zoom-out.json](./383920-coloring-pixels-zoom-out.json) |
 | Coloring Voxels: Advent Pack | 384090 | [384090-coloring-voxels-advent-pack.json](./384090-coloring-voxels-advent-pack.json) |
 | Coloring Voxels: Computer Pack | 384093 | [384093-coloring-voxels-computer-pack.json](./384093-coloring-voxels-computer-pack.json) |
 | Coloring Voxels: Crazy Golf Pack | 384089 | [384089-coloring-voxels-crazy-golf-pack.json](./384089-coloring-voxels-crazy-golf-pack.json) |
@@ -15887,6 +15898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Prisoner | 243579 | [243579-crazy-prisoner.json](./243579-crazy-prisoner.json) |
 | Crazy Projectile | 143966 | [143966-crazy-projectile.json](./143966-crazy-projectile.json) |
 | Crazy Puzzle | 358935 | [358935-crazy-puzzle.json](./358935-crazy-puzzle.json) |
+| Crazy Puzzle: Cosplay | 383919 | [383919-crazy-puzzle-cosplay.json](./383919-crazy-puzzle-cosplay.json) |
 | Crazy Quader | 91587 | [91587-crazy-quader.json](./91587-crazy-quader.json) |
 | Crazy Qualle | 393212 | [393212-crazy-qualle.json](./393212-crazy-qualle.json) |
 | Crazy Quiz | 64845 | [64845-crazy-quiz.json](./64845-crazy-quiz.json) |
