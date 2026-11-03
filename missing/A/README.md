@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Simple Shooter | 179578 | [179578-a-simple-shooter.json](./179578-a-simple-shooter.json) |
 | A Simple Square | 236226 | [236226-a-simple-square.json](./236226-a-simple-square.json) |
 | A Simple Survey | 176752 | [176752-a-simple-survey.json](./176752-a-simple-survey.json) |
+| A Simple Twist of Fae | 380142 | [380142-a-simple-twist-of-fae.json](./380142-a-simple-twist-of-fae.json) |
 | A Simpler World | 407758 | [407758-a-simpler-world.json](./407758-a-simpler-world.json) |
 | A Sinful Camp | 173387 | [173387-a-sinful-camp.json](./173387-a-sinful-camp.json) |
 | A Sing-Along Surprise Party | 293982 | [293982-a-sing-along-surprise-party.json](./293982-a-sing-along-surprise-party.json) |
@@ -11018,6 +11019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocripha/0 Platina Disk | 204560 | [204560-apocripha-0-platina-disk.json](./204560-apocripha-0-platina-disk.json) |
 | Apocryph | 54814 | [54814-apocryph.json](./54814-apocryph.json) |
 | Apocrypha | 171416 | [171416-apocrypha.json](./171416-apocrypha.json) |
+| Apocryphoid | 380136 | [380136-apocryphoid.json](./380136-apocryphoid.json) |
 | Apogea | 311753 | [311753-apogea.json](./311753-apogea.json) |
 | Apogee | 387719 | [387719-apogee.json](./387719-apogee.json) |
 | Apogee Games: Companion CD-ROM | 119059 | [119059-apogee-games-companion-cd-rom.json](./119059-apogee-games-companion-cd-rom.json) |
