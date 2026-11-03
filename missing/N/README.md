@@ -2093,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis '90 Kai | 314677 | [314677-nemesis-90-kai.json](./314677-nemesis-90-kai.json) |
 | Nemesis 2 | 1480 | [1480-nemesis-2.json](./1480-nemesis-2.json) |
 | Nemesis 3: The Eve of Destruction | 1479 | [1479-nemesis-3-the-eve-of-destruction.json](./1479-nemesis-3-the-eve-of-destruction.json) |
+| Nemesis Galaxy at War | 364785 | [364785-nemesis-galaxy-at-war.json](./364785-nemesis-galaxy-at-war.json) |
 | Nemesis Macana | 364630 | [364630-nemesis-macana.json](./364630-nemesis-macana.json) |
 | Nemesis of the Roman Empire | 10593 | [10593-nemesis-of-the-roman-empire.json](./10593-nemesis-of-the-roman-empire.json) |
 | Nemesis Perspective | 30982 | [30982-nemesis-perspective.json](./30982-nemesis-perspective.json) |
