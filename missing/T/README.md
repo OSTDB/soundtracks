@@ -9096,6 +9096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Descendant: Season 3 | 347660 | [347660-the-first-descendant-season-3.json](./347660-the-first-descendant-season-3.json) |
 | The First Descendant: Season 4 | 408829 | [408829-the-first-descendant-season-4.json](./408829-the-first-descendant-season-4.json) |
 | The First Explorers | 263100 | [263100-the-first-explorers.json](./263100-the-first-explorers.json) |
+| The First Foreigner | 368203 | [368203-the-first-foreigner.json](./368203-the-first-foreigner.json) |
 | The First Friend | 156854 | [156854-the-first-friend.json](./156854-the-first-friend.json) |
 | The First Funky Fighter | 63295 | [63295-the-first-funky-fighter.json](./63295-the-first-funky-fighter.json) |
 | The First Greek Odyssey | 175843 | [175843-the-first-greek-odyssey.json](./175843-the-first-greek-odyssey.json) |
@@ -10006,6 +10007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hall of Epiphany | 276379 | [276379-the-hall-of-epiphany.json](./276379-the-hall-of-epiphany.json) |
 | The Halley Project: A Mission in Our Solar System | 12607 | [12607-the-halley-project-a-mission-in-our-solar-system.json](./12607-the-halley-project-a-mission-in-our-solar-system.json) |
 | The Halloween | 376175 | [376175-the-halloween.json](./376175-the-halloween.json) |
+| The Halloween Incident | 368222 | [368222-the-halloween-incident.json](./368222-the-halloween-incident.json) |
 | The Halloween Party | 316470 | [316470-the-halloween-party.json](./316470-the-halloween-party.json) |
 | The Halloween Story | 219170 | [219170-the-halloween-story.json](./219170-the-halloween-story.json) |
 | The Hallway: Escape Room | 264608 | [264608-the-hallway-escape-room.json](./264608-the-hallway-escape-room.json) |
@@ -16394,6 +16396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story Goes On Chapter 4 | 337691 | [337691-the-story-goes-on-chapter-4.json](./337691-the-story-goes-on-chapter-4.json) |
 | The Story Goes On Chapter 5 | 337693 | [337693-the-story-goes-on-chapter-5.json](./337693-the-story-goes-on-chapter-5.json) |
 | The Story Goes On Chapter 6 | 337694 | [337694-the-story-goes-on-chapter-6.json](./337694-the-story-goes-on-chapter-6.json) |
+| The Story Of | 368197 | [368197-the-story-of.json](./368197-the-story-of.json) |
 | The Story of a World | 216154 | [216154-the-story-of-a-world.json](./216154-the-story-of-a-world.json) |
 | The Story of Archer | 195901 | [195901-the-story-of-archer.json](./195901-the-story-of-archer.json) |
 | The Story of Barker | 220815 | [220815-the-story-of-barker.json](./220815-the-story-of-barker.json) |
@@ -17556,6 +17559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unsolved | 418549 | [418549-the-unsolved.json](./418549-the-unsolved.json) |
 | The Unsolved | 66216 | [66216-the-unsolved.json](./66216-the-unsolved.json) |
 | The Unspoken | 25908 | [25908-the-unspoken.json](./25908-the-unspoken.json) |
+| The Unstoppables | 368176 | [368176-the-unstoppables.json](./368176-the-unstoppables.json) |
 | The Unstoppables 2 | 368245 | [368245-the-unstoppables-2.json](./368245-the-unstoppables-2.json) |
 | The Untamed | 193893 | [193893-the-untamed.json](./193893-the-untamed.json) |
 | The Untethered Void | 312176 | [312176-the-untethered-void.json](./312176-the-untethered-void.json) |
@@ -18707,6 +18711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There is a Genie in my Szechuan Sauce: Remastered | 228372 | [228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json](./228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json) |
 | There is a Picture | 146083 | [146083-there-is-a-picture.json](./146083-there-is-a-picture.json) |
 | There is a Secret Tunnel to the Center of the Earth | 418190 | [418190-there-is-a-secret-tunnel-to-the-center-of-the-earth.json](./418190-there-is-a-secret-tunnel-to-the-center-of-the-earth.json) |
+| There Is More | 368187 | [368187-there-is-more.json](./368187-there-is-more.json) |
 | There is Never Enough Space! | 181617 | [181617-there-is-never-enough-space.json](./181617-there-is-never-enough-space.json) |
 | There Is No Escape | 396213 | [396213-there-is-no-escape.json](./396213-there-is-no-escape.json) |
 | There Is No Fangame | 406811 | [406811-there-is-no-fangame.json](./406811-there-is-no-fangame.json) |
