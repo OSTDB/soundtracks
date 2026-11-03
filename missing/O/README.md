@@ -4544,6 +4544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouma ga Toki: Kakuriyo no Enishi | 131909 | [131909-ouma-ga-toki-kakuriyo-no-enishi.json](./131909-ouma-ga-toki-kakuriyo-no-enishi.json) |
 | Oumagatoki: Kaidan Romance | 219135 | [219135-oumagatoki-kaidan-romance.json](./219135-oumagatoki-kaidan-romance.json) |
 | Oumori Charisou DX | 98303 | [98303-oumori-charisou-dx.json](./98303-oumori-charisou-dx.json) |
+| Ounba | 391451 | [391451-ounba.json](./391451-ounba.json) |
 | OuO | 174781 | [174781-ouo.json](./174781-ouo.json) |
 | Our Adventure Time | 178549 | [178549-our-adventure-time.json](./178549-our-adventure-time.json) |
 | Our Adventurer Guild | 212060 | [212060-our-adventurer-guild.json](./212060-our-adventurer-guild.json) |
