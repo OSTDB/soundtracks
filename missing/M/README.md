@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machineboy Complete Collection | 154614 | [154614-machineboy-complete-collection.json](./154614-machineboy-complete-collection.json) |
 | MachineCraft | 34580 | [34580-machinecraft.json](./34580-machinecraft.json) |
 | Machineers | 35621 | [35621-machineers.json](./35621-machineers.json) |
+| Machinefall | 388088 | [388088-machinefall.json](./388088-machinefall.json) |
 | Machinegun Geometry | 68756 | [68756-machinegun-geometry.json](./68756-machinegun-geometry.json) |
 | Machinegun Geometry: The Right Angle | 68757 | [68757-machinegun-geometry-the-right-angle.json](./68757-machinegun-geometry-the-right-angle.json) |
 | Machinegun Joe vs The Mafia | 394160 | [394160-machinegun-joe-vs-the-mafia.json](./394160-machinegun-joe-vs-the-mafia.json) |
@@ -5618,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
