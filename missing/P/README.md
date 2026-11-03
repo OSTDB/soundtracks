@@ -1620,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Toss Boss | 89623 | [89623-paper-toss-boss.json](./89623-paper-toss-boss.json) |
 | Paper Toss VR | 29186 | [29186-paper-toss-vr.json](./29186-paper-toss-vr.json) |
 | Paper Toss: World Tour | 64299 | [64299-paper-toss-world-tour.json](./64299-paper-toss-world-tour.json) |
+| Paper Traces Whisper | 372714 | [372714-paper-traces-whisper.json](./372714-paper-traces-whisper.json) |
 | Paper Trail | 142561 | [142561-paper-trail.json](./142561-paper-trail.json) |
 | Paper Trail | 426435 | [426435-paper-trail.json](./426435-paper-trail.json) |
 | Paper Trails | 196964 | [196964-paper-trails.json](./196964-paper-trails.json) |
@@ -4262,6 +4263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfectly Balanced | 175073 | [175073-perfectly-balanced.json](./175073-perfectly-balanced.json) |
 | Perfectly Folded | 421566 | [421566-perfectly-folded.json](./421566-perfectly-folded.json) |
 | Perfectly Perilous Provisions | 135630 | [135630-perfectly-perilous-provisions.json](./135630-perfectly-perilous-provisions.json) |
+| Perfore the Perforien Request | 372416 | [372416-perfore-the-perforien-request.json](./372416-perfore-the-perforien-request.json) |
 | Performan | 40405 | [40405-performan.json](./40405-performan.json) |
 | Performer | 150341 | [150341-performer.json](./150341-performer.json) |
 | Performous | 63242 | [63242-performous.json](./63242-performous.json) |
@@ -17893,6 +17895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramids 2 | 85582 | [85582-pyramids-2.json](./85582-pyramids-2.json) |
 | Pyramids and Aliens: Escape Room | 295019 | [295019-pyramids-and-aliens-escape-room.json](./295019-pyramids-and-aliens-escape-room.json) |
 | Pyramids of Egypt | 100286 | [100286-pyramids-of-egypt.json](./100286-pyramids-of-egypt.json) |
+| Pyramids of Ra | 372408 | [372408-pyramids-of-ra.json](./372408-pyramids-of-ra.json) |
 | Pyramids of Ra | 49027 | [49027-pyramids-of-ra.json](./49027-pyramids-of-ra.json) |
 | PyramidValley: Reborn | 353395 | [353395-pyramidvalley-reborn.json](./353395-pyramidvalley-reborn.json) |
 | Pyraminx Solver | 87254 | [87254-pyraminx-solver.json](./87254-pyraminx-solver.json) |
