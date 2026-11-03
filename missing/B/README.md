@@ -1973,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandocracy | 415143 | [415143-bandocracy.json](./415143-bandocracy.json) |
 | BandRoll | 236294 | [236294-bandroll.json](./236294-bandroll.json) |
 | Bandwagon | 401202 | [401202-bandwagon.json](./401202-bandwagon.json) |
+| Bane and Valor | 371510 | [371510-bane-and-valor.json](./371510-bane-and-valor.json) |
 | Bane Murrain | 271080 | [271080-bane-murrain.json](./271080-bane-murrain.json) |
 | Bane of Oakenshade | 323581 | [323581-bane-of-oakenshade.json](./323581-bane-of-oakenshade.json) |
 | Bane: Dawn of the Lost | 358743 | [358743-bane-dawn-of-the-lost.json](./358743-bane-dawn-of-the-lost.json) |
@@ -8468,6 +8469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black | 159265 | [159265-black.json](./159265-black.json) |
 | Black & Bruised | 3819 | [3819-black-and-bruised.json](./3819-black-and-bruised.json) |
 | Black & White | 308 | [308-black-and-white.json](./308-black-and-white.json) |
+| Black & White | 371496 | [371496-black-and-white.json](./371496-black-and-white.json) |
 | Black & White | 376747 | [376747-black-and-white.json](./376747-black-and-white.json) |
 | Black & White 2 | 1921 | [1921-black-and-white-2.json](./1921-black-and-white-2.json) |
 | Black & White Bushido | 14387 | [14387-black-and-white-bushido.json](./14387-black-and-white-bushido.json) |
