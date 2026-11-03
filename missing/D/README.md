@@ -4854,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decline | 326202 | [326202-decline.json](./326202-decline.json) |
 | Decline | 405959 | [405959-decline.json](./405959-decline.json) |
 | Decline | 406895 | [406895-decline.json](./406895-decline.json) |
+| Decline's Drops: Shoes & Mirrors | 360318 | [360318-declines-drops-shoes-and-mirrors.json](./360318-declines-drops-shoes-and-mirrors.json) |
 | Declutterer | 410686 | [410686-declutterer.json](./410686-declutterer.json) |
 | Deco Deck | 247929 | [247929-deco-deck.json](./247929-deco-deck.json) |
 | Deco Tendances | 269689 | [269689-deco-tendances.json](./269689-deco-tendances.json) |
@@ -5902,6 +5903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune Paraphrase: Steamton Edition | 374683 | [374683-deltarune-paraphrase-steamton-edition.json](./374683-deltarune-paraphrase-steamton-edition.json) |
 | Deltarune Sakuya Battle | 347258 | [347258-deltarune-sakuya-battle.json](./347258-deltarune-sakuya-battle.json) |
 | Deltarune Wandering Makers: Pantheon of the Discarded | 330549 | [330549-deltarune-wandering-makers-pantheon-of-the-discarded.json](./330549-deltarune-wandering-makers-pantheon-of-the-discarded.json) |
+| Deltarune Yellow | 360308 | [360308-deltarune-yellow.json](./360308-deltarune-yellow.json) |
 | Deltarune: A Different Snowgrave | 326597 | [326597-deltarune-a-different-snowgrave.json](./326597-deltarune-a-different-snowgrave.json) |
 | Deltarune: Broken Destiny | 329950 | [329950-deltarune-broken-destiny.json](./329950-deltarune-broken-destiny.json) |
 | Deltarune: Chapter 1 - Noelle Edition | 335691 | [335691-deltarune-chapter-1-noelle-edition.json](./335691-deltarune-chapter-1-noelle-edition.json) |
@@ -8273,6 +8275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicetiny: The Lord of the Dice | 17739 | [17739-dicetiny-the-lord-of-the-dice.json](./17739-dicetiny-the-lord-of-the-dice.json) |
 | Dicetris | 403370 | [403370-dicetris.json](./403370-dicetris.json) |
 | Dicevaders | 386448 | [386448-dicevaders.json](./386448-dicevaders.json) |
+| Diceville | 360326 | [360326-diceville.json](./360326-diceville.json) |
 | Dicewars DS | 229135 | [229135-dicewars-ds.json](./229135-dicewars-ds.json) |
 | Dicewood | 340340 | [340340-dicewood.json](./340340-dicewood.json) |
 | Dicey Birdball | 224332 | [224332-dicey-birdball.json](./224332-dicey-birdball.json) |
@@ -16957,6 +16960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke: Nuclear Winter | 18498 | [18498-duke-nuclear-winter.json](./18498-duke-nuclear-winter.json) |
 | Duke: The Apocalypse | 35522 | [35522-duke-the-apocalypse.json](./35522-duke-the-apocalypse.json) |
 | Duke!Zone II | 270750 | [270750-duke-zone-ii.json](./270750-duke-zone-ii.json) |
+| Duke2Reconstructed | 360331 | [360331-duke2reconstructed.json](./360331-duke2reconstructed.json) |
 | Dukedom | 228534 | [228534-dukedom.json](./228534-dukedom.json) |
 | Dukem Memorial Hospital | 270706 | [270706-dukem-memorial-hospital.json](./270706-dukem-memorial-hospital.json) |
 | Dukes of Hazzard 2 | 40653 | [40653-dukes-of-hazzard-2.json](./40653-dukes-of-hazzard-2.json) |
