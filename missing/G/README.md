@@ -1654,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganja Quest RPG | 368359 | [368359-ganja-quest-rpg.json](./368359-ganja-quest-rpg.json) |
 | Ganku Ganku | 251089 | [251089-ganku-ganku.json](./251089-ganku-ganku.json) |
 | Gansel and Hretel | 99157 | [99157-gansel-and-hretel.json](./99157-gansel-and-hretel.json) |
+| Ganso Family Mahjong | 377545 | [377545-ganso-family-mahjong.json](./377545-ganso-family-mahjong.json) |
 | Ganso Hanjuku Hero | 292029 | [292029-ganso-hanjuku-hero.json](./292029-ganso-hanjuku-hero.json) |
 | Ganso JaJaMaru-kun | 37508 | [37508-ganso-jajamaru-kun.json](./37508-ganso-jajamaru-kun.json) |
 | Ganso Pachinko Ou | 38022 | [38022-ganso-pachinko-ou.json](./38022-ganso-pachinko-ou.json) |
