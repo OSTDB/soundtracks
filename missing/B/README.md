@@ -3394,6 +3394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Babes: Lust, Space & Shadow | 340554 | [340554-battle-babes-lust-space-and-shadow.json](./340554-battle-babes-lust-space-and-shadow.json) |
 | Battle Bakraid | 38541 | [38541-battle-bakraid.json](./38541-battle-bakraid.json) |
 | Battle Bakraid Unlimited Ver. | 245663 | [245663-battle-bakraid-unlimited-ver.json](./245663-battle-bakraid-unlimited-ver.json) |
+| Battle Ball | 380020 | [380020-battle-ball.json](./380020-battle-ball.json) |
 | Battle Ball | 91710 | [91710-battle-ball.json](./91710-battle-ball.json) |
 | Battle Balls | 166160 | [166160-battle-balls.json](./166160-battle-balls.json) |
 | Battle Balls | 80793 | [80793-battle-balls.json](./80793-battle-balls.json) |
@@ -3416,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bits | 333392 | [333392-battle-bits.json](./333392-battle-bits.json) |
 | Battle Blaze | 42629 | [42629-battle-blaze.json](./42629-battle-blaze.json) |
 | Battle Blocks | 137660 | [137660-battle-blocks.json](./137660-battle-blocks.json) |
+| Battle Blocks | 380019 | [380019-battle-blocks.json](./380019-battle-blocks.json) |
 | Battle Blocks | 389031 | [389031-battle-blocks.json](./389031-battle-blocks.json) |
 | Battle Bloodlines | 338197 | [338197-battle-bloodlines.json](./338197-battle-bloodlines.json) |
 | Battle Blues | 145616 | [145616-battle-blues.json](./145616-battle-blues.json) |
@@ -3491,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle destruction | 175730 | [175730-battle-destruction.json](./175730-battle-destruction.json) |
 | Battle Dex | 93581 | [93581-battle-dex.json](./93581-battle-dex.json) |
 | Battle Disc | 120895 | [120895-battle-disc.json](./120895-battle-disc.json) |
+| Battle Disc | 380018 | [380018-battle-disc.json](./380018-battle-disc.json) |
 | Battle Dodge Ball 3 | 56519 | [56519-battle-dodge-ball-3.json](./56519-battle-dodge-ball-3.json) |
 | Battle Dodgeball | 38350 | [38350-battle-dodgeball.json](./38350-battle-dodgeball.json) |
 | Battle Dodgeball 3 | 269423 | [269423-battle-dodgeball-3.json](./269423-battle-dodgeball-3.json) |
@@ -3529,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Desert City | 281952 | [281952-battle-for-desert-city.json](./281952-battle-for-desert-city.json) |
 | Battle For Dream Island Again 5b | 138011 | [138011-battle-for-dream-island-again-5b.json](./138011-battle-for-dream-island-again-5b.json) |
 | Battle For Embolia | 123390 | [123390-battle-for-embolia.json](./123390-battle-for-embolia.json) |
+| Battle For Embolia | 380016 | [380016-battle-for-embolia.json](./380016-battle-for-embolia.json) |
 | Battle for Ercaton: Robot Uprising | 291437 | [291437-battle-for-ercaton-robot-uprising.json](./291437-battle-for-ercaton-robot-uprising.json) |
 | Battle for Gaming | 110081 | [110081-battle-for-gaming.json](./110081-battle-for-gaming.json) |
 | Battle for Graxia | 50814 | [50814-battle-for-graxia.json](./50814-battle-for-graxia.json) |
@@ -3569,6 +3573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Frenzy | 5361 | [5361-battle-frenzy.json](./5361-battle-frenzy.json) |
 | Battle Frenzy Collection | 328570 | [328570-battle-frenzy-collection.json](./328570-battle-frenzy-collection.json) |
 | Battle Frogs | 63198 | [63198-battle-frogs.json](./63198-battle-frogs.json) |
+| Battle Frontier | 380015 | [380015-battle-frontier.json](./380015-battle-frontier.json) |
 | Battle Fuck with Succubi | 82964 | [82964-battle-fuck-with-succubi.json](./82964-battle-fuck-with-succubi.json) |
 | Battle Garegga | 46796 | [46796-battle-garegga.json](./46796-battle-garegga.json) |
 | Battle Garegga Rev.2016 | 26443 | [26443-battle-garegga-rev-2016.json](./26443-battle-garegga-rev-2016.json) |
@@ -3640,6 +3645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Lane Vol. 5 | 40028 | [40028-battle-lane-vol-5.json](./40028-battle-lane-vol-5.json) |
 | Battle Leet | 265727 | [265727-battle-leet.json](./265727-battle-leet.json) |
 | Battle Legends | 144805 | [144805-battle-legends.json](./144805-battle-legends.json) |
+| Battle Legends | 380014 | [380014-battle-legends.json](./380014-battle-legends.json) |
 | Battle Legends Arena | 196573 | [196573-battle-legends-arena.json](./196573-battle-legends-arena.json) |
 | Battle Life Online | 154868 | [154868-battle-life-online.json](./154868-battle-life-online.json) |
 | Battle Line the Rise of War | 358285 | [358285-battle-line-the-rise-of-war.json](./358285-battle-line-the-rise-of-war.json) |
@@ -9540,6 +9546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach: Versus Crusade | 3822 | [3822-bleach-versus-crusade.json](./3822-bleach-versus-crusade.json) |
 | Bleach: Zanpakutou Senshi | 247556 | [247556-bleach-zanpakutou-senshi.json](./247556-bleach-zanpakutou-senshi.json) |
 | Bleak | 106641 | [106641-bleak.json](./106641-bleak.json) |
+| Bleak | 380022 | [380022-bleak.json](./380022-bleak.json) |
 | Bleak Dystopia | 226314 | [226314-bleak-dystopia.json](./226314-bleak-dystopia.json) |
 | Bleak End | 167571 | [167571-bleak-end.json](./167571-bleak-end.json) |
 | Bleak Frontier | 258707 | [258707-bleak-frontier.json](./258707-bleak-frontier.json) |
@@ -9760,6 +9767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blither | 250157 | [250157-blither.json](./250157-blither.json) |
 | Blitter Boy: Operation Monster Mall | 125006 | [125006-blitter-boy-operation-monster-mall.json](./125006-blitter-boy-operation-monster-mall.json) |
 | Blitz | 308289 | [308289-blitz.json](./308289-blitz.json) |
+| Blitz | 380023 | [380023-blitz.json](./380023-blitz.json) |
 | Blitz & Blaze | 265775 | [265775-blitz-and-blaze.json](./265775-blitz-and-blaze.json) |
 | Blitz Breaker | 17457 | [17457-blitz-breaker.json](./17457-blitz-breaker.json) |
 | Blitz Brigade | 63292 | [63292-blitz-brigade.json](./63292-blitz-brigade.json) |
@@ -10424,6 +10432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Day | 180080 | [180080-blood-day.json](./180080-blood-day.json) |
 | Blood Domination | 104365 | [104365-blood-domination.json](./104365-blood-domination.json) |
 | Blood Drift | 86566 | [86566-blood-drift.json](./86566-blood-drift.json) |
+| Blood Drive | 380025 | [380025-blood-drive.json](./380025-blood-drive.json) |
 | Blood Drive | 6922 | [6922-blood-drive.json](./6922-blood-drive.json) |
 | Blood Engine | 284013 | [284013-blood-engine.json](./284013-blood-engine.json) |
 | Blood Exile | 226106 | [226106-blood-exile.json](./226106-blood-exile.json) |
@@ -10677,6 +10686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodMasque | 62956 | [62956-bloodmasque.json](./62956-bloodmasque.json) |
 | Bloodmatch | 366728 | [366728-bloodmatch.json](./366728-bloodmatch.json) |
 | Bloodmoney | 362163 | [362163-bloodmoney.json](./362163-bloodmoney.json) |
+| Bloodmoon | 380024 | [380024-bloodmoon.json](./380024-bloodmoon.json) |
 | BloodMoon | 267484 | [267484-bloodmoon.json](./267484-bloodmoon.json) |
 | Bloodmoon Bastion | 424713 | [424713-bloodmoon-bastion.json](./424713-bloodmoon-bastion.json) |
 | Bloodmoon Church | 144129 | [144129-bloodmoon-church.json](./144129-bloodmoon-church.json) |
@@ -12179,6 +12189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Cruncher | 11977 | [11977-bone-cruncher.json](./11977-bone-cruncher.json) |
 | Bone Crusher | 38625 | [38625-bone-crusher.json](./38625-bone-crusher.json) |
 | Bone Dust | 236774 | [236774-bone-dust.json](./236774-bone-dust.json) |
+| Bone Fire Effigy | 379831 | [379831-bone-fire-effigy.json](./379831-bone-fire-effigy.json) |
 | Bone Fixer Shop | 362024 | [362024-bone-fixer-shop.json](./362024-bone-fixer-shop.json) |
 | Bone Lover | 215477 | [215477-bone-lover.json](./215477-bone-lover.json) |
 | Bone Marrow | 129624 | [129624-bone-marrow.json](./129624-bone-marrow.json) |
@@ -16779,6 +16790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burden | 83484 | [83484-burden.json](./83484-burden.json) |
 | Burden 2: Remnants | 229643 | [229643-burden-2-remnants.json](./229643-burden-2-remnants.json) |
 | Burden of 80 Proof | 230248 | [230248-burden-of-80-proof.json](./230248-burden-of-80-proof.json) |
+| Burden of Choice | 379841 | [379841-burden-of-choice.json](./379841-burden-of-choice.json) |
 | Burden of Command | 54935 | [54935-burden-of-command.json](./54935-burden-of-command.json) |
 | Burden of Proof | 105198 | [105198-burden-of-proof.json](./105198-burden-of-proof.json) |
 | Burden of the Blue | 264181 | [264181-burden-of-the-blue.json](./264181-burden-of-the-blue.json) |
