@@ -9117,6 +9117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flesh God | 74187 | [74187-the-flesh-god.json](./74187-the-flesh-god.json) |
 | The Flick of the Dead | 125152 | [125152-the-flick-of-the-dead.json](./125152-the-flick-of-the-dead.json) |
 | The Flight of Dowran | 75038 | [75038-the-flight-of-dowran.json](./75038-the-flight-of-dowran.json) |
+| The Flinch: Unforgiven West | 392589 | [392589-the-flinch-unforgiven-west.json](./392589-the-flinch-unforgiven-west.json) |
 | The Flintstones | 198740 | [198740-the-flintstones.json](./198740-the-flintstones.json) |
 | The Flintstones | 205923 | [205923-the-flintstones.json](./205923-the-flintstones.json) |
 | The Flintstones | 277144 | [277144-the-flintstones.json](./277144-the-flintstones.json) |
@@ -18757,6 +18758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Hunger 3: Rude Awakening | 268006 | [268006-they-hunger-3-rude-awakening.json](./268006-they-hunger-3-rude-awakening.json) |
 | They Hunger: Episode 1 | 268004 | [268004-they-hunger-episode-1.json](./268004-they-hunger-episode-1.json) |
 | They Hunger: Lost Souls | 73003 | [73003-they-hunger-lost-souls.json](./73003-they-hunger-lost-souls.json) |
+| They Killed Your Cat | 392679 | [392679-they-killed-your-cat.json](./392679-they-killed-your-cat.json) |
 | They Know | 283232 | [283232-they-know.json](./283232-they-know.json) |
 | They Left Us Here | 391116 | [391116-they-left-us-here.json](./391116-they-left-us-here.json) |
 | They Linger | 259588 | [259588-they-linger.json](./259588-they-linger.json) |
@@ -24310,6 +24312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topac Battle: Supporter Pack | 310035 | [310035-topac-battle-supporter-pack.json](./310035-topac-battle-supporter-pack.json) |
 | Topang | 143947 | [143947-topang.json](./143947-topang.json) |
 | Topatoi: Spinning Through the Worlds | 52981 | [52981-topatoi-spinning-through-the-worlds.json](./52981-topatoi-spinning-through-the-worlds.json) |
+| Topdeck Automat | 392686 | [392686-topdeck-automat.json](./392686-topdeck-automat.json) |
 | TopDownFarter | 384003 | [384003-topdownfarter.json](./384003-topdownfarter.json) |
 | Topgolf with Pro Putt | 143067 | [143067-topgolf-with-pro-putt.json](./143067-topgolf-with-pro-putt.json) |
 | Tophat Quest | 207104 | [207104-tophat-quest.json](./207104-tophat-quest.json) |
@@ -25913,6 +25916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic Crusaders | 8022 | [8022-toxic-crusaders.json](./8022-toxic-crusaders.json) |
 | Toxic Grind | 6215 | [6215-toxic-grind.json](./6215-toxic-grind.json) |
 | Toxic Harvest | 393286 | [393286-toxic-harvest.json](./393286-toxic-harvest.json) |
+| Toxic Jump | 392636 | [392636-toxic-jump.json](./392636-toxic-jump.json) |
 | Toxic Mayhem: The Troma Project | 74009 | [74009-toxic-mayhem-the-troma-project.json](./74009-toxic-mayhem-the-troma-project.json) |
 | Toxic Plumbing | 81972 | [81972-toxic-plumbing.json](./81972-toxic-plumbing.json) |
 | Toxic Terror | 32430 | [32430-toxic-terror.json](./32430-toxic-terror.json) |
