@@ -5727,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Kong: Jungle Fun - Ultimate Edition | 231265 | [231265-little-kong-jungle-fun-ultimate-edition.json](./231265-little-kong-jungle-fun-ultimate-edition.json) |
 | Little Lake | 422645 | [422645-little-lake.json](./422645-little-lake.json) |
 | Little Lamb | 262429 | [262429-little-lamb.json](./262429-little-lamb.json) |
+| Little Lancelot | 372407 | [372407-little-lancelot.json](./372407-little-lancelot.json) |
 | Little Land War SRPG | 235923 | [235923-little-land-war-srpg.json](./235923-little-land-war-srpg.json) |
 | Little Lands | 177932 | [177932-little-lands.json](./177932-little-lands.json) |
 | Little Laps | 349326 | [349326-little-laps.json](./349326-little-laps.json) |
