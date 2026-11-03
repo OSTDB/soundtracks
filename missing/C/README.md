@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.T.R.: Cross The Road | 240202 | [240202-c-t-r-cross-the-road.json](./240202-c-t-r-cross-the-road.json) |
 | C.U.B.E | 412998 | [412998-c-u-b-e.json](./412998-c-u-b-e.json) |
 | C.U.B.I.P.L.E.X. | 58576 | [58576-c-u-b-i-p-l-e-x.json](./58576-c-u-b-i-p-l-e-x.json) |
+| C.U.T.S | 355986 | [355986-c-u-t-s.json](./355986-c-u-t-s.json) |
 | C.V.: Watashi to Watashi no Naka no Hito - The Fourth Insider | 397400 | [397400-c-v-watashi-to-watashi-no-naka-no-hito-the-fourth-insider.json](./397400-c-v-watashi-to-watashi-no-naka-no-hito-the-fourth-insider.json) |
 | C.Y.S.M.A. | 128245 | [128245-c-y-s-m-a.json](./128245-c-y-s-m-a.json) |
 | C'est La Vie | 250205 | [250205-cest-la-vie.json](./250205-cest-la-vie.json) |
@@ -1341,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candyboy | 236351 | [236351-candyboy.json](./236351-candyboy.json) |
 | CandyCraft | 241500 | [241500-candycraft.json](./241500-candycraft.json) |
 | Candyhouse | 250268 | [250268-candyhouse.json](./250268-candyhouse.json) |
+| Candylands Journey | 355982 | [355982-candylands-journey.json](./355982-candylands-journey.json) |
 | Candylight | 194423 | [194423-candylight.json](./194423-candylight.json) |
 | CandyMouse | 241349 | [241349-candymouse.json](./241349-candymouse.json) |
 | Candypink | 176496 | [176496-candypink.json](./176496-candypink.json) |
@@ -9854,6 +9856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climbing Challenge | 276672 | [276672-climbing-challenge.json](./276672-climbing-challenge.json) |
 | Climbing Flail | 119649 | [119649-climbing-flail.json](./119649-climbing-flail.json) |
 | Climbing Gym Simulator | 353358 | [353358-climbing-gym-simulator.json](./353358-climbing-gym-simulator.json) |
+| Climbing Life | 355975 | [355975-climbing-life.json](./355975-climbing-life.json) |
 | Climbing Mountain Sins | 257915 | [257915-climbing-mountain-sins.json](./257915-climbing-mountain-sins.json) |
 | Climbing Mt. Stardust | 267495 | [267495-climbing-mt-stardust.json](./267495-climbing-mt-stardust.json) |
 | Climbing Over It with a Spear | 259737 | [259737-climbing-over-it-with-a-spear.json](./259737-climbing-over-it-with-a-spear.json) |
