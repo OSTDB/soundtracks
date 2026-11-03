@@ -2203,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkula | 119481 | [119481-darkula.json](./119481-darkula.json) |
 | Darkwaronline | 191658 | [191658-darkwaronline.json](./191658-darkwaronline.json) |
 | Darkwater | 311201 | [311201-darkwater.json](./311201-darkwater.json) |
+| Darkway: Murder of King Mere | 355984 | [355984-darkway-murder-of-king-mere.json](./355984-darkway-murder-of-king-mere.json) |
 | DarkwebStreamer | 278604 | [278604-darkwebstreamer.json](./278604-darkwebstreamer.json) |
 | Darkwell: Assassin's Choice | 295090 | [295090-darkwell-assassins-choice.json](./295090-darkwell-assassins-choice.json) |
 | DarkWind | 228505 | [228505-darkwind.json](./228505-darkwind.json) |
