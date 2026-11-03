@@ -3631,6 +3631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6141,6 +6142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Could Have Been Me | 118066 | [118066-it-could-have-been-me.json](./118066-it-could-have-been-me.json) |
 | It Depends | 58669 | [58669-it-depends.json](./58669-it-depends.json) |
 | It Devours Our Souls | 184956 | [184956-it-devours-our-souls.json](./184956-it-devours-our-souls.json) |
+| It Digs Up | 376156 | [376156-it-digs-up.json](./376156-it-digs-up.json) |
 | It Doesn't Have to Be Like This | 299125 | [299125-it-doesnt-have-to-be-like-this.json](./299125-it-doesnt-have-to-be-like-this.json) |
 | It Falls | 166299 | [166299-it-falls.json](./166299-it-falls.json) |
 | It Feeds | 207220 | [207220-it-feeds.json](./207220-it-feeds.json) |
