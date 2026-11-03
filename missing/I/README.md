@@ -3641,7 +3641,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4791,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interrogator | 296407 | [296407-interrogator.json](./296407-interrogator.json) |
 | Interrogator 2 | 370239 | [370239-interrogator-2.json](./370239-interrogator-2.json) |
 | Interruption | 208245 | [208245-interruption.json](./208245-interruption.json) |
+| Intersecta | 365963 | [365963-intersecta.json](./365963-intersecta.json) |
 | Intersectio | 390069 | [390069-intersectio.json](./390069-intersectio.json) |
 | Intersection | 299751 | [299751-intersection.json](./299751-intersection.json) |
 | InterSection | 34237 | [34237-intersection.json](./34237-intersection.json) |
@@ -5760,6 +5760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Fia Edition | 219277 | [219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json](./219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Kullulu Edition | 227849 | [227849-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kullulu-edition.json](./227849-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kullulu-edition.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Kuroro Edition | 225543 | [225543-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kuroro-edition.json](./225543-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kuroro-edition.json) |
+| Isekai Mystic World | 365933 | [365933-isekai-mystic-world.json](./365933-isekai-mystic-world.json) |
 | Isekai Neet Engineer Eiyuu ni Naru | 282670 | [282670-isekai-neet-engineer-eiyuu-ni-naru.json](./282670-isekai-neet-engineer-eiyuu-ni-naru.json) |
 | Isekai Revitalizer | 374445 | [374445-isekai-revitalizer.json](./374445-isekai-revitalizer.json) |
 | Isekai Rondo | 237603 | [237603-isekai-rondo.json](./237603-isekai-rondo.json) |
