@@ -17334,6 +17334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axegend | 131596 | [131596-axegend.json](./131596-axegend.json) |
 | Axel & Pixel | 14845 | [14845-axel-and-pixel.json](./14845-axel-and-pixel.json) |
 | Axel City | 124767 | [124767-axel-city.json](./124767-axel-city.json) |
+| Axel Quest | 353163 | [353163-axel-quest.json](./353163-axel-quest.json) |
 | Axel's Journey | 183414 | [183414-axels-journey.json](./183414-axels-journey.json) |
 | Axel's Magic Hammer | 11927 | [11927-axels-magic-hammer.json](./11927-axels-magic-hammer.json) |
 | Axelay | 6570 | [6570-axelay.json](./6570-axelay.json) |
