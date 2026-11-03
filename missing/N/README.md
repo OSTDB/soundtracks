@@ -6648,6 +6648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not My Son | 405693 | [405693-not-my-son.json](./405693-not-my-son.json) |
 | Not My Tempo | 408128 | [408128-not-my-tempo.json](./408128-not-my-tempo.json) |
 | Not My War | 377669 | [377669-not-my-war.json](./377669-not-my-war.json) |
+| Not Not & Not Not 2 | 353584 | [353584-not-not-and-not-not-2.json](./353584-not-not-and-not-not-2.json) |
 | Not Not 2: A Brain Challenge - Golden DLC | 343730 | [343730-not-not-2-a-brain-challenge-golden-dlc.json](./343730-not-not-2-a-brain-challenge-golden-dlc.json) |
 | Not Not 2: A Brain Challenge - Platinum DLC | 343731 | [343731-not-not-2-a-brain-challenge-platinum-dlc.json](./343731-not-not-2-a-brain-challenge-platinum-dlc.json) |
 | Not Not 2: A Brain Challenge - Platinum Edition | 378856 | [378856-not-not-2-a-brain-challenge-platinum-edition.json](./378856-not-not-2-a-brain-challenge-platinum-edition.json) |
@@ -6851,6 +6852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NovaX | 291435 | [291435-novax.json](./291435-novax.json) |
 | Novaxandria Volume 01 | 358447 | [358447-novaxandria-volume-01.json](./358447-novaxandria-volume-01.json) |
 | Novel Haven | 389182 | [389182-novel-haven.json](./389182-novel-haven.json) |
+| Novel Rogue | 353592 | [353592-novel-rogue.json](./353592-novel-rogue.json) |
 | Novel Simulator | 392130 | [392130-novel-simulator.json](./392130-novel-simulator.json) |
 | NovelAI | 162735 | [162735-novelai.json](./162735-novelai.json) |
 | Novelist Simulator | 79177 | [79177-novelist-simulator.json](./79177-novelist-simulator.json) |
