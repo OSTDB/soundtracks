@@ -9788,6 +9788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: Natty New Year | 328572 | [328572-anime-girls-natty-new-year.json](./328572-anime-girls-natty-new-year.json) |
 | Anime Girls: Natty Nurse | 319782 | [319782-anime-girls-natty-nurse.json](./319782-anime-girls-natty-nurse.json) |
 | Anime Girls: Nimble Ninja | 362370 | [362370-anime-girls-nimble-ninja.json](./362370-anime-girls-nimble-ninja.json) |
+| Anime Girls: Puffy Pumpkin | 375125 | [375125-anime-girls-puffy-pumpkin.json](./375125-anime-girls-puffy-pumpkin.json) |
 | Anime Girls: Shanghai Romance | 393414 | [393414-anime-girls-shanghai-romance.json](./393414-anime-girls-shanghai-romance.json) |
 | Anime Girls: Stellar Invasion | 396432 | [396432-anime-girls-stellar-invasion.json](./396432-anime-girls-stellar-invasion.json) |
 | Anime Girls: Sun of a Beach | 288718 | [288718-anime-girls-sun-of-a-beach.json](./288718-anime-girls-sun-of-a-beach.json) |
@@ -10618,6 +10619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antons 10 Minutes in Cool Hell | 326117 | [326117-antons-10-minutes-in-cool-hell.json](./326117-antons-10-minutes-in-cool-hell.json) |
 | AntonSneeze | 326109 | [326109-antonsneeze.json](./326109-antonsneeze.json) |
 | AntonWare | 326110 | [326110-antonware.json](./326110-antonware.json) |
+| Antonym Obscure | 375465 | [375465-antonym-obscure.json](./375465-antonym-obscure.json) |
 | Antox vs. Free Radicals | 111416 | [111416-antox-vs-free-radicals.json](./111416-antox-vs-free-radicals.json) |
 | Antpocalypse | 386917 | [386917-antpocalypse.json](./386917-antpocalypse.json) |
 | AntQueen 3D | 117642 | [117642-antqueen-3d.json](./117642-antqueen-3d.json) |
@@ -11641,6 +11643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Labyrinth Runner | 386906 | [386906-arcade-archives-2-labyrinth-runner.json](./386906-arcade-archives-2-labyrinth-runner.json) |
 | Arcade Archives 2: Mach Breakers | 365534 | [365534-arcade-archives-2-mach-breakers.json](./365534-arcade-archives-2-mach-breakers.json) |
 | Arcade Archives 2: Mega Zone | 390481 | [390481-arcade-archives-2-mega-zone.json](./390481-arcade-archives-2-mega-zone.json) |
+| Arcade Archives 2: Midnight Landing | 375138 | [375138-arcade-archives-2-midnight-landing.json](./375138-arcade-archives-2-midnight-landing.json) |
 | Arcade Archives 2: Moon Shuttle | 408159 | [408159-arcade-archives-2-moon-shuttle.json](./408159-arcade-archives-2-moon-shuttle.json) |
 | Arcade Archives 2: Mouser | 411153 | [411153-arcade-archives-2-mouser.json](./411153-arcade-archives-2-mouser.json) |
 | Arcade Archives 2: Munch Mobile | 374668 | [374668-arcade-archives-2-munch-mobile.json](./374668-arcade-archives-2-munch-mobile.json) |
@@ -13795,6 +13798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur's Birthday | 269991 | [269991-arthurs-birthday.json](./269991-arthurs-birthday.json) |
 | Arthur's Camping Adventure | 144668 | [144668-arthurs-camping-adventure.json](./144668-arthurs-camping-adventure.json) |
 | Arthur's Computer Adventure | 270029 | [270029-arthurs-computer-adventure.json](./270029-arthurs-computer-adventure.json) |
+| Arthur's Kindergarten | 375124 | [375124-arthurs-kindergarten.json](./375124-arthurs-kindergarten.json) |
 | Arthur's Knights: Tales of Chivalry | 71368 | [71368-arthurs-knights-tales-of-chivalry.json](./71368-arthurs-knights-tales-of-chivalry.json) |
 | Arthur's Nightmare | 105527 | [105527-arthurs-nightmare.json](./105527-arthurs-nightmare.json) |
 | Arthur's Pet Chase | 70918 | [70918-arthurs-pet-chase.json](./70918-arthurs-pet-chase.json) |
@@ -14225,6 +14229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Resolve | 413503 | [413503-ashes-of-resolve.json](./413503-ashes-of-resolve.json) |
 | Ashes of Sombtir | 275883 | [275883-ashes-of-sombtir.json](./275883-ashes-of-sombtir.json) |
 | Ashes of the Ark | 103798 | [103798-ashes-of-the-ark.json](./103798-ashes-of-the-ark.json) |
+| Ashes of the Damned: The Forgotten Ward | 375466 | [375466-ashes-of-the-damned-the-forgotten-ward.json](./375466-ashes-of-the-damned-the-forgotten-ward.json) |
 | Ashes of the Night | 121079 | [121079-ashes-of-the-night.json](./121079-ashes-of-the-night.json) |
 | Ashes of the Past | 271090 | [271090-ashes-of-the-past.json](./271090-ashes-of-the-past.json) |
 | Ashes of the Singularity II | 359885 | [359885-ashes-of-the-singularity-ii.json](./359885-ashes-of-the-singularity-ii.json) |
@@ -15812,7 +15817,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
