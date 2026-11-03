@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Mining Corp | 132093 | [132093-galactic-mining-corp.json](./132093-galactic-mining-corp.json) |
 | Galactic Missile Defense | 34807 | [34807-galactic-missile-defense.json](./34807-galactic-missile-defense.json) |
 | Galactic Nemesis | 197252 | [197252-galactic-nemesis.json](./197252-galactic-nemesis.json) |
+| Galactic Nine Lives | 360850 | [360850-galactic-nine-lives.json](./360850-galactic-nine-lives.json) |
 | Galactic Orbital Death Sport | 75190 | [75190-galactic-orbital-death-sport.json](./75190-galactic-orbital-death-sport.json) |
 | Galactic Overlord | 22003 | [22003-galactic-overlord.json](./22003-galactic-overlord.json) |
 | Galactic Overlord | 352259 | [352259-galactic-overlord.json](./352259-galactic-overlord.json) |
@@ -8238,6 +8239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Zero Racing | 123319 | [123319-gravity-zero-racing.json](./123319-gravity-zero-racing.json) |
 | Gravity: Sylux's Crusade | 338822 | [338822-gravity-syluxs-crusade.json](./338822-gravity-syluxs-crusade.json) |
 | Gravity's Apple | 330920 | [330920-gravitys-apple.json](./330920-gravitys-apple.json) |
+| Gravity's Apple 2 | 360874 | [360874-gravitys-apple-2.json](./360874-gravitys-apple-2.json) |
 | Gravity's Edge | 386942 | [386942-gravitys-edge.json](./386942-gravitys-edge.json) |
 | Gravity+ | 84530 | [84530-gravity.json](./84530-gravity.json) |
 | GravityBall | 409647 | [409647-gravityball.json](./409647-gravityball.json) |
