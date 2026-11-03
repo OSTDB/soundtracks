@@ -3921,6 +3921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghoul Patrol | 42612 | [42612-ghoul-patrol.json](./42612-ghoul-patrol.json) |
 | Ghoulboy | 76023 | [76023-ghoulboy.json](./76023-ghoulboy.json) |
 | GhoulBoy: Limited Edition | 166234 | [166234-ghoulboy-limited-edition.json](./166234-ghoulboy-limited-edition.json) |
+| Ghouli Hunter | 378124 | [378124-ghouli-hunter.json](./378124-ghouli-hunter.json) |
 | Ghouls | 13721 | [13721-ghouls.json](./13721-ghouls.json) |
 | Ghouls 'n Ghosts | 262502 | [262502-ghouls-n-ghosts.json](./262502-ghouls-n-ghosts.json) |
 | Ghouls 'n Ghosts | 262503 | [262503-ghouls-n-ghosts.json](./262503-ghouls-n-ghosts.json) |
@@ -8208,6 +8209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravlist | 234279 | [234279-gravlist.json](./234279-gravlist.json) |
 | GravMetal | 335736 | [335736-gravmetal.json](./335736-gravmetal.json) |
 | GravNewton | 52249 | [52249-gravnewton.json](./52249-gravnewton.json) |
+| Gravoor 20th Anniversary | 378472 | [378472-gravoor-20th-anniversary.json](./378472-gravoor-20th-anniversary.json) |
 | Gravortex | 94477 | [94477-gravortex.json](./94477-gravortex.json) |
 | GravPool | 32180 | [32180-gravpool.json](./32180-gravpool.json) |
 | GravSheep | 90904 | [90904-gravsheep.json](./90904-gravsheep.json) |
