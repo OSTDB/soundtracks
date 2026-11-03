@@ -3818,6 +3818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Legends | 69733 | [69733-sea-legends.json](./69733-sea-legends.json) |
 | Sea Legends: Phantasmal Light | 59905 | [59905-sea-legends-phantasmal-light.json](./59905-sea-legends-phantasmal-light.json) |
 | Sea Legends: Phantasmal Light - Collector's Edition | 36244 | [36244-sea-legends-phantasmal-light-collectors-edition.json](./36244-sea-legends-phantasmal-light-collectors-edition.json) |
+| Sea Life Explorer: Collector's Edition | 367670 | [367670-sea-life-explorer-collectors-edition.json](./367670-sea-life-explorer-collectors-edition.json) |
 | Sea Life Safari | 21829 | [21829-sea-life-safari.json](./21829-sea-life-safari.json) |
 | Sea Loot | 176275 | [176275-sea-loot.json](./176275-sea-loot.json) |
 | Sea Lords | 219950 | [219950-sea-lords.json](./219950-sea-lords.json) |
@@ -9009,6 +9010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shout Seven | 159245 | [159245-shout-seven.json](./159245-shout-seven.json) |
 | Shout-Ai | 407714 | [407714-shout-ai.json](./407714-shout-ai.json) |
 | Shoutrageous! | 101952 | [101952-shoutrageous.json](./101952-shoutrageous.json) |
+| Shove | 367656 | [367656-shove.json](./367656-shove.json) |
 | Shovel Adventure | 220784 | [220784-shovel-adventure.json](./220784-shovel-adventure.json) |
 | Shovel Adventure: The Next Quest | 421596 | [421596-shovel-adventure-the-next-quest.json](./421596-shovel-adventure-the-next-quest.json) |
 | Shovel Escape | 172450 | [172450-shovel-escape.json](./172450-shovel-escape.json) |
@@ -11447,6 +11449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton Quest | 415456 | [415456-skeleton-quest.json](./415456-skeleton-quest.json) |
 | Skeleton Rebellion | 279468 | [279468-skeleton-rebellion.json](./279468-skeleton-rebellion.json) |
 | Skeleton Rider | 61285 | [61285-skeleton-rider.json](./61285-skeleton-rider.json) |
+| Skeleton Runner | 367669 | [367669-skeleton-runner.json](./367669-skeleton-runner.json) |
 | Skeleton Scale | 245676 | [245676-skeleton-scale.json](./245676-skeleton-scale.json) |
 | Skeleton Scramble Deluxe | 192136 | [192136-skeleton-scramble-deluxe.json](./192136-skeleton-scramble-deluxe.json) |
 | Skeleton Scramble Deluxe 2 | 298070 | [298070-skeleton-scramble-deluxe-2.json](./298070-skeleton-scramble-deluxe-2.json) |
@@ -13993,6 +13996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smutty Scrolls | 161553 | [161553-smutty-scrolls.json](./161553-smutty-scrolls.json) |
 | SMW | 250505 | [250505-smw.json](./250505-smw.json) |
 | SMW For Your Kids Only | 290235 | [290235-smw-for-your-kids-only.json](./290235-smw-for-your-kids-only.json) |
+| SMW Friends and Rivalry | 367694 | [367694-smw-friends-and-rivalry.json](./367694-smw-friends-and-rivalry.json) |
 | SMW Quest for Gaming | 267950 | [267950-smw-quest-for-gaming.json](./267950-smw-quest-for-gaming.json) |
 | SMW The Crown Tale | 267957 | [267957-smw-the-crown-tale.json](./267957-smw-the-crown-tale.json) |
 | SMW The Princess Rescue | 222890 | [222890-smw-the-princess-rescue.json](./222890-smw-the-princess-rescue.json) |
@@ -22687,6 +22691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standpoint | 10885 | [10885-standpoint.json](./10885-standpoint.json) |
 | Stanga | 133210 | [133210-stanga.json](./133210-stanga.json) |
 | Stanislav | 214114 | [214114-stanislav.json](./214114-stanislav.json) |
+| Stanley Says | 367654 | [367654-stanley-says.json](./367654-stanley-says.json) |
 | Stanley Tiger Tales | 73453 | [73453-stanley-tiger-tales.json](./73453-stanley-tiger-tales.json) |
 | Stanley: Wild for Sharks! | 70964 | [70964-stanley-wild-for-sharks.json](./70964-stanley-wild-for-sharks.json) |
 | Stapel | 192987 | [192987-stapel.json](./192987-stapel.json) |
@@ -28611,6 +28616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoner Rises | 308904 | [308904-summoner-rises.json](./308904-summoner-rises.json) |
 | Summoner Symbols | 316802 | [316802-summoner-symbols.json](./316802-summoner-symbols.json) |
 | Summoner Tale | 379626 | [379626-summoner-tale.json](./379626-summoner-tale.json) |
+| Summoner VR: The Ruined Village | 367655 | [367655-summoner-vr-the-ruined-village.json](./367655-summoner-vr-the-ruined-village.json) |
 | Summoner Wars | 22159 | [22159-summoner-wars.json](./22159-summoner-wars.json) |
 | Summoner's Automata | 360691 | [360691-summoners-automata.json](./360691-summoners-automata.json) |
 | Summoner's Battle 2048 | 208121 | [208121-summoners-battle-2048.json](./208121-summoners-battle-2048.json) |
