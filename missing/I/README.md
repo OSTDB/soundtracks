@@ -1162,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icycle | 395111 | [395111-icycle.json](./395111-icycle.json) |
 | Icycle: On Thin Ice | 22144 | [22144-icycle-on-thin-ice.json](./22144-icycle-on-thin-ice.json) |
 | iD | 172035 | [172035-id.json](./172035-id.json) |
+| Id | 382132 | [382132-id.json](./382132-id.json) |
 | id Action Pack Vol. 3 | 222855 | [222855-id-action-pack-vol-3.json](./222855-id-action-pack-vol-3.json) |
 | Id Action Pack Vol. 4 | 276330 | [276330-id-action-pack-vol-4.json](./276330-id-action-pack-vol-4.json) |
 | Id Mindstate Machine | 335059 | [335059-id-mindstate-machine.json](./335059-id-mindstate-machine.json) |
@@ -3623,6 +3624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
