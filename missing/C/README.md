@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake or Bomb? | 360922 | [360922-cake-or-bomb.json](./360922-cake-or-bomb.json) |
 | Cake Platformer | 329089 | [329089-cake-platformer.json](./329089-cake-platformer.json) |
 | Cake Shop | 109015 | [109015-cake-shop.json](./109015-cake-shop.json) |
+| Cake Shop | 385516 | [385516-cake-shop.json](./385516-cake-shop.json) |
 | Cake Shop 2 | 328379 | [328379-cake-shop-2.json](./328379-cake-shop-2.json) |
 | Cake Shop 3 | 410232 | [410232-cake-shop-3.json](./410232-cake-shop-3.json) |
 | Cake Shop Simulator | 156876 | [156876-cake-shop-simulator.json](./156876-cake-shop-simulator.json) |
@@ -1799,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Planet and the Robots of Zarm | 417539 | [417539-captain-planet-and-the-robots-of-zarm.json](./417539-captain-planet-and-the-robots-of-zarm.json) |
 | Captain Pogo | 399917 | [399917-captain-pogo.json](./399917-captain-pogo.json) |
 | Captain Power and the Soldiers of the Future | 84294 | [84294-captain-power-and-the-soldiers-of-the-future.json](./84294-captain-power-and-the-soldiers-of-the-future.json) |
+| Captain Power: Daisakusen Volcania-jou | 385526 | [385526-captain-power-daisakusen-volcania-jou.json](./385526-captain-power-daisakusen-volcania-jou.json) |
 | Captain Prosper | 158122 | [158122-captain-prosper.json](./158122-captain-prosper.json) |
 | Captain Puff MacFly | 361728 | [361728-captain-puff-macfly.json](./361728-captain-puff-macfly.json) |
 | Captain Quazar | 39015 | [39015-captain-quazar.json](./39015-captain-quazar.json) |
@@ -2218,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Brawl: Dungeon Slayer | 233395 | [233395-card-brawl-dungeon-slayer.json](./233395-card-brawl-dungeon-slayer.json) |
 | Card Captor Sakura: Sakura Card-hen - Sakura Card to Tomodachi | 49518 | [49518-card-captor-sakura-sakura-card-hen-sakura-card-to-tomodachi.json](./49518-card-captor-sakura-sakura-card-hen-sakura-card-to-tomodachi.json) |
 | Card Captor Sakura: Sakura to Fushigi na Clow Card | 37523 | [37523-card-captor-sakura-sakura-to-fushigi-na-clow-card.json](./37523-card-captor-sakura-sakura-to-fushigi-na-clow-card.json) |
+| Card Chase | 385523 | [385523-card-chase.json](./385523-card-chase.json) |
 | Card Chronicles: Devious Deck | 312308 | [312308-card-chronicles-devious-deck.json](./312308-card-chronicles-devious-deck.json) |
 | Card City Nights | 14565 | [14565-card-city-nights.json](./14565-card-city-nights.json) |
 | Card City Nights Forever | 407880 | [407880-card-city-nights-forever.json](./407880-card-city-nights-forever.json) |
@@ -5290,6 +5293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge Cube VR | 91198 | [91198-challenge-cube-vr.json](./91198-challenge-cube-vr.json) |
 | Challenge Dream Cat | 179997 | [179997-challenge-dream-cat.json](./179997-challenge-dream-cat.json) |
 | Challenge from Kiyoshi | 141772 | [141772-challenge-from-kiyoshi.json](./141772-challenge-from-kiyoshi.json) |
+| Challenge Golf | 385537 | [385537-challenge-golf.json](./385537-challenge-golf.json) |
 | Challenge Love | 296608 | [296608-challenge-love.json](./296608-challenge-love.json) |
 | Challenge ME : Word Puzzles | 148769 | [148769-challenge-me-word-puzzles.json](./148769-challenge-me-word-puzzles.json) |
 | Challenge Me: Brain Puzzles | 21640 | [21640-challenge-me-brain-puzzles.json](./21640-challenge-me-brain-puzzles.json) |
@@ -11953,6 +11957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combo Queen | 46500 | [46500-combo-queen.json](./46500-combo-queen.json) |
 | Combo Quest | 348748 | [348748-combo-quest.json](./348748-combo-quest.json) |
 | Combo Quest 2 | 102768 | [102768-combo-quest-2.json](./102768-combo-quest-2.json) |
+| Combo Rhythm | 385521 | [385521-combo-rhythm.json](./385521-combo-rhythm.json) |
 | Combo Vectors | 391536 | [391536-combo-vectors.json](./391536-combo-vectors.json) |
 | Combo! | 184405 | [184405-combo.json](./184405-combo.json) |
 | ComboChain Pulse | 408712 | [408712-combochain-pulse.json](./408712-combochain-pulse.json) |
@@ -12424,6 +12429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Circus Maximus | 72039 | [72039-computer-circus-maximus.json](./72039-computer-circus-maximus.json) |
 | Computer Club | 211646 | [211646-computer-club.json](./211646-computer-club.json) |
 | Computer Diplomacy | 72163 | [72163-computer-diplomacy.json](./72163-computer-diplomacy.json) |
+| Computer Donjara | 385533 | [385533-computer-donjara.json](./385533-computer-donjara.json) |
 | Computer Facts in Five | 94156 | [94156-computer-facts-in-five.json](./94156-computer-facts-in-five.json) |
 | Computer Foosball | 59768 | [59768-computer-foosball.json](./59768-computer-foosball.json) |
 | Computer Foreign Exchange | 282121 | [282121-computer-foreign-exchange.json](./282121-computer-foreign-exchange.json) |
@@ -16742,6 +16748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross & Word Games | 131185 | [131185-cross-and-word-games.json](./131185-cross-and-word-games.json) |
 | Cross and Crush | 89270 | [89270-cross-and-crush.json](./89270-cross-and-crush.json) |
 | Cross and Gun | 351520 | [351520-cross-and-gun.json](./351520-cross-and-gun.json) |
+| Cross Attack | 385530 | [385530-cross-attack.json](./385530-cross-attack.json) |
 | Cross Blaim | 41765 | [41765-cross-blaim.json](./41765-cross-blaim.json) |
 | Cross Blitz | 158620 | [158620-cross-blitz.json](./158620-cross-blitz.json) |
 | Cross Board Soccer | 154278 | [154278-cross-board-soccer.json](./154278-cross-board-soccer.json) |
