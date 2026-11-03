@@ -12338,6 +12338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lightning Girl | 372275 | [372275-the-lightning-girl.json](./372275-the-lightning-girl.json) |
 | The Lightning Over Pear Acre Road | 138186 | [138186-the-lightning-over-pear-acre-road.json](./138186-the-lightning-over-pear-acre-road.json) |
 | The Lightning Struck Orphan | 345152 | [345152-the-lightning-struck-orphan.json](./345152-the-lightning-struck-orphan.json) |
+| The Lightseeker | 381288 | [381288-the-lightseeker.json](./381288-the-lightseeker.json) |
 | The Lightshield Report | 302141 | [302141-the-lightshield-report.json](./302141-the-lightshield-report.json) |
 | The Lik | 223369 | [223369-the-lik.json](./223369-the-lik.json) |
 | The Lilliput Workshop | 205249 | [205249-the-lilliput-workshop.json](./205249-the-lilliput-workshop.json) |
@@ -16561,6 +16562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Symphony of Dragon and Girls | 208237 | [208237-the-symphony-of-dragon-and-girls.json](./208237-the-symphony-of-dragon-and-girls.json) |
 | The Synergist | 195339 | [195339-the-synergist.json](./195339-the-synergist.json) |
 | The System: Opposing Facility | 273240 | [273240-the-system-opposing-facility.json](./273240-the-system-opposing-facility.json) |
+| The Szechuan Sword: A PostModern Strategy Game | 380949 | [380949-the-szechuan-sword-a-postmodern-strategy-game.json](./380949-the-szechuan-sword-a-postmodern-strategy-game.json) |
 | The T.O.T.E.: Tales of the Elements | 258214 | [258214-the-t-o-t-e-tales-of-the-elements.json](./258214-the-t-o-t-e-tales-of-the-elements.json) |
 | The table at war VR | 30544 | [30544-the-table-at-war-vr.json](./30544-the-table-at-war-vr.json) |
 | The Table Game | 93975 | [93975-the-table-game.json](./93975-the-table-game.json) |
@@ -19447,6 +19449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrift Store Story | 106920 | [106920-thrift-store-story.json](./106920-thrift-store-story.json) |
 | Thrift Store Treasure: Hidden Objects | 417510 | [417510-thrift-store-treasure-hidden-objects.json](./417510-thrift-store-treasure-hidden-objects.json) |
 | Thriftgirl | 384818 | [384818-thriftgirl.json](./384818-thriftgirl.json) |
+| Thrifty Business | 380953 | [380953-thrifty-business.json](./380953-thrifty-business.json) |
 | Thrill Drill | 391109 | [391109-thrill-drill.json](./391109-thrill-drill.json) |
 | Thrill Drive | 65915 | [65915-thrill-drive.json](./65915-thrill-drive.json) |
 | Thrill Drive 2 | 65914 | [65914-thrill-drive-2.json](./65914-thrill-drive-2.json) |
@@ -21545,6 +21548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tileweaver | 390013 | [390013-tileweaver.json](./390013-tileweaver.json) |
 | Tiling Towers | 249811 | [249811-tiling-towers.json](./249811-tiling-towers.json) |
 | Tiling Town | 381417 | [381417-tiling-town.json](./381417-tiling-town.json) |
+| Till Checkout Do Us Part | 381156 | [381156-till-checkout-do-us-part.json](./381156-till-checkout-do-us-part.json) |
 | Till Death Rolls Us Apart | 400544 | [400544-till-death-rolls-us-apart.json](./400544-till-death-rolls-us-apart.json) |
 | Till the dawn, waiting | 81679 | [81679-till-the-dawn-waiting.json](./81679-till-the-dawn-waiting.json) |
 | Till The Light | 406933 | [406933-till-the-light.json](./406933-till-the-light.json) |
@@ -22294,6 +22298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Kingdoms | 311119 | [311119-tiny-kingdoms.json](./311119-tiny-kingdoms.json) |
 | Tiny Kings | 344548 | [344548-tiny-kings.json](./344548-tiny-kings.json) |
 | Tiny Kitchen: Burger Edition | 378593 | [378593-tiny-kitchen-burger-edition.json](./378593-tiny-kitchen-burger-edition.json) |
+| Tiny Kitchen: Pizza Edition | 380950 | [380950-tiny-kitchen-pizza-edition.json](./380950-tiny-kitchen-pizza-edition.json) |
 | Tiny Kitchen: Sandwich Edition | 380113 | [380113-tiny-kitchen-sandwich-edition.json](./380113-tiny-kitchen-sandwich-edition.json) |
 | Tiny Klepto | 116673 | [116673-tiny-klepto.json](./116673-tiny-klepto.json) |
 | Tiny Knight | 33472 | [33472-tiny-knight.json](./33472-tiny-knight.json) |
@@ -28880,6 +28885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trees and Jellyfish | 338610 | [338610-trees-and-jellyfish.json](./338610-trees-and-jellyfish.json) |
 | Trees Hate You | 382400 | [382400-trees-hate-you.json](./382400-trees-hate-you.json) |
 | TreeTale | 347347 | [347347-treetale.json](./347347-treetale.json) |
+| Treetopians | 380978 | [380978-treetopians.json](./380978-treetopians.json) |
 | Treeverse | 336064 | [336064-treeverse.json](./336064-treeverse.json) |
 | Treffen | 172937 | [172937-treffen.json](./172937-treffen.json) |
 | Treflix: All for Kids | 366777 | [366777-treflix-all-for-kids.json](./366777-treflix-all-for-kids.json) |
