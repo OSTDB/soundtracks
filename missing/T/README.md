@@ -19533,6 +19533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrill Rush | 103400 | [103400-thrill-rush.json](./103400-thrill-rush.json) |
 | Thriller Garden | 256724 | [256724-thriller-garden.json](./256724-thriller-garden.json) |
 | Thrillgate | 130160 | [130160-thrillgate.json](./130160-thrillgate.json) |
+| Thrilling Racing | 367090 | [367090-thrilling-racing.json](./367090-thrilling-racing.json) |
 | Thrilling Stories Collection | 279878 | [279878-thrilling-stories-collection.json](./279878-thrilling-stories-collection.json) |
 | Thrills & Chills - Roller Coasters | 31538 | [31538-thrills-and-chills-roller-coasters.json](./31538-thrills-and-chills-roller-coasters.json) |
 | Thrillville | 281901 | [281901-thrillville.json](./281901-thrillville.json) |
@@ -31621,6 +31622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two | 357458 | [357458-two.json](./357458-two.json) |
 | Two & One Hundred Ways Bundle | 188020 | [188020-two-and-one-hundred-ways-bundle.json](./188020-two-and-one-hundred-ways-bundle.json) |
 | Two Against the Legion | 158509 | [158509-two-against-the-legion.json](./158509-two-against-the-legion.json) |
+| Two Apples | 367085 | [367085-two-apples.json](./367085-two-apples.json) |
 | Two Atmospheric Atrocities | 331685 | [331685-two-atmospheric-atrocities.json](./331685-two-atmospheric-atrocities.json) |
 | Two Beasts Or Not To Beast! | 396674 | [396674-two-beasts-or-not-to-beast.json](./396674-two-beasts-or-not-to-beast.json) |
 | Two Bit Hero | 157498 | [157498-two-bit-hero.json](./157498-two-bit-hero.json) |
