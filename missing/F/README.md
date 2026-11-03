@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tale Puzzles: Magic Objects - Alice in Wonderland: The Tea Party | 238056 | [238056-fairy-tale-puzzles-magic-objects-alice-in-wonderland-the-tea-party.json](./238056-fairy-tale-puzzles-magic-objects-alice-in-wonderland-the-tea-party.json) |
 | Fairy Tale Quest | 146618 | [146618-fairy-tale-quest.json](./146618-fairy-tale-quest.json) |
 | Fairy Tale TD 2 | 348885 | [348885-fairy-tale-td-2.json](./348885-fairy-tale-td-2.json) |
+| Fairy Tale TD:Hero | 390363 | [390363-fairy-tale-td-hero.json](./390363-fairy-tale-td-hero.json) |
 | Fairy Tale Tower Defense | 357835 | [357835-fairy-tale-tower-defense.json](./357835-fairy-tale-tower-defense.json) |
 | Fairy Tales 4 Kids Interactive | 293340 | [293340-fairy-tales-4-kids-interactive.json](./293340-fairy-tales-4-kids-interactive.json) |
 | Fairy Tower | 213964 | [213964-fairy-tower.json](./213964-fairy-tower.json) |
