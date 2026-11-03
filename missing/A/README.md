@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Fisherman's Tale 2 | 239554 | [239554-a-fishermans-tale-2.json](./239554-a-fishermans-tale-2.json) |
 | A Fishy RPG | 181101 | [181101-a-fishy-rpg.json](./181101-a-fishy-rpg.json) |
 | A Fistful of Yankees | 301686 | [301686-a-fistful-of-yankees.json](./301686-a-fistful-of-yankees.json) |
+| A Fistfull of Cowboys | 361401 | [361401-a-fistfull-of-cowboys.json](./361401-a-fistfull-of-cowboys.json) |
 | A Five-Day Tour in the Morgue | 117580 | [117580-a-five-day-tour-in-the-morgue.json](./117580-a-five-day-tour-in-the-morgue.json) |
 | A Flappy Bird in Real Life | 111077 | [111077-a-flappy-bird-in-real-life.json](./111077-a-flappy-bird-in-real-life.json) |
 | A Flicker of Light | 188449 | [188449-a-flicker-of-light.json](./188449-a-flicker-of-light.json) |
@@ -4141,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After The First Station | 192719 | [192719-after-the-first-station.json](./192719-after-the-first-station.json) |
 | After the Flood | 219968 | [219968-after-the-flood.json](./219968-after-the-flood.json) |
 | After the Inferno | 211423 | [211423-after-the-inferno.json](./211423-after-the-inferno.json) |
+| After the Janazah | 361424 | [361424-after-the-janazah.json](./361424-after-the-janazah.json) |
 | After the Melodrama Novel | 379500 | [379500-after-the-melodrama-novel.json](./379500-after-the-melodrama-novel.json) |
 | After the Meteor Shower | 230940 | [230940-after-the-meteor-shower.json](./230940-after-the-meteor-shower.json) |
 | After the Shift: Concord | 182061 | [182061-after-the-shift-concord.json](./182061-after-the-shift-concord.json) |
