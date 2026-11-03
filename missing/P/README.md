@@ -6493,6 +6493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Cirqus Voltaire | 349364 | [349364-pinball-arcade-cirqus-voltaire.json](./349364-pinball-arcade-cirqus-voltaire.json) |
 | Pinball Arcade: Class of 1812 | 353217 | [353217-pinball-arcade-class-of-1812.json](./353217-pinball-arcade-class-of-1812.json) |
 | Pinball Arcade: Creature from the Black Lagoon | 353212 | [353212-pinball-arcade-creature-from-the-black-lagoon.json](./353212-pinball-arcade-creature-from-the-black-lagoon.json) |
+| Pinball Arcade: Cue Ball Wizard | 353159 | [353159-pinball-arcade-cue-ball-wizard.json](./353159-pinball-arcade-cue-ball-wizard.json) |
 | Pinball Arcade: Diner | 353266 | [353266-pinball-arcade-diner.json](./353266-pinball-arcade-diner.json) |
 | Pinball Arcade: Doctor Who | 349345 | [349345-pinball-arcade-doctor-who.json](./349345-pinball-arcade-doctor-who.json) |
 | Pinball Arcade: Doctor Who - Master of Time | 163672 | [163672-pinball-arcade-doctor-who-master-of-time.json](./163672-pinball-arcade-doctor-who-master-of-time.json) |
@@ -6520,6 +6521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Jacks Open | 353242 | [353242-pinball-arcade-jacks-open.json](./353242-pinball-arcade-jacks-open.json) |
 | Pinball Arcade: Judge Dredd | 349348 | [349348-pinball-arcade-judge-dredd.json](./349348-pinball-arcade-judge-dredd.json) |
 | Pinball Arcade: Junk Yard | 353258 | [353258-pinball-arcade-junk-yard.json](./353258-pinball-arcade-junk-yard.json) |
+| Pinball Arcade: Launch Pack | 353157 | [353157-pinball-arcade-launch-pack.json](./353157-pinball-arcade-launch-pack.json) |
 | Pinball Arcade: Mary Shelley's Frankenstein | 353257 | [353257-pinball-arcade-mary-shelleys-frankenstein.json](./353257-pinball-arcade-mary-shelleys-frankenstein.json) |
 | Pinball Arcade: Monster Bash | 353215 | [353215-pinball-arcade-monster-bash.json](./353215-pinball-arcade-monster-bash.json) |
 | Pinball Arcade: Mustang | 353224 | [353224-pinball-arcade-mustang.json](./353224-pinball-arcade-mustang.json) |
@@ -14870,6 +14872,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progress PET: Battle Chip - 574: Samurai Sword 3 | 355363 | [355363-progress-pet-battle-chip-574-samurai-sword-3.json](./355363-progress-pet-battle-chip-574-samurai-sword-3.json) |
 | Progress PET: Battle Chip - 575: Senshahou 1 | 355364 | [355364-progress-pet-battle-chip-575-senshahou-1.json](./355364-progress-pet-battle-chip-575-senshahou-1.json) |
 | Progress PET: Battle Chip - 576: Senshahou 2 | 355365 | [355365-progress-pet-battle-chip-576-senshahou-2.json](./355365-progress-pet-battle-chip-576-senshahou-2.json) |
+| Progress PET: Enzan Version | 353156 | [353156-progress-pet-enzan-version.json](./353156-progress-pet-enzan-version.json) |
+| Progress PET: Forte Cross Edition | 353158 | [353158-progress-pet-forte-cross-edition.json](./353158-progress-pet-forte-cross-edition.json) |
+| Progress PET: Netto DX Edition | 353160 | [353160-progress-pet-netto-dx-edition.json](./353160-progress-pet-netto-dx-edition.json) |
 | Progress PET: Netto Version | 353154 | [353154-progress-pet-netto-version.json](./353154-progress-pet-netto-version.json) |
 | Progress Quest | 94363 | [94363-progress-quest.json](./94363-progress-quest.json) |
 | Progress Racer RPG | 332872 | [332872-progress-racer-rpg.json](./332872-progress-racer-rpg.json) |
