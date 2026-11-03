@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daikaijuu Monogatari II | 44414 | [44414-daikaijuu-monogatari-ii.json](./44414-daikaijuu-monogatari-ii.json) |
 | Daikaijuu Monogatari: The Miracle of the Zone | 62071 | [62071-daikaijuu-monogatari-the-miracle-of-the-zone.json](./62071-daikaijuu-monogatari-the-miracle-of-the-zone.json) |
 | Daikaijuu no Gyakushuu | 221042 | [221042-daikaijuu-no-gyakushuu.json](./221042-daikaijuu-no-gyakushuu.json) |
+| Daikatana | 361416 | [361416-daikatana.json](./361416-daikatana.json) |
 | Daikatana | 8201 | [8201-daikatana.json](./8201-daikatana.json) |
 | Daikon Set | 55911 | [55911-daikon-set.json](./55911-daikon-set.json) |
 | Daikoukai Jidai | 41729 | [41729-daikoukai-jidai.json](./41729-daikoukai-jidai.json) |
@@ -1107,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DangoVerse | 284998 | [284998-dangoverse.json](./284998-dangoverse.json) |
 | Dangun Feveron | 40979 | [40979-dangun-feveron.json](./40979-dangun-feveron.json) |
 | Dani to Evan: Kids Note | 280073 | [280073-dani-to-evan-kids-note.json](./280073-dani-to-evan-kids-note.json) |
+| Daniel in Danger | 361382 | [361382-daniel-in-danger.json](./361382-daniel-in-danger.json) |
 | Daniel Pintado's Land of Silence | 284999 | [284999-daniel-pintados-land-of-silence.json](./284999-daniel-pintados-land-of-silence.json) |
 | Daniel X: The Ultimate Power | 67188 | [67188-daniel-x-the-ultimate-power.json](./67188-daniel-x-the-ultimate-power.json) |
 | Daniel's Jetpack Flight | 331755 | [331755-daniels-jetpack-flight.json](./331755-daniels-jetpack-flight.json) |
@@ -3761,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead to Rights II | 5810 | [5810-dead-to-rights-ii.json](./5810-dead-to-rights-ii.json) |
 | Dead to Rights: Reckoning | 3010 | [3010-dead-to-rights-reckoning.json](./3010-dead-to-rights-reckoning.json) |
 | Dead to Rights: Retribution | 6960 | [6960-dead-to-rights-retribution.json](./6960-dead-to-rights-retribution.json) |
+| Dead to Rights: Retribution - GAC Pack | 361393 | [361393-dead-to-rights-retribution-gac-pack.json](./361393-dead-to-rights-retribution-gac-pack.json) |
 | Dead Tomb | 283282 | [283282-dead-tomb.json](./283282-dead-tomb.json) |
 | Dead Town Defense | 370253 | [370253-dead-town-defense.json](./370253-dead-town-defense.json) |
 | Dead Town Survival | 370243 | [370243-dead-town-survival.json](./370243-dead-town-survival.json) |
@@ -15280,6 +15283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream of the Blood Moon | 122998 | [122998-dream-of-the-blood-moon.json](./122998-dream-of-the-blood-moon.json) |
 | Dream of the Hikikomori | 190881 | [190881-dream-of-the-hikikomori.json](./190881-dream-of-the-hikikomori.json) |
 | Dream of the Star Haven | 277122 | [277122-dream-of-the-star-haven.json](./277122-dream-of-the-star-haven.json) |
+| Dream of Things | 361384 | [361384-dream-of-things.json](./361384-dream-of-things.json) |
 | Dream of Tiny Snow | 244786 | [244786-dream-of-tiny-snow.json](./244786-dream-of-tiny-snow.json) |
 | Dream of Tomorrow | 161354 | [161354-dream-of-tomorrow.json](./161354-dream-of-tomorrow.json) |
 | Dream of YukiHana | 396018 | [396018-dream-of-yukihana.json](./396018-dream-of-yukihana.json) |
@@ -16082,6 +16086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droiyan | 146529 | [146529-droiyan.json](./146529-droiyan.json) |
 | Droiyan 2: Absolute Monarch | 146531 | [146531-droiyan-2-absolute-monarch.json](./146531-droiyan-2-absolute-monarch.json) |
 | Droiyan Next | 146530 | [146530-droiyan-next.json](./146530-droiyan-next.json) |
+| Droiyan Online | 361389 | [361389-droiyan-online.json](./361389-droiyan-online.json) |
 | Droker Clicker | 417576 | [417576-droker-clicker.json](./417576-droker-clicker.json) |
 | Drol | 6098 | [6098-drol.json](./6098-drol.json) |
 | Drom | 225821 | [225821-drom.json](./225821-drom.json) |
