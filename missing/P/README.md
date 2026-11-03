@@ -1245,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Protocol | 390769 | [390769-panic-protocol.json](./390769-panic-protocol.json) |
 | Panic Road | 268003 | [268003-panic-road.json](./268003-panic-road.json) |
 | Panic Road | 317019 | [317019-panic-road.json](./317019-panic-road.json) |
+| Panic Sell | 363132 | [363132-panic-sell.json](./363132-panic-sell.json) |
 | Panic Space | 41371 | [41371-panic-space.json](./41371-panic-space.json) |
 | Panic Station | 172113 | [172113-panic-station.json](./172113-panic-station.json) |
 | Panic Station VR | 130151 | [130151-panic-station-vr.json](./130151-panic-station-vr.json) |
@@ -5984,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieces of My Heart | 246635 | [246635-pieces-of-my-heart.json](./246635-pieces-of-my-heart.json) |
 | Pieces of the Kingdom | 377965 | [377965-pieces-of-the-kingdom.json](./377965-pieces-of-the-kingdom.json) |
 | Pieces of the Past | 293042 | [293042-pieces-of-the-past.json](./293042-pieces-of-the-past.json) |
+| Pieces to Find | 363130 | [363130-pieces-to-find.json](./363130-pieces-to-find.json) |
 | Piecewise!: A Daily Puzzle Game! | 404593 | [404593-piecewise-a-daily-puzzle-game.json](./404593-piecewise-a-daily-puzzle-game.json) |
 | Piecework: The Jigsaw Museum | 421788 | [421788-piecework-the-jigsaw-museum.json](./421788-piecework-the-jigsaw-museum.json) |
 | PieClicker | 245740 | [245740-pieclicker.json](./245740-pieclicker.json) |
