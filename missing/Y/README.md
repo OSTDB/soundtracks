@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshida Koumuten | 265650 | [265650-yoshida-koumuten.json](./265650-yoshida-koumuten.json) |
 | Yoshiko, Go to Your Relatives' House! | 394434 | [394434-yoshiko-go-to-your-relatives-house.json](./394434-yoshiko-go-to-your-relatives-house.json) |
 | Yoshima: Hentai Simulator | 326304 | [326304-yoshima-hentai-simulator.json](./326304-yoshima-hentai-simulator.json) |
+| Yoshima: Hentai Simulator - Horny Summer DLC | 360297 | [360297-yoshima-hentai-simulator-horny-summer-dlc.json](./360297-yoshima-hentai-simulator-horny-summer-dlc.json) |
 | Yoshimi Yahtzee | 202039 | [202039-yoshimi-yahtzee.json](./202039-yoshimi-yahtzee.json) |
 | Yoshimi-kun wa Game Bakkari | 356152 | [356152-yoshimi-kun-wa-game-bakkari.json](./356152-yoshimi-kun-wa-game-bakkari.json) |
 | Yoshimitsu Hatsumi | 159999 | [159999-yoshimitsu-hatsumi.json](./159999-yoshimitsu-hatsumi.json) |
