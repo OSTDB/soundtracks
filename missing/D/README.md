@@ -14537,6 +14537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Spirits 2 | 315690 | [315690-dragon-spirits-2.json](./315690-dragon-spirits-2.json) |
 | Dragon Spirits in Fight | 320812 | [320812-dragon-spirits-in-fight.json](./320812-dragon-spirits-in-fight.json) |
 | Dragon Spot | 345046 | [345046-dragon-spot.json](./345046-dragon-spot.json) |
+| Dragon Sprouts | 349046 | [349046-dragon-sprouts.json](./349046-dragon-sprouts.json) |
 | Dragon Star Varnir | 103334 | [103334-dragon-star-varnir.json](./103334-dragon-star-varnir.json) |
 | Dragon Star Varnir: Complete Deluxe Edition | 186884 | [186884-dragon-star-varnir-complete-deluxe-edition.json](./186884-dragon-star-varnir-complete-deluxe-edition.json) |
 | Dragon Star Varnir: DLC Bundle | 227383 | [227383-dragon-star-varnir-dlc-bundle.json](./227383-dragon-star-varnir-dlc-bundle.json) |
@@ -15512,6 +15513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland | 21170 | [21170-dreamland.json](./21170-dreamland.json) |
 | Dreamland | 224322 | [224322-dreamland.json](./224322-dreamland.json) |
 | Dreamland | 274535 | [274535-dreamland.json](./274535-dreamland.json) |
+| Dreamland | 349196 | [349196-dreamland.json](./349196-dreamland.json) |
 | DreamLand | 32173 | [32173-dreamland.json](./32173-dreamland.json) |
 | Dreamland Arcade | 310572 | [310572-dreamland-arcade.json](./310572-dreamland-arcade.json) |
 | Dreamland coffee | 231820 | [231820-dreamland-coffee.json](./231820-dreamland-coffee.json) |
@@ -18197,6 +18199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DVD Karaoke Game DVT-G100 | 245691 | [245691-dvd-karaoke-game-dvt-g100.json](./245691-dvd-karaoke-game-dvt-g100.json) |
 | DVD Screensaver 2: 30th Anniversary Survivors Edition | 418401 | [418401-dvd-screensaver-2-30th-anniversary-survivors-edition.json](./418401-dvd-screensaver-2-30th-anniversary-survivors-edition.json) |
 | DVD Screensaver Simulator Rebirth Reimagined Definitive Reloaded Special Intergrade Ultimate HD Legacy Collection Remastered (2027 Edition) | 408785 | [408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json](./408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json) |
+| DVD Store Simulator | 349071 | [349071-dvd-store-simulator.json](./349071-dvd-store-simulator.json) |
 | DVD Survivors | 395479 | [395479-dvd-survivors.json](./395479-dvd-survivors.json) |
 | DvDrum, Ultimate Drum Simulator! | 27206 | [27206-dvdrum-ultimate-drum-simulator.json](./27206-dvdrum-ultimate-drum-simulator.json) |
 | Dvergatal: Thorin's Quest | 178420 | [178420-dvergatal-thorins-quest.json](./178420-dvergatal-thorins-quest.json) |
