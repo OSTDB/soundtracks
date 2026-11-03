@@ -7781,6 +7781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Death of Zoe | 159841 | [159841-the-death-of-zoe.json](./159841-the-death-of-zoe.json) |
 | The Death Trap | 63756 | [63756-the-death-trap.json](./63756-the-death-trap.json) |
 | The Deathmind | 353381 | [353381-the-deathmind.json](./353381-the-deathmind.json) |
+| The Debt Collector | 389830 | [389830-the-debt-collector.json](./389830-the-debt-collector.json) |
 | The Debug | 139269 | [139269-the-debug.json](./139269-the-debug.json) |
 | The Deceived Man | 310421 | [310421-the-deceived-man.json](./310421-the-deceived-man.json) |
 | The December Effect | 163766 | [163766-the-december-effect.json](./163766-the-december-effect.json) |
@@ -11443,6 +11444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Guild | 342200 | [342200-the-last-guild.json](./342200-the-last-guild.json) |
 | The Last Guy | 21348 | [21348-the-last-guy.json](./21348-the-last-guy.json) |
 | The Last Hair | 236219 | [236219-the-last-hair.json](./236219-the-last-hair.json) |
+| The Last Harvest: Uncanny Smile | 389837 | [389837-the-last-harvest-uncanny-smile.json](./389837-the-last-harvest-uncanny-smile.json) |
 | The Last Haven | 127615 | [127615-the-last-haven.json](./127615-the-last-haven.json) |
 | The Last Haven | 381306 | [381306-the-last-haven.json](./381306-the-last-haven.json) |
 | The Last Hearth Defense | 352321 | [352321-the-last-hearth-defense.json](./352321-the-last-hearth-defense.json) |
@@ -16359,6 +16361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sub Shop | 308365 | [308365-the-sub-shop.json](./308365-the-sub-shop.json) |
 | The Subconscious Fear | 271809 | [271809-the-subconscious-fear.json](./271809-the-subconscious-fear.json) |
 | The Subject | 105716 | [105716-the-subject.json](./105716-the-subject.json) |
+| The Subject: Protocol Zero | 389852 | [389852-the-subject-protocol-zero.json](./389852-the-subject-protocol-zero.json) |
 | The Submerging Island | 253453 | [253453-the-submerging-island.json](./253453-the-submerging-island.json) |
 | The Subminer | 410344 | [410344-the-subminer.json](./410344-the-subminer.json) |
 | The Substance of Things | 174359 | [174359-the-substance-of-things.json](./174359-the-substance-of-things.json) |
@@ -17137,6 +17140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trailer Incident | 390652 | [390652-the-trailer-incident.json](./390652-the-trailer-incident.json) |
 | The Train | 256993 | [256993-the-train.json](./256993-the-train.json) |
 | The Train | 50065 | [50065-the-train.json](./50065-the-train.json) |
+| The Train Arrives at 10 PM | 389857 | [389857-the-train-arrives-at-10-pm.json](./389857-the-train-arrives-at-10-pm.json) |
 | The Train Can't Escape Without XXX!? | 353915 | [353915-the-train-cant-escape-without-xxx.json](./353915-the-train-cant-escape-without-xxx.json) |
 | The Train Giant | 10002 | [10002-the-train-giant.json](./10002-the-train-giant.json) |
 | The Train of Souls | 177772 | [177772-the-train-of-souls.json](./177772-the-train-of-souls.json) |
@@ -19534,6 +19538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThruSpace | 84952 | [84952-thruspace.json](./84952-thruspace.json) |
 | Thrust | 12967 | [12967-thrust.json](./12967-thrust.json) |
 | Thrust & Shoot: Flight School | 51554 | [51554-thrust-and-shoot-flight-school.json](./51554-thrust-and-shoot-flight-school.json) |
+| Thrust 8 | 389813 | [389813-thrust-8.json](./389813-thrust-8.json) |
 | Thrust Fall | 351577 | [351577-thrust-fall.json](./351577-thrust-fall.json) |
 | Thrust II | 38034 | [38034-thrust-ii.json](./38034-thrust-ii.json) |
 | Thrust Issues | 382329 | [382329-thrust-issues.json](./382329-thrust-issues.json) |
@@ -30053,6 +30058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Love Story: Summer Days, and yet... | 137979 | [137979-true-love-story-summer-days-and-yet.json](./137979-true-love-story-summer-days-and-yet.json) |
 | True Love Sweet Lies | 238887 | [238887-true-love-sweet-lies.json](./238887-true-love-sweet-lies.json) |
 | True Love: Confide to the Maple | 32266 | [32266-true-love-confide-to-the-maple.json](./32266-true-love-confide-to-the-maple.json) |
+| True Love's Curse | 389825 | [389825-true-loves-curse.json](./389825-true-loves-curse.json) |
 | True Lover's Knot | 34095 | [34095-true-lovers-knot.json](./34095-true-lovers-knot.json) |
 | True Magician | 190330 | [190330-true-magician.json](./190330-true-magician.json) |
 | True Matrix Total Conversion | 218654 | [218654-true-matrix-total-conversion.json](./218654-true-matrix-total-conversion.json) |
