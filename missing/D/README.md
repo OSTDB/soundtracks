@@ -11895,6 +11895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Let Her In | 305990 | [305990-dont-let-her-in.json](./305990-dont-let-her-in.json) |
 | Don't Let It Die | 295227 | [295227-dont-let-it-die.json](./295227-dont-let-it-die.json) |
 | Don’t Let It Out | 256081 | [256081-don-t-let-it-out.json](./256081-don-t-let-it-out.json) |
+| Don't Let It Starve | 363116 | [363116-dont-let-it-starve.json](./363116-dont-let-it-starve.json) |
 | Don't Let Me Down | 204417 | [204417-dont-let-me-down.json](./204417-dont-let-me-down.json) |
 | Don't Let Me Fade | 352220 | [352220-dont-let-me-fade.json](./352220-dont-let-me-fade.json) |
 | Don't Let Me Rot | 365209 | [365209-dont-let-me-rot.json](./365209-dont-let-me-rot.json) |
@@ -13674,6 +13675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draconia | 143903 | [143903-draconia.json](./143903-draconia.json) |
 | Draconia Saga | 309216 | [309216-draconia-saga.json](./309216-draconia-saga.json) |
 | Draconian Wars | 17324 | [17324-draconian-wars.json](./17324-draconian-wars.json) |
+| Draconian: Conquest of Dawnbird | 363141 | [363141-draconian-conquest-of-dawnbird.json](./363141-draconian-conquest-of-dawnbird.json) |
 | Draconic Date | 324889 | [324889-draconic-date.json](./324889-draconic-date.json) |
 | Draconic Echoes: The Ardent War | 126664 | [126664-draconic-echoes-the-ardent-war.json](./126664-draconic-echoes-the-ardent-war.json) |
 | Draconic Evolution | 232672 | [232672-draconic-evolution.json](./232672-draconic-evolution.json) |
