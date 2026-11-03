@@ -8982,6 +8982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire | 86187 | [86187-grimoire.json](./86187-grimoire.json) |
 | Grimoire Arena | 125328 | [125328-grimoire-arena.json](./125328-grimoire-arena.json) |
 | Grimoire Chronicles | 29165 | [29165-grimoire-chronicles.json](./29165-grimoire-chronicles.json) |
+| Grimoire Grapple | 386084 | [386084-grimoire-grapple.json](./386084-grimoire-grapple.json) |
 | Grimoire Limbo | 416334 | [416334-grimoire-limbo.json](./416334-grimoire-limbo.json) |
 | Grimoire Melody | 125599 | [125599-grimoire-melody.json](./125599-grimoire-melody.json) |
 | Grimoire of Blanks | 418214 | [418214-grimoire-of-blanks.json](./418214-grimoire-of-blanks.json) |
