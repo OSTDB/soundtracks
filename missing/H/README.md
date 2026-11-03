@@ -2250,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: The Winds of Anthos | 228855 | [228855-harvest-moon-the-winds-of-anthos.json](./228855-harvest-moon-the-winds-of-anthos.json) |
 | Harvest Moon: The Winds of Anthos - Animal Avalanche Pack | 269053 | [269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json](./269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json) |
 | Harvest Moon: The Winds of Anthos - Interior Design & Tool Upgrade Pack | 404553 | [404553-harvest-moon-the-winds-of-anthos-interior-design-and-tool-upgrade-pack.json](./404553-harvest-moon-the-winds-of-anthos-interior-design-and-tool-upgrade-pack.json) |
+| Harvest Moon: The Winds of Anthos - The Great Outdoors Pack | 360845 | [360845-harvest-moon-the-winds-of-anthos-the-great-outdoors-pack.json](./360845-harvest-moon-the-winds-of-anthos-the-great-outdoors-pack.json) |
 | Harvest Moon: The Winds of Anthos - Visitors From Afar Pack | 270288 | [270288-harvest-moon-the-winds-of-anthos-visitors-from-afar-pack.json](./270288-harvest-moon-the-winds-of-anthos-visitors-from-afar-pack.json) |
 | Harvest Moon: The Winds of Anthos Bundle | 269054 | [269054-harvest-moon-the-winds-of-anthos-bundle.json](./269054-harvest-moon-the-winds-of-anthos-bundle.json) |
 | Harvest of Names | 403443 | [403443-harvest-of-names.json](./403443-harvest-of-names.json) |
