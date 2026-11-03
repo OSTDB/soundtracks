@@ -6002,6 +6002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Going Deeper! | 196301 | [196301-going-deeper.json](./196301-going-deeper.json) |
 | Going Down | 138786 | [138786-going-down.json](./138786-going-down.json) |
 | Going Down | 266767 | [266767-going-down.json](./266767-going-down.json) |
+| Going Down | 360464 | [360464-going-down.json](./360464-going-down.json) |
 | Going Down in Fishstory | 178012 | [178012-going-down-in-fishstory.json](./178012-going-down-in-fishstory.json) |
 | Going Down Turbo | 321613 | [321613-going-down-turbo.json](./321613-going-down-turbo.json) |
 | Going for Nuts | 329727 | [329727-going-for-nuts.json](./329727-going-for-nuts.json) |
@@ -10503,6 +10504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunHero | 30035 | [30035-gunhero.json](./30035-gunhero.json) |
 | Gunhound EX | 16958 | [16958-gunhound-ex.json](./16958-gunhound-ex.json) |
 | GunHowl | 144802 | [144802-gunhowl.json](./144802-gunhowl.json) |
+| Gunita | 360309 | [360309-gunita.json](./360309-gunita.json) |
 | Gunja Tteokbokki | 395730 | [395730-gunja-tteokbokki.json](./395730-gunja-tteokbokki.json) |
 | Gunjack | 18363 | [18363-gunjack.json](./18363-gunjack.json) |
 | Gunjack Next (working title) | 100070 | [100070-gunjack-next-working-title.json](./100070-gunjack-next-working-title.json) |
