@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Los Angeles | 316957 | [316957-101-cats-in-los-angeles.json](./316957-101-cats-in-los-angeles.json) |
 | 101 Cats in Macau | 366739 | [366739-101-cats-in-macau.json](./366739-101-cats-in-macau.json) |
 | 101 Cats in Madrid | 326082 | [326082-101-cats-in-madrid.json](./326082-101-cats-in-madrid.json) |
+| 101 Cats in Medina | 351382 | [351382-101-cats-in-medina.json](./351382-101-cats-in-medina.json) |
 | 101 Cats in Miami | 326081 | [326081-101-cats-in-miami.json](./326081-101-cats-in-miami.json) |
 | 101 Cats in Milan | 337608 | [337608-101-cats-in-milan.json](./337608-101-cats-in-milan.json) |
 | 101 Cats in Moscow | 372340 | [372340-101-cats-in-moscow.json](./372340-101-cats-in-moscow.json) |
