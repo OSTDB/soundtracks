@@ -497,10 +497,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Lost in Australia Find & Color | 359556 | [359556-100-cats-lost-in-australia-find-and-color.json](./359556-100-cats-lost-in-australia-find-and-color.json) |
 | 100 Cats Lost in Birthday Bash | 359031 | [359031-100-cats-lost-in-birthday-bash.json](./359031-100-cats-lost-in-birthday-bash.json) |
 | 100 Cats Lost in Canada 2 | 359033 | [359033-100-cats-lost-in-canada-2.json](./359033-100-cats-lost-in-canada-2.json) |
+| 100 Cats Lost in Canada Find & Color | 352496 | [352496-100-cats-lost-in-canada-find-and-color.json](./352496-100-cats-lost-in-canada-find-and-color.json) |
 | 100 Cats Lost In Canada: Extra Content | 376890 | [376890-100-cats-lost-in-canada-extra-content.json](./376890-100-cats-lost-in-canada-extra-content.json) |
 | 100 Cats Lost in China | 349285 | [349285-100-cats-lost-in-china.json](./349285-100-cats-lost-in-china.json) |
 | 100 Cats Lost in Circus Escape | 359030 | [359030-100-cats-lost-in-circus-escape.json](./359030-100-cats-lost-in-circus-escape.json) |
 | 100 Cats Lost in Da Vinci’s Workshop | 359052 | [359052-100-cats-lost-in-da-vinci-s-workshop.json](./359052-100-cats-lost-in-da-vinci-s-workshop.json) |
+| 100 Cats Lost in England | 352499 | [352499-100-cats-lost-in-england.json](./352499-100-cats-lost-in-england.json) |
 | 100 Cats Lost in Funfair Frenzy | 359027 | [359027-100-cats-lost-in-funfair-frenzy.json](./359027-100-cats-lost-in-funfair-frenzy.json) |
 | 100 Cats Lost in Halloween Havoc | 359035 | [359035-100-cats-lost-in-halloween-havoc.json](./359035-100-cats-lost-in-halloween-havoc.json) |
 | 100 Cats Lost in Italy | 349282 | [349282-100-cats-lost-in-italy.json](./349282-100-cats-lost-in-italy.json) |
@@ -508,9 +510,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Lost In Japan: Extra Content | 376889 | [376889-100-cats-lost-in-japan-extra-content.json](./376889-100-cats-lost-in-japan-extra-content.json) |
 | 100 Cats Lost in Modern Art Mayhem | 359029 | [359029-100-cats-lost-in-modern-art-mayhem.json](./359029-100-cats-lost-in-modern-art-mayhem.json) |
 | 100 Cats Lost in Picasso’s Cubic World | 359026 | [359026-100-cats-lost-in-picasso-s-cubic-world.json](./359026-100-cats-lost-in-picasso-s-cubic-world.json) |
+| 100 Cats Lost in Poland Find & Color | 352495 | [352495-100-cats-lost-in-poland-find-and-color.json](./352495-100-cats-lost-in-poland-find-and-color.json) |
 | 100 Cats Lost In Poland: Extra Content | 359562 | [359562-100-cats-lost-in-poland-extra-content.json](./359562-100-cats-lost-in-poland-extra-content.json) |
 | 100 Cats Lost in Russia | 349283 | [349283-100-cats-lost-in-russia.json](./349283-100-cats-lost-in-russia.json) |
 | 100 Cats Lost in South Africa | 349286 | [349286-100-cats-lost-in-south-africa.json](./349286-100-cats-lost-in-south-africa.json) |
+| 100 Cats Lost in Space Find & Color | 352500 | [352500-100-cats-lost-in-space-find-and-color.json](./352500-100-cats-lost-in-space-find-and-color.json) |
 | 100 Cats Lost in Surreal Dreamscape | 359032 | [359032-100-cats-lost-in-surreal-dreamscape.json](./359032-100-cats-lost-in-surreal-dreamscape.json) |
 | 100 Cats Lost in Thailand | 349284 | [349284-100-cats-lost-in-thailand.json](./349284-100-cats-lost-in-thailand.json) |
 | 100 Cats Lost In Thailand: Extra Content | 376888 | [376888-100-cats-lost-in-thailand-extra-content.json](./376888-100-cats-lost-in-thailand-extra-content.json) |
@@ -521,7 +525,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Lost in Turkey | 349280 | [349280-100-cats-lost-in-turkey.json](./349280-100-cats-lost-in-turkey.json) |
 | 100 Cats Lost In Turkey: Extra Content | 376887 | [376887-100-cats-lost-in-turkey-extra-content.json](./376887-100-cats-lost-in-turkey-extra-content.json) |
 | 100 Cats Lost in Undersea Wonders | 376891 | [376891-100-cats-lost-in-undersea-wonders.json](./376891-100-cats-lost-in-undersea-wonders.json) |
+| 100 Cats Lost in Usa Find & Color | 352497 | [352497-100-cats-lost-in-usa-find-and-color.json](./352497-100-cats-lost-in-usa-find-and-color.json) |
 | 100 Cats Lost in Van Gogh’s Brushstrokes | 376892 | [376892-100-cats-lost-in-van-gogh-s-brushstrokes.json](./376892-100-cats-lost-in-van-gogh-s-brushstrokes.json) |
+| 100 Cats Lost In World 2 Find & Color | 352498 | [352498-100-cats-lost-in-world-2-find-and-color.json](./352498-100-cats-lost-in-world-2-find-and-color.json) |
 | 100 Cats Lost in World Find & Color | 348783 | [348783-100-cats-lost-in-world-find-and-color.json](./348783-100-cats-lost-in-world-find-and-color.json) |
 | 100 Cats Mexico | 283045 | [283045-100-cats-mexico.json](./283045-100-cats-mexico.json) |
 | 100 Cats New York | 283043 | [283043-100-cats-new-york.json](./283043-100-cats-new-york.json) |
@@ -529,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Pakistan | 283867 | [283867-100-cats-pakistan.json](./283867-100-cats-pakistan.json) |
 | 100 Cats Philippines | 335191 | [335191-100-cats-philippines.json](./335191-100-cats-philippines.json) |
 | 100 Cats Singapore | 284618 | [284618-100-cats-singapore.json](./284618-100-cats-singapore.json) |
+| 100 Cats World | 352494 | [352494-100-cats-world.json](./352494-100-cats-world.json) |
 | 100 Chernobyl Cats | 375450 | [375450-100-chernobyl-cats.json](./375450-100-chernobyl-cats.json) |
 | 100 Chests | 101332 | [101332-100-chests.json](./101332-100-chests.json) |
 | 100 China Cats | 315289 | [315289-100-china-cats.json](./315289-100-china-cats.json) |
