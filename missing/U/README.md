@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uka & Haruka: Hentai Puzzle 18+ | 312681 | [312681-uka-and-haruka-hentai-puzzle-18.json](./312681-uka-and-haruka-hentai-puzzle-18.json) |
 | Ukemeowy | 270872 | [270872-ukemeowy.json](./270872-ukemeowy.json) |
 | Ukhar | 90260 | [90260-ukhar.json](./90260-ukhar.json) |
+| Uki Uki Tsuri Tengoku: Uogami Densetsu wo Oe | 386088 | [386088-uki-uki-tsuri-tengoku-uogami-densetsu-wo-oe.json](./386088-uki-uki-tsuri-tengoku-uogami-densetsu-wo-oe.json) |
 | Uki-uki Tsuri Tengoku: Kawa Monogatari | 385963 | [385963-uki-uki-tsuri-tengoku-kawa-monogatari.json](./385963-uki-uki-tsuri-tengoku-kawa-monogatari.json) |
 | Uki-Uki-Tengoku 2 | 275116 | [275116-uki-uki-tengoku-2.json](./275116-uki-uki-tengoku-2.json) |
 | Ukik | 246103 | [246103-ukik.json](./246103-ukik.json) |
