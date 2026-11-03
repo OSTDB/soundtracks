@@ -13617,6 +13617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The No Button Game | 225293 | [225293-the-no-button-game.json](./225293-the-no-button-game.json) |
 | The No Goblin Complete Collection | 53767 | [53767-the-no-goblin-complete-collection.json](./53767-the-no-goblin-complete-collection.json) |
 | The No No Man | 316412 | [316412-the-no-no-man.json](./316412-the-no-no-man.json) |
+| The Node | 391425 | [391425-the-node.json](./391425-the-node.json) |
 | The Noexistencen of You and Me | 325916 | [325916-the-noexistencen-of-you-and-me.json](./325916-the-noexistencen-of-you-and-me.json) |
 | The Noid's Super Pizza Shootout | 342587 | [342587-the-noids-super-pizza-shootout.json](./342587-the-noids-super-pizza-shootout.json) |
 | The Noise's Jam-Packed Radical Mini Mayhem! | 316590 | [316590-the-noises-jam-packed-radical-mini-mayhem.json](./316590-the-noises-jam-packed-radical-mini-mayhem.json) |
@@ -15933,6 +15934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slothgate Experiment | 224712 | [224712-the-slothgate-experiment.json](./224712-the-slothgate-experiment.json) |
 | The Slothgate Experiment: Death's Door | 237564 | [237564-the-slothgate-experiment-deaths-door.json](./237564-the-slothgate-experiment-deaths-door.json) |
 | The Slovak Run | 199999 | [199999-the-slovak-run.json](./199999-the-slovak-run.json) |
+| The Slow Process of Pulling Out My Guts | 391432 | [391432-the-slow-process-of-pulling-out-my-guts.json](./391432-the-slow-process-of-pulling-out-my-guts.json) |
 | The Slowpoke Shack | 329150 | [329150-the-slowpoke-shack.json](./329150-the-slowpoke-shack.json) |
 | The Slug | 51732 | [51732-the-slug.json](./51732-the-slug.json) |
 | The Slugger | 94482 | [94482-the-slugger.json](./94482-the-slugger.json) |
@@ -26363,6 +26365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailmarks | 391079 | [391079-trailmarks.json](./391079-trailmarks.json) |
 | Trailmarks | 414815 | [414815-trailmarks.json](./414815-trailmarks.json) |
 | Trailpa | 256518 | [256518-trailpa.json](./256518-trailpa.json) |
+| Trailquest MTB | 391436 | [391436-trailquest-mtb.json](./391436-trailquest-mtb.json) |
 | TrailRail | 366850 | [366850-trailrail.json](./366850-trailrail.json) |
 | Trails | 342158 | [342158-trails.json](./342158-trails.json) |
 | Trails and Traces: The Tomb of Thomas Tew | 146236 | [146236-trails-and-traces-the-tomb-of-thomas-tew.json](./146236-trails-and-traces-the-tomb-of-thomas-tew.json) |
