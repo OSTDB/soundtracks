@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagami no Kuni no Legend | 256323 | [256323-kagami-no-kuni-no-legend.json](./256323-kagami-no-kuni-no-legend.json) |
 | Kagami: An Odyssey in Japanese Language Learning | 284190 | [284190-kagami-an-odyssey-in-japanese-language-learning.json](./284190-kagami-an-odyssey-in-japanese-language-learning.json) |
 | Kagamihara/Justice | 222256 | [222256-kagamihara-justice.json](./222256-kagamihara-justice.json) |
+| Kagaribi | 398118 | [398118-kagaribi.json](./398118-kagaribi.json) |
 | Kage | 400586 | [400586-kage.json](./400586-kage.json) |
 | Kage Fumazu | 98056 | [98056-kage-fumazu.json](./98056-kage-fumazu.json) |
 | Kaged | 6519 | [6519-kaged.json](./6519-kaged.json) |
@@ -2637,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killsquad | 118600 | [118600-killsquad.json](./118600-killsquad.json) |
 | Killstreak | 150885 | [150885-killstreak.json](./150885-killstreak.json) |
 | KillStreak.tv | 116715 | [116715-killstreak-tv.json](./116715-killstreak-tv.json) |
+| Killswitch Climax | 398106 | [398106-killswitch-climax.json](./398106-killswitch-climax.json) |
 | Killzone 3 | 1867 | [1867-killzone-3.json](./1867-killzone-3.json) |
 | Killzone 3: Collector's Edition | 163151 | [163151-killzone-3-collectors-edition.json](./163151-killzone-3-collectors-edition.json) |
 | Killzone 3: Helghast Edition | 163147 | [163147-killzone-3-helghast-edition.json](./163147-killzone-3-helghast-edition.json) |
@@ -4507,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights Within | 254047 | [254047-knights-within.json](./254047-knights-within.json) |
 | Knights: Spiral Islands | 66098 | [66098-knights-spiral-islands.json](./66098-knights-spiral-islands.json) |
 | Knightsquire | 78762 | [78762-knightsquire.json](./78762-knightsquire.json) |
+| Knightstones | 398144 | [398144-knightstones.json](./398144-knightstones.json) |
 | Knighttron | 314755 | [314755-knighttron.json](./314755-knighttron.json) |
 | Knightwatch | 376651 | [376651-knightwatch.json](./376651-knightwatch.json) |
 | Knighty | 216719 | [216719-knighty.json](./216719-knighty.json) |
