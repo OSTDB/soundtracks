@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Waifu Juice | 216478 | [216478-your-waifu-juice.json](./216478-your-waifu-juice.json) |
 | Your Way | 171820 | [171820-your-way.json](./171820-your-way.json) |
 | Your Way Out | 395998 | [395998-your-way-out.json](./395998-your-way-out.json) |
+| Your Weight | 373123 | [373123-your-weight.json](./373123-your-weight.json) |
 | Your wife | 166731 | [166731-your-wife.json](./166731-your-wife.json) |
 | Your Wife Oh | 337757 | [337757-your-wife-oh.json](./337757-your-wife-oh.json) |
 | Your Wings My Wings | 257511 | [257511-your-wings-my-wings.json](./257511-your-wings-my-wings.json) |
