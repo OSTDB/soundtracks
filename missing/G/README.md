@@ -3548,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Chaser | 81429 | [81429-ghost-chaser.json](./81429-ghost-chaser.json) |
 | Ghost Chaser Densei | 15828 | [15828-ghost-chaser-densei.json](./15828-ghost-chaser-densei.json) |
 | Ghost Clicker | 340298 | [340298-ghost-clicker.json](./340298-ghost-clicker.json) |
+| Ghost Code: Ignite | 365393 | [365393-ghost-code-ignite.json](./365393-ghost-code-ignite.json) |
 | Ghost College | 150640 | [150640-ghost-college.json](./150640-ghost-college.json) |
 | Ghost College: Hotel Fright - Chapter 1 | 193427 | [193427-ghost-college-hotel-fright-chapter-1.json](./193427-ghost-college-hotel-fright-chapter-1.json) |
 | Ghost Control | 405546 | [405546-ghost-control.json](./405546-ghost-control.json) |
@@ -4444,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gitaroo Man | 404052 | [404052-gitaroo-man.json](./404052-gitaroo-man.json) |
 | Gitaroo Man Lives! | 42813 | [42813-gitaroo-man-lives.json](./42813-gitaroo-man-lives.json) |
 | Giten Megami Tensei: Tokyo Mokushiroku | 103378 | [103378-giten-megami-tensei-tokyo-mokushiroku.json](./103378-giten-megami-tensei-tokyo-mokushiroku.json) |
+| Give 1 Bit to GustavoGek | 365369 | [365369-give-1-bit-to-gustavogek.json](./365369-give-1-bit-to-gustavogek.json) |
 | Give a Dam! | 248066 | [248066-give-a-dam.json](./248066-give-a-dam.json) |
 | Give an imp a chance! | 330931 | [330931-give-an-imp-a-chance.json](./330931-give-an-imp-a-chance.json) |
 | Give Gifts Give Life | 397240 | [397240-give-gifts-give-life.json](./397240-give-gifts-give-life.json) |
@@ -4493,6 +4495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glacier 2 | 51046 | [51046-glacier-2.json](./51046-glacier-2.json) |
 | Glacier 3: The Meltdown | 16902 | [16902-glacier-3-the-meltdown.json](./16902-glacier-3-the-meltdown.json) |
 | Glacier Blast | 62108 | [62108-glacier-blast.json](./62108-glacier-blast.json) |
+| Glacier Hop | 365381 | [365381-glacier-hop.json](./365381-glacier-hop.json) |
 | Glacier Patrol | 40674 | [40674-glacier-patrol.json](./40674-glacier-patrol.json) |
 | Glaciered | 211671 | [211671-glaciered.json](./211671-glaciered.json) |
 | Glad Tidings | 379320 | [379320-glad-tidings.json](./379320-glad-tidings.json) |
@@ -5723,6 +5726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God: The Game | 264872 | [264872-god-the-game.json](./264872-god-the-game.json) |
 | God'n Spy Add-on: Power & Revolution 2023 Edition | 256989 | [256989-godn-spy-add-on-power-and-revolution-2023-edition.json](./256989-godn-spy-add-on-power-and-revolution-2023-edition.json) |
 | God’s Blessing on That Desire World! | 405872 | [405872-god-s-blessing-on-that-desire-world.json](./405872-god-s-blessing-on-that-desire-world.json) |
+| God's Continent | 365355 | [365355-gods-continent.json](./365355-gods-continent.json) |
 | God's Death | 32747 | [32747-gods-death.json](./32747-gods-death.json) |
 | God's Forest | 265133 | [265133-gods-forest.json](./265133-gods-forest.json) |
 | God's Gift | 236876 | [236876-gods-gift.json](./236876-gods-gift.json) |
@@ -7761,6 +7765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granvir | 285495 | [285495-granvir.json](./285495-granvir.json) |
 | Granyuu-shima! Daibouken | 274400 | [274400-granyuu-shima-daibouken.json](./274400-granyuu-shima-daibouken.json) |
 | Grape by Grape | 415349 | [415349-grape-by-grape.json](./415349-grape-by-grape.json) |
+| Grape Escape | 365398 | [365398-grape-escape.json](./365398-grape-escape.json) |
 | Grape Juice City | 247676 | [247676-grape-juice-city.json](./247676-grape-juice-city.json) |
 | Grapefruit | 304203 | [304203-grapefruit.json](./304203-grapefruit.json) |
 | Graph TD: Cosmic | 395104 | [395104-graph-td-cosmic.json](./395104-graph-td-cosmic.json) |
@@ -10584,6 +10589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns at Dawn: Arena | 214451 | [214451-guns-at-dawn-arena.json](./214451-guns-at-dawn-arena.json) |
 | Guns Blazing | 157370 | [157370-guns-blazing.json](./157370-guns-blazing.json) |
 | Guns Boy | 158170 | [158170-guns-boy.json](./158170-guns-boy.json) |
+| Guns Cant Walk | 365365 | [365365-guns-cant-walk.json](./365365-guns-cant-walk.json) |
 | Guns Craft | 368716 | [368716-guns-craft.json](./368716-guns-craft.json) |
 | Guns Craft Mod | 90708 | [90708-guns-craft-mod.json](./90708-guns-craft-mod.json) |
 | Guns Girls Lawyers Spies | 70254 | [70254-guns-girls-lawyers-spies.json](./70254-guns-girls-lawyers-spies.json) |
