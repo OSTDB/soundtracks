@@ -7471,6 +7471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Empire: King's Landing | 100853 | [100853-rise-of-empire-kings-landing.json](./100853-rise-of-empire-kings-landing.json) |
 | Rise of Empires: Ice and Fire | 178335 | [178335-rise-of-empires-ice-and-fire.json](./178335-rise-of-empires-ice-and-fire.json) |
 | Rise of Enigmas | 286780 | [286780-rise-of-enigmas.json](./286780-rise-of-enigmas.json) |
+| Rise of Erebus | 384472 | [384472-rise-of-erebus.json](./384472-rise-of-erebus.json) |
 | Rise of Eros | 218247 | [218247-rise-of-eros.json](./218247-rise-of-eros.json) |
 | Rise of Flight United | 16573 | [16573-rise-of-flight-united.json](./16573-rise-of-flight-united.json) |
 | Rise of Flight United: Battle of Saint-Mihiel | 162751 | [162751-rise-of-flight-united-battle-of-saint-mihiel.json](./162751-rise-of-flight-united-battle-of-saint-mihiel.json) |
@@ -11662,6 +11663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Build Pew! | 201572 | [201572-run-build-pew.json](./201572-run-build-pew.json) |
 | Run Bunny Home | 257770 | [257770-run-bunny-home.json](./257770-run-bunny-home.json) |
 | Run Chicken, Run! | 370795 | [370795-run-chicken-run.json](./370795-run-chicken-run.json) |
+| Run Coffee Run | 384817 | [384817-run-coffee-run.json](./384817-run-coffee-run.json) |
 | Run Crabby Run | 54462 | [54462-run-crabby-run.json](./54462-run-crabby-run.json) |
 | Run Desnecessauro | 204862 | [204862-run-desnecessauro.json](./204862-run-desnecessauro.json) |
 | Run Die Jump | 153357 | [153357-run-die-jump.json](./153357-run-die-jump.json) |
