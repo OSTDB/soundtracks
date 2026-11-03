@@ -2699,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the East | 128552 | [128552-journey-to-the-east.json](./128552-journey-to-the-east.json) |
 | Journey to the End | 281352 | [281352-journey-to-the-end.json](./281352-journey-to-the-end.json) |
 | Journey to the King | 390990 | [390990-journey-to-the-king.json](./390990-journey-to-the-king.json) |
+| Journey to the Place of Tomorrow | 389270 | [389270-journey-to-the-place-of-tomorrow.json](./389270-journey-to-the-place-of-tomorrow.json) |
 | Journey to the Rift | 310830 | [310830-journey-to-the-rift.json](./310830-journey-to-the-rift.json) |
 | Journey to the Savage Planet | 113108 | [113108-journey-to-the-savage-planet.json](./113108-journey-to-the-savage-planet.json) |
 | Journey to the Savage Planet: Employee of the Month Edition | 143481 | [143481-journey-to-the-savage-planet-employee-of-the-month-edition.json](./143481-journey-to-the-savage-planet-employee-of-the-month-edition.json) |
@@ -3058,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Bug | 25696 | [25696-jump-bug.json](./25696-jump-bug.json) |
 | Jump Bunny | 390457 | [390457-jump-bunny.json](./390457-jump-bunny.json) |
 | Jump Burger | 292003 | [292003-jump-burger.json](./292003-jump-burger.json) |
+| Jump By Coronho: Chapter 2 | 389273 | [389273-jump-by-coronho-chapter-2.json](./389273-jump-by-coronho-chapter-2.json) |
 | Jump Challenge! | 185284 | [185284-jump-challenge.json](./185284-jump-challenge.json) |
 | Jump City | 142087 | [142087-jump-city.json](./142087-jump-city.json) |
 | Jump Coaster | 40051 | [40051-jump-coaster.json](./40051-jump-coaster.json) |
