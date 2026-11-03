@@ -4069,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Friday | 339803 | [339803-after-friday.json](./339803-after-friday.json) |
 | After Fright | 279068 | [279068-after-fright.json](./279068-after-fright.json) |
 | After Gloom | 126772 | [126772-after-gloom.json](./126772-after-gloom.json) |
+| After Grow | 372578 | [372578-after-grow.json](./372578-after-grow.json) |
 | After He Was Gone | 203836 | [203836-after-he-was-gone.json](./203836-after-he-was-gone.json) |
 | After Heaven | 364851 | [364851-after-heaven.json](./364851-after-heaven.json) |
 | After Hell Freezes Over | 366912 | [366912-after-hell-freezes-over.json](./366912-after-hell-freezes-over.json) |
@@ -4896,6 +4897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aidyn Chronicles: The First Mage | 2850 | [2850-aidyn-chronicles-the-first-mage.json](./2850-aidyn-chronicles-the-first-mage.json) |
 | Aierlon | 203866 | [203866-aierlon.json](./203866-aierlon.json) |
 | AIeyes | 177275 | [177275-aieyes.json](./177275-aieyes.json) |
+| AIgent | 372704 | [372704-aigent.json](./372704-aigent.json) |
 | Aigiina no Yogen: From the Legend of Balubalouk | 73806 | [73806-aigiina-no-yogen-from-the-legend-of-balubalouk.json](./73806-aigiina-no-yogen-from-the-legend-of-balubalouk.json) |
 | Aigor Escape from Bishop | 127825 | [127825-aigor-escape-from-bishop.json](./127825-aigor-escape-from-bishop.json) |
 | AIII S.V.: Take the A-Train 3 S.V. | 42301 | [42301-aiii-s-v-take-the-a-train-3-s-v.json](./42301-aiii-s-v-take-the-a-train-3-s-v.json) |
@@ -8719,6 +8721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anchor Club | 187184 | [187184-anchor-club.json](./187184-anchor-club.json) |
 | Anchor Up | 166050 | [166050-anchor-up.json](./166050-anchor-up.json) |
 | Anchor-13 | 408047 | [408047-anchor-13.json](./408047-anchor-13.json) |
+| Anchor's Lament | 372720 | [372720-anchors-lament.json](./372720-anchors-lament.json) |
 | Anchored | 182787 | [182787-anchored.json](./182787-anchored.json) |
 | Anchored Alone | 408269 | [408269-anchored-alone.json](./408269-anchored-alone.json) |
 | Anchored Hearts: A Tale of Destiny | 291888 | [291888-anchored-hearts-a-tale-of-destiny.json](./291888-anchored-hearts-a-tale-of-destiny.json) |
@@ -12789,6 +12792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena of Ruins | 159787 | [159787-arena-of-ruins.json](./159787-arena-of-ruins.json) |
 | Arena of Sacrifice | 399426 | [399426-arena-of-sacrifice.json](./399426-arena-of-sacrifice.json) |
 | Arena of Speed: Fast and Furious | 174832 | [174832-arena-of-speed-fast-and-furious.json](./174832-arena-of-speed-fast-and-furious.json) |
+| Arena of Suffering | 372417 | [372417-arena-of-suffering.json](./372417-arena-of-suffering.json) |
 | Arena of Taryon | 278609 | [278609-arena-of-taryon.json](./278609-arena-of-taryon.json) |
 | Arena of the Gods | 95264 | [95264-arena-of-the-gods.json](./95264-arena-of-the-gods.json) |
 | Arena of the Mad King | 234142 | [234142-arena-of-the-mad-king.json](./234142-arena-of-the-mad-king.json) |
@@ -15311,6 +15315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrokings | 109915 | [109915-astrokings.json](./109915-astrokings.json) |
 | Astrolancer | 294943 | [294943-astrolancer.json](./294943-astrolancer.json) |
 | Astrolight | 182144 | [182144-astrolight.json](./182144-astrolight.json) |
+| Astrolite | 372421 | [372421-astrolite.json](./372421-astrolite.json) |
 | Astroloco: Worst Contact | 9987 | [9987-astroloco-worst-contact.json](./9987-astroloco-worst-contact.json) |
 | Astrologer | 130963 | [130963-astrologer.json](./130963-astrologer.json) |
 | Astrology | 147196 | [147196-astrology.json](./147196-astrology.json) |
