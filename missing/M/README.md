@@ -6287,6 +6287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Knights: Nightmare - Operation Ascalon Expansion | 265492 | [265492-mecha-knights-nightmare-operation-ascalon-expansion.json](./265492-mecha-knights-nightmare-operation-ascalon-expansion.json) |
 | Mecha Knights: Nightmare 2 | 377069 | [377069-mecha-knights-nightmare-2.json](./377069-mecha-knights-nightmare-2.json) |
 | Mecha Kucha Gacha Defence | 255038 | [255038-mecha-kucha-gacha-defence.json](./255038-mecha-kucha-gacha-defence.json) |
+| Mecha Legends | 394298 | [394298-mecha-legends.json](./394298-mecha-legends.json) |
 | Mecha Macho | 317390 | [317390-mecha-macho.json](./317390-mecha-macho.json) |
 | Mecha Mayhem | 291722 | [291722-mecha-mayhem.json](./291722-mecha-mayhem.json) |
 | Mecha Mining Marvelous Martian Minerals | 363934 | [363934-mecha-mining-marvelous-martian-minerals.json](./363934-mecha-mining-marvelous-martian-minerals.json) |
@@ -15090,6 +15091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Pub: Chapter 2 | 178827 | [178827-monster-pub-chapter-2.json](./178827-monster-pub-chapter-2.json) |
 | Monster Pub: Chapter 3 | 347078 | [347078-monster-pub-chapter-3.json](./347078-monster-pub-chapter-3.json) |
 | Monster Punish | 419627 | [419627-monster-punish.json](./419627-monster-punish.json) |
+| Monster Punk | 394312 | [394312-monster-punk.json](./394312-monster-punk.json) |
 | Monster Puroresu | 266632 | [266632-monster-puroresu.json](./266632-monster-puroresu.json) |
 | Monster Puzzle | 130827 | [130827-monster-puzzle.json](./130827-monster-puzzle.json) |
 | Monster Puzzle | 32304 | [32304-monster-puzzle.json](./32304-monster-puzzle.json) |
@@ -15407,6 +15409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montone | 415887 | [415887-montone.json](./415887-montone.json) |
 | MonTowers: Legend of Summoners | 299097 | [299097-montowers-legend-of-summoners.json](./299097-montowers-legend-of-summoners.json) |
 | MonTowers2 | 224008 | [224008-montowers2.json](./224008-montowers2.json) |
+| Montreal Mobility | 394345 | [394345-montreal-mobility.json](./394345-montreal-mobility.json) |
 | Monty is Innocent | 26279 | [26279-monty-is-innocent.json](./26279-monty-is-innocent.json) |
 | Monty Mole Island | 282731 | [282731-monty-mole-island.json](./282731-monty-mole-island.json) |
 | Monty on the Norm | 71243 | [71243-monty-on-the-norm.json](./71243-monty-on-the-norm.json) |
