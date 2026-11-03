@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pain is the Best Medicine | 292007 | [292007-pain-is-the-best-medicine.json](./292007-pain-is-the-best-medicine.json) |
 | Pain Loop | 255767 | [255767-pain-loop.json](./255767-pain-loop.json) |
 | Pain of War | 74987 | [74987-pain-of-war.json](./74987-pain-of-war.json) |
+| Pain Pain Go Away! | 368738 | [368738-pain-pain-go-away.json](./368738-pain-pain-go-away.json) |
 | Pain Party | 164077 | [164077-pain-party.json](./164077-pain-party.json) |
 | Pain Train | 29911 | [29911-pain-train.json](./29911-pain-train.json) |
 | Pain Train 2 | 29262 | [29262-pain-train-2.json](./29262-pain-train-2.json) |
@@ -3616,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedals in Panic | 410168 | [410168-pedals-in-panic.json](./410168-pedals-in-panic.json) |
 | Peddlers Between Pulsars | 349399 | [349399-peddlers-between-pulsars.json](./349399-peddlers-between-pulsars.json) |
 | Pedestal | 238662 | [238662-pedestal.json](./238662-pedestal.json) |
+| Pedigree Tactics | 368703 | [368703-pedigree-tactics.json](./368703-pedigree-tactics.json) |
 | Pedreiro polar | 230715 | [230715-pedreiro-polar.json](./230715-pedreiro-polar.json) |
 | Pedro | 314289 | [314289-pedro.json](./314289-pedro.json) |
 | Pedro | 52008 | [52008-pedro.json](./52008-pedro.json) |
@@ -7042,6 +7044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe connect | 193087 | [193087-pipe-connect.json](./193087-pipe-connect.json) |
 | Pipe Connect | 290422 | [290422-pipe-connect.json](./290422-pipe-connect.json) |
 | Pipe Cube | 125964 | [125964-pipe-cube.json](./125964-pipe-cube.json) |
+| Pipe Down | 368712 | [368712-pipe-down.json](./368712-pipe-down.json) |
 | Pipe Dream | 200 | [200-pipe-dream.json](./200-pipe-dream.json) |
 | Pipe Dream | 261109 | [261109-pipe-dream.json](./261109-pipe-dream.json) |
 | Pipe Dream | 265006 | [265006-pipe-dream.json](./265006-pipe-dream.json) |
@@ -9413,6 +9416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playtiles Season 1 | 413409 | [413409-playtiles-season-1.json](./413409-playtiles-season-1.json) |
 | Playtiles Season 2 | 413407 | [413407-playtiles-season-2.json](./413407-playtiles-season-2.json) |
 | Playtime | 170847 | [170847-playtime.json](./170847-playtime.json) |
+| Playtime With Hoogie | 368709 | [368709-playtime-with-hoogie.json](./368709-playtime-with-hoogie.json) |
 | Playtime with Percy | 262278 | [262278-playtime-with-percy.json](./262278-playtime-with-percy.json) |
 | Playtoons Featuring Uncle Archibald | 209360 | [209360-playtoons-featuring-uncle-archibald.json](./209360-playtoons-featuring-uncle-archibald.json) |
 | Playtoons: The Mandarin Prince | 209358 | [209358-playtoons-the-mandarin-prince.json](./209358-playtoons-the-mandarin-prince.json) |
@@ -10532,6 +10536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Edición Team Rocket | 353274 | [353274-pokemon-edicion-team-rocket.json](./353274-pokemon-edicion-team-rocket.json) |
 | Pokémon Electronic Battle Arena | 198862 | [198862-pokemon-electronic-battle-arena.json](./198862-pokemon-electronic-battle-arena.json) |
 | Pokémon Elite Redux | 261954 | [261954-pokemon-elite-redux.json](./261954-pokemon-elite-redux.json) |
+| Pokémon Elysium | 369270 | [369270-pokemon-elysium.json](./369270-pokemon-elysium.json) |
 | Pokemon Emerald Azure | 405893 | [405893-pokemon-emerald-azure.json](./405893-pokemon-emerald-azure.json) |
 | Pokémon Emerald BR Deluxe | 335433 | [335433-pokemon-emerald-br-deluxe.json](./335433-pokemon-emerald-br-deluxe.json) |
 | Pokémon Emerald Crest | 267421 | [267421-pokemon-emerald-crest.json](./267421-pokemon-emerald-crest.json) |
@@ -13437,6 +13442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Cure Connection Puzzlun | 112063 | [112063-pretty-cure-connection-puzzlun.json](./112063-pretty-cure-connection-puzzlun.json) |
 | Pretty Dinosaur Adventures of Ancient Earth VR | 234514 | [234514-pretty-dinosaur-adventures-of-ancient-earth-vr.json](./234514-pretty-dinosaur-adventures-of-ancient-earth-vr.json) |
 | Pretty Dreadful: Heritage | 252875 | [252875-pretty-dreadful-heritage.json](./252875-pretty-dreadful-heritage.json) |
+| Pretty Girl Cube | 369283 | [369283-pretty-girl-cube.json](./369283-pretty-girl-cube.json) |
 | Pretty Girl Puzzle: Summer Phantom | 418851 | [418851-pretty-girl-puzzle-summer-phantom.json](./418851-pretty-girl-puzzle-summer-phantom.json) |
 | Pretty Girl Ukiyo-e Artist Hoku | 406942 | [406942-pretty-girl-ukiyo-e-artist-hoku.json](./406942-pretty-girl-ukiyo-e-artist-hoku.json) |
 | Pretty Girls 2048 Strike | 227923 | [227923-pretty-girls-2048-strike.json](./227923-pretty-girls-2048-strike.json) |
@@ -14616,6 +14622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Ski Simulator | 80530 | [80530-professional-ski-simulator.json](./80530-professional-ski-simulator.json) |
 | Professional Soldier | 153928 | [153928-professional-soldier.json](./153928-professional-soldier.json) |
 | Professional Team | 161565 | [161565-professional-team.json](./161565-professional-team.json) |
+| Professional Thief | 368708 | [368708-professional-thief.json](./368708-professional-thief.json) |
 | Professional Underground League of Pain | 45038 | [45038-professional-underground-league-of-pain.json](./45038-professional-underground-league-of-pain.json) |
 | Professor Brainium's Games | 80358 | [80358-professor-brainiums-games.json](./80358-professor-brainiums-games.json) |
 | Professor Bubbles | 280790 | [280790-professor-bubbles.json](./280790-professor-bubbles.json) |
@@ -14828,6 +14835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Ascension | 281271 | [281271-project-ascension.json](./281271-project-ascension.json) |
 | Project Astra Dominium | 228506 | [228506-project-astra-dominium.json](./228506-project-astra-dominium.json) |
 | Project Astrid | 306184 | [306184-project-astrid.json](./306184-project-astrid.json) |
+| Project Athenia | 369281 | [369281-project-athenia.json](./369281-project-athenia.json) |
 | Project Atlas | 142385 | [142385-project-atlas.json](./142385-project-atlas.json) |
 | Project Atlas | 175718 | [175718-project-atlas.json](./175718-project-atlas.json) |
 | Project Atlas | 384808 | [384808-project-atlas.json](./384808-project-atlas.json) |
@@ -15308,6 +15316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project S | 358891 | [358891-project-s.json](./358891-project-s.json) |
 | Project S-11 | 49831 | [49831-project-s-11.json](./49831-project-s-11.json) |
 | Project S.A.M | 270952 | [270952-project-s-a-m.json](./270952-project-s-a-m.json) |
+| Project S.U.N.D.I.A.L | 369257 | [369257-project-s-u-n-d-i-a-l.json](./369257-project-s-u-n-d-i-a-l.json) |
 | Project Sail | 231367 | [231367-project-sail.json](./231367-project-sail.json) |
 | Project Sakura | 420925 | [420925-project-sakura.json](./420925-project-sakura.json) |
 | Project Sang | 176338 | [176338-project-sang.json](./176338-project-sang.json) |
@@ -15465,6 +15474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Xsting | 278987 | [278987-project-xsting.json](./278987-project-xsting.json) |
 | Project XY | 178645 | [178645-project-xy.json](./178645-project-xy.json) |
 | Project Z | 126431 | [126431-project-z.json](./126431-project-z.json) |
+| Project Z: The beginning of the end - Chapter I | 369280 | [369280-project-z-the-beginning-of-the-end-chapter-i.json](./369280-project-z-the-beginning-of-the-end-chapter-i.json) |
 | Project Zero | 236252 | [236252-project-zero.json](./236252-project-zero.json) |
 | Project Zero 2: Wii Edition | 14409 | [14409-project-zero-2-wii-edition.json](./14409-project-zero-2-wii-edition.json) |
 | Project Zero Deaths | 119375 | [119375-project-zero-deaths.json](./119375-project-zero-deaths.json) |
@@ -16681,10 +16691,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppeTNetiK: Speedrun Challenge | 152365 | [152365-puppetnetik-speedrun-challenge.json](./152365-puppetnetik-speedrun-challenge.json) |
 | Puppets' Dream TD | 261639 | [261639-puppets-dream-td.json](./261639-puppets-dream-td.json) |
 | PuppetShow: Arrogance Effect | 106843 | [106843-puppetshow-arrogance-effect.json](./106843-puppetshow-arrogance-effect.json) |
+| PuppetShow: Bloody Rosie - Collector's Edition | 369276 | [369276-puppetshow-bloody-rosie-collectors-edition.json](./369276-puppetshow-bloody-rosie-collectors-edition.json) |
 | PuppetShow: Destiny Undone | 63571 | [63571-puppetshow-destiny-undone.json](./63571-puppetshow-destiny-undone.json) |
 | PuppetShow: Destiny Undone - Collector's Edition | 105749 | [105749-puppetshow-destiny-undone-collectors-edition.json](./105749-puppetshow-destiny-undone-collectors-edition.json) |
+| PuppetShow: Faith in the Future - Collector's Edition | 369302 | [369302-puppetshow-faith-in-the-future-collectors-edition.json](./369302-puppetshow-faith-in-the-future-collectors-edition.json) |
 | PuppetShow: Fatal Mistake | 187931 | [187931-puppetshow-fatal-mistake.json](./187931-puppetshow-fatal-mistake.json) |
 | PuppetShow: Fatal Mistake - Collector's Edition | 170196 | [170196-puppetshow-fatal-mistake-collectors-edition.json](./170196-puppetshow-fatal-mistake-collectors-edition.json) |
+| PuppetShow: Her Cruel Collection - Collector's Edition | 369274 | [369274-puppetshow-her-cruel-collection-collectors-edition.json](./369274-puppetshow-her-cruel-collection-collectors-edition.json) |
 | PuppetShow: Lightning Strikes | 140276 | [140276-puppetshow-lightning-strikes.json](./140276-puppetshow-lightning-strikes.json) |
 | PuppetShow: Lightning Strikes - Collector's Edition | 115259 | [115259-puppetshow-lightning-strikes-collectors-edition.json](./115259-puppetshow-lightning-strikes-collectors-edition.json) |
 | PuppetShow: Mystery of Joyville | 25926 | [25926-puppetshow-mystery-of-joyville.json](./25926-puppetshow-mystery-of-joyville.json) |
@@ -16694,6 +16707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppetShow: Return to Joyville | 140278 | [140278-puppetshow-return-to-joyville.json](./140278-puppetshow-return-to-joyville.json) |
 | PuppetShow: Souls of the Innocent | 140279 | [140279-puppetshow-souls-of-the-innocent.json](./140279-puppetshow-souls-of-the-innocent.json) |
 | PuppetShow: Souls of the Innocent - Collector's Edition | 47695 | [47695-puppetshow-souls-of-the-innocent-collectors-edition.json](./47695-puppetshow-souls-of-the-innocent-collectors-edition.json) |
+| PuppetShow: The Curse of Ophelia - Collector's Edition | 369298 | [369298-puppetshow-the-curse-of-ophelia-collectors-edition.json](./369298-puppetshow-the-curse-of-ophelia-collectors-edition.json) |
 | PuppetShow: The Face of Humanity | 107077 | [107077-puppetshow-the-face-of-humanity.json](./107077-puppetshow-the-face-of-humanity.json) |
 | PuppetShow: The Price of Immortality | 99704 | [99704-puppetshow-the-price-of-immortality.json](./99704-puppetshow-the-price-of-immortality.json) |
 | PuppetShow: The Price of Immortality - Collector's Edition | 368892 | [368892-puppetshow-the-price-of-immortality-collectors-edition.json](./368892-puppetshow-the-price-of-immortality-collectors-edition.json) |
@@ -17075,6 +17089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putin Orcs Defender | 204421 | [204421-putin-orcs-defender.json](./204421-putin-orcs-defender.json) |
 | Putin Run Away From Trump | 102409 | [102409-putin-run-away-from-trump.json](./102409-putin-run-away-from-trump.json) |
 | Putin takes taxes | 86569 | [86569-putin-takes-taxes.json](./86569-putin-takes-taxes.json) |
+| Putin Vs. Zombies | 368710 | [368710-putin-vs-zombies.json](./368710-putin-vs-zombies.json) |
 | Putin, Boobs and Trump | 96940 | [96940-putin-boobs-and-trump.json](./96940-putin-boobs-and-trump.json) |
 | Putin, Trump and Xin Jinping | 108375 | [108375-putin-trump-and-xin-jinping.json](./108375-putin-trump-and-xin-jinping.json) |
 | Putinator | 204264 | [204264-putinator.json](./204264-putinator.json) |
@@ -17174,6 +17189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyoman-Eating Carbuncle | 253720 | [253720-puyoman-eating-carbuncle.json](./253720-puyoman-eating-carbuncle.json) |
 | Puzigo | 416601 | [416601-puzigo.json](./416601-puzigo.json) |
 | Puzkend | 68930 | [68930-puzkend.json](./68930-puzkend.json) |
+| Puzletun: Curse of the unfortunate. | 368735 | [368735-puzletun-curse-of-the-unfortunate.json](./368735-puzletun-curse-of-the-unfortunate.json) |
 | Puzlkind: Jigsaw Puzzles | 162205 | [162205-puzlkind-jigsaw-puzzles.json](./162205-puzlkind-jigsaw-puzzles.json) |
 | Puzlogic | 101698 | [101698-puzlogic.json](./101698-puzlogic.json) |
 | Puztrix | 315769 | [315769-puztrix.json](./315769-puztrix.json) |
