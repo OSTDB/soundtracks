@@ -1382,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Pirate: Survival Island | 193960 | [193960-last-pirate-survival-island.json](./193960-last-pirate-survival-island.json) |
 | Last Pirates: Die Together | 397402 | [397402-last-pirates-die-together.json](./397402-last-pirates-die-together.json) |
 | Last Pizza Slice | 178591 | [178591-last-pizza-slice.json](./178591-last-pizza-slice.json) |
+| Last Planet | 393213 | [393213-last-planet.json](./393213-last-planet.json) |
 | Last Play: Ragdoll Sandbox | 269090 | [269090-last-play-ragdoll-sandbox.json](./269090-last-play-ragdoll-sandbox.json) |
 | Last Pocket | 261099 | [261099-last-pocket.json](./261099-last-pocket.json) |
 | Last Protection | 122374 | [122374-last-protection.json](./122374-last-protection.json) |
@@ -3386,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leslie | 411993 | [411993-leslie.json](./411993-leslie.json) |
 | Leslie & Brianne's Galactic Rampage | 353374 | [353374-leslie-and-briannes-galactic-rampage.json](./353374-leslie-and-briannes-galactic-rampage.json) |
 | LesLove.Club: Emily and Sarah | 155569 | [155569-leslove-club-emily-and-sarah.json](./155569-leslove-club-emily-and-sarah.json) |
+| LesLove.Club: Jessica and Ashley | 393230 | [393230-leslove-club-jessica-and-ashley.json](./393230-leslove-club-jessica-and-ashley.json) |
 | Less Hope | 400183 | [400183-less-hope.json](./400183-less-hope.json) |
 | Lessaria: Fantasy Kingdom Sim | 261556 | [261556-lessaria-fantasy-kingdom-sim.json](./261556-lessaria-fantasy-kingdom-sim.json) |
 | Lessen | 232089 | [232089-lessen.json](./232089-lessen.json) |
@@ -5907,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Tiger - Mini Kids Games | 104571 | [104571-little-tiger-mini-kids-games.json](./104571-little-tiger-mini-kids-games.json) |
 | Little Tournament Over Yonder | 67207 | [67207-little-tournament-over-yonder.json](./67207-little-tournament-over-yonder.json) |
 | Little Town Hero | 109459 | [109459-little-town-hero.json](./109459-little-town-hero.json) |
+| Little Toys | 393216 | [393216-little-toys.json](./393216-little-toys.json) |
 | Little Treasures | 383639 | [383639-little-treasures.json](./383639-little-treasures.json) |
 | Little Tree Kingdom | 381625 | [381625-little-tree-kingdom.json](./381625-little-tree-kingdom.json) |
 | Little Triangle | 29985 | [29985-little-triangle.json](./29985-little-triangle.json) |
