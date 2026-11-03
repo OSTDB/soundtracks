@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Space Cats | 288398 | [288398-100-space-cats.json](./288398-100-space-cats.json) |
 | 100 Space Cats: Extra Content | 305629 | [305629-100-space-cats-extra-content.json](./305629-100-space-cats-extra-content.json) |
 | 100 Sri Lanka Cats | 335193 | [335193-100-sri-lanka-cats.json](./335193-100-sri-lanka-cats.json) |
+| 100 StarPaws Cats | 379069 | [379069-100-starpaws-cats.json](./379069-100-starpaws-cats.json) |
 | 100 Steps | 265505 | [265505-100-steps.json](./265505-100-steps.json) |
 | 100 Tavern Cats | 376183 | [376183-100-tavern-cats.json](./376183-100-tavern-cats.json) |
 | 100 Tokyo Cats | 274297 | [274297-100-tokyo-cats.json](./274297-100-tokyo-cats.json) |
@@ -820,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001-Kai-me no Aoi Tsuki | 98429 | [98429-1001-kai-me-no-aoi-tsuki.json](./98429-1001-kai-me-no-aoi-tsuki.json) |
 | 1001st Hyper Tower | 146644 | [146644-1001st-hyper-tower.json](./146644-1001st-hyper-tower.json) |
 | 100F Blessing of the Guardian | 275754 | [275754-100f-blessing-of-the-guardian.json](./275754-100f-blessing-of-the-guardian.json) |
+| 100Friends | 379064 | [379064-100friends.json](./379064-100friends.json) |
 | 100nya | 30580 | [30580-100nya.json](./30580-100nya.json) |
 | 100th Bug Brigade | 335194 | [335194-100th-bug-brigade.json](./335194-100th-bug-brigade.json) |
 | 101 Airborne: The Airborne Invasion of Normandy | 582 | [582-101-airborne-the-airborne-invasion-of-normandy.json](./582-101-airborne-the-airborne-invasion-of-normandy.json) |
@@ -886,12 +888,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Dogs Hidden in Australia | 382346 | [382346-101-dogs-hidden-in-australia.json](./382346-101-dogs-hidden-in-australia.json) |
 | 101 Dogs Hidden in Bangkok | 407530 | [407530-101-dogs-hidden-in-bangkok.json](./407530-101-dogs-hidden-in-bangkok.json) |
 | 101 Dogs Hidden in Berlin | 372339 | [372339-101-dogs-hidden-in-berlin.json](./372339-101-dogs-hidden-in-berlin.json) |
+| 101 Dogs Hidden in Brazil | 379070 | [379070-101-dogs-hidden-in-brazil.json](./379070-101-dogs-hidden-in-brazil.json) |
 | 101 Dogs Hidden in India | 376896 | [376896-101-dogs-hidden-in-india.json](./376896-101-dogs-hidden-in-india.json) |
 | 101 Dogs Hidden in Ireland | 376895 | [376895-101-dogs-hidden-in-ireland.json](./376895-101-dogs-hidden-in-ireland.json) |
 | 101 Dogs Hidden in Istanbul | 401547 | [401547-101-dogs-hidden-in-istanbul.json](./401547-101-dogs-hidden-in-istanbul.json) |
 | 101 Dogs Hidden in Las Vegas | 362242 | [362242-101-dogs-hidden-in-las-vegas.json](./362242-101-dogs-hidden-in-las-vegas.json) |
 | 101 Dogs Hidden in London | 407532 | [407532-101-dogs-hidden-in-london.json](./407532-101-dogs-hidden-in-london.json) |
 | 101 Dogs Hidden in Los Angeles | 386868 | [386868-101-dogs-hidden-in-los-angeles.json](./386868-101-dogs-hidden-in-los-angeles.json) |
+| 101 Dogs Hidden in Mexico | 379071 | [379071-101-dogs-hidden-in-mexico.json](./379071-101-dogs-hidden-in-mexico.json) |
 | 101 Dogs Hidden in Miami | 407529 | [407529-101-dogs-hidden-in-miami.json](./407529-101-dogs-hidden-in-miami.json) |
 | 101 Dogs Hidden in Milan | 407182 | [407182-101-dogs-hidden-in-milan.json](./407182-101-dogs-hidden-in-milan.json) |
 | 101 Dogs Hidden in New Delhi | 407531 | [407531-101-dogs-hidden-in-new-delhi.json](./407531-101-dogs-hidden-in-new-delhi.json) |
@@ -1025,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Labours of Hercules XIII: Wonder-ful Builder - Collector's Edition | 338908 | [338908-12-labours-of-hercules-xiii-wonder-ful-builder-collectors-edition.json](./338908-12-labours-of-hercules-xiii-wonder-ful-builder-collectors-edition.json) |
 | 12 Labours of Hercules XIV: Message in a Bottle | 221170 | [221170-12-labours-of-hercules-xiv-message-in-a-bottle.json](./221170-12-labours-of-hercules-xiv-message-in-a-bottle.json) |
 | 12 Labours of Hercules XIV: Message in a Bottle - Collector's Edition | 338911 | [338911-12-labours-of-hercules-xiv-message-in-a-bottle-collectors-edition.json](./338911-12-labours-of-hercules-xiv-message-in-a-bottle-collectors-edition.json) |
+| 12 Labours of Hercules XIX: Pandora’s Gift Box | 379072 | [379072-12-labours-of-hercules-xix-pandora-s-gift-box.json](./379072-12-labours-of-hercules-xix-pandora-s-gift-box.json) |
 | 12 Labours of Hercules XV | 258934 | [258934-12-labours-of-hercules-xv.json](./258934-12-labours-of-hercules-xv.json) |
 | 12 Labours of Hercules XV: Little Big Adventure | 261402 | [261402-12-labours-of-hercules-xv-little-big-adventure.json](./261402-12-labours-of-hercules-xv-little-big-adventure.json) |
 | 12 Labours of Hercules XVI: Olympic Bugs | 283082 | [283082-12-labours-of-hercules-xvi-olympic-bugs.json](./283082-12-labours-of-hercules-xvi-olympic-bugs.json) |
@@ -1187,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16-Bit Xmas 2011 | 134472 | [134472-16-bit-xmas-2011.json](./134472-16-bit-xmas-2011.json) |
 | 16: The Ultimate 15 Puzzle | 357974 | [357974-16-the-ultimate-15-puzzle.json](./357974-16-the-ultimate-15-puzzle.json) |
 | 1630: The Thirty Years' War | 244700 | [244700-1630-the-thirty-years-war.json](./244700-1630-the-thirty-years-war.json) |
+| 164: The Relentless Climb | 379073 | [379073-164-the-relentless-climb.json](./379073-164-the-relentless-climb.json) |
 | 1666: Amsterdam | 404693 | [404693-1666-amsterdam.json](./404693-1666-amsterdam.json) |
 | 16Bit Rhythm Land | 213860 | [213860-16bit-rhythm-land.json](./213860-16bit-rhythm-land.json) |
 | 16bit Trader | 26837 | [26837-16bit-trader.json](./26837-16bit-trader.json) |
@@ -2778,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 500 Apocalypses | 57523 | [57523-500-apocalypses.json](./57523-500-apocalypses.json) |
 | 500 c.c MotoManager | 14196 | [14196-500-c-c-motomanager.json](./14196-500-c-c-motomanager.json) |
 | 500 Caliber Contractz | 268103 | [268103-500-caliber-contractz.json](./268103-500-caliber-contractz.json) |
+| 500 CrossBar Challenge | 379074 | [379074-500-crossbar-challenge.json](./379074-500-crossbar-challenge.json) |
 | 500 Finger Fillet | 412311 | [412311-500-finger-fillet.json](./412311-500-finger-fillet.json) |
 | 500 GP | 249253 | [249253-500-gp.json](./249253-500-gp.json) |
 | 500 Saints | 400752 | [400752-500-saints.json](./400752-500-saints.json) |
@@ -2818,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5th Anniversary | 71960 | [71960-5th-anniversary.json](./71960-5th-anniversary.json) |
 | 5th Cataclysm | 334322 | [334322-5th-cataclysm.json](./334322-5th-cataclysm.json) |
 | 5th Dimension | 332373 | [332373-5th-dimension.json](./332373-5th-dimension.json) |
+| 5th Era | 379075 | [379075-5th-era.json](./379075-5th-era.json) |
 | 5th Fleet | 14471 | [14471-5th-fleet.json](./14471-5th-fleet.json) |
 | 5th Gear | 11877 | [11877-5th-gear.json](./11877-5th-gear.json) |
 | 5till L1 Complex | 263362 | [263362-5till-l1-complex.json](./263362-5till-l1-complex.json) |
@@ -3083,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Bit Son-of-a-Bitch | 186235 | [186235-8-bit-son-of-a-bitch.json](./186235-8-bit-son-of-a-bitch.json) |
 | 8 Bit Space | 135100 | [135100-8-bit-space.json](./135100-8-bit-space.json) |
 | 8 Eyes | 1975 | [1975-8-eyes.json](./1975-8-eyes.json) |
+| 8 Floor, Only Me? | 379076 | [379076-8-floor-only-me.json](./379076-8-floor-only-me.json) |
 | 8 Hours Till Dawn | 407153 | [407153-8-hours-till-dawn.json](./407153-8-hours-till-dawn.json) |
 | 8 Legs to Love | 181252 | [181252-8-legs-to-love.json](./181252-8-legs-to-love.json) |
 | 8 Links | 173075 | [173075-8-links.json](./173075-8-links.json) |
@@ -3129,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-in-1 Games | 247011 | [247011-8-in-1-games.json](./247011-8-in-1-games.json) |
 | 8-in-1 IQ Scale Bundle | 81896 | [81896-8-in-1-iq-scale-bundle.json](./81896-8-in-1-iq-scale-bundle.json) |
 | 8-man Iriguchi | 316664 | [316664-8-man-iriguchi.json](./316664-8-man-iriguchi.json) |
+| 8-Second Records | 379077 | [379077-8-second-records.json](./379077-8-second-records.json) |
 | 8:00 AM: Still Morning | 394616 | [394616-8-00-am-still-morning.json](./394616-8-00-am-still-morning.json) |
 | 8:11 | 186427 | [186427-8-11.json](./186427-8-11.json) |
 | 80 Days | 9053 | [9053-80-days.json](./9053-80-days.json) |
