@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairytale Thief: Sleeping Beauty | 351748 | [351748-fairytale-thief-sleeping-beauty.json](./351748-fairytale-thief-sleeping-beauty.json) |
 | Fairytale Thief: Snow White | 365172 | [365172-fairytale-thief-snow-white.json](./365172-fairytale-thief-snow-white.json) |
 | Fairytale Thief: The Goldfish | 259568 | [259568-fairytale-thief-the-goldfish.json](./259568-fairytale-thief-the-goldfish.json) |
+| Fairytale Thief: The Steadfast Tin Soldier | 388686 | [388686-fairytale-thief-the-steadfast-tin-soldier.json](./388686-fairytale-thief-the-steadfast-tin-soldier.json) |
 | Fairywood Survivors | 393883 | [393883-fairywood-survivors.json](./393883-fairywood-survivors.json) |
 | FairyWoods Patisserie | 258613 | [258613-fairywoods-patisserie.json](./258613-fairywoods-patisserie.json) |
 | Fäiser | 186063 | [186063-faiser.json](./186063-faiser.json) |
@@ -9394,7 +9395,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Heroes | 31858 | [31858-forgotten-heroes.json](./31858-forgotten-heroes.json) |
 | Forgotten Hill Disillusion | 121472 | [121472-forgotten-hill-disillusion.json](./121472-forgotten-hill-disillusion.json) |
 | Forgotten Hill First Steps | 153157 | [153157-forgotten-hill-first-steps.json](./153157-forgotten-hill-first-steps.json) |
+| Forgotten Hill Memento: Run Run Little Horse | 388685 | [388685-forgotten-hill-memento-run-run-little-horse.json](./388685-forgotten-hill-memento-run-run-little-horse.json) |
 | Forgotten Hill Mementoes | 87980 | [87980-forgotten-hill-mementoes.json](./87980-forgotten-hill-mementoes.json) |
+| Forgotten Hill Pico | 388678 | [388678-forgotten-hill-pico.json](./388678-forgotten-hill-pico.json) |
 | Forgotten Hill Tales | 142330 | [142330-forgotten-hill-tales.json](./142330-forgotten-hill-tales.json) |
 | Forgotten Hill: Fall | 317638 | [317638-forgotten-hill-fall.json](./317638-forgotten-hill-fall.json) |
 | Forgotten Hill: Surgery | 101764 | [101764-forgotten-hill-surgery.json](./101764-forgotten-hill-surgery.json) |
@@ -12344,6 +12347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fugitive 3D | 152758 | [152758-fugitive-3d.json](./152758-fugitive-3d.json) |
 | Fugitive Criminal | 149794 | [149794-fugitive-criminal.json](./149794-fugitive-criminal.json) |
 | Fugitive Flight | 395835 | [395835-fugitive-flight.json](./395835-fugitive-flight.json) |
+| Fugitive Free Rider | 388775 | [388775-fugitive-free-rider.json](./388775-fugitive-free-rider.json) |
 | Fugitive Hunter | 24101 | [24101-fugitive-hunter.json](./24101-fugitive-hunter.json) |
 | Fugitive Shift | 183836 | [183836-fugitive-shift.json](./183836-fugitive-shift.json) |
 | Fugitive Tense: A Game About TIme | 382468 | [382468-fugitive-tense-a-game-about-time.json](./382468-fugitive-tense-a-game-about-time.json) |
