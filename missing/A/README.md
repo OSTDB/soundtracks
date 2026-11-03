@@ -10607,6 +10607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anvil of Tristheim | 263977 | [263977-anvil-of-tristheim.json](./263977-anvil-of-tristheim.json) |
 | Anvil Survivors | 396403 | [396403-anvil-survivors.json](./396403-anvil-survivors.json) |
 | Anvillage | 207793 | [207793-anvillage.json](./207793-anvillage.json) |
+| Anvira: Forge Defense | 391441 | [391441-anvira-forge-defense.json](./391441-anvira-forge-defense.json) |
 | AnXiens | 174642 | [174642-anxiens.json](./174642-anxiens.json) |
 | Anxieties | 335699 | [335699-anxieties.json](./335699-anxieties.json) |
 | Anxiety | 51572 | [51572-anxiety.json](./51572-anxiety.json) |
@@ -12153,6 +12154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Strikes | 45428 | [45428-arcana-strikes.json](./45428-arcana-strikes.json) |
 | Arcana Tactics | 130694 | [130694-arcana-tactics.json](./130694-arcana-tactics.json) |
 | Arcana: Boundless Horizon | 220306 | [220306-arcana-boundless-horizon.json](./220306-arcana-boundless-horizon.json) |
+| Arcana: Card Arena | 391414 | [391414-arcana-card-arena.json](./391414-arcana-card-arena.json) |
 | Arcana: Heat and Cold - Season 2 | 191241 | [191241-arcana-heat-and-cold-season-2.json](./191241-arcana-heat-and-cold-season-2.json) |
 | Arcana: Heat and Cold - Season 3 | 384903 | [384903-arcana-heat-and-cold-season-3.json](./384903-arcana-heat-and-cold-season-3.json) |
 | Arcana: Heat and Cold. Stories | 252233 | [252233-arcana-heat-and-cold-stories.json](./252233-arcana-heat-and-cold-stories.json) |
@@ -15930,6 +15932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atop the Witch's Tower WS | 341704 | [341704-atop-the-witchs-tower-ws.json](./341704-atop-the-witchs-tower-ws.json) |
 | Atopes | 167359 | [167359-atopes.json](./167359-atopes.json) |
 | ATP Tour Championship Tennis | 46234 | [46234-atp-tour-championship-tennis.json](./46234-atp-tour-championship-tennis.json) |
+| ATP Tour Simulator | 391418 | [391418-atp-tour-simulator.json](./391418-atp-tour-simulator.json) |
 | ATR: All Terrain Racing | 11924 | [11924-atr-all-terrain-racing.json](./11924-atr-all-terrain-racing.json) |
 | Atramentum VR | 29797 | [29797-atramentum-vr.json](./29797-atramentum-vr.json) |
 | Atrapa la Bandera | 204455 | [204455-atrapa-la-bandera.json](./204455-atrapa-la-bandera.json) |
@@ -16795,6 +16798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avem33 | 94128 | [94128-avem33.json](./94128-avem33.json) |
 | Avem888 | 105751 | [105751-avem888.json](./105751-avem888.json) |
 | Avem888 VR | 105128 | [105128-avem888-vr.json](./105128-avem888-vr.json) |
+| Aven | 391430 | [391430-aven.json](./391430-aven.json) |
 | Aven Colony | 23212 | [23212-aven-colony.json](./23212-aven-colony.json) |
 | Aven Colony: The Cerulean Vale | 227353 | [227353-aven-colony-the-cerulean-vale.json](./227353-aven-colony-the-cerulean-vale.json) |
 | Avenge Myself | 332893 | [332893-avenge-myself.json](./332893-avenge-myself.json) |
