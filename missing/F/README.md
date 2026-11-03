@@ -8049,6 +8049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flunky | 15252 | [15252-flunky.json](./15252-flunky.json) |
 | Flunky Farm | 224250 | [224250-flunky-farm.json](./224250-flunky-farm.json) |
 | Flupp the Fish | 264040 | [264040-flupp-the-fish.json](./264040-flupp-the-fish.json) |
+| Flur | 392580 | [392580-flur.json](./392580-flur.json) |
 | Flurius | 99441 | [99441-flurius.json](./99441-flurius.json) |
 | Flurry Words | 233100 | [233100-flurry-words.json](./233100-flurry-words.json) |
 | FlurryHurry! | 323522 | [323522-flurryhurry.json](./323522-flurryhurry.json) |
