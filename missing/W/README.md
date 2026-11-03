@@ -3405,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westland Survival: Albino Alligator | 383360 | [383360-westland-survival-albino-alligator.json](./383360-westland-survival-albino-alligator.json) |
 | Westland Survival: Uncle Gab’s Signet | 383362 | [383362-westland-survival-uncle-gab-s-signet.json](./383362-westland-survival-uncle-gab-s-signet.json) |
 | Westland Survival: Wind Spirit | 383361 | [383361-westland-survival-wind-spirit.json](./383361-westland-survival-wind-spirit.json) |
+| Westlanders | 382936 | [382936-westlanders.json](./382936-westlanders.json) |
 | Westlife: Fan-O-Mania | 91892 | [91892-westlife-fan-o-mania.json](./91892-westlife-fan-o-mania.json) |
 | Westmark Manor | 131303 | [131303-westmark-manor.json](./131303-westmark-manor.json) |
 | Westminster Darkly | 128146 | [128146-westminster-darkly.json](./128146-westminster-darkly.json) |
@@ -5238,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | William the Conqueror | 102014 | [102014-william-the-conqueror.json](./102014-william-the-conqueror.json) |
 | William Wobbler | 94625 | [94625-william-wobbler.json](./94625-william-wobbler.json) |
 | William's Love Prelude | 127849 | [127849-williams-love-prelude.json](./127849-williams-love-prelude.json) |
+| William's Wideblock | 382731 | [382731-williams-wideblock.json](./382731-williams-wideblock.json) |
 | Williams Arcade Classics | 199435 | [199435-williams-arcade-classics.json](./199435-williams-arcade-classics.json) |
 | Williams Arcade Classics | 71782 | [71782-williams-arcade-classics.json](./71782-williams-arcade-classics.json) |
 | Williams Arcade's Greatest Hits | 20713 | [20713-williams-arcades-greatest-hits.json](./20713-williams-arcades-greatest-hits.json) |
@@ -5557,6 +5559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Redemption | 273754 | [273754-wings-of-redemption.json](./273754-wings-of-redemption.json) |
 | Wings of the Kite in Sky | 338364 | [338364-wings-of-the-kite-in-sky.json](./338364-wings-of-the-kite-in-sky.json) |
 | Wings of the Universe | 216838 | [216838-wings-of-the-universe.json](./216838-wings-of-the-universe.json) |
+| Wings of Vi 2: Guardian's Heart | 382743 | [382743-wings-of-vi-2-guardians-heart.json](./382743-wings-of-vi-2-guardians-heart.json) |
 | Wings of Virtus | 112772 | [112772-wings-of-virtus.json](./112772-wings-of-virtus.json) |
 | Wings of War | 6235 | [6235-wings-of-war.json](./6235-wings-of-war.json) |
 | Wings of War: Famous Aces | 53045 | [53045-wings-of-war-famous-aces.json](./53045-wings-of-war-famous-aces.json) |
