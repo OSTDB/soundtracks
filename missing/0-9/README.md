@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000-Bit | 137930 | [137930-1000-bit.json](./137930-1000-bit.json) |
 | 1000: The All-Mother's Embrace | 326044 | [326044-1000-the-all-mothers-embrace.json](./326044-1000-the-all-mothers-embrace.json) |
 | 1000$ | 213174 | [213174-1000.json](./213174-1000.json) |
+| 1000000 shrimp | 383975 | [383975-1000000-shrimp.json](./383975-1000000-shrimp.json) |
 | 10000000 | 9705 | [9705-10000000.json](./9705-10000000.json) |
 | 1000cc Turbo | 12347 | [12347-1000cc-turbo.json](./12347-1000cc-turbo.json) |
 | 1000m Zombie Escape! | 222202 | [222202-1000m-zombie-escape.json](./222202-1000m-zombie-escape.json) |
@@ -831,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Budapest | 408529 | [408529-101-cats-in-budapest.json](./408529-101-cats-in-budapest.json) |
 | 101 Cats in Cancun | 337516 | [337516-101-cats-in-cancun.json](./337516-101-cats-in-cancun.json) |
 | 101 Cats in Chennai | 365159 | [365159-101-cats-in-chennai.json](./365159-101-cats-in-chennai.json) |
+| 101 Cats in Denmark | 384119 | [384119-101-cats-in-denmark.json](./384119-101-cats-in-denmark.json) |
 | 101 Cats in Dubai | 287057 | [287057-101-cats-in-dubai.json](./287057-101-cats-in-dubai.json) |
 | 101 Cats in Dublin | 397637 | [397637-101-cats-in-dublin.json](./397637-101-cats-in-dublin.json) |
 | 101 Cats in Florence | 397636 | [397636-101-cats-in-florence.json](./397636-101-cats-in-florence.json) |
