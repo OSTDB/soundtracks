@@ -6159,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meaning | 82891 | [82891-meaning.json](./82891-meaning.json) |
 | Meaning of Flower | 343736 | [343736-meaning-of-flower.json](./343736-meaning-of-flower.json) |
 | Meaningful Adventures | 218479 | [218479-meaningful-adventures.json](./218479-meaningful-adventures.json) |
+| Meaningless Random Numbers | 388696 | [388696-meaningless-random-numbers.json](./388696-meaningless-random-numbers.json) |
 | Meaningless Tragedy | 397046 | [397046-meaningless-tragedy.json](./397046-meaningless-tragedy.json) |
 | Meanings: Hidden in Plain Sight | 317346 | [317346-meanings-hidden-in-plain-sight.json](./317346-meanings-hidden-in-plain-sight.json) |
 | Meanwhile | 22329 | [22329-meanwhile.json](./22329-meanwhile.json) |
@@ -9312,6 +9313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metallicars | 234319 | [234319-metallicars.json](./234319-metallicars.json) |
 | Metallophobia | 192007 | [192007-metallophobia.json](./192007-metallophobia.json) |
 | MetalMercs | 311886 | [311886-metalmercs.json](./311886-metalmercs.json) |
+| MetalMuters | 388682 | [388682-metalmuters.json](./388682-metalmuters.json) |
 | MetalNoise | 31503 | [31503-metalnoise.json](./31503-metalnoise.json) |
 | Metalocalypse: Dethgame | 68300 | [68300-metalocalypse-dethgame.json](./68300-metalocalypse-dethgame.json) |
 | Metaloid: Origin | 113545 | [113545-metaloid-origin.json](./113545-metaloid-origin.json) |
