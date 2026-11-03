@@ -8666,6 +8666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evil Within: The Assignment | 9183 | [9183-the-evil-within-the-assignment.json](./9183-the-evil-within-the-assignment.json) |
 | The Evil Within: The Consequence | 20945 | [20945-the-evil-within-the-consequence.json](./20945-the-evil-within-the-consequence.json) |
 | The Evil Within: The Executioner | 21592 | [21592-the-evil-within-the-executioner.json](./21592-the-evil-within-the-executioner.json) |
+| The Evil's Nest | 362009 | [362009-the-evils-nest.json](./362009-the-evils-nest.json) |
 | The Evilslayer Maiden | 82639 | [82639-the-evilslayer-maiden.json](./82639-the-evilslayer-maiden.json) |
 | The Evolving Forest | 252891 | [252891-the-evolving-forest.json](./252891-the-evolving-forest.json) |
 | The exact moment | 144790 | [144790-the-exact-moment.json](./144790-the-exact-moment.json) |
@@ -11323,6 +11324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lake of the Blind Mannequin | 228637 | [228637-the-lake-of-the-blind-mannequin.json](./228637-the-lake-of-the-blind-mannequin.json) |
 | The Lamb of the Sabbath is Standing Upon the Hill | 346651 | [346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json](./346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json) |
 | The Lament of a Lifeless Star | 286029 | [286029-the-lament-of-a-lifeless-star.json](./286029-the-lament-of-a-lifeless-star.json) |
+| The Lampkeeper | 362150 | [362150-the-lampkeeper.json](./362150-the-lampkeeper.json) |
 | The Lamplighters League | 240893 | [240893-the-lamplighters-league.json](./240893-the-lamplighters-league.json) |
 | The Lancaster Leak: Crisis at Call Center | 260586 | [260586-the-lancaster-leak-crisis-at-call-center.json](./260586-the-lancaster-leak-crisis-at-call-center.json) |
 | The Lancaster Leak: O'Brien State Park | 244412 | [244412-the-lancaster-leak-obrien-state-park.json](./244412-the-lancaster-leak-obrien-state-park.json) |
@@ -18420,6 +18422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The X-Files: Deep State | 76429 | [76429-the-x-files-deep-state.json](./76429-the-x-files-deep-state.json) |
 | The X-Files: Unrestricted Access | 64238 | [64238-the-x-files-unrestricted-access.json](./64238-the-x-files-unrestricted-access.json) |
 | The X-Fools: The Spoof Is Out There | 66971 | [66971-the-x-fools-the-spoof-is-out-there.json](./66971-the-x-fools-the-spoof-is-out-there.json) |
+| The Xen | 361986 | [361986-the-xen.json](./361986-the-xen.json) |
 | The Xeno Project | 221659 | [221659-the-xeno-project.json](./221659-the-xeno-project.json) |
 | The Xeno Project II | 222193 | [222193-the-xeno-project-ii.json](./222193-the-xeno-project-ii.json) |
 | The Yakutsu Noroi Game | 124641 | [124641-the-yakutsu-noroi-game.json](./124641-the-yakutsu-noroi-game.json) |
