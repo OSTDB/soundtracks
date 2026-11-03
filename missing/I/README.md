@@ -4826,6 +4826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inti Creates Gold Archive Collection | 319667 | [319667-inti-creates-gold-archive-collection.json](./319667-inti-creates-gold-archive-collection.json) |
 | Intimate Abode | 302475 | [302475-intimate-abode.json](./302475-intimate-abode.json) |
 | Intimate Codex | 219375 | [219375-intimate-codex.json](./219375-intimate-codex.json) |
+| Intimate Massage with Snowleopard Lady | 388680 | [388680-intimate-massage-with-snowleopard-lady.json](./388680-intimate-massage-with-snowleopard-lady.json) |
 | Intimate Relationship | 189998 | [189998-intimate-relationship.json](./189998-intimate-relationship.json) |
 | Intimate, Infinite | 134009 | [134009-intimate-infinite.json](./134009-intimate-infinite.json) |
 | Intlovert Game Club | 342756 | [342756-intlovert-game-club.json](./342756-intlovert-game-club.json) |
