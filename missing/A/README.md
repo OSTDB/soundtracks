@@ -1055,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sexy Tour With Stella | 368573 | [368573-a-sexy-tour-with-stella.json](./368573-a-sexy-tour-with-stella.json) |
 | A Sexy Tour With: Akiko | 367290 | [367290-a-sexy-tour-with-akiko.json](./367290-a-sexy-tour-with-akiko.json) |
 | A Sexy Tour With: Fiona | 338166 | [338166-a-sexy-tour-with-fiona.json](./338166-a-sexy-tour-with-fiona.json) |
+| A Sexy Tour With: Yeona | 368725 | [368725-a-sexy-tour-with-yeona.json](./368725-a-sexy-tour-with-yeona.json) |
 | A Shade Darker Than Gray | 338167 | [338167-a-shade-darker-than-gray.json](./338167-a-shade-darker-than-gray.json) |
 | A Shadow in Space | 383719 | [383719-a-shadow-in-space.json](./383719-a-shadow-in-space.json) |
 | A Shadow of Time | 247966 | [247966-a-shadow-of-time.json](./247966-a-shadow-of-time.json) |
@@ -1198,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Summer with the Shiba Inu | 119229 | [119229-a-summer-with-the-shiba-inu.json](./119229-a-summer-with-the-shiba-inu.json) |
 | A Summer's End: Hong Kong 1986 | 131912 | [131912-a-summers-end-hong-kong-1986.json](./131912-a-summers-end-hong-kong-1986.json) |
 | A Sun of Salt | 107784 | [107784-a-sun-of-salt.json](./107784-a-sun-of-salt.json) |
+| A Sun-Kissed Fantasy | 369272 | [369272-a-sun-kissed-fantasy.json](./369272-a-sun-kissed-fantasy.json) |
 | A Super Effective Turnabout | 302597 | [302597-a-super-effective-turnabout.json](./302597-a-super-effective-turnabout.json) |
 | A Super Mario Adventure | 269707 | [269707-a-super-mario-adventure.json](./269707-a-super-mario-adventure.json) |
 | A Super Mario Bros X. Level Collection | 346780 | [346780-a-super-mario-bros-x-level-collection.json](./346780-a-super-mario-bros-x-level-collection.json) |
@@ -3156,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adult Film Cameraman | 85954 | [85954-adult-film-cameraman.json](./85954-adult-film-cameraman.json) |
 | Adult for Cyberpunk Sex | 288241 | [288241-adult-for-cyberpunk-sex.json](./288241-adult-for-cyberpunk-sex.json) |
 | Adult for Sex Motel | 288894 | [288894-adult-for-sex-motel.json](./288894-adult-for-sex-motel.json) |
+| Adult Life Yuri Bundle by Team ANPIM | 369310 | [369310-adult-life-yuri-bundle-by-team-anpim.json](./369310-adult-life-yuri-bundle-by-team-anpim.json) |
 | Adult Math | 113412 | [113412-adult-math.json](./113412-adult-math.json) |
 | Adult Puzzle: Hentai Maid Aruha | 298606 | [298606-adult-puzzle-hentai-maid-aruha.json](./298606-adult-puzzle-hentai-maid-aruha.json) |
 | Adult Puzzle: My Cute Neighbor Serene | 274684 | [274684-adult-puzzle-my-cute-neighbor-serene.json](./274684-adult-puzzle-my-cute-neighbor-serene.json) |
@@ -5888,6 +5891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ALC no 10-punkan Eigo Master: Shokyuu | 269547 | [269547-alc-no-10-punkan-eigo-master-shokyuu.json](./269547-alc-no-10-punkan-eigo-master-shokyuu.json) |
 | Alcahest | 3651 | [3651-alcahest.json](./3651-alcahest.json) |
 | Alcantor | 14162 | [14162-alcantor.json](./14162-alcantor.json) |
+| Alcatmist | 369291 | [369291-alcatmist.json](./369291-alcatmist.json) |
 | Alcatraz | 11892 | [11892-alcatraz.json](./11892-alcatraz.json) |
 | Alcatraz | 223928 | [223928-alcatraz.json](./223928-alcatraz.json) |
 | Alcatraz | 288748 | [288748-alcatraz.json](./288748-alcatraz.json) |
@@ -7282,6 +7286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone: Cold Winter | 239202 | [239202-alone-cold-winter.json](./239202-alone-cold-winter.json) |
 | Alone: Mnemophobia | 377076 | [377076-alone-mnemophobia.json](./377076-alone-mnemophobia.json) |
 | Alone: Recode | 167475 | [167475-alone-recode.json](./167475-alone-recode.json) |
+| Alone: Shattered Tribes | 368732 | [368732-alone-shattered-tribes.json](./368732-alone-shattered-tribes.json) |
 | Alone: Zombiewoods | 385662 | [385662-alone-zombiewoods.json](./385662-alone-zombiewoods.json) |
 | Alone? | 24926 | [24926-alone.json](./24926-alone.json) |
 | Alone? VR | 31282 | [31282-alone-vr.json](./31282-alone-vr.json) |
@@ -8157,6 +8162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American McGee's Alice | 337 | [337-american-mcgees-alice.json](./337-american-mcgees-alice.json) |
 | American McGee's Oz | 93984 | [93984-american-mcgees-oz.json](./93984-american-mcgees-oz.json) |
 | American Mensa Academy | 47630 | [47630-american-mensa-academy.json](./47630-american-mensa-academy.json) |
+| American MILF | 368723 | [368723-american-milf.json](./368723-american-milf.json) |
 | American Motorcycle Simulator | 133223 | [133223-american-motorcycle-simulator.json](./133223-american-motorcycle-simulator.json) |
 | American Museum of Natural History's T. Rex: Skeleton Crew | 357428 | [357428-american-museum-of-natural-historys-t-rex-skeleton-crew.json](./357428-american-museum-of-natural-historys-t-rex-skeleton-crew.json) |
 | American Navy Seals | 410967 | [410967-american-navy-seals.json](./410967-american-navy-seals.json) |
@@ -10905,6 +10911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex | 5728 | [5728-apex.json](./5728-apex.json) |
 | Apex 2026: Rise of Legends | 401727 | [401727-apex-2026-rise-of-legends.json](./401727-apex-2026-rise-of-legends.json) |
 | Apex Arena | 104237 | [104237-apex-arena.json](./104237-apex-arena.json) |
+| Apex Armor Swap Trainer | 369262 | [369262-apex-armor-swap-trainer.json](./369262-apex-armor-swap-trainer.json) |
 | Apex Ascent | 370350 | [370350-apex-ascent.json](./370350-apex-ascent.json) |
 | Apex Automata | 297347 | [297347-apex-automata.json](./297347-apex-automata.json) |
 | Apex Byte Reeling | 399042 | [399042-apex-byte-reeling.json](./399042-apex-byte-reeling.json) |
@@ -12329,6 +12336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Tower Survivors | 342641 | [342641-arcane-tower-survivors.json](./342641-arcane-tower-survivors.json) |
 | Arcane Treasures: Trading Card Game | 303343 | [303343-arcane-treasures-trading-card-game.json](./303343-arcane-treasures-trading-card-game.json) |
 | Arcane Trials | 107499 | [107499-arcane-trials.json](./107499-arcane-trials.json) |
+| Arcane Trigger | 368737 | [368737-arcane-trigger.json](./368737-arcane-trigger.json) |
 | Arcane Vale | 200290 | [200290-arcane-vale.json](./200290-arcane-vale.json) |
 | Arcane Walker | 154998 | [154998-arcane-walker.json](./154998-arcane-walker.json) |
 | Arcane Warlords | 247950 | [247950-arcane-warlords.json](./247950-arcane-warlords.json) |
@@ -15851,7 +15859,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -16145,6 +16152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Petscii Robots | 159163 | [159163-attack-of-the-petscii-robots.json](./159163-attack-of-the-petscii-robots.json) |
 | Attack of the Petscii Robots: Rumble Support | 377731 | [377731-attack-of-the-petscii-robots-rumble-support.json](./377731-attack-of-the-petscii-robots-rumble-support.json) |
 | Attack of the Phantom Karate Devils | 24707 | [24707-attack-of-the-phantom-karate-devils.json](./24707-attack-of-the-phantom-karate-devils.json) |
+| Attack Of The Puppybots | 368747 | [368747-attack-of-the-puppybots.json](./368747-attack-of-the-puppybots.json) |
 | Attack of the Retro Bots | 118043 | [118043-attack-of-the-retro-bots.json](./118043-attack-of-the-retro-bots.json) |
 | Attack of the Saucerman | 4143 | [4143-attack-of-the-saucerman.json](./4143-attack-of-the-saucerman.json) |
 | Attack of the Silver Ball | 248598 | [248598-attack-of-the-silver-ball.json](./248598-attack-of-the-silver-ball.json) |
