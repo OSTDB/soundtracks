@@ -929,7 +929,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8041,6 +8040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BirdGut | 117873 | [117873-birdgut.json](./117873-birdgut.json) |
 | Birdhouse | 366103 | [366103-birdhouse.json](./366103-birdhouse.json) |
 | Birdie | 341130 | [341130-birdie.json](./341130-birdie.json) |
+| Birdie | 375480 | [375480-birdie.json](./375480-birdie.json) |
 | Birdie Barrage | 13696 | [13696-birdie-barrage.json](./13696-birdie-barrage.json) |
 | Birdie Bartender | 228059 | [228059-birdie-bartender.json](./228059-birdie-bartender.json) |
 | Birdie Blitz | 406787 | [406787-birdie-blitz.json](./406787-birdie-blitz.json) |
@@ -13850,6 +13850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Training 3D | 145312 | [145312-brain-training-3d.json](./145312-brain-training-3d.json) |
 | Brain Training For Dummies | 206486 | [206486-brain-training-for-dummies.json](./206486-brain-training-for-dummies.json) |
 | Brain Training! Art Puzzle | 366780 | [366780-brain-training-art-puzzle.json](./366780-brain-training-art-puzzle.json) |
+| Brain Training! Kanji Challenge | 375127 | [375127-brain-training-kanji-challenge.json](./375127-brain-training-kanji-challenge.json) |
 | Brain Training! Order Quiz | 403739 | [403739-brain-training-order-quiz.json](./403739-brain-training-order-quiz.json) |
 | Brain Training! Perfect Memory | 365559 | [365559-brain-training-perfect-memory.json](./365559-brain-training-perfect-memory.json) |
 | Brain Training!! Hiragana ＆ Katakana Search | 316199 | [316199-brain-training-hiragana-and-katakana-search.json](./316199-brain-training-hiragana-and-katakana-search.json) |
@@ -13897,6 +13898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot Showdown | 408239 | [408239-brainrot-showdown.json](./408239-brainrot-showdown.json) |
 | Brainrot Survivors | 391041 | [391041-brainrot-survivors.json](./391041-brainrot-survivors.json) |
 | Brainrot Tung Tung Sahur | 344287 | [344287-brainrot-tung-tung-sahur.json](./344287-brainrot-tung-tung-sahur.json) |
+| Brainrot Turbo Kart | 375126 | [375126-brainrot-turbo-kart.json](./375126-brainrot-turbo-kart.json) |
 | Brainrot Wars | 344965 | [344965-brainrot-wars.json](./344965-brainrot-wars.json) |
 | Brainrot: Animal Quizzes | 343259 | [343259-brainrot-animal-quizzes.json](./343259-brainrot-animal-quizzes.json) |
 | Brainrot: Story of Glorbo Frutodrillo & Ballerino Cappuccino | 351591 | [351591-brainrot-story-of-glorbo-frutodrillo-and-ballerino-cappuccino.json](./351591-brainrot-story-of-glorbo-frutodrillo-and-ballerino-cappuccino.json) |
@@ -13906,6 +13908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brains & Hearts | 330163 | [330163-brains-and-hearts.json](./330163-brains-and-hearts.json) |
 | Brains Diamonds | 246435 | [246435-brains-diamonds.json](./246435-brains-diamonds.json) |
 | Brains: Denshinou Kougeki Shirei | 66054 | [66054-brains-denshinou-kougeki-shirei.json](./66054-brains-denshinou-kougeki-shirei.json) |
+| Brainshell | 375123 | [375123-brainshell.json](./375123-brainshell.json) |
 | BrainSplode! | 146479 | [146479-brainsplode.json](./146479-brainsplode.json) |
 | Brainsss | 197397 | [197397-brainsss.json](./197397-brainsss.json) |
 | Brainstorm | 13433 | [13433-brainstorm.json](./13433-brainstorm.json) |
