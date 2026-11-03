@@ -7128,6 +7128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higemaru Makaijima: Nanatsu no Shima Daibouken | 48473 | [48473-higemaru-makaijima-nanatsu-no-shima-daibouken.json](./48473-higemaru-makaijima-nanatsu-no-shima-daibouken.json) |
 | Higgledy Piggledy | 78916 | [78916-higgledy-piggledy.json](./78916-higgledy-piggledy.json) |
 | Higgs Boson: Minimal Puzzle | 148739 | [148739-higgs-boson-minimal-puzzle.json](./148739-higgs-boson-minimal-puzzle.json) |
+| Higgs Boson: Particle Puzzle | 358045 | [358045-higgs-boson-particle-puzzle.json](./358045-higgs-boson-particle-puzzle.json) |
 | Higgs Boson: Puzzle Collection | 344492 | [344492-higgs-boson-puzzle-collection.json](./344492-higgs-boson-puzzle-collection.json) |
 | Higgs Boson: Timed Puzzle | 173238 | [173238-higgs-boson-timed-puzzle.json](./173238-higgs-boson-timed-puzzle.json) |
 | High & Low: Aim! 26 Consecutive Wins! | 151941 | [151941-high-and-low-aim-26-consecutive-wins.json](./151941-high-and-low-aim-26-consecutive-wins.json) |
