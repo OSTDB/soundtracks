@@ -5651,6 +5651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8247,6 +8248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoria | 385382 | [385382-memoria.json](./385382-memoria.json) |
 | Memória | 290085 | [290085-memoria.json](./290085-memoria.json) |
 | Memória 3D | 290076 | [290076-memoria-3d.json](./290076-memoria-3d.json) |
+| Memoria Altera | 363127 | [363127-memoria-altera.json](./363127-memoria-altera.json) |
 | Memoria Arcana | 390572 | [390572-memoria-arcana.json](./390572-memoria-arcana.json) |
 | Memoria Project | 193969 | [193969-memoria-project.json](./193969-memoria-project.json) |
 | Memoria VR | 311793 | [311793-memoria-vr.json](./311793-memoria-vr.json) |
@@ -9065,6 +9067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaball: Space Guide Pack | 409071 | [409071-metaball-space-guide-pack.json](./409071-metaball-space-guide-pack.json) |
 | Metabolis | 237277 | [237277-metabolis.json](./237277-metabolis.json) |
 | Metabolis | 423284 | [423284-metabolis.json](./423284-metabolis.json) |
+| Metabrawl | 363135 | [363135-metabrawl.json](./363135-metabrawl.json) |
 | Metacell: Genesis Arcade | 147233 | [147233-metacell-genesis-arcade.json](./147233-metacell-genesis-arcade.json) |
 | MetaChampions | 131988 | [131988-metachampions.json](./131988-metachampions.json) |
 | Metachromium | 164239 | [164239-metachromium.json](./164239-metachromium.json) |
@@ -13595,6 +13598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Armor | 43777 | [43777-mobile-armor.json](./43777-mobile-armor.json) |
 | Mobile Astro: EX Pack | 227029 | [227029-mobile-astro-ex-pack.json](./227029-mobile-astro-ex-pack.json) |
 | Mobile Ball | 109476 | [109476-mobile-ball.json](./109476-mobile-ball.json) |
+| Mobile Buncha | 363129 | [363129-mobile-buncha.json](./363129-mobile-buncha.json) |
 | Mobile Dinosaur: Action Edition | 108501 | [108501-mobile-dinosaur-action-edition.json](./108501-mobile-dinosaur-action-edition.json) |
 | Mobile Empire | 75387 | [75387-mobile-empire.json](./75387-mobile-empire.json) |
 | Mobile Golf | 3402 | [3402-mobile-golf.json](./3402-mobile-golf.json) |
