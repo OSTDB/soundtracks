@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Wizards | 215666 | [215666-war-of-wizards.json](./215666-war-of-wizards.json) |
 | War of Words 2 | 232066 | [232066-war-of-words-2.json](./232066-war-of-words-2.json) |
 | War of Zanzor III: Birth of Unity | 301825 | [301825-war-of-zanzor-iii-birth-of-unity.json](./301825-war-of-zanzor-iii-birth-of-unity.json) |
+| War On Christmas | 379836 | [379836-war-on-christmas.json](./379836-war-on-christmas.json) |
 | War on Drugs VR | 96513 | [96513-war-on-drugs-vr.json](./96513-war-on-drugs-vr.json) |
 | War on Folvos | 17724 | [17724-war-on-folvos.json](./17724-war-on-folvos.json) |
 | War on the Southern Front | 59183 | [59183-war-on-the-southern-front.json](./59183-war-on-the-southern-front.json) |
@@ -5934,6 +5935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WisdomGems | 310091 | [310091-wisdomgems.json](./310091-wisdomgems.json) |
 | Wise Escape From Prison | 368022 | [368022-wise-escape-from-prison.json](./368022-wise-escape-from-prison.json) |
 | Wise Garden | 244165 | [244165-wise-garden.json](./244165-wise-garden.json) |
+| Wise Guys | 380139 | [380139-wise-guys.json](./380139-wise-guys.json) |
 | Wise in the Heights | 358330 | [358330-wise-in-the-heights.json](./358330-wise-in-the-heights.json) |
 | WiseBall | 94400 | [94400-wiseball.json](./94400-wiseball.json) |
 | Wisegal | 9366 | [9366-wisegal.json](./9366-wisegal.json) |
