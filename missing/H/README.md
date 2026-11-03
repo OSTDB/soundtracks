@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hao-kun no Fushigi na Tabi | 215144 | [215144-hao-kun-no-fushigi-na-tabi.json](./215144-hao-kun-no-fushigi-na-tabi.json) |
 | Haos | 164086 | [164086-haos.json](./164086-haos.json) |
 | Haou Taikei: Ryuu Knight | 42299 | [42299-haou-taikei-ryuu-knight.json](./42299-haou-taikei-ryuu-knight.json) |
+| HaoWei 1 | 372943 | [372943-haowei-1.json](./372943-haowei-1.json) |
 | Hàoyuè Kōnghuá | 112991 | [112991-haoyue-konghua.json](./112991-haoyue-konghua.json) |
 | Haparoot | 405343 | [405343-haparoot.json](./405343-haparoot.json) |
 | Hapax | 61687 | [61687-hapax.json](./61687-hapax.json) |
@@ -5457,6 +5458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero 2048 | 365606 | [365606-hero-2048.json](./365606-hero-2048.json) |
 | Hero Allstars: Void Invasion | 158120 | [158120-hero-allstars-void-invasion.json](./158120-hero-allstars-void-invasion.json) |
 | Hero Among Us | 143686 | [143686-hero-among-us.json](./143686-hero-among-us.json) |
+| Hero and a Wicked Man | 372938 | [372938-hero-and-a-wicked-man.json](./372938-hero-and-a-wicked-man.json) |
 | Hero and Daughter | 58887 | [58887-hero-and-daughter.json](./58887-hero-and-daughter.json) |
 | Hero and Daughter+ | 36388 | [36388-hero-and-daughter.json](./36388-hero-and-daughter.json) |
 | Hero Bank | 61446 | [61446-hero-bank.json](./61446-hero-bank.json) |
@@ -8623,6 +8625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Alone Survival | 365062 | [365062-home-alone-survival.json](./365062-home-alone-survival.json) |
 | Home Babysitter | 83265 | [83265-home-babysitter.json](./83265-home-babysitter.json) |
 | Home Before Dark | 183360 | [183360-home-before-dark.json](./183360-home-before-dark.json) |
+| Home Before Winter | 372936 | [372936-home-before-winter.json](./372936-home-before-winter.json) |
 | Home Behind | 32708 | [32708-home-behind.json](./32708-home-behind.json) |
 | Home Behind 2 | 142663 | [142663-home-behind-2.json](./142663-home-behind-2.json) |
 | Home by the River | 212104 | [212104-home-by-the-river.json](./212104-home-by-the-river.json) |
