@@ -1824,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Temporium | 174579 | [174579-captain-temporium.json](./174579-captain-temporium.json) |
 | Captain the Looper | 240622 | [240622-captain-the-looper.json](./240622-captain-the-looper.json) |
 | Captain the Runner | 103795 | [103795-captain-the-runner.json](./103795-captain-the-runner.json) |
+| Captain Tideborne and the Siren's Call | 379317 | [379317-captain-tideborne-and-the-sirens-call.json](./379317-captain-tideborne-and-the-sirens-call.json) |
 | Captain Toad Treasure Tracker | 162427 | [162427-captain-toad-treasure-tracker.json](./162427-captain-toad-treasure-tracker.json) |
 | Captain Toad Treasure Tracker for SNES II | 162624 | [162624-captain-toad-treasure-tracker-for-snes-ii.json](./162624-captain-toad-treasure-tracker-for-snes-ii.json) |
 | Captain Toad: Prism Star Quest | 358338 | [358338-captain-toad-prism-star-quest.json](./358338-captain-toad-prism-star-quest.json) |
@@ -1956,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CapyBash | 392081 | [392081-capybash.json](./392081-capybash.json) |
 | Capybro | 263945 | [263945-capybro.json](./263945-capybro.json) |
 | Capyvarias | 390806 | [390806-capyvarias.json](./390806-capyvarias.json) |
+| Capyverse Odyssey | 379607 | [379607-capyverse-odyssey.json](./379607-capyverse-odyssey.json) |
 | Car | 243586 | [243586-car.json](./243586-car.json) |
 | Car & Driver Presents: Grand Tour Racing '98 | 45025 | [45025-car-and-driver-presents-grand-tour-racing-98.json](./45025-car-and-driver-presents-grand-tour-racing-98.json) |
 | Car and Driver | 72042 | [72042-car-and-driver.json](./72042-car-and-driver.json) |
@@ -2736,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carpenter Genzo: Robot Empire | 55937 | [55937-carpenter-genzo-robot-empire.json](./55937-carpenter-genzo-robot-empire.json) |
 | Carperation | 163973 | [163973-carperation.json](./163973-carperation.json) |
 | Carpet Bombing | 128148 | [128148-carpet-bombing.json](./128148-carpet-bombing.json) |
+| Carpet Capers | 379613 | [379613-carpet-capers.json](./379613-carpet-capers.json) |
 | Carpet Cleaning Master | 409989 | [409989-carpet-cleaning-master.json](./409989-carpet-cleaning-master.json) |
 | Carpet Cleaning Simulator | 407474 | [407474-carpet-cleaning-simulator.json](./407474-carpet-cleaning-simulator.json) |
 | Carpet Gallery | 320314 | [320314-carpet-gallery.json](./320314-carpet-gallery.json) |
@@ -2793,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot Cake | 340810 | [340810-carrot-cake.json](./340810-carrot-cake.json) |
 | Carrot Catcher | 382766 | [382766-carrot-catcher.json](./382766-carrot-catcher.json) |
 | Carrot Clicker | 281536 | [281536-carrot-clicker.json](./281536-carrot-clicker.json) |
+| Carrot Crusade: Mimika's Reckoning | 379312 | [379312-carrot-crusade-mimikas-reckoning.json](./379312-carrot-crusade-mimikas-reckoning.json) |
 | Carrot Fantasy | 279200 | [279200-carrot-fantasy.json](./279200-carrot-fantasy.json) |
 | Carrot Girl Adventures | 165678 | [165678-carrot-girl-adventures.json](./165678-carrot-girl-adventures.json) |
 | Carrot Heart | 155979 | [155979-carrot-heart.json](./155979-carrot-heart.json) |
@@ -17354,6 +17358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader's March | 240627 | [240627-crusaders-march.json](./240627-crusaders-march.json) |
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
 | Crusaders of Solaria | 61380 | [61380-crusaders-of-solaria.json](./61380-crusaders-of-solaria.json) |
+| Crusaders Quest : Mini | 379602 | [379602-crusaders-quest-mini.json](./379602-crusaders-quest-mini.json) |
 | Crusaders Quest: Hero Town | 397208 | [397208-crusaders-quest-hero-town.json](./397208-crusaders-quest-hero-town.json) |
 | Crusaders Quest: Merge Chess | 373889 | [373889-crusaders-quest-merge-chess.json](./373889-crusaders-quest-merge-chess.json) |
 | Crusaders: Thy Kingdom Come | 2011 | [2011-crusaders-thy-kingdom-come.json](./2011-crusaders-thy-kingdom-come.json) |
@@ -17934,6 +17939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Airport + Cube Farmer | 295697 | [295697-cube-airport-cube-farmer.json](./295697-cube-airport-cube-farmer.json) |
 | Cube Arena | 304900 | [304900-cube-arena.json](./304900-cube-arena.json) |
 | Cube Arena 2048: Merge Numbers | 216019 | [216019-cube-arena-2048-merge-numbers.json](./216019-cube-arena-2048-merge-numbers.json) |
+| Cube Attack | 379597 | [379597-cube-attack.json](./379597-cube-attack.json) |
 | Cube Bash | 183780 | [183780-cube-bash.json](./183780-cube-bash.json) |
 | Cube Battlefield: 2048 | 267071 | [267071-cube-battlefield-2048.json](./267071-cube-battlefield-2048.json) |
 | Cube Battler: Anna Miraiden | 70875 | [70875-cube-battler-anna-miraiden.json](./70875-cube-battler-anna-miraiden.json) |
@@ -18153,6 +18159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubex | 361575 | [361575-cubex.json](./361575-cubex.json) |
 | Cubey Quarry | 339352 | [339352-cubey-quarry.json](./339352-cubey-quarry.json) |
 | Cubey vs. the Universe | 244370 | [244370-cubey-vs-the-universe.json](./244370-cubey-vs-the-universe.json) |
+| Cubey: Hexfall | 379315 | [379315-cubey-hexfall.json](./379315-cubey-hexfall.json) |
 | CubeyCollect | 387741 | [387741-cubeycollect.json](./387741-cubeycollect.json) |
 | CubeZ | 17658 | [17658-cubez.json](./17658-cubez.json) |
 | CUBG: Car unknown battlegrounds | 120994 | [120994-cubg-car-unknown-battlegrounds.json](./120994-cubg-car-unknown-battlegrounds.json) |
