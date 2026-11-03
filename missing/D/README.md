@@ -5476,6 +5476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of the Middle Kingdom | 85568 | [85568-defense-of-the-middle-kingdom.json](./85568-defense-of-the-middle-kingdom.json) |
 | Defense of the Oasis | 138395 | [138395-defense-of-the-oasis.json](./138395-defense-of-the-oasis.json) |
 | Defense of the Sodomites | 336679 | [336679-defense-of-the-sodomites.json](./336679-defense-of-the-sodomites.json) |
+| Defense of Wancotte | 386079 | [386079-defense-of-wancotte.json](./386079-defense-of-wancotte.json) |
 | Defense Task Force | 83619 | [83619-defense-task-force.json](./83619-defense-task-force.json) |
 | Defense Technica | 10178 | [10178-defense-technica.json](./10178-defense-technica.json) |
 | Defense Tower Simulator | 152775 | [152775-defense-tower-simulator.json](./152775-defense-tower-simulator.json) |
