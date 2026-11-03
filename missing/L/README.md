@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lame Defenders | 159493 | [159493-lame-defenders.json](./159493-lame-defenders.json) |
 | Lamecraft | 254333 | [254333-lamecraft.json](./254333-lamecraft.json) |
 | Lament | 29376 | [29376-lament.json](./29376-lament.json) |
+| Lament | 386821 | [386821-lament.json](./386821-lament.json) |
 | Lament of Kyoto: Origins | 223267 | [223267-lament-of-kyoto-origins.json](./223267-lament-of-kyoto-origins.json) |
 | Lament of the Yuppie | 226340 | [226340-lament-of-the-yuppie.json](./226340-lament-of-the-yuppie.json) |
 | Lamentations | 318699 | [318699-lamentations.json](./318699-lamentations.json) |
@@ -2760,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Mario | 222852 | [222852-legends-of-mario.json](./222852-legends-of-mario.json) |
 | Legends of Mathmatica 2: Under the Shadow of Certainty | 193417 | [193417-legends-of-mathmatica-2-under-the-shadow-of-certainty.json](./193417-legends-of-mathmatica-2-under-the-shadow-of-certainty.json) |
 | Legends of Might and Magic | 9836 | [9836-legends-of-might-and-magic.json](./9836-legends-of-might-and-magic.json) |
+| Legends of Monsters | 386908 | [386908-legends-of-monsters.json](./386908-legends-of-monsters.json) |
 | Legends of Murder Collection | 173181 | [173181-legends-of-murder-collection.json](./173181-legends-of-murder-collection.json) |
 | Legends of Murder II: Grey Haven | 68736 | [68736-legends-of-murder-ii-grey-haven.json](./68736-legends-of-murder-ii-grey-haven.json) |
 | Legends of Norrath | 51219 | [51219-legends-of-norrath.json](./51219-legends-of-norrath.json) |
@@ -5610,6 +5612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Fire Girl Fights Final Boss | 298673 | [298673-little-fire-girl-fights-final-boss.json](./298673-little-fire-girl-fights-final-boss.json) |
 | Little Fish Seek to Live On | 370189 | [370189-little-fish-seek-to-live-on.json](./370189-little-fish-seek-to-live-on.json) |
 | Little Fish Swims On | 311213 | [311213-little-fish-swims-on.json](./311213-little-fish-swims-on.json) |
+| Little Fishing Idle | 386892 | [386892-little-fishing-idle.json](./386892-little-fishing-idle.json) |
 | Little Folk of Faery | 356212 | [356212-little-folk-of-faery.json](./356212-little-folk-of-faery.json) |
 | Little Fox: Bubble Spinner | 296074 | [296074-little-fox-bubble-spinner.json](./296074-little-fox-bubble-spinner.json) |
 | Little Friends: Dogs & Cats | 110337 | [110337-little-friends-dogs-and-cats.json](./110337-little-friends-dogs-and-cats.json) |
