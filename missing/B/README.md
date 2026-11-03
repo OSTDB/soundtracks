@@ -925,7 +925,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1993,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang Bead | 40235 | [40235-bang-bead.json](./40235-bang-bead.json) |
 | Bang Dream! Garupa AR! | 220326 | [220326-bang-dream-garupa-ar.json](./220326-bang-dream-garupa-ar.json) |
 | BanG Dream! Girls Band Party! for Nintendo Switch | 152887 | [152887-bang-dream-girls-band-party-for-nintendo-switch.json](./152887-bang-dream-girls-band-party-for-nintendo-switch.json) |
+| BanG Dream! Our Notes | 384814 | [384814-bang-dream-our-notes.json](./384814-bang-dream-our-notes.json) |
 | Bang For Your Truck | 133137 | [133137-bang-for-your-truck.json](./133137-bang-for-your-truck.json) |
 | Bang Pass Duel | 390326 | [390326-bang-pass-duel.json](./390326-bang-pass-duel.json) |
 | Bang Shoot. | 409604 | [409604-bang-shoot.json](./409604-bang-shoot.json) |
@@ -4481,6 +4481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BDSM Sex: Episode 6 | 302081 | [302081-bdsm-sex-episode-6.json](./302081-bdsm-sex-episode-6.json) |
 | BDSM Sex: Futanari | 417409 | [417409-bdsm-sex-futanari.json](./417409-bdsm-sex-futanari.json) |
 | BDSM Sex: Futanari 2 | 411241 | [411241-bdsm-sex-futanari-2.json](./411241-bdsm-sex-futanari-2.json) |
+| BDSM VR | 384682 | [384682-bdsm-vr.json](./384682-bdsm-vr.json) |
 | Be | 207329 | [207329-be.json](./207329-be.json) |
 | Be (Not) Afraid | 356832 | [356832-be-not-afraid.json](./356832-be-not-afraid.json) |
 | Be a Bee | 386357 | [386357-be-a-bee.json](./386357-be-a-bee.json) |
@@ -10829,6 +10830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Zombies | 28522 | [28522-bloody-zombies.json](./28522-bloody-zombies.json) |
 | BloodyXmas 2010 | 257789 | [257789-bloodyxmas-2010.json](./257789-bloodyxmas-2010.json) |
 | Bloodz | 217211 | [217211-bloodz.json](./217211-bloodz.json) |
+| Bloodzap | 384553 | [384553-bloodzap.json](./384553-bloodzap.json) |
 | Bloom | 110476 | [110476-bloom.json](./110476-bloom.json) |
 | Bloom | 143535 | [143535-bloom.json](./143535-bloom.json) |
 | Bloom | 185362 | [185362-bloom.json](./185362-bloom.json) |
@@ -12117,6 +12119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombyman | 112609 | [112609-bombyman.json](./112609-bombyman.json) |
 | Bombyx | 123639 | [123639-bombyx.json](./123639-bombyx.json) |
 | Bomcat | 362329 | [362329-bomcat.json](./362329-bomcat.json) |
+| Bomhops | 384547 | [384547-bomhops.json](./384547-bomhops.json) |
 | Bomi Omyeon Kkochi Pigo | 304247 | [304247-bomi-omyeon-kkochi-pigo.json](./304247-bomi-omyeon-kkochi-pigo.json) |
 | Bomight | 99443 | [99443-bomight.json](./99443-bomight.json) |
 | BomjMan | 120746 | [120746-bomjman.json](./120746-bomjman.json) |
@@ -14344,6 +14347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Point | 337697 | [337697-break-point.json](./337697-break-point.json) |
 | Break Point | 94456 | [94456-break-point.json](./94456-break-point.json) |
 | Break Point: Brace & Breach | 405567 | [405567-break-point-brace-and-breach.json](./405567-break-point-brace-and-breach.json) |
+| Break Protocol | 384490 | [384490-break-protocol.json](./384490-break-protocol.json) |
 | Break Sky | 168717 | [168717-break-sky.json](./168717-break-sky.json) |
 | Break Space: Out of Bounds | 158694 | [158694-break-space-out-of-bounds.json](./158694-break-space-out-of-bounds.json) |
 | Break Street | 25783 | [25783-break-street.json](./25783-break-street.json) |
