@@ -3785,6 +3785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pencil Racer 3: Drive It | 406916 | [406916-pencil-racer-3-drive-it.json](./406916-pencil-racer-3-drive-it.json) |
 | Pencil Racer XL | 406914 | [406914-pencil-racer-xl.json](./406914-pencil-racer-xl.json) |
 | Pencil Sharpening Simulator | 57172 | [57172-pencil-sharpening-simulator.json](./57172-pencil-sharpening-simulator.json) |
+| Pencil Stories | 373233 | [373233-pencil-stories.json](./373233-pencil-stories.json) |
 | Pencil Story - Free Logic Game | 36487 | [36487-pencil-story-free-logic-game.json](./36487-pencil-story-free-logic-game.json) |
 | Pencil vs. Eraser | 120571 | [120571-pencil-vs-eraser.json](./120571-pencil-vs-eraser.json) |
 | Pencil Whipped | 72546 | [72546-pencil-whipped.json](./72546-pencil-whipped.json) |
@@ -8577,6 +8578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plan 8 | 125632 | [125632-plan-8.json](./125632-plan-8.json) |
 | Plan 9 From Outer Space | 12717 | [12717-plan-9-from-outer-space.json](./12717-plan-9-from-outer-space.json) |
 | Plan 9 From Planet Kr1x | 301114 | [301114-plan-9-from-planet-kr1x.json](./301114-plan-9-from-planet-kr1x.json) |
+| Plan B | 372956 | [372956-plan-b.json](./372956-plan-b.json) |
 | Plan B: Goddess's cards | 215700 | [215700-plan-b-goddesss-cards.json](./215700-plan-b-goddesss-cards.json) |
 | Plan B: Terraform | 226719 | [226719-plan-b-terraform.json](./226719-plan-b-terraform.json) |
 | Plan Bee | 278842 | [278842-plan-bee.json](./278842-plan-bee.json) |
@@ -15910,6 +15912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proxyma | 362021 | [362021-proxyma.json](./362021-proxyma.json) |
 | Proyecto Huemul | 415746 | [415746-proyecto-huemul.json](./415746-proyecto-huemul.json) |
 | Proze: Enlightenment | 116132 | [116132-proze-enlightenment.json](./116132-proze-enlightenment.json) |
+| Prsi | 372958 | [372958-prsi.json](./372958-prsi.json) |
 | Prší | 99579 | [99579-prsi.json](./99579-prsi.json) |
 | PRTs | 176277 | [176277-prts.json](./176277-prts.json) |
 | Pru the Pigeon | 277758 | [277758-pru-the-pigeon.json](./277758-pru-the-pigeon.json) |
