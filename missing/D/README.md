@@ -3872,6 +3872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlined. | 410485 | [410485-deadlined.json](./410485-deadlined.json) |
 | Deadliners | 46489 | [46489-deadliners.json](./46489-deadliners.json) |
 | Deadlings: Rotten Edition | 26822 | [26822-deadlings-rotten-edition.json](./26822-deadlings-rotten-edition.json) |
+| Deadlist | 387444 | [387444-deadlist.json](./387444-deadlist.json) |
 | DeadLock | 166073 | [166073-deadlock.json](./166073-deadlock.json) |
 | Deadlock: Planetary Conquest | 10171 | [10171-deadlock-planetary-conquest.json](./10171-deadlock-planetary-conquest.json) |
 | Deadlocked | 177277 | [177277-deadlocked.json](./177277-deadlocked.json) |
@@ -16102,6 +16103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop the Ballz | 106866 | [106866-drop-the-ballz.json](./106866-drop-the-ballz.json) |
 | Drop the Ballz | 106932 | [106932-drop-the-ballz.json](./106932-drop-the-ballz.json) |
 | Drop the Bomb | 99587 | [99587-drop-the-bomb.json](./99587-drop-the-bomb.json) |
+| Drop The Cat | 387473 | [387473-drop-the-cat.json](./387473-drop-the-cat.json) |
 | Drop the Clock | 91223 | [91223-drop-the-clock.json](./91223-drop-the-clock.json) |
 | Drop the Dice | 275752 | [275752-drop-the-dice.json](./275752-drop-the-dice.json) |
 | Drop the Number | 216214 | [216214-drop-the-number.json](./216214-drop-the-number.json) |
