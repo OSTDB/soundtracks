@@ -2142,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Trader Simulator | 81162 | [81162-car-trader-simulator.json](./81162-car-trader-simulator.json) |
 | Car Trader Simulator: Welcome to the Business | 171384 | [171384-car-trader-simulator-welcome-to-the-business.json](./171384-car-trader-simulator-welcome-to-the-business.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
+| Car Tuning Garage Simulator | 364143 | [364143-car-tuning-garage-simulator.json](./364143-car-tuning-garage-simulator.json) |
 | Car Turning Simulator | 317266 | [317266-car-turning-simulator.json](./317266-car-turning-simulator.json) |
 | Car Tycoon | 362291 | [362291-car-tycoon.json](./362291-car-tycoon.json) |
 | Car Tycoon | 71851 | [71851-car-tycoon.json](./71851-car-tycoon.json) |
@@ -3510,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania Chronicles | 19468 | [19468-castlevania-chronicles.json](./19468-castlevania-chronicles.json) |
 | Castlevania Chronicles II: Simon's Quest | 233564 | [233564-castlevania-chronicles-ii-simons-quest.json](./233564-castlevania-chronicles-ii-simons-quest.json) |
 | Castlevania Dominus Collection | 314944 | [314944-castlevania-dominus-collection.json](./314944-castlevania-dominus-collection.json) |
+| Castlevania II English Re-Translation (+Map) | 364173 | [364173-castlevania-ii-english-re-translation-map.json](./364173-castlevania-ii-english-re-translation-map.json) |
 | Castlevania II SNES Port | 377727 | [377727-castlevania-ii-snes-port.json](./377727-castlevania-ii-snes-port.json) |
 | Castlevania II: Belmont's Revenge | 1123 | [1123-castlevania-ii-belmonts-revenge.json](./1123-castlevania-ii-belmonts-revenge.json) |
 | Castlevania II: Simon's Quest | 1116 | [1116-castlevania-ii-simons-quest.json](./1116-castlevania-ii-simons-quest.json) |
@@ -6329,6 +6331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess | 25126 | [25126-chess.json](./25126-chess.json) |
 | Chess | 277419 | [277419-chess.json](./277419-chess.json) |
 | Chess | 302809 | [302809-chess.json](./302809-chess.json) |
+| Chess | 364151 | [364151-chess.json](./364151-chess.json) |
 | Chess | 56599 | [56599-chess.json](./56599-chess.json) |
 | Chess | 9165 | [9165-chess.json](./9165-chess.json) |
 | Chess - tactics and strategy | 91100 | [91100-chess-tactics-and-strategy.json](./91100-chess-tactics-and-strategy.json) |
@@ -9617,6 +9620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliché Adventure | 159712 | [159712-cliche-adventure.json](./159712-cliche-adventure.json) |
 | Cliché Quest | 397603 | [397603-cliche-quest.json](./397603-cliche-quest.json) |
 | Click & Click | 118633 | [118633-click-and-click.json](./118633-click-and-click.json) |
+| Click Adventure | 364144 | [364144-click-adventure.json](./364144-click-adventure.json) |
 | Click and Collect | 199349 | [199349-click-and-collect.json](./199349-click-and-collect.json) |
 | Click and Conquer | 342682 | [342682-click-and-conquer.json](./342682-click-and-conquer.json) |
 | Click and Relax | 153420 | [153420-click-and-relax.json](./153420-click-and-relax.json) |
@@ -14886,6 +14890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cow Hunter | 200371 | [200371-cow-hunter.json](./200371-cow-hunter.json) |
 | Cow Life Sim RPG | 281348 | [281348-cow-life-sim-rpg.json](./281348-cow-life-sim-rpg.json) |
 | Cow Milking Simulator | 74988 | [74988-cow-milking-simulator.json](./74988-cow-milking-simulator.json) |
+| Cow Online World | 364217 | [364217-cow-online-world.json](./364217-cow-online-world.json) |
 | Cow Project 1986 | 401643 | [401643-cow-project-1986.json](./401643-cow-project-1986.json) |
 | Cow V: The Great Egg Quest | 71060 | [71060-cow-v-the-great-egg-quest.json](./71060-cow-v-the-great-egg-quest.json) |
 | Cowabunga | 72436 | [72436-cowabunga.json](./72436-cowabunga.json) |
@@ -18560,6 +18565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cup Killer: Sandbox Game | 310461 | [310461-cup-killer-sandbox-game.json](./310461-cup-killer-sandbox-game.json) |
 | Cup Manager | 93170 | [93170-cup-manager.json](./93170-cup-manager.json) |
 | Cup of Ethanol | 249281 | [249281-cup-of-ethanol.json](./249281-cup-of-ethanol.json) |
+| Cupang Academy | 364218 | [364218-cupang-academy.json](./364218-cupang-academy.json) |
 | Cupcake Baker | 87719 | [87719-cupcake-baker.json](./87719-cupcake-baker.json) |
 | Cupcake Clicker 4 | 231381 | [231381-cupcake-clicker-4.json](./231381-cupcake-clicker-4.json) |
 | Cupcake Doodle | 101424 | [101424-cupcake-doodle.json](./101424-cupcake-doodle.json) |
