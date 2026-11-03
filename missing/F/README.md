@@ -4304,8 +4304,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight For America | 380698 | [380698-fight-for-america.json](./380698-fight-for-america.json) |
 | Fight For America: Complete Edition | 385199 | [385199-fight-for-america-complete-edition.json](./385199-fight-for-america-complete-edition.json) |
 | Fight For America: Country War | 245344 | [245344-fight-for-america-country-war.json](./245344-fight-for-america-country-war.json) |
+| Fight For America: Fire Guns DLC | 380714 | [380714-fight-for-america-fire-guns-dlc.json](./380714-fight-for-america-fire-guns-dlc.json) |
+| Fight For America: Golden Gun DLC | 380715 | [380715-fight-for-america-golden-gun-dlc.json](./380715-fight-for-america-golden-gun-dlc.json) |
 | Fight For America: Hot Edition | 395678 | [395678-fight-for-america-hot-edition.json](./395678-fight-for-america-hot-edition.json) |
+| Fight For America: Ice Guns DLC | 380716 | [380716-fight-for-america-ice-guns-dlc.json](./380716-fight-for-america-ice-guns-dlc.json) |
+| Fight For America: Iron Patriot DLC | 380717 | [380717-fight-for-america-iron-patriot-dlc.json](./380717-fight-for-america-iron-patriot-dlc.json) |
 | Fight For America: Zap Edition | 399817 | [399817-fight-for-america-zap-edition.json](./399817-fight-for-america-zap-edition.json) |
+| Fight For America: Zap Gun DLC | 380718 | [380718-fight-for-america-zap-gun-dlc.json](./380718-fight-for-america-zap-gun-dlc.json) |
 | Fight For Eden | 164989 | [164989-fight-for-eden.json](./164989-fight-for-eden.json) |
 | Fight for Eden: Heat | 253943 | [253943-fight-for-eden-heat.json](./253943-fight-for-eden-heat.json) |
 | Fight for Freedom: Civil War | 294192 | [294192-fight-for-freedom-civil-war.json](./294192-fight-for-freedom-civil-war.json) |
@@ -12932,6 +12937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Aim Trainer 2: Multiplayer Gooning | 407696 | [407696-furry-aim-trainer-2-multiplayer-gooning.json](./407696-furry-aim-trainer-2-multiplayer-gooning.json) |
 | Furry Aim Trainer: Gooning Mode | 326206 | [326206-furry-aim-trainer-gooning-mode.json](./326206-furry-aim-trainer-gooning-mode.json) |
 | Furry Android Hentai | 211767 | [211767-furry-android-hentai.json](./211767-furry-android-hentai.json) |
+| Furry Angel Take In | 380358 | [380358-furry-angel-take-in.json](./380358-furry-angel-take-in.json) |
 | Furry Animals Bombing | 109745 | [109745-furry-animals-bombing.json](./109745-furry-animals-bombing.json) |
 | Furry Backrooms | 291775 | [291775-furry-backrooms.json](./291775-furry-backrooms.json) |
 | Furry BDSM | 256988 | [256988-furry-bdsm.json](./256988-furry-bdsm.json) |
@@ -13013,6 +13019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Shakespeare: To Date Or Not To Date Spooky Cat Girls 2?! | 290901 | [290901-furry-shakespeare-to-date-or-not-to-date-spooky-cat-girls-2.json](./290901-furry-shakespeare-to-date-or-not-to-date-spooky-cat-girls-2.json) |
 | Furry Shakespeare: To Date or Not to Date Spooky Cat Girls? | 153073 | [153073-furry-shakespeare-to-date-or-not-to-date-spooky-cat-girls.json](./153073-furry-shakespeare-to-date-or-not-to-date-spooky-cat-girls.json) |
 | Furry Shakespeare: Two Incredibly Ripped, Absolutely Shredded Noble Kinsmen | 196471 | [196471-furry-shakespeare-two-incredibly-ripped-absolutely-shredded-noble-kinsmen.json](./196471-furry-shakespeare-two-incredibly-ripped-absolutely-shredded-noble-kinsmen.json) |
+| Furry Sniper | 380357 | [380357-furry-sniper.json](./380357-furry-sniper.json) |
 | Furry Stories: Alpha-Male | 130297 | [130297-furry-stories-alpha-male.json](./130297-furry-stories-alpha-male.json) |
 | Furry Striptease | 215899 | [215899-furry-striptease.json](./215899-furry-striptease.json) |
 | Furry Superstar | 213007 | [213007-furry-superstar.json](./213007-furry-superstar.json) |
