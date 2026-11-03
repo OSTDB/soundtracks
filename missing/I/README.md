@@ -2830,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Workplace of Madness | 207335 | [207335-in-the-workplace-of-madness.json](./207335-in-the-workplace-of-madness.json) |
 | In the World End, You and Me the Forget's Legend | 93724 | [93724-in-the-world-end-you-and-me-the-forgets-legend.json](./93724-in-the-world-end-you-and-me-the-forgets-legend.json) |
 | In the World Unknown | 203215 | [203215-in-the-world-unknown.json](./203215-in-the-world-unknown.json) |
+| In Their Shoes | 372717 | [372717-in-their-shoes.json](./372717-in-their-shoes.json) |
 | In These Hallowed Halls | 419317 | [419317-in-these-hallowed-halls.json](./419317-in-these-hallowed-halls.json) |
 | In This House | 327375 | [327375-in-this-house.json](./327375-in-this-house.json) |
 | In Time | 380768 | [380768-in-time.json](./380768-in-time.json) |
@@ -4409,6 +4410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Install Fee Tycoon | 269006 | [269006-install-fee-tycoon.json](./269006-install-fee-tycoon.json) |
 | Install Wizard | 147353 | [147353-install-wizard.json](./147353-install-wizard.json) |
 | Installation 01 | 117289 | [117289-installation-01.json](./117289-installation-01.json) |
+| Installation 19 | 372414 | [372414-installation-19.json](./372414-installation-19.json) |
 | Instance Destroy | 244663 | [244663-instance-destroy.json](./244663-instance-destroy.json) |
 | Instant Anastasia | 356833 | [356833-instant-anastasia.json](./356833-instant-anastasia.json) |
 | Instant Armory | 303587 | [303587-instant-armory.json](./303587-instant-armory.json) |
