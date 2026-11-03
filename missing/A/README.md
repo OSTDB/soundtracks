@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Halloween Valentine | 219975 | [219975-a-halloween-valentine.json](./219975-a-halloween-valentine.json) |
 | A Hand in the Darkness | 28800 | [28800-a-hand-in-the-darkness.json](./28800-a-hand-in-the-darkness.json) |
 | A Hand With Many Fingers | 129453 | [129453-a-hand-with-many-fingers.json](./129453-a-hand-with-many-fingers.json) |
+| A Handful of Dust | 370927 | [370927-a-handful-of-dust.json](./370927-a-handful-of-dust.json) |
 | A Handful of Keflings | 83948 | [83948-a-handful-of-keflings.json](./83948-a-handful-of-keflings.json) |
 | A Handful of Lewd Games | 337801 | [337801-a-handful-of-lewd-games.json](./337801-a-handful-of-lewd-games.json) |
 | A Handful of Recurring Dreams | 184195 | [184195-a-handful-of-recurring-dreams.json](./184195-a-handful-of-recurring-dreams.json) |
@@ -6232,6 +6233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice and Smith: Complete Library | 52589 | [52589-alice-and-smith-complete-library.json](./52589-alice-and-smith-complete-library.json) |
 | Alice and the Devil's Prison | 406645 | [406645-alice-and-the-devils-prison.json](./406645-alice-and-the-devils-prison.json) |
 | Alice and the Magic Gardens | 52380 | [52380-alice-and-the-magic-gardens.json](./52380-alice-and-the-magic-gardens.json) |
+| Alice and The Magical Dragons | 370922 | [370922-alice-and-the-magical-dragons.json](./370922-alice-and-the-magical-dragons.json) |
 | Alice and the Magical Islands | 371312 | [371312-alice-and-the-magical-islands.json](./371312-alice-and-the-magical-islands.json) |
 | Alice and You in the planet of numbers | 144141 | [144141-alice-and-you-in-the-planet-of-numbers.json](./144141-alice-and-you-in-the-planet-of-numbers.json) |
 | Alice Clancy's Shattered Dimensions | 279076 | [279076-alice-clancys-shattered-dimensions.json](./279076-alice-clancys-shattered-dimensions.json) |
@@ -10900,6 +10902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex | 5728 | [5728-apex.json](./5728-apex.json) |
 | Apex 2026: Rise of Legends | 401727 | [401727-apex-2026-rise-of-legends.json](./401727-apex-2026-rise-of-legends.json) |
 | Apex Arena | 104237 | [104237-apex-arena.json](./104237-apex-arena.json) |
+| Apex Ascent | 370350 | [370350-apex-ascent.json](./370350-apex-ascent.json) |
 | Apex Automata | 297347 | [297347-apex-automata.json](./297347-apex-automata.json) |
 | Apex Byte Reeling | 399042 | [399042-apex-byte-reeling.json](./399042-apex-byte-reeling.json) |
 | Apex Construct | 75283 | [75283-apex-construct.json](./75283-apex-construct.json) |
@@ -13590,6 +13593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrival of Beasts | 152228 | [152228-arrival-of-beasts.json](./152228-arrival-of-beasts.json) |
 | Arrival of the Punnu | 194992 | [194992-arrival-of-the-punnu.json](./194992-arrival-of-the-punnu.json) |
 | Arrival, or Attack of the B-Movie Clichés | 314038 | [314038-arrival-or-attack-of-the-b-movie-cliches.json](./314038-arrival-or-attack-of-the-b-movie-cliches.json) |
+| Arrive In Time | 370958 | [370958-arrive-in-time.json](./370958-arrive-in-time.json) |
 | Arriving Home | 134925 | [134925-arriving-home.json](./134925-arriving-home.json) |
 | Arrog | 127144 | [127144-arrog.json](./127144-arrog.json) |
 | Arrogation: Unlight of Day | 220743 | [220743-arrogation-unlight-of-day.json](./220743-arrogation-unlight-of-day.json) |
@@ -15720,6 +15724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Rorona: The Alchemist of Arland | 7275 | [7275-atelier-rorona-the-alchemist-of-arland.json](./7275-atelier-rorona-the-alchemist-of-arland.json) |
 | Atelier Rorona: The Alchemist of Arland - Limited Edition | 44600 | [44600-atelier-rorona-the-alchemist-of-arland-limited-edition.json](./44600-atelier-rorona-the-alchemist-of-arland-limited-edition.json) |
 | Atelier Rorona: The Alchemist of Arland DX | 105031 | [105031-atelier-rorona-the-alchemist-of-arland-dx.json](./105031-atelier-rorona-the-alchemist-of-arland-dx.json) |
+| Atelier Ryza 2 Lost Legends & the Secret Fairy: Season Pass | 370941 | [370941-atelier-ryza-2-lost-legends-and-the-secret-fairy-season-pass.json](./370941-atelier-ryza-2-lost-legends-and-the-secret-fairy-season-pass.json) |
 | Atelier Ryza 2: Lost Legends & the Secret Fairy - Additional Area "Keldorah Castle" | 168937 | [168937-atelier-ryza-2-lost-legends-and-the-secret-fairy-additional-area-keldorah-castle.json](./168937-atelier-ryza-2-lost-legends-and-the-secret-fairy-additional-area-keldorah-castle.json) |
 | Atelier Ryza 2: Lost Legends & the Secret Fairy - Digital Deluxe Edition | 222263 | [222263-atelier-ryza-2-lost-legends-and-the-secret-fairy-digital-deluxe-edition.json](./222263-atelier-ryza-2-lost-legends-and-the-secret-fairy-digital-deluxe-edition.json) |
 | Atelier Ryza 2: Lost Legends & the Secret Fairy - High-difficulty Area "Flame Sun Island" | 168938 | [168938-atelier-ryza-2-lost-legends-and-the-secret-fairy-high-difficulty-area-flame-sun-island.json](./168938-atelier-ryza-2-lost-legends-and-the-secret-fairy-high-difficulty-area-flame-sun-island.json) |
@@ -15735,6 +15740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza 3: Endless Summer Splash! Costume Set | 242543 | [242543-atelier-ryza-3-endless-summer-splash-costume-set.json](./242543-atelier-ryza-3-endless-summer-splash-costume-set.json) |
 | Atelier Ryza 3: Season Pass | 396266 | [396266-atelier-ryza-3-season-pass.json](./396266-atelier-ryza-3-season-pass.json) |
 | Atelier Ryza 3: Summer Look Costume Set | 242544 | [242544-atelier-ryza-3-summer-look-costume-set.json](./242544-atelier-ryza-3-summer-look-costume-set.json) |
+| Atelier Ryza Season Pass 'Kurken Island Jam-packed Pass' | 370940 | [370940-atelier-ryza-season-pass-kurken-island-jam-packed-pass.json](./370940-atelier-ryza-season-pass-kurken-island-jam-packed-pass.json) |
 | Atelier Ryza Secret Trilogy Deluxe Pack | 354258 | [354258-atelier-ryza-secret-trilogy-deluxe-pack.json](./354258-atelier-ryza-secret-trilogy-deluxe-pack.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - "Ever Summer Queen & the Secret Island" | 168939 | [168939-atelier-ryza-ever-darkness-and-the-secret-hideout-ever-summer-queen-and-the-secret-island.json](./168939-atelier-ryza-ever-darkness-and-the-secret-hideout-ever-summer-queen-and-the-secret-island.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - "Secret Solitary Island" | 168942 | [168942-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json](./168942-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json) |
@@ -15776,6 +15782,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Yumia: Idus Training Grounds | 363021 | [363021-atelier-yumia-idus-training-grounds.json](./363021-atelier-yumia-idus-training-grounds.json) |
 | Atelier Yumia: Special costume for Yumia in collaboration with Asbel from "Tales of Graces f Remastered" | 351152 | [351152-atelier-yumia-special-costume-for-yumia-in-collaboration-with-asbel-from-tales-of-graces-f-remastered.json](./351152-atelier-yumia-special-costume-for-yumia-in-collaboration-with-asbel-from-tales-of-graces-f-remastered.json) |
 | Atelier Yumia: Swimsuit Set | 351167 | [351167-atelier-yumia-swimsuit-set.json](./351167-atelier-yumia-swimsuit-set.json) |
+| Atelier Yumia: The Alchemist of Memories & The Envisioned Land - "The Red Alchemist & the White Guardian” Costume Set | 370934 | [370934-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-the-red-alchemist-and-the-white-guardian-costume-set.json](./370934-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-the-red-alchemist-and-the-white-guardian-costume-set.json) |
+| Atelier Yumia: The Alchemist of Memories & The Envisioned Land - Additional Map “Secret Research Area Aladissia" | 370932 | [370932-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-additional-map-secret-research-area-aladissia.json](./370932-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-additional-map-secret-research-area-aladissia.json) |
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Atelier Series Legacy BGM Pack | 380624 | [380624-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-atelier-series-legacy-bgm-pack.json](./380624-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-atelier-series-legacy-bgm-pack.json) |
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Digital Deluxe Edition | 333715 | [333715-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-digital-deluxe-edition.json](./333715-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-digital-deluxe-edition.json) |
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Gamers Super Limited Edition | 418558 | [418558-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-gamers-super-limited-edition.json](./418558-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-gamers-super-limited-edition.json) |
@@ -15783,6 +15791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Special Collection Box | 418560 | [418560-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-special-collection-box.json](./418560-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-special-collection-box.json) |
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Uchuu Sousei! GS Cosmo Combo Set | 418562 | [418562-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-uchuu-sousei-gs-cosmo-combo-set.json](./418562-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-uchuu-sousei-gs-cosmo-combo-set.json) |
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Ultimate Edition | 333716 | [333716-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-ultimate-edition.json](./333716-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-ultimate-edition.json) |
+| Atelier Yumia: The Alchemist of Memories & The Envisioned Land Seasons Pass | 370936 | [370936-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-seasons-pass.json](./370936-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-seasons-pass.json) |
 | Atelier Yumia: The Art of Aladiss Expansion Pack | 356745 | [356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json](./356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json) |
 | Atelier Yumia: Yumia and Flammi Swimsuit Set | 351166 | [351166-atelier-yumia-yumia-and-flammi-swimsuit-set.json](./351166-atelier-yumia-yumia-and-flammi-swimsuit-set.json) |
 | Atelier: Alchemists of Arland 1-2-3 DX - Premium Box | 136717 | [136717-atelier-alchemists-of-arland-1-2-3-dx-premium-box.json](./136717-atelier-alchemists-of-arland-1-2-3-dx-premium-box.json) |
@@ -15839,6 +15848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -16570,6 +16580,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autobahn Chaos | 179138 | [179138-autobahn-chaos.json](./179138-autobahn-chaos.json) |
 | Autobahn Police Simulator 2 | 76616 | [76616-autobahn-police-simulator-2.json](./76616-autobahn-police-simulator-2.json) |
 | Autobahn Police Simulator 3 | 153975 | [153975-autobahn-police-simulator-3.json](./153975-autobahn-police-simulator-3.json) |
+| Autobahn Police Simulator 3: Police Motorcycle | 370386 | [370386-autobahn-police-simulator-3-police-motorcycle.json](./370386-autobahn-police-simulator-3-police-motorcycle.json) |
+| Autobahn Police Simulator 3: Speed Trap | 370387 | [370387-autobahn-police-simulator-3-speed-trap.json](./370387-autobahn-police-simulator-3-speed-trap.json) |
 | Autobahn Racing | 25448 | [25448-autobahn-racing.json](./25448-autobahn-racing.json) |
 | Autobahn Racing | 376805 | [376805-autobahn-racing.json](./376805-autobahn-racing.json) |
 | Autobahn Raser | 210275 | [210275-autobahn-raser.json](./210275-autobahn-raser.json) |
@@ -16766,6 +16778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avakin Life | 86966 | [86966-avakin-life.json](./86966-avakin-life.json) |
 | Avalan | 416943 | [416943-avalan.json](./416943-avalan.json) |
 | Avalanche | 228674 | [228674-avalanche.json](./228674-avalanche.json) |
+| Avalanche | 370979 | [370979-avalanche.json](./370979-avalanche.json) |
 | Avalanche | 46840 | [46840-avalanche.json](./46840-avalanche.json) |
 | Avalanche Escape | 313554 | [313554-avalanche-escape.json](./313554-avalanche-escape.json) |
 | Avalanche Snowboarding | 214763 | [214763-avalanche-snowboarding.json](./214763-avalanche-snowboarding.json) |
