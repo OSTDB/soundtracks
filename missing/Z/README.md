@@ -1478,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Defense | 271703 | [271703-zombie-defense.json](./271703-zombie-defense.json) |
 | Zombie Defense Shelter | 130195 | [130195-zombie-defense-shelter.json](./130195-zombie-defense-shelter.json) |
 | Zombie Defense: Banana | 404557 | [404557-zombie-defense-banana.json](./404557-zombie-defense-banana.json) |
+| Zombie Defense: Breach of the Undead | 392584 | [392584-zombie-defense-breach-of-the-undead.json](./392584-zombie-defense-breach-of-the-undead.json) |
 | Zombie Defense: Commando Edition | 277914 | [277914-zombie-defense-commando-edition.json](./277914-zombie-defense-commando-edition.json) |
 | Zombie Defense: Definitive Edition | 275047 | [275047-zombie-defense-definitive-edition.json](./275047-zombie-defense-definitive-edition.json) |
 | Zombie Defense: Emerald Edition | 400206 | [400206-zombie-defense-emerald-edition.json](./400206-zombie-defense-emerald-edition.json) |
