@@ -6067,6 +6067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch of Eclipse | 349735 | [349735-witch-of-eclipse.json](./349735-witch-of-eclipse.json) |
 | Witch of Ice Kingdom Collection | 52134 | [52134-witch-of-ice-kingdom-collection.json](./52134-witch-of-ice-kingdom-collection.json) |
 | Witch of Ice Kingdom II | 30034 | [30034-witch-of-ice-kingdom-ii.json](./30034-witch-of-ice-kingdom-ii.json) |
+| Witch of Mystery Tower | 369821 | [369821-witch-of-mystery-tower.json](./369821-witch-of-mystery-tower.json) |
 | Witch of Oblivion | 304999 | [304999-witch-of-oblivion.json](./304999-witch-of-oblivion.json) |
 | Witch of the Meta Loop | 329422 | [329422-witch-of-the-meta-loop.json](./329422-witch-of-the-meta-loop.json) |
 | Witch of the Woods | 110902 | [110902-witch-of-the-woods.json](./110902-witch-of-the-woods.json) |
