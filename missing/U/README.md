@@ -2894,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unwelcome | 262285 | [262285-unwelcome.json](./262285-unwelcome.json) |
 | Unwelcome | 276586 | [276586-unwelcome.json](./276586-unwelcome.json) |
 | Unwelcome Guest | 337453 | [337453-unwelcome-guest.json](./337453-unwelcome-guest.json) |
+| Unwelcome Guests | 395626 | [395626-unwelcome-guests.json](./395626-unwelcome-guests.json) |
 | Unwell Known | 152829 | [152829-unwell-known.json](./152829-unwell-known.json) |
 | Unwieldy Wand | 182666 | [182666-unwieldy-wand.json](./182666-unwieldy-wand.json) |
 | Unwilling Host | 389698 | [389698-unwilling-host.json](./389698-unwilling-host.json) |
