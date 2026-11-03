@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Om Nom: Run 2 - Emerald Edition | 396923 | [396923-om-nom-run-2-emerald-edition.json](./396923-om-nom-run-2-emerald-edition.json) |
 | OMA: One Man Army | 259701 | [259701-oma-one-man-army.json](./259701-oma-one-man-army.json) |
 | Omae Wa Mou Shindeiru | 98711 | [98711-omae-wa-mou-shindeiru.json](./98711-omae-wa-mou-shindeiru.json) |
+| Omakase | 368220 | [368220-omakase.json](./368220-omakase.json) |
 | Omakase! Savers | 275605 | [275605-omakase-savers.json](./275605-omakase-savers.json) |
 | Omamori | 185069 | [185069-omamori.json](./185069-omamori.json) |
 | OmanaC: C2 | 213882 | [213882-omanac-c2.json](./213882-omanac-c2.json) |
@@ -4641,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Journey: The Silent Voice | 355328 | [355328-our-journey-the-silent-voice.json](./355328-our-journey-the-silent-voice.json) |
 | Our Journeys: A Collection of Visual Novels | 129051 | [129051-our-journeys-a-collection-of-visual-novels.json](./129051-our-journeys-a-collection-of-visual-novels.json) |
 | Our Lady of Sorrow | 215035 | [215035-our-lady-of-sorrow.json](./215035-our-lady-of-sorrow.json) |
+| Our Last Conversation | 369295 | [369295-our-last-conversation.json](./369295-our-last-conversation.json) |
 | Our Last Dayz | 249711 | [249711-our-last-dayz.json](./249711-our-last-dayz.json) |
 | Our Last Stand: A way home | 179937 | [179937-our-last-stand-a-way-home.json](./179937-our-last-stand-a-way-home.json) |
 | Our Life on Water | 276186 | [276186-our-life-on-water.json](./276186-our-life-on-water.json) |
