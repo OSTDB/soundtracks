@@ -3584,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinoko-nun | 379907 | [379907-kinoko-nun.json](./379907-kinoko-nun.json) |
 | KiNoKoe: Tree's Voice | 217259 | [217259-kinokoe-trees-voice.json](./217259-kinokoe-trees-voice.json) |
 | Kinophobia | 375931 | [375931-kinophobia.json](./375931-kinophobia.json) |
+| KinPath | 354897 | [354897-kinpath.json](./354897-kinpath.json) |
 | Kinshin Ingo Doteigari | 108945 | [108945-kinshin-ingo-doteigari.json](./108945-kinshin-ingo-doteigari.json) |
 | Kinstrife | 277774 | [277774-kinstrife.json](./277774-kinstrife.json) |
 | Kint | 402074 | [402074-kint.json](./402074-kint.json) |
