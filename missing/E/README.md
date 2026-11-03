@@ -3187,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires: Dawn of the Modern World | 678 | [678-empires-dawn-of-the-modern-world.json](./678-empires-dawn-of-the-modern-world.json) |
 | Empis | 215869 | [215869-empis.json](./215869-empis.json) |
 | Emplacement | 239804 | [239804-emplacement.json](./239804-emplacement.json) |
+| Employee 925 | 364167 | [364167-employee-925.json](./364167-employee-925.json) |
 | Employee A | 188994 | [188994-employee-a.json](./188994-employee-a.json) |
 | Employee of the Month | 202550 | [202550-employee-of-the-month.json](./202550-employee-of-the-month.json) |
 | Employee Recycling Center | 36463 | [36463-employee-recycling-center.json](./36463-employee-recycling-center.json) |
@@ -6883,6 +6884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil, My Friend | 185547 | [185547-evil-my-friend.json](./185547-evil-my-friend.json) |
 | Evil's Den | 203617 | [203617-evils-den.json](./203617-evils-den.json) |
 | Evil's Doom | 63052 | [63052-evils-doom.json](./63052-evils-doom.json) |
+| Evilbane | 364175 | [364175-evilbane.json](./364175-evilbane.json) |
 | EvilBane: Rise of Ravens | 137390 | [137390-evilbane-rise-of-ravens.json](./137390-evilbane-rise-of-ravens.json) |
 | EvilCraft | 232678 | [232678-evilcraft.json](./232678-evilcraft.json) |
 | EvilHack | 351130 | [351130-evilhack.json](./351130-evilhack.json) |
