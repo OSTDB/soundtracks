@@ -9568,6 +9568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidereal Wanderer | 291712 | [291712-sidereal-wanderer.json](./291712-sidereal-wanderer.json) |
 | Sidereal Wanderer St | 391439 | [391439-sidereal-wanderer-st.json](./391439-sidereal-wanderer-st.json) |
 | SideShow | 70364 | [70364-sideshow.json](./70364-sideshow.json) |
+| Sideswipe | 383536 | [383536-sideswipe.json](./383536-sideswipe.json) |
 | Sideswiped | 91666 | [91666-sideswiped.json](./91666-sideswiped.json) |
 | Sidewalk Fighter II | 60912 | [60912-sidewalk-fighter-ii.json](./60912-sidewalk-fighter-ii.json) |
 | Sidewalk Sidestep | 183233 | [183233-sidewalk-sidestep.json](./183233-sidewalk-sidestep.json) |
@@ -9692,6 +9693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sight's Adventure | 182909 | [182909-sights-adventure.json](./182909-sights-adventure.json) |
 | Sightbringer | 157851 | [157851-sightbringer.json](./157851-sightbringer.json) |
 | Sightings from the Deep | 313754 | [313754-sightings-from-the-deep.json](./313754-sightings-from-the-deep.json) |
+| Sightings of Beyond | 383406 | [383406-sightings-of-beyond.json](./383406-sightings-of-beyond.json) |
 | Sightline | 202944 | [202944-sightline.json](./202944-sightline.json) |
 | SightLineVR | 74763 | [74763-sightlinevr.json](./74763-sightlinevr.json) |
 | Sightseeing Puzzle: Echter Puzzlespass für Unterwegs | 252679 | [252679-sightseeing-puzzle-echter-puzzlespass-fur-unterwegs.json](./252679-sightseeing-puzzle-echter-puzzlespass-fur-unterwegs.json) |
@@ -12149,6 +12151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyland Rush: Air Raid Attack | 145963 | [145963-skyland-rush-air-raid-attack.json](./145963-skyland-rush-air-raid-attack.json) |
 | Skyland Wars | 294588 | [294588-skyland-wars.json](./294588-skyland-wars.json) |
 | Skyland: Heart of the Mountain | 114061 | [114061-skyland-heart-of-the-mountain.json](./114061-skyland-heart-of-the-mountain.json) |
+| Skylanders Imaginators: Destocked + Rebalanced | 383414 | [383414-skylanders-imaginators-destocked-rebalanced.json](./383414-skylanders-imaginators-destocked-rebalanced.json) |
 | Skylanders SuperChargers: Dark Edition Starter Pack | 166979 | [166979-skylanders-superchargers-dark-edition-starter-pack.json](./166979-skylanders-superchargers-dark-edition-starter-pack.json) |
 | Skylanders: Battlecast | 21563 | [21563-skylanders-battlecast.json](./21563-skylanders-battlecast.json) |
 | Skylanders: Cloud Patrol | 65286 | [65286-skylanders-cloud-patrol.json](./65286-skylanders-cloud-patrol.json) |
