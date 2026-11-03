@@ -3169,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbeat at Midnight | 407310 | [407310-heartbeat-at-midnight.json](./407310-heartbeat-at-midnight.json) |
 | Heartbeat Girlfriend | 278100 | [278100-heartbeat-girlfriend.json](./278100-heartbeat-girlfriend.json) |
 | Heartbeat House: Hong Kong | 386218 | [386218-heartbeat-house-hong-kong.json](./386218-heartbeat-house-hong-kong.json) |
+| Heartbeat in Thailand | 369277 | [369277-heartbeat-in-thailand.json](./369277-heartbeat-in-thailand.json) |
 | Heartbeat Scramble | 209621 | [209621-heartbeat-scramble.json](./209621-heartbeat-scramble.json) |
 | Heartbeat Under One Roof | 408385 | [408385-heartbeat-under-one-roof.json](./408385-heartbeat-under-one-roof.json) |
 | Heartbeat: Regret | 164222 | [164222-heartbeat-regret.json](./164222-heartbeat-regret.json) |
@@ -4572,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Asmodeus | 125352 | [125352-hentai-asmodeus.json](./125352-hentai-asmodeus.json) |
 | Hentai Ayumi | 244081 | [244081-hentai-ayumi.json](./244081-hentai-ayumi.json) |
 | Hentai Bad Girls | 280267 | [280267-hentai-bad-girls.json](./280267-hentai-bad-girls.json) |
+| Hentai Bae Sunny | 369307 | [369307-hentai-bae-sunny.json](./369307-hentai-bae-sunny.json) |
 | Hentai Bae Violet | 369830 | [369830-hentai-bae-violet.json](./369830-hentai-bae-violet.json) |
 | Hentai Balloons | 161549 | [161549-hentai-balloons.json](./161549-hentai-balloons.json) |
 | Hentai Balloons 2 | 156637 | [156637-hentai-balloons-2.json](./156637-hentai-balloons-2.json) |
@@ -4630,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Clicker: Alerinna Is Streaming | 371383 | [371383-hentai-clicker-alerinna-is-streaming.json](./371383-hentai-clicker-alerinna-is-streaming.json) |
 | Hentai Clicker: Bethy Is Streaming | 389609 | [389609-hentai-clicker-bethy-is-streaming.json](./389609-hentai-clicker-bethy-is-streaming.json) |
 | Hentai Clicker: Cassandra Is Streaming | 389616 | [389616-hentai-clicker-cassandra-is-streaming.json](./389616-hentai-clicker-cassandra-is-streaming.json) |
+| Hentai Clicker: Cathy is Streaming | 368733 | [368733-hentai-clicker-cathy-is-streaming.json](./368733-hentai-clicker-cathy-is-streaming.json) |
 | Hentai Clicker: Emy Is Streaming | 371384 | [371384-hentai-clicker-emy-is-streaming.json](./371384-hentai-clicker-emy-is-streaming.json) |
 | Hentai Clicker: Eva Is Streaming | 389610 | [389610-hentai-clicker-eva-is-streaming.json](./389610-hentai-clicker-eva-is-streaming.json) |
 | Hentai Clicker: Hanma Is Streaming | 370768 | [370768-hentai-clicker-hanma-is-streaming.json](./370768-hentai-clicker-hanma-is-streaming.json) |
@@ -5152,6 +5155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: Scent Of Mixed | 340455 | [340455-hentai-tales-scent-of-mixed.json](./340455-hentai-tales-scent-of-mixed.json) |
 | Hentai Tales: Seed Prison | 301668 | [301668-hentai-tales-seed-prison.json](./301668-hentai-tales-seed-prison.json) |
 | Hentai Tales: Sex Apartment | 275532 | [275532-hentai-tales-sex-apartment.json](./275532-hentai-tales-sex-apartment.json) |
+| Hentai Tales: Sexual Guidance Class | 369301 | [369301-hentai-tales-sexual-guidance-class.json](./369301-hentai-tales-sexual-guidance-class.json) |
 | Hentai Tales: Strange Land Apaku | 312721 | [312721-hentai-tales-strange-land-apaku.json](./312721-hentai-tales-strange-land-apaku.json) |
 | Hentai Tales: Succubus Utopia | 286140 | [286140-hentai-tales-succubus-utopia.json](./286140-hentai-tales-succubus-utopia.json) |
 | Hentai Tales: Taboo Sisters | 340456 | [340456-hentai-tales-taboo-sisters.json](./340456-hentai-tales-taboo-sisters.json) |
@@ -5305,6 +5309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her New Memory | 152295 | [152295-her-new-memory.json](./152295-her-new-memory.json) |
 | Her New Memory: BDSM | 217541 | [217541-her-new-memory-bdsm.json](./217541-her-new-memory-bdsm.json) |
 | Her Nightmares: Redacted | 212265 | [212265-her-nightmares-redacted.json](./212265-her-nightmares-redacted.json) |
+| Her Pantyhose | 369300 | [369300-her-pantyhose.json](./369300-her-pantyhose.json) |
 | Her Pound of Flesh | 139386 | [139386-her-pound-of-flesh.json](./139386-her-pound-of-flesh.json) |
 | Her Shoes | 301822 | [301822-her-shoes.json](./301822-her-shoes.json) |
 | Her Sign | 183390 | [183390-her-sign.json](./183390-her-sign.json) |
@@ -7269,6 +7274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highscore Hunter Hodgepodge | 129412 | [129412-highscore-hunter-hodgepodge.json](./129412-highscore-hunter-hodgepodge.json) |
 | Highscore Processing Unit | 99645 | [99645-highscore-processing-unit.json](./99645-highscore-processing-unit.json) |
 | HighSpell | 341850 | [341850-highspell.json](./341850-highspell.json) |
+| Hightail | 369261 | [369261-hightail.json](./369261-hightail.json) |
 | Hightide | 215347 | [215347-hightide.json](./215347-hightide.json) |
 | HighVelocity Paintball | 112051 | [112051-highvelocity-paintball.json](./112051-highvelocity-paintball.json) |
 | Highway | 245464 | [245464-highway.json](./245464-highway.json) |
@@ -10975,6 +10981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Element | 1938 | [1938-human-element.json](./1938-human-element.json) |
 | Human Error | 217001 | [217001-human-error.json](./217001-human-error.json) |
 | Human Evolution Clicker Game: Rise of Mankind | 100889 | [100889-human-evolution-clicker-game-rise-of-mankind.json](./100889-human-evolution-clicker-game-rise-of-mankind.json) |
+| Human Expenditure Program | 368739 | [368739-human-expenditure-program.json](./368739-human-expenditure-program.json) |
 | Human Extinction Simulator | 28588 | [28588-human-extinction-simulator.json](./28588-human-extinction-simulator.json) |
 | Human Factory | 127540 | [127540-human-factory.json](./127540-human-factory.json) |
 | Human Farm | 133347 | [133347-human-farm.json](./133347-human-farm.json) |
