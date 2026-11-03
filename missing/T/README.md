@@ -12749,6 +12749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lucid Dreamer Bundle | 201012 | [201012-the-lucid-dreamer-bundle.json](./201012-the-lucid-dreamer-bundle.json) |
 | The Luckiest in the Megaverse | 285594 | [285594-the-luckiest-in-the-megaverse.json](./285594-the-luckiest-in-the-megaverse.json) |
 | The Lucky Acre | 409026 | [409026-the-lucky-acre.json](./409026-the-lucky-acre.json) |
+| The Lucky Stray Cat | 386824 | [386824-the-lucky-stray-cat.json](./386824-the-lucky-stray-cat.json) |
 | The Luffman Experiment | 407561 | [407561-the-luffman-experiment.json](./407561-the-luffman-experiment.json) |
 | The Luminist | 120972 | [120972-the-luminist.json](./120972-the-luminist.json) |
 | The Lunar Effect | 144746 | [144746-the-lunar-effect.json](./144746-the-lunar-effect.json) |
@@ -31127,6 +31128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twenty-second: Stories of Underground Kharkiv | 295170 | [295170-twenty-second-stories-of-underground-kharkiv.json](./295170-twenty-second-stories-of-underground-kharkiv.json) |
 | Twenty, in Total | 204424 | [204424-twenty-in-total.json](./204424-twenty-in-total.json) |
 | Twenty48 Solitaire | 103097 | [103097-twenty48-solitaire.json](./103097-twenty48-solitaire.json) |
+| TwentyOne | 386904 | [386904-twentyone.json](./386904-twentyone.json) |
 | Twerk it Girl! | 238510 | [238510-twerk-it-girl.json](./238510-twerk-it-girl.json) |
 | Twerk Race 3D | 282421 | [282421-twerk-race-3d.json](./282421-twerk-race-3d.json) |
 | Twerps | 24935 | [24935-twerps.json](./24935-twerps.json) |
