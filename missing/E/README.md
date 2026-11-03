@@ -1640,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eigen Space | 192427 | [192427-eigen-space.json](./192427-eigen-space.json) |
 | EigenGauge | 283771 | [283771-eigengauge.json](./283771-eigengauge.json) |
 | Eigengrau | 215876 | [215876-eigengrau.json](./215876-eigengrau.json) |
+| Eigengrau: Dream Book | 399344 | [399344-eigengrau-dream-book.json](./399344-eigengrau-dream-book.json) |
 | Eigenstate | 176470 | [176470-eigenstate.json](./176470-eigenstate.json) |
 | Eigenstate | 426437 | [426437-eigenstate.json](./426437-eigenstate.json) |
 | Eight | 163756 | [163756-eight.json](./163756-eight.json) |
