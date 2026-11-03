@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamstörm | 303055 | [303055-hamstorm.json](./303055-hamstorm.json) |
 | Hamstory | 391100 | [391100-hamstory.json](./391100-hamstory.json) |
 | HamSumo | 287751 | [287751-hamsumo.json](./287751-hamsumo.json) |
+| Hamtaro Card e: B028 - Pepper | 356388 | [356388-hamtaro-card-e-b028-pepper.json](./356388-hamtaro-card-e-b028-pepper.json) |
 | Hamtaro Card e: B029 - Hannah | 356390 | [356390-hamtaro-card-e-b029-hannah.json](./356390-hamtaro-card-e-b029-hannah.json) |
 | Hamtaro Card e: B030 - Nin-Ham | 356391 | [356391-hamtaro-card-e-b030-nin-ham.json](./356391-hamtaro-card-e-b030-nin-ham.json) |
 | Hamtaro Card e: B031 - Sabu | 356392 | [356392-hamtaro-card-e-b031-sabu.json](./356392-hamtaro-card-e-b031-sabu.json) |
@@ -6482,6 +6483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidamari no Sanatorium | 285374 | [285374-hidamari-no-sanatorium.json](./285374-hidamari-no-sanatorium.json) |
 | Hidden | 135586 | [135586-hidden.json](./135586-hidden.json) |
 | Hidden | 249789 | [249789-hidden.json](./249789-hidden.json) |
+| Hidden | 356384 | [356384-hidden.json](./356384-hidden.json) |
 | Hidden & Dangerous | 294 | [294-hidden-and-dangerous.json](./294-hidden-and-dangerous.json) |
 | Hidden & Dangerous 2 | 107 | [107-hidden-and-dangerous-2.json](./107-hidden-and-dangerous-2.json) |
 | Hidden & Dangerous 2: Courage Under Fire | 50073 | [50073-hidden-and-dangerous-2-courage-under-fire.json](./50073-hidden-and-dangerous-2-courage-under-fire.json) |
