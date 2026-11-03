@@ -1559,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Pressure | 80602 | [80602-under-pressure.json](./80602-under-pressure.json) |
 | Under Pretense of Death | 177334 | [177334-under-pretense-of-death.json](./177334-under-pretense-of-death.json) |
 | Under Princess: Pure Voice | 109005 | [109005-under-princess-pure-voice.json](./109005-under-princess-pure-voice.json) |
+| Under Rooms | 349070 | [349070-under-rooms.json](./349070-under-rooms.json) |
 | Under Shelter | 146550 | [146550-under-shelter.json](./146550-under-shelter.json) |
 | Under Siege | 203591 | [203591-under-siege.json](./203591-under-siege.json) |
 | Under Siege | 383347 | [383347-under-siege.json](./383347-under-siege.json) |
@@ -2026,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfreeze Penguins | 416164 | [416164-unfreeze-penguins.json](./416164-unfreeze-penguins.json) |
 | Unfrost | 423998 | [423998-unfrost.json](./423998-unfrost.json) |
 | Unga Needs Mumba | 327668 | [327668-unga-needs-mumba.json](./327668-unga-needs-mumba.json) |
+| Ungaland! | 349050 | [349050-ungaland.json](./349050-ungaland.json) |
 | Ungaria | 62396 | [62396-ungaria.json](./62396-ungaria.json) |
 | Ungodly | 375516 | [375516-ungodly.json](./375516-ungodly.json) |
 | Ungra Walker | 54748 | [54748-ungra-walker.json](./54748-ungra-walker.json) |
