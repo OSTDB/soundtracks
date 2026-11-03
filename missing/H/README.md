@@ -3696,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist Simulator 2025 | 330402 | [330402-heist-simulator-2025.json](./330402-heist-simulator-2025.json) |
 | Heist: The Score | 61135 | [61135-heist-the-score.json](./61135-heist-the-score.json) |
 | Heist! | 78287 | [78287-heist.json](./78287-heist.json) |
+| Heist.exe | 350880 | [350880-heist-exe.json](./350880-heist-exe.json) |
 | HeistGeist | 211182 | [211182-heistgeist.json](./211182-heistgeist.json) |
 | Heisting | 294241 | [294241-heisting.json](./294241-heisting.json) |
 | Heisting: Arsenal | 294847 | [294847-heisting-arsenal.json](./294847-heisting-arsenal.json) |
