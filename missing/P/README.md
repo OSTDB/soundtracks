@@ -7079,6 +7079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piranha | 92881 | [92881-piranha.json](./92881-piranha.json) |
 | Piranha Feeding | 291836 | [291836-piranha-feeding.json](./291836-piranha-feeding.json) |
 | Piranha Panic | 114750 | [114750-piranha-panic.json](./114750-piranha-panic.json) |
+| Piranha Pop | 396966 | [396966-piranha-pop.json](./396966-piranha-pop.json) |
 | Piranha-kun no Isshuukan | 85786 | [85786-piranha-kun-no-isshuukan.json](./85786-piranha-kun-no-isshuukan.json) |
 | Pirap Ilji: Geu Namjarobuteoui Talchul | 208655 | [208655-pirap-ilji-geu-namjarobuteoui-talchul.json](./208655-pirap-ilji-geu-namjarobuteoui-talchul.json) |
 | Pirarucu's Money Rush | 301023 | [301023-pirarucus-money-rush.json](./301023-pirarucus-money-rush.json) |
@@ -11040,6 +11041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poket Legion | 371283 | [371283-poket-legion.json](./371283-poket-legion.json) |
 | Poketale | 309973 | [309973-poketale.json](./309973-poketale.json) |
 | Poketan | 70064 | [70064-poketan.json](./70064-poketan.json) |
+| Pokete | 396974 | [396974-pokete.json](./396974-pokete.json) |
 | Poketibia | 356024 | [356024-poketibia.json](./356024-poketibia.json) |
 | PokéTouch | 61973 | [61973-poketouch.json](./61973-poketouch.json) |
 | Poketppangeul Sumgyeotda | 208742 | [208742-poketppangeul-sumgyeotda.json](./208742-poketppangeul-sumgyeotda.json) |
