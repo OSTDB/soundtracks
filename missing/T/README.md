@@ -8179,6 +8179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Duel: Reloaded | 124668 | [124668-the-duel-reloaded.json](./124668-the-duel-reloaded.json) |
 | The Duel: Test Drive II | 2201 | [2201-the-duel-test-drive-ii.json](./2201-the-duel-test-drive-ii.json) |
 | The Duelist: Sanaculus | 233703 | [233703-the-duelist-sanaculus.json](./233703-the-duelist-sanaculus.json) |
+| The Duke | 383083 | [383083-the-duke.json](./383083-the-duke.json) |
 | The Duke is Dead | 409334 | [409334-the-duke-is-dead.json](./409334-the-duke-is-dead.json) |
 | The Dukes of Hazzard | 122629 | [122629-the-dukes-of-hazzard.json](./122629-the-dukes-of-hazzard.json) |
 | The Dukes of Hazzard | 14042 | [14042-the-dukes-of-hazzard.json](./14042-the-dukes-of-hazzard.json) |
@@ -9368,6 +9369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Furry Protocol | 406860 | [406860-the-furry-protocol.json](./406860-the-furry-protocol.json) |
 | The Fury | 58632 | [58632-the-fury.json](./58632-the-fury.json) |
 | The Futanati | 236481 | [236481-the-futanati.json](./236481-the-futanati.json) |
+| The Future | 382807 | [382807-the-future.json](./382807-the-future.json) |
 | The Future Devil Must Work! Debt Repayment Arc | 82916 | [82916-the-future-devil-must-work-debt-repayment-arc.json](./82916-the-future-devil-must-work-debt-repayment-arc.json) |
 | The Future Ends | 226598 | [226598-the-future-ends.json](./226598-the-future-ends.json) |
 | The future I want for games | 184187 | [184187-the-future-i-want-for-games.json](./184187-the-future-i-want-for-games.json) |
@@ -13382,6 +13384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Museum Of Mr. Pence | 377934 | [377934-the-museum-of-mr-pence.json](./377934-the-museum-of-mr-pence.json) |
 | The Museum of Opportunity | 364015 | [364015-the-museum-of-opportunity.json](./364015-the-museum-of-opportunity.json) |
 | The Museum Sentinel | 355100 | [355100-the-museum-sentinel.json](./355100-the-museum-sentinel.json) |
+| The Mushroom Journal | 382942 | [382942-the-mushroom-journal.json](./382942-the-mushroom-journal.json) |
 | The Mushroom of Shadow | 340277 | [340277-the-mushroom-of-shadow.json](./340277-the-mushroom-of-shadow.json) |
 | The Mushroom Season | 215228 | [215228-the-mushroom-season.json](./215228-the-mushroom-season.json) |
 | The Mushrooms' Happy New Year | 396193 | [396193-the-mushrooms-happy-new-year.json](./396193-the-mushrooms-happy-new-year.json) |
@@ -14770,6 +14773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Remainder: The Complete Edition | 159596 | [159596-the-remainder-the-complete-edition.json](./159596-the-remainder-the-complete-edition.json) |
 | The Remainer | 366998 | [366998-the-remainer.json](./366998-the-remainer.json) |
 | The Remains and The Residue | 387618 | [387618-the-remains-and-the-residue.json](./387618-the-remains-and-the-residue.json) |
+| The Remains of Dahlia | 382947 | [382947-the-remains-of-dahlia.json](./382947-the-remains-of-dahlia.json) |
 | The Remains of El Dorado | 184570 | [184570-the-remains-of-el-dorado.json](./184570-the-remains-of-el-dorado.json) |
 | The Remains of Richard Fleming | 280701 | [280701-the-remains-of-richard-fleming.json](./280701-the-remains-of-richard-fleming.json) |
 | The Remains: Chapter 1 | 199759 | [199759-the-remains-chapter-1.json](./199759-the-remains-chapter-1.json) |
@@ -15493,6 +15497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shaft | 278907 | [278907-the-shaft.json](./278907-the-shaft.json) |
 | The Shafts of Damnation | 345016 | [345016-the-shafts-of-damnation.json](./345016-the-shafts-of-damnation.json) |
 | The Shaking Chalice | 337979 | [337979-the-shaking-chalice.json](./337979-the-shaking-chalice.json) |
+| The Shaman Diary | 382934 | [382934-the-shaman-diary.json](./382934-the-shaman-diary.json) |
 | The Shaman's Ark | 258119 | [258119-the-shamans-ark.json](./258119-the-shamans-ark.json) |
 | The Shame of a Daydreamer | 349394 | [349394-the-shame-of-a-daydreamer.json](./349394-the-shame-of-a-daydreamer.json) |
 | The Shape of Happiness | 274144 | [274144-the-shape-of-happiness.json](./274144-the-shape-of-happiness.json) |
@@ -31407,6 +31412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Detective | 301488 | [301488-twisted-detective.json](./301488-twisted-detective.json) |
 | Twisted Draw | 199649 | [199649-twisted-draw.json](./199649-twisted-draw.json) |
 | Twisted Edge Extreme Snowboarding | 3622 | [3622-twisted-edge-extreme-snowboarding.json](./3622-twisted-edge-extreme-snowboarding.json) |
+| Twisted Fate | 382728 | [382728-twisted-fate.json](./382728-twisted-fate.json) |
 | Twisted Insurrection | 219009 | [219009-twisted-insurrection.json](./219009-twisted-insurrection.json) |
 | Twisted Jam | 329238 | [329238-twisted-jam.json](./329238-twisted-jam.json) |
 | Twisted Joke | 273548 | [273548-twisted-joke.json](./273548-twisted-joke.json) |
