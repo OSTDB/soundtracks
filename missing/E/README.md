@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo: The Oracle's Scroll | 319196 | [319196-echo-the-oracles-scroll.json](./319196-echo-the-oracles-scroll.json) |
 | Echo's Climb | 203942 | [203942-echos-climb.json](./203942-echos-climb.json) |
 | Echo's Esker | 132405 | [132405-echos-esker.json](./132405-echos-esker.json) |
+| Echo's Inc | 386312 | [386312-echos-inc.json](./386312-echos-inc.json) |
 | EchoBlade | 166752 | [166752-echoblade.json](./166752-echoblade.json) |
 | Echocalypse: Scarlet Covenant | 208198 | [208198-echocalypse-scarlet-covenant.json](./208198-echocalypse-scarlet-covenant.json) |
 | EchoChamber: Not Welcome | 390689 | [390689-echochamber-not-welcome.json](./390689-echochamber-not-welcome.json) |
@@ -2182,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Cube | 308317 | [308317-elemental-cube.json](./308317-elemental-cube.json) |
 | Elemental Defender | 339733 | [339733-elemental-defender.json](./339733-elemental-defender.json) |
 | Elemental Dreams | 277187 | [277187-elemental-dreams.json](./277187-elemental-dreams.json) |
+| Elemental Drifters | 386060 | [386060-elemental-drifters.json](./386060-elemental-drifters.json) |
 | Elemental Empire | 297816 | [297816-elemental-empire.json](./297816-elemental-empire.json) |
 | Elemental Escape | 264729 | [264729-elemental-escape.json](./264729-elemental-escape.json) |
 | Elemental Exiles | 295812 | [295812-elemental-exiles.json](./295812-elemental-exiles.json) |
@@ -4365,6 +4367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epidemic | 20299 | [20299-epidemic.json](./20299-epidemic.json) |
 | Epidemic Escape: A Race for the Cure | 250989 | [250989-epidemic-escape-a-race-for-the-cure.json](./250989-epidemic-escape-a-race-for-the-cure.json) |
 | Epidemic! | 23496 | [23496-epidemic.json](./23496-epidemic.json) |
+| Epidémie | 386313 | [386313-epidemie.json](./386313-epidemie.json) |
 | Epidemyc | 190944 | [190944-epidemyc.json](./190944-epidemyc.json) |
 | EpiDexa Racing | 390864 | [390864-epidexa-racing.json](./390864-epidexa-racing.json) |
 | Epido | 127947 | [127947-epido.json](./127947-epido.json) |
