@@ -8603,6 +8603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowstery of a Growing Aurora | 296980 | [296980-meowstery-of-a-growing-aurora.json](./296980-meowstery-of-a-growing-aurora.json) |
 | Meowstery Wisp | 383067 | [383067-meowstery-wisp.json](./383067-meowstery-wisp.json) |
 | Meowstoria | 355579 | [355579-meowstoria.json](./355579-meowstoria.json) |
+| Meowtabolism: Examining Feline Behavior Within Unicellular Algae | 390879 | [390879-meowtabolism-examining-feline-behavior-within-unicellular-algae.json](./390879-meowtabolism-examining-feline-behavior-within-unicellular-algae.json) |
 | Meowter Space | 239607 | [239607-meowter-space.json](./239607-meowter-space.json) |
 | Meowth's Party | 255838 | [255838-meowths-party.json](./255838-meowths-party.json) |
 | MeowWare | 344511 | [344511-meowware.json](./344511-meowware.json) |
@@ -16667,6 +16668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT + Urban Flow + Train Traffic Manager | 284871 | [284871-moto-rush-gt-urban-flow-train-traffic-manager.json](./284871-moto-rush-gt-urban-flow-train-traffic-manager.json) |
 | Moto Rush GT Asphalt Fury | 378968 | [378968-moto-rush-gt-asphalt-fury.json](./378968-moto-rush-gt-asphalt-fury.json) |
 | Moto Rush GT City Adrenaline | 385169 | [385169-moto-rush-gt-city-adrenaline.json](./385169-moto-rush-gt-city-adrenaline.json) |
+| Moto Rush GT Hero's Edition | 390907 | [390907-moto-rush-gt-heros-edition.json](./390907-moto-rush-gt-heros-edition.json) |
 | Moto Rush GT Night Chase | 385170 | [385170-moto-rush-gt-night-chase.json](./385170-moto-rush-gt-night-chase.json) |
 | Moto Rush GT: Add-on Edition | 404282 | [404282-moto-rush-gt-add-on-edition.json](./404282-moto-rush-gt-add-on-edition.json) |
 | Moto Rush GT: Advanced Edition | 315871 | [315871-moto-rush-gt-advanced-edition.json](./315871-moto-rush-gt-advanced-edition.json) |
@@ -20612,6 +20614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery: New York | 146584 | [146584-mystery-new-york.json](./146584-mystery-new-york.json) |
 | Mystery: Paris | 146614 | [146614-mystery-paris.json](./146614-mystery-paris.json) |
 | MysteryHouse-fivestones- | 107778 | [107778-mysteryhouse-fivestones.json](./107778-mysteryhouse-fivestones.json) |
+| MysteryJars | 390883 | [390883-mysteryjars.json](./390883-mysteryjars.json) |
 | MysteryOS | 397398 | [397398-mysteryos.json](./397398-mysteryos.json) |
 | MysteryScrolls | 319193 | [319193-mysteryscrolls.json](./319193-mysteryscrolls.json) |
 | Mysterytale Online | 374974 | [374974-mysterytale-online.json](./374974-mysterytale-online.json) |
@@ -20773,6 +20776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth Makers: Orbs of Doom | 5041 | [5041-myth-makers-orbs-of-doom.json](./5041-myth-makers-orbs-of-doom.json) |
 | Myth Makers: Trixie in Toyland | 5044 | [5044-myth-makers-trixie-in-toyland.json](./5044-myth-makers-trixie-in-toyland.json) |
 | Myth Match | 122267 | [122267-myth-match.json](./122267-myth-match.json) |
+| Myth Monkey Card | 390860 | [390860-myth-monkey-card.json](./390860-myth-monkey-card.json) |
 | Myth of Ambition | 114139 | [114139-myth-of-ambition.json](./114139-myth-of-ambition.json) |
 | Myth of Empires | 143628 | [143628-myth-of-empires.json](./143628-myth-of-empires.json) |
 | Myth of Empires: Dongzhou Map | 297155 | [297155-myth-of-empires-dongzhou-map.json](./297155-myth-of-empires-dongzhou-map.json) |
@@ -20799,6 +20803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth: The Fallen Lords | 800 | [800-myth-the-fallen-lords.json](./800-myth-the-fallen-lords.json) |
 | Myth: Twice Born Edition | 341124 | [341124-myth-twice-born-edition.json](./341124-myth-twice-born-edition.json) |
 | Mythargia | 216993 | [216993-mythargia.json](./216993-mythargia.json) |
+| MythBeasts | 390869 | [390869-mythbeasts.json](./390869-mythbeasts.json) |
 | Mythborne | 23642 | [23642-mythborne.json](./23642-mythborne.json) |
 | MythBusters: The First Experiment | 199095 | [199095-mythbusters-the-first-experiment.json](./199095-mythbusters-the-first-experiment.json) |
 | MythBusters: The Game | 118232 | [118232-mythbusters-the-game.json](./118232-mythbusters-the-game.json) |
