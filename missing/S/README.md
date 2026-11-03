@@ -18386,6 +18386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dream | 41962 | [41962-space-dream.json](./41962-space-dream.json) |
 | Space Drifters 2D | 35036 | [35036-space-drifters-2d.json](./35036-space-drifters-2d.json) |
 | Space Drilling Station | 250028 | [250028-space-drilling-station.json](./250028-space-drilling-station.json) |
+| Space Drone | 379311 | [379311-space-drone.json](./379311-space-drone.json) |
 | Space Drop | 290505 | [290505-space-drop.json](./290505-space-drop.json) |
 | Space Drop | 99773 | [99773-space-drop.json](./99773-space-drop.json) |
 | Space Duck: Escape | 330764 | [330764-space-duck-escape.json](./330764-space-duck-escape.json) |
@@ -18591,6 +18592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21620,6 +21622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sporty Games | 188899 | [188899-sporty-games.json](./188899-sporty-games.json) |
 | Spot | 119584 | [119584-spot.json](./119584-spot.json) |
 | Spot and His Friends | 208768 | [208768-spot-and-his-friends.json](./208768-spot-and-his-friends.json) |
+| Spot Challenge 3D | 379310 | [379310-spot-challenge-3d.json](./379310-spot-challenge-3d.json) |
 | Spot Challenge Vol. 1 | 331912 | [331912-spot-challenge-vol-1.json](./331912-spot-challenge-vol-1.json) |
 | Spot Challenge Vol. 2 | 331921 | [331921-spot-challenge-vol-2.json](./331921-spot-challenge-vol-2.json) |
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
@@ -21660,6 +21663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot: The Video Game | 339277 | [339277-spot-the-video-game.json](./339277-spot-the-video-game.json) |
 | Spot: The Video Game | 48075 | [48075-spot-the-video-game.json](./48075-spot-the-video-game.json) |
 | SpotCat vs. The Cheddar Mafia Back To Past | 388198 | [388198-spotcat-vs-the-cheddar-mafia-back-to-past.json](./388198-spotcat-vs-the-cheddar-mafia-back-to-past.json) |
+| SpotCat vs. The Cheddar Mafia In Asia | 379318 | [379318-spotcat-vs-the-cheddar-mafia-in-asia.json](./379318-spotcat-vs-the-cheddar-mafia-in-asia.json) |
 | SpotCat vs. The Cheddar Mafia In Europe | 388199 | [388199-spotcat-vs-the-cheddar-mafia-in-europe.json](./388199-spotcat-vs-the-cheddar-mafia-in-europe.json) |
 | SpotCat vs. The Cheddar Mafia In The Americas | 385079 | [385079-spotcat-vs-the-cheddar-mafia-in-the-americas.json](./385079-spotcat-vs-the-cheddar-mafia-in-the-americas.json) |
 | Spotfight | 216877 | [216877-spotfight.json](./216877-spotfight.json) |
@@ -27503,6 +27507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subject | 131341 | [131341-subject.json](./131341-subject.json) |
 | Subject 26 | 178497 | [178497-subject-26.json](./178497-subject-26.json) |
 | Subject 264 | 30959 | [30959-subject-264.json](./30959-subject-264.json) |
+| Subject 33 | 379313 | [379313-subject-33.json](./379313-subject-33.json) |
 | Subject 65 | 222752 | [222752-subject-65.json](./222752-subject-65.json) |
 | Subject 9 | 17332 | [17332-subject-9.json](./17332-subject-9.json) |
 | Subject: Dinha | 413857 | [413857-subject-dinha.json](./413857-subject-dinha.json) |
@@ -31554,6 +31559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tetris | 46116 | [46116-super-tetris.json](./46116-super-tetris.json) |
 | Super Tetris 2 + BomBliss: Gentei-ban | 236679 | [236679-super-tetris-2-bombliss-gentei-ban.json](./236679-super-tetris-2-bombliss-gentei-ban.json) |
 | Super Tetris 3 | 42531 | [42531-super-tetris-3.json](./42531-super-tetris-3.json) |
+| Super Thanksgiving | 379306 | [379306-super-thanksgiving.json](./379306-super-thanksgiving.json) |
 | Super Thor Quest | 134332 | [134332-super-thor-quest.json](./134332-super-thor-quest.json) |
 | Super Thrustforce: Orbital Meat Police | 132412 | [132412-super-thrustforce-orbital-meat-police.json](./132412-super-thrustforce-orbital-meat-police.json) |
 | Super Thunder Blade | 4471 | [4471-super-thunder-blade.json](./4471-super-thunder-blade.json) |
@@ -33267,6 +33273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Spring Festival | 339441 | [339441-sweet-spring-festival.json](./339441-sweet-spring-festival.json) |
 | Sweet Starlight Sisters | 378897 | [378897-sweet-starlight-sisters.json](./378897-sweet-starlight-sisters.json) |
 | Sweet Starlight Sisters: Full Production Limited Edition | 395334 | [395334-sweet-starlight-sisters-full-production-limited-edition.json](./395334-sweet-starlight-sisters-full-production-limited-edition.json) |
+| Sweet Story Bunny Club | 379321 | [379321-sweet-story-bunny-club.json](./379321-sweet-story-bunny-club.json) |
 | Sweet Story Neko | 371441 | [371441-sweet-story-neko.json](./371441-sweet-story-neko.json) |
 | Sweet Story Wet-Bottom Pie | 369675 | [369675-sweet-story-wet-bottom-pie.json](./369675-sweet-story-wet-bottom-pie.json) |
 | Sweet Succubus | 379532 | [379532-sweet-succubus.json](./379532-sweet-succubus.json) |
