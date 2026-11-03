@@ -9033,6 +9033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lug's Delightful Dioramas PC | 378296 | [378296-lugs-delightful-dioramas-pc.json](./378296-lugs-delightful-dioramas-pc.json) |
 | Lug's Tiny Torture | 300268 | [300268-lugs-tiny-torture.json](./300268-lugs-tiny-torture.json) |
 | Lug's Tiny Torture Lite | 300269 | [300269-lugs-tiny-torture-lite.json](./300269-lugs-tiny-torture-lite.json) |
+| Lugal: Bronze Age Survival Game | 374549 | [374549-lugal-bronze-age-survival-game.json](./374549-lugal-bronze-age-survival-game.json) |
 | LuGame: Lunchtime Games Club! | 116983 | [116983-lugame-lunchtime-games-club.json](./116983-lugame-lunchtime-games-club.json) |
 | Lugano Bay Tycoon | 422780 | [422780-lugano-bay-tycoon.json](./422780-lugano-bay-tycoon.json) |
 | Lugaru | 14940 | [14940-lugaru.json](./14940-lugaru.json) |
@@ -9608,6 +9609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lusty Chapters | 384759 | [384759-lusty-chapters.json](./384759-lusty-chapters.json) |
 | Lusty God | 238763 | [238763-lusty-god.json](./238763-lusty-god.json) |
 | LustyVerse: ShackBang | 384750 | [384750-lustyverse-shackbang.json](./384750-lustyverse-shackbang.json) |
+| Luta: Luminoria Tactics | 374538 | [374538-luta-luminoria-tactics.json](./374538-luta-luminoria-tactics.json) |
 | Lutarus | 293621 | [293621-lutarus.json](./293621-lutarus.json) |
 | Luthier | 336651 | [336651-luthier.json](./336651-luthier.json) |
 | Lutra's Monologue | 186274 | [186274-lutras-monologue.json](./186274-lutras-monologue.json) |
