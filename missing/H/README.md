@@ -1267,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handy Harry's Haunted House Services | 143508 | [143508-handy-harrys-haunted-house-services.json](./143508-handy-harrys-haunted-house-services.json) |
 | Handy Harvy | 142068 | [142068-handy-harvy.json](./142068-handy-harvy.json) |
 | Handy Helper | 373108 | [373108-handy-helper.json](./373108-handy-helper.json) |
+| Handy Hockey | 356981 | [356981-handy-hockey.json](./356981-handy-hockey.json) |
 | Handy Machines VR | 159749 | [159749-handy-machines-vr.json](./159749-handy-machines-vr.json) |
 | Handy Manny: Carnival Games | 407066 | [407066-handy-manny-carnival-games.json](./407066-handy-manny-carnival-games.json) |
 | HandyBot | 57891 | [57891-handybot.json](./57891-handybot.json) |
@@ -5053,6 +5054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Pussy 6 | 238588 | [238588-hentai-pussy-6.json](./238588-hentai-pussy-6.json) |
 | Hentai Puzzle | 100599 | [100599-hentai-puzzle.json](./100599-hentai-puzzle.json) |
 | Hentai Puzzle Classic | 111481 | [111481-hentai-puzzle-classic.json](./111481-hentai-puzzle-classic.json) |
+| Hentai Puzzle Collection 14 in 1 | 356982 | [356982-hentai-puzzle-collection-14-in-1.json](./356982-hentai-puzzle-collection-14-in-1.json) |
 | Hentai Puzzle Lamunation | 134620 | [134620-hentai-puzzle-lamunation.json](./134620-hentai-puzzle-lamunation.json) |
 | Hentai Puzzle Logic Game | 110379 | [110379-hentai-puzzle-logic-game.json](./110379-hentai-puzzle-logic-game.json) |
 | Hentai Puzzle Party | 366511 | [366511-hentai-puzzle-party.json](./366511-hentai-puzzle-party.json) |
@@ -6697,6 +6699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Adventures: Sunken Treasures | 101940 | [101940-hidden-object-adventures-sunken-treasures.json](./101940-hidden-object-adventures-sunken-treasures.json) |
 | Hidden Object Ancient Dragons | 104624 | [104624-hidden-object-ancient-dragons.json](./104624-hidden-object-ancient-dragons.json) |
 | Hidden Object Bachelorette | 102733 | [102733-hidden-object-bachelorette.json](./102733-hidden-object-bachelorette.json) |
+| Hidden Object Bundle | 356963 | [356963-hidden-object-bundle.json](./356963-hidden-object-bundle.json) |
 | Hidden Object Chronicles: Poisoned Truth - Collector's Edition | 285535 | [285535-hidden-object-chronicles-poisoned-truth-collectors-edition.json](./285535-hidden-object-chronicles-poisoned-truth-collectors-edition.json) |
 | Hidden Object Classic Adventures | 198077 | [198077-hidden-object-classic-adventures.json](./198077-hidden-object-classic-adventures.json) |
 | Hidden Object Classic Adventures 2 | 198088 | [198088-hidden-object-classic-adventures-2.json](./198088-hidden-object-classic-adventures-2.json) |
@@ -10276,6 +10279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Simulator | 212994 | [212994-hotel-simulator.json](./212994-hotel-simulator.json) |
 | Hotel Simulator | 235688 | [235688-hotel-simulator.json](./235688-hotel-simulator.json) |
 | Hotel Simulator | 259140 | [259140-hotel-simulator.json](./259140-hotel-simulator.json) |
+| Hotel Simulator | 356969 | [356969-hotel-simulator.json](./356969-hotel-simulator.json) |
 | Hotel Simulator 2024 | 307567 | [307567-hotel-simulator-2024.json](./307567-hotel-simulator-2024.json) |
 | Hotel Simulator 2026 | 386191 | [386191-hotel-simulator-2026.json](./386191-hotel-simulator-2026.json) |
 | Hotel Simulator 2026 | 390536 | [390536-hotel-simulator-2026.json](./390536-hotel-simulator-2026.json) |
