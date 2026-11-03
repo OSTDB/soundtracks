@@ -4973,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Online | 58607 | [58607-ninja-online.json](./58607-ninja-online.json) |
 | Ninja or Die 2 Die | 402677 | [402677-ninja-or-die-2-die.json](./402677-ninja-or-die-2-die.json) |
 | Ninja or Die: Shadow of the Sun | 204717 | [204717-ninja-or-die-shadow-of-the-sun.json](./204717-ninja-or-die-shadow-of-the-sun.json) |
+| Ninja Ordinance | 360282 | [360282-ninja-ordinance.json](./360282-ninja-ordinance.json) |
 | Ninja Otedama R | 240729 | [240729-ninja-otedama-r.json](./240729-ninja-otedama-r.json) |
 | Ninja Pac Man | 66382 | [66382-ninja-pac-man.json](./66382-ninja-pac-man.json) |
 | Ninja Painter 2 | 238965 | [238965-ninja-painter-2.json](./238965-ninja-painter-2.json) |
@@ -6602,6 +6603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Anyone's Business but My Own | 240100 | [240100-not-anyones-business-but-my-own.json](./240100-not-anyones-business-but-my-own.json) |
 | Not Born to be King | 231842 | [231842-not-born-to-be-king.json](./231842-not-born-to-be-king.json) |
 | Not Burned Evil | 276977 | [276977-not-burned-evil.json](./276977-not-burned-evil.json) |
+| Not Chess | 360284 | [360284-not-chess.json](./360284-not-chess.json) |
 | Not Dead Yet | 143500 | [143500-not-dead-yet.json](./143500-not-dead-yet.json) |
 | Not Dying Today | 29995 | [29995-not-dying-today.json](./29995-not-dying-today.json) |
 | Not Enough Souls | 179567 | [179567-not-enough-souls.json](./179567-not-enough-souls.json) |
@@ -6665,6 +6667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not so Simple Sonic Advance 2 Worlds | 294405 | [294405-not-so-simple-sonic-advance-2-worlds.json](./294405-not-so-simple-sonic-advance-2-worlds.json) |
 | Not Sonic Flash | 330525 | [330525-not-sonic-flash.json](./330525-not-sonic-flash.json) |
 | Not Spooky: But Good Enough For Me | 197117 | [197117-not-spooky-but-good-enough-for-me.json](./197117-not-spooky-but-good-enough-for-me.json) |
+| Not Sure About That | 360292 | [360292-not-sure-about-that.json](./360292-not-sure-about-that.json) |
 | Not Survivors | 374556 | [374556-not-survivors.json](./374556-not-survivors.json) |
 | Not Tetris 2 | 8727 | [8727-not-tetris-2.json](./8727-not-tetris-2.json) |
 | Not the End | 373816 | [373816-not-the-end.json](./373816-not-the-end.json) |
@@ -6766,6 +6769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noumisou Journey | 274557 | [274557-noumisou-journey.json](./274557-noumisou-journey.json) |
 | Noun Town Language Learning | 168611 | [168611-noun-town-language-learning.json](./168611-noun-town-language-learning.json) |
 | Noun Town: Learn & Chill | 408986 | [408986-noun-town-learn-and-chill.json](./408986-noun-town-learn-and-chill.json) |
+| Nounai Este IQ Sapuri DS | 360305 | [360305-nounai-este-iq-sapuri-ds.json](./360305-nounai-este-iq-sapuri-ds.json) |
 | Nounishpunk | 264649 | [264649-nounishpunk.json](./264649-nounishpunk.json) |
 | Nouns Crown | 302040 | [302040-nouns-crown.json](./302040-nouns-crown.json) |
 | Nour: Play with Your Food | 138619 | [138619-nour-play-with-your-food.json](./138619-nour-play-with-your-food.json) |
