@@ -2339,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Music | 329588 | [329588-elevator-music.json](./329588-elevator-music.json) |
 | Elevator Orator | 178971 | [178971-elevator-orator.json](./178971-elevator-orator.json) |
 | Elevator Ritual | 89611 | [89611-elevator-ritual.json](./89611-elevator-ritual.json) |
+| Elevator Simulator 3D | 394310 | [394310-elevator-simulator-3d.json](./394310-elevator-simulator-3d.json) |
 | Elevator: Source | 381322 | [381322-elevator-source.json](./381322-elevator-source.json) |
 | Elevator... to the Moon! | 69457 | [69457-elevator-to-the-moon.json](./69457-elevator-to-the-moon.json) |
 | Elevator...to the Moon!: Turbo Champion's Edition | 115468 | [115468-elevator-to-the-moon-turbo-champions-edition.json](./115468-elevator-to-the-moon-turbo-champions-edition.json) |
