@@ -3132,6 +3132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrenaline High | 379562 | [379562-adrenaline-high.json](./379562-adrenaline-high.json) |
 | Adrenaline Injection | 316452 | [316452-adrenaline-injection.json](./316452-adrenaline-injection.json) |
 | Adrenaline or Die | 379563 | [379563-adrenaline-or-die.json](./379563-adrenaline-or-die.json) |
+| Adrenaline Overdrive | 358568 | [358568-adrenaline-overdrive.json](./358568-adrenaline-overdrive.json) |
 | Adrenaline Overload Bundle | 396439 | [396439-adrenaline-overload-bundle.json](./396439-adrenaline-overload-bundle.json) |
 | Adrenaline Rampage | 273848 | [273848-adrenaline-rampage.json](./273848-adrenaline-rampage.json) |
 | Adrenaline Rush 4‑Pack | 396438 | [396438-adrenaline-rush-4-pack.json](./396438-adrenaline-rush-4-pack.json) |
@@ -3386,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure II | 40783 | [40783-adventure-ii.json](./40783-adventure-ii.json) |
 | Adventure in a Mysterious Island | 381768 | [381768-adventure-in-a-mysterious-island.json](./381768-adventure-in-a-mysterious-island.json) |
 | Adventure In Aellion | 117691 | [117691-adventure-in-aellion.json](./117691-adventure-in-aellion.json) |
+| Adventure in Hender´s Castle | 358581 | [358581-adventure-in-hender-s-castle.json](./358581-adventure-in-hender-s-castle.json) |
 | Adventure in Kana Village | 101314 | [101314-adventure-in-kana-village.json](./101314-adventure-in-kana-village.json) |
 | Adventure in King Caries Land | 117044 | [117044-adventure-in-king-caries-land.json](./117044-adventure-in-king-caries-land.json) |
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
@@ -4656,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ages of Conflict: World War Simulator | 223829 | [223829-ages-of-conflict-world-war-simulator.json](./223829-ages-of-conflict-world-war-simulator.json) |
 | Ages of Mages: The Last Keeper | 98755 | [98755-ages-of-mages-the-last-keeper.json](./98755-ages-of-mages-the-last-keeper.json) |
 | Aggelos | 103517 | [103517-aggelos.json](./103517-aggelos.json) |
+| Aggelos 2 | 358583 | [358583-aggelos-2.json](./358583-aggelos-2.json) |
 | Aggi's Tiny Friends | 344343 | [344343-aggis-tiny-friends.json](./344343-aggis-tiny-friends.json) |
 | Aggie’s Digital Gallery | 333980 | [333980-aggie-s-digital-gallery.json](./333980-aggie-s-digital-gallery.json) |
 | Aggregate Core | 251965 | [251965-aggregate-core.json](./251965-aggregate-core.json) |
@@ -11068,6 +11071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Survivor | 366291 | [366291-apocalypse-survivor.json](./366291-apocalypse-survivor.json) |
 | Apocalypse Tale | 351766 | [351766-apocalypse-tale.json](./351766-apocalypse-tale.json) |
 | Apocalypse Traffic | 245260 | [245260-apocalypse-traffic.json](./245260-apocalypse-traffic.json) |
+| Apocalypse Truck Simulator | 358603 | [358603-apocalypse-truck-simulator.json](./358603-apocalypse-truck-simulator.json) |
 | Apocalypse Z: Survival | 129803 | [129803-apocalypse-z-survival.json](./129803-apocalypse-z-survival.json) |
 | Apocalypse Zombie Race | 98367 | [98367-apocalypse-zombie-race.json](./98367-apocalypse-zombie-race.json) |
 | Apocalypse Zombie TD | 345375 | [345375-apocalypse-zombie-td.json](./345375-apocalypse-zombie-td.json) |
