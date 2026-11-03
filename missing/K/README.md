@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karim and the 60 Thieves | 348905 | [348905-karim-and-the-60-thieves.json](./348905-karim-and-the-60-thieves.json) |
 | Karin's Instruction | 292757 | [292757-karins-instruction.json](./292757-karins-instruction.json) |
 | Karjala | 303606 | [303606-karjala.json](./303606-karjala.json) |
+| Karkaba | 395074 | [395074-karkaba.json](./395074-karkaba.json) |
 | Karl Boom | 126519 | [126519-karl-boom.json](./126519-karl-boom.json) |
 | Karl Marx and the Ring of Communism | 217367 | [217367-karl-marx-and-the-ring-of-communism.json](./217367-karl-marx-and-the-ring-of-communism.json) |
 | Karl Quappe | 117298 | [117298-karl-quappe.json](./117298-karl-quappe.json) |
@@ -6063,6 +6064,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyokkou no Marriage | 317099 | [317099-kyokkou-no-marriage.json](./317099-kyokkou-no-marriage.json) |
 | Kyokkou no Marriage: Episode Lia | 317100 | [317100-kyokkou-no-marriage-episode-lia.json](./317100-kyokkou-no-marriage-episode-lia.json) |
 | Kyokon Tensei: Onna Dake no Isekai de Himekishi-tachi o Tanetsuke Shihai! Subete no Min ga Niku Onaho Desu. Harami Ana ni Seishi-sama Omegumi Kudasai♪ | 59019 | [59019-kyokon-tensei-onna-dake-no-isekai-de-himekishi-tachi-o-tanetsuke-shihai-subete-no-min-ga-niku-onaho-desu-harami-ana-ni-seishi-sama-omegumi-kudasai.json](./59019-kyokon-tensei-onna-dake-no-isekai-de-himekishi-tachi-o-tanetsuke-shihai-subete-no-min-ga-niku-onaho-desu-harami-ana-ni-seishi-sama-omegumi-kudasai.json) |
+| Kyokou Eiyuu GinGaia Final | 395058 | [395058-kyokou-eiyuu-gingaia-final.json](./395058-kyokou-eiyuu-gingaia-final.json) |
+| Kyokou Eiyuu GinGaia Vol.1 | 395054 | [395054-kyokou-eiyuu-gingaia-vol-1.json](./395054-kyokou-eiyuu-gingaia-vol-1.json) |
+| Kyokou Eiyuu GinGaia Vol.2 | 395055 | [395055-kyokou-eiyuu-gingaia-vol-2.json](./395055-kyokou-eiyuu-gingaia-vol-2.json) |
+| Kyokou Eiyuu GinGaia Vol.3 | 395056 | [395056-kyokou-eiyuu-gingaia-vol-3.json](./395056-kyokou-eiyuu-gingaia-vol-3.json) |
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
 | Kyokujitsu ni Kokoro Arawasu | 153685 | [153685-kyokujitsu-ni-kokoro-arawasu.json](./153685-kyokujitsu-ni-kokoro-arawasu.json) |
 | Kyomu | 166420 | [166420-kyomu.json](./166420-kyomu.json) |
