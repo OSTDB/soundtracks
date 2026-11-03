@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RadiusBlood Crypta | 421429 | [421429-radiusblood-crypta.json](./421429-radiusblood-crypta.json) |
 | Radix | 221658 | [221658-radix.json](./221658-radix.json) |
 | Radix Chronicle | 251779 | [251779-radix-chronicle.json](./251779-radix-chronicle.json) |
+| Radix Tale | 367684 | [367684-radix-tale.json](./367684-radix-tale.json) |
 | Radley Ravencroft's Spy Web Mystery | 343287 | [343287-radley-ravencrofts-spy-web-mystery.json](./343287-radley-ravencrofts-spy-web-mystery.json) |
 | Radon Blast | 144717 | [144717-radon-blast.json](./144717-radon-blast.json) |
 | Radon Blast 2 | 415722 | [415722-radon-blast-2.json](./415722-radon-blast-2.json) |
@@ -3117,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of the Forgotten | 337776 | [337776-realms-of-the-forgotten.json](./337776-realms-of-the-forgotten.json) |
 | Realms of the Haunting | 844 | [844-realms-of-the-haunting.json](./844-realms-of-the-haunting.json) |
 | Realms of Wilorth | 250871 | [250871-realms-of-wilorth.json](./250871-realms-of-wilorth.json) |
+| Realms Road | 367673 | [367673-realms-road.json](./367673-realms-road.json) |
 | Realms VR | 164241 | [164241-realms-vr.json](./164241-realms-vr.json) |
 | RealmScape | 341305 | [341305-realmscape.json](./341305-realmscape.json) |
 | Realmstone | 118980 | [118980-realmstone.json](./118980-realmstone.json) |
@@ -8189,6 +8191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Trip: Family Fun | 105704 | [105704-road-trip-family-fun.json](./105704-road-trip-family-fun.json) |
 | Road Trip: Shifting Gears | 49251 | [49251-road-trip-shifting-gears.json](./49251-road-trip-shifting-gears.json) |
 | Road Tripper | 150776 | [150776-road-tripper.json](./150776-road-tripper.json) |
+| Road Trucker | 367657 | [367657-road-trucker.json](./367657-road-trucker.json) |
 | Road Turbo | 371830 | [371830-road-turbo.json](./371830-road-turbo.json) |
 | Road Warrior | 223974 | [223974-road-warrior.json](./223974-road-warrior.json) |
 | Road Warrior | 364536 | [364536-road-warrior.json](./364536-road-warrior.json) |
