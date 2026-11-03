@@ -2254,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbecue | 408222 | [408222-barbecue.json](./408222-barbecue.json) |
 | Barbecue With Friends | 319670 | [319670-barbecue-with-friends.json](./319670-barbecue-with-friends.json) |
 | Barbelé | 236873 | [236873-barbele.json](./236873-barbele.json) |
+| Barber Shop Simulator | 373770 | [373770-barber-shop-simulator.json](./373770-barber-shop-simulator.json) |
 | Barbero | 186556 | [186556-barbero.json](./186556-barbero.json) |
 | Barbershop Simulator | 220351 | [220351-barbershop-simulator.json](./220351-barbershop-simulator.json) |
 | Barbican Of Hell | 271796 | [271796-barbican-of-hell.json](./271796-barbican-of-hell.json) |
@@ -5851,6 +5852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beholgar: Collector's Edition | 228739 | [228739-beholgar-collectors-edition.json](./228739-beholgar-collectors-edition.json) |
 | BeHop Ranger And The Spicy Wizards | 299847 | [299847-behop-ranger-and-the-spicy-wizards.json](./299847-behop-ranger-and-the-spicy-wizards.json) |
 | Bèi Chóng Niáng Fǔyùzhe Fánzhí Hòudài | 115960 | [115960-bei-chong-niang-fuyuzhe-fanzhi-houdai.json](./115960-bei-chong-niang-fuyuzhe-fanzhi-houdai.json) |
+| Beihai 2010 | 373776 | [373776-beihai-2010.json](./373776-beihai-2010.json) |
 | Beijing 2008 | 6910 | [6910-beijing-2008.json](./6910-beijing-2008.json) |
 | BeiJing Courier Simulator | 118413 | [118413-beijing-courier-simulator.json](./118413-beijing-courier-simulator.json) |
 | Being | 92419 | [92419-being.json](./92419-being.json) |
