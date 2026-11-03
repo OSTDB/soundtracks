@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Dog, Good Nights | 393851 | [393851-bad-dog-good-nights.json](./393851-bad-dog-good-nights.json) |
 | Bad Dog, Good Time | 393805 | [393805-bad-dog-good-time.json](./393805-bad-dog-good-time.json) |
 | Bad Dream | 329075 | [329075-bad-dream.json](./329075-bad-dream.json) |
+| Bad Dream | 391431 | [391431-bad-dream.json](./391431-bad-dream.json) |
 | Bad Dream: Afterlife | 372663 | [372663-bad-dream-afterlife.json](./372663-bad-dream-afterlife.json) |
 | Bad Dream: Bridge | 133931 | [133931-bad-dream-bridge.json](./133931-bad-dream-bridge.json) |
 | Bad Dream: Butcher | 133925 | [133925-bad-dream-butcher.json](./133925-bad-dream-butcher.json) |
@@ -3009,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball: The Pro Game | 362396 | [362396-basketball-the-pro-game.json](./362396-basketball-the-pro-game.json) |
 | Basketballverse | 275021 | [275021-basketballverse.json](./275021-basketballverse.json) |
 | BasketBelle | 14766 | [14766-basketbelle.json](./14766-basketbelle.json) |
+| BasketBlow | 391416 | [391416-basketblow.json](./391416-basketblow.json) |
 | Basketboy's Adventure | 374422 | [374422-basketboys-adventure.json](./374422-basketboys-adventure.json) |
 | Basketbrawl | 11867 | [11867-basketbrawl.json](./11867-basketbrawl.json) |
 | Basketbrawl | 338642 | [338642-basketbrawl.json](./338642-basketbrawl.json) |
@@ -5631,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beercrush | 378590 | [378590-beercrush.json](./378590-beercrush.json) |
 | Beerd leaver | 103082 | [103082-beerd-leaver.json](./103082-beerd-leaver.json) |
 | Beerjeweled | 138036 | [138036-beerjeweled.json](./138036-beerjeweled.json) |
+| Beerland | 391433 | [391433-beerland.json](./391433-beerland.json) |
 | BeerLeague Superstar | 154916 | [154916-beerleague-superstar.json](./154916-beerleague-superstar.json) |
 | Beerman | 31904 | [31904-beerman.json](./31904-beerman.json) |
 | Beers and Boomerangs | 172469 | [172469-beers-and-boomerangs.json](./172469-beers-and-boomerangs.json) |
@@ -5787,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Light: The Extraordinary Life of Luca Comerio | 387134 | [387134-behind-the-light-the-extraordinary-life-of-luca-comerio.json](./387134-behind-the-light-the-extraordinary-life-of-luca-comerio.json) |
 | Behind the Masc | 176930 | [176930-behind-the-masc.json](./176930-behind-the-masc.json) |
 | Behind The Mask Bundle | 308578 | [308578-behind-the-mask-bundle.json](./308578-behind-the-mask-bundle.json) |
+| Behind the Masks | 391455 | [391455-behind-the-masks.json](./391455-behind-the-masks.json) |
 | Behind the Memory | 29998 | [29998-behind-the-memory.json](./29998-behind-the-memory.json) |
 | Behind the Red Dais | 252036 | [252036-behind-the-red-dais.json](./252036-behind-the-red-dais.json) |
 | Behind the Reflection | 52446 | [52446-behind-the-reflection.json](./52446-behind-the-reflection.json) |
@@ -5856,6 +5860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bel & Poppy | 184979 | [184979-bel-and-poppy.json](./184979-bel-and-poppy.json) |
 | Bel's Fanfare | 385696 | [385696-bels-fanfare.json](./385696-bels-fanfare.json) |
 | Bela Kovacs and the Trail of Blood | 299758 | [299758-bela-kovacs-and-the-trail-of-blood.json](./299758-bela-kovacs-and-the-trail-of-blood.json) |
+| Belegost | 391449 | [391449-belegost.json](./391449-belegost.json) |
 | Belial | 14295 | [14295-belial.json](./14295-belial.json) |
 | Belial Red | 236211 | [236211-belial-red.json](./236211-belial-red.json) |
 | Belial Wars | 234351 | [234351-belial-wars.json](./234351-belial-wars.json) |
@@ -10393,6 +10398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Engine | 284013 | [284013-blood-engine.json](./284013-blood-engine.json) |
 | Blood Exile | 226106 | [226106-blood-exile.json](./226106-blood-exile.json) |
 | Blood Expedition | 384638 | [384638-blood-expedition.json](./384638-blood-expedition.json) |
+| Blood Facsimile | 391413 | [391413-blood-facsimile.json](./391413-blood-facsimile.json) |
 | Blood Feed | 29879 | [29879-blood-feed.json](./29879-blood-feed.json) |
 | Blood Field | 153932 | [153932-blood-field.json](./153932-blood-field.json) |
 | Blood Fighter Round Battle | 417707 | [417707-blood-fighter-round-battle.json](./417707-blood-fighter-round-battle.json) |
