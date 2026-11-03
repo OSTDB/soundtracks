@@ -1745,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Most Wanted | 248205 | [248205-need-for-speed-most-wanted.json](./248205-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted | 248206 | [248206-need-for-speed-most-wanted.json](./248206-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted - Black Edition | 43492 | [43492-need-for-speed-most-wanted-black-edition.json](./43492-need-for-speed-most-wanted-black-edition.json) |
+| Need for Speed: Most Wanted - Pepega Edition | 386948 | [386948-need-for-speed-most-wanted-pepega-edition.json](./386948-need-for-speed-most-wanted-pepega-edition.json) |
 | Need for Speed: Most Wanted - Ultimate Edition | 99929 | [99929-need-for-speed-most-wanted-ultimate-edition.json](./99929-need-for-speed-most-wanted-ultimate-edition.json) |
 | Need for Speed: Most Wanted 5-1-0 | 121504 | [121504-need-for-speed-most-wanted-5-1-0.json](./121504-need-for-speed-most-wanted-5-1-0.json) |
 | Need for Speed: Most Wanted Demo | 301229 | [301229-need-for-speed-most-wanted-demo.json](./301229-need-for-speed-most-wanted-demo.json) |
@@ -3434,6 +3435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Objective | 417744 | [417744-next-objective.json](./417744-next-objective.json) |
 | Next of Kin | 306388 | [306388-next-of-kin.json](./306388-next-of-kin.json) |
 | Next of Kin: Epiphany | 420665 | [420665-next-of-kin-epiphany.json](./420665-next-of-kin-epiphany.json) |
+| Next Patient | 386899 | [386899-next-patient.json](./386899-next-patient.json) |
 | Next Player Please | 204346 | [204346-next-player-please.json](./204346-next-player-please.json) |
 | Next Power | 242772 | [242772-next-power.json](./242772-next-power.json) |
 | Next Quintillionaire | 391611 | [391611-next-quintillionaire.json](./391611-next-quintillionaire.json) |
@@ -6852,6 +6854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nowhere | 170964 | [170964-nowhere.json](./170964-nowhere.json) |
 | Nowhere | 272287 | [272287-nowhere.json](./272287-nowhere.json) |
 | Nowhere | 283550 | [283550-nowhere.json](./283550-nowhere.json) |
+| Nowhere | 386841 | [386841-nowhere.json](./386841-nowhere.json) |
 | Nowhere Belonging | 376043 | [376043-nowhere-belonging.json](./376043-nowhere-belonging.json) |
 | Nowhere Girl | 110627 | [110627-nowhere-girl.json](./110627-nowhere-girl.json) |
 | Nowhere Highway | 385678 | [385678-nowhere-highway.json](./385678-nowhere-highway.json) |
