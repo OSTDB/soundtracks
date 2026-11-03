@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Tree Frog | 109906 | [109906-galactic-tree-frog.json](./109906-galactic-tree-frog.json) |
 | Galactic Trooper | 14086 | [14086-galactic-trooper.json](./14086-galactic-trooper.json) |
 | Galactic Trooper Armada | 146786 | [146786-galactic-trooper-armada.json](./146786-galactic-trooper-armada.json) |
+| Galactic Tycoons | 374547 | [374547-galactic-tycoons.json](./374547-galactic-tycoons.json) |
 | Galactic Vanguard | 295841 | [295841-galactic-vanguard.json](./295841-galactic-vanguard.json) |
 | Galactic Vanguard | 333629 | [333629-galactic-vanguard.json](./333629-galactic-vanguard.json) |
 | Galactic Vault | 364389 | [364389-galactic-vault.json](./364389-galactic-vault.json) |
@@ -1669,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gao Gao! 1st: Radical Sequence | 230229 | [230229-gao-gao-1st-radical-sequence.json](./230229-gao-gao-1st-radical-sequence.json) |
 | Gaop | 233657 | [233657-gaop.json](./233657-gaop.json) |
 | Gap Year | 380825 | [380825-gap-year.json](./380825-gap-year.json) |
+| Gap Year! | 374871 | [374871-gap-year.json](./374871-gap-year.json) |
 | Gaping Little Red Riding Hood's Lewd Walking Around | 82600 | [82600-gaping-little-red-riding-hoods-lewd-walking-around.json](./82600-gaping-little-red-riding-hoods-lewd-walking-around.json) |
 | Gaplus | 21678 | [21678-gaplus.json](./21678-gaplus.json) |
 | Gaplus Phalanx | 243830 | [243830-gaplus-phalanx.json](./243830-gaplus-phalanx.json) |
@@ -7953,6 +7955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Shift | 329212 | [329212-graveyard-shift.json](./329212-graveyard-shift.json) |
 | Graveyard Shift 2 | 176814 | [176814-graveyard-shift-2.json](./176814-graveyard-shift-2.json) |
 | Graveyard Shift at Freddy's | 300549 | [300549-graveyard-shift-at-freddys.json](./300549-graveyard-shift-at-freddys.json) |
+| Graveyard Simulator | 374876 | [374876-graveyard-simulator.json](./374876-graveyard-simulator.json) |
 | Graveyard Smash | 90583 | [90583-graveyard-smash.json](./90583-graveyard-smash.json) |
 | Graveyard Spells | 186674 | [186674-graveyard-spells.json](./186674-graveyard-spells.json) |
 | Graveyard Sprint | 245874 | [245874-graveyard-sprint.json](./245874-graveyard-sprint.json) |
