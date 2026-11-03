@@ -1743,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Access Rememberer | 184697 | [184697-random-access-rememberer.json](./184697-random-access-rememberer.json) |
 | Random Acts of Madness | 270173 | [270173-random-acts-of-madness.json](./270173-random-acts-of-madness.json) |
 | Random Card Defense | 143392 | [143392-random-card-defense.json](./143392-random-card-defense.json) |
+| Random Chaos Dungeon | 394278 | [394278-random-chaos-dungeon.json](./394278-random-chaos-dungeon.json) |
 | Random Chat | 229913 | [229913-random-chat.json](./229913-random-chat.json) |
 | Random Coin | 411083 | [411083-random-coin.json](./411083-random-coin.json) |
 | Random Core Defense | 310816 | [310816-random-core-defense.json](./310816-random-core-defense.json) |
@@ -3825,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ring of Immortality | 238010 | [238010-red-ring-of-immortality.json](./238010-red-ring-of-immortality.json) |
 | Red Risk | 18178 | [18178-red-risk.json](./18178-red-risk.json) |
 | Red River | 360727 | [360727-red-river.json](./360727-red-river.json) |
+| Red Road Rage | 394355 | [394355-red-road-rage.json](./394355-red-road-rage.json) |
 | Red Robin | 171823 | [171823-red-robin.json](./171823-red-robin.json) |
 | Red Rogue Sea | 338332 | [338332-red-rogue-sea.json](./338332-red-rogue-sea.json) |
 | Red Ronin | 133967 | [133967-red-ronin.json](./133967-red-ronin.json) |
@@ -8926,6 +8928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Chicken | 254975 | [254975-rocket-chicken.json](./254975-rocket-chicken.json) |
 | Rocket Chimp | 252553 | [252553-rocket-chimp.json](./252553-rocket-chimp.json) |
 | Rocket Coaster | 82928 | [82928-rocket-coaster.json](./82928-rocket-coaster.json) |
+| Rocket Commander VR | 394289 | [394289-rocket-commander-vr.json](./394289-rocket-commander-vr.json) |
 | Rocket Control | 242478 | [242478-rocket-control.json](./242478-rocket-control.json) |
 | Rocket Cows | 195730 | [195730-rocket-cows.json](./195730-rocket-cows.json) |
 | Rocket Crane | 251442 | [251442-rocket-crane.json](./251442-rocket-crane.json) |
@@ -9933,6 +9936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollie Panda Hat Edition | 105672 | [105672-rollie-panda-hat-edition.json](./105672-rollie-panda-hat-edition.json) |
 | Rollimals | 385828 | [385828-rollimals.json](./385828-rollimals.json) |
 | Rollin | 19227 | [19227-rollin.json](./19227-rollin.json) |
+| Rollin Ravioli | 394306 | [394306-rollin-ravioli.json](./394306-rollin-ravioli.json) |
 | Rollin' Eggz | 117970 | [117970-rollin-eggz.json](./117970-rollin-eggz.json) |
 | Rollin' Gun | 317697 | [317697-rollin-gun.json](./317697-rollin-gun.json) |
 | Rollin' Rascal | 169232 | [169232-rollin-rascal.json](./169232-rollin-rascal.json) |
@@ -12478,3 +12482,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryuuo no Oshigoto! | 125193 | [125193-ryuuo-no-oshigoto.json](./125193-ryuuo-no-oshigoto.json) |
 | Ryuuo no Oshigoto!: Limited Edition | 167073 | [167073-ryuuo-no-oshigoto-limited-edition.json](./167073-ryuuo-no-oshigoto-limited-edition.json) |
 | Ryuusei no Rockman: Denpa Henkan! On Air! | 139348 | [139348-ryuusei-no-rockman-denpa-henkan-on-air.json](./139348-ryuusei-no-rockman-denpa-henkan-on-air.json) |
+| Ryzy Nyil | 394292 | [394292-ryzy-nyil.json](./394292-ryzy-nyil.json) |
