@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Future: The Game - Episode 3: Citizen Brown | 78250 | [78250-back-to-the-future-the-game-episode-3-citizen-brown.json](./78250-back-to-the-future-the-game-episode-3-citizen-brown.json) |
 | Back to the Future: The Game - Episode 4: Double Visions | 78252 | [78252-back-to-the-future-the-game-episode-4-double-visions.json](./78252-back-to-the-future-the-game-episode-4-double-visions.json) |
 | Back to the Future: The Game - Episode 5: Outatime | 78251 | [78251-back-to-the-future-the-game-episode-5-outatime.json](./78251-back-to-the-future-the-game-episode-5-outatime.json) |
+| Back To The Future: The Ride | 364150 | [364150-back-to-the-future-the-ride.json](./364150-back-to-the-future-the-ride.json) |
 | Back to the Heaven | 349257 | [349257-back-to-the-heaven.json](./349257-back-to-the-heaven.json) |
 | Back to the Joseon | 214565 | [214565-back-to-the-joseon.json](./214565-back-to-the-joseon.json) |
 | Back to the Rooms | 320563 | [320563-back-to-the-rooms.json](./320563-back-to-the-rooms.json) |
@@ -4415,6 +4416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bay Breaker | 333679 | [333679-bay-breaker.json](./333679-bay-breaker.json) |
 | Bay Lynx | 249965 | [249965-bay-lynx.json](./249965-bay-lynx.json) |
 | Bay Route | 39616 | [39616-bay-route.json](./39616-bay-route.json) |
+| Bay: Zero | 364141 | [364141-bay-zero.json](./364141-bay-zero.json) |
 | Bayala: The Game | 124134 | [124134-bayala-the-game.json](./124134-bayala-the-game.json) |
 | Bayani | 112611 | [112611-bayani.json](./112611-bayani.json) |
 | Bayaya | 373155 | [373155-bayaya.json](./373155-bayaya.json) |
@@ -13313,6 +13315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boundless Paths | 267023 | [267023-boundless-paths.json](./267023-boundless-paths.json) |
 | Boundless Skies | 278969 | [278969-boundless-skies.json](./278969-boundless-skies.json) |
 | Boundless: Digital Deluxe Edition | 118551 | [118551-boundless-digital-deluxe-edition.json](./118551-boundless-digital-deluxe-edition.json) |
+| Boundog | 364216 | [364216-boundog.json](./364216-boundog.json) |
 | Boundra | 62499 | [62499-boundra.json](./62499-boundra.json) |
 | BoundWorlds | 295501 | [295501-boundworlds.json](./295501-boundworlds.json) |
 | Bounsweet's Bouncy Adventure | 74816 | [74816-bounsweets-bouncy-adventure.json](./74816-bounsweets-bouncy-adventure.json) |
@@ -13857,6 +13860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Runner: Dreamcore Movement Shooter | 414137 | [414137-brain-runner-dreamcore-movement-shooter.json](./414137-brain-runner-dreamcore-movement-shooter.json) |
 | Brain Rush | 208212 | [208212-brain-rush.json](./208212-brain-rush.json) |
 | Brain Sanguo | 158666 | [158666-brain-sanguo.json](./158666-brain-sanguo.json) |
+| Brain School | 364210 | [364210-brain-school.json](./364210-brain-school.json) |
 | Brain Show | 247976 | [247976-brain-show.json](./247976-brain-show.json) |
 | Brain Spa | 69207 | [69207-brain-spa.json](./69207-brain-spa.json) |
 | Brain Storm: Tower Bombarde | 47131 | [47131-brain-storm-tower-bombarde.json](./47131-brain-storm-tower-bombarde.json) |
@@ -16910,6 +16914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Kombat | 314291 | [314291-burger-kombat.json](./314291-burger-kombat.json) |
 | Burger Lord | 111438 | [111438-burger-lord.json](./111438-burger-lord.json) |
 | Burger Maker | 285160 | [285160-burger-maker.json](./285160-burger-maker.json) |
+| Burger Maker | 364156 | [364156-burger-maker.json](./364156-burger-maker.json) |
 | Burger Memory Game | 240919 | [240919-burger-memory-game.json](./240919-burger-memory-game.json) |
 | Burger Night | 158708 | [158708-burger-night.json](./158708-burger-night.json) |
 | Burger Patrol | 189928 | [189928-burger-patrol.json](./189928-burger-patrol.json) |
