@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fae Farm: Skies of Azoria | 331464 | [331464-fae-farm-skies-of-azoria.json](./331464-fae-farm-skies-of-azoria.json) |
 | Fae Line | 297072 | [297072-fae-line.json](./297072-fae-line.json) |
 | Fae Populi | 188939 | [188939-fae-populi.json](./188939-fae-populi.json) |
+| Faeborne | 375999 | [375999-faeborne.json](./375999-faeborne.json) |
 | Faedom | 200282 | [200282-faedom.json](./200282-faedom.json) |
 | Faefever | 137341 | [137341-faefever.json](./137341-faefever.json) |
 | Faehnor Online | 386499 | [386499-faehnor-online.json](./386499-faehnor-online.json) |
@@ -8369,6 +8370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNAF in Psych Engine | 242611 | [242611-fnaf-in-psych-engine.json](./242611-fnaf-in-psych-engine.json) |
 | FNAF in Sonic Forever | 361571 | [361571-fnaf-in-sonic-forever.json](./361571-fnaf-in-sonic-forever.json) |
 | FNaF Multiplayer: Forgotten Pizzeria | 260060 | [260060-fnaf-multiplayer-forgotten-pizzeria.json](./260060-fnaf-multiplayer-forgotten-pizzeria.json) |
+| FNAF Online Multiplayer | 375783 | [375783-fnaf-online-multiplayer.json](./375783-fnaf-online-multiplayer.json) |
 | FNaF Ultimate Edition | 281319 | [281319-fnaf-ultimate-edition.json](./281319-fnaf-ultimate-edition.json) |
 | FNAF Weird Mobile Port | 382359 | [382359-fnaf-weird-mobile-port.json](./382359-fnaf-weird-mobile-port.json) |
 | FNaF World | 241218 | [241218-fnaf-world.json](./241218-fnaf-world.json) |
@@ -9858,12 +9860,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: The Final Countdown | 366805 | [366805-fortnite-festival-the-final-countdown.json](./366805-fortnite-festival-the-final-countdown.json) |
 | Fortnite Festival: The Monorail Song | 378002 | [378002-fortnite-festival-the-monorail-song.json](./378002-fortnite-festival-the-monorail-song.json) |
 | Fortnite Festival: The Search | 366812 | [366812-fortnite-festival-the-search.json](./366812-fortnite-festival-the-search.json) |
+| Fortnite Festival: The Simpsons Main Title Theme (Non-Union Re-Record) | 376170 | [376170-fortnite-festival-the-simpsons-main-title-theme-non-union-re-record.json](./376170-fortnite-festival-the-simpsons-main-title-theme-non-union-re-record.json) |
 | Fortnite Festival: Unholy | 366564 | [366564-fortnite-festival-unholy.json](./366564-fortnite-festival-unholy.json) |
 | Fortnite Festival: Uptown Funk | 372010 | [372010-fortnite-festival-uptown-funk.json](./372010-fortnite-festival-uptown-funk.json) |
 | Fortnite Festival: We Like To Party! (The Vengabus) | 370571 | [370571-fortnite-festival-we-like-to-party-the-vengabus.json](./370571-fortnite-festival-we-like-to-party-the-vengabus.json) |
 | Fortnite Festival: Welcome Home | 366400 | [366400-fortnite-festival-welcome-home.json](./366400-fortnite-festival-welcome-home.json) |
 | Fortnite Festival: What's New Scooby-Doo? | 372797 | [372797-fortnite-festival-whats-new-scooby-doo.json](./372797-fortnite-festival-whats-new-scooby-doo.json) |
 | Fortnite Festival: Wildberry Lillet | 369069 | [369069-fortnite-festival-wildberry-lillet.json](./369069-fortnite-festival-wildberry-lillet.json) |
+| Fortnite Festival: Wolves | 376171 | [376171-fortnite-festival-wolves.json](./376171-fortnite-festival-wolves.json) |
 | Fortnite Festival: World Is Mine | 370574 | [370574-fortnite-festival-world-is-mine.json](./370574-fortnite-festival-world-is-mine.json) |
 | Fortnite Festival: Zombie | 366397 | [366397-fortnite-festival-zombie.json](./366397-fortnite-festival-zombie.json) |
 | Fortnite Festval: March of the pigs | 370633 | [370633-fortnite-festval-march-of-the-pigs.json](./370633-fortnite-festval-march-of-the-pigs.json) |
