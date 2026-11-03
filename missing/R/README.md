@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain98 | 339805 | [339805-rain98.json](./339805-rain98.json) |
 | Rainblocks | 212297 | [212297-rainblocks.json](./212297-rainblocks.json) |
 | Rainbocorns | 147722 | [147722-rainbocorns.json](./147722-rainbocorns.json) |
+| Rainbound | 369265 | [369265-rainbound.json](./369265-rainbound.json) |
 | Rainbow | 196629 | [196629-rainbow.json](./196629-rainbow.json) |
 | Rainbow | 264558 | [264558-rainbow.json](./264558-rainbow.json) |
 | Rainbow | 359417 | [359417-rainbow.json](./359417-rainbow.json) |
@@ -2141,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rave and Claw | 184785 | [184785-rave-and-claw.json](./184785-rave-and-claw.json) |
 | Rave Gazebo | 275723 | [275723-rave-gazebo.json](./275723-rave-gazebo.json) |
 | Rave Heart | 143421 | [143421-rave-heart.json](./143421-rave-heart.json) |
+| Rave Heart+ | 369311 | [369311-rave-heart.json](./369311-rave-heart.json) |
 | Rave Master: Special Attack Force! | 6553 | [6553-rave-master-special-attack-force.json](./6553-rave-master-special-attack-force.json) |
 | Rave Paradise | 335749 | [335749-rave-paradise.json](./335749-rave-paradise.json) |
 | Rave: Ultimate Battle | 63349 | [63349-rave-ultimate-battle.json](./63349-rave-ultimate-battle.json) |
@@ -3468,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recondo | 215888 | [215888-recondo.json](./215888-recondo.json) |
 | Reconnect | 161395 | [161395-reconnect.json](./161395-reconnect.json) |
 | Reconnect: The Heart of Darkness | 148272 | [148272-reconnect-the-heart-of-darkness.json](./148272-reconnect-the-heart-of-darkness.json) |
+| Reconnecting | 369292 | [369292-reconnecting.json](./369292-reconnecting.json) |
 | Reconnoitre | 270128 | [270128-reconnoitre.json](./270128-reconnoitre.json) |
 | Reconquer Online | 319734 | [319734-reconquer-online.json](./319734-reconquer-online.json) |
 | Reconquista | 319242 | [319242-reconquista.json](./319242-reconquista.json) |
@@ -8830,6 +8833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'N' Roll Defense | 33583 | [33583-rock-n-roll-defense.json](./33583-rock-n-roll-defense.json) |
 | Rock 'n' Roll Will Never Die! | 199358 | [199358-rock-n-roll-will-never-die.json](./199358-rock-n-roll-will-never-die.json) |
 | Rock and Roll Jeopardy! | 78874 | [78874-rock-and-roll-jeopardy.json](./78874-rock-and-roll-jeopardy.json) |
+| Rock and Stone | 368718 | [368718-rock-and-stone.json](./368718-rock-and-stone.json) |
 | Rock Band | 2685 | [2685-rock-band.json](./2685-rock-band.json) |
 | Rock Band 2 | 2692 | [2692-rock-band-2.json](./2692-rock-band-2.json) |
 | Rock Band 2 DX: Guitar Hero Live | 376500 | [376500-rock-band-2-dx-guitar-hero-live.json](./376500-rock-band-2-dx-guitar-hero-live.json) |
@@ -11591,6 +11595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rule: After Waking Up, Please Don't Call Me | 415848 | [415848-rule-after-waking-up-please-dont-call-me.json](./415848-rule-after-waking-up-please-dont-call-me.json) |
 | Rule34dle | 361573 | [361573-rule34dle.json](./361573-rule34dle.json) |
 | Rulebound | 413492 | [413492-rulebound.json](./413492-rulebound.json) |
+| Ruled by Rule | 369279 | [369279-ruled-by-rule.json](./369279-ruled-by-rule.json) |
 | Rulegement | 267445 | [267445-rulegement.json](./267445-rulegement.json) |
 | Rulent Tower VR | 134989 | [134989-rulent-tower-vr.json](./134989-rulent-tower-vr.json) |
 | Ruler by Default | 99004 | [99004-ruler-by-default.json](./99004-ruler-by-default.json) |
@@ -11750,6 +11755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run from Duck | 379931 | [379931-run-from-duck.json](./379931-run-from-duck.json) |
 | Run From Mummies | 263873 | [263873-run-from-mummies.json](./263873-run-from-mummies.json) |
 | Run from the Feds! | 316019 | [316019-run-from-the-feds.json](./316019-run-from-the-feds.json) |
+| Run From the Hunt | 369260 | [369260-run-from-the-hunt.json](./369260-run-from-the-hunt.json) |
 | Run from the Light | 296017 | [296017-run-from-the-light.json](./296017-run-from-the-light.json) |
 | Run Ghost Run | 125057 | [125057-run-ghost-run.json](./125057-run-ghost-run.json) |
 | Run Giraffe Run | 382742 | [382742-run-giraffe-run.json](./382742-run-giraffe-run.json) |
