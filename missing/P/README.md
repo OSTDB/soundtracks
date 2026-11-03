@@ -10418,6 +10418,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Battle e: 08-A012 - Pokémaniac Tyler | 355424 | [355424-pokemon-battle-e-08-a012-pokemaniac-tyler.json](./355424-pokemon-battle-e-08-a012-pokemaniac-tyler.json) |
 | Pokémon Battle e: 08-A013 - Youngster Rudy | 355425 | [355425-pokemon-battle-e-08-a013-youngster-rudy.json](./355425-pokemon-battle-e-08-a013-youngster-rudy.json) |
 | Pokémon Battle e: 08-A014 - Beauty Ellie | 355426 | [355426-pokemon-battle-e-08-a014-beauty-ellie.json](./355426-pokemon-battle-e-08-a014-beauty-ellie.json) |
+| Pokémon Battle e: 08-A015 - PKMN Breeder Candice | 355427 | [355427-pokemon-battle-e-08-a015-pkmn-breeder-candice.json](./355427-pokemon-battle-e-08-a015-pkmn-breeder-candice.json) |
+| Pokémon Battle e: 08-A016 - Cooltrainer Belford | 355429 | [355429-pokemon-battle-e-08-a016-cooltrainer-belford.json](./355429-pokemon-battle-e-08-a016-cooltrainer-belford.json) |
+| Pokémon Battle e: 08-A017 - PKMN Ranger Clayton | 355431 | [355431-pokemon-battle-e-08-a017-pkmn-ranger-clayton.json](./355431-pokemon-battle-e-08-a017-pkmn-ranger-clayton.json) |
+| Pokémon Battle e: 08-A018 - Triathlete Dustin | 355432 | [355432-pokemon-battle-e-08-a018-triathlete-dustin.json](./355432-pokemon-battle-e-08-a018-triathlete-dustin.json) |
+| Pokémon Battle e: 08-A019 - Hiker Hugo | 355433 | [355433-pokemon-battle-e-08-a019-hiker-hugo.json](./355433-pokemon-battle-e-08-a019-hiker-hugo.json) |
+| Pokémon Battle e: 08-A020 - Youngster Jeffrey | 355434 | [355434-pokemon-battle-e-08-a020-youngster-jeffrey.json](./355434-pokemon-battle-e-08-a020-youngster-jeffrey.json) |
+| Pokémon Battle e: 08-A021 - Ruin Maniac Logan | 355435 | [355435-pokemon-battle-e-08-a021-ruin-maniac-logan.json](./355435-pokemon-battle-e-08-a021-ruin-maniac-logan.json) |
+| Pokémon Battle e: 08-A022 - Pokéfan Maggie | 355436 | [355436-pokemon-battle-e-08-a022-pokefan-maggie.json](./355436-pokemon-battle-e-08-a022-pokefan-maggie.json) |
+| Pokémon Battle e: 08-A023 - PKMN Breeder Wilson | 355437 | [355437-pokemon-battle-e-08-a023-pkmn-breeder-wilson.json](./355437-pokemon-battle-e-08-a023-pkmn-breeder-wilson.json) |
+| Pokémon Battle e: 08-A024 - Ruin Maniac Zuril | 355438 | [355438-pokemon-battle-e-08-a024-ruin-maniac-zuril.json](./355438-pokemon-battle-e-08-a024-ruin-maniac-zuril.json) |
+| Pokémon Battle e: 08-A025 - School Kid Mandy | 355440 | [355440-pokemon-battle-e-08-a025-school-kid-mandy.json](./355440-pokemon-battle-e-08-a025-school-kid-mandy.json) |
+| Pokémon Battle e: 08-A026 - Parasol Lady Sofia | 355441 | [355441-pokemon-battle-e-08-a026-parasol-lady-sofia.json](./355441-pokemon-battle-e-08-a026-parasol-lady-sofia.json) |
+| Pokémon Battle e: 08-A027 - Lady Hillary | 355442 | [355442-pokemon-battle-e-08-a027-lady-hillary.json](./355442-pokemon-battle-e-08-a027-lady-hillary.json) |
+| Pokémon Battle e: 08-A028 - Guitarist Dominic | 355443 | [355443-pokemon-battle-e-08-a028-guitarist-dominic.json](./355443-pokemon-battle-e-08-a028-guitarist-dominic.json) |
 | Pokémon Battle e: 08-A029 - Fisherman Bryce | 355444 | [355444-pokemon-battle-e-08-a029-fisherman-bryce.json](./355444-pokemon-battle-e-08-a029-fisherman-bryce.json) |
 | Pokémon Battle e: 08-A030 - Bug Maniac Irvin | 355445 | [355445-pokemon-battle-e-08-a030-bug-maniac-irvin.json](./355445-pokemon-battle-e-08-a030-bug-maniac-irvin.json) |
 | Pokémon Battle e: 08-A031 - Battle Girl Natalie | 355446 | [355446-pokemon-battle-e-08-a031-battle-girl-natalie.json](./355446-pokemon-battle-e-08-a031-battle-girl-natalie.json) |
@@ -10439,6 +10453,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Battle e: 08-A047 - Pokéfan Kendall | 355464 | [355464-pokemon-battle-e-08-a047-pokefan-kendall.json](./355464-pokemon-battle-e-08-a047-pokefan-kendall.json) |
 | Pokémon Battle e: 08-A048 - Cooltrainer Fuego | 355465 | [355465-pokemon-battle-e-08-a048-cooltrainer-fuego.json](./355465-pokemon-battle-e-08-a048-cooltrainer-fuego.json) |
 | Pokémon Battle e: 08-K001 - Pumkin Berry | 355419 | [355419-pokemon-battle-e-08-k001-pumkin-berry.json](./355419-pokemon-battle-e-08-k001-pumkin-berry.json) |
+| Pokémon Battle e: 08-K002 - Drash Berry | 355430 | [355430-pokemon-battle-e-08-k002-drash-berry.json](./355430-pokemon-battle-e-08-k002-drash-berry.json) |
+| Pokémon Battle e: 08-K003 - Eggant Berry | 355439 | [355439-pokemon-battle-e-08-k003-eggant-berry.json](./355439-pokemon-battle-e-08-k003-eggant-berry.json) |
 | Pokémon Battle e: 08-K004 - Strib Berry | 355448 | [355448-pokemon-battle-e-08-k004-strib-berry.json](./355448-pokemon-battle-e-08-k004-strib-berry.json) |
 | Pokémon Battle e: 08-K005 - Chilan Berry | 355457 | [355457-pokemon-battle-e-08-k005-chilan-berry.json](./355457-pokemon-battle-e-08-k005-chilan-berry.json) |
 | Pokémon Battle e: 08-K006 - Nutpea Berry | 355466 | [355466-pokemon-battle-e-08-k006-nutpea-berry.json](./355466-pokemon-battle-e-08-k006-nutpea-berry.json) |
@@ -14776,6 +14792,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progress Knight: Remastered | 327662 | [327662-progress-knight-remastered.json](./327662-progress-knight-remastered.json) |
 | Progress Orders | 328491 | [328491-progress-orders.json](./328491-progress-orders.json) |
 | Progress PET | 352779 | [352779-progress-pet.json](./352779-progress-pet.json) |
+| Progress PET: Battle Chip - 513: Cannon | 355298 | [355298-progress-pet-battle-chip-513-cannon.json](./355298-progress-pet-battle-chip-513-cannon.json) |
+| Progress PET: Battle Chip - 514: Hi-Cannon | 355299 | [355299-progress-pet-battle-chip-514-hi-cannon.json](./355299-progress-pet-battle-chip-514-hi-cannon.json) |
+| Progress PET: Battle Chip - 515: Mega Cannon | 355300 | [355300-progress-pet-battle-chip-515-mega-cannon.json](./355300-progress-pet-battle-chip-515-mega-cannon.json) |
+| Progress PET: Battle Chip - 516: Air Shoot | 355301 | [355301-progress-pet-battle-chip-516-air-shoot.json](./355301-progress-pet-battle-chip-516-air-shoot.json) |
+| Progress PET: Battle Chip - 517: Air Hockey | 355302 | [355302-progress-pet-battle-chip-517-air-hockey.json](./355302-progress-pet-battle-chip-517-air-hockey.json) |
+| Progress PET: Battle Chip - 518: Boomerang | 355303 | [355303-progress-pet-battle-chip-518-boomerang.json](./355303-progress-pet-battle-chip-518-boomerang.json) |
+| Progress PET: Battle Chip - 519: Silence | 355304 | [355304-progress-pet-battle-chip-519-silence.json](./355304-progress-pet-battle-chip-519-silence.json) |
+| Progress PET: Battle Chip - 520: Tornado | 355305 | [355305-progress-pet-battle-chip-520-tornado.json](./355305-progress-pet-battle-chip-520-tornado.json) |
+| Progress PET: Battle Chip - 521: Wide Shot 1 | 355306 | [355306-progress-pet-battle-chip-521-wide-shot-1.json](./355306-progress-pet-battle-chip-521-wide-shot-1.json) |
+| Progress PET: Battle Chip - 522: Wide Shot 2 | 355307 | [355307-progress-pet-battle-chip-522-wide-shot-2.json](./355307-progress-pet-battle-chip-522-wide-shot-2.json) |
+| Progress PET: Battle Chip - 523: Wide Shot 3 | 355308 | [355308-progress-pet-battle-chip-523-wide-shot-3.json](./355308-progress-pet-battle-chip-523-wide-shot-3.json) |
+| Progress PET: Battle Chip - 524: Mark Cannon 1 | 355309 | [355309-progress-pet-battle-chip-524-mark-cannon-1.json](./355309-progress-pet-battle-chip-524-mark-cannon-1.json) |
+| Progress PET: Battle Chip - 525: Mark Cannon 2 | 355310 | [355310-progress-pet-battle-chip-525-mark-cannon-2.json](./355310-progress-pet-battle-chip-525-mark-cannon-2.json) |
+| Progress PET: Battle Chip - 526: Mark Cannon 3 | 355311 | [355311-progress-pet-battle-chip-526-mark-cannon-3.json](./355311-progress-pet-battle-chip-526-mark-cannon-3.json) |
+| Progress PET: Battle Chip - 527: Vulcan 1 | 355312 | [355312-progress-pet-battle-chip-527-vulcan-1.json](./355312-progress-pet-battle-chip-527-vulcan-1.json) |
+| Progress PET: Battle Chip - 528: Vulcan 2 | 355313 | [355313-progress-pet-battle-chip-528-vulcan-2.json](./355313-progress-pet-battle-chip-528-vulcan-2.json) |
+| Progress PET: Battle Chip - 529: Vulcan 3 | 355314 | [355314-progress-pet-battle-chip-529-vulcan-3.json](./355314-progress-pet-battle-chip-529-vulcan-3.json) |
+| Progress PET: Battle Chip - 530: Spread Gun | 355315 | [355315-progress-pet-battle-chip-530-spread-gun.json](./355315-progress-pet-battle-chip-530-spread-gun.json) |
+| Progress PET: Battle Chip - 531: Thunder Ball | 355316 | [355316-progress-pet-battle-chip-531-thunder-ball.json](./355316-progress-pet-battle-chip-531-thunder-ball.json) |
+| Progress PET: Battle Chip - 532: Ice Seed | 355317 | [355317-progress-pet-battle-chip-532-ice-seed.json](./355317-progress-pet-battle-chip-532-ice-seed.json) |
+| Progress PET: Battle Chip - 533: Pulse Beam 1 | 355318 | [355318-progress-pet-battle-chip-533-pulse-beam-1.json](./355318-progress-pet-battle-chip-533-pulse-beam-1.json) |
+| Progress PET: Battle Chip - 534: Pulse Beam 2 | 355319 | [355319-progress-pet-battle-chip-534-pulse-beam-2.json](./355319-progress-pet-battle-chip-534-pulse-beam-2.json) |
+| Progress PET: Battle Chip - 535: Pulse Beam 3 | 355320 | [355320-progress-pet-battle-chip-535-pulse-beam-3.json](./355320-progress-pet-battle-chip-535-pulse-beam-3.json) |
+| Progress PET: Battle Chip - 536: Space Yura 1 | 355321 | [355321-progress-pet-battle-chip-536-space-yura-1.json](./355321-progress-pet-battle-chip-536-space-yura-1.json) |
+| Progress PET: Battle Chip - 537: Space Yura 2 | 355322 | [355322-progress-pet-battle-chip-537-space-yura-2.json](./355322-progress-pet-battle-chip-537-space-yura-2.json) |
+| Progress PET: Battle Chip - 538: Space Yura 3 | 355323 | [355323-progress-pet-battle-chip-538-space-yura-3.json](./355323-progress-pet-battle-chip-538-space-yura-3.json) |
 | Progress PET: Battle Chip - 539: Noise Storm | 355324 | [355324-progress-pet-battle-chip-539-noise-storm.json](./355324-progress-pet-battle-chip-539-noise-storm.json) |
 | Progress PET: Battle Chip - 540: Life Synchro | 355325 | [355325-progress-pet-battle-chip-540-life-synchro.json](./355325-progress-pet-battle-chip-540-life-synchro.json) |
 | Progress PET: Battle Chip - 541: Mini Bomb | 355326 | [355326-progress-pet-battle-chip-541-mini-bomb.json](./355326-progress-pet-battle-chip-541-mini-bomb.json) |
