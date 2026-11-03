@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odysseus Kosmos and his Robot Quest: Episode 5 | 171515 | [171515-odysseus-kosmos-and-his-robot-quest-episode-5.json](./171515-odysseus-kosmos-and-his-robot-quest-episode-5.json) |
 | Odyssey | 12706 | [12706-odyssey.json](./12706-odyssey.json) |
 | Odyssey | 30443 | [30443-odyssey.json](./30443-odyssey.json) |
+| Odyssey by Car | 391964 | [391964-odyssey-by-car.json](./391964-odyssey-by-car.json) |
 | Odyssey Island | 272739 | [272739-odyssey-island.json](./272739-odyssey-island.json) |
 | Odyssey Kingdoms Expansion | 344012 | [344012-odyssey-kingdoms-expansion.json](./344012-odyssey-kingdoms-expansion.json) |
 | Odyssey Moon | 257239 | [257239-odyssey-moon.json](./257239-odyssey-moon.json) |
@@ -2865,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Cum! | 259282 | [259282-only-cum.json](./259282-only-cum.json) |
 | Only Dodge! | 362322 | [362322-only-dodge.json](./362322-only-dodge.json) |
 | Only Down | 259592 | [259592-only-down.json](./259592-only-down.json) |
+| Only Down | 391943 | [391943-only-down.json](./391943-only-down.json) |
 | Only Down: Into the Abyss | 379102 | [379102-only-down-into-the-abyss.json](./379102-only-down-into-the-abyss.json) |
 | Only Down: Not Up! | 383782 | [383782-only-down-not-up.json](./383782-only-down-not-up.json) |
 | Only Down! | 257379 | [257379-only-down.json](./257379-only-down.json) |
