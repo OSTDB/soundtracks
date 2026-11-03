@@ -5493,6 +5493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Literally Free Will (From Prison) | 180750 | [180750-literally-free-will-from-prison.json](./180750-literally-free-will-from-prison.json) |
 | Literally Just Pixels On A Screen | 340922 | [340922-literally-just-pixels-on-a-screen.json](./340922-literally-just-pixels-on-a-screen.json) |
 | Litguy Adventure | 213390 | [213390-litguy-adventure.json](./213390-litguy-adventure.json) |
+| Lithium | 369813 | [369813-lithium.json](./369813-lithium.json) |
 | Lithium City | 134543 | [134543-lithium-city.json](./134543-lithium-city.json) |
 | Lithium: Inmate 39 | 25876 | [25876-lithium-inmate-39.json](./25876-lithium-inmate-39.json) |
 | Lithium: Inmate 39 - Relapsed Edition | 123846 | [123846-lithium-inmate-39-relapsed-edition.json](./123846-lithium-inmate-39-relapsed-edition.json) |
