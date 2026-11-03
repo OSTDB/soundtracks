@@ -4633,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's Dunnit? A | 354369 | [354369-whos-dunnit-a.json](./354369-whos-dunnit-a.json) |
 | Who's Dunnit? B | 354370 | [354370-whos-dunnit-b.json](./354370-whos-dunnit-b.json) |
 | Who's Fat Lou? | 205805 | [205805-whos-fat-lou.json](./205805-whos-fat-lou.json) |
+| Who's Hungry? | 371828 | [371828-whos-hungry.json](./371828-whos-hungry.json) |
 | Who's in the Box? | 95625 | [95625-whos-in-the-box.json](./95625-whos-in-the-box.json) |
 | Who's Lila? | 159536 | [159536-whos-lila.json](./159536-whos-lila.json) |
 | Who's My Secret Santa? | 399685 | [399685-whos-my-secret-santa.json](./399685-whos-my-secret-santa.json) |
@@ -8800,6 +8801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wújìn Shēnyuān | 117368 | [117368-wujin-shenyuan.json](./117368-wujin-shenyuan.json) |
 | Wujin Zhi Jian Mingyuin | 83840 | [83840-wujin-zhi-jian-mingyuin.json](./83840-wujin-zhi-jian-mingyuin.json) |
 | Wukong 2088 | 373892 | [373892-wukong-2088.json](./373892-wukong-2088.json) |
+| Wukong Black Legend | 372158 | [372158-wukong-black-legend.json](./372158-wukong-black-legend.json) |
 | Wukong Odyssey | 246754 | [246754-wukong-odyssey.json](./246754-wukong-odyssey.json) |
 | Wukong Sun: Black Legend | 328464 | [328464-wukong-sun-black-legend.json](./328464-wukong-sun-black-legend.json) |
 | Wukong Survivors | 389519 | [389519-wukong-survivors.json](./389519-wukong-survivors.json) |
