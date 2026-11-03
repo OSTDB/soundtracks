@@ -1782,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laws of Nadragia | 244399 | [244399-laws-of-nadragia.json](./244399-laws-of-nadragia.json) |
 | Lawyer Guy: Defender of Justice | 140852 | [140852-lawyer-guy-defender-of-justice.json](./140852-lawyer-guy-defender-of-justice.json) |
 | Lawyer Hunt | 94377 | [94377-lawyer-hunt.json](./94377-lawyer-hunt.json) |
+| Lax VR | 383337 | [383337-lax-vr.json](./383337-lax-vr.json) |
 | Laxius Force | 50802 | [50802-laxius-force.json](./50802-laxius-force.json) |
 | Laxius Force | 63127 | [63127-laxius-force.json](./63127-laxius-force.json) |
 | Laxius Force II: The Queen of Adretana | 10504 | [10504-laxius-force-ii-the-queen-of-adretana.json](./10504-laxius-force-ii-the-queen-of-adretana.json) |
@@ -5008,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limit Break | 359075 | [359075-limit-break.json](./359075-limit-break.json) |
 | Limit Buffet | 260505 | [260505-limit-buffet.json](./260505-limit-buffet.json) |
 | Limit Choice | 253601 | [253601-limit-choice.json](./253601-limit-choice.json) |
+| Limit Shoot | 383321 | [383321-limit-shoot.json](./383321-limit-shoot.json) |
 | Limit Zero Breakers | 361763 | [361763-limit-zero-breakers.json](./361763-limit-zero-breakers.json) |
 | LiMiT's Escape Room Games | 196161 | [196161-limits-escape-room-games.json](./196161-limits-escape-room-games.json) |
 | Limit's Escape Room Games 2 | 211631 | [211631-limits-escape-room-games-2.json](./211631-limits-escape-room-games-2.json) |
@@ -9293,6 +9295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna's Twilight | 319211 | [319211-lunas-twilight.json](./319211-lunas-twilight.json) |
 | Luna's Wandering Stars | 17983 | [17983-lunas-wandering-stars.json](./17983-lunas-wandering-stars.json) |
 | Luna's World Packages | 343382 | [343382-lunas-world-packages.json](./343382-lunas-world-packages.json) |
+| Lunacraft | 383539 | [383539-lunacraft.json](./383539-lunacraft.json) |
 | Lunacy | 262993 | [262993-lunacy.json](./262993-lunacy.json) |
 | Lunacy | 71493 | [71493-lunacy.json](./71493-lunacy.json) |
 | Lunacy: Saint Rhodes | 26710 | [26710-lunacy-saint-rhodes.json](./26710-lunacy-saint-rhodes.json) |
