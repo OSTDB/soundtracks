@@ -4249,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflections of Life: Dark Architect - Collector's Edition | 53498 | [53498-reflections-of-life-dark-architect-collectors-edition.json](./53498-reflections-of-life-dark-architect-collectors-edition.json) |
 | Reflections of Life: Dream Box - Collector's Edition | 362833 | [362833-reflections-of-life-dream-box-collectors-edition.json](./362833-reflections-of-life-dream-box-collectors-edition.json) |
 | Reflections of Life: Equilibrium - Collector's Edition | 117813 | [117813-reflections-of-life-equilibrium-collectors-edition.json](./117813-reflections-of-life-equilibrium-collectors-edition.json) |
+| Reflections of Life: Gone but not Forgotten | 385229 | [385229-reflections-of-life-gone-but-not-forgotten.json](./385229-reflections-of-life-gone-but-not-forgotten.json) |
 | Reflections of Life: Gone but not Forgotten - Collector's Edition | 383558 | [383558-reflections-of-life-gone-but-not-forgotten-collectors-edition.json](./383558-reflections-of-life-gone-but-not-forgotten-collectors-edition.json) |
 | Reflections of Life: Hearts Taken - Collector's Edition | 362830 | [362830-reflections-of-life-hearts-taken-collectors-edition.json](./362830-reflections-of-life-hearts-taken-collectors-edition.json) |
 | Reflections of Life: In Screams and Sorrow - Collector's Edition | 358853 | [358853-reflections-of-life-in-screams-and-sorrow-collectors-edition.json](./358853-reflections-of-life-in-screams-and-sorrow-collectors-edition.json) |
