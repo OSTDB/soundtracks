@@ -9133,6 +9133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - Even Immortality Ends | 256760 | [256760-honkai-star-rail-even-immortality-ends.json](./256760-honkai-star-rail-even-immortality-ends.json) |
 | Honkai: Star Rail - Finest Duel Under the Pristine Blue | 308417 | [308417-honkai-star-rail-finest-duel-under-the-pristine-blue.json](./308417-honkai-star-rail-finest-duel-under-the-pristine-blue.json) |
 | Honkai: Star Rail - Flying Aureus Shot to Lupine Rue | 315162 | [315162-honkai-star-rail-flying-aureus-shot-to-lupine-rue.json](./315162-honkai-star-rail-flying-aureus-shot-to-lupine-rue.json) |
+| Honkai: Star Rail - For the Sun is Set to Die | 350168 | [350168-honkai-star-rail-for-the-sun-is-set-to-die.json](./350168-honkai-star-rail-for-the-sun-is-set-to-die.json) |
 | Honkai: Star Rail - Galactic Roaming | 257051 | [257051-honkai-star-rail-galactic-roaming.json](./257051-honkai-star-rail-galactic-roaming.json) |
 | Honkai: Star Rail - If One Dreams At Midnight | 283537 | [283537-honkai-star-rail-if-one-dreams-at-midnight.json](./283537-honkai-star-rail-if-one-dreams-at-midnight.json) |
 | Honkai: Star Rail - In Ravages Does the Whistle Sound | 408877 | [408877-honkai-star-rail-in-ravages-does-the-whistle-sound.json](./408877-honkai-star-rail-in-ravages-does-the-whistle-sound.json) |
