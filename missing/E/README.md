@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force: World Brothers 2 - Sorry To Keep You Waiting: Master Air Raider Joins the Fight | 325425 | [325425-earth-defense-force-world-brothers-2-sorry-to-keep-you-waiting-master-air-raider-joins-the-fight.json](./325425-earth-defense-force-world-brothers-2-sorry-to-keep-you-waiting-master-air-raider-joins-the-fight.json) |
 | Earth Defense Force: World Brothers 2 - World's Greatest Engineer, Air Raider (EDF5) Civilian Outfit: Reskin | 325424 | [325424-earth-defense-force-world-brothers-2-worlds-greatest-engineer-air-raider-edf5-civilian-outfit-reskin.json](./325424-earth-defense-force-world-brothers-2-worlds-greatest-engineer-air-raider-edf5-civilian-outfit-reskin.json) |
 | Earth Defense Forces 2 Portable | 42835 | [42835-earth-defense-forces-2-portable.json](./42835-earth-defense-forces-2-portable.json) |
+| Earth Defense Sticks | 364797 | [364797-earth-defense-sticks.json](./364797-earth-defense-sticks.json) |
 | Earth Dies Screaming | 40614 | [40614-earth-dies-screaming.json](./40614-earth-dies-screaming.json) |
 | Earth Editor | 288086 | [288086-earth-editor.json](./288086-earth-editor.json) |
 | Earth Eternal | 67668 | [67668-earth-eternal.json](./67668-earth-eternal.json) |
@@ -6296,6 +6297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evasive | 273917 | [273917-evasive.json](./273917-evasive.json) |
 | Evasive Action | 74088 | [74088-evasive-action.json](./74088-evasive-action.json) |
 | Evasive Maneuvers | 166845 | [166845-evasive-maneuvers.json](./166845-evasive-maneuvers.json) |
+| Evasive Satellite | 364801 | [364801-evasive-satellite.json](./364801-evasive-satellite.json) |
 | Evasive Space | 51018 | [51018-evasive-space.json](./51018-evasive-space.json) |
 | Evaverse | 158522 | [158522-evaverse.json](./158522-evaverse.json) |
 | Evdeki Lanet | 160164 | [160164-evdeki-lanet.json](./160164-evdeki-lanet.json) |
