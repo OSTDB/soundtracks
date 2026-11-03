@@ -4060,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Simulator | 237018 | [237018-market-simulator.json](./237018-market-simulator.json) |
 | Market Simulator | 342024 | [342024-market-simulator.json](./342024-market-simulator.json) |
 | Market Street | 65955 | [65955-market-street.json](./65955-market-street.json) |
+| Market Street Tycoon Simulator | 384236 | [384236-market-street-tycoon-simulator.json](./384236-market-street-tycoon-simulator.json) |
 | Market Trouble | 182541 | [182541-market-trouble.json](./182541-market-trouble.json) |
 | Market Tycoon | 30307 | [30307-market-tycoon.json](./30307-market-tycoon.json) |
 | Market Warfare | 252284 | [252284-market-warfare.json](./252284-market-warfare.json) |
