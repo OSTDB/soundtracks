@@ -10875,6 +10875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Surgeon: Hospital games | 95850 | [95850-doctor-surgeon-hospital-games.json](./95850-doctor-surgeon-hospital-games.json) |
 | Doctor Tsunami | 111708 | [111708-doctor-tsunami.json](./111708-doctor-tsunami.json) |
 | Doctor Viscera | 348691 | [348691-doctor-viscera.json](./348691-doctor-viscera.json) |
+| Doctor Visit | 377025 | [377025-doctor-visit.json](./377025-doctor-visit.json) |
 | Doctor Voldritch's experiment | 302502 | [302502-doctor-voldritchs-experiment.json](./302502-doctor-voldritchs-experiment.json) |
 | Doctor Watson - Treasure Island | 33442 | [33442-doctor-watson-treasure-island.json](./33442-doctor-watson-treasure-island.json) |
 | Doctor Watson: The Riddle of the Catacombs | 33443 | [33443-doctor-watson-the-riddle-of-the-catacombs.json](./33443-doctor-watson-the-riddle-of-the-catacombs.json) |
@@ -17784,6 +17785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons: The Eye of Draconus | 17444 | [17444-dungeons-the-eye-of-draconus.json](./17444-dungeons-the-eye-of-draconus.json) |
 | DungeonSlime | 195708 | [195708-dungeonslime.json](./195708-dungeonslime.json) |
 | DungeonSquad | 223615 | [223615-dungeonsquad.json](./223615-dungeonsquad.json) |
+| DungeonSweeper | 377019 | [377019-dungeonsweeper.json](./377019-dungeonsweeper.json) |
 | DungeonTomb | 291915 | [291915-dungeontomb.json](./291915-dungeontomb.json) |
 | DungeonTop: Spell Sword Cards | 127610 | [127610-dungeontop-spell-sword-cards.json](./127610-dungeontop-spell-sword-cards.json) |
 | DungeonTracks: In Charms Way | 184626 | [184626-dungeontracks-in-charms-way.json](./184626-dungeontracks-in-charms-way.json) |
