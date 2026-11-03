@@ -2397,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imobilidade Urbana | 283611 | [283611-imobilidade-urbana.json](./283611-imobilidade-urbana.json) |
 | iMobsters | 91578 | [91578-imobsters.json](./91578-imobsters.json) |
 | Imogen | 13728 | [13728-imogen.json](./13728-imogen.json) |
+| Imola Grand Prix | 387457 | [387457-imola-grand-prix.json](./387457-imola-grand-prix.json) |
 | Imomushi | 270856 | [270856-imomushi.json](./270856-imomushi.json) |
 | Imoto | 174051 | [174051-imoto.json](./174051-imoto.json) |
 | Imouto Ikenie | 108125 | [108125-imouto-ikenie.json](./108125-imouto-ikenie.json) |
@@ -3618,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -3814,6 +3816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Influxis | 149294 | [149294-influxis.json](./149294-influxis.json) |
 | Info Fighter | 360510 | [360510-info-fighter.json](./360510-info-fighter.json) |
 | Info Genius Frommer's Travel Guide | 335490 | [335490-info-genius-frommers-travel-guide.json](./335490-info-genius-frommers-travel-guide.json) |
+| Info Harry II | 387458 | [387458-info-harry-ii.json](./387458-info-harry-ii.json) |
 | Info Player Start: A Dope (Challenge) Map | 282616 | [282616-info-player-start-a-dope-challenge-map.json](./282616-info-player-start-a-dope-challenge-map.json) |
 | Infocom Classic Text Adventure Masterpieces | 62384 | [62384-infocom-classic-text-adventure-masterpieces.json](./62384-infocom-classic-text-adventure-masterpieces.json) |
 | Infocus: Extreme Bike | 175294 | [175294-infocus-extreme-bike.json](./175294-infocus-extreme-bike.json) |
