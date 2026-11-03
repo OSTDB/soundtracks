@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janken Shogi | 216223 | [216223-janken-shogi.json](./216223-janken-shogi.json) |
 | JankenSoko | 401923 | [401923-jankensoko.json](./401923-jankensoko.json) |
 | JanKenUP! | 180199 | [180199-jankenup.json](./180199-jankenup.json) |
+| Janklady | 368184 | [368184-janklady.json](./368184-janklady.json) |
 | Janko | 306365 | [306365-janko.json](./306365-janko.json) |
 | Janky Golf with Stream | 378012 | [378012-janky-golf-with-stream.json](./378012-janky-golf-with-stream.json) |
 | Janky Horse | 404089 | [404089-janky-horse.json](./404089-janky-horse.json) |
@@ -1038,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jenny Lusby: Intergalactic Adventures | 307257 | [307257-jenny-lusby-intergalactic-adventures.json](./307257-jenny-lusby-intergalactic-adventures.json) |
 | Jenny of the Prairie | 307556 | [307556-jenny-of-the-prairie.json](./307556-jenny-of-the-prairie.json) |
 | Jenny the Witch | 384852 | [384852-jenny-the-witch.json](./384852-jenny-the-witch.json) |
+| Jenny's Adventures | 368218 | [368218-jennys-adventures.json](./368218-jennys-adventures.json) |
 | Jenny's Fish Shop | 177044 | [177044-jennys-fish-shop.json](./177044-jennys-fish-shop.json) |
 | Jensen Strikes Back | 340984 | [340984-jensen-strikes-back.json](./340984-jensen-strikes-back.json) |
 | Jeonsa Ryan | 145590 | [145590-jeonsa-ryan.json](./145590-jeonsa-ryan.json) |
