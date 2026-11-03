@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Marine - Ultimate Edition | 99970 | [99970-warhammer-40-000-space-marine-ultimate-edition.json](./99970-warhammer-40-000-space-marine-ultimate-edition.json) |
 | Warhammer 40,000: Space Marine 2 - 1-Year Anniversary Edition | 382901 | [382901-warhammer-40-000-space-marine-2-1-year-anniversary-edition.json](./382901-warhammer-40-000-space-marine-2-1-year-anniversary-edition.json) |
 | Warhammer 40,000: Space Marine 2 - 2-Year Anniversary Edition | 382902 | [382902-warhammer-40-000-space-marine-2-2-year-anniversary-edition.json](./382902-warhammer-40-000-space-marine-2-2-year-anniversary-edition.json) |
+| Warhammer 40,000: Space Marine 2 - Ultima Limited Edition | 397518 | [397518-warhammer-40-000-space-marine-2-ultima-limited-edition.json](./397518-warhammer-40-000-space-marine-2-ultima-limited-edition.json) |
 | Warhammer 40,000: Space Marine Collection | 53904 | [53904-warhammer-40-000-space-marine-collection.json](./53904-warhammer-40-000-space-marine-collection.json) |
 | Warhammer 40,000: Space Marine II - Black Templars Champion Pack | 370087 | [370087-warhammer-40-000-space-marine-ii-black-templars-champion-pack.json](./370087-warhammer-40-000-space-marine-ii-black-templars-champion-pack.json) |
 | Warhammer 40,000: Space Marine II - Blood Angels Cosmetic Pack | 370081 | [370081-warhammer-40-000-space-marine-ii-blood-angels-cosmetic-pack.json](./370081-warhammer-40-000-space-marine-ii-blood-angels-cosmetic-pack.json) |
