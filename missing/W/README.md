@@ -4977,6 +4977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Romance: Mofu-mofu Edition | 75657 | [75657-wild-romance-mofu-mofu-edition.json](./75657-wild-romance-mofu-mofu-edition.json) |
 | Wild Rumble | 226118 | [226118-wild-rumble.json](./226118-wild-rumble.json) |
 | Wild Runs | 147241 | [147241-wild-runs.json](./147241-wild-runs.json) |
+| Wild Russia | 379599 | [379599-wild-russia.json](./379599-wild-russia.json) |
 | Wild Safari Run | 96579 | [96579-wild-safari-run.json](./96579-wild-safari-run.json) |
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
 | Wild Season | 47125 | [47125-wild-season.json](./47125-wild-season.json) |
