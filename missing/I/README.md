@@ -2948,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incite | 183187 | [183187-incite.json](./183187-incite.json) |
 | Incitement 3 | 34745 | [34745-incitement-3.json](./34745-incitement-3.json) |
 | Inclement | 113073 | [113073-inclement.json](./113073-inclement.json) |
+| Inclement Idée Fixe | 382802 | [382802-inclement-idee-fixe.json](./382802-inclement-idee-fixe.json) |
 | Incline | 67935 | [67935-incline.json](./67935-incline.json) |
 | Incline: Railway of Devil's Valley | 294299 | [294299-incline-railway-of-devils-valley.json](./294299-incline-railway-of-devils-valley.json) |
 | Incoboto Mini | 41511 | [41511-incoboto-mini.json](./41511-incoboto-mini.json) |
@@ -4108,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innovetica | 119945 | [119945-innovetica.json](./119945-innovetica.json) |
 | Innsmouth | 328939 | [328939-innsmouth.json](./328939-innsmouth.json) |
 | Innsmouth Corporate Plaza | 276476 | [276476-innsmouth-corporate-plaza.json](./276476-innsmouth-corporate-plaza.json) |
+| Innsmouth Mysteries | 382946 | [382946-innsmouth-mysteries.json](./382946-innsmouth-mysteries.json) |
 | Innsmouth Nightmare | 311255 | [311255-innsmouth-nightmare.json](./311255-innsmouth-nightmare.json) |
 | Innyume | 223033 | [223033-innyume.json](./223033-innyume.json) |
 | Ino | 27691 | [27691-ino.json](./27691-ino.json) |
@@ -4569,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intergalactic | 263025 | [263025-intergalactic.json](./263025-intergalactic.json) |
 | Intergalactic Ambassador | 141753 | [141753-intergalactic-ambassador.json](./141753-intergalactic-ambassador.json) |
 | Intergalactic Battle Roosters | 319844 | [319844-intergalactic-battle-roosters.json](./319844-intergalactic-battle-roosters.json) |
+| Intergalactic Cleaning Squad | 382732 | [382732-intergalactic-cleaning-squad.json](./382732-intergalactic-cleaning-squad.json) |
 | Intergalactic Defenders | 340757 | [340757-intergalactic-defenders.json](./340757-intergalactic-defenders.json) |
 | Intergalactic Ecstasy | 411057 | [411057-intergalactic-ecstasy.json](./411057-intergalactic-ecstasy.json) |
 | Intergalactic Fishing | 111754 | [111754-intergalactic-fishing.json](./111754-intergalactic-fishing.json) |
@@ -5973,6 +5976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Swaps | 237304 | [237304-isle-of-swaps.json](./237304-isle-of-swaps.json) |
 | Isle of the Crown | 137362 | [137362-isle-of-the-crown.json](./137362-isle-of-the-crown.json) |
 | Isle of the Jötunn | 263092 | [263092-isle-of-the-jotunn.json](./263092-isle-of-the-jotunn.json) |
+| Isle of Titans | 383087 | [383087-isle-of-titans.json](./383087-isle-of-titans.json) |
 | Isle of Tune Mobile | 101665 | [101665-isle-of-tune-mobile.json](./101665-isle-of-tune-mobile.json) |
 | Isle TD | 109195 | [109195-isle-td.json](./109195-isle-td.json) |
 | Isle TD | 81006 | [81006-isle-td.json](./81006-isle-td.json) |
