@@ -8407,6 +8407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollowed | 68568 | [68568-hollowed.json](./68568-hollowed.json) |
 | Hollowed Oath | 400395 | [400395-hollowed-oath.json](./400395-hollowed-oath.json) |
 | Hollowglass | 335998 | [335998-hollowglass.json](./335998-hollowglass.json) |
+| Hollowgrace | 379067 | [379067-hollowgrace.json](./379067-hollowgrace.json) |
 | Hollowing | 350354 | [350354-hollowing.json](./350354-hollowing.json) |
 | Hollowmoor | 217328 | [217328-hollowmoor.json](./217328-hollowmoor.json) |
 | HollowPath | 221429 | [221429-hollowpath.json](./221429-hollowpath.json) |
@@ -10861,6 +10862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huggy Skate | 333705 | [333705-huggy-skate.json](./333705-huggy-skate.json) |
 | Huggy: Love and Rescue | 276861 | [276861-huggy-love-and-rescue.json](./276861-huggy-love-and-rescue.json) |
 | Hugh's Dream | 135797 | [135797-hughs-dream.json](./135797-hughs-dream.json) |
+| Hugisland | 378944 | [378944-hugisland.json](./378944-hugisland.json) |
 | Huglings | 388756 | [388756-huglings.json](./388756-huglings.json) |
 | Hugo | 204887 | [204887-hugo.json](./204887-hugo.json) |
 | Hugo | 345839 | [345839-hugo.json](./345839-hugo.json) |
