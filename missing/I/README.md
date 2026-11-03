@@ -1351,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Deepcore | 398901 | [398901-idle-deepcore.json](./398901-idle-deepcore.json) |
 | Idle Defragmenter 95 | 381902 | [381902-idle-defragmenter-95.json](./381902-idle-defragmenter-95.json) |
 | Idle Demon Summoner | 389233 | [389233-idle-demon-summoner.json](./389233-idle-demon-summoner.json) |
+| Idle Desktop Marbles | 390337 | [390337-idle-desktop-marbles.json](./390337-idle-desktop-marbles.json) |
 | Idle Dessert Tycoon | 299452 | [299452-idle-dessert-tycoon.json](./299452-idle-dessert-tycoon.json) |
 | Idle Devils | 235851 | [235851-idle-devils.json](./235851-idle-devils.json) |
 | Idle Devils: New Character - Belial | 293848 | [293848-idle-devils-new-character-belial.json](./293848-idle-devils-new-character-belial.json) |
@@ -2822,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Torment: The Case of the Drawing Girl | 98315 | [98315-in-torment-the-case-of-the-drawing-girl.json](./98315-in-torment-the-case-of-the-drawing-girl.json) |
 | In Tran Sit | 184612 | [184612-in-tran-sit.json](./184612-in-tran-sit.json) |
 | In Truck Driving | 276647 | [276647-in-truck-driving.json](./276647-in-truck-driving.json) |
+| In Trusted Hands | 390345 | [390345-in-trusted-hands.json](./390345-in-trusted-hands.json) |
 | In Ukrainian Soil | 241276 | [241276-in-ukrainian-soil.json](./241276-in-ukrainian-soil.json) |
 | In Us | 399437 | [399437-in-us.json](./399437-in-us.json) |
 | In Vein | 181320 | [181320-in-vein.json](./181320-in-vein.json) |
