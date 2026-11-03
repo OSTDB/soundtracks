@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Felix Tennis | 45102 | [45102-baby-felix-tennis.json](./45102-baby-felix-tennis.json) |
 | Baby Felix's Activity Center | 200377 | [200377-baby-felixs-activity-center.json](./200377-baby-felixs-activity-center.json) |
 | Baby Felix's Shuffle Puck | 200375 | [200375-baby-felixs-shuffle-puck.json](./200375-baby-felixs-shuffle-puck.json) |
+| Baby Game Plan 0-3 | 379611 | [379611-baby-game-plan-0-3.json](./379611-baby-game-plan-0-3.json) |
 | Baby Ghost: Jump Away With Jewel | 175361 | [175361-baby-ghost-jump-away-with-jewel.json](./175361-baby-ghost-jump-away-with-jewel.json) |
 | Baby Goat Billy | 159826 | [159826-baby-goat-billy.json](./159826-baby-goat-billy.json) |
 | Baby Hands | 68834 | [68834-baby-hands.json](./68834-baby-hands.json) |
@@ -926,7 +927,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -16920,6 +16920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried Spirits | 383038 | [383038-buried-spirits.json](./383038-buried-spirits.json) |
 | Buried Stars | 137192 | [137192-buried-stars.json](./137192-buried-stars.json) |
 | Buried Tapes: The Cleaner | 365598 | [365598-buried-tapes-the-cleaner.json](./365598-buried-tapes-the-cleaner.json) |
+| Buried Tapes: The Parking | 379605 | [379605-buried-tapes-the-parking.json](./379605-buried-tapes-the-parking.json) |
 | Buried: An Interactive Story | 33689 | [33689-buried-an-interactive-story.json](./33689-buried-an-interactive-story.json) |
 | BuriedTown | 33786 | [33786-buriedtown.json](./33786-buriedtown.json) |
 | Buriki One | 28139 | [28139-buriki-one.json](./28139-buriki-one.json) |
