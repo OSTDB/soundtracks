@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrolance | 116929 | [116929-necrolance.json](./116929-necrolance.json) |
 | NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
 | Necrolepsy | 114384 | [114384-necrolepsy.json](./114384-necrolepsy.json) |
+| Necrologium | 372404 | [372404-necrologium.json](./372404-necrologium.json) |
 | Necrology | 381660 | [381660-necrology.json](./381660-necrology.json) |
 | Necromancer | 377196 | [377196-necromancer.json](./377196-necromancer.json) |
 | Necromancer | 76450 | [76450-necromancer.json](./76450-necromancer.json) |
@@ -2027,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekomew's Potty Trouble | 81921 | [81921-nekomews-potty-trouble.json](./81921-nekomews-potty-trouble.json) |
 | NekoMiko | 114367 | [114367-nekomiko.json](./114367-nekomiko.json) |
 | Nekomimi Days: 365 Days With You | 380167 | [380167-nekomimi-days-365-days-with-you.json](./380167-nekomimi-days-365-days-with-you.json) |
+| Nekomimi Destruction | 372712 | [372712-nekomimi-destruction.json](./372712-nekomimi-destruction.json) |
 | Nekomimi Nikki | 368053 | [368053-nekomimi-nikki.json](./368053-nekomimi-nikki.json) |
 | Nekomimi Vampire | 97777 | [97777-nekomimi-vampire.json](./97777-nekomimi-vampire.json) |
 | Nekomin Kittens Invasion | 351725 | [351725-nekomin-kittens-invasion.json](./351725-nekomin-kittens-invasion.json) |
