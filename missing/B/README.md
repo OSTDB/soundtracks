@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Journey: Into the unknown | 329167 | [329167-backrooms-journey-into-the-unknown.json](./329167-backrooms-journey-into-the-unknown.json) |
 | Backrooms Levels | 407821 | [407821-backrooms-levels.json](./407821-backrooms-levels.json) |
 | Backrooms Liminal Escape | 343301 | [343301-backrooms-liminal-escape.json](./343301-backrooms-liminal-escape.json) |
+| Backrooms Lost Dimension | 389353 | [389353-backrooms-lost-dimension.json](./389353-backrooms-lost-dimension.json) |
 | Backrooms Lost Runners | 364009 | [364009-backrooms-lost-runners.json](./364009-backrooms-lost-runners.json) |
 | Backrooms Mainframe | 234687 | [234687-backrooms-mainframe.json](./234687-backrooms-mainframe.json) |
 | Backrooms Manager: Together | 410982 | [410982-backrooms-manager-together.json](./410982-backrooms-manager-together.json) |
