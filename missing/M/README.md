@@ -9466,6 +9466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteoric VR | 207725 | [207725-meteoric-vr.json](./207725-meteoric-vr.json) |
 | Meteorite Defense Command | 101235 | [101235-meteorite-defense-command.json](./101235-meteorite-defense-command.json) |
 | Meteorite Destroyer | 104119 | [104119-meteorite-destroyer.json](./104119-meteorite-destroyer.json) |
+| Meteorite Fall | 372944 | [372944-meteorite-fall.json](./372944-meteorite-fall.json) |
 | Meteorite Miner | 250548 | [250548-meteorite-miner.json](./250548-meteorite-miner.json) |
 | Meteorite V Base | 191625 | [191625-meteorite-v-base.json](./191625-meteorite-v-base.json) |
 | Meteorite Z: The Apocalypse | 293136 | [293136-meteorite-z-the-apocalypse.json](./293136-meteorite-z-the-apocalypse.json) |
@@ -11363,6 +11364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Snares: Alice's Journey | 22427 | [22427-mind-snares-alices-journey.json](./22427-mind-snares-alices-journey.json) |
 | Mind Space | 171469 | [171469-mind-space.json](./171469-mind-space.json) |
 | Mind Spheres | 32797 | [32797-mind-spheres.json](./32797-mind-spheres.json) |
+| Mind Split | 372951 | [372951-mind-split.json](./372951-mind-split.json) |
 | Mind Storm | 308338 | [308338-mind-storm.json](./308338-mind-storm.json) |
 | Mind Sweeper VR | 81076 | [81076-mind-sweeper-vr.json](./81076-mind-sweeper-vr.json) |
 | Mind Switch | 120786 | [120786-mind-switch.json](./120786-mind-switch.json) |
@@ -14348,6 +14350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Simulator: Brokeville | 379601 | [379601-money-simulator-brokeville.json](./379601-money-simulator-brokeville.json) |
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
+| Money Tree | 373237 | [373237-money-tree.json](./373237-money-tree.json) |
 | Money Tree | 405322 | [405322-money-tree.json](./405322-money-tree.json) |
 | Money Under the Bed | 392839 | [392839-money-under-the-bed.json](./392839-money-under-the-bed.json) |
 | Money Wash Tycoon | 358659 | [358659-money-wash-tycoon.json](./358659-money-wash-tycoon.json) |
@@ -15342,6 +15345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonsterCrafter | 89202 | [89202-monstercrafter.json](./89202-monstercrafter.json) |
 | MonsterEnd | 335053 | [335053-monsterend.json](./335053-monsterend.json) |
 | Monsterest | 334033 | [334033-monsterest.json](./334033-monsterest.json) |
+| MonsterGirl 3: Wukong | 372964 | [372964-monstergirl-3-wukong.json](./372964-monstergirl-3-wukong.json) |
 | Monstergirl Hunters | 389842 | [389842-monstergirl-hunters.json](./389842-monstergirl-hunters.json) |
 | Monsterhearts 2 | 138699 | [138699-monsterhearts-2.json](./138699-monsterhearts-2.json) |
 | Monsterium | 357360 | [357360-monsterium.json](./357360-monsterium.json) |
@@ -16593,6 +16597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motel Business Simulator | 367733 | [367733-motel-business-simulator.json](./367733-motel-business-simulator.json) |
 | Motel Life Simulator | 219633 | [219633-motel-life-simulator.json](./219633-motel-life-simulator.json) |
 | Motel Manager Simulator | 268254 | [268254-motel-manager-simulator.json](./268254-motel-manager-simulator.json) |
+| Motel Nightmares | 372965 | [372965-motel-nightmares.json](./372965-motel-nightmares.json) |
 | Motel Owner Simulator | 344289 | [344289-motel-owner-simulator.json](./344289-motel-owner-simulator.json) |
 | Motel Simulator | 211165 | [211165-motel-simulator.json](./211165-motel-simulator.json) |
 | Motel Snooze | 135800 | [135800-motel-snooze.json](./135800-motel-snooze.json) |
@@ -18999,6 +19004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bloody Weekend | 219637 | [219637-my-bloody-weekend.json](./219637-my-bloody-weekend.json) |
 | My Body Coach | 67354 | [67354-my-body-coach.json](./67354-my-body-coach.json) |
 | My Bones Remastered | 121192 | [121192-my-bones-remastered.json](./121192-my-bones-remastered.json) |
+| My Boo Album | 373238 | [373238-my-boo-album.json](./373238-my-boo-album.json) |
 | My Boris Neighbor | 95809 | [95809-my-boris-neighbor.json](./95809-my-boris-neighbor.json) |
 | My Boss Is Scaring Me | 341346 | [341346-my-boss-is-scaring-me.json](./341346-my-boss-is-scaring-me.json) |
 | My boss is weird | 164219 | [164219-my-boss-is-weird.json](./164219-my-boss-is-weird.json) |
