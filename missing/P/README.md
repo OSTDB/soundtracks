@@ -3691,6 +3691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggy's Post | 365093 | [365093-peggys-post.json](./365093-peggys-post.json) |
 | PegIdle | 293056 | [293056-pegidle.json](./293056-pegidle.json) |
 | PegIt | 92873 | [92873-pegit.json](./92873-pegit.json) |
+| Peglotto! | 389839 | [389839-peglotto.json](./389839-peglotto.json) |
 | PegPigeon | 405549 | [405549-pegpigeon.json](./405549-pegpigeon.json) |
 | Pegs of Hell | 416008 | [416008-pegs-of-hell.json](./416008-pegs-of-hell.json) |
 | Pegs X Stickers | 399929 | [399929-pegs-x-stickers.json](./399929-pegs-x-stickers.json) |
@@ -12613,6 +12614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pounce | 80231 | [80231-pounce.json](./80231-pounce.json) |
 | Pounce and the Twin Trees | 295349 | [295349-pounce-and-the-twin-trees.json](./295349-pounce-and-the-twin-trees.json) |
 | Pounce Cat | 212766 | [212766-pounce-cat.json](./212766-pounce-cat.json) |
+| Pound for Pound | 389836 | [389836-pound-for-pound.json](./389836-pound-for-pound.json) |
 | Pound For Pound | 40400 | [40400-pound-for-pound.json](./40400-pound-for-pound.json) |
 | Pound of Flesh | 75714 | [75714-pound-of-flesh.json](./75714-pound-of-flesh.json) |
 | Pound of Ground | 16030 | [16030-pound-of-ground.json](./16030-pound-of-ground.json) |
