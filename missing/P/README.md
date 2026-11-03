@@ -9059,6 +9059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants on Fire | 408106 | [408106-plants-on-fire.json](./408106-plants-on-fire.json) |
 | Plants vs Animals | 298381 | [298381-plants-vs-animals.json](./298381-plants-vs-animals.json) |
 | Plants vs Zombies Expansion | 366941 | [366941-plants-vs-zombies-expansion.json](./366941-plants-vs-zombies-expansion.json) |
+| Plants vs Zombies: DLC Edition Mod | 351501 | [351501-plants-vs-zombies-dlc-edition-mod.json](./351501-plants-vs-zombies-dlc-edition-mod.json) |
 | Plants vs Zombies: Garden Warfare - Garden Variety | 303743 | [303743-plants-vs-zombies-garden-warfare-garden-variety.json](./303743-plants-vs-zombies-garden-warfare-garden-variety.json) |
 | Plants vs Zombies: Neighborhood Defense | 336549 | [336549-plants-vs-zombies-neighborhood-defense.json](./336549-plants-vs-zombies-neighborhood-defense.json) |
 | Plants vs. SiIvaGunner | 308024 | [308024-plants-vs-siivagunner.json](./308024-plants-vs-siivagunner.json) |
@@ -11121,6 +11122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Fever | 89500 | [89500-poker-fever.json](./89500-poker-fever.json) |
 | Poker for Dummies | 64983 | [64983-poker-for-dummies.json](./64983-poker-for-dummies.json) |
 | Poker France | 402345 | [402345-poker-france.json](./402345-poker-france.json) |
+| Poker Game: World Poker Club | 351351 | [351351-poker-game-world-poker-club.json](./351351-poker-game-world-poker-club.json) |
 | Poker Hands | 147993 | [147993-poker-hands.json](./147993-poker-hands.json) |
 | Poker HD | 88440 | [88440-poker-hd.json](./88440-poker-hd.json) |
 | Poker Kingdom | 232360 | [232360-poker-kingdom.json](./232360-poker-kingdom.json) |
@@ -15140,6 +15142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project First Contact | 257018 | [257018-project-first-contact.json](./257018-project-first-contact.json) |
 | Project First Contact | 47985 | [47985-project-first-contact.json](./47985-project-first-contact.json) |
 | Project Fist | 84806 | [84806-project-fist.json](./84806-project-fist.json) |
+| Project Fleet | 351362 | [351362-project-fleet.json](./351362-project-fleet.json) |
 | Project Float | 332206 | [332206-project-float.json](./332206-project-float.json) |
 | Project FNZ | 114641 | [114641-project-fnz.json](./114641-project-fnz.json) |
 | Project Foxx | 405285 | [405285-project-foxx.json](./405285-project-foxx.json) |
@@ -16804,6 +16807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet Pals | 381413 | [381413-puppet-pals.json](./381413-puppet-pals.json) |
 | Puppet Saurus | 330793 | [330793-puppet-saurus.json](./330793-puppet-saurus.json) |
 | Puppet Seed | 349954 | [349954-puppet-seed.json](./349954-puppet-seed.json) |
+| Puppet Show VR | 351492 | [351492-puppet-show-vr.json](./351492-puppet-show-vr.json) |
 | Puppet Story | 123886 | [123886-puppet-story.json](./123886-puppet-story.json) |
 | Puppet Tale | 242814 | [242814-puppet-tale.json](./242814-puppet-tale.json) |
 | Puppet Team | 332982 | [332982-puppet-team.json](./332982-puppet-team.json) |
