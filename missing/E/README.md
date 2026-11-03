@@ -2497,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eliss | 29052 | [29052-eliss.json](./29052-eliss.json) |
 | Eliss Infinity | 41500 | [41500-eliss-infinity.json](./41500-eliss-infinity.json) |
 | Elissa Ⅰ: Body in the bedroom | 323435 | [323435-elissa-i-body-in-the-bedroom.json](./323435-elissa-i-body-in-the-bedroom.json) |
+| Elite | 350143 | [350143-elite.json](./350143-elite.json) |
 | Elite Archery | 111876 | [111876-elite-archery.json](./111876-elite-archery.json) |
 | Elite Beasts | 381628 | [381628-elite-beasts.json](./381628-elite-beasts.json) |
 | Elite Beat Agents | 9109 | [9109-elite-beat-agents.json](./9109-elite-beat-agents.json) |
@@ -6271,6 +6272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eva Reynes: Redemption | 185407 | [185407-eva-reynes-redemption.json](./185407-eva-reynes-redemption.json) |
 | Eva: Final Mission | 220548 | [220548-eva-final-mission.json](./220548-eva-final-mission.json) |
 | Eva's Hook | 339775 | [339775-evas-hook.json](./339775-evas-hook.json) |
+| Evac | 350312 | [350312-evac.json](./350312-evac.json) |
 | Evac | 96923 | [96923-evac.json](./96923-evac.json) |
 | Evac Bay 09 | 373058 | [373058-evac-bay-09.json](./373058-evac-bay-09.json) |
 | Evac Point | 389541 | [389541-evac-point.json](./389541-evac-point.json) |
