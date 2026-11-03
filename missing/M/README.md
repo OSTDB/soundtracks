@@ -12692,6 +12692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Movement | 156825 | [156825-mirror-movement.json](./156825-mirror-movement.json) |
 | Mirror Mysteries | 17204 | [17204-mirror-mysteries.json](./17204-mirror-mysteries.json) |
 | Mirror Mysteries 2: Forgotten Kingdoms | 36333 | [36333-mirror-mysteries-2-forgotten-kingdoms.json](./36333-mirror-mysteries-2-forgotten-kingdoms.json) |
+| Mirror of Heaven | 380979 | [380979-mirror-of-heaven.json](./380979-mirror-of-heaven.json) |
 | Mirror Party | 190914 | [190914-mirror-party.json](./190914-mirror-party.json) |
 | Mirror Quest Dog and Cat | 368566 | [368566-mirror-quest-dog-and-cat.json](./368566-mirror-quest-dog-and-cat.json) |
 | Mirror Shoot | 193478 | [193478-mirror-shoot.json](./193478-mirror-shoot.json) |
@@ -18707,6 +18708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutrix | 253449 | [253449-mutrix.json](./253449-mutrix.json) |
 | Mutsu Tonohohon | 4023 | [4023-mutsu-tonohohon.json](./4023-mutsu-tonohohon.json) |
 | Mutsu: Water Looper Mutsu | 49709 | [49709-mutsu-water-looper-mutsu.json](./49709-mutsu-water-looper-mutsu.json) |
+| Mutter | 380981 | [380981-mutter.json](./380981-mutter.json) |
 | Mutton | 384882 | [384882-mutton.json](./384882-mutton.json) |
 | Mutton for Punishment 3 | 253269 | [253269-mutton-for-punishment-3.json](./253269-mutton-for-punishment-3.json) |
 | Mutual Assured Destruction Simulator | 326389 | [326389-mutual-assured-destruction-simulator.json](./326389-mutual-assured-destruction-simulator.json) |
