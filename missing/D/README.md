@@ -4643,6 +4643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debtors' Club | 267807 | [267807-debtors-club.json](./267807-debtors-club.json) |
 | Debts and Dungeons | 389479 | [389479-debts-and-dungeons.json](./389479-debts-and-dungeons.json) |
 | Debuff | 76502 | [76502-debuff.json](./76502-debuff.json) |
+| Debuff Party | 379824 | [379824-debuff-party.json](./379824-debuff-party.json) |
 | Debug | 190097 | [190097-debug.json](./190097-debug.json) |
 | Debug | 417988 | [417988-debug.json](./417988-debug.json) |
 | Debug Girl | 275744 | [275744-debug-girl.json](./275744-debug-girl.json) |
@@ -16034,6 +16035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Delivery Simulator | 286211 | [286211-drone-delivery-simulator.json](./286211-drone-delivery-simulator.json) |
 | Drone Fight | 54776 | [54776-drone-fight.json](./54776-drone-fight.json) |
 | Drone Fighters | 29049 | [29049-drone-fighters.json](./29049-drone-fighters.json) |
+| Drone Fire | 380017 | [380017-drone-fire.json](./380017-drone-fire.json) |
 | Drone Flight Simulator Online | 274379 | [274379-drone-flight-simulator-online.json](./274379-drone-flight-simulator-online.json) |
 | Drone Gladiator | 154057 | [154057-drone-gladiator.json](./154057-drone-gladiator.json) |
 | Drone Hero | 38750 | [38750-drone-hero.json](./38750-drone-hero.json) |
