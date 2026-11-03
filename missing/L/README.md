@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LaserAge | 342590 | [342590-laserage.json](./342590-laserage.json) |
 | Laserbirds | 217986 | [217986-laserbirds.json](./217986-laserbirds.json) |
 | Laserboy | 182357 | [182357-laserboy.json](./182357-laserboy.json) |
+| Laserboy VR | 364206 | [364206-laserboy-vr.json](./364206-laserboy-vr.json) |
 | Laserbreak | 57732 | [57732-laserbreak.json](./57732-laserbreak.json) |
 | Laserbreak 2 | 57727 | [57727-laserbreak-2.json](./57727-laserbreak-2.json) |
 | Laserbreak: Esacpe | 57729 | [57729-laserbreak-esacpe.json](./57729-laserbreak-esacpe.json) |
