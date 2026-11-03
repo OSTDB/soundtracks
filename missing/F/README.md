@@ -5160,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find El Chupacabra | 359393 | [359393-find-el-chupacabra.json](./359393-find-el-chupacabra.json) |
 | Find Exit | 190024 | [190024-find-exit.json](./190024-find-exit.json) |
 | Find Food | 246329 | [246329-find-food.json](./246329-find-food.json) |
+| Find Hidden Objects - Spot It! | 387469 | [387469-find-hidden-objects-spot-it.json](./387469-find-hidden-objects-spot-it.json) |
 | Find Him | 292771 | [292771-find-him.json](./292771-find-him.json) |
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
 | Find It - Tap the Different | 55102 | [55102-find-it-tap-the-different.json](./55102-find-it-tap-the-different.json) |
@@ -10293,7 +10294,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Seasons - A fan-created Avatar Game | 143730 | [143730-four-seasons-a-fan-created-avatar-game.json](./143730-four-seasons-a-fan-created-avatar-game.json) |
 | Four Seasons Around the World: Autumn in France | 341616 | [341616-four-seasons-around-the-world-autumn-in-france.json](./341616-four-seasons-around-the-world-autumn-in-france.json) |
 | Four Seasons Around the World: Winter in New York | 294389 | [294389-four-seasons-around-the-world-winter-in-new-york.json](./294389-four-seasons-around-the-world-winter-in-new-york.json) |
+| Four Seasons: Autumn | 387427 | [387427-four-seasons-autumn.json](./387427-four-seasons-autumn.json) |
 | Four seasons: Spring | 386808 | [386808-four-seasons-spring.json](./386808-four-seasons-spring.json) |
+| Four Seasons: Summer | 387429 | [387429-four-seasons-summer.json](./387429-four-seasons-summer.json) |
+| Four Seasons: Winter | 387428 | [387428-four-seasons-winter.json](./387428-four-seasons-winter.json) |
 | Four Second Firestorm | 387918 | [387918-four-second-firestorm.json](./387918-four-second-firestorm.json) |
 | Four Second Forever | 302121 | [302121-four-second-forever.json](./302121-four-second-forever.json) |
 | Four Second Frenzy | 196796 | [196796-four-second-frenzy.json](./196796-four-second-frenzy.json) |
