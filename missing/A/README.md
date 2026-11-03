@@ -5596,6 +5596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akasha | 250512 | [250512-akasha.json](./250512-akasha.json) |
 | Akasha Dreams | 257537 | [257537-akasha-dreams.json](./257537-akasha-dreams.json) |
 | Akashi | 229379 | [229379-akashi.json](./229379-akashi.json) |
+| Akashic Slingshot | 359867 | [359867-akashic-slingshot.json](./359867-akashic-slingshot.json) |
 | Akashicforce | 116199 | [116199-akashicforce.json](./116199-akashicforce.json) |
 | Akashicforce: Inundation of Brigade | 124441 | [124441-akashicforce-inundation-of-brigade.json](./124441-akashicforce-inundation-of-brigade.json) |
 | Akashicverse: Malicious Wake | 124442 | [124442-akashicverse-malicious-wake.json](./124442-akashicverse-malicious-wake.json) |
@@ -6569,6 +6570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Maze | 156596 | [156596-alien-maze.json](./156596-alien-maze.json) |
 | Alien Mind | 72153 | [72153-alien-mind.json](./72153-alien-mind.json) |
 | Alien Monopoly | 122177 | [122177-alien-monopoly.json](./122177-alien-monopoly.json) |
+| Alien Morgue | 359870 | [359870-alien-morgue.json](./359870-alien-morgue.json) |
 | Alien Nah'Topsy | 289888 | [289888-alien-nahtopsy.json](./289888-alien-nahtopsy.json) |
 | Alien Nations | 11259 | [11259-alien-nations.json](./11259-alien-nations.json) |
 | Alien Nations Mission Pack | 73810 | [73810-alien-nations-mission-pack.json](./73810-alien-nations-mission-pack.json) |
@@ -14121,6 +14123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendshaft and Endless Shaft | 144174 | [144174-ascendshaft-and-endless-shaft.json](./144174-ascendshaft-and-endless-shaft.json) |
 | Ascension | 387441 | [387441-ascension.json](./387441-ascension.json) |
 | Ascension | 95408 | [95408-ascension.json](./95408-ascension.json) |
+| Ascension Gamebook | 359702 | [359702-ascension-gamebook.json](./359702-ascension-gamebook.json) |
 | Ascension to the Throne | 27467 | [27467-ascension-to-the-throne.json](./27467-ascension-to-the-throne.json) |
 | Ascension to the Throne: Valkyrie | 27455 | [27455-ascension-to-the-throne-valkyrie.json](./27455-ascension-to-the-throne-valkyrie.json) |
 | Ascension Trail | 392696 | [392696-ascension-trail.json](./392696-ascension-trail.json) |
