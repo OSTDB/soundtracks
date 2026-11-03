@@ -3043,6 +3043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooga Booga: Troubles in Time | 309965 | [309965-ooga-booga-troubles-in-time.json](./309965-ooga-booga-troubles-in-time.json) |
 | Ooga Ooga! | 199919 | [199919-ooga-ooga.json](./199919-ooga-ooga.json) |
 | Oogies Chicken Quest | 399170 | [399170-oogies-chicken-quest.json](./399170-oogies-chicken-quest.json) |
+| OoglyBoogly | 396278 | [396278-ooglyboogly.json](./396278-ooglyboogly.json) |
 | Oogy: Can You Help | 190086 | [190086-oogy-can-you-help.json](./190086-oogy-can-you-help.json) |
 | Ooh, Aah, & You: Fetch-a-Fruit | 98316 | [98316-ooh-aah-and-you-fetch-a-fruit.json](./98316-ooh-aah-and-you-fetch-a-fruit.json) |
 | Ookami Game | 151847 | [151847-ookami-game.json](./151847-ookami-game.json) |
