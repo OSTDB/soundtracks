@@ -1028,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offworld Trading Company: The Patron and the Patriot | 124817 | [124817-offworld-trading-company-the-patron-and-the-patriot.json](./124817-offworld-trading-company-the-patron-and-the-patriot.json) |
 | Oftalmogarden | 189176 | [189176-oftalmogarden.json](./189176-oftalmogarden.json) |
 | Ofuxë the Guardian of Nature | 291216 | [291216-ofuxe-the-guardian-of-nature.json](./291216-ofuxe-the-guardian-of-nature.json) |
+| Og Frog Fr | 376418 | [376418-og-frog-fr.json](./376418-og-frog-fr.json) |
 | OG Fun Monke Horror | 382754 | [382754-og-fun-monke-horror.json](./382754-og-fun-monke-horror.json) |
 | OG Memory: Fall 2K23 | 279492 | [279492-og-memory-fall-2k23.json](./279492-og-memory-fall-2k23.json) |
 | OG Memory: Kira Maus | 279455 | [279455-og-memory-kira-maus.json](./279455-og-memory-kira-maus.json) |
@@ -3172,6 +3173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Net Battle | 343861 | [343861-open-net-battle.json](./343861-open-net-battle.json) |
 | Open Ocarina | 271820 | [271820-open-ocarina.json](./271820-open-ocarina.json) |
 | Open Ocean | 119659 | [119659-open-ocean.json](./119659-open-ocean.json) |
+| Open or Die | 376624 | [376624-open-or-die.json](./376624-open-or-die.json) |
 | Open Puzzle Box | 59035 | [59035-open-puzzle-box.json](./59035-open-puzzle-box.json) |
 | Open Rails | 89985 | [89985-open-rails.json](./89985-open-rails.json) |
 | Open Realm of Stars | 176169 | [176169-open-realm-of-stars.json](./176169-open-realm-of-stars.json) |
