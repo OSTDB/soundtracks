@@ -9417,6 +9417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Racing Bundle 4 in 1 | 381798 | [381798-dirt-racing-bundle-4-in-1.json](./381798-dirt-racing-bundle-4-in-1.json) |
 | Dirt Racing Bundle Off Road & Truck | 409667 | [409667-dirt-racing-bundle-off-road-and-truck.json](./409667-dirt-racing-bundle-off-road-and-truck.json) |
 | Dirt Racing Bundle Rally & Truck | 370434 | [370434-dirt-racing-bundle-rally-and-truck.json](./370434-dirt-racing-bundle-rally-and-truck.json) |
+| Dirt Racing Bundle WildTrax & Rally | 378755 | [378755-dirt-racing-bundle-wildtrax-and-rally.json](./378755-dirt-racing-bundle-wildtrax-and-rally.json) |
 | Dirt Racing Mobile 3D | 101493 | [101493-dirt-racing-mobile-3d.json](./101493-dirt-racing-mobile-3d.json) |
 | Dirt Rally | 9928 | [9928-dirt-rally.json](./9928-dirt-rally.json) |
 | Dirt Rally 2.0 | 110411 | [110411-dirt-rally-2-0.json](./110411-dirt-rally-2-0.json) |
@@ -10371,6 +10372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive Alert: Matt's Version | 69072 | [69072-dive-alert-matts-version.json](./69072-dive-alert-matts-version.json) |
 | Dive Bar Superstars | 187695 | [187695-dive-bar-superstars.json](./187695-dive-bar-superstars.json) |
 | Dive Bomber | 68462 | [68462-dive-bomber.json](./68462-dive-bomber.json) |
+| Dive Expedition | 378953 | [378953-dive-expedition.json](./378953-dive-expedition.json) |
 | Dive Expedition: Complete Edition | 385197 | [385197-dive-expedition-complete-edition.json](./385197-dive-expedition-complete-edition.json) |
 | Dive Expedition: Plane Wreck DLC | 378971 | [378971-dive-expedition-plane-wreck-dlc.json](./378971-dive-expedition-plane-wreck-dlc.json) |
 | Dive Expedition: Sunken Ship DLC | 378970 | [378970-dive-expedition-sunken-ship-dlc.json](./378970-dive-expedition-sunken-ship-dlc.json) |
