@@ -3612,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Romance Club | 73471 | [73471-casual-romance-club.json](./73471-casual-romance-club.json) |
 | Casual Spider Solitaire | 84134 | [84134-casual-spider-solitaire.json](./84134-casual-spider-solitaire.json) |
 | Casual Sport Series: Badminton | 342783 | [342783-casual-sport-series-badminton.json](./342783-casual-sport-series-badminton.json) |
+| Casual Sport Series: Boxing | 395649 | [395649-casual-sport-series-boxing.json](./395649-casual-sport-series-boxing.json) |
 | Casual Sport Series: Racket Sports Bundle | 396915 | [396915-casual-sport-series-racket-sports-bundle.json](./396915-casual-sport-series-racket-sports-bundle.json) |
 | Casual Sport Series: Tennis | 329440 | [329440-casual-sport-series-tennis.json](./329440-casual-sport-series-tennis.json) |
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
@@ -9967,6 +9968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clothing Boutique Simulator: Store Manager | 370802 | [370802-clothing-boutique-simulator-store-manager.json](./370802-clothing-boutique-simulator-store-manager.json) |
 | Clothing Store Simulator | 300492 | [300492-clothing-store-simulator.json](./300492-clothing-store-simulator.json) |
 | Clothing Store Simulator | 381799 | [381799-clothing-store-simulator.json](./381799-clothing-store-simulator.json) |
+| Clothing Store Simulator | 395637 | [395637-clothing-store-simulator.json](./395637-clothing-store-simulator.json) |
 | Clotilde Soffritti in Never Double Park your Spaceship | 217876 | [217876-clotilde-soffritti-in-never-double-park-your-spaceship.json](./217876-clotilde-soffritti-in-never-double-park-your-spaceship.json) |
 | Clotilde Soffritti in: Never Buy a Used Spaceship | 217875 | [217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json](./217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json) |
 | Clou: Roll & Heist | 195644 | [195644-clou-roll-and-heist.json](./195644-clou-roll-and-heist.json) |
@@ -14774,6 +14776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy Gold Round-Up | 103867 | [103867-cowboy-gold-round-up.json](./103867-cowboy-gold-round-up.json) |
 | Cowboy Hell | 207656 | [207656-cowboy-hell.json](./207656-cowboy-hell.json) |
 | Cowboy in Space | 345382 | [345382-cowboy-in-space.json](./345382-cowboy-in-space.json) |
+| Cowboy Kart | 395651 | [395651-cowboy-kart.json](./395651-cowboy-kart.json) |
 | Cowboy Kid | 48142 | [48142-cowboy-kid.json](./48142-cowboy-kid.json) |
 | Cowboy Kidz | 13527 | [13527-cowboy-kidz.json](./13527-cowboy-kidz.json) |
 | Cowboy Life Simulator | 123528 | [123528-cowboy-life-simulator.json](./123528-cowboy-life-simulator.json) |
