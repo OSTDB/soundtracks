@@ -3394,6 +3394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Up North | 106998 | [106998-get-up-north.json](./106998-get-up-north.json) |
 | Get Witchy | 184696 | [184696-get-witchy.json](./184696-get-witchy.json) |
 | Get X, Avoid Y | 128604 | [128604-get-x-avoid-y.json](./128604-get-x-avoid-y.json) |
+| Get Your Free Christmas Tree | 374011 | [374011-get-your-free-christmas-tree.json](./374011-get-your-free-christmas-tree.json) |
 | Get Your Gun, Dragonfly | 375330 | [375330-get-your-gun-dragonfly.json](./375330-get-your-gun-dragonfly.json) |
 | Get Your Sheep Together | 195160 | [195160-get-your-sheep-together.json](./195160-get-your-sheep-together.json) |
 | Get Your Tentacles Off My Waifu | 244765 | [244765-get-your-tentacles-off-my-waifu.json](./244765-get-your-tentacles-off-my-waifu.json) |
