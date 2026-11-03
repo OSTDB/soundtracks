@@ -16105,6 +16105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Emotion 6 | 144634 | [144634-psychic-emotion-6.json](./144634-psychic-emotion-6.json) |
 | Psychic Force | 20140 | [20140-psychic-force.json](./20140-psychic-force.json) |
 | Psychic Force Complete | 71790 | [71790-psychic-force-complete.json](./71790-psychic-force-complete.json) |
+| Psychic Force EX | 360324 | [360324-psychic-force-ex.json](./360324-psychic-force-ex.json) |
 | Psychic Force Puzzle Taisen | 69133 | [69133-psychic-force-puzzle-taisen.json](./69133-psychic-force-puzzle-taisen.json) |
 | Psychic Guardian Super Splendor | 155834 | [155834-psychic-guardian-super-splendor.json](./155834-psychic-guardian-super-splendor.json) |
 | Psychic Idle | 281288 | [281288-psychic-idle.json](./281288-psychic-idle.json) |
@@ -16309,6 +16310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pucca's Kisses Game | 65980 | [65980-puccas-kisses-game.json](./65980-puccas-kisses-game.json) |
 | Pucca's Restaurant | 65476 | [65476-puccas-restaurant.json](./65476-puccas-restaurant.json) |
 | Pucchin Puzzle | 288173 | [288173-pucchin-puzzle.json](./288173-pucchin-puzzle.json) |
+| Puchaina | 360299 | [360299-puchaina.json](./360299-puchaina.json) |
 | Puchi Carat | 37322 | [37322-puchi-carat.json](./37322-puchi-carat.json) |
 | Puchi Eva: Evangelion@Game | 59826 | [59826-puchi-eva-evangelion-game.json](./59826-puchi-eva-evangelion-game.json) |
 | Puchi Nikki | 201840 | [201840-puchi-nikki.json](./201840-puchi-nikki.json) |
