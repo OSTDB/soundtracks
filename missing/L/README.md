@@ -2839,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion Otherworld | 284428 | [284428-legion-otherworld.json](./284428-legion-otherworld.json) |
 | Legion Saga II | 383573 | [383573-legion-saga-ii.json](./383573-legion-saga-ii.json) |
 | Legion Saga III | 385746 | [385746-legion-saga-iii.json](./385746-legion-saga-iii.json) |
+| Legion Saga R | 385881 | [385881-legion-saga-r.json](./385881-legion-saga-r.json) |
 | Legion Saga Remastered | 383568 | [383568-legion-saga-remastered.json](./383568-legion-saga-remastered.json) |
 | Legion Tale | 55589 | [55589-legion-tale.json](./55589-legion-tale.json) |
 | Legion TD 2 | 32680 | [32680-legion-td-2.json](./32680-legion-td-2.json) |
