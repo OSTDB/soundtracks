@@ -3984,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Cat: Jigsaw Puzzles | 32122 | [32122-kitty-cat-jigsaw-puzzles.json](./32122-kitty-cat-jigsaw-puzzles.json) |
 | Kitty Catsanova | 101694 | [101694-kitty-catsanova.json](./101694-kitty-catsanova.json) |
 | Kitty Cauldron | 375773 | [375773-kitty-cauldron.json](./375773-kitty-cauldron.json) |
+| Kitty Claw | 373120 | [373120-kitty-claw.json](./373120-kitty-claw.json) |
 | Kitty Collapse | 303614 | [303614-kitty-collapse.json](./303614-kitty-collapse.json) |
 | Kitty Curling | 180770 | [180770-kitty-curling.json](./180770-kitty-curling.json) |
 | Kitty Death Room | 221408 | [221408-kitty-death-room.json](./221408-kitty-death-room.json) |
