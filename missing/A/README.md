@@ -2923,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Victoriam | 258106 | [258106-ad-victoriam.json](./258106-ad-victoriam.json) |
 | Ad Wars | 96242 | [96242-ad-wars.json](./96242-ad-wars.json) |
 | AD&D Dark Sun Online: Crimson Sands | 71724 | [71724-ad-and-d-dark-sun-online-crimson-sands.json](./71724-ad-and-d-dark-sun-online-crimson-sands.json) |
+| Ada | 375994 | [375994-ada.json](./375994-ada.json) |
 | Ada Towers | 83493 | [83493-ada-towers.json](./83493-ada-towers.json) |
 | ADA: Além d' Aventura | 156950 | [156950-ada-alem-d-aventura.json](./156950-ada-alem-d-aventura.json) |
 | ADAC: The Simulation | 76623 | [76623-adac-the-simulation.json](./76623-adac-the-simulation.json) |
@@ -5883,6 +5884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alcatraz: A Fuga Impossível | 218835 | [218835-alcatraz-a-fuga-impossivel.json](./218835-alcatraz-a-fuga-impossivel.json) |
 | Alcatraz: Prison Escape | 27452 | [27452-alcatraz-prison-escape.json](./27452-alcatraz-prison-escape.json) |
 | Alcatraz: VR Escape Room | 29938 | [29938-alcatraz-vr-escape-room.json](./29938-alcatraz-vr-escape-room.json) |
+| Alcazar | 375782 | [375782-alcazar.json](./375782-alcazar.json) |
 | Alcazar | 86184 | [86184-alcazar.json](./86184-alcazar.json) |
 | Alcazar: The Forgotten Fortress | 12248 | [12248-alcazar-the-forgotten-fortress.json](./12248-alcazar-the-forgotten-fortress.json) |
 | Alchademy | 186612 | [186612-alchademy.json](./186612-alchademy.json) |
@@ -6934,6 +6936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Motors Racing Simulator | 395221 | [395221-all-motors-racing-simulator.json](./395221-all-motors-racing-simulator.json) |
 | All My Friends Are Frogs | 183375 | [183375-all-my-friends-are-frogs.json](./183375-all-my-friends-are-frogs.json) |
 | All My Gods | 34406 | [34406-all-my-gods.json](./34406-all-my-gods.json) |
+| All My Heart, Banjo | 375776 | [375776-all-my-heart-banjo.json](./375776-all-my-heart-banjo.json) |
 | All My Neighbors Are Dead | 404623 | [404623-all-my-neighbors-are-dead.json](./404623-all-my-neighbors-are-dead.json) |
 | All New Origins | 283907 | [283907-all-new-origins.json](./283907-all-new-origins.json) |
 | All New Ultimate Pub Quiz 2008 | 320900 | [320900-all-new-ultimate-pub-quiz-2008.json](./320900-all-new-ultimate-pub-quiz-2008.json) |
@@ -8580,6 +8583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Outland Village | 327728 | [327728-an-outland-village.json](./327728-an-outland-village.json) |
 | An RPG That Is About Rabbits | 409135 | [409135-an-rpg-that-is-about-rabbits.json](./409135-an-rpg-that-is-about-rabbits.json) |
 | An Un-epic story: The adventure of Enki and Tiny Freddie | 174093 | [174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json](./174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json) |
+| An Unexpected Arrival | 376160 | [376160-an-unexpected-arrival.json](./376160-an-unexpected-arrival.json) |
 | An Unfinished Game | 318451 | [318451-an-unfinished-game.json](./318451-an-unfinished-game.json) |
 | An unfolding Adventure | 184795 | [184795-an-unfolding-adventure.json](./184795-an-unfolding-adventure.json) |
 | An Uninvited Guest | 195546 | [195546-an-uninvited-guest.json](./195546-an-uninvited-guest.json) |
@@ -13516,6 +13520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aron's Adventure | 117147 | [117147-arons-adventure.json](./117147-arons-adventure.json) |
 | Aron's Adventure: Magic Reborn | 277355 | [277355-arons-adventure-magic-reborn.json](./277355-arons-adventure-magic-reborn.json) |
 | Aron's Gift | 96100 | [96100-arons-gift.json](./96100-arons-gift.json) |
+| Arondight | 375993 | [375993-arondight.json](./375993-arondight.json) |
 | Arosia | 150954 | [150954-arosia.json](./150954-arosia.json) |
 | Around the Block | 390791 | [390791-around-the-block.json](./390791-around-the-block.json) |
 | Around the Fire | 157166 | [157166-around-the-fire.json](./157166-around-the-fire.json) |
@@ -15682,6 +15687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Resleriana: The Red Alchemist & the White Guardian - Digital Deluxe Edition | 365557 | [365557-atelier-resleriana-the-red-alchemist-and-the-white-guardian-digital-deluxe-edition.json](./365557-atelier-resleriana-the-red-alchemist-and-the-white-guardian-digital-deluxe-edition.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian - High-Difficulty Dungeon "Backwards-Ticking Clock Workshop" | 375159 | [375159-atelier-resleriana-the-red-alchemist-and-the-white-guardian-high-difficulty-dungeon-backwards-ticking-clock-workshop.json](./375159-atelier-resleriana-the-red-alchemist-and-the-white-guardian-high-difficulty-dungeon-backwards-ticking-clock-workshop.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian - Recipe Expansion Pack "The Essence of Alchemy" | 375161 | [375161-atelier-resleriana-the-red-alchemist-and-the-white-guardian-recipe-expansion-pack-the-essence-of-alchemy.json](./375161-atelier-resleriana-the-red-alchemist-and-the-white-guardian-recipe-expansion-pack-the-essence-of-alchemy.json) |
+| Atelier Resleriana: The Red Alchemist & The White Guardian - Seasons Pass | 375770 | [375770-atelier-resleriana-the-red-alchemist-and-the-white-guardian-seasons-pass.json](./375770-atelier-resleriana-the-red-alchemist-and-the-white-guardian-seasons-pass.json) |
 | Atelier Resleriana: The Red Alchemist & the White Guardian - Ultimate Edition | 365556 | [365556-atelier-resleriana-the-red-alchemist-and-the-white-guardian-ultimate-edition.json](./365556-atelier-resleriana-the-red-alchemist-and-the-white-guardian-ultimate-edition.json) |
 | Atelier Rorona Plus: The Alchemist of Arland | 43039 | [43039-atelier-rorona-plus-the-alchemist-of-arland.json](./43039-atelier-rorona-plus-the-alchemist-of-arland.json) |
 | Atelier Rorona: The Alchemist of Arland | 7275 | [7275-atelier-rorona-the-alchemist-of-arland.json](./7275-atelier-rorona-the-alchemist-of-arland.json) |
@@ -15806,6 +15812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
