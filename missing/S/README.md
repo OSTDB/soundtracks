@@ -1215,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurado | 244254 | [244254-samurado.json](./244254-samurado.json) |
 | Samurai | 140531 | [140531-samurai.json](./140531-samurai.json) |
 | Samurai | 199761 | [199761-samurai.json](./199761-samurai.json) |
+| Samurai | 377325 | [377325-samurai.json](./377325-samurai.json) |
 | Samurai Academy: Paws of Fury | 366773 | [366773-samurai-academy-paws-of-fury.json](./366773-samurai-academy-paws-of-fury.json) |
 | Samurai Aces | 39844 | [39844-samurai-aces.json](./39844-samurai-aces.json) |
 | Samurai Aces III: Sengoku Cannon | 135721 | [135721-samurai-aces-iii-sengoku-cannon.json](./135721-samurai-aces-iii-sengoku-cannon.json) |
@@ -2323,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Yourself! | 172899 | [172899-save-yourself.json](./172899-save-yourself.json) |
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
 | Saved | 193249 | [193249-saved.json](./193249-saved.json) |
+| Saved by the Coupon | 377014 | [377014-saved-by-the-coupon.json](./377014-saved-by-the-coupon.json) |
 | SaveHer! | 86408 | [86408-saveher.json](./86408-saveher.json) |
 | SaveKunkun | 336656 | [336656-savekunkun.json](./336656-savekunkun.json) |
 | Saven | 373265 | [373265-saven.json](./373265-saven.json) |
@@ -5919,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Game - Threesome - Episode 6 | 382392 | [382392-sex-game-threesome-episode-6.json](./382392-sex-game-threesome-episode-6.json) |
 | Sex Game: BDSM - Episode 2 | 375513 | [375513-sex-game-bdsm-episode-2.json](./375513-sex-game-bdsm-episode-2.json) |
 | Sex Game: Futanari - Episode 1 | 382150 | [382150-sex-game-futanari-episode-1.json](./382150-sex-game-futanari-episode-1.json) |
+| Sex Game: Futanari - Episode 2 | 377013 | [377013-sex-game-futanari-episode-2.json](./377013-sex-game-futanari-episode-2.json) |
 | Sex Game: Futanari - Episode 3 | 382153 | [382153-sex-game-futanari-episode-3.json](./382153-sex-game-futanari-episode-3.json) |
 | Sex Game: Gay Affair - Episode 1 | 384891 | [384891-sex-game-gay-affair-episode-1.json](./384891-sex-game-gay-affair-episode-1.json) |
 | Sex Game: Gay Affair - Episode 2 | 382383 | [382383-sex-game-gay-affair-episode-2.json](./382383-sex-game-gay-affair-episode-2.json) |
@@ -9189,6 +9192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroomscape Zone | 192465 | [192465-shroomscape-zone.json](./192465-shroomscape-zone.json) |
 | Shroomtopia | 286092 | [286092-shroomtopia.json](./286092-shroomtopia.json) |
 | Shrot | 291382 | [291382-shrot.json](./291382-shrot.json) |
+| Shrot | 377185 | [377185-shrot.json](./377185-shrot.json) |
 | Shroud | 295999 | [295999-shroud.json](./295999-shroud.json) |
 | Shroud of Gloom | 322028 | [322028-shroud-of-gloom.json](./322028-shroud-of-gloom.json) |
 | Shroud of the Avatar - The Path of Virtue | 95995 | [95995-shroud-of-the-avatar-the-path-of-virtue.json](./95995-shroud-of-the-avatar-the-path-of-virtue.json) |
@@ -15548,6 +15552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solarflare | 405051 | [405051-solarflare.json](./405051-solarflare.json) |
 | Solargene | 149928 | [149928-solargene.json](./149928-solargene.json) |
 | Solaria | 285322 | [285322-solaria.json](./285322-solaria.json) |
+| Solaria | 377311 | [377311-solaria.json](./377311-solaria.json) |
 | Solaria Moon | 37395 | [37395-solaria-moon.json](./37395-solaria-moon.json) |
 | Solarian II | 229811 | [229811-solarian-ii.json](./229811-solarian-ii.json) |
 | Solaright | 28934 | [28934-solaright.json](./28934-solaright.json) |
@@ -18614,6 +18619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19359,6 +19365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceland: Frontier | 195785 | [195785-spaceland-frontier.json](./195785-spaceland-frontier.json) |
 | Spaceland: Sci-Fi Indie Tactics | 117052 | [117052-spaceland-sci-fi-indie-tactics.json](./117052-spaceland-sci-fi-indie-tactics.json) |
 | Spacelandia | 169599 | [169599-spacelandia.json](./169599-spacelandia.json) |
+| Spacelane Express | 377027 | [377027-spacelane-express.json](./377027-spacelane-express.json) |
 | Spacelines from the Far Out | 139192 | [139192-spacelines-from-the-far-out.json](./139192-spacelines-from-the-far-out.json) |
 | Spacelord | 183936 | [183936-spacelord.json](./183936-spacelord.json) |
 | Spacelords | 109257 | [109257-spacelords.json](./109257-spacelords.json) |
@@ -19824,6 +19831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectre | 79676 | [79676-spectre.json](./79676-spectre.json) |
 | Spectre Divide | 311967 | [311967-spectre-divide.json](./311967-spectre-divide.json) |
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
+| Spectre Report | 377018 | [377018-spectre-report.json](./377018-spectre-report.json) |
 | Spectre Vigil | 342785 | [342785-spectre-vigil.json](./342785-spectre-vigil.json) |
 | Spectre VR | 338645 | [338645-spectre-vr.json](./338645-spectre-vr.json) |
 | Spectre VR | 71280 | [71280-spectre-vr.json](./71280-spectre-vr.json) |
@@ -19972,6 +19980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Truck Racing | 147638 | [147638-speed-truck-racing.json](./147638-speed-truck-racing.json) |
 | Speed Tube Racer | 200202 | [200202-speed-tube-racer.json](./200202-speed-tube-racer.json) |
 | Speed Up | 105331 | [105331-speed-up.json](./105331-speed-up.json) |
+| Speed Vortex | 377020 | [377020-speed-vortex.json](./377020-speed-vortex.json) |
 | Speed X: Extreme 3D Car Racing | 251211 | [251211-speed-x-extreme-3d-car-racing.json](./251211-speed-x-extreme-3d-car-racing.json) |
 | Speed Zone | 51130 | [51130-speed-zone.json](./51130-speed-zone.json) |
 | Speed Zone | 79061 | [79061-speed-zone.json](./79061-speed-zone.json) |
@@ -22835,6 +22844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox Zero: Limited First Print Edition | 23382 | [23382-star-fox-zero-limited-first-print-edition.json](./23382-star-fox-zero-limited-first-print-edition.json) |
 | Star Fox: Assault | 3243 | [3243-star-fox-assault.json](./3243-star-fox-assault.json) |
 | Star Fox: Event Horizon | 401708 | [401708-star-fox-event-horizon.json](./401708-star-fox-event-horizon.json) |
+| Star Fox: Shindou Edition | 377320 | [377320-star-fox-shindou-edition.json](./377320-star-fox-shindou-edition.json) |
 | Star Fox: Super Weekend | 42365 | [42365-star-fox-super-weekend.json](./42365-star-fox-super-weekend.json) |
 | Star Freight | 317801 | [317801-star-freight.json](./317801-star-freight.json) |
 | Star Fur Day | 313091 | [313091-star-fur-day.json](./313091-star-fur-day.json) |
@@ -23543,6 +23553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wing | 385716 | [385716-star-wing.json](./385716-star-wing.json) |
 | Star Wish Traveler | 166837 | [166837-star-wish-traveler.json](./166837-star-wish-traveler.json) |
 | Star Witch | 190224 | [190224-star-witch.json](./190224-star-witch.json) |
+| Star Witch | 377189 | [377189-star-witch.json](./377189-star-witch.json) |
 | Star Wolves | 9849 | [9849-star-wolves.json](./9849-star-wolves.json) |
 | Star Wolves 3: Ashes of Victory | 65847 | [65847-star-wolves-3-ashes-of-victory.json](./65847-star-wolves-3-ashes-of-victory.json) |
 | Star Wolves 3: Civil War | 9851 | [9851-star-wolves-3-civil-war.json](./9851-star-wolves-3-civil-war.json) |
@@ -28362,6 +28373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Dash: Our Track Team's Summer Training Trip | 412765 | [412765-summer-dash-our-track-teams-summer-training-trip.json](./412765-summer-dash-our-track-teams-summer-training-trip.json) |
 | Summer Daze at Hero-U | 123754 | [123754-summer-daze-at-hero-u.json](./123754-summer-daze-at-hero-u.json) |
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
+| Summer Delicous Simulator | 377021 | [377021-summer-delicous-simulator.json](./377021-summer-delicous-simulator.json) |
 | Summer Delusion: The Girl Only I Can See | 411331 | [411331-summer-delusion-the-girl-only-i-can-see.json](./411331-summer-delusion-the-girl-only-i-can-see.json) |
 | Summer Dino | 239254 | [239254-summer-dino.json](./239254-summer-dino.json) |
 | Summer Dream L-vest-ry | 164193 | [164193-summer-dream-l-vest-ry.json](./164193-summer-dream-l-vest-ry.json) |
