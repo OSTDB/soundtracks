@@ -2875,6 +2875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency 3 | 46457 | [46457-emergency-3.json](./46457-emergency-3.json) |
 | Emergency 4: Deluxe | 83566 | [83566-emergency-4-deluxe.json](./83566-emergency-4-deluxe.json) |
 | Emergency 5 | 57334 | [57334-emergency-5.json](./57334-emergency-5.json) |
+| Emergency Ambulance Simulator | 383399 | [383399-emergency-ambulance-simulator.json](./383399-emergency-ambulance-simulator.json) |
 | Emergency Ambulance Simulator | 63673 | [63673-emergency-ambulance-simulator.json](./63673-emergency-ambulance-simulator.json) |
 | Emergency Ambulance Simulator 2013 | 137549 | [137549-emergency-ambulance-simulator-2013.json](./137549-emergency-ambulance-simulator-2013.json) |
 | Emergency Call 112: KEF - Das Kleineinsatzfahrzeug | 170724 | [170724-emergency-call-112-kef-das-kleineinsatzfahrzeug.json](./170724-emergency-call-112-kef-das-kleineinsatzfahrzeug.json) |
@@ -3058,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emperor's Mahjongg | 209207 | [209207-emperors-mahjongg.json](./209207-emperors-mahjongg.json) |
 | Empire | 105227 | [105227-empire.json](./105227-empire.json) |
 | Empire | 272474 | [272474-empire.json](./272474-empire.json) |
+| Empire | 383339 | [383339-empire.json](./383339-empire.json) |
 | Empire Above All | 63674 | [63674-empire-above-all.json](./63674-empire-above-all.json) |
 | Empire Architect | 29459 | [29459-empire-architect.json](./29459-empire-architect.json) |
 | Empire Builder: Ancient Egypt | 146482 | [146482-empire-builder-ancient-egypt.json](./146482-empire-builder-ancient-egypt.json) |
@@ -7350,6 +7352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exolotl: Zian | 251995 | [251995-exolotl-zian.json](./251995-exolotl-zian.json) |
 | ExoMiner | 208197 | [208197-exominer.json](./208197-exominer.json) |
 | Exomoon | 257419 | [257419-exomoon.json](./257419-exomoon.json) |
+| Exone Rift | 383671 | [383671-exone-rift.json](./383671-exone-rift.json) |
 | Exophilie | 271947 | [271947-exophilie.json](./271947-exophilie.json) |
 | Exophobia | 126756 | [126756-exophobia.json](./126756-exophobia.json) |
 | Exophobia: Fire & Ice Expedition | 369779 | [369779-exophobia-fire-and-ice-expedition.json](./369779-exophobia-fire-and-ice-expedition.json) |
