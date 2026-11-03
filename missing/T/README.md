@@ -4788,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Worlds: Online Edition | 23709 | [23709-tetris-worlds-online-edition.json](./23709-tetris-worlds-online-edition.json) |
 | Tetris X | 43727 | [43727-tetris-x.json](./43727-tetris-x.json) |
 | Tetris Zone | 78032 | [78032-tetris-zone.json](./78032-tetris-zone.json) |
+| Tetris-Retro | 380368 | [380368-tetris-retro.json](./380368-tetris-retro.json) |
 | Tetris: Flower Garden | 195739 | [195739-tetris-flower-garden.json](./195739-tetris-flower-garden.json) |
 | Tetris: Rosy Retrospection | 247519 | [247519-tetris-rosy-retrospection.json](./247519-tetris-rosy-retrospection.json) |
 | Tetris: The Absolute - The Grand Master 2 | 25023 | [25023-tetris-the-absolute-the-grand-master-2.json](./25023-tetris-the-absolute-the-grand-master-2.json) |
@@ -5553,6 +5554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ampoule | 275702 | [275702-the-ampoule.json](./275702-the-ampoule.json) |
 | The Amulet of AmunRuuuuuN | 157188 | [157188-the-amulet-of-amunruuuuun.json](./157188-the-amulet-of-amunruuuuun.json) |
 | The Amulet of Darath | 58864 | [58864-the-amulet-of-darath.json](./58864-the-amulet-of-darath.json) |
+| The Amusement | 380581 | [380581-the-amusement.json](./380581-the-amusement.json) |
 | The Anacrusis | 152067 | [152067-the-anacrusis.json](./152067-the-anacrusis.json) |
 | The Anacrusis: Deluxe Edition | 192304 | [192304-the-anacrusis-deluxe-edition.json](./192304-the-anacrusis-deluxe-edition.json) |
 | The Analyst | 211289 | [211289-the-analyst.json](./211289-the-analyst.json) |
@@ -7714,6 +7716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkside Detective: Series Edition | 164793 | [164793-the-darkside-detective-series-edition.json](./164793-the-darkside-detective-series-edition.json) |
 | The Daruma Challenge | 331279 | [331279-the-daruma-challenge.json](./331279-the-daruma-challenge.json) |
 | The Dating Game | 65534 | [65534-the-dating-game.json](./65534-the-dating-game.json) |
+| The Daughter | 380589 | [380589-the-daughter.json](./380589-the-daughter.json) |
 | The Daunting House | 152469 | [152469-the-daunting-house.json](./152469-the-daunting-house.json) |
 | The Dawn | 284349 | [284349-the-dawn.json](./284349-the-dawn.json) |
 | The Dawn Era | 341941 | [341941-the-dawn-era.json](./341941-the-dawn-era.json) |
@@ -24839,6 +24842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer III - Forge of the Chaos Dwarfs | 241802 | [241802-total-war-warhammer-iii-forge-of-the-chaos-dwarfs.json](./241802-total-war-warhammer-iii-forge-of-the-chaos-dwarfs.json) |
 | Total War: Warhammer III - Immortal Empires | 203268 | [203268-total-war-warhammer-iii-immortal-empires.json](./203268-total-war-warhammer-iii-immortal-empires.json) |
 | Total War: Warhammer III - Limited Edition | 146143 | [146143-total-war-warhammer-iii-limited-edition.json](./146143-total-war-warhammer-iii-limited-edition.json) |
+| Total War: Warhammer III - Lords of the End Times | 380378 | [380378-total-war-warhammer-iii-lords-of-the-end-times.json](./380378-total-war-warhammer-iii-lords-of-the-end-times.json) |
 | Total War: Warhammer III - Ogre Kingdoms | 194428 | [194428-total-war-warhammer-iii-ogre-kingdoms.json](./194428-total-war-warhammer-iii-ogre-kingdoms.json) |
 | Total War: Warhammer III - Omens of Destruction: Gorbad | 325526 | [325526-total-war-warhammer-iii-omens-of-destruction-gorbad.json](./325526-total-war-warhammer-iii-omens-of-destruction-gorbad.json) |
 | Total War: Warhammer III - Shadows of Change | 251223 | [251223-total-war-warhammer-iii-shadows-of-change.json](./251223-total-war-warhammer-iii-shadows-of-change.json) |
