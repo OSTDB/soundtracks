@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games of Rome | 391815 | [391815-games-of-rome.json](./391815-games-of-rome.json) |
 | Games People Play: Hearts, Spades, and Euchre | 78910 | [78910-games-people-play-hearts-spades-and-euchre.json](./78910-games-people-play-hearts-spades-and-euchre.json) |
 | Games Sampler 2 for Windows 95 | 194772 | [194772-games-sampler-2-for-windows-95.json](./194772-games-sampler-2-for-windows-95.json) |
+| Games Tycoon | 399355 | [399355-games-tycoon.json](./399355-games-tycoon.json) |
 | Games&Girls | 29106 | [29106-games-and-girls.json](./29106-games-and-girls.json) |
 | Games8x8 | 376022 | [376022-games8x8.json](./376022-games8x8.json) |
 | GameStart Pixel Battle | 207865 | [207865-gamestart-pixel-battle.json](./207865-gamestart-pixel-battle.json) |
@@ -3245,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gesshoku | 273346 | [273346-gesshoku.json](./273346-gesshoku.json) |
 | Gessou! Dangun Racer Onsoku Buster: Dangun Tama | 281457 | [281457-gessou-dangun-racer-onsoku-buster-dangun-tama.json](./281457-gessou-dangun-racer-onsoku-buster-dangun-tama.json) |
 | Gestalt_OS | 270657 | [270657-gestalt-os.json](./270657-gestalt-os.json) |
+| Gestalt: Memoria | 400000 | [400000-gestalt-memoria.json](./400000-gestalt-memoria.json) |
 | Gestalt: Steam & Cinder | 130076 | [130076-gestalt-steam-and-cinder.json](./130076-gestalt-steam-and-cinder.json) |
 | Gestalt: The Fifth Day | 275730 | [275730-gestalt-the-fifth-day.json](./275730-gestalt-the-fifth-day.json) |
 | Gestures on iOS | 232589 | [232589-gestures-on-ios.json](./232589-gestures-on-ios.json) |
@@ -4118,6 +4120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gimmick! Special Edition | 213752 | [213752-gimmick-special-edition.json](./213752-gimmick-special-edition.json) |
 | Gimmick's Gadgets | 244406 | [244406-gimmicks-gadgets.json](./244406-gimmicks-gadgets.json) |
 | GimmickHeart | 253400 | [253400-gimmickheart.json](./253400-gimmickheart.json) |
+| Gimper vs RichZone | 399365 | [399365-gimper-vs-richzone.json](./399365-gimper-vs-richzone.json) |
 | Gin | 131307 | [131307-gin.json](./131307-gin.json) |
 | Gin - Rummy | 88632 | [88632-gin-rummy.json](./88632-gin-rummy.json) |
 | Gin and Wall | 412365 | [412365-gin-and-wall.json](./412365-gin-and-wall.json) |
