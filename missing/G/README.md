@@ -1343,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Store Simulator | 346695 | [346695-game-store-simulator.json](./346695-game-store-simulator.json) |
 | Game Studio Simulator | 115594 | [115594-game-studio-simulator.json](./115594-game-studio-simulator.json) |
 | Game Studio Tycoon 3 | 102628 | [102628-game-studio-tycoon-3.json](./102628-game-studio-tycoon-3.json) |
+| Game Tech Simulator | 359153 | [359153-game-tech-simulator.json](./359153-game-tech-simulator.json) |
 | Game Tengoku CruisinMix Special: Clarice | 155341 | [155341-game-tengoku-cruisinmix-special-clarice.json](./155341-game-tengoku-cruisinmix-special-clarice.json) |
 | Game Tengoku: Cruisin Mix | 52187 | [52187-game-tengoku-cruisin-mix.json](./52187-game-tengoku-cruisin-mix.json) |
 | Game Tengoku: Cruisin Mix Special - Gokuraku Box | 167054 | [167054-game-tengoku-cruisin-mix-special-gokuraku-box.json](./167054-game-tengoku-cruisin-mix-special-gokuraku-box.json) |
@@ -2744,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generic Brazilian Favela Game with Generic Enemies 2003 | 264894 | [264894-generic-brazilian-favela-game-with-generic-enemies-2003.json](./264894-generic-brazilian-favela-game-with-generic-enemies-2003.json) |
 | Generic Fighter Maybe | 358350 | [358350-generic-fighter-maybe.json](./358350-generic-fighter-maybe.json) |
 | Generic Fishing Game | 316950 | [316950-generic-fishing-game.json](./316950-generic-fishing-game.json) |
+| Generic Idler | 359137 | [359137-generic-idler.json](./359137-generic-idler.json) |
 | Generic Jumper | 107719 | [107719-generic-jumper.json](./107719-generic-jumper.json) |
 | Generic Kart Racing | 216424 | [216424-generic-kart-racing.json](./216424-generic-kart-racing.json) |
 | Generic nonbinary game | 176926 | [176926-generic-nonbinary-game.json](./176926-generic-nonbinary-game.json) |
@@ -5384,6 +5386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal II | 48286 | [48286-goal-ii.json](./48286-goal-ii.json) |
 | Goal IV | 339779 | [339779-goal-iv.json](./339779-goal-iv.json) |
 | Goal Keeper | 287519 | [287519-goal-keeper.json](./287519-goal-keeper.json) |
+| Goal Keeper | 359295 | [359295-goal-keeper.json](./359295-goal-keeper.json) |
 | Goal Kick | 171849 | [171849-goal-kick.json](./171849-goal-kick.json) |
 | Goal Poacher VR: Football Header Simulator | 326415 | [326415-goal-poacher-vr-football-header-simulator.json](./326415-goal-poacher-vr-football-header-simulator.json) |
 | Goal Rush | 182147 | [182147-goal-rush.json](./182147-goal-rush.json) |
@@ -6333,6 +6336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 310990 | [310990-golf.json](./310990-golf.json) |
 | Golf | 3399 | [3399-golf.json](./3399-golf.json) |
 | Golf | 358832 | [358832-golf.json](./358832-golf.json) |
+| Golf | 359296 | [359296-golf.json](./359296-golf.json) |
 | Golf | 372204 | [372204-golf.json](./372204-golf.json) |
 | Golf | 86354 | [86354-golf.json](./86354-golf.json) |
 | Golf & Domino | 292563 | [292563-golf-and-domino.json](./292563-golf-and-domino.json) |
