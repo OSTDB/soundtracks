@@ -5439,6 +5439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Safari | 60381 | [60381-finger-safari.json](./60381-finger-safari.json) |
 | Finger Shot RPG | 205007 | [205007-finger-shot-rpg.json](./205007-finger-shot-rpg.json) |
 | Finger Slayer | 341914 | [341914-finger-slayer.json](./341914-finger-slayer.json) |
+| Finger Slayer: WILD | 354717 | [354717-finger-slayer-wild.json](./354717-finger-slayer-wild.json) |
 | Finger Soccer | 348158 | [348158-finger-soccer.json](./348158-finger-soccer.json) |
 | Finger Soccer League | 291171 | [291171-finger-soccer-league.json](./291171-finger-soccer-league.json) |
 | Finger Suck | 300782 | [300782-finger-suck.json](./300782-finger-suck.json) |
@@ -5914,6 +5915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fires At Midnight | 133350 | [133350-fires-at-midnight.json](./133350-fires-at-midnight.json) |
 | Firescape | 342731 | [342731-firescape.json](./342731-firescape.json) |
 | Firescout | 142874 | [142874-firescout.json](./142874-firescout.json) |
+| Fireside Fables | 354895 | [354895-fireside-fables.json](./354895-fireside-fables.json) |
 | Fireside Feelings | 345597 | [345597-fireside-feelings.json](./345597-fireside-feelings.json) |
 | Fireside Hero | 191854 | [191854-fireside-hero.json](./191854-fireside-hero.json) |
 | Firesky | 291184 | [291184-firesky.json](./291184-firesky.json) |
