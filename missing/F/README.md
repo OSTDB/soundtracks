@@ -11093,6 +11093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedoom | 109266 | [109266-freedoom.json](./109266-freedoom.json) |
 | FreedroidRPG | 121934 | [121934-freedroidrpg.json](./121934-freedroidrpg.json) |
 | Freefall | 11297 | [11297-freefall.json](./11297-freefall.json) |
+| Freefall '95 | 376412 | [376412-freefall-95.json](./376412-freefall-95.json) |
 | Freefall 3050 A.D. | 51180 | [51180-freefall-3050-a-d.json](./51180-freefall-3050-a-d.json) |
 | Freefall by MSX Murcia | 267563 | [267563-freefall-by-msx-murcia.json](./267563-freefall-by-msx-murcia.json) |
 | Freefall Racers | 62981 | [62981-freefall-racers.json](./62981-freefall-racers.json) |
