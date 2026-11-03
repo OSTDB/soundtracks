@@ -3581,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Kill This Guy With Hammers!!! | 291357 | [291357-lets-kill-this-guy-with-hammers.json](./291357-lets-kill-this-guy-with-hammers.json) |
 | Let's Kill Zombies VR | 86642 | [86642-lets-kill-zombies-vr.json](./86642-lets-kill-zombies-vr.json) |
 | Let's Learn Janggi | 147876 | [147876-lets-learn-janggi.json](./147876-lets-learn-janggi.json) |
+| Let's Learn Japanese: Deluxe | 367644 | [367644-lets-learn-japanese-deluxe.json](./367644-lets-learn-japanese-deluxe.json) |
 | Let's Learn Japanese! Complete Collection | 306696 | [306696-lets-learn-japanese-complete-collection.json](./306696-lets-learn-japanese-complete-collection.json) |
 | Let's Learn Japanese! Hiragana | 114379 | [114379-lets-learn-japanese-hiragana.json](./114379-lets-learn-japanese-hiragana.json) |
 | Let's Learn Japanese! Kanji Sudoku | 306440 | [306440-lets-learn-japanese-kanji-sudoku.json](./306440-lets-learn-japanese-kanji-sudoku.json) |
@@ -4656,6 +4657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighthouse of the Dead | 250910 | [250910-lighthouse-of-the-dead.json](./250910-lighthouse-of-the-dead.json) |
 | Lighthouse of the Souls | 344966 | [344966-lighthouse-of-the-souls.json](./344966-lighthouse-of-the-souls.json) |
 | Lighthouse Simulator | 262802 | [262802-lighthouse-simulator.json](./262802-lighthouse-simulator.json) |
+| Lighthouse Stories: Book One - Part One | 367647 | [367647-lighthouse-stories-book-one-part-one.json](./367647-lighthouse-stories-book-one-part-one.json) |
 | Lighthouse: The Dark Being | 12439 | [12439-lighthouse-the-dark-being.json](./12439-lighthouse-the-dark-being.json) |
 | Lighting Climbing | 195391 | [195391-lighting-climbing.json](./195391-lighting-climbing.json) |
 | Lighting End VR | 29677 | [29677-lighting-end-vr.json](./29677-lighting-end-vr.json) |
