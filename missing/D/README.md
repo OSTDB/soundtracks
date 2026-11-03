@@ -10553,6 +10553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ Hero | 2679 | [2679-dj-hero.json](./2679-dj-hero.json) |
 | DJ Life | 67978 | [67978-dj-life.json](./67978-dj-life.json) |
 | DJ Life Simulator: From Your Bedroom to the Mainstage | 391147 | [391147-dj-life-simulator-from-your-bedroom-to-the-mainstage.json](./391147-dj-life-simulator-from-your-bedroom-to-the-mainstage.json) |
+| DJ Lusty Beats | 391452 | [391452-dj-lusty-beats.json](./391452-dj-lusty-beats.json) |
 | DJ Max Fever | 42892 | [42892-dj-max-fever.json](./42892-dj-max-fever.json) |
 | DJ Meow | 158960 | [158960-dj-meow.json](./158960-dj-meow.json) |
 | DJ Mix Tour | 68028 | [68028-dj-mix-tour.json](./68028-dj-mix-tour.json) |
@@ -14726,6 +14727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dramatic RPG Kamitsuri | 25679 | [25679-dramatic-rpg-kamitsuri.json](./25679-dramatic-rpg-kamitsuri.json) |
 | Dramatical Murder Re:code | 22494 | [22494-dramatical-murder-re-code.json](./22494-dramatical-murder-re-code.json) |
 | Dramatical Murder Re:connect | 22493 | [22493-dramatical-murder-re-connect.json](./22493-dramatical-murder-re-connect.json) |
+| Dramatour | 391415 | [391415-dramatour.json](./391415-dramatour.json) |
 | Drancia Saga | 54777 | [54777-drancia-saga.json](./54777-drancia-saga.json) |
 | Dransik | 212606 | [212606-dransik.json](./212606-dransik.json) |
 | Drapers: Merchants of Middle Ages | 420479 | [420479-drapers-merchants-of-middle-ages.json](./420479-drapers-merchants-of-middle-ages.json) |
