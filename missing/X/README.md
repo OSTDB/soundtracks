@@ -109,6 +109,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: 010 - Character: Iceman | 291032 | [291032-x-men-010-character-iceman.json](./291032-x-men-010-character-iceman.json) |
 | X-Men: 011 - Character: Jean Grey/Phoenix | 291033 | [291033-x-men-011-character-jean-grey-phoenix.json](./291033-x-men-011-character-jean-grey-phoenix.json) |
 | X-Men: 012 - Character: Magneto | 291034 | [291034-x-men-012-character-magneto.json](./291034-x-men-012-character-magneto.json) |
+| X-Men: 048 - Attack Mod: Triple Strike | 363253 | [363253-x-men-048-attack-mod-triple-strike.json](./363253-x-men-048-attack-mod-triple-strike.json) |
+| X-Men: 049 - Attack Mod: Half as Nice | 363254 | [363254-x-men-049-attack-mod-half-as-nice.json](./363254-x-men-049-attack-mod-half-as-nice.json) |
+| X-Men: 050 - Attack Mod: Projectile Vengeance | 363255 | [363255-x-men-050-attack-mod-projectile-vengeance.json](./363255-x-men-050-attack-mod-projectile-vengeance.json) |
+| X-Men: 051 - Attack Mod: Melee Vengeance | 363260 | [363260-x-men-051-attack-mod-melee-vengeance.json](./363260-x-men-051-attack-mod-melee-vengeance.json) |
+| X-Men: 052 - Character: Professor X | 363261 | [363261-x-men-052-character-professor-x.json](./363261-x-men-052-character-professor-x.json) |
+| X-Men: 053 - Danger Room: Durability Room | 363262 | [363262-x-men-053-danger-room-durability-room.json](./363262-x-men-053-danger-room-durability-room.json) |
+| X-Men: 054 - Danger Room: Speed Room | 363263 | [363263-x-men-054-danger-room-speed-room.json](./363263-x-men-054-danger-room-speed-room.json) |
+| X-Men: 055 - Danger Room: Intelligence Room | 363264 | [363264-x-men-055-danger-room-intelligence-room.json](./363264-x-men-055-danger-room-intelligence-room.json) |
+| X-Men: 056 - Danger Room: Fighting Skills Room | 363265 | [363265-x-men-056-danger-room-fighting-skills-room.json](./363265-x-men-056-danger-room-fighting-skills-room.json) |
+| X-Men: 057 - Danger Room: Energy Projection Room | 363266 | [363266-x-men-057-danger-room-energy-projection-room.json](./363266-x-men-057-danger-room-energy-projection-room.json) |
 | X-Men: 058 - Character: Gambit | 363513 | [363513-x-men-058-character-gambit.json](./363513-x-men-058-character-gambit.json) |
 | X-Men: 059 - Character: Colossus | 363514 | [363514-x-men-059-character-colossus.json](./363514-x-men-059-character-colossus.json) |
 | X-Men: 060 - Character: Nightcrawler | 363515 | [363515-x-men-060-character-nightcrawler.json](./363515-x-men-060-character-nightcrawler.json) |
