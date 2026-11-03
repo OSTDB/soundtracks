@@ -11082,6 +11082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Fred | 270668 | [270668-sir-fred.json](./270668-sir-fred.json) |
 | Sir Galgano: A Medieval Tale | 193245 | [193245-sir-galgano-a-medieval-tale.json](./193245-sir-galgano-a-medieval-tale.json) |
 | Sir Lancelot | 23574 | [23574-sir-lancelot.json](./23574-sir-lancelot.json) |
+| Sir Lancelot | 354729 | [354729-sir-lancelot.json](./354729-sir-lancelot.json) |
 | Sir Loin | 93997 | [93997-sir-loin.json](./93997-sir-loin.json) |
 | Sir Lovelot | 132982 | [132982-sir-lovelot.json](./132982-sir-lovelot.json) |
 | Sir Magical Jelly | 197027 | [197027-sir-magical-jelly.json](./197027-sir-magical-jelly.json) |
@@ -18729,7 +18730,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24773,6 +24773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealin' Steve | 421820 | [421820-stealin-steve.json](./421820-stealin-steve.json) |
 | Stealing Them Softly | 379695 | [379695-stealing-them-softly.json](./379695-stealing-them-softly.json) |
 | Stealpop's Basics | 341935 | [341935-stealpops-basics.json](./341935-stealpops-basics.json) |
+| Stealpop's Basics Unity | 354899 | [354899-stealpops-basics-unity.json](./354899-stealpops-basics-unity.json) |
 | Stealth | 114888 | [114888-stealth.json](./114888-stealth.json) |
 | Stealth | 147969 | [147969-stealth.json](./147969-stealth.json) |
 | Stealth | 24679 | [24679-stealth.json](./24679-stealth.json) |
@@ -32223,6 +32224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Spree DX | 413405 | [413405-supermarket-spree-dx.json](./413405-supermarket-spree-dx.json) |
 | Supermarket Together | 311540 | [311540-supermarket-together.json](./311540-supermarket-together.json) |
 | Supermarket Tycoon | 55128 | [55128-supermarket-tycoon.json](./55128-supermarket-tycoon.json) |
+| Supermarket VR | 354906 | [354906-supermarket-vr.json](./354906-supermarket-vr.json) |
 | Supermarket VR | 99427 | [99427-supermarket-vr.json](./99427-supermarket-vr.json) |
 | Supermart Tycoon | 381709 | [381709-supermart-tycoon.json](./381709-supermart-tycoon.json) |
 | SuperMash | 127307 | [127307-supermash.json](./127307-supermash.json) |
