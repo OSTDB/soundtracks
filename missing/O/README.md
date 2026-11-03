@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogre Tale | 136628 | [136628-ogre-tale.json](./136628-ogre-tale.json) |
 | Ogre: Console Edition | 202050 | [202050-ogre-console-edition.json](./202050-ogre-console-edition.json) |
 | Ogre's Ambition 2 | 82775 | [82775-ogres-ambition-2.json](./82775-ogres-ambition-2.json) |
+| Ogrewatch | 374553 | [374553-ogrewatch.json](./374553-ogrewatch.json) |
 | Ogrez | 119605 | [119605-ogrez.json](./119605-ogrez.json) |
 | Ogriesh Flower | 247079 | [247079-ogriesh-flower.json](./247079-ogriesh-flower.json) |
 | Ogrüuk | 348207 | [348207-ogruuk.json](./348207-ogruuk.json) |
