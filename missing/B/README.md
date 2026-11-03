@@ -7922,6 +7922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bipolar: The Tube | 327671 | [327671-bipolar-the-tube.json](./327671-bipolar-the-tube.json) |
 | Bipt | 338239 | [338239-bipt.json](./338239-bipt.json) |
 | Bir Garip Diyar: Hatunum Nerede? | 346932 | [346932-bir-garip-diyar-hatunum-nerede.json](./346932-bir-garip-diyar-hatunum-nerede.json) |
+| Birb | 388699 | [388699-birb.json](./388699-birb.json) |
 | Birb Café | 200356 | [200356-birb-cafe.json](./200356-birb-cafe.json) |
 | Birb Game | 343803 | [343803-birb-game.json](./343803-birb-game.json) |
 | Birb Taxi | 400006 | [400006-birb-taxi.json](./400006-birb-taxi.json) |
@@ -10680,6 +10681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodright | 365822 | [365822-bloodright.json](./365822-bloodright.json) |
 | Bloodroot | 296107 | [296107-bloodroot.json](./296107-bloodroot.json) |
 | Bloodrun | 304196 | [304196-bloodrun.json](./304196-bloodrun.json) |
+| Bloodrune | 388698 | [388698-bloodrune.json](./388698-bloodrune.json) |
 | BloodRush: Undying Wish | 255389 | [255389-bloodrush-undying-wish.json](./255389-bloodrush-undying-wish.json) |
 | Bloodrust | 274151 | [274151-bloodrust.json](./274151-bloodrust.json) |
 | Bloodsaint 2 | 386918 | [386918-bloodsaint-2.json](./386918-bloodsaint-2.json) |
@@ -11306,6 +11308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMX XXX | 3826 | [3826-bmx-xxx.json](./3826-bmx-xxx.json) |
 | BMX: The Game | 138610 | [138610-bmx-the-game.json](./138610-bmx-the-game.json) |
 | BND Legenden: Operation Blackbox | 385985 | [385985-bnd-legenden-operation-blackbox.json](./385985-bnd-legenden-operation-blackbox.json) |
+| BND Legenden: Operation Blackout | 388772 | [388772-bnd-legenden-operation-blackout.json](./388772-bnd-legenden-operation-blackout.json) |
 | Bnuuy Deliverance | 339891 | [339891-bnuuy-deliverance.json](./339891-bnuuy-deliverance.json) |
 | BO 020880 | 150407 | [150407-bo-020880.json](./150407-bo-020880.json) |
 | Bo Bear | 347014 | [347014-bo-bear.json](./347014-bo-bear.json) |
@@ -12185,6 +12188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonereader | 397769 | [397769-bonereader.json](./397769-bonereader.json) |
 | Bones | 372636 | [372636-bones.json](./372636-bones.json) |
 | Bones 'n' Bullets | 118303 | [118303-bones-n-bullets.json](./118303-bones-n-bullets.json) |
+| Bones and Coins | 388776 | [388776-bones-and-coins.json](./388776-bones-and-coins.json) |
 | Bones Beneath | 298073 | [298073-bones-beneath.json](./298073-bones-beneath.json) |
 | Bones game online | 63726 | [63726-bones-game-online.json](./63726-bones-game-online.json) |
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
@@ -16523,6 +16527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumpy Road | 6209 | [6209-bumpy-road.json](./6209-bumpy-road.json) |
 | Bumpy's Arcade Fantasy | 11724 | [11724-bumpys-arcade-fantasy.json](./11724-bumpys-arcade-fantasy.json) |
 | Bums | 281974 | [281974-bums.json](./281974-bums.json) |
+| BumSlayer | 388774 | [388774-bumslayer.json](./388774-bumslayer.json) |
 | Bun | 172123 | [172123-bun.json](./172123-bun.json) |
 | Bun 'N' Gun | 265671 | [265671-bun-n-gun.json](./265671-bun-n-gun.json) |
 | Bun Bun Samurai | 298783 | [298783-bun-bun-samurai.json](./298783-bun-bun-samurai.json) |
