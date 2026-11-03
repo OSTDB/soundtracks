@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabziman | 331278 | [331278-kabziman.json](./331278-kabziman.json) |
 | Kacau | 390811 | [390811-kacau.json](./390811-kacau.json) |
 | Kach | 212984 | [212984-kach.json](./212984-kach.json) |
+| Kachin! | 360283 | [360283-kachin.json](./360283-kachin.json) |
 | Kachinka | 421328 | [421328-kachinka.json](./421328-kachinka.json) |
 | Kachou Shima Kousaku DS: Dekiru Otoko no Love & Successss | 123336 | [123336-kachou-shima-kousaku-ds-dekiru-otoko-no-love-and-successss.json](./123336-kachou-shima-kousaku-ds-dekiru-otoko-no-love-and-successss.json) |
 | Kachou Shima Kousaku: Super Business Adventure | 37969 | [37969-kachou-shima-kousaku-super-business-adventure.json](./37969-kachou-shima-kousaku-super-business-adventure.json) |
@@ -2708,7 +2709,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
