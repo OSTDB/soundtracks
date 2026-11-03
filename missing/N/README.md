@@ -5650,6 +5650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Secrets | 135491 | [135491-no-secrets.json](./135491-no-secrets.json) |
 | No Senses | 198236 | [198236-no-senses.json](./198236-no-senses.json) |
 | No Service | 391030 | [391030-no-service.json](./391030-no-service.json) |
+| No Sheep Left Behind | 365928 | [365928-no-sheep-left-behind.json](./365928-no-sheep-left-behind.json) |
 | No Shoes, No Mercy | 419065 | [419065-no-shoes-no-mercy.json](./419065-no-shoes-no-mercy.json) |
 | No Shot | 398919 | [398919-no-shot.json](./398919-no-shot.json) |
 | No Sidewalks in the Mushroom Kingdom | 177296 | [177296-no-sidewalks-in-the-mushroom-kingdom.json](./177296-no-sidewalks-in-the-mushroom-kingdom.json) |
