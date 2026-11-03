@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canadian Robot Racing League | 127175 | [127175-canadian-robot-racing-league.json](./127175-canadian-robot-racing-league.json) |
 | Canal Control | 243702 | [243702-canal-control.json](./243702-canal-control.json) |
 | Canal Meutre | 386318 | [386318-canal-meutre.json](./386318-canal-meutre.json) |
+| Canal Street Goblin | 370954 | [370954-canal-street-goblin.json](./370954-canal-street-goblin.json) |
 | Canal Towns | 197335 | [197335-canal-towns.json](./197335-canal-towns.json) |
 | Canari | 51580 | [51580-canari.json](./51580-canari.json) |
 | Canary in a Crater | 148138 | [148138-canary-in-a-crater.json](./148138-canary-in-a-crater.json) |
@@ -1271,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Golf | 320029 | [320029-candy-golf.json](./320029-candy-golf.json) |
 | Candy Gun | 163705 | [163705-candy-gun.json](./163705-candy-gun.json) |
 | Candy Hair Salon | 90898 | [90898-candy-hair-salon.json](./90898-candy-hair-salon.json) |
+| Candy Harvest Blast | 370366 | [370366-candy-harvest-blast.json](./370366-candy-harvest-blast.json) |
 | Candy Hentai | 301662 | [301662-candy-hentai.json](./301662-candy-hentai.json) |
 | Candy House in the Dark Forest | 294125 | [294125-candy-house-in-the-dark-forest.json](./294125-candy-house-in-the-dark-forest.json) |
 | Candy Ice Cream Jam Match 3 | 166297 | [166297-candy-ice-cream-jam-match-3.json](./166297-candy-ice-cream-jam-match-3.json) |
@@ -2166,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carachnophobia | 267861 | [267861-carachnophobia.json](./267861-carachnophobia.json) |
 | Caracoland | 112963 | [112963-caracoland.json](./112963-caracoland.json) |
 | Caracolino | 293236 | [293236-caracolino.json](./293236-caracolino.json) |
+| Carambola | 370055 | [370055-carambola.json](./370055-carambola.json) |
 | Caramel Action Micro | 386161 | [386161-caramel-action-micro.json](./386161-caramel-action-micro.json) |
 | Caramel Creek | 423999 | [423999-caramel-creek.json](./423999-caramel-creek.json) |
 | Caramel Port | 114558 | [114558-caramel-port.json](./114558-caramel-port.json) |
@@ -11360,6 +11363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Knight | 112792 | [112792-color-knight.json](./112792-color-knight.json) |
 | Color Lab | 192973 | [192973-color-lab.json](./192973-color-lab.json) |
 | Color Lim | 236141 | [236141-color-lim.json](./236141-color-lim.json) |
+| Color Lines | 370392 | [370392-color-lines.json](./370392-color-lines.json) |
 | Color Lines | 50119 | [50119-color-lines.json](./50119-color-lines.json) |
 | Color Lines - Classic Puzzle | 103142 | [103142-color-lines-classic-puzzle.json](./103142-color-lines-classic-puzzle.json) |
 | Color Madness | 367049 | [367049-color-madness.json](./367049-color-madness.json) |
@@ -16310,6 +16314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbage Academy | 91279 | [91279-cribbage-academy.json](./91279-cribbage-academy.json) |
 | Cribbage Blitz | 125940 | [125940-cribbage-blitz.json](./125940-cribbage-blitz.json) |
 | Cribbage by Dodofox | 107541 | [107541-cribbage-by-dodofox.json](./107541-cribbage-by-dodofox.json) |
+| Cribbage Daily | 370353 | [370353-cribbage-daily.json](./370353-cribbage-daily.json) |
 | Cribbage Forever | 90023 | [90023-cribbage-forever.json](./90023-cribbage-forever.json) |
 | Cribbage HD | 91118 | [91118-cribbage-hd.json](./91118-cribbage-hd.json) |
 | Cribbage JD | 144781 | [144781-cribbage-jd.json](./144781-cribbage-jd.json) |
@@ -16540,6 +16545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Metal: Episode III | 174163 | [174163-crimson-metal-episode-iii.json](./174163-crimson-metal-episode-iii.json) |
 | Crimson Moon | 245796 | [245796-crimson-moon.json](./245796-crimson-moon.json) |
 | Crimson Moon | 389428 | [389428-crimson-moon.json](./389428-crimson-moon.json) |
+| Crimson Needle 2.5 | 370930 | [370930-crimson-needle-2-5.json](./370930-crimson-needle-2-5.json) |
 | Crimson Needle 3 | 265205 | [265205-crimson-needle-3.json](./265205-crimson-needle-3.json) |
 | Crimson Night | 375580 | [375580-crimson-night.json](./375580-crimson-night.json) |
 | Crimson Night | 403099 | [403099-crimson-night.json](./403099-crimson-night.json) |
@@ -16862,6 +16868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Pix | 362197 | [362197-cross-pix.json](./362197-cross-pix.json) |
 | Cross Pix 2 | 363970 | [363970-cross-pix-2.json](./363970-cross-pix-2.json) |
 | Cross Pix 3 | 365545 | [365545-cross-pix-3.json](./365545-cross-pix-3.json) |
+| Cross Pix 4 | 370965 | [370965-cross-pix-4.json](./370965-cross-pix-4.json) |
 | Cross Pixels | 87934 | [87934-cross-pixels.json](./87934-cross-pixels.json) |
 | Cross Princess | 149499 | [149499-cross-princess.json](./149499-cross-princess.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
