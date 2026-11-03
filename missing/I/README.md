@@ -6327,6 +6327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Italia 1990 | 94594 | [94594-italia-1990.json](./94594-italia-1990.json) |
 | Italian Brainrot TCG | 369541 | [369541-italian-brainrot-tcg.json](./369541-italian-brainrot-tcg.json) |
 | Italian Brainrot: Arena | 348706 | [348706-italian-brainrot-arena.json](./348706-italian-brainrot-arena.json) |
+| Italian Brainrot: In Prison | 367674 | [367674-italian-brainrot-in-prison.json](./367674-italian-brainrot-in-prison.json) |
 | Italian Horror Trilogy | 402123 | [402123-italian-horror-trilogy.json](./402123-italian-horror-trilogy.json) |
 | Italian Journey | 216142 | [216142-italian-journey.json](./216142-italian-journey.json) |
 | Italian Journey: Nitro | 216144 | [216144-italian-journey-nitro.json](./216144-italian-journey-nitro.json) |
