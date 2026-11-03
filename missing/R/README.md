@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Runner | 9010 | [9010-rage-runner.json](./9010-rage-runner.json) |
 | Rage Simulator | 265612 | [265612-rage-simulator.json](./265612-rage-simulator.json) |
 | Rage Swarm | 323697 | [323697-rage-swarm.json](./323697-rage-swarm.json) |
+| Rage Swarm: Rapid Fire Edition | 349597 | [349597-rage-swarm-rapid-fire-edition.json](./349597-rage-swarm-rapid-fire-edition.json) |
 | Rage Tower | 355033 | [355033-rage-tower.json](./355033-rage-tower.json) |
 | Rage Wars | 30564 | [30564-rage-wars.json](./30564-rage-wars.json) |
 | Rage: Anarchy Edition | 43033 | [43033-rage-anarchy-edition.json](./43033-rage-anarchy-edition.json) |
@@ -1513,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally del Casentino: The Game | 133194 | [133194-rally-del-casentino-the-game.json](./133194-rally-del-casentino-the-game.json) |
 | Rally Drift Cars | 123558 | [123558-rally-drift-cars.json](./123558-rally-drift-cars.json) |
 | Rally Drifters Racing Cars 3D: Ultimate Fast Car Gang Challange | 232164 | [232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json](./232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json) |
+| Rally Drive Championship Car Racing Game | 349584 | [349584-rally-drive-championship-car-racing-game.json](./349584-rally-drive-championship-car-racing-game.json) |
 | Rally Driver | 73620 | [73620-rally-driver.json](./73620-rally-driver.json) |
 | Rally Evolution 2025 | 384823 | [384823-rally-evolution-2025.json](./384823-rally-evolution-2025.json) |
 | Rally Fury: Extreme Racing | 174848 | [174848-rally-fury-extreme-racing.json](./174848-rally-fury-extreme-racing.json) |
