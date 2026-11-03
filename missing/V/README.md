@@ -3160,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Rush | 378602 | [378602-void-rush.json](./378602-void-rush.json) |
 | Void Sails | 325647 | [325647-void-sails.json](./325647-void-sails.json) |
 | Void Salvage | 388936 | [388936-void-salvage.json](./388936-void-salvage.json) |
+| Void Sanction | 389361 | [389361-void-sanction.json](./389361-void-sanction.json) |
 | Void Scavengers | 381001 | [381001-void-scavengers.json](./381001-void-scavengers.json) |
 | Void Scout | 320727 | [320727-void-scout.json](./320727-void-scout.json) |
 | Void Scrappers | 211688 | [211688-void-scrappers.json](./211688-void-scrappers.json) |
