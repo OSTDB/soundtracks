@@ -2683,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnal Sins: Malum Incarnatum + Carne Vescens | 329693 | [329693-carnal-sins-malum-incarnatum-carne-vescens.json](./329693-carnal-sins-malum-incarnatum-carne-vescens.json) |
 | Carnasis | 360007 | [360007-carnasis.json](./360007-carnasis.json) |
 | Carnaval | 304055 | [304055-carnaval.json](./304055-carnaval.json) |
+| Carnaval Marbles | 360327 | [360327-carnaval-marbles.json](./360327-carnaval-marbles.json) |
 | CarneyVale Showtime | 92349 | [92349-carneyvale-showtime.json](./92349-carneyvale-showtime.json) |
 | Carniball | 64832 | [64832-carniball.json](./64832-carniball.json) |
 | Carnica | 39636 | [39636-carnica.json](./39636-carnica.json) |
@@ -8195,6 +8196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunithm Sun Plus | 269300 | [269300-chunithm-sun-plus.json](./269300-chunithm-sun-plus.json) |
 | Chunithm Super Star Plus | 191379 | [191379-chunithm-super-star-plus.json](./191379-chunithm-super-star-plus.json) |
 | Chunithm Verse | 335960 | [335960-chunithm-verse.json](./335960-chunithm-verse.json) |
+| Chunithm X-Verse | 360313 | [360313-chunithm-x-verse.json](./360313-chunithm-x-verse.json) |
 | Chunithm X-Verse-X | 379181 | [379181-chunithm-x-verse-x.json](./379181-chunithm-x-verse-x.json) |
 | Chunithm X-Verse-X International Version | 397774 | [397774-chunithm-x-verse-x-international-version.json](./397774-chunithm-x-verse-x-international-version.json) |
 | Chunk | 355072 | [355072-chunk.json](./355072-chunk.json) |
@@ -12843,6 +12845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect Lines | 399781 | [399781-connect-lines.json](./399781-connect-lines.json) |
 | Connect Lyrical Spectacle Forest | 258711 | [258711-connect-lyrical-spectacle-forest.json](./258711-connect-lyrical-spectacle-forest.json) |
 | Connect Master | 228115 | [228115-connect-master.json](./228115-connect-master.json) |
+| Connect Me | 360275 | [360275-connect-me.json](./360275-connect-me.json) |
 | Connect Pictures of Dog | 324989 | [324989-connect-pictures-of-dog.json](./324989-connect-pictures-of-dog.json) |
 | Connect the Circuit 1000 | 328544 | [328544-connect-the-circuit-1000.json](./328544-connect-the-circuit-1000.json) |
 | Connect the Dots | 151551 | [151551-connect-the-dots.json](./151551-connect-the-dots.json) |
@@ -15264,6 +15267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crafter | 326042 | [326042-crafter.json](./326042-crafter.json) |
 | Crafter Game - Incremental Puzzle RPG Game | 25737 | [25737-crafter-game-incremental-puzzle-rpg-game.json](./25737-crafter-game-incremental-puzzle-rpg-game.json) |
 | Crafter's Hollow | 369361 | [369361-crafters-hollow.json](./369361-crafters-hollow.json) |
+| Crafterok: Lords of Survival 2 | 360276 | [360276-crafterok-lords-of-survival-2.json](./360276-crafterok-lords-of-survival-2.json) |
 | Crafters Heaven | 349826 | [349826-crafters-heaven.json](./349826-crafters-heaven.json) |
 | Craftia's Defender | 236191 | [236191-craftias-defender.json](./236191-craftias-defender.json) |
 | Craftica | 413011 | [413011-craftica.json](./413011-craftica.json) |
@@ -18710,6 +18714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse in our heads | 103452 | [103452-curse-in-our-heads.json](./103452-curse-in-our-heads.json) |
 | Curse Lsland | 157925 | [157925-curse-lsland.json](./157925-curse-lsland.json) |
 | Curse of Anabelle | 122826 | [122826-curse-of-anabelle.json](./122826-curse-of-anabelle.json) |
+| Curse of Argentum | 360329 | [360329-curse-of-argentum.json](./360329-curse-of-argentum.json) |
 | Curse of Argion | 217115 | [217115-curse-of-argion.json](./217115-curse-of-argion.json) |
 | Curse of Atlantis: Thorgal's Quest | 23696 | [23696-curse-of-atlantis-thorgals-quest.json](./23696-curse-of-atlantis-thorgals-quest.json) |
 | Curse of Blood | 258377 | [258377-curse-of-blood.json](./258377-curse-of-blood.json) |
