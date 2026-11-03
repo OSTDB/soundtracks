@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage VR -Mini Version- | 114344 | [114344-mage-vr-mini-version.json](./114344-mage-vr-mini-version.json) |
 | Mage VR: The Lost Memories | 115619 | [115619-mage-vr-the-lost-memories.json](./115619-mage-vr-the-lost-memories.json) |
 | Mage vs. Castle | 301819 | [301819-mage-vs-castle.json](./301819-mage-vs-castle.json) |
+| Mage Wars | 384545 | [384545-mage-wars.json](./384545-mage-wars.json) |
 | Mage World: The Wizard's Stone | 169419 | [169419-mage-world-the-wizards-stone.json](./169419-mage-world-the-wizards-stone.json) |
 | Mage: Enchanted | 169946 | [169946-mage-enchanted.json](./169946-mage-enchanted.json) |
 | Mage's Arena | 205009 | [205009-mages-arena.json](./205009-mages-arena.json) |
@@ -5624,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8156,6 +8158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mementos: Star Constellations | 402056 | [402056-mementos-star-constellations.json](./402056-mementos-star-constellations.json) |
 | Memes | 51564 | [51564-memes.json](./51564-memes.json) |
 | Memes At War | 334022 | [334022-memes-at-war.json](./334022-memes-at-war.json) |
+| Memeside | 384546 | [384546-memeside.json](./384546-memeside.json) |
 | Memesteine Files | 405035 | [405035-memesteine-files.json](./405035-memesteine-files.json) |
 | Memetomo | 314751 | [314751-memetomo.json](./314751-memetomo.json) |
 | Memetric: Classic | 239562 | [239562-memetric-classic.json](./239562-memetric-classic.json) |
@@ -12180,6 +12183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minibash | 223621 | [223621-minibash.json](./223621-minibash.json) |
 | MiniBikers | 34085 | [34085-minibikers.json](./34085-minibikers.json) |
 | MiniBikers: The game of mini racing motorbikes | 87299 | [87299-minibikers-the-game-of-mini-racing-motorbikes.json](./87299-minibikers-the-game-of-mini-racing-motorbikes.json) |
+| Miniblox | 384485 | [384485-miniblox.json](./384485-miniblox.json) |
 | MiniBotz | 31929 | [31929-minibotz.json](./31929-minibotz.json) |
 | Minibuilder | 352182 | [352182-minibuilder.json](./352182-minibuilder.json) |
 | Minibus Simulator | 407372 | [407372-minibus-simulator.json](./407372-minibus-simulator.json) |
