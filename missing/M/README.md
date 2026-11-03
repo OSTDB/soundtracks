@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Alien | 83354 | [83354-mad-alien.json](./83354-mad-alien.json) |
 | Mad Aliens: Seeking the Soul | 247936 | [247936-mad-aliens-seeking-the-soul.json](./247936-mad-aliens-seeking-the-soul.json) |
 | Mad Arkanoid | 50536 | [50536-mad-arkanoid.json](./50536-mad-arkanoid.json) |
+| Mad Arrow | 396977 | [396977-mad-arrow.json](./396977-mad-arrow.json) |
 | Mad Art Millionaire | 114704 | [114704-mad-art-millionaire.json](./114704-mad-art-millionaire.json) |
 | Mad Ball | 128449 | [128449-mad-ball.json](./128449-mad-ball.json) |
 | Mad Ball v2.0 | 258841 | [258841-mad-ball-v2-0.json](./258841-mad-ball-v2-0.json) |
@@ -5610,7 +5611,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -17220,6 +17220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mozaki Blocks Deluxe | 200366 | [200366-mozaki-blocks-deluxe.json](./200366-mozaki-blocks-deluxe.json) |
 | Mozarella Hills | 291766 | [291766-mozarella-hills.json](./291766-mozarella-hills.json) |
 | Mozart Requiem | 141726 | [141726-mozart-requiem.json](./141726-mozart-requiem.json) |
+| Mozg | 396958 | [396958-mozg.json](./396958-mozg.json) |
 | Mozg Procesor | 125621 | [125621-mozg-procesor.json](./125621-mozg-procesor.json) |
 | Mozi | 310080 | [310080-mozi.json](./310080-mozi.json) |
 | Mozzle | 175414 | [175414-mozzle.json](./175414-mozzle.json) |
