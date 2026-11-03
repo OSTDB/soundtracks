@@ -6600,6 +6600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobble Ops! | 405555 | [405555-wobble-ops.json](./405555-wobble-ops.json) |
 | Wobble Pole | 178423 | [178423-wobble-pole.json](./178423-wobble-pole.json) |
 | Wobble Warriors | 261558 | [261558-wobble-warriors.json](./261558-wobble-warriors.json) |
+| Wobble Wars | 368178 | [368178-wobble-wars.json](./368178-wobble-wars.json) |
 | Wobble Wobble | 397923 | [397923-wobble-wobble.json](./397923-wobble-wobble.json) |
 | Wobbledogs: Console Edition | 250554 | [250554-wobbledogs-console-edition.json](./250554-wobbledogs-console-edition.json) |
 | Wobbler | 383990 | [383990-wobbler.json](./383990-wobbler.json) |
