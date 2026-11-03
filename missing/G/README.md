@@ -5748,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess of Strategy | 390170 | [390170-goddess-of-strategy.json](./390170-goddess-of-strategy.json) |
 | Goddess Of Swing | 329353 | [329353-goddess-of-swing.json](./329353-goddess-of-swing.json) |
 | Goddess of the Miracle | 367549 | [367549-goddess-of-the-miracle.json](./367549-goddess-of-the-miracle.json) |
+| Goddess of Victory: Nikke - No caller ID | 378742 | [378742-goddess-of-victory-nikke-no-caller-id.json](./378742-goddess-of-victory-nikke-no-caller-id.json) |
 | Goddess of War Ashley | 144222 | [144222-goddess-of-war-ashley.json](./144222-goddess-of-war-ashley.json) |
 | Goddess of War Ashley II | 193131 | [193131-goddess-of-war-ashley-ii.json](./193131-goddess-of-war-ashley-ii.json) |
 | Goddess of War Essa | 195179 | [195179-goddess-of-war-essa.json](./195179-goddess-of-war-essa.json) |
