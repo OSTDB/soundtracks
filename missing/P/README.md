@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P-80 Shooting Star Tour of Duty | 198 | [198-p-80-shooting-star-tour-of-duty.json](./198-p-80-shooting-star-tour-of-duty.json) |
 | P-Kara | 59365 | [59365-p-kara.json](./59365-p-kara.json) |
 | P-O-X | 290312 | [290312-p-o-x.json](./290312-p-o-x.json) |
+| P-Pan | 391446 | [391446-p-pan.json](./391446-p-pan.json) |
 | P-Robots | 93029 | [93029-p-robots.json](./93029-p-robots.json) |
 | P-Walker's Simulation | 36820 | [36820-p-walkers-simulation.json](./36820-p-walkers-simulation.json) |
 | P.3 | 123815 | [123815-p-3.json](./123815-p-3.json) |
@@ -2964,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PatientX: Survivalist | 98689 | [98689-patientx-survivalist.json](./98689-patientx-survivalist.json) |
 | PatientZ: Survivalist | 27727 | [27727-patientz-survivalist.json](./27727-patientz-survivalist.json) |
 | Patisserie Palette | 185418 | [185418-patisserie-palette.json](./185418-patisserie-palette.json) |
+| Patisserie Simulator | 391443 | [391443-patisserie-simulator.json](./391443-patisserie-simulator.json) |
 | Patito Feo | 269500 | [269500-patito-feo.json](./269500-patito-feo.json) |
 | Patlabor the Case Files | 395699 | [395699-patlabor-the-case-files.json](./395699-patlabor-the-case-files.json) |
 | Patlabor: Come Back Mini-Pato | 75899 | [75899-patlabor-come-back-mini-pato.json](./75899-patlabor-come-back-mini-pato.json) |
@@ -9328,6 +9330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playne | 102937 | [102937-playne.json](./102937-playne.json) |
 | PLAYNE VR | 126761 | [126761-playne-vr.json](./126761-playne-vr.json) |
 | Playnicky | 221068 | [221068-playnicky.json](./221068-playnicky.json) |
+| Playover | 391444 | [391444-playover.json](./391444-playover.json) |
 | PlayPark StreetBallers | 249691 | [249691-playpark-streetballers.json](./249691-playpark-streetballers.json) |
 | Playroom Invasion TD | 264646 | [264646-playroom-invasion-td.json](./264646-playroom-invasion-td.json) |
 | Playroom Racer | 268329 | [268329-playroom-racer.json](./268329-playroom-racer.json) |
