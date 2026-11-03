@@ -1387,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg | 305447 | [305447-egg.json](./305447-egg.json) |
 | Egg | 349788 | [349788-egg.json](./349788-egg.json) |
 | Egg Baby | 353757 | [353757-egg-baby.json](./353757-egg-baby.json) |
+| Egg Blast | 375478 | [375478-egg-blast.json](./375478-egg-blast.json) |
 | Egg Bunny 2 | 199387 | [199387-egg-bunny-2.json](./199387-egg-bunny-2.json) |
 | Egg Collector | 246497 | [246497-egg-collector.json](./246497-egg-collector.json) |
 | Egg Defense | 295230 | [295230-egg-defense.json](./295230-egg-defense.json) |
@@ -1771,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ekudorado: Kagami no Naka no Oukoku | 66167 | [66167-ekudorado-kagami-no-naka-no-oukoku.json](./66167-ekudorado-kagami-no-naka-no-oukoku.json) |
 | Ekurbanizu | 180945 | [180945-ekurbanizu.json](./180945-ekurbanizu.json) |
 | El | 262203 | [262203-el.json](./262203-el.json) |
+| El 39 | 375462 | [375462-el-39.json](./375462-el-39.json) |
 | El Akelarre de Lola | 335722 | [335722-el-akelarre-de-lola.json](./335722-el-akelarre-de-lola.json) |
 | El Boletero: The Space Ticketer | 333044 | [333044-el-boletero-the-space-ticketer.json](./333044-el-boletero-the-space-ticketer.json) |
 | El Brujo | 320991 | [320991-el-brujo.json](./320991-el-brujo.json) |
@@ -6421,6 +6423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everdate: The Let's Play Dating Game | 244143 | [244143-everdate-the-lets-play-dating-game.json](./244143-everdate-the-lets-play-dating-game.json) |
 | Everdawn | 185494 | [185494-everdawn.json](./185494-everdawn.json) |
 | Everdawn | 377182 | [377182-everdawn.json](./377182-everdawn.json) |
+| Everdawn Isle | 375129 | [375129-everdawn-isle.json](./375129-everdawn-isle.json) |
 | EverDead: Zombie Apocalypse | 63681 | [63681-everdead-zombie-apocalypse.json](./63681-everdead-zombie-apocalypse.json) |
 | Everdeep Aurora | 252778 | [252778-everdeep-aurora.json](./252778-everdeep-aurora.json) |
 | Everdell | 210527 | [210527-everdell.json](./210527-everdell.json) |
