@@ -4334,6 +4334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Service: In Harm's Way | 73800 | [73800-secret-service-in-harms-way.json](./73800-secret-service-in-harms-way.json) |
 | Secret Service: Security Breach | 73350 | [73350-secret-service-security-breach.json](./73350-secret-service-security-breach.json) |
 | Secret Shuffle | 258058 | [258058-secret-shuffle.json](./258058-secret-shuffle.json) |
+| Secret Some | 398756 | [398756-secret-some.json](./398756-secret-some.json) |
 | Secret Spy: Operation Love | 240249 | [240249-secret-spy-operation-love.json](./240249-secret-spy-operation-love.json) |
 | Secret Squonker | 407087 | [407087-secret-squonker.json](./407087-secret-squonker.json) |
 | Secret Summer | 368096 | [368096-secret-summer.json](./368096-secret-summer.json) |
@@ -12654,6 +12655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendytubbies II | 214423 | [214423-slendytubbies-ii.json](./214423-slendytubbies-ii.json) |
 | Slendytubbies III | 138560 | [138560-slendytubbies-iii.json](./138560-slendytubbies-iii.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
+| Slendytubbies Ø Records | 398762 | [398762-slendytubbies-records.json](./398762-slendytubbies-records.json) |
 | Slendytubbies: Worlds | 283548 | [283548-slendytubbies-worlds.json](./283548-slendytubbies-worlds.json) |
 | Slette Mette | 186468 | [186468-slette-mette.json](./186468-slette-mette.json) |
 | Sleuth | 94909 | [94909-sleuth.json](./94909-sleuth.json) |
@@ -18485,7 +18487,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22431,6 +22432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stampede | 5704 | [5704-stampede.json](./5704-stampede.json) |
 | Stampede Racing Royale | 252849 | [252849-stampede-racing-royale.json](./252849-stampede-racing-royale.json) |
 | Stampede Run | 60471 | [60471-stampede-run.json](./60471-stampede-run.json) |
+| Stamperor! The Jester's Decree | 398803 | [398803-stamperor-the-jesters-decree.json](./398803-stamperor-the-jesters-decree.json) |
 | Stampholder Value | 392389 | [392389-stampholder-value.json](./392389-stampholder-value.json) |
 | Stamps ‘n Papers | 346694 | [346694-stamps-n-papers.json](./346694-stamps-n-papers.json) |
 | Stan | 326277 | [326277-stan.json](./326277-stan.json) |
@@ -22454,6 +22456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand: Survive, Team-up, And Never Die | 322445 | [322445-stand-survive-team-up-and-never-die.json](./322445-stand-survive-team-up-and-never-die.json) |
 | Standalone: Synergy | 274324 | [274324-standalone-synergy.json](./274324-standalone-synergy.json) |
 | Standard Bits | 108835 | [108835-standard-bits.json](./108835-standard-bits.json) |
+| Standard Human Pizza | 398769 | [398769-standard-human-pizza.json](./398769-standard-human-pizza.json) |
 | Standard Legend | 116365 | [116365-standard-legend.json](./116365-standard-legend.json) |
 | Standard Snake | 87156 | [87156-standard-snake.json](./87156-standard-snake.json) |
 | Standball | 367154 | [367154-standball.json](./367154-standball.json) |
@@ -22840,6 +22843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Quiz Airline Two-Choice Universe | 386376 | [386376-star-quiz-airline-two-choice-universe.json](./386376-star-quiz-airline-two-choice-universe.json) |
 | Star Rabbits | 237027 | [237027-star-rabbits.json](./237027-star-rabbits.json) |
 | Star Racer | 270085 | [270085-star-racer.json](./270085-star-racer.json) |
+| Star Racing | 398763 | [398763-star-racing.json](./398763-star-racing.json) |
 | Star Rage VR | 68697 | [68697-star-rage-vr.json](./68697-star-rage-vr.json) |
 | Star Raiders | 2217 | [2217-star-raiders.json](./2217-star-raiders.json) |
 | Star Raiders | 239518 | [239518-star-raiders.json](./239518-star-raiders.json) |
@@ -34168,6 +34172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Systemic War | 365202 | [365202-systemic-war.json](./365202-systemic-war.json) |
 | Systemic\\Rem | 269736 | [269736-systemic-rem.json](./269736-systemic-rem.json) |
 | Systems Nominal | 8586 | [8586-systems-nominal.json](./8586-systems-nominal.json) |
+| Sythera | 398764 | [398764-sythera.json](./398764-sythera.json) |
 | Syunsoku Mezase! Zenkoku Saikyou Runner | 222512 | [222512-syunsoku-mezase-zenkoku-saikyou-runner.json](./222512-syunsoku-mezase-zenkoku-saikyou-runner.json) |
 | Syvalion | 40249 | [40249-syvalion.json](./40249-syvalion.json) |
 | Syvnta: Sovereignty | 343952 | [343952-syvnta-sovereignty.json](./343952-syvnta-sovereignty.json) |
