@@ -8247,6 +8247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Largest Pac-Man | 175992 | [175992-worlds-largest-pac-man.json](./175992-worlds-largest-pac-man.json) |
 | World's Nicht | 120054 | [120054-worlds-nicht.json](./120054-worlds-nicht.json) |
 | World's Scariest Police Chases | 45093 | [45093-worlds-scariest-police-chases.json](./45093-worlds-scariest-police-chases.json) |
+| World's Toughest Quiz | 371186 | [371186-worlds-toughest-quiz.json](./371186-worlds-toughest-quiz.json) |
 | World's Worst Handyman | 155675 | [155675-worlds-worst-handyman.json](./155675-worlds-worst-handyman.json) |
 | World2D Re | 262282 | [262282-world2d-re.json](./262282-world2d-re.json) |
 | WorldBox | 126489 | [126489-worldbox.json](./126489-worldbox.json) |
