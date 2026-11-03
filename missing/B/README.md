@@ -17204,6 +17204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust A Groove | 4138 | [4138-bust-a-groove.json](./4138-bust-a-groove.json) |
 | Bust A Groove 2 | 4139 | [4139-bust-a-groove-2.json](./4139-bust-a-groove-2.json) |
 | Bust a Move Online | 64298 | [64298-bust-a-move-online.json](./64298-bust-a-move-online.json) |
+| Bust Buddies | 389817 | [389817-bust-buddies.json](./389817-bust-buddies.json) |
 | Bust Hillary 3D | 227689 | [227689-bust-hillary-3d.json](./227689-bust-hillary-3d.json) |
 | Bust Out | 174878 | [174878-bust-out.json](./174878-bust-out.json) |
 | Bust-A-Bloc | 43509 | [43509-bust-a-bloc.json](./43509-bust-a-bloc.json) |
