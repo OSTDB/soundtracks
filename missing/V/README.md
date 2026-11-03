@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veggie Panino Tactics | 323787 | [323787-veggie-panino-tactics.json](./323787-veggie-panino-tactics.json) |
 | Veggie Samurai | 94124 | [94124-veggie-samurai.json](./94124-veggie-samurai.json) |
 | Veggie Tales 3D | 269838 | [269838-veggie-tales-3d.json](./269838-veggie-tales-3d.json) |
+| Veggie Warfare: Feast of Fury | 394386 | [394386-veggie-warfare-feast-of-fury.json](./394386-veggie-warfare-feast-of-fury.json) |
 | Veggies vs. Undead | 290659 | [290659-veggies-vs-undead.json](./290659-veggies-vs-undead.json) |
 | Veggies War | 224672 | [224672-veggies-war.json](./224672-veggies-war.json) |
 | VeggieTales: Bushels of Fun! | 206062 | [206062-veggietales-bushels-of-fun.json](./206062-veggietales-bushels-of-fun.json) |
@@ -1157,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veilfall: True Strength | 333066 | [333066-veilfall-true-strength.json](./333066-veilfall-true-strength.json) |
 | Veilia | 31616 | [31616-veilia.json](./31616-veilia.json) |
 | Veillombre | 421798 | [421798-veillombre.json](./421798-veillombre.json) |
+| Veils of the Past | 394283 | [394283-veils-of-the-past.json](./394283-veils-of-the-past.json) |
 | VeilStalker | 406850 | [406850-veilstalker.json](./406850-veilstalker.json) |
 | Veilwalkers | 349308 | [349308-veilwalkers.json](./349308-veilwalkers.json) |
 | Veilwalkers | 377293 | [377293-veilwalkers.json](./377293-veilwalkers.json) |
