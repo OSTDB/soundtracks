@@ -4140,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innocence Island | 197535 | [197535-innocence-island.json](./197535-innocence-island.json) |
 | Innocence Or Money Season 1: The Complete Season | 285605 | [285605-innocence-or-money-season-1-the-complete-season.json](./285605-innocence-or-money-season-1-the-complete-season.json) |
 | Innocence or Money: Season 2 - Episode 1 | 340754 | [340754-innocence-or-money-season-2-episode-1.json](./340754-innocence-or-money-season-2-episode-1.json) |
+| Innocence Rewrite | 349027 | [349027-innocence-rewrite.json](./349027-innocence-rewrite.json) |
 | Innocence: A Seduce Me Story | 304230 | [304230-innocence-a-seduce-me-story.json](./304230-innocence-a-seduce-me-story.json) |
 | Innocent | 84072 | [84072-innocent.json](./84072-innocent.json) |
 | Innocent Bullet: The False World | 401153 | [401153-innocent-bullet-the-false-world.json](./401153-innocent-bullet-the-false-world.json) |
@@ -4442,6 +4443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspired You | 413037 | [413037-inspired-you.json](./413037-inspired-you.json) |
 | Inspiring Dreams | 295500 | [295500-inspiring-dreams.json](./295500-inspiring-dreams.json) |
 | Inspirit Online | 59870 | [59870-inspirit-online.json](./59870-inspirit-online.json) |
+| InspoQuest | 349199 | [349199-inspoquest.json](./349199-inspoquest.json) |
 | Instability | 156522 | [156522-instability.json](./156522-instability.json) |
 | Instacalm VR | 150747 | [150747-instacalm-vr.json](./150747-instacalm-vr.json) |
 | InstaCondo Limited | 97238 | [97238-instacondo-limited.json](./97238-instacondo-limited.json) |
