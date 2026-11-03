@@ -9691,6 +9691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blindfire | 320139 | [320139-blindfire.json](./320139-blindfire.json) |
 | Blindfold | 123328 | [123328-blindfold.json](./123328-blindfold.json) |
 | Blindfold | 356150 | [356150-blindfold.json](./356150-blindfold.json) |
+| Blindfold | 383669 | [383669-blindfold.json](./383669-blindfold.json) |
 | Blindfold: Hide and Seek | 413172 | [413172-blindfold-hide-and-seek.json](./413172-blindfold-hide-and-seek.json) |
 | BlindGiRl2 | 65449 | [65449-blindgirl2.json](./65449-blindgirl2.json) |
 | Blinding Lite | 302370 | [302370-blinding-lite.json](./302370-blinding-lite.json) |
