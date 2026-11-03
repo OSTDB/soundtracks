@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unakiri Action!: Kiritan-hou no Nazo | 204707 | [204707-unakiri-action-kiritan-hou-no-nazo.json](./204707-unakiri-action-kiritan-hou-no-nazo.json) |
 | Unakis | 338593 | [338593-unakis.json](./338593-unakis.json) |
 | Unaligned | 177480 | [177480-unaligned.json](./177480-unaligned.json) |
+| UnAligned: 21 Days, 27 Maps, Zero Texture Alignment | 383412 | [383412-unaligned-21-days-27-maps-zero-texture-alignment.json](./383412-unaligned-21-days-27-maps-zero-texture-alignment.json) |
 | Unalive | 29969 | [29969-unalive.json](./29969-unalive.json) |
 | Unalive 010 | 247441 | [247441-unalive-010.json](./247441-unalive-010.json) |
 | Unanchored Spaceshooting | 390226 | [390226-unanchored-spaceshooting.json](./390226-unanchored-spaceshooting.json) |
@@ -1334,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Waters: New Horizons | 38412 | [38412-uncharted-waters-new-horizons.json](./38412-uncharted-waters-new-horizons.json) |
 | Uncharted Waters: New Horizons | 45539 | [45539-uncharted-waters-new-horizons.json](./45539-uncharted-waters-new-horizons.json) |
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
+| Uncharted World | 383409 | [383409-uncharted-world.json](./383409-uncharted-world.json) |
 | Uncharted: Drake's Fortune Remastered | 41878 | [41878-uncharted-drakes-fortune-remastered.json](./41878-uncharted-drakes-fortune-remastered.json) |
 | Uncharted: Fight for Fortune | 19583 | [19583-uncharted-fight-for-fortune.json](./19583-uncharted-fight-for-fortune.json) |
 | Uncharted: Fight for Fortune - Among Thieves Expansion | 381859 | [381859-uncharted-fight-for-fortune-among-thieves-expansion.json](./381859-uncharted-fight-for-fortune-among-thieves-expansion.json) |
