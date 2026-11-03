@@ -3786,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pencil vs. Eraser | 120571 | [120571-pencil-vs-eraser.json](./120571-pencil-vs-eraser.json) |
 | Pencil Whipped | 72546 | [72546-pencil-whipped.json](./72546-pencil-whipped.json) |
 | Pencil! | 306927 | [306927-pencil.json](./306927-pencil.json) |
+| Pencil! x Walkabout Mini Golf: Alice's Adventures in Wonderland - Lesson Pack | 380578 | [380578-pencil-x-walkabout-mini-golf-alices-adventures-in-wonderland-lesson-pack.json](./380578-pencil-x-walkabout-mini-golf-alices-adventures-in-wonderland-lesson-pack.json) |
 | Pencilvania | 292755 | [292755-pencilvania.json](./292755-pencilvania.json) |
 | Pendek | 171256 | [171256-pendek.json](./171256-pendek.json) |
 | Pendelum | 138540 | [138540-pendelum.json](./138540-pendelum.json) |
@@ -4756,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets | 331219 | [331219-pets.json](./331219-pets.json) |
 | Pets and Friends | 335355 | [335355-pets-and-friends.json](./335355-pets-and-friends.json) |
 | Pets and Friends Butterflies Bundle | 366792 | [366792-pets-and-friends-butterflies-bundle.json](./366792-pets-and-friends-butterflies-bundle.json) |
+| Pets and Friends Christmas Bundle | 380712 | [380712-pets-and-friends-christmas-bundle.json](./380712-pets-and-friends-christmas-bundle.json) |
 | Pets and Friends Easter Bundle | 396924 | [396924-pets-and-friends-easter-bundle.json](./396924-pets-and-friends-easter-bundle.json) |
 | Pets and Friends Summer Vibes | 404270 | [404270-pets-and-friends-summer-vibes.json](./404270-pets-and-friends-summer-vibes.json) |
 | Pets and Friends Valentines Bundle | 390906 | [390906-pets-and-friends-valentines-bundle.json](./390906-pets-and-friends-valentines-bundle.json) |
@@ -8531,6 +8533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Doctor and Panacea | 365211 | [365211-plague-doctor-and-panacea.json](./365211-plague-doctor-and-panacea.json) |
 | Plague Doctor vs. the Profane | 420546 | [420546-plague-doctor-vs-the-profane.json](./420546-plague-doctor-vs-the-profane.json) |
 | Plague Doctor: Contagion - 430 BCE-2020 AD | 174100 | [174100-plague-doctor-contagion-430-bce-2020-ad.json](./174100-plague-doctor-contagion-430-bce-2020-ad.json) |
+| Plague Doctor: Life in Pestilence | 380349 | [380349-plague-doctor-life-in-pestilence.json](./380349-plague-doctor-life-in-pestilence.json) |
 | Plague Doctor: Medieval Apothecary | 416824 | [416824-plague-doctor-medieval-apothecary.json](./416824-plague-doctor-medieval-apothecary.json) |
 | Plague Inc: Aliens & Anti-Vaxxers | 398971 | [398971-plague-inc-aliens-and-anti-vaxxers.json](./398971-plague-inc-aliens-and-anti-vaxxers.json) |
 | Plague Inc: Evolved | 7601 | [7601-plague-inc-evolved.json](./7601-plague-inc-evolved.json) |
@@ -11559,6 +11562,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polymega Collection Vol. 10: Bases Loaded | 342518 | [342518-polymega-collection-vol-10-bases-loaded.json](./342518-polymega-collection-vol-10-bases-loaded.json) |
 | Polymega Collection Vol. 11: Adventure | 359899 | [359899-polymega-collection-vol-11-adventure.json](./359899-polymega-collection-vol-11-adventure.json) |
 | Polymega Collection Vol. 12: Tempest | 359900 | [359900-polymega-collection-vol-12-tempest.json](./359900-polymega-collection-vol-12-tempest.json) |
+| Polymega Collection Vol. 13: Sengoku Blade | 380379 | [380379-polymega-collection-vol-13-sengoku-blade.json](./380379-polymega-collection-vol-13-sengoku-blade.json) |
+| Polymega Collection Vol. 14: Astyanax | 380380 | [380380-polymega-collection-vol-14-astyanax.json](./380380-polymega-collection-vol-14-astyanax.json) |
+| Polymega Collection Vol. 15: Body Harvest | 380381 | [380381-polymega-collection-vol-15-body-harvest.json](./380381-polymega-collection-vol-15-body-harvest.json) |
+| Polymega Collection Vol. 16: A Boy and His Blob | 380382 | [380382-polymega-collection-vol-16-a-boy-and-his-blob.json](./380382-polymega-collection-vol-16-a-boy-and-his-blob.json) |
 | Polymega Collection Vol. 2: Karate Champ | 324512 | [324512-polymega-collection-vol-2-karate-champ.json](./324512-polymega-collection-vol-2-karate-champ.json) |
 | Polymega Collection Vol. 5: Bad Dudes | 337540 | [337540-polymega-collection-vol-5-bad-dudes.json](./337540-polymega-collection-vol-5-bad-dudes.json) |
 | Polymega Collection Vol. 6: Heavy Barrel | 337542 | [337542-polymega-collection-vol-6-heavy-barrel.json](./337542-polymega-collection-vol-6-heavy-barrel.json) |
@@ -15594,6 +15601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promesa | 139174 | [139174-promesa.json](./139174-promesa.json) |
 | Promessa | 329677 | [329677-promessa.json](./329677-promessa.json) |
 | Promesst | 351396 | [351396-promesst.json](./351396-promesst.json) |
+| Promesst 2 | 380351 | [380351-promesst-2.json](./380351-promesst-2.json) |
 | Promethean Hive Wave Defense | 383097 | [383097-promethean-hive-wave-defense.json](./383097-promethean-hive-wave-defense.json) |
 | Promethean Thirst | 405695 | [405695-promethean-thirst.json](./405695-promethean-thirst.json) |
 | Prometheus | 217708 | [217708-prometheus.json](./217708-prometheus.json) |
