@@ -4249,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Cafe Gun | 139383 | [139383-girl-cafe-gun.json](./139383-girl-cafe-gun.json) |
 | Girl Card Battle | 340301 | [340301-girl-card-battle.json](./340301-girl-card-battle.json) |
 | Girl Design | 415316 | [415316-girl-design.json](./415316-girl-design.json) |
+| Girl Detective White Cat | 367658 | [367658-girl-detective-white-cat.json](./367658-girl-detective-white-cat.json) |
 | Girl Doll Toy: Tamashii o Kudasai | 209622 | [209622-girl-doll-toy-tamashii-o-kudasai.json](./209622-girl-doll-toy-tamashii-o-kudasai.json) |
 | Girl Dress Up Classic | 400055 | [400055-girl-dress-up-classic.json](./400055-girl-dress-up-classic.json) |
 | Girl Dress Up Makeover | 88327 | [88327-girl-dress-up-makeover.json](./88327-girl-dress-up-makeover.json) |
@@ -8569,6 +8570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greenie - The Eccentric Egyptologist | 58515 | [58515-greenie-the-eccentric-egyptologist.json](./58515-greenie-the-eccentric-egyptologist.json) |
 | Greenie's Little Adventure | 58500 | [58500-greenies-little-adventure.json](./58500-greenies-little-adventure.json) |
 | Greenies | 92897 | [92897-greenies.json](./92897-greenies.json) |
+| GreenIsland | 367651 | [367651-greenisland.json](./367651-greenisland.json) |
 | Greenland | 291877 | [291877-greenland.json](./291877-greenland.json) |
 | Greenlander | 236838 | [236838-greenlander.json](./236838-greenlander.json) |
 | Greenman | 276804 | [276804-greenman.json](./276804-greenman.json) |
@@ -9786,6 +9788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess Me If You Can | 339829 | [339829-guess-me-if-you-can.json](./339829-guess-me-if-you-can.json) |
 | Guess My Word | 314418 | [314418-guess-my-word.json](./314418-guess-my-word.json) |
 | Guess Picture | 165151 | [165151-guess-picture.json](./165151-guess-picture.json) |
+| Guess Pictures: Animals | 367685 | [367685-guess-pictures-animals.json](./367685-guess-pictures-animals.json) |
 | Guess Pony Cartoon | 202387 | [202387-guess-pony-cartoon.json](./202387-guess-pony-cartoon.json) |
 | Guess the Animal | 89019 | [89019-guess-the-animal.json](./89019-guess-the-animal.json) |
 | Guess the Celebrity | 232069 | [232069-guess-the-celebrity.json](./232069-guess-the-celebrity.json) |
@@ -10675,6 +10678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslugs: Rogue Tactics | 114017 | [114017-gunslugs-rogue-tactics.json](./114017-gunslugs-rogue-tactics.json) |
 | Gunsmith | 355085 | [355085-gunsmith.json](./355085-gunsmith.json) |
 | Gunsmith | 81232 | [81232-gunsmith.json](./81232-gunsmith.json) |
+| Gunsmith Master Simulator | 367693 | [367693-gunsmith-master-simulator.json](./367693-gunsmith-master-simulator.json) |
 | Gunsmith Simulator | 133405 | [133405-gunsmith-simulator.json](./133405-gunsmith-simulator.json) |
 | Gunsmith Simulator: Fabryka Broni DLC | 389516 | [389516-gunsmith-simulator-fabryka-broni-dlc.json](./389516-gunsmith-simulator-fabryka-broni-dlc.json) |
 | Gunsmith Simulator: Flint & Powder | 389517 | [389517-gunsmith-simulator-flint-and-powder.json](./389517-gunsmith-simulator-flint-and-powder.json) |
