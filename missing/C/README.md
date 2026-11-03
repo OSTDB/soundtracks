@@ -10998,6 +10998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cole's Christmas 2024: GoonQuest | 327419 | [327419-coles-christmas-2024-goonquest.json](./327419-coles-christmas-2024-goonquest.json) |
 | Colecionador Show do Milhão | 222352 | [222352-colecionador-show-do-milhao.json](./222352-colecionador-show-do-milhao.json) |
 | ColecoVision Flashback | 245651 | [245651-colecovision-flashback.json](./245651-colecovision-flashback.json) |
+| Colette's Fall Festival | 384481 | [384481-colettes-fall-festival.json](./384481-colettes-fall-festival.json) |
 | Colette's Sugar Madness | 109765 | [109765-colettes-sugar-madness.json](./109765-colettes-sugar-madness.json) |
 | Colibrium: Zen Colour Matching | 107139 | [107139-colibrium-zen-colour-matching.json](./107139-colibrium-zen-colour-matching.json) |
 | Colin McRae Rally 2.0 | 235185 | [235185-colin-mcrae-rally-2-0.json](./235185-colin-mcrae-rally-2-0.json) |
@@ -12418,6 +12419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CompuChess | 91563 | [91563-compuchess.json](./91563-compuchess.json) |
 | CompuChess 2004 | 79529 | [79529-compuchess-2004.json](./79529-compuchess-2004.json) |
 | Compulsive | 250661 | [250661-compulsive.json](./250661-compulsive.json) |
+| Compulsory | 384489 | [384489-compulsory.json](./384489-compulsory.json) |
 | Computer Acquire | 24806 | [24806-computer-acquire.json](./24806-computer-acquire.json) |
 | Computer Air Combat | 24832 | [24832-computer-air-combat.json](./24832-computer-air-combat.json) |
 | Computer Ambush | 23571 | [23571-computer-ambush.json](./23571-computer-ambush.json) |
