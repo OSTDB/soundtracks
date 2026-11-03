@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Pussy: Chapter 1 | 244719 | [244719-magic-pussy-chapter-1.json](./244719-magic-pussy-chapter-1.json) |
 | Magic Pussy: Chapter 3 | 365670 | [365670-magic-pussy-chapter-3.json](./365670-magic-pussy-chapter-3.json) |
 | Magic Puzzle | 328296 | [328296-magic-puzzle.json](./328296-magic-puzzle.json) |
+| Magic Puzzle King | 358040 | [358040-magic-puzzle-king.json](./358040-magic-puzzle-king.json) |
 | Magic Quest: TCG | 121394 | [121394-magic-quest-tcg.json](./121394-magic-quest-tcg.json) |
 | Magic Quiz | 391635 | [391635-magic-quiz.json](./391635-magic-quiz.json) |
 | Magic Rampage | 61995 | [61995-magic-rampage.json](./61995-magic-rampage.json) |
@@ -2003,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongg Sammlung | 91603 | [91603-mahjongg-sammlung.json](./91603-mahjongg-sammlung.json) |
 | Mahjongg The Ultimate Collection 2 | 108027 | [108027-mahjongg-the-ultimate-collection-2.json](./108027-mahjongg-the-ultimate-collection-2.json) |
 | Mahjongger | 93002 | [93002-mahjongger.json](./93002-mahjongger.json) |
+| MahjongPuzzle 8 | 358025 | [358025-mahjongpuzzle-8.json](./358025-mahjongpuzzle-8.json) |
 | MahjongSchool | 158226 | [158226-mahjongschool.json](./158226-mahjongschool.json) |
 | Mahjongus: Mystery of Fortescue | 316192 | [316192-mahjongus-mystery-of-fortescue.json](./316192-mahjongus-mystery-of-fortescue.json) |
 | Mahjongus: The Warlock Within | 405900 | [405900-mahjongus-the-warlock-within.json](./405900-mahjongus-the-warlock-within.json) |
@@ -5656,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -11185,6 +11188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilliBilli Slots | 232540 | [232540-millibilli-slots.json](./232540-millibilli-slots.json) |
 | Millidor | 81670 | [81670-millidor.json](./81670-millidor.json) |
 | Millie | 8957 | [8957-millie.json](./8957-millie.json) |
+| Millie and Friends: Hidden Object Puzzles | 358024 | [358024-millie-and-friends-hidden-object-puzzles.json](./358024-millie-and-friends-hidden-object-puzzles.json) |
 | Millie and Molly | 179661 | [179661-millie-and-molly.json](./179661-millie-and-molly.json) |
 | Millie Megavolte 8: Millie and the Mole King | 295091 | [295091-millie-megavolte-8-millie-and-the-mole-king.json](./295091-millie-megavolte-8-millie-and-the-mole-king.json) |
 | Millie Meter and Her Adventures in the Oak Tree | 57571 | [57571-millie-meter-and-her-adventures-in-the-oak-tree.json](./57571-millie-meter-and-her-adventures-in-the-oak-tree.json) |
@@ -12388,6 +12392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Copper | 224545 | [224545-mining-copper.json](./224545-mining-copper.json) |
 | Mining Empire: Earth Resources | 112868 | [112868-mining-empire-earth-resources.json](./112868-mining-empire-earth-resources.json) |
 | Mining Factory | 226197 | [226197-mining-factory.json](./226197-mining-factory.json) |
+| Mining Heroes: Puzzle RPG | 358026 | [358026-mining-heroes-puzzle-rpg.json](./358026-mining-heroes-puzzle-rpg.json) |
 | Mining Industry | 36239 | [36239-mining-industry.json](./36239-mining-industry.json) |
 | Mining Mechs + Magnetic Mystery Bundle | 309059 | [309059-mining-mechs-magnetic-mystery-bundle.json](./309059-mining-mechs-magnetic-mystery-bundle.json) |
 | Mining Mechs: Camel Chaos | 340578 | [340578-mining-mechs-camel-chaos.json](./340578-mining-mechs-camel-chaos.json) |
