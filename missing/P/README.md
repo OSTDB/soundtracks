@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pahtkest! | 382342 | [382342-pahtkest.json](./382342-pahtkest.json) |
 | Pai | 292496 | [292496-pai.json](./292496-pai.json) |
 | Pai Touch! | 77064 | [77064-pai-touch.json](./77064-pai-touch.json) |
+| Paic: Moon Rider Story | 398737 | [398737-paic-moon-rider-story.json](./398737-paic-moon-rider-story.json) |
 | Paid by Blood | 409688 | [409688-paid-by-blood.json](./409688-paid-by-blood.json) |
 | Paid in Blood | 392268 | [392268-paid-in-blood.json](./392268-paid-in-blood.json) |
 | Paign | 388159 | [388159-paign.json](./388159-paign.json) |
@@ -1427,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Freezeria to Go! | 95739 | [95739-papas-freezeria-to-go.json](./95739-papas-freezeria-to-go.json) |
 | Papa's Hot Doggeria | 210491 | [210491-papas-hot-doggeria.json](./210491-papas-hot-doggeria.json) |
 | Papa's Hot Doggeria HD | 88892 | [88892-papas-hot-doggeria-hd.json](./88892-papas-hot-doggeria-hd.json) |
+| Papa's Mocharia Deluxe | 399974 | [399974-papas-mocharia-deluxe.json](./399974-papas-mocharia-deluxe.json) |
 | Papa's Paleteria To Go! | 290074 | [290074-papas-paleteria-to-go.json](./290074-papas-paleteria-to-go.json) |
 | Papa's Pancakeria | 142945 | [142945-papas-pancakeria.json](./142945-papas-pancakeria.json) |
 | Papa's Pancakeria HD | 88891 | [88891-papas-pancakeria-hd.json](./88891-papas-pancakeria-hd.json) |
@@ -2623,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passeport du CE2 au CM1 | 376072 | [376072-passeport-du-ce2-au-cm1.json](./376072-passeport-du-ce2-au-cm1.json) |
 | Passer | 351394 | [351394-passer.json](./351394-passer.json) |
 | Passerines in End Times | 383193 | [383193-passerines-in-end-times.json](./383193-passerines-in-end-times.json) |
+| Passiflora | 398761 | [398761-passiflora.json](./398761-passiflora.json) |
 | Passin'Time | 181042 | [181042-passintime.json](./181042-passintime.json) |
 | Passing By | 201635 | [201635-passing-by.json](./201635-passing-by.json) |
 | Passing By: A Tailwind Journey | 139265 | [139265-passing-by-a-tailwind-journey.json](./139265-passing-by-a-tailwind-journey.json) |
@@ -3981,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penumbra: Requiem | 8945 | [8945-penumbra-requiem.json](./8945-penumbra-requiem.json) |
 | Penumbris Doña | 325701 | [325701-penumbris-dona.json](./325701-penumbris-dona.json) |
 | Peojeul Pooh | 61672 | [61672-peojeul-pooh.json](./61672-peojeul-pooh.json) |
+| Peony's Eternity | 398760 | [398760-peonys-eternity.json](./398760-peonys-eternity.json) |
 | People & Places Trivia | 87562 | [87562-people-and-places-trivia.json](./87562-people-and-places-trivia.json) |
 | People and Zombies | 341451 | [341451-people-and-zombies.json](./341451-people-and-zombies.json) |
 | People are Labyrinths | 204240 | [204240-people-are-labyrinths.json](./204240-people-are-labyrinths.json) |
@@ -4273,12 +4277,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perished: The Zurkez Project | 65975 | [65975-perished-the-zurkez-project.json](./65975-perished-the-zurkez-project.json) |
 | Perisher | 135492 | [135492-perisher.json](./135492-perisher.json) |
 | Perisno | 356202 | [356202-perisno.json](./356202-perisno.json) |
+| Periwinkle | 398765 | [398765-periwinkle.json](./398765-periwinkle.json) |
+| Periwinkle | 398772 | [398772-periwinkle.json](./398772-periwinkle.json) |
 | Periwinkle Blues | 184743 | [184743-periwinkle-blues.json](./184743-periwinkle-blues.json) |
 | Perk Up | 372990 | [372990-perk-up.json](./372990-perk-up.json) |
 | Perkele! Suomi 100 vuotta | 74390 | [74390-perkele-suomi-100-vuotta.json](./74390-perkele-suomi-100-vuotta.json) |
 | Perky Little Things | 90825 | [90825-perky-little-things.json](./90825-perky-little-things.json) |
 | Perlin Festival | 357375 | [357375-perlin-festival.json](./357375-perlin-festival.json) |
 | Perma | 184997 | [184997-perma.json](./184997-perma.json) |
+| Permaban | 400001 | [400001-permaban.json](./400001-permaban.json) |
 | Permadeath | 337442 | [337442-permadeath.json](./337442-permadeath.json) |
 | Permafrost | 202319 | [202319-permafrost.json](./202319-permafrost.json) |
 | Permafrost | 302147 | [302147-permafrost.json](./302147-permafrost.json) |
@@ -6897,6 +6904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinocchia no Miru Yume | 203288 | [203288-pinocchia-no-miru-yume.json](./203288-pinocchia-no-miru-yume.json) |
 | Pinocchio: Interactive Book | 265189 | [265189-pinocchio-interactive-book.json](./265189-pinocchio-interactive-book.json) |
 | Pinocchio's Puzzle | 84821 | [84821-pinocchios-puzzle.json](./84821-pinocchios-puzzle.json) |
+| Pinocchiogoria | 398746 | [398746-pinocchiogoria.json](./398746-pinocchiogoria.json) |
 | Pinochle | 83700 | [83700-pinochle.json](./83700-pinochle.json) |
 | Pinochle by Webfoot | 99396 | [99396-pinochle-by-webfoot.json](./99396-pinochle-by-webfoot.json) |
 | Pinochle HD | 90707 | [90707-pinochle-hd.json](./90707-pinochle-hd.json) |
@@ -10419,6 +10427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Cyan | 129814 | [129814-pokemon-cyan.json](./129814-pokemon-cyan.json) |
 | Pokémon D.W. | 147178 | [147178-pokemon-d-w.json](./147178-pokemon-d-w.json) |
 | Pokémon Dark Energy | 386952 | [386952-pokemon-dark-energy.json](./386952-pokemon-dark-energy.json) |
+| Pokémon Dark Horizon | 399964 | [399964-pokemon-dark-horizon.json](./399964-pokemon-dark-horizon.json) |
 | Pokémon Dark Rising II | 354921 | [354921-pokemon-dark-rising-ii.json](./354921-pokemon-dark-rising-ii.json) |
 | Pokémon Darkness | 275505 | [275505-pokemon-darkness.json](./275505-pokemon-darkness.json) |
 | Pokémon DarkViolet Version | 194827 | [194827-pokemon-darkviolet-version.json](./194827-pokemon-darkviolet-version.json) |
@@ -13345,6 +13354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Kingdom | 360116 | [360116-pretty-kingdom.json](./360116-pretty-kingdom.json) |
 | Pretty Kitty Fuzzy | 216949 | [216949-pretty-kitty-fuzzy.json](./216949-pretty-kitty-fuzzy.json) |
 | Pretty Liars: Secret Forbidden Love Story Games | 95815 | [95815-pretty-liars-secret-forbidden-love-story-games.json](./95815-pretty-liars-secret-forbidden-love-story-games.json) |
+| Pretty Magicle: Miracle Heart | 399945 | [399945-pretty-magicle-miracle-heart.json](./399945-pretty-magicle-miracle-heart.json) |
 | Pretty Neko | 159243 | [159243-pretty-neko.json](./159243-pretty-neko.json) |
 | Pretty Ninja Himekage | 220327 | [220327-pretty-ninja-himekage.json](./220327-pretty-ninja-himekage.json) |
 | Pretty Overseer | 232964 | [232964-pretty-overseer.json](./232964-pretty-overseer.json) |
