@@ -4647,6 +4647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mask of Lion | 233626 | [233626-mask-of-lion.json](./233626-mask-of-lion.json) |
 | Mask of Mists | 128299 | [128299-mask-of-mists.json](./128299-mask-of-mists.json) |
 | Mask of Sanity | 121696 | [121696-mask-of-sanity.json](./121696-mask-of-sanity.json) |
+| Mask of Soul | 390325 | [390325-mask-of-soul.json](./390325-mask-of-soul.json) |
 | Mask of Souls | 391657 | [391657-mask-of-souls.json](./391657-mask-of-souls.json) |
 | Mask of the Plague Doctor | 129712 | [129712-mask-of-the-plague-doctor.json](./129712-mask-of-the-plague-doctor.json) |
 | Mask Quest | 236934 | [236934-mask-quest.json](./236934-mask-quest.json) |
@@ -10334,6 +10335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microtrip | 344909 | [344909-microtrip.json](./344909-microtrip.json) |
 | MicroVolts Surge | 16263 | [16263-microvolts-surge.json](./16263-microvolts-surge.json) |
 | Microwasp Seekers | 189899 | [189899-microwasp-seekers.json](./189899-microwasp-seekers.json) |
+| Microwave Simulator | 390366 | [390366-microwave-simulator.json](./390366-microwave-simulator.json) |
 | Microwave Story | 311060 | [311060-microwave-story.json](./311060-microwave-story.json) |
 | Microwave Yourself | 364401 | [364401-microwave-yourself.json](./364401-microwave-yourself.json) |
 | MicroWorks | 132893 | [132893-microworks.json](./132893-microworks.json) |
@@ -11874,6 +11876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minforiga | 149866 | [149866-minforiga.json](./149866-minforiga.json) |
 | Ming Dynasty: Cards & Court | 390606 | [390606-ming-dynasty-cards-and-court.json](./390606-ming-dynasty-cards-and-court.json) |
 | Ming Imperial Guards | 282165 | [282165-ming-imperial-guards.json](./282165-ming-imperial-guards.json) |
+| MingJiangSha | 390323 | [390323-mingjiangsha.json](./390323-mingjiangsha.json) |
 | Míngjiào Fēngyún zhī Jiǔ Yīn Jiǔ Yáng | 155014 | [155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json](./155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json) |
 | Mingle | 214416 | [214416-mingle.json](./214416-mingle.json) |
 | Mingle Magnet | 37567 | [37567-mingle-magnet.json](./37567-mingle-magnet.json) |
@@ -15648,6 +15651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlander | 9129 | [9129-moonlander.json](./9129-moonlander.json) |
 | Moonlaw | 185874 | [185874-moonlaw.json](./185874-moonlaw.json) |
 | Moonleap 2600 | 413685 | [413685-moonleap-2600.json](./413685-moonleap-2600.json) |
+| Moonleap GBC | 390335 | [390335-moonleap-gbc.json](./390335-moonleap-gbc.json) |
 | Moonleap Maker | 412890 | [412890-moonleap-maker.json](./412890-moonleap-maker.json) |
 | Moonless | 244863 | [244863-moonless.json](./244863-moonless.json) |
 | Moonless Moon | 302959 | [302959-moonless-moon.json](./302959-moonless-moon.json) |
@@ -15737,6 +15741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshine Madness | 304588 | [304588-moonshine-madness.json](./304588-moonshine-madness.json) |
 | Moonshine Maniacs: A Wild West Saga | 132221 | [132221-moonshine-maniacs-a-wild-west-saga.json](./132221-moonshine-maniacs-a-wild-west-saga.json) |
 | Moonshine Racers | 12686 | [12686-moonshine-racers.json](./12686-moonshine-racers.json) |
+| Moonshiner Simulator | 390358 | [390358-moonshiner-simulator.json](./390358-moonshiner-simulator.json) |
 | Moonship | 256233 | [256233-moonship.json](./256233-moonship.json) |
 | Moonshire | 280933 | [280933-moonshire.json](./280933-moonshire.json) |
 | Moonshot | 20351 | [20351-moonshot.json](./20351-moonshot.json) |
@@ -15793,6 +15798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moop and Dreadly in the Treasure on Bing Bong Island | 70035 | [70035-moop-and-dreadly-in-the-treasure-on-bing-bong-island.json](./70035-moop-and-dreadly-in-the-treasure-on-bing-bong-island.json) |
 | Moor | 119939 | [119939-moor.json](./119939-moor.json) |
 | Moor Rail | 349370 | [349370-moor-rail.json](./349370-moor-rail.json) |
+| Moorage | 390370 | [390370-moorage.json](./390370-moorage.json) |
 | Moorestech | 385545 | [385545-moorestech.json](./385545-moorestech.json) |
 | Moorfrog | 93346 | [93346-moorfrog.json](./93346-moorfrog.json) |
 | Moorhen 3: The Chicken Chase! | 49438 | [49438-moorhen-3-the-chicken-chase.json](./49438-moorhen-3-the-chicken-chase.json) |
