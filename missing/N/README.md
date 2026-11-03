@@ -3606,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Quarterback Club 97 | 20258 | [20258-nfl-quarterback-club-97.json](./20258-nfl-quarterback-club-97.json) |
 | NFL Quarterback Club 98 | 3558 | [3558-nfl-quarterback-club-98.json](./3558-nfl-quarterback-club-98.json) |
 | NFL Quarterback Club 99 | 47756 | [47756-nfl-quarterback-club-99.json](./47756-nfl-quarterback-club-99.json) |
+| NFL Retro Bowl '25 | 355987 | [355987-nfl-retro-bowl-25.json](./355987-nfl-retro-bowl-25.json) |
 | NFL Retro Bowl '26 | 362065 | [362065-nfl-retro-bowl-26.json](./362065-nfl-retro-bowl-26.json) |
 | NFL Rivals | 249177 | [249177-nfl-rivals.json](./249177-nfl-rivals.json) |
 | NFL Rush Zone | 230392 | [230392-nfl-rush-zone.json](./230392-nfl-rush-zone.json) |
