@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeover | 304587 | [304587-takeover.json](./304587-takeover.json) |
 | Takeover | 360505 | [360505-takeover.json](./360505-takeover.json) |
 | Takeover | 405600 | [405600-takeover.json](./405600-takeover.json) |
+| Takeover 2 | 393250 | [393250-takeover-2.json](./393250-takeover-2.json) |
 | Takeover Trail | 395577 | [395577-takeover-trail.json](./395577-takeover-trail.json) |
 | Takepoint.io | 194571 | [194571-takepoint-io.json](./194571-takepoint-io.json) |
 | Takeshi and Hiroshi | 130698 | [130698-takeshi-and-hiroshi.json](./130698-takeshi-and-hiroshi.json) |
@@ -2414,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Targeting Maths Lab Launch Pad | 291997 | [291997-targeting-maths-lab-launch-pad.json](./291997-targeting-maths-lab-launch-pad.json) |
 | TargetPop | 212156 | [212156-targetpop.json](./212156-targetpop.json) |
 | Targets | 234656 | [234656-targets.json](./234656-targets.json) |
+| Targetshooter | 393215 | [393215-targetshooter.json](./393215-targetshooter.json) |
 | Targhan | 10849 | [10849-targhan.json](./10849-targhan.json) |
 | Taria & Como | 340849 | [340849-taria-and-como.json](./340849-taria-and-como.json) |
 | Tarim | 55314 | [55314-tarim.json](./55314-tarim.json) |
@@ -16303,6 +16305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story of the Flood | 164171 | [164171-the-story-of-the-flood.json](./164171-the-story-of-the-flood.json) |
 | The Story of the Goddess Ankhanessa: Journey to the East | 181193 | [181193-the-story-of-the-goddess-ankhanessa-journey-to-the-east.json](./181193-the-story-of-the-goddess-ankhanessa-journey-to-the-east.json) |
 | The Story of the Revolutionary Watermelon That Wanted to Live Free as a Bird and Learned How to Escape | 144241 | [144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json](./144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json) |
+| The Story Page | 393239 | [393239-the-story-page.json](./393239-the-story-page.json) |
 | The StoryTale | 36467 | [36467-the-storytale.json](./36467-the-storytale.json) |
 | The Storyteller | 302369 | [302369-the-storyteller.json](./302369-the-storyteller.json) |
 | The Storyteller | 342841 | [342841-the-storyteller.json](./342841-the-storyteller.json) |
@@ -21844,6 +21847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Warrior | 221900 | [221900-time-warrior.json](./221900-time-warrior.json) |
 | Time Warrior Z VR | 116775 | [116775-time-warrior-z-vr.json](./116775-time-warrior-z-vr.json) |
 | Time Warriors | 10859 | [10859-time-warriors.json](./10859-time-warriors.json) |
+| Time Wars | 393240 | [393240-time-wars.json](./393240-time-wars.json) |
 | Time Wasters | 235056 | [235056-time-wasters.json](./235056-time-wasters.json) |
 | Time Witch | 412201 | [412201-time-witch.json](./412201-time-witch.json) |
 | Time Wiza | 364675 | [364675-time-wiza.json](./364675-time-wiza.json) |
@@ -23834,6 +23838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tome of the Damned | 380081 | [380081-tome-of-the-damned.json](./380081-tome-of-the-damned.json) |
 | Tome of the Sun | 112118 | [112118-tome-of-the-sun.json](./112118-tome-of-the-sun.json) |
 | Tome Rush | 156902 | [156902-tome-rush.json](./156902-tome-rush.json) |
+| Tome Transform | 393221 | [393221-tome-transform.json](./393221-tome-transform.json) |
 | Tome Tumble Tournament | 356560 | [356560-tome-tumble-tournament.json](./356560-tome-tumble-tournament.json) |
 | Tome: Immortal Arena | 62570 | [62570-tome-immortal-arena.json](./62570-tome-immortal-arena.json) |
 | Tomebound | 366553 | [366553-tomebound.json](./366553-tomebound.json) |
@@ -28797,6 +28802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treekeepers | 219535 | [219535-treekeepers.json](./219535-treekeepers.json) |
 | Treeker: The Lost Glasses | 35269 | [35269-treeker-the-lost-glasses.json](./35269-treeker-the-lost-glasses.json) |
 | Treelogy | 176173 | [176173-treelogy.json](./176173-treelogy.json) |
+| Treemee | 393241 | [393241-treemee.json](./393241-treemee.json) |
 | Treepury | 303802 | [303802-treepury.json](./303802-treepury.json) |
 | Trees Adventure | 398044 | [398044-trees-adventure.json](./398044-trees-adventure.json) |
 | Trees and Jellyfish | 338610 | [338610-trees-and-jellyfish.json](./338610-trees-and-jellyfish.json) |
@@ -29878,6 +29884,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Loader 4 | 268643 | [268643-truck-loader-4.json](./268643-truck-loader-4.json) |
 | Truck Loader 5 | 268645 | [268645-truck-loader-5.json](./268645-truck-loader-5.json) |
 | Truck Manager | 306332 | [306332-truck-manager.json](./306332-truck-manager.json) |
+| Truck Manager Australia | 393204 | [393204-truck-manager-australia.json](./393204-truck-manager-australia.json) |
+| Truck Master | 393203 | [393203-truck-master.json](./393203-truck-master.json) |
 | Truck Mechanic Sim 2025 | 330610 | [330610-truck-mechanic-sim-2025.json](./330610-truck-mechanic-sim-2025.json) |
 | Truck Mechanic Simulator | 147848 | [147848-truck-mechanic-simulator.json](./147848-truck-mechanic-simulator.json) |
 | Truck Mechanic Simulator 2015 | 36188 | [36188-truck-mechanic-simulator-2015.json](./36188-truck-mechanic-simulator-2015.json) |
