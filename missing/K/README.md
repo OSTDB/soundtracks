@@ -3577,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kioku Shoujo | 151533 | [151533-kioku-shoujo.json](./151533-kioku-shoujo.json) |
 | Kiomet | 358225 | [358225-kiomet.json](./358225-kiomet.json) |
 | Kiopioke! | 286369 | [286369-kiopioke.json](./286369-kiopioke.json) |
+| Kiosk 199X | 390332 | [390332-kiosk-199x.json](./390332-kiosk-199x.json) |
 | Kiospoly | 188785 | [188785-kiospoly.json](./188785-kiospoly.json) |
 | Kiou | 405681 | [405681-kiou.json](./405681-kiou.json) |
 | Kip 2: Beyond Boundaries | 360693 | [360693-kip-2-beyond-boundaries.json](./360693-kip-2-beyond-boundaries.json) |
