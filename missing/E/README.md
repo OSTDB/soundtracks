@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Education | 161586 | [161586-education.json](./161586-education.json) |
 | Education Series: General Knowledge Builder | 80603 | [80603-education-series-general-knowledge-builder.json](./80603-education-series-general-knowledge-builder.json) |
 | Educational and Learning Bundle: 5 in 1 | 192409 | [192409-educational-and-learning-bundle-5-in-1.json](./192409-educational-and-learning-bundle-5-in-1.json) |
+| Educational Computer 2000 | 387454 | [387454-educational-computer-2000.json](./387454-educational-computer-2000.json) |
 | Educational Enamours | 290791 | [290791-educational-enamours.json](./290791-educational-enamours.json) |
 | Educational Games for Kids | 147919 | [147919-educational-games-for-kids.json](./147919-educational-games-for-kids.json) |
 | Educational games for kids girls & boys apps free! | 102742 | [102742-educational-games-for-kids-girls-and-boys-apps-free.json](./102742-educational-games-for-kids-girls-and-boys-apps-free.json) |
@@ -1766,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Camperillo | 302740 | [302740-el-camperillo.json](./302740-el-camperillo.json) |
 | El Capitán Trueno | 100184 | [100184-el-capitan-trueno.json](./100184-el-capitan-trueno.json) |
 | El Capitán Trueno en la Montaña de los Suspiros | 70085 | [70085-el-capitan-trueno-en-la-montana-de-los-suspiros.json](./70085-el-capitan-trueno-en-la-montana-de-los-suspiros.json) |
+| El Capitán Trueno: La Espada del Toledano | 387466 | [387466-el-capitan-trueno-la-espada-del-toledano.json](./387466-el-capitan-trueno-la-espada-del-toledano.json) |
 | El Caso de la Pathfinder | 113551 | [113551-el-caso-de-la-pathfinder.json](./113551-el-caso-de-la-pathfinder.json) |
 | El Castell dels Monstres | 113550 | [113550-el-castell-dels-monstres.json](./113550-el-castell-dels-monstres.json) |
 | El Cerro Del Calamar | 387580 | [387580-el-cerro-del-calamar.json](./387580-el-cerro-del-calamar.json) |
@@ -4700,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ertha | 201958 | [201958-ertha.json](./201958-ertha.json) |
 | Ertugrul | 274772 | [274772-ertugrul.json](./274772-ertugrul.json) |
 | ERTX 2080TI Mining clicker | 107518 | [107518-ertx-2080ti-mining-clicker.json](./107518-ertx-2080ti-mining-clicker.json) |
+| Erudite with friends | 387456 | [387456-erudite-with-friends.json](./387456-erudite-with-friends.json) |
 | Erulean Angel: Fantasy Commander | 351136 | [351136-erulean-angel-fantasy-commander.json](./351136-erulean-angel-fantasy-commander.json) |
 | Eruption | 54341 | [54341-eruption.json](./54341-eruption.json) |
 | Eruptle | 320769 | [320769-eruptle.json](./320769-eruptle.json) |
