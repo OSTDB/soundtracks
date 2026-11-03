@@ -3643,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peech World | 311599 | [311599-peech-world.json](./311599-peech-world.json) |
 | Peek | 338147 | [338147-peek.json](./338147-peek.json) |
 | Peek a Boo | 225606 | [225606-peek-a-boo.json](./225606-peek-a-boo.json) |
+| Peek a Fish! | 354187 | [354187-peek-a-fish.json](./354187-peek-a-fish.json) |
 | Peek a Phone | 196560 | [196560-peek-a-phone.json](./196560-peek-a-phone.json) |
 | Peek a Rabbit! | 395666 | [395666-peek-a-rabbit.json](./395666-peek-a-rabbit.json) |
 | Peek-A-Boo Poker | 48277 | [48277-peek-a-boo-poker.json](./48277-peek-a-boo-poker.json) |
