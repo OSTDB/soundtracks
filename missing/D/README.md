@@ -8845,6 +8845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dillon's Dead-Heat Breakers | 90687 | [90687-dillons-dead-heat-breakers.json](./90687-dillons-dead-heat-breakers.json) |
 | Dillon's Rolling Western | 47655 | [47655-dillons-rolling-western.json](./47655-dillons-rolling-western.json) |
 | Dillon's Rolling Western: The Last Ranger | 24294 | [24294-dillons-rolling-western-the-last-ranger.json](./24294-dillons-rolling-western-the-last-ranger.json) |
+| Diluted | 382739 | [382739-diluted.json](./382739-diluted.json) |
 | Diluvian Ultra | 162254 | [162254-diluvian-ultra.json](./162254-diluvian-ultra.json) |
 | Diluvian Ultra: Awakening | 316989 | [316989-diluvian-ultra-awakening.json](./316989-diluvian-ultra-awakening.json) |
 | Diluvium | 64890 | [64890-diluvium.json](./64890-diluvium.json) |
@@ -10644,6 +10645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect: Chunithm Pack | 383046 | [383046-djmax-respect-chunithm-pack.json](./383046-djmax-respect-chunithm-pack.json) |
 | DJMax Respect: Limited Edition | 166278 | [166278-djmax-respect-limited-edition.json](./166278-djmax-respect-limited-edition.json) |
 | DJMax Respect: Technika3 Pack | 383056 | [383056-djmax-respect-technika3-pack.json](./383056-djmax-respect-technika3-pack.json) |
+| DJMax Respect: V Extension V Pack | 383085 | [383085-djmax-respect-v-extension-v-pack.json](./383085-djmax-respect-v-extension-v-pack.json) |
 | DJMax Respect: V Liberty 2 Pack | 383050 | [383050-djmax-respect-v-liberty-2-pack.json](./383050-djmax-respect-v-liberty-2-pack.json) |
 | DJMax Respect: V Liberty 3 Pack | 383051 | [383051-djmax-respect-v-liberty-3-pack.json](./383051-djmax-respect-v-liberty-3-pack.json) |
 | DJMax Respect: V Liberty Pack | 383049 | [383049-djmax-respect-v-liberty-pack.json](./383049-djmax-respect-v-liberty-pack.json) |
@@ -17844,6 +17846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuolBots | 201427 | [201427-duolbots.json](./201427-duolbots.json) |
 | Duolingo | 321884 | [321884-duolingo.json](./321884-duolingo.json) |
 | Duolingo: Chess | 373509 | [373509-duolingo-chess.json](./373509-duolingo-chess.json) |
+| Duolty | 382740 | [382740-duolty.json](./382740-duolty.json) |
 | DuoQ | 343225 | [343225-duoq.json](./343225-duoq.json) |
 | Duotone | 213269 | [213269-duotone.json](./213269-duotone.json) |
 | Duotrigordle | 228718 | [228718-duotrigordle.json](./228718-duotrigordle.json) |
