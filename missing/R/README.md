@@ -1055,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Cargo Simulator | 33446 | [33446-rail-cargo-simulator.json](./33446-rail-cargo-simulator.json) |
 | Rail Chase 2 | 39469 | [39469-rail-chase-2.json](./39469-rail-chase-2.json) |
 | Rail Estate | 387367 | [387367-rail-estate.json](./387367-rail-estate.json) |
+| Rail Fights | 393247 | [393247-rail-fights.json](./393247-rail-fights.json) |
 | Rail Gunner | 263567 | [263567-rail-gunner.json](./263567-rail-gunner.json) |
 | Rail Heist | 318410 | [318410-rail-heist.json](./318410-rail-heist.json) |
 | Rail Island | 421432 | [421432-rail-island.json](./421432-rail-island.json) |
@@ -3296,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reboot My Heart | 368900 | [368900-reboot-my-heart.json](./368900-reboot-my-heart.json) |
 | Reboot the World | 196532 | [196532-reboot-the-world.json](./196532-reboot-the-world.json) |
 | Reboot: Froth | 168058 | [168058-reboot-froth.json](./168058-reboot-froth.json) |
+| Rebooted Fate | 393208 | [393208-rebooted-fate.json](./393208-rebooted-fate.json) |
 | Rebop Blasters | 131921 | [131921-rebop-blasters.json](./131921-rebop-blasters.json) |
 | Reborder | 415850 | [415850-reborder.json](./415850-reborder.json) |
 | Reborn | 301985 | [301985-reborn.json](./301985-reborn.json) |
@@ -10341,6 +10343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room 42 | 68493 | [68493-room-42.json](./68493-room-42.json) |
 | Room 502 | 351567 | [351567-room-502.json](./351567-room-502.json) |
 | Room 54: Horde Survival | 335414 | [335414-room-54-horde-survival.json](./335414-room-54-horde-survival.json) |
+| Room 601 | 393246 | [393246-room-601.json](./393246-room-601.json) |
 | Room 817 | 262379 | [262379-room-817.json](./262379-room-817.json) |
 | Room and a Half | 326559 | [326559-room-and-a-half.json](./326559-room-and-a-half.json) |
 | Room and a Half 2 | 326560 | [326560-room-and-a-half-2.json](./326560-room-and-a-half-2.json) |
