@@ -3680,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby: Canvas Curse | 3722 | [3722-kirby-canvas-curse.json](./3722-kirby-canvas-curse.json) |
 | Kirby: Cosmic Chaos | 323915 | [323915-kirby-cosmic-chaos.json](./323915-kirby-cosmic-chaos.json) |
 | Kirby: Nightmare in Dream Land | 3726 | [3726-kirby-nightmare-in-dream-land.json](./3726-kirby-nightmare-in-dream-land.json) |
+| Kirby: Nightmare in Dream Land Kirby Mini-Game | 381552 | [381552-kirby-nightmare-in-dream-land-kirby-mini-game.json](./381552-kirby-nightmare-in-dream-land-kirby-mini-game.json) |
 | Kirby: Revenge of Dream Land | 196707 | [196707-kirby-revenge-of-dream-land.json](./196707-kirby-revenge-of-dream-land.json) |
 | Kirby: Soft & Wet | 369145 | [369145-kirby-soft-and-wet.json](./369145-kirby-soft-and-wet.json) |
 | Kirby: Squeak Squad | 3723 | [3723-kirby-squeak-squad.json](./3723-kirby-squeak-squad.json) |
