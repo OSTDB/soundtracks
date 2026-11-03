@@ -4317,6 +4317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catorize | 34043 | [34043-catorize.json](./34043-catorize.json) |
 | Catovania | 132629 | [132629-catovania.json](./132629-catovania.json) |
 | Catpillar | 343053 | [343053-catpillar.json](./343053-catpillar.json) |
+| CatPuncher | 365350 | [365350-catpuncher.json](./365350-catpuncher.json) |
 | Catrap | 7820 | [7820-catrap.json](./7820-catrap.json) |
 | Catrina's Halloween Nightmare | 277152 | [277152-catrinas-halloween-nightmare.json](./277152-catrinas-halloween-nightmare.json) |
 | Catroid | 422772 | [422772-catroid.json](./422772-catroid.json) |
@@ -4350,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats and Seek: Osaka | 275525 | [275525-cats-and-seek-osaka.json](./275525-cats-and-seek-osaka.json) |
 | Cats and Seek: Toge Land | 328415 | [328415-cats-and-seek-toge-land.json](./328415-cats-and-seek-toge-land.json) |
 | Cats and Seek: Tokyo | 315298 | [315298-cats-and-seek-tokyo.json](./315298-cats-and-seek-tokyo.json) |
+| Cats and Seek: Zoo | 365394 | [365394-cats-and-seek-zoo.json](./365394-cats-and-seek-zoo.json) |
 | Cats and Sokoban: Mimi's Scratcher | 236436 | [236436-cats-and-sokoban-mimis-scratcher.json](./236436-cats-and-sokoban-mimis-scratcher.json) |
 | Cats and Tails | 416968 | [416968-cats-and-tails.json](./416968-cats-and-tails.json) |
 | Cats and the Other Lives | 143276 | [143276-cats-and-the-other-lives.json](./143276-cats-and-the-other-lives.json) |
@@ -14673,6 +14675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counterfeit Monkey | 2944 | [2944-counterfeit-monkey.json](./2944-counterfeit-monkey.json) |
 | Counterglass | 276729 | [276729-counterglass.json](./276729-counterglass.json) |
 | Counterhero: Chapter 1 | 178002 | [178002-counterhero-chapter-1.json](./178002-counterhero-chapter-1.json) |
+| Counterintuitive | 365363 | [365363-counterintuitive.json](./365363-counterintuitive.json) |
 | Countermark Saga Frozen sword | 116834 | [116834-countermark-saga-frozen-sword.json](./116834-countermark-saga-frozen-sword.json) |
 | Countermark Saga: League Gods | 392316 | [392316-countermark-saga-league-gods.json](./392316-countermark-saga-league-gods.json) |
 | Countermark Saga: The Tale of Fariz | 326209 | [326209-countermark-saga-the-tale-of-fariz.json](./326209-countermark-saga-the-tale-of-fariz.json) |
