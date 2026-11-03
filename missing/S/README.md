@@ -2413,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara Wild Hearts | 113107 | [113107-sayonara-wild-hearts.json](./113107-sayonara-wild-hearts.json) |
 | Sayonara Wild Hearts | 333020 | [333020-sayonara-wild-hearts.json](./333020-sayonara-wild-hearts.json) |
 | Sayonara Wild Hearts + Lorelei and the Laser Eyes Bundle | 404543 | [404543-sayonara-wild-hearts-lorelei-and-the-laser-eyes-bundle.json](./404543-sayonara-wild-hearts-lorelei-and-the-laser-eyes-bundle.json) |
+| Sayonara, Monaa RPG | 384476 | [384476-sayonara-monaa-rpg.json](./384476-sayonara-monaa-rpg.json) |
 | Sayonara, Space Rocks | 409424 | [409424-sayonara-space-rocks.json](./409424-sayonara-space-rocks.json) |
 | Sayonara, Utsutsu. | 260977 | [260977-sayonara-utsutsu.json](./260977-sayonara-utsutsu.json) |
 | Sayori Shoots Up The Literature Club | 257531 | [257531-sayori-shoots-up-the-literature-club.json](./257531-sayori-shoots-up-the-literature-club.json) |
@@ -6012,6 +6013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Story: Ruby and Hunter - Episode 2 | 253851 | [253851-sex-story-ruby-and-hunter-episode-2.json](./253851-sex-story-ruby-and-hunter-episode-2.json) |
 | Sex Story: Ruby and Hunter - Episode 3 | 254368 | [254368-sex-story-ruby-and-hunter-episode-3.json](./254368-sex-story-ruby-and-hunter-episode-3.json) |
 | Sex Story: Ruby and Hunter - Episode 4 | 256527 | [256527-sex-story-ruby-and-hunter-episode-4.json](./256527-sex-story-ruby-and-hunter-episode-4.json) |
+| Sex Summer Seduction VR | 384686 | [384686-sex-summer-seduction-vr.json](./384686-sex-summer-seduction-vr.json) |
 | Sex Survivals | 253852 | [253852-sex-survivals.json](./253852-sex-survivals.json) |
 | Sex Teacher | 226140 | [226140-sex-teacher.json](./226140-sex-teacher.json) |
 | Sex Therapy | 384223 | [384223-sex-therapy.json](./384223-sex-therapy.json) |
@@ -13210,6 +13212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot! Pro 2 Advance: Go Go Juggler & New Tairyou | 49814 | [49814-slot-pro-2-advance-go-go-juggler-and-new-tairyou.json](./49814-slot-pro-2-advance-go-go-juggler-and-new-tairyou.json) |
 | Slot! Pro Advance: Takarabune & Ooedo Sakura Fubuki 2 | 49813 | [49813-slot-pro-advance-takarabune-and-ooedo-sakura-fubuki-2.json](./49813-slot-pro-advance-takarabune-and-ooedo-sakura-fubuki-2.json) |
 | Slotbound | 411536 | [411536-slotbound.json](./411536-slotbound.json) |
+| SlotCrawler | 384550 | [384550-slotcrawler.json](./384550-slotcrawler.json) |
 | Sloth Story | 178891 | [178891-sloth-story.json](./178891-sloth-story.json) |
 | Sloth Tales | 149813 | [149813-sloth-tales.json](./149813-sloth-tales.json) |
 | Slotpark | 360765 | [360765-slotpark.json](./360765-slotpark.json) |
@@ -18558,6 +18561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21239,6 +21243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants Saves the Day | 69062 | [69062-spongebob-squarepants-saves-the-day.json](./69062-spongebob-squarepants-saves-the-day.json) |
 | SpongeBob SquarePants Saves the Krusty Krab | 135810 | [135810-spongebob-squarepants-saves-the-krusty-krab.json](./135810-spongebob-squarepants-saves-the-krusty-krab.json) |
 | SpongeBob SquarePants Slider | 382845 | [382845-spongebob-squarepants-slider.json](./382845-spongebob-squarepants-slider.json) |
+| SpongeBob SquarePants Smart Cycle | 384482 | [384482-spongebob-squarepants-smart-cycle.json](./384482-spongebob-squarepants-smart-cycle.json) |
 | SpongeBob SquarePants Street Crime | 343173 | [343173-spongebob-squarepants-street-crime.json](./343173-spongebob-squarepants-street-crime.json) |
 | SpongeBob SquarePants Talking Heads | 382919 | [382919-spongebob-squarepants-talking-heads.json](./382919-spongebob-squarepants-talking-heads.json) |
 | SpongeBob SquarePants Typing | 46444 | [46444-spongebob-squarepants-typing.json](./46444-spongebob-squarepants-typing.json) |
@@ -21343,6 +21348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spook Bowl | 249376 | [249376-spook-bowl.json](./249376-spook-bowl.json) |
 | Spook Game | 340178 | [340178-spook-game.json](./340178-spook-game.json) |
 | Spook House and Toxic Dumpsite | 69480 | [69480-spook-house-and-toxic-dumpsite.json](./69480-spook-house-and-toxic-dumpsite.json) |
+| Spook Ltd.: Warashi Homes | 384695 | [384695-spook-ltd-warashi-homes.json](./384695-spook-ltd-warashi-homes.json) |
 | Spook Tower | 179735 | [179735-spook-tower.json](./179735-spook-tower.json) |
 | Spook-A-Boo | 317993 | [317993-spook-a-boo.json](./317993-spook-a-boo.json) |
 | Spook's Escape | 178860 | [178860-spooks-escape.json](./178860-spooks-escape.json) |
@@ -27574,6 +27580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subsist: Apocalypse Survival | 296453 | [296453-subsist-apocalypse-survival.json](./296453-subsist-apocalypse-survival.json) |
 | Subsistence | 34071 | [34071-subsistence.json](./34071-subsistence.json) |
 | SubSpace | 19148 | [19148-subspace.json](./19148-subspace.json) |
+| Subspace Discovery | 384551 | [384551-subspace-discovery.json](./384551-subspace-discovery.json) |
 | Subspace Reticulum | 367537 | [367537-subspace-reticulum.json](./367537-subspace-reticulum.json) |
 | Subspace Voyage | 365850 | [365850-subspace-voyage.json](./365850-subspace-voyage.json) |
 | Substance Wars 64 | 384878 | [384878-substance-wars-64.json](./384878-substance-wars-64.json) |
