@@ -1161,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Glacier VR | 57036 | [57036-tales-of-glacier-vr.json](./57036-tales-of-glacier-vr.json) |
 | Tales of Glory | 36618 | [36618-tales-of-glory.json](./36618-tales-of-glory.json) |
 | Tales of Glory 2: Retaliation | 170367 | [170367-tales-of-glory-2-retaliation.json](./170367-tales-of-glory-2-retaliation.json) |
+| Tales Of Glory 3 : Fists of Legend | 384127 | [384127-tales-of-glory-3-fists-of-legend.json](./384127-tales-of-glory-3-fists-of-legend.json) |
 | Tales of Graces f | 20444 | [20444-tales-of-graces-f.json](./20444-tales-of-graces-f.json) |
 | Tales of Graces F Remastered | 314945 | [314945-tales-of-graces-f-remastered.json](./314945-tales-of-graces-f-remastered.json) |
 | Tales of Graces F Remastered: Deluxe Edition | 324370 | [324370-tales-of-graces-f-remastered-deluxe-edition.json](./324370-tales-of-graces-f-remastered-deluxe-edition.json) |
@@ -7510,6 +7511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Legacy | 287312 | [287312-the-cursed-legacy.json](./287312-the-cursed-legacy.json) |
 | The Cursed Legacy | 350353 | [350353-the-cursed-legacy.json](./350353-the-cursed-legacy.json) |
 | The Cursed love | 105297 | [105297-the-cursed-love.json](./105297-the-cursed-love.json) |
+| The Cursed Moon: The Girl Trapped in the Haunted House | 383986 | [383986-the-cursed-moon-the-girl-trapped-in-the-haunted-house.json](./383986-the-cursed-moon-the-girl-trapped-in-the-haunted-house.json) |
 | The Cursed Oasis | 253607 | [253607-the-cursed-oasis.json](./253607-the-cursed-oasis.json) |
 | The Cursed Revenant | 169110 | [169110-the-cursed-revenant.json](./169110-the-cursed-revenant.json) |
 | The Cursed Revolver | 28237 | [28237-the-cursed-revolver.json](./28237-the-cursed-revolver.json) |
