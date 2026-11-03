@@ -4153,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Insanity: RackJacker | 197523 | [197523-terminal-insanity-rackjacker.json](./197523-terminal-insanity-rackjacker.json) |
 | Terminal Interface for Models RCM301-303 | 364625 | [364625-terminal-interface-for-models-rcm301-303.json](./364625-terminal-interface-for-models-rcm301-303.json) |
 | Terminal Land | 138515 | [138515-terminal-land.json](./138515-terminal-land.json) |
+| Terminal Lucidity | 387447 | [387447-terminal-lucidity.json](./387447-terminal-lucidity.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
 | Terminal Madness: The Awakening | 204187 | [204187-terminal-madness-the-awakening.json](./204187-terminal-madness-the-awakening.json) |
 | Terminal One | 328194 | [328194-terminal-one.json](./328194-terminal-one.json) |
@@ -5038,6 +5039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's Exactly What a Wolf Would Say! | 419755 | [419755-thats-exactly-what-a-wolf-would-say.json](./419755-thats-exactly-what-a-wolf-would-say.json) |
 | That's How Sumireko's Roach Stomping Mafia Works | 123593 | [123593-thats-how-sumirekos-roach-stomping-mafia-works.json](./123593-thats-how-sumirekos-roach-stomping-mafia-works.json) |
 | That's Mahjong! | 30811 | [30811-thats-mahjong.json](./30811-thats-mahjong.json) |
+| That's My Seat | 387467 | [387467-thats-my-seat.json](./387467-thats-my-seat.json) |
 | That's My Tofu | 391188 | [391188-thats-my-tofu.json](./391188-thats-my-tofu.json) |
 | That's My Village! | 417639 | [417639-thats-my-village.json](./417639-thats-my-village.json) |
 | That's Not How it Happened | 209131 | [209131-thats-not-how-it-happened.json](./209131-thats-not-how-it-happened.json) |
@@ -5459,6 +5461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alien Island: 3D-Version | 174636 | [174636-the-alien-island-3d-version.json](./174636-the-alien-island-3d-version.json) |
 | The Alien Trials | 149578 | [149578-the-alien-trials.json](./149578-the-alien-trials.json) |
 | The Alien Way | 147037 | [147037-the-alien-way.json](./147037-the-alien-way.json) |
+| The Alighieri Circle: Dante’s Bloodline | 387461 | [387461-the-alighieri-circle-dante-s-bloodline.json](./387461-the-alighieri-circle-dante-s-bloodline.json) |
 | The All New Family Feud | 73657 | [73657-the-all-new-family-feud.json](./73657-the-all-new-family-feud.json) |
 | The All-New 2011 Outlander Sport | 83866 | [83866-the-all-new-2011-outlander-sport.json](./83866-the-all-new-2011-outlander-sport.json) |
 | The Alliance Alive | 25068 | [25068-the-alliance-alive.json](./25068-the-alliance-alive.json) |
@@ -6718,6 +6721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Case of the Cautious Condor | 70968 | [70968-the-case-of-the-cautious-condor.json](./70968-the-case-of-the-cautious-condor.json) |
 | The Case of the City Botucaiba | 257415 | [257415-the-case-of-the-city-botucaiba.json](./257415-the-case-of-the-city-botucaiba.json) |
 | The Case of the Dark Strangler | 337678 | [337678-the-case-of-the-dark-strangler.json](./337678-the-case-of-the-dark-strangler.json) |
+| The Case of the Dungeon Descent | 387449 | [387449-the-case-of-the-dungeon-descent.json](./387449-the-case-of-the-dungeon-descent.json) |
 | The Case of the Golden Idol: Complete Edition | 264814 | [264814-the-case-of-the-golden-idol-complete-edition.json](./264814-the-case-of-the-golden-idol-complete-edition.json) |
 | The Case of the Golden Idol: Spider of Lanka Bundle | 251480 | [251480-the-case-of-the-golden-idol-spider-of-lanka-bundle.json](./251480-the-case-of-the-golden-idol-spider-of-lanka-bundle.json) |
 | The Case of the Missing Heirloom | 371399 | [371399-the-case-of-the-missing-heirloom.json](./371399-the-case-of-the-missing-heirloom.json) |
@@ -9814,6 +9818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Rebellion | 290012 | [290012-the-great-rebellion.json](./290012-the-great-rebellion.json) |
 | The Great Sassanelli | 258615 | [258615-the-great-sassanelli.json](./258615-the-great-sassanelli.json) |
 | The Great Smog | 244752 | [244752-the-great-smog.json](./244752-the-great-smog.json) |
+| The Great Sneeze | 387474 | [387474-the-great-sneeze.json](./387474-the-great-sneeze.json) |
 | The Great Song | 179170 | [179170-the-great-song.json](./179170-the-great-song.json) |
 | The Great Space Race | 300555 | [300555-the-great-space-race.json](./300555-the-great-space-race.json) |
 | The Great Sperm Race | 324345 | [324345-the-great-sperm-race.json](./324345-the-great-sperm-race.json) |
@@ -13629,6 +13634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ninth Forset | 339182 | [339182-the-ninth-forset.json](./339182-the-ninth-forset.json) |
 | The Ninth Way | 161184 | [161184-the-ninth-way.json](./161184-the-ninth-way.json) |
 | The Nioh Collection | 140979 | [140979-the-nioh-collection.json](./140979-the-nioh-collection.json) |
+| The No Arms Knight | 387280 | [387280-the-no-arms-knight.json](./387280-the-no-arms-knight.json) |
 | The No Button Game | 225293 | [225293-the-no-button-game.json](./225293-the-no-button-game.json) |
 | The No Goblin Complete Collection | 53767 | [53767-the-no-goblin-complete-collection.json](./53767-the-no-goblin-complete-collection.json) |
 | The No No Man | 316412 | [316412-the-no-no-man.json](./316412-the-no-no-man.json) |
@@ -18547,6 +18553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Them's Fightin' Herds: Season 1 Pass | 230999 | [230999-thems-fightin-herds-season-1-pass.json](./230999-thems-fightin-herds-season-1-pass.json) |
 | Them's Fightin' Herds: Texas | 230998 | [230998-thems-fightin-herds-texas.json](./230998-thems-fightin-herds-texas.json) |
 | Them's Tale: The Road to Her | 395882 | [395882-thems-tale-the-road-to-her.json](./395882-thems-tale-the-road-to-her.json) |
+| TheMafioso | 387471 | [387471-themafioso.json](./387471-themafioso.json) |
 | TheMahjong | 317875 | [317875-themahjong.json](./317875-themahjong.json) |
 | Theme Hospital | 1624 | [1624-theme-hospital.json](./1624-theme-hospital.json) |
 | Theme Hospital | 216009 | [216009-theme-hospital.json](./216009-theme-hospital.json) |
@@ -22138,6 +22145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Battle Simulator | 107431 | [107431-tiny-battle-simulator.json](./107431-tiny-battle-simulator.json) |
 | Tiny Battles | 287743 | [287743-tiny-battles.json](./287743-tiny-battles.json) |
 | Tiny Biomes | 385071 | [385071-tiny-biomes.json](./385071-tiny-biomes.json) |
+| Tiny Biomes: Cozy Idle | 387452 | [387452-tiny-biomes-cozy-idle.json](./387452-tiny-biomes-cozy-idle.json) |
 | Tiny Bird Garden | 101233 | [101233-tiny-bird-garden.json](./101233-tiny-bird-garden.json) |
 | Tiny Bird Garden Deluxe | 112826 | [112826-tiny-bird-garden-deluxe.json](./112826-tiny-bird-garden-deluxe.json) |
 | Tiny Birdtopia | 391537 | [391537-tiny-birdtopia.json](./391537-tiny-birdtopia.json) |
@@ -24611,6 +24619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Carnage | 196441 | [196441-total-carnage.json](./196441-total-carnage.json) |
 | Total Chaos | 125766 | [125766-total-chaos.json](./125766-total-chaos.json) |
 | Total Chaos | 301071 | [301071-total-chaos.json](./301071-total-chaos.json) |
+| Total Chaos Against Apathy | 387453 | [387453-total-chaos-against-apathy.json](./387453-total-chaos-against-apathy.json) |
 | Total Club Manager 2003 | 6211 | [6211-total-club-manager-2003.json](./6211-total-club-manager-2003.json) |
 | Total Club Manager 2004 | 6207 | [6207-total-club-manager-2004.json](./6207-total-club-manager-2004.json) |
 | Total Control | 256813 | [256813-total-control.json](./256813-total-control.json) |
@@ -28215,6 +28224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transit King | 75530 | [75530-transit-king.json](./75530-transit-king.json) |
 | Transit King Tycoon | 140399 | [140399-transit-king-tycoon.json](./140399-transit-king-tycoon.json) |
 | Transit Trauma | 179454 | [179454-transit-trauma.json](./179454-transit-trauma.json) |
+| Transit: An Extrasolar Human(s) | 387440 | [387440-transit-an-extrasolar-human-s.json](./387440-transit-an-extrasolar-human-s.json) |
 | Transition | 229838 | [229838-transition.json](./229838-transition.json) |
 | Transition to adulthood | 81945 | [81945-transition-to-adulthood.json](./81945-transition-to-adulthood.json) |
 | Transitions | 181732 | [181732-transitions.json](./181732-transitions.json) |
@@ -29076,6 +29086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TRIB3 | 300800 | [300800-trib3.json](./300800-trib3.json) |
 | Tribal | 193166 | [193166-tribal.json](./193166-tribal.json) |
 | Tribal Hunter | 139591 | [139591-tribal-hunter.json](./139591-tribal-hunter.json) |
+| Tribal Jump | 387426 | [387426-tribal-jump.json](./387426-tribal-jump.json) |
 | Tribal Mania | 377799 | [377799-tribal-mania.json](./377799-tribal-mania.json) |
 | Tribal Pass | 32646 | [32646-tribal-pass.json](./32646-tribal-pass.json) |
 | Tribal Rage | 78304 | [78304-tribal-rage.json](./78304-tribal-rage.json) |
