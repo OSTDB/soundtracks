@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Einheriar | 243574 | [243574-einheriar.json](./243574-einheriar.json) |
 | Einherjar | 181122 | [181122-einherjar.json](./181122-einherjar.json) |
 | Einherjar | 193615 | [193615-einherjar.json](./193615-einherjar.json) |
+| Einherjar's Ascent | 352501 | [352501-einherjars-ascent.json](./352501-einherjars-ascent.json) |
 | Einlanzer | 30575 | [30575-einlanzer.json](./30575-einlanzer.json) |
 | Einn | 120832 | [120832-einn.json](./120832-einn.json) |
 | Eins Ring | 204319 | [204319-eins-ring.json](./204319-eins-ring.json) |
