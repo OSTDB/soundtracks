@@ -6980,6 +6980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gore | 371991 | [371991-gore.json](./371991-gore.json) |
 | Gore Crush | 323728 | [323728-gore-crush.json](./323728-gore-crush.json) |
 | Gore Grind | 423867 | [423867-gore-grind.json](./423867-gore-grind.json) |
+| Gore Rapture | 349080 | [349080-gore-rapture.json](./349080-gore-rapture.json) |
 | Gore Screaming Show | 224168 | [224168-gore-screaming-show.json](./224168-gore-screaming-show.json) |
 | Gore: Ultimate Soldier | 46969 | [46969-gore-ultimate-soldier.json](./46969-gore-ultimate-soldier.json) |
 | Goreagulation | 223461 | [223461-goreagulation.json](./223461-goreagulation.json) |
@@ -7964,6 +7965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GraveBond | 272390 | [272390-gravebond.json](./272390-gravebond.json) |
 | Gravebound Dash | 402903 | [402903-gravebound-dash.json](./402903-gravebound-dash.json) |
 | GraveBoy CrowFeet: A Quest for Skulls | 405030 | [405030-graveboy-crowfeet-a-quest-for-skulls.json](./405030-graveboy-crowfeet-a-quest-for-skulls.json) |
+| Gravedigger | 349188 | [349188-gravedigger.json](./349188-gravedigger.json) |
 | Gravedigger | 94557 | [94557-gravedigger.json](./94557-gravedigger.json) |
 | Gravediggers | 262169 | [262169-gravediggers.json](./262169-gravediggers.json) |
 | Gravefire Tavern | 423242 | [423242-gravefire-tavern.json](./423242-gravefire-tavern.json) |
@@ -8101,6 +8103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviteam Tactics: Operation Star - Volokonovka 1942 | 155496 | [155496-graviteam-tactics-operation-star-volokonovka-1942.json](./155496-graviteam-tactics-operation-star-volokonovka-1942.json) |
 | Graviteam Tactics: Operation Star - Zhalanashkol 1969 | 54061 | [54061-graviteam-tactics-operation-star-zhalanashkol-1969.json](./54061-graviteam-tactics-operation-star-zhalanashkol-1969.json) |
 | Graviteam Tactics: The Far Escape | 304450 | [304450-graviteam-tactics-the-far-escape.json](./304450-graviteam-tactics-the-far-escape.json) |
+| GraviTech | 349041 | [349041-gravitech.json](./349041-gravitech.json) |
 | Gravitee | 262142 | [262142-gravitee.json](./262142-gravitee.json) |
 | Gravitee 2 | 293351 | [293351-gravitee-2.json](./293351-gravitee-2.json) |
 | Gravitee Wars | 245575 | [245575-gravitee-wars.json](./245575-gravitee-wars.json) |
@@ -10298,6 +10301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Gun Pixies H H | 222105 | [222105-gun-gun-pixies-h-h.json](./222105-gun-gun-pixies-h-h.json) |
 | Gun Head Shot | 231935 | [231935-gun-head-shot.json](./231935-gun-head-shot.json) |
 | Gun in 60 Seconds Remix | 339319 | [339319-gun-in-60-seconds-remix.json](./339319-gun-in-60-seconds-remix.json) |
+| Gun in a Well | 349043 | [349043-gun-in-a-well.json](./349043-gun-in-a-well.json) |
 | Gun King | 230936 | [230936-gun-king.json](./230936-gun-king.json) |
 | Gun Knife Bomb | 422088 | [422088-gun-knife-bomb.json](./422088-gun-knife-bomb.json) |
 | Gun Lady | 286440 | [286440-gun-lady.json](./286440-gun-lady.json) |
