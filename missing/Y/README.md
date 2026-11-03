@@ -1803,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Mitai | 201152 | [201152-yume-mitai.json](./201152-yume-mitai.json) |
 | Yume ni made Mita Idol | 375342 | [375342-yume-ni-made-mita-idol.json](./375342-yume-ni-made-mita-idol.json) |
 | Yume Nikki | 18689 | [18689-yume-nikki.json](./18689-yume-nikki.json) |
+| Yume Nikki | 380590 | [380590-yume-nikki.json](./380590-yume-nikki.json) |
 | Yume Nikki 3D | 177808 | [177808-yume-nikki-3d.json](./177808-yume-nikki-3d.json) |
 | Yume Nikki GB | 229685 | [229685-yume-nikki-gb.json](./229685-yume-nikki-gb.json) |
 | Yume Nikki GB | 229686 | [229686-yume-nikki-gb.json](./229686-yume-nikki-gb.json) |
