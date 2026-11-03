@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse of Illusion | 68983 | [68983-eclipse-of-illusion.json](./68983-eclipse-of-illusion.json) |
 | Eclipse Saga | 188389 | [188389-eclipse-saga.json](./188389-eclipse-saga.json) |
 | Eclipse Survivors | 249757 | [249757-eclipse-survivors.json](./249757-eclipse-survivors.json) |
+| Eclipse: 2nd Dawn for the Galaxy | 368711 | [368711-eclipse-2nd-dawn-for-the-galaxy.json](./368711-eclipse-2nd-dawn-for-the-galaxy.json) |
 | Eclipse: Anomaly Research | 391459 | [391459-eclipse-anomaly-research.json](./391459-eclipse-anomaly-research.json) |
 | Eclipse: Defending the motherland | 32643 | [32643-eclipse-defending-the-motherland.json](./32643-eclipse-defending-the-motherland.json) |
 | Eclipse: Echo of Dimension | 295490 | [295490-eclipse-echo-of-dimension.json](./295490-eclipse-echo-of-dimension.json) |
@@ -2026,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ElectriarCode | 210220 | [210220-electriarcode.json](./210220-electriarcode.json) |
 | Electric | 187162 | [187162-electric.json](./187162-electric.json) |
 | Electric Blue: Gecko dash! | 297530 | [297530-electric-blue-gecko-dash.json](./297530-electric-blue-gecko-dash.json) |
+| Electric Box 2 | 368722 | [368722-electric-box-2.json](./368722-electric-box-2.json) |
 | Electric Car Tycoon | 217199 | [217199-electric-car-tycoon.json](./217199-electric-car-tycoon.json) |
 | Electric Circuit | 35500 | [35500-electric-circuit.json](./35500-electric-circuit.json) |
 | Electric Crayon 3.1: At the Zoo | 68970 | [68970-electric-crayon-3-1-at-the-zoo.json](./68970-electric-crayon-3-1-at-the-zoo.json) |
@@ -4566,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eras Rising | 244731 | [244731-eras-rising.json](./244731-eras-rising.json) |
 | Erase Box | 227925 | [227925-erase-box.json](./227925-erase-box.json) |
 | Erase: Missing Link | 361802 | [361802-erase-missing-link.json](./361802-erase-missing-link.json) |
+| Erased | 369259 | [369259-erased.json](./369259-erased.json) |
 | Eraser | 186092 | [186092-eraser.json](./186092-eraser.json) |
 | Eraser | 217143 | [217143-eraser.json](./217143-eraser.json) |
 | Eraser | 339263 | [339263-eraser.json](./339263-eraser.json) |
@@ -5748,6 +5751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Escape: Castle of Shadows | 307108 | [307108-eternal-escape-castle-of-shadows.json](./307108-eternal-escape-castle-of-shadows.json) |
 | Eternal Essence | 126383 | [126383-eternal-essence.json](./126383-eternal-essence.json) |
 | Eternal Evolution | 197358 | [197358-eternal-evolution.json](./197358-eternal-evolution.json) |
+| Eternal Ex Machina: Hawz Krarace | 369309 | [369309-eternal-ex-machina-hawz-krarace.json](./369309-eternal-ex-machina-hawz-krarace.json) |
 | Eternal Exile: Beneath the Darkness | 345842 | [345842-eternal-exile-beneath-the-darkness.json](./345842-eternal-exile-beneath-the-darkness.json) |
 | Eternal Exodus | 113556 | [113556-eternal-exodus.json](./113556-eternal-exodus.json) |
 | Eternal Eyes | 69684 | [69684-eternal-eyes.json](./69684-eternal-eyes.json) |
@@ -7130,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excitebike-e | 169997 | [169997-excitebike-e.json](./169997-excitebike-e.json) |
 | Excitebike: Bun-bun Mario Battle | 132030 | [132030-excitebike-bun-bun-mario-battle.json](./132030-excitebike-bun-bun-mario-battle.json) |
 | Excitebots: Trick Racing | 4836 | [4836-excitebots-trick-racing.json](./4836-excitebots-trick-racing.json) |
+| Exciting Advance Decoding | 369308 | [369308-exciting-advance-decoding.json](./369308-exciting-advance-decoding.json) |
 | Exciting Baseball | 41275 | [41275-exciting-baseball.json](./41275-exciting-baseball.json) |
 | Exciting Billiard | 41303 | [41303-exciting-billiard.json](./41303-exciting-billiard.json) |
 | Exciting Boxing | 48504 | [48504-exciting-boxing.json](./48504-exciting-boxing.json) |
