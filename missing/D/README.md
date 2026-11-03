@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Day: America Invades | 69911 | [69911-d-day-america-invades.json](./69911-d-day-america-invades.json) |
 | D-Day: Normandy | 180210 | [180210-d-day-normandy.json](./180210-d-day-normandy.json) |
 | D-Day: The Beginning of the End | 12417 | [12417-d-day-the-beginning-of-the-end.json](./12417-d-day-the-beginning-of-the-end.json) |
+| D-Drift | 389821 | [389821-d-drift.json](./389821-d-drift.json) |
 | D-Eve in You | 396947 | [396947-d-eve-in-you.json](./396947-d-eve-in-you.json) |
 | D-Extinction | 405809 | [405809-d-extinction.json](./405809-d-extinction.json) |
 | D-Hospital | 301866 | [301866-d-hospital.json](./301866-d-hospital.json) |
@@ -8512,6 +8513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dug Arrangement | 132160 | [132160-dig-dug-arrangement.json](./132160-dig-dug-arrangement.json) |
 | Dig Dug Arrangement | 178410 | [178410-dig-dug-arrangement.json](./178410-dig-dug-arrangement.json) |
 | Dig Dug Deeper | 2737 | [2737-dig-dug-deeper.json](./2737-dig-dug-deeper.json) |
+| Dig Dug II: Trouble in Paradise | 389860 | [389860-dig-dug-ii-trouble-in-paradise.json](./389860-dig-dug-ii-trouble-in-paradise.json) |
 | Dig Dug Island: Minami no Jima no Pukapukapon | 315587 | [315587-dig-dug-island-minami-no-jima-no-pukapukapon.json](./315587-dig-dug-island-minami-no-jima-no-pukapukapon.json) |
 | Dig Dug New Frontier | 350575 | [350575-dig-dug-new-frontier.json](./350575-dig-dug-new-frontier.json) |
 | Dig Dug Revival | 187086 | [187086-dig-dug-revival.json](./187086-dig-dug-revival.json) |
@@ -10726,6 +10728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Feed the Monkeys | 52014 | [52014-do-not-feed-the-monkeys.json](./52014-do-not-feed-the-monkeys.json) |
 | Do Not Feed the Monkeys 2099 | 199713 | [199713-do-not-feed-the-monkeys-2099.json](./199713-do-not-feed-the-monkeys-2099.json) |
 | Do Not Feed the Monkeys: Collector's Edition | 166963 | [166963-do-not-feed-the-monkeys-collectors-edition.json](./166963-do-not-feed-the-monkeys-collectors-edition.json) |
+| Do Not Feed the Virus | 389846 | [389846-do-not-feed-the-virus.json](./389846-do-not-feed-the-virus.json) |
 | Do Not Kill Me Jacob!! JAM Ver. | 176482 | [176482-do-not-kill-me-jacob-jam-ver.json](./176482-do-not-kill-me-jacob-jam-ver.json) |
 | Do Not Look at the Moon | 309360 | [309360-do-not-look-at-the-moon.json](./309360-do-not-look-at-the-moon.json) |
 | Do Not Open | 183869 | [183869-do-not-open.json](./183869-do-not-open.json) |
@@ -12564,6 +12567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Vault | 117012 | [117012-doomsday-vault.json](./117012-doomsday-vault.json) |
 | Doomsday Warrior | 42599 | [42599-doomsday-warrior.json](./42599-doomsday-warrior.json) |
 | Doomsday: Last Survivors | 187739 | [187739-doomsday-last-survivors.json](./187739-doomsday-last-survivors.json) |
+| Doomstacker | 389828 | [389828-doomstacker.json](./389828-doomstacker.json) |
 | Doomstar | 110217 | [110217-doomstar.json](./110217-doomstar.json) |
 | Doomtank | 118762 | [118762-doomtank.json](./118762-doomtank.json) |
 | Doomtrain | 386910 | [386910-doomtrain.json](./386910-doomtrain.json) |
@@ -18376,6 +18380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dystopian Debugger | 239689 | [239689-dystopian-debugger.json](./239689-dystopian-debugger.json) |
 | Dystopian Drift | 125664 | [125664-dystopian-drift.json](./125664-dystopian-drift.json) |
 | Dystopian Nights | 119610 | [119610-dystopian-nights.json](./119610-dystopian-nights.json) |
+| Dystopian Pet Simulator | 389824 | [389824-dystopian-pet-simulator.json](./389824-dystopian-pet-simulator.json) |
 | Dystopicon | 163134 | [163134-dystopicon.json](./163134-dystopicon.json) |
 | Dystopy | 30748 | [30748-dystopy.json](./30748-dystopy.json) |
 | Dystoria | 27387 | [27387-dystoria.json](./27387-dystoria.json) |
