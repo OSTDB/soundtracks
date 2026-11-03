@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tailor Simulator | 374887 | [374887-tailor-simulator.json](./374887-tailor-simulator.json) |
 | Tailor Tales | 110929 | [110929-tailor-tales.json](./110929-tailor-tales.json) |
 | Tailor Tales - Aiden Plus | 305544 | [305544-tailor-tales-aiden-plus.json](./305544-tailor-tales-aiden-plus.json) |
+| Tailor Tales Cottina | 383320 | [383320-tailor-tales-cottina.json](./383320-tailor-tales-cottina.json) |
 | Tailor Tales: Caine Plus | 257550 | [257550-tailor-tales-caine-plus.json](./257550-tailor-tales-caine-plus.json) |
 | Tailor Tales: Eeyok Plus | 399054 | [399054-tailor-tales-eeyok-plus.json](./399054-tailor-tales-eeyok-plus.json) |
 | Tailor Tales: Gray Plus | 305543 | [305543-tailor-tales-gray-plus.json](./305543-tailor-tales-gray-plus.json) |
@@ -9807,7 +9808,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great I Am | 343419 | [343419-the-great-i-am.json](./343419-the-great-i-am.json) |
 | The Great Indian Safari | 387415 | [387415-the-great-indian-safari.json](./387415-the-great-indian-safari.json) |
 | The Great Jitters: Pudding Panic | 17327 | [17327-the-great-jitters-pudding-panic.json](./17327-the-great-jitters-pudding-panic.json) |
+| The Great Kitchen Escape | 383328 | [383328-the-great-kitchen-escape.json](./383328-the-great-kitchen-escape.json) |
 | The Great Language Game | 58488 | [58488-the-great-language-game.json](./58488-the-great-language-game.json) |
+| The Great Living Room Escape | 383330 | [383330-the-great-living-room-escape.json](./383330-the-great-living-room-escape.json) |
 | The Great Menace | 154029 | [154029-the-great-menace.json](./154029-the-great-menace.json) |
 | The Great Mushroom Hunt | 114321 | [114321-the-great-mushroom-hunt.json](./114321-the-great-mushroom-hunt.json) |
 | The Great Ocean | 199519 | [199519-the-great-ocean.json](./199519-the-great-ocean.json) |
@@ -26237,6 +26240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracon!2012:SE | 86735 | [86735-tracon-2012-se.json](./86735-tracon-2012-se.json) |
 | Tractage aux Portes 2: Mob a la Cafeteria | 120979 | [120979-tractage-aux-portes-2-mob-a-la-cafeteria.json](./120979-tractage-aux-portes-2-mob-a-la-cafeteria.json) |
 | Traction Control | 148236 | [148236-traction-control.json](./148236-traction-control.json) |
+| Traction Point | 383342 | [383342-traction-point.json](./383342-traction-point.json) |
 | Tractor Beams | 314816 | [314816-tractor-beams.json](./314816-tractor-beams.json) |
 | Tractor Cargo Driving Simulator | 393955 | [393955-tractor-cargo-driving-simulator.json](./393955-tractor-cargo-driving-simulator.json) |
 | Tractor Farmer | 86710 | [86710-tractor-farmer.json](./86710-tractor-farmer.json) |
