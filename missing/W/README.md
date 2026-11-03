@@ -4040,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Clouds End | 129728 | [129728-where-the-clouds-end.json](./129728-where-the-clouds-end.json) |
 | Where The Crows Roam | 288460 | [288460-where-the-crows-roam.json](./288460-where-the-crows-roam.json) |
 | Where the Demon Lurks | 209631 | [209631-where-the-demon-lurks.json](./209631-where-the-demon-lurks.json) |
+| Where the Forest Ends | 372718 | [372718-where-the-forest-ends.json](./372718-where-the-forest-ends.json) |
 | Where the Forest Lies | 364532 | [364532-where-the-forest-lies.json](./364532-where-the-forest-lies.json) |
 | Where the Fuck is Richard? | 62777 | [62777-where-the-fuck-is-richard.json](./62777-where-the-fuck-is-richard.json) |
 | Where the Goats Are | 74252 | [74252-where-the-goats-are.json](./74252-where-the-goats-are.json) |
@@ -4572,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Stole Me? | 247168 | [247168-who-stole-me.json](./247168-who-stole-me.json) |
 | Who Stole My Beard? | 132747 | [132747-who-stole-my-beard.json](./132747-who-stole-my-beard.json) |
 | Who Stole My Bone? | 177361 | [177361-who-stole-my-bone.json](./177361-who-stole-my-bone.json) |
+| Who Summoned It? | 372710 | [372710-who-summoned-it.json](./372710-who-summoned-it.json) |
 | Who tells your story | 398383 | [398383-who-tells-your-story.json](./398383-who-tells-your-story.json) |
 | Who tells your story: Fantasy Pack | 404269 | [404269-who-tells-your-story-fantasy-pack.json](./404269-who-tells-your-story-fantasy-pack.json) |
 | Who the Fuck Ate Grandma? | 192581 | [192581-who-the-fuck-ate-grandma.json](./192581-who-the-fuck-ate-grandma.json) |
