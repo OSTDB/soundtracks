@@ -8837,6 +8837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Secrets 2: Episode 1 | 146872 | [146872-city-of-secrets-2-episode-1.json](./146872-city-of-secrets-2-episode-1.json) |
 | City of sky | 88013 | [88013-city-of-sky.json](./88013-city-of-sky.json) |
 | City of Small Magics | 183205 | [183205-city-of-small-magics.json](./183205-city-of-small-magics.json) |
+| City of Spells | 372949 | [372949-city-of-spells.json](./372949-city-of-spells.json) |
 | City of Springs | 217219 | [217219-city-of-springs.json](./217219-city-of-springs.json) |
 | City of Stars | 390569 | [390569-city-of-stars.json](./390569-city-of-stars.json) |
 | City of Steam | 63546 | [63546-city-of-steam.json](./63546-city-of-steam.json) |
@@ -12754,6 +12755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congo's Caper | 42665 | [42665-congos-caper.json](./42665-congos-caper.json) |
 | Congratulations On Your Purchase | 407707 | [407707-congratulations-on-your-purchase.json](./407707-congratulations-on-your-purchase.json) |
 | Congresswolf | 30797 | [30797-congresswolf.json](./30797-congresswolf.json) |
+| CongWei | 372945 | [372945-congwei.json](./372945-congwei.json) |
 | Coniclysm | 16107 | [16107-coniclysm.json](./16107-coniclysm.json) |
 | Conjunctivitalizer | 329464 | [329464-conjunctivitalizer.json](./329464-conjunctivitalizer.json) |
 | Conjuntalia | 91002 | [91002-conjuntalia.json](./91002-conjuntalia.json) |
@@ -13462,6 +13464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Clicker classic | 317780 | [317780-cookie-clicker-classic.json](./317780-cookie-clicker-classic.json) |
 | Cookie Clicker Collector | 373222 | [373222-cookie-clicker-collector.json](./373222-cookie-clicker-collector.json) |
 | Cookie Clicker PSP | 397263 | [397263-cookie-clicker-psp.json](./397263-cookie-clicker-psp.json) |
+| Cookie Clickers 2 | 373227 | [373227-cookie-clickers-2.json](./373227-cookie-clickers-2.json) |
 | Cookie Collector 2 | 58734 | [58734-cookie-collector-2.json](./58734-cookie-collector-2.json) |
 | Cookie Crisp City | 330362 | [330362-cookie-crisp-city.json](./330362-cookie-crisp-city.json) |
 | Cookie Cutter | 205700 | [205700-cookie-cutter.json](./205700-cookie-cutter.json) |
@@ -13498,6 +13501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookies Inc. | 243980 | [243980-cookies-inc.json](./243980-cookies-inc.json) |
 | Cookies Must Die | 132117 | [132117-cookies-must-die.json](./132117-cookies-must-die.json) |
 | Cookies vs. Claus | 76110 | [76110-cookies-vs-claus.json](./76110-cookies-vs-claus.json) |
+| Cookies! | 373225 | [373225-cookies.json](./373225-cookies.json) |
 | Cookies! Theory of Super Evolution | 222257 | [222257-cookies-theory-of-super-evolution.json](./222257-cookies-theory-of-super-evolution.json) |
 | Cookiesaner | 417483 | [417483-cookiesaner.json](./417483-cookiesaner.json) |
 | Cookiette and the Vanilla Crystal | 386180 | [386180-cookiette-and-the-vanilla-crystal.json](./386180-cookiette-and-the-vanilla-crystal.json) |
@@ -16681,6 +16685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Crossfire | 277326 | [277326-critter-crossfire.json](./277326-critter-crossfire.json) |
 | Critter Crunch | 13188 | [13188-critter-crunch.json](./13188-critter-crunch.json) |
 | Critter Crush - Hunting Game | 89282 | [89282-critter-crush-hunting-game.json](./89282-critter-crush-hunting-game.json) |
+| Critter Escape | 373229 | [373229-critter-escape.json](./373229-critter-escape.json) |
 | Critter Isle | 334301 | [334301-critter-isle.json](./334301-critter-isle.json) |
 | Critter Kart | 122216 | [122216-critter-kart.json](./122216-critter-kart.json) |
 | Critter Loop | 412267 | [412267-critter-loop.json](./412267-critter-loop.json) |
