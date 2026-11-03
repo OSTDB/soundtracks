@@ -9834,6 +9834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Drop It like it's hot | 367588 | [367588-fortnite-festival-drop-it-like-its-hot.json](./367588-fortnite-festival-drop-it-like-its-hot.json) |
 | Fortnite Festival: Ella Baila Sola | 372153 | [372153-fortnite-festival-ella-baila-sola.json](./372153-fortnite-festival-ella-baila-sola.json) |
 | Fortnite Festival: Empty Out Your Pockets | 366809 | [366809-fortnite-festival-empty-out-your-pockets.json](./366809-fortnite-festival-empty-out-your-pockets.json) |
+| Fortnite Festival: Everlong | 366468 | [366468-fortnite-festival-everlong.json](./366468-fortnite-festival-everlong.json) |
 | Fortnite Festival: Everybody (Backstreet's Back) | 365609 | [365609-fortnite-festival-everybody-backstreets-back.json](./365609-fortnite-festival-everybody-backstreets-back.json) |
 | Fortnite Festival: Fade to Black | 367589 | [367589-fortnite-festival-fade-to-black.json](./367589-fortnite-festival-fade-to-black.json) |
 | Fortnite Festival: Feel Good Inc | 366198 | [366198-fortnite-festival-feel-good-inc.json](./366198-fortnite-festival-feel-good-inc.json) |
@@ -9845,6 +9846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Get Lucky | 370567 | [370567-fortnite-festival-get-lucky.json](./370567-fortnite-festival-get-lucky.json) |
 | Fortnite Festival: Gimme Chocolate!! | 370634 | [370634-fortnite-festival-gimme-chocolate.json](./370634-fortnite-festival-gimme-chocolate.json) |
 | Fortnite Festival: Givenchy | 367580 | [367580-fortnite-festival-givenchy.json](./367580-fortnite-festival-givenchy.json) |
+| Fortnite Festival: Go Go Power Rangers | 366471 | [366471-fortnite-festival-go-go-power-rangers.json](./366471-fortnite-festival-go-go-power-rangers.json) |
 | Fortnite Festival: Heartbreaker | 372150 | [372150-fortnite-festival-heartbreaker.json](./372150-fortnite-festival-heartbreaker.json) |
 | Fortnite Festival: High Hopes | 366808 | [366808-fortnite-festival-high-hopes.json](./366808-fortnite-festival-high-hopes.json) |
 | Fortnite Festival: I Wish | 369067 | [369067-fortnite-festival-i-wish.json](./369067-fortnite-festival-i-wish.json) |
@@ -9856,6 +9858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Master of Puppets | 366197 | [366197-fortnite-festival-master-of-puppets.json](./366197-fortnite-festival-master-of-puppets.json) |
 | Fortnite Festival: Mi Gente | 372796 | [372796-fortnite-festival-mi-gente.json](./372796-fortnite-festival-mi-gente.json) |
 | Fortnite Festival: Miku | 370638 | [370638-fortnite-festival-miku.json](./370638-fortnite-festival-miku.json) |
+| Fortnite Festival: Monster | 366467 | [366467-fortnite-festival-monster.json](./366467-fortnite-festival-monster.json) |
 | Fortnite Festival: Moves Like Jagger | 369072 | [369072-fortnite-festival-moves-like-jagger.json](./369072-fortnite-festival-moves-like-jagger.json) |
 | Fortnite Festival: Mr. Brightside | 367586 | [367586-fortnite-festival-mr-brightside.json](./367586-fortnite-festival-mr-brightside.json) |
 | Fortnite Festival: Never Back Down | 366195 | [366195-fortnite-festival-never-back-down.json](./366195-fortnite-festival-never-back-down.json) |
@@ -9864,6 +9867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Old Town Road (Remix) | 370573 | [370573-fortnite-festival-old-town-road-remix.json](./370573-fortnite-festival-old-town-road-remix.json) |
 | Fortnite Festival: One | 367587 | [367587-fortnite-festival-one.json](./367587-fortnite-festival-one.json) |
 | Fortnite Festival: Paint The Town Red | 372795 | [372795-fortnite-festival-paint-the-town-red.json](./372795-fortnite-festival-paint-the-town-red.json) |
+| Fortnite Festival: Party Like A Rock Star | 366474 | [366474-fortnite-festival-party-like-a-rock-star.json](./366474-fortnite-festival-party-like-a-rock-star.json) |
 | Fortnite Festival: Poison | 372151 | [372151-fortnite-festival-poison.json](./372151-fortnite-festival-poison.json) |
 | Fortnite Festival: Positions | 366201 | [366201-fortnite-festival-positions.json](./366201-fortnite-festival-positions.json) |
 | Fortnite Festival: PPAP (Pen Pineapple Apple Pen) [Long Version] | 372802 | [372802-fortnite-festival-ppap-pen-pineapple-apple-pen-long-version.json](./372802-fortnite-festival-ppap-pen-pineapple-apple-pen-long-version.json) |
@@ -9873,6 +9877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Ride Wit Me | 372152 | [372152-fortnite-festival-ride-wit-me.json](./372152-fortnite-festival-ride-wit-me.json) |
 | Fortnite Festival: Right Round | 366429 | [366429-fortnite-festival-right-round.json](./366429-fortnite-festival-right-round.json) |
 | Fortnite Festival: Sandstorm | 372126 | [372126-fortnite-festival-sandstorm.json](./372126-fortnite-festival-sandstorm.json) |
+| Fortnite Festival: Say It Ain't So | 366472 | [366472-fortnite-festival-say-it-aint-so.json](./366472-fortnite-festival-say-it-aint-so.json) |
 | Fortnite Festival: Season 1 | 383943 | [383943-fortnite-festival-season-1.json](./383943-fortnite-festival-season-1.json) |
 | Fortnite Festival: Season 11 | 384110 | [384110-fortnite-festival-season-11.json](./384110-fortnite-festival-season-11.json) |
 | Fortnite Festival: Season 12 | 384111 | [384111-fortnite-festival-season-12.json](./384111-fortnite-festival-season-12.json) |
@@ -9901,6 +9906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Uptown Funk | 372010 | [372010-fortnite-festival-uptown-funk.json](./372010-fortnite-festival-uptown-funk.json) |
 | Fortnite Festival: We Like To Party! (The Vengabus) | 370571 | [370571-fortnite-festival-we-like-to-party-the-vengabus.json](./370571-fortnite-festival-we-like-to-party-the-vengabus.json) |
 | Fortnite Festival: Welcome Home | 366400 | [366400-fortnite-festival-welcome-home.json](./366400-fortnite-festival-welcome-home.json) |
+| Fortnite Festival: What Do You Mean? | 366469 | [366469-fortnite-festival-what-do-you-mean.json](./366469-fortnite-festival-what-do-you-mean.json) |
 | Fortnite Festival: What's New Scooby-Doo? | 372797 | [372797-fortnite-festival-whats-new-scooby-doo.json](./372797-fortnite-festival-whats-new-scooby-doo.json) |
 | Fortnite Festival: Wildberry Lillet | 369069 | [369069-fortnite-festival-wildberry-lillet.json](./369069-fortnite-festival-wildberry-lillet.json) |
 | Fortnite Festival: Wolves | 376171 | [376171-fortnite-festival-wolves.json](./376171-fortnite-festival-wolves.json) |
