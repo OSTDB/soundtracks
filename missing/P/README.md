@@ -2874,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Valhalla | 113733 | [113733-path-to-valhalla.json](./113733-path-to-valhalla.json) |
 | Path to Warband | 215692 | [215692-path-to-warband.json](./215692-path-to-warband.json) |
 | Path Weaver | 296644 | [296644-path-weaver.json](./296644-path-weaver.json) |
+| Path Zero | 363634 | [363634-path-zero.json](./363634-path-zero.json) |
 | Path: Through the Forest | 151598 | [151598-path-through-the-forest.json](./151598-path-through-the-forest.json) |
 | Pathbreakers: Roaming Blades | 344141 | [344141-pathbreakers-roaming-blades.json](./344141-pathbreakers-roaming-blades.json) |
 | PathCraft | 204340 | [204340-pathcraft.json](./204340-pathcraft.json) |
@@ -6180,7 +6181,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Puzzle Card e+: No.00 - Tsunagete Pikmin: Ao Pikmin | 353511 | [353511-pikmin-puzzle-card-e-no-00-tsunagete-pikmin-ao-pikmin.json](./353511-pikmin-puzzle-card-e-no-00-tsunagete-pikmin-ao-pikmin.json) |
 | Pikmin Puzzle Card e+: No.01 - Hikkonuki Pikmin: Aka Chappy | 353512 | [353512-pikmin-puzzle-card-e-no-01-hikkonuki-pikmin-aka-chappy.json](./353512-pikmin-puzzle-card-e-no-01-hikkonuki-pikmin-aka-chappy.json) |
 | Pikmin Puzzle Card e+: No.02 - Teku-teku Pikmin: Ke Chappy | 353513 | [353513-pikmin-puzzle-card-e-no-02-teku-teku-pikmin-ke-chappy.json](./353513-pikmin-puzzle-card-e-no-02-teku-teku-pikmin-ke-chappy.json) |
+| Pikmin Puzzle Card e+: No.027 - Hikkonuki Pikmin: Haori Mushi | 363763 | [363763-pikmin-puzzle-card-e-no-027-hikkonuki-pikmin-haori-mushi.json](./363763-pikmin-puzzle-card-e-no-027-hikkonuki-pikmin-haori-mushi.json) |
+| Pikmin Puzzle Card e+: No.028 - Teku-teku Pikmin: Hanageimo | 363764 | [363764-pikmin-puzzle-card-e-no-028-teku-teku-pikmin-hanageimo.json](./363764-pikmin-puzzle-card-e-no-028-teku-teku-pikmin-hanageimo.json) |
+| Pikmin Puzzle Card e+: No.029 - Tsunagete Pikmin: Goromushi | 363766 | [363766-pikmin-puzzle-card-e-no-029-tsunagete-pikmin-goromushi.json](./363766-pikmin-puzzle-card-e-no-029-tsunagete-pikmin-goromushi.json) |
 | Pikmin Puzzle Card e+: No.03 Tsunagete Pikmin - Ten-ten Chappy | 353514 | [353514-pikmin-puzzle-card-e-no-03-tsunagete-pikmin-ten-ten-chappy.json](./353514-pikmin-puzzle-card-e-no-03-tsunagete-pikmin-ten-ten-chappy.json) |
+| Pikmin Puzzle Card e+: No.030 - Teku-teku Pikmin: Damagumo | 363767 | [363767-pikmin-puzzle-card-e-no-030-teku-teku-pikmin-damagumo.json](./363767-pikmin-puzzle-card-e-no-030-teku-teku-pikmin-damagumo.json) |
+| Pikmin Puzzle Card e+: No.031 - Teku-teku Pikmin: Zou no Ashi | 363768 | [363768-pikmin-puzzle-card-e-no-031-teku-teku-pikmin-zou-no-ashi.json](./363768-pikmin-puzzle-card-e-no-031-teku-teku-pikmin-zou-no-ashi.json) |
+| Pikmin Puzzle Card e+: No.032 - Tsunagete Pikmin: Damagumo Cannon | 363769 | [363769-pikmin-puzzle-card-e-no-032-tsunagete-pikmin-damagumo-cannon.json](./363769-pikmin-puzzle-card-e-no-032-tsunagete-pikmin-damagumo-cannon.json) |
+| Pikmin Puzzle Card e+: No.033 - Hikkonuki Pikmin: Tamago Mushi | 363770 | [363770-pikmin-puzzle-card-e-no-033-hikkonuki-pikmin-tamago-mushi.json](./363770-pikmin-puzzle-card-e-no-033-hikkonuki-pikmin-tamago-mushi.json) |
 | Pikmin Puzzle Card e+: No.039 - Tsunagete Pikmin: Ko Manman | 363776 | [363776-pikmin-puzzle-card-e-no-039-tsunagete-pikmin-ko-manman.json](./363776-pikmin-puzzle-card-e-no-039-tsunagete-pikmin-ko-manman.json) |
 | Pikmin Puzzle Card e+: No.04 - Hikkonuki Pikmin: Aka Ko Chappy | 353515 | [353515-pikmin-puzzle-card-e-no-04-hikkonuki-pikmin-aka-ko-chappy.json](./353515-pikmin-puzzle-card-e-no-04-hikkonuki-pikmin-aka-ko-chappy.json) |
 | Pikmin Puzzle Card e+: No.040 - Hikkonuki Pikmin: Oomanman | 363777 | [363777-pikmin-puzzle-card-e-no-040-hikkonuki-pikmin-oomanman.json](./363777-pikmin-puzzle-card-e-no-040-hikkonuki-pikmin-oomanman.json) |
@@ -7148,6 +7156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirarucu's Money Rush | 301023 | [301023-pirarucus-money-rush.json](./301023-pirarucus-money-rush.json) |
 | Piratado 1 | 30743 | [30743-piratado-1.json](./30743-piratado-1.json) |
 | Pirate | 305469 | [305469-pirate.json](./305469-pirate.json) |
+| Pirate | 363620 | [363620-pirate.json](./363620-pirate.json) |
 | Pirate | 41424 | [41424-pirate.json](./41424-pirate.json) |
 | Pirate Adventure | 176799 | [176799-pirate-adventure.json](./176799-pirate-adventure.json) |
 | Pirate Adventure | 18512 | [18512-pirate-adventure.json](./18512-pirate-adventure.json) |
@@ -12099,6 +12108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popeye | 232703 | [232703-popeye.json](./232703-popeye.json) |
 | Popeye | 266839 | [266839-popeye.json](./266839-popeye.json) |
 | Popeye | 283579 | [283579-popeye.json](./283579-popeye.json) |
+| Popeye | 363621 | [363621-popeye.json](./363621-popeye.json) |
 | Popeye | 38310 | [38310-popeye.json](./38310-popeye.json) |
 | Popeye | 4619 | [4619-popeye.json](./4619-popeye.json) |
 | Popeye & The Sunken Treasure | 209329 | [209329-popeye-and-the-sunken-treasure.json](./209329-popeye-and-the-sunken-treasure.json) |
