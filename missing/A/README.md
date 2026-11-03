@@ -5434,6 +5434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aisera's Ladder | 328197 | [328197-aiseras-ladder.json](./328197-aiseras-ladder.json) |
 | Aishi & Reimu | 369468 | [369468-aishi-and-reimu.json](./369468-aishi-and-reimu.json) |
 | Aishiau Koto Shika Dekinai | 178239 | [178239-aishiau-koto-shika-dekinai.json](./178239-aishiau-koto-shika-dekinai.json) |
+| Aishite Knight Herpit | 395098 | [395098-aishite-knight-herpit.json](./395098-aishite-knight-herpit.json) |
 | Aisle | 130832 | [130832-aisle.json](./130832-aisle.json) |
 | Aisle Lord | 46395 | [46395-aisle-lord.json](./46395-aisle-lord.json) |
 | Aisle Survive | 410432 | [410432-aisle-survive.json](./410432-aisle-survive.json) |
@@ -5658,6 +5659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aksun | 330327 | [330327-aksun.json](./330327-aksun.json) |
 | Akte Europa | 19584 | [19584-akte-europa.json](./19584-akte-europa.json) |
 | Aktie | 242687 | [242687-aktie.json](./242687-aktie.json) |
+| Aku no Kyoukasho Textbook of Evil | 395099 | [395099-aku-no-kyoukasho-textbook-of-evil.json](./395099-aku-no-kyoukasho-textbook-of-evil.json) |
 | Aku Ryuu G* Gotoku: Legend of the Strongest | 83223 | [83223-aku-ryuu-g-gotoku-legend-of-the-strongest.json](./83223-aku-ryuu-g-gotoku-legend-of-the-strongest.json) |
 | Akuarium | 147471 | [147471-akuarium.json](./147471-akuarium.json) |
 | Akuatica | 34497 | [34497-akuatica.json](./34497-akuatica.json) |
