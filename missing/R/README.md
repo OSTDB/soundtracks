@@ -886,6 +886,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnar's Chinese Memory Game | 156112 | [156112-ragnars-chinese-memory-game.json](./156112-ragnars-chinese-memory-game.json) |
 | Ragnarock | 139399 | [139399-ragnarock.json](./139399-ragnarock.json) |
 | Ragnarock: Sabaton Raid | 253195 | [253195-ragnarock-sabaton-raid.json](./253195-ragnarock-sabaton-raid.json) |
+| Ragnarock: Summer Skin Pack | 354318 | [354318-ragnarock-summer-skin-pack.json](./354318-ragnarock-summer-skin-pack.json) |
+| Ragnarock: Viking Music Pack | 354320 | [354320-ragnarock-viking-music-pack.json](./354320-ragnarock-viking-music-pack.json) |
 | Ragnarock: Vikings On Tour | 247655 | [247655-ragnarock-vikings-on-tour.json](./247655-ragnarock-vikings-on-tour.json) |
 | Ragnarok | 71704 | [71704-ragnarok.json](./71704-ragnarok.json) |
 | Ragnarok Age of Heroes | 305964 | [305964-ragnarok-age-of-heroes.json](./305964-ragnarok-age-of-heroes.json) |
