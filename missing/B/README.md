@@ -1942,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandido Rush | 348584 | [348584-bandido-rush.json](./348584-bandido-rush.json) |
 | Bandit | 251553 | [251553-bandit.json](./251553-bandit.json) |
 | Bandit | 330887 | [330887-bandit.json](./330887-bandit.json) |
+| Bandit | 372709 | [372709-bandit.json](./372709-bandit.json) |
 | Bandit | 379999 | [379999-bandit.json](./379999-bandit.json) |
 | Bandit | 69671 | [69671-bandit.json](./69671-bandit.json) |
 | Bandit Accountancy | 336923 | [336923-bandit-accountancy.json](./336923-bandit-accountancy.json) |
@@ -4527,6 +4528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Like Pac-Man and the Ghostly Adventures | 185672 | [185672-be-like-pac-man-and-the-ghostly-adventures.json](./185672-be-like-pac-man-and-the-ghostly-adventures.json) |
 | Be Lost | 369099 | [369099-be-lost.json](./369099-be-lost.json) |
 | Be Missed and Remembered: The Letter from Mayoiga | 376416 | [376416-be-missed-and-remembered-the-letter-from-mayoiga.json](./376416-be-missed-and-remembered-the-letter-from-mayoiga.json) |
+| Be My Horde | 372403 | [372403-be-my-horde.json](./372403-be-my-horde.json) |
 | Be My Loyal Subject | 215490 | [215490-be-my-loyal-subject.json](./215490-be-my-loyal-subject.json) |
 | Be My Match | 299025 | [299025-be-my-match.json](./299025-be-my-match.json) |
 | Be My Princess | 238419 | [238419-be-my-princess.json](./238419-be-my-princess.json) |
@@ -9286,6 +9288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Ball | 22328 | [22328-blast-ball.json](./22328-blast-ball.json) |
 | Blast Beat | 186821 | [186821-blast-beat.json](./186821-blast-beat.json) |
 | Blast Beats | 235288 | [235288-blast-beats.json](./235288-blast-beats.json) |
+| Blast Bebop | 372592 | [372592-blast-bebop.json](./372592-blast-bebop.json) |
 | Blast Blade | 414043 | [414043-blast-blade.json](./414043-blast-blade.json) |
 | Blast Bots | 194022 | [194022-blast-bots.json](./194022-blast-bots.json) |
 | Blast Brawl 2: Bloody Boogaloo | 33414 | [33414-blast-brawl-2-bloody-boogaloo.json](./33414-blast-brawl-2-bloody-boogaloo.json) |
@@ -17611,6 +17614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bytes and Knights Adventure | 402433 | [402433-bytes-and-knights-adventure.json](./402433-bytes-and-knights-adventure.json) |
 | Bytes: The Reverse Tower Defense | 244707 | [244707-bytes-the-reverse-tower-defense.json](./244707-bytes-the-reverse-tower-defense.json) |
 | Bytesize | 263489 | [263489-bytesize.json](./263489-bytesize.json) |
+| Byteworld | 372398 | [372398-byteworld.json](./372398-byteworld.json) |
 | Bythzkel-Sombréa | 311820 | [311820-bythzkel-sombrea.json](./311820-bythzkel-sombrea.json) |
 | Byzantine: The Betrayal | 25457 | [25457-byzantine-the-betrayal.json](./25457-byzantine-the-betrayal.json) |
 | Bzzzt | 133446 | [133446-bzzzt.json](./133446-bzzzt.json) |
