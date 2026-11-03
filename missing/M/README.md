@@ -5639,6 +5639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8057,6 +8058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melody of Seasons | 189918 | [189918-melody-of-seasons.json](./189918-melody-of-seasons.json) |
 | Melody of the Light | 181909 | [181909-melody-of-the-light.json](./181909-melody-of-the-light.json) |
 | Melody Quest | 257444 | [257444-melody-quest.json](./257444-melody-quest.json) |
+| Melody Xmas | 371827 | [371827-melody-xmas.json](./371827-melody-xmas.json) |
 | Melody's Escape | 16933 | [16933-melodys-escape.json](./16933-melodys-escape.json) |
 | Melody's Escape 2 | 217497 | [217497-melodys-escape-2.json](./217497-melodys-escape-2.json) |
 | Melody's Melon Mania | 311977 | [311977-melodys-melon-mania.json](./311977-melodys-melon-mania.json) |
@@ -8939,6 +8941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merriment Carrying Caravan | 140159 | [140159-merriment-carrying-caravan.json](./140159-merriment-carrying-caravan.json) |
 | Merror | 374641 | [374641-merror.json](./374641-merror.json) |
 | Merry Bear | 285958 | [285958-merry-bear.json](./285958-merry-bear.json) |
+| Merry Bunny Garden | 371824 | [371824-merry-bunny-garden.json](./371824-merry-bunny-garden.json) |
 | Merry Christmas: Snowball Bubble | 187495 | [187495-merry-christmas-snowball-bubble.json](./187495-merry-christmas-snowball-bubble.json) |
 | Merry Clickmas | 23683 | [23683-merry-clickmas.json](./23683-merry-clickmas.json) |
 | Merry Cook | 367934 | [367934-merry-cook.json](./367934-merry-cook.json) |
@@ -10390,6 +10393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midautumn | 148943 | [148943-midautumn.json](./148943-midautumn.json) |
 | MidBoss | 30360 | [30360-midboss.json](./30360-midboss.json) |
 | MidCreati | 229273 | [229273-midcreati.json](./229273-midcreati.json) |
+| Middenmoon | 371821 | [371821-middenmoon.json](./371821-middenmoon.json) |
 | Middens | 55004 | [55004-middens.json](./55004-middens.json) |
 | Middle Age Conquest | 151289 | [151289-middle-age-conquest.json](./151289-middle-age-conquest.json) |
 | Middle Ages Hero | 115147 | [115147-middle-ages-hero.json](./115147-middle-ages-hero.json) |
@@ -12638,6 +12642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage: Beyond the Screen | 278530 | [278530-mirage-beyond-the-screen.json](./278530-mirage-beyond-the-screen.json) |
 | Mirage: Illusions | 326977 | [326977-mirage-illusions.json](./326977-mirage-illusions.json) |
 | Mirage: Lost in the Liminal | 374579 | [374579-mirage-lost-in-the-liminal.json](./374579-mirage-lost-in-the-liminal.json) |
+| Mirage: Miracle Quest | 372172 | [372172-mirage-miracle-quest.json](./372172-mirage-miracle-quest.json) |
 | Mirage: Perfect Skyline | 303194 | [303194-mirage-perfect-skyline.json](./303194-mirage-perfect-skyline.json) |
 | Mirages | 223433 | [223433-mirages.json](./223433-mirages.json) |
 | Mirages of Winter | 123275 | [123275-mirages-of-winter.json](./123275-mirages-of-winter.json) |
