@@ -1747,6 +1747,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangram | 208373 | [208373-tangram.json](./208373-tangram.json) |
 | Tangram Attack | 85423 | [85423-tangram-attack.json](./85423-tangram-attack.json) |
 | Tangram Collection | 241887 | [241887-tangram-collection.json](./241887-tangram-collection.json) |
+| Tangram Collection: Bird Puzzle Pack | 358002 | [358002-tangram-collection-bird-puzzle-pack.json](./358002-tangram-collection-bird-puzzle-pack.json) |
+| Tangram Collection: Cat Puzzle Pack | 358001 | [358001-tangram-collection-cat-puzzle-pack.json](./358001-tangram-collection-cat-puzzle-pack.json) |
+| Tangram Collection: Gem Puzzle Pack | 358000 | [358000-tangram-collection-gem-puzzle-pack.json](./358000-tangram-collection-gem-puzzle-pack.json) |
+| Tangram Collection: Hexagon Puzzle Pack | 357999 | [357999-tangram-collection-hexagon-puzzle-pack.json](./357999-tangram-collection-hexagon-puzzle-pack.json) |
+| Tangram Collection: House Puzzle Pack | 357998 | [357998-tangram-collection-house-puzzle-pack.json](./357998-tangram-collection-house-puzzle-pack.json) |
+| Tangram Collection: Rabbit Puzzle Pack | 357997 | [357997-tangram-collection-rabbit-puzzle-pack.json](./357997-tangram-collection-rabbit-puzzle-pack.json) |
+| Tangram Collection: Tortoise Puzzle Pack | 357996 | [357996-tangram-collection-tortoise-puzzle-pack.json](./357996-tangram-collection-tortoise-puzzle-pack.json) |
 | Tangram Puzzle Pro | 70605 | [70605-tangram-puzzle-pro.json](./70605-tangram-puzzle-pro.json) |
 | Tangram Puzzle: Shape Puzzle | 237625 | [237625-tangram-puzzle-shape-puzzle.json](./237625-tangram-puzzle-shape-puzzle.json) |
 | Tangram Style | 85422 | [85422-tangram-style.json](./85422-tangram-style.json) |
@@ -12485,6 +12492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Pixel That Could | 332377 | [332377-the-little-pixel-that-could.json](./332377-the-little-pixel-that-could.json) |
 | The Little Plane That Could | 213216 | [213216-the-little-plane-that-could.json](./213216-the-little-plane-that-could.json) |
 | The Little Prince VR | 72425 | [72425-the-little-prince-vr.json](./72425-the-little-prince-vr.json) |
+| The Little Puzzle House | 358005 | [358005-the-little-puzzle-house.json](./358005-the-little-puzzle-house.json) |
 | The Little Raven & Friends: The Tricycle Story | 71971 | [71971-the-little-raven-and-friends-the-tricycle-story.json](./71971-the-little-raven-and-friends-the-tricycle-story.json) |
 | The Little Red Lie | 145541 | [145541-the-little-red-lie.json](./145541-the-little-red-lie.json) |
 | The Little Slime | 83536 | [83536-the-little-slime.json](./83536-the-little-slime.json) |
@@ -17660,6 +17668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vault | 295247 | [295247-the-vault.json](./295247-the-vault.json) |
 | The Vault | 97331 | [97331-the-vault.json](./97331-the-vault.json) |
 | The Vault of Darkness | 70058 | [70058-the-vault-of-darkness.json](./70058-the-vault-of-darkness.json) |
+| The Vault: Logic Puzzle Box | 358004 | [358004-the-vault-logic-puzzle-box.json](./358004-the-vault-logic-puzzle-box.json) |
 | The Vaults | 197914 | [197914-the-vaults.json](./197914-the-vaults.json) |
 | The Vaults Below Durn: A Field Study | 401853 | [401853-the-vaults-below-durn-a-field-study.json](./401853-the-vaults-below-durn-a-field-study.json) |
 | The Vaults of Minos | 213311 | [213311-the-vaults-of-minos.json](./213311-the-vaults-of-minos.json) |
@@ -21736,6 +21745,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timber Tennis | 36619 | [36619-timber-tennis.json](./36619-timber-tennis.json) |
 | Timber Tennis: Versus | 111463 | [111463-timber-tennis-versus.json](./111463-timber-tennis-versus.json) |
 | Timber Trail | 374638 | [374638-timber-trail.json](./374638-timber-trail.json) |
+| Timber Trails Alpine Puzzle | 358003 | [358003-timber-trails-alpine-puzzle.json](./358003-timber-trails-alpine-puzzle.json) |
+| Timber Trails Alpine Puzzle: Expansion Pack 1 | 358006 | [358006-timber-trails-alpine-puzzle-expansion-pack-1.json](./358006-timber-trails-alpine-puzzle-expansion-pack-1.json) |
+| Timber Trails Alpine Puzzle: Expansion Pack 2 | 358007 | [358007-timber-trails-alpine-puzzle-expansion-pack-2.json](./358007-timber-trails-alpine-puzzle-expansion-pack-2.json) |
+| Timber Trails Alpine Puzzle: Expansion Pack 3 | 358008 | [358008-timber-trails-alpine-puzzle-expansion-pack-3.json](./358008-timber-trails-alpine-puzzle-expansion-pack-3.json) |
 | Timber Truck: Chaos Coop | 412754 | [412754-timber-truck-chaos-coop.json](./412754-timber-truck-chaos-coop.json) |
 | Timber Wars | 339305 | [339305-timber-wars.json](./339305-timber-wars.json) |
 | Timber! The Logging Experts | 30595 | [30595-timber-the-logging-experts.json](./30595-timber-the-logging-experts.json) |
@@ -25587,6 +25600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour of Duty | 59307 | [59307-tour-of-duty.json](./59307-tour-of-duty.json) |
 | Tour of Neverland | 146886 | [146886-tour-of-neverland.json](./146886-tour-of-neverland.json) |
 | Tour Party: Sotsugyou Ryokou ni Ikou | 203050 | [203050-tour-party-sotsugyou-ryokou-ni-ikou.json](./203050-tour-party-sotsugyou-ryokou-ni-ikou.json) |
+| Tour: Chess Puzzles | 358009 | [358009-tour-chess-puzzles.json](./358009-tour-chess-puzzles.json) |
 | Touring | 252895 | [252895-touring.json](./252895-touring.json) |
 | Touring Car Champions | 2405 | [2405-touring-car-champions.json](./2405-touring-car-champions.json) |
 | Touring Car Racer | 94513 | [94513-touring-car-racer.json](./94513-touring-car-racer.json) |
@@ -29578,6 +29592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trip | 110120 | [110120-trip.json](./110120-trip.json) |
 | Trip | 217479 | [217479-trip.json](./217479-trip.json) |
 | Trip in Hell | 107813 | [107813-trip-in-hell.json](./107813-trip-in-hell.json) |
+| Trip Japan Puzzle | 358010 | [358010-trip-japan-puzzle.json](./358010-trip-japan-puzzle.json) |
 | Trip Movie /Mosaic: Shounen Alice Satsujin Jiken | 366243 | [366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json](./366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json) |
 | Trip Sort | 425871 | [425871-trip-sort.json](./425871-trip-sort.json) |
 | Trip the Ark Fantastic | 126284 | [126284-trip-the-ark-fantastic.json](./126284-trip-the-ark-fantastic.json) |
@@ -31693,6 +31708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twizzle Puzzle: Cats | 277753 | [277753-twizzle-puzzle-cats.json](./277753-twizzle-puzzle-cats.json) |
 | Twizzle Puzzle: Dogs | 275418 | [275418-twizzle-puzzle-dogs.json](./275418-twizzle-puzzle-dogs.json) |
 | Twizzle Puzzle: Dragons | 313653 | [313653-twizzle-puzzle-dragons.json](./313653-twizzle-puzzle-dragons.json) |
+| Twizzle Puzzle: Flowers | 358011 | [358011-twizzle-puzzle-flowers.json](./358011-twizzle-puzzle-flowers.json) |
 | Twizzle Puzzle: Monkeys | 290690 | [290690-twizzle-puzzle-monkeys.json](./290690-twizzle-puzzle-monkeys.json) |
 | Twizzle Puzzle: Mushrooms | 310260 | [310260-twizzle-puzzle-mushrooms.json](./310260-twizzle-puzzle-mushrooms.json) |
 | Twizzle Puzzle: Rodents | 295379 | [295379-twizzle-puzzle-rodents.json](./295379-twizzle-puzzle-rodents.json) |
