@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Chance VR | 123552 | [123552-last-chance-vr.json](./123552-last-chance-vr.json) |
 | Last Chance: The Survivor | 294027 | [294027-last-chance-the-survivor.json](./294027-last-chance-the-survivor.json) |
 | Last Chaos | 90316 | [90316-last-chaos.json](./90316-last-chaos.json) |
+| Last Chess Standing | 354166 | [354166-last-chess-standing.json](./354166-last-chess-standing.json) |
 | Last Chick | 131827 | [131827-last-chick.json](./131827-last-chick.json) |
 | Last Chickenburg | 121447 | [121447-last-chickenburg.json](./121447-last-chickenburg.json) |
 | Last Christmas | 220542 | [220542-last-christmas.json](./220542-last-christmas.json) |
