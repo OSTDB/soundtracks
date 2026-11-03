@@ -9020,6 +9020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyrm Climb | 305795 | [305795-wyrm-climb.json](./305795-wyrm-climb.json) |
 | Wyrm's Wrath | 184239 | [184239-wyrms-wrath.json](./184239-wyrms-wrath.json) |
 | WyrmBound | 290721 | [290721-wyrmbound.json](./290721-wyrmbound.json) |
+| Wyrmfall | 398799 | [398799-wyrmfall.json](./398799-wyrmfall.json) |
 | Wyrmhall: Brush and Banter | 326221 | [326221-wyrmhall-brush-and-banter.json](./326221-wyrmhall-brush-and-banter.json) |
 | Wyrmhole: The Forbidden Knowledge | 253384 | [253384-wyrmhole-the-forbidden-knowledge.json](./253384-wyrmhole-the-forbidden-knowledge.json) |
 | Wyrmicide | 255183 | [255183-wyrmicide.json](./255183-wyrmicide.json) |
