@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack Back | 353760 | [353760-hack-back.json](./353760-hack-back.json) |
 | Hack Bomb Boma-ye | 153058 | [153058-hack-bomb-boma-ye.json](./153058-hack-bomb-boma-ye.json) |
 | Hack Deep | 291711 | [291711-hack-deep.json](./291711-hack-deep.json) |
+| Hack Fate | 398092 | [398092-hack-fate.json](./398092-hack-fate.json) |
 | Hack FPS | 151715 | [151715-hack-fps.json](./151715-hack-fps.json) |
 | Hack FPS: Anniversary Edition | 205015 | [205015-hack-fps-anniversary-edition.json](./205015-hack-fps-anniversary-edition.json) |
 | Hack Frauds | 218059 | [218059-hack-frauds.json](./218059-hack-frauds.json) |
@@ -7388,6 +7389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hijack | 273230 | [273230-hijack.json](./273230-hijack.json) |
 | Hijack Jump | 362920 | [362920-hijack-jump.json](./362920-hijack-jump.json) |
 | Hijack! | 342598 | [342598-hijack.json](./342598-hijack.json) |
+| Hijacked | 398102 | [398102-hijacked.json](./398102-hijacked.json) |
 | Hijinks High | 415088 | [415088-hijinks-high.json](./415088-hijinks-high.json) |
 | Hijong Park's Defender Patrol | 374952 | [374952-hijong-parks-defender-patrol.json](./374952-hijong-parks-defender-patrol.json) |
 | Hijos del Invierno | 120063 | [120063-hijos-del-invierno.json](./120063-hijos-del-invierno.json) |
