@@ -5633,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retail Simulator | 359718 | [359718-retail-simulator.json](./359718-retail-simulator.json) |
 | Retail Therapy | 380482 | [380482-retail-therapy.json](./380482-retail-therapy.json) |
 | Retail Wars | 231797 | [231797-retail-wars.json](./231797-retail-wars.json) |
+| Retailer | 390874 | [390874-retailer.json](./390874-retailer.json) |
 | Retailer Tycoon | 148672 | [148672-retailer-tycoon.json](./148672-retailer-tycoon.json) |
 | Retale | 307749 | [307749-retale.json](./307749-retale.json) |
 | Retaliate | 300810 | [300810-retaliate.json](./300810-retaliate.json) |
