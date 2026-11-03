@@ -5312,6 +5312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix HD | 343984 | [343984-phoenix-hd.json](./343984-phoenix-hd.json) |
 | Phoenix Heavy | 134968 | [134968-phoenix-heavy.json](./134968-phoenix-heavy.json) |
 | Phoenix Hope | 192679 | [192679-phoenix-hope.json](./192679-phoenix-hope.json) |
+| Phoenix in Flames: A Fateful Misdressing | 393248 | [393248-phoenix-in-flames-a-fateful-misdressing.json](./393248-phoenix-in-flames-a-fateful-misdressing.json) |
 | Phoenix Nightmare | 235314 | [235314-phoenix-nightmare.json](./235314-phoenix-nightmare.json) |
 | Phoenix Point | 27804 | [27804-phoenix-point.json](./27804-phoenix-point.json) |
 | Phoenix Point: Behemoth Edition | 155517 | [155517-phoenix-point-behemoth-edition.json](./155517-phoenix-point-behemoth-edition.json) |
@@ -10531,6 +10532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Go: Forever Forward | 403036 | [403036-pokemon-go-forever-forward.json](./403036-pokemon-go-forever-forward.json) |
 | Pokémon Go: Hidden Gems | 383003 | [383003-pokemon-go-hidden-gems.json](./383003-pokemon-go-hidden-gems.json) |
 | Pokémon Go: Max Out | 316620 | [316620-pokemon-go-max-out.json](./316620-pokemon-go-max-out.json) |
+| Pokémon Go: Memories in Motion | 393254 | [393254-pokemon-go-memories-in-motion.json](./393254-pokemon-go-memories-in-motion.json) |
 | Pokémon Go: Might and Mastery | 333565 | [333565-pokemon-go-might-and-mastery.json](./333565-pokemon-go-might-and-mastery.json) |
 | Pokémon Go: Mythical Wishes | 227940 | [227940-pokemon-go-mythical-wishes.json](./227940-pokemon-go-mythical-wishes.json) |
 | Pokémon Go: Precious Paths | 381350 | [381350-pokemon-go-precious-paths.json](./381350-pokemon-go-precious-paths.json) |
@@ -11486,6 +11488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon Mayhem | 411736 | [411736-polygon-mayhem.json](./411736-polygon-mayhem.json) |
 | Polygon Nightmare | 412098 | [412098-polygon-nightmare.json](./412098-polygon-nightmare.json) |
 | Polygon of Reality | 188998 | [188998-polygon-of-reality.json](./188998-polygon-of-reality.json) |
+| Polygon Panic | 393232 | [393232-polygon-panic.json](./393232-polygon-panic.json) |
 | Polygon Pursuit | 211569 | [211569-polygon-pursuit.json](./211569-polygon-pursuit.json) |
 | Polygon Race | 262932 | [262932-polygon-race.json](./262932-polygon-race.json) |
 | Polygon Survival | 269111 | [269111-polygon-survival.json](./269111-polygon-survival.json) |
@@ -14668,6 +14671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prohibition | 15349 | [15349-prohibition.json](./15349-prohibition.json) |
 | Prohibition 1930 | 53480 | [53480-prohibition-1930.json](./53480-prohibition-1930.json) |
 | Prohibition Island | 401904 | [401904-prohibition-island.json](./401904-prohibition-island.json) |
+| Project - Labyrinth | 393219 | [393219-project-labyrinth.json](./393219-project-labyrinth.json) |
 | Project '88 | 54281 | [54281-project-88.json](./54281-project-88.json) |
 | Project "Fire" | 31370 | [31370-project-fire.json](./31370-project-fire.json) |
 | Project 117 | 420551 | [420551-project-117.json](./420551-project-117.json) |
@@ -14780,6 +14784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Bubblegum | 290607 | [290607-project-bubblegum.json](./290607-project-bubblegum.json) |
 | Project Bullet | 151510 | [151510-project-bullet.json](./151510-project-bullet.json) |
 | Project Butterfly | 327793 | [327793-project-butterfly.json](./327793-project-butterfly.json) |
+| Project C.U.R.E. Origins | 393249 | [393249-project-c-u-r-e-origins.json](./393249-project-c-u-r-e-origins.json) |
 | Project Cabin | 75920 | [75920-project-cabin.json](./75920-project-cabin.json) |
 | Project Cairo | 297475 | [297475-project-cairo.json](./297475-project-cairo.json) |
 | Project Canopy | 144090 | [144090-project-canopy.json](./144090-project-canopy.json) |
