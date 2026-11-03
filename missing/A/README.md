@@ -8678,6 +8678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Analemma | 68767 | [68767-analemma.json](./68767-analemma.json) |
 | Analistica Academy | 89937 | [89937-analistica-academy.json](./89937-analistica-academy.json) |
 | Analog Party Sim | 160246 | [160246-analog-party-sim.json](./160246-analog-party-sim.json) |
+| Analog: Skin off | 354739 | [354739-analog-skin-off.json](./354739-analog-skin-off.json) |
 | Analogue: A Hate Story | 10037 | [10037-analogue-a-hate-story.json](./10037-analogue-a-hate-story.json) |
 | Analytical World | 156845 | [156845-analytical-world.json](./156845-analytical-world.json) |
 | Anamnesis | 150856 | [150856-anamnesis.json](./150856-anamnesis.json) |
@@ -15910,6 +15911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
