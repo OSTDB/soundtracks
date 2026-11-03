@@ -1767,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omnichess | 207303 | [207303-omnichess.json](./207303-omnichess.json) |
 | Omnicron Conspiracy | 12708 | [12708-omnicron-conspiracy.json](./12708-omnicron-conspiracy.json) |
 | Omnicube | 99598 | [99598-omnicube.json](./99598-omnicube.json) |
+| Omnifate | 367643 | [367643-omnifate.json](./367643-omnifate.json) |
 | OmniFootman | 118386 | [118386-omnifootman.json](./118386-omnifootman.json) |
 | Omnigon | 245909 | [245909-omnigon.json](./245909-omnigon.json) |
 | OmniGrav | 155937 | [155937-omnigrav.json](./155937-omnigrav.json) |
