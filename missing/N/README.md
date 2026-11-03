@@ -1523,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NebulArena | 388326 | [388326-nebularena.json](./388326-nebularena.json) |
 | Nebulas Lasso | 116898 | [116898-nebulas-lasso.json](./116898-nebulas-lasso.json) |
 | Nebulas ray | 39456 | [39456-nebulas-ray.json](./39456-nebulas-ray.json) |
+| NebulaStrike | 376152 | [376152-nebulastrike.json](./376152-nebulastrike.json) |
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
 | Nebuli | 157720 | [157720-nebuli.json](./157720-nebuli.json) |
 | Nebulis Entity | 411282 | [411282-nebulis-entity.json](./411282-nebulis-entity.json) |
