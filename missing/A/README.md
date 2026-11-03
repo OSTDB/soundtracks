@@ -1895,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above Below | 216462 | [216462-above-below.json](./216462-above-below.json) |
 | Above Earth | 121257 | [121257-above-earth.json](./121257-above-earth.json) |
 | Above Eden | 400942 | [400942-above-eden.json](./400942-above-eden.json) |
+| Above Land: Rhapsody | 399971 | [399971-above-land-rhapsody.json](./399971-above-land-rhapsody.json) |
 | Above Snakes | 150562 | [150562-above-snakes.json](./150562-above-snakes.json) |
 | Above the Fold | 112605 | [112605-above-the-fold.json](./112605-above-the-fold.json) |
 | Above the Hill | 267280 | [267280-above-the-hill.json](./267280-above-the-hill.json) |
@@ -2462,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Gals Tennis | 61059 | [61059-ace-gals-tennis.json](./61059-ace-gals-tennis.json) |
 | Ace Gambler: Phoenix Wright | 302644 | [302644-ace-gambler-phoenix-wright.json](./302644-ace-gambler-phoenix-wright.json) |
 | Ace Golf: Blade Brawlers | 210363 | [210363-ace-golf-blade-brawlers.json](./210363-ace-golf-blade-brawlers.json) |
+| Ace Heli Pilot | 399941 | [399941-ace-heli-pilot.json](./399941-ace-heli-pilot.json) |
 | Ace In Space | 128339 | [128339-ace-in-space.json](./128339-ace-in-space.json) |
 | Ace Invaders | 147460 | [147460-ace-invaders.json](./147460-ace-invaders.json) |
 | Ace Lightning | 248736 | [248736-ace-lightning.json](./248736-ace-lightning.json) |
@@ -7950,6 +7952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ameena: Witchborn Duelist | 303331 | [303331-ameena-witchborn-duelist.json](./303331-ameena-witchborn-duelist.json) |
 | Amegas | 11898 | [11898-amegas.json](./11898-amegas.json) |
 | Ameizu | 311595 | [311595-ameizu.json](./311595-ameizu.json) |
+| Amel Broat | 399944 | [399944-amel-broat.json](./399944-amel-broat.json) |
 | Amelia and Terror of the Night: Story Book for Kids | 68945 | [68945-amelia-and-terror-of-the-night-story-book-for-kids.json](./68945-amelia-and-terror-of-the-night-story-book-for-kids.json) |
 | Amelia Watson Case File no.420 | 269474 | [269474-amelia-watson-case-file-no-420.json](./269474-amelia-watson-case-file-no-420.json) |
 | Amelia: The Drought Curse | 179425 | [179425-amelia-the-drought-curse.json](./179425-amelia-the-drought-curse.json) |
@@ -9498,6 +9501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Seasons | 82179 | [82179-animal-seasons.json](./82179-animal-seasons.json) |
 | Animal Shake | 295510 | [295510-animal-shake.json](./295510-animal-shake.json) |
 | Animal Shelter | 327688 | [327688-animal-shelter.json](./327688-animal-shelter.json) |
+| Animal Shelter 2: Hunting Dogs Pack | 399968 | [399968-animal-shelter-2-hunting-dogs-pack.json](./399968-animal-shelter-2-hunting-dogs-pack.json) |
 | Animal Shelter Simulator | 130134 | [130134-animal-shelter-simulator.json](./130134-animal-shelter-simulator.json) |
 | Animal Shelter Simulator: Horse Shelter DLC | 232523 | [232523-animal-shelter-simulator-horse-shelter-dlc.json](./232523-animal-shelter-simulator-horse-shelter-dlc.json) |
 | Animal Shelter Simulator: Puppies & Kittens | 209661 | [209661-animal-shelter-simulator-puppies-and-kittens.json](./209661-animal-shelter-simulator-puppies-and-kittens.json) |
@@ -13060,6 +13064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arm Joe: Les Misérables | 50366 | [50366-arm-joe-les-miserables.json](./50366-arm-joe-les-miserables.json) |
 | Arm of Satan | 254021 | [254021-arm-of-satan.json](./254021-arm-of-satan.json) |
 | Arm Spirit | 68403 | [68403-arm-spirit.json](./68403-arm-spirit.json) |
+| Arm the Hero | 399991 | [399991-arm-the-hero.json](./399991-arm-the-hero.json) |
 | Arm Wrestling | 38517 | [38517-arm-wrestling.json](./38517-arm-wrestling.json) |
 | Arm Wrestling Clicker | 231983 | [231983-arm-wrestling-clicker.json](./231983-arm-wrestling-clicker.json) |
 | Arm Wrestling Reborn | 190004 | [190004-arm-wrestling-reborn.json](./190004-arm-wrestling-reborn.json) |
@@ -14399,6 +14404,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Odyssey: Those Who Are Treasured | 325330 | [325330-assassins-creed-odyssey-those-who-are-treasured.json](./325330-assassins-creed-odyssey-those-who-are-treasured.json) |
 | Assassin's Creed Online: Alliance | 64765 | [64765-assassins-creed-online-alliance.json](./64765-assassins-creed-online-alliance.json) |
 | Assassin's Creed Origins + Odyssey Double Pack | 134215 | [134215-assassins-creed-origins-odyssey-double-pack.json](./134215-assassins-creed-origins-odyssey-double-pack.json) |
+| Assassin's Creed Origins: Horus Pack | 399353 | [399353-assassins-creed-origins-horus-pack.json](./399353-assassins-creed-origins-horus-pack.json) |
+| Assassin's Creed Origins: Season Pass | 399351 | [399351-assassins-creed-origins-season-pass.json](./399351-assassins-creed-origins-season-pass.json) |
 | Assassin's Creed Origins: Secrets of the First Pyramids | 327770 | [327770-assassins-creed-origins-secrets-of-the-first-pyramids.json](./327770-assassins-creed-origins-secrets-of-the-first-pyramids.json) |
 | Assassin's Creed Origins: The Hidden Ones | 22964 | [22964-assassins-creed-origins-the-hidden-ones.json](./22964-assassins-creed-origins-the-hidden-ones.json) |
 | Assassin's Creed Revelations - Signature Edition | 308153 | [308153-assassins-creed-revelations-signature-edition.json](./308153-assassins-creed-revelations-signature-edition.json) |
@@ -15012,6 +15019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro & Suzy Go to the Circus | 397071 | [397071-astro-and-suzy-go-to-the-circus.json](./397071-astro-and-suzy-go-to-the-circus.json) |
 | Astro Ace | 165737 | [165737-astro-ace.json](./165737-astro-ace.json) |
 | Astro Aegis | 297423 | [297423-astro-aegis.json](./297423-astro-aegis.json) |
+| Astro Amigo | 399363 | [399363-astro-amigo.json](./399363-astro-amigo.json) |
 | Astro Aqua Kitty | 145655 | [145655-astro-aqua-kitty.json](./145655-astro-aqua-kitty.json) |
 | Astro Aqua Kitty: Limited Edition | 147771 | [147771-astro-aqua-kitty-limited-edition.json](./147771-astro-aqua-kitty-limited-edition.json) |
 | Astro Aqua Kitty: Pawsome Collection | 216589 | [216589-astro-aqua-kitty-pawsome-collection.json](./216589-astro-aqua-kitty-pawsome-collection.json) |
@@ -15225,6 +15233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronook | 348723 | [348723-astronook.json](./348723-astronook.json) |
 | Astronot | 22270 | [22270-astronot.json](./22270-astronot.json) |
 | Astronots | 191038 | [191038-astronots.json](./191038-astronots.json) |
+| Astronought | 399988 | [399988-astronought.json](./399988-astronought.json) |
 | AstronTycoon | 100527 | [100527-astrontycoon.json](./100527-astrontycoon.json) |
 | Astronut | 92128 | [92128-astronut.json](./92128-astronut.json) |
 | Astroops | 373860 | [373860-astroops.json](./373860-astroops.json) |
