@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Ash | 74100 | [74100-under-ash.json](./74100-under-ash.json) |
 | Under Canopies | 301087 | [301087-under-canopies.json](./301087-under-canopies.json) |
 | Under Construction: Summer City | 167582 | [167582-under-construction-summer-city.json](./167582-under-construction-summer-city.json) |
+| Under Construction! | 364213 | [364213-under-construction.json](./364213-under-construction.json) |
 | Under Contract | 219533 | [219533-under-contract.json](./219533-under-contract.json) |
 | Under Control | 176795 | [176795-under-control.json](./176795-under-control.json) |
 | Under Control | 21325 | [21325-under-control.json](./21325-under-control.json) |
@@ -2758,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untangle Challenge | 57403 | [57403-untangle-challenge.json](./57403-untangle-challenge.json) |
 | Untangle Goats | 318496 | [318496-untangle-goats.json](./318496-untangle-goats.json) |
 | Untangled: Payback | 168578 | [168578-untangled-payback.json](./168578-untangled-payback.json) |
+| Untapped | 364160 | [364160-untapped.json](./364160-untapped.json) |
 | Untei DX | 295918 | [295918-untei-dx.json](./295918-untei-dx.json) |
 | Untergrund Raceways: Arena | 417518 | [417518-untergrund-raceways-arena.json](./417518-untergrund-raceways-arena.json) |
 | Unterholz | 322255 | [322255-unterholz.json](./322255-unterholz.json) |
