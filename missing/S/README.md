@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa World | 273431 | [273431-santa-world.json](./273431-santa-world.json) |
 | Santa-kun | 231762 | [231762-santa-kun.json](./231762-santa-kun.json) |
 | Santa: Make Christmas Happy! | 137861 | [137861-santa-make-christmas-happy.json](./137861-santa-make-christmas-happy.json) |
+| Santa's Adventure | 359707 | [359707-santas-adventure.json](./359707-santas-adventure.json) |
 | Santa's Adventure: Christmas Gifts Rush | 329430 | [329430-santas-adventure-christmas-gifts-rush.json](./329430-santas-adventure-christmas-gifts-rush.json) |
 | Santa's Baby Care & Nursery | 99903 | [99903-santas-baby-care-and-nursery.json](./99903-santas-baby-care-and-nursery.json) |
 | Santa's Bad Elf | 161716 | [161716-santas-bad-elf.json](./161716-santas-bad-elf.json) |
@@ -10720,7 +10721,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulator Mega Pack: Fishing, Soldier, Bear, Shark & Truck Mechanic | 401134 | [401134-simulator-mega-pack-fishing-soldier-bear-shark-and-truck-mechanic.json](./401134-simulator-mega-pack-fishing-soldier-bear-shark-and-truck-mechanic.json) |
 | Simulator Of A Person Who Is Taking Online Course To Study How To Lose Weight | 279264 | [279264-simulator-of-a-person-who-is-taking-online-course-to-study-how-to-lose-weight.json](./279264-simulator-of-a-person-who-is-taking-online-course-to-study-how-to-lose-weight.json) |
 | Simulator of Ukraine 1991 | 265097 | [265097-simulator-of-ukraine-1991.json](./265097-simulator-of-ukraine-1991.json) |
+| Simulator of Ukraine 1991: Play for Canada | 359677 | [359677-simulator-of-ukraine-1991-play-for-canada.json](./359677-simulator-of-ukraine-1991-play-for-canada.json) |
+| Simulator of Ukraine 1991: Play for Germany | 359678 | [359678-simulator-of-ukraine-1991-play-for-germany.json](./359678-simulator-of-ukraine-1991-play-for-germany.json) |
 | Simulator of Ukraine 1991: Play for Israel | 312462 | [312462-simulator-of-ukraine-1991-play-for-israel.json](./312462-simulator-of-ukraine-1991-play-for-israel.json) |
+| Simulator of Ukraine 1991: Play for Lithuania | 359679 | [359679-simulator-of-ukraine-1991-play-for-lithuania.json](./359679-simulator-of-ukraine-1991-play-for-lithuania.json) |
+| Simulator of Ukraine 1991: Play for Poland | 359680 | [359680-simulator-of-ukraine-1991-play-for-poland.json](./359680-simulator-of-ukraine-1991-play-for-poland.json) |
+| Simulator of Ukraine 1991: Play for United Kingdom | 359681 | [359681-simulator-of-ukraine-1991-play-for-united-kingdom.json](./359681-simulator-of-ukraine-1991-play-for-united-kingdom.json) |
 | Simulator of Ukraine 1991: Play for USA | 293116 | [293116-simulator-of-ukraine-1991-play-for-usa.json](./293116-simulator-of-ukraine-1991-play-for-usa.json) |
 | Simulator of Ukraine 1991: The Great Sea | 312461 | [312461-simulator-of-ukraine-1991-the-great-sea.json](./312461-simulator-of-ukraine-1991-the-great-sea.json) |
 | Simulator of НЗllo Neighbor | 193852 | [193852-simulator-of-llo-neighbor.json](./193852-simulator-of-llo-neighbor.json) |
@@ -34574,6 +34580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syzygy | 137299 | [137299-syzygy.json](./137299-syzygy.json) |
 | Syzygy | 150422 | [150422-syzygy.json](./150422-syzygy.json) |
 | Syzygy: The Power of the Eclipse | 257535 | [257535-syzygy-the-power-of-the-eclipse.json](./257535-syzygy-the-power-of-the-eclipse.json) |
+| SZ2000 | 359684 | [359684-sz2000.json](./359684-sz2000.json) |
 | Szen | 114364 | [114364-szen.json](./114364-szen.json) |
 | sZone Online | 36250 | [36250-szone-online.json](./36250-szone-online.json) |
 | Szybowcowa '87 | 237050 | [237050-szybowcowa-87.json](./237050-szybowcowa-87.json) |
