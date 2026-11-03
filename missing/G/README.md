@@ -5498,6 +5498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Attack | 408874 | [408874-goblin-attack.json](./408874-goblin-attack.json) |
 | Goblin Auto Club Manager | 304522 | [304522-goblin-auto-club-manager.json](./304522-goblin-auto-club-manager.json) |
 | Goblin Boom | 295745 | [295745-goblin-boom.json](./295745-goblin-boom.json) |
+| Goblin Buster | 361430 | [361430-goblin-buster.json](./361430-goblin-buster.json) |
 | Goblin Camp | 258300 | [258300-goblin-camp.json](./258300-goblin-camp.json) |
 | Goblin Cleanup | 282692 | [282692-goblin-cleanup.json](./282692-goblin-cleanup.json) |
 | Goblin Clicker | 365876 | [365876-goblin-clicker.json](./365876-goblin-clicker.json) |
@@ -9222,6 +9223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster Wai Wai Party!!!!: Touhou Project Arrangements Pack 9 | 324384 | [324384-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-9.json](./324384-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-9.json) |
 | Groove Coaster Zero | 126467 | [126467-groove-coaster-zero.json](./126467-groove-coaster-zero.json) |
 | Groove Coaster: (K)Night of (K)Nights Butaotome ver. | 361564 | [361564-groove-coaster-k-night-of-k-nights-butaotome-ver.json](./361564-groove-coaster-k-night-of-k-nights-butaotome-ver.json) |
+| Groove Coaster: (K)Night of (K)Nights feat. ytr - TOS Remix | 361441 | [361441-groove-coaster-k-night-of-k-nights-feat-ytr-tos-remix.json](./361441-groove-coaster-k-night-of-k-nights-feat-ytr-tos-remix.json) |
 | Groove Coaster: Apeliotes | 361590 | [361590-groove-coaster-apeliotes.json](./361590-groove-coaster-apeliotes.json) |
 | Groove Coaster: Arcaea Pack | 361671 | [361671-groove-coaster-arcaea-pack.json](./361671-groove-coaster-arcaea-pack.json) |
 | Groove Coaster: Asgore | 361557 | [361557-groove-coaster-asgore.json](./361557-groove-coaster-asgore.json) |
@@ -9231,13 +9233,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Be There | 361562 | [361562-groove-coaster-be-there.json](./361562-groove-coaster-be-there.json) |
 | Groove Coaster: Bonetrousle | 361460 | [361460-groove-coaster-bonetrousle.json](./361460-groove-coaster-bonetrousle.json) |
 | Groove Coaster: Burning Force Medley | 361461 | [361461-groove-coaster-burning-force-medley.json](./361461-groove-coaster-burning-force-medley.json) |
+| Groove Coaster: Chururi Chururira | 361444 | [361444-groove-coaster-chururi-chururira.json](./361444-groove-coaster-chururi-chururira.json) |
 | Groove Coaster: Crazy Crazy Dancers | 361482 | [361482-groove-coaster-crazy-crazy-dancers.json](./361482-groove-coaster-crazy-crazy-dancers.json) |
+| Groove Coaster: Crimson Phoenix | 361438 | [361438-groove-coaster-crimson-phoenix.json](./361438-groove-coaster-crimson-phoenix.json) |
 | Groove Coaster: Cyber Sparks | 361476 | [361476-groove-coaster-cyber-sparks.json](./361476-groove-coaster-cyber-sparks.json) |
 | Groove Coaster: Daddy Mulk (Groove Remix) | 361587 | [361587-groove-coaster-daddy-mulk-groove-remix.json](./361587-groove-coaster-daddy-mulk-groove-remix.json) |
 | Groove Coaster: Darius Cozmic Collection Pack | 361704 | [361704-groove-coaster-darius-cozmic-collection-pack.json](./361704-groove-coaster-darius-cozmic-collection-pack.json) |
+| Groove Coaster: Death by Glamour | 361439 | [361439-groove-coaster-death-by-glamour.json](./361439-groove-coaster-death-by-glamour.json) |
 | Groove Coaster: DJMax Pack 01 | 361611 | [361611-groove-coaster-djmax-pack-01.json](./361611-groove-coaster-djmax-pack-01.json) |
 | Groove Coaster: Dotted 8th | 361560 | [361560-groove-coaster-dotted-8th.json](./361560-groove-coaster-dotted-8th.json) |
 | Groove Coaster: Dragon Spirit Medley | 361474 | [361474-groove-coaster-dragon-spirit-medley.json](./361474-groove-coaster-dragon-spirit-medley.json) |
+| Groove Coaster: Dream Coaster | 361554 | [361554-groove-coaster-dream-coaster.json](./361554-groove-coaster-dream-coaster.json) |
 | Groove Coaster: Fujin Rumble | 361470 | [361470-groove-coaster-fujin-rumble.json](./361470-groove-coaster-fujin-rumble.json) |
 | Groove Coaster: Future Performers | 343412 | [343412-groove-coaster-future-performers.json](./343412-groove-coaster-future-performers.json) |
 | Groove Coaster: Game Music Pack 01 | 361700 | [361700-groove-coaster-game-music-pack-01.json](./361700-groove-coaster-game-music-pack-01.json) |
@@ -9260,18 +9266,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Lover-Pop | 361561 | [361561-groove-coaster-lover-pop.json](./361561-groove-coaster-lover-pop.json) |
 | Groove Coaster: Machibito Ha Kozu | 361484 | [361484-groove-coaster-machibito-ha-kozu.json](./361484-groove-coaster-machibito-ha-kozu.json) |
 | Groove Coaster: Material of Puppets | 361450 | [361450-groove-coaster-material-of-puppets.json](./361450-groove-coaster-material-of-puppets.json) |
+| Groove Coaster: Megalovania | 361435 | [361435-groove-coaster-megalovania.json](./361435-groove-coaster-megalovania.json) |
 | Groove Coaster: Metallic Punisher | 361566 | [361566-groove-coaster-metallic-punisher.json](./361566-groove-coaster-metallic-punisher.json) |
 | Groove Coaster: Mikakunin Gensou Coaster | 361481 | [361481-groove-coaster-mikakunin-gensou-coaster.json](./361481-groove-coaster-mikakunin-gensou-coaster.json) |
 | Groove Coaster: Modelista | 361463 | [361463-groove-coaster-modelista.json](./361463-groove-coaster-modelista.json) |
 | Groove Coaster: Namcot Medley | 361480 | [361480-groove-coaster-namcot-medley.json](./361480-groove-coaster-namcot-medley.json) |
+| Groove Coaster: Oblivion | 361436 | [361436-groove-coaster-oblivion.json](./361436-groove-coaster-oblivion.json) |
+| Groove Coaster: Ouroboros - Twin Stroke of the End | 361553 | [361553-groove-coaster-ouroboros-twin-stroke-of-the-end.json](./361553-groove-coaster-ouroboros-twin-stroke-of-the-end.json) |
 | Groove Coaster: Pegasus | 361458 | [361458-groove-coaster-pegasus.json](./361458-groove-coaster-pegasus.json) |
 | Groove Coaster: Qlwa | 361475 | [361475-groove-coaster-qlwa.json](./361475-groove-coaster-qlwa.json) |
 | Groove Coaster: Rave War | 361591 | [361591-groove-coaster-rave-war.json](./361591-groove-coaster-rave-war.json) |
 | Groove Coaster: Sacrifice feat. Ayame (GC Refix) | 361563 | [361563-groove-coaster-sacrifice-feat-ayame-gc-refix.json](./361563-groove-coaster-sacrifice-feat-ayame-gc-refix.json) |
 | Groove Coaster: Sado Mami Holic | 361446 | [361446-groove-coaster-sado-mami-holic.json](./361446-groove-coaster-sado-mami-holic.json) |
 | Groove Coaster: Saisoku Saikou Shutter Girl | 361589 | [361589-groove-coaster-saisoku-saikou-shutter-girl.json](./361589-groove-coaster-saisoku-saikou-shutter-girl.json) |
+| Groove Coaster: Satisfiction (Massive New Krew Remix) | 361443 | [361443-groove-coaster-satisfiction-massive-new-krew-remix.json](./361443-groove-coaster-satisfiction-massive-new-krew-remix.json) |
 | Groove Coaster: Say PaPa Re:mix | 361469 | [361469-groove-coaster-say-papa-re-mix.json](./361469-groove-coaster-say-papa-re-mix.json) |
 | Groove Coaster: Scream Out! | 361456 | [361456-groove-coaster-scream-out.json](./361456-groove-coaster-scream-out.json) |
+| Groove Coaster: Shindoi the Ride | 361442 | [361442-groove-coaster-shindoi-the-ride.json](./361442-groove-coaster-shindoi-the-ride.json) |
+| Groove Coaster: Singularity - Binary Enfold | 361445 | [361445-groove-coaster-singularity-binary-enfold.json](./361445-groove-coaster-singularity-binary-enfold.json) |
 | Groove Coaster: Special Smile | 361457 | [361457-groove-coaster-special-smile.json](./361457-groove-coaster-special-smile.json) |
 | Groove Coaster: Spider Dance | 361451 | [361451-groove-coaster-spider-dance.json](./361451-groove-coaster-spider-dance.json) |
 | Groove Coaster: Stratospheric Journey | 361465 | [361465-groove-coaster-stratospheric-journey.json](./361465-groove-coaster-stratospheric-journey.json) |
