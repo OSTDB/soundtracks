@@ -2392,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parlor! Mini 6 | 37878 | [37878-parlor-mini-6.json](./37878-parlor-mini-6.json) |
 | Parlor! Mini 7 | 37877 | [37877-parlor-mini-7.json](./37877-parlor-mini-7.json) |
 | Parlour Games | 46135 | [46135-parlour-games.json](./46135-parlour-games.json) |
+| Parman: Haunted School Guard | 381537 | [381537-parman-haunted-school-guard.json](./381537-parman-haunted-school-guard.json) |
 | Parmesan | 184080 | [184080-parmesan.json](./184080-parmesan.json) |
 | Paro Paro | 151646 | [151646-paro-paro.json](./151646-paro-paro.json) |
 | Paro Wars | 37305 | [37305-paro-wars.json](./37305-paro-wars.json) |
@@ -14048,6 +14049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Out | 365071 | [365071-prison-out.json](./365071-prison-out.json) |
 | Prison Planet | 123808 | [123808-prison-planet.json](./123808-prison-planet.json) |
 | Prison Princess | 127335 | [127335-prison-princess.json](./127335-prison-princess.json) |
+| Prison Princess + Prison Princess: Trapped Allure Collection | 381745 | [381745-prison-princess-prison-princess-trapped-allure-collection.json](./381745-prison-princess-prison-princess-trapped-allure-collection.json) |
 | Prison Princess: Trapped Allure | 321211 | [321211-prison-princess-trapped-allure.json](./321211-prison-princess-trapped-allure.json) |
 | Prison Puzzle | 312693 | [312693-prison-puzzle.json](./312693-prison-puzzle.json) |
 | Prison Riot | 69655 | [69655-prison-riot.json](./69655-prison-riot.json) |
@@ -15659,6 +15661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PropHunter | 165107 | [165107-prophunter.json](./165107-prophunter.json) |
 | Propis | 194290 | [194290-propis.json](./194290-propis.json) |
 | Proportionator | 316765 | [316765-proportionator.json](./316765-proportionator.json) |
+| Proppi | 381522 | [381522-proppi.json](./381522-proppi.json) |
 | Propulsion | 152701 | [152701-propulsion.json](./152701-propulsion.json) |
 | Prose & Codes | 191577 | [191577-prose-and-codes.json](./191577-prose-and-codes.json) |
 | ProSoccer 2190 | 138723 | [138723-prosoccer-2190.json](./138723-prosoccer-2190.json) |
@@ -16981,6 +16984,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puss The Way Id Did | 329990 | [329990-puss-the-way-id-did.json](./329990-puss-the-way-id-did.json) |
 | Puss! | 81128 | [81128-puss.json](./81128-puss.json) |
 | Pussies Wrestling Dicks | 211928 | [211928-pussies-wrestling-dicks.json](./211928-pussies-wrestling-dicks.json) |
+| Pussy | 381536 | [381536-pussy.json](./381536-pussy.json) |
+| Pussy 2 | 381539 | [381539-pussy-2.json](./381539-pussy-2.json) |
+| Pussy 3 | 381542 | [381542-pussy-3.json](./381542-pussy-3.json) |
 | Pussy 6 | 213547 | [213547-pussy-6.json](./213547-pussy-6.json) |
 | Pussy Cum with Me | 370631 | [370631-pussy-cum-with-me.json](./370631-pussy-cum-with-me.json) |
 | Pussy Flip: Purrfect Reversi | 64822 | [64822-pussy-flip-purrfect-reversi.json](./64822-pussy-flip-purrfect-reversi.json) |
@@ -17642,6 +17648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles for smart: Horses | 111492 | [111492-puzzles-for-smart-horses.json](./111492-puzzles-for-smart-horses.json) |
 | Puzzles for Toddlers & Kids: Animals, Cars and more | 147707 | [147707-puzzles-for-toddlers-and-kids-animals-cars-and-more.json](./147707-puzzles-for-toddlers-and-kids-animals-cars-and-more.json) |
 | Puzzles Forest | 414496 | [414496-puzzles-forest.json](./414496-puzzles-forest.json) |
+| Puzzles in Otter Space | 381530 | [381530-puzzles-in-otter-space.json](./381530-puzzles-in-otter-space.json) |
 | Puzzles of the Paladin | 289168 | [289168-puzzles-of-the-paladin.json](./289168-puzzles-of-the-paladin.json) |
 | Puzzles of the World | 377645 | [377645-puzzles-of-the-world.json](./377645-puzzles-of-the-world.json) |
 | Puzzles Under the Hill | 32409 | [32409-puzzles-under-the-hill.json](./32409-puzzles-under-the-hill.json) |
