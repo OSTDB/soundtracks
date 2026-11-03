@@ -1782,9 +1782,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpack | 416044 | [416044-warpack.json](./416044-warpack.json) |
 | Warpath | 273349 | [273349-warpath.json](./273349-warpath.json) |
 | Warpath | 377149 | [377149-warpath.json](./377149-warpath.json) |
+| Warpath | 388077 | [388077-warpath.json](./388077-warpath.json) |
 | WarPath | 6228 | [6228-warpath.json](./6228-warpath.json) |
 | Warpath 97 | 77306 | [77306-warpath-97.json](./77306-warpath-97.json) |
 | Warpath Ace Shooter | 172683 | [172683-warpath-ace-shooter.json](./172683-warpath-ace-shooter.json) |
+| Warpath: 21st Century | 388082 | [388082-warpath-21st-century.json](./388082-warpath-21st-century.json) |
 | Warpath: Jurassic Park | 8278 | [8278-warpath-jurassic-park.json](./8278-warpath-jurassic-park.json) |
 | Warpaws | 219259 | [219259-warpaws.json](./219259-warpaws.json) |
 | WarpBall | 34482 | [34482-warpball.json](./34482-warpball.json) |
@@ -2839,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weaphones WW2: Firearms Simulator | 91227 | [91227-weaphones-ww2-firearms-simulator.json](./91227-weaphones-ww2-firearms-simulator.json) |
 | Weaphones: Firearms Simulator | 88039 | [88039-weaphones-firearms-simulator.json](./88039-weaphones-firearms-simulator.json) |
 | Weaphones: Firearms Simulator 2 | 93815 | [93815-weaphones-firearms-simulator-2.json](./93815-weaphones-firearms-simulator-2.json) |
+| Weapon | 388106 | [388106-weapon.json](./388106-weapon.json) |
 | Weapon and Armor: Mahjong | 59135 | [59135-weapon-and-armor-mahjong.json](./59135-weapon-and-armor-mahjong.json) |
 | Weapon Ball Fight | 383930 | [383930-weapon-ball-fight.json](./383930-weapon-ball-fight.json) |
 | Weapon Devourer | 282248 | [282248-weapon-devourer.json](./282248-weapon-devourer.json) |
@@ -6899,6 +6902,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WonderWorld | 221640 | [221640-wonderworld.json](./221640-wonderworld.json) |
 | Wonderworld Amusement Park | 47968 | [47968-wonderworld-amusement-park.json](./47968-wonderworld-amusement-park.json) |
 | Wondrous Magic | 42352 | [42352-wondrous-magic.json](./42352-wondrous-magic.json) |
+| wOne | 388104 | [388104-wone.json](./388104-wone.json) |
+| wOne 2 | 388105 | [388105-wone-2.json](./388105-wone-2.json) |
 | Wong | 390115 | [390115-wong.json](./390115-wong.json) |
 | Wongo | 57073 | [57073-wongo.json](./57073-wongo.json) |
 | Wonhon: A Vengeful Spirit | 132239 | [132239-wonhon-a-vengeful-spirit.json](./132239-wonhon-a-vengeful-spirit.json) |
