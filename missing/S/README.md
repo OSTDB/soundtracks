@@ -9201,6 +9201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroud of the Woods | 389729 | [389729-shroud-of-the-woods.json](./389729-shroud-of-the-woods.json) |
 | Shrouded | 26791 | [26791-shrouded.json](./26791-shrouded.json) |
 | Shrouded Aspect | 345146 | [345146-shrouded-aspect.json](./345146-shrouded-aspect.json) |
+| Shrouded Depths | 375467 | [375467-shrouded-depths.json](./375467-shrouded-depths.json) |
 | Shrouded in Sanity: Freebirth | 90178 | [90178-shrouded-in-sanity-freebirth.json](./90178-shrouded-in-sanity-freebirth.json) |
 | Shrouded Lands | 399998 | [399998-shrouded-lands.json](./399998-shrouded-lands.json) |
 | Shrouded Mind | 297979 | [297979-shrouded-mind.json](./297979-shrouded-mind.json) |
@@ -18624,6 +18625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19718,6 +19720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Agent Training | 401616 | [401616-special-agent-training.json](./401616-special-agent-training.json) |
 | Special Agent: Aigis Pink | 407446 | [407446-special-agent-aigis-pink.json](./407446-special-agent-aigis-pink.json) |
 | Special Case | 424641 | [424641-special-case.json](./424641-special-case.json) |
+| Special Combat | 375133 | [375133-special-combat.json](./375133-special-combat.json) |
 | Special Counter Force Attack | 111610 | [111610-special-counter-force-attack.json](./111610-special-counter-force-attack.json) |
 | Special Courier | 238457 | [238457-special-courier.json](./238457-special-courier.json) |
 | Special Delivery | 30364 | [30364-special-delivery.json](./30364-special-delivery.json) |
@@ -29657,6 +29660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Heavy Sword | 61134 | [61134-super-heavy-sword.json](./61134-super-heavy-sword.json) |
 | Super Helmets on Fire DX Ultra Edition Plus Alpha | 33863 | [33863-super-helmets-on-fire-dx-ultra-edition-plus-alpha.json](./33863-super-helmets-on-fire-dx-ultra-edition-plus-alpha.json) |
 | Super Helpful Man | 105288 | [105288-super-helpful-man.json](./105288-super-helpful-man.json) |
+| Super Hentai Puzzle | 375135 | [375135-super-hentai-puzzle.json](./375135-super-hentai-puzzle.json) |
 | Super Hentai Racers | 208629 | [208629-super-hentai-racers.json](./208629-super-hentai-racers.json) |
 | Super Hero Bike Mega Ramp | 102261 | [102261-super-hero-bike-mega-ramp.json](./102261-super-hero-bike-mega-ramp.json) |
 | Super Hero Boy: A Platform Adventure | 248281 | [248281-super-hero-boy-a-platform-adventure.json](./248281-super-hero-boy-a-platform-adventure.json) |
