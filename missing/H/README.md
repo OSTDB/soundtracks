@@ -4857,6 +4857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Horny Furry | 384703 | [384703-hentai-horny-furry.json](./384703-hentai-horny-furry.json) |
 | Hentai Horror: The Eight Pictures | 284237 | [284237-hentai-horror-the-eight-pictures.json](./284237-hentai-horror-the-eight-pictures.json) |
 | Hentai Hospital | 371360 | [371360-hentai-hospital.json](./371360-hentai-hospital.json) |
+| Hentai Hotel | 371363 | [371363-hentai-hotel.json](./371363-hentai-hotel.json) |
 | Hentai House | 365438 | [365438-hentai-house.json](./365438-hentai-house.json) |
 | Hentai House | 389176 | [389176-hentai-house.json](./389176-hentai-house.json) |
 | Hentai House Wife | 371369 | [371369-hentai-house-wife.json](./371369-hentai-house-wife.json) |
@@ -4903,6 +4904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Lunara | 376108 | [376108-hentai-lunara.json](./376108-hentai-lunara.json) |
 | Hentai Lust | 256923 | [256923-hentai-lust.json](./256923-hentai-lust.json) |
 | Hentai Madness | 365446 | [365446-hentai-madness.json](./365446-hentai-madness.json) |
+| Hentai Magic | 371366 | [371366-hentai-magic.json](./371366-hentai-magic.json) |
 | Hentai Magic Academy | 368625 | [368625-hentai-magic-academy.json](./368625-hentai-magic-academy.json) |
 | Hentai Magic Milf | 389174 | [389174-hentai-magic-milf.json](./389174-hentai-magic-milf.json) |
 | Hentai MagicalGirl | 237403 | [237403-hentai-magicalgirl.json](./237403-hentai-magicalgirl.json) |
@@ -5181,6 +5183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Warfare | 366527 | [366527-hentai-warfare.json](./366527-hentai-warfare.json) |
 | Hentai Weed Puzzles | 107526 | [107526-hentai-weed-puzzles.json](./107526-hentai-weed-puzzles.json) |
 | Hentai Weekend | 385621 | [385621-hentai-weekend.json](./385621-hentai-weekend.json) |
+| Hentai Wild Milf | 371364 | [371364-hentai-wild-milf.json](./371364-hentai-wild-milf.json) |
 | Hentai Witch | 296949 | [296949-hentai-witch.json](./296949-hentai-witch.json) |
 | Hentai Woman | 111585 | [111585-hentai-woman.json](./111585-hentai-woman.json) |
 | Hentai Words | 104151 | [104151-hentai-words.json](./104151-hentai-words.json) |
