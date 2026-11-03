@@ -5638,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resver | 392273 | [392273-resver.json](./392273-resver.json) |
 | Resync | 241489 | [241489-resync.json](./241489-resync.json) |
 | Resynth | 107388 | [107388-resynth.json](./107388-resynth.json) |
+| Retail Hell | 380983 | [380983-retail-hell.json](./380983-retail-hell.json) |
 | Retail Mage | 319885 | [319885-retail-mage.json](./319885-retail-mage.json) |
 | Retail Rivals | 402476 | [402476-retail-rivals.json](./402476-retail-rivals.json) |
 | Retail Royale | 151096 | [151096-retail-royale.json](./151096-retail-royale.json) |
