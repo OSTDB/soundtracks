@@ -2148,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bao | 167577 | [167577-bao.json](./167577-bao.json) |
 | Bao Bao's Cozy Cleaning Services | 375527 | [375527-bao-baos-cozy-cleaning-services.json](./375527-bao-baos-cozy-cleaning-services.json) |
 | Bao Bao's Cozy Laundromat | 316705 | [316705-bao-baos-cozy-laundromat.json](./316705-bao-baos-cozy-laundromat.json) |
+| Bao Boi | 385345 | [385345-bao-boi.json](./385345-bao-boi.json) |
 | Bāo Qīngtiān | 84440 | [84440-bao-qingtian.json](./84440-bao-qingtian.json) |
 | Baobabs Mausoleum Ep. 2 1313 Barnabas Dead End Drive | 81164 | [81164-baobabs-mausoleum-ep-2-1313-barnabas-dead-end-drive.json](./81164-baobabs-mausoleum-ep-2-1313-barnabas-dead-end-drive.json) |
 | Baobabs Mausoleum Ep.3: Un Pato en Muertoburgo | 125060 | [125060-baobabs-mausoleum-ep-3-un-pato-en-muertoburgo.json](./125060-baobabs-mausoleum-ep-3-un-pato-en-muertoburgo.json) |
@@ -12798,6 +12799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Born 2 Run : Legend of Destiny | 118203 | [118203-born-2-run-legend-of-destiny.json](./118203-born-2-run-legend-of-destiny.json) |
 | Born Anew | 211257 | [211257-born-anew.json](./211257-born-anew.json) |
 | Born as a Pirate | 349513 | [349513-born-as-a-pirate.json](./349513-born-as-a-pirate.json) |
+| Born from the Soil | 385236 | [385236-born-from-the-soil.json](./385236-born-from-the-soil.json) |
 | Born in Blood | 224784 | [224784-born-in-blood.json](./224784-born-in-blood.json) |
 | Born in Chaos | 341939 | [341939-born-in-chaos.json](./341939-born-in-chaos.json) |
 | Born In Reverie | 267859 | [267859-born-in-reverie.json](./267859-born-in-reverie.json) |
@@ -13462,6 +13464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Maze 2: Agent Cubert | 65830 | [65830-box-maze-2-agent-cubert.json](./65830-box-maze-2-agent-cubert.json) |
 | Box Maze Extreme | 95197 | [95197-box-maze-extreme.json](./95197-box-maze-extreme.json) |
 | Box Ninja | 271648 | [271648-box-ninja.json](./271648-box-ninja.json) |
+| Box of Broken Nails | 385344 | [385344-box-of-broken-nails.json](./385344-box-of-broken-nails.json) |
 | Box of Limes | 182996 | [182996-box-of-limes.json](./182996-box-of-limes.json) |
 | Box Office Boss | 239303 | [239303-box-office-boss.json](./239303-box-office-boss.json) |
 | Box Office Game | 319225 | [319225-box-office-game.json](./319225-box-office-game.json) |
