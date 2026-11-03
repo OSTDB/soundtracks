@@ -8125,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flutter: Starlight | 137248 | [137248-flutter-starlight.json](./137248-flutter-starlight.json) |
 | Flutter! | 304135 | [304135-flutter.json](./304135-flutter.json) |
 | Flutterdash | 391199 | [391199-flutterdash.json](./391199-flutterdash.json) |
+| Flutterfield | 367126 | [367126-flutterfield.json](./367126-flutterfield.json) |
 | Fluttershy Piano Tiles | 202388 | [202388-fluttershy-piano-tiles.json](./202388-fluttershy-piano-tiles.json) |
 | Fluvsies: A Fluff to Luv | 227527 | [227527-fluvsies-a-fluff-to-luv.json](./227527-fluvsies-a-fluff-to-luv.json) |
 | Flux | 140475 | [140475-flux.json](./140475-flux.json) |
@@ -8972,11 +8973,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Deluxe Edition | 53036 | [53036-for-honor-deluxe-edition.json](./53036-for-honor-deluxe-edition.json) |
 | For Honor: Eivor Wolf-Kissed – Berserker Hero Skin | 408890 | [408890-for-honor-eivor-wolf-kissed-berserker-hero-skin.json](./408890-for-honor-eivor-wolf-kissed-berserker-hero-skin.json) |
 | For Honor: Ezio Auditore – Peacekeeper Hero Skin | 305765 | [305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json](./305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json) |
+| For Honor: General Zhi - Zhanhu Hero Skin | 367112 | [367112-for-honor-general-zhi-zhanhu-hero-skin.json](./367112-for-honor-general-zhi-zhanhu-hero-skin.json) |
 | For Honor: Gold Edition | 25440 | [25440-for-honor-gold-edition.json](./25440-for-honor-gold-edition.json) |
 | For Honor: Gold Heroes Pack | 305766 | [305766-for-honor-gold-heroes-pack.json](./305766-for-honor-gold-heroes-pack.json) |
 | For Honor: Gryphon Hero | 170438 | [170438-for-honor-gryphon-hero.json](./170438-for-honor-gryphon-hero.json) |
+| For Honor: Gudmundr the Great - Warlord Hero Skin | 367108 | [367108-for-honor-gudmundr-the-great-warlord-hero-skin.json](./367108-for-honor-gudmundr-the-great-warlord-hero-skin.json) |
 | For Honor: Juren - Hero | 408969 | [408969-for-honor-juren-hero.json](./408969-for-honor-juren-hero.json) |
+| For Honor: Khatun - Hero | 367107 | [367107-for-honor-khatun-hero.json](./367107-for-honor-khatun-hero.json) |
 | For Honor: Kyoshin Hero | 170437 | [170437-for-honor-kyoshin-hero.json](./170437-for-honor-kyoshin-hero.json) |
+| For Honor: Lady Saori – Nobushi Hero Skin | 367116 | [367116-for-honor-lady-saori-nobushi-hero-skin.json](./367116-for-honor-lady-saori-nobushi-hero-skin.json) |
 | For Honor: Marching Fire Edition | 111296 | [111296-for-honor-marching-fire-edition.json](./111296-for-honor-marching-fire-edition.json) |
 | For Honor: Marching Fire Expansion Pack | 227360 | [227360-for-honor-marching-fire-expansion-pack.json](./227360-for-honor-marching-fire-expansion-pack.json) |
 | For Honor: Master Katashi - Orochi Hero Skin | 305768 | [305768-for-honor-master-katashi-orochi-hero-skin.json](./305768-for-honor-master-katashi-orochi-hero-skin.json) |
@@ -8986,6 +8991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Pirate Hero | 227338 | [227338-for-honor-pirate-hero.json](./227338-for-honor-pirate-hero.json) |
 | For Honor: Pirate Hero Skin | 241964 | [241964-for-honor-pirate-hero-skin.json](./241964-for-honor-pirate-hero-skin.json) |
 | For Honor: Prince Yi – Tiandi Hero Skin | 408968 | [408968-for-honor-prince-yi-tiandi-hero-skin.json](./408968-for-honor-prince-yi-tiandi-hero-skin.json) |
+| For Honor: Queen Kalliopi Gladiator Hero Skin | 367114 | [367114-for-honor-queen-kalliopi-gladiator-hero-skin.json](./367114-for-honor-queen-kalliopi-gladiator-hero-skin.json) |
 | For Honor: Raider Hero Skin | 227315 | [227315-for-honor-raider-hero-skin.json](./227315-for-honor-raider-hero-skin.json) |
 | For Honor: Season 15 - Resistance | 154736 | [154736-for-honor-season-15-resistance.json](./154736-for-honor-season-15-resistance.json) |
 | For Honor: Season 16 - Mayhem | 154739 | [154739-for-honor-season-16-mayhem.json](./154739-for-honor-season-16-mayhem.json) |
@@ -8994,14 +9000,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Season 22 - Curse of the Scarab | 217523 | [217523-for-honor-season-22-curse-of-the-scarab.json](./217523-for-honor-season-22-curse-of-the-scarab.json) |
 | For Honor: Season 23 - The Demon Dagger | 217524 | [217524-for-honor-season-23-the-demon-dagger.json](./217524-for-honor-season-23-the-demon-dagger.json) |
 | For Honor: Season 8 - Marching Fire | 103318 | [103318-for-honor-season-8-marching-fire.json](./103318-for-honor-season-8-marching-fire.json) |
+| For Honor: Sohei - Hero | 367110 | [367110-for-honor-sohei-hero.json](./367110-for-honor-sohei-hero.json) |
 | For Honor: Starter Edition | 216232 | [216232-for-honor-starter-edition.json](./216232-for-honor-starter-edition.json) |
 | For Honor: The Muramasa Blade | 305235 | [305235-for-honor-the-muramasa-blade.json](./305235-for-honor-the-muramasa-blade.json) |
 | For Honor: The Oni's Hunt Deluxe - Hero Skin Bundle | 415019 | [415019-for-honor-the-onis-hunt-deluxe-hero-skin-bundle.json](./415019-for-honor-the-onis-hunt-deluxe-hero-skin-bundle.json) |
 | For Honor: The Oni's Wrath – Sohei Hero Skin | 408965 | [408965-for-honor-the-onis-wrath-sohei-hero-skin.json](./408965-for-honor-the-onis-wrath-sohei-hero-skin.json) |
 | For Honor: The Scorching Herald – Gryphon Legendary Hero Skin | 408967 | [408967-for-honor-the-scorching-herald-gryphon-legendary-hero-skin.json](./408967-for-honor-the-scorching-herald-gryphon-legendary-hero-skin.json) |
+| For Honor: The Unsung Knight - Warden Hero Skin | 367109 | [367109-for-honor-the-unsung-knight-warden-hero-skin.json](./367109-for-honor-the-unsung-knight-warden-hero-skin.json) |
+| For Honor: The Warrior Prince - Aramusha Hero Skin | 367113 | [367113-for-honor-the-warrior-prince-aramusha-hero-skin.json](./367113-for-honor-the-warrior-prince-aramusha-hero-skin.json) |
 | For Honor: Ultimate Edition | 291540 | [291540-for-honor-ultimate-edition.json](./291540-for-honor-ultimate-edition.json) |
 | For Honor: Ultimate Heroes Pack | 305767 | [305767-for-honor-ultimate-heroes-pack.json](./305767-for-honor-ultimate-heroes-pack.json) |
 | For Honor: Varangian Guard - Hero | 289921 | [289921-for-honor-varangian-guard-hero.json](./289921-for-honor-varangian-guard-hero.json) |
+| For Honor: Violet King & Crucible Lord - Hero Skin Bundle | 367111 | [367111-for-honor-violet-king-and-crucible-lord-hero-skin-bundle.json](./367111-for-honor-violet-king-and-crucible-lord-hero-skin-bundle.json) |
+| For Honor: Virtuosa - Hero | 367117 | [367117-for-honor-virtuosa-hero.json](./367117-for-honor-virtuosa-hero.json) |
 | For Honor: Warmonger Hero | 170436 | [170436-for-honor-warmonger-hero.json](./170436-for-honor-warmonger-hero.json) |
 | For Honor: Yasuke the Brave – Shugoki Hero Skin | 408963 | [408963-for-honor-yasuke-the-brave-shugoki-hero-skin.json](./408963-for-honor-yasuke-the-brave-shugoki-hero-skin.json) |
 | For Honor: Year 1 - Heroes Bundle | 256746 | [256746-for-honor-year-1-heroes-bundle.json](./256746-for-honor-year-1-heroes-bundle.json) |
@@ -12987,6 +12998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Android Hentai | 211767 | [211767-furry-android-hentai.json](./211767-furry-android-hentai.json) |
 | Furry Angel Take In | 380358 | [380358-furry-angel-take-in.json](./380358-furry-angel-take-in.json) |
 | Furry Animals Bombing | 109745 | [109745-furry-animals-bombing.json](./109745-furry-animals-bombing.json) |
+| Furry Armpits | 367086 | [367086-furry-armpits.json](./367086-furry-armpits.json) |
 | Furry Backrooms | 291775 | [291775-furry-backrooms.json](./291775-furry-backrooms.json) |
 | Furry BDSM | 256988 | [256988-furry-bdsm.json](./256988-furry-bdsm.json) |
 | Furry Boss | 215891 | [215891-furry-boss.json](./215891-furry-boss.json) |
