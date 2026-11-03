@@ -3209,6 +3209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pax Autocratica | 358217 | [358217-pax-autocratica.json](./358217-pax-autocratica.json) |
 | Pax Corpus | 44845 | [44845-pax-corpus.json](./44845-pax-corpus.json) |
 | Pax Hispanica | 356268 | [356268-pax-hispanica.json](./356268-pax-hispanica.json) |
+| Pax Historia | 383319 | [383319-pax-historia.json](./383319-pax-historia.json) |
 | Pax Imperia | 95439 | [95439-pax-imperia.json](./95439-pax-imperia.json) |
 | Pax Imperia: Eminent Domain | 24261 | [24261-pax-imperia-eminent-domain.json](./24261-pax-imperia-eminent-domain.json) |
 | Pax Narcotica: Trafficker | 172981 | [172981-pax-narcotica-trafficker.json](./172981-pax-narcotica-trafficker.json) |
@@ -9336,6 +9337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayMaker Football 2.0 | 79567 | [79567-playmaker-football-2-0.json](./79567-playmaker-football-2-0.json) |
 | Playman Extreme Running | 316707 | [316707-playman-extreme-running.json](./316707-playman-extreme-running.json) |
 | Playman Extreme Running | 316708 | [316708-playman-extreme-running.json](./316708-playman-extreme-running.json) |
+| Playman Summer Games 3 | 383667 | [383667-playman-summer-games-3.json](./383667-playman-summer-games-3.json) |
 | Playmobil Dinos | 344974 | [344974-playmobil-dinos.json](./344974-playmobil-dinos.json) |
 | Playmobil Dragon Adventures | 209362 | [209362-playmobil-dragon-adventures.json](./209362-playmobil-dragon-adventures.json) |
 | Playmobil Happy Meal Digital Experience | 395741 | [395741-playmobil-happy-meal-digital-experience.json](./395741-playmobil-happy-meal-digital-experience.json) |
@@ -9639,6 +9641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plushie Dungeon | 157335 | [157335-plushie-dungeon.json](./157335-plushie-dungeon.json) |
 | Plushie from the Sky | 168705 | [168705-plushie-from-the-sky.json](./168705-plushie-from-the-sky.json) |
 | Plushiemon | 344009 | [344009-plushiemon.json](./344009-plushiemon.json) |
+| PlushiePet | 383326 | [383326-plushiepet.json](./383326-plushiepet.json) |
 | Plushy Store Tidy Up | 414042 | [414042-plushy-store-tidy-up.json](./414042-plushy-store-tidy-up.json) |
 | Plushy's Playground: Into the Slide | 413207 | [413207-plushys-playground-into-the-slide.json](./413207-plushys-playground-into-the-slide.json) |
 | Plusris | 316074 | [316074-plusris.json](./316074-plusris.json) |
