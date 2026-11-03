@@ -3196,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Myth Dissolution Center | 216784 | [216784-urban-myth-dissolution-center.json](./216784-urban-myth-dissolution-center.json) |
 | Urban Myth.exe | 387551 | [387551-urban-myth-exe.json](./387551-urban-myth-exe.json) |
 | Urban Night Battle Girl | 224844 | [224844-urban-night-battle-girl.json](./224844-urban-night-battle-girl.json) |
+| Urban Nightmare | 387442 | [387442-urban-nightmare.json](./387442-urban-nightmare.json) |
 | Urban Ninja | 343488 | [343488-urban-ninja.json](./343488-urban-ninja.json) |
 | Urban Project | 348877 | [348877-urban-project.json](./348877-urban-project.json) |
 | Urban Rivals World | 64821 | [64821-urban-rivals-world.json](./64821-urban-rivals-world.json) |
