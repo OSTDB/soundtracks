@@ -2908,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Exitum | 33466 | [33466-ad-exitum.json](./33466-ad-exitum.json) |
 | Ad Infinitum | 47222 | [47222-ad-infinitum.json](./47222-ad-infinitum.json) |
 | Ad Infinitum: Supporter Edition | 336136 | [336136-ad-infinitum-supporter-edition.json](./336136-ad-infinitum-supporter-edition.json) |
+| Ad Iterum | 380377 | [380377-ad-iterum.json](./380377-ad-iterum.json) |
 | Ad Memoriam | 309575 | [309575-ad-memoriam.json](./309575-ad-memoriam.json) |
 | Ad Mortem | 262441 | [262441-ad-mortem.json](./262441-ad-mortem.json) |
 | Ad Nauseam | 304201 | [304201-ad-nauseam.json](./304201-ad-nauseam.json) |
@@ -16967,6 +16968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid Ahoge | 179606 | [179606-avoid-ahoge.json](./179606-avoid-ahoge.json) |
 | Avoid Droid | 94075 | [94075-avoid-droid.json](./94075-avoid-droid.json) |
 | Avoid Falls! | 293477 | [293477-avoid-falls.json](./293477-avoid-falls.json) |
+| Avoid Game | 380356 | [380356-avoid-game.json](./380356-avoid-game.json) |
 | Avoid It! | 241420 | [241420-avoid-it.json](./241420-avoid-it.json) |
 | Avoid Korean Memes | 245207 | [245207-avoid-korean-memes.json](./245207-avoid-korean-memes.json) |
 | Avoid Mushrooms | 418241 | [418241-avoid-mushrooms.json](./418241-avoid-mushrooms.json) |
