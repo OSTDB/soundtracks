@@ -1114,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemonia | 317530 | [317530-pandemonia.json](./317530-pandemonia.json) |
 | Pandemonium | 128466 | [128466-pandemonium.json](./128466-pandemonium.json) |
 | Pandemonium 2 | 6269 | [6269-pandemonium-2.json](./6269-pandemonium-2.json) |
+| Pandemonium: Merge! | 380959 | [380959-pandemonium-merge.json](./380959-pandemonium-merge.json) |
 | Pandemos | 150543 | [150543-pandemos.json](./150543-pandemos.json) |
 | Pando Engines | 211193 | [211193-pando-engines.json](./211193-pando-engines.json) |
 | Pandoland | 306675 | [306675-pandoland.json](./306675-pandoland.json) |
@@ -8133,6 +8134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Traveler | 412059 | [412059-pixel-traveler.json](./412059-pixel-traveler.json) |
 | Pixel Troopers | 351752 | [351752-pixel-troopers.json](./351752-pixel-troopers.json) |
 | Pixel Trouble | 192235 | [192235-pixel-trouble.json](./192235-pixel-trouble.json) |
+| Pixel vs. Zombies | 381159 | [381159-pixel-vs-zombies.json](./381159-pixel-vs-zombies.json) |
 | Pixel Waifu: Escape From the Dark Corporation. The Telepathic Power of a Lovestruck Otaku | 398558 | [398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json](./398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json) |
 | Pixel War | 54855 | [54855-pixel-war.json](./54855-pixel-war.json) |
 | Pixel Wars | 239600 | [239600-pixel-wars.json](./239600-pixel-wars.json) |
@@ -10612,6 +10614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Jade | 163100 | [163100-pokemon-jade.json](./163100-pokemon-jade.json) |
 | Pokémon Jade | 229095 | [229095-pokemon-jade.json](./229095-pokemon-jade.json) |
 | Pokémon Jaspe | 180959 | [180959-pokemon-jaspe.json](./180959-pokemon-jaspe.json) |
+| Pokemon Jupiter | 380985 | [380985-pokemon-jupiter.json](./380985-pokemon-jupiter.json) |
 | Pokemon Kaisen | 384836 | [384836-pokemon-kaisen.json](./384836-pokemon-kaisen.json) |
 | Pokemon Kalos Crystal | 304731 | [304731-pokemon-kalos-crystal.json](./304731-pokemon-kalos-crystal.json) |
 | Pokemon Kanlara Ultimate | 349654 | [349654-pokemon-kanlara-ultimate.json](./349654-pokemon-kanlara-ultimate.json) |
@@ -11998,6 +12001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Music Fever! | 78291 | [78291-popn-music-fever.json](./78291-popn-music-fever.json) |
 | Pop'n Music GB | 191417 | [191417-popn-music-gb.json](./191417-popn-music-gb.json) |
 | Pop'n Music GB: Animation Melody | 209619 | [209619-popn-music-gb-animation-melody.json](./209619-popn-music-gb-animation-melody.json) |
+| Pop'n Music High Cheers | 380973 | [380973-popn-music-high-cheers.json](./380973-popn-music-high-cheers.json) |
 | Pop'n Music Iroha | 79935 | [79935-popn-music-iroha.json](./79935-popn-music-iroha.json) |
 | Pop'n Music Jam&Fizz | 364468 | [364468-popn-music-jam-and-fizz.json](./364468-popn-music-jam-and-fizz.json) |
 | Pop'n Music Kaimei Riddles | 155387 | [155387-popn-music-kaimei-riddles.json](./155387-popn-music-kaimei-riddles.json) |
