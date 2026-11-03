@@ -1864,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Hourouki Classic | 136735 | [136735-mahjong-hourouki-classic.json](./136735-mahjong-hourouki-classic.json) |
 | Mahjong In Poculis | 89782 | [89782-mahjong-in-poculis.json](./89782-mahjong-in-poculis.json) |
 | Mahjong Infinity | 117043 | [117043-mahjong-infinity.json](./117043-mahjong-infinity.json) |
+| Mahjong Inkflow | 389854 | [389854-mahjong-inkflow.json](./389854-mahjong-inkflow.json) |
 | Mahjong Jo-ou | 228609 | [228609-mahjong-jo-ou.json](./228609-mahjong-jo-ou.json) |
 | Mahjong Journey | 88898 | [88898-mahjong-journey.json](./88898-mahjong-journey.json) |
 | Mahjong Journey: Quest for Tikal | 175921 | [175921-mahjong-journey-quest-for-tikal.json](./175921-mahjong-journey-quest-for-tikal.json) |
@@ -15269,6 +15270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonsterCrafter | 89202 | [89202-monstercrafter.json](./89202-monstercrafter.json) |
 | MonsterEnd | 335053 | [335053-monsterend.json](./335053-monsterend.json) |
 | Monsterest | 334033 | [334033-monsterest.json](./334033-monsterest.json) |
+| Monstergirl Hunters | 389842 | [389842-monstergirl-hunters.json](./389842-monstergirl-hunters.json) |
 | Monsterhearts 2 | 138699 | [138699-monsterhearts-2.json](./138699-monsterhearts-2.json) |
 | Monsterium | 357360 | [357360-monsterium.json](./357360-monsterium.json) |
 | Monsterland 2 | 332292 | [332292-monsterland-2.json](./332292-monsterland-2.json) |
@@ -17769,6 +17771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTV's Club Dead | 69773 | [69773-mtvs-club-dead.json](./69773-mtvs-club-dead.json) |
 | MTX Mototrax | 5935 | [5935-mtx-mototrax.json](./5935-mtx-mototrax.json) |
 | Mu Complex | 34912 | [34912-mu-complex.json](./34912-mu-complex.json) |
+| Mu Imperio | 389818 | [389818-mu-imperio.json](./389818-mu-imperio.json) |
 | Mu Jiang | 241211 | [241211-mu-jiang.json](./241211-mu-jiang.json) |
 | MU Legend | 57366 | [57366-mu-legend.json](./57366-mu-legend.json) |
 | Mu Old Times | 331948 | [331948-mu-old-times.json](./331948-mu-old-times.json) |
@@ -17814,6 +17817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mudoku: Next Sudoku | 292267 | [292267-mudoku-next-sudoku.json](./292267-mudoku-next-sudoku.json) |
 | MudRunner | 54789 | [54789-mudrunner.json](./54789-mudrunner.json) |
 | MudRunner VR | 299809 | [299809-mudrunner-vr.json](./299809-mudrunner-vr.json) |
+| Mudventure | 389829 | [389829-mudventure.json](./389829-mudventure.json) |
 | Mue | 257262 | [257262-mue.json](./257262-mue.json) |
 | Mueitou: Shinsou-hen | 261203 | [261203-mueitou-shinsou-hen.json](./261203-mueitou-shinsou-hen.json) |
 | Muerte's Arena | 110099 | [110099-muertes-arena.json](./110099-muertes-arena.json) |
@@ -17883,6 +17887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mukougawa no Reisetsu | 341594 | [341594-mukougawa-no-reisetsu.json](./341594-mukougawa-no-reisetsu.json) |
 | Mukti | 106382 | [106382-mukti.json](./106382-mukti.json) |
 | Muku wo Saku | 308877 | [308877-muku-wo-saku.json](./308877-muku-wo-saku.json) |
+| Mukuro no Rasen | 389820 | [389820-mukuro-no-rasen.json](./389820-mukuro-no-rasen.json) |
 | Mul-Ty-Player | 315191 | [315191-mul-ty-player.json](./315191-mul-ty-player.json) |
 | Mul.Mash.Tab.Ba.Gal.Gal | 239498 | [239498-mul-mash-tab-ba-gal-gal.json](./239498-mul-mash-tab-ba-gal-gal.json) |
 | Mulaka | 28692 | [28692-mulaka.json](./28692-mulaka.json) |
@@ -18338,6 +18343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musha Musha Memorial | 355187 | [355187-musha-musha-memorial.json](./355187-musha-musha-memorial.json) |
 | Mushi Battle Arena | 328616 | [328616-mushi-battle-arena.json](./328616-mushi-battle-arena.json) |
 | Mushi Life | 376115 | [376115-mushi-life.json](./376115-mushi-life.json) |
+| Mushi Mansion | 389826 | [389826-mushi-mansion.json](./389826-mushi-mansion.json) |
 | Mushi no Idokoro | 259990 | [259990-mushi-no-idokoro.json](./259990-mushi-no-idokoro.json) |
 | Mushi no Me Matsuri | 395968 | [395968-mushi-no-me-matsuri.json](./395968-mushi-no-me-matsuri.json) |
 | Mushi Taro | 279223 | [279223-mushi-taro.json](./279223-mushi-taro.json) |
