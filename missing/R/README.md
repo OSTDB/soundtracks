@@ -11800,6 +11800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run-N-Jump-N-Jump-N-Run | 134913 | [134913-run-n-jump-n-jump-n-run.json](./134913-run-n-jump-n-jump-n-run.json) |
 | Run, chicken, run! | 113885 | [113885-run-chicken-run.json](./113885-run-chicken-run.json) |
 | Run, Doodleguy! | 211293 | [211293-run-doodleguy.json](./211293-run-doodleguy.json) |
+| Run, Elric! | 379319 | [379319-run-elric.json](./379319-run-elric.json) |
 | Run, Goo, Run | 37544 | [37544-run-goo-run.json](./37544-run-goo-run.json) |
 | Run, Kitty! | 192771 | [192771-run-kitty.json](./192771-run-kitty.json) |
 | Run, my little pixel | 74215 | [74215-run-my-little-pixel.json](./74215-run-my-little-pixel.json) |
