@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Assassin | 234160 | [234160-tactical-assassin.json](./234160-tactical-assassin.json) |
 | Tactical Assassin 2 | 280210 | [280210-tactical-assassin-2.json](./280210-tactical-assassin-2.json) |
 | Tactical Assassin 3 | 388108 | [388108-tactical-assassin-3.json](./388108-tactical-assassin-3.json) |
+| Tactical Assassin: Substratum | 388107 | [388107-tactical-assassin-substratum.json](./388107-tactical-assassin-substratum.json) |
 | Tactical Assault VR | 242021 | [242021-tactical-assault-vr.json](./242021-tactical-assault-vr.json) |
 | Tactical Assault VR: Winter Cosmetics Pack | 400737 | [400737-tactical-assault-vr-winter-cosmetics-pack.json](./400737-tactical-assault-vr-winter-cosmetics-pack.json) |
 | Tactical Bandits | 207578 | [207578-tactical-bandits.json](./207578-tactical-bandits.json) |
@@ -5582,6 +5583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Animal Half | 97986 | [97986-the-animal-half.json](./97986-the-animal-half.json) |
 | The Animals of Farthing Wood | 364539 | [364539-the-animals-of-farthing-wood.json](./364539-the-animals-of-farthing-wood.json) |
 | The Animation Classics Pack | 85708 | [85708-the-animation-classics-pack.json](./85708-the-animation-classics-pack.json) |
+| The Animator vs. Animation Game | 388095 | [388095-the-animator-vs-animation-game.json](./388095-the-animator-vs-animation-game.json) |
 | The Anime Super Remix: Kyojin no Hoshi | 268391 | [268391-the-anime-super-remix-kyojin-no-hoshi.json](./268391-the-anime-super-remix-kyojin-no-hoshi.json) |
 | The Annoying Thing: 3-in-1 | 224320 | [224320-the-annoying-thing-3-in-1.json](./224320-the-annoying-thing-3-in-1.json) |
 | The Annoying Thing: Chaser Racer | 224319 | [224319-the-annoying-thing-chaser-racer.json](./224319-the-annoying-thing-chaser-racer.json) |
