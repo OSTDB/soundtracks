@@ -2984,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Gunfighters | 345137 | [345137-7-gunfighters.json](./345137-7-gunfighters.json) |
 | 7 Horizons | 210898 | [210898-7-horizons.json](./210898-7-horizons.json) |
 | 7 Invaders | 293240 | [293240-7-invaders.json](./293240-7-invaders.json) |
+| 7 Jobs at the Same Time | 350138 | [350138-7-jobs-at-the-same-time.json](./350138-7-jobs-at-the-same-time.json) |
 | 7 Keys Saga | 357761 | [357761-7-keys-saga.json](./357761-7-keys-saga.json) |
 | 7 Legends | 114693 | [114693-7-legends.json](./114693-7-legends.json) |
 | 7 Light-Years | 62017 | [62017-7-light-years.json](./62017-7-light-years.json) |
@@ -3263,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Layers of Hell | 419745 | [419745-9-layers-of-hell.json](./419745-9-layers-of-hell.json) |
 | 9 Lives | 11879 | [11879-9-lives.json](./11879-9-lives.json) |
 | 9 Lives | 251003 | [251003-9-lives.json](./251003-9-lives.json) |
+| 9 Lives | 350171 | [350171-9-lives.json](./350171-9-lives.json) |
 | 9 Lives 9 Millimeters | 377410 | [377410-9-lives-9-millimeters.json](./377410-9-lives-9-millimeters.json) |
 | 9 Lives to Defend | 250947 | [250947-9-lives-to-defend.json](./250947-9-lives-to-defend.json) |
 | 9 Lives To Escape | 377409 | [377409-9-lives-to-escape.json](./377409-9-lives-to-escape.json) |
