@@ -3882,6 +3882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadliners | 46489 | [46489-deadliners.json](./46489-deadliners.json) |
 | Deadlings: Rotten Edition | 26822 | [26822-deadlings-rotten-edition.json](./26822-deadlings-rotten-edition.json) |
 | Deadlist | 387444 | [387444-deadlist.json](./387444-deadlist.json) |
+| Deadlivery Night | 375130 | [375130-deadlivery-night.json](./375130-deadlivery-night.json) |
 | DeadLock | 166073 | [166073-deadlock.json](./166073-deadlock.json) |
 | Deadlock: Planetary Conquest | 10171 | [10171-deadlock-planetary-conquest.json](./10171-deadlock-planetary-conquest.json) |
 | Deadlocked | 177277 | [177277-deadlocked.json](./177277-deadlocked.json) |
@@ -4384,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Palette | 171525 | [171525-death-palette.json](./171525-death-palette.json) |
 | Death Park 2 | 149730 | [149730-death-park-2.json](./149730-death-park-2.json) |
 | Death Park 2: Horror Clown | 251232 | [251232-death-park-2-horror-clown.json](./251232-death-park-2-horror-clown.json) |
+| Death Park 2: Remaster | 375128 | [375128-death-park-2-remaster.json](./375128-death-park-2-remaster.json) |
 | Death Penalty | 401555 | [401555-death-penalty.json](./401555-death-penalty.json) |
 | Death Penalty Hero | 285008 | [285008-death-penalty-hero.json](./285008-death-penalty-hero.json) |
 | Death Pipe | 227725 | [227725-death-pipe.json](./227725-death-pipe.json) |
@@ -6614,6 +6616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Königsruf | 369627 | [369627-der-konigsruf.json](./369627-der-konigsruf.json) |
 | Der Landsitz von le Cros | 91876 | [91876-der-landsitz-von-le-cros.json](./91876-der-landsitz-von-le-cros.json) |
 | Der Langrisser | 77634 | [77634-der-langrisser.json](./77634-der-langrisser.json) |
+| Der Langrisser FX | 375474 | [375474-der-langrisser-fx.json](./375474-der-langrisser-fx.json) |
 | Der Milchbauer | 108322 | [108322-der-milchbauer.json](./108322-der-milchbauer.json) |
 | Der Pfad des Pinguins | 262242 | [262242-der-pfad-des-pinguins.json](./262242-der-pfad-des-pinguins.json) |
 | Der Planer | 86048 | [86048-der-planer.json](./86048-der-planer.json) |
@@ -16043,6 +16046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Delivery Despair | 248391 | [248391-drone-delivery-despair.json](./248391-drone-delivery-despair.json) |
 | Drone Delivery Express: City Simulator | 389052 | [389052-drone-delivery-express-city-simulator.json](./389052-drone-delivery-express-city-simulator.json) |
 | Drone Delivery Simulator | 286211 | [286211-drone-delivery-simulator.json](./286211-drone-delivery-simulator.json) |
+| Drone Delivery: FPV Simulator | 375470 | [375470-drone-delivery-fpv-simulator.json](./375470-drone-delivery-fpv-simulator.json) |
 | Drone Fight | 54776 | [54776-drone-fight.json](./54776-drone-fight.json) |
 | Drone Fighters | 29049 | [29049-drone-fighters.json](./29049-drone-fighters.json) |
 | Drone Fire | 380017 | [380017-drone-fire.json](./380017-drone-fire.json) |
@@ -18076,6 +18080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Digger | 346742 | [346742-dwarf-digger.json](./346742-dwarf-digger.json) |
 | Dwarf Dove | 293507 | [293507-dwarf-dove.json](./293507-dwarf-dove.json) |
 | Dwarf Eats Mountain | 390780 | [390780-dwarf-eats-mountain.json](./390780-dwarf-eats-mountain.json) |
+| Dwarf Fortress: Siege Update | 375483 | [375483-dwarf-fortress-siege-update.json](./375483-dwarf-fortress-siege-update.json) |
 | Dwarf Guild Mania | 387026 | [387026-dwarf-guild-mania.json](./387026-dwarf-guild-mania.json) |
 | Dwarf Hall | 258432 | [258432-dwarf-hall.json](./258432-dwarf-hall.json) |
 | Dwarf Journey | 144137 | [144137-dwarf-journey.json](./144137-dwarf-journey.json) |
