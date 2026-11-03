@@ -1956,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satan II | 380552 | [380552-satan-ii.json](./380552-satan-ii.json) |
 | Satan Moans | 302816 | [302816-satan-moans.json](./302816-satan-moans.json) |
 | Satan Santa | 369743 | [369743-satan-santa.json](./369743-satan-santa.json) |
+| Satan's Ball | 389834 | [389834-satans-ball.json](./389834-satans-ball.json) |
 | Satan's Castle | 88077 | [88077-satans-castle.json](./88077-satans-castle.json) |
 | Satan's Dungeon | 329593 | [329593-satans-dungeon.json](./329593-satans-dungeon.json) |
 | Satan's Hollow | 18843 | [18843-satans-hollow.json](./18843-satans-hollow.json) |
@@ -3365,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Mechanic | 16611 | [16611-scrap-mechanic.json](./16611-scrap-mechanic.json) |
 | Scrap Mechanic: Rocket Game | 102525 | [102525-scrap-mechanic-rocket-game.json](./102525-scrap-mechanic-rocket-game.json) |
 | Scrap Metal Factory | 208945 | [208945-scrap-metal-factory.json](./208945-scrap-metal-factory.json) |
+| Scrap Protocol | 389847 | [389847-scrap-protocol.json](./389847-scrap-protocol.json) |
 | Scrap Race | 181331 | [181331-scrap-race.json](./181331-scrap-race.json) |
 | Scrap Riders | 152647 | [152647-scrap-riders.json](./152647-scrap-riders.json) |
 | Scrap Rush!! | 113588 | [113588-scrap-rush.json](./113588-scrap-rush.json) |
@@ -6740,6 +6742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shakes on a Plane | 111988 | [111988-shakes-on-a-plane.json](./111988-shakes-on-a-plane.json) |
 | Shaki Shaki Island | 327409 | [327409-shaki-shaki-island.json](./327409-shaki-shaki-island.json) |
 | Shakii the Wolf | 73195 | [73195-shakii-the-wolf.json](./73195-shakii-the-wolf.json) |
+| Shaking Hands | 389831 | [389831-shaking-hands.json](./389831-shaking-hands.json) |
 | Shakugan no Shana | 72686 | [72686-shakugan-no-shana.json](./72686-shakugan-no-shana.json) |
 | Shakugan no Shana DS | 123413 | [123413-shakugan-no-shana-ds.json](./123413-shakugan-no-shana-ds.json) |
 | Shaky Ground: Apocollapse | 270652 | [270652-shaky-ground-apocollapse.json](./270652-shaky-ground-apocollapse.json) |
@@ -17865,6 +17868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundscape | 286996 | [286996-soundscape.json](./286996-soundscape.json) |
 | Soundscape | 330756 | [330756-soundscape.json](./330756-soundscape.json) |
 | Soundscape VR | 28879 | [28879-soundscape-vr.json](./28879-soundscape-vr.json) |
+| Soundscapes | 389911 | [389911-soundscapes.json](./389911-soundscapes.json) |
 | SoundSelf | 61869 | [61869-soundself.json](./61869-soundself.json) |
 | Soundsphere | 176885 | [176885-soundsphere.json](./176885-soundsphere.json) |
 | SoundStage | 27777 | [27777-soundstage.json](./27777-soundstage.json) |
@@ -25497,6 +25501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Sword for Adult | 67258 | [67258-still-sword-for-adult.json](./67258-still-sword-for-adult.json) |
 | Still Time | 69244 | [69244-still-time.json](./69244-still-time.json) |
 | Still Waters | 342913 | [342913-still-waters.json](./342913-still-waters.json) |
+| Still Winter | 389855 | [389855-still-winter.json](./389855-still-winter.json) |
 | StillAsleep | 405745 | [405745-stillasleep.json](./405745-stillasleep.json) |
 | Stillbone | 395163 | [395163-stillbone.json](./395163-stillbone.json) |
 | Stillborn Slayer | 189039 | [189039-stillborn-slayer.json](./189039-stillborn-slayer.json) |
@@ -27566,6 +27571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suburban Scavengers | 103950 | [103950-suburban-scavengers.json](./103950-suburban-scavengers.json) |
 | Suburbia | 273232 | [273232-suburbia.json](./273232-suburbia.json) |
 | Suburbia | 87278 | [87278-suburbia.json](./87278-suburbia.json) |
+| Suburbia Infinitum | 389844 | [389844-suburbia-infinitum.json](./389844-suburbia-infinitum.json) |
 | Suburi | 163710 | [163710-suburi.json](./163710-suburi.json) |
 | Subverse | 116848 | [116848-subverse.json](./116848-subverse.json) |
 | Subverse - Celestina Unbound | 414547 | [414547-subverse-celestina-unbound.json](./414547-subverse-celestina-unbound.json) |
