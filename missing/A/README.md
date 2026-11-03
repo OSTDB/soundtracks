@@ -2110,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Crawlers Plus | 88465 | [88465-abyss-crawlers-plus.json](./88465-abyss-crawlers-plus.json) |
 | Abyss Crew | 87938 | [87938-abyss-crew.json](./87938-abyss-crew.json) |
 | Abyss Deck: Deckbuilding Roguelike | 373159 | [373159-abyss-deck-deckbuilding-roguelike.json](./373159-abyss-deck-deckbuilding-roguelike.json) |
+| Abyss Defence | 350313 | [350313-abyss-defence.json](./350313-abyss-defence.json) |
 | Abyss Delvers | 194378 | [194378-abyss-delvers.json](./194378-abyss-delvers.json) |
 | Abyss Eschaton Survivors | 348852 | [348852-abyss-eschaton-survivors.json](./348852-abyss-eschaton-survivors.json) |
 | Abyss Fantasia | 207601 | [207601-abyss-fantasia.json](./207601-abyss-fantasia.json) |
@@ -15918,6 +15919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -16784,6 +16786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autostereocade | 277719 | [277719-autostereocade.json](./277719-autostereocade.json) |
 | Autotag | 296717 | [296717-autotag.json](./296717-autotag.json) |
 | Autotelic | 404021 | [404021-autotelic.json](./404021-autotelic.json) |
+| Autothysis | 350161 | [350161-autothysis.json](./350161-autothysis.json) |
 | Autumn | 22025 | [22025-autumn.json](./22025-autumn.json) |
 | Autumn and Girls | 149393 | [149393-autumn-and-girls.json](./149393-autumn-and-girls.json) |
 | Autumn Aurora 2 | 376213 | [376213-autumn-aurora-2.json](./376213-autumn-aurora-2.json) |
