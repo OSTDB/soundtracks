@@ -5995,7 +5995,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: Nightmare Realm | 102516 | [102516-maze-nightmare-realm.json](./102516-maze-nightmare-realm.json) |
 | Maze: Path of Light | 322572 | [322572-maze-path-of-light.json](./322572-maze-path-of-light.json) |
 | Maze: Path of Light - Complete Edition | 358666 | [358666-maze-path-of-light-complete-edition.json](./358666-maze-path-of-light-complete-edition.json) |
+| Maze: Path of Light - Dusk Constellations | 354192 | [354192-maze-path-of-light-dusk-constellations.json](./354192-maze-path-of-light-dusk-constellations.json) |
 | Maze: Path of Light - Dusk Edition | 376783 | [376783-maze-path-of-light-dusk-edition.json](./376783-maze-path-of-light-dusk-edition.json) |
+| Maze: Path of Light - Forest Constellations | 354193 | [354193-maze-path-of-light-forest-constellations.json](./354193-maze-path-of-light-forest-constellations.json) |
 | Maze: Path of Light - Forest Edition | 362372 | [362372-maze-path-of-light-forest-edition.json](./362372-maze-path-of-light-forest-edition.json) |
 | Maze: Path of Light - Oasis Constellations | 354194 | [354194-maze-path-of-light-oasis-constellations.json](./354194-maze-path-of-light-oasis-constellations.json) |
 | Maze: Path of Light - Oasis Edition | 404280 | [404280-maze-path-of-light-oasis-edition.json](./404280-maze-path-of-light-oasis-edition.json) |
@@ -14834,6 +14836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Chef | 371556 | [371556-monster-chef.json](./371556-monster-chef.json) |
 | Monster Chef | 91086 | [91086-monster-chef.json](./91086-monster-chef.json) |
 | Monster Chronicle | 56473 | [56473-monster-chronicle.json](./56473-monster-chronicle.json) |
+| Monster City | 354180 | [354180-monster-city.json](./354180-monster-city.json) |
 | Monster City: A Monster College Story | 370576 | [370576-monster-city-a-monster-college-story.json](./370576-monster-city-a-monster-college-story.json) |
 | Monster Clash 2 | 205591 | [205591-monster-clash-2.json](./205591-monster-clash-2.json) |
 | Monster Claws 5 | 357408 | [357408-monster-claws-5.json](./357408-monster-claws-5.json) |
