@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faith Update v1.4: Good Christian Boy | 275258 | [275258-faith-update-v1-4-good-christian-boy.json](./275258-faith-update-v1-4-good-christian-boy.json) |
 | Faith: Chapter II | 123282 | [123282-faith-chapter-ii.json](./123282-faith-chapter-ii.json) |
 | Faith: Chapter III | 125170 | [125170-faith-chapter-iii.json](./125170-faith-chapter-iii.json) |
+| Faith: Demon Siege | 361396 | [361396-faith-demon-siege.json](./361396-faith-demon-siege.json) |
 | Faith: The Unholy Trinity | 125171 | [125171-faith-the-unholy-trinity.json](./125171-faith-the-unholy-trinity.json) |
 | FaithEater | 301372 | [301372-faitheater.json](./301372-faitheater.json) |
 | Faithfall | 401662 | [401662-faithfall.json](./401662-faithfall.json) |
