@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TacticalDuty.io | 234036 | [234036-tacticalduty-io.json](./234036-tacticalduty-io.json) |
 | Tacticalunderground Arcade | 154366 | [154366-tacticalunderground-arcade.json](./154366-tacticalunderground-arcade.json) |
 | TactiCats | 197511 | [197511-tacticats.json](./197511-tacticats.json) |
+| TacticFront | 350303 | [350303-tacticfront.json](./350303-tacticfront.json) |
 | Tactichord: Glam Strategy | 375435 | [375435-tactichord-glam-strategy.json](./375435-tactichord-glam-strategy.json) |
 | Tacticool | 112918 | [112918-tacticool.json](./112918-tacticool.json) |
 | Tacticool Champs | 134373 | [134373-tacticool-champs.json](./134373-tacticool-champs.json) |
@@ -6468,6 +6469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Desires | 33874 | [33874-the-book-of-desires.json](./33874-the-book-of-desires.json) |
 | The Book of Distance | 161568 | [161568-the-book-of-distance.json](./161568-the-book-of-distance.json) |
 | The Book of Good | 288724 | [288724-the-book-of-good.json](./288724-the-book-of-good.json) |
+| The Book of Living Magic | 350149 | [350149-the-book-of-living-magic.json](./350149-the-book-of-living-magic.json) |
 | The Book of Lulu | 281295 | [281295-the-book-of-lulu.json](./281295-the-book-of-lulu.json) |
 | The Book of Outcasts | 397697 | [397697-the-book-of-outcasts.json](./397697-the-book-of-outcasts.json) |
 | The Book of Plagues | 346180 | [346180-the-book-of-plagues.json](./346180-the-book-of-plagues.json) |
@@ -6632,6 +6634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bunker | 24017 | [24017-the-bunker.json](./24017-the-bunker.json) |
 | The Bunny Burrow | 362738 | [362738-the-bunny-burrow.json](./362738-the-bunny-burrow.json) |
 | The Bunny Graveyard | 197086 | [197086-the-bunny-graveyard.json](./197086-the-bunny-graveyard.json) |
+| The Bunny Graveyard II | 350142 | [350142-the-bunny-graveyard-ii.json](./350142-the-bunny-graveyard-ii.json) |
 | The BunnyLord Pro Hater Pack | 82412 | [82412-the-bunnylord-pro-hater-pack.json](./82412-the-bunnylord-pro-hater-pack.json) |
 | The Bunnyman | 224579 | [224579-the-bunnyman.json](./224579-the-bunnyman.json) |
 | The Bunnyman | 263442 | [263442-the-bunnyman.json](./263442-the-bunnyman.json) |
@@ -14595,6 +14598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Puppet Word Game | 220808 | [220808-the-puppet-word-game.json](./220808-the-puppet-word-game.json) |
 | The Puppet's Casket | 389332 | [389332-the-puppets-casket.json](./389332-the-puppets-casket.json) |
 | The Puppeteer | 252010 | [252010-the-puppeteer.json](./252010-the-puppeteer.json) |
+| The Puppy | 350305 | [350305-the-puppy.json](./350305-the-puppy.json) |
 | The Pure Bundle | 82409 | [82409-the-pure-bundle.json](./82409-the-pure-bundle.json) |
 | The Pure Wargame | 72279 | [72279-the-pure-wargame.json](./72279-the-pure-wargame.json) |
 | The Purgatory | 56988 | [56988-the-purgatory.json](./56988-the-purgatory.json) |
@@ -30956,6 +30960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuōlājī | 104116 | [104116-tuolaji.json](./104116-tuolaji.json) |
 | Tuōlājī | 112838 | [112838-tuolaji.json](./112838-tuolaji.json) |
 | Tuōlājī Dàzhàn | 341841 | [341841-tuolaji-dazhan.json](./341841-tuolaji-dazhan.json) |
+| Tuoni | 350158 | [350158-tuoni.json](./350158-tuoni.json) |
 | Tuōtuōlālā Xiǎofēi Zhèn | 415512 | [415512-tuotuolala-xiaofei-zhen.json](./415512-tuotuolala-xiaofei-zhen.json) |
 | Tupã | 46480 | [46480-tupa.json](./46480-tupa.json) |
 | Tuper Tario Tros. | 212693 | [212693-tuper-tario-tros.json](./212693-tuper-tario-tros.json) |
