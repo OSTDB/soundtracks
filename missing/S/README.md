@@ -8836,6 +8836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopenkraft's Quantum Curiosities | 411501 | [411501-shopenkrafts-quantum-curiosities.json](./411501-shopenkrafts-quantum-curiosities.json) |
 | ShopFront | 348568 | [348568-shopfront.json](./348568-shopfront.json) |
 | Shopkeeper Simulator | 117613 | [117613-shopkeeper-simulator.json](./117613-shopkeeper-simulator.json) |
+| Shopkeeper Simulator | 353588 | [353588-shopkeeper-simulator.json](./353588-shopkeeper-simulator.json) |
 | Shopkeeper Simulator VR | 97270 | [97270-shopkeeper-simulator-vr.json](./97270-shopkeeper-simulator-vr.json) |
 | Shopkeepers Tale | 110166 | [110166-shopkeepers-tale.json](./110166-shopkeepers-tale.json) |
 | Shopkins: Cutie Cars | 109007 | [109007-shopkins-cutie-cars.json](./109007-shopkins-cutie-cars.json) |
@@ -18731,6 +18732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -32275,6 +32277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superpanel | 377702 | [377702-superpanel.json](./377702-superpanel.json) |
 | Superpantsu Harematchii | 151607 | [151607-superpantsu-harematchii.json](./151607-superpantsu-harematchii.json) |
 | Superpersons University | 277362 | [277362-superpersons-university.json](./277362-superpersons-university.json) |
+| Superpip: Level One | 353725 | [353725-superpip-level-one.json](./353725-superpip-level-one.json) |
 | Superpix | 311702 | [311702-superpix.json](./311702-superpix.json) |
 | Superpoke! Pets | 299538 | [299538-superpoke-pets.json](./299538-superpoke-pets.json) |
 | Superpopular | 127308 | [127308-superpopular.json](./127308-superpopular.json) |
