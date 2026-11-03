@@ -1208,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samudai | 35927 | [35927-samudai.json](./35927-samudai.json) |
 | Samudra | 126534 | [126534-samudra.json](./126534-samudra.json) |
 | Samuel Prince Attorney at Law: Chapter 1 | 365593 | [365593-samuel-prince-attorney-at-law-chapter-1.json](./365593-samuel-prince-attorney-at-law-chapter-1.json) |
+| Samuel Prince Attorney at Law: Chapter 3 | 386826 | [386826-samuel-prince-attorney-at-law-chapter-3.json](./386826-samuel-prince-attorney-at-law-chapter-3.json) |
 | Samuel Prince Attorney at Law: Chapter 4 | 397791 | [397791-samuel-prince-attorney-at-law-chapter-4.json](./397791-samuel-prince-attorney-at-law-chapter-4.json) |
 | Samuel Sage: The Mystery at Penby Inn | 285505 | [285505-samuel-sage-the-mystery-at-penby-inn.json](./285505-samuel-sage-the-mystery-at-penby-inn.json) |
 | Samui kara Nabe Kuitai ne Joon-chan to!! | 330062 | [330062-samui-kara-nabe-kuitai-ne-joon-chan-to.json](./330062-samui-kara-nabe-kuitai-ne-joon-chan-to.json) |
@@ -1895,6 +1896,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saraman Union | 274924 | [274924-saraman-union.json](./274924-saraman-union.json) |
 | Saranity | 148792 | [148792-saranity.json](./148792-saranity.json) |
 | Sarara's Little Shop | 61564 | [61564-sararas-little-shop.json](./61564-sararas-little-shop.json) |
+| Sarasaland Adventure | 386774 | [386774-sarasaland-adventure.json](./386774-sarasaland-adventure.json) |
+| Sarasaland Adventure 2: The Alien Insurgency | 386790 | [386790-sarasaland-adventure-2-the-alien-insurgency.json](./386790-sarasaland-adventure-2-the-alien-insurgency.json) |
 | Saratoga | 297605 | [297605-saratoga.json](./297605-saratoga.json) |
 | Sarawak | 132677 | [132677-sarawak.json](./132677-sarawak.json) |
 | Sarco | 414133 | [414133-sarco.json](./414133-sarco.json) |
@@ -6623,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Christmas Eve | 417941 | [417941-shadows-of-christmas-eve.json](./417941-shadows-of-christmas-eve.json) |
 | Shadows of Chroma Tower | 304944 | [304944-shadows-of-chroma-tower.json](./304944-shadows-of-chroma-tower.json) |
 | Shadows of Chronos | 260784 | [260784-shadows-of-chronos.json](./260784-shadows-of-chronos.json) |
+| Shadows of Delusion | 386895 | [386895-shadows-of-delusion.json](./386895-shadows-of-delusion.json) |
 | Shadows of Destruction | 295094 | [295094-shadows-of-destruction.json](./295094-shadows-of-destruction.json) |
 | Shadows of Doubt | 119273 | [119273-shadows-of-doubt.json](./119273-shadows-of-doubt.json) |
 | Shadows of Duat | 252395 | [252395-shadows-of-duat.json](./252395-shadows-of-duat.json) |
@@ -10043,6 +10047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silky Winds | 362348 | [362348-silky-winds.json](./362348-silky-winds.json) |
 | Sill Cats | 402672 | [402672-sill-cats.json](./402672-sill-cats.json) |
 | Sillage | 195117 | [195117-sillage.json](./195117-sillage.json) |
+| Silliards | 386754 | [386754-silliards.json](./386754-silliards.json) |
 | Sillouhettes of Phobos | 274212 | [274212-sillouhettes-of-phobos.json](./274212-sillouhettes-of-phobos.json) |
 | Silly Bandz | 10620 | [10620-silly-bandz.json](./10620-silly-bandz.json) |
 | Silly Billy | 295397 | [295397-silly-billy.json](./295397-silly-billy.json) |
@@ -18543,6 +18548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
