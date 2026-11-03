@@ -13000,6 +13000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Praise Be Evangeline | 420963 | [420963-praise-be-evangeline.json](./420963-praise-be-evangeline.json) |
 | Praise Champion | 209929 | [209929-praise-champion.json](./209929-praise-champion.json) |
 | Praise Dead | 261700 | [261700-praise-dead.json](./261700-praise-dead.json) |
+| Praise To The Moon | 396270 | [396270-praise-to-the-moon.json](./396270-praise-to-the-moon.json) |
 | Prajator: Image Ranger | 273281 | [273281-prajator-image-ranger.json](./273281-prajator-image-ranger.json) |
 | Prakasha | 413026 | [413026-prakasha.json](./413026-prakasha.json) |
 | Prana | 75113 | [75113-prana.json](./75113-prana.json) |
