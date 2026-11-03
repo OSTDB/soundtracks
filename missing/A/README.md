@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Date in the Park | 32670 | [32670-a-date-in-the-park.json](./32670-a-date-in-the-park.json) |
 | A Date With Chester 2 | 383186 | [383186-a-date-with-chester-2.json](./383186-a-date-with-chester-2.json) |
 | A Date with Death | 253544 | [253544-a-date-with-death.json](./253544-a-date-with-death.json) |
+| A Date with Death 2: Remnants | 380972 | [380972-a-date-with-death-2-remnants.json](./380972-a-date-with-death-2-remnants.json) |
 | A Date with Death: Beyond the Bet | 288917 | [288917-a-date-with-death-beyond-the-bet.json](./288917-a-date-with-death-beyond-the-bet.json) |
 | A Date with Death: Expansion DLC | 276859 | [276859-a-date-with-death-expansion-dlc.json](./276859-a-date-with-death-expansion-dlc.json) |
 | A Date With Tonpa | 179865 | [179865-a-date-with-tonpa.json](./179865-a-date-with-tonpa.json) |
@@ -13122,6 +13123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arlington Horse Racing | 38518 | [38518-arlington-horse-racing.json](./38518-arlington-horse-racing.json) |
 | Arlo the Rabbit | 99286 | [99286-arlo-the-rabbit.json](./99286-arlo-the-rabbit.json) |
 | Arlyeh Center for Heart Diseases | 271218 | [271218-arlyeh-center-for-heart-diseases.json](./271218-arlyeh-center-for-heart-diseases.json) |
+| Arm Around! | 380982 | [380982-arm-around.json](./380982-arm-around.json) |
 | Arm Champs II | 67876 | [67876-arm-champs-ii.json](./67876-arm-champs-ii.json) |
 | Arm Joe | 130876 | [130876-arm-joe.json](./130876-arm-joe.json) |
 | Arm Joe: Les Misérables | 50366 | [50366-arm-joe-les-miserables.json](./50366-arm-joe-les-miserables.json) |
