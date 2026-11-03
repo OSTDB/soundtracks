@@ -1827,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Demon XL | 221333 | [221333-mahjong-demon-xl.json](./221333-mahjong-demon-xl.json) |
 | Mahjong Destiny | 32830 | [32830-mahjong-destiny.json](./32830-mahjong-destiny.json) |
 | Mahjong Detective: The Stolen Love | 295919 | [295919-mahjong-detective-the-stolen-love.json](./295919-mahjong-detective-the-stolen-love.json) |
+| Mahjong Dimensions 3D: Fantasy Anime | 367120 | [367120-mahjong-dimensions-3d-fantasy-anime.json](./367120-mahjong-dimensions-3d-fantasy-anime.json) |
 | Mahjong Domino | 89830 | [89830-mahjong-domino.json](./89830-mahjong-domino.json) |
 | Mahjong Egyptian: The Mystery of the Pharaoh | 238692 | [238692-mahjong-egyptian-the-mystery-of-the-pharaoh.json](./238692-mahjong-egyptian-the-mystery-of-the-pharaoh.json) |
 | Mahjong Elements | 78426 | [78426-mahjong-elements.json](./78426-mahjong-elements.json) |
@@ -5435,6 +5436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matrimelee | 92937 | [92937-matrimelee.json](./92937-matrimelee.json) |
 | Matrioshkas On a Roll! | 418615 | [418615-matrioshkas-on-a-roll.json](./418615-matrioshkas-on-a-roll.json) |
 | Matrix Blocks | 149463 | [149463-matrix-blocks.json](./149463-matrix-blocks.json) |
+| Matrix Brain Twister | 367127 | [367127-matrix-brain-twister.json](./367127-matrix-brain-twister.json) |
 | Matrix Bullet | 266766 | [266766-matrix-bullet.json](./266766-matrix-bullet.json) |
 | Matrix Jump | 215848 | [215848-matrix-jump.json](./215848-matrix-jump.json) |
 | Matrix Mahjong | 392317 | [392317-matrix-mahjong.json](./392317-matrix-mahjong.json) |
@@ -6731,6 +6733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Shopman | 349757 | [349757-medieval-shopman.json](./349757-medieval-shopman.json) |
 | Medieval Shorts 3 | 101752 | [101752-medieval-shorts-3.json](./101752-medieval-shorts-3.json) |
 | Medieval Simulators: Baker | 248047 | [248047-medieval-simulators-baker.json](./248047-medieval-simulators-baker.json) |
+| Medieval Simulators: Tavern | 367091 | [367091-medieval-simulators-tavern.json](./367091-medieval-simulators-tavern.json) |
 | Medieval Squad Tactics | 415888 | [415888-medieval-squad-tactics.json](./415888-medieval-squad-tactics.json) |
 | Medieval StartUp | 347082 | [347082-medieval-startup.json](./347082-medieval-startup.json) |
 | Medieval Steve | 108253 | [108253-medieval-steve.json](./108253-medieval-steve.json) |
@@ -19140,6 +19143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cup of Coffee: The Trouble With Earl Grey | 57903 | [57903-my-cup-of-coffee-the-trouble-with-earl-grey.json](./57903-my-cup-of-coffee-the-trouble-with-earl-grey.json) |
 | My Cute Fuhrer | 280265 | [280265-my-cute-fuhrer.json](./280265-my-cute-fuhrer.json) |
 | My Cute Pagangirl | 153037 | [153037-my-cute-pagangirl.json](./153037-my-cute-pagangirl.json) |
+| My Cute Roommate | 367134 | [367134-my-cute-roommate.json](./367134-my-cute-roommate.json) |
 | My Cute Succubus | 224528 | [224528-my-cute-succubus.json](./224528-my-cute-succubus.json) |
 | My Cute Unicorns: Coloring Book | 212272 | [212272-my-cute-unicorns-coloring-book.json](./212272-my-cute-unicorns-coloring-book.json) |
 | My Cute, Pure Boyfriend | 303274 | [303274-my-cute-pure-boyfriend.json](./303274-my-cute-pure-boyfriend.json) |
