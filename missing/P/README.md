@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pakistan Quiz | 329411 | [329411-pakistan-quiz.json](./329411-pakistan-quiz.json) |
 | Pakka Pets Village | 230212 | [230212-pakka-pets-village.json](./230212-pakka-pets-village.json) |
 | Pakku Pony | 374671 | [374671-pakku-pony.json](./374671-pakku-pony.json) |
+| Paklyx | 382809 | [382809-paklyx.json](./382809-paklyx.json) |
 | Pako | 9568 | [9568-pako.json](./9568-pako.json) |
 | Pako 2 | 29028 | [29028-pako-2.json](./29028-pako-2.json) |
 | Pako 3 | 188261 | [188261-pako-3.json](./188261-pako-3.json) |
@@ -1638,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper.io | 113940 | [113940-paper-io.json](./113940-paper-io.json) |
 | Paper.io 2 | 108159 | [108159-paper-io-2.json](./108159-paper-io-2.json) |
 | Paperama | 83225 | [83225-paperama.json](./83225-paperama.json) |
+| Paperback | 382804 | [382804-paperback.json](./382804-paperback.json) |
 | Paperback Adventures | 220621 | [220621-paperback-adventures.json](./220621-paperback-adventures.json) |
 | Paperback Vol. 2 | 207271 | [207271-paperback-vol-2.json](./207271-paperback-vol-2.json) |
 | Paperback: The Game | 75826 | [75826-paperback-the-game.json](./75826-paperback-the-game.json) |
@@ -5743,6 +5745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Pico MicroMix | 182992 | [182992-pico-pico-micromix.json](./182992-pico-pico-micromix.json) |
 | Pico Pirates | 184068 | [184068-pico-pirates.json](./184068-pico-pirates.json) |
 | Pico Racer | 135776 | [135776-pico-racer.json](./135776-pico-racer.json) |
+| Pico Ru8ik | 383082 | [383082-pico-ru8ik.json](./383082-pico-ru8ik.json) |
 | Pico Sim Date 2 | 276253 | [276253-pico-sim-date-2.json](./276253-pico-sim-date-2.json) |
 | Pico Snail! Dream Castle | 152748 | [152748-pico-snail-dream-castle.json](./152748-pico-snail-dream-castle.json) |
 | Pico Sonic | 181240 | [181240-pico-sonic.json](./181240-pico-sonic.json) |
