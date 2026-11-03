@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Mario Mix | 3680 | [3680-dance-dance-revolution-mario-mix.json](./3680-dance-dance-revolution-mario-mix.json) |
 | Dance Dance Revolution Mario Mix 2 | 201163 | [201163-dance-dance-revolution-mario-mix-2.json](./201163-dance-dance-revolution-mario-mix-2.json) |
 | Dance Dance Revolution Party Collection | 139244 | [139244-dance-dance-revolution-party-collection.json](./139244-dance-dance-revolution-party-collection.json) |
+| Dance Dance Revolution S | 399976 | [399976-dance-dance-revolution-s.json](./399976-dance-dance-revolution-s.json) |
 | Dance Dance Revolution Solo 2000 | 135510 | [135510-dance-dance-revolution-solo-2000.json](./135510-dance-dance-revolution-solo-2000.json) |
 | Dance Dance Revolution Solo Bass Mix | 135509 | [135509-dance-dance-revolution-solo-bass-mix.json](./135509-dance-dance-revolution-solo-bass-mix.json) |
 | Dance Dance Revolution STR!KE | 128003 | [128003-dance-dance-revolution-str-ke.json](./128003-dance-dance-revolution-str-ke.json) |
@@ -3820,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadFright | 154429 | [154429-deadfright.json](./154429-deadfright.json) |
 | Deadful Leningrad: Developer Life Simulator | 422026 | [422026-deadful-leningrad-developer-life-simulator.json](./422026-deadful-leningrad-developer-life-simulator.json) |
 | DeadGround:Arena | 93805 | [93805-deadground-arena.json](./93805-deadground-arena.json) |
+| Deadhand Theater | 399381 | [399381-deadhand-theater.json](./399381-deadhand-theater.json) |
 | Deadhaus Sonata | 111333 | [111333-deadhaus-sonata.json](./111333-deadhaus-sonata.json) |
 | Deadhead: Autorail | 412245 | [412245-deadhead-autorail.json](./412245-deadhead-autorail.json) |
 | Deadheat Road | 43799 | [43799-deadheat-road.json](./43799-deadheat-road.json) |
@@ -8423,6 +8425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diesel the Pug Warrior | 232922 | [232922-diesel-the-pug-warrior.json](./232922-diesel-the-pug-warrior.json) |
 | DieselDome: Oil & Blood | 244127 | [244127-dieseldome-oil-and-blood.json](./244127-dieseldome-oil-and-blood.json) |
 | Dieselpunk Wars | 114168 | [114168-dieselpunk-wars.json](./114168-dieselpunk-wars.json) |
+| Dieselråttor & Sjömansmöss: Jakten på Solkatten | 399386 | [399386-dieselrattor-and-sjomansmoss-jakten-pa-solkatten.json](./399386-dieselrattor-and-sjomansmoss-jakten-pa-solkatten.json) |
 | Diesuki Dungeon | 376868 | [376868-diesuki-dungeon.json](./376868-diesuki-dungeon.json) |
 | Diet Family | 267649 | [267649-diet-family.json](./267649-diet-family.json) |
 | Diet Go Go | 39872 | [39872-diet-go-go.json](./39872-diet-go-go.json) |
@@ -9765,6 +9768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diskophoros | 177233 | [177233-diskophoros.json](./177233-diskophoros.json) |
 | Dislyte | 172684 | [172684-dislyte.json](./172684-dislyte.json) |
 | Dismal Anhedonia Land | 179654 | [179654-dismal-anhedonia-land.json](./179654-dismal-anhedonia-land.json) |
+| Dismal Dreams | 399995 | [399995-dismal-dreams.json](./399995-dismal-dreams.json) |
 | Dismal Passages | 229221 | [229221-dismal-passages.json](./229221-dismal-passages.json) |
 | Dismal Reverie | 217124 | [217124-dismal-reverie.json](./217124-dismal-reverie.json) |
 | Dismal Signal | 271320 | [271320-dismal-signal.json](./271320-dismal-signal.json) |
@@ -14888,6 +14892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadhalls | 21561 | [21561-dreadhalls.json](./21561-dreadhalls.json) |
 | DreadHaunt | 205005 | [205005-dreadhaunt.json](./205005-dreadhaunt.json) |
 | DreadHaven: The Last Colony | 336597 | [336597-dreadhaven-the-last-colony.json](./336597-dreadhaven-the-last-colony.json) |
+| Dreadholm | 399356 | [399356-dreadholm.json](./399356-dreadholm.json) |
 | Dreadhunter | 221117 | [221117-dreadhunter.json](./221117-dreadhunter.json) |
 | Dreadlands | 117002 | [117002-dreadlands.json](./117002-dreadlands.json) |
 | Dreadline: Net Quota | 345686 | [345686-dreadline-net-quota.json](./345686-dreadline-net-quota.json) |
@@ -15808,6 +15813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driveloop: Survivors | 331731 | [331731-driveloop-survivors.json](./331731-driveloop-survivors.json) |
 | Driven | 210287 | [210287-driven.json](./210287-driven.json) |
 | Driven Out | 117524 | [117524-driven-out.json](./117524-driven-out.json) |
+| Driver | 399366 | [399366-driver.json](./399366-driver.json) |
 | Driver | 675 | [675-driver.json](./675-driver.json) |
 | Driver / Driver 2 Twin Pack | 382533 | [382533-driver-driver-2-twin-pack.json](./382533-driver-driver-2-twin-pack.json) |
 | Driver 2 Advance | 49199 | [49199-driver-2-advance.json](./49199-driver-2-advance.json) |
@@ -17862,6 +17868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust Breeding | 275470 | [275470-dust-breeding.json](./275470-dust-breeding.json) |
 | Dust Bunnies | 185554 | [185554-dust-bunnies.json](./185554-dust-bunnies.json) |
 | Dust Bunny | 342764 | [342764-dust-bunny.json](./342764-dust-bunny.json) |
+| Dust Bunny | 400005 | [400005-dust-bunny.json](./400005-dust-bunny.json) |
 | Dust Bunny Simulator | 412484 | [412484-dust-bunny-simulator.json](./412484-dust-bunny-simulator.json) |
 | Dust City | 141720 | [141720-dust-city.json](./141720-dust-city.json) |
 | Dust Courier | 285984 | [285984-dust-courier.json](./285984-dust-courier.json) |
