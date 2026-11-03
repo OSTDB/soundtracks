@@ -3284,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werehouse | 383183 | [383183-werehouse.json](./383183-werehouse.json) |
 | Werewolf Goldfish | 309054 | [309054-werewolf-goldfish.json](./309054-werewolf-goldfish.json) |
 | Werewolf Hunter X | 114244 | [114244-werewolf-hunter-x.json](./114244-werewolf-hunter-x.json) |
+| Werewolf Hunter: Night of Horror | 393876 | [393876-werewolf-hunter-night-of-horror.json](./393876-werewolf-hunter-night-of-horror.json) |
 | Werewolf Hunter: Survive the Howl | 330808 | [330808-werewolf-hunter-survive-the-howl.json](./330808-werewolf-hunter-survive-the-howl.json) |
 | Werewolf in the Wild | 183794 | [183794-werewolf-in-the-wild.json](./183794-werewolf-in-the-wild.json) |
 | Werewolf Island | 61150 | [61150-werewolf-island.json](./61150-werewolf-island.json) |
