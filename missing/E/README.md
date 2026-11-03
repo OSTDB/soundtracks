@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eco-Creatures: Save the Forest | 21280 | [21280-eco-creatures-save-the-forest.json](./21280-eco-creatures-save-the-forest.json) |
 | Eco-Rescue: Project Rainforest | 202165 | [202165-eco-rescue-project-rainforest.json](./202165-eco-rescue-project-rainforest.json) |
 | Eco-Sentinel: The Bottle Mission | 364957 | [364957-eco-sentinel-the-bottle-mission.json](./364957-eco-sentinel-the-bottle-mission.json) |
+| Eco: Saurus | 354747 | [354747-eco-saurus.json](./354747-eco-saurus.json) |
 | EcoChess | 339725 | [339725-ecochess.json](./339725-ecochess.json) |
 | Ecoco de Fight! | 342129 | [342129-ecoco-de-fight.json](./342129-ecoco-de-fight.json) |
 | EcoDriver | 233527 | [233527-ecodriver.json](./233527-ecodriver.json) |
@@ -6469,6 +6470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everdream Valley | 138613 | [138613-everdream-valley.json](./138613-everdream-valley.json) |
 | Everdream Valley: GOG Exclusive DLC | 250652 | [250652-everdream-valley-gog-exclusive-dlc.json](./250652-everdream-valley-gog-exclusive-dlc.json) |
 | Everdream Valley: Summer Fun DLC | 255154 | [255154-everdream-valley-summer-fun-dlc.json](./255154-everdream-valley-summer-fun-dlc.json) |
+| Everdream Village | 354894 | [354894-everdream-village.json](./354894-everdream-village.json) |
 | Everescape | 141428 | [141428-everescape.json](./141428-everescape.json) |
 | Everest | 95437 | [95437-everest.json](./95437-everest.json) |
 | Everest Ascent | 14058 | [14058-everest-ascent.json](./14058-everest-ascent.json) |
