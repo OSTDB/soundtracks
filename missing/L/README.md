@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Aventura De Axel | 74226 | [74226-la-aventura-de-axel.json](./74226-la-aventura-de-axel.json) |
 | La Bestia: The Migrant's Long Journey | 296485 | [296485-la-bestia-the-migrants-long-journey.json](./296485-la-bestia-the-migrants-long-journey.json) |
 | La Boîte à Bidules de l'Oncle Ernest | 285881 | [285881-la-boite-a-bidules-de-loncle-ernest.json](./285881-la-boite-a-bidules-de-loncle-ernest.json) |
+| La Bola Negra | 379309 | [379309-la-bola-negra.json](./379309-la-bola-negra.json) |
 | La Búsqueda del Dilmun: La Tabla de Rawls | 280058 | [280058-la-busqueda-del-dilmun-la-tabla-de-rawls.json](./280058-la-busqueda-del-dilmun-la-tabla-de-rawls.json) |
 | La Carbonara | 323172 | [323172-la-carbonara.json](./323172-la-carbonara.json) |
 | La Casa del Taquero | 379725 | [379725-la-casa-del-taquero.json](./379725-la-casa-del-taquero.json) |
@@ -9672,6 +9673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lycanthorn II: Rain of Beasts | 149688 | [149688-lycanthorn-ii-rain-of-beasts.json](./149688-lycanthorn-ii-rain-of-beasts.json) |
 | Lycanthorn III | 239592 | [239592-lycanthorn-iii.json](./239592-lycanthorn-iii.json) |
 | Lychnis | 125923 | [125923-lychnis.json](./125923-lychnis.json) |
+| Lycoris | 379603 | [379603-lycoris.json](./379603-lycoris.json) |
 | Lycoris;Lastwords | 319732 | [319732-lycoris-lastwords.json](./319732-lycoris-lastwords.json) |
 | Lycoris: Underworld | 413834 | [413834-lycoris-underworld.json](./413834-lycoris-underworld.json) |
 | Lydia: Sweet Dreams | 33409 | [33409-lydia-sweet-dreams.json](./33409-lydia-sweet-dreams.json) |
