@@ -4399,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrible Life Expectancy | 352386 | [352386-terrible-life-expectancy.json](./352386-terrible-life-expectancy.json) |
 | Terrible Lizards | 296564 | [296564-terrible-lizards.json](./296564-terrible-lizards.json) |
 | Terrible Teeth | 167156 | [167156-terrible-teeth.json](./167156-terrible-teeth.json) |
+| Terrier Manager | 390893 | [390893-terrier-manager.json](./390893-terrier-manager.json) |
 | Terrierble Logic | 251008 | [251008-terrierble-logic.json](./251008-terrierble-logic.json) |
 | Terrific Tennis | 183736 | [183736-terrific-tennis.json](./183736-terrific-tennis.json) |
 | Terrifying 9/11 | 165146 | [165146-terrifying-9-11.json](./165146-terrifying-9-11.json) |
@@ -10164,6 +10165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hike | 188920 | [188920-the-hike.json](./188920-the-hike.json) |
 | The Hiker | 279102 | [279102-the-hiker.json](./279102-the-hiker.json) |
 | The Hikyou Tankentai: Choutoko Special | 124270 | [124270-the-hikyou-tankentai-choutoko-special.json](./124270-the-hikyou-tankentai-choutoko-special.json) |
+| The Hilarious Three Kingdoms 2 | 390858 | [390858-the-hilarious-three-kingdoms-2.json](./390858-the-hilarious-three-kingdoms-2.json) |
 | The Hilltop Mansion | 149878 | [149878-the-hilltop-mansion.json](./149878-the-hilltop-mansion.json) |
 | The HinterLands | 33427 | [33427-the-hinterlands.json](./33427-the-hinterlands.json) |
 | The Hip Hop Dance Experience | 15561 | [15561-the-hip-hop-dance-experience.json](./15561-the-hip-hop-dance-experience.json) |
@@ -25899,6 +25901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townseek: Jam Version | 237782 | [237782-townseek-jam-version.json](./237782-townseek-jam-version.json) |
 | TownsFolk | 377956 | [377956-townsfolk.json](./377956-townsfolk.json) |
 | Township | 19526 | [19526-township.json](./19526-township.json) |
+| Townslife | 390881 | [390881-townslife.json](./390881-townslife.json) |
 | Townsmen | 32428 | [32428-townsmen.json](./32428-townsmen.json) |
 | Townsmen Racing | 198367 | [198367-townsmen-racing.json](./198367-townsmen-racing.json) |
 | Townsmen VR | 86445 | [86445-townsmen-vr.json](./86445-townsmen-vr.json) |
