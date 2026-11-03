@@ -5924,6 +5924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroShooti | 150910 | [150910-retroshooti.json](./150910-retroshooti.json) |
 | RetroSpace | 231488 | [231488-retrospace.json](./231488-retrospace.json) |
 | RetroSpace | 295608 | [295608-retrospace.json](./295608-retrospace.json) |
+| Retrospect | 376622 | [376622-retrospect.json](./376622-retrospect.json) |
 | RetroVamp | 126634 | [126634-retrovamp.json](./126634-retrovamp.json) |
 | Retrovirus | 15418 | [15418-retrovirus.json](./15418-retrovirus.json) |
 | Retrowave | 130243 | [130243-retrowave.json](./130243-retrowave.json) |
@@ -8481,6 +8482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roboden | 250878 | [250878-roboden.json](./250878-roboden.json) |
 | RoboDoc Jr. | 364594 | [364594-robodoc-jr.json](./364594-robodoc-jr.json) |
 | Robodunk | 152176 | [152176-robodunk.json](./152176-robodunk.json) |
+| RoboFarm | 376419 | [376419-robofarm.json](./376419-robofarm.json) |
 | RoboFight.io | 122888 | [122888-robofight-io.json](./122888-robofight-io.json) |
 | Roboforge | 92779 | [92779-roboforge.json](./92779-roboforge.json) |
 | RoboGal: Gaga Delta Lady | 306994 | [306994-robogal-gaga-delta-lady.json](./306994-robogal-gaga-delta-lady.json) |
