@@ -7425,6 +7425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabet Zoo | 12291 | [12291-alphabet-zoo.json](./12291-alphabet-zoo.json) |
 | Alphabet: Play with the ABCs | 206109 | [206109-alphabet-play-with-the-abcs.json](./206109-alphabet-play-with-the-abcs.json) |
 | Alphabetic | 80269 | [80269-alphabetic.json](./80269-alphabetic.json) |
+| Alphabetron | 364775 | [364775-alphabetron.json](./364775-alphabetron.json) |
 | Alphabets Machine | 89695 | [89695-alphabets-machine.json](./89695-alphabets-machine.json) |
 | Alphabetto's | 411622 | [411622-alphabettos.json](./411622-alphabettos.json) |
 | Alphabetty Saga | 116974 | [116974-alphabetty-saga.json](./116974-alphabetty-saga.json) |
@@ -9735,6 +9736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Artist 2: Lovely Danya | 129685 | [129685-anime-artist-2-lovely-danya.json](./129685-anime-artist-2-lovely-danya.json) |
 | Anime Artist 3: Harem | 158160 | [158160-anime-artist-3-harem.json](./158160-anime-artist-3-harem.json) |
 | Anime Artist: Tiffy’s Notty Secret | 167377 | [167377-anime-artist-tiffy-s-notty-secret.json](./167377-anime-artist-tiffy-s-notty-secret.json) |
+| Anime Assault: Hentai Girls 2025 | 364794 | [364794-anime-assault-hentai-girls-2025.json](./364794-anime-assault-hentai-girls-2025.json) |
 | Anime Babes: Solitaire | 110515 | [110515-anime-babes-solitaire.json](./110515-anime-babes-solitaire.json) |
 | Anime Beauty Girl Puzzle: Love Game History Adventure | 252699 | [252699-anime-beauty-girl-puzzle-love-game-history-adventure.json](./252699-anime-beauty-girl-puzzle-love-game-history-adventure.json) |
 | Anime Bowling Babes | 24997 | [24997-anime-bowling-babes.json](./24997-anime-bowling-babes.json) |
@@ -11668,6 +11670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Bomb Bee | 378489 | [378489-arcade-archives-2-bomb-bee.json](./378489-arcade-archives-2-bomb-bee.json) |
 | Arcade Archives 2: Bomb Jack Twin | 386175 | [386175-arcade-archives-2-bomb-jack-twin.json](./386175-arcade-archives-2-bomb-jack-twin.json) |
 | Arcade Archives 2: Cameltry | 404379 | [404379-arcade-archives-2-cameltry.json](./404379-arcade-archives-2-cameltry.json) |
+| Arcade Archives 2: Chopper 1 | 364793 | [364793-arcade-archives-2-chopper-1.json](./364793-arcade-archives-2-chopper-1.json) |
 | Arcade Archives 2: Combat School | 412762 | [412762-arcade-archives-2-combat-school.json](./412762-arcade-archives-2-combat-school.json) |
 | Arcade Archives 2: Cyber Commando | 400162 | [400162-arcade-archives-2-cyber-commando.json](./400162-arcade-archives-2-cyber-commando.json) |
 | Arcade Archives 2: Cyber Cycles | 414798 | [414798-arcade-archives-2-cyber-cycles.json](./414798-arcade-archives-2-cyber-cycles.json) |
