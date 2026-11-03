@@ -6034,6 +6034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon Protocol | 245880 | [245880-pigeon-protocol.json](./245880-pigeon-protocol.json) |
 | Pigeon Sim: Bird Simulator - Lady Pigeon DLC | 309063 | [309063-pigeon-sim-bird-simulator-lady-pigeon-dlc.json](./309063-pigeon-sim-bird-simulator-lady-pigeon-dlc.json) |
 | Pigeon Simulator | 120304 | [120304-pigeon-simulator.json](./120304-pigeon-simulator.json) |
+| Pigeon Simulator | 378321 | [378321-pigeon-simulator.json](./378321-pigeon-simulator.json) |
 | Pigeon Simulator Survival | 296459 | [296459-pigeon-simulator-survival.json](./296459-pigeon-simulator-survival.json) |
 | Pigeon Simulator: Bird Simulator - Premium Edition | 310429 | [310429-pigeon-simulator-bird-simulator-premium-edition.json](./310429-pigeon-simulator-bird-simulator-premium-edition.json) |
 | Pigeon Strike | 246000 | [246000-pigeon-strike.json](./246000-pigeon-strike.json) |
@@ -13303,6 +13304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Present Cannon Rebirth | 189835 | [189835-present-cannon-rebirth.json](./189835-present-cannon-rebirth.json) |
 | Present Danger | 169605 | [169605-present-danger.json](./169605-present-danger.json) |
 | Present For You | 64374 | [64374-present-for-you.json](./64374-present-for-you.json) |
+| Present Heist | 378132 | [378132-present-heist.json](./378132-present-heist.json) |
 | Present Memories: A Vox Akuma Fangame | 198338 | [198338-present-memories-a-vox-akuma-fangame.json](./198338-present-memories-a-vox-akuma-fangame.json) |
 | Present Panic | 320213 | [320213-present-panic.json](./320213-present-panic.json) |
 | Present Panic!: A Princess Adventure | 269877 | [269877-present-panic-a-princess-adventure.json](./269877-present-panic-a-princess-adventure.json) |
@@ -16754,6 +16756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Hold'em | 17840 | [17840-pure-holdem.json](./17840-pure-holdem.json) |
 | Pure Hold'em: Full House Poker Bundle | 90984 | [90984-pure-holdem-full-house-poker-bundle.json](./90984-pure-holdem-full-house-poker-bundle.json) |
 | Pure Idle | 398297 | [398297-pure-idle.json](./398297-pure-idle.json) |
+| Pure Instinct Katana | 378122 | [378122-pure-instinct-katana.json](./378122-pure-instinct-katana.json) |
 | Pure Logic | 189303 | [189303-pure-logic.json](./189303-pure-logic.json) |
 | Pure Love | 368048 | [368048-pure-love.json](./368048-pure-love.json) |
 | Pure Mahjong | 119518 | [119518-pure-mahjong.json](./119518-pure-mahjong.json) |
