@@ -10495,6 +10495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal Space | 33683 | [33683-fractal-space.json](./33683-fractal-space.json) |
 | Fractala Sandbox | 361028 | [361028-fractala-sandbox.json](./361028-fractala-sandbox.json) |
 | Fractalis | 121775 | [121775-fractalis.json](./121775-fractalis.json) |
+| Fractaloid Attacks! | 389850 | [389850-fractaloid-attacks.json](./389850-fractaloid-attacks.json) |
 | Fractals of Destiny | 256955 | [256955-fractals-of-destiny.json](./256955-fractals-of-destiny.json) |
 | Fractasia VR | 105997 | [105997-fractasia-vr.json](./105997-fractasia-vr.json) |
 | Fracter | 101167 | [101167-fracter.json](./101167-fracter.json) |
