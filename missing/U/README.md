@@ -2983,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upgrade the game 2 | 118655 | [118655-upgrade-the-game-2.json](./118655-upgrade-the-game-2.json) |
 | Upgrade the game 3: Spaceship | 251078 | [251078-upgrade-the-game-3-spaceship.json](./251078-upgrade-the-game-3-spaceship.json) |
 | Upgrade VR | 192550 | [192550-upgrade-vr.json](./192550-upgrade-vr.json) |
+| Upgrade! Inc. | 394309 | [394309-upgrade-inc.json](./394309-upgrade-inc.json) |
 | Upgraded | 338582 | [338582-upgraded.json](./338582-upgraded.json) |
 | Upgrades & Enemies | 362271 | [362271-upgrades-and-enemies.json](./362271-upgrades-and-enemies.json) |
 | UpGun | 152406 | [152406-upgun.json](./152406-upgun.json) |
