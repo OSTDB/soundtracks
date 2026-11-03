@@ -9009,11 +9009,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Season 8 - Marching Fire | 103318 | [103318-for-honor-season-8-marching-fire.json](./103318-for-honor-season-8-marching-fire.json) |
 | For Honor: Sohei - Hero | 367110 | [367110-for-honor-sohei-hero.json](./367110-for-honor-sohei-hero.json) |
 | For Honor: Starter Edition | 216232 | [216232-for-honor-starter-edition.json](./216232-for-honor-starter-edition.json) |
+| For Honor: The Crucible Lord – Centurion Hero Skin | 360851 | [360851-for-honor-the-crucible-lord-centurion-hero-skin.json](./360851-for-honor-the-crucible-lord-centurion-hero-skin.json) |
 | For Honor: The Muramasa Blade | 305235 | [305235-for-honor-the-muramasa-blade.json](./305235-for-honor-the-muramasa-blade.json) |
 | For Honor: The Oni's Hunt Deluxe - Hero Skin Bundle | 415019 | [415019-for-honor-the-onis-hunt-deluxe-hero-skin-bundle.json](./415019-for-honor-the-onis-hunt-deluxe-hero-skin-bundle.json) |
 | For Honor: The Oni's Wrath – Sohei Hero Skin | 408965 | [408965-for-honor-the-onis-wrath-sohei-hero-skin.json](./408965-for-honor-the-onis-wrath-sohei-hero-skin.json) |
 | For Honor: The Scorching Herald – Gryphon Legendary Hero Skin | 408967 | [408967-for-honor-the-scorching-herald-gryphon-legendary-hero-skin.json](./408967-for-honor-the-scorching-herald-gryphon-legendary-hero-skin.json) |
 | For Honor: The Unsung Knight - Warden Hero Skin | 367109 | [367109-for-honor-the-unsung-knight-warden-hero-skin.json](./367109-for-honor-the-unsung-knight-warden-hero-skin.json) |
+| For Honor: The Violet King - Lawbringer Hero Skin | 360852 | [360852-for-honor-the-violet-king-lawbringer-hero-skin.json](./360852-for-honor-the-violet-king-lawbringer-hero-skin.json) |
 | For Honor: The Warrior Prince - Aramusha Hero Skin | 367113 | [367113-for-honor-the-warrior-prince-aramusha-hero-skin.json](./367113-for-honor-the-warrior-prince-aramusha-hero-skin.json) |
 | For Honor: Ultimate Edition | 291540 | [291540-for-honor-ultimate-edition.json](./291540-for-honor-ultimate-edition.json) |
 | For Honor: Ultimate Heroes Pack | 305767 | [305767-for-honor-ultimate-heroes-pack.json](./305767-for-honor-ultimate-heroes-pack.json) |
@@ -9452,6 +9454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Chambers | 29978 | [29978-forgotten-chambers.json](./29978-forgotten-chambers.json) |
 | Forgotten Depths | 381034 | [381034-forgotten-depths.json](./381034-forgotten-depths.json) |
 | Forgotten Dreams | 340233 | [340233-forgotten-dreams.json](./340233-forgotten-dreams.json) |
+| Forgotten Dreams | 360865 | [360865-forgotten-dreams.json](./360865-forgotten-dreams.json) |
 | Forgotten Eras | 368499 | [368499-forgotten-eras.json](./368499-forgotten-eras.json) |
 | Forgotten Fables | 320609 | [320609-forgotten-fables.json](./320609-forgotten-fables.json) |
 | Forgotten Fables: Wolves on the Westwind | 195567 | [195567-forgotten-fables-wolves-on-the-westwind.json](./195567-forgotten-fables-wolves-on-the-westwind.json) |
@@ -10618,6 +10621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Atmosphere | 151399 | [151399-fractured-atmosphere.json](./151399-fractured-atmosphere.json) |
 | Fractured Balance | 352290 | [352290-fractured-balance.json](./352290-fractured-balance.json) |
 | Fractured Blooms | 347648 | [347648-fractured-blooms.json](./347648-fractured-blooms.json) |
+| Fractured Dream | 360841 | [360841-fractured-dream.json](./360841-fractured-dream.json) |
 | Fractured Dreams | 229646 | [229646-fractured-dreams.json](./229646-fractured-dreams.json) |
 | Fractured Fairy Tales: The Frog Prince | 91798 | [91798-fractured-fairy-tales-the-frog-prince.json](./91798-fractured-fairy-tales-the-frog-prince.json) |
 | Fractured Fury | 244216 | [244216-fractured-fury.json](./244216-fractured-fury.json) |
@@ -12142,6 +12146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostpunk: Victorian Edition | 90295 | [90295-frostpunk-victorian-edition.json](./90295-frostpunk-victorian-edition.json) |
 | Frostrail | 339609 | [339609-frostrail.json](./339609-frostrail.json) |
 | Frostrain | 283575 | [283575-frostrain.json](./283575-frostrain.json) |
+| Frostrain 2 | 361012 | [361012-frostrain-2.json](./361012-frostrain-2.json) |
 | FrostRunner | 113391 | [113391-frostrunner.json](./113391-frostrunner.json) |
 | Frostveil: The Last Winter | 389580 | [389580-frostveil-the-last-winter.json](./389580-frostveil-the-last-winter.json) |
 | Frostwake: The Last Ember | 423225 | [423225-frostwake-the-last-ember.json](./423225-frostwake-the-last-ember.json) |
