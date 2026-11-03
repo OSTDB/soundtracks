@@ -5038,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Warehouse | 312124 | [312124-escape-from-warehouse.json](./312124-escape-from-warehouse.json) |
 | Escape from witch cottage! | 183173 | [183173-escape-from-witch-cottage.json](./183173-escape-from-witch-cottage.json) |
 | Escape From Woomera | 172108 | [172108-escape-from-woomera.json](./172108-escape-from-woomera.json) |
+| Escape from Wormwood | 396306 | [396306-escape-from-wormwood.json](./396306-escape-from-wormwood.json) |
 | Escape From Yandere | 388741 | [388741-escape-from-yandere.json](./388741-escape-from-yandere.json) |
 | Escape from Zellman Orbital | 31741 | [31741-escape-from-zellman-orbital.json](./31741-escape-from-zellman-orbital.json) |
 | Escape from Zeta Aurigae | 291240 | [291240-escape-from-zeta-aurigae.json](./291240-escape-from-zeta-aurigae.json) |
@@ -7444,6 +7445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expeditions: Viking | 10501 | [10501-expeditions-viking.json](./10501-expeditions-viking.json) |
 | Expel | 156947 | [156947-expel.json](./156947-expel.json) |
 | Expel | 246827 | [246827-expel.json](./246827-expel.json) |
+| Expelled from Paradise: The Stellar Angel | 396301 | [396301-expelled-from-paradise-the-stellar-angel.json](./396301-expelled-from-paradise-the-stellar-angel.json) |
 | Expelled! | 331180 | [331180-expelled.json](./331180-expelled.json) |
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
 | Expendable | 54012 | [54012-expendable.json](./54012-expendable.json) |
