@@ -1992,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang Dream! Garupa AR! | 220326 | [220326-bang-dream-garupa-ar.json](./220326-bang-dream-garupa-ar.json) |
 | BanG Dream! Girls Band Party! for Nintendo Switch | 152887 | [152887-bang-dream-girls-band-party-for-nintendo-switch.json](./152887-bang-dream-girls-band-party-for-nintendo-switch.json) |
 | Bang For Your Truck | 133137 | [133137-bang-for-your-truck.json](./133137-bang-for-your-truck.json) |
+| Bang Pass Duel | 390326 | [390326-bang-pass-duel.json](./390326-bang-pass-duel.json) |
 | Bang Shoot. | 409604 | [409604-bang-shoot.json](./409604-bang-shoot.json) |
 | Bang-On Balls: Chronicles | 143882 | [143882-bang-on-balls-chronicles.json](./143882-bang-on-balls-chronicles.json) |
 | Bang-On Balls: Chronicles - Deluxe Edition | 288284 | [288284-bang-on-balls-chronicles-deluxe-edition.json](./288284-bang-on-balls-chronicles-deluxe-edition.json) |
@@ -5664,6 +5665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetle King | 18540 | [18540-beetle-king.json](./18540-beetle-king.json) |
 | Beetle Nest | 283987 | [283987-beetle-nest.json](./283987-beetle-nest.json) |
 | Beetle Ninja | 145265 | [145265-beetle-ninja.json](./145265-beetle-ninja.json) |
+| Beetle Shock | 390364 | [390364-beetle-shock.json](./390364-beetle-shock.json) |
 | Beetle Sumo | 408435 | [408435-beetle-sumo.json](./408435-beetle-sumo.json) |
 | Beetle Uprising | 55506 | [55506-beetle-uprising.json](./55506-beetle-uprising.json) |
 | Beetle.io | 240338 | [240338-beetle-io.json](./240338-beetle-io.json) |
@@ -10129,6 +10131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockicker | 148808 | [148808-blockicker.json](./148808-blockicker.json) |
 | Blockids | 45082 | [45082-blockids.json](./45082-blockids.json) |
 | Blockies VR | 193204 | [193204-blockies-vr.json](./193204-blockies-vr.json) |
+| Blocking Blocks | 390338 | [390338-blocking-blocks.json](./390338-blocking-blocks.json) |
 | Blockits | 292950 | [292950-blockits.json](./292950-blockits.json) |
 | Blockiverse | 125799 | [125799-blockiverse.json](./125799-blockiverse.json) |
 | Blockiverse: Camouflage | 106144 | [106144-blockiverse-camouflage.json](./106144-blockiverse-camouflage.json) |
@@ -14362,6 +14365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreakBall: Time Travel | 146890 | [146890-breakball-time-travel.json](./146890-breakball-time-travel.json) |
 | Breakbeat Alley | 200048 | [200048-breakbeat-alley.json](./200048-breakbeat-alley.json) |
 | BreakBlast | 153330 | [153330-breakblast.json](./153330-breakblast.json) |
+| Breakbox | 390349 | [390349-breakbox.json](./390349-breakbox.json) |
 | Breakdown | 195948 | [195948-breakdown.json](./195948-breakdown.json) |
 | Breakdown | 5756 | [5756-breakdown.json](./5756-breakdown.json) |
 | Breaker | 134344 | [134344-breaker.json](./134344-breaker.json) |
