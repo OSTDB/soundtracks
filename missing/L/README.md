@@ -1553,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night Confessional | 321641 | [321641-late-night-confessional.json](./321641-late-night-confessional.json) |
 | Late Night Delivery: The Bewitched Collection | 260290 | [260290-late-night-delivery-the-bewitched-collection.json](./260290-late-night-delivery-the-bewitched-collection.json) |
 | Late Night Drift | 285890 | [285890-late-night-drift.json](./285890-late-night-drift.json) |
+| Late Night Duty | 388689 | [388689-late-night-duty.json](./388689-late-night-duty.json) |
 | Late Night Fears | 405939 | [405939-late-night-fears.json](./405939-late-night-fears.json) |
 | Late Night Gas Station | 205989 | [205989-late-night-gas-station.json](./205989-late-night-gas-station.json) |
 | Late Night Hunger | 304092 | [304092-late-night-hunger.json](./304092-late-night-hunger.json) |
