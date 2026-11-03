@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Girls: Mighty Mongolian | 370815 | [370815-kawaii-girls-mighty-mongolian.json](./370815-kawaii-girls-mighty-mongolian.json) |
 | Kawaii Girls: Pretty Mermaid | 370814 | [370814-kawaii-girls-pretty-mermaid.json](./370814-kawaii-girls-pretty-mermaid.json) |
 | Kawaii Girls: Rural Romance | 364079 | [364079-kawaii-girls-rural-romance.json](./364079-kawaii-girls-rural-romance.json) |
+| Kawaii Girls: Vegas Romance | 385095 | [385095-kawaii-girls-vegas-romance.json](./385095-kawaii-girls-vegas-romance.json) |
 | Kawaii Girls: Venice Crush | 362204 | [362204-kawaii-girls-venice-crush.json](./362204-kawaii-girls-venice-crush.json) |
 | Kawaii Hamster | 49756 | [49756-kawaii-hamster.json](./49756-kawaii-hamster.json) |
 | Kawaii Hentai Girls | 366530 | [366530-kawaii-hentai-girls.json](./366530-kawaii-hentai-girls.json) |
@@ -2019,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Club | 318716 | [318716-kick-club.json](./318716-kick-club.json) |
 | Kick Goal | 40341 | [40341-kick-goal.json](./40341-kick-goal.json) |
 | Kick It | 94198 | [94198-kick-it.json](./94198-kick-it.json) |
+| Kick It to Stickman | 385094 | [385094-kick-it-to-stickman.json](./385094-kick-it-to-stickman.json) |
 | Kick it, Bunny! | 143109 | [143109-kick-it-bunny.json](./143109-kick-it-bunny.json) |
 | Kick Kirby | 335779 | [335779-kick-kirby.json](./335779-kick-kirby.json) |
 | Kick Master | 368602 | [368602-kick-master.json](./368602-kick-master.json) |
