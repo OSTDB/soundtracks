@@ -1132,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katana | 358917 | [358917-katana.json](./358917-katana.json) |
 | Katana Action | 57132 | [57132-katana-action.json](./57132-katana-action.json) |
 | Katana Dragon | 326631 | [326631-katana-dragon.json](./326631-katana-dragon.json) |
+| Katana Hime | 375486 | [375486-katana-hime.json](./375486-katana-hime.json) |
 | Katana Kami: A Way of the Samurai Story | 125296 | [125296-katana-kami-a-way-of-the-samurai-story.json](./125296-katana-kami-a-way-of-the-samurai-story.json) |
 | Katana Master | 256933 | [256933-katana-master.json](./256933-katana-master.json) |
 | Katana Of Rin | 297223 | [297223-katana-of-rin.json](./297223-katana-of-rin.json) |
@@ -2700,7 +2701,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5710,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuguru | 159653 | [159653-kuguru.json](./159653-kuguru.json) |
 | Kuiper Belt Plaza | 183992 | [183992-kuiper-belt-plaza.json](./183992-kuiper-belt-plaza.json) |
 | Kuiper Belt Survivor | 304563 | [304563-kuiper-belt-survivor.json](./304563-kuiper-belt-survivor.json) |
+| Kuiper Roulette | 375116 | [375116-kuiper-roulette.json](./375116-kuiper-roulette.json) |
 | Kuis Iseng Kaesang | 303108 | [303108-kuis-iseng-kaesang.json](./303108-kuis-iseng-kaesang.json) |
 | Kuizu! Batounea! | 411565 | [411565-kuizu-batounea.json](./411565-kuizu-batounea.json) |
 | Kujaku-ou 2 | 45550 | [45550-kujaku-ou-2.json](./45550-kujaku-ou-2.json) |
