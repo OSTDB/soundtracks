@@ -2083,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkmoor Hold | 356660 | [356660-darkmoor-hold.json](./356660-darkmoor-hold.json) |
 | Darkmoor Manor | 102791 | [102791-darkmoor-manor.json](./102791-darkmoor-manor.json) |
 | Darkness | 145589 | [145589-darkness.json](./145589-darkness.json) |
+| Darkness | 393845 | [393845-darkness.json](./393845-darkness.json) |
 | Darkness Ahead | 30821 | [30821-darkness-ahead.json](./30821-darkness-ahead.json) |
 | Darkness and Fear: Eerie Shadows | 271658 | [271658-darkness-and-fear-eerie-shadows.json](./271658-darkness-and-fear-eerie-shadows.json) |
 | Darkness and Flame: Born of Fire | 31292 | [31292-darkness-and-flame-born-of-fire.json](./31292-darkness-and-flame-born-of-fire.json) |
@@ -3972,6 +3973,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Traps Premium | 185941 | [185941-deadly-traps-premium.json](./185941-deadly-traps-premium.json) |
 | Deadly Trick | 368801 | [368801-deadly-trick.json](./368801-deadly-trick.json) |
 | Deadly Tropics | 97256 | [97256-deadly-tropics.json](./97256-deadly-tropics.json) |
+| Deadly Venom | 393864 | [393864-deadly-venom.json](./393864-deadly-venom.json) |
+| Deadly Venom 2: Origins | 393877 | [393877-deadly-venom-2-origins.json](./393877-deadly-venom-2-origins.json) |
+| Deadly Venom 3 | 393880 | [393880-deadly-venom-3.json](./393880-deadly-venom-3.json) |
+| Deadly Venom: SA | 393881 | [393881-deadly-venom-sa.json](./393881-deadly-venom-sa.json) |
 | Deadly Voltage: Rise of the Invincible | 52866 | [52866-deadly-voltage-rise-of-the-invincible.json](./52866-deadly-voltage-rise-of-the-invincible.json) |
 | Deadly Way | 151004 | [151004-deadly-way.json](./151004-deadly-way.json) |
 | Deadman Diaries | 197848 | [197848-deadman-diaries.json](./197848-deadman-diaries.json) |
