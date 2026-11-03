@@ -1328,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zom: Rise of the Apocalypse | 239796 | [239796-zom-rise-of-the-apocalypse.json](./239796-zom-rise-of-the-apocalypse.json) |
 | Zomb | 120071 | [120071-zomb.json](./120071-zomb.json) |
 | Zomb Bomb | 287679 | [287679-zomb-bomb.json](./287679-zomb-bomb.json) |
+| Zomb Zerro - 999 | 377726 | [377726-zomb-zerro-999.json](./377726-zomb-zerro-999.json) |
 | Zombactory | 267021 | [267021-zombactory.json](./267021-zombactory.json) |
 | Zombaliens | 185370 | [185370-zombaliens.json](./185370-zombaliens.json) |
 | Zombapocalypse | 25753 | [25753-zombapocalypse.json](./25753-zombapocalypse.json) |
