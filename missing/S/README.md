@@ -8837,6 +8837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shore of Jord | 326861 | [326861-shore-of-jord.json](./326861-shore-of-jord.json) |
 | Shorekeeper | 385694 | [385694-shorekeeper.json](./385694-shorekeeper.json) |
 | Shores of Hazeron | 66413 | [66413-shores-of-hazeron.json](./66413-shores-of-hazeron.json) |
+| Shores of Vaelithar | 380353 | [380353-shores-of-vaelithar.json](./380353-shores-of-vaelithar.json) |
 | Shores Unknown | 116689 | [116689-shores-unknown.json](./116689-shores-unknown.json) |
 | Shoresy: Legends of the North | 156832 | [156832-shoresy-legends-of-the-north.json](./156832-shoresy-legends-of-the-north.json) |
 | Short 'n Quick | 274203 | [274203-short-n-quick.json](./274203-short-n-quick.json) |
@@ -9187,6 +9188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrouded Mind | 297979 | [297979-shrouded-mind.json](./297979-shrouded-mind.json) |
 | Shrouded Siege | 374052 | [374052-shrouded-siege.json](./374052-shrouded-siege.json) |
 | Shrouded Space | 300335 | [300335-shrouded-space.json](./300335-shrouded-space.json) |
+| Shrouded Suns | 380348 | [380348-shrouded-suns.json](./380348-shrouded-suns.json) |
 | Shrouded Tales: Revenge of Shadows | 139741 | [139741-shrouded-tales-revenge-of-shadows.json](./139741-shrouded-tales-revenge-of-shadows.json) |
 | Shrouded Tales: The Spellbound Land | 139743 | [139743-shrouded-tales-the-spellbound-land.json](./139743-shrouded-tales-the-spellbound-land.json) |
 | Shrouded Tales: The Spellbound Land - Collector's Edition | 30401 | [30401-shrouded-tales-the-spellbound-land-collectors-edition.json](./30401-shrouded-tales-the-spellbound-land-collectors-edition.json) |
@@ -10031,6 +10033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Fish | 83268 | [83268-silicon-fish.json](./83268-silicon-fish.json) |
 | Silicon Foundry | 401759 | [401759-silicon-foundry.json](./401759-silicon-foundry.json) |
 | Silicon Girl | 384581 | [384581-silicon-girl.json](./384581-silicon-girl.json) |
+| Silicon Heart: AI Girl Lovestory | 380361 | [380361-silicon-heart-ai-girl-lovestory.json](./380361-silicon-heart-ai-girl-lovestory.json) |
 | Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
 | Silicon Rising | 128041 | [128041-silicon-rising.json](./128041-silicon-rising.json) |
 | Silicon Scars | 382829 | [382829-silicon-scars.json](./382829-silicon-scars.json) |
@@ -10251,6 +10254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCopter | 1496 | [1496-simcopter.json](./1496-simcopter.json) |
 | SimDrive | 60881 | [60881-simdrive.json](./60881-simdrive.json) |
 | Sime is Back | 297854 | [297854-sime-is-back.json](./297854-sime-is-back.json) |
+| Sime Is Back 18+ | 380363 | [380363-sime-is-back-18.json](./380363-sime-is-back-18.json) |
 | Sime Is Back: 3D Old School | 340370 | [340370-sime-is-back-3d-old-school.json](./340370-sime-is-back-3d-old-school.json) |
 | SimEarth: The Living Planet | 42017 | [42017-simearth-the-living-planet.json](./42017-simearth-the-living-planet.json) |
 | SimEarth: The Living Planet | 44456 | [44456-simearth-the-living-planet.json](./44456-simearth-the-living-planet.json) |
