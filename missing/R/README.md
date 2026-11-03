@@ -1740,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randall the Grape Jelly Cube Goes to Soda Valley for Some Reason | 384556 | [384556-randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason.json](./384556-randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason.json) |
 | Randamn | 23936 | [23936-randamn.json](./23936-randamn.json) |
 | Randar no Bouken | 73087 | [73087-randar-no-bouken.json](./73087-randar-no-bouken.json) |
+| Randel's Quest | 378478 | [378478-randels-quest.json](./378478-randels-quest.json) |
 | Randnet Disk | 94725 | [94725-randnet-disk.json](./94725-randnet-disk.json) |
 | Rando'Knights | 275491 | [275491-randoknights.json](./275491-randoknights.json) |
 | RandoJumper | 308148 | [308148-randojumper.json](./308148-randojumper.json) |
@@ -5861,6 +5862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro/Grade | 16431 | [16431-retro-grade.json](./16431-retro-grade.json) |
 | Retro/Grade + Soundtrack | 121420 | [121420-retro-grade-soundtrack.json](./121420-retro-grade-soundtrack.json) |
 | Retro64 | 198234 | [198234-retro64.json](./198234-retro64.json) |
+| RetroAchievements Vanilla Level Design Contest Vol. 1 | 378483 | [378483-retroachievements-vanilla-level-design-contest-vol-1.json](./378483-retroachievements-vanilla-level-design-contest-vol-1.json) |
 | RetroBlazer | 322198 | [322198-retroblazer.json](./322198-retroblazer.json) |
 | Retrobloc CPC | 290318 | [290318-retrobloc-cpc.json](./290318-retrobloc-cpc.json) |
 | Retrobomber | 25520 | [25520-retrobomber.json](./25520-retrobomber.json) |
@@ -6159,6 +6161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Mutant Camels | 40918 | [40918-revenge-of-the-mutant-camels.json](./40918-revenge-of-the-mutant-camels.json) |
 | Revenge of the Ninja HD Remaster | 255873 | [255873-revenge-of-the-ninja-hd-remaster.json](./255873-revenge-of-the-ninja-hd-remaster.json) |
 | Revenge of the Ronin | 277302 | [277302-revenge-of-the-ronin.json](./277302-revenge-of-the-ronin.json) |
+| Revenge of the Savage Planet: Bingo Brawl | 378129 | [378129-revenge-of-the-savage-planet-bingo-brawl.json](./378129-revenge-of-the-savage-planet-bingo-brawl.json) |
 | Revenge of the Savage Planet: Cosmic Hoarder Edition | 336145 | [336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json](./336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json) |
 | Revenge of the Savage Planet: Day One Edition | 324773 | [324773-revenge-of-the-savage-planet-day-one-edition.json](./324773-revenge-of-the-savage-planet-day-one-edition.json) |
 | Revenge of the Shadow Ninja | 244709 | [244709-revenge-of-the-shadow-ninja.json](./244709-revenge-of-the-shadow-ninja.json) |
@@ -7553,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Phoenix | 42650 | [42650-rise-of-the-phoenix.json](./42650-rise-of-the-phoenix.json) |
 | Rise of the Pirates | 114802 | [114802-rise-of-the-pirates.json](./114802-rise-of-the-pirates.json) |
 | Rise of the Ravager | 51671 | [51671-rise-of-the-ravager.json](./51671-rise-of-the-ravager.json) |
+| Rise of the Reds | 378467 | [378467-rise-of-the-reds.json](./378467-rise-of-the-reds.json) |
 | Rise of the Robots | 368887 | [368887-rise-of-the-robots.json](./368887-rise-of-the-robots.json) |
 | Rise of the Robots X | 191127 | [191127-rise-of-the-robots-x.json](./191127-rise-of-the-robots-x.json) |
 | Rise of the Ronin: Digital Deluxe Edition | 284585 | [284585-rise-of-the-ronin-digital-deluxe-edition.json](./284585-rise-of-the-ronin-digital-deluxe-edition.json) |
@@ -9530,6 +9534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Cube Defense | 234523 | [234523-rogue-cube-defense.json](./234523-rogue-cube-defense.json) |
 | Rogue Day | 253610 | [253610-rogue-day.json](./253610-rogue-day.json) |
 | Rogue Defense | 305934 | [305934-rogue-defense.json](./305934-rogue-defense.json) |
+| Rogue Descent | 378464 | [378464-rogue-descent.json](./378464-rogue-descent.json) |
 | Rogue Dice | 217027 | [217027-rogue-dice.json](./217027-rogue-dice.json) |
 | Rogue Doodle | 395195 | [395195-rogue-doodle.json](./395195-rogue-doodle.json) |
 | Rogue Door Defense | 198153 | [198153-rogue-door-defense.json](./198153-rogue-door-defense.json) |
