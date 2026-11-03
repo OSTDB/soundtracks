@@ -1279,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Whispers in the Walls | 263560 | [263560-warframe-whispers-in-the-walls.json](./263560-warframe-whispers-in-the-walls.json) |
 | Warframe: Zephyr Rises | 200853 | [200853-warframe-zephyr-rises.json](./200853-warframe-zephyr-rises.json) |
 | WarFriends: PvP Army Shooter | 87479 | [87479-warfriends-pvp-army-shooter.json](./87479-warfriends-pvp-army-shooter.json) |
+| Warfront | 365367 | [365367-warfront.json](./365367-warfront.json) |
 | Warfront 2020 | 216845 | [216845-warfront-2020.json](./216845-warfront-2020.json) |
 | Warfront Defenders: Westerplatte | 54723 | [54723-warfront-defenders-westerplatte.json](./54723-warfront-defenders-westerplatte.json) |
 | Warfront Nations | 361299 | [361299-warfront-nations.json](./361299-warfront-nations.json) |
