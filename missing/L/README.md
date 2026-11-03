@@ -6115,6 +6115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Cell | 253399 | [253399-living-cell.json](./253399-living-cell.json) |
 | Living Dark | 77355 | [77355-living-dark.json](./77355-living-dark.json) |
 | Living Dead House | 365730 | [365730-living-dead-house.json](./365730-living-dead-house.json) |
+| Living Dead Outbreak | 389910 | [389910-living-dead-outbreak.json](./389910-living-dead-outbreak.json) |
 | Living Dolls Rebirth Alpha | 270030 | [270030-living-dolls-rebirth-alpha.json](./270030-living-dolls-rebirth-alpha.json) |
 | Living in 2020 | 368909 | [368909-living-in-2020.json](./368909-living-in-2020.json) |
 | Living in a Brothel | 304293 | [304293-living-in-a-brothel.json](./304293-living-in-a-brothel.json) |
@@ -7821,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Light | 210887 | [210887-lost-light.json](./210887-lost-light.json) |
 | Lost Light: Bright Mates | 301881 | [301881-lost-light-bright-mates.json](./301881-lost-light-bright-mates.json) |
 | Lost Liminal | 348567 | [348567-lost-liminal.json](./348567-lost-liminal.json) |
+| Lost Little Things | 389912 | [389912-lost-little-things.json](./389912-lost-little-things.json) |
 | Lost Lost Lost | 330507 | [330507-lost-lost-lost.json](./330507-lost-lost-lost.json) |
 | Lost Love Island | 278148 | [278148-lost-love-island.json](./278148-lost-love-island.json) |
 | Lost Luggage | 18501 | [18501-lost-luggage.json](./18501-lost-luggage.json) |
