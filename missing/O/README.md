@@ -3663,7 +3663,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital X | 31797 | [31797-orbital-x.json](./31797-orbital-x.json) |
 | Orbitality | 81007 | [81007-orbitality.json](./81007-orbitality.json) |
 | Orbitals | 133119 | [133119-orbitals.json](./133119-orbitals.json) |
-| Orbitals | 381237 | [381237-orbitals.json](./381237-orbitals.json) |
 | Orbitals: Deluxe Edition | 407108 | [407108-orbitals-deluxe-edition.json](./407108-orbitals-deluxe-edition.json) |
 | Orbitblazers | 127509 | [127509-orbitblazers.json](./127509-orbitblazers.json) |
 | Orbitcore | 408439 | [408439-orbitcore.json](./408439-orbitcore.json) |
