@@ -1095,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Infinite | 277301 | [277301-vegas-infinite.json](./277301-vegas-infinite.json) |
 | Vegas Infinite by PokerStars | 110104 | [110104-vegas-infinite-by-pokerstars.json](./110104-vegas-infinite-by-pokerstars.json) |
 | Vegas Jackpot | 416711 | [416711-vegas-jackpot.json](./416711-vegas-jackpot.json) |
+| Vegas Nights | 383989 | [383989-vegas-nights.json](./383989-vegas-nights.json) |
 | Vegas Party | 51058 | [51058-vegas-party.json](./51058-vegas-party.json) |
 | Vegas Party | 85832 | [85832-vegas-party.json](./85832-vegas-party.json) |
 | Vegas Pool Sharks | 88685 | [88685-vegas-pool-sharks.json](./88685-vegas-pool-sharks.json) |
@@ -2527,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Family: Happy Mom Care | 108613 | [108613-virtual-family-happy-mom-care.json](./108613-virtual-family-happy-mom-care.json) |
 | Virtual Farm 2 | 53157 | [53157-virtual-farm-2.json](./53157-virtual-farm-2.json) |
 | Virtual Fight World | 311231 | [311231-virtual-fight-world.json](./311231-virtual-fight-world.json) |
+| Virtual Fighter Maneuvers | 383982 | [383982-virtual-fighter-maneuvers.json](./383982-virtual-fighter-maneuvers.json) |
 | Virtual Fighting Championship | 103360 | [103360-virtual-fighting-championship.json](./103360-virtual-fighting-championship.json) |
 | Virtual Firearm Simulations | 308186 | [308186-virtual-firearm-simulations.json](./308186-virtual-firearm-simulations.json) |
 | Virtual Fishing | 50597 | [50597-virtual-fishing.json](./50597-virtual-fishing.json) |
