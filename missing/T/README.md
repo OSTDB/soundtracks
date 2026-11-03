@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T.W.I.R.L. | 399150 | [399150-t-w-i-r-l.json](./399150-t-w-i-r-l.json) |
 | T'ai Fu: Wrath of the Tiger | 8279 | [8279-tai-fu-wrath-of-the-tiger.json](./8279-tai-fu-wrath-of-the-tiger.json) |
 | T'Was a Time of Dread | 122639 | [122639-twas-a-time-of-dread.json](./122639-twas-a-time-of-dread.json) |
+| T*riff U!! | 369817 | [369817-t-riff-u.json](./369817-t-riff-u.json) |
 | T^2.5 | 169731 | [169731-t-2-5.json](./169731-t-2-5.json) |
 | T10X Car Simulator | 256718 | [256718-t10x-car-simulator.json](./256718-t10x-car-simulator.json) |
 | T1wre3: Noname | 329161 | [329161-t1wre3-noname.json](./329161-t1wre3-noname.json) |
@@ -10791,6 +10792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Islands of Freedom | 320307 | [320307-the-islands-of-freedom.json](./320307-the-islands-of-freedom.json) |
 | The Isle | 25838 | [25838-the-isle.json](./25838-the-isle.json) |
 | The Isle is Full of Noises | 159080 | [159080-the-isle-is-full-of-noises.json](./159080-the-isle-is-full-of-noises.json) |
+| The Isle of Cats | 369798 | [369798-the-isle-of-cats.json](./369798-the-isle-of-cats.json) |
 | The Isle of Elanor | 152845 | [152845-the-isle-of-elanor.json](./152845-the-isle-of-elanor.json) |
 | The Isle of Lost Bees | 404945 | [404945-the-isle-of-lost-bees.json](./404945-the-isle-of-lost-bees.json) |
 | The Isle of the Dead | 118320 | [118320-the-isle-of-the-dead.json](./118320-the-isle-of-the-dead.json) |
@@ -28513,6 +28515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash | 94319 | [94319-trash.json](./94319-trash.json) |
 | Trash & Fists | 244093 | [244093-trash-and-fists.json](./244093-trash-and-fists.json) |
 | Trash Bandits | 125430 | [125430-trash-bandits.json](./125430-trash-bandits.json) |
+| Trash Battle | 369795 | [369795-trash-battle.json](./369795-trash-battle.json) |
 | Trash Card Adventure | 373794 | [373794-trash-card-adventure.json](./373794-trash-card-adventure.json) |
 | Trash Coin | 410697 | [410697-trash-coin.json](./410697-trash-coin.json) |
 | Trash Collector Simulator: Survive Edition | 351029 | [351029-trash-collector-simulator-survive-edition.json](./351029-trash-collector-simulator-survive-edition.json) |
