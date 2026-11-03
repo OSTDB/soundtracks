@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab Crisis | 205580 | [205580-lab-crisis.json](./205580-lab-crisis.json) |
 | Lab Eject | 368595 | [368595-lab-eject.json](./368595-lab-eject.json) |
 | Lab Escape | 160273 | [160273-lab-escape.json](./160273-lab-escape.json) |
+| Lab Escape | 358037 | [358037-lab-escape.json](./358037-lab-escape.json) |
 | Lab Escape! | 299450 | [299450-lab-escape.json](./299450-lab-escape.json) |
 | Lab Inspect | 226141 | [226141-lab-inspect.json](./226141-lab-inspect.json) |
 | Lab Rat | 94244 | [94244-lab-rat.json](./94244-lab-rat.json) |
@@ -775,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lando: Me? A Hero? | 321422 | [321422-lando-me-a-hero.json](./321422-lando-me-a-hero.json) |
 | Landomayzer | 370122 | [370122-landomayzer.json](./370122-landomayzer.json) |
 | Landon | 55648 | [55648-landon.json](./55648-landon.json) |
+| Landon's Puzzle ParTay | 358038 | [358038-landons-puzzle-partay.json](./358038-landons-puzzle-partay.json) |
 | Landonia | 340894 | [340894-landonia.json](./340894-landonia.json) |
 | Landoria | 296637 | [296637-landoria.json](./296637-landoria.json) |
 | Landorus Therian Dating Simulator | 330104 | [330104-landorus-therian-dating-simulator.json](./330104-landorus-therian-dating-simulator.json) |
@@ -6628,6 +6630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Dots 2 | 89753 | [89753-logic-dots-2.json](./89753-logic-dots-2.json) |
 | Logic Escape | 258407 | [258407-logic-escape.json](./258407-logic-escape.json) |
 | Logic Games Bundle | 242075 | [242075-logic-games-bundle.json](./242075-logic-games-bundle.json) |
+| Logic Grid Puzzle | 358039 | [358039-logic-grid-puzzle.json](./358039-logic-grid-puzzle.json) |
 | Logic Island | 256290 | [256290-logic-island.json](./256290-logic-island.json) |
 | Logic Leap | 361070 | [361070-logic-leap.json](./361070-logic-leap.json) |
 | Logic Light | 170898 | [170898-logic-light.json](./170898-logic-light.json) |
