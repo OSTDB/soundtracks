@@ -3025,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gentle Officer | 311869 | [311869-gentle-officer.json](./311869-gentle-officer.json) |
 | Gentlemacho | 66620 | [66620-gentlemacho.json](./66620-gentlemacho.json) |
 | Gentleman Dress Up | 227927 | [227927-gentleman-dress-up.json](./227927-gentleman-dress-up.json) |
+| Gentleman's Proposal | 357121 | [357121-gentlemans-proposal.json](./357121-gentlemans-proposal.json) |
 | Gentlemen Dispute | 136086 | [136086-gentlemen-dispute.json](./136086-gentlemen-dispute.json) |
 | Gentlemen of Fortune: Maelstrom | 176651 | [176651-gentlemen-of-fortune-maelstrom.json](./176651-gentlemen-of-fortune-maelstrom.json) |
 | Gentlemen! | 10359 | [10359-gentlemen.json](./10359-gentlemen.json) |
@@ -3756,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Train VR | 32260 | [32260-ghost-train-vr.json](./32260-ghost-train-vr.json) |
 | Ghost Trap | 208607 | [208607-ghost-trap.json](./208607-ghost-trap.json) |
 | Ghost Trap | 49599 | [49599-ghost-trap.json](./49599-ghost-trap.json) |
+| Ghost Traveler: Adventures in Edo | 356958 | [356958-ghost-traveler-adventures-in-edo.json](./356958-ghost-traveler-adventures-in-edo.json) |
 | Ghost Trick: Phantom Detective | 1348 | [1348-ghost-trick-phantom-detective.json](./1348-ghost-trick-phantom-detective.json) |
 | Ghost Trick: Phantom Detective | 236660 | [236660-ghost-trick-phantom-detective.json](./236660-ghost-trick-phantom-detective.json) |
 | Ghost Truck: Death Arena | 415864 | [415864-ghost-truck-death-arena.json](./415864-ghost-truck-death-arena.json) |
@@ -6028,6 +6030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Going Up? | 120124 | [120124-going-up.json](./120124-going-up.json) |
 | Going Up?? | 282789 | [282789-going-up.json](./282789-going-up.json) |
 | Going Upstream | 290907 | [290907-going-upstream.json](./290907-going-upstream.json) |
+| Going Viral | 357113 | [357113-going-viral.json](./357113-going-viral.json) |
 | Going Your Own Way: Episode One | 424016 | [424016-going-your-own-way-episode-one.json](./424016-going-your-own-way-episode-one.json) |
 | Goinund | 105095 | [105095-goinund.json](./105095-goinund.json) |
 | Gojira tai 3 Daikaijuu | 75884 | [75884-gojira-tai-3-daikaijuu.json](./75884-gojira-tai-3-daikaijuu.json) |
