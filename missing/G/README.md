@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Bokujou Monogatari Mobile - Life & Love | 315678 | [315678-g-mode-archives-bokujou-monogatari-mobile-life-and-love.json](./315678-g-mode-archives-bokujou-monogatari-mobile-life-and-love.json) |
 | G-Mode Archives+: Bokujou Monogatari Mobile - Minori no Shima | 340310 | [340310-g-mode-archives-bokujou-monogatari-mobile-minori-no-shima.json](./340310-g-mode-archives-bokujou-monogatari-mobile-minori-no-shima.json) |
 | G-Mode Archives+: Danmaku Kentei Shiken - Ketsui-Hen | 214712 | [214712-g-mode-archives-danmaku-kentei-shiken-ketsui-hen.json](./214712-g-mode-archives-danmaku-kentei-shiken-ketsui-hen.json) |
+| G-Mode Archives+: Digital Devil Saga Avatar Tuner - A's Test Server | 394291 | [394291-g-mode-archives-digital-devil-saga-avatar-tuner-as-test-server.json](./394291-g-mode-archives-digital-devil-saga-avatar-tuner-as-test-server.json) |
 | G-Mode Archives+: DoDonPachi DaiOuJou DX | 196066 | [196066-g-mode-archives-dodonpachi-daioujou-dx.json](./196066-g-mode-archives-dodonpachi-daioujou-dx.json) |
 | G-Mode Archives+: Flash Motor Karen | 388380 | [388380-g-mode-archives-flash-motor-karen.json](./388380-g-mode-archives-flash-motor-karen.json) |
 | G-Mode Archives+: Game Tengoku | 253228 | [253228-g-mode-archives-game-tengoku.json](./253228-g-mode-archives-game-tengoku.json) |
@@ -4190,6 +4191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginsha | 249208 | [249208-ginsha.json](./249208-ginsha.json) |
 | Gintama Sumaho Battle Chronicle | 381893 | [381893-gintama-sumaho-battle-chronicle.json](./381893-gintama-sumaho-battle-chronicle.json) |
 | Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai-soudatsusen!! | 124566 | [124566-gintama-gintoki-vs-hijikata-kabukichou-gintama-dai-soudatsusen.json](./124566-gintama-gintoki-vs-hijikata-kabukichou-gintama-dai-soudatsusen.json) |
+| Gion Corridor | 394285 | [394285-gion-corridor.json](./394285-gion-corridor.json) |
 | Giovanni's Level Pack 2 | 361661 | [361661-giovannis-level-pack-2.json](./361661-giovannis-level-pack-2.json) |
 | Gioventù Ribelle | 316757 | [316757-gioventu-ribelle.json](./316757-gioventu-ribelle.json) |
 | Giphy World VR | 368242 | [368242-giphy-world-vr.json](./368242-giphy-world-vr.json) |
