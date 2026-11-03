@@ -3638,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuos | 116167 | [116167-scuos.json](./116167-scuos.json) |
 | Scurge: Hive | 370966 | [370966-scurge-hive.json](./370966-scurge-hive.json) |
 | Scurge: Hive | 6585 | [6585-scurge-hive.json](./6585-scurge-hive.json) |
+| Scurri | 365348 | [365348-scurri.json](./365348-scurri.json) |
 | Scurry | 374898 | [374898-scurry.json](./374898-scurry.json) |
 | Scurry | 97711 | [97711-scurry.json](./97711-scurry.json) |
 | Scurvy Dogs | 224761 | [224761-scurvy-dogs.json](./224761-scurvy-dogs.json) |
@@ -14833,6 +14834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboarding: The Fourth Phase | 88772 | [88772-snowboarding-the-fourth-phase.json](./88772-snowboarding-the-fourth-phase.json) |
 | Snowboarding: The Next Phase | 114051 | [114051-snowboarding-the-next-phase.json](./114051-snowboarding-the-next-phase.json) |
 | Snowboarding+ | 90527 | [90527-snowboarding.json](./90527-snowboarding.json) |
+| Snowbody | 365354 | [365354-snowbody.json](./365354-snowbody.json) |
 | Snowbound Blood | 177348 | [177348-snowbound-blood.json](./177348-snowbound-blood.json) |
 | Snowbound: Dead of Winter | 310131 | [310131-snowbound-dead-of-winter.json](./310131-snowbound-dead-of-winter.json) |
 | SnowBrawl | 207685 | [207685-snowbrawl.json](./207685-snowbrawl.json) |
@@ -17618,6 +17620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Catcher | 169721 | [169721-soul-catcher.json](./169721-soul-catcher.json) |
 | Soul Catcher: The Moon Coliseum | 366384 | [366384-soul-catcher-the-moon-coliseum.json](./366384-soul-catcher-the-moon-coliseum.json) |
 | Soul Cauldron | 348565 | [348565-soul-cauldron.json](./348565-soul-cauldron.json) |
+| Soul Chain | 365389 | [365389-soul-chain.json](./365389-soul-chain.json) |
 | Soul Chained | 348392 | [348392-soul-chained.json](./348392-soul-chained.json) |
 | Soul Challenge | 149324 | [149324-soul-challenge.json](./149324-soul-challenge.json) |
 | Soul Chomper | 230867 | [230867-soul-chomper.json](./230867-soul-chomper.json) |
@@ -18682,7 +18685,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20976,6 +20978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Detective | 191490 | [191490-spirit-detective.json](./191490-spirit-detective.json) |
 | Spirit Drop | 334746 | [334746-spirit-drop.json](./334746-spirit-drop.json) |
 | Spirit Eyes | 211188 | [211188-spirit-eyes.json](./211188-spirit-eyes.json) |
+| Spirit Glaive | 365395 | [365395-spirit-glaive.json](./365395-spirit-glaive.json) |
 | Spirit Guardian | 392215 | [392215-spirit-guardian.json](./392215-spirit-guardian.json) |
 | Spirit Guardians | 285687 | [285687-spirit-guardians.json](./285687-spirit-guardians.json) |
 | Spirit Harem | 295341 | [295341-spirit-harem.json](./295341-spirit-harem.json) |
@@ -32299,6 +32302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supraland: Six Inches Under | 172903 | [172903-supraland-six-inches-under.json](./172903-supraland-six-inches-under.json) |
 | Suprapong | 111371 | [111371-suprapong.json](./111371-suprapong.json) |
 | Supraworld | 250601 | [250601-supraworld.json](./250601-supraworld.json) |
+| Supre-Immune | 365370 | [365370-supre-immune.json](./365370-supre-immune.json) |
 | Suprem.io | 138488 | [138488-suprem-io.json](./138488-suprem-io.json) |
 | Supremacy 1914 | 113460 | [113460-supremacy-1914.json](./113460-supremacy-1914.json) |
 | Supremacy: The Metaverse Game | 196789 | [196789-supremacy-the-metaverse-game.json](./196789-supremacy-the-metaverse-game.json) |
