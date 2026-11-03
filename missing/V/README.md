@@ -3117,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Future: Hacking Protocol | 376207 | [376207-void-future-hacking-protocol.json](./376207-void-future-hacking-protocol.json) |
 | Void Game | 394338 | [394338-void-game.json](./394338-void-game.json) |
 | Void Gore | 143540 | [143540-void-gore.json](./143540-void-gore.json) |
+| Void Grapplers | 377870 | [377870-void-grapplers.json](./377870-void-grapplers.json) |
 | Void Grimm | 186415 | [186415-void-grimm.json](./186415-void-grimm.json) |
 | Void Guard | 277276 | [277276-void-guard.json](./277276-void-guard.json) |
 | Void Guard Outpost | 384033 | [384033-void-guard-outpost.json](./384033-void-guard-outpost.json) |
