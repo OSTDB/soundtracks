@@ -9697,6 +9697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hospital Black River | 184961 | [184961-hospital-black-river.json](./184961-hospital-black-river.json) |
 | Hospital Doctor: Fix me up for Kids (Boys & Girls) | 257881 | [257881-hospital-doctor-fix-me-up-for-kids-boys-and-girls.json](./257881-hospital-doctor-fix-me-up-for-kids-boys-and-girls.json) |
 | Hospital Empire Tycoon | 196435 | [196435-hospital-empire-tycoon.json](./196435-hospital-empire-tycoon.json) |
+| Hospital Escape | 398742 | [398742-hospital-escape.json](./398742-hospital-escape.json) |
 | Hospital Giant | 209887 | [209887-hospital-giant.json](./209887-hospital-giant.json) |
 | Hospital Haste | 54084 | [54084-hospital-haste.json](./54084-hospital-haste.json) |
 | Hospital Havoc | 85179 | [85179-hospital-havoc.json](./85179-hospital-havoc.json) |
