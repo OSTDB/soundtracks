@@ -4537,6 +4537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EreaDrone: FPV Simulator | 112216 | [112216-ereadrone-fpv-simulator.json](./112216-ereadrone-fpv-simulator.json) |
 | Ereban: Shadow Legacy | 204624 | [204624-ereban-shadow-legacy.json](./204624-ereban-shadow-legacy.json) |
 | Erebe | 199344 | [199344-erebe.json](./199344-erebe.json) |
+| Erebound | 393875 | [393875-erebound.json](./393875-erebound.json) |
 | Erebus | 36919 | [36919-erebus.json](./36919-erebus.json) |
 | Erect! | 77726 | [77726-erect.json](./77726-erect.json) |
 | Erectus | 204839 | [204839-erectus.json](./204839-erectus.json) |
@@ -4652,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erotic Shop Simulator | 326433 | [326433-erotic-shop-simulator.json](./326433-erotic-shop-simulator.json) |
 | Erotic Tentacle Arts Assortment | 98494 | [98494-erotic-tentacle-arts-assortment.json](./98494-erotic-tentacle-arts-assortment.json) |
 | Erotic Winter Sports | 111411 | [111411-erotic-winter-sports.json](./111411-erotic-winter-sports.json) |
+| Erotica | 393841 | [393841-erotica.json](./393841-erotica.json) |
 | Erovoice! Sexy Voices Lead to a Successful Love Life | 204498 | [204498-erovoice-sexy-voices-lead-to-a-successful-love-life.json](./204498-erovoice-sexy-voices-lead-to-a-successful-love-life.json) |
 | Erozld | 236216 | [236216-erozld.json](./236216-erozld.json) |
 | Err: 001 | 30400 | [30400-err-001.json](./30400-err-001.json) |
@@ -5698,6 +5700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Gem | 280318 | [280318-eternal-gem.json](./280318-eternal-gem.json) |
 | Eternal Glory | 333339 | [333339-eternal-glory.json](./333339-eternal-glory.json) |
 | Eternal Guardian Rubine: The First Fight | 336552 | [336552-eternal-guardian-rubine-the-first-fight.json](./336552-eternal-guardian-rubine-the-first-fight.json) |
+| Eternal Guardian: Forbidden Portals | 393874 | [393874-eternal-guardian-forbidden-portals.json](./393874-eternal-guardian-forbidden-portals.json) |
 | Eternal Hand | 355184 | [355184-eternal-hand.json](./355184-eternal-hand.json) |
 | Eternal Haunt | 323887 | [323887-eternal-haunt.json](./323887-eternal-haunt.json) |
 | Eternal Hearts: Curse of the Endless | 207267 | [207267-eternal-hearts-curse-of-the-endless.json](./207267-eternal-hearts-curse-of-the-endless.json) |
