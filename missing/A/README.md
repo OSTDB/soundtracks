@@ -5685,6 +5685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuma Ouji to Ayatsuri Ningyou | 242068 | [242068-akuma-ouji-to-ayatsuri-ningyou.json](./242068-akuma-ouji-to-ayatsuri-ningyou.json) |
 | Akuma Shitsuji to Kuroi Neko | 367762 | [367762-akuma-shitsuji-to-kuroi-neko.json](./367762-akuma-shitsuji-to-kuroi-neko.json) |
 | Akuma-kun: Makai no Wana | 48605 | [48605-akuma-kun-makai-no-wana.json](./48605-akuma-kun-makai-no-wana.json) |
+| Akuma-kun: Taose! Cerberus | 385756 | [385756-akuma-kun-taose-cerberus.json](./385756-akuma-kun-taose-cerberus.json) |
 | Akuma: Cyberpunk Rhythm Action | 192636 | [192636-akuma-cyberpunk-rhythm-action.json](./192636-akuma-cyberpunk-rhythm-action.json) |
 | Akuma: Demon Spawn | 72177 | [72177-akuma-demon-spawn.json](./72177-akuma-demon-spawn.json) |
 | Akuma: Wrath of the Fallen | 177223 | [177223-akuma-wrath-of-the-fallen.json](./177223-akuma-wrath-of-the-fallen.json) |
@@ -7488,6 +7489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altered Beast | 202941 | [202941-altered-beast.json](./202941-altered-beast.json) |
 | Altered Beast | 2604 | [2604-altered-beast.json](./2604-altered-beast.json) |
 | Altered Beast: Guardian of the Realms | 49193 | [49193-altered-beast-guardian-of-the-realms.json](./49193-altered-beast-guardian-of-the-realms.json) |
+| Altered Bloodlines | 385877 | [385877-altered-bloodlines.json](./385877-altered-bloodlines.json) |
 | Altered Destiny | 2304 | [2304-altered-destiny.json](./2304-altered-destiny.json) |
 | Altered Fates | 182030 | [182030-altered-fates.json](./182030-altered-fates.json) |
 | Alteredblood+ | 398990 | [398990-alteredblood.json](./398990-alteredblood.json) |
@@ -15757,6 +15759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
