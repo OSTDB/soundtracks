@@ -5200,6 +5200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Buk-ri Dock | 343708 | [343708-korean-drone-flying-tour-buk-ri-dock.json](./343708-korean-drone-flying-tour-buk-ri-dock.json) |
 | Korean Drone Flying Tour Bukhan River | 336425 | [336425-korean-drone-flying-tour-bukhan-river.json](./336425-korean-drone-flying-tour-bukhan-river.json) |
 | Korean Drone Flying Tour Bussodamak | 362182 | [362182-korean-drone-flying-tour-bussodamak.json](./362182-korean-drone-flying-tour-bussodamak.json) |
+| Korean Drone Flying Tour Byeongpung Bawi | 356971 | [356971-korean-drone-flying-tour-byeongpung-bawi.json](./356971-korean-drone-flying-tour-byeongpung-bawi.json) |
 | Korean Drone Flying Tour Chuncheon City | 328501 | [328501-korean-drone-flying-tour-chuncheon-city.json](./328501-korean-drone-flying-tour-chuncheon-city.json) |
 | Korean Drone Flying Tour Daechon Beach | 362181 | [362181-korean-drone-flying-tour-daechon-beach.json](./362181-korean-drone-flying-tour-daechon-beach.json) |
 | Korean Drone Flying Tour Daedunsan | 386371 | [386371-korean-drone-flying-tour-daedunsan.json](./386371-korean-drone-flying-tour-daedunsan.json) |
