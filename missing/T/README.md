@@ -1703,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tang Dynasty Architecture | 275341 | [275341-tang-dynasty-architecture.json](./275341-tang-dynasty-architecture.json) |
 | Tang's Starfish Rescue | 91237 | [91237-tangs-starfish-rescue.json](./91237-tangs-starfish-rescue.json) |
 | Tángdì zhī Huá | 394820 | [394820-tangdi-zhi-hua.json](./394820-tangdi-zhi-hua.json) |
+| Tangent | 377865 | [377865-tangent.json](./377865-tangent.json) |
 | Tangent | 92813 | [92813-tangent.json](./92813-tangent.json) |
 | Tangent Rush | 169899 | [169899-tangent-rush.json](./169899-tangent-rush.json) |
 | Tangerine Clicker | 247212 | [247212-tangerine-clicker.json](./247212-tangerine-clicker.json) |
@@ -6785,6 +6786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cat Maze | 218709 | [218709-the-cat-maze.json](./218709-the-cat-maze.json) |
 | The Cat Scheduled Oil Sampling Game | 281379 | [281379-the-cat-scheduled-oil-sampling-game.json](./281379-the-cat-scheduled-oil-sampling-game.json) |
 | The Cat That Got the Milk | 283742 | [283742-the-cat-that-got-the-milk.json](./283742-the-cat-that-got-the-milk.json) |
+| The Cat: Tales of Istanbul | 377880 | [377880-the-cat-tales-of-istanbul.json](./377880-the-cat-tales-of-istanbul.json) |
 | The Cat! Porfirio's Adventure | 32352 | [32352-the-cat-porfirios-adventure.json](./32352-the-cat-porfirios-adventure.json) |
 | The Catacombs | 231801 | [231801-the-catacombs.json](./231801-the-catacombs.json) |
 | The Catacombs of Solaris Revisited | 142873 | [142873-the-catacombs-of-solaris-revisited.json](./142873-the-catacombs-of-solaris-revisited.json) |
@@ -10232,6 +10234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hole Town | 304912 | [304912-the-hole-town.json](./304912-the-hole-town.json) |
 | The Holiday Bakeoff | 325348 | [325348-the-holiday-bakeoff.json](./325348-the-holiday-bakeoff.json) |
 | The Holiday Express: Runaway Elf | 231000 | [231000-the-holiday-express-runaway-elf.json](./231000-the-holiday-express-runaway-elf.json) |
+| The Holiday Story | 377875 | [377875-the-holiday-story.json](./377875-the-holiday-story.json) |
 | The Hollow | 14116 | [14116-the-hollow.json](./14116-the-hollow.json) |
 | The Hollow | 388518 | [388518-the-hollow.json](./388518-the-hollow.json) |
 | The Hollow Alchemist | 371257 | [371257-the-hollow-alchemist.json](./371257-the-hollow-alchemist.json) |
@@ -11610,6 +11613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Planets | 199808 | [199808-the-last-planets.json](./199808-the-last-planets.json) |
 | The Last Plast | 302126 | [302126-the-last-plast.json](./302126-the-last-plast.json) |
 | The Last Player | 115469 | [115469-the-last-player.json](./115469-the-last-player.json) |
+| The Last Poem | 377874 | [377874-the-last-poem.json](./377874-the-last-poem.json) |
 | The Last Poem: The Trials of Poe | 152776 | [152776-the-last-poem-the-trials-of-poe.json](./152776-the-last-poem-the-trials-of-poe.json) |
 | The Last Portal | 412728 | [412728-the-last-portal.json](./412728-the-last-portal.json) |
 | The Last Portrait | 374928 | [374928-the-last-portrait.json](./374928-the-last-portrait.json) |
@@ -13401,6 +13405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mushroom of Shadow | 340277 | [340277-the-mushroom-of-shadow.json](./340277-the-mushroom-of-shadow.json) |
 | The Mushroom Season | 215228 | [215228-the-mushroom-season.json](./215228-the-mushroom-season.json) |
 | The Mushrooms' Happy New Year | 396193 | [396193-the-mushrooms-happy-new-year.json](./396193-the-mushrooms-happy-new-year.json) |
+| The Music Box: Arc | 377544 | [377544-the-music-box-arc.json](./377544-the-music-box-arc.json) |
 | The Music Machine | 282793 | [282793-the-music-machine.json](./282793-the-music-machine.json) |
 | The Music Machine | 35515 | [35515-the-music-machine.json](./35515-the-music-machine.json) |
 | The Music Trivia Challenge | 106894 | [106894-the-music-trivia-challenge.json](./106894-the-music-trivia-challenge.json) |
@@ -25524,6 +25529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towa no Sakura | 203199 | [203199-towa-no-sakura.json](./203199-towa-no-sakura.json) |
 | Towa Tsugai | 222776 | [222776-towa-tsugai.json](./222776-towa-tsugai.json) |
 | Towaga: Among Shadows | 124407 | [124407-towaga-among-shadows.json](./124407-towaga-among-shadows.json) |
+| Toward From | 377536 | [377536-toward-from.json](./377536-toward-from.json) |
 | Toward The Ice | 335505 | [335505-toward-the-ice.json](./335505-toward-the-ice.json) |
 | Towards a perilous journey | 102333 | [102333-towards-a-perilous-journey.json](./102333-towards-a-perilous-journey.json) |
 | Towards the Light | 407512 | [407512-towards-the-light.json](./407512-towards-the-light.json) |
