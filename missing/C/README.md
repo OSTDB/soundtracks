@@ -1634,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capital Punishment | 14373 | [14373-capital-punishment.json](./14373-capital-punishment.json) |
 | Capital Simulator | 148483 | [148483-capital-simulator.json](./148483-capital-simulator.json) |
 | Capitaland | 415843 | [415843-capitaland.json](./415843-capitaland.json) |
+| CapitalCraft | 391461 | [391461-capitalcraft.json](./391461-capitalcraft.json) |
 | Capitale | 330772 | [330772-capitale.json](./330772-capitale.json) |
 | Capitalism | 9210 | [9210-capitalism.json](./9210-capitalism.json) |
 | Capitalism II | 921 | [921-capitalism-ii.json](./921-capitalism-ii.json) |
@@ -7828,6 +7829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronal Stasis | 311223 | [311223-chronal-stasis.json](./311223-chronal-stasis.json) |
 | Chronautical | 253598 | [253598-chronautical.json](./253598-chronautical.json) |
 | Chronescher | 203929 | [203929-chronescher.json](./203929-chronescher.json) |
+| Chronia: The Rotcore | 391437 | [391437-chronia-the-rotcore.json](./391437-chronia-the-rotcore.json) |
 | Chronical | 276695 | [276695-chronical.json](./276695-chronical.json) |
 | Chronicle Keepers: The Dreaming Garden - Collector's Edition | 52510 | [52510-chronicle-keepers-the-dreaming-garden-collectors-edition.json](./52510-chronicle-keepers-the-dreaming-garden-collectors-edition.json) |
 | Chronicle of Daneya | 156969 | [156969-chronicle-of-daneya.json](./156969-chronicle-of-daneya.json) |
@@ -13017,6 +13019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator: Year 2 Season Pass - Pickup Truck | 294100 | [294100-construction-simulator-year-2-season-pass-pickup-truck.json](./294100-construction-simulator-year-2-season-pass-pickup-truck.json) |
 | Construction Site Driver | 186578 | [186578-construction-site-driver.json](./186578-construction-site-driver.json) |
 | Construction Site Driver 2 | 223568 | [223568-construction-site-driver-2.json](./223568-construction-site-driver-2.json) |
+| Construction Store Simulator | 391445 | [391445-construction-store-simulator.json](./391445-construction-store-simulator.json) |
 | Construction Worker Simulator | 151102 | [151102-construction-worker-simulator.json](./151102-construction-worker-simulator.json) |
 | Construction: Action | 354053 | [354053-construction-action.json](./354053-construction-action.json) |
 | Construction: Action - D-46-#: Juggler | 354479 | [354479-construction-action-d-46-juggler.json](./354479-construction-action-d-46-juggler.json) |
@@ -19084,6 +19087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Blade: Action Platformer | 272193 | [272193-cyber-blade-action-platformer.json](./272193-cyber-blade-action-platformer.json) |
 | Cyber Blades | 205108 | [205108-cyber-blades.json](./205108-cyber-blades.json) |
 | Cyber Bodies | 224842 | [224842-cyber-bodies.json](./224842-cyber-bodies.json) |
+| Cyber Boxing Arena | 391419 | [391419-cyber-boxing-arena.json](./391419-cyber-boxing-arena.json) |
 | Cyber Cafe Simulator | 358264 | [358264-cyber-cafe-simulator.json](./358264-cyber-cafe-simulator.json) |
 | Cyber Car Seller Simulator | 347062 | [347062-cyber-car-seller-simulator.json](./347062-cyber-car-seller-simulator.json) |
 | Cyber Cars Punk Racing 2 | 248827 | [248827-cyber-cars-punk-racing-2.json](./248827-cyber-cars-punk-racing-2.json) |
