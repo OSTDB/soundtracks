@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babyz | 205899 | [205899-babyz.json](./205899-babyz.json) |
 | Babyz: Your Virtual Bundle of Joy | 70343 | [70343-babyz-your-virtual-bundle-of-joy.json](./70343-babyz-your-virtual-bundle-of-joy.json) |
 | Baccarat | 348397 | [348397-baccarat.json](./348397-baccarat.json) |
+| Baccarat Online: Baccarist | 350882 | [350882-baccarat-online-baccarist.json](./350882-baccarat-online-baccarist.json) |
 | Baccarist | 109979 | [109979-baccarist.json](./109979-baccarist.json) |
 | Bacchanalia | 227880 | [227880-bacchanalia.json](./227880-bacchanalia.json) |
 | Bacchikoi! | 224464 | [224464-bacchikoi.json](./224464-bacchikoi.json) |
@@ -10752,6 +10753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodLines | 143363 | [143363-bloodlines.json](./143363-bloodlines.json) |
 | Bloodlines of Prima | 55374 | [55374-bloodlines-of-prima.json](./55374-bloodlines-of-prima.json) |
 | Bloodlines: The Alexa Holmes Chronicles | 65529 | [65529-bloodlines-the-alexa-holmes-chronicles.json](./65529-bloodlines-the-alexa-holmes-chronicles.json) |
+| BloodLoop | 350724 | [350724-bloodloop.json](./350724-bloodloop.json) |
 | Bloodlust | 22123 | [22123-bloodlust.json](./22123-bloodlust.json) |
 | Bloodlust | 338255 | [338255-bloodlust.json](./338255-bloodlust.json) |
 | BloodLust 2: Nemesis | 83605 | [83605-bloodlust-2-nemesis.json](./83605-bloodlust-2-nemesis.json) |
@@ -14522,6 +14524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Wall 8bit | 97170 | [97170-break-wall-8bit.json](./97170-break-wall-8bit.json) |
 | Break Wolf | 320239 | [320239-break-wolf.json](./320239-break-wolf.json) |
 | Break_In | 35527 | [35527-break-in.json](./35527-break-in.json) |
+| Break-a-Bot | 350871 | [350871-break-a-bot.json](./350871-break-a-bot.json) |
 | Break-It | 339689 | [339689-break-it.json](./339689-break-it.json) |
 | Break.Up | 326288 | [326288-break-up.json](./326288-break-up.json) |
 | Breakage | 165521 | [165521-breakage.json](./165521-breakage.json) |
