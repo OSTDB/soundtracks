@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddsparks: An Automation Adventure - Craftsman's Elemental Decorations Pack | 406333 | [406333-oddsparks-an-automation-adventure-craftsmans-elemental-decorations-pack.json](./406333-oddsparks-an-automation-adventure-craftsmans-elemental-decorations-pack.json) |
 | Oddsparks: An Automation Adventure - Deluxe Edition | 403586 | [403586-oddsparks-an-automation-adventure-deluxe-edition.json](./403586-oddsparks-an-automation-adventure-deluxe-edition.json) |
 | Oddsparks: An Automation Adventure - Deluxe Upgrade | 403587 | [403587-oddsparks-an-automation-adventure-deluxe-upgrade.json](./403587-oddsparks-an-automation-adventure-deluxe-upgrade.json) |
+| Oddsparks: An Automation Adventure - Making Music | 365965 | [365965-oddsparks-an-automation-adventure-making-music.json](./365965-oddsparks-an-automation-adventure-making-music.json) |
 | Oddsparks: An Automation Adventure - Ultimate Edition | 402701 | [402701-oddsparks-an-automation-adventure-ultimate-edition.json](./402701-oddsparks-an-automation-adventure-ultimate-edition.json) |
 | Oddventure | 137646 | [137646-oddventure.json](./137646-oddventure.json) |
 | Oddware | 188924 | [188924-oddware.json](./188924-oddware.json) |
