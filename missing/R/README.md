@@ -9818,6 +9818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RogueVerse | 120777 | [120777-rogueverse.json](./120777-rogueverse.json) |
 | RogueVirus | 372621 | [372621-roguevirus.json](./372621-roguevirus.json) |
 | Roguevive | 213772 | [213772-roguevive.json](./213772-roguevive.json) |
+| RogueViz Collection | 361996 | [361996-rogueviz-collection.json](./361996-rogueviz-collection.json) |
 | Roguie | 382303 | [382303-roguie.json](./382303-roguie.json) |
 | Rogum: A Cat Match Puzzle | 386691 | [386691-rogum-a-cat-match-puzzle.json](./386691-rogum-a-cat-match-puzzle.json) |
 | Rogumon | 346193 | [346193-rogumon.json](./346193-rogumon.json) |
