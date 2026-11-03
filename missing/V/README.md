@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampir | 387578 | [387578-vampir.json](./387578-vampir.json) |
 | Vampir Kyuuketsuki Densetsu | 201080 | [201080-vampir-kyuuketsuki-densetsu.json](./201080-vampir-kyuuketsuki-densetsu.json) |
 | Vampir Nymph | 362720 | [362720-vampir-nymph.json](./362720-vampir-nymph.json) |
+| Vampír: Vengeance | 388664 | [388664-vampir-vengeance.json](./388664-vampir-vengeance.json) |
 | Vampirates | 344457 | [344457-vampirates.json](./344457-vampirates.json) |
 | Vampirdzhija Vjedogonia | 130309 | [130309-vampirdzhija-vjedogonia.json](./130309-vampirdzhija-vjedogonia.json) |
 | Vampire Awakening: Elven Sword Chronicles Survival | 373020 | [373020-vampire-awakening-elven-sword-chronicles-survival.json](./373020-vampire-awakening-elven-sword-chronicles-survival.json) |
