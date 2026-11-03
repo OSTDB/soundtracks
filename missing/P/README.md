@@ -4614,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet the Cat | 416978 | [416978-pet-the-cat.json](./416978-pet-the-cat.json) |
 | Pet the Dog? | 179587 | [179587-pet-the-dog.json](./179587-pet-the-dog.json) |
 | Pet the Duck! | 180633 | [180633-pet-the-duck.json](./180633-pet-the-duck.json) |
+| Pet Troll | 390330 | [390330-pet-troll.json](./390330-pet-troll.json) |
 | Pet Tycoon | 209158 | [209158-pet-tycoon.json](./209158-pet-tycoon.json) |
 | Pet Vet 3D: Animal Hospital | 81435 | [81435-pet-vet-3d-animal-hospital.json](./81435-pet-vet-3d-animal-hospital.json) |
 | Pet Vet 3D: Animal Hospital - Triple Treat | 54290 | [54290-pet-vet-3d-animal-hospital-triple-treat.json](./54290-pet-vet-3d-animal-hospital-triple-treat.json) |
@@ -5832,6 +5833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictar.io | 138423 | [138423-pictar-io.json](./138423-pictar-io.json) |
 | Pictassembler | 127178 | [127178-pictassembler.json](./127178-pictassembler.json) |
 | Pictective | 373272 | [373272-pictective.json](./373272-pictective.json) |
+| Pictective 2: Around the World | 390361 | [390361-pictective-2-around-the-world.json](./390361-pictective-2-around-the-world.json) |
 | Picterra | 305957 | [305957-picterra.json](./305957-picterra.json) |
 | Pictionary | 92052 | [92052-pictionary.json](./92052-pictionary.json) |
 | Pictionary: The Game of Video Quick Draw | 48224 | [48224-pictionary-the-game-of-video-quick-draw.json](./48224-pictionary-the-game-of-video-quick-draw.json) |
@@ -8404,6 +8406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza No Pizza | 390986 | [390986-pizza-no-pizza.json](./390986-pizza-no-pizza.json) |
 | Pizza Nostra | 171527 | [171527-pizza-nostra.json](./171527-pizza-nostra.json) |
 | Pizza Now! | 420178 | [420178-pizza-now.json](./420178-pizza-now.json) |
+| Pizza of the Gods | 390343 | [390343-pizza-of-the-gods.json](./390343-pizza-of-the-gods.json) |
 | Pizza Panic | 70202 | [70202-pizza-panic.json](./70202-pizza-panic.json) |
 | Pizza Panic! | 393469 | [393469-pizza-panic.json](./393469-pizza-panic.json) |
 | Pizza Parking | 115057 | [115057-pizza-parking.json](./115057-pizza-parking.json) |
@@ -11892,6 +11895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Art | 305627 | [305627-pop-art.json](./305627-pop-art.json) |
 | Pop Ball | 246360 | [246360-pop-ball.json](./246360-pop-ball.json) |
 | Pop Balloons | 247069 | [247069-pop-balloons.json](./247069-pop-balloons.json) |
+| Pop Balloons and Drop People | 390352 | [390352-pop-balloons-and-drop-people.json](./390352-pop-balloons-and-drop-people.json) |
 | Pop Battle | 208069 | [208069-pop-battle.json](./208069-pop-battle.json) |
 | Pop Blocks | 163165 | [163165-pop-blocks.json](./163165-pop-blocks.json) |
 | Pop Bowling VR | 207697 | [207697-pop-bowling-vr.json](./207697-pop-bowling-vr.json) |
@@ -13329,6 +13333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pressure Gauge | 40756 | [40756-pressure-gauge.json](./40756-pressure-gauge.json) |
 | Pressure Overdrive | 33926 | [33926-pressure-overdrive.json](./33926-pressure-overdrive.json) |
 | Pressure Pop! | 209926 | [209926-pressure-pop.json](./209926-pressure-pop.json) |
+| Pressure Protocol | 390341 | [390341-pressure-protocol.json](./390341-pressure-protocol.json) |
 | Pressure Within | 225215 | [225215-pressure-within.json](./225215-pressure-within.json) |
 | Pressured | 9008 | [9008-pressured.json](./9008-pressured.json) |
 | Prestige Tree | 213278 | [213278-prestige-tree.json](./213278-prestige-tree.json) |
