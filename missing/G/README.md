@@ -8420,6 +8420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy Penguins | 20715 | [20715-greedy-penguins.json](./20715-greedy-penguins.json) |
 | Greedy Rabbit | 190089 | [190089-greedy-rabbit.json](./190089-greedy-rabbit.json) |
 | Greedy Snake | 302242 | [302242-greedy-snake.json](./302242-greedy-snake.json) |
+| Greedy Spiders 2: Toby's Deception | 373235 | [373235-greedy-spiders-2-tobys-deception.json](./373235-greedy-spiders-2-tobys-deception.json) |
 | Greedy Squad | 348856 | [348856-greedy-squad.json](./348856-greedy-squad.json) |
 | Greedy Trolley | 74119 | [74119-greedy-trolley.json](./74119-greedy-trolley.json) |
 | Greedy Words | 209778 | [209778-greedy-words.json](./209778-greedy-words.json) |
