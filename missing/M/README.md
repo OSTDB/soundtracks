@@ -2345,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majorariatto Museum | 177426 | [177426-majorariatto-museum.json](./177426-majorariatto-museum.json) |
 | Majorelle Mystery | 232705 | [232705-majorelle-mystery.json](./232705-majorelle-mystery.json) |
 | Majoriko Inbikai Inbizone | 92071 | [92071-majoriko-inbikai-inbizone.json](./92071-majoriko-inbikai-inbizone.json) |
+| Majoris Nightmare | 364142 | [364142-majoris-nightmare.json](./364142-majoris-nightmare.json) |
 | Majou Densetsu II: Daimashikyou Galious | 48866 | [48866-majou-densetsu-ii-daimashikyou-galious.json](./48866-majou-densetsu-ii-daimashikyou-galious.json) |
 | Majoukko Princess - Mefi's Great Strategy for Recapturing the Castle- | 292052 | [292052-majoukko-princess-mefis-great-strategy-for-recapturing-the-castle.json](./292052-majoukko-princess-mefis-great-strategy-for-recapturing-the-castle.json) |
 | Majukes Tower Defense | 267193 | [267193-majukes-tower-defense.json](./267193-majukes-tower-defense.json) |
@@ -2867,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandora | 63939 | [63939-mandora.json](./63939-mandora.json) |
 | Mandragora Seeker in the Creep Zone | 329200 | [329200-mandragora-seeker-in-the-creep-zone.json](./329200-mandragora-seeker-in-the-creep-zone.json) |
 | Mandragora: Whispers of the Witch Tree | 191427 | [191427-mandragora-whispers-of-the-witch-tree.json](./191427-mandragora-whispers-of-the-witch-tree.json) |
+| Mandragora: Whispers of the Witch Tree - Collector's Edition | 364162 | [364162-mandragora-whispers-of-the-witch-tree-collectors-edition.json](./364162-mandragora-whispers-of-the-witch-tree-collectors-edition.json) |
 | Mandragora: Whispers of the Witch Tree - Dark Ale Quest | 362381 | [362381-mandragora-whispers-of-the-witch-tree-dark-ale-quest.json](./362381-mandragora-whispers-of-the-witch-tree-dark-ale-quest.json) |
 | Mandragora: Whispers of the Witch Tree - Digital Deluxe Edition | 362373 | [362373-mandragora-whispers-of-the-witch-tree-digital-deluxe-edition.json](./362373-mandragora-whispers-of-the-witch-tree-digital-deluxe-edition.json) |
 | Mandragora: Whispers of the Witch Tree - Update 1.6 | 358275 | [358275-mandragora-whispers-of-the-witch-tree-update-1-6.json](./358275-mandragora-whispers-of-the-witch-tree-update-1-6.json) |
@@ -6195,6 +6197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meaning of Flower | 343736 | [343736-meaning-of-flower.json](./343736-meaning-of-flower.json) |
 | Meaningful Adventures | 218479 | [218479-meaningful-adventures.json](./218479-meaningful-adventures.json) |
 | Meaningless Random Numbers | 388696 | [388696-meaningless-random-numbers.json](./388696-meaningless-random-numbers.json) |
+| Meaningless Suffering | 364146 | [364146-meaningless-suffering.json](./364146-meaningless-suffering.json) |
 | Meaningless Tragedy | 397046 | [397046-meaningless-tragedy.json](./397046-meaningless-tragedy.json) |
 | Meanings: Hidden in Plain Sight | 317346 | [317346-meanings-hidden-in-plain-sight.json](./317346-meanings-hidden-in-plain-sight.json) |
 | Meanwhile | 22329 | [22329-meanwhile.json](./22329-meanwhile.json) |
@@ -15564,6 +15567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Valley: Forgotten Shores | 175965 | [175965-monument-valley-forgotten-shores.json](./175965-monument-valley-forgotten-shores.json) |
 | Monument Valley: Ida's Dream | 186128 | [186128-monument-valley-idas-dream.json](./186128-monument-valley-idas-dream.json) |
 | Monument Valley: Panoramic Edition | 203331 | [203331-monument-valley-panoramic-edition.json](./203331-monument-valley-panoramic-edition.json) |
+| Monument Valley: The Trilogy | 364163 | [364163-monument-valley-the-trilogy.json](./364163-monument-valley-the-trilogy.json) |
 | Monument Valley+ | 145466 | [145466-monument-valley.json](./145466-monument-valley.json) |
 | Monument Village | 265320 | [265320-monument-village.json](./265320-monument-village.json) |
 | Monument: Invasion | 308501 | [308501-monument-invasion.json](./308501-monument-invasion.json) |
@@ -16616,6 +16620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mostly Harmless | 275804 | [275804-mostly-harmless.json](./275804-mostly-harmless.json) |
 | Mostly Intense Monster Defense | 120961 | [120961-mostly-intense-monster-defense.json](./120961-mostly-intense-monster-defense.json) |
 | Mostly Scared of Spiders | 115683 | [115683-mostly-scared-of-spiders.json](./115683-mostly-scared-of-spiders.json) |
+| Mostly Trash Sometimes Treasure | 364166 | [364166-mostly-trash-sometimes-treasure.json](./364166-mostly-trash-sometimes-treasure.json) |
 | Mostroscopy | 269231 | [269231-mostroscopy.json](./269231-mostroscopy.json) |
 | Mot | 78418 | [78418-mot.json](./78418-mot.json) |
 | Mot's 8-Ball Pool | 374166 | [374166-mots-8-ball-pool.json](./374166-mots-8-ball-pool.json) |
@@ -17192,6 +17197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse People | 207409 | [207409-mouse-people.json](./207409-mouse-people.json) |
 | Mouse Playhouse | 29048 | [29048-mouse-playhouse.json](./29048-mouse-playhouse.json) |
 | Mouse Practice for Kids | 373897 | [373897-mouse-practice-for-kids.json](./373897-mouse-practice-for-kids.json) |
+| Mouse Required | 364174 | [364174-mouse-required.json](./364174-mouse-required.json) |
 | Mouse Saving Simulator | 402226 | [402226-mouse-saving-simulator.json](./402226-mouse-saving-simulator.json) |
 | Mouse Sector | 218857 | [218857-mouse-sector.json](./218857-mouse-sector.json) |
 | Mouse Shooter | 350330 | [350330-mouse-shooter.json](./350330-mouse-shooter.json) |
