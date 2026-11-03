@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backpack Quest: Battles And Adventures | 295116 | [295116-backpack-quest-battles-and-adventures.json](./295116-backpack-quest-battles-and-adventures.json) |
 | Backpack Raiders | 383055 | [383055-backpack-raiders.json](./383055-backpack-raiders.json) |
 | Backpack Seeker's | 348727 | [348727-backpack-seekers.json](./348727-backpack-seekers.json) |
+| Backpack Survivor | 390868 | [390868-backpack-survivor.json](./390868-backpack-survivor.json) |
 | Backpack Survivors | 305207 | [305207-backpack-survivors.json](./305207-backpack-survivors.json) |
 | Backpack Twins | 117432 | [117432-backpack-twins.json](./117432-backpack-twins.json) |
 | Backpacker | 28352 | [28352-backpacker.json](./28352-backpacker.json) |
@@ -1407,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Busters | 386496 | [386496-ball-busters.json](./386496-ball-busters.json) |
 | Ball Cannon | 327984 | [327984-ball-cannon.json](./327984-ball-cannon.json) |
 | Ball Challenge | 164952 | [164952-ball-challenge.json](./164952-ball-challenge.json) |
+| Ball Chasers | 390878 | [390878-ball-chasers.json](./390878-ball-chasers.json) |
 | Ball Clash | 247080 | [247080-ball-clash.json](./247080-ball-clash.json) |
 | Ball Coin Chapter 5 | 281955 | [281955-ball-coin-chapter-5.json](./281955-ball-coin-chapter-5.json) |
 | Ball Collector | 101544 | [101544-ball-collector.json](./101544-ball-collector.json) |
@@ -16545,6 +16547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bundle Cats + Dog | 199886 | [199886-bundle-cats-dog.json](./199886-bundle-cats-dog.json) |
 | Bundle Epopeia Puzzle Games | 164722 | [164722-bundle-epopeia-puzzle-games.json](./164722-bundle-epopeia-puzzle-games.json) |
 | Bundle of Joy | 317526 | [317526-bundle-of-joy.json](./317526-bundle-of-joy.json) |
+| Bundle with 19 Games | 390903 | [390903-bundle-with-19-games.json](./390903-bundle-with-19-games.json) |
 | Bundle: Journey of the Broken Circle + Cosmic Top Secret | 218468 | [218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json](./218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json) |
 | Bunflower | 205014 | [205014-bunflower.json](./205014-bunflower.json) |
 | Bung Ball | 252808 | [252808-bung-ball.json](./252808-bung-ball.json) |
