@@ -8883,6 +8883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shougi ga Tsuyokunaru: Gekisashi - Jouseki Doujou | 269528 | [269528-shougi-ga-tsuyokunaru-gekisashi-jouseki-doujou.json](./269528-shougi-ga-tsuyokunaru-gekisashi-jouseki-doujou.json) |
 | Shoujo Activity | 194606 | [194606-shoujo-activity.json](./194606-shoujo-activity.json) |
 | Shoujo Attack! | 73988 | [73988-shoujo-attack.json](./73988-shoujo-attack.json) |
+| Shoujo City | 396329 | [396329-shoujo-city.json](./396329-shoujo-city.json) |
 | Shoujo City | 76920 | [76920-shoujo-city.json](./76920-shoujo-city.json) |
 | Shoujo Gidan | 167130 | [167130-shoujo-gidan.json](./167130-shoujo-gidan.json) |
 | Shoujo Houkai: Oniichan no Catharsis | 97702 | [97702-shoujo-houkai-oniichan-no-catharsis.json](./97702-shoujo-houkai-oniichan-no-catharsis.json) |
@@ -19658,6 +19659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectator | 216880 | [216880-spectator.json](./216880-spectator.json) |
 | Spectator 2 | 264629 | [264629-spectator-2.json](./264629-spectator-2.json) |
 | Specteared | 210982 | [210982-specteared.json](./210982-specteared.json) |
+| Specter Hideout | 396297 | [396297-specter-hideout.json](./396297-specter-hideout.json) |
 | Specter Spelunker Resizes | 283736 | [283736-specter-spelunker-resizes.json](./283736-specter-spelunker-resizes.json) |
 | Specter Spelunker Shrinks | 242907 | [242907-specter-spelunker-shrinks.json](./242907-specter-spelunker-shrinks.json) |
 | Specters | 164046 | [164046-specters.json](./164046-specters.json) |
@@ -20792,6 +20794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Level | 322997 | [322997-spirit-level.json](./322997-spirit-level.json) |
 | Spirit Lords | 59784 | [59784-spirit-lords.json](./59784-spirit-lords.json) |
 | Spirit Magician | 376663 | [376663-spirit-magician.json](./376663-spirit-magician.json) |
+| Spirit Mail | 396268 | [396268-spirit-mail.json](./396268-spirit-mail.json) |
 | Spirit Mancer | 224556 | [224556-spirit-mancer.json](./224556-spirit-mancer.json) |
 | Spirit Master | 110025 | [110025-spirit-master.json](./110025-spirit-master.json) |
 | Spirit Night | 225563 | [225563-spirit-night.json](./225563-spirit-night.json) |
@@ -22252,6 +22255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | St/P | 97644 | [97644-st-p.json](./97644-st-p.json) |
 | Stab | 264620 | [264620-stab.json](./264620-stab.json) |
 | Stab It VR.com | 310022 | [310022-stab-it-vr-com.json](./310022-stab-it-vr-com.json) |
+| Stab! | 396322 | [396322-stab.json](./396322-stab.json) |
 | Stabby Cats | 159734 | [159734-stabby-cats.json](./159734-stabby-cats.json) |
 | Stabby the Clown | 176774 | [176774-stabby-the-clown.json](./176774-stabby-the-clown.json) |
 | Stabfish 2 | 200190 | [200190-stabfish-2.json](./200190-stabfish-2.json) |
