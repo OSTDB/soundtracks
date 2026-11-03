@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ma Puzzle | 181209 | [181209-ma-puzzle.json](./181209-ma-puzzle.json) |
 | Ma vie en rogue | 328978 | [328978-ma-vie-en-rogue.json](./328978-ma-vie-en-rogue.json) |
 | MA-RI-A: Ningyoukan no Noroi | 112053 | [112053-ma-ri-a-ningyoukan-no-noroi.json](./112053-ma-ri-a-ningyoukan-no-noroi.json) |
+| Ma-suru Joshou | 372418 | [372418-ma-suru-joshou.json](./372418-ma-suru-joshou.json) |
 | Ma3 | 252667 | [252667-ma3.json](./252667-ma3.json) |
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
 | Maaaaath! | 418879 | [418879-maaaaath.json](./418879-maaaaath.json) |
@@ -2584,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malicious Payload | 114509 | [114509-malicious-payload.json](./114509-malicious-payload.json) |
 | Malicious Rebirth | 26584 | [26584-malicious-rebirth.json](./26584-malicious-rebirth.json) |
 | Malignant Survivors | 286943 | [286943-malignant-survivors.json](./286943-malignant-survivors.json) |
+| Malignant Survivors II | 372715 | [372715-malignant-survivors-ii.json](./372715-malignant-survivors-ii.json) |
 | Maliguard | 278261 | [278261-maliguard.json](./278261-maliguard.json) |
 | Maliki: Poison Of The Past | 292846 | [292846-maliki-poison-of-the-past.json](./292846-maliki-poison-of-the-past.json) |
 | Malin Kundang: an Indonesian Folklore | 330546 | [330546-malin-kundang-an-indonesian-folklore.json](./330546-malin-kundang-an-indonesian-folklore.json) |
@@ -12541,6 +12543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minute Cryptic | 356194 | [356194-minute-cryptic.json](./356194-minute-cryptic.json) |
 | Minute Fighter | 288766 | [288766-minute-fighter.json](./288766-minute-fighter.json) |
 | Minute Knights | 221379 | [221379-minute-knights.json](./221379-minute-knights.json) |
+| Minute Man | 372711 | [372711-minute-man.json](./372711-minute-man.json) |
 | Minute Marriage | 304760 | [304760-minute-marriage.json](./304760-minute-marriage.json) |
 | Minute of Mayhem | 108168 | [108168-minute-of-mayhem.json](./108168-minute-of-mayhem.json) |
 | Minute to Win It | 20162 | [20162-minute-to-win-it.json](./20162-minute-to-win-it.json) |
