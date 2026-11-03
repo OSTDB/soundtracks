@@ -2182,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenland | 113616 | [113616-ravenland.json](./113616-ravenland.json) |
 | Ravenloft: Stone Prophet | 2504 | [2504-ravenloft-stone-prophet.json](./2504-ravenloft-stone-prophet.json) |
 | Ravenloft: Strahd's Possession | 2508 | [2508-ravenloft-strahds-possession.json](./2508-ravenloft-strahds-possession.json) |
+| Ravenlok: Legendary Edition | 368219 | [368219-ravenlok-legendary-edition.json](./368219-ravenlok-legendary-edition.json) |
 | Ravenmark: Mercenaries | 63534 | [63534-ravenmark-mercenaries.json](./63534-ravenmark-mercenaries.json) |
 | Ravenmark: Scourge of Estellion | 35354 | [35354-ravenmark-scourge-of-estellion.json](./35354-ravenmark-scourge-of-estellion.json) |
 | Ravenmoore Psychiatric Hospital | 376463 | [376463-ravenmoore-psychiatric-hospital.json](./376463-ravenmoore-psychiatric-hospital.json) |
@@ -5660,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resver | 392273 | [392273-resver.json](./392273-resver.json) |
 | Resync | 241489 | [241489-resync.json](./241489-resync.json) |
 | Resynth | 107388 | [107388-resynth.json](./107388-resynth.json) |
+| Reta Tus Habilidades | 368207 | [368207-reta-tus-habilidades.json](./368207-reta-tus-habilidades.json) |
 | Retail Hell | 380983 | [380983-retail-hell.json](./380983-retail-hell.json) |
 | Retail Mage | 319885 | [319885-retail-mage.json](./319885-retail-mage.json) |
 | Retail Rivals | 402476 | [402476-retail-rivals.json](./402476-retail-rivals.json) |
@@ -10444,6 +10446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Escape: Strange Case 2 | 285859 | [285859-room-escape-strange-case-2.json](./285859-room-escape-strange-case-2.json) |
 | Room Explorer 2010 | 198511 | [198511-room-explorer-2010.json](./198511-room-explorer-2010.json) |
 | Room Explorer 2010: Deluxe Lover's Paque | 198512 | [198512-room-explorer-2010-deluxe-lovers-paque.json](./198512-room-explorer-2010-deluxe-lovers-paque.json) |
+| Room Football: Apocalyptic Wasteland | 368223 | [368223-room-football-apocalyptic-wasteland.json](./368223-room-football-apocalyptic-wasteland.json) |
 | Room Football: Cursed West | 368545 | [368545-room-football-cursed-west.json](./368545-room-football-cursed-west.json) |
 | Room Football: Hangar | 371034 | [371034-room-football-hangar.json](./371034-room-football-hangar.json) |
 | Room Football: Junk Town | 368588 | [368588-room-football-junk-town.json](./368588-room-football-junk-town.json) |
