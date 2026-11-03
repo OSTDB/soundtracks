@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lackgirl II: De Docta Ignorantia | 314282 | [314282-lackgirl-ii-de-docta-ignorantia.json](./314282-lackgirl-ii-de-docta-ignorantia.json) |
 | Lacrimal Eye | 312713 | [312713-lacrimal-eye.json](./312713-lacrimal-eye.json) |
 | Lacrosse 15 | 52529 | [52529-lacrosse-15.json](./52529-lacrosse-15.json) |
+| Lacrosse 26 | 399383 | [399383-lacrosse-26.json](./399383-lacrosse-26.json) |
 | Lacrosse Arcade | 61040 | [61040-lacrosse-arcade.json](./61040-lacrosse-arcade.json) |
 | Lacrosse Arcade 2014 | 87204 | [87204-lacrosse-arcade-2014.json](./87204-lacrosse-arcade-2014.json) |
 | Lacrosse Dodge | 61038 | [61038-lacrosse-dodge.json](./61038-lacrosse-dodge.json) |
@@ -473,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laffy Taffy Long-Lasting 3D Pyramid Challenge | 373555 | [373555-laffy-taffy-long-lasting-3d-pyramid-challenge.json](./373555-laffy-taffy-long-lasting-3d-pyramid-challenge.json) |
 | Lafuma Unlimit | 69942 | [69942-lafuma-unlimit.json](./69942-lafuma-unlimit.json) |
 | Lafuma Unlimit 2 | 94694 | [94694-lafuma-unlimit-2.json](./94694-lafuma-unlimit-2.json) |
+| Lag Kills | 399364 | [399364-lag-kills.json](./399364-lag-kills.json) |
 | Lag Simulator | 343958 | [343958-lag-simulator.json](./343958-lag-simulator.json) |
 | Lagaf': Les Aventures de Moktar: Vol 1 - La Zoubida | 307197 | [307197-lagaf-les-aventures-de-moktar-vol-1-la-zoubida.json](./307197-lagaf-les-aventures-de-moktar-vol-1-la-zoubida.json) |
 | Laggerjack | 334813 | [334813-laggerjack.json](./334813-laggerjack.json) |
@@ -2825,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion War | 112703 | [112703-legion-war.json](./112703-legion-war.json) |
 | Legion Was Here | 347168 | [347168-legion-was-here.json](./347168-legion-was-here.json) |
 | Legion: Dead Metal | 249214 | [249214-legion-dead-metal.json](./249214-legion-dead-metal.json) |
+| Legion: Immortal Survivors | 399963 | [399963-legion-immortal-survivors.json](./399963-legion-immortal-survivors.json) |
 | Legion: Legend of Excalibur | 44714 | [44714-legion-legend-of-excalibur.json](./44714-legion-legend-of-excalibur.json) |
 | Legionbound | 387609 | [387609-legionbound.json](./387609-legionbound.json) |
 | Legioncraft | 125114 | [125114-legioncraft.json](./125114-legioncraft.json) |
@@ -7800,6 +7803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Maria: Namonaki Hana | 394168 | [394168-lost-maria-namonaki-hana.json](./394168-lost-maria-namonaki-hana.json) |
 | Lost Mastery | 304633 | [304633-lost-mastery.json](./304633-lost-mastery.json) |
 | Lost Maze | 256220 | [256220-lost-maze.json](./256220-lost-maze.json) |
+| Lost Media Agency | 400004 | [400004-lost-media-agency.json](./400004-lost-media-agency.json) |
 | Lost Melody | 211195 | [211195-lost-melody.json](./211195-lost-melody.json) |
 | Lost Memories | 224779 | [224779-lost-memories.json](./224779-lost-memories.json) |
 | Lost Memories 3 Side Stories | 369569 | [369569-lost-memories-3-side-stories.json](./369569-lost-memories-3-side-stories.json) |
