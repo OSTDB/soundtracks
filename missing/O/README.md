@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omikron: The Nomad Soul | 1982 | [1982-omikron-the-nomad-soul.json](./1982-omikron-the-nomad-soul.json) |
 | Omikron: The Nomad Soul | 248846 | [248846-omikron-the-nomad-soul.json](./248846-omikron-the-nomad-soul.json) |
 | Omina Mortis | 36983 | [36983-omina-mortis.json](./36983-omina-mortis.json) |
+| Ominigun | 363658 | [363658-ominigun.json](./363658-ominigun.json) |
 | Omino! | 239227 | [239227-omino.json](./239227-omino.json) |
 | Ominoflux | 336595 | [336595-ominoflux.json](./336595-ominoflux.json) |
 | Ominous | 273126 | [273126-ominous.json](./273126-ominous.json) |
@@ -5713,6 +5714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oz World | 186747 | [186747-oz-world.json](./186747-oz-world.json) |
 | Oz: The Magical Adventure | 78998 | [78998-oz-the-magical-adventure.json](./78998-oz-the-magical-adventure.json) |
 | Ozark | 151045 | [151045-ozark.json](./151045-ozark.json) |
+| Ozawa-Ken | 363765 | [363765-ozawa-ken.json](./363765-ozawa-ken.json) |
 | Ozeki Thrust | 92632 | [92632-ozeki-thrust.json](./92632-ozeki-thrust.json) |
 | Ozera | 401932 | [401932-ozera.json](./401932-ozera.json) |
 | OzGrind Virtual Reality Showroom | 43065 | [43065-ozgrind-virtual-reality-showroom.json](./43065-ozgrind-virtual-reality-showroom.json) |
