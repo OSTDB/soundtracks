@@ -919,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Yi: Samsara | 288880 | [288880-echoes-of-yi-samsara.json](./288880-echoes-of-yi-samsara.json) |
 | Echoes of You | 252365 | [252365-echoes-of-you.json](./252365-echoes-of-you.json) |
 | Echoes of You | 306346 | [306346-echoes-of-you.json](./306346-echoes-of-you.json) |
+| Echoes Untold | 380961 | [380961-echoes-untold.json](./380961-echoes-untold.json) |
 | Echoes: Deep-sea Exploration | 116440 | [116440-echoes-deep-sea-exploration.json](./116440-echoes-deep-sea-exploration.json) |
 | Echoes: Operation Stranglehold | 334666 | [334666-echoes-operation-stranglehold.json](./334666-echoes-operation-stranglehold.json) |
 | Echoes: Season 1 - Greenhearth | 366902 | [366902-echoes-season-1-greenhearth.json](./366902-echoes-season-1-greenhearth.json) |
@@ -1978,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ele-Mental | 149082 | [149082-ele-mental.json](./149082-ele-mental.json) |
 | Elea | 17469 | [17469-elea.json](./17469-elea.json) |
 | Elea Eluanda: Das verschwundene Tröstereulenbuch | 364822 | [364822-elea-eluanda-das-verschwundene-trostereulenbuch.json](./364822-elea-eluanda-das-verschwundene-trostereulenbuch.json) |
+| Eleanor | 381290 | [381290-eleanor.json](./381290-eleanor.json) |
 | Eleanor 3 | 286502 | [286502-eleanor-3.json](./286502-eleanor-3.json) |
 | Eleanor in Miami | 369772 | [369772-eleanor-in-miami.json](./369772-eleanor-in-miami.json) |
 | Eleanor's Handmaid | 253967 | [253967-eleanors-handmaid.json](./253967-eleanors-handmaid.json) |
@@ -3799,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enersify | 116123 | [116123-enersify.json](./116123-enersify.json) |
 | Enex2: The Hero's Shadow | 324728 | [324728-enex2-the-heros-shadow.json](./324728-enex2-the-heros-shadow.json) |
 | ENF Novels: Dress Code | 286526 | [286526-enf-novels-dress-code.json](./286526-enf-novels-dress-code.json) |
+| Enfant | 380965 | [380965-enfant.json](./380965-enfant.json) |
 | Enfant Terrible | 65395 | [65395-enfant-terrible.json](./65395-enfant-terrible.json) |
 | Enfora Star | 366033 | [366033-enfora-star.json](./366033-enfora-star.json) |
 | Enforce | 46845 | [46845-enforce.json](./46845-enforce.json) |
