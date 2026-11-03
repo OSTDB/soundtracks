@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sadame | 19980 | [19980-sadame.json](./19980-sadame.json) |
 | Sadball | 318959 | [318959-sadball.json](./318959-sadball.json) |
 | Sadboy | 113682 | [113682-sadboy.json](./113682-sadboy.json) |
+| Saddam Hussein Target Game | 350874 | [350874-saddam-hussein-target-game.json](./350874-saddam-hussein-target-game.json) |
 | Saddies: Attack!! | 60610 | [60610-saddies-attack.json](./60610-saddies-attack.json) |
 | Saddle Up and Drive | 258123 | [258123-saddle-up-and-drive.json](./258123-saddle-up-and-drive.json) |
 | Saddle Up with Pippa Funnell Olympic Medalist | 208722 | [208722-saddle-up-with-pippa-funnell-olympic-medalist.json](./208722-saddle-up-with-pippa-funnell-olympic-medalist.json) |
@@ -4015,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealing Tower | 358580 | [358580-sealing-tower.json](./358580-sealing-tower.json) |
 | Seals From the Frosty Bay | 402302 | [402302-seals-from-the-frosty-bay.json](./402302-seals-from-the-frosty-bay.json) |
 | Seals of the Bygone | 120572 | [120572-seals-of-the-bygone.json](./120572-seals-of-the-bygone.json) |
+| Sealubbers | 350750 | [350750-sealubbers.json](./350750-sealubbers.json) |
 | Seaman | 9130 | [9130-seaman.json](./9130-seaman.json) |
 | Seaman 2 | 11446 | [11446-seaman-2.json](./11446-seaman-2.json) |
 | Seaman Count | 79662 | [79662-seaman-count.json](./79662-seaman-count.json) |
@@ -6103,6 +6105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex, Stocks & Cocks | 301653 | [301653-sex-stocks-and-cocks.json](./301653-sex-stocks-and-cocks.json) |
 | Sexaginta Quattuordle | 249700 | [249700-sexaginta-quattuordle.json](./249700-sexaginta-quattuordle.json) |
 | Sexbot | 277364 | [277364-sexbot.json](./277364-sexbot.json) |
+| Sexbot Lab | 350887 | [350887-sexbot-lab.json](./350887-sexbot-lab.json) |
 | Sexcraft: Sofiya and the Lewd Clan | 170365 | [170365-sexcraft-sofiya-and-the-lewd-clan.json](./170365-sexcraft-sofiya-and-the-lewd-clan.json) |
 | Sexdivers | 324680 | [324680-sexdivers.json](./324680-sexdivers.json) |
 | Sexophobia | 417410 | [417410-sexophobia.json](./417410-sexophobia.json) |
@@ -28437,6 +28440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suiren | 131578 | [131578-suiren.json](./131578-suiren.json) |
 | Suiren | 377581 | [377581-suiren.json](./377581-suiren.json) |
 | Suisenka | 261776 | [261776-suisenka.json](./261776-suisenka.json) |
+| Suissinho: A Mais Louca Corrida | 350728 | [350728-suissinho-a-mais-louca-corrida.json](./350728-suissinho-a-mais-louca-corrida.json) |
 | SuiSui Sweet | 254547 | [254547-suisui-sweet.json](./254547-suisui-sweet.json) |
 | Suit for Hire | 153895 | [153895-suit-for-hire.json](./153895-suit-for-hire.json) |
 | Suitcase of Gor | 262437 | [262437-suitcase-of-gor.json](./262437-suitcase-of-gor.json) |
@@ -30472,6 +30476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Construct 2: Yoshi's Fabrication Station | 250040 | [250040-super-mario-construct-2-yoshis-fabrication-station.json](./250040-super-mario-construct-2-yoshis-fabrication-station.json) |
 | Super Mario Continuance | 266356 | [266356-super-mario-continuance.json](./266356-super-mario-continuance.json) |
 | Super Mario Craft | 313112 | [313112-super-mario-craft.json](./313112-super-mario-craft.json) |
+| Super Mario Cyclone Fighter | 350754 | [350754-super-mario-cyclone-fighter.json](./350754-super-mario-cyclone-fighter.json) |
 | Super Mario Death Row 2: Shroomshank Redemption | 220042 | [220042-super-mario-death-row-2-shroomshank-redemption.json](./220042-super-mario-death-row-2-shroomshank-redemption.json) |
 | Super Mario Death Row! | 220006 | [220006-super-mario-death-row.json](./220006-super-mario-death-row.json) |
 | Super Mario Defense | 314738 | [314738-super-mario-defense.json](./314738-super-mario-defense.json) |
