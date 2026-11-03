@@ -10218,6 +10218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly 404 | 384863 | [384863-anomaly-404.json](./384863-anomaly-404.json) |
 | Anomaly Archives | 420936 | [420936-anomaly-archives.json](./420936-anomaly-archives.json) |
 | Anomaly Bus | 344866 | [344866-anomaly-bus.json](./344866-anomaly-bus.json) |
+| Anomaly Collapse: Special Correspondent Constan | 353602 | [353602-anomaly-collapse-special-correspondent-constan.json](./353602-anomaly-collapse-special-correspondent-constan.json) |
 | Anomaly Company | 389123 | [389123-anomaly-company.json](./389123-anomaly-company.json) |
 | Anomaly Control Simulator | 409646 | [409646-anomaly-control-simulator.json](./409646-anomaly-control-simulator.json) |
 | Anomaly Corp. | 390064 | [390064-anomaly-corp.json](./390064-anomaly-corp.json) |
@@ -15911,7 +15912,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
