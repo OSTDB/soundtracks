@@ -971,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camera Birds | 245319 | [245319-camera-birds.json](./245319-camera-birds.json) |
 | Camera Lens | 291526 | [291526-camera-lens.json](./291526-camera-lens.json) |
 | CameraBag 2 | 379380 | [379380-camerabag-2.json](./379380-camerabag-2.json) |
+| Cameraman: The Pilot Episode | 349064 | [349064-cameraman-the-pilot-episode.json](./349064-cameraman-the-pilot-episode.json) |
 | CamGirl Simulator | 326461 | [326461-camgirl-simulator.json](./326461-camgirl-simulator.json) |
 | CamGirls Inc | 202386 | [202386-camgirls-inc.json](./202386-camgirls-inc.json) |
 | CamGirls: Sophie X Rias | 162056 | [162056-camgirls-sophie-x-rias.json](./162056-camgirls-sophie-x-rias.json) |
@@ -1938,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capy of Gods | 412743 | [412743-capy-of-gods.json](./412743-capy-of-gods.json) |
 | Capy Spa | 308156 | [308156-capy-spa.json](./308156-capy-spa.json) |
 | Capy Spa | 388541 | [388541-capy-spa.json](./388541-capy-spa.json) |
+| Capy Stream: Rise to Fame | 349066 | [349066-capy-stream-rise-to-fame.json](./349066-capy-stream-rise-to-fame.json) |
 | Capy's Hot Springs Haven | 389706 | [389706-capys-hot-springs-haven.json](./389706-capys-hot-springs-haven.json) |
 | Capybara | 229820 | [229820-capybara.json](./229820-capybara.json) |
 | Capybara | 312611 | [312611-capybara.json](./312611-capybara.json) |
@@ -8529,6 +8531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus Maximus | 23760 | [23760-circus-maximus.json](./23760-circus-maximus.json) |
 | Circus Maximus: Chariot Wars | 5776 | [5776-circus-maximus-chariot-wars.json](./5776-circus-maximus-chariot-wars.json) |
 | Circus of Clowns | 342085 | [342085-circus-of-clowns.json](./342085-circus-of-clowns.json) |
+| Circus of Pain | 349055 | [349055-circus-of-pain.json](./349055-circus-of-pain.json) |
 | Circus of TimTim | 278013 | [278013-circus-of-timtim.json](./278013-circus-of-timtim.json) |
 | Circus World | 52507 | [52507-circus-world.json](./52507-circus-world.json) |
 | Circus! | 289735 | [289735-circus.json](./289735-circus.json) |
@@ -8568,6 +8571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadel | 78595 | [78595-citadel.json](./78595-citadel.json) |
 | Citadel Anew | 240713 | [240713-citadel-anew.json](./240713-citadel-anew.json) |
 | Citadel Combat Cards | 131343 | [131343-citadel-combat-cards.json](./131343-citadel-combat-cards.json) |
+| Citadel Knight | 349076 | [349076-citadel-knight.json](./349076-citadel-knight.json) |
 | Citadel of Fire | 271812 | [271812-citadel-of-fire.json](./271812-citadel-of-fire.json) |
 | Citadel of the Dead | 169981 | [169981-citadel-of-the-dead.json](./169981-citadel-of-the-dead.json) |
 | Citadel Remonstered | 260071 | [260071-citadel-remonstered.json](./260071-citadel-remonstered.json) |
@@ -10931,6 +10935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Counter | 346794 | [346794-coin-counter.json](./346794-coin-counter.json) |
 | Coin Crypt | 14570 | [14570-coin-crypt.json](./14570-coin-crypt.json) |
 | Coin Dash | 149414 | [149414-coin-dash.json](./149414-coin-dash.json) |
+| Coin Devotee | 349035 | [349035-coin-devotee.json](./349035-coin-devotee.json) |
 | Coin Digger | 246349 | [246349-coin-digger.json](./246349-coin-digger.json) |
 | Coin Dozer | 354047 | [354047-coin-dozer.json](./354047-coin-dozer.json) |
 | Coin Drop | 58196 | [58196-coin-drop.json](./58196-coin-drop.json) |
@@ -16479,6 +16484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Cracker | 223348 | [223348-crime-cracker.json](./223348-crime-cracker.json) |
 | Crime Crackers | 45042 | [45042-crime-crackers.json](./45042-crime-crackers.json) |
 | Crime Crackers 2 | 65344 | [65344-crime-crackers-2.json](./65344-crime-crackers-2.json) |
+| Crime Detective: Red Flags | 349072 | [349072-crime-detective-red-flags.json](./349072-crime-detective-red-flags.json) |
 | Crime District | 165699 | [165699-crime-district.json](./165699-crime-district.json) |
 | Crime Fighter | 50353 | [50353-crime-fighter.json](./50353-crime-fighter.json) |
 | Crime Fighter 3 Pack | 131286 | [131286-crime-fighter-3-pack.json](./131286-crime-fighter-3-pack.json) |
@@ -16779,6 +16785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Box | 397926 | [397926-critter-box.json](./397926-critter-box.json) |
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
 | Critter Café | 305075 | [305075-critter-cafe.json](./305075-critter-cafe.json) |
+| Critter Cart | 349024 | [349024-critter-cart.json](./349024-critter-cart.json) |
 | Critter Clicker | 169845 | [169845-critter-clicker.json](./169845-critter-clicker.json) |
 | Critter Combat | 241351 | [241351-critter-combat.json](./241351-critter-combat.json) |
 | Critter Cove | 136987 | [136987-critter-cove.json](./136987-critter-cove.json) |
