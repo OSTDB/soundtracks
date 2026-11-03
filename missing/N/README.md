@@ -5042,6 +5042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja vs. Knights | 314229 | [314229-ninja-vs-knights.json](./314229-ninja-vs-knights.json) |
 | Ninja vs. Zombies | 235893 | [235893-ninja-vs-zombies.json](./235893-ninja-vs-zombies.json) |
 | Ninja vs. Zombies 3 | 335275 | [335275-ninja-vs-zombies-3.json](./335275-ninja-vs-zombies-3.json) |
+| Ninja War | 373239 | [373239-ninja-war.json](./373239-ninja-war.json) |
 | Ninja War: Super Ninja Showdown | 199937 | [199937-ninja-war-super-ninja-showdown.json](./199937-ninja-war-super-ninja-showdown.json) |
 | Ninja Warrior | 92775 | [92775-ninja-warrior.json](./92775-ninja-warrior.json) |
 | Ninja Warrior Princess | 229334 | [229334-ninja-warrior-princess.json](./229334-ninja-warrior-princess.json) |
@@ -5710,6 +5711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No World Dreamers: Sticky Zeitgeist | 354753 | [354753-no-world-dreamers-sticky-zeitgeist.json](./354753-no-world-dreamers-sticky-zeitgeist.json) |
 | No Worries | 286065 | [286065-no-worries.json](./286065-no-worries.json) |
 | No Zombie Land: Lucy | 367282 | [367282-no-zombie-land-lucy.json](./367282-no-zombie-land-lucy.json) |
+| No Zombies Allowed | 373240 | [373240-no-zombies-allowed.json](./373240-no-zombies-allowed.json) |
 | No-Appointment Gals: Olympos | 78522 | [78522-no-appointment-gals-olympos.json](./78522-no-appointment-gals-olympos.json) |
 | No-Brainer Heroes | 129947 | [129947-no-brainer-heroes.json](./129947-no-brainer-heroes.json) |
 | No-brainer! Heroes | 134655 | [134655-no-brainer-heroes.json](./134655-no-brainer-heroes.json) |
