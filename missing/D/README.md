@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daddy Long Legs | 89289 | [89289-daddy-long-legs.json](./89289-daddy-long-legs.json) |
 | Daddy Moto Racing | 255063 | [255063-daddy-moto-racing.json](./255063-daddy-moto-racing.json) |
 | Daddy Was A Thief | 103150 | [103150-daddy-was-a-thief.json](./103150-daddy-was-a-thief.json) |
+| Daddy's Christmas | 383411 | [383411-daddys-christmas.json](./383411-daddys-christmas.json) |
 | Daddy's gone a-hunting | 76517 | [76517-daddys-gone-a-hunting.json](./76517-daddys-gone-a-hunting.json) |
 | Daddy's Little Helper | 91084 | [91084-daddys-little-helper.json](./91084-daddys-little-helper.json) |
 | Daddy's Long Milk Run | 340719 | [340719-daddys-long-milk-run.json](./340719-daddys-long-milk-run.json) |
@@ -7486,6 +7487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detectivez | 113683 | [113683-detectivez.json](./113683-detectivez.json) |
 | Detector | 68349 | [68349-detector.json](./68349-detector.json) |
 | Detector Island: A Metal Detecting Game | 106005 | [106005-detector-island-a-metal-detecting-game.json](./106005-detector-island-a-metal-detecting-game.json) |
+| Detektiv | 383546 | [383546-detektiv.json](./383546-detektiv.json) |
 | Detektiv Brown - Ein eiskalter Mord | 85942 | [85942-detektiv-brown-ein-eiskalter-mord.json](./85942-detektiv-brown-ein-eiskalter-mord.json) |
 | Detention | 26776 | [26776-detention.json](./26776-detention.json) |
 | Detention | 320745 | [320745-detention.json](./320745-detention.json) |
