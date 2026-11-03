@@ -3318,6 +3318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Scepters | 31186 | [31186-enchanted-scepters.json](./31186-enchanted-scepters.json) |
 | Enchanted Solitaire | 386133 | [386133-enchanted-solitaire.json](./386133-enchanted-solitaire.json) |
 | Enchanted Solitaire 2 | 386123 | [386123-enchanted-solitaire-2.json](./386123-enchanted-solitaire-2.json) |
+| Enchanted Solitaire 3: The Magic Web | 365958 | [365958-enchanted-solitaire-3-the-magic-web.json](./365958-enchanted-solitaire-3-the-magic-web.json) |
 | Enchanted Stories: Mystic Woods - Collector's Edition | 356763 | [356763-enchanted-stories-mystic-woods-collectors-edition.json](./356763-enchanted-stories-mystic-woods-collectors-edition.json) |
 | Enchanted Stories: Pawisoned Kingdom | 416536 | [416536-enchanted-stories-pawisoned-kingdom.json](./416536-enchanted-stories-pawisoned-kingdom.json) |
 | Enchanted Stories: Pawisoned Kingdom - Collector's Edition | 374901 | [374901-enchanted-stories-pawisoned-kingdom-collectors-edition.json](./374901-enchanted-stories-pawisoned-kingdom-collectors-edition.json) |
