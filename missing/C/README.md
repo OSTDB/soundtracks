@@ -2566,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Master Transporter | 296714 | [296714-cargo-master-transporter.json](./296714-cargo-master-transporter.json) |
 | Cargo Protocol: Cyberpunk Trains | 414148 | [414148-cargo-protocol-cyberpunk-trains.json](./414148-cargo-protocol-cyberpunk-trains.json) |
 | Cargo Runner: Mars | 389050 | [389050-cargo-runner-mars.json](./389050-cargo-runner-mars.json) |
+| Cargo Shop Simulator | 368208 | [368208-cargo-shop-simulator.json](./368208-cargo-shop-simulator.json) |
 | Cargo Simulator | 346190 | [346190-cargo-simulator.json](./346190-cargo-simulator.json) |
 | Cargo Simulator 2019: Turkey | 287030 | [287030-cargo-simulator-2019-turkey.json](./287030-cargo-simulator-2019-turkey.json) |
 | Cargo Transport Simulator | 383134 | [383134-cargo-transport-simulator.json](./383134-cargo-transport-simulator.json) |
@@ -4694,6 +4695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavernous | 414868 | [414868-cavernous.json](./414868-cavernous.json) |
 | Cavernous Wastes | 55872 | [55872-cavernous-wastes.json](./55872-cavernous-wastes.json) |
 | Caverns | 235753 | [235753-caverns.json](./235753-caverns.json) |
+| Caverns and Dryads | 368199 | [368199-caverns-and-dryads.json](./368199-caverns-and-dryads.json) |
 | Caverns of Callisto | 24990 | [24990-caverns-of-callisto.json](./24990-caverns-of-callisto.json) |
 | Caverns of Darkness | 256819 | [256819-caverns-of-darkness.json](./256819-caverns-of-darkness.json) |
 | Caverns of Doom | 133790 | [133790-caverns-of-doom.json](./133790-caverns-of-doom.json) |
@@ -6048,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers | 131515 | [131515-checkers.json](./131515-checkers.json) |
 | Checkers | 172406 | [172406-checkers.json](./172406-checkers.json) |
 | Checkers | 88367 | [88367-checkers.json](./88367-checkers.json) |
+| Checkers & Pawns | 368211 | [368211-checkers-and-pawns.json](./368211-checkers-and-pawns.json) |
 | Checkers 3D | 146515 | [146515-checkers-3d.json](./146515-checkers-3d.json) |
 | Checkers at War | 52495 | [52495-checkers-at-war.json](./52495-checkers-at-war.json) |
 | Checkers Board Game | 88432 | [88432-checkers-board-game.json](./88432-checkers-board-game.json) |
@@ -10137,6 +10140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudy with a Chance of Kittens | 345140 | [345140-cloudy-with-a-chance-of-kittens.json](./345140-cloudy-with-a-chance-of-kittens.json) |
 | Cloudy with a Chance of Meatballs | 307566 | [307566-cloudy-with-a-chance-of-meatballs.json](./307566-cloudy-with-a-chance-of-meatballs.json) |
 | Cloudy with a Chance of Meatballs | 4767 | [4767-cloudy-with-a-chance-of-meatballs.json](./4767-cloudy-with-a-chance-of-meatballs.json) |
+| Cloudy, then Dried Sardines | 368217 | [368217-cloudy-then-dried-sardines.json](./368217-cloudy-then-dried-sardines.json) |
 | Clout | 105528 | [105528-clout.json](./105528-clout.json) |
 | Clout Chaser | 401064 | [401064-clout-chaser.json](./401064-clout-chaser.json) |
 | Clouzy! | 136984 | [136984-clouzy.json](./136984-clouzy.json) |
@@ -19009,6 +19013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut Off From The World | 245318 | [245318-cut-off-from-the-world.json](./245318-cut-off-from-the-world.json) |
 | Cut Short | 179693 | [179693-cut-short.json](./179693-cut-short.json) |
 | Cut Smash Wrap | 127771 | [127771-cut-smash-wrap.json](./127771-cut-smash-wrap.json) |
+| Cut That Wire | 368173 | [368173-cut-that-wire.json](./368173-cut-that-wire.json) |
 | Cut the Birch | 309932 | [309932-cut-the-birch.json](./309932-cut-the-birch.json) |
 | Cut the Birds | 65195 | [65195-cut-the-birds.json](./65195-cut-the-birds.json) |
 | Cut the Box | 117724 | [117724-cut-the-box.json](./117724-cut-the-box.json) |
