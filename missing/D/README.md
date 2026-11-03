@@ -6242,6 +6242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's World | 39634 | [39634-demons-world.json](./39634-demons-world.json) |
 | Demon&Fairy | 75521 | [75521-demon-and-fairy.json](./75521-demon-and-fairy.json) |
 | Demonastery | 261174 | [261174-demonastery.json](./261174-demonastery.json) |
+| Demonbane: Ascension | 389331 | [389331-demonbane-ascension.json](./389331-demonbane-ascension.json) |
 | Demonblood | 142632 | [142632-demonblood.json](./142632-demonblood.json) |
 | Demonborg Mining Co | 367391 | [367391-demonborg-mining-co.json](./367391-demonborg-mining-co.json) |
 | Demonborne | 188260 | [188260-demonborne.json](./188260-demonborne.json) |
@@ -8796,6 +8797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DigitDash3 | 412705 | [412705-digitdash3.json](./412705-digitdash3.json) |
 | Digitris | 267866 | [267866-digitris.json](./267866-digitris.json) |
 | Digits | 245928 | [245928-digits.json](./245928-digits.json) |
+| Digits | 389359 | [389359-digits.json](./389359-digits.json) |
 | Digits Jigsaw Puzzle - Numbers and Operations | 100749 | [100749-digits-jigsaw-puzzle-numbers-and-operations.json](./100749-digits-jigsaw-puzzle-numbers-and-operations.json) |
 | Digitum | 366276 | [366276-digitum.json](./366276-digitum.json) |
 | Digitwars - The Grigits | 101766 | [101766-digitwars-the-grigits.json](./101766-digitwars-the-grigits.json) |
