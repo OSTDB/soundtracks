@@ -2562,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unprotected | 323515 | [323515-unprotected.json](./323515-unprotected.json) |
 | Unpunished | 324753 | [324753-unpunished.json](./324753-unpunished.json) |
 | Unpuzzle 2 | 95924 | [95924-unpuzzle-2.json](./95924-unpuzzle-2.json) |
+| Unpuzzle Quest | 358012 | [358012-unpuzzle-quest.json](./358012-unpuzzle-quest.json) |
 | Unquiet Grey | 374183 | [374183-unquiet-grey.json](./374183-unquiet-grey.json) |
 | UnQuollified | 404959 | [404959-unquollified.json](./404959-unquollified.json) |
 | Unrailed 2: Back on Track | 278600 | [278600-unrailed-2-back-on-track.json](./278600-unrailed-2-back-on-track.json) |
