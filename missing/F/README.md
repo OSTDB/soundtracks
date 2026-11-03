@@ -8542,6 +8542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Fight Fiesta: Multi-Use Cards | 333500 | [333500-food-fight-fiesta-multi-use-cards.json](./333500-food-fight-fiesta-multi-use-cards.json) |
 | Food Fight: Culinary Combat | 325901 | [325901-food-fight-culinary-combat.json](./325901-food-fight-culinary-combat.json) |
 | Food Fighter Clicker Games | 262505 | [262505-food-fighter-clicker-games.json](./262505-food-fighter-clicker-games.json) |
+| Food for Frog | 385224 | [385224-food-for-frog.json](./385224-food-for-frog.json) |
 | Food For Pigs | 235308 | [235308-food-for-pigs.json](./235308-food-for-pigs.json) |
 | Food Force | 70363 | [70363-food-force.json](./70363-food-force.json) |
 | Food Frenzy | 209465 | [209465-food-frenzy.json](./209465-food-frenzy.json) |
@@ -8739,6 +8740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football League Cup: Arcade Soccer Simulator | 319316 | [319316-football-league-cup-arcade-soccer-simulator.json](./319316-football-league-cup-arcade-soccer-simulator.json) |
 | Football Legacy | 394539 | [394539-football-legacy.json](./394539-football-legacy.json) |
 | Football Legend | 59080 | [59080-football-legend.json](./59080-football-legend.json) |
+| Football Legends 2025 | 385108 | [385108-football-legends-2025.json](./385108-football-legends-2025.json) |
 | Football Legends 2025: Complete Edition | 404277 | [404277-football-legends-2025-complete-edition.json](./404277-football-legends-2025-complete-edition.json) |
 | Football Legends 2025: Diamond Edition | 399818 | [399818-football-legends-2025-diamond-edition.json](./399818-football-legends-2025-diamond-edition.json) |
 | Football Legends 2025: Gold Edition | 396917 | [396917-football-legends-2025-gold-edition.json](./396917-football-legends-2025-gold-edition.json) |
@@ -9622,6 +9624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Racing GP: Apex Overtaking | 357020 | [357020-formula-racing-gp-apex-overtaking.json](./357020-formula-racing-gp-apex-overtaking.json) |
 | Formula Racing Pro 2025 | 328536 | [328536-formula-racing-pro-2025.json](./328536-formula-racing-pro-2025.json) |
 | Formula Racing Pro 2025: Extended Edition | 333721 | [333721-formula-racing-pro-2025-extended-edition.json](./333721-formula-racing-pro-2025-extended-edition.json) |
+| Formula Racing Pro 2026 | 385104 | [385104-formula-racing-pro-2026.json](./385104-formula-racing-pro-2026.json) |
 | Formula Racing Pro 2026: Diamond Edition | 410856 | [410856-formula-racing-pro-2026-diamond-edition.json](./410856-formula-racing-pro-2026-diamond-edition.json) |
 | Formula Racing Pro 2026: Elite Edition | 404278 | [404278-formula-racing-pro-2026-elite-edition.json](./404278-formula-racing-pro-2026-elite-edition.json) |
 | Formula Racing Pro 2026: GOTY Edition | 399819 | [399819-formula-racing-pro-2026-goty-edition.json](./399819-formula-racing-pro-2026-goty-edition.json) |
