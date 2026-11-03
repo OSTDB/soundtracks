@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H-Isekai Loves | 164091 | [164091-h-isekai-loves.json](./164091-h-isekai-loves.json) |
 | H-Rescue | 227667 | [227667-h-rescue.json](./227667-h-rescue.json) |
 | H-Sniper: World War II | 173992 | [173992-h-sniper-world-war-ii.json](./173992-h-sniper-world-war-ii.json) |
+| H.A.R.V.E.S.T.E.R | 397586 | [397586-h-a-r-v-e-s-t-e-r.json](./397586-h-a-r-v-e-s-t-e-r.json) |
 | H.A.T.E.: Hostile All Terrain Encounter. | 72444 | [72444-h-a-t-e-hostile-all-terrain-encounter.json](./72444-h-a-t-e-hostile-all-terrain-encounter.json) |
 | H.A.V.E. Online | 137476 | [137476-h-a-v-e-online.json](./137476-h-a-v-e-online.json) |
 | H.E. | 108252 | [108252-h-e.json](./108252-h-e.json) |
@@ -10220,6 +10221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
 | House Builder: First Job | 158404 | [158404-house-builder-first-job.json](./158404-house-builder-first-job.json) |
 | House Builder: Medieval | 306216 | [306216-house-builder-medieval.json](./306216-house-builder-medieval.json) |
+| House Builder: Paving & Driveways DLC | 397489 | [397489-house-builder-paving-and-driveways-dlc.json](./397489-house-builder-paving-and-driveways-dlc.json) |
 | House Builder: The Atomic Age DLC | 293460 | [293460-house-builder-the-atomic-age-dlc.json](./293460-house-builder-the-atomic-age-dlc.json) |
 | House Call | 121951 | [121951-house-call.json](./121951-house-call.json) |
 | House Call | 386983 | [386983-house-call.json](./386983-house-call.json) |
@@ -11134,6 +11136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Shark: Part 2 | 300678 | [300678-hungry-shark-part-2.json](./300678-hungry-shark-part-2.json) |
 | Hungry Shark: Part 3 | 300679 | [300679-hungry-shark-part-3.json](./300679-hungry-shark-part-3.json) |
 | Hungry Snake | 394112 | [394112-hungry-snake.json](./394112-hungry-snake.json) |
+| Hungry Spiders | 397587 | [397587-hungry-spiders.json](./397587-hungry-spiders.json) |
 | Hungry Sumo | 22204 | [22204-hungry-sumo.json](./22204-hungry-sumo.json) |
 | Hungry Tea Party | 129756 | [129756-hungry-tea-party.json](./129756-hungry-tea-party.json) |
 | Hungry Tiger | 295746 | [295746-hungry-tiger.json](./295746-hungry-tiger.json) |
