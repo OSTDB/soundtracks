@@ -3022,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Island | 295878 | [295878-incremental-island.json](./295878-incremental-island.json) |
 | Incremental Mass Rewritten | 309187 | [309187-incremental-mass-rewritten.json](./309187-incremental-mass-rewritten.json) |
 | Incremental Math | 398668 | [398668-incremental-math.json](./398668-incremental-math.json) |
+| Incremental Ragebait | 388083 | [388083-incremental-ragebait.json](./388083-incremental-ragebait.json) |
 | Incremental Retro Racing | 403098 | [403098-incremental-retro-racing.json](./403098-incremental-retro-racing.json) |
 | Incremental School Tap Battle | 297647 | [297647-incremental-school-tap-battle.json](./297647-incremental-school-tap-battle.json) |
 | Incremental Wars | 414707 | [414707-incremental-wars.json](./414707-incremental-wars.json) |
@@ -3617,7 +3618,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
