@@ -2917,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acute Art VR Museum | 87945 | [87945-acute-art-vr-museum.json](./87945-acute-art-vr-museum.json) |
 | ACUVAC: A Suck And Blow Adventure | 318561 | [318561-acuvac-a-suck-and-blow-adventure.json](./318561-acuvac-a-suck-and-blow-adventure.json) |
 | Ad Agency Simulator | 291326 | [291326-ad-agency-simulator.json](./291326-ad-agency-simulator.json) |
+| Ad Aquilonem: Seto’s Journey | 356960 | [356960-ad-aquilonem-seto-s-journey.json](./356960-ad-aquilonem-seto-s-journey.json) |
 | Ad Astra | 294670 | [294670-ad-astra.json](./294670-ad-astra.json) |
 | Ad Astra | 45371 | [45371-ad-astra.json](./45371-ad-astra.json) |
 | Ad Astra Infinita: The New Evolution | 367170 | [367170-ad-astra-infinita-the-new-evolution.json](./367170-ad-astra-infinita-the-new-evolution.json) |
@@ -6361,17 +6362,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Wonderland 3: Shackles of Time | 296818 | [296818-alices-wonderland-3-shackles-of-time.json](./296818-alices-wonderland-3-shackles-of-time.json) |
 | Alice's Wonderland 3: Shackles of Time - Collector's Edition | 357106 | [357106-alices-wonderland-3-shackles-of-time-collectors-edition.json](./357106-alices-wonderland-3-shackles-of-time-collectors-edition.json) |
 | Alice's Wonderland 4: Festive Craze | 296815 | [296815-alices-wonderland-4-festive-craze.json](./296815-alices-wonderland-4-festive-craze.json) |
+| Alice's Wonderland 4: Festive Craze - Collector's Edition | 357107 | [357107-alices-wonderland-4-festive-craze-collectors-edition.json](./357107-alices-wonderland-4-festive-craze-collectors-edition.json) |
 | Alice's Wonderland 5: A Ray of Hope | 416870 | [416870-alices-wonderland-5-a-ray-of-hope.json](./416870-alices-wonderland-5-a-ray-of-hope.json) |
 | Alice's Wonderland 5: A Ray of Hope - Collector's Edition | 337268 | [337268-alices-wonderland-5-a-ray-of-hope-collectors-edition.json](./337268-alices-wonderland-5-a-ray-of-hope-collectors-edition.json) |
 | Alice's Wonderland 6: Fire and Ice - Collector's Edition | 337269 | [337269-alices-wonderland-6-fire-and-ice-collectors-edition.json](./337269-alices-wonderland-6-fire-and-ice-collectors-edition.json) |
 | Alice's Wonderland 7: Sugar Rush - Collector's Edition | 337266 | [337266-alices-wonderland-7-sugar-rush-collectors-edition.json](./337266-alices-wonderland-7-sugar-rush-collectors-edition.json) |
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
+| Alice's Wonderland: Cast in Shadow - Collector's Edition | 357108 | [357108-alices-wonderland-cast-in-shadow-collectors-edition.json](./357108-alices-wonderland-cast-in-shadow-collectors-edition.json) |
 | Alicemare | 26138 | [26138-alicemare.json](./26138-alicemare.json) |
 | Alicia Griffith: Lakeside Murder | 30050 | [30050-alicia-griffith-lakeside-murder.json](./30050-alicia-griffith-lakeside-murder.json) |
 | Alicia Online | 60233 | [60233-alicia-online.json](./60233-alicia-online.json) |
 | Alicia Quatermain 2: The Stone of Fate | 104740 | [104740-alicia-quatermain-2-the-stone-of-fate.json](./104740-alicia-quatermain-2-the-stone-of-fate.json) |
 | Alicia Quatermain 3: The Mystery of the Flaming Gold | 113180 | [113180-alicia-quatermain-3-the-mystery-of-the-flaming-gold.json](./113180-alicia-quatermain-3-the-mystery-of-the-flaming-gold.json) |
 | Alicia Quatermain 4: Da Vinci and the Time Machine | 125030 | [125030-alicia-quatermain-4-da-vinci-and-the-time-machine.json](./125030-alicia-quatermain-4-da-vinci-and-the-time-machine.json) |
+| Alicia Quatermain: Secret of the Lost Treasures - Collector's Edition | 357118 | [357118-alicia-quatermain-secret-of-the-lost-treasures-collectors-edition.json](./357118-alicia-quatermain-secret-of-the-lost-treasures-collectors-edition.json) |
 | Alicia Quatermain: Secrets of the Lost Treasures | 55533 | [55533-alicia-quatermain-secrets-of-the-lost-treasures.json](./55533-alicia-quatermain-secrets-of-the-lost-treasures.json) |
 | Alicorn Simulator 3D | 105718 | [105718-alicorn-simulator-3d.json](./105718-alicorn-simulator-3d.json) |
 | Alida | 7665 | [7665-alida.json](./7665-alida.json) |
@@ -7244,6 +7248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aloe and Cal | 127536 | [127536-aloe-and-cal.json](./127536-aloe-and-cal.json) |
 | Aloft | 204375 | [204375-aloft.json](./204375-aloft.json) |
 | Aloha Play | 91408 | [91408-aloha-play.json](./91408-aloha-play.json) |
+| Aloha Solitaire | 357119 | [357119-aloha-solitaire.json](./357119-aloha-solitaire.json) |
 | Aloisius | 183469 | [183469-aloisius.json](./183469-aloisius.json) |
 | Alolan Volcanic Panic | 74818 | [74818-alolan-volcanic-panic.json](./74818-alolan-volcanic-panic.json) |
 | Alon | 152986 | [152986-alon.json](./152986-alon.json) |
@@ -11987,6 +11992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Space Invaders Part II | 385156 | [385156-arcade-archives-space-invaders-part-ii.json](./385156-arcade-archives-space-invaders-part-ii.json) |
 | Arcade Archives: Splatter House | 254628 | [254628-arcade-archives-splatter-house.json](./254628-arcade-archives-splatter-house.json) |
 | Arcade Archives: Star Force | 75707 | [75707-arcade-archives-star-force.json](./75707-arcade-archives-star-force.json) |
+| Arcade Archives: Stinger | 356975 | [356975-arcade-archives-stinger.json](./356975-arcade-archives-stinger.json) |
 | Arcade Archives: Street Smart | 399296 | [399296-arcade-archives-street-smart.json](./399296-arcade-archives-street-smart.json) |
 | Arcade Archives: Strike Gunner | 267771 | [267771-arcade-archives-strike-gunner.json](./267771-arcade-archives-strike-gunner.json) |
 | Arcade Archives: Sunset Riders | 135574 | [135574-arcade-archives-sunset-riders.json](./135574-arcade-archives-sunset-riders.json) |
