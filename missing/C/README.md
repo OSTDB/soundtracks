@@ -17748,6 +17748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryzen.io | 282507 | [282507-cryzen-io.json](./282507-cryzen-io.json) |
 | Cryzon Part 2 | 379909 | [379909-cryzon-part-2.json](./379909-cryzon-part-2.json) |
 | Cryzon Part1 | 371419 | [371419-cryzon-part1.json](./371419-cryzon-part1.json) |
+| Cryzon Part3 | 388069 | [388069-cryzon-part3.json](./388069-cryzon-part3.json) |
 | Cryzon Part4 | 394384 | [394384-cryzon-part4.json](./394384-cryzon-part4.json) |
 | CS Diamantes Pipas: Kite Game | 339348 | [339348-cs-diamantes-pipas-kite-game.json](./339348-cs-diamantes-pipas-kite-game.json) |
 | CS Horizon | 164081 | [164081-cs-horizon.json](./164081-cs-horizon.json) |
