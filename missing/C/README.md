@@ -7442,6 +7442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Chop Soccer | 212421 | [212421-chop-chop-soccer.json](./212421-chop-chop-soccer.json) |
 | Chop Chop Together | 392147 | [392147-chop-chop-together.json](./392147-chop-chop-together.json) |
 | Chop It | 100925 | [100925-chop-it.json](./100925-chop-it.json) |
+| Chop It Down | 359135 | [359135-chop-it-down.json](./359135-chop-it-down.json) |
 | Chop Signal | 389455 | [389455-chop-signal.json](./389455-chop-signal.json) |
 | Chop Suey | 234212 | [234212-chop-suey.json](./234212-chop-suey.json) |
 | Chop Suey | 47297 | [47297-chop-suey.json](./47297-chop-suey.json) |
@@ -8811,6 +8812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Legends: Trapped In Mirror - Collector's Edition | 212835 | [212835-city-legends-trapped-in-mirror-collectors-edition.json](./212835-city-legends-trapped-in-mirror-collectors-edition.json) |
 | City Life 2008 | 15719 | [15719-city-life-2008.json](./15719-city-life-2008.json) |
 | City Life: World Edition | 206347 | [206347-city-life-world-edition.json](./206347-city-life-world-edition.json) |
+| City Lights, Old Flames | 359150 | [359150-city-lights-old-flames.json](./359150-city-lights-old-flames.json) |
 | City Limits | 208438 | [208438-city-limits.json](./208438-city-limits.json) |
 | City Living: Urban Stories | 106746 | [106746-city-living-urban-stories.json](./106746-city-living-urban-stories.json) |
 | City Loop | 179446 | [179446-city-loop.json](./179446-city-loop.json) |
