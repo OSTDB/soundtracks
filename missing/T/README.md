@@ -1123,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Berseria Remastered: Super Growth Support Herb Set | 378867 | [378867-tales-of-berseria-remastered-super-growth-support-herb-set.json](./378867-tales-of-berseria-remastered-super-growth-support-herb-set.json) |
 | Tales of Bibliotheca | 294590 | [294590-tales-of-bibliotheca.json](./294590-tales-of-bibliotheca.json) |
 | Tales of Blood and Sand | 59572 | [59572-tales-of-blood-and-sand.json](./59572-tales-of-blood-and-sand.json) |
+| Tales of Bloomrise | 364176 | [364176-tales-of-bloomrise.json](./364176-tales-of-bloomrise.json) |
 | Tales of Card Evolve | 294591 | [294591-tales-of-card-evolve.json](./294591-tales-of-card-evolve.json) |
 | Tales of Chandar | 149681 | [149681-tales-of-chandar.json](./149681-tales-of-chandar.json) |
 | Tales of Corneria | 323906 | [323906-tales-of-corneria.json](./323906-tales-of-corneria.json) |
@@ -2685,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi By Night | 184653 | [184653-taxi-by-night.json](./184653-taxi-by-night.json) |
 | Taxi Challenge: London | 116972 | [116972-taxi-challenge-london.json](./116972-taxi-challenge-london.json) |
 | Taxi Chaos | 140701 | [140701-taxi-chaos.json](./140701-taxi-chaos.json) |
+| Taxi Chaos 2 | 364153 | [364153-taxi-chaos-2.json](./364153-taxi-chaos-2.json) |
 | Taxi City | 127917 | [127917-taxi-city.json](./127917-taxi-city.json) |
 | Taxi Crew Simulator | 418319 | [418319-taxi-crew-simulator.json](./418319-taxi-crew-simulator.json) |
 | Taxi Driver | 40483 | [40483-taxi-driver.json](./40483-taxi-driver.json) |
@@ -3039,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TechAssault | 426455 | [426455-techassault.json](./426455-techassault.json) |
 | Techblox | 144900 | [144900-techblox.json](./144900-techblox.json) |
 | TechCompliant | 58448 | [58448-techcompliant.json](./58448-techcompliant.json) |
+| TechGuardian: Territory Defense | 364138 | [364138-techguardian-territory-defense.json](./364138-techguardian-territory-defense.json) |
 | Techium Eclipse | 183508 | [183508-techium-eclipse.json](./183508-techium-eclipse.json) |
 | TechMate Chess | 327801 | [327801-techmate-chess.json](./327801-techmate-chess.json) |
 | Technic Beat | 24168 | [24168-technic-beat.json](./24168-technic-beat.json) |
