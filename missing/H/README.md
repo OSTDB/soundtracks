@@ -2000,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harp | 145597 | [145597-harp.json](./145597-harp.json) |
 | Harp | 72346 | [72346-harp.json](./72346-harp.json) |
 | Harp & Chrysanthemum | 356213 | [356213-harp-and-chrysanthemum.json](./356213-harp-and-chrysanthemum.json) |
+| Harper and Lyre | 374539 | [374539-harper-and-lyre.json](./374539-harper-and-lyre.json) |
 | Harpman: Fight Against Evil | 114658 | [114658-harpman-fight-against-evil.json](./114658-harpman-fight-against-evil.json) |
 | Harpoon | 14874 | [14874-harpoon.json](./14874-harpoon.json) |
 | Harpoon & Battleset 2 | 92827 | [92827-harpoon-and-battleset-2.json](./92827-harpoon-and-battleset-2.json) |
@@ -3525,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavyweight Thunder | 69875 | [69875-heavyweight-thunder.json](./69875-heavyweight-thunder.json) |
 | Heavyweight Transport Simulator | 10405 | [10405-heavyweight-transport-simulator.json](./10405-heavyweight-transport-simulator.json) |
 | Heavyweight Transport Simulator 3 | 53183 | [53183-heavyweight-transport-simulator-3.json](./53183-heavyweight-transport-simulator-3.json) |
+| Hebeloma | 374862 | [374862-hebeloma.json](./374862-hebeloma.json) |
 | Hebereke | 291621 | [291621-hebereke.json](./291621-hebereke.json) |
 | Hebereke: Enjoy Edition | 291350 | [291350-hebereke-enjoy-edition.json](./291350-hebereke-enjoy-edition.json) |
 | Hebereke's Popoon | 42610 | [42610-heberekes-popoon.json](./42610-heberekes-popoon.json) |
