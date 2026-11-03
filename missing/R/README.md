@@ -6658,6 +6658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricave | 322095 | [322095-ricave.json](./322095-ricave.json) |
 | Rice & Rest | 346581 | [346581-rice-and-rest.json](./346581-rice-and-rest.json) |
 | Rice Bowl Restaurant | 253221 | [253221-rice-bowl-restaurant.json](./253221-rice-bowl-restaurant.json) |
+| Rice Lake Flolf Course Remaster | 397475 | [397475-rice-lake-flolf-course-remaster.json](./397475-rice-lake-flolf-course-remaster.json) |
 | RICE: Repetitive Indie Combat Experience | 233692 | [233692-rice-repetitive-indie-combat-experience.json](./233692-rice-repetitive-indie-combat-experience.json) |
 | Ricerca VR | 32884 | [32884-ricerca-vr.json](./32884-ricerca-vr.json) |
 | Rich City | 298112 | [298112-rich-city.json](./298112-rich-city.json) |
@@ -10515,6 +10516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roped In: Deuces Wild | 319129 | [319129-roped-in-deuces-wild.json](./319129-roped-in-deuces-wild.json) |
 | Ropelike | 76435 | [76435-ropelike.json](./76435-ropelike.json) |
 | Ropeman | 403110 | [403110-ropeman.json](./403110-ropeman.json) |
+| Roperunner | 397525 | [397525-roperunner.json](./397525-roperunner.json) |
 | Ropes and Dragons VR | 29901 | [29901-ropes-and-dragons-vr.json](./29901-ropes-and-dragons-vr.json) |
 | Ropeway Simulator 2014 | 36345 | [36345-ropeway-simulator-2014.json](./36345-ropeway-simulator-2014.json) |
 | Ropin' Ranch | 279425 | [279425-ropin-ranch.json](./279425-ropin-ranch.json) |
