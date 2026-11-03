@@ -3130,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump or Roll Game | 246987 | [246987-jump-or-roll-game.json](./246987-jump-or-roll-game.json) |
 | Jump Out | 280310 | [280310-jump-out.json](./280310-jump-out.json) |
 | Jump Out! The Computer | 101871 | [101871-jump-out-the-computer.json](./101871-jump-out-the-computer.json) |
+| Jump Over It! | 372162 | [372162-jump-over-it.json](./372162-jump-over-it.json) |
 | Jump Over the Age Collection | 200500 | [200500-jump-over-the-age-collection.json](./200500-jump-over-the-age-collection.json) |
 | Jump Pals | 291704 | [291704-jump-pals.json](./291704-jump-pals.json) |
 | Jump Penguin Final | 279256 | [279256-jump-penguin-final.json](./279256-jump-penguin-final.json) |
