@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Debt | 179341 | [179341-last-debt.json](./179341-last-debt.json) |
 | Last Defender | 310562 | [310562-last-defender.json](./310562-last-defender.json) |
 | Last Defenders | 173045 | [173045-last-defenders.json](./173045-last-defenders.json) |
+| Last Defense | 397508 | [397508-last-defense.json](./397508-last-defense.json) |
 | Last Definitive Fantasy | 340897 | [340897-last-definitive-fantasy.json](./340897-last-definitive-fantasy.json) |
 | Last Dive: Echo Trench | 405764 | [405764-last-dive-echo-trench.json](./405764-last-dive-echo-trench.json) |
 | Last Dolls | 382318 | [382318-last-dolls.json](./382318-last-dolls.json) |
@@ -5340,6 +5341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquid Havoc | 212105 | [212105-liquid-havoc.json](./212105-liquid-havoc.json) |
 | Liquid Kids | 16750 | [16750-liquid-kids.json](./16750-liquid-kids.json) |
 | Liquid Light | 286001 | [286001-liquid-light.json](./286001-liquid-light.json) |
+| Liquid Lungs | 397486 | [397486-liquid-lungs.json](./397486-liquid-lungs.json) |
 | Liquid Metal: Alien Attack | 56565 | [56565-liquid-metal-alien-attack.json](./56565-liquid-metal-alien-attack.json) |
 | Liquid Metal: Arena | 184830 | [184830-liquid-metal-arena.json](./184830-liquid-metal-arena.json) |
 | Liquid Peak: Offroad | 349743 | [349743-liquid-peak-offroad.json](./349743-liquid-peak-offroad.json) |
