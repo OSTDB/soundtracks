@@ -4248,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catjong 5: Paw Canyon | 402100 | [402100-catjong-5-paw-canyon.json](./402100-catjong-5-paw-canyon.json) |
 | CatJump | 256139 | [256139-catjump.json](./256139-catjump.json) |
 | Catkanoid | 373297 | [373297-catkanoid.json](./373297-catkanoid.json) |
+| CatLands | 391950 | [391950-catlands.json](./391950-catlands.json) |
 | Catlateral Damage | 17966 | [17966-catlateral-damage.json](./17966-catlateral-damage.json) |
 | Catlateral Damage: Remeowstered | 135589 | [135589-catlateral-damage-remeowstered.json](./135589-catlateral-damage-remeowstered.json) |
 | Catlateral Damage: VR | 170315 | [170315-catlateral-damage-vr.json](./170315-catlateral-damage-vr.json) |
@@ -5721,6 +5722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charade Maniacs | 69343 | [69343-charade-maniacs.json](./69343-charade-maniacs.json) |
 | Charade Maniacs for Nintendo Switch | 201618 | [201618-charade-maniacs-for-nintendo-switch.json](./201618-charade-maniacs-for-nintendo-switch.json) |
 | Charade Maniacs: Limited Edition | 265936 | [265936-charade-maniacs-limited-edition.json](./265936-charade-maniacs-limited-edition.json) |
+| Charades Movie One | 391933 | [391933-charades-movie-one.json](./391933-charades-movie-one.json) |
 | Charades Taboo Game | 100145 | [100145-charades-taboo-game.json](./100145-charades-taboo-game.json) |
 | Charades! | 88858 | [88858-charades.json](./88858-charades.json) |
 | Charem of Metropolitan | 236909 | [236909-charem-of-metropolitan.json](./236909-charem-of-metropolitan.json) |
@@ -12894,6 +12896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Bubble Bobble | 415224 | [415224-console-archives-bubble-bobble.json](./415224-console-archives-bubble-bobble.json) |
 | Console Archives: Chack’n Pop | 422202 | [422202-console-archives-chack-n-pop.json](./422202-console-archives-chack-n-pop.json) |
 | Console Archives: Crazy Climber | 418714 | [418714-console-archives-crazy-climber.json](./418714-console-archives-crazy-climber.json) |
+| Console Archives: Dezaemon | 391963 | [391963-console-archives-dezaemon.json](./391963-console-archives-dezaemon.json) |
 | Console Archives: Geki-Oh ShienRyu | 403301 | [403301-console-archives-geki-oh-shienryu.json](./403301-console-archives-geki-oh-shienryu.json) |
 | Console Archives: Hercules no Eikou II - Taitan no Metsubou | 410364 | [410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json](./410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json) |
 | Console Archives: Ishin no Arashi | 398773 | [398773-console-archives-ishin-no-arashi.json](./398773-console-archives-ishin-no-arashi.json) |
@@ -14751,6 +14754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid: Survive the PlanDemic | 168085 | [168085-covid-survive-the-plandemic.json](./168085-covid-survive-the-plandemic.json) |
 | Covid: The Outbreak | 133007 | [133007-covid-the-outbreak.json](./133007-covid-the-outbreak.json) |
 | Covid19: Toilet Paper Run | 285531 | [285531-covid19-toilet-paper-run.json](./285531-covid19-toilet-paper-run.json) |
+| Cow & Chicken: Super Cow Adventure | 391945 | [391945-cow-and-chicken-super-cow-adventure.json](./391945-cow-and-chicken-super-cow-adventure.json) |
 | Cow Abduction Frenzy | 405958 | [405958-cow-abduction-frenzy.json](./405958-cow-abduction-frenzy.json) |
 | Cow Catcher | 124594 | [124594-cow-catcher.json](./124594-cow-catcher.json) |
 | Cow Catcher Simulator | 82323 | [82323-cow-catcher-simulator.json](./82323-cow-catcher-simulator.json) |
@@ -15693,6 +15697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Economy Craft | 71047 | [71047-crazy-economy-craft.json](./71047-crazy-economy-craft.json) |
 | Crazy Edition of Stunts | 219230 | [219230-crazy-edition-of-stunts.json](./219230-crazy-edition-of-stunts.json) |
 | Crazy Eights | 70353 | [70353-crazy-eights.json](./70353-crazy-eights.json) |
+| Crazy Eights 3D Premium | 391931 | [391931-crazy-eights-3d-premium.json](./391931-crazy-eights-3d-premium.json) |
 | Crazy Empress | 385798 | [385798-crazy-empress.json](./385798-crazy-empress.json) |
 | Crazy Er-Bert | 354650 | [354650-crazy-er-bert.json](./354650-crazy-er-bert.json) |
 | Crazy Estate | 200042 | [200042-crazy-estate.json](./200042-crazy-estate.json) |
