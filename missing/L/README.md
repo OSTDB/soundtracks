@@ -4854,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil' Robo | 331305 | [331305-lil-robo.json](./331305-lil-robo.json) |
 | Lil' Satan's Cake Quest | 334456 | [334456-lil-satans-cake-quest.json](./334456-lil-satans-cake-quest.json) |
 | lil' Sherman | 127628 | [127628-lil-sherman.json](./127628-lil-sherman.json) |
+| Lil' Snot: Moon Escape | 350883 | [350883-lil-snot-moon-escape.json](./350883-lil-snot-moon-escape.json) |
 | Lil'Johnny Watermelon Smash | 324274 | [324274-liljohnny-watermelon-smash.json](./324274-liljohnny-watermelon-smash.json) |
 | Lila's Atelier | 391450 | [391450-lilas-atelier.json](./391450-lilas-atelier.json) |
 | Lila's Sky Ark | 144552 | [144552-lilas-sky-ark.json](./144552-lilas-sky-ark.json) |
@@ -9086,6 +9087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luhor's Memory | 393748 | [393748-luhors-memory.json](./393748-luhors-memory.json) |
 | Luigi & Spaghetti | 94408 | [94408-luigi-and-spaghetti.json](./94408-luigi-and-spaghetti.json) |
 | Luigi and the Christmas Quest | 229321 | [229321-luigi-and-the-christmas-quest.json](./229321-luigi-and-the-christmas-quest.json) |
+| Luigi and the Forest Ruins Rebooted: Green Comet | 350869 | [350869-luigi-and-the-forest-ruins-rebooted-green-comet.json](./350869-luigi-and-the-forest-ruins-rebooted-green-comet.json) |
 | Luigi and the Island of Mystery | 273029 | [273029-luigi-and-the-island-of-mystery.json](./273029-luigi-and-the-island-of-mystery.json) |
 | Luigi and the Quest for Nothing | 322004 | [322004-luigi-and-the-quest-for-nothing.json](./322004-luigi-and-the-quest-for-nothing.json) |
 | Luigi and the Quest for Nothing 2 | 265883 | [265883-luigi-and-the-quest-for-nothing-2.json](./265883-luigi-and-the-quest-for-nothing-2.json) |
@@ -9097,6 +9099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi Floating on an Egg Over the Sea | 307668 | [307668-luigi-floating-on-an-egg-over-the-sea.json](./307668-luigi-floating-on-an-egg-over-the-sea.json) |
 | Luigi in Sonic the Hedgehog | 198518 | [198518-luigi-in-sonic-the-hedgehog.json](./198518-luigi-in-sonic-the-hedgehog.json) |
 | Luigi Kaizo King | 218067 | [218067-luigi-kaizo-king.json](./218067-luigi-kaizo-king.json) |
+| Luigi MasterMind | 350755 | [350755-luigi-mastermind.json](./350755-luigi-mastermind.json) |
 | Luigi Puzzle | 341142 | [341142-luigi-puzzle.json](./341142-luigi-puzzle.json) |
 | Luigi Quest | 318025 | [318025-luigi-quest.json](./318025-luigi-quest.json) |
 | Luigi Run | 203387 | [203387-luigi-run.json](./203387-luigi-run.json) |
