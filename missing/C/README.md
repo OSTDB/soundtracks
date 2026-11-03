@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
 | Cafe Business Manager | 384567 | [384567-cafe-business-manager.json](./384567-cafe-business-manager.json) |
 | Cafe Cafe: Idle Bird Collector | 393813 | [393813-cafe-cafe-idle-bird-collector.json](./393813-cafe-cafe-idle-bird-collector.json) |
+| Café Cat | 393854 | [393854-cafe-cat.json](./393854-cafe-cat.json) |
 | Cafe Crawlers | 184885 | [184885-cafe-crawlers.json](./184885-cafe-crawlers.json) |
 | Cafe Crew Simulator | 374565 | [374565-cafe-crew-simulator.json](./374565-cafe-crew-simulator.json) |
 | Cafe Crush | 119723 | [119723-cafe-crush.json](./119723-cafe-crush.json) |
@@ -4427,6 +4428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattch | 146549 | [146549-cattch.json](./146549-cattch.json) |
 | Cattenburg | 187234 | [187234-cattenburg.json](./187234-cattenburg.json) |
 | CatTerror: The Abandoned House | 347316 | [347316-catterror-the-abandoned-house.json](./347316-catterror-the-abandoned-house.json) |
+| CatThroat Kitchen | 393865 | [393865-catthroat-kitchen.json](./393865-catthroat-kitchen.json) |
 | Cattie | 274355 | [274355-cattie.json](./274355-cattie.json) |
 | Catting Over It | 277262 | [277262-catting-over-it.json](./277262-catting-over-it.json) |
 | Cattle Admission Challenge | 367152 | [367152-cattle-admission-challenge.json](./367152-cattle-admission-challenge.json) |
@@ -13451,6 +13453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Battle! | 194134 | [194134-cooking-battle.json](./194134-cooking-battle.json) |
 | Cooking Bride to Primrose Lake | 417602 | [417602-cooking-bride-to-primrose-lake.json](./417602-cooking-bride-to-primrose-lake.json) |
 | Cooking by the Numbers | 364616 | [364616-cooking-by-the-numbers.json](./364616-cooking-by-the-numbers.json) |
+| Cooking Cat-Astrophe | 393882 | [393882-cooking-cat-astrophe.json](./393882-cooking-cat-astrophe.json) |
 | Cooking Champions | 119017 | [119017-cooking-champions.json](./119017-cooking-champions.json) |
 | Cooking Championship | 204325 | [204325-cooking-championship.json](./204325-cooking-championship.json) |
 | Cooking Chaos | 246492 | [246492-cooking-chaos.json](./246492-cooking-chaos.json) |
@@ -18127,6 +18130,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubified | 241451 | [241451-cubified.json](./241451-cubified.json) |
 | Cubik | 294301 | [294301-cubik.json](./294301-cubik.json) |
 | Cubikill | 341076 | [341076-cubikill.json](./341076-cubikill.json) |
+| Cubikill 2 | 393784 | [393784-cubikill-2.json](./393784-cubikill-2.json) |
+| Cubikill 3 | 393859 | [393859-cubikill-3.json](./393859-cubikill-3.json) |
+| Cubikill 4 | 393860 | [393860-cubikill-4.json](./393860-cubikill-4.json) |
+| Cubikill 5 | 393861 | [393861-cubikill-5.json](./393861-cubikill-5.json) |
 | Cubikolor | 19888 | [19888-cubikolor.json](./19888-cubikolor.json) |
 | Cubin | 299744 | [299744-cubin.json](./299744-cubin.json) |
 | Cubin II | 368485 | [368485-cubin-ii.json](./368485-cubin-ii.json) |
