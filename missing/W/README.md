@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wag | 312562 | [312562-wag.json](./312562-wag.json) |
 | Wag Royale | 124613 | [124613-wag-royale.json](./124613-wag-royale.json) |
 | Waga Himegimi ni Eikan o | 187745 | [187745-waga-himegimi-ni-eikan-o.json](./187745-waga-himegimi-ni-eikan-o.json) |
+| Waga Himegimi ni Eikan wo: Shogun no Yuuwaku | 370952 | [370952-waga-himegimi-ni-eikan-wo-shogun-no-yuuwaku.json](./370952-waga-himegimi-ni-eikan-wo-shogun-no-yuuwaku.json) |
 | Waga Seishun no Arcadia | 385731 | [385731-waga-seishun-no-arcadia.json](./385731-waga-seishun-no-arcadia.json) |
 | Wagamama Fairy: Mirumo de Pon! DokiDoki Memorial Panic | 284596 | [284596-wagamama-fairy-mirumo-de-pon-dokidoki-memorial-panic.json](./284596-wagamama-fairy-mirumo-de-pon-dokidoki-memorial-panic.json) |
 | Wagamama Fairy: Mirumo de Pon! Hachinin no Toki no Yousei | 284597 | [284597-wagamama-fairy-mirumo-de-pon-hachinin-no-toki-no-yousei.json](./284597-wagamama-fairy-mirumo-de-pon-hachinin-no-toki-no-yousei.json) |
@@ -2576,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Samurai 4 | 10158 | [10158-way-of-the-samurai-4.json](./10158-way-of-the-samurai-4.json) |
 | Way of the Samurai Portable | 38486 | [38486-way-of-the-samurai-portable.json](./38486-way-of-the-samurai-portable.json) |
 | Way of the Samurai Portable 2 | 59371 | [59371-way-of-the-samurai-portable-2.json](./59371-way-of-the-samurai-portable-2.json) |
+| Way of the Warrior | 370975 | [370975-way-of-the-warrior.json](./370975-way-of-the-warrior.json) |
 | Way of the Wizard | 232431 | [232431-way-of-the-wizard.json](./232431-way-of-the-wizard.json) |
 | Way on Where | 195740 | [195740-way-on-where.json](./195740-way-on-where.json) |
 | Way Out | 277702 | [277702-way-out.json](./277702-way-out.json) |
@@ -7230,6 +7232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Scramble | 87551 | [87551-word-scramble.json](./87551-word-scramble.json) |
 | Word Search | 133777 | [133777-word-search.json](./133777-word-search.json) |
 | Word Search | 134932 | [134932-word-search.json](./134932-word-search.json) |
+| Word Search | 370356 | [370356-word-search.json](./370356-word-search.json) |
 | Word Search | 89813 | [89813-word-search.json](./89813-word-search.json) |
 | Word Search - Puzzle Game For Kids | 108507 | [108507-word-search-puzzle-game-for-kids.json](./108507-word-search-puzzle-game-for-kids.json) |
 | Word Search & Learn | 233741 | [233741-word-search-and-learn.json](./233741-word-search-and-learn.json) |
@@ -7313,6 +7316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Whomp HD | 318610 | [318610-word-whomp-hd.json](./318610-word-whomp-hd.json) |
 | Word Whomp Underground | 205884 | [205884-word-whomp-underground.json](./205884-word-whomp-underground.json) |
 | Word Wise | 157723 | [157723-word-wise.json](./157723-word-wise.json) |
+| Word Wiz | 370359 | [370359-word-wiz.json](./370359-word-wiz.json) |
 | Word Wizard 3D | 84937 | [84937-word-wizard-3d.json](./84937-word-wizard-3d.json) |
 | Word Wonders: The Tower of Babel | 35465 | [35465-word-wonders-the-tower-of-babel.json](./35465-word-wonders-the-tower-of-babel.json) |
 | Word Worm | 229344 | [229344-word-worm.json](./229344-word-worm.json) |
