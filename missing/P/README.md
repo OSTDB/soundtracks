@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pakacuda | 83264 | [83264-pakacuda.json](./83264-pakacuda.json) |
 | Pakapow Party | 320114 | [320114-pakapow-party.json](./320114-pakapow-party.json) |
 | Pakicetus | 126516 | [126516-pakicetus.json](./126516-pakicetus.json) |
+| Pakicetus Redux | 368213 | [368213-pakicetus-redux.json](./368213-pakicetus-redux.json) |
 | Pakistan Car Simulator Game | 335638 | [335638-pakistan-car-simulator-game.json](./335638-pakistan-car-simulator-game.json) |
 | Pakistan Quiz | 329411 | [329411-pakistan-quiz.json](./329411-pakistan-quiz.json) |
 | Pakka Pets Village | 230212 | [230212-pakka-pets-village.json](./230212-pakka-pets-village.json) |
@@ -8301,6 +8302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm Collection 2 | 334080 | [334080-pixicharm-collection-2.json](./334080-pixicharm-collection-2.json) |
 | Pixicharm: Acornflare | 389416 | [389416-pixicharm-acornflare.json](./389416-pixicharm-acornflare.json) |
 | Pixicharm: BitPew | 392346 | [392346-pixicharm-bitpew.json](./392346-pixicharm-bitpew.json) |
+| Pixicharm: Blaster Orbit | 368186 | [368186-pixicharm-blaster-orbit.json](./368186-pixicharm-blaster-orbit.json) |
 | Pixicharm: Bus Coinventure | 332538 | [332538-pixicharm-bus-coinventure.json](./332538-pixicharm-bus-coinventure.json) |
 | Pixicharm: Cavrielle | 374716 | [374716-pixicharm-cavrielle.json](./374716-pixicharm-cavrielle.json) |
 | Pixicharm: Celestibun | 378768 | [378768-pixicharm-celestibun.json](./378768-pixicharm-celestibun.json) |
@@ -11501,6 +11503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Vita | 175604 | [175604-poly-vita.json](./175604-poly-vita.json) |
 | Poly World | 90129 | [90129-poly-world.json](./90129-poly-world.json) |
 | Poly-Net Warriors | 222907 | [222907-poly-net-warriors.json](./222907-poly-net-warriors.json) |
+| Poly-Vinyl Pests! | 368216 | [368216-poly-vinyl-pests.json](./368216-poly-vinyl-pests.json) |
 | Polyamorous Relationships | 179048 | [179048-polyamorous-relationships.json](./179048-polyamorous-relationships.json) |
 | Polyaris | 307263 | [307263-polyaris.json](./307263-polyaris.json) |
 | Polyarmory: High Calibre Love | 369799 | [369799-polyarmory-high-calibre-love.json](./369799-polyarmory-high-calibre-love.json) |
