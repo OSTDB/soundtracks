@@ -1594,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.R.S.E.N.A.L. Taste of Power | 204341 | [204341-a-r-s-e-n-a-l-taste-of-power.json](./204341-a-r-s-e-n-a-l-taste-of-power.json) |
 | A.R.U. | 412069 | [412069-a-r-u.json](./412069-a-r-u.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
+| A.S.İ: Başlangiç | 374013 | [374013-a-s-i-baslangic.json](./374013-a-s-i-baslangic.json) |
 | A.S.P.: Air Strike Patrol | 42662 | [42662-a-s-p-air-strike-patrol.json](./42662-a-s-p-air-strike-patrol.json) |
 | A.S.S. (Amazing Slot Survivor) | 412463 | [412463-a-s-s-amazing-slot-survivor.json](./412463-a-s-s-amazing-slot-survivor.json) |
 | A.S.S.: Awesome Street Skaters | 245907 | [245907-a-s-s-awesome-street-skaters.json](./245907-a-s-s-awesome-street-skaters.json) |
@@ -2983,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Addition and Subtraction 2 | 42193 | [42193-addition-and-subtraction-2.json](./42193-addition-and-subtraction-2.json) |
 | Addition and Subtraction 3 | 42192 | [42192-addition-and-subtraction-3.json](./42192-addition-and-subtraction-3.json) |
 | Addition Flash Cards Math Help Quiz Learning Games | 91058 | [91058-addition-flash-cards-math-help-quiz-learning-games.json](./91058-addition-flash-cards-math-help-quiz-learning-games.json) |
+| Addition Subtraction Multiplication Division Magician | 374325 | [374325-addition-subtraction-multiplication-division-magician.json](./374325-addition-subtraction-multiplication-division-magician.json) |
 | Addle Earth | 158119 | [158119-addle-earth.json](./158119-addle-earth.json) |
 | Addled | 207288 | [207288-addled.json](./207288-addled.json) |
 | Addmath | 239075 | [239075-addmath.json](./239075-addmath.json) |
@@ -3286,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advent Shadow | 92698 | [92698-advent-shadow.json](./92698-advent-shadow.json) |
 | Advent: Dawn | 354477 | [354477-advent-dawn.json](./354477-advent-dawn.json) |
 | Advent/Archive | 352363 | [352363-advent-archive.json](./352363-advent-archive.json) |
+| Adventarum | 373999 | [373999-adventarum.json](./373999-adventarum.json) |
 | Adventopia | 355216 | [355216-adventopia.json](./355216-adventopia.json) |
 | Adventsquiz | 72266 | [72266-adventsquiz.json](./72266-adventsquiz.json) |
 | Adventure | 12239 | [12239-adventure.json](./12239-adventure.json) |
@@ -7430,6 +7433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphaville | 253284 | [253284-alphaville.json](./253284-alphaville.json) |
 | Alphys Neo | 268875 | [268875-alphys-neo.json](./268875-alphys-neo.json) |
 | Alpine | 302820 | [302820-alpine.json](./302820-alpine.json) |
+| Alpine | 374014 | [374014-alpine.json](./374014-alpine.json) |
 | Alpine Alpaca | 181218 | [181218-alpine-alpaca.json](./181218-alpine-alpaca.json) |
 | Alpine Crawler | 88732 | [88732-alpine-crawler.json](./88732-alpine-crawler.json) |
 | Alpine Crawler Wild | 174199 | [174199-alpine-crawler-wild.json](./174199-alpine-crawler-wild.json) |
@@ -16694,6 +16698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn Leaves II | 179870 | [179870-autumn-leaves-ii.json](./179870-autumn-leaves-ii.json) |
 | Autumn Night 3D Shooter | 29723 | [29723-autumn-night-3d-shooter.json](./29723-autumn-night-3d-shooter.json) |
 | Autumn Park Mini Golf | 32048 | [32048-autumn-park-mini-golf.json](./32048-autumn-park-mini-golf.json) |
+| Autumn Rail | 374326 | [374326-autumn-rail.json](./374326-autumn-rail.json) |
 | Autumn Romance | 191039 | [191039-autumn-romance.json](./191039-autumn-romance.json) |
 | Autumn Soil | 184998 | [184998-autumn-soil.json](./184998-autumn-soil.json) |
 | Autumn Walk | 63883 | [63883-autumn-walk.json](./63883-autumn-walk.json) |
