@@ -12034,6 +12034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperfield | 295877 | [295877-hyperfield.json](./295877-hyperfield.json) |
 | Hyperfight | 115513 | [115513-hyperfight.json](./115513-hyperfight.json) |
 | Hyperfight 2 | 340496 | [340496-hyperfight-2.json](./340496-hyperfight-2.json) |
+| Hyperfist | 363137 | [363137-hyperfist.json](./363137-hyperfist.json) |
 | HyperFleet | 168683 | [168683-hyperfleet.json](./168683-hyperfleet.json) |
 | Hyperflex Ultra | 355562 | [355562-hyperflex-ultra.json](./355562-hyperflex-ultra.json) |
 | HyperFlight | 340497 | [340497-hyperflight.json](./340497-hyperflight.json) |
