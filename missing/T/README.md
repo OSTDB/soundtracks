@@ -25694,6 +25694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
 | Tower of Heresy | 127799 | [127799-tower-of-heresy.json](./127799-tower-of-heresy.json) |
 | Tower of Hidden Waifus | 276142 | [276142-tower-of-hidden-waifus.json](./276142-tower-of-hidden-waifus.json) |
+| Tower of Jank | 373790 | [373790-tower-of-jank.json](./373790-tower-of-jank.json) |
 | Tower Of Lies | 291520 | [291520-tower-of-lies.json](./291520-tower-of-lies.json) |
 | Tower of Lust | 385408 | [385408-tower-of-lust.json](./385408-tower-of-lust.json) |
 | Tower of Lust | 68329 | [68329-tower-of-lust.json](./68329-tower-of-lust.json) |
@@ -26551,6 +26552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Plus 2 | 386378 | [386378-train-plus-2.json](./386378-train-plus-2.json) |
 | Train Plus Japan: Drive Western Japan Trains! - Rapid Service Edition | 412568 | [412568-train-plus-japan-drive-western-japan-trains-rapid-service-edition.json](./412568-train-plus-japan-drive-western-japan-trains-rapid-service-edition.json) |
 | Train Plus: Kowa Dentetsu Regular Colors Train | 355228 | [355228-train-plus-kowa-dentetsu-regular-colors-train.json](./355228-train-plus-kowa-dentetsu-regular-colors-train.json) |
+| Train Reaction | 373791 | [373791-train-reaction.json](./373791-train-reaction.json) |
 | Train Ride Simulator | 149709 | [149709-train-ride-simulator.json](./149709-train-ride-simulator.json) |
 | Train Robbers | 59643 | [59643-train-robbers.json](./59643-train-robbers.json) |
 | Train Runner VR | 75632 | [75632-train-runner-vr.json](./75632-train-runner-vr.json) |
@@ -28483,6 +28485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash | 94319 | [94319-trash.json](./94319-trash.json) |
 | Trash & Fists | 244093 | [244093-trash-and-fists.json](./244093-trash-and-fists.json) |
 | Trash Bandits | 125430 | [125430-trash-bandits.json](./125430-trash-bandits.json) |
+| Trash Card Adventure | 373794 | [373794-trash-card-adventure.json](./373794-trash-card-adventure.json) |
 | Trash Coin | 410697 | [410697-trash-coin.json](./410697-trash-coin.json) |
 | Trash Collector Simulator: Survive Edition | 351029 | [351029-trash-collector-simulator-survive-edition.json](./351029-trash-collector-simulator-survive-edition.json) |
 | Trash Day | 406477 | [406477-trash-day.json](./406477-trash-day.json) |
