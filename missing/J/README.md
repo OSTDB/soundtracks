@@ -3087,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Force: Deluxe Edition | 118748 | [118748-jump-force-deluxe-edition.json](./118748-jump-force-deluxe-edition.json) |
 | Jump Force: Ultimate Edition | 118721 | [118721-jump-force-ultimate-edition.json](./118721-jump-force-ultimate-edition.json) |
 | Jump Frog | 246343 | [246343-jump-frog.json](./246343-jump-frog.json) |
+| Jump Frog | 372402 | [372402-jump-frog.json](./372402-jump-frog.json) |
 | Jump Generation | 74995 | [74995-jump-generation.json](./74995-jump-generation.json) |
 | Jump Greed | 363563 | [363563-jump-greed.json](./363563-jump-greed.json) |
 | Jump Gunners | 75296 | [75296-jump-gunners.json](./75296-jump-gunners.json) |
