@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigoku Unko: Toripuru | 203742 | [203742-jigoku-unko-toripuru.json](./203742-jigoku-unko-toripuru.json) |
 | Jigokuraku: Paradise Battle | 409820 | [409820-jigokuraku-paradise-battle.json](./409820-jigokuraku-paradise-battle.json) |
 | Jigoro | 367140 | [367140-jigoro.json](./367140-jigoro.json) |
+| Jigrift | 383401 | [383401-jigrift.json](./383401-jigrift.json) |
 | Jigsaw | 149289 | [149289-jigsaw.json](./149289-jigsaw.json) |
 | Jigsaw | 7863 | [7863-jigsaw.json](./7863-jigsaw.json) |
 | Jigsaw 360 | 112490 | [112490-jigsaw-360.json](./112490-jigsaw-360.json) |
