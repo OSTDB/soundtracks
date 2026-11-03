@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo | 388934 | [388934-echo.json](./388934-echo.json) |
 | Echo | 84104 | [84104-echo.json](./84104-echo.json) |
 | Echo 9 | 410936 | [410936-echo-9.json](./410936-echo-9.json) |
+| Echo 91 | 374197 | [374197-echo-91.json](./374197-echo-91.json) |
 | Echo Beach | 178233 | [178233-echo-beach.json](./178233-echo-beach.json) |
 | Echo Blade | 252308 | [252308-echo-blade.json](./252308-echo-blade.json) |
 | Echo Canyon Band | 417441 | [417441-echo-canyon-band.json](./417441-echo-canyon-band.json) |
@@ -5939,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EtherOrcs | 199204 | [199204-etherorcs.json](./199204-etherorcs.json) |
 | Etherrealm | 292248 | [292248-etherrealm.json](./292248-etherrealm.json) |
 | Etherwind | 392387 | [392387-etherwind.json](./392387-etherwind.json) |
+| Ethics Empire | 374008 | [374008-ethics-empire.json](./374008-ethics-empire.json) |
 | EthnoGuessr | 340230 | [340230-ethnoguessr.json](./340230-ethnoguessr.json) |
 | Ethos 2: Fall of Empires | 190433 | [190433-ethos-2-fall-of-empires.json](./190433-ethos-2-fall-of-empires.json) |
 | Ethos Mythos | 419975 | [419975-ethos-mythos.json](./419975-ethos-mythos.json) |
