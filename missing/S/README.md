@@ -2193,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Christmas With Santa | 325010 | [325010-save-christmas-with-santa.json](./325010-save-christmas-with-santa.json) |
 | Save City R | 260399 | [260399-save-city-r.json](./260399-save-city-r.json) |
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
+| Save Daddy Gump Mission Middle East | 359148 | [359148-save-daddy-gump-mission-middle-east.json](./359148-save-daddy-gump-mission-middle-east.json) |
 | Save Daddy Trump | 119806 | [119806-save-daddy-trump.json](./119806-save-daddy-trump.json) |
 | Save daddy trump 2: The Final Triumph | 142234 | [142234-save-daddy-trump-2-the-final-triumph.json](./142234-save-daddy-trump-2-the-final-triumph.json) |
 | Save Daddy Trump 4: Maga 2024 | 301832 | [301832-save-daddy-trump-4-maga-2024.json](./301832-save-daddy-trump-4-maga-2024.json) |
@@ -10180,6 +10181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silvanis | 365848 | [365848-silvanis.json](./365848-silvanis.json) |
 | Silvarn | 384917 | [384917-silvarn.json](./384917-silvarn.json) |
 | Silvatale | 370414 | [370414-silvatale.json](./370414-silvatale.json) |
+| Silver | 359147 | [359147-silver.json](./359147-silver.json) |
 | Silver | 7042 | [7042-silver.json](./7042-silver.json) |
 | Silver Axe: The Honest Elf | 195129 | [195129-silver-axe-the-honest-elf.json](./195129-silver-axe-the-honest-elf.json) |
 | Silver Blade of Gods' End | 301602 | [301602-silver-blade-of-gods-end.json](./301602-silver-blade-of-gods-end.json) |
@@ -18716,7 +18718,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19519,6 +19520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacesheep | 356047 | [356047-spacesheep.json](./356047-spacesheep.json) |
 | SpaceShift | 393610 | [393610-spaceshift.json](./393610-spaceshift.json) |
 | Spaceship Ace Pilot | 240621 | [240621-spaceship-ace-pilot.json](./240621-spaceship-ace-pilot.json) |
+| Spaceship Battler Unlimited | 359156 | [359156-spaceship-battler-unlimited.json](./359156-spaceship-battler-unlimited.json) |
 | Spaceship Carptain | 128824 | [128824-spaceship-carptain.json](./128824-spaceship-carptain.json) |
 | Spaceship Commander | 124694 | [124694-spaceship-commander.json](./124694-spaceship-commander.json) |
 | Spaceship Curse | 147634 | [147634-spaceship-curse.json](./147634-spaceship-curse.json) |
@@ -19646,6 +19648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark Era | 229112 | [229112-spark-era.json](./229112-spark-era.json) |
 | Spark Era: Echo to Universe | 227171 | [227171-spark-era-echo-to-universe.json](./227171-spark-era-echo-to-universe.json) |
 | Spark Five | 111683 | [111683-spark-five.json](./111683-spark-five.json) |
+| Spark Ignites | 359157 | [359157-spark-ignites.json](./359157-spark-ignites.json) |
 | Spark in Sonic After the Sequel | 337170 | [337170-spark-in-sonic-after-the-sequel.json](./337170-spark-in-sonic-after-the-sequel.json) |
 | Spark in the Dark | 140616 | [140616-spark-in-the-dark.json](./140616-spark-in-the-dark.json) |
 | Spark Man | 40169 | [40169-spark-man.json](./40169-spark-man.json) |
