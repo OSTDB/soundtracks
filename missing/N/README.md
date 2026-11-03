@@ -1771,7 +1771,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: ProStreet | 210432 | [210432-need-for-speed-prostreet.json](./210432-need-for-speed-prostreet.json) |
 | Need for Speed: ProStreet | 240505 | [240505-need-for-speed-prostreet.json](./240505-need-for-speed-prostreet.json) |
 | Need for Speed: ProStreet | 248125 | [248125-need-for-speed-prostreet.json](./248125-need-for-speed-prostreet.json) |
-| Need for Speed: ProStreet | 248126 | [248126-need-for-speed-prostreet.json](./248126-need-for-speed-prostreet.json) |
 | Need for Speed: Shift | 102 | [102-need-for-speed-shift.json](./102-need-for-speed-shift.json) |
 | Need for Speed: Shift | 248136 | [248136-need-for-speed-shift.json](./248136-need-for-speed-shift.json) |
 | Need for Speed: Shift | 328287 | [328287-need-for-speed-shift.json](./328287-need-for-speed-shift.json) |
