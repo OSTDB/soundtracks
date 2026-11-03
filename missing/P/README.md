@@ -70,6 +70,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P1: Anchor Light | 363808 | [363808-p1-anchor-light.json](./363808-p1-anchor-light.json) |
 | P1441vr | 186851 | [186851-p1441vr.json](./186851-p1441vr.json) |
 | P1r4t3s | 126937 | [126937-p1r4t3s.json](./126937-p1r4t3s.json) |
+| P3D/P5D: Accessory Season Pass | 362146 | [362146-p3d-p5d-accessory-season-pass.json](./362146-p3d-p5d-accessory-season-pass.json) |
+| P3D/P5D: Song Season Pass | 362145 | [362145-p3d-p5d-song-season-pass.json](./362145-p3d-p5d-song-season-pass.json) |
 | P47 Thunderbolt | 12838 | [12838-p47-thunderbolt.json](./12838-p47-thunderbolt.json) |
 | P4st3l | 297357 | [297357-p4st3l.json](./297357-p4st3l.json) |
 | P9: The GateAway | 129093 | [129093-p9-the-gateaway.json](./129093-p9-the-gateaway.json) |
@@ -3660,6 +3662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peepo Island | 208706 | [208706-peepo-island.json](./208706-peepo-island.json) |
 | Peer Gynt the Game | 126586 | [126586-peer-gynt-the-game.json](./126586-peer-gynt-the-game.json) |
 | Peer Pressure | 404397 | [404397-peer-pressure.json](./404397-peer-pressure.json) |
+| Peer Review | 362133 | [362133-peer-review.json](./362133-peer-review.json) |
 | Peer to Peer | 306646 | [306646-peer-to-peer.json](./306646-peer-to-peer.json) |
 | Peer-2-Pizza | 417448 | [417448-peer-2-pizza.json](./417448-peer-2-pizza.json) |
 | Peerless Beauty Detective: Alice | 406885 | [406885-peerless-beauty-detective-alice.json](./406885-peerless-beauty-detective-alice.json) |
@@ -4113,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perceptio | 195167 | [195167-perceptio.json](./195167-perceptio.json) |
 | Perception | 11070 | [11070-perception.json](./11070-perception.json) |
 | Perception | 271498 | [271498-perception.json](./271498-perception.json) |
+| Perception: Heart and Mind | 361981 | [361981-perception-heart-and-mind.json](./361981-perception-heart-and-mind.json) |
 | Perceptions of the Dead 2 | 99050 | [99050-perceptions-of-the-dead-2.json](./99050-perceptions-of-the-dead-2.json) |
 | Percepts | 18392 | [18392-percepts.json](./18392-percepts.json) |
 | Perceptum | 386968 | [386968-perceptum.json](./386968-perceptum.json) |
@@ -4194,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
 | Perfect Hand of Nostalpix | 244943 | [244943-perfect-hand-of-nostalpix.json](./244943-perfect-hand-of-nostalpix.json) |
 | Perfect Harmony | 128913 | [128913-perfect-harmony.json](./128913-perfect-harmony.json) |
+| Perfect Hegemony | 362141 | [362141-perfect-hegemony.json](./362141-perfect-hegemony.json) |
 | Perfect Heist | 104565 | [104565-perfect-heist.json](./104565-perfect-heist.json) |
 | Perfect Heist 2 | 157499 | [157499-perfect-heist-2.json](./157499-perfect-heist-2.json) |
 | Perfect Heist 2: Historic Characters DLC | 274740 | [274740-perfect-heist-2-historic-characters-dlc.json](./274740-perfect-heist-2-historic-characters-dlc.json) |
@@ -4428,6 +4433,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Reload: Persona 5 Royal BGM Set | 301573 | [301573-persona-3-reload-persona-5-royal-bgm-set.json](./301573-persona-3-reload-persona-5-royal-bgm-set.json) |
 | Persona 3 Reload: Persona 5 Royal Phantom Thieves Costume Set | 301577 | [301577-persona-3-reload-persona-5-royal-phantom-thieves-costume-set.json](./301577-persona-3-reload-persona-5-royal-phantom-thieves-costume-set.json) |
 | Persona 3 Reload: Persona 5 Royal Shujin Academy Costume Set | 301572 | [301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json](./301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json) |
+| Persona 3: Dancing in Moonlight - "Our Moment" (full version) | 362131 | [362131-persona-3-dancing-in-moonlight-our-moment-full-version.json](./362131-persona-3-dancing-in-moonlight-our-moment-full-version.json) |
+| Persona 3: Dancing in Moonlight - "Wake Up, Get Up, Get Out There" (OP ver.) | 362139 | [362139-persona-3-dancing-in-moonlight-wake-up-get-up-get-out-there-op-ver.json](./362139-persona-3-dancing-in-moonlight-wake-up-get-up-get-out-there-op-ver.json) |
+| Persona 3: Dancing in Moonlight - Costume Season Pass | 362144 | [362144-persona-3-dancing-in-moonlight-costume-season-pass.json](./362144-persona-3-dancing-in-moonlight-costume-season-pass.json) |
+| Persona 3: Dancing in Moonlight - Life Will Change (Game Symphony Japan) | 362130 | [362130-persona-3-dancing-in-moonlight-life-will-change-game-symphony-japan.json](./362130-persona-3-dancing-in-moonlight-life-will-change-game-symphony-japan.json) |
+| Persona 3: Dancing in Moonlight - Picaresque Mouse Set | 362132 | [362132-persona-3-dancing-in-moonlight-picaresque-mouse-set.json](./362132-persona-3-dancing-in-moonlight-picaresque-mouse-set.json) |
+| Persona 3: Dancing in Moonlight - Special Head Accessories Set | 362134 | [362134-persona-3-dancing-in-moonlight-special-head-accessories-set.json](./362134-persona-3-dancing-in-moonlight-special-head-accessories-set.json) |
+| Persona 3: Dancing in Moonlight - Special Wing Accessories Set | 362136 | [362136-persona-3-dancing-in-moonlight-special-wing-accessories-set.json](./362136-persona-3-dancing-in-moonlight-special-wing-accessories-set.json) |
+| Persona 3: Dancing in Moonlight - Tanaka's Amazing Commodities (ATLUS Kozuka Remix) | 362137 | [362137-persona-3-dancing-in-moonlight-tanakas-amazing-commodities-atlus-kozuka-remix.json](./362137-persona-3-dancing-in-moonlight-tanakas-amazing-commodities-atlus-kozuka-remix.json) |
+| Persona 3: Dancing in Moonlight - The Whims of Fate (PSB2017) | 362138 | [362138-persona-3-dancing-in-moonlight-the-whims-of-fate-psb2017.json](./362138-persona-3-dancing-in-moonlight-the-whims-of-fate-psb2017.json) |
+| Persona 3: Dancing in Moonlight - Virtua Fighter Set | 362140 | [362140-persona-3-dancing-in-moonlight-virtua-fighter-set.json](./362140-persona-3-dancing-in-moonlight-virtua-fighter-set.json) |
+| Persona 3: Dancing in Moonlight - WEGO Collab Set | 362142 | [362142-persona-3-dancing-in-moonlight-wego-collab-set.json](./362142-persona-3-dancing-in-moonlight-wego-collab-set.json) |
 | Persona 3: The Night Before | 71158 | [71158-persona-3-the-night-before.json](./71158-persona-3-the-night-before.json) |
 | Persona 4 Arena | 5650 | [5650-persona-4-arena.json](./5650-persona-4-arena.json) |
 | Persona 4 Arena Ultimax | 11445 | [11445-persona-4-arena-ultimax.json](./11445-persona-4-arena-ultimax.json) |
@@ -4503,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona Collection | 271123 | [271123-persona-collection.json](./271123-persona-collection.json) |
 | Persona Dancing Deluxe Twin Plus | 136764 | [136764-persona-dancing-deluxe-twin-plus.json](./136764-persona-dancing-deluxe-twin-plus.json) |
 | Persona Dancing: Endless Night Collection | 106988 | [106988-persona-dancing-endless-night-collection.json](./106988-persona-dancing-endless-night-collection.json) |
+| Persona Dancing: Persona Cinematic Selection | 362143 | [362143-persona-dancing-persona-cinematic-selection.json](./362143-persona-dancing-persona-cinematic-selection.json) |
 | Persona Q: Shadow of the Labyrinth | 6887 | [6887-persona-q-shadow-of-the-labyrinth.json](./6887-persona-q-shadow-of-the-labyrinth.json) |
 | Persona Q: Shadow of the Labyrinth - Wild Cards Premium Edition | 41871 | [41871-persona-q-shadow-of-the-labyrinth-wild-cards-premium-edition.json](./41871-persona-q-shadow-of-the-labyrinth-wild-cards-premium-edition.json) |
 | Persona Q2: New Cinema Labyrinth | 54220 | [54220-persona-q2-new-cinema-labyrinth.json](./54220-persona-q2-new-cinema-labyrinth.json) |
