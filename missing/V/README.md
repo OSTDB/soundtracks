@@ -2832,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visegunne | 317775 | [317775-visegunne.json](./317775-visegunne.json) |
 | Visibility | 15546 | [15546-visibility.json](./15546-visibility.json) |
 | Visible Solar System | 125824 | [125824-visible-solar-system.json](./125824-visible-solar-system.json) |
+| Vision | 313955 | [313955-vision.json](./313955-vision.json) |
 | Vision | 88326 | [88326-vision.json](./88326-vision.json) |
 | Vision 2 | 92997 | [92997-vision-2.json](./92997-vision-2.json) |
 | Vision Crew's Deltarune: Alternate Chapters | 329603 | [329603-vision-crews-deltarune-alternate-chapters.json](./329603-vision-crews-deltarune-alternate-chapters.json) |
