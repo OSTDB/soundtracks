@@ -18043,6 +18043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Hopp's Playhouse | 125073 | [125073-mr-hopps-playhouse.json](./125073-mr-hopps-playhouse.json) |
 | Mr. Hopp's Playhouse 2 | 152818 | [152818-mr-hopps-playhouse-2.json](./152818-mr-hopps-playhouse-2.json) |
 | Mr. Hopp's Playhouse 3 | 239687 | [239687-mr-hopps-playhouse-3.json](./239687-mr-hopps-playhouse-3.json) |
+| Mr. Hopp's Playhouse HD | 302020 | [302020-mr-hopps-playhouse-hd.json](./302020-mr-hopps-playhouse-hd.json) |
 | Mr. Hopp's Playhouse: The Toybox | 371547 | [371547-mr-hopps-playhouse-the-toybox.json](./371547-mr-hopps-playhouse-the-toybox.json) |
 | Mr. Jones Graveyard Shift | 66465 | [66465-mr-jones-graveyard-shift.json](./66465-mr-jones-graveyard-shift.json) |
 | Mr. Jones: Retrubition | 280090 | [280090-mr-jones-retrubition.json](./280090-mr-jones-retrubition.json) |
@@ -19379,6 +19380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Legends - Suzuki Pack 2025 | 350644 | [350644-mx-vs-atv-legends-suzuki-pack-2025.json](./350644-mx-vs-atv-legends-suzuki-pack-2025.json) |
 | MX vs. ATV: Legends - Throwback Tracks | 271613 | [271613-mx-vs-atv-legends-throwback-tracks.json](./271613-mx-vs-atv-legends-throwback-tracks.json) |
 | MX vs. ATV: Legends - Track Pass 2024 | 302035 | [302035-mx-vs-atv-legends-track-pass-2024.json](./302035-mx-vs-atv-legends-track-pass-2024.json) |
+| MX vs. ATV: Legends - Ultimate Edition | 301777 | [301777-mx-vs-atv-legends-ultimate-edition.json](./301777-mx-vs-atv-legends-ultimate-edition.json) |
 | MX vs. ATV: Legends - Yamaha Pack | 233355 | [233355-mx-vs-atv-legends-yamaha-pack.json](./233355-mx-vs-atv-legends-yamaha-pack.json) |
 | MX vs. ATV: Legends - Yamaha Pack 2025 | 350642 | [350642-mx-vs-atv-legends-yamaha-pack-2025.json](./350642-mx-vs-atv-legends-yamaha-pack-2025.json) |
 | MX vs. ATV: On the Edge | 18267 | [18267-mx-vs-atv-on-the-edge.json](./18267-mx-vs-atv-on-the-edge.json) |
@@ -19968,6 +19970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My High School Cat Girlfriend | 206155 | [206155-my-high-school-cat-girlfriend.json](./206155-my-high-school-cat-girlfriend.json) |
 | My High School Detective | 231422 | [231422-my-high-school-detective.json](./231422-my-high-school-detective.json) |
 | My High School Life Simulator | 296739 | [296739-my-high-school-life-simulator.json](./296739-my-high-school-life-simulator.json) |
+| My Hobby: Needlework Galore | 302021 | [302021-my-hobby-needlework-galore.json](./302021-my-hobby-needlework-galore.json) |
 | My Hobby: Needlework Galore - Household | 311732 | [311732-my-hobby-needlework-galore-household.json](./311732-my-hobby-needlework-galore-household.json) |
 | My Hobby: Needlework Galore - Tiny Home | 311731 | [311731-my-hobby-needlework-galore-tiny-home.json](./311731-my-hobby-needlework-galore-tiny-home.json) |
 | My Hobby: Needlework Galore - Vintage | 312054 | [312054-my-hobby-needlework-galore-vintage.json](./312054-my-hobby-needlework-galore-vintage.json) |
@@ -21406,6 +21409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth Makers: Orbs of Doom | 5041 | [5041-myth-makers-orbs-of-doom.json](./5041-myth-makers-orbs-of-doom.json) |
 | Myth Makers: Trixie in Toyland | 5044 | [5044-myth-makers-trixie-in-toyland.json](./5044-myth-makers-trixie-in-toyland.json) |
 | Myth Match | 122267 | [122267-myth-match.json](./122267-myth-match.json) |
+| Myth Matrix | 302030 | [302030-myth-matrix.json](./302030-myth-matrix.json) |
 | Myth Monkey Card | 390860 | [390860-myth-monkey-card.json](./390860-myth-monkey-card.json) |
 | Myth of Ambition | 114139 | [114139-myth-of-ambition.json](./114139-myth-of-ambition.json) |
 | Myth of Empires | 143628 | [143628-myth-of-empires.json](./143628-myth-of-empires.json) |
