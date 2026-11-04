@@ -3479,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FeArea | 82534 | [82534-fearea.json](./82534-fearea.json) |
 | FeArea: Battle Royale | 126346 | [126346-fearea-battle-royale.json](./126346-fearea-battle-royale.json) |
 | FearFactor Institute | 356445 | [356445-fearfactor-institute.json](./356445-fearfactor-institute.json) |
+| Fearful Injection | 298204 | [298204-fearful-injection.json](./298204-fearful-injection.json) |
 | Fearful Symmetry | 336907 | [336907-fearful-symmetry.json](./336907-fearful-symmetry.json) |
 | Fearful Symmetry & The Cursed Prince | 75932 | [75932-fearful-symmetry-and-the-cursed-prince.json](./75932-fearful-symmetry-and-the-cursed-prince.json) |
 | Fearful Tales: Hansel and Gretel | 22108 | [22108-fearful-tales-hansel-and-gretel.json](./22108-fearful-tales-hansel-and-gretel.json) |
@@ -12627,6 +12628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fucked by the Princesses of the Realm | 372488 | [372488-fucked-by-the-princesses-of-the-realm.json](./372488-fucked-by-the-princesses-of-the-realm.json) |
 | Fuckling | 192750 | [192750-fuckling.json](./192750-fuckling.json) |
 | Fucksweeper | 306272 | [306272-fucksweeper.json](./306272-fucksweeper.json) |
+| Fucus | 298197 | [298197-fucus.json](./298197-fucus.json) |
 | Fuddo & Slam | 250342 | [250342-fuddo-and-slam.json](./250342-fuddo-and-slam.json) |
 | Fudêncio e Seus Amigos: Jogo do Miolo-Mole! | 331195 | [331195-fudencio-e-seus-amigos-jogo-do-miolo-mole.json](./331195-fudencio-e-seus-amigos-jogo-do-miolo-mole.json) |
 | Fudge Nuggets | 383908 | [383908-fudge-nuggets.json](./383908-fudge-nuggets.json) |
