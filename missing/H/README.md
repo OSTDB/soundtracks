@@ -6294,6 +6294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexcraft: Harlequin Fair | 153342 | [153342-hexcraft-harlequin-fair.json](./153342-hexcraft-harlequin-fair.json) |
 | Hexcrawl | 413606 | [413606-hexcrawl.json](./413606-hexcrawl.json) |
 | Hexcross | 123806 | [123806-hexcross.json](./123806-hexcross.json) |
+| Hexcross | 344258 | [344258-hexcross.json](./344258-hexcross.json) |
 | Hexdo | 312822 | [312822-hexdo.json](./312822-hexdo.json) |
 | Hexdoku | 164902 | [164902-hexdoku.json](./164902-hexdoku.json) |
 | Hexed | 178262 | [178262-hexed.json](./178262-hexed.json) |
