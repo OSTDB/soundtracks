@@ -10329,6 +10329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalous Railroad Crossing | 348127 | [348127-anomalous-railroad-crossing.json](./348127-anomalous-railroad-crossing.json) |
 | Anomalous Veil | 407323 | [407323-anomalous-veil.json](./407323-anomalous-veil.json) |
 | Anomalous Zone | 211434 | [211434-anomalous-zone.json](./211434-anomalous-zone.json) |
+| Anomalum | 309839 | [309839-anomalum.json](./309839-anomalum.json) |
 | Anomaly | 215528 | [215528-anomaly.json](./215528-anomaly.json) |
 | Anomaly 13 | 358296 | [358296-anomaly-13.json](./358296-anomaly-13.json) |
 | Anomaly 1729 | 33961 | [33961-anomaly-1729.json](./33961-anomaly-1729.json) |
@@ -10973,6 +10974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aooni2 | 410832 | [410832-aooni2.json](./410832-aooni2.json) |
 | Aopii | 179018 | [179018-aopii.json](./179018-aopii.json) |
 | AOS Manager | 120367 | [120367-aos-manager.json](./120367-aos-manager.json) |
+| Aotenjo: Infinite Hands | 309815 | [309815-aotenjo-infinite-hands.json](./309815-aotenjo-infinite-hands.json) |
 | Aotu World | 241502 | [241502-aotu-world.json](./241502-aotu-world.json) |
 | Aozora Meikyuu | 33908 | [33908-aozora-meikyuu.json](./33908-aozora-meikyuu.json) |
 | Aozora Stripe | 77722 | [77722-aozora-stripe.json](./77722-aozora-stripe.json) |
@@ -16099,6 +16101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
