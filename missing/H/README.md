@@ -1498,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Ball Rush | 391328 | [391328-happy-ball-rush.json](./391328-happy-ball-rush.json) |
 | Happy Balloons | 57368 | [57368-happy-balloons.json](./57368-happy-balloons.json) |
 | Happy Bang Express | 252707 | [252707-happy-bang-express.json](./252707-happy-bang-express.json) |
+| Happy Bastards | 305104 | [305104-happy-bastards.json](./305104-happy-bastards.json) |
 | Happy Bell Lovex2 Honeymoon | 77905 | [77905-happy-bell-lovex2-honeymoon.json](./77905-happy-bell-lovex2-honeymoon.json) |
 | Happy Biqi | 287522 | [287522-happy-biqi.json](./287522-happy-biqi.json) |
 | Happy Bird | 312034 | [312034-happy-bird.json](./312034-happy-bird.json) |
@@ -2370,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hasshaku-sama to Love Come Suru | 395499 | [395499-hasshaku-sama-to-love-come-suru.json](./395499-hasshaku-sama-to-love-come-suru.json) |
 | Hassle Online | 208166 | [208166-hassle-online.json](./208166-hassle-online.json) |
 | HassleHeart | 35732 | [35732-hassleheart.json](./35732-hassleheart.json) |
+| Hastafa Invaders | 305392 | [305392-hastafa-invaders.json](./305392-hastafa-invaders.json) |
 | Haste | 167266 | [167266-haste.json](./167266-haste.json) |
 | Haste | 221845 | [221845-haste.json](./221845-haste.json) |
 | Haste | 228918 | [228918-haste.json](./228918-haste.json) |
@@ -3467,6 +3469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven And Hell: The Last War | 111713 | [111713-heaven-and-hell-the-last-war.json](./111713-heaven-and-hell-the-last-war.json) |
 | Heaven Bound | 209866 | [209866-heaven-bound.json](./209866-heaven-bound.json) |
 | Heaven Burns Red | 132099 | [132099-heaven-burns-red.json](./132099-heaven-burns-red.json) |
+| Heaven Crawler | 305084 | [305084-heaven-crawler.json](./305084-heaven-crawler.json) |
 | Heaven Does Not Respond | 373598 | [373598-heaven-does-not-respond.json](./373598-heaven-does-not-respond.json) |
 | Heaven Dust 2 | 153344 | [153344-heaven-dust-2.json](./153344-heaven-dust-2.json) |
 | Heaven Dust Collection | 317215 | [317215-heaven-dust-collection.json](./317215-heaven-dust-collection.json) |
@@ -8571,6 +8574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Faces | 388186 | [388186-hollow-faces.json](./388186-hollow-faces.json) |
 | Hollow Floor | 296617 | [296617-hollow-floor.json](./296617-hollow-floor.json) |
 | Hollow Floor | 355154 | [355154-hollow-floor.json](./355154-hollow-floor.json) |
+| Hollow Flowers | 305089 | [305089-hollow-flowers.json](./305089-hollow-flowers.json) |
 | Hollow Ghost | 144779 | [144779-hollow-ghost.json](./144779-hollow-ghost.json) |
 | Hollow Ground | 365295 | [365295-hollow-ground.json](./365295-hollow-ground.json) |
 | Hollow Halls | 29905 | [29905-hollow-halls.json](./29905-hollow-halls.json) |
