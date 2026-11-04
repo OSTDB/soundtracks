@@ -5130,12 +5130,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cendric | 81045 | [81045-cendric.json](./81045-cendric.json) |
 | Cendric's Quest | 118212 | [118212-cendrics-quest.json](./118212-cendrics-quest.json) |
 | Cendrillon palikA | 69347 | [69347-cendrillon-palika.json](./69347-cendrillon-palika.json) |
+| Cenk The Chopper | 313403 | [313403-cenk-the-chopper.json](./313403-cenk-the-chopper.json) |
 | Censored Files | 208458 | [208458-censored-files.json](./208458-censored-files.json) |
 | Centaur | 79685 | [79685-centaur.json](./79685-centaur.json) |
 | Centauri Dark | 275655 | [275655-centauri-dark.json](./275655-centauri-dark.json) |
 | Centauri Dominion | 164986 | [164986-centauri-dominion.json](./164986-centauri-dominion.json) |
 | Centauri Sector | 35616 | [35616-centauri-sector.json](./35616-centauri-sector.json) |
 | Centauri's Favourite Archer | 235858 | [235858-centauris-favourite-archer.json](./235858-centauris-favourite-archer.json) |
+| Centaurus | 313375 | [313375-centaurus.json](./313375-centaurus.json) |
 | Center Court | 40073 | [40073-center-court.json](./40073-center-court.json) |
 | Center Court Tennis | 100041 | [100041-center-court-tennis.json](./100041-center-court-tennis.json) |
 | Center Mass: Streets of Ramadi | 344796 | [344796-center-mass-streets-of-ramadi.json](./344796-center-mass-streets-of-ramadi.json) |
@@ -5419,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge | 11150 | [11150-challenge.json](./11150-challenge.json) |
 | Challenge | 245163 | [245163-challenge.json](./245163-challenge.json) |
 | Challenge 100 | 359419 | [359419-challenge-100.json](./359419-challenge-100.json) |
+| Challenge Churchill Bus Racer | 313381 | [313381-challenge-churchill-bus-racer.json](./313381-challenge-churchill-bus-racer.json) |
 | Challenge Cube VR | 91198 | [91198-challenge-cube-vr.json](./91198-challenge-cube-vr.json) |
 | Challenge Dream Cat | 179997 | [179997-challenge-dream-cat.json](./179997-challenge-dream-cat.json) |
 | Challenge from Kiyoshi | 141772 | [141772-challenge-from-kiyoshi.json](./141772-challenge-from-kiyoshi.json) |
@@ -6075,6 +6078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing Whiskers | 403617 | [403617-chasing-whiskers.json](./403617-chasing-whiskers.json) |
 | ChasingCube | 243083 | [243083-chasingcube.json](./243083-chasingcube.json) |
 | Chasm | 255661 | [255661-chasm.json](./255661-chasm.json) |
+| Chasm | 313020 | [313020-chasm.json](./313020-chasm.json) |
 | Chasm Bound | 250896 | [250896-chasm-bound.json](./250896-chasm-bound.json) |
 | Chasm Crawl | 277761 | [277761-chasm-crawl.json](./277761-chasm-crawl.json) |
 | Chasmal | 231798 | [231798-chasmal.json](./231798-chasmal.json) |
