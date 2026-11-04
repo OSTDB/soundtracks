@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Driver 2 | 148858 | [148858-hard-driver-2.json](./148858-hard-driver-2.json) |
 | Hard Drivin' | 12134 | [12134-hard-drivin.json](./12134-hard-drivin.json) |
 | Hard Drivin' | 217740 | [217740-hard-drivin.json](./217740-hard-drivin.json) |
+| Hard Drivin' | 308121 | [308121-hard-drivin.json](./308121-hard-drivin.json) |
 | Hard Drivin' II: Drive Harder | 12135 | [12135-hard-drivin-ii-drive-harder.json](./12135-hard-drivin-ii-drive-harder.json) |
 | Hard Dunk | 40350 | [40350-hard-dunk.json](./40350-hard-dunk.json) |
 | Hard Era: The Fantasy Defence | 55572 | [55572-hard-era-the-fantasy-defence.json](./55572-hard-era-the-fantasy-defence.json) |
@@ -7222,6 +7223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higanbana no Saku Yoru ni: The First Night | 65719 | [65719-higanbana-no-saku-yoru-ni-the-first-night.json](./65719-higanbana-no-saku-yoru-ni-the-first-night.json) |
 | Higanbana no Saku Yoru ni: The Second Night | 64864 | [64864-higanbana-no-saku-yoru-ni-the-second-night.json](./64864-higanbana-no-saku-yoru-ni-the-second-night.json) |
 | Higanjima | 94205 | [94205-higanjima.json](./94205-higanjima.json) |
+| Higashio Osamu Kanshuu: Pro Yakyuu Stadium '91 | 308105 | [308105-higashio-osamu-kanshuu-pro-yakyuu-stadium-91.json](./308105-higashio-osamu-kanshuu-pro-yakyuu-stadium-91.json) |
 | Higemaru Makaijima: Nanatsu no Shima Daibouken | 48473 | [48473-higemaru-makaijima-nanatsu-no-shima-daibouken.json](./48473-higemaru-makaijima-nanatsu-no-shima-daibouken.json) |
 | Higgledy Piggledy | 78916 | [78916-higgledy-piggledy.json](./78916-higgledy-piggledy.json) |
 | Higgs Boson: Minimal Puzzle | 148739 | [148739-higgs-boson-minimal-puzzle.json](./148739-higgs-boson-minimal-puzzle.json) |
@@ -8796,6 +8798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holyday City | 101933 | [101933-holyday-city.json](./101933-holyday-city.json) |
 | Holyday City: Reloaded | 76536 | [76536-holyday-city-reloaded.json](./76536-holyday-city-reloaded.json) |
 | HolyHunt | 241791 | [241791-holyhunt.json](./241791-holyhunt.json) |
+| HolySpirit | 308002 | [308002-holyspirit.json](./308002-holyspirit.json) |
 | HolyZone | 311884 | [311884-holyzone.json](./311884-holyzone.json) |
 | Homam: An Inventor's Fist | 369366 | [369366-homam-an-inventors-fist.json](./369366-homam-an-inventors-fist.json) |
 | Homauton | 411301 | [411301-homauton.json](./411301-homauton.json) |
