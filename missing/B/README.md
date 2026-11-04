@@ -946,7 +946,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5472,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauties Unveiled 2 | 289206 | [289206-beauties-unveiled-2.json](./289206-beauties-unveiled-2.json) |
 | Beauties Unveiled 2: Cassy Level Pack | 289209 | [289209-beauties-unveiled-2-cassy-level-pack.json](./289209-beauties-unveiled-2-cassy-level-pack.json) |
 | Beauties Unveiled 2: CEO 69 Edition | 315874 | [315874-beauties-unveiled-2-ceo-69-edition.json](./315874-beauties-unveiled-2-ceo-69-edition.json) |
+| Beauties Unveiled 2: Fever Edition | 300902 | [300902-beauties-unveiled-2-fever-edition.json](./300902-beauties-unveiled-2-fever-edition.json) |
 | Beauties Unveiled 2: Joy Level Pack | 290450 | [290450-beauties-unveiled-2-joy-level-pack.json](./290450-beauties-unveiled-2-joy-level-pack.json) |
 | Beauties Unveiled 2: ShingCEO_69 Level Pack | 290451 | [290451-beauties-unveiled-2-shingceo-69-level-pack.json](./290451-beauties-unveiled-2-shingceo-69-level-pack.json) |
 | Beauties Unveiled 2: Spicy Edition | 295680 | [295680-beauties-unveiled-2-spicy-edition.json](./295680-beauties-unveiled-2-spicy-edition.json) |
@@ -16205,6 +16205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucket Crusher: Around The World | 287160 | [287160-bucket-crusher-around-the-world.json](./287160-bucket-crusher-around-the-world.json) |
 | Bucket Crusher: Complete Edition | 290440 | [290440-bucket-crusher-complete-edition.json](./290440-bucket-crusher-complete-edition.json) |
 | Bucket Crusher: Cool Kidz | 287162 | [287162-bucket-crusher-cool-kidz.json](./287162-bucket-crusher-cool-kidz.json) |
+| Bucket Crusher: Cool Kidz Edition | 300904 | [300904-bucket-crusher-cool-kidz-edition.json](./300904-bucket-crusher-cool-kidz-edition.json) |
 | Bucket Crusher: Gold Edition | 378854 | [378854-bucket-crusher-gold-edition.json](./378854-bucket-crusher-gold-edition.json) |
 | Bucket Crusher: Holiday Spirit | 287161 | [287161-bucket-crusher-holiday-spirit.json](./287161-bucket-crusher-holiday-spirit.json) |
 | Bucket Crusher: Worldwide Edition | 304781 | [304781-bucket-crusher-worldwide-edition.json](./304781-bucket-crusher-worldwide-edition.json) |
