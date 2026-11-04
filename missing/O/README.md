@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd One Out Christmas | 390896 | [390896-odd-one-out-christmas.json](./390896-odd-one-out-christmas.json) |
 | Odd One Out Zebra | 100522 | [100522-odd-one-out-zebra.json](./100522-odd-one-out-zebra.json) |
 | Odd Remedy | 323312 | [323312-odd-remedy.json](./323312-odd-remedy.json) |
+| Odd Rhythm: A Fire Emblem Awakening Randomizer | 335569 | [335569-odd-rhythm-a-fire-emblem-awakening-randomizer.json](./335569-odd-rhythm-a-fire-emblem-awakening-randomizer.json) |
 | Odd Sequence | 296396 | [296396-odd-sequence.json](./296396-odd-sequence.json) |
 | Odd Shape Out! | 336403 | [336403-odd-shape-out.json](./336403-odd-shape-out.json) |
 | Odd Shop | 424048 | [424048-odd-shop.json](./424048-odd-shop.json) |
