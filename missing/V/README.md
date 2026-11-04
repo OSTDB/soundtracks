@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Variator | 400703 | [400703-variator.json](./400703-variator.json) |
 | Varicella | 9519 | [9519-varicella.json](./9519-varicella.json) |
 | VariDungeon | 307350 | [307350-varidungeon.json](./307350-varidungeon.json) |
+| Variety Pack | 332773 | [332773-variety-pack.json](./332773-variety-pack.json) |
 | Varion | 87960 | [87960-varion.json](./87960-varion.json) |
 | Various Daylife | 122319 | [122319-various-daylife.json](./122319-various-daylife.json) |
 | Various Daylife: Mobile | 233061 | [233061-various-daylife-mobile.json](./233061-various-daylife-mobile.json) |
@@ -1864,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory: The Age of Racing | 16850 | [16850-victory-the-age-of-racing.json](./16850-victory-the-age-of-racing.json) |
 | Vid Grid | 71297 | [71297-vid-grid.json](./71297-vid-grid.json) |
 | Vida | 327710 | [327710-vida.json](./327710-vida.json) |
+| Vida | 332783 | [332783-vida.json](./332783-vida.json) |
 | Vida Loka Simulator | 397246 | [397246-vida-loka-simulator.json](./397246-vida-loka-simulator.json) |
 | Vidalia's Adventure | 360502 | [360502-vidalias-adventure.json](./360502-vidalias-adventure.json) |
 | Vidar | 27191 | [27191-vidar.json](./27191-vidar.json) |
