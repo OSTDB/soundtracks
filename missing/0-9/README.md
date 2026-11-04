@@ -1572,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2001: A Space Odyssey | 238083 | [238083-2001-a-space-odyssey.json](./238083-2001-a-space-odyssey.json) |
 | 2002 FIFA World Cup | 240360 | [240360-2002-fifa-world-cup.json](./240360-2002-fifa-world-cup.json) |
 | 2002 FIFA World Cup | 583 | [583-2002-fifa-world-cup.json](./583-2002-fifa-world-cup.json) |
+| 2002XX | 345748 | [345748-2002xx.json](./345748-2002xx.json) |
 | 2003 AtariAge Holiday Cart | 70419 | [70419-2003-atariage-holiday-cart.json](./70419-2003-atariage-holiday-cart.json) |
 | 2003 Crash II Advance | 311026 | [311026-2003-crash-ii-advance.json](./311026-2003-crash-ii-advance.json) |
 | 2004 | 288145 | [288145-2004.json](./288145-2004.json) |
