@@ -6614,6 +6614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Chess | 360284 | [360284-not-chess.json](./360284-not-chess.json) |
 | Not Dead Yet | 143500 | [143500-not-dead-yet.json](./143500-not-dead-yet.json) |
 | Not Dying Today | 29995 | [29995-not-dying-today.json](./29995-not-dying-today.json) |
+| Not Easy | 348533 | [348533-not-easy.json](./348533-not-easy.json) |
 | Not Enough Souls | 179567 | [179567-not-enough-souls.json](./179567-not-enough-souls.json) |
 | Not Enough Time | 322943 | [322943-not-enough-time.json](./322943-not-enough-time.json) |
 | Not Escape Room | 194355 | [194355-not-escape-room.json](./194355-not-escape-room.json) |
