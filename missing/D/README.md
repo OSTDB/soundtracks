@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D4: Dark Dreams Don't Die - Season 1 | 4758 | [4758-d4-dark-dreams-dont-die-season-1.json](./4758-d4-dark-dreams-dont-die-season-1.json) |
 | D4: Dark Dreams Don't Die - Season 1: Deluxe Edition | 51756 | [51756-d4-dark-dreams-dont-die-season-1-deluxe-edition.json](./51756-d4-dark-dreams-dont-die-season-1-deluxe-edition.json) |
 | D4DJ Groovy Mix | 130305 | [130305-d4dj-groovy-mix.json](./130305-d4dj-groovy-mix.json) |
+| D4p4m1ne | 316294 | [316294-d4p4m1ne.json](./316294-d4p4m1ne.json) |
 | D8gn | 184433 | [184433-d8gn.json](./184433-d8gn.json) |
 | D96: Kansei | 258353 | [258353-d96-kansei.json](./258353-d96-kansei.json) |
 | Da Box | 59672 | [59672-da-box.json](./59672-da-box.json) |
@@ -1065,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Dave Returns | 11387 | [11387-dangerous-dave-returns.json](./11387-dangerous-dave-returns.json) |
 | Dangerous Dave's Risky Rescue | 11388 | [11388-dangerous-daves-risky-rescue.json](./11388-dangerous-daves-risky-rescue.json) |
 | Dangerous Degrees | 163755 | [163755-dangerous-degrees.json](./163755-dangerous-degrees.json) |
+| Dangerous Derek's Livestream | 315975 | [315975-dangerous-dereks-livestream.json](./315975-dangerous-dereks-livestream.json) |
 | Dangerous Driving | 104232 | [104232-dangerous-driving.json](./104232-dangerous-driving.json) |
 | Dangerous Duels | 134509 | [134509-dangerous-duels.json](./134509-dangerous-duels.json) |
 | Dangerous Fellows | 133817 | [133817-dangerous-fellows.json](./133817-dangerous-fellows.json) |
@@ -4795,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deceptiive Love Ballad The Blasphemer | 386840 | [386840-deceptiive-love-ballad-the-blasphemer.json](./386840-deceptiive-love-ballad-the-blasphemer.json) |
 | Deception | 171413 | [171413-deception.json](./171413-deception.json) |
 | Deception | 215542 | [215542-deception.json](./215542-deception.json) |
+| Deception Engine | 315998 | [315998-deception-engine.json](./315998-deception-engine.json) |
 | Deception IV: The Nightmare Princess | 44650 | [44650-deception-iv-the-nightmare-princess.json](./44650-deception-iv-the-nightmare-princess.json) |
 | Deceptor | 38033 | [38033-deceptor.json](./38033-deceptor.json) |
 | Deceptus | 220011 | [220011-deceptus.json](./220011-deceptus.json) |
@@ -8713,6 +8716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig! Dig! Dino! | 340847 | [340847-dig-dig-dino.json](./340847-dig-dig-dino.json) |
 | Dig!t | 232042 | [232042-dig-t.json](./232042-dig-t.json) |
 | Dig2China | 247515 | [247515-dig2china.json](./247515-dig2china.json) |
+| Digable Planet | 315997 | [315997-digable-planet.json](./315997-digable-planet.json) |
 | Digan no Maseki | 107632 | [107632-digan-no-maseki.json](./107632-digan-no-maseki.json) |
 | Digaway | 372115 | [372115-digaway.json](./372115-digaway.json) |
 | Digbeat: Godot Deeper | 318360 | [318360-digbeat-godot-deeper.json](./318360-digbeat-godot-deeper.json) |
