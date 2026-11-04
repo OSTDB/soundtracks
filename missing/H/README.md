@@ -6714,6 +6714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Folks 2 | 404849 | [404849-hidden-folks-2.json](./404849-hidden-folks-2.json) |
 | Hidden Forest | 160272 | [160272-hidden-forest.json](./160272-hidden-forest.json) |
 | Hidden Foxes | 391340 | [391340-hidden-foxes.json](./391340-hidden-foxes.json) |
+| Hidden FPS Shooting Top-Down 3D | 302007 | [302007-hidden-fps-shooting-top-down-3d.json](./302007-hidden-fps-shooting-top-down-3d.json) |
 | Hidden Futa | 236287 | [236287-hidden-futa.json](./236287-hidden-futa.json) |
 | Hidden Garden | 63885 | [63885-hidden-garden.json](./63885-hidden-garden.json) |
 | Hidden Garden Fairies | 100883 | [100883-hidden-garden-fairies.json](./100883-hidden-garden-fairies.json) |
@@ -6739,6 +6740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Harbor 2 Top-Down 3D | 226676 | [226676-hidden-harbor-2-top-down-3d.json](./226676-hidden-harbor-2-top-down-3d.json) |
 | Hidden Harbor 3 Top-Down 3D | 241417 | [241417-hidden-harbor-3-top-down-3d.json](./241417-hidden-harbor-3-top-down-3d.json) |
 | Hidden Harbor Top-Down 3D | 195247 | [195247-hidden-harbor-top-down-3d.json](./195247-hidden-harbor-top-down-3d.json) |
+| Hidden Haunted Town Top-Down 3D | 302006 | [302006-hidden-haunted-town-top-down-3d.json](./302006-hidden-haunted-town-top-down-3d.json) |
 | Hidden Hijinks: No Cats in the Orgy, Please! | 385805 | [385805-hidden-hijinks-no-cats-in-the-orgy-please.json](./385805-hidden-hijinks-no-cats-in-the-orgy-please.json) |
 | Hidden Histories: The Principality | 189020 | [189020-hidden-histories-the-principality.json](./189020-hidden-histories-the-principality.json) |
 | Hidden Horror Photo Exhibition | 399643 | [399643-hidden-horror-photo-exhibition.json](./399643-hidden-horror-photo-exhibition.json) |
@@ -7099,6 +7101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Valley | 70825 | [70825-hidden-valley.json](./70825-hidden-valley.json) |
 | Hidden Valley Tower Defense | 138406 | [138406-hidden-valley-tower-defense.json](./138406-hidden-valley-tower-defense.json) |
 | Hidden Village Top-Down 3D | 255264 | [255264-hidden-village-top-down-3d.json](./255264-hidden-village-top-down-3d.json) |
+| Hidden Vintage House Top-Down 3D | 302008 | [302008-hidden-vintage-house-top-down-3d.json](./302008-hidden-vintage-house-top-down-3d.json) |
 | Hidden Watch | 104121 | [104121-hidden-watch.json](./104121-hidden-watch.json) |
 | Hidden Water | 192712 | [192712-hidden-water.json](./192712-hidden-water.json) |
 | Hidden Western | 192819 | [192819-hidden-western.json](./192819-hidden-western.json) |
