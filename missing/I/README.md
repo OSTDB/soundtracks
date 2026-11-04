@@ -3675,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5673,6 +5674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironsword: Wizards & Warriors II | 48053 | [48053-ironsword-wizards-and-warriors-ii.json](./48053-ironsword-wizards-and-warriors-ii.json) |
 | IronTusk's Diablo3D | 202847 | [202847-irontusks-diablo3d.json](./202847-irontusks-diablo3d.json) |
 | Ironwake | 418751 | [418751-ironwake.json](./418751-ironwake.json) |
+| Ironweld | 346346 | [346346-ironweld.json](./346346-ironweld.json) |
 | IronWolf VR | 30649 | [30649-ironwolf-vr.json](./30649-ironwolf-vr.json) |
 | IronWolf: Free Non-VR Edition | 265342 | [265342-ironwolf-free-non-vr-edition.json](./265342-ironwolf-free-non-vr-edition.json) |
 | IronWood | 394370 | [394370-ironwood.json](./394370-ironwood.json) |
