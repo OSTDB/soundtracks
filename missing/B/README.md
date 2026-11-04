@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backroom Company | 309554 | [309554-backroom-company.json](./309554-backroom-company.json) |
 | Backroom Escape: Labyrinth Horror | 308653 | [308653-backroom-escape-labyrinth-horror.json](./308653-backroom-escape-labyrinth-horror.json) |
 | Backroom Exit: Premium Edition | 409954 | [409954-backroom-exit-premium-edition.json](./409954-backroom-exit-premium-edition.json) |
+| Backroom Loop | 343018 | [343018-backroom-loop.json](./343018-backroom-loop.json) |
 | Backroom Pools: Gold Edition | 409955 | [409955-backroom-pools-gold-edition.json](./409955-backroom-pools-gold-edition.json) |
 | Backroom: Constructions | 250792 | [250792-backroom-constructions.json](./250792-backroom-constructions.json) |
 | Backrooms | 179336 | [179336-backrooms.json](./179336-backrooms.json) |
@@ -934,7 +935,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10351,6 +10351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky 6 | 233174 | [233174-blocky-6.json](./233174-blocky-6.json) |
 | Blocky Ball | 151040 | [151040-blocky-ball.json](./151040-blocky-ball.json) |
 | Blocky Bee | 26685 | [26685-blocky-bee.json](./26685-blocky-bee.json) |
+| Blocky Blast | 343011 | [343011-blocky-blast.json](./343011-blocky-blast.json) |
 | Blocky Cars In Real World | 175332 | [175332-blocky-cars-in-real-world.json](./175332-blocky-cars-in-real-world.json) |
 | Blocky Cars Speed Racer: Underground Highway Reckless Edition | 175504 | [175504-blocky-cars-speed-racer-underground-highway-reckless-edition.json](./175504-blocky-cars-speed-racer-underground-highway-reckless-edition.json) |
 | Blocky Castle: Tower Challenge | 188304 | [188304-blocky-castle-tower-challenge.json](./188304-blocky-castle-tower-challenge.json) |
