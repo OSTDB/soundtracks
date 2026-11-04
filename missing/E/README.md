@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Overclocked | 34828 | [34828-earth-overclocked.json](./34828-earth-overclocked.json) |
 | Earth Rising | 235694 | [235694-earth-rising.json](./235694-earth-rising.json) |
 | Earth Romancer | 54980 | [54980-earth-romancer.json](./54980-earth-romancer.json) |
+| Earth Saver | 342381 | [342381-earth-saver.json](./342381-earth-saver.json) |
 | Earth Saver | 59386 | [59386-earth-saver.json](./59386-earth-saver.json) |
 | Earth Saves Our Love | 267392 | [267392-earth-saves-our-love.json](./267392-earth-saves-our-love.json) |
 | Earth School | 219921 | [219921-earth-school.json](./219921-earth-school.json) |
@@ -1468,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Deep Dungeon II MSX | 420692 | [420692-eggconsole-deep-dungeon-ii-msx.json](./420692-eggconsole-deep-dungeon-ii-msx.json) |
 | Eggconsole Deep Dungeon MSX | 400164 | [400164-eggconsole-deep-dungeon-msx.json](./400164-eggconsole-deep-dungeon-msx.json) |
 | Eggconsole Diable de Laplace PC-8801mkIISR | 362200 | [362200-eggconsole-diable-de-laplace-pc-8801mkiisr.json](./362200-eggconsole-diable-de-laplace-pc-8801mkiisr.json) |
+| Eggconsole Dinosaur PC-8801mkIISR | 342385 | [342385-eggconsole-dinosaur-pc-8801mkiisr.json](./342385-eggconsole-dinosaur-pc-8801mkiisr.json) |
 | Eggconsole Dragon Slayer IV Draslefamily MSX2 | 295687 | [295687-eggconsole-dragon-slayer-iv-draslefamily-msx2.json](./295687-eggconsole-dragon-slayer-iv-draslefamily-msx2.json) |
 | Eggconsole Dragon Slayer Level 2.0 PC-8801 | 410380 | [410380-eggconsole-dragon-slayer-level-2-0-pc-8801.json](./410380-eggconsole-dragon-slayer-level-2-0-pc-8801.json) |
 | Eggconsole Dragon Slayer: The Legend of Heroes II PC-8801mkIISR | 328526 | [328526-eggconsole-dragon-slayer-the-legend-of-heroes-ii-pc-8801mkiisr.json](./328526-eggconsole-dragon-slayer-the-legend-of-heroes-ii-pc-8801mkiisr.json) |
@@ -1478,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Guardic MSX | 323704 | [323704-eggconsole-guardic-msx.json](./323704-eggconsole-guardic-msx.json) |
 | Eggconsole Hajya No Fuuin PC-8801 | 371417 | [371417-eggconsole-hajya-no-fuuin-pc-8801.json](./371417-eggconsole-hajya-no-fuuin-pc-8801.json) |
 | Eggconsole Hercules PC-8801mkIISR | 402573 | [402573-eggconsole-hercules-pc-8801mkiisr.json](./402573-eggconsole-hercules-pc-8801mkiisr.json) |
+| Eggconsole How Many Robot PC-8801mkIISR | 342386 | [342386-eggconsole-how-many-robot-pc-8801mkiisr.json](./342386-eggconsole-how-many-robot-pc-8801mkiisr.json) |
 | Eggconsole Hydlide II MSX | 343717 | [343717-eggconsole-hydlide-ii-msx.json](./343717-eggconsole-hydlide-ii-msx.json) |
 | Eggconsole Hydlide II PC-8801 | 297312 | [297312-eggconsole-hydlide-ii-pc-8801.json](./297312-eggconsole-hydlide-ii-pc-8801.json) |
 | Eggconsole Hydlide MSX | 315833 | [315833-eggconsole-hydlide-msx.json](./315833-eggconsole-hydlide-msx.json) |
@@ -1491,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Marchen Veil II PC-9801 | 403743 | [403743-eggconsole-marchen-veil-ii-pc-9801.json](./403743-eggconsole-marchen-veil-ii-pc-9801.json) |
 | Eggconsole Meurtre d'un Clown PC-8801 | 401113 | [401113-eggconsole-meurtre-dun-clown-pc-8801.json](./401113-eggconsole-meurtre-dun-clown-pc-8801.json) |
 | Eggconsole Mirai MSX2 | 406080 | [406080-eggconsole-mirai-msx2.json](./406080-eggconsole-mirai-msx2.json) |
+| Eggconsole Mirai PC-8801mkIISR | 342387 | [342387-eggconsole-mirai-pc-8801mkiisr.json](./342387-eggconsole-mirai-pc-8801mkiisr.json) |
 | Eggconsole Mugen no Shinzou II PC-8801 | 376220 | [376220-eggconsole-mugen-no-shinzou-ii-pc-8801.json](./376220-eggconsole-mugen-no-shinzou-ii-pc-8801.json) |
 | Eggconsole Mugen no Shinzou III PC-8801mkIISR | 390490 | [390490-eggconsole-mugen-no-shinzou-iii-pc-8801mkiisr.json](./390490-eggconsole-mugen-no-shinzou-iii-pc-8801mkiisr.json) |
 | Eggconsole Mugen no Shinzou PC-8801 | 345990 | [345990-eggconsole-mugen-no-shinzou-pc-8801.json](./345990-eggconsole-mugen-no-shinzou-pc-8801.json) |
@@ -1499,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Popful Mail PC-8801MkIISR | 308638 | [308638-eggconsole-popful-mail-pc-8801mkiisr.json](./308638-eggconsole-popful-mail-pc-8801mkiisr.json) |
 | Eggconsole Puyo Puyo MSX2 | 378795 | [378795-eggconsole-puyo-puyo-msx2.json](./378795-eggconsole-puyo-puyo-msx2.json) |
 | Eggconsole Puyo Puyo PC-9801 | 362367 | [362367-eggconsole-puyo-puyo-pc-9801.json](./362367-eggconsole-puyo-puyo-pc-9801.json) |
+| Eggconsole Pyramid Warp MSX | 342388 | [342388-eggconsole-pyramid-warp-msx.json](./342388-eggconsole-pyramid-warp-msx.json) |
 | Eggconsole Relics MSX2 | 407852 | [407852-eggconsole-relics-msx2.json](./407852-eggconsole-relics-msx2.json) |
 | Eggconsole Revival Xanadu Easy Ver PC-9801 | 347313 | [347313-eggconsole-revival-xanadu-easy-ver-pc-9801.json](./347313-eggconsole-revival-xanadu-easy-ver-pc-9801.json) |
 | Eggconsole Riglas PC-8801 | 324189 | [324189-eggconsole-riglas-pc-8801.json](./324189-eggconsole-riglas-pc-8801.json) |
@@ -1518,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Topple Zip PC-8801 | 306531 | [306531-eggconsole-topple-zip-pc-8801.json](./306531-eggconsole-topple-zip-pc-8801.json) |
 | Eggconsole Tritorn MSX | 349581 | [349581-eggconsole-tritorn-msx.json](./349581-eggconsole-tritorn-msx.json) |
 | Eggconsole Undeadline MSX2 | 320448 | [320448-eggconsole-undeadline-msx2.json](./320448-eggconsole-undeadline-msx2.json) |
+| Eggconsole Wanderers From Ys MSX2 | 342389 | [342389-eggconsole-wanderers-from-ys-msx2.json](./342389-eggconsole-wanderers-from-ys-msx2.json) |
 | Eggconsole Wanderers From Ys PC-8801mkIISR | 300861 | [300861-eggconsole-wanderers-from-ys-pc-8801mkiisr.json](./300861-eggconsole-wanderers-from-ys-pc-8801mkiisr.json) |
 | Eggconsole Wonderland of Carbuncle MSX2 | 387106 | [387106-eggconsole-wonderland-of-carbuncle-msx2.json](./387106-eggconsole-wonderland-of-carbuncle-msx2.json) |
 | Eggconsole Xak PC-8801mkIISR | 292867 | [292867-eggconsole-xak-pc-8801mkiisr.json](./292867-eggconsole-xak-pc-8801mkiisr.json) |
@@ -2246,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Odyssey | 253373 | [253373-elemental-odyssey.json](./253373-elemental-odyssey.json) |
 | Elemental Ou | 79066 | [79066-elemental-ou.json](./79066-elemental-ou.json) |
 | Elemental Pinball | 310964 | [310964-elemental-pinball.json](./310964-elemental-pinball.json) |
+| Elemental Princesses: Super Magical Quest | 342384 | [342384-elemental-princesses-super-magical-quest.json](./342384-elemental-princesses-super-magical-quest.json) |
 | Elemental Raiders | 231614 | [231614-elemental-raiders.json](./231614-elemental-raiders.json) |
 | Elemental Roll | 195355 | [195355-elemental-roll.json](./195355-elemental-roll.json) |
 | Elemental Rush | 360689 | [360689-elemental-rush.json](./360689-elemental-rush.json) |
@@ -4849,6 +4856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Baba Yaga | 298000 | [298000-escape-baba-yaga.json](./298000-escape-baba-yaga.json) |
 | Escape Backrooms Collection | 415388 | [415388-escape-backrooms-collection.json](./415388-escape-backrooms-collection.json) |
 | Escape Backrooms: Dark Edition | 409967 | [409967-escape-backrooms-dark-edition.json](./409967-escape-backrooms-dark-edition.json) |
+| Escape Backrooms: Darkness Horror | 342390 | [342390-escape-backrooms-darkness-horror.json](./342390-escape-backrooms-darkness-horror.json) |
 | Escape Backrooms: Premium Edition | 409968 | [409968-escape-backrooms-premium-edition.json](./409968-escape-backrooms-premium-edition.json) |
 | Escape Basement | 261206 | [261206-escape-basement.json](./261206-escape-basement.json) |
 | Escape Black Orion VR | 107408 | [107408-escape-black-orion-vr.json](./107408-escape-black-orion-vr.json) |
@@ -5148,6 +5156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape game R00m 09 | 386185 | [386185-escape-game-r00m-09.json](./386185-escape-game-r00m-09.json) |
 | Escape Game R00m 09 | 386791 | [386791-escape-game-r00m-09.json](./386791-escape-game-r00m-09.json) |
 | Escape game R00m 10 | 390491 | [390491-escape-game-r00m-10.json](./390491-escape-game-r00m-10.json) |
+| Escape Game R00m03 | 342391 | [342391-escape-game-r00m03.json](./342391-escape-game-r00m03.json) |
 | Escape Game R00m04 | 343718 | [343718-escape-game-r00m04.json](./343718-escape-game-r00m04.json) |
 | Escape Game R00m07 | 378800 | [378800-escape-game-r00m07.json](./378800-escape-game-r00m07.json) |
 | Escape game R00m08 | 381797 | [381797-escape-game-r00m08.json](./381797-escape-game-r00m08.json) |
@@ -5165,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game The Kitty School | 292916 | [292916-escape-game-the-kitty-school.json](./292916-escape-game-the-kitty-school.json) |
 | Escape Game The Locked Elevator | 410382 | [410382-escape-game-the-locked-elevator.json](./410382-escape-game-the-locked-elevator.json) |
 | Escape Game The Museum of Memories | 387105 | [387105-escape-game-the-museum-of-memories.json](./387105-escape-game-the-museum-of-memories.json) |
+| Escape Game The Nostalgic Cafe | 342394 | [342394-escape-game-the-nostalgic-cafe.json](./342394-escape-game-the-nostalgic-cafe.json) |
 | Escape Game The Painting Mansion | 332492 | [332492-escape-game-the-painting-mansion.json](./332492-escape-game-the-painting-mansion.json) |
 | Escape Game: Aloha | 102623 | [102623-escape-game-aloha.json](./102623-escape-game-aloha.json) |
 | Escape Game: Cinderella | 228007 | [228007-escape-game-cinderella.json](./228007-escape-game-cinderella.json) |
@@ -6086,6 +6096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eurit | 42246 | [42246-eurit.json](./42246-eurit.json) |
 | Euro 2016 Shootout Quiz | 110201 | [110201-euro-2016-shootout-quiz.json](./110201-euro-2016-shootout-quiz.json) |
 | Euro 3v3 | 394119 | [394119-euro-3v3.json](./394119-euro-3v3.json) |
+| Euro Car Parking Simulator 2025 | 342393 | [342393-euro-car-parking-simulator-2025.json](./342393-euro-car-parking-simulator-2025.json) |
 | Euro Club Manager 2003-04 | 94706 | [94706-euro-club-manager-2003-04.json](./94706-euro-club-manager-2003-04.json) |
 | Euro Club Manager 2005-2006 | 80316 | [80316-euro-club-manager-2005-2006.json](./80316-euro-club-manager-2005-2006.json) |
 | Euro Fishing: Bergsee | 170761 | [170761-euro-fishing-bergsee.json](./170761-euro-fishing-bergsee.json) |
@@ -7890,6 +7901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Racing on Highway | 115582 | [115582-extreme-racing-on-highway.json](./115582-extreme-racing-on-highway.json) |
 | Extreme Rally Raid | 278523 | [278523-extreme-rally-raid.json](./278523-extreme-rally-raid.json) |
 | Extreme Reaction | 368148 | [368148-extreme-reaction.json](./368148-extreme-reaction.json) |
+| Extreme Ride Legacy | 342392 | [342392-extreme-ride-legacy.json](./342392-extreme-ride-legacy.json) |
 | Extreme Riding | 271108 | [271108-extreme-riding.json](./271108-extreme-riding.json) |
 | Extreme Riding 2 | 278155 | [278155-extreme-riding-2.json](./278155-extreme-riding-2.json) |
 | Extreme Riverboat Racing | 146733 | [146733-extreme-riverboat-racing.json](./146733-extreme-riverboat-racing.json) |
