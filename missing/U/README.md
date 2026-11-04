@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Super Luigi Wii: Ultimate Green Team | 245452 | [245452-ultimate-super-luigi-wii-ultimate-green-team.json](./245452-ultimate-super-luigi-wii-ultimate-green-team.json) |
 | Ultimate Survivors | 321047 | [321047-ultimate-survivors.json](./321047-ultimate-survivors.json) |
 | Ultimate Tag | 190158 | [190158-ultimate-tag.json](./190158-ultimate-tag.json) |
+| Ultimate Tag | 344256 | [344256-ultimate-tag.json](./344256-ultimate-tag.json) |
 | Ultimate Tank Experience | 184863 | [184863-ultimate-tank-experience.json](./184863-ultimate-tank-experience.json) |
 | Ultimate Tapan Kaikki | 19239 | [19239-ultimate-tapan-kaikki.json](./19239-ultimate-tapan-kaikki.json) |
 | Ultimate Tennis | 264976 | [264976-ultimate-tennis.json](./264976-ultimate-tennis.json) |
@@ -1856,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underwater Life Bundle | 273005 | [273005-underwater-life-bundle.json](./273005-underwater-life-bundle.json) |
 | Underwater Puzzle: Echter Puzzlespass für Unterwegs | 252656 | [252656-underwater-puzzle-echter-puzzlespass-fur-unterwegs.json](./252656-underwater-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Underwater Rescue | 189374 | [189374-underwater-rescue.json](./189374-underwater-rescue.json) |
+| Underwater Submarine Rush | 344123 | [344123-underwater-submarine-rush.json](./344123-underwater-submarine-rush.json) |
 | Underwater Wars | 132425 | [132425-underwater-wars.json](./132425-underwater-wars.json) |
 | Underwater World | 204924 | [204924-underwater-world.json](./204924-underwater-world.json) |
 | Underwater World: DLC Pack | 263150 | [263150-underwater-world-dlc-pack.json](./263150-underwater-world-dlc-pack.json) |
