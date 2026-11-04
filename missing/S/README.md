@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Light: Pyre of Hubris | 382986 | [382986-sacred-light-pyre-of-hubris.json](./382986-sacred-light-pyre-of-hubris.json) |
 | Sacred Line | 60524 | [60524-sacred-line.json](./60524-sacred-line.json) |
 | Sacred Line Genesis | 60523 | [60523-sacred-line-genesis.json](./60523-sacred-line-genesis.json) |
+| Sacred Meat | 307529 | [307529-sacred-meat.json](./307529-sacred-meat.json) |
 | Sacred Odyssey: Rise of Ayden | 65705 | [65705-sacred-odyssey-rise-of-ayden.json](./65705-sacred-odyssey-rise-of-ayden.json) |
 | Sacred of Gates: Tinder | 340674 | [340674-sacred-of-gates-tinder.json](./340674-sacred-of-gates-tinder.json) |
 | Sacred Plus | 53570 | [53570-sacred-plus.json](./53570-sacred-plus.json) |
@@ -2679,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Baboon | 338667 | [338667-scary-baboon.json](./338667-scary-baboon.json) |
 | Scary Baboon: Spooky Baboon | 423407 | [423407-scary-baboon-spooky-baboon.json](./423407-scary-baboon-spooky-baboon.json) |
 | Scary Bendy Neighbor Simulator - Bendy Games 2018 | 103902 | [103902-scary-bendy-neighbor-simulator-bendy-games-2018.json](./103902-scary-bendy-neighbor-simulator-bendy-games-2018.json) |
+| Scary Bosses and Nice Sprites | 307525 | [307525-scary-bosses-and-nice-sprites.json](./307525-scary-bosses-and-nice-sprites.json) |
 | Scary Brawl | 57389 | [57389-scary-brawl.json](./57389-scary-brawl.json) |
 | Scary Bucketman | 319950 | [319950-scary-bucketman.json](./319950-scary-bucketman.json) |
 | Scary Buddies | 167717 | [167717-scary-buddies.json](./167717-scary-buddies.json) |
@@ -8219,6 +8221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Force III: 2nd Scenario | 46062 | [46062-shining-force-iii-2nd-scenario.json](./46062-shining-force-iii-2nd-scenario.json) |
 | Shining Force III: 3rd Scenario | 46061 | [46061-shining-force-iii-3rd-scenario.json](./46061-shining-force-iii-3rd-scenario.json) |
 | Shining Force: Hero of Light and Darkness | 188348 | [188348-shining-force-hero-of-light-and-darkness.json](./188348-shining-force-hero-of-light-and-darkness.json) |
+| Shining Force: Horizons | 307527 | [307527-shining-force-horizons.json](./307527-shining-force-horizons.json) |
 | Shining Force: Resurrection of the Dark Dragon | 22285 | [22285-shining-force-resurrection-of-the-dark-dragon.json](./22285-shining-force-resurrection-of-the-dark-dragon.json) |
 | Shining Force: The Sword of Hajya | 46360 | [46360-shining-force-the-sword-of-hajya.json](./46360-shining-force-the-sword-of-hajya.json) |
 | Shining Gadget | 221078 | [221078-shining-gadget.json](./221078-shining-gadget.json) |
@@ -8570,6 +8573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shit Storm | 81100 | [81100-shit-storm.json](./81100-shit-storm.json) |
 | Shit!! | 79214 | [79214-shit.json](./79214-shit.json) |
 | Shita ni | 238565 | [238565-shita-ni.json](./238565-shita-ni.json) |
+| Shitamachi Ninjou Gekijou | 307509 | [307509-shitamachi-ninjou-gekijou.json](./307509-shitamachi-ninjou-gekijou.json) |
 | Shitamichi Chinsou Club | 374331 | [374331-shitamichi-chinsou-club.json](./374331-shitamichi-chinsou-club.json) |
 | Shitataru Ano Ko: Drenched Girls | 271505 | [271505-shitataru-ano-ko-drenched-girls.json](./271505-shitataru-ano-ko-drenched-girls.json) |
 | Shitataru Nikki | 257085 | [257085-shitataru-nikki.json](./257085-shitataru-nikki.json) |
@@ -13632,6 +13636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slumlord Simulator | 75629 | [75629-slumlord-simulator.json](./75629-slumlord-simulator.json) |
 | Slumpunk | 382505 | [382505-slumpunk.json](./382505-slumpunk.json) |
 | Slums of Tetsoidea | 186820 | [186820-slums-of-tetsoidea.json](./186820-slums-of-tetsoidea.json) |
+| slurdgery | 307523 | [307523-slurdgery.json](./307523-slurdgery.json) |
 | Slurpee x Tetris Handheld Game | 365005 | [365005-slurpee-x-tetris-handheld-game.json](./365005-slurpee-x-tetris-handheld-game.json) |
 | Slurpy | 25712 | [25712-slurpy.json](./25712-slurpy.json) |
 | Slurpy Derpy | 95935 | [95935-slurpy-derpy.json](./95935-slurpy-derpy.json) |
@@ -14108,6 +14113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smithy of the Fishy | 184218 | [184218-smithy-of-the-fishy.json](./184218-smithy-of-the-fishy.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
 | Smitty's Journey | 179327 | [179327-smittys-journey.json](./179327-smittys-journey.json) |
+| SMOD | 307535 | [307535-smod.json](./307535-smod.json) |
 | SMOD Troopers | 312617 | [312617-smod-troopers.json](./312617-smod-troopers.json) |
 | SMOD: Outbreak | 312616 | [312616-smod-outbreak.json](./312616-smod-outbreak.json) |
 | Smog City | 313958 | [313958-smog-city.json](./313958-smog-city.json) |
@@ -16643,6 +16649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 2 Dimps Edition | 136920 | [136920-sonic-2-dimps-edition.json](./136920-sonic-2-dimps-edition.json) |
 | Sonic 2 In 1 | 56739 | [56739-sonic-2-in-1.json](./56739-sonic-2-in-1.json) |
 | Sonic 2 Megamix | 136921 | [136921-sonic-2-megamix.json](./136921-sonic-2-megamix.json) |
+| Sonic 2 Recreation | 307512 | [307512-sonic-2-recreation.json](./307512-sonic-2-recreation.json) |
 | Sonic 2 Retro Remix | 203167 | [203167-sonic-2-retro-remix.json](./203167-sonic-2-retro-remix.json) |
 | Sonic 2 SMS Remake | 227799 | [227799-sonic-2-sms-remake.json](./227799-sonic-2-sms-remake.json) |
 | Sonic 2 Time Quest | 335158 | [335158-sonic-2-time-quest.json](./335158-sonic-2-time-quest.json) |
@@ -17280,6 +17287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Superstars: Lego Dr. Eggman | 279744 | [279744-sonic-superstars-lego-dr-eggman.json](./279744-sonic-superstars-lego-dr-eggman.json) |
 | Sonic Superstars: Lego Fun Pack | 279743 | [279743-sonic-superstars-lego-fun-pack.json](./279743-sonic-superstars-lego-fun-pack.json) |
 | Sonic Superstars: Lego Sonic Skin | 275305 | [275305-sonic-superstars-lego-sonic-skin.json](./275305-sonic-superstars-lego-sonic-skin.json) |
+| Sonic Superstars: Retro Diner Amy Costume | 307537 | [307537-sonic-superstars-retro-diner-amy-costume.json](./307537-sonic-superstars-retro-diner-amy-costume.json) |
 | Sonic Superstars: Shadow Costume for Sonic | 287180 | [287180-sonic-superstars-shadow-costume-for-sonic.json](./287180-sonic-superstars-shadow-costume-for-sonic.json) |
 | Sonic Surfer | 251645 | [251645-sonic-surfer.json](./251645-sonic-surfer.json) |
 | Sonic Surge: Rhythm Showdown | 333913 | [333913-sonic-surge-rhythm-showdown.json](./333913-sonic-surge-rhythm-showdown.json) |
@@ -18341,6 +18349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundrace | 334238 | [334238-soundrace.json](./334238-soundrace.json) |
 | Sounds & Rhythms | 345219 | [345219-sounds-and-rhythms.json](./345219-sounds-and-rhythms.json) |
 | Sounds of Her Love 2 | 350901 | [350901-sounds-of-her-love-2.json](./350901-sounds-of-her-love-2.json) |
+| Sounds of Shadows | 307533 | [307533-sounds-of-shadows.json](./307533-sounds-of-shadows.json) |
 | Sounds of Talent: Kpop Adventure | 116826 | [116826-sounds-of-talent-kpop-adventure.json](./116826-sounds-of-talent-kpop-adventure.json) |
 | Sounds of Verity | 89938 | [89938-sounds-of-verity.json](./89938-sounds-of-verity.json) |
 | Sounds of War | 297351 | [297351-sounds-of-war.json](./297351-sounds-of-war.json) |
