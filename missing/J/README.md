@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jak and Daxter: The Precursor Legacy | 325261 | [325261-jak-and-daxter-the-precursor-legacy.json](./325261-jak-and-daxter-the-precursor-legacy.json) |
 | Jak II | 1529 | [1529-jak-ii.json](./1529-jak-ii.json) |
 | Jak II | 302717 | [302717-jak-ii.json](./302717-jak-ii.json) |
+| Jak the Chicken | 299317 | [299317-jak-the-chicken.json](./299317-jak-the-chicken.json) |
 | Jak X: Combat Racing | 1532 | [1532-jak-x-combat-racing.json](./1532-jak-x-combat-racing.json) |
 | Jake & The Mysterious Cave | 183845 | [183845-jake-and-the-mysterious-cave.json](./183845-jake-and-the-mysterious-cave.json) |
 | Jake and the Never Land Pirates | 137417 | [137417-jake-and-the-never-land-pirates.json](./137417-jake-and-the-never-land-pirates.json) |
@@ -2369,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Madden Football '93: Championship Edition | 4482 | [4482-john-madden-football-93-championship-edition.json](./4482-john-madden-football-93-championship-edition.json) |
 | John Madden Football II | 47042 | [47042-john-madden-football-ii.json](./47042-john-madden-football-ii.json) |
 | John Mambo | 101268 | [101268-john-mambo.json](./101268-john-mambo.json) |
+| John Man | 299348 | [299348-john-man.json](./299348-john-man.json) |
 | John Novak | 270552 | [270552-john-novak.json](./270552-john-novak.json) |
 | John Parkour | 345254 | [345254-john-parkour.json](./345254-john-parkour.json) |
 | John Saul's Blackstone Chronicles | 3223 | [3223-john-sauls-blackstone-chronicles.json](./3223-john-sauls-blackstone-chronicles.json) |
