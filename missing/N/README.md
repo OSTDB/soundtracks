@@ -4440,6 +4440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare in Squidville | 255627 | [255627-nightmare-in-squidville.json](./255627-nightmare-in-squidville.json) |
 | Nightmare in the Dark | 40992 | [40992-nightmare-in-the-dark.json](./40992-nightmare-in-the-dark.json) |
 | Nightmare Invasion | 352749 | [352749-nightmare-invasion.json](./352749-nightmare-invasion.json) |
+| Nightmare Journey | 331056 | [331056-nightmare-journey.json](./331056-nightmare-journey.json) |
 | Nightmare Journey 1135 | 402555 | [402555-nightmare-journey-1135.json](./402555-nightmare-journey-1135.json) |
 | Nightmare Kart: The Old Karts | 330684 | [330684-nightmare-kart-the-old-karts.json](./330684-nightmare-kart-the-old-karts.json) |
 | NightMare King | 363331 | [363331-nightmare-king.json](./363331-nightmare-king.json) |
@@ -6487,6 +6488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | North Star Mining Co. | 327163 | [327163-north-star-mining-co.json](./327163-north-star-mining-co.json) |
 | North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
 | North Town | 143902 | [143902-north-town.json](./143902-north-town.json) |
+| North Wind: Eien no Yakusoku | 331050 | [331050-north-wind-eien-no-yakusoku.json](./331050-north-wind-eien-no-yakusoku.json) |
 | Northanda Chronicles | 277294 | [277294-northanda-chronicles.json](./277294-northanda-chronicles.json) |
 | Northbound: Long Road Ahead | 133014 | [133014-northbound-long-road-ahead.json](./133014-northbound-long-road-ahead.json) |
 | Northbury Grove | 112217 | [112217-northbury-grove.json](./112217-northbury-grove.json) |
