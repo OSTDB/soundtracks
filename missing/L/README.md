@@ -5917,6 +5917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Racers Street | 10518 | [10518-little-racers-street.json](./10518-little-racers-street.json) |
 | Little Races | 115148 | [115148-little-races.json](./115148-little-races.json) |
 | Little Raiders: Robin's Revenge | 60971 | [60971-little-raiders-robins-revenge.json](./60971-little-raiders-robins-revenge.json) |
+| Little Ralph | 339061 | [339061-little-ralph.json](./339061-little-ralph.json) |
 | Little Rats' Big Top | 180804 | [180804-little-rats-big-top.json](./180804-little-rats-big-top.json) |
 | Little Re-collector | 369059 | [369059-little-re-collector.json](./369059-little-re-collector.json) |
 | Little Reaper | 111523 | [111523-little-reaper.json](./111523-little-reaper.json) |
