@@ -2174,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imaginaria | 153211 | [153211-imaginaria.json](./153211-imaginaria.json) |
 | Imaginarium | 126614 | [126614-imaginarium.json](./126614-imaginarium.json) |
 | Imaginary | 94153 | [94153-imaginary.json](./94153-imaginary.json) |
+| Imaginary Bad Friend | 328154 | [328154-imaginary-bad-friend.json](./328154-imaginary-bad-friend.json) |
 | Imaginary Chaos Fight | 340509 | [340509-imaginary-chaos-fight.json](./340509-imaginary-chaos-fight.json) |
 | Imaginary Friend Asylum | 273459 | [273459-imaginary-friend-asylum.json](./273459-imaginary-friend-asylum.json) |
 | Imaginary Friends | 133689 | [133689-imaginary-friends.json](./133689-imaginary-friends.json) |
