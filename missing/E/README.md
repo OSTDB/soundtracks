@@ -5313,6 +5313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room Bundle Triple Pack | 266639 | [266639-escape-room-bundle-triple-pack.json](./266639-escape-room-bundle-triple-pack.json) |
 | Escape Room Clock Tower | 193838 | [193838-escape-room-clock-tower.json](./193838-escape-room-clock-tower.json) |
 | Escape Room Collection C1 | 295536 | [295536-escape-room-collection-c1.json](./295536-escape-room-collection-c1.json) |
+| Escape Room Collection C2: Psychological Horror | 298201 | [298201-escape-room-collection-c2-psychological-horror.json](./298201-escape-room-collection-c2-psychological-horror.json) |
 | Escape Room Killer: Moon, flowers and the Creepy Ghost | 328530 | [328530-escape-room-killer-moon-flowers-and-the-creepy-ghost.json](./328530-escape-room-killer-moon-flowers-and-the-creepy-ghost.json) |
 | Escape Room Marathon | 410388 | [410388-escape-room-marathon.json](./410388-escape-room-marathon.json) |
 | Escape Room Mega Bundle | 279036 | [279036-escape-room-mega-bundle.json](./279036-escape-room-mega-bundle.json) |
