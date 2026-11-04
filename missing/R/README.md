@@ -9255,6 +9255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketmen: It Came from Uranus | 41588 | [41588-rocketmen-it-came-from-uranus.json](./41588-rocketmen-it-came-from-uranus.json) |
 | RocketPack Kid | 109219 | [109219-rocketpack-kid.json](./109219-rocketpack-kid.json) |
 | RocketPods | 127975 | [127975-rocketpods.json](./127975-rocketpods.json) |
+| Rocketpult Mini | 339170 | [339170-rocketpult-mini.json](./339170-rocketpult-mini.json) |
 | RocketRecoil | 296254 | [296254-rocketrecoil.json](./296254-rocketrecoil.json) |
 | Rockets | 108514 | [108514-rockets.json](./108514-rockets.json) |
 | Rockets, Planes, Soldiers | 267014 | [267014-rockets-planes-soldiers.json](./267014-rockets-planes-soldiers.json) |
