@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanae's Sylphid Breeze | 300377 | [300377-sanaes-sylphid-breeze.json](./300377-sanaes-sylphid-breeze.json) |
 | Sanalika | 180296 | [180296-sanalika.json](./180296-sanalika.json) |
 | SanaPoka | 82574 | [82574-sanapoka.json](./82574-sanapoka.json) |
+| Sanarah | 333830 | [333830-sanarah.json](./333830-sanarah.json) |
 | Sanasana | 411754 | [411754-sanasana.json](./411754-sanasana.json) |
 | Sanator: Elmo's Legacy | 197090 | [197090-sanator-elmos-legacy.json](./197090-sanator-elmos-legacy.json) |
 | Sanator: Scarlet Scarf | 113006 | [113006-sanator-scarlet-scarf.json](./113006-sanator-scarlet-scarf.json) |
@@ -9751,6 +9752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege of Dungeon | 204934 | [204934-siege-of-dungeon.json](./204934-siege-of-dungeon.json) |
 | Siege of Inaolia | 17603 | [17603-siege-of-inaolia.json](./17603-siege-of-inaolia.json) |
 | Siege of Osaka | 239181 | [239181-siege-of-osaka.json](./239181-siege-of-osaka.json) |
+| Siege of Shadows | 333828 | [333828-siege-of-shadows.json](./333828-siege-of-shadows.json) |
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
 | Siege of the Swine | 167505 | [167505-siege-of-the-swine.json](./167505-siege-of-the-swine.json) |
 | Siege of Treboulain | 190848 | [190848-siege-of-treboulain.json](./190848-siege-of-treboulain.json) |
@@ -16662,6 +16664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Calamity | 227807 | [227807-sonic-calamity.json](./227807-sonic-calamity.json) |
 | Sonic Can Go Only Up | 370244 | [370244-sonic-can-go-only-up.json](./370244-sonic-can-go-only-up.json) |
 | Sonic Carbon | 331729 | [331729-sonic-carbon.json](./331729-sonic-carbon.json) |
+| Sonic Cascade | 333814 | [333814-sonic-cascade.json](./333814-sonic-cascade.json) |
 | Sonic CCG | 330876 | [330876-sonic-ccg.json](./330876-sonic-ccg.json) |
 | Sonic CD | 5452 | [5452-sonic-cd.json](./5452-sonic-cd.json) |
 | Sonic CD | 86807 | [86807-sonic-cd.json](./86807-sonic-cd.json) |
@@ -16682,6 +16685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Character Designer | 338063 | [338063-sonic-character-designer.json](./338063-sonic-character-designer.json) |
 | Sonic Charge | 331436 | [331436-sonic-charge.json](./331436-sonic-charge.json) |
 | Sonic Chopped & Screwed | 131788 | [131788-sonic-chopped-and-screwed.json](./131788-sonic-chopped-and-screwed.json) |
+| Sonic Chrome Madness | 333813 | [333813-sonic-chrome-madness.json](./333813-sonic-chrome-madness.json) |
 | Sonic Chronicles: The Dark Brotherhood | 299874 | [299874-sonic-chronicles-the-dark-brotherhood.json](./299874-sonic-chronicles-the-dark-brotherhood.json) |
 | Sonic Chrono Adventure | 19739 | [19739-sonic-chrono-adventure.json](./19739-sonic-chrono-adventure.json) |
 | Sonic Classic | 175974 | [175974-sonic-classic.json](./175974-sonic-classic.json) |
@@ -22638,6 +22642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SSI Classics | 335614 | [335614-ssi-classics.json](./335614-ssi-classics.json) |
 | SSN-21 Seawolf | 92778 | [92778-ssn-21-seawolf.json](./92778-ssn-21-seawolf.json) |
 | sspp03's Super Mario Bros. Hack | 322818 | [322818-sspp03s-super-mario-bros-hack.json](./322818-sspp03s-super-mario-bros-hack.json) |
+| SSR Summoners | 333862 | [333862-ssr-summoners.json](./333862-ssr-summoners.json) |
 | SSR Wives: The Murder Of My Winter Crush | 296468 | [296468-ssr-wives-the-murder-of-my-winter-crush.json](./296468-ssr-wives-the-murder-of-my-winter-crush.json) |
 | SSS: Super Scrap Sandbox - Become a Mechanic | 100904 | [100904-sss-super-scrap-sandbox-become-a-mechanic.json](./100904-sss-super-scrap-sandbox-become-a-mechanic.json) |
 | SSS222: HyperSpace | 211177 | [211177-sss222-hyperspace.json](./211177-sss222-hyperspace.json) |
@@ -25439,6 +25444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar!: Infinity defense | 299453 | [299453-stellar-infinity-defense.json](./299453-stellar-infinity-defense.json) |
 | Stellara Vanguard | 372283 | [372283-stellara-vanguard.json](./372283-stellara-vanguard.json) |
 | Stellarcraft | 314392 | [314392-stellarcraft.json](./314392-stellarcraft.json) |
+| StellarDrive | 333849 | [333849-stellardrive.json](./333849-stellardrive.json) |
 | StellarEchoes: Terrain Explorer | 264619 | [264619-stellarechoes-terrain-explorer.json](./264619-stellarechoes-terrain-explorer.json) |
 | Stellaren | 132202 | [132202-stellaren.json](./132202-stellaren.json) |
 | Stellaren II | 171999 | [171999-stellaren-ii.json](./171999-stellaren-ii.json) |
@@ -26076,6 +26082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Rage | 74256 | [74256-stone-rage.json](./74256-stone-rage.json) |
 | Stone River | 167602 | [167602-stone-river.json](./167602-stone-river.json) |
 | Stone Shire | 85535 | [85535-stone-shire.json](./85535-stone-shire.json) |
+| Stone Simulator | 333855 | [333855-stone-simulator.json](./333855-stone-simulator.json) |
 | Stone Skimming | 100718 | [100718-stone-skimming.json](./100718-stone-skimming.json) |
 | Stone Skimming | 104378 | [104378-stone-skimming.json](./104378-stone-skimming.json) |
 | Stone Smash | 64787 | [64787-stone-smash.json](./64787-stone-smash.json) |
@@ -28108,6 +28115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Connect! | 147388 | [147388-succubus-connect.json](./147388-succubus-connect.json) |
 | Succubus Dating | 203598 | [203598-succubus-dating.json](./203598-succubus-dating.json) |
 | Succubus Farm | 151166 | [151166-succubus-farm.json](./151166-succubus-farm.json) |
+| Succubus Forest | 333856 | [333856-succubus-forest.json](./333856-succubus-forest.json) |
 | Succubus Girl Story | 192443 | [192443-succubus-girl-story.json](./192443-succubus-girl-story.json) |
 | Succubus Hearts: Demon Love Redemption | 386560 | [386560-succubus-hearts-demon-love-redemption.json](./386560-succubus-hearts-demon-love-redemption.json) |
 | Succubus Hotel | 172366 | [172366-succubus-hotel.json](./172366-succubus-hotel.json) |
