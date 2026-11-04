@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painted Kingdoms | 392796 | [392796-painted-kingdoms.json](./392796-painted-kingdoms.json) |
 | Painted Legend | 31896 | [31896-painted-legend.json](./31896-painted-legend.json) |
 | Painted Legend 2 | 160053 | [160053-painted-legend-2.json](./160053-painted-legend-2.json) |
+| Painted Legend: Knights of Ink & Paper | 333292 | [333292-painted-legend-knights-of-ink-and-paper.json](./333292-painted-legend-knights-of-ink-and-paper.json) |
 | Painted Memories | 30752 | [30752-painted-memories.json](./30752-painted-memories.json) |
 | Painted Red | 56883 | [56883-painted-red.json](./56883-painted-red.json) |
 | Painted Tomb | 125925 | [125925-painted-tomb.json](./125925-painted-tomb.json) |
@@ -3219,6 +3220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws and Claws: Pet Vet | 5091 | [5091-paws-and-claws-pet-vet.json](./5091-paws-and-claws-pet-vet.json) |
 | Paws and Claws: Pet Vet 2 | 123380 | [123380-paws-and-claws-pet-vet-2.json](./123380-paws-and-claws-pet-vet-2.json) |
 | Paws and Leaves: A Last Tale | 211234 | [211234-paws-and-leaves-a-last-tale.json](./211234-paws-and-leaves-a-last-tale.json) |
+| Paws and Whiskers | 333287 | [333287-paws-and-whiskers.json](./333287-paws-and-whiskers.json) |
 | Paws Coven | 390076 | [390076-paws-coven.json](./390076-paws-coven.json) |
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
 | Paws in the Maze | 291497 | [291497-paws-in-the-maze.json](./291497-paws-in-the-maze.json) |
@@ -9833,6 +9835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poca Mate | 381790 | [381790-poca-mate.json](./381790-poca-mate.json) |
 | Pocahontas | 209354 | [209354-pocahontas.json](./209354-pocahontas.json) |
 | Pochard Jamie | 351632 | [351632-pochard-jamie.json](./351632-pochard-jamie.json) |
+| Pochemeow | 333329 | [333329-pochemeow.json](./333329-pochemeow.json) |
 | Pochi and Nyaa | 252128 | [252128-pochi-and-nyaa.json](./252128-pochi-and-nyaa.json) |
 | Pochi and Nyaa | 40188 | [40188-pochi-and-nyaa.json](./40188-pochi-and-nyaa.json) |
 | Pocke-Kano: Fumio Ueno | 166554 | [166554-pocke-kano-fumio-ueno.json](./166554-pocke-kano-fumio-ueno.json) |
