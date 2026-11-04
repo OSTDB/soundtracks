@@ -7013,6 +7013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaming Flagon | 291968 | [291968-flaming-flagon.json](./291968-flaming-flagon.json) |
 | Flaming Friday Night | 130168 | [130168-flaming-friday-night.json](./130168-flaming-friday-night.json) |
 | Flaming Thunderer | 232946 | [232946-flaming-thunderer.json](./232946-flaming-thunderer.json) |
+| Flaming Trails: Lost Ember | 332759 | [332759-flaming-trails-lost-ember.json](./332759-flaming-trails-lost-ember.json) |
 | Flaming/Million | 153319 | [153319-flaming-million.json](./153319-flaming-million.json) |
 | Flamingo Go With Gun | 235914 | [235914-flamingo-go-with-gun.json](./235914-flamingo-go-with-gun.json) |
 | Flamingo Quest | 229635 | [229635-flamingo-quest.json](./229635-flamingo-quest.json) |
@@ -11591,6 +11592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendship Simulator | 359358 | [359358-friendship-simulator.json](./359358-friendship-simulator.json) |
 | Friendship Test | 341800 | [341800-friendship-test.json](./341800-friendship-test.json) |
 | Friendship vs The World | 402942 | [402942-friendship-vs-the-world.json](./402942-friendship-vs-the-world.json) |
+| Friendship with Benefits 2 | 332772 | [332772-friendship-with-benefits-2.json](./332772-friendship-with-benefits-2.json) |
 | Friendship21s | 254961 | [254961-friendship21s.json](./254961-friendship21s.json) |
 | Friendsim 2 | 190164 | [190164-friendsim-2.json](./190164-friendsim-2.json) |
 | Friendsmob | 391590 | [391590-friendsmob.json](./391590-friendsmob.json) |
@@ -13398,6 +13400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fútbol Club Barcelona | 217959 | [217959-futbol-club-barcelona.json](./217959-futbol-club-barcelona.json) |
 | Futbol Colombiano 96 | 38200 | [38200-futbol-colombiano-96.json](./38200-futbol-colombiano-96.json) |
 | Futbol Kicks | 324992 | [324992-futbol-kicks.json](./324992-futbol-kicks.json) |
+| Futbol Plus | 332746 | [332746-futbol-plus.json](./332746-futbol-plus.json) |
 | Futbolín Revolution | 138020 | [138020-futbolin-revolution.json](./138020-futbolin-revolution.json) |
 | Futebol | 92984 | [92984-futebol.json](./92984-futebol.json) |
 | Futebol de Tampinhas | 290090 | [290090-futebol-de-tampinhas.json](./290090-futebol-de-tampinhas.json) |
