@@ -4938,6 +4938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deda | 383905 | [383905-deda.json](./383905-deda.json) |
 | Dedale | 73435 | [73435-dedale.json](./73435-dedale.json) |
 | Dedalium | 199418 | [199418-dedalium.json](./199418-dedalium.json) |
+| Dedalo | 328732 | [328732-dedalo.json](./328732-dedalo.json) |
 | Dedalus | 138998 | [138998-dedalus.json](./138998-dedalus.json) |
 | Dedede Daggers | 183910 | [183910-dedede-daggers.json](./183910-dedede-daggers.json) |
 | Dedede's Drum Dash Deluxe | 61319 | [61319-dededes-drum-dash-deluxe.json](./61319-dededes-drum-dash-deluxe.json) |
@@ -11606,6 +11607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll of Resurrection | 109337 | [109337-doll-of-resurrection.json](./109337-doll-of-resurrection.json) |
 | Doll Parts | 347793 | [347793-doll-parts.json](./347793-doll-parts.json) |
 | Doll Recollect | 299737 | [299737-doll-recollect.json](./299737-doll-recollect.json) |
+| Doll Style: Underground Design and Dress | 328733 | [328733-doll-style-underground-design-and-dress.json](./328733-doll-style-underground-design-and-dress.json) |
 | Doll's Ingram | 131585 | [131585-dolls-ingram.json](./131585-dolls-ingram.json) |
 | Doll's Liminal | 259467 | [259467-dolls-liminal.json](./259467-dolls-liminal.json) |
 | Dolla World | 82332 | [82332-dolla-world.json](./82332-dolla-world.json) |
@@ -15623,6 +15625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland Escape | 130338 | [130338-dreamland-escape.json](./130338-dreamland-escape.json) |
 | Dreamland Farm | 317223 | [317223-dreamland-farm.json](./317223-dreamland-farm.json) |
 | Dreamland Farm: Banner | 324443 | [324443-dreamland-farm-banner.json](./324443-dreamland-farm-banner.json) |
+| Dreamland Farm: Deluxe Edition | 328755 | [328755-dreamland-farm-deluxe-edition.json](./328755-dreamland-farm-deluxe-edition.json) |
 | Dreamland Farm: House Furnitures | 324460 | [324460-dreamland-farm-house-furnitures.json](./324460-dreamland-farm-house-furnitures.json) |
 | Dreamland Farm: Kitchen Furnitures | 324461 | [324461-dreamland-farm-kitchen-furnitures.json](./324461-dreamland-farm-kitchen-furnitures.json) |
 | Dreamland Farm: Stone Fence and Tiles | 324477 | [324477-dreamland-farm-stone-fence-and-tiles.json](./324477-dreamland-farm-stone-fence-and-tiles.json) |
