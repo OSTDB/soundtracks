@@ -4382,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ostriv | 24512 | [24512-ostriv.json](./24512-ostriv.json) |
 | Ostrofa | 115784 | [115784-ostrofa.json](./115784-ostrofa.json) |
 | Ostron | 78989 | [78989-ostron.json](./78989-ostron.json) |
+| Ostrov Sokrovishch | 298732 | [298732-ostrov-sokrovishch.json](./298732-ostrov-sokrovishch.json) |
 | Ostrova Koshki | 132568 | [132568-ostrova-koshki.json](./132568-ostrova-koshki.json) |
 | Osu! | 3012 | [3012-osu.json](./3012-osu.json) |
 | Osu! Tatakae! Ouendan | 24645 | [24645-osu-tatakae-ouendan.json](./24645-osu-tatakae-ouendan.json) |
