@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dahlia | 321291 | [321291-dahlia.json](./321291-dahlia.json) |
 | Dahlia | 58839 | [58839-dahlia.json](./58839-dahlia.json) |
 | Dahlia no Wakudeki: Danchi-zuma Akiko ga Ochiru Jijou | 160198 | [160198-dahlia-no-wakudeki-danchi-zuma-akiko-ga-ochiru-jijou.json](./160198-dahlia-no-wakudeki-danchi-zuma-akiko-ga-ochiru-jijou.json) |
+| Dahlia View: Digital Deluxe Edition | 335608 | [335608-dahlia-view-digital-deluxe-edition.json](./335608-dahlia-view-digital-deluxe-edition.json) |
 | Dahlia: Lasciatemi morire | 275476 | [275476-dahlia-lasciatemi-morire.json](./275476-dahlia-lasciatemi-morire.json) |
 | Dahliphoria | 224768 | [224768-dahliphoria.json](./224768-dahliphoria.json) |
 | Dahna: Megami Tanjou | 46185 | [46185-dahna-megami-tanjou.json](./46185-dahna-megami-tanjou.json) |
@@ -8793,6 +8794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Tamers: Pocket Culumon | 108939 | [108939-digimon-tamers-pocket-culumon.json](./108939-digimon-tamers-pocket-culumon.json) |
 | Digimon Up | 395561 | [395561-digimon-up.json](./395561-digimon-up.json) |
 | Digimon Vital Bracelet Lab | 185990 | [185990-digimon-vital-bracelet-lab.json](./185990-digimon-vital-bracelet-lab.json) |
+| Digimon World | 335566 | [335566-digimon-world.json](./335566-digimon-world.json) |
 | Digimon World | 8614 | [8614-digimon-world.json](./8614-digimon-world.json) |
 | Digimon World 2 | 36508 | [36508-digimon-world-2.json](./36508-digimon-world-2.json) |
 | Digimon World 2 Alternative | 322120 | [322120-digimon-world-2-alternative.json](./322120-digimon-world-2-alternative.json) |
