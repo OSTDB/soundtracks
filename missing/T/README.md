@@ -6015,6 +6015,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ballad of a True Thug | 405258 | [405258-the-ballad-of-a-true-thug.json](./405258-the-ballad-of-a-true-thug.json) |
 | The Ballad of Bellum | 336539 | [336539-the-ballad-of-bellum.json](./336539-the-ballad-of-bellum.json) |
 | The Ballad of Bonky | 159648 | [159648-the-ballad-of-bonky.json](./159648-the-ballad-of-bonky.json) |
+| The Ballad of Ketinetto | 315138 | [315138-the-ballad-of-ketinetto.json](./315138-the-ballad-of-ketinetto.json) |
+| The Ballad of Ketinetto 10 | 315148 | [315148-the-ballad-of-ketinetto-10.json](./315148-the-ballad-of-ketinetto-10.json) |
+| The Ballad of Ketinetto 11 | 315149 | [315149-the-ballad-of-ketinetto-11.json](./315149-the-ballad-of-ketinetto-11.json) |
+| The Ballad of Ketinetto 2 | 315139 | [315139-the-ballad-of-ketinetto-2.json](./315139-the-ballad-of-ketinetto-2.json) |
+| The Ballad of Ketinetto 3 | 315140 | [315140-the-ballad-of-ketinetto-3.json](./315140-the-ballad-of-ketinetto-3.json) |
+| The Ballad of Ketinetto 4 | 315141 | [315141-the-ballad-of-ketinetto-4.json](./315141-the-ballad-of-ketinetto-4.json) |
+| The Ballad of Ketinetto 5 | 315142 | [315142-the-ballad-of-ketinetto-5.json](./315142-the-ballad-of-ketinetto-5.json) |
+| The Ballad of Ketinetto 6 | 315143 | [315143-the-ballad-of-ketinetto-6.json](./315143-the-ballad-of-ketinetto-6.json) |
+| The Ballad of Ketinetto 7 | 315144 | [315144-the-ballad-of-ketinetto-7.json](./315144-the-ballad-of-ketinetto-7.json) |
+| The ballad of Ketinetto 8 | 315146 | [315146-the-ballad-of-ketinetto-8.json](./315146-the-ballad-of-ketinetto-8.json) |
+| The Ballad of Ketinetto 9 | 315147 | [315147-the-ballad-of-ketinetto-9.json](./315147-the-ballad-of-ketinetto-9.json) |
 | The Ballad of Light and Shadow | 350921 | [350921-the-ballad-of-light-and-shadow.json](./350921-the-ballad-of-light-and-shadow.json) |
 | The Ballad of Radolf | 207295 | [207295-the-ballad-of-radolf.json](./207295-the-ballad-of-radolf.json) |
 | The Ballad of the Metamorphosis of M. Dolly | 125214 | [125214-the-ballad-of-the-metamorphosis-of-m-dolly.json](./125214-the-ballad-of-the-metamorphosis-of-m-dolly.json) |
@@ -13439,6 +13450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mistral Report | 172391 | [172391-the-mistral-report.json](./172391-the-mistral-report.json) |
 | The Misty Tale | 190190 | [190190-the-misty-tale.json](./190190-the-misty-tale.json) |
 | The Mixer | 223178 | [223178-the-mixer.json](./223178-the-mixer.json) |
+| The Mixologist | 315145 | [315145-the-mixologist.json](./315145-the-mixologist.json) |
 | The Mnemograph | 337304 | [337304-the-mnemograph.json](./337304-the-mnemograph.json) |
 | The Moaning Words | 60913 | [60913-the-moaning-words.json](./60913-the-moaning-words.json) |
 | The Möbius Strip | 366731 | [366731-the-mobius-strip.json](./366731-the-mobius-strip.json) |
@@ -18319,6 +18331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wicked Days | 148907 | [148907-the-wicked-days.json](./148907-the-wicked-days.json) |
 | The Wicked Souls | 270038 | [270038-the-wicked-souls.json](./270038-the-wicked-souls.json) |
 | The Wicked West | 296465 | [296465-the-wicked-west.json](./296465-the-wicked-west.json) |
+| The Wicked Witch of the West | 314766 | [314766-the-wicked-witch-of-the-west.json](./314766-the-wicked-witch-of-the-west.json) |
 | The Wickers House | 415728 | [415728-the-wickers-house.json](./415728-the-wickers-house.json) |
 | The Wickie | 157131 | [157131-the-wickie.json](./157131-the-wickie.json) |
 | The Widow's Shadow | 271212 | [271212-the-widows-shadow.json](./271212-the-widows-shadow.json) |
@@ -29082,6 +29095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travelers and Tales | 225495 | [225495-travelers-and-tales.json](./225495-travelers-and-tales.json) |
 | Travelers in Space Crack | 193424 | [193424-travelers-in-space-crack.json](./193424-travelers-in-space-crack.json) |
 | Traveling Merchant | 58521 | [58521-traveling-merchant.json](./58521-traveling-merchant.json) |
+| Traveling Union | 314756 | [314756-traveling-union.json](./314756-traveling-union.json) |
 | Traveller's Hymn | 319560 | [319560-travellers-hymn.json](./319560-travellers-hymn.json) |
 | Travellers | 172033 | [172033-travellers.json](./172033-travellers.json) |
 | Travellers Rest | 121967 | [121967-travellers-rest.json](./121967-travellers-rest.json) |
