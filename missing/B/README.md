@@ -6252,6 +6252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Basement | 187798 | [187798-beneath-the-basement.json](./187798-beneath-the-basement.json) |
 | Beneath the Bell | 333156 | [333156-beneath-the-bell.json](./333156-beneath-the-bell.json) |
 | Beneath the Bleeding Moon | 261866 | [261866-beneath-the-bleeding-moon.json](./261866-beneath-the-bleeding-moon.json) |
+| Beneath the Blobs | 337945 | [337945-beneath-the-blobs.json](./337945-beneath-the-blobs.json) |
 | Beneath The Brine | 327376 | [327376-beneath-the-brine.json](./327376-beneath-the-brine.json) |
 | Beneath the Cardboard | 201286 | [201286-beneath-the-cardboard.json](./201286-beneath-the-cardboard.json) |
 | Beneath the Cherry Trees | 90567 | [90567-beneath-the-cherry-trees.json](./90567-beneath-the-cherry-trees.json) |
