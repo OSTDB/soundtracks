@@ -5107,6 +5107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Saga | 66763 | [66763-final-saga.json](./66763-final-saga.json) |
 | Final Sanctuary | 326993 | [326993-final-sanctuary.json](./326993-final-sanctuary.json) |
 | Final Selection | 422801 | [422801-final-selection.json](./422801-final-selection.json) |
+| Final Sentence | 341266 | [341266-final-sentence.json](./341266-final-sentence.json) |
 | Final Set | 44430 | [44430-final-set.json](./44430-final-set.json) |
 | Final Shot | 175704 | [175704-final-shot.json](./175704-final-shot.json) |
 | Final Shot | 177554 | [177554-final-shot.json](./177554-final-shot.json) |
