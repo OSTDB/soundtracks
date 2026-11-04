@@ -9771,6 +9771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Caravan | 399928 | [399928-the-golden-caravan.json](./399928-the-golden-caravan.json) |
 | The Golden Compass | 4892 | [4892-the-golden-compass.json](./4892-the-golden-compass.json) |
 | The Golden Cross | 150752 | [150752-the-golden-cross.json](./150752-the-golden-cross.json) |
+| The Golden Eagle | 327540 | [327540-the-golden-eagle.json](./327540-the-golden-eagle.json) |
 | The Golden Eyed Ghosts | 200521 | [200521-the-golden-eyed-ghosts.json](./200521-the-golden-eyed-ghosts.json) |
 | The Golden Girls Take Manhattan DX | 241237 | [241237-the-golden-girls-take-manhattan-dx.json](./241237-the-golden-girls-take-manhattan-dx.json) |
 | The Golden Harp | 176784 | [176784-the-golden-harp.json](./176784-the-golden-harp.json) |
@@ -30268,6 +30269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble in Warsaw | 326069 | [326069-trouble-in-warsaw.json](./326069-trouble-in-warsaw.json) |
 | Trouble Inn: Jonny's Room | 163949 | [163949-trouble-inn-jonnys-room.json](./163949-trouble-inn-jonnys-room.json) |
 | Trouble Juice | 217457 | [217457-trouble-juice.json](./217457-trouble-juice.json) |
+| Trouble Kingdom | 327559 | [327559-trouble-kingdom.json](./327559-trouble-kingdom.json) |
 | Trouble Magia: Wakeari Shoujo ha Mirai wo Kachitoru Tame ni Ikoku no Mahou Gakkou he Ryuugaku Shimasu | 274886 | [274886-trouble-magia-wakeari-shoujo-ha-mirai-wo-kachitoru-tame-ni-ikoku-no-mahou-gakkou-he-ryuugaku-shimasu.json](./274886-trouble-magia-wakeari-shoujo-ha-mirai-wo-kachitoru-tame-ni-ikoku-no-mahou-gakkou-he-ryuugaku-shimasu.json) |
 | Trouble Magnet | 272876 | [272876-trouble-magnet.json](./272876-trouble-magnet.json) |
 | Trouble Majo Shiken: Kaichou-sama to Tennenkko wa Majo Shimai! Nakadashi Ecchi de Maryoku Hokyuu wo Otetsudai! | 280640 | [280640-trouble-majo-shiken-kaichou-sama-to-tennenkko-wa-majo-shimai-nakadashi-ecchi-de-maryoku-hokyuu-wo-otetsudai.json](./280640-trouble-majo-shiken-kaichou-sama-to-tennenkko-wa-majo-shimai-nakadashi-ecchi-de-maryoku-hokyuu-wo-otetsudai.json) |
@@ -30843,6 +30845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsumannai | 221037 | [221037-tsumannai.json](./221037-tsumannai.json) |
 | Tsumego Pro | 402323 | [402323-tsumego-pro.json](./402323-tsumego-pro.json) |
 | Tsumera | 268456 | [268456-tsumera.json](./268456-tsumera.json) |
+| Tsumi no Hikari Rendez-vous | 327546 | [327546-tsumi-no-hikari-rendez-vous.json](./327546-tsumi-no-hikari-rendez-vous.json) |
 | Tsumi no Hikari Rendezvous | 335581 | [335581-tsumi-no-hikari-rendezvous.json](./335581-tsumi-no-hikari-rendezvous.json) |
 | Tsumiki: The Infernal Tower | 124107 | [124107-tsumiki-the-infernal-tower.json](./124107-tsumiki-the-infernal-tower.json) |
 | Tsumikui: Sen no Noroi, Sen no Inori | 222867 | [222867-tsumikui-sen-no-noroi-sen-no-inori.json](./222867-tsumikui-sen-no-noroi-sen-no-inori.json) |
