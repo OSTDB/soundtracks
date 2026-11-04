@@ -935,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mages of Osmea | 312199 | [312199-mages-of-osmea.json](./312199-mages-of-osmea.json) |
 | MageSlayer | 8695 | [8695-mageslayer.json](./8695-mageslayer.json) |
 | MageTrain | 338350 | [338350-magetrain.json](./338350-magetrain.json) |
+| Mageye | 343147 | [343147-mageye.json](./343147-mageye.json) |
 | MagFighter | 295354 | [295354-magfighter.json](./295354-magfighter.json) |
 | MagForce Racing | 45806 | [45806-magforce-racing.json](./45806-magforce-racing.json) |
 | Maggie the Magnet | 201456 | [201456-maggie-the-magnet.json](./201456-maggie-the-magnet.json) |
@@ -5676,6 +5677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9420,6 +9422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug 1st Mission (Version C) | 75486 | [75486-metal-slug-1st-mission-version-c.json](./75486-metal-slug-1st-mission-version-c.json) |
 | Metal Slug 1st Mission (Version D) | 75487 | [75487-metal-slug-1st-mission-version-d.json](./75487-metal-slug-1st-mission-version-d.json) |
 | Metal Slug 2 | 1407 | [1407-metal-slug-2.json](./1407-metal-slug-2.json) |
+| Metal Slug 2001 | 343003 | [343003-metal-slug-2001.json](./343003-metal-slug-2001.json) |
 | Metal Slug 2nd Mission (Best Collection) | 75489 | [75489-metal-slug-2nd-mission-best-collection.json](./75489-metal-slug-2nd-mission-best-collection.json) |
 | Metal Slug 3 | 191479 | [191479-metal-slug-3.json](./191479-metal-slug-3.json) |
 | Metal Slug 3 | 347159 | [347159-metal-slug-3.json](./347159-metal-slug-3.json) |
@@ -12759,6 +12762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MinuteDungeon | 144219 | [144219-minutedungeon.json](./144219-minutedungeon.json) |
 | MinuteFrontier | 144221 | [144221-minutefrontier.json](./144221-minutefrontier.json) |
 | MinuteQues‪t‬ | 144218 | [144218-minuteques-t.json](./144218-minuteques-t.json) |
+| MinuteRogue | 342986 | [342986-minuterogue.json](./342986-minuterogue.json) |
 | Minutes | 21707 | [21707-minutes.json](./21707-minutes.json) |
 | Minutescape | 327969 | [327969-minutescape.json](./327969-minutescape.json) |
 | Minuto: Galactic Deliveries | 342706 | [342706-minuto-galactic-deliveries.json](./342706-minuto-galactic-deliveries.json) |
