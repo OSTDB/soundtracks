@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo of Prypiat | 303508 | [303508-echo-of-prypiat.json](./303508-echo-of-prypiat.json) |
 | Echo of Soul | 23651 | [23651-echo-of-soul.json](./23651-echo-of-soul.json) |
 | Echo of the DarkZone | 374949 | [374949-echo-of-the-darkzone.json](./374949-echo-of-the-darkzone.json) |
+| Echo Of The Horizon | 320629 | [320629-echo-of-the-horizon.json](./320629-echo-of-the-horizon.json) |
 | Echo of the Last Light | 226812 | [226812-echo-of-the-last-light.json](./226812-echo-of-the-last-light.json) |
 | Echo of the Walls | 379179 | [379179-echo-of-the-walls.json](./379179-echo-of-the-walls.json) |
 | Echo of the Wilds | 17514 | [17514-echo-of-the-wilds.json](./17514-echo-of-the-wilds.json) |
@@ -4923,6 +4924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape First 2 | 119545 | [119545-escape-first-2.json](./119545-escape-first-2.json) |
 | Escape First 3 | 131778 | [131778-escape-first-3.json](./131778-escape-first-3.json) |
 | Escape First Alchemist | 213537 | [213537-escape-first-alchemist.json](./213537-escape-first-alchemist.json) |
+| Escape Floor 13 | 320650 | [320650-escape-floor-13.json](./320650-escape-floor-13.json) |
 | Escape from 1927 | 240498 | [240498-escape-from-1927.json](./240498-escape-from-1927.json) |
 | Escape from 8-Bit High | 392212 | [392212-escape-from-8-bit-high.json](./392212-escape-from-8-bit-high.json) |
 | Escape From a Deserted Island: The Adventures of Nyanzou & Kumakichi | 154979 | [154979-escape-from-a-deserted-island-the-adventures-of-nyanzou-and-kumakichi.json](./154979-escape-from-a-deserted-island-the-adventures-of-nyanzou-and-kumakichi.json) |
