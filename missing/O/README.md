@@ -2129,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Billion Ducks | 408542 | [408542-one-billion-ducks.json](./408542-one-billion-ducks.json) |
 | One Bit | 48007 | [48007-one-bit.json](./48007-one-bit.json) |
 | One Bit Arena | 86762 | [86762-one-bit-arena.json](./86762-one-bit-arena.json) |
+| One Boss One Fight | 323646 | [323646-one-boss-one-fight.json](./323646-one-boss-one-fight.json) |
 | One Box, Blue Box | 364278 | [364278-one-box-blue-box.json](./364278-one-box-blue-box.json) |
 | One Bullet - Flip the gun | 103553 | [103553-one-bullet-flip-the-gun.json](./103553-one-bullet-flip-the-gun.json) |
 | One Bullet left | 28888 | [28888-one-bullet-left.json](./28888-one-bullet-left.json) |
@@ -2986,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Up Rush | 312845 | [312845-only-up-rush.json](./312845-only-up-rush.json) |
 | Only Up Samarkand | 277328 | [277328-only-up-samarkand.json](./277328-only-up-samarkand.json) |
 | Only up to Space | 351079 | [351079-only-up-to-space.json](./351079-only-up-to-space.json) |
+| Only Up: Lizards Must Fall | 323497 | [323497-only-up-lizards-must-fall.json](./323497-only-up-lizards-must-fall.json) |
 | Only Up: Parkour Game | 385154 | [385154-only-up-parkour-game.json](./385154-only-up-parkour-game.json) |
 | Only Up: Skibidi | 310922 | [310922-only-up-skibidi.json](./310922-only-up-skibidi.json) |
 | Only Up: Skibidi Together | 297819 | [297819-only-up-skibidi-together.json](./297819-only-up-skibidi-together.json) |
@@ -4166,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orpheus: Fall For Eurydice | 144654 | [144654-orpheus-fall-for-eurydice.json](./144654-orpheus-fall-for-eurydice.json) |
 | Orpheus: Tale of a Lover | 258095 | [258095-orpheus-tale-of-a-lover.json](./258095-orpheus-tale-of-a-lover.json) |
 | Orpheus: To Hell and Back | 383410 | [383410-orpheus-to-hell-and-back.json](./383410-orpheus-to-hell-and-back.json) |
+| Orpheus' Revenge | 323481 | [323481-orpheus-revenge.json](./323481-orpheus-revenge.json) |
 | Orpheus's Dream | 119766 | [119766-orpheuss-dream.json](./119766-orpheuss-dream.json) |
 | Orpiment | 153055 | [153055-orpiment.json](./153055-orpiment.json) |
 | Orqa FPV SkyDive | 196854 | [196854-orqa-fpv-skydive.json](./196854-orqa-fpv-skydive.json) |
