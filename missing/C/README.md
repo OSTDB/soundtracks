@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C64 Quiz | 134400 | [134400-c64-quiz.json](./134400-c64-quiz.json) |
 | C64anabalt | 41017 | [41017-c64anabalt.json](./41017-c64anabalt.json) |
 | C99 Games | 421188 | [421188-c99-games.json](./421188-c99-games.json) |
+| Cá Trê | 320632 | [320632-ca-tre.json](./320632-ca-tre.json) |
 | Caaahr! | 405654 | [405654-caaahr.json](./405654-caaahr.json) |
 | Caapora Adventure: Ojibe's Revenge | 171379 | [171379-caapora-adventure-ojibes-revenge.json](./171379-caapora-adventure-ojibes-revenge.json) |
 | Cab Driver | 267760 | [267760-cab-driver.json](./267760-cab-driver.json) |
@@ -5657,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chánggē Xíng | 129094 | [129094-changge-xing.json](./129094-changge-xing.json) |
 | Changkabang! | 203651 | [203651-changkabang.json](./203651-changkabang.json) |
 | Chango | 268064 | [268064-chango.json](./268064-chango.json) |
+| Changuy: The Game | 320644 | [320644-changuy-the-game.json](./320644-changuy-the-game.json) |
 | Channel 3 | 276042 | [276042-channel-3.json](./276042-channel-3.json) |
 | Channel 4 Midnight | 385434 | [385434-channel-4-midnight.json](./385434-channel-4-midnight.json) |
 | Channel 51 | 372282 | [372282-channel-51.json](./372282-channel-51.json) |
@@ -16373,6 +16375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Match | 298370 | [298370-creature-match.json](./298370-creature-match.json) |
 | Creature Menace: The Ultimate Nightmare | 374570 | [374570-creature-menace-the-ultimate-nightmare.json](./374570-creature-menace-the-ultimate-nightmare.json) |
 | Creature Oasis | 321925 | [321925-creature-oasis.json](./321925-creature-oasis.json) |
+| Creature Packets | 320637 | [320637-creature-packets.json](./320637-creature-packets.json) |
 | Creature Pedia | 369791 | [369791-creature-pedia.json](./369791-creature-pedia.json) |
 | Creature Quest | 138166 | [138166-creature-quest.json](./138166-creature-quest.json) |
 | Creature Resort | 136985 | [136985-creature-resort.json](./136985-creature-resort.json) |
@@ -18385,6 +18388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Worlds Survival | 151478 | [151478-cube-worlds-survival.json](./151478-cube-worlds-survival.json) |
 | Cube XL | 91222 | [91222-cube-xl.json](./91222-cube-xl.json) |
 | Cube Zoid | 176466 | [176466-cube-zoid.json](./176466-cube-zoid.json) |
+| Cube Zone | 320655 | [320655-cube-zone.json](./320655-cube-zone.json) |
 | Cube-C: VR Game Collection | 74204 | [74204-cube-c-vr-game-collection.json](./74204-cube-c-vr-game-collection.json) |
 | Cube-e 2 | 165415 | [165415-cube-e-2.json](./165415-cube-e-2.json) |
 | Cube-Field+ | 392369 | [392369-cube-field.json](./392369-cube-field.json) |
