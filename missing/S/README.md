@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Battle | 234537 | [234537-sakura-battle.json](./234537-sakura-battle.json) |
 | Sakura Beach | 35040 | [35040-sakura-beach.json](./35040-sakura-beach.json) |
 | Sakura Beach 2 | 34329 | [34329-sakura-beach-2.json](./34329-sakura-beach-2.json) |
+| Sakura Blade | 313911 | [313911-sakura-blade.json](./313911-sakura-blade.json) |
 | Sakura Branch: Blossom Puzzle | 418323 | [418323-sakura-branch-blossom-puzzle.json](./418323-sakura-branch-blossom-puzzle.json) |
 | Sakura Bunny Girls 2 | 355079 | [355079-sakura-bunny-girls-2.json](./355079-sakura-bunny-girls-2.json) |
 | Sakura Clicker | 34950 | [34950-sakura-clicker.json](./34950-sakura-clicker.json) |
@@ -7245,6 +7246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharing Lights | 192902 | [192902-sharing-lights.json](./192902-sharing-lights.json) |
 | Sharique | 112267 | [112267-sharique.json](./112267-sharique.json) |
 | Shark | 110852 | [110852-shark.json](./110852-shark.json) |
+| Shark | 313931 | [313931-shark.json](./313931-shark.json) |
 | Shark | 98687 | [98687-shark.json](./98687-shark.json) |
 | Shark Adventure | 192041 | [192041-shark-adventure.json](./192041-shark-adventure.json) |
 | Shark Assault Simulator | 202542 | [202542-shark-assault-simulator.json](./202542-shark-assault-simulator.json) |
@@ -12443,6 +12445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylax! The Lab Runner | 369664 | [369664-skylax-the-lab-runner.json](./369664-skylax-the-lab-runner.json) |
 | SkyLeague | 304000 | [304000-skyleague.json](./304000-skyleague.json) |
 | SkyLeap | 262809 | [262809-skyleap.json](./262809-skyleap.json) |
+| Skyless Blind | 313908 | [313908-skyless-blind.json](./313908-skyless-blind.json) |
 | SkyLife: VoxelSurvival | 149050 | [149050-skylife-voxelsurvival.json](./149050-skylife-voxelsurvival.json) |
 | Skylight | 64096 | [64096-skylight.json](./64096-skylight.json) |
 | Skylight | 81019 | [81019-skylight.json](./81019-skylight.json) |
@@ -15256,6 +15259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soak & Splash | 250948 | [250948-soak-and-splash.json](./250948-soak-and-splash.json) |
 | Soaked! | 52854 | [52854-soaked.json](./52854-soaked.json) |
 | Soap | 360732 | [360732-soap.json](./360732-soap.json) |
+| Soap Bubble | 313907 | [313907-soap-bubble.json](./313907-soap-bubble.json) |
 | Soap Bubble 2 | 322846 | [322846-soap-bubble-2.json](./322846-soap-bubble-2.json) |
 | Soap Dodgem | 96195 | [96195-soap-dodgem.json](./96195-soap-dodgem.json) |
 | Soap Killer | 399075 | [399075-soap-killer.json](./399075-soap-killer.json) |
@@ -18989,7 +18993,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21431,6 +21434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits and Secrets | 384500 | [384500-spirits-and-secrets.json](./384500-spirits-and-secrets.json) |
 | Spirits Chronicles: Flower of Hope - Collector's Edition | 208632 | [208632-spirits-chronicles-flower-of-hope-collectors-edition.json](./208632-spirits-chronicles-flower-of-hope-collectors-edition.json) |
 | Spirits Mirror​:​ Digital Possessed | 251348 | [251348-spirits-mirror-digital-possessed.json](./251348-spirits-mirror-digital-possessed.json) |
+| Spirits of Baciu | 313917 | [313917-spirits-of-baciu.json](./313917-spirits-of-baciu.json) |
 | Spirits of Carter Mansion | 189053 | [189053-spirits-of-carter-mansion.json](./189053-spirits-of-carter-mansion.json) |
 | Spirits of Light | 188455 | [188455-spirits-of-light.json](./188455-spirits-of-light.json) |
 | Spirits of Lunara | 383364 | [383364-spirits-of-lunara.json](./383364-spirits-of-lunara.json) |
@@ -24062,6 +24066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbase Orion | 63039 | [63039-starbase-orion.json](./63039-starbase-orion.json) |
 | StarbaseSim | 315319 | [315319-starbasesim.json](./315319-starbasesim.json) |
 | Starbear: Taxi | 100415 | [100415-starbear-taxi.json](./100415-starbear-taxi.json) |
+| Starbeard | 313952 | [313952-starbeard.json](./313952-starbeard.json) |
 | Starbeast | 64709 | [64709-starbeast.json](./64709-starbeast.json) |
 | Starbike | 70288 | [70288-starbike.json](./70288-starbike.json) |
 | Starbirds | 73292 | [73292-starbirds.json](./73292-starbirds.json) |
