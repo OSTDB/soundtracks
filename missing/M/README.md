@@ -4180,7 +4180,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marriage Royale: Prism Story | 269499 | [269499-marriage-royale-prism-story.json](./269499-marriage-royale-prism-story.json) |
 | Marriage to the Demon Wife! | 202197 | [202197-marriage-to-the-demon-wife.json](./202197-marriage-to-the-demon-wife.json) |
 | Married Girls' Night School | 249750 | [249750-married-girls-night-school.json](./249750-married-girls-night-school.json) |
-| Married in Red | 307253 | [307253-married-in-red.json](./307253-married-in-red.json) |
 | Married Life With a Lamia | 275440 | [275440-married-life-with-a-lamia.json](./275440-married-life-with-a-lamia.json) |
 | Married Teacher, Big-Boob Lesson | 97737 | [97737-married-teacher-big-boob-lesson.json](./97737-married-teacher-big-boob-lesson.json) |
 | Married Woman Cosplay Life | 248247 | [248247-married-woman-cosplay-life.json](./248247-married-woman-cosplay-life.json) |
