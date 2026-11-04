@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love My Brother | 81796 | [81796-i-love-my-brother.json](./81796-i-love-my-brother.json) |
 | I Love my Cats | 84542 | [84542-i-love-my-cats.json](./84542-i-love-my-cats.json) |
 | I Love My Dogs | 84541 | [84541-i-love-my-dogs.json](./84541-i-love-my-dogs.json) |
+| I Love My Goblin Girlfriend | 301482 | [301482-i-love-my-goblin-girlfriend.json](./301482-i-love-my-goblin-girlfriend.json) |
 | I Love My Job! | 177845 | [177845-i-love-my-job.json](./177845-i-love-my-job.json) |
 | I Love My Little Girl | 84540 | [84540-i-love-my-little-girl.json](./84540-i-love-my-little-girl.json) |
 | I Love My Pets | 47691 | [47691-i-love-my-pets.json](./47691-i-love-my-pets.json) |
@@ -2569,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impirical Evidence | 394437 | [394437-impirical-evidence.json](./394437-impirical-evidence.json) |
 | Impish Rat Electronic Pet | 314645 | [314645-impish-rat-electronic-pet.json](./314645-impish-rat-electronic-pet.json) |
 | Impixable | 110698 | [110698-impixable.json](./110698-impixable.json) |
+| Implication | 301481 | [301481-implication.json](./301481-implication.json) |
 | ImpliCations | 257401 | [257401-implications.json](./257401-implications.json) |
 | Implode XL | 66418 | [66418-implode-xl.json](./66418-implode-xl.json) |
 | Implode! | 79162 | [79162-implode.json](./79162-implode.json) |
