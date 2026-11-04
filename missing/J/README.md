@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jericho Road | 14135 | [14135-jericho-road.json](./14135-jericho-road.json) |
 | Jericho's Rose | 173246 | [173246-jerichos-rose.json](./173246-jerichos-rose.json) |
 | Jerking Off in Class Simulator | 367843 | [367843-jerking-off-in-class-simulator.json](./367843-jerking-off-in-class-simulator.json) |
+| Jerkmate: Ranked | 331083 | [331083-jerkmate-ranked.json](./331083-jerkmate-ranked.json) |
 | Jerma & Otto: The Curse of the Late Streamer | 176105 | [176105-jerma-and-otto-the-curse-of-the-late-streamer.json](./176105-jerma-and-otto-the-curse-of-the-late-streamer.json) |
 | Jerma Rancher | 329939 | [329939-jerma-rancher.json](./329939-jerma-rancher.json) |
 | Jerma's Big Adventure | 165471 | [165471-jermas-big-adventure.json](./165471-jermas-big-adventure.json) |
@@ -3262,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumphobia: Homeward Bound | 190170 | [190170-jumphobia-homeward-bound.json](./190170-jumphobia-homeward-bound.json) |
 | Jumpilla | 187693 | [187693-jumpilla.json](./187693-jumpilla.json) |
 | Jumpin' Derby | 42421 | [42421-jumpin-derby.json](./42421-jumpin-derby.json) |
+| Jumpin' Jack | 331068 | [331068-jumpin-jack.json](./331068-jumpin-jack.json) |
 | Jumpin' Jack | 69489 | [69489-jumpin-jack.json](./69489-jumpin-jack.json) |
 | Jumpin' Junk | 110258 | [110258-jumpin-junk.json](./110258-jumpin-junk.json) |
 | Jumpin' Jupiter: Prelude | 135629 | [135629-jumpin-jupiter-prelude.json](./135629-jumpin-jupiter-prelude.json) |
