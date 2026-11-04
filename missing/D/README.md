@@ -11225,6 +11225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Walking, Dog Running, and Dog Still | 135783 | [135783-dog-walking-dog-running-and-dog-still.json](./135783-dog-walking-dog-running-and-dog-still.json) |
 | Dog Wants Treat | 184719 | [184719-dog-wants-treat.json](./184719-dog-wants-treat.json) |
 | Dog Wash! | 225656 | [225656-dog-wash.json](./225656-dog-wash.json) |
+| Dog Witch | 344119 | [344119-dog-witch.json](./344119-dog-witch.json) |
 | Dog Years | 266800 | [266800-dog-years.json](./266800-dog-years.json) |
 | Dog-a-Boo | 90623 | [90623-dog-a-boo.json](./90623-dog-a-boo.json) |
 | Dog-O | 125798 | [125798-dog-o.json](./125798-dog-o.json) |
@@ -15748,6 +15749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dress Up Games for Girls & Kids: Fun Beauty Salon | 107562 | [107562-dress-up-games-for-girls-and-kids-fun-beauty-salon.json](./107562-dress-up-games-for-girls-and-kids-fun-beauty-salon.json) |
 | Dress-up | 103672 | [103672-dress-up.json](./103672-dress-up.json) |
 | Dress-Up Pups | 87895 | [87895-dress-up-pups.json](./87895-dress-up-pups.json) |
+| Dress-Up With Helene | 344113 | [344113-dress-up-with-helene.json](./344113-dress-up-with-helene.json) |
 | Dress-Up With Helene: Deluxe! | 358860 | [358860-dress-up-with-helene-deluxe.json](./358860-dress-up-with-helene-deluxe.json) |
 | Dressed to Kill Sherlock Holmes for Playdate & C64! | 265737 | [265737-dressed-to-kill-sherlock-holmes-for-playdate-and-c64.json](./265737-dressed-to-kill-sherlock-holmes-for-playdate-and-c64.json) |
 | Dressing Room | 361320 | [361320-dressing-room.json](./361320-dressing-room.json) |
@@ -15984,6 +15986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Ahead! | 88869 | [88869-drive-ahead.json](./88869-drive-ahead.json) |
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
 | Drive and Jump | 175243 | [175243-drive-and-jump.json](./175243-drive-and-jump.json) |
+| Drive and Unwind | 344107 | [344107-drive-and-unwind.json](./344107-drive-and-unwind.json) |
 | Drive Beyond Horizons | 290959 | [290959-drive-beyond-horizons.json](./290959-drive-beyond-horizons.json) |
 | Drive Buy | 113404 | [113404-drive-buy.json](./113404-drive-buy.json) |
 | Drive By Hero | 40098 | [40098-drive-by-hero.json](./40098-drive-by-hero.json) |
