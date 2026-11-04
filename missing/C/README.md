@@ -2121,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Puzzle for Toddlers and Kids | 227775 | [227775-car-puzzle-for-toddlers-and-kids.json](./227775-car-puzzle-for-toddlers-and-kids.json) |
 | Car Puzzler | 81919 | [81919-car-puzzler.json](./81919-car-puzzler.json) |
 | Car Quest | 110881 | [110881-car-quest.json](./110881-car-quest.json) |
+| Car Race | 312250 | [312250-car-race.json](./312250-car-race.json) |
 | Car Race | 346087 | [346087-car-race.json](./346087-car-race.json) |
 | Car Race Game for Toddlers and Kids | 103938 | [103938-car-race-game-for-toddlers-and-kids.json](./103938-car-race-game-for-toddlers-and-kids.json) |
 | Car Racing | 344646 | [344646-car-racing.json](./344646-car-racing.json) |
@@ -4132,6 +4133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataplexy | 186826 | [186826-cataplexy.json](./186826-cataplexy.json) |
 | Catapole | 405489 | [405489-catapole.json](./405489-catapole.json) |
 | Catapult | 180599 | [180599-catapult.json](./180599-catapult.json) |
+| Catapult | 312252 | [312252-catapult.json](./312252-catapult.json) |
 | Catapult Battle Simulator! | 122399 | [122399-catapult-battle-simulator.json](./122399-catapult-battle-simulator.json) |
 | Catapult for Hire | 63002 | [63002-catapult-for-hire.json](./63002-catapult-for-hire.json) |
 | Catapult Girls | 383912 | [383912-catapult-girls.json](./383912-catapult-girls.json) |
@@ -14411,6 +14413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmi: Forbidden Forest & Beyond | 333789 | [333789-cosmi-forbidden-forest-and-beyond.json](./333789-cosmi-forbidden-forest-and-beyond.json) |
 | Cosmiads | 41191 | [41191-cosmiads.json](./41191-cosmiads.json) |
 | CosmiBall 3D | 234124 | [234124-cosmiball-3d.json](./234124-cosmiball-3d.json) |
+| Cosmic Adventure | 312253 | [312253-cosmic-adventure.json](./312253-cosmic-adventure.json) |
 | Cosmic Alien | 40021 | [40021-cosmic-alien.json](./40021-cosmic-alien.json) |
 | Cosmic Arcade Tycoon | 333497 | [333497-cosmic-arcade-tycoon.json](./333497-cosmic-arcade-tycoon.json) |
 | Cosmic Ark | 8466 | [8466-cosmic-ark.json](./8466-cosmic-ark.json) |
@@ -17118,6 +17121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Blaim | 41765 | [41765-cross-blaim.json](./41765-cross-blaim.json) |
 | Cross Blitz | 158620 | [158620-cross-blitz.json](./158620-cross-blitz.json) |
 | Cross Board Soccer | 154278 | [154278-cross-board-soccer.json](./154278-cross-board-soccer.json) |
+| Cross Bomber | 311956 | [311956-cross-bomber.json](./311956-cross-bomber.json) |
 | Cross Brawl | 311158 | [311158-cross-brawl.json](./311158-cross-brawl.json) |
 | Cross Changer | 66896 | [66896-cross-changer.json](./66896-cross-changer.json) |
 | Cross Channel | 78650 | [78650-cross-channel.json](./78650-cross-channel.json) |
@@ -17144,6 +17148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Hermit: Welcome to the Farthest | 241236 | [241236-cross-hermit-welcome-to-the-farthest.json](./241236-cross-hermit-welcome-to-the-farthest.json) |
 | Cross High | 195036 | [195036-cross-high.json](./195036-cross-high.json) |
 | Cross Highway | 385540 | [385540-cross-highway.json](./385540-cross-highway.json) |
+| Cross Horde | 311955 | [311955-cross-horde.json](./311955-cross-horde.json) |
 | Cross Impact | 250398 | [250398-cross-impact.json](./250398-cross-impact.json) |
 | Cross Impact: Cowboy | 290793 | [290793-cross-impact-cowboy.json](./290793-cross-impact-cowboy.json) |
 | Cross Impact: V1 | 290794 | [290794-cross-impact-v1.json](./290794-cross-impact-v1.json) |
@@ -17168,6 +17173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Set | 34114 | [34114-cross-set.json](./34114-cross-set.json) |
 | Cross Set Infinity | 74497 | [74497-cross-set-infinity.json](./74497-cross-set-infinity.json) |
 | Cross Shoot | 314221 | [314221-cross-shoot.json](./314221-cross-shoot.json) |
+| Cross Snake | 311957 | [311957-cross-snake.json](./311957-cross-snake.json) |
 | Cross Soul | 132453 | [132453-cross-soul.json](./132453-cross-soul.json) |
 | Cross Tails | 252437 | [252437-cross-tails.json](./252437-cross-tails.json) |
 | Cross Tantei Monogatari: Motsureta Nanatsu no Labyrinth | 122982 | [122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json](./122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json) |
@@ -17183,6 +17189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross the Road | 230687 | [230687-cross-the-road.json](./230687-cross-the-road.json) |
 | Cross The World | 383627 | [383627-cross-the-world.json](./383627-cross-the-world.json) |
 | Cross Treasures | 67760 | [67760-cross-treasures.json](./67760-cross-treasures.json) |
+| Cross Verbix | 311958 | [311958-cross-verbix.json](./311958-cross-verbix.json) |
 | Cross Wiber: Cyber-Combat-Police | 38088 | [38088-cross-wiber-cyber-combat-police.json](./38088-cross-wiber-cyber-combat-police.json) |
 | Cross Word | 89514 | [89514-cross-word.json](./89514-cross-word.json) |
 | Cross Words | 417427 | [417427-cross-words.json](./417427-cross-words.json) |
