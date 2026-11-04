@@ -3585,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario and Donkey Kong's Lost Island | 323186 | [323186-mario-and-donkey-kongs-lost-island.json](./323186-mario-and-donkey-kongs-lost-island.json) |
 | Mario and Luigi: The Bowser Saga | 323819 | [323819-mario-and-luigi-the-bowser-saga.json](./323819-mario-and-luigi-the-bowser-saga.json) |
 | Mario and the Cowboys from Hell | 323609 | [323609-mario-and-the-cowboys-from-hell.json](./323609-mario-and-the-cowboys-from-hell.json) |
+| Mario and the Magic Trials | 313401 | [313401-mario-and-the-magic-trials.json](./313401-mario-and-the-magic-trials.json) |
 | Mario and the Mystic Purple Stars | 218088 | [218088-mario-and-the-mystic-purple-stars.json](./218088-mario-and-the-mystic-purple-stars.json) |
 | Mario and the Mystical Worlds | 314124 | [314124-mario-and-the-mystical-worlds.json](./314124-mario-and-the-mystical-worlds.json) |
 | Mario and Yoshi | 381741 | [381741-mario-and-yoshi.json](./381741-mario-and-yoshi.json) |
@@ -14133,6 +14134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Defense HD | 294682 | [294682-modern-defense-hd.json](./294682-modern-defense-hd.json) |
 | Modern Fairway 4: Spec Ops in the Rough | 130029 | [130029-modern-fairway-4-spec-ops-in-the-rough.json](./130029-modern-fairway-4-spec-ops-in-the-rough.json) |
 | Modern Fantasy: Urban Legends | 212157 | [212157-modern-fantasy-urban-legends.json](./212157-modern-fantasy-urban-legends.json) |
+| Modern Fear | 313023 | [313023-modern-fear.json](./313023-modern-fear.json) |
 | Modern FPS: Combat Sniper 3D | 106868 | [106868-modern-fps-combat-sniper-3d.json](./106868-modern-fps-combat-sniper-3d.json) |
 | Modern Game Tycoon | 189801 | [189801-modern-game-tycoon.json](./189801-modern-game-tycoon.json) |
 | Modern Girl's Refined Choices | 208937 | [208937-modern-girls-refined-choices.json](./208937-modern-girls-refined-choices.json) |
@@ -17042,6 +17044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother Simulator | 89974 | [89974-mother-simulator.json](./89974-mother-simulator.json) |
 | Mother Simulator Triplet Baby | 296747 | [296747-mother-simulator-triplet-baby.json](./296747-mother-simulator-triplet-baby.json) |
 | Mother Stone | 188951 | [188951-mother-stone.json](./188951-mother-stone.json) |
+| Mother Tensei | 313391 | [313391-mother-tensei.json](./313391-mother-tensei.json) |
 | Mother Zero | 323881 | [323881-mother-zero.json](./323881-mother-zero.json) |
 | Mother Zina | 404790 | [404790-mother-zina.json](./404790-mother-zina.json) |
 | Mother, Player | 393489 | [393489-mother-player.json](./393489-mother-player.json) |
@@ -18269,6 +18272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mu: Dark Epoch | 323723 | [323723-mu-dark-epoch.json](./323723-mu-dark-epoch.json) |
 | Muay Thai | 349887 | [349887-muay-thai.json](./349887-muay-thai.json) |
 | Muay Thai Fighting | 104369 | [104369-muay-thai-fighting.json](./104369-muay-thai-fighting.json) |
+| Mubble | 313393 | [313393-mubble.json](./313393-mubble.json) |
 | Mubosama | 322481 | [322481-mubosama.json](./322481-mubosama.json) |
 | Much Love, BJP | 59696 | [59696-much-love-bjp.json](./59696-much-love-bjp.json) |
 | Mucha Lucha! Mascaritas of the Lost Code | 64836 | [64836-mucha-lucha-mascaritas-of-the-lost-code.json](./64836-mucha-lucha-mascaritas-of-the-lost-code.json) |
@@ -18309,6 +18313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mue | 257262 | [257262-mue.json](./257262-mue.json) |
 | Mueitou: Shinsou-hen | 261203 | [261203-mueitou-shinsou-hen.json](./261203-mueitou-shinsou-hen.json) |
 | Muerte's Arena | 110099 | [110099-muertes-arena.json](./110099-muertes-arena.json) |
+| Muerto de Risa | 313383 | [313383-muerto-de-risa.json](./313383-muerto-de-risa.json) |
 | Muffin Fight | 153747 | [153747-muffin-fight.json](./153747-muffin-fight.json) |
 | Muffin Knight | 9268 | [9268-muffin-knight.json](./9268-muffin-knight.json) |
 | Muffins on Stream | 239307 | [239307-muffins-on-stream.json](./239307-muffins-on-stream.json) |
