@@ -2828,6 +2828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot Cake | 340810 | [340810-carrot-cake.json](./340810-carrot-cake.json) |
 | Carrot Catcher | 382766 | [382766-carrot-catcher.json](./382766-carrot-catcher.json) |
 | Carrot Clicker | 281536 | [281536-carrot-clicker.json](./281536-carrot-clicker.json) |
+| Carrot Commotion | 336836 | [336836-carrot-commotion.json](./336836-carrot-commotion.json) |
 | Carrot Crusade: Mimika's Reckoning | 379312 | [379312-carrot-crusade-mimikas-reckoning.json](./379312-carrot-crusade-mimikas-reckoning.json) |
 | Carrot Fantasy | 279200 | [279200-carrot-fantasy.json](./279200-carrot-fantasy.json) |
 | Carrot Girl Adventures | 165678 | [165678-carrot-girl-adventures.json](./165678-carrot-girl-adventures.json) |
@@ -5737,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Mecha | 208084 | [208084-chaos-mecha.json](./208084-chaos-mecha.json) |
 | Chaos Metaverse | 267658 | [267658-chaos-metaverse.json](./267658-chaos-metaverse.json) |
 | Chaos Method | 378750 | [378750-chaos-method.json](./378750-chaos-method.json) |
+| Chaos Moon | 336839 | [336839-chaos-moon.json](./336839-chaos-moon.json) |
 | Chaos of Destiny Remake | 346883 | [346883-chaos-of-destiny-remake.json](./346883-chaos-of-destiny-remake.json) |
 | Chaos of East | 101353 | [101353-chaos-of-east.json](./101353-chaos-of-east.json) |
 | Chaos of Fallen City | 159864 | [159864-chaos-of-fallen-city.json](./159864-chaos-of-fallen-city.json) |
@@ -12824,6 +12826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confined with Goddesses | 198020 | [198020-confined-with-goddesses.json](./198020-confined-with-goddesses.json) |
 | Confined: Leaving OKB-134 | 291489 | [291489-confined-leaving-okb-134.json](./291489-confined-leaving-okb-134.json) |
 | Confinement Community Project | 312891 | [312891-confinement-community-project.json](./312891-confinement-community-project.json) |
+| Confinio: Reality Prison | 336855 | [336855-confinio-reality-prison.json](./336855-confinio-reality-prison.json) |
 | Confinium | 184336 | [184336-confinium.json](./184336-confinium.json) |
 | Confiscator | 292235 | [292235-confiscator.json](./292235-confiscator.json) |
 | Conflagrant Rodent | 271815 | [271815-conflagrant-rodent.json](./271815-conflagrant-rodent.json) |
@@ -13066,6 +13069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of the Realms | 422488 | [422488-conquest-of-the-realms.json](./422488-conquest-of-the-realms.json) |
 | Conquest of the World | 47293 | [47293-conquest-of-the-world.json](./47293-conquest-of-the-world.json) |
 | Conquest Online | 77718 | [77718-conquest-online.json](./77718-conquest-online.json) |
+| Conquest Reforged | 336835 | [336835-conquest-reforged.json](./336835-conquest-reforged.json) |
 | Conquest Tactics: Realm of Sin | 322448 | [322448-conquest-tactics-realm-of-sin.json](./322448-conquest-tactics-realm-of-sin.json) |
 | Conquest: Frontier Wars | 11278 | [11278-conquest-frontier-wars.json](./11278-conquest-frontier-wars.json) |
 | Conquest: Global Domination | 411737 | [411737-conquest-global-domination.json](./411737-conquest-global-domination.json) |
