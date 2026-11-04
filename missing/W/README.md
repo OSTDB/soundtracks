@@ -2170,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasted Pizza | 68594 | [68594-wasted-pizza.json](./68594-wasted-pizza.json) |
 | Wasted Shot | 309407 | [309407-wasted-shot.json](./309407-wasted-shot.json) |
 | WastedRoad Reapers | 336673 | [336673-wastedroad-reapers.json](./336673-wastedroad-reapers.json) |
+| WasteFlow | 344116 | [344116-wasteflow.json](./344116-wasteflow.json) |
 | Wastehaven | 152719 | [152719-wastehaven.json](./152719-wastehaven.json) |
 | Wastelan Wars | 242513 | [242513-wastelan-wars.json](./242513-wastelan-wars.json) |
 | Wasteland | 3100 | [3100-wasteland.json](./3100-wasteland.json) |
