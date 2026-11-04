@@ -8959,6 +8959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Legends: Trapped In Mirror - Collector's Edition | 212835 | [212835-city-legends-trapped-in-mirror-collectors-edition.json](./212835-city-legends-trapped-in-mirror-collectors-edition.json) |
 | City Life 2008 | 15719 | [15719-city-life-2008.json](./15719-city-life-2008.json) |
 | City Life: World Edition | 206347 | [206347-city-life-world-edition.json](./206347-city-life-world-edition.json) |
+| City Lights Love Bites Season 0 | 305676 | [305676-city-lights-love-bites-season-0.json](./305676-city-lights-love-bites-season-0.json) |
 | City Lights, Old Flames | 359150 | [359150-city-lights-old-flames.json](./359150-city-lights-old-flames.json) |
 | City Limits | 208438 | [208438-city-limits.json](./208438-city-limits.json) |
 | City Living: Urban Stories | 106746 | [106746-city-living-urban-stories.json](./106746-city-living-urban-stories.json) |
@@ -14569,6 +14570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Osmo and the Worlds Beyond the Mackerel | 16200 | [16200-cosmic-osmo-and-the-worlds-beyond-the-mackerel.json](./16200-cosmic-osmo-and-the-worlds-beyond-the-mackerel.json) |
 | Cosmic Outpost | 303738 | [303738-cosmic-outpost.json](./303738-cosmic-outpost.json) |
 | Cosmic Paradox: Noire | 290621 | [290621-cosmic-paradox-noire.json](./290621-cosmic-paradox-noire.json) |
+| Cosmic Parkour: Infinite Journey | 305672 | [305672-cosmic-parkour-infinite-journey.json](./305672-cosmic-parkour-infinite-journey.json) |
 | Cosmic Payback | 318230 | [318230-cosmic-payback.json](./318230-cosmic-payback.json) |
 | Cosmic Pebble | 249032 | [249032-cosmic-pebble.json](./249032-cosmic-pebble.json) |
 | Cosmic Pioneer | 38986 | [38986-cosmic-pioneer.json](./38986-cosmic-pioneer.json) |
