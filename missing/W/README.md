@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Girl | 120779 | [120779-war-girl.json](./120779-war-girl.json) |
 | War Gods | 3628 | [3628-war-gods.json](./3628-war-gods.json) |
 | War Grid Hero | 367925 | [367925-war-grid-hero.json](./367925-war-grid-hero.json) |
+| War Grids | 335598 | [335598-war-grids.json](./335598-war-grids.json) |
 | War Gun: Shooting Games Online | 254271 | [254271-war-gun-shooting-games-online.json](./254271-war-gun-shooting-games-online.json) |
 | War Heli | 319996 | [319996-war-heli.json](./319996-war-heli.json) |
 | War Heroes: Invasion | 74989 | [74989-war-heroes-invasion.json](./74989-war-heroes-invasion.json) |
@@ -1502,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Tacticus | 203274 | [203274-warhammer-40-000-tacticus.json](./203274-warhammer-40-000-tacticus.json) |
 | Warhammer 40,000: Tacticus - Machines of War | 302170 | [302170-warhammer-40-000-tacticus-machines-of-war.json](./302170-warhammer-40-000-tacticus-machines-of-war.json) |
 | Warhammer 40,000: Warpforge | 203256 | [203256-warhammer-40-000-warpforge.json](./203256-warhammer-40-000-warpforge.json) |
+| Warhammer 40K Bundle | 335613 | [335613-warhammer-40k-bundle.json](./335613-warhammer-40k-bundle.json) |
 | Warhammer Age of Sigmar: Champions | 112518 | [112518-warhammer-age-of-sigmar-champions.json](./112518-warhammer-age-of-sigmar-champions.json) |
 | Warhammer Age of Sigmar: Deathmaster | 402516 | [402516-warhammer-age-of-sigmar-deathmaster.json](./402516-warhammer-age-of-sigmar-deathmaster.json) |
 | Warhammer Age of Sigmar: Realm War | 109557 | [109557-warhammer-age-of-sigmar-realm-war.json](./109557-warhammer-age-of-sigmar-realm-war.json) |
