@@ -1831,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMON Simulator | 122859 | [122859-omon-simulator.json](./122859-omon-simulator.json) |
 | OmOneko | 335651 | [335651-omoneko.json](./335651-omoneko.json) |
 | Omori | 26673 | [26673-omori.json](./26673-omori.json) |
+| Omori x Yume Nikki Crossover Fangame | 300974 | [300974-omori-x-yume-nikki-crossover-fangame.json](./300974-omori-x-yume-nikki-crossover-fangame.json) |
 | Omori: The Dreamer | 341101 | [341101-omori-the-dreamer.json](./341101-omori-the-dreamer.json) |
 | Omoshiro Action: Ii Otona-tachi no Daibouken | 222251 | [222251-omoshiro-action-ii-otona-tachi-no-daibouken.json](./222251-omoshiro-action-ii-otona-tachi-no-daibouken.json) |
 | Omoshiroi Moro | 259826 | [259826-omoshiroi-moro.json](./259826-omoshiroi-moro.json) |
@@ -2429,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night: Burlesque - Extended Edition | 283167 | [283167-one-night-burlesque-extended-edition.json](./283167-one-night-burlesque-extended-edition.json) |
 | One Night: Burlesque - GOTY Edition | 308790 | [308790-one-night-burlesque-goty-edition.json](./308790-one-night-burlesque-goty-edition.json) |
 | One Night: Burlesque - Happy Edition | 309040 | [309040-one-night-burlesque-happy-edition.json](./309040-one-night-burlesque-happy-edition.json) |
+| One Night: Burlesque - Legendary Edition | 300887 | [300887-one-night-burlesque-legendary-edition.json](./300887-one-night-burlesque-legendary-edition.json) |
 | One Night: Burlesque - Magnificent Edition | 315857 | [315857-one-night-burlesque-magnificent-edition.json](./315857-one-night-burlesque-magnificent-edition.json) |
 | One Night: Burlesque - People Pack | 324403 | [324403-one-night-burlesque-people-pack.json](./324403-one-night-burlesque-people-pack.json) |
 | One Night: Burlesque - Premium Edition | 288283 | [288283-one-night-burlesque-premium-edition.json](./288283-one-night-burlesque-premium-edition.json) |
