@@ -1869,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank it! | 30834 | [30834-tank-it.json](./30834-tank-it.json) |
 | Tank Kingdoms | 238525 | [238525-tank-kingdoms.json](./238525-tank-kingdoms.json) |
 | Tank Legend Online: League of Tanks | 237961 | [237961-tank-legend-online-league-of-tanks.json](./237961-tank-legend-online-league-of-tanks.json) |
+| Tank Man | 341798 | [341798-tank-man.json](./341798-tank-man.json) |
 | Tank Maniacs | 117710 | [117710-tank-maniacs.json](./117710-tank-maniacs.json) |
 | Tank Master | 200733 | [200733-tank-master.json](./200733-tank-master.json) |
 | Tank Mayhem | 266424 | [266424-tank-mayhem.json](./266424-tank-mayhem.json) |
@@ -6143,6 +6144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beast | 100210 | [100210-the-beast.json](./100210-the-beast.json) |
 | The Beast | 176856 | [176856-the-beast.json](./176856-the-beast.json) |
 | The Beast | 374223 | [374223-the-beast.json](./374223-the-beast.json) |
+| The Beast and the Princess | 341816 | [341816-the-beast-and-the-princess.json](./341816-the-beast-and-the-princess.json) |
 | The Beast Awoke to Eat Your Darlings | 169585 | [169585-the-beast-awoke-to-eat-your-darlings.json](./169585-the-beast-awoke-to-eat-your-darlings.json) |
 | The Beast in the Maze | 178824 | [178824-the-beast-in-the-maze.json](./178824-the-beast-in-the-maze.json) |
 | The Beast Inside | 88116 | [88116-the-beast-inside.json](./88116-the-beast-inside.json) |
@@ -9623,6 +9625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost Archives: Haunting of Shady Valley | 87065 | [87065-the-ghost-archives-haunting-of-shady-valley.json](./87065-the-ghost-archives-haunting-of-shady-valley.json) |
 | The Ghost Cage | 173273 | [173273-the-ghost-cage.json](./173273-the-ghost-cage.json) |
 | The Ghost in My Apartment | 396353 | [396353-the-ghost-in-my-apartment.json](./396353-the-ghost-in-my-apartment.json) |
+| The Ghost of Alcantra | 341813 | [341813-the-ghost-of-alcantra.json](./341813-the-ghost-of-alcantra.json) |
 | The Ghost of Joe Papp: 101 Ways to Kill Writer's Block | 116735 | [116735-the-ghost-of-joe-papp-101-ways-to-kill-writers-block.json](./116735-the-ghost-of-joe-papp-101-ways-to-kill-writers-block.json) |
 | The Ghost of Nichishima | 319700 | [319700-the-ghost-of-nichishima.json](./319700-the-ghost-of-nichishima.json) |
 | The Ghost of Paris | 187974 | [187974-the-ghost-of-paris.json](./187974-the-ghost-of-paris.json) |
@@ -15600,9 +15603,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seventh Sign: Mr.Sister | 187852 | [187852-the-seventh-sign-mr-sister.json](./187852-the-seventh-sign-mr-sister.json) |
 | The Seventh Star | 13755 | [13755-the-seventh-star.json](./13755-the-seventh-star.json) |
 | The Seventh Warrior | 176751 | [176751-the-seventh-warrior.json](./176751-the-seventh-warrior.json) |
+| The Several Journeys of Reemus Chapter 1: The Royal Journey | 341818 | [341818-the-several-journeys-of-reemus-chapter-1-the-royal-journey.json](./341818-the-several-journeys-of-reemus-chapter-1-the-royal-journey.json) |
 | The Several Journeys of Reemus Chapter 2: The All-Knowing Parasite | 110311 | [110311-the-several-journeys-of-reemus-chapter-2-the-all-knowing-parasite.json](./110311-the-several-journeys-of-reemus-chapter-2-the-all-knowing-parasite.json) |
 | The Several Journeys of Reemus Chapter 3: Know Thy Enemy | 404873 | [404873-the-several-journeys-of-reemus-chapter-3-know-thy-enemy.json](./404873-the-several-journeys-of-reemus-chapter-3-know-thy-enemy.json) |
 | The Several Journeys of Reemus Chapter 4: The Beastly Blackhole of Bureaucracy | 404876 | [404876-the-several-journeys-of-reemus-chapter-4-the-beastly-blackhole-of-bureaucracy.json](./404876-the-several-journeys-of-reemus-chapter-4-the-beastly-blackhole-of-bureaucracy.json) |
+| The Several Journeys of Reemus Prologue: Lair of the Ant Queen | 341822 | [341822-the-several-journeys-of-reemus-prologue-lair-of-the-ant-queen.json](./341822-the-several-journeys-of-reemus-prologue-lair-of-the-ant-queen.json) |
 | The Severed Gods | 370921 | [370921-the-severed-gods.json](./370921-the-severed-gods.json) |
 | The Sewer Goblet: The Wu-Tang Clan and the Wu-Tang Baby | 93504 | [93504-the-sewer-goblet-the-wu-tang-clan-and-the-wu-tang-baby.json](./93504-the-sewer-goblet-the-wu-tang-clan-and-the-wu-tang-baby.json) |
 | The Sewer Job | 240669 | [240669-the-sewer-job.json](./240669-the-sewer-job.json) |
