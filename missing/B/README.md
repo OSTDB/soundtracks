@@ -933,7 +933,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8908,6 +8907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackbox by TRT World | 90832 | [90832-blackbox-by-trt-world.json](./90832-blackbox-by-trt-world.json) |
 | Blackbox: Infamous Puzzles | 101543 | [101543-blackbox-infamous-puzzles.json](./101543-blackbox-infamous-puzzles.json) |
 | BlackChain | 155874 | [155874-blackchain.json](./155874-blackchain.json) |
+| BlackDog | 347975 | [347975-blackdog.json](./347975-blackdog.json) |
 | Blackdoor | 410588 | [410588-blackdoor.json](./410588-blackdoor.json) |
 | Blackened | 270699 | [270699-blackened.json](./270699-blackened.json) |
 | BlackFaith | 100572 | [100572-blackfaith.json](./100572-blackfaith.json) |
@@ -9218,6 +9218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades and Bullets | 277279 | [277279-blades-and-bullets.json](./277279-blades-and-bullets.json) |
 | Blades and Rings | 82122 | [82122-blades-and-rings.json](./82122-blades-and-rings.json) |
 | Blades Away | 242463 | [242463-blades-away.json](./242463-blades-away.json) |
+| Blades for Hire | 347977 | [347977-blades-for-hire.json](./347977-blades-for-hire.json) |
 | Blades of Avernum | 73536 | [73536-blades-of-avernum.json](./73536-blades-of-avernum.json) |
 | Blades of Brim | 28822 | [28822-blades-of-brim.json](./28822-blades-of-brim.json) |
 | Blades of Crossed Hearts | 396313 | [396313-blades-of-crossed-hearts.json](./396313-blades-of-crossed-hearts.json) |
@@ -15281,6 +15282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Ecchi Gallery | 280748 | [280748-broken-ecchi-gallery.json](./280748-broken-ecchi-gallery.json) |
 | Broken Edge | 204335 | [204335-broken-edge.json](./204335-broken-edge.json) |
 | Broken Egg | 183712 | [183712-broken-egg.json](./183712-broken-egg.json) |
+| Broken Epoch | 347972 | [347972-broken-epoch.json](./347972-broken-epoch.json) |
 | Broken Fields: Stay or Run? | 420676 | [420676-broken-fields-stay-or-run.json](./420676-broken-fields-stay-or-run.json) |
 | Broken Fifth | 279260 | [279260-broken-fifth.json](./279260-broken-fifth.json) |
 | Broken God Awakening | 216791 | [216791-broken-god-awakening.json](./216791-broken-god-awakening.json) |
@@ -16104,6 +16106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Budget Backrooms | 266290 | [266290-budget-backrooms.json](./266290-budget-backrooms.json) |
 | Budget Cuts | 18970 | [18970-budget-cuts.json](./18970-budget-cuts.json) |
 | Budget Cuts 2: Mission Insolvency | 119340 | [119340-budget-cuts-2-mission-insolvency.json](./119340-budget-cuts-2-mission-insolvency.json) |
+| Budget Guardian: Health Realm | 347985 | [347985-budget-guardian-health-realm.json](./347985-budget-guardian-health-realm.json) |
 | Budget Rate Stigmata | 362855 | [362855-budget-rate-stigmata.json](./362855-budget-rate-stigmata.json) |
 | Budget Renovation Simulator | 407482 | [407482-budget-renovation-simulator.json](./407482-budget-renovation-simulator.json) |
 | Budgie Genetics Simulator | 219731 | [219731-budgie-genetics-simulator.json](./219731-budgie-genetics-simulator.json) |
@@ -16711,6 +16714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumper Ball Io | 220811 | [220811-bumper-ball-io.json](./220811-bumper-ball-io.json) |
 | Bumper Bash | 40630 | [40630-bumper-bash.json](./40630-bumper-bash.json) |
 | Bumper Battle | 107575 | [107575-bumper-battle.json](./107575-bumper-battle.json) |
+| Bumper Blitz TD | 347987 | [347987-bumper-blitz-td.json](./347987-bumper-blitz-td.json) |
 | Bumper Boat Kids Tilt | 197705 | [197705-bumper-boat-kids-tilt.json](./197705-bumper-boat-kids-tilt.json) |
 | Bumper Boss | 134975 | [134975-bumper-boss.json](./134975-bumper-boss.json) |
 | Bumper Bout | 408105 | [408105-bumper-bout.json](./408105-bumper-bout.json) |
@@ -17052,6 +17056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burgle Supply Company | 372804 | [372804-burgle-supply-company.json](./372804-burgle-supply-company.json) |
 | Burial Ground | 268602 | [268602-burial-ground.json](./268602-burial-ground.json) |
 | Burial Ground | 375554 | [375554-burial-ground.json](./375554-burial-ground.json) |
+| Burial of Shortcake | 348131 | [348131-burial-of-shortcake.json](./348131-burial-of-shortcake.json) |
 | Burial Stone | 196988 | [196988-burial-stone.json](./196988-burial-stone.json) |
 | BuriBoard | 173256 | [173256-buriboard.json](./173256-buriboard.json) |
 | Buried | 193083 | [193083-buried.json](./193083-buried.json) |
