@@ -3248,6 +3248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros. Deluxe | 107234 | [107234-new-super-mario-bros-deluxe.json](./107234-new-super-mario-bros-deluxe.json) |
 | New Super Mario Bros. DS Co-Op | 294785 | [294785-new-super-mario-bros-ds-co-op.json](./294785-new-super-mario-bros-ds-co-op.json) |
 | New Super Mario Bros. F | 255602 | [255602-new-super-mario-bros-f.json](./255602-new-super-mario-bros-f.json) |
+| New Super Mario Bros. Legacy | 313387 | [313387-new-super-mario-bros-legacy.json](./313387-new-super-mario-bros-legacy.json) |
 | New Super Mario Bros. Mii | 175961 | [175961-new-super-mario-bros-mii.json](./175961-new-super-mario-bros-mii.json) |
 | New Super Mario Bros. The Missing Italian | 394344 | [394344-new-super-mario-bros-the-missing-italian.json](./394344-new-super-mario-bros-the-missing-italian.json) |
 | New Super Mario Bros. U | 2171 | [2171-new-super-mario-bros-u.json](./2171-new-super-mario-bros-u.json) |
@@ -3256,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros. U Deluxe | 109457 | [109457-new-super-mario-bros-u-deluxe.json](./109457-new-super-mario-bros-u-deluxe.json) |
 | New Super Mario Bros. U Deluxe: Spot the Difference | 246453 | [246453-new-super-mario-bros-u-deluxe-spot-the-difference.json](./246453-new-super-mario-bros-u-deluxe-spot-the-difference.json) |
 | New Super Mario Bros. U: Insane Edition | 313426 | [313426-new-super-mario-bros-u-insane-edition.json](./313426-new-super-mario-bros-u-insane-edition.json) |
+| New Super Mario Bros. U: Return to Pumpkin Boneyard | 313389 | [313389-new-super-mario-bros-u-return-to-pumpkin-boneyard.json](./313389-new-super-mario-bros-u-return-to-pumpkin-boneyard.json) |
 | New Super Mario Bros. Versus: Cubby's Character Mod | 243978 | [243978-new-super-mario-bros-versus-cubbys-character-mod.json](./243978-new-super-mario-bros-versus-cubbys-character-mod.json) |
 | New Super Mario Bros. Versus: Doodler's Mayhem | 306633 | [306633-new-super-mario-bros-versus-doodlers-mayhem.json](./306633-new-super-mario-bros-versus-doodlers-mayhem.json) |
 | New Super Mario Bros. Versus: Steve's Map Pack | 243976 | [243976-new-super-mario-bros-versus-steves-map-pack.json](./243976-new-super-mario-bros-versus-steves-map-pack.json) |
@@ -5042,6 +5044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Remix 16 | 59986 | [59986-ninja-remix-16.json](./59986-ninja-remix-16.json) |
 | Ninja Resurrection: A tale of Kuro | 276975 | [276975-ninja-resurrection-a-tale-of-kuro.json](./276975-ninja-resurrection-a-tale-of-kuro.json) |
 | Ninja Revenger | 345993 | [345993-ninja-revenger.json](./345993-ninja-revenger.json) |
+| Ninja Rift | 313024 | [313024-ninja-rift.json](./313024-ninja-rift.json) |
 | Ninja Rinseout | 323358 | [323358-ninja-rinseout.json](./323358-ninja-rinseout.json) |
 | Ninja Roquinexu | 118224 | [118224-ninja-roquinexu.json](./118224-ninja-roquinexu.json) |
 | Ninja Royale: Ninja Action RPG | 339877 | [339877-ninja-royale-ninja-action-rpg.json](./339877-ninja-royale-ninja-action-rpg.json) |
@@ -5655,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No One Lives | 174675 | [174675-no-one-lives.json](./174675-no-one-lives.json) |
 | No One Lives Forever 2: A Spy in H.A.R.M.'s Way | 820 | [820-no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way.json](./820-no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way.json) |
 | No One Lives in Heaven: Digital Deluxe Edition | 167182 | [167182-no-one-lives-in-heaven-digital-deluxe-edition.json](./167182-no-one-lives-in-heaven-digital-deluxe-edition.json) |
+| No One Lives Under the Lighthouse: Director's Cut | 313362 | [313362-no-one-lives-under-the-lighthouse-directors-cut.json](./313362-no-one-lives-under-the-lighthouse-directors-cut.json) |
 | No One Returns | 403398 | [403398-no-one-returns.json](./403398-no-one-returns.json) |
 | No One Survived: Military clothing | 337766 | [337766-no-one-survived-military-clothing.json](./337766-no-one-survived-military-clothing.json) |
 | No One Will Miss Me | 419932 | [419932-no-one-will-miss-me.json](./419932-no-one-will-miss-me.json) |
