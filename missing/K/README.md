@@ -3736,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby: Revenge of Dream Land | 196707 | [196707-kirby-revenge-of-dream-land.json](./196707-kirby-revenge-of-dream-land.json) |
 | Kirby: Soft & Wet | 369145 | [369145-kirby-soft-and-wet.json](./369145-kirby-soft-and-wet.json) |
 | Kirby: Squeak Squad | 3723 | [3723-kirby-squeak-squad.json](./3723-kirby-squeak-squad.json) |
+| Kirby: Sweet Mocha | 313394 | [313394-kirby-sweet-mocha.json](./313394-kirby-sweet-mocha.json) |
 | Kirby: The Dreamland Effect | 323921 | [323921-kirby-the-dreamland-effect.json](./323921-kirby-the-dreamland-effect.json) |
 | Kirby: Wacky Episode | 315520 | [315520-kirby-wacky-episode.json](./315520-kirby-wacky-episode.json) |
 | Kirby's Adventure | 3717 | [3717-kirbys-adventure.json](./3717-kirbys-adventure.json) |
@@ -5228,6 +5229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kopernicus: Extraction | 403556 | [403556-kopernicus-extraction.json](./403556-kopernicus-extraction.json) |
 | KopiCat | 364237 | [364237-kopicat.json](./364237-kopicat.json) |
 | Koppotate's Rescue Mission | 294581 | [294581-koppotates-rescue-mission.json](./294581-koppotates-rescue-mission.json) |
+| Koppotate's Rescue Mission 2: The Path to Eradication | 313367 | [313367-koppotates-rescue-mission-2-the-path-to-eradication.json](./313367-koppotates-rescue-mission-2-the-path-to-eradication.json) |
 | Koppun-50 | 310214 | [310214-koppun-50.json](./310214-koppun-50.json) |
 | Kops | 71036 | [71036-kops.json](./71036-kops.json) |
 | Kor | 155970 | [155970-kor.json](./155970-kor.json) |
