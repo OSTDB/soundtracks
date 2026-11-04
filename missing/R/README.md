@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbids Travel in Time 3D | 47641 | [47641-rabbids-travel-in-time-3d.json](./47641-rabbids-travel-in-time-3d.json) |
 | Rabbids: Legends of the Multiverse | 300343 | [300343-rabbids-legends-of-the-multiverse.json](./300343-rabbids-legends-of-the-multiverse.json) |
 | Rabbids: Party of Legends | 201254 | [201254-rabbids-party-of-legends.json](./201254-rabbids-party-of-legends.json) |
+| Rabbiman Adventures | 318339 | [318339-rabbiman-adventures.json](./318339-rabbiman-adventures.json) |
 | RabbiruN | 93692 | [93692-rabbirun.json](./93692-rabbirun.json) |
 | Rabbit | 46850 | [46850-rabbit.json](./46850-rabbit.json) |
 | Rabbit & Dominoes | 192874 | [192874-rabbit-and-dominoes.json](./192874-rabbit-and-dominoes.json) |
@@ -4743,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relumine | 174277 | [174277-relumine.json](./174277-relumine.json) |
 | Relyctum | 261439 | [261439-relyctum.json](./261439-relyctum.json) |
 | REM Hemispheres | 408701 | [408701-rem-hemispheres.json](./408701-rem-hemispheres.json) |
+| Rem Psycho | 318334 | [318334-rem-psycho.json](./318334-rem-psycho.json) |
 | Rem Survival | 102077 | [102077-rem-survival.json](./102077-rem-survival.json) |
 | REM-9: The Yume Nikki Randomizer | 229704 | [229704-rem-9-the-yume-nikki-randomizer.json](./229704-rem-9-the-yume-nikki-randomizer.json) |
 | Rem: The Dreamer | 368653 | [368653-rem-the-dreamer.json](./368653-rem-the-dreamer.json) |
@@ -6054,6 +6056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return Alive | 255803 | [255803-return-alive.json](./255803-return-alive.json) |
 | Return Fire | 4339 | [4339-return-fire.json](./4339-return-fire.json) |
 | Return Fire: Maps O' Death | 4267 | [4267-return-fire-maps-o-death.json](./4267-return-fire-maps-o-death.json) |
+| Return Journey | 318340 | [318340-return-journey.json](./318340-return-journey.json) |
 | Return Machine.Love() | 406290 | [406290-return-machine-love.json](./406290-return-machine-love.json) |
 | Return Null: Episode 2 | 24726 | [24726-return-null-episode-2.json](./24726-return-null-episode-2.json) |
 | Return of Die Vie Ess | 71162 | [71162-return-of-die-vie-ess.json](./71162-return-of-die-vie-ess.json) |
@@ -8044,6 +8047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Legends | 174206 | [174206-river-legends.json](./174206-river-legends.json) |
 | River Legends: A Fly Fishing Adventure | 120706 | [120706-river-legends-a-fly-fishing-adventure.json](./120706-river-legends-a-fly-fishing-adventure.json) |
 | River Master | 158943 | [158943-river-master.json](./158943-river-master.json) |
+| River of Rage | 318341 | [318341-river-of-rage.json](./318341-river-of-rage.json) |
 | River of Time Yarn | 337390 | [337390-river-of-time-yarn.json](./337390-river-of-time-yarn.json) |
 | River Patrol | 18478 | [18478-river-patrol.json](./18478-river-patrol.json) |
 | River Pirates | 264499 | [264499-river-pirates.json](./264499-river-pirates.json) |
@@ -9828,6 +9832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Star ACE | 91334 | [91334-rogue-star-ace.json](./91334-rogue-star-ace.json) |
 | Rogue State | 20358 | [20358-rogue-state.json](./20358-rogue-state.json) |
 | Rogue State Revolution | 122070 | [122070-rogue-state-revolution.json](./122070-rogue-state-revolution.json) |
+| Rogue Station Defense | 318347 | [318347-rogue-station-defense.json](./318347-rogue-station-defense.json) |
 | Rogue Stormers | 17374 | [17374-rogue-stormers.json](./17374-rogue-stormers.json) |
 | Rogue Suits | 423228 | [423228-rogue-suits.json](./423228-rogue-suits.json) |
 | Rogue Sundown | 396638 | [396638-rogue-sundown.json](./396638-rogue-sundown.json) |
@@ -11142,6 +11147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Great Gangs | 354199 | [354199-roxy-raccoons-pinball-panic-great-gangs.json](./354199-roxy-raccoons-pinball-panic-great-gangs.json) |
 | Roxy Raccoon's Pinball Panic: Joyous Japan | 226931 | [226931-roxy-raccoons-pinball-panic-joyous-japan.json](./226931-roxy-raccoons-pinball-panic-joyous-japan.json) |
 | Roxy Raccoon's Pinball Panic: Makin' Music | 354196 | [354196-roxy-raccoons-pinball-panic-makin-music.json](./354196-roxy-raccoons-pinball-panic-makin-music.json) |
+| Roxy Raccoon's Pinball Panic: Manic Miners | 318353 | [318353-roxy-raccoons-pinball-panic-manic-miners.json](./318353-roxy-raccoons-pinball-panic-manic-miners.json) |
 | Roxy Raccoon's Pinball Panic: Medieval Mayhem | 259594 | [259594-roxy-raccoons-pinball-panic-medieval-mayhem.json](./259594-roxy-raccoons-pinball-panic-medieval-mayhem.json) |
 | Roxy Raccoon's Pinball Panic: Paradise Parks | 311787 | [311787-roxy-raccoons-pinball-panic-paradise-parks.json](./311787-roxy-raccoons-pinball-panic-paradise-parks.json) |
 | Roxy Raccoon's Pinball Panic: Prehistoric Paradise | 289538 | [289538-roxy-raccoons-pinball-panic-prehistoric-paradise.json](./289538-roxy-raccoons-pinball-panic-prehistoric-paradise.json) |
