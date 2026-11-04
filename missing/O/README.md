@@ -2568,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Shot X | 361735 | [361735-one-shot-x.json](./361735-one-shot-x.json) |
 | One show only | 25620 | [25620-one-show-only.json](./25620-one-show-only.json) |
 | One Single Life | 92315 | [92315-one-single-life.json](./92315-one-single-life.json) |
+| One Skill | 318920 | [318920-one-skill.json](./318920-one-skill.json) |
 | One Slime Army | 307597 | [307597-one-slime-army.json](./307597-one-slime-army.json) |
 | One Small Favor | 163859 | [163859-one-small-favor.json](./163859-one-small-favor.json) |
 | One Small Favor | 176929 | [176929-one-small-favor.json](./176929-one-small-favor.json) |
