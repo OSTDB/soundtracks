@@ -963,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GalaxySpace VR | 149553 | [149553-galaxyspace-vr.json](./149553-galaxyspace-vr.json) |
 | Galaxystrife | 177018 | [177018-galaxystrife.json](./177018-galaxystrife.json) |
 | GalaxyWak | 282103 | [282103-galaxywak.json](./282103-galaxywak.json) |
+| Galaxywars | 334423 | [334423-galaxywars.json](./334423-galaxywars.json) |
 | Galaxyz Neo | 385777 | [385777-galaxyz-neo.json](./385777-galaxyz-neo.json) |
 | Galazer Deluxe | 358965 | [358965-galazer-deluxe.json](./358965-galazer-deluxe.json) |
 | Galbia Tales | 177380 | [177380-galbia-tales.json](./177380-galbia-tales.json) |
@@ -3166,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Duel | 77709 | [77709-geometry-duel.json](./77709-geometry-duel.json) |
 | Geometry Hero | 126612 | [126612-geometry-hero.json](./126612-geometry-hero.json) |
 | Geometry League | 238986 | [238986-geometry-league.json](./238986-geometry-league.json) |
+| Geometry Madness | 334429 | [334429-geometry-madness.json](./334429-geometry-madness.json) |
 | Geometry Race | 252572 | [252572-geometry-race.json](./252572-geometry-race.json) |
 | Geometry Rocket | 150534 | [150534-geometry-rocket.json](./150534-geometry-rocket.json) |
 | Geometry Runner Online | 88183 | [88183-geometry-runner-online.json](./88183-geometry-runner-online.json) |
@@ -5212,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomophobia | 381068 | [381068-gnomophobia.json](./381068-gnomophobia.json) |
 | Gnomoria | 9627 | [9627-gnomoria.json](./9627-gnomoria.json) |
 | Gnomz | 84506 | [84506-gnomz.json](./84506-gnomz.json) |
+| GNOP | 334446 | [334446-gnop.json](./334446-gnop.json) |
 | Gnop! | 37473 | [37473-gnop.json](./37473-gnop.json) |
 | Gnorts vs. The Greylenoids | 381985 | [381985-gnorts-vs-the-greylenoids.json](./381985-gnorts-vs-the-greylenoids.json) |
 | Gnosis | 201292 | [201292-gnosis.json](./201292-gnosis.json) |
