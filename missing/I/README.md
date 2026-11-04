@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Bunnies 4 | 306437 | [306437-i-commissioned-some-bunnies-4.json](./306437-i-commissioned-some-bunnies-4.json) |
 | I Commissioned Some Bunnies 5 | 306438 | [306438-i-commissioned-some-bunnies-5.json](./306438-i-commissioned-some-bunnies-5.json) |
 | I Commissioned Some Bunnies 6 | 301228 | [301228-i-commissioned-some-bunnies-6.json](./301228-i-commissioned-some-bunnies-6.json) |
+| I Commissioned Some Bunnies 8 | 304411 | [304411-i-commissioned-some-bunnies-8.json](./304411-i-commissioned-some-bunnies-8.json) |
 | I Commissioned Some Butterflies | 270127 | [270127-i-commissioned-some-butterflies.json](./270127-i-commissioned-some-butterflies.json) |
 | I Commissioned Some Butterflies 2 | 302332 | [302332-i-commissioned-some-butterflies-2.json](./302332-i-commissioned-some-butterflies-2.json) |
 | I Commissioned Some Butterflies 4 | 315349 | [315349-i-commissioned-some-butterflies-4.json](./315349-i-commissioned-some-butterflies-4.json) |
@@ -1974,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikenie | 31798 | [31798-ikenie.json](./31798-ikenie.json) |
 | Ikenie Reijou | 77738 | [77738-ikenie-reijou.json](./77738-ikenie-reijou.json) |
 | Iketsuki | 176130 | [176130-iketsuki.json](./176130-iketsuki.json) |
+| Ikev | 304494 | [304494-ikev.json](./304494-ikev.json) |
 | Ikibago | 85185 | [85185-ikibago.json](./85185-ikibago.json) |
 | Ikimono High: The Visual Novel | 180510 | [180510-ikimono-high-the-visual-novel.json](./180510-ikimono-high-the-visual-novel.json) |
 | Ikinari Happy Bell | 77757 | [77757-ikinari-happy-bell.json](./77757-ikinari-happy-bell.json) |
@@ -5223,6 +5225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion of Alien X: Earth in Crisis | 122723 | [122723-invasion-of-alien-x-earth-in-crisis.json](./122723-invasion-of-alien-x-earth-in-crisis.json) |
 | Invasion of Space | 294681 | [294681-invasion-of-space.json](./294681-invasion-of-space.json) |
 | Invasion of the Alien Blobs! | 85624 | [85624-invasion-of-the-alien-blobs.json](./85624-invasion-of-the-alien-blobs.json) |
+| Invasion of the Geminorons | 304476 | [304476-invasion-of-the-geminorons.json](./304476-invasion-of-the-geminorons.json) |
 | Invasion of The Halloween Fiends | 318436 | [318436-invasion-of-the-halloween-fiends.json](./318436-invasion-of-the-halloween-fiends.json) |
 | Invasion of the Hooks | 245704 | [245704-invasion-of-the-hooks.json](./245704-invasion-of-the-hooks.json) |
 | Invasion of the Mushroom Men of Planet Y! | 311512 | [311512-invasion-of-the-mushroom-men-of-planet-y.json](./311512-invasion-of-the-mushroom-men-of-planet-y.json) |
