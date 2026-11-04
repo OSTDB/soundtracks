@@ -18695,11 +18695,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Essentials DLC Bundle | 227464 | [227464-thehunter-call-of-the-wild-essentials-dlc-bundle.json](./227464-thehunter-call-of-the-wild-essentials-dlc-bundle.json) |
 | TheHunter: Call of the Wild - Facing the Wild 1 | 206822 | [206822-thehunter-call-of-the-wild-facing-the-wild-1.json](./206822-thehunter-call-of-the-wild-facing-the-wild-1.json) |
 | TheHunter: Call of the Wild - Free Species: European Rabbit | 206796 | [206796-thehunter-call-of-the-wild-free-species-european-rabbit.json](./206796-thehunter-call-of-the-wild-free-species-european-rabbit.json) |
+| TheHunter: Call of the Wild - German Shorthaired Pointer | 343573 | [343573-thehunter-call-of-the-wild-german-shorthaired-pointer.json](./343573-thehunter-call-of-the-wild-german-shorthaired-pointer.json) |
 | TheHunter: Call of the Wild - Greenhorn Bundle | 227454 | [227454-thehunter-call-of-the-wild-greenhorn-bundle.json](./227454-thehunter-call-of-the-wild-greenhorn-bundle.json) |
 | TheHunter: Call of the Wild - High Caliber Weapon Pack | 290767 | [290767-thehunter-call-of-the-wild-high-caliber-weapon-pack.json](./290767-thehunter-call-of-the-wild-high-caliber-weapon-pack.json) |
 | TheHunter: Call of the Wild - High-Tech Hunting Pack | 206799 | [206799-thehunter-call-of-the-wild-high-tech-hunting-pack.json](./206799-thehunter-call-of-the-wild-high-tech-hunting-pack.json) |
 | TheHunter: Call of the Wild - Hirschfelden Veteran Cosmetic Pack | 266392 | [266392-thehunter-call-of-the-wild-hirschfelden-veteran-cosmetic-pack.json](./266392-thehunter-call-of-the-wild-hirschfelden-veteran-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Hunter Power Pack | 266390 | [266390-thehunter-call-of-the-wild-hunter-power-pack.json](./266390-thehunter-call-of-the-wild-hunter-power-pack.json) |
+| TheHunter: Call of the Wild - Hunters' Choice: Bolt Action Rifle Pack | 343574 | [343574-thehunter-call-of-the-wild-hunters-choice-bolt-action-rifle-pack.json](./343574-thehunter-call-of-the-wild-hunters-choice-bolt-action-rifle-pack.json) |
 | TheHunter: Call of the Wild - Labrador Retriever | 276597 | [276597-thehunter-call-of-the-wild-labrador-retriever.json](./276597-thehunter-call-of-the-wild-labrador-retriever.json) |
 | TheHunter: Call of the Wild - Master Hunter Bundle | 227453 | [227453-thehunter-call-of-the-wild-master-hunter-bundle.json](./227453-thehunter-call-of-the-wild-master-hunter-bundle.json) |
 | TheHunter: Call of the Wild - Medved-Taiga | 154341 | [154341-thehunter-call-of-the-wild-medved-taiga.json](./154341-thehunter-call-of-the-wild-medved-taiga.json) |
@@ -18721,6 +18723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Reserve Cosmetics Bundle 1 | 271466 | [271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json](./271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json) |
 | TheHunter: Call of the Wild - Revontuli Coast | 205854 | [205854-thehunter-call-of-the-wild-revontuli-coast.json](./205854-thehunter-call-of-the-wild-revontuli-coast.json) |
 | TheHunter: Call of the Wild - Revontuli Coast Cosmetic Pack | 280371 | [280371-thehunter-call-of-the-wild-revontuli-coast-cosmetic-pack.json](./280371-thehunter-call-of-the-wild-revontuli-coast-cosmetic-pack.json) |
+| TheHunter: Call of the Wild - Salzwiesen Park | 343575 | [343575-thehunter-call-of-the-wild-salzwiesen-park.json](./343575-thehunter-call-of-the-wild-salzwiesen-park.json) |
 | TheHunter: Call of the Wild - Saseka Safari Trophy Lodge | 206798 | [206798-thehunter-call-of-the-wild-saseka-safari-trophy-lodge.json](./206798-thehunter-call-of-the-wild-saseka-safari-trophy-lodge.json) |
 | TheHunter: Call of the Wild - Scopes and Crosshairs Pack | 331918 | [331918-thehunter-call-of-the-wild-scopes-and-crosshairs-pack.json](./331918-thehunter-call-of-the-wild-scopes-and-crosshairs-pack.json) |
 | TheHunter: Call of the Wild - Seasoned Hunter Bundle | 227452 | [227452-thehunter-call-of-the-wild-seasoned-hunter-bundle.json](./227452-thehunter-call-of-the-wild-seasoned-hunter-bundle.json) |
@@ -29171,6 +29174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treeverse | 336064 | [336064-treeverse.json](./336064-treeverse.json) |
 | Treffen | 172937 | [172937-treffen.json](./172937-treffen.json) |
 | Treflix: All for Kids | 366777 | [366777-treflix-all-for-kids.json](./366777-treflix-all-for-kids.json) |
+| Treflix: Comic Book Fear | 343560 | [343560-treflix-comic-book-fear.json](./343560-treflix-comic-book-fear.json) |
 | Treflix: Comic Book Shame | 366789 | [366789-treflix-comic-book-shame.json](./366789-treflix-comic-book-shame.json) |
 | Treflix: Mini Games | 329433 | [329433-treflix-mini-games.json](./329433-treflix-mini-games.json) |
 | Treis Zoes | 129080 | [129080-treis-zoes.json](./129080-treis-zoes.json) |
