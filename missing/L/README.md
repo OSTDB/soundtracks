@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L'Empereur | 85737 | [85737-lempereur.json](./85737-lempereur.json) |
 | L'Empire Banger V1 | 412766 | [412766-lempire-banger-v1.json](./412766-lempire-banger-v1.json) |
 | L'employe parfait | 180943 | [180943-lemploye-parfait.json](./180943-lemploye-parfait.json) |
+| L'entraînement des Guerriers | 322467 | [322467-lentrainement-des-guerriers.json](./322467-lentrainement-des-guerriers.json) |
 | L'Eredità | 317207 | [317207-leredita.json](./317207-leredita.json) |
 | L'esprit du loup | 144074 | [144074-lesprit-du-loup.json](./144074-lesprit-du-loup.json) |
 | L'Histoire de France Pour Les Nuls | 269633 | [269633-lhistoire-de-france-pour-les-nuls.json](./269633-lhistoire-de-france-pour-les-nuls.json) |
