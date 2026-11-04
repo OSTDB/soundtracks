@@ -5314,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunter x Treme Focal Plane | 169420 | [169420-deer-hunter-x-treme-focal-plane.json](./169420-deer-hunter-x-treme-focal-plane.json) |
 | Deer Hunter: African Safari | 64372 | [64372-deer-hunter-african-safari.json](./64372-deer-hunter-african-safari.json) |
 | Deer Hunting 2018 | 107058 | [107058-deer-hunting-2018.json](./107058-deer-hunting-2018.json) |
+| Deer Hunting Camp | 339048 | [339048-deer-hunting-camp.json](./339048-deer-hunting-camp.json) |
 | Deer Hunting King | 85076 | [85076-deer-hunting-king.json](./85076-deer-hunting-king.json) |
 | Deer in the Headlights | 302177 | [302177-deer-in-the-headlights.json](./302177-deer-in-the-headlights.json) |
 | Deer Journey | 207613 | [207613-deer-journey.json](./207613-deer-journey.json) |
@@ -6928,6 +6929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Strike: Return to the Gulf | 81959 | [81959-desert-strike-return-to-the-gulf.json](./81959-desert-strike-return-to-the-gulf.json) |
 | Desert Survival | 104347 | [104347-desert-survival.json](./104347-desert-survival.json) |
 | Desert Tank | 125802 | [125802-desert-tank.json](./125802-desert-tank.json) |
+| Desert Tank Chaos | 339051 | [339051-desert-tank-chaos.json](./339051-desert-tank-chaos.json) |
 | Desert Things | 203954 | [203954-desert-things.json](./203954-desert-things.json) |
 | Desert Thunder | 358380 | [358380-desert-thunder.json](./358380-desert-thunder.json) |
 | Desert Thunder | 9820 | [9820-desert-thunder.json](./9820-desert-thunder.json) |
@@ -10972,6 +10974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Plague | 416823 | [416823-doctor-plague.json](./416823-doctor-plague.json) |
 | Doctor Robotnik's Creature Capture | 45700 | [45700-doctor-robotniks-creature-capture.json](./45700-doctor-robotniks-creature-capture.json) |
 | Doctor Root | 318980 | [318980-doctor-root.json](./318980-doctor-root.json) |
+| Doctor Simulator | 339050 | [339050-doctor-simulator.json](./339050-doctor-simulator.json) |
 | Doctor Surgeon: Hospital games | 95850 | [95850-doctor-surgeon-hospital-games.json](./95850-doctor-surgeon-hospital-games.json) |
 | Doctor Tsunami | 111708 | [111708-doctor-tsunami.json](./111708-doctor-tsunami.json) |
 | Doctor Viscera | 348691 | [348691-doctor-viscera.json](./348691-doctor-viscera.json) |
