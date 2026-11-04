@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie State | 299371 | [299371-zombie-state.json](./299371-zombie-state.json) |
 | Zombie Strike | 152796 | [152796-zombie-strike.json](./152796-zombie-strike.json) |
 | Zombie Strike Force | 335951 | [335951-zombie-strike-force.json](./335951-zombie-strike-force.json) |
+| Zombie Strippers Stole My Heart Then Ate My Brains | 302636 | [302636-zombie-strippers-stole-my-heart-then-ate-my-brains.json](./302636-zombie-strippers-stole-my-heart-then-ate-my-brains.json) |
 | Zombie Survival | 212487 | [212487-zombie-survival.json](./212487-zombie-survival.json) |
 | Zombie Survival | 231077 | [231077-zombie-survival.json](./231077-zombie-survival.json) |
 | Zombie Survival | 306756 | [306756-zombie-survival.json](./306756-zombie-survival.json) |
