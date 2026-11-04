@@ -5575,9 +5575,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Engage Bundle | 278003 | [278003-fire-emblem-engage-bundle.json](./278003-fire-emblem-engage-bundle.json) |
 | Fire Emblem Engage: Fell Xenologue | 246450 | [246450-fire-emblem-engage-fell-xenologue.json](./246450-fire-emblem-engage-fell-xenologue.json) |
 | Fire Emblem Fates: Anna on the Run | 229859 | [229859-fire-emblem-fates-anna-on-the-run.json](./229859-fire-emblem-fates-anna-on-the-run.json) |
+| Fire Emblem Fates: Before Awakening | 345241 | [345241-fire-emblem-fates-before-awakening.json](./345241-fire-emblem-fates-before-awakening.json) |
 | Fire Emblem Fates: Birthright | 24220 | [24220-fire-emblem-fates-birthright.json](./24220-fire-emblem-fates-birthright.json) |
 | Fire Emblem Fates: Conquest | 21863 | [21863-fire-emblem-fates-conquest.json](./21863-fire-emblem-fates-conquest.json) |
 | Fire Emblem Fates: Revelation | 18038 | [18038-fire-emblem-fates-revelation.json](./18038-fire-emblem-fates-revelation.json) |
+| Fire Emblem Fates: Revelation - Heirs of Fate | 345240 | [345240-fire-emblem-fates-revelation-heirs-of-fate.json](./345240-fire-emblem-fates-revelation-heirs-of-fate.json) |
 | Fire Emblem Fates: Shadow Dragon | 287485 | [287485-fire-emblem-fates-shadow-dragon.json](./287485-fire-emblem-fates-shadow-dragon.json) |
 | Fire Emblem Fates: Silent Waves | 403051 | [403051-fire-emblem-fates-silent-waves.json](./403051-fire-emblem-fates-silent-waves.json) |
 | Fire Emblem Fates: Special Edition | 10229 | [10229-fire-emblem-fates-special-edition.json](./10229-fire-emblem-fates-special-edition.json) |
