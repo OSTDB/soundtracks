@@ -9240,6 +9240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrine of the Silver CyberPrimate | 261466 | [261466-shrine-of-the-silver-cyberprimate.json](./261466-shrine-of-the-silver-cyberprimate.json) |
 | Shrine of the Spirits | 231544 | [231544-shrine-of-the-spirits.json](./231544-shrine-of-the-spirits.json) |
 | Shrine of the Spirits: SS Hero | 230881 | [230881-shrine-of-the-spirits-ss-hero.json](./230881-shrine-of-the-spirits-ss-hero.json) |
+| Shrine Protectors | 345230 | [345230-shrine-protectors.json](./345230-shrine-protectors.json) |
 | Shrine Raider | 377052 | [377052-shrine-raider.json](./377052-shrine-raider.json) |
 | Shrine to Anubis | 135685 | [135685-shrine-to-anubis.json](./135685-shrine-to-anubis.json) |
 | Shrine: Circus Tycoon | 206970 | [206970-shrine-circus-tycoon.json](./206970-shrine-circus-tycoon.json) |
@@ -18105,6 +18106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundodger 2 | 140864 | [140864-soundodger-2.json](./140864-soundodger-2.json) |
 | Soundodger+ | 14408 | [14408-soundodger.json](./14408-soundodger.json) |
 | Soundrace | 334238 | [334238-soundrace.json](./334238-soundrace.json) |
+| Sounds & Rhythms | 345219 | [345219-sounds-and-rhythms.json](./345219-sounds-and-rhythms.json) |
 | Sounds of Her Love 2 | 350901 | [350901-sounds-of-her-love-2.json](./350901-sounds-of-her-love-2.json) |
 | Sounds of Talent: Kpop Adventure | 116826 | [116826-sounds-of-talent-kpop-adventure.json](./116826-sounds-of-talent-kpop-adventure.json) |
 | Sounds of Verity | 89938 | [89938-sounds-of-verity.json](./89938-sounds-of-verity.json) |
@@ -18463,6 +18465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Channel 5 VR: Kinda Funky News Flash | 109296 | [109296-space-channel-5-vr-kinda-funky-news-flash.json](./109296-space-channel-5-vr-kinda-funky-news-flash.json) |
 | Space Channel 5: Ulala's Cosmic Attack | 23716 | [23716-space-channel-5-ulalas-cosmic-attack.json](./23716-space-channel-5-ulalas-cosmic-attack.json) |
 | Space Chaos | 374354 | [374354-space-chaos.json](./374354-space-chaos.json) |
+| Space Chase II: Fortress of Doom! | 345227 | [345227-space-chase-ii-fortress-of-doom.json](./345227-space-chase-ii-fortress-of-doom.json) |
 | Space Chase: Odyssey | 333599 | [333599-space-chase-odyssey.json](./333599-space-chase-odyssey.json) |
 | Space Chaser | 385771 | [385771-space-chaser.json](./385771-space-chaser.json) |
 | Space Chaser | 39803 | [39803-space-chaser.json](./39803-space-chaser.json) |
@@ -29491,6 +29494,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Club Soccer | 110018 | [110018-super-club-soccer.json](./110018-super-club-soccer.json) |
 | Super Club Tennis | 147857 | [147857-super-club-tennis.json](./147857-super-club-tennis.json) |
 | Super Cobra | 282073 | [282073-super-cobra.json](./282073-super-cobra.json) |
+| Super Cobra | 345234 | [345234-super-cobra.json](./345234-super-cobra.json) |
+| Super Cobra | 345235 | [345235-super-cobra.json](./345235-super-cobra.json) |
 | Super Cobra | 346134 | [346134-super-cobra.json](./346134-super-cobra.json) |
 | Super Cobra | 5708 | [5708-super-cobra.json](./5708-super-cobra.json) |
 | Super Code Strike | 145014 | [145014-super-code-strike.json](./145014-super-code-strike.json) |
