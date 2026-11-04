@@ -4603,6 +4603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightshift | 163295 | [163295-nightshift.json](./163295-nightshift.json) |
 | Nightshift | 259186 | [259186-nightshift.json](./259186-nightshift.json) |
 | Nightshift | 271202 | [271202-nightshift.json](./271202-nightshift.json) |
+| Nightshift | 304474 | [304474-nightshift.json](./304474-nightshift.json) |
 | Nightshift at the Beta Museum | 408141 | [408141-nightshift-at-the-beta-museum.json](./408141-nightshift-at-the-beta-museum.json) |
 | Nightshift Galaxy | 306761 | [306761-nightshift-galaxy.json](./306761-nightshift-galaxy.json) |
 | Nightshift Legacy: The Jaguar's Eye | 16077 | [16077-nightshift-legacy-the-jaguars-eye.json](./16077-nightshift-legacy-the-jaguars-eye.json) |
