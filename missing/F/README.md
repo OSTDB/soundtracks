@@ -3206,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fated Era | 114514 | [114514-fated-era.json](./114514-fated-era.json) |
 | Fated Haven | 61724 | [61724-fated-haven.json](./61724-fated-haven.json) |
 | Fated Kingdom | 97111 | [97111-fated-kingdom.json](./97111-fated-kingdom.json) |
+| Fated Land | 317164 | [317164-fated-land.json](./317164-fated-land.json) |
 | Fated Mate | 381974 | [381974-fated-mate.json](./381974-fated-mate.json) |
 | Fated Souls | 35250 | [35250-fated-souls.json](./35250-fated-souls.json) |
 | Fated Souls 2 | 31407 | [31407-fated-souls-2.json](./31407-fated-souls-2.json) |
@@ -8304,6 +8305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly to Kuma | 58788 | [58788-fly-to-kuma.json](./58788-fly-to-kuma.json) |
 | Fly to Kuma Maker | 31600 | [31600-fly-to-kuma-maker.json](./31600-fly-to-kuma-maker.json) |
 | Fly Together! | 146215 | [146215-fly-together.json](./146215-fly-together.json) |
+| Fly Trap | 317462 | [317462-fly-trap.json](./317462-fly-trap.json) |
 | Fly Wars | 59662 | [59662-fly-wars.json](./59662-fly-wars.json) |
 | Fly Wheel | 272213 | [272213-fly-wheel.json](./272213-fly-wheel.json) |
 | Fly With The Yellow Crane | 266116 | [266116-fly-with-the-yellow-crane.json](./266116-fly-with-the-yellow-crane.json) |
