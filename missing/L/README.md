@@ -1859,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layton Brothers: Mystery Room | 20912 | [20912-layton-brothers-mystery-room.json](./20912-layton-brothers-mystery-room.json) |
 | Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy - Deluxe Edition | 120329 | [120329-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition.json](./120329-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition.json) |
 | Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy - Deluxe Edition Plus | 306201 | [306201-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-plus.json](./306201-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-plus.json) |
+| Layup Legends | 321885 | [321885-layup-legends.json](./321885-layup-legends.json) |
 | Laza Knitez!! | 134513 | [134513-laza-knitez.json](./134513-laza-knitez.json) |
 | Lazaret | 211740 | [211740-lazaret.json](./211740-lazaret.json) |
 | Lazaretto | 36454 | [36454-lazaretto.json](./36454-lazaretto.json) |
@@ -3258,6 +3259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lekker Weertje Koekepeertje: Lente | 350014 | [350014-lekker-weertje-koekepeertje-lente.json](./350014-lekker-weertje-koekepeertje-lente.json) |
 | Leksi | 361909 | [361909-leksi.json](./361909-leksi.json) |
 | Lelie Navigation! | 156057 | [156057-lelie-navigation.json](./156057-lelie-navigation.json) |
+| Lelu | 321877 | [321877-lelu.json](./321877-lelu.json) |
 | Lem-Amaze! | 126570 | [126570-lem-amaze.json](./126570-lem-amaze.json) |
 | Lema Sabachthani | 323721 | [323721-lema-sabachthani.json](./323721-lema-sabachthani.json) |
 | Lemegeton | 402262 | [402262-lemegeton.json](./402262-lemegeton.json) |
