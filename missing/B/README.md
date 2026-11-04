@@ -9613,6 +9613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze and the Monster Machines | 101564 | [101564-blaze-and-the-monster-machines.json](./101564-blaze-and-the-monster-machines.json) |
 | Blaze and the Monster Machines | 230339 | [230339-blaze-and-the-monster-machines.json](./230339-blaze-and-the-monster-machines.json) |
 | Blaze and the Monster Machines: Axle City Racers | 148547 | [148547-blaze-and-the-monster-machines-axle-city-racers.json](./148547-blaze-and-the-monster-machines-axle-city-racers.json) |
+| Blaze From Outer Space | 308127 | [308127-blaze-from-outer-space.json](./308127-blaze-from-outer-space.json) |
 | Blaze in Space: Beat a-Maze | 214278 | [214278-blaze-in-space-beat-a-maze.json](./214278-blaze-in-space-beat-a-maze.json) |
 | Blaze of Empires | 392080 | [392080-blaze-of-empires.json](./392080-blaze-of-empires.json) |
 | Blaze of Storm | 331874 | [331874-blaze-of-storm.json](./331874-blaze-of-storm.json) |
