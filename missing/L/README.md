@@ -1579,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Ming Dynasty | 379101 | [379101-late-ming-dynasty.json](./379101-late-ming-dynasty.json) |
 | Late Ming Fly Guy | 339904 | [339904-late-ming-fly-guy.json](./339904-late-ming-fly-guy.json) |
 | Late Night 1320 | 115654 | [115654-late-night-1320.json](./115654-late-night-1320.json) |
+| Late Night at the KWL | 308114 | [308114-late-night-at-the-kwl.json](./308114-late-night-at-the-kwl.json) |
 | Late Night Breakfast | 178991 | [178991-late-night-breakfast.json](./178991-late-night-breakfast.json) |
 | Late Night Confessional | 321641 | [321641-late-night-confessional.json](./321641-late-night-confessional.json) |
 | Late Night Delivery: The Bewitched Collection | 260290 | [260290-late-night-delivery-the-bewitched-collection.json](./260290-late-night-delivery-the-bewitched-collection.json) |
@@ -3426,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Flics | 254643 | [254643-les-flics.json](./254643-les-flics.json) |
 | Les Grandes Odalisques | 191689 | [191689-les-grandes-odalisques.json](./191689-les-grandes-odalisques.json) |
 | Les Guignols de l'info: Le Cauchemar de PPD | 306964 | [306964-les-guignols-de-linfo-le-cauchemar-de-ppd.json](./306964-les-guignols-de-linfo-le-cauchemar-de-ppd.json) |
+| Les Guignols de l'info… le jeu ! | 308095 | [308095-les-guignols-de-linfo-le-jeu.json](./308095-les-guignols-de-linfo-le-jeu.json) |
 | Les Habitants Del Soleil | 177993 | [177993-les-habitants-del-soleil.json](./177993-les-habitants-del-soleil.json) |
 | Les Heures Bleues: Sang sur pierre à Pétrichor | 394172 | [394172-les-heures-bleues-sang-sur-pierre-a-petrichor.json](./394172-les-heures-bleues-sang-sur-pierre-a-petrichor.json) |
 | Les Heures Bleues: Wedding at Astérie | 393577 | [393577-les-heures-bleues-wedding-at-asterie.json](./393577-les-heures-bleues-wedding-at-asterie.json) |
