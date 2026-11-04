@@ -5090,6 +5090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replics | 129765 | [129765-replics.json](./129765-replics.json) |
 | Replics 2: Forget the Moon | 130023 | [130023-replics-2-forget-the-moon.json](./130023-replics-2-forget-the-moon.json) |
 | Replics 3 - Behind the Light | 132075 | [132075-replics-3-behind-the-light.json](./132075-replics-3-behind-the-light.json) |
+| Replicube | 331080 | [331080-replicube.json](./331080-replicube.json) |
 | Replik Survivors | 266296 | [266296-replik-survivors.json](./266296-replik-survivors.json) |
 | Replika | 92274 | [92274-replika.json](./92274-replika.json) |
 | Replikant Chat | 326657 | [326657-replikant-chat.json](./326657-replikant-chat.json) |
