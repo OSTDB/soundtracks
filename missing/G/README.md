@@ -1758,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden & Bird | 346084 | [346084-garden-and-bird.json](./346084-garden-and-bird.json) |
 | Garden Affairs | 214058 | [214058-garden-affairs.json](./214058-garden-affairs.json) |
 | Garden and a Goat | 366277 | [366277-garden-and-a-goat.json](./366277-garden-and-a-goat.json) |
+| Garden Apocalypse | 310878 | [310878-garden-apocalypse.json](./310878-garden-apocalypse.json) |
 | Garden Blast | 354974 | [354974-garden-blast.json](./354974-garden-blast.json) |
 | Garden Bots | 395900 | [395900-garden-bots.json](./395900-garden-bots.json) |
 | Garden Box | 314675 | [314675-garden-box.json](./314675-garden-box.json) |
@@ -10961,6 +10962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gus & Stella's Stellar Adventure | 236194 | [236194-gus-and-stellas-stellar-adventure.json](./236194-gus-and-stellas-stellar-adventure.json) |
 | Gus and Jaq's Cooking Chaos | 246526 | [246526-gus-and-jaqs-cooking-chaos.json](./246526-gus-and-jaqs-cooking-chaos.json) |
 | Gus and the Cyberbuds: Sing, Play & Paint-A-Long | 282237 | [282237-gus-and-the-cyberbuds-sing-play-and-paint-a-long.json](./282237-gus-and-the-cyberbuds-sing-play-and-paint-a-long.json) |
+| Gus Game | 310881 | [310881-gus-game.json](./310881-gus-game.json) |
 | Gus Goes to Cybertown | 282236 | [282236-gus-goes-to-cybertown.json](./282236-gus-goes-to-cybertown.json) |
 | Gus Track Adventures VR | 28672 | [28672-gus-track-adventures-vr.json](./28672-gus-track-adventures-vr.json) |
 | Gus's Feed Sort | 246529 | [246529-guss-feed-sort.json](./246529-guss-feed-sort.json) |
