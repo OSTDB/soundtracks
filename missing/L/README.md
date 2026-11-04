@@ -3965,6 +3965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level Crossing | 92088 | [92088-level-crossing.json](./92088-level-crossing.json) |
 | Level Devil | 279687 | [279687-level-devil.json](./279687-level-devil.json) |
 | Level Down | 133828 | [133828-level-down.json](./133828-level-down.json) |
+| Level Down | 309315 | [309315-level-down.json](./309315-level-down.json) |
 | Level Editor 2 | 349808 | [349808-level-editor-2.json](./349808-level-editor-2.json) |
 | Level Maker | 413867 | [413867-level-maker.json](./413867-level-maker.json) |
 | Level Squared | 82890 | [82890-level-squared.json](./82890-level-squared.json) |
@@ -8794,6 +8795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low G Man: The Low Gravity Man | 48028 | [48028-low-g-man-the-low-gravity-man.json](./48028-low-g-man-the-low-gravity-man.json) |
 | Low Grav Racer | 63231 | [63231-low-grav-racer.json](./63231-low-grav-racer.json) |
 | Low Grav Racer 2 | 63192 | [63192-low-grav-racer-2.json](./63192-low-grav-racer-2.json) |
+| Low Gravity | 309278 | [309278-low-gravity.json](./309278-low-gravity.json) |
 | Low Knight | 182072 | [182072-low-knight.json](./182072-low-knight.json) |
 | Low Light Combat | 158954 | [158954-low-light-combat.json](./158954-low-light-combat.json) |
 | Low Light Combat | 63697 | [63697-low-light-combat.json](./63697-low-light-combat.json) |
