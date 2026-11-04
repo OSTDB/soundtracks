@@ -4968,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rengoku: The Tower of Purgatory | 38473 | [38473-rengoku-the-tower-of-purgatory.json](./38473-rengoku-the-tower-of-purgatory.json) |
 | Renju | 93485 | [93485-renju.json](./93485-renju.json) |
 | Renketsu Puzzle Tsunagete Pon! | 47623 | [47623-renketsu-puzzle-tsunagete-pon.json](./47623-renketsu-puzzle-tsunagete-pon.json) |
+| Rennova: The New Frontier | 345787 | [345787-rennova-the-new-frontier.json](./345787-rennova-the-new-frontier.json) |
 | Rennsport | 230191 | [230191-rennsport.json](./230191-rennsport.json) |
 | Rennsport: Deluxe Edition | 368528 | [368528-rennsport-deluxe-edition.json](./368528-rennsport-deluxe-edition.json) |
 | Renny Blaster | 42008 | [42008-renny-blaster.json](./42008-renny-blaster.json) |
