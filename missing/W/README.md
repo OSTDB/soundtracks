@@ -1938,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors Orochi 4: Scenario Pack 1 | 252804 | [252804-warriors-orochi-4-scenario-pack-1.json](./252804-warriors-orochi-4-scenario-pack-1.json) |
 | Warriors Orochi 4: Scenario Pack 2 | 226880 | [226880-warriors-orochi-4-scenario-pack-2.json](./226880-warriors-orochi-4-scenario-pack-2.json) |
 | Warriors Waifus Mahjong | 336559 | [336559-warriors-waifus-mahjong.json](./336559-warriors-waifus-mahjong.json) |
+| Warriors: Abyss | 331203 | [331203-warriors-abyss.json](./331203-warriors-abyss.json) |
 | Warriors: Abyss - "Dynasty Warriors" Costume Set | 379117 | [379117-warriors-abyss-dynasty-warriors-costume-set.json](./379117-warriors-abyss-dynasty-warriors-costume-set.json) |
 | Warriors: Abyss - Atelier Series Academy Costume Set | 379120 | [379120-warriors-abyss-atelier-series-academy-costume-set.json](./379120-warriors-abyss-atelier-series-academy-costume-set.json) |
 | Warriors: Abyss - Atelier Series Vacation Costume Set | 379119 | [379119-warriors-abyss-atelier-series-vacation-costume-set.json](./379119-warriors-abyss-atelier-series-vacation-costume-set.json) |
@@ -2978,6 +2979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Webosaurs | 245971 | [245971-webosaurs.json](./245971-webosaurs.json) |
 | WebRiot | 79889 | [79889-webriot.json](./79889-webriot.json) |
 | Webshooters | 282218 | [282218-webshooters.json](./282218-webshooters.json) |
+| Webstore Mogul | 331066 | [331066-webstore-mogul.json](./331066-webstore-mogul.json) |
 | WebSurf | 204860 | [204860-websurf.json](./204860-websurf.json) |
 | Websy and the Time Rogues | 361304 | [361304-websy-and-the-time-rogues.json](./361304-websy-and-the-time-rogues.json) |
 | Webventure | 258338 | [258338-webventure.json](./258338-webventure.json) |
@@ -3553,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whacky Golf | 161578 | [161578-whacky-golf.json](./161578-whacky-golf.json) |
 | Whacky Park | 216796 | [216796-whacky-park.json](./216796-whacky-park.json) |
 | Whale Eater | 183981 | [183981-whale-eater.json](./183981-whale-eater.json) |
+| Whale Flesh | 331053 | [331053-whale-flesh.json](./331053-whale-flesh.json) |
 | Whale Game Online | 274529 | [274529-whale-game-online.json](./274529-whale-game-online.json) |
 | Whale Island | 105724 | [105724-whale-island.json](./105724-whale-island.json) |
 | Whale Left: Part 1 | 367942 | [367942-whale-left-part-1.json](./367942-whale-left-part-1.json) |
