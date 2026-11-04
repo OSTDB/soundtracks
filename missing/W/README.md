@@ -2991,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Webosaurs | 245971 | [245971-webosaurs.json](./245971-webosaurs.json) |
 | WebRiot | 79889 | [79889-webriot.json](./79889-webriot.json) |
 | Webshooters | 282218 | [282218-webshooters.json](./282218-webshooters.json) |
+| Websling | 310877 | [310877-websling.json](./310877-websling.json) |
 | Webstore Mogul | 331066 | [331066-webstore-mogul.json](./331066-webstore-mogul.json) |
 | WebSurf | 204860 | [204860-websurf.json](./204860-websurf.json) |
 | Websy and the Time Rogues | 361304 | [361304-websy-and-the-time-rogues.json](./361304-websy-and-the-time-rogues.json) |
