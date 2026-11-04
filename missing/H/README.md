@@ -6504,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi Eggplant! | 211040 | [211040-hi-eggplant.json](./211040-hi-eggplant.json) |
 | Hi Guess the Movie 2016 | 232111 | [232111-hi-guess-the-movie-2016.json](./232111-hi-guess-the-movie-2016.json) |
 | Hi Hi Puffy Ami Yumi: Genie & The Amp | 84521 | [84521-hi-hi-puffy-ami-yumi-genie-and-the-amp.json](./84521-hi-hi-puffy-ami-yumi-genie-and-the-amp.json) |
+| Hi Hi Puffy Ami Yumi: Puffy Ami Yumi and the Manga Madman | 308757 | [308757-hi-hi-puffy-ami-yumi-puffy-ami-yumi-and-the-manga-madman.json](./308757-hi-hi-puffy-ami-yumi-puffy-ami-yumi-and-the-manga-madman.json) |
 | Hi Hi Puffy AmiYumi Treasure Island | 141151 | [141151-hi-hi-puffy-amiyumi-treasure-island.json](./141151-hi-hi-puffy-amiyumi-treasure-island.json) |
 | Hi Hi Puffy AmiYumi: Kaznapped! | 2819 | [2819-hi-hi-puffy-amiyumi-kaznapped.json](./2819-hi-hi-puffy-amiyumi-kaznapped.json) |
 | Hi Hi Puffy AmiYumi: The Genie and the Amp | 2818 | [2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json](./2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json) |
