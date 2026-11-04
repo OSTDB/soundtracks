@@ -6218,6 +6218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Life: A Restaurant Simulator - Tokyo Delight | 295348 | [295348-chef-life-a-restaurant-simulator-tokyo-delight.json](./295348-chef-life-a-restaurant-simulator-tokyo-delight.json) |
 | Chef Life: Cooking Lab | 288863 | [288863-chef-life-cooking-lab.json](./288863-chef-life-cooking-lab.json) |
 | Chef Master Slot | 232284 | [232284-chef-master-slot.json](./232284-chef-master-slot.json) |
+| Chef Niya | 346364 | [346364-chef-niya.json](./346364-chef-niya.json) |
 | Chef of Sherwood | 391845 | [391845-chef-of-sherwood.json](./391845-chef-of-sherwood.json) |
 | Chef Pinball | 422120 | [422120-chef-pinball.json](./422120-chef-pinball.json) |
 | Chef Ramsay | 248130 | [248130-chef-ramsay.json](./248130-chef-ramsay.json) |
@@ -7937,6 +7938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicle: Unit Eight | 128989 | [128989-chronicle-unit-eight.json](./128989-chronicle-unit-eight.json) |
 | Chronicles and Fables: Arena | 178442 | [178442-chronicles-and-fables-arena.json](./178442-chronicles-and-fables-arena.json) |
 | Chronicles and Fables: Labyrinth | 180936 | [180936-chronicles-and-fables-labyrinth.json](./180936-chronicles-and-fables-labyrinth.json) |
+| Chronicles from the Abyss | 346473 | [346473-chronicles-from-the-abyss.json](./346473-chronicles-from-the-abyss.json) |
 | Chronicles IV: Ebonheim | 358852 | [358852-chronicles-iv-ebonheim.json](./358852-chronicles-iv-ebonheim.json) |
 | Chronicles Meteorfall | 390062 | [390062-chronicles-meteorfall.json](./390062-chronicles-meteorfall.json) |
 | Chronicles of 2 Heroes: Amaterasu's Wrath | 191850 | [191850-chronicles-of-2-heroes-amaterasus-wrath.json](./191850-chronicles-of-2-heroes-amaterasus-wrath.json) |
@@ -8149,6 +8151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chubmen's Strange Case File: Chapter of Corridor | 163242 | [163242-chubmens-strange-case-file-chapter-of-corridor.json](./163242-chubmens-strange-case-file-chapter-of-corridor.json) |
 | Chuchel | 57263 | [57263-chuchel.json](./57263-chuchel.json) |
 | Chuchel: Cherry Edition | 124964 | [124964-chuchel-cherry-edition.json](./124964-chuchel-cherry-edition.json) |
+| ChuChu Pancake | 346344 | [346344-chuchu-pancake.json](./346344-chuchu-pancake.json) |
 | ChuChu Rocket! | 6347 | [6347-chuchu-rocket.json](./6347-chuchu-rocket.json) |
 | ChuChu Rocket! Universe | 122316 | [122316-chuchu-rocket-universe.json](./122316-chuchu-rocket-universe.json) |
 | Chuck Ball Idol | 178652 | [178652-chuck-ball-idol.json](./178652-chuck-ball-idol.json) |
@@ -17265,6 +17268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowe: The Drowned Armory | 38811 | [38811-crowe-the-drowned-armory.json](./38811-crowe-the-drowned-armory.json) |
 | Crowfall | 1126 | [1126-crowfall.json](./1126-crowfall.json) |
 | Crowfarm | 423910 | [423910-crowfarm.json](./423910-crowfarm.json) |
+| CrowHallow | 346323 | [346323-crowhallow.json](./346323-crowhallow.json) |
 | Crowhille: Detective Case Files VR | 151064 | [151064-crowhille-detective-case-files-vr.json](./151064-crowhille-detective-case-files-vr.json) |
 | CrowKart | 165443 | [165443-crowkart.json](./165443-crowkart.json) |
 | Crowman & Wolfboy | 28575 | [28575-crowman-and-wolfboy.json](./28575-crowman-and-wolfboy.json) |
@@ -18066,6 +18070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuadro | 84444 | [84444-cuadro.json](./84444-cuadro.json) |
 | Cuana | 227879 | [227879-cuana.json](./227879-cuana.json) |
 | Cub Gym | 150701 | [150701-cub-gym.json](./150701-cub-gym.json) |
+| Cubactory | 346345 | [346345-cubactory.json](./346345-cubactory.json) |
 | Cubage | 93924 | [93924-cubage.json](./93924-cubage.json) |
 | Cuban Missile Crisis: Ice Crusade | 24721 | [24721-cuban-missile-crisis-ice-crusade.json](./24721-cuban-missile-crisis-ice-crusade.json) |
 | Cubanoids | 110923 | [110923-cubanoids.json](./110923-cubanoids.json) |
