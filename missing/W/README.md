@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake Up | 22435 | [22435-wake-up.json](./22435-wake-up.json) |
 | Wake Up | 250752 | [250752-wake-up.json](./250752-wake-up.json) |
 | Wake Up and Jump! | 392480 | [392480-wake-up-and-jump.json](./392480-wake-up-and-jump.json) |
+| Wake Up Before You Get Killed, Minions! | 321872 | [321872-wake-up-before-you-get-killed-minions.json](./321872-wake-up-before-you-get-killed-minions.json) |
 | Wake Up Calls | 397842 | [397842-wake-up-calls.json](./397842-wake-up-calls.json) |
 | Wake Up The Box | 334223 | [334223-wake-up-the-box.json](./334223-wake-up-the-box.json) |
 | Wake up the House | 360888 | [360888-wake-up-the-house.json](./360888-wake-up-the-house.json) |
