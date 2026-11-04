@@ -20264,6 +20264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TideBroker | 398776 | [398776-tidebroker.json](./398776-tidebroker.json) |
 | Tidehaven: Ale & Trade | 349078 | [349078-tidehaven-ale-and-trade.json](./349078-tidehaven-ale-and-trade.json) |
 | Tideheart | 420221 | [420221-tideheart.json](./420221-tideheart.json) |
+| Tidekeeper | 318345 | [318345-tidekeeper.json](./318345-tidekeeper.json) |
 | Tidepool | 407503 | [407503-tidepool.json](./407503-tidepool.json) |
 | Tides Odyssey | 315777 | [315777-tides-odyssey.json](./315777-tides-odyssey.json) |
 | Tides of Annihilation | 331212 | [331212-tides-of-annihilation.json](./331212-tides-of-annihilation.json) |
@@ -22700,6 +22701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Pirate Ship | 255044 | [255044-tiny-pirate-ship.json](./255044-tiny-pirate-ship.json) |
 | Tiny Pirates - Activity Book | 104421 | [104421-tiny-pirates-activity-book.json](./104421-tiny-pirates-activity-book.json) |
 | Tiny Pixel Farm: Go Farm Life | 248674 | [248674-tiny-pixel-farm-go-farm-life.json](./248674-tiny-pixel-farm-go-farm-life.json) |
+| Tiny Pixel Planets | 318328 | [318328-tiny-pixel-planets.json](./318328-tiny-pixel-planets.json) |
 | Tiny Pixel Wars | 185618 | [185618-tiny-pixel-wars.json](./185618-tiny-pixel-wars.json) |
 | Tiny Pixels Vol. 1: Ninpo Blast | 308625 | [308625-tiny-pixels-vol-1-ninpo-blast.json](./308625-tiny-pixels-vol-1-ninpo-blast.json) |
 | Tiny Pixels Vol. 2: Stormy Knights | 338928 | [338928-tiny-pixels-vol-2-stormy-knights.json](./338928-tiny-pixels-vol-2-stormy-knights.json) |
@@ -31794,6 +31796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Falcons | 40492 | [40492-twin-falcons.json](./40492-twin-falcons.json) |
 | Twin Fighters X | 358652 | [358652-twin-fighters-x.json](./358652-twin-fighters-x.json) |
 | Twin Fish | 287568 | [287568-twin-fish.json](./287568-twin-fish.json) |
+| Twin Flames | 318312 | [318312-twin-flames.json](./318312-twin-flames.json) |
 | Twin Goddesses | 43810 | [43810-twin-goddesses.json](./43810-twin-goddesses.json) |
 | Twin Hawk | 294036 | [294036-twin-hawk.json](./294036-twin-hawk.json) |
 | Twin Hobo Rocket | 215565 | [215565-twin-hobo-rocket.json](./215565-twin-hobo-rocket.json) |
