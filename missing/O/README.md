@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Runner | 58776 | [58776-ocean-runner.json](./58776-ocean-runner.json) |
 | Ocean Scenes | 68538 | [68538-ocean-scenes.json](./68538-ocean-scenes.json) |
 | Ocean Scramble: Age of Exploration | 261863 | [261863-ocean-scramble-age-of-exploration.json](./261863-ocean-scramble-age-of-exploration.json) |
+| Ocean Survivors | 332778 | [332778-ocean-survivors.json](./332778-ocean-survivors.json) |
 | Ocean Trader | 71776 | [71776-ocean-trader.json](./71776-ocean-trader.json) |
 | Ocean Tribes | 176174 | [176174-ocean-tribes.json](./176174-ocean-tribes.json) |
 | Ocean Voyager | 209028 | [209028-ocean-voyager.json](./209028-ocean-voyager.json) |
@@ -533,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OctoFurry | 128971 | [128971-octofurry.json](./128971-octofurry.json) |
 | Octogeddon | 25640 | [25640-octogeddon.json](./25640-octogeddon.json) |
 | Octogram | 265686 | [265686-octogram.json](./265686-octogram.json) |
+| Octohill Ski Tycoon | 332899 | [332899-octohill-ski-tycoon.json](./332899-octohill-ski-tycoon.json) |
 | OctoMaze | 199725 | [199725-octomaze.json](./199725-octomaze.json) |
 | Octonauts | 230394 | [230394-octonauts.json](./230394-octonauts.json) |
 | Octonauts and the Giant Squid | 387410 | [387410-octonauts-and-the-giant-squid.json](./387410-octonauts-and-the-giant-squid.json) |
@@ -1379,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olaf and the Crowning Hangover | 326125 | [326125-olaf-and-the-crowning-hangover.json](./326125-olaf-and-the-crowning-hangover.json) |
 | Olaf's Demise | 376169 | [376169-olafs-demise.json](./376169-olafs-demise.json) |
 | Olaguna Chronicles | 128372 | [128372-olaguna-chronicles.json](./128372-olaguna-chronicles.json) |
+| Olapu | 332741 | [332741-olapu.json](./332741-olapu.json) |
 | Olav & the Lute | 131996 | [131996-olav-and-the-lute.json](./131996-olav-and-the-lute.json) |
 | Olav: the story of one boy | 28427 | [28427-olav-the-story-of-one-boy.json](./28427-olav-the-story-of-one-boy.json) |
 | Olber's Paradox | 392816 | [392816-olbers-paradox.json](./392816-olbers-paradox.json) |
