@@ -7705,6 +7705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherwood Extreme | 137279 | [137279-sherwood-extreme.json](./137279-sherwood-extreme.json) |
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
+| Sheva | 347994 | [347994-sheva.json](./347994-sheva.json) |
 | Shh, Zombies | 21979 | [21979-shh-zombies.json](./21979-shh-zombies.json) |
 | Shhh! | 278288 | [278288-shhh.json](./278288-shhh.json) |
 | Shhh!k | 402099 | [402099-shhh-k.json](./402099-shhh-k.json) |
@@ -11147,6 +11148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren's Call: Escape Velocity | 258728 | [258728-sirens-call-escape-velocity.json](./258728-sirens-call-escape-velocity.json) |
 | Siren's Call: Second Wind | 386087 | [386087-sirens-call-second-wind.json](./386087-sirens-call-second-wind.json) |
 | Siren's Serenade | 179529 | [179529-sirens-serenade.json](./179529-sirens-serenade.json) |
+| Siren's Well | 347984 | [347984-sirens-well.json](./347984-sirens-well.json) |
 | Sirène | 310975 | [310975-sirene.json](./310975-sirene.json) |
 | Sirenhead | 135760 | [135760-sirenhead.json](./135760-sirenhead.json) |
 | Sirenhead: Southpoint | 197060 | [197060-sirenhead-southpoint.json](./197060-sirenhead-southpoint.json) |
@@ -18762,6 +18764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
