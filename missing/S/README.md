@@ -7541,6 +7541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shellax | 328266 | [328266-shellax.json](./328266-shellax.json) |
 | ShellBlast | 54391 | [54391-shellblast.json](./54391-shellblast.json) |
 | Shellborne | 361597 | [361597-shellborne.json](./361597-shellborne.json) |
+| Shellbound | 339592 | [339592-shellbound.json](./339592-shellbound.json) |
 | Shelldom | 330101 | [330101-shelldom.json](./330101-shelldom.json) |
 | Shelled Flame | 182528 | [182528-shelled-flame.json](./182528-shelled-flame.json) |
 | Shelled Shinobi | 177225 | [177225-shelled-shinobi.json](./177225-shelled-shinobi.json) |
@@ -28502,6 +28503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suigetsu: Mayoi-Gokoro | 396592 | [396592-suigetsu-mayoi-gokoro.json](./396592-suigetsu-mayoi-gokoro.json) |
 | Suiheisen made Nan Mile?: Deep Blue Sky & Pure White Wings | 59776 | [59776-suiheisen-made-nan-mile-deep-blue-sky-and-pure-white-wings.json](./59776-suiheisen-made-nan-mile-deep-blue-sky-and-pure-white-wings.json) |
 | Suika | 132085 | [132085-suika.json](./132085-suika.json) |
+| Suika and Dragons | 339552 | [339552-suika-and-dragons.json](./339552-suika-and-dragons.json) |
 | Suika Animal Kingdom | 322066 | [322066-suika-animal-kingdom.json](./322066-suika-animal-kingdom.json) |
 | Suika Combination | 271153 | [271153-suika-combination.json](./271153-suika-combination.json) |
 | Suika Dish More Plates | 276166 | [276166-suika-dish-more-plates.json](./276166-suika-dish-more-plates.json) |
@@ -28793,6 +28795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summit Drive | 365028 | [365028-summit-drive.json](./365028-summit-drive.json) |
 | Summit in Space | 164905 | [164905-summit-in-space.json](./164905-summit-in-space.json) |
 | Summit of the Wolf | 119033 | [119033-summit-of-the-wolf.json](./119033-summit-of-the-wolf.json) |
+| Summit: Steps of Solace | 339708 | [339708-summit-steps-of-solace.json](./339708-summit-steps-of-solace.json) |
 | SummitX 2 | 200267 | [200267-summitx-2.json](./200267-summitx-2.json) |
 | Summon | 263754 | [263754-summon.json](./263754-summon.json) |
 | Summon a Sweetheart | 400605 | [400605-summon-a-sweetheart.json](./400605-summon-a-sweetheart.json) |
