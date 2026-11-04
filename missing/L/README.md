@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth Eternal | 187898 | [187898-labyrinth-eternal.json](./187898-labyrinth-eternal.json) |
 | Labyrinth Flowers | 315135 | [315135-labyrinth-flowers.json](./315135-labyrinth-flowers.json) |
 | Labyrinth Flowers | 315136 | [315136-labyrinth-flowers.json](./315136-labyrinth-flowers.json) |
+| Labyrinth Hotel | 302887 | [302887-labyrinth-hotel.json](./302887-labyrinth-hotel.json) |
 | Labyrinth Inf | 181104 | [181104-labyrinth-inf.json](./181104-labyrinth-inf.json) |
 | Labyrinth Legend | 158874 | [158874-labyrinth-legend.json](./158874-labyrinth-legend.json) |
 | Labyrinth Legend II | 206443 | [206443-labyrinth-legend-ii.json](./206443-labyrinth-legend-ii.json) |
@@ -549,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lake Masters 2 | 67298 | [67298-lake-masters-2.json](./67298-lake-masters-2.json) |
 | Lake Masters EX | 70570 | [70570-lake-masters-ex.json](./70570-lake-masters-ex.json) |
 | Lake Masters Pro | 67300 | [67300-lake-masters-pro.json](./67300-lake-masters-pro.json) |
+| Lake Minnewaska | 303977 | [303977-lake-minnewaska.json](./303977-lake-minnewaska.json) |
 | Lake of Creatures | 190990 | [190990-lake-of-creatures.json](./190990-lake-of-creatures.json) |
 | Lake of Darkness | 351116 | [351116-lake-of-darkness.json](./351116-lake-of-darkness.json) |
 | Lake Of Roaches | 311324 | [311324-lake-of-roaches.json](./311324-lake-of-roaches.json) |
@@ -5558,6 +5560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LiteracyPlanet: Word Mania | 203372 | [203372-literacyplanet-word-mania.json](./203372-literacyplanet-word-mania.json) |
 | Literalchemy | 399680 | [399680-literalchemy.json](./399680-literalchemy.json) |
 | Literalism | 261463 | [261463-literalism.json](./261463-literalism.json) |
+| Literally Every FNF Mod Ever | 303961 | [303961-literally-every-fnf-mod-ever.json](./303961-literally-every-fnf-mod-ever.json) |
 | Literally Free Will (From Prison) | 180750 | [180750-literally-free-will-from-prison.json](./180750-literally-free-will-from-prison.json) |
 | Literally Just Pixels On A Screen | 340922 | [340922-literally-just-pixels-on-a-screen.json](./340922-literally-just-pixels-on-a-screen.json) |
 | Litguy Adventure | 213390 | [213390-litguy-adventure.json](./213390-litguy-adventure.json) |
