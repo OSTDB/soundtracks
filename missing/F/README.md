@@ -11393,6 +11393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeStyle Street Basketball | 21423 | [21423-freestyle-street-basketball.json](./21423-freestyle-street-basketball.json) |
 | Freestyle Street Soccer | 3921 | [3921-freestyle-street-soccer.json](./3921-freestyle-street-soccer.json) |
 | Freestyle Studio | 272764 | [272764-freestyle-studio.json](./272764-freestyle-studio.json) |
+| Freestyle2: Hot Summer Outfit Box | 302032 | [302032-freestyle2-hot-summer-outfit-box.json](./302032-freestyle2-hot-summer-outfit-box.json) |
 | Freestyle2: Must-have summer Outfit Box | 302033 | [302033-freestyle2-must-have-summer-outfit-box.json](./302033-freestyle2-must-have-summer-outfit-box.json) |
 | Freestyle2: Street Basketball | 28088 | [28088-freestyle2-street-basketball.json](./28088-freestyle2-street-basketball.json) |
 | Freetown Forest | 374839 | [374839-freetown-forest.json](./374839-freetown-forest.json) |
@@ -13277,6 +13278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Nights | 201585 | [201585-furry-nights.json](./201585-furry-nights.json) |
 | Furry No Revolution | 402070 | [402070-furry-no-revolution.json](./402070-furry-no-revolution.json) |
 | Furry Orgasm | 208830 | [208830-furry-orgasm.json](./208830-furry-orgasm.json) |
+| Furry Orgy | 302001 | [302001-furry-orgy.json](./302001-furry-orgy.json) |
 | Furry OwO | 236936 | [236936-furry-owo.json](./236936-furry-owo.json) |
 | Furry Pet Dog Yiff Hentai | 209022 | [209022-furry-pet-dog-yiff-hentai.json](./209022-furry-pet-dog-yiff-hentai.json) |
 | Furry Pride | 148570 | [148570-furry-pride.json](./148570-furry-pride.json) |
