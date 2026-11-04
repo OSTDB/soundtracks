@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrolepsy | 114384 | [114384-necrolepsy.json](./114384-necrolepsy.json) |
 | Necrologium | 372404 | [372404-necrologium.json](./372404-necrologium.json) |
 | Necrology | 381660 | [381660-necrology.json](./381660-necrology.json) |
+| Necromancer | 313953 | [313953-necromancer.json](./313953-necromancer.json) |
 | Necromancer | 377196 | [377196-necromancer.json](./377196-necromancer.json) |
 | Necromancer | 76450 | [76450-necromancer.json](./76450-necromancer.json) |
 | NecRomancer | 176838 | [176838-necromancer.json](./176838-necromancer.json) |
@@ -3954,6 +3955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicktoons: Movin' | 7982 | [7982-nicktoons-movin.json](./7982-nicktoons-movin.json) |
 | Nicktoons: Snap Shot | 308564 | [308564-nicktoons-snap-shot.json](./308564-nicktoons-snap-shot.json) |
 | Nicktoons: Summer Camp | 202081 | [202081-nicktoons-summer-camp.json](./202081-nicktoons-summer-camp.json) |
+| Nicktropolis | 313905 | [313905-nicktropolis.json](./313905-nicktropolis.json) |
 | Nicky: The Home Alone Golf Ball | 95614 | [95614-nicky-the-home-alone-golf-ball.json](./95614-nicky-the-home-alone-golf-ball.json) |
 | Nico Puchi Girls Runway | 222519 | [222519-nico-puchi-girls-runway.json](./222519-nico-puchi-girls-runway.json) |
 | Nico Yazawa is Dreaming | 242094 | [242094-nico-yazawa-is-dreaming.json](./242094-nico-yazawa-is-dreaming.json) |
@@ -4485,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Pop | 89415 | [89415-nightmare-pop.json](./89415-nightmare-pop.json) |
 | Nightmare Punch-Out!! | 365051 | [365051-nightmare-punch-out.json](./365051-nightmare-punch-out.json) |
 | Nightmare Puppeteer | 138563 | [138563-nightmare-puppeteer.json](./138563-nightmare-puppeteer.json) |
+| Nightmare Pursuit | 313915 | [313915-nightmare-pursuit.json](./313915-nightmare-pursuit.json) |
 | Nightmare Puzzles: The Unknown | 351553 | [351553-nightmare-puzzles-the-unknown.json](./351553-nightmare-puzzles-the-unknown.json) |
 | Nightmare Reaper: Multiplayer Update | 369777 | [369777-nightmare-reaper-multiplayer-update.json](./369777-nightmare-reaper-multiplayer-update.json) |
 | Nightmare Retro | 422472 | [422472-nightmare-retro.json](./422472-nightmare-retro.json) |
@@ -5248,6 +5251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Wars | 324081 | [324081-nintendo-wars.json](./324081-nintendo-wars.json) |
 | Nintendo World Championships 1990 | 9250 | [9250-nintendo-world-championships-1990.json](./9250-nintendo-world-championships-1990.json) |
 | Nintendo World Championships: NES Edition | 299862 | [299862-nintendo-world-championships-nes-edition.json](./299862-nintendo-world-championships-nes-edition.json) |
+| Nintendo World Championships: NES Edition - Deluxe Set | 313619 | [313619-nintendo-world-championships-nes-edition-deluxe-set.json](./313619-nintendo-world-championships-nes-edition-deluxe-set.json) |
 | Nintendo World Cup | 191743 | [191743-nintendo-world-cup.json](./191743-nintendo-world-cup.json) |
 | Nintendogs + Cats: French Bulldog & New Friends | 85600 | [85600-nintendogs-cats-french-bulldog-and-new-friends.json](./85600-nintendogs-cats-french-bulldog-and-new-friends.json) |
 | Nintendogs + Cats: Golden Retriever & New Friends | 21935 | [21935-nintendogs-cats-golden-retriever-and-new-friends.json](./21935-nintendogs-cats-golden-retriever-and-new-friends.json) |
@@ -6612,6 +6616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostalgiallo | 414720 | [414720-nostalgiallo.json](./414720-nostalgiallo.json) |
 | Nostalgiarian | 127375 | [127375-nostalgiarian.json](./127375-nostalgiarian.json) |
 | NostAlgic | 166463 | [166463-nostalgic.json](./166463-nostalgic.json) |
+| Nostalgic Entropy | 313906 | [313906-nostalgic-entropy.json](./313906-nostalgic-entropy.json) |
 | Nostalgic Entropy: Neo Retro | 312899 | [312899-nostalgic-entropy-neo-retro.json](./312899-nostalgic-entropy-neo-retro.json) |
 | Nostalgic Train | 102089 | [102089-nostalgic-train.json](./102089-nostalgic-train.json) |
 | Nostoi | 105006 | [105006-nostoi.json](./105006-nostoi.json) |
