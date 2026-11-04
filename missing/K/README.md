@@ -2746,7 +2746,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3907,6 +3906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kita he: White Illumination | 237433 | [237433-kita-he-white-illumination.json](./237433-kita-he-white-illumination.json) |
 | Kita he. Diamond Dust + Kiss is Beginning. | 60399 | [60399-kita-he-diamond-dust-kiss-is-beginning.json](./60399-kita-he-diamond-dust-kiss-is-beginning.json) |
 | Kita he.: Diamond Dust | 60400 | [60400-kita-he-diamond-dust.json](./60400-kita-he-diamond-dust.json) |
+| Kita no Chi to Hitori no Shoujo: Koropokkuru no Negai | 298737 | [298737-kita-no-chi-to-hitori-no-shoujo-koropokkuru-no-negai.json](./298737-kita-no-chi-to-hitori-no-shoujo-koropokkuru-no-negai.json) |
 | Kitan Iwanaga | 225527 | [225527-kitan-iwanaga.json](./225527-kitan-iwanaga.json) |
 | Kitari and Kimoshi | 223431 | [223431-kitari-and-kimoshi.json](./223431-kitari-and-kimoshi.json) |
 | Kitaria Fables | 144542 | [144542-kitaria-fables.json](./144542-kitaria-fables.json) |
@@ -6009,6 +6009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuon no Kizuna | 85811 | [85811-kuon-no-kizuna.json](./85811-kuon-no-kizuna.json) |
 | Kuon no Kizuna: Sairinshou | 64659 | [64659-kuon-no-kizuna-sairinshou.json](./64659-kuon-no-kizuna-sairinshou.json) |
 | Kupala | 392713 | [392713-kupala.json](./392713-kupala.json) |
+| Kupala Night | 298505 | [298505-kupala-night.json](./298505-kupala-night.json) |
 | Kupechestvo | 190211 | [190211-kupechestvo.json](./190211-kupechestvo.json) |
 | Kupimon | 261979 | [261979-kupimon.json](./261979-kupimon.json) |
 | Kupu!! Mamegoma! | 67742 | [67742-kupu-mamegoma.json](./67742-kupu-mamegoma.json) |
