@@ -8317,6 +8317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DiceyTable | 422531 | [422531-diceytable.json](./422531-diceytable.json) |
 | Dichotomy | 161159 | [161159-dichotomy.json](./161159-dichotomy.json) |
 | Dichotomy | 344580 | [344580-dichotomy.json](./344580-dichotomy.json) |
+| Dichotomy Illusion: The Coser Disassembly Incident | 348124 | [348124-dichotomy-illusion-the-coser-disassembly-incident.json](./348124-dichotomy-illusion-the-coser-disassembly-incident.json) |
 | Dichromatic | 184926 | [184926-dichromatic.json](./184926-dichromatic.json) |
 | Dicing Knight. | 73157 | [73157-dicing-knight.json](./73157-dicing-knight.json) |
 | Dick and Dom's Hoopla! | 304208 | [304208-dick-and-doms-hoopla.json](./304208-dick-and-doms-hoopla.json) |
@@ -9572,6 +9573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disappearance of the Literature Club | 333611 | [333611-disappearance-of-the-literature-club.json](./333611-disappearance-of-the-literature-club.json) |
 | Disappearance Time | 71012 | [71012-disappearance-time.json](./71012-disappearance-time.json) |
 | Disappearance: Takeshi. You were right. That Abandoned Village is Too Bad | 283096 | [283096-disappearance-takeshi-you-were-right-that-abandoned-village-is-too-bad.json](./283096-disappearance-takeshi-you-were-right-that-abandoned-village-is-too-bad.json) |
+| Disappeared | 348120 | [348120-disappeared.json](./348120-disappeared.json) |
 | Disarmed | 158866 | [158866-disarmed.json](./158866-disarmed.json) |
 | Disassembly 3D | 75660 | [75660-disassembly-3d.json](./75660-disassembly-3d.json) |
 | Disassembly Line | 77161 | [77161-disassembly-line.json](./77161-disassembly-line.json) |
@@ -10397,6 +10399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distorted: The Living Manor | 395640 | [395640-distorted-the-living-manor.json](./395640-distorted-the-living-manor.json) |
 | Distortion Nation | 135048 | [135048-distortion-nation.json](./135048-distortion-nation.json) |
 | Distraction Machine | 204226 | [204226-distraction-machine.json](./204226-distraction-machine.json) |
+| Distractor | 347986 | [347986-distractor.json](./347986-distractor.json) |
 | Distraint | 13664 | [13664-distraint.json](./13664-distraint.json) |
 | Distraint Collection | 186910 | [186910-distraint-collection.json](./186910-distraint-collection.json) |
 | Distraint: Deluxe Edition | 100761 | [100761-distraint-deluxe-edition.json](./100761-distraint-deluxe-edition.json) |
@@ -16203,6 +16206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Zero Gravity | 35495 | [35495-drone-zero-gravity.json](./35495-drone-zero-gravity.json) |
 | Drone Zone | 164068 | [164068-drone-zone.json](./164068-drone-zone.json) |
 | Drone-Locked | 374100 | [374100-drone-locked.json](./374100-drone-locked.json) |
+| Drone: Modern Warfare | 348001 | [348001-drone-modern-warfare.json](./348001-drone-modern-warfare.json) |
 | Drone: Remote Tactical Warfare | 43173 | [43173-drone-remote-tactical-warfare.json](./43173-drone-remote-tactical-warfare.json) |
 | Droned | 207738 | [207738-droned.json](./207738-droned.json) |
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
