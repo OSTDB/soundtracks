@@ -4900,6 +4900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak Bundle | 83761 | [83761-outbreak-bundle.json](./83761-outbreak-bundle.json) |
 | Outbreak Co-Op Anthology | 164710 | [164710-outbreak-co-op-anthology.json](./164710-outbreak-co-op-anthology.json) |
 | Outbreak Contagion Co-Op Collection | 340740 | [340740-outbreak-contagion-co-op-collection.json](./340740-outbreak-contagion-co-op-collection.json) |
+| Outbreak Contagion Complete Collection | 341383 | [341383-outbreak-contagion-complete-collection.json](./341383-outbreak-contagion-complete-collection.json) |
 | Outbreak Definitive Collection | 164738 | [164738-outbreak-definitive-collection.json](./164738-outbreak-definitive-collection.json) |
 | Outbreak Diamond Collection | 200177 | [200177-outbreak-diamond-collection.json](./200177-outbreak-diamond-collection.json) |
 | Outbreak in Space VR | 81956 | [81956-outbreak-in-space-vr.json](./81956-outbreak-in-space-vr.json) |
