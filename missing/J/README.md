@@ -4024,6 +4024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Survive Test Server | 83885 | [83885-just-survive-test-server.json](./83885-just-survive-test-server.json) |
 | Just Take Your Left | 148542 | [148542-just-take-your-left.json](./148542-just-take-your-left.json) |
 | Just Thanks | 267905 | [267905-just-thanks.json](./267905-just-thanks.json) |
+| Just the Boss Fights | 337366 | [337366-just-the-boss-fights.json](./337366-just-the-boss-fights.json) |
 | Just the Two of Us | 264756 | [264756-just-the-two-of-us.json](./264756-just-the-two-of-us.json) |
 | Just Touch The WhiteBox!!! | 262355 | [262355-just-touch-the-whitebox.json](./262355-just-touch-the-whitebox.json) |
 | Just Turn Right | 246252 | [246252-just-turn-right.json](./246252-just-turn-right.json) |
