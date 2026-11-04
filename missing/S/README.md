@@ -4323,6 +4323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Crossing | 225647 | [225647-secret-crossing.json](./225647-secret-crossing.json) |
 | Secret Crush: Unrequited Love | 370279 | [370279-secret-crush-unrequited-love.json](./370279-secret-crush-unrequited-love.json) |
 | Secret Diaries: Manage a Manor | 234101 | [234101-secret-diaries-manage-a-manor.json](./234101-secret-diaries-manage-a-manor.json) |
+| Secret Diaries: Royal Wedding | 336974 | [336974-secret-diaries-royal-wedding.json](./336974-secret-diaries-royal-wedding.json) |
 | Secret Dimension | 234103 | [234103-secret-dimension.json](./234103-secret-dimension.json) |
 | Secret Doctrine | 46556 | [46556-secret-doctrine.json](./46556-secret-doctrine.json) |
 | Secret Empires of the Ancient World | 84857 | [84857-secret-empires-of-the-ancient-world.json](./84857-secret-empires-of-the-ancient-world.json) |
@@ -6564,6 +6565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Storm | 331312 | [331312-shadow-storm.json](./331312-shadow-storm.json) |
 | Shadow Strike: Street Combat | 276613 | [276613-shadow-strike-street-combat.json](./276613-shadow-strike-street-combat.json) |
 | Shadow Strikers | 270194 | [270194-shadow-strikers.json](./270194-shadow-strikers.json) |
+| Shadow Strikers: Arena of Rivals | 336844 | [336844-shadow-strikers-arena-of-rivals.json](./336844-shadow-strikers-arena-of-rivals.json) |
 | Shadow Survival | 219602 | [219602-shadow-survival.json](./219602-shadow-survival.json) |
 | Shadow Tactics: Aiko's Choice - Deluxe Edition | 331844 | [331844-shadow-tactics-aikos-choice-deluxe-edition.json](./331844-shadow-tactics-aikos-choice-deluxe-edition.json) |
 | Shadow Tactics: Anniversary Bundle | 186540 | [186540-shadow-tactics-anniversary-bundle.json](./186540-shadow-tactics-anniversary-bundle.json) |
@@ -8557,6 +8559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sho Chiku Bai Pachinko | 41526 | [41526-sho-chiku-bai-pachinko.json](./41526-sho-chiku-bai-pachinko.json) |
 | Shoal | 172039 | [172039-shoal.json](./172039-shoal.json) |
 | Shoalroot | 225492 | [225492-shoalroot.json](./225492-shoalroot.json) |
+| Shobatsu | 336977 | [336977-shobatsu.json](./336977-shobatsu.json) |
 | Shobon no Action | 78662 | [78662-shobon-no-action.json](./78662-shobon-no-action.json) |
 | Shobon no Rukimin! DX: Shobomi to Yuki no Tiara | 206541 | [206541-shobon-no-rukimin-dx-shobomi-to-yuki-no-tiara.json](./206541-shobon-no-rukimin-dx-shobomi-to-yuki-no-tiara.json) |
 | Shock | 287552 | [287552-shock.json](./287552-shock.json) |
@@ -10656,6 +10659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple DS Series Vol. 44: The Gal Mahjong | 63620 | [63620-simple-ds-series-vol-44-the-gal-mahjong.json](./63620-simple-ds-series-vol-44-the-gal-mahjong.json) |
 | Simple DS Series Vol. 9: Atama ga Yoku Naru - The Me no Training | 203403 | [203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json](./203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json) |
 | Simple DS Series Vol.48: The Saibanin - 1-tsu no Shinjitsu, 6-tsu no Kotae | 63622 | [63622-simple-ds-series-vol-48-the-saibanin-1-tsu-no-shinjitsu-6-tsu-no-kotae.json](./63622-simple-ds-series-vol-48-the-saibanin-1-tsu-no-shinjitsu-6-tsu-no-kotae.json) |
+| Simple Duel | 336976 | [336976-simple-duel.json](./336976-simple-duel.json) |
 | Simple Farm | 143982 | [143982-simple-farm.json](./143982-simple-farm.json) |
 | Simple Fear | 157046 | [157046-simple-fear.json](./157046-simple-fear.json) |
 | Simple Fight 2 | 310135 | [310135-simple-fight-2.json](./310135-simple-fight-2.json) |
@@ -18109,6 +18113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Novel: Machi | 8169 | [8169-sound-novel-machi.json](./8169-sound-novel-machi.json) |
 | Sound of Drop: Fall into Poison | 19279 | [19279-sound-of-drop-fall-into-poison.json](./19279-sound-of-drop-fall-into-poison.json) |
 | Sound of Horses | 357859 | [357859-sound-of-horses.json](./357859-sound-of-horses.json) |
+| Sound of Slash | 336843 | [336843-sound-of-slash.json](./336843-sound-of-slash.json) |
 | Sound of Summer Thunder | 360669 | [360669-sound-of-summer-thunder.json](./360669-sound-of-summer-thunder.json) |
 | Sound of Survival | 370064 | [370064-sound-of-survival.json](./370064-sound-of-survival.json) |
 | Sound of the Sky: Maiden Quintet | 140854 | [140854-sound-of-the-sky-maiden-quintet.json](./140854-sound-of-the-sky-maiden-quintet.json) |
