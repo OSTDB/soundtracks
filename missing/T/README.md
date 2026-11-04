@@ -5687,6 +5687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Angry Video Game Nerd K.O. Boxing | 195569 | [195569-the-angry-video-game-nerd-k-o-boxing.json](./195569-the-angry-video-game-nerd-k-o-boxing.json) |
 | The Angry Viking | 59068 | [59068-the-angry-viking.json](./59068-the-angry-viking.json) |
 | The Animal Detectives | 206190 | [206190-the-animal-detectives.json](./206190-the-animal-detectives.json) |
+| The Animal Game | 311430 | [311430-the-animal-game.json](./311430-the-animal-game.json) |
 | The Animal Half | 97986 | [97986-the-animal-half.json](./97986-the-animal-half.json) |
 | The Animals of Farthing Wood | 364539 | [364539-the-animals-of-farthing-wood.json](./364539-the-animals-of-farthing-wood.json) |
 | The Animation Classics Pack | 85708 | [85708-the-animation-classics-pack.json](./85708-the-animation-classics-pack.json) |
@@ -7281,6 +7282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Computer Spiele Museum's Museum Guide | 254510 | [254510-the-computer-spiele-museums-museum-guide.json](./254510-the-computer-spiele-museums-museum-guide.json) |
 | The Comyths | 397078 | [397078-the-comyths.json](./397078-the-comyths.json) |
 | The Con Simulator | 100559 | [100559-the-con-simulator.json](./100559-the-con-simulator.json) |
+| The Concentration of Lust | 311448 | [311448-the-concentration-of-lust.json](./311448-the-concentration-of-lust.json) |
 | The Concept | 334265 | [334265-the-concept.json](./334265-the-concept.json) |
 | The Concierge | 134325 | [134325-the-concierge.json](./134325-the-concierge.json) |
 | The Concourse | 32675 | [32675-the-concourse.json](./32675-the-concourse.json) |
@@ -23867,6 +23869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Snap | 114919 | [114919-tokyo-snap.json](./114919-tokyo-snap.json) |
 | Tokyo Stranger | 220700 | [220700-tokyo-stranger.json](./220700-tokyo-stranger.json) |
 | Tokyo Tattoo Girls | 27260 | [27260-tokyo-tattoo-girls.json](./27260-tokyo-tattoo-girls.json) |
+| Tokyo Train 4 | 311452 | [311452-tokyo-train-4.json](./311452-tokyo-train-4.json) |
 | Tokyo Trigger | 361274 | [361274-tokyo-trigger.json](./361274-tokyo-trigger.json) |
 | Tokyo Twilight Busters | 69184 | [69184-tokyo-twilight-busters.json](./69184-tokyo-twilight-busters.json) |
 | Tokyo Twilight Ghost Hunters | 12195 | [12195-tokyo-twilight-ghost-hunters.json](./12195-tokyo-twilight-ghost-hunters.json) |
@@ -32325,6 +32328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type To Kill | 396696 | [396696-type-to-kill.json](./396696-type-to-kill.json) |
 | Type to Learn 3 | 186073 | [186073-type-to-learn-3.json](./186073-type-to-learn-3.json) |
 | Type To Report | 308045 | [308045-type-to-report.json](./308045-type-to-report.json) |
+| Type-Noise: Shonen Shojo | 311410 | [311410-type-noise-shonen-shojo.json](./311410-type-noise-shonen-shojo.json) |
 | Type-Rope | 98219 | [98219-type-rope.json](./98219-type-rope.json) |
 | Type: Jump | 242076 | [242076-type-jump.json](./242076-type-jump.json) |
 | Type: Rider | 16765 | [16765-type-rider.json](./16765-type-rider.json) |
