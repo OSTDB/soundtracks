@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quack Magic | 338649 | [338649-quack-magic.json](./338649-quack-magic.json) |
 | Quack my Duck | 258392 | [258392-quack-my-duck.json](./258392-quack-my-duck.json) |
 | Quack Quack Up | 402884 | [402884-quack-quack-up.json](./402884-quack-quack-up.json) |
+| Quackdzilla: Pool Cleaning Simulator | 302003 | [302003-quackdzilla-pool-cleaning-simulator.json](./302003-quackdzilla-pool-cleaning-simulator.json) |
 | Quacker Blaster | 63286 | [63286-quacker-blaster.json](./63286-quacker-blaster.json) |
 | Quacker Bros: First Heist | 310346 | [310346-quacker-bros-first-heist.json](./310346-quacker-bros-first-heist.json) |
 | QuackShot Starring Donald Duck | 8446 | [8446-quackshot-starring-donald-duck.json](./8446-quackshot-starring-donald-duck.json) |
@@ -871,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest of Jackal: Puzzle game | 113882 | [113882-quest-of-jackal-puzzle-game.json](./113882-quest-of-jackal-puzzle-game.json) |
 | Quest of Legend | 334202 | [334202-quest-of-legend.json](./334202-quest-of-legend.json) |
 | Quest of Lost Memories | 299002 | [299002-quest-of-lost-memories.json](./299002-quest-of-lost-memories.json) |
+| Quest of Peril | 303959 | [303959-quest-of-peril.json](./303959-quest-of-peril.json) |
 | Quest of Persia: Lotfali Khan Zand | 191672 | [191672-quest-of-persia-lotfali-khan-zand.json](./191672-quest-of-persia-lotfali-khan-zand.json) |
 | Quest of Persia: Nader's Blade | 68410 | [68410-quest-of-persia-naders-blade.json](./68410-quest-of-persia-naders-blade.json) |
 | Quest of Persia: The End of Innocence | 191671 | [191671-quest-of-persia-the-end-of-innocence.json](./191671-quest-of-persia-the-end-of-innocence.json) |
