@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie HQ | 343749 | [343749-zombie-hq.json](./343749-zombie-hq.json) |
 | Zombie Hunter | 171354 | [171354-zombie-hunter.json](./171354-zombie-hunter.json) |
 | Zombie Hunter | 220741 | [220741-zombie-hunter.json](./220741-zombie-hunter.json) |
+| Zombie Hunter | 345771 | [345771-zombie-hunter.json](./345771-zombie-hunter.json) |
 | Zombie Hunter | 377130 | [377130-zombie-hunter.json](./377130-zombie-hunter.json) |
 | Zombie Hunter | 48623 | [48623-zombie-hunter.json](./48623-zombie-hunter.json) |
 | Zombie Hunter King | 105867 | [105867-zombie-hunter-king.json](./105867-zombie-hunter-king.json) |
