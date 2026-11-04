@@ -4301,6 +4301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catio Simulator | 368989 | [368989-catio-simulator.json](./368989-catio-simulator.json) |
 | Catizens | 153167 | [153167-catizens.json](./153167-catizens.json) |
 | Catjam | 419928 | [419928-catjam.json](./419928-catjam.json) |
+| Catjinni Survivors | 341805 | [341805-catjinni-survivors.json](./341805-catjinni-survivors.json) |
 | Catjong 2: Pawprints in the Snow | 402101 | [402101-catjong-2-pawprints-in-the-snow.json](./402101-catjong-2-pawprints-in-the-snow.json) |
 | Catjong 3: Purrl of the East | 393825 | [393825-catjong-3-purrl-of-the-east.json](./393825-catjong-3-purrl-of-the-east.json) |
 | Catjong 5: Paw Canyon | 402100 | [402100-catjong-5-paw-canyon.json](./402100-catjong-5-paw-canyon.json) |
@@ -18532,6 +18533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuentos Inconclusos | 320138 | [320138-cuentos-inconclusos.json](./320138-cuentos-inconclusos.json) |
 | Cues: Creator Update | 380562 | [380562-cues-creator-update.json](./380562-cues-creator-update.json) |
 | Cuffbust | 305005 | [305005-cuffbust.json](./305005-cuffbust.json) |
+| Cuffed | 341794 | [341794-cuffed.json](./341794-cuffed.json) |
 | Cuffed | 406659 | [406659-cuffed.json](./406659-cuffed.json) |
 | Cuisine Dimension | 112049 | [112049-cuisine-dimension.json](./112049-cuisine-dimension.json) |
 | Cuisine Master VR | 358883 | [358883-cuisine-master-vr.json](./358883-cuisine-master-vr.json) |
