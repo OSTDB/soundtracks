@@ -6342,6 +6342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Biggest Loser | 48035 | [48035-the-biggest-loser.json](./48035-the-biggest-loser.json) |
 | The Biggest Loser Challenge | 51003 | [51003-the-biggest-loser-challenge.json](./51003-the-biggest-loser-challenge.json) |
 | The Biggest Loser: Ultimate Workout | 20168 | [20168-the-biggest-loser-ultimate-workout.json](./20168-the-biggest-loser-ultimate-workout.json) |
+| The Biggleboss Incident | 309301 | [309301-the-biggleboss-incident.json](./309301-the-biggleboss-incident.json) |
 | The Bigs 2 | 210441 | [210441-the-bigs-2.json](./210441-the-bigs-2.json) |
 | The Bigs 2 | 4716 | [4716-the-bigs-2.json](./4716-the-bigs-2.json) |
 | The Bike: Moto Ride Simulator | 288163 | [288163-the-bike-moto-ride-simulator.json](./288163-the-bike-moto-ride-simulator.json) |
@@ -8208,6 +8209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doom Beneath | 175429 | [175429-the-doom-beneath.json](./175429-the-doom-beneath.json) |
 | The Doom Brutalist Community Project | 401315 | [401315-the-doom-brutalist-community-project.json](./401315-the-doom-brutalist-community-project.json) |
 | The Doom Collection | 420339 | [420339-the-doom-collection.json](./420339-the-doom-collection.json) |
+| The Doomed Cathedral | 309279 | [309279-the-doomed-cathedral.json](./309279-the-doomed-cathedral.json) |
 | The Doomed Knight | 149268 | [149268-the-doomed-knight.json](./149268-the-doomed-knight.json) |
 | The Doomsday Crisis Line | 176763 | [176763-the-doomsday-crisis-line.json](./176763-the-doomsday-crisis-line.json) |
 | The Doomsland: Survivors | 245202 | [245202-the-doomsland-survivors.json](./245202-the-doomsland-survivors.json) |
@@ -12260,6 +12262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Chao | 331776 | [331776-the-legend-of-the-chao.json](./331776-the-legend-of-the-chao.json) |
 | The Legend of the Dragonflame High School | 54849 | [54849-the-legend-of-the-dragonflame-high-school.json](./54849-the-legend-of-the-dragonflame-high-school.json) |
 | The Legend of the Dragonflame High School 2 | 115380 | [115380-the-legend-of-the-dragonflame-high-school-2.json](./115380-the-legend-of-the-dragonflame-high-school-2.json) |
+| The Legend of the Dragonflame High School 3 | 309289 | [309289-the-legend-of-the-dragonflame-high-school-3.json](./309289-the-legend-of-the-dragonflame-high-school-3.json) |
 | The Legend of the Dragonflame: Highschool Collection | 200828 | [200828-the-legend-of-the-dragonflame-highschool-collection.json](./200828-the-legend-of-the-dragonflame-highschool-collection.json) |
 | The Legend of The Duck Knite | 117507 | [117507-the-legend-of-the-duck-knite.json](./117507-the-legend-of-the-duck-knite.json) |
 | The Legend of the Heroes of the Water Margin | 330499 | [330499-the-legend-of-the-heroes-of-the-water-margin.json](./330499-the-legend-of-the-heroes-of-the-water-margin.json) |
@@ -17548,6 +17551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trash Pack | 138505 | [138505-the-trash-pack.json](./138505-the-trash-pack.json) |
 | The Trash Pack: The Gross Gang in Your Garbage | 9752 | [9752-the-trash-pack-the-gross-gang-in-your-garbage.json](./9752-the-trash-pack-the-gross-gang-in-your-garbage.json) |
 | The Trashcan Games | 302060 | [302060-the-trashcan-games.json](./302060-the-trashcan-games.json) |
+| The Traveler | 309305 | [309305-the-traveler.json](./309305-the-traveler.json) |
 | The Traveler's Path | 236124 | [236124-the-travelers-path.json](./236124-the-travelers-path.json) |
 | The Travelers | 327750 | [327750-the-travelers.json](./327750-the-travelers.json) |
 | The Traveling Witch in Animal Town | 388386 | [388386-the-traveling-witch-in-animal-town.json](./388386-the-traveling-witch-in-animal-town.json) |
@@ -24629,6 +24633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toolkid Creation | 310664 | [310664-toolkid-creation.json](./310664-toolkid-creation.json) |
 | Toolnich Village | 190376 | [190376-toolnich-village.json](./190376-toolnich-village.json) |
 | Tools Up! | 118357 | [118357-tools-up.json](./118357-tools-up.json) |
+| Tools Up! + Ready, Steady Ship! Bundle | 309290 | [309290-tools-up-ready-steady-ship-bundle.json](./309290-tools-up-ready-steady-ship-bundle.json) |
 | Tools Up! Garden Party: Episode 1 - The Tree House | 169280 | [169280-tools-up-garden-party-episode-1-the-tree-house.json](./169280-tools-up-garden-party-episode-1-the-tree-house.json) |
 | Tools Up! Garden Party: Episode 2 - Tunnel Vision | 169281 | [169281-tools-up-garden-party-episode-2-tunnel-vision.json](./169281-tools-up-garden-party-episode-2-tunnel-vision.json) |
 | Tools Up! Garden Party: Episode 3 - Home Sweet Home | 169279 | [169279-tools-up-garden-party-episode-3-home-sweet-home.json](./169279-tools-up-garden-party-episode-3-home-sweet-home.json) |
