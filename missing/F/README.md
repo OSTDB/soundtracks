@@ -10251,6 +10251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Cookies | 74835 | [74835-fortune-cookies.json](./74835-fortune-cookies.json) |
 | Fortune Crafter | 369711 | [369711-fortune-crafter.json](./369711-fortune-crafter.json) |
 | Fortune Decker | 270743 | [270743-fortune-decker.json](./270743-fortune-decker.json) |
+| Fortune Detective | 301485 | [301485-fortune-detective.json](./301485-fortune-detective.json) |
 | Fortune Factory | 413873 | [413873-fortune-factory.json](./413873-fortune-factory.json) |
 | Fortune Familia | 235917 | [235917-fortune-familia.json](./235917-fortune-familia.json) |
 | Fortune Follow: The Mansion | 243301 | [243301-fortune-follow-the-mansion.json](./243301-fortune-follow-the-mansion.json) |
@@ -10600,6 +10601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foviki Empieria | 258636 | [258636-foviki-empieria.json](./258636-foviki-empieria.json) |
 | Fovos VR | 29907 | [29907-fovos-vr.json](./29907-fovos-vr.json) |
 | Fowl Magic | 121543 | [121543-fowl-magic.json](./121543-fowl-magic.json) |
+| Fowl Play | 301476 | [301476-fowl-play.json](./301476-fowl-play.json) |
 | Fowl Scourge | 201238 | [201238-fowl-scourge.json](./201238-fowl-scourge.json) |
 | Fowl Swarm | 295837 | [295837-fowl-swarm.json](./295837-fowl-swarm.json) |
 | Fowl Words 2: Trouble at the Chicken Ranch! | 69690 | [69690-fowl-words-2-trouble-at-the-chicken-ranch.json](./69690-fowl-words-2-trouble-at-the-chicken-ranch.json) |
