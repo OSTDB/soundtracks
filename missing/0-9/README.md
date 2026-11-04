@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18 Dreamers | 214285 | [214285-18-dreamers.json](./214285-18-dreamers.json) |
 | 18 Floors | 411268 | [411268-18-floors.json](./411268-18-floors.json) |
 | 18 Holes Pro Golf | 313989 | [313989-18-holes-pro-golf.json](./313989-18-holes-pro-golf.json) |
+| 18 in 1: Family Games Giga Pack | 330435 | [330435-18-in-1-family-games-giga-pack.json](./330435-18-in-1-family-games-giga-pack.json) |
 | 18 Levels of Hells | 409093 | [409093-18-levels-of-hells.json](./409093-18-levels-of-hells.json) |
 | 18 Rooms to Home | 58700 | [58700-18-rooms-to-home.json](./58700-18-rooms-to-home.json) |
 | 18 Wheeler: American Pro Trucker | 3706 | [3706-18-wheeler-american-pro-trucker.json](./3706-18-wheeler-american-pro-trucker.json) |
