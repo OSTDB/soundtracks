@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xavix Bowling | 267372 | [267372-xavix-bowling.json](./267372-xavix-bowling.json) |
 | XaviX Tennis | 348923 | [348923-xavix-tennis.json](./348923-xavix-tennis.json) |
 | Xaxa Machine | 270503 | [270503-xaxa-machine.json](./270503-xaxa-machine.json) |
+| XBall | 337927 | [337927-xball.json](./337927-xball.json) |
 | XBall Champion | 86232 | [86232-xball-champion.json](./86232-xball-champion.json) |
 | XBattle | 192104 | [192104-xbattle.json](./192104-xbattle.json) |
 | Xbird | 28424 | [28424-xbird.json](./28424-xbird.json) |
@@ -580,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xeno Tactic | 388112 | [388112-xeno-tactic.json](./388112-xeno-tactic.json) |
 | Xeno TD | 319292 | [319292-xeno-td.json](./319292-xeno-td.json) |
 | Xeno Time Inception | 104938 | [104938-xeno-time-inception.json](./104938-xeno-time-inception.json) |
+| Xeno Wipeout! | 337926 | [337926-xeno-wipeout.json](./337926-xeno-wipeout.json) |
 | Xeno: Summoner | 199899 | [199899-xeno-summoner.json](./199899-xeno-summoner.json) |
 | Xeno's Adventure | 357259 | [357259-xenos-adventure.json](./357259-xenos-adventure.json) |
 | Xenoage Plus | 145605 | [145605-xenoage-plus.json](./145605-xenoage-plus.json) |
@@ -724,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xexis | 312903 | [312903-xexis.json](./312903-xexis.json) |
 | Xexyz | 14413 | [14413-xexyz.json](./14413-xexyz.json) |
 | Xeyyex | 288458 | [288458-xeyyex.json](./288458-xeyyex.json) |
+| Xeyyex II: Colour Wars | 337925 | [337925-xeyyex-ii-colour-wars.json](./337925-xeyyex-ii-colour-wars.json) |
 | Xezi: Story Mode | 23861 | [23861-xezi-story-mode.json](./23861-xezi-story-mode.json) |
 | XF: Football Arena | 193869 | [193869-xf-football-arena.json](./193869-xf-football-arena.json) |
 | XF5700 Mantis Experimental Fighter | 93316 | [93316-xf5700-mantis-experimental-fighter.json](./93316-xf5700-mantis-experimental-fighter.json) |
@@ -790,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XIII Century: Blood of Europe | 9311 | [9311-xiii-century-blood-of-europe.json](./9311-xiii-century-blood-of-europe.json) |
 | XIII Century: Death or Glory | 9860 | [9860-xiii-century-death-or-glory.json](./9860-xiii-century-death-or-glory.json) |
 | XIII Century: Gold Edition | 27847 | [27847-xiii-century-gold-edition.json](./27847-xiii-century-gold-edition.json) |
+| XIII: A Final Game of Tarot With Death | 337924 | [337924-xiii-a-final-game-of-tarot-with-death.json](./337924-xiii-a-final-game-of-tarot-with-death.json) |
 | XIII: Lost Identity | 53101 | [53101-xiii-lost-identity.json](./53101-xiii-lost-identity.json) |
 | XIIZeal | 35573 | [35573-xiizeal.json](./35573-xiizeal.json) |
 | Xile | 54731 | [54731-xile.json](./54731-xile.json) |
