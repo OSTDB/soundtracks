@@ -6922,6 +6922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Wiggle | 54656 | [54656-chicken-wiggle.json](./54656-chicken-wiggle.json) |
 | Chicken with Chainguns | 74664 | [74664-chicken-with-chainguns.json](./74664-chicken-with-chainguns.json) |
 | Chicken with Dynamites | 174570 | [174570-chicken-with-dynamites.json](./174570-chicken-with-dynamites.json) |
+| Chicken with Robot Legs | 306297 | [306297-chicken-with-robot-legs.json](./306297-chicken-with-robot-legs.json) |
 | Chicken! | 152982 | [152982-chicken.json](./152982-chicken.json) |
 | Chicken's Revenge | 206969 | [206969-chickens-revenge.json](./206969-chickens-revenge.json) |
 | Chicken's Run | 181922 | [181922-chickens-run.json](./181922-chickens-run.json) |
@@ -8114,6 +8115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronique des Silencieux | 218671 | [218671-chronique-des-silencieux.json](./218671-chronique-des-silencieux.json) |
 | Chroniric | 107251 | [107251-chroniric.json](./107251-chroniric.json) |
 | Chrono | 112964 | [112964-chrono.json](./112964-chrono.json) |
+| Chrono | 306284 | [306284-chrono.json](./306284-chrono.json) |
 | Chrono | 341329 | [341329-chrono.json](./341329-chrono.json) |
 | Chrono Ark: Deluxe Edition | 367728 | [367728-chrono-ark-deluxe-edition.json](./367728-chrono-ark-deluxe-edition.json) |
 | Chrono Ark: High Roller | 314900 | [314900-chrono-ark-high-roller.json](./314900-chrono-ark-high-roller.json) |
@@ -8934,6 +8936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Fighter | 59641 | [59641-city-fighter.json](./59641-city-fighter.json) |
 | City Fighter vs Street Gang | 220188 | [220188-city-fighter-vs-street-gang.json](./220188-city-fighter-vs-street-gang.json) |
 | City Fighter: Vertical Limit | 237626 | [237626-city-fighter-vertical-limit.json](./237626-city-fighter-vertical-limit.json) |
+| City Find All | 306274 | [306274-city-find-all.json](./306274-city-find-all.json) |
 | City Full Of Alien Scum | 272025 | [272025-city-full-of-alien-scum.json](./272025-city-full-of-alien-scum.json) |
 | City Game Studio | 74956 | [74956-city-game-studio.json](./74956-city-game-studio.json) |
 | City Gangs War in Miami | 369315 | [369315-city-gangs-war-in-miami.json](./369315-city-gangs-war-in-miami.json) |
@@ -9958,6 +9961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clim Snail | 379017 | [379017-clim-snail.json](./379017-clim-snail.json) |
 | Climate State | 208671 | [208671-climate-state.json](./208671-climate-state.json) |
 | Climate Station | 350384 | [350384-climate-station.json](./350384-climate-station.json) |
+| Climate Survivors | 306307 | [306307-climate-survivors.json](./306307-climate-survivors.json) |
 | Climatic Survival: Northern Storm | 121485 | [121485-climatic-survival-northern-storm.json](./121485-climatic-survival-northern-storm.json) |
 | Climax Landers: Motte ke! Minige Campaign | 283331 | [283331-climax-landers-motte-ke-minige-campaign.json](./283331-climax-landers-motte-ke-minige-campaign.json) |
 | Climb | 103965 | [103965-climb.json](./103965-climb.json) |
@@ -19227,6 +19231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursedland | 359203 | [359203-cursedland.json](./359203-cursedland.json) |
 | Cursedom | 400531 | [400531-cursedom.json](./400531-cursedom.json) |
 | CursedSword | 235195 | [235195-cursedsword.json](./235195-cursedsword.json) |
+| Cursedville | 306277 | [306277-cursedville.json](./306277-cursedville.json) |
 | Cursery: The Crooked Man and the Crooked Cat | 139772 | [139772-cursery-the-crooked-man-and-the-crooked-cat.json](./139772-cursery-the-crooked-man-and-the-crooked-cat.json) |
 | Cursery: The Crooked Man and the Crooked Cat - Collector's Edition | 28676 | [28676-cursery-the-crooked-man-and-the-crooked-cat-collectors-edition.json](./28676-cursery-the-crooked-man-and-the-crooked-cat-collectors-edition.json) |
 | Curses | 346510 | [346510-curses.json](./346510-curses.json) |
