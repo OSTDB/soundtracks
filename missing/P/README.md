@@ -3167,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawbay | 381357 | [381357-pawbay.json](./381357-pawbay.json) |
 | Pawelek the Game. | 320035 | [320035-pawelek-the-game.json](./320035-pawelek-the-game.json) |
 | Pawfect Cat Mansion | 314862 | [314862-pawfect-cat-mansion.json](./314862-pawfect-cat-mansion.json) |
+| Pawfect Cat Mansion: Deluxe Edition | 320677 | [320677-pawfect-cat-mansion-deluxe-edition.json](./320677-pawfect-cat-mansion-deluxe-edition.json) |
 | Pawfectly Designed | 275449 | [275449-pawfectly-designed.json](./275449-pawfectly-designed.json) |
 | Pawfectly Designed: Deluxe Edition | 312062 | [312062-pawfectly-designed-deluxe-edition.json](./312062-pawfectly-designed-deluxe-edition.json) |
 | Pawfectly Designed: Extended Edition | 280066 | [280066-pawfectly-designed-extended-edition.json](./280066-pawfectly-designed-extended-edition.json) |
