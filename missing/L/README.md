@@ -1580,7 +1580,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night Fears | 405939 | [405939-late-night-fears.json](./405939-late-night-fears.json) |
 | Late Night Gas Station | 205989 | [205989-late-night-gas-station.json](./205989-late-night-gas-station.json) |
 | Late Night Hunger | 304092 | [304092-late-night-hunger.json](./304092-late-night-hunger.json) |
+| Late Night Luigi | 322922 | [322922-late-night-luigi.json](./322922-late-night-luigi.json) |
 | Late Night Manifest | 408583 | [408583-late-night-manifest.json](./408583-late-night-manifest.json) |
+| Late Night Mario | 322920 | [322920-late-night-mario.json](./322920-late-night-mario.json) |
+| Late Night Mario 2 | 322921 | [322921-late-night-mario-2.json](./322921-late-night-mario-2.json) |
+| Late Night Mario 3 | 322919 | [322919-late-night-mario-3.json](./322919-late-night-mario-3.json) |
 | Late Night Mop | 218953 | [218953-late-night-mop.json](./218953-late-night-mop.json) |
 | Late Night Mop: Minimum Wage | 376605 | [376605-late-night-mop-minimum-wage.json](./376605-late-night-mop-minimum-wage.json) |
 | Late Night Sausage | 321475 | [321475-late-night-sausage.json](./321475-late-night-sausage.json) |
@@ -2900,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legionwood: Tale of the Two Swords | 33016 | [33016-legionwood-tale-of-the-two-swords.json](./33016-legionwood-tale-of-the-two-swords.json) |
 | Legitimate Space Corp Simulator LLC | 347291 | [347291-legitimate-space-corp-simulator-llc.json](./347291-legitimate-space-corp-simulator-llc.json) |
 | Legna Tactica | 26666 | [26666-legna-tactica.json](./26666-legna-tactica.json) |
+| Lego 2K Drive: Aquadirt Racer Pack | 323088 | [323088-lego-2k-drive-aquadirt-racer-pack.json](./323088-lego-2k-drive-aquadirt-racer-pack.json) |
 | LEGO 2K Drive: Awesome Edition | 242494 | [242494-lego-2k-drive-awesome-edition.json](./242494-lego-2k-drive-awesome-edition.json) |
 | LEGO 2K Drive: Awesome Rivals Edition | 242495 | [242495-lego-2k-drive-awesome-rivals-edition.json](./242495-lego-2k-drive-awesome-rivals-edition.json) |
 | LEGO 2K Drive: Premium Drive Pass Season 2 | 268591 | [268591-lego-2k-drive-premium-drive-pass-season-2.json](./268591-lego-2k-drive-premium-drive-pass-season-2.json) |
