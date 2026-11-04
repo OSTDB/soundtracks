@@ -5121,6 +5121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Odyssey | 378173 | [378173-final-odyssey.json](./378173-final-odyssey.json) |
 | Final Orbit | 388514 | [388514-final-orbit.json](./388514-final-orbit.json) |
 | Final Outcry | 369914 | [369914-final-outcry.json](./369914-final-outcry.json) |
+| Final Outpost: Definitive Edition | 315985 | [315985-final-outpost-definitive-edition.json](./315985-final-outpost-definitive-edition.json) |
 | Final Paradox | 280351 | [280351-final-paradox.json](./280351-final-paradox.json) |
 | Final Passage | 370844 | [370844-final-passage.json](./370844-final-passage.json) |
 | Final Payload | 394502 | [394502-final-payload.json](./394502-final-payload.json) |
@@ -7003,6 +7004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flailure | 140904 | [140904-flailure.json](./140904-flailure.json) |
 | Flain: Tao force & Cubes | 153433 | [153433-flain-tao-force-and-cubes.json](./153433-flain-tao-force-and-cubes.json) |
 | Flair | 391197 | [391197-flair.json](./391197-flair.json) |
+| Flair the Hedgehog | 316305 | [316305-flair-the-hedgehog.json](./316305-flair-the-hedgehog.json) |
 | Flairtender | 29635 | [29635-flairtender.json](./29635-flairtender.json) |
 | Flaiser | 183449 | [183449-flaiser.json](./183449-flaiser.json) |
 | Flak | 14073 | [14073-flak.json](./14073-flak.json) |
@@ -10061,6 +10063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Agency Renegades Pack | 325855 | [325855-fortnite-agency-renegades-pack.json](./325855-fortnite-agency-renegades-pack.json) |
 | Fortnite: Airphoria Pack | 260134 | [260134-fortnite-airphoria-pack.json](./260134-fortnite-airphoria-pack.json) |
 | Fortnite: Anime Legends Pack | 212329 | [212329-fortnite-anime-legends-pack.json](./212329-fortnite-anime-legends-pack.json) |
+| Fortnite: Band Flair Pack | 315993 | [315993-fortnite-band-flair-pack.json](./315993-fortnite-band-flair-pack.json) |
 | Fortnite: Bee Positive Pack | 363901 | [363901-fortnite-bee-positive-pack.json](./363901-fortnite-bee-positive-pack.json) |
 | Fortnite: Captain Hypatia's Level Up Quest Pack | 256639 | [256639-fortnite-captain-hypatias-level-up-quest-pack.json](./256639-fortnite-captain-hypatias-level-up-quest-pack.json) |
 | Fortnite: Chapter 2 | 129880 | [129880-fortnite-chapter-2.json](./129880-fortnite-chapter-2.json) |
@@ -12236,6 +12239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frost & Flame: King of Avalon | 271382 | [271382-frost-and-flame-king-of-avalon.json](./271382-frost-and-flame-king-of-avalon.json) |
 | Frost Bite | 272661 | [272661-frost-bite.json](./272661-frost-bite.json) |
 | Frost Bite | 317454 | [317454-frost-bite.json](./317454-frost-bite.json) |
+| Frost Bite 2 | 315974 | [315974-frost-bite-2.json](./315974-frost-bite-2.json) |
 | Frost Byte | 12108 | [12108-frost-byte.json](./12108-frost-byte.json) |
 | Frost Dragon in Adventure Land | 188033 | [188033-frost-dragon-in-adventure-land.json](./188033-frost-dragon-in-adventure-land.json) |
 | Frost Dragon in Wonder Land | 199633 | [199633-frost-dragon-in-wonder-land.json](./199633-frost-dragon-in-wonder-land.json) |
