@@ -6989,6 +6989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Water Ep1 | 339380 | [339380-evil-water-ep1.json](./339380-evil-water-ep1.json) |
 | Evil West | 141547 | [141547-evil-west.json](./141547-evil-west.json) |
 | Evil West: Signature Edition | 223534 | [223534-evil-west-signature-edition.json](./223534-evil-west-signature-edition.json) |
+| Evil Wizard | 309274 | [309274-evil-wizard.json](./309274-evil-wizard.json) |
 | Evil World Hopsca | 336001 | [336001-evil-world-hopsca.json](./336001-evil-world-hopsca.json) |
 | Evil Zombies: Death on the Road | 232158 | [232158-evil-zombies-death-on-the-road.json](./232158-evil-zombies-death-on-the-road.json) |
 | Evil, My Friend | 185547 | [185547-evil-my-friend.json](./185547-evil-my-friend.json) |
@@ -7500,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus of Souls | 217161 | [217161-exodus-of-souls.json](./217161-exodus-of-souls.json) |
 | Exodus Vigil | 207353 | [207353-exodus-vigil.json](./207353-exodus-vigil.json) |
 | Exodus Wars: Fractured Empire | 17336 | [17336-exodus-wars-fractured-empire.json](./17336-exodus-wars-fractured-empire.json) |
+| Exodus: Creepy Time | 309303 | [309303-exodus-creepy-time.json](./309303-exodus-creepy-time.json) |
 | Exodus: Journey to the Promised Land | 11164 | [11164-exodus-journey-to-the-promised-land.json](./11164-exodus-journey-to-the-promised-land.json) |
 | Exodus: Proxima Centauri | 106323 | [106323-exodus-proxima-centauri.json](./106323-exodus-proxima-centauri.json) |
 | Exodus: Sunflower on the Horizon | 257977 | [257977-exodus-sunflower-on-the-horizon.json](./257977-exodus-sunflower-on-the-horizon.json) |
