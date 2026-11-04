@@ -5388,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chamber One | 394528 | [394528-chamber-one.json](./394528-chamber-one.json) |
 | Chamber Shift | 393536 | [393536-chamber-shift.json](./393536-chamber-shift.json) |
 | Chamber Survival | 298692 | [298692-chamber-survival.json](./298692-chamber-survival.json) |
+| Chamber X | 344115 | [344115-chamber-x.json](./344115-chamber-x.json) |
 | Chamber.Repeat(); | 186053 | [186053-chamber-repeat.json](./186053-chamber-repeat.json) |
 | Chamberbound | 247363 | [247363-chamberbound.json](./247363-chamberbound.json) |
 | Chambered | 385381 | [385381-chambered.json](./385381-chambered.json) |
@@ -13067,6 +13068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consensual Torture Simulator | 15446 | [15446-consensual-torture-simulator.json](./15446-consensual-torture-simulator.json) |
 | Consentual Love In A Dungeon | 210471 | [210471-consentual-love-in-a-dungeon.json](./210471-consentual-love-in-a-dungeon.json) |
 | Consero | 391553 | [391553-consero.json](./391553-consero.json) |
+| Conservation Concentration | 344104 | [344104-conservation-concentration.json](./344104-conservation-concentration.json) |
 | Conservation of Bass | 399026 | [399026-conservation-of-bass.json](./399026-conservation-of-bass.json) |
 | Considerable Grandfather | 293643 | [293643-considerable-grandfather.json](./293643-considerable-grandfather.json) |
 | Considerable Grandfather: It Followed Me Home | 408784 | [408784-considerable-grandfather-it-followed-me-home.json](./408784-considerable-grandfather-it-followed-me-home.json) |
