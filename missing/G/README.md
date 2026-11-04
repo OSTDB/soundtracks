@@ -3167,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Defense: Infinite | 103821 | [103821-geometry-defense-infinite.json](./103821-geometry-defense-infinite.json) |
 | Geometry Dodge Pro | 86908 | [86908-geometry-dodge-pro.json](./86908-geometry-dodge-pro.json) |
 | Geometry Duel | 77709 | [77709-geometry-duel.json](./77709-geometry-duel.json) |
+| Geometry Genius: Shapes | 329333 | [329333-geometry-genius-shapes.json](./329333-geometry-genius-shapes.json) |
 | Geometry Hero | 126612 | [126612-geometry-hero.json](./126612-geometry-hero.json) |
 | Geometry League | 238986 | [238986-geometry-league.json](./238986-geometry-league.json) |
 | Geometry Madness | 334429 | [334429-geometry-madness.json](./334429-geometry-madness.json) |
