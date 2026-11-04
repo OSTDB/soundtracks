@@ -9267,6 +9267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Heroes: Samurai Rising | 216682 | [216682-blades-of-heroes-samurai-rising.json](./216682-blades-of-heroes-samurai-rising.json) |
 | Blades of Light & Shadow | 313744 | [313744-blades-of-light-and-shadow.json](./313744-blades-of-light-and-shadow.json) |
 | Blades of Light & Shadow II | 313745 | [313745-blades-of-light-and-shadow-ii.json](./313745-blades-of-light-and-shadow-ii.json) |
+| Blades of Mirage | 327089 | [327089-blades-of-mirage.json](./327089-blades-of-mirage.json) |
 | Blades of Orterra | 89665 | [89665-blades-of-orterra.json](./89665-blades-of-orterra.json) |
 | Blades of Passage | 297482 | [297482-blades-of-passage.json](./297482-blades-of-passage.json) |
 | Blades of Steel | 218905 | [218905-blades-of-steel.json](./218905-blades-of-steel.json) |
@@ -9721,6 +9722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blendr | 382601 | [382601-blendr.json](./382601-blendr.json) |
 | Blendy 2 Dolls Factory | 129758 | [129758-blendy-2-dolls-factory.json](./129758-blendy-2-dolls-factory.json) |
 | Blenzzle | 367713 | [367713-blenzzle.json](./367713-blenzzle.json) |
+| Blepp Quest! | 326932 | [326932-blepp-quest.json](./326932-blepp-quest.json) |
 | Bless Unleashed | 108559 | [108559-bless-unleashed.json](./108559-bless-unleashed.json) |
 | Bless Unleashed: Deluxe Founder's Pack | 166082 | [166082-bless-unleashed-deluxe-founders-pack.json](./166082-bless-unleashed-deluxe-founders-pack.json) |
 | Bless Unleashed: Exalted Founder's Pack | 166077 | [166077-bless-unleashed-exalted-founders-pack.json](./166077-bless-unleashed-exalted-founders-pack.json) |
