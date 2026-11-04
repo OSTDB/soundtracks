@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Bone | 177826 | [177826-jagged-bone.json](./177826-jagged-bone.json) |
 | Jagged Farm: Birth of a Hero | 54134 | [54134-jagged-farm-birth-of-a-hero.json](./54134-jagged-farm-birth-of-a-hero.json) |
 | Jaghund Armoured Organ Delivery Service | 329941 | [329941-jaghund-armoured-organ-delivery-service.json](./329941-jaghund-armoured-organ-delivery-service.json) |
+| Jagmatch | 301769 | [301769-jagmatch.json](./301769-jagmatch.json) |
 | Jagot | 267393 | [267393-jagot.json](./267393-jagot.json) |
 | Jaguar Bomber | 138625 | [138625-jaguar-bomber.json](./138625-jaguar-bomber.json) |
 | Jaguar Drift Simulator | 104589 | [104589-jaguar-drift-simulator.json](./104589-jaguar-drift-simulator.json) |
@@ -3276,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumperbird | 166839 | [166839-jumperbird.json](./166839-jumperbird.json) |
 | Jumperino | 253756 | [253756-jumperino.json](./253756-jumperino.json) |
 | Jumpers League | 329960 | [329960-jumpers-league.json](./329960-jumpers-league.json) |
+| Jumpers' Mountain | 303944 | [303944-jumpers-mountain.json](./303944-jumpers-mountain.json) |
 | JumpFall.io | 327943 | [327943-jumpfall-io.json](./327943-jumpfall-io.json) |
 | JumpFist | 59223 | [59223-jumpfist.json](./59223-jumpfist.json) |
 | Jumpfox: Always Running | 278547 | [278547-jumpfox-always-running.json](./278547-jumpfox-always-running.json) |
