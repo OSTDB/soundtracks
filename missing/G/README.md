@@ -6161,6 +6161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Is Mine | 148842 | [148842-gold-is-mine.json](./148842-gold-is-mine.json) |
 | Gold Knight | 277269 | [277269-gold-knight.json](./277269-gold-knight.json) |
 | Gold Lender Manager | 191375 | [191375-gold-lender-manager.json](./191375-gold-lender-manager.json) |
+| Gold Lining | 320059 | [320059-gold-lining.json](./320059-gold-lining.json) |
 | Gold Magic 800 | 109897 | [109897-gold-magic-800.json](./109897-gold-magic-800.json) |
 | Gold Mine | 92929 | [92929-gold-mine.json](./92929-gold-mine.json) |
 | Gold Miner | 173064 | [173064-gold-miner.json](./173064-gold-miner.json) |
@@ -8129,6 +8130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitation | 187293 | [187293-gravitation.json](./187293-gravitation.json) |
 | Gravitation | 57614 | [57614-gravitation.json](./57614-gravitation.json) |
 | Gravitational | 150150 | [150150-gravitational.json](./150150-gravitational.json) |
+| Gravitational Phenomenon | 320051 | [320051-gravitational-phenomenon.json](./320051-gravitational-phenomenon.json) |
 | Gravitators | 157507 | [157507-gravitators.json](./157507-gravitators.json) |
 | Gravitaws | 236886 | [236886-gravitaws.json](./236886-gravitaws.json) |
 | Gravitaze: One | 171397 | [171397-gravitaze-one.json](./171397-gravitaze-one.json) |
@@ -8513,6 +8515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed | 129623 | [129623-greed.json](./129623-greed.json) |
 | Greed | 171765 | [171765-greed.json](./171765-greed.json) |
 | Greed | 204991 | [204991-greed.json](./204991-greed.json) |
+| Greed | 320055 | [320055-greed.json](./320055-greed.json) |
 | Greed | 377024 | [377024-greed.json](./377024-greed.json) |
 | Greed & Darkness | 328409 | [328409-greed-and-darkness.json](./328409-greed-and-darkness.json) |
 | Greed 3: Old Enemies Returning | 115702 | [115702-greed-3-old-enemies-returning.json](./115702-greed-3-old-enemies-returning.json) |
@@ -9987,6 +9990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guidelicious | 264753 | [264753-guidelicious.json](./264753-guidelicious.json) |
 | Guiding Light | 127758 | [127758-guiding-light.json](./127758-guiding-light.json) |
 | Guidus | 220202 | [220202-guidus.json](./220202-guidus.json) |
+| Guidus Zero | 319824 | [319824-guidus-zero.json](./319824-guidus-zero.json) |
 | Guild & Gals | 346258 | [346258-guild-and-gals.json](./346258-guild-and-gals.json) |
 | Guild 01 | 92613 | [92613-guild-01.json](./92613-guild-01.json) |
 | Guild Ball | 56912 | [56912-guild-ball.json](./56912-guild-ball.json) |
@@ -10268,6 +10272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulf Strike | 25034 | [25034-gulf-strike.json](./25034-gulf-strike.json) |
 | Gulkave | 6109 | [6109-gulkave.json](./6109-gulkave.json) |
 | Gull Kebap VR | 104058 | [104058-gull-kebap-vr.json](./104058-gull-kebap-vr.json) |
+| Gullet | 319926 | [319926-gullet.json](./319926-gullet.json) |
 | Gulliver in the Land of Giants | 300339 | [300339-gulliver-in-the-land-of-giants.json](./300339-gulliver-in-the-land-of-giants.json) |
 | Gullo Arcade | 215556 | [215556-gullo-arcade.json](./215556-gullo-arcade.json) |
 | Gulman 3D | 199059 | [199059-gulman-3d.json](./199059-gulman-3d.json) |
