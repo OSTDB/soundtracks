@@ -2617,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Night | 258952 | [258952-re-night.json](./258952-re-night.json) |
 | Re:Ozma | 118162 | [118162-re-ozma.json](./118162-re-ozma.json) |
 | Re:Pairn’t | 181173 | [181173-re-pairn-t.json](./181173-re-pairn-t.json) |
+| Re:Pik 3 Deluxe | 313361 | [313361-re-pik-3-deluxe.json](./313361-re-pik-3-deluxe.json) |
 | Re:Play | 358648 | [358648-re-play.json](./358648-re-play.json) |
 | Re:Red | 415332 | [415332-re-red.json](./415332-re-red.json) |
 | Re:Rite | 402518 | [402518-re-rite.json](./402518-re-rite.json) |
@@ -6855,6 +6856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richard Scarry's Best Reading Program Ever | 384182 | [384182-richard-scarrys-best-reading-program-ever.json](./384182-richard-scarrys-best-reading-program-ever.json) |
 | Richard Scarry's Busytown | 132142 | [132142-richard-scarrys-busytown.json](./132142-richard-scarrys-busytown.json) |
 | Richard Scarry's Busytown | 46202 | [46202-richard-scarrys-busytown.json](./46202-richard-scarrys-busytown.json) |
+| Richard Scarry’s Busytown: Best Math Ever | 313377 | [313377-richard-scarry-s-busytown-best-math-ever.json](./313377-richard-scarry-s-busytown-best-math-ever.json) |
 | Richard Scarry's How Things Work In Busytown | 64086 | [64086-richard-scarrys-how-things-work-in-busytown.json](./64086-richard-scarrys-how-things-work-in-busytown.json) |
 | Richard West and the Golden Mask | 190139 | [190139-richard-west-and-the-golden-mask.json](./190139-richard-west-and-the-golden-mask.json) |
 | Richdle | 348949 | [348949-richdle.json](./348949-richdle.json) |
