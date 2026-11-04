@@ -8782,6 +8782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey: An Alien Dream | 123508 | [123508-grey-an-alien-dream.json](./123508-grey-an-alien-dream.json) |
 | Grey: The Lost Technology | 61719 | [61719-grey-the-lost-technology.json](./61719-grey-the-lost-technology.json) |
 | Grey's Anatomy: The Video Game | 4897 | [4897-greys-anatomy-the-video-game.json](./4897-greys-anatomy-the-video-game.json) |
+| Greybit | 336841 | [336841-greybit.json](./336841-greybit.json) |
 | Greyfell | 47140 | [47140-greyfell.json](./47140-greyfell.json) |
 | Greyfox | 19377 | [19377-greyfox.json](./19377-greyfox.json) |
 | Greyfront | 350868 | [350868-greyfront.json](./350868-greyfront.json) |
