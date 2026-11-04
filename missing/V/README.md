@@ -3003,6 +3003,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivisector: Beast Within | 54638 | [54638-vivisector-beast-within.json](./54638-vivisector-beast-within.json) |
 | Vivitter for Nintendo Switch | 251470 | [251470-vivitter-for-nintendo-switch.json](./251470-vivitter-for-nintendo-switch.json) |
 | Vivitter: Additional Mini-game - "Back to the Chicken" | 308761 | [308761-vivitter-additional-mini-game-back-to-the-chicken.json](./308761-vivitter-additional-mini-game-back-to-the-chicken.json) |
+| Vivitter: Additional Mini-game - "Bull Bull Swing" | 308759 | [308759-vivitter-additional-mini-game-bull-bull-swing.json](./308759-vivitter-additional-mini-game-bull-bull-swing.json) |
+| Vivitter: Additional Mini-game - "Chicken Jones" | 308760 | [308760-vivitter-additional-mini-game-chicken-jones.json](./308760-vivitter-additional-mini-game-chicken-jones.json) |
 | Vivitter: Additional Mini-game - "Chicken Race" | 308762 | [308762-vivitter-additional-mini-game-chicken-race.json](./308762-vivitter-additional-mini-game-chicken-race.json) |
 | Vivitter: Additional Mini-game - "Chicken Ranger" | 308763 | [308763-vivitter-additional-mini-game-chicken-ranger.json](./308763-vivitter-additional-mini-game-chicken-ranger.json) |
 | Vivitter: Additional Mini-game - "Death Proposal" | 308766 | [308766-vivitter-additional-mini-game-death-proposal.json](./308766-vivitter-additional-mini-game-death-proposal.json) |
