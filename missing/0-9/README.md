@@ -3363,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 999999 | 263385 | [263385-999999.json](./263385-999999.json) |
 | 999Seconds!Survivors | 400259 | [400259-999seconds-survivors.json](./400259-999seconds-survivors.json) |
 | 99Bullets | 84689 | [84689-99bullets.json](./84689-99bullets.json) |
+| 99Rooms | 346335 | [346335-99rooms.json](./346335-99rooms.json) |
 | 99Seconds | 84691 | [84691-99seconds.json](./84691-99seconds.json) |
 | 99Seconds | 84726 | [84726-99seconds.json](./84726-99seconds.json) |
 | 99Vidas | 26678 | [26678-99vidas.json](./26678-99vidas.json) |
