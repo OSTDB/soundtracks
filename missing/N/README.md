@@ -1319,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Jam Extreme | 40205 | [40205-nba-jam-extreme.json](./40205-nba-jam-extreme.json) |
 | NBA Jam Tournament Edition | 19712 | [19712-nba-jam-tournament-edition.json](./19712-nba-jam-tournament-edition.json) |
 | NBA Jam: 1990's On Fire Edition | 318696 | [318696-nba-jam-1990s-on-fire-edition.json](./318696-nba-jam-1990s-on-fire-edition.json) |
+| NBA Jam: 2020's On Fire Edition | 332161 | [332161-nba-jam-2020s-on-fire-edition.json](./332161-nba-jam-2020s-on-fire-edition.json) |
 | NBA Jam: Legends On Fire Edition | 242257 | [242257-nba-jam-legends-on-fire-edition.json](./242257-nba-jam-legends-on-fire-edition.json) |
 | NBA Jam: On Fire Edition | 21076 | [21076-nba-jam-on-fire-edition.json](./21076-nba-jam-on-fire-edition.json) |
 | NBA Live 06 | 242985 | [242985-nba-live-06.json](./242985-nba-live-06.json) |
@@ -4291,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightbird Society | 196309 | [196309-nightbird-society.json](./196309-nightbird-society.json) |
 | Nightbloom | 138110 | [138110-nightbloom.json](./138110-nightbloom.json) |
 | Nightboarder | 179031 | [179031-nightboarder.json](./179031-nightboarder.json) |
+| Nightborn | 332191 | [332191-nightborn.json](./332191-nightborn.json) |
 | Nightbrats | 423379 | [423379-nightbrats.json](./423379-nightbrats.json) |
 | NightBreak | 350315 | [350315-nightbreak.json](./350315-nightbreak.json) |
 | Nightbreed: The Action Game | 15269 | [15269-nightbreed-the-action-game.json](./15269-nightbreed-the-action-game.json) |
