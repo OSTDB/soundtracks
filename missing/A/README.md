@@ -4638,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Karen: Undercover Investigation of an Evil Organization | 82884 | [82884-agent-karen-undercover-investigation-of-an-evil-organization.json](./82884-agent-karen-undercover-investigation-of-an-evil-organization.json) |
 | Agent Klutz | 144910 | [144910-agent-klutz.json](./144910-agent-klutz.json) |
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
+| Agent Mirai and the Submission Machines | 325943 | [325943-agent-mirai-and-the-submission-machines.json](./325943-agent-mirai-and-the-submission-machines.json) |
 | Agent MOO: Maximum Overdeath | 66387 | [66387-agent-moo-maximum-overdeath.json](./66387-agent-moo-maximum-overdeath.json) |
 | Agent Murphy | 164260 | [164260-agent-murphy.json](./164260-agent-murphy.json) |
 | Agent of Chaos | 157170 | [157170-agent-of-chaos.json](./157170-agent-of-chaos.json) |
@@ -6026,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy Garden | 113758 | [113758-alchemy-garden.json](./113758-alchemy-garden.json) |
 | Alchemy Hearts | 401065 | [401065-alchemy-hearts.json](./401065-alchemy-hearts.json) |
 | Alchemy in Dungeon | 337809 | [337809-alchemy-in-dungeon.json](./337809-alchemy-in-dungeon.json) |
+| Alchemy Laboratory: Simulator | 326484 | [326484-alchemy-laboratory-simulator.json](./326484-alchemy-laboratory-simulator.json) |
 | Alchemy Mastery | 302917 | [302917-alchemy-mastery.json](./302917-alchemy-mastery.json) |
 | Alchemy Merge Puzzle Game | 330932 | [330932-alchemy-merge-puzzle-game.json](./330932-alchemy-merge-puzzle-game.json) |
 | Alchemy Mysteries: Prague Legends | 17899 | [17899-alchemy-mysteries-prague-legends.json](./17899-alchemy-mysteries-prague-legends.json) |
@@ -6610,6 +6612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Makeout Simulator | 229625 | [229625-alien-makeout-simulator.json](./229625-alien-makeout-simulator.json) |
 | Alien Maker | 409730 | [409730-alien-maker.json](./409730-alien-maker.json) |
 | Alien Marauder | 163835 | [163835-alien-marauder.json](./163835-alien-marauder.json) |
+| Alien Market Simulator | 326483 | [326483-alien-market-simulator.json](./326483-alien-market-simulator.json) |
 | Alien Mayhem | 76951 | [76951-alien-mayhem.json](./76951-alien-mayhem.json) |
 | Alien Maze | 156596 | [156596-alien-maze.json](./156596-alien-maze.json) |
 | Alien Mind | 72153 | [72153-alien-mind.json](./72153-alien-mind.json) |
@@ -9960,6 +9963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime School Love: His Teacher Secret Lesson | 378780 | [378780-anime-school-love-his-teacher-secret-lesson.json](./378780-anime-school-love-his-teacher-secret-lesson.json) |
 | Anime School Zombie Simulator | 296754 | [296754-anime-school-zombie-simulator.json](./296754-anime-school-zombie-simulator.json) |
 | Anime Sexy Girl Puzzle: Hentai Game History Adventure | 267371 | [267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json](./267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json) |
+| Anime Shop Simulator | 326485 | [326485-anime-shop-simulator.json](./326485-anime-shop-simulator.json) |
 | Anime Shop Simulator ✨ | 415269 | [415269-anime-shop-simulator.json](./415269-anime-shop-simulator.json) |
 | Anime Slayer | 258352 | [258352-anime-slayer.json](./258352-anime-slayer.json) |
 | Anime Sniper | 255062 | [255062-anime-sniper.json](./255062-anime-sniper.json) |
@@ -11152,6 +11156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Rush | 372545 | [372545-apocalypse-rush.json](./372545-apocalypse-rush.json) |
 | Apocalypse Rush | 83849 | [83849-apocalypse-rush.json](./83849-apocalypse-rush.json) |
 | Apocalypse Secrets | 321948 | [321948-apocalypse-secrets.json](./321948-apocalypse-secrets.json) |
+| Apocalypse Shop Simulator | 326486 | [326486-apocalypse-shop-simulator.json](./326486-apocalypse-shop-simulator.json) |
 | Apocalypse Survivor | 366291 | [366291-apocalypse-survivor.json](./366291-apocalypse-survivor.json) |
 | Apocalypse Survivors | 346880 | [346880-apocalypse-survivors.json](./346880-apocalypse-survivors.json) |
 | Apocalypse Tale | 351766 | [351766-apocalypse-tale.json](./351766-apocalypse-tale.json) |
@@ -11405,6 +11410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aptamirror | 425825 | [425825-aptamirror.json](./425825-aptamirror.json) |
 | Aptly Rolling | 165661 | [165661-aptly-rolling.json](./165661-aptly-rolling.json) |
 | Apu's Journey | 276854 | [276854-apus-journey.json](./276854-apus-journey.json) |
+| APUS: Bird Simulator | 326487 | [326487-apus-bird-simulator.json](./326487-apus-bird-simulator.json) |
 | Apventure to Atlantis | 23291 | [23291-apventure-to-atlantis.json](./23291-apventure-to-atlantis.json) |
 | AQ First Contact | 158934 | [158934-aq-first-contact.json](./158934-aq-first-contact.json) |
 | Aqi 155 | 222369 | [222369-aqi-155.json](./222369-aqi-155.json) |
@@ -17523,6 +17529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axria Retro World | 124568 | [124568-axria-retro-world.json](./124568-axria-retro-world.json) |
 | AXS | 147663 | [147663-axs.json](./147663-axs.json) |
 | Axxx: Taught and Fucked | 375949 | [375949-axxx-taught-and-fucked.json](./375949-axxx-taught-and-fucked.json) |
+| Axyn Adventure | 325873 | [325873-axyn-adventure.json](./325873-axyn-adventure.json) |
 | Axyos | 17740 | [17740-axyos.json](./17740-axyos.json) |
 | Axyos: Battlecards | 115522 | [115522-axyos-battlecards.json](./115522-axyos-battlecards.json) |
 | AxySnake | 93184 | [93184-axysnake.json](./93184-axysnake.json) |
