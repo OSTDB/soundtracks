@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10-33 Officer Down | 422841 | [422841-10-33-officer-down.json](./422841-10-33-officer-down.json) |
 | 10-Day Champion | 319123 | [319123-10-day-champion.json](./319123-10-day-champion.json) |
 | 10-in-1 Christmas Collection | 325891 | [325891-10-in-1-christmas-collection.json](./325891-10-in-1-christmas-collection.json) |
+| 10-in-1 Games Bundle for Kids & Toddlers | 324219 | [324219-10-in-1-games-bundle-for-kids-and-toddlers.json](./324219-10-in-1-games-bundle-for-kids-and-toddlers.json) |
 | 10-Lignes 4en1 by retropoke | 267215 | [267215-10-lignes-4en1-by-retropoke.json](./267215-10-lignes-4en1-by-retropoke.json) |
 | 10-Pin Bowling | 153453 | [153453-10-pin-bowling.json](./153453-10-pin-bowling.json) |
 | 10-Pin Bowling | 92273 | [92273-10-pin-bowling.json](./92273-10-pin-bowling.json) |
