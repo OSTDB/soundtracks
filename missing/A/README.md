@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Solitaire Mystery | 297992 | [297992-a-solitaire-mystery.json](./297992-a-solitaire-mystery.json) |
 | A Solution | 331792 | [331792-a-solution.json](./331792-a-solution.json) |
 | A Song for Viggo | 61398 | [61398-a-song-for-viggo.json](./61398-a-song-for-viggo.json) |
+| A Song in Elyel Nalore | 348123 | [348123-a-song-in-elyel-nalore.json](./348123-a-song-in-elyel-nalore.json) |
 | A song in the void | 76325 | [76325-a-song-in-the-void.json](./76325-a-song-in-the-void.json) |
 | A Song of Sunlight | 265534 | [265534-a-song-of-sunlight.json](./265534-a-song-of-sunlight.json) |
 | A Sound of Thunder | 49271 | [49271-a-sound-of-thunder.json](./49271-a-sound-of-thunder.json) |
@@ -10216,6 +10217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalous Cleaning Detail | 390898 | [390898-anomalous-cleaning-detail.json](./390898-anomalous-cleaning-detail.json) |
 | Anomalous Crossing: Shibuya | 306408 | [306408-anomalous-crossing-shibuya.json](./306408-anomalous-crossing-shibuya.json) |
 | Anomalous Materials | 252095 | [252095-anomalous-materials.json](./252095-anomalous-materials.json) |
+| Anomalous Railroad Crossing | 348127 | [348127-anomalous-railroad-crossing.json](./348127-anomalous-railroad-crossing.json) |
 | Anomalous Veil | 407323 | [407323-anomalous-veil.json](./407323-anomalous-veil.json) |
 | Anomalous Zone | 211434 | [211434-anomalous-zone.json](./211434-anomalous-zone.json) |
 | Anomaly | 215528 | [215528-anomaly.json](./215528-anomaly.json) |
@@ -15926,7 +15928,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -17324,6 +17325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axan Ships | 120152 | [120152-axan-ships.json](./120152-axan-ships.json) |
 | Axan Ships: Low Poly | 118348 | [118348-axan-ships-low-poly.json](./118348-axan-ships-low-poly.json) |
 | Axanael | 133043 | [133043-axanael.json](./133043-axanael.json) |
+| Axe & Bow Land | 347997 | [347997-axe-and-bow-land.json](./347997-axe-and-bow-land.json) |
 | Axe Ace | 309000 | [309000-axe-ace.json](./309000-axe-ace.json) |
 | Axe And Claw | 400457 | [400457-axe-and-claw.json](./400457-axe-and-claw.json) |
 | Axe Champ | 102707 | [102707-axe-champ.json](./102707-axe-champ.json) |
