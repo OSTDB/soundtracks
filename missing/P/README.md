@@ -2942,6 +2942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Wrath of the Righteous - The Lord of Nothing | 269217 | [269217-pathfinder-wrath-of-the-righteous-the-lord-of-nothing.json](./269217-pathfinder-wrath-of-the-righteous-the-lord-of-nothing.json) |
 | Pathfinder: Wrath of the Righteous - The Treasure of the Midnight Isles | 215691 | [215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json](./215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json) |
 | Pathfinder: Wrath of the Righteous - Through the Ashes | 198351 | [198351-pathfinder-wrath-of-the-righteous-through-the-ashes.json](./198351-pathfinder-wrath-of-the-righteous-through-the-ashes.json) |
+| Pathfinder: Wrath of the Righteous - Visitors from Morta | 315995 | [315995-pathfinder-wrath-of-the-righteous-visitors-from-morta.json](./315995-pathfinder-wrath-of-the-righteous-visitors-from-morta.json) |
 | Pathfinders | 134450 | [134450-pathfinders.json](./134450-pathfinders.json) |
 | Pathfinders: Memories | 133051 | [133051-pathfinders-memories.json](./133051-pathfinders-memories.json) |
 | Pathless Maze TD | 352293 | [352293-pathless-maze-td.json](./352293-pathless-maze-td.json) |
@@ -7924,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Playground | 304437 | [304437-pixel-playground.json](./304437-pixel-playground.json) |
 | Pixel Poops | 157054 | [157054-pixel-poops.json](./157054-pixel-poops.json) |
 | Pixel Poops: Number Two | 143480 | [143480-pixel-poops-number-two.json](./143480-pixel-poops-number-two.json) |
+| Pixel Pop | 315977 | [315977-pixel-pop.json](./315977-pixel-pop.json) |
 | Pixel Princess Arena | 269219 | [269219-pixel-princess-arena.json](./269219-pixel-princess-arena.json) |
 | Pixel Princess Blitz | 22000 | [22000-pixel-princess-blitz.json](./22000-pixel-princess-blitz.json) |
 | Pixel Privateers | 27405 | [27405-pixel-privateers.json](./27405-pixel-privateers.json) |
@@ -9229,6 +9231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plastic Rebellion | 84052 | [84052-plastic-rebellion.json](./84052-plastic-rebellion.json) |
 | Plastic Soldiers | 111701 | [111701-plastic-soldiers.json](./111701-plastic-soldiers.json) |
 | Plastic Soul | 239810 | [239810-plastic-soul.json](./239810-plastic-soul.json) |
+| Plastic Spouse Interrogation | 316007 | [316007-plastic-spouse-interrogation.json](./316007-plastic-spouse-interrogation.json) |
 | Plastic Tactics Online | 276620 | [276620-plastic-tactics-online.json](./276620-plastic-tactics-online.json) |
 | Plastic Trick | 321592 | [321592-plastic-trick.json](./321592-plastic-trick.json) |
 | Plasticalypse: Submarine Adventures | 170134 | [170134-plasticalypse-submarine-adventures.json](./170134-plasticalypse-submarine-adventures.json) |
@@ -15550,6 +15553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Reborn | 192881 | [192881-project-reborn.json](./192881-project-reborn.json) |
 | Project Red Sun | 407527 | [407527-project-red-sun.json](./407527-project-red-sun.json) |
 | Project Regolith | 236793 | [236793-project-regolith.json](./236793-project-regolith.json) |
+| Project Reignition | 315988 | [315988-project-reignition.json](./315988-project-reignition.json) |
 | Project Remedium | 32612 | [32612-project-remedium.json](./32612-project-remedium.json) |
 | Project ReMind | 362052 | [362052-project-remind.json](./362052-project-remind.json) |
 | Project Renaissance | 419915 | [419915-project-renaissance.json](./419915-project-renaissance.json) |
