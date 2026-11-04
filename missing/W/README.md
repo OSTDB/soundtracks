@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War is Heck Collection | 53883 | [53883-war-is-heck-collection.json](./53883-war-is-heck-collection.json) |
 | War Islands | 133376 | [133376-war-islands.json](./133376-war-islands.json) |
 | War Job | 313642 | [313642-war-job.json](./313642-war-job.json) |
+| War Laboratory | 306283 | [306283-war-laboratory.json](./306283-war-laboratory.json) |
 | War Land TD | 414508 | [414508-war-land-td.json](./414508-war-land-td.json) |
 | War Lands | 338400 | [338400-war-lands.json](./338400-war-lands.json) |
 | War Leaders: Clash of Nations | 53148 | [53148-war-leaders-clash-of-nations.json](./53148-war-leaders-clash-of-nations.json) |
