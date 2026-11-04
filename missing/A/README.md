@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Gravity Conspiracy | 316462 | [316462-a-gravity-conspiracy.json](./316462-a-gravity-conspiracy.json) |
 | A Great Day at the Races | 45946 | [45946-a-great-day-at-the-races.json](./45946-a-great-day-at-the-races.json) |
 | A Great Escape | 237002 | [237002-a-great-escape.json](./237002-a-great-escape.json) |
+| A Great Hunger | 303120 | [303120-a-great-hunger.json](./303120-a-great-hunger.json) |
 | A Grim Chase | 407948 | [407948-a-grim-chase.json](./407948-a-grim-chase.json) |
 | A Grim Granny | 407959 | [407959-a-grim-granny.json](./407959-a-grim-granny.json) |
 | A Grim Tale of Vices | 115389 | [115389-a-grim-tale-of-vices.json](./115389-a-grim-tale-of-vices.json) |
@@ -614,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hundred Kinds of Your Smile | 224846 | [224846-a-hundred-kinds-of-your-smile.json](./224846-a-hundred-kinds-of-your-smile.json) |
 | A Hunt for the Fae Folk | 323628 | [323628-a-hunt-for-the-fae-folk.json](./323628-a-hunt-for-the-fae-folk.json) |
 | A Hunter's Day | 181198 | [181198-a-hunters-day.json](./181198-a-hunters-day.json) |
+| A Hunter's Tale | 303119 | [303119-a-hunters-tale.json](./303119-a-hunters-tale.json) |
 | A Ilha Perdida da Babitonga | 352367 | [352367-a-ilha-perdida-da-babitonga.json](./352367-a-ilha-perdida-da-babitonga.json) |
 | A is for Aardvark | 334281 | [334281-a-is-for-aardvark.json](./334281-a-is-for-aardvark.json) |
 | A JK Voice Actress and an Adult Script | 83188 | [83188-a-jk-voice-actress-and-an-adult-script.json](./83188-a-jk-voice-actress-and-an-adult-script.json) |
@@ -672,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A lenda da Gávea | 81154 | [81154-a-lenda-da-gavea.json](./81154-a-lenda-da-gavea.json) |
 | A Lenda de Niterói | 371852 | [371852-a-lenda-de-niteroi.json](./371852-a-lenda-de-niteroi.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
+| A Letter From Mom | 303137 | [303137-a-letter-from-mom.json](./303137-a-letter-from-mom.json) |
 | A Letter to Luna | 297417 | [297417-a-letter-to-luna.json](./297417-a-letter-to-luna.json) |
 | A Letter to You! | 157438 | [157438-a-letter-to-you.json](./157438-a-letter-to-you.json) |
 | A Life in Music | 314381 | [314381-a-life-in-music.json](./314381-a-life-in-music.json) |
@@ -1774,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Ecosystem | 377427 | [377427-abandoned-ecosystem.json](./377427-abandoned-ecosystem.json) |
 | Abandoned Hospital | 377426 | [377426-abandoned-hospital.json](./377426-abandoned-hospital.json) |
 | Abandoned Hospital VR | 31878 | [31878-abandoned-hospital-vr.json](./31878-abandoned-hospital-vr.json) |
+| Abandoned Hut | 303117 | [303117-abandoned-hut.json](./303117-abandoned-hut.json) |
 | Abandoned Knight | 33508 | [33508-abandoned-knight.json](./33508-abandoned-knight.json) |
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
 | Abandoned Moons | 301219 | [301219-abandoned-moons.json](./301219-abandoned-moons.json) |
@@ -3884,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeronaut | 178522 | [178522-aeronaut.json](./178522-aeronaut.json) |
 | Aeronautica Imperialis: Flight Command | 132207 | [132207-aeronautica-imperialis-flight-command.json](./132207-aeronautica-imperialis-flight-command.json) |
 | Aeronautica Imperialis: Flight Command - Skulls Pack | 162754 | [162754-aeronautica-imperialis-flight-command-skulls-pack.json](./162754-aeronautica-imperialis-flight-command-skulls-pack.json) |
+| Aeronesia | 303118 | [303118-aeronesia.json](./303118-aeronesia.json) |
 | Aeronuts | 58049 | [58049-aeronuts.json](./58049-aeronuts.json) |
 | Aeroplane Blaster | 181024 | [181024-aeroplane-blaster.json](./181024-aeroplane-blaster.json) |
 | Aeroplane Chess 3D | 106877 | [106877-aeroplane-chess-3d.json](./106877-aeroplane-chess-3d.json) |
@@ -4361,6 +4366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agalta | 372558 | [372558-agalta.json](./372558-agalta.json) |
 | Agalta 3 | 372562 | [372562-agalta-3.json](./372562-agalta-3.json) |
 | Agalta II | 372561 | [372561-agalta-ii.json](./372561-agalta-ii.json) |
+| Agama Versus Bugs | 303123 | [303123-agama-versus-bugs.json](./303123-agama-versus-bugs.json) |
 | Agapito's Crazy Adventure | 332833 | [332833-agapitos-crazy-adventure.json](./332833-agapitos-crazy-adventure.json) |
 | Agar.io | 11283 | [11283-agar-io.json](./11283-agar-io.json) |
 | Agarest Senki Mariage: Limited Edition | 64119 | [64119-agarest-senki-mariage-limited-edition.json](./64119-agarest-senki-mariage-limited-edition.json) |
@@ -4555,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Pahlevans | 191670 | [191670-age-of-pahlevans.json](./191670-age-of-pahlevans.json) |
 | Age of Pirates | 376848 | [376848-age-of-pirates.json](./376848-age-of-pirates.json) |
 | Age of Pixels | 118261 | [118261-age-of-pixels.json](./118261-age-of-pixels.json) |
+| Age of Privateer | 303122 | [303122-age-of-privateer.json](./303122-age-of-privateer.json) |
 | Age of Procreation DX | 214340 | [214340-age-of-procreation-dx.json](./214340-age-of-procreation-dx.json) |
 | Age of Reforging: The Freelands | 171364 | [171364-age-of-reforging-the-freelands.json](./171364-age-of-reforging-the-freelands.json) |
 | Age of Respair | 350402 | [350402-age-of-respair.json](./350402-age-of-respair.json) |
@@ -4577,6 +4584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Storm: Kingdom Under Fire Online | 62465 | [62465-age-of-storm-kingdom-under-fire-online.json](./62465-age-of-storm-kingdom-under-fire-online.json) |
 | Age of Survival | 35302 | [35302-age-of-survival.json](./35302-age-of-survival.json) |
 | Age of Talisman | 26954 | [26954-age-of-talisman.json](./26954-age-of-talisman.json) |
+| Age of the Deep | 303121 | [303121-age-of-the-deep.json](./303121-age-of-the-deep.json) |
 | Age of the Duel | 248385 | [248385-age-of-the-duel.json](./248385-age-of-the-duel.json) |
 | Age of the Sirens | 236893 | [236893-age-of-the-sirens.json](./236893-age-of-the-sirens.json) |
 | Age of Thrones | 24552 | [24552-age-of-thrones.json](./24552-age-of-thrones.json) |
@@ -4918,7 +4926,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Shogi 2 | 45445 | [45445-ai-shogi-2.json](./45445-ai-shogi-2.json) |
 | AI Shoujo | 127944 | [127944-ai-shoujo.json](./127944-ai-shoujo.json) |
 | AI Slop Simulator | 398536 | [398536-ai-slop-simulator.json](./398536-ai-slop-simulator.json) |
+| AI Solitaire | 303127 | [303127-ai-solitaire.json](./303127-ai-solitaire.json) |
 | AI Solitaire: 4th of July | 322726 | [322726-ai-solitaire-4th-of-july.json](./322726-ai-solitaire-4th-of-july.json) |
+| AI Solitaire: Anime Cuties | 303128 | [303128-ai-solitaire-anime-cuties.json](./303128-ai-solitaire-anime-cuties.json) |
 | AI Solitaire: Handsome Heroes | 304005 | [304005-ai-solitaire-handsome-heroes.json](./304005-ai-solitaire-handsome-heroes.json) |
 | AI Solitaire: Lovely Ladies | 304006 | [304006-ai-solitaire-lovely-ladies.json](./304006-ai-solitaire-lovely-ladies.json) |
 | AI Solitaire: Painted Ladies | 303139 | [303139-ai-solitaire-painted-ladies.json](./303139-ai-solitaire-painted-ladies.json) |
@@ -5378,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airfix: Dogfighter | 24702 | [24702-airfix-dogfighter.json](./24702-airfix-dogfighter.json) |
 | Airflow | 312675 | [312675-airflow.json](./312675-airflow.json) |
 | Airflow: Seattle ARTCC | 376106 | [376106-airflow-seattle-artcc.json](./376106-airflow-seattle-artcc.json) |
+| AirFlow: Sky Is The Limit | 303126 | [303126-airflow-sky-is-the-limit.json](./303126-airflow-sky-is-the-limit.json) |
 | AirFMC | 90201 | [90201-airfmc.json](./90201-airfmc.json) |
 | Airforce Delta | 3710 | [3710-airforce-delta.json](./3710-airforce-delta.json) |
 | Airforce Delta | 47285 | [47285-airforce-delta.json](./47285-airforce-delta.json) |
@@ -6004,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemia | 58040 | [58040-alchemia.json](./58040-alchemia.json) |
 | Alchemia Rogue: Mia and the Mystery Labyrinth | 397497 | [397497-alchemia-rogue-mia-and-the-mystery-labyrinth.json](./397497-alchemia-rogue-mia-and-the-mystery-labyrinth.json) |
 | Alchemia Story | 109917 | [109917-alchemia-story.json](./109917-alchemia-story.json) |
+| Alchemic Beasts | 303138 | [303138-alchemic-beasts.json](./303138-alchemic-beasts.json) |
 | Alchemic Cutie | 107171 | [107171-alchemic-cutie.json](./107171-alchemic-cutie.json) |
 | Alchemic Dungeons | 54657 | [54657-alchemic-dungeons.json](./54657-alchemic-dungeons.json) |
 | Alchemic Dungeons DX | 115273 | [115273-alchemic-dungeons-dx.json](./115273-alchemic-dungeons-dx.json) |
@@ -6286,6 +6298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algo Bot | 81443 | [81443-algo-bot.json](./81443-algo-bot.json) |
 | Algodoo | 140601 | [140601-algodoo.json](./140601-algodoo.json) |
 | Algolemeth | 283903 | [283903-algolemeth.json](./283903-algolemeth.json) |
+| Algomancy | 303136 | [303136-algomancy.json](./303136-algomancy.json) |
 | Algor Pew Pew | 270858 | [270858-algor-pew-pew.json](./270858-algor-pew-pew.json) |
 | Algoremind | 369524 | [369524-algoremind.json](./369524-algoremind.json) |
 | Algorithm Prescription | 393977 | [393977-algorithm-prescription.json](./393977-algorithm-prescription.json) |
@@ -6449,6 +6462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Wonderland 7: Sugar Rush - Collector's Edition | 337266 | [337266-alices-wonderland-7-sugar-rush-collectors-edition.json](./337266-alices-wonderland-7-sugar-rush-collectors-edition.json) |
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
 | Alice's Wonderland: Cast in Shadow - Collector's Edition | 357108 | [357108-alices-wonderland-cast-in-shadow-collectors-edition.json](./357108-alices-wonderland-cast-in-shadow-collectors-edition.json) |
+| Alice's World | 303135 | [303135-alices-world.json](./303135-alices-world.json) |
 | Alicemare | 26138 | [26138-alicemare.json](./26138-alicemare.json) |
 | Alicia Griffith: Lakeside Murder | 30050 | [30050-alicia-griffith-lakeside-murder.json](./30050-alicia-griffith-lakeside-murder.json) |
 | Alicia Online | 60233 | [60233-alicia-online.json](./60233-alicia-online.json) |
@@ -7058,6 +7072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Kamen Rider: Rider Generation | 65849 | [65849-all-kamen-rider-rider-generation.json](./65849-all-kamen-rider-rider-generation.json) |
 | All Kamen Rider: Rider Generation 2 | 64575 | [64575-all-kamen-rider-rider-generation-2.json](./64575-all-kamen-rider-rider-generation-2.json) |
 | All Kamen Rider: Rider Revolution | 81413 | [81413-all-kamen-rider-rider-revolution.json](./81413-all-kamen-rider-rider-revolution.json) |
+| All Knowledge Authority | 303130 | [303130-all-knowledge-authority.json](./303130-all-knowledge-authority.json) |
 | All Lanes Must Exit | 405118 | [405118-all-lanes-must-exit.json](./405118-all-lanes-must-exit.json) |
 | All Living Things | 344803 | [344803-all-living-things.json](./344803-all-living-things.json) |
 | All Me Action Game | 388076 | [388076-all-me-action-game.json](./388076-all-me-action-game.json) |
@@ -7133,6 +7148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All That Remains: A story about a child's future | 120827 | [120827-all-that-remains-a-story-about-a-childs-future.json](./120827-all-that-remains-a-story-about-a-childs-future.json) |
 | All That Remains: Part 1 | 91069 | [91069-all-that-remains-part-1.json](./91069-all-that-remains-part-1.json) |
 | All The Colors That You Paint | 383376 | [383376-all-the-colors-that-you-paint.json](./383376-all-the-colors-that-you-paint.json) |
+| All the Darkest Places | 303131 | [303131-all-the-darkest-places.json](./303131-all-the-darkest-places.json) |
 | All the Delicate Duplicates | 26736 | [26736-all-the-delicate-duplicates.json](./26736-all-the-delicate-duplicates.json) |
 | All the Gold in Fort Locks | 408498 | [408498-all-the-gold-in-fort-locks.json](./408498-all-the-gold-in-fort-locks.json) |
 | All the Hidden Corners | 55875 | [55875-all-the-hidden-corners.json](./55875-all-the-hidden-corners.json) |
@@ -7322,6 +7338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almost | 244670 | [244670-almost.json](./244670-almost.json) |
 | Almost a Hero | 101454 | [101454-almost-a-hero.json](./101454-almost-a-hero.json) |
 | Almost Alive | 105356 | [105356-almost-alive.json](./105356-almost-alive.json) |
+| Almost Dungeon | 303134 | [303134-almost-dungeon.json](./303134-almost-dungeon.json) |
 | Almost Heroic | 179538 | [179538-almost-heroic.json](./179538-almost-heroic.json) |
 | Almost Home Now | 200351 | [200351-almost-home-now.json](./200351-almost-home-now.json) |
 | Almost Impossible! | 58303 | [58303-almost-impossible.json](./58303-almost-impossible.json) |
@@ -7488,6 +7505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Mission | 273028 | [273028-alpha-mission.json](./273028-alpha-mission.json) |
 | Alpha Mission | 8911 | [8911-alpha-mission.json](./8911-alpha-mission.json) |
 | Alpha Mission II | 13681 | [13681-alpha-mission-ii.json](./13681-alpha-mission-ii.json) |
+| Alpha Nomos | 303133 | [303133-alpha-nomos.json](./303133-alpha-nomos.json) |
 | Alpha One | 249644 | [249644-alpha-one.json](./249644-alpha-one.json) |
 | Alpha Pairs | 203854 | [203854-alpha-pairs.json](./203854-alpha-pairs.json) |
 | Alpha Point | 361730 | [361730-alpha-point.json](./361730-alpha-point.json) |
@@ -16119,7 +16137,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
