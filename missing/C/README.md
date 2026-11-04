@@ -1470,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canterz Paranormies | 202508 | [202508-canterz-paranormies.json](./202508-canterz-paranormies.json) |
 | Canterz Paranormies 2 | 226281 | [226281-canterz-paranormies-2.json](./226281-canterz-paranormies-2.json) |
 | Cantirium: God Slayer | 240726 | [240726-cantirium-god-slayer.json](./240726-cantirium-god-slayer.json) |
+| Canto I | 312784 | [312784-canto-i.json](./312784-canto-i.json) |
 | Cantrip | 186070 | [186070-cantrip.json](./186070-cantrip.json) |
 | Cantrip Cafe | 113692 | [113692-cantrip-cafe.json](./113692-cantrip-cafe.json) |
 | Canvas | 326568 | [326568-canvas.json](./326568-canvas.json) |
@@ -3709,6 +3710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Sport Series: Racket Sports Bundle | 396915 | [396915-casual-sport-series-racket-sports-bundle.json](./396915-casual-sport-series-racket-sports-bundle.json) |
 | Casual Sport Series: Tennis | 329440 | [329440-casual-sport-series-tennis.json](./329440-casual-sport-series-tennis.json) |
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
+| CasualMuyu | 312789 | [312789-casualmuyu.json](./312789-casualmuyu.json) |
 | Casus Belli | 23547 | [23547-casus-belli.json](./23547-casus-belli.json) |
 | Casus Belli: Battle of Annihilation | 46481 | [46481-casus-belli-battle-of-annihilation.json](./46481-casus-belli-battle-of-annihilation.json) |
 | Cat | 309516 | [309516-cat.json](./309516-cat.json) |
@@ -4349,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatHotel | 256531 | [256531-cathotel.json](./256531-cathotel.json) |
 | Cathouse Blues | 40629 | [40629-cathouse-blues.json](./40629-cathouse-blues.json) |
 | Cathulhu Detective | 193978 | [193978-cathulhu-detective.json](./193978-cathulhu-detective.json) |
+| Cathy and The Others | 312797 | [312797-cathy-and-the-others.json](./312797-cathy-and-the-others.json) |
 | Catie in MeowmeowLand | 158105 | [158105-catie-in-meowmeowland.json](./158105-catie-in-meowmeowland.json) |
 | Catify VR | 104799 | [104799-catify-vr.json](./104799-catify-vr.json) |
 | Catio Simulator | 368989 | [368989-catio-simulator.json](./368989-catio-simulator.json) |
@@ -17042,6 +17045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crocro Adventure | 96341 | [96341-crocro-adventure.json](./96341-crocro-adventure.json) |
 | Crocs on Parade | 359734 | [359734-crocs-on-parade.json](./359734-crocs-on-parade.json) |
 | Crocs World Construction Kit 2 | 253986 | [253986-crocs-world-construction-kit-2.json](./253986-crocs-world-construction-kit-2.json) |
+| Croissant | 312802 | [312802-croissant.json](./312802-croissant.json) |
 | Croissant Simulator | 416589 | [416589-croissant-simulator.json](./416589-croissant-simulator.json) |
 | Croissants | 135012 | [135012-croissants.json](./135012-croissants.json) |
 | Croixleur Sigma: Deluxe Edition | 131689 | [131689-croixleur-sigma-deluxe-edition.json](./131689-croixleur-sigma-deluxe-edition.json) |
@@ -17215,6 +17219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosscountry USA Photo Safari | 399082 | [399082-crosscountry-usa-photo-safari.json](./399082-crosscountry-usa-photo-safari.json) |
 | CrossCraze | 140504 | [140504-crosscraze.json](./140504-crosscraze.json) |
 | Crossdoku: Math Crossword Sudoku | 127789 | [127789-crossdoku-math-crossword-sudoku.json](./127789-crossdoku-math-crossword-sudoku.json) |
+| Crossed Commands: Collision | 312777 | [312777-crossed-commands-collision.json](./312777-crossed-commands-collision.json) |
 | Crossed Parallel Lines Murder Case | 415076 | [415076-crossed-parallel-lines-murder-case.json](./415076-crossed-parallel-lines-murder-case.json) |
 | Crossed Paths | 183045 | [183045-crossed-paths.json](./183045-crossed-paths.json) |
 | Crossed Paths: Connected Worlds - At First Sight | 180105 | [180105-crossed-paths-connected-worlds-at-first-sight.json](./180105-crossed-paths-connected-worlds-at-first-sight.json) |
