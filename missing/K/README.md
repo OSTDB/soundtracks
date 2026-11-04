@@ -4768,6 +4768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koe | 50532 | [50532-koe.json](./50532-koe.json) |
 | Koe de Asobou! HeartCatch PreCure! | 123342 | [123342-koe-de-asobou-heartcatch-precure.json](./123342-koe-de-asobou-heartcatch-precure.json) |
 | Koe wo Tayori ni SP | 83818 | [83818-koe-wo-tayori-ni-sp.json](./83818-koe-wo-tayori-ni-sp.json) |
+| Koegasuru | 341799 | [341799-koegasuru.json](./341799-koegasuru.json) |
 | Koen Hunter | 97769 | [97769-koen-hunter.json](./97769-koen-hunter.json) |
 | Koenchu! The Tale of the Voice Actress: You, the Sky, and that Summer | 82714 | [82714-koenchu-the-tale-of-the-voice-actress-you-the-sky-and-that-summer.json](./82714-koenchu-the-tale-of-the-voice-actress-you-the-sky-and-that-summer.json) |
 | Koezaru ha Akai Hana: Koi ha Tsuki ni Michibikareru | 130001 | [130001-koezaru-ha-akai-hana-koi-ha-tsuki-ni-michibikareru.json](./130001-koezaru-ha-akai-hana-koi-ha-tsuki-ni-michibikareru.json) |
