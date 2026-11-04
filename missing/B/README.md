@@ -13600,6 +13600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box | 130782 | [130782-box.json](./130782-box.json) |
 | Box | 131332 | [131332-box.json](./131332-box.json) |
 | BoX -containment- | 32529 | [32529-box-containment.json](./32529-box-containment.json) |
+| Box 'n' Robot | 335007 | [335007-box-n-robot.json](./335007-box-n-robot.json) |
 | Box #341 | 333631 | [333631-box-341.json](./333631-box-341.json) |
 | Box A Chocolate | 112285 | [112285-box-a-chocolate.json](./112285-box-a-chocolate.json) |
 | Box Align | 86312 | [86312-box-align.json](./86312-box-align.json) |
