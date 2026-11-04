@@ -2185,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wastehaven | 152719 | [152719-wastehaven.json](./152719-wastehaven.json) |
 | Wastelan Wars | 242513 | [242513-wastelan-wars.json](./242513-wastelan-wars.json) |
 | Wasteland | 3100 | [3100-wasteland.json](./3100-wasteland.json) |
+| Wasteland | 317142 | [317142-wasteland.json](./317142-wasteland.json) |
 | Wasteland 2: Director's Cut | 20046 | [20046-wasteland-2-directors-cut.json](./20046-wasteland-2-directors-cut.json) |
 | Wasteland 2: Director's Cut - Digital Classic Edition | 124999 | [124999-wasteland-2-directors-cut-digital-classic-edition.json](./124999-wasteland-2-directors-cut-digital-classic-edition.json) |
 | Wasteland 2: Director's Cut - Digital Deluxe Edition | 53134 | [53134-wasteland-2-directors-cut-digital-deluxe-edition.json](./53134-wasteland-2-directors-cut-digital-deluxe-edition.json) |
@@ -4815,6 +4816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked Plague | 324691 | [324691-wicked-plague.json](./324691-wicked-plague.json) |
 | Wicked Rails VR | 158567 | [158567-wicked-rails-vr.json](./158567-wicked-rails-vr.json) |
 | Wicked Rider | 187129 | [187129-wicked-rider.json](./187129-wicked-rider.json) |
+| Wicked Room | 317148 | [317148-wicked-room.json](./317148-wicked-room.json) |
 | Wicked Seed | 338693 | [338693-wicked-seed.json](./338693-wicked-seed.json) |
 | Wicked Subway | 371615 | [371615-wicked-subway.json](./371615-wicked-subway.json) |
 | Wicked Surfing | 200674 | [200674-wicked-surfing.json](./200674-wicked-surfing.json) |
@@ -8735,6 +8737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrecked: Get Your Ship Together | 28805 | [28805-wrecked-get-your-ship-together.json](./28805-wrecked-get-your-ship-together.json) |
 | Wrecked: Revenge Revisited | 9863 | [9863-wrecked-revenge-revisited.json](./9863-wrecked-revenge-revisited.json) |
 | Wrecker | 127762 | [127762-wrecker.json](./127762-wrecker.json) |
+| Wrecker's Revenge | 317139 | [317139-wreckers-revenge.json](./317139-wreckers-revenge.json) |
 | Wreckers | 94670 | [94670-wreckers.json](./94670-wreckers.json) |
 | Wreckfest | 3772 | [3772-wreckfest.json](./3772-wreckfest.json) |
 | Wreckfest 2 | 312277 | [312277-wreckfest-2.json](./312277-wreckfest-2.json) |
