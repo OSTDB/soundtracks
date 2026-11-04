@@ -1980,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybara: The Story of Sisyphus | 291546 | [291546-capybara-the-story-of-sisyphus.json](./291546-capybara-the-story-of-sisyphus.json) |
 | Capybara: The Story of Sisyphus - Extra Content | 335467 | [335467-capybara-the-story-of-sisyphus-extra-content.json](./335467-capybara-the-story-of-sisyphus-extra-content.json) |
 | Capybara's Happytime | 346215 | [346215-capybaras-happytime.json](./346215-capybaras-happytime.json) |
+| Capybaradise | 310916 | [310916-capybaradise.json](./310916-capybaradise.json) |
 | Capybarista | 271079 | [271079-capybarista.json](./271079-capybarista.json) |
 | CapyBash | 392081 | [392081-capybash.json](./392081-capybash.json) |
 | Capybro | 263945 | [263945-capybro.json](./263945-capybro.json) |
@@ -4623,6 +4624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Causality | 27072 | [27072-causality.json](./27072-causality.json) |
 | Causality Effect | 228343 | [228343-causality-effect.json](./228343-causality-effect.json) |
 | Causality: Antopolia | 409364 | [409364-causality-antopolia.json](./409364-causality-antopolia.json) |
+| Causality! | 310914 | [310914-causality.json](./310914-causality.json) |
 | Cause of Death | 91937 | [91937-cause-of-death.json](./91937-cause-of-death.json) |
 | Cause to Exist | 365174 | [365174-cause-to-exist.json](./365174-cause-to-exist.json) |
 | Causeway | 105406 | [105406-causeway.json](./105406-causeway.json) |
@@ -8155,6 +8157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Trigger+ | 219077 | [219077-chrono-trigger.json](./219077-chrono-trigger.json) |
 | Chrono Wars | 60604 | [60604-chrono-wars.json](./60604-chrono-wars.json) |
 | Chrono Weaver | 211526 | [211526-chrono-weaver.json](./211526-chrono-weaver.json) |
+| Chrono-Shift | 310884 | [310884-chrono-shift.json](./310884-chrono-shift.json) |
 | Chrono's Arena | 126628 | [126628-chronos-arena.json](./126628-chronos-arena.json) |
 | ChronoBabes | 338527 | [338527-chronobabes.json](./338527-chronobabes.json) |
 | ChronoBelt SchwarzOath: Ayakashibito & Bullet Butlers Crossover Disk | 259485 | [259485-chronobelt-schwarzoath-ayakashibito-and-bullet-butlers-crossover-disk.json](./259485-chronobelt-schwarzoath-ayakashibito-and-bullet-butlers-crossover-disk.json) |
@@ -17412,6 +17415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossy Traffic: Road Rider | 240925 | [240925-crossy-traffic-road-rider.json](./240925-crossy-traffic-road-rider.json) |
 | Crossy Word | 393779 | [393779-crossy-word.json](./393779-crossy-word.json) |
 | Crossy Zombie | 213388 | [213388-crossy-zombie.json](./213388-crossy-zombie.json) |
+| Crossybara | 310911 | [310911-crossybara.json](./310911-crossybara.json) |
 | Crouching Panda, Hidden Moose | 343584 | [343584-crouching-panda-hidden-moose.json](./343584-crouching-panda-hidden-moose.json) |
 | Crouching Pony Hidden Dragon | 17173 | [17173-crouching-pony-hidden-dragon.json](./17173-crouching-pony-hidden-dragon.json) |
 | Crouching Tiger, Hidden Dragon | 248616 | [248616-crouching-tiger-hidden-dragon.json](./248616-crouching-tiger-hidden-dragon.json) |
