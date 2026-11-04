@@ -2529,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task Force Kampas | 117141 | [117141-task-force-kampas.json](./117141-task-force-kampas.json) |
 | Task III | 55150 | [55150-task-iii.json](./55150-task-iii.json) |
 | Task Men | 160095 | [160095-task-men.json](./160095-task-men.json) |
+| Task Overflow | 341255 | [341255-task-overflow.json](./341255-task-overflow.json) |
 | Task: 312 | 144861 | [144861-task-312.json](./144861-task-312.json) |
 | Taskbar Looters | 370626 | [370626-taskbar-looters.json](./370626-taskbar-looters.json) |
 | TaskForce Gamma-13 : An SCP Tale | 127609 | [127609-taskforce-gamma-13-an-scp-tale.json](./127609-taskforce-gamma-13-an-scp-tale.json) |
@@ -2739,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Sim 2020 | 147629 | [147629-taxi-sim-2020.json](./147629-taxi-sim-2020.json) |
 | Taxi Simulator | 123939 | [123939-taxi-simulator.json](./123939-taxi-simulator.json) |
 | Taxi Simulator | 343327 | [343327-taxi-simulator.json](./343327-taxi-simulator.json) |
+| Taxi Simulator Driver: NY City Rides | 341381 | [341381-taxi-simulator-driver-ny-city-rides.json](./341381-taxi-simulator-driver-ny-city-rides.json) |
 | Taxi Simulator in City | 263702 | [263702-taxi-simulator-in-city.json](./263702-taxi-simulator-in-city.json) |
 | Taxi Taxi Sim | 224697 | [224697-taxi-taxi-sim.json](./224697-taxi-taxi-sim.json) |
 | Taxi Trouble | 275467 | [275467-taxi-trouble.json](./275467-taxi-trouble.json) |
@@ -10229,6 +10231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Herbalist | 231526 | [231526-the-herbalist.json](./231526-the-herbalist.json) |
 | The Herbalist | 30942 | [30942-the-herbalist.json](./30942-the-herbalist.json) |
 | The Herd | 345785 | [345785-the-herd.json](./345785-the-herd.json) |
+| The Heretics | 341264 | [341264-the-heretics.json](./341264-the-heretics.json) |
 | The Heritage | 377563 | [377563-the-heritage.json](./377563-the-heritage.json) |
 | The Heritage | 54303 | [54303-the-heritage.json](./54303-the-heritage.json) |
 | The Hermetic Tower | 421560 | [421560-the-hermetic-tower.json](./421560-the-hermetic-tower.json) |
@@ -13306,6 +13309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mirror Lied | 46993 | [46993-the-mirror-lied.json](./46993-the-mirror-lied.json) |
 | The Mirror Mysteries | 61578 | [61578-the-mirror-mysteries.json](./61578-the-mirror-mysteries.json) |
 | The Mirror's Curse | 322686 | [322686-the-mirrors-curse.json](./322686-the-mirrors-curse.json) |
+| The Mirror's Edge | 341267 | [341267-the-mirrors-edge.json](./341267-the-mirrors-edge.json) |
 | The Mirror's End | 96189 | [96189-the-mirrors-end.json](./96189-the-mirrors-end.json) |
 | The Mirst | 206707 | [206707-the-mirst.json](./206707-the-mirst.json) |
 | The Misadventure of Melon | 120946 | [120946-the-misadventure-of-melon.json](./120946-the-misadventure-of-melon.json) |
@@ -18824,6 +18828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheoTown | 109152 | [109152-theotown.json](./109152-theotown.json) |
 | ThePaindog's BattleChat | 131145 | [131145-thepaindogs-battlechat.json](./131145-thepaindogs-battlechat.json) |
 | TheParcelEscape | 394073 | [394073-theparcelescape.json](./394073-theparcelescape.json) |
+| ThePlaneWar | 341265 | [341265-theplanewar.json](./341265-theplanewar.json) |
 | ThePoliticalUnderground | 285488 | [285488-thepoliticalunderground.json](./285488-thepoliticalunderground.json) |
 | Thera 1 | 225796 | [225796-thera-1.json](./225796-thera-1.json) |
 | Thera: Legacy of Great Torment | 356250 | [356250-thera-legacy-of-great-torment.json](./356250-thera-legacy-of-great-torment.json) |
