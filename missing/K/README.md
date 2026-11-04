@@ -4880,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koishi Adventure | 296241 | [296241-koishi-adventure.json](./296241-koishi-adventure.json) |
 | Koishi Adventure: Barrage Forbidden - Scarlet! | 303885 | [303885-koishi-adventure-barrage-forbidden-scarlet.json](./303885-koishi-adventure-barrage-forbidden-scarlet.json) |
 | Koishi's Lumo | 132280 | [132280-koishis-lumo.json](./132280-koishis-lumo.json) |
+| Koishiki Manual | 336848 | [336848-koishiki-manual.json](./336848-koishiki-manual.json) |
 | Koishite Doki-doki Choice Messe & Date | 251610 | [251610-koishite-doki-doki-choice-messe-and-date.json](./251610-koishite-doki-doki-choice-messe-and-date.json) |
 | Koisuru Natsu no Last Resort | 46959 | [46959-koisuru-natsu-no-last-resort.json](./46959-koisuru-natsu-no-last-resort.json) |
 | Koisuru Otome to Shugo no Tate Portable | 198249 | [198249-koisuru-otome-to-shugo-no-tate-portable.json](./198249-koisuru-otome-to-shugo-no-tate-portable.json) |
