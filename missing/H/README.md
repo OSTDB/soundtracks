@@ -12045,7 +12045,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperBody | 292518 | [292518-hyperbody.json](./292518-hyperbody.json) |
 | Hyperbolic Arcade Trading | 138503 | [138503-hyperbolic-arcade-trading.json](./138503-hyperbolic-arcade-trading.json) |
 | Hyperbolic Ignition | 84006 | [84006-hyperbolic-ignition.json](./84006-hyperbolic-ignition.json) |
-| Hyperbolica | 161510 | [161510-hyperbolica.json](./161510-hyperbolica.json) |
 | Hyperborea | 117703 | [117703-hyperborea.json](./117703-hyperborea.json) |
 | Hyperborea | 332932 | [332932-hyperborea.json](./332932-hyperborea.json) |
 | Hyperborean Charter | 113025 | [113025-hyperborean-charter.json](./113025-hyperborean-charter.json) |
