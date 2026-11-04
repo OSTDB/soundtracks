@@ -3447,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Building Simulator: IT Expansion | 250032 | [250032-pc-building-simulator-it-expansion.json](./250032-pc-building-simulator-it-expansion.json) |
 | PC Calciatori 2004 | 71304 | [71304-pc-calciatori-2004.json](./71304-pc-calciatori-2004.json) |
 | PC Calciatori 2005 | 100036 | [100036-pc-calciatori-2005.json](./100036-pc-calciatori-2005.json) |
+| PC Calcio 7.0 | 298779 | [298779-pc-calcio-7-0.json](./298779-pc-calcio-7-0.json) |
 | PC Classix | 79018 | [79018-pc-classix.json](./79018-pc-classix.json) |
 | PC Creator: PC Building Simulator | 186329 | [186329-pc-creator-pc-building-simulator.json](./186329-pc-creator-pc-building-simulator.json) |
 | PC Engine Best Collection: Tengai Makyou Collection | 62136 | [62136-pc-engine-best-collection-tengai-makyou-collection.json](./62136-pc-engine-best-collection-tengai-makyou-collection.json) |
@@ -10074,6 +10075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Monsters Stadium | 47734 | [47734-pocket-monsters-stadium.json](./47734-pocket-monsters-stadium.json) |
 | Pocket Monsters: Suuji wo Tsukamaeyou! | 63849 | [63849-pocket-monsters-suuji-wo-tsukamaeyou.json](./63849-pocket-monsters-suuji-wo-tsukamaeyou.json) |
 | Pocket Mortys | 16306 | [16306-pocket-mortys.json](./16306-pocket-mortys.json) |
+| Pocket Music | 298503 | [298503-pocket-music.json](./298503-pocket-music.json) |
 | Pocket Music | 98797 | [98797-pocket-music.json](./98797-pocket-music.json) |
 | Pocket MuuMuu | 72991 | [72991-pocket-muumuu.json](./72991-pocket-muumuu.json) |
 | Pocket Mystery EP | 322056 | [322056-pocket-mystery-ep.json](./322056-pocket-mystery-ep.json) |
@@ -12142,6 +12144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poom | 165143 | [165143-poom.json](./165143-poom.json) |
 | Poom: Miasma Massacre | 229757 | [229757-poom-miasma-massacre.json](./229757-poom-miasma-massacre.json) |
 | Poon Puzzle: Hard Levels DLC | 295109 | [295109-poon-puzzle-hard-levels-dlc.json](./295109-poon-puzzle-hard-levels-dlc.json) |
+| Pooool | 298765 | [298765-pooool.json](./298765-pooool.json) |
 | Poop | 314318 | [314318-poop.json](./314318-poop.json) |
 | Poop | 314398 | [314398-poop.json](./314398-poop.json) |
 | Poop City | 367185 | [367185-poop-city.json](./367185-poop-city.json) |
@@ -17242,6 +17245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple Fantasy | 213610 | [213610-purple-fantasy.json](./213610-purple-fantasy.json) |
 | Purple Game | 316358 | [316358-purple-game.json](./316358-purple-game.json) |
 | Purple Noise Echo | 120711 | [120711-purple-noise-echo.json](./120711-purple-noise-echo.json) |
+| Purple Orchid | 298840 | [298840-purple-orchid.json](./298840-purple-orchid.json) |
 | Purple Pink Chinese Food | 299237 | [299237-purple-pink-chinese-food.json](./299237-purple-pink-chinese-food.json) |
 | Purple Pink Coloring Book | 299282 | [299282-purple-pink-coloring-book.json](./299282-purple-pink-coloring-book.json) |
 | Purple Pink English | 299284 | [299284-purple-pink-english.json](./299284-purple-pink-english.json) |
