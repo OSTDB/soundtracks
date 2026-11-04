@@ -6287,6 +6287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Catch | 217819 | [217819-the-big-catch.json](./217819-the-big-catch.json) |
 | The Big City | 270702 | [270702-the-big-city.json](./270702-the-big-city.json) |
 | The Big Con: Grift of the Year Edition | 201255 | [201255-the-big-con-grift-of-the-year-edition.json](./201255-the-big-con-grift-of-the-year-edition.json) |
+| The Big Crab Escape | 315738 | [315738-the-big-crab-escape.json](./315738-the-big-crab-escape.json) |
 | The Big Deal | 13815 | [13815-the-big-deal.json](./13815-the-big-deal.json) |
 | The Big Deal | 267219 | [267219-the-big-deal.json](./267219-the-big-deal.json) |
 | The Big Elk | 33340 | [33340-the-big-elk.json](./33340-the-big-elk.json) |
@@ -13416,6 +13417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Misshitsu kara no Dasshutsu 2 | 125774 | [125774-the-misshitsu-kara-no-dasshutsu-2.json](./125774-the-misshitsu-kara-no-dasshutsu-2.json) |
 | The Misshitsu kara no Dasshutsu: The Suiri Bangai-hen | 125778 | [125778-the-misshitsu-kara-no-dasshutsu-the-suiri-bangai-hen.json](./125778-the-misshitsu-kara-no-dasshutsu-the-suiri-bangai-hen.json) |
 | The Misshitsu kara no Dasshutsu: Unmei wo Tsunagu 35 no Nazo | 147327 | [147327-the-misshitsu-kara-no-dasshutsu-unmei-wo-tsunagu-35-no-nazo.json](./147327-the-misshitsu-kara-no-dasshutsu-unmei-wo-tsunagu-35-no-nazo.json) |
+| The Missing Daughter | 315408 | [315408-the-missing-daughter.json](./315408-the-missing-daughter.json) |
 | The Missing Few | 110808 | [110808-the-missing-few.json](./110808-the-missing-few.json) |
 | The Missing Link | 190442 | [190442-the-missing-link.json](./190442-the-missing-link.json) |
 | The Missing Locksmith | 135049 | [135049-the-missing-locksmith.json](./135049-the-missing-locksmith.json) |
@@ -23148,6 +23150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNT: Evilution | 313169 | [313169-tnt-evilution.json](./313169-tnt-evilution.json) |
 | TNT: Evilution | 46616 | [46616-tnt-evilution.json](./46616-tnt-evilution.json) |
 | TNT: Renascence | 260860 | [260860-tnt-renascence.json](./260860-tnt-renascence.json) |
+| TNT: Resistance | 315732 | [315732-tnt-resistance.json](./315732-tnt-resistance.json) |
 | TNT: Threevilution | 316174 | [316174-tnt-threevilution.json](./316174-tnt-threevilution.json) |
 | TNT! | 118978 | [118978-tnt.json](./118978-tnt.json) |
 | TNTPhobia | 311461 | [311461-tntphobia.json](./311461-tntphobia.json) |
@@ -24178,6 +24181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider Level Editor | 130808 | [130808-tomb-raider-level-editor.json](./130808-tomb-raider-level-editor.json) |
 | Tomb Raider Reloaded | 143139 | [143139-tomb-raider-reloaded.json](./143139-tomb-raider-reloaded.json) |
 | Tomb Raider Starring Lara Croft | 36878 | [36878-tomb-raider-starring-lara-croft.json](./36878-tomb-raider-starring-lara-croft.json) |
+| Tomb Raider Tokyo 9: Grand Lodge / Dark Lair | 315401 | [315401-tomb-raider-tokyo-9-grand-lodge-dark-lair.json](./315401-tomb-raider-tokyo-9-grand-lodge-dark-lair.json) |
 | Tomb Raider VR: Lara's Escape | 322639 | [322639-tomb-raider-vr-laras-escape.json](./322639-tomb-raider-vr-laras-escape.json) |
 | Tomb Raider: 10th Anniversary Edition | 142826 | [142826-tomb-raider-10th-anniversary-edition.json](./142826-tomb-raider-10th-anniversary-edition.json) |
 | Tomb Raider: 1939 Multiplayer Map Pack | 406528 | [406528-tomb-raider-1939-multiplayer-map-pack.json](./406528-tomb-raider-1939-multiplayer-map-pack.json) |
@@ -26406,6 +26410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic 2 | 97685 | [97685-toxic-2.json](./97685-toxic-2.json) |
 | Toxic Bubbles | 23730 | [23730-toxic-bubbles.json](./23730-toxic-bubbles.json) |
 | Toxic Bunny | 145523 | [145523-toxic-bunny.json](./145523-toxic-bunny.json) |
+| Toxic Cove | 315406 | [315406-toxic-cove.json](./315406-toxic-cove.json) |
 | Toxic Crusaders | 175121 | [175121-toxic-crusaders.json](./175121-toxic-crusaders.json) |
 | Toxic Crusaders | 175122 | [175122-toxic-crusaders.json](./175122-toxic-crusaders.json) |
 | Toxic Crusaders | 214895 | [214895-toxic-crusaders.json](./214895-toxic-crusaders.json) |
@@ -29232,6 +29237,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure of Abyss | 109358 | [109358-treasure-of-abyss.json](./109358-treasure-of-abyss.json) |
 | Treasure of Barracuda | 165695 | [165695-treasure-of-barracuda.json](./165695-treasure-of-barracuda.json) |
 | Treasure of Big Totem | 315258 | [315258-treasure-of-big-totem.json](./315258-treasure-of-big-totem.json) |
+| Treasure of Big Totem 10 | 315421 | [315421-treasure-of-big-totem-10.json](./315421-treasure-of-big-totem-10.json) |
+| Treasure of Big Totem 11 | 315422 | [315422-treasure-of-big-totem-11.json](./315422-treasure-of-big-totem-11.json) |
+| Treasure of Big Totem 12 | 315423 | [315423-treasure-of-big-totem-12.json](./315423-treasure-of-big-totem-12.json) |
+| Treasure of Big Totem 13 | 315427 | [315427-treasure-of-big-totem-13.json](./315427-treasure-of-big-totem-13.json) |
+| Treasure of Big Totem 14 | 315428 | [315428-treasure-of-big-totem-14.json](./315428-treasure-of-big-totem-14.json) |
+| Treasure of Big Totem 15 | 315429 | [315429-treasure-of-big-totem-15.json](./315429-treasure-of-big-totem-15.json) |
 | Treasure of Big Totem 16 | 315432 | [315432-treasure-of-big-totem-16.json](./315432-treasure-of-big-totem-16.json) |
 | Treasure of Big Totem 17 | 315433 | [315433-treasure-of-big-totem-17.json](./315433-treasure-of-big-totem-17.json) |
 | Treasure of Big Totem 2 | 315259 | [315259-treasure-of-big-totem-2.json](./315259-treasure-of-big-totem-2.json) |
@@ -29241,6 +29252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure of Big Totem 6 | 315264 | [315264-treasure-of-big-totem-6.json](./315264-treasure-of-big-totem-6.json) |
 | Treasure of Big Totem 7 | 315266 | [315266-treasure-of-big-totem-7.json](./315266-treasure-of-big-totem-7.json) |
 | Treasure of Big Totem 8 | 315267 | [315267-treasure-of-big-totem-8.json](./315267-treasure-of-big-totem-8.json) |
+| Treasure of Big Totem 9 | 315419 | [315419-treasure-of-big-totem-9.json](./315419-treasure-of-big-totem-9.json) |
 | Treasure of Big Totem: The Narrative | 315441 | [315441-treasure-of-big-totem-the-narrative.json](./315441-treasure-of-big-totem-the-narrative.json) |
 | Treasure of Cutlass Reef | 261211 | [261211-treasure-of-cutlass-reef.json](./261211-treasure-of-cutlass-reef.json) |
 | Treasure of Cutuma 3rd | 164205 | [164205-treasure-of-cutuma-3rd.json](./164205-treasure-of-cutuma-3rd.json) |
@@ -30419,6 +30431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tru Or Die: Chiraq | 280850 | [280850-tru-or-die-chiraq.json](./280850-tru-or-die-chiraq.json) |
 | Truants | 155931 | [155931-truants.json](./155931-truants.json) |
 | Trüberbrook | 70396 | [70396-truberbrook.json](./70396-truberbrook.json) |
+| Truc Bidule | 315418 | [315418-truc-bidule.json](./315418-truc-bidule.json) |
 | Truck | 298266 | [298266-truck.json](./298266-truck.json) |
 | Truck & Camping Collection | 328466 | [328466-truck-and-camping-collection.json](./328466-truck-and-camping-collection.json) |
 | Truck & Logistics Simulator | 129757 | [129757-truck-and-logistics-simulator.json](./129757-truck-and-logistics-simulator.json) |
@@ -32347,6 +32360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typo | 145677 | [145677-typo.json](./145677-typo.json) |
 | Typo | 219528 | [219528-typo.json](./219528-typo.json) |
 | Typo | 403693 | [403693-typo.json](./403693-typo.json) |
+| Typo Attack | 315410 | [315410-typo-attack.json](./315410-typo-attack.json) |
 | Typo II | 42168 | [42168-typo-ii.json](./42168-typo-ii.json) |
 | Typo Man | 42142 | [42142-typo-man.json](./42142-typo-man.json) |
 | Typo! | 323488 | [323488-typo.json](./323488-typo.json) |
