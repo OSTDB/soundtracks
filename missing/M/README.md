@@ -5981,6 +5981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze in Your Mind | 351598 | [351598-maze-in-your-mind.json](./351598-maze-in-your-mind.json) |
 | Maze Invaders | 98243 | [98243-maze-invaders.json](./98243-maze-invaders.json) |
 | Maze It Out | 374730 | [374730-maze-it-out.json](./374730-maze-it-out.json) |
+| Maze Keeper | 310345 | [310345-maze-keeper.json](./310345-maze-keeper.json) |
 | Maze Land | 92143 | [92143-maze-land.json](./92143-maze-land.json) |
 | Maze Lord | 33305 | [33305-maze-lord.json](./33305-maze-lord.json) |
 | Maze Lovers Memorial | 367469 | [367469-maze-lovers-memorial.json](./367469-maze-lovers-memorial.json) |
@@ -18426,6 +18427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Sports | 94688 | [94688-multi-sports.json](./94688-multi-sports.json) |
 | Multi Sports II | 301579 | [301579-multi-sports-ii.json](./301579-multi-sports-ii.json) |
 | Multi Theft Auto | 140059 | [140059-multi-theft-auto.json](./140059-multi-theft-auto.json) |
+| Multi-Path | 310343 | [310343-multi-path.json](./310343-multi-path.json) |
 | Multi-Purpose Arcade Combat Simulator | 38192 | [38192-multi-purpose-arcade-combat-simulator.json](./38192-multi-purpose-arcade-combat-simulator.json) |
 | Multi-Users in Middle-earth | 136790 | [136790-multi-users-in-middle-earth.json](./136790-multi-users-in-middle-earth.json) |
 | Multi's Going Out | 300271 | [300271-multis-going-out.json](./300271-multis-going-out.json) |
@@ -19938,6 +19940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Horse Farm: Welcome to Trotterville | 206775 | [206775-my-horse-farm-welcome-to-trotterville.json](./206775-my-horse-farm-welcome-to-trotterville.json) |
 | My Horse Prince | 26786 | [26786-my-horse-prince.json](./26786-my-horse-prince.json) |
 | My Horse Stories | 300847 | [300847-my-horse-stories.json](./300847-my-horse-stories.json) |
+| My Horse Stories: Classy Edition | 310425 | [310425-my-horse-stories-classy-edition.json](./310425-my-horse-stories-classy-edition.json) |
 | My Horse Stories: Fancy | 300931 | [300931-my-horse-stories-fancy.json](./300931-my-horse-stories-fancy.json) |
 | My Horse Stories: Gold Edition | 385205 | [385205-my-horse-stories-gold-edition.json](./385205-my-horse-stories-gold-edition.json) |
 | My Horse Stories: Stylish Edition | 404545 | [404545-my-horse-stories-stylish-edition.json](./404545-my-horse-stories-stylish-edition.json) |
