@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-Ball | 126540 | [126540-e-ball.json](./126540-e-ball.json) |
 | E-circle | 203943 | [203943-e-circle.json](./203943-e-circle.json) |
 | E-commerce Simulator | 303507 | [303507-e-commerce-simulator.json](./303507-e-commerce-simulator.json) |
+| E-Commerce Simulator 2025 | 329331 | [329331-e-commerce-simulator-2025.json](./329331-e-commerce-simulator-2025.json) |
 | E-Elementals | 208436 | [208436-e-elementals.json](./208436-e-elementals.json) |
 | E-FCC | 311742 | [311742-e-fcc.json](./311742-e-fcc.json) |
 | E-Girl RoomMate | 290908 | [290908-e-girl-roommate.json](./290908-e-girl-roommate.json) |
@@ -6480,6 +6481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Events | 339278 | [339278-events.json](./339278-events.json) |
 | Eventyr | 272476 | [272476-eventyr.json](./272476-eventyr.json) |
 | Ever 17: The Out of Infinity | 323127 | [323127-ever-17-the-out-of-infinity.json](./323127-ever-17-the-out-of-infinity.json) |
+| Ever 17/Never 7 Double Pack | 329448 | [329448-ever-17-never-7-double-pack.json](./329448-ever-17-never-7-double-pack.json) |
 | Ever After Again: A Stories Adventure | 414459 | [414459-ever-after-again-a-stories-adventure.json](./414459-ever-after-again-a-stories-adventure.json) |
 | Ever After High Boots Trend Girl Games | 103140 | [103140-ever-after-high-boots-trend-girl-games.json](./103140-ever-after-high-boots-trend-girl-games.json) |
 | Ever End | 105019 | [105019-ever-end.json](./105019-ever-end.json) |
