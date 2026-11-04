@@ -12707,6 +12707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Vault | 117012 | [117012-doomsday-vault.json](./117012-doomsday-vault.json) |
 | Doomsday Warrior | 42599 | [42599-doomsday-warrior.json](./42599-doomsday-warrior.json) |
 | Doomsday: Last Survivors | 187739 | [187739-doomsday-last-survivors.json](./187739-doomsday-last-survivors.json) |
+| Doomspire | 345196 | [345196-doomspire.json](./345196-doomspire.json) |
 | Doomstacker | 389828 | [389828-doomstacker.json](./389828-doomstacker.json) |
 | Doomstar | 110217 | [110217-doomstar.json](./110217-doomstar.json) |
 | Doomtank | 118762 | [118762-doomtank.json](./118762-doomtank.json) |
@@ -18475,6 +18476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamo Kid 2 | 399923 | [399923-dynamo-kid-2.json](./399923-dynamo-kid-2.json) |
 | Dynamo Kid 3 | 399921 | [399921-dynamo-kid-3.json](./399921-dynamo-kid-3.json) |
 | Dynamo Kid Touch | 399424 | [399424-dynamo-kid-touch.json](./399424-dynamo-kid-touch.json) |
+| Dynamons World | 345191 | [345191-dynamons-world.json](./345191-dynamons-world.json) |
 | Dynapuff Jump! | 102030 | [102030-dynapuff-jump.json](./102030-dynapuff-jump.json) |
 | Dynarog | 150388 | [150388-dynarog.json](./150388-dynarog.json) |
 | Dynarog 2 | 165732 | [165732-dynarog-2.json](./165732-dynarog-2.json) |
