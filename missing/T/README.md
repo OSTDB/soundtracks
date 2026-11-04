@@ -2439,6 +2439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target Runner | 149690 | [149690-target-runner.json](./149690-target-runner.json) |
 | Target Rush | 292042 | [292042-target-rush.json](./292042-target-rush.json) |
 | Target speed | 82330 | [82330-target-speed.json](./82330-target-speed.json) |
+| Target Strikers: Deadly Dart | 321874 | [321874-target-strikers-deadly-dart.json](./321874-target-strikers-deadly-dart.json) |
 | Target Toss Pro: Bags | 85431 | [85431-target-toss-pro-bags.json](./85431-target-toss-pro-bags.json) |
 | Target Toss Pro: Lawn Darts | 66355 | [66355-target-toss-pro-lawn-darts.json](./66355-target-toss-pro-lawn-darts.json) |
 | Target: Pheromone | 127794 | [127794-target-pheromone.json](./127794-target-pheromone.json) |
@@ -5288,6 +5289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aching | 240831 | [240831-the-aching.json](./240831-the-aching.json) |
 | The Aching Aversion: Blood Orange Dreams | 312589 | [312589-the-aching-aversion-blood-orange-dreams.json](./312589-the-aching-aversion-blood-orange-dreams.json) |
 | The Acid Queens of the Moon | 379409 | [379409-the-acid-queens-of-the-moon.json](./379409-the-acid-queens-of-the-moon.json) |
+| The Acorn Bounty | 321920 | [321920-the-acorn-bounty.json](./321920-the-acorn-bounty.json) |
 | The Acorn Protocol | 408036 | [408036-the-acorn-protocol.json](./408036-the-acorn-protocol.json) |
 | The Act | 64990 | [64990-the-act.json](./64990-the-act.json) |
 | The Act: An Interactive Comedy | 300664 | [300664-the-act-an-interactive-comedy.json](./300664-the-act-an-interactive-comedy.json) |
@@ -7689,6 +7691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dam Nation | 211135 | [211135-the-dam-nation.json](./211135-the-dam-nation.json) |
 | The Dama | 101503 | [101503-the-dama.json](./101503-the-dama.json) |
 | The Damathos Clan | 157453 | [157453-the-damathos-clan.json](./157453-the-damathos-clan.json) |
+| The Damn Psychiatric | 321881 | [321881-the-damn-psychiatric.json](./321881-the-damn-psychiatric.json) |
 | The Damned Forest | 69200 | [69200-the-damned-forest.json](./69200-the-damned-forest.json) |
 | The Dance of Maple Leaves | 346670 | [346670-the-dance-of-maple-leaves.json](./346670-the-dance-of-maple-leaves.json) |
 | The Dance of the Little Water Drops | 104669 | [104669-the-dance-of-the-little-water-drops.json](./104669-the-dance-of-the-little-water-drops.json) |
@@ -9445,6 +9448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fox Awaits Me | 131983 | [131983-the-fox-awaits-me.json](./131983-the-fox-awaits-me.json) |
 | The Fox Awaits Me Hana | 265642 | [265642-the-fox-awaits-me-hana.json](./265642-the-fox-awaits-me-hana.json) |
 | The Fox Awaits Me: Limited Edition | 188644 | [188644-the-fox-awaits-me-limited-edition.json](./188644-the-fox-awaits-me-limited-edition.json) |
+| The Fox Hare Disaster: Chapter One | 321882 | [321882-the-fox-hare-disaster-chapter-one.json](./321882-the-fox-hare-disaster-chapter-one.json) |
 | The Fox of Capistrano | 407404 | [407404-the-fox-of-capistrano.json](./407404-the-fox-of-capistrano.json) |
 | The Fox's Dream | 383162 | [383162-the-foxs-dream.json](./383162-the-foxs-dream.json) |
 | The Fox's Way Home | 308875 | [308875-the-foxs-way-home.json](./308875-the-foxs-way-home.json) |
@@ -9909,6 +9913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Biohazard Escape | 183837 | [183837-the-great-biohazard-escape.json](./183837-the-great-biohazard-escape.json) |
 | The Great Book of Mario | 227972 | [227972-the-great-book-of-mario.json](./227972-the-great-book-of-mario.json) |
 | The Great C | 107306 | [107306-the-great-c.json](./107306-the-great-c.json) |
+| The Great Castle Adventure | 321890 | [321890-the-great-castle-adventure.json](./321890-the-great-castle-adventure.json) |
 | The Great Cave Offensive | 271262 | [271262-the-great-cave-offensive.json](./271262-the-great-cave-offensive.json) |
 | The Great Cave Offensive | 271405 | [271405-the-great-cave-offensive.json](./271405-the-great-cave-offensive.json) |
 | The Great Chain of Being | 174603 | [174603-the-great-chain-of-being.json](./174603-the-great-chain-of-being.json) |
@@ -10866,6 +10871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Intruder | 185283 | [185283-the-intruder.json](./185283-the-intruder.json) |
 | The Intruder | 265600 | [265600-the-intruder.json](./265600-the-intruder.json) |
 | The Invading Dark | 330572 | [330572-the-invading-dark.json](./330572-the-invading-dark.json) |
+| The Invasion | 321891 | [321891-the-invasion.json](./321891-the-invasion.json) |
 | The Invasion 2 | 268038 | [268038-the-invasion-2.json](./268038-the-invasion-2.json) |
 | The Invasion of Area 51 | 130871 | [130871-the-invasion-of-area-51.json](./130871-the-invasion-of-area-51.json) |
 | The Invention of "Q" | 383660 | [383660-the-invention-of-q.json](./383660-the-invention-of-q.json) |
@@ -23315,6 +23321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toads of the Bayou | 244138 | [244138-toads-of-the-bayou.json](./244138-toads-of-the-bayou.json) |
 | Toads of Trees | 386076 | [386076-toads-of-trees.json](./386076-toads-of-trees.json) |
 | Toads vs. Koopas | 307663 | [307663-toads-vs-koopas.json](./307663-toads-vs-koopas.json) |
+| Toads vs. Koopas: Bowser's Conquest | 321887 | [321887-toads-vs-koopas-bowsers-conquest.json](./321887-toads-vs-koopas-bowsers-conquest.json) |
 | Toaplan Arcade 1 | 216586 | [216586-toaplan-arcade-1.json](./216586-toaplan-arcade-1.json) |
 | Toaplan Arcade 2 | 239142 | [239142-toaplan-arcade-2.json](./239142-toaplan-arcade-2.json) |
 | Toaplan Arcade 4 | 346803 | [346803-toaplan-arcade-4.json](./346803-toaplan-arcade-4.json) |
@@ -24817,6 +24824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torchlight III | 106987 | [106987-torchlight-iii.json](./106987-torchlight-iii.json) |
 | Torchlight Mobile | 26905 | [26905-torchlight-mobile.json](./26905-torchlight-mobile.json) |
 | Torchlight: Infinite - Cube of Rapacity | 249332 | [249332-torchlight-infinite-cube-of-rapacity.json](./249332-torchlight-infinite-cube-of-rapacity.json) |
+| Torchr Runners: Demastered | 321908 | [321908-torchr-runners-demastered.json](./321908-torchr-runners-demastered.json) |
 | Torchure | 180183 | [180183-torchure.json](./180183-torchure.json) |
 | Torchure | 352262 | [352262-torchure.json](./352262-torchure.json) |
 | Tore World | 127522 | [127522-tore-world.json](./127522-tore-world.json) |
@@ -32260,6 +32268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typhoon Unit: Butterfly Requiem | 127699 | [127699-typhoon-unit-butterfly-requiem.json](./127699-typhoon-unit-butterfly-requiem.json) |
 | Typical | 108664 | [108664-typical.json](./108664-typical.json) |
 | Typical Mario Game | 322915 | [322915-typical-mario-game.json](./322915-typical-mario-game.json) |
+| Typical Mario Game 1/8 | 321868 | [321868-typical-mario-game-1-8.json](./321868-typical-mario-game-1-8.json) |
 | Typical nightmare | 99603 | [99603-typical-nightmare.json](./99603-typical-nightmare.json) |
 | Typical NPC | 412263 | [412263-typical-npc.json](./412263-typical-npc.json) |
 | TypInc. | 334037 | [334037-typinc.json](./334037-typinc.json) |
