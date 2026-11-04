@@ -1959,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Sisters | 397742 | [397742-mahjong-sisters.json](./397742-mahjong-sisters.json) |
 | Mahjong Solitaire | 230697 | [230697-mahjong-solitaire.json](./230697-mahjong-solitaire.json) |
 | Mahjong Solitaire | 232382 | [232382-mahjong-solitaire.json](./232382-mahjong-solitaire.json) |
+| Mahjong Solitaire | 302306 | [302306-mahjong-solitaire.json](./302306-mahjong-solitaire.json) |
 | Mahjong Solitaire | 80453 | [80453-mahjong-solitaire.json](./80453-mahjong-solitaire.json) |
 | Mahjong Solitaire 100 | 156886 | [156886-mahjong-solitaire-100.json](./156886-mahjong-solitaire-100.json) |
 | Mahjong Solitaire Epic | 88426 | [88426-mahjong-solitaire-epic.json](./88426-mahjong-solitaire-epic.json) |
@@ -4374,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martian Law | 121987 | [121987-martian-law.json](./121987-martian-law.json) |
 | Martian Panic | 4996 | [4996-martian-panic.json](./4996-martian-panic.json) |
 | Martian Potato | 157041 | [157041-martian-potato.json](./157041-martian-potato.json) |
+| Martian Routine | 302311 | [302311-martian-routine.json](./302311-martian-routine.json) |
 | Martian Secrets | 262862 | [262862-martian-secrets.json](./262862-martian-secrets.json) |
 | Martian Space Blaster | 186261 | [186261-martian-space-blaster.json](./186261-martian-space-blaster.json) |
 | Martian Successor Nadesico ~Yappari Saigo ha [Ai ga Katsu] ?~ | 125375 | [125375-martian-successor-nadesico-yappari-saigo-ha-ai-ga-katsu.json](./125375-martian-successor-nadesico-yappari-saigo-ha-ai-ga-katsu.json) |
@@ -5732,7 +5734,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6053,6 +6054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Slider | 143969 | [143969-maze-slider.json](./143969-maze-slider.json) |
 | Maze Survivor | 408979 | [408979-maze-survivor.json](./408979-maze-survivor.json) |
 | Maze Tanks | 252222 | [252222-maze-tanks.json](./252222-maze-tanks.json) |
+| Maze TD Battleground | 302554 | [302554-maze-td-battleground.json](./302554-maze-td-battleground.json) |
 | Maze the Quest | 197029 | [197029-maze-the-quest.json](./197029-maze-the-quest.json) |
 | Maze Trials | 67601 | [67601-maze-trials.json](./67601-maze-trials.json) |
 | Maze Twister | 191820 | [191820-maze-twister.json](./191820-maze-twister.json) |
@@ -6752,6 +6754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Builders: Strongholds & Castles | 236908 | [236908-medieval-builders-strongholds-and-castles.json](./236908-medieval-builders-strongholds-and-castles.json) |
 | Medieval Businessman | 311218 | [311218-medieval-businessman.json](./311218-medieval-businessman.json) |
 | Medieval Castle Siege Defense vs. Invaders | 406083 | [406083-medieval-castle-siege-defense-vs-invaders.json](./406083-medieval-castle-siege-defense-vs-invaders.json) |
+| Medieval Chaos | 302315 | [302315-medieval-chaos.json](./302315-medieval-chaos.json) |
 | Medieval Clicker Blacksmith | 256735 | [256735-medieval-clicker-blacksmith.json](./256735-medieval-clicker-blacksmith.json) |
 | Medieval Coin Hunt | 368540 | [368540-medieval-coin-hunt.json](./368540-medieval-coin-hunt.json) |
 | Medieval Combat: Age of Glory | 216354 | [216354-medieval-combat-age-of-glory.json](./216354-medieval-combat-age-of-glory.json) |
@@ -8088,13 +8091,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaton Musashi W: Wired - V Navigator: Dragon | 302517 | [302517-megaton-musashi-w-wired-v-navigator-dragon.json](./302517-megaton-musashi-w-wired-v-navigator-dragon.json) |
 | Megaton Musashi W: Wired - V Navigator: Jibanyan | 302519 | [302519-megaton-musashi-w-wired-v-navigator-jibanyan.json](./302519-megaton-musashi-w-wired-v-navigator-jibanyan.json) |
 | Megaton Musashi W: Wired - V Navigator: Korone Inugami | 302515 | [302515-megaton-musashi-w-wired-v-navigator-korone-inugami.json](./302515-megaton-musashi-w-wired-v-navigator-korone-inugami.json) |
+| Megaton Musashi W: Wired - Victory Pose: Badass | 302543 | [302543-megaton-musashi-w-wired-victory-pose-badass.json](./302543-megaton-musashi-w-wired-victory-pose-badass.json) |
 | Megaton Musashi W: Wired - Victory Pose: Bodybuilder | 302538 | [302538-megaton-musashi-w-wired-victory-pose-bodybuilder.json](./302538-megaton-musashi-w-wired-victory-pose-bodybuilder.json) |
+| Megaton Musashi W: Wired - Victory Pose: Boxing | 302545 | [302545-megaton-musashi-w-wired-victory-pose-boxing.json](./302545-megaton-musashi-w-wired-victory-pose-boxing.json) |
 | Megaton Musashi W: Wired - Victory Pose: Drums | 302527 | [302527-megaton-musashi-w-wired-victory-pose-drums.json](./302527-megaton-musashi-w-wired-victory-pose-drums.json) |
 | Megaton Musashi W: Wired - Victory Pose: Fist Pump | 302529 | [302529-megaton-musashi-w-wired-victory-pose-fist-pump.json](./302529-megaton-musashi-w-wired-victory-pose-fist-pump.json) |
 | Megaton Musashi W: Wired - Victory Pose: Hero | 302528 | [302528-megaton-musashi-w-wired-victory-pose-hero.json](./302528-megaton-musashi-w-wired-victory-pose-hero.json) |
+| Megaton Musashi W: Wired - Victory Pose: Hoodlum | 302544 | [302544-megaton-musashi-w-wired-victory-pose-hoodlum.json](./302544-megaton-musashi-w-wired-victory-pose-hoodlum.json) |
 | Megaton Musashi W: Wired - Victory Pose: Kabuki | 302530 | [302530-megaton-musashi-w-wired-victory-pose-kabuki.json](./302530-megaton-musashi-w-wired-victory-pose-kabuki.json) |
 | Megaton Musashi W: Wired - Victory Pose: Karate | 302539 | [302539-megaton-musashi-w-wired-victory-pose-karate.json](./302539-megaton-musashi-w-wired-victory-pose-karate.json) |
+| Megaton Musashi W: Wired - Victory Pose: Mystery | 302542 | [302542-megaton-musashi-w-wired-victory-pose-mystery.json](./302542-megaton-musashi-w-wired-victory-pose-mystery.json) |
 | Megaton Musashi W: Wired - Victory Pose: Robot Dance | 302540 | [302540-megaton-musashi-w-wired-victory-pose-robot-dance.json](./302540-megaton-musashi-w-wired-victory-pose-robot-dance.json) |
+| Megaton Musashi W: Wired - Victory Pose: Squad Pose | 302541 | [302541-megaton-musashi-w-wired-victory-pose-squad-pose.json](./302541-megaton-musashi-w-wired-victory-pose-squad-pose.json) |
 | Megaton Musashi: Cross | 58097 | [58097-megaton-musashi-cross.json](./58097-megaton-musashi-cross.json) |
 | Megaton Punch | 134458 | [134458-megaton-punch.json](./134458-megaton-punch.json) |
 | Megaton Rainfall | 54580 | [54580-megaton-rainfall.json](./54580-megaton-rainfall.json) |
@@ -15108,6 +15116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Battles: Portals | 125666 | [125666-monster-battles-portals.json](./125666-monster-battles-portals.json) |
 | Monster Blast | 146780 | [146780-monster-blast.json](./146780-monster-blast.json) |
 | Monster Blast Infinity | 330940 | [330940-monster-blast-infinity.json](./330940-monster-blast-infinity.json) |
+| Monster Blitz | 302565 | [302565-monster-blitz.json](./302565-monster-blitz.json) |
 | Monster Block | 41193 | [41193-monster-block.json](./41193-monster-block.json) |
 | Monster Block Game | 235236 | [235236-monster-block-game.json](./235236-monster-block-game.json) |
 | Monster Bomber | 20617 | [20617-monster-bomber.json](./20617-monster-bomber.json) |
