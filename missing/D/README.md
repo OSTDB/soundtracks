@@ -6236,6 +6236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Hunt | 319555 | [319555-demon-hunt.json](./319555-demon-hunt.json) |
 | Demon Hunter | 117579 | [117579-demon-hunter.json](./117579-demon-hunter.json) |
 | Demon Hunter | 208747 | [208747-demon-hunter.json](./208747-demon-hunter.json) |
+| Demon Hunter | 299350 | [299350-demon-hunter.json](./299350-demon-hunter.json) |
 | Demon Hunter | 31217 | [31217-demon-hunter.json](./31217-demon-hunter.json) |
 | Demon Hunter 2: New Chapter | 32774 | [32774-demon-hunter-2-new-chapter.json](./32774-demon-hunter-2-new-chapter.json) |
 | Demon Hunter 5: Ascendance | 116856 | [116856-demon-hunter-5-ascendance.json](./116856-demon-hunter-5-ascendance.json) |
