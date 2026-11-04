@@ -5321,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
 | Senren Banka | 128513 | [128513-senren-banka.json](./128513-senren-banka.json) |
 | Senritsu no Stratus | 65953 | [65953-senritsu-no-stratus.json](./65953-senritsu-no-stratus.json) |
+| Sensational Studios: Underswap | 331772 | [331772-sensational-studios-underswap.json](./331772-sensational-studios-underswap.json) |
 | Sensations | 252733 | [252733-sensations.json](./252733-sensations.json) |
 | Sensations | 355882 | [355882-sensations.json](./355882-sensations.json) |
 | Sense of Darkness | 310104 | [310104-sense-of-darkness.json](./310104-sense-of-darkness.json) |
@@ -7073,6 +7074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Shipper | 249738 | [249738-shape-shipper.json](./249738-shape-shipper.json) |
 | Shape Shipter | 233701 | [233701-shape-shipter.json](./233701-shape-shipter.json) |
 | Shape Shooter | 141493 | [141493-shape-shooter.json](./141493-shape-shooter.json) |
+| Shape Shooter 2000 | 331645 | [331645-shape-shooter-2000.json](./331645-shape-shooter-2000.json) |
 | Shape Shuffle: A Shape Saga | 262066 | [262066-shape-shuffle-a-shape-saga.json](./262066-shape-shuffle-a-shape-saga.json) |
 | Shape Sorter - Early Learning | 106371 | [106371-shape-sorter-early-learning.json](./106371-shape-sorter-early-learning.json) |
 | Shape Storm | 143891 | [143891-shape-storm.json](./143891-shape-storm.json) |
@@ -29238,6 +29240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshine.EXE | 391266 | [391266-sunshine-exe.json](./391266-sunshine-exe.json) |
 | Sunshore City | 396737 | [396737-sunshore-city.json](./396737-sunshore-city.json) |
 | Sunshower | 183946 | [183946-sunshower.json](./183946-sunshower.json) |
+| Sunshowers Burn the Century Scionic | 331603 | [331603-sunshowers-burn-the-century-scionic.json](./331603-sunshowers-burn-the-century-scionic.json) |
 | Sunsoft Collection | 79526 | [79526-sunsoft-collection.json](./79526-sunsoft-collection.json) |
 | Sunsoft Collection 2 | 291544 | [291544-sunsoft-collection-2.json](./291544-sunsoft-collection-2.json) |
 | Sunsoft is Back! Retro Game Selection | 297001 | [297001-sunsoft-is-back-retro-game-selection.json](./297001-sunsoft-is-back-retro-game-selection.json) |
@@ -31294,6 +31297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Power 2 | 53687 | [53687-super-power-2.json](./53687-super-power-2.json) |
 | Super Power League 4 | 44431 | [44431-super-power-league-4.json](./44431-super-power-league-4.json) |
 | Super Power League FX | 65284 | [65284-super-power-league-fx.json](./65284-super-power-league-fx.json) |
+| Super Power Man | 331631 | [331631-super-power-man.json](./331631-super-power-man.json) |
 | Super Power: Rising of A.I. | 157016 | [157016-super-power-rising-of-a-i.json](./157016-super-power-rising-of-a-i.json) |
 | Super Powered Battle Friends | 116023 | [116023-super-powered-battle-friends.json](./116023-super-powered-battle-friends.json) |
 | Super Prehistoric World Adventure | 278656 | [278656-super-prehistoric-world-adventure.json](./278656-super-prehistoric-world-adventure.json) |
