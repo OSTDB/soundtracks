@@ -8108,6 +8108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChronoClone | 301280 | [301280-chronoclone.json](./301280-chronoclone.json) |
 | Chronoclysm | 35285 | [35285-chronoclysm.json](./35285-chronoclysm.json) |
 | ChronoCodex | 237053 | [237053-chronocodex.json](./237053-chronocodex.json) |
+| Chronocracy | 335565 | [335565-chronocracy.json](./335565-chronocracy.json) |
 | Chronodog: Earth Defender | 185067 | [185067-chronodog-earth-defender.json](./185067-chronodog-earth-defender.json) |
 | ChronoDojo | 258061 | [258061-chronodojo.json](./258061-chronodojo.json) |
 | ChronoForge | 365311 | [365311-chronoforge.json](./365311-chronoforge.json) |
@@ -18911,6 +18912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse That Magic Cat! | 142236 | [142236-curse-that-magic-cat.json](./142236-curse-that-magic-cat.json) |
 | Curse the Cursor | 369028 | [369028-curse-the-cursor.json](./369028-curse-the-cursor.json) |
 | Curse the Cursor | 376834 | [376834-curse-the-cursor.json](./376834-curse-the-cursor.json) |
+| Curse Warrior | 335574 | [335574-curse-warrior.json](./335574-curse-warrior.json) |
 | Curse Words | 370775 | [370775-curse-words.json](./370775-curse-words.json) |
 | Curse You! Red Baron | 68738 | [68738-curse-you-red-baron.json](./68738-curse-you-red-baron.json) |
 | Curse: The Eye of Isis | 5796 | [5796-curse-the-eye-of-isis.json](./5796-curse-the-eye-of-isis.json) |
