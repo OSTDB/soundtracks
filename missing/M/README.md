@@ -2688,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malware | 303987 | [303987-malware.json](./303987-malware.json) |
 | Malware Derby | 244896 | [244896-malware-derby.json](./244896-malware-derby.json) |
 | Malware Rewritten | 217353 | [217353-malware-rewritten.json](./217353-malware-rewritten.json) |
+| Malys | 341817 | [341817-malys.json](./341817-malys.json) |
 | Malzbie's Pinball Collection | 74463 | [74463-malzbies-pinball-collection.json](./74463-malzbies-pinball-collection.json) |
 | Malzbie's Pinball Collection: Carnival Table | 166015 | [166015-malzbies-pinball-collection-carnival-table.json](./166015-malzbies-pinball-collection-carnival-table.json) |
 | Malzbie's Pinball Collection: Ghost House | 166022 | [166022-malzbies-pinball-collection-ghost-house.json](./166022-malzbies-pinball-collection-ghost-house.json) |
@@ -10225,6 +10226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroMan's Crazy Computers | 62650 | [62650-micromans-crazy-computers.json](./62650-micromans-crazy-computers.json) |
 | Micromancer | 365948 | [365948-micromancer.json](./365948-micromancer.json) |
 | MicroMechanica | 379714 | [379714-micromechanica.json](./379714-micromechanica.json) |
+| Micromega | 341944 | [341944-micromega.json](./341944-micromega.json) |
 | Micromon | 125761 | [125761-micromon.json](./125761-micromon.json) |
 | Micromon Adventures | 105865 | [105865-micromon-adventures.json](./105865-micromon-adventures.json) |
 | Micron | 13673 | [13673-micron.json](./13673-micron.json) |
@@ -15757,6 +15759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Valley II: Panoramic Edition | 203388 | [203388-monument-valley-ii-panoramic-edition.json](./203388-monument-valley-ii-panoramic-edition.json) |
 | Monument Valley II: The Lost Forest | 255779 | [255779-monument-valley-ii-the-lost-forest.json](./255779-monument-valley-ii-the-lost-forest.json) |
 | Monument Valley III | 121277 | [121277-monument-valley-iii.json](./121277-monument-valley-iii.json) |
+| Monument Valley III: The Garden of Life | 341807 | [341807-monument-valley-iii-the-garden-of-life.json](./341807-monument-valley-iii-the-garden-of-life.json) |
 | Monument Valley: Forgotten Shores | 175965 | [175965-monument-valley-forgotten-shores.json](./175965-monument-valley-forgotten-shores.json) |
 | Monument Valley: Ida's Dream | 186128 | [186128-monument-valley-idas-dream.json](./186128-monument-valley-idas-dream.json) |
 | Monument Valley: Panoramic Edition | 203331 | [203331-monument-valley-panoramic-edition.json](./203331-monument-valley-panoramic-edition.json) |
@@ -18990,6 +18993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mute Crimson+ | 11843 | [11843-mute-crimson.json](./11843-mute-crimson.json) |
 | Muted | 247899 | [247899-muted.json](./247899-muted.json) |
 | Muteki Kyoujin Rozario kai | 377611 | [377611-muteki-kyoujin-rozario-kai.json](./377611-muteki-kyoujin-rozario-kai.json) |
+| MuteX+ | 341952 | [341952-mutex.json](./341952-mutex.json) |
 | Mutilate-a-Doll 2 | 95937 | [95937-mutilate-a-doll-2.json](./95937-mutilate-a-doll-2.json) |
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
 | Mutiny | 377188 | [377188-mutiny.json](./377188-mutiny.json) |
