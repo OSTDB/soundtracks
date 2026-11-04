@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenful Journey | 249489 | [249489-zenful-journey.json](./249489-zenful-journey.json) |
 | Zenge | 18792 | [18792-zenge.json](./18792-zenge.json) |
 | Zengeon | 122953 | [122953-zengeon.json](./122953-zengeon.json) |
+| ZenGM Baseball | 333818 | [333818-zengm-baseball.json](./333818-zengm-baseball.json) |
 | Zengoku Juudan Ultra Shinri Game | 37745 | [37745-zengoku-juudan-ultra-shinri-game.json](./37745-zengoku-juudan-ultra-shinri-game.json) |
 | Zengrams | 68948 | [68948-zengrams.json](./68948-zengrams.json) |
 | Zenite | 187720 | [187720-zenite.json](./187720-zenite.json) |
