@@ -940,7 +940,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8121,6 +8120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Roll 64 | 422097 | [422097-bird-roll-64.json](./422097-bird-roll-64.json) |
 | Bird Shooter | 229974 | [229974-bird-shooter.json](./229974-bird-shooter.json) |
 | Bird Simulator | 127330 | [127330-bird-simulator.json](./127330-bird-simulator.json) |
+| Bird Simulator 24 | 321247 | [321247-bird-simulator-24.json](./321247-bird-simulator-24.json) |
 | Bird Song | 50254 | [50254-bird-song.json](./50254-bird-song.json) |
 | Bird Sort: Color Puzzle | 245332 | [245332-bird-sort-color-puzzle.json](./245332-bird-sort-color-puzzle.json) |
 | Bird Strike | 15672 | [15672-bird-strike.json](./15672-bird-strike.json) |
@@ -9266,6 +9266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bladequest: The First Chapter - Gold | 106548 | [106548-bladequest-the-first-chapter-gold.json](./106548-bladequest-the-first-chapter-gold.json) |
 | BladeRite: Rivals | 409794 | [409794-bladerite-rivals.json](./409794-bladerite-rivals.json) |
 | Bladerunners SX | 330820 | [330820-bladerunners-sx.json](./330820-bladerunners-sx.json) |
+| Blades & Battles | 321243 | [321243-blades-and-battles.json](./321243-blades-and-battles.json) |
 | Blades & Trades | 422121 | [422121-blades-and-trades.json](./422121-blades-and-trades.json) |
 | Blades Adrift | 176272 | [176272-blades-adrift.json](./176272-blades-adrift.json) |
 | Blades and Bullets | 277279 | [277279-blades-and-bullets.json](./277279-blades-and-bullets.json) |
