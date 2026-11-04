@@ -2415,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geenius: Cupid Dough | 395196 | [395196-geenius-cupid-dough.json](./395196-geenius-cupid-dough.json) |
 | Geese vs. Cthulhu | 123915 | [123915-geese-vs-cthulhu.json](./123915-geese-vs-cthulhu.json) |
 | Geeste | 99667 | [99667-geeste.json](./99667-geeste.json) |
+| Geezer Gus: The Meteorite Motel | 318356 | [318356-geezer-gus-the-meteorite-motel.json](./318356-geezer-gus-the-meteorite-motel.json) |
 | Gefangen in der Drachenfestung | 255553 | [255553-gefangen-in-der-drachenfestung.json](./255553-gefangen-in-der-drachenfestung.json) |
 | Gefeuert! Dein letzter Tag | 200337 | [200337-gefeuert-dein-letzter-tag.json](./200337-gefeuert-dein-letzter-tag.json) |
 | Geflect | 181908 | [181908-geflect.json](./181908-geflect.json) |
@@ -9193,6 +9194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimslair | 391587 | [391587-grimslair.json](./391587-grimslair.json) |
 | Grimsonland | 112765 | [112765-grimsonland.json](./112765-grimsonland.json) |
 | Grimstar: Welcome to the savage planet | 211528 | [211528-grimstar-welcome-to-the-savage-planet.json](./211528-grimstar-welcome-to-the-savage-planet.json) |
+| Grimstone | 318307 | [318307-grimstone.json](./318307-grimstone.json) |
 | Grimstone Valley | 340326 | [340326-grimstone-valley.json](./340326-grimstone-valley.json) |
 | Grimstorm | 191881 | [191881-grimstorm.json](./191881-grimstorm.json) |
 | Grimtale Island | 55278 | [55278-grimtale-island.json](./55278-grimtale-island.json) |
@@ -10916,6 +10918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gurk II | 19125 | [19125-gurk-ii.json](./19125-gurk-ii.json) |
 | Gurk III | 19126 | [19126-gurk-iii.json](./19126-gurk-iii.json) |
 | Gurk III: the 8-bit RPG | 200671 | [200671-gurk-iii-the-8-bit-rpg.json](./200671-gurk-iii-the-8-bit-rpg.json) |
+| Gurk in Trouble: A Yip Quest Story | 318337 | [318337-gurk-in-trouble-a-yip-quest-story.json](./318337-gurk-in-trouble-a-yip-quest-story.json) |
 | Gurmple Champs | 395712 | [395712-gurmple-champs.json](./395712-gurmple-champs.json) |
 | Gurney to Gurney | 151392 | [151392-gurney-to-gurney.json](./151392-gurney-to-gurney.json) |
 | Guro Dere | 108971 | [108971-guro-dere.json](./108971-guro-dere.json) |
