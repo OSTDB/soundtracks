@@ -6396,6 +6396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldio | 316185 | [316185-goldio.json](./316185-goldio.json) |
 | GoldMan HD | 89794 | [89794-goldman-hd.json](./89794-goldman-hd.json) |
 | Goldo: Lost Goblin | 370128 | [370128-goldo-lost-goblin.json](./370128-goldo-lost-goblin.json) |
+| Goldorak | 304479 | [304479-goldorak.json](./304479-goldorak.json) |
 | Goldrot | 352250 | [352250-goldrot.json](./352250-goldrot.json) |
 | Goldrunner | 12601 | [12601-goldrunner.json](./12601-goldrunner.json) |
 | Goldrunner II | 12602 | [12602-goldrunner-ii.json](./12602-goldrunner-ii.json) |
@@ -9906,6 +9907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Orion | 34326 | [34326-guardians-of-orion.json](./34326-guardians-of-orion.json) |
 | Guardians of Restoration | 309739 | [309739-guardians-of-restoration.json](./309739-guardians-of-restoration.json) |
 | Guardians of the 'Hood | 39353 | [39353-guardians-of-the-hood.json](./39353-guardians-of-the-hood.json) |
+| Guardians of The AfterLife | 304501 | [304501-guardians-of-the-afterlife.json](./304501-guardians-of-the-afterlife.json) |
 | Guardians of the Ashes | 127753 | [127753-guardians-of-the-ashes.json](./127753-guardians-of-the-ashes.json) |
 | Guardians of the Forest | 60367 | [60367-guardians-of-the-forest.json](./60367-guardians-of-the-forest.json) |
 | Guardians of the Galaxy Pinball | 83706 | [83706-guardians-of-the-galaxy-pinball.json](./83706-guardians-of-the-galaxy-pinball.json) |
