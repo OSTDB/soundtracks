@@ -1436,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncult | 264203 | [264203-uncult.json](./264203-uncult.json) |
 | Uncursed | 329491 | [329491-uncursed.json](./329491-uncursed.json) |
 | Uncursed | 331985 | [331985-uncursed.json](./331985-uncursed.json) |
+| Uncutetifying Danny | 298770 | [298770-uncutetifying-danny.json](./298770-uncutetifying-danny.json) |
 | Undake 30 UraGame Daisakusen | 341155 | [341155-undake-30-uragame-daisakusen.json](./341155-undake-30-uragame-daisakusen.json) |
 | Undake30 SameGame Daisakusen | 178914 | [178914-undake30-samegame-daisakusen.json](./178914-undake30-samegame-daisakusen.json) |
 | Undake30 SameGame Daisakusen Mario Version | 67024 | [67024-undake30-samegame-daisakusen-mario-version.json](./67024-undake30-samegame-daisakusen-mario-version.json) |
