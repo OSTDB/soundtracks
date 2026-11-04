@@ -3154,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Homestead | 159721 | [159721-new-homestead.json](./159721-new-homestead.json) |
 | New Hope | 304058 | [304058-new-hope.json](./304058-new-hope.json) |
 | New Horizons Remastered | 176654 | [176654-new-horizons-remastered.json](./176654-new-horizons-remastered.json) |
+| New HR Job | 301465 | [301465-new-hr-job.json](./301465-new-hr-job.json) |
 | New Hyu Stone | 60549 | [60549-new-hyu-stone.json](./60549-new-hyu-stone.json) |
 | New Ice York | 104435 | [104435-new-ice-york.json](./104435-new-ice-york.json) |
 | New Immortal | 283049 | [283049-new-immortal.json](./283049-new-immortal.json) |
@@ -6811,6 +6812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notes of Obsession | 56895 | [56895-notes-of-obsession.json](./56895-notes-of-obsession.json) |
 | Notes of Soul | 113343 | [113343-notes-of-soul.json](./113343-notes-of-soul.json) |
 | Notes of the Outskirts | 262255 | [262255-notes-of-the-outskirts.json](./262255-notes-of-the-outskirts.json) |
+| Notes on a Mystery | 301474 | [301474-notes-on-a-mystery.json](./301474-notes-on-a-mystery.json) |
 | Notes on Crying | 181918 | [181918-notes-on-crying.json](./181918-notes-on-crying.json) |
 | Nother | 30899 | [30899-nother.json](./30899-nother.json) |
 | Nothin' But Net | 32206 | [32206-nothin-but-net.json](./32206-nothin-but-net.json) |
