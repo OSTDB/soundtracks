@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Shot | 18235 | [18235-magic-shot.json](./18235-magic-shot.json) |
 | Magic Siege | 75783 | [75783-magic-siege.json](./75783-magic-siege.json) |
 | Magic Snake II | 71517 | [71517-magic-snake-ii.json](./71517-magic-snake-ii.json) |
+| Magic Soldier | 337372 | [337372-magic-soldier.json](./337372-magic-soldier.json) |
 | Magic Solitaire | 54172 | [54172-magic-solitaire.json](./54172-magic-solitaire.json) |
 | Magic Sort! | 392972 | [392972-magic-sort.json](./392972-magic-sort.json) |
 | Magic Spheres | 146500 | [146500-magic-spheres.json](./146500-magic-spheres.json) |
@@ -1556,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagiCats Builder: Infinite Pack | 170312 | [170312-magicats-builder-infinite-pack.json](./170312-magicats-builder-infinite-pack.json) |
 | MagiCats Worlds | 111530 | [111530-magicats-worlds.json](./111530-magicats-worlds.json) |
 | MagicBeans | 257857 | [257857-magicbeans.json](./257857-magicbeans.json) |
+| Magicbook AutoBattler: Contract | 337377 | [337377-magicbook-autobattler-contract.json](./337377-magicbook-autobattler-contract.json) |
 | MagicCraft | 224409 | [224409-magiccraft.json](./224409-magiccraft.json) |
 | Magichess | 424610 | [424610-magichess.json](./424610-magichess.json) |
 | Magician | 319093 | [319093-magician.json](./319093-magician.json) |
@@ -2120,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maiden | 142743 | [142743-maiden.json](./142743-maiden.json) |
 | Maiden | 344870 | [344870-maiden.json](./344870-maiden.json) |
 | Maiden & Spell | 104679 | [104679-maiden-and-spell.json](./104679-maiden-and-spell.json) |
+| Maiden and Lord | 337378 | [337378-maiden-and-lord.json](./337378-maiden-and-lord.json) |
 | Maiden and Swordsman | 129392 | [129392-maiden-and-swordsman.json](./129392-maiden-and-swordsman.json) |
 | Maiden City: The Last Collateral Damage | 90408 | [90408-maiden-city-the-last-collateral-damage.json](./90408-maiden-city-the-last-collateral-damage.json) |
 | Maiden Cops | 209681 | [209681-maiden-cops.json](./209681-maiden-cops.json) |
@@ -16255,6 +16258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morbius: The Utopia Conspiracy | 90226 | [90226-morbius-the-utopia-conspiracy.json](./90226-morbius-the-utopia-conspiracy.json) |
 | Morbsweeper | 210368 | [210368-morbsweeper.json](./210368-morbsweeper.json) |
 | Morbus | 382593 | [382593-morbus.json](./382593-morbus.json) |
+| Mordar Warrior | 337393 | [337393-mordar-warrior.json](./337393-mordar-warrior.json) |
 | Mordath | 236143 | [236143-mordath.json](./236143-mordath.json) |
 | Mordecai Saw Game | 385050 | [385050-mordecai-saw-game.json](./385050-mordecai-saw-game.json) |
 | Mordeny | 356804 | [356804-mordeny.json](./356804-mordeny.json) |
@@ -16808,6 +16812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moses Prince of Egypt | 43783 | [43783-moses-prince-of-egypt.json](./43783-moses-prince-of-egypt.json) |
 | Moses: From Egypt to the Promised Land | 216595 | [216595-moses-from-egypt-to-the-promised-land.json](./216595-moses-from-egypt-to-the-promised-land.json) |
 | Moses: Old Testament Adventure #1 | 100018 | [100018-moses-old-testament-adventure-1.json](./100018-moses-old-testament-adventure-1.json) |
+| MosGhost | 337362 | [337362-mosghost.json](./337362-mosghost.json) |
 | Mosh Lift | 283798 | [283798-mosh-lift.json](./283798-mosh-lift.json) |
 | Mosh Pit | 121982 | [121982-mosh-pit.json](./121982-mosh-pit.json) |
 | Mosh Pit Simulator | 109545 | [109545-mosh-pit-simulator.json](./109545-mosh-pit-simulator.json) |
