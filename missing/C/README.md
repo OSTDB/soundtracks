@@ -5206,6 +5206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerealman | 419884 | [419884-cerealman.json](./419884-cerealman.json) |
 | Cerebral | 215841 | [215841-cerebral.json](./215841-cerebral.json) |
 | Cerebral Clash | 275995 | [275995-cerebral-clash.json](./275995-cerebral-clash.json) |
+| Cerebral Escape Series: Vol 1 | 333281 | [333281-cerebral-escape-series-vol-1.json](./333281-cerebral-escape-series-vol-1.json) |
 | Cerebrawl | 70367 | [70367-cerebrawl.json](./70367-cerebrawl.json) |
 | Cerebrum Operation | 217261 | [217261-cerebrum-operation.json](./217261-cerebrum-operation.json) |
 | Cerebrum Remastered | 401771 | [401771-cerebrum-remastered.json](./401771-cerebrum-remastered.json) |
@@ -6386,6 +6387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherry VX | 161380 | [161380-cherry-vx.json](./161380-cherry-vx.json) |
 | Cherry's Joi | 307209 | [307209-cherrys-joi.json](./307209-cherrys-joi.json) |
 | Cherrywitched! | 246070 | [246070-cherrywitched.json](./246070-cherrywitched.json) |
+| Chertovica | 333326 | [333326-chertovica.json](./333326-chertovica.json) |
 | Chesh | 15551 | [15551-chesh.json](./15551-chesh.json) |
 | Chesnakisnak | 158127 | [158127-chesnakisnak.json](./158127-chesnakisnak.json) |
 | Chess | 128646 | [128646-chess.json](./128646-chess.json) |
@@ -13318,6 +13320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constructor: Building Pack 2 Made in America | 226840 | [226840-constructor-building-pack-2-made-in-america.json](./226840-constructor-building-pack-2-made-in-america.json) |
 | Constructor360 | 90907 | [90907-constructor360.json](./90907-constructor360.json) |
 | Consult Me Before Opening A Snack Shop | 280350 | [280350-consult-me-before-opening-a-snack-shop.json](./280350-consult-me-before-opening-a-snack-shop.json) |
+| Consumables | 333324 | [333324-consumables.json](./333324-consumables.json) |
 | Consume | 179514 | [179514-consume.json](./179514-consume.json) |
 | Consume Me | 123255 | [123255-consume-me.json](./123255-consume-me.json) |
 | Consume Thy Flesh: The Pumpkin Smashing Sim | 189137 | [189137-consume-thy-flesh-the-pumpkin-smashing-sim.json](./189137-consume-thy-flesh-the-pumpkin-smashing-sim.json) |
@@ -13978,6 +13981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cordbot | 215521 | [215521-cordbot.json](./215521-cordbot.json) |
 | Cordel Lands | 393823 | [393823-cordel-lands.json](./393823-cordel-lands.json) |
 | Cordelia | 248044 | [248044-cordelia.json](./248044-cordelia.json) |
+| Cordels & Spells | 333319 | [333319-cordels-and-spells.json](./333319-cordels-and-spells.json) |
 | Cordial Minuet | 97298 | [97298-cordial-minuet.json](./97298-cordial-minuet.json) |
 | Cordillera | 287878 | [287878-cordillera.json](./287878-cordillera.json) |
 | Córdoba Court | 398659 | [398659-cordoba-court.json](./398659-cordoba-court.json) |
@@ -16627,6 +16631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
 | CrimeCraft: GangWars | 15005 | [15005-crimecraft-gangwars.json](./15005-crimecraft-gangwars.json) |
 | CrimeCrew | 23977 | [23977-crimecrew.json](./23977-crimecrew.json) |
+| Crimen Exceptum | 333307 | [333307-crimen-exceptum.json](./333307-crimen-exceptum.json) |
 | Crimen: Mercenary Tales | 251251 | [251251-crimen-mercenary-tales.json](./251251-crimen-mercenary-tales.json) |
 | Crimerunner | 217146 | [217146-crimerunner.json](./217146-crimerunner.json) |
 | Crimes Against Slimes | 322649 | [322649-crimes-against-slimes.json](./322649-crimes-against-slimes.json) |
@@ -17728,6 +17733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt of the Serpent King: Remastered - 4K Edition | 208456 | [208456-crypt-of-the-serpent-king-remastered-4k-edition.json](./208456-crypt-of-the-serpent-king-remastered-4k-edition.json) |
 | Crypt of the Undead | 24862 | [24862-crypt-of-the-undead.json](./24862-crypt-of-the-undead.json) |
 | Crypt Raider | 263476 | [263476-crypt-raider.json](./263476-crypt-raider.json) |
+| Crypt Robbery | 333285 | [333285-crypt-robbery.json](./333285-crypt-robbery.json) |
 | Crypt Stalker | 140858 | [140858-crypt-stalker.json](./140858-crypt-stalker.json) |
 | Crypt Stalker: Boss Rush+ | 303873 | [303873-crypt-stalker-boss-rush.json](./303873-crypt-stalker-boss-rush.json) |
 | Crypt Stalker: Extended Edition | 308796 | [308796-crypt-stalker-extended-edition.json](./308796-crypt-stalker-extended-edition.json) |
@@ -19803,6 +19809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybershock: Future Parkour | 143885 | [143885-cybershock-future-parkour.json](./143885-cybershock-future-parkour.json) |
 | Cybershow | 141762 | [141762-cybershow.json](./141762-cybershow.json) |
 | Cyberside Picnic | 252249 | [252249-cyberside-picnic.json](./252249-cyberside-picnic.json) |
+| Cybersim: Noetic City | 333284 | [333284-cybersim-noetic-city.json](./333284-cybersim-noetic-city.json) |
 | CyberSkyscrUpper | 265770 | [265770-cyberskyscrupper.json](./265770-cyberskyscrupper.json) |
 | Cyberslav: Eclipse | 383127 | [383127-cyberslav-eclipse.json](./383127-cyberslav-eclipse.json) |
 | Cyberslayer: No Time to Regret | 342376 | [342376-cyberslayer-no-time-to-regret.json](./342376-cyberslayer-no-time-to-regret.json) |
