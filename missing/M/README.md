@@ -5761,6 +5761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | May Sky | 350362 | [350362-may-sky.json](./350362-may-sky.json) |
 | May the Cards Lay Out a Straight | 390989 | [390989-may-the-cards-lay-out-a-straight.json](./390989-may-the-cards-lay-out-a-straight.json) |
 | May Your Memory Be a Blessing | 308422 | [308422-may-your-memory-be-a-blessing.json](./308422-may-your-memory-be-a-blessing.json) |
+| May's Journey | 320058 | [320058-mays-journey.json](./320058-mays-journey.json) |
 | May's Mysteries: The Secret of Dragonville | 17928 | [17928-mays-mysteries-the-secret-of-dragonville.json](./17928-mays-mysteries-the-secret-of-dragonville.json) |
 | May's Mystery: Forbidden Memories | 21144 | [21144-mays-mystery-forbidden-memories.json](./21144-mays-mystery-forbidden-memories.json) |
 | May's Perfect Romance | 133212 | [133212-mays-perfect-romance.json](./133212-mays-perfect-romance.json) |
@@ -8848,6 +8849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowstery of a Growing Aurora | 296980 | [296980-meowstery-of-a-growing-aurora.json](./296980-meowstery-of-a-growing-aurora.json) |
 | Meowstery Wisp | 383067 | [383067-meowstery-wisp.json](./383067-meowstery-wisp.json) |
 | Meowstoria | 355579 | [355579-meowstoria.json](./355579-meowstoria.json) |
+| Meowstro | 320094 | [320094-meowstro.json](./320094-meowstro.json) |
 | Meowtabolism: Examining Feline Behavior Within Unicellular Algae | 390879 | [390879-meowtabolism-examining-feline-behavior-within-unicellular-algae.json](./390879-meowtabolism-examining-feline-behavior-within-unicellular-algae.json) |
 | Meowter Space | 239607 | [239607-meowter-space.json](./239607-meowter-space.json) |
 | Meowth's Party | 255838 | [255838-meowths-party.json](./255838-meowths-party.json) |
@@ -12359,6 +12361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Micro Racing | 298386 | [298386-mini-micro-racing.json](./298386-mini-micro-racing.json) |
 | Mini Miners | 227683 | [227683-mini-miners.json](./227683-mini-miners.json) |
 | Mini Mini Farm | 209934 | [209934-mini-mini-farm.json](./209934-mini-mini-farm.json) |
+| Mini Mini Golf Golf | 319830 | [319830-mini-mini-golf-golf.json](./319830-mini-mini-golf-golf.json) |
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
 | Mini Minny and the Missing Magic | 177712 | [177712-mini-minny-and-the-missing-magic.json](./177712-mini-minny-and-the-missing-magic.json) |
 | Mini Monster Challenge | 409114 | [409114-mini-monster-challenge.json](./409114-mini-monster-challenge.json) |
@@ -12387,6 +12390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Pond Farm: Frogs & Lilypads | 406154 | [406154-mini-pond-farm-frogs-and-lilypads.json](./406154-mini-pond-farm-frogs-and-lilypads.json) |
 | Mini Prince | 145286 | [145286-mini-prince.json](./145286-mini-prince.json) |
 | Mini Push | 412302 | [412302-mini-push.json](./412302-mini-push.json) |
+| Mini Putt | 320098 | [320098-mini-putt.json](./320098-mini-putt.json) |
 | Mini Putt Camelot | 196420 | [196420-mini-putt-camelot.json](./196420-mini-putt-camelot.json) |
 | Mini Puzzle Balls | 147784 | [147784-mini-puzzle-balls.json](./147784-mini-puzzle-balls.json) |
 | mini PVP | 118088 | [118088-mini-pvp.json](./118088-mini-pvp.json) |
@@ -12671,6 +12675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minions, Monsters, and Madness | 30194 | [30194-minions-monsters-and-madness.json](./30194-minions-monsters-and-madness.json) |
 | Minions. Five nights at Despicable Hospital 3D | 99418 | [99418-minions-five-nights-at-despicable-hospital-3d.json](./99418-minions-five-nights-at-despicable-hospital-3d.json) |
 | Miniopolis | 418518 | [418518-miniopolis.json](./418518-miniopolis.json) |
+| Miniparty | 320070 | [320070-miniparty.json](./320070-miniparty.json) |
 | MiniPix Jump | 255049 | [255049-minipix-jump.json](./255049-minipix-jump.json) |
 | Miniplanet | 242121 | [242121-miniplanet.json](./242121-miniplanet.json) |
 | MiniPoly.io | 223531 | [223531-minipoly-io.json](./223531-minipoly-io.json) |
