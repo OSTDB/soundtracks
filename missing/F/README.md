@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faker Crime: Elysion | 82709 | [82709-faker-crime-elysion.json](./82709-faker-crime-elysion.json) |
 | Fakespearean: Overdramatic | 118254 | [118254-fakespearean-overdramatic.json](./118254-fakespearean-overdramatic.json) |
 | Fakin' It All Night Long | 376219 | [376219-fakin-it-all-night-long.json](./376219-fakin-it-all-night-long.json) |
+| Fakutori | 309309 | [309309-fakutori.json](./309309-fakutori.json) |
 | Falafel King | 416735 | [416735-falafel-king.json](./416735-falafel-king.json) |
 | Falafel King | 423894 | [423894-falafel-king.json](./423894-falafel-king.json) |
 | Falafel Restaurant Simulator | 166840 | [166840-falafel-restaurant-simulator.json](./166840-falafel-restaurant-simulator.json) |
@@ -3671,6 +3672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feichuan | 345944 | [345944-feichuan.json](./345944-feichuan.json) |
 | Feign | 128816 | [128816-feign.json](./128816-feign.json) |
 | Feign | 172516 | [172516-feign.json](./172516-feign.json) |
+| Feindlich Sewers | 309272 | [309272-feindlich-sewers.json](./309272-feindlich-sewers.json) |
 | Feist | 16608 | [16608-feist.json](./16608-feist.json) |
 | Feisty Fauna | 193345 | [193345-feisty-fauna.json](./193345-feisty-fauna.json) |
 | Feisty Feet | 42769 | [42769-feisty-feet.json](./42769-feisty-feet.json) |
@@ -11171,6 +11173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Chess: Lewis Set | 335500 | [335500-free-chess-lewis-set.json](./335500-free-chess-lewis-set.json) |
 | Free Chess: Nuts n Bolts Set | 354205 | [354205-free-chess-nuts-n-bolts-set.json](./354205-free-chess-nuts-n-bolts-set.json) |
 | Free Chess: Primitives Set | 310390 | [310390-free-chess-primitives-set.json](./310390-free-chess-primitives-set.json) |
+| Free Chess: Soviet Set | 309296 | [309296-free-chess-soviet-set.json](./309296-free-chess-soviet-set.json) |
 | Free Chess: Standard II Set | 354206 | [354206-free-chess-standard-ii-set.json](./354206-free-chess-standard-ii-set.json) |
 | Free City | 326489 | [326489-free-city.json](./326489-free-city.json) |
 | Free Climbing | 14077 | [14077-free-climbing.json](./14077-free-climbing.json) |
