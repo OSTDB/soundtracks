@@ -3106,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upsolom | 46730 | [46730-upsolom.json](./46730-upsolom.json) |
 | Upstairs | 366701 | [366701-upstairs.json](./366701-upstairs.json) |
 | Upstairs | 396007 | [396007-upstairs.json](./396007-upstairs.json) |
+| Upstream | 325350 | [325350-upstream.json](./325350-upstream.json) |
 | Upstream | 340936 | [340936-upstream.json](./340936-upstream.json) |
 | Upstream Ante | 298324 | [298324-upstream-ante.json](./298324-upstream-ante.json) |
 | Uptasia | 81127 | [81127-uptasia.json](./81127-uptasia.json) |
