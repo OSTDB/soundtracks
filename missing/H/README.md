@@ -2082,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry McLinestrider | 330098 | [330098-harry-mclinestrider.json](./330098-harry-mclinestrider.json) |
 | Harry Obby | 284409 | [284409-harry-obby.json](./284409-harry-obby.json) |
 | Harry Potter | 248180 | [248180-harry-potter.json](./248180-harry-potter.json) |
+| Harry Potter 2: The Black Art Wtrstle Edition | 342982 | [342982-harry-potter-2-the-black-art-wtrstle-edition.json](./342982-harry-potter-2-the-black-art-wtrstle-edition.json) |
 | Harry Potter and the Chamber of Secrets | 117322 | [117322-harry-potter-and-the-chamber-of-secrets.json](./117322-harry-potter-and-the-chamber-of-secrets.json) |
 | Harry Potter and the Chamber of Secrets | 166322 | [166322-harry-potter-and-the-chamber-of-secrets.json](./166322-harry-potter-and-the-chamber-of-secrets.json) |
 | Harry Potter and the Chamber of Secrets | 166325 | [166325-harry-potter-and-the-chamber-of-secrets.json](./166325-harry-potter-and-the-chamber-of-secrets.json) |
@@ -9163,6 +9164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - Paean of Era Nova | 326609 | [326609-honkai-star-rail-paean-of-era-nova.json](./326609-honkai-star-rail-paean-of-era-nova.json) |
 | Honkai: Star Rail - So Laughed the Masses | 398432 | [398432-honkai-star-rail-so-laughed-the-masses.json](./398432-honkai-star-rail-so-laughed-the-masses.json) |
 | Honkai: Star Rail - The Crepuscule Zone | 274834 | [274834-honkai-star-rail-the-crepuscule-zone.json](./274834-honkai-star-rail-the-crepuscule-zone.json) |
+| Honkai: Star Rail - The Fall at Dawn’s Rise | 343000 | [343000-honkai-star-rail-the-fall-at-dawn-s-rise.json](./343000-honkai-star-rail-the-fall-at-dawn-s-rise.json) |
 | Honkai: Star Rail - The Lethe Below the Living | 402731 | [402731-honkai-star-rail-the-lethe-below-the-living.json](./402731-honkai-star-rail-the-lethe-below-the-living.json) |
 | Honkai: Star Rail - Then Wake to Weep | 298930 | [298930-honkai-star-rail-then-wake-to-weep.json](./298930-honkai-star-rail-then-wake-to-weep.json) |
 | Honkai: Star Rail - To Roll the Stars in Astropolis | 413869 | [413869-honkai-star-rail-to-roll-the-stars-in-astropolis.json](./413869-honkai-star-rail-to-roll-the-stars-in-astropolis.json) |
