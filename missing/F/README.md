@@ -1343,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: Sonora Dayglow | 333655 | [333655-fallout-sonora-dayglow.json](./333655-fallout-sonora-dayglow.json) |
 | Fallout: The Frontier | 25878 | [25878-fallout-the-frontier.json](./25878-fallout-the-frontier.json) |
 | Fallout: Vault 13 | 299706 | [299706-fallout-vault-13.json](./299706-fallout-vault-13.json) |
+| Fallout: Vault 666 | 335744 | [335744-fallout-vault-666.json](./335744-fallout-vault-666.json) |
 | Fallout: Yesterday | 290277 | [290277-fallout-yesterday.json](./290277-fallout-yesterday.json) |
 | FallOver | 242698 | [242698-fallover.json](./242698-fallover.json) |
 | Fallow | 56437 | [56437-fallow.json](./56437-fallow.json) |
@@ -5738,6 +5739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire King | 74872 | [74872-fire-king.json](./74872-fire-king.json) |
 | Fire Lancer | 182186 | [182186-fire-lancer.json](./182186-fire-lancer.json) |
 | Fire Lookout: Abandoned Post | 401664 | [401664-fire-lookout-abandoned-post.json](./401664-fire-lookout-abandoned-post.json) |
+| Fire Magician: Arcana | 335582 | [335582-fire-magician-arcana.json](./335582-fire-magician-arcana.json) |
 | Fire Man | 247018 | [247018-fire-man.json](./247018-fire-man.json) |
 | Fire Man: Incoming Storm | 210482 | [210482-fire-man-incoming-storm.json](./210482-fire-man-incoming-storm.json) |
 | Fire Me, I Insist | 356373 | [356373-fire-me-i-insist.json](./356373-fire-me-i-insist.json) |
@@ -13490,6 +13492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuuraiki 2 | 64631 | [64631-fuuraiki-2.json](./64631-fuuraiki-2.json) |
 | Fuuraiki 3 | 60857 | [60857-fuuraiki-3.json](./60857-fuuraiki-3.json) |
 | Fuuraiki 4 | 142398 | [142398-fuuraiki-4.json](./142398-fuuraiki-4.json) |
+| Fuuraiki 5 | 335573 | [335573-fuuraiki-5.json](./335573-fuuraiki-5.json) |
 | Fuuu...! | 390168 | [390168-fuuu.json](./390168-fuuu.json) |
 | Fuuun Gokuu Ninjin | 43865 | [43865-fuuun-gokuu-ninjin.json](./43865-fuuun-gokuu-ninjin.json) |
 | Fuuun Shaolin Ken | 376690 | [376690-fuuun-shaolin-ken.json](./376690-fuuun-shaolin-ken.json) |
