@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valet Hero | 65437 | [65437-valet-hero.json](./65437-valet-hero.json) |
 | Valet Parking 1989 | 85472 | [85472-valet-parking-1989.json](./85472-valet-parking-1989.json) |
 | Valet Parking Inc. | 91649 | [91649-valet-parking-inc.json](./91649-valet-parking-inc.json) |
+| Valet Simulator | 323476 | [323476-valet-simulator.json](./323476-valet-simulator.json) |
 | Valete vos viatores | 212914 | [212914-valete-vos-viatores.json](./212914-valete-vos-viatores.json) |
 | Valfaris | 37145 | [37145-valfaris.json](./37145-valfaris.json) |
 | Valfaris & Slain Double Pack | 147826 | [147826-valfaris-and-slain-double-pack.json](./147826-valfaris-and-slain-double-pack.json) |
@@ -937,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VATSim | 56506 | [56506-vatsim.json](./56506-vatsim.json) |
 | Vattle Giuce | 57526 | [57526-vattle-giuce.json](./57526-vattle-giuce.json) |
 | Vattroller X | 59008 | [59008-vattroller-x.json](./59008-vattroller-x.json) |
+| Vault | 323483 | [323483-vault.json](./323483-vault.json) |
 | Vault 1080 | 389164 | [389164-vault-1080.json](./389164-vault-1080.json) |
 | Vault Apocalypsis | 264529 | [264529-vault-apocalypsis.json](./264529-vault-apocalypsis.json) |
 | Vault Assault | 40731 | [40731-vault-assault.json](./40731-vault-assault.json) |
@@ -1294,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venari | 128434 | [128434-venari.json](./128434-venari.json) |
 | Venari | 305637 | [305637-venari.json](./305637-venari.json) |
 | Venatio | 188073 | [188073-venatio.json](./188073-venatio.json) |
+| Venator Universe | 323494 | [323494-venator-universe.json](./323494-venator-universe.json) |
 | Venatrix | 267369 | [267369-venatrix.json](./267369-venatrix.json) |
 | Venatur | 254081 | [254081-venatur.json](./254081-venatur.json) |
 | Venba | 141704 | [141704-venba.json](./141704-venba.json) |
