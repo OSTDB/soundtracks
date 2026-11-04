@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S4ge | 116461 | [116461-s4ge.json](./116461-s4ge.json) |
 | S4U: Citypunk 2011 and Love Punch | 303000 | [303000-s4u-citypunk-2011-and-love-punch.json](./303000-s4u-citypunk-2011-and-love-punch.json) |
 | S7 Mexico | 218728 | [218728-s7-mexico.json](./218728-s7-mexico.json) |
+| Sa[meow]rai: Silverwing Stray | 340667 | [340667-sa-meow-rai-silverwing-stray.json](./340667-sa-meow-rai-silverwing-stray.json) |
 | SA7: Silent Ability Seven | 60824 | [60824-sa7-silent-ability-seven.json](./60824-sa7-silent-ability-seven.json) |
 | Saaam | 108848 | [108848-saaam.json](./108848-saaam.json) |
 | Saadex: Perpetual Storm | 270933 | [270933-saadex-perpetual-storm.json](./270933-saadex-perpetual-storm.json) |
@@ -312,12 +313,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Four | 86393 | [86393-sacred-four.json](./86393-sacred-four.json) |
 | Sacred Gear | 70441 | [70441-sacred-gear.json](./70441-sacred-gear.json) |
 | Sacred Gems | 236298 | [236298-sacred-gems.json](./236298-sacred-gems.json) |
+| Sacred Ground | 340675 | [340675-sacred-ground.json](./340675-sacred-ground.json) |
 | Sacred Grove Solitaire | 115523 | [115523-sacred-grove-solitaire.json](./115523-sacred-grove-solitaire.json) |
 | Sacred Legend: Battle of the Gods | 182037 | [182037-sacred-legend-battle-of-the-gods.json](./182037-sacred-legend-battle-of-the-gods.json) |
 | Sacred Light: Pyre of Hubris | 382986 | [382986-sacred-light-pyre-of-hubris.json](./382986-sacred-light-pyre-of-hubris.json) |
 | Sacred Line | 60524 | [60524-sacred-line.json](./60524-sacred-line.json) |
 | Sacred Line Genesis | 60523 | [60523-sacred-line-genesis.json](./60523-sacred-line-genesis.json) |
 | Sacred Odyssey: Rise of Ayden | 65705 | [65705-sacred-odyssey-rise-of-ayden.json](./65705-sacred-odyssey-rise-of-ayden.json) |
+| Sacred of Gates: Tinder | 340674 | [340674-sacred-of-gates-tinder.json](./340674-sacred-of-gates-tinder.json) |
 | Sacred Plus | 53570 | [53570-sacred-plus.json](./53570-sacred-plus.json) |
 | Sacred Seasons | 175627 | [175627-sacred-seasons.json](./175627-sacred-seasons.json) |
 | Sacred Seasons 2 | 57930 | [57930-sacred-seasons-2.json](./57930-sacred-seasons-2.json) |
@@ -801,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Agent | 29850 | [29850-sakura-agent.json](./29850-sakura-agent.json) |
 | Sakura Alien | 186848 | [186848-sakura-alien.json](./186848-sakura-alien.json) |
 | Sakura Alien 1: Uchuu kara no Raihousha | 272413 | [272413-sakura-alien-1-uchuu-kara-no-raihousha.json](./272413-sakura-alien-1-uchuu-kara-no-raihousha.json) |
+| Sakura Alien 3 | 340673 | [340673-sakura-alien-3.json](./340673-sakura-alien-3.json) |
 | Sakura Amidst Chaos | 238892 | [238892-sakura-amidst-chaos.json](./238892-sakura-amidst-chaos.json) |
 | Sakura And The Airyvixen | 289539 | [289539-sakura-and-the-airyvixen.json](./289539-sakura-and-the-airyvixen.json) |
 | Sakura Angels | 197621 | [197621-sakura-angels.json](./197621-sakura-angels.json) |
@@ -834,8 +838,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Hime 2 | 193261 | [193261-sakura-hime-2.json](./193261-sakura-hime-2.json) |
 | Sakura Hime 3 | 224843 | [224843-sakura-hime-3.json](./224843-sakura-hime-3.json) |
 | Sakura Hime 4 | 286539 | [286539-sakura-hime-4.json](./286539-sakura-hime-4.json) |
+| Sakura Hime 5 | 340670 | [340670-sakura-hime-5.json](./340670-sakura-hime-5.json) |
 | Sakura In Gameland | 147073 | [147073-sakura-in-gameland.json](./147073-sakura-in-gameland.json) |
 | Sakura Isekai Adventure 2 | 301886 | [301886-sakura-isekai-adventure-2.json](./301886-sakura-isekai-adventure-2.json) |
+| Sakura Isekai Adventure 3 | 340669 | [340669-sakura-isekai-adventure-3.json](./340669-sakura-isekai-adventure-3.json) |
 | Sakura Kakumei: Hana Saku Otome-tachi | 181556 | [181556-sakura-kakumei-hana-saku-otome-tachi.json](./181556-sakura-kakumei-hana-saku-otome-tachi.json) |
 | Sakura Kanji Ketchi | 396503 | [396503-sakura-kanji-ketchi.json](./396503-sakura-kanji-ketchi.json) |
 | Sakura Knight | 137889 | [137889-sakura-knight.json](./137889-sakura-knight.json) |
@@ -1574,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandy's Circus Adventure | 45895 | [45895-sandys-circus-adventure.json](./45895-sandys-circus-adventure.json) |
 | Sandy's Great Escape | 253867 | [253867-sandys-great-escape.json](./253867-sandys-great-escape.json) |
 | Sandy's Surf Adventure | 245703 | [245703-sandys-surf-adventure.json](./245703-sandys-surf-adventure.json) |
+| Sanechek: Lost Coins | 340666 | [340666-sanechek-lost-coins.json](./340666-sanechek-lost-coins.json) |
 | Sanevol Incident 44 | 285397 | [285397-sanevol-incident-44.json](./285397-sanevol-incident-44.json) |
 | Sang-Froid: Tales of Werewolves | 5446 | [5446-sang-froid-tales-of-werewolves.json](./5446-sang-froid-tales-of-werewolves.json) |
 | Sangeki wo Kuzuse! | 97674 | [97674-sangeki-wo-kuzuse.json](./97674-sangeki-wo-kuzuse.json) |
@@ -1749,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Factory | 85365 | [85365-santa-factory.json](./85365-santa-factory.json) |
 | Santa Fe Mysteries: Sacred Ground | 70296 | [70296-santa-fe-mysteries-sacred-ground.json](./70296-santa-fe-mysteries-sacred-ground.json) |
 | Santa Fe Mysteries: The Elk Moon Murder | 13783 | [13783-santa-fe-mysteries-the-elk-moon-murder.json](./13783-santa-fe-mysteries-the-elk-moon-murder.json) |
+| Santa Gamepaper | 340664 | [340664-santa-gamepaper.json](./340664-santa-gamepaper.json) |
 | Santa Gift Master | 293312 | [293312-santa-gift-master.json](./293312-santa-gift-master.json) |
 | Santa Girl | 384587 | [384587-santa-girl.json](./384587-santa-girl.json) |
 | Santa Holiday Puzzle | 379395 | [379395-santa-holiday-puzzle.json](./379395-santa-holiday-puzzle.json) |
@@ -1941,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarkwo | 197229 | [197229-sarkwo.json](./197229-sarkwo.json) |
 | Saros: Digital Deluxe Edition | 399922 | [399922-saros-digital-deluxe-edition.json](./399922-saros-digital-deluxe-edition.json) |
 | Saros: Zenith | 416115 | [416115-saros-zenith.json](./416115-saros-zenith.json) |
+| Sarpedon | 340663 | [340663-sarpedon.json](./340663-sarpedon.json) |
 | Saru Ga Daisuki | 199197 | [199197-saru-ga-daisuki.json](./199197-saru-ga-daisuki.json) |
 | Saru Get You: Pipo Saru Racer | 66511 | [66511-saru-get-you-pipo-saru-racer.json](./66511-saru-get-you-pipo-saru-racer.json) |
 | Saru Getchu Saru Saru Daisakusen | 79069 | [79069-saru-getchu-saru-saru-daisakusen.json](./79069-saru-getchu-saru-saru-daisakusen.json) |
@@ -2065,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satryn Deluxe | 186106 | [186106-satryn-deluxe.json](./186106-satryn-deluxe.json) |
 | Satsui no Kaisou: Power Soft Satsujin Jiken | 48859 | [48859-satsui-no-kaisou-power-soft-satsujin-jiken.json](./48859-satsui-no-kaisou-power-soft-satsujin-jiken.json) |
 | Satsuki-iro no Sora ni | 412795 | [412795-satsuki-iro-no-sora-ni.json](./412795-satsuki-iro-no-sora-ni.json) |
+| Sattelite | 340662 | [340662-sattelite.json](./340662-sattelite.json) |
 | Saturated Outer Space | 116836 | [116836-saturated-outer-space.json](./116836-saturated-outer-space.json) |
 | Saturday AM: Battle Manga | 382452 | [382452-saturday-am-battle-manga.json](./382452-saturday-am-battle-manga.json) |
 | Saturday Edition | 151982 | [151982-saturday-edition.json](./151982-saturday-edition.json) |
@@ -2153,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage 2: A Tortured Soul | 2243 | [2243-savage-2-a-tortured-soul.json](./2243-savage-2-a-tortured-soul.json) |
 | Savage Age | 294839 | [294839-savage-age.json](./294839-savage-age.json) |
 | Savage Arena | 68895 | [68895-savage-arena.json](./68895-savage-arena.json) |
+| Savage Arena: Dead Ball Zone | 340661 | [340661-savage-arena-dead-ball-zone.json](./340661-savage-arena-dead-ball-zone.json) |
 | Savage Bliss | 23919 | [23919-savage-bliss.json](./23919-savage-bliss.json) |
 | Savage Gears | 319685 | [319685-savage-gears.json](./319685-savage-gears.json) |
 | Savage Girls | 272940 | [272940-savage-girls.json](./272940-savage-girls.json) |
@@ -18799,7 +18810,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
