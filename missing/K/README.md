@@ -2625,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Bullet | 272242 | [272242-killing-bullet.json](./272242-killing-bullet.json) |
 | Killing Day | 68223 | [68223-killing-day.json](./68223-killing-day.json) |
 | Killing Floor | 2949 | [2949-killing-floor.json](./2949-killing-floor.json) |
+| Killing Floor | 306881 | [306881-killing-floor.json](./306881-killing-floor.json) |
 | Killing Floor 2: Commando Chicken Bundle | 332001 | [332001-killing-floor-2-commando-chicken-bundle.json](./332001-killing-floor-2-commando-chicken-bundle.json) |
 | Killing Floor 2: Day of the Zed Character Outfit Set | 332006 | [332006-killing-floor-2-day-of-the-zed-character-outfit-set.json](./332006-killing-floor-2-day-of-the-zed-character-outfit-set.json) |
 | Killing Floor 2: Deluxe Edition | 53242 | [53242-killing-floor-2-deluxe-edition.json](./53242-killing-floor-2-deluxe-edition.json) |
@@ -2740,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
