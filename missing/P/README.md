@@ -13850,6 +13850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primordium: Eclipse | 365842 | [365842-primordium-eclipse.json](./365842-primordium-eclipse.json) |
 | Primrose | 229792 | [229792-primrose.json](./229792-primrose.json) |
 | Primrose | 84809 | [84809-primrose.json](./84809-primrose.json) |
+| Primrows | 333850 | [333850-primrows.json](./333850-primrows.json) |
 | Primula | 216952 | [216952-primula.json](./216952-primula.json) |
 | Primus Chess | 87546 | [87546-primus-chess.json](./87546-primus-chess.json) |
 | Primus Numen | 381103 | [381103-primus-numen.json](./381103-primus-numen.json) |
