@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obliterate | 43246 | [43246-obliterate.json](./43246-obliterate.json) |
 | Obliterate Everything 2 | 416769 | [416769-obliterate-everything-2.json](./416769-obliterate-everything-2.json) |
 | Obliterator | 25563 | [25563-obliterator.json](./25563-obliterator.json) |
+| Obliterator-x | 346861 | [346861-obliterator-x.json](./346861-obliterator-x.json) |
 | Obliteroids | 51682 | [51682-obliteroids.json](./51682-obliteroids.json) |
 | Oblitus | 17523 | [17523-oblitus.json](./17523-oblitus.json) |
 | Oblitus Casa | 231425 | [231425-oblitus-casa.json](./231425-oblitus-casa.json) |
