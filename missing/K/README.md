@@ -1858,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kettou Beast Wars: Beast Senshi Saikyou Ketteisen | 64770 | [64770-kettou-beast-wars-beast-senshi-saikyou-ketteisen.json](./64770-kettou-beast-wars-beast-senshi-saikyou-ketteisen.json) |
 | Ketu de Ganba | 97999 | [97999-ketu-de-ganba.json](./97999-ketu-de-ganba.json) |
 | Keturan | 358470 | [358470-keturan.json](./358470-keturan.json) |
+| Ketz: Galactic Overlords | 327549 | [327549-ketz-galactic-overlords.json](./327549-ketz-galactic-overlords.json) |
 | Ketzal's Corridors | 47651 | [47651-ketzals-corridors.json](./47651-ketzals-corridors.json) |
 | Ketzer | 405720 | [405720-ketzer.json](./405720-ketzer.json) |
 | Kevin Costner's Waterworld | 221224 | [221224-kevin-costners-waterworld.json](./221224-kevin-costners-waterworld.json) |
@@ -2618,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Floor 2: Digital Deluxe Edition | 53241 | [53241-killing-floor-2-digital-deluxe-edition.json](./53241-killing-floor-2-digital-deluxe-edition.json) |
 | Killing Floor 2: Horzine Diver Outfit Bundle | 332025 | [332025-killing-floor-2-horzine-diver-outfit-bundle.json](./332025-killing-floor-2-horzine-diver-outfit-bundle.json) |
 | Killing Floor 2: Ultimate Edition | 205000 | [205000-killing-floor-2-ultimate-edition.json](./205000-killing-floor-2-ultimate-edition.json) |
+| Killing Floor III: Day One Edition | 327555 | [327555-killing-floor-iii-day-one-edition.json](./327555-killing-floor-iii-day-one-edition.json) |
 | Killing Floor III: Deluxe Edition | 336131 | [336131-killing-floor-iii-deluxe-edition.json](./336131-killing-floor-iii-deluxe-edition.json) |
 | Killing Floor III: Elite Nightfall Edition | 336153 | [336153-killing-floor-iii-elite-nightfall-edition.json](./336153-killing-floor-iii-elite-nightfall-edition.json) |
 | Killing Floor III: Operation Breakout | 380411 | [380411-killing-floor-iii-operation-breakout.json](./380411-killing-floor-iii-operation-breakout.json) |
