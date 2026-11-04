@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-POP Idol Producer | 228944 | [228944-k-pop-idol-producer.json](./228944-k-pop-idol-producer.json) |
 | K-Pop Idol Stories: Road to Debut | 212197 | [212197-k-pop-idol-stories-road-to-debut.json](./212197-k-pop-idol-stories-road-to-debut.json) |
 | K-pop Idols Dating: Anime Love for B.SeveT | 334098 | [334098-k-pop-idols-dating-anime-love-for-b-sevet.json](./334098-k-pop-idols-dating-anime-love-for-b-sevet.json) |
+| K-pop Idols Dating: Anime Love for PinkOrbil T. | 335009 | [335009-k-pop-idols-dating-anime-love-for-pinkorbil-t.json](./335009-k-pop-idols-dating-anime-love-for-pinkorbil-t.json) |
 | K-Pop Rising: Dream to Shine | 408838 | [408838-k-pop-rising-dream-to-shine.json](./408838-k-pop-rising-dream-to-shine.json) |
 | K-Pop VR | 76441 | [76441-k-pop-vr.json](./76441-k-pop-vr.json) |
 | K-Pop! | 309741 | [309741-k-pop.json](./309741-k-pop.json) |
