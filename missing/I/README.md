@@ -2309,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Awakening | 227252 | [227252-immortal-awakening.json](./227252-immortal-awakening.json) |
 | Immortal Beast | 273789 | [273789-immortal-beast.json](./273789-immortal-beast.json) |
 | Immortal Blade | 220284 | [220284-immortal-blade.json](./220284-immortal-blade.json) |
+| Immortal Boy | 337387 | [337387-immortal-boy.json](./337387-immortal-boy.json) |
 | Immortal Chess | 413174 | [413174-immortal-chess.json](./413174-immortal-chess.json) |
 | Immortal Cities: Children of the Nile | 7507 | [7507-immortal-cities-children-of-the-nile.json](./7507-immortal-cities-children-of-the-nile.json) |
 | Immortal Cities: Nile Online | 11274 | [11274-immortal-cities-nile-online.json](./11274-immortal-cities-nile-online.json) |
@@ -3685,7 +3686,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
