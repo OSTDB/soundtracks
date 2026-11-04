@@ -1716,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Law & Order: Justice is Served | 24251 | [24251-law-and-order-justice-is-served.json](./24251-law-and-order-justice-is-served.json) |
 | Law & Order: Legacies | 18874 | [18874-law-and-order-legacies.json](./18874-law-and-order-legacies.json) |
 | Law & Order: Mushroom Kingdom Unit - Pilot Episode: Tragic Fox "Tails" | 345625 | [345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json](./345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json) |
+| Law 56 | 347995 | [347995-law-56.json](./347995-law-56.json) |
 | Law and Order: Los Angeles | 79795 | [79795-law-and-order-los-angeles.json](./79795-law-and-order-los-angeles.json) |
 | Law Craft | 207832 | [207832-law-craft.json](./207832-law-craft.json) |
 | Law Empire Tycoon | 171810 | [171810-law-empire-tycoon.json](./171810-law-empire-tycoon.json) |
@@ -3457,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Her Go | 353758 | [353758-let-her-go.json](./353758-let-her-go.json) |
 | Let Him Cook | 265138 | [265138-let-him-cook.json](./265138-let-him-cook.json) |
 | Let It Boom | 217260 | [217260-let-it-boom.json](./217260-let-it-boom.json) |
+| Let It Chill | 347976 | [347976-let-it-chill.json](./347976-let-it-chill.json) |
 | Let It Die | 304376 | [304376-let-it-die.json](./304376-let-it-die.json) |
 | Let It Die: Inferno | 369994 | [369994-let-it-die-inferno.json](./369994-let-it-die-inferno.json) |
 | Let It Die: Uncle Prime Edition | 166240 | [166240-let-it-die-uncle-prime-edition.json](./166240-let-it-die-uncle-prime-edition.json) |
@@ -5052,6 +5054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminality Online | 176476 | [176476-liminality-online.json](./176476-liminality-online.json) |
 | Liminalphobia | 149555 | [149555-liminalphobia.json](./149555-liminalphobia.json) |
 | Liminoid | 413643 | [413643-liminoid.json](./413643-liminoid.json) |
+| Liminophobia | 347998 | [347998-liminophobia.json](./347998-liminophobia.json) |
 | Limit Break | 359075 | [359075-limit-break.json](./359075-limit-break.json) |
 | Limit Buffet | 260505 | [260505-limit-buffet.json](./260505-limit-buffet.json) |
 | Limit Choice | 253601 | [253601-limit-choice.json](./253601-limit-choice.json) |
@@ -7357,6 +7360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Gun | 40370 | [40370-lord-of-gun.json](./40370-lord-of-gun.json) |
 | Lord of Heroes | 137634 | [137634-lord-of-heroes.json](./137634-lord-of-heroes.json) |
 | Lord of Magna: Maiden Heaven | 20020 | [20020-lord-of-magna-maiden-heaven.json](./20020-lord-of-magna-maiden-heaven.json) |
+| Lord of Metal | 348121 | [348121-lord-of-metal.json](./348121-lord-of-metal.json) |
 | Lord of Mysteries | 373593 | [373593-lord-of-mysteries.json](./373593-lord-of-mysteries.json) |
 | Lord of Nazarick | 317316 | [317316-lord-of-nazarick.json](./317316-lord-of-nazarick.json) |
 | Lord of Ogre | 365078 | [365078-lord-of-ogre.json](./365078-lord-of-ogre.json) |
