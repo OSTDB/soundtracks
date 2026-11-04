@@ -1966,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 In 1: Sudoku, Mahjong, MineSweeper | 263396 | [263396-3-in-1-sudoku-mahjong-minesweeper.json](./263396-3-in-1-sudoku-mahjong-minesweeper.json) |
 | 3 In Three | 86059 | [86059-3-in-three.json](./86059-3-in-three.json) |
 | 3 in1 Racing Collection | 391258 | [391258-3-in1-racing-collection.json](./391258-3-in1-racing-collection.json) |
+| 3 Islands of Shells | 312238 | [312238-3-islands-of-shells.json](./312238-3-islands-of-shells.json) |
 | 3 Kings | 305270 | [305270-3-kings.json](./305270-3-kings.json) |
 | 3 Last Chances | 244883 | [244883-3-last-chances.json](./244883-3-last-chances.json) |
 | 3 Lines of a Delta | 388100 | [388100-3-lines-of-a-delta.json](./388100-3-lines-of-a-delta.json) |
@@ -2373,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: OutPost | 308946 | [308946-3d-puzzle-outpost.json](./308946-3d-puzzle-outpost.json) |
 | 3D Puzzle: Pirate Tavern | 337621 | [337621-3d-puzzle-pirate-tavern.json](./337621-3d-puzzle-pirate-tavern.json) |
 | 3D Puzzle: Pirates | 301037 | [301037-3d-puzzle-pirates.json](./301037-3d-puzzle-pirates.json) |
+| 3D Puzzle: Pizza Shop 1 | 311934 | [311934-3d-puzzle-pizza-shop-1.json](./311934-3d-puzzle-pizza-shop-1.json) |
 | 3D Puzzle: Pizza Shop 2 | 357756 | [357756-3d-puzzle-pizza-shop-2.json](./357756-3d-puzzle-pizza-shop-2.json) |
 | 3D Puzzle: Port | 309618 | [309618-3d-puzzle-port.json](./309618-3d-puzzle-port.json) |
 | 3D Puzzle: Post-Apocalyptic 3 | 280313 | [280313-3d-puzzle-post-apocalyptic-3.json](./280313-3d-puzzle-post-apocalyptic-3.json) |
