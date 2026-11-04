@@ -6148,6 +6148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alephant | 190400 | [190400-alephant.json](./190400-alephant.json) |
 | Alert | 14236 | [14236-alert.json](./14236-alert.json) |
 | Alert X: Ostatnia Nadzieja Ziemi | 14237 | [14237-alert-x-ostatnia-nadzieja-ziemi.json](./14237-alert-x-ostatnia-nadzieja-ziemi.json) |
+| Alerta Roja | 305700 | [305700-alerta-roja.json](./305700-alerta-roja.json) |
 | Alertes Spéciales | 363969 | [363969-alertes-speciales.json](./363969-alertes-speciales.json) |
 | Aleryos | 411412 | [411412-aleryos.json](./411412-aleryos.json) |
 | Ales Dash | 102935 | [102935-ales-dash.json](./102935-ales-dash.json) |
@@ -14119,6 +14120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Girl | 70686 | [70686-artificial-girl.json](./70686-artificial-girl.json) |
 | Artificial Girl 2 | 19808 | [19808-artificial-girl-2.json](./19808-artificial-girl-2.json) |
 | Artificial Girl 3 Plus | 22465 | [22465-artificial-girl-3-plus.json](./22465-artificial-girl-3-plus.json) |
+| Artificial Gravity Cat | 305688 | [305688-artificial-gravity-cat.json](./305688-artificial-gravity-cat.json) |
 | Artificial Heart | 306774 | [306774-artificial-heart.json](./306774-artificial-heart.json) |
 | Artificial Iridescence | 121514 | [121514-artificial-iridescence.json](./121514-artificial-iridescence.json) |
 | Artificial Life | 175221 | [175221-artificial-life.json](./175221-artificial-life.json) |
