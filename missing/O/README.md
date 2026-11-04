@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O.To.I.Re: Dreamcast Sequencer | 283303 | [283303-o-to-i-re-dreamcast-sequencer.json](./283303-o-to-i-re-dreamcast-sequencer.json) |
 | O.U.T.T. | 400324 | [400324-o-u-t-t.json](./400324-o-u-t-t.json) |
 | O.W.L Projekt | 309527 | [309527-o-w-l-projekt.json](./309527-o-w-l-projekt.json) |
+| O.W.L Projekt 2 | 333291 | [333291-o-w-l-projekt-2.json](./333291-o-w-l-projekt-2.json) |
 | O.W.L.: One Wave Length | 341579 | [341579-o-w-l-one-wave-length.json](./341579-o-w-l-one-wave-length.json) |
 | O'Fox life | 74577 | [74577-ofox-life.json](./74577-ofox-life.json) |
 | O'Leary Manager 2000 | 50550 | [50550-oleary-manager-2000.json](./50550-oleary-manager-2000.json) |
@@ -746,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssey Reborn | 286430 | [286430-odyssey-reborn.json](./286430-odyssey-reborn.json) |
 | Odyssey RPG | 357714 | [357714-odyssey-rpg.json](./357714-odyssey-rpg.json) |
 | Odyssey RPG | 62634 | [62634-odyssey-rpg.json](./62634-odyssey-rpg.json) |
+| Odyssey to the Frozen Legion | 333299 | [333299-odyssey-to-the-frozen-legion.json](./333299-odyssey-to-the-frozen-legion.json) |
 | Odyssey VR | 75617 | [75617-odyssey-vr.json](./75617-odyssey-vr.json) |
 | Odyssey: Altar of Norax | 191159 | [191159-odyssey-altar-of-norax.json](./191159-odyssey-altar-of-norax.json) |
 | Odyssey: Realm of Echoes | 341499 | [341499-odyssey-realm-of-echoes.json](./341499-odyssey-realm-of-echoes.json) |
@@ -3649,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbem Explore | 307874 | [307874-orbem-explore.json](./307874-orbem-explore.json) |
 | Orbfall | 403097 | [403097-orbfall.json](./403097-orbfall.json) |
 | OrbGuard | 341946 | [341946-orbguard.json](./341946-orbguard.json) |
+| OrbHand | 333312 | [333312-orbhand.json](./333312-orbhand.json) |
 | Orbi Universo | 120847 | [120847-orbi-universo.json](./120847-orbi-universo.json) |
 | Orbi Universo II | 334043 | [334043-orbi-universo-ii.json](./334043-orbi-universo-ii.json) |
 | Orbi's Chronicles | 149342 | [149342-orbis-chronicles.json](./149342-orbis-chronicles.json) |
