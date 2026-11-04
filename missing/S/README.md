@@ -3464,6 +3464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scratch Golf | 46542 | [46542-scratch-golf.json](./46542-scratch-golf.json) |
 | Scratch Inc. | 350867 | [350867-scratch-inc.json](./350867-scratch-inc.json) |
 | Scratch Off! | 396963 | [396963-scratch-off.json](./396963-scratch-off.json) |
+| Scratch the Cat | 344665 | [344665-scratch-the-cat.json](./344665-scratch-the-cat.json) |
 | Scratch the Ticket | 404220 | [404220-scratch-the-ticket.json](./404220-scratch-the-ticket.json) |
 | Scratch Wars | 139365 | [139365-scratch-wars.json](./139365-scratch-wars.json) |
 | Scratch Your Luck | 424012 | [424012-scratch-your-luck.json](./424012-scratch-your-luck.json) |
@@ -3678,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scythe Shepard | 276717 | [276717-scythe-shepard.json](./276717-scythe-shepard.json) |
 | Scythe X | 137667 | [137667-scythe-x.json](./137667-scythe-x.json) |
 | Scythe: Digital Edition - Invaders from Afar | 154948 | [154948-scythe-digital-edition-invaders-from-afar.json](./154948-scythe-digital-edition-invaders-from-afar.json) |
+| Scytheful | 344689 | [344689-scytheful.json](./344689-scytheful.json) |
 | SD Battle Oozumou: Heisei Hero Basho | 48300 | [48300-sd-battle-oozumou-heisei-hero-basho.json](./48300-sd-battle-oozumou-heisei-hero-basho.json) |
 | SD F-1 Grand Prix | 38328 | [38328-sd-f-1-grand-prix.json](./38328-sd-f-1-grand-prix.json) |
 | SD Fighters | 39564 | [39564-sd-fighters.json](./39564-sd-fighters.json) |
@@ -11183,6 +11185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister Love | 97642 | [97642-sister-love.json](./97642-sister-love.json) |
 | Sister Lumina and the Hypnosis Cult | 327395 | [327395-sister-lumina-and-the-hypnosis-cult.json](./327395-sister-lumina-and-the-hypnosis-cult.json) |
 | Sister Mermaid | 304945 | [304945-sister-mermaid.json](./304945-sister-mermaid.json) |
+| Sister of a Dragon | 344808 | [344808-sister-of-a-dragon.json](./344808-sister-of-a-dragon.json) |
 | Sister Other Paranoia | 383129 | [383129-sister-other-paranoia.json](./383129-sister-other-paranoia.json) |
 | Sister Princess | 58446 | [58446-sister-princess.json](./58446-sister-princess.json) |
 | Sister Princess 2 | 58437 | [58437-sister-princess-2.json](./58437-sister-princess-2.json) |
@@ -15373,6 +15376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soda-Powered Penguin | 216734 | [216734-soda-powered-penguin.json](./216734-soda-powered-penguin.json) |
 | Sodablood | 312174 | [312174-sodablood.json](./312174-sodablood.json) |
 | SodaCity | 33958 | [33958-sodacity.json](./33958-sodacity.json) |
+| Sodahazard: Taste Test | 344653 | [344653-sodahazard-taste-test.json](./344653-sodahazard-taste-test.json) |
 | Sodatete! Mushiking | 198649 | [198649-sodatete-mushiking.json](./198649-sodatete-mushiking.json) |
 | Sodden | 301236 | [301236-sodden.json](./301236-sodden.json) |
 | Sodium One | 45282 | [45282-sodium-one.json](./45282-sodium-one.json) |
@@ -18781,6 +18785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -25567,6 +25572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick It to the Stickman | 215042 | [215042-stick-it-to-the-stickman.json](./215042-stick-it-to-the-stickman.json) |
 | Stick It! | 312183 | [312183-stick-it.json](./312183-stick-it.json) |
 | Stick Knight | 240852 | [240852-stick-knight.json](./240852-stick-knight.json) |
+| Stick Knight | 344809 | [344809-stick-knight.json](./344809-stick-knight.json) |
 | Stick Knight Takes Over the Universe | 138657 | [138657-stick-knight-takes-over-the-universe.json](./138657-stick-knight-takes-over-the-universe.json) |
 | Stick man Flipper | 112742 | [112742-stick-man-flipper.json](./112742-stick-man-flipper.json) |
 | Stick Man Rescue | 44501 | [44501-stick-man-rescue.json](./44501-stick-man-rescue.json) |
@@ -26812,6 +26818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Cricket Champions 2 | 269505 | [269505-street-cricket-champions-2.json](./269505-street-cricket-champions-2.json) |
 | Street Dance | 200003 | [200003-street-dance.json](./200003-street-dance.json) |
 | Street Defenders | 357270 | [357270-street-defenders.json](./357270-street-defenders.json) |
+| Street Dog Legend | 344659 | [344659-street-dog-legend.json](./344659-street-dog-legend.json) |
 | Street Drag 2 | 233413 | [233413-street-drag-2.json](./233413-street-drag-2.json) |
 | Street Drag Racing Car Driving Simulator 2022 Games | 231066 | [231066-street-drag-racing-car-driving-simulator-2022-games.json](./231066-street-drag-racing-car-driving-simulator-2022-games.json) |
 | Street Drag Racing Car Driving Simulator: Premium Edition | 315852 | [315852-street-drag-racing-car-driving-simulator-premium-edition.json](./315852-street-drag-racing-car-driving-simulator-premium-edition.json) |
@@ -26922,7 +26929,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: 2016 Summer Costume Bundle | 343896 | [343896-street-fighter-v-2016-summer-costume-bundle.json](./343896-street-fighter-v-2016-summer-costume-bundle.json) |
 | Street Fighter V: 2017 Deluxe Edition | 53678 | [53678-street-fighter-v-2017-deluxe-edition.json](./53678-street-fighter-v-2017-deluxe-edition.json) |
 | Street Fighter V: A Shadow Falls | 146526 | [146526-street-fighter-v-a-shadow-falls.json](./146526-street-fighter-v-a-shadow-falls.json) |
+| Street Fighter V: Abigail | 344810 | [344810-street-fighter-v-abigail.json](./344810-street-fighter-v-abigail.json) |
 | Street Fighter V: Alex | 321628 | [321628-street-fighter-v-alex.json](./321628-street-fighter-v-alex.json) |
+| Street Fighter V: Arcade Edition - Sakura | 344817 | [344817-street-fighter-v-arcade-edition-sakura.json](./344817-street-fighter-v-arcade-edition-sakura.json) |
 | Street Fighter V: BCRF Pink Ribbon Bundle | 345848 | [345848-street-fighter-v-bcrf-pink-ribbon-bundle.json](./345848-street-fighter-v-bcrf-pink-ribbon-bundle.json) |
 | Street Fighter V: Blanka | 322207 | [322207-street-fighter-v-blanka.json](./322207-street-fighter-v-blanka.json) |
 | Street Fighter V: Capcom Costumes Bundle 1 | 344250 | [344250-street-fighter-v-capcom-costumes-bundle-1.json](./344250-street-fighter-v-capcom-costumes-bundle-1.json) |
@@ -26941,6 +26950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: E.Honda | 264489 | [264489-street-fighter-v-e-honda.json](./264489-street-fighter-v-e-honda.json) |
 | Street Fighter V: Extra Battle Capcom Legend Bundle 3 | 342578 | [342578-street-fighter-v-extra-battle-capcom-legend-bundle-3.json](./342578-street-fighter-v-extra-battle-capcom-legend-bundle-3.json) |
 | Street FIghter V: Falke | 345850 | [345850-street-fighter-v-falke.json](./345850-street-fighter-v-falke.json) |
+| Street Fighter V: G | 344815 | [344815-street-fighter-v-g.json](./344815-street-fighter-v-g.json) |
 | Street Fighter V: Juri Han | 319227 | [319227-street-fighter-v-juri-han.json](./319227-street-fighter-v-juri-han.json) |
 | Street Fighter V: Laura Costumes Bundle | 350072 | [350072-street-fighter-v-laura-costumes-bundle.json](./350072-street-fighter-v-laura-costumes-bundle.json) |
 | Street Fighter V: Lucia | 264482 | [264482-street-fighter-v-lucia.json](./264482-street-fighter-v-lucia.json) |
@@ -32474,6 +32484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suprem.io | 138488 | [138488-suprem-io.json](./138488-suprem-io.json) |
 | Supremacy 1914 | 113460 | [113460-supremacy-1914.json](./113460-supremacy-1914.json) |
 | Supremacy: The Metaverse Game | 196789 | [196789-supremacy-the-metaverse-game.json](./196789-supremacy-the-metaverse-game.json) |
+| Supremacy: Warhammer 40,000 | 344674 | [344674-supremacy-warhammer-40-000.json](./344674-supremacy-warhammer-40-000.json) |
 | Supreme | 80546 | [80546-supreme.json](./80546-supreme.json) |
 | Supreme AI: Arena | 161538 | [161538-supreme-ai-arena.json](./161538-supreme-ai-arena.json) |
 | Supreme Candy: Oudou ni wa Oudoutaru Riyuu ga Arun Desu! | 137107 | [137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json](./137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json) |
