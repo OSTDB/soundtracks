@@ -293,6 +293,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth DeLux: A Crusoe Quest | 192229 | [192229-labyrinth-delux-a-crusoe-quest.json](./192229-labyrinth-delux-a-crusoe-quest.json) |
 | Labyrinth Escape | 41901 | [41901-labyrinth-escape.json](./41901-labyrinth-escape.json) |
 | Labyrinth Eternal | 187898 | [187898-labyrinth-eternal.json](./187898-labyrinth-eternal.json) |
+| Labyrinth Flowers | 315135 | [315135-labyrinth-flowers.json](./315135-labyrinth-flowers.json) |
+| Labyrinth Flowers | 315136 | [315136-labyrinth-flowers.json](./315136-labyrinth-flowers.json) |
 | Labyrinth Inf | 181104 | [181104-labyrinth-inf.json](./181104-labyrinth-inf.json) |
 | Labyrinth Legend | 158874 | [158874-labyrinth-legend.json](./158874-labyrinth-legend.json) |
 | Labyrinth Legend II | 206443 | [206443-labyrinth-legend-ii.json](./206443-labyrinth-legend-ii.json) |
