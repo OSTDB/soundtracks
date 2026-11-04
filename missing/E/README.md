@@ -6850,6 +6850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Factory | 74790 | [74790-evil-factory.json](./74790-evil-factory.json) |
 | Evil Fate | 220018 | [220018-evil-fate.json](./220018-evil-fate.json) |
 | Evil Fire | 87979 | [87979-evil-fire.json](./87979-evil-fire.json) |
+| Evil Forest | 340144 | [340144-evil-forest.json](./340144-evil-forest.json) |
 | Evil Genius 2: World Domination - Abomination Pack | 226849 | [226849-evil-genius-2-world-domination-abomination-pack.json](./226849-evil-genius-2-world-domination-abomination-pack.json) |
 | Evil Genius 2: World Domination - Cabal Pack | 226850 | [226850-evil-genius-2-world-domination-cabal-pack.json](./226850-evil-genius-2-world-domination-cabal-pack.json) |
 | Evil Genius 2: World Domination - Deluxe Edition | 188025 | [188025-evil-genius-2-world-domination-deluxe-edition.json](./188025-evil-genius-2-world-domination-deluxe-edition.json) |
@@ -6876,6 +6877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Journey: Plan A | 263639 | [263639-evil-journey-plan-a.json](./263639-evil-journey-plan-a.json) |
 | Evil Labs | 55426 | [55426-evil-labs.json](./55426-evil-labs.json) |
 | Evil Lands | 120564 | [120564-evil-lands.json](./120564-evil-lands.json) |
+| Evil Lurks Below | 340161 | [340161-evil-lurks-below.json](./340161-evil-lurks-below.json) |
 | Evil Manor | 137485 | [137485-evil-manor.json](./137485-evil-manor.json) |
 | Evil Mansion | 172924 | [172924-evil-mansion.json](./172924-evil-mansion.json) |
 | Evil Maze | 174499 | [174499-evil-maze.json](./174499-evil-maze.json) |
@@ -8055,6 +8057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes of the Forest | 389087 | [389087-eyes-of-the-forest.json](./389087-eyes-of-the-forest.json) |
 | Eyes of the Killer | 150095 | [150095-eyes-of-the-killer.json](./150095-eyes-of-the-killer.json) |
 | Eyes of the Night | 173231 | [173231-eyes-of-the-night.json](./173231-eyes-of-the-night.json) |
+| Eyes of the Sky | 340163 | [340163-eyes-of-the-sky.json](./340163-eyes-of-the-sky.json) |
 | Eyes of War | 249913 | [249913-eyes-of-war.json](./249913-eyes-of-war.json) |
 | Eyes on Me | 385855 | [385855-eyes-on-me.json](./385855-eyes-on-me.json) |
 | Eyes On Me | 383577 | [383577-eyes-on-me.json](./383577-eyes-on-me.json) |
