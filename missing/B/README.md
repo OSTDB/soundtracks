@@ -14161,6 +14161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrotting | 425550 | [425550-brainrotting.json](./425550-brainrotting.json) |
 | Brains & Hearts | 330163 | [330163-brains-and-hearts.json](./330163-brains-and-hearts.json) |
 | Brains Diamonds | 246435 | [246435-brains-diamonds.json](./246435-brains-diamonds.json) |
+| Brains n' Bullets | 298208 | [298208-brains-n-bullets.json](./298208-brains-n-bullets.json) |
 | Brains: Denshinou Kougeki Shirei | 66054 | [66054-brains-denshinou-kougeki-shirei.json](./66054-brains-denshinou-kougeki-shirei.json) |
 | Brainshell | 375123 | [375123-brainshell.json](./375123-brainshell.json) |
 | BrainSplode! | 146479 | [146479-brainsplode.json](./146479-brainsplode.json) |
