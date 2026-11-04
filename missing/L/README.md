@@ -1160,7 +1160,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Buzz | 417440 | [417440-last-buzz.json](./417440-last-buzz.json) |
 | Last Call | 175890 | [175890-last-call.json](./175890-last-call.json) |
 | Last Call | 297321 | [297321-last-call.json](./297321-last-call.json) |
-| Last Call BBS | 205064 | [205064-last-call-bbs.json](./205064-last-call-bbs.json) |
 | Last Call: RE | 378552 | [378552-last-call-re.json](./378552-last-call-re.json) |
 | Last Call! | 71565 | [71565-last-call.json](./71565-last-call.json) |
 | Last Call's Dance | 389004 | [389004-last-calls-dance.json](./389004-last-calls-dance.json) |
