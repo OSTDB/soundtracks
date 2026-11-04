@@ -11049,6 +11049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge | 177542 | [177542-dodge.json](./177542-dodge.json) |
 | Dodge | 211375 | [211375-dodge.json](./211375-dodge.json) |
 | Dodge | 291575 | [291575-dodge.json](./291575-dodge.json) |
+| Dodge | 341257 | [341257-dodge.json](./341257-dodge.json) |
 | Dodge | 83819 | [83819-dodge.json](./83819-dodge.json) |
 | Dodge 'Em | 17020 | [17020-dodge-em.json](./17020-dodge-em.json) |
 | Dodge 'Em | 222892 | [222892-dodge-em.json](./222892-dodge-em.json) |
@@ -15966,6 +15967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drink Clicker: Idle Tycoon | 233384 | [233384-drink-clicker-idle-tycoon.json](./233384-drink-clicker-idle-tycoon.json) |
 | Drink Human Beans | 274571 | [274571-drink-human-beans.json](./274571-drink-human-beans.json) |
 | Drink Inc. | 90280 | [90280-drink-inc.json](./90280-drink-inc.json) |
+| Drink it Bitter | 341262 | [341262-drink-it-bitter.json](./341262-drink-it-bitter.json) |
 | Drink More Glurp | 117180 | [117180-drink-more-glurp.json](./117180-drink-more-glurp.json) |
 | Drink Pro Tycoon | 87997 | [87997-drink-pro-tycoon.json](./87997-drink-pro-tycoon.json) |
 | Drink Stand Tycoon | 367653 | [367653-drink-stand-tycoon.json](./367653-drink-stand-tycoon.json) |
