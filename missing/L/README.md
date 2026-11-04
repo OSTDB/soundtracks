@@ -5988,6 +5988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Strays | 324140 | [324140-little-strays.json](./324140-little-strays.json) |
 | Little Strays 2 | 389064 | [389064-little-strays-2.json](./389064-little-strays-2.json) |
 | Little Survivors | 273469 | [273469-little-survivors.json](./273469-little-survivors.json) |
+| Little Taichi: The Adventrure of Myth | 342992 | [342992-little-taichi-the-adventrure-of-myth.json](./342992-little-taichi-the-adventrure-of-myth.json) |
 | Little Tail Story | 144320 | [144320-little-tail-story.json](./144320-little-tail-story.json) |
 | Little Tailor 4: Fashion Sewing | 233462 | [233462-little-tailor-4-fashion-sewing.json](./233462-little-tailor-4-fashion-sewing.json) |
 | Little Tank | 339942 | [339942-little-tank.json](./339942-little-tank.json) |
