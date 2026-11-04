@@ -5200,6 +5200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Cats 6 | 390037 | [390037-find-cats-6.json](./390037-find-cats-6.json) |
 | Find Cats in the Casino | 400481 | [400481-find-cats-in-the-casino.json](./400481-find-cats-in-the-casino.json) |
 | Find Cats2 | 307687 | [307687-find-cats2.json](./307687-find-cats2.json) |
+| Find Clowns | 341812 | [341812-find-clowns.json](./341812-find-clowns.json) |
 | Find Colibries | 309381 | [309381-find-colibries.json](./309381-find-colibries.json) |
 | Find Difference | 386186 | [386186-find-difference.json](./386186-find-difference.json) |
 | Find Differences | 380628 | [380628-find-differences.json](./380628-find-differences.json) |
@@ -8413,6 +8414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyzz! | 217931 | [217931-flyzz.json](./217931-flyzz.json) |
 | FM4X | 270651 | [270651-fm4x.json](./270651-fm4x.json) |
 | FM7X: Continental Odyssey | 314750 | [314750-fm7x-continental-odyssey.json](./314750-fm7x-continental-odyssey.json) |
+| FMTC | 341809 | [341809-fmtc.json](./341809-fmtc.json) |
 | FMV Action | 289419 | [289419-fmv-action.json](./289419-fmv-action.json) |
 | FMV Adventure | 331466 | [331466-fmv-adventure.json](./331466-fmv-adventure.json) |
 | FMV Comedy Bundle | 213389 | [213389-fmv-comedy-bundle.json](./213389-fmv-comedy-bundle.json) |
@@ -11558,6 +11560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendship Dungeon: Party Puzzler | 374918 | [374918-friendship-dungeon-party-puzzler.json](./374918-friendship-dungeon-party-puzzler.json) |
 | Friendship Island | 301878 | [301878-friendship-island.json](./301878-friendship-island.json) |
 | Friendship Simulator | 359358 | [359358-friendship-simulator.json](./359358-friendship-simulator.json) |
+| Friendship Test | 341800 | [341800-friendship-test.json](./341800-friendship-test.json) |
 | Friendship vs The World | 402942 | [402942-friendship-vs-the-world.json](./402942-friendship-vs-the-world.json) |
 | Friendship21s | 254961 | [254961-friendship21s.json](./254961-friendship21s.json) |
 | Friendsim 2 | 190164 | [190164-friendsim-2.json](./190164-friendsim-2.json) |
@@ -12337,6 +12340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Mountain Party | 334302 | [334302-fruit-mountain-party.json](./334302-fruit-mountain-party.json) |
 | Fruit Ninja | 290243 | [290243-fruit-ninja.json](./290243-fruit-ninja.json) |
 | Fruit Ninja Academy: Math Master | 193723 | [193723-fruit-ninja-academy-math-master.json](./193723-fruit-ninja-academy-math-master.json) |
+| Fruit Ninja Classic+ | 341823 | [341823-fruit-ninja-classic.json](./341823-fruit-ninja-classic.json) |
 | Fruit Ninja Frenzy | 64750 | [64750-fruit-ninja-frenzy.json](./64750-fruit-ninja-frenzy.json) |
 | Fruit Ninja FX | 228665 | [228665-fruit-ninja-fx.json](./228665-fruit-ninja-fx.json) |
 | Fruit Ninja FX2 | 228671 | [228671-fruit-ninja-fx2.json](./228671-fruit-ninja-fx2.json) |
