@@ -1779,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Dice: Wars | 216130 | [216130-random-dice-wars.json](./216130-random-dice-wars.json) |
 | Random Dragons | 389525 | [389525-random-dragons.json](./389525-random-dragons.json) |
 | Random Dungeon | 260725 | [260725-random-dungeon.json](./260725-random-dungeon.json) |
+| Random Dungeon | 313944 | [313944-random-dungeon.json](./313944-random-dungeon.json) |
 | Random Dungeon Game | 333018 | [333018-random-dungeon-game.json](./333018-random-dungeon-game.json) |
 | Random Heroes | 59895 | [59895-random-heroes.json](./59895-random-heroes.json) |
 | Random Heroes 2 | 59892 | [59892-random-heroes-2.json](./59892-random-heroes-2.json) |
@@ -7535,6 +7536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripley Remembered | 355842 | [355842-ripley-remembered.json](./355842-ripley-remembered.json) |
 | Ripley's Believe It or Not!: The Riddle of Master Lu | 12472 | [12472-ripleys-believe-it-or-not-the-riddle-of-master-lu.json](./12472-ripleys-believe-it-or-not-the-riddle-of-master-lu.json) |
 | Ripout | 150433 | [150433-ripout.json](./150433-ripout.json) |
+| Ripped Pixel Dungeon | 313945 | [313945-ripped-pixel-dungeon.json](./313945-ripped-pixel-dungeon.json) |
 | Ripped/Apart | 133397 | [133397-ripped-apart.json](./133397-ripped-apart.json) |
 | Ripper | 6829 | [6829-ripper.json](./6829-ripper.json) |
 | Ripper Ribbit | 130899 | [130899-ripper-ribbit.json](./130899-ripper-ribbit.json) |
@@ -10573,6 +10575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room 0 | 410478 | [410478-room-0.json](./410478-room-0.json) |
 | Room 12 | 207734 | [207734-room-12.json](./207734-room-12.json) |
 | Room 14 | 301855 | [301855-room-14.json](./301855-room-14.json) |
+| Room 202 | 313926 | [313926-room-202.json](./313926-room-202.json) |
 | Room 303 | 183174 | [183174-room-303.json](./183174-room-303.json) |
 | Room 40 | 120364 | [120364-room-40.json](./120364-room-40.json) |
 | Room 404 | 374404 | [374404-room-404.json](./374404-room-404.json) |
