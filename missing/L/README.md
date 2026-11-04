@@ -6429,6 +6429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobster Game | 190469 | [190469-lobster-game.json](./190469-lobster-game.json) |
 | Lobsterbotomy | 182137 | [182137-lobsterbotomy.json](./182137-lobsterbotomy.json) |
 | Lobsterpunk | 369895 | [369895-lobsterpunk.json](./369895-lobsterpunk.json) |
+| Lobstpurr | 316877 | [316877-lobstpurr.json](./316877-lobstpurr.json) |
 | LOC | 401205 | [401205-loc.json](./401205-loc.json) |
 | Loca Deserta: Odesa | 274925 | [274925-loca-deserta-odesa.json](./274925-loca-deserta-odesa.json) |
 | Loca-Love My Commuting Crush | 120792 | [120792-loca-love-my-commuting-crush.json](./120792-loca-love-my-commuting-crush.json) |
