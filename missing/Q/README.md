@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadrivium: Paths of History | 341317 | [341317-quadrivium-paths-of-history.json](./341317-quadrivium-paths-of-history.json) |
 | Quadrix | 408418 | [408418-quadrix.json](./408418-quadrix.json) |
 | Quadrobat | 209950 | [209950-quadrobat.json](./209950-quadrobat.json) |
+| Quadrober Simulator | 326375 | [326375-quadrober-simulator.json](./326375-quadrober-simulator.json) |
 | Quadrofriend | 347172 | [347172-quadrofriend.json](./347172-quadrofriend.json) |
 | Quadroids | 264136 | [264136-quadroids.json](./264136-quadroids.json) |
 | Quadron | 113349 | [113349-quadron.json](./113349-quadron.json) |
