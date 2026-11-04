@@ -6027,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroSpace | 231488 | [231488-retrospace.json](./231488-retrospace.json) |
 | RetroSpace | 295608 | [295608-retrospace.json](./295608-retrospace.json) |
 | Retrospect | 376622 | [376622-retrospect.json](./376622-retrospect.json) |
+| RetroTime | 318888 | [318888-retrotime.json](./318888-retrotime.json) |
 | RetroVamp | 126634 | [126634-retrovamp.json](./126634-retrovamp.json) |
 | Retrovirus | 15418 | [15418-retrovirus.json](./15418-retrovirus.json) |
 | Retrowave | 130243 | [130243-retrowave.json](./130243-retrowave.json) |
@@ -11496,6 +11497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubicon: A Conspiracy of Silence | 178284 | [178284-rubicon-a-conspiracy-of-silence.json](./178284-rubicon-a-conspiracy-of-silence.json) |
 | Rubicondom | 271336 | [271336-rubicondom.json](./271336-rubicondom.json) |
 | Rubido | 260714 | [260714-rubido.json](./260714-rubido.json) |
+| Rubido | 318891 | [318891-rubido.json](./318891-rubido.json) |
 | Rubies in Space | 194371 | [194371-rubies-in-space.json](./194371-rubies-in-space.json) |
 | Rubik's Color | 26258 | [26258-rubiks-color.json](./26258-rubiks-color.json) |
 | Rubik's Cube | 71210 | [71210-rubiks-cube.json](./71210-rubiks-cube.json) |
