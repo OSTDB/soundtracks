@@ -4383,7 +4383,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Busters | 42375 | [42375-nightmare-busters.json](./42375-nightmare-busters.json) |
 | Nightmare Busters Rebirth | 392366 | [392366-nightmare-busters-rebirth.json](./392366-nightmare-busters-rebirth.json) |
 | Nightmare Cafe II | 339165 | [339165-nightmare-cafe-ii.json](./339165-nightmare-cafe-ii.json) |
+| Nightmare Cafe III | 339168 | [339168-nightmare-cafe-iii.json](./339168-nightmare-cafe-iii.json) |
+| Nightmare Cafe IV | 339171 | [339171-nightmare-cafe-iv.json](./339171-nightmare-cafe-iv.json) |
 | Nightmare Cafe IX | 339179 | [339179-nightmare-cafe-ix.json](./339179-nightmare-cafe-ix.json) |
+| Nightmare Cafe V | 339173 | [339173-nightmare-cafe-v.json](./339173-nightmare-cafe-v.json) |
+| Nightmare Cafe VI | 339174 | [339174-nightmare-cafe-vi.json](./339174-nightmare-cafe-vi.json) |
 | Nightmare Cafe VII | 339177 | [339177-nightmare-cafe-vii.json](./339177-nightmare-cafe-vii.json) |
 | Nightmare Cafe VIII | 339178 | [339178-nightmare-cafe-viii.json](./339178-nightmare-cafe-viii.json) |
 | Nightmare Cafe X | 339180 | [339180-nightmare-cafe-x.json](./339180-nightmare-cafe-x.json) |
