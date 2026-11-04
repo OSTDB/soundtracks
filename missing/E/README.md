@@ -3753,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endoparasitic 2 | 314438 | [314438-endoparasitic-2.json](./314438-endoparasitic-2.json) |
 | Endoparasitic Jam Version | 374237 | [374237-endoparasitic-jam-version.json](./374237-endoparasitic-jam-version.json) |
 | Endoparasitic VR | 271633 | [271633-endoparasitic-vr.json](./271633-endoparasitic-vr.json) |
+| Endor Awakens | 336979 | [336979-endor-awakens.json](./336979-endor-awakens.json) |
 | Endorfire Tower Defense | 164760 | [164760-endorfire-tower-defense.json](./164760-endorfire-tower-defense.json) |
 | Endorlight: Deluxe Edition | 52948 | [52948-endorlight-deluxe-edition.json](./52948-endorlight-deluxe-edition.json) |
 | Endou-san | 398090 | [398090-endou-san.json](./398090-endou-san.json) |
@@ -4197,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enypnion | 167511 | [167511-enypnion.json](./167511-enypnion.json) |
 | Enypnion Redreamed | 249812 | [249812-enypnion-redreamed.json](./249812-enypnion-redreamed.json) |
 | Enzbots | 123353 | [123353-enzbots.json](./123353-enzbots.json) |
+| Enzio-Ware | 336833 | [336833-enzio-ware.json](./336833-enzio-ware.json) |
 | Eo | 211661 | [211661-eo.json](./211661-eo.json) |
 | EOE: Eve of Extinction | 23454 | [23454-eoe-eve-of-extinction.json](./23454-eoe-eve-of-extinction.json) |
 | EOEOnline | 303515 | [303515-eoeonline.json](./303515-eoeonline.json) |
@@ -4375,6 +4377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Roller Coasters: Antarctica | 255133 | [255133-epic-roller-coasters-antarctica.json](./255133-epic-roller-coasters-antarctica.json) |
 | Epic Roller Coasters: Armageddon | 166647 | [166647-epic-roller-coasters-armageddon.json](./166647-epic-roller-coasters-armageddon.json) |
 | Epic Roller Coasters: Candyland | 243695 | [243695-epic-roller-coasters-candyland.json](./243695-epic-roller-coasters-candyland.json) |
+| Epic Roller Coasters: Colosseum | 336819 | [336819-epic-roller-coasters-colosseum.json](./336819-epic-roller-coasters-colosseum.json) |
 | Epic Roller Coasters: Dread Blood | 166654 | [166654-epic-roller-coasters-dread-blood.json](./166654-epic-roller-coasters-dread-blood.json) |
 | Epic Roller Coasters: Dynasty Dash | 310053 | [310053-epic-roller-coasters-dynasty-dash.json](./310053-epic-roller-coasters-dynasty-dash.json) |
 | Epic Roller Coasters: Fun-A-Licious | 353776 | [353776-epic-roller-coasters-fun-a-licious.json](./353776-epic-roller-coasters-fun-a-licious.json) |
@@ -5464,6 +5467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape: Tutankhamen's Tomb | 88453 | [88453-escape-tutankhamens-tomb.json](./88453-escape-tutankhamens-tomb.json) |
 | Escape: Underground | 149490 | [149490-escape-underground.json](./149490-escape-underground.json) |
 | Escape: VR | 29157 | [29157-escape-vr.json](./29157-escape-vr.json) |
+| Escape: Zombie Maze | 336852 | [336852-escape-zombie-maze.json](./336852-escape-zombie-maze.json) |
 | Escape! | 270026 | [270026-escape.json](./270026-escape.json) |
 | Escape! | 89659 | [89659-escape.json](./89659-escape.json) |
 | Escape! Skeleton.J | 254409 | [254409-escape-skeleton-j.json](./254409-escape-skeleton-j.json) |
@@ -7526,6 +7530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoshock | 335129 | [335129-exoshock.json](./335129-exoshock.json) |
 | Exosky | 287187 | [287187-exosky.json](./287187-exosky.json) |
 | ExoSoul | 257974 | [257974-exosoul.json](./257974-exosoul.json) |
+| eXoSpace Combat Engineer | 336824 | [336824-exospace-combat-engineer.json](./336824-exospace-combat-engineer.json) |
 | Exospecies | 121198 | [121198-exospecies.json](./121198-exospecies.json) |
 | ExoSphere | 57048 | [57048-exosphere.json](./57048-exosphere.json) |
 | Exostation | 224303 | [224303-exostation.json](./224303-exostation.json) |
