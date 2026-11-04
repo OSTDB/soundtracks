@@ -5463,6 +5463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender X | 275665 | [275665-defender-x.json](./275665-defender-x.json) |
 | Defender's Quest 2: Mists of Ruin | 7889 | [7889-defenders-quest-2-mists-of-ruin.json](./7889-defenders-quest-2-mists-of-ruin.json) |
 | Defender's Quest: Valley of the Forgotten | 7888 | [7888-defenders-quest-valley-of-the-forgotten.json](./7888-defenders-quest-valley-of-the-forgotten.json) |
+| Defender's Squad: The Last Ride | 336834 | [336834-defenders-squad-the-last-ride.json](./336834-defenders-squad-the-last-ride.json) |
 | Defenders | 309497 | [309497-defenders.json](./309497-defenders.json) |
 | Defenders | 33837 | [33837-defenders.json](./33837-defenders.json) |
 | Defenders Chronicles II: Heroes of Athelia | 19206 | [19206-defenders-chronicles-ii-heroes-of-athelia.json](./19206-defenders-chronicles-ii-heroes-of-athelia.json) |
@@ -17185,6 +17186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune: Awakening - The Water Wars DLC | 400089 | [400089-dune-awakening-the-water-wars-dlc.json](./400089-dune-awakening-the-water-wars-dlc.json) |
 | Dune: Imperium | 263201 | [263201-dune-imperium.json](./263201-dune-imperium.json) |
 | Dune: Imperium - Immortality | 407850 | [407850-dune-imperium-immortality.json](./407850-dune-imperium-immortality.json) |
+| Dune: Imperium - Rise of Ix | 336856 | [336856-dune-imperium-rise-of-ix.json](./336856-dune-imperium-rise-of-ix.json) |
 | Dune: Imperium - Uprising | 407856 | [407856-dune-imperium-uprising.json](./407856-dune-imperium-uprising.json) |
 | Dune: Ornithopter Assault | 150594 | [150594-dune-ornithopter-assault.json](./150594-dune-ornithopter-assault.json) |
 | Dune: Spice Wars | 185253 | [185253-dune-spice-wars.json](./185253-dune-spice-wars.json) |
