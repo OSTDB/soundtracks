@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraflow 2 | 129790 | [129790-ultraflow-2.json](./129790-ultraflow-2.json) |
 | Ultrafrog and the City of Destruction | 56426 | [56426-ultrafrog-and-the-city-of-destruction.json](./56426-ultrafrog-and-the-city-of-destruction.json) |
 | Ultrafun | 211908 | [211908-ultrafun.json](./211908-ultrafun.json) |
+| UltraGirl Alters | 348122 | [348122-ultragirl-alters.json](./348122-ultragirl-alters.json) |
 | UltraGoodness | 36966 | [36966-ultragoodness.json](./36966-ultragoodness.json) |
 | UltraGoodness 2 | 121539 | [121539-ultragoodness-2.json](./121539-ultragoodness-2.json) |
 | UltraGoodness Franchise Bundle | 227118 | [227118-ultragoodness-franchise-bundle.json](./227118-ultragoodness-franchise-bundle.json) |
