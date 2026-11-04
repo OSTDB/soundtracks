@@ -1813,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omnivael: Chronicles of the realm | 274763 | [274763-omnivael-chronicles-of-the-realm.json](./274763-omnivael-chronicles-of-the-realm.json) |
 | Omniwar | 109168 | [109168-omniwar.json](./109168-omniwar.json) |
 | Omnn | 338304 | [338304-omnn.json](./338304-omnn.json) |
+| Omochapon | 305080 | [305080-omochapon.json](./305080-omochapon.json) |
 | OmOchim | 415098 | [415098-omochim.json](./415098-omochim.json) |
 | Omoi o Sasageru Otome no Melody | 82496 | [82496-omoi-o-sasageru-otome-no-melody.json](./82496-omoi-o-sasageru-otome-no-melody.json) |
 | Omoi o Sasageru Otome no Melody: Afureru Omoi o Shirabe ni Nosete | 82494 | [82494-omoi-o-sasageru-otome-no-melody-afureru-omoi-o-shirabe-ni-nosete.json](./82494-omoi-o-sasageru-otome-no-melody-afureru-omoi-o-shirabe-ni-nosete.json) |
@@ -5631,6 +5632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch 2: PlayStation Plus Mega Bundle | 316064 | [316064-overwatch-2-playstation-plus-mega-bundle.json](./316064-overwatch-2-playstation-plus-mega-bundle.json) |
 | Overwatch 2: Rose Gold Mercy Bundle | 322628 | [322628-overwatch-2-rose-gold-mercy-bundle.json](./322628-overwatch-2-rose-gold-mercy-bundle.json) |
 | Overwatch 2: Season 10 - Venture Forth | 294507 | [294507-overwatch-2-season-10-venture-forth.json](./294507-overwatch-2-season-10-venture-forth.json) |
+| Overwatch 2: Season 11 - Super Mega Ultrawatch | 305394 | [305394-overwatch-2-season-11-super-mega-ultrawatch.json](./305394-overwatch-2-season-11-super-mega-ultrawatch.json) |
 | Overwatch 2: Season 13 - Spellbinder | 319357 | [319357-overwatch-2-season-13-spellbinder.json](./319357-overwatch-2-season-13-spellbinder.json) |
 | Overwatch 2: Season 14 - Hazard | 324865 | [324865-overwatch-2-season-14-hazard.json](./324865-overwatch-2-season-14-hazard.json) |
 | Overwatch 2: Season 15 - Honor & Glory | 331286 | [331286-overwatch-2-season-15-honor-and-glory.json](./331286-overwatch-2-season-15-honor-and-glory.json) |
