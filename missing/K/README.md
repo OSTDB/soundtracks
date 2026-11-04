@@ -4013,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kittenpire | 393984 | [393984-kittenpire.json](./393984-kittenpire.json) |
 | Kittenrock Cats - A Hidden Object Game | 255973 | [255973-kittenrock-cats-a-hidden-object-game.json](./255973-kittenrock-cats-a-hidden-object-game.json) |
 | Kittenrock Cats - A Hidden Object Game | 287657 | [287657-kittenrock-cats-a-hidden-object-game.json](./287657-kittenrock-cats-a-hidden-object-game.json) |
+| Kittens & Coffee | 306308 | [306308-kittens-and-coffee.json](./306308-kittens-and-coffee.json) |
 | Kittens and Cacti | 71236 | [71236-kittens-and-cacti.json](./71236-kittens-and-cacti.json) |
 | Kittens and Yarn | 152655 | [152655-kittens-and-yarn.json](./152655-kittens-and-yarn.json) |
 | Kittens in Post-Apocalyptic Fantasy San Francisco: Battle School for Only the Most Awesome Monsters | 204172 | [204172-kittens-in-post-apocalyptic-fantasy-san-francisco-battle-school-for-only-the-most-awesome-monsters.json](./204172-kittens-in-post-apocalyptic-fantasy-san-francisco-battle-school-for-only-the-most-awesome-monsters.json) |
@@ -4863,6 +4864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi Hai Tunnel | 280878 | [280878-koi-hai-tunnel.json](./280878-koi-hai-tunnel.json) |
 | Koi Iro Rabian Doll | 191693 | [191693-koi-iro-rabian-doll.json](./191693-koi-iro-rabian-doll.json) |
 | Koi Koi Mahjong | 43964 | [43964-koi-koi-mahjong.json](./43964-koi-koi-mahjong.json) |
+| Koi Land | 306268 | [306268-koi-land.json](./306268-koi-land.json) |
 | Koi Mekuri Clover Mini Fandisk | 399195 | [399195-koi-mekuri-clover-mini-fandisk.json](./399195-koi-mekuri-clover-mini-fandisk.json) |
 | Koi Mekuri Clover: Itsuka no Kimi he, Yakusoku no Ashita wo | 399190 | [399190-koi-mekuri-clover-itsuka-no-kimi-he-yakusoku-no-ashita-wo.json](./399190-koi-mekuri-clover-itsuka-no-kimi-he-yakusoku-no-ashita-wo.json) |
 | Koi Musubi | 30780 | [30780-koi-musubi.json](./30780-koi-musubi.json) |
