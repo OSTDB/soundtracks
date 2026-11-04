@@ -3974,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vremya-Dyengi | 88275 | [88275-vremya-dyengi.json](./88275-vremya-dyengi.json) |
 | VRetired | 111702 | [111702-vretired.json](./111702-vretired.json) |
 | VRFC Virtual Reality Football Club | 87964 | [87964-vrfc-virtual-reality-football-club.json](./87964-vrfc-virtual-reality-football-club.json) |
+| VRFS | 306885 | [306885-vrfs.json](./306885-vrfs.json) |
 | vRhythm | 25856 | [25856-vrhythm.json](./25856-vrhythm.json) |
 | Vribyss Refuge The Escape | 303981 | [303981-vribyss-refuge-the-escape.json](./303981-vribyss-refuge-the-escape.json) |
 | Vribyss Refuge: Metamorphosis | 372002 | [372002-vribyss-refuge-metamorphosis.json](./372002-vribyss-refuge-metamorphosis.json) |
