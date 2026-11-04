@@ -13184,6 +13184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid | 309173 | [309173-arkanoid.json](./309173-arkanoid.json) |
 | Arkanoid | 311341 | [311341-arkanoid.json](./311341-arkanoid.json) |
 | Arkanoid | 326864 | [326864-arkanoid.json](./326864-arkanoid.json) |
+| Arkanoid | 341271 | [341271-arkanoid.json](./341271-arkanoid.json) |
 | Arkanoid | 4595 | [4595-arkanoid.json](./4595-arkanoid.json) |
 | Arkanoid 2000 | 80599 | [80599-arkanoid-2000.json](./80599-arkanoid-2000.json) |
 | Arkanoid 4000 | 73605 | [73605-arkanoid-4000.json](./73605-arkanoid-4000.json) |
@@ -15173,6 +15174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Coconut | 235834 | [235834-astral-coconut.json](./235834-astral-coconut.json) |
 | Astral Codec | 336546 | [336546-astral-codec.json](./336546-astral-codec.json) |
 | Astral Court DX | 368081 | [368081-astral-court-dx.json](./368081-astral-court-dx.json) |
+| Astral Courthouse | 341268 | [341268-astral-courthouse.json](./341268-astral-courthouse.json) |
 | Astral Cube | 158344 | [158344-astral-cube.json](./158344-astral-cube.json) |
 | Astral Defense | 131943 | [131943-astral-defense.json](./131943-astral-defense.json) |
 | Astral Dive | 404088 | [404088-astral-dive.json](./404088-astral-dive.json) |
@@ -15953,6 +15955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
