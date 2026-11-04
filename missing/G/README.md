@@ -7560,6 +7560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix | 195040 | [195040-grand-prix.json](./195040-grand-prix.json) |
 | Grand Prix | 234094 | [234094-grand-prix.json](./234094-grand-prix.json) |
 | Grand Prix | 279694 | [279694-grand-prix.json](./279694-grand-prix.json) |
+| Grand Prix | 347019 | [347019-grand-prix.json](./347019-grand-prix.json) |
 | Grand Prix | 385557 | [385557-grand-prix.json](./385557-grand-prix.json) |
 | Grand Prix | 392844 | [392844-grand-prix.json](./392844-grand-prix.json) |
 | Grand Prix | 40611 | [40611-grand-prix.json](./40611-grand-prix.json) |
