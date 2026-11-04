@@ -3456,6 +3456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearless Four | 225969 | [225969-fearless-four.json](./225969-fearless-four.json) |
 | Fearless Fred and the Factory of Doom | 268740 | [268740-fearless-fred-and-the-factory-of-doom.json](./268740-fearless-fred-and-the-factory-of-doom.json) |
 | Fearless Night | 63679 | [63679-fearless-night.json](./63679-fearless-night.json) |
+| Fearless Pinocchio | 338068 | [338068-fearless-pinocchio.json](./338068-fearless-pinocchio.json) |
 | Fearless Tigor | 114819 | [114819-fearless-tigor.json](./114819-fearless-tigor.json) |
 | Fearless Wheels | 103889 | [103889-fearless-wheels.json](./103889-fearless-wheels.json) |
 | Fearlyss | 177276 | [177276-fearlyss.json](./177276-fearlyss.json) |
@@ -13246,6 +13247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuse | 381030 | [381030-fuse.json](./381030-fuse.json) |
 | Fuse Balls | 89416 | [89416-fuse-balls.json](./89416-fuse-balls.json) |
 | Fuse The Bomb | 329088 | [329088-fuse-the-bomb.json](./329088-fuse-the-bomb.json) |
+| Fused 240 | 337906 | [337906-fused-240.json](./337906-fused-240.json) |
 | Fuser: VIP Edition | 139827 | [139827-fuser-vip-edition.json](./139827-fuser-vip-edition.json) |
 | FuSha: Overnight Stay | 366292 | [366292-fusha-overnight-stay.json](./366292-fusha-overnight-stay.json) |
 | Fúshēng Mèng | 399047 | [399047-fusheng-meng.json](./399047-fusheng-meng.json) |
