@@ -1333,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Mythic Ishi Skin & Feat Pack | 254376 | [254376-idle-champions-mythic-ishi-skin-and-feat-pack.json](./254376-idle-champions-mythic-ishi-skin-and-feat-pack.json) |
 | Idle Champions: Mythic Presto Theme Pack | 285840 | [285840-idle-champions-mythic-presto-theme-pack.json](./285840-idle-champions-mythic-presto-theme-pack.json) |
 | Idle Champions: Painted Tortle Gromma Theme Pack | 303537 | [303537-idle-champions-painted-tortle-gromma-theme-pack.json](./303537-idle-champions-painted-tortle-gromma-theme-pack.json) |
+| Idle Champions: Plushie BBEG Skin & Feat Pack | 317722 | [317722-idle-champions-plushie-bbeg-skin-and-feat-pack.json](./317722-idle-champions-plushie-bbeg-skin-and-feat-pack.json) |
 | Idle Champions: Plushie Evandra Skin & Feat Pack | 303536 | [303536-idle-champions-plushie-evandra-skin-and-feat-pack.json](./303536-idle-champions-plushie-evandra-skin-and-feat-pack.json) |
 | Idle Champions: Plushie Nixie Skin & Feat Pack | 303535 | [303535-idle-champions-plushie-nixie-skin-and-feat-pack.json](./303535-idle-champions-plushie-nixie-skin-and-feat-pack.json) |
 | Idle Champions: Pride Marshals Bundle Pack | 252589 | [252589-idle-champions-pride-marshals-bundle-pack.json](./252589-idle-champions-pride-marshals-bundle-pack.json) |
@@ -1346,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Undead Knight Solaak Skin & Feat Pack | 289848 | [289848-idle-champions-undead-knight-solaak-skin-and-feat-pack.json](./289848-idle-champions-undead-knight-solaak-skin-and-feat-pack.json) |
 | Idle Champions: Undercover Sgt. Knox Skin & Feat Pack | 313703 | [313703-idle-champions-undercover-sgt-knox-skin-and-feat-pack.json](./313703-idle-champions-undercover-sgt-knox-skin-and-feat-pack.json) |
 | Idle Champions: Vacation Dungeon Master Skin & Feat Pack | 248401 | [248401-idle-champions-vacation-dungeon-master-skin-and-feat-pack.json](./248401-idle-champions-vacation-dungeon-master-skin-and-feat-pack.json) |
+| Idle Champions: Warforged Colossus Familiar Pack | 317721 | [317721-idle-champions-warforged-colossus-familiar-pack.json](./317721-idle-champions-warforged-colossus-familiar-pack.json) |
 | Idle Champions: Witchlight Nixie Theme Pack | 248402 | [248402-idle-champions-witchlight-nixie-theme-pack.json](./248402-idle-champions-witchlight-nixie-theme-pack.json) |
 | Idle Champions: Wyrm Slayer BBEG Skin & Feat Pack | 306077 | [306077-idle-champions-wyrm-slayer-bbeg-skin-and-feat-pack.json](./306077-idle-champions-wyrm-slayer-bbeg-skin-and-feat-pack.json) |
 | Idle Champions: Wyrm Slayer Ezmerelda Theme Pack | 306078 | [306078-idle-champions-wyrm-slayer-ezmerelda-theme-pack.json](./306078-idle-champions-wyrm-slayer-ezmerelda-theme-pack.json) |
@@ -1579,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Spiral: Snake Pack | 290815 | [290815-idle-spiral-snake-pack.json](./290815-idle-spiral-snake-pack.json) |
 | Idle Spiral: Space Pack | 290816 | [290816-idle-spiral-space-pack.json](./290816-idle-spiral-space-pack.json) |
 | Idle Spiral: Water Pack | 290819 | [290819-idle-spiral-water-pack.json](./290819-idle-spiral-water-pack.json) |
+| Idle Spiral: Window Glass Spiral Pack | 317747 | [317747-idle-spiral-window-glass-spiral-pack.json](./317747-idle-spiral-window-glass-spiral-pack.json) |
 | Idle Squares | 414840 | [414840-idle-squares.json](./414840-idle-squares.json) |
 | Idle Squire | 391172 | [391172-idle-squire.json](./391172-idle-squire.json) |
 | Idle Startup | 408019 | [408019-idle-startup.json](./408019-idle-startup.json) |
@@ -2540,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impermanence | 365837 | [365837-impermanence.json](./365837-impermanence.json) |
 | Impermanence | 404915 | [404915-impermanence.json](./404915-impermanence.json) |
 | Impersonal | 340503 | [340503-impersonal.json](./340503-impersonal.json) |
+| Impetum | 317725 | [317725-impetum.json](./317725-impetum.json) |
 | Impetus | 266701 | [266701-impetus.json](./266701-impetus.json) |
 | Impetus | 327977 | [327977-impetus.json](./327977-impetus.json) |
 | Impetus: Clamor in Portis | 135276 | [135276-impetus-clamor-in-portis.json](./135276-impetus-clamor-in-portis.json) |
@@ -3704,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
