@@ -12185,8 +12185,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel IV - Eternal Preservation Edition | 167068 | [167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json](./167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Standard Costume Bundle | 227335 | [227335-the-legend-of-heroes-trails-of-cold-steel-iv-standard-costume-bundle.json](./227335-the-legend-of-heroes-trails-of-cold-steel-iv-standard-costume-bundle.json) |
 | The Legend of Heroes: Trails Through Daybreak | 141833 | [141833-the-legend-of-heroes-trails-through-daybreak.json](./141833-the-legend-of-heroes-trails-through-daybreak.json) |
+| The Legend of Heroes: Trails through Daybreak - Accessories Set | 300909 | [300909-the-legend-of-heroes-trails-through-daybreak-accessories-set.json](./300909-the-legend-of-heroes-trails-through-daybreak-accessories-set.json) |
 | The Legend of Heroes: Trails through Daybreak - Bonus Set | 310687 | [310687-the-legend-of-heroes-trails-through-daybreak-bonus-set.json](./310687-the-legend-of-heroes-trails-through-daybreak-bonus-set.json) |
 | The Legend of Heroes: Trails through Daybreak - Costume Set | 301217 | [301217-the-legend-of-heroes-trails-through-daybreak-costume-set.json](./301217-the-legend-of-heroes-trails-through-daybreak-costume-set.json) |
+| The Legend of Heroes: Trails through Daybreak - Digital Deluxe Edition | 300886 | [300886-the-legend-of-heroes-trails-through-daybreak-digital-deluxe-edition.json](./300886-the-legend-of-heroes-trails-through-daybreak-digital-deluxe-edition.json) |
+| The Legend of Heroes: Trails through Daybreak - Free Sample Set | 300911 | [300911-the-legend-of-heroes-trails-through-daybreak-free-sample-set.json](./300911-the-legend-of-heroes-trails-through-daybreak-free-sample-set.json) |
+| The Legend of Heroes: Trails through Daybreak - Ultimate Edition | 300883 | [300883-the-legend-of-heroes-trails-through-daybreak-ultimate-edition.json](./300883-the-legend-of-heroes-trails-through-daybreak-ultimate-edition.json) |
 | The Legend of Heroes: Trails through Daybreak - Voice Set | 310686 | [310686-the-legend-of-heroes-trails-through-daybreak-voice-set.json](./310686-the-legend-of-heroes-trails-through-daybreak-voice-set.json) |
 | The Legend of Heroes: Trails through Daybreak II - Deluxe Edition | 313763 | [313763-the-legend-of-heroes-trails-through-daybreak-ii-deluxe-edition.json](./313763-the-legend-of-heroes-trails-through-daybreak-ii-deluxe-edition.json) |
 | The Legend of Heroes: Trails through Daybreak II - Limited Edition | 313762 | [313762-the-legend-of-heroes-trails-through-daybreak-ii-limited-edition.json](./313762-the-legend-of-heroes-trails-through-daybreak-ii-limited-edition.json) |
@@ -23872,6 +23876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Clanpool | 36931 | [36931-tokyo-clanpool.json](./36931-tokyo-clanpool.json) |
 | Tokyo Coffee Pandechika | 206552 | [206552-tokyo-coffee-pandechika.json](./206552-tokyo-coffee-pandechika.json) |
 | Tokyo College Girls: The Nerd & Queen Bees | 345594 | [345594-tokyo-college-girls-the-nerd-and-queen-bees.json](./345594-tokyo-college-girls-the-nerd-and-queen-bees.json) |
+| Tokyo Cooking | 300915 | [300915-tokyo-cooking.json](./300915-tokyo-cooking.json) |
 | Tokyo Cooking: Complete + | 328822 | [328822-tokyo-cooking-complete.json](./328822-tokyo-cooking-complete.json) |
 | Tokyo Cooking: Definitive Edition | 328799 | [328799-tokyo-cooking-definitive-edition.json](./328799-tokyo-cooking-definitive-edition.json) |
 | Tokyo Cooking: Deluxe Edition | 328800 | [328800-tokyo-cooking-deluxe-edition.json](./328800-tokyo-cooking-deluxe-edition.json) |
@@ -27876,6 +27881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Traffic Manager: Gold Edition | 308794 | [308794-train-traffic-manager-gold-edition.json](./308794-train-traffic-manager-gold-edition.json) |
 | Train Traffic Manager: GOTY Edition | 333728 | [333728-train-traffic-manager-goty-edition.json](./333728-train-traffic-manager-goty-edition.json) |
 | Train Traffic Manager: Platinum Edition | 312064 | [312064-train-traffic-manager-platinum-edition.json](./312064-train-traffic-manager-platinum-edition.json) |
+| Train Traffic Manager: Premium Edition | 300882 | [300882-train-traffic-manager-premium-edition.json](./300882-train-traffic-manager-premium-edition.json) |
 | Train Traffic Manager: Prime Edition | 328805 | [328805-train-traffic-manager-prime-edition.json](./328805-train-traffic-manager-prime-edition.json) |
 | Train Traffic Manager: Super Edition | 324360 | [324360-train-traffic-manager-super-edition.json](./324360-train-traffic-manager-super-edition.json) |
 | Train Traffic Manager: Upgrade Edition | 320669 | [320669-train-traffic-manager-upgrade-edition.json](./320669-train-traffic-manager-upgrade-edition.json) |
