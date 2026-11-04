@@ -3040,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumble Quest | 330606 | [330606-jumble-quest.json](./330606-jumble-quest.json) |
 | Jumble: That Scrambled Word Game | 70053 | [70053-jumble-that-scrambled-word-game.json](./70053-jumble-that-scrambled-word-game.json) |
 | Jumbled Manifesto | 176252 | [176252-jumbled-manifesto.json](./176252-jumbled-manifesto.json) |
+| Jumblem | 335159 | [335159-jumblem.json](./335159-jumblem.json) |
 | Jumbline 2 | 86729 | [86729-jumbline-2.json](./86729-jumbline-2.json) |
 | Jumbline 2+ for iPad | 95657 | [95657-jumbline-2-for-ipad.json](./95657-jumbline-2-for-ipad.json) |
 | Jumbly | 14138 | [14138-jumbly.json](./14138-jumbly.json) |
