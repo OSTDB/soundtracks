@@ -10921,6 +10921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to: Superhero! | 325396 | [325396-how-to-superhero.json](./325396-how-to-superhero.json) |
 | How Was Your Day? | 334902 | [334902-how-was-your-day.json](./334902-how-was-your-day.json) |
 | How We Die | 133191 | [133191-how-we-die.json](./133191-how-we-die.json) |
+| How We Die | 304492 | [304492-how-we-die.json](./304492-how-we-die.json) |
 | How We Soar | 19592 | [19592-how-we-soar.json](./19592-how-we-soar.json) |
 | How Would You Survive? | 305381 | [305381-how-would-you-survive.json](./305381-how-would-you-survive.json) |
 | How Your Package Gets Delivered | 363437 | [363437-how-your-package-gets-delivered.json](./363437-how-your-package-gets-delivered.json) |
