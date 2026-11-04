@@ -5201,6 +5201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomelings: Migration | 41130 | [41130-gnomelings-migration.json](./41130-gnomelings-migration.json) |
 | Gnomemade | 291895 | [291895-gnomemade.json](./291895-gnomemade.json) |
 | Gnomepunk | 145994 | [145994-gnomepunk.json](./145994-gnomepunk.json) |
+| Gnomes | 312792 | [312792-gnomes.json](./312792-gnomes.json) |
 | Gnomes | 37182 | [37182-gnomes.json](./37182-gnomes.json) |
 | Gnomes 'n Giants | 303706 | [303706-gnomes-n-giants.json](./303706-gnomes-n-giants.json) |
 | Gnomes & Goblins | 135119 | [135119-gnomes-and-goblins.json](./135119-gnomes-and-goblins.json) |
@@ -6828,6 +6829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodcode's Cavern | 356675 | [356675-goodcodes-cavern.json](./356675-goodcodes-cavern.json) |
 | Goodfolks | 61704 | [61704-goodfolks.json](./61704-goodfolks.json) |
 | Goodgame Empire | 70902 | [70902-goodgame-empire.json](./70902-goodgame-empire.json) |
+| Goodgame Gangster | 312804 | [312804-goodgame-gangster.json](./312804-goodgame-gangster.json) |
 | GoodGod | 355080 | [355080-goodgod.json](./355080-goodgod.json) |
 | Goodie Guild | 416541 | [416541-goodie-guild.json](./416541-goodie-guild.json) |
 | Goodlands | 192594 | [192594-goodlands.json](./192594-goodlands.json) |
