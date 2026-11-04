@@ -3719,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart CW | 151835 | [151835-mario-kart-cw.json](./151835-mario-kart-cw.json) |
 | Mario Kart DS N64 Circuit | 242435 | [242435-mario-kart-ds-n64-circuit.json](./242435-mario-kart-ds-n64-circuit.json) |
 | Mario Kart DS: GameCube Grand Prix | 313347 | [313347-mario-kart-ds-gamecube-grand-prix.json](./313347-mario-kart-ds-gamecube-grand-prix.json) |
+| Mario Kart Fusion | 313943 | [313943-mario-kart-fusion.json](./313943-mario-kart-fusion.json) |
 | Mario Kart Live: Home Circuit | 138251 | [138251-mario-kart-live-home-circuit.json](./138251-mario-kart-live-home-circuit.json) |
 | Mario Kart Midnight | 229509 | [229509-mario-kart-midnight.json](./229509-mario-kart-midnight.json) |
 | Mario Kart Midnight 2 | 326905 | [326905-mario-kart-midnight-2.json](./326905-mario-kart-midnight-2.json) |
@@ -5720,7 +5721,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9634,6 +9634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaphora: The Moonycat Quest | 116019 | [116019-metaphora-the-moonycat-quest.json](./116019-metaphora-the-moonycat-quest.json) |
 | MetaphOrder | 180680 | [180680-metaphorder.json](./180680-metaphorder.json) |
 | Metaphysical Abyss | 296979 | [296979-metaphysical-abyss.json](./296979-metaphysical-abyss.json) |
+| Metaphysics | 313951 | [313951-metaphysics.json](./313951-metaphysics.json) |
 | Metapilot | 209476 | [209476-metapilot.json](./209476-metapilot.json) |
 | Metaplace | 78077 | [78077-metaplace.json](./78077-metaplace.json) |
 | Metarun | 234754 | [234754-metarun.json](./234754-metarun.json) |
@@ -10750,6 +10751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Files | 374015 | [374015-midnight-files.json](./374015-midnight-files.json) |
 | Midnight Files: Missing in Forest Lake | 387054 | [387054-midnight-files-missing-in-forest-lake.json](./387054-midnight-files-missing-in-forest-lake.json) |
 | Midnight Fishing | 302684 | [302684-midnight-fishing.json](./302684-midnight-fishing.json) |
+| Midnight Fury | 313910 | [313910-midnight-fury.json](./313910-midnight-fury.json) |
 | Midnight Garden | 333882 | [333882-midnight-garden.json](./333882-midnight-garden.json) |
 | Midnight Ghost Hunt | 108048 | [108048-midnight-ghost-hunt.json](./108048-midnight-ghost-hunt.json) |
 | Midnight Grove | 323602 | [323602-midnight-grove.json](./323602-midnight-grove.json) |
