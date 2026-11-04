@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports Active NFL Training Camp | 4828 | [4828-ea-sports-active-nfl-training-camp.json](./4828-ea-sports-active-nfl-training-camp.json) |
 | EA Sports College Football 25 | 172021 | [172021-ea-sports-college-football-25.json](./172021-ea-sports-college-football-25.json) |
 | EA Sports College Football 26 | 329146 | [329146-ea-sports-college-football-26.json](./329146-ea-sports-college-football-26.json) |
+| EA Sports College Football 26: Deluxe Edition | 343158 | [343158-ea-sports-college-football-26-deluxe-edition.json](./343158-ea-sports-college-football-26-deluxe-edition.json) |
 | EA Sports College Football 27 | 400601 | [400601-ea-sports-college-football-27.json](./400601-ea-sports-college-football-27.json) |
 | EA Sports College Football 27: Deluxe Edition | 409040 | [409040-ea-sports-college-football-27-deluxe-edition.json](./409040-ea-sports-college-football-27-deluxe-edition.json) |
 | EA Sports Double Header | 78074 | [78074-ea-sports-double-header.json](./78074-ea-sports-double-header.json) |
