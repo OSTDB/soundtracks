@@ -10146,6 +10146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Valley | 192876 | [192876-rolling-valley.json](./192876-rolling-valley.json) |
 | Rolling Voltorb | 70084 | [70084-rolling-voltorb.json](./70084-rolling-voltorb.json) |
 | Rolling Wheels | 308993 | [308993-rolling-wheels.json](./308993-rolling-wheels.json) |
+| RollingBall | 344265 | [344265-rollingball.json](./344265-rollingball.json) |
 | RollingBall: Unlimited World | 96428 | [96428-rollingball-unlimited-world.json](./96428-rollingball-unlimited-world.json) |
 | RollingSky | 129747 | [129747-rollingsky.json](./129747-rollingsky.json) |
 | RollingSky2 | 126505 | [126505-rollingsky2.json](./126505-rollingsky2.json) |
@@ -10512,6 +10513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Football: Petrol Station | 368527 | [368527-room-football-petrol-station.json](./368527-room-football-petrol-station.json) |
 | Room Football: Ranch | 370713 | [370713-room-football-ranch.json](./370713-room-football-ranch.json) |
 | Room Football: Royale Lands | 368558 | [368558-room-football-royale-lands.json](./368558-room-football-royale-lands.json) |
+| Room Football: Sand Storm | 344105 | [344105-room-football-sand-storm.json](./344105-room-football-sand-storm.json) |
 | Room Football: Sun Shrine | 387491 | [387491-room-football-sun-shrine.json](./387491-room-football-sun-shrine.json) |
 | Room Football: Wetlands | 339282 | [339282-room-football-wetlands.json](./339282-room-football-wetlands.json) |
 | Room For One! | 367478 | [367478-room-for-one.json](./367478-room-for-one.json) |
@@ -10662,6 +10664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope Heroes : Hole Runner Game | 108441 | [108441-rope-heroes-hole-runner-game.json](./108441-rope-heroes-hole-runner-game.json) |
 | Rope Hope | 317270 | [317270-rope-hope.json](./317270-rope-hope.json) |
 | Rope Racers | 252937 | [252937-rope-racers.json](./252937-rope-racers.json) |
+| Rope Raider | 344110 | [344110-rope-raider.json](./344110-rope-raider.json) |
 | Rope Rescue | 65772 | [65772-rope-rescue.json](./65772-rope-rescue.json) |
 | Rope Up! | 401165 | [401165-rope-up.json](./401165-rope-up.json) |
 | Rope-Kun Adventure | 296664 | [296664-rope-kun-adventure.json](./296664-rope-kun-adventure.json) |
