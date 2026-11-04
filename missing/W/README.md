@@ -1346,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Battlesector – Deeds of the Fallen | 344677 | [344677-warhammer-40-000-battlesector-deeds-of-the-fallen.json](./344677-warhammer-40-000-battlesector-deeds-of-the-fallen.json) |
 | Warhammer 40,000: Boltgun | 203258 | [203258-warhammer-40-000-boltgun.json](./203258-warhammer-40-000-boltgun.json) |
 | Warhammer 40,000: Boltgun - Forges of Corruption Edition | 306489 | [306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json](./306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json) |
+| Warhammer 40,000: Boltgun 2 | 344669 | [344669-warhammer-40-000-boltgun-2.json](./344669-warhammer-40-000-boltgun-2.json) |
 | Warhammer 40,000: Boltgun Boom | 402507 | [402507-warhammer-40-000-boltgun-boom.json](./402507-warhammer-40-000-boltgun-boom.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters Castellan Champion Upgrade Pack | 201521 | [201521-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-upgrade-pack.json](./201521-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-upgrade-pack.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters: Castellan - Garran Crowe | 303284 | [303284-warhammer-40-000-chaos-gate-daemonhunters-castellan-garran-crowe.json](./303284-warhammer-40-000-chaos-gate-daemonhunters-castellan-garran-crowe.json) |
@@ -1356,8 +1357,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Dakka Squadron | 143650 | [143650-warhammer-40-000-dakka-squadron.json](./143650-warhammer-40-000-dakka-squadron.json) |
 | Warhammer 40,000: Dakka Squadron - Flyboyz Edition | 143648 | [143648-warhammer-40-000-dakka-squadron-flyboyz-edition.json](./143648-warhammer-40-000-dakka-squadron-flyboyz-edition.json) |
 | Warhammer 40,000: Dark Crusaders | 200657 | [200657-warhammer-40-000-dark-crusaders.json](./200657-warhammer-40-000-dark-crusaders.json) |
+| Warhammer 40,000: Dark Heresy | 344655 | [344655-warhammer-40-000-dark-heresy.json](./344655-warhammer-40-000-dark-heresy.json) |
 | Warhammer 40,000: Dark Millennium | 32668 | [32668-warhammer-40-000-dark-millennium.json](./32668-warhammer-40-000-dark-millennium.json) |
 | Warhammer 40,000: Dark Nexus Arena | 32716 | [32716-warhammer-40-000-dark-nexus-arena.json](./32716-warhammer-40-000-dark-nexus-arena.json) |
+| Warhammer 40,000: Darktide - Arbites Class | 344660 | [344660-warhammer-40-000-darktide-arbites-class.json](./344660-warhammer-40-000-darktide-arbites-class.json) |
 | Warhammer 40,000: Darktide - Grim Protocols | 322542 | [322542-warhammer-40-000-darktide-grim-protocols.json](./322542-warhammer-40-000-darktide-grim-protocols.json) |
 | Warhammer 40,000: Darktide - Imperial Edition | 203255 | [203255-warhammer-40-000-darktide-imperial-edition.json](./203255-warhammer-40-000-darktide-imperial-edition.json) |
 | Warhammer 40,000: Darktide - Secrets of the Machine God | 302173 | [302173-warhammer-40-000-darktide-secrets-of-the-machine-god.json](./302173-warhammer-40-000-darktide-secrets-of-the-machine-god.json) |
@@ -1440,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Rogue Trader - Collector’s Edition | 251060 | [251060-warhammer-40-000-rogue-trader-collector-s-edition.json](./251060-warhammer-40-000-rogue-trader-collector-s-edition.json) |
 | Warhammer 40,000: Rogue Trader - Deluxe Edition | 279888 | [279888-warhammer-40-000-rogue-trader-deluxe-edition.json](./279888-warhammer-40-000-rogue-trader-deluxe-edition.json) |
 | Warhammer 40,000: Rogue Trader - Deluxe Pack | 303282 | [303282-warhammer-40-000-rogue-trader-deluxe-pack.json](./303282-warhammer-40-000-rogue-trader-deluxe-pack.json) |
+| Warhammer 40,000: Rogue Trader - Lex Imperialis | 344662 | [344662-warhammer-40-000-rogue-trader-lex-imperialis.json](./344662-warhammer-40-000-rogue-trader-lex-imperialis.json) |
 | Warhammer 40,000: Rogue Trader - The Infinite Museion | 393038 | [393038-warhammer-40-000-rogue-trader-the-infinite-museion.json](./393038-warhammer-40-000-rogue-trader-the-infinite-museion.json) |
 | Warhammer 40,000: Rogue Trader - The Shovel DLC | 342189 | [342189-warhammer-40-000-rogue-trader-the-shovel-dlc.json](./342189-warhammer-40-000-rogue-trader-the-shovel-dlc.json) |
 | Warhammer 40,000: Rogue Trader - Void Shadows | 302168 | [302168-warhammer-40-000-rogue-trader-void-shadows.json](./302168-warhammer-40-000-rogue-trader-void-shadows.json) |
@@ -1562,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Vermintide 2 - Return to the Reik | 378219 | [378219-warhammer-vermintide-2-return-to-the-reik.json](./378219-warhammer-vermintide-2-return-to-the-reik.json) |
 | Warhammer: Vermintide 2 - Shadows over Bögenhafen | 116130 | [116130-warhammer-vermintide-2-shadows-over-bogenhafen.json](./116130-warhammer-vermintide-2-shadows-over-bogenhafen.json) |
 | Warhammer: Vermintide 2 - Sister of the Thorn | 155702 | [155702-warhammer-vermintide-2-sister-of-the-thorn.json](./155702-warhammer-vermintide-2-sister-of-the-thorn.json) |
+| Warhammer: Vermintide 2 - The Well of Dreams | 344671 | [344671-warhammer-vermintide-2-the-well-of-dreams.json](./344671-warhammer-vermintide-2-the-well-of-dreams.json) |
 | Warhammer: Vermintide 2 - Ultimate Edition | 118700 | [118700-warhammer-vermintide-2-ultimate-edition.json](./118700-warhammer-vermintide-2-ultimate-edition.json) |
 | Warhammer: Vermintide 2 - Versus | 314400 | [314400-warhammer-vermintide-2-versus.json](./314400-warhammer-vermintide-2-versus.json) |
 | Warhammer: Vermintide 2 - Warrior Priest Career | 195414 | [195414-warhammer-vermintide-2-warrior-priest-career.json](./195414-warhammer-vermintide-2-warrior-priest-career.json) |
@@ -8585,6 +8590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wracing | 385722 | [385722-wracing.json](./385722-wracing.json) |
 | Wrack | 5596 | [5596-wrack.json](./5596-wrack.json) |
 | Wrack: Exoverse | 87560 | [87560-wrack-exoverse.json](./87560-wrack-exoverse.json) |
+| Wrack: Reclamation | 344806 | [344806-wrack-reclamation.json](./344806-wrack-reclamation.json) |
 | Wrain | 302348 | [302348-wrain.json](./302348-wrain.json) |
 | Wraith | 125994 | [125994-wraith.json](./125994-wraith.json) |
 | Wraith | 288450 | [288450-wraith.json](./288450-wraith.json) |
