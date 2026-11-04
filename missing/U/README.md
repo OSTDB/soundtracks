@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U27RA R3Z0NANC3 | 143334 | [143334-u27ra-r3z0nanc3.json](./143334-u27ra-r3z0nanc3.json) |
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
 | UAC Invasion: The Supply Depot | 256868 | [256868-uac-invasion-the-supply-depot.json](./256868-uac-invasion-the-supply-depot.json) |
+| UAC Storage Surplus Project | 306864 | [306864-uac-storage-surplus-project.json](./306864-uac-storage-surplus-project.json) |
 | UAC Ultra | 140469 | [140469-uac-ultra.json](./140469-uac-ultra.json) |
 | UAL: Universal AIM League | 186478 | [186478-ual-universal-aim-league.json](./186478-ual-universal-aim-league.json) |
 | Uanamon: Rugly Invasion | 260001 | [260001-uanamon-rugly-invasion.json](./260001-uanamon-rugly-invasion.json) |
@@ -667,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Rivals: The Court | 150098 | [150098-ultimate-rivals-the-court.json](./150098-ultimate-rivals-the-court.json) |
 | Ultimate Rivals: The Rink | 127349 | [127349-ultimate-rivals-the-rink.json](./127349-ultimate-rivals-the-rink.json) |
 | Ultimate Robot Fighting | 334939 | [334939-ultimate-robot-fighting.json](./334939-ultimate-robot-fighting.json) |
+| Ultimate Rock Climbing Challenge | 306892 | [306892-ultimate-rock-climbing-challenge.json](./306892-ultimate-rock-climbing-challenge.json) |
 | Ultimate Romance Test | 399794 | [399794-ultimate-romance-test.json](./399794-ultimate-romance-test.json) |
 | Ultimate Royal Battlegrounds | 95311 | [95311-ultimate-royal-battlegrounds.json](./95311-ultimate-royal-battlegrounds.json) |
 | Ultimate Russian Zombie Rush | 29611 | [29611-ultimate-russian-zombie-rush.json](./29611-ultimate-russian-zombie-rush.json) |
