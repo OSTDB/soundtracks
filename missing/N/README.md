@@ -2513,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Warfield | 349213 | [349213-neon-warfield.json](./349213-neon-warfield.json) |
 | Neon Warp | 32458 | [32458-neon-warp.json](./32458-neon-warp.json) |
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
+| Neon Wasteland | 331768 | [331768-neon-wasteland.json](./331768-neon-wasteland.json) |
 | Neon Wings: Air Race | 147090 | [147090-neon-wings-air-race.json](./147090-neon-wings-air-race.json) |
 | Neon: Eternal | 169735 | [169735-neon-eternal.json](./169735-neon-eternal.json) |
 | NeonArcade: Adventure Puzzle Muse | 111378 | [111378-neonarcade-adventure-puzzle-muse.json](./111378-neonarcade-adventure-puzzle-muse.json) |
@@ -3998,6 +3999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nifty Drifty | 197701 | [197701-nifty-drifty.json](./197701-nifty-drifty.json) |
 | Nifty Island | 282824 | [282824-nifty-island.json](./282824-nifty-island.json) |
 | Nifty League | 184289 | [184289-nifty-league.json](./184289-nifty-league.json) |
+| Nifty Smashers | 331616 | [331616-nifty-smashers.json](./331616-nifty-smashers.json) |
 | Nigate Tale | 139175 | [139175-nigate-tale.json](./139175-nigate-tale.json) |
 | Nige-ron-pa | 43961 | [43961-nige-ron-pa.json](./43961-nige-ron-pa.json) |
 | Nigel | 134885 | [134885-nigel.json](./134885-nigel.json) |
@@ -4205,6 +4207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Raider | 279474 | [279474-night-raider.json](./279474-night-raider.json) |
 | Night Rampage | 386305 | [386305-night-rampage.json](./386305-night-rampage.json) |
 | Night Ranger | 388213 | [388213-night-ranger.json](./388213-night-ranger.json) |
+| Night Reception | 331610 | [331610-night-reception.json](./331610-night-reception.json) |
 | Night Record: Thin Walls | 405696 | [405696-night-record-thin-walls.json](./405696-night-record-thin-walls.json) |
 | Night Reverie | 139598 | [139598-night-reverie.json](./139598-night-reverie.json) |
 | Night Road | 131837 | [131837-night-road.json](./131837-night-road.json) |
