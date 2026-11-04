@@ -4397,6 +4397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Booty | 9948 | [9948-age-of-booty.json](./9948-age-of-booty.json) |
 | Age of Booty: Tactics | 61332 | [61332-age-of-booty-tactics.json](./61332-age-of-booty-tactics.json) |
 | Age of Cards: Ra's Chess | 140837 | [140837-age-of-cards-ras-chess.json](./140837-age-of-cards-ras-chess.json) |
+| Age of Castles | 319975 | [319975-age-of-castles.json](./319975-age-of-castles.json) |
 | Age of Castles: Warlords | 35183 | [35183-age-of-castles-warlords.json](./35183-age-of-castles-warlords.json) |
 | Age of Chaos | 231979 | [231979-age-of-chaos.json](./231979-age-of-chaos.json) |
 | Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
@@ -6644,6 +6645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien on the Run | 61537 | [61537-alien-on-the-run.json](./61537-alien-on-the-run.json) |
 | Alien Outbreak | 57602 | [57602-alien-outbreak.json](./57602-alien-outbreak.json) |
 | Alien Outbreak 2: Invasion | 73135 | [73135-alien-outbreak-2-invasion.json](./73135-alien-outbreak-2-invasion.json) |
+| Alien Outpost | 320084 | [320084-alien-outpost.json](./320084-alien-outpost.json) |
 | Alien Panic! | 222524 | [222524-alien-panic.json](./222524-alien-panic.json) |
 | Alien Paradise | 292312 | [292312-alien-paradise.json](./292312-alien-paradise.json) |
 | Alien Phobia | 18481 | [18481-alien-phobia.json](./18481-alien-phobia.json) |
@@ -8023,6 +8025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazônia | 94492 | [94492-amazonia.json](./94492-amazonia.json) |
 | Amazônia Viva: Animais em Extinção | 303330 | [303330-amazonia-viva-animais-em-extincao.json](./303330-amazonia-viva-animais-em-extincao.json) |
 | Amazons vs Zombies | 400592 | [400592-amazons-vs-zombies.json](./400592-amazons-vs-zombies.json) |
+| AmaZoo | 319927 | [319927-amazoo.json](./319927-amazoo.json) |
 | Ambar's Fate | 173807 | [173807-ambars-fate.json](./173807-ambars-fate.json) |
 | Ambassador Kane | 118835 | [118835-ambassador-kane.json](./118835-ambassador-kane.json) |
 | Amber Alert | 306398 | [306398-amber-alert.json](./306398-amber-alert.json) |
@@ -14061,6 +14064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Dawn | 419366 | [419366-artificial-dawn.json](./419366-artificial-dawn.json) |
 | Artificial Defense | 33511 | [33511-artificial-defense.json](./33511-artificial-defense.json) |
 | Artificial Detective | 396030 | [396030-artificial-detective.json](./396030-artificial-detective.json) |
+| Artificial Division | 320067 | [320067-artificial-division.json](./320067-artificial-division.json) |
 | Artificial Dreams | 14170 | [14170-artificial-dreams.json](./14170-artificial-dreams.json) |
 | Artificial Entanglement | 192768 | [192768-artificial-entanglement.json](./192768-artificial-entanglement.json) |
 | Artificial Extinction 2 | 216470 | [216470-artificial-extinction-2.json](./216470-artificial-extinction-2.json) |
@@ -14277,6 +14281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascension | 387441 | [387441-ascension.json](./387441-ascension.json) |
 | Ascension | 95408 | [95408-ascension.json](./95408-ascension.json) |
 | Ascension Gamebook | 359702 | [359702-ascension-gamebook.json](./359702-ascension-gamebook.json) |
+| Ascension to Bheaven | 320068 | [320068-ascension-to-bheaven.json](./320068-ascension-to-bheaven.json) |
 | Ascension to the Throne | 27467 | [27467-ascension-to-the-throne.json](./27467-ascension-to-the-throne.json) |
 | Ascension to the Throne: Valkyrie | 27455 | [27455-ascension-to-the-throne-valkyrie.json](./27455-ascension-to-the-throne-valkyrie.json) |
 | Ascension Trail | 392696 | [392696-ascension-trail.json](./392696-ascension-trail.json) |
@@ -15284,6 +15289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Fable | 303187 | [303187-astral-fable.json](./303187-astral-fable.json) |
 | Astral Fantasy | 350662 | [350662-astral-fantasy.json](./350662-astral-fantasy.json) |
 | Astral Flux | 193273 | [193273-astral-flux.json](./193273-astral-flux.json) |
+| Astral Frontier | 319827 | [319827-astral-frontier.json](./319827-astral-frontier.json) |
 | Astral Frontier Online | 403629 | [403629-astral-frontier-online.json](./403629-astral-frontier-online.json) |
 | Astral Gate | 294043 | [294043-astral-gate.json](./294043-astral-gate.json) |
 | Astral Green | 184079 | [184079-astral-green.json](./184079-astral-green.json) |
@@ -16650,6 +16656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Adventure: A Space Academy Tale | 260295 | [260295-aurora-adventure-a-space-academy-tale.json](./260295-aurora-adventure-a-space-academy-tale.json) |
 | Aurora Chronicles | 217228 | [217228-aurora-chronicles.json](./217228-aurora-chronicles.json) |
 | Aurora Dawn Poet | 371120 | [371120-aurora-dawn-poet.json](./371120-aurora-dawn-poet.json) |
+| Aurora Defense | 319822 | [319822-aurora-defense.json](./319822-aurora-defense.json) |
 | Aurora Dusk: Steam Age | 34581 | [34581-aurora-dusk-steam-age.json](./34581-aurora-dusk-steam-age.json) |
 | Aurora Feint | 92765 | [92765-aurora-feint.json](./92765-aurora-feint.json) |
 | Aurora Feint II: The Arena | 70611 | [70611-aurora-feint-ii-the-arena.json](./70611-aurora-feint-ii-the-arena.json) |
@@ -17607,6 +17614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayna: Shattered Truth | 345800 | [345800-ayna-shattered-truth.json](./345800-ayna-shattered-truth.json) |
 | Ayni Fairyland | 107896 | [107896-ayni-fairyland.json](./107896-ayni-fairyland.json) |
 | Ayo the Clown | 26755 | [26755-ayo-the-clown.json](./26755-ayo-the-clown.json) |
+| Ayon: Split In Time | 320087 | [320087-ayon-split-in-time.json](./320087-ayon-split-in-time.json) |
 | Ayoub | 150474 | [150474-ayoub.json](./150474-ayoub.json) |
 | Ayoub: Episode 2 | 166173 | [166173-ayoub-episode-2.json](./166173-ayoub-episode-2.json) |
 | Aypupen | 95730 | [95730-aypupen.json](./95730-aypupen.json) |
