@@ -946,7 +946,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7193,6 +7192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Boss: A Villain Simulator | 235951 | [235951-big-boss-a-villain-simulator.json](./235951-big-boss-a-villain-simulator.json) |
 | Big Boy Adventure | 324340 | [324340-big-boy-adventure.json](./324340-big-boy-adventure.json) |
 | Big Boy Boxing | 145410 | [145410-big-boy-boxing.json](./145410-big-boy-boxing.json) |
+| Big Boy's Birthday Party | 309275 | [309275-big-boys-birthday-party.json](./309275-big-boys-birthday-party.json) |
 | Big Brain Wolf | 14993 | [14993-big-brain-wolf.json](./14993-big-brain-wolf.json) |
 | Big Brave | 91440 | [91440-big-brave.json](./91440-big-brave.json) |
 | Big Breakfast 2 | 416846 | [416846-big-breakfast-2.json](./416846-big-breakfast-2.json) |
