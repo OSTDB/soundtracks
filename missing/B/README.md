@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Company | 11932 | [11932-bad-company.json](./11932-bad-company.json) |
 | Bad Cops | 199776 | [199776-bad-cops.json](./199776-bad-cops.json) |
 | Bad Credit | 190420 | [190420-bad-credit.json](./190420-bad-credit.json) |
+| Bad Credit? No Problem! | 313028 | [313028-bad-credit-no-problem.json](./313028-bad-credit-no-problem.json) |
 | Bad Day | 104824 | [104824-bad-day.json](./104824-bad-day.json) |
 | Bad Day Betsy | 109863 | [109863-bad-day-betsy.json](./109863-bad-day-betsy.json) |
 | Bad Delivery: Pizza Your Heart | 381617 | [381617-bad-delivery-pizza-your-heart.json](./381617-bad-delivery-pizza-your-heart.json) |
@@ -1325,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldi's Basics Classic Remastered | 200473 | [200473-baldis-basics-classic-remastered.json](./200473-baldis-basics-classic-remastered.json) |
 | Baldi's Basics in 2D | 406248 | [406248-baldis-basics-in-2d.json](./406248-baldis-basics-in-2d.json) |
 | Baldi's Basics in Education and Learning | 102832 | [102832-baldis-basics-in-education-and-learning.json](./102832-baldis-basics-in-education-and-learning.json) |
+| Baldi's Basics in Education and Learning 64 | 313397 | [313397-baldis-basics-in-education-and-learning-64.json](./313397-baldis-basics-in-education-and-learning-64.json) |
 | Baldi's Basics in Nightmares | 368440 | [368440-baldis-basics-in-nightmares.json](./368440-baldis-basics-in-nightmares.json) |
 | Baldi's Basics in School Education | 102854 | [102854-baldis-basics-in-school-education.json](./102854-baldis-basics-in-school-education.json) |
 | Baldi's Basics Plus | 134745 | [134745-baldis-basics-plus.json](./134745-baldis-basics-plus.json) |
@@ -13753,6 +13755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box2Glory | 110241 | [110241-box2glory.json](./110241-box2glory.json) |
 | BoxBoxBoy! | 19598 | [19598-boxboxboy.json](./19598-boxboxboy.json) |
 | Boxboy! | 15654 | [15654-boxboy.json](./15654-boxboy.json) |
+| Boxcar Brats | 313385 | [313385-boxcar-brats.json](./313385-boxcar-brats.json) |
 | BoxCar Racing | 241209 | [241209-boxcar-racing.json](./241209-boxcar-racing.json) |
 | Boxcars | 318425 | [318425-boxcars.json](./318425-boxcars.json) |
 | Boxception | 211463 | [211463-boxception.json](./211463-boxception.json) |
