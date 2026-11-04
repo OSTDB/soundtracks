@@ -3515,6 +3515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NextRev: Sharoushi Shiken | 179522 | [179522-nextrev-sharoushi-shiken.json](./179522-nextrev-sharoushi-shiken.json) |
 | NextRev: Takken Shiken | 64939 | [64939-nextrev-takken-shiken.json](./64939-nextrev-takken-shiken.json) |
 | NextRev: Takken Shiken 2015 | 179477 | [179477-nextrev-takken-shiken-2015.json](./179477-nextrev-takken-shiken-2015.json) |
+| NextRP | 333819 | [333819-nextrp.json](./333819-nextrp.json) |
 | NextWar: The Quest for Earth | 91731 | [91731-nextwar-the-quest-for-earth.json](./91731-nextwar-the-quest-for-earth.json) |
 | Nexuiz | 9586 | [9586-nexuiz.json](./9586-nexuiz.json) |
 | Nexus | 26414 | [26414-nexus.json](./26414-nexus.json) |
