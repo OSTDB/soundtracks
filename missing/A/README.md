@@ -4602,6 +4602,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age Of Warring Empire | 317046 | [317046-age-of-warring-empire.json](./317046-age-of-warring-empire.json) |
 | Age of Warscape | 28209 | [28209-age-of-warscape.json](./28209-age-of-warscape.json) |
 | Age of Water | 254322 | [254322-age-of-water.json](./254322-age-of-water.json) |
+| Age of Water: Gold Edition | 301776 | [301776-age-of-water-gold-edition.json](./301776-age-of-water-gold-edition.json) |
+| Age of Water: Silver Edition | 301773 | [301773-age-of-water-silver-edition.json](./301773-age-of-water-silver-edition.json) |
 | Age of Water: The First Voyage | 293080 | [293080-age-of-water-the-first-voyage.json](./293080-age-of-water-the-first-voyage.json) |
 | Age of Wonders | 589 | [589-age-of-wonders.json](./589-age-of-wonders.json) |
 | Age of Wonders 4 | 232571 | [232571-age-of-wonders-4.json](./232571-age-of-wonders-4.json) |
@@ -15021,6 +15023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa Competizione DLC Pack | 266247 | [266247-assetto-corsa-competizione-dlc-pack.json](./266247-assetto-corsa-competizione-dlc-pack.json) |
 | Assetto Corsa Competizione: 2020 GT World Challenge Pack | 168372 | [168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json](./168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json) |
 | Assetto Corsa Competizione: 2023 GT World Challenge Pack | 246861 | [246861-assetto-corsa-competizione-2023-gt-world-challenge-pack.json](./246861-assetto-corsa-competizione-2023-gt-world-challenge-pack.json) |
+| Assetto Corsa Competizione: 2024 Pack | 301762 | [301762-assetto-corsa-competizione-2024-pack.json](./301762-assetto-corsa-competizione-2024-pack.json) |
 | Assetto Corsa Competizione: American Track Pack | 208627 | [208627-assetto-corsa-competizione-american-track-pack.json](./208627-assetto-corsa-competizione-american-track-pack.json) |
 | Assetto Corsa Competizione: British GT Pack | 168371 | [168371-assetto-corsa-competizione-british-gt-pack.json](./168371-assetto-corsa-competizione-british-gt-pack.json) |
 | Assetto Corsa Competizione: Day One Edition | 171275 | [171275-assetto-corsa-competizione-day-one-edition.json](./171275-assetto-corsa-competizione-day-one-edition.json) |
