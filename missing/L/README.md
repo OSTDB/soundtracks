@@ -1477,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Stop | 125631 | [125631-last-stop.json](./125631-last-stop.json) |
 | Last Stop | 345518 | [345518-last-stop.json](./345518-last-stop.json) |
 | Last Stop: Station 66 | 229610 | [229610-last-stop-station-66.json](./229610-last-stop-station-66.json) |
+| Last Story: Dungeon | 320083 | [320083-last-story-dungeon.json](./320083-last-story-dungeon.json) |
 | Last Stretch | 389095 | [389095-last-stretch.json](./389095-last-stretch.json) |
 | Last Striker | 40270 | [40270-last-striker.json](./40270-last-striker.json) |
 | Last Subway | 320597 | [320597-last-subway.json](./320597-last-subway.json) |
@@ -7746,6 +7747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Friends | 393621 | [393621-lost-friends.json](./393621-lost-friends.json) |
 | Lost Friends 2: Reason for Tears | 393622 | [393622-lost-friends-2-reason-for-tears.json](./393622-lost-friends-2-reason-for-tears.json) |
 | Lost Friends 3: Never Return | 393623 | [393623-lost-friends-3-never-return.json](./393623-lost-friends-3-never-return.json) |
+| Lost Friends Adventure | 319912 | [319912-lost-friends-adventure.json](./319912-lost-friends-adventure.json) |
 | Lost Future | 341974 | [341974-lost-future.json](./341974-lost-future.json) |
 | Lost Galaxy: Echoes of War | 350007 | [350007-lost-galaxy-echoes-of-war.json](./350007-lost-galaxy-echoes-of-war.json) |
 | Lost Game | 166585 | [166585-lost-game.json](./166585-lost-game.json) |
@@ -7768,6 +7770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Harem | 173823 | [173823-lost-harem.json](./173823-lost-harem.json) |
 | Lost Harmony | 278978 | [278978-lost-harmony.json](./278978-lost-harmony.json) |
 | Lost Hearts | 379724 | [379724-lost-hearts.json](./379724-lost-hearts.json) |
+| Lost Heaven Station | 319915 | [319915-lost-heaven-station.json](./319915-lost-heaven-station.json) |
 | Lost Heroes | 184333 | [184333-lost-heroes.json](./184333-lost-heroes.json) |
 | Lost Heroes | 64953 | [64953-lost-heroes.json](./64953-lost-heroes.json) |
 | Lost Heroes 2 | 136916 | [136916-lost-heroes-2.json](./136916-lost-heroes-2.json) |
@@ -7865,6 +7868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Hole | 401605 | [401605-lost-in-the-hole.json](./401605-lost-in-the-hole.json) |
 | Lost in the Maze of Those Memories I Wander and Nervously Laugh | 364243 | [364243-lost-in-the-maze-of-those-memories-i-wander-and-nervously-laugh.json](./364243-lost-in-the-maze-of-those-memories-i-wander-and-nervously-laugh.json) |
 | Lost in the Mine | 306377 | [306377-lost-in-the-mine.json](./306377-lost-in-the-mine.json) |
+| Lost in the Mirrors | 319913 | [319913-lost-in-the-mirrors.json](./319913-lost-in-the-mirrors.json) |
 | Lost In The Murk | 245776 | [245776-lost-in-the-murk.json](./245776-lost-in-the-murk.json) |
 | Lost in the Mythic Island | 100306 | [100306-lost-in-the-mythic-island.json](./100306-lost-in-the-mythic-island.json) |
 | Lost in the Nightmare | 71719 | [71719-lost-in-the-nightmare.json](./71719-lost-in-the-nightmare.json) |
@@ -8060,6 +8064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Sector | 216629 | [216629-lost-sector.json](./216629-lost-sector.json) |
 | Lost Sector Online | 62815 | [62815-lost-sector-online.json](./62815-lost-sector-online.json) |
 | Lost Seed | 361637 | [361637-lost-seed.json](./361637-lost-seed.json) |
+| Lost Shadows | 319909 | [319909-lost-shadows.json](./319909-lost-shadows.json) |
 | Lost Shipwreck | 72367 | [72367-lost-shipwreck.json](./72367-lost-shipwreck.json) |
 | Lost Skies | 250163 | [250163-lost-skies.json](./250163-lost-skies.json) |
 | Lost Snowmen | 187983 | [187983-lost-snowmen.json](./187983-lost-snowmen.json) |
@@ -8439,6 +8444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Letter | 109759 | [109759-love-letter.json](./109759-love-letter.json) |
 | Love Letter | 234799 | [234799-love-letter.json](./234799-love-letter.json) |
 | Love Letter | 317810 | [317810-love-letter.json](./317810-love-letter.json) |
+| Love Letter | 320093 | [320093-love-letter.json](./320093-love-letter.json) |
 | Love Letter | 323942 | [323942-love-letter.json](./323942-love-letter.json) |
 | Love Letter: First Draft | 310527 | [310527-love-letter-first-draft.json](./310527-love-letter-first-draft.json) |
 | Love Letters | 363893 | [363893-love-letters.json](./363893-love-letters.json) |
