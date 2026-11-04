@@ -3062,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CarX Street: Sunset Speedway | 315228 | [315228-carx-street-sunset-speedway.json](./315228-carx-street-sunset-speedway.json) |
 | CaS-Puz: Camera Surface Puzzle | 261649 | [261649-cas-puz-camera-surface-puzzle.json](./261649-cas-puz-camera-surface-puzzle.json) |
 | Casa dos Artistas | 163701 | [163701-casa-dos-artistas.json](./163701-casa-dos-artistas.json) |
+| Casa dos Ossos | 300054 | [300054-casa-dos-ossos.json](./300054-casa-dos-ossos.json) |
 | Casablanca ni Ai wo: Satsujinsha wa Jikuu o Koete | 97461 | [97461-casablanca-ni-ai-wo-satsujinsha-wa-jikuu-o-koete.json](./97461-casablanca-ni-ai-wo-satsujinsha-wa-jikuu-o-koete.json) |
 | Casablanca: The Day After | 319808 | [319808-casablanca-the-day-after.json](./319808-casablanca-the-day-after.json) |
 | Casadastra | 185160 | [185160-casadastra.json](./185160-casadastra.json) |
@@ -6401,6 +6402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheops | 13481 | [13481-cheops.json](./13481-cheops.json) |
 | Chequered Flag | 13246 | [13246-chequered-flag.json](./13246-chequered-flag.json) |
 | Chequred Flag | 45335 | [45335-chequred-flag.json](./45335-chequred-flag.json) |
+| Cheree: Remembering My Murder | 299684 | [299684-cheree-remembering-my-murder.json](./299684-cheree-remembering-my-murder.json) |
 | Cheri La Bete | 246091 | [246091-cheri-la-bete.json](./246091-cheri-la-bete.json) |
 | Cheril of the bosque | 39113 | [39113-cheril-of-the-bosque.json](./39113-cheril-of-the-bosque.json) |
 | Cheril Perils Classic | 302304 | [302304-cheril-perils-classic.json](./302304-cheril-perils-classic.json) |
@@ -17673,6 +17675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruis'n USA | 300472 | [300472-cruisn-usa.json](./300472-cruisn-usa.json) |
 | Cruis'n USA | 3429 | [3429-cruisn-usa.json](./3429-cruisn-usa.json) |
 | Cruis'n Velocity | 49191 | [49191-cruisn-velocity.json](./49191-cruisn-velocity.json) |
+| Cruis'n World | 300040 | [300040-cruisn-world.json](./300040-cruisn-world.json) |
 | Cruis'n World | 3430 | [3430-cruisn-world.json](./3430-cruisn-world.json) |
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
 | Cruise Attack | 406095 | [406095-cruise-attack.json](./406095-cruise-attack.json) |
@@ -19702,6 +19705,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Fight | 194916 | [194916-cyber-fight.json](./194916-cyber-fight.json) |
 | Cyber Fight | 96425 | [96425-cyber-fight.json](./96425-cyber-fight.json) |
 | Cyber Fight Challenge | 161541 | [161541-cyber-fight-challenge.json](./161541-cyber-fight-challenge.json) |
+| Cyber Fisk Kids Magic Way | 299669 | [299669-cyber-fisk-kids-magic-way.json](./299669-cyber-fisk-kids-magic-way.json) |
+| Cyber Fisk Teens | 299671 | [299671-cyber-fisk-teens.json](./299671-cyber-fisk-teens.json) |
 | Cyber Flyer | 180580 | [180580-cyber-flyer.json](./180580-cyber-flyer.json) |
 | Cyber Furry Girl | 230138 | [230138-cyber-furry-girl.json](./230138-cyber-furry-girl.json) |
 | Cyber Girl 1.0: Booting | 154585 | [154585-cyber-girl-1-0-booting.json](./154585-cyber-girl-1-0-booting.json) |
