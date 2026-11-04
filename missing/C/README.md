@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Mahjongg | 52720 | [52720-cafe-mahjongg.json](./52720-cafe-mahjongg.json) |
 | Cafe Maid | 243764 | [243764-cafe-maid.json](./243764-cafe-maid.json) |
 | Cafe Maid Girls: Cute Kemono Lifeguard DLC | 298359 | [298359-cafe-maid-girls-cute-kemono-lifeguard-dlc.json](./298359-cafe-maid-girls-cute-kemono-lifeguard-dlc.json) |
+| Cafe Maid: Hentai Edition - Medic | 311403 | [311403-cafe-maid-hentai-edition-medic.json](./311403-cafe-maid-hentai-edition-medic.json) |
 | Café Manager | 297862 | [297862-cafe-manager.json](./297862-cafe-manager.json) |
 | Café Mania | 262209 | [262209-cafe-mania.json](./262209-cafe-mania.json) |
 | Cafe Master Story | 256146 | [256146-cafe-master-story.json](./256146-cafe-master-story.json) |
@@ -11346,6 +11347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Football's National Championship II | 46535 | [46535-college-footballs-national-championship-ii.json](./46535-college-footballs-national-championship-ii.json) |
 | College Gay Sex: Episode 1 | 297928 | [297928-college-gay-sex-episode-1.json](./297928-college-gay-sex-episode-1.json) |
 | College Gay Sex: Episode 3 | 297930 | [297930-college-gay-sex-episode-3.json](./297930-college-gay-sex-episode-3.json) |
+| College Gay Sex: Episode 4 | 311416 | [311416-college-gay-sex-episode-4.json](./311416-college-gay-sex-episode-4.json) |
 | College Gay Sex: Episode 5 | 338876 | [338876-college-gay-sex-episode-5.json](./338876-college-gay-sex-episode-5.json) |
 | College Gay Sex: Episode 7 | 371061 | [371061-college-gay-sex-episode-7.json](./371061-college-gay-sex-episode-7.json) |
 | College Gay Sex: Episode 8 | 371063 | [371063-college-gay-sex-episode-8.json](./371063-college-gay-sex-episode-8.json) |
