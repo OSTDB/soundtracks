@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiki: Okujou no Yuurei to Akuma no Gishiki | 283853 | [283853-kaiki-okujou-no-yuurei-to-akuma-no-gishiki.json](./283853-kaiki-okujou-no-yuurei-to-akuma-no-gishiki.json) |
 | Kaikyuu Karane Kotoba | 206381 | [206381-kaikyuu-karane-kotoba.json](./206381-kaikyuu-karane-kotoba.json) |
 | Kaikyuu no Eshi | 239678 | [239678-kaikyuu-no-eshi.json](./239678-kaikyuu-no-eshi.json) |
+| Kaila: The Journey to the Underworld | 337922 | [337922-kaila-the-journey-to-the-underworld.json](./337922-kaila-the-journey-to-the-underworld.json) |
 | Kaimeishi | 312654 | [312654-kaimeishi.json](./312654-kaimeishi.json) |
 | Kaimyou Maker | 324191 | [324191-kaimyou-maker.json](./324191-kaimyou-maker.json) |
 | Kain Cobra: Autogun Blaster | 307205 | [307205-kain-cobra-autogun-blaster.json](./307205-kain-cobra-autogun-blaster.json) |
@@ -2713,7 +2714,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -6064,6 +6064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kutar Ski Lift | 85238 | [85238-kutar-ski-lift.json](./85238-kutar-ski-lift.json) |
 | Kutar Tube Rider | 85237 | [85237-kutar-tube-rider.json](./85237-kutar-tube-rider.json) |
 | Kutar's Athletic World | 340040 | [340040-kutars-athletic-world.json](./340040-kutars-athletic-world.json) |
+| Kutar's Typing World | 338078 | [338078-kutars-typing-world.json](./338078-kutars-typing-world.json) |
 | Kutha Stroom Rush | 337511 | [337511-kutha-stroom-rush.json](./337511-kutha-stroom-rush.json) |
 | Kutsushita Nyanko: Kutsushita o Haita Neko to Kurashi Hajime Mashita | 130723 | [130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json](./130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json) |
 | Kuu | 334533 | [334533-kuu.json](./334533-kuu.json) |
