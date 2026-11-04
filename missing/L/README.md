@@ -5748,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Hidden City | 87766 | [87766-little-hidden-city.json](./87766-little-hidden-city.json) |
 | Little Hoarder | 346521 | [346521-little-hoarder.json](./346521-little-hoarder.json) |
 | Little Honeybee | 288359 | [288359-little-honeybee.json](./288359-little-honeybee.json) |
+| Little Hooky | 318346 | [318346-little-hooky.json](./318346-little-hooky.json) |
 | Little Horror Raiser | 216185 | [216185-little-horror-raiser.json](./216185-little-horror-raiser.json) |
 | Little Horrors! | 287240 | [287240-little-horrors.json](./287240-little-horrors.json) |
 | Little House | 341833 | [341833-little-house.json](./341833-little-house.json) |
@@ -7702,6 +7703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Days 0: Queen's Dream | 304989 | [304989-lost-days-0-queens-dream.json](./304989-lost-days-0-queens-dream.json) |
 | Lost Deltarune | 408795 | [408795-lost-deltarune.json](./408795-lost-deltarune.json) |
 | Lost Direction | 229765 | [229765-lost-direction.json](./229765-lost-direction.json) |
+| Lost Diskettes Vol. 1 | 318327 | [318327-lost-diskettes-vol-1.json](./318327-lost-diskettes-vol-1.json) |
 | Lost Dooors | 383641 | [383641-lost-dooors.json](./383641-lost-dooors.json) |
 | Lost Dream | 169473 | [169473-lost-dream.json](./169473-lost-dream.json) |
 | Lost Dream 1 | 365236 | [365236-lost-dream-1.json](./365236-lost-dream-1.json) |
