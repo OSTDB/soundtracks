@@ -10059,6 +10059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollimals | 385828 | [385828-rollimals.json](./385828-rollimals.json) |
 | Rollin | 19227 | [19227-rollin.json](./19227-rollin.json) |
 | Rollin Ravioli | 394306 | [394306-rollin-ravioli.json](./394306-rollin-ravioli.json) |
+| Rollin' Along | 348534 | [348534-rollin-along.json](./348534-rollin-along.json) |
 | Rollin' Eggz | 117970 | [117970-rollin-eggz.json](./117970-rollin-eggz.json) |
 | Rollin' Gun | 317697 | [317697-rollin-gun.json](./317697-rollin-gun.json) |
 | Rollin' Rascal | 169232 | [169232-rollin-rascal.json](./169232-rollin-rascal.json) |
