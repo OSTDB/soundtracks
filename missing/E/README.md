@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Warrior | 155853 | [155853-earth-warrior.json](./155853-earth-warrior.json) |
 | Earth-Quack | 339586 | [339586-earth-quack.json](./339586-earth-quack.json) |
 | Earth, Fire, And Wind | 286044 | [286044-earth-fire-and-wind.json](./286044-earth-fire-and-wind.json) |
+| Earth: 3000 | 311442 | [311442-earth-3000.json](./311442-earth-3000.json) |
 | Earth: Revival | 215230 | [215230-earth-revival.json](./215230-earth-revival.json) |
 | Earth's Center of Gravity | 209667 | [209667-earths-center-of-gravity.json](./209667-earths-center-of-gravity.json) |
 | Earth's Greatest Defender | 244619 | [244619-earths-greatest-defender.json](./244619-earths-greatest-defender.json) |
@@ -1295,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edna & Harvey: The Breakout - 10th Anniversary Edition | 107173 | [107173-edna-and-harvey-the-breakout-10th-anniversary-edition.json](./107173-edna-and-harvey-the-breakout-10th-anniversary-edition.json) |
 | Edna: Out of Sight, Out of Control | 210676 | [210676-edna-out-of-sight-out-of-control.json](./210676-edna-out-of-sight-out-of-control.json) |
 | Ednaldo Pereira: Mescladasso | 143501 | [143501-ednaldo-pereira-mescladasso.json](./143501-ednaldo-pereira-mescladasso.json) |
+| Ednaldo Pereira: Mescladasso DX | 311409 | [311409-ednaldo-pereira-mescladasso-dx.json](./311409-ednaldo-pereira-mescladasso-dx.json) |
 | Ednaldo Pereira: Mobile | 256123 | [256123-ednaldo-pereira-mobile.json](./256123-ednaldo-pereira-mobile.json) |
 | Ednoka | 341120 | [341120-ednoka.json](./341120-ednoka.json) |
 | Edo Bunka Rekishi Kentei | 123308 | [123308-edo-bunka-rekishi-kentei.json](./123308-edo-bunka-rekishi-kentei.json) |
