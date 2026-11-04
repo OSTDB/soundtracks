@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radix | 221658 | [221658-radix.json](./221658-radix.json) |
 | Radix Chronicle | 251779 | [251779-radix-chronicle.json](./251779-radix-chronicle.json) |
 | Radix Tale | 367684 | [367684-radix-tale.json](./367684-radix-tale.json) |
+| Radland | 310876 | [310876-radland.json](./310876-radland.json) |
 | Radley Ravencroft's Spy Web Mystery | 343287 | [343287-radley-ravencrofts-spy-web-mystery.json](./343287-radley-ravencrofts-spy-web-mystery.json) |
 | Radon Blast | 144717 | [144717-radon-blast.json](./144717-radon-blast.json) |
 | Radon Blast 2 | 415722 | [415722-radon-blast-2.json](./415722-radon-blast-2.json) |
@@ -1752,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranch Rush 2 | 93939 | [93939-ranch-rush-2.json](./93939-ranch-rush-2.json) |
 | Ranch Simulator | 121087 | [121087-ranch-simulator.json](./121087-ranch-simulator.json) |
 | Ranch Store Simulator | 333012 | [333012-ranch-store-simulator.json](./333012-ranch-store-simulator.json) |
+| Rancher: A New Life | 310889 | [310889-rancher-a-new-life.json](./310889-rancher-a-new-life.json) |
 | Rancho Blast | 101232 | [101232-rancho-blast.json](./101232-rancho-blast.json) |
 | Rancid | 124234 | [124234-rancid.json](./124234-rancid.json) |
 | Rand McNally's America: U.S. Atlas | 46429 | [46429-rand-mcnallys-america-u-s-atlas.json](./46429-rand-mcnallys-america-u-s-atlas.json) |
@@ -7402,6 +7404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rin the Tamarin | 58542 | [58542-rin-the-tamarin.json](./58542-rin-the-tamarin.json) |
 | Rin: The Last Child | 199253 | [199253-rin-the-last-child.json](./199253-rin-the-last-child.json) |
 | Rina's Undercover Train Operation | 392306 | [392306-rinas-undercover-train-operation.json](./392306-rinas-undercover-train-operation.json) |
+| Rinbo | 310912 | [310912-rinbo.json](./310912-rinbo.json) |
 | Ring | 11308 | [11308-ring.json](./11308-ring.json) |
 | Ring Academy | 306957 | [306957-ring-academy.json](./306957-ring-academy.json) |
 | Ring Battle | 361737 | [361737-ring-battle.json](./361737-ring-battle.json) |
