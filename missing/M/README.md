@@ -20649,6 +20649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myopia | 362445 | [362445-myopia.json](./362445-myopia.json) |
 | Myosotis | 362891 | [362891-myosotis.json](./362891-myosotis.json) |
 | Myosotis | 374001 | [374001-myosotis.json](./374001-myosotis.json) |
+| MyPawnShop | 327550 | [327550-mypawnshop.json](./327550-mypawnshop.json) |
 | MyPopgoes | 243687 | [243687-mypopgoes.json](./243687-mypopgoes.json) |
 | MyPopgoes | 294744 | [294744-mypopgoes.json](./294744-mypopgoes.json) |
 | MyPopgoes: New and Improved! | 327307 | [327307-mypopgoes-new-and-improved.json](./327307-mypopgoes-new-and-improved.json) |
