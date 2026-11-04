@@ -2103,8 +2103,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie: Nuts & Bolts | 3008 | [3008-banjo-kazooie-nuts-and-bolts.json](./3008-banjo-kazooie-nuts-and-bolts.json) |
 | Banjo-Kazooie: Nuts & Bolts - L.O.G.'s Lost Challenges | 229855 | [229855-banjo-kazooie-nuts-and-bolts-l-o-g-s-lost-challenges.json](./229855-banjo-kazooie-nuts-and-bolts-l-o-g-s-lost-challenges.json) |
 | Banjo-Kazooie: Stay at Home | 147221 | [147221-banjo-kazooie-stay-at-home.json](./147221-banjo-kazooie-stay-at-home.json) |
+| Banjo-Kazooie: The Cave of Dreams | 307517 | [307517-banjo-kazooie-the-cave-of-dreams.json](./307517-banjo-kazooie-the-cave-of-dreams.json) |
 | Banjo-Kazooie: The Corrupted Jiggys | 313063 | [313063-banjo-kazooie-the-corrupted-jiggys.json](./313063-banjo-kazooie-the-corrupted-jiggys.json) |
 | Banjo-Kazooie: The Hidden Lair | 234122 | [234122-banjo-kazooie-the-hidden-lair.json](./234122-banjo-kazooie-the-hidden-lair.json) |
+| Banjo-Kongzooie | 307513 | [307513-banjo-kongzooie.json](./307513-banjo-kongzooie.json) |
 | Banjo-Pilot | 6316 | [6316-banjo-pilot.json](./6316-banjo-pilot.json) |
 | Banjo-Threeie | 200644 | [200644-banjo-threeie.json](./200644-banjo-threeie.json) |
 | Banjo-Threeie | 300262 | [300262-banjo-threeie.json](./300262-banjo-threeie.json) |
@@ -10371,6 +10373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockRunner: The BlockSide | 244944 | [244944-blockrunner-the-blockside.json](./244944-blockrunner-the-blockside.json) |
 | Blocks | 113503 | [113503-blocks.json](./113503-blocks.json) |
 | Blocks | 208625 | [208625-blocks.json](./208625-blocks.json) |
+| Blocks | 307507 | [307507-blocks.json](./307507-blocks.json) |
 | Blocks | 361395 | [361395-blocks.json](./361395-blocks.json) |
 | Blocks | 370143 | [370143-blocks.json](./370143-blocks.json) |
 | Blocks | 371455 | [371455-blocks.json](./371455-blocks.json) |
