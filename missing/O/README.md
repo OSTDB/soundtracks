@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscure Realm | 74198 | [74198-obscure-realm.json](./74198-obscure-realm.json) |
 | Obscure: Dark Aura | 66408 | [66408-obscure-dark-aura.json](./66408-obscure-dark-aura.json) |
 | ObsCure: The Aftermath | 5080 | [5080-obscure-the-aftermath.json](./5080-obscure-the-aftermath.json) |
+| Obscured Stories: The Resentment | 342504 | [342504-obscured-stories-the-resentment.json](./342504-obscured-stories-the-resentment.json) |
 | Obscuria | 295906 | [295906-obscuria.json](./295906-obscuria.json) |
 | Obscuria 2 | 369917 | [369917-obscuria-2.json](./369917-obscuria-2.json) |
 | Obscuris | 400538 | [400538-obscuris.json](./400538-obscuris.json) |
