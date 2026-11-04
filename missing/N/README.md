@@ -1513,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebula | 53395 | [53395-nebula.json](./53395-nebula.json) |
 | Nebula | 99327 | [99327-nebula.json](./99327-nebula.json) |
 | Nebula | 99332 | [99332-nebula.json](./99332-nebula.json) |
+| Nebula Ball 3D | 335748 | [335748-nebula-ball-3d.json](./335748-nebula-ball-3d.json) |
 | Nebula Cleanup Crew | 373520 | [373520-nebula-cleanup-crew.json](./373520-nebula-cleanup-crew.json) |
 | Nebula Commander | 46509 | [46509-nebula-commander.json](./46509-nebula-commander.json) |
 | Nebula Invasion | 188845 | [188845-nebula-invasion.json](./188845-nebula-invasion.json) |
@@ -6759,6 +6760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing Can | 223340 | [223340-nothing-can.json](./223340-nothing-can.json) |
 | Nothing Can Stop Us Encore | 236307 | [236307-nothing-can-stop-us-encore.json](./236307-nothing-can-stop-us-encore.json) |
 | Nothing Door | 305230 | [305230-nothing-door.json](./305230-nothing-door.json) |
+| Nothing Exists Outside of This House | 335590 | [335590-nothing-exists-outside-of-this-house.json](./335590-nothing-exists-outside-of-this-house.json) |
 | Nothing Goes Right: Bad Business | 412603 | [412603-nothing-goes-right-bad-business.json](./412603-nothing-goes-right-bad-business.json) |
 | Nothing Good Can Come Of This | 297161 | [297161-nothing-good-can-come-of-this.json](./297161-nothing-good-can-come-of-this.json) |
 | Nothing is Known: The Innocents | 364575 | [364575-nothing-is-known-the-innocents.json](./364575-nothing-is-known-the-innocents.json) |
