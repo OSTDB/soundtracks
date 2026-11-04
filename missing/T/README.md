@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Me to the Ending! | 398750 | [398750-take-me-to-the-ending.json](./398750-take-me-to-the-ending.json) |
 | Take Me to the Moon | 187294 | [187294-take-me-to-the-moon.json](./187294-take-me-to-the-moon.json) |
 | Take Me to Your Leader | 414870 | [414870-take-me-to-your-leader.json](./414870-take-me-to-your-leader.json) |
+| Take Me, Vitaly | 312793 | [312793-take-me-vitaly.json](./312793-take-me-vitaly.json) |
 | Take me, Vitaly: Sea Wolf | 394501 | [394501-take-me-vitaly-sea-wolf.json](./394501-take-me-vitaly-sea-wolf.json) |
 | Take no Prisoners | 207807 | [207807-take-no-prisoners.json](./207807-take-no-prisoners.json) |
 | Take No Prisoners | 8696 | [8696-take-no-prisoners.json](./8696-take-no-prisoners.json) |
@@ -8670,6 +8671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enforcer | 154344 | [154344-the-enforcer.json](./154344-the-enforcer.json) |
 | The Enforcer | 60493 | [60493-the-enforcer.json](./60493-the-enforcer.json) |
 | The Engraved Dispatch | 181366 | [181366-the-engraved-dispatch.json](./181366-the-engraved-dispatch.json) |
+| The Enigma Cases | 312794 | [312794-the-enigma-cases.json](./312794-the-enigma-cases.json) |
 | The Enigma Lounge | 380439 | [380439-the-enigma-lounge.json](./380439-the-enigma-lounge.json) |
 | The Enigma Machine | 112483 | [112483-the-enigma-machine.json](./112483-the-enigma-machine.json) |
 | The Enjenir | 197182 | [197182-the-enjenir.json](./197182-the-enjenir.json) |
@@ -9293,6 +9295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flame's Heir | 301278 | [301278-the-flames-heir.json](./301278-the-flames-heir.json) |
 | The Flames | 176510 | [176510-the-flames.json](./176510-the-flames.json) |
 | The Flames | 200926 | [200926-the-flames.json](./200926-the-flames.json) |
+| The Flames | 312811 | [312811-the-flames.json](./312811-the-flames.json) |
 | The Flames that Follow Us | 177238 | [177238-the-flames-that-follow-us.json](./177238-the-flames-that-follow-us.json) |
 | The Flaming Shipwreck | 273204 | [273204-the-flaming-shipwreck.json](./273204-the-flaming-shipwreck.json) |
 | The Flap! | 89785 | [89785-the-flap.json](./89785-the-flap.json) |
@@ -15891,6 +15894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Signifier: Deluxe Edition | 154550 | [154550-the-signifier-deluxe-edition.json](./154550-the-signifier-deluxe-edition.json) |
 | The Signifier: Director's Cut | 143404 | [143404-the-signifier-directors-cut.json](./143404-the-signifier-directors-cut.json) |
 | The Silence | 185625 | [185625-the-silence.json](./185625-the-silence.json) |
+| The Silence | 312783 | [312783-the-silence.json](./312783-the-silence.json) |
 | The Silence After | 361769 | [361769-the-silence-after.json](./361769-the-silence-after.json) |
 | The Silence of Darkness | 30186 | [30186-the-silence-of-darkness.json](./30186-the-silence-of-darkness.json) |
 | The Silence of Dawn | 422842 | [422842-the-silence-of-dawn.json](./422842-the-silence-of-dawn.json) |
@@ -15929,6 +15933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silver Spoon Caper | 185403 | [185403-the-silver-spoon-caper.json](./185403-the-silver-spoon-caper.json) |
 | The Simen Rumors | 397220 | [397220-the-simen-rumors.json](./397220-the-simen-rumors.json) |
 | The Simorgh | 225970 | [225970-the-simorgh.json](./225970-the-simorgh.json) |
+| The Simp | 312780 | [312780-the-simp.json](./312780-the-simp.json) |
 | The Simple Apocalypse | 54759 | [54759-the-simple-apocalypse.json](./54759-the-simple-apocalypse.json) |
 | The Simple Balance | 142079 | [142079-the-simple-balance.json](./142079-the-simple-balance.json) |
 | The Simple Climb Game | 309410 | [309410-the-simple-climb-game.json](./309410-the-simple-climb-game.json) |
@@ -30621,6 +30626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Beauty | 242019 | [242019-true-beauty.json](./242019-true-beauty.json) |
 | True Blades | 36725 | [36725-true-blades.json](./36725-true-blades.json) |
 | True Bliss | 35448 | [35448-true-bliss.json](./35448-true-bliss.json) |
+| True Blood: The Karthanian Ultimatum | 312810 | [312810-true-blood-the-karthanian-ultimatum.json](./312810-true-blood-the-karthanian-ultimatum.json) |
 | True Bum Simulator | 189816 | [189816-true-bum-simulator.json](./189816-true-bum-simulator.json) |
 | True Colors | 120714 | [120714-true-colors.json](./120714-true-colors.json) |
 | True Colors | 228991 | [228991-true-colors.json](./228991-true-colors.json) |
