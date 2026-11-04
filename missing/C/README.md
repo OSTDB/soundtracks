@@ -14175,6 +14175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corma | 112620 | [112620-corma.json](./112620-corma.json) |
 | Corn | 309919 | [309919-corn.json](./309919-corn.json) |
 | Corn Buster | 42565 | [42565-corn-buster.json](./42565-corn-buster.json) |
+| Corn Guard | 308737 | [308737-corn-guard.json](./308737-corn-guard.json) |
 | Corn Kidz 64 | 266118 | [266118-corn-kidz-64.json](./266118-corn-kidz-64.json) |
 | Corn Maze | 54893 | [54893-corn-maze.json](./54893-corn-maze.json) |
 | Corn Mission | 183578 | [183578-corn-mission.json](./183578-corn-mission.json) |
@@ -18916,6 +18917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid: Roguelite | 273512 | [273512-cupid-roguelite.json](./273512-cupid-roguelite.json) |
 | Cupid's Bargain | 392422 | [392422-cupids-bargain.json](./392422-cupids-bargain.json) |
 | Cupid's Chatroom | 309162 | [309162-cupids-chatroom.json](./309162-cupids-chatroom.json) |
+| Cupid's Kiss | 308742 | [308742-cupids-kiss.json](./308742-cupids-kiss.json) |
 | Cupids Arrow | 399422 | [399422-cupids-arrow.json](./399422-cupids-arrow.json) |
 | Cupids Love Crisis | 108348 | [108348-cupids-love-crisis.json](./108348-cupids-love-crisis.json) |
 | Cupig's Key Collectathon | 313183 | [313183-cupigs-key-collectathon.json](./313183-cupigs-key-collectathon.json) |
