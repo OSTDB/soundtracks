@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-Lestial | 395894 | [395894-z-lestial.json](./395894-z-lestial.json) |
 | Z-Man | 284305 | [284305-z-man.json](./284305-z-man.json) |
 | Z-MMO | 55919 | [55919-z-mmo.json](./55919-z-mmo.json) |
+| Z-ombie Apocalypse: Mark Feygin's War | 312499 | [312499-z-ombie-apocalypse-mark-feygins-war.json](./312499-z-ombie-apocalypse-mark-feygins-war.json) |
 | Z-Opolis | 200983 | [200983-z-opolis.json](./200983-z-opolis.json) |
 | Z-Out | 12627 | [12627-z-out.json](./12627-z-out.json) |
 | Z-Pilot | 36673 | [36673-z-pilot.json](./36673-z-pilot.json) |
@@ -338,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zarlor Mercenary | 12371 | [12371-zarlor-mercenary.json](./12371-zarlor-mercenary.json) |
 | Zarth | 45977 | [45977-zarth.json](./45977-zarth.json) |
 | Zarts | 186546 | [186546-zarts.json](./186546-zarts.json) |
+| Zaru | 312494 | [312494-zaru.json](./312494-zaru.json) |
 | Zarya | 290961 | [290961-zarya.json](./290961-zarya.json) |
 | Zarya and the Cursed Skull | 29229 | [29229-zarya-and-the-cursed-skull.json](./29229-zarya-and-the-cursed-skull.json) |
 | Zarya-1: Mystery on the Moon | 38792 | [38792-zarya-1-mystery-on-the-moon.json](./38792-zarya-1-mystery-on-the-moon.json) |
@@ -744,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenith | 24439 | [24439-zenith.json](./24439-zenith.json) |
 | Zenith | 377137 | [377137-zenith.json](./377137-zenith.json) |
 | Zenith | 78723 | [78723-zenith.json](./78723-zenith.json) |
+| Zenith Armada | 312495 | [312495-zenith-armada.json](./312495-zenith-armada.json) |
 | Zenith Drift | 403935 | [403935-zenith-drift.json](./403935-zenith-drift.json) |
 | Zenith Falls | 140481 | [140481-zenith-falls.json](./140481-zenith-falls.json) |
 | Zenith Frontier | 149354 | [149354-zenith-frontier.json](./149354-zenith-frontier.json) |
@@ -877,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Escape: Virtue's Last Reward | 6614 | [6614-zero-escape-virtues-last-reward.json](./6614-zero-escape-virtues-last-reward.json) |
 | Zero Escape: Zero Time Dilemma | 11549 | [11549-zero-escape-zero-time-dilemma.json](./11549-zero-escape-zero-time-dilemma.json) |
 | Zero Escape: Zero Time Dilemma - Limited Watch Bonus Edition | 89890 | [89890-zero-escape-zero-time-dilemma-limited-watch-bonus-edition.json](./89890-zero-escape-zero-time-dilemma-limited-watch-bonus-edition.json) |
+| Zero Factory | 312496 | [312496-zero-factory.json](./312496-zero-factory.json) |
 | Zero Fantasy: Kanon | 122610 | [122610-zero-fantasy-kanon.json](./122610-zero-fantasy-kanon.json) |
 | Zero Fighter | 345917 | [345917-zero-fighter.json](./345917-zero-fighter.json) |
 | Zero Fighter | 385714 | [385714-zero-fighter.json](./385714-zero-fighter.json) |
@@ -986,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero-G Revolution | 151124 | [151124-zero-g-revolution.json](./151124-zero-g-revolution.json) |
 | Zero-G VR | 32828 | [32828-zero-g-vr.json](./32828-zero-g-vr.json) |
 | Zero-Point | 149253 | [149253-zero-point.json](./149253-zero-point.json) |
+| Zero-Sum Heart | 312497 | [312497-zero-sum-heart.json](./312497-zero-sum-heart.json) |
 | Zero: Circle of Flow | 145579 | [145579-zero-circle-of-flow.json](./145579-zero-circle-of-flow.json) |
 | Zero: Tsukihami no Kamen | 26142 | [26142-zero-tsukihami-no-kamen.json](./26142-zero-tsukihami-no-kamen.json) |
 | Zero's Fantastic Anecdote | 284789 | [284789-zeros-fantastic-anecdote.json](./284789-zeros-fantastic-anecdote.json) |
@@ -1174,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZikSquare | 124130 | [124130-ziksquare.json](./124130-ziksquare.json) |
 | ZiL Truck RallyCross | 29339 | [29339-zil-truck-rallycross.json](./29339-zil-truck-rallycross.json) |
 | Zilado! | 306789 | [306789-zilado.json](./306789-zilado.json) |
+| Zilar: Empire of The Underground | 312502 | [312502-zilar-empire-of-the-underground.json](./312502-zilar-empire-of-the-underground.json) |
 | Zill O'll | 94007 | [94007-zill-oll.json](./94007-zill-oll.json) |
 | Zill O'll Infinite | 80486 | [80486-zill-oll-infinite.json](./80486-zill-oll-infinite.json) |
 | Zilla: Shadow of the Bridge | 257989 | [257989-zilla-shadow-of-the-bridge.json](./257989-zilla-shadow-of-the-bridge.json) |
@@ -1387,8 +1393,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombeez: A Killer Queen Remix | 166441 | [166441-zombeez-a-killer-queen-remix.json](./166441-zombeez-a-killer-queen-remix.json) |
 | ZomBehead! | 264217 | [264217-zombehead.json](./264217-zombehead.json) |
 | Zombeo and Vampireta | 399696 | [399696-zombeo-and-vampireta.json](./399696-zombeo-and-vampireta.json) |
+| Zombetes | 312498 | [312498-zombetes.json](./312498-zombetes.json) |
 | ZombFarm | 315936 | [315936-zombfarm.json](./315936-zombfarm.json) |
 | Zombi | 2279 | [2279-zombi.json](./2279-zombi.json) |
+| Zombi Efem | 312501 | [312501-zombi-efem.json](./312501-zombi-efem.json) |
 | Zombi Mall | 421606 | [421606-zombi-mall.json](./421606-zombi-mall.json) |
 | Zombi Rockstar | 245844 | [245844-zombi-rockstar.json](./245844-zombi-rockstar.json) |
 | Zombiax Evil | 249600 | [249600-zombiax-evil.json](./249600-zombiax-evil.json) |
@@ -1545,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Dice | 252134 | [252134-zombie-dice.json](./252134-zombie-dice.json) |
 | Zombie Dinos From Planet Zeltoid | 2379 | [2379-zombie-dinos-from-planet-zeltoid.json](./2379-zombie-dinos-from-planet-zeltoid.json) |
 | Zombie Disaster Drill | 376765 | [376765-zombie-disaster-drill.json](./376765-zombie-disaster-drill.json) |
+| Zombie Dolls | 312500 | [312500-zombie-dolls.json](./312500-zombie-dolls.json) |
 | Zombie Drift | 149521 | [149521-zombie-drift.json](./149521-zombie-drift.json) |
 | Zombie Driver | 20668 | [20668-zombie-driver.json](./20668-zombie-driver.json) |
 | Zombie Driver HD | 9051 | [9051-zombie-driver-hd.json](./9051-zombie-driver-hd.json) |
