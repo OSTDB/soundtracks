@@ -1477,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamer Pack | 131182 | [131182-gamer-pack.json](./131182-gamer-pack.json) |
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
 | Gamer Shop Simulator | 129309 | [129309-gamer-shop-simulator.json](./129309-gamer-shop-simulator.json) |
+| Gamer Stories: Dating Real Japanese Female Gamers | 309804 | [309804-gamer-stories-dating-real-japanese-female-gamers.json](./309804-gamer-stories-dating-real-japanese-female-gamers.json) |
 | Gamer's Jackpot 30 PAC | 73649 | [73649-gamers-jackpot-30-pac.json](./73649-gamers-jackpot-30-pac.json) |
 | Gamera 2000 | 44865 | [44865-gamera-2000.json](./44865-gamera-2000.json) |
 | Gamera Dream Battle | 227743 | [227743-gamera-dream-battle.json](./227743-gamera-dream-battle.json) |
@@ -10761,6 +10762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns and Spurs 2 | 174869 | [174869-guns-and-spurs-2.json](./174869-guns-and-spurs-2.json) |
 | Guns and Waifus | 157209 | [157209-guns-and-waifus.json](./157209-guns-and-waifus.json) |
 | Guns Arcade: City Crisis VR | 307424 | [307424-guns-arcade-city-crisis-vr.json](./307424-guns-arcade-city-crisis-vr.json) |
+| Guns are Funs | 309835 | [309835-guns-are-funs.json](./309835-guns-are-funs.json) |
 | Guns at Dawn: Arena | 214451 | [214451-guns-at-dawn-arena.json](./214451-guns-at-dawn-arena.json) |
 | Guns Blazing | 157370 | [157370-guns-blazing.json](./157370-guns-blazing.json) |
 | Guns Boy | 158170 | [158170-guns-boy.json](./158170-guns-boy.json) |
