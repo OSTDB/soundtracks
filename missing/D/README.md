@@ -7037,6 +7037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Garden | 177478 | [177478-desktop-garden.json](./177478-desktop-garden.json) |
 | Desktop Garden | 377977 | [377977-desktop-garden.json](./377977-desktop-garden.json) |
 | Desktop Girlfriend Neo | 384815 | [384815-desktop-girlfriend-neo.json](./384815-desktop-girlfriend-neo.json) |
+| Desktop Golf | 336430 | [336430-desktop-golf.json](./336430-desktop-golf.json) |
 | Desktop Goose | 135622 | [135622-desktop-goose.json](./135622-desktop-goose.json) |
 | Desktop Hacker | 203953 | [203953-desktop-hacker.json](./203953-desktop-hacker.json) |
 | Desktop Hacker: Echoes of Pandora | 288061 | [288061-desktop-hacker-echoes-of-pandora.json](./288061-desktop-hacker-echoes-of-pandora.json) |
@@ -7559,6 +7560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detectives United II: The Darkest Shrine | 187930 | [187930-detectives-united-ii-the-darkest-shrine.json](./187930-detectives-united-ii-the-darkest-shrine.json) |
 | Detectives United II: The Darkest Shrine - Collector's Edition | 252685 | [252685-detectives-united-ii-the-darkest-shrine-collectors-edition.json](./252685-detectives-united-ii-the-darkest-shrine-collectors-edition.json) |
 | Detectives United III: Timeless Voyage - Collector's Edition | 129708 | [129708-detectives-united-iii-timeless-voyage-collectors-edition.json](./129708-detectives-united-iii-timeless-voyage-collectors-edition.json) |
+| Detectives United: Beyond Time - Collector's Edition | 336316 | [336316-detectives-united-beyond-time-collectors-edition.json](./336316-detectives-united-beyond-time-collectors-edition.json) |
 | Detectives United: Deadly Debt - Collector's Edition | 193651 | [193651-detectives-united-deadly-debt-collectors-edition.json](./193651-detectives-united-deadly-debt-collectors-edition.json) |
 | Detectives United: Mission Possible - Collector's Edition | 338780 | [338780-detectives-united-mission-possible-collectors-edition.json](./338780-detectives-united-mission-possible-collectors-edition.json) |
 | Detectives United: Origins - Collector's Edition | 248337 | [248337-detectives-united-origins-collectors-edition.json](./248337-detectives-united-origins-collectors-edition.json) |
@@ -11424,6 +11426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Card League | 62429 | [62429-doki-doki-card-league.json](./62429-doki-doki-card-league.json) |
 | Doki Doki Carpe Diem: Somnium | 333622 | [333622-doki-doki-carpe-diem-somnium.json](./333622-doki-doki-carpe-diem-somnium.json) |
 | Doki Doki Chefs | 185083 | [185083-doki-doki-chefs.json](./185083-doki-doki-chefs.json) |
+| Doki Doki College Club 2 | 336272 | [336272-doki-doki-college-club-2.json](./336272-doki-doki-college-club-2.json) |
 | Doki Doki Compatibility Quest: 3 | 59830 | [59830-doki-doki-compatibility-quest-3.json](./59830-doki-doki-compatibility-quest-3.json) |
 | Doki Doki Corrupted Files | 259649 | [259649-doki-doki-corrupted-files.json](./259649-doki-doki-corrupted-files.json) |
 | Doki Doki Densha Sekai | 177771 | [177771-doki-doki-densha-sekai.json](./177771-doki-doki-densha-sekai.json) |
@@ -11441,12 +11444,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Happy Thoughts | 334821 | [334821-doki-doki-happy-thoughts.json](./334821-doki-doki-happy-thoughts.json) |
 | Doki Doki House | 207712 | [207712-doki-doki-house.json](./207712-doki-doki-house.json) |
 | Doki Doki Indian Man Time | 333919 | [333919-doki-doki-indian-man-time.json](./333919-doki-doki-indian-man-time.json) |
+| Doki Doki Just Us | 336271 | [336271-doki-doki-just-us.json](./336271-doki-doki-just-us.json) |
 | Doki Doki Literature Club Plus!: Premium Edition | 166194 | [166194-doki-doki-literature-club-plus-premium-edition.json](./166194-doki-doki-literature-club-plus-premium-edition.json) |
 | Doki Doki Literature Club The Mod In Which Natsuki Has A Nice Day And Nothing Horrible Happens To Her, Thank You Very Much | 334279 | [334279-doki-doki-literature-club-the-mod-in-which-natsuki-has-a-nice-day-and-nothing-horrible-happens-to-her-thank-you-very-much.json](./334279-doki-doki-literature-club-the-mod-in-which-natsuki-has-a-nice-day-and-nothing-horrible-happens-to-her-thank-you-very-much.json) |
 | Doki Doki Literature Club: Purist Mod | 172644 | [172644-doki-doki-literature-club-purist-mod.json](./172644-doki-doki-literature-club-purist-mod.json) |
 | Doki Doki Literature Club: Return to the Portrait | 222917 | [222917-doki-doki-literature-club-return-to-the-portrait.json](./222917-doki-doki-literature-club-return-to-the-portrait.json) |
 | Doki Doki Literature Club: The Festival | 336088 | [336088-doki-doki-literature-club-the-festival.json](./336088-doki-doki-literature-club-the-festival.json) |
+| Doki Doki Literature Club! Take Two! | 336275 | [336275-doki-doki-literature-club-take-two.json](./336275-doki-doki-literature-club-take-two.json) |
 | Doki Doki Loser MC | 334271 | [334271-doki-doki-loser-mc.json](./334271-doki-doki-loser-mc.json) |
+| Doki Doki Love and Literature | 336270 | [336270-doki-doki-love-and-literature.json](./336270-doki-doki-love-and-literature.json) |
 | Doki Doki Malignancy | 333923 | [333923-doki-doki-malignancy.json](./333923-doki-doki-malignancy.json) |
 | Doki Doki Metal Club | 256956 | [256956-doki-doki-metal-club.json](./256956-doki-doki-metal-club.json) |
 | Doki Doki Nightmare | 333927 | [333927-doki-doki-nightmare.json](./333927-doki-doki-nightmare.json) |
@@ -11471,6 +11477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Switcheroo | 334832 | [334832-doki-doki-switcheroo.json](./334832-doki-doki-switcheroo.json) |
 | Doki Doki Takeover!: Bad Ending | 208412 | [208412-doki-doki-takeover-bad-ending.json](./208412-doki-doki-takeover-bad-ending.json) |
 | Doki Doki Tegami Relay | 217845 | [217845-doki-doki-tegami-relay.json](./217845-doki-doki-tegami-relay.json) |
+| Doki Doki The New Literature Club | 336276 | [336276-doki-doki-the-new-literature-club.json](./336276-doki-doki-the-new-literature-club.json) |
 | Doki Doki Theo Club | 374835 | [374835-doki-doki-theo-club.json](./374835-doki-doki-theo-club.json) |
 | Doki Doki Tri-Line Quest | 191218 | [191218-doki-doki-tri-line-quest.json](./191218-doki-doki-tri-line-quest.json) |
 | Doki Doki Tutorial! | 256833 | [256833-doki-doki-tutorial.json](./256833-doki-doki-tutorial.json) |
@@ -12691,6 +12698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dooms | 340999 | [340999-dooms.json](./340999-dooms.json) |
 | Dooms 2: Seas of Blood | 341788 | [341788-dooms-2-seas-of-blood.json](./341788-dooms-2-seas-of-blood.json) |
 | Dooms 4: Endgame | 387929 | [387929-dooms-4-endgame.json](./387929-dooms-4-endgame.json) |
+| Dooms Hair Salon | 336293 | [336293-dooms-hair-salon.json](./336293-dooms-hair-salon.json) |
 | Dooms Knight | 87914 | [87914-dooms-knight.json](./87914-dooms-knight.json) |
 | Doomsday | 219754 | [219754-doomsday.json](./219754-doomsday.json) |
 | Doomsday | 368044 | [368044-doomsday.json](./368044-doomsday.json) |
