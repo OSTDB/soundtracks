@@ -3038,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Express | 54115 | [54115-incredible-express.json](./54115-incredible-express.json) |
 | Incredible Ink | 343924 | [343924-incredible-ink.json](./343924-incredible-ink.json) |
 | Incredible Jack | 351535 | [351535-incredible-jack.json](./351535-incredible-jack.json) |
+| Incredible Jack: Jump & Run | 331069 | [331069-incredible-jack-jump-and-run.json](./331069-incredible-jack-jump-and-run.json) |
 | Incredible Machine Mega Pack | 124970 | [124970-incredible-machine-mega-pack.json](./124970-incredible-machine-mega-pack.json) |
 | Incredible Mandy | 104436 | [104436-incredible-mandy.json](./104436-incredible-mandy.json) |
 | Incredible Monster Prison Escape Police Jail Break | 104582 | [104582-incredible-monster-prison-escape-police-jail-break.json](./104582-incredible-monster-prison-escape-police-jail-break.json) |
@@ -3691,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
