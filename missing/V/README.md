@@ -1242,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocity Racing: 1000 | 359572 | [359572-velocity-racing-1000.json](./359572-velocity-racing-1000.json) |
 | Velocity Raptor | 145388 | [145388-velocity-raptor.json](./145388-velocity-raptor.json) |
 | Velocity Redux | 413229 | [413229-velocity-redux.json](./413229-velocity-redux.json) |
+| Velocity Riders | 347436 | [347436-velocity-riders.json](./347436-velocity-riders.json) |
 | Velocity Rift | 368714 | [368714-velocity-rift.json](./368714-velocity-rift.json) |
 | Velocity Rift | 377299 | [377299-velocity-rift.json](./377299-velocity-rift.json) |
 | Velocity Rush | 338574 | [338574-velocity-rush.json](./338574-velocity-rush.json) |
@@ -2214,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villainous Valentine | 313750 | [313750-villainous-valentine.json](./313750-villainous-valentine.json) |
 | Villains Corp. | 252136 | [252136-villains-corp.json](./252136-villains-corp.json) |
 | Villains: Robot Battle Royale | 378613 | [378613-villains-robot-battle-royale.json](./378613-villains-robot-battle-royale.json) |
+| Villainville | 347447 | [347447-villainville.json](./347447-villainville.json) |
 | Villainy | 370562 | [370562-villainy.json](./370562-villainy.json) |
 | Villion:Code | 387425 | [387425-villion-code.json](./387425-villion-code.json) |
 | Villnoire | 143562 | [143562-villnoire.json](./143562-villnoire.json) |
