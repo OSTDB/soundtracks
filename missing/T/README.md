@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Wuxia: The Pre-Sequel | 83832 | [83832-tale-of-wuxia-the-pre-sequel.json](./83832-tale-of-wuxia-the-pre-sequel.json) |
 | Tale of Wuxia: The Pre-Sequel - The Way to Nether | 168201 | [168201-tale-of-wuxia-the-pre-sequel-the-way-to-nether.json](./168201-tale-of-wuxia-the-pre-sequel-the-way-to-nether.json) |
 | Tale's Casino Escape | 130711 | [130711-tales-casino-escape.json](./130711-tales-casino-escape.json) |
+| Tale's Edge | 346476 | [346476-tales-edge.json](./346476-tales-edge.json) |
 | Taleans Hansel and Gretel story | 98575 | [98575-taleans-hansel-and-gretel-story.json](./98575-taleans-hansel-and-gretel-story.json) |
 | Talebuilder | 382305 | [382305-talebuilder.json](./382305-talebuilder.json) |
 | Talent Club: Match 3 Puzzle | 224939 | [224939-talent-club-match-3-puzzle.json](./224939-talent-club-match-3-puzzle.json) |
@@ -4342,6 +4343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terracotta: Collector's Edition | 300479 | [300479-terracotta-collectors-edition.json](./300479-terracotta-collectors-edition.json) |
 | Terracrest | 317330 | [317330-terracrest.json](./317330-terracrest.json) |
 | TerraCube | 361690 | [361690-terracube.json](./361690-terracube.json) |
+| Terradune | 346347 | [346347-terradune.json](./346347-terradune.json) |
 | Terrafactor | 368990 | [368990-terrafactor.json](./368990-terrafactor.json) |
 | Terrafactory: Idle Planet | 384154 | [384154-terrafactory-idle-planet.json](./384154-terrafactory-idle-planet.json) |
 | Terrafarmers Inc. | 370399 | [370399-terrafarmers-inc.json](./370399-terrafarmers-inc.json) |
@@ -7614,6 +7616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cyclist: Tactics | 159354 | [159354-the-cyclist-tactics.json](./159354-the-cyclist-tactics.json) |
 | The Cyclop | 301814 | [301814-the-cyclop.json](./301814-the-cyclop.json) |
 | The Czar is Dead | 289812 | [289812-the-czar-is-dead.json](./289812-the-czar-is-dead.json) |
+| The Czar Is Dead 2 | 346353 | [346353-the-czar-is-dead-2.json](./346353-the-czar-is-dead-2.json) |
 | The Czech Run | 208384 | [208384-the-czech-run.json](./208384-the-czech-run.json) |
 | The D Show | 280855 | [280855-the-d-show.json](./280855-the-d-show.json) |
 | The D-T.E.A.M. | 196010 | [196010-the-d-t-e-a-m.json](./196010-the-d-t-e-a-m.json) |
@@ -19455,6 +19458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Nights at Rachel's 2 | 209298 | [209298-those-nights-at-rachels-2.json](./209298-those-nights-at-rachels-2.json) |
 | Those Nights at Rachel's 2: Reloaded | 209308 | [209308-those-nights-at-rachels-2-reloaded.json](./209308-those-nights-at-rachels-2-reloaded.json) |
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
+| Those Npc's Love Stories | 346478 | [346478-those-npcs-love-stories.json](./346478-those-npcs-love-stories.json) |
 | Those Spacecrafts | 134970 | [134970-those-spacecrafts.json](./134970-those-spacecrafts.json) |
 | Those Who Came: Healing Solarus | 175647 | [175647-those-who-came-healing-solarus.json](./175647-those-who-came-healing-solarus.json) |
 | Those Who Crawl | 230803 | [230803-those-who-crawl.json](./230803-those-who-crawl.json) |
@@ -23699,6 +23703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toll Booth Simulator | 357260 | [357260-toll-booth-simulator.json](./357260-toll-booth-simulator.json) |
 | Tollan Worlds | 252805 | [252805-tollan-worlds.json](./252805-tollan-worlds.json) |
 | Tollway Tycoon | 400258 | [400258-tollway-tycoon.json](./400258-tollway-tycoon.json) |
+| Tolom | 346361 | [346361-tolom.json](./346361-tolom.json) |
 | Tölt | 350931 | [350931-tolt.json](./350931-tolt.json) |
 | Toltec and the Mysteries of the Secret Island | 111401 | [111401-toltec-and-the-mysteries-of-the-secret-island.json](./111401-toltec-and-the-mysteries-of-the-secret-island.json) |
 | Tom & Jerry 2 | 123248 | [123248-tom-and-jerry-2.json](./123248-tom-and-jerry-2.json) |
@@ -23954,6 +23959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Joe | 29874 | [29874-tomb-joe.json](./29874-tomb-joe.json) |
 | Tomb Keeper Mansion Deluxe Pinball | 193215 | [193215-tomb-keeper-mansion-deluxe-pinball.json](./193215-tomb-keeper-mansion-deluxe-pinball.json) |
 | Tomb Nightmares | 302929 | [302929-tomb-nightmares.json](./302929-tomb-nightmares.json) |
+| Tomb of Chacal | 346349 | [346349-tomb-of-chacal.json](./346349-tomb-of-chacal.json) |
 | Tomb of Doom | 70873 | [70873-tomb-of-doom.json](./70873-tomb-of-doom.json) |
 | Tomb of Dread | 256100 | [256100-tomb-of-dread.json](./256100-tomb-of-dread.json) |
 | Tomb of Evil Avenue | 120890 | [120890-tomb-of-evil-avenue.json](./120890-tomb-of-evil-avenue.json) |
