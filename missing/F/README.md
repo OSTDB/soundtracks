@@ -6757,6 +6757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights At Freddy's Pixel Edition | 338143 | [338143-five-nights-at-freddys-pixel-edition.json](./338143-five-nights-at-freddys-pixel-edition.json) |
 | Five Nights at Freddy's Simulator | 263637 | [263637-five-nights-at-freddys-simulator.json](./263637-five-nights-at-freddys-simulator.json) |
 | Five Nights at Freddy's Soulless Look | 383375 | [383375-five-nights-at-freddys-soulless-look.json](./383375-five-nights-at-freddys-soulless-look.json) |
+| Five Nights at Freddy's Stars | 323074 | [323074-five-nights-at-freddys-stars.json](./323074-five-nights-at-freddys-stars.json) |
 | Five Nights at Freddy's: Backlogged | 329023 | [329023-five-nights-at-freddys-backlogged.json](./329023-five-nights-at-freddys-backlogged.json) |
 | Five Nights at Freddy's: Blood & Gears | 331177 | [331177-five-nights-at-freddys-blood-and-gears.json](./331177-five-nights-at-freddys-blood-and-gears.json) |
 | Five Nights at Freddy's: Core Collection | 140169 | [140169-five-nights-at-freddys-core-collection.json](./140169-five-nights-at-freddys-core-collection.json) |
@@ -9411,6 +9412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forests Are For Trees | 107021 | [107021-forests-are-for-trees.json](./107021-forests-are-for-trees.json) |
 | Forests of Augusta | 104035 | [104035-forests-of-augusta.json](./104035-forests-of-augusta.json) |
 | Forests, Fields and Fortresses | 215577 | [215577-forests-fields-and-fortresses.json](./215577-forests-fields-and-fortresses.json) |
+| Forestygian | 323066 | [323066-forestygian.json](./323066-forestygian.json) |
 | Forêt de Nuages | 218302 | [218302-foret-de-nuages.json](./218302-foret-de-nuages.json) |
 | Forêt Éternelle | 187362 | [187362-foret-eternelle.json](./187362-foret-eternelle.json) |
 | Foretales | 195096 | [195096-foretales.json](./195096-foretales.json) |
@@ -12362,6 +12364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Couple | 334798 | [334798-fruit-couple.json](./334798-fruit-couple.json) |
 | Fruit Crawler | 117791 | [117791-fruit-crawler.json](./117791-fruit-crawler.json) |
 | Fruit Dating | 174502 | [174502-fruit-dating.json](./174502-fruit-dating.json) |
+| Fruit Defense | 323079 | [323079-fruit-defense.json](./323079-fruit-defense.json) |
 | Fruit Fall | 246333 | [246333-fruit-fall.json](./246333-fruit-fall.json) |
 | Fruit Fall | 57949 | [57949-fruit-fall.json](./57949-fruit-fall.json) |
 | Fruit Farm | 54048 | [54048-fruit-farm.json](./54048-fruit-farm.json) |
