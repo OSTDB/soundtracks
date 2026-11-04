@@ -2852,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food King | 384714 | [384714-fast-food-king.json](./384714-fast-food-king.json) |
 | Fast Food Manager | 147062 | [147062-fast-food-manager.json](./147062-fast-food-manager.json) |
 | Fast Food Manager 2 | 347719 | [347719-fast-food-manager-2.json](./347719-fast-food-manager-2.json) |
+| Fast Food Manager Simulator | 332181 | [332181-fast-food-manager-simulator.json](./332181-fast-food-manager-simulator.json) |
 | Fast Food Mania | 146613 | [146613-fast-food-mania.json](./146613-fast-food-mania.json) |
 | Fast Food Mania 3D | 152980 | [152980-fast-food-mania-3d.json](./152980-fast-food-mania-3d.json) |
 | Fast Food Never More | 127241 | [127241-fast-food-never-more.json](./127241-fast-food-never-more.json) |
@@ -4334,6 +4335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Angels | 125977 | [125977-fight-angels.json](./125977-fight-angels.json) |
 | Fight Arena Online | 239628 | [239628-fight-arena-online.json](./239628-fight-arena-online.json) |
 | Fight Ascending | 190010 | [190010-fight-ascending.json](./190010-fight-ascending.json) |
+| Fight Ascension | 332169 | [332169-fight-ascension.json](./332169-fight-ascension.json) |
 | Fight Back The Night | 290608 | [290608-fight-back-the-night.json](./290608-fight-back-the-night.json) |
 | Fight Ball VR | 120924 | [120924-fight-ball-vr.json](./120924-fight-ball-vr.json) |
 | Fight Bingo | 265185 | [265185-fight-bingo.json](./265185-fight-bingo.json) |
@@ -9579,6 +9581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Places: Regained Castle | 81630 | [81630-forgotten-places-regained-castle.json](./81630-forgotten-places-regained-castle.json) |
 | Forgotten Playland: Party Edition | 392803 | [392803-forgotten-playland-party-edition.json](./392803-forgotten-playland-party-edition.json) |
 | Forgotten Possessions | 392775 | [392775-forgotten-possessions.json](./392775-forgotten-possessions.json) |
+| Forgotten Psychedelics | 332182 | [332182-forgotten-psychedelics.json](./332182-forgotten-psychedelics.json) |
 | Forgotten Realms: Demon Stone | 356895 | [356895-forgotten-realms-demon-stone.json](./356895-forgotten-realms-demon-stone.json) |
 | Forgotten Realms: Demon Stone | 5839 | [5839-forgotten-realms-demon-stone.json](./5839-forgotten-realms-demon-stone.json) |
 | Forgotten Realms: Hillsfar | 195752 | [195752-forgotten-realms-hillsfar.json](./195752-forgotten-realms-hillsfar.json) |
@@ -10037,6 +10040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 5 - Underground | 278837 | [278837-fortnite-chapter-5-underground.json](./278837-fortnite-chapter-5-underground.json) |
 | Fortnite: Chapter 6 - Mini Season 1: Galactic Battle | 342555 | [342555-fortnite-chapter-6-mini-season-1-galactic-battle.json](./342555-fortnite-chapter-6-mini-season-1-galactic-battle.json) |
 | Fortnite: Chapter 6 - Season 1: Demon Hunters | 323914 | [323914-fortnite-chapter-6-season-1-demon-hunters.json](./323914-fortnite-chapter-6-season-1-demon-hunters.json) |
+| Fortnite: Chapter 6 - Season 2: Lawless | 332192 | [332192-fortnite-chapter-6-season-2-lawless.json](./332192-fortnite-chapter-6-season-2-lawless.json) |
 | Fortnite: Chapter 6 - Season 4: Shock 'N Awesome | 360278 | [360278-fortnite-chapter-6-season-4-shock-n-awesome.json](./360278-fortnite-chapter-6-season-4-shock-n-awesome.json) |
 | Fortnite: Chapter 7 - Season 2: Showdown | 394366 | [394366-fortnite-chapter-7-season-2-showdown.json](./394366-fortnite-chapter-7-season-2-showdown.json) |
 | Fortnite: Chapter 7 - Season 3: Runners | 404689 | [404689-fortnite-chapter-7-season-3-runners.json](./404689-fortnite-chapter-7-season-3-runners.json) |
