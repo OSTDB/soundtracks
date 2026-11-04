@@ -6206,6 +6206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenants: Spirit & Mind | 190154 | [190154-revenants-spirit-and-mind.json](./190154-revenants-spirit-and-mind.json) |
 | RevenBlade | 133588 | [133588-revenblade.json](./133588-revenblade.json) |
 | Revengate | 398012 | [398012-revengate.json](./398012-revengate.json) |
+| Revenge | 337944 | [337944-revenge.json](./337944-revenge.json) |
 | Revenge Crystal | 278401 | [278401-revenge-crystal.json](./278401-revenge-crystal.json) |
 | Revenge II | 281240 | [281240-revenge-ii.json](./281240-revenge-ii.json) |
 | Revenge Master | 200427 | [200427-revenge-master.json](./200427-revenge-master.json) |
