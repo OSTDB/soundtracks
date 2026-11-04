@@ -4022,6 +4022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VrUs | 179372 | [179372-vrus.json](./179372-vrus.json) |
 | VRZ Torment | 32503 | [32503-vrz-torment.json](./32503-vrz-torment.json) |
 | Vs Block Breaker | 64457 | [64457-vs-block-breaker.json](./64457-vs-block-breaker.json) |
+| VS Cartoon Cat | 305063 | [305063-vs-cartoon-cat.json](./305063-vs-cartoon-cat.json) |
 | VS Mahjong: Otome Ryouran | 310348 | [310348-vs-mahjong-otome-ryouran.json](./310348-vs-mahjong-otome-ryouran.json) |
 | VS Sonic: Dash & Spin | 223136 | [223136-vs-sonic-dash-and-spin.json](./223136-vs-sonic-dash-and-spin.json) |
 | Vs Suicide Mouse | 278448 | [278448-vs-suicide-mouse.json](./278448-vs-suicide-mouse.json) |
