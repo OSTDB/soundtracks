@@ -6017,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturama | 196426 | [196426-nocturama.json](./196426-nocturama.json) |
 | Nocturia The Game | 247912 | [247912-nocturia-the-game.json](./247912-nocturia-the-game.json) |
 | Nocturnal | 350295 | [350295-nocturnal.json](./350295-nocturnal.json) |
+| Nocturnal 2 | 310336 | [310336-nocturnal-2.json](./310336-nocturnal-2.json) |
 | Nocturnal Echoes | 414419 | [414419-nocturnal-echoes.json](./414419-nocturnal-echoes.json) |
 | Nocturnal Hunt | 75762 | [75762-nocturnal-hunt.json](./75762-nocturnal-hunt.json) |
 | Nocturnal Nemesis | 341483 | [341483-nocturnal-nemesis.json](./341483-nocturnal-nemesis.json) |
