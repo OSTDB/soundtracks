@@ -6056,7 +6056,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Flesh | 415773 | [415773-isle-of-flesh.json](./415773-isle-of-flesh.json) |
 | Isle of Food | 387149 | [387149-isle-of-food.json](./387149-isle-of-food.json) |
 | Isle of Genesis: Avalon | 175707 | [175707-isle-of-genesis-avalon.json](./175707-isle-of-genesis-avalon.json) |
-| Isle of Jura | 167395 | [167395-isle-of-jura.json](./167395-isle-of-jura.json) |
 | Isle of Jura Fishing Trip | 242055 | [242055-isle-of-jura-fishing-trip.json](./242055-isle-of-jura-fishing-trip.json) |
 | Isle of Jura Fishing Trip: Complete Edition | 268564 | [268564-isle-of-jura-fishing-trip-complete-edition.json](./268564-isle-of-jura-fishing-trip-complete-edition.json) |
 | Isle of Jura Fishing Trip: Definitive Edition | 263552 | [263552-isle-of-jura-fishing-trip-definitive-edition.json](./263552-isle-of-jura-fishing-trip-definitive-edition.json) |
