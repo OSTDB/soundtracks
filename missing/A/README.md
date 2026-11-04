@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Road That May Lead Nowhere | 77658 | [77658-a-road-that-may-lead-nowhere.json](./77658-a-road-that-may-lead-nowhere.json) |
 | A Roaming Wildebeest In Spain | 271244 | [271244-a-roaming-wildebeest-in-spain.json](./271244-a-roaming-wildebeest-in-spain.json) |
 | A Robot Named Fight | 51944 | [51944-a-robot-named-fight.json](./51944-a-robot-named-fight.json) |
+| A Robot's Tiny Adventure | 329329 | [329329-a-robots-tiny-adventure.json](./329329-a-robots-tiny-adventure.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
 | A Rogue Escape | 142376 | [142376-a-rogue-escape.json](./142376-a-rogue-escape.json) |
 | A Room Beyond | 33421 | [33421-a-room-beyond.json](./33421-a-room-beyond.json) |
@@ -2145,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss of Neptune | 145563 | [145563-abyss-of-neptune.json](./145563-abyss-of-neptune.json) |
 | Abyss Of Pleasure | 379549 | [379549-abyss-of-pleasure.json](./379549-abyss-of-pleasure.json) |
 | Abyss of the Sacrifice | 145397 | [145397-abyss-of-the-sacrifice.json](./145397-abyss-of-the-sacrifice.json) |
+| Abyss of Twisted Fates | 329319 | [329319-abyss-of-twisted-fates.json](./329319-abyss-of-twisted-fates.json) |
 | Abyss Pact | 339129 | [339129-abyss-pact.json](./339129-abyss-pact.json) |
 | Abyss Protection | 260020 | [260020-abyss-protection.json](./260020-abyss-protection.json) |
 | Abyss Prowler | 383581 | [383581-abyss-prowler.json](./383581-abyss-prowler.json) |
@@ -2321,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Academy of Drift | 268336 | [268336-academy-of-drift.json](./268336-academy-of-drift.json) |
 | Academy of Magic: A New Beginning | 365802 | [365802-academy-of-magic-a-new-beginning.json](./365802-academy-of-magic-a-new-beginning.json) |
 | Academy of Magic: Dark Possession | 153877 | [153877-academy-of-magic-dark-possession.json](./153877-academy-of-magic-dark-possession.json) |
+| Academy of Magic: Ring of Darkness | 329302 | [329302-academy-of-magic-ring-of-darkness.json](./329302-academy-of-magic-ring-of-darkness.json) |
 | Academy Quest | 193248 | [193248-academy-quest.json](./193248-academy-quest.json) |
 | Academy Romance 7 | 185077 | [185077-academy-romance-7.json](./185077-academy-romance-7.json) |
 | Academy Z: Beginning of the catastrophe | 179935 | [179935-academy-z-beginning-of-the-catastrophe.json](./179935-academy-z-beginning-of-the-catastrophe.json) |
@@ -8669,6 +8672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Odyssey: Echoes of War | 127696 | [127696-an-odyssey-echoes-of-war.json](./127696-an-odyssey-echoes-of-war.json) |
 | An Opportunity | 215527 | [215527-an-opportunity.json](./215527-an-opportunity.json) |
 | an Orc's Tale: Kriegsruf | 94050 | [94050-an-orcs-tale-kriegsruf.json](./94050-an-orcs-tale-kriegsruf.json) |
+| An Ordinary Sonic Fangame | 329320 | [329320-an-ordinary-sonic-fangame.json](./329320-an-ordinary-sonic-fangame.json) |
 | An Ordinary Sonic ROM Hack | 129178 | [129178-an-ordinary-sonic-rom-hack.json](./129178-an-ordinary-sonic-rom-hack.json) |
 | An Otaku like me has 2 Fiancees?! | 208271 | [208271-an-otaku-like-me-has-2-fiancees.json](./208271-an-otaku-like-me-has-2-fiancees.json) |
 | An Outcry | 182180 | [182180-an-outcry.json](./182180-an-outcry.json) |
