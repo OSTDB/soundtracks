@@ -10264,6 +10264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closure | 201622 | [201622-closure.json](./201622-closure.json) |
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
 | Clothes Forever - Styling Game | 90674 | [90674-clothes-forever-styling-game.json](./90674-clothes-forever-styling-game.json) |
+| Clothes Line | 298764 | [298764-clothes-line.json](./298764-clothes-line.json) |
 | Clotheslines | 180430 | [180430-clotheslines.json](./180430-clotheslines.json) |
 | Clothing | 314234 | [314234-clothing.json](./314234-clothing.json) |
 | Clothing & Alterations | 210426 | [210426-clothing-and-alterations.json](./210426-clothing-and-alterations.json) |
@@ -16228,6 +16229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Jetpack | 205576 | [205576-crazy-jetpack.json](./205576-crazy-jetpack.json) |
 | Crazy Jump | 158121 | [158121-crazy-jump.json](./158121-crazy-jump.json) |
 | Crazy Justice | 56548 | [56548-crazy-justice.json](./56548-crazy-justice.json) |
+| Crazy Kart 2 | 298739 | [298739-crazy-kart-2.json](./298739-crazy-kart-2.json) |
 | Crazy Kickers | 57615 | [57615-crazy-kickers.json](./57615-crazy-kickers.json) |
 | Crazy Killer | 144678 | [144678-crazy-killer.json](./144678-crazy-killer.json) |
 | Crazy Kings | 114734 | [114734-crazy-kings.json](./114734-crazy-kings.json) |
