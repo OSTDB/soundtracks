@@ -7923,6 +7923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Demon Lord is Mine! | 215189 | [215189-the-demon-lord-is-mine.json](./215189-the-demon-lord-is-mine.json) |
 | The Demon Lord is New in Town! | 159736 | [159736-the-demon-lord-is-new-in-town.json](./159736-the-demon-lord-is-new-in-town.json) |
 | The Demon Lord’s Daughter and the Tower of Seals | 329366 | [329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json](./329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json) |
+| The Demon Queen's Dire Dilemma | 347449 | [347449-the-demon-queens-dire-dilemma.json](./347449-the-demon-queens-dire-dilemma.json) |
 | The Demon Within Me | 221194 | [221194-the-demon-within-me.json](./221194-the-demon-within-me.json) |
 | The Demon's Apple: Otome Game | 374389 | [374389-the-demons-apple-otome-game.json](./374389-the-demons-apple-otome-game.json) |
 | The Demon's Exorcism | 296472 | [296472-the-demons-exorcism.json](./296472-the-demons-exorcism.json) |
@@ -13436,6 +13437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Motorcycle | 230956 | [230956-the-motorcycle.json](./230956-the-motorcycle.json) |
 | The Mound: Omen of Cthulhu | 334673 | [334673-the-mound-omen-of-cthulhu.json](./334673-the-mound-omen-of-cthulhu.json) |
 | The Mountain | 372538 | [372538-the-mountain.json](./372538-the-mountain.json) |
+| The Mountain and the Moron | 347428 | [347428-the-mountain-and-the-moron.json](./347428-the-mountain-and-the-moron.json) |
 | The Mountain Hunting | 152757 | [152757-the-mountain-hunting.json](./152757-the-mountain-hunting.json) |
 | The Mountain is as It Always Was | 276772 | [276772-the-mountain-is-as-it-always-was.json](./276772-the-mountain-is-as-it-always-was.json) |
 | The Mountain Peak | 422695 | [422695-the-mountain-peak.json](./422695-the-mountain-peak.json) |
@@ -22400,6 +22402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Chao Garden DX | 302178 | [302178-tiny-chao-garden-dx.json](./302178-tiny-chao-garden-dx.json) |
 | Tiny Chaos | 261716 | [261716-tiny-chaos.json](./261716-tiny-chaos.json) |
 | Tiny Chills: Not From Ear | 395024 | [395024-tiny-chills-not-from-ear.json](./395024-tiny-chills-not-from-ear.json) |
+| Tiny Circuits | 347448 | [347448-tiny-circuits.json](./347448-tiny-circuits.json) |
 | Tiny Circumstance | 296209 | [296209-tiny-circumstance.json](./296209-tiny-circumstance.json) |
 | Tiny Clusters | 177477 | [177477-tiny-clusters.json](./177477-tiny-clusters.json) |
 | Tiny Combat Arcade | 184867 | [184867-tiny-combat-arcade.json](./184867-tiny-combat-arcade.json) |
@@ -24595,6 +24598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topia World Builder | 87876 | [87876-topia-world-builder.json](./87876-topia-world-builder.json) |
 | Topic Twister | 254162 | [254162-topic-twister.json](./254162-topic-twister.json) |
 | Topidia: The Last Badge | 420554 | [420554-topidia-the-last-badge.json](./420554-topidia-the-last-badge.json) |
+| Topiopolis | 347455 | [347455-topiopolis.json](./347455-topiopolis.json) |
 | Topless Hentai Mosaic | 230124 | [230124-topless-hentai-mosaic.json](./230124-topless-hentai-mosaic.json) |
 | Topo Mix Game | 204107 | [204107-topo-mix-game.json](./204107-topo-mix-game.json) |
 | Topobeam | 390647 | [390647-topobeam.json](./390647-topobeam.json) |
@@ -29924,6 +29928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troll-A-Mania | 217701 | [217701-troll-a-mania.json](./217701-troll-a-mania.json) |
 | Trollboarder | 85458 | [85458-trollboarder.json](./85458-trollboarder.json) |
 | Trollbound | 233131 | [233131-trollbound.json](./233131-trollbound.json) |
+| Trolley Dash | 347424 | [347424-trolley-dash.json](./347424-trolley-dash.json) |
 | Trolley Delayma | 267294 | [267294-trolley-delayma.json](./267294-trolley-delayma.json) |
 | Trolley Folly | 248327 | [248327-trolley-folly.json](./248327-trolley-folly.json) |
 | Trolley Problem | 179589 | [179589-trolley-problem.json](./179589-trolley-problem.json) |
