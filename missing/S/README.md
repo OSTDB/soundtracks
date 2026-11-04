@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacrifices | 330126 | [330126-sacrifices.json](./330126-sacrifices.json) |
 | Sacrifices Must Be Made | 182849 | [182849-sacrifices-must-be-made.json](./182849-sacrifices-must-be-made.json) |
 | Sacrifices must be made, but... | 135715 | [135715-sacrifices-must-be-made-but.json](./135715-sacrifices-must-be-made-but.json) |
+| Sacrificial God | 318915 | [318915-sacrificial-god.json](./318915-sacrificial-god.json) |
 | Sacrificial Run | 183294 | [183294-sacrificial-run.json](./183294-sacrificial-run.json) |
 | Sacrifights | 120907 | [120907-sacrifights.json](./120907-sacrifights.json) |
 | SacriFire | 152268 | [152268-sacrifire.json](./152268-sacrifire.json) |
@@ -511,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SaGa: Scarlet Grace - Ambitions | 119373 | [119373-saga-scarlet-grace-ambitions.json](./119373-saga-scarlet-grace-ambitions.json) |
 | SaGa: Scarlet Grace - Hiiro no Yabou | 97908 | [97908-saga-scarlet-grace-hiiro-no-yabou.json](./97908-saga-scarlet-grace-hiiro-no-yabou.json) |
 | Sagaia | 145878 | [145878-sagaia.json](./145878-sagaia.json) |
+| Sagaia | 318903 | [318903-sagaia.json](./318903-sagaia.json) |
 | Sagakure | 116430 | [116430-sagakure.json](./116430-sagakure.json) |
 | SaGaS | 272938 | [272938-sagas.json](./272938-sagas.json) |
 | Sagas of Lumin | 322461 | [322461-sagas-of-lumin.json](./322461-sagas-of-lumin.json) |
@@ -2308,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Girl | 190825 | [190825-save-the-girl.json](./190825-save-the-girl.json) |
 | Save the Girl | 367387 | [367387-save-the-girl.json](./367387-save-the-girl.json) |
 | Save the girls Action | 150469 | [150469-save-the-girls-action.json](./150469-save-the-girls-action.json) |
+| Save the Goombas | 318938 | [318938-save-the-goombas.json](./318938-save-the-goombas.json) |
 | Save the Halloween | 75198 | [75198-save-the-halloween.json](./75198-save-the-halloween.json) |
 | Save the Hamsters | 63121 | [63121-save-the-hamsters.json](./63121-save-the-hamsters.json) |
 | Save the Humans | 53578 | [53578-save-the-humans.json](./53578-save-the-humans.json) |
@@ -7420,6 +7423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shave N Quit | 284412 | [284412-shave-n-quit.json](./284412-shave-n-quit.json) |
 | Shaverma: Ravshan Edition | 112943 | [112943-shaverma-ravshan-edition.json](./112943-shaverma-ravshan-edition.json) |
 | Shawarma King | 330345 | [330345-shawarma-king.json](./330345-shawarma-king.json) |
+| Shawarma Legend | 318912 | [318912-shawarma-legend.json](./318912-shawarma-legend.json) |
 | Shawarma or Shaverma | 165914 | [165914-shawarma-or-shaverma.json](./165914-shawarma-or-shaverma.json) |
 | Shawarma Wars | 385562 | [385562-shawarma-wars.json](./385562-shawarma-wars.json) |
 | Shawl | 56527 | [56527-shawl.json](./56527-shawl.json) |
@@ -15988,6 +15992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire | 311000 | [311000-solitaire.json](./311000-solitaire.json) |
 | Solitaire | 312270 | [312270-solitaire.json](./312270-solitaire.json) |
 | Solitaire | 313972 | [313972-solitaire.json](./313972-solitaire.json) |
+| Solitaire | 318922 | [318922-solitaire.json](./318922-solitaire.json) |
 | Solitaire | 395638 | [395638-solitaire.json](./395638-solitaire.json) |
 | Solitaire | 74206 | [74206-solitaire.json](./74206-solitaire.json) |
 | Solitaire | 75661 | [75661-solitaire.json](./75661-solitaire.json) |
@@ -18958,7 +18963,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22796,6 +22800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | St. Nick's: Dash Away All! | 184931 | [184931-st-nicks-dash-away-all.json](./184931-st-nicks-dash-away-all.json) |
 | St. Yariman's Little Black Book: Complete | 82980 | [82980-st-yarimans-little-black-book-complete.json](./82980-st-yarimans-little-black-book-complete.json) |
 | St/P | 97644 | [97644-st-p.json](./97644-st-p.json) |
+| Staars | 318918 | [318918-staars.json](./318918-staars.json) |
 | Stab | 264620 | [264620-stab.json](./264620-stab.json) |
 | Stab It VR.com | 310022 | [310022-stab-it-vr-com.json](./310022-stab-it-vr-com.json) |
 | Stab! | 396322 | [396322-stab.json](./396322-stab.json) |
@@ -30482,6 +30487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Luigi Land | 130090 | [130090-super-luigi-land.json](./130090-super-luigi-land.json) |
 | Super Luigi Land Wii | 294783 | [294783-super-luigi-land-wii.json](./294783-super-luigi-land-wii.json) |
 | Super Luigi Odyssey | 282683 | [282683-super-luigi-odyssey.json](./282683-super-luigi-odyssey.json) |
+| Super Luigi Paradise | 318928 | [318928-super-luigi-paradise.json](./318928-super-luigi-paradise.json) |
 | Super Luigi Paradise | 320218 | [320218-super-luigi-paradise.json](./320218-super-luigi-paradise.json) |
 | Super Luigi Sunburn | 313428 | [313428-super-luigi-sunburn.json](./313428-super-luigi-sunburn.json) |
 | Super Luigi Trick or Treat | 314278 | [314278-super-luigi-trick-or-treat.json](./314278-super-luigi-trick-or-treat.json) |
@@ -30663,13 +30669,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros 4: Escapade | 318550 | [318550-super-mario-bros-4-escapade.json](./318550-super-mario-bros-4-escapade.json) |
 | Super Mario Bros Galaxy DS | 146354 | [146354-super-mario-bros-galaxy-ds.json](./146354-super-mario-bros-galaxy-ds.json) |
 | Super Mario Bros HF | 274982 | [274982-super-mario-bros-hf.json](./274982-super-mario-bros-hf.json) |
+| Super Mario Bros: Adventure Journey | 318924 | [318924-super-mario-bros-adventure-journey.json](./318924-super-mario-bros-adventure-journey.json) |
 | Super Mario Bros: Bloody Battles | 320215 | [320215-super-mario-bros-bloody-battles.json](./320215-super-mario-bros-bloody-battles.json) |
+| Super Mario Bros: Bowser's Terror | 318930 | [318930-super-mario-bros-bowsers-terror.json](./318930-super-mario-bros-bowsers-terror.json) |
 | Super Mario Bros: Chaos of the Ztar | 324091 | [324091-super-mario-bros-chaos-of-the-ztar.json](./324091-super-mario-bros-chaos-of-the-ztar.json) |
+| Super Mario Bros: Coin Quest | 318926 | [318926-super-mario-bros-coin-quest.json](./318926-super-mario-bros-coin-quest.json) |
+| Super Mario Bros: Dark Days | 318931 | [318931-super-mario-bros-dark-days.json](./318931-super-mario-bros-dark-days.json) |
 | Super Mario Bros: Dual Dash | 320158 | [320158-super-mario-bros-dual-dash.json](./320158-super-mario-bros-dual-dash.json) |
 | Super Mario Bros: Fierce Days | 320211 | [320211-super-mario-bros-fierce-days.json](./320211-super-mario-bros-fierce-days.json) |
 | Super Mario Bros: Hello | 318863 | [318863-super-mario-bros-hello.json](./318863-super-mario-bros-hello.json) |
 | Super Mario Bros: Impending Doom | 336103 | [336103-super-mario-bros-impending-doom.json](./336103-super-mario-bros-impending-doom.json) |
+| Super Mario Bros: Journey to Peach | 318925 | [318925-super-mario-bros-journey-to-peach.json](./318925-super-mario-bros-journey-to-peach.json) |
+| Super Mario Bros: Kill Bowser | 318927 | [318927-super-mario-bros-kill-bowser.json](./318927-super-mario-bros-kill-bowser.json) |
+| Super Mario Bros: Kingdom Troubles | 318940 | [318940-super-mario-bros-kingdom-troubles.json](./318940-super-mario-bros-kingdom-troubles.json) |
+| Super Mario Bros: Koopa Chaos | 318936 | [318936-super-mario-bros-koopa-chaos.json](./318936-super-mario-bros-koopa-chaos.json) |
 | Super Mario Bros: Merry Mountain Christmas Adventure - SMW Christmas Edition V3.0 | 229679 | [229679-super-mario-bros-merry-mountain-christmas-adventure-smw-christmas-edition-v3-0.json](./229679-super-mario-bros-merry-mountain-christmas-adventure-smw-christmas-edition-v3-0.json) |
+| Super Mario Bros: Mushroom Journey | 318933 | [318933-super-mario-bros-mushroom-journey.json](./318933-super-mario-bros-mushroom-journey.json) |
 | Super Mario Bros: Mythical Mushrooms | 320224 | [320224-super-mario-bros-mythical-mushrooms.json](./320224-super-mario-bros-mythical-mushrooms.json) |
 | Super Mario Bros: Odyssey - Chapter 1 | 134294 | [134294-super-mario-bros-odyssey-chapter-1.json](./134294-super-mario-bros-odyssey-chapter-1.json) |
 | Super Mario Bros: Restless Reality | 320223 | [320223-super-mario-bros-restless-reality.json](./320223-super-mario-bros-restless-reality.json) |
@@ -33527,6 +33542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swan Hill | 177821 | [177821-swan-hill.json](./177821-swan-hill.json) |
 | Swan Princess Gator Escape | 340534 | [340534-swan-princess-gator-escape.json](./340534-swan-princess-gator-escape.json) |
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
+| Swan Song | 318921 | [318921-swan-song.json](./318921-swan-song.json) |
 | Swan Song | 46977 | [46977-swan-song.json](./46977-swan-song.json) |
 | Swan's Song | 342283 | [342283-swans-song.json](./342283-swans-song.json) |
 | Swangman | 183366 | [183366-swangman.json](./183366-swangman.json) |
