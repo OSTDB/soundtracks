@@ -1332,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vengeance | 34876 | [34876-vengeance.json](./34876-vengeance.json) |
 | Vengeance | 368470 | [368470-vengeance.json](./368470-vengeance.json) |
 | Vengeance | 55019 | [55019-vengeance.json](./55019-vengeance.json) |
+| Vengeance Hunters | 309302 | [309302-vengeance-hunters.json](./309302-vengeance-hunters.json) |
 | Vengeance is Mine | 173089 | [173089-vengeance-is-mine.json](./173089-vengeance-is-mine.json) |
 | Vengeance of Excalibur | 72015 | [72015-vengeance-of-excalibur.json](./72015-vengeance-of-excalibur.json) |
 | Vengeance of Mr. Peppermint | 250012 | [250012-vengeance-of-mr-peppermint.json](./250012-vengeance-of-mr-peppermint.json) |
@@ -3661,6 +3662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyager | 237586 | [237586-voyager.json](./237586-voyager.json) |
 | Voyager | 284566 | [284566-voyager.json](./284566-voyager.json) |
 | Voyager | 346075 | [346075-voyager.json](./346075-voyager.json) |
+| Voyager Battles | 309314 | [309314-voyager-battles.json](./309314-voyager-battles.json) |
 | Voyager I: Sabotage of the Robot Ship | 24848 | [24848-voyager-i-sabotage-of-the-robot-ship.json](./24848-voyager-i-sabotage-of-the-robot-ship.json) |
 | Voyager-19 | 301505 | [301505-voyager-19.json](./301505-voyager-19.json) |
 | Voyagers | 130215 | [130215-voyagers.json](./130215-voyagers.json) |
