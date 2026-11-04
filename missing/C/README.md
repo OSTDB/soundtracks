@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C ya laterrrr | 177817 | [177817-c-ya-laterrrr.json](./177817-c-ya-laterrrr.json) |
 | C-2048 | 41177 | [41177-c-2048.json](./41177-c-2048.json) |
 | C-4 | 165733 | [165733-c-4.json](./165733-c-4.json) |
+| C-Beams | 329295 | [329295-c-beams.json](./329295-c-beams.json) |
 | C-Dogs | 23572 | [23572-c-dogs.json](./23572-c-dogs.json) |
 | C-Dogs SDL | 182203 | [182203-c-dogs-sdl.json](./182203-c-dogs-sdl.json) |
 | C-evo | 10033 | [10033-c-evo.json](./10033-c-evo.json) |
@@ -6057,6 +6058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chastity Catastrophe | 192588 | [192588-chastity-catastrophe.json](./192588-chastity-catastrophe.json) |
 | Chat Arena | 115424 | [115424-chat-arena.json](./115424-chat-arena.json) |
 | Chat Guess Games | 280857 | [280857-chat-guess-games.json](./280857-chat-guess-games.json) |
+| Chat is Real | 329453 | [329453-chat-is-real.json](./329453-chat-is-real.json) |
 | Chat Noir | 319438 | [319438-chat-noir.json](./319438-chat-noir.json) |
 | Chat Ragdoll Racing | 332288 | [332288-chat-ragdoll-racing.json](./332288-chat-ragdoll-racing.json) |
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
@@ -7264,6 +7266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chipmatic | 355037 | [355037-chipmatic.json](./355037-chipmatic.json) |
 | Chipmonk! | 114947 | [114947-chipmonk.json](./114947-chipmonk.json) |
 | Chipmunk's Adventures | 139712 | [139712-chipmunks-adventures.json](./139712-chipmunks-adventures.json) |
+| Chipped | 329313 | [329313-chipped.json](./329313-chipped.json) |
 | Chipper & Sons Lumber Co. | 59984 | [59984-chipper-and-sons-lumber-co.json](./59984-chipper-and-sons-lumber-co.json) |
 | Chipper and Sons Lumber Co. Deluxe | 411095 | [411095-chipper-and-sons-lumber-co-deluxe.json](./411095-chipper-and-sons-lumber-co-deluxe.json) |
 | Chippy | 117217 | [117217-chippy.json](./117217-chippy.json) |
@@ -16811,6 +16814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Brigade 2: Reloaded | 223144 | [223144-crisis-brigade-2-reloaded.json](./223144-crisis-brigade-2-reloaded.json) |
 | Crisis Bullet | 296446 | [296446-crisis-bullet.json](./296446-crisis-bullet.json) |
 | Crisis City | 43784 | [43784-crisis-city.json](./43784-crisis-city.json) |
+| Crisis Command | 329301 | [329301-crisis-command.json](./329301-crisis-command.json) |
 | Crisis Control | 263072 | [263072-crisis-control.json](./263072-crisis-control.json) |
 | Crisis Core: Final Fantasy VII - Collector's Edition | 141504 | [141504-crisis-core-final-fantasy-vii-collectors-edition.json](./141504-crisis-core-final-fantasy-vii-collectors-edition.json) |
 | Crisis Core: Final Fantasy VII - Reunion | 205201 | [205201-crisis-core-final-fantasy-vii-reunion.json](./205201-crisis-core-final-fantasy-vii-reunion.json) |
