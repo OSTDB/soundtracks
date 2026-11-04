@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Floor!! | 202658 | [202658-panic-floor.json](./202658-panic-floor.json) |
 | Panic in Nakayoshi World | 42374 | [42374-panic-in-nakayoshi-world.json](./42374-panic-in-nakayoshi-world.json) |
 | Panic in Puzzle World | 358035 | [358035-panic-in-puzzle-world.json](./358035-panic-in-puzzle-world.json) |
+| Panic In Store! | 305692 | [305692-panic-in-store.json](./305692-panic-in-store.json) |
 | Panic in the Mushroom Kingdom | 268108 | [268108-panic-in-the-mushroom-kingdom.json](./268108-panic-in-the-mushroom-kingdom.json) |
 | Panic in the Park | 69251 | [69251-panic-in-the-park.json](./69251-panic-in-the-park.json) |
 | Panic in the Woods | 315508 | [315508-panic-in-the-woods.json](./315508-panic-in-the-woods.json) |
@@ -2807,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path Ball | 341590 | [341590-path-ball.json](./341590-path-ball.json) |
 | Path Builder | 318244 | [318244-path-builder.json](./318244-path-builder.json) |
 | Path Defenders | 420910 | [420910-path-defenders.json](./420910-path-defenders.json) |
+| Path for the Seeker | 305695 | [305695-path-for-the-seeker.json](./305695-path-for-the-seeker.json) |
 | Path of Achra | 222738 | [222738-path-of-achra.json](./222738-path-of-achra.json) |
 | Path of Adventure | 126174 | [126174-path-of-adventure.json](./126174-path-of-adventure.json) |
 | Path of Ambition: The Sun Rise | 295375 | [295375-path-of-ambition-the-sun-rise.json](./295375-path-of-ambition-the-sun-rise.json) |
