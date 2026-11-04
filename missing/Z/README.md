@@ -1527,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Defense: Commando Edition | 277914 | [277914-zombie-defense-commando-edition.json](./277914-zombie-defense-commando-edition.json) |
 | Zombie Defense: Definitive Edition | 275047 | [275047-zombie-defense-definitive-edition.json](./275047-zombie-defense-definitive-edition.json) |
 | Zombie Defense: Emerald Edition | 400206 | [400206-zombie-defense-emerald-edition.json](./400206-zombie-defense-emerald-edition.json) |
+| Zombie Defense: Fruity Edition | 320672 | [320672-zombie-defense-fruity-edition.json](./320672-zombie-defense-fruity-edition.json) |
 | Zombie Defense: Jungle Edition | 371432 | [371432-zombie-defense-jungle-edition.json](./371432-zombie-defense-jungle-edition.json) |
 | Zombie Defense: Perfect Cut Edition | 284932 | [284932-zombie-defense-perfect-cut-edition.json](./284932-zombie-defense-perfect-cut-edition.json) |
 | Zombie Defense: Pew Pew Edition | 306518 | [306518-zombie-defense-pew-pew-edition.json](./306518-zombie-defense-pew-pew-edition.json) |
