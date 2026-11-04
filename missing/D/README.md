@@ -4131,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deal To My Heart | 299499 | [299499-deal-to-my-heart.json](./299499-deal-to-my-heart.json) |
 | Deal With Nyarlathotep | 370409 | [370409-deal-with-nyarlathotep.json](./370409-deal-with-nyarlathotep.json) |
 | Deal With the Devil Chapter: 2 - From Tuonela to Hell | 350487 | [350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json](./350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json) |
+| Deal With The Devil: Chapter 1 - Journey to Tuonela | 333859 | [333859-deal-with-the-devil-chapter-1-journey-to-tuonela.json](./333859-deal-with-the-devil-chapter-1-journey-to-tuonela.json) |
 | Dealer's Choice | 350175 | [350175-dealers-choice.json](./350175-dealers-choice.json) |
 | Dealer's Choice Collection | 73513 | [73513-dealers-choice-collection.json](./73513-dealers-choice-collection.json) |
 | Dealer's Dice | 410091 | [410091-dealers-dice.json](./410091-dealers-dice.json) |
@@ -4866,6 +4867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decks & Daggers | 149809 | [149809-decks-and-daggers.json](./149809-decks-and-daggers.json) |
 | Decks & Dungeons | 149574 | [149574-decks-and-dungeons.json](./149574-decks-and-dungeons.json) |
 | Decks Against Destiny | 215543 | [215543-decks-against-destiny.json](./215543-decks-against-destiny.json) |
+| Decks of Dexterity | 333824 | [333824-decks-of-dexterity.json](./333824-decks-of-dexterity.json) |
 | Decks of Power | 235842 | [235842-decks-of-power.json](./235842-decks-of-power.json) |
 | Decks of the Damned | 282118 | [282118-decks-of-the-damned.json](./282118-decks-of-the-damned.json) |
 | Decksplash | 26943 | [26943-decksplash.json](./26943-decksplash.json) |
@@ -7908,6 +7910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devoid of Shadows | 27370 | [27370-devoid-of-shadows.json](./27370-devoid-of-shadows.json) |
 | Devoid Prototype | 263892 | [263892-devoid-prototype.json](./263892-devoid-prototype.json) |
 | Devolution: Maken no Ou to Shimobe-tachi | 220329 | [220329-devolution-maken-no-ou-to-shimobe-tachi.json](./220329-devolution-maken-no-ou-to-shimobe-tachi.json) |
+| Devolve Online | 333841 | [333841-devolve-online.json](./333841-devolve-online.json) |
 | Devolver Bootleg | 119315 | [119315-devolver-bootleg.json](./119315-devolver-bootleg.json) |
 | Devolver Tumble Time | 152205 | [152205-devolver-tumble-time.json](./152205-devolver-tumble-time.json) |
 | Devolverland Expo | 135770 | [135770-devolverland-expo.json](./135770-devolverland-expo.json) |
@@ -11441,10 +11444,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Exit Music: Redux | 201845 | [201845-doki-doki-exit-music-redux.json](./201845-doki-doki-exit-music-redux.json) |
 | Doki Doki Fiendish | 332852 | [332852-doki-doki-fiendish.json](./332852-doki-doki-fiendish.json) |
 | Doki Doki First Love Club! | 153950 | [153950-doki-doki-first-love-club.json](./153950-doki-doki-first-love-club.json) |
+| Doki Doki Fleeting Feelings | 333842 | [333842-doki-doki-fleeting-feelings.json](./333842-doki-doki-fleeting-feelings.json) |
 | Doki Doki Grappling Hook Yuri: The Origin Arc | 334269 | [334269-doki-doki-grappling-hook-yuri-the-origin-arc.json](./334269-doki-doki-grappling-hook-yuri-the-origin-arc.json) |
 | Doki Doki Gravity Dive | 163863 | [163863-doki-doki-gravity-dive.json](./163863-doki-doki-gravity-dive.json) |
 | Doki Doki Happy Thoughts | 334821 | [334821-doki-doki-happy-thoughts.json](./334821-doki-doki-happy-thoughts.json) |
 | Doki Doki House | 207712 | [207712-doki-doki-house.json](./207712-doki-doki-house.json) |
+| Doki Doki Hypnopompic | 333831 | [333831-doki-doki-hypnopompic.json](./333831-doki-doki-hypnopompic.json) |
 | Doki Doki Indian Man Time | 333919 | [333919-doki-doki-indian-man-time.json](./333919-doki-doki-indian-man-time.json) |
 | Doki Doki Just Us | 336271 | [336271-doki-doki-just-us.json](./336271-doki-doki-just-us.json) |
 | Doki Doki Literature Club Plus!: Premium Edition | 166194 | [166194-doki-doki-literature-club-plus-premium-edition.json](./166194-doki-doki-literature-club-plus-premium-edition.json) |
@@ -11456,6 +11461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Loser MC | 334271 | [334271-doki-doki-loser-mc.json](./334271-doki-doki-loser-mc.json) |
 | Doki Doki Love and Literature | 336270 | [336270-doki-doki-love-and-literature.json](./336270-doki-doki-love-and-literature.json) |
 | Doki Doki Malignancy | 333923 | [333923-doki-doki-malignancy.json](./333923-doki-doki-malignancy.json) |
+| Doki Doki Memories of Nothing | 333832 | [333832-doki-doki-memories-of-nothing.json](./333832-doki-doki-memories-of-nothing.json) |
 | Doki Doki Metal Club | 256956 | [256956-doki-doki-metal-club.json](./256956-doki-doki-metal-club.json) |
 | Doki Doki Nightmare | 333927 | [333927-doki-doki-nightmare.json](./333927-doki-doki-nightmare.json) |
 | Doki Doki No Happiness | 336060 | [336060-doki-doki-no-happiness.json](./336060-doki-doki-no-happiness.json) |
@@ -11472,6 +11478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Sayori Date! | 332855 | [332855-doki-doki-sayori-date.json](./332855-doki-doki-sayori-date.json) |
 | Doki Doki Silver & Emerald | 334693 | [334693-doki-doki-silver-and-emerald.json](./334693-doki-doki-silver-and-emerald.json) |
 | Doki Doki Space | 334268 | [334268-doki-doki-space.json](./334268-doki-doki-space.json) |
+| Doki Doki Starry-Eyed | 333843 | [333843-doki-doki-starry-eyed.json](./333843-doki-doki-starry-eyed.json) |
 | Doki Doki Storm | 288984 | [288984-doki-doki-storm.json](./288984-doki-doki-storm.json) |
 | Doki Doki SummerTime | 165141 | [165141-doki-doki-summertime.json](./165141-doki-doki-summertime.json) |
 | Doki Doki Sweet Dreams | 332858 | [332858-doki-doki-sweet-dreams.json](./332858-doki-doki-sweet-dreams.json) |
