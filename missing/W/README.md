@@ -6838,6 +6838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wǒmen de Dàxué | 120600 | [120600-women-de-daxue.json](./120600-women-de-daxue.json) |
 | WoMen in Science | 120568 | [120568-women-in-science.json](./120568-women-in-science.json) |
 | Women Rule! A Reverse World Romance | 388533 | [388533-women-rule-a-reverse-world-romance.json](./388533-women-rule-a-reverse-world-romance.json) |
+| Women's Dresses | 322485 | [322485-womens-dresses.json](./322485-womens-dresses.json) |
 | Women's Murder Club: A Darker Shade of Grey | 64712 | [64712-womens-murder-club-a-darker-shade-of-grey.json](./64712-womens-murder-club-a-darker-shade-of-grey.json) |
 | Women's Murder Club: Death in Scarlet | 51404 | [51404-womens-murder-club-death-in-scarlet.json](./51404-womens-murder-club-death-in-scarlet.json) |
 | Women's Murder Club: Little Black Lies | 135250 | [135250-womens-murder-club-little-black-lies.json](./135250-womens-murder-club-little-black-lies.json) |
@@ -9178,6 +9179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WyndBlast | 234752 | [234752-wyndblast.json](./234752-wyndblast.json) |
 | Wyprawa po zlote runo | 318490 | [318490-wyprawa-po-zlote-runo.json](./318490-wyprawa-po-zlote-runo.json) |
 | Wyrd Gun | 253488 | [253488-wyrd-gun.json](./253488-wyrd-gun.json) |
+| Wyrd Waters | 322464 | [322464-wyrd-waters.json](./322464-wyrd-waters.json) |
 | Wyrd World | 360571 | [360571-wyrd-world.json](./360571-wyrd-world.json) |
 | Wyrdbonds | 365841 | [365841-wyrdbonds.json](./365841-wyrdbonds.json) |
 | Wyrdsong | 214419 | [214419-wyrdsong.json](./214419-wyrdsong.json) |
