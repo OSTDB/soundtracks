@@ -5486,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlanders | 82346 | [82346-overlanders.json](./82346-overlanders.json) |
 | Overlapped | 192318 | [192318-overlapped.json](./192318-overlapped.json) |
 | Overlapping World | 284342 | [284342-overlapping-world.json](./284342-overlapping-world.json) |
+| Overlay | 309299 | [309299-overlay.json](./309299-overlay.json) |
 | Overlewd | 253343 | [253343-overlewd.json](./253343-overlewd.json) |
 | Overlight | 62971 | [62971-overlight.json](./62971-overlight.json) |
 | Overload | 33363 | [33363-overload.json](./33363-overload.json) |
