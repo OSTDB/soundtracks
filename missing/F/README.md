@@ -3910,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fester Mudd: Curse of the Gold - Episode 1 | 7726 | [7726-fester-mudd-curse-of-the-gold-episode-1.json](./7726-fester-mudd-curse-of-the-gold-episode-1.json) |
 | Fester's Quest | 5343 | [5343-festers-quest.json](./5343-festers-quest.json) |
 | Festered | 331200 | [331200-festered.json](./331200-festered.json) |
+| Festiba+ | 316876 | [316876-festiba.json](./316876-festiba.json) |
 | Festival | 201493 | [201493-festival.json](./201493-festival.json) |
 | Festival Days Sim Date | 198243 | [198243-festival-days-sim-date.json](./198243-festival-days-sim-date.json) |
 | Festival Fever | 320032 | [320032-festival-fever.json](./320032-festival-fever.json) |
@@ -4811,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IV | 399 | [399-final-fantasy-iv.json](./399-final-fantasy-iv.json) |
 | Final Fantasy IV Advance | 406 | [406-final-fantasy-iv-advance.json](./406-final-fantasy-iv-advance.json) |
 | Final Fantasy IV Namingway Edition | 379337 | [379337-final-fantasy-iv-namingway-edition.json](./379337-final-fantasy-iv-namingway-edition.json) |
+| Final Fantasy IV: Daughter of Darkness and Light | 316531 | [316531-final-fantasy-iv-daughter-of-darkness-and-light.json](./316531-final-fantasy-iv-daughter-of-darkness-and-light.json) |
 | Final Fantasy IV: Interlude | 131995 | [131995-final-fantasy-iv-interlude.json](./131995-final-fantasy-iv-interlude.json) |
 | Final Fantasy IV: The After Years | 146022 | [146022-final-fantasy-iv-the-after-years.json](./146022-final-fantasy-iv-the-after-years.json) |
 | Final Fantasy IV: The After Years | 388 | [388-final-fantasy-iv-the-after-years.json](./388-final-fantasy-iv-the-after-years.json) |
@@ -6120,6 +6122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Steps with the Mr. Men | 97797 | [97797-first-steps-with-the-mr-men.json](./97797-first-steps-with-the-mr-men.json) |
 | First Strike | 24942 | [24942-first-strike.json](./24942-first-strike.json) |
 | First Strike Final Hour | 29582 | [29582-first-strike-final-hour.json](./29582-first-strike-final-hour.json) |
+| First Strike Still Deadly | 316538 | [316538-first-strike-still-deadly.json](./316538-first-strike-still-deadly.json) |
 | First Strike: Final Hour - Deluxe Edition | 53039 | [53039-first-strike-final-hour-deluxe-edition.json](./53039-first-strike-final-hour-deluxe-edition.json) |
 | First Strike: Multiplayer | 264248 | [264248-first-strike-multiplayer.json](./264248-first-strike-multiplayer.json) |
 | First Summoner | 193831 | [193831-first-summoner.json](./193831-first-summoner.json) |
