@@ -4448,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Requiem | 249828 | [249828-death-requiem.json](./249828-death-requiem.json) |
 | Death ring | 282006 | [282006-death-ring.json](./282006-death-ring.json) |
 | Death Ring | 199259 | [199259-death-ring.json](./199259-death-ring.json) |
+| Death Ring: Second Impact | 345770 | [345770-death-ring-second-impact.json](./345770-death-ring-second-impact.json) |
 | Death Rings of Jupiter | 55788 | [55788-death-rings-of-jupiter.json](./55788-death-rings-of-jupiter.json) |
 | Death Road | 237264 | [237264-death-road.json](./237264-death-road.json) |
 | Death Road to Canada | 21634 | [21634-death-road-to-canada.json](./21634-death-road-to-canada.json) |
@@ -4665,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debris | 151854 | [151854-debris.json](./151854-debris.json) |
 | Debris | 372431 | [372431-debris.json](./372431-debris.json) |
 | Debris | 52017 | [52017-debris.json](./52017-debris.json) |
+| Debris 2x1 Hentai | 345782 | [345782-debris-2x1-hentai.json](./345782-debris-2x1-hentai.json) |
 | Debris II | 151855 | [151855-debris-ii.json](./151855-debris-ii.json) |
 | Debris Infinity | 76331 | [76331-debris-infinity.json](./76331-debris-infinity.json) |
 | Debris Zone | 409355 | [409355-debris-zone.json](./409355-debris-zone.json) |
@@ -13510,6 +13512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Ride | 308445 | [308445-downtown-ride.json](./308445-downtown-ride.json) |
 | Downtown River City Baseball Story: Play Ball, Kunio! | 38277 | [38277-downtown-river-city-baseball-story-play-ball-kunio.json](./38277-downtown-river-city-baseball-story-play-ball-kunio.json) |
 | Downtown Run | 242783 | [242783-downtown-run.json](./242783-downtown-run.json) |
+| Downtown Shuffle | 345789 | [345789-downtown-shuffle.json](./345789-downtown-shuffle.json) |
 | Downtown Smash Dodgeball! | 61959 | [61959-downtown-smash-dodgeball.json](./61959-downtown-smash-dodgeball.json) |
 | Downtown Special Kunio-kun's Historical Period Drama! | 48631 | [48631-downtown-special-kunio-kuns-historical-period-drama.json](./48631-downtown-special-kunio-kuns-historical-period-drama.json) |
 | Downtown Special: Kunio-kun no Jidaigeki Da yo Zenin Shuugou! | 191663 | [191663-downtown-special-kunio-kun-no-jidaigeki-da-yo-zenin-shuugou.json](./191663-downtown-special-kunio-kun-no-jidaigeki-da-yo-zenin-shuugou.json) |
