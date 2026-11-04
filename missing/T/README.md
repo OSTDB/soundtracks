@@ -7580,6 +7580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Tethria | 373596 | [373596-the-curse-of-tethria.json](./373596-the-curse-of-tethria.json) |
 | The Curse of the Dead | 129668 | [129668-the-curse-of-the-dead.json](./129668-the-curse-of-the-dead.json) |
 | The Curse of the Egyptian Pyramid: Remaster Edition | 278698 | [278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json](./278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json) |
+| The Curse of the Howling Woods | 332321 | [332321-the-curse-of-the-howling-woods.json](./332321-the-curse-of-the-howling-woods.json) |
 | The Curse of the Werewolves | 17705 | [17705-the-curse-of-the-werewolves.json](./17705-the-curse-of-the-werewolves.json) |
 | The Curse of The Wise Tree | 230463 | [230463-the-curse-of-the-wise-tree.json](./230463-the-curse-of-the-wise-tree.json) |
 | The Curse of Town | 337050 | [337050-the-curse-of-town.json](./337050-the-curse-of-town.json) |
@@ -8843,6 +8844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fairly OddParents Wishology: Chapter 3 - The Return of the Chosen One! | 395749 | [395749-the-fairly-oddparents-wishology-chapter-3-the-return-of-the-chosen-one.json](./395749-the-fairly-oddparents-wishology-chapter-3-the-return-of-the-chosen-one.json) |
 | The Fairly OddParents: Big Superhero Wish | 321804 | [321804-the-fairly-oddparents-big-superhero-wish.json](./321804-the-fairly-oddparents-big-superhero-wish.json) |
 | The Fairly OddParents: Breakin' da Rules | 243198 | [243198-the-fairly-oddparents-breakin-da-rules.json](./243198-the-fairly-oddparents-breakin-da-rules.json) |
+| The Fairly OddParents: Breakin' da Rules | 332195 | [332195-the-fairly-oddparents-breakin-da-rules.json](./332195-the-fairly-oddparents-breakin-da-rules.json) |
 | The Fairly OddParents: Breakin' da Rules | 3911 | [3911-the-fairly-oddparents-breakin-da-rules.json](./3911-the-fairly-oddparents-breakin-da-rules.json) |
 | The Fairly OddParents: Clash With the Anti-World | 18256 | [18256-the-fairly-oddparents-clash-with-the-anti-world.json](./18256-the-fairly-oddparents-clash-with-the-anti-world.json) |
 | The Fairly OddParents: Enter the Cleft | 18257 | [18257-the-fairly-oddparents-enter-the-cleft.json](./18257-the-fairly-oddparents-enter-the-cleft.json) |
@@ -9200,6 +9202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The first titans | 161398 | [161398-the-first-titans.json](./161398-the-first-titans.json) |
 | The First Track | 114056 | [114056-the-first-track.json](./114056-the-first-track.json) |
 | The First Tree | 20909 | [20909-the-first-tree.json](./20909-the-first-tree.json) |
+| The First Valentine | 332165 | [332165-the-first-valentine.json](./332165-the-first-valentine.json) |
 | The Fish | 213777 | [213777-the-fish.json](./213777-the-fish.json) |
 | The Fish and the Furious | 132826 | [132826-the-fish-and-the-furious.json](./132826-the-fish-and-the-furious.json) |
 | The Fish Files | 50037 | [50037-the-fish-files.json](./50037-the-fish-files.json) |
@@ -18930,6 +18933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There You Go | 57527 | [57527-there-you-go.json](./57527-there-you-go.json) |
 | There's a Bear Outside | 177358 | [177358-theres-a-bear-outside.json](./177358-theres-a-bear-outside.json) |
 | There's a Butcher Around | 118016 | [118016-theres-a-butcher-around.json](./118016-theres-a-butcher-around.json) |
+| There's a Gun in the Office | 332168 | [332168-theres-a-gun-in-the-office.json](./332168-theres-a-gun-in-the-office.json) |
 | There's a Gun in the Office + Fig. bundle | 339071 | [339071-theres-a-gun-in-the-office-fig-bundle.json](./339071-theres-a-gun-in-the-office-fig-bundle.json) |
 | There's a Rikishi in my House | 199613 | [199613-theres-a-rikishi-in-my-house.json](./199613-theres-a-rikishi-in-my-house.json) |
 | There's Always a Madman: Bring the Thunder | 322680 | [322680-theres-always-a-madman-bring-the-thunder.json](./322680-theres-always-a-madman-bring-the-thunder.json) |
@@ -25880,6 +25884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Command | 370908 | [370908-tower-command.json](./370908-tower-command.json) |
 | Tower Crusher! | 223877 | [223877-tower-crusher.json](./223877-tower-crusher.json) |
 | Tower Dash | 251508 | [251508-tower-dash.json](./251508-tower-dash.json) |
+| Tower Deckfense | 332189 | [332189-tower-deckfense.json](./332189-tower-deckfense.json) |
 | Tower Defence | 80216 | [80216-tower-defence.json](./80216-tower-defence.json) |
 | Tower Defence Engineer | 323248 | [323248-tower-defence-engineer.json](./323248-tower-defence-engineer.json) |
 | Tower Defender: Hero Wars | 207270 | [207270-tower-defender-hero-wars.json](./207270-tower-defender-hero-wars.json) |
@@ -32123,6 +32128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type Drivers | 373895 | [373895-type-drivers.json](./373895-type-drivers.json) |
 | Type Fighter | 107488 | [107488-type-fighter.json](./107488-type-fighter.json) |
 | Type Galaxy | 310065 | [310065-type-galaxy.json](./310065-type-galaxy.json) |
+| Type Help | 332172 | [332172-type-help.json](./332172-type-help.json) |
 | Type Her to Sleep | 366032 | [366032-type-her-to-sleep.json](./366032-type-her-to-sleep.json) |
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
 | Type King | 250477 | [250477-type-king.json](./250477-type-king.json) |
