@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back Alley Chronicle: Episode Saeki | 397092 | [397092-back-alley-chronicle-episode-saeki.json](./397092-back-alley-chronicle-episode-saeki.json) |
 | Back Alley Darts | 320783 | [320783-back-alley-darts.json](./320783-back-alley-darts.json) |
 | Back Alley Inn | 188905 | [188905-back-alley-inn.json](./188905-back-alley-inn.json) |
+| Back Alley Tales | 314181 | [314181-back-alley-tales.json](./314181-back-alley-tales.json) |
 | Back and Back to Hell | 187189 | [187189-back-and-back-to-hell.json](./187189-back-and-back-to-hell.json) |
 | Back at the Barnyard: Slop Bucket Games | 7994 | [7994-back-at-the-barnyard-slop-bucket-games.json](./7994-back-at-the-barnyard-slop-bucket-games.json) |
 | Back Door Man | 57997 | [57997-back-door-man.json](./57997-back-door-man.json) |
@@ -942,7 +943,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9294,6 +9294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Heroes: Samurai Rising | 216682 | [216682-blades-of-heroes-samurai-rising.json](./216682-blades-of-heroes-samurai-rising.json) |
 | Blades of Light & Shadow | 313744 | [313744-blades-of-light-and-shadow.json](./313744-blades-of-light-and-shadow.json) |
 | Blades of Light & Shadow II | 313745 | [313745-blades-of-light-and-shadow-ii.json](./313745-blades-of-light-and-shadow-ii.json) |
+| Blades of Light & Shadow III | 314184 | [314184-blades-of-light-and-shadow-iii.json](./314184-blades-of-light-and-shadow-iii.json) |
 | Blades of Mirage | 327089 | [327089-blades-of-mirage.json](./327089-blades-of-mirage.json) |
 | Blades of Orterra | 89665 | [89665-blades-of-orterra.json](./89665-blades-of-orterra.json) |
 | Blades of Passage | 297482 | [297482-blades-of-passage.json](./297482-blades-of-passage.json) |
@@ -10131,6 +10132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Dude Deluxe | 338247 | [338247-block-dude-deluxe.json](./338247-block-dude-deluxe.json) |
 | Block Dungeon | 151305 | [151305-block-dungeon.json](./151305-block-dungeon.json) |
 | Block Earth | 98860 | [98860-block-earth.json](./98860-block-earth.json) |
+| Block Factory | 314542 | [314542-block-factory.json](./314542-block-factory.json) |
 | Block Factory | 79670 | [79670-block-factory.json](./79670-block-factory.json) |
 | Block Faker | 128813 | [128813-block-faker.json](./128813-block-faker.json) |
 | Block Fall Simulator 2019 | 123887 | [123887-block-fall-simulator-2019.json](./123887-block-fall-simulator-2019.json) |
