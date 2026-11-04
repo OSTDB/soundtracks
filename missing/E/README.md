@@ -2319,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementers | 304888 | [304888-elementers.json](./304888-elementers.json) |
 | ElementForger | 220751 | [220751-elementforger.json](./220751-elementforger.json) |
 | Elementia | 133636 | [133636-elementia.json](./133636-elementia.json) |
+| Elementia | 312775 | [312775-elementia.json](./312775-elementia.json) |
 | Elementico | 177789 | [177789-elementico.json](./177789-elementico.json) |
 | Elementis | 138737 | [138737-elementis.json](./138737-elementis.json) |
 | Elementis TD | 411721 | [411721-elementis-td.json](./411721-elementis-td.json) |
@@ -2722,6 +2723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elva the Eco Dragon | 187503 | [187503-elva-the-eco-dragon.json](./187503-elva-the-eco-dragon.json) |
 | Elvandia Story | 43276 | [43276-elvandia-story.json](./43276-elvandia-story.json) |
 | Elvarn | 362585 | [362585-elvarn.json](./362585-elvarn.json) |
+| Elve | 312795 | [312795-elve.json](./312795-elve.json) |
 | Elven Assassin | 31997 | [31997-elven-assassin.json](./31997-elven-assassin.json) |
 | Elven Assassin: Rise of Darkness | 274594 | [274594-elven-assassin-rise-of-darkness.json](./274594-elven-assassin-rise-of-darkness.json) |
 | Elven Battlegrounds | 235457 | [235457-elven-battlegrounds.json](./235457-elven-battlegrounds.json) |
@@ -5793,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Battlefield | 126600 | [126600-eternal-battlefield.json](./126600-eternal-battlefield.json) |
 | Eternal Blade | 412325 | [412325-eternal-blade.json](./412325-eternal-blade.json) |
 | Eternal Blood | 128304 | [128304-eternal-blood.json](./128304-eternal-blood.json) |
+| Eternal Bonds | 312799 | [312799-eternal-bonds.json](./312799-eternal-bonds.json) |
 | Eternal Burden | 291892 | [291892-eternal-burden.json](./291892-eternal-burden.json) |
 | Eternal Card Game | 31198 | [31198-eternal-card-game.json](./31198-eternal-card-game.json) |
 | Eternal Carnival | 390284 | [390284-eternal-carnival.json](./390284-eternal-carnival.json) |
