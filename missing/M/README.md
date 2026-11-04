@@ -4702,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mashin Eiyuuden Wataru 2: Seikaizan Pinball! | 284452 | [284452-mashin-eiyuuden-wataru-2-seikaizan-pinball.json](./284452-mashin-eiyuuden-wataru-2-seikaizan-pinball.json) |
 | Mashin Eiyuuden Wataru 2: Shinsei Ryuujin-maru Sanjou! | 284454 | [284454-mashin-eiyuuden-wataru-2-shinsei-ryuujin-maru-sanjou.json](./284454-mashin-eiyuuden-wataru-2-shinsei-ryuujin-maru-sanjou.json) |
 | Mashin Eiyuuden Wataru 2: Totsugeki! New Ryuujin-maru | 284456 | [284456-mashin-eiyuuden-wataru-2-totsugeki-new-ryuujin-maru.json](./284456-mashin-eiyuuden-wataru-2-totsugeki-new-ryuujin-maru.json) |
+| Mashina | 329290 | [329290-mashina.json](./329290-mashina.json) |
 | Mashinky | 55590 | [55590-mashinky.json](./55590-mashinky.json) |
 | Mashiro Witch: Midnight Marchen | 287007 | [287007-mashiro-witch-midnight-marchen.json](./287007-mashiro-witch-midnight-marchen.json) |
 | Mashiroiro Symphony HD: Love is Pure White | 292527 | [292527-mashiroiro-symphony-hd-love-is-pure-white.json](./292527-mashiroiro-symphony-hd-love-is-pure-white.json) |
@@ -7555,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X6: Recompiled | 409014 | [409014-mega-man-x6-recompiled.json](./409014-mega-man-x6-recompiled.json) |
 | Mega Man X7 | 1747 | [1747-mega-man-x7.json](./1747-mega-man-x7.json) |
 | Mega Man X8 | 1748 | [1748-mega-man-x8.json](./1748-mega-man-x8.json) |
+| Mega Man X8 Demake: Axl Mod | 329292 | [329292-mega-man-x8-demake-axl-mod.json](./329292-mega-man-x8-demake-axl-mod.json) |
 | Mega Man Xtreme 2 | 1750 | [1750-mega-man-xtreme-2.json](./1750-mega-man-xtreme-2.json) |
 | Mega Man Y+1: Operation X.M.A.S. | 279729 | [279729-mega-man-y-1-operation-x-m-a-s.json](./279729-mega-man-y-1-operation-x-m-a-s.json) |
 | Mega Man Zero | 1775 | [1775-mega-man-zero.json](./1775-mega-man-zero.json) |
