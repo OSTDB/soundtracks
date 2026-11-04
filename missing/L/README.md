@@ -7497,6 +7497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lore: Aftermath | 69274 | [69274-lore-aftermath.json](./69274-lore-aftermath.json) |
 | Lore: Curse of the Elemental | 244770 | [244770-lore-curse-of-the-elemental.json](./244770-lore-curse-of-the-elemental.json) |
 | Lore: The Hunt | 144066 | [144066-lore-the-hunt.json](./144066-lore-the-hunt.json) |
+| Lored | 329455 | [329455-lored.json](./329455-lored.json) |
 | Loree 3D | 412950 | [412950-loree-3d.json](./412950-loree-3d.json) |
 | Loreen's Purgatory | 381668 | [381668-loreens-purgatory.json](./381668-loreens-purgatory.json) |
 | Lorelai | 110875 | [110875-lorelai.json](./110875-lorelai.json) |
