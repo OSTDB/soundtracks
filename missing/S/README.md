@@ -2221,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savant: Ascent - Anniversary Edition | 245867 | [245867-savant-ascent-anniversary-edition.json](./245867-savant-ascent-anniversary-edition.json) |
 | Savant: Ascent Remix | 261364 | [261364-savant-ascent-remix.json](./261364-savant-ascent-remix.json) |
 | Savara | 317700 | [317700-savara.json](./317700-savara.json) |
+| Save | 309827 | [309827-save.json](./309827-save.json) |
 | Save 2020 | 156043 | [156043-save-2020.json](./156043-save-2020.json) |
 | Save 2B Young Man | 367009 | [367009-save-2b-young-man.json](./367009-save-2b-young-man.json) |
 | Save Aisha | 169842 | [169842-save-aisha.json](./169842-save-aisha.json) |
@@ -2413,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savior Fantasy | 208091 | [208091-savior-fantasy.json](./208091-savior-fantasy.json) |
 | Savior of Light | 189961 | [189961-savior-of-light.json](./189961-savior-of-light.json) |
 | Savior of the Abyss | 165560 | [165560-savior-of-the-abyss.json](./165560-savior-of-the-abyss.json) |
+| Savior Quest | 309842 | [309842-savior-quest.json](./309842-savior-quest.json) |
 | Savior Syndrome: The Crimson Sun | 377929 | [377929-savior-syndrome-the-crimson-sun.json](./377929-savior-syndrome-the-crimson-sun.json) |
 | Savior's Hand | 313022 | [313022-saviors-hand.json](./313022-saviors-hand.json) |
 | Saviorless | 25338 | [25338-saviorless.json](./25338-saviorless.json) |
@@ -9938,6 +9940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigma Star Saga DX | 375606 | [375606-sigma-star-saga-dx.json](./375606-sigma-star-saga-dx.json) |
 | Sigma Theory: Global Cold War - Brazil | 155089 | [155089-sigma-theory-global-cold-war-brazil.json](./155089-sigma-theory-global-cold-war-brazil.json) |
 | Sigma Theory: Global Cold War - Deluxe Edition | 124827 | [124827-sigma-theory-global-cold-war-deluxe-edition.json](./124827-sigma-theory-global-cold-war-deluxe-edition.json) |
+| Sigma War Notes | 309833 | [309833-sigma-war-notes.json](./309833-sigma-war-notes.json) |
 | Sigma-X | 256914 | [256914-sigma-x.json](./256914-sigma-x.json) |
 | Sigmatica | 276487 | [276487-sigmatica.json](./276487-sigmatica.json) |
 | Sigmund the Mouse | 184877 | [184877-sigmund-the-mouse.json](./184877-sigmund-the-mouse.json) |
@@ -18443,6 +18446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Scrimshaw, Part Two | 285550 | [285550-south-scrimshaw-part-two.json](./285550-south-scrimshaw-part-two.json) |
 | South Star River | 381286 | [381286-south-star-river.json](./381286-south-star-river.json) |
 | South Surfers Park | 96716 | [96716-south-surfers-park.json](./96716-south-surfers-park.json) |
+| South Words Hero | 309818 | [309818-south-words-hero.json](./309818-south-words-hero.json) |
 | Southbound | 391602 | [391602-southbound.json](./391602-southbound.json) |
 | Southern Belle | 10744 | [10744-southern-belle.json](./10744-southern-belle.json) |
 | Southern Command | 24796 | [24796-southern-command.json](./24796-southern-command.json) |
@@ -19011,7 +19015,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -35119,5 +35122,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syzygy: The Power of the Eclipse | 257535 | [257535-syzygy-the-power-of-the-eclipse.json](./257535-syzygy-the-power-of-the-eclipse.json) |
 | SZ2000 | 359684 | [359684-sz2000.json](./359684-sz2000.json) |
 | Szen | 114364 | [114364-szen.json](./114364-szen.json) |
+| Szikra | 309826 | [309826-szikra.json](./309826-szikra.json) |
 | sZone Online | 36250 | [36250-szone-online.json](./36250-szone-online.json) |
 | Szybowcowa '87 | 237050 | [237050-szybowcowa-87.json](./237050-szybowcowa-87.json) |
