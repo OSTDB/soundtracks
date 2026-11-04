@@ -2870,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tea Garden Simulator | 139647 | [139647-tea-garden-simulator.json](./139647-tea-garden-simulator.json) |
 | Tea House Simulator | 326338 | [326338-tea-house-simulator.json](./326338-tea-house-simulator.json) |
 | Tea Society of a Witch | 72664 | [72664-tea-society-of-a-witch.json](./72664-tea-society-of-a-witch.json) |
+| Tea Talk | 298198 | [298198-tea-talk.json](./298198-tea-talk.json) |
 | Tea Time | 195964 | [195964-tea-time.json](./195964-tea-time.json) |
 | Tea Time | 359406 | [359406-tea-time.json](./359406-tea-time.json) |
 | Tea Time | 58894 | [58894-tea-time.json](./58894-tea-time.json) |
@@ -4001,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Legend 2026 | 417283 | [417283-tennis-legend-2026.json](./417283-tennis-legend-2026.json) |
 | Tennis Life | 333532 | [333532-tennis-life.json](./333532-tennis-life.json) |
 | Tennis Manager 2021 | 148444 | [148444-tennis-manager-2021.json](./148444-tennis-manager-2021.json) |
+| Tennis Manager 2024 | 298223 | [298223-tennis-manager-2024.json](./298223-tennis-manager-2024.json) |
 | Tennis Manager 25 | 338259 | [338259-tennis-manager-25.json](./338259-tennis-manager-25.json) |
 | Tennis Manager 26 | 398827 | [398827-tennis-manager-26.json](./398827-tennis-manager-26.json) |
 | Tennis Manager Mobile | 234016 | [234016-tennis-manager-mobile.json](./234016-tennis-manager-mobile.json) |
@@ -26554,6 +26556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic Harvest | 393286 | [393286-toxic-harvest.json](./393286-toxic-harvest.json) |
 | Toxic Jump | 392636 | [392636-toxic-jump.json](./392636-toxic-jump.json) |
 | Toxic Mayhem: The Troma Project | 74009 | [74009-toxic-mayhem-the-troma-project.json](./74009-toxic-mayhem-the-troma-project.json) |
+| Toxic Place | 298203 | [298203-toxic-place.json](./298203-toxic-place.json) |
 | Toxic Plumbing | 81972 | [81972-toxic-plumbing.json](./81972-toxic-plumbing.json) |
 | Toxic Terror | 32430 | [32430-toxic-terror.json](./32430-toxic-terror.json) |
 | Toxic Terror: Episode 2 - The Lich's Lair | 170391 | [170391-toxic-terror-episode-2-the-lichs-lair.json](./170391-toxic-terror-episode-2-the-lichs-lair.json) |
@@ -32227,6 +32230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Against the Legion | 158509 | [158509-two-against-the-legion.json](./158509-two-against-the-legion.json) |
 | Two Apples | 367085 | [367085-two-apples.json](./367085-two-apples.json) |
 | Two Atmospheric Atrocities | 331685 | [331685-two-atmospheric-atrocities.json](./331685-two-atmospheric-atrocities.json) |
+| Two Bad Fellas | 298215 | [298215-two-bad-fellas.json](./298215-two-bad-fellas.json) |
 | Two Beasts Or Not To Beast! | 396674 | [396674-two-beasts-or-not-to-beast.json](./396674-two-beasts-or-not-to-beast.json) |
 | Two Bit Hero | 157498 | [157498-two-bit-hero.json](./157498-two-bit-hero.json) |
 | Two Bot's Journey | 56821 | [56821-two-bots-journey.json](./56821-two-bots-journey.json) |
