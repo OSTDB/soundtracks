@@ -8869,6 +8869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall: Zombie Survival | 365218 | [365218-the-fall-zombie-survival.json](./365218-the-fall-zombie-survival.json) |
 | The Fallen | 130104 | [130104-the-fallen.json](./130104-the-fallen.json) |
 | The Fallen | 184872 | [184872-the-fallen.json](./184872-the-fallen.json) |
+| The Fallen | 344260 | [344260-the-fallen.json](./344260-the-fallen.json) |
 | The Fallen Angels | 39581 | [39581-the-fallen-angels.json](./39581-the-fallen-angels.json) |
 | The Fallen Castle: Chapter 1 | 401924 | [401924-the-fallen-castle-chapter-1.json](./401924-the-fallen-castle-chapter-1.json) |
 | The Fallen Chronicler | 58099 | [58099-the-fallen-chronicler.json](./58099-the-fallen-chronicler.json) |
@@ -9272,6 +9273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flying Feathers | 247768 | [247768-the-flying-feathers.json](./247768-the-flying-feathers.json) |
 | The Flying Hamster | 42825 | [42825-the-flying-hamster.json](./42825-the-flying-hamster.json) |
 | The Flying Jet | 366223 | [366223-the-flying-jet.json](./366223-the-flying-jet.json) |
+| The Flying Ship | 344127 | [344127-the-flying-ship.json](./344127-the-flying-ship.json) |
 | The Flying Turtle Jewel Quest | 54871 | [54871-the-flying-turtle-jewel-quest.json](./54871-the-flying-turtle-jewel-quest.json) |
 | The FMV Bundle | 193763 | [193763-the-fmv-bundle.json](./193763-the-fmv-bundle.json) |
 | The FMV Collection 4 | 289414 | [289414-the-fmv-collection-4.json](./289414-the-fmv-collection-4.json) |
@@ -10513,6 +10515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt for the Red Cthulhu | 231571 | [231571-the-hunt-for-the-red-cthulhu.json](./231571-the-hunt-for-the-red-cthulhu.json) |
 | The Hunted | 215741 | [215741-the-hunted.json](./215741-the-hunted.json) |
 | The Hunted | 28786 | [28786-the-hunted.json](./28786-the-hunted.json) |
+| The Hunted | 344261 | [344261-the-hunted.json](./344261-the-hunted.json) |
 | The Hunted Witch | 252678 | [252678-the-hunted-witch.json](./252678-the-hunted-witch.json) |
 | The Hunter | 284260 | [284260-the-hunter.json](./284260-the-hunter.json) |
 | The Hunter 2012 | 50281 | [50281-the-hunter-2012.json](./50281-the-hunter-2012.json) |
@@ -10981,6 +10984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Juice of God's Future | 176387 | [176387-the-juice-of-gods-future.json](./176387-the-juice-of-gods-future.json) |
 | The Jump 2016 | 109997 | [109997-the-jump-2016.json](./109997-the-jump-2016.json) |
 | The jump guys | 285883 | [285883-the-jump-guys.json](./285883-the-jump-guys.json) |
+| The Jumping Apple | 344128 | [344128-the-jumping-apple.json](./344128-the-jumping-apple.json) |
 | The Jumping Bagel | 223150 | [223150-the-jumping-bagel.json](./223150-the-jumping-bagel.json) |
 | The Jumping Bagel: Turbo | 223152 | [223152-the-jumping-bagel-turbo.json](./223152-the-jumping-bagel-turbo.json) |
 | The Jumping Bird | 342155 | [342155-the-jumping-bird.json](./342155-the-jumping-bird.json) |
@@ -11040,6 +11044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Orange 3 | 373563 | [373563-the-jumping-orange-3.json](./373563-the-jumping-orange-3.json) |
 | The Jumping Pasta | 214012 | [214012-the-jumping-pasta.json](./214012-the-jumping-pasta.json) |
 | The Jumping Pasta: Turbo | 214011 | [214011-the-jumping-pasta-turbo.json](./214011-the-jumping-pasta-turbo.json) |
+| The Jumping Peach | 344122 | [344122-the-jumping-peach.json](./344122-the-jumping-peach.json) |
 | The Jumping Pizza | 202771 | [202771-the-jumping-pizza.json](./202771-the-jumping-pizza.json) |
 | The Jumping Pizza: Turbo | 210924 | [210924-the-jumping-pizza-turbo.json](./210924-the-jumping-pizza-turbo.json) |
 | The Jumping Pumpkin | 218555 | [218555-the-jumping-pumpkin.json](./218555-the-jumping-pumpkin.json) |
@@ -11064,6 +11069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Toast Tower | 328440 | [328440-the-jumping-toast-tower.json](./328440-the-jumping-toast-tower.json) |
 | The Jumping Tofu | 226087 | [226087-the-jumping-tofu.json](./226087-the-jumping-tofu.json) |
 | The Jumping Tofu: Turbo | 226088 | [226088-the-jumping-tofu-turbo.json](./226088-the-jumping-tofu-turbo.json) |
+| The Jumping Tomato Rush | 344129 | [344129-the-jumping-tomato-rush.json](./344129-the-jumping-tomato-rush.json) |
 | The Jumping Wrap | 221075 | [221075-the-jumping-wrap.json](./221075-the-jumping-wrap.json) |
 | The Jumping Wrap: Turbo | 221233 | [221233-the-jumping-wrap-turbo.json](./221233-the-jumping-wrap-turbo.json) |
 | The Jungle | 82395 | [82395-the-jungle.json](./82395-the-jungle.json) |
@@ -17967,6 +17973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wall: Medieval Heroes | 108731 | [108731-the-wall-medieval-heroes.json](./108731-the-wall-medieval-heroes.json) |
 | The Walls | 289952 | [289952-the-walls.json](./289952-the-walls.json) |
 | The Walls of Bratock | 14423 | [14423-the-walls-of-bratock.json](./14423-the-walls-of-bratock.json) |
+| The Walls of Jericho | 344120 | [344120-the-walls-of-jericho.json](./344120-the-walls-of-jericho.json) |
 | The Walls Still Stand | 310717 | [310717-the-walls-still-stand.json](./310717-the-walls-still-stand.json) |
 | The Wallway | 342790 | [342790-the-wallway.json](./342790-the-wallway.json) |
 | The Walsingham Files: Chapter 1 | 116120 | [116120-the-walsingham-files-chapter-1.json](./116120-the-walsingham-files-chapter-1.json) |
@@ -25832,6 +25839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Field | 302328 | [302328-tower-field.json](./302328-tower-field.json) |
 | Tower Fortress | 75968 | [75968-tower-fortress.json](./75968-tower-fortress.json) |
 | Tower FRA | 55985 | [55985-tower-fra.json](./55985-tower-fra.json) |
+| Tower Girls | 344125 | [344125-tower-girls.json](./344125-tower-girls.json) |
 | Tower Guy: Remastered | 177224 | [177224-tower-guy-remastered.json](./177224-tower-guy-remastered.json) |
 | Tower Hunter: Erza's Trial | 104186 | [104186-tower-hunter-erzas-trial.json](./104186-tower-hunter-erzas-trial.json) |
 | Tower in the Sky | 30843 | [30843-tower-in-the-sky.json](./30843-tower-in-the-sky.json) |
@@ -26541,6 +26549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade Sails | 200718 | [200718-trade-sails.json](./200718-trade-sails.json) |
 | Trade the Crash | 416028 | [416028-trade-the-crash.json](./416028-trade-the-crash.json) |
 | Trade Town | 114681 | [114681-trade-town.json](./114681-trade-town.json) |
+| Trade Tycoon Life Simulator | 344109 | [344109-trade-tycoon-life-simulator.json](./344109-trade-tycoon-life-simulator.json) |
 | Trader 2 | 94318 | [94318-trader-2.json](./94318-trader-2.json) |
 | Trader HD | 175085 | [175085-trader-hd.json](./175085-trader-hd.json) |
 | Trader Life Simulator | 143666 | [143666-trader-life-simulator.json](./143666-trader-life-simulator.json) |
@@ -28387,6 +28396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tralalero Tralala Slot Machine Casino Heaven | 367848 | [367848-tralalero-tralala-slot-machine-casino-heaven.json](./367848-tralalero-tralala-slot-machine-casino-heaven.json) |
 | Tralalero Tralala Wars | 351099 | [351099-tralalero-tralala-wars.json](./351099-tralalero-tralala-wars.json) |
 | Tralalero Tralala: Backrooms | 392343 | [392343-tralalero-tralala-backrooms.json](./392343-tralalero-tralala-backrooms.json) |
+| Tralalero Tralala: Battle Royale | 344133 | [344133-tralalero-tralala-battle-royale.json](./344133-tralalero-tralala-battle-royale.json) |
 | Tralalero Tralala: Escape Backrooms | 367977 | [367977-tralalero-tralala-escape-backrooms.json](./367977-tralalero-tralala-escape-backrooms.json) |
 | Tralalero Tralala: Survive the Night | 352385 | [352385-tralalero-tralala-survive-the-night.json](./352385-tralalero-tralala-survive-the-night.json) |
 | Tram | 413414 | [413414-tram.json](./413414-tram.json) |
