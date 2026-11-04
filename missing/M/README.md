@@ -2209,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainframe Escape | 417386 | [417386-mainframe-escape.json](./417386-mainframe-escape.json) |
 | Mainframe Mayhem | 271328 | [271328-mainframe-mayhem.json](./271328-mainframe-mayhem.json) |
 | Mainframe Men | 384147 | [384147-mainframe-men.json](./384147-mainframe-men.json) |
+| MainFrames | 313809 | [313809-mainframes.json](./313809-mainframes.json) |
 | MainGuns | 56478 | [56478-mainguns.json](./56478-mainguns.json) |
 | Mainichi | 144226 | [144226-mainichi.json](./144226-mainichi.json) |
 | Mainichi ga Ecchi | 356055 | [356055-mainichi-ga-ecchi.json](./356055-mainichi-ga-ecchi.json) |
