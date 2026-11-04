@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Knockdown 3 | 96722 | [96722-can-knockdown-3.json](./96722-can-knockdown-3.json) |
 | Can No One Hear Me? | 329591 | [329591-can-no-one-hear-me.json](./329591-can-no-one-hear-me.json) |
 | Can of Wormholes | 211936 | [211936-can-of-wormholes.json](./211936-can-of-wormholes.json) |
+| Can Shot | 305396 | [305396-can-shot.json](./305396-can-shot.json) |
 | Can Strike | 259727 | [259727-can-strike.json](./259727-can-strike.json) |
 | Can We Be Three? | 385271 | [385271-can-we-be-three.json](./385271-can-we-be-three.json) |
 | Can We Start Over? | 321777 | [321777-can-we-start-over.json](./321777-can-we-start-over.json) |
@@ -10947,6 +10948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codex Mortis | 380942 | [380942-codex-mortis.json](./380942-codex-mortis.json) |
 | Codex of Victory | 27802 | [27802-codex-of-victory.json](./27802-codex-of-victory.json) |
 | Codex Temondera: Lost Vision | 115340 | [115340-codex-temondera-lost-vision.json](./115340-codex-temondera-lost-vision.json) |
+| Codex: Eternal Eclipse | 305094 | [305094-codex-eternal-eclipse.json](./305094-codex-eternal-eclipse.json) |
 | Codex: Recall | 419171 | [419171-codex-recall.json](./419171-codex-recall.json) |
 | Codeyssey | 386080 | [386080-codeyssey.json](./386080-codeyssey.json) |
 | Coding Day | 302094 | [302094-coding-day.json](./302094-coding-day.json) |
@@ -11636,6 +11638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color SlayerS | 214500 | [214500-color-slayers.json](./214500-color-slayers.json) |
 | Color Slots | 190446 | [190446-color-slots.json](./190446-color-slots.json) |
 | Color Snake | 106752 | [106752-color-snake.json](./106752-color-snake.json) |
+| Color Snake | 305401 | [305401-color-snake.json](./305401-color-snake.json) |
 | Color Sol | 83159 | [83159-color-sol.json](./83159-color-sol.json) |
 | Color Soul: Memories | 124229 | [124229-color-soul-memories.json](./124229-color-soul-memories.json) |
 | Color Souls | 167604 | [167604-color-souls.json](./167604-color-souls.json) |
@@ -17044,6 +17047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croaked | 251652 | [251652-croaked.json](./251652-croaked.json) |
 | Croaking Around | 265696 | [265696-croaking-around.json](./265696-croaking-around.json) |
 | Croakspire | 361224 | [361224-croakspire.json](./361224-croakspire.json) |
+| Croakwood | 305069 | [305069-croakwood.json](./305069-croakwood.json) |
 | Croc | 143008 | [143008-croc.json](./143008-croc.json) |
 | Croc 2 | 7902 | [7902-croc-2.json](./7902-croc-2.json) |
 | Croc 2: Kingdom of the Gobbos | 411706 | [411706-croc-2-kingdom-of-the-gobbos.json](./411706-croc-2-kingdom-of-the-gobbos.json) |
@@ -18953,6 +18957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cure: A Hospital Simulator | 376110 | [376110-cure-a-hospital-simulator.json](./376110-cure-a-hospital-simulator.json) |
 | Curfew | 259148 | [259148-curfew.json](./259148-curfew.json) |
 | Curfuffles | 255036 | [255036-curfuffles.json](./255036-curfuffles.json) |
+| Curilemu | 305090 | [305090-curilemu.json](./305090-curilemu.json) |
 | Curio Compendium | 358643 | [358643-curio-compendium.json](./358643-curio-compendium.json) |
 | Curio Quest | 102027 | [102027-curio-quest.json](./102027-curio-quest.json) |
 | Curio Shop | 400821 | [400821-curio-shop.json](./400821-curio-shop.json) |
