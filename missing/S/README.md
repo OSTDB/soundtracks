@@ -1798,6 +1798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Slays Nazis | 196117 | [196117-santa-slays-nazis.json](./196117-santa-slays-nazis.json) |
 | Santa Sleigher | 354763 | [354763-santa-sleigher.json](./354763-santa-sleigher.json) |
 | Santa Slide Rush | 401446 | [401446-santa-slide-rush.json](./401446-santa-slide-rush.json) |
+| Santa Slides to Town | 324615 | [324615-santa-slides-to-town.json](./324615-santa-slides-to-town.json) |
 | Santa Sling | 30074 | [30074-santa-sling.json](./30074-santa-sling.json) |
 | Santa Throw | 186907 | [186907-santa-throw.json](./186907-santa-throw.json) |
 | Santa Tracker | 62475 | [62475-santa-tracker.json](./62475-santa-tracker.json) |
@@ -2739,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scattergories Weekly | 376139 | [376139-scattergories-weekly.json](./376139-scattergories-weekly.json) |
 | Scatterhoard | 185097 | [185097-scatterhoard.json](./185097-scatterhoard.json) |
 | Scatteria | 110758 | [110758-scatteria.json](./110758-scatteria.json) |
+| Scauage | 324621 | [324621-scauage.json](./324621-scauage.json) |
 | Scav | 361079 | [361079-scav.json](./361079-scav.json) |
 | Scav | 376816 | [376816-scav.json](./376816-scav.json) |
 | Scavenger | 237648 | [237648-scavenger.json](./237648-scavenger.json) |
@@ -14681,6 +14683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite: Nazi Zombie Army 2 | 10877 | [10877-sniper-elite-nazi-zombie-army-2.json](./10877-sniper-elite-nazi-zombie-army-2.json) |
 | Sniper Elite: Resistance | 314238 | [314238-sniper-elite-resistance.json](./314238-sniper-elite-resistance.json) |
 | Sniper Elite: Resistance - Commando Weapon Pack | 375751 | [375751-sniper-elite-resistance-commando-weapon-pack.json](./375751-sniper-elite-resistance-commando-weapon-pack.json) |
+| Sniper Elite: Resistance - Deluxe Edition | 324606 | [324606-sniper-elite-resistance-deluxe-edition.json](./324606-sniper-elite-resistance-deluxe-edition.json) |
 | Sniper Elite: Resistance - Mud and Thunder Mission, Weapons and Skin Pack | 351494 | [351494-sniper-elite-resistance-mud-and-thunder-mission-weapons-and-skin-pack.json](./351494-sniper-elite-resistance-mud-and-thunder-mission-weapons-and-skin-pack.json) |
 | Sniper Elite: Resistance - Target Führer: Lights, Camera, Achtung | 343572 | [343572-sniper-elite-resistance-target-fuhrer-lights-camera-achtung.json](./343572-sniper-elite-resistance-target-fuhrer-lights-camera-achtung.json) |
 | Sniper Elite: Resistance - Wrath of the Resistance Weapon and Skins Pack | 351493 | [351493-sniper-elite-resistance-wrath-of-the-resistance-weapon-and-skins-pack.json](./351493-sniper-elite-resistance-wrath-of-the-resistance-weapon-and-skins-pack.json) |
@@ -15399,6 +15402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccerverse | 224165 | [224165-soccerverse.json](./224165-soccerverse.json) |
 | Sociable Soccer | 14713 | [14713-sociable-soccer.json](./14713-sociable-soccer.json) |
 | Sociable Soccer 24 | 264200 | [264200-sociable-soccer-24.json](./264200-sociable-soccer-24.json) |
+| Sociable Soccer 25 | 324603 | [324603-sociable-soccer-25.json](./324603-sociable-soccer-25.json) |
 | Social City | 65947 | [65947-social-city.json](./65947-social-city.json) |
 | Social Club VR : Casino Nights | 130746 | [130746-social-club-vr-casino-nights.json](./130746-social-club-vr-casino-nights.json) |
 | Social Credit Simulator | 226344 | [226344-social-credit-simulator.json](./226344-social-credit-simulator.json) |
@@ -32250,6 +32254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super/Human Identity | 164052 | [164052-super-human-identity.json](./164052-super-human-identity.json) |
 | Superation | 293505 | [293505-superation.json](./293505-superation.json) |
 | Superball | 117000 | [117000-superball.json](./117000-superball.json) |
+| Superball Mario: Neutral Special | 324634 | [324634-superball-mario-neutral-special.json](./324634-superball-mario-neutral-special.json) |
 | SuperBeam | 115608 | [115608-superbeam.json](./115608-superbeam.json) |
 | Superbeat: Xonic | 12875 | [12875-superbeat-xonic.json](./12875-superbeat-xonic.json) |
 | Superbeat: Xonic - The X-Clusive Limited Edition | 89913 | [89913-superbeat-xonic-the-x-clusive-limited-edition.json](./89913-superbeat-xonic-the-x-clusive-limited-edition.json) |
