@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallrunners | 95209 | [95209-wallrunners.json](./95209-wallrunners.json) |
 | Walls | 268136 | [268136-walls.json](./268136-walls.json) |
 | Walls | 275006 | [275006-walls.json](./275006-walls.json) |
+| Walls | 343015 | [343015-walls.json](./343015-walls.json) |
 | Walls | 383534 | [383534-walls.json](./383534-walls.json) |
 | Walls of Illusion | 70443 | [70443-walls-of-illusion.json](./70443-walls-of-illusion.json) |
 | Walls of Rust | 287201 | [287201-walls-of-rust.json](./287201-walls-of-rust.json) |
@@ -7811,6 +7812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Deadliest Catch | 219456 | [219456-world-of-deadliest-catch.json](./219456-world-of-deadliest-catch.json) |
 | World of Deadliest Catch: 2024 Premium Edition | 304778 | [304778-world-of-deadliest-catch-2024-premium-edition.json](./304778-world-of-deadliest-catch-2024-premium-edition.json) |
 | World of Diving | 9337 | [9337-world-of-diving.json](./9337-world-of-diving.json) |
+| World of Dogs | 342991 | [342991-world-of-dogs.json](./342991-world-of-dogs.json) |
 | World of Dragon Nest | 130532 | [130532-world-of-dragon-nest.json](./130532-world-of-dragon-nest.json) |
 | World of Dragons: Dragon Simulator | 88219 | [88219-world-of-dragons-dragon-simulator.json](./88219-world-of-dragons-dragon-simulator.json) |
 | World of Elemental | 358505 | [358505-world-of-elemental.json](./358505-world-of-elemental.json) |
