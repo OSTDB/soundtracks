@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | På Sporet af Jesus | 396002 | [396002-pa-sporet-af-jesus.json](./396002-pa-sporet-af-jesus.json) |
 | PA-3 X Pac-Man Special Game | 219446 | [219446-pa-3-x-pac-man-special-game.json](./219446-pa-3-x-pac-man-special-game.json) |
 | Pa-nap | 257072 | [257072-pa-nap.json](./257072-pa-nap.json) |
+| Paath-Z | 325980 | [325980-paath-z.json](./325980-paath-z.json) |
 | PABG: Player Anime Battlegrounds | 393107 | [393107-pabg-player-anime-battlegrounds.json](./393107-pabg-player-anime-battlegrounds.json) |
 | Pablo Let's Go Bar | 169433 | [169433-pablo-lets-go-bar.json](./169433-pablo-lets-go-bar.json) |
 | Pablo's Fruit | 98209 | [98209-pablos-fruit.json](./98209-pablos-fruit.json) |
@@ -11347,6 +11348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Shift | 357825 | [357825-polar-shift.json](./357825-polar-shift.json) |
 | Polar Star | 41772 | [41772-polar-star.json](./41772-polar-star.json) |
 | Polar Star II | 57988 | [57988-polar-star-ii.json](./57988-polar-star-ii.json) |
+| Polar Tale | 325804 | [325804-polar-tale.json](./325804-polar-tale.json) |
 | Polar Tubing | 209342 | [209342-polar-tubing.json](./209342-polar-tubing.json) |
 | Polar Tubing | 209343 | [209343-polar-tubing.json](./209343-polar-tubing.json) |
 | Polara | 64232 | [64232-polara.json](./64232-polara.json) |
@@ -13183,6 +13185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerplay Hockey | 78947 | [78947-powerplay-hockey.json](./78947-powerplay-hockey.json) |
 | Powerplay Tennis | 394436 | [394436-powerplay-tennis.json](./394436-powerplay-tennis.json) |
 | Powerplay-Xtra | 93296 | [93296-powerplay-xtra.json](./93296-powerplay-xtra.json) |
+| PowerPoint Osu! | 325806 | [325806-powerpoint-osu.json](./325806-powerpoint-osu.json) |
 | Powerpool | 389343 | [389343-powerpool.json](./389343-powerpool.json) |
 | Powerpool 2 | 389345 | [389345-powerpool-2.json](./389345-powerpool-2.json) |
 | Powerpool Frenzy | 392635 | [392635-powerpool-frenzy.json](./392635-powerpool-frenzy.json) |
@@ -14089,6 +14092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Quest | 147183 | [147183-princess-quest.json](./147183-princess-quest.json) |
 | Princess Quest | 286070 | [286070-princess-quest.json](./286070-princess-quest.json) |
 | Princess Quest | 77600 | [77600-princess-quest.json](./77600-princess-quest.json) |
+| Princess Quest 3D | 325942 | [325942-princess-quest-3d.json](./325942-princess-quest-3d.json) |
 | Princess Quest Part 1 | 250055 | [250055-princess-quest-part-1.json](./250055-princess-quest-part-1.json) |
 | Princess Rapunzel: The Kingdom's Legacy | 320461 | [320461-princess-rapunzel-the-kingdoms-legacy.json](./320461-princess-rapunzel-the-kingdoms-legacy.json) |
 | Princess Remedy in a World of Hurt | 15890 | [15890-princess-remedy-in-a-world-of-hurt.json](./15890-princess-remedy-in-a-world-of-hurt.json) |
@@ -15724,6 +15728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project-X Zombie vs. Machine Gun | 235641 | [235641-project-x-zombie-vs-machine-gun.json](./235641-project-x-zombie-vs-machine-gun.json) |
 | Project; Virai: Doomer's Life Escape | 342758 | [342758-project-virai-doomers-life-escape.json](./342758-project-virai-doomers-life-escape.json) |
 | Project: Aftershock | 390126 | [390126-project-aftershock.json](./390126-project-aftershock.json) |
+| Project: Amica | 325967 | [325967-project-amica.json](./325967-project-amica.json) |
 | Project: Another Use - Graftage | 374080 | [374080-project-another-use-graftage.json](./374080-project-another-use-graftage.json) |
 | Project: ARK | 316029 | [316029-project-ark.json](./316029-project-ark.json) |
 | Project: Arrival | 175006 | [175006-project-arrival.json](./175006-project-arrival.json) |
@@ -17119,6 +17124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple Cape Man | 195514 | [195514-purple-cape-man.json](./195514-purple-cape-man.json) |
 | Purple Chicken Spaceman | 117777 | [117777-purple-chicken-spaceman.json](./117777-purple-chicken-spaceman.json) |
 | Purple Deathmatch | 115557 | [115557-purple-deathmatch.json](./115557-purple-deathmatch.json) |
+| Purple Dinosaur Massacre | 325813 | [325813-purple-dinosaur-massacre.json](./325813-purple-dinosaur-massacre.json) |
 | Purple Fantasy | 213610 | [213610-purple-fantasy.json](./213610-purple-fantasy.json) |
 | Purple Game | 316358 | [316358-purple-game.json](./316358-purple-game.json) |
 | Purple Noise Echo | 120711 | [120711-purple-noise-echo.json](./120711-purple-noise-echo.json) |
