@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Cards | 360446 | [360446-bad-cards.json](./360446-bad-cards.json) |
 | Bad Cat | 12398 | [12398-bad-cat.json](./12398-bad-cat.json) |
 | Bad Cat Angry Granny | 391256 | [391256-bad-cat-angry-granny.json](./391256-bad-cat-angry-granny.json) |
+| Bad Cat Good Dog Alien Force | 310879 | [310879-bad-cat-good-dog-alien-force.json](./310879-bad-cat-good-dog-alien-force.json) |
 | Bad Cat Sam | 233372 | [233372-bad-cat-sam.json](./233372-bad-cat-sam.json) |
 | Bad Caterpillar | 33411 | [33411-bad-caterpillar.json](./33411-bad-caterpillar.json) |
 | Bad Cheese | 320146 | [320146-bad-cheese.json](./320146-bad-cheese.json) |
@@ -11600,6 +11601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boaty McBoatwad | 260662 | [260662-boaty-mcboatwad.json](./260662-boaty-mcboatwad.json) |
 | Boaty Tanks | 261830 | [261830-boaty-tanks.json](./261830-boaty-tanks.json) |
 | Bob | 27700 | [27700-bob.json](./27700-bob.json) |
+| Bob | 310897 | [310897-bob.json](./310897-bob.json) |
 | Bob & Bernard Against the Nazis | 120361 | [120361-bob-and-bernard-against-the-nazis.json](./120361-bob-and-bernard-against-the-nazis.json) |
 | Bob & Dob | 177570 | [177570-bob-and-dob.json](./177570-bob-and-dob.json) |
 | Bob and Kuura: Lost in Snowglobe | 114564 | [114564-bob-and-kuura-lost-in-snowglobe.json](./114564-bob-and-kuura-lost-in-snowglobe.json) |
