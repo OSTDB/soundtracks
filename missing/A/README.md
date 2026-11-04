@@ -6568,7 +6568,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Hominid | 314892 | [314892-alien-hominid.json](./314892-alien-hominid.json) |
 | Alien Hominid 360 | 314895 | [314895-alien-hominid-360.json](./314895-alien-hominid-360.json) |
 | Alien Hominid HD | 20673 | [20673-alien-hominid-hd.json](./20673-alien-hominid-hd.json) |
-| Alien Hominid Invasion | 131817 | [131817-alien-hominid-invasion.json](./131817-alien-hominid-invasion.json) |
 | Alien Hominid: PDA Classic Pack 2 | 280416 | [280416-alien-hominid-pda-classic-pack-2.json](./280416-alien-hominid-pda-classic-pack-2.json) |
 | Alien Hominid: PDA Games | 61164 | [61164-alien-hominid-pda-games.json](./61164-alien-hominid-pda-games.json) |
 | Alien Hominid: The Extra Terrestrial Bundle | 274442 | [274442-alien-hominid-the-extra-terrestrial-bundle.json](./274442-alien-hominid-the-extra-terrestrial-bundle.json) |
@@ -9430,7 +9429,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Video Game Nerd 8-bit | 329179 | [329179-angry-video-game-nerd-8-bit.json](./329179-angry-video-game-nerd-8-bit.json) |
 | Angry Video Game Nerd Adventures | 7960 | [7960-angry-video-game-nerd-adventures.json](./7960-angry-video-game-nerd-adventures.json) |
 | Angry Video Game Nerd Adventures 2: ASSimilation | 14742 | [14742-angry-video-game-nerd-adventures-2-assimilation.json](./14742-angry-video-game-nerd-adventures-2-assimilation.json) |
-| Angry Video Game Nerd I & II Deluxe | 114146 | [114146-angry-video-game-nerd-i-and-ii-deluxe.json](./114146-angry-video-game-nerd-i-and-ii-deluxe.json) |
 | Angry VS Android | 88075 | [88075-angry-vs-android.json](./88075-angry-vs-android.json) |
 | Angry World War 2 | 234070 | [234070-angry-world-war-2.json](./234070-angry-world-war-2.json) |
 | Angry Youth | 394281 | [394281-angry-youth.json](./394281-angry-youth.json) |
