@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faded Solitude | 364553 | [364553-faded-solitude.json](./364553-faded-solitude.json) |
 | Faded Stories: Full Moon | 263094 | [263094-faded-stories-full-moon.json](./263094-faded-stories-full-moon.json) |
 | Faded Stories: Greenberg | 190176 | [190176-faded-stories-greenberg.json](./190176-faded-stories-greenberg.json) |
+| Fadedlands | 336845 | [336845-fadedlands.json](./336845-fadedlands.json) |
 | Fadedlands: The Reckless Squad | 348316 | [348316-fadedlands-the-reckless-squad.json](./348316-fadedlands-the-reckless-squad.json) |
 | Fadeout: Underground | 154747 | [154747-fadeout-underground.json](./154747-fadeout-underground.json) |
 | Faderhead's Fist Full of Fuck You 2.0 | 97688 | [97688-faderheads-fist-full-of-fuck-you-2-0.json](./97688-faderheads-fist-full-of-fuck-you-2-0.json) |
@@ -937,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of Jake Paul Hop World | 195085 | [195085-fall-of-jake-paul-hop-world.json](./195085-fall-of-jake-paul-hop-world.json) |
 | Fall of Light: Deluxe Edition | 119076 | [119076-fall-of-light-deluxe-edition.json](./119076-fall-of-light-deluxe-edition.json) |
 | Fall of Magic: Digital Edition | 56480 | [56480-fall-of-magic-digital-edition.json](./56480-fall-of-magic-digital-edition.json) |
+| Fall Of Mankind | 336851 | [336851-fall-of-mankind.json](./336851-fall-of-mankind.json) |
 | Fall of Porcupine: Save the World Edition | 254153 | [254153-fall-of-porcupine-save-the-world-edition.json](./254153-fall-of-porcupine-save-the-world-edition.json) |
 | Fall of the Final Age | 384901 | [384901-fall-of-the-final-age.json](./384901-fall-of-the-final-age.json) |
 | Fall of the Mafia | 157395 | [157395-fall-of-the-mafia.json](./157395-fall-of-the-mafia.json) |
@@ -2980,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Craft | 83253 | [83253-fatal-craft.json](./83253-fatal-craft.json) |
 | Fatal Curse | 156901 | [156901-fatal-curse.json](./156901-fatal-curse.json) |
 | Fatal Delivery | 323530 | [323530-fatal-delivery.json](./323530-fatal-delivery.json) |
+| Fatal Dopamine | 336840 | [336840-fatal-dopamine.json](./336840-fatal-dopamine.json) |
 | Fatal Escape | 60485 | [60485-fatal-escape.json](./60485-fatal-escape.json) |
 | Fatal Evidence: Art of Murder | 323847 | [323847-fatal-evidence-art-of-murder.json](./323847-fatal-evidence-art-of-murder.json) |
 | Fatal Evidence: Art of Murder - Collector's Edition | 170207 | [170207-fatal-evidence-art-of-murder-collectors-edition.json](./170207-fatal-evidence-art-of-murder-collectors-edition.json) |
@@ -3807,6 +3810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feral Fury | 30735 | [30735-feral-fury.json](./30735-feral-fury.json) |
 | Feral Hearts | 198326 | [198326-feral-hearts.json](./198326-feral-hearts.json) |
 | Feral Rites | 23955 | [23955-feral-rites.json](./23955-feral-rites.json) |
+| Feral Sense | 336978 | [336978-feral-sense.json](./336978-feral-sense.json) |
 | Feralbound Online | 295827 | [295827-feralbound-online.json](./295827-feralbound-online.json) |
 | FeralHeart | 166478 | [166478-feralheart.json](./166478-feralheart.json) |
 | FeralHeart Unleashed | 225703 | [225703-feralheart-unleashed.json](./225703-feralheart-unleashed.json) |
@@ -9559,6 +9563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Mines | 237022 | [237022-forgotten-mines.json](./237022-forgotten-mines.json) |
 | Forgotten Myths CCG | 36302 | [36302-forgotten-myths-ccg.json](./36302-forgotten-myths-ccg.json) |
 | Forgotten Passages | 127164 | [127164-forgotten-passages.json](./127164-forgotten-passages.json) |
+| Forgotten Paths | 336859 | [336859-forgotten-paths.json](./336859-forgotten-paths.json) |
 | Forgotten Places: Lost Circus | 88549 | [88549-forgotten-places-lost-circus.json](./88549-forgotten-places-lost-circus.json) |
 | Forgotten Places: Regained Castle | 81630 | [81630-forgotten-places-regained-castle.json](./81630-forgotten-places-regained-castle.json) |
 | Forgotten Playland: Party Edition | 392803 | [392803-forgotten-playland-party-edition.json](./392803-forgotten-playland-party-edition.json) |
