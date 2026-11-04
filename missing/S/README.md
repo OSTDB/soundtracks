@@ -1248,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Bloodshow | 92500 | [92500-samurai-bloodshow.json](./92500-samurai-bloodshow.json) |
 | Samurai Bringer | 192434 | [192434-samurai-bringer.json](./192434-samurai-bringer.json) |
 | Samurai Bringer: Rampage | 401044 | [401044-samurai-bringer-rampage.json](./401044-samurai-bringer-rampage.json) |
+| Samurai Brothers | 328185 | [328185-samurai-brothers.json](./328185-samurai-brothers.json) |
 | Samurai Cat | 150440 | [150440-samurai-cat.json](./150440-samurai-cat.json) |
 | Samurai Cats | 131363 | [131363-samurai-cats.json](./131363-samurai-cats.json) |
 | Samurai Champloo: Sidetracked | 19625 | [19625-samurai-champloo-sidetracked.json](./19625-samurai-champloo-sidetracked.json) |
@@ -4745,7 +4746,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeking the Guardian | 344400 | [344400-seeking-the-guardian.json](./344400-seeking-the-guardian.json) |
 | SeekIt: Max Dublin's Treasure | 306021 | [306021-seekit-max-dublins-treasure.json](./306021-seekit-max-dublins-treasure.json) |
 | SeekIt: The Isle of Mem | 306011 | [306011-seekit-the-isle-of-mem.json](./306011-seekit-the-isle-of-mem.json) |
-| Seekl | 301111 | [301111-seekl.json](./301111-seekl.json) |
 | SeekOut | 391614 | [391614-seekout.json](./391614-seekout.json) |
 | SeekSeek: A Hide & Seek Adventure | 185471 | [185471-seekseek-a-hide-and-seek-adventure.json](./185471-seekseek-a-hide-and-seek-adventure.json) |
 | Seema's Pogo | 366112 | [366112-seemas-pogo.json](./366112-seemas-pogo.json) |
@@ -6799,7 +6799,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows on the Vatican: Act III - Sloth | 212222 | [212222-shadows-on-the-vatican-act-iii-sloth.json](./212222-shadows-on-the-vatican-act-iii-sloth.json) |
 | Shadows on the Vatican: Nightingale | 161591 | [161591-shadows-on-the-vatican-nightingale.json](./161591-shadows-on-the-vatican-nightingale.json) |
 | Shadows on the Walls | 262967 | [262967-shadows-on-the-walls.json](./262967-shadows-on-the-walls.json) |
-| Shadows Over Loathing | 225615 | [225615-shadows-over-loathing.json](./225615-shadows-over-loathing.json) |
 | Shadows Over Loathing: Collector’s Edition | 247193 | [247193-shadows-over-loathing-collector-s-edition.json](./247193-shadows-over-loathing-collector-s-edition.json) |
 | Shadows Over Whispering Pines | 329524 | [329524-shadows-over-whispering-pines.json](./329524-shadows-over-whispering-pines.json) |
 | Shadows Peak | 18406 | [18406-shadows-peak.json](./18406-shadows-peak.json) |
@@ -10128,6 +10127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Shadow | 123007 | [123007-silent-shadow.json](./123007-silent-shadow.json) |
 | Silent Shark | 404429 | [404429-silent-shark.json](./404429-silent-shark.json) |
 | Silent Shores | 253506 | [253506-silent-shores.json](./253506-silent-shores.json) |
+| Silent Signals | 328186 | [328186-silent-signals.json](./328186-silent-signals.json) |
 | Silent Slayer: Vault of the Vampire | 251562 | [251562-silent-slayer-vault-of-the-vampire.json](./251562-silent-slayer-vault-of-the-vampire.json) |
 | Silent Snow | 384152 | [384152-silent-snow.json](./384152-silent-snow.json) |
 | Silent Sonata | 284483 | [284483-silent-sonata.json](./284483-silent-sonata.json) |
@@ -13878,6 +13878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Up: Awesome Level 9000 | 155444 | [155444-smash-up-awesome-level-9000.json](./155444-smash-up-awesome-level-9000.json) |
 | Smash Up: Pretty Pretty | 172147 | [172147-smash-up-pretty-pretty.json](./172147-smash-up-pretty-pretty.json) |
 | Smash Your PC | 318267 | [318267-smash-your-pc.json](./318267-smash-your-pc.json) |
+| Smash Zombies | 328174 | [328174-smash-zombies.json](./328174-smash-zombies.json) |
 | Smash'em | 158703 | [158703-smashem.json](./158703-smashem.json) |
 | Smash'em | 185543 | [185543-smashem.json](./185543-smashem.json) |
 | Smashball | 29122 | [29122-smashball.json](./29122-smashball.json) |
@@ -26969,7 +26970,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 25th Anniversary Collector's Set | 43011 | [43011-street-fighter-25th-anniversary-collectors-set.json](./43011-street-fighter-25th-anniversary-collectors-set.json) |
 | Street Fighter 30th Anniversary Collection: International | 298020 | [298020-street-fighter-30th-anniversary-collection-international.json](./298020-street-fighter-30th-anniversary-collection-international.json) |
 | Street Fighter 5: Guile | 324177 | [324177-street-fighter-5-guile.json](./324177-street-fighter-5-guile.json) |
-| Street Fighter 6 | 343673 | [343673-street-fighter-6.json](./343673-street-fighter-6.json) |
 | Street Fighter 6: Additional Character - Alex | 347693 | [347693-street-fighter-6-additional-character-alex.json](./347693-street-fighter-6-additional-character-alex.json) |
 | Street Fighter 6: Additional Character - Alex & Outfit 2 | 375149 | [375149-street-fighter-6-additional-character-alex-and-outfit-2.json](./375149-street-fighter-6-additional-character-alex-and-outfit-2.json) |
 | Street Fighter 6: Additional Character - Arjun & Outfit 2 | 407142 | [407142-street-fighter-6-additional-character-arjun-and-outfit-2.json](./407142-street-fighter-6-additional-character-arjun-and-outfit-2.json) |
@@ -28675,7 +28675,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sukuji to Teikyou ni Kansuru Kousatsu | 420340 | [420340-sukuji-to-teikyou-ni-kansuru-kousatsu.json](./420340-sukuji-to-teikyou-ni-kansuru-kousatsu.json) |
 | Sukutte: Save Me... | 130358 | [130358-sukutte-save-me.json](./130358-sukutte-save-me.json) |
 | SUL: Schutze Unser Land 3D | 193075 | [193075-sul-schutze-unser-land-3d.json](./193075-sul-schutze-unser-land-3d.json) |
-| Sulfur | 233970 | [233970-sulfur.json](./233970-sulfur.json) |
 | Sulfur | 261285 | [261285-sulfur.json](./261285-sulfur.json) |
 | Sulfur Ignition | 352224 | [352224-sulfur-ignition.json](./352224-sulfur-ignition.json) |
 | Suli Fallen Harmony | 133090 | [133090-suli-fallen-harmony.json](./133090-suli-fallen-harmony.json) |
@@ -33546,6 +33545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swedish Touring Car Championship 2 | 71774 | [71774-swedish-touring-car-championship-2.json](./71774-swedish-touring-car-championship-2.json) |
 | Sweeky Land | 145608 | [145608-sweeky-land.json](./145608-sweeky-land.json) |
 | Sweep | 163964 | [163964-sweep.json](./163964-sweep.json) |
+| Sweep | 328177 | [328177-sweep.json](./328177-sweep.json) |
 | Sweep Bump | 389533 | [389533-sweep-bump.json](./389533-sweep-bump.json) |
 | Sweep City | 329683 | [329683-sweep-city.json](./329683-sweep-city.json) |
 | Sweep It! | 263337 | [263337-sweep-it.json](./263337-sweep-it.json) |
