@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vesperis | 391754 | [391754-vesperis.json](./391754-vesperis.json) |
 | Vespia: Shield of Aberration | 333119 | [333119-vespia-shield-of-aberration.json](./333119-vespia-shield-of-aberration.json) |
 | Vespillo | 415350 | [415350-vespillo.json](./415350-vespillo.json) |
+| Vessel | 347990 | [347990-vessel.json](./347990-vessel.json) |
 | Vessel | 364709 | [364709-vessel.json](./364709-vessel.json) |
 | Vessel | 8382 | [8382-vessel.json](./8382-vessel.json) |
 | Vessel Blue | 238638 | [238638-vessel-blue.json](./238638-vessel-blue.json) |
