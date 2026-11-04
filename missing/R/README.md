@@ -6729,6 +6729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Jungle | 174481 | [174481-rhythm-jungle.json](./174481-rhythm-jungle.json) |
 | Rhythm Knights | 153929 | [153929-rhythm-knights.json](./153929-rhythm-knights.json) |
 | Rhythm Knights: Double Treble | 199460 | [199460-rhythm-knights-double-treble.json](./199460-rhythm-knights-double-treble.json) |
+| Rhythm Land | 307514 | [307514-rhythm-land.json](./307514-rhythm-land.json) |
 | Rhythm League Heroes | 276181 | [276181-rhythm-league-heroes.json](./276181-rhythm-league-heroes.json) |
 | Rhythm Life | 276616 | [276616-rhythm-life.json](./276616-rhythm-life.json) |
 | Rhythm Lust Girl | 246032 | [246032-rhythm-lust-girl.json](./246032-rhythm-lust-girl.json) |
