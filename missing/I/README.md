@@ -5611,6 +5611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Reckoning | 158150 | [158150-iron-reckoning.json](./158150-iron-reckoning.json) |
 | Iron Reich | 157194 | [157194-iron-reich.json](./157194-iron-reich.json) |
 | Iron Remnant | 423376 | [423376-iron-remnant.json](./423376-iron-remnant.json) |
+| Iron Rift | 335162 | [335162-iron-rift.json](./335162-iron-rift.json) |
 | Iron Roads | 226474 | [226474-iron-roads.json](./226474-iron-roads.json) |
 | Iron Roses | 16063 | [16063-iron-roses.json](./16063-iron-roses.json) |
 | Iron Ruler | 208827 | [208827-iron-ruler.json](./208827-iron-ruler.json) |
