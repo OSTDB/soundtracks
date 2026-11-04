@@ -8411,7 +8411,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShipLord | 19326 | [19326-shiplord.json](./19326-shiplord.json) |
 | Shipmatch | 256232 | [256232-shipmatch.json](./256232-shipmatch.json) |
 | ShipOS 1994 | 312191 | [312191-shipos-1994.json](./312191-shipos-1994.json) |
-| Shipped | 116097 | [116097-shipped.json](./116097-shipped.json) |
 | Shipping Nightmares | 335220 | [335220-shipping-nightmares.json](./335220-shipping-nightmares.json) |
 | Shipping Out! | 185383 | [185383-shipping-out.json](./185383-shipping-out.json) |
 | Shippuu! Iron Leaguer | 61391 | [61391-shippuu-iron-leaguer.json](./61391-shippuu-iron-leaguer.json) |
@@ -19937,7 +19936,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speaker | 178457 | [178457-speaker.json](./178457-speaker.json) |
 | Speakerman | 120082 | [120082-speakerman.json](./120082-speakerman.json) |
 | Speakerman 2 | 123835 | [123835-speakerman-2.json](./123835-speakerman-2.json) |
-| Speaking Simulator | 111351 | [111351-speaking-simulator.json](./111351-speaking-simulator.json) |
 | Speaking Simulator 2018 | 111648 | [111648-speaking-simulator-2018.json](./111648-speaking-simulator-2018.json) |
 | Speakrit | 293702 | [293702-speakrit.json](./293702-speakrit.json) |
 | Spear Girl | 190035 | [190035-spear-girl.json](./190035-spear-girl.json) |
@@ -29711,7 +29709,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Crossbar Challenge | 100790 | [100790-super-crossbar-challenge.json](./100790-super-crossbar-challenge.json) |
 | Super Crossfire | 65448 | [65448-super-crossfire.json](./65448-super-crossfire.json) |
 | Super Crown Land | 318548 | [318548-super-crown-land.json](./318548-super-crown-land.json) |
-| Super Crush KO | 107599 | [107599-super-crush-ko.json](./107599-super-crush-ko.json) |
 | Super Crypto Kart | 138748 | [138748-super-crypto-kart.json](./138748-super-crypto-kart.json) |
 | Super Crystal Hunter | 127722 | [127722-super-crystal-hunter.json](./127722-super-crystal-hunter.json) |
 | Super Cube 3D | 278959 | [278959-super-cube-3d.json](./278959-super-cube-3d.json) |
