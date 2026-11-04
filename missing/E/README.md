@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthshakers | 117374 | [117374-earthshakers.json](./117374-earthshakers.json) |
 | Earthshield | 209178 | [209178-earthshield.json](./209178-earthshield.json) |
 | Earthshine | 117799 | [117799-earthshine.json](./117799-earthshine.json) |
+| Earthshine | 345762 | [345762-earthshine.json](./345762-earthshine.json) |
 | Earthsiege 2 | 11229 | [11229-earthsiege-2.json](./11229-earthsiege-2.json) |
 | Earthtia Saga: Larthur's Legend | 242223 | [242223-earthtia-saga-larthurs-legend.json](./242223-earthtia-saga-larthurs-legend.json) |
 | Earthtongue | 35546 | [35546-earthtongue.json](./35546-earthtongue.json) |
@@ -4529,6 +4530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equilibria | 80447 | [80447-equilibria.json](./80447-equilibria.json) |
 | Equilibrium | 170999 | [170999-equilibrium.json](./170999-equilibrium.json) |
 | Equilibrium | 178990 | [178990-equilibrium.json](./178990-equilibrium.json) |
+| Equilibrium | 345783 | [345783-equilibrium.json](./345783-equilibrium.json) |
 | Equilibrium 2018 | 103153 | [103153-equilibrium-2018.json](./103153-equilibrium-2018.json) |
 | Equilibrium 3D | 102212 | [102212-equilibrium-3d.json](./102212-equilibrium-3d.json) |
 | Equilibrium Blue | 107037 | [107037-equilibrium-blue.json](./107037-equilibrium-blue.json) |
@@ -6357,6 +6359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: Incursion | 329795 | [329795-eve-online-incursion.json](./329795-eve-online-incursion.json) |
 | Eve Online: Inferno | 329797 | [329797-eve-online-inferno.json](./329797-eve-online-inferno.json) |
 | Eve Online: Invasion | 118157 | [118157-eve-online-invasion.json](./118157-eve-online-invasion.json) |
+| Eve Online: Legion | 345752 | [345752-eve-online-legion.json](./345752-eve-online-legion.json) |
 | Eve Online: Lifeblood | 74970 | [74970-eve-online-lifeblood.json](./74970-eve-online-lifeblood.json) |
 | Eve Online: New Dawn | 329927 | [329927-eve-online-new-dawn.json](./329927-eve-online-new-dawn.json) |
 | Eve Online: Odyssey | 329904 | [329904-eve-online-odyssey.json](./329904-eve-online-odyssey.json) |
