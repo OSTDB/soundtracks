@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hiddensaurs: Renaissance | 359557 | [359557-100-hiddensaurs-renaissance.json](./359557-100-hiddensaurs-renaissance.json) |
 | 100 Hong Kong Cats | 351681 | [351681-100-hong-kong-cats.json](./351681-100-hong-kong-cats.json) |
 | 100 Humans vs. Gorilla | 358056 | [358056-100-humans-vs-gorilla.json](./358056-100-humans-vs-gorilla.json) |
+| 100 in 1 Game Collection | 324693 | [324693-100-in-1-game-collection.json](./324693-100-in-1-game-collection.json) |
 | 100 India Cats | 334124 | [334124-100-india-cats.json](./334124-100-india-cats.json) |
 | 100 Istanbul Cats | 288727 | [288727-100-istanbul-cats.json](./288727-100-istanbul-cats.json) |
 | 100 Istanbul Cats: Extra Content | 301044 | [301044-100-istanbul-cats-extra-content.json](./301044-100-istanbul-cats-extra-content.json) |
