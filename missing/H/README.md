@@ -4797,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girl | 107887 | [107887-hentai-girl.json](./107887-hentai-girl.json) |
 | Hentai Girl Betty | 111252 | [111252-hentai-girl-betty.json](./111252-hentai-girl-betty.json) |
 | Hentai Girl Clicker | 158403 | [158403-hentai-girl-clicker.json](./158403-hentai-girl-clicker.json) |
+| Hentai Girl Clicker | 343578 | [343578-hentai-girl-clicker.json](./343578-hentai-girl-clicker.json) |
 | Hentai Girl Division | 194201 | [194201-hentai-girl-division.json](./194201-hentai-girl-division.json) |
 | Hentai Girl Fantasy | 136425 | [136425-hentai-girl-fantasy.json](./136425-hentai-girl-fantasy.json) |
 | Hentai Girl Hime | 136426 | [136426-hentai-girl-hime.json](./136426-hentai-girl-hime.json) |
@@ -4860,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Paris Romance | 314871 | [314871-hentai-girls-paris-romance.json](./314871-hentai-girls-paris-romance.json) |
 | Hentai Girls: Pissy Pirate | 329442 | [329442-hentai-girls-pissy-pirate.json](./329442-hentai-girls-pissy-pirate.json) |
 | Hentai Girls: Platinum Edition | 283147 | [283147-hentai-girls-platinum-edition.json](./283147-hentai-girls-platinum-edition.json) |
+| Hentai Girls: Postal Passion | 343537 | [343537-hentai-girls-postal-passion.json](./343537-hentai-girls-postal-passion.json) |
 | Hentai Girls: Premium Edition | 268560 | [268560-hentai-girls-premium-edition.json](./268560-hentai-girls-premium-edition.json) |
 | Hentai Girls: Racy Racer | 304789 | [304789-hentai-girls-racy-racer.json](./304789-hentai-girls-racy-racer.json) |
 | Hentai Girls: Sakura Romance | 294843 | [294843-hentai-girls-sakura-romance.json](./294843-hentai-girls-sakura-romance.json) |
@@ -10627,6 +10629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Rancher | 373048 | [373048-hover-rancher.json](./373048-hover-rancher.json) |
 | Hover Rev Hispeed Burst | 340488 | [340488-hover-rev-hispeed-burst.json](./340488-hover-rev-hispeed-burst.json) |
 | Hover Rider | 244796 | [244796-hover-rider.json](./244796-hover-rider.json) |
+| Hover Runners | 343538 | [343538-hover-runners.json](./343538-hover-runners.json) |
 | Hover Ship | 171944 | [171944-hover-ship.json](./171944-hover-ship.json) |
 | Hover Shooting Defence | 265151 | [265151-hover-shooting-defence.json](./265151-hover-shooting-defence.json) |
 | Hover Skate VR | 30167 | [30167-hover-skate-vr.json](./30167-hover-skate-vr.json) |
