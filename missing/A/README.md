@@ -7955,6 +7955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Zombie Defense | 62663 | [62663-amazing-zombie-defense.json](./62663-amazing-zombie-defense.json) |
 | Amazing: A House In Kansas VR | 119767 | [119767-amazing-a-house-in-kansas-vr.json](./119767-amazing-a-house-in-kansas-vr.json) |
 | Amazon | 2305 | [2305-amazon.json](./2305-amazon.json) |
+| Amazon Animals | 346901 | [346901-amazon-animals.json](./346901-amazon-animals.json) |
 | Amazon Odyssey | 75111 | [75111-amazon-odyssey.json](./75111-amazon-odyssey.json) |
 | Amazon Quest | 245785 | [245785-amazon-quest.json](./245785-amazon-quest.json) |
 | Amazon Rush | 89271 | [89271-amazon-rush.json](./89271-amazon-rush.json) |
@@ -11095,6 +11096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Rush | 83849 | [83849-apocalypse-rush.json](./83849-apocalypse-rush.json) |
 | Apocalypse Secrets | 321948 | [321948-apocalypse-secrets.json](./321948-apocalypse-secrets.json) |
 | Apocalypse Survivor | 366291 | [366291-apocalypse-survivor.json](./366291-apocalypse-survivor.json) |
+| Apocalypse Survivors | 346880 | [346880-apocalypse-survivors.json](./346880-apocalypse-survivors.json) |
 | Apocalypse Tale | 351766 | [351766-apocalypse-tale.json](./351766-apocalypse-tale.json) |
 | Apocalypse Traffic | 245260 | [245260-apocalypse-traffic.json](./245260-apocalypse-traffic.json) |
 | Apocalypse Truck Simulator | 358603 | [358603-apocalypse-truck-simulator.json](./358603-apocalypse-truck-simulator.json) |
@@ -16510,6 +16512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aureole: Wings of Hope | 254013 | [254013-aureole-wings-of-hope.json](./254013-aureole-wings-of-hope.json) |
 | Auri's Amazing Arch Adventure | 388247 | [388247-auris-amazing-arch-adventure.json](./388247-auris-amazing-arch-adventure.json) |
 | Auri's Tales | 113042 | [113042-auris-tales.json](./113042-auris-tales.json) |
+| Auridia | 346867 | [346867-auridia.json](./346867-auridia.json) |
 | Aurion: Legacy of the Kori-Odan | 14224 | [14224-aurion-legacy-of-the-kori-odan.json](./14224-aurion-legacy-of-the-kori-odan.json) |
 | Auris | 421353 | [421353-auris.json](./421353-auris.json) |
 | Aurium 2 | 317062 | [317062-aurium-2.json](./317062-aurium-2.json) |
