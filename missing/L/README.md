@@ -3823,6 +3823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letreco | 186524 | [186524-letreco.json](./186524-letreco.json) |
 | Letris 4 | 233103 | [233103-letris-4.json](./233103-letris-4.json) |
 | Letris Power: Word puzzle game | 89239 | [89239-letris-power-word-puzzle-game.json](./89239-letris-power-word-puzzle-game.json) |
+| Letroso | 344678 | [344678-letroso.json](./344678-letroso.json) |
 | Lets Beats | 105319 | [105319-lets-beats.json](./105319-lets-beats.json) |
 | Lets call my game slippery!suberu | 391925 | [391925-lets-call-my-game-slippery-suberu.json](./391925-lets-call-my-game-slippery-suberu.json) |
 | Lets Castle | 317559 | [317559-lets-castle.json](./317559-lets-castle.json) |
@@ -4183,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Licačka | 254422 | [254422-licacka.json](./254422-licacka.json) |
 | Licca-chan ni Naritai! | 58848 | [58848-licca-chan-ni-naritai.json](./58848-licca-chan-ni-naritai.json) |
 | Licca-chan no Oshare Nikki | 49664 | [49664-licca-chan-no-oshare-nikki.json](./49664-licca-chan-no-oshare-nikki.json) |
+| Licca-chan Oshare House | 344682 | [344682-licca-chan-oshare-house.json](./344682-licca-chan-oshare-house.json) |
 | License to Breed | 262579 | [262579-license-to-breed.json](./262579-license-to-breed.json) |
 | License To Clone | 319689 | [319689-license-to-clone.json](./319689-license-to-clone.json) |
 | License to Grill | 366800 | [366800-license-to-grill.json](./366800-license-to-grill.json) |
@@ -9478,6 +9480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar: The Silver Star | 5334 | [5334-lunar-the-silver-star.json](./5334-lunar-the-silver-star.json) |
 | Lunar's Chosen | 280781 | [280781-lunars-chosen.json](./280781-lunars-chosen.json) |
 | Lunar's Chosen: Episode 2 | 277748 | [277748-lunars-chosen-episode-2.json](./277748-lunars-chosen-episode-2.json) |
+| Lunaraxia: Magpie Sings of the World's End | 344648 | [344648-lunaraxia-magpie-sings-of-the-worlds-end.json](./344648-lunaraxia-magpie-sings-of-the-worlds-end.json) |
 | Lunarball | 291250 | [291250-lunarball.json](./291250-lunarball.json) |
 | Lunares Insaniam | 289582 | [289582-lunares-insaniam.json](./289582-lunares-insaniam.json) |
 | Lunaria Fantasia | 338101 | [338101-lunaria-fantasia.json](./338101-lunaria-fantasia.json) |
