@@ -2567,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dating App Simulator | 365607 | [365607-dating-app-simulator.json](./365607-dating-app-simulator.json) |
 | Dating App Simulator | 380235 | [380235-dating-app-simulator.json](./380235-dating-app-simulator.json) |
 | Dating Izzie | 247925 | [247925-dating-izzie.json](./247925-dating-izzie.json) |
+| Dating Killmulator | 324646 | [324646-dating-killmulator.json](./324646-dating-killmulator.json) |
 | Dating Life: Miley X Emily | 119781 | [119781-dating-life-miley-x-emily.json](./119781-dating-life-miley-x-emily.json) |
 | Dating Maze | 401694 | [401694-dating-maze.json](./401694-dating-maze.json) |
 | Dating My High School Bully | 205817 | [205817-dating-my-high-school-bully.json](./205817-dating-my-high-school-bully.json) |
@@ -10003,6 +10004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley: Puppy Love | 391298 | [391298-disney-dreamlight-valley-puppy-love.json](./391298-disney-dreamlight-valley-puppy-love.json) |
 | Disney Dreamlight Valley: Return to Beast's Castle | 371229 | [371229-disney-dreamlight-valley-return-to-beasts-castle.json](./371229-disney-dreamlight-valley-return-to-beasts-castle.json) |
 | Disney Dreamlight Valley: Scar's Kingdom | 222272 | [222272-disney-dreamlight-valley-scars-kingdom.json](./222272-disney-dreamlight-valley-scars-kingdom.json) |
+| Disney Dreamlight Valley: Sew Delightful | 324607 | [324607-disney-dreamlight-valley-sew-delightful.json](./324607-disney-dreamlight-valley-sew-delightful.json) |
 | Disney Dreamlight Valley: The Keepsake Sea | 417172 | [417172-disney-dreamlight-valley-the-keepsake-sea.json](./417172-disney-dreamlight-valley-the-keepsake-sea.json) |
 | Disney Dreamlight Valley: The Laugh Floor | 288695 | [288695-disney-dreamlight-valley-the-laugh-floor.json](./288695-disney-dreamlight-valley-the-laugh-floor.json) |
 | Disney Dreamlight Valley: The Pumpkin King Returns | 279239 | [279239-disney-dreamlight-valley-the-pumpkin-king-returns.json](./279239-disney-dreamlight-valley-the-pumpkin-king-returns.json) |
@@ -13699,6 +13701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mario | 3476 | [3476-dr-mario.json](./3476-dr-mario.json) |
 | Dr. Mario 64 | 3475 | [3475-dr-mario-64.json](./3475-dr-mario-64.json) |
 | Dr. Mario BS Ban | 134437 | [134437-dr-mario-bs-ban.json](./134437-dr-mario-bs-ban.json) |
+| Dr. Mario Decloned | 324635 | [324635-dr-mario-decloned.json](./324635-dr-mario-decloned.json) |
 | Dr. Mario DX | 276341 | [276341-dr-mario-dx.json](./276341-dr-mario-dx.json) |
 | Dr. Mario Express | 47847 | [47847-dr-mario-express.json](./47847-dr-mario-express.json) |
 | Dr. Mario Mania | 357345 | [357345-dr-mario-mania.json](./357345-dr-mario-mania.json) |
@@ -16638,6 +16641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunkonauts | 375201 | [375201-drunkonauts.json](./375201-drunkonauts.json) |
 | Druonio | 177013 | [177013-druonio.json](./177013-druonio.json) |
 | Drusilla Dreams | 33149 | [33149-drusilla-dreams.json](./33149-drusilla-dreams.json) |
+| Druta-Cinta | 324619 | [324619-druta-cinta.json](./324619-druta-cinta.json) |
 | Druuna: Morbus Gravis | 23445 | [23445-druuna-morbus-gravis.json](./23445-druuna-morbus-gravis.json) |
 | Dry | 176804 | [176804-dry.json](./176804-dry.json) |
 | Dry | 202356 | [202356-dry.json](./202356-dry.json) |
@@ -17994,6 +17998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 3: Once Upon A Time | 138057 | [138057-dungeons-3-once-upon-a-time.json](./138057-dungeons-3-once-upon-a-time.json) |
 | Dungeons 4 | 215915 | [215915-dungeons-4.json](./215915-dungeons-4.json) |
 | Dungeons 4: Nintendo Switch Edition | 319321 | [319321-dungeons-4-nintendo-switch-edition.json](./319321-dungeons-4-nintendo-switch-edition.json) |
+| Dungeons 4: Not Another Multiverse | 324637 | [324637-dungeons-4-not-another-multiverse.json](./324637-dungeons-4-not-another-multiverse.json) |
 | Dungeons 4: Tales from the Campfire | 356370 | [356370-dungeons-4-tales-from-the-campfire.json](./356370-dungeons-4-tales-from-the-campfire.json) |
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
 | Dungeons Adventurer | 237789 | [237789-dungeons-adventurer.json](./237789-dungeons-adventurer.json) |
