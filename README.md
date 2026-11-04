@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 2,876" src="https://img.shields.io/badge/soundtracks-2%2C876-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 2,393" src="https://img.shields.io/badge/games-2%2C393-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 303,678" src="https://img.shields.io/badge/missing-303%2C678-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 304,789" src="https://img.shields.io/badge/missing-304%2C789-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/assassin-s-creed-mirage-valley-of-memory"><img src="https://i.scdn.co/image/ab67616d0000b2730fee25ae9170334061ba626e" width="120" height="120" alt="" /></a><br /><sub><b>Assassin’s Creed Mirage: Valley of Memory</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/reign-of-kings"><img src="https://i.scdn.co/image/ab67616d0000b27345015b21c4384eb8a5dcd06b" width="120" height="120" alt="" /></a><br /><sub><b>Reign of Kings</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/skyborn"><img src="https://i.scdn.co/image/ab67616d0000b273644aff63fb6413761b055f58" width="120" height="120" alt="" /></a><br /><sub><b>Skyborn</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/spaceteam"><img src="https://i.scdn.co/image/ab67616d0000b273ed73943205aef45c0d3d6df3" width="120" height="120" alt="" /></a><br /><sub><b>Spaceteam</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/valdis-story-abyssal-city"><img src="https://i.scdn.co/image/ab67616d0000b27380ad428597e9d7163a90a87d" width="120" height="120" alt="" /></a><br /><sub><b>Valdis Story: Abyssal City</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/soul-axiom"><img src="https://i.scdn.co/image/ab67616d0000b273e79231d39d3910fdb322b391" width="120" height="120" alt="" /></a><br /><sub><b>Soul Axiom</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/five-nights-at-freddys-help-wanted-2"><img src="https://i.scdn.co/image/ab67616d0000b27377189eaa839d5345c38c3e6b" width="120" height="120" alt="" /></a><br /><sub><b>Five Nights at Freddy's: Help Wanted 2</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/final-fantasy-iv"><img src="https://i.scdn.co/image/ab67616d0000b27327922359e0355d0de08c24c5" width="120" height="120" alt="" /></a><br /><sub><b>Final Fantasy IV</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/millennia"><img src="https://i.scdn.co/image/ab67616d0000b2731fe7cf709236b9ed6f3f7610" width="120" height="120" alt="" /></a><br /><sub><b>Millennia</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/lets-find-larry"><img src="https://i.scdn.co/image/ab67616d0000b2738430fd19d4bfaa446804e232" width="120" height="120" alt="" /></a><br /><sub><b>Let's Find Larry!</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/finding-frankie"><img src="https://i.scdn.co/image/ab67616d0000b273d6673acab7083e6e8f45e7bd" width="120" height="120" alt="" /></a><br /><sub><b>Finding Frankie</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/need-for-speed-prostreet"><img src="https://i.scdn.co/image/ab67616d0000b273eb4a8253a1b8f68bbdfb2e3f" width="120" height="120" alt="" /></a><br /><sub><b>Need for Speed: ProStreet</b></sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/orbitals"><img src="https://i.scdn.co/image/ab67616d0000b273f5f7275b0cd750f359e812e4" width="120" height="120" alt="" /></a><br /><sub><b>Orbitals</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/squeakross-home-squeak-home"><img src="https://i.scdn.co/image/ab67616d0000b273ce76932642a1f8335b0ab399" width="120" height="120" alt="" /></a><br /><sub><b>Squeakross: Home Squeak Home</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/redline"><img src="https://i.scdn.co/image/ab67616d0000b273a98e812d6c91508216a5fb5a" width="120" height="120" alt="" /></a><br /><sub><b>Redline</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/0rbitalis"><img src="https://i.scdn.co/image/ab67616d0000b27384b08da16c4bd7738a79caa1" width="120" height="120" alt="" /></a><br /><sub><b>0rbitalis</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/prince-of-persia-the-lost-crown"><img src="https://i.scdn.co/image/ab67616d0000b27324f907f1ea3d06a713d2b0f6" width="120" height="120" alt="" /></a><br /><sub><b>Prince of Persia: The Lost Crown</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/kabuto-park"><img src="https://i.scdn.co/image/ab67616d0000b2734e65b6ce2a819e26c6526b00" width="120" height="120" alt="" /></a><br /><sub><b>Kabuto Park</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/skull-island-rise-of-kong"><img src="https://i.scdn.co/image/ab67616d0000b273b600ee0f86423b110217237b" width="120" height="120" alt="" /></a><br /><sub><b>Skull Island: Rise of Kong</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/try-again"><img src="https://i.scdn.co/image/ab67616d0000b2734551711b1f273defc12365f8" width="120" height="120" alt="" /></a><br /><sub><b>Try Again</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/broforce-forever"><img src="https://i.scdn.co/image/ab67616d0000b2731fa2cbc915affffa46ac0085" width="120" height="120" alt="" /></a><br /><sub><b>Broforce: Forever</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/train-sim-world-4"><img src="https://i.scdn.co/image/ab67616d0000b2733c7c0f8ef1d3a9e44738f38e" width="120" height="120" alt="" /></a><br /><sub><b>Train Sim World 4</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/cabernet"><img src="https://i.scdn.co/image/ab67616d0000b2735f209cd9e02856a448c5b1cd" width="120" height="120" alt="" /></a><br /><sub><b>Cabernet</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/assassin-s-creed-mirage-valley-of-memory"><img src="https://i.scdn.co/image/ab67616d0000b2730fee25ae9170334061ba626e" width="120" height="120" alt="" /></a><br /><sub><b>Assassin’s Creed Mirage: Valley of Memory</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 | 15 | **Divinity: Original Sin** | [🔎 Find on Spotify](https://open.spotify.com/search/Divinity%3A%20Original%20Sin%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/5082-divinity-original-sin.json) |
 
-More in **[missing/](missing/README.md)** (303,678 games).
+More in **[missing/](missing/README.md)** (304,789 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -94,7 +94,7 @@ Weekly snapshots are on the **[Releases](https://github.com/OSTDB/soundtracks/re
 Everyone who added or fixed a soundtrack. Thank you!
 
 <p>
-<a href="https://github.com/metjum" title="metjum: 5 contributions"><img src="https://github.com/metjum.png?size=96" width="48" height="48" alt="metjum" /></a>
+<a href="https://github.com/metjum" title="metjum: 2 contributions"><img src="https://github.com/metjum.png?size=96" width="48" height="48" alt="metjum" /></a>
 </p>
 
 ## 📚 Browse
@@ -111,4 +111,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,876 soundtracks &middot; last updated 2026-11-03T20:36:35.233Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,876 soundtracks &middot; last updated 2026-11-04T00:41:03.399Z</sub>
