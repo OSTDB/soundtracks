@@ -1993,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viewpoints | 51715 | [51715-viewpoints.json](./51715-viewpoints.json) |
 | Viewport: The A.R.K. Protocol | 349759 | [349759-viewport-the-a-r-k-protocol.json](./349759-viewport-the-a-r-k-protocol.json) |
 | ViewSelect the Game | 140588 | [140588-viewselect-the-game.json](./140588-viewselect-the-game.json) |
+| Viewtiful Joe | 341259 | [341259-viewtiful-joe.json](./341259-viewtiful-joe.json) |
 | Viewtiful Joe | 4229 | [4229-viewtiful-joe.json](./4229-viewtiful-joe.json) |
 | Viewtiful Joe 2 | 4230 | [4230-viewtiful-joe-2.json](./4230-viewtiful-joe-2.json) |
 | Viewtiful Joe: Double Trouble! | 5987 | [5987-viewtiful-joe-double-trouble.json](./5987-viewtiful-joe-double-trouble.json) |
