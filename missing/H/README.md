@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Rats: Redridge | 319651 | [319651-half-rats-redridge.json](./319651-half-rats-redridge.json) |
 | Halfbrick Blast Off | 92332 | [92332-halfbrick-blast-off.json](./92332-halfbrick-blast-off.json) |
 | Halfbrick Rocket Racing | 67959 | [67959-halfbrick-rocket-racing.json](./67959-halfbrick-rocket-racing.json) |
+| Halfbrick Sports: Football | 336282 | [336282-halfbrick-sports-football.json](./336282-halfbrick-sports-football.json) |
 | HalfLight | 83971 | [83971-halflight.json](./83971-halflight.json) |
 | Halfling | 316562 | [316562-halfling.json](./316562-halfling.json) |
 | Halfmoon | 364583 | [364583-halfmoon.json](./364583-halfmoon.json) |
@@ -2310,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvestella | 206818 | [206818-harvestella.json](./206818-harvestella.json) |
 | Harvester | 2900 | [2900-harvester.json](./2900-harvester.json) |
 | Harvester | 323650 | [323650-harvester.json](./323650-harvester.json) |
+| Harvester Arno | 336292 | [336292-harvester-arno.json](./336292-harvester-arno.json) |
 | Harvester of Dreams : Episode 1 | 81863 | [81863-harvester-of-dreams-episode-1.json](./81863-harvester-of-dreams-episode-1.json) |
 | Harvester Tractor Farming Simulator Game | 174866 | [174866-harvester-tractor-farming-simulator-game.json](./174866-harvester-tractor-farming-simulator-game.json) |
 | Harvester vs. Zombies | 409751 | [409751-harvester-vs-zombies.json](./409751-harvester-vs-zombies.json) |
