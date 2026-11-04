@@ -4941,6 +4941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Ives | 284879 | [284879-master-of-ives.json](./284879-master-of-ives.json) |
 | Master of Jewelry | 374031 | [374031-master-of-jewelry.json](./374031-master-of-jewelry.json) |
 | Master of LinCard | 122624 | [122624-master-of-lincard.json](./122624-master-of-lincard.json) |
+| Master of Love | 309814 | [309814-master-of-love.json](./309814-master-of-love.json) |
 | Master of Luna | 249867 | [249867-master-of-luna.json](./249867-master-of-luna.json) |
 | Master of Magic | 147189 | [147189-master-of-magic.json](./147189-master-of-magic.json) |
 | Master of Magic | 6466 | [6466-master-of-magic.json](./6466-master-of-magic.json) |
@@ -5725,7 +5726,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -12510,6 +12510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini-Moni. Dice de Pyon! | 243285 | [243285-mini-moni-dice-de-pyon.json](./243285-mini-moni-dice-de-pyon.json) |
 | Mini-Moni. Shakatto Tambourine! Dapyon! | 69262 | [69262-mini-moni-shakatto-tambourine-dapyon.json](./69262-mini-moni-shakatto-tambourine-dapyon.json) |
 | Mini-Moni. Step Pyon Pyon Pyon | 243282 | [243282-mini-moni-step-pyon-pyon-pyon.json](./243282-mini-moni-step-pyon-pyon-pyon.json) |
+| Mini-Tank Arena | 309812 | [309812-mini-tank-arena.json](./309812-mini-tank-arena.json) |
 | Mini-U: Mosaic | 175408 | [175408-mini-u-mosaic.json](./175408-mini-u-mosaic.json) |
 | Mini-U: The Bathroom | 91052 | [91052-mini-u-the-bathroom.json](./91052-mini-u-the-bathroom.json) |
 | Mini-Vaders | 266656 | [266656-mini-vaders.json](./266656-mini-vaders.json) |
@@ -16468,6 +16469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morigami | 260613 | [260613-morigami.json](./260613-morigami.json) |
 | Moriko Kyouhaku Jiken | 130570 | [130570-moriko-kyouhaku-jiken.json](./130570-moriko-kyouhaku-jiken.json) |
 | Morikomori Life | 262977 | [262977-morikomori-life.json](./262977-morikomori-life.json) |
+| Morimens | 309816 | [309816-morimens.json](./309816-morimens.json) |
 | Morimiya Middle School Shooting | 134131 | [134131-morimiya-middle-school-shooting.json](./134131-morimiya-middle-school-shooting.json) |
 | Morinaga Pac-Man mini | 219448 | [219448-morinaga-pac-man-mini.json](./219448-morinaga-pac-man-mini.json) |
 | Morinaga Takurou Kanshuu: Okane no Shin Joushiki DS Training | 257492 | [257492-morinaga-takurou-kanshuu-okane-no-shin-joushiki-ds-training.json](./257492-morinaga-takurou-kanshuu-okane-no-shin-joushiki-ds-training.json) |
