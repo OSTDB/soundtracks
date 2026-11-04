@@ -1342,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Transitional Eve | 397044 | [397044-a-transitional-eve.json](./397044-a-transitional-eve.json) |
 | A Traveler's Photo Album | 155301 | [155301-a-travelers-photo-album.json](./155301-a-travelers-photo-album.json) |
 | A Treat and Some Tricks | 312852 | [312852-a-treat-and-some-tricks.json](./312852-a-treat-and-some-tricks.json) |
+| A Trench Tale | 301461 | [301461-a-trench-tale.json](./301461-a-trench-tale.json) |
 | A Tribute to the Rolling Boulder (from Raiders of the Lost Ark) | 92796 | [92796-a-tribute-to-the-rolling-boulder-from-raiders-of-the-lost-ark.json](./92796-a-tribute-to-the-rolling-boulder-from-raiders-of-the-lost-ark.json) |
 | A Trip down Market Street | 175587 | [175587-a-trip-down-market-street.json](./175587-a-trip-down-market-street.json) |
 | A Trip to the Mall at Night | 359054 | [359054-a-trip-to-the-mall-at-night.json](./359054-a-trip-to-the-mall-at-night.json) |
@@ -12684,6 +12685,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archeos | 54765 | [54765-archeos.json](./54765-archeos.json) |
 | Archer | 235264 | [235264-archer.json](./235264-archer.json) |
 | Archer | 277693 | [277693-archer.json](./277693-archer.json) |
+| Archer | 301447 | [301447-archer.json](./301447-archer.json) |
+| Archer 2 | 301450 | [301450-archer-2.json](./301450-archer-2.json) |
 | Archer 2 | 95313 | [95313-archer-2.json](./95313-archer-2.json) |
 | Archer 3D: Bow Shooting Range | 295686 | [295686-archer-3d-bow-shooting-range.json](./295686-archer-3d-bow-shooting-range.json) |
 | Archer boy | 158076 | [158076-archer-boy.json](./158076-archer-boy.json) |
@@ -14463,6 +14466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash Warden | 361767 | [361767-ash-warden.json](./361767-ash-warden.json) |
 | Ash. | 76669 | [76669-ash.json](./76669-ash.json) |
 | Asha | 189915 | [189915-asha.json](./189915-asha.json) |
+| Asha Empire: Exodus | 301470 | [301470-asha-empire-exodus.json](./301470-asha-empire-exodus.json) |
 | Ashanti Protocol: Unmanned Peacekeepers Amidst a Tempest of Conflict | 330335 | [330335-ashanti-protocol-unmanned-peacekeepers-amidst-a-tempest-of-conflict.json](./330335-ashanti-protocol-unmanned-peacekeepers-amidst-a-tempest-of-conflict.json) |
 | Ashbakaha | 309211 | [309211-ashbakaha.json](./309211-ashbakaha.json) |
 | AshBall | 373653 | [373653-ashball.json](./373653-ashball.json) |
