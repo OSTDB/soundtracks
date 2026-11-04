@@ -12577,6 +12577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcflame Frontiers | 413099 | [413099-arcflame-frontiers.json](./413099-arcflame-frontiers.json) |
 | Arcforce | 193793 | [193793-arcforce.json](./193793-arcforce.json) |
 | Arch Drift | 114543 | [114543-arch-drift.json](./114543-arch-drift.json) |
+| Arch Legends | 312776 | [312776-arch-legends.json](./312776-arch-legends.json) |
 | Arch Rivals | 215083 | [215083-arch-rivals.json](./215083-arch-rivals.json) |
 | Arch Rivals | 218340 | [218340-arch-rivals.json](./218340-arch-rivals.json) |
 | Arch Rivals | 242784 | [242784-arch-rivals.json](./242784-arch-rivals.json) |
