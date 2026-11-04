@@ -5468,6 +5468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauties Unveiled 2: Joy Level Pack | 290450 | [290450-beauties-unveiled-2-joy-level-pack.json](./290450-beauties-unveiled-2-joy-level-pack.json) |
 | Beauties Unveiled 2: ShingCEO_69 Level Pack | 290451 | [290451-beauties-unveiled-2-shingceo-69-level-pack.json](./290451-beauties-unveiled-2-shingceo-69-level-pack.json) |
 | Beauties Unveiled 2: Spicy Edition | 295680 | [295680-beauties-unveiled-2-spicy-edition.json](./295680-beauties-unveiled-2-spicy-edition.json) |
+| Beauties Unveiled 2: Tiffany Edition | 310427 | [310427-beauties-unveiled-2-tiffany-edition.json](./310427-beauties-unveiled-2-tiffany-edition.json) |
 | Beauties Unveiled 2: Tiffany Level Pack | 290452 | [290452-beauties-unveiled-2-tiffany-level-pack.json](./290452-beauties-unveiled-2-tiffany-level-pack.json) |
 | Beauties Unveiled: Ariadne Level Pack | 312098 | [312098-beauties-unveiled-ariadne-level-pack.json](./312098-beauties-unveiled-ariadne-level-pack.json) |
 | Beauties Unveiled: BackySoftie Level Pack | 312099 | [312099-beauties-unveiled-backysoftie-level-pack.json](./312099-beauties-unveiled-backysoftie-level-pack.json) |
