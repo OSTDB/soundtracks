@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office 5 | 372953 | [372953-office-5.json](./372953-office-5.json) |
 | Office Aberrations | 366543 | [366543-office-aberrations.json](./366543-office-aberrations.json) |
 | Office Affairs | 258819 | [258819-office-affairs.json](./258819-office-affairs.json) |
+| Office Affairs | 302635 | [302635-office-affairs.json](./302635-office-affairs.json) |
 | Office After Hours | 319730 | [319730-office-after-hours.json](./319730-office-after-hours.json) |
 | Office Anomaly | 413596 | [413596-office-anomaly.json](./413596-office-anomaly.json) |
 | Office Assistant | 359351 | [359351-office-assistant.json](./359351-office-assistant.json) |
@@ -2160,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One By One | 181139 | [181139-one-by-one.json](./181139-one-by-one.json) |
 | One By One | 195714 | [195714-one-by-one.json](./195714-one-by-one.json) |
 | One Card One Shot: Mafia | 244359 | [244359-one-card-one-shot-mafia.json](./244359-one-card-one-shot-mafia.json) |
+| One Chance | 302309 | [302309-one-chance.json](./302309-one-chance.json) |
 | One Chance | 63130 | [63130-one-chance.json](./63130-one-chance.json) |
 | One Circle | 150913 | [150913-one-circle.json](./150913-one-circle.json) |
 | One Click | 345122 | [345122-one-click.json](./345122-one-click.json) |
