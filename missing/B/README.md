@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon guy | 89368 | [89368-balloon-guy.json](./89368-balloon-guy.json) |
 | Balloon Head | 317296 | [317296-balloon-head.json](./317296-balloon-head.json) |
 | Balloon Hit HD | 88727 | [88727-balloon-hit-hd.json](./88727-balloon-hit-hd.json) |
+| Balloon Jerks | 319990 | [319990-balloon-jerks.json](./319990-balloon-jerks.json) |
 | Balloon Jump | 152877 | [152877-balloon-jump.json](./152877-balloon-jump.json) |
 | Balloon Kid | 3682 | [3682-balloon-kid.json](./3682-balloon-kid.json) |
 | Balloon Knight | 294514 | [294514-balloon-knight.json](./294514-balloon-knight.json) |
@@ -2121,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bankfeest | 359689 | [359689-bankfeest.json](./359689-bankfeest.json) |
 | Banking Dream | 84776 | [84776-banking-dream.json](./84776-banking-dream.json) |
 | BankingSim | 359690 | [359690-bankingsim.json](./359690-bankingsim.json) |
+| Bankiware | 319993 | [319993-bankiware.json](./319993-bankiware.json) |
 | Bankrupt Demon King | 216071 | [216071-bankrupt-demon-king.json](./216071-bankrupt-demon-king.json) |
 | Bankrupt Heroines | 157077 | [157077-bankrupt-heroines.json](./157077-bankrupt-heroines.json) |
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
@@ -16152,6 +16154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucko | 236359 | [236359-bucko.json](./236359-bucko.json) |
 | Buckshot Battlemage | 345653 | [345653-buckshot-battlemage.json](./345653-buckshot-battlemage.json) |
 | Buckshot Roulette | 281275 | [281275-buckshot-roulette.json](./281275-buckshot-roulette.json) |
+| Buckshot to Hell | 319992 | [319992-buckshot-to-hell.json](./319992-buckshot-to-hell.json) |
 | Bucky O'Hare | 18808 | [18808-bucky-ohare.json](./18808-bucky-ohare.json) |
 | Bucky O'Hare | 218904 | [218904-bucky-ohare.json](./218904-bucky-ohare.json) |
 | Bucky O'Hare | 238860 | [238860-bucky-ohare.json](./238860-bucky-ohare.json) |
@@ -16587,6 +16590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
 | Bullet Box | 410199 | [410199-bullet-box.json](./410199-bullet-box.json) |
 | Bullet Boy | 58561 | [58561-bullet-boy.json](./58561-bullet-boy.json) |
+| Bullet Brain | 320075 | [320075-bullet-brain.json](./320075-bullet-brain.json) |
 | Bullet Brawl | 246031 | [246031-bullet-brawl.json](./246031-bullet-brawl.json) |
 | Bullet Break | 346017 | [346017-bullet-break.json](./346017-bullet-break.json) |
 | Bullet Bunny | 246029 | [246029-bullet-bunny.json](./246029-bullet-bunny.json) |
