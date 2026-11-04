@@ -13494,6 +13494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Car | 40015 | [40015-armored-car.json](./40015-armored-car.json) |
 | Armored Cavalry: Metalline | 164175 | [164175-armored-cavalry-metalline.json](./164175-armored-cavalry-metalline.json) |
 | Armored Combat Tank Warfare Online | 205083 | [205083-armored-combat-tank-warfare-online.json](./205083-armored-combat-tank-warfare-online.json) |
+| Armored Core | 331208 | [331208-armored-core.json](./331208-armored-core.json) |
 | Armored Core 2 | 31719 | [31719-armored-core-2.json](./31719-armored-core-2.json) |
 | Armored Core 2: Another Age | 46029 | [46029-armored-core-2-another-age.json](./46029-armored-core-2-another-age.json) |
 | Armored Core 3 | 19414 | [19414-armored-core-3.json](./19414-armored-core-3.json) |
@@ -13509,8 +13510,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core: Last Raven Portable | 38480 | [38480-armored-core-last-raven-portable.json](./38480-armored-core-last-raven-portable.json) |
 | Armored Core: Machine Side Box | 382351 | [382351-armored-core-machine-side-box.json](./382351-armored-core-machine-side-box.json) |
 | Armored Core: Master of Arena | 19424 | [19424-armored-core-master-of-arena.json](./19424-armored-core-master-of-arena.json) |
+| Armored Core: Master of Arena | 331210 | [331210-armored-core-master-of-arena.json](./331210-armored-core-master-of-arena.json) |
 | Armored Core: Nexus | 19412 | [19412-armored-core-nexus.json](./19412-armored-core-nexus.json) |
 | Armored Core: Project Phantasma | 19428 | [19428-armored-core-project-phantasma.json](./19428-armored-core-project-phantasma.json) |
+| Armored Core: Project Phantasma | 331209 | [331209-armored-core-project-phantasma.json](./331209-armored-core-project-phantasma.json) |
 | Armored Core: Silent Line Portable | 21757 | [21757-armored-core-silent-line-portable.json](./21757-armored-core-silent-line-portable.json) |
 | Armored Evolution | 81638 | [81638-armored-evolution.json](./81638-armored-evolution.json) |
 | Armored Fighter | 111573 | [111573-armored-fighter.json](./111573-armored-fighter.json) |
@@ -16001,6 +16004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
