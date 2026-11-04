@@ -3012,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up Square | 272875 | [272875-up-square.json](./272875-up-square.json) |
 | Up the Hill Down to the Nevermind | 257210 | [257210-up-the-hill-down-to-the-nevermind.json](./257210-up-the-hill-down-to-the-nevermind.json) |
 | Up the Light | 183397 | [183397-up-the-light.json](./183397-up-the-light.json) |
+| Up The Romhack | 307526 | [307526-up-the-romhack.json](./307526-up-the-romhack.json) |
 | Up to Clouds | 240097 | [240097-up-to-clouds.json](./240097-up-to-clouds.json) |
 | Up to Divine | 346697 | [346697-up-to-divine.json](./346697-up-to-divine.json) |
 | Up to Gods | 275351 | [275351-up-to-gods.json](./275351-up-to-gods.json) |
