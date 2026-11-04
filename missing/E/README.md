@@ -2622,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elleria: Book 1 | 341539 | [341539-elleria-book-1.json](./341539-elleria-book-1.json) |
 | Elleros Openworld | 113245 | [113245-elleros-openworld.json](./113245-elleros-openworld.json) |
 | Elli | 111546 | [111546-elli.json](./111546-elli.json) |
+| Ellia | 300242 | [300242-ellia.json](./300242-ellia.json) |
 | Ellie | 113681 | [113681-ellie.json](./113681-ellie.json) |
 | Ellie & Max | 175426 | [175426-ellie-and-max.json](./175426-ellie-and-max.json) |
 | Ellie: Help me out, please... | 208071 | [208071-ellie-help-me-out-please.json](./208071-ellie-help-me-out-please.json) |
