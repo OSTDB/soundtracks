@@ -1163,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can't Hold My Feelings | 403434 | [403434-cant-hold-my-feelings.json](./403434-cant-hold-my-feelings.json) |
 | Can't Let Go | 185841 | [185841-cant-let-go.json](./185841-cant-let-go.json) |
 | Can't Live Without Electricity | 242944 | [242944-cant-live-without-electricity.json](./242944-cant-live-without-electricity.json) |
+| Can't Revert | 309825 | [309825-cant-revert.json](./309825-cant-revert.json) |
 | Can't Run Frm Evil | 262294 | [262294-cant-run-frm-evil.json](./262294-cant-run-frm-evil.json) |
 | Can't Sleep | 184723 | [184723-cant-sleep.json](./184723-cant-sleep.json) |
 | Can't Sleep! | 333627 | [333627-cant-sleep.json](./333627-cant-sleep.json) |
@@ -8557,6 +8558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle of Swords | 276242 | [276242-circle-of-swords.json](./276242-circle-of-swords.json) |
 | Circle Pong | 289388 | [289388-circle-pong.json](./289388-circle-pong.json) |
 | Circle Tank | 138658 | [138658-circle-tank.json](./138658-circle-tank.json) |
+| Circle TD: Defence War | 309819 | [309819-circle-td-defence-war.json](./309819-circle-td-defence-war.json) |
 | Circle the Dot | 39200 | [39200-circle-the-dot.json](./39200-circle-the-dot.json) |
 | Circle the Fish | 214168 | [214168-circle-the-fish.json](./214168-circle-the-fish.json) |
 | Circle the Wagons: Prima Septimana | 274506 | [274506-circle-the-wagons-prima-septimana.json](./274506-circle-the-wagons-prima-septimana.json) |
@@ -9813,6 +9815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Manga: Ginga Eiyuu Densetsu 2 | 259487 | [259487-click-manga-ginga-eiyuu-densetsu-2.json](./259487-click-manga-ginga-eiyuu-densetsu-2.json) |
 | Click Manga: Opera Za no Kaijin | 260111 | [260111-click-manga-opera-za-no-kaijin.json](./260111-click-manga-opera-za-no-kaijin.json) |
 | Click Me Harder | 365165 | [365165-click-me-harder.json](./365165-click-me-harder.json) |
+| Click Me: Hentai Adventure | 309803 | [309803-click-me-hentai-adventure.json](./309803-click-me-hentai-adventure.json) |
 | Click Medic | 64064 | [64064-click-medic.json](./64064-click-medic.json) |
 | Click of Cthulhu | 175845 | [175845-click-of-cthulhu.json](./175845-click-of-cthulhu.json) |
 | Click On Cups Together | 309480 | [309480-click-on-cups-together.json](./309480-click-on-cups-together.json) |
@@ -10479,6 +10482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Cat | 259242 | [259242-clumsy-cat.json](./259242-clumsy-cat.json) |
 | Clumsy Chef | 84078 | [84078-clumsy-chef.json](./84078-clumsy-chef.json) |
 | Clumsy Climber | 105782 | [105782-clumsy-climber.json](./105782-clumsy-climber.json) |
+| Clumsy Coffee Simulator | 309829 | [309829-clumsy-coffee-simulator.json](./309829-clumsy-coffee-simulator.json) |
 | Clumsy Fighting | 104613 | [104613-clumsy-fighting.json](./104613-clumsy-fighting.json) |
 | Clumsy Fish | 240836 | [240836-clumsy-fish.json](./240836-clumsy-fish.json) |
 | Clumsy Fred | 43103 | [43103-clumsy-fred.json](./43103-clumsy-fred.json) |
@@ -13440,6 +13444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Containers | 338885 | [338885-containers.json](./338885-containers.json) |
 | Containment | 100079 | [100079-containment.json](./100079-containment.json) |
 | Containment | 81618 | [81618-containment.json](./81618-containment.json) |
+| Containment Breach | 309813 | [309813-containment-breach.json](./309813-containment-breach.json) |
 | Containment Corps | 55668 | [55668-containment-corps.json](./55668-containment-corps.json) |
 | Containment Initiative 2 | 304383 | [304383-containment-initiative-2.json](./304383-containment-initiative-2.json) |
 | Containment Initiative: PC Standalone | 99583 | [99583-containment-initiative-pc-standalone.json](./99583-containment-initiative-pc-standalone.json) |
@@ -14566,6 +14571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Raze | 320535 | [320535-cosmic-raze.json](./320535-cosmic-raze.json) |
 | Cosmic Reach | 292852 | [292852-cosmic-reach.json](./292852-cosmic-reach.json) |
 | Cosmic Relief: Prof. Renegade to the Rescue | 12282 | [12282-cosmic-relief-prof-renegade-to-the-rescue.json](./12282-cosmic-relief-prof-renegade-to-the-rescue.json) |
+| Cosmic Remnants | 309831 | [309831-cosmic-remnants.json](./309831-cosmic-remnants.json) |
 | Cosmic Resistance | 262816 | [262816-cosmic-resistance.json](./262816-cosmic-resistance.json) |
 | Cosmic Rift | 72918 | [72918-cosmic-rift.json](./72918-cosmic-rift.json) |
 | Cosmic Robots | 301006 | [301006-cosmic-robots.json](./301006-cosmic-robots.json) |
