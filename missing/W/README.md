@@ -3820,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Naughtiness | 226154 | [226154-wheel-of-naughtiness.json](./226154-wheel-of-naughtiness.json) |
 | Wheel of Time MUD | 229107 | [229107-wheel-of-time-mud.json](./229107-wheel-of-time-mud.json) |
 | Wheel of Wealth 3D | 113428 | [113428-wheel-of-wealth-3d.json](./113428-wheel-of-wealth-3d.json) |
+| Wheel of Words: Crossword | 332171 | [332171-wheel-of-words-crossword.json](./332171-wheel-of-words-crossword.json) |
 | Wheel Runner | 280137 | [280137-wheel-runner.json](./280137-wheel-runner.json) |
 | Wheel Saint: Hellride | 384669 | [384669-wheel-saint-hellride.json](./384669-wheel-saint-hellride.json) |
 | Wheel Smash | 149352 | [149352-wheel-smash.json](./149352-wheel-smash.json) |
