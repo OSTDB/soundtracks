@@ -2337,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lefties' Righteous Arcade Emporium | 289305 | [289305-lefties-righteous-arcade-emporium.json](./289305-lefties-righteous-arcade-emporium.json) |
 | Leftovers | 221977 | [221977-leftovers.json](./221977-leftovers.json) |
 | Leftovers KO! | 332912 | [332912-leftovers-ko.json](./332912-leftovers-ko.json) |
+| LeftRedRightBlue | 328175 | [328175-leftredrightblue.json](./328175-leftredrightblue.json) |
 | LeftWay | 52279 | [52279-leftway.json](./52279-leftway.json) |
 | Lefty | 178636 | [178636-lefty.json](./178636-lefty.json) |
 | Lefty | 309955 | [309955-lefty.json](./309955-lefty.json) |
@@ -3962,7 +3963,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level Zero: Extraction | 223473 | [223473-level-zero-extraction.json](./223473-level-zero-extraction.json) |
 | Level-ROM | 116804 | [116804-level-rom.json](./116804-level-rom.json) |
 | Leveleers | 348378 | [348378-leveleers.json](./348378-leveleers.json) |
-| Levelhead | 101245 | [101245-levelhead.json](./101245-levelhead.json) |
 | Levelhead | 212695 | [212695-levelhead.json](./212695-levelhead.json) |
 | LevelMergePuzzle | 297652 | [297652-levelmergepuzzle.json](./297652-levelmergepuzzle.json) |
 | Levels | 391700 | [391700-levels.json](./391700-levels.json) |
@@ -7480,6 +7480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of the Realm: Royal Edition | 51841 | [51841-lords-of-the-realm-royal-edition.json](./51841-lords-of-the-realm-royal-edition.json) |
 | Lords of the Rising Sun | 8669 | [8669-lords-of-the-rising-sun.json](./8669-lords-of-the-rising-sun.json) |
 | Lords of the Shattered Kingdom | 133787 | [133787-lords-of-the-shattered-kingdom.json](./133787-lords-of-the-shattered-kingdom.json) |
+| Lords of the Void | 328183 | [328183-lords-of-the-void.json](./328183-lords-of-the-void.json) |
 | Lords of Time | 23050 | [23050-lords-of-time.json](./23050-lords-of-time.json) |
 | Lords of Uberdark | 65774 | [65774-lords-of-uberdark.json](./65774-lords-of-uberdark.json) |
 | Lords of Xulima | 9191 | [9191-lords-of-xulima.json](./9191-lords-of-xulima.json) |
@@ -7631,7 +7632,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Brothers | 127311 | [127311-lost-brothers.json](./127311-lost-brothers.json) |
 | Lost Bubbles: Sweet Mates | 185666 | [185666-lost-bubbles-sweet-mates.json](./185666-lost-bubbles-sweet-mates.json) |
 | Lost Bus | 376769 | [376769-lost-bus.json](./376769-lost-bus.json) |
-| Lost But Found | 319745 | [319745-lost-but-found.json](./319745-lost-but-found.json) |
 | Lost but Lucid | 213549 | [213549-lost-but-lucid.json](./213549-lost-but-lucid.json) |
 | Lost Call | 392195 | [392195-lost-call.json](./392195-lost-call.json) |
 | Lost Case: Monster Girl Takeover | 140578 | [140578-lost-case-monster-girl-takeover.json](./140578-lost-case-monster-girl-takeover.json) |
