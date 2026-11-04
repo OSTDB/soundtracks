@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3663,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Hunters Zero | 194167 | [194167-battle-hunters-zero.json](./194167-battle-hunters-zero.json) |
 | Battle In Space | 212470 | [212470-battle-in-space.json](./212470-battle-in-space.json) |
 | Battle in the City | 161623 | [161623-battle-in-the-city.json](./161623-battle-in-the-city.json) |
+| Battle in the Future | 321886 | [321886-battle-in-the-future.json](./321886-battle-in-the-future.json) |
 | Battle Insects | 52644 | [52644-battle-insects.json](./52644-battle-insects.json) |
 | Battle Ion | 87779 | [87779-battle-ion.json](./87779-battle-ion.json) |
 | Battle Island | 69491 | [69491-battle-island.json](./69491-battle-island.json) |
@@ -17321,6 +17323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burrito Bison Revenge | 95938 | [95938-burrito-bison-revenge.json](./95938-burrito-bison-revenge.json) |
 | Burrito Bison: Launcha Libre | 80360 | [80360-burrito-bison-launcha-libre.json](./80360-burrito-bison-launcha-libre.json) |
 | Burrito Galaxy 65 | 61875 | [61875-burrito-galaxy-65.json](./61875-burrito-galaxy-65.json) |
+| Burritos | 321875 | [321875-burritos.json](./321875-burritos.json) |
 | Burrow | 158717 | [158717-burrow.json](./158717-burrow.json) |
 | Burrow | 287496 | [287496-burrow.json](./287496-burrow.json) |
 | Burrow | 376800 | [376800-burrow.json](./376800-burrow.json) |
