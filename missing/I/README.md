@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Made A Contract with 3 Cute Devils?! | 206949 | [206949-i-made-a-contract-with-3-cute-devils.json](./206949-i-made-a-contract-with-3-cute-devils.json) |
 | I Made a Game with Zombies in It! | 94033 | [94033-i-made-a-game-with-zombies-in-it.json](./94033-i-made-a-game-with-zombies-in-it.json) |
 | I Made Her Up | 374673 | [374673-i-made-her-up.json](./374673-i-made-her-up.json) |
+| I Made Myself a Ship | 306279 | [306279-i-made-myself-a-ship.json](./306279-i-made-myself-a-ship.json) |
 | I Made this Game in 3 Days | 263505 | [263505-i-made-this-game-in-3-days.json](./263505-i-made-this-game-in-3-days.json) |
 | I Made This Game on a Shitty Chromebook | 240092 | [240092-i-made-this-game-on-a-shitty-chromebook.json](./240092-i-made-this-game-on-a-shitty-chromebook.json) |
 | I Maed a Gam3 W1th Z0mb1es 1n it!!!1 | 181112 | [181112-i-maed-a-gam3-w1th-z0mb1es-1n-it-1.json](./181112-i-maed-a-gam3-w1th-z0mb1es-1n-it-1.json) |
@@ -2769,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Search Of You | 314375 | [314375-in-search-of-you.json](./314375-in-search-of-you.json) |
 | In Search Of... | 159715 | [159715-in-search-of.json](./159715-in-search-of.json) |
 | In Season | 340755 | [340755-in-season.json](./340755-in-season.json) |
+| In Service of the Queen | 306287 | [306287-in-service-of-the-queen.json](./306287-in-service-of-the-queen.json) |
 | In Shape | 191123 | [191123-in-shape.json](./191123-in-shape.json) |
 | In Shape 2 | 189363 | [189363-in-shape-2.json](./189363-in-shape-2.json) |
 | In Silence | 140038 | [140038-in-silence.json](./140038-in-silence.json) |
@@ -6055,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Xtreme Stunts | 15739 | [15739-island-xtreme-stunts.json](./15739-island-xtreme-stunts.json) |
 | Island Xtreme Stunts | 300709 | [300709-island-xtreme-stunts.json](./300709-island-xtreme-stunts.json) |
 | Island_Name_Here | 222274 | [222274-island-name-here.json](./222274-island-name-here.json) |
+| Island, Sex & Survival | 306302 | [306302-island-sex-and-survival.json](./306302-island-sex-and-survival.json) |
 | Islanded | 10350 | [10350-islanded.json](./10350-islanded.json) |
 | Islander | 176851 | [176851-islander.json](./176851-islander.json) |
 | Islanders | 116133 | [116133-islanders.json](./116133-islanders.json) |
