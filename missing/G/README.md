@@ -1816,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Roses: Summerset | 244917 | [244917-garden-of-roses-summerset.json](./244917-garden-of-roses-summerset.json) |
 | Garden of Seif: Chronicles of an Assassin | 195081 | [195081-garden-of-seif-chronicles-of-an-assassin.json](./195081-garden-of-seif-chronicles-of-an-assassin.json) |
 | Garden of Seif: Curse of Gravehollow Peaks | 209456 | [209456-garden-of-seif-curse-of-gravehollow-peaks.json](./209456-garden-of-seif-curse-of-gravehollow-peaks.json) |
+| Garden of Táozi | 305693 | [305693-garden-of-taozi.json](./305693-garden-of-taozi.json) |
 | Garden of the Atom | 384819 | [384819-garden-of-the-atom.json](./384819-garden-of-the-atom.json) |
 | Garden of the Greek Goddesses: Aphrodite, Artemis & Athena Love Story. | 370809 | [370809-garden-of-the-greek-goddesses-aphrodite-artemis-and-athena-love-story.json](./370809-garden-of-the-greek-goddesses-aphrodite-artemis-and-athena-love-story.json) |
 | Garden of the Greek Gods: Zeus, Poseidon & Hades Love Story | 370810 | [370810-garden-of-the-greek-gods-zeus-poseidon-and-hades-love-story.json](./370810-garden-of-the-greek-gods-zeus-poseidon-and-hades-love-story.json) |
