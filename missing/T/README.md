@@ -6664,6 +6664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Breadmaker | 197524 | [197524-the-breadmaker.json](./197524-the-breadmaker.json) |
 | The Break-In | 199298 | [199298-the-break-in.json](./199298-the-break-in.json) |
 | The BreakFive | 339214 | [339214-the-breakfive.json](./339214-the-breakfive.json) |
+| The Breakup Arena | 304489 | [304489-the-breakup-arena.json](./304489-the-breakup-arena.json) |
 | the Breath. | 59242 | [59242-the-breath.json](./59242-the-breath.json) |
 | The Brew Barons | 149850 | [149850-the-brew-barons.json](./149850-the-brew-barons.json) |
 | The Brewline | 389336 | [389336-the-brewline.json](./389336-the-brewline.json) |
@@ -7570,6 +7571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crystal Maze | 13247 | [13247-the-crystal-maze.json](./13247-the-crystal-maze.json) |
 | The Crystal Nebula | 31963 | [31963-the-crystal-nebula.json](./31963-the-crystal-nebula.json) |
 | The Crystal of Kings | 39487 | [39487-the-crystal-of-kings.json](./39487-the-crystal-of-kings.json) |
+| The Crystal of the Cave | 304404 | [304404-the-crystal-of-the-cave.json](./304404-the-crystal-of-the-cave.json) |
 | The Crystal Rainforest | 151716 | [151716-the-crystal-rainforest.json](./151716-the-crystal-rainforest.json) |
 | The Crystal Skull | 69558 | [69558-the-crystal-skull.json](./69558-the-crystal-skull.json) |
 | The Crystals of Atlantis | 290456 | [290456-the-crystals-of-atlantis.json](./290456-the-crystals-of-atlantis.json) |
@@ -8991,6 +8993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fallen Priest | 276397 | [276397-the-fallen-priest.json](./276397-the-fallen-priest.json) |
 | The Fallen Star | 296856 | [296856-the-fallen-star.json](./296856-the-fallen-star.json) |
 | The Fallen Will | 386447 | [386447-the-fallen-will.json](./386447-the-fallen-will.json) |
+| The Falling Car | 304403 | [304403-the-falling-car.json](./304403-the-falling-car.json) |
 | The Falling Nights | 36481 | [36481-the-falling-nights.json](./36481-the-falling-nights.json) |
 | The Falling Skies | 405879 | [405879-the-falling-skies.json](./405879-the-falling-skies.json) |
 | The Falling Star | 344441 | [344441-the-falling-star.json](./344441-the-falling-star.json) |
@@ -17864,6 +17867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unseen | 67599 | [67599-the-unseen.json](./67599-the-unseen.json) |
 | The Unseen Awakening | 347148 | [347148-the-unseen-awakening.json](./347148-the-unseen-awakening.json) |
 | The Unseen Fears: Body Thief - Collector's Edition | 377077 | [377077-the-unseen-fears-body-thief-collectors-edition.json](./377077-the-unseen-fears-body-thief-collectors-edition.json) |
+| The Unseen Fears: Fortune's Consequence - Collector's Edition | 304421 | [304421-the-unseen-fears-fortunes-consequence-collectors-edition.json](./304421-the-unseen-fears-fortunes-consequence-collectors-edition.json) |
 | The Unseen Fears: Inner Darkness | 345420 | [345420-the-unseen-fears-inner-darkness.json](./345420-the-unseen-fears-inner-darkness.json) |
 | The Unseen Fears: Inner Darkness - Collector's Edition | 416788 | [416788-the-unseen-fears-inner-darkness-collectors-edition.json](./416788-the-unseen-fears-inner-darkness-collectors-edition.json) |
 | The Unseen Fears: Last Dance - Collector's Edition | 356603 | [356603-the-unseen-fears-last-dance-collectors-edition.json](./356603-the-unseen-fears-last-dance-collectors-edition.json) |
@@ -18258,6 +18262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Watch | 377135 | [377135-the-watch.json](./377135-the-watch.json) |
 | The Watcher | 238515 | [238515-the-watcher.json](./238515-the-watcher.json) |
 | The Watcher | 413734 | [413734-the-watcher.json](./413734-the-watcher.json) |
+| The Watcher's Curse | 304497 | [304497-the-watchers-curse.json](./304497-the-watchers-curse.json) |
 | The Watching Woods: The Friend | 405837 | [405837-the-watching-woods-the-friend.json](./405837-the-watching-woods-the-friend.json) |
 | The Watching Woods: The Louse | 385331 | [385331-the-watching-woods-the-louse.json](./385331-the-watching-woods-the-louse.json) |
 | The Watchmaker | 2945 | [2945-the-watchmaker.json](./2945-the-watchmaker.json) |
@@ -25155,6 +25160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Chaos Against Apathy | 387453 | [387453-total-chaos-against-apathy.json](./387453-total-chaos-against-apathy.json) |
 | Total Club Manager 2003 | 6211 | [6211-total-club-manager-2003.json](./6211-total-club-manager-2003.json) |
 | Total Club Manager 2004 | 6207 | [6207-total-club-manager-2004.json](./6207-total-club-manager-2004.json) |
+| Total Conflict: Resistance - Eastern Airborne Forces | 304418 | [304418-total-conflict-resistance-eastern-airborne-forces.json](./304418-total-conflict-resistance-eastern-airborne-forces.json) |
 | Total Control | 256813 | [256813-total-control.json](./256813-total-control.json) |
 | Total Dark | 156834 | [156834-total-dark.json](./156834-total-dark.json) |
 | Total Destruction 2Dee | 417712 | [417712-total-destruction-2dee.json](./417712-total-destruction-2dee.json) |
@@ -26906,6 +26912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffix: City Rush | 175138 | [175138-traffix-city-rush.json](./175138-traffix-city-rush.json) |
 | Trafic Road Rush | 111869 | [111869-trafic-road-rush.json](./111869-trafic-road-rush.json) |
 | Trafico | 81797 | [81797-trafico.json](./81797-trafico.json) |
+| Tragala | 304496 | [304496-tragala.json](./304496-tragala.json) |
 | Tragedy at Ashville Lane | 329459 | [329459-tragedy-at-ashville-lane.json](./329459-tragedy-at-ashville-lane.json) |
 | Tragedy in Reality | 282166 | [282166-tragedy-in-reality.json](./282166-tragedy-in-reality.json) |
 | Tragedy of Loneliness | 158614 | [158614-tragedy-of-loneliness.json](./158614-tragedy-of-loneliness.json) |
@@ -26938,6 +26945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrailBlazer | 79138 | [79138-trailblazer.json](./79138-trailblazer.json) |
 | Trailblazer Advance | 246565 | [246565-trailblazer-advance.json](./246565-trailblazer-advance.json) |
 | Trailblazers | 88383 | [88383-trailblazers.json](./88383-trailblazers.json) |
+| Trailblazers: Into the March | 304503 | [304503-trailblazers-into-the-march.json](./304503-trailblazers-into-the-march.json) |
 | Trailbreaker: Jupiter Edition | 109516 | [109516-trailbreaker-jupiter-edition.json](./109516-trailbreaker-jupiter-edition.json) |
 | Trailcam | 319792 | [319792-trailcam.json](./319792-trailcam.json) |
 | Traildown: Downhill Mountain Biking | 226587 | [226587-traildown-downhill-mountain-biking.json](./226587-traildown-downhill-mountain-biking.json) |
@@ -31504,6 +31512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turkey Hunter 3D | 70317 | [70317-turkey-hunter-3d.json](./70317-turkey-hunter-3d.json) |
 | Turkey Hunter Deluxe | 57331 | [57331-turkey-hunter-deluxe.json](./57331-turkey-hunter-deluxe.json) |
 | Turkey Hunting USA | 331746 | [331746-turkey-hunting-usa.json](./331746-turkey-hunting-usa.json) |
+| Turkey Man | 304477 | [304477-turkey-man.json](./304477-turkey-man.json) |
 | Turkey Runner | 404422 | [404422-turkey-runner.json](./404422-turkey-runner.json) |
 | Turkey Shoot | 24649 | [24649-turkey-shoot.json](./24649-turkey-shoot.json) |
 | Turkey Stuffin' | 62690 | [62690-turkey-stuffin.json](./62690-turkey-stuffin.json) |
