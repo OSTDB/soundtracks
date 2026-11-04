@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dadum The Dice | 386833 | [386833-dadum-the-dice.json](./386833-dadum-the-dice.json) |
 | Daedalian Opus | 48951 | [48951-daedalian-opus.json](./48951-daedalian-opus.json) |
 | Daedalic Complex | 111465 | [111465-daedalic-complex.json](./111465-daedalic-complex.json) |
+| Daedalic Turn-Based Bundle | 324216 | [324216-daedalic-turn-based-bundle.json](./324216-daedalic-turn-based-bundle.json) |
 | Daedalus | 282003 | [282003-daedalus.json](./282003-daedalus.json) |
 | Daedalus - No Escape | 17691 | [17691-daedalus-no-escape.json](./17691-daedalus-no-escape.json) |
 | Daedalus Demise | 144081 | [144081-daedalus-demise.json](./144081-daedalus-demise.json) |
@@ -1967,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Train: Coupe | 51436 | [51436-dark-train-coupe.json](./51436-dark-train-coupe.json) |
 | Dark Traveller | 241952 | [241952-dark-traveller.json](./241952-dark-traveller.json) |
 | Dark Treasury | 151482 | [151482-dark-treasury.json](./151482-dark-treasury.json) |
+| Dark Trip | 324061 | [324061-dark-trip.json](./324061-dark-trip.json) |
 | Dark Umbra | 295793 | [295793-dark-umbra.json](./295793-dark-umbra.json) |
 | Dark Undergrowth | 402801 | [402801-dark-undergrowth.json](./402801-dark-undergrowth.json) |
 | Dark Universe | 256893 | [256893-dark-universe.json](./256893-dark-universe.json) |
@@ -16921,6 +16923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuckTape Inc. | 383071 | [383071-ducktape-inc.json](./383071-ducktape-inc.json) |
 | Duckthing's Rolling Rooms | 292417 | [292417-duckthings-rolling-rooms.json](./292417-duckthings-rolling-rooms.json) |
 | Ducktopia | 169388 | [169388-ducktopia.json](./169388-ducktopia.json) |
+| Duckweed | 324209 | [324209-duckweed.json](./324209-duckweed.json) |
 | DuckWorld Revive | 327960 | [327960-duckworld-revive.json](./327960-duckworld-revive.json) |
 | DuckWorld Smart Adventures | 327959 | [327959-duckworld-smart-adventures.json](./327959-duckworld-smart-adventures.json) |
 | Ducky | 188804 | [188804-ducky.json](./188804-ducky.json) |
