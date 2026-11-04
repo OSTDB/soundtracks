@@ -1540,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Wanderers From Ys MSX2 | 342389 | [342389-eggconsole-wanderers-from-ys-msx2.json](./342389-eggconsole-wanderers-from-ys-msx2.json) |
 | Eggconsole Wanderers From Ys PC-8801mkIISR | 300861 | [300861-eggconsole-wanderers-from-ys-pc-8801mkiisr.json](./300861-eggconsole-wanderers-from-ys-pc-8801mkiisr.json) |
 | Eggconsole Wonderland of Carbuncle MSX2 | 387106 | [387106-eggconsole-wonderland-of-carbuncle-msx2.json](./387106-eggconsole-wonderland-of-carbuncle-msx2.json) |
+| Eggconsole Xak II PC-8801mkIISR | 324199 | [324199-eggconsole-xak-ii-pc-8801mkiisr.json](./324199-eggconsole-xak-ii-pc-8801mkiisr.json) |
 | Eggconsole Xak PC-8801mkIISR | 292867 | [292867-eggconsole-xak-pc-8801mkiisr.json](./292867-eggconsole-xak-pc-8801mkiisr.json) |
 | Eggconsole Xak Precious Package: The Tower of Gazzel PC-8801mkIISR | 358628 | [358628-eggconsole-xak-precious-package-the-tower-of-gazzel-pc-8801mkiisr.json](./358628-eggconsole-xak-precious-package-the-tower-of-gazzel-pc-8801mkiisr.json) |
 | Eggconsole Xanadu MSX | 378796 | [378796-eggconsole-xanadu-msx.json](./378796-eggconsole-xanadu-msx.json) |
@@ -1548,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Yokai Tantei PC-8801 | 283284 | [283284-eggconsole-yokai-tantei-pc-8801.json](./283284-eggconsole-yokai-tantei-pc-8801.json) |
 | Eggconsole Ys II MSX2 | 328525 | [328525-eggconsole-ys-ii-msx2.json](./328525-eggconsole-ys-ii-msx2.json) |
 | Eggconsole Ys II PC-8801mkIISR | 290446 | [290446-eggconsole-ys-ii-pc-8801mkiisr.json](./290446-eggconsole-ys-ii-pc-8801mkiisr.json) |
+| Eggconsole Ys MSX2 | 324212 | [324212-eggconsole-ys-msx2.json](./324212-eggconsole-ys-msx2.json) |
 | Eggconsole Ys PC-8801mkIISR | 286210 | [286210-eggconsole-ys-pc-8801mkiisr.json](./286210-eggconsole-ys-pc-8801mkiisr.json) |
 | Eggconsole Yuureikun MSX2 | 381705 | [381705-eggconsole-yuureikun-msx2.json](./381705-eggconsole-yuureikun-msx2.json) |
 | Eggconsole Zanac MSX | 328734 | [328734-eggconsole-zanac-msx.json](./328734-eggconsole-zanac-msx.json) |
@@ -7849,6 +7851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extrapower Attack of Darkforce | 191751 | [191751-extrapower-attack-of-darkforce.json](./191751-extrapower-attack-of-darkforce.json) |
 | Extrapower Giant Fist | 191749 | [191749-extrapower-giant-fist.json](./191749-extrapower-giant-fist.json) |
 | Extrapower Star Resistance | 191696 | [191696-extrapower-star-resistance.json](./191696-extrapower-star-resistance.json) |
+| Extrasensoric | 324239 | [324239-extrasensoric.json](./324239-extrasensoric.json) |
 | Extrasolar | 61900 | [61900-extrasolar.json](./61900-extrasolar.json) |
 | Extravaganza Rising | 32078 | [32078-extravaganza-rising.json](./32078-extravaganza-rising.json) |
 | Extreme | 13655 | [13655-extreme.json](./13655-extreme.json) |
