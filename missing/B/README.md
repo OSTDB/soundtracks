@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-Units Build it! | 65712 | [65712-b-units-build-it.json](./65712-b-units-build-it.json) |
 | B-Wings | 273080 | [273080-b-wings.json](./273080-b-wings.json) |
 | B:(ursed | 223862 | [223862-b-ursed.json](./223862-b-ursed.json) |
+| B. | 326494 | [326494-b.json](./326494-b.json) |
 | B. Braun Aesculap Spine VR | 107686 | [107686-b-braun-aesculap-spine-vr.json](./107686-b-braun-aesculap-spine-vr.json) |
 | B. Braun Future Operating Room | 30686 | [30686-b-braun-future-operating-room.json](./30686-b-braun-future-operating-room.json) |
 | B. C. Story | 39879 | [39879-b-c-story.json](./39879-b-c-story.json) |
@@ -2632,10 +2633,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barney Bear Goes to Space | 12400 | [12400-barney-bear-goes-to-space.json](./12400-barney-bear-goes-to-space.json) |
 | Barney Bear Goes to the Farm | 14285 | [14285-barney-bear-goes-to-the-farm.json](./14285-barney-bear-goes-to-the-farm.json) |
 | Barney Bear Meets Santa Claus | 14286 | [14286-barney-bear-meets-santa-claus.json](./14286-barney-bear-meets-santa-claus.json) |
+| Barney Carnage | 325811 | [325811-barney-carnage.json](./325811-barney-carnage.json) |
+| Barney Hunter | 325812 | [325812-barney-hunter.json](./325812-barney-hunter.json) |
 | Barney Mutilator | 338036 | [338036-barney-mutilator.json](./338036-barney-mutilator.json) |
 | Barney Shoot 'Em Up | 325816 | [325816-barney-shoot-em-up.json](./325816-barney-shoot-em-up.json) |
 | Barney: Magical Music | 206239 | [206239-barney-magical-music.json](./206239-barney-magical-music.json) |
 | Barney: On Location - All Around Town | 73702 | [73702-barney-on-location-all-around-town.json](./73702-barney-on-location-all-around-town.json) |
+| Barney: The Land of Make Believe | 325814 | [325814-barney-the-land-of-make-believe.json](./325814-barney-the-land-of-make-believe.json) |
 | Barney's Dream Cruise | 120908 | [120908-barneys-dream-cruise.json](./120908-barneys-dream-cruise.json) |
 | Barney's Hide & Seek Game | 46286 | [46286-barneys-hide-and-seek-game.json](./46286-barneys-hide-and-seek-game.json) |
 | BarnFinders: The Pilot | 133072 | [133072-barnfinders-the-pilot.json](./133072-barnfinders-the-pilot.json) |
@@ -6247,6 +6251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bendy Scary & Ink Machines | 216095 | [216095-bendy-scary-and-ink-machines.json](./216095-bendy-scary-and-ink-machines.json) |
 | Bendy Tracks | 106647 | [106647-bendy-tracks.json](./106647-bendy-tracks.json) |
 | Bendy: Ink Demon's Collection | 393061 | [393061-bendy-ink-demons-collection.json](./393061-bendy-ink-demons-collection.json) |
+| Bendy: Lone Wolf | 325968 | [325968-bendy-lone-wolf.json](./325968-bendy-lone-wolf.json) |
 | Bendy: Revive and Survive Bundle | 393062 | [393062-bendy-revive-and-survive-bundle.json](./393062-bendy-revive-and-survive-bundle.json) |
 | Bendy: Secrets of the Machine | 294976 | [294976-bendy-secrets-of-the-machine.json](./294976-bendy-secrets-of-the-machine.json) |
 | Bendy: The Silent City | 265858 | [265858-bendy-the-silent-city.json](./265858-bendy-the-silent-city.json) |
@@ -8083,6 +8088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Game 3 | 402646 | [402646-bird-game-3.json](./402646-bird-game-3.json) |
 | Bird Game III | 381008 | [381008-bird-game-iii.json](./381008-bird-game-iii.json) |
 | Bird Game III | 400160 | [400160-bird-game-iii.json](./400160-bird-game-iii.json) |
+| Bird Go Sky | 325954 | [325954-bird-go-sky.json](./325954-bird-go-sky.json) |
 | Bird Hunt | 100508 | [100508-bird-hunt.json](./100508-bird-hunt.json) |
 | Bird Hunter | 246433 | [246433-bird-hunter.json](./246433-bird-hunter.json) |
 | Bird Hunter 2003: Legendary Hunting | 69525 | [69525-bird-hunter-2003-legendary-hunting.json](./69525-bird-hunter-2003-legendary-hunting.json) |
