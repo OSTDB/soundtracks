@@ -907,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok DS | 21097 | [21097-ragnarok-ds.json](./21097-ragnarok-ds.json) |
 | Ragnarok Idle Adventure Plus | 335646 | [335646-ragnarok-idle-adventure-plus.json](./335646-ragnarok-idle-adventure-plus.json) |
 | Ragnarok Journey | 43890 | [43890-ragnarok-journey.json](./43890-ragnarok-journey.json) |
+| Ragnarok M: Classic | 334425 | [334425-ragnarok-m-classic.json](./334425-ragnarok-m-classic.json) |
 | Ragnarok M: Eternal Love | 111880 | [111880-ragnarok-m-eternal-love.json](./111880-ragnarok-m-eternal-love.json) |
 | Ragnarok M: New Generation | 214034 | [214034-ragnarok-m-new-generation.json](./214034-ragnarok-m-new-generation.json) |
 | Ragnarok Odyssey | 21008 | [21008-ragnarok-odyssey.json](./21008-ragnarok-odyssey.json) |
@@ -6087,6 +6088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Grace | 249477 | [249477-return-to-grace.json](./249477-return-to-grace.json) |
 | Return to Grisly Manor | 88046 | [88046-return-to-grisly-manor.json](./88046-return-to-grisly-manor.json) |
 | Return to Hadron | 142599 | [142599-return-to-hadron.json](./142599-return-to-hadron.json) |
+| Return to Heartbreak Land | 334430 | [334430-return-to-heartbreak-land.json](./334430-return-to-heartbreak-land.json) |
 | Return to Krondor | 8827 | [8827-return-to-krondor.json](./8827-return-to-krondor.json) |
 | Return to Kroz | 71789 | [71789-return-to-kroz.json](./71789-return-to-kroz.json) |
 | Return to Long Shadows | 406091 | [406091-return-to-long-shadows.json](./406091-return-to-long-shadows.json) |
@@ -11364,6 +11366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rrrr3: Piranha | 168051 | [168051-rrrr3-piranha.json](./168051-rrrr3-piranha.json) |
 | RrrrrAbbits | 339983 | [339983-rrrrrabbits.json](./339983-rrrrrabbits.json) |
 | RRWard02 | 274209 | [274209-rrward02.json](./274209-rrward02.json) |
+| RS | 334417 | [334417-rs.json](./334417-rs.json) |
 | RS Boxing Champions | 233162 | [233162-rs-boxing-champions.json](./233162-rs-boxing-champions.json) |
 | RS3: Racing Simulation Three | 73359 | [73359-rs3-racing-simulation-three.json](./73359-rs3-racing-simulation-three.json) |
 | RSDKv4 Decompilation | 202233 | [202233-rsdkv4-decompilation.json](./202233-rsdkv4-decompilation.json) |
