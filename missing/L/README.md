@@ -4617,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Quest | 231991 | [231991-light-quest.json](./231991-light-quest.json) |
 | Light Quest | 89793 | [89793-light-quest.json](./89793-light-quest.json) |
 | Light Rangers: Mending the Maniac Madness | 209406 | [209406-light-rangers-mending-the-maniac-madness.json](./209406-light-rangers-mending-the-maniac-madness.json) |
+| Light Reforged | 302553 | [302553-light-reforged.json](./302553-light-reforged.json) |
 | Light Repair Team #4 | 33498 | [33498-light-repair-team-4.json](./33498-light-repair-team-4.json) |
 | Light Rider | 108427 | [108427-light-rider.json](./108427-light-rider.json) |
 | Light Runner | 107083 | [107083-light-runner.json](./107083-light-runner.json) |
