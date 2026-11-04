@@ -5142,6 +5142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters Pool HD | 345106 | [345106-masters-pool-hd.json](./345106-masters-pool-hd.json) |
 | Masters: Harukanaru Augusta 3 | 268542 | [268542-masters-harukanaru-augusta-3.json](./268542-masters-harukanaru-augusta-3.json) |
 | Masterspace | 36420 | [36420-masterspace.json](./36420-masterspace.json) |
+| MasterType | 315412 | [315412-mastertype.json](./315412-mastertype.json) |
 | MasterWorks: Journey Through History | 281263 | [281263-masterworks-journey-through-history.json](./281263-masterworks-journey-through-history.json) |
 | Mastery of Fate: Phantom King's Rise | 262594 | [262594-mastery-of-fate-phantom-kings-rise.json](./262594-mastery-of-fate-phantom-kings-rise.json) |
 | Mastodonte | 189062 | [189062-mastodonte.json](./189062-mastodonte.json) |
@@ -5718,6 +5719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14251,6 +14253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moemon Bonds | 336897 | [336897-moemon-bonds.json](./336897-moemon-bonds.json) |
 | Moémon Mega FireRed | 229615 | [229615-moemon-mega-firered.json](./229615-moemon-mega-firered.json) |
 | Moémon Quetzal | 406271 | [406271-moemon-quetzal.json](./406271-moemon-quetzal.json) |
+| Moémon Star Emerald | 315400 | [315400-moemon-star-emerald.json](./315400-moemon-star-emerald.json) |
 | Moémon: Heart of Gold | 261128 | [261128-moemon-heart-of-gold.json](./261128-moemon-heart-of-gold.json) |
 | Moen | 258350 | [258350-moen.json](./258350-moen.json) |
 | Moeras | 129565 | [129565-moeras.json](./129565-moeras.json) |
