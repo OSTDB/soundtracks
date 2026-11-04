@@ -7188,6 +7188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excalibur's Swordstone Idle Forge | 265105 | [265105-excaliburs-swordstone-idle-forge.json](./265105-excaliburs-swordstone-idle-forge.json) |
 | Excaliburian!! | 186153 | [186153-excaliburian.json](./186153-excaliburian.json) |
 | Excavate Diamond | 228111 | [228111-excavate-diamond.json](./228111-excavate-diamond.json) |
+| Excavation Alliance: Cadoramo | 325351 | [325351-excavation-alliance-cadoramo.json](./325351-excavation-alliance-cadoramo.json) |
 | Excavator Master 3D | 224053 | [224053-excavator-master-3d.json](./224053-excavator-master-3d.json) |
 | Excavator Simulator | 195369 | [195369-excavator-simulator.json](./195369-excavator-simulator.json) |
 | Excavator Simulator 2018 | 100865 | [100865-excavator-simulator-2018.json](./100865-excavator-simulator-2018.json) |
