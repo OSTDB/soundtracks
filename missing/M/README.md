@@ -1698,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnet Mania 3D | 262580 | [262580-magnet-mania-3d.json](./262580-magnet-mania-3d.json) |
 | Magnet Mechs | 184819 | [184819-magnet-mechs.json](./184819-magnet-mechs.json) |
 | Magnet Miner | 354398 | [354398-magnet-miner.json](./354398-magnet-miner.json) |
+| Magnet World 2 | 339709 | [339709-magnet-world-2.json](./339709-magnet-world-2.json) |
 | Magnet World Final | 315446 | [315446-magnet-world-final.json](./315446-magnet-world-final.json) |
 | Magneta Box | 190007 | [190007-magneta-box.json](./190007-magneta-box.json) |
 | Magnetball Lite | 253272 | [253272-magnetball-lite.json](./253272-magnetball-lite.json) |
@@ -4283,6 +4284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshmallow Madness | 122431 | [122431-marshmallow-madness.json](./122431-marshmallow-madness.json) |
 | Marshmallow Marvin | 331468 | [331468-marshmallow-marvin.json](./331468-marshmallow-marvin.json) |
 | Marshmallow Marvin: Greenwood | 334287 | [334287-marshmallow-marvin-greenwood.json](./334287-marshmallow-marvin-greenwood.json) |
+| Marshmallow Marvin: Grimvault | 339551 | [339551-marshmallow-marvin-grimvault.json](./339551-marshmallow-marvin-grimvault.json) |
 | Marshmallow Marvin: Templestone | 336928 | [336928-marshmallow-marvin-templestone.json](./336928-marshmallow-marvin-templestone.json) |
 | Marshmallow Marvin: Timberfall | 349821 | [349821-marshmallow-marvin-timberfall.json](./349821-marshmallow-marvin-timberfall.json) |
 | Marshmallow Melee | 67600 | [67600-marshmallow-melee.json](./67600-marshmallow-melee.json) |
@@ -8518,6 +8520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Holder: Animal Kingdom | 325397 | [325397-memory-holder-animal-kingdom.json](./325397-memory-holder-animal-kingdom.json) |
 | Memory Holder: Scent of Life | 368180 | [368180-memory-holder-scent-of-life.json](./368180-memory-holder-scent-of-life.json) |
 | Memory Holder: The Alphabet | 347037 | [347037-memory-holder-the-alphabet.json](./347037-memory-holder-the-alphabet.json) |
+| Memory Holder: Winds of Freedom | 339549 | [339549-memory-holder-winds-of-freedom.json](./339549-memory-holder-winds-of-freedom.json) |
 | Memory Holders: The Colors II | 392171 | [392171-memory-holders-the-colors-ii.json](./392171-memory-holders-the-colors-ii.json) |
 | Memory I | 68610 | [68610-memory-i.json](./68610-memory-i.json) |
 | Memory II / Melodie | 72371 | [72371-memory-ii-melodie.json](./72371-memory-ii-melodie.json) |
@@ -15029,6 +15032,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Eggs II | 69026 | [69026-monster-eggs-ii.json](./69026-monster-eggs-ii.json) |
 | Monster Eggs II | 69031 | [69031-monster-eggs-ii.json](./69031-monster-eggs-ii.json) |
 | Monster Elevator | 319188 | [319188-monster-elevator.json](./319188-monster-elevator.json) |
+| Monster Energy Supercross 25 x Monster Jam Showdown: Dirt Master Edition | 339556 | [339556-monster-energy-supercross-25-x-monster-jam-showdown-dirt-master-edition.json](./339556-monster-energy-supercross-25-x-monster-jam-showdown-dirt-master-edition.json) |
+| Monster Energy Supercross 25: Special Edition | 339555 | [339555-monster-energy-supercross-25-special-edition.json](./339555-monster-energy-supercross-25-special-edition.json) |
 | Monster Energy Supercross 25: The Official Video Game | 336380 | [336380-monster-energy-supercross-25-the-official-video-game.json](./336380-monster-energy-supercross-25-the-official-video-game.json) |
 | Monster Energy Supercross 3: Special Edition | 165883 | [165883-monster-energy-supercross-3-special-edition.json](./165883-monster-energy-supercross-3-special-edition.json) |
 | Monster Energy Supercross 5: The Official Videogame - Legends Pack Vol. 2 | 199575 | [199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json](./199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json) |
