@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Very Corporate Escape Room | 207571 | [207571-a-very-corporate-escape-room.json](./207571-a-very-corporate-escape-room.json) |
 | A Very Long Rope to the Top of the Sky | 124616 | [124616-a-very-long-rope-to-the-top-of-the-sky.json](./124616-a-very-long-rope-to-the-top-of-the-sky.json) |
 | A Very Merry Nightmare | 338182 | [338182-a-very-merry-nightmare.json](./338182-a-very-merry-nightmare.json) |
+| A Very Ordinary Elevator Simulator | 332777 | [332777-a-very-ordinary-elevator-simulator.json](./332777-a-very-ordinary-elevator-simulator.json) |
 | A Very Pilkington Christmas | 280752 | [280752-a-very-pilkington-christmas.json](./280752-a-very-pilkington-christmas.json) |
 | A Very Scandalous Proposal | 313852 | [313852-a-very-scandalous-proposal.json](./313852-a-very-scandalous-proposal.json) |
 | A Very Simple Puzzle... | 337070 | [337070-a-very-simple-puzzle.json](./337070-a-very-simple-puzzle.json) |
@@ -4505,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Mythology: Retold - Obsidian Mirror | 395818 | [395818-age-of-mythology-retold-obsidian-mirror.json](./395818-age-of-mythology-retold-obsidian-mirror.json) |
 | Age of Mythology: Retold - Premium Edition | 331245 | [331245-age-of-mythology-retold-premium-edition.json](./331245-age-of-mythology-retold-premium-edition.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
+| Age of Mythology: The Golden Gift | 332776 | [332776-age-of-mythology-the-golden-gift.json](./332776-age-of-mythology-the-golden-gift.json) |
 | Age of Mythology: The Titans | 8221 | [8221-age-of-mythology-the-titans.json](./8221-age-of-mythology-the-titans.json) |
 | Age of Omens | 116777 | [116777-age-of-omens.json](./116777-age-of-omens.json) |
 | Age of Pahlevans | 191670 | [191670-age-of-pahlevans.json](./191670-age-of-pahlevans.json) |
@@ -14409,6 +14411,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes: Afterglow | 184280 | [184280-ashes-afterglow.json](./184280-ashes-afterglow.json) |
 | Ashes: Blackwater | 399273 | [399273-ashes-blackwater.json](./399273-ashes-blackwater.json) |
 | Ashes: Dead Man Walking | 141487 | [141487-ashes-dead-man-walking.json](./141487-ashes-dead-man-walking.json) |
+| Ashes: Death Zone | 332765 | [332765-ashes-death-zone.json](./332765-ashes-death-zone.json) |
+| Ashes: Epoch | 332766 | [332766-ashes-epoch.json](./332766-ashes-epoch.json) |
 | Ashes: Exponential RPG | 213762 | [213762-ashes-exponential-rpg.json](./213762-ashes-exponential-rpg.json) |
 | Ashes: Hard Reset | 305124 | [305124-ashes-hard-reset.json](./305124-ashes-hard-reset.json) |
 | Ashfall | 218167 | [218167-ashfall.json](./218167-ashfall.json) |
