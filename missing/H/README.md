@@ -7682,6 +7682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hime Girl Paradise: Mechikawa! Age Sakari Sensation! | 140934 | [140934-hime-girl-paradise-mechikawa-age-sakari-sensation.json](./140934-hime-girl-paradise-mechikawa-age-sakari-sensation.json) |
 | Hime Hibi Zoku! 2 Gakki: New Princess Days!! | 59372 | [59372-hime-hibi-zoku-2-gakki-new-princess-days.json](./59372-hime-hibi-zoku-2-gakki-new-princess-days.json) |
 | Hime to Boin | 77669 | [77669-hime-to-boin.json](./77669-hime-to-boin.json) |
+| Hime to Inyoku no Testament | 328121 | [328121-hime-to-inyoku-no-testament.json](./328121-hime-to-inyoku-no-testament.json) |
 | Hime to Otome no Yakimochi Love | 416692 | [416692-hime-to-otome-no-yakimochi-love.json](./416692-hime-to-otome-no-yakimochi-love.json) |
 | Hime's Blossom | 249473 | [249473-himes-blossom.json](./249473-himes-blossom.json) |
 | Himegashima Island | 311555 | [311555-himegashima-island.json](./311555-himegashima-island.json) |
@@ -12160,6 +12161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypergalactic Psychic Table Tennis 3000 | 129705 | [129705-hypergalactic-psychic-table-tennis-3000.json](./129705-hypergalactic-psychic-table-tennis-3000.json) |
 | Hypergalaxy Squad | 113397 | [113397-hypergalaxy-squad.json](./113397-hypergalaxy-squad.json) |
 | Hypergate | 87985 | [87985-hypergate.json](./87985-hypergate.json) |
+| HyperGate Mall | 328131 | [328131-hypergate-mall.json](./328131-hypergate-mall.json) |
 | HyperGlide | 211194 | [211194-hyperglide.json](./211194-hyperglide.json) |
 | Hyperhell | 235965 | [235965-hyperhell.json](./235965-hyperhell.json) |
 | Hyperide | 131423 | [131423-hyperide.json](./131423-hyperide.json) |
