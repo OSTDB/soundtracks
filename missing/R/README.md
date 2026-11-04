@@ -9187,6 +9187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket of Whispers: Prologue | 107424 | [107424-rocket-of-whispers-prologue.json](./107424-rocket-of-whispers-prologue.json) |
 | Rocket Panda | 302425 | [302425-rocket-panda.json](./302425-rocket-panda.json) |
 | Rocket Panda Panic | 149818 | [149818-rocket-panda-panic.json](./149818-rocket-panda-panic.json) |
+| Rocket Penguin | 335014 | [335014-rocket-penguin.json](./335014-rocket-penguin.json) |
 | Rocket Pinball | 245413 | [245413-rocket-pinball.json](./245413-rocket-pinball.json) |
 | Rocket Poker | 302396 | [302396-rocket-poker.json](./302396-rocket-poker.json) |
 | Rocket Power: Beach Bandits | 243188 | [243188-rocket-power-beach-bandits.json](./243188-rocket-power-beach-bandits.json) |
