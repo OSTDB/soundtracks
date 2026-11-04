@@ -11354,6 +11354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennium Runners | 336121 | [336121-millennium-runners.json](./336121-millennium-runners.json) |
 | Millennium Secrets: Roxanne’s Necklace | 18880 | [18880-millennium-secrets-roxanne-s-necklace.json](./18880-millennium-secrets-roxanne-s-necklace.json) |
 | Millennium Strategy | 358230 | [358230-millennium-strategy.json](./358230-millennium-strategy.json) |
+| Millennium Whisper | 331607 | [331607-millennium-whisper.json](./331607-millennium-whisper.json) |
 | Millennium Winter Sports | 49962 | [49962-millennium-winter-sports.json](./49962-millennium-winter-sports.json) |
 | Millennium: A New Hope | 8178 | [8178-millennium-a-new-hope.json](./8178-millennium-a-new-hope.json) |
 | Milles, Knight of Anal Tyranny | 59813 | [59813-milles-knight-of-anal-tyranny.json](./59813-milles-knight-of-anal-tyranny.json) |
@@ -14754,6 +14755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Mole Panic | 40386 | [40386-monkey-mole-panic.json](./40386-monkey-mole-panic.json) |
 | Monkey Ninja | 106146 | [106146-monkey-ninja.json](./106146-monkey-ninja.json) |
 | Monkey Party | 272693 | [272693-monkey-party.json](./272693-monkey-party.json) |
+| Monkey Party: Anime Girls | 331626 | [331626-monkey-party-anime-girls.json](./331626-monkey-party-anime-girls.json) |
 | Monkey Poo | 60834 | [60834-monkey-poo.json](./60834-monkey-poo.json) |
 | Monkey Poo Flinger | 302638 | [302638-monkey-poo-flinger.json](./302638-monkey-poo-flinger.json) |
 | Monkey Preschool Lunchbox | 175161 | [175161-monkey-preschool-lunchbox.json](./175161-monkey-preschool-lunchbox.json) |
@@ -16314,6 +16316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Easter Eggs! | 96051 | [96051-more-easter-eggs.json](./96051-more-easter-eggs.json) |
 | More Enemies | 217453 | [217453-more-enemies.json](./217453-more-enemies.json) |
 | More Fun with The Wiggles | 274215 | [274215-more-fun-with-the-wiggles.json](./274215-more-fun-with-the-wiggles.json) |
+| More Greek Gyros Slot Creator | 331629 | [331629-more-greek-gyros-slot-creator.json](./331629-more-greek-gyros-slot-creator.json) |
 | More Grillin' | 108719 | [108719-more-grillin.json](./108719-more-grillin.json) |
 | More Holiday Dinner! | 256700 | [256700-more-holiday-dinner.json](./256700-more-holiday-dinner.json) |
 | More Invaders! | 273100 | [273100-more-invaders.json](./273100-more-invaders.json) |
@@ -16334,6 +16337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Salad! | 256699 | [256699-more-salad.json](./256699-more-salad.json) |
 | More Slots More Money | 421807 | [421807-more-slots-more-money.json](./421807-more-slots-more-money.json) |
 | More Soup! | 108709 | [108709-more-soup.json](./108709-more-soup.json) |
+| More Spooky Slot Creator | 331627 | [331627-more-spooky-slot-creator.json](./331627-more-spooky-slot-creator.json) |
 | More Spore | 409593 | [409593-more-spore.json](./409593-more-spore.json) |
 | More Sundaes! | 256790 | [256790-more-sundaes.json](./256790-more-sundaes.json) |
 | More Super Mario "Bras." 2: Choose a Path! | 255599 | [255599-more-super-mario-bras-2-choose-a-path.json](./255599-more-super-mario-bras-2-choose-a-path.json) |
