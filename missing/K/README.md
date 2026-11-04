@@ -1753,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kentilla | 26465 | [26465-kentilla.json](./26465-kentilla.json) |
 | Kentor and also Bloby in: Part 1 - The Krookening | 208825 | [208825-kentor-and-also-bloby-in-part-1-the-krookening.json](./208825-kentor-and-also-bloby-in-part-1-the-krookening.json) |
 | Kentoushi Gladiator Begins | 42871 | [42871-kentoushi-gladiator-begins.json](./42871-kentoushi-gladiator-begins.json) |
+| Kentoushi: Furi-furi Boxing | 344673 | [344673-kentoushi-furi-furi-boxing.json](./344673-kentoushi-furi-furi-boxing.json) |
 | Kentris | 93343 | [93343-kentris.json](./93343-kentris.json) |
 | Kentucky Dash | 89678 | [89678-kentucky-dash.json](./89678-kentucky-dash.json) |
 | Kentucky Route Zero | 5614 | [5614-kentucky-route-zero.json](./5614-kentucky-route-zero.json) |
@@ -2711,7 +2712,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4758,6 +4758,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kodomo Chousadan Mighty Pockets: Chousa 1 - Junk-ya Black no Ie | 179964 | [179964-kodomo-chousadan-mighty-pockets-chousa-1-junk-ya-black-no-ie.json](./179964-kodomo-chousadan-mighty-pockets-chousa-1-junk-ya-black-no-ie.json) |
 | Kodomo Chousadan Mighty Pockets: Chousa 2 - Hanzai Toshi Big Apple | 179965 | [179965-kodomo-chousadan-mighty-pockets-chousa-2-hanzai-toshi-big-apple.json](./179965-kodomo-chousadan-mighty-pockets-chousa-2-hanzai-toshi-big-apple.json) |
 | Kodomo Chousadan Mighty Pockets: Chousa 3 - Kyakusen Queen Patra no Nazo | 179966 | [179966-kodomo-chousadan-mighty-pockets-chousa-3-kyakusen-queen-patra-no-nazo.json](./179966-kodomo-chousadan-mighty-pockets-chousa-3-kyakusen-queen-patra-no-nazo.json) |
+| Kodomo Kyouiku Terebi Wii: Aiue Oochan | 344676 | [344676-kodomo-kyouiku-terebi-wii-aiue-oochan.json](./344676-kodomo-kyouiku-terebi-wii-aiue-oochan.json) |
+| Kodomo Kyouiku Terebi Wii: Aiue Oomuzu | 344679 | [344679-kodomo-kyouiku-terebi-wii-aiue-oomuzu.json](./344679-kodomo-kyouiku-terebi-wii-aiue-oomuzu.json) |
 | Kodomo-tachi no Kuni Magic Children | 353375 | [353375-kodomo-tachi-no-kuni-magic-children.json](./353375-kodomo-tachi-no-kuni-magic-children.json) |
 | Kodure Ookami | 40087 | [40087-kodure-ookami.json](./40087-kodure-ookami.json) |
 | Kody's Purgatory | 373602 | [373602-kodys-purgatory.json](./373602-kodys-purgatory.json) |
