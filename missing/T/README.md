@@ -4200,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Conflict | 112417 | [112417-terminal-conflict.json](./112417-terminal-conflict.json) |
 | Terminal Conflict: Flower Power Upgrade Pack | 155402 | [155402-terminal-conflict-flower-power-upgrade-pack.json](./155402-terminal-conflict-flower-power-upgrade-pack.json) |
 | Terminal Connection | 339408 | [339408-terminal-connection.json](./339408-terminal-connection.json) |
+| Terminal Control 2 | 328122 | [328122-terminal-control-2.json](./328122-terminal-control-2.json) |
 | Terminal Cursor | 402661 | [402661-terminal-cursor.json](./402661-terminal-cursor.json) |
 | Terminal Defense | 298636 | [298636-terminal-defense.json](./298636-terminal-defense.json) |
 | Terminal Defense | 97092 | [97092-terminal-defense.json](./97092-terminal-defense.json) |
@@ -31006,6 +31007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tulgey Wood | 246763 | [246763-tulgey-wood.json](./246763-tulgey-wood.json) |
 | Tulip | 270074 | [270074-tulip.json](./270074-tulip.json) |
 | Tulip Season | 374541 | [374541-tulip-season.json](./374541-tulip-season.json) |
+| Tulips & Windmills | 328133 | [328133-tulips-and-windmills.json](./328133-tulips-and-windmills.json) |
 | Tulpa | 36170 | [36170-tulpa.json](./36170-tulpa.json) |
 | Tulpa the Unseen Lover | 414136 | [414136-tulpa-the-unseen-lover.json](./414136-tulpa-the-unseen-lover.json) |
 | Tuma-7 | 141842 | [141842-tuma-7.json](./141842-tuma-7.json) |
