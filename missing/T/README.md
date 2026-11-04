@@ -29995,6 +29995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trilogy Kuki Youka Shinden | 153741 | [153741-trilogy-kuki-youka-shinden.json](./153741-trilogy-kuki-youka-shinden.json) |
 | Trilogy of the Moon | 339795 | [339795-trilogy-of-the-moon.json](./339795-trilogy-of-the-moon.json) |
 | Trim For Your Dream | 266270 | [266270-trim-for-your-dream.json](./266270-trim-for-your-dream.json) |
+| TriMatch | 300228 | [300228-trimatch.json](./300228-trimatch.json) |
 | Trimjob | 373308 | [373308-trimjob.json](./373308-trimjob.json) |
 | Trimmer Tycoon | 31967 | [31967-trimmer-tycoon.json](./31967-trimmer-tycoon.json) |
 | Trimming Sails | 244336 | [244336-trimming-sails.json](./244336-trimming-sails.json) |
