@@ -2909,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FastFWD | 183388 | [183388-fastfwd.json](./183388-fastfwd.json) |
 | FastGo Running | 104021 | [104021-fastgo-running.json](./104021-fastgo-running.json) |
 | Fasthand | 360734 | [360734-fasthand.json](./360734-fasthand.json) |
+| FastHands | 342997 | [342997-fasthands.json](./342997-fasthands.json) |
 | Fastidious | 130142 | [130142-fastidious.json](./130142-fastidious.json) |
 | Fastidious | 381013 | [381013-fastidious.json](./381013-fastidious.json) |
 | Fastigium: Dead End | 29089 | [29089-fastigium-dead-end.json](./29089-fastigium-dead-end.json) |
