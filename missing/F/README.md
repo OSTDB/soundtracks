@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face of the Killer | 289410 | [289410-face-of-the-killer.json](./289410-face-of-the-killer.json) |
 | Face of War | 216116 | [216116-face-of-war.json](./216116-face-of-war.json) |
 | Face Off | 40043 | [40043-face-off.json](./40043-face-off.json) |
+| Face Off: A Hot Shot Story | 314189 | [314189-face-off-a-hot-shot-story.json](./314189-face-off-a-hot-shot-story.json) |
 | Face on Fire | 143936 | [143936-face-on-fire.json](./143936-face-on-fire.json) |
 | Face Paint Party Salon | 96314 | [96314-face-paint-party-salon.json](./96314-face-paint-party-salon.json) |
 | Face Pilot: Fly With Your Nintendo DSi Camera! | 85135 | [85135-face-pilot-fly-with-your-nintendo-dsi-camera.json](./85135-face-pilot-fly-with-your-nintendo-dsi-camera.json) |
@@ -11423,6 +11424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frequência Zero | 412086 | [412086-frequencia-zero.json](./412086-frequencia-zero.json) |
 | Frequency Dissonance | 199120 | [199120-frequency-dissonance.json](./199120-frequency-dissonance.json) |
 | Frequency Garden | 126522 | [126522-frequency-garden.json](./126522-frequency-garden.json) |
+| Frequency of Fear | 314551 | [314551-frequency-of-fear.json](./314551-frequency-of-fear.json) |
 | Frequency Sync | 130241 | [130241-frequency-sync.json](./130241-frequency-sync.json) |
 | Frequency: Chernobyl - First Signal | 148853 | [148853-frequency-chernobyl-first-signal.json](./148853-frequency-chernobyl-first-signal.json) |
 | Frequency. | 200291 | [200291-frequency.json](./200291-frequency.json) |
