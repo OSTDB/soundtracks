@@ -2113,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion of Itehari | 242067 | [242067-illusion-of-itehari.json](./242067-illusion-of-itehari.json) |
 | Illusion of L'Phalcia | 39010 | [39010-illusion-of-lphalcia.json](./39010-illusion-of-lphalcia.json) |
 | Illusion Pathology | 347729 | [347729-illusion-pathology.json](./347729-illusion-pathology.json) |
+| Illusion Spectre | 335745 | [335745-illusion-spectre.json](./335745-illusion-spectre.json) |
 | Illusion Squares | 255170 | [255170-illusion-squares.json](./255170-illusion-squares.json) |
 | Illusion Tales | 215828 | [215828-illusion-tales.json](./215828-illusion-tales.json) |
 | Illusion: A Tale of the Mind | 103035 | [103035-illusion-a-tale-of-the-mind.json](./103035-illusion-a-tale-of-the-mind.json) |
