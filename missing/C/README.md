@@ -1595,7 +1595,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Essentials | 42959 | [42959-capcom-essentials.json](./42959-capcom-essentials.json) |
 | Capcom Fighting All-Stars | 77245 | [77245-capcom-fighting-all-stars.json](./77245-capcom-fighting-all-stars.json) |
 | Capcom Fighting Bundle | 207898 | [207898-capcom-fighting-bundle.json](./207898-capcom-fighting-bundle.json) |
-| Capcom Fighting Collection 2 | 314942 | [314942-capcom-fighting-collection-2.json](./314942-capcom-fighting-collection-2.json) |
 | Capcom Generations | 43897 | [43897-capcom-generations.json](./43897-capcom-generations.json) |
 | Capcom Generations 1: Wings of Destiny | 66122 | [66122-capcom-generations-1-wings-of-destiny.json](./66122-capcom-generations-1-wings-of-destiny.json) |
 | Capcom Generations 2: Chronicles of Arthur | 66123 | [66123-capcom-generations-2-chronicles-of-arthur.json](./66123-capcom-generations-2-chronicles-of-arthur.json) |
