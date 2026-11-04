@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm a Grown Up!! Dreamy Sweetie The Devil Slayer | 301585 | [301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json](./301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json) |
 | I'm a King | 151557 | [151557-im-a-king.json](./151557-im-a-king.json) |
 | I’m a Love Interest in My Childhood Friend’s Halloween Story | 179674 | [179674-i-m-a-love-interest-in-my-childhood-friend-s-halloween-story.json](./179674-i-m-a-love-interest-in-my-childhood-friend-s-halloween-story.json) |
+| I’m a Magical Girl’s Pet?! | 299075 | [299075-i-m-a-magical-girl-s-pet.json](./299075-i-m-a-magical-girl-s-pet.json) |
 | I'm a Rocker! | 289289 | [289289-im-a-rocker.json](./289289-im-a-rocker.json) |
 | I'm a Sardine Keita | 384571 | [384571-im-a-sardine-keita.json](./384571-im-a-sardine-keita.json) |
 | I'm a Side Character in a BL story! | 177877 | [177877-im-a-side-character-in-a-bl-story.json](./177877-im-a-side-character-in-a-bl-story.json) |
@@ -1295,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Calibur: Zero | 385905 | [385905-idle-calibur-zero.json](./385905-idle-calibur-zero.json) |
 | Idle Campaign | 210851 | [210851-idle-campaign.json](./210851-idle-campaign.json) |
 | Idle Cannon | 182781 | [182781-idle-cannon.json](./182781-idle-cannon.json) |
+| Idle Cannon: Tower TD Geometry | 299354 | [299354-idle-cannon-tower-td-geometry.json](./299354-idle-cannon-tower-td-geometry.json) |
 | Idle Casino Empire | 311153 | [311153-idle-casino-empire.json](./311153-idle-casino-empire.json) |
 | Idle Cat Live Concert | 327655 | [327655-idle-cat-live-concert.json](./327655-idle-cat-live-concert.json) |
 | Idle Cat Village | 205585 | [205585-idle-cat-village.json](./205585-idle-cat-village.json) |
@@ -2355,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Desires: Book 2 | 313736 | [313736-immortal-desires-book-2.json](./313736-immortal-desires-book-2.json) |
 | Immortal Desires: Book 3 | 327988 | [327988-immortal-desires-book-3.json](./327988-immortal-desires-book-3.json) |
 | Immortal Desires: Paths Not Taken | 327989 | [327989-immortal-desires-paths-not-taken.json](./327989-immortal-desires-paths-not-taken.json) |
+| Immortal Diaries | 299341 | [299341-immortal-diaries.json](./299341-immortal-diaries.json) |
 | Immortal Empire | 21688 | [21688-immortal-empire.json](./21688-immortal-empire.json) |
 | Immortal Faces | 412621 | [412621-immortal-faces.json](./412621-immortal-faces.json) |
 | Immortal Family | 369374 | [369374-immortal-family.json](./369374-immortal-family.json) |
