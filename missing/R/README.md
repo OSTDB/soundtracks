@@ -5307,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Zone | 138616 | [138616-rescue-zone.json](./138616-rescue-zone.json) |
 | Rescue: Heroes in Action | 76718 | [76718-rescue-heroes-in-action.json](./76718-rescue-heroes-in-action.json) |
 | Rescue: The Beagles | 67034 | [67034-rescue-the-beagles.json](./67034-rescue-the-beagles.json) |
+| Rescue: The Embassy Mission | 331617 | [331617-rescue-the-embassy-mission.json](./331617-rescue-the-embassy-mission.json) |
 | Rescue! Dropkick on my Devil | 283239 | [283239-rescue-dropkick-on-my-devil.json](./283239-rescue-dropkick-on-my-devil.json) |
 | RescueBlade | 388121 | [388121-rescueblade.json](./388121-rescueblade.json) |
 | Rescued | 337545 | [337545-rescued.json](./337545-rescued.json) |
