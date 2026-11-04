@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1Boss1Battle1Button | 421219 | [421219-1boss1battle1button.json](./421219-1boss1battle1button.json) |
 | 1CC Games Shmup Collection | 192046 | [192046-1cc-games-shmup-collection.json](./192046-1cc-games-shmup-collection.json) |
 | 1Check | 94519 | [94519-1check.json](./94519-1check.json) |
+| 1cm Time | 325355 | [325355-1cm-time.json](./325355-1cm-time.json) |
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
 | 1days | 424687 | [424687-1days.json](./424687-1days.json) |
 | 1Dreamboy | 266154 | [266154-1dreamboy.json](./266154-1dreamboy.json) |
@@ -3166,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Armies: Guardians Campaign | 51698 | [51698-8-bit-armies-guardians-campaign.json](./51698-8-bit-armies-guardians-campaign.json) |
 | 8-Bit Attack | 135766 | [135766-8-bit-attack.json](./135766-8-bit-attack.json) |
 | 8-Bit Bayonetta | 28058 | [28058-8-bit-bayonetta.json](./28058-8-bit-bayonetta.json) |
+| 8-Bit Blocks | 325224 | [325224-8-bit-blocks.json](./325224-8-bit-blocks.json) |
 | 8-Bit Boy | 84684 | [84684-8-bit-boy.json](./84684-8-bit-boy.json) |
 | 8-Bit Buccaneer | 176808 | [176808-8-bit-buccaneer.json](./176808-8-bit-buccaneer.json) |
 | 8-Bit Complete Collection | 52540 | [52540-8-bit-complete-collection.json](./52540-8-bit-complete-collection.json) |
