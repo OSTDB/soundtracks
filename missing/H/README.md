@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H4CT0PL45M | 393586 | [393586-h4ct0pl45m.json](./393586-h4ct0pl45m.json) |
 | H7N9 | 305752 | [305752-h7n9.json](./305752-h7n9.json) |
 | H8machine | 210868 | [210868-h8machine.json](./210868-h8machine.json) |
+| H9: Origin | 344805 | [344805-h9-origin.json](./344805-h9-origin.json) |
 | Ha_Bits | 170537 | [170537-ha-bits.json](./170537-ha-bits.json) |
 | Ha-ha-ho-ho-horror | 343911 | [343911-ha-ha-ho-ho-horror.json](./343911-ha-ha-ho-ho-horror.json) |
 | Ha*co | 210226 | [210226-ha-co.json](./210226-ha-co.json) |
