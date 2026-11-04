@@ -1065,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karting4Fun | 159531 | [159531-karting4fun.json](./159531-karting4fun.json) |
 | KartKraft | 34354 | [34354-kartkraft.json](./34354-kartkraft.json) |
 | KartMania | 247365 | [247365-kartmania.json](./247365-kartmania.json) |
+| KartMania Silver | 302885 | [302885-kartmania-silver.json](./302885-kartmania-silver.json) |
 | Kartofank VR | 72358 | [72358-kartofank-vr.json](./72358-kartofank-vr.json) |
 | Kartofelka | 80982 | [80982-kartofelka.json](./80982-kartofelka.json) |
 | Kartoffelpüree: Der Gemüse-Shooter | 100078 | [100078-kartoffelpuree-der-gemuse-shooter.json](./100078-kartoffelpuree-der-gemuse-shooter.json) |
@@ -2252,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Shinsengumi: Moeyo Ken | 370867 | [370867-kidou-shinsengumi-moeyo-ken.json](./370867-kidou-shinsengumi-moeyo-ken.json) |
 | Kidou Tenshi Angelic Layer | 49643 | [49643-kidou-tenshi-angelic-layer.json](./49643-kidou-tenshi-angelic-layer.json) |
 | Kids | 95167 | [95167-kids.json](./95167-kids.json) |
+| Kids & Family Movie Trivia | 303202 | [303202-kids-and-family-movie-trivia.json](./303202-kids-and-family-movie-trivia.json) |
 | Kids ABC and Counting Jigsaw Puzzles Pre school | 87151 | [87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json](./87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json) |
 | Kids ABC Games: Toddler Boys & Girls Learning | 88798 | [88798-kids-abc-games-toddler-boys-and-girls-learning.json](./88798-kids-abc-games-toddler-boys-and-girls-learning.json) |
 | Kids ABC Letter Trains | 90438 | [90438-kids-abc-letter-trains.json](./90438-kids-abc-letter-trains.json) |
@@ -2743,7 +2745,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
