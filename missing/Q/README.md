@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queenchantment | 192801 | [192801-queenchantment.json](./192801-queenchantment.json) |
 | Queenlash | 352161 | [352161-queenlash.json](./352161-queenlash.json) |
 | Queens | 242695 | [242695-queens.json](./242695-queens.json) |
+| Queens | 320636 | [320636-queens.json](./320636-queens.json) |
 | Queens Blade | 137380 | [137380-queens-blade.json](./137380-queens-blade.json) |
 | Queens Climax | 385303 | [385303-queens-climax.json](./385303-queens-climax.json) |
 | Queens Garden: Sakura Season | 133151 | [133151-queens-garden-sakura-season.json](./133151-queens-garden-sakura-season.json) |
