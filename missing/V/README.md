@@ -1731,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viaje al centro de la Tierra | 138807 | [138807-viaje-al-centro-de-la-tierra.json](./138807-viaje-al-centro-de-la-tierra.json) |
 | Viaje al Centro de la Tierra: Versión Extendida | 380386 | [380386-viaje-al-centro-de-la-tierra-version-extendida.json](./380386-viaje-al-centro-de-la-tierra-version-extendida.json) |
 | Viaje De Palabra | 103745 | [103745-viaje-de-palabra.json](./103745-viaje-de-palabra.json) |
+| Viande Crue | 329330 | [329330-viande-crue.json](./329330-viande-crue.json) |
 | Vianiato PopOut | 334757 | [334757-vianiato-popout.json](./334757-vianiato-popout.json) |
 | Viarkanoid | 89373 | [89373-viarkanoid.json](./89373-viarkanoid.json) |
 | Vib-Ribbon | 9676 | [9676-vib-ribbon.json](./9676-vib-ribbon.json) |
