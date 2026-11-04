@@ -1909,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboard Warrior | 343590 | [343590-keyboard-warrior.json](./343590-keyboard-warrior.json) |
 | Keyboard Warrior | 343591 | [343591-keyboard-warrior.json](./343591-keyboard-warrior.json) |
 | Keyboard Warrior | 81024 | [81024-keyboard-warrior.json](./81024-keyboard-warrior.json) |
+| Keyboard Warrior RPG | 327083 | [327083-keyboard-warrior-rpg.json](./327083-keyboard-warrior-rpg.json) |
 | Keyboard Warrior Simulator | 351711 | [351711-keyboard-warrior-simulator.json](./351711-keyboard-warrior-simulator.json) |
 | Keyboard Warrior Stickman: Typing Beat Em Up | 413773 | [413773-keyboard-warrior-stickman-typing-beat-em-up.json](./413773-keyboard-warrior-stickman-typing-beat-em-up.json) |
 | Keyboard Warrior: Dreamstate | 209714 | [209714-keyboard-warrior-dreamstate.json](./209714-keyboard-warrior-dreamstate.json) |
@@ -1984,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khan Kluay: Kids War | 194798 | [194798-khan-kluay-kids-war.json](./194798-khan-kluay-kids-war.json) |
 | Khan: Absolute Power | 33293 | [33293-khan-absolute-power.json](./33293-khan-absolute-power.json) |
 | Khan: Myth of the Wind | 145603 | [145603-khan-myth-of-the-wind.json](./145603-khan-myth-of-the-wind.json) |
+| Khaos Tracks | 327073 | [327073-khaos-tracks.json](./327073-khaos-tracks.json) |
 | Khaos Wind | 111894 | [111894-khaos-wind.json](./111894-khaos-wind.json) |
 | Khara the Game | 108830 | [108830-khara-the-game.json](./108830-khara-the-game.json) |
 | Kharakov | 340789 | [340789-kharakov.json](./340789-kharakov.json) |
@@ -6174,6 +6176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyomu | 166420 | [166420-kyomu.json](./166420-kyomu.json) |
 | Kyonshies 2 | 36900 | [36900-kyonshies-2.json](./36900-kyonshies-2.json) |
 | Kyonyuu Fantasy 3 if | 77824 | [77824-kyonyuu-fantasy-3-if.json](./77824-kyonyuu-fantasy-3-if.json) |
+| Kyonyuu Fantasy Gaiden 2 After: Osutashia no Yabou | 327077 | [327077-kyonyuu-fantasy-gaiden-2-after-osutashia-no-yabou.json](./327077-kyonyuu-fantasy-gaiden-2-after-osutashia-no-yabou.json) |
 | Kyonyuu Hitozuma Shimai wa Nakadashi Niku Benki: Oi no Wakai Kyokon ni Soku Ochi Mesu Yorokobi de Netori Haramase Onedari | 59029 | [59029-kyonyuu-hitozuma-shimai-wa-nakadashi-niku-benki-oi-no-wakai-kyokon-ni-soku-ochi-mesu-yorokobi-de-netori-haramase-onedari.json](./59029-kyonyuu-hitozuma-shimai-wa-nakadashi-niku-benki-oi-no-wakai-kyokon-ni-soku-ochi-mesu-yorokobi-de-netori-haramase-onedari.json) |
 | Kyora | 325587 | [325587-kyora.json](./325587-kyora.json) |
 | Kyoro-chan Land | 206598 | [206598-kyoro-chan-land.json](./206598-kyoro-chan-land.json) |
