@@ -3601,6 +3601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed Us: Pirates | 328293 | [328293-feed-us-pirates.json](./328293-feed-us-pirates.json) |
 | Feed Usagi For Sailor Moon | 95779 | [95779-feed-usagi-for-sailor-moon.json](./95779-feed-usagi-for-sailor-moon.json) |
 | Feed your cat | 334473 | [334473-feed-your-cat.json](./334473-feed-your-cat.json) |
+| Feed Your Cat. | 334438 | [334438-feed-your-cat.json](./334438-feed-your-cat.json) |
 | Feed: Fish and Grow | 193856 | [193856-feed-fish-and-grow.json](./193856-feed-fish-and-grow.json) |
 | FeedBack | 381012 | [381012-feedback.json](./381012-feedback.json) |
 | Feeding Frenzy 2: Shipwreck Showdown | 8321 | [8321-feeding-frenzy-2-shipwreck-showdown.json](./8321-feeding-frenzy-2-shipwreck-showdown.json) |
@@ -5411,6 +5412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Nemo: Nemo's Ocean Discoveries | 85838 | [85838-finding-nemo-nemos-ocean-discoveries.json](./85838-finding-nemo-nemos-ocean-discoveries.json) |
 | Finding Nemo: Nemo's Underwater World of Fun | 18258 | [18258-finding-nemo-nemos-underwater-world-of-fun.json](./18258-finding-nemo-nemos-underwater-world-of-fun.json) |
 | Finding Nemo: The Continuing Adventures | 49269 | [49269-finding-nemo-the-continuing-adventures.json](./49269-finding-nemo-the-continuing-adventures.json) |
+| Finding Pots & Pets | 334405 | [334405-finding-pots-and-pets.json](./334405-finding-pots-and-pets.json) |
 | Finding Ruby | 417356 | [417356-finding-ruby.json](./417356-finding-ruby.json) |
 | Finding Santa Christmas Special | 175440 | [175440-finding-santa-christmas-special.json](./175440-finding-santa-christmas-special.json) |
 | Finding Semolina | 183798 | [183798-finding-semolina.json](./183798-finding-semolina.json) |
@@ -8213,6 +8215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Cat | 199107 | [199107-fly-cat.json](./199107-fly-cat.json) |
 | Fly Catbug Fly! | 175434 | [175434-fly-catbug-fly.json](./175434-fly-catbug-fly.json) |
 | Fly Corp | 148207 | [148207-fly-corp.json](./148207-fly-corp.json) |
+| Fly Corp: American Dream | 334427 | [334427-fly-corp-american-dream.json](./334427-fly-corp-american-dream.json) |
 | Fly Corp: Complete Edition | 330199 | [330199-fly-corp-complete-edition.json](./330199-fly-corp-complete-edition.json) |
 | Fly Corp: DLC Bundle | 330220 | [330220-fly-corp-dlc-bundle.json](./330220-fly-corp-dlc-bundle.json) |
 | Fly Corp: Extreme Scenarios DLC Pack | 330219 | [330219-fly-corp-extreme-scenarios-dlc-pack.json](./330219-fly-corp-extreme-scenarios-dlc-pack.json) |
