@@ -9608,6 +9608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LUS: Last Unit Standing | 247983 | [247983-lus-last-unit-standing.json](./247983-lus-last-unit-standing.json) |
 | Lusa the Cathead | 316350 | [316350-lusa-the-cathead.json](./316350-lusa-the-cathead.json) |
 | Lush Forest | 329428 | [329428-lush-forest.json](./329428-lush-forest.json) |
+| Lush Grove | 343544 | [343544-lush-grove.json](./343544-lush-grove.json) |
 | Lushfoil Photography Sim | 189934 | [189934-lushfoil-photography-sim.json](./189934-lushfoil-photography-sim.json) |
 | Lushfoil Photography Sim VR | 360776 | [360776-lushfoil-photography-sim-vr.json](./360776-lushfoil-photography-sim-vr.json) |
 | Lusitania | 132484 | [132484-lusitania.json](./132484-lusitania.json) |
