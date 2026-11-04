@@ -6758,6 +6758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein: Youngblood - Digital Limited Edition | 121640 | [121640-wolfenstein-youngblood-digital-limited-edition.json](./121640-wolfenstein-youngblood-digital-limited-edition.json) |
 | WolfFang Skull Fang: Saturn Tribute Boosted | 320440 | [320440-wolffang-skull-fang-saturn-tribute-boosted.json](./320440-wolffang-skull-fang-saturn-tribute-boosted.json) |
 | Wolfgate | 117396 | [117396-wolfgate.json](./117396-wolfgate.json) |
+| WolfGirl RoomMate | 337936 | [337936-wolfgirl-roommate.json](./337936-wolfgirl-roommate.json) |
 | Wolfgun | 180777 | [180777-wolfgun.json](./180777-wolfgun.json) |
 | Wolfhound | 305000 | [305000-wolfhound.json](./305000-wolfhound.json) |
 | Wolfhound: The Last of the Grey Dogs | 250522 | [250522-wolfhound-the-last-of-the-grey-dogs.json](./250522-wolfhound-the-last-of-the-grey-dogs.json) |
@@ -6934,6 +6935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WonderKing 2 | 62636 | [62636-wonderking-2.json](./62636-wonderking-2.json) |
 | WonderKing Online | 79100 | [79100-wonderking-online.json](./79100-wonderking-online.json) |
 | Wonderland | 2282 | [2282-wonderland.json](./2282-wonderland.json) |
+| Wonderland | 337935 | [337935-wonderland.json](./337935-wonderland.json) |
 | Wonderland | 354010 | [354010-wonderland.json](./354010-wonderland.json) |
 | Wonderland | 377143 | [377143-wonderland.json](./377143-wonderland.json) |
 | Wonderland | 95460 | [95460-wonderland.json](./95460-wonderland.json) |
@@ -6963,6 +6965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderputt Forever | 187829 | [187829-wonderputt-forever.json](./187829-wonderputt-forever.json) |
 | WonderRun | 206417 | [206417-wonderrun.json](./206417-wonderrun.json) |
 | Wonders of the Deep | 369214 | [369214-wonders-of-the-deep.json](./369214-wonders-of-the-deep.json) |
+| Wonders of the World: Collector's Edition | 338065 | [338065-wonders-of-the-world-collectors-edition.json](./338065-wonders-of-the-world-collectors-edition.json) |
 | Wonders of Waldwea | 355557 | [355557-wonders-of-waldwea.json](./355557-wonders-of-waldwea.json) |
 | Wondershot | 33830 | [33830-wondershot.json](./33830-wondershot.json) |
 | Wondersnake | 245383 | [245383-wondersnake.json](./245383-wondersnake.json) |
@@ -6997,6 +7000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood 'n Stones | 125675 | [125675-wood-n-stones.json](./125675-wood-n-stones.json) |
 | Wood & Flesh Chapter 2 | 372696 | [372696-wood-and-flesh-chapter-2.json](./372696-wood-and-flesh-chapter-2.json) |
 | Wood & Weather | 212817 | [212817-wood-and-weather.json](./212817-wood-and-weather.json) |
+| Wood and Flesh: A Candleforth Short Story | 337934 | [337934-wood-and-flesh-a-candleforth-short-story.json](./337934-wood-and-flesh-a-candleforth-short-story.json) |
 | Wood and Water and Rock | 136422 | [136422-wood-and-water-and-rock.json](./136422-wood-and-water-and-rock.json) |
 | Wood Block 99 | 219828 | [219828-wood-block-99.json](./219828-wood-block-99.json) |
 | Wood Block Escape Bundle | 215319 | [215319-wood-block-escape-bundle.json](./215319-wood-block-escape-bundle.json) |
@@ -7522,6 +7526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordZap | 117962 | [117962-wordzap.json](./117962-wordzap.json) |
 | WordZap Deluxe | 205885 | [205885-wordzap-deluxe.json](./205885-wordzap-deluxe.json) |
 | Wordzy | 68415 | [68415-wordzy.json](./68415-wordzy.json) |
+| Worfy Games | 337933 | [337933-worfy-games.json](./337933-worfy-games.json) |
 | Work Beasts | 304023 | [304023-work-beasts.json](./304023-work-beasts.json) |
 | Work from Home | 218717 | [218717-work-from-home.json](./218717-work-from-home.json) |
 | Work Girl | 378359 | [378359-work-girl.json](./378359-work-girl.json) |
@@ -8564,6 +8569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woten | 107584 | [107584-woten.json](./107584-woten.json) |
 | Woten DX: Traveller's Dream | 220723 | [220723-woten-dx-travellers-dream.json](./220723-woten-dx-travellers-dream.json) |
 | Wotheguel | 155680 | [155680-wotheguel.json](./155680-wotheguel.json) |
+| Would You Call Him a Bad Man? | 337932 | [337932-would-you-call-him-a-bad-man.json](./337932-would-you-call-him-a-bad-man.json) |
 | Would You Lie with Me and Just Forget the World | 382582 | [382582-would-you-lie-with-me-and-just-forget-the-world.json](./382582-would-you-lie-with-me-and-just-forget-the-world.json) |
 | Would You Like to Run an Idol Café? 3 | 192650 | [192650-would-you-like-to-run-an-idol-cafe-3.json](./192650-would-you-like-to-run-an-idol-cafe-3.json) |
 | Would You Like to Run an Idol Café? 3 | 259531 | [259531-would-you-like-to-run-an-idol-cafe-3.json](./259531-would-you-like-to-run-an-idol-cafe-3.json) |
@@ -8874,6 +8880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wujin Zhi Jian Mingyuin | 83840 | [83840-wujin-zhi-jian-mingyuin.json](./83840-wujin-zhi-jian-mingyuin.json) |
 | Wukong 2088 | 373892 | [373892-wukong-2088.json](./373892-wukong-2088.json) |
 | Wukong Black Legend | 372158 | [372158-wukong-black-legend.json](./372158-wukong-black-legend.json) |
+| Wukong Monkey King's Journey West | 337931 | [337931-wukong-monkey-kings-journey-west.json](./337931-wukong-monkey-kings-journey-west.json) |
 | Wukong Odyssey | 246754 | [246754-wukong-odyssey.json](./246754-wukong-odyssey.json) |
 | Wukong Sun: Black Legend | 328464 | [328464-wukong-sun-black-legend.json](./328464-wukong-sun-black-legend.json) |
 | Wukong Survivors | 389519 | [389519-wukong-survivors.json](./389519-wukong-survivors.json) |
@@ -9169,6 +9176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyv and Keep: The Temple of the Lost Idol | 16847 | [16847-wyv-and-keep-the-temple-of-the-lost-idol.json](./16847-wyv-and-keep-the-temple-of-the-lost-idol.json) |
 | Wyvern | 389106 | [389106-wyvern.json](./389106-wyvern.json) |
 | Wyvern | 97988 | [97988-wyvern.json](./97988-wyvern.json) |
+| Wyvern Creations Crossbow Hunter | 337928 | [337928-wyvern-creations-crossbow-hunter.json](./337928-wyvern-creations-crossbow-hunter.json) |
 | Wyvern F-0 | 398117 | [398117-wyvern-f-0.json](./398117-wyvern-f-0.json) |
 | Wyvern Studios Solitaire: 30th Aniversary Edition | 289861 | [289861-wyvern-studios-solitaire-30th-aniversary-edition.json](./289861-wyvern-studios-solitaire-30th-aniversary-edition.json) |
 | Wyvern Studios Solitaire: Solitaire Favorites | 294004 | [294004-wyvern-studios-solitaire-solitaire-favorites.json](./294004-wyvern-studios-solitaire-solitaire-favorites.json) |
