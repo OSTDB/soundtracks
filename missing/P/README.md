@@ -1289,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantaji Yeodongsaeng : Sujipyeong Bangchi RPG | 224404 | [224404-pantaji-yeodongsaeng-sujipyeong-bangchi-rpg.json](./224404-pantaji-yeodongsaeng-sujipyeong-bangchi-rpg.json) |
 | Pantazil | 221681 | [221681-pantazil.json](./221681-pantazil.json) |
 | Panthalassa | 304650 | [304650-panthalassa.json](./304650-panthalassa.json) |
+| Pantheion | 346326 | [346326-pantheion.json](./346326-pantheion.json) |
 | Pantheon | 128470 | [128470-pantheon.json](./128470-pantheon.json) |
 | Pantheon | 228624 | [228624-pantheon.json](./228624-pantheon.json) |
 | Pantheon of War | 268874 | [268874-pantheon-of-war.json](./268874-pantheon-of-war.json) |
