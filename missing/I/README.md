@@ -4088,7 +4088,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inko Joshikosei | 97692 | [97692-inko-joshikosei.json](./97692-inko-joshikosei.json) |
 | Inkognito for iPad | 175081 | [175081-inkognito-for-ipad.json](./175081-inkognito-for-ipad.json) |
 | Inkoid | 390615 | [390615-inkoid.json](./390615-inkoid.json) |
-| Inkonbini: One Store. Many Stories | 294592 | [294592-inkonbini-one-store-many-stories.json](./294592-inkonbini-one-store-many-stories.json) |
 | Inkremental | 397793 | [397793-inkremental.json](./397793-inkremental.json) |
 | Inkression | 303583 | [303583-inkression.json](./303583-inkression.json) |
 | Inkronos | 345014 | [345014-inkronos.json](./345014-inkronos.json) |
