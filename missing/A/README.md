@@ -1668,7 +1668,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AA Touch Gun! | 112618 | [112618-aa-touch-gun.json](./112618-aa-touch-gun.json) |
 | Aa! Megami-sama | 78087 | [78087-aa-megami-sama.json](./78087-aa-megami-sama.json) |
 | AAA | 377417 | [377417-aaa.json](./377417-aaa.json) |
+| AAA Clock 2 | 314522 | [314522-aaa-clock-2.json](./314522-aaa-clock-2.json) |
 | AAA Clock 2: Color Set 1 | 314584 | [314584-aaa-clock-2-color-set-1.json](./314584-aaa-clock-2-color-set-1.json) |
+| AAA Clock 2: Color Set 2 | 314523 | [314523-aaa-clock-2-color-set-2.json](./314523-aaa-clock-2-color-set-2.json) |
 | AAA Clock 2: Color Set 3 | 314586 | [314586-aaa-clock-2-color-set-3.json](./314586-aaa-clock-2-color-set-3.json) |
 | AAA Clock 2: Color Set 4 | 314587 | [314587-aaa-clock-2-color-set-4.json](./314587-aaa-clock-2-color-set-4.json) |
 | AAA Clock 2: Color Set 5 | 314588 | [314588-aaa-clock-2-color-set-5.json](./314588-aaa-clock-2-color-set-5.json) |
@@ -6342,6 +6344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in the Manor | 351269 | [351269-alice-in-the-manor.json](./351269-alice-in-the-manor.json) |
 | Alice in the Nightmare Land | 267097 | [267097-alice-in-the-nightmare-land.json](./267097-alice-in-the-nightmare-land.json) |
 | Alice in Videoland | 13802 | [13802-alice-in-videoland.json](./13802-alice-in-videoland.json) |
+| Alice in Vivaldi's Four Seasons | 314191 | [314191-alice-in-vivaldis-four-seasons.json](./314191-alice-in-vivaldis-four-seasons.json) |
 | Alice In VR | 102565 | [102565-alice-in-vr.json](./102565-alice-in-vr.json) |
 | Alice in Windowland | 218120 | [218120-alice-in-windowland.json](./218120-alice-in-windowland.json) |
 | Alice in Wonder Underland AIWU | 394687 | [394687-alice-in-wonder-underland-aiwu.json](./394687-alice-in-wonder-underland-aiwu.json) |
@@ -7498,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Zylon | 17629 | [17629-alpha-zylon.json](./17629-alpha-zylon.json) |
 | Alpha-1 | 14250 | [14250-alpha-1.json](./14250-alpha-1.json) |
 | Alpha-Nighthawk | 222841 | [222841-alpha-nighthawk.json](./222841-alpha-nighthawk.json) |
+| Alpha: Book 2 | 314188 | [314188-alpha-book-2.json](./314188-alpha-book-2.json) |
 | Alphabear | 19954 | [19954-alphabear.json](./19954-alphabear.json) |
 | Alphabear 2 | 238300 | [238300-alphabear-2.json](./238300-alphabear-2.json) |
 | Alphabear Hustle | 396230 | [396230-alphabear-hustle.json](./396230-alphabear-hustle.json) |
@@ -16080,7 +16084,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
