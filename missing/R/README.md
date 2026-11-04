@@ -11835,6 +11835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Baby Run | 85915 | [85915-run-baby-run.json](./85915-run-baby-run.json) |
 | Run Ball: Jump on Helix Road | 100321 | [100321-run-ball-jump-on-helix-road.json](./100321-run-ball-jump-on-helix-road.json) |
 | Run Bird Run | 344926 | [344926-run-bird-run.json](./344926-run-bird-run.json) |
+| Run Bird Run! | 332763 | [332763-run-bird-run.json](./332763-run-bird-run.json) |
 | Run Blob Run 2 | 222956 | [222956-run-blob-run-2.json](./222956-run-blob-run-2.json) |
 | Run Box Run | 222399 | [222399-run-box-run.json](./222399-run-box-run.json) |
 | Run Buddy | 274211 | [274211-run-buddy.json](./274211-run-buddy.json) |
