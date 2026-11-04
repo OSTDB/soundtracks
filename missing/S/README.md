@@ -8658,6 +8658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shodo | 151139 | [151139-shodo.json](./151139-shodo.json) |
 | Shodot | 244267 | [244267-shodot.json](./244267-shodot.json) |
 | Shoe Doodle | 108267 | [108267-shoe-doodle.json](./108267-shoe-doodle.json) |
+| Shoe it All! | 310329 | [310329-shoe-it-all.json](./310329-shoe-it-all.json) |
 | Shoe Salesman Mania | 378280 | [378280-shoe-salesman-mania.json](./378280-shoe-salesman-mania.json) |
 | Shoe Snake Reloaded | 179429 | [179429-shoe-snake-reloaded.json](./179429-shoe-snake-reloaded.json) |
 | Shoebill | 151119 | [151119-shoebill.json](./151119-shoebill.json) |
@@ -9814,6 +9815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege of Dungeon | 204934 | [204934-siege-of-dungeon.json](./204934-siege-of-dungeon.json) |
 | Siege of Inaolia | 17603 | [17603-siege-of-inaolia.json](./17603-siege-of-inaolia.json) |
 | Siege of Osaka | 239181 | [239181-siege-of-osaka.json](./239181-siege-of-osaka.json) |
+| Siege of Shadowdale: Enhanced Edition | 310351 | [310351-siege-of-shadowdale-enhanced-edition.json](./310351-siege-of-shadowdale-enhanced-edition.json) |
 | Siege of Shadows | 333828 | [333828-siege-of-shadows.json](./333828-siege-of-shadows.json) |
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
 | Siege of the Swine | 167505 | [167505-siege-of-the-swine.json](./167505-siege-of-the-swine.json) |
@@ -13229,6 +13231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Order | 370176 | [370176-slime-order.json](./370176-slime-order.json) |
 | Slime Pandemic TD | 171932 | [171932-slime-pandemic-td.json](./171932-slime-pandemic-td.json) |
 | Slime Pizza | 90360 | [90360-slime-pizza.json](./90360-slime-pizza.json) |
+| Slime Princess | 310331 | [310331-slime-princess.json](./310331-slime-princess.json) |
 | Slime Puzzle Story | 235656 | [235656-slime-puzzle-story.json](./235656-slime-puzzle-story.json) |
 | Slime Quest | 110173 | [110173-slime-quest.json](./110173-slime-quest.json) |
 | Slime Quest | 196437 | [196437-slime-quest.json](./196437-slime-quest.json) |
@@ -22119,6 +22122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot the Difference 3D | 365000 | [365000-spot-the-difference-3d.json](./365000-spot-the-difference-3d.json) |
 | Spot the Difference Blitz | 241553 | [241553-spot-the-difference-blitz.json](./241553-spot-the-difference-blitz.json) |
 | Spot The Difference Food & Drink | 317272 | [317272-spot-the-difference-food-and-drink.json](./317272-spot-the-difference-food-and-drink.json) |
+| Spot The Difference: Anime Edition | 310426 | [310426-spot-the-difference-anime-edition.json](./310426-spot-the-difference-anime-edition.json) |
 | Spot The Difference: Christmas Edition | 322074 | [322074-spot-the-difference-christmas-edition.json](./322074-spot-the-difference-christmas-edition.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
 | Spot The Difference: Fantasy Edition | 289190 | [289190-spot-the-difference-fantasy-edition.json](./289190-spot-the-difference-fantasy-edition.json) |
@@ -29028,6 +29032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Sale | 32456 | [32456-summer-sale.json](./32456-summer-sale.json) |
 | Summer Seaside Search | 408530 | [408530-summer-seaside-search.json](./408530-summer-seaside-search.json) |
 | Summer Secrets | 82182 | [82182-summer-secrets.json](./82182-summer-secrets.json) |
+| Summer Sex Saga | 310342 | [310342-summer-sex-saga.json](./310342-summer-sex-saga.json) |
 | Summer Shift At Arbor's | 354815 | [354815-summer-shift-at-arbors.json](./354815-summer-shift-at-arbors.json) |
 | Summer Sisters | 402291 | [402291-summer-sisters.json](./402291-summer-sisters.json) |
 | Summer Sled | 55943 | [55943-summer-sled.json](./55943-summer-sled.json) |
@@ -31850,6 +31855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Slime Boy | 335956 | [335956-super-slime-boy.json](./335956-super-slime-boy.json) |
 | Super Slime Fun | 106355 | [106355-super-slime-fun.json](./106355-super-slime-fun.json) |
 | Super Slime Rush | 174280 | [174280-super-slime-rush.json](./174280-super-slime-rush.json) |
+| Super Slime Seriously Sticky Sassy Scripted Survival Simulator | 310357 | [310357-super-slime-seriously-sticky-sassy-scripted-survival-simulator.json](./310357-super-slime-seriously-sticky-sassy-scripted-survival-simulator.json) |
 | Super Slime: Black Hole Game | 294539 | [294539-super-slime-black-hole-game.json](./294539-super-slime-black-hole-game.json) |
 | Super Slinger | 192958 | [192958-super-slinger.json](./192958-super-slinger.json) |
 | Super Slyder | 132726 | [132726-super-slyder.json](./132726-super-slyder.json) |
