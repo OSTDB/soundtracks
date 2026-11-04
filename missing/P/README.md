@@ -15147,6 +15147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Discovery: Daidai Daisuki! | 59409 | [59409-project-discovery-daidai-daisuki.json](./59409-project-discovery-daidai-daisuki.json) |
 | Project Down | 292992 | [292992-project-down.json](./292992-project-down.json) |
 | Project Downfall | 113813 | [113813-project-downfall.json](./113813-project-downfall.json) |
+| Project Drag Racing | 336281 | [336281-project-drag-racing.json](./336281-project-drag-racing.json) |
 | Project Dream 64 | 315029 | [315029-project-dream-64.json](./315029-project-dream-64.json) |
 | Project Dreamcat | 184217 | [184217-project-dreamcat.json](./184217-project-dreamcat.json) |
 | Project Dreamscape | 367272 | [367272-project-dreamscape.json](./367272-project-dreamscape.json) |
