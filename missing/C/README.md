@@ -6950,6 +6950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chihuahua Controller | 373115 | [373115-chihuahua-controller.json](./373115-chihuahua-controller.json) |
 | Chiikawa Phone | 327681 | [327681-chiikawa-phone.json](./327681-chiikawa-phone.json) |
 | Chiikawa Pocket | 327682 | [327682-chiikawa-pocket.json](./327682-chiikawa-pocket.json) |
+| Chiiku Drill Oshare Majo Love and Berry: Moji Kazu Chie Asobi | 327567 | [327567-chiiku-drill-oshare-majo-love-and-berry-moji-kazu-chie-asobi.json](./327567-chiiku-drill-oshare-majo-love-and-berry-moji-kazu-chie-asobi.json) |
 | Chiiku Drill Pocket Monsters Diamond & Pearl: Moji Kazu Chie Asobi | 181503 | [181503-chiiku-drill-pocket-monsters-diamond-and-pearl-moji-kazu-chie-asobi.json](./181503-chiiku-drill-pocket-monsters-diamond-and-pearl-moji-kazu-chie-asobi.json) |
 | Chiisana Obake: Acchi Socchi Kocchi | 48537 | [48537-chiisana-obake-acchi-socchi-kocchi.json](./48537-chiisana-obake-acchi-socchi-kocchi.json) |
 | Chiisana Oukoku Eltoria | 387132 | [387132-chiisana-oukoku-eltoria.json](./387132-chiisana-oukoku-eltoria.json) |
@@ -8456,6 +8457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinnamon Ball: Kuru-kuru Sweets Paradise | 123299 | [123299-cinnamon-ball-kuru-kuru-sweets-paradise.json](./123299-cinnamon-ball-kuru-kuru-sweets-paradise.json) |
 | Cinnamon Tea | 57513 | [57513-cinnamon-tea.json](./57513-cinnamon-tea.json) |
 | Cinnamon: Yume no Daibouken | 49558 | [49558-cinnamon-yume-no-daibouken.json](./49558-cinnamon-yume-no-daibouken.json) |
+| Cinnamoroll: Cafe Cinnamon de o-Tetsudai | 327568 | [327568-cinnamoroll-cafe-cinnamon-de-o-tetsudai.json](./327568-cinnamoroll-cafe-cinnamon-de-o-tetsudai.json) |
 | Cinnamoroll: Ohanashi Shiyo!: Kirakira de Kore Cafe | 240908 | [240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json](./240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json) |
 | Cions of Vega | 149925 | [149925-cions-of-vega.json](./149925-cions-of-vega.json) |
 | Cipher | 178494 | [178494-cipher.json](./178494-cipher.json) |
@@ -10176,6 +10178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clothing Store Simulator | 381799 | [381799-clothing-store-simulator.json](./381799-clothing-store-simulator.json) |
 | Clothing Store Simulator | 395637 | [395637-clothing-store-simulator.json](./395637-clothing-store-simulator.json) |
 | Clothing Store Simulator 3D | 375139 | [375139-clothing-store-simulator-3d.json](./375139-clothing-store-simulator-3d.json) |
+| Clothing Supermarket Store Simulator | 327544 | [327544-clothing-supermarket-store-simulator.json](./327544-clothing-supermarket-store-simulator.json) |
 | Clotilde Soffritti in Never Double Park your Spaceship | 217876 | [217876-clotilde-soffritti-in-never-double-park-your-spaceship.json](./217876-clotilde-soffritti-in-never-double-park-your-spaceship.json) |
 | Clotilde Soffritti in: Never Buy a Used Spaceship | 217875 | [217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json](./217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json) |
 | Clou: Roll & Heist | 195644 | [195644-clou-roll-and-heist.json](./195644-clou-roll-and-heist.json) |
@@ -13720,6 +13723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena: Sweet Bakery Tycoon | 260036 | [260036-cooking-arena-sweet-bakery-tycoon.json](./260036-cooking-arena-sweet-bakery-tycoon.json) |
 | Cooking Arena: Value Edition | 399814 | [399814-cooking-arena-value-edition.json](./399814-cooking-arena-value-edition.json) |
 | Cooking Battle! | 194134 | [194134-cooking-battle.json](./194134-cooking-battle.json) |
+| Cooking Beena: o-Ryouri Dekichatta! | 327569 | [327569-cooking-beena-o-ryouri-dekichatta.json](./327569-cooking-beena-o-ryouri-dekichatta.json) |
 | Cooking Bride to Primrose Lake | 417602 | [417602-cooking-bride-to-primrose-lake.json](./417602-cooking-bride-to-primrose-lake.json) |
 | Cooking by the Numbers | 364616 | [364616-cooking-by-the-numbers.json](./364616-cooking-by-the-numbers.json) |
 | Cooking Cat-Astrophe | 393882 | [393882-cooking-cat-astrophe.json](./393882-cooking-cat-astrophe.json) |
@@ -17995,6 +17999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Project: Mod Pack 1 - Quality Fun | 300934 | [300934-crystal-project-mod-pack-1-quality-fun.json](./300934-crystal-project-mod-pack-1-quality-fun.json) |
 | Crystal Project: Mod Pack 2 - New Challenges | 314886 | [314886-crystal-project-mod-pack-2-new-challenges.json](./314886-crystal-project-mod-pack-2-new-challenges.json) |
 | Crystal Quest | 277142 | [277142-crystal-quest.json](./277142-crystal-quest.json) |
+| Crystal Quest | 327695 | [327695-crystal-quest.json](./327695-crystal-quest.json) |
 | Crystal Quest | 7827 | [7827-crystal-quest.json](./7827-crystal-quest.json) |
 | Crystal Quest Classic | 32182 | [32182-crystal-quest-classic.json](./32182-crystal-quest-classic.json) |
 | Crystal Raider | 55188 | [55188-crystal-raider.json](./55188-crystal-raider.json) |
@@ -19313,6 +19318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Fame Highschool Days | 367992 | [367992-cute-fame-highschool-days.json](./367992-cute-fame-highschool-days.json) |
 | Cute Fame: Halloween Bash | 270610 | [270610-cute-fame-halloween-bash.json](./270610-cute-fame-halloween-bash.json) |
 | Cute Fames Adventure | 261214 | [261214-cute-fames-adventure.json](./261214-cute-fames-adventure.json) |
+| Cute Farm Hospital | 327705 | [327705-cute-farm-hospital.json](./327705-cute-farm-hospital.json) |
 | Cute Farmer Life | 265498 | [265498-cute-farmer-life.json](./265498-cute-farmer-life.json) |
 | Cute Fight | 219748 | [219748-cute-fight.json](./219748-cute-fight.json) |
 | Cute Fighter | 201168 | [201168-cute-fighter.json](./201168-cute-fighter.json) |
@@ -19338,6 +19344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Nurses | 367011 | [367011-cute-nurses.json](./367011-cute-nurses.json) |
 | Cute Patoots | 404909 | [404909-cute-patoots.json](./404909-cute-patoots.json) |
 | Cute Pet Doctor Care | 228113 | [228113-cute-pet-doctor-care.json](./228113-cute-pet-doctor-care.json) |
+| Cute Pet Hospital | 327699 | [327699-cute-pet-hospital.json](./327699-cute-pet-hospital.json) |
 | Cute Puppy Academy | 328547 | [328547-cute-puppy-academy.json](./328547-cute-puppy-academy.json) |
 | Cute Puzzle | 111015 | [111015-cute-puzzle.json](./111015-cute-puzzle.json) |
 | Cute Puzzle MAX | 111079 | [111079-cute-puzzle-max.json](./111079-cute-puzzle-max.json) |
