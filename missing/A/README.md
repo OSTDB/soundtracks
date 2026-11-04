@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Belief in a Perfect Today | 266055 | [266055-a-belief-in-a-perfect-today.json](./266055-a-belief-in-a-perfect-today.json) |
 | A Better Mouse Trap | 71170 | [71170-a-better-mouse-trap.json](./71170-a-better-mouse-trap.json) |
 | A Better Schlo Dating Simulation | 298788 | [298788-a-better-schlo-dating-simulation.json](./298788-a-better-schlo-dating-simulation.json) |
+| A Better Tomorrow | 309269 | [309269-a-better-tomorrow.json](./309269-a-better-tomorrow.json) |
 | A Better World | 325726 | [325726-a-better-world.json](./325726-a-better-world.json) |
 | A Better World | 345591 | [345591-a-better-world.json](./345591-a-better-world.json) |
 | A Bewitching Revolution | 124258 | [124258-a-bewitching-revolution.json](./124258-a-bewitching-revolution.json) |
@@ -16101,7 +16102,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -17734,6 +17734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azrael | 192457 | [192457-azrael.json](./192457-azrael.json) |
 | Azrael | 206572 | [206572-azrael.json](./206572-azrael.json) |
 | Azrael | 209697 | [209697-azrael.json](./209697-azrael.json) |
+| Azrael on the Boundary of Life or Death | 309284 | [309284-azrael-on-the-boundary-of-life-or-death.json](./309284-azrael-on-the-boundary-of-life-or-death.json) |
 | Azrael's Tear | 2210 | [2210-azraels-tear.json](./2210-azraels-tear.json) |
 | Aztaka | 16067 | [16067-aztaka.json](./16067-aztaka.json) |
 | Aztarac | 39320 | [39320-aztarac.json](./39320-aztarac.json) |
