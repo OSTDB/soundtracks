@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-03T20:36:41.612Z",
-  "total_soundtracks": 2876,
+  "generated_at": "2026-11-04T08:11:47.556Z",
+  "total_soundtracks": 2887,
   "games": [
     {
       "igdb_id": 7522,
@@ -1073,6 +1073,20 @@
       ]
     },
     {
+      "igdb_id": 131817,
+      "game_name": "Alien Hominid Invasion",
+      "game_url": "https://ostdb.net/games/alien-hominid-invasion",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27355d8ebb7f5af141f2fcb0eaf",
+      "albums": [
+        {
+          "album_name": "Alien Hominid Invasion OST (Beta)",
+          "spotify_url": "https://open.spotify.com/album/6w22qsfqQkGgSNvzRjc8uQ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 4754,
       "game_name": "Alien: Isolation",
       "game_url": "https://ostdb.net/games/alien-isolation",
@@ -1417,6 +1431,20 @@
         {
           "album_name": "Angry Birds Stella (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2LMKSNkJy0EbB53oWDiMfM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 114146,
+      "game_name": "Angry Video Game Nerd I & II Deluxe",
+      "game_url": "https://ostdb.net/games/angry-video-game-nerd-i-and-ii-deluxe",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ba900d5c3c2607f988bc3164",
+      "albums": [
+        {
+          "album_name": "Angry Video Game Nerd (I & II Deluxe Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0rN9gNgOeAy4dexE0aByHg",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -4103,6 +4131,20 @@
       ]
     },
     {
+      "igdb_id": 129028,
+      "game_name": "Bonfire Peaks",
+      "game_url": "https://ostdb.net/games/bonfire-peaks",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737260aff4fe4d17a2082c8267",
+      "albums": [
+        {
+          "album_name": "Bonfire Peaks (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1VSQEXl0jUu2N13oy5Hp8Y",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2259,
       "game_name": "Boom Blox",
       "game_url": "https://ostdb.net/games/boom-blox",
@@ -4521,6 +4563,20 @@
       ]
     },
     {
+      "igdb_id": 111558,
+      "game_name": "Bubsy: Paws on Fire!",
+      "game_url": "https://ostdb.net/games/bubsy-paws-on-fire",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738b7be537caf0fc89ef5f8a54",
+      "albums": [
+        {
+          "album_name": "Bubsy: Paws on Fire! (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3iTZC2QlYzD0JcqF0MfGmB",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3368,
       "game_name": "Buck Bumble",
       "game_url": "https://ostdb.net/games/buck-bumble",
@@ -4585,6 +4641,20 @@
         {
           "album_name": "Bum Simulator (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2mf06gndRCKJNYKdwQApP9",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 137192,
+      "game_name": "Buried Stars",
+      "game_url": "https://ostdb.net/games/buried-stars",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f82c31b6efb23f4f1249cf19",
+      "albums": [
+        {
+          "album_name": "BURIED STARS (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0WOwuQO2cd4NwzLGGEEhLR",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -5031,6 +5101,20 @@
         {
           "album_name": "Cars 2 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 128991,
+      "game_name": "Cartel Tycoon",
+      "game_url": "https://ostdb.net/games/cartel-tycoon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27397c0577c634e19a4604dc04f",
+      "albums": [
+        {
+          "album_name": "Cartel Tycoon (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6VgouUzqwdgFbzNNrTplAA",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -22939,6 +23023,20 @@
       ]
     },
     {
+      "igdb_id": 142710,
+      "game_name": "Prince of Persia: The Forgotten Sands",
+      "game_url": "https://ostdb.net/games/prince-of-persia-the-forgotten-sands",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27346a3fea088a2fc38d9d6fdc6",
+      "albums": [
+        {
+          "album_name": "Prince of Persia: The Forgotten Sands (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3hNLjKxhFmzR2V0XloauhA",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 341533,
       "game_name": "Prince of Persia: The Lost Crown",
       "game_url": "https://ostdb.net/games/prince-of-persia-the-lost-crown",
@@ -26065,6 +26163,20 @@
       ]
     },
     {
+      "igdb_id": 116097,
+      "game_name": "Shipped",
+      "game_url": "https://ostdb.net/games/shipped",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27395df45a4fdde458aa027d888",
+      "albums": [
+        {
+          "album_name": "Shipped (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/71Qbl4RfFVNUXFmiGQnHBu",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 208533,
       "game_name": "Shogun Showdown",
       "game_url": "https://ostdb.net/games/shogun-showdown",
@@ -27553,6 +27665,20 @@
       ]
     },
     {
+      "igdb_id": 111351,
+      "game_name": "Speaking Simulator",
+      "game_url": "https://ostdb.net/games/speaking-simulator",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b2fabeba557f989d48024c2f",
+      "albums": [
+        {
+          "album_name": "Speaking Simulator (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/36qp0l0i8t7yvkiLgFirvL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 302968,
       "game_name": "Species: Unknown",
       "game_url": "https://ostdb.net/games/species-unknown",
@@ -28893,6 +29019,20 @@
         {
           "album_name": "Super Blood Hockey (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/23xUYlCaYeyieGP18lVINr",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 107599,
+      "game_name": "Super Crush KO",
+      "game_url": "https://ostdb.net/games/super-crush-ko",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ed87cc87ad314abdfda919d7",
+      "albums": [
+        {
+          "album_name": "Super Crush KO Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4qDDOfZ6k9dVS2DbH2Bi92",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -32361,6 +32501,20 @@
         {
           "album_name": "TimeSplitters (Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6FfNaXPZx9Zt7frfqDrgFK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 111090,
+      "game_name": "Tin Hearts",
+      "game_url": "https://ostdb.net/games/tin-hearts",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739b16349d9e718d4504d04575",
+      "albums": [
+        {
+          "album_name": "Tin Hearts (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3ucOa33N5mdGEIUB9vaC3Q",
           "apple_music_url": "",
           "album_link_url": ""
         }
