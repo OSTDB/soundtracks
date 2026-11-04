@@ -1566,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario Randomizer | 304045 | [304045-paper-mario-randomizer.json](./304045-paper-mario-randomizer.json) |
 | Paper Mario ReCut | 403229 | [403229-paper-mario-recut.json](./403229-paper-mario-recut.json) |
 | Paper Mario TTYD64 | 257636 | [257636-paper-mario-ttyd64.json](./257636-paper-mario-ttyd64.json) |
+| Paper Mario World | 322926 | [322926-paper-mario-world.json](./322926-paper-mario-world.json) |
 | Paper Mario World | 339661 | [339661-paper-mario-world.json](./339661-paper-mario-world.json) |
 | Paper Mario World 2 | 339668 | [339668-paper-mario-world-2.json](./339668-paper-mario-world-2.json) |
 | Paper Mario: All Bosses in the Same Battle | 240080 | [240080-paper-mario-all-bosses-in-the-same-battle.json](./240080-paper-mario-all-bosses-in-the-same-battle.json) |
@@ -7230,6 +7231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piranha | 92881 | [92881-piranha.json](./92881-piranha.json) |
 | Piranha Feeding | 291836 | [291836-piranha-feeding.json](./291836-piranha-feeding.json) |
 | Piranha Panic | 114750 | [114750-piranha-panic.json](./114750-piranha-panic.json) |
+| Piranha Plant | 322924 | [322924-piranha-plant.json](./322924-piranha-plant.json) |
 | Piranha Pop | 396966 | [396966-piranha-pop.json](./396966-piranha-pop.json) |
 | Piranha-kun no Isshuukan | 85786 | [85786-piranha-kun-no-isshuukan.json](./85786-piranha-kun-no-isshuukan.json) |
 | Pirap Ilji: Geu Namjarobuteoui Talchul | 208655 | [208655-pirap-ilji-geu-namjarobuteoui-talchul.json](./208655-pirap-ilji-geu-namjarobuteoui-talchul.json) |
@@ -14203,6 +14205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prismaticallization | 108832 | [108832-prismaticallization.json](./108832-prismaticallization.json) |
 | Prismatix | 88071 | [88071-prismatix.json](./88071-prismatix.json) |
 | Prisme 7 | 133179 | [133179-prisme-7.json](./133179-prisme-7.json) |
+| PrismNeedle | 323000 | [323000-prismneedle.json](./323000-prismneedle.json) |
 | Prisnhax | 319777 | [319777-prisnhax.json](./319777-prisnhax.json) |
 | Prison | 348595 | [348595-prison.json](./348595-prison.json) |
 | Prison 69 | 150937 | [150937-prison-69.json](./150937-prison-69.json) |
