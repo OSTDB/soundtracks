@@ -4396,6 +4396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perpetual Torment | 363293 | [363293-perpetual-torment.json](./363293-perpetual-torment.json) |
 | Perpetuo | 378496 | [378496-perpetuo.json](./378496-perpetuo.json) |
 | Perpetuum | 16433 | [16433-perpetuum.json](./16433-perpetuum.json) |
+| Perplex | 328127 | [328127-perplex.json](./328127-perplex.json) |
 | Perplex City | 71320 | [71320-perplex-city.json](./71320-perplex-city.json) |
 | Perplexigon | 36827 | [36827-perplexigon.json](./36827-perplexigon.json) |
 | Perplexity: Suburban Home | 116688 | [116688-perplexity-suburban-home.json](./116688-perplexity-suburban-home.json) |
@@ -5822,6 +5823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Fox | 276019 | [276019-pico-fox.json](./276019-pico-fox.json) |
 | Pico Islands | 189360 | [189360-pico-islands.json](./189360-pico-islands.json) |
 | Pico Monsters | 181931 | [181931-pico-monsters.json](./181931-pico-monsters.json) |
+| Pico Park 1+2 | 328142 | [328142-pico-park-1-2.json](./328142-pico-park-1-2.json) |
 | Pico Park 2 | 314933 | [314933-pico-park-2.json](./314933-pico-park-2.json) |
 | Pico Park: Classic Edition | 288208 | [288208-pico-park-classic-edition.json](./288208-pico-park-classic-edition.json) |
 | Pico Pico | 118991 | [118991-pico-pico.json](./118991-pico-pico.json) |
@@ -9314,6 +9316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platypus II | 36229 | [36229-platypus-ii.json](./36229-platypus-ii.json) |
 | Platypus Steps | 422482 | [422482-platypus-steps.json](./422482-platypus-steps.json) |
 | Platzkart Simulator | 158201 | [158201-platzkart-simulator.json](./158201-platzkart-simulator.json) |
+| Platzle | 328144 | [328144-platzle.json](./328144-platzle.json) |
 | Plausible Deniability: Cover Your Tracks | 410258 | [410258-plausible-deniability-cover-your-tracks.json](./410258-plausible-deniability-cover-your-tracks.json) |
 | Play & Learn Chinese | 84723 | [84723-play-and-learn-chinese.json](./84723-play-and-learn-chinese.json) |
 | Play & Learn Kids' Mini-Game Collection | 345995 | [345995-play-and-learn-kids-mini-game-collection.json](./345995-play-and-learn-kids-mini-game-collection.json) |
