@@ -19680,6 +19680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Puncake | 276680 | [276680-cyber-puncake.json](./276680-cyber-puncake.json) |
 | Cyber Quest | 318464 | [318464-cyber-quest.json](./318464-cyber-quest.json) |
 | Cyber Racer | 120151 | [120151-cyber-racer.json](./120151-cyber-racer.json) |
+| Cyber Racers: Retro Neon Punk Drift | 309287 | [309287-cyber-racers-retro-neon-punk-drift.json](./309287-cyber-racers-retro-neon-punk-drift.json) |
 | Cyber Rage: Retribution | 116827 | [116827-cyber-rage-retribution.json](./116827-cyber-rage-retribution.json) |
 | Cyber Rail | 267468 | [267468-cyber-rail.json](./267468-cyber-rail.json) |
 | Cyber Rats | 336523 | [336523-cyber-rats.json](./336523-cyber-rats.json) |
