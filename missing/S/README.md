@@ -28755,7 +28755,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Carnival '92 Alzadick | 56374 | [56374-summer-carnival-92-alzadick.json](./56374-summer-carnival-92-alzadick.json) |
 | Summer Carnival '92: Recca | 48642 | [48642-summer-carnival-92-recca.json](./48642-summer-carnival-92-recca.json) |
 | Summer Carnival '93: Nexzr Special | 210636 | [210636-summer-carnival-93-nexzr-special.json](./210636-summer-carnival-93-nexzr-special.json) |
-| Summer Catchers | 106435 | [106435-summer-catchers.json](./106435-summer-catchers.json) |
 | Summer Challenge: Athletics Tournament | 43012 | [43012-summer-challenge-athletics-tournament.json](./43012-summer-challenge-athletics-tournament.json) |
 | Summer Clover | 258943 | [258943-summer-clover.json](./258943-summer-clover.json) |
 | Summer Color Boi | 128805 | [128805-summer-color-boi.json](./128805-summer-color-boi.json) |
