@@ -2591,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Hunter: Matariki Park | 289904 | [289904-way-of-the-hunter-matariki-park.json](./289904-way-of-the-hunter-matariki-park.json) |
 | Way of the Hunter: Night Hunting Pack | 349237 | [349237-way-of-the-hunter-night-hunting-pack.json](./349237-way-of-the-hunter-night-hunting-pack.json) |
 | Way of the Hunter: Outfits Pack | 311101 | [311101-way-of-the-hunter-outfits-pack.json](./311101-way-of-the-hunter-outfits-pack.json) |
+| Way of the Hunter: Remington Firearms Pack | 317752 | [317752-way-of-the-hunter-remington-firearms-pack.json](./317752-way-of-the-hunter-remington-firearms-pack.json) |
 | Way of the Hunter: Steyr Arms Pack | 272878 | [272878-way-of-the-hunter-steyr-arms-pack.json](./272878-way-of-the-hunter-steyr-arms-pack.json) |
 | Way of the Hunter: Tikamoon Plains | 258834 | [258834-way-of-the-hunter-tikamoon-plains.json](./258834-way-of-the-hunter-tikamoon-plains.json) |
 | Way of the Hunter: Ultimate Edition | 331825 | [331825-way-of-the-hunter-ultimate-edition.json](./331825-way-of-the-hunter-ultimate-edition.json) |
