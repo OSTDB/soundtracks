@@ -15833,7 +15833,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dress-Up With Helene: Deluxe! | 358860 | [358860-dress-up-with-helene-deluxe.json](./358860-dress-up-with-helene-deluxe.json) |
 | Dressed to Kill Sherlock Holmes for Playdate & C64! | 265737 | [265737-dressed-to-kill-sherlock-holmes-for-playdate-and-c64.json](./265737-dressed-to-kill-sherlock-holmes-for-playdate-and-c64.json) |
 | Dressing Room | 361320 | [361320-dressing-room.json](./361320-dressing-room.json) |
-| Dressmaker | 365465 | [365465-dressmaker.json](./365465-dressmaker.json) |
 | DressMaker | 168654 | [168654-dressmaker.json](./168654-dressmaker.json) |
 | Dressmaker Simulator | 421422 | [421422-dressmaker-simulator.json](./421422-dressmaker-simulator.json) |
 | Drevepsina | 256005 | [256005-drevepsina.json](./256005-drevepsina.json) |
