@@ -3200,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Operators | 413874 | [413874-void-operators.json](./413874-void-operators.json) |
 | Void Outcasts | 398770 | [398770-void-outcasts.json](./398770-void-outcasts.json) |
 | Void Pachinko | 384212 | [384212-void-pachinko.json](./384212-void-pachinko.json) |
+| Void Path | 319821 | [319821-void-path.json](./319821-void-path.json) |
 | Void Phantom | 388256 | [388256-void-phantom.json](./388256-void-phantom.json) |
 | Void Point | 384047 | [384047-void-point.json](./384047-void-point.json) |
 | VOID PRIEST | 414163 | [414163-void-priest.json](./414163-void-priest.json) |
