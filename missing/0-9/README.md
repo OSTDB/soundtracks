@@ -2822,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5-in-1 Pack: Monument Builders - Destination USA | 91071 | [91071-5-in-1-pack-monument-builders-destination-usa.json](./91071-5-in-1-pack-monument-builders-destination-usa.json) |
 | 5-kyuu kara 1-kyuu Kanzen Taiou Saishin Kako Mondai: Nijishiken Taisaku - Eiken Kanzenban | 269536 | [269536-5-kyuu-kara-1-kyuu-kanzen-taiou-saishin-kako-mondai-nijishiken-taisaku-eiken-kanzenban.json](./269536-5-kyuu-kara-1-kyuu-kanzen-taiou-saishin-kako-mondai-nijishiken-taisaku-eiken-kanzenban.json) |
 | 5-Letter-Kruiswoord | 92793 | [92793-5-letter-kruiswoord.json](./92793-5-letter-kruiswoord.json) |
+| 5-min-Clue | 301472 | [301472-5-min-clue.json](./301472-5-min-clue.json) |
 | 5-Minute Maid | 392314 | [392314-5-minute-maid.json](./392314-5-minute-maid.json) |
 | 5-Nen Kanji Keisan Nigate Hunter DS | 269537 | [269537-5-nen-kanji-keisan-nigate-hunter-ds.json](./269537-5-nen-kanji-keisan-nigate-hunter-ds.json) |
 | 5-Star | 298942 | [298942-5-star.json](./298942-5-star.json) |
