@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare II - Season 03 | 243777 | [243777-call-of-duty-modern-warfare-ii-season-03.json](./243777-call-of-duty-modern-warfare-ii-season-03.json) |
 | Call of Duty: Modern Warfare II - Season 05 | 259766 | [259766-call-of-duty-modern-warfare-ii-season-05.json](./259766-call-of-duty-modern-warfare-ii-season-05.json) |
 | Call of Duty: Modern Warfare II - Vault Edition | 218405 | [218405-call-of-duty-modern-warfare-ii-vault-edition.json](./218405-call-of-duty-modern-warfare-ii-vault-edition.json) |
+| Call of Duty: Modern Warfare III - Cyberjunkie: Pro Pack | 298224 | [298224-call-of-duty-modern-warfare-iii-cyberjunkie-pro-pack.json](./298224-call-of-duty-modern-warfare-iii-cyberjunkie-pro-pack.json) |
 | Call of Duty: Modern Warfare III - Season 1 | 279645 | [279645-call-of-duty-modern-warfare-iii-season-1.json](./279645-call-of-duty-modern-warfare-iii-season-1.json) |
 | Call of Duty: Modern Warfare III - Season 2 | 285601 | [285601-call-of-duty-modern-warfare-iii-season-2.json](./285601-call-of-duty-modern-warfare-iii-season-2.json) |
 | Call of Duty: Modern Warfare III - Season 3 | 298563 | [298563-call-of-duty-modern-warfare-iii-season-3.json](./298563-call-of-duty-modern-warfare-iii-season-3.json) |
@@ -10041,6 +10042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climbing Challenge | 276672 | [276672-climbing-challenge.json](./276672-climbing-challenge.json) |
 | Climbing Flail | 119649 | [119649-climbing-flail.json](./119649-climbing-flail.json) |
 | Climbing Gym Simulator | 353358 | [353358-climbing-gym-simulator.json](./353358-climbing-gym-simulator.json) |
+| Climbing In Barrel With Double-Barrel | 298228 | [298228-climbing-in-barrel-with-double-barrel.json](./298228-climbing-in-barrel-with-double-barrel.json) |
 | Climbing Life | 355975 | [355975-climbing-life.json](./355975-climbing-life.json) |
 | Climbing Mountain Sins | 257915 | [257915-climbing-mountain-sins.json](./257915-climbing-mountain-sins.json) |
 | Climbing Mt. Stardust | 267495 | [267495-climbing-mt-stardust.json](./267495-climbing-mt-stardust.json) |
@@ -13982,6 +13984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Kid Cody: Season 2 - Episode 09 | 253977 | [253977-cool-kid-cody-season-2-episode-09.json](./253977-cool-kid-cody-season-2-episode-09.json) |
 | Cool Kid Cody: Season 2 - Episode 10 | 252693 | [252693-cool-kid-cody-season-2-episode-10.json](./252693-cool-kid-cody-season-2-episode-10.json) |
 | Cool Kid Cody: Season 3 - Episode 01 | 296596 | [296596-cool-kid-cody-season-3-episode-01.json](./296596-cool-kid-cody-season-3-episode-01.json) |
+| Cool Kid Cody: Season 3 - Episode 02 | 298217 | [298217-cool-kid-cody-season-3-episode-02.json](./298217-cool-kid-cody-season-3-episode-02.json) |
 | Cool Kid Cody: Season 3 - Episode 03 | 302582 | [302582-cool-kid-cody-season-3-episode-03.json](./302582-cool-kid-cody-season-3-episode-03.json) |
 | Cool Kid Cody: Season 3 - Episode 04 | 302583 | [302583-cool-kid-cody-season-3-episode-04.json](./302583-cool-kid-cody-season-3-episode-04.json) |
 | Cool Kid Cody: Season 3 - Episode 05 | 302584 | [302584-cool-kid-cody-season-3-episode-05.json](./302584-cool-kid-cody-season-3-episode-05.json) |
@@ -14503,6 +14506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Bouncer | 15918 | [15918-cosmic-bouncer.json](./15918-cosmic-bouncer.json) |
 | Cosmic Bowling | 100275 | [100275-cosmic-bowling.json](./100275-cosmic-bowling.json) |
 | Cosmic Break | 80556 | [80556-cosmic-break.json](./80556-cosmic-break.json) |
+| Cosmic Breakout | 298210 | [298210-cosmic-breakout.json](./298210-cosmic-breakout.json) |
 | Cosmic Buddies Town | 80948 | [80948-cosmic-buddies-town.json](./80948-cosmic-buddies-town.json) |
 | Cosmic Bugs | 72161 | [72161-cosmic-bugs.json](./72161-cosmic-bugs.json) |
 | Cosmic Call | 319212 | [319212-cosmic-call.json](./319212-cosmic-call.json) |
