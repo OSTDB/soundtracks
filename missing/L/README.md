@@ -3450,6 +3450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lesson: The Game | 36669 | [36669-lesson-the-game.json](./36669-lesson-the-game.json) |
 | Lessons in Love | 182472 | [182472-lessons-in-love.json](./182472-lessons-in-love.json) |
 | Lessons learned | 108067 | [108067-lessons-learned.json](./108067-lessons-learned.json) |
+| Lest: Deluxe 24 | 346325 | [346325-lest-deluxe-24.json](./346325-lest-deluxe-24.json) |
 | Lester the Unlikely | 42504 | [42504-lester-the-unlikely.json](./42504-lester-the-unlikely.json) |
 | Let Bions be Bygones | 202860 | [202860-let-bions-be-bygones.json](./202860-let-bions-be-bygones.json) |
 | Let Catch Me | 343686 | [343686-let-catch-me.json](./343686-let-catch-me.json) |
@@ -5013,6 +5014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Border Part I | 265813 | [265813-liminal-border-part-i.json](./265813-liminal-border-part-i.json) |
 | Liminal Border Part II | 285128 | [285128-liminal-border-part-ii.json](./285128-liminal-border-part-ii.json) |
 | Liminal Border Part III | 315044 | [315044-liminal-border-part-iii.json](./315044-liminal-border-part-iii.json) |
+| Liminal City | 346366 | [346366-liminal-city.json](./346366-liminal-city.json) |
 | Liminal City: Axiom of Maria - Chapter One | 401804 | [401804-liminal-city-axiom-of-maria-chapter-one.json](./401804-liminal-city-axiom-of-maria-chapter-one.json) |
 | Liminal Death | 340921 | [340921-liminal-death.json](./340921-liminal-death.json) |
 | Liminal Doom | 252724 | [252724-liminal-doom.json](./252724-liminal-doom.json) |
