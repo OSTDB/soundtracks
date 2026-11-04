@@ -790,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quench | 106138 | [106138-quench.json](./106138-quench.json) |
 | QuentBlast | 218666 | [218666-quentblast.json](./218666-quentblast.json) |
 | Quento | 90205 | [90205-quento.json](./90205-quento.json) |
+| Quescaper | 306262 | [306262-quescaper.json](./306262-quescaper.json) |
 | Quest | 308451 | [308451-quest.json](./308451-quest.json) |
 | Quest | 394628 | [394628-quest.json](./394628-quest.json) |
 | Quest & Quest 3D: Short Short - Female Adventurer Arcana | 82763 | [82763-quest-and-quest-3d-short-short-female-adventurer-arcana.json](./82763-quest-and-quest-3d-short-short-female-adventurer-arcana.json) |
