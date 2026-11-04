@@ -1584,6 +1584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggsplosion | 304284 | [304284-eggsplosion.json](./304284-eggsplosion.json) |
 | Eggstinct! | 392254 | [392254-eggstinct.json](./392254-eggstinct.json) |
 | Eggstraction | 294300 | [294300-eggstraction.json](./294300-eggstraction.json) |
+| Eggstraordinary Goose Chase | 348002 | [348002-eggstraordinary-goose-chase.json](./348002-eggstraordinary-goose-chase.json) |
 | Eggstreme Farming | 416949 | [416949-eggstreme-farming.json](./416949-eggstreme-farming.json) |
 | Eggtastic | 382805 | [382805-eggtastic.json](./382805-eggtastic.json) |
 | EggTime 2 | 101452 | [101452-eggtime-2.json](./101452-eggtime-2.json) |
