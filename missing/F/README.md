@@ -2077,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Wars | 7332 | [7332-fantasy-wars.json](./7332-fantasy-wars.json) |
 | Fantasy Wars: Endless Heroes | 390601 | [390601-fantasy-wars-endless-heroes.json](./390601-fantasy-wars-endless-heroes.json) |
 | Fantasy World | 68687 | [68687-fantasy-world.json](./68687-fantasy-world.json) |
+| Fantasy World Manager | 339042 | [339042-fantasy-world-manager.json](./339042-fantasy-world-manager.json) |
 | Fantasy World Online Tycoon | 132209 | [132209-fantasy-world-online-tycoon.json](./132209-fantasy-world-online-tycoon.json) |
 | Fantasy World Simulator | 312458 | [312458-fantasy-world-simulator.json](./312458-fantasy-world-simulator.json) |
 | Fantasy World Souls | 235035 | [235035-fantasy-world-souls.json](./235035-fantasy-world-souls.json) |
