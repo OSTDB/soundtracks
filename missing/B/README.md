@@ -936,7 +936,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4153,6 +4152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefront Expanded | 333904 | [333904-battlefront-expanded.json](./333904-battlefront-expanded.json) |
 | Battlefront Heroes | 394817 | [394817-battlefront-heroes.json](./394817-battlefront-heroes.json) |
 | Battlefront Trench Warriors: Ops of Warfare | 283294 | [283294-battlefront-trench-warriors-ops-of-warfare.json](./283294-battlefront-trench-warriors-ops-of-warfare.json) |
+| Battlefront Trench Warriors: Ops of Warfare & Trench Shooter: Warfare Tactics Bundle Collection | 332326 | [332326-battlefront-trench-warriors-ops-of-warfare-and-trench-shooter-warfare-tactics-bundle-collection.json](./332326-battlefront-trench-warriors-ops-of-warfare-and-trench-shooter-warfare-tactics-bundle-collection.json) |
 | Battlefront+ | 327160 | [327160-battlefront.json](./327160-battlefront.json) |
 | BattleGlide | 301113 | [301113-battleglide.json](./301113-battleglide.json) |
 | Battlegods CCG: Card Battle | 91104 | [91104-battlegods-ccg-card-battle.json](./91104-battlegods-ccg-card-battle.json) |
@@ -7714,6 +7714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bing Chilling | 371333 | [371333-bing-chilling.json](./371333-bing-chilling.json) |
 | Bing in Wonderland | 216705 | [216705-bing-in-wonderland.json](./216705-bing-in-wonderland.json) |
 | Bing In Wonderland: Deluxe Edition | 291676 | [291676-bing-in-wonderland-deluxe-edition.json](./291676-bing-in-wonderland-deluxe-edition.json) |
+| Bing in Wonderland: Power Up Edition | 332327 | [332327-bing-in-wonderland-power-up-edition.json](./332327-bing-in-wonderland-power-up-edition.json) |
 | Bing in Wonderland: Wings & Weapon Looks - Azure Dragon | 325436 | [325436-bing-in-wonderland-wings-and-weapon-looks-azure-dragon.json](./325436-bing-in-wonderland-wings-and-weapon-looks-azure-dragon.json) |
 | Bing in Wonderland: Wings & Weapon Looks - Black Tortoise | 325440 | [325440-bing-in-wonderland-wings-and-weapon-looks-black-tortoise.json](./325440-bing-in-wonderland-wings-and-weapon-looks-black-tortoise.json) |
 | Bing in Wonderland: Wings & Weapon Looks - Dragon Slayer | 325437 | [325437-bing-in-wonderland-wings-and-weapon-looks-dragon-slayer.json](./325437-bing-in-wonderland-wings-and-weapon-looks-dragon-slayer.json) |
@@ -8917,6 +8918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackbeard the Cursed Jungle | 123526 | [123526-blackbeard-the-cursed-jungle.json](./123526-blackbeard-the-cursed-jungle.json) |
 | Blackbeard's Billions | 90877 | [90877-blackbeards-billions.json](./90877-blackbeards-billions.json) |
 | Blackbeard's Cove | 86577 | [86577-blackbeards-cove.json](./86577-blackbeards-cove.json) |
+| Blackbeard's Treasure | 332328 | [332328-blackbeards-treasure.json](./332328-blackbeards-treasure.json) |
 | Blackberry | 123952 | [123952-blackberry.json](./123952-blackberry.json) |
 | Blackberry Honey | 74602 | [74602-blackberry-honey.json](./74602-blackberry-honey.json) |
 | Blackberry the Witch: Journey | 166408 | [166408-blackberry-the-witch-journey.json](./166408-blackberry-the-witch-journey.json) |
@@ -15820,6 +15822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble | 194444 | [194444-bubble-bobble.json](./194444-bubble-bobble.json) |
 | Bubble Bobble | 306222 | [306222-bubble-bobble.json](./306222-bubble-bobble.json) |
 | Bubble Bobble | 313543 | [313543-bubble-bobble.json](./313543-bubble-bobble.json) |
+| Bubble Bobble | 332202 | [332202-bubble-bobble.json](./332202-bubble-bobble.json) |
 | Bubble Bobble | 332216 | [332216-bubble-bobble.json](./332216-bubble-bobble.json) |
 | Bubble Bobble | 332218 | [332218-bubble-bobble.json](./332218-bubble-bobble.json) |
 | Bubble Bobble | 332221 | [332221-bubble-bobble.json](./332221-bubble-bobble.json) |
