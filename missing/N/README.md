@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nayuta no Kiseki: Kai | 146036 | [146036-nayuta-no-kiseki-kai.json](./146036-nayuta-no-kiseki-kai.json) |
 | Nayuta no Kiseki: Limited Edition | 284434 | [284434-nayuta-no-kiseki-limited-edition.json](./284434-nayuta-no-kiseki-limited-edition.json) |
 | Nazar | 319003 | [319003-nazar.json](./319003-nazar.json) |
+| Nazareno Runner Semana Santa | 323078 | [323078-nazareno-runner-semana-santa.json](./323078-nazareno-runner-semana-santa.json) |
 | Nazi | 385988 | [385988-nazi.json](./385988-nazi.json) |
 | Nazi 2 | 105248 | [105248-nazi-2.json](./105248-nazi-2.json) |
 | Nazi Bunker | 105252 | [105252-nazi-bunker.json](./105252-nazi-bunker.json) |
@@ -5402,6 +5403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nix: Ashes of the Phoenix | 242601 | [242601-nix-ashes-of-the-phoenix.json](./242601-nix-ashes-of-the-phoenix.json) |
 | Nix: The Paradox Relic | 410043 | [410043-nix-the-paradox-relic.json](./410043-nix-the-paradox-relic.json) |
 | Nixie | 267690 | [267690-nixie.json](./267690-nixie.json) |
+| Nixie | 322913 | [322913-nixie.json](./322913-nixie.json) |
 | Nixxsz Castle | 234276 | [234276-nixxsz-castle.json](./234276-nixxsz-castle.json) |
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
 | Nixy and the Seeds of Doom | 142021 | [142021-nixy-and-the-seeds-of-doom.json](./142021-nixy-and-the-seeds-of-doom.json) |
