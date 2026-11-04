@@ -6217,6 +6217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Simulator: Agonik Lake | 240761 | [240761-fish-simulator-agonik-lake.json](./240761-fish-simulator-agonik-lake.json) |
 | Fish Simulator: Aquarium Manager | 121785 | [121785-fish-simulator-aquarium-manager.json](./121785-fish-simulator-aquarium-manager.json) |
 | Fish Stick Protocol | 340540 | [340540-fish-stick-protocol.json](./340540-fish-stick-protocol.json) |
+| Fish Sticks | 321873 | [321873-fish-sticks.json](./321873-fish-sticks.json) |
 | Fish Story | 189876 | [189876-fish-story.json](./189876-fish-story.json) |
 | Fish Story | 230691 | [230691-fish-story.json](./230691-fish-story.json) |
 | Fish Story: Gourmet Puzzle | 188832 | [188832-fish-story-gourmet-puzzle.json](./188832-fish-story-gourmet-puzzle.json) |
@@ -7858,6 +7859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flood-it! 2 | 254606 | [254606-flood-it-2.json](./254606-flood-it-2.json) |
 | Flood: The Prequel | 72362 | [72362-flood-the-prequel.json](./72362-flood-the-prequel.json) |
 | Floodbound | 298852 | [298852-floodbound.json](./298852-floodbound.json) |
+| Floodcore | 321906 | [321906-floodcore.json](./321906-floodcore.json) |
 | Flooded | 204077 | [204077-flooded.json](./204077-flooded.json) |
 | Flooded Burials | 339797 | [339797-flooded-burials.json](./339797-flooded-burials.json) |
 | Flooder | 256682 | [256682-flooder.json](./256682-flooder.json) |
