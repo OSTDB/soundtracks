@@ -7588,6 +7588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pithorox Gear | 145022 | [145022-pithorox-gear.json](./145022-pithorox-gear.json) |
 | Pitiri 1977 | 17513 | [17513-pitiri-1977.json](./17513-pitiri-1977.json) |
 | Pitit Bac | 191505 | [191505-pitit-bac.json](./191505-pitit-bac.json) |
+| Pitman | 311948 | [311948-pitman.json](./311948-pitman.json) |
 | Pitman | 76178 | [76178-pitman.json](./76178-pitman.json) |
 | Pitstop Challenge | 25444 | [25444-pitstop-challenge.json](./25444-pitstop-challenge.json) |
 | Pitstop II | 24660 | [24660-pitstop-ii.json](./24660-pitstop-ii.json) |
@@ -9529,6 +9530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playing Kafka | 297978 | [297978-playing-kafka.json](./297978-playing-kafka.json) |
 | Playing Prague | 414139 | [414139-playing-prague.json](./414139-playing-prague.json) |
 | Playing Pride & Prejudice 1: An Austen Armoire | 171742 | [171742-playing-pride-and-prejudice-1-an-austen-armoire.json](./171742-playing-pride-and-prejudice-1-an-austen-armoire.json) |
+| Playing the Favorite | 311940 | [311940-playing-the-favorite.json](./311940-playing-the-favorite.json) |
 | Playing with Fire | 194758 | [194758-playing-with-fire.json](./194758-playing-with-fire.json) |
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
 | Playing With Language: Games in English | 63775 | [63775-playing-with-language-games-in-english.json](./63775-playing-with-language-games-in-english.json) |
@@ -12526,6 +12528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portable VR | 244232 | [244232-portable-vr.json](./244232-portable-vr.json) |
 | PortaBoy+ | 246238 | [246238-portaboy.json](./246238-portaboy.json) |
 | Portal | 14546 | [14546-portal.json](./14546-portal.json) |
+| Portal | 311949 | [311949-portal.json](./311949-portal.json) |
 | Portal 2: Alive Again | 322239 | [322239-portal-2-alive-again.json](./322239-portal-2-alive-again.json) |
 | Portal 2: And the Abyss Gazes Back Part 1 | 183424 | [183424-portal-2-and-the-abyss-gazes-back-part-1.json](./183424-portal-2-and-the-abyss-gazes-back-part-1.json) |
 | Portal 2: Community Edition | 169962 | [169962-portal-2-community-edition.json](./169962-portal-2-community-edition.json) |
