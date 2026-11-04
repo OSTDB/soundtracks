@@ -5514,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Phantasy: Spot the Differences | 58128 | [58128-photo-phantasy-spot-the-differences.json](./58128-photo-phantasy-spot-the-differences.json) |
 | Photo Quiz: 4 pics, 1 thing in common - what’s the word? | 232568 | [232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json](./232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json) |
 | Photo Quiz: Animals | 370993 | [370993-photo-quiz-animals.json](./370993-photo-quiz-animals.json) |
+| Photo Roulette | 326511 | [326511-photo-roulette.json](./326511-photo-roulette.json) |
 | Photo Spot | 255005 | [255005-photo-spot.json](./255005-photo-spot.json) |
 | Photo Studio Simulator | 309730 | [309730-photo-studio-simulator.json](./309730-photo-studio-simulator.json) |
 | Photo Y2K | 142858 | [142858-photo-y2k.json](./142858-photo-y2k.json) |
@@ -6468,6 +6469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin Strike 3 | 380656 | [380656-pin-strike-3.json](./380656-pin-strike-3.json) |
 | Pin Test Party Psychology | 386204 | [386204-pin-test-party-psychology.json](./386204-pin-test-party-psychology.json) |
 | Pin The Guardian Spirit | 419097 | [419097-pin-the-guardian-spirit.json](./419097-pin-the-guardian-spirit.json) |
+| Pin The Pangolin | 326495 | [326495-pin-the-pangolin.json](./326495-pin-the-pangolin.json) |
 | Pin Tiki Ball | 87552 | [87552-pin-tiki-ball.json](./87552-pin-tiki-ball.json) |
 | Pin To Win | 302351 | [302351-pin-to-win.json](./302351-pin-to-win.json) |
 | Pin Zhi | 304893 | [304893-pin-zhi.json](./304893-pin-zhi.json) |
@@ -11522,6 +11524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polish Simulator | 329495 | [329495-polish-simulator.json](./329495-polish-simulator.json) |
 | Polismos | 285476 | [285476-polismos.json](./285476-polismos.json) |
 | Politaire | 58146 | [58146-politaire.json](./58146-politaire.json) |
+| Politburo Simulator | 326371 | [326371-politburo-simulator.json](./326371-politburo-simulator.json) |
 | Polite animals | 285428 | [285428-polite-animals.json](./285428-polite-animals.json) |
 | Politica: Nothing Ideological. It's Just Business | 291313 | [291313-politica-nothing-ideological-its-just-business.json](./291313-politica-nothing-ideological-its-just-business.json) |
 | Political Animals | 25678 | [25678-political-animals.json](./25678-political-animals.json) |
@@ -12646,6 +12649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Master | 10714 | [10714-post-master.json](./10714-post-master.json) |
 | Post Memory | 318530 | [318530-post-memory.json](./318530-post-memory.json) |
 | Post Mortem | 14359 | [14359-post-mortem.json](./14359-post-mortem.json) |
+| Post Office Simulator | 326373 | [326373-post-office-simulator.json](./326373-post-office-simulator.json) |
 | Post Scriptum CTG: Collectible Token Game | 129676 | [129676-post-scriptum-ctg-collectible-token-game.json](./129676-post-scriptum-ctg-collectible-token-game.json) |
 | Post Solis | 199102 | [199102-post-solis.json](./199102-post-solis.json) |
 | Post Soviet Strike: Chernobyl Legacy | 294161 | [294161-post-soviet-strike-chernobyl-legacy.json](./294161-post-soviet-strike-chernobyl-legacy.json) |
@@ -12810,6 +12814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Punch Rivals | 304540 | [304540-potion-punch-rivals.json](./304540-potion-punch-rivals.json) |
 | Potion Quest | 306773 | [306773-potion-quest.json](./306773-potion-quest.json) |
 | Potion Shop Simulator | 290953 | [290953-potion-shop-simulator.json](./290953-potion-shop-simulator.json) |
+| Potion Shopkeeper Simulator | 326374 | [326374-potion-shopkeeper-simulator.json](./326374-potion-shopkeeper-simulator.json) |
 | Potion Slingers | 248036 | [248036-potion-slingers.json](./248036-potion-slingers.json) |
 | Potion Stand Story | 316809 | [316809-potion-stand-story.json](./316809-potion-stand-story.json) |
 | Potion Tales | 211620 | [211620-potion-tales.json](./211620-potion-tales.json) |
@@ -17433,6 +17438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyoman-Eating Carbuncle | 253720 | [253720-puyoman-eating-carbuncle.json](./253720-puyoman-eating-carbuncle.json) |
 | Puzigo | 416601 | [416601-puzigo.json](./416601-puzigo.json) |
 | Puzkend | 68930 | [68930-puzkend.json](./68930-puzkend.json) |
+| Puzkin: Magnetic Odyssey | 326506 | [326506-puzkin-magnetic-odyssey.json](./326506-puzkin-magnetic-odyssey.json) |
 | Puzletun: Curse of the unfortunate. | 368735 | [368735-puzletun-curse-of-the-unfortunate.json](./368735-puzletun-curse-of-the-unfortunate.json) |
 | Puzlkind: Jigsaw Puzzles | 162205 | [162205-puzlkind-jigsaw-puzzles.json](./162205-puzlkind-jigsaw-puzzles.json) |
 | Puzlogic | 101698 | [101698-puzlogic.json](./101698-puzlogic.json) |
