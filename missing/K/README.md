@@ -4251,6 +4251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knack's Quest | 62659 | [62659-knacks-quest.json](./62659-knacks-quest.json) |
 | Knaddskogen | 179866 | [179866-knaddskogen.json](./179866-knaddskogen.json) |
 | Knee Deep | 19089 | [19089-knee-deep.json](./19089-knee-deep.json) |
+| Knee Deep in the UnDead | 312241 | [312241-knee-deep-in-the-undead.json](./312241-knee-deep-in-the-undead.json) |
 | Knee Slide | 407059 | [407059-knee-slide.json](./407059-knee-slide.json) |
 | Knee-deep in 2023 | 261822 | [261822-knee-deep-in-2023.json](./261822-knee-deep-in-2023.json) |
 | Knee-Deep in Kdizd | 260668 | [260668-knee-deep-in-kdizd.json](./260668-knee-deep-in-kdizd.json) |
