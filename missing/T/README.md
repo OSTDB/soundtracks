@@ -7842,6 +7842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day the World Changed | 97713 | [97713-the-day-the-world-changed.json](./97713-the-day-the-world-changed.json) |
 | The Day They Came | 169832 | [169832-the-day-they-came.json](./169832-the-day-they-came.json) |
 | The Day They Landed | 81681 | [81681-the-day-they-landed.json](./81681-the-day-they-landed.json) |
+| The Day Valentine Died, and So Did I! | 331764 | [331764-the-day-valentine-died-and-so-did-i.json](./331764-the-day-valentine-died-and-so-did-i.json) |
 | The Day We Met was a Regular Day in the Infinitely Looping Highschool, is That Normal? | 192953 | [192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json](./192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json) |
 | The Days Without Gods | 356826 | [356826-the-days-without-gods.json](./356826-the-days-without-gods.json) |
 | The DBK Holiday Special | 261465 | [261465-the-dbk-holiday-special.json](./261465-the-dbk-holiday-special.json) |
@@ -23478,6 +23479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together: Moon Escape | 366607 | [366607-together-moon-escape.json](./366607-together-moon-escape.json) |
 | Together: To Get Her | 121408 | [121408-together-to-get-her.json](./121408-together-to-get-her.json) |
 | Toggle | 156714 | [156714-toggle.json](./156714-toggle.json) |
+| Toggle Tile | 331601 | [331601-toggle-tile.json](./331601-toggle-tile.json) |
 | Togglebot | 387707 | [387707-togglebot.json](./387707-togglebot.json) |
 | Togo Dave | 79027 | [79027-togo-dave.json](./79027-togo-dave.json) |
 | Togum | 225182 | [225182-togum.json](./225182-togum.json) |
@@ -27754,6 +27756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus DLC: OBB Eurofima Second Class Pack | 400080 | [400080-trainz-plus-dlc-obb-eurofima-second-class-pack.json](./400080-trainz-plus-dlc-obb-eurofima-second-class-pack.json) |
 | Trainz Plus DLC: Pro Train - Class 68 ScotRail | 208339 | [208339-trainz-plus-dlc-pro-train-class-68-scotrail.json](./208339-trainz-plus-dlc-pro-train-class-68-scotrail.json) |
 | Trainz Plus DLC: Pro Train DB Class 52 | 254070 | [254070-trainz-plus-dlc-pro-train-db-class-52.json](./254070-trainz-plus-dlc-pro-train-db-class-52.json) |
+| Trainz Plus Pro Train - NS Heritage Loco Bundle 2 | 331623 | [331623-trainz-plus-pro-train-ns-heritage-loco-bundle-2.json](./331623-trainz-plus-pro-train-ns-heritage-loco-bundle-2.json) |
 | Trainz Plus: Amtrak F40PH 2 pack | 205558 | [205558-trainz-plus-amtrak-f40ph-2-pack.json](./205558-trainz-plus-amtrak-f40ph-2-pack.json) |
 | Trainz Plus: Amtrak P42DC - Phase III | 205543 | [205543-trainz-plus-amtrak-p42dc-phase-iii.json](./205543-trainz-plus-amtrak-p42dc-phase-iii.json) |
 | Trainz Plus: Amtrak P42DC - Phase IV | 205493 | [205493-trainz-plus-amtrak-p42dc-phase-iv.json](./205493-trainz-plus-amtrak-p42dc-phase-iv.json) |
@@ -27851,6 +27854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Lone Pine Branch | 205565 | [205565-trainz-plus-lone-pine-branch.json](./205565-trainz-plus-lone-pine-branch.json) |
 | Trainz Plus: Milton Valley Railroad | 306107 | [306107-trainz-plus-milton-valley-railroad.json](./306107-trainz-plus-milton-valley-railroad.json) |
 | Trainz Plus: Mine & Field railway | 205559 | [205559-trainz-plus-mine-and-field-railway.json](./205559-trainz-plus-mine-and-field-railway.json) |
+| Trainz Plus: Model Trainz - Chicago | 331622 | [331622-trainz-plus-model-trainz-chicago.json](./331622-trainz-plus-model-trainz-chicago.json) |
 | Trainz Plus: Model Trainz - Freemont Mills | 306103 | [306103-trainz-plus-model-trainz-freemont-mills.json](./306103-trainz-plus-model-trainz-freemont-mills.json) |
 | Trainz Plus: Model Trainz - Geneva Sub Division | 205488 | [205488-trainz-plus-model-trainz-geneva-sub-division.json](./205488-trainz-plus-model-trainz-geneva-sub-division.json) |
 | Trainz Plus: Model Trainz - New South Wales Region | 205506 | [205506-trainz-plus-model-trainz-new-south-wales-region.json](./205506-trainz-plus-model-trainz-new-south-wales-region.json) |
@@ -28079,6 +28083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: Pro Train - DB BR Class 85 001 | 211918 | [211918-trainz-railroad-simulator-2019-pro-train-db-br-class-85-001.json](./211918-trainz-railroad-simulator-2019-pro-train-db-br-class-85-001.json) |
 | Trainz Railroad Simulator 2019: Pro Train - DB Class 44 | 227274 | [227274-trainz-railroad-simulator-2019-pro-train-db-class-44.json](./227274-trainz-railroad-simulator-2019-pro-train-db-class-44.json) |
 | Trainz Railroad Simulator 2019: Pro Train - Hamburg Flyer SVT 877 | 237250 | [237250-trainz-railroad-simulator-2019-pro-train-hamburg-flyer-svt-877.json](./237250-trainz-railroad-simulator-2019-pro-train-hamburg-flyer-svt-877.json) |
+| Trainz Railroad Simulator 2019: Pro Train - NS Heritage Loco Bundle 2 | 331625 | [331625-trainz-railroad-simulator-2019-pro-train-ns-heritage-loco-bundle-2.json](./331625-trainz-railroad-simulator-2019-pro-train-ns-heritage-loco-bundle-2.json) |
 | Trainz Railroad Simulator 2019: Pro Train - SD40-2 Loco Bundle 1 | 289475 | [289475-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-1.json](./289475-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-1.json) |
 | Trainz Railroad Simulator 2019: Pro Train - SD40-2 Loco Bundle 2 | 292666 | [292666-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-2.json](./292666-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-2.json) |
 | Trainz Railroad Simulator 2019: Pro Train - TGV Duplex | 212242 | [212242-trainz-railroad-simulator-2019-pro-train-tgv-duplex.json](./212242-trainz-railroad-simulator-2019-pro-train-tgv-duplex.json) |
@@ -28231,6 +28236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: Lone Pine Branch | 205347 | [205347-trainz-railroad-simulator-2022-lone-pine-branch.json](./205347-trainz-railroad-simulator-2022-lone-pine-branch.json) |
 | Trainz Railroad Simulator 2022: Midwestern Branch | 205344 | [205344-trainz-railroad-simulator-2022-midwestern-branch.json](./205344-trainz-railroad-simulator-2022-midwestern-branch.json) |
 | Trainz Railroad Simulator 2022: Midwestern Rails | 237220 | [237220-trainz-railroad-simulator-2022-midwestern-rails.json](./237220-trainz-railroad-simulator-2022-midwestern-rails.json) |
+| Trainz Railroad Simulator 2022: Model Trainz - Chicago | 331621 | [331621-trainz-railroad-simulator-2022-model-trainz-chicago.json](./331621-trainz-railroad-simulator-2022-model-trainz-chicago.json) |
 | Trainz Railroad Simulator 2022: Model Trainz - New South Wales Region | 205438 | [205438-trainz-railroad-simulator-2022-model-trainz-new-south-wales-region.json](./205438-trainz-railroad-simulator-2022-model-trainz-new-south-wales-region.json) |
 | Trainz Railroad Simulator 2022: Model Trainz - UZ-Gbox | 262335 | [262335-trainz-railroad-simulator-2022-model-trainz-uz-gbox.json](./262335-trainz-railroad-simulator-2022-model-trainz-uz-gbox.json) |
 | Trainz Railroad Simulator 2022: Mojave Sub Division | 205372 | [205372-trainz-railroad-simulator-2022-mojave-sub-division.json](./205372-trainz-railroad-simulator-2022-mojave-sub-division.json) |
@@ -28265,6 +28271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: Pro Train - Class 68 TPN TRS | 205410 | [205410-trainz-railroad-simulator-2022-pro-train-class-68-tpn-trs.json](./205410-trainz-railroad-simulator-2022-pro-train-class-68-tpn-trs.json) |
 | Trainz Railroad Simulator 2022: Pro Train - DB Class 44 | 227275 | [227275-trainz-railroad-simulator-2022-pro-train-db-class-44.json](./227275-trainz-railroad-simulator-2022-pro-train-db-class-44.json) |
 | Trainz Railroad Simulator 2022: Pro Train - Hamburg Flyer SVT 877 | 237265 | [237265-trainz-railroad-simulator-2022-pro-train-hamburg-flyer-svt-877.json](./237265-trainz-railroad-simulator-2022-pro-train-hamburg-flyer-svt-877.json) |
+| Trainz Railroad Simulator 2022: Pro Train - NS Heritage Loco Bundle 2 | 331624 | [331624-trainz-railroad-simulator-2022-pro-train-ns-heritage-loco-bundle-2.json](./331624-trainz-railroad-simulator-2022-pro-train-ns-heritage-loco-bundle-2.json) |
 | Trainz Railroad Simulator 2022: Pro Train - SD40-2 Loco Bundle 1 | 289476 | [289476-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-1.json](./289476-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-1.json) |
 | Trainz Railroad Simulator 2022: Pro Train - SD40-2 Loco Bundle 2 | 292667 | [292667-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-2.json](./292667-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-2.json) |
 | Trainz Railroad Simulator 2022: Pro Train - TGV Duplex | 212241 | [212241-trainz-railroad-simulator-2022-pro-train-tgv-duplex.json](./212241-trainz-railroad-simulator-2022-pro-train-tgv-duplex.json) |
