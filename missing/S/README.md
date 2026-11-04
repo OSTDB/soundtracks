@@ -9045,6 +9045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shortline Railroad | 223008 | [223008-shortline-railroad.json](./223008-shortline-railroad.json) |
 | ShortStacked | 183958 | [183958-shortstacked.json](./183958-shortstacked.json) |
 | Shortstop by the Sea | 411302 | [411302-shortstop-by-the-sea.json](./411302-shortstop-by-the-sea.json) |
+| Shoshin Test | 316866 | [316866-shoshin-test.json](./316866-shoshin-test.json) |
 | Shot & Dread Online | 293214 | [293214-shot-and-dread-online.json](./293214-shot-and-dread-online.json) |
 | Shot Block | 280056 | [280056-shot-block.json](./280056-shot-block.json) |
 | Shot Clock | 359303 | [359303-shot-clock.json](./359303-shot-clock.json) |
@@ -16204,6 +16205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solium Infernum: Belphegor, Paragon of Impiety | 298101 | [298101-solium-infernum-belphegor-paragon-of-impiety.json](./298101-solium-infernum-belphegor-paragon-of-impiety.json) |
 | Solivagant | 262840 | [262840-solivagant.json](./262840-solivagant.json) |
 | Sollarion | 238586 | [238586-sollarion.json](./238586-sollarion.json) |
+| Sollire | 316530 | [316530-sollire.json](./316530-sollire.json) |
 | Solm | 183079 | [183079-solm.json](./183079-solm.json) |
 | Solnest | 372591 | [372591-solnest.json](./372591-solnest.json) |
 | Solnox: Grimoire of Seasons | 302321 | [302321-solnox-grimoire-of-seasons.json](./302321-solnox-grimoire-of-seasons.json) |
@@ -20468,6 +20470,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedy Stacks | 232030 | [232030-speedy-stacks.json](./232030-speedy-stacks.json) |
 | Speedy the Rollerskater | 334732 | [334732-speedy-the-rollerskater.json](./334732-speedy-the-rollerskater.json) |
 | Speedy the Rollerskater 2 | 336016 | [336016-speedy-the-rollerskater-2.json](./336016-speedy-the-rollerskater-2.json) |
+| Speedy the Rollerskater: SMS Edition | 316535 | [316535-speedy-the-rollerskater-sms-edition.json](./316535-speedy-the-rollerskater-sms-edition.json) |
+| Speel | 316537 | [316537-speel.json](./316537-speel.json) |
 | Speer DX | 201699 | [201699-speer-dx.json](./201699-speer-dx.json) |
 | Speglar | 291534 | [291534-speglar.json](./291534-speglar.json) |
 | Spek | 123733 | [123733-spek.json](./123733-spek.json) |
@@ -21555,6 +21559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatoon Raiders | 348977 | [348977-splatoon-raiders.json](./348977-splatoon-raiders.json) |
 | Splatoon: Torrential Climb | 316713 | [316713-splatoon-torrential-climb.json](./316713-splatoon-torrential-climb.json) |
 | Splatoon: Version 2.0.0 | 230106 | [230106-splatoon-version-2-0-0.json](./230106-splatoon-version-2-0-0.json) |
+| SplatShop-2D Thunderstorm | 316559 | [316559-splatshop-2d-thunderstorm.json](./316559-splatshop-2d-thunderstorm.json) |
 | Splatt Curling | 261224 | [261224-splatt-curling.json](./261224-splatt-curling.json) |
 | Splatter | 173134 | [173134-splatter.json](./173134-splatter.json) |
 | Splatter | 195877 | [195877-splatter.json](./195877-splatter.json) |
@@ -24072,6 +24077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starborne: Sovereign Space | 75220 | [75220-starborne-sovereign-space.json](./75220-starborne-sovereign-space.json) |
 | Starbot | 133848 | [133848-starbot.json](./133848-starbot.json) |
 | Starbot 4Ever | 337001 | [337001-starbot-4ever.json](./337001-starbot-4ever.json) |
+| Starbot: Asvertichaos | 316539 | [316539-starbot-asvertichaos.json](./316539-starbot-asvertichaos.json) |
 | Starbound | 3019 | [3019-starbound.json](./3019-starbound.json) |
 | StarBoy | 153800 | [153800-starboy.json](./153800-starboy.json) |
 | Starboy Adventures | 153532 | [153532-starboy-adventures.json](./153532-starboy-adventures.json) |
@@ -24186,6 +24192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust Rain | 274965 | [274965-stardust-rain.json](./274965-stardust-rain.json) |
 | Stardust Sandbox | 393604 | [393604-stardust-sandbox.json](./393604-stardust-sandbox.json) |
 | Stardust Skate | 334846 | [334846-stardust-skate.json](./334846-stardust-skate.json) |
+| Stardust the Unicorn | 316540 | [316540-stardust-the-unicorn.json](./316540-stardust-the-unicorn.json) |
 | Stardust Valkyries | 215712 | [215712-stardust-valkyries.json](./215712-stardust-valkyries.json) |
 | Stardust VR | 109429 | [109429-stardust-vr.json](./109429-stardust-vr.json) |
 | StarDust: Endless | 105948 | [105948-stardust-endless.json](./105948-stardust-endless.json) |
@@ -25112,6 +25119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Runner | 392836 | [392836-stealth-runner.json](./392836-stealth-runner.json) |
 | Stealth Strike | 333577 | [333577-stealth-strike.json](./333577-stealth-strike.json) |
 | Stealth Syndicate | 320643 | [320643-stealth-syndicate.json](./320643-stealth-syndicate.json) |
+| Stealth The Hedgehog | 316532 | [316532-stealth-the-hedgehog.json](./316532-stealth-the-hedgehog.json) |
 | Stealthscape | 96732 | [96732-stealthscape.json](./96732-stealthscape.json) |
 | Stealthy Guy | 102573 | [102573-stealthy-guy.json](./102573-stealthy-guy.json) |
 | Stealthy Ninja | 149384 | [149384-stealthy-ninja.json](./149384-stealthy-ninja.json) |
@@ -28399,6 +28407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku | 264458 | [264458-sudoku.json](./264458-sudoku.json) |
 | Sudoku | 267544 | [267544-sudoku.json](./267544-sudoku.json) |
 | Sudoku | 268048 | [268048-sudoku.json](./268048-sudoku.json) |
+| Sudoku | 316552 | [316552-sudoku.json](./316552-sudoku.json) |
 | Sudoku | 326509 | [326509-sudoku.json](./326509-sudoku.json) |
 | Sudoku | 337482 | [337482-sudoku.json](./337482-sudoku.json) |
 | Sudoku | 386771 | [386771-sudoku.json](./386771-sudoku.json) |
@@ -29299,6 +29308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrise | 186088 | [186088-sunrise.json](./186088-sunrise.json) |
 | Sunrise 7 | 135159 | [135159-sunrise-7.json](./135159-sunrise-7.json) |
 | Sunrise Citadel | 268922 | [268922-sunrise-citadel.json](./268922-sunrise-citadel.json) |
+| Sunrise Doll | 316542 | [316542-sunrise-doll.json](./316542-sunrise-doll.json) |
 | Sunrise Down | 312730 | [312730-sunrise-down.json](./312730-sunrise-down.json) |
 | Sunrise GP | 245893 | [245893-sunrise-gp.json](./245893-sunrise-gp.json) |
 | Sunrise of the Time: End of Blue | 375944 | [375944-sunrise-of-the-time-end-of-blue.json](./375944-sunrise-of-the-time-end-of-blue.json) |
@@ -30075,7 +30085,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fox 2 | 146920 | [146920-super-fox-2.json](./146920-super-fox-2.json) |
 | Super Freaks 1 Remastered | 266873 | [266873-super-freaks-1-remastered.json](./266873-super-freaks-1-remastered.json) |
 | Super Freaks 1: Ultimate Edition | 268057 | [268057-super-freaks-1-ultimate-edition.json](./268057-super-freaks-1-ultimate-edition.json) |
+| Super Freaks 1: Ultimate Edition 3.0 | 316543 | [316543-super-freaks-1-ultimate-edition-3-0.json](./316543-super-freaks-1-ultimate-edition-3-0.json) |
+| Super Freaks Arcade | 316544 | [316544-super-freaks-arcade.json](./316544-super-freaks-arcade.json) |
 | Super Freaks Classic Pack | 266964 | [266964-super-freaks-classic-pack.json](./266964-super-freaks-classic-pack.json) |
+| Super Freaks Presents: Strato Freaks 2 | 316549 | [316549-super-freaks-presents-strato-freaks-2.json](./316549-super-freaks-presents-strato-freaks-2.json) |
+| Super Freaks Side Story: Scruffy Minus - The Rise of the Anti-Freaks | 316551 | [316551-super-freaks-side-story-scruffy-minus-the-rise-of-the-anti-freaks.json](./316551-super-freaks-side-story-scruffy-minus-the-rise-of-the-anti-freaks.json) |
 | Super Freaks: The Demo | 266957 | [266957-super-freaks-the-demo.json](./266957-super-freaks-the-demo.json) |
 | Super Friends Party | 117779 | [117779-super-friends-party.json](./117779-super-friends-party.json) |
 | Super Frog | 80840 | [80840-super-frog.json](./80840-super-frog.json) |
@@ -30251,6 +30265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Indie Square: Fight Against Time | 171350 | [171350-super-indie-square-fight-against-time.json](./171350-super-indie-square-fight-against-time.json) |
 | Super Indy Champ | 42358 | [42358-super-indy-champ.json](./42358-super-indy-champ.json) |
 | Super Inefficient Golf | 90074 | [90074-super-inefficient-golf.json](./90074-super-inefficient-golf.json) |
+| Super Infiniboss: The Gauntlet | 316553 | [316553-super-infiniboss-the-gauntlet.json](./316553-super-infiniboss-the-gauntlet.json) |
 | Super Intentional Bugs | 135476 | [135476-super-intentional-bugs.json](./135476-super-intentional-bugs.json) |
 | Super Intergalactic Gang | 33866 | [33866-super-intergalactic-gang.json](./33866-super-intergalactic-gang.json) |
 | Super Intern Story | 164212 | [164212-super-intern-story.json](./164212-super-intern-story.json) |
@@ -30679,6 +30694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario and the Monstrous Manor | 280824 | [280824-super-mario-and-the-monstrous-manor.json](./280824-super-mario-and-the-monstrous-manor.json) |
 | Super Mario and the Sacred Bells | 135131 | [135131-super-mario-and-the-sacred-bells.json](./135131-super-mario-and-the-sacred-bells.json) |
 | Super Mario and the Space Base | 356293 | [356293-super-mario-and-the-space-base.json](./356293-super-mario-and-the-space-base.json) |
+| Super Mario and the Treacherous Tower | 316880 | [316880-super-mario-and-the-treacherous-tower.json](./316880-super-mario-and-the-treacherous-tower.json) |
 | Super Mario Another Retro | 268359 | [268359-super-mario-another-retro.json](./268359-super-mario-another-retro.json) |
 | Super Mario Apocalypse | 210596 | [210596-super-mario-apocalypse.json](./210596-super-mario-apocalypse.json) |
 | Super Mario Apocalypse | 210597 | [210597-super-mario-apocalypse.json](./210597-super-mario-apocalypse.json) |
@@ -30780,6 +30796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. R | 268363 | [268363-super-mario-bros-r.json](./268363-super-mario-bros-r.json) |
 | Super Mario Bros. Remastered | 358244 | [358244-super-mario-bros-remastered.json](./358244-super-mario-bros-remastered.json) |
 | Super Mario Bros. Remastered | 378499 | [378499-super-mario-bros-remastered.json](./378499-super-mario-bros-remastered.json) |
+| Super Mario Bros. RMX | 316533 | [316533-super-mario-bros-rmx.json](./316533-super-mario-bros-rmx.json) |
 | Super Mario Bros. S | 313430 | [313430-super-mario-bros-s.json](./313430-super-mario-bros-s.json) |
 | Super Mario Bros. SNES | 377742 | [377742-super-mario-bros-snes.json](./377742-super-mario-bros-snes.json) |
 | Super Mario Bros. SNES Days | 321586 | [321586-super-mario-bros-snes-days.json](./321586-super-mario-bros-snes-days.json) |
@@ -31339,6 +31356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nodage World | 200916 | [200916-super-nodage-world.json](./200916-super-nodage-world.json) |
 | Super Nosebleed Land | 105075 | [105075-super-nosebleed-land.json](./105075-super-nosebleed-land.json) |
 | Super Nostalgia World | 267972 | [267972-super-nostalgia-world.json](./267972-super-nostalgia-world.json) |
+| Super Nova | 316558 | [316558-super-nova.json](./316558-super-nova.json) |
 | Super Nova | 414296 | [414296-super-nova.json](./414296-super-nova.json) |
 | Super Nova | 42446 | [42446-super-nova.json](./42446-super-nova.json) |
 | Super Nova Party | 219576 | [219576-super-nova-party.json](./219576-super-nova-party.json) |
@@ -33092,6 +33110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival RPG 4: Haunted Manor | 264332 | [264332-survival-rpg-4-haunted-manor.json](./264332-survival-rpg-4-haunted-manor.json) |
 | Survival RPG: The Lost Treasure | 167295 | [167295-survival-rpg-the-lost-treasure.json](./167295-survival-rpg-the-lost-treasure.json) |
 | Survival Run | 18773 | [18773-survival-run.json](./18773-survival-run.json) |
+| Survival Run with Bear Grylls | 316865 | [316865-survival-run-with-bear-grylls.json](./316865-survival-run-with-bear-grylls.json) |
 | Survival Shelter | 383686 | [383686-survival-shelter.json](./383686-survival-shelter.json) |
 | Survival Shooter | 246776 | [246776-survival-shooter.json](./246776-survival-shooter.json) |
 | Survival Shot | 237205 | [237205-survival-shot.json](./237205-survival-shot.json) |
