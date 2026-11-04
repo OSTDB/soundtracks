@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Foret De Pago 2: Souvenir de Glace | 163800 | [163800-la-foret-de-pago-2-souvenir-de-glace.json](./163800-la-foret-de-pago-2-souvenir-de-glace.json) |
 | La Forêt de Pago: La vengeance du Dragon | 120593 | [120593-la-foret-de-pago-la-vengeance-du-dragon.json](./120593-la-foret-de-pago-la-vengeance-du-dragon.json) |
 | La Fuga | 115603 | [115603-la-fuga.json](./115603-la-fuga.json) |
+| La Galerie des Toilettes | 347435 | [347435-la-galerie-des-toilettes.json](./347435-la-galerie-des-toilettes.json) |
 | La Giungla Tenebrosa | 145976 | [145976-la-giungla-tenebrosa.json](./145976-la-giungla-tenebrosa.json) |
 | La Grande Armee at Austerlitz | 61844 | [61844-la-grande-armee-at-austerlitz.json](./61844-la-grande-armee-at-austerlitz.json) |
 | La Guerra de las Vajillas | 85724 | [85724-la-guerra-de-las-vajillas.json](./85724-la-guerra-de-las-vajillas.json) |
@@ -8114,6 +8115,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lots of Bugs | 405064 | [405064-lots-of-bugs.json](./405064-lots-of-bugs.json) |
 | Lots of Cats in Every Moment | 310691 | [310691-lots-of-cats-in-every-moment.json](./310691-lots-of-cats-in-every-moment.json) |
 | Lots of Cats in Every Moment: The Whereabouts of the Photo | 310693 | [310693-lots-of-cats-in-every-moment-the-whereabouts-of-the-photo.json](./310693-lots-of-cats-in-every-moment-the-whereabouts-of-the-photo.json) |
+| Lots of Cats on an Adventure | 347450 | [347450-lots-of-cats-on-an-adventure.json](./347450-lots-of-cats-on-an-adventure.json) |
+| Lots of Cats on an Adventure: Alien Showdown | 347451 | [347451-lots-of-cats-on-an-adventure-alien-showdown.json](./347451-lots-of-cats-on-an-adventure-alien-showdown.json) |
 | Lots of Guns | 65466 | [65466-lots-of-guns.json](./65466-lots-of-guns.json) |
 | Lots of Slots | 147892 | [147892-lots-of-slots.json](./147892-lots-of-slots.json) |
 | Lots of Swords | 184214 | [184214-lots-of-swords.json](./184214-lots-of-swords.json) |
