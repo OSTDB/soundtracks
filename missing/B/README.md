@@ -14610,6 +14610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break In | 70097 | [70097-break-in.json](./70097-break-in.json) |
 | Break Into Zatwor | 27775 | [27775-break-into-zatwor.json](./27775-break-into-zatwor.json) |
 | Break It | 199730 | [199730-break-it.json](./199730-break-it.json) |
+| Break It | 304766 | [304766-break-it.json](./304766-break-it.json) |
 | Break it 1 | 78432 | [78432-break-it-1.json](./78432-break-it-1.json) |
 | Break It 3 | 78433 | [78433-break-it-3.json](./78433-break-it-3.json) |
 | Break It Down | 149912 | [149912-break-it-down.json](./149912-break-it-down.json) |
