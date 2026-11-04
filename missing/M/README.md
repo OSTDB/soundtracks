@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MA 2: President Simulator | 345231 | [345231-ma-2-president-simulator.json](./345231-ma-2-president-simulator.json) |
 | Ma Cheon Ru | 269161 | [269161-ma-cheon-ru.json](./269161-ma-cheon-ru.json) |
 | Ma Pension d'Animaux: Bébés Câlins | 144681 | [144681-ma-pension-danimaux-bebes-calins.json](./144681-ma-pension-danimaux-bebes-calins.json) |
+| Ma Petite Ferme | 341253 | [341253-ma-petite-ferme.json](./341253-ma-petite-ferme.json) |
 | Ma première visite à la tour du sens | 345578 | [345578-ma-premiere-visite-a-la-tour-du-sens.json](./345578-ma-premiere-visite-a-la-tour-du-sens.json) |
 | Ma Puzzle | 181209 | [181209-ma-puzzle.json](./181209-ma-puzzle.json) |
 | Ma vie en rogue | 328978 | [328978-ma-vie-en-rogue.json](./328978-ma-vie-en-rogue.json) |
@@ -2384,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makai Toushi SaGa | 84142 | [84142-makai-toushi-saga.json](./84142-makai-toushi-saga.json) |
 | Makai Wars | 51444 | [51444-makai-wars.json](./51444-makai-wars.json) |
 | Makai-Mura Gaiden: The Demon Darkness | 49066 | [49066-makai-mura-gaiden-the-demon-darkness.json](./49066-makai-mura-gaiden-the-demon-darkness.json) |
+| Makaimura | 341274 | [341274-makaimura.json](./341274-makaimura.json) |
 | Makaimura | 385551 | [385551-makaimura.json](./385551-makaimura.json) |
 | Makaimura | 393958 | [393958-makaimura.json](./393958-makaimura.json) |
 | Makaimura for WonderSwan | 37532 | [37532-makaimura-for-wonderswan.json](./37532-makaimura-for-wonderswan.json) |
@@ -5679,7 +5681,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6094,6 +6095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazovian Adventure | 128961 | [128961-mazovian-adventure.json](./128961-mazovian-adventure.json) |
 | Mazy | 385576 | [385576-mazy.json](./385576-mazy.json) |
 | Mazy Match | 282743 | [282743-mazy-match.json](./282743-mazy-match.json) |
+| Mazy Mini | 341275 | [341275-mazy-mini.json](./341275-mazy-mini.json) |
 | MazyMazes | 250267 | [250267-mazymazes.json](./250267-mazymazes.json) |
 | Mazzembly 1997 | 78512 | [78512-mazzembly-1997.json](./78512-mazzembly-1997.json) |
 | Mazzle Christmas | 329040 | [329040-mazzle-christmas.json](./329040-mazzle-christmas.json) |
@@ -10158,6 +10160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Scooter Challenge | 209025 | [209025-micro-scooter-challenge.json](./209025-micro-scooter-challenge.json) |
 | Micro Slaughter Community Project | 221847 | [221847-micro-slaughter-community-project.json](./221847-micro-slaughter-community-project.json) |
 | Micro Smash | 220184 | [220184-micro-smash.json](./220184-micro-smash.json) |
+| Micro Star Command | 341231 | [341231-micro-star-command.json](./341231-micro-star-command.json) |
 | Micro Stream RPG | 291907 | [291907-micro-stream-rpg.json](./291907-micro-stream-rpg.json) |
 | Micro Stunt Machina | 195485 | [195485-micro-stunt-machina.json](./195485-micro-stunt-machina.json) |
 | Micro Tank | 228277 | [228277-micro-tank.json](./228277-micro-tank.json) |
@@ -11043,6 +11046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Tyranitar | 73139 | [73139-mighty-tyranitar.json](./73139-mighty-tyranitar.json) |
 | Mighty Warriors | 40388 | [40388-mighty-warriors.json](./40388-mighty-warriors.json) |
 | Mighty Warriors: Rise of the East | 58116 | [58116-mighty-warriors-rise-of-the-east.json](./58116-mighty-warriors-rise-of-the-east.json) |
+| Mighty Wars | 341232 | [341232-mighty-wars.json](./341232-mighty-wars.json) |
 | MightyBowOfGreenHills | 96761 | [96761-mightybowofgreenhills.json](./96761-mightybowofgreenhills.json) |
 | MightyIronBall | 81759 | [81759-mightyironball.json](./81759-mightyironball.json) |
 | Mightyy's FPS Aim Trainer | 163105 | [163105-mightyys-fps-aim-trainer.json](./163105-mightyys-fps-aim-trainer.json) |
@@ -11261,6 +11265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milkcraft | 142671 | [142671-milkcraft.json](./142671-milkcraft.json) |
 | Milker Clicker | 367062 | [367062-milker-clicker.json](./367062-milker-clicker.json) |
 | Milki Delivery | 385308 | [385308-milki-delivery.json](./385308-milki-delivery.json) |
+| Milking Mira! | 341233 | [341233-milking-mira.json](./341233-milking-mira.json) |
 | Milkman Karlson | 135213 | [135213-milkman-karlson.json](./135213-milkman-karlson.json) |
 | Milkraid | 382749 | [382749-milkraid.json](./382749-milkraid.json) |
 | Milkshake Shop | 104707 | [104707-milkshake-shop.json](./104707-milkshake-shop.json) |
@@ -11594,6 +11599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Walker | 26379 | [26379-mind-walker.json](./26379-mind-walker.json) |
 | Mind War | 267269 | [267269-mind-war.json](./267269-mind-war.json) |
 | Mind Warp | 67076 | [67076-mind-warp.json](./67076-mind-warp.json) |
+| Mind Weaver | 341234 | [341234-mind-weaver.json](./341234-mind-weaver.json) |
 | Mind Within | 344384 | [344384-mind-within.json](./344384-mind-within.json) |
 | Mind Your Language: Learn English | 47825 | [47825-mind-your-language-learn-english.json](./47825-mind-your-language-learn-english.json) |
 | Mind Your Manas | 118447 | [118447-mind-your-manas.json](./118447-mind-your-manas.json) |
@@ -12186,6 +12192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Dungeon | 326041 | [326041-mini-dungeon.json](./326041-mini-dungeon.json) |
 | Mini Dungeon | 357746 | [357746-mini-dungeon.json](./357746-mini-dungeon.json) |
 | Mini Dungeons | 346881 | [346881-mini-dungeons.json](./346881-mini-dungeons.json) |
+| Mini Estate | 341235 | [341235-mini-estate.json](./341235-mini-estate.json) |
 | Mini Eulerian Graph | 421449 | [421449-mini-eulerian-graph.json](./421449-mini-eulerian-graph.json) |
 | Mini Fazenda | 262215 | [262215-mini-fazenda.json](./262215-mini-fazenda.json) |
 | Mini Fighter | 359192 | [359192-mini-fighter.json](./359192-mini-fighter.json) |
@@ -12251,6 +12258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Hi-Fi City | 245209 | [245209-mini-hi-fi-city.json](./245209-mini-hi-fi-city.json) |
 | Mini Hockey Champ! | 74502 | [74502-mini-hockey-champ.json](./74502-mini-hockey-champ.json) |
 | Mini Hockey VR | 55478 | [55478-mini-hockey-vr.json](./55478-mini-hockey-vr.json) |
+| Mini Idle Dice Monster | 341237 | [341237-mini-idle-dice-monster.json](./341237-mini-idle-dice-monster.json) |
 | Mini Island | 126363 | [126363-mini-island.json](./126363-mini-island.json) |
 | Mini Island Challenge Bundle | 147426 | [147426-mini-island-challenge-bundle.json](./147426-mini-island-challenge-bundle.json) |
 | Mini Island: Aroma | 192371 | [192371-mini-island-aroma.json](./192371-mini-island-aroma.json) |
@@ -12270,6 +12278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Lunar Ball | 304236 | [304236-mini-lunar-ball.json](./304236-mini-lunar-ball.json) |
 | Mini Madness | 162733 | [162733-mini-madness.json](./162733-mini-madness.json) |
 | Mini Magic Match | 393810 | [393810-mini-magic-match.json](./393810-mini-magic-match.json) |
+| Mini Mania | 341238 | [341238-mini-mania.json](./341238-mini-mania.json) |
 | Mini Map | 178016 | [178016-mini-map.json](./178016-mini-map.json) |
 | Mini Mario & Friends: Amiibo Challenge | 18195 | [18195-mini-mario-and-friends-amiibo-challenge.json](./18195-mini-mario-and-friends-amiibo-challenge.json) |
 | Mini Market Design | 329426 | [329426-mini-market-design.json](./329426-mini-market-design.json) |
@@ -12288,6 +12297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Monster Challenge | 409114 | [409114-mini-monster-challenge.json](./409114-mini-monster-challenge.json) |
 | Mini Monster Challenge 2 | 409121 | [409121-mini-monster-challenge-2.json](./409121-mini-monster-challenge-2.json) |
 | Mini Monsters | 343907 | [343907-mini-monsters.json](./343907-mini-monsters.json) |
+| Mini Monsters: Gravitational Consensus | 341239 | [341239-mini-monsters-gravitational-consensus.json](./341239-mini-monsters-gravitational-consensus.json) |
 | Mini Motion: Sk8 HousE | 209208 | [209208-mini-motion-sk8-house.json](./209208-mini-motion-sk8-house.json) |
 | Mini Motor Racing | 89093 | [89093-mini-motor-racing.json](./89093-mini-motor-racing.json) |
 | Mini Motor Racing 2 | 188394 | [188394-mini-motor-racing-2.json](./188394-mini-motor-racing-2.json) |
@@ -12373,6 +12383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini War: Three Kingdoms | 171456 | [171456-mini-war-three-kingdoms.json](./171456-mini-war-three-kingdoms.json) |
 | Mini Warrior Defense | 404217 | [404217-mini-warrior-defense.json](./404217-mini-warrior-defense.json) |
 | Mini Warriors | 227457 | [227457-mini-warriors.json](./227457-mini-warriors.json) |
+| Mini Warriors: Brawler Army | 341241 | [341241-mini-warriors-brawler-army.json](./341241-mini-warriors-brawler-army.json) |
 | Mini Warriors: Three Kingdoms | 196305 | [196305-mini-warriors-three-kingdoms.json](./196305-mini-warriors-three-kingdoms.json) |
 | Mini Wars Blackout | 87133 | [87133-mini-wars-blackout.json](./87133-mini-wars-blackout.json) |
 | Mini Wheels | 83591 | [83591-mini-wheels.json](./83591-mini-wheels.json) |
@@ -12443,6 +12454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniDrift | 262857 | [262857-minidrift.json](./262857-minidrift.json) |
 | MiniDrivers | 34867 | [34867-minidrivers.json](./34867-minidrivers.json) |
 | MiniDrivers: The game of mini racing cars | 87118 | [87118-minidrivers-the-game-of-mini-racing-cars.json](./87118-minidrivers-the-game-of-mini-racing-cars.json) |
+| MiniFarm 2020 | 341236 | [341236-minifarm-2020.json](./341236-minifarm-2020.json) |
 | Minifeg: The Search | 170349 | [170349-minifeg-the-search.json](./170349-minifeg-the-search.json) |
 | Minifiend | 253034 | [253034-minifiend.json](./253034-minifiend.json) |
 | Minigame 3-hon Pack | 227750 | [227750-minigame-3-hon-pack.json](./227750-minigame-3-hon-pack.json) |
@@ -12526,6 +12538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimum Mage Effort | 401049 | [401049-minimum-mage-effort.json](./401049-minimum-mage-effort.json) |
 | Minimum Nanonic | 70401 | [70401-minimum-nanonic.json](./70401-minimum-nanonic.json) |
 | Minimum Wage: Influence the Election | 169580 | [169580-minimum-wage-influence-the-election.json](./169580-minimum-wage-influence-the-election.json) |
+| Mining | 341240 | [341240-mining.json](./341240-mining.json) |
 | Mining And Achievements | 370179 | [370179-mining-and-achievements.json](./370179-mining-and-achievements.json) |
 | Mining and Dwarves | 405321 | [405321-mining-and-dwarves.json](./405321-mining-and-dwarves.json) |
 | Mining Away! | 408242 | [408242-mining-away.json](./408242-mining-away.json) |
@@ -12841,6 +12854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage | 410391 | [410391-mirage.json](./410391-mirage.json) |
 | Mirage | 76903 | [76903-mirage.json](./76903-mirage.json) |
 | Mirage 7 | 316728 | [316728-mirage-7.json](./316728-mirage-7.json) |
+| Mirage Episode: 1 | 341242 | [341242-mirage-episode-1.json](./341242-mirage-episode-1.json) |
 | Mirage In Darkness | 211810 | [211810-mirage-in-darkness.json](./211810-mirage-in-darkness.json) |
 | Mirage Memorial | 188241 | [188241-mirage-memorial.json](./188241-mirage-memorial.json) |
 | Mirage Motel | 183061 | [183061-mirage-motel.json](./183061-mirage-motel.json) |
@@ -13718,6 +13732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMX Hill Dash 2 - Race Offroad | 97262 | [97262-mmx-hill-dash-2-race-offroad.json](./97262-mmx-hill-dash-2-race-offroad.json) |
 | MMX Racing | 224004 | [224004-mmx-racing.json](./224004-mmx-racing.json) |
 | MMX: Otherworld Mystery - Expanded Edition | 123854 | [123854-mmx-otherworld-mystery-expanded-edition.json](./123854-mmx-otherworld-mystery-expanded-edition.json) |
+| Mnamosyna | 341243 | [341243-mnamosyna.json](./341243-mnamosyna.json) |
 | Mnemocyne Complex | 365813 | [365813-mnemocyne-complex.json](./365813-mnemocyne-complex.json) |
 | Mnemonic | 336488 | [336488-mnemonic.json](./336488-mnemonic.json) |
 | Mnemonic | 60438 | [60438-mnemonic.json](./60438-mnemonic.json) |
@@ -13776,6 +13791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mob War | 90546 | [90546-mob-war.json](./90546-mob-war.json) |
 | Mob Wars | 79184 | [79184-mob-wars.json](./79184-mob-wars.json) |
 | Mob Wars: La Cosa Nostra | 125364 | [125364-mob-wars-la-cosa-nostra.json](./125364-mob-wars-la-cosa-nostra.json) |
+| MOBA Dodge Trainer | 341244 | [341244-moba-dodge-trainer.json](./341244-moba-dodge-trainer.json) |
 | MOBA GM | 99593 | [99593-moba-gm.json](./99593-moba-gm.json) |
 | Mobbers | 253891 | [253891-mobbers.json](./253891-mobbers.json) |
 | Mobenium 2D | 336040 | [336040-mobenium-2d.json](./336040-mobenium-2d.json) |
@@ -14115,6 +14131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Moe 2-ji Daisenryaku | 288207 | [288207-moe-moe-2-ji-daisenryaku.json](./288207-moe-moe-2-ji-daisenryaku.json) |
 | Moe Moe 2-Ji Daisenryaku 3 | 83310 | [83310-moe-moe-2-ji-daisenryaku-3.json](./83310-moe-moe-2-ji-daisenryaku-3.json) |
 | Moe Moe Daisensou * Gendaiban++ | 44579 | [44579-moe-moe-daisensou-gendaiban.json](./44579-moe-moe-daisensou-gendaiban.json) |
+| Moe Moe Daiundoukai | 341245 | [341245-moe-moe-daiundoukai.json](./341245-moe-moe-daiundoukai.json) |
 | Moe Moe World War II-3 | 120374 | [120374-moe-moe-world-war-ii-3.json](./120374-moe-moe-world-war-ii-3.json) |
 | Moe Moe World War II-3: Deluxe Edition | 128903 | [128903-moe-moe-world-war-ii-3-deluxe-edition.json](./128903-moe-moe-world-war-ii-3-deluxe-edition.json) |
 | Moe Moe: No Limit Off Beat Action Shooting | 343416 | [343416-moe-moe-no-limit-off-beat-action-shooting.json](./343416-moe-moe-no-limit-off-beat-action-shooting.json) |
@@ -14206,6 +14223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moji Puzzle Kotoda Maru | 222483 | [222483-moji-puzzle-kotoda-maru.json](./222483-moji-puzzle-kotoda-maru.json) |
 | Mojib-Ribbon | 25097 | [25097-mojib-ribbon.json](./25097-mojib-ribbon.json) |
 | Mojica | 155916 | [155916-mojica.json](./155916-mojica.json) |
+| MojiCraft | 341246 | [341246-mojicraft.json](./341246-mojicraft.json) |
 | Mójiè Qíbīng | 268440 | [268440-mojie-qibing.json](./268440-mojie-qibing.json) |
 | Mojika: Truth Rears Its Ugly Head | 314804 | [314804-mojika-truth-rears-its-ugly-head.json](./314804-mojika-truth-rears-its-ugly-head.json) |
 | Mojito the Cat | 197576 | [197576-mojito-the-cat.json](./197576-mojito-the-cat.json) |
@@ -14545,6 +14563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monet Heist | 184948 | [184948-monet-heist.json](./184948-monet-heist.json) |
 | Money and Lady | 309421 | [309421-money-and-lady.json](./309421-money-and-lady.json) |
 | Money Bags: Beat the Gnome of Zurich | 68886 | [68886-money-bags-beat-the-gnome-of-zurich.json](./68886-money-bags-beat-the-gnome-of-zurich.json) |
+| Money Block | 341248 | [341248-money-block.json](./341248-money-block.json) |
 | Money Burner | 420525 | [420525-money-burner.json](./420525-money-burner.json) |
 | Money Cascade Challenge | 411244 | [411244-money-cascade-challenge.json](./411244-money-cascade-challenge.json) |
 | Money Factory Tycoon | 407272 | [407272-money-factory-tycoon.json](./407272-money-factory-tycoon.json) |
@@ -14575,6 +14594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Run | 197138 | [197138-money-run.json](./197138-money-run.json) |
 | Money Simulator | 304431 | [304431-money-simulator.json](./304431-money-simulator.json) |
 | Money Simulator: Brokeville | 379601 | [379601-money-simulator-brokeville.json](./379601-money-simulator-brokeville.json) |
+| Money Theft | 341249 | [341249-money-theft.json](./341249-money-theft.json) |
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
 | Money Tree | 373237 | [373237-money-tree.json](./373237-money-tree.json) |
@@ -14709,6 +14729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Splash!! | 274466 | [274466-monkey-splash.json](./274466-monkey-splash.json) |
 | Monkey Split | 142450 | [142450-monkey-split.json](./142450-monkey-split.json) |
 | Monkey Swag | 96580 | [96580-monkey-swag.json](./96580-monkey-swag.json) |
+| Monkey Tag Arena | 341250 | [341250-monkey-tag-arena.json](./341250-monkey-tag-arena.json) |
 | Monkey Tales | 405324 | [405324-monkey-tales.json](./405324-monkey-tales.json) |
 | Monkey Tales: The Abbey of Aviath | 18459 | [18459-monkey-tales-the-abbey-of-aviath.json](./18459-monkey-tales-the-abbey-of-aviath.json) |
 | Monkey Tales: The Castle of Draconion | 18460 | [18460-monkey-tales-the-castle-of-draconion.json](./18460-monkey-tales-the-castle-of-draconion.json) |
@@ -14774,6 +14795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monochrome Mobius: Rights and Wrongs Forgotten - Deluxe Edition | 247196 | [247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json](./247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json) |
 | Monochrome Mobius: Rights and Wrongs Forgotten - Limited Edition | 201046 | [201046-monochrome-mobius-rights-and-wrongs-forgotten-limited-edition.json](./201046-monochrome-mobius-rights-and-wrongs-forgotten-limited-edition.json) |
 | Monochrome Order | 121902 | [121902-monochrome-order.json](./121902-monochrome-order.json) |
+| Monochrome Painter | 341251 | [341251-monochrome-painter.json](./341251-monochrome-painter.json) |
 | Monochrome Pixels | 310576 | [310576-monochrome-pixels.json](./310576-monochrome-pixels.json) |
 | Monochrome Racing | 52592 | [52592-monochrome-racing.json](./52592-monochrome-racing.json) |
 | Monochrome RPG | 140796 | [140796-monochrome-rpg.json](./140796-monochrome-rpg.json) |
@@ -15574,6 +15596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonsterCrafter | 89202 | [89202-monstercrafter.json](./89202-monstercrafter.json) |
 | MonsterEnd | 335053 | [335053-monsterend.json](./335053-monsterend.json) |
 | Monsterest | 334033 | [334033-monsterest.json](./334033-monsterest.json) |
+| Monsterfall | 341252 | [341252-monsterfall.json](./341252-monsterfall.json) |
 | MonsterGirl 3: Wukong | 372964 | [372964-monstergirl-3-wukong.json](./372964-monstergirl-3-wukong.json) |
 | Monstergirl Hunters | 389842 | [389842-monstergirl-hunters.json](./389842-monstergirl-hunters.json) |
 | Monsterhearts 2 | 138699 | [138699-monsterhearts-2.json](./138699-monsterhearts-2.json) |
