@@ -1784,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Dungeon | 260725 | [260725-random-dungeon.json](./260725-random-dungeon.json) |
 | Random Dungeon | 313944 | [313944-random-dungeon.json](./313944-random-dungeon.json) |
 | Random Dungeon Game | 333018 | [333018-random-dungeon-game.json](./333018-random-dungeon-game.json) |
+| Random Hero Defense | 304416 | [304416-random-hero-defense.json](./304416-random-hero-defense.json) |
 | Random Heroes | 59895 | [59895-random-heroes.json](./59895-random-heroes.json) |
 | Random Heroes 2 | 59892 | [59892-random-heroes-2.json](./59892-random-heroes-2.json) |
 | Random Heroes 3 | 59893 | [59893-random-heroes-3.json](./59893-random-heroes-3.json) |
@@ -3894,6 +3895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red points | 111735 | [111735-red-points.json](./111735-red-points.json) |
 | Red Protocol | 412491 | [412491-red-protocol.json](./412491-red-protocol.json) |
 | Red Rage | 166416 | [166416-red-rage.json](./166416-red-rage.json) |
+| Red Rampant | 304417 | [304417-red-rampant.json](./304417-red-rampant.json) |
 | Red Rebellion | 224554 | [224554-red-rebellion.json](./224554-red-rebellion.json) |
 | Red Remover Blast | 253266 | [253266-red-remover-blast.json](./253266-red-remover-blast.json) |
 | Red Riddles | 376135 | [376135-red-riddles.json](./376135-red-riddles.json) |
@@ -6804,6 +6806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RhythmSnake | 123497 | [123497-rhythmsnake.json](./123497-rhythmsnake.json) |
 | RhythmStar | 230522 | [230522-rhythmstar.json](./230522-rhythmstar.json) |
 | Rhythmy | 116315 | [116315-rhythmy.json](./116315-rhythmy.json) |
+| Rhythum | 304475 | [304475-rhythum.json](./304475-rhythum.json) |
 | RhyTime! | 421195 | [421195-rhytime.json](./421195-rhytime.json) |
 | Rhyup | 113899 | [113899-rhyup.json](./113899-rhyup.json) |
 | Ri Ri Ye Ye | 150515 | [150515-ri-ri-ye-ye.json](./150515-ri-ri-ye-ye.json) |
