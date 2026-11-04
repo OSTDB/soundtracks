@@ -5266,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales Vol. 3 | 300865 | [300865-hentai-tales-vol-3.json](./300865-hentai-tales-vol-3.json) |
 | Hentai Tales: Academy's Record | 371357 | [371357-hentai-tales-academys-record.json](./371357-hentai-tales-academys-record.json) |
 | Hentai Tales: Another Fairy Tales | 301670 | [301670-hentai-tales-another-fairy-tales.json](./301670-hentai-tales-another-fairy-tales.json) |
+| Hentai Tales: Backyard 33rd | 306298 | [306298-hentai-tales-backyard-33rd.json](./306298-hentai-tales-backyard-33rd.json) |
 | Hentai Tales: Breeding Order 2050 | 389605 | [389605-hentai-tales-breeding-order-2050.json](./389605-hentai-tales-breeding-order-2050.json) |
 | Hentai Tales: Bunny Hole | 340453 | [340453-hentai-tales-bunny-hole.json](./340453-hentai-tales-bunny-hole.json) |
 | Hentai Tales: Busty Miko’s Secret Bond | 385618 | [385618-hentai-tales-busty-miko-s-secret-bond.json](./385618-hentai-tales-busty-miko-s-secret-bond.json) |
