@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daibakushou: Jinsei Gekijoh - Zukkoke Salaryman-hen | 44416 | [44416-daibakushou-jinsei-gekijoh-zukkoke-salaryman-hen.json](./44416-daibakushou-jinsei-gekijoh-zukkoke-salaryman-hen.json) |
 | Daiblos Core | 413067 | [413067-daiblos-core.json](./413067-daiblos-core.json) |
 | Daibouken: Saint Elmos no Kiseki | 97337 | [97337-daibouken-saint-elmos-no-kiseki.json](./97337-daibouken-saint-elmos-no-kiseki.json) |
+| Daibouken: Yarinaosu | 320634 | [320634-daibouken-yarinaosu.json](./320634-daibouken-yarinaosu.json) |
 | Daibutsu Paradise | 151748 | [151748-daibutsu-paradise.json](./151748-daibutsu-paradise.json) |
 | Daice | 393945 | [393945-daice.json](./393945-daice.json) |
 | Daichikun Crisis: Do Natural | 42029 | [42029-daichikun-crisis-do-natural.json](./42029-daichikun-crisis-do-natural.json) |
@@ -1635,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Light | 126237 | [126237-dark-light.json](./126237-dark-light.json) |
 | Dark Light | 173435 | [173435-dark-light.json](./173435-dark-light.json) |
 | Dark Light | 318711 | [318711-dark-light.json](./318711-dark-light.json) |
+| Dark Light | 320639 | [320639-dark-light.json](./320639-dark-light.json) |
 | Dark Light Swap | 180639 | [180639-dark-light-swap.json](./180639-dark-light-swap.json) |
 | Dark Light: Survivor | 317334 | [317334-dark-light-survivor.json](./317334-dark-light-survivor.json) |
 | Dark Lord | 175733 | [175733-dark-lord.json](./175733-dark-lord.json) |
@@ -2820,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Dead: Solitaire Collection | 161362 | [161362-day-of-the-dead-solitaire-collection.json](./161362-day-of-the-dead-solitaire-collection.json) |
 | Day of the Dimetrodon | 168382 | [168382-day-of-the-dimetrodon.json](./168382-day-of-the-dimetrodon.json) |
 | Day of the Dino Survival | 211558 | [211558-day-of-the-dino-survival.json](./211558-day-of-the-dino-survival.json) |
+| Day of the Fish | 320628 | [320628-day-of-the-fish.json](./320628-day-of-the-fish.json) |
 | Day of the Hamster | 304068 | [304068-day-of-the-hamster.json](./304068-day-of-the-hamster.json) |
 | Day of the Infected | 112510 | [112510-day-of-the-infected.json](./112510-day-of-the-infected.json) |
 | Day of the Lords | 271056 | [271056-day-of-the-lords.json](./271056-day-of-the-lords.json) |
@@ -3246,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Apples Dare | 385522 | [385522-dead-apples-dare.json](./385522-dead-apples-dare.json) |
 | Dead Army - Radio Frequency | 32727 | [32727-dead-army-radio-frequency.json](./32727-dead-army-radio-frequency.json) |
 | Dead as Disco | 341592 | [341592-dead-as-disco.json](./341592-dead-as-disco.json) |
+| Dead Ascend | 320638 | [320638-dead-ascend.json](./320638-dead-ascend.json) |
 | Dead Beacon | 213770 | [213770-dead-beacon.json](./213770-dead-beacon.json) |
 | Dead Beats Survivors | 333504 | [333504-dead-beats-survivors.json](./333504-dead-beats-survivors.json) |
 | Dead Before Work: The Commute | 399087 | [399087-dead-before-work-the-commute.json](./399087-dead-before-work-the-commute.json) |
@@ -3669,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead People Driving HD | 232344 | [232344-dead-people-driving-hd.json](./232344-dead-people-driving-hd.json) |
 | Dead Petals Bliss | 258547 | [258547-dead-petals-bliss.json](./258547-dead-petals-bliss.json) |
 | Dead Phoenix | 67051 | [67051-dead-phoenix.json](./67051-dead-phoenix.json) |
+| Dead Pixels | 320652 | [320652-dead-pixels.json](./320652-dead-pixels.json) |
 | Dead Pixels | 346658 | [346658-dead-pixels.json](./346658-dead-pixels.json) |
 | Dead Pixels | 5448 | [5448-dead-pixels.json](./5448-dead-pixels.json) |
 | Dead Pixels II: Straight to Video | 18362 | [18362-dead-pixels-ii-straight-to-video.json](./18362-dead-pixels-ii-straight-to-video.json) |
