@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 March Cats: Extra Content | 289333 | [289333-100-march-cats-extra-content.json](./289333-100-march-cats-extra-content.json) |
 | 100 Marshmallow Cats | 393730 | [393730-100-marshmallow-cats.json](./393730-100-marshmallow-cats.json) |
 | 100 Men vs 1 Gorilla | 349879 | [349879-100-men-vs-1-gorilla.json](./349879-100-men-vs-1-gorilla.json) |
+| 100 Men Vs Gorilla | 344649 | [344649-100-men-vs-gorilla.json](./344649-100-men-vs-gorilla.json) |
 | 100 Meter | 247051 | [247051-100-meter.json](./247051-100-meter.json) |
 | 100 Miami Cats | 334126 | [334126-100-miami-cats.json](./334126-100-miami-cats.json) |
 | 100 Mind Game | 104235 | [104235-100-mind-game.json](./104235-100-mind-game.json) |
@@ -3424,6 +3425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ødeborg | 356297 | [356297-deborg.json](./356297-deborg.json) |
 | Ōkamiden | 16618 | [16618-okamiden.json](./16618-okamiden.json) |
 | Ôpe | 130531 | [130531-ope.json](./130531-ope.json) |
+| Örnöga: Idle | 344651 | [344651-ornoga-idle.json](./344651-ornoga-idle.json) |
 | ​Our Life: Beginnings & Always - Cove Wedding Story | 187442 | [187442-our-life-beginnings-and-always-cove-wedding-story.json](./187442-our-life-beginnings-and-always-cove-wedding-story.json) |
 | ​Our Life: Beginnings & Always - Step 1 Expansion | 164528 | [164528-our-life-beginnings-and-always-step-1-expansion.json](./164528-our-life-beginnings-and-always-step-1-expansion.json) |
 | ​Our Life: Beginnings & Always - Step 2 Expansion | 164529 | [164529-our-life-beginnings-and-always-step-2-expansion.json](./164529-our-life-beginnings-and-always-step-2-expansion.json) |
