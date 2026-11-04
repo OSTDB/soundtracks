@@ -6929,6 +6929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alkemstone | 24788 | [24788-alkemstone.json](./24788-alkemstone.json) |
 | Alkey the Brave | 226214 | [226214-alkey-the-brave.json](./226214-alkey-the-brave.json) |
 | Alkimya: House of Wisdom | 415155 | [415155-alkimya-house-of-wisdom.json](./415155-alkimya-house-of-wisdom.json) |
+| Alkirian: The Nine Pages | 315155 | [315155-alkirian-the-nine-pages.json](./315155-alkirian-the-nine-pages.json) |
 | Alkurai | 223323 | [223323-alkurai.json](./223323-alkurai.json) |
 | All @ Once | 201651 | [201651-all-once.json](./201651-all-once.json) |
 | All 9 Lives | 408271 | [408271-all-9-lives.json](./408271-all-9-lives.json) |
@@ -14534,6 +14535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashrun Survivors | 410416 | [410416-ashrun-survivors.json](./410416-ashrun-survivors.json) |
 | Ashton's Family Resort | 52420 | [52420-ashtons-family-resort.json](./52420-ashtons-family-resort.json) |
 | Ashton's Family Resort | 52604 | [52604-ashtons-family-resort.json](./52604-ashtons-family-resort.json) |
+| Ashunnor's Game | 314760 | [314760-ashunnors-game.json](./314760-ashunnors-game.json) |
 | Ashura Blaster | 38516 | [38516-ashura-blaster.json](./38516-ashura-blaster.json) |
 | Ashura The Glitch | 316301 | [316301-ashura-the-glitch.json](./316301-ashura-the-glitch.json) |
 | Ashura: Dark Reign | 326818 | [326818-ashura-dark-reign.json](./326818-ashura-dark-reign.json) |
