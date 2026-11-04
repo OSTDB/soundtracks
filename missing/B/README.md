@@ -9387,6 +9387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Brigade vs. the Evil Legion of Dr. Cread | 146722 | [146722-blast-brigade-vs-the-evil-legion-of-dr-cread.json](./146722-blast-brigade-vs-the-evil-legion-of-dr-cread.json) |
 | Blast Chamber | 47014 | [47014-blast-chamber.json](./47014-blast-chamber.json) |
 | Blast Corps | 3424 | [3424-blast-corps.json](./3424-blast-corps.json) |
+| Blast Damage Days | 330416 | [330416-blast-damage-days.json](./330416-blast-damage-days.json) |
 | Blast Dash | 411571 | [411571-blast-dash.json](./411571-blast-dash.json) |
 | Blast Doors | 65401 | [65401-blast-doors.json](./65401-blast-doors.json) |
 | Blast Droids | 172025 | [172025-blast-droids.json](./172025-blast-droids.json) |
@@ -16824,6 +16825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bundle of Joy | 317526 | [317526-bundle-of-joy.json](./317526-bundle-of-joy.json) |
 | Bundle with 19 Games | 390903 | [390903-bundle-with-19-games.json](./390903-bundle-with-19-games.json) |
 | Bundle: Journey of the Broken Circle + Cosmic Top Secret | 218468 | [218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json](./218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json) |
+| Bundle: Monster Dynamite + Ultimate Runner | 330432 | [330432-bundle-monster-dynamite-ultimate-runner.json](./330432-bundle-monster-dynamite-ultimate-runner.json) |
 | Bunflower | 205014 | [205014-bunflower.json](./205014-bunflower.json) |
 | Bung Ball | 252808 | [252808-bung-ball.json](./252808-bung-ball.json) |
 | Bungee Ferret Tossing | 334421 | [334421-bungee-ferret-tossing.json](./334421-bungee-ferret-tossing.json) |
