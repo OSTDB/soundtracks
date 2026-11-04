@@ -2554,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperium Romanum | 20776 | [20776-imperium-romanum.json](./20776-imperium-romanum.json) |
 | Imperium Romanum | 80770 | [80770-imperium-romanum.json](./80770-imperium-romanum.json) |
 | Imperium Romanum: Gold Edition | 27828 | [27828-imperium-romanum-gold-edition.json](./27828-imperium-romanum-gold-edition.json) |
+| Imperium Universalis | 298726 | [298726-imperium-universalis.json](./298726-imperium-universalis.json) |
 | Imperium: Galactic War | 120263 | [120263-imperium-galactic-war.json](./120263-imperium-galactic-war.json) |
 | Imperium: Galactic War Classic | 244922 | [244922-imperium-galactic-war-classic.json](./244922-imperium-galactic-war-classic.json) |
 | Imperiums: Greek Wars - Age of Alexander | 174162 | [174162-imperiums-greek-wars-age-of-alexander.json](./174162-imperiums-greek-wars-age-of-alexander.json) |
@@ -3733,7 +3734,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4836,6 +4836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Volleyball 2009 | 24758 | [24758-international-volleyball-2009.json](./24758-international-volleyball-2009.json) |
 | International Wrestling Simulator 2018 | 112188 | [112188-international-wrestling-simulator-2018.json](./112188-international-wrestling-simulator-2018.json) |
 | Internet Addicted Youth 2005 | 259080 | [259080-internet-addicted-youth-2005.json](./259080-internet-addicted-youth-2005.json) |
+| Internet Backgammon | 298735 | [298735-internet-backgammon.json](./298735-internet-backgammon.json) |
 | Internet Backgammon | 63073 | [63073-internet-backgammon.json](./63073-internet-backgammon.json) |
 | Internet Cafe & Supermarket Simulator 2024 | 297831 | [297831-internet-cafe-and-supermarket-simulator-2024.json](./297831-internet-cafe-and-supermarket-simulator-2024.json) |
 | Internet Cafe 98 | 412441 | [412441-internet-cafe-98.json](./412441-internet-cafe-98.json) |
@@ -4845,6 +4846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Cafe Mini Games 10 in 1 | 267852 | [267852-internet-cafe-mini-games-10-in-1.json](./267852-internet-cafe-mini-games-10-in-1.json) |
 | Internet Cafe Simulator 2025 | 324999 | [324999-internet-cafe-simulator-2025.json](./324999-internet-cafe-simulator-2025.json) |
 | Internet Cafe Tycoon | 410715 | [410715-internet-cafe-tycoon.json](./410715-internet-cafe-tycoon.json) |
+| Internet Checkers | 298734 | [298734-internet-checkers.json](./298734-internet-checkers.json) |
 | Internet Checkers | 63071 | [63071-internet-checkers.json](./63071-internet-checkers.json) |
 | Internet City | 231753 | [231753-internet-city.json](./231753-internet-city.json) |
 | Internet Club & Cafe Simulator | 342410 | [342410-internet-club-and-cafe-simulator.json](./342410-internet-club-and-cafe-simulator.json) |
@@ -4853,9 +4855,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Exploring | 404368 | [404368-internet-exploring.json](./404368-internet-exploring.json) |
 | Internet Fisherman | 367994 | [367994-internet-fisherman.json](./367994-internet-fisherman.json) |
 | Internet Generation | 157951 | [157951-internet-generation.json](./157951-internet-generation.json) |
+| Internet Hearts | 298731 | [298731-internet-hearts.json](./298731-internet-hearts.json) |
 | Internet Reversi | 230732 | [230732-internet-reversi.json](./230732-internet-reversi.json) |
 | Internet Scrabble Club | 157528 | [157528-internet-scrabble-club.json](./157528-internet-scrabble-club.json) |
 | Internet Simulator | 98241 | [98241-internet-simulator.json](./98241-internet-simulator.json) |
+| Internet Spades | 298733 | [298733-internet-spades.json](./298733-internet-spades.json) |
 | Internet Spades | 63068 | [63068-internet-spades.json](./63068-internet-spades.json) |
 | Internet Survivor Survivors | 413626 | [413626-internet-survivor-survivors.json](./413626-internet-survivor-survivors.json) |
 | Internet Tycoon | 284246 | [284246-internet-tycoon.json](./284246-internet-tycoon.json) |
