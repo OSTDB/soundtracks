@@ -18982,6 +18982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -26253,6 +26254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Story RPG | 56485 | [56485-stone-story-rpg.json](./56485-stone-story-rpg.json) |
 | Stone Story: Ascension | 392328 | [392328-stone-story-ascension.json](./392328-stone-story-ascension.json) |
 | Stone Tales | 34386 | [34386-stone-tales.json](./34386-stone-tales.json) |
+| Stone Turmoil | 315403 | [315403-stone-turmoil.json](./315403-stone-turmoil.json) |
 | Stone Walkers | 54749 | [54749-stone-walkers.json](./54749-stone-walkers.json) |
 | Stone Wars | 91938 | [91938-stone-wars.json](./91938-stone-wars.json) |
 | Stone Wheel | 246426 | [246426-stone-wheel.json](./246426-stone-wheel.json) |
@@ -27210,6 +27212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: Capcom Pro Tour 2022 Premier Pass | 332661 | [332661-street-fighter-v-capcom-pro-tour-2022-premier-pass.json](./332661-street-fighter-v-capcom-pro-tour-2022-premier-pass.json) |
 | Street Fighter V: Capcom Pro Tour Premier Pass Complete Bundle | 332760 | [332760-street-fighter-v-capcom-pro-tour-premier-pass-complete-bundle.json](./332760-street-fighter-v-capcom-pro-tour-premier-pass-complete-bundle.json) |
 | Street Fighter V: Champion Edition - All Character Pack | 201034 | [201034-street-fighter-v-champion-edition-all-character-pack.json](./201034-street-fighter-v-champion-edition-all-character-pack.json) |
+| Street Fighter V: Champion Edition + Season 5 Premium Pass Bundle | 315398 | [315398-street-fighter-v-champion-edition-season-5-premium-pass-bundle.json](./315398-street-fighter-v-champion-edition-season-5-premium-pass-bundle.json) |
 | Street Fighter V: Cody Travers | 322209 | [322209-street-fighter-v-cody-travers.json](./322209-street-fighter-v-cody-travers.json) |
 | Street Fighter V: Collector's Edition | 128866 | [128866-street-fighter-v-collectors-edition.json](./128866-street-fighter-v-collectors-edition.json) |
 | Street Fighter V: Cyber Akuma Skin | 318196 | [318196-street-fighter-v-cyber-akuma-skin.json](./318196-street-fighter-v-cyber-akuma-skin.json) |
@@ -27233,6 +27236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: Season 3 Character Pass | 390438 | [390438-street-fighter-v-season-3-character-pass.json](./390438-street-fighter-v-season-3-character-pass.json) |
 | Street Fighter V: Season 4 Character Pass | 350071 | [350071-street-fighter-v-season-4-character-pass.json](./350071-street-fighter-v-season-4-character-pass.json) |
 | Street Fighter V: Season 5 Character Pass | 350070 | [350070-street-fighter-v-season-5-character-pass.json](./350070-street-fighter-v-season-5-character-pass.json) |
+| Street Fighter V: Season 5 Premium Pass | 315399 | [315399-street-fighter-v-season-5-premium-pass.json](./315399-street-fighter-v-season-5-premium-pass.json) |
 | Street Fighter V: SFL2020 NASR Costumes Bundle | 332657 | [332657-street-fighter-v-sfl2020-nasr-costumes-bundle.json](./332657-street-fighter-v-sfl2020-nasr-costumes-bundle.json) |
 | Street Fighter V: SFL2020 UYU Costumes Bundle | 332656 | [332656-street-fighter-v-sfl2020-uyu-costumes-bundle.json](./332656-street-fighter-v-sfl2020-uyu-costumes-bundle.json) |
 | Street Fighter V: Skies of Honor | 321652 | [321652-street-fighter-v-skies-of-honor.json](./321652-street-fighter-v-skies-of-honor.json) |
@@ -35046,6 +35050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Zero | 148896 | [148896-system-zero.json](./148896-system-zero.json) |
 | System_Reboot | 409207 | [409207-system-reboot.json](./409207-system-reboot.json) |
 | System32 | 167763 | [167763-system32.json](./167763-system32.json) |
+| Systematic Corruption | 315405 | [315405-systematic-corruption.json](./315405-systematic-corruption.json) |
 | Systematic Immunity | 34648 | [34648-systematic-immunity.json](./34648-systematic-immunity.json) |
 | Systematic Insanity | 126374 | [126374-systematic-insanity.json](./126374-systematic-insanity.json) |
 | SystemCrash92 | 249505 | [249505-systemcrash92.json](./249505-systemcrash92.json) |
