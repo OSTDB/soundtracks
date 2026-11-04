@@ -6109,6 +6109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig Out | 39378 | [39378-pig-out.json](./39378-pig-out.json) |
 | Pig Out: Dine Like A Swine | 66386 | [66386-pig-out-dine-like-a-swine.json](./66386-pig-out-dine-like-a-swine.json) |
 | Pig Pen | 59881 | [59881-pig-pen.json](./59881-pig-pen.json) |
+| Pig Pile | 317460 | [317460-pig-pile.json](./317460-pig-pile.json) |
 | Pig Rush | 311193 | [311193-pig-rush.json](./311193-pig-rush.json) |
 | Pig Rush | 88107 | [88107-pig-rush.json](./88107-pig-rush.json) |
 | Pig Skater Simulator | 164990 | [164990-pig-skater-simulator.json](./164990-pig-skater-simulator.json) |
@@ -13915,6 +13916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primus Chess | 87546 | [87546-primus-chess.json](./87546-primus-chess.json) |
 | Primus Numen | 381103 | [381103-primus-numen.json](./381103-primus-numen.json) |
 | Primus Vita: Artemis | 119973 | [119973-primus-vita-artemis.json](./119973-primus-vita-artemis.json) |
+| PRIN-C1 | 317155 | [317155-prin-c1.json](./317155-prin-c1.json) |
 | Prin-quest | 364489 | [364489-prin-quest.json](./364489-prin-quest.json) |
 | Prince & Excalibur | 174309 | [174309-prince-and-excalibur.json](./174309-prince-and-excalibur.json) |
 | Prince Adventures | 293855 | [293855-prince-adventures.json](./293855-prince-adventures.json) |
