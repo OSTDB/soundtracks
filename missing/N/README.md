@@ -4139,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Machine | 308033 | [308033-night-machine.json](./308033-night-machine.json) |
 | Night Magic | 109747 | [109747-night-magic.json](./109747-night-magic.json) |
 | Night Maniac: The Origin Of Steven | 416767 | [416767-night-maniac-the-origin-of-steven.json](./416767-night-maniac-the-origin-of-steven.json) |
+| Night Manor | 318305 | [318305-night-manor.json](./318305-night-manor.json) |
 | Night Mission Pinball | 25138 | [25138-night-mission-pinball.json](./25138-night-mission-pinball.json) |
 | Night Monsters | 157554 | [157554-night-monsters.json](./157554-night-monsters.json) |
 | Night Noodles | 408229 | [408229-night-noodles.json](./408229-night-noodles.json) |
@@ -4587,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightshift at the Beta Museum | 408141 | [408141-nightshift-at-the-beta-museum.json](./408141-nightshift-at-the-beta-museum.json) |
 | Nightshift Galaxy | 306761 | [306761-nightshift-galaxy.json](./306761-nightshift-galaxy.json) |
 | Nightshift Legacy: The Jaguar's Eye | 16077 | [16077-nightshift-legacy-the-jaguars-eye.json](./16077-nightshift-legacy-the-jaguars-eye.json) |
+| Nightshift Nightmares | 320060 | [320060-nightshift-nightmares.json](./320060-nightshift-nightmares.json) |
 | Nightshift Survival | 258314 | [258314-nightshift-survival.json](./258314-nightshift-survival.json) |
 | Nightside | 11586 | [11586-nightside.json](./11586-nightside.json) |
 | NightSky | 15128 | [15128-nightsky.json](./15128-nightsky.json) |
@@ -5502,6 +5504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Gods, Only Ducks | 415902 | [415902-no-gods-only-ducks.json](./415902-no-gods-only-ducks.json) |
 | No Gravity: The Plague Of Mind | 42846 | [42846-no-gravity-the-plague-of-mind.json](./42846-no-gravity-the-plague-of-mind.json) |
 | No Greater Glory: The American Civil War | 72017 | [72017-no-greater-glory-the-american-civil-war.json](./72017-no-greater-glory-the-american-civil-war.json) |
+| No Happy Days | 318355 | [318355-no-happy-days.json](./318355-no-happy-days.json) |
 | No Haste | 186510 | [186510-no-haste.json](./186510-no-haste.json) |
 | No Heroes | 62814 | [62814-no-heroes.json](./62814-no-heroes.json) |
 | No Heroes Allowed: No Puzzles Either! | 8663 | [8663-no-heroes-allowed-no-puzzles-either.json](./8663-no-heroes-allowed-no-puzzles-either.json) |
@@ -6461,6 +6464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noroi E: Nightmares | 363678 | [363678-noroi-e-nightmares.json](./363678-noroi-e-nightmares.json) |
 | Noroi E: The Origin of Nightmares | 240945 | [240945-noroi-e-the-origin-of-nightmares.json](./240945-noroi-e-the-origin-of-nightmares.json) |
 | Noroi Kago: The Grduged Domain - The Birth of Kitaro: The Mystery of GeGeGe Costume - Kitaro's father and Mizuki | 355202 | [355202-noroi-kago-the-grduged-domain-the-birth-of-kitaro-the-mystery-of-gegege-costume-kitaros-father-and-mizuki.json](./355202-noroi-kago-the-grduged-domain-the-birth-of-kitaro-the-mystery-of-gegege-costume-kitaros-father-and-mizuki.json) |
+| Noroi Kago: The Grudged Domain | 318304 | [318304-noroi-kago-the-grudged-domain.json](./318304-noroi-kago-the-grudged-domain.json) |
 | Noroi no Game: Chi | 373252 | [373252-noroi-no-game-chi.json](./373252-noroi-no-game-chi.json) |
 | Noroi no Game: Goku | 373253 | [373253-noroi-no-game-goku.json](./373253-noroi-no-game-goku.json) |
 | Noroi no Kegareuta: Narumi Tatsuya no Kaikiroku | 349464 | [349464-noroi-no-kegareuta-narumi-tatsuya-no-kaikiroku.json](./349464-noroi-no-kegareuta-narumi-tatsuya-no-kaikiroku.json) |
@@ -6854,6 +6858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Dash | 256530 | [256530-nova-dash.json](./256530-nova-dash.json) |
 | Nova Dawn: Overload | 347483 | [347483-nova-dawn-overload.json](./347483-nova-dawn-overload.json) |
 | Nova Empire | 98467 | [98467-nova-empire.json](./98467-nova-empire.json) |
+| Nova Era: Atom | 320080 | [320080-nova-era-atom.json](./320080-nova-era-atom.json) |
 | Nova Force | 60583 | [60583-nova-force.json](./60583-nova-force.json) |
 | Nova Genetics | 160073 | [160073-nova-genetics.json](./160073-nova-genetics.json) |
 | Nova Golf | 89242 | [89242-nova-golf.json](./89242-nova-golf.json) |
