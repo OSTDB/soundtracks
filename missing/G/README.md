@@ -4732,6 +4732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch | 186709 | [186709-glitch.json](./186709-glitch.json) |
 | Glitch | 232137 | [232137-glitch.json](./232137-glitch.json) |
 | Glitch | 327055 | [327055-glitch.json](./327055-glitch.json) |
+| Glitch | 339041 | [339041-glitch.json](./339041-glitch.json) |
 | Glitch | 365268 | [365268-glitch.json](./365268-glitch.json) |
 | Glitch | 373881 | [373881-glitch.json](./373881-glitch.json) |
 | Glitch | 92479 | [92479-glitch.json](./92479-glitch.json) |
@@ -8293,6 +8294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Still Sucks! | 251210 | [251210-gravity-still-sucks.json](./251210-gravity-still-sucks.json) |
 | Gravity Storm: First Mission | 329586 | [329586-gravity-storm-first-mission.json](./329586-gravity-storm-first-mission.json) |
 | Gravity Strike | 320699 | [320699-gravity-strike.json](./320699-gravity-strike.json) |
+| Gravity Strike | 339049 | [339049-gravity-strike.json](./339049-gravity-strike.json) |
 | Gravity Strikers | 388319 | [388319-gravity-strikers.json](./388319-gravity-strikers.json) |
 | Gravity Surge | 305646 | [305646-gravity-surge.json](./305646-gravity-surge.json) |
 | Gravity Swap 64 | 202107 | [202107-gravity-swap-64.json](./202107-gravity-swap-64.json) |
