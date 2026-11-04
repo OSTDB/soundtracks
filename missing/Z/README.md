@@ -1933,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Ate My Neighbors | 2162 | [2162-zombies-ate-my-neighbors.json](./2162-zombies-ate-my-neighbors.json) |
 | Zombies Ate My Neighbors and Ghoul Patrol | 147249 | [147249-zombies-ate-my-neighbors-and-ghoul-patrol.json](./147249-zombies-ate-my-neighbors-and-ghoul-patrol.json) |
 | Zombies Ate My Neighbors TC | 163104 | [163104-zombies-ate-my-neighbors-tc.json](./163104-zombies-ate-my-neighbors-tc.json) |
+| Zombies Ate My Neighbors: Out of This World Experience | 339022 | [339022-zombies-ate-my-neighbors-out-of-this-world-experience.json](./339022-zombies-ate-my-neighbors-out-of-this-world-experience.json) |
 | Zombies Ate My Neighbors: The Terrifying Time Trials of Dr. Tongue | 338847 | [338847-zombies-ate-my-neighbors-the-terrifying-time-trials-of-dr-tongue.json](./338847-zombies-ate-my-neighbors-the-terrifying-time-trials-of-dr-tongue.json) |
 | Zombies Ate My Pizza | 23612 | [23612-zombies-ate-my-pizza.json](./23612-zombies-ate-my-pizza.json) |
 | Zombies Attack | 207805 | [207805-zombies-attack.json](./207805-zombies-attack.json) |
