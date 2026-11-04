@@ -4847,6 +4847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckline | 342637 | [342637-deckline.json](./342637-deckline.json) |
 | Decklings | 350476 | [350476-decklings.json](./350476-decklings.json) |
 | DeckMake Fantasy | 208015 | [208015-deckmake-fantasy.json](./208015-deckmake-fantasy.json) |
+| Deckmancers | 348545 | [348545-deckmancers.json](./348545-deckmancers.json) |
 | Deckmate! | 249005 | [249005-deckmate.json](./249005-deckmate.json) |
 | Deckout | 373663 | [373663-deckout.json](./373663-deckout.json) |
 | Deckrypt | 416590 | [416590-deckrypt.json](./416590-deckrypt.json) |
@@ -6461,6 +6462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dennou Tenshi: Digital Ange | 258871 | [258871-dennou-tenshi-digital-ange.json](./258871-dennou-tenshi-digital-ange.json) |
 | Denny's Atari Remix | 305367 | [305367-dennys-atari-remix.json](./305367-dennys-atari-remix.json) |
 | Denos City | 385858 | [385858-denos-city.json](./385858-denos-city.json) |
+| Denovo | 348551 | [348551-denovo.json](./348551-denovo.json) |
 | Denpa Ningen no RPG | 85081 | [85081-denpa-ningen-no-rpg.json](./85081-denpa-ningen-no-rpg.json) |
 | Denpa Ningen no RPG 2 | 221987 | [221987-denpa-ningen-no-rpg-2.json](./221987-denpa-ningen-no-rpg-2.json) |
 | Denpa Ningen no RPG 3 | 221988 | [221988-denpa-ningen-no-rpg-3.json](./221988-denpa-ningen-no-rpg-3.json) |
@@ -8064,6 +8066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamon Jones: Amulet of the World | 59921 | [59921-diamon-jones-amulet-of-the-world.json](./59921-diamon-jones-amulet-of-the-world.json) |
 | Diamond | 247022 | [247022-diamond.json](./247022-diamond.json) |
 | Diamond | 314304 | [314304-diamond.json](./314304-diamond.json) |
+| Diamond | 348530 | [348530-diamond.json](./348530-diamond.json) |
 | Diamond | 35826 | [35826-diamond.json](./35826-diamond.json) |
 | Diamond Battle | 90385 | [90385-diamond-battle.json](./90385-diamond-battle.json) |
 | Diamond Caves | 111571 | [111571-diamond-caves.json](./111571-diamond-caves.json) |
@@ -12608,6 +12611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom3D | 196011 | [196011-doom3d.json](./196011-doom3d.json) |
 | DOOM4: Death Foretold | 139120 | [139120-doom4-death-foretold.json](./139120-doom4-death-foretold.json) |
 | DoomAI | 118017 | [118017-doomai.json](./118017-doomai.json) |
+| Doombase | 348528 | [348528-doombase.json](./348528-doombase.json) |
 | Doombox | 308476 | [308476-doombox.json](./308476-doombox.json) |
 | Doombox | 372826 | [372826-doombox.json](./372826-doombox.json) |
 | DoomBreaker | 149474 | [149474-doombreaker.json](./149474-doombreaker.json) |
@@ -13199,6 +13203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Hooked | 317431 | [317431-double-hooked.json](./317431-double-hooked.json) |
 | Double Impact | 135886 | [135886-double-impact.json](./135886-double-impact.json) |
 | Double Invasion!! | 123811 | [123811-double-invasion.json](./123811-double-invasion.json) |
+| Double It | 348553 | [348553-double-it.json](./348553-double-it.json) |
 | Double Jump | 160115 | [160115-double-jump.json](./160115-double-jump.json) |
 | Double Jump 2 | 151714 | [151714-double-jump-2.json](./151714-double-jump-2.json) |
 | Double Jump NFT | 200450 | [200450-double-jump-nft.json](./200450-double-jump-nft.json) |
