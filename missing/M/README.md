@@ -3633,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros.-e | 170013 | [170013-mario-bros-e.json](./170013-mario-bros-e.json) |
 | Mario Bros.: Lost World | 281010 | [281010-mario-bros-lost-world.json](./281010-mario-bros-lost-world.json) |
 | Mario Builder | 323745 | [323745-mario-builder.json](./323745-mario-builder.json) |
+| Mario Builder 64 | 301466 | [301466-mario-builder-64.json](./301466-mario-builder-64.json) |
 | Mario Can't Remember | 350957 | [350957-mario-cant-remember.json](./350957-mario-cant-remember.json) |
 | Mario Cars 2: 64 | 202150 | [202150-mario-cars-2-64.json](./202150-mario-cars-2-64.json) |
 | Mario Cave Escape | 381766 | [381766-mario-cave-escape.json](./381766-mario-cave-escape.json) |
@@ -21132,6 +21133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of the Opera | 94792 | [94792-mystery-of-the-opera.json](./94792-mystery-of-the-opera.json) |
 | Mystery of the Opera: The Phantom's Secret | 181525 | [181525-mystery-of-the-opera-the-phantoms-secret.json](./181525-mystery-of-the-opera-the-phantoms-secret.json) |
 | Mystery of the Sky Temple | 360369 | [360369-mystery-of-the-sky-temple.json](./360369-mystery-of-the-sky-temple.json) |
+| Mystery of the Sleeping Castle | 301467 | [301467-mystery-of-the-sleeping-castle.json](./301467-mystery-of-the-sleeping-castle.json) |
 | Mystery of Time and Space | 78675 | [78675-mystery-of-time-and-space.json](./78675-mystery-of-time-and-space.json) |
 | Mystery of Unicorn Castle: The Beastmaster | 33876 | [33876-mystery-of-unicorn-castle-the-beastmaster.json](./33876-mystery-of-unicorn-castle-the-beastmaster.json) |
 | Mystery P.I. - Lost in Los Angeles | 14816 | [14816-mystery-p-i-lost-in-los-angeles.json](./14816-mystery-p-i-lost-in-los-angeles.json) |
