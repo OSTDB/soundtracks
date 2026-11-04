@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenless Zone Zero: Update 1.1 - Undercover R&B | 316048 | [316048-zenless-zone-zero-update-1-1-undercover-r-and-b.json](./316048-zenless-zone-zero-update-1-1-undercover-r-and-b.json) |
 | Zenless Zone Zero: Update 1.2 - Tour de Inferno | 320109 | [320109-zenless-zone-zero-update-1-2-tour-de-inferno.json](./320109-zenless-zone-zero-update-1-2-tour-de-inferno.json) |
 | Zenless Zone Zero: Update 1.3 - Virtual Revenge | 320860 | [320860-zenless-zone-zero-update-1-3-virtual-revenge.json](./320860-zenless-zone-zero-update-1-3-virtual-revenge.json) |
+| Zenless Zone Zero: Update 1.4 - A Storm of Falling Stars | 324650 | [324650-zenless-zone-zero-update-1-4-a-storm-of-falling-stars.json](./324650-zenless-zone-zero-update-1-4-a-storm-of-falling-stars.json) |
 | Zenless Zone Zero: Update 1.5 - Astra-nomical Moment | 327812 | [327812-zenless-zone-zero-update-1-5-astra-nomical-moment.json](./327812-zenless-zone-zero-update-1-5-astra-nomical-moment.json) |
 | Zenless Zone Zero: Update 1.6 - Among the Forgotten Ruins | 334411 | [334411-zenless-zone-zero-update-1-6-among-the-forgotten-ruins.json](./334411-zenless-zone-zero-update-1-6-among-the-forgotten-ruins.json) |
 | Zenless Zone Zero: Update 1.7 - Bury Your Tears With the Past | 339793 | [339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json](./339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json) |
