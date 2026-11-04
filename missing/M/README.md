@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness in Square Garden | 214965 | [214965-madness-in-square-garden.json](./214965-madness-in-square-garden.json) |
 | Madness in the Banaverse | 327132 | [327132-madness-in-the-banaverse.json](./327132-madness-in-the-banaverse.json) |
 | Madness in the Dark | 251011 | [251011-madness-in-the-dark.json](./251011-madness-in-the-dark.json) |
+| Madness Inside | 312773 | [312773-madness-inside.json](./312773-madness-inside.json) |
 | Madness Interactive Reloaded | 331704 | [331704-madness-interactive-reloaded.json](./331704-madness-interactive-reloaded.json) |
 | Madness of the Architect | 83549 | [83549-madness-of-the-architect.json](./83549-madness-of-the-architect.json) |
 | Madness of the Architect | 83550 | [83550-madness-of-the-architect.json](./83550-madness-of-the-architect.json) |
@@ -5331,6 +5332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matergari: Below Valesia | 133087 | [133087-matergari-below-valesia.json](./133087-matergari-below-valesia.json) |
 | Material Brave | 180612 | [180612-material-brave.json](./180612-material-brave.json) |
 | Material Brave Ignition | 180630 | [180630-material-brave-ignition.json](./180630-material-brave-ignition.json) |
+| Material Evidence | 312798 | [312798-material-evidence.json](./312798-material-evidence.json) |
 | Materialization of Memories | 248019 | [248019-materialization-of-memories.json](./248019-materialization-of-memories.json) |
 | MaternalBound Redux | 219084 | [219084-maternalbound-redux.json](./219084-maternalbound-redux.json) |
 | MaternalBound: An EarthBound & Mother 2 Bond! | 313344 | [313344-maternalbound-an-earthbound-and-mother-2-bond.json](./313344-maternalbound-an-earthbound-and-mother-2-bond.json) |
@@ -18431,6 +18433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MultiEnding Heroes | 345558 | [345558-multiending-heroes.json](./345558-multiending-heroes.json) |
 | Multigravity | 188469 | [188469-multigravity.json](./188469-multigravity.json) |
 | Multigun | 345108 | [345108-multigun.json](./345108-multigun.json) |
+| MultiHero | 312813 | [312813-multihero.json](./312813-multihero.json) |
 | Multilateral Planet | 280120 | [280120-multilateral-planet.json](./280120-multilateral-planet.json) |
 | Multilytheus | 186271 | [186271-multilytheus.json](./186271-multilytheus.json) |
 | Multimaker | 109748 | [109748-multimaker.json](./109748-multimaker.json) |
