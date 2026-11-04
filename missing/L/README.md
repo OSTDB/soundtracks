@@ -5556,6 +5556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Amazon | 356196 | [356196-little-amazon.json](./356196-little-amazon.json) |
 | Little Anchor | 69082 | [69082-little-anchor.json](./69082-little-anchor.json) |
 | Little Animals: The Wild Race | 328505 | [328505-little-animals-the-wild-race.json](./328505-little-animals-the-wild-race.json) |
+| Little Ant Adventure | 338484 | [338484-little-ant-adventure.json](./338484-little-ant-adventure.json) |
 | Little Aquarium | 373863 | [373863-little-aquarium.json](./373863-little-aquarium.json) |
 | Little Army | 249045 | [249045-little-army.json](./249045-little-army.json) |
 | Little Artist - Drawing and Coloring Book | 104598 | [104598-little-artist-drawing-and-coloring-book.json](./104598-little-artist-drawing-and-coloring-book.json) |
@@ -7830,6 +7831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the City | 57962 | [57962-lost-in-the-city.json](./57962-lost-in-the-city.json) |
 | Lost in the City: Post Scriptum | 57963 | [57963-lost-in-the-city-post-scriptum.json](./57963-lost-in-the-city-post-scriptum.json) |
 | Lost in the Dance | 182155 | [182155-lost-in-the-dance.json](./182155-lost-in-the-dance.json) |
+| Lost in the Dark | 338464 | [338464-lost-in-the-dark.json](./338464-lost-in-the-dark.json) |
 | Lost in the Dark Woods | 313997 | [313997-lost-in-the-dark-woods.json](./313997-lost-in-the-dark-woods.json) |
 | Lost in the Dungeon | 77774 | [77774-lost-in-the-dungeon.json](./77774-lost-in-the-dungeon.json) |
 | Lost in the Fire | 383142 | [383142-lost-in-the-fire.json](./383142-lost-in-the-fire.json) |
