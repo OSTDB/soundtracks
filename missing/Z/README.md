@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zalaga | 123285 | [123285-zalaga.json](./123285-zalaga.json) |
 | Zalera Spark | 310935 | [310935-zalera-spark.json](./310935-zalera-spark.json) |
 | Zaleste | 329972 | [329972-zaleste.json](./329972-zaleste.json) |
+| Zalis | 343006 | [343006-zalis.json](./343006-zalis.json) |
 | Zalozhnik | 367007 | [367007-zalozhnik.json](./367007-zalozhnik.json) |
 | Zamakan | 253483 | [253483-zamakan.json](./253483-zamakan.json) |
 | Zamarian | 33860 | [33860-zamarian.json](./33860-zamarian.json) |
@@ -1967,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies vs Chucky | 105754 | [105754-zombies-vs-chucky.json](./105754-zombies-vs-chucky.json) |
 | Zombies vs. Farmer | 223881 | [223881-zombies-vs-farmer.json](./223881-zombies-vs-farmer.json) |
 | Zombies vs. Sheep | 67294 | [67294-zombies-vs-sheep.json](./67294-zombies-vs-sheep.json) |
+| Zombies vs. Werewolves | 342994 | [342994-zombies-vs-werewolves.json](./342994-zombies-vs-werewolves.json) |
 | Zombies vs. You | 289339 | [289339-zombies-vs-you.json](./289339-zombies-vs-you.json) |
 | Zombies War | 118341 | [118341-zombies-war.json](./118341-zombies-war.json) |
 | Zombies Wars | 270814 | [270814-zombies-wars.json](./270814-zombies-wars.json) |
