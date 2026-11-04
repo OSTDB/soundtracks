@@ -8664,6 +8664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Place for Hero | 153907 | [153907-place-for-hero.json](./153907-place-for-hero.json) |
 | Place Icebergs Apart | 318190 | [318190-place-icebergs-apart.json](./318190-place-icebergs-apart.json) |
 | Place Kick Master Football Championship | 247003 | [247003-place-kick-master-football-championship.json](./247003-place-kick-master-football-championship.json) |
+| Place of Decay | 318354 | [318354-place-of-decay.json](./318354-place-of-decay.json) |
 | Place Place | 185300 | [185300-place-place.json](./185300-place-place.json) |
 | Place: Weapon Workshop | 411079 | [411079-place-weapon-workshop.json](./411079-place-weapon-workshop.json) |
 | Placebo Effect | 95115 | [95115-placebo-effect.json](./95115-placebo-effect.json) |
@@ -15957,6 +15958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Propeller Arena: Aviation Battle Championship | 46555 | [46555-propeller-arena-aviation-battle-championship.json](./46555-propeller-arena-aviation-battle-championship.json) |
 | Propeller King | 207674 | [207674-propeller-king.json](./207674-propeller-king.json) |
 | Propeller Pete | 334178 | [334178-propeller-pete.json](./334178-propeller-pete.json) |
+| Propeller Rat | 318333 | [318333-propeller-rat.json](./318333-propeller-rat.json) |
 | Proper Tosser | 413493 | [413493-proper-tosser.json](./413493-proper-tosser.json) |
 | Property | 83593 | [83593-property.json](./83593-property.json) |
 | Property Brothers Home Design | 187801 | [187801-property-brothers-home-design.json](./187801-property-brothers-home-design.json) |
