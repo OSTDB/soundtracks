@@ -3927,6 +3927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Levana Horror Tale | 316356 | [316356-levana-horror-tale.json](./316356-levana-horror-tale.json) |
 | Levania | 367018 | [367018-levania.json](./367018-levania.json) |
 | Levantar La Botella | 364512 | [364512-levantar-la-botella.json](./364512-levantar-la-botella.json) |
+| Levántate: All Stars | 332750 | [332750-levantate-all-stars.json](./332750-levantate-all-stars.json) |
 | Levantera: Tale of The Winds | 71598 | [71598-levantera-tale-of-the-winds.json](./71598-levantera-tale-of-the-winds.json) |
 | Levate | 399038 | [399038-levate.json](./399038-levate.json) |
 | Levedad | 176244 | [176244-levedad.json](./176244-levedad.json) |
@@ -5121,6 +5122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Birds | 403227 | [403227-line-birds.json](./403227-line-birds.json) |
 | Line Bubble 2 | 247207 | [247207-line-bubble-2.json](./247207-line-bubble-2.json) |
 | Line Chef | 309215 | [309215-line-chef.json](./309215-line-chef.json) |
+| Line Clipper: Tennis Tactics | 332897 | [332897-line-clipper-tennis-tactics.json](./332897-line-clipper-tennis-tactics.json) |
 | Line Color World | 287168 | [287168-line-color-world.json](./287168-line-color-world.json) |
 | Line Crossing | 128580 | [128580-line-crossing.json](./128580-line-crossing.json) |
 | Line Crossing | 181386 | [181386-line-crossing.json](./181386-line-crossing.json) |
