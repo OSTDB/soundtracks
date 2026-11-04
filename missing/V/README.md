@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vari Dungeon | 220869 | [220869-vari-dungeon.json](./220869-vari-dungeon.json) |
 | Varia Metal | 40518 | [40518-varia-metal.json](./40518-varia-metal.json) |
 | Variable Barricade | 69345 | [69345-variable-barricade.json](./69345-variable-barricade.json) |
+| Variable Chaser Valchase | 298751 | [298751-variable-chaser-valchase.json](./298751-variable-chaser-valchase.json) |
 | Variable Geo vs. Asuka 120% | 316595 | [316595-variable-geo-vs-asuka-120.json](./316595-variable-geo-vs-asuka-120.json) |
 | Variable Pictogram Jump | 190867 | [190867-variable-pictogram-jump.json](./190867-variable-pictogram-jump.json) |
 | Variable Puzzle | 330657 | [330657-variable-puzzle.json](./330657-variable-puzzle.json) |
