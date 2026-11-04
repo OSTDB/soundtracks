@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rance: Hikari wo Motomete | 72298 | [72298-rance-hikari-wo-motomete.json](./72298-rance-hikari-wo-motomete.json) |
 | Ranch Battle | 283053 | [283053-ranch-battle.json](./283053-ranch-battle.json) |
 | Ranch Escape | 233190 | [233190-ranch-escape.json](./233190-ranch-escape.json) |
+| Ranch Farm and Store Simulator | 347572 | [347572-ranch-farm-and-store-simulator.json](./347572-ranch-farm-and-store-simulator.json) |
 | Ranch Mayhem | 298049 | [298049-ranch-mayhem.json](./298049-ranch-mayhem.json) |
 | Ranch Planet | 104270 | [104270-ranch-planet.json](./104270-ranch-planet.json) |
 | Ranch Rush | 93936 | [93936-ranch-rush.json](./93936-ranch-rush.json) |
@@ -1953,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raptor: Call of the Shadows - 2010 Edition | 51880 | [51880-raptor-call-of-the-shadows-2010-edition.json](./51880-raptor-call-of-the-shadows-2010-edition.json) |
 | Raptor: Call of the Shadows - 2015 Edition | 36115 | [36115-raptor-call-of-the-shadows-2015-edition.json](./36115-raptor-call-of-the-shadows-2015-edition.json) |
 | Raptor: Cretaceous Island | 111850 | [111850-raptor-cretaceous-island.json](./111850-raptor-cretaceous-island.json) |
+| Raptorfall: Survival | 347456 | [347456-raptorfall-survival.json](./347456-raptorfall-survival.json) |
 | Raptors of SouthEdge | 163786 | [163786-raptors-of-southedge.json](./163786-raptors-of-southedge.json) |
 | Raptors vs. Goblins | 346518 | [346518-raptors-vs-goblins.json](./346518-raptors-vs-goblins.json) |
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
@@ -3179,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reanimation Scheme | 158647 | [158647-reanimation-scheme.json](./158647-reanimation-scheme.json) |
 | Reap | 120644 | [120644-reap.json](./120644-reap.json) |
 | Reap | 182687 | [182687-reap.json](./182687-reap.json) |
+| Reap | 347426 | [347426-reap.json](./347426-reap.json) |
 | Reap & Repay | 382834 | [382834-reap-and-repay.json](./382834-reap-and-repay.json) |
 | Reap and Rush | 347971 | [347971-reap-and-rush.json](./347971-reap-and-rush.json) |
 | Reap and Sow | 202362 | [202362-reap-and-sow.json](./202362-reap-and-sow.json) |
@@ -6265,6 +6268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverie | 254161 | [254161-reverie.json](./254161-reverie.json) |
 | Reverie | 256825 | [256825-reverie.json](./256825-reverie.json) |
 | Reverie | 338839 | [338839-reverie.json](./338839-reverie.json) |
+| Reverie in the Moonlight | 347433 | [347433-reverie-in-the-moonlight.json](./347433-reverie-in-the-moonlight.json) |
 | Reverie Knights Tactics | 151555 | [151555-reverie-knights-tactics.json](./151555-reverie-knights-tactics.json) |
 | Reverie Knights Tactics: Prologue | 156214 | [156214-reverie-knights-tactics-prologue.json](./156214-reverie-knights-tactics-prologue.json) |
 | Reverie: A Heroes Tale | 89951 | [89951-reverie-a-heroes-tale.json](./89951-reverie-a-heroes-tale.json) |
@@ -7212,6 +7216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RiftGuard | 365368 | [365368-riftguard.json](./365368-riftguard.json) |
 | Riftnote | 158920 | [158920-riftnote.json](./158920-riftnote.json) |
 | Riftopia | 346234 | [346234-riftopia.json](./346234-riftopia.json) |
+| Riftseekers | 347431 | [347431-riftseekers.json](./347431-riftseekers.json) |
 | Riftshot | 417536 | [417536-riftshot.json](./417536-riftshot.json) |
 | Riftslayer | 410626 | [410626-riftslayer.json](./410626-riftslayer.json) |
 | RiftSpace | 15115 | [15115-riftspace.json](./15115-riftspace.json) |
