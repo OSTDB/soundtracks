@@ -7983,6 +7983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit Tennis 3 | 246268 | [246268-hit-tennis-3.json](./246268-hit-tennis-3.json) |
 | Hit The Beat | 305164 | [305164-hit-the-beat.json](./305164-hit-the-beat.json) |
 | Hit the Brakes | 178496 | [178496-hit-the-brakes.json](./178496-hit-the-brakes.json) |
+| Hit the Button | 316878 | [316878-hit-the-button.json](./316878-hit-the-button.json) |
 | Hit the Button RPG | 58876 | [58876-hit-the-button-rpg.json](./58876-hit-the-button-rpg.json) |
 | Hit The Clock | 377708 | [377708-hit-the-clock.json](./377708-hit-the-clock.json) |
 | Hit The Dot | 282728 | [282728-hit-the-dot.json](./282728-hit-the-dot.json) |
@@ -8642,6 +8643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holo Hidden: My Lovely Fans Can't Be This Hidden | 361081 | [361081-holo-hidden-my-lovely-fans-cant-be-this-hidden.json](./361081-holo-hidden-my-lovely-fans-cant-be-this-hidden.json) |
 | Holo Impact : Prologue | 30769 | [30769-holo-impact-prologue.json](./30769-holo-impact-prologue.json) |
 | Holo no Suika | 314982 | [314982-holo-no-suika.json](./314982-holo-no-suika.json) |
+| Holo Pop | 316870 | [316870-holo-pop.json](./316870-holo-pop.json) |
 | Holo vs. Robo | 386362 | [386362-holo-vs-robo.json](./386362-holo-vs-robo.json) |
 | Holo X Break | 292089 | [292089-holo-x-break.json](./292089-holo-x-break.json) |
 | Holo-Graham | 30189 | [30189-holo-graham.json](./30189-holo-graham.json) |
