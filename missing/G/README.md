@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G Sides | 324399 | [324399-g-sides.json](./324399-g-sides.json) |
 | G Squad | 408577 | [408577-g-squad.json](./408577-g-squad.json) |
 | G Warrior | 278666 | [278666-g-warrior.json](./278666-g-warrior.json) |
+| G-Astro | 346327 | [346327-g-astro.json](./346327-g-astro.json) |
 | G-Ball | 9238 | [9238-g-ball.json](./9238-g-ball.json) |
 | G-Darius | 39691 | [39691-g-darius.json](./39691-g-darius.json) |
 | G-Darius HD | 159018 | [159018-g-darius-hd.json](./159018-g-darius-hd.json) |
@@ -2680,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeneRacing | 169800 | [169800-generacing.json](./169800-generacing.json) |
 | General Chaos | 10149 | [10149-general-chaos.json](./10149-general-chaos.json) |
 | General Coco | 122392 | [122392-general-coco.json](./122392-general-coco.json) |
+| General Command | 346475 | [346475-general-command.json](./346475-general-command.json) |
 | General Conflict | 64463 | [64463-general-conflict.json](./64463-general-conflict.json) |
 | General Horse and the Package of Doom | 109430 | [109430-general-horse-and-the-package-of-doom.json](./109430-general-horse-and-the-package-of-doom.json) |
 | General Idler | 346553 | [346553-general-idler.json](./346553-general-idler.json) |
@@ -8304,6 +8306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravulse | 141882 | [141882-gravulse.json](./141882-gravulse.json) |
 | Gravv: Between Two Worlds | 195725 | [195725-gravv-between-two-worlds.json](./195725-gravv-between-two-worlds.json) |
 | GravytX The Gravytoid | 265734 | [265734-gravytx-the-gravytoid.json](./265734-gravytx-the-gravytoid.json) |
+| GraWe | 346343 | [346343-grawe.json](./346343-grawe.json) |
 | Gray | 284243 | [284243-gray.json](./284243-gray.json) |
 | Gray Dawn | 100367 | [100367-gray-dawn.json](./100367-gray-dawn.json) |
 | Gray Death | 151853 | [151853-gray-death.json](./151853-gray-death.json) |
@@ -10280,6 +10283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Brothers | 31674 | [31674-gun-brothers.json](./31674-gun-brothers.json) |
 | Gun Builder Elite HD | 351036 | [351036-gun-builder-elite-hd.json](./351036-gun-builder-elite-hd.json) |
 | Gun Building 3 | 351042 | [351042-gun-building-3.json](./351042-gun-building-3.json) |
+| Gun Center Simulator | 346356 | [346356-gun-center-simulator.json](./346356-gun-center-simulator.json) |
 | Gun Chain | 117135 | [117135-gun-chain.json](./117135-gun-chain.json) |
 | Gun Club VR: SWAT DLC | 155456 | [155456-gun-club-vr-swat-dlc.json](./155456-gun-club-vr-swat-dlc.json) |
 | Gun Commando | 52221 | [52221-gun-commando.json](./52221-gun-commando.json) |
