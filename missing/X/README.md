@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xīn Qīngguó zhī Nù | 165777 | [165777-xin-qingguo-zhi-nu.json](./165777-xin-qingguo-zhi-nu.json) |
 | Xīn Shéndiāo Xiálǚ zhī Wánjiépiān | 295240 | [295240-xin-shendiao-xialu-zhi-wanjiepian.json](./295240-xin-shendiao-xialu-zhi-wanjiepian.json) |
 | Xīn Suǒ Xiàngwǎng de Běijíxīng | 375426 | [375426-xin-suo-xiangwang-de-beijixing.json](./375426-xin-suo-xiangwang-de-beijixing.json) |
+| Xin Yi Tian Tu Long Ji | 314545 | [314545-xin-yi-tian-tu-long-ji.json](./314545-xin-yi-tian-tu-long-ji.json) |
 | Xin Yuejian Hen | 78919 | [78919-xin-yuejian-hen.json](./78919-xin-yuejian-hen.json) |
 | Xīn zhī Kǎn | 111379 | [111379-xin-zhi-kan.json](./111379-xin-zhi-kan.json) |
 | Xing Chess | 53100 | [53100-xing-chess.json](./53100-xing-chess.json) |
