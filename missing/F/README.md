@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Sweet Days | 379576 | [379576-fairy-sweet-days.json](./379576-fairy-sweet-days.json) |
 | Fairy Tag: A Game of Divinities | 219773 | [219773-fairy-tag-a-game-of-divinities.json](./219773-fairy-tag-a-game-of-divinities.json) |
 | Fairy Tail 2 | 306138 | [306138-fairy-tail-2.json](./306138-fairy-tail-2.json) |
+| Fairy Tail 2: Bonus Feature - Arena | 330446 | [330446-fairy-tail-2-bonus-feature-arena.json](./330446-fairy-tail-2-bonus-feature-arena.json) |
 | Fairy Tail 2: Digital Deluxe | 324470 | [324470-fairy-tail-2-digital-deluxe.json](./324470-fairy-tail-2-digital-deluxe.json) |
 | Fairy Tail 2: Lucy Outfit - "Miss Fairy Tail Contest" | 324462 | [324462-fairy-tail-2-lucy-outfit-miss-fairy-tail-contest.json](./324462-fairy-tail-2-lucy-outfit-miss-fairy-tail-contest.json) |
 | Fairy Tail 2: Outfit Set - Swimsuit | 332229 | [332229-fairy-tail-2-outfit-set-swimsuit.json](./332229-fairy-tail-2-outfit-set-swimsuit.json) |
@@ -1616,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Trainer: Fuuun! Takeshi-jou 2 | 64499 | [64499-family-trainer-fuuun-takeshi-jou-2.json](./64499-family-trainer-fuuun-takeshi-jou-2.json) |
 | Family Tree | 124625 | [124625-family-tree.json](./124625-family-tree.json) |
 | Family Tree! | 274744 | [274744-family-tree.json](./274744-family-tree.json) |
+| Family Vacation Bundle: 20 Games | 330436 | [330436-family-vacation-bundle-20-games.json](./330436-family-vacation-bundle-20-games.json) |
 | Family Zoo: The Story | 95329 | [95329-family-zoo-the-story.json](./95329-family-zoo-the-story.json) |
 | Family's Game Travel Pack | 104530 | [104530-familys-game-travel-pack.json](./104530-familys-game-travel-pack.json) |
 | Famine in Wonderland | 410272 | [410272-famine-in-wonderland.json](./410272-famine-in-wonderland.json) |
