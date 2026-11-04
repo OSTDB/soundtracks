@@ -7127,6 +7127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gossamer | 212184 | [212184-gossamer.json](./212184-gossamer.json) |
 | Gossamer | 387109 | [387109-gossamer.json](./387109-gossamer.json) |
 | Gossamer Matrix | 211722 | [211722-gossamer-matrix.json](./211722-gossamer-matrix.json) |
+| Gossip | 320635 | [320635-gossip.json](./320635-gossip.json) |
 | Gossip | 384758 | [384758-gossip.json](./384758-gossip.json) |
 | Gossip & Potions: Tales from the Witch Shop | 276669 | [276669-gossip-and-potions-tales-from-the-witch-shop.json](./276669-gossip-and-potions-tales-from-the-witch-shop.json) |
 | Gossip Girl: Party | 238903 | [238903-gossip-girl-party.json](./238903-gossip-girl-party.json) |
