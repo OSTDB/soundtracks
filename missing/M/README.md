@@ -2209,7 +2209,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainframe Escape | 417386 | [417386-mainframe-escape.json](./417386-mainframe-escape.json) |
 | Mainframe Mayhem | 271328 | [271328-mainframe-mayhem.json](./271328-mainframe-mayhem.json) |
 | Mainframe Men | 384147 | [384147-mainframe-men.json](./384147-mainframe-men.json) |
-| MainFrames | 313809 | [313809-mainframes.json](./313809-mainframes.json) |
 | MainGuns | 56478 | [56478-mainguns.json](./56478-mainguns.json) |
 | Mainichi | 144226 | [144226-mainichi.json](./144226-mainichi.json) |
 | Mainichi ga Ecchi | 356055 | [356055-mainichi-ga-ecchi.json](./356055-mainichi-ga-ecchi.json) |
@@ -8751,6 +8750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental Salvo | 311659 | [311659-mental-salvo.json](./311659-mental-salvo.json) |
 | Mental: The Dark Night | 236828 | [236828-mental-the-dark-night.json](./236828-mental-the-dark-night.json) |
 | Mentally, I am | 139273 | [139273-mentally-i-am.json](./139273-mentally-i-am.json) |
+| Menticide | 324629 | [324629-menticide.json](./324629-menticide.json) |
 | Menticide | 329201 | [329201-menticide.json](./329201-menticide.json) |
 | Mentis Cohorts | 41538 | [41538-mentis-cohorts.json](./41538-mentis-cohorts.json) |
 | Mentori Puzzle | 113471 | [113471-mentori-puzzle.json](./113471-mentori-puzzle.json) |
@@ -11988,6 +11988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: The Cake Is A Lie | 325863 | [325863-minecraft-the-cake-is-a-lie.json](./325863-minecraft-the-cake-is-a-lie.json) |
 | Minecraft: The Copper Age | 363001 | [363001-minecraft-the-copper-age.json](./363001-minecraft-the-copper-age.json) |
 | Minecraft: The Garden Awakens | 324509 | [324509-minecraft-the-garden-awakens.json](./324509-minecraft-the-garden-awakens.json) |
+| Minecraft: The Garden Awakens | 324644 | [324644-minecraft-the-garden-awakens.json](./324644-minecraft-the-garden-awakens.json) |
 | Minecraft: The Incredibles | 253711 | [253711-minecraft-the-incredibles.json](./253711-minecraft-the-incredibles.json) |
 | Minecraft: The Nightmare Before Christmas Mash-up | 235332 | [235332-minecraft-the-nightmare-before-christmas-mash-up.json](./235332-minecraft-the-nightmare-before-christmas-mash-up.json) |
 | Minecraft: The Theme Park | 316747 | [316747-minecraft-the-theme-park.json](./316747-minecraft-the-theme-park.json) |
@@ -21211,6 +21212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Herbalists | 380195 | [380195-mystical-herbalists.json](./380195-mystical-herbalists.json) |
 | Mystical Lights | 164176 | [164176-mystical-lights.json](./164176-mystical-lights.json) |
 | Mystical Map | 204939 | [204939-mystical-map.json](./204939-mystical-map.json) |
+| Mystical Maritime Adventure | 324616 | [324616-mystical-maritime-adventure.json](./324616-mystical-maritime-adventure.json) |
 | Mystical Mayhem | 156038 | [156038-mystical-mayhem.json](./156038-mystical-mayhem.json) |
 | Mystical Mixing | 224011 | [224011-mystical-mixing.json](./224011-mystical-mixing.json) |
 | Mystical Mixing: Arcane Edition | 254074 | [254074-mystical-mixing-arcane-edition.json](./254074-mystical-mixing-arcane-edition.json) |
