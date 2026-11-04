@@ -9469,6 +9469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopping Mappy | 40056 | [40056-hopping-mappy.json](./40056-hopping-mappy.json) |
 | Hopping Ninja-san | 389112 | [389112-hopping-ninja-san.json](./389112-hopping-ninja-san.json) |
 | Hopping Out | 387963 | [387963-hopping-out.json](./387963-hopping-out.json) |
+| Hopping Road | 339591 | [339591-hopping-road.json](./339591-hopping-road.json) |
 | Hopping Up for It | 32075 | [32075-hopping-up-for-it.json](./32075-hopping-up-for-it.json) |
 | Hoppup! | 141878 | [141878-hoppup.json](./141878-hoppup.json) |
 | Hoppy Bobby | 58494 | [58494-hoppy-bobby.json](./58494-hoppy-bobby.json) |
