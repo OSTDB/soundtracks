@@ -2695,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nestify | 403936 | [403936-nestify.json](./403936-nestify.json) |
 | Nestle Close | 97620 | [97620-nestle-close.json](./97620-nestle-close.json) |
 | Nestle Close 2 | 97618 | [97618-nestle-close-2.json](./97618-nestle-close-2.json) |
+| Nestlé: Mais Divertido | 341273 | [341273-nestle-mais-divertido.json](./341273-nestle-mais-divertido.json) |
 | Nestor the Nesting Bird | 259548 | [259548-nestor-the-nesting-bird.json](./259548-nestor-the-nesting-bird.json) |
 | Net 24h: Vietnamese Internet Cafe Simulator | 391652 | [391652-net-24h-vietnamese-internet-cafe-simulator.json](./391652-net-24h-vietnamese-internet-cafe-simulator.json) |
 | Net Catcher: Netch | 218065 | [218065-net-catcher-netch.json](./218065-net-catcher-netch.json) |
@@ -3188,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Pokémon Snap | 135142 | [135142-new-pokemon-snap.json](./135142-new-pokemon-snap.json) |
 | New Quest: Don't Get Bored! | 178943 | [178943-new-quest-dont-get-bored.json](./178943-new-quest-dont-get-bored.json) |
 | New Rally-X | 18621 | [18621-new-rally-x.json](./18621-new-rally-x.json) |
+| New Rally-X | 341272 | [341272-new-rally-x.json](./341272-new-rally-x.json) |
 | New Rally-X Arrangement | 178411 | [178411-new-rally-x-arrangement.json](./178411-new-rally-x-arrangement.json) |
 | New Retro Arcade: Neon | 22398 | [22398-new-retro-arcade-neon.json](./22398-new-retro-arcade-neon.json) |
 | New Revolution | 188398 | [188398-new-revolution.json](./188398-new-revolution.json) |
