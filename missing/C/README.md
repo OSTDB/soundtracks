@@ -2650,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CarLife Simulator | 254000 | [254000-carlife-simulator.json](./254000-carlife-simulator.json) |
 | Carlo Adventure Legend | 138618 | [138618-carlo-adventure-legend.json](./138618-carlo-adventure-legend.json) |
 | Carlos | 92798 | [92798-carlos.json](./92798-carlos.json) |
+| Carlos & Maria: Pearl Madness | 321102 | [321102-carlos-and-maria-pearl-madness.json](./321102-carlos-and-maria-pearl-madness.json) |
 | Carlos and the Dark Order Mystery | 310546 | [310546-carlos-and-the-dark-order-mystery.json](./310546-carlos-and-the-dark-order-mystery.json) |
 | Carlos and the Murder Farm | 310547 | [310547-carlos-and-the-murder-farm.json](./310547-carlos-and-the-murder-farm.json) |
 | Carlos Haunted House | 343835 | [343835-carlos-haunted-house.json](./343835-carlos-haunted-house.json) |
@@ -8615,6 +8616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus Maximus | 23760 | [23760-circus-maximus.json](./23760-circus-maximus.json) |
 | Circus Maximus: Chariot Wars | 5776 | [5776-circus-maximus-chariot-wars.json](./5776-circus-maximus-chariot-wars.json) |
 | Circus of Clowns | 342085 | [342085-circus-of-clowns.json](./342085-circus-of-clowns.json) |
+| Circus of Death | 321106 | [321106-circus-of-death.json](./321106-circus-of-death.json) |
 | Circus of Pain | 349055 | [349055-circus-of-pain.json](./349055-circus-of-pain.json) |
 | Circus of TimTim | 278013 | [278013-circus-of-timtim.json](./278013-circus-of-timtim.json) |
 | Circus World | 52507 | [52507-circus-world.json](./52507-circus-world.json) |
@@ -14205,6 +14207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporation Inc. | 377352 | [377352-corporation-inc.json](./377352-corporation-inc.json) |
 | Corporation Liberty | 379030 | [379030-corporation-liberty.json](./379030-corporation-liberty.json) |
 | Corporation Master | 55889 | [55889-corporation-master.json](./55889-corporation-master.json) |
+| Corporeal | 321258 | [321258-corporeal.json](./321258-corporeal.json) |
 | Corporeal | 365138 | [365138-corporeal.json](./365138-corporeal.json) |
 | Corpse Burger | 420595 | [420595-corpse-burger.json](./420595-corpse-burger.json) |
 | Corpse Carnival | 321302 | [321302-corpse-carnival.json](./321302-corpse-carnival.json) |
@@ -14976,6 +14979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courier Simulator | 349514 | [349514-courier-simulator.json](./349514-courier-simulator.json) |
 | Courier Tale | 202171 | [202171-courier-tale.json](./202171-courier-tale.json) |
 | Couroland | 223516 | [223516-couroland.json](./223516-couroland.json) |
+| Course of Temptation | 321249 | [321249-course-of-temptation.json](./321249-course-of-temptation.json) |
 | Court of Ashes | 120941 | [120941-court-of-ashes.json](./120941-court-of-ashes.json) |
 | Court of Crowns | 207561 | [207561-court-of-crowns.json](./207561-court-of-crowns.json) |
 | Court of Darkness | 228937 | [228937-court-of-darkness.json](./228937-court-of-darkness.json) |
@@ -15791,6 +15795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrateMage | 310103 | [310103-cratemage.json](./310103-cratemage.json) |
 | Crater Maker | 62079 | [62079-crater-maker.json](./62079-crater-maker.json) |
 | Crater Raider | 25356 | [25356-crater-raider.json](./25356-crater-raider.json) |
+| Crater Song | 321254 | [321254-crater-song.json](./321254-crater-song.json) |
 | Craterbound | 186123 | [186123-craterbound.json](./186123-craterbound.json) |
 | Crates 3D | 339020 | [339020-crates-3d.json](./339020-crates-3d.json) |
 | Crates n' Mohawks | 186339 | [186339-crates-n-mohawks.json](./186339-crates-n-mohawks.json) |
@@ -18295,6 +18300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Escape: Theatre | 75130 | [75130-cube-escape-theatre.json](./75130-cube-escape-theatre.json) |
 | Cube Experimental | 248122 | [248122-cube-experimental.json](./248122-cube-experimental.json) |
 | Cube Faces | 236926 | [236926-cube-faces.json](./236926-cube-faces.json) |
+| Cube Farm | 321181 | [321181-cube-farm.json](./321181-cube-farm.json) |
 | Cube Farmer | 213840 | [213840-cube-farmer.json](./213840-cube-farmer.json) |
 | Cube Fight | 213613 | [213613-cube-fight.json](./213613-cube-fight.json) |
 | Cube Fight | 380099 | [380099-cube-fight.json](./380099-cube-fight.json) |
