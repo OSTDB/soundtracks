@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kane & Lynch: Dead Men | 76714 | [76714-kane-and-lynch-dead-men.json](./76714-kane-and-lynch-dead-men.json) |
 | Kane 2 | 18889 | [18889-kane-2.json](./18889-kane-2.json) |
 | Kane County | 59704 | [59704-kane-county.json](./59704-kane-county.json) |
+| Kane no naru Ki | 298287 | [298287-kane-no-naru-ki.json](./298287-kane-no-naru-ki.json) |
 | Kane's Shadow | 133169 | [133169-kanes-shadow.json](./133169-kanes-shadow.json) |
 | Kanenone Dynatic: Green Green | 294727 | [294727-kanenone-dynatic-green-green.json](./294727-kanenone-dynatic-green-green.json) |
 | Kang | 396587 | [396587-kang.json](./396587-kang.json) |
@@ -2606,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Sudoku | 387569 | [387569-killer-sudoku.json](./387569-killer-sudoku.json) |
 | Killer Tank | 47098 | [47098-killer-tank.json](./47098-killer-tank.json) |
 | Killer Trait | 333190 | [333190-killer-trait.json](./333190-killer-trait.json) |
+| Killer Vegetable | 298195 | [298195-killer-vegetable.json](./298195-killer-vegetable.json) |
 | Killer Watt | 25864 | [25864-killer-watt.json](./25864-killer-watt.json) |
 | Killer Worm 2 | 187253 | [187253-killer-worm-2.json](./187253-killer-worm-2.json) |
 | Killer Zombie Hunt | 276484 | [276484-killer-zombie-hunt.json](./276484-killer-zombie-hunt.json) |
