@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Abductor | 14083 | [14083-galactic-abductor.json](./14083-galactic-abductor.json) |
 | Galactic Adventures | 357733 | [357733-galactic-adventures.json](./357733-galactic-adventures.json) |
 | Galactic Adventures | 377588 | [377588-galactic-adventures.json](./377588-galactic-adventures.json) |
+| Galactic Annihilation | 340290 | [340290-galactic-annihilation.json](./340290-galactic-annihilation.json) |
 | Galactic Arms Race | 8915 | [8915-galactic-arms-race.json](./8915-galactic-arms-race.json) |
 | Galactic Assault Squad | 196696 | [196696-galactic-assault-squad.json](./196696-galactic-assault-squad.json) |
 | Galactic Assault: Prisoner of Power | 9375 | [9375-galactic-assault-prisoner-of-power.json](./9375-galactic-assault-prisoner-of-power.json) |
@@ -4254,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gipsy King | 175423 | [175423-gipsy-king.json](./175423-gipsy-king.json) |
 | Girabox | 138621 | [138621-girabox.json](./138621-girabox.json) |
 | Giraffe | 314414 | [314414-giraffe.json](./314414-giraffe.json) |
+| Giraffe Above | 340154 | [340154-giraffe-above.json](./340154-giraffe-above.json) |
 | Giraffe and Annika | 101220 | [101220-giraffe-and-annika.json](./101220-giraffe-and-annika.json) |
 | Giraffe and Annika: Musical Mayhem Edition | 165956 | [165956-giraffe-and-annika-musical-mayhem-edition.json](./165956-giraffe-and-annika-musical-mayhem-edition.json) |
 | Giraffe Evolution | 348416 | [348416-giraffe-evolution.json](./348416-giraffe-evolution.json) |
@@ -9799,6 +9801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian's Guide | 291181 | [291181-guardians-guide.json](./291181-guardians-guide.json) |
 | Guardian's Oath | 31202 | [31202-guardians-oath.json](./31202-guardians-oath.json) |
 | Guardians | 258382 | [258382-guardians.json](./258382-guardians.json) |
+| Guardians | 340155 | [340155-guardians.json](./340155-guardians.json) |
 | Guardians Frontline | 144110 | [144110-guardians-frontline.json](./144110-guardians-frontline.json) |
 | Guardians of Altarris: The Sinless Blade | 322213 | [322213-guardians-of-altarris-the-sinless-blade.json](./322213-guardians-of-altarris-the-sinless-blade.json) |
 | Guardians of Arcadia - Episode 1 | 27173 | [27173-guardians-of-arcadia-episode-1.json](./27173-guardians-of-arcadia-episode-1.json) |
