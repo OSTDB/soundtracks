@@ -6421,6 +6421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blue Chamber | 247540 | [247540-the-blue-chamber.json](./247540-the-blue-chamber.json) |
 | The Blue Contestant | 124530 | [124530-the-blue-contestant.json](./124530-the-blue-contestant.json) |
 | The Blue Crystal Rod | 38183 | [38183-the-blue-crystal-rod.json](./38183-the-blue-crystal-rod.json) |
+| The Blue Cut Hook | 343146 | [343146-the-blue-cut-hook.json](./343146-the-blue-cut-hook.json) |
 | The Blue Katana | 185122 | [185122-the-blue-katana.json](./185122-the-blue-katana.json) |
 | The Blue Marlin | 313046 | [313046-the-blue-marlin.json](./313046-the-blue-marlin.json) |
 | The Blue Marlin | 48104 | [48104-the-blue-marlin.json](./48104-the-blue-marlin.json) |
@@ -8752,6 +8753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Expansion | 412194 | [412194-the-expansion.json](./412194-the-expansion.json) |
 | The Expedition | 114562 | [114562-the-expedition.json](./114562-the-expedition.json) |
 | The Expedition | 197577 | [197577-the-expedition.json](./197577-the-expedition.json) |
+| The Expedition | 343022 | [343022-the-expedition.json](./343022-the-expedition.json) |
 | The Expendables | 23368 | [23368-the-expendables.json](./23368-the-expendables.json) |
 | The Expendables 2: The Videogame | 9397 | [9397-the-expendables-2-the-videogame.json](./9397-the-expendables-2-the-videogame.json) |
 | The Expendabros | 9786 | [9786-the-expendabros.json](./9786-the-expendabros.json) |
@@ -10700,6 +10702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible VR Game Show | 83946 | [83946-the-incredible-vr-game-show.json](./83946-the-incredible-vr-game-show.json) |
 | The Incredibles | 210442 | [210442-the-incredibles.json](./210442-the-incredibles.json) |
 | The Incredibles | 230431 | [230431-the-incredibles.json](./230431-the-incredibles.json) |
+| The Incredibles | 343007 | [343007-the-incredibles.json](./343007-the-incredibles.json) |
 | The Incredibles | 3782 | [3782-the-incredibles.json](./3782-the-incredibles.json) |
 | The Incredibles: Jack-Jack's Escape | 264251 | [264251-the-incredibles-jack-jacks-escape.json](./264251-the-incredibles-jack-jacks-escape.json) |
 | The Incredibles: Mission Incredible | 213375 | [213375-the-incredibles-mission-incredible.json](./213375-the-incredibles-mission-incredible.json) |
@@ -11148,6 +11151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The king is gone | 141715 | [141715-the-king-is-gone.json](./141715-the-king-is-gone.json) |
 | The King is Watching | 366575 | [366575-the-king-is-watching.json](./366575-the-king-is-watching.json) |
 | The King is Watching: Crowns of History | 394315 | [394315-the-king-is-watching-crowns-of-history.json](./394315-the-king-is-watching-crowns-of-history.json) |
+| The King Lion III 2003 Advance | 343002 | [343002-the-king-lion-iii-2003-advance.json](./343002-the-king-lion-iii-2003-advance.json) |
 | The King of Alzoria | 276724 | [276724-the-king-of-alzoria.json](./276724-the-king-of-alzoria.json) |
 | The King of Beasts | 345075 | [345075-the-king-of-beasts.json](./345075-the-king-of-beasts.json) |
 | The King of Cats | 238384 | [238384-the-king-of-cats.json](./238384-the-king-of-cats.json) |
@@ -13911,6 +13915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old War | 201479 | [201479-the-old-war.json](./201479-the-old-war.json) |
 | The Old Ways | 356756 | [356756-the-old-ways.json](./356756-the-old-ways.json) |
 | The Old West Savior | 159580 | [159580-the-old-west-savior.json](./159580-the-old-west-savior.json) |
+| The Old Woman | 343017 | [343017-the-old-woman.json](./343017-the-old-woman.json) |
 | The Oldest Edda | 190721 | [190721-the-oldest-edda.json](./190721-the-oldest-edda.json) |
 | The Oliver Twins Collection | 136367 | [136367-the-oliver-twins-collection.json](./136367-the-oliver-twins-collection.json) |
 | The Olympics | 13260 | [13260-the-olympics.json](./13260-the-olympics.json) |
@@ -19996,6 +20001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiāntiān Tuōlājī | 96041 | [96041-tiantian-tuolaji.json](./96041-tiantian-tuolaji.json) |
 | Tianxia | 110023 | [110023-tianxia.json](./110023-tianxia.json) |
 | Tiānxiān Biàn | 156131 | [156131-tianxian-bian.json](./156131-tianxian-bian.json) |
+| Tianzi 76 | 343157 | [343157-tianzi-76.json](./343157-tianzi-76.json) |
 | Tiào Tiào Xiǎo Miánmián | 359470 | [359470-tiao-tiao-xiao-mianmian.json](./359470-tiao-tiao-xiao-mianmian.json) |
 | Tiara | 373276 | [373276-tiara.json](./373276-tiara.json) |
 | Tiara Concerto | 86102 | [86102-tiara-concerto.json](./86102-tiara-concerto.json) |
@@ -30468,6 +30474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump Castle: The Ultimate Casino Gambling Simulation | 78666 | [78666-trump-castle-the-ultimate-casino-gambling-simulation.json](./78666-trump-castle-the-ultimate-casino-gambling-simulation.json) |
 | Trump Collection 2: Bottom Up Teki Sekai Isshuu no Tabi | 82136 | [82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json](./82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json) |
 | Trump Collection GB | 82137 | [82137-trump-collection-gb.json](./82137-trump-collection-gb.json) |
+| Trump Horror | 343023 | [343023-trump-horror.json](./343023-trump-horror.json) |
 | Trump Island | 364045 | [364045-trump-island.json](./364045-trump-island.json) |
 | Trump Jigsaw | 339283 | [339283-trump-jigsaw.json](./339283-trump-jigsaw.json) |
 | Trump Loves Waifus | 156562 | [156562-trump-loves-waifus.json](./156562-trump-loves-waifus.json) |
@@ -30475,6 +30482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump Simulator 2025 | 334305 | [334305-trump-simulator-2025.json](./334305-trump-simulator-2025.json) |
 | Trump Simulator VR | 30827 | [30827-trump-simulator-vr.json](./30827-trump-simulator-vr.json) |
 | Trump Tariff | 338606 | [338606-trump-tariff.json](./338606-trump-tariff.json) |
+| Trump Trade War | 343024 | [343024-trump-trade-war.json](./343024-trump-trade-war.json) |
 | Trump vs Biden: Infinity war | 141035 | [141035-trump-vs-biden-infinity-war.json](./141035-trump-vs-biden-infinity-war.json) |
 | Trump vs Harris Clicker | 369646 | [369646-trump-vs-harris-clicker.json](./369646-trump-vs-harris-clicker.json) |
 | Trump Vs Rocketman | 230134 | [230134-trump-vs-rocketman.json](./230134-trump-vs-rocketman.json) |
