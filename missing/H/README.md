@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Shooter | 222395 | [222395-halloween-shooter.json](./222395-halloween-shooter.json) |
 | Halloween Sinister Trivia | 274488 | [274488-halloween-sinister-trivia.json](./274488-halloween-sinister-trivia.json) |
 | Halloween Store Simulator | 216625 | [216625-halloween-store-simulator.json](./216625-halloween-store-simulator.json) |
+| Halloween Stories: Black Book | 345764 | [345764-halloween-stories-black-book.json](./345764-halloween-stories-black-book.json) |
 | Halloween Stories: Black Book - Collector's Edition | 271028 | [271028-halloween-stories-black-book-collectors-edition.json](./271028-halloween-stories-black-book-collectors-edition.json) |
 | Halloween Stories: Defying Death - Collector’s Edition | 228252 | [228252-halloween-stories-defying-death-collector-s-edition.json](./228252-halloween-stories-defying-death-collector-s-edition.json) |
 | Halloween Stories: Horror Movie | 187953 | [187953-halloween-stories-horror-movie.json](./187953-halloween-stories-horror-movie.json) |
@@ -993,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammerwatch: Anniversary Edition | 261850 | [261850-hammerwatch-anniversary-edition.json](./261850-hammerwatch-anniversary-edition.json) |
 | Hammet P.I. | 346915 | [346915-hammet-p-i.json](./346915-hammet-p-i.json) |
 | Hammurabi | 311346 | [311346-hammurabi.json](./311346-hammurabi.json) |
+| Hammy | 345774 | [345774-hammy.json](./345774-hammy.json) |
 | Hammy | 91163 | [91163-hammy.json](./91163-hammy.json) |
 | Hammy Home: Hamster Simulation | 177184 | [177184-hammy-home-hamster-simulation.json](./177184-hammy-home-hamster-simulation.json) |
 | Hamos the Green Chariot | 145601 | [145601-hamos-the-green-chariot.json](./145601-hamos-the-green-chariot.json) |
@@ -8181,6 +8183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobble-Wobble | 388221 | [388221-hobble-wobble.json](./388221-hobble-wobble.json) |
 | Hobbs Home | 169871 | [169871-hobbs-home.json](./169871-hobbs-home.json) |
 | Hobby Farm Free | 87072 | [87072-hobby-farm-free.json](./87072-hobby-farm-free.json) |
+| Hobby Horse | 345790 | [345790-hobby-horse.json](./345790-hobby-horse.json) |
 | Hobby Horse: First Ride | 357852 | [357852-hobby-horse-first-ride.json](./357852-hobby-horse-first-ride.json) |
 | Hobby Module | 74413 | [74413-hobby-module.json](./74413-hobby-module.json) |
 | Hobby Simulator Bundle | 218859 | [218859-hobby-simulator-bundle.json](./218859-hobby-simulator-bundle.json) |
