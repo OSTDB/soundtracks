@@ -4774,6 +4774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kobayashi ga Kawai Sugite Tsurai!! Game Demo Kyun Moe Max ga Tomaranai | 202610 | [202610-kobayashi-ga-kawai-sugite-tsurai-game-demo-kyun-moe-max-ga-tomaranai.json](./202610-kobayashi-ga-kawai-sugite-tsurai-game-demo-kyun-moe-max-ga-tomaranai.json) |
 | Kobayashi Hitomi no Hold Up | 41348 | [41348-kobayashi-hitomi-no-hold-up.json](./41348-kobayashi-hitomi-no-hold-up.json) |
 | Kobayashi Maru | 80288 | [80288-kobayashi-maru.json](./80288-kobayashi-maru.json) |
+| Kobayashi Maru: Final | 301772 | [301772-kobayashi-maru-final.json](./301772-kobayashi-maru-final.json) |
 | KobberParty - Castle Explorer | 130228 | [130228-kobberparty-castle-explorer.json](./130228-kobberparty-castle-explorer.json) |
 | Kobblon | 422114 | [422114-kobblon.json](./422114-kobblon.json) |
 | Kobe Bryant in NBA Courtside | 3397 | [3397-kobe-bryant-in-nba-courtside.json](./3397-kobe-bryant-in-nba-courtside.json) |
