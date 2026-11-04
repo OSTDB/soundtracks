@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark City: Kyiv - Collector's Edition | 268313 | [268313-dark-city-kyiv-collectors-edition.json](./268313-dark-city-kyiv-collectors-edition.json) |
 | Dark City: London | 376568 | [376568-dark-city-london.json](./376568-dark-city-london.json) |
 | Dark City: London - Collector's Edition | 277118 | [277118-dark-city-london-collectors-edition.json](./277118-dark-city-london-collectors-edition.json) |
+| Dark City: Munich | 311431 | [311431-dark-city-munich.json](./311431-dark-city-munich.json) |
 | Dark City: Munich - Collector's Edition | 376578 | [376578-dark-city-munich-collectors-edition.json](./376578-dark-city-munich-collectors-edition.json) |
 | Dark City: Paris | 397179 | [397179-dark-city-paris.json](./397179-dark-city-paris.json) |
 | Dark City: Paris Collector's Edition | 190743 | [190743-dark-city-paris-collectors-edition.json](./190743-dark-city-paris-collectors-edition.json) |
@@ -7832,6 +7833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil on Your Shoulder | 199272 | [199272-devil-on-your-shoulder.json](./199272-devil-on-your-shoulder.json) |
 | Devil Piece | 174645 | [174645-devil-piece.json](./174645-devil-piece.json) |
 | Devil Rhythm -Silver Phantom- | 83401 | [83401-devil-rhythm-silver-phantom.json](./83401-devil-rhythm-silver-phantom.json) |
+| Devil Road Run! | 311445 | [311445-devil-road-run.json](./311445-devil-road-run.json) |
 | Devil Seed | 82748 | [82748-devil-seed.json](./82748-devil-seed.json) |
 | Devil Seeds | 270490 | [270490-devil-seeds.json](./270490-devil-seeds.json) |
 | Devil Should Die | 190950 | [190950-devil-should-die.json](./190950-devil-should-die.json) |
@@ -8436,6 +8438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dictator's Creed | 212749 | [212749-dictators-creed.json](./212749-dictators-creed.json) |
 | Dictators:No Peace Countryballs | 129040 | [129040-dictators-no-peace-countryballs.json](./129040-dictators-no-peace-countryballs.json) |
 | Diction | 319124 | [319124-diction.json](./319124-diction.json) |
+| Dictionary Blaster | 311507 | [311507-dictionary-blaster.json](./311507-dictionary-blaster.json) |
 | Dictionary Glory! | 328927 | [328927-dictionary-glory.json](./328927-dictionary-glory.json) |
 | Dictocracy | 344704 | [344704-dictocracy.json](./344704-dictocracy.json) |
 | Dicy Chess | 299148 | [299148-dicy-chess.json](./299148-dicy-chess.json) |
@@ -10446,6 +10449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distancing | 147167 | [147167-distancing.json](./147167-distancing.json) |
 | Distancy | 316153 | [316153-distancy.json](./316153-distancy.json) |
 | Distant | 28704 | [28704-distant.json](./28704-distant.json) |
+| Distant | 311505 | [311505-distant.json](./311505-distant.json) |
 | Distant | 329390 | [329390-distant.json](./329390-distant.json) |
 | Distant Bloom | 215851 | [215851-distant-bloom.json](./215851-distant-bloom.json) |
 | Distant castle | 99130 | [99130-distant-castle.json](./99130-distant-castle.json) |
@@ -14356,6 +14360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Crystal II | 374342 | [374342-dragon-crystal-ii.json](./374342-dragon-crystal-ii.json) |
 | Dragon Dance | 49940 | [49940-dragon-dance.json](./49940-dragon-dance.json) |
 | Dragon Dash Division | 167535 | [167535-dragon-dash-division.json](./167535-dragon-dash-division.json) |
+| Dragon Daughter | 311420 | [311420-dragon-daughter.json](./311420-dragon-daughter.json) |
 | Dragon Defender | 40644 | [40644-dragon-defender.json](./40644-dragon-defender.json) |
 | Dragon Defender: Castle Kingdom Quest | 234188 | [234188-dragon-defender-castle-kingdom-quest.json](./234188-dragon-defender-castle-kingdom-quest.json) |
 | Dragon Defense | 110083 | [110083-dragon-defense.json](./110083-dragon-defense.json) |
