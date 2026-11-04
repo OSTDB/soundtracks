@@ -5703,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Mecha | 208084 | [208084-chaos-mecha.json](./208084-chaos-mecha.json) |
 | Chaos Metaverse | 267658 | [267658-chaos-metaverse.json](./267658-chaos-metaverse.json) |
 | Chaos Method | 378750 | [378750-chaos-method.json](./378750-chaos-method.json) |
+| Chaos of Destiny Remake | 346883 | [346883-chaos-of-destiny-remake.json](./346883-chaos-of-destiny-remake.json) |
 | Chaos of East | 101353 | [101353-chaos-of-east.json](./101353-chaos-of-east.json) |
 | Chaos of Fallen City | 159864 | [159864-chaos-of-fallen-city.json](./159864-chaos-of-fallen-city.json) |
 | Chaos of Hearts | 31636 | [31636-chaos-of-hearts.json](./31636-chaos-of-hearts.json) |
@@ -9844,6 +9845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb Fling | 239636 | [239636-climb-fling.json](./239636-climb-fling.json) |
 | Climb It | 273910 | [273910-climb-it.json](./273910-climb-it.json) |
 | Climb It Up | 419621 | [419621-climb-it-up.json](./419621-climb-it-up.json) |
+| Climb It! | 346892 | [346892-climb-it.json](./346892-climb-it.json) |
 | Climb Jump | 175746 | [175746-climb-jump.json](./175746-climb-jump.json) |
 | Climb Jump Obby Tower | 366208 | [366208-climb-jump-obby-tower.json](./366208-climb-jump-obby-tower.json) |
 | Climb New York Parkour VR | 244640 | [244640-climb-new-york-parkour-vr.json](./244640-climb-new-york-parkour-vr.json) |
@@ -14945,6 +14947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid-19 (Corona Virus) | 173386 | [173386-covid-19-corona-virus.json](./173386-covid-19-corona-virus.json) |
 | Covid-19 Epidemic Prevention | 157108 | [157108-covid-19-epidemic-prevention.json](./157108-covid-19-epidemic-prevention.json) |
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
+| COVID-29 | 346869 | [346869-covid-29.json](./346869-covid-29.json) |
 | Covid: Survive the PlanDemic | 168085 | [168085-covid-survive-the-plandemic.json](./168085-covid-survive-the-plandemic.json) |
 | Covid: The Outbreak | 133007 | [133007-covid-the-outbreak.json](./133007-covid-the-outbreak.json) |
 | Covid19: Toilet Paper Run | 285531 | [285531-covid19-toilet-paper-run.json](./285531-covid19-toilet-paper-run.json) |
@@ -18545,6 +18548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult ni Kibishii Gal: Cult vs. Gal | 285361 | [285361-cult-ni-kibishii-gal-cult-vs-gal.json](./285361-cult-ni-kibishii-gal-cult-vs-gal.json) |
 | Cult Of Blood | 319965 | [319965-cult-of-blood.json](./319965-cult-of-blood.json) |
 | Cult of Five | 381923 | [381923-cult-of-five.json](./381923-cult-of-five.json) |
+| Cult of Flies | 346868 | [346868-cult-of-flies.json](./346868-cult-of-flies.json) |
 | Cult of Lily | 383586 | [383586-cult-of-lily.json](./383586-cult-of-lily.json) |
 | Cult of Persona | 339354 | [339354-cult-of-persona.json](./339354-cult-of-persona.json) |
 | Cult of Pin | 351132 | [351132-cult-of-pin.json](./351132-cult-of-pin.json) |
@@ -19381,6 +19385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Evolution | 359865 | [359865-cyber-evolution.json](./359865-cyber-evolution.json) |
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
 | Cyber Factories | 156006 | [156006-cyber-factories.json](./156006-cyber-factories.json) |
+| Cyber Farmer | 346875 | [346875-cyber-farmer.json](./346875-cyber-farmer.json) |
 | Cyber Fight | 194916 | [194916-cyber-fight.json](./194916-cyber-fight.json) |
 | Cyber Fight | 96425 | [96425-cyber-fight.json](./96425-cyber-fight.json) |
 | Cyber Fight Challenge | 161541 | [161541-cyber-fight-challenge.json](./161541-cyber-fight-challenge.json) |
