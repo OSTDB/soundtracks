@@ -2725,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Past Mistakes: Act I | 347296 | [347296-past-mistakes-act-i.json](./347296-past-mistakes-act-i.json) |
 | Past Particles | 199232 | [199232-past-particles.json](./199232-past-particles.json) |
 | Past Synergy | 195079 | [195079-past-synergy.json](./195079-past-synergy.json) |
+| Past the Moon; Towards the Sun | 303946 | [303946-past-the-moon-towards-the-sun.json](./303946-past-the-moon-towards-the-sun.json) |
 | Pasta La Vista Super Mario Bros. | 392840 | [392840-pasta-la-vista-super-mario-bros.json](./392840-pasta-la-vista-super-mario-bros.json) |
 | Pasta Master | 160263 | [160263-pasta-master.json](./160263-pasta-master.json) |
 | Pastel | 136629 | [136629-pastel.json](./136629-pastel.json) |
@@ -8001,6 +8002,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Japan Jigsaws | 389414 | [389414-pixel-puzzles-japan-jigsaws.json](./389414-pixel-puzzles-japan-jigsaws.json) |
 | Pixel Puzzles Junior | 33190 | [33190-pixel-puzzles-junior.json](./33190-pixel-puzzles-junior.json) |
 | Pixel Puzzles Mosaics | 28746 | [28746-pixel-puzzles-mosaics.json](./28746-pixel-puzzles-mosaics.json) |
+| Pixel Puzzles The Musical | 303656 | [303656-pixel-puzzles-the-musical.json](./303656-pixel-puzzles-the-musical.json) |
+| Pixel Puzzles The Musical: Chaosbay - Jigsaw Pack | 303653 | [303653-pixel-puzzles-the-musical-chaosbay-jigsaw-pack.json](./303653-pixel-puzzles-the-musical-chaosbay-jigsaw-pack.json) |
+| Pixel Puzzles The Musical: HCK9 - Jigsaw Pack | 303654 | [303654-pixel-puzzles-the-musical-hck9-jigsaw-pack.json](./303654-pixel-puzzles-the-musical-hck9-jigsaw-pack.json) |
+| Pixel Puzzles The Musical: The Nearly Deads - Jigsaw Pack | 303655 | [303655-pixel-puzzles-the-musical-the-nearly-deads-jigsaw-pack.json](./303655-pixel-puzzles-the-musical-the-nearly-deads-jigsaw-pack.json) |
 | Pixel Puzzles Traditional Jigsaws | 130274 | [130274-pixel-puzzles-traditional-jigsaws.json](./130274-pixel-puzzles-traditional-jigsaws.json) |
 | Pixel Puzzles Traditional Jigsaws Pack: Korea | 247775 | [247775-pixel-puzzles-traditional-jigsaws-pack-korea.json](./247775-pixel-puzzles-traditional-jigsaws-pack-korea.json) |
 | Pixel Puzzles Traditional Jigsaws Pack: Variety Pack 10 | 262250 | [262250-pixel-puzzles-traditional-jigsaws-pack-variety-pack-10.json](./262250-pixel-puzzles-traditional-jigsaws-pack-variety-pack-10.json) |
@@ -17096,6 +17101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppyman | 233181 | [233181-puppyman.json](./233181-puppyman.json) |
 | PuppyStory | 29215 | [29215-puppystory.json](./29215-puppystory.json) |
 | Pups & Purrs Animal Hospital | 165427 | [165427-pups-and-purrs-animal-hospital.json](./165427-pups-and-purrs-animal-hospital.json) |
+| Pups & Purrs Animal Hospital and Fun! Fun! Animal Park | 303975 | [303975-pups-and-purrs-animal-hospital-and-fun-fun-animal-park.json](./303975-pups-and-purrs-animal-hospital-and-fun-fun-animal-park.json) |
 | Pups & Purrs Animal Hospital and Pups & Purrs Pet Shop Bundle | 308629 | [308629-pups-and-purrs-animal-hospital-and-pups-and-purrs-pet-shop-bundle.json](./308629-pups-and-purrs-animal-hospital-and-pups-and-purrs-pet-shop-bundle.json) |
 | Pups & Purrs Pet Shop | 145491 | [145491-pups-and-purrs-pet-shop.json](./145491-pups-and-purrs-pet-shop.json) |
 | Pups Treats | 359412 | [359412-pups-treats.json](./359412-pups-treats.json) |
@@ -17766,6 +17772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Games Bundle: 5 in 1 - vol.2 | 266337 | [266337-puzzle-games-bundle-5-in-1-vol-2.json](./266337-puzzle-games-bundle-5-in-1-vol-2.json) |
 | Puzzle Games for Children | 352830 | [352830-puzzle-games-for-children.json](./352830-puzzle-games-for-children.json) |
 | Puzzle Garage | 291615 | [291615-puzzle-garage.json](./291615-puzzle-garage.json) |
+| Puzzle Garden | 303662 | [303662-puzzle-garden.json](./303662-puzzle-garden.json) |
 | Puzzle Gems | 290240 | [290240-puzzle-gems.json](./290240-puzzle-gems.json) |
 | Puzzle Girl | 155463 | [155463-puzzle-girl.json](./155463-puzzle-girl.json) |
 | Puzzle Girls | 255527 | [255527-puzzle-girls.json](./255527-puzzle-girls.json) |
