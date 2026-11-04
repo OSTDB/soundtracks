@@ -3414,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encounter At L5 | 40673 | [40673-encounter-at-l5.json](./40673-encounter-at-l5.json) |
 | Encounter at Questar IV | 408509 | [408509-encounter-at-questar-iv.json](./408509-encounter-at-questar-iv.json) |
 | Encounter Bar | 385258 | [385258-encounter-bar.json](./385258-encounter-bar.json) |
+| Encounter Dinosaurs | 327696 | [327696-encounter-dinosaurs.json](./327696-encounter-dinosaurs.json) |
 | Encounter of Galaxies | 28931 | [28931-encounter-of-galaxies.json](./28931-encounter-of-galaxies.json) |
 | Encounter: A 8-Bit Noir Adventure | 371192 | [371192-encounter-a-8-bit-noir-adventure.json](./371192-encounter-a-8-bit-noir-adventure.json) |
 | Encounter: The Lost Cards | 354540 | [354540-encounter-the-lost-cards.json](./354540-encounter-the-lost-cards.json) |
@@ -5311,7 +5312,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Sequence | 411591 | [411591-escape-sequence.json](./411591-escape-sequence.json) |
 | Escape Shadow Storm | 255272 | [255272-escape-shadow-storm.json](./255272-escape-shadow-storm.json) |
 | Escape Simulator | 145439 | [145439-escape-simulator.json](./145439-escape-simulator.json) |
-| Escape Simulator 2 | 325646 | [325646-escape-simulator-2.json](./325646-escape-simulator-2.json) |
 | Escape Simulator 2: Apocalypse DLC | 407417 | [407417-escape-simulator-2-apocalypse-dlc.json](./407417-escape-simulator-2-apocalypse-dlc.json) |
 | Escape Simulator VR | 253530 | [253530-escape-simulator-vr.json](./253530-escape-simulator-vr.json) |
 | Escape Simulator: Among Us | 280413 | [280413-escape-simulator-among-us.json](./280413-escape-simulator-among-us.json) |
