@@ -3716,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart DS: GameCube Grand Prix | 313347 | [313347-mario-kart-ds-gamecube-grand-prix.json](./313347-mario-kart-ds-gamecube-grand-prix.json) |
 | Mario Kart Live: Home Circuit | 138251 | [138251-mario-kart-live-home-circuit.json](./138251-mario-kart-live-home-circuit.json) |
 | Mario Kart Midnight | 229509 | [229509-mario-kart-midnight.json](./229509-mario-kart-midnight.json) |
+| Mario Kart Midnight 2 | 326905 | [326905-mario-kart-midnight-2.json](./326905-mario-kart-midnight-2.json) |
 | Mario Kart PC | 294712 | [294712-mario-kart-pc.json](./294712-mario-kart-pc.json) |
 | Mario Kart R | 42204 | [42204-mario-kart-r.json](./42204-mario-kart-r.json) |
 | Mario Kart RiiBalanced | 202370 | [202370-mario-kart-riibalanced.json](./202370-mario-kart-riibalanced.json) |
@@ -6335,6 +6336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
 | Mech Chip | 114087 | [114087-mech-chip.json](./114087-mech-chip.json) |
 | Mech Commander Gold | 51238 | [51238-mech-commander-gold.json](./51238-mech-commander-gold.json) |
+| Mech Crusade | 326939 | [326939-mech-crusade.json](./326939-mech-crusade.json) |
 | Mech Delivery Mayhem | 362247 | [362247-mech-delivery-mayhem.json](./362247-mech-delivery-mayhem.json) |
 | Mech Explorer | 326680 | [326680-mech-explorer.json](./326680-mech-explorer.json) |
 | Mech Farmer | 150696 | [150696-mech-farmer.json](./150696-mech-farmer.json) |
@@ -6851,6 +6853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medium5 | 188332 | [188332-medium5.json](./188332-medium5.json) |
 | Medival Hustle | 304578 | [304578-medival-hustle.json](./304578-medival-hustle.json) |
 | Medivination | 302505 | [302505-medivination.json](./302505-medivination.json) |
+| Medix | 327062 | [327062-medix.json](./327062-medix.json) |
 | Medo do Escuro | 306320 | [306320-medo-do-escuro.json](./306320-medo-do-escuro.json) |
 | Medoka Magik Grls Extended | 159229 | [159229-medoka-magik-grls-extended.json](./159229-medoka-magik-grls-extended.json) |
 | Medulla | 147254 | [147254-medulla.json](./147254-medulla.json) |
@@ -12193,6 +12196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Arenas | 215596 | [215596-mini-arenas.json](./215596-mini-arenas.json) |
 | Mini Army | 399402 | [399402-mini-army.json](./399402-mini-army.json) |
 | Mini Army Tactics Medieval | 190343 | [190343-mini-army-tactics-medieval.json](./190343-mini-army-tactics-medieval.json) |
+| Mini Asteroids | 327067 | [327067-mini-asteroids.json](./327067-mini-asteroids.json) |
 | Mini Attack Submarine | 57763 | [57763-mini-attack-submarine.json](./57763-mini-attack-submarine.json) |
 | Mini Avoid | 208158 | [208158-mini-avoid.json](./208158-mini-avoid.json) |
 | Mini Bash | 360463 | [360463-mini-bash.json](./360463-mini-bash.json) |
