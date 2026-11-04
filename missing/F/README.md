@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Grounds | 30234 | [30234-fantasy-grounds.json](./30234-fantasy-grounds.json) |
 | Fantasy Grounds: Call of Cthulhu - The House of R'lyeh | 53021 | [53021-fantasy-grounds-call-of-cthulhu-the-house-of-rlyeh.json](./53021-fantasy-grounds-call-of-cthulhu-the-house-of-rlyeh.json) |
 | Fantasy Grounds: Savage Worlds Setting - Weird Wars II | 53020 | [53020-fantasy-grounds-savage-worlds-setting-weird-wars-ii.json](./53020-fantasy-grounds-savage-worlds-setting-weird-wars-ii.json) |
+| Fantasy Grove | 342395 | [342395-fantasy-grove.json](./342395-fantasy-grove.json) |
 | Fantasy Gunner | 164297 | [164297-fantasy-gunner.json](./164297-fantasy-gunner.json) |
 | Fantasy Hearts | 345068 | [345068-fantasy-hearts.json](./345068-fantasy-hearts.json) |
 | Fantasy Hentai Quest | 210856 | [210856-fantasy-hentai-quest.json](./210856-fantasy-hentai-quest.json) |
@@ -2021,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Realm: A Land Torn Asunder | 97278 | [97278-fantasy-realm-a-land-torn-asunder.json](./97278-fantasy-realm-a-land-torn-asunder.json) |
 | Fantasy Rivals | 63299 | [63299-fantasy-rivals.json](./63299-fantasy-rivals.json) |
 | Fantasy RPG Bundle | 368771 | [368771-fantasy-rpg-bundle.json](./368771-fantasy-rpg-bundle.json) |
+| Fantasy RPG: Raid Legends | 342396 | [342396-fantasy-rpg-raid-legends.json](./342396-fantasy-rpg-raid-legends.json) |
 | Fantasy Saga Frenzy | 308642 | [308642-fantasy-saga-frenzy.json](./308642-fantasy-saga-frenzy.json) |
 | Fantasy Secret | 126361 | [126361-fantasy-secret.json](./126361-fantasy-secret.json) |
 | Fantasy Shop | 238492 | [238492-fantasy-shop.json](./238492-fantasy-shop.json) |
@@ -3473,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feasibility Experiment | 24693 | [24693-feasibility-experiment.json](./24693-feasibility-experiment.json) |
 | Feast | 364224 | [364224-feast.json](./364224-feast.json) |
 | Feast of Fools | 375870 | [375870-feast-of-fools.json](./375870-feast-of-fools.json) |
+| Feast of the Beast | 342512 | [342512-feast-of-the-beast.json](./342512-feast-of-the-beast.json) |
 | Feast of the Beast: Unleashed | 381697 | [381697-feast-of-the-beast-unleashed.json](./381697-feast-of-the-beast-unleashed.json) |
 | Feast or Fracture | 274459 | [274459-feast-or-fracture.json](./274459-feast-or-fracture.json) |
 | Feast Your Eyes | 138580 | [138580-feast-your-eyes.json](./138580-feast-your-eyes.json) |
@@ -12834,6 +12837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fungiman 2 | 333645 | [333645-fungiman-2.json](./333645-fungiman-2.json) |
 | Fungoids: Steam Version | 93613 | [93613-fungoids-steam-version.json](./93613-fungoids-steam-version.json) |
 | Fungus | 13852 | [13852-fungus.json](./13852-fungus.json) |
+| Fungus and Delicacies | 342513 | [342513-fungus-and-delicacies.json](./342513-fungus-and-delicacies.json) |
 | Fungus Reaper | 248882 | [248882-fungus-reaper.json](./248882-fungus-reaper.json) |
 | Fungus World | 344020 | [344020-fungus-world.json](./344020-fungus-world.json) |
 | Funguys Swarm | 332851 | [332851-funguys-swarm.json](./332851-funguys-swarm.json) |
