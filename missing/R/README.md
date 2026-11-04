@@ -9972,6 +9972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RogueVirus | 372621 | [372621-roguevirus.json](./372621-roguevirus.json) |
 | Roguevive | 213772 | [213772-roguevive.json](./213772-roguevive.json) |
 | RogueViz Collection | 361996 | [361996-rogueviz-collection.json](./361996-rogueviz-collection.json) |
+| Rogueween | 306286 | [306286-rogueween.json](./306286-rogueween.json) |
 | Roguie | 382303 | [382303-roguie.json](./382303-roguie.json) |
 | Rogum: A Cat Match Puzzle | 386691 | [386691-rogum-a-cat-match-puzzle.json](./386691-rogum-a-cat-match-puzzle.json) |
 | Rogumon | 346193 | [346193-rogumon.json](./346193-rogumon.json) |
@@ -10988,6 +10989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotorize | 92084 | [92084-rotorize.json](./92084-rotorize.json) |
 | RotorScape | 311495 | [311495-rotorscape.json](./311495-rotorscape.json) |
 | Rotorsim: Helicopter Simulator | 348878 | [348878-rotorsim-helicopter-simulator.json](./348878-rotorsim-helicopter-simulator.json) |
+| Rotosaurus Adventure | 306285 | [306285-rotosaurus-adventure.json](./306285-rotosaurus-adventure.json) |
 | Rotox | 15360 | [15360-rotox.json](./15360-rotox.json) |
 | Rotrex | 290978 | [290978-rotrex.json](./290978-rotrex.json) |
 | Rotschwert | 333660 | [333660-rotschwert.json](./333660-rotschwert.json) |
