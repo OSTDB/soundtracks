@@ -8259,6 +8259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Dash 2 | 93499 | [93499-gravity-dash-2.json](./93499-gravity-dash-2.json) |
 | Gravity Defied: Trial Racing | 151054 | [151054-gravity-defied-trial-racing.json](./151054-gravity-defied-trial-racing.json) |
 | Gravity Den | 33177 | [33177-gravity-den.json](./33177-gravity-den.json) |
+| Gravity Drop | 317761 | [317761-gravity-drop.json](./317761-gravity-drop.json) |
 | Gravity Duck | 121815 | [121815-gravity-duck.json](./121815-gravity-duck.json) |
 | Gravity Error | 24041 | [24041-gravity-error.json](./24041-gravity-error.json) |
 | Gravity Escape | 128255 | [128255-gravity-escape.json](./128255-gravity-escape.json) |
@@ -9906,6 +9907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guarrd the Rum | 176800 | [176800-guarrd-the-rum.json](./176800-guarrd-the-rum.json) |
 | Guayota | 294937 | [294937-guayota.json](./294937-guayota.json) |
 | Gubble | 170382 | [170382-gubble.json](./170382-gubble.json) |
+| Gubble | 317757 | [317757-gubble.json](./317757-gubble.json) |
 | Gubble | 44937 | [44937-gubble.json](./44937-gubble.json) |
 | Gubble 2 | 93338 | [93338-gubble-2.json](./93338-gubble-2.json) |
 | Gubble Buggy Racer | 91544 | [91544-gubble-buggy-racer.json](./91544-gubble-buggy-racer.json) |
