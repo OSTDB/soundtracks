@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Eclipse | 389399 | [389399-echoes-of-eclipse.json](./389399-echoes-of-eclipse.json) |
 | Echoes of Egypt | 301997 | [301997-echoes-of-egypt.json](./301997-echoes-of-egypt.json) |
 | Echoes of Eldoria | 333541 | [333541-echoes-of-eldoria.json](./333541-echoes-of-eldoria.json) |
+| Echoes of Elpis | 310891 | [310891-echoes-of-elpis.json](./310891-echoes-of-elpis.json) |
 | Echoes of Eternea | 65281 | [65281-echoes-of-eternea.json](./65281-echoes-of-eternea.json) |
 | Echoes of Etheria | 266788 | [266788-echoes-of-etheria.json](./266788-echoes-of-etheria.json) |
 | Echoes of Exile | 311936 | [311936-echoes-of-exile.json](./311936-echoes-of-exile.json) |
