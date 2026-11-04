@@ -1784,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ekorella Vol 1 | 199926 | [199926-ekorella-vol-1.json](./199926-ekorella-vol-1.json) |
 | Ekphrasis | 339730 | [339730-ekphrasis.json](./339730-ekphrasis.json) |
 | Ekphrasis | 405494 | [405494-ekphrasis.json](./405494-ekphrasis.json) |
+| Ekron | 346360 | [346360-ekron.json](./346360-ekron.json) |
 | Eksperyment Delfin | 283112 | [283112-eksperyment-delfin.json](./283112-eksperyment-delfin.json) |
 | Ekstase | 157510 | [157510-ekstase.json](./157510-ekstase.json) |
 | Ekudorado: Kagami no Naka no Oukoku | 66167 | [66167-ekudorado-kagami-no-naka-no-oukoku.json](./66167-ekudorado-kagami-no-naka-no-oukoku.json) |
@@ -6300,6 +6301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evades.io | 112223 | [112223-evades-io.json](./112223-evades-io.json) |
 | Evalina The Sorceress | 254086 | [254086-evalina-the-sorceress.json](./254086-evalina-the-sorceress.json) |
 | Evaluate | 329457 | [329457-evaluate.json](./329457-evaluate.json) |
+| Evaluation | 346474 | [346474-evaluation.json](./346474-evaluation.json) |
 | Evan Quest | 170357 | [170357-evan-quest.json](./170357-evan-quest.json) |
 | Evan Quest 2 | 192929 | [192929-evan-quest-2.json](./192929-evan-quest-2.json) |
 | Evan, Daniel and Friends. Vol 2 | 238970 | [238970-evan-daniel-and-friends-vol-2.json](./238970-evan-daniel-and-friends-vol-2.json) |
