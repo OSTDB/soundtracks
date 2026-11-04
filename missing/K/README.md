@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kauil's Treasure | 144567 | [144567-kauils-treasure.json](./144567-kauils-treasure.json) |
 | Kaun Banega Crorepati | 263465 | [263465-kaun-banega-crorepati.json](./263465-kaun-banega-crorepati.json) |
 | Kauna | 344885 | [344885-kauna.json](./344885-kauna.json) |
+| Kava | 305059 | [305059-kava.json](./305059-kava.json) |
 | Kava Tina Story | 68020 | [68020-kava-tina-story.json](./68020-kava-tina-story.json) |
 | Kavalmaja | 128655 | [128655-kavalmaja.json](./128655-kavalmaja.json) |
 | Kavel | 169586 | [169586-kavel.json](./169586-kavel.json) |
@@ -2736,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimero!! Hero Gakuen: Eiyuu ni Shinjutsu Nashi | 59439 | [59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json](./59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json) |
 | Kimetsu no Yaiba: Keppuu Kengeki Royale | 133758 | [133758-kimetsu-no-yaiba-keppuu-kengeki-royale.json](./133758-kimetsu-no-yaiba-keppuu-kengeki-royale.json) |
 | Kimi ga Ita Kisetsu | 181187 | [181187-kimi-ga-ita-kisetsu.json](./181187-kimi-ga-ita-kisetsu.json) |
+| Kimi ga Ita Kisetsu: Primary | 305096 | [305096-kimi-ga-ita-kisetsu-primary.json](./305096-kimi-ga-ita-kisetsu-primary.json) |
 | Kimi ga Mita Hikari 2 | 329968 | [329968-kimi-ga-mita-hikari-2.json](./329968-kimi-ga-mita-hikari-2.json) |
 | Kimi ga Nozomu Eien | 84324 | [84324-kimi-ga-nozomu-eien.json](./84324-kimi-ga-nozomu-eien.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
