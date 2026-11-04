@@ -7711,6 +7711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
 | Am Madness | 163091 | [163091-am-madness.json](./163091-am-madness.json) |
 | Ama Me (In Incisis) | 297551 | [297551-ama-me-in-incisis.json](./297551-ama-me-in-incisis.json) |
+| Ama no Sora Retrospect | 336849 | [336849-ama-no-sora-retrospect.json](./336849-ama-no-sora-retrospect.json) |
 | AMA Superbike | 94233 | [94233-ama-superbike.json](./94233-ama-superbike.json) |
 | Ama-Hina | 38715 | [38715-ama-hina.json](./38715-ama-hina.json) |
 | Ama's Lullaby | 303156 | [303156-amas-lullaby.json](./303156-amas-lullaby.json) |
@@ -8096,6 +8097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amelia's Garden | 319780 | [319780-amelias-garden.json](./319780-amelias-garden.json) |
 | Amelie | 190744 | [190744-amelie.json](./190744-amelie.json) |
 | Amelie And The Lost Spirit | 296263 | [296263-amelie-and-the-lost-spirit.json](./296263-amelie-and-the-lost-spirit.json) |
+| Amelie Falls Over and Over Again | 336831 | [336831-amelie-falls-over-and-over-again.json](./336831-amelie-falls-over-and-over-again.json) |
 | Amelie's Cafe | 52397 | [52397-amelies-cafe.json](./52397-amelies-cafe.json) |
 | Amelie's Cafe: Holiday Spirit | 52396 | [52396-amelies-cafe-holiday-spirit.json](./52396-amelies-cafe-holiday-spirit.json) |
 | Amelie's Café: Summer Time | 52398 | [52398-amelies-cafe-summer-time.json](./52398-amelies-cafe-summer-time.json) |
@@ -9268,6 +9270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AnglingTimes | 402384 | [402384-anglingtimes.json](./402384-anglingtimes.json) |
 | Angon: The Grim Age | 206429 | [206429-angon-the-grim-age.json](./206429-angon-the-grim-age.json) |
 | angoo Inc. | 71164 | [71164-angoo-inc.json](./71164-angoo-inc.json) |
+| Angor | 336846 | [336846-angor.json](./336846-angor.json) |
 | Angra-I | 215853 | [215853-angra-i.json](./215853-angra-i.json) |
 | Angrbotha Mountains | 239668 | [239668-angrbotha-mountains.json](./239668-angrbotha-mountains.json) |
 | Angriest Whopper Game | 237940 | [237940-angriest-whopper-game.json](./237940-angriest-whopper-game.json) |
@@ -15366,6 +15369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Pig | 240751 | [240751-astro-pig.json](./240751-astro-pig.json) |
 | Astro Pirates | 217156 | [217156-astro-pirates.json](./217156-astro-pirates.json) |
 | Astro Planes | 273355 | [273355-astro-planes.json](./273355-astro-planes.json) |
+| Astro Prospector | 336980 | [336980-astro-prospector.json](./336980-astro-prospector.json) |
 | Astro Rabby | 7759 | [7759-astro-rabby.json](./7759-astro-rabby.json) |
 | Astro Race | 172593 | [172593-astro-race.json](./172593-astro-race.json) |
 | Astro Race | 322512 | [322512-astro-race.json](./322512-astro-race.json) |
