@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Drum Session | 76643 | [76643-taiko-no-tatsujin-drum-session.json](./76643-taiko-no-tatsujin-drum-session.json) |
 | Taiko No Tatsujin: Drum Session! - Deluxe Edition | 118719 | [118719-taiko-no-tatsujin-drum-session-deluxe-edition.json](./118719-taiko-no-tatsujin-drum-session-deluxe-edition.json) |
 | Taiko no Tatsujin: Go! Go! Godaime | 123416 | [123416-taiko-no-tatsujin-go-go-godaime.json](./123416-taiko-no-tatsujin-go-go-godaime.json) |
+| Taiko no Tatsujin: Niji-iro Version | 319924 | [319924-taiko-no-tatsujin-niji-iro-version.json](./319924-taiko-no-tatsujin-niji-iro-version.json) |
 | Taiko no Tatsujin: Ongaku Lesson | 123620 | [123620-taiko-no-tatsujin-ongaku-lesson.json](./123620-taiko-no-tatsujin-ongaku-lesson.json) |
 | Taiko no Tatsujin: Pop Tap Beat | 145443 | [145443-taiko-no-tatsujin-pop-tap-beat.json](./145443-taiko-no-tatsujin-pop-tap-beat.json) |
 | Taiko no Tatsujin: Rhythm Connect | 269597 | [269597-taiko-no-tatsujin-rhythm-connect.json](./269597-taiko-no-tatsujin-rhythm-connect.json) |
@@ -5071,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Lava Escape Game | 128015 | [128015-that-lava-escape-game.json](./128015-that-lava-escape-game.json) |
 | That Level Again | 113962 | [113962-that-level-again.json](./113962-that-level-again.json) |
 | That Level Again 2 | 144491 | [144491-that-level-again-2.json](./144491-that-level-again-2.json) |
+| That Level Again 3D | 320092 | [320092-that-level-again-3d.json](./320092-that-level-again-3d.json) |
 | That New Diner | 327900 | [327900-that-new-diner.json](./327900-that-new-diner.json) |
 | That Night | 218733 | [218733-that-night.json](./218733-that-night.json) |
 | That One Celestial Night | 176495 | [176495-that-one-celestial-night.json](./176495-that-one-celestial-night.json) |
@@ -5950,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms Together | 227695 | [227695-the-backrooms-together.json](./227695-the-backrooms-together.json) |
 | The Backrooms VR | 200518 | [200518-the-backrooms-vr.json](./200518-the-backrooms-vr.json) |
 | The Backrooms World | 204671 | [204671-the-backrooms-world.json](./204671-the-backrooms-world.json) |
+| The Backrooms, The Way Back Up | 320079 | [320079-the-backrooms-the-way-back-up.json](./320079-the-backrooms-the-way-back-up.json) |
 | The Backrooms: Anomaly Containment Unit | 339219 | [339219-the-backrooms-anomaly-containment-unit.json](./339219-the-backrooms-anomaly-containment-unit.json) |
 | The Backrooms: Deeper | 201535 | [201535-the-backrooms-deeper.json](./201535-the-backrooms-deeper.json) |
 | The Backrooms: Escape | 272252 | [272252-the-backrooms-escape.json](./272252-the-backrooms-escape.json) |
@@ -7118,6 +7121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Classroom 2 | 361307 | [361307-the-classroom-2.json](./361307-the-classroom-2.json) |
 | The Classroom 3 | 396446 | [396446-the-classroom-3.json](./396446-the-classroom-3.json) |
 | The Classrooms | 212853 | [212853-the-classrooms.json](./212853-the-classrooms.json) |
+| The Clean Knife | 320076 | [320076-the-clean-knife.json](./320076-the-clean-knife.json) |
 | The Clean Up Clyde Collection | 111874 | [111874-the-clean-up-clyde-collection.json](./111874-the-clean-up-clyde-collection.json) |
 | The Cleaner | 198503 | [198503-the-cleaner.json](./198503-the-cleaner.json) |
 | The Cleaner | 403681 | [403681-the-cleaner.json](./403681-the-cleaner.json) |
@@ -9034,6 +9038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fateful Saint’s Love | 254944 | [254944-the-fateful-saint-s-love.json](./254944-the-fateful-saint-s-love.json) |
 | The Fates of Twinion | 2521 | [2521-the-fates-of-twinion.json](./2521-the-fates-of-twinion.json) |
 | The Father | 184338 | [184338-the-father.json](./184338-the-father.json) |
+| The Father's Story | 320056 | [320056-the-fathers-story.json](./320056-the-fathers-story.json) |
 | The Fatum | 361453 | [361453-the-fatum.json](./361453-the-fatum.json) |
 | The Fazbear Facility | 206591 | [206591-the-fazbear-facility.json](./206591-the-fazbear-facility.json) |
 | The Fear | 94356 | [94356-the-fear.json](./94356-the-fear.json) |
@@ -9683,6 +9688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost of Joe Papp: 101 Ways to Kill Writer's Block | 116735 | [116735-the-ghost-of-joe-papp-101-ways-to-kill-writers-block.json](./116735-the-ghost-of-joe-papp-101-ways-to-kill-writers-block.json) |
 | The Ghost of Nichishima | 319700 | [319700-the-ghost-of-nichishima.json](./319700-the-ghost-of-nichishima.json) |
 | The Ghost of Paris | 187974 | [187974-the-ghost-of-paris.json](./187974-the-ghost-of-paris.json) |
+| The Ghost of Redstone Manor | 319907 | [319907-the-ghost-of-redstone-manor.json](./319907-the-ghost-of-redstone-manor.json) |
 | The Ghost Of Solaris | 396588 | [396588-the-ghost-of-solaris.json](./396588-the-ghost-of-solaris.json) |
 | The Ghost of Us | 313880 | [313880-the-ghost-of-us.json](./313880-the-ghost-of-us.json) |
 | The Ghost of You | 113236 | [113236-the-ghost-of-you.json](./113236-the-ghost-of-you.json) |
@@ -11535,6 +11541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Bug | 339194 | [339194-the-last-bug.json](./339194-the-last-bug.json) |
 | The Last Bug | 371339 | [371339-the-last-bug.json](./371339-the-last-bug.json) |
 | The Last Bullet | 117784 | [117784-the-last-bullet.json](./117784-the-last-bullet.json) |
+| The Last Bullet | 320049 | [320049-the-last-bullet.json](./320049-the-last-bullet.json) |
 | The Last Cadet | 172966 | [172966-the-last-cadet.json](./172966-the-last-cadet.json) |
 | The Last Camp | 334177 | [334177-the-last-camp.json](./334177-the-last-camp.json) |
 | The Last Camp 1990 | 289997 | [289997-the-last-camp-1990.json](./289997-the-last-camp-1990.json) |
@@ -14194,6 +14201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pact | 251374 | [251374-the-pact.json](./251374-the-pact.json) |
 | The Pact | 374568 | [374568-the-pact.json](./374568-the-pact.json) |
 | The Pact | 401478 | [401478-the-pact.json](./401478-the-pact.json) |
+| The Paddock | 320078 | [320078-the-paddock.json](./320078-the-paddock.json) |
 | The Paddy Field | 328934 | [328934-the-paddy-field.json](./328934-the-paddy-field.json) |
 | The Padre | 74907 | [74907-the-padre.json](./74907-the-padre.json) |
 | The Pagemaster | 209009 | [209009-the-pagemaster.json](./209009-the-pagemaster.json) |
@@ -14292,6 +14300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Path to Luma | 38641 | [38641-the-path-to-luma.json](./38641-the-path-to-luma.json) |
 | The Path to Memento Mori | 269989 | [269989-the-path-to-memento-mori.json](./269989-the-path-to-memento-mori.json) |
 | The Paths We Cross | 392239 | [392239-the-paths-we-cross.json](./392239-the-paths-we-cross.json) |
+| The Patient | 319903 | [319903-the-patient.json](./319903-the-patient.json) |
 | The Patient: After Hours | 207495 | [207495-the-patient-after-hours.json](./207495-the-patient-after-hours.json) |
 | The Patient: Can You Escape? | 325832 | [325832-the-patient-can-you-escape.json](./325832-the-patient-can-you-escape.json) |
 | The Patrician | 7353 | [7353-the-patrician.json](./7353-the-patrician.json) |
@@ -19543,6 +19552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thor: The Dark World - The Official Game | 62214 | [62214-thor-the-dark-world-the-official-game.json](./62214-thor-the-dark-world-the-official-game.json) |
 | Thor: War of Tapnarok | 114662 | [114662-thor-war-of-tapnarok.json](./114662-thor-war-of-tapnarok.json) |
 | Thor.n | 77713 | [77713-thor-n.json](./77713-thor-n.json) |
+| Thor's Breakout | 320097 | [320097-thors-breakout.json](./320097-thors-breakout.json) |
 | Thor's Legacy | 298135 | [298135-thors-legacy.json](./298135-thors-legacy.json) |
 | Thorgal | 290773 | [290773-thorgal.json](./290773-thorgal.json) |
 | Thorgard | 288610 | [288610-thorgard.json](./288610-thorgard.json) |
@@ -22193,6 +22203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Escape | 288605 | [288605-time-to-escape.json](./288605-time-to-escape.json) |
 | Time to Feed | 184691 | [184691-time-to-feed.json](./184691-time-to-feed.json) |
 | Time to Fight | 114319 | [114319-time-to-fight.json](./114319-time-to-fight.json) |
+| Time to Go | 320091 | [320091-time-to-go.json](./320091-time-to-go.json) |
 | Time to Golf | 143711 | [143711-time-to-golf.json](./143711-time-to-golf.json) |
 | Time to Hunt | 188320 | [188320-time-to-hunt.json](./188320-time-to-hunt.json) |
 | Time to Hunt | 200525 | [200525-time-to-hunt.json](./200525-time-to-hunt.json) |
