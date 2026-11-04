@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Maze | 72969 | [72969-mad-maze.json](./72969-mad-maze.json) |
 | Mad Men Football | 85272 | [85272-mad-men-football.json](./85272-mad-men-football.json) |
 | Mad Merchant | 408875 | [408875-mad-merchant.json](./408875-mad-merchant.json) |
+| Mad Metal | 322460 | [322460-mad-metal.json](./322460-mad-metal.json) |
 | Mad Miner | 231846 | [231846-mad-miner.json](./231846-mad-miner.json) |
 | Mad Miner 2 | 318982 | [318982-mad-miner-2.json](./318982-mad-miner-2.json) |
 | Mad Mix 2: El Castillo de los Fantasmas | 73468 | [73468-mad-mix-2-el-castillo-de-los-fantasmas.json](./73468-mad-mix-2-el-castillo-de-los-fantasmas.json) |
@@ -4399,10 +4400,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maruta Escape | 293166 | [293166-maruta-escape.json](./293166-maruta-escape.json) |
 | Marvel 1943: Rise of Hydra | 216315 | [216315-marvel-1943-rise-of-hydra.json](./216315-marvel-1943-rise-of-hydra.json) |
 | Marvel 2099: One Nation Under Doom | 144263 | [144263-marvel-2099-one-nation-under-doom.json](./144263-marvel-2099-one-nation-under-doom.json) |
+| Marvel 5DX Legacy | 322473 | [322473-marvel-5dx-legacy.json](./322473-marvel-5dx-legacy.json) |
 | Marvel Adventures | 356054 | [356054-marvel-adventures.json](./356054-marvel-adventures.json) |
 | Marvel Avengers Academy | 18028 | [18028-marvel-avengers-academy.json](./18028-marvel-avengers-academy.json) |
 | Marvel Avengers Alliance Tactics | 61694 | [61694-marvel-avengers-alliance-tactics.json](./61694-marvel-avengers-alliance-tactics.json) |
 | Marvel Avengers: Battle for Earth | 5315 | [5315-marvel-avengers-battle-for-earth.json](./5315-marvel-avengers-battle-for-earth.json) |
+| Marvel Collect! by Topps | 322472 | [322472-marvel-collect-by-topps.json](./322472-marvel-collect-by-topps.json) |
 | Marvel Contest of Champions | 28107 | [28107-marvel-contest-of-champions.json](./28107-marvel-contest-of-champions.json) |
 | Marvel Cosmic Invasion: Cyclops & The Thing | 411354 | [411354-marvel-cosmic-invasion-cyclops-and-the-thing.json](./411354-marvel-cosmic-invasion-cyclops-and-the-thing.json) |
 | Marvel Disk Wars: Avengers - Ultimate Heroes | 61656 | [61656-marvel-disk-wars-avengers-ultimate-heroes.json](./61656-marvel-disk-wars-avengers-ultimate-heroes.json) |
@@ -4410,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel End Time Arena | 89254 | [89254-marvel-end-time-arena.json](./89254-marvel-end-time-arena.json) |
 | Marvel First Alliance | 300380 | [300380-marvel-first-alliance.json](./300380-marvel-first-alliance.json) |
 | Marvel Future Fight | 24598 | [24598-marvel-future-fight.json](./24598-marvel-future-fight.json) |
+| Marvel Hero Tales | 322474 | [322474-marvel-hero-tales.json](./322474-marvel-hero-tales.json) |
 | Marvel Heroes | 220262 | [220262-marvel-heroes.json](./220262-marvel-heroes.json) |
 | Marvel Heroes | 363910 | [363910-marvel-heroes.json](./363910-marvel-heroes.json) |
 | Marvel Heroes | 50867 | [50867-marvel-heroes.json](./50867-marvel-heroes.json) |
@@ -4486,6 +4490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Heroes: 070 - Story Mod: Daredevil Challenge | 363511 | [363511-marvel-heroes-070-story-mod-daredevil-challenge.json](./363511-marvel-heroes-070-story-mod-daredevil-challenge.json) |
 | Marvel Heroes: Android Onslaught | 245454 | [245454-marvel-heroes-android-onslaught.json](./245454-marvel-heroes-android-onslaught.json) |
 | Marvel Heroes: HeroesVillains | 245453 | [245453-marvel-heroes-heroesvillains.json](./245453-marvel-heroes-heroesvillains.json) |
+| Marvel HQ | 322471 | [322471-marvel-hq.json](./322471-marvel-hq.json) |
 | Marvel Kapow! | 92612 | [92612-marvel-kapow.json](./92612-marvel-kapow.json) |
 | Marvel Land | 41087 | [41087-marvel-land.json](./41087-marvel-land.json) |
 | Marvel MaXimum Collection | 392813 | [392813-marvel-maximum-collection.json](./392813-marvel-maximum-collection.json) |
@@ -5709,6 +5714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -18223,6 +18229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mu: Dark Epoch | 323723 | [323723-mu-dark-epoch.json](./323723-mu-dark-epoch.json) |
 | Muay Thai | 349887 | [349887-muay-thai.json](./349887-muay-thai.json) |
 | Muay Thai Fighting | 104369 | [104369-muay-thai-fighting.json](./104369-muay-thai-fighting.json) |
+| Mubosama | 322481 | [322481-mubosama.json](./322481-mubosama.json) |
 | Much Love, BJP | 59696 | [59696-much-love-bjp.json](./59696-much-love-bjp.json) |
 | Mucha Lucha! Mascaritas of the Lost Code | 64836 | [64836-mucha-lucha-mascaritas-of-the-lost-code.json](./64836-mucha-lucha-mascaritas-of-the-lost-code.json) |
 | Muchacho Bean | 293638 | [293638-muchacho-bean.json](./293638-muchacho-bean.json) |
