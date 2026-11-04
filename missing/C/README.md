@@ -4102,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataire: Gambling with cats | 215501 | [215501-cataire-gambling-with-cats.json](./215501-cataire-gambling-with-cats.json) |
 | Catal Carta | 416639 | [416639-catal-carta.json](./416639-catal-carta.json) |
 | Catale | 337289 | [337289-catale.json](./337289-catale.json) |
+| Catalina's Horror Adventure | 306856 | [306856-catalinas-horror-adventure.json](./306856-catalinas-horror-adventure.json) |
 | Cataline | 209710 | [209710-cataline.json](./209710-cataline.json) |
 | Cataline HD | 175315 | [175315-cataline-hd.json](./175315-cataline-hd.json) |
 | Cataline Kitty | 90849 | [90849-cataline-kitty.json](./90849-cataline-kitty.json) |
@@ -7302,6 +7303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip's Challenge 2 | 22151 | [22151-chips-challenge-2.json](./22151-chips-challenge-2.json) |
 | Chip’s Tips | 391988 | [391988-chip-s-tips.json](./391988-chip-s-tips.json) |
 | Chipdle | 395838 | [395838-chipdle.json](./395838-chipdle.json) |
+| Chipi Chapa: Brick Breaker | 306887 | [306887-chipi-chapa-brick-breaker.json](./306887-chipi-chapa-brick-breaker.json) |
 | Chipichapas Evolution: Clicker | 288147 | [288147-chipichapas-evolution-clicker.json](./288147-chipichapas-evolution-clicker.json) |
 | Chipmatic | 355037 | [355037-chipmatic.json](./355037-chipmatic.json) |
 | Chipmonk! | 114947 | [114947-chipmonk.json](./114947-chipmonk.json) |
@@ -18579,6 +18581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Ninja | 6754 | [6754-cubic-ninja.json](./6754-cubic-ninja.json) |
 | Cubic Odyssey | 329371 | [329371-cubic-odyssey.json](./329371-cubic-odyssey.json) |
 | Cubic Parking | 221332 | [221332-cubic-parking.json](./221332-cubic-parking.json) |
+| Cubic Riders | 306891 | [306891-cubic-riders.json](./306891-cubic-riders.json) |
 | Cubic Run | 322428 | [322428-cubic-run.json](./322428-cubic-run.json) |
 | Cubic Snake | 184388 | [184388-cubic-snake.json](./184388-cubic-snake.json) |
 | Cubic Spree | 376862 | [376862-cubic-spree.json](./376862-cubic-spree.json) |
@@ -18589,6 +18592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubicatch | 273809 | [273809-cubicatch.json](./273809-cubicatch.json) |
 | CubicBan | 218565 | [218565-cubicban.json](./218565-cubicban.json) |
 | Cubicity: Slide puzzle | 115947 | [115947-cubicity-slide-puzzle.json](./115947-cubicity-slide-puzzle.json) |
+| Cubicle Cat Superstar | 306910 | [306910-cubicle-cat-superstar.json](./306910-cubicle-cat-superstar.json) |
 | Cubicle Farter | 296863 | [296863-cubicle-farter.json](./296863-cubicle-farter.json) |
 | Cubicle Quest | 35762 | [35762-cubicle-quest.json](./35762-cubicle-quest.json) |
 | Cubicle Simulator | 185296 | [185296-cubicle-simulator.json](./185296-cubicle-simulator.json) |
