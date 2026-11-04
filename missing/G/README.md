@@ -5847,6 +5847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godherja: The Dying World | 356006 | [356006-godherja-the-dying-world.json](./356006-godherja-the-dying-world.json) |
 | Godhood | 106679 | [106679-godhood.json](./106679-godhood.json) |
 | Godhood: Deluxe Edition | 154207 | [154207-godhood-deluxe-edition.json](./154207-godhood-deluxe-edition.json) |
+| Godinc | 342515 | [342515-godinc.json](./342515-godinc.json) |
 | Godkiller | 161172 | [161172-godkiller.json](./161172-godkiller.json) |
 | Godking: Master of Rituals | 132411 | [132411-godking-master-of-rituals.json](./132411-godking-master-of-rituals.json) |
 | Godland: The Fire Quest | 202666 | [202666-godland-the-fire-quest.json](./202666-godland-the-fire-quest.json) |
