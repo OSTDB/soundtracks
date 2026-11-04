@@ -2371,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Kappei | 385531 | [385531-dash-kappei.json](./385531-dash-kappei.json) |
 | Dash King | 240670 | [240670-dash-king.json](./240670-dash-king.json) |
 | Dash Lamb | 154064 | [154064-dash-lamb.json](./154064-dash-lamb.json) |
+| Dash n Cry | 305709 | [305709-dash-n-cry.json](./305709-dash-n-cry.json) |
 | Dash n Cry: Bursting | 412070 | [412070-dash-n-cry-bursting.json](./412070-dash-n-cry-bursting.json) |
 | Dash N Slash | 332869 | [332869-dash-n-slash.json](./332869-dash-n-slash.json) |
 | Dash of Destruction | 8981 | [8981-dash-of-destruction.json](./8981-dash-of-destruction.json) |
@@ -3877,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadballCrusader | 290951 | [290951-deadballcrusader.json](./290951-deadballcrusader.json) |
 | Deadbeat | 318449 | [318449-deadbeat.json](./318449-deadbeat.json) |
 | Deadbeat Heroes | 74197 | [74197-deadbeat-heroes.json](./74197-deadbeat-heroes.json) |
+| Deadbeat Wizard | 305685 | [305685-deadbeat-wizard.json](./305685-deadbeat-wizard.json) |
 | Deadbeats Encore | 177201 | [177201-deadbeats-encore.json](./177201-deadbeats-encore.json) |
 | Deadblast | 248331 | [248331-deadblast.json](./248331-deadblast.json) |
 | DeadBlitz | 261655 | [261655-deadblitz.json](./261655-deadblitz.json) |
@@ -9084,6 +9086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensional Gears | 214047 | [214047-dimensional-gears.json](./214047-dimensional-gears.json) |
 | Dimensional Illusion | 324879 | [324879-dimensional-illusion.json](./324879-dimensional-illusion.json) |
 | Dimensional Intersection | 33404 | [33404-dimensional-intersection.json](./33404-dimensional-intersection.json) |
+| Dimensional Phobos Threat | 305701 | [305701-dimensional-phobos-threat.json](./305701-dimensional-phobos-threat.json) |
 | Dimensional Racing Board | 389654 | [389654-dimensional-racing-board.json](./389654-dimensional-racing-board.json) |
 | Dimensional Rift | 29746 | [29746-dimensional-rift.json](./29746-dimensional-rift.json) |
 | Dimensional Shift Awakening | 277268 | [277268-dimensional-shift-awakening.json](./277268-dimensional-shift-awakening.json) |
@@ -11336,6 +11339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Veterinary: Training Hospital Near Me | 328551 | [328551-dog-veterinary-training-hospital-near-me.json](./328551-dog-veterinary-training-hospital-near-me.json) |
 | Dog vs Cat Othello | 313537 | [313537-dog-vs-cat-othello.json](./313537-dog-vs-cat-othello.json) |
 | Dog Walking Adventures | 319861 | [319861-dog-walking-adventures.json](./319861-dog-walking-adventures.json) |
+| Dog Walking Simulator | 305699 | [305699-dog-walking-simulator.json](./305699-dog-walking-simulator.json) |
 | Dog Walking, Dog Running, and Dog Still | 135783 | [135783-dog-walking-dog-running-and-dog-still.json](./135783-dog-walking-dog-running-and-dog-still.json) |
 | Dog Wants Treat | 184719 | [184719-dog-wants-treat.json](./184719-dog-wants-treat.json) |
 | Dog Wash! | 225656 | [225656-dog-wash.json](./225656-dog-wash.json) |
