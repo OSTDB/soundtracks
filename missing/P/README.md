@@ -2978,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PathSketch | 352241 | [352241-pathsketch.json](./352241-pathsketch.json) |
 | Pathstorm | 71512 | [71512-pathstorm.json](./71512-pathstorm.json) |
 | Pathstow Mystery VR | 68753 | [68753-pathstow-mystery-vr.json](./68753-pathstow-mystery-vr.json) |
+| PathUp! | 338468 | [338468-pathup.json](./338468-pathup.json) |
 | Pathway | 133975 | [133975-pathway.json](./133975-pathway.json) |
 | Pathway to Glory | 6270 | [6270-pathway-to-glory.json](./6270-pathway-to-glory.json) |
 | Pathway: Desire | 180550 | [180550-pathway-desire.json](./180550-pathway-desire.json) |
