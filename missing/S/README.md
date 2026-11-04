@@ -3802,6 +3802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SE3 Protocol: Last Drop | 415877 | [415877-se3-protocol-last-drop.json](./415877-se3-protocol-last-drop.json) |
 | Sea Animal City | 60741 | [60741-sea-animal-city.json](./60741-sea-animal-city.json) |
 | Sea Animal Kingdom Battle Simulator: Sea Monster | 104466 | [104466-sea-animal-kingdom-battle-simulator-sea-monster.json](./104466-sea-animal-kingdom-battle-simulator-sea-monster.json) |
+| Sea Balloon | 336296 | [336296-sea-balloon.json](./336296-sea-balloon.json) |
 | Sea Bass Fishing | 176136 | [176136-sea-bass-fishing.json](./176136-sea-bass-fishing.json) |
 | Sea Bass Fishing 2 | 299829 | [299829-sea-bass-fishing-2.json](./299829-sea-bass-fishing-2.json) |
 | Sea Battle | 134381 | [134381-sea-battle.json](./134381-sea-battle.json) |
@@ -16729,6 +16730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Emerald Madness | 316340 | [316340-sonic-emerald-madness.json](./316340-sonic-emerald-madness.json) |
 | Sonic Encore | 265070 | [265070-sonic-encore.json](./265070-sonic-encore.json) |
 | Sonic Endless Adventure | 316343 | [316343-sonic-endless-adventure.json](./316343-sonic-endless-adventure.json) |
+| Sonic Entropy | 336267 | [336267-sonic-entropy.json](./336267-sonic-entropy.json) |
 | Sonic Epoch | 330789 | [330789-sonic-epoch.json](./330789-sonic-epoch.json) |
 | Sonic Epoch Advance | 213239 | [213239-sonic-epoch-advance.json](./213239-sonic-epoch-advance.json) |
 | Sonic Epsilon | 332553 | [332553-sonic-epsilon.json](./332553-sonic-epsilon.json) |
@@ -22256,6 +22258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro 2: Ripto's Rage! | 1577 | [1577-spyro-2-riptos-rage.json](./1577-spyro-2-riptos-rage.json) |
 | Spyro 2: Ripto's Rage! - Collector's Edition | 43685 | [43685-spyro-2-riptos-rage-collectors-edition.json](./43685-spyro-2-riptos-rage-collectors-edition.json) |
 | Spyro 2: Season of Flame | 1588 | [1588-spyro-2-season-of-flame.json](./1588-spyro-2-season-of-flame.json) |
+| Spyro 4 | 336310 | [336310-spyro-4.json](./336310-spyro-4.json) |
 | Spyro Orange: The Cortex Conspiracy | 1590 | [1590-spyro-orange-the-cortex-conspiracy.json](./1590-spyro-orange-the-cortex-conspiracy.json) |
 | Spyro Superpack | 130303 | [130303-spyro-superpack.json](./130303-spyro-superpack.json) |
 | Spyro the Dragon | 142213 | [142213-spyro-the-dragon.json](./142213-spyro-the-dragon.json) |
@@ -25695,6 +25698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticker Delight | 311854 | [311854-sticker-delight.json](./311854-sticker-delight.json) |
 | Sticker Kittens | 270489 | [270489-sticker-kittens.json](./270489-sticker-kittens.json) |
 | Sticker Picker | 422017 | [422017-sticker-picker.json](./422017-sticker-picker.json) |
+| Sticker/Ball | 336304 | [336304-sticker-ball.json](./336304-sticker-ball.json) |
 | Stickerino | 396195 | [396195-stickerino.json](./396195-stickerino.json) |
 | Stickers for You | 306592 | [306592-stickers-for-you.json](./306592-stickers-for-you.json) |
 | Stickets | 22156 | [22156-stickets.json](./22156-stickets.json) |
@@ -25827,6 +25831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Balls | 94905 | [94905-sticky-balls.json](./94905-sticky-balls.json) |
 | Sticky Blocks | 62389 | [62389-sticky-blocks.json](./62389-sticky-blocks.json) |
 | Sticky Business: Book of Shadows | 344159 | [344159-sticky-business-book-of-shadows.json](./344159-sticky-business-book-of-shadows.json) |
+| Sticky Business: Complete Bundle | 336308 | [336308-sticky-business-complete-bundle.json](./336308-sticky-business-complete-bundle.json) |
 | Sticky Business: Seaside Tales | 411002 | [411002-sticky-business-seaside-tales.json](./411002-sticky-business-seaside-tales.json) |
 | Sticky Castle | 232031 | [232031-sticky-castle.json](./232031-sticky-castle.json) |
 | Sticky Cats | 177174 | [177174-sticky-cats.json](./177174-sticky-cats.json) |
@@ -26255,6 +26260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Warfare | 248832 | [248832-storm-warfare.json](./248832-storm-warfare.json) |
 | Storm Wars | 56482 | [56482-storm-wars.json](./56482-storm-wars.json) |
 | Storm Wars CCG | 26236 | [26236-storm-wars-ccg.json](./26236-storm-wars-ccg.json) |
+| Storm Wings | 336320 | [336320-storm-wings.json](./336320-storm-wings.json) |
 | Storm: Frontline Nation | 10928 | [10928-storm-frontline-nation.json](./10928-storm-frontline-nation.json) |
 | Storm: Lost Normality | 186409 | [186409-storm-lost-normality.json](./186409-storm-lost-normality.json) |
 | Storm's Eye | 295303 | [295303-storms-eye.json](./295303-storms-eye.json) |
@@ -29234,6 +29240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Action Pak | 56452 | [56452-super-action-pak.json](./56452-super-action-pak.json) |
 | Super Action Soccer | 40907 | [40907-super-action-soccer.json](./40907-super-action-soccer.json) |
 | Super Adventure | 295492 | [295492-super-adventure.json](./295492-super-adventure.json) |
+| Super Adventure | 336286 | [336286-super-adventure.json](./336286-super-adventure.json) |
 | Super Adventure Island | 9064 | [9064-super-adventure-island.json](./9064-super-adventure-island.json) |
 | Super Adventure Island II | 9065 | [9065-super-adventure-island-ii.json](./9065-super-adventure-island-ii.json) |
 | Super Adventure Pals | 59640 | [59640-super-adventure-pals.json](./59640-super-adventure-pals.json) |
