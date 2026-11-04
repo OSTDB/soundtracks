@@ -5448,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chambered | 385381 | [385381-chambered.json](./385381-chambered.json) |
 | Chambered | 40708 | [40708-chambered.json](./40708-chambered.json) |
 | Chambered Fate | 267249 | [267249-chambered-fate.json](./267249-chambered-fate.json) |
+| ChamberedGML | 325200 | [325200-chamberedgml.json](./325200-chamberedgml.json) |
 | Chamberflame | 275540 | [275540-chamberflame.json](./275540-chamberflame.json) |
 | ChamberLocked | 219995 | [219995-chamberlocked.json](./219995-chamberlocked.json) |
 | Chamberlore | 378435 | [378435-chamberlore.json](./378435-chamberlore.json) |
@@ -8272,6 +8273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chumaky | 361042 | [361042-chumaky.json](./361042-chumaky.json) |
 | Chumbo Texas | 335709 | [335709-chumbo-texas.json](./335709-chumbo-texas.json) |
 | Chumbo.Zone | 133899 | [133899-chumbo-zone.json](./133899-chumbo-zone.json) |
+| Chumini: Tiny Army | 325289 | [325289-chumini-tiny-army.json](./325289-chumini-tiny-army.json) |
 | Chumlee's Adventure: The Quest for Pinky | 142116 | [142116-chumlees-adventure-the-quest-for-pinky.json](./142116-chumlees-adventure-the-quest-for-pinky.json) |
 | Chumps Chained | 391994 | [391994-chumps-chained.json](./391994-chumps-chained.json) |
 | Chungo's Gauntlet | 256900 | [256900-chungos-gauntlet.json](./256900-chungos-gauntlet.json) |
@@ -14631,6 +14633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmopolitan | 269749 | [269749-cosmopolitan.json](./269749-cosmopolitan.json) |
 | Cosmopoly | 207653 | [207653-cosmopoly.json](./207653-cosmopoly.json) |
 | Cosmorbit | 384537 | [384537-cosmorbit.json](./384537-cosmorbit.json) |
+| Cosmorons | 325211 | [325211-cosmorons.json](./325211-cosmorons.json) |
 | Cosmos | 127861 | [127861-cosmos.json](./127861-cosmos.json) |
 | Cosmos | 281862 | [281862-cosmos.json](./281862-cosmos.json) |
 | Cosmos | 76611 | [76611-cosmos.json](./76611-cosmos.json) |
@@ -18943,6 +18946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Crescent Isle DX | 35398 | [35398-curse-of-the-crescent-isle-dx.json](./35398-curse-of-the-crescent-isle-dx.json) |
 | Curse of the Dead Gods | 125373 | [125373-curse-of-the-dead-gods.json](./125373-curse-of-the-dead-gods.json) |
 | Curse of the Deadwood | 172152 | [172152-curse-of-the-deadwood.json](./172152-curse-of-the-deadwood.json) |
+| Curse of the Dragonbeast | 325220 | [325220-curse-of-the-dragonbeast.json](./325220-curse-of-the-dragonbeast.json) |
 | Curse of the Draugr Kings | 244767 | [244767-curse-of-the-draugr-kings.json](./244767-curse-of-the-draugr-kings.json) |
 | Curse of the Dungeon | 126580 | [126580-curse-of-the-dungeon.json](./126580-curse-of-the-dungeon.json) |
 | Curse of the Ethereal Dragon | 384301 | [384301-curse-of-the-ethereal-dragon.json](./384301-curse-of-the-ethereal-dragon.json) |
