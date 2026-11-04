@@ -6739,6 +6739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Farm | 227950 | [227950-every-farm.json](./227950-every-farm.json) |
 | Every Good Bird Deserves Flappyness | 61967 | [61967-every-good-bird-deserves-flappyness.json](./61967-every-good-bird-deserves-flappyness.json) |
 | Every Grocery Store Has One Product That Binds Everything in a Unified Energy | 241222 | [241222-every-grocery-store-has-one-product-that-binds-everything-in-a-unified-energy.json](./241222-every-grocery-store-has-one-product-that-binds-everything-in-a-unified-energy.json) |
+| Every Hero | 315724 | [315724-every-hero.json](./315724-every-hero.json) |
 | Every Hue of You | 302954 | [302954-every-hue-of-you.json](./302954-every-hue-of-you.json) |
 | Every Level Iggy! | 323064 | [323064-every-level-iggy.json](./323064-every-level-iggy.json) |
 | Every Morning My Alarm Clock Kills Me | 387001 | [387001-every-morning-my-alarm-clock-kills-me.json](./387001-every-morning-my-alarm-clock-kills-me.json) |
