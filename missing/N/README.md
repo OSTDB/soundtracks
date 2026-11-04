@@ -5369,6 +5369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Type | 56235 | [56235-nitro-type.json](./56235-nitro-type.json) |
 | Nitro: Stream Racing | 231860 | [231860-nitro-stream-racing.json](./231860-nitro-stream-racing.json) |
 | NitroClash.io | 83294 | [83294-nitroclash-io.json](./83294-nitroclash-io.json) |
+| Nitrogen Narcosis | 325979 | [325979-nitrogen-narcosis.json](./325979-nitrogen-narcosis.json) |
 | Nitroglycerin | 272104 | [272104-nitroglycerin.json](./272104-nitroglycerin.json) |
 | Nitrojet | 190327 | [190327-nitrojet.json](./190327-nitrojet.json) |
 | Nitrokill | 390817 | [390817-nitrokill.json](./390817-nitrokill.json) |
