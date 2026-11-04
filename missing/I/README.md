@@ -2039,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iljimae-jeon: Manman Papa Sikjeok-pyeon | 145615 | [145615-iljimae-jeon-manman-papa-sikjeok-pyeon.json](./145615-iljimae-jeon-manman-papa-sikjeok-pyeon.json) |
 | Iljimae-jeon: Manpa Sikjeok-pyeon | 258846 | [258846-iljimae-jeon-manpa-sikjeok-pyeon.json](./258846-iljimae-jeon-manpa-sikjeok-pyeon.json) |
 | Ill Flos | 394288 | [394288-ill-flos.json](./394288-ill-flos.json) |
+| Ill Natured | 340665 | [340665-ill-natured.json](./340665-ill-natured.json) |
 | Ill Ness | 217251 | [217251-ill-ness.json](./217251-ill-ness.json) |
 | Ill Will | 125834 | [125834-ill-will.json](./125834-ill-will.json) |
 | Illagus | 133390 | [133390-illagus.json](./133390-illagus.json) |
