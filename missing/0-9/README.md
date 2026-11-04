@@ -1580,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2004 | 288145 | [288145-2004.json](./288145-2004.json) |
 | 2004 Real Soccer | 116344 | [116344-2004-real-soccer.json](./116344-2004-real-soccer.json) |
 | 2004: Space Becherovka | 391035 | [391035-2004-space-becherovka.json](./391035-2004-space-becherovka.json) |
+| 2004Scape | 331042 | [331042-2004scape.json](./331042-2004scape.json) |
 | 2005 Minigame Multicart | 40792 | [40792-2005-minigame-multicart.json](./40792-2005-minigame-multicart.json) |
 | 2005 Real Soccer | 116345 | [116345-2005-real-soccer.json](./116345-2005-real-soccer.json) |
 | 2005: A Game of Macroeconomics | 299559 | [299559-2005-a-game-of-macroeconomics.json](./299559-2005-a-game-of-macroeconomics.json) |
