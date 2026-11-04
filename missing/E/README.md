@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Eldoria | 333541 | [333541-echoes-of-eldoria.json](./333541-echoes-of-eldoria.json) |
 | Echoes of Eternea | 65281 | [65281-echoes-of-eternea.json](./65281-echoes-of-eternea.json) |
 | Echoes of Etheria | 266788 | [266788-echoes-of-etheria.json](./266788-echoes-of-etheria.json) |
+| Echoes of Exile | 311936 | [311936-echoes-of-exile.json](./311936-echoes-of-exile.json) |
 | Echoes of Fear | 275738 | [275738-echoes-of-fear.json](./275738-echoes-of-fear.json) |
 | Echoes of Fear | 384155 | [384155-echoes-of-fear.json](./384155-echoes-of-fear.json) |
 | Echoes of Forgotten Dreams | 340234 | [340234-echoes-of-forgotten-dreams.json](./340234-echoes-of-forgotten-dreams.json) |
