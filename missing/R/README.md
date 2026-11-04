@@ -2098,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratergy | 90532 | [90532-ratergy.json](./90532-ratergy.json) |
 | Rathe: The Beginning | 158379 | [158379-rathe-the-beginning.json](./158379-rathe-the-beginning.json) |
 | Ratings War | 34357 | [34357-ratings-war.json](./34357-ratings-war.json) |
+| Ratio (Rat Patio) | 337382 | [337382-ratio-rat-patio.json](./337382-ratio-rat-patio.json) |
 | Rations, Please! | 176970 | [176970-rations-please.json](./176970-rations-please.json) |
 | Ratking | 271600 | [271600-ratking.json](./271600-ratking.json) |
 | Ratman! | 321612 | [321612-ratman.json](./321612-ratman.json) |
@@ -7250,6 +7251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riftwalker | 178679 | [178679-riftwalker.json](./178679-riftwalker.json) |
 | Riftwalker | 381181 | [381181-riftwalker.json](./381181-riftwalker.json) |
 | Rig Racer 2 | 5123 | [5123-rig-racer-2.json](./5123-rig-racer-2.json) |
+| Rig Riot | 337384 | [337384-rig-riot.json](./337384-rig-riot.json) |
 | Rig'n' Roll: Cut-Throat Highway | 209162 | [209162-rign-roll-cut-throat-highway.json](./209162-rign-roll-cut-throat-highway.json) |
 | Rig'n'Roll | 10769 | [10769-rignroll.json](./10769-rignroll.json) |
 | Rig's Dream 3D | 28102 | [28102-rigs-dream-3d.json](./28102-rigs-dream-3d.json) |
@@ -8007,6 +8009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Legends | 174206 | [174206-river-legends.json](./174206-river-legends.json) |
 | River Legends: A Fly Fishing Adventure | 120706 | [120706-river-legends-a-fly-fishing-adventure.json](./120706-river-legends-a-fly-fishing-adventure.json) |
 | River Master | 158943 | [158943-river-master.json](./158943-river-master.json) |
+| River of Time Yarn | 337390 | [337390-river-of-time-yarn.json](./337390-river-of-time-yarn.json) |
 | River Patrol | 18478 | [18478-river-patrol.json](./18478-river-patrol.json) |
 | River Pirates | 264499 | [264499-river-pirates.json](./264499-river-pirates.json) |
 | River Raid | 5693 | [5693-river-raid.json](./5693-river-raid.json) |
