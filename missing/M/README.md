@@ -7972,6 +7972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMod | 287075 | [287075-megamod.json](./287075-megamod.json) |
 | Megamonk | 386199 | [386199-megamonk.json](./386199-megamonk.json) |
 | MegaMorph | 97354 | [97354-megamorph.json](./97354-megamorph.json) |
+| MegaMu | 323621 | [323621-megamu.json](./323621-megamu.json) |
 | Megan The Fox | 287331 | [287331-megan-the-fox.json](./287331-megan-the-fox.json) |
 | Megan's Adventure | 310067 | [310067-megans-adventure.json](./310067-megans-adventure.json) |
 | Meganaut | 340021 | [340021-meganaut.json](./340021-meganaut.json) |
