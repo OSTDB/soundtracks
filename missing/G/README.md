@@ -2971,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: Augured Homecoming | 398426 | [398426-genshin-impact-augured-homecoming.json](./398426-genshin-impact-augured-homecoming.json) |
 | Genshin Impact: Beneath the Light of Jadeite | 256974 | [256974-genshin-impact-beneath-the-light-of-jadeite.json](./256974-genshin-impact-beneath-the-light-of-jadeite.json) |
 | Genshin Impact: Blades Weaving Betwixt Brocade | 288670 | [288670-genshin-impact-blades-weaving-betwixt-brocade.json](./288670-genshin-impact-blades-weaving-betwixt-brocade.json) |
+| Genshin Impact: Day of the Flame's Return | 335597 | [335597-genshin-impact-day-of-the-flames-return.json](./335597-genshin-impact-day-of-the-flames-return.json) |
 | Genshin Impact: Duel! The Summoners' Summit! | 257480 | [257480-genshin-impact-duel-the-summoners-summit.json](./257480-genshin-impact-duel-the-summoners-summit.json) |
 | Genshin Impact: Flowers Resplendent on the Sun-Scorched Sojourn | 310514 | [310514-genshin-impact-flowers-resplendent-on-the-sun-scorched-sojourn.json](./310514-genshin-impact-flowers-resplendent-on-the-sun-scorched-sojourn.json) |
 | Genshin Impact: Homeward, He Who Caught the Wind | 389652 | [389652-genshin-impact-homeward-he-who-caught-the-wind.json](./389652-genshin-impact-homeward-he-who-caught-the-wind.json) |
@@ -6747,6 +6748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Morning Hon | 194328 | [194328-good-morning-hon.json](./194328-good-morning-hon.json) |
 | Good Morning Is A Social Construct | 231393 | [231393-good-morning-is-a-social-construct.json](./231393-good-morning-is-a-social-construct.json) |
 | Good Morning Is Good Night | 342027 | [342027-good-morning-is-good-night.json](./342027-good-morning-is-good-night.json) |
+| Good Morning Marie | 335592 | [335592-good-morning-marie.json](./335592-good-morning-marie.json) |
 | Good Morning My Darling | 377936 | [377936-good-morning-my-darling.json](./377936-good-morning-my-darling.json) |
 | Good Morning Phobos | 257306 | [257306-good-morning-phobos.json](./257306-good-morning-phobos.json) |
 | Good Morning, A.I. | 193259 | [193259-good-morning-a-i.json](./193259-good-morning-a-i.json) |
