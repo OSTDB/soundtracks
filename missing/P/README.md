@@ -9878,6 +9878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutonia 4: Back to Your Hole | 260952 | [260952-plutonia-4-back-to-your-hole.json](./260952-plutonia-4-back-to-your-hole.json) |
 | Plutonia 7: Going to the Hell | 260953 | [260953-plutonia-7-going-to-the-hell.json](./260953-plutonia-7-going-to-the-hell.json) |
 | Plutonia: Revisited Community Project | 138167 | [138167-plutonia-revisited-community-project.json](./138167-plutonia-revisited-community-project.json) |
+| Plutonic Visions | 308072 | [308072-plutonic-visions.json](./308072-plutonic-visions.json) |
 | Plutonium | 28597 | [28597-plutonium.json](./28597-plutonium.json) |
 | Plutonium Mario 64 | 260840 | [260840-plutonium-mario-64.json](./260840-plutonium-mario-64.json) |
 | Plutonium Pirates | 102363 | [102363-plutonium-pirates.json](./102363-plutonium-pirates.json) |
@@ -10835,6 +10836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Hero | 314728 | [314728-pokemon-hero.json](./314728-pokemon-hero.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
 | Pokémon HGSS: Sevii Islands | 327148 | [327148-pokemon-hgss-sevii-islands.json](./327148-pokemon-hgss-sevii-islands.json) |
+| Pokémon Hidden Place | 308100 | [308100-pokemon-hidden-place.json](./308100-pokemon-hidden-place.json) |
 | Pokémon Hoenn's Last Wish | 396514 | [396514-pokemon-hoenns-last-wish.json](./396514-pokemon-hoenns-last-wish.json) |
 | Pokémon Home | 141960 | [141960-pokemon-home.json](./141960-pokemon-home.json) |
 | Pokémon Hyper Emerald | 397757 | [397757-pokemon-hyper-emerald.json](./397757-pokemon-hyper-emerald.json) |
@@ -15471,6 +15473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project M EX Remix | 202916 | [202916-project-m-ex-remix.json](./202916-project-m-ex-remix.json) |
 | Project MA | 317422 | [317422-project-ma.json](./317422-project-ma.json) |
 | Project Madison | 183242 | [183242-project-madison.json](./183242-project-madison.json) |
+| Project Madness | 308134 | [308134-project-madness.json](./308134-project-madness.json) |
 | Project Madras | 283567 | [283567-project-madras.json](./283567-project-madras.json) |
 | Project Malice | 220660 | [220660-project-malice.json](./220660-project-malice.json) |
 | Project Mansion | 317605 | [317605-project-mansion.json](./317605-project-mansion.json) |
