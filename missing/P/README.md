@@ -13932,7 +13932,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: Rival Swords | 243129 | [243129-prince-of-persia-rival-swords.json](./243129-prince-of-persia-rival-swords.json) |
 | Prince of Persia: Rival Swords | 243130 | [243130-prince-of-persia-rival-swords.json](./243130-prince-of-persia-rival-swords.json) |
 | Prince of Persia: The Forgotten Sands | 142709 | [142709-prince-of-persia-the-forgotten-sands.json](./142709-prince-of-persia-the-forgotten-sands.json) |
-| Prince of Persia: The Forgotten Sands | 142710 | [142710-prince-of-persia-the-forgotten-sands.json](./142710-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Forgotten Sands | 142712 | [142712-prince-of-persia-the-forgotten-sands.json](./142712-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Forgotten Sands | 264363 | [264363-prince-of-persia-the-forgotten-sands.json](./264363-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Forgotten Sands | 320583 | [320583-prince-of-persia-the-forgotten-sands.json](./320583-prince-of-persia-the-forgotten-sands.json) |
