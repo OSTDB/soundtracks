@@ -5717,6 +5717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6483,6 +6484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanics | 399915 | [399915-mechanics.json](./399915-mechanics.json) |
 | Mechanics Touch | 399916 | [399916-mechanics-touch.json](./399916-mechanics-touch.json) |
 | MechAnimals | 327992 | [327992-mechanimals.json](./327992-mechanimals.json) |
+| Mechanines Tower Defense | 318330 | [318330-mechanines-tower-defense.json](./318330-mechanines-tower-defense.json) |
 | Mechanism | 183984 | [183984-mechanism.json](./183984-mechanism.json) |
 | Mechanism | 251718 | [251718-mechanism.json](./251718-mechanism.json) |
 | Mechanism | 68169 | [68169-mechanism.json](./68169-mechanism.json) |
@@ -10860,6 +10862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Survivors | 235365 | [235365-midnight-survivors.json](./235365-midnight-survivors.json) |
 | Midnight Swamp | 318198 | [318198-midnight-swamp.json](./318198-midnight-swamp.json) |
 | Midnight Syndrome | 304648 | [304648-midnight-syndrome.json](./304648-midnight-syndrome.json) |
+| Midnight T-Rex | 318335 | [318335-midnight-t-rex.json](./318335-midnight-t-rex.json) |
 | Midnight Taco | 336497 | [336497-midnight-taco.json](./336497-midnight-taco.json) |
 | Midnight Tales Vol.3: Christmas | 252541 | [252541-midnight-tales-vol-3-christmas.json](./252541-midnight-tales-vol-3-christmas.json) |
 | Midnight Terror: The Beginning | 192260 | [192260-midnight-terror-the-beginning.json](./192260-midnight-terror-the-beginning.json) |
@@ -12947,6 +12950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage Sugar Acacia | 385902 | [385902-mirage-sugar-acacia.json](./385902-mirage-sugar-acacia.json) |
 | Mirage: Arcane Warfare | 18147 | [18147-mirage-arcane-warfare.json](./18147-mirage-arcane-warfare.json) |
 | Mirage: Beyond the Screen | 278530 | [278530-mirage-beyond-the-screen.json](./278530-mirage-beyond-the-screen.json) |
+| Mirage: Ignis Fatuus | 318315 | [318315-mirage-ignis-fatuus.json](./318315-mirage-ignis-fatuus.json) |
 | Mirage: Illusions | 326977 | [326977-mirage-illusions.json](./326977-mirage-illusions.json) |
 | Mirage: Lost in the Liminal | 374579 | [374579-mirage-lost-in-the-liminal.json](./374579-mirage-lost-in-the-liminal.json) |
 | Mirage: Miracle Quest | 372172 | [372172-mirage-miracle-quest.json](./372172-mirage-miracle-quest.json) |
@@ -16052,6 +16056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonbringer | 413478 | [413478-moonbringer.json](./413478-moonbringer.json) |
 | Moonbuggy VR | 118006 | [118006-moonbuggy-vr.json](./118006-moonbuggy-vr.json) |
 | Mooncake Shop | 100989 | [100989-mooncake-shop.json](./100989-mooncake-shop.json) |
+| Mooncat | 318309 | [318309-mooncat.json](./318309-mooncat.json) |
 | Mooncat's Trio | 308976 | [308976-mooncats-trio.json](./308976-mooncats-trio.json) |
 | Moonchild | 252022 | [252022-moonchild.json](./252022-moonchild.json) |
 | Moonchild | 36180 | [36180-moonchild.json](./36180-moonchild.json) |
@@ -16816,6 +16821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortis Chronicles: Tale of Cowardice | 190012 | [190012-mortis-chronicles-tale-of-cowardice.json](./190012-mortis-chronicles-tale-of-cowardice.json) |
 | Morto: Chapter 1 | 163700 | [163700-morto-chapter-1.json](./163700-morto-chapter-1.json) |
 | Morto: Chapter 2 | 284497 | [284497-morto-chapter-2.json](./284497-morto-chapter-2.json) |
+| Mortol | 318311 | [318311-mortol.json](./318311-mortol.json) |
 | Mortol II | 318738 | [318738-mortol-ii.json](./318738-mortol-ii.json) |
 | Morton Subotnick's Hearing Music | 70078 | [70078-morton-subotnicks-hearing-music.json](./70078-morton-subotnicks-hearing-music.json) |
 | Morton Subotnick's Playing Music | 71340 | [71340-morton-subotnicks-playing-music.json](./71340-morton-subotnicks-playing-music.json) |
