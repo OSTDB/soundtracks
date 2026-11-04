@@ -3405,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volseons | 106121 | [106121-volseons.json](./106121-volseons.json) |
 | Volstead | 35086 | [35086-volstead.json](./35086-volstead.json) |
 | Volt | 36350 | [36350-volt.json](./36350-volt.json) |
+| Volt Flop | 331638 | [331638-volt-flop.json](./331638-volt-flop.json) |
 | Volt Patrol | 126341 | [126341-volt-patrol.json](./126341-volt-patrol.json) |
 | Volt Recharge | 301069 | [301069-volt-recharge.json](./301069-volt-recharge.json) |
 | Volt Snake | 413058 | [413058-volt-snake.json](./413058-volt-snake.json) |
