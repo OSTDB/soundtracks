@@ -5732,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8544,6 +8545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories With My Kitten | 344842 | [344842-memories-with-my-kitten.json](./344842-memories-with-my-kitten.json) |
 | Memories With You | 380602 | [380602-memories-with-you.json](./380602-memories-with-you.json) |
 | Memories: Millennium Girl | 263206 | [263206-memories-millennium-girl.json](./263206-memories-millennium-girl.json) |
+| Memories: My Story, My Choice | 303115 | [303115-memories-my-story-my-choice.json](./303115-memories-my-story-my-choice.json) |
 | Memories: Remember Me | 378008 | [378008-memories-remember-me.json](./378008-memories-remember-me.json) |
 | Memories: Silenced | 403100 | [403100-memories-silenced.json](./403100-memories-silenced.json) |
 | Memorion | 273824 | [273824-memorion.json](./273824-memorion.json) |
@@ -10259,6 +10261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Stream RPG | 291907 | [291907-micro-stream-rpg.json](./291907-micro-stream-rpg.json) |
 | Micro Stunt Machina | 195485 | [195485-micro-stunt-machina.json](./195485-micro-stunt-machina.json) |
 | Micro Tank | 228277 | [228277-micro-tank.json](./228277-micro-tank.json) |
+| Micro Tanks | 303199 | [303199-micro-tanks.json](./303199-micro-tanks.json) |
 | Micro TD | 228278 | [228278-micro-td.json](./228278-micro-td.json) |
 | Micro Titans Wrestling | 364877 | [364877-micro-titans-wrestling.json](./364877-micro-titans-wrestling.json) |
 | Micro Trans Actions | 176938 | [176938-micro-trans-actions.json](./176938-micro-trans-actions.json) |
