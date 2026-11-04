@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Roots and Gears | 333052 | [333052-of-roots-and-gears.json](./333052-of-roots-and-gears.json) |
 | Of Sense and Soul | 234243 | [234243-of-sense-and-soul.json](./234243-of-sense-and-soul.json) |
 | Of Ships & Scoundrels | 110279 | [110279-of-ships-and-scoundrels.json](./110279-of-ships-and-scoundrels.json) |
+| Of Slimes and Sandwiches | 299315 | [299315-of-slimes-and-sandwiches.json](./299315-of-slimes-and-sandwiches.json) |
 | Of the Devil | 234801 | [234801-of-the-devil.json](./234801-of-the-devil.json) |
 | Of the Devil: Episode 0 | 383570 | [383570-of-the-devil-episode-0.json](./383570-of-the-devil-episode-0.json) |
 | Of the Devil: Episode 1 | 330913 | [330913-of-the-devil-episode-1.json](./330913-of-the-devil-episode-1.json) |
@@ -1592,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Snow Girl | 415438 | [415438-olympic-snow-girl.json](./415438-olympic-snow-girl.json) |
 | Olympic Soccer | 4292 | [4292-olympic-soccer.json](./4292-olympic-soccer.json) |
 | Olympic Spectacular | 73103 | [73103-olympic-spectacular.json](./73103-olympic-spectacular.json) |
+| Olympic Summer Games | 299314 | [299314-olympic-summer-games.json](./299314-olympic-summer-games.json) |
 | Olympic Summer Games | 4493 | [4493-olympic-summer-games.json](./4493-olympic-summer-games.json) |
 | Olympic Summer Games: Atlanta '96 | 43735 | [43735-olympic-summer-games-atlanta-96.json](./43735-olympic-summer-games-atlanta-96.json) |
 | Olympic Trials | 71184 | [71184-olympic-trials.json](./71184-olympic-trials.json) |
@@ -3846,6 +3848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orchestra: The Brass Fate | 223539 | [223539-orchestra-the-brass-fate.json](./223539-orchestra-the-brass-fate.json) |
 | Orchestrate | 177457 | [177457-orchestrate.json](./177457-orchestrate.json) |
 | Orchid Glitter | 335057 | [335057-orchid-glitter.json](./335057-orchid-glitter.json) |
+| Orchid Labyrinth | 299366 | [299366-orchid-labyrinth.json](./299366-orchid-labyrinth.json) |
 | Orchidia | 208893 | [208893-orchidia.json](./208893-orchidia.json) |
 | Orchids to Dusk | 135906 | [135906-orchids-to-dusk.json](./135906-orchids-to-dusk.json) |
 | OrcinUS: Orca Pod Rescue | 288058 | [288058-orcinus-orca-pod-rescue.json](./288058-orcinus-orca-pod-rescue.json) |
