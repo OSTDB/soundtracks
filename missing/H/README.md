@@ -10250,6 +10250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Outer Space Customization Pack | 248415 | [248415-hot-wheels-outer-space-customization-pack.json](./248415-hot-wheels-outer-space-customization-pack.json) |
 | Hot Wheels: Pink Fashion Customization Pack | 248424 | [248424-hot-wheels-pink-fashion-customization-pack.json](./248424-hot-wheels-pink-fashion-customization-pack.json) |
 | Hot Wheels: Race Off | 56246 | [56246-hot-wheels-race-off.json](./56246-hot-wheels-race-off.json) |
+| Hot Wheels: Race Off+ | 325225 | [325225-hot-wheels-race-off.json](./325225-hot-wheels-race-off.json) |
 | Hot Wheels: Retro Game Customization Pack | 248413 | [248413-hot-wheels-retro-game-customization-pack.json](./248413-hot-wheels-retro-game-customization-pack.json) |
 | Hot Wheels: Rift Rally | 254347 | [254347-hot-wheels-rift-rally.json](./254347-hot-wheels-rift-rally.json) |
 | Hot Wheels: Skaters Customization Pack | 248419 | [248419-hot-wheels-skaters-customization-pack.json](./248419-hot-wheels-skaters-customization-pack.json) |
