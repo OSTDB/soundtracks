@@ -5615,6 +5615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Payne 3: Special Edition | 42972 | [42972-max-payne-3-special-edition.json](./42972-max-payne-3-special-edition.json) |
 | Max Payne: Kung Fu Edition v3 | 24085 | [24085-max-payne-kung-fu-edition-v3.json](./24085-max-payne-kung-fu-edition-v3.json) |
 | Max Payne@University | 218649 | [218649-max-payne-university.json](./218649-max-payne-university.json) |
+| Max Pirate | 340162 | [340162-max-pirate.json](./340162-max-pirate.json) |
 | Max Power Racing | 251135 | [251135-max-power-racing.json](./251135-max-power-racing.json) |
 | Max Raider | 171423 | [171423-max-raider.json](./171423-max-raider.json) |
 | Max Reloaded II | 146798 | [146798-max-reloaded-ii.json](./146798-max-reloaded-ii.json) |
