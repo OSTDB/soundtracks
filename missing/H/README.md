@@ -3387,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartshot | 278683 | [278683-heartshot.json](./278683-heartshot.json) |
 | Heartstop | 199510 | [199510-heartstop.json](./199510-heartstop.json) |
 | Heartstrings | 202371 | [202371-heartstrings.json](./202371-heartstrings.json) |
+| HeartWare | 309806 | [309806-heartware.json](./309806-heartware.json) |
 | HeartWeaver | 322090 | [322090-heartweaver.json](./322090-heartweaver.json) |
 | Heartwell | 276873 | [276873-heartwell.json](./276873-heartwell.json) |
 | Heartwild Solitaire Book One | 88737 | [88737-heartwild-solitaire-book-one.json](./88737-heartwild-solitaire-book-one.json) |
@@ -6360,6 +6361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexepta: Mayor Attack | 302598 | [302598-hexepta-mayor-attack.json](./302598-hexepta-mayor-attack.json) |
 | Hexeptional Picture Puzzle | 134385 | [134385-hexeptional-picture-puzzle.json](./134385-hexeptional-picture-puzzle.json) |
 | Hexer | 148683 | [148683-hexer.json](./148683-hexer.json) |
+| Hexeract | 309840 | [309840-hexeract.json](./309840-hexeract.json) |
 | Hexes | 147416 | [147416-hexes.json](./147416-hexes.json) |
 | Hexes | 243780 | [243780-hexes.json](./243780-hexes.json) |
 | Hexfinder | 244647 | [244647-hexfinder.json](./244647-hexfinder.json) |
@@ -8486,6 +8488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Express | 54088 | [54088-holiday-express.json](./54088-holiday-express.json) |
 | Holiday Eye Spy | 332177 | [332177-holiday-eye-spy.json](./332177-holiday-eye-spy.json) |
 | Holiday Eye Spy 2 | 391337 | [391337-holiday-eye-spy-2.json](./391337-holiday-eye-spy-2.json) |
+| Holiday Farm | 309837 | [309837-holiday-farm.json](./309837-holiday-farm.json) |
 | Holiday Flight Simulator | 32112 | [32112-holiday-flight-simulator.json](./32112-holiday-flight-simulator.json) |
 | Holiday Harry | 381069 | [381069-holiday-harry.json](./381069-holiday-harry.json) |
 | Holiday Haywire | 236233 | [236233-holiday-haywire.json](./236233-holiday-haywire.json) |
@@ -12297,6 +12300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnagogia: Boundless Dreams | 159865 | [159865-hypnagogia-boundless-dreams.json](./159865-hypnagogia-boundless-dreams.json) |
 | Hypnagogia: Broken Dreams | 398266 | [398266-hypnagogia-broken-dreams.json](./398266-hypnagogia-broken-dreams.json) |
 | Hypnagonia | 199264 | [199264-hypnagonia.json](./199264-hypnagonia.json) |
+| Hypno | 309821 | [309821-hypno.json](./309821-hypno.json) |
 | Hypno Tetris | 269469 | [269469-hypno-tetris.json](./269469-hypno-tetris.json) |
 | Hypno Vol. 1 | 67063 | [67063-hypno-vol-1.json](./67063-hypno-vol-1.json) |
 | Hypno-Mart | 246815 | [246815-hypno-mart.json](./246815-hypno-mart.json) |
