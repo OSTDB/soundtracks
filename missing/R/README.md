@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Brite: Journey to Rainbow Land | 283799 | [283799-rainbow-brite-journey-to-rainbow-land.json](./283799-rainbow-brite-journey-to-rainbow-land.json) |
 | Rainbow Canyon 2 | 332878 | [332878-rainbow-canyon-2.json](./332878-rainbow-canyon-2.json) |
 | Rainbow City | 184571 | [184571-rainbow-city.json](./184571-rainbow-city.json) |
+| Rainbow Cloud: A Gay RPG | 347978 | [347978-rainbow-cloud-a-gay-rpg.json](./347978-rainbow-cloud-a-gay-rpg.json) |
 | Rainbow Color by Number | 100799 | [100799-rainbow-color-by-number.json](./100799-rainbow-color-by-number.json) |
 | Rainbow Cotton | 294800 | [294800-rainbow-cotton.json](./294800-rainbow-cotton.json) |
 | Rainbow Cotton | 46368 | [46368-rainbow-cotton.json](./46368-rainbow-cotton.json) |
@@ -3179,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reap | 120644 | [120644-reap.json](./120644-reap.json) |
 | Reap | 182687 | [182687-reap.json](./182687-reap.json) |
 | Reap & Repay | 382834 | [382834-reap-and-repay.json](./382834-reap-and-repay.json) |
+| Reap and Rush | 347971 | [347971-reap-and-rush.json](./347971-reap-and-rush.json) |
 | Reap and Sow | 202362 | [202362-reap-and-sow.json](./202362-reap-and-sow.json) |
 | Reap and Sow | 382396 | [382396-reap-and-sow.json](./382396-reap-and-sow.json) |
 | Reap Radio | 419794 | [419794-reap-radio.json](./419794-reap-radio.json) |
@@ -3690,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Cross: Emergency Response Unit | 146498 | [146498-red-cross-emergency-response-unit.json](./146498-red-cross-emergency-response-unit.json) |
 | Red Crow Mysteries: Legion | 9410 | [9410-red-crow-mysteries-legion.json](./9410-red-crow-mysteries-legion.json) |
 | Red Crucible: Able Archer | 154061 | [154061-red-crucible-able-archer.json](./154061-red-crucible-able-archer.json) |
+| Red Crucible: Assault | 347991 | [347991-red-crucible-assault.json](./347991-red-crucible-assault.json) |
 | Red Crucible: Phoenix Rising | 240786 | [240786-red-crucible-phoenix-rising.json](./240786-red-crucible-phoenix-rising.json) |
 | Red Cube VR | 29013 | [29013-red-cube-vr.json](./29013-red-cube-vr.json) |
 | Red Dawn | 373799 | [373799-red-dawn.json](./373799-red-dawn.json) |
@@ -4240,6 +4243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reficul 666 | 151432 | [151432-reficul-666.json](./151432-reficul-666.json) |
 | Refidenptio | 258988 | [258988-refidenptio.json](./258988-refidenptio.json) |
 | Refight: Burning Engine | 110765 | [110765-refight-burning-engine.json](./110765-refight-burning-engine.json) |
+| Refighter | 347988 | [347988-refighter.json](./347988-refighter.json) |
 | Refill your Roguelike | 113523 | [113523-refill-your-roguelike.json](./113523-refill-your-roguelike.json) |
 | Refind Self: The Personality Test Game | 265960 | [265960-refind-self-the-personality-test-game.json](./265960-refind-self-the-personality-test-game.json) |
 | Refinery | 225633 | [225633-refinery.json](./225633-refinery.json) |
@@ -4677,6 +4681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics: Ankoku Yousai | 41268 | [41268-relics-ankoku-yousai.json](./41268-relics-ankoku-yousai.json) |
 | Relics: Dark Hours | 92494 | [92494-relics-dark-hours.json](./92494-relics-dark-hours.json) |
 | Relics: The 2nd Birth | 281393 | [281393-relics-the-2nd-birth.json](./281393-relics-the-2nd-birth.json) |
+| Relics: The Card Game | 347980 | [347980-relics-the-card-game.json](./347980-relics-the-card-game.json) |
 | Relics: The Recur of Origin | 281392 | [281392-relics-the-recur-of-origin.json](./281392-relics-the-recur-of-origin.json) |
 | RelicWar | 345809 | [345809-relicwar.json](./345809-relicwar.json) |
 | Relief | 404831 | [404831-relief.json](./404831-relief.json) |
@@ -4715,6 +4720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rema the Truth | 111887 | [111887-rema-the-truth.json](./111887-rema-the-truth.json) |
 | Remagotchi | 401300 | [401300-remagotchi.json](./401300-remagotchi.json) |
 | Remain | 30054 | [30054-remain.json](./30054-remain.json) |
+| Remain | 347979 | [347979-remain.json](./347979-remain.json) |
 | Remain 1 | 260854 | [260854-remain-1.json](./260854-remain-1.json) |
 | Remain 3 | 260855 | [260855-remain-3.json](./260855-remain-3.json) |
 | Remain At Your Desk | 401513 | [401513-remain-at-your-desk.json](./401513-remain-at-your-desk.json) |
@@ -5148,6 +5154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiem Hurts | 22404 | [22404-requiem-hurts.json](./22404-requiem-hurts.json) |
 | Requiem Hurts: Rainy Escape | 22405 | [22405-requiem-hurts-rainy-escape.json](./22405-requiem-hurts-rainy-escape.json) |
 | Requiem Memory | 265584 | [265584-requiem-memory.json](./265584-requiem-memory.json) |
+| Requiem of Reuinis | 347999 | [347999-requiem-of-reuinis.json](./347999-requiem-of-reuinis.json) |
 | Requiem of Science | 194221 | [194221-requiem-of-science.json](./194221-requiem-of-science.json) |
 | Requiem of the Dark Lord | 399028 | [399028-requiem-of-the-dark-lord.json](./399028-requiem-of-the-dark-lord.json) |
 | Requiem Reverie | 284898 | [284898-requiem-reverie.json](./284898-requiem-reverie.json) |
