@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madagascar: Escape 2 Africa | 3765 | [3765-madagascar-escape-2-africa.json](./3765-madagascar-escape-2-africa.json) |
 | Madagascar: Join the Circus | 25186 | [25186-madagascar-join-the-circus.json](./25186-madagascar-join-the-circus.json) |
 | Madagascar: Operation Penguin | 3766 | [3766-madagascar-operation-penguin.json](./3766-madagascar-operation-penguin.json) |
+| Madagascar: Zoo Animals Adventures | 343548 | [343548-madagascar-zoo-animals-adventures.json](./343548-madagascar-zoo-animals-adventures.json) |
 | Madam of Malice | 309435 | [309435-madam-of-malice.json](./309435-madam-of-malice.json) |
 | Madam President: She’s My Boss | 288128 | [288128-madam-president-she-s-my-boss.json](./288128-madam-president-she-s-my-boss.json) |
 | Madame Ching's Dungeon of Ecstasy | 133802 | [133802-madame-chings-dungeon-of-ecstasy.json](./133802-madame-chings-dungeon-of-ecstasy.json) |
@@ -5584,6 +5585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Craft 2: New World HD | 96703 | [96703-max-craft-2-new-world-hd.json](./96703-max-craft-2-new-world-hd.json) |
 | Max Craft: Explore World | 101076 | [101076-max-craft-explore-world.json](./101076-max-craft-explore-world.json) |
 | Max Cross | 413621 | [413621-max-cross.json](./413621-max-cross.json) |
+| Max Cyber Shooter | 343547 | [343547-max-cyber-shooter.json](./343547-max-cyber-shooter.json) |
 | Max Dirt Bike | 142086 | [142086-max-dirt-bike.json](./142086-max-dirt-bike.json) |
 | Max Downforce | 182948 | [182948-max-downforce.json](./182948-max-downforce.json) |
 | Max Gentlemen Sexy Business! | 128178 | [128178-max-gentlemen-sexy-business.json](./128178-max-gentlemen-sexy-business.json) |
@@ -17296,6 +17298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mount Hop | 184169 | [184169-mount-hop.json](./184169-mount-hop.json) |
 | Mount Hua | 378574 | [378574-mount-hua.json](./378574-mount-hua.json) |
 | Mount Lomyst | 369112 | [369112-mount-lomyst.json](./369112-mount-lomyst.json) |
+| Mount Quest: Take the Upper Hand Among Classmates | 343546 | [343546-mount-quest-take-the-upper-hand-among-classmates.json](./343546-mount-quest-take-the-upper-hand-among-classmates.json) |
 | Mount Wingsuit | 32082 | [32082-mount-wingsuit.json](./32082-mount-wingsuit.json) |
 | Mount Wingsuit 2 | 199301 | [199301-mount-wingsuit-2.json](./199301-mount-wingsuit-2.json) |
 | Mount Your Friends | 15916 | [15916-mount-your-friends.json](./15916-mount-your-friends.json) |
@@ -18827,6 +18830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musical Reflex | 80937 | [80937-musical-reflex.json](./80937-musical-reflex.json) |
 | Musical Studio | 87123 | [87123-musical-studio.json](./87123-musical-studio.json) |
 | Musical Vibes | 257971 | [257971-musical-vibes.json](./257971-musical-vibes.json) |
+| Musical Vibes RX | 343545 | [343545-musical-vibes-rx.json](./343545-musical-vibes-rx.json) |
 | Musical Zoo | 79934 | [79934-musical-zoo.json](./79934-musical-zoo.json) |
 | MusicHell | 386951 | [386951-musichell.json](./386951-musichell.json) |
 | Musician | 41563 | [41563-musician.json](./41563-musician.json) |
