@@ -3021,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scissor Girl's Weed Crisis | 309720 | [309720-scissor-girls-weed-crisis.json](./309720-scissor-girls-weed-crisis.json) |
 | Scissors and Pink Angels | 345616 | [345616-scissors-and-pink-angels.json](./345616-scissors-and-pink-angels.json) |
 | Scissors in Hell | 216931 | [216931-scissors-in-hell.json](./216931-scissors-in-hell.json) |
+| Scivics | 348540 | [348540-scivics.json](./348540-scivics.json) |
 | Sciware Defense | 245841 | [245841-sciware-defense.json](./245841-sciware-defense.json) |
 | Sclash | 143935 | [143935-sclash.json](./143935-sclash.json) |
 | Sclash: Joystick | 311713 | [311713-sclash-joystick.json](./311713-sclash-joystick.json) |
@@ -8391,6 +8392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipwrecked | 265295 | [265295-shipwrecked.json](./265295-shipwrecked.json) |
 | Shipwrecked | 313859 | [313859-shipwrecked.json](./313859-shipwrecked.json) |
 | Shipwrecked 64 | 284041 | [284041-shipwrecked-64.json](./284041-shipwrecked-64.json) |
+| Shipwrecked Hamlet | 348518 | [348518-shipwrecked-hamlet.json](./348518-shipwrecked-hamlet.json) |
 | Shipwrecked Raft Survival | 347305 | [347305-shipwrecked-raft-survival.json](./347305-shipwrecked-raft-survival.json) |
 | Shipwrecked: A Quick Automation | 360651 | [360651-shipwrecked-a-quick-automation.json](./360651-shipwrecked-a-quick-automation.json) |
 | Shipwrecked: Lost Colony | 298166 | [298166-shipwrecked-lost-colony.json](./298166-shipwrecked-lost-colony.json) |
@@ -18760,7 +18762,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24069,6 +24070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starless | 204092 | [204092-starless.json](./204092-starless.json) |
 | Starless Abyss | 319573 | [319573-starless-abyss.json](./319573-starless-abyss.json) |
 | Starless Night | 105614 | [105614-starless-night.json](./105614-starless-night.json) |
+| Starless Umbra | 348537 | [348537-starless-umbra.json](./348537-starless-umbra.json) |
 | Starless: Nymphomaniacs' Paradise | 19946 | [19946-starless-nymphomaniacs-paradise.json](./19946-starless-nymphomaniacs-paradise.json) |
 | Starlet Disorder | 380671 | [380671-starlet-disorder.json](./380671-starlet-disorder.json) |
 | Starlife | 413802 | [413802-starlife.json](./413802-starlife.json) |
@@ -27353,6 +27355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Fighter Zero | 243505 | [243505-strip-fighter-zero.json](./243505-strip-fighter-zero.json) |
 | Strip Me Down: Jock | 392931 | [392931-strip-me-down-jock.json](./392931-strip-me-down-jock.json) |
 | Strip Me Down: Office Worker | 392935 | [392935-strip-me-down-office-worker.json](./392935-strip-me-down-office-worker.json) |
+| Strip Miner | 348556 | [348556-strip-miner.json](./348556-strip-miner.json) |
 | Strip n Play with Valerie | 221205 | [221205-strip-n-play-with-valerie.json](./221205-strip-n-play-with-valerie.json) |
 | Strip Off | 283628 | [283628-strip-off.json](./283628-strip-off.json) |
 | Strip Poker II | 78962 | [78962-strip-poker-ii.json](./78962-strip-poker-ii.json) |
