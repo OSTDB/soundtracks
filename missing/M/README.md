@@ -12915,6 +12915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miraculous Ladybug & Cat Noir | 99322 | [99322-miraculous-ladybug-and-cat-noir.json](./99322-miraculous-ladybug-and-cat-noir.json) |
 | Miraculous: Paris Dash | 421403 | [421403-miraculous-paris-dash.json](./421403-miraculous-paris-dash.json) |
 | Miraculous: Paris Under Siege | 314019 | [314019-miraculous-paris-under-siege.json](./314019-miraculous-paris-under-siege.json) |
+| Miraculous: Paris Under Siege - Deluxe Edition | 320679 | [320679-miraculous-paris-under-siege-deluxe-edition.json](./320679-miraculous-paris-under-siege-deluxe-edition.json) |
 | Miraculous: Rise of the Sphinx | 216552 | [216552-miraculous-rise-of-the-sphinx.json](./216552-miraculous-rise-of-the-sphinx.json) |
 | Miraculous: Rise of the Sphinx - Ultimate Edition | 223565 | [223565-miraculous-rise-of-the-sphinx-ultimate-edition.json](./223565-miraculous-rise-of-the-sphinx-ultimate-edition.json) |
 | Miraculum: The Last Revelation | 63927 | [63927-miraculum-the-last-revelation.json](./63927-miraculum-the-last-revelation.json) |
@@ -13972,6 +13973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Return of Zion | 222898 | [222898-mobile-suit-gundam-return-of-zion.json](./222898-mobile-suit-gundam-return-of-zion.json) |
 | Mobile Suit Gundam: Senjo No Kazuna | 69294 | [69294-mobile-suit-gundam-senjo-no-kazuna.json](./69294-mobile-suit-gundam-senjo-no-kazuna.json) |
 | Mobile Suit Gundam: Shin Gihren No Yabou | 56746 | [56746-mobile-suit-gundam-shin-gihren-no-yabou.json](./56746-mobile-suit-gundam-shin-gihren-no-yabou.json) |
+| Mobile Suit Gundam: Spirits of Zeon | 320661 | [320661-mobile-suit-gundam-spirits-of-zeon.json](./320661-mobile-suit-gundam-spirits-of-zeon.json) |
 | Mobile Suit Gundam: The One Year War | 43240 | [43240-mobile-suit-gundam-the-one-year-war.json](./43240-mobile-suit-gundam-the-one-year-war.json) |
 | Mobile Suit Z-Gundam | 77059 | [77059-mobile-suit-z-gundam.json](./77059-mobile-suit-z-gundam.json) |
 | Mobile Suit Zeta Gundam | 66472 | [66472-mobile-suit-zeta-gundam.json](./66472-mobile-suit-zeta-gundam.json) |
@@ -17134,6 +17136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Premium Edition | 221591 | [221591-moto-rush-gt-premium-edition.json](./221591-moto-rush-gt-premium-edition.json) |
 | Moto Rush GT: Prime Edition | 271503 | [271503-moto-rush-gt-prime-edition.json](./271503-moto-rush-gt-prime-edition.json) |
 | Moto Rush GT: Silver Edition | 254688 | [254688-moto-rush-gt-silver-edition.json](./254688-moto-rush-gt-silver-edition.json) |
+| Moto Rush GT: Special Edition | 320678 | [320678-moto-rush-gt-special-edition.json](./320678-moto-rush-gt-special-edition.json) |
 | Moto Rush GT: Style Edition | 328769 | [328769-moto-rush-gt-style-edition.json](./328769-moto-rush-gt-style-edition.json) |
 | Moto Rush GT: Throne Edition | 412583 | [412583-moto-rush-gt-throne-edition.json](./412583-moto-rush-gt-throne-edition.json) |
 | Moto Rush GT: Ultimate Edition | 283138 | [283138-moto-rush-gt-ultimate-edition.json](./283138-moto-rush-gt-ultimate-edition.json) |
