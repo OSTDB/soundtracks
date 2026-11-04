@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake Up and Jump! | 392480 | [392480-wake-up-and-jump.json](./392480-wake-up-and-jump.json) |
 | Wake Up Before You Get Killed, Minions! | 321872 | [321872-wake-up-before-you-get-killed-minions.json](./321872-wake-up-before-you-get-killed-minions.json) |
 | Wake Up Calls | 397842 | [397842-wake-up-calls.json](./397842-wake-up-calls.json) |
+| Wake Up Magical Girl | 311428 | [311428-wake-up-magical-girl.json](./311428-wake-up-magical-girl.json) |
 | Wake Up The Box | 334223 | [334223-wake-up-the-box.json](./334223-wake-up-the-box.json) |
 | Wake up the House | 360888 | [360888-wake-up-the-house.json](./360888-wake-up-the-house.json) |
 | Wake up, Az. | 395691 | [395691-wake-up-az.json](./395691-wake-up-az.json) |
@@ -1411,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Eternal Crusade - Zealot Weapon Pack | 224430 | [224430-warhammer-40-000-eternal-crusade-zealot-weapon-pack.json](./224430-warhammer-40-000-eternal-crusade-zealot-weapon-pack.json) |
 | Warhammer 40,000: Fire Warrior | 9550 | [9550-warhammer-40-000-fire-warrior.json](./9550-warhammer-40-000-fire-warrior.json) |
 | Warhammer 40,000: Freeblade | 34420 | [34420-warhammer-40-000-freeblade.json](./34420-warhammer-40-000-freeblade.json) |
+| Warhammer 40,000: Gladius - Demolition Pack | 311404 | [311404-warhammer-40-000-gladius-demolition-pack.json](./311404-warhammer-40-000-gladius-demolition-pack.json) |
 | Warhammer 40,000: Gladius - Drukhari | 275818 | [275818-warhammer-40-000-gladius-drukhari.json](./275818-warhammer-40-000-gladius-drukhari.json) |
 | Warhammer 40,000: Gladius - Rampage Pack | 380990 | [380990-warhammer-40-000-gladius-rampage-pack.json](./380990-warhammer-40-000-gladius-rampage-pack.json) |
 | Warhammer 40,000: Gladius - Relics of War | 76410 | [76410-warhammer-40-000-gladius-relics-of-war.json](./76410-warhammer-40-000-gladius-relics-of-war.json) |
@@ -1435,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Inquisitor - Martyr: Faith Undone | 149313 | [149313-warhammer-40-000-inquisitor-martyr-faith-undone.json](./149313-warhammer-40-000-inquisitor-martyr-faith-undone.json) |
 | Warhammer 40,000: Inquisitor - Martyr: Forgotten Arsenal | 149316 | [149316-warhammer-40-000-inquisitor-martyr-forgotten-arsenal.json](./149316-warhammer-40-000-inquisitor-martyr-forgotten-arsenal.json) |
 | Warhammer 40,000: Inquisitor - Martyr: Grim Penance | 149306 | [149306-warhammer-40-000-inquisitor-martyr-grim-penance.json](./149306-warhammer-40-000-inquisitor-martyr-grim-penance.json) |
+| Warhammer 40,000: Inquisitor - Martyr: Hierophant Class | 311433 | [311433-warhammer-40-000-inquisitor-martyr-hierophant-class.json](./311433-warhammer-40-000-inquisitor-martyr-hierophant-class.json) |
 | Warhammer 40,000: Inquisitor - Martyr: Hollow Bliss | 149308 | [149308-warhammer-40-000-inquisitor-martyr-hollow-bliss.json](./149308-warhammer-40-000-inquisitor-martyr-hollow-bliss.json) |
 | Warhammer 40,000: Inquisitor - Martyr: Imperium Edition | 100550 | [100550-warhammer-40-000-inquisitor-martyr-imperium-edition.json](./100550-warhammer-40-000-inquisitor-martyr-imperium-edition.json) |
 | Warhammer 40,000: Inquisitor - Martyr: Maelstrom of Carnage | 149315 | [149315-warhammer-40-000-inquisitor-martyr-maelstrom-of-carnage.json](./149315-warhammer-40-000-inquisitor-martyr-maelstrom-of-carnage.json) |
@@ -2997,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedding Dash | 77878 | [77878-wedding-dash.json](./77878-wedding-dash.json) |
 | Wedding Dash 2: Rings Around the World | 16074 | [16074-wedding-dash-2-rings-around-the-world.json](./16074-wedding-dash-2-rings-around-the-world.json) |
 | Wedding Dash 4-Ever | 87327 | [87327-wedding-dash-4-ever.json](./87327-wedding-dash-4-ever.json) |
+| Wedding Day | 311441 | [311441-wedding-day.json](./311441-wedding-day.json) |
 | Wedding Designer | 121340 | [121340-wedding-designer.json](./121340-wedding-designer.json) |
 | Wedding Fiasco - The Race for the Perfect Dress | 101562 | [101562-wedding-fiasco-the-race-for-the-perfect-dress.json](./101562-wedding-fiasco-the-race-for-the-perfect-dress.json) |
 | Wedding Girl Makeover | 96072 | [96072-wedding-girl-makeover.json](./96072-wedding-girl-makeover.json) |
@@ -7965,6 +7969,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks - Panther/M10 Pack (VII German Medium Tank) | 398326 | [398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json](./398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json) |
 | World of Tanks 2.0 | 361878 | [361878-world-of-tanks-2-0.json](./361878-world-of-tanks-2-0.json) |
 | World of Tanks Blitz: Tier V Tank and Bonuses Pack! | 316237 | [316237-world-of-tanks-blitz-tier-v-tank-and-bonuses-pack.json](./316237-world-of-tanks-blitz-tier-v-tank-and-bonuses-pack.json) |
+| World of Tanks Blitz: Vindicator Pack | 311412 | [311412-world-of-tanks-blitz-vindicator-pack.json](./311412-world-of-tanks-blitz-vindicator-pack.json) |
+| World of Tanks Blitz: Warhammer Skulls Free Pack | 311411 | [311411-world-of-tanks-blitz-warhammer-skulls-free-pack.json](./311411-world-of-tanks-blitz-warhammer-skulls-free-pack.json) |
 | World of Tanks Generals | 77961 | [77961-world-of-tanks-generals.json](./77961-world-of-tanks-generals.json) |
 | World of Tanks Modern Armor - Supreme Beast | 335186 | [335186-world-of-tanks-modern-armor-supreme-beast.json](./335186-world-of-tanks-modern-armor-supreme-beast.json) |
 | World of Tanks Modern Armor - Tactical Expert | 335185 | [335185-world-of-tanks-modern-armor-tactical-expert.json](./335185-world-of-tanks-modern-armor-tactical-expert.json) |
