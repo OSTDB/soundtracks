@@ -7727,6 +7727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chris Kamara's Street Soccer | 43747 | [43747-chris-kamaras-street-soccer.json](./43747-chris-kamaras-street-soccer.json) |
 | Chris Moneymaker's World Poker Championship | 68636 | [68636-chris-moneymakers-world-poker-championship.json](./68636-chris-moneymakers-world-poker-championship.json) |
 | Chris Sawyer's Locomotion | 10737 | [10737-chris-sawyers-locomotion.json](./10737-chris-sawyers-locomotion.json) |
+| Chris: Luxury Getaway | 313620 | [313620-chris-luxury-getaway.json](./313620-chris-luxury-getaway.json) |
 | Chris' Story | 215510 | [215510-chris-story.json](./215510-chris-story.json) |
 | Chris's Classroom | 400904 | [400904-chriss-classroom.json](./400904-chriss-classroom.json) |
 | Chriss Cross | 150400 | [150400-chriss-cross.json](./150400-chriss-cross.json) |
@@ -9455,6 +9456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Concentration: 2nd Edition | 69717 | [69717-classic-concentration-2nd-edition.json](./69717-classic-concentration-2nd-edition.json) |
 | Classic Cribbage | 169982 | [169982-classic-cribbage.json](./169982-classic-cribbage.json) |
 | Classic DOOM 3 | 195496 | [195496-classic-doom-3.json](./195496-classic-doom-3.json) |
+| Classic Dungeon | 313937 | [313937-classic-dungeon.json](./313937-classic-dungeon.json) |
 | Classic Dungeon Sengoku | 137013 | [137013-classic-dungeon-sengoku.json](./137013-classic-dungeon-sengoku.json) |
 | Classic FreeCell HD | 88281 | [88281-classic-freecell-hd.json](./88281-classic-freecell-hd.json) |
 | Classic Fun Collection 5 in 1 | 90588 | [90588-classic-fun-collection-5-in-1.json](./90588-classic-fun-collection-5-in-1.json) |
@@ -16908,6 +16910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis: S | 194124 | [194124-crisis-s.json](./194124-crisis-s.json) |
 | Crisis: The Third Way | 382220 | [382220-crisis-the-third-way.json](./382220-crisis-the-third-way.json) |
 | Crisis/Divider | 305153 | [305153-crisis-divider.json](./305153-crisis-divider.json) |
+| CrisisX | 313921 | [313921-crisisx.json](./313921-crisisx.json) |
 | Crisol: Theater of Idols | 265827 | [265827-crisol-theater-of-idols.json](./265827-crisol-theater-of-idols.json) |
 | Crisp Cube | 125886 | [125886-crisp-cube.json](./125886-crisp-cube.json) |
 | Crisp Games | 413024 | [413024-crisp-games.json](./413024-crisp-games.json) |
