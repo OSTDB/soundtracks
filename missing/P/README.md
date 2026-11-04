@@ -11233,6 +11233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokéPark Wii: Pikachu's Adventure | 4558 | [4558-pokepark-wii-pikachus-adventure.json](./4558-pokepark-wii-pikachus-adventure.json) |
 | PokéPark: Fishing Rally DS | 94906 | [94906-pokepark-fishing-rally-ds.json](./94906-pokepark-fishing-rally-ds.json) |
 | PokéPath TD | 382382 | [382382-pokepath-td.json](./382382-pokepath-td.json) |
+| Pokepia: Pokecolo Utopia | 305398 | [305398-pokepia-pokecolo-utopia.json](./305398-pokepia-pokecolo-utopia.json) |
 | PokéPlunder | 384832 | [384832-pokeplunder.json](./384832-pokeplunder.json) |
 | Poképoke | 418607 | [418607-pokepoke.json](./418607-pokepoke.json) |
 | PokeQuest VR | 201764 | [201764-pokequest-vr.json](./201764-pokequest-vr.json) |
@@ -13702,6 +13703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Bird 8 | 227114 | [227114-pretty-bird-8.json](./227114-pretty-bird-8.json) |
 | Pretty Bubble: Flappy Adventures | 253247 | [253247-pretty-bubble-flappy-adventures.json](./253247-pretty-bubble-flappy-adventures.json) |
 | Pretty Chaser | 269601 | [269601-pretty-chaser.json](./269601-pretty-chaser.json) |
+| Pretty Coo' | 305081 | [305081-pretty-coo.json](./305081-pretty-coo.json) |
 | Pretty Cure Connection Puzzlun | 112063 | [112063-pretty-cure-connection-puzzlun.json](./112063-pretty-cure-connection-puzzlun.json) |
 | Pretty Dinosaur Adventures of Ancient Earth VR | 234514 | [234514-pretty-dinosaur-adventures-of-ancient-earth-vr.json](./234514-pretty-dinosaur-adventures-of-ancient-earth-vr.json) |
 | Pretty Dreadful: Heritage | 252875 | [252875-pretty-dreadful-heritage.json](./252875-pretty-dreadful-heritage.json) |
@@ -14266,6 +14268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism: Guard Shield | 209889 | [209889-prism-guard-shield.json](./209889-prism-guard-shield.json) |
 | Prism: Light the Way | 20765 | [20765-prism-light-the-way.json](./20765-prism-light-the-way.json) |
 | Prism: Master Tape | 369236 | [369236-prism-master-tape.json](./369236-prism-master-tape.json) |
+| Prisma | 305083 | [305083-prisma.json](./305083-prisma.json) |
 | Prisma & the Masquerade Menace | 30907 | [30907-prisma-and-the-masquerade-menace.json](./30907-prisma-and-the-masquerade-menace.json) |
 | Prisma Light | 236849 | [236849-prisma-light.json](./236849-prisma-light.json) |
 | PrismaDrop | 219903 | [219903-prismadrop.json](./219903-prismadrop.json) |
