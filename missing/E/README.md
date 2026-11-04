@@ -4134,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy | 222762 | [222762-entropy.json](./222762-entropy.json) |
 | Entropy | 285026 | [285026-entropy.json](./285026-entropy.json) |
 | Entropy | 339755 | [339755-entropy.json](./339755-entropy.json) |
+| Entropy | 344255 | [344255-entropy.json](./344255-entropy.json) |
 | Entropy | 363898 | [363898-entropy.json](./363898-entropy.json) |
 | Entropy | 402532 | [402532-entropy.json](./402532-entropy.json) |
 | Entropy | 402533 | [402533-entropy.json](./402533-entropy.json) |
