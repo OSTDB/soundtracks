@@ -6117,7 +6117,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check and Slash | 274356 | [274356-check-and-slash.json](./274356-check-and-slash.json) |
 | Check in the Back | 183010 | [183010-check-in-the-back.json](./183010-check-in-the-back.json) |
 | Check In, Knock Out | 59936 | [59936-check-in-knock-out.json](./59936-check-in-knock-out.json) |
-| Check it Out! | 196918 | [196918-check-it-out.json](./196918-check-it-out.json) |
 | Check Man | 39609 | [39609-check-man.json](./39609-check-man.json) |
 | Check Mii Out Channel | 139041 | [139041-check-mii-out-channel.json](./139041-check-mii-out-channel.json) |
 | Check the Room 13 | 252025 | [252025-check-the-room-13.json](./252025-check-the-room-13.json) |
@@ -6267,7 +6266,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef de Bubble | 323096 | [323096-chef-de-bubble.json](./323096-chef-de-bubble.json) |
 | Chef Express | 397512 | [397512-chef-express.json](./397512-chef-express.json) |
 | Chef Leo's Creative Kitchen | 343378 | [343378-chef-leos-creative-kitchen.json](./343378-chef-leos-creative-kitchen.json) |
-| Chef Life: A Restaurant Simulator | 191698 | [191698-chef-life-a-restaurant-simulator.json](./191698-chef-life-a-restaurant-simulator.json) |
 | Chef Life: A Restaurant Simulator - Al Forno Edition | 229122 | [229122-chef-life-a-restaurant-simulator-al-forno-edition.json](./229122-chef-life-a-restaurant-simulator-al-forno-edition.json) |
 | Chef Life: A Restaurant Simulator - Al Forno Pack | 242489 | [242489-chef-life-a-restaurant-simulator-al-forno-pack.json](./242489-chef-life-a-restaurant-simulator-al-forno-pack.json) |
 | Chef Life: A Restaurant Simulator - Cooking Lab | 317671 | [317671-chef-life-a-restaurant-simulator-cooking-lab.json](./317671-chef-life-a-restaurant-simulator-cooking-lab.json) |
