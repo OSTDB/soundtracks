@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Fuga | 115603 | [115603-la-fuga.json](./115603-la-fuga.json) |
 | La Galerie des Toilettes | 347435 | [347435-la-galerie-des-toilettes.json](./347435-la-galerie-des-toilettes.json) |
 | La Giungla Tenebrosa | 145976 | [145976-la-giungla-tenebrosa.json](./145976-la-giungla-tenebrosa.json) |
+| La Gran Alameda | 299425 | [299425-la-gran-alameda.json](./299425-la-gran-alameda.json) |
 | La Grande Armee at Austerlitz | 61844 | [61844-la-grande-armee-at-austerlitz.json](./61844-la-grande-armee-at-austerlitz.json) |
 | La Guerra de las Vajillas | 85724 | [85724-la-guerra-de-las-vajillas.json](./85724-la-guerra-de-las-vajillas.json) |
 | La Historia De | 129078 | [129078-la-historia-de.json](./129078-la-historia-de.json) |
@@ -3427,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Cartes Poker | 415968 | [415968-les-cartes-poker.json](./415968-les-cartes-poker.json) |
 | Les Chairs Cruelles: Aishiau Touhi no Naka de | 396985 | [396985-les-chairs-cruelles-aishiau-touhi-no-naka-de.json](./396985-les-chairs-cruelles-aishiau-touhi-no-naka-de.json) |
 | Les Chevaliers de l'An Mil | 356870 | [356870-les-chevaliers-de-lan-mil.json](./356870-les-chevaliers-de-lan-mil.json) |
+| Les Chevaliers du Zodiaque: Il Faut Sauver Athena | 299331 | [299331-les-chevaliers-du-zodiaque-il-faut-sauver-athena.json](./299331-les-chevaliers-du-zodiaque-il-faut-sauver-athena.json) |
 | Les Dictées de Rayman | 83787 | [83787-les-dictees-de-rayman.json](./83787-les-dictees-de-rayman.json) |
 | Les Fleursword | 54331 | [54331-les-fleursword.json](./54331-les-fleursword.json) |
 | Les Flics | 254643 | [254643-les-flics.json](./254643-les-flics.json) |
@@ -8602,6 +8604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Undying: A Kiss Before Dawn | 302953 | [302953-love-undying-a-kiss-before-dawn.json](./302953-love-undying-a-kiss-before-dawn.json) |
 | Love Verne | 183585 | [183585-love-verne.json](./183585-love-verne.json) |
 | Love Vibe: Aria | 103464 | [103464-love-vibe-aria.json](./103464-love-vibe-aria.json) |
+| Love Villa: Choose Your Story | 299336 | [299336-love-villa-choose-your-story.json](./299336-love-villa-choose-your-story.json) |
 | Love wish | 129344 | [129344-love-wish.json](./129344-love-wish.json) |
 | Love Wish 2 | 213726 | [213726-love-wish-2.json](./213726-love-wish-2.json) |
 | Love with Kadyrov | 383525 | [383525-love-with-kadyrov.json](./383525-love-with-kadyrov.json) |
