@@ -3001,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teardown: Quilez R0113R Robot | 407708 | [407708-teardown-quilez-r0113r-robot.json](./407708-teardown-quilez-r0113r-robot.json) |
 | Teardown: Rally | 420797 | [420797-teardown-rally.json](./420797-teardown-rally.json) |
 | Teardown: Relics of Barkuna | 407709 | [407709-teardown-relics-of-barkuna.json](./407709-teardown-relics-of-barkuna.json) |
+| Teardown: The Greenwash Gambit | 344647 | [344647-teardown-the-greenwash-gambit.json](./344647-teardown-the-greenwash-gambit.json) |
 | Teardown: Time Campers | 276809 | [276809-teardown-time-campers.json](./276809-teardown-time-campers.json) |
 | Teardown: Ultimate Edition | 276868 | [276868-teardown-ultimate-edition.json](./276868-teardown-ultimate-edition.json) |
 | Teared | 287186 | [287186-teared.json](./287186-teared.json) |
@@ -14132,6 +14133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Panel DC | 119720 | [119720-the-panel-dc.json](./119720-the-panel-dc.json) |
 | The Panic Room | 33664 | [33664-the-panic-room.json](./33664-the-panic-room.json) |
 | The Panic Room: House of Secrets | 259516 | [259516-the-panic-room-house-of-secrets.json](./259516-the-panic-room-house-of-secrets.json) |
+| The Panopticon | 344684 | [344684-the-panopticon.json](./344684-the-panopticon.json) |
 | The Panspermia | 374039 | [374039-the-panspermia.json](./374039-the-panspermia.json) |
 | The Paper Aircraft of Childhood | 268216 | [268216-the-paper-aircraft-of-childhood.json](./268216-the-paper-aircraft-of-childhood.json) |
 | The Paper Arcade | 247909 | [247909-the-paper-arcade.json](./247909-the-paper-arcade.json) |
@@ -25083,6 +25085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer III - Thrones of Decay: Elspeth | 296620 | [296620-total-war-warhammer-iii-thrones-of-decay-elspeth.json](./296620-total-war-warhammer-iii-thrones-of-decay-elspeth.json) |
 | Total War: Warhammer III - Thrones of Decay: Malakai | 296622 | [296622-total-war-warhammer-iii-thrones-of-decay-malakai.json](./296622-total-war-warhammer-iii-thrones-of-decay-malakai.json) |
 | Total War: Warhammer III - Thrones of Decay: Tamurkhan | 296621 | [296621-total-war-warhammer-iii-thrones-of-decay-tamurkhan.json](./296621-total-war-warhammer-iii-thrones-of-decay-tamurkhan.json) |
+| Total War: Warhammer III - Tides of Torment | 344664 | [344664-total-war-warhammer-iii-tides-of-torment.json](./344664-total-war-warhammer-iii-tides-of-torment.json) |
 | Total War: Warhammer III - Update 3.1 | 251222 | [251222-total-war-warhammer-iii-update-3-1.json](./251222-total-war-warhammer-iii-update-3-1.json) |
 | Total War: Warhammer Trilogy | 270579 | [270579-total-war-warhammer-trilogy.json](./270579-total-war-warhammer-trilogy.json) |
 | Total World Liberation | 224607 | [224607-total-world-liberation.json](./224607-total-world-liberation.json) |
@@ -30508,6 +30511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth or Dare? | 74918 | [74918-truth-or-dare.json](./74918-truth-or-dare.json) |
 | Truth or Dare? Fun Party Games | 106945 | [106945-truth-or-dare-fun-party-games.json](./106945-truth-or-dare-fun-party-games.json) |
 | Truth or Lies | 25217 | [25217-truth-or-lies.json](./25217-truth-or-lies.json) |
+| Truth Scrapper | 344661 | [344661-truth-scrapper.json](./344661-truth-scrapper.json) |
 | Truth Seekers | 298423 | [298423-truth-seekers.json](./298423-truth-seekers.json) |
 | Truth Trail: Exorcism of Deception | 338605 | [338605-truth-trail-exorcism-of-deception.json](./338605-truth-trail-exorcism-of-deception.json) |
 | Truth Universally Acknowledged | 296370 | [296370-truth-universally-acknowledged.json](./296370-truth-universally-acknowledged.json) |
