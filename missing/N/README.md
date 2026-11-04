@@ -3710,6 +3710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 23 | 214675 | [214675-nhl-23.json](./214675-nhl-23.json) |
 | NHL 23: X-Factor Edition | 214668 | [214668-nhl-23-x-factor-edition.json](./214668-nhl-23-x-factor-edition.json) |
 | NHL 25 | 314499 | [314499-nhl-25.json](./314499-nhl-25.json) |
+| NHL 25: Deluxe Edition | 315729 | [315729-nhl-25-deluxe-edition.json](./315729-nhl-25-deluxe-edition.json) |
 | NHL 27 | 408771 | [408771-nhl-27.json](./408771-nhl-27.json) |
 | NHL 27: Deluxe Edition | 410860 | [410860-nhl-27-deluxe-edition.json](./410860-nhl-27-deluxe-edition.json) |
 | NHL 2K | 128897 | [128897-nhl-2k.json](./128897-nhl-2k.json) |
@@ -6720,6 +6721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Quite A Fairy Tale | 311895 | [311895-not-quite-a-fairy-tale.json](./311895-not-quite-a-fairy-tale.json) |
 | Not Quite Dead | 414336 | [414336-not-quite-dead.json](./414336-not-quite-dead.json) |
 | Not Quite Right | 180400 | [180400-not-quite-right.json](./180400-not-quite-right.json) |
+| Not Quite Vegas | 315407 | [315407-not-quite-vegas.json](./315407-not-quite-vegas.json) |
 | Not Raised by Wolves | 372980 | [372980-not-raised-by-wolves.json](./372980-not-raised-by-wolves.json) |
 | Not seafoam | 176937 | [176937-not-seafoam.json](./176937-not-seafoam.json) |
 | Not So Heart | 117801 | [117801-not-so-heart.json](./117801-not-so-heart.json) |
