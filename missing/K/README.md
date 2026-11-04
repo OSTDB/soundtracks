@@ -1738,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kennan Simulator | 177166 | [177166-kennan-simulator.json](./177166-kennan-simulator.json) |
 | Kennedy Approach | 25920 | [25920-kennedy-approach.json](./25920-kennedy-approach.json) |
 | Kennel Chaos: Daycare Simulator | 418898 | [418898-kennel-chaos-daycare-simulator.json](./418898-kennel-chaos-daycare-simulator.json) |
+| Kenneth Rice: Vampire Detective | 325222 | [325222-kenneth-rice-vampire-detective.json](./325222-kenneth-rice-vampire-detective.json) |
 | Kenney's Zombies | 184224 | [184224-kenneys-zombies.json](./184224-kenneys-zombies.json) |
 | Kenny 7 | 253310 | [253310-kenny-7.json](./253310-kenny-7.json) |
 | Kenny Dalglish Soccer Match | 69685 | [69685-kenny-dalglish-soccer-match.json](./69685-kenny-dalglish-soccer-match.json) |
@@ -1772,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kentucky Route Zero | 5614 | [5614-kentucky-route-zero.json](./5614-kentucky-route-zero.json) |
 | Kentucky Route Zero: Act V | 144981 | [144981-kentucky-route-zero-act-v.json](./144981-kentucky-route-zero-act-v.json) |
 | Kentucky Route Zero: TV Edition | 55198 | [55198-kentucky-route-zero-tv-edition.json](./55198-kentucky-route-zero-tv-edition.json) |
+| Kentum | 325215 | [325215-kentum.json](./325215-kentum.json) |
 | Kenyuu Densetsu Yaiba | 282499 | [282499-kenyuu-densetsu-yaiba.json](./282499-kenyuu-densetsu-yaiba.json) |
 | Kenyuu Densetsu Yaiba | 282500 | [282500-kenyuu-densetsu-yaiba.json](./282500-kenyuu-densetsu-yaiba.json) |
 | Kenyuu Densetsu Yaiba | 38181 | [38181-kenyuu-densetsu-yaiba.json](./38181-kenyuu-densetsu-yaiba.json) |
@@ -4605,6 +4607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knock It Over, Again? | 407064 | [407064-knock-it-over-again.json](./407064-knock-it-over-again.json) |
 | Knock Knock | 323988 | [323988-knock-knock.json](./323988-knock-knock.json) |
 | Knock Knock Traveling soulsman | 178013 | [178013-knock-knock-traveling-soulsman.json](./178013-knock-knock-traveling-soulsman.json) |
+| Knock Off: The Battle for Imagination | 325214 | [325214-knock-off-the-battle-for-imagination.json](./325214-knock-off-the-battle-for-imagination.json) |
 | Knock on the Coffin Lid | 131645 | [131645-knock-on-the-coffin-lid.json](./131645-knock-on-the-coffin-lid.json) |
 | Knock on the Coffin Lid: Complete Edition | 402712 | [402712-knock-on-the-coffin-lid-complete-edition.json](./402712-knock-on-the-coffin-lid-complete-edition.json) |
 | Knock on the Coffin Lid: Nightmares of Millenis | 381880 | [381880-knock-on-the-coffin-lid-nightmares-of-millenis.json](./381880-knock-on-the-coffin-lid-nightmares-of-millenis.json) |
@@ -5529,6 +5532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraino | 91143 | [91143-kraino.json](./91143-kraino.json) |
 | Kraino Origins | 211149 | [211149-kraino-origins.json](./211149-kraino-origins.json) |
 | Kraino ReAnimated | 181566 | [181566-kraino-reanimated.json](./181566-kraino-reanimated.json) |
+| Kraino Rebirth | 325209 | [325209-kraino-rebirth.json](./325209-kraino-rebirth.json) |
 | Krakatoa | 45368 | [45368-krakatoa.json](./45368-krakatoa.json) |
 | Krakels ABC: Den galna dammsugaren | 97704 | [97704-krakels-abc-den-galna-dammsugaren.json](./97704-krakels-abc-den-galna-dammsugaren.json) |
 | Krakels ABC: Det Magiska Äventyret | 97703 | [97703-krakels-abc-det-magiska-aventyret.json](./97703-krakels-abc-det-magiska-aventyret.json) |
