@@ -10720,6 +10720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Spy | 32554 | [32554-simple-spy.json](./32554-simple-spy.json) |
 | Simple Story: Alex | 90395 | [90395-simple-story-alex.json](./90395-simple-story-alex.json) |
 | Simple Story: Alex - Two Guys | 172132 | [172132-simple-story-alex-two-guys.json](./172132-simple-story-alex-two-guys.json) |
+| Simple Sudoku | 332756 | [332756-simple-sudoku.json](./332756-simple-sudoku.json) |
 | Simple Tennis | 306018 | [306018-simple-tennis.json](./306018-simple-tennis.json) |
 | Simple Tower Defense | 259287 | [259287-simple-tower-defense.json](./259287-simple-tower-defense.json) |
 | Simple Trains | 214274 | [214274-simple-trains.json](./214274-simple-trains.json) |
@@ -10935,6 +10936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singles' Generation | 150479 | [150479-singles-generation.json](./150479-singles-generation.json) |
 | Singmetosleep | 392762 | [392762-singmetosleep.json](./392762-singmetosleep.json) |
 | SingOn | 61962 | [61962-singon.json](./61962-singon.json) |
+| Singou Breaka | 332769 | [332769-singou-breaka.json](./332769-singou-breaka.json) |
 | SingSpace | 128458 | [128458-singspace.json](./128458-singspace.json) |
 | SingStar | 15091 | [15091-singstar.json](./15091-singstar.json) |
 | SingStar | 15180 | [15180-singstar.json](./15180-singstar.json) |
@@ -11203,6 +11205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sirène | 310975 | [310975-sirene.json](./310975-sirene.json) |
 | Sirenhead | 135760 | [135760-sirenhead.json](./135760-sirenhead.json) |
 | Sirenhead: Southpoint | 197060 | [197060-sirenhead-southpoint.json](./197060-sirenhead-southpoint.json) |
+| Sirensia: A Date Beneath | 332775 | [332775-sirensia-a-date-beneath.json](./332775-sirensia-a-date-beneath.json) |
 | Sirenum | 255638 | [255638-sirenum.json](./255638-sirenum.json) |
 | Sirin's Feather | 399899 | [399899-sirins-feather.json](./399899-sirins-feather.json) |
 | Sirius 7 | 93516 | [93516-sirius-7.json](./93516-sirius-7.json) |
@@ -11464,6 +11467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate Wars | 15368 | [15368-skate-wars.json](./15368-skate-wars.json) |
 | Skate3DRPG | 327045 | [327045-skate3drpg.json](./327045-skate3drpg.json) |
 | Skateball | 45329 | [45329-skateball.json](./45329-skateball.json) |
+| Skateballers | 332902 | [332902-skateballers.json](./332902-skateballers.json) |
 | Skateboard | 89059 | [89059-skateboard.json](./89059-skateboard.json) |
 | Skateboard 3D - Skater Die Hard Skate Boarding Game | 98901 | [98901-skateboard-3d-skater-die-hard-skate-boarding-game.json](./98901-skateboard-3d-skater-die-hard-skate-boarding-game.json) |
 | Skateboard Crazy | 57599 | [57599-skateboard-crazy.json](./57599-skateboard-crazy.json) |
@@ -19382,6 +19386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space to Interrogate | 177801 | [177801-space-to-interrogate.json](./177801-space-to-interrogate.json) |
 | Space to Investigate | 179702 | [179702-space-to-investigate.json](./179702-space-to-investigate.json) |
 | Space Toads Mayhem | 25799 | [25799-space-toads-mayhem.json](./25799-space-toads-mayhem.json) |
+| Space Tourist | 332754 | [332754-space-tourist.json](./332754-space-tourist.json) |
 | Space Tournament | 260292 | [260292-space-tournament.json](./260292-space-tournament.json) |
 | Space Tow Truck | 143912 | [143912-space-tow-truck.json](./143912-space-tow-truck.json) |
 | Space Tower | 126507 | [126507-space-tower.json](./126507-space-tower.json) |
@@ -21150,6 +21155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Bounce | 156587 | [156587-spirit-bounce.json](./156587-spirit-bounce.json) |
 | Spirit Camera: The Cursed Memoir | 6889 | [6889-spirit-camera-the-cursed-memoir.json](./6889-spirit-camera-the-cursed-memoir.json) |
 | Spirit Catcher 93' | 383357 | [383357-spirit-catcher-93.json](./383357-spirit-catcher-93.json) |
+| Spirit Channel | 332786 | [332786-spirit-channel.json](./332786-spirit-channel.json) |
 | Spirit Charm | 215660 | [215660-spirit-charm.json](./215660-spirit-charm.json) |
 | Spirit City: Lofi Sessions | 263016 | [263016-spirit-city-lofi-sessions.json](./263016-spirit-city-lofi-sessions.json) |
 | Spirit City: Lofi Sessions - All Aboard! | 363005 | [363005-spirit-city-lofi-sessions-all-aboard.json](./363005-spirit-city-lofi-sessions-all-aboard.json) |
@@ -24979,6 +24985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam and Silk | 115396 | [115396-steam-and-silk.json](./115396-steam-and-silk.json) |
 | Steam Bandits: Outpost | 30368 | [30368-steam-bandits-outpost.json](./30368-steam-bandits-outpost.json) |
 | Steam Chain | 135567 | [135567-steam-chain.json](./135567-steam-chain.json) |
+| Steam Dreams | 332762 | [332762-steam-dreams.json](./332762-steam-dreams.json) |
 | Steam Droid | 270508 | [270508-steam-droid.json](./270508-steam-droid.json) |
 | Steam Engine Simulator | 249057 | [249057-steam-engine-simulator.json](./249057-steam-engine-simulator.json) |
 | Steam Engine Simulator: Power Generation | 276602 | [276602-steam-engine-simulator-power-generation.json](./276602-steam-engine-simulator-power-generation.json) |
@@ -27043,6 +27050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: Capcom Pro Tour 2020 Premier Pass | 332664 | [332664-street-fighter-v-capcom-pro-tour-2020-premier-pass.json](./332664-street-fighter-v-capcom-pro-tour-2020-premier-pass.json) |
 | Street Fighter V: Capcom Pro Tour 2021 Premier Pass | 332658 | [332658-street-fighter-v-capcom-pro-tour-2021-premier-pass.json](./332658-street-fighter-v-capcom-pro-tour-2021-premier-pass.json) |
 | Street Fighter V: Capcom Pro Tour 2022 Premier Pass | 332661 | [332661-street-fighter-v-capcom-pro-tour-2022-premier-pass.json](./332661-street-fighter-v-capcom-pro-tour-2022-premier-pass.json) |
+| Street Fighter V: Capcom Pro Tour Premier Pass Complete Bundle | 332760 | [332760-street-fighter-v-capcom-pro-tour-premier-pass-complete-bundle.json](./332760-street-fighter-v-capcom-pro-tour-premier-pass-complete-bundle.json) |
 | Street Fighter V: Champion Edition - All Character Pack | 201034 | [201034-street-fighter-v-champion-edition-all-character-pack.json](./201034-street-fighter-v-champion-edition-all-character-pack.json) |
 | Street Fighter V: Cody Travers | 322209 | [322209-street-fighter-v-cody-travers.json](./322209-street-fighter-v-cody-travers.json) |
 | Street Fighter V: Collector's Edition | 128866 | [128866-street-fighter-v-collectors-edition.json](./128866-street-fighter-v-collectors-edition.json) |
@@ -27267,6 +27275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Rage Remake | 72327 | [72327-streets-of-rage-remake.json](./72327-streets-of-rage-remake.json) |
 | Streets of Rage Zombies | 272336 | [272336-streets-of-rage-zombies.json](./272336-streets-of-rage-zombies.json) |
 | Streets of Rage: Revolution | 279632 | [279632-streets-of-rage-revolution.json](./279632-streets-of-rage-revolution.json) |
+| Streets of Rageness | 332900 | [332900-streets-of-rageness.json](./332900-streets-of-rageness.json) |
 | Streets of Red: Devil's Dare | 126045 | [126045-streets-of-red-devils-dare.json](./126045-streets-of-red-devils-dare.json) |
 | Streets of Rogue 2 | 220205 | [220205-streets-of-rogue-2.json](./220205-streets-of-rogue-2.json) |
 | Streets of Rogue: Character Pack | 155053 | [155053-streets-of-rogue-character-pack.json](./155053-streets-of-rogue-character-pack.json) |
@@ -28576,6 +28585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika Pets | 290549 | [290549-suika-pets.json](./290549-suika-pets.json) |
 | Suika Puffworks | 373668 | [373668-suika-puffworks.json](./373668-suika-puffworks.json) |
 | Suika Shapes | 276165 | [276165-suika-shapes.json](./276165-suika-shapes.json) |
+| Suika vs. Mechasuika | 332751 | [332751-suika-vs-mechasuika.json](./332751-suika-vs-mechasuika.json) |
 | Suika Wan! | 397064 | [397064-suika-wan.json](./397064-suika-wan.json) |
 | Suika Watermelon Fruits | 288171 | [288171-suika-watermelon-fruits.json](./288171-suika-watermelon-fruits.json) |
 | Suika World | 280422 | [280422-suika-world.json](./280422-suika-world.json) |
@@ -29083,6 +29093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunken Ships | 270887 | [270887-sunken-ships.json](./270887-sunken-ships.json) |
 | Sunken Stones | 272718 | [272718-sunken-stones.json](./272718-sunken-stones.json) |
 | Sunken Tower | 237543 | [237543-sunken-tower.json](./237543-sunken-tower.json) |
+| Sunken Veins | 332779 | [332779-sunken-veins.json](./332779-sunken-veins.json) |
 | Sunkenland | 213475 | [213475-sunkenland.json](./213475-sunkenland.json) |
 | Sunkissed | 313831 | [313831-sunkissed.json](./313831-sunkissed.json) |
 | SunKong | 390768 | [390768-sunkong.json](./390768-sunkong.json) |
