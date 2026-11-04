@@ -2577,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NEP League DS | 61403 | [61403-nep-league-ds.json](./61403-nep-league-ds.json) |
 | Nepenthe | 100600 | [100600-nepenthe.json](./100600-nepenthe.json) |
 | Nephelem: A Path of Vice and Virtue | 342653 | [342653-nephelem-a-path-of-vice-and-virtue.json](./342653-nephelem-a-path-of-vice-and-virtue.json) |
+| Nephelia: Through the Clouds | 336854 | [336854-nephelia-through-the-clouds.json](./336854-nephelia-through-the-clouds.json) |
 | Nepheshel | 222604 | [222604-nepheshel.json](./222604-nepheshel.json) |
 | Nephi's Quest | 71937 | [71937-nephis-quest.json](./71937-nephis-quest.json) |
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
@@ -3280,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Vegas Bounties III | 281369 | [281369-new-vegas-bounties-iii.json](./281369-new-vegas-bounties-iii.json) |
 | New Vegas Games | 72077 | [72077-new-vegas-games.json](./72077-new-vegas-games.json) |
 | New Vegas Killer | 281367 | [281367-new-vegas-killer.json](./281367-new-vegas-killer.json) |
+| New Warfare | 336830 | [336830-new-warfare.json](./336830-new-warfare.json) |
 | New Wheels John? | 71575 | [71575-new-wheels-john.json](./71575-new-wheels-john.json) |
 | New Witch in Town | 143694 | [143694-new-witch-in-town.json](./143694-new-witch-in-town.json) |
 | New World | 263768 | [263768-new-world.json](./263768-new-world.json) |
