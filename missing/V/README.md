@@ -1977,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vietnam '65 | 36116 | [36116-vietnam-65.json](./36116-vietnam-65.json) |
 | Vietnam '66 | 292480 | [292480-vietnam-66.json](./292480-vietnam-66.json) |
 | Vietnam 2: Special Assignment | 73247 | [73247-vietnam-2-special-assignment.json](./73247-vietnam-2-special-assignment.json) |
+| Vietnam War | 341826 | [341826-vietnam-war.json](./341826-vietnam-war.json) |
 | Vietnam War Platoon | 214746 | [214746-vietnam-war-platoon.json](./214746-vietnam-war-platoon.json) |
 | Vietnam War Puzzles | 96472 | [96472-vietnam-war-puzzles.json](./96472-vietnam-war-puzzles.json) |
 | Vietnam War: Platoons | 105999 | [105999-vietnam-war-platoons.json](./105999-vietnam-war-platoons.json) |
