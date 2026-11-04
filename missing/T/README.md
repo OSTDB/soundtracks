@@ -8834,6 +8834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Executioner: Prologue | 51993 | [51993-the-executioner-prologue.json](./51993-the-executioner-prologue.json) |
 | The Executioner: Watchmaker's Son | 170839 | [170839-the-executioner-watchmakers-son.json](./170839-the-executioner-watchmakers-son.json) |
 | The Executive | 90812 | [90812-the-executive.json](./90812-the-executive.json) |
+| The Executive: Movie Industry Tycoon | 301553 | [301553-the-executive-movie-industry-tycoon.json](./301553-the-executive-movie-industry-tycoon.json) |
 | The Exhibit | 360035 | [360035-the-exhibit.json](./360035-the-exhibit.json) |
 | The Exhibition | 407326 | [407326-the-exhibition.json](./407326-the-exhibition.json) |
 | The Exiled | 26241 | [26241-the-exiled.json](./26241-the-exiled.json) |
