@@ -3113,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump If You Can! | 193227 | [193227-jump-if-you-can.json](./193227-jump-if-you-can.json) |
 | Jump into the New Year | 395645 | [395645-jump-into-the-new-year.json](./395645-jump-into-the-new-year.json) |
 | Jump into the Plane | 174703 | [174703-jump-into-the-plane.json](./174703-jump-into-the-plane.json) |
+| Jump It Up | 334410 | [334410-jump-it-up.json](./334410-jump-it-up.json) |
 | Jump Jack | 85863 | [85863-jump-jack.json](./85863-jump-jack.json) |
 | Jump Jam! | 89022 | [89022-jump-jam.json](./89022-jump-jam.json) |
 | Jump Jeroba | 301442 | [301442-jump-jeroba.json](./301442-jump-jeroba.json) |
