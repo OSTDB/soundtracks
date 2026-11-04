@@ -1889,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Key and Lokk | 408505 | [408505-key-and-lokk.json](./408505-key-and-lokk.json) |
 | Key Defence | 122339 | [122339-key-defence.json](./122339-key-defence.json) |
 | Key Escape | 149247 | [149247-key-escape.json](./149247-key-escape.json) |
+| Key Fairy | 320057 | [320057-key-fairy.json](./320057-key-fairy.json) |
 | Key Finder | 358940 | [358940-key-finder.json](./358940-key-finder.json) |
 | Key Girl | 397895 | [397895-key-girl.json](./397895-key-girl.json) |
 | Key Gunner | 333659 | [333659-key-gunner.json](./333659-key-gunner.json) |
@@ -3580,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiniro no Korda Starlight Orchestra | 220314 | [220314-kiniro-no-korda-starlight-orchestra.json](./220314-kiniro-no-korda-starlight-orchestra.json) |
 | KinitoPet | 282456 | [282456-kinitopet.json](./282456-kinitopet.json) |
 | Kinkey Dong | 275225 | [275225-kinkey-dong.json](./275225-kinkey-dong.json) |
+| Kinki Spiritual Affairs Bureau | 320073 | [320073-kinki-spiritual-affairs-bureau.json](./320073-kinki-spiritual-affairs-bureau.json) |
 | Kinkoi: Golden Time | 207708 | [207708-kinkoi-golden-time.json](./207708-kinkoi-golden-time.json) |
 | Kinkshamed | 105181 | [105181-kinkshamed.json](./105181-kinkshamed.json) |
 | Kinky Cats | 367359 | [367359-kinky-cats.json](./367359-kinky-cats.json) |
@@ -3768,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirikou | 50028 | [50028-kirikou.json](./50028-kirikou.json) |
 | Kirikou and the Wild Beasts | 131862 | [131862-kirikou-and-the-wild-beasts.json](./131862-kirikou-and-the-wild-beasts.json) |
 | Kirilma: Helix Horizon | 406847 | [406847-kirilma-helix-horizon.json](./406847-kirilma-helix-horizon.json) |
+| Kirin no Kuni | 317157 | [317157-kirin-no-kuni.json](./317157-kirin-no-kuni.json) |
 | Kirisame Escape | 377363 | [377363-kirisame-escape.json](./377363-kirisame-escape.json) |
 | Kiritan Island Okawari! | 204731 | [204731-kiritan-island-okawari.json](./204731-kiritan-island-okawari.json) |
 | Kiritan Thruster | 351761 | [351761-kiritan-thruster.json](./351761-kiritan-thruster.json) |
@@ -6154,6 +6157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyen: The Skeleton Amulet | 402754 | [402754-kyen-the-skeleton-amulet.json](./402754-kyen-the-skeleton-amulet.json) |
 | Kyivan Rus | 214197 | [214197-kyivan-rus.json](./214197-kyivan-rus.json) |
 | Kyklos | 407088 | [407088-kyklos.json](./407088-kyklos.json) |
+| Kyle & Lucy: Wonderworld | 317131 | [317131-kyle-and-lucy-wonderworld.json](./317131-kyle-and-lucy-wonderworld.json) |
 | Kyle is Famous: Complete Edition | 173138 | [173138-kyle-is-famous-complete-edition.json](./173138-kyle-is-famous-complete-edition.json) |
 | Kyle is Famous: Kyle is Santa | 171209 | [171209-kyle-is-famous-kyle-is-santa.json](./171209-kyle-is-famous-kyle-is-santa.json) |
 | Kyle Petty's No Fear Racing | 42505 | [42505-kyle-pettys-no-fear-racing.json](./42505-kyle-pettys-no-fear-racing.json) |
