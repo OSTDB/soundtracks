@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can't Believe It's Not Gambling | 82722 | [82722-i-cant-believe-its-not-gambling.json](./82722-i-cant-believe-its-not-gambling.json) |
 | I Can't Believe It's Not Gambling 2(k) | 130716 | [130716-i-cant-believe-its-not-gambling-2-k.json](./130716-i-cant-believe-its-not-gambling-2-k.json) |
 | I Can't Believe It's Not Gambling: GOTY Edition | 74929 | [74929-i-cant-believe-its-not-gambling-goty-edition.json](./74929-i-cant-believe-its-not-gambling-goty-edition.json) |
+| I Can't Believe it's Not Sonic 1 | 321109 | [321109-i-cant-believe-its-not-sonic-1.json](./321109-i-cant-believe-its-not-sonic-1.json) |
 | I Can't Believe the Most Popular Girl in School is a Lesbian, Just Like Me! | 184894 | [184894-i-cant-believe-the-most-popular-girl-in-school-is-a-lesbian-just-like-me.json](./184894-i-cant-believe-the-most-popular-girl-in-school-is-a-lesbian-just-like-me.json) |
 | I can't carry all these ducks! | 177161 | [177161-i-cant-carry-all-these-ducks.json](./177161-i-cant-carry-all-these-ducks.json) |
 | I Can't Cry. | 183930 | [183930-i-cant-cry.json](./183930-i-cant-cry.json) |
@@ -3167,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones and the Last Crusade: The Action Game | 307079 | [307079-indiana-jones-and-the-last-crusade-the-action-game.json](./307079-indiana-jones-and-the-last-crusade-the-action-game.json) |
 | Indiana Jones and the Lost Puzzles | 61042 | [61042-indiana-jones-and-the-lost-puzzles.json](./61042-indiana-jones-and-the-lost-puzzles.json) |
 | Indiana Jones and the Passage of Saints | 395733 | [395733-indiana-jones-and-the-passage-of-saints.json](./395733-indiana-jones-and-the-passage-of-saints.json) |
+| Indiana Jones and The Relic of the Viking | 321096 | [321096-indiana-jones-and-the-relic-of-the-viking.json](./321096-indiana-jones-and-the-relic-of-the-viking.json) |
 | Indiana Jones and the Staff of Kings | 329026 | [329026-indiana-jones-and-the-staff-of-kings.json](./329026-indiana-jones-and-the-staff-of-kings.json) |
 | Indiana Jones and the Staff of Kings | 4932 | [4932-indiana-jones-and-the-staff-of-kings.json](./4932-indiana-jones-and-the-staff-of-kings.json) |
 | Indiana Jones and the Temple of Doom | 290273 | [290273-indiana-jones-and-the-temple-of-doom.json](./290273-indiana-jones-and-the-temple-of-doom.json) |
@@ -3701,7 +3703,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5854,6 +5855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Truck Driver | 296941 | [296941-isekai-truck-driver.json](./296941-isekai-truck-driver.json) |
 | Isekai Valley | 296944 | [296944-isekai-valley.json](./296944-isekai-valley.json) |
 | Isekai x Isekai: Tsugi ha Dono Sakuhin wo | 367445 | [367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json](./367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json) |
+| Isekai-ya | 321269 | [321269-isekai-ya.json](./321269-isekai-ya.json) |
 | Isekai: I'm an FPS Hero Who Was Summoned to Another World | 348287 | [348287-isekai-im-an-fps-hero-who-was-summoned-to-another-world.json](./348287-isekai-im-an-fps-hero-who-was-summoned-to-another-world.json) |
 | Isekai: Slow Life | 261796 | [261796-isekai-slow-life.json](./261796-isekai-slow-life.json) |
 | Isekai: Waifu Overlord | 419904 | [419904-isekai-waifu-overlord.json](./419904-isekai-waifu-overlord.json) |
@@ -6497,6 +6499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itsuka, Todoku, Ano Sora ni.: You no Michi to Hi no Tasogare to | 372571 | [372571-itsuka-todoku-ano-sora-ni-you-no-michi-to-hi-no-tasogare-to.json](./372571-itsuka-todoku-ano-sora-ni-you-no-michi-to-hi-no-tasogare-to.json) |
 | Itsumo no Jikan, itsumo no Basho de | 97799 | [97799-itsumo-no-jikan-itsumo-no-basho-de.json](./97799-itsumo-no-jikan-itsumo-no-basho-de.json) |
 | Itsutsu no Neito+ | 206550 | [206550-itsutsu-no-neito.json](./206550-itsutsu-no-neito.json) |
+| Itsutsu no Neito+ | 321244 | [321244-itsutsu-no-neito.json](./321244-itsutsu-no-neito.json) |
 | Itsy | 309898 | [309898-itsy.json](./309898-itsy.json) |
 | Itsy Blitzy | 107391 | [107391-itsy-blitzy.json](./107391-itsy-blitzy.json) |
 | Ittle Dew | 7964 | [7964-ittle-dew.json](./7964-ittle-dew.json) |
