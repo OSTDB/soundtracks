@@ -2712,7 +2712,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5399,6 +5398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kǒudài Guàishòu Lǜyè Bǎn I | 341936 | [341936-koudai-guaishou-luye-ban-i.json](./341936-koudai-guaishou-luye-ban-i.json) |
 | Kǒudài Guàishòu Lǜyè Bǎn II | 341937 | [341937-koudai-guaishou-luye-ban-ii.json](./341937-koudai-guaishou-luye-ban-ii.json) |
 | Kǒudài Guàishòu Lǜyè Bǎn III | 341938 | [341938-koudai-guaishou-luye-ban-iii.json](./341938-koudai-guaishou-luye-ban-iii.json) |
+| Kǒudài Yāoguài Báijīn Bǎn | 342989 | [342989-koudai-yaoguai-baijin-ban.json](./342989-koudai-yaoguai-baijin-ban.json) |
 | Koudelka | 4169 | [4169-koudelka.json](./4169-koudelka.json) |
 | Kouei no Tou | 206373 | [206373-kouei-no-tou.json](./206373-kouei-no-tou.json) |
 | Koueki Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kanken Training | 56214 | [56214-koueki-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kanken-training.json](./56214-koueki-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kanken-training.json) |
@@ -5595,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krispain Hero VR: Roguelite Dungeon Shooter Simulator | 282144 | [282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json](./282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json) |
 | Krispee Street | 187786 | [187786-krispee-street.json](./187786-krispee-street.json) |
 | Kriss Kross by Powgi | 91256 | [91256-kriss-kross-by-powgi.json](./91256-kriss-kross-by-powgi.json) |
+| Kriss' Journey | 343151 | [343151-kriss-journey.json](./343151-kriss-journey.json) |
 | KrissX | 67327 | [67327-krissx.json](./67327-krissx.json) |
 | Kristal Mağara | 235269 | [235269-kristal-magara.json](./235269-kristal-magara.json) |
 | Kristala | 140793 | [140793-kristala.json](./140793-kristala.json) |
@@ -6133,6 +6134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyokkou no Marriage | 317099 | [317099-kyokkou-no-marriage.json](./317099-kyokkou-no-marriage.json) |
 | Kyokkou no Marriage: Episode Lia | 317100 | [317100-kyokkou-no-marriage-episode-lia.json](./317100-kyokkou-no-marriage-episode-lia.json) |
 | Kyokon Tensei: Onna Dake no Isekai de Himekishi-tachi o Tanetsuke Shihai! Subete no Min ga Niku Onaho Desu. Harami Ana ni Seishi-sama Omegumi Kudasai♪ | 59019 | [59019-kyokon-tensei-onna-dake-no-isekai-de-himekishi-tachi-o-tanetsuke-shihai-subete-no-min-ga-niku-onaho-desu-harami-ana-ni-seishi-sama-omegumi-kudasai.json](./59019-kyokon-tensei-onna-dake-no-isekai-de-himekishi-tachi-o-tanetsuke-shihai-subete-no-min-ga-niku-onaho-desu-harami-ana-ni-seishi-sama-omegumi-kudasai.json) |
+| Kyokou Eiyuu GinGaia | 342995 | [342995-kyokou-eiyuu-gingaia.json](./342995-kyokou-eiyuu-gingaia.json) |
 | Kyokou Eiyuu GinGaia Final | 395058 | [395058-kyokou-eiyuu-gingaia-final.json](./395058-kyokou-eiyuu-gingaia-final.json) |
 | Kyokou Eiyuu GinGaia Vol.1 | 395054 | [395054-kyokou-eiyuu-gingaia-vol-1.json](./395054-kyokou-eiyuu-gingaia-vol-1.json) |
 | Kyokou Eiyuu GinGaia Vol.2 | 395055 | [395055-kyokou-eiyuu-gingaia-vol-2.json](./395055-kyokou-eiyuu-gingaia-vol-2.json) |
