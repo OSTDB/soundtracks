@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Breezy Drive | 295603 | [295603-easy-breezy-drive.json](./295603-easy-breezy-drive.json) |
 | Easy Bubbles | 344720 | [344720-easy-bubbles.json](./344720-easy-bubbles.json) |
 | Easy Cute Clean Up Lesson | 320469 | [320469-easy-cute-clean-up-lesson.json](./320469-easy-cute-clean-up-lesson.json) |
+| Easy Dungeon | 313938 | [313938-easy-dungeon.json](./313938-easy-dungeon.json) |
 | Easy Flight Simulator | 159385 | [159385-easy-flight-simulator.json](./159385-easy-flight-simulator.json) |
 | Easy Flight Simulator 2 | 375408 | [375408-easy-flight-simulator-2.json](./375408-easy-flight-simulator-2.json) |
 | Easy Game | 232917 | [232917-easy-game.json](./232917-easy-game.json) |
@@ -2547,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Darts | 98956 | [98956-elite-darts.json](./98956-elite-darts.json) |
 | Elite Encounter | 28660 | [28660-elite-encounter.json](./28660-elite-encounter.json) |
 | Elite Escape | 121842 | [121842-elite-escape.json](./121842-elite-escape.json) |
+| Elite Exorcist Miko | 313912 | [313912-elite-exorcist-miko.json](./313912-elite-exorcist-miko.json) |
 | Elite Force | 223659 | [223659-elite-force.json](./223659-elite-force.json) |
 | Elite Forces | 224703 | [224703-elite-forces.json](./224703-elite-forces.json) |
 | Elite Forces: Navy SEALs | 84183 | [84183-elite-forces-navy-seals.json](./84183-elite-forces-navy-seals.json) |
