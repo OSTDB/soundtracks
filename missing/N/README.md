@@ -6398,6 +6398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noracam's Slider Challenge | 215622 | [215622-noracams-slider-challenge.json](./215622-noracams-slider-challenge.json) |
 | Noragami Aragoto | 174843 | [174843-noragami-aragoto.json](./174843-noragami-aragoto.json) |
 | Norah's Song | 298655 | [298655-norahs-song.json](./298655-norahs-song.json) |
+| Norbert's Diary | 309800 | [309800-norberts-diary.json](./309800-norberts-diary.json) |
 | Norco | 129097 | [129097-norco.json](./129097-norco.json) |
 | Nord | 18949 | [18949-nord.json](./18949-nord.json) |
 | Nord and Bert Couldn't Make Head or Tail of It | 12619 | [12619-nord-and-bert-couldnt-make-head-or-tail-of-it.json](./12619-nord-and-bert-couldnt-make-head-or-tail-of-it.json) |
