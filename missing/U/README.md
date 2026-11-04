@@ -3288,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urizen Frosty Plus the New Warriors | 169828 | [169828-urizen-frosty-plus-the-new-warriors.json](./169828-urizen-frosty-plus-the-new-warriors.json) |
 | Urja | 36064 | [36064-urja.json](./36064-urja.json) |
 | Urkon Online | 133650 | [133650-urkon-online.json](./133650-urkon-online.json) |
+| URLate | 334424 | [334424-urlate.json](./334424-urlate.json) |
 | URLIRL | 394837 | [394837-urlirl.json](./394837-urlirl.json) |
 | UrlX | 350541 | [350541-urlx.json](./350541-urlx.json) |
 | Urmă | 343152 | [343152-urma.json](./343152-urma.json) |
