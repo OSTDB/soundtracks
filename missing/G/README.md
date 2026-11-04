@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gacha Life 2 | 307274 | [307274-gacha-life-2.json](./307274-gacha-life-2.json) |
 | Gacha Memories | 102680 | [102680-gacha-memories.json](./102680-gacha-memories.json) |
 | Gacha Pets | 296531 | [296531-gacha-pets.json](./296531-gacha-pets.json) |
+| Gacha Resort | 323076 | [323076-gacha-resort.json](./323076-gacha-resort.json) |
 | Gacha Studio | 98854 | [98854-gacha-studio.json](./98854-gacha-studio.json) |
 | Gacha World | 281450 | [281450-gacha-world.json](./281450-gacha-world.json) |
 | Gacha&Gacha | 413465 | [413465-gacha-and-gacha.json](./413465-gacha-and-gacha.json) |
@@ -7885,6 +7886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graphical Limbo | 326926 | [326926-graphical-limbo.json](./326926-graphical-limbo.json) |
 | Graphite | 351161 | [351161-graphite.json](./351161-graphite.json) |
 | Graphomata | 288878 | [288878-graphomata.json](./288878-graphomata.json) |
+| Graphs | 323054 | [323054-graphs.json](./323054-graphs.json) |
 | GraphSpacer | 68637 | [68637-graphspacer.json](./68637-graphspacer.json) |
 | GraphSpacer Black | 80243 | [80243-graphspacer-black.json](./80243-graphspacer-black.json) |
 | Graphwar | 210415 | [210415-graphwar.json](./210415-graphwar.json) |
