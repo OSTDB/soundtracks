@@ -1355,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Construction 3D | 294046 | [294046-idle-construction-3d.json](./294046-idle-construction-3d.json) |
 | Idle Cooking Emperor | 117480 | [117480-idle-cooking-emperor.json](./117480-idle-cooking-emperor.json) |
 | Idle Craft | 333081 | [333081-idle-craft.json](./333081-idle-craft.json) |
+| Idle Critter Adventure | 348130 | [348130-idle-critter-adventure.json](./348130-idle-critter-adventure.json) |
 | Idle Crown | 409201 | [409201-idle-crown.json](./409201-idle-crown.json) |
 | Idle Crypto Capitalist | 262924 | [262924-idle-crypto-capitalist.json](./262924-idle-crypto-capitalist.json) |
 | Idle Cultivation | 369241 | [369241-idle-cultivation.json](./369241-idle-cultivation.json) |
@@ -3674,7 +3675,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4978,6 +4978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Hive | 276749 | [276749-into-the-hive.json](./276749-into-the-hive.json) |
 | Into the Ice: Nazis of Neuschwabenland | 38802 | [38802-into-the-ice-nazis-of-neuschwabenland.json](./38802-into-the-ice-nazis-of-neuschwabenland.json) |
 | Into the Inferno | 258629 | [258629-into-the-inferno.json](./258629-into-the-inferno.json) |
+| Into the Inferno | 347981 | [347981-into-the-inferno.json](./347981-into-the-inferno.json) |
 | Into the Infinite | 132417 | [132417-into-the-infinite.json](./132417-into-the-infinite.json) |
 | Into the Knight | 157959 | [157959-into-the-knight.json](./157959-into-the-knight.json) |
 | Into the Light | 157424 | [157424-into-the-light.json](./157424-into-the-light.json) |
@@ -6351,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's T-Time | 230843 | [230843-its-t-time.json](./230843-its-t-time.json) |
 | It's Time | 201246 | [201246-its-time.json](./201246-its-time.json) |
 | It's Time | 23888 | [23888-its-time.json](./23888-its-time.json) |
+| It's Time, Your Majesty | 347973 | [347973-its-time-your-majesty.json](./347973-its-time-your-majesty.json) |
 | It's Titanic | 89188 | [89188-its-titanic.json](./89188-its-titanic.json) |
 | It's Too Late to Apologize | 401642 | [401642-its-too-late-to-apologize.json](./401642-its-too-late-to-apologize.json) |
 | It's Too Rainy Day | 116057 | [116057-its-too-rainy-day.json](./116057-its-too-rainy-day.json) |
