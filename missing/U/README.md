@@ -3284,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urkon Online | 133650 | [133650-urkon-online.json](./133650-urkon-online.json) |
 | URLIRL | 394837 | [394837-urlirl.json](./394837-urlirl.json) |
 | UrlX | 350541 | [350541-urlx.json](./350541-urlx.json) |
+| Urmă | 343152 | [343152-urma.json](./343152-urma.json) |
 | Urmels großer Flug | 410090 | [410090-urmels-gro-er-flug.json](./410090-urmels-gro-er-flug.json) |
 | Uro2 | 125121 | [125121-uro2.json](./125121-uro2.json) |
 | Uroboros | 399020 | [399020-uroboros.json](./399020-uroboros.json) |
