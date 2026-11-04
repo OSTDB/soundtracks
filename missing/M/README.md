@@ -8206,6 +8206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melancholy Lake: Camocipher12 Shorts | 408711 | [408711-melancholy-lake-camocipher12-shorts.json](./408711-melancholy-lake-camocipher12-shorts.json) |
 | Melancholy Love | 139483 | [139483-melancholy-love.json](./139483-melancholy-love.json) |
 | Melancholy Republic | 33666 | [33666-melancholy-republic.json](./33666-melancholy-republic.json) |
+| Melanie and the Magic Forest | 311946 | [311946-melanie-and-the-magic-forest.json](./311946-melanie-and-the-magic-forest.json) |
 | Melbits POD | 138236 | [138236-melbits-pod.json](./138236-melbits-pod.json) |
 | Melbits World | 103403 | [103403-melbits-world.json](./103403-melbits-world.json) |
 | Melbourne Tatty | 66780 | [66780-melbourne-tatty.json](./66780-melbourne-tatty.json) |
@@ -10342,6 +10343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Combat Flight Simulator: WWII Europe Series | 243975 | [243975-microsoft-combat-flight-simulator-wwii-europe-series.json](./243975-microsoft-combat-flight-simulator-wwii-europe-series.json) |
 | Microsoft Combat Flight Simulator: WWII Europe Series | 36536 | [36536-microsoft-combat-flight-simulator-wwii-europe-series.json](./36536-microsoft-combat-flight-simulator-wwii-europe-series.json) |
 | Microsoft Combat Flight Simulator: WWII Europe Series - Behind Enemy Lines | 36537 | [36537-microsoft-combat-flight-simulator-wwii-europe-series-behind-enemy-lines.json](./36537-microsoft-combat-flight-simulator-wwii-europe-series-behind-enemy-lines.json) |
+| Microsoft Dangerous Creatures | 311960 | [311960-microsoft-dangerous-creatures.json](./311960-microsoft-dangerous-creatures.json) |
 | Microsoft Entertainment Pack 2 | 79178 | [79178-microsoft-entertainment-pack-2.json](./79178-microsoft-entertainment-pack-2.json) |
 | Microsoft Entertainment Pack 3 | 124410 | [124410-microsoft-entertainment-pack-3.json](./124410-microsoft-entertainment-pack-3.json) |
 | Microsoft Entertainment Pack 4 | 79964 | [79964-microsoft-entertainment-pack-4.json](./79964-microsoft-entertainment-pack-4.json) |
@@ -11381,6 +11383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millefiori | 150155 | [150155-millefiori.json](./150155-millefiori.json) |
 | Millenium: Return To Earth | 12922 | [12922-millenium-return-to-earth.json](./12922-millenium-return-to-earth.json) |
 | Millennia: Altered Destinies | 71374 | [71374-millennia-altered-destinies.json](./71374-millennia-altered-destinies.json) |
+| Millennia: Ancient Worlds | 312236 | [312236-millennia-ancient-worlds.json](./312236-millennia-ancient-worlds.json) |
 | Millennia: Eagle Archers & Wolfpack Warband | 294010 | [294010-millennia-eagle-archers-and-wolfpack-warband.json](./294010-millennia-eagle-archers-and-wolfpack-warband.json) |
 | Millennial Simulator | 247618 | [247618-millennial-simulator.json](./247618-millennial-simulator.json) |
 | Millennials | 302183 | [302183-millennials.json](./302183-millennials.json) |
@@ -17936,6 +17939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Death: The Violent Silence | 311856 | [311856-mr-death-the-violent-silence.json](./311856-mr-death-the-violent-silence.json) |
 | Mr. Dig | 28561 | [28561-mr-dig.json](./28561-mr-dig.json) |
 | Mr. Do! | 297491 | [297491-mr-do.json](./297491-mr-do.json) |
+| Mr. Do! | 311968 | [311968-mr-do.json](./311968-mr-do.json) |
 | Mr. Do! | 365697 | [365697-mr-do.json](./365697-mr-do.json) |
 | Mr. Do! | 9554 | [9554-mr-do.json](./9554-mr-do.json) |
 | Mr. Do!'s Castle | 24408 | [24408-mr-do-s-castle.json](./24408-mr-do-s-castle.json) |
@@ -20904,6 +20908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Box: Evolution | 259954 | [259954-mystery-box-evolution.json](./259954-mystery-box-evolution.json) |
 | Mystery Box: Hidden Secrets | 174041 | [174041-mystery-box-hidden-secrets.json](./174041-mystery-box-hidden-secrets.json) |
 | Mystery Box: The Journey | 257360 | [257360-mystery-box-the-journey.json](./257360-mystery-box-the-journey.json) |
+| Mystery Boxes | 311966 | [311966-mystery-boxes.json](./311966-mystery-boxes.json) |
 | Mystery Case Files: 13th Skull | 5515 | [5515-mystery-case-files-13th-skull.json](./5515-mystery-case-files-13th-skull.json) |
 | Mystery Case Files: A Crime in Reflection - Collector's Edition | 283552 | [283552-mystery-case-files-a-crime-in-reflection-collectors-edition.json](./283552-mystery-case-files-a-crime-in-reflection-collectors-edition.json) |
 | Mystery Case Files: Black Crown | 140229 | [140229-mystery-case-files-black-crown.json](./140229-mystery-case-files-black-crown.json) |
