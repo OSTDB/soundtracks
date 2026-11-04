@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -13530,6 +13531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Drag Racing: Pro Mod Pack 1 | 255970 | [255970-bounty-drag-racing-pro-mod-pack-1.json](./255970-bounty-drag-racing-pro-mod-pack-1.json) |
 | Bounty Drag Racing: Pro Mod Pack 2 | 255969 | [255969-bounty-drag-racing-pro-mod-pack-2.json](./255969-bounty-drag-racing-pro-mod-pack-2.json) |
 | Bounty Drag Racing: Pro Mod Pack 3 | 274742 | [274742-bounty-drag-racing-pro-mod-pack-3.json](./274742-bounty-drag-racing-pro-mod-pack-3.json) |
+| Bounty Drag Racing: Pro Mod Pack 4 | 302564 | [302564-bounty-drag-racing-pro-mod-pack-4.json](./302564-bounty-drag-racing-pro-mod-pack-4.json) |
 | Bounty For Sharks | 129992 | [129992-bounty-for-sharks.json](./129992-bounty-for-sharks.json) |
 | Bounty Fusion | 376858 | [376858-bounty-fusion.json](./376858-bounty-fusion.json) |
 | Bounty Game | 191462 | [191462-bounty-game.json](./191462-bounty-game.json) |
@@ -14747,6 +14749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking the Barrier | 268670 | [268670-breaking-the-barrier.json](./268670-breaking-the-barrier.json) |
 | Breaking The Rules: The Roman Tournament | 52477 | [52477-breaking-the-rules-the-roman-tournament.json](./52477-breaking-the-rules-the-roman-tournament.json) |
 | Breaking the Silent Lies | 216611 | [216611-breaking-the-silent-lies.json](./216611-breaking-the-silent-lies.json) |
+| Breaking Time | 302547 | [302547-breaking-time.json](./302547-breaking-time.json) |
 | Breaking Up Is Hard To Do | 389660 | [389660-breaking-up-is-hard-to-do.json](./389660-breaking-up-is-hard-to-do.json) |
 | Breaking Wheel | 30857 | [30857-breaking-wheel.json](./30857-breaking-wheel.json) |
 | BreakingPoint | 395095 | [395095-breakingpoint.json](./395095-breakingpoint.json) |
