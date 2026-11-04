@@ -3070,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headshot! | 365725 | [365725-headshot.json](./365725-headshot.json) |
 | Headsnatchers | 95026 | [95026-headsnatchers.json](./95026-headsnatchers.json) |
 | Headspace | 385699 | [385699-headspace.json](./385699-headspace.json) |
+| Headspace: Unwind Your Mind | 322497 | [322497-headspace-unwind-your-mind.json](./322497-headspace-unwind-your-mind.json) |
 | Headspun: Dazed Edition | 134664 | [134664-headspun-dazed-edition.json](./134664-headspun-dazed-edition.json) |
 | HeadSquare | 75925 | [75925-headsquare.json](./75925-headsquare.json) |
 | Headstart | 54648 | [54648-headstart.json](./54648-headstart.json) |
@@ -4178,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellFurnace | 237951 | [237951-hellfurnace.json](./237951-hellfurnace.json) |
 | Hellgate | 125403 | [125403-hellgate.json](./125403-hellgate.json) |
 | Hellgate | 291043 | [291043-hellgate.json](./291043-hellgate.json) |
+| Hellgate Senigallia Remake | 322484 | [322484-hellgate-senigallia-remake.json](./322484-hellgate-senigallia-remake.json) |
 | Hellgate VR | 158718 | [158718-hellgate-vr.json](./158718-hellgate-vr.json) |
 | Hellgate: London FPS | 191504 | [191504-hellgate-london-fps.json](./191504-hellgate-london-fps.json) |
 | Hellgate: London VR | 36778 | [36778-hellgate-london-vr.json](./36778-hellgate-london-vr.json) |
@@ -12080,6 +12082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypercar Evolution 2025 | 385977 | [385977-hypercar-evolution-2025.json](./385977-hypercar-evolution-2025.json) |
 | Hypercar Racing | 378762 | [378762-hypercar-racing.json](./378762-hypercar-racing.json) |
 | HyperCarsX | 104349 | [104349-hypercarsx.json](./104349-hypercarsx.json) |
+| Hyperchannel | 322496 | [322496-hyperchannel.json](./322496-hyperchannel.json) |
 | Hypercharge: Unboxed | 39758 | [39758-hypercharge-unboxed.json](./39758-hypercharge-unboxed.json) |
 | Hypercharge: Unboxed - Complete Edition | 227408 | [227408-hypercharge-unboxed-complete-edition.json](./227408-hypercharge-unboxed-complete-edition.json) |
 | Hyperchase Auto Race | 41990 | [41990-hyperchase-auto-race.json](./41990-hyperchase-auto-race.json) |
