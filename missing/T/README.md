@@ -2370,6 +2370,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TapMazing | 372046 | [372046-tapmazing.json](./372046-tapmazing.json) |
 | Tapnimals | 102687 | [102687-tapnimals.json](./102687-tapnimals.json) |
 | Tapocalypse | 30141 | [30141-tapocalypse.json](./30141-tapocalypse.json) |
+| Tapper | 307534 | [307534-tapper.json](./307534-tapper.json) |
+| Tapper | 307536 | [307536-tapper.json](./307536-tapper.json) |
+| Tapper | 307539 | [307539-tapper.json](./307539-tapper.json) |
+| Tapper | 307540 | [307540-tapper.json](./307540-tapper.json) |
 | Tapper | 307546 | [307546-tapper.json](./307546-tapper.json) |
 | Tapper | 307547 | [307547-tapper.json](./307547-tapper.json) |
 | Tapper | 307548 | [307548-tapper.json](./307548-tapper.json) |
@@ -14086,6 +14090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Only One Girl 1stQ | 184049 | [184049-the-only-one-girl-1stq.json](./184049-the-only-one-girl-1stq.json) |
 | The Only Survivor: Open world | 231887 | [231887-the-only-survivor-open-world.json](./231887-the-only-survivor-open-world.json) |
 | The Only Wise | 157977 | [157977-the-only-wise.json](./157977-the-only-wise.json) |
+| The Oogieloves: Milkshake Mayhem | 307511 | [307511-the-oogieloves-milkshake-mayhem.json](./307511-the-oogieloves-milkshake-mayhem.json) |
 | The Ooze | 46251 | [46251-the-ooze.json](./46251-the-ooze.json) |
 | The Open League | 367999 | [367999-the-open-league.json](./367999-the-open-league.json) |
 | The Open Sky | 181135 | [181135-the-open-sky.json](./181135-the-open-sky.json) |
@@ -14378,6 +14383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Penguin IQ Test | 151282 | [151282-the-penguin-iq-test.json](./151282-the-penguin-iq-test.json) |
 | The Penguin P | 215107 | [215107-the-penguin-p.json](./215107-the-penguin-p.json) |
 | The Penguins of Madagascar | 18273 | [18273-the-penguins-of-madagascar.json](./18273-the-penguins-of-madagascar.json) |
+| The Penguins of Madagascar: Dr. Blowhole Returns Again! | 307491 | [307491-the-penguins-of-madagascar-dr-blowhole-returns-again.json](./307491-the-penguins-of-madagascar-dr-blowhole-returns-again.json) |
 | The Penguins of Madagascar: Dr. Blowhole Returns Again! | 3768 | [3768-the-penguins-of-madagascar-dr-blowhole-returns-again.json](./3768-the-penguins-of-madagascar-dr-blowhole-returns-again.json) |
 | The Penguins of Madagascar: Dr. Blowhole Returns Again! | 51108 | [51108-the-penguins-of-madagascar-dr-blowhole-returns-again.json](./51108-the-penguins-of-madagascar-dr-blowhole-returns-again.json) |
 | The Penguins of Madagascar: Mission Madness | 231385 | [231385-the-penguins-of-madagascar-mission-madness.json](./231385-the-penguins-of-madagascar-mission-madness.json) |
@@ -22688,6 +22694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Gnome Game | 288591 | [288591-tiny-gnome-game.json](./288591-tiny-gnome-game.json) |
 | Tiny Goalie | 233081 | [233081-tiny-goalie.json](./233081-tiny-goalie.json) |
 | Tiny Gods of the Nile | 191197 | [191197-tiny-gods-of-the-nile.json](./191197-tiny-gods-of-the-nile.json) |
+| Tiny Golf | 307505 | [307505-tiny-golf.json](./307505-tiny-golf.json) |
 | Tiny Golf Puzzles | 180464 | [180464-tiny-golf-puzzles.json](./180464-tiny-golf-puzzles.json) |
 | Tiny Guardians | 33841 | [33841-tiny-guardians.json](./33841-tiny-guardians.json) |
 | Tiny Hands Adventure | 102226 | [102226-tiny-hands-adventure.json](./102226-tiny-hands-adventure.json) |
