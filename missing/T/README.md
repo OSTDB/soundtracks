@@ -10108,6 +10108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Happy Hereafter | 17521 | [17521-the-happy-hereafter.json](./17521-the-happy-hereafter.json) |
 | The Happy Little Virus | 158903 | [158903-the-happy-little-virus.json](./158903-the-happy-little-virus.json) |
 | The Happyhills Homicide | 209496 | [209496-the-happyhills-homicide.json](./209496-the-happyhills-homicide.json) |
+| The Happyhills Homicide 2: Out For Blood | 337364 | [337364-the-happyhills-homicide-2-out-for-blood.json](./337364-the-happyhills-homicide-2-out-for-blood.json) |
 | The Harakin | 385968 | [385968-the-harakin.json](./385968-the-harakin.json) |
 | The Harbinger of the Deep | 396280 | [396280-the-harbinger-of-the-deep.json](./396280-the-harbinger-of-the-deep.json) |
 | The Harbinger's Head | 103466 | [103466-the-harbingers-head.json](./103466-the-harbingers-head.json) |
@@ -13277,6 +13278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mind Snare | 363881 | [363881-the-mind-snare.json](./363881-the-mind-snare.json) |
 | The Mind's Decay | 258915 | [258915-the-minds-decay.json](./258915-the-minds-decay.json) |
 | The Mind's Eclipse | 76579 | [76579-the-minds-eclipse.json](./76579-the-minds-eclipse.json) |
+| The Mindvasion | 337359 | [337359-the-mindvasion.json](./337359-the-mindvasion.json) |
 | The Mindwarp | 206169 | [206169-the-mindwarp.json](./206169-the-mindwarp.json) |
 | The Mine | 13739 | [13739-the-mine.json](./13739-the-mine.json) |
 | The Mine | 343769 | [343769-the-mine.json](./343769-the-mine.json) |
@@ -15711,6 +15713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shenanigans of Cherry and Trix | 127374 | [127374-the-shenanigans-of-cherry-and-trix.json](./127374-the-shenanigans-of-cherry-and-trix.json) |
 | The Sheng's Written: Journey of Hoo | 301056 | [301056-the-shengs-written-journey-of-hoo.json](./301056-the-shengs-written-journey-of-hoo.json) |
 | The Shepherd | 154070 | [154070-the-shepherd.json](./154070-the-shepherd.json) |
+| The Shepherd's Stand | 337369 | [337369-the-shepherds-stand.json](./337369-the-shepherds-stand.json) |
 | The Sheriff | 324174 | [324174-the-sheriff.json](./324174-the-sheriff.json) |
 | The Sheriff's Town | 264206 | [264206-the-sheriffs-town.json](./264206-the-sheriffs-town.json) |
 | The Shield: The Game | 70186 | [70186-the-shield-the-game.json](./70186-the-shield-the-game.json) |
@@ -19636,6 +19639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three of Us | 181753 | [181753-three-of-us.json](./181753-three-of-us.json) |
 | Three Quarters Space Station | 220518 | [220518-three-quarters-space-station.json](./220518-three-quarters-space-station.json) |
 | Three Random Archives | 265114 | [265114-three-random-archives.json](./265114-three-random-archives.json) |
+| Three Sisters | 337389 | [337389-three-sisters.json](./337389-three-sisters.json) |
 | Three Six Nine | 362985 | [362985-three-six-nine.json](./362985-three-six-nine.json) |
 | Three Skies | 207736 | [207736-three-skies.json](./207736-three-skies.json) |
 | Three Skies Ascension | 318398 | [318398-three-skies-ascension.json](./318398-three-skies-ascension.json) |
@@ -30990,6 +30994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tungsten Orbital Destroyer | 180700 | [180700-tungsten-orbital-destroyer.json](./180700-tungsten-orbital-destroyer.json) |
 | Tungtung's Nightmare | 375934 | [375934-tungtungs-nightmare.json](./375934-tungtungs-nightmare.json) |
 | Tungulus | 47986 | [47986-tungulus.json](./47986-tungulus.json) |
+| Tunguska 2: Whitefall | 337376 | [337376-tunguska-2-whitefall.json](./337376-tunguska-2-whitefall.json) |
 | Tunguska: Dead Zone | 251761 | [251761-tunguska-dead-zone.json](./251761-tunguska-dead-zone.json) |
 | Tunguska: Legend of Faith | 43901 | [43901-tunguska-legend-of-faith.json](./43901-tunguska-legend-of-faith.json) |
 | Tunguska: Shadow Master | 259075 | [259075-tunguska-shadow-master.json](./259075-tunguska-shadow-master.json) |
