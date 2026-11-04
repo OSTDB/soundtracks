@@ -7876,6 +7876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graphic Mahjong | 91959 | [91959-graphic-mahjong.json](./91959-graphic-mahjong.json) |
 | Graphic Sugaku | 345920 | [345920-graphic-sugaku.json](./345920-graphic-sugaku.json) |
 | Graphic Tower Defense | 348767 | [348767-graphic-tower-defense.json](./348767-graphic-tower-defense.json) |
+| Graphical Limbo | 326926 | [326926-graphical-limbo.json](./326926-graphical-limbo.json) |
 | Graphite | 351161 | [351161-graphite.json](./351161-graphite.json) |
 | Graphomata | 288878 | [288878-graphomata.json](./288878-graphomata.json) |
 | GraphSpacer | 68637 | [68637-graphspacer.json](./68637-graphspacer.json) |
@@ -10882,6 +10883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gupank | 419888 | [419888-gupank.json](./419888-gupank.json) |
 | Guppy | 75587 | [75587-guppy.json](./75587-guppy.json) |
 | Guppy's Quest | 58698 | [58698-guppys-quest.json](./58698-guppys-quest.json) |
+| Gura Christmas 2024 | 326909 | [326909-gura-christmas-2024.json](./326909-gura-christmas-2024.json) |
 | Gura Tambourine | 178885 | [178885-gura-tambourine.json](./178885-gura-tambourine.json) |
 | Gura's Adventure | 184097 | [184097-guras-adventure.json](./184097-guras-adventure.json) |
 | Gura's Birthday | 161177 | [161177-guras-birthday.json](./161177-guras-birthday.json) |
