@@ -9823,6 +9823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker! | 177851 | [177851-clicker.json](./177851-clicker.json) |
 | ClickeRogue | 242547 | [242547-clickerogue.json](./242547-clickerogue.json) |
 | Clickertale 2 | 343883 | [343883-clickertale-2.json](./343883-clickertale-2.json) |
+| Clickertale 3 | 331771 | [331771-clickertale-3.json](./331771-clickertale-3.json) |
 | Clickey | 334749 | [334749-clickey.json](./334749-clickey.json) |
 | Clickey: The Velocity Click | 41929 | [41929-clickey-the-velocity-click.json](./41929-clickey-the-velocity-click.json) |
 | Clicking Bad | 62471 | [62471-clicking-bad.json](./62471-clicking-bad.json) |
@@ -11730,6 +11731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Game: Expansion Pack No. 2 | 161255 | [161255-coloring-game-expansion-pack-no-2.json](./161255-coloring-game-expansion-pack-no-2.json) |
 | Coloring Game: Expansion Pack No. 3 | 161256 | [161256-coloring-game-expansion-pack-no-3.json](./161256-coloring-game-expansion-pack-no-3.json) |
 | Coloring Game: Girls | 255329 | [255329-coloring-game-girls.json](./255329-coloring-game-girls.json) |
+| Coloring Game: Girls 2 | 331614 | [331614-coloring-game-girls-2.json](./331614-coloring-game-girls-2.json) |
 | Coloring Game: Girls 3 | 405891 | [405891-coloring-game-girls-3.json](./405891-coloring-game-girls-3.json) |
 | Coloring Game: Little City | 130402 | [130402-coloring-game-little-city.json](./130402-coloring-game-little-city.json) |
 | Coloring Game: Little City - No.1 | 255590 | [255590-coloring-game-little-city-no-1.json](./255590-coloring-game-little-city-no-1.json) |
@@ -16801,6 +16803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Heart Brawlers: Clash at Otakon | 64681 | [64681-crisis-heart-brawlers-clash-at-otakon.json](./64681-crisis-heart-brawlers-clash-at-otakon.json) |
 | Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
 | Crisis in the Kremlin | 20474 | [20474-crisis-in-the-kremlin.json](./20474-crisis-in-the-kremlin.json) |
+| Crisis in the Kremlin | 331763 | [331763-crisis-in-the-kremlin.json](./331763-crisis-in-the-kremlin.json) |
 | Crisis Island | 244729 | [244729-crisis-island.json](./244729-crisis-island.json) |
 | Crisis Mountain | 21932 | [21932-crisis-mountain.json](./21932-crisis-mountain.json) |
 | Crisis of Dreamcell | 400699 | [400699-crisis-of-dreamcell.json](./400699-crisis-of-dreamcell.json) |
