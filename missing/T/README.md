@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Dual Pack: Necromunda - Underhive Wars & Space Hulk: Tactics | 223872 | [223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json](./223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json) |
 | Tactical Fighter | 56947 | [56947-tactical-fighter.json](./56947-tactical-fighter.json) |
 | Tactical Genius | 35067 | [35067-tactical-genius.json](./35067-tactical-genius.json) |
+| Tactical Ghost | 348125 | [348125-tactical-ghost.json](./348125-tactical-ghost.json) |
 | Tactical Intervention | 5566 | [5566-tactical-intervention.json](./5566-tactical-intervention.json) |
 | Tactical Manager | 182375 | [182375-tactical-manager.json](./182375-tactical-manager.json) |
 | Tactical Manager | 86220 | [86220-tactical-manager.json](./86220-tactical-manager.json) |
@@ -16058,6 +16059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sinking Structure, Clione, and Lost Child: Log-3 | 192419 | [192419-the-sinking-structure-clione-and-lost-child-log-3.json](./192419-the-sinking-structure-clione-and-lost-child-log-3.json) |
 | The Sinking Structure, Clione, and Lost Child: Log5 | 195225 | [195225-the-sinking-structure-clione-and-lost-child-log5.json](./195225-the-sinking-structure-clione-and-lost-child-log5.json) |
 | The Sins | 267573 | [267573-the-sins.json](./267573-the-sins.json) |
+| The Sintonia Chronicles | 348129 | [348129-the-sintonia-chronicles.json](./348129-the-sintonia-chronicles.json) |
 | The Sireen | 277324 | [277324-the-sireen.json](./277324-the-sireen.json) |
 | The Siren's Song | 223454 | [223454-the-sirens-song.json](./223454-the-sirens-song.json) |
 | The Sisters 2: Road to Fame | 249972 | [249972-the-sisters-2-road-to-fame.json](./249972-the-sisters-2-road-to-fame.json) |
@@ -25736,6 +25738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towards the Pantheon: Escaping Eternity | 59145 | [59145-towards-the-pantheon-escaping-eternity.json](./59145-towards-the-pantheon-escaping-eternity.json) |
 | Towards the Sky | 144749 | [144749-towards-the-sky.json](./144749-towards-the-sky.json) |
 | Towards the Stars | 150689 | [150689-towards-the-stars.json](./150689-towards-the-stars.json) |
+| Towars | 348000 | [348000-towars.json](./348000-towars.json) |
 | Towayami | 134273 | [134273-towayami.json](./134273-towayami.json) |
 | Towel Day | 322831 | [322831-towel-day.json](./322831-towel-day.json) |
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
@@ -29452,6 +29455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricks and Treats | 81048 | [81048-tricks-and-treats.json](./81048-tricks-and-treats.json) |
 | Tricks N Treats | 140922 | [140922-tricks-n-treats.json](./140922-tricks-n-treats.json) |
 | Tricks of Light in the Forest | 312873 | [312873-tricks-of-light-in-the-forest.json](./312873-tricks-of-light-in-the-forest.json) |
+| Tricks, Treats and Mirrors: An EoG Side Story | 348126 | [348126-tricks-treats-and-mirrors-an-eog-side-story.json](./348126-tricks-treats-and-mirrors-an-eog-side-story.json) |
 | Trickshot | 206667 | [206667-trickshot.json](./206667-trickshot.json) |
 | TrickShot | 147406 | [147406-trickshot.json](./147406-trickshot.json) |
 | Trickshot League | 138504 | [138504-trickshot-league.json](./138504-trickshot-league.json) |
