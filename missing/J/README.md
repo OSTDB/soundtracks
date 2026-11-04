@@ -919,6 +919,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeff the Janitor | 337491 | [337491-jeff-the-janitor.json](./337491-jeff-the-janitor.json) |
 | Jeff the Killer | 376137 | [376137-jeff-the-killer.json](./376137-jeff-the-killer.json) |
 | Jeff The Killer | 277513 | [277513-jeff-the-killer.json](./277513-jeff-the-killer.json) |
+| Jeff The Killer vs. Slendrina | 321259 | [321259-jeff-the-killer-vs-slendrina.json](./321259-jeff-the-killer-vs-slendrina.json) |
+| Jeff The Killer: Slendermans Betrayal | 321182 | [321182-jeff-the-killer-slendermans-betrayal.json](./321182-jeff-the-killer-slendermans-betrayal.json) |
 | Jeff the Skinner | 348314 | [348314-jeff-the-skinner.json](./348314-jeff-the-skinner.json) |
 | Jeff Wayne's The War of the Worlds | 129581 | [129581-jeff-waynes-the-war-of-the-worlds.json](./129581-jeff-waynes-the-war-of-the-worlds.json) |
 | Jeff Wayne's The War of the Worlds | 65238 | [65238-jeff-waynes-the-war-of-the-worlds.json](./65238-jeff-waynes-the-war-of-the-worlds.json) |
