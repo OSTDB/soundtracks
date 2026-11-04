@@ -1281,6 +1281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handsome Mr. Frog | 31905 | [31905-handsome-mr-frog.json](./31905-handsome-mr-frog.json) |
 | Handsome Roadkill | 177210 | [177210-handsome-roadkill.json](./177210-handsome-roadkill.json) |
 | HandsON | 158232 | [158232-handson.json](./158232-handson.json) |
+| Handstand Hank | 337911 | [337911-handstand-hank.json](./337911-handstand-hank.json) |
 | Handwalk | 402355 | [402355-handwalk.json](./402355-handwalk.json) |
 | Handwriting Fantasy | 244658 | [244658-handwriting-fantasy.json](./244658-handwriting-fantasy.json) |
 | Handwriting HD | 93838 | [93838-handwriting-hd.json](./93838-handwriting-hd.json) |
@@ -3398,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat Sand Race | 416357 | [416357-heat-sand-race.json](./416357-heat-sand-race.json) |
 | Heat wave | 180850 | [180850-heat-wave.json](./180850-heat-wave.json) |
 | Heat Wave | 336543 | [336543-heat-wave.json](./336543-heat-wave.json) |
+| Heat Wave | 337905 | [337905-heat-wave.json](./337905-heat-wave.json) |
 | Heat Wave: Offshore Superboat Racing | 74887 | [74887-heat-wave-offshore-superboat-racing.json](./74887-heat-wave-offshore-superboat-racing.json) |
 | Heatchain | 278404 | [278404-heatchain.json](./278404-heatchain.json) |
 | Heated | 211220 | [211220-heated.json](./211220-heated.json) |
@@ -9175,6 +9177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - The Fall at Dawn’s Rise | 343000 | [343000-honkai-star-rail-the-fall-at-dawn-s-rise.json](./343000-honkai-star-rail-the-fall-at-dawn-s-rise.json) |
 | Honkai: Star Rail - The Lethe Below the Living | 402731 | [402731-honkai-star-rail-the-lethe-below-the-living.json](./402731-honkai-star-rail-the-lethe-below-the-living.json) |
 | Honkai: Star Rail - Then Wake to Weep | 298930 | [298930-honkai-star-rail-then-wake-to-weep.json](./298930-honkai-star-rail-then-wake-to-weep.json) |
+| Honkai: Star Rail - Through the Petals in the Land of Repose | 337916 | [337916-honkai-star-rail-through-the-petals-in-the-land-of-repose.json](./337916-honkai-star-rail-through-the-petals-in-the-land-of-repose.json) |
 | Honkai: Star Rail - To Roll the Stars in Astropolis | 413869 | [413869-honkai-star-rail-to-roll-the-stars-in-astropolis.json](./413869-honkai-star-rail-to-roll-the-stars-in-astropolis.json) |
 | Honkai: Star Rail - Unraveled for Daybreak | 394848 | [394848-honkai-star-rail-unraveled-for-daybreak.json](./394848-honkai-star-rail-unraveled-for-daybreak.json) |
 | Honkaku AI Tousai Daifugo | 144999 | [144999-honkaku-ai-tousai-daifugo.json](./144999-honkaku-ai-tousai-daifugo.json) |
@@ -9224,6 +9227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hood Ninja | 321932 | [321932-hood-ninja.json](./321932-hood-ninja.json) |
 | Hood RPG | 326099 | [326099-hood-rpg.json](./326099-hood-rpg.json) |
 | Hood Story: Kaito Yamazaki | 216717 | [216717-hood-story-kaito-yamazaki.json](./216717-hood-story-kaito-yamazaki.json) |
+| Hood Tales Part 1: Morocco | 337918 | [337918-hood-tales-part-1-morocco.json](./337918-hood-tales-part-1-morocco.json) |
 | Hood Warfare | 233644 | [233644-hood-warfare.json](./233644-hood-warfare.json) |
 | Hood: Outlaws & Legends | 136512 | [136512-hood-outlaws-and-legends.json](./136512-hood-outlaws-and-legends.json) |
 | Hood: Outlaws & Legends - Forest Lords Pack | 223870 | [223870-hood-outlaws-and-legends-forest-lords-pack.json](./223870-hood-outlaws-and-legends-forest-lords-pack.json) |
