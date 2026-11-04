@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Kings | 123894 | [123894-last-kings.json](./123894-last-kings.json) |
 | Last Kiss Before Summer | 218631 | [218631-last-kiss-before-summer.json](./218631-last-kiss-before-summer.json) |
 | Last Knight | 177847 | [177847-last-knight.json](./177847-last-knight.json) |
+| Last Knight | 345757 | [345757-last-knight.json](./345757-last-knight.json) |
 | Last Knight | 53266 | [53266-last-knight.json](./53266-last-knight.json) |
 | Last Knight in Camelot | 70768 | [70768-last-knight-in-camelot.json](./70768-last-knight-in-camelot.json) |
 | Last Labyrinth | 109245 | [109245-last-labyrinth.json](./109245-last-labyrinth.json) |
