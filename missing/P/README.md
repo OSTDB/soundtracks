@@ -2041,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranecro | 201459 | [201459-paranecro.json](./201459-paranecro.json) |
 | Paranoia | 107149 | [107149-paranoia.json](./107149-paranoia.json) |
 | Paranoia | 165050 | [165050-paranoia.json](./165050-paranoia.json) |
+| Paranoia | 314786 | [314786-paranoia.json](./314786-paranoia.json) |
 | Paranoia | 399031 | [399031-paranoia.json](./399031-paranoia.json) |
 | Paranoia 2: Savior | 123592 | [123592-paranoia-2-savior.json](./123592-paranoia-2-savior.json) |
 | Paranoia Party | 235415 | [235415-paranoia-party.json](./235415-paranoia-party.json) |
@@ -6243,11 +6244,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 2 Power-Cut | 291552 | [291552-pikmin-2-power-cut.json](./291552-pikmin-2-power-cut.json) |
 | Pikmin 2 Regrown | 299745 | [299745-pikmin-2-regrown.json](./299745-pikmin-2-regrown.json) |
 | Pikmin 2 WorldWide | 313357 | [313357-pikmin-2-worldwide.json](./313357-pikmin-2-worldwide.json) |
+| Pikmin 2: Bombastic Bulbmin | 314787 | [314787-pikmin-2-bombastic-bulbmin.json](./314787-pikmin-2-bombastic-bulbmin.json) |
 | Pikmin 2: Caveless Edition | 270726 | [270726-pikmin-2-caveless-edition.json](./270726-pikmin-2-caveless-edition.json) |
 | Pikmin 2: Colossal Caverns | 140840 | [140840-pikmin-2-colossal-caverns.json](./140840-pikmin-2-colossal-caverns.json) |
+| Pikmin 2: Hole of Villains | 314782 | [314782-pikmin-2-hole-of-villains.json](./314782-pikmin-2-hole-of-villains.json) |
+| Pikmin 2: Hole of Villains EX | 314783 | [314783-pikmin-2-hole-of-villains-ex.json](./314783-pikmin-2-hole-of-villains-ex.json) |
+| Pikmin 2: IDK | 314790 | [314790-pikmin-2-idk.json](./314790-pikmin-2-idk.json) |
 | Pikmin 2: New Year | 312294 | [312294-pikmin-2-new-year.json](./312294-pikmin-2-new-year.json) |
 | Pikmin 2: Snowy Tutorial | 314791 | [314791-pikmin-2-snowy-tutorial.json](./314791-pikmin-2-snowy-tutorial.json) |
+| Pikmin 2: The Pikmin 2 Experience | 314788 | [314788-pikmin-2-the-pikmin-2-experience.json](./314788-pikmin-2-the-pikmin-2-experience.json) |
+| Pikmin 2: Toxic Dinner | 314784 | [314784-pikmin-2-toxic-dinner.json](./314784-pikmin-2-toxic-dinner.json) |
+| Pikmin 2: Unconventional Bosses | 314789 | [314789-pikmin-2-unconventional-bosses.json](./314789-pikmin-2-unconventional-bosses.json) |
 | Pikmin 2: Yellow Edition | 375785 | [375785-pikmin-2-yellow-edition.json](./375785-pikmin-2-yellow-edition.json) |
+| Pikmin 2: Yet Another Purple Cave | 314785 | [314785-pikmin-2-yet-another-purple-cave.json](./314785-pikmin-2-yet-another-purple-cave.json) |
 | Pikmin 216 | 287482 | [287482-pikmin-216.json](./287482-pikmin-216.json) |
 | Pikmin 2D | 387584 | [387584-pikmin-2d.json](./387584-pikmin-2d.json) |
 | Pikmin 3 | 2241 | [2241-pikmin-3.json](./2241-pikmin-3.json) |
@@ -7070,6 +7079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinocchio: Interactive Book | 265189 | [265189-pinocchio-interactive-book.json](./265189-pinocchio-interactive-book.json) |
 | Pinocchio's Puzzle | 84821 | [84821-pinocchios-puzzle.json](./84821-pinocchios-puzzle.json) |
 | Pinocchiogoria | 398746 | [398746-pinocchiogoria.json](./398746-pinocchiogoria.json) |
+| Pinochestein 3D | 314772 | [314772-pinochestein-3d.json](./314772-pinochestein-3d.json) |
 | Pinochle | 83700 | [83700-pinochle.json](./83700-pinochle.json) |
 | Pinochle by Webfoot | 99396 | [99396-pinochle-by-webfoot.json](./99396-pinochle-by-webfoot.json) |
 | Pinochle HD | 90707 | [90707-pinochle-hd.json](./90707-pinochle-hd.json) |
