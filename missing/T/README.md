@@ -5185,6 +5185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 4th Unit 3 - Dual Targets | 78726 | [78726-the-4th-unit-3-dual-targets.json](./78726-the-4th-unit-3-dual-targets.json) |
 | The 4th Unit 4 - Zero | 66325 | [66325-the-4th-unit-4-zero.json](./66325-the-4th-unit-4-zero.json) |
 | The 4th Unit 5 - D-Again | 66326 | [66326-the-4th-unit-5-d-again.json](./66326-the-4th-unit-5-d-again.json) |
+| The 4th Wall | 326931 | [326931-the-4th-wall.json](./326931-the-4th-wall.json) |
 | The 4th Wall | 64126 | [64126-the-4th-wall.json](./64126-the-4th-wall.json) |
 | The 50 States Quiz | 103441 | [103441-the-50-states-quiz.json](./103441-the-50-states-quiz.json) |
 | The 52 Fragments | 278362 | [278362-the-52-fragments.json](./278362-the-52-fragments.json) |
@@ -5380,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Fatman | 34651 | [34651-the-adventures-of-fatman.json](./34651-the-adventures-of-fatman.json) |
 | The Adventures of Fatman: Intergalactic Indigestion | 170124 | [170124-the-adventures-of-fatman-intergalactic-indigestion.json](./170124-the-adventures-of-fatman-intergalactic-indigestion.json) |
 | The Adventures of Felix Fox: Tale of the Night | 65920 | [65920-the-adventures-of-felix-fox-tale-of-the-night.json](./65920-the-adventures-of-felix-fox-tale-of-the-night.json) |
+| The Adventures of Firulais & Calcetines | 326934 | [326934-the-adventures-of-firulais-and-calcetines.json](./326934-the-adventures-of-firulais-and-calcetines.json) |
 | The Adventures of Fluffy | 44283 | [44283-the-adventures-of-fluffy.json](./44283-the-adventures-of-fluffy.json) |
 | The Adventures of Gilligan's Island | 8742 | [8742-the-adventures-of-gilligans-island.json](./8742-the-adventures-of-gilligans-island.json) |
 | The Adventures of Golly | 116858 | [116858-the-adventures-of-golly.json](./116858-the-adventures-of-golly.json) |
@@ -6243,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The BFG Game | 58282 | [58282-the-bfg-game.json](./58282-the-bfg-game.json) |
 | The Biba Collection | 96932 | [96932-the-biba-collection.json](./96932-the-biba-collection.json) |
 | The Bibites | 183260 | [183260-the-bibites.json](./183260-the-bibites.json) |
+| The Bible | 327071 | [327071-the-bible.json](./327071-the-bible.json) |
 | The Bible Game | 225574 | [225574-the-bible-game.json](./225574-the-bible-game.json) |
 | The Bible Game | 5746 | [5746-the-bible-game.json](./5746-the-bible-game.json) |
 | The Bible Text Adventure | 377981 | [377981-the-bible-text-adventure.json](./377981-the-bible-text-adventure.json) |
@@ -26804,6 +26807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trails of Tenere | 182791 | [182791-trails-of-tenere.json](./182791-trails-of-tenere.json) |
 | Trails of the Ancestors | 212828 | [212828-trails-of-the-ancestors.json](./212828-trails-of-the-ancestors.json) |
 | Trails of the Black Sun | 123953 | [123953-trails-of-the-black-sun.json](./123953-trails-of-the-black-sun.json) |
+| Trails of the Last Day | 326920 | [326920-trails-of-the-last-day.json](./326920-trails-of-the-last-day.json) |
 | Train | 179451 | [179451-train.json](./179451-train.json) |
 | Train | 179456 | [179456-train.json](./179456-train.json) |
 | Train and Rail Yard Simulator | 266252 | [266252-train-and-rail-yard-simulator.json](./266252-train-and-rail-yard-simulator.json) |
@@ -30797,6 +30801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuki ha Higashi ni Hi ha Nishi ni: Operation Sanctuary | 165566 | [165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json](./165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json) |
 | Tsuki Journey | 416980 | [416980-tsuki-journey.json](./416980-tsuki-journey.json) |
 | Tsuki no Hikari | 322241 | [322241-tsuki-no-hikari.json](./322241-tsuki-no-hikari.json) |
+| Tsuki no Hikari no Kusariya-san | 327075 | [327075-tsuki-no-hikari-no-kusariya-san.json](./327075-tsuki-no-hikari-no-kusariya-san.json) |
 | Tsuki no Hikari: Shizumeru Kane no Satsujin | 62539 | [62539-tsuki-no-hikari-shizumeru-kane-no-satsujin.json](./62539-tsuki-no-hikari-shizumeru-kane-no-satsujin.json) |
 | Tsuki no Kanata de Aimashou | 150037 | [150037-tsuki-no-kanata-de-aimashou.json](./150037-tsuki-no-kanata-de-aimashou.json) |
 | Tsuki no Kanata de Aimashou | 178207 | [178207-tsuki-no-kanata-de-aimashou.json](./178207-tsuki-no-kanata-de-aimashou.json) |
