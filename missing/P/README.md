@@ -5345,6 +5345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phil the Pill | 187069 | [187069-phil-the-pill.json](./187069-phil-the-pill.json) |
 | Phil the Pill: Interstellar | 237437 | [237437-phil-the-pill-interstellar.json](./237437-phil-the-pill-interstellar.json) |
 | Phil's Contract | 312184 | [312184-phils-contract.json](./312184-phils-contract.json) |
+| Philatelist | 314206 | [314206-philatelist.json](./314206-philatelist.json) |
 | Phileas Fogg's Balloon Battles | 98235 | [98235-phileas-foggs-balloon-battles.json](./98235-phileas-foggs-balloon-battles.json) |
 | PhilGood | 121189 | [121189-philgood.json](./121189-philgood.json) |
 | Philia: the Sequel to Elansar | 33706 | [33706-philia-the-sequel-to-elansar.json](./33706-philia-the-sequel-to-elansar.json) |
@@ -6245,6 +6246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 2 Regrown | 299745 | [299745-pikmin-2-regrown.json](./299745-pikmin-2-regrown.json) |
 | Pikmin 2 WorldWide | 313357 | [313357-pikmin-2-worldwide.json](./313357-pikmin-2-worldwide.json) |
 | Pikmin 2: Bombastic Bulbmin | 314787 | [314787-pikmin-2-bombastic-bulbmin.json](./314787-pikmin-2-bombastic-bulbmin.json) |
+| Pikmin 2: Bottomless Adventure | 314173 | [314173-pikmin-2-bottomless-adventure.json](./314173-pikmin-2-bottomless-adventure.json) |
 | Pikmin 2: Caveless Edition | 270726 | [270726-pikmin-2-caveless-edition.json](./270726-pikmin-2-caveless-edition.json) |
 | Pikmin 2: Colossal Caverns | 140840 | [140840-pikmin-2-colossal-caverns.json](./140840-pikmin-2-colossal-caverns.json) |
 | Pikmin 2: Hole of Villains | 314782 | [314782-pikmin-2-hole-of-villains.json](./314782-pikmin-2-hole-of-villains.json) |
@@ -6325,6 +6327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Puzzle Card e+: No.66 - Hikkonuki Pikmin: Miyabi Futa-kuchi | 363805 | [363805-pikmin-puzzle-card-e-no-66-hikkonuki-pikmin-miyabi-futa-kuchi.json](./363805-pikmin-puzzle-card-e-no-66-hikkonuki-pikmin-miyabi-futa-kuchi.json) |
 | Pikmin Puzzle Card e+: Teku-teku Pikmin - President | 353506 | [353506-pikmin-puzzle-card-e-teku-teku-pikmin-president.json](./353506-pikmin-puzzle-card-e-teku-teku-pikmin-president.json) |
 | Pikmin Puzzle Card e+: Tsunagete Pikmin - Louie | 353508 | [353508-pikmin-puzzle-card-e-tsunagete-pikmin-louie.json](./353508-pikmin-puzzle-card-e-tsunagete-pikmin-louie.json) |
+| Pikmin RPG | 314175 | [314175-pikmin-rpg.json](./314175-pikmin-rpg.json) |
 | Pikmin RPG | 323886 | [323886-pikmin-rpg.json](./323886-pikmin-rpg.json) |
 | Pikmin Stellar | 313356 | [313356-pikmin-stellar.json](./313356-pikmin-stellar.json) |
 | Pikmin Stone | 375786 | [375786-pikmin-stone.json](./375786-pikmin-stone.json) |
@@ -10605,6 +10608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Blaze Black 2 | 137113 | [137113-pokemon-blaze-black-2.json](./137113-pokemon-blaze-black-2.json) |
 | Pokémon Blaze Black 2 Redux | 198025 | [198025-pokemon-blaze-black-2-redux.json](./198025-pokemon-blaze-black-2-redux.json) |
 | Pokémon Blazed Glazed | 129808 | [129808-pokemon-blazed-glazed.json](./129808-pokemon-blazed-glazed.json) |
+| Pokémon Blessed Shield | 314550 | [314550-pokemon-blessed-shield.json](./314550-pokemon-blessed-shield.json) |
 | Pokémon Blooming Beast | 359976 | [359976-pokemon-blooming-beast.json](./359976-pokemon-blooming-beast.json) |
 | Pokémon Blue Chrome | 323763 | [323763-pokemon-blue-chrome.json](./323763-pokemon-blue-chrome.json) |
 | Pokémon Blue Kaizo | 268065 | [268065-pokemon-blue-kaizo.json](./268065-pokemon-blue-kaizo.json) |
@@ -10732,6 +10736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Emerald Legacy | 323041 | [323041-pokemon-emerald-legacy.json](./323041-pokemon-emerald-legacy.json) |
 | Pokémon Emerald Rogue | 221244 | [221244-pokemon-emerald-rogue.json](./221244-pokemon-emerald-rogue.json) |
 | Pokémon Emerald Rogue V2 | 308386 | [308386-pokemon-emerald-rogue-v2.json](./308386-pokemon-emerald-rogue-v2.json) |
+| Pokémon Emerald Seaglass | 314536 | [314536-pokemon-emerald-seaglass.json](./314536-pokemon-emerald-seaglass.json) |
 | Pokémon Emerald Slide | 331767 | [331767-pokemon-emerald-slide.json](./331767-pokemon-emerald-slide.json) |
 | Pokémon Emerald Z | 286922 | [286922-pokemon-emerald-z.json](./286922-pokemon-emerald-z.json) |
 | Pokémon Emerald: Double Edition | 296449 | [296449-pokemon-emerald-double-edition.json](./296449-pokemon-emerald-double-edition.json) |
