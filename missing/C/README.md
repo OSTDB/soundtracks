@@ -17660,6 +17660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crying is not Enough | 99085 | [99085-crying-is-not-enough.json](./99085-crying-is-not-enough.json) |
 | Crying Pony | 245950 | [245950-crying-pony.json](./245950-crying-pony.json) |
 | Crying Suns: Deluxe Edition | 186520 | [186520-crying-suns-deluxe-edition.json](./186520-crying-suns-deluxe-edition.json) |
+| Cryken Part1 | 336431 | [336431-cryken-part1.json](./336431-cryken-part1.json) |
 | Cryken Part2 | 342370 | [342370-cryken-part2.json](./342370-cryken-part2.json) |
 | Cryken Part3 | 345996 | [345996-cryken-part3.json](./345996-cryken-part3.json) |
 | Cryken Part4 | 351226 | [351226-cryken-part4.json](./351226-cryken-part4.json) |
