@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tailspin! | 177371 | [177371-tailspin.json](./177371-tailspin.json) |
 | Tailuge Billiards | 409749 | [409749-tailuge-billiards.json](./409749-tailuge-billiards.json) |
 | Tailwind | 90648 | [90648-tailwind.json](./90648-tailwind.json) |
+| Tailwinds | 316298 | [316298-tailwinds.json](./316298-tailwinds.json) |
 | Tailypo | 191393 | [191393-tailypo.json](./191393-tailypo.json) |
 | TailzFromTheGrave | 108434 | [108434-tailzfromthegrave.json](./108434-tailzfromthegrave.json) |
 | Taima Miko Yuugi | 68673 | [68673-taima-miko-yuugi.json](./68673-taima-miko-yuugi.json) |
@@ -5337,6 +5338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventurer and His Backpack | 36823 | [36823-the-adventurer-and-his-backpack.json](./36823-the-adventurer-and-his-backpack.json) |
 | The Adventurer: Episode 1 - Beginning of the End | 52766 | [52766-the-adventurer-episode-1-beginning-of-the-end.json](./52766-the-adventurer-episode-1-beginning-of-the-end.json) |
 | The Adventurer's Domain Online | 190957 | [190957-the-adventurers-domain-online.json](./190957-the-adventurers-domain-online.json) |
+| The Adventurers | 315996 | [315996-the-adventurers.json](./315996-the-adventurers.json) |
 | The Adventurers | 72138 | [72138-the-adventurers.json](./72138-the-adventurers.json) |
 | The Adventures in Carnal Hell | 293201 | [293201-the-adventures-in-carnal-hell.json](./293201-the-adventures-in-carnal-hell.json) |
 | The Adventures of 00 Dilly | 124136 | [124136-the-adventures-of-00-dilly.json](./124136-the-adventures-of-00-dilly.json) |
@@ -15054,6 +15056,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Repossessor | 81338 | [81338-the-repossessor.json](./81338-the-repossessor.json) |
 | The Republia Times | 134491 | [134491-the-republia-times.json](./134491-the-republia-times.json) |
 | The Requiem of Shadows | 347855 | [347855-the-requiem-of-shadows.json](./347855-the-requiem-of-shadows.json) |
+| The Rescue 1-4 | 315978 | [315978-the-rescue-1-4.json](./315978-the-rescue-1-4.json) |
+| The Rescue 5: Temple of Osiris | 315979 | [315979-the-rescue-5-temple-of-osiris.json](./315979-the-rescue-5-temple-of-osiris.json) |
 | The Rescue of Lorri in Lorrinitron | 74052 | [74052-the-rescue-of-lorri-in-lorrinitron.json](./74052-the-rescue-of-lorri-in-lorrinitron.json) |
 | The Rescue of Mermaids | 118051 | [118051-the-rescue-of-mermaids.json](./118051-the-rescue-of-mermaids.json) |
 | The Rescue of Pops Ghostly | 64038 | [64038-the-rescue-of-pops-ghostly.json](./64038-the-rescue-of-pops-ghostly.json) |
@@ -18397,6 +18401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch of the Wake | 320008 | [320008-the-witch-of-the-wake.json](./320008-the-witch-of-the-wake.json) |
 | The Witch Veils: The Mansion | 288622 | [288622-the-witch-veils-the-mansion.json](./288622-the-witch-veils-the-mansion.json) |
 | The Witch-in-Training and the Magic Seal | 191619 | [191619-the-witch-in-training-and-the-magic-seal.json](./191619-the-witch-in-training-and-the-magic-seal.json) |
+| The Witch, the Ghost and the Snake | 315971 | [315971-the-witch-the-ghost-and-the-snake.json](./315971-the-witch-the-ghost-and-the-snake.json) |
 | The Witch, Wife, & the Wish | 245735 | [245735-the-witch-wife-and-the-wish.json](./245735-the-witch-wife-and-the-wish.json) |
 | The Witch's Apprentice: A Magical Mishap - Collector's Edition | 170198 | [170198-the-witchs-apprentice-a-magical-mishap-collectors-edition.json](./170198-the-witchs-apprentice-a-magical-mishap-collectors-edition.json) |
 | The Witch's Assistant | 290800 | [290800-the-witchs-assistant.json](./290800-the-witchs-assistant.json) |
