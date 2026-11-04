@@ -11726,6 +11726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Breaker Simulator 2026 | 386372 | [386372-mine-breaker-simulator-2026.json](./386372-mine-breaker-simulator-2026.json) |
 | Mine Cards | 182866 | [182866-mine-cards.json](./182866-mine-cards.json) |
 | Mine Click | 358288 | [358288-mine-click.json](./358288-mine-click.json) |
+| Mine Clicker: Base Craft Building Game | 335010 | [335010-mine-clicker-base-craft-building-game.json](./335010-mine-clicker-base-craft-building-game.json) |
 | Mine Combat | 213819 | [213819-mine-combat.json](./213819-mine-combat.json) |
 | Mine Crazy: The Korean Grinder | 158678 | [158678-mine-crazy-the-korean-grinder.json](./158678-mine-crazy-the-korean-grinder.json) |
 | Mine Defense | 412313 | [412313-mine-defense.json](./412313-mine-defense.json) |
@@ -12589,6 +12590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Simulator | 241512 | [241512-mining-simulator.json](./241512-mining-simulator.json) |
 | Mining Survivors | 349037 | [349037-mining-survivors.json](./349037-mining-survivors.json) |
 | Mining Wizards | 379861 | [379861-mining-wizards.json](./379861-mining-wizards.json) |
+| Minion Bartender | 335030 | [335030-minion-bartender.json](./335030-minion-bartender.json) |
 | Minion Forest | 82333 | [82333-minion-forest.json](./82333-minion-forest.json) |
 | Minion Mail | 139671 | [139671-minion-mail.json](./139671-minion-mail.json) |
 | Minion Masters | 27150 | [27150-minion-masters.json](./27150-minion-masters.json) |
@@ -12619,6 +12621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniOne Racing | 34989 | [34989-minione-racing.json](./34989-minione-racing.json) |
 | Minions | 59896 | [59896-minions.json](./59896-minions.json) |
 | Minions Battle | 116742 | [116742-minions-battle.json](./116742-minions-battle.json) |
+| Minions Movie Memory Matching | 335029 | [335029-minions-movie-memory-matching.json](./335029-minions-movie-memory-matching.json) |
 | Minions of Elden | 176423 | [176423-minions-of-elden.json](./176423-minions-of-elden.json) |
 | Minions of Elden Online | 170924 | [170924-minions-of-elden-online.json](./170924-minions-of-elden-online.json) |
 | Minions of Mirth | 92326 | [92326-minions-of-mirth.json](./92326-minions-of-mirth.json) |
@@ -17072,6 +17075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Hyper Edition | 338005 | [338005-moto-rush-gt-hyper-edition.json](./338005-moto-rush-gt-hyper-edition.json) |
 | Moto Rush GT: Infinite Edition | 317909 | [317909-moto-rush-gt-infinite-edition.json](./317909-moto-rush-gt-infinite-edition.json) |
 | Moto Rush GT: Luxury Edition | 410858 | [410858-moto-rush-gt-luxury-edition.json](./410858-moto-rush-gt-luxury-edition.json) |
+| Moto Rush GT: Master Edition | 335011 | [335011-moto-rush-gt-master-edition.json](./335011-moto-rush-gt-master-edition.json) |
 | Moto Rush GT: Mega Edition | 324373 | [324373-moto-rush-gt-mega-edition.json](./324373-moto-rush-gt-mega-edition.json) |
 | Moto Rush GT: NY Edition | 277895 | [277895-moto-rush-gt-ny-edition.json](./277895-moto-rush-gt-ny-edition.json) |
 | Moto Rush GT: Platinium Edition | 275048 | [275048-moto-rush-gt-platinium-edition.json](./275048-moto-rush-gt-platinium-edition.json) |
