@@ -3150,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooter Space | 223919 | [223919-scooter-space.json](./223919-scooter-space.json) |
 | Scooter War3z | 72160 | [72160-scooter-war3z.json](./72160-scooter-war3z.json) |
 | Scooter's Magic Castle | 72173 | [72173-scooters-magic-castle.json](./72173-scooters-magic-castle.json) |
+| Scooternia | 311970 | [311970-scooternia.json](./311970-scooternia.json) |
 | ScootX | 362005 | [362005-scootx.json](./362005-scootx.json) |
 | Scooty Shooty | 151429 | [151429-scooty-shooty.json](./151429-scooty-shooty.json) |
 | SCOP | 251085 | [251085-scop.json](./251085-scop.json) |
@@ -7252,6 +7253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharing Lights | 192902 | [192902-sharing-lights.json](./192902-sharing-lights.json) |
 | Sharique | 112267 | [112267-sharique.json](./112267-sharique.json) |
 | Shark | 110852 | [110852-shark.json](./110852-shark.json) |
+| Shark | 311952 | [311952-shark.json](./311952-shark.json) |
 | Shark | 313931 | [313931-shark.json](./313931-shark.json) |
 | Shark | 98687 | [98687-shark.json](./98687-shark.json) |
 | Shark Adventure | 192041 | [192041-shark-adventure.json](./192041-shark-adventure.json) |
@@ -15879,6 +15881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solasta: Crown of the Magister - Primal Calling | 186870 | [186870-solasta-crown-of-the-magister-primal-calling.json](./186870-solasta-crown-of-the-magister-primal-calling.json) |
 | Solasta: Lightbringers Edition | 251208 | [251208-solasta-lightbringers-edition.json](./251208-solasta-lightbringers-edition.json) |
 | Solastra | 413389 | [413389-solastra.json](./413389-solastra.json) |
+| Solateria | 311932 | [311932-solateria.json](./311932-solateria.json) |
 | Solatorobo: Red the Hunter | 9597 | [9597-solatorobo-red-the-hunter.json](./9597-solatorobo-red-the-hunter.json) |
 | Solbane | 189297 | [189297-solbane.json](./189297-solbane.json) |
 | Solborne Gorge | 323556 | [323556-solborne-gorge.json](./323556-solborne-gorge.json) |
@@ -20348,6 +20351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Plumber | 290270 | [290270-speed-plumber.json](./290270-speed-plumber.json) |
 | Speed Power Gunbike | 92832 | [92832-speed-power-gunbike.json](./92832-speed-power-gunbike.json) |
 | Speed Punks | 4119 | [4119-speed-punks.json](./4119-speed-punks.json) |
+| Speed Race | 311950 | [311950-speed-race.json](./311950-speed-race.json) |
 | Speed Race DX | 342140 | [342140-speed-race-dx.json](./342140-speed-race-dx.json) |
 | Speed Racer | 111562 | [111562-speed-racer.json](./111562-speed-racer.json) |
 | Speed Racer | 245401 | [245401-speed-racer.json](./245401-speed-racer.json) |
@@ -21280,6 +21284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiralagon | 122342 | [122342-spiralagon.json](./122342-spiralagon.json) |
 | SpiralGo | 360871 | [360871-spiralgo.json](./360871-spiralgo.json) |
 | Spiraling Snow | 246547 | [246547-spiraling-snow.json](./246547-spiraling-snow.json) |
+| Spire | 312244 | [312244-spire.json](./312244-spire.json) |
 | Spire Adventure | 233422 | [233422-spire-adventure.json](./233422-spire-adventure.json) |
 | Spire Blast | 194335 | [194335-spire-blast.json](./194335-spire-blast.json) |
 | Spire Blast: Blastee Costumes Pack 3 | 404542 | [404542-spire-blast-blastee-costumes-pack-3.json](./404542-spire-blast-blastee-costumes-pack-3.json) |
@@ -26741,6 +26746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Toilet | 294975 | [294975-strange-toilet.json](./294975-strange-toilet.json) |
 | Strange Winds | 383637 | [383637-strange-winds.json](./383637-strange-winds.json) |
 | Strange World | 274966 | [274966-strange-world.json](./274966-strange-world.json) |
+| Strange World | 311937 | [311937-strange-world.json](./311937-strange-world.json) |
 | Strange Zoo | 415139 | [415139-strange-zoo.json](./415139-strange-zoo.json) |
 | StrangeDream | 349774 | [349774-strangedream.json](./349774-strangedream.json) |
 | Strangeland | 103219 | [103219-strangeland.json](./103219-strangeland.json) |
