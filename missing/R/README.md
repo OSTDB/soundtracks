@@ -3453,6 +3453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reclaim Earth | 177730 | [177730-reclaim-earth.json](./177730-reclaim-earth.json) |
 | Reclaim the Sea | 216954 | [216954-reclaim-the-sea.json](./216954-reclaim-the-sea.json) |
 | Reclaimer | 404308 | [404308-reclaimer.json](./404308-reclaimer.json) |
+| Reclaimers | 339706 | [339706-reclaimers.json](./339706-reclaimers.json) |
 | Reclaiming the Lost | 340716 | [340716-reclaiming-the-lost.json](./340716-reclaiming-the-lost.json) |
 | Reclamation | 268463 | [268463-reclamation.json](./268463-reclamation.json) |
 | Reclamation of Xanthros | 298177 | [298177-reclamation-of-xanthros.json](./298177-reclamation-of-xanthros.json) |
