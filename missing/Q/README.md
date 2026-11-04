@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q Billion | 49026 | [49026-q-billion.json](./49026-q-billion.json) |
 | Q Remastered | 222250 | [222250-q-remastered.json](./222250-q-remastered.json) |
 | Q Steps | 327103 | [327103-q-steps.json](./327103-q-steps.json) |
+| Q to Q2 Butsuri Edition | 328141 | [328141-q-to-q2-butsuri-edition.json](./328141-q-to-q2-butsuri-edition.json) |
 | Q Transformers: Kaettekita Convoy no Nazo | 60993 | [60993-q-transformers-kaettekita-convoy-no-nazo.json](./60993-q-transformers-kaettekita-convoy-no-nazo.json) |
 | Q-Ball: Billiards Master | 43272 | [43272-q-ball-billiards-master.json](./43272-q-ball-billiards-master.json) |
 | Q-Cubed | 203047 | [203047-q-cubed.json](./203047-q-cubed.json) |
