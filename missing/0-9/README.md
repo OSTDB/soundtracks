@@ -2328,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Pinball: Space Cadet | 79247 | [79247-3d-pinball-space-cadet.json](./79247-3d-pinball-space-cadet.json) |
 | 3D Pinball: Space Cadet NDS | 307323 | [307323-3d-pinball-space-cadet-nds.json](./307323-3d-pinball-space-cadet-nds.json) |
 | 3D Pitfall | 92859 | [92859-3d-pitfall.json](./92859-3d-pitfall.json) |
+| 3D Pixel Dungeon | 313935 | [313935-3d-pixel-dungeon.json](./313935-3d-pixel-dungeon.json) |
 | 3D Pixel Racing | 51055 | [51055-3d-pixel-racing.json](./51055-3d-pixel-racing.json) |
 | 3D Pocket Pool | 92272 | [92272-3d-pocket-pool.json](./92272-3d-pocket-pool.json) |
 | 3D Pong | 176772 | [176772-3d-pong.json](./176772-3d-pong.json) |
