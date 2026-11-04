@@ -3516,6 +3516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings of Chaos | 402314 | [402314-kings-of-chaos.json](./402314-kings-of-chaos.json) |
 | Kings of Cratia | 346354 | [346354-kings-of-cratia.json](./346354-kings-of-cratia.json) |
 | Kings of Edom | 322642 | [322642-kings-of-edom.json](./322642-kings-of-edom.json) |
+| Kings of Emperor Bonaparte | 323495 | [323495-kings-of-emperor-bonaparte.json](./323495-kings-of-emperor-bonaparte.json) |
 | Kings of Glory | 143893 | [143893-kings-of-glory.json](./143893-kings-of-glory.json) |
 | Kings of Hell | 142960 | [142960-kings-of-hell.json](./142960-kings-of-hell.json) |
 | Kings of Israel | 33878 | [33878-kings-of-israel.json](./33878-kings-of-israel.json) |
