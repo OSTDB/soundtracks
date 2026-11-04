@@ -9276,6 +9276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumexa | 151115 | [151115-lumexa.json](./151115-lumexa.json) |
 | Lumi | 66495 | [66495-lumi.json](./66495-lumi.json) |
 | Lumi Master | 410215 | [410215-lumi-master.json](./410215-lumi-master.json) |
+| Lumi Trek | 332319 | [332319-lumi-trek.json](./332319-lumi-trek.json) |
 | Lumi: Starbound Adventure | 296523 | [296523-lumi-starbound-adventure.json](./296523-lumi-starbound-adventure.json) |
 | Lumia Saga | 145942 | [145942-lumia-saga.json](./145942-lumia-saga.json) |
 | LumiBus | 350377 | [350377-lumibus.json](./350377-lumibus.json) |
