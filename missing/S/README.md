@@ -8201,6 +8201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Hotel: Lost in Nowhere | 102364 | [102364-shining-hotel-lost-in-nowhere.json](./102364-shining-hotel-lost-in-nowhere.json) |
 | Shining in the Darkness | 9406 | [9406-shining-in-the-darkness.json](./9406-shining-in-the-darkness.json) |
 | Shining Jump Jump | 204935 | [204935-shining-jump-jump.json](./204935-shining-jump-jump.json) |
+| Shining Legend | 323060 | [323060-shining-legend.json](./323060-shining-legend.json) |
 | Shining Lore | 316800 | [316800-shining-lore.json](./316800-shining-lore.json) |
 | Shining Maiden | 142691 | [142691-shining-maiden.json](./142691-shining-maiden.json) |
 | Shining Nikki | 145944 | [145944-shining-nikki.json](./145944-shining-nikki.json) |
@@ -11234,6 +11235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren Head SCP 6789 | 243223 | [243223-siren-head-scp-6789.json](./243223-siren-head-scp-6789.json) |
 | Siren Head: Remastered | 214336 | [214336-siren-head-remastered.json](./214336-siren-head-remastered.json) |
 | Siren Head: Stranded | 309120 | [309120-siren-head-stranded.json](./309120-siren-head-stranded.json) |
+| Siren Head: The 8 Pages | 322928 | [322928-siren-head-the-8-pages.json](./322928-siren-head-the-8-pages.json) |
 | Siren Head: The Arrival | 312360 | [312360-siren-head-the-arrival.json](./312360-siren-head-the-arrival.json) |
 | Siren Head: The Siren's Forest | 157431 | [157431-siren-head-the-sirens-forest.json](./157431-siren-head-the-sirens-forest.json) |
 | Siren Sands | 350418 | [350418-siren-sands.json](./350418-siren-sands.json) |
@@ -12139,6 +12141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Haven: AR Merge Adventure | 236696 | [236696-sky-haven-ar-merge-adventure.json](./236696-sky-haven-ar-merge-adventure.json) |
 | Sky Hawk | 93723 | [93723-sky-hawk.json](./93723-sky-hawk.json) |
 | Sky Hex | 261862 | [261862-sky-hex.json](./261862-sky-hex.json) |
+| Sky High | 322918 | [322918-sky-high.json](./322918-sky-high.json) |
 | Sky High Golf | 256137 | [256137-sky-high-golf.json](./256137-sky-high-golf.json) |
 | Sky High Stuntman | 279696 | [279696-sky-high-stuntman.json](./279696-sky-high-stuntman.json) |
 | Sky Hop Saga | 58658 | [58658-sky-hop-saga.json](./58658-sky-hop-saga.json) |
@@ -16515,6 +16518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Death | 236888 | [236888-songs-of-death.json](./236888-songs-of-death.json) |
 | Songs of Everjade | 275083 | [275083-songs-of-everjade.json](./275083-songs-of-everjade.json) |
 | Songs of Glimmerwick | 189014 | [189014-songs-of-glimmerwick.json](./189014-songs-of-glimmerwick.json) |
+| Songs of Rats | 323072 | [323072-songs-of-rats.json](./323072-songs-of-rats.json) |
 | Songs of Silence | 238460 | [238460-songs-of-silence.json](./238460-songs-of-silence.json) |
 | Songs of Silence: Celestial Church Expansion | 383020 | [383020-songs-of-silence-celestial-church-expansion.json](./383020-songs-of-silence-celestial-church-expansion.json) |
 | Songs of Silence: Complete Edition | 403559 | [403559-songs-of-silence-complete-edition.json](./403559-songs-of-silence-complete-edition.json) |
@@ -18938,7 +18942,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21200,6 +21203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiral | 99942 | [99942-spiral.json](./99942-spiral.json) |
 | Spiral 3D | 99854 | [99854-spiral-3d.json](./99854-spiral-3d.json) |
 | Spiral Clicker | 110994 | [110994-spiral-clicker.json](./110994-spiral-clicker.json) |
+| Spiral Clicker: Christmas Survivors | 323077 | [323077-spiral-clicker-christmas-survivors.json](./323077-spiral-clicker-christmas-survivors.json) |
 | Spiral Destiny | 19144 | [19144-spiral-destiny.json](./19144-spiral-destiny.json) |
 | Spiral Dystopia | 235857 | [235857-spiral-dystopia.json](./235857-spiral-dystopia.json) |
 | Spiral Helix: Jump down the tower | 104445 | [104445-spiral-helix-jump-down-the-tower.json](./104445-spiral-helix-jump-down-the-tower.json) |
@@ -28172,6 +28176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Midnight | 175934 | [175934-subway-midnight.json](./175934-subway-midnight.json) |
 | Subway Outbreak | 295137 | [295137-subway-outbreak.json](./295137-subway-outbreak.json) |
 | Subway Rider - Train Rush | 106567 | [106567-subway-rider-train-rush.json](./106567-subway-rider-train-rush.json) |
+| Subway Sandwichdle | 323067 | [323067-subway-sandwichdle.json](./323067-subway-sandwichdle.json) |
 | Subway Scramble | 92930 | [92930-subway-scramble.json](./92930-subway-scramble.json) |
 | Subway Simulator | 87982 | [87982-subway-simulator.json](./87982-subway-simulator.json) |
 | Subway Simulator 10: New York Edition | 91348 | [91348-subway-simulator-10-new-york-edition.json](./91348-subway-simulator-10-new-york-edition.json) |
@@ -30670,6 +30675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 2 Deluxe | 321172 | [321172-super-mario-bros-2-deluxe.json](./321172-super-mario-bros-2-deluxe.json) |
 | Super Mario Bros. 2 Squared: Return to Subcon | 308376 | [308376-super-mario-bros-2-squared-return-to-subcon.json](./308376-super-mario-bros-2-squared-return-to-subcon.json) |
 | Super Mario Bros. 2: 2nd Run | 221365 | [221365-super-mario-bros-2-2nd-run.json](./221365-super-mario-bros-2-2nd-run.json) |
+| Super Mario Bros. 2014 | 323059 | [323059-super-mario-bros-2014.json](./323059-super-mario-bros-2014.json) |
 | Super Mario Bros. 3 | 158723 | [158723-super-mario-bros-3.json](./158723-super-mario-bros-3.json) |
 | Super Mario Bros. 3 | 270351 | [270351-super-mario-bros-3.json](./270351-super-mario-bros-3.json) |
 | Super Mario Bros. 3 Advance | 322002 | [322002-super-mario-bros-3-advance.json](./322002-super-mario-bros-3-advance.json) |
@@ -30923,6 +30929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Sunshine in Super Mario 64 | 235173 | [235173-super-mario-sunshine-in-super-mario-64.json](./235173-super-mario-sunshine-in-super-mario-64.json) |
 | Super Mario Sunshine Seaside | 281016 | [281016-super-mario-sunshine-seaside.json](./281016-super-mario-sunshine-seaside.json) |
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
+| Super Mario Terrestrial | 323053 | [323053-super-mario-terrestrial.json](./323053-super-mario-terrestrial.json) |
 | Super Mario the Nightshift | 324006 | [324006-super-mario-the-nightshift.json](./324006-super-mario-the-nightshift.json) |
 | Super Mario Ticks of Time | 323582 | [323582-super-mario-ticks-of-time.json](./323582-super-mario-ticks-of-time.json) |
 | Super Mario Timeless Rendezvous | 382413 | [382413-super-mario-timeless-rendezvous.json](./382413-super-mario-timeless-rendezvous.json) |
@@ -31314,6 +31321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Paper Bowser World | 323290 | [323290-super-paper-bowser-world.json](./323290-super-paper-bowser-world.json) |
 | Super Paper Mario | 231489 | [231489-super-paper-mario.json](./231489-super-paper-mario.json) |
 | Super Paper Mario Memory Match | 231568 | [231568-super-paper-mario-memory-match.json](./231568-super-paper-mario-memory-match.json) |
+| Super Paper Mario World | 322925 | [322925-super-paper-mario-world.json](./322925-super-paper-mario-world.json) |
 | Super Paper Mario: Hard Mode - Rubies & Magic | 344918 | [344918-super-paper-mario-hard-mode-rubies-and-magic.json](./344918-super-paper-mario-hard-mode-rubies-and-magic.json) |
 | Super Paper Mario: The Cubeland Story | 324071 | [324071-super-paper-mario-the-cubeland-story.json](./324071-super-paper-mario-the-cubeland-story.json) |
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
@@ -34473,6 +34481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syder Reloaded | 131976 | [131976-syder-reloaded.json](./131976-syder-reloaded.json) |
 | Sydilix Initiation | 419095 | [419095-sydilix-initiation.json](./419095-sydilix-initiation.json) |
 | Sydless | 345576 | [345576-sydless.json](./345576-sydless.json) |
+| Sydney 2000 | 323056 | [323056-sydney-2000.json](./323056-sydney-2000.json) |
 | Sydney 2000 | 8333 | [8333-sydney-2000.json](./8333-sydney-2000.json) |
 | Sydney and the Cicadas in: Immanentize | 339426 | [339426-sydney-and-the-cicadas-in-immanentize.json](./339426-sydney-and-the-cicadas-in-immanentize.json) |
 | Sydney Hunter and the Curse of the Mayan | 59297 | [59297-sydney-hunter-and-the-curse-of-the-mayan.json](./59297-sydney-hunter-and-the-curse-of-the-mayan.json) |
