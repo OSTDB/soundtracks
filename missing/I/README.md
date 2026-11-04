@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Take the Time-Machine 2 | 187366 | [187366-i-wanna-take-the-time-machine-2.json](./187366-i-wanna-take-the-time-machine-2.json) |
 | I Wanna Touch | 389984 | [389984-i-wanna-touch.json](./389984-i-wanna-touch.json) |
 | I Wanna Try | 357169 | [357169-i-wanna-try.json](./357169-i-wanna-try.json) |
+| I Wanna Win! | 310355 | [310355-i-wanna-win.json](./310355-i-wanna-win.json) |
 | I want 5 quadrillion yen! | 298955 | [298955-i-want-5-quadrillion-yen.json](./298955-i-want-5-quadrillion-yen.json) |
 | I Want an Identity | 327229 | [327229-i-want-an-identity.json](./327229-i-want-an-identity.json) |
 | I Want Cookies | 76489 | [76489-i-want-cookies.json](./76489-i-want-cookies.json) |
@@ -1660,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IdleDev | 264782 | [264782-idledev.json](./264782-idledev.json) |
 | IdleDiablo | 406143 | [406143-idlediablo.json](./406143-idlediablo.json) |
 | IdleDragon | 379011 | [379011-idledragon.json](./379011-idledragon.json) |
+| IdleMMO | 310359 | [310359-idlemmo.json](./310359-idlemmo.json) |
 | Idlemon | 390637 | [390637-idlemon.json](./390637-idlemon.json) |
 | Idlemon Tales | 188306 | [188306-idlemon-tales.json](./188306-idlemon-tales.json) |
 | Idlenetics | 233886 | [233886-idlenetics.json](./233886-idlenetics.json) |
@@ -3711,7 +3713,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
