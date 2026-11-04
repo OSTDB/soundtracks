@@ -3062,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Pursuit | 362996 | [362996-fatal-pursuit.json](./362996-fatal-pursuit.json) |
 | Fatal Research | 398168 | [398168-fatal-research.json](./398168-fatal-research.json) |
 | Fatal Run | 12323 | [12323-fatal-run.json](./12323-fatal-run.json) |
+| Fatal Run 2089 | 314781 | [314781-fatal-run-2089.json](./314781-fatal-run-2089.json) |
 | Fatal Seduction | 63871 | [63871-fatal-seduction.json](./63871-fatal-seduction.json) |
 | Fatal Slash | 390785 | [390785-fatal-slash.json](./390785-fatal-slash.json) |
 | Fatal Stormer | 96210 | [96210-fatal-stormer.json](./96210-fatal-stormer.json) |
@@ -5233,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Brooklyn Guy! | 342711 | [342711-find-brooklyn-guy.json](./342711-find-brooklyn-guy.json) |
 | Find Bunny: A Little Hidden Journey | 423233 | [423233-find-bunny-a-little-hidden-journey.json](./423233-find-bunny-a-little-hidden-journey.json) |
 | Find Cats | 289895 | [289895-find-cats.json](./289895-find-cats.json) |
+| Find Cats 3 | 314764 | [314764-find-cats-3.json](./314764-find-cats-3.json) |
 | Find Cats 4 | 344984 | [344984-find-cats-4.json](./344984-find-cats-4.json) |
 | Find Cats 5 | 348425 | [348425-find-cats-5.json](./348425-find-cats-5.json) |
 | Find Cats 6 | 390037 | [390037-find-cats-6.json](./390037-find-cats-6.json) |
@@ -6987,6 +6989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flagdoku | 333550 | [333550-flagdoku.json](./333550-flagdoku.json) |
 | Flagfights | 127721 | [127721-flagfights.json](./127721-flagfights.json) |
 | Flagged Down | 297076 | [297076-flagged-down.json](./297076-flagged-down.json) |
+| Flaggle | 315137 | [315137-flaggle.json](./315137-flaggle.json) |
 | Flaghead | 400219 | [400219-flaghead.json](./400219-flaghead.json) |
 | Flagi | 215574 | [215574-flagi.json](./215574-flagi.json) |
 | Flagle | 246245 | [246245-flagle.json](./246245-flagle.json) |
