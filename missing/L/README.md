@@ -9540,6 +9540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Siege | 236115 | [236115-lunar-siege.json](./236115-lunar-siege.json) |
 | Lunar Soil | 93776 | [93776-lunar-soil.json](./93776-lunar-soil.json) |
 | Lunar Stone: Origin of Blood | 30578 | [30578-lunar-stone-origin-of-blood.json](./30578-lunar-stone-origin-of-blood.json) |
+| Lunar Strain | 306866 | [306866-lunar-strain.json](./306866-lunar-strain.json) |
 | Lunar Timepiece: Shadow of Twelve | 121343 | [121343-lunar-timepiece-shadow-of-twelve.json](./121343-lunar-timepiece-shadow-of-twelve.json) |
 | Lunar Wing: Toki wo Koeta Seisen | 138970 | [138970-lunar-wing-toki-wo-koeta-seisen.json](./138970-lunar-wing-toki-wo-koeta-seisen.json) |
 | Lunar: Dragon Song | 13908 | [13908-lunar-dragon-song.json](./13908-lunar-dragon-song.json) |
