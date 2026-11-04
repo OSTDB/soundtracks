@@ -2108,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Quest | 110881 | [110881-car-quest.json](./110881-car-quest.json) |
 | Car Race | 346087 | [346087-car-race.json](./346087-car-race.json) |
 | Car Race Game for Toddlers and Kids | 103938 | [103938-car-race-game-for-toddlers-and-kids.json](./103938-car-race-game-for-toddlers-and-kids.json) |
+| Car Racing | 344646 | [344646-car-racing.json](./344646-car-racing.json) |
 | Car Racing | 59803 | [59803-car-racing.json](./59803-car-racing.json) |
 | Car Racing & Driving Bundle: Drag Racing, Highway Racer, Drift Japan, Toon Cars | 362378 | [362378-car-racing-and-driving-bundle-drag-racing-highway-racer-drift-japan-toon-cars.json](./362378-car-racing-and-driving-bundle-drag-racing-highway-racer-drift-japan-toon-cars.json) |
 | Car Racing 3D: High on Fuel | 91250 | [91250-car-racing-3d-high-on-fuel.json](./91250-car-racing-3d-high-on-fuel.json) |
@@ -4972,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell 0 | 420198 | [420198-cell-0.json](./420198-cell-0.json) |
 | CELL 0: Cyber Entertainment Leisure Lounge | 326756 | [326756-cell-0-cyber-entertainment-leisure-lounge.json](./326756-cell-0-cyber-entertainment-leisure-lounge.json) |
 | Cell Bound | 254495 | [254495-cell-bound.json](./254495-cell-bound.json) |
+| Cell Clone Wars | 344667 | [344667-cell-clone-wars.json](./344667-cell-clone-wars.json) |
 | Cell Command | 323507 | [323507-cell-command.json](./323507-cell-command.json) |
 | Cell Corp | 256163 | [256163-cell-corp.json](./256163-cell-corp.json) |
 | Cell Defender | 343599 | [343599-cell-defender.json](./343599-cell-defender.json) |
@@ -18565,6 +18567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of Shadows | 374069 | [374069-cult-of-shadows.json](./374069-cult-of-shadows.json) |
 | Cult of the Abyss | 122391 | [122391-cult-of-the-abyss.json](./122391-cult-of-the-abyss.json) |
 | Cult of the Cat | 269274 | [269274-cult-of-the-cat.json](./269274-cult-of-the-cat.json) |
+| Cult of the Child Eater | 344685 | [344685-cult-of-the-child-eater.json](./344685-cult-of-the-child-eater.json) |
 | Cult of the Dragon | 374987 | [374987-cult-of-the-dragon.json](./374987-cult-of-the-dragon.json) |
 | Cult of the Lamb: Arcade Edition | 380184 | [380184-cult-of-the-lamb-arcade-edition.json](./380184-cult-of-the-lamb-arcade-edition.json) |
 | Cult of the Lamb: Cultist and Heretic Pack Bundle | 249585 | [249585-cult-of-the-lamb-cultist-and-heretic-pack-bundle.json](./249585-cult-of-the-lamb-cultist-and-heretic-pack-bundle.json) |
