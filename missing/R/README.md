@@ -3055,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Abhorrus | 182747 | [182747-realm-of-abhorrus.json](./182747-realm-of-abhorrus.json) |
 | Realm of Alters | 169397 | [169397-realm-of-alters.json](./169397-realm-of-alters.json) |
 | Realm of Chaos | 313868 | [313868-realm-of-chaos.json](./313868-realm-of-chaos.json) |
+| Realm of Chaos 2 | 321261 | [321261-realm-of-chaos-2.json](./321261-realm-of-chaos-2.json) |
 | Realm of Chaos: 25th Anniversary Edition | 300744 | [300744-realm-of-chaos-25th-anniversary-edition.json](./300744-realm-of-chaos-25th-anniversary-edition.json) |
 | Realm of Dissonance | 319182 | [319182-realm-of-dissonance.json](./319182-realm-of-dissonance.json) |
 | Realm of Divinos | 200824 | [200824-realm-of-divinos.json](./200824-realm-of-divinos.json) |
