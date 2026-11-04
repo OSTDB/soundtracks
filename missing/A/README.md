@@ -17145,6 +17145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: Ice Wars | 378930 | [378930-avatar-ice-wars.json](./378930-avatar-ice-wars.json) |
 | Avatar: Legends of the Arena | 72925 | [72925-avatar-legends-of-the-arena.json](./72925-avatar-legends-of-the-arena.json) |
 | Avatar: Pandora Rising | 112886 | [112886-avatar-pandora-rising.json](./112886-avatar-pandora-rising.json) |
+| Avatar: Realms Collide | 313029 | [313029-avatar-realms-collide.json](./313029-avatar-realms-collide.json) |
 | Avatar: Reckoning | 216279 | [216279-avatar-reckoning.json](./216279-avatar-reckoning.json) |
 | Avatar: The Last Airbender | 202100 | [202100-avatar-the-last-airbender.json](./202100-avatar-the-last-airbender.json) |
 | Avatar: The Last Airbender | 202168 | [202168-avatar-the-last-airbender.json](./202168-avatar-the-last-airbender.json) |
@@ -17448,6 +17449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Tank | 78076 | [78076-awesome-tank.json](./78076-awesome-tank.json) |
 | Awesome Tanks | 313503 | [313503-awesome-tanks.json](./313503-awesome-tanks.json) |
 | Awesome Tanks 2 | 313506 | [313506-awesome-tanks-2.json](./313506-awesome-tanks-2.json) |
+| Awesome: The Game | 313359 | [313359-awesome-the-game.json](./313359-awesome-the-game.json) |
 | Awesomenauts Assemble! | 5595 | [5595-awesomenauts-assemble.json](./5595-awesomenauts-assemble.json) |
 | Awesomenauts Assemble!: Fully Loaded Pack | 90661 | [90661-awesomenauts-assemble-fully-loaded-pack.json](./90661-awesomenauts-assemble-fully-loaded-pack.json) |
 | Awesomenauts Overdrive | 109468 | [109468-awesomenauts-overdrive.json](./109468-awesomenauts-overdrive.json) |
