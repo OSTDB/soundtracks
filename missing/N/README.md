@@ -4411,6 +4411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Burger Hell | 181885 | [181885-nightmare-burger-hell.json](./181885-nightmare-burger-hell.json) |
 | Nightmare Busters | 42375 | [42375-nightmare-busters.json](./42375-nightmare-busters.json) |
 | Nightmare Busters Rebirth | 392366 | [392366-nightmare-busters-rebirth.json](./392366-nightmare-busters-rebirth.json) |
+| Nightmare Cafe | 307510 | [307510-nightmare-cafe.json](./307510-nightmare-cafe.json) |
 | Nightmare Cafe II | 339165 | [339165-nightmare-cafe-ii.json](./339165-nightmare-cafe-ii.json) |
 | Nightmare Cafe III | 339168 | [339168-nightmare-cafe-iii.json](./339168-nightmare-cafe-iii.json) |
 | Nightmare Cafe IV | 339171 | [339171-nightmare-cafe-iv.json](./339171-nightmare-cafe-iv.json) |
@@ -6182,6 +6183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nokia World | 153768 | [153768-nokia-world.json](./153768-nokia-world.json) |
 | NokNok | 341484 | [341484-noknok.json](./341484-noknok.json) |
 | NokNok Invasion! | 183505 | [183505-noknok-invasion.json](./183505-noknok-invasion.json) |
+| Noko Must Die | 307544 | [307544-noko-must-die.json](./307544-noko-must-die.json) |
 | Nokosu | 148293 | [148293-nokosu.json](./148293-nokosu.json) |
 | Nol | 404808 | [404808-nol.json](./404808-nol.json) |
 | Nola1 | 299853 | [299853-nola1.json](./299853-nola1.json) |
