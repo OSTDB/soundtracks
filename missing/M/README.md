@@ -3425,6 +3425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mareld | 272748 | [272748-mareld.json](./272748-mareld.json) |
 | MareQuest | 230240 | [230240-marequest.json](./230240-marequest.json) |
 | MareQuest: An Interactive Tail | 262795 | [262795-marequest-an-interactive-tail.json](./262795-marequest-an-interactive-tail.json) |
+| Marerium | 328152 | [328152-marerium.json](./328152-marerium.json) |
 | MareScape | 312964 | [312964-marescape.json](./312964-marescape.json) |
 | Marfa | 337039 | [337039-marfa.json](./337039-marfa.json) |
 | Marfusha: Sentinel Girls | 143638 | [143638-marfusha-sentinel-girls.json](./143638-marfusha-sentinel-girls.json) |
@@ -9813,6 +9814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Prime: Google Translate Edition | 255380 | [255380-metroid-prime-google-translate-edition.json](./255380-metroid-prime-google-translate-edition.json) |
 | Metroid Prime: Trial of Strength | 339260 | [339260-metroid-prime-trial-of-strength.json](./339260-metroid-prime-trial-of-strength.json) |
 | Metroid Prime: Trilogy - Collector's Edition | 115548 | [115548-metroid-prime-trilogy-collectors-edition.json](./115548-metroid-prime-trilogy-collectors-edition.json) |
+| Metroid PrimeHack | 328129 | [328129-metroid-primehack.json](./328129-metroid-primehack.json) |
 | Metroid Ravenous | 408719 | [408719-metroid-ravenous.json](./408719-metroid-ravenous.json) |
 | Metroid Ravenous: Special Edition | 418230 | [418230-metroid-ravenous-special-edition.json](./418230-metroid-ravenous-special-edition.json) |
 | Metroid Redemption | 134629 | [134629-metroid-redemption.json](./134629-metroid-redemption.json) |
@@ -16282,6 +16284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morbus | 382593 | [382593-morbus.json](./382593-morbus.json) |
 | Mordar Warrior | 337393 | [337393-mordar-warrior.json](./337393-mordar-warrior.json) |
 | Mordath | 236143 | [236143-mordath.json](./236143-mordath.json) |
+| Mordbrann | 328132 | [328132-mordbrann.json](./328132-mordbrann.json) |
 | Mordecai Saw Game | 385050 | [385050-mordecai-saw-game.json](./385050-mordecai-saw-game.json) |
 | Mordeny | 356804 | [356804-mordeny.json](./356804-mordeny.json) |
 | Morder | 111565 | [111565-morder.json](./111565-morder.json) |
@@ -19457,6 +19460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cute Unicorns: Coloring Book | 212272 | [212272-my-cute-unicorns-coloring-book.json](./212272-my-cute-unicorns-coloring-book.json) |
 | My Cute, Pure Boyfriend | 303274 | [303274-my-cute-pure-boyfriend.json](./303274-my-cute-pure-boyfriend.json) |
 | My Cute, Pure Boyfriend 2 | 303294 | [303294-my-cute-pure-boyfriend-2.json](./303294-my-cute-pure-boyfriend-2.json) |
+| My Dad is a Hero | 328153 | [328153-my-dad-is-a-hero.json](./328153-my-dad-is-a-hero.json) |
 | My Dad Left Me | 211054 | [211054-my-dad-left-me.json](./211054-my-dad-left-me.json) |
 | My Daddy, My Christmas | 266140 | [266140-my-daddy-my-christmas.json](./266140-my-daddy-my-christmas.json) |
 | My Daily Pets | 270976 | [270976-my-daily-pets.json](./270976-my-daily-pets.json) |
