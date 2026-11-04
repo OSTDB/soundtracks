@@ -6247,6 +6247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Betweenlands | 232649 | [232649-the-betweenlands.json](./232649-the-betweenlands.json) |
 | The Betweenlands | 323011 | [323011-the-betweenlands.json](./323011-the-betweenlands.json) |
 | The Beverly Hillbillies | 74018 | [74018-the-beverly-hillbillies.json](./74018-the-beverly-hillbillies.json) |
+| The Bewildering Basilica of the Bishop of Bobtown | 324620 | [324620-the-bewildering-basilica-of-the-bishop-of-bobtown.json](./324620-the-bewildering-basilica-of-the-bishop-of-bobtown.json) |
 | The Beyond | 339218 | [339218-the-beyond.json](./339218-the-beyond.json) |
 | The Beyond Of Fears: New House | 304876 | [304876-the-beyond-of-fears-new-house.json](./304876-the-beyond-of-fears-new-house.json) |
 | The Beziér Game | 138840 | [138840-the-bezier-game.json](./138840-the-bezier-game.json) |
@@ -24109,6 +24110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider Collection 1 | 299439 | [299439-tomb-raider-collection-1.json](./299439-tomb-raider-collection-1.json) |
 | Tomb Raider I-VI Remastered | 331905 | [331905-tomb-raider-i-vi-remastered.json](./331905-tomb-raider-i-vi-remastered.json) |
 | Tomb Raider I•II•III Remastered | 266683 | [266683-tomb-raider-i-ii-iii-remastered.json](./266683-tomb-raider-i-ii-iii-remastered.json) |
+| Tomb Raider I•II•III Remastered: Deluxe Edition | 324605 | [324605-tomb-raider-i-ii-iii-remastered-deluxe-edition.json](./324605-tomb-raider-i-ii-iii-remastered-deluxe-edition.json) |
 | Tomb Raider II | 266698 | [266698-tomb-raider-ii.json](./266698-tomb-raider-ii.json) |
 | Tomb Raider II: Collector's Edition | 159319 | [159319-tomb-raider-ii-collectors-edition.json](./159319-tomb-raider-ii-collectors-edition.json) |
 | Tomb Raider II: Gold | 27554 | [27554-tomb-raider-ii-gold.json](./27554-tomb-raider-ii-gold.json) |
@@ -29626,6 +29628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trickshot | 206667 | [206667-trickshot.json](./206667-trickshot.json) |
 | TrickShot | 147406 | [147406-trickshot.json](./147406-trickshot.json) |
 | Trickshot League | 138504 | [138504-trickshot-league.json](./138504-trickshot-league.json) |
+| TrickShot Simulator | 324610 | [324610-trickshot-simulator.json](./324610-trickshot-simulator.json) |
 | Trickshot Tactics | 382753 | [382753-trickshot-tactics.json](./382753-trickshot-tactics.json) |
 | TrickShot VR | 133457 | [133457-trickshot-vr.json](./133457-trickshot-vr.json) |
 | Trickshotterz | 371538 | [371538-trickshotterz.json](./371538-trickshotterz.json) |
