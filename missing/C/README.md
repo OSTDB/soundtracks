@@ -17844,6 +17844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Colors | 247570 | [247570-crystal-colors.json](./247570-crystal-colors.json) |
 | Crystal Comet | 272774 | [272774-crystal-comet.json](./272774-crystal-comet.json) |
 | Crystal Command | 118120 | [118120-crystal-command.json](./118120-crystal-command.json) |
+| Crystal Commanders | 340159 | [340159-crystal-commanders.json](./340159-crystal-commanders.json) |
 | Crystal Compulsion | 208834 | [208834-crystal-compulsion.json](./208834-crystal-compulsion.json) |
 | Crystal Confines | 69319 | [69319-crystal-confines.json](./69319-crystal-confines.json) |
 | Crystal Conflict | 350463 | [350463-crystal-conflict.json](./350463-crystal-conflict.json) |
