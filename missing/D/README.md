@@ -12004,6 +12004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Ice your Cool | 307787 | [307787-dont-ice-your-cool.json](./307787-dont-ice-your-cool.json) |
 | Don't Jump | 372809 | [372809-dont-jump.json](./372809-dont-jump.json) |
 | Don't Kill Her | 108421 | [108421-dont-kill-her.json](./108421-dont-kill-her.json) |
+| Don't Kill Rumble | 325213 | [325213-dont-kill-rumble.json](./325213-dont-kill-rumble.json) |
 | Don't Kill the Cat | 230973 | [230973-dont-kill-the-cat.json](./230973-dont-kill-the-cat.json) |
 | Don't Kill the Cow | 125080 | [125080-dont-kill-the-cow.json](./125080-dont-kill-the-cow.json) |
 | Don't Kill the King! | 189078 | [189078-dont-kill-the-king.json](./189078-dont-kill-the-king.json) |
