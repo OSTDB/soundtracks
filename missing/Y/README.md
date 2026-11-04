@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeommae | 415339 | [415339-yeommae.json](./415339-yeommae.json) |
 | Yeomna: The Legend of Dongbaek | 152239 | [152239-yeomna-the-legend-of-dongbaek.json](./152239-yeomna-the-legend-of-dongbaek.json) |
 | Yeon-oh and Seo | 265788 | [265788-yeon-oh-and-seo.json](./265788-yeon-oh-and-seo.json) |
+| Yeonghon Gibyeong Lazenca | 321895 | [321895-yeonghon-gibyeong-lazenca.json](./321895-yeonghon-gibyeong-lazenca.json) |
 | Yeonkyung | 336004 | [336004-yeonkyung.json](./336004-yeonkyung.json) |
 | Yeoubul | 166754 | [166754-yeoubul.json](./166754-yeoubul.json) |
 | Yep It's More Skiing | 304141 | [304141-yep-its-more-skiing.json](./304141-yep-its-more-skiing.json) |
