@@ -1812,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume 2kki | 80668 | [80668-yume-2kki.json](./80668-yume-2kki.json) |
 | Yume 3 | 258176 | [258176-yume-3.json](./258176-yume-3.json) |
 | Yume 4 | 269185 | [269185-yume-4.json](./269185-yume-4.json) |
+| Yume 5 | 337381 | [337381-yume-5.json](./337381-yume-5.json) |
 | Yume 5: Spring Festival of Lust | 400245 | [400245-yume-5-spring-festival-of-lust.json](./400245-yume-5-spring-festival-of-lust.json) |
 | Yume Aruki | 166464 | [166464-yume-aruki.json](./166464-yume-aruki.json) |
 | Yume Cyber | 286130 | [286130-yume-cyber.json](./286130-yume-cyber.json) |
