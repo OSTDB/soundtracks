@@ -1690,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamer Saga | 56489 | [56489-tamer-saga.json](./56489-tamer-saga.json) |
 | Tamer Town | 355839 | [355839-tamer-town.json](./355839-tamer-town.json) |
 | Tamer Vale | 253840 | [253840-tamer-vale.json](./253840-tamer-vale.json) |
+| Tamer: King of Dinosaurs | 305702 | [305702-tamer-king-of-dinosaurs.json](./305702-tamer-king-of-dinosaurs.json) |
 | Tamerlane | 233633 | [233633-tamerlane.json](./233633-tamerlane.json) |
 | Tameshi | 197497 | [197497-tameshi.json](./197497-tameshi.json) |
 | Tametsi | 72423 | [72423-tametsi.json](./72423-tametsi.json) |
@@ -3824,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten++ | 374132 | [374132-ten.json](./374132-ten.json) |
 | Tenable | 133791 | [133791-tenable.json](./133791-tenable.json) |
 | Tenacious | 111202 | [111202-tenacious.json](./111202-tenacious.json) |
+| Tenalatro | 305707 | [305707-tenalatro.json](./305707-tenalatro.json) |
 | Tenami | 139011 | [139011-tenami.json](./139011-tenami.json) |
 | Tenancy | 413893 | [413893-tenancy.json](./413893-tenancy.json) |
 | Tenants | 129152 | [129152-tenants.json](./129152-tenants.json) |
@@ -7909,6 +7911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day of Chains | 274150 | [274150-the-day-of-chains.json](./274150-the-day-of-chains.json) |
 | The Day of Sagittarius III | 281481 | [281481-the-day-of-sagittarius-iii.json](./281481-the-day-of-sagittarius-iii.json) |
 | The Day of Salvation | 374744 | [374744-the-day-of-salvation.json](./374744-the-day-of-salvation.json) |
+| The Day Of Survival | 305704 | [305704-the-day-of-survival.json](./305704-the-day-of-survival.json) |
 | The Day of the Jellyfish | 368154 | [368154-the-day-of-the-jellyfish.json](./368154-the-day-of-the-jellyfish.json) |
 | The Day That Changed My Life | 224642 | [224642-the-day-that-changed-my-life.json](./224642-the-day-that-changed-my-life.json) |
 | The Day That Wasn't | 390086 | [390086-the-day-that-wasnt.json](./390086-the-day-that-wasnt.json) |
@@ -12885,6 +12888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost City of Malathedra | 35670 | [35670-the-lost-city-of-malathedra.json](./35670-the-lost-city-of-malathedra.json) |
 | The Lost City of Vampires | 421561 | [421561-the-lost-city-of-vampires.json](./421561-the-lost-city-of-vampires.json) |
 | The Lost Clown | 268736 | [268736-the-lost-clown.json](./268736-the-lost-clown.json) |
+| The Lost Compressor | 305694 | [305694-the-lost-compressor.json](./305694-the-lost-compressor.json) |
 | The Lost Crown | 11621 | [11621-the-lost-crown.json](./11621-the-lost-crown.json) |
 | The Lost Crown of Queen Anne | 70072 | [70072-the-lost-crown-of-queen-anne.json](./70072-the-lost-crown-of-queen-anne.json) |
 | The Lost Crucible | 350783 | [350783-the-lost-crucible.json](./350783-the-lost-crucible.json) |
@@ -28821,6 +28825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transit City Touch | 103068 | [103068-transit-city-touch.json](./103068-transit-city-touch.json) |
 | Transit King | 75530 | [75530-transit-king.json](./75530-transit-king.json) |
 | Transit King Tycoon | 140399 | [140399-transit-king-tycoon.json](./140399-transit-king-tycoon.json) |
+| Transit Loop | 305686 | [305686-transit-loop.json](./305686-transit-loop.json) |
 | Transit Trauma | 179454 | [179454-transit-trauma.json](./179454-transit-trauma.json) |
 | Transit: An Extrasolar Human(s) | 387440 | [387440-transit-an-extrasolar-human-s.json](./387440-transit-an-extrasolar-human-s.json) |
 | Transition | 229838 | [229838-transition.json](./229838-transition.json) |
@@ -29992,6 +29997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trio | 90622 | [90622-trio.json](./90622-trio.json) |
 | Trio Adventures | 111456 | [111456-trio-adventures.json](./111456-trio-adventures.json) |
 | Trio Infernale | 122138 | [122138-trio-infernale.json](./122138-trio-infernale.json) |
+| Trio Tactics TD | 305673 | [305673-trio-tactics-td.json](./305673-trio-tactics-td.json) |
 | Trio the Punch | 292851 | [292851-trio-the-punch.json](./292851-trio-the-punch.json) |
 | Trio Triado The Game | 316592 | [316592-trio-triado-the-game.json](./316592-trio-triado-the-game.json) |
 | Triogram | 421187 | [421187-triogram.json](./421187-triogram.json) |
