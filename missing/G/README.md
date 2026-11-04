@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galerider | 110047 | [110047-galerider.json](./110047-galerider.json) |
 | Gales of Nayeli | 197512 | [197512-gales-of-nayeli.json](./197512-gales-of-nayeli.json) |
 | Galexia Educational Games | 106483 | [106483-galexia-educational-games.json](./106483-galexia-educational-games.json) |
+| Galexmo's Cosmic Consumption | 337371 | [337371-galexmos-cosmic-consumption.json](./337371-galexmos-cosmic-consumption.json) |
 | Galf | 131401 | [131401-galf.json](./131401-galf.json) |
 | Galf Streem | 386936 | [386936-galf-streem.json](./386936-galf-streem.json) |
 | Galga | 227882 | [227882-galga.json](./227882-galga.json) |
