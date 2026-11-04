@@ -3840,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix | 139802 | [139802-helix.json](./139802-helix.json) |
 | Helix | 147373 | [147373-helix.json](./147373-helix.json) |
 | Helix | 181115 | [181115-helix.json](./181115-helix.json) |
+| Helix | 336817 | [336817-helix.json](./336817-helix.json) |
 | Helix | 341828 | [341828-helix.json](./341828-helix.json) |
 | Helix | 60734 | [60734-helix.json](./60734-helix.json) |
 | Helix Ball | 104651 | [104651-helix-ball.json](./104651-helix-ball.json) |
@@ -8482,6 +8483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday with Gwen | 213485 | [213485-holiday-with-gwen.json](./213485-holiday-with-gwen.json) |
 | Holiday World | 93126 | [93126-holiday-world.json](./93126-holiday-world.json) |
 | Holidays | 167567 | [167567-holidays.json](./167567-holidays.json) |
+| Holidays | 336858 | [336858-holidays.json](./336858-holidays.json) |
 | Holidays in Khrushchevsk | 249007 | [249007-holidays-in-khrushchevsk.json](./249007-holidays-in-khrushchevsk.json) |
 | Holidays Survivors | 325988 | [325988-holidays-survivors.json](./325988-holidays-survivors.json) |
 | Höll Space 5D6 | 147197 | [147197-holl-space-5d6.json](./147197-holl-space-5d6.json) |
