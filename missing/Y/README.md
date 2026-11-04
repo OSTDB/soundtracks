@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another Zombie Survivors | 224692 | [224692-yet-another-zombie-survivors.json](./224692-yet-another-zombie-survivors.json) |
 | Yet, I Despise Him | 140543 | [140543-yet-i-despise-him.json](./140543-yet-i-despise-him.json) |
 | Yeth | 201832 | [201832-yeth.json](./201832-yeth.json) |
+| Yeth 2 | 326498 | [326498-yeth-2.json](./326498-yeth-2.json) |
 | Yeti | 68350 | [68350-yeti.json](./68350-yeti.json) |
 | Yeti Adventure | 29234 | [29234-yeti-adventure.json](./29234-yeti-adventure.json) |
 | Yeti Legend: Mystery of the Forest | 294470 | [294470-yeti-legend-mystery-of-the-forest.json](./294470-yeti-legend-mystery-of-the-forest.json) |
@@ -695,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoake Mae yori Ruri Iro na | 60801 | [60801-yoake-mae-yori-ruri-iro-na.json](./60801-yoake-mae-yori-ruri-iro-na.json) |
 | Yoake no Mariko | 65455 | [65455-yoake-no-mariko.json](./65455-yoake-no-mariko.json) |
 | Yoake no Mariko 2nd Act | 55858 | [55858-yoake-no-mariko-2nd-act.json](./55858-yoake-no-mariko-2nd-act.json) |
+| Yobarai Detective: Miasma Breaker | 324241 | [324241-yobarai-detective-miasma-breaker.json](./324241-yobarai-detective-miasma-breaker.json) |
 | YoBro | 37730 | [37730-yobro.json](./37730-yobro.json) |
 | Yochi | 92331 | [92331-yochi.json](./92331-yochi.json) |
 | Yoda | 327966 | [327966-yoda.json](./327966-yoda.json) |
