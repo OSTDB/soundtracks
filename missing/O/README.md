@@ -471,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oceanview Mall | 336450 | [336450-oceanview-mall.json](./336450-oceanview-mall.json) |
 | Oceanwork | 147010 | [147010-oceanwork.json](./147010-oceanwork.json) |
 | Ocero 3D | 341497 | [341497-ocero-3d.json](./341497-ocero-3d.json) |
+| Och Noe: Thegame | 305719 | [305719-och-noe-thegame.json](./305719-och-noe-thegame.json) |
 | Ocha no Ma Battle | 299030 | [299030-ocha-no-ma-battle.json](./299030-ocha-no-ma-battle.json) |
 | Ochakai he no Shoutaijou | 246092 | [246092-ochakai-he-no-shoutaijou.json](./246092-ochakai-he-no-shoutaijou.json) |
 | Ochaken Kururin: Honwaka Puzzle de Ho~ttoshiyou? | 49744 | [49744-ochaken-kururin-honwaka-puzzle-de-ho-ttoshiyou.json](./49744-ochaken-kururin-honwaka-puzzle-de-ho-ttoshiyou.json) |
@@ -945,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Nightmare | 302045 | [302045-office-nightmare.json](./302045-office-nightmare.json) |
 | Office Nightmare: Chapter 1 | 275131 | [275131-office-nightmare-chapter-1.json](./275131-office-nightmare-chapter-1.json) |
 | Office Novice | 180851 | [180851-office-novice.json](./180851-office-novice.json) |
+| Office Odyssey | 305690 | [305690-office-odyssey.json](./305690-office-odyssey.json) |
 | Office Outbreak Savior | 333155 | [333155-office-outbreak-savior.json](./333155-office-outbreak-savior.json) |
 | Office Overloaded | 317580 | [317580-office-overloaded.json](./317580-office-overloaded.json) |
 | Office Overlord | 420509 | [420509-office-overlord.json](./420509-office-overlord.json) |
@@ -1591,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Summer Games | 4493 | [4493-olympic-summer-games.json](./4493-olympic-summer-games.json) |
 | Olympic Summer Games: Atlanta '96 | 43735 | [43735-olympic-summer-games-atlanta-96.json](./43735-olympic-summer-games-atlanta-96.json) |
 | Olympic Trials | 71184 | [71184-olympic-trials.json](./71184-olympic-trials.json) |
+| Olympics Go! Paris 2024 | 305715 | [305715-olympics-go-paris-2024.json](./305715-olympics-go-paris-2024.json) |
 | Olympics VR | 75942 | [75942-olympics-vr.json](./75942-olympics-vr.json) |
 | Olympimania | 354592 | [354592-olympimania.json](./354592-olympimania.json) |
 | Olympique de Marseille Club Football 2005 | 267907 | [267907-olympique-de-marseille-club-football-2005.json](./267907-olympique-de-marseille-club-football-2005.json) |
