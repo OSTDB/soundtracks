@@ -1611,6 +1611,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigokuraku: Paradise Battle | 409820 | [409820-jigokuraku-paradise-battle.json](./409820-jigokuraku-paradise-battle.json) |
 | Jigoro | 367140 | [367140-jigoro.json](./367140-jigoro.json) |
 | Jigrift | 383401 | [383401-jigrift.json](./383401-jigrift.json) |
+| Jigs4w3D: Futuristic Apartment Environment DLC | 305713 | [305713-jigs4w3d-futuristic-apartment-environment-dlc.json](./305713-jigs4w3d-futuristic-apartment-environment-dlc.json) |
+| Jigs4w3D: Loft Office Environment DLC | 305712 | [305712-jigs4w3d-loft-office-environment-dlc.json](./305712-jigs4w3d-loft-office-environment-dlc.json) |
+| Jigs4w3D: My Photos DLC | 305714 | [305714-jigs4w3d-my-photos-dlc.json](./305714-jigs4w3d-my-photos-dlc.json) |
+| Jigs4w3D: Puzzle Challenge | 305711 | [305711-jigs4w3d-puzzle-challenge.json](./305711-jigs4w3d-puzzle-challenge.json) |
 | Jigsaw | 149289 | [149289-jigsaw.json](./149289-jigsaw.json) |
 | Jigsaw | 7863 | [7863-jigsaw.json](./7863-jigsaw.json) |
 | Jigsaw 360 | 112490 | [112490-jigsaw-360.json](./112490-jigsaw-360.json) |
