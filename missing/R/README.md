@@ -4344,6 +4344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflex Drop Time Race | 367849 | [367849-reflex-drop-time-race.json](./367849-reflex-drop-time-race.json) |
 | Reflex King of Elements | 227719 | [227719-reflex-king-of-elements.json](./227719-reflex-king-of-elements.json) |
 | Reflex Master: Sight | 342729 | [342729-reflex-master-sight.json](./342729-reflex-master-sight.json) |
+| Reflex on Go! | 320071 | [320071-reflex-on-go.json](./320071-reflex-on-go.json) |
 | Reflex Point | 19707 | [19707-reflex-point.json](./19707-reflex-point.json) |
 | Reflex Run | 390190 | [390190-reflex-run.json](./390190-reflex-run.json) |
 | Reflex Rush | 411236 | [411236-reflex-rush.json](./411236-reflex-rush.json) |
@@ -5188,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiem | 188458 | [188458-requiem.json](./188458-requiem.json) |
 | Requiem | 255853 | [255853-requiem.json](./255853-requiem.json) |
 | Requiem | 377166 | [377166-requiem.json](./377166-requiem.json) |
+| Requiem For a Lost World | 319910 | [319910-requiem-for-a-lost-world.json](./319910-requiem-for-a-lost-world.json) |
 | Requiem for an Angel | 285384 | [285384-requiem-for-an-angel.json](./285384-requiem-for-an-angel.json) |
 | Requiem Hurts | 22404 | [22404-requiem-hurts.json](./22404-requiem-hurts.json) |
 | Requiem Hurts: Rainy Escape | 22405 | [22405-requiem-hurts-rainy-escape.json](./22405-requiem-hurts-rainy-escape.json) |
@@ -6018,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroRealms Double Feature: Halloween and Ash vs. Evil Dead - Day One Edition | 331841 | [331841-retrorealms-double-feature-halloween-and-ash-vs-evil-dead-day-one-edition.json](./331841-retrorealms-double-feature-halloween-and-ash-vs-evil-dead-day-one-edition.json) |
 | RetroRealms: Ash vs. Evil Dead | 313490 | [313490-retrorealms-ash-vs-evil-dead.json](./313490-retrorealms-ash-vs-evil-dead.json) |
 | RetroRealms: Halloween | 313489 | [313489-retrorealms-halloween.json](./313489-retrorealms-halloween.json) |
+| Retroronto | 320063 | [320063-retroronto.json](./320063-retroronto.json) |
 | RetroScape | 185107 | [185107-retroscape.json](./185107-retroscape.json) |
 | RetroShip: Hit the space ship | 175285 | [175285-retroship-hit-the-space-ship.json](./175285-retroship-hit-the-space-ship.json) |
 | RetroShooti | 150910 | [150910-retroshooti.json](./150910-retroshooti.json) |
@@ -8702,6 +8705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Arena: Design & Destroy | 79323 | [79323-robot-arena-design-and-destroy.json](./79323-robot-arena-design-and-destroy.json) |
 | Robot Auto Racing Simulator | 127950 | [127950-robot-auto-racing-simulator.json](./127950-robot-auto-racing-simulator.json) |
 | Robot Battle | 132056 | [132056-robot-battle.json](./132056-robot-battle.json) |
+| Robot Battle | 320088 | [320088-robot-battle.json](./320088-robot-battle.json) |
 | Robot Battle V | 400337 | [400337-robot-battle-v.json](./400337-robot-battle-v.json) |
 | Robot Battler | 4491 | [4491-robot-battler.json](./4491-robot-battler.json) |
 | Robot Beekeeper | 356304 | [356304-robot-beekeeper.json](./356304-robot-beekeeper.json) |
@@ -10849,6 +10853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roskur's Run | 300802 | [300802-roskurs-run.json](./300802-roskurs-run.json) |
 | Roster: Alice's White Mouse | 392110 | [392110-roster-alices-white-mouse.json](./392110-roster-alices-white-mouse.json) |
 | Rostros de la arena | 391660 | [391660-rostros-de-la-arena.json](./391660-rostros-de-la-arena.json) |
+| Rosttle | 319914 | [319914-rosttle.json](./319914-rosttle.json) |
 | Roswell Conspiracies: Aliens, Myths & Legends | 49883 | [49883-roswell-conspiracies-aliens-myths-and-legends.json](./49883-roswell-conspiracies-aliens-myths-and-legends.json) |
 | Roswell Fighter | 21774 | [21774-roswell-fighter.json](./21774-roswell-fighter.json) |
 | Roswell Pinball | 314913 | [314913-roswell-pinball.json](./314913-roswell-pinball.json) |
@@ -11081,6 +11086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rover Wars | 177039 | [177039-rover-wars.json](./177039-rover-wars.json) |
 | Rover Wars: Battle For Mars | 132380 | [132380-rover-wars-battle-for-mars.json](./132380-rover-wars-battle-for-mars.json) |
 | Rover’s Radventure: The New Millennium | 411733 | [411733-rover-s-radventure-the-new-millennium.json](./411733-rover-s-radventure-the-new-millennium.json) |
+| Rover's Tale | 320052 | [320052-rovers-tale.json](./320052-rovers-tale.json) |
 | Rovercraft 2 | 220195 | [220195-rovercraft-2.json](./220195-rovercraft-2.json) |
 | RoverCraft Space Racing | 235287 | [235287-rovercraft-space-racing.json](./235287-rovercraft-space-racing.json) |
 | Roving in the Dark | 106602 | [106602-roving-in-the-dark.json](./106602-roving-in-the-dark.json) |
@@ -12631,6 +12637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Stings | 2962 | [2962-rusty-stings.json](./2962-rusty-stings.json) |
 | Rusty Strings | 397028 | [397028-rusty-strings.json](./397028-rusty-strings.json) |
 | Rusty Tank Survival | 105603 | [105603-rusty-tank-survival.json](./105603-rusty-tank-survival.json) |
+| Rusty the Rooster | 319911 | [319911-rusty-the-rooster.json](./319911-rusty-the-rooster.json) |
 | Rusty Vein | 411714 | [411714-rusty-vein.json](./411714-rusty-vein.json) |
 | Rusty Wind Blows | 177969 | [177969-rusty-wind-blows.json](./177969-rusty-wind-blows.json) |
 | Rusty Winter | 370688 | [370688-rusty-winter.json](./370688-rusty-winter.json) |
