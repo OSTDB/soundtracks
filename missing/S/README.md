@@ -10989,6 +10989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singing Easter Eggs | 293217 | [293217-singing-easter-eggs.json](./293217-singing-easter-eggs.json) |
 | Singing Horses | 293218 | [293218-singing-horses.json](./293218-singing-horses.json) |
 | Single City | 328461 | [328461-single-city.json](./328461-single-city.json) |
+| Single Ennead | 310976 | [310976-single-ennead.json](./310976-single-ennead.json) |
 | Single Espresso | 312743 | [312743-single-espresso.json](./312743-single-espresso.json) |
 | Single Feather | 220495 | [220495-single-feather.json](./220495-single-feather.json) |
 | Single Line | 225366 | [225366-single-line.json](./225366-single-line.json) |
@@ -15831,6 +15832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar System Journey VR | 43108 | [43108-solar-system-journey-vr.json](./43108-solar-system-journey-vr.json) |
 | Solar System Simulator | 293117 | [293117-solar-system-simulator.json](./293117-solar-system-simulator.json) |
 | Solar Systems For Kids | 257457 | [257457-solar-systems-for-kids.json](./257457-solar-systems-for-kids.json) |
+| Solar Voltage | 310909 | [310909-solar-voltage.json](./310909-solar-voltage.json) |
 | Solar War | 273421 | [273421-solar-war.json](./273421-solar-war.json) |
 | Solar War | 35982 | [35982-solar-war.json](./35982-solar-war.json) |
 | Solar War | 403034 | [403034-solar-war.json](./403034-solar-war.json) |
@@ -18259,6 +18261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulsworn | 395107 | [395107-soulsworn.json](./395107-soulsworn.json) |
 | SoulSync City | 306800 | [306800-soulsync-city.json](./306800-soulsync-city.json) |
 | SoulTail | 295296 | [295296-soultail.json](./295296-soultail.json) |
+| Soulthread | 310979 | [310979-soulthread.json](./310979-soulthread.json) |
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
 | SoulTrap | 62373 | [62373-soultrap.json](./62373-soultrap.json) |
 | SoulTrigger | 372606 | [372606-soultrigger.json](./372606-soultrigger.json) |
@@ -19243,6 +19246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space on the Case | 310961 | [310961-space-on-the-case.json](./310961-space-on-the-case.json) |
 | Space One: Ascendant | 167226 | [167226-space-one-ascendant.json](./167226-space-one-ascendant.json) |
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
+| Space Operators | 310892 | [310892-space-operators.json](./310892-space-operators.json) |
 | Space Ops Arcade | 285480 | [285480-space-ops-arcade.json](./285480-space-ops-arcade.json) |
 | Space Ops VR | 117705 | [117705-space-ops-vr.json](./117705-space-ops-vr.json) |
 | Space Orb | 105014 | [105014-space-orb.json](./105014-space-orb.json) |
@@ -34987,6 +34991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthetic Soul 3 | 310736 | [310736-synthetic-soul-3.json](./310736-synthetic-soul-3.json) |
 | Synthetic Soul: Neon | 295658 | [295658-synthetic-soul-neon.json](./295658-synthetic-soul-neon.json) |
 | Synthetic Soul: Onyx | 322617 | [322617-synthetic-soul-onyx.json](./322617-synthetic-soul-onyx.json) |
+| Synthetic Soul: Reset | 310918 | [310918-synthetic-soul-reset.json](./310918-synthetic-soul-reset.json) |
 | Synthetica: Cyber Club Manager | 291839 | [291839-synthetica-cyber-club-manager.json](./291839-synthetica-cyber-club-manager.json) |
 | SynthetiCell BioClicker | 339423 | [339423-syntheticell-bioclicker.json](./339423-syntheticell-bioclicker.json) |
 | Synthetik: Arena | 112983 | [112983-synthetik-arena.json](./112983-synthetik-arena.json) |
