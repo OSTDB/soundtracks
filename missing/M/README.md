@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafioso | 348499 | [348499-mafioso.json](./348499-mafioso.json) |
 | Mafioso | 388793 | [388793-mafioso.json](./388793-mafioso.json) |
 | Mafioso Football Manager | 413845 | [413845-mafioso-football-manager.json](./413845-mafioso-football-manager.json) |
+| Mafioso's Dice | 348550 | [348550-mafiosos-dice.json](./348550-mafiosos-dice.json) |
 | Mafurako: Jiyou Jikan | 229489 | [229489-mafurako-jiyou-jikan.json](./229489-mafurako-jiyou-jikan.json) |
 | Mag | 178431 | [178431-mag.json](./178431-mag.json) |
 | MAG | 229766 | [229766-mag.json](./229766-mag.json) |
@@ -2870,6 +2871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandala | 188887 | [188887-mandala.json](./188887-mandala.json) |
 | Mandate of Heaven | 374122 | [374122-mandate-of-heaven.json](./374122-mandate-of-heaven.json) |
 | Mandate Order | 374619 | [374619-mandate-order.json](./374619-mandate-order.json) |
+| Mandatory Fun | 348517 | [348517-mandatory-fun.json](./348517-mandatory-fun.json) |
 | Mandela Effect Brain Test | 306694 | [306694-mandela-effect-brain-test.json](./306694-mandela-effect-brain-test.json) |
 | Mandela Invasion | 282820 | [282820-mandela-invasion.json](./282820-mandela-invasion.json) |
 | Mandemon | 259510 | [259510-mandemon.json](./259510-mandemon.json) |
@@ -5665,7 +5667,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -21111,6 +21112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth & Magery | 419977 | [419977-myth-and-magery.json](./419977-myth-and-magery.json) |
 | Myth & Mirage | 310727 | [310727-myth-and-mirage.json](./310727-myth-and-mirage.json) |
 | Myth Caller: The Nightmare Shaman | 216592 | [216592-myth-caller-the-nightmare-shaman.json](./216592-myth-caller-the-nightmare-shaman.json) |
+| Myth Characters | 348511 | [348511-myth-characters.json](./348511-myth-characters.json) |
 | Myth Finders | 364510 | [364510-myth-finders.json](./364510-myth-finders.json) |
 | Myth Guardians | 374820 | [374820-myth-guardians.json](./374820-myth-guardians.json) |
 | Myth II: Chimera | 72070 | [72070-myth-ii-chimera.json](./72070-myth-ii-chimera.json) |
