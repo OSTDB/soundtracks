@@ -5701,7 +5701,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6789,6 +6788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Mystery Match | 46473 | [46473-medieval-mystery-match.json](./46473-medieval-mystery-match.json) |
 | Medieval Nightt: Part 1 | 311804 | [311804-medieval-nightt-part-1.json](./311804-medieval-nightt-part-1.json) |
 | Medieval Pathfinder | 336050 | [336050-medieval-pathfinder.json](./336050-medieval-pathfinder.json) |
+| Medieval Pig | 334432 | [334432-medieval-pig.json](./334432-medieval-pig.json) |
 | Medieval Playground | 33708 | [33708-medieval-playground.json](./33708-medieval-playground.json) |
 | Medieval Quest | 406848 | [406848-medieval-quest.json](./406848-medieval-quest.json) |
 | Medieval Questionnaire | 288816 | [288816-medieval-questionnaire.json](./288816-medieval-questionnaire.json) |
