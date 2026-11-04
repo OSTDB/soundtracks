@@ -5127,6 +5127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja War: Super Ninja Showdown | 199937 | [199937-ninja-war-super-ninja-showdown.json](./199937-ninja-war-super-ninja-showdown.json) |
 | Ninja Warrior | 92775 | [92775-ninja-warrior.json](./92775-ninja-warrior.json) |
 | Ninja Warrior Princess | 229334 | [229334-ninja-warrior-princess.json](./229334-ninja-warrior-princess.json) |
+| Ninja Warrior: Shadow of Samurai | 299344 | [299344-ninja-warrior-shadow-of-samurai.json](./299344-ninja-warrior-shadow-of-samurai.json) |
 | Ninja Warriors | 42654 | [42654-ninja-warriors.json](./42654-ninja-warriors.json) |
 | Ninja Wars | 118880 | [118880-ninja-wars.json](./118880-ninja-wars.json) |
 | Ninja Wars: Battle Simulator | 320526 | [320526-ninja-wars-battle-simulator.json](./320526-ninja-wars-battle-simulator.json) |
