@@ -112,6 +112,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Saiko Mystery Series Vol. 2 - Angel City | 254928 | [254928-g-mode-archives-saiko-mystery-series-vol-2-angel-city.json](./254928-g-mode-archives-saiko-mystery-series-vol-2-angel-city.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.3 - Sin | 260681 | [260681-g-mode-archives-saiko-mystery-series-vol-3-sin.json](./260681-g-mode-archives-saiko-mystery-series-vol-3-sin.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.5 - Cold Rain | 276453 | [276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json](./276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json) |
+| G-Mode Archives+: Shin Megami Tensei - 20XX | 340672 | [340672-g-mode-archives-shin-megami-tensei-20xx.json](./340672-g-mode-archives-shin-megami-tensei-20xx.json) |
+| G-Mode Archives+: Shin Megami Tensei - Tokyo Requiem | 340668 | [340668-g-mode-archives-shin-megami-tensei-tokyo-requiem.json](./340668-g-mode-archives-shin-megami-tensei-tokyo-requiem.json) |
 | G-Mode Archives+: Spica Adventure | 409349 | [409349-g-mode-archives-spica-adventure.json](./409349-g-mode-archives-spica-adventure.json) |
 | G-Mode Archives+: Stella Deus - The Age of Alchemy | 378337 | [378337-g-mode-archives-stella-deus-the-age-of-alchemy.json](./378337-g-mode-archives-stella-deus-the-age-of-alchemy.json) |
 | G-Mode Archives+: Stella Deus - The Spirit of Darkness | 374605 | [374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json](./374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json) |
@@ -6967,6 +6969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gophy | 234325 | [234325-gophy.json](./234325-gophy.json) |
 | Gopnik | 153461 | [153461-gopnik.json](./153461-gopnik.json) |
 | Gopnik Simulator | 100399 | [100399-gopnik-simulator.json](./100399-gopnik-simulator.json) |
+| Gopogo | 340818 | [340818-gopogo.json](./340818-gopogo.json) |
 | GoPogo | 235681 | [235681-gopogo.json](./235681-gopogo.json) |
 | GOR - Gorilla Office Rampage! | 128802 | [128802-gor-gorilla-office-rampage.json](./128802-gor-gorilla-office-rampage.json) |
 | Gor Lab | 321155 | [321155-gor-lab.json](./321155-gor-lab.json) |
