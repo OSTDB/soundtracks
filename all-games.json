@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-04T08:22:03.960Z",
-  "total_soundtracks": 2903,
+  "generated_at": "2026-11-04T08:26:01.436Z",
+  "total_soundtracks": 2906,
   "games": [
     {
       "igdb_id": 7522,
@@ -16621,6 +16621,20 @@
       ]
     },
     {
+      "igdb_id": 205064,
+      "game_name": "Last Call BBS",
+      "game_url": "https://ostdb.net/games/last-call-bbs",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27364e397b49517f27a38fc67c7",
+      "albums": [
+        {
+          "album_name": "Last Call BBS (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5QErehLYnxzRfPU5lnLJDy",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 36543,
       "game_name": "Last Day of June",
       "game_url": "https://ostdb.net/games/last-day-of-june",
@@ -22773,6 +22787,20 @@
         {
           "album_name": "Poco (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3adjcyDlPxYCiAQ6PwkqED",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 204454,
+      "game_name": "Poinpy",
+      "game_url": "https://ostdb.net/games/poinpy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734fdd839fd353c407be34c0b4",
+      "albums": [
+        {
+          "album_name": "Poinpy (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3Vn06TejZbBUWPNlR6QxZ1",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -33610,6 +33638,20 @@
           "album_name": "Tunic (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5I7kCzmigmNvCVrqFjZo1q",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 212164,
+      "game_name": "Turbo Kid",
+      "game_url": "https://ostdb.net/games/turbo-kid",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cb67107dbee3b30d61086f7f",
+      "albums": [
+        {
+          "album_name": "Turbo Kid (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7KpD3XhkgwmhNwqICDceQ4",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
