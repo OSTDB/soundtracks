@@ -7914,6 +7914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Catch: Boat Crab & Fishing Simulator | 336454 | [336454-extreme-catch-boat-crab-and-fishing-simulator.json](./336454-extreme-catch-boat-crab-and-fishing-simulator.json) |
 | Extreme City Delivery: Bike Ride Simulator | 323703 | [323703-extreme-city-delivery-bike-ride-simulator.json](./323703-extreme-city-delivery-bike-ride-simulator.json) |
 | Extreme Cleaning Simulator | 423200 | [423200-extreme-cleaning-simulator.json](./423200-extreme-cleaning-simulator.json) |
+| Extreme Climbing | 304495 | [304495-extreme-climbing.json](./304495-extreme-climbing.json) |
 | Extreme Climbing Mirage City | 309406 | [309406-extreme-climbing-mirage-city.json](./309406-extreme-climbing-mirage-city.json) |
 | Extreme Custom Night | 277965 | [277965-extreme-custom-night.json](./277965-extreme-custom-night.json) |
 | Extreme Cycling | 330189 | [330189-extreme-cycling.json](./330189-extreme-cycling.json) |
