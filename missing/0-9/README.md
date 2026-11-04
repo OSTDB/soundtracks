@@ -3210,6 +3210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 80's style | 367904 | [367904-80s-style.json](./367904-80s-style.json) |
 | 800 Fathoms | 39338 | [39338-800-fathoms.json](./39338-800-fathoms.json) |
 | 808 | 357760 | [357760-808.json](./357760-808.json) |
+| 808: Firetower12 | 321892 | [321892-808-firetower12.json](./321892-808-firetower12.json) |
 | 8088 Othello | 94424 | [94424-8088-othello.json](./94424-8088-othello.json) |
 | 8088 Tetris Attack | 383341 | [383341-8088-tetris-attack.json](./383341-8088-tetris-attack.json) |
 | 8089: The Next Action RPG | 181023 | [181023-8089-the-next-action-rpg.json](./181023-8089-the-next-action-rpg.json) |
