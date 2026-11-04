@@ -8639,6 +8639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Exorcism | 375556 | [375556-an-exorcism.json](./375556-an-exorcism.json) |
 | An ExScourgeon Through Space and Time! | 180658 | [180658-an-exscourgeon-through-space-and-time.json](./180658-an-exscourgeon-through-space-and-time.json) |
 | An Idle Nightmare | 334839 | [334839-an-idle-nightmare.json](./334839-an-idle-nightmare.json) |
+| An Idle Nightmare 2: Sabbath | 335018 | [335018-an-idle-nightmare-2-sabbath.json](./335018-an-idle-nightmare-2-sabbath.json) |
 | An Imp and an Impostor | 378174 | [378174-an-imp-and-an-impostor.json](./378174-an-imp-and-an-impostor.json) |
 | An Imp? A Fiend! | 35635 | [35635-an-imp-a-fiend.json](./35635-an-imp-a-fiend.json) |
 | An Incremental Game About Placing Blocks | 390177 | [390177-an-incremental-game-about-placing-blocks.json](./390177-an-incremental-game-about-placing-blocks.json) |
@@ -10284,6 +10285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Seeker: The Diner | 343123 | [343123-anomaly-seeker-the-diner.json](./343123-anomaly-seeker-the-diner.json) |
 | Anomaly Tapes: Beyond Reality | 320009 | [320009-anomaly-tapes-beyond-reality.json](./320009-anomaly-tapes-beyond-reality.json) |
 | Anomaly Tunnel | 413595 | [413595-anomaly-tunnel.json](./413595-anomaly-tunnel.json) |
+| Anomaly Zero: Twelve | 335019 | [335019-anomaly-zero-twelve.json](./335019-anomaly-zero-twelve.json) |
 | Anomaly Zone | 126299 | [126299-anomaly-zone.json](./126299-anomaly-zone.json) |
 | Anomaly: Girls Beyond Science | 231417 | [231417-anomaly-girls-beyond-science.json](./231417-anomaly-girls-beyond-science.json) |
 | Anomaly: Warzone Earth | 8758 | [8758-anomaly-warzone-earth.json](./8758-anomaly-warzone-earth.json) |
