@@ -2051,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaf Trombone: World Stage | 253762 | [253762-leaf-trombone-world-stage.json](./253762-leaf-trombone-world-stage.json) |
 | Leaf Us Alone | 387142 | [387142-leaf-us-alone.json](./387142-leaf-us-alone.json) |
 | Leaf's Odyssey | 301354 | [301354-leafs-odyssey.json](./301354-leafs-odyssey.json) |
+| Leafblade | 298221 | [298221-leafblade.json](./298221-leafblade.json) |
 | Leafing Home | 333006 | [333006-leafing-home.json](./333006-leafing-home.json) |
 | Leafko | 352308 | [352308-leafko.json](./352308-leafko.json) |
 | Leaflet Love Story | 106496 | [106496-leaflet-love-story.json](./106496-leaflet-love-story.json) |
@@ -6361,6 +6362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizards Must Die 2 | 311584 | [311584-lizards-must-die-2.json](./311584-lizards-must-die-2.json) |
 | Lizards Must Die: Victor Character | 288903 | [288903-lizards-must-die-victor-character.json](./288903-lizards-must-die-victor-character.json) |
 | Lizards VS Humans | 395100 | [395100-lizards-vs-humans.json](./395100-lizards-vs-humans.json) |
+| Lizards vs Slavs: Arena | 298283 | [298283-lizards-vs-slavs-arena.json](./298283-lizards-vs-slavs-arena.json) |
 | LizardSpock | 233012 | [233012-lizardspock.json](./233012-lizardspock.json) |
 | liZboa | 91869 | [91869-lizboa.json](./91869-lizboa.json) |
 | Lizzie McGuire & That's So Raven | 91667 | [91667-lizzie-mcguire-and-thats-so-raven.json](./91667-lizzie-mcguire-and-thats-so-raven.json) |
