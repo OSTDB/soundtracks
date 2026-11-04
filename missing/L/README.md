@@ -1164,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Buzz | 417440 | [417440-last-buzz.json](./417440-last-buzz.json) |
 | Last Call | 175890 | [175890-last-call.json](./175890-last-call.json) |
 | Last Call | 297321 | [297321-last-call.json](./297321-last-call.json) |
+| Last Call | 313932 | [313932-last-call.json](./313932-last-call.json) |
 | Last Call: RE | 378552 | [378552-last-call-re.json](./378552-last-call-re.json) |
 | Last Call! | 71565 | [71565-last-call.json](./71565-last-call.json) |
 | Last Call's Dance | 389004 | [389004-last-calls-dance.json](./389004-last-calls-dance.json) |
@@ -7275,6 +7276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Box Simulator: RPG Anime Girls | 216225 | [216225-loot-box-simulator-rpg-anime-girls.json](./216225-loot-box-simulator-rpg-anime-girls.json) |
 | Loot Box Waifus | 391689 | [391689-loot-box-waifus.json](./391689-loot-box-waifus.json) |
 | Loot Clicker | 184176 | [184176-loot-clicker.json](./184176-loot-clicker.json) |
+| Loot Dungeon | 313941 | [313941-loot-dungeon.json](./313941-loot-dungeon.json) |
 | Loot Express Delivery Service | 211824 | [211824-loot-express-delivery-service.json](./211824-loot-express-delivery-service.json) |
 | Loot Frog | 404355 | [404355-loot-frog.json](./404355-loot-frog.json) |
 | Loot Gobblin' Together | 402652 | [402652-loot-gobblin-together.json](./402652-loot-gobblin-together.json) |
@@ -7514,6 +7516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lore Distance Relationship | 202605 | [202605-lore-distance-relationship.json](./202605-lore-distance-relationship.json) |
 | Lore Finder | 112762 | [112762-lore-finder.json](./112762-lore-finder.json) |
 | Lore Masters: Pathfinder | 330382 | [330382-lore-masters-pathfinder.json](./330382-lore-masters-pathfinder.json) |
+| Lore Masters: Video Games | 313916 | [313916-lore-masters-video-games.json](./313916-lore-masters-video-games.json) |
 | Lore of Luvarith: The Hollow Crown | 384079 | [384079-lore-of-luvarith-the-hollow-crown.json](./384079-lore-of-luvarith-the-hollow-crown.json) |
 | Lore of the Frog | 309957 | [309957-lore-of-the-frog.json](./309957-lore-of-the-frog.json) |
 | Lore Restore | 368477 | [368477-lore-restore.json](./368477-lore-restore.json) |
