@@ -363,13 +363,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 12 Global Scenery: Europe | 220726 | [220726-x-plane-12-global-scenery-europe.json](./220726-x-plane-12-global-scenery-europe.json) |
 | X-Plane 12 Global Scenery: North America | 220727 | [220727-x-plane-12-global-scenery-north-america.json](./220727-x-plane-12-global-scenery-north-america.json) |
 | X-Plane 12 Global Scenery: South America | 220728 | [220728-x-plane-12-global-scenery-south-america.json](./220728-x-plane-12-global-scenery-south-america.json) |
+| X-Plane 12: Aerosoft - Airport Friedrichshafen | 302555 | [302555-x-plane-12-aerosoft-airport-friedrichshafen.json](./302555-x-plane-12-aerosoft-airport-friedrichshafen.json) |
 | X-Plane 12: Aerosoft - Airport Madrid | 312521 | [312521-x-plane-12-aerosoft-airport-madrid.json](./312521-x-plane-12-aerosoft-airport-madrid.json) |
+| X-Plane 12: Aerosoft - Airport Manchester | 302556 | [302556-x-plane-12-aerosoft-airport-manchester.json](./302556-x-plane-12-aerosoft-airport-manchester.json) |
 | X-Plane 12: Aerosoft - Airport Marseille | 252227 | [252227-x-plane-12-aerosoft-airport-marseille.json](./252227-x-plane-12-aerosoft-airport-marseille.json) |
 | X-Plane 12: Aerosoft - Airport Menorca | 266303 | [266303-x-plane-12-aerosoft-airport-menorca.json](./266303-x-plane-12-aerosoft-airport-menorca.json) |
 | X-Plane 12: Aerosoft - Airport Milano Malpensa | 254651 | [254651-x-plane-12-aerosoft-airport-milano-malpensa.json](./254651-x-plane-12-aerosoft-airport-milano-malpensa.json) |
 | X-Plane 12: Aerosoft - Airport Stuttgart | 312523 | [312523-x-plane-12-aerosoft-airport-stuttgart.json](./312523-x-plane-12-aerosoft-airport-stuttgart.json) |
 | X-Plane 12: Aerosoft - Seychelles XP | 264514 | [264514-x-plane-12-aerosoft-seychelles-xp.json](./264514-x-plane-12-aerosoft-seychelles-xp.json) |
 | X-Plane 12: Aerosoft - Society Islands XP: Tahiti & Windward Islands | 289881 | [289881-x-plane-12-aerosoft-society-islands-xp-tahiti-and-windward-islands.json](./289881-x-plane-12-aerosoft-society-islands-xp-tahiti-and-windward-islands.json) |
+| X-Plane 12: Aerosoft - Tromsø | 302557 | [302557-x-plane-12-aerosoft-troms.json](./302557-x-plane-12-aerosoft-troms.json) |
 | X-Plane 12: Axonos - Owen Roberts International Airport | 312520 | [312520-x-plane-12-axonos-owen-roberts-international-airport.json](./312520-x-plane-12-axonos-owen-roberts-international-airport.json) |
 | X-Plane 12: Axonos - Varna Airport | 312522 | [312522-x-plane-12-axonos-varna-airport.json](./312522-x-plane-12-axonos-varna-airport.json) |
 | X-Plane 12: FACO Simulations - F-15C Eagle | 312519 | [312519-x-plane-12-faco-simulations-f-15c-eagle.json](./312519-x-plane-12-faco-simulations-f-15c-eagle.json) |
