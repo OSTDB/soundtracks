@@ -603,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dami & Flo | 179461 | [179461-dami-and-flo.json](./179461-dami-and-flo.json) |
 | Dami and Secret Library | 375507 | [375507-dami-and-secret-library.json](./375507-dami-and-secret-library.json) |
 | Damien Crawford's Golf Experience 2022 | 212590 | [212590-damien-crawfords-golf-experience-2022.json](./212590-damien-crawfords-golf-experience-2022.json) |
+| Damien Crawford's Golf Experience 2024 | 318344 | [318344-damien-crawfords-golf-experience-2024.json](./318344-damien-crawfords-golf-experience-2024.json) |
 | Damien: The Game | 239538 | [239538-damien-the-game.json](./239538-damien-the-game.json) |
 | Damion Shard: Ace Attorney | 302643 | [302643-damion-shard-ace-attorney.json](./302643-damion-shard-ace-attorney.json) |
 | Dämmerlicht | 29547 | [29547-dammerlicht.json](./29547-dammerlicht.json) |
@@ -5033,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Combat | 385933 | [385933-deep-combat.json](./385933-deep-combat.json) |
 | Deep Copy | 318011 | [318011-deep-copy.json](./318011-deep-copy.json) |
 | Deep Corp | 390993 | [390993-deep-corp.json](./390993-deep-corp.json) |
+| Deep Crafter | 318306 | [318306-deep-crafter.json](./318306-deep-crafter.json) |
 | Deep Cut | 176264 | [176264-deep-cut.json](./176264-deep-cut.json) |
 | Deep Cuts | 306937 | [306937-deep-cuts.json](./306937-deep-cuts.json) |
 | Deep Dark | 343021 | [343021-deep-dark.json](./343021-deep-dark.json) |
@@ -14387,6 +14389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Friends: The Secret of Green Witch | 212453 | [212453-dragon-friends-the-secret-of-green-witch.json](./212453-dragon-friends-the-secret-of-green-witch.json) |
 | Dragon Front | 57717 | [57717-dragon-front.json](./57717-dragon-front.json) |
 | Dragon Front Rising | 277507 | [277507-dragon-front-rising.json](./277507-dragon-front-rising.json) |
+| Dragon Front: Adventures | 318316 | [318316-dragon-front-adventures.json](./318316-dragon-front-adventures.json) |
 | Dragon Fun Classic | 221974 | [221974-dragon-fun-classic.json](./221974-dragon-fun-classic.json) |
 | Dragon Fury | 231046 | [231046-dragon-fury.json](./231046-dragon-fury.json) |
 | Dragon Gal: Shura no Yabou | 58692 | [58692-dragon-gal-shura-no-yabou.json](./58692-dragon-gal-shura-no-yabou.json) |
@@ -14679,6 +14682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Sweeper | 182023 | [182023-dragon-sweeper.json](./182023-dragon-sweeper.json) |
 | Dragon Sword | 47739 | [47739-dragon-sword.json](./47739-dragon-sword.json) |
 | Dragon Syndicate | 363782 | [363782-dragon-syndicate.json](./363782-dragon-syndicate.json) |
+| Dragon Takers | 318302 | [318302-dragon-takers.json](./318302-dragon-takers.json) |
 | Dragon Tale 4: The Raven Plot - Collector's Edition | 337221 | [337221-dragon-tale-4-the-raven-plot-collectors-edition.json](./337221-dragon-tale-4-the-raven-plot-collectors-edition.json) |
 | Dragon Tale 5: The Queen's Destiny - Collector's Edition | 417525 | [417525-dragon-tale-5-the-queens-destiny-collectors-edition.json](./417525-dragon-tale-5-the-queens-destiny-collectors-edition.json) |
 | Dragon Tale 6: Veil of Time - Collector's Edition | 417513 | [417513-dragon-tale-6-veil-of-time-collectors-edition.json](./417513-dragon-tale-6-veil-of-time-collectors-edition.json) |
@@ -17325,6 +17329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Amanojaku | 204675 | [204675-dungeon-amanojaku.json](./204675-dungeon-amanojaku.json) |
 | Dungeon And Darkness | 332562 | [332562-dungeon-and-darkness.json](./332562-dungeon-and-darkness.json) |
 | Dungeon and Puzzles | 142267 | [142267-dungeon-and-puzzles.json](./142267-dungeon-and-puzzles.json) |
+| Dungeon Antiqua | 318329 | [318329-dungeon-antiqua.json](./318329-dungeon-antiqua.json) |
 | Dungeon Antiqua 2 | 384193 | [384193-dungeon-antiqua-2.json](./384193-dungeon-antiqua-2.json) |
 | Dungeon Apollonios | 391579 | [391579-dungeon-apollonios.json](./391579-dungeon-apollonios.json) |
 | Dungeon Arena | 163396 | [163396-dungeon-arena.json](./163396-dungeon-arena.json) |
