@@ -8729,6 +8729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Ordinary Sonic Fangame | 329320 | [329320-an-ordinary-sonic-fangame.json](./329320-an-ordinary-sonic-fangame.json) |
 | An Ordinary Sonic ROM Hack | 129178 | [129178-an-ordinary-sonic-rom-hack.json](./129178-an-ordinary-sonic-rom-hack.json) |
 | An Otaku like me has 2 Fiancees?! | 208271 | [208271-an-otaku-like-me-has-2-fiancees.json](./208271-an-otaku-like-me-has-2-fiancees.json) |
+| An Other Golf Game | 308117 | [308117-an-other-golf-game.json](./308117-an-other-golf-game.json) |
 | An Outcry | 182180 | [182180-an-outcry.json](./182180-an-outcry.json) |
 | An Outcry, Prelude | 198319 | [198319-an-outcry-prelude.json](./198319-an-outcry-prelude.json) |
 | An Outland Village | 327728 | [327728-an-outland-village.json](./327728-an-outland-village.json) |
