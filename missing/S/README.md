@@ -10789,6 +10789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulator hipstera 2k17 | 75057 | [75057-simulator-hipstera-2k17.json](./75057-simulator-hipstera-2k17.json) |
 | Simulator Mega Pack: Fishing, Soldier, Bear, Shark & Truck Mechanic | 401134 | [401134-simulator-mega-pack-fishing-soldier-bear-shark-and-truck-mechanic.json](./401134-simulator-mega-pack-fishing-soldier-bear-shark-and-truck-mechanic.json) |
 | Simulator Of A Person Who Is Taking Online Course To Study How To Lose Weight | 279264 | [279264-simulator-of-a-person-who-is-taking-online-course-to-study-how-to-lose-weight.json](./279264-simulator-of-a-person-who-is-taking-online-course-to-study-how-to-lose-weight.json) |
+| Simulator of Sitting in the Driveway | 337937 | [337937-simulator-of-sitting-in-the-driveway.json](./337937-simulator-of-sitting-in-the-driveway.json) |
 | Simulator of Ukraine 1991 | 265097 | [265097-simulator-of-ukraine-1991.json](./265097-simulator-of-ukraine-1991.json) |
 | Simulator of Ukraine 1991: Play for Canada | 359677 | [359677-simulator-of-ukraine-1991-play-for-canada.json](./359677-simulator-of-ukraine-1991-play-for-canada.json) |
 | Simulator of Ukraine 1991: Play for Germany | 359678 | [359678-simulator-of-ukraine-1991-play-for-germany.json](./359678-simulator-of-ukraine-1991-play-for-germany.json) |
@@ -16657,6 +16658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Chaos Planet | 330711 | [330711-sonic-chaos-planet.json](./330711-sonic-chaos-planet.json) |
 | Sonic Chaos Remake | 321992 | [321992-sonic-chaos-remake.json](./321992-sonic-chaos-remake.json) |
 | Sonic Chaos Revolution | 329946 | [329946-sonic-chaos-revolution.json](./329946-sonic-chaos-revolution.json) |
+| Sonic Character Designer | 338063 | [338063-sonic-character-designer.json](./338063-sonic-character-designer.json) |
 | Sonic Charge | 331436 | [331436-sonic-charge.json](./331436-sonic-charge.json) |
 | Sonic Chopped & Screwed | 131788 | [131788-sonic-chopped-and-screwed.json](./131788-sonic-chopped-and-screwed.json) |
 | Sonic Chronicles: The Dark Brotherhood | 299874 | [299874-sonic-chronicles-the-dark-brotherhood.json](./299874-sonic-chronicles-the-dark-brotherhood.json) |
@@ -31208,6 +31210,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pocket Tennis | 44500 | [44500-super-pocket-tennis.json](./44500-super-pocket-tennis.json) |
 | Super Pocket: Atari Edition | 327197 | [327197-super-pocket-atari-edition.json](./327197-super-pocket-atari-edition.json) |
 | Super Pocket: Capcom Edition | 256711 | [256711-super-pocket-capcom-edition.json](./256711-super-pocket-capcom-edition.json) |
+| Super Pocket: Data East Edition | 337914 | [337914-super-pocket-data-east-edition.json](./337914-super-pocket-data-east-edition.json) |
+| Super Pocket: NeoGeo Edition | 337913 | [337913-super-pocket-neogeo-edition.json](./337913-super-pocket-neogeo-edition.json) |
 | Super Pocket: Taito Edition | 256710 | [256710-super-pocket-taito-edition.json](./256710-super-pocket-taito-edition.json) |
 | Super Pocket: Technōs Edition | 321840 | [321840-super-pocket-technos-edition.json](./321840-super-pocket-technos-edition.json) |
 | Super Pole Position | 108506 | [108506-super-pole-position.json](./108506-super-pole-position.json) |
