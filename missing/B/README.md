@@ -12616,6 +12616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Buddy | 368491 | [368491-boom-buddy.json](./368491-boom-buddy.json) |
 | Boom Chick Chick | 85714 | [85714-boom-chick-chick.json](./85714-boom-chick-chick.json) |
 | Boom Company | 189993 | [189993-boom-company.json](./189993-boom-company.json) |
+| Boom Die Repeat | 345238 | [345238-boom-die-repeat.json](./345238-boom-die-repeat.json) |
 | Boom Dojo | 148917 | [148917-boom-dojo.json](./148917-boom-dojo.json) |
 | Boom Face | 169637 | [169637-boom-face.json](./169637-boom-face.json) |
 | Boom Faster | 157198 | [157198-boom-faster.json](./157198-boom-faster.json) |
@@ -15238,6 +15239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BroChicken | 253806 | [253806-brochicken.json](./253806-brochicken.json) |
 | Brocula | 139651 | [139651-brocula.json](./139651-brocula.json) |
 | Brødrene Mortensens Jul | 129815 | [129815-br-drene-mortensens-jul.json](./129815-br-drene-mortensens-jul.json) |
+| Broghurt | 345229 | [345229-broghurt.json](./345229-broghurt.json) |
 | Broil My Buns | 178800 | [178800-broil-my-buns.json](./178800-broil-my-buns.json) |
 | Broilers | 218673 | [218673-broilers.json](./218673-broilers.json) |
 | Brok Complete Bundle | 384200 | [384200-brok-complete-bundle.json](./384200-brok-complete-bundle.json) |
