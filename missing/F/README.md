@@ -2321,6 +2321,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farland Odyssey II: Kun ni Okuru Serenade | 61965 | [61965-farland-odyssey-ii-kun-ni-okuru-serenade.json](./61965-farland-odyssey-ii-kun-ni-okuru-serenade.json) |
 | Farland Saga | 80838 | [80838-farland-saga.json](./80838-farland-saga.json) |
 | Farland Saga I & II: Saturn Tribute | 360013 | [360013-farland-saga-i-and-ii-saturn-tribute.json](./360013-farland-saga-i-and-ii-saturn-tribute.json) |
+| Farland Saga I Saturn Tribute | 333276 | [333276-farland-saga-i-saturn-tribute.json](./333276-farland-saga-i-saturn-tribute.json) |
+| Farland Saga II Saturn Tribute | 333280 | [333280-farland-saga-ii-saturn-tribute.json](./333280-farland-saga-ii-saturn-tribute.json) |
 | Farland Story | 420580 | [420580-farland-story.json](./420580-farland-story.json) |
 | Farland Story | 44447 | [44447-farland-story.json](./44447-farland-story.json) |
 | Farland Story 2 | 42395 | [42395-farland-story-2.json](./42395-farland-story-2.json) |
@@ -8563,6 +8565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folk Hero | 244242 | [244242-folk-hero.json](./244242-folk-hero.json) |
 | Folk Song | 317010 | [317010-folk-song.json](./317010-folk-song.json) |
 | Folk Tale | 15409 | [15409-folk-tale.json](./15409-folk-tale.json) |
+| Folk Tales: Ala Geyik | 333296 | [333296-folk-tales-ala-geyik.json](./333296-folk-tales-ala-geyik.json) |
 | Folk Tales: Alageyik | 360768 | [360768-folk-tales-alageyik.json](./360768-folk-tales-alageyik.json) |
 | Folklore | 7307 | [7307-folklore.json](./7307-folklore.json) |
 | Folklore Fishing | 379419 | [379419-folklore-fishing.json](./379419-folklore-fishing.json) |
@@ -11320,6 +11323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freezeframe | 193246 | [193246-freezeframe.json](./193246-freezeframe.json) |
 | Freezer Jams | 245196 | [245196-freezer-jams.json](./245196-freezer-jams.json) |
 | Freezer Pops 2: Little Blo's Party | 346540 | [346540-freezer-pops-2-little-blos-party.json](./346540-freezer-pops-2-little-blos-party.json) |
+| Freezia | 333315 | [333315-freezia.json](./333315-freezia.json) |
 | Freezing Knights | 293750 | [293750-freezing-knights.json](./293750-freezing-knights.json) |
 | Freezing Skies | 133616 | [133616-freezing-skies.json](./133616-freezing-skies.json) |
 | Freezing What If... | 340258 | [340258-freezing-what-if.json](./340258-freezing-what-if.json) |
@@ -12731,6 +12735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FUMBBL Fantasy Football | 143348 | [143348-fumbbl-fantasy-football.json](./143348-fumbbl-fantasy-football.json) |
 | Fumble Fiesta | 292557 | [292557-fumble-fiesta.json](./292557-fumble-fiesta.json) |
 | Fumble Freaks | 337295 | [337295-fumble-freaks.json](./337295-fumble-freaks.json) |
+| Fumehead | 333282 | [333282-fumehead.json](./333282-fumehead.json) |
 | Fumes | 177689 | [177689-fumes.json](./177689-fumes.json) |
 | Fumiko! | 27194 | [27194-fumiko.json](./27194-fumiko.json) |
 | Fumo | 236212 | [236212-fumo.json](./236212-fumo.json) |
