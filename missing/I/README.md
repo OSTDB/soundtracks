@@ -3081,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incursion: The Thing | 30723 | [30723-incursion-the-thing.json](./30723-incursion-the-thing.json) |
 | Incursion2D | 284887 | [284887-incursion2d.json](./284887-incursion2d.json) |
 | Incyanspace | 409359 | [409359-incyanspace.json](./409359-incyanspace.json) |
+| Inda Karane: Turnabout Tsundere | 341801 | [341801-inda-karane-turnabout-tsundere.json](./341801-inda-karane-turnabout-tsundere.json) |
 | Indagator | 249390 | [249390-indagator.json](./249390-indagator.json) |
 | Inde Rally | 47090 | [47090-inde-rally.json](./47090-inde-rally.json) |
 | Indecent Desires | 211617 | [211617-indecent-desires.json](./211617-indecent-desires.json) |
@@ -3678,7 +3679,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -3788,6 +3788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Land | 112179 | [112179-infinity-land.json](./112179-infinity-land.json) |
 | Infinity Mechs | 235150 | [235150-infinity-mechs.json](./235150-infinity-mechs.json) |
 | Infinity Nikki: Blue Tears Season | 353286 | [353286-infinity-nikki-blue-tears-season.json](./353286-infinity-nikki-blue-tears-season.json) |
+| Infinity Nikki: Bubble Season | 341797 | [341797-infinity-nikki-bubble-season.json](./341797-infinity-nikki-bubble-season.json) |
 | Infinity Nikki: Danqing Season | 357174 | [357174-infinity-nikki-danqing-season.json](./357174-infinity-nikki-danqing-season.json) |
 | Infinity Nikki: Encore Season | 375611 | [375611-infinity-nikki-encore-season.json](./375611-infinity-nikki-encore-season.json) |
 | Infinity Nikki: Firework Season | 328586 | [328586-infinity-nikki-firework-season.json](./328586-infinity-nikki-firework-season.json) |
