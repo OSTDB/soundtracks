@@ -4870,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy V Advance | 20597 | [20597-final-fantasy-v-advance.json](./20597-final-fantasy-v-advance.json) |
 | Final Fantasy V Spoof | 298939 | [298939-final-fantasy-v-spoof.json](./298939-final-fantasy-v-spoof.json) |
 | Final Fantasy V-Pixel Freemaster | 315635 | [315635-final-fantasy-v-pixel-freemaster.json](./315635-final-fantasy-v-pixel-freemaster.json) |
+| Final Fantasy V: Whirlwind | 307519 | [307519-final-fantasy-v-whirlwind.json](./307519-final-fantasy-v-whirlwind.json) |
 | Final Fantasy VI Advance | 20655 | [20655-final-fantasy-vi-advance.json](./20655-final-fantasy-vi-advance.json) |
 | Final Fantasy VI Reimagined | 339232 | [339232-final-fantasy-vi-reimagined.json](./339232-final-fantasy-vi-reimagined.json) |
 | Final Fantasy VI T-Edition + EX | 186095 | [186095-final-fantasy-vi-t-edition-ex.json](./186095-final-fantasy-vi-t-edition-ex.json) |
