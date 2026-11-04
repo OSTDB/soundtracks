@@ -3154,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Heir: Rise to the Throne | 102885 | [102885-kings-heir-rise-to-the-throne.json](./102885-kings-heir-rise-to-the-throne.json) |
 | King's Helper | 173039 | [173039-kings-helper.json](./173039-kings-helper.json) |
 | King's Justice | 380503 | [380503-kings-justice.json](./380503-kings-justice.json) |
+| King's Keeper | 336295 | [336295-kings-keeper.json](./336295-kings-keeper.json) |
 | King's Knight | 307938 | [307938-kings-knight.json](./307938-kings-knight.json) |
 | King's Knight | 41723 | [41723-kings-knight.json](./41723-kings-knight.json) |
 | King's Knight Special | 307937 | [307937-kings-knight-special.json](./307937-kings-knight-special.json) |
@@ -5248,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Taean-gun | 336428 | [336428-korean-drone-flying-tour-taean-gun.json](./336428-korean-drone-flying-tour-taean-gun.json) |
 | Korean Drone Flying Tour Tomb of Prince Imyeong | 351222 | [351222-korean-drone-flying-tour-tomb-of-prince-imyeong.json](./351222-korean-drone-flying-tour-tomb-of-prince-imyeong.json) |
 | Korean Drone Flying Tour Uiwang-si | 345973 | [345973-korean-drone-flying-tour-uiwang-si.json](./345973-korean-drone-flying-tour-uiwang-si.json) |
+| Korean Drone Flying Tour Ungdo | 336429 | [336429-korean-drone-flying-tour-ungdo.json](./336429-korean-drone-flying-tour-ungdo.json) |
 | Korean Drone Flying Tour Wanju-gun | 386193 | [386193-korean-drone-flying-tour-wanju-gun.json](./386193-korean-drone-flying-tour-wanju-gun.json) |
 | Korean Drone Flying Tour Wonsan-do | 362179 | [362179-korean-drone-flying-tour-wonsan-do.json](./362179-korean-drone-flying-tour-wonsan-do.json) |
 | Korean Drone Flying Tour Woryeongsan | 376223 | [376223-korean-drone-flying-tour-woryeongsan.json](./376223-korean-drone-flying-tour-woryeongsan.json) |
@@ -6050,6 +6052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kusari Kingdom | 190974 | [190974-kusari-kingdom.json](./190974-kusari-kingdom.json) |
 | Kusarihime: Euthanasia | 138804 | [138804-kusarihime-euthanasia.json](./138804-kusarihime-euthanasia.json) |
 | Kusarihime: Jamais Vu | 331686 | [331686-kusarihime-jamais-vu.json](./331686-kusarihime-jamais-vu.json) |
+| Kush Quest | 336255 | [336255-kush-quest.json](./336255-kush-quest.json) |
 | Kuso | 146743 | [146743-kuso.json](./146743-kuso.json) |
 | Kuso Game Girl Wateri | 335483 | [335483-kuso-game-girl-wateri.json](./335483-kuso-game-girl-wateri.json) |
 | Kusodeka Bayashi | 321647 | [321647-kusodeka-bayashi.json](./321647-kusodeka-bayashi.json) |
