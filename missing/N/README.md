@@ -2295,7 +2295,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Blight | 114025 | [114025-neon-blight.json](./114025-neon-blight.json) |
 | Neon Blitz | 311859 | [311859-neon-blitz.json](./311859-neon-blitz.json) |
 | Neon Blocks 87 | 90814 | [90814-neon-blocks-87.json](./90814-neon-blocks-87.json) |
-| Neon Blood | 223443 | [223443-neon-blood.json](./223443-neon-blood.json) |
 | Neon Blood: Limited Edition | 323889 | [323889-neon-blood-limited-edition.json](./323889-neon-blood-limited-edition.json) |
 | Neon Boost | 117682 | [117682-neon-boost.json](./117682-neon-boost.json) |
 | Neon Breaker: Endless Arcade | 424615 | [424615-neon-breaker-endless-arcade.json](./424615-neon-breaker-endless-arcade.json) |
@@ -5254,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintengogo 11 | 89849 | [89849-nintengogo-11.json](./89849-nintengogo-11.json) |
 | Nintengogo 13 Hex | 89850 | [89850-nintengogo-13-hex.json](./89850-nintengogo-13-hex.json) |
 | Ninth Day Memorial | 318721 | [318721-ninth-day-memorial.json](./318721-ninth-day-memorial.json) |
+| Ninth Hotel | 328189 | [328189-ninth-hotel.json](./328189-ninth-hotel.json) |
 | Ninza | 209419 | [209419-ninza.json](./209419-ninza.json) |
 | Nioh 2 | 103330 | [103330-nioh-2.json](./103330-nioh-2.json) |
 | Nioh 2 Remastered: The Complete Edition | 143350 | [143350-nioh-2-remastered-the-complete-edition.json](./143350-nioh-2-remastered-the-complete-edition.json) |
