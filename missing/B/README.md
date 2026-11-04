@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backward Poiesis | 297776 | [297776-backward-poiesis.json](./297776-backward-poiesis.json) |
 | Backwards | 179176 | [179176-backwards.json](./179176-backwards.json) |
 | Backwards Mario World | 215150 | [215150-backwards-mario-world.json](./215150-backwards-mario-world.json) |
+| Backwater Eulogy | 317149 | [317149-backwater-eulogy.json](./317149-backwater-eulogy.json) |
 | Backwoods Billiards | 205904 | [205904-backwoods-billiards.json](./205904-backwoods-billiards.json) |
 | Backwoods Town | 275097 | [275097-backwoods-town.json](./275097-backwoods-town.json) |
 | Backworlds | 107176 | [107176-backworlds.json](./107176-backworlds.json) |
@@ -941,7 +942,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BadDool | 279899 | [279899-baddool.json](./279899-baddool.json) |
 | Baderna: Um Conto de Barro | 283974 | [283974-baderna-um-conto-de-barro.json](./283974-baderna-um-conto-de-barro.json) |
 | Badge Emperor | 101732 | [101732-badge-emperor.json](./101732-badge-emperor.json) |
+| Badge(r)s | 317141 | [317141-badge-r-s.json](./317141-badge-r-s.json) |
 | Badger Brawl | 177016 | [177016-badger-brawl.json](./177016-badger-brawl.json) |
 | BadLads | 131597 | [131597-badlads.json](./131597-badlads.json) |
 | Badland | 8901 | [8901-badland.json](./8901-badland.json) |
@@ -8352,6 +8353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Dungeon II | 24557 | [24557-bit-dungeon-ii.json](./24557-bit-dungeon-ii.json) |
 | bit Dungeon III | 116771 | [116771-bit-dungeon-iii.json](./116771-bit-dungeon-iii.json) |
 | Bit Dungeon+ | 25816 | [25816-bit-dungeon.json](./25816-bit-dungeon.json) |
+| Bit Esc | 317143 | [317143-bit-esc.json](./317143-bit-esc.json) |
 | Bit Evolution | 35966 | [35966-bit-evolution.json](./35966-bit-evolution.json) |
 | Bit Generations: Boundish | 94200 | [94200-bit-generations-boundish.json](./94200-bit-generations-boundish.json) |
 | Bit Generations: Coloris | 79016 | [79016-bit-generations-coloris.json](./79016-bit-generations-coloris.json) |
@@ -10507,6 +10509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood & Lace: A Gothic Novel | 69924 | [69924-blood-and-lace-a-gothic-novel.json](./69924-blood-and-lace-a-gothic-novel.json) |
 | Blood & Laurels | 141556 | [141556-blood-and-laurels.json](./141556-blood-and-laurels.json) |
 | Blood & Lust | 338256 | [338256-blood-and-lust.json](./338256-blood-and-lust.json) |
+| Blood & Play | 317145 | [317145-blood-and-play.json](./317145-blood-and-play.json) |
 | Blood & Play: Consultation | 364359 | [364359-blood-and-play-consultation.json](./364359-blood-and-play-consultation.json) |
 | Blood 2: The Blood Group | 51704 | [51704-blood-2-the-blood-group.json](./51704-blood-2-the-blood-group.json) |
 | Blood Accord | 338336 | [338336-blood-accord.json](./338336-blood-accord.json) |
@@ -14866,6 +14869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brew-Ha | 89386 | [89386-brew-ha.json](./89386-brew-ha.json) |
 | Brew! | 369001 | [369001-brew.json](./369001-brew.json) |
 | Brewconomy | 372656 | [372656-brewconomy.json](./372656-brewconomy.json) |
+| Brewed Horizons | 317161 | [317161-brewed-horizons.json](./317161-brewed-horizons.json) |
 | Brewer | 117386 | [117386-brewer.json](./117386-brewer.json) |
 | Brewess | 245835 | [245835-brewess.json](./245835-brewess.json) |
 | Brewgether | 406123 | [406123-brewgether.json](./406123-brewgether.json) |
