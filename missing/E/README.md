@@ -2518,6 +2518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eliminator: The Encapsuled Nemesis | 248226 | [248226-eliminator-the-encapsuled-nemesis.json](./248226-eliminator-the-encapsuled-nemesis.json) |
 | Elimora | 326921 | [326921-elimora.json](./326921-elimora.json) |
 | Elin | 221102 | [221102-elin.json](./221102-elin.json) |
+| Elio | 319829 | [319829-elio.json](./319829-elio.json) |
 | Elios VR | 171922 | [171922-elios-vr.json](./171922-elios-vr.json) |
 | Eliosi's Hunt | 32277 | [32277-eliosis-hunt.json](./32277-eliosis-hunt.json) |
 | EliosM: Red Battlefield | 174802 | [174802-eliosm-red-battlefield.json](./174802-eliosm-red-battlefield.json) |
@@ -4821,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erz Online | 346225 | [346225-erz-online.json](./346225-erz-online.json) |
 | Erzurum | 143289 | [143289-erzurum.json](./143289-erzurum.json) |
 | Es | 131273 | [131273-es.json](./131273-es.json) |
+| Es | 319991 | [319991-es.json](./319991-es.json) |
 | ES Games | 334784 | [334784-es-games.json](./334784-es-games.json) |
 | Es Un Día Normal y Eso Es Casi Milagroso | 346642 | [346642-es-un-dia-normal-y-eso-es-casi-milagroso.json](./346642-es-un-dia-normal-y-eso-es-casi-milagroso.json) |
 | ESA Shield | 348660 | [348660-esa-shield.json](./348660-esa-shield.json) |
@@ -5798,6 +5800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Chrysalis Dream | 395569 | [395569-eternal-chrysalis-dream.json](./395569-eternal-chrysalis-dream.json) |
 | Eternal Circus: Dancing with Missiles | 349192 | [349192-eternal-circus-dancing-with-missiles.json](./349192-eternal-circus-dancing-with-missiles.json) |
 | Eternal City | 90889 | [90889-eternal-city.json](./90889-eternal-city.json) |
+| Eternal Cocoon | 320095 | [320095-eternal-cocoon.json](./320095-eternal-cocoon.json) |
 | Eternal Concord | 122000 | [122000-eternal-concord.json](./122000-eternal-concord.json) |
 | Eternal Curse | 399019 | [399019-eternal-curse.json](./399019-eternal-curse.json) |
 | Eternal Cycle | 148908 | [148908-eternal-cycle.json](./148908-eternal-cycle.json) |
@@ -6525,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evercade Alpha Taito Bartop Arcade | 346796 | [346796-evercade-alpha-taito-bartop-arcade.json](./346796-evercade-alpha-taito-bartop-arcade.json) |
 | Everchained | 304643 | [304643-everchained.json](./304643-everchained.json) |
 | Everchanging | 157153 | [157153-everchanging.json](./157153-everchanging.json) |
+| EverChest: Pamalos Chronicles | 319917 | [319917-everchest-pamalos-chronicles.json](./319917-everchest-pamalos-chronicles.json) |
 | Evercore Heroes: Ascension | 248841 | [248841-evercore-heroes-ascension.json](./248841-evercore-heroes-ascension.json) |
 | Everdale | 165321 | [165321-everdale.json](./165321-everdale.json) |
 | Everdark Tower | 121744 | [121744-everdark-tower.json](./121744-everdark-tower.json) |
@@ -6684,6 +6688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverRun | 90704 | [90704-everrun.json](./90704-everrun.json) |
 | Everseed | 294473 | [294473-everseed.json](./294473-everseed.json) |
 | Evershard: Heroes of Gallan's Landing | 404828 | [404828-evershard-heroes-of-gallans-landing.json](./404828-evershard-heroes-of-gallans-landing.json) |
+| Evershire | 320062 | [320062-evershire.json](./320062-evershire.json) |
 | Eversiege | 304657 | [304657-eversiege.json](./304657-eversiege.json) |
 | Eversion | 14402 | [14402-eversion.json](./14402-eversion.json) |
 | Everslash | 122424 | [122424-everslash.json](./122424-everslash.json) |
@@ -7493,6 +7498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exogen VR Experience | 117049 | [117049-exogen-vr-experience.json](./117049-exogen-vr-experience.json) |
 | Exogenesis: The Erebus Cycle | 390518 | [390518-exogenesis-the-erebus-cycle.json](./390518-exogenesis-the-erebus-cycle.json) |
 | Exographer | 295106 | [295106-exographer.json](./295106-exographer.json) |
+| ExoHarvest | 320077 | [320077-exoharvest.json](./320077-exoharvest.json) |
 | Exoide-Z | 41756 | [41756-exoide-z.json](./41756-exoide-z.json) |
 | Exojet + | 41546 | [41546-exojet.json](./41546-exojet.json) |
 | ExolonFX | 298956 | [298956-exolonfx.json](./298956-exolonfx.json) |
@@ -7810,6 +7816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extinct Forest | 379047 | [379047-extinct-forest.json](./379047-extinct-forest.json) |
 | eXtinction | 221978 | [221978-extinction.json](./221978-extinction.json) |
 | Extinction | 175648 | [175648-extinction.json](./175648-extinction.json) |
+| Extinction | 320069 | [320069-extinction.json](./320069-extinction.json) |
 | Extinction | 36651 | [36651-extinction.json](./36651-extinction.json) |
 | Extinction / Zombie İnvasion 1 | 368280 | [368280-extinction-zombie-invasion-1.json](./368280-extinction-zombie-invasion-1.json) |
 | Extinction 1306 | 337164 | [337164-extinction-1306.json](./337164-extinction-1306.json) |
