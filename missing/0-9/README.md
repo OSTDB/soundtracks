@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Hanoi | 400875 | [400875-101-cats-in-hanoi.json](./400875-101-cats-in-hanoi.json) |
 | 101 Cats in Hong Kong | 350327 | [350327-101-cats-in-hong-kong.json](./350327-101-cats-in-hong-kong.json) |
 | 101 Cats in Hungary | 385292 | [385292-101-cats-in-hungary.json](./385292-101-cats-in-hungary.json) |
+| 101 Cats in India | 311506 | [311506-101-cats-in-india.json](./311506-101-cats-in-india.json) |
 | 101 Cats in Indonesia | 366304 | [366304-101-cats-in-indonesia.json](./366304-101-cats-in-indonesia.json) |
 | 101 Cats in Istanbul | 328147 | [328147-101-cats-in-istanbul.json](./328147-101-cats-in-istanbul.json) |
 | 101 Cats in Kuala Lumpur | 350328 | [350328-101-cats-in-kuala-lumpur.json](./350328-101-cats-in-kuala-lumpur.json) |
