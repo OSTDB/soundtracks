@@ -3748,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeistGeist | 211182 | [211182-heistgeist.json](./211182-heistgeist.json) |
 | Heisting | 294241 | [294241-heisting.json](./294241-heisting.json) |
 | Heisting: Arsenal | 294847 | [294847-heisting-arsenal.json](./294847-heisting-arsenal.json) |
+| Heisting: Complete Edition | 300892 | [300892-heisting-complete-edition.json](./300892-heisting-complete-edition.json) |
 | Heisting: Fully Armed Edition | 358667 | [358667-heisting-fully-armed-edition.json](./358667-heisting-fully-armed-edition.json) |
 | Heiwa Pachinko Graffiti Vol. 1 | 97659 | [97659-heiwa-pachinko-graffiti-vol-1.json](./97659-heiwa-pachinko-graffiti-vol-1.json) |
 | Heiwa Pachinko Graffiti Vol. 2 | 97662 | [97662-heiwa-pachinko-graffiti-vol-2.json](./97662-heiwa-pachinko-graffiti-vol-2.json) |
@@ -4920,6 +4921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Sexy Sakura | 336419 | [336419-hentai-girls-sexy-sakura.json](./336419-hentai-girls-sexy-sakura.json) |
 | Hentai Girls: Steamy Maid | 300864 | [300864-hentai-girls-steamy-maid.json](./300864-hentai-girls-steamy-maid.json) |
 | Hentai Girls: Summer Sweetie | 309294 | [309294-hentai-girls-summer-sweetie.json](./309294-hentai-girls-summer-sweetie.json) |
+| Hentai Girls: Superb Edition | 300893 | [300893-hentai-girls-superb-edition.json](./300893-hentai-girls-superb-edition.json) |
 | Hentai Girls: Sweet Doctor | 288164 | [288164-hentai-girls-sweet-doctor.json](./288164-hentai-girls-sweet-doctor.json) |
 | Hentai Girls: Sweet Skier | 328521 | [328521-hentai-girls-sweet-skier.json](./328521-hentai-girls-sweet-skier.json) |
 | Hentai Girls: The Princesses | 301676 | [301676-hentai-girls-the-princesses.json](./301676-hentai-girls-the-princesses.json) |
@@ -4935,6 +4937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Golf | 283177 | [283177-hentai-golf.json](./283177-hentai-golf.json) |
 | Hentai Golf: Amazing Edition | 317912 | [317912-hentai-golf-amazing-edition.json](./317912-hentai-golf-amazing-edition.json) |
 | Hentai Golf: Complete + | 324468 | [324468-hentai-golf-complete.json](./324468-hentai-golf-complete.json) |
+| Hentai Golf: Definitive Edition | 300891 | [300891-hentai-golf-definitive-edition.json](./300891-hentai-golf-definitive-edition.json) |
 | Hentai Golf: Deluxe Edition | 283178 | [283178-hentai-golf-deluxe-edition.json](./283178-hentai-golf-deluxe-edition.json) |
 | Hentai Golf: Director's Cut | 310450 | [310450-hentai-golf-directors-cut.json](./310450-hentai-golf-directors-cut.json) |
 | Hentai Golf: Extended Edition | 289200 | [289200-hentai-golf-extended-edition.json](./289200-hentai-golf-extended-edition.json) |
@@ -5233,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Definitive Edition | 284937 | [284937-hentai-stars-definitive-edition.json](./284937-hentai-stars-definitive-edition.json) |
 | Hentai Stars: Deluxe Edition | 268561 | [268561-hentai-stars-deluxe-edition.json](./268561-hentai-stars-deluxe-edition.json) |
 | Hentai Stars: Demoness Ayame | 268594 | [268594-hentai-stars-demoness-ayame.json](./268594-hentai-stars-demoness-ayame.json) |
+| Hentai Stars: Director's Cut | 300907 | [300907-hentai-stars-directors-cut.json](./300907-hentai-stars-directors-cut.json) |
 | Hentai Stars: Extended Edition | 277907 | [277907-hentai-stars-extended-edition.json](./277907-hentai-stars-extended-edition.json) |
 | Hentai Stars: Happy Edition | 304783 | [304783-hentai-stars-happy-edition.json](./304783-hentai-stars-happy-edition.json) |
 | Hentai Stars: Idol Tsubaki | 268590 | [268590-hentai-stars-idol-tsubaki.json](./268590-hentai-stars-idol-tsubaki.json) |
@@ -5352,6 +5356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World West | 369998 | [369998-hentai-world-west.json](./369998-hentai-world-west.json) |
 | Hentai World Wild | 369828 | [369828-hentai-world-wild.json](./369828-hentai-world-wild.json) |
 | Hentai World Winter | 340464 | [340464-hentai-world-winter.json](./340464-hentai-world-winter.json) |
+| Hentai World: Amazing Edition | 300890 | [300890-hentai-world-amazing-edition.json](./300890-hentai-world-amazing-edition.json) |
 | Hentai World: Chiyo | 403405 | [403405-hentai-world-chiyo.json](./403405-hentai-world-chiyo.json) |
 | Hentai World: Complete + | 324453 | [324453-hentai-world-complete.json](./324453-hentai-world-complete.json) |
 | Hentai World: Complete Edition | 262327 | [262327-hentai-world-complete-edition.json](./262327-hentai-world-complete-edition.json) |
