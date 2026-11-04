@@ -4637,6 +4637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Dying World | 203781 | [203781-our-dying-world.json](./203781-our-dying-world.json) |
 | Our End of the World | 36889 | [36889-our-end-of-the-world.json](./36889-our-end-of-the-world.json) |
 | Our Ephemeral Nights | 377032 | [377032-our-ephemeral-nights.json](./377032-our-ephemeral-nights.json) |
+| Our Exciting Summer Camp | 343549 | [343549-our-exciting-summer-camp.json](./343549-our-exciting-summer-camp.json) |
 | Our Eyes See No Evil | 361841 | [361841-our-eyes-see-no-evil.json](./361841-our-eyes-see-no-evil.json) |
 | Our Fantasy Quest | 221737 | [221737-our-fantasy-quest.json](./221737-our-fantasy-quest.json) |
 | Our Fantasy Quest + More Quests Pack | 227708 | [227708-our-fantasy-quest-more-quests-pack.json](./227708-our-fantasy-quest-more-quests-pack.json) |
