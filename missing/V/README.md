@@ -1543,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versus. | 201700 | [201700-versus.json](./201700-versus.json) |
 | VertalStrike | 400892 | [400892-vertalstrike.json](./400892-vertalstrike.json) |
 | Vertex | 142255 | [142255-vertex.json](./142255-vertex.json) |
+| Vertex | 314185 | [314185-vertex.json](./314185-vertex.json) |
 | Vertex | 384677 | [384677-vertex.json](./384677-vertex.json) |
 | Vertex Dispenser | 15133 | [15133-vertex-dispenser.json](./15133-vertex-dispenser.json) |
 | Vertex-1: Ainia | 418523 | [418523-vertex-1-ainia.json](./418523-vertex-1-ainia.json) |
@@ -2803,6 +2804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus: The Outbreak | 147478 | [147478-virus-the-outbreak.json](./147478-virus-the-outbreak.json) |
 | Virus.exe | 131409 | [131409-virus-exe.json](./131409-virus-exe.json) |
 | Virush | 36969 | [36969-virush.json](./36969-virush.json) |
+| VirusRush + Hazard of the Ages | 314176 | [314176-virusrush-hazard-of-the-ages.json](./314176-virusrush-hazard-of-the-ages.json) |
 | ViruStream | 331878 | [331878-virustream.json](./331878-virustream.json) |
 | Virusum | 210860 | [210860-virusum.json](./210860-virusum.json) |
 | VirusWar | 68414 | [68414-viruswar.json](./68414-viruswar.json) |
@@ -2835,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vision Crew's Deltarune: Alternate Chapters | 329603 | [329603-vision-crews-deltarune-alternate-chapters.json](./329603-vision-crews-deltarune-alternate-chapters.json) |
 | Vision Ghost 2 | 311129 | [311129-vision-ghost-2.json](./311129-vision-ghost-2.json) |
 | Vision Memory Maze | 192203 | [192203-vision-memory-maze.json](./192203-vision-memory-maze.json) |
+| Vision Museum | 314183 | [314183-vision-museum.json](./314183-vision-museum.json) |
 | Vision of Aurora Borealis | 32347 | [32347-vision-of-aurora-borealis.json](./32347-vision-of-aurora-borealis.json) |
 | Vision Origin | 28735 | [28735-vision-origin.json](./28735-vision-origin.json) |
 | Vision Quench | 378413 | [378413-vision-quench.json](./378413-vision-quench.json) |
