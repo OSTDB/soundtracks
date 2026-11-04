@@ -7539,6 +7539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit Stop Racing: Club Vs. Club | 251662 | [251662-pit-stop-racing-club-vs-club.json](./251662-pit-stop-racing-club-vs-club.json) |
 | Pit Stop Racing: Manager | 234612 | [234612-pit-stop-racing-manager.json](./234612-pit-stop-racing-manager.json) |
 | Pit Stoppers | 217155 | [217155-pit-stoppers.json](./217155-pit-stoppers.json) |
+| Pit-Fighter | 307516 | [307516-pit-fighter.json](./307516-pit-fighter.json) |
 | Pit-Fighter | 307835 | [307835-pit-fighter.json](./307835-pit-fighter.json) |
 | Pit-Fighter | 307836 | [307836-pit-fighter.json](./307836-pit-fighter.json) |
 | Pit-Fighter | 374980 | [374980-pit-fighter.json](./374980-pit-fighter.json) |
@@ -9371,6 +9372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platypus Adventures | 173032 | [173032-platypus-adventures.json](./173032-platypus-adventures.json) |
 | Platypus Evolution | 268491 | [268491-platypus-evolution.json](./268491-platypus-evolution.json) |
 | Platypus II | 36229 | [36229-platypus-ii.json](./36229-platypus-ii.json) |
+| Platypus Reclayed | 307503 | [307503-platypus-reclayed.json](./307503-platypus-reclayed.json) |
 | Platypus Steps | 422482 | [422482-platypus-steps.json](./422482-platypus-steps.json) |
 | Platzkart Simulator | 158201 | [158201-platzkart-simulator.json](./158201-platzkart-simulator.json) |
 | Platzle | 328144 | [328144-platzle.json](./328144-platzle.json) |
@@ -9480,6 +9482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playdate Season 3 | 398535 | [398535-playdate-season-3.json](./398535-playdate-season-3.json) |
 | PlayDice | 212686 | [212686-playdice.json](./212686-playdice.json) |
 | Playdle | 272477 | [272477-playdle.json](./272477-playdle.json) |
+| PlayDoom | 307488 | [307488-playdoom.json](./307488-playdoom.json) |
 | PlayEnglish | 269501 | [269501-playenglish.json](./269501-playenglish.json) |
 | Player 2 | 128774 | [128774-player-2.json](./128774-player-2.json) |
 | Player 22 by Rezzil | 174557 | [174557-player-22-by-rezzil.json](./174557-player-22-by-rezzil.json) |
