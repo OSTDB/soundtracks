@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Bunnies 8 | 304411 | [304411-i-commissioned-some-bunnies-8.json](./304411-i-commissioned-some-bunnies-8.json) |
 | I Commissioned Some Butterflies | 270127 | [270127-i-commissioned-some-butterflies.json](./270127-i-commissioned-some-butterflies.json) |
 | I Commissioned Some Butterflies 2 | 302332 | [302332-i-commissioned-some-butterflies-2.json](./302332-i-commissioned-some-butterflies-2.json) |
+| I Commissioned Some Butterflies 3 | 303939 | [303939-i-commissioned-some-butterflies-3.json](./303939-i-commissioned-some-butterflies-3.json) |
 | I Commissioned Some Butterflies 4 | 315349 | [315349-i-commissioned-some-butterflies-4.json](./315349-i-commissioned-some-butterflies-4.json) |
 | I Commissioned Some Butterflies 5 | 315350 | [315350-i-commissioned-some-butterflies-5.json](./315350-i-commissioned-some-butterflies-5.json) |
 | I Commissioned Some Cats | 237295 | [237295-i-commissioned-some-cats.json](./237295-i-commissioned-some-cats.json) |
@@ -315,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I hate it here | 184864 | [184864-i-hate-it-here.json](./184864-i-hate-it-here.json) |
 | I Hate My Fingers | 319523 | [319523-i-hate-my-fingers.json](./319523-i-hate-my-fingers.json) |
 | I Hate My Legs | 315212 | [315212-i-hate-my-legs.json](./315212-i-hate-my-legs.json) |
+| I Hate My Waifu Streamer | 303937 | [303937-i-hate-my-waifu-streamer.json](./303937-i-hate-my-waifu-streamer.json) |
 | I Hate Robots | 347596 | [347596-i-hate-robots.json](./347596-i-hate-robots.json) |
 | I Hate Running Backwards | 68843 | [68843-i-hate-running-backwards.json](./68843-i-hate-running-backwards.json) |
 | I Hate Santa | 30462 | [30462-i-hate-santa.json](./30462-i-hate-santa.json) |
@@ -1393,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Devils: Ultimate Edition | 399809 | [399809-idle-devils-ultimate-edition.json](./399809-idle-devils-ultimate-edition.json) |
 | Idle Dice 2 | 248164 | [248164-idle-dice-2.json](./248164-idle-dice-2.json) |
 | Idle Dig Gold: Craft Adventure | 248105 | [248105-idle-dig-gold-craft-adventure.json](./248105-idle-dig-gold-craft-adventure.json) |
+| Idle Digging Tycoon | 303197 | [303197-idle-digging-tycoon.json](./303197-idle-digging-tycoon.json) |
 | Idle Dino | 340517 | [340517-idle-dino.json](./340517-idle-dino.json) |
 | Idle Dino Zoo | 165469 | [165469-idle-dino-zoo.json](./165469-idle-dino-zoo.json) |
 | Idle Dragon Clicker: Expansion Pack 1 | 263188 | [263188-idle-dragon-clicker-expansion-pack-1.json](./263188-idle-dragon-clicker-expansion-pack-1.json) |
@@ -3720,7 +3723,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
