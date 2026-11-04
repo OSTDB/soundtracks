@@ -8469,6 +8469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Me | 346741 | [346741-love-me.json](./346741-love-me.json) |
 | Love Me Forever | 128199 | [128199-love-me-forever.json](./128199-love-me-forever.json) |
 | Love Me Not | 252147 | [252147-love-me-not.json](./252147-love-me-not.json) |
+| Love Me or Die | 321274 | [321274-love-me-or-die.json](./321274-love-me-or-die.json) |
 | Love Meeting | 165032 | [165032-love-meeting.json](./165032-love-meeting.json) |
 | Love Menu | 235591 | [235591-love-menu.json](./235591-love-menu.json) |
 | Love Mochi | 82576 | [82576-love-mochi.json](./82576-love-mochi.json) |
