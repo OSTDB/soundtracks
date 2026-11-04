@@ -10281,6 +10281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Altair | 129807 | [129807-pokemon-altair.json](./129807-pokemon-altair.json) |
 | Pokémon Altar | 232685 | [232685-pokemon-altar.json](./232685-pokemon-altar.json) |
 | Pokémon AlteRed | 210072 | [210072-pokemon-altered.json](./210072-pokemon-altered.json) |
+| Pokémon Ambrosia | 337408 | [337408-pokemon-ambrosia.json](./337408-pokemon-ambrosia.json) |
 | Pokémon Amethyst | 323762 | [323762-pokemon-amethyst.json](./323762-pokemon-amethyst.json) |
 | Pokémon and the Last Wish | 153510 | [153510-pokemon-and-the-last-wish.json](./153510-pokemon-and-the-last-wish.json) |
 | Pokémon and the Last Wish Part II | 193163 | [193163-pokemon-and-the-last-wish-part-ii.json](./193163-pokemon-and-the-last-wish-part-ii.json) |
@@ -13242,6 +13243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prajator: Image Ranger | 273281 | [273281-prajator-image-ranger.json](./273281-prajator-image-ranger.json) |
 | Prakasha | 413026 | [413026-prakasha.json](./413026-prakasha.json) |
 | Prana | 75113 | [75113-prana.json](./75113-prana.json) |
+| Prank | 337394 | [337394-prank.json](./337394-prank.json) |
 | Prank Bros | 108891 | [108891-prank-bros.json](./108891-prank-bros.json) |
 | Prank Call | 165423 | [165423-prank-call.json](./165423-prank-call.json) |
 | Prank Call | 77585 | [77585-prank-call.json](./77585-prank-call.json) |
@@ -17313,6 +17315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putter Golf | 45714 | [45714-putter-golf.json](./45714-putter-golf.json) |
 | Puttin' Around | 114171 | [114171-puttin-around.json](./114171-puttin-around.json) |
 | Puttium | 216012 | [216012-puttium.json](./216012-puttium.json) |
+| Puttler | 337379 | [337379-puttler.json](./337379-puttler.json) |
 | Putty | 39022 | [39022-putty.json](./39022-putty.json) |
 | Putty Pals | 32866 | [32866-putty-pals.json](./32866-putty-pals.json) |
 | Putty Putter | 188896 | [188896-putty-putter.json](./188896-putty-putter.json) |
