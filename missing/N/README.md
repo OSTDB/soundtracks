@@ -2334,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Divide | 359521 | [359521-neon-divide.json](./359521-neon-divide.json) |
 | Neon Doctrine's Greatest Hits Vol. 1 | 304811 | [304811-neon-doctrines-greatest-hits-vol-1.json](./304811-neon-doctrines-greatest-hits-vol-1.json) |
 | Neon Dodge | 391749 | [391749-neon-dodge.json](./391749-neon-dodge.json) |
+| Neon Doomer 85 | 327084 | [327084-neon-doomer-85.json](./327084-neon-doomer-85.json) |
 | Neon Dragons | 189870 | [189870-neon-dragons.json](./189870-neon-dragons.json) |
 | Neon Drift Ultra | 412997 | [412997-neon-drift-ultra.json](./412997-neon-drift-ultra.json) |
 | Neon Drifter: Cyber Racing | 283258 | [283258-neon-drifter-cyber-racing.json](./283258-neon-drifter-cyber-racing.json) |
@@ -7026,6 +7027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NSMB Mario Vs Luigi: KKT's Gooffy little Mod | 328407 | [328407-nsmb-mario-vs-luigi-kkts-gooffy-little-mod.json](./328407-nsmb-mario-vs-luigi-kkts-gooffy-little-mod.json) |
 | NSMB: Mario vs. Luigi Online | 212845 | [212845-nsmb-mario-vs-luigi-online.json](./212845-nsmb-mario-vs-luigi-online.json) |
 | NSMB2: Mushroom Madness | 314097 | [314097-nsmb2-mushroom-madness.json](./314097-nsmb2-mushroom-madness.json) |
+| NSMBW Superstar Mode | 327072 | [327072-nsmbw-superstar-mode.json](./327072-nsmbw-superstar-mode.json) |
 | NSR: Night Street Racing | 397954 | [397954-nsr-night-street-racing.json](./397954-nsr-night-street-racing.json) |
 | nStations | 127115 | [127115-nstations.json](./127115-nstations.json) |
 | NSYNC Hotline Phone and Fantasy CD-Rom Game | 131189 | [131189-nsync-hotline-phone-and-fantasy-cd-rom-game.json](./131189-nsync-hotline-phone-and-fantasy-cd-rom-game.json) |
