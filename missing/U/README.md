@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uboat Attack | 220203 | [220203-uboat-attack.json](./220203-uboat-attack.json) |
 | Uboat Attack | 314607 | [314607-uboat-attack.json](./314607-uboat-attack.json) |
 | Uboat Attack: Cloverfield DLC | 316235 | [316235-uboat-attack-cloverfield-dlc.json](./316235-uboat-attack-cloverfield-dlc.json) |
+| Uboat Attack: Cloverfield Edition | 320670 | [320670-uboat-attack-cloverfield-edition.json](./320670-uboat-attack-cloverfield-edition.json) |
 | Uboat Attack: Complete Edition | 317245 | [317245-uboat-attack-complete-edition.json](./317245-uboat-attack-complete-edition.json) |
 | Uboat Attack: Double Attack Edition | 404547 | [404547-uboat-attack-double-attack-edition.json](./404547-uboat-attack-double-attack-edition.json) |
 | Uboat Attack: Gold Edition | 385212 | [385212-uboat-attack-gold-edition.json](./385212-uboat-attack-gold-edition.json) |
@@ -3220,6 +3221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Silver Edition | 250390 | [250390-urban-flow-silver-edition.json](./250390-urban-flow-silver-edition.json) |
 | Urban Flow: Street Symphony | 304788 | [304788-urban-flow-street-symphony.json](./304788-urban-flow-street-symphony.json) |
 | Urban Flow: Streets Supplement | 240403 | [240403-urban-flow-streets-supplement.json](./240403-urban-flow-streets-supplement.json) |
+| Urban Flow: Supreme Edition | 320671 | [320671-urban-flow-supreme-edition.json](./320671-urban-flow-supreme-edition.json) |
 | Urban Flow: Throne Edition | 409985 | [409985-urban-flow-throne-edition.json](./409985-urban-flow-throne-edition.json) |
 | Urban Flow: Winter Expansion Pack | 238353 | [238353-urban-flow-winter-expansion-pack.json](./238353-urban-flow-winter-expansion-pack.json) |
 | Urban Flow: Winter Extended Edition | 222190 | [222190-urban-flow-winter-extended-edition.json](./222190-urban-flow-winter-extended-edition.json) |
