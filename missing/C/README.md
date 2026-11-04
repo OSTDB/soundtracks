@@ -15427,6 +15427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cracked | 261769 | [261769-cracked.json](./261769-cracked.json) |
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
 | Cracked Up | 164961 | [164961-cracked-up.json](./164961-cracked-up.json) |
+| Cracker | 304499 | [304499-cracker.json](./304499-cracker.json) |
 | Crackers Revenge | 41151 | [41151-crackers-revenge.json](./41151-crackers-revenge.json) |
 | Crackers Revenge II | 417478 | [417478-crackers-revenge-ii.json](./417478-crackers-revenge-ii.json) |
 | Crackers Revenge IV | 417480 | [417480-crackers-revenge-iv.json](./417480-crackers-revenge-iv.json) |
@@ -15434,6 +15435,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackheads | 396342 | [396342-crackheads.json](./396342-crackheads.json) |
 | Crackin' DJ Part 2 | 58429 | [58429-crackin-dj-part-2.json](./58429-crackin-dj-part-2.json) |
 | Crackin' Smackin | 251960 | [251960-crackin-smackin.json](./251960-crackin-smackin.json) |
+| Crackin' Smackin: Customization Set - Pumpkinhead | 304407 | [304407-crackin-smackin-customization-set-pumpkinhead.json](./304407-crackin-smackin-customization-set-pumpkinhead.json) |
+| Crackin' Smackin: Customization Set - Sandman | 304406 | [304406-crackin-smackin-customization-set-sandman.json](./304406-crackin-smackin-customization-set-sandman.json) |
+| Crackin' Smackin: Customization Set - Skully | 304409 | [304409-crackin-smackin-customization-set-skully.json](./304409-crackin-smackin-customization-set-skully.json) |
+| Crackin' Smackin: Customization Set - Warrior | 304408 | [304408-crackin-smackin-customization-set-warrior.json](./304408-crackin-smackin-customization-set-warrior.json) |
+| Crackin' Smackin: Customization Set - Woodpecker | 304410 | [304410-crackin-smackin-customization-set-woodpecker.json](./304410-crackin-smackin-customization-set-woodpecker.json) |
 | Cracking Sands | 64481 | [64481-cracking-sands.json](./64481-cracking-sands.json) |
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
 | Cracking the Cryptic: GAS Volume #1 | 280875 | [280875-cracking-the-cryptic-gas-volume-1.json](./280875-cracking-the-cryptic-gas-volume-1.json) |
