@@ -4690,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Wants to Play | 400589 | [400589-mary-wants-to-play.json](./400589-mary-wants-to-play.json) |
 | Mary X | 249247 | [249247-mary-x.json](./249247-mary-x.json) |
 | Mary-Kate and Ashley: Girls Night Out | 49391 | [49391-mary-kate-and-ashley-girls-night-out.json](./49391-mary-kate-and-ashley-girls-night-out.json) |
+| Mary-Kate and Ashley: Pocket Planner | 298504 | [298504-mary-kate-and-ashley-pocket-planner.json](./298504-mary-kate-and-ashley-pocket-planner.json) |
 | Mary-Kate and Ashley: Sweet 16 - Licensed to Drive | 242426 | [242426-mary-kate-and-ashley-sweet-16-licensed-to-drive.json](./242426-mary-kate-and-ashley-sweet-16-licensed-to-drive.json) |
 | Mary-Kate and Ashley: Sweet 16 - Licensed to Drive | 5921 | [5921-mary-kate-and-ashley-sweet-16-licensed-to-drive.json](./5921-mary-kate-and-ashley-sweet-16-licensed-to-drive.json) |
 | Mary-Kate and Ashley: Winners Circle | 49966 | [49966-mary-kate-and-ashley-winners-circle.json](./49966-mary-kate-and-ashley-winners-circle.json) |
@@ -5740,6 +5741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8008,6 +8010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami Tensei Gaiden: Last Bible Special | 45263 | [45263-megami-tensei-gaiden-last-bible-special.json](./45263-megami-tensei-gaiden-last-bible-special.json) |
 | Megami Tensei Gaiden: Shinyaku Last Bible | 202957 | [202957-megami-tensei-gaiden-shinyaku-last-bible.json](./202957-megami-tensei-gaiden-shinyaku-last-bible.json) |
 | Megami Tensei Gaiden: Shinyaku Last Bible II - Hajimari no Fukuin | 266935 | [266935-megami-tensei-gaiden-shinyaku-last-bible-ii-hajimari-no-fukuin.json](./266935-megami-tensei-gaiden-shinyaku-last-bible-ii-hajimari-no-fukuin.json) |
+| Megami Tensei Gaiden: Shinyaku Last Bible III - Mugen no Eiyuu | 298752 | [298752-megami-tensei-gaiden-shinyaku-last-bible-iii-mugen-no-eiyuu.json](./298752-megami-tensei-gaiden-shinyaku-last-bible-iii-mugen-no-eiyuu.json) |
 | Megami Tensei QIX: Persona 3 | 289392 | [289392-megami-tensei-qix-persona-3.json](./289392-megami-tensei-qix-persona-3.json) |
 | Megami Tensei: Neuroheroine | 278572 | [278572-megami-tensei-neuroheroine.json](./278572-megami-tensei-neuroheroine.json) |
 | MegaMind | 45742 | [45742-megamind.json](./45742-megamind.json) |
@@ -10386,6 +10389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Entertainment Pack 4 | 79964 | [79964-microsoft-entertainment-pack-4.json](./79964-microsoft-entertainment-pack-4.json) |
 | Microsoft Entertainment Pack for Windows | 78025 | [78025-microsoft-entertainment-pack-for-windows.json](./78025-microsoft-entertainment-pack-for-windows.json) |
 | Microsoft Flight Simulator | 119295 | [119295-microsoft-flight-simulator.json](./119295-microsoft-flight-simulator.json) |
+| Microsoft Flight Simulator | 298738 | [298738-microsoft-flight-simulator.json](./298738-microsoft-flight-simulator.json) |
 | Microsoft Flight Simulator 1.0 | 3353 | [3353-microsoft-flight-simulator-1-0.json](./3353-microsoft-flight-simulator-1-0.json) |
 | Microsoft Flight Simulator 2.0 | 3354 | [3354-microsoft-flight-simulator-2-0.json](./3354-microsoft-flight-simulator-2-0.json) |
 | Microsoft Flight Simulator 2000 | 788 | [788-microsoft-flight-simulator-2000.json](./788-microsoft-flight-simulator-2000.json) |
@@ -10626,6 +10630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Jewel 2 | 317539 | [317539-microsoft-jewel-2.json](./317539-microsoft-jewel-2.json) |
 | Microsoft Mahjong | 8977 | [8977-microsoft-mahjong.json](./8977-microsoft-mahjong.json) |
 | Microsoft Minesweeper | 127494 | [127494-microsoft-minesweeper.json](./127494-microsoft-minesweeper.json) |
+| Microsoft Minesweeper | 298728 | [298728-microsoft-minesweeper.json](./298728-microsoft-minesweeper.json) |
 | Microsoft Minesweeper | 5421 | [5421-microsoft-minesweeper.json](./5421-microsoft-minesweeper.json) |
 | Microsoft Multiplan | 44366 | [44366-microsoft-multiplan.json](./44366-microsoft-multiplan.json) |
 | Microsoft Oceans | 146588 | [146588-microsoft-oceans.json](./146588-microsoft-oceans.json) |
@@ -10638,10 +10643,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Revenge of Arcade | 84228 | [84228-microsoft-revenge-of-arcade.json](./84228-microsoft-revenge-of-arcade.json) |
 | Microsoft Soccer | 93003 | [93003-microsoft-soccer.json](./93003-microsoft-soccer.json) |
 | Microsoft Solitaire | 242378 | [242378-microsoft-solitaire.json](./242378-microsoft-solitaire.json) |
+| Microsoft Solitaire | 298730 | [298730-microsoft-solitaire.json](./298730-microsoft-solitaire.json) |
 | Microsoft Solitaire | 8177 | [8177-microsoft-solitaire.json](./8177-microsoft-solitaire.json) |
 | Microsoft Space Simulator | 50116 | [50116-microsoft-space-simulator.json](./50116-microsoft-space-simulator.json) |
 | Microsoft Spider Solitaire | 362165 | [362165-microsoft-spider-solitaire.json](./362165-microsoft-spider-solitaire.json) |
 | Microsoft Spider Solitaire | 8196 | [8196-microsoft-spider-solitaire.json](./8196-microsoft-spider-solitaire.json) |
+| Microsoft Squares | 298736 | [298736-microsoft-squares.json](./298736-microsoft-squares.json) |
 | Microsoft Sudoku | 60285 | [60285-microsoft-sudoku.json](./60285-microsoft-sudoku.json) |
 | Microsoft Train Simulator 2 | 10739 | [10739-microsoft-train-simulator-2.json](./10739-microsoft-train-simulator-2.json) |
 | Microsoft Train Simulator: German Railroads Volume One: The Seventies - Along the Bigge Lake | 85987 | [85987-microsoft-train-simulator-german-railroads-volume-one-the-seventies-along-the-bigge-lake.json](./85987-microsoft-train-simulator-german-railroads-volume-one-the-seventies-along-the-bigge-lake.json) |
@@ -11285,6 +11292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milandra | 42306 | [42306-milandra.json](./42306-milandra.json) |
 | Milaneseria | 365300 | [365300-milaneseria.json](./365300-milaneseria.json) |
 | Milano no Arbeit Collection | 64930 | [64930-milano-no-arbeit-collection.json](./64930-milano-no-arbeit-collection.json) |
+| Milano'd | 298746 | [298746-milanod.json](./298746-milanod.json) |
 | Milano’s Odd Job Collection | 347902 | [347902-milano-s-odd-job-collection.json](./347902-milano-s-odd-job-collection.json) |
 | Milanoir | 37852 | [37852-milanoir.json](./37852-milanoir.json) |
 | Milanoir: Special Edition | 28358 | [28358-milanoir-special-edition.json](./28358-milanoir-special-edition.json) |
