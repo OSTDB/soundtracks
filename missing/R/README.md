@@ -6553,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RGB | 363133 | [363133-rgb.json](./363133-rgb.json) |
 | RGB Athletes | 373787 | [373787-rgb-athletes.json](./373787-rgb-athletes.json) |
 | RGB Express | 87892 | [87892-rgb-express.json](./87892-rgb-express.json) |
+| RGB GlitchGazer | 346479 | [346479-rgb-glitchgazer.json](./346479-rgb-glitchgazer.json) |
 | RGB ON Experience | 174629 | [174629-rgb-on-experience.json](./174629-rgb-on-experience.json) |
 | RGB Run | 112480 | [112480-rgb-run.json](./112480-rgb-run.json) |
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
