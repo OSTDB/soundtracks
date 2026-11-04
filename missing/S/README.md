@@ -16662,6 +16662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Blast Next | 388730 | [388730-sonic-blast-next.json](./388730-sonic-blast-next.json) |
 | Sonic Blaster 2 | 331656 | [331656-sonic-blaster-2.json](./331656-sonic-blaster-2.json) |
 | Sonic Blasters | 334140 | [334140-sonic-blasters.json](./334140-sonic-blasters.json) |
+| Sonic Blaze | 330417 | [330417-sonic-blaze.json](./330417-sonic-blaze.json) |
 | Sonic Blaze | 330512 | [330512-sonic-blaze.json](./330512-sonic-blaze.json) |
 | Sonic Boom | 12855 | [12855-sonic-boom.json](./12855-sonic-boom.json) |
 | Sonic Boom | 203165 | [203165-sonic-boom.json](./203165-sonic-boom.json) |
@@ -17278,6 +17279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: Very Hard Mode | 241881 | [241881-sonic-the-hedgehog-very-hard-mode.json](./241881-sonic-the-hedgehog-very-hard-mode.json) |
 | Sonic the Hedgehog's Gameworld | 52188 | [52188-sonic-the-hedgehogs-gameworld.json](./52188-sonic-the-hedgehogs-gameworld.json) |
 | Sonic The New Adventure | 321078 | [321078-sonic-the-new-adventure.json](./321078-sonic-the-new-adventure.json) |
+| Sonic The Next: Shadow's Revenge | 330447 | [330447-sonic-the-next-shadows-revenge.json](./330447-sonic-the-next-shadows-revenge.json) |
 | Sonic The Rise of The Death Egg | 335169 | [335169-sonic-the-rise-of-the-death-egg.json](./335169-sonic-the-rise-of-the-death-egg.json) |
 | Sonic the Sketchhog | 197601 | [197601-sonic-the-sketchhog.json](./197601-sonic-the-sketchhog.json) |
 | Sonic the Sketchhog: Episode 2 | 316933 | [316933-sonic-the-sketchhog-episode-2.json](./316933-sonic-the-sketchhog-episode-2.json) |
@@ -17401,6 +17403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: Project Survival | 246089 | [246089-sonic-project-survival.json](./246089-sonic-project-survival.json) |
 | Sonic: Project Time | 332653 | [332653-sonic-project-time.json](./332653-sonic-project-time.json) |
 | Sonic: Quick Step Challenge | 332604 | [332604-sonic-quick-step-challenge.json](./332604-sonic-quick-step-challenge.json) |
+| Sonic: Return to Floating Island | 330455 | [330455-sonic-return-to-floating-island.json](./330455-sonic-return-to-floating-island.json) |
 | Sonic: Rewind | 326804 | [326804-sonic-rewind.json](./326804-sonic-rewind.json) |
 | Sonic: RTFI | 330513 | [330513-sonic-rtfi.json](./330513-sonic-rtfi.json) |
 | Sonic: Scorched Quest | 198565 | [198565-sonic-scorched-quest.json](./198565-sonic-scorched-quest.json) |
@@ -17414,6 +17417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: The Last Strike | 330783 | [330783-sonic-the-last-strike.json](./330783-sonic-the-last-strike.json) |
 | Sonic: The Murdering Insanity | 321819 | [321819-sonic-the-murdering-insanity.json](./321819-sonic-the-murdering-insanity.json) |
 | Sonic: The Next Episode | 330863 | [330863-sonic-the-next-episode.json](./330863-sonic-the-next-episode.json) |
+| Sonic: The Trials of Time | 330456 | [330456-sonic-the-trials-of-time.json](./330456-sonic-the-trials-of-time.json) |
 | Sonic: Total Immersion | 331153 | [331153-sonic-total-immersion.json](./331153-sonic-total-immersion.json) |
 | Sonic: Ultimate Chaos | 330458 | [330458-sonic-ultimate-chaos.json](./330458-sonic-ultimate-chaos.json) |
 | Sonic.2017 | 313550 | [313550-sonic-2017.json](./313550-sonic-2017.json) |
