@@ -8764,6 +8764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot-No-Shoot | 107805 | [107805-shoot-no-shoot.json](./107805-shoot-no-shoot.json) |
 | Shoot-Out | 71588 | [71588-shoot-out.json](./71588-shoot-out.json) |
 | Shoot-Out! | 294646 | [294646-shoot-out.json](./294646-shoot-out.json) |
+| Shoot-Up Barney | 325810 | [325810-shoot-up-barney.json](./325810-shoot-up-barney.json) |
 | Shoot, I Got Abducted! | 327227 | [327227-shoot-i-got-abducted.json](./327227-shoot-i-got-abducted.json) |
 | Shoot, push, portals | 129973 | [129973-shoot-push-portals.json](./129973-shoot-push-portals.json) |
 | Shoot! | 188437 | [188437-shoot.json](./188437-shoot.json) |
@@ -13436,6 +13437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot & Learn Katakana | 403732 | [403732-slot-and-learn-katakana.json](./403732-slot-and-learn-katakana.json) |
 | Slot Car HTR+ : 3D Simulation | 239896 | [239896-slot-car-htr-3d-simulation.json](./239896-slot-car-htr-3d-simulation.json) |
 | Slot Car Rivals | 230579 | [230579-slot-car-rivals.json](./230579-slot-car-rivals.json) |
+| Slot Car VR | 325809 | [325809-slot-car-vr.json](./325809-slot-car-vr.json) |
 | Slot Cave | 393245 | [393245-slot-cave.json](./393245-slot-cave.json) |
 | Slot Fever | 289286 | [289286-slot-fever.json](./289286-slot-fever.json) |
 | Slot Grind | 407715 | [407715-slot-grind.json](./407715-slot-grind.json) |
@@ -17403,6 +17405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Xtreme 2D | 315027 | [315027-sonic-xtreme-2d.json](./315027-sonic-xtreme-2d.json) |
 | Sonic Z-Treme | 317084 | [317084-sonic-z-treme.json](./317084-sonic-z-treme.json) |
 | Sonic Zenith | 331752 | [331752-sonic-zenith.json](./331752-sonic-zenith.json) |
+| Sonic Zero: Remastered | 325946 | [325946-sonic-zero-remastered.json](./325946-sonic-zero-remastered.json) |
 | Sonic Zones | 316934 | [316934-sonic-zones.json](./316934-sonic-zones.json) |
 | Sonic Zoom | 270223 | [270223-sonic-zoom.json](./270223-sonic-zoom.json) |
 | Sonic_1_2_3_Rom: Sonic.Ribs | 308635 | [308635-sonic-1-2-3-rom-sonic-ribs.json](./308635-sonic-1-2-3-rom-sonic-ribs.json) |
@@ -18873,6 +18876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Harrier | 306471 | [306471-space-harrier.json](./306471-space-harrier.json) |
 | Space Harrier | 306472 | [306472-space-harrier.json](./306472-space-harrier.json) |
 | Space Harrier | 306475 | [306475-space-harrier.json](./306475-space-harrier.json) |
+| Space Harrier | 325937 | [325937-space-harrier.json](./325937-space-harrier.json) |
 | Space Harrier | 341883 | [341883-space-harrier.json](./341883-space-harrier.json) |
 | Space Harrier 3-D | 46126 | [46126-space-harrier-3-d.json](./46126-space-harrier-3-d.json) |
 | Space Harrier II | 215751 | [215751-space-harrier-ii.json](./215751-space-harrier-ii.json) |
@@ -32338,6 +32342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhero Fighting Game | 59875 | [59875-superhero-fighting-game.json](./59875-superhero-fighting-game.json) |
 | Superhero Girl Salon: Kids Makeup and Dressup Game | 88037 | [88037-superhero-girl-salon-kids-makeup-and-dressup-game.json](./88037-superhero-girl-salon-kids-makeup-and-dressup-game.json) |
 | Superhero Girls | 368052 | [368052-superhero-girls.json](./368052-superhero-girls.json) |
+| Superhero Market | 325970 | [325970-superhero-market.json](./325970-superhero-market.json) |
 | Superhero Robot Merge Master | 214167 | [214167-superhero-robot-merge-master.json](./214167-superhero-robot-merge-master.json) |
 | Superhero Simulator | 349234 | [349234-superhero-simulator.json](./349234-superhero-simulator.json) |
 | Superhero Workout | 58489 | [58489-superhero-workout.json](./58489-superhero-workout.json) |
@@ -34650,6 +34655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders | 105333 | [105333-synth-riders.json](./105333-synth-riders.json) |
 | Synth Riders | 372492 | [372492-synth-riders.json](./372492-synth-riders.json) |
 | Synth Riders + Experiences | 353654 | [353654-synth-riders-experiences.json](./353654-synth-riders-experiences.json) |
+| Synth Riders Experience: Barbie Dance 'n Dream | 325802 | [325802-synth-riders-experience-barbie-dance-n-dream.json](./325802-synth-riders-experience-barbie-dance-n-dream.json) |
 | Synth Riders: 80s Mixtape - Side A | 356903 | [356903-synth-riders-80s-mixtape-side-a.json](./356903-synth-riders-80s-mixtape-side-a.json) |
 | Synth Riders: 80s Mixtape - Side B | 353182 | [353182-synth-riders-80s-mixtape-side-b.json](./353182-synth-riders-80s-mixtape-side-b.json) |
 | Synth Riders: 80s Mixtape Side B Music Pack | 382176 | [382176-synth-riders-80s-mixtape-side-b-music-pack.json](./382176-synth-riders-80s-mixtape-side-b-music-pack.json) |
