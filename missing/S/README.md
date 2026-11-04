@@ -2413,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savior of Light | 189961 | [189961-savior-of-light.json](./189961-savior-of-light.json) |
 | Savior of the Abyss | 165560 | [165560-savior-of-the-abyss.json](./165560-savior-of-the-abyss.json) |
 | Savior Syndrome: The Crimson Sun | 377929 | [377929-savior-syndrome-the-crimson-sun.json](./377929-savior-syndrome-the-crimson-sun.json) |
+| Savior's Hand | 313022 | [313022-saviors-hand.json](./313022-saviors-hand.json) |
 | Saviorless | 25338 | [25338-saviorless.json](./25338-saviorless.json) |
 | Saviors | 36264 | [36264-saviors.json](./36264-saviors.json) |
 | Saviors of Sapphire Wings | 117732 | [117732-saviors-of-sapphire-wings.json](./117732-saviors-of-sapphire-wings.json) |
@@ -4515,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Temple Isle | 216847 | [216847-secrets-of-temple-isle.json](./216847-secrets-of-temple-isle.json) |
 | Secrets of the Ark: A Broken Sword Game | 1152 | [1152-secrets-of-the-ark-a-broken-sword-game.json](./1152-secrets-of-the-ark-a-broken-sword-game.json) |
 | Secrets of the Burrow: Vixoria's Quest | 372135 | [372135-secrets-of-the-burrow-vixorias-quest.json](./372135-secrets-of-the-burrow-vixorias-quest.json) |
+| Secrets of the Dark: Eclipse Mountain | 313380 | [313380-secrets-of-the-dark-eclipse-mountain.json](./313380-secrets-of-the-dark-eclipse-mountain.json) |
 | Secrets of the Dark: Eclipse Mountain - Collector's Edition | 96752 | [96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json](./96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json) |
 | Secrets of the Dark: Eclipse Mountain HD | 139733 | [139733-secrets-of-the-dark-eclipse-mountain-hd.json](./139733-secrets-of-the-dark-eclipse-mountain-hd.json) |
 | Secrets of the Dark: Mystery of the Ancestral Estate & Secrets of the Dark: The Flower of Shadow | 201813 | [201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json](./201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json) |
@@ -5021,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seishun Hajimemashita! | 202612 | [202612-seishun-hajimemashita.json](./202612-seishun-hajimemashita.json) |
 | Seishun Quiz Colorful High School | 247541 | [247541-seishun-quiz-colorful-high-school.json](./247541-seishun-quiz-colorful-high-school.json) |
 | Seishun! Bukatsu Aruaru | 251515 | [251515-seishun-bukatsu-aruaru.json](./251515-seishun-bukatsu-aruaru.json) |
+| Seismic Ventures | 313374 | [313374-seismic-ventures.json](./313374-seismic-ventures.json) |
 | Seiso Master KEN | 155388 | [155388-seiso-master-ken.json](./155388-seiso-master-ken.json) |
 | Seisou no Amazones | 47649 | [47649-seisou-no-amazones.json](./47649-seisou-no-amazones.json) |
 | Seiteki na Ijime Desu ka? Iie, Gohoubi Desu! Gakuen no Idol-tachi ni Niku Vibe Atsukai de Sukikatte Seieki o Shiboritorareru Seikatsu | 59021 | [59021-seiteki-na-ijime-desu-ka-iie-gohoubi-desu-gakuen-no-idol-tachi-ni-niku-vibe-atsukai-de-sukikatte-seieki-o-shiboritorareru-seikatsu.json](./59021-seiteki-na-ijime-desu-ka-iie-gohoubi-desu-gakuen-no-idol-tachi-ni-niku-vibe-atsukai-de-sukikatte-seieki-o-shiboritorareru-seikatsu.json) |
@@ -21558,6 +21561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatoon 2 | 26761 | [26761-splatoon-2.json](./26761-splatoon-2.json) |
 | Splatoon 2 + Splatoon 2 Octo Expansion Bundle | 136382 | [136382-splatoon-2-splatoon-2-octo-expansion-bundle.json](./136382-splatoon-2-splatoon-2-octo-expansion-bundle.json) |
 | Splatoon 2: Octo Expansion | 103364 | [103364-splatoon-2-octo-expansion.json](./103364-splatoon-2-octo-expansion.json) |
+| Splatoon 2: Project Gamblitz | 313386 | [313386-splatoon-2-project-gamblitz.json](./313386-splatoon-2-project-gamblitz.json) |
 | Splatoon 2: Version 2.0.0 | 230108 | [230108-splatoon-2-version-2-0-0.json](./230108-splatoon-2-version-2-0-0.json) |
 | Splatoon 2: Version 3.0.0 | 230109 | [230109-splatoon-2-version-3-0-0.json](./230109-splatoon-2-version-3-0-0.json) |
 | Splatoon 2: Version 4.0.0 | 230110 | [230110-splatoon-2-version-4-0-0.json](./230110-splatoon-2-version-4-0-0.json) |
@@ -30495,6 +30499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kong | 64808 | [64808-super-kong.json](./64808-super-kong.json) |
 | Super Koopa RPG: Here Comes the Koopa Bros.! | 338834 | [338834-super-koopa-rpg-here-comes-the-koopa-bros.json](./338834-super-koopa-rpg-here-comes-the-koopa-bros.json) |
 | Super Korotama | 125712 | [125712-super-korotama.json](./125712-super-korotama.json) |
+| Super Krabs 64 | 313398 | [313398-super-krabs-64.json](./313398-super-krabs-64.json) |
 | Super Kreml Kart Super Rally | 71705 | [71705-super-kreml-kart-super-rally.json](./71705-super-kreml-kart-super-rally.json) |
 | Super Kyoutei 2 | 38194 | [38194-super-kyoutei-2.json](./38194-super-kyoutei-2.json) |
 | Super Kyuukyoku Harikiri Stadium 2 | 37815 | [37815-super-kyuukyoku-harikiri-stadium-2.json](./37815-super-kyuukyoku-harikiri-stadium-2.json) |
@@ -30540,6 +30545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lucky's Tale | 37024 | [37024-super-luckys-tale.json](./37024-super-luckys-tale.json) |
 | Super Lucky's Tale: Gilly Island | 171369 | [171369-super-luckys-tale-gilly-island.json](./171369-super-luckys-tale-gilly-island.json) |
 | Super Lueshi World | 268357 | [268357-super-lueshi-world.json](./268357-super-lueshi-world.json) |
+| Super Luigi 64 | 313392 | [313392-super-luigi-64.json](./313392-super-luigi-64.json) |
 | Super Luigi and the Golden Shrooms | 135128 | [135128-super-luigi-and-the-golden-shrooms.json](./135128-super-luigi-and-the-golden-shrooms.json) |
 | Super Luigi Bros. | 198471 | [198471-super-luigi-bros.json](./198471-super-luigi-bros.json) |
 | Super Luigi Dreams | 135129 | [135129-super-luigi-dreams.json](./135129-super-luigi-dreams.json) |
@@ -30892,11 +30898,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Galaxy 63 | 294714 | [294714-super-mario-galaxy-63.json](./294714-super-mario-galaxy-63.json) |
 | Super Mario Galaxy 64 | 313339 | [313339-super-mario-galaxy-64.json](./313339-super-mario-galaxy-64.json) |
 | Super Mario Galaxy 64: Holiday Special | 294779 | [294779-super-mario-galaxy-64-holiday-special.json](./294779-super-mario-galaxy-64-holiday-special.json) |
+| Super Mario Galaxy C | 313400 | [313400-super-mario-galaxy-c.json](./313400-super-mario-galaxy-c.json) |
 | Super Mario Galaxy DS | 315008 | [315008-super-mario-galaxy-ds.json](./315008-super-mario-galaxy-ds.json) |
 | Super Mario Galaxy Multiplayer | 294770 | [294770-super-mario-galaxy-multiplayer.json](./294770-super-mario-galaxy-multiplayer.json) |
 | Super Mario Galaxy Rei: Zero | 282825 | [282825-super-mario-galaxy-rei-zero.json](./282825-super-mario-galaxy-rei-zero.json) |
 | Super Mario Galaxy Star Bit | 328672 | [328672-super-mario-galaxy-star-bit.json](./328672-super-mario-galaxy-star-bit.json) |
 | Super Mario Galaxy: A Blue Star Adventure | 323784 | [323784-super-mario-galaxy-a-blue-star-adventure.json](./323784-super-mario-galaxy-a-blue-star-adventure.json) |
+| Super Mario Galaxy: Nvidia Shield TV | 313388 | [313388-super-mario-galaxy-nvidia-shield-tv.json](./313388-super-mario-galaxy-nvidia-shield-tv.json) |
 | Super Mario Galaxy: The Lost Levels | 313326 | [313326-super-mario-galaxy-the-lost-levels.json](./313326-super-mario-galaxy-the-lost-levels.json) |
 | Super Mario Gear Solid | 322544 | [322544-super-mario-gear-solid.json](./322544-super-mario-gear-solid.json) |
 | Super Mario Generations | 318549 | [318549-super-mario-generations.json](./318549-super-mario-generations.json) |
@@ -31473,6 +31481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pixel World | 149829 | [149829-super-pixel-world.json](./149829-super-pixel-world.json) |
 | Super Pixelander | 124757 | [124757-super-pixelander.json](./124757-super-pixelander.json) |
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
+| Super Plankton 64 | 313399 | [313399-super-plankton-64.json](./313399-super-plankton-64.json) |
 | Super Platform Tag | 325371 | [325371-super-platform-tag.json](./325371-super-platform-tag.json) |
 | Super Platformer | 182745 | [182745-super-platformer.json](./182745-super-platformer.json) |
 | Super Play Action Football | 42454 | [42454-super-play-action-football.json](./42454-super-play-action-football.json) |
