@@ -1975,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abscond | 76345 | [76345-abscond.json](./76345-abscond.json) |
 | Absconding Zatwor | 26838 | [26838-absconding-zatwor.json](./26838-absconding-zatwor.json) |
 | Absence Makes... | 242500 | [242500-absence-makes.json](./242500-absence-makes.json) |
+| Absence of Light | 344811 | [344811-absence-of-light.json](./344811-absence-of-light.json) |
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
 | Absence: Verdict of Silence | 185002 | [185002-absence-verdict-of-silence.json](./185002-absence-verdict-of-silence.json) |
 | Absent II | 58073 | [58073-absent-ii.json](./58073-absent-ii.json) |
@@ -6986,6 +6987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Kamen Rider: Rider Generation 2 | 64575 | [64575-all-kamen-rider-rider-generation-2.json](./64575-all-kamen-rider-rider-generation-2.json) |
 | All Kamen Rider: Rider Revolution | 81413 | [81413-all-kamen-rider-rider-revolution.json](./81413-all-kamen-rider-rider-revolution.json) |
 | All Lanes Must Exit | 405118 | [405118-all-lanes-must-exit.json](./405118-all-lanes-must-exit.json) |
+| All Living Things | 344803 | [344803-all-living-things.json](./344803-all-living-things.json) |
 | All Me Action Game | 388076 | [388076-all-me-action-game.json](./388076-all-me-action-game.json) |
 | All Men Are Pigs | 183041 | [183041-all-men-are-pigs.json](./183041-all-men-are-pigs.json) |
 | All Mighty Tower | 259960 | [259960-all-mighty-tower.json](./259960-all-mighty-tower.json) |
@@ -14052,6 +14054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arui ha Koi to Iu Na no Mahou | 416690 | [416690-arui-ha-koi-to-iu-na-no-mahou.json](./416690-arui-ha-koi-to-iu-na-no-mahou.json) |
 | Aruma Ketera | 382787 | [382787-aruma-ketera.json](./382787-aruma-ketera.json) |
 | Aruna | 167889 | [167889-aruna.json](./167889-aruna.json) |
+| ARunner | 344687 | [344687-arunner.json](./344687-arunner.json) |
 | Aruruu to Asobo!! | 317805 | [317805-aruruu-to-asobo.json](./317805-aruruu-to-asobo.json) |
 | Arvale | 14787 | [14787-arvale.json](./14787-arvale.json) |
 | ARVI Arena | 229909 | [229909-arvi-arena.json](./229909-arvi-arena.json) |
@@ -15941,7 +15944,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
