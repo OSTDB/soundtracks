@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Oppai: Fusion DLC | 324434 | [324434-ecchi-oppai-fusion-dlc.json](./324434-ecchi-oppai-fusion-dlc.json) |
 | Ecchi Oppai: Uniforms DLC | 324435 | [324435-ecchi-oppai-uniforms-dlc.json](./324435-ecchi-oppai-uniforms-dlc.json) |
 | Ecchi Paradise: Complete Edition | 294831 | [294831-ecchi-paradise-complete-edition.json](./294831-ecchi-paradise-complete-edition.json) |
+| Ecchi Paradise: Fantasy Edition | 300896 | [300896-ecchi-paradise-fantasy-edition.json](./300896-ecchi-paradise-fantasy-edition.json) |
 | Ecchi Puzzle | 105358 | [105358-ecchi-puzzle.json](./105358-ecchi-puzzle.json) |
 | Ecchi Puzzles | 382493 | [382493-ecchi-puzzles.json](./382493-ecchi-puzzles.json) |
 | Ecchi Secrets | 308639 | [308639-ecchi-secrets.json](./308639-ecchi-secrets.json) |
