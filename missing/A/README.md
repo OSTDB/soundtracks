@@ -4424,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires III: The Asian Dynasties Mobile | 145574 | [145574-age-of-empires-iii-the-asian-dynasties-mobile.json](./145574-age-of-empires-iii-the-asian-dynasties-mobile.json) |
 | Age of Empires III: The WarChiefs | 3017 | [3017-age-of-empires-iii-the-warchiefs.json](./3017-age-of-empires-iii-the-warchiefs.json) |
 | Age of Empires IV: Dynasties of the East | 361886 | [361886-age-of-empires-iv-dynasties-of-the-east.json](./361886-age-of-empires-iv-dynasties-of-the-east.json) |
+| Age of Empires IV: Knights of Cross and Rose | 341814 | [341814-age-of-empires-iv-knights-of-cross-and-rose.json](./341814-age-of-empires-iv-knights-of-cross-and-rose.json) |
 | Age of Empires IV: Raiders of the North | 405077 | [405077-age-of-empires-iv-raiders-of-the-north.json](./405077-age-of-empires-iv-raiders-of-the-north.json) |
 | Age of Empires IV: Yue Fei's Legacy | 400928 | [400928-age-of-empires-iv-yue-feis-legacy.json](./400928-age-of-empires-iv-yue-feis-legacy.json) |
 | Age of Empires Mobile | 280839 | [280839-age-of-empires-mobile.json](./280839-age-of-empires-mobile.json) |
@@ -4932,6 +4933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aigiina no Yogen: From the Legend of Balubalouk | 73806 | [73806-aigiina-no-yogen-from-the-legend-of-balubalouk.json](./73806-aigiina-no-yogen-from-the-legend-of-balubalouk.json) |
 | Aigor Escape from Bishop | 127825 | [127825-aigor-escape-from-bishop.json](./127825-aigor-escape-from-bishop.json) |
 | AIII S.V.: Take the A-Train 3 S.V. | 42301 | [42301-aiii-s-v-take-the-a-train-3-s-v.json](./42301-aiii-s-v-take-the-a-train-3-s-v.json) |
+| Aijin | 341811 | [341811-aijin.json](./341811-aijin.json) |
 | Aik's Cheese Adventures | 98712 | [98712-aiks-cheese-adventures.json](./98712-aiks-cheese-adventures.json) |
 | Aika Online | 23534 | [23534-aika-online.json](./23534-aika-online.json) |
 | Aikagi | 127116 | [127116-aikagi.json](./127116-aikagi.json) |
@@ -7757,6 +7759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amanda Rose: The Game of Time | 52399 | [52399-amanda-rose-the-game-of-time.json](./52399-amanda-rose-the-game-of-time.json) |
 | Amanda Stories | 262405 | [262405-amanda-stories.json](./262405-amanda-stories.json) |
 | Amanda the Adventurer 2 | 272840 | [272840-amanda-the-adventurer-2.json](./272840-amanda-the-adventurer-2.json) |
+| Amanda the Adventurer 3 | 341815 | [341815-amanda-the-adventurer-3.json](./341815-amanda-the-adventurer-3.json) |
 | Amanda the Adventurer Trilogy Bundle | 410839 | [410839-amanda-the-adventurer-trilogy-bundle.json](./410839-amanda-the-adventurer-trilogy-bundle.json) |
 | Amanda the Adventurer: Pilot Episode | 256410 | [256410-amanda-the-adventurer-pilot-episode.json](./256410-amanda-the-adventurer-pilot-episode.json) |
 | Amanda's Magic Book | 214019 | [214019-amandas-magic-book.json](./214019-amandas-magic-book.json) |
