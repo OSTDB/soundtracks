@@ -814,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Factory | 153155 | [153155-war-factory.json](./153155-war-factory.json) |
 | War Fantasy | 404616 | [404616-war-fantasy.json](./404616-war-fantasy.json) |
 | War Field | 105682 | [105682-war-field.json](./105682-war-field.json) |
+| War Flavor | 347992 | [347992-war-flavor.json](./347992-war-flavor.json) |
 | War for Bryndor | 391948 | [391948-war-for-bryndor.json](./391948-war-for-bryndor.json) |
 | War For Galaxy | 250897 | [250897-war-for-galaxy.json](./250897-war-for-galaxy.json) |
 | War for Magincia | 129711 | [129711-war-for-magincia.json](./129711-war-for-magincia.json) |
@@ -4677,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whole New Ball Game | 304313 | [304313-whole-new-ball-game.json](./304313-whole-new-ball-game.json) |
 | Whole Note | 322037 | [322037-whole-note.json](./322037-whole-note.json) |
 | Whole Record of Wife Whose Clitoris Is Finally Dissected | 131136 | [131136-whole-record-of-wife-whose-clitoris-is-finally-dissected.json](./131136-whole-record-of-wife-whose-clitoris-is-finally-dissected.json) |
+| Wholesaler Simulator | 348005 | [348005-wholesaler-simulator.json](./348005-wholesaler-simulator.json) |
 | Wholesome Adventure Bundle | 277721 | [277721-wholesome-adventure-bundle.json](./277721-wholesome-adventure-bundle.json) |
 | Wholesome Cats | 133322 | [133322-wholesome-cats.json](./133322-wholesome-cats.json) |
 | Wholesome Monster Girl Academia | 237791 | [237791-wholesome-monster-girl-academia.json](./237791-wholesome-monster-girl-academia.json) |
