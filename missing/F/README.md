@@ -7064,6 +7064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flan | 116263 | [116263-flan.json](./116263-flan.json) |
 | Flan's BN | 346613 | [346613-flans-bn.json](./346613-flans-bn.json) |
 | Flan's Mod | 232680 | [232680-flans-mod.json](./232680-flans-mod.json) |
+| Flan's MS | 312801 | [312801-flans-ms.json](./312801-flans-ms.json) |
 | Flanders KIller | 383767 | [383767-flanders-killer.json](./383767-flanders-killer.json) |
 | Flandre's Dream: 36000 ft Deep | 121282 | [121282-flandres-dream-36000-ft-deep.json](./121282-flandres-dream-36000-ft-deep.json) |
 | Flank Speed | 292565 | [292565-flank-speed.json](./292565-flank-speed.json) |
@@ -7220,6 +7221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Racer | 359375 | [359375-flash-racer.json](./359375-flash-racer.json) |
 | Flash Snooker Game | 161562 | [161562-flash-snooker-game.json](./161562-flash-snooker-game.json) |
 | Flash Splash | 94592 | [94592-flash-splash.json](./94592-flash-splash.json) |
+| Flash Tennis | 312805 | [312805-flash-tennis.json](./312805-flash-tennis.json) |
 | Flash Traffic: City of Angels | 70063 | [70063-flash-traffic-city-of-angels.json](./70063-flash-traffic-city-of-angels.json) |
 | Flashback | 19833 | [19833-flashback.json](./19833-flashback.json) |
 | Flashback | 236148 | [236148-flashback.json](./236148-flashback.json) |
