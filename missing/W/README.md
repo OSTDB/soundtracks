@@ -4726,6 +4726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why Me | 377147 | [377147-why-me.json](./377147-why-me.json) |
 | Why Me? | 373059 | [373059-why-me.json](./373059-why-me.json) |
 | Why Neon Lights Again? | 128990 | [128990-why-neon-lights-again.json](./128990-why-neon-lights-again.json) |
+| Why Not Both? | 345233 | [345233-why-not-both.json](./345233-why-not-both.json) |
 | Why Not Frog? | 185474 | [185474-why-not-frog.json](./185474-why-not-frog.json) |
 | Why Not? | 152009 | [152009-why-not.json](./152009-why-not.json) |
 | Why Pizza? | 151545 | [151545-why-pizza.json](./151545-why-pizza.json) |
@@ -7969,17 +7970,30 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Assault on Blackwing Lair | 345158 | [345158-world-of-warcraft-assault-on-blackwing-lair.json](./345158-world-of-warcraft-assault-on-blackwing-lair.json) |
 | World of Warcraft: Battle for Azeroth | 75380 | [75380-world-of-warcraft-battle-for-azeroth.json](./75380-world-of-warcraft-battle-for-azeroth.json) |
 | World of Warcraft: Battle for Azeroth - Collector's Edition | 136033 | [136033-world-of-warcraft-battle-for-azeroth-collectors-edition.json](./136033-world-of-warcraft-battle-for-azeroth-collectors-edition.json) |
+| World of Warcraft: Battle for Azeroth - Rise of Azshara | 345215 | [345215-world-of-warcraft-battle-for-azeroth-rise-of-azshara.json](./345215-world-of-warcraft-battle-for-azeroth-rise-of-azshara.json) |
+| World of Warcraft: Battle for Azeroth - Visions of N'Zoth | 345216 | [345216-world-of-warcraft-battle-for-azeroth-visions-of-nzoth.json](./345216-world-of-warcraft-battle-for-azeroth-visions-of-nzoth.json) |
+| World of Warcraft: Battle for Azeroth: Tides of Vengeance | 345214 | [345214-world-of-warcraft-battle-for-azeroth-tides-of-vengeance.json](./345214-world-of-warcraft-battle-for-azeroth-tides-of-vengeance.json) |
 | World of Warcraft: Burning Crusade Classic | 143683 | [143683-world-of-warcraft-burning-crusade-classic.json](./143683-world-of-warcraft-burning-crusade-classic.json) |
 | World of Warcraft: Burning Crusade Classic - Anniversary Edition | 390778 | [390778-world-of-warcraft-burning-crusade-classic-anniversary-edition.json](./390778-world-of-warcraft-burning-crusade-classic-anniversary-edition.json) |
 | World of Warcraft: Cataclysm - Collector's Edition | 136266 | [136266-world-of-warcraft-cataclysm-collectors-edition.json](./136266-world-of-warcraft-cataclysm-collectors-edition.json) |
+| World of Warcraft: Cataclysm - Rage of the Firelands | 345192 | [345192-world-of-warcraft-cataclysm-rage-of-the-firelands.json](./345192-world-of-warcraft-cataclysm-rage-of-the-firelands.json) |
+| World of Warcraft: Cataclysm - Rise of the Zandalari | 345190 | [345190-world-of-warcraft-cataclysm-rise-of-the-zandalari.json](./345190-world-of-warcraft-cataclysm-rise-of-the-zandalari.json) |
+| World of Warcraft: Cataclysm: Hour of Twilight | 345193 | [345193-world-of-warcraft-cataclysm-hour-of-twilight.json](./345193-world-of-warcraft-cataclysm-hour-of-twilight.json) |
 | World of Warcraft: Collector's Edition | 136994 | [136994-world-of-warcraft-collectors-edition.json](./136994-world-of-warcraft-collectors-edition.json) |
 | World of Warcraft: Dragonflight - Embers of Neltharion | 363929 | [363929-world-of-warcraft-dragonflight-embers-of-neltharion.json](./363929-world-of-warcraft-dragonflight-embers-of-neltharion.json) |
 | World of Warcraft: Dragonflight - Guardians of the Dream | 275472 | [275472-world-of-warcraft-dragonflight-guardians-of-the-dream.json](./275472-world-of-warcraft-dragonflight-guardians-of-the-dream.json) |
 | World of Warcraft: Forever | 417650 | [417650-world-of-warcraft-forever.json](./417650-world-of-warcraft-forever.json) |
 | World of Warcraft: Legion - Collector's Edition | 136338 | [136338-world-of-warcraft-legion-collectors-edition.json](./136338-world-of-warcraft-legion-collectors-edition.json) |
+| World of Warcraft: Legion - Shadows of Argus | 345212 | [345212-world-of-warcraft-legion-shadows-of-argus.json](./345212-world-of-warcraft-legion-shadows-of-argus.json) |
+| World of Warcraft: Legion - The Tomb of Sargeras | 345208 | [345208-world-of-warcraft-legion-the-tomb-of-sargeras.json](./345208-world-of-warcraft-legion-the-tomb-of-sargeras.json) |
+| World of Warcraft: Legion: Return to Karazhan | 345207 | [345207-world-of-warcraft-legion-return-to-karazhan.json](./345207-world-of-warcraft-legion-return-to-karazhan.json) |
 | World of Warcraft: Midnight - Curse of Ula'tek | 411703 | [411703-world-of-warcraft-midnight-curse-of-ulatek.json](./411703-world-of-warcraft-midnight-curse-of-ulatek.json) |
+| World of Warcraft: Mist of Pandaria: Siege of Orgrimmar | 345204 | [345204-world-of-warcraft-mist-of-pandaria-siege-of-orgrimmar.json](./345204-world-of-warcraft-mist-of-pandaria-siege-of-orgrimmar.json) |
 | World of Warcraft: Mists of Pandaria - Collector's Edition | 136348 | [136348-world-of-warcraft-mists-of-pandaria-collectors-edition.json](./136348-world-of-warcraft-mists-of-pandaria-collectors-edition.json) |
+| World of Warcraft: Mists of Pandaria - Landfall | 345197 | [345197-world-of-warcraft-mists-of-pandaria-landfall.json](./345197-world-of-warcraft-mists-of-pandaria-landfall.json) |
 | World of Warcraft: Mists of Pandaria Classic | 322151 | [322151-world-of-warcraft-mists-of-pandaria-classic.json](./322151-world-of-warcraft-mists-of-pandaria-classic.json) |
+| World of Warcraft: Mists of Pandaria: Escalation | 345201 | [345201-world-of-warcraft-mists-of-pandaria-escalation.json](./345201-world-of-warcraft-mists-of-pandaria-escalation.json) |
+| World of Warcraft: Mists of Pandaria: The Thunder King | 345198 | [345198-world-of-warcraft-mists-of-pandaria-the-thunder-king.json](./345198-world-of-warcraft-mists-of-pandaria-the-thunder-king.json) |
 | World of Warcraft: Shadowlands | 125175 | [125175-world-of-warcraft-shadowlands.json](./125175-world-of-warcraft-shadowlands.json) |
 | World of Warcraft: Shadowlands - Chains of Domination | 363919 | [363919-world-of-warcraft-shadowlands-chains-of-domination.json](./363919-world-of-warcraft-shadowlands-chains-of-domination.json) |
 | World of Warcraft: Shadowlands - Collector's Edition | 136998 | [136998-world-of-warcraft-shadowlands-collectors-edition.json](./136998-world-of-warcraft-shadowlands-collectors-edition.json) |
@@ -7989,6 +8003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: The War Within - Ghosts of K’aresh | 357378 | [357378-world-of-warcraft-the-war-within-ghosts-of-k-aresh.json](./357378-world-of-warcraft-the-war-within-ghosts-of-k-aresh.json) |
 | World of Warcraft: The War Within - Undermine(d) | 322152 | [322152-world-of-warcraft-the-war-within-undermine-d.json](./322152-world-of-warcraft-the-war-within-undermine-d.json) |
 | World of Warcraft: Warlords of Draenor - Collector's Edition | 13622 | [13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json](./13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json) |
+| World of Warcraft: Warlords of Draenor - Fury of Hellfire | 345206 | [345206-world-of-warcraft-warlords-of-draenor-fury-of-hellfire.json](./345206-world-of-warcraft-warlords-of-draenor-fury-of-hellfire.json) |
 | World of Warcraft: Wrath of the Lich King - Collector's Edition | 23788 | [23788-world-of-warcraft-wrath-of-the-lich-king-collectors-edition.json](./23788-world-of-warcraft-wrath-of-the-lich-king-collectors-edition.json) |
 | World of Warcraft: Wrath of the Lich King Classic | 198161 | [198161-world-of-warcraft-wrath-of-the-lich-king-classic.json](./198161-world-of-warcraft-wrath-of-the-lich-king-classic.json) |
 | World of Warplanes | 3432 | [3432-world-of-warplanes.json](./3432-world-of-warplanes.json) |
