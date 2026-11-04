@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eaten by Darkness | 235747 | [235747-eaten-by-darkness.json](./235747-eaten-by-darkness.json) |
 | EatFish | 303501 | [303501-eatfish.json](./303501-eatfish.json) |
 | Eating | 287505 | [287505-eating.json](./287505-eating.json) |
+| Eating Nature | 313363 | [313363-eating-nature.json](./313363-eating-nature.json) |
 | EatToFight | 185611 | [185611-eattofight.json](./185611-eattofight.json) |
 | Eatventure | 208978 | [208978-eatventure.json](./208978-eatventure.json) |
 | Eatvolve | 146481 | [146481-eatvolve.json](./146481-eatvolve.json) |
