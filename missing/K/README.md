@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Islands | 176880 | [176880-kawaii-islands.json](./176880-kawaii-islands.json) |
 | Kawaii Killer | 121929 | [121929-kawaii-killer.json](./121929-kawaii-killer.json) |
 | Kawaii Kingdom | 255890 | [255890-kawaii-kingdom.json](./255890-kawaii-kingdom.json) |
+| Kawaii Kitchen | 326492 | [326492-kawaii-kitchen.json](./326492-kawaii-kitchen.json) |
 | Kawaii Koinu | 49755 | [49755-kawaii-koinu.json](./49755-kawaii-koinu.json) |
 | Kawaii Koinu Mini: Wanko to Asobou!! Kogatainu | 49754 | [49754-kawaii-koinu-mini-wanko-to-asobou-kogatainu.json](./49754-kawaii-koinu-mini-wanko-to-asobou-kogatainu.json) |
 | Kawaii Koneko 3D | 130729 | [130729-kawaii-koneko-3d.json](./130729-kawaii-koneko-3d.json) |
@@ -2638,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Floor: Golden Weapon Pack 2 | 162732 | [162732-killing-floor-golden-weapon-pack-2.json](./162732-killing-floor-golden-weapon-pack-2.json) |
 | Killing Floor: Golden Weapons Pack | 162728 | [162728-killing-floor-golden-weapons-pack.json](./162728-killing-floor-golden-weapons-pack.json) |
 | Killing Floor: Harold Lott Character Pack | 162722 | [162722-killing-floor-harold-lott-character-pack.json](./162722-killing-floor-harold-lott-character-pack.json) |
+| Killing Floor: Horzine Outbreak | 325801 | [325801-killing-floor-horzine-outbreak.json](./325801-killing-floor-horzine-outbreak.json) |
 | Killing Floor: Incursion | 19544 | [19544-killing-floor-incursion.json](./19544-killing-floor-incursion.json) |
 | Killing Floor: Mrs. Foster Pack | 162720 | [162720-killing-floor-mrs-foster-pack.json](./162720-killing-floor-mrs-foster-pack.json) |
 | Killing Floor: Neon Character Pack | 162723 | [162723-killing-floor-neon-character-pack.json](./162723-killing-floor-neon-character-pack.json) |
@@ -5559,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krampus is Home | 105081 | [105081-krampus-is-home.json](./105081-krampus-is-home.json) |
 | Krampus Kills | 191094 | [191094-krampus-kills.json](./191094-krampus-kills.json) |
 | Krampus Quest | 76674 | [76674-krampus-quest.json](./76674-krampus-quest.json) |
+| Krampus: Night of Horror | 326490 | [326490-krampus-night-of-horror.json](./326490-krampus-night-of-horror.json) |
 | Krampusnacht | 134929 | [134929-krampusnacht.json](./134929-krampusnacht.json) |
 | Krankenheit | 113418 | [113418-krankenheit.json](./113418-krankenheit.json) |
 | Kranker | 202041 | [202041-kranker.json](./202041-kranker.json) |
