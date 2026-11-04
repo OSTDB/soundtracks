@@ -6325,6 +6325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Surface | 111630 | [111630-beneath-the-surface.json](./111630-beneath-the-surface.json) |
 | Beneath the Surface | 385401 | [385401-beneath-the-surface.json](./385401-beneath-the-surface.json) |
 | Beneath The Surface | 380012 | [380012-beneath-the-surface.json](./380012-beneath-the-surface.json) |
+| Beneath the Waves | 301469 | [301469-beneath-the-waves.json](./301469-beneath-the-waves.json) |
 | Beneath the Waves | 319393 | [319393-beneath-the-waves.json](./319393-beneath-the-waves.json) |
 | Beneath the Willows | 183923 | [183923-beneath-the-willows.json](./183923-beneath-the-willows.json) |
 | Beneath the Woods | 236290 | [236290-beneath-the-woods.json](./236290-beneath-the-woods.json) |
@@ -10937,6 +10938,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodstained: Ritual of the Night | 10760 | [10760-bloodstained-ritual-of-the-night.json](./10760-bloodstained-ritual-of-the-night.json) |
 | Bloodstained: Ritual of the Night - Classic II: Dominique's Curse | 306560 | [306560-bloodstained-ritual-of-the-night-classic-ii-dominiques-curse.json](./306560-bloodstained-ritual-of-the-night-classic-ii-dominiques-curse.json) |
 | Bloodstained: Ritual of the Night - IGA's Back Pack | 155036 | [155036-bloodstained-ritual-of-the-night-igas-back-pack.json](./155036-bloodstained-ritual-of-the-night-igas-back-pack.json) |
+| Bloodstained: Ritual of the Night - Magical Girl Cosmetic Pack | 301209 | [301209-bloodstained-ritual-of-the-night-magical-girl-cosmetic-pack.json](./301209-bloodstained-ritual-of-the-night-magical-girl-cosmetic-pack.json) |
+| Bloodstained: Ritual of the Night - Miriam's Complete Cosmetic Bundle | 301210 | [301210-bloodstained-ritual-of-the-night-miriams-complete-cosmetic-bundle.json](./301210-bloodstained-ritual-of-the-night-miriams-complete-cosmetic-bundle.json) |
+| Bloodstained: Ritual of the Night - Succubus Cosmetic Pack | 301214 | [301214-bloodstained-ritual-of-the-night-succubus-cosmetic-pack.json](./301214-bloodstained-ritual-of-the-night-succubus-cosmetic-pack.json) |
 | Bloodstained: Ritual of the Night Complete Edition | 391058 | [391058-bloodstained-ritual-of-the-night-complete-edition.json](./391058-bloodstained-ritual-of-the-night-complete-edition.json) |
 | Bloodstained: The Scarlet Engagement | 347120 | [347120-bloodstained-the-scarlet-engagement.json](./347120-bloodstained-the-scarlet-engagement.json) |
 | Bloodstone Courtyard | 308465 | [308465-bloodstone-courtyard.json](./308465-bloodstone-courtyard.json) |
