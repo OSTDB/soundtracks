@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading of Zarya 7 | 46466 | [46466-fading-of-zarya-7.json](./46466-fading-of-zarya-7.json) |
 | Fading Reality | 415729 | [415729-fading-reality.json](./415729-fading-reality.json) |
 | Fading Remnants | 326844 | [326844-fading-remnants.json](./326844-fading-remnants.json) |
+| Fading Serenades | 348512 | [348512-fading-serenades.json](./348512-fading-serenades.json) |
 | Fading Shadows | 42880 | [42880-fading-shadows.json](./42880-fading-shadows.json) |
 | Fading Skies | 291768 | [291768-fading-skies.json](./291768-fading-skies.json) |
 | Fading Star Melody | 328098 | [328098-fading-star-melody.json](./328098-fading-star-melody.json) |
@@ -556,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Failed Ninja Academy | 152650 | [152650-failed-ninja-academy.json](./152650-failed-ninja-academy.json) |
 | Failed State | 98375 | [98375-failed-state.json](./98375-failed-state.json) |
 | Failed Trust | 290558 | [290558-failed-trust.json](./290558-failed-trust.json) |
+| FailFactory | 348515 | [348515-failfactory.json](./348515-failfactory.json) |
 | FailRooms | 417806 | [417806-failrooms.json](./417806-failrooms.json) |
 | Failspace | 111795 | [111795-failspace.json](./111795-failspace.json) |
 | Failticity Classic | 56348 | [56348-failticity-classic.json](./56348-failticity-classic.json) |
@@ -3265,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faun Air | 151279 | [151279-faun-air.json](./151279-faun-air.json) |
 | Fauna | 376503 | [376503-fauna.json](./376503-fauna.json) |
 | Faunamorph | 257965 | [257965-faunamorph.json](./257965-faunamorph.json) |
+| Fauneroes | 348541 | [348541-fauneroes.json](./348541-fauneroes.json) |
 | Fausseté Amour | 37628 | [37628-faussete-amour.json](./37628-faussete-amour.json) |
 | Faust Duel | 373112 | [373112-faust-duel.json](./373112-faust-duel.json) |
 | Faust's Folly | 54952 | [54952-fausts-folly.json](./54952-fausts-folly.json) |
@@ -5430,6 +5433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Football: Goal in One + Two | 262491 | [262491-finger-football-goal-in-one-two.json](./262491-finger-football-goal-in-one-two.json) |
 | Finger Football: Goal in Two | 253204 | [253204-finger-football-goal-in-two.json](./253204-finger-football-goal-in-two.json) |
 | Finger Frenzy World | 77118 | [77118-finger-frenzy-world.json](./77118-finger-frenzy-world.json) |
+| Finger Fury Showdown | 348535 | [348535-finger-fury-showdown.json](./348535-finger-fury-showdown.json) |
 | Finger Gravity | 253263 | [253263-finger-gravity.json](./253263-finger-gravity.json) |
 | Finger Guessing King | 169722 | [169722-finger-guessing-king.json](./169722-finger-guessing-king.json) |
 | Finger Hoola | 22199 | [22199-finger-hoola.json](./22199-finger-hoola.json) |
