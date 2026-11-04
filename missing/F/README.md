@@ -8427,6 +8427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNaC 2: Custom Night | 416985 | [416985-fnac-2-custom-night.json](./416985-fnac-2-custom-night.json) |
 | FNaC 3: Custom Night | 416986 | [416986-fnac-3-custom-night.json](./416986-fnac-3-custom-night.json) |
 | FNaC Fur | 210495 | [210495-fnac-fur.json](./210495-fnac-fur.json) |
+| FNAF 1 Remake | 340823 | [340823-fnaf-1-remake.json](./340823-fnaf-1-remake.json) |
 | FNaF 2: Night of Misfits | 280135 | [280135-fnaf-2-night-of-misfits.json](./280135-fnaf-2-night-of-misfits.json) |
 | FNaF 2: Wii U Edition | 358328 | [358328-fnaf-2-wii-u-edition.json](./358328-fnaf-2-wii-u-edition.json) |
 | FNaF 4 Retro Edition | 275647 | [275647-fnaf-4-retro-edition.json](./275647-fnaf-4-retro-edition.json) |
