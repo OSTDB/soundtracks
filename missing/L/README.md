@@ -6008,6 +6008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Shop of Treasures | 70733 | [70733-little-shop-of-treasures.json](./70733-little-shop-of-treasures.json) |
 | Little Shop of Treasures 2 | 200885 | [200885-little-shop-of-treasures-2.json](./200885-little-shop-of-treasures-2.json) |
 | Little Shopping | 116126 | [116126-little-shopping.json](./116126-little-shopping.json) |
+| Little Shops of Murder | 301457 | [301457-little-shops-of-murder.json](./301457-little-shops-of-murder.json) |
 | Little Shrimp: Legend Reborn | 271614 | [271614-little-shrimp-legend-reborn.json](./271614-little-shrimp-legend-reborn.json) |
 | Little Sick Girls: Kagami no Naka no Idol | 415135 | [415135-little-sick-girls-kagami-no-naka-no-idol.json](./415135-little-sick-girls-kagami-no-naka-no-idol.json) |
 | Little Sick Girls: Momo Mitsu ha Imouto no Kaori | 415137 | [415137-little-sick-girls-momo-mitsu-ha-imouto-no-kaori.json](./415137-little-sick-girls-momo-mitsu-ha-imouto-no-kaori.json) |
@@ -6662,6 +6663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
 | Loft is in the air | 315798 | [315798-loft-is-in-the-air.json](./315798-loft-is-in-the-air.json) |
 | Loftia | 252774 | [252774-loftia.json](./252774-loftia.json) |
+| Loftlock | 301455 | [301455-loftlock.json](./301455-loftlock.json) |
 | Loftus and the Sky Cap | 170282 | [170282-loftus-and-the-sky-cap.json](./170282-loftus-and-the-sky-cap.json) |
 | Log Away | 350204 | [350204-log-away.json](./350204-log-away.json) |
 | Log Away: Christmas DLC | 395708 | [395708-log-away-christmas-dlc.json](./395708-log-away-christmas-dlc.json) |
