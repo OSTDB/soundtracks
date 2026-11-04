@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrosphere | 36626 | [36626-necrosphere.json](./36626-necrosphere.json) |
 | Necrosphere Deluxe | 114026 | [114026-necrosphere-deluxe.json](./114026-necrosphere-deluxe.json) |
 | Necrosphere64 | 311882 | [311882-necrosphere64.json](./311882-necrosphere64.json) |
+| NecroStone | 310893 | [310893-necrostone.json](./310893-necrostone.json) |
 | NecroTactics | 223418 | [223418-necrotactics.json](./223418-necrotactics.json) |
 | Necrotel: No Checkout | 400665 | [400665-necrotel-no-checkout.json](./400665-necrotel-no-checkout.json) |
 | Necrotic Drift | 76179 | [76179-necrotic-drift.json](./76179-necrotic-drift.json) |
