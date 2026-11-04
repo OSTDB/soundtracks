@@ -13569,6 +13569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downer Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Yonpaku Itsuka no Tabi | 396931 | [396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json](./396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json) |
 | Downfall | 100346 | [100346-downfall.json](./100346-downfall.json) |
 | Downfall | 18189 | [18189-downfall.json](./18189-downfall.json) |
+| Downfall | 311951 | [311951-downfall.json](./311951-downfall.json) |
 | DownFall BattleGrounds | 159099 | [159099-downfall-battlegrounds.json](./159099-downfall-battlegrounds.json) |
 | Downfall Hearts | 258487 | [258487-downfall-hearts.json](./258487-downfall-hearts.json) |
 | Downfall MMORPG | 351043 | [351043-downfall-mmorpg.json](./351043-downfall-mmorpg.json) |
