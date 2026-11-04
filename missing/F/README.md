@@ -5113,6 +5113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Mission VR | 124191 | [124191-final-mission-vr.json](./124191-final-mission-vr.json) |
 | Final Missions | 103187 | [103187-final-missions.json](./103187-final-missions.json) |
 | Final Nation | 251823 | [251823-final-nation.json](./251823-final-nation.json) |
+| Final Night | 311453 | [311453-final-night.json](./311453-final-night.json) |
 | Final Night At Hotel | 395493 | [395493-final-night-at-hotel.json](./395493-final-night-at-hotel.json) |
 | Final Nights | 238358 | [238358-final-nights.json](./238358-final-nights.json) |
 | Final Nights 2: Sins of the Father | 238361 | [238361-final-nights-2-sins-of-the-father.json](./238361-final-nights-2-sins-of-the-father.json) |
@@ -5242,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Cats 5 | 348425 | [348425-find-cats-5.json](./348425-find-cats-5.json) |
 | Find Cats 6 | 390037 | [390037-find-cats-6.json](./390037-find-cats-6.json) |
 | Find Cats in the Casino | 400481 | [400481-find-cats-in-the-casino.json](./400481-find-cats-in-the-casino.json) |
+| Find Cats: DLC 01 | 311432 | [311432-find-cats-dlc-01.json](./311432-find-cats-dlc-01.json) |
 | Find Cats2 | 307687 | [307687-find-cats2.json](./307687-find-cats2.json) |
 | Find Clowns | 341812 | [341812-find-clowns.json](./341812-find-clowns.json) |
 | Find Colibries | 309381 | [309381-find-colibries.json](./309381-find-colibries.json) |
@@ -9292,6 +9294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ford Street Racing: XR Edition | 327743 | [327743-ford-street-racing-xr-edition.json](./327743-ford-street-racing-xr-edition.json) |
 | Ford Truck Mania | 44942 | [44942-ford-truck-mania.json](./44942-ford-truck-mania.json) |
 | Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
+| Fore! Track | 311436 | [311436-fore-track.json](./311436-fore-track.json) |
 | Forebearers | 112704 | [112704-forebearers.json](./112704-forebearers.json) |
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
 | Forebloomed: Evergreen Edition | 268302 | [268302-forebloomed-evergreen-edition.json](./268302-forebloomed-evergreen-edition.json) |
