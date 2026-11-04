@@ -3700,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Map Studio | 190924 | [190924-battle-map-studio.json](./190924-battle-map-studio.json) |
 | Battle Master | 86222 | [86222-battle-master.json](./86222-battle-master.json) |
 | Battle Masters | 176871 | [176871-battle-masters.json](./176871-battle-masters.json) |
+| Battle Mayhem | 328180 | [328180-battle-mayhem.json](./328180-battle-mayhem.json) |
 | Battle Mech Frontier | 116278 | [116278-battle-mech-frontier.json](./116278-battle-mech-frontier.json) |
 | Battle Mine Sweeper | 144136 | [144136-battle-mine-sweeper.json](./144136-battle-mine-sweeper.json) |
 | Battle Minesweeper Online | 300772 | [300772-battle-minesweeper-online.json](./300772-battle-minesweeper-online.json) |
@@ -15148,6 +15149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Reappear | 254171 | [254171-bright-reappear.json](./254171-bright-reappear.json) |
 | Bright Red Skies | 112840 | [112840-bright-red-skies.json](./112840-bright-red-skies.json) |
 | Bright Shadow | 84432 | [84432-bright-shadow.json](./84432-bright-shadow.json) |
+| Bright Side: Quiz | 327541 | [327541-bright-side-quiz.json](./327541-bright-side-quiz.json) |
 | Bright Side: Quiz - Complete Edition | 331250 | [331250-bright-side-quiz-complete-edition.json](./331250-bright-side-quiz-complete-edition.json) |
 | Bright Side: Riddles & Puzzles | 265393 | [265393-bright-side-riddles-and-puzzles.json](./265393-bright-side-riddles-and-puzzles.json) |
 | Bright Sky: The Watch of the Future | 413006 | [413006-bright-sky-the-watch-of-the-future.json](./413006-bright-sky-the-watch-of-the-future.json) |
