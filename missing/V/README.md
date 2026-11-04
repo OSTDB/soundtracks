@@ -3235,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Warden | 249953 | [249953-void-warden.json](./249953-void-warden.json) |
 | Void Warfare | 148889 | [148889-void-warfare.json](./148889-void-warfare.json) |
 | Void Wars | 282025 | [282025-void-wars.json](./282025-void-wars.json) |
+| Void Wave: Drift | 348555 | [348555-void-wave-drift.json](./348555-void-wave-drift.json) |
 | Void Whispers | 293999 | [293999-void-whispers.json](./293999-void-whispers.json) |
 | Void Wisp | 44262 | [44262-void-wisp.json](./44262-void-wisp.json) |
 | Void Witch | 335770 | [335770-void-witch.json](./335770-void-witch.json) |
