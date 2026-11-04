@@ -11124,6 +11124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Abyss | 325709 | [325709-cold-abyss.json](./325709-cold-abyss.json) |
 | Cold Alley | 74335 | [74335-cold-alley.json](./74335-cold-alley.json) |
 | Cold and Unforgiving | 276108 | [276108-cold-and-unforgiving.json](./276108-cold-and-unforgiving.json) |
+| Cold as Hell | 314776 | [314776-cold-as-hell.json](./314776-cold-as-hell.json) |
 | Cold Bed on Route | 206454 | [206454-cold-bed-on-route.json](./206454-cold-bed-on-route.json) |
 | Cold Bite | 115008 | [115008-cold-bite.json](./115008-cold-bite.json) |
 | Cold Blood Samurai | 102704 | [102704-cold-blood-samurai.json](./102704-cold-blood-samurai.json) |
@@ -13397,6 +13398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consumption | 179537 | [179537-consumption.json](./179537-consumption.json) |
 | Contact | 187113 | [187113-contact.json](./187113-contact.json) |
 | Contact | 243837 | [243837-contact.json](./243837-contact.json) |
+| Contact | 314759 | [314759-contact.json](./314759-contact.json) |
 | Contact | 357745 | [357745-contact.json](./357745-contact.json) |
 | Contact : Last Defence | 114868 | [114868-contact-last-defence.json](./114868-contact-last-defence.json) |
 | Contact Draw: Bowling | 104380 | [104380-contact-draw-bowling.json](./104380-contact-draw-bowling.json) |
