@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jadoraki | 238574 | [238574-jadoraki.json](./238574-jadoraki.json) |
 | Jaeger | 157826 | [157826-jaeger.json](./157826-jaeger.json) |
 | Jaesbich-ui Haengseong | 367135 | [367135-jaesbich-ui-haengseong.json](./367135-jaesbich-ui-haengseong.json) |
+| Jaethoria | 325221 | [325221-jaethoria.json](./325221-jaethoria.json) |
 | Jagainu-kun | 281588 | [281588-jagainu-kun.json](./281588-jagainu-kun.json) |
 | Jagan: Evil Eye | 97991 | [97991-jagan-evil-eye.json](./97991-jagan-evil-eye.json) |
 | Jagd Lanzer | 125109 | [125109-jagd-lanzer.json](./125109-jagd-lanzer.json) |
@@ -2201,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jo and Momo: Forest Rush | 101774 | [101774-jo-and-momo-forest-rush.json](./101774-jo-and-momo-forest-rush.json) |
 | Jo Jo Wo | 239824 | [239824-jo-jo-wo.json](./239824-jo-jo-wo.json) |
 | Jo-Jo Fighter | 182366 | [182366-jo-jo-fighter.json](./182366-jo-jo-fighter.json) |
+| JO-Rush | 325199 | [325199-jo-rush.json](./325199-jo-rush.json) |
 | Jo's Dream: Organic Coffee | 123638 | [123638-jos-dream-organic-coffee.json](./123638-jos-dream-organic-coffee.json) |
 | Jo's House | 177391 | [177391-jos-house.json](./177391-jos-house.json) |
 | Joan Jade and the Gates of Xibalba | 53248 | [53248-joan-jade-and-the-gates-of-xibalba.json](./53248-joan-jade-and-the-gates-of-xibalba.json) |
