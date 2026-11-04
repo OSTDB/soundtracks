@@ -944,7 +944,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1398,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball | 231388 | [231388-ball.json](./231388-ball.json) |
 | Ball | 231735 | [231735-ball.json](./231735-ball.json) |
 | Ball | 246991 | [246991-ball.json](./246991-ball.json) |
+| Ball | 311446 | [311446-ball.json](./311446-ball.json) |
 | Ball | 356422 | [356422-ball.json](./356422-ball.json) |
 | Ball & Gun | 403805 | [403805-ball-and-gun.json](./403805-ball-and-gun.json) |
 | Ball & Roll | 348702 | [348702-ball-and-roll.json](./348702-ball-and-roll.json) |
@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Clash | 247080 | [247080-ball-clash.json](./247080-ball-clash.json) |
 | Ball Coin Chapter 5 | 281955 | [281955-ball-coin-chapter-5.json](./281955-ball-coin-chapter-5.json) |
 | Ball Collector | 101544 | [101544-ball-collector.json](./101544-ball-collector.json) |
+| Ball Control | 311443 | [311443-ball-control.json](./311443-ball-control.json) |
 | Ball Crazy | 13370 | [13370-ball-crazy.json](./13370-ball-crazy.json) |
 | Ball Destiny | 291174 | [291174-ball-destiny.json](./291174-ball-destiny.json) |
 | Ball Dodge | 306048 | [306048-ball-dodge.json](./306048-ball-dodge.json) |
@@ -15013,6 +15014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brickhaven | 273380 | [273380-brickhaven.json](./273380-brickhaven.json) |
 | Bricking in America | 90430 | [90430-bricking-in-america.json](./90430-bricking-in-america.json) |
 | Brickle | 336321 | [336321-brickle.json](./336321-brickle.json) |
+| BrickLike | 311509 | [311509-bricklike.json](./311509-bricklike.json) |
 | BrickMania | 328552 | [328552-brickmania.json](./328552-brickmania.json) |
 | Brickmasters | 240665 | [240665-brickmasters.json](./240665-brickmasters.json) |
 | Bricknosis | 391615 | [391615-bricknosis.json](./391615-bricknosis.json) |
