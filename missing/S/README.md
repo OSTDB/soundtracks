@@ -11268,6 +11268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sitten Kitten | 141110 | [141110-sitten-kitten.json](./141110-sitten-kitten.json) |
 | Sitter | 348023 | [348023-sitter.json](./348023-sitter.json) |
 | Sittin' Pretty | 131108 | [131108-sittin-pretty.json](./131108-sittin-pretty.json) |
+| Sitting | 339169 | [339169-sitting.json](./339169-sitting.json) |
 | Sitting around the world on a hot air balloon | 121576 | [121576-sitting-around-the-world-on-a-hot-air-balloon.json](./121576-sitting-around-the-world-on-a-hot-air-balloon.json) |
 | Sitting Ducks | 210727 | [210727-sitting-ducks.json](./210727-sitting-ducks.json) |
 | Sitting Ducks | 402482 | [402482-sitting-ducks.json](./402482-sitting-ducks.json) |
@@ -19863,6 +19864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speak of the Cloud | 326714 | [326714-speak-of-the-cloud.json](./326714-speak-of-the-cloud.json) |
 | Speak of the Devil I: A Deathly Proposition | 277941 | [277941-speak-of-the-devil-i-a-deathly-proposition.json](./277941-speak-of-the-devil-i-a-deathly-proposition.json) |
 | Speak Out English | 90899 | [90899-speak-out-english.json](./90899-speak-out-english.json) |
+| Speak, Lord | 339031 | [339031-speak-lord.json](./339031-speak-lord.json) |
 | Speakeasy | 253334 | [253334-speakeasy.json](./253334-speakeasy.json) |
 | Speakeasy | 294109 | [294109-speakeasy.json](./294109-speakeasy.json) |
 | Speakeasy | 60826 | [60826-speakeasy.json](./60826-speakeasy.json) |
@@ -21798,6 +21800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport Racer | 93392 | [93392-sport-racer.json](./93392-sport-racer.json) |
 | Sport Shooter | 157411 | [157411-sport-shooter.json](./157411-sport-shooter.json) |
 | Sport Shooter: The Eight Galleries | 360914 | [360914-sport-shooter-the-eight-galleries.json](./360914-sport-shooter-the-eight-galleries.json) |
+| Sport Soup | 339055 | [339055-sport-soup.json](./339055-sport-soup.json) |
 | Sport Sport | 92893 | [92893-sport-sport.json](./92893-sport-sport.json) |
 | Sport Vii | 246219 | [246219-sport-vii.json](./246219-sport-vii.json) |
 | Sport Vii | 358825 | [358825-sport-vii.json](./358825-sport-vii.json) |
@@ -22038,6 +22041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint Cars Road to Knoxville | 15791 | [15791-sprint-cars-road-to-knoxville.json](./15791-sprint-cars-road-to-knoxville.json) |
 | Sprint City | 384167 | [384167-sprint-city.json](./384167-sprint-city.json) |
 | Sprint Daytona Duel for Nascar HD | 106831 | [106831-sprint-daytona-duel-for-nascar-hd.json](./106831-sprint-daytona-duel-for-nascar-hd.json) |
+| Sprint for Survival | 339056 | [339056-sprint-for-survival.json](./339056-sprint-for-survival.json) |
 | Sprint Journey | 217809 | [217809-sprint-journey.json](./217809-sprint-journey.json) |
 | Sprint Journey: Nitro | 216143 | [216143-sprint-journey-nitro.json](./216143-sprint-journey-nitro.json) |
 | Sprint Master | 18423 | [18423-sprint-master.json](./18423-sprint-master.json) |
@@ -24468,6 +24472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars Link | 234511 | [234511-stars-link.json](./234511-stars-link.json) |
 | Stars of Icarus | 348306 | [348306-stars-of-icarus.json](./348306-stars-of-icarus.json) |
 | Stars of Prey VR | 370990 | [370990-stars-of-prey-vr.json](./370990-stars-of-prey-vr.json) |
+| Stars of Reincarnation | 339025 | [339025-stars-of-reincarnation.json](./339025-stars-of-reincarnation.json) |
 | Stars of the Beast 2 | 300259 | [300259-stars-of-the-beast-2.json](./300259-stars-of-the-beast-2.json) |
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
 | Stars Shooter | 245301 | [245301-stars-shooter.json](./245301-stars-shooter.json) |
