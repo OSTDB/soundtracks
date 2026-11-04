@@ -5674,7 +5674,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9580,6 +9579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metazooa | 280703 | [280703-metazooa.json](./280703-metazooa.json) |
 | Metele Al Ordenata | 228548 | [228548-metele-al-ordenata.json](./228548-metele-al-ordenata.json) |
 | Metempsychosis | 104052 | [104052-metempsychosis.json](./104052-metempsychosis.json) |
+| Metempsychosis | 344266 | [344266-metempsychosis.json](./344266-metempsychosis.json) |
 | Meteo Planet | 311058 | [311058-meteo-planet.json](./311058-meteo-planet.json) |
 | MeteoHeroes | 192795 | [192795-meteoheroes.json](./192795-meteoheroes.json) |
 | Meteolife | 350212 | [350212-meteolife.json](./350212-meteolife.json) |
@@ -9715,6 +9715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Simulator | 154904 | [154904-metro-simulator.json](./154904-metro-simulator.json) |
 | Metro Simulator 2 | 192002 | [192002-metro-simulator-2.json](./192002-metro-simulator-2.json) |
 | Metro Simulator: 'Oka' Liveries Pack | 344137 | [344137-metro-simulator-oka-liveries-pack.json](./344137-metro-simulator-oka-liveries-pack.json) |
+| Metro Simulator: 'Russia' Liveries Pack | 344136 | [344136-metro-simulator-russia-liveries-pack.json](./344136-metro-simulator-russia-liveries-pack.json) |
 | Metro Survival: Zombie Hunter | 174873 | [174873-metro-survival-zombie-hunter.json](./174873-metro-survival-zombie-hunter.json) |
 | Metro Trip Simulator | 404772 | [404772-metro-trip-simulator.json](./404772-metro-trip-simulator.json) |
 | Metro Warp | 19030 | [19030-metro-warp.json](./19030-metro-warp.json) |
@@ -21246,6 +21247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mython Island | 141840 | [141840-mython-island.json](./141840-mython-island.json) |
 | Mythopolis | 419971 | [419971-mythopolis.json](./419971-mythopolis.json) |
 | Mythos | 199265 | [199265-mythos.json](./199265-mythos.json) |
+| Mythos Dash | 344124 | [344124-mythos-dash.json](./344124-mythos-dash.json) |
 | Mythos Ever After: A Cthulhu Dating Sim | 171431 | [171431-mythos-ever-after-a-cthulhu-dating-sim.json](./171431-mythos-ever-after-a-cthulhu-dating-sim.json) |
 | Mythos Ever After: A Cthulhu Dating Sim RX | 153221 | [153221-mythos-ever-after-a-cthulhu-dating-sim-rx.json](./153221-mythos-ever-after-a-cthulhu-dating-sim-rx.json) |
 | Mythos Interactive Game Collection | 341355 | [341355-mythos-interactive-game-collection.json](./341355-mythos-interactive-game-collection.json) |
