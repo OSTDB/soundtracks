@@ -6375,6 +6375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonheart: Hunters | 110905 | [110905-demonheart-hunters.json](./110905-demonheart-hunters.json) |
 | Demonheart: The Ice Demon | 212049 | [212049-demonheart-the-ice-demon.json](./212049-demonheart-the-ice-demon.json) |
 | Demonia | 41810 | [41810-demonia.json](./41810-demonia.json) |
+| Demonia City | 315154 | [315154-demonia-city.json](./315154-demonia-city.json) |
 | Demoniac TV | 291524 | [291524-demoniac-tv.json](./291524-demoniac-tv.json) |
 | Demoniaca: Everlasting Night | 121311 | [121311-demoniaca-everlasting-night.json](./121311-demoniaca-everlasting-night.json) |
 | Demoniak | 12044 | [12044-demoniak.json](./12044-demoniak.json) |
