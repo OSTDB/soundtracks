@@ -7558,6 +7558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Airports | 68057 | [68057-world-airports.json](./68057-world-airports.json) |
 | World Airports | 68069 | [68069-world-airports.json](./68069-world-airports.json) |
 | World Airports 2 | 68068 | [68068-world-airports-2.json](./68068-world-airports-2.json) |
+| World Alone: Dreampools | 346328 | [346328-world-alone-dreampools.json](./346328-world-alone-dreampools.json) |
 | World Annihilation Operations Parts I-IV | 235069 | [235069-world-annihilation-operations-parts-i-iv.json](./235069-world-annihilation-operations-parts-i-iv.json) |
 | World Apart | 98546 | [98546-world-apart.json](./98546-world-apart.json) |
 | World At Arms | 106268 | [106268-world-at-arms.json](./106268-world-at-arms.json) |
