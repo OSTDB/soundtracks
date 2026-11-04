@@ -3037,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tease and Please: Charlotte Edition | 367297 | [367297-tease-and-please-charlotte-edition.json](./367297-tease-and-please-charlotte-edition.json) |
 | Teasing Master Takagi-san VR: 1st Semester | 160134 | [160134-teasing-master-takagi-san-vr-1st-semester.json](./160134-teasing-master-takagi-san-vr-1st-semester.json) |
 | Teasing Master Takagi-san VR: 2nd Semester | 188882 | [188882-teasing-master-takagi-san-vr-2nd-semester.json](./188882-teasing-master-takagi-san-vr-2nd-semester.json) |
+| Teatime Samurai | 336829 | [336829-teatime-samurai.json](./336829-teatime-samurai.json) |
 | Teatime with a Vampire | 301375 | [301375-teatime-with-a-vampire.json](./301375-teatime-with-a-vampire.json) |
 | Teazle | 78412 | [78412-teazle.json](./78412-teazle.json) |
 | Teazle 2 | 206609 | [206609-teazle-2.json](./206609-teazle-2.json) |
@@ -5296,6 +5297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventure of Natsuki Hinomiya | 390289 | [390289-the-adventure-of-natsuki-hinomiya.json](./390289-the-adventure-of-natsuki-hinomiya.json) |
 | The Adventure of Nayu | 142651 | [142651-the-adventure-of-nayu.json](./142651-the-adventure-of-nayu.json) |
 | The Adventure of Ninomae Ina'nis | 321522 | [321522-the-adventure-of-ninomae-inanis.json](./321522-the-adventure-of-ninomae-inanis.json) |
+| The Adventure of Pixi: The 3 Stones | 336828 | [336828-the-adventure-of-pixi-the-3-stones.json](./336828-the-adventure-of-pixi-the-3-stones.json) |
 | The Adventure of Popo | 309948 | [309948-the-adventure-of-popo.json](./309948-the-adventure-of-popo.json) |
 | The Adventure of Ravi 'n' Navi | 180982 | [180982-the-adventure-of-ravi-n-navi.json](./180982-the-adventure-of-ravi-n-navi.json) |
 | The Adventure Pals | 22359 | [22359-the-adventure-pals.json](./22359-the-adventure-pals.json) |
@@ -11971,6 +11973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Evil | 110892 | [110892-the-legend-of-evil.json](./110892-the-legend-of-evil.json) |
 | The Legend of Excalipurr | 28892 | [28892-the-legend-of-excalipurr.json](./28892-the-legend-of-excalipurr.json) |
 | The Legend of Ezra Raymond Squirrel | 331774 | [331774-the-legend-of-ezra-raymond-squirrel.json](./331774-the-legend-of-ezra-raymond-squirrel.json) |
+| The Legend of Fartacus | 336847 | [336847-the-legend-of-fartacus.json](./336847-the-legend-of-fartacus.json) |
 | The Legend of Fatinha | 415846 | [415846-the-legend-of-fatinha.json](./415846-the-legend-of-fatinha.json) |
 | The Legend of Faty | 100557 | [100557-the-legend-of-faty.json](./100557-the-legend-of-faty.json) |
 | The Legend of Fidex | 145606 | [145606-the-legend-of-fidex.json](./145606-the-legend-of-fidex.json) |
@@ -19413,6 +19416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thistlemine | 219411 | [219411-thistlemine.json](./219411-thistlemine.json) |
 | Thnt | 204331 | [204331-thnt.json](./204331-thnt.json) |
 | THO Simulator | 188086 | [188086-tho-simulator.json](./188086-tho-simulator.json) |
+| Thoko | 336825 | [336825-thoko.json](./336825-thoko.json) |
 | Thomas & Friends Minis | 95887 | [95887-thomas-and-friends-minis.json](./95887-thomas-and-friends-minis.json) |
 | Thomas & Friends: A Day at the Races | 2590 | [2590-thomas-and-friends-a-day-at-the-races.json](./2590-thomas-and-friends-a-day-at-the-races.json) |
 | Thomas & Friends: Building the New Line | 23780 | [23780-thomas-and-friends-building-the-new-line.json](./23780-thomas-and-friends-building-the-new-line.json) |
@@ -19650,6 +19654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Verses | 298289 | [298289-three-verses.json](./298289-three-verses.json) |
 | Three Weeks in Paradise | 30218 | [30218-three-weeks-in-paradise.json](./30218-three-weeks-in-paradise.json) |
 | Three Weeks on the Atlantic | 409372 | [409372-three-weeks-on-the-atlantic.json](./409372-three-weeks-on-the-atlantic.json) |
+| Three Wishes | 336821 | [336821-three-wishes.json](./336821-three-wishes.json) |
 | Three Wonders | 6980 | [6980-three-wonders.json](./6980-three-wonders.json) |
 | Three-Card Trick | 55952 | [55952-three-card-trick.json](./55952-three-card-trick.json) |
 | Three's a Crowd | 417459 | [417459-threes-a-crowd.json](./417459-threes-a-crowd.json) |
