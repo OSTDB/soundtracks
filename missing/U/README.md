@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima Online: Kingdom Reborn | 72898 | [72898-ultima-online-kingdom-reborn.json](./72898-ultima-online-kingdom-reborn.json) |
 | Ultima Online: Lord Blackthorn's Revenge | 78563 | [78563-ultima-online-lord-blackthorns-revenge.json](./78563-ultima-online-lord-blackthorns-revenge.json) |
 | Ultima Online: Mondain's Legacy | 78562 | [78562-ultima-online-mondains-legacy.json](./78562-ultima-online-mondains-legacy.json) |
+| Ultima Online: Outlands | 321240 | [321240-ultima-online-outlands.json](./321240-ultima-online-outlands.json) |
 | Ultima Online: Renaissance | 78564 | [78564-ultima-online-renaissance.json](./78564-ultima-online-renaissance.json) |
 | Ultima Online: Samurai Empire | 70160 | [70160-ultima-online-samurai-empire.json](./70160-ultima-online-samurai-empire.json) |
 | Ultima Online: Stygian Abyss | 68226 | [68226-ultima-online-stygian-abyss.json](./68226-ultima-online-stygian-abyss.json) |
