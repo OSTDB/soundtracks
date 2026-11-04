@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Vs Moon | 63206 | [63206-earth-vs-moon.json](./63206-earth-vs-moon.json) |
 | Earth vs. Mars | 333779 | [333779-earth-vs-mars.json](./333779-earth-vs-mars.json) |
 | Earth Warrior | 155853 | [155853-earth-warrior.json](./155853-earth-warrior.json) |
+| Earth-Quack | 339586 | [339586-earth-quack.json](./339586-earth-quack.json) |
 | Earth, Fire, And Wind | 286044 | [286044-earth-fire-and-wind.json](./286044-earth-fire-and-wind.json) |
 | Earth: Revival | 215230 | [215230-earth-revival.json](./215230-earth-revival.json) |
 | Earth's Center of Gravity | 209667 | [209667-earths-center-of-gravity.json](./209667-earths-center-of-gravity.json) |
@@ -405,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EarthBound Zero Remake | 324007 | [324007-earthbound-zero-remake.json](./324007-earthbound-zero-remake.json) |
 | Earthbound: Randomizer | 362795 | [362795-earthbound-randomizer.json](./362795-earthbound-randomizer.json) |
 | Earthbreakers | 126458 | [126458-earthbreakers.json](./126458-earthbreakers.json) |
+| EarthClicker | 339585 | [339585-earthclicker.json](./339585-earthclicker.json) |
 | EarthCraft 2: World Exploration & Survival | 99705 | [99705-earthcraft-2-world-exploration-and-survival.json](./99705-earthcraft-2-world-exploration-and-survival.json) |
 | Earthfall | 27186 | [27186-earthfall.json](./27186-earthfall.json) |
 | Earthfall: Alien Horde | 122651 | [122651-earthfall-alien-horde.json](./122651-earthfall-alien-horde.json) |
@@ -617,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat or Eaten | 364223 | [364223-eat-or-eaten.json](./364223-eat-or-eaten.json) |
 | Eat or Fight | 314950 | [314950-eat-or-fight.json](./314950-eat-or-fight.json) |
 | Eat Sheep & Die | 179546 | [179546-eat-sheep-and-die.json](./179546-eat-sheep-and-die.json) |
+| Eat That Ice Cream | 339587 | [339587-eat-that-ice-cream.json](./339587-eat-that-ice-cream.json) |
 | Eat the Fish 2016 | 90680 | [90680-eat-the-fish-2016.json](./90680-eat-the-fish-2016.json) |
 | Eat the Rich | 176802 | [176802-eat-the-rich.json](./176802-eat-the-rich.json) |
 | Eat the Rich | 285024 | [285024-eat-the-rich.json](./285024-eat-the-rich.json) |
@@ -740,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo | 19448 | [19448-echo.json](./19448-echo.json) |
 | Echo | 201975 | [201975-echo.json](./201975-echo.json) |
 | Echo | 245135 | [245135-echo.json](./245135-echo.json) |
+| Echo | 339590 | [339590-echo.json](./339590-echo.json) |
 | Echo | 388923 | [388923-echo.json](./388923-echo.json) |
 | Echo | 388934 | [388934-echo.json](./388934-echo.json) |
 | Echo | 84104 | [84104-echo.json](./84104-echo.json) |
@@ -865,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Light: Child of the Balance | 351795 | [351795-echoes-of-light-child-of-the-balance.json](./351795-echoes-of-light-child-of-the-balance.json) |
 | Echoes of Lyra | 418541 | [418541-echoes-of-lyra.json](./418541-echoes-of-lyra.json) |
 | Echoes of Madness | 270538 | [270538-echoes-of-madness.json](./270538-echoes-of-madness.json) |
+| Echoes of Madness: The Hawthorne Case | 339588 | [339588-echoes-of-madness-the-hawthorne-case.json](./339588-echoes-of-madness-the-hawthorne-case.json) |
 | Echoes of Magic | 194024 | [194024-echoes-of-magic.json](./194024-echoes-of-magic.json) |
 | Echoes of Mana | 174178 | [174178-echoes-of-mana.json](./174178-echoes-of-mana.json) |
 | Echoes of Mayhem | 197207 | [197207-echoes-of-mayhem.json](./197207-echoes-of-mayhem.json) |
@@ -905,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Hive | 373523 | [373523-echoes-of-the-hive.json](./373523-echoes-of-the-hive.json) |
 | Echoes of the Hollow | 393635 | [393635-echoes-of-the-hollow.json](./393635-echoes-of-the-hollow.json) |
 | Echoes of the House | 318867 | [318867-echoes-of-the-house.json](./318867-echoes-of-the-house.json) |
+| Echoes of the Iron Prison | 339589 | [339589-echoes-of-the-iron-prison.json](./339589-echoes-of-the-iron-prison.json) |
 | Echoes of the Living | 235038 | [235038-echoes-of-the-living.json](./235038-echoes-of-the-living.json) |
 | Echoes of the Museum | 402321 | [402321-echoes-of-the-museum.json](./402321-echoes-of-the-museum.json) |
 | Echoes of the Past | 168391 | [168391-echoes-of-the-past.json](./168391-echoes-of-the-past.json) |
@@ -2605,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ellipsis | 19862 | [19862-ellipsis.json](./19862-ellipsis.json) |
 | Ellisar | 197072 | [197072-ellisar.json](./197072-ellisar.json) |
 | Ellixir's Dream | 348376 | [348376-ellixirs-dream.json](./348376-ellixirs-dream.json) |
+| Ellphaser | 339550 | [339550-ellphaser.json](./339550-ellphaser.json) |
 | EllrLand | 229801 | [229801-ellrland.json](./229801-ellrland.json) |
 | Ellrland Tales | 234459 | [234459-ellrland-tales.json](./234459-ellrland-tales.json) |
 | Ells Tales: Chairbound | 358388 | [358388-ells-tales-chairbound.json](./358388-ells-tales-chairbound.json) |
@@ -6465,6 +6472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ever End | 105019 | [105019-ever-end.json](./105019-ever-end.json) |
 | Ever Fallen Empire | 189947 | [189947-ever-fallen-empire.json](./189947-ever-fallen-empire.json) |
 | Ever Forward | 132328 | [132328-ever-forward.json](./132328-ever-forward.json) |
+| Ever Green | 339707 | [339707-ever-green.json](./339707-ever-green.json) |
 | Ever Lasting Joy | 51527 | [51527-ever-lasting-joy.json](./51527-ever-lasting-joy.json) |
 | Ever Legion | 231954 | [231954-ever-legion.json](./231954-ever-legion.json) |
 | Ever Maiden: Daraku no Sono no Otome-tachi | 249497 | [249497-ever-maiden-daraku-no-sono-no-otome-tachi.json](./249497-ever-maiden-daraku-no-sono-no-otome-tachi.json) |
