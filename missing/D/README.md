@@ -10521,6 +10521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distraint Collection | 186910 | [186910-distraint-collection.json](./186910-distraint-collection.json) |
 | Distraint: Deluxe Edition | 100761 | [100761-distraint-deluxe-edition.json](./100761-distraint-deluxe-edition.json) |
 | Distraint: Pocket Pixel Horror | 134442 | [134442-distraint-pocket-pixel-horror.json](./134442-distraint-pocket-pixel-horror.json) |
+| Distraught | 306305 | [306305-distraught.json](./306305-distraught.json) |
 | Distress | 202245 | [202245-distress.json](./202245-distress.json) |
 | Distress | 217673 | [217673-distress.json](./217673-distress.json) |
 | Distress Signal | 178640 | [178640-distress-signal.json](./178640-distress-signal.json) |
@@ -11926,6 +11927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don Quixote: A Dream in Seven Crystals | 273124 | [273124-don-quixote-a-dream-in-seven-crystals.json](./273124-don-quixote-a-dream-in-seven-crystals.json) |
 | Don-Chan Puzzle: Hanabi de Don | 309598 | [309598-don-chan-puzzle-hanabi-de-don.json](./309598-don-chan-puzzle-hanabi-de-don.json) |
 | Don't Ask Succubus | 173822 | [173822-dont-ask-succubus.json](./173822-dont-ask-succubus.json) |
+| Don't Be a Hero | 306295 | [306295-dont-be-a-hero.json](./306295-dont-be-a-hero.json) |
 | Don't Be Afraid | 80904 | [80904-dont-be-afraid.json](./80904-dont-be-afraid.json) |
 | Don't Be Afraid 2 | 287825 | [287825-dont-be-afraid-2.json](./287825-dont-be-afraid-2.json) |
 | Don't Be Afraid: The First Toy | 198068 | [198068-dont-be-afraid-the-first-toy.json](./198068-dont-be-afraid-the-first-toy.json) |
