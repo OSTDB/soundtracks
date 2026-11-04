@@ -728,6 +728,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xeyyex | 288458 | [288458-xeyyex.json](./288458-xeyyex.json) |
 | Xeyyex II: Colour Wars | 337925 | [337925-xeyyex-ii-colour-wars.json](./337925-xeyyex-ii-colour-wars.json) |
 | Xezi: Story Mode | 23861 | [23861-xezi-story-mode.json](./23861-xezi-story-mode.json) |
+| XF Drive | 321100 | [321100-xf-drive.json](./321100-xf-drive.json) |
+| XF Racing Institute | 321101 | [321101-xf-racing-institute.json](./321101-xf-racing-institute.json) |
 | XF: Football Arena | 193869 | [193869-xf-football-arena.json](./193869-xf-football-arena.json) |
 | XF5700 Mantis Experimental Fighter | 93316 | [93316-xf5700-mantis-experimental-fighter.json](./93316-xf5700-mantis-experimental-fighter.json) |
 | XF5700 Mantis Experimental Fighter: Speech Pack | 137497 | [137497-xf5700-mantis-experimental-fighter-speech-pack.json](./137497-xf5700-mantis-experimental-fighter-speech-pack.json) |
