@@ -4258,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cate West: The Velvet Keys | 200491 | [200491-cate-west-the-velvet-keys.json](./200491-cate-west-the-velvet-keys.json) |
 | Catechesis | 276693 | [276693-catechesis.json](./276693-catechesis.json) |
 | Catechumen | 84468 | [84468-catechumen.json](./84468-catechumen.json) |
+| Categories | 324648 | [324648-categories.json](./324648-categories.json) |
 | Category 6 | 292445 | [292445-category-6.json](./292445-category-6.json) |
 | Category Challenge | 246955 | [246955-category-challenge.json](./246955-category-challenge.json) |
 | Category I: Shisenjou no Survivor | 218981 | [218981-category-i-shisenjou-no-survivor.json](./218981-category-i-shisenjou-no-survivor.json) |
@@ -7532,6 +7533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Chop Together | 392147 | [392147-chop-chop-together.json](./392147-chop-chop-together.json) |
 | Chop It | 100925 | [100925-chop-it.json](./100925-chop-it.json) |
 | Chop It Down | 359135 | [359135-chop-it-down.json](./359135-chop-it-down.json) |
+| Chop Shop | 324659 | [324659-chop-shop.json](./324659-chop-shop.json) |
 | Chop Signal | 389455 | [389455-chop-signal.json](./389455-chop-signal.json) |
 | Chop Suey | 234212 | [234212-chop-suey.json](./234212-chop-suey.json) |
 | Chop Suey | 47297 | [47297-chop-suey.json](./47297-chop-suey.json) |
@@ -7613,6 +7615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chosen Angels | 255998 | [255998-chosen-angels.json](./255998-chosen-angels.json) |
 | Chosen Anyway: Card Game | 404958 | [404958-chosen-anyway-card-game.json](./404958-chosen-anyway-card-game.json) |
 | Chosen By Odin | 415124 | [415124-chosen-by-odin.json](./415124-chosen-by-odin.json) |
+| Chosen Card Chronicles | 324622 | [324622-chosen-card-chronicles.json](./324622-chosen-card-chronicles.json) |
 | Chosen Dice | 212302 | [212302-chosen-dice.json](./212302-chosen-dice.json) |
 | Chosen of God | 321383 | [321383-chosen-of-god.json](./321383-chosen-of-god.json) |
 | Chosen War | 333353 | [333353-chosen-war.json](./333353-chosen-war.json) |
