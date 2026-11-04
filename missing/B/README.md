@@ -1816,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bana Simulator | 252984 | [252984-bana-simulator.json](./252984-bana-simulator.json) |
 | Banality Wars Carridin | 167538 | [167538-banality-wars-carridin.json](./167538-banality-wars-carridin.json) |
 | Banan Abanan | 417658 | [417658-banan-abanan.json](./417658-banan-abanan.json) |
+| Banan'em Up! | 337404 | [337404-bananem-up.json](./337404-bananem-up.json) |
 | Banan's Peel Out | 422155 | [422155-banans-peel-out.json](./422155-banans-peel-out.json) |
 | Banana | 296808 | [296808-banana.json](./296808-banana.json) |
 | Banana | 305277 | [305277-banana.json](./305277-banana.json) |
@@ -5794,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Resignation | 239688 | [239688-before-resignation.json](./239688-before-resignation.json) |
 | Before She’s Gone | 386177 | [386177-before-she-s-gone.json](./386177-before-she-s-gone.json) |
 | Before Sunset | 211446 | [211446-before-sunset.json](./211446-before-sunset.json) |
+| Before the Ash | 337365 | [337365-before-the-ash.json](./337365-before-the-ash.json) |
 | Before the Battery's Over | 148986 | [148986-before-the-batterys-over.json](./148986-before-the-batterys-over.json) |
 | Before the Blood | 93790 | [93790-before-the-blood.json](./93790-before-the-blood.json) |
 | Before the Dawn | 235362 | [235362-before-the-dawn.json](./235362-before-the-dawn.json) |
