@@ -2756,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HavenFlower: Regrets Of | 380219 | [380219-havenflower-regrets-of.json](./380219-havenflower-regrets-of.json) |
 | Havenhold | 204445 | [204445-havenhold.json](./204445-havenhold.json) |
 | Havenview | 219814 | [219814-havenview.json](./219814-havenview.json) |
+| Havker-Man X | 346331 | [346331-havker-man-x.json](./346331-havker-man-x.json) |
 | Havoc | 13873 | [13873-havoc.json](./13873-havoc.json) |
 | Havoc | 219238 | [219238-havoc.json](./219238-havoc.json) |
 | Havoc Fox | 215099 | [215099-havoc-fox.json](./215099-havoc-fox.json) |
@@ -2862,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazard Run | 25805 | [25805-hazard-run.json](./25805-hazard-run.json) |
 | Hazard Versus | 353393 | [353393-hazard-versus.json](./353393-hazard-versus.json) |
 | Hazard Voyage | 420491 | [420491-hazard-voyage.json](./420491-hazard-voyage.json) |
+| Hazard: Let Us Out! | 346336 | [346336-hazard-let-us-out.json](./346336-hazard-let-us-out.json) |
 | Hazardous Chemicals | 273227 | [273227-hazardous-chemicals.json](./273227-hazardous-chemicals.json) |
 | Hazardous Hunt | 345822 | [345822-hazardous-hunt.json](./345822-hazardous-hunt.json) |
 | Hazardous island | 304915 | [304915-hazardous-island.json](./304915-hazardous-island.json) |
@@ -7018,6 +7020,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Tomatoes | 326783 | [326783-hidden-tomatoes.json](./326783-hidden-tomatoes.json) |
 | Hidden Tomatoes 2 | 328860 | [328860-hidden-tomatoes-2.json](./328860-hidden-tomatoes-2.json) |
 | Hidden Tomatoes 3 | 330784 | [330784-hidden-tomatoes-3.json](./330784-hidden-tomatoes-3.json) |
+| Hidden Tomatoes 4 | 346358 | [346358-hidden-tomatoes-4.json](./346358-hidden-tomatoes-4.json) |
+| Hidden Tomatoes: Farm Frenzy | 346359 | [346359-hidden-tomatoes-farm-frenzy.json](./346359-hidden-tomatoes-farm-frenzy.json) |
 | Hidden Town | 189010 | [189010-hidden-town.json](./189010-hidden-town.json) |
 | Hidden Treasures in the Forest of Dreams | 182327 | [182327-hidden-treasures-in-the-forest-of-dreams.json](./182327-hidden-treasures-in-the-forest-of-dreams.json) |
 | Hidden Valley | 70825 | [70825-hidden-valley.json](./70825-hidden-valley.json) |
@@ -10944,6 +10948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huaxia: Warring States | 314435 | [314435-huaxia-warring-states.json](./314435-huaxia-warring-states.json) |
 | Hub of Pain | 268912 | [268912-hub-of-pain.json](./268912-hub-of-pain.json) |
 | Hube: Seeker of Achievements | 100435 | [100435-hube-seeker-of-achievements.json](./100435-hube-seeker-of-achievements.json) |
+| Hubert | 346482 | [346482-hubert.json](./346482-hubert.json) |
 | Hubert Catching | 411109 | [411109-hubert-catching.json](./411109-hubert-catching.json) |
 | Hubert the Teddy Bear: Holiday Island | 68089 | [68089-hubert-the-teddy-bear-holiday-island.json](./68089-hubert-the-teddy-bear-holiday-island.json) |
 | Hubert's Island Adventure: Mouse o' War | 33807 | [33807-huberts-island-adventure-mouse-o-war.json](./33807-huberts-island-adventure-mouse-o-war.json) |
@@ -11436,6 +11441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunted Dream House | 75668 | [75668-hunted-dream-house.json](./75668-hunted-dream-house.json) |
 | Hunted Hunter | 369709 | [369709-hunted-hunter.json](./369709-hunted-hunter.json) |
 | Hunted Within: The Metro | 390207 | [390207-hunted-within-the-metro.json](./390207-hunted-within-the-metro.json) |
+| Hunted Within: The Walls | 346351 | [346351-hunted-within-the-walls.json](./346351-hunted-within-the-walls.json) |
 | Hunted: Kalevala | 235889 | [235889-hunted-kalevala.json](./235889-hunted-kalevala.json) |
 | Hunted: Kobayashi Tower | 160082 | [160082-hunted-kobayashi-tower.json](./160082-hunted-kobayashi-tower.json) |
 | Hunted: One Step Too Far | 25874 | [25874-hunted-one-step-too-far.json](./25874-hunted-one-step-too-far.json) |
