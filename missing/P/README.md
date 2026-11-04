@@ -2593,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Saboteurs | 25313 | [25313-party-saboteurs.json](./25313-party-saboteurs.json) |
 | Party Saboteurs: After Party | 130364 | [130364-party-saboteurs-after-party.json](./130364-party-saboteurs-after-party.json) |
 | Party Shift | 236454 | [236454-party-shift.json](./236454-party-shift.json) |
+| Party Spirits | 324625 | [324625-party-spirits.json](./324625-party-spirits.json) |
 | Party Stars | 309181 | [309181-party-stars.json](./309181-party-stars.json) |
 | Party Talk Simulator | 183232 | [183232-party-talk-simulator.json](./183232-party-talk-simulator.json) |
 | Party Treats | 125055 | [125055-party-treats.json](./125055-party-treats.json) |
@@ -14325,6 +14326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisoner Breaker | 372485 | [372485-prisoner-breaker.json](./372485-prisoner-breaker.json) |
 | Prisoner of Ice | 1605 | [1605-prisoner-of-ice.json](./1605-prisoner-of-ice.json) |
 | Prisoner of the Ephemeral Kingdom | 374741 | [374741-prisoner-of-the-ephemeral-kingdom.json](./374741-prisoner-of-the-ephemeral-kingdom.json) |
+| Prisoner of the Mist | 324653 | [324653-prisoner-of-the-mist.json](./324653-prisoner-of-the-mist.json) |
 | Prisoner of War | 131867 | [131867-prisoner-of-war.json](./131867-prisoner-of-war.json) |
 | Prisoner of War | 5990 | [5990-prisoner-of-war.json](./5990-prisoner-of-war.json) |
 | Prisoner: The Mystery Complex | 122243 | [122243-prisoner-the-mystery-complex.json](./122243-prisoner-the-mystery-complex.json) |
@@ -16167,6 +16169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proxima B | 391708 | [391708-proxima-b.json](./391708-proxima-b.json) |
 | Proxima Centauri b | 176622 | [176622-proxima-centauri-b.json](./176622-proxima-centauri-b.json) |
 | Proximate | 282108 | [282108-proximate.json](./282108-proximate.json) |
+| Proximity | 324643 | [324643-proximity.json](./324643-proximity.json) |
 | Proximity Shift | 283795 | [283795-proximity-shift.json](./283795-proximity-shift.json) |
 | Proxy Adventure: Simulation Room | 346748 | [346748-proxy-adventure-simulation-room.json](./346748-proxy-adventure-simulation-room.json) |
 | Proxy Air Force | 133108 | [133108-proxy-air-force.json](./133108-proxy-air-force.json) |
@@ -16899,6 +16902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pup Boy Cowboy: Infinite Desert Edition | 410443 | [410443-pup-boy-cowboy-infinite-desert-edition.json](./410443-pup-boy-cowboy-infinite-desert-edition.json) |
 | Pup Breeder | 165411 | [165411-pup-breeder.json](./165411-pup-breeder.json) |
 | Pup Champs | 295616 | [295616-pup-champs.json](./295616-pup-champs.json) |
+| Pup Cup | 324639 | [324639-pup-cup.json](./324639-pup-cup.json) |
 | Pup Panick! | 318697 | [318697-pup-panick.json](./318697-pup-panick.json) |
 | Pup Rummy | 89818 | [89818-pup-rummy.json](./89818-pup-rummy.json) |
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
@@ -17168,6 +17172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrfect Catch | 377190 | [377190-purrfect-catch.json](./377190-purrfect-catch.json) |
 | Purrfect Collection | 330409 | [330409-purrfect-collection.json](./330409-purrfect-collection.json) |
 | Purrfect Date | 54634 | [54634-purrfect-date.json](./54634-purrfect-date.json) |
+| Purrfect Frenzy | 324618 | [324618-purrfect-frenzy.json](./324618-purrfect-frenzy.json) |
 | Purrfect Pet Shop | 209376 | [209376-purrfect-pet-shop.json](./209376-purrfect-pet-shop.json) |
 | Purrfect Rescue | 279259 | [279259-purrfect-rescue.json](./279259-purrfect-rescue.json) |
 | Purrfect Spirits | 112249 | [112249-purrfect-spirits.json](./112249-purrfect-spirits.json) |
