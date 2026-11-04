@@ -5148,6 +5148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repressed Gamer | 180436 | [180436-repressed-gamer.json](./180436-repressed-gamer.json) |
 | Reprisal | 94143 | [94143-reprisal.json](./94143-reprisal.json) |
 | Reprisal Universe | 8871 | [8871-reprisal-universe.json](./8871-reprisal-universe.json) |
+| Reproach | 306915 | [306915-reproach.json](./306915-reproach.json) |
 | Reprobate | 230173 | [230173-reprobate.json](./230173-reprobate.json) |
 | Reprobate | 395731 | [395731-reprobate.json](./395731-reprobate.json) |
 | Reprocessing | 399250 | [399250-reprocessing.json](./399250-reprocessing.json) |
@@ -6318,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge: Rhobar's myth | 17864 | [17864-revenge-rhobars-myth.json](./17864-revenge-rhobars-myth.json) |
 | Revengeful Ghost | 351518 | [351518-revengeful-ghost.json](./351518-revengeful-ghost.json) |
 | Revenger | 164983 | [164983-revenger.json](./164983-revenger.json) |
+| Revenger 84 | 306862 | [306862-revenger-84.json](./306862-revenger-84.json) |
 | Revenger Origin | 413450 | [413450-revenger-origin.json](./413450-revenger-origin.json) |
 | Revenger: Age of Morons | 89980 | [89980-revenger-age-of-morons.json](./89980-revenger-age-of-morons.json) |
 | Revenger3 | 403349 | [403349-revenger3.json](./403349-revenger3.json) |
@@ -8286,6 +8288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Fame | 54326 | [54326-road-to-fame.json](./54326-road-to-fame.json) |
 | Road to Glory | 416572 | [416572-road-to-glory.json](./416572-road-to-glory.json) |
 | Road to Guangdong | 114520 | [114520-road-to-guangdong.json](./114520-road-to-guangdong.json) |
+| Road to Hades | 306867 | [306867-road-to-hades.json](./306867-road-to-hades.json) |
 | Road To Heaven | 400566 | [400566-road-to-heaven.json](./400566-road-to-heaven.json) |
 | Road to Jonin! The 3-Choice Ninja Quiz | 406060 | [406060-road-to-jonin-the-3-choice-ninja-quiz.json](./406060-road-to-jonin-the-3-choice-ninja-quiz.json) |
 | Road to Jukai | 380485 | [380485-road-to-jukai.json](./380485-road-to-jukai.json) |
@@ -10741,6 +10744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rootbound | 335047 | [335047-rootbound.json](./335047-rootbound.json) |
 | Rooted | 194616 | [194616-rooted.json](./194616-rooted.json) |
 | Rooten | 155659 | [155659-rooten.json](./155659-rooten.json) |
+| Rootin' Tootin' | 306913 | [306913-rootin-tootin.json](./306913-rootin-tootin.json) |
 | RootKeeper | 258396 | [258396-rootkeeper.json](./258396-rootkeeper.json) |
 | Rootlash | 189300 | [189300-rootlash.json](./189300-rootlash.json) |
 | Rootless | 183036 | [183036-rootless.json](./183036-rootless.json) |
@@ -12690,6 +12694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Vein | 411714 | [411714-rusty-vein.json](./411714-rusty-vein.json) |
 | Rusty Wind Blows | 177969 | [177969-rusty-wind-blows.json](./177969-rusty-wind-blows.json) |
 | Rusty Winter | 370688 | [370688-rusty-winter.json](./370688-rusty-winter.json) |
+| Rusty: Island Survival Pro | 306876 | [306876-rusty-island-survival-pro.json](./306876-rusty-island-survival-pro.json) |
 | Rusty's Adventure | 365257 | [365257-rustys-adventure.json](./365257-rustys-adventure.json) |
 | Rusty's Day Off: Episode One - Janitor on Duty | 249225 | [249225-rustys-day-off-episode-one-janitor-on-duty.json](./249225-rustys-day-off-episode-one-janitor-on-duty.json) |
 | Rusty's Real Deal Baseball: Bat & Switch | 258715 | [258715-rustys-real-deal-baseball-bat-and-switch.json](./258715-rustys-real-deal-baseball-bat-and-switch.json) |
