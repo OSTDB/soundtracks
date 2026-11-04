@@ -2183,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn Chess | 240066 | [240066-learn-chess.json](./240066-learn-chess.json) |
 | Learn Colors Shapes Preschool Games for Kids Games | 232169 | [232169-learn-colors-shapes-preschool-games-for-kids-games.json](./232169-learn-colors-shapes-preschool-games-for-kids-games.json) |
 | Learn Geography | 47904 | [47904-learn-geography.json](./47904-learn-geography.json) |
+| Learn Hangul!! | 310368 | [310368-learn-hangul.json](./310368-learn-hangul.json) |
 | Learn Hiragana!! | 228052 | [228052-learn-hiragana.json](./228052-learn-hiragana.json) |
 | Learn Japanese Kana & Vocab with Sushi | 368886 | [368886-learn-japanese-kana-and-vocab-with-sushi.json](./368886-learn-japanese-kana-and-vocab-with-sushi.json) |
 | Learn Japanese RPG: Hiragana Forbidden Speech | 204153 | [204153-learn-japanese-rpg-hiragana-forbidden-speech.json](./204153-learn-japanese-rpg-hiragana-forbidden-speech.json) |
@@ -4489,6 +4490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifo Harvester | 55237 | [55237-lifo-harvester.json](./55237-lifo-harvester.json) |
 | Lift | 403390 | [403390-lift.json](./403390-lift.json) |
 | Lift | 422790 | [422790-lift.json](./422790-lift.json) |
+| Lift Attendant | 310333 | [310333-lift-attendant.json](./310333-lift-attendant.json) |
 | Lift Up | 397072 | [397072-lift-up.json](./397072-lift-up.json) |
 | Lift Your Spirits | 225797 | [225797-lift-your-spirits.json](./225797-lift-your-spirits.json) |
 | Lift: The Last Days of The Westwind | 291904 | [291904-lift-the-last-days-of-the-westwind.json](./291904-lift-the-last-days-of-the-westwind.json) |
