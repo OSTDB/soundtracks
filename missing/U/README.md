@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Protector | 215679 | [215679-ultimate-protector.json](./215679-ultimate-protector.json) |
 | Ultimate Puzzle Adventure: Dogs | 309058 | [309058-ultimate-puzzle-adventure-dogs.json](./309058-ultimate-puzzle-adventure-dogs.json) |
 | Ultimate Puzzle Adventure: Kitties | 308614 | [308614-ultimate-puzzle-adventure-kitties.json](./308614-ultimate-puzzle-adventure-kitties.json) |
+| Ultimate Puzzle Adventure: Robots | 309285 | [309285-ultimate-puzzle-adventure-robots.json](./309285-ultimate-puzzle-adventure-robots.json) |
 | Ultimate Puzzle Games | 49287 | [49287-ultimate-puzzle-games.json](./49287-ultimate-puzzle-games.json) |
 | Ultimate Puzzle Games: Sudoku Edition | 124111 | [124111-ultimate-puzzle-games-sudoku-edition.json](./124111-ultimate-puzzle-games-sudoku-edition.json) |
 | Ultimate Puzzles 1500 | 53940 | [53940-ultimate-puzzles-1500.json](./53940-ultimate-puzzles-1500.json) |
@@ -1530,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under a Rock | 211912 | [211912-under-a-rock.json](./211912-under-a-rock.json) |
 | Under a Star Called Sun | 135632 | [135632-under-a-star-called-sun.json](./135632-under-a-star-called-sun.json) |
 | Under A Star Long Cold | 284847 | [284847-under-a-star-long-cold.json](./284847-under-a-star-long-cold.json) |
+| Under A Stone Blanket | 309277 | [309277-under-a-stone-blanket.json](./309277-under-a-stone-blanket.json) |
 | Under a Tree with Cherry Blossoms: Love with One's Back | 303300 | [303300-under-a-tree-with-cherry-blossoms-love-with-ones-back.json](./303300-under-a-tree-with-cherry-blossoms-love-with-ones-back.json) |
 | Under Ash | 74100 | [74100-under-ash.json](./74100-under-ash.json) |
 | Under Canopies | 301087 | [301087-under-canopies.json](./301087-under-canopies.json) |
