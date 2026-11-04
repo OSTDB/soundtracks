@@ -5283,6 +5283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room Super Bundle | 295471 | [295471-escape-room-super-bundle.json](./295471-escape-room-super-bundle.json) |
 | Escape Room that Moon Night | 219948 | [219948-escape-room-that-moon-night.json](./219948-escape-room-that-moon-night.json) |
 | Escape Room Ultimate Bundle | 306493 | [306493-escape-room-ultimate-bundle.json](./306493-escape-room-ultimate-bundle.json) |
+| Escape Room Ultimate Duo | 330407 | [330407-escape-room-ultimate-duo.json](./330407-escape-room-ultimate-duo.json) |
 | Escape Room Ultimate Trilogy | 332333 | [332333-escape-room-ultimate-trilogy.json](./332333-escape-room-ultimate-trilogy.json) |
 | Escape Room VR | 128340 | [128340-escape-room-vr.json](./128340-escape-room-vr.json) |
 | Escape Room VR: Inner Voices | 135724 | [135724-escape-room-vr-inner-voices.json](./135724-escape-room-vr-inner-voices.json) |
@@ -7674,6 +7675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploration: Light | 269987 | [269987-exploration-light.json](./269987-exploration-light.json) |
 | Explore | 246441 | [246441-explore.json](./246441-explore.json) |
 | Explore | 259720 | [259720-explore.json](./259720-explore.json) |
+| Explore Another World Bundle | 330431 | [330431-explore-another-world-bundle.json](./330431-explore-another-world-bundle.json) |
 | Explore Fish Feeding and Grow | 88983 | [88983-explore-fish-feeding-and-grow.json](./88983-explore-fish-feeding-and-grow.json) |
 | Explore Fushimi Inari | 120567 | [120567-explore-fushimi-inari.json](./120567-explore-fushimi-inari.json) |
 | Explore Inc | 179030 | [179030-explore-inc.json](./179030-explore-inc.json) |
