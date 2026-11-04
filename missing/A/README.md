@@ -4433,6 +4433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Booty: Tactics | 61332 | [61332-age-of-booty-tactics.json](./61332-age-of-booty-tactics.json) |
 | Age of Cards: Ra's Chess | 140837 | [140837-age-of-cards-ras-chess.json](./140837-age-of-cards-ras-chess.json) |
 | Age of Castles | 319975 | [319975-age-of-castles.json](./319975-age-of-castles.json) |
+| Age of Castles: Snake War | 299342 | [299342-age-of-castles-snake-war.json](./299342-age-of-castles-snake-war.json) |
 | Age of Castles: Warlords | 35183 | [35183-age-of-castles-warlords.json](./35183-age-of-castles-warlords.json) |
 | Age of Chaos | 231979 | [231979-age-of-chaos.json](./231979-age-of-chaos.json) |
 | Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
@@ -10768,6 +10769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antichrist | 393525 | [393525-antichrist.json](./393525-antichrist.json) |
 | Antichromatic | 112323 | [112323-antichromatic.json](./112323-antichromatic.json) |
 | Anticipating Murder | 316768 | [316768-anticipating-murder.json](./316768-anticipating-murder.json) |
+| AnticLove | 299423 | [299423-anticlove.json](./299423-anticlove.json) |
 | Antidote | 114720 | [114720-antidote.json](./114720-antidote.json) |
 | Antidote | 170819 | [170819-antidote.json](./170819-antidote.json) |
 | Antidote | 422526 | [422526-antidote.json](./422526-antidote.json) |
