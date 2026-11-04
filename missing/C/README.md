@@ -13964,6 +13964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copperfields | 264588 | [264588-copperfields.json](./264588-copperfields.json) |
 | Coppy Tour | 369693 | [369693-coppy-tour.json](./369693-coppy-tour.json) |
 | Cops | 307344 | [307344-cops.json](./307344-cops.json) |
+| Cops | 321871 | [321871-cops.json](./321871-cops.json) |
 | Cops and Robbers Fight | 105917 | [105917-cops-and-robbers-fight.json](./105917-cops-and-robbers-fight.json) |
 | Cops and Robbers! | 251506 | [251506-cops-and-robbers.json](./251506-cops-and-robbers.json) |
 | Cops Kissing Each Other | 118078 | [118078-cops-kissing-each-other.json](./118078-cops-kissing-each-other.json) |
@@ -15623,6 +15624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot: Warped - Collector's Edition | 43682 | [43682-crash-bandicoot-warped-collectors-edition.json](./43682-crash-bandicoot-warped-collectors-edition.json) |
 | Crash Bash | 1195 | [1195-crash-bash.json](./1195-crash-bash.json) |
 | Crash Bash Live! | 138993 | [138993-crash-bash-live.json](./138993-crash-bash-live.json) |
+| Crash Bash Remake | 321921 | [321921-crash-bash-remake.json](./321921-crash-bash-remake.json) |
 | Crash Bash: Collector's Edition | 45212 | [45212-crash-bash-collectors-edition.json](./45212-crash-bash-collectors-edition.json) |
 | Crash Birds | 256198 | [256198-crash-birds.json](./256198-crash-birds.json) |
 | Crash Boom Bang! | 1196 | [1196-crash-boom-bang.json](./1196-crash-boom-bang.json) |
@@ -19029,6 +19031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Clouds 64 | 415299 | [415299-cursed-clouds-64.json](./415299-cursed-clouds-64.json) |
 | Cursed Coins | 56247 | [56247-cursed-coins.json](./56247-cursed-coins.json) |
 | Cursed Colors | 214962 | [214962-cursed-colors.json](./214962-cursed-colors.json) |
+| Cursed Companions | 321893 | [321893-cursed-companions.json](./321893-cursed-companions.json) |
 | Cursed Conundrum | 320910 | [320910-cursed-conundrum.json](./320910-cursed-conundrum.json) |
 | Cursed Core | 398045 | [398045-cursed-core.json](./398045-cursed-core.json) |
 | Cursed Cove | 337056 | [337056-cursed-cove.json](./337056-cursed-cove.json) |
