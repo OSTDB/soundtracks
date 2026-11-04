@@ -2563,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Collection | 364100 | [364100-farming-collection.json](./364100-farming-collection.json) |
 | Farming Engine | 151070 | [151070-farming-engine.json](./151070-farming-engine.json) |
 | Farming Fever | 234148 | [234148-farming-fever.json](./234148-farming-fever.json) |
+| Farming Harvester Simulator 2025: Deluxe Edition | 324206 | [324206-farming-harvester-simulator-2025-deluxe-edition.json](./324206-farming-harvester-simulator-2025-deluxe-edition.json) |
 | Farming Homestead | 411570 | [411570-farming-homestead.json](./411570-farming-homestead.json) |
 | Farming Isles | 340060 | [340060-farming-isles.json](./340060-farming-isles.json) |
 | Farming Life 40 | 371208 | [371208-farming-life-40.json](./371208-farming-life-40.json) |
@@ -5210,6 +5211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find All Things: Christmas | 361059 | [361059-find-all-things-christmas.json](./361059-find-all-things-christmas.json) |
 | Find All: Bunker | 337499 | [337499-find-all-bunker.json](./337499-find-all-bunker.json) |
 | Find All: Bunker - Extra Level | 345512 | [345512-find-all-bunker-extra-level.json](./345512-find-all-bunker-extra-level.json) |
+| Find All: Christmas | 324240 | [324240-find-all-christmas.json](./324240-find-all-christmas.json) |
 | Find All: Christmas 2025 - Extra Level | 382724 | [382724-find-all-christmas-2025-extra-level.json](./382724-find-all-christmas-2025-extra-level.json) |
 | Find All: Valentine's Day | 388766 | [388766-find-all-valentines-day.json](./388766-find-all-valentines-day.json) |
 | Find Brains | 304704 | [304704-find-brains.json](./304704-find-brains.json) |
@@ -5241,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find it! Mr. Pict of the Emergency Exit | 222229 | [222229-find-it-mr-pict-of-the-emergency-exit.json](./222229-find-it-mr-pict-of-the-emergency-exit.json) |
 | Find It! World Heritage Adventure | 376235 | [376235-find-it-world-heritage-adventure.json](./376235-find-it-world-heritage-adventure.json) |
 | Find Kittens 10: Valentines Day | 389710 | [389710-find-kittens-10-valentines-day.json](./389710-find-kittens-10-valentines-day.json) |
+| Find Kittens 2: Crafts | 324237 | [324237-find-kittens-2-crafts.json](./324237-find-kittens-2-crafts.json) |
 | Find Kittens 3: Steampunk | 337519 | [337519-find-kittens-3-steampunk.json](./337519-find-kittens-3-steampunk.json) |
 | Find Kittens 4: Aetherpunk | 358948 | [358948-find-kittens-4-aetherpunk.json](./358948-find-kittens-4-aetherpunk.json) |
 | Find Kittens 6: After Us | 373351 | [373351-find-kittens-6-after-us.json](./373351-find-kittens-6-after-us.json) |
@@ -5279,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Shape | 421325 | [421325-find-shape.json](./421325-find-shape.json) |
 | Find someone else | 95237 | [95237-find-someone-else.json](./95237-find-someone-else.json) |
 | Find Sort Match | 358351 | [358351-find-sort-match.json](./358351-find-sort-match.json) |
+| Find Squidward | 324069 | [324069-find-squidward.json](./324069-find-squidward.json) |
 | Find Teddy | 78519 | [78519-find-teddy.json](./78519-find-teddy.json) |
 | Find the Alien | 214325 | [214325-find-the-alien.json](./214325-find-the-alien.json) |
 | Find The Backdoor | 290493 | [290493-find-the-backdoor.json](./290493-find-the-backdoor.json) |
