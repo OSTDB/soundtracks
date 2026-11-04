@@ -1690,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cappuccino Assassino Shooter | 350189 | [350189-cappuccino-assassino-shooter.json](./350189-cappuccino-assassino-shooter.json) |
 | Cappuccino: The Refill | 271781 | [271781-cappuccino-the-refill.json](./271781-cappuccino-the-refill.json) |
 | Cappuchino Spoontforce Deluxe VI: Girl of the Boiling Fury | 181872 | [181872-cappuchino-spoontforce-deluxe-vi-girl-of-the-boiling-fury.json](./181872-cappuchino-spoontforce-deluxe-vi-girl-of-the-boiling-fury.json) |
+| Capri Care | 328137 | [328137-capri-care.json](./328137-capri-care.json) |
 | Capria: Magic of the Elements | 33142 | [33142-capria-magic-of-the-elements.json](./33142-capria-magic-of-the-elements.json) |
 | Capricious | 183824 | [183824-capricious.json](./183824-capricious.json) |
 | Capsa | 68694 | [68694-capsa.json](./68694-capsa.json) |
@@ -17515,6 +17516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruise Ship Tycoon | 50394 | [50394-cruise-ship-tycoon.json](./50394-cruise-ship-tycoon.json) |
 | Cruise Ships Manager | 218698 | [218698-cruise-ships-manager.json](./218698-cruise-ships-manager.json) |
 | Cruise Tycoon HD | 99137 | [99137-cruise-tycoon-hd.json](./99137-cruise-tycoon-hd.json) |
+| CruiSim | 328136 | [328136-cruisim.json](./328136-cruisim.json) |
 | Cruising on Broadway | 14020 | [14020-cruising-on-broadway.json](./14020-cruising-on-broadway.json) |
 | Crumble | 117054 | [117054-crumble.json](./117054-crumble.json) |
 | Crumble Party! | 339341 | [339341-crumble-party.json](./339341-crumble-party.json) |
@@ -18644,6 +18646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culinary Construct | 397217 | [397217-culinary-construct.json](./397217-culinary-construct.json) |
 | Culinary Cooking Master Simulator | 300860 | [300860-culinary-cooking-master-simulator.json](./300860-culinary-cooking-master-simulator.json) |
 | Culinary Survivors | 264676 | [264676-culinary-survivors.json](./264676-culinary-survivors.json) |
+| Culinary Tour | 328120 | [328120-culinary-tour.json](./328120-culinary-tour.json) |
 | Culinary Wizard | 351528 | [351528-culinary-wizard.json](./351528-culinary-wizard.json) |
 | Culino | 174221 | [174221-culino.json](./174221-culino.json) |
 | Cull the Gods | 185487 | [185487-cull-the-gods.json](./185487-cull-the-gods.json) |
