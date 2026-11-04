@@ -3523,6 +3523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi MAD NES | 323823 | [323823-mario-and-luigi-mad-nes.json](./323823-mario-and-luigi-mad-nes.json) |
 | Mario & Luigi Sokoban | 349855 | [349855-mario-and-luigi-sokoban.json](./349855-mario-and-luigi-sokoban.json) |
 | Mario & Luigi vs. The Furbies | 323179 | [323179-mario-and-luigi-vs-the-furbies.json](./323179-mario-and-luigi-vs-the-furbies.json) |
+| Mario & Luigi: 4 Party | 323057 | [323057-mario-and-luigi-4-party.json](./323057-mario-and-luigi-4-party.json) |
 | Mario & Luigi: Bowser's Inside Story | 270315 | [270315-mario-and-luigi-bowsers-inside-story.json](./270315-mario-and-luigi-bowsers-inside-story.json) |
 | Mario & Luigi: Bowser's Inside Story | 3363 | [3363-mario-and-luigi-bowsers-inside-story.json](./3363-mario-and-luigi-bowsers-inside-story.json) |
 | Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey | 90113 | [90113-mario-and-luigi-bowsers-inside-story-bowser-jr-s-journey.json](./90113-mario-and-luigi-bowsers-inside-story-bowser-jr-s-journey.json) |
@@ -4043,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Time Machine | 210116 | [210116-marios-time-machine.json](./210116-marios-time-machine.json) |
 | Mario's Time Machine | 210225 | [210225-marios-time-machine.json](./210225-marios-time-machine.json) |
 | Mario's Time Machine DX | 323825 | [323825-marios-time-machine-dx.json](./323825-marios-time-machine-dx.json) |
+| Mario's Timeless Picross | 323055 | [323055-marios-timeless-picross.json](./323055-marios-timeless-picross.json) |
 | Mario's Timeship Battle | 318041 | [318041-marios-timeship-battle.json](./318041-marios-timeship-battle.json) |
 | Mario's Vacation Course 64 | 155018 | [155018-marios-vacation-course-64.json](./155018-marios-vacation-course-64.json) |
 | Mario/Rabbids Crossover Adventure Game | 231477 | [231477-mario-rabbids-crossover-adventure-game.json](./231477-mario-rabbids-crossover-adventure-game.json) |
@@ -5707,7 +5709,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9796,6 +9797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Doom | 324011 | [324011-metroid-doom.json](./324011-metroid-doom.json) |
 | Metroid Dread | 15698 | [15698-metroid-dread.json](./15698-metroid-dread.json) |
 | Metroid Dread | 233651 | [233651-metroid-dread.json](./233651-metroid-dread.json) |
+| Metroid Dread | 323061 | [323061-metroid-dread.json](./323061-metroid-dread.json) |
 | Metroid Dread Demake | 195336 | [195336-metroid-dread-demake.json](./195336-metroid-dread-demake.json) |
 | Metroid Dread: Special Edition | 153646 | [153646-metroid-dread-special-edition.json](./153646-metroid-dread-special-edition.json) |
 | Metroid Dreadnought | 142221 | [142221-metroid-dreadnought.json](./142221-metroid-dreadnought.json) |
@@ -9832,6 +9834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Ravenous | 408719 | [408719-metroid-ravenous.json](./408719-metroid-ravenous.json) |
 | Metroid Ravenous: Special Edition | 418230 | [418230-metroid-ravenous-special-edition.json](./418230-metroid-ravenous-special-edition.json) |
 | Metroid Redemption | 134629 | [134629-metroid-redemption.json](./134629-metroid-redemption.json) |
+| Metroid Remix | 323087 | [323087-metroid-remix.json](./323087-metroid-remix.json) |
 | Metroid RPG: Kilo Squadron​ | 323036 | [323036-metroid-rpg-kilo-squadron.json](./323036-metroid-rpg-kilo-squadron.json) |
 | Metroid SNES | 377749 | [377749-metroid-snes.json](./377749-metroid-snes.json) |
 | Metroid Spooky Mission 2: The Nightmare Before Christmas | 213826 | [213826-metroid-spooky-mission-2-the-nightmare-before-christmas.json](./213826-metroid-spooky-mission-2-the-nightmare-before-christmas.json) |
