@@ -2742,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastel Putter | 218409 | [218409-pastel-putter.json](./218409-pastel-putter.json) |
 | Pastel x Pastels | 229490 | [229490-pastel-x-pastels.json](./229490-pastel-x-pastels.json) |
 | Pastelia Stories | 32434 | [32434-pastelia-stories.json](./32434-pastelia-stories.json) |
+| Pasteman Pat | 301549 | [301549-pasteman-pat.json](./301549-pasteman-pat.json) |
 | Pastfinder | 24667 | [24667-pastfinder.json](./24667-pastfinder.json) |
 | Pastimes | 415198 | [415198-pastimes.json](./415198-pastimes.json) |
 | Pastimes - Game Box | 105822 | [105822-pastimes-game-box.json](./105822-pastimes-game-box.json) |
@@ -4891,6 +4892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pettson's Inventions 3 | 56887 | [56887-pettsons-inventions-3.json](./56887-pettsons-inventions-3.json) |
 | Pettson's Inventions 4 | 352523 | [352523-pettsons-inventions-4.json](./352523-pettsons-inventions-4.json) |
 | Pettsons julspel | 286111 | [286111-pettsons-julspel.json](./286111-pettsons-julspel.json) |
+| Petty Officer | 301468 | [301468-petty-officer.json](./301468-petty-officer.json) |
 | Petty Ungodliness | 411757 | [411757-petty-ungodliness.json](./411757-petty-ungodliness.json) |
 | Petty's Adventure: Desert | 218838 | [218838-pettys-adventure-desert.json](./218838-pettys-adventure-desert.json) |
 | Petualangan DivineKids | 275160 | [275160-petualangan-divinekids.json](./275160-petualangan-divinekids.json) |
@@ -9470,6 +9472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playable Mockup | 245387 | [245387-playable-mockup.json](./245387-playable-mockup.json) |
 | PlayAgain 2: The Golden Legend | 367482 | [367482-playagain-2-the-golden-legend.json](./367482-playagain-2-the-golden-legend.json) |
 | Playback '94: Episode 1 - Post Office | 407410 | [407410-playback-94-episode-1-post-office.json](./407410-playback-94-episode-1-post-office.json) |
+| Playback Loop | 301444 | [301444-playback-loop.json](./301444-playback-loop.json) |
 | Playback Trauma: In Sickness | 212955 | [212955-playback-trauma-in-sickness.json](./212955-playback-trauma-in-sickness.json) |
 | Playback Trauma: The Beach | 159888 | [159888-playback-trauma-the-beach.json](./159888-playback-trauma-the-beach.json) |
 | Playback Trauma: The Dog | 311078 | [311078-playback-trauma-the-dog.json](./311078-playback-trauma-the-dog.json) |
@@ -18115,6 +18118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuzzleScriptMis | 312684 | [312684-puzzlescriptmis.json](./312684-puzzlescriptmis.json) |
 | PuzzlesO | 425837 | [425837-puzzleso.json](./425837-puzzleso.json) |
 | PuzzleSpin: Patterns in Nature | 98572 | [98572-puzzlespin-patterns-in-nature.json](./98572-puzzlespin-patterns-in-nature.json) |
+| PuzzleStones | 301555 | [301555-puzzlestones.json](./301555-puzzlestones.json) |
 | Puzzlestuck | 352313 | [352313-puzzlestuck.json](./352313-puzzlestuck.json) |
 | PuzzleTales: Svalbard | 120202 | [120202-puzzletales-svalbard.json](./120202-puzzletales-svalbard.json) |
 | PuzzleTiles | 106953 | [106953-puzzletiles.json](./106953-puzzletiles.json) |
