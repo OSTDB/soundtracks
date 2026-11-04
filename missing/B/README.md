@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3803,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Titans | 125849 | [125849-battle-of-titans.json](./125849-battle-of-titans.json) |
 | Battle of Vicksburg | 100829 | [100829-battle-of-vicksburg.json](./100829-battle-of-vicksburg.json) |
 | Battle of Warplanes: Air War | 87531 | [87531-battle-of-warplanes-air-war.json](./87531-battle-of-warplanes-air-war.json) |
+| Battle Of Witches | 331075 | [331075-battle-of-witches.json](./331075-battle-of-witches.json) |
 | Battle of Words | 269081 | [269081-battle-of-words.json](./269081-battle-of-words.json) |
 | Battle of Worldviews | 105240 | [105240-battle-of-worldviews.json](./105240-battle-of-worldviews.json) |
 | Battle of Zodiacs | 247703 | [247703-battle-of-zodiacs.json](./247703-battle-of-zodiacs.json) |
@@ -5870,6 +5872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind Nowhere | 105403 | [105403-behind-nowhere.json](./105403-behind-nowhere.json) |
 | Behind Stars and Under Hills | 110015 | [110015-behind-stars-and-under-hills.json](./110015-behind-stars-and-under-hills.json) |
 | Behind The Backrooms | 310245 | [310245-behind-the-backrooms.json](./310245-behind-the-backrooms.json) |
+| Behind The Backrooms: Lost Levels | 331065 | [331065-behind-the-backrooms-lost-levels.json](./331065-behind-the-backrooms-lost-levels.json) |
 | Behind the Beyond | 113361 | [113361-behind-the-beyond.json](./113361-behind-the-beyond.json) |
 | Behind the Beyond | 176908 | [176908-behind-the-beyond.json](./176908-behind-the-beyond.json) |
 | Behind The Beyond | 344424 | [344424-behind-the-beyond.json](./344424-behind-the-beyond.json) |
@@ -6391,6 +6394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berry | 193250 | [193250-berry.json](./193250-berry.json) |
 | Berry Barrel Blitz | 302766 | [302766-berry-barrel-blitz.json](./302766-berry-barrel-blitz.json) |
 | Berry Bash | 301055 | [301055-berry-bash.json](./301055-berry-bash.json) |
+| Berry Berry Festival | 331199 | [331199-berry-berry-festival.json](./331199-berry-berry-festival.json) |
 | Berry Berry Mew Mew | 289359 | [289359-berry-berry-mew-mew.json](./289359-berry-berry-mew-mew.json) |
 | Berry Brother | 257662 | [257662-berry-brother.json](./257662-berry-brother.json) |
 | Berry Couple | 334799 | [334799-berry-couple.json](./334799-berry-couple.json) |
@@ -8289,6 +8293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Shashinkan II: Moving School | 41378 | [41378-bishoujo-shashinkan-ii-moving-school.json](./41378-bishoujo-shashinkan-ii-moving-school.json) |
 | Bishoujo Shashinkan Part III: Photo Club - Kyoufu no Kan Hen | 67385 | [67385-bishoujo-shashinkan-part-iii-photo-club-kyoufu-no-kan-hen.json](./67385-bishoujo-shashinkan-part-iii-photo-club-kyoufu-no-kan-hen.json) |
 | Bishoujo Shashinkan Special: Double Vision | 67384 | [67384-bishoujo-shashinkan-special-double-vision.json](./67384-bishoujo-shashinkan-special-double-vision.json) |
+| Bishoujo Super Street Fighter II: Glamor Queen | 331061 | [331061-bishoujo-super-street-fighter-ii-glamor-queen.json](./331061-bishoujo-super-street-fighter-ii-glamor-queen.json) |
 | Bishoujo Tennis | 372962 | [372962-bishoujo-tennis.json](./372962-bishoujo-tennis.json) |
 | Bishoujo Variety Game: Rapyulus Panic | 45416 | [45416-bishoujo-variety-game-rapyulus-panic.json](./45416-bishoujo-variety-game-rapyulus-panic.json) |
 | Bishoujo Wrestler Retsuden: Blizzard Yuki Rannyuu!! | 38275 | [38275-bishoujo-wrestler-retsuden-blizzard-yuki-rannyuu.json](./38275-bishoujo-wrestler-retsuden-blizzard-yuki-rannyuu.json) |
@@ -15285,6 +15290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brok the Investigator: The Brawl Bar | 304428 | [304428-brok-the-investigator-the-brawl-bar.json](./304428-brok-the-investigator-the-brawl-bar.json) |
 | Brok: Natal Tail, A New Christmas | 325648 | [325648-brok-natal-tail-a-new-christmas.json](./325648-brok-natal-tail-a-new-christmas.json) |
 | Brok: Natal Tail, A New Christmas - Special | 380711 | [380711-brok-natal-tail-a-new-christmas-special.json](./380711-brok-natal-tail-a-new-christmas-special.json) |
+| Broke Alchemist Emma's Debt Repayment Plan | 331045 | [331045-broke-alchemist-emmas-debt-repayment-plan.json](./331045-broke-alchemist-emmas-debt-repayment-plan.json) |
 | Broke Brodie | 362856 | [362856-broke-brodie.json](./362856-broke-brodie.json) |
 | Broke Girl | 118423 | [118423-broke-girl.json](./118423-broke-girl.json) |
 | Broke in Isekai | 310925 | [310925-broke-in-isekai.json](./310925-broke-in-isekai.json) |
