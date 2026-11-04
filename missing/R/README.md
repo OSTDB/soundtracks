@@ -4390,6 +4390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refuge For Troubles: Episode 1 - Dear Stranger | 171566 | [171566-refuge-for-troubles-episode-1-dear-stranger.json](./171566-refuge-for-troubles-episode-1-dear-stranger.json) |
 | Refuge of Embers | 236129 | [236129-refuge-of-embers.json](./236129-refuge-of-embers.json) |
 | Refugee: The Second Hearing | 253772 | [253772-refugee-the-second-hearing.json](./253772-refugee-the-second-hearing.json) |
+| Refugees: Shelter | 312779 | [312779-refugees-shelter.json](./312779-refugees-shelter.json) |
 | Refugity | 194172 | [194172-refugity.json](./194172-refugity.json) |
 | Refunct | 13542 | [13542-refunct.json](./13542-refunct.json) |
 | Refund Me If You Can | 204074 | [204074-refund-me-if-you-can.json](./204074-refund-me-if-you-can.json) |
@@ -4487,6 +4488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign Down | 280348 | [280348-reign-down.json](./280348-reign-down.json) |
 | Reign of Amira: The Lost Kingdom | 38996 | [38996-reign-of-amira-the-lost-kingdom.json](./38996-reign-of-amira-the-lost-kingdom.json) |
 | Reign of Bullets | 35604 | [35604-reign-of-bullets.json](./35604-reign-of-bullets.json) |
+| Reign of Cats | 312774 | [312774-reign-of-cats.json](./312774-reign-of-cats.json) |
 | Reign of Darkness | 126974 | [126974-reign-of-darkness.json](./126974-reign-of-darkness.json) |
 | Reign of Dwarf | 207622 | [207622-reign-of-dwarf.json](./207622-reign-of-dwarf.json) |
 | Reign of Fire | 248461 | [248461-reign-of-fire.json](./248461-reign-of-fire.json) |
@@ -6978,6 +6980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddles of the Past | 32090 | [32090-riddles-of-the-past.json](./32090-riddles-of-the-past.json) |
 | Riddles with Sir Connery | 314497 | [314497-riddles-with-sir-connery.json](./314497-riddles-with-sir-connery.json) |
 | RiddleWood | 392274 | [392274-riddlewood.json](./392274-riddlewood.json) |
+| Riddlewood Manor | 312786 | [312786-riddlewood-manor.json](./312786-riddlewood-manor.json) |
 | Riddlord: The Consequence | 81688 | [81688-riddlord-the-consequence.json](./81688-riddlord-the-consequence.json) |
 | Ride | 183311 | [183311-ride.json](./183311-ride.json) |
 | Ride | 20047 | [20047-ride.json](./20047-ride.json) |
@@ -10018,6 +10021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolie Polie Olie: The Search for Spot | 209366 | [209366-rolie-polie-olie-the-search-for-spot.json](./209366-rolie-polie-olie-the-search-for-spot.json) |
 | Rolisteam | 54897 | [54897-rolisteam.json](./54897-rolisteam.json) |
 | Roll | 147455 | [147455-roll.json](./147455-roll.json) |
+| Roll | 312812 | [312812-roll.json](./312812-roll.json) |
 | Roll 'n Bounce | 389482 | [389482-roll-n-bounce.json](./389482-roll-n-bounce.json) |
 | Roll & Ball | 260523 | [260523-roll-and-ball.json](./260523-roll-and-ball.json) |
 | Roll & Risk | 392193 | [392193-roll-and-risk.json](./392193-roll-and-risk.json) |
