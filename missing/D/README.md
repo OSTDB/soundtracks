@@ -5213,6 +5213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Banana | 130217 | [130217-deep-space-banana.json](./130217-deep-space-banana.json) |
 | Deep Space Battle Simulator | 119616 | [119616-deep-space-battle-simulator.json](./119616-deep-space-battle-simulator.json) |
 | Deep Space Bellhop | 339652 | [339652-deep-space-bellhop.json](./339652-deep-space-bellhop.json) |
+| Deep Space Cache | 318883 | [318883-deep-space-cache.json](./318883-deep-space-cache.json) |
 | Deep Space Corridor | 350013 | [350013-deep-space-corridor.json](./350013-deep-space-corridor.json) |
 | Deep Space Dapper Squad | 306199 | [306199-deep-space-dapper-squad.json](./306199-deep-space-dapper-squad.json) |
 | Deep Space Dash | 32339 | [32339-deep-space-dash.json](./32339-deep-space-dash.json) |
@@ -10473,6 +10474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distorted world | 157030 | [157030-distorted-world.json](./157030-distorted-world.json) |
 | Distorted: Night Shift Anomalies | 420693 | [420693-distorted-night-shift-anomalies.json](./420693-distorted-night-shift-anomalies.json) |
 | Distorted: The Living Manor | 395640 | [395640-distorted-the-living-manor.json](./395640-distorted-the-living-manor.json) |
+| DistortedCode: Seija no Nokoriga | 318893 | [318893-distortedcode-seija-no-nokoriga.json](./318893-distortedcode-seija-no-nokoriga.json) |
 | Distortion Nation | 135048 | [135048-distortion-nation.json](./135048-distortion-nation.json) |
 | Distraction Machine | 204226 | [204226-distraction-machine.json](./204226-distraction-machine.json) |
 | Distractor | 347986 | [347986-distractor.json](./347986-distractor.json) |
@@ -16289,6 +16291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Adventure | 301836 | [301836-drone-adventure.json](./301836-drone-adventure.json) |
 | Drone Arsenal | 391736 | [391736-drone-arsenal.json](./391736-drone-arsenal.json) |
 | Drone Attack Spy Drone Games | 303263 | [303263-drone-attack-spy-drone-games.json](./303263-drone-attack-spy-drone-games.json) |
+| Drone Attack: Pig Irruption | 318901 | [318901-drone-attack-pig-irruption.json](./318901-drone-attack-pig-irruption.json) |
 | Drone Attack! | 124707 | [124707-drone-attack.json](./124707-drone-attack.json) |
 | Drone Battle: Cats | 188237 | [188237-drone-battle-cats.json](./188237-drone-battle-cats.json) |
 | Drone Break | 292765 | [292765-drone-break.json](./292765-drone-break.json) |
