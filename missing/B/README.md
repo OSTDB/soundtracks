@@ -942,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5544,6 +5545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beavers Be Dammed | 81704 | [81704-beavers-be-dammed.json](./81704-beavers-be-dammed.json) |
 | Beavers in the Stream | 422061 | [422061-beavers-in-the-stream.json](./422061-beavers-in-the-stream.json) |
 | Beavertale | 403519 | [403519-beavertale.json](./403519-beavertale.json) |
+| Beavis And Butt-Head In Quest To Score | 316303 | [316303-beavis-and-butt-head-in-quest-to-score.json](./316303-beavis-and-butt-head-in-quest-to-score.json) |
 | Beavis and Butt-head: Wiener Take All | 8460 | [8460-beavis-and-butt-head-wiener-take-all.json](./8460-beavis-and-butt-head-wiener-take-all.json) |
 | Beavus | 407779 | [407779-beavus.json](./407779-beavus.json) |
 | BeBalance | 412729 | [412729-bebalance.json](./412729-bebalance.json) |
@@ -13641,6 +13643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowmen | 277383 | [277383-bowmen.json](./277383-bowmen.json) |
 | Bows Space | 359396 | [359396-bows-space.json](./359396-bows-space.json) |
 | Bowser Blast | 307410 | [307410-bowser-blast.json](./307410-bowser-blast.json) |
+| Bowser Gets Clever: Insert Subtitle Here | 316299 | [316299-bowser-gets-clever-insert-subtitle-here.json](./316299-bowser-gets-clever-insert-subtitle-here.json) |
 | Bowser Jr: A New Beginning | 323678 | [323678-bowser-jr-a-new-beginning.json](./323678-bowser-jr-a-new-beginning.json) |
 | Bowser Jr.'s Journey | 266895 | [266895-bowser-jr-s-journey.json](./266895-bowser-jr-s-journey.json) |
 | Bowser's Dank Rave 2017 Edition: Extra Long Name That I Don't Feel Like Typing | 313330 | [313330-bowsers-dank-rave-2017-edition-extra-long-name-that-i-dont-feel-like-typing.json](./313330-bowsers-dank-rave-2017-edition-extra-long-name-that-i-dont-feel-like-typing.json) |
@@ -14301,6 +14304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Mouse Cartographer Trilogy | 139476 | [139476-brave-mouse-cartographer-trilogy.json](./139476-brave-mouse-cartographer-trilogy.json) |
 | Brave Neptunia: Hero Edition | 100356 | [100356-brave-neptunia-hero-edition.json](./100356-brave-neptunia-hero-edition.json) |
 | Brave New Wonders | 339966 | [339966-brave-new-wonders.json](./339966-brave-new-wonders.json) |
+| Brave New World 2 | 315972 | [315972-brave-new-world-2.json](./315972-brave-new-world-2.json) |
 | Brave New World I | 107737 | [107737-brave-new-world-i.json](./107737-brave-new-world-i.json) |
 | Brave Nine | 112120 | [112120-brave-nine.json](./112120-brave-nine.json) |
 | Brave Odyssea | 26976 | [26976-brave-odyssea.json](./26976-brave-odyssea.json) |
