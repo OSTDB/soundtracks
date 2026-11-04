@@ -2936,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Iterum | 380377 | [380377-ad-iterum.json](./380377-ad-iterum.json) |
 | Ad Memoriam | 309575 | [309575-ad-memoriam.json](./309575-ad-memoriam.json) |
 | Ad Mortem | 262441 | [262441-ad-mortem.json](./262441-ad-mortem.json) |
+| Ad Mortem | 340280 | [340280-ad-mortem.json](./340280-ad-mortem.json) |
 | Ad Nauseam | 304201 | [304201-ad-nauseam.json](./304201-ad-nauseam.json) |
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
 | Ad Shoot | 310244 | [310244-ad-shoot.json](./310244-ad-shoot.json) |
