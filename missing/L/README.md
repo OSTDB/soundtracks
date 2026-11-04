@@ -5981,6 +5981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Sick Girls: Momo Mitsu ha Imouto no Kaori | 415137 | [415137-little-sick-girls-momo-mitsu-ha-imouto-no-kaori.json](./415137-little-sick-girls-momo-mitsu-ha-imouto-no-kaori.json) |
 | Little Sick Girls: Osananajimi no Koibito | 415134 | [415134-little-sick-girls-osananajimi-no-koibito.json](./415134-little-sick-girls-osananajimi-no-koibito.json) |
 | Little Sim World | 140973 | [140973-little-sim-world.json](./140973-little-sim-world.json) |
+| Little Slippey | 323477 | [323477-little-slippey.json](./323477-little-slippey.json) |
 | Little Smart Planet | 81728 | [81728-little-smart-planet.json](./81728-little-smart-planet.json) |
 | Little Smiles Daycare | 395092 | [395092-little-smiles-daycare.json](./395092-little-smiles-daycare.json) |
 | Little Snatcher | 365455 | [365455-little-snatcher.json](./365455-little-snatcher.json) |
