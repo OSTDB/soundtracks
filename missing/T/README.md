@@ -9996,6 +9996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grim Nightmare of Nibras | 207792 | [207792-the-grim-nightmare-of-nibras.json](./207792-the-grim-nightmare-of-nibras.json) |
 | The Grim Outpost | 271323 | [271323-the-grim-outpost.json](./271323-the-grim-outpost.json) |
 | The Grim Reaper Who Reaped My Heart | 134642 | [134642-the-grim-reaper-who-reaped-my-heart.json](./134642-the-grim-reaper-who-reaped-my-heart.json) |
+| The Grimm Reapress and the Drearytale Monster | 335578 | [335578-the-grimm-reapress-and-the-drearytale-monster.json](./335578-the-grimm-reapress-and-the-drearytale-monster.json) |
 | The Grimoire of Alice | 134858 | [134858-the-grimoire-of-alice.json](./134858-the-grimoire-of-alice.json) |
 | The Grimsworth Reports: Woodfall | 75004 | [75004-the-grimsworth-reports-woodfall.json](./75004-the-grimsworth-reports-woodfall.json) |
 | The Grimwood Hex | 399943 | [399943-the-grimwood-hex.json](./399943-the-grimwood-hex.json) |
@@ -14660,6 +14661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Purge Club: Kyuusai! Shukusei Circle | 300843 | [300843-the-purge-club-kyuusai-shukusei-circle.json](./300843-the-purge-club-kyuusai-shukusei-circle.json) |
 | The Purge Day | 30607 | [30607-the-purge-day.json](./30607-the-purge-day.json) |
 | The Purge Man | 120315 | [120315-the-purge-man.json](./120315-the-purge-man.json) |
+| The Purging | 335564 | [335564-the-purging.json](./335564-the-purging.json) |
 | The Purification | 164892 | [164892-the-purification.json](./164892-the-purification.json) |
 | The Purity of the Surf | 71173 | [71173-the-purity-of-the-surf.json](./71173-the-purity-of-the-surf.json) |
 | The Purple Coin: Club Saturn Edition | 381765 | [381765-the-purple-coin-club-saturn-edition.json](./381765-the-purple-coin-club-saturn-edition.json) |
@@ -19013,6 +19015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Are Rising | 392135 | [392135-they-are-rising.json](./392135-they-are-rising.json) |
 | They Bite! | 288620 | [288620-they-bite.json](./288620-they-bite.json) |
 | They Bleed Pixels | 10988 | [10988-they-bleed-pixels.json](./10988-they-bleed-pixels.json) |
+| They Built a Railgun!? | 335584 | [335584-they-built-a-railgun.json](./335584-they-built-a-railgun.json) |
 | They Call Me... The Skul | 70093 | [70093-they-call-me-the-skul.json](./70093-they-call-me-the-skul.json) |
 | They Came for Blood | 410055 | [410055-they-came-for-blood.json](./410055-they-came-for-blood.json) |
 | They Came for More Pasta | 345979 | [345979-they-came-for-more-pasta.json](./345979-they-came-for-more-pasta.json) |
@@ -19548,6 +19551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threadbare | 364664 | [364664-threadbare.json](./364664-threadbare.json) |
 | Threadbound | 182979 | [182979-threadbound.json](./182979-threadbound.json) |
 | Threaded | 191001 | [191001-threaded.json](./191001-threaded.json) |
+| Threaded Dungeons | 335568 | [335568-threaded-dungeons.json](./335568-threaded-dungeons.json) |
 | Threadline | 396214 | [396214-threadline.json](./396214-threadline.json) |
 | Threads of Destiny | 33921 | [33921-threads-of-destiny.json](./33921-threads-of-destiny.json) |
 | Threads of Fate | 28402 | [28402-threads-of-fate.json](./28402-threads-of-fate.json) |
@@ -25377,6 +25381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 2 | 289029 | [289029-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-2.json](./289029-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-2.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 3 | 289032 | [289032-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-3.json](./289032-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-3.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 4 | 289035 | [289035-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-4.json](./289035-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-4.json) |
+| Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 7 | 335563 | [335563-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-7.json](./335563-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-7.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Toby Fox & ZUN "U.N. Owen Was Hero?" | 289937 | [289937-touhou-danmaku-kagura-phantasia-lost-toby-fox-and-zun-u-n-owen-was-hero.json](./289937-touhou-danmaku-kagura-phantasia-lost-toby-fox-and-zun-u-n-owen-was-hero.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Touhou Mystia's Izakaya Collab "Beneath the Purple Cherry Blossoms Once Again" | 310004 | [310004-touhou-danmaku-kagura-phantasia-lost-touhou-mystias-izakaya-collab-beneath-the-purple-cherry-blossoms-once-again.json](./310004-touhou-danmaku-kagura-phantasia-lost-touhou-mystias-izakaya-collab-beneath-the-purple-cherry-blossoms-once-again.json) |
 | Touhou Danmaku Maze | 304050 | [304050-touhou-danmaku-maze.json](./304050-touhou-danmaku-maze.json) |
@@ -25637,6 +25642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Spirits | 306041 | [306041-touhou-spirits.json](./306041-touhou-spirits.json) |
 | Touhou Suijin Kairou: Faith in the Goddess of Suwa. | 114095 | [114095-touhou-suijin-kairou-faith-in-the-goddess-of-suwa.json](./114095-touhou-suijin-kairou-faith-in-the-goddess-of-suwa.json) |
 | Touhou Tenkuushou: Hidden Star in Four Seasons | 75385 | [75385-touhou-tenkuushou-hidden-star-in-four-seasons.json](./75385-touhou-tenkuushou-hidden-star-in-four-seasons.json) |
+| Touhou Tenshiin: Celestial Examination Hall | 335571 | [335571-touhou-tenshiin-celestial-examination-hall.json](./335571-touhou-tenshiin-celestial-examination-hall.json) |
 | Touhou The Excalibur: Mystic Arena of Reversal Spirits | 314066 | [314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json](./314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json) |
 | Touhou Thousand Night Anamnesis | 197337 | [197337-touhou-thousand-night-anamnesis.json](./197337-touhou-thousand-night-anamnesis.json) |
 | Touhou Three Noisy Fairies' Adventure: Take It Easy | 373005 | [373005-touhou-three-noisy-fairies-adventure-take-it-easy.json](./373005-touhou-three-noisy-fairies-adventure-take-it-easy.json) |
@@ -26699,6 +26705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail of the Wretched | 280246 | [280246-trail-of-the-wretched.json](./280246-trail-of-the-wretched.json) |
 | Trail of Toads | 223166 | [223166-trail-of-toads.json](./223166-trail-of-toads.json) |
 | Trail Out | 188913 | [188913-trail-out.json](./188913-trail-out.json) |
+| Trail Out: Complete Edition | 335611 | [335611-trail-out-complete-edition.json](./335611-trail-out-complete-edition.json) |
 | Trail Out: Hunt 007 Special | 275001 | [275001-trail-out-hunt-007-special.json](./275001-trail-out-hunt-007-special.json) |
 | Trail Out: Legendary Cars | 255153 | [255153-trail-out-legendary-cars.json](./255153-trail-out-legendary-cars.json) |
 | Trail Out: Luxury Life | 268055 | [268055-trail-out-luxury-life.json](./268055-trail-out-luxury-life.json) |
@@ -28925,6 +28932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travellers Rest | 121967 | [121967-travellers-rest.json](./121967-travellers-rest.json) |
 | Travellers Road | 288090 | [288090-travellers-road.json](./288090-travellers-road.json) |
 | Travellers! | 108921 | [108921-travellers.json](./108921-travellers.json) |
+| Travellin Cats Bundle | 335616 | [335616-travellin-cats-bundle.json](./335616-travellin-cats-bundle.json) |
 | Travellin Cats in Christmas | 297837 | [297837-travellin-cats-in-christmas.json](./297837-travellin-cats-in-christmas.json) |
 | Travellin Cats in Jingle Jam | 273813 | [273813-travellin-cats-in-jingle-jam.json](./273813-travellin-cats-in-jingle-jam.json) |
 | Travellin Cats in Paris | 239812 | [239812-travellin-cats-in-paris.json](./239812-travellin-cats-in-paris.json) |
@@ -29167,6 +29175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trebuchet | 36086 | [36086-trebuchet.json](./36086-trebuchet.json) |
 | Trebuchet Town | 175993 | [175993-trebuchet-town.json](./175993-trebuchet-town.json) |
 | Tree | 107899 | [107899-tree.json](./107899-tree.json) |
+| Tree | 335586 | [335586-tree.json](./335586-tree.json) |
 | Tree Eater | 313654 | [313654-tree-eater.json](./313654-tree-eater.json) |
 | Tree Golf | 181662 | [181662-tree-golf.json](./181662-tree-golf.json) |
 | Tree Hole: Adventures In Wonderland | 248191 | [248191-tree-hole-adventures-in-wonderland.json](./248191-tree-hole-adventures-in-wonderland.json) |
@@ -30775,6 +30784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsumannai | 221037 | [221037-tsumannai.json](./221037-tsumannai.json) |
 | Tsumego Pro | 402323 | [402323-tsumego-pro.json](./402323-tsumego-pro.json) |
 | Tsumera | 268456 | [268456-tsumera.json](./268456-tsumera.json) |
+| Tsumi no Hikari Rendezvous | 335581 | [335581-tsumi-no-hikari-rendezvous.json](./335581-tsumi-no-hikari-rendezvous.json) |
 | Tsumiki: The Infernal Tower | 124107 | [124107-tsumiki-the-infernal-tower.json](./124107-tsumiki-the-infernal-tower.json) |
 | Tsumikui: Sen no Noroi, Sen no Inori | 222867 | [222867-tsumikui-sen-no-noroi-sen-no-inori.json](./222867-tsumikui-sen-no-noroi-sen-no-inori.json) |
 | Tsumikui: Sen no Noroi, Sen no Inori for V | 74795 | [74795-tsumikui-sen-no-noroi-sen-no-inori-for-v.json](./74795-tsumikui-sen-no-noroi-sen-no-inori-for-v.json) |
@@ -32017,6 +32027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Worlds II: Shattered Embrace | 171324 | [171324-two-worlds-ii-shattered-embrace.json](./171324-two-worlds-ii-shattered-embrace.json) |
 | Two Worlds II: Velvet Game of the Year Edition | 47473 | [47473-two-worlds-ii-velvet-game-of-the-year-edition.json](./47473-two-worlds-ii-velvet-game-of-the-year-edition.json) |
 | Two Worlds: Epic Edition | 27841 | [27841-two-worlds-epic-edition.json](./27841-two-worlds-epic-edition.json) |
+| Two Worlds: Epic Edition Complete | 335615 | [335615-two-worlds-epic-edition-complete.json](./335615-two-worlds-epic-edition-complete.json) |
 | Two Worlds: The Game of the Year Edition | 53866 | [53866-two-worlds-the-game-of-the-year-edition.json](./53866-two-worlds-the-game-of-the-year-edition.json) |
 | Two Worlds: The Temptation | 72980 | [72980-two-worlds-the-temptation.json](./72980-two-worlds-the-temptation.json) |
 | Two-Fifteen | 421438 | [421438-two-fifteen.json](./421438-two-fifteen.json) |
@@ -32073,6 +32084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tynk! and the Final Phonorecord | 194610 | [194610-tynk-and-the-final-phonorecord.json](./194610-tynk-and-the-final-phonorecord.json) |
 | Type | 95255 | [95255-type.json](./95255-type.json) |
 | Type 'n Jump | 183995 | [183995-type-n-jump.json](./183995-type-n-jump.json) |
+| Type 'n' Fish | 335601 | [335601-type-n-fish.json](./335601-type-n-fish.json) |
 | Type & Hope!! | 317364 | [317364-type-and-hope.json](./317364-type-and-hope.json) |
 | Type & Magic | 402691 | [402691-type-and-magic.json](./402691-type-and-magic.json) |
 | Type & Tell | 41579 | [41579-type-and-tell.json](./41579-type-and-tell.json) |
