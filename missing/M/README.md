@@ -5726,6 +5726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6072,6 +6073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: Path of Light - Wild Constellations | 354195 | [354195-maze-path-of-light-wild-constellations.json](./354195-maze-path-of-light-wild-constellations.json) |
 | Maze: Path of Light - Wild Edition | 368780 | [368780-maze-path-of-light-wild-edition.json](./368780-maze-path-of-light-wild-edition.json) |
 | Maze: Pedestal of Trials | 187671 | [187671-maze-pedestal-of-trials.json](./187671-maze-pedestal-of-trials.json) |
+| Maze: Rising Trials | 309306 | [309306-maze-rising-trials.json](./309306-maze-rising-trials.json) |
 | Maze: Shadow of Light | 109562 | [109562-maze-shadow-of-light.json](./109562-maze-shadow-of-light.json) |
 | Maze: Sinister Play - Collector's Edition | 170215 | [170215-maze-sinister-play-collectors-edition.json](./170215-maze-sinister-play-collectors-edition.json) |
 | Maze: Subject 360 | 140189 | [140189-maze-subject-360.json](./140189-maze-subject-360.json) |
@@ -9621,6 +9623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamorphosis | 131990 | [131990-metamorphosis.json](./131990-metamorphosis.json) |
 | Metamorphosis | 319216 | [319216-metamorphosis.json](./319216-metamorphosis.json) |
 | Metamorphosis | 333893 | [333893-metamorphosis.json](./333893-metamorphosis.json) |
+| Metamorphosis + What the Duck Bundle | 309291 | [309291-metamorphosis-what-the-duck-bundle.json](./309291-metamorphosis-what-the-duck-bundle.json) |
 | Metamorphosis Collection | 346801 | [346801-metamorphosis-collection.json](./346801-metamorphosis-collection.json) |
 | Metamorphosiser | 56808 | [56808-metamorphosiser.json](./56808-metamorphosiser.json) |
 | Metanet Hunter CD | 29612 | [29612-metanet-hunter-cd.json](./29612-metanet-hunter-cd.json) |
@@ -16368,6 +16371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morder | 111565 | [111565-morder.json](./111565-morder.json) |
 | Mordeth | 316605 | [316605-mordeth.json](./316605-mordeth.json) |
 | Mordfield Command | 304874 | [304874-mordfield-command.json](./304874-mordfield-command.json) |
+| Mordhau: Adventurer Pack | 309298 | [309298-mordhau-adventurer-pack.json](./309298-mordhau-adventurer-pack.json) |
 | Mordhau: Archduke Set | 272449 | [272449-mordhau-archduke-set.json](./272449-mordhau-archduke-set.json) |
 | Mordhau: Diamond Edition | 331263 | [331263-mordhau-diamond-edition.json](./331263-mordhau-diamond-edition.json) |
 | Mordhau: Gold Edition | 256429 | [256429-mordhau-gold-edition.json](./256429-mordhau-gold-edition.json) |
