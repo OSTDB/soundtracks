@@ -2381,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elephantastic | 256397 | [256397-elephantastic.json](./256397-elephantastic.json) |
 | Elephantasy | 143407 | [143407-elephantasy.json](./143407-elephantasy.json) |
 | Elephantasy: Flipside | 235706 | [235706-elephantasy-flipside.json](./235706-elephantasy-flipside.json) |
+| Elephants and Snakes and Crocodiles | 303198 | [303198-elephants-and-snakes-and-crocodiles.json](./303198-elephants-and-snakes-and-crocodiles.json) |
 | Elepong | 69367 | [69367-elepong.json](./69367-elepong.json) |
 | Elerena | 153855 | [153855-elerena.json](./153855-elerena.json) |
 | Eleria | 107082 | [107082-eleria.json](./107082-eleria.json) |
@@ -6542,6 +6543,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everbloom | 178663 | [178663-everbloom.json](./178663-everbloom.json) |
 | Everblue | 37082 | [37082-everblue.json](./37082-everblue.json) |
 | Everblue 2 | 9656 | [9656-everblue-2.json](./9656-everblue-2.json) |
+| Evercade Alpha Mega Man Bartop Arcade | 304227 | [304227-evercade-alpha-mega-man-bartop-arcade.json](./304227-evercade-alpha-mega-man-bartop-arcade.json) |
+| Evercade Alpha Street Fighter Bartop Arcade | 304226 | [304226-evercade-alpha-street-fighter-bartop-arcade.json](./304226-evercade-alpha-street-fighter-bartop-arcade.json) |
 | Evercade Alpha Taito Bartop Arcade | 346796 | [346796-evercade-alpha-taito-bartop-arcade.json](./346796-evercade-alpha-taito-bartop-arcade.json) |
 | Everchained | 304643 | [304643-everchained.json](./304643-everchained.json) |
 | Everchanging | 157153 | [157153-everchanging.json](./157153-everchanging.json) |
