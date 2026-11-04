@@ -15861,6 +15861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Fish | 344131 | [344131-bubble-fish.json](./344131-bubble-fish.json) |
 | Bubble Fresh Fruits | 289376 | [289376-bubble-fresh-fruits.json](./289376-bubble-fresh-fruits.json) |
 | Bubble Frog | 290337 | [290337-bubble-frog.json](./290337-bubble-frog.json) |
+| Bubble Frog DX | 339711 | [339711-bubble-frog-dx.json](./339711-bubble-frog-dx.json) |
 | Bubble Ghost | 7802 | [7802-bubble-ghost.json](./7802-bubble-ghost.json) |
 | Bubble Ghost Remake | 250892 | [250892-bubble-ghost-remake.json](./250892-bubble-ghost-remake.json) |
 | Bubble Gun 3D | 150690 | [150690-bubble-gun-3d.json](./150690-bubble-gun-3d.json) |
