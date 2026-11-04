@@ -2258,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paris Chase | 144046 | [144046-paris-chase.json](./144046-paris-chase.json) |
 | Paris Craft: Exploration of City of Love & Art | 96012 | [96012-paris-craft-exploration-of-city-of-love-and-art.json](./96012-paris-craft-exploration-of-city-of-love-and-art.json) |
 | Paris Games Fail! | 319277 | [319277-paris-games-fail.json](./319277-paris-games-fail.json) |
+| Paris in 2000 Years | 309797 | [309797-paris-in-2000-years.json](./309797-paris-in-2000-years.json) |
 | Paris in Danger | 23966 | [23966-paris-in-danger.json](./23966-paris-in-danger.json) |
 | Paris Nights | 342795 | [342795-paris-nights.json](./342795-paris-nights.json) |
 | Paris Saint-Germain Club Football 2005 | 267911 | [267911-paris-saint-germain-club-football-2005.json](./267911-paris-saint-germain-club-football-2005.json) |
