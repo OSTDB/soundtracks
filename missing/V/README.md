@@ -1849,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victorian Deathbed Simulator | 331354 | [331354-victorian-deathbed-simulator.json](./331354-victorian-deathbed-simulator.json) |
 | Victorian Mysteries: The Yellow Room | 120009 | [120009-victorian-mysteries-the-yellow-room.json](./120009-victorian-mysteries-the-yellow-room.json) |
 | Victoriana - Steampunk Text Adventure | 123965 | [123965-victoriana-steampunk-text-adventure.json](./123965-victoriana-steampunk-text-adventure.json) |
+| Victorious | 302002 | [302002-victorious.json](./302002-victorious.json) |
 | Victorious Boxers 2: Fighting Spirit | 22450 | [22450-victorious-boxers-2-fighting-spirit.json](./22450-victorious-boxers-2-fighting-spirit.json) |
 | Victorious Boxers: Ippo's Road to Glory | 43527 | [43527-victorious-boxers-ippos-road-to-glory.json](./43527-victorious-boxers-ippos-road-to-glory.json) |
 | Victorious Boxers: Revolution | 5256 | [5256-victorious-boxers-revolution.json](./5256-victorious-boxers-revolution.json) |
