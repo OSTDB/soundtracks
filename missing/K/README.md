@@ -5654,6 +5654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krunker | 109096 | [109096-krunker.json](./109096-krunker.json) |
 | Krunt.io | 125871 | [125871-krunt-io.json](./125871-krunt-io.json) |
 | Krusenstern: A Stellar Sail | 226730 | [226730-krusenstern-a-stellar-sail.json](./226730-krusenstern-a-stellar-sail.json) |
+| Krush Kill 'N Destroy Bundle | 335619 | [335619-krush-kill-n-destroy-bundle.json](./335619-krush-kill-n-destroy-bundle.json) |
 | Krusty Krab Nightmare | 100934 | [100934-krusty-krab-nightmare.json](./100934-krusty-krab-nightmare.json) |
 | Krusty Zombies | 180312 | [180312-krusty-zombies.json](./180312-krusty-zombies.json) |
 | Krusty's Fun House | 307105 | [307105-krustys-fun-house.json](./307105-krustys-fun-house.json) |
