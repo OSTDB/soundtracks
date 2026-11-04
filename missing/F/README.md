@@ -6272,6 +6272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher-Price: I Can Remember | 26659 | [26659-fisher-price-i-can-remember.json](./26659-fisher-price-i-can-remember.json) |
 | Fisher-Price: Little People Discovery Airport | 144860 | [144860-fisher-price-little-people-discovery-airport.json](./144860-fisher-price-little-people-discovery-airport.json) |
 | Fisher-Price: Ready for School - Kindergarten | 77007 | [77007-fisher-price-ready-for-school-kindergarten.json](./77007-fisher-price-ready-for-school-kindergarten.json) |
+| Fisher-Price: Time To Play - Dollhouse | 324626 | [324626-fisher-price-time-to-play-dollhouse.json](./324626-fisher-price-time-to-play-dollhouse.json) |
 | Fisher-Price: Time To Play - Pet Shop | 283677 | [283677-fisher-price-time-to-play-pet-shop.json](./283677-fisher-price-time-to-play-pet-shop.json) |
 | Fisher's Qualm | 218664 | [218664-fishers-qualm.json](./218664-fishers-qualm.json) |
 | Fisher's Road | 387121 | [387121-fishers-road.json](./387121-fishers-road.json) |
@@ -7707,6 +7708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlipPix Jigsaw - Spicy | 96047 | [96047-flippix-jigsaw-spicy.json](./96047-flippix-jigsaw-spicy.json) |
 | FlipPix Jigsaw - Time | 109231 | [109231-flippix-jigsaw-time.json](./109231-flippix-jigsaw-time.json) |
 | FlipPix Jigsaw - Up | 99921 | [99921-flippix-jigsaw-up.json](./99921-flippix-jigsaw-up.json) |
+| Flipple | 324652 | [324652-flipple.json](./324652-flipple.json) |
 | FlippUp | 356015 | [356015-flippup.json](./356015-flippup.json) |
 | Flippy | 88759 | [88759-flippy.json](./88759-flippy.json) |
 | Flippy Bard | 61309 | [61309-flippy-bard.json](./61309-flippy-bard.json) |
