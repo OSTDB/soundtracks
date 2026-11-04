@@ -2015,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satan | 94933 | [94933-satan.json](./94933-satan.json) |
 | Satan 3D | 384293 | [384293-satan-3d.json](./384293-satan-3d.json) |
 | Satan II | 380552 | [380552-satan-ii.json](./380552-satan-ii.json) |
+| Satan is an Astronaut | 298729 | [298729-satan-is-an-astronaut.json](./298729-satan-is-an-astronaut.json) |
 | Satan Moans | 302816 | [302816-satan-moans.json](./302816-satan-moans.json) |
 | Satan Santa | 369743 | [369743-satan-santa.json](./369743-satan-santa.json) |
 | Satan's Ball | 389834 | [389834-satans-ball.json](./389834-satans-ball.json) |
@@ -10569,6 +10570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simp Simulator 2023 | 253857 | [253857-simp-simulator-2023.json](./253857-simp-simulator-2023.json) |
 | SIMP: Super Infection Massive Pathology | 336586 | [336586-simp-super-infection-massive-pathology.json](./336586-simp-super-infection-massive-pathology.json) |
 | SimPark | 16613 | [16613-simpark.json](./16613-simpark.json) |
+| Simple 1500 Jitsuyou Series Vol. 08: 1-jikan de Wakaru Kabushiki Toushi | 298760 | [298760-simple-1500-jitsuyou-series-vol-08-1-jikan-de-wakaru-kabushiki-toushi.json](./298760-simple-1500-jitsuyou-series-vol-08-1-jikan-de-wakaru-kabushiki-toushi.json) |
 | Simple 1500 Series Hello Kitty Vol. 01: Hello Kitty Bowling | 64656 | [64656-simple-1500-series-hello-kitty-vol-01-hello-kitty-bowling.json](./64656-simple-1500-series-hello-kitty-vol-01-hello-kitty-bowling.json) |
 | Simple 1500 Series Hello Kitty Vol. 02: Hello Kitty Illust Puzzle | 64658 | [64658-simple-1500-series-hello-kitty-vol-02-hello-kitty-illust-puzzle.json](./64658-simple-1500-series-hello-kitty-vol-02-hello-kitty-illust-puzzle.json) |
 | Simple 1500 Series Hello Kitty Vol. 03: Hello Kitty Block Kuzushi | 64652 | [64652-simple-1500-series-hello-kitty-vol-03-hello-kitty-block-kuzushi.json](./64652-simple-1500-series-hello-kitty-vol-03-hello-kitty-block-kuzushi.json) |
@@ -19065,6 +19067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
