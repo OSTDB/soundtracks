@@ -16596,6 +16596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 1 Proto-Mix | 361657 | [361657-sonic-1-proto-mix.json](./361657-sonic-1-proto-mix.json) |
 | Sonic 1 Sigma | 332570 | [332570-sonic-1-sigma.json](./332570-sonic-1-sigma.json) |
 | Sonic 1 Spike Bug Fix & Spindash | 198532 | [198532-sonic-1-spike-bug-fix-and-spindash.json](./198532-sonic-1-spike-bug-fix-and-spindash.json) |
+| Sonic 1 Strange Dream World | 316296 | [316296-sonic-1-strange-dream-world.json](./316296-sonic-1-strange-dream-world.json) |
 | Sonic 1: Alt Reality | 333783 | [333783-sonic-1-alt-reality.json](./333783-sonic-1-alt-reality.json) |
 | Sonic 1: Point & Click Edition | 333892 | [333892-sonic-1-point-and-click-edition.json](./333892-sonic-1-point-and-click-edition.json) |
 | Sonic 1: Return to the Origin | 288256 | [288256-sonic-1-return-to-the-origin.json](./288256-sonic-1-return-to-the-origin.json) |
@@ -16657,6 +16658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Advance 4 Advanced | 326134 | [326134-sonic-advance-4-advanced.json](./326134-sonic-advance-4-advanced.json) |
 | Sonic Advance Revamped Lite | 227797 | [227797-sonic-advance-revamped-lite.json](./227797-sonic-advance-revamped-lite.json) |
 | Sonic Advance X | 227806 | [227806-sonic-advance-x.json](./227806-sonic-advance-x.json) |
+| Sonic Advance: International | 316297 | [316297-sonic-advance-international.json](./316297-sonic-advance-international.json) |
 | Sonic Advent | 331775 | [331775-sonic-advent.json](./331775-sonic-advent.json) |
 | Sonic Adventure 2 | 192192 | [192192-sonic-adventure-2.json](./192192-sonic-adventure-2.json) |
 | Sonic Adventure 2: Battle | 192194 | [192194-sonic-adventure-2-battle.json](./192194-sonic-adventure-2-battle.json) |
@@ -17027,6 +17029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Mode: Recoil | 330357 | [330357-sonic-mode-recoil.json](./330357-sonic-mode-recoil.json) |
 | Sonic Momentum | 316489 | [316489-sonic-momentum.json](./316489-sonic-momentum.json) |
 | Sonic Move | 331098 | [331098-sonic-move.json](./331098-sonic-move.json) |
+| Sonic Mushroom Blast | 316295 | [316295-sonic-mushroom-blast.json](./316295-sonic-mushroom-blast.json) |
 | Sonic Mushroom Blast Legacy | 369255 | [369255-sonic-mushroom-blast-legacy.json](./369255-sonic-mushroom-blast-legacy.json) |
 | Sonic Mystic Land | 370234 | [370234-sonic-mystic-land.json](./370234-sonic-mystic-land.json) |
 | Sonic Nebulous | 282688 | [282688-sonic-nebulous.json](./282688-sonic-nebulous.json) |
@@ -17827,6 +17830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sosuria | 268599 | [268599-sosuria.json](./268599-sosuria.json) |
 | Sotano | 190036 | [190036-sotano.json](./190036-sotano.json) |
 | Soter | 157139 | [157139-soter.json](./157139-soter.json) |
+| Soteria | 315968 | [315968-soteria.json](./315968-soteria.json) |
 | Sotidrokhima | 226396 | [226396-sotidrokhima.json](./226396-sotidrokhima.json) |
 | Soto Nemuri | 229671 | [229671-soto-nemuri.json](./229671-soto-nemuri.json) |
 | Sotsugyou Bangai-hen: Nee Mahjong Shiyo! | 42309 | [42309-sotsugyou-bangai-hen-nee-mahjong-shiyo.json](./42309-sotsugyou-bangai-hen-nee-mahjong-shiyo.json) |
@@ -18978,7 +18982,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21831,6 +21834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooks | 41137 | [41137-spooks.json](./41137-spooks.json) |
 | Spookshow | 371956 | [371956-spookshow.json](./371956-spookshow.json) |
 | Spooktective | 117953 | [117953-spooktective.json](./117953-spooktective.json) |
+| Spooktober Visual Novel Jam! | 315994 | [315994-spooktober-visual-novel-jam.json](./315994-spooktober-visual-novel-jam.json) |
 | Spookulele | 204715 | [204715-spookulele.json](./204715-spookulele.json) |
 | Spookville: Cabin Escape | 291298 | [291298-spookville-cabin-escape.json](./291298-spookville-cabin-escape.json) |
 | Spookware: Watch Party | 189180 | [189180-spookware-watch-party.json](./189180-spookware-watch-party.json) |
@@ -31237,6 +31241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball 3D | 6893 | [6893-super-monkey-ball-3d.json](./6893-super-monkey-ball-3d.json) |
 | Super Monkey Ball Adventure | 248530 | [248530-super-monkey-ball-adventure.json](./248530-super-monkey-ball-adventure.json) |
 | Super Monkey Ball Adventure | 4188 | [4188-super-monkey-ball-adventure.json](./4188-super-monkey-ball-adventure.json) |
+| Super Monkey Ball Bounce | 316004 | [316004-super-monkey-ball-bounce.json](./316004-super-monkey-ball-bounce.json) |
 | Super Monkey Ball Gaiden | 203169 | [203169-super-monkey-ball-gaiden.json](./203169-super-monkey-ball-gaiden.json) |
 | Super Monkey Ball Jr. | 6622 | [6622-super-monkey-ball-jr.json](./6622-super-monkey-ball-jr.json) |
 | Super Monkey Ball Stardust | 352178 | [352178-super-monkey-ball-stardust.json](./352178-super-monkey-ball-stardust.json) |
