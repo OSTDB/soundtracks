@@ -15319,6 +15319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Jam Showdown: Digatron | 324483 | [324483-monster-jam-showdown-digatron.json](./324483-monster-jam-showdown-digatron.json) |
 | Monster Jam Showdown: Law & Disorder | 308821 | [308821-monster-jam-showdown-law-and-disorder.json](./308821-monster-jam-showdown-law-and-disorder.json) |
 | Monster Jam Showdown: Mega Bite | 382124 | [382124-monster-jam-showdown-mega-bite.json](./382124-monster-jam-showdown-mega-bite.json) |
+| Monster Jam Showdown: Off The Leash | 330441 | [330441-monster-jam-showdown-off-the-leash.json](./330441-monster-jam-showdown-off-the-leash.json) |
 | Monster Jam Showdown: Season Pass | 316275 | [316275-monster-jam-showdown-season-pass.json](./316275-monster-jam-showdown-season-pass.json) |
 | Monster Jam Showdown: The Odd Couple | 308822 | [308822-monster-jam-showdown-the-odd-couple.json](./308822-monster-jam-showdown-the-odd-couple.json) |
 | Monster Jam Showdown: Yeti | 332228 | [332228-monster-jam-showdown-yeti.json](./332228-monster-jam-showdown-yeti.json) |
