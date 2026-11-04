@@ -2436,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorneydle | 349208 | [349208-ace-attorneydle.json](./349208-ace-attorneydle.json) |
 | Ace Ball | 76162 | [76162-ace-ball.json](./76162-ace-ball.json) |
 | Ace Banana | 25108 | [25108-ace-banana.json](./25108-ace-banana.json) |
+| Ace Blackring in the Quest for Garlic Bread | 334418 | [334418-ace-blackring-in-the-quest-for-garlic-bread.json](./334418-ace-blackring-in-the-quest-for-garlic-bread.json) |
 | Ace Breakout | 201435 | [201435-ace-breakout.json](./201435-ace-breakout.json) |
 | Ace Campus Club | 161561 | [161561-ace-campus-club.json](./161561-ace-campus-club.json) |
 | Ace Coin BullDozer: Dozer of Coins | 87390 | [87390-ace-coin-bulldozer-dozer-of-coins.json](./87390-ace-coin-bulldozer-dozer-of-coins.json) |
@@ -4831,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Fantasy | 293500 | [293500-ai-fantasy.json](./293500-ai-fantasy.json) |
 | AI Fightclub | 303890 | [303890-ai-fightclub.json](./303890-ai-fightclub.json) |
 | Ai ga Mie Hajimetara | 151840 | [151840-ai-ga-mie-hajimetara.json](./151840-ai-ga-mie-hajimetara.json) |
+| AI Game Master | 334434 | [334434-ai-game-master.json](./334434-ai-game-master.json) |
 | AI ha Sabaku no Bara no Yume o Miru | 82936 | [82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json](./82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json) |
 | AI Hunter | 151027 | [151027-ai-hunter.json](./151027-ai-hunter.json) |
 | AI Igo | 45447 | [45447-ai-igo.json](./45447-ai-igo.json) |
@@ -15981,6 +15983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
