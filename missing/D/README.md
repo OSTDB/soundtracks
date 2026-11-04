@@ -2611,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave the Diver: Balatro | 314280 | [314280-dave-the-diver-balatro.json](./314280-dave-the-diver-balatro.json) |
 | Dave the Diver: Dredge | 279619 | [279619-dave-the-diver-dredge.json](./279619-dave-the-diver-dredge.json) |
 | Dave the Diver: Godzilla | 284718 | [284718-dave-the-diver-godzilla.json](./284718-dave-the-diver-godzilla.json) |
+| Dave the Diver: Ichiban's Holiday | 331201 | [331201-dave-the-diver-ichibans-holiday.json](./331201-dave-the-diver-ichibans-holiday.json) |
 | Dave the Diver: In the Jungle | 325582 | [325582-dave-the-diver-in-the-jungle.json](./325582-dave-the-diver-in-the-jungle.json) |
 | Dave the Diver: Mxmtoon | 314281 | [314281-dave-the-diver-mxmtoon.json](./314281-dave-the-diver-mxmtoon.json) |
 | Dave the Diver: Potion Craft | 314279 | [314279-dave-the-diver-potion-craft.json](./314279-dave-the-diver-potion-craft.json) |
@@ -14141,6 +14142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Legendary Edition | 232992 | [232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json](./232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set Season Pass 2 | 262157 | [262157-dragon-ball-z-kakarot-a-new-power-awakens-set-season-pass-2.json](./262157-dragon-ball-z-kakarot-a-new-power-awakens-set-season-pass-2.json) |
 | Dragon Ball Z: Legend of Z RPG | 314005 | [314005-dragon-ball-z-legend-of-z-rpg.json](./314005-dragon-ball-z-legend-of-z-rpg.json) |
+| Dragon Ball Z: Mission to Namek | 331064 | [331064-dragon-ball-z-mission-to-namek.json](./331064-dragon-ball-z-mission-to-namek.json) |
 | Dragon Ball Z: Namekku-sei Chou Kessen | 346786 | [346786-dragon-ball-z-namekku-sei-chou-kessen.json](./346786-dragon-ball-z-namekku-sei-chou-kessen.json) |
 | Dragon Ball Z: Pong | 338683 | [338683-dragon-ball-z-pong.json](./338683-dragon-ball-z-pong.json) |
 | Dragon Ball Z: Recompiled | 416627 | [416627-dragon-ball-z-recompiled.json](./416627-dragon-ball-z-recompiled.json) |
