@@ -8271,6 +8271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Club | 361733 | [361733-hockey-club.json](./361733-hockey-club.json) |
 | Hockey Fight Pro | 102579 | [102579-hockey-fight-pro.json](./102579-hockey-fight-pro.json) |
 | Hockey Fights | 93559 | [93559-hockey-fights.json](./93559-hockey-fights.json) |
+| Hockey Hockey Club | 315992 | [315992-hockey-hockey-club.json](./315992-hockey-hockey-club.json) |
 | Hockey League Simulator | 15503 | [15503-hockey-league-simulator.json](./15503-hockey-league-simulator.json) |
 | Hockey League Simulator II | 15504 | [15504-hockey-league-simulator-ii.json](./15504-hockey-league-simulator-ii.json) |
 | Hockey Legacy Manager 25 | 340475 | [340475-hockey-legacy-manager-25.json](./340475-hockey-legacy-manager-25.json) |
@@ -12065,6 +12066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper-Casual Hentai | 366528 | [366528-hyper-casual-hentai.json](./366528-hyper-casual-hentai.json) |
 | Hyper-Galactic Spiders from Mars | 109180 | [109180-hyper-galactic-spiders-from-mars.json](./109180-hyper-galactic-spiders-from-mars.json) |
 | Hyper! Danganronpa H20: Abandon All Hope | 267987 | [267987-hyper-danganronpa-h20-abandon-all-hope.json](./267987-hyper-danganronpa-h20-abandon-all-hope.json) |
+| Hyper's Quest 2: High Voltage | 316307 | [316307-hypers-quest-2-high-voltage.json](./316307-hypers-quest-2-high-voltage.json) |
 | Hyper's Quest Reborn | 316969 | [316969-hypers-quest-reborn.json](./316969-hypers-quest-reborn.json) |
 | Hyper's Quest: Mystic Warp | 316968 | [316968-hypers-quest-mystic-warp.json](./316968-hypers-quest-mystic-warp.json) |
 | Hyperaction | 152478 | [152478-hyperaction.json](./152478-hyperaction.json) |
