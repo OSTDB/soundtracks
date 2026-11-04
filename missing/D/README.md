@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daikatana | 8201 | [8201-daikatana.json](./8201-daikatana.json) |
 | Daikon Set | 55911 | [55911-daikon-set.json](./55911-daikon-set.json) |
 | Daikoukai Jidai | 41729 | [41729-daikoukai-jidai.json](./41729-daikoukai-jidai.json) |
+| Daikoukai Jidai Gaiden | 340130 | [340130-daikoukai-jidai-gaiden.json](./340130-daikoukai-jidai-gaiden.json) |
 | Daikoukai Jidai II | 351143 | [351143-daikoukai-jidai-ii.json](./351143-daikoukai-jidai-ii.json) |
 | Daikoukai Jidai II Premium Pack | 351145 | [351145-daikoukai-jidai-ii-premium-pack.json](./351145-daikoukai-jidai-ii-premium-pack.json) |
 | Daikoukai Jidai III: Costa del Sol | 186736 | [186736-daikoukai-jidai-iii-costa-del-sol.json](./186736-daikoukai-jidai-iii-costa-del-sol.json) |
@@ -3413,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead for Dread | 305958 | [305958-dead-for-dread.json](./305958-dead-for-dread.json) |
 | Dead Force | 299828 | [299828-dead-force.json](./299828-dead-force.json) |
 | Dead Forest | 117324 | [117324-dead-forest.json](./117324-dead-forest.json) |
+| Dead Format | 340143 | [340143-dead-format.json](./340143-dead-format.json) |
 | Dead Freight | 345683 | [345683-dead-freight.json](./345683-dead-freight.json) |
 | Dead Frequency | 373214 | [373214-dead-frequency.json](./373214-dead-frequency.json) |
 | Dead Frog Tell No Tales | 182882 | [182882-dead-frog-tell-no-tales.json](./182882-dead-frog-tell-no-tales.json) |
@@ -7006,6 +7008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Colony | 372508 | [372508-desktop-colony.json](./372508-desktop-colony.json) |
 | Desktop Cube-Man | 368673 | [368673-desktop-cube-man.json](./368673-desktop-cube-man.json) |
 | Desktop Defender | 371976 | [371976-desktop-defender.json](./371976-desktop-defender.json) |
+| Desktop Destroy 2 | 340128 | [340128-desktop-destroy-2.json](./340128-desktop-destroy-2.json) |
 | Desktop Detective | 411745 | [411745-desktop-detective.json](./411745-desktop-detective.json) |
 | Desktop Dinosaurs | 153216 | [153216-desktop-dinosaurs.json](./153216-desktop-dinosaurs.json) |
 | Desktop Dodgeball | 124983 | [124983-desktop-dodgeball.json](./124983-desktop-dodgeball.json) |
@@ -9107,6 +9110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Attack | 343258 | [343258-dino-attack.json](./343258-dino-attack.json) |
 | Dino Battle: Jungle Adventure | 235166 | [235166-dino-battle-jungle-adventure.json](./235166-dino-battle-jungle-adventure.json) |
 | Dino Bibo | 221899 | [221899-dino-bibo.json](./221899-dino-bibo.json) |
+| Dino Blitz | 340129 | [340129-dino-blitz.json](./340129-dino-blitz.json) |
 | Dino Breeder | 64981 | [64981-dino-breeder.json](./64981-dino-breeder.json) |
 | Dino Breeder 2 | 63853 | [63853-dino-breeder-2.json](./63853-dino-breeder-2.json) |
 | Dino Breeder 3: Gaia Fukkatsu | 65585 | [65585-dino-breeder-3-gaia-fukkatsu.json](./65585-dino-breeder-3-gaia-fukkatsu.json) |
@@ -12406,6 +12410,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Fit Hell-O-Ween | 214555 | [214555-doodle-fit-hell-o-ween.json](./214555-doodle-fit-hell-o-ween.json) |
 | Doodle Games Bundle | 147800 | [147800-doodle-games-bundle.json](./147800-doodle-games-bundle.json) |
 | Doodle God | 18528 | [18528-doodle-god.json](./18528-doodle-god.json) |
+| Doodle God | 340135 | [340135-doodle-god.json](./340135-doodle-god.json) |
+| Doodle God 2 | 340138 | [340138-doodle-god-2.json](./340138-doodle-god-2.json) |
 | Doodle God 2 | 65158 | [65158-doodle-god-2.json](./65158-doodle-god-2.json) |
 | Doodle God Blitz | 68341 | [68341-doodle-god-blitz.json](./68341-doodle-god-blitz.json) |
 | Doodle God Blitz HD | 106080 | [106080-doodle-god-blitz-hd.json](./106080-doodle-god-blitz-hd.json) |
@@ -17090,6 +17096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumber League | 175063 | [175063-dumber-league.json](./175063-dumber-league.json) |
 | Dumbino | 307569 | [307569-dumbino.json](./307569-dumbino.json) |
 | Dumbo's Flying Circus | 40639 | [40639-dumbos-flying-circus.json](./40639-dumbos-flying-circus.json) |
+| Dumbolf | 340142 | [340142-dumbolf.json](./340142-dumbolf.json) |
 | Dumbot | 330173 | [330173-dumbot.json](./330173-dumbot.json) |
 | Dumbriel: Magnificent Adventure in Hell | 260404 | [260404-dumbriel-magnificent-adventure-in-hell.json](./260404-dumbriel-magnificent-adventure-in-hell.json) |
 | Dumdum | 379922 | [379922-dumdum.json](./379922-dumdum.json) |
