@@ -4646,6 +4646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relaxe | 346928 | [346928-relaxe.json](./346928-relaxe.json) |
 | Relaxicon | 90833 | [90833-relaxicon.json](./90833-relaxicon.json) |
 | Relaxing Art Bundle | 231052 | [231052-relaxing-art-bundle.json](./231052-relaxing-art-bundle.json) |
+| Relaxing Drift | 311425 | [311425-relaxing-drift.json](./311425-relaxing-drift.json) |
 | Relaxing Farm: Merge Tales | 348805 | [348805-relaxing-farm-merge-tales.json](./348805-relaxing-farm-merge-tales.json) |
 | Relaxing Fields | 340707 | [340707-relaxing-fields.json](./340707-relaxing-fields.json) |
 | Relaxing Fishing | 350509 | [350509-relaxing-fishing.json](./350509-relaxing-fishing.json) |
@@ -11825,6 +11826,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Beavers | 421375 | [421375-rumble-beavers.json](./421375-rumble-beavers.json) |
 | Rumble Box | 71498 | [71498-rumble-box.json](./71498-rumble-box.json) |
 | Rumble City | 60213 | [60213-rumble-city.json](./60213-rumble-city.json) |
+| Rumble Club: Founder's Pack - Bronze | 311414 | [311414-rumble-club-founders-pack-bronze.json](./311414-rumble-club-founders-pack-bronze.json) |
+| Rumble Club: Founder's Pack - Gold | 311415 | [311415-rumble-club-founders-pack-gold.json](./311415-rumble-club-founders-pack-gold.json) |
+| Rumble Club: Founder's Pack - Silver | 311413 | [311413-rumble-club-founders-pack-silver.json](./311413-rumble-club-founders-pack-silver.json) |
 | Rumble Crumble | 349216 | [349216-rumble-crumble.json](./349216-rumble-crumble.json) |
 | Rumble Fighter | 67352 | [67352-rumble-fighter.json](./67352-rumble-fighter.json) |
 | Rumble Fighter: Unleashed | 35531 | [35531-rumble-fighter-unleashed.json](./35531-rumble-fighter-unleashed.json) |
