@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 311349 | [311349-pac-man.json](./311349-pac-man.json) |
 | Pac-Man | 63639 | [63639-pac-man.json](./63639-pac-man.json) |
 | Pac-Man | 88904 | [88904-pac-man.json](./88904-pac-man.json) |
+| Pac-Man (speedup) | 308719 | [308719-pac-man-speedup.json](./308719-pac-man-speedup.json) |
 | Pac-Man & Galaga Dimensions | 6861 | [6861-pac-man-and-galaga-dimensions.json](./6861-pac-man-and-galaga-dimensions.json) |
 | Pac-Man 12-in-1 Legacy Series | 253713 | [253713-pac-man-12-in-1-legacy-series.json](./253713-pac-man-12-in-1-legacy-series.json) |
 | Pac-Man 2: The New Adventures | 11603 | [11603-pac-man-2-the-new-adventures.json](./11603-pac-man-2-the-new-adventures.json) |
@@ -9314,6 +9315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform Run | 324296 | [324296-platform-run.json](./324296-platform-run.json) |
 | Platform Terror | 393743 | [393743-platform-terror.json](./393743-platform-terror.json) |
 | Platform Tower | 249230 | [249230-platform-tower.json](./249230-platform-tower.json) |
+| Platform Twister | 308736 | [308736-platform-twister.json](./308736-platform-twister.json) |
 | Platform War | 270500 | [270500-platform-war.json](./270500-platform-war.json) |
 | Platform X | 131088 | [131088-platform-x.json](./131088-platform-x.json) |
 | Platformance: Castle Pain | 66389 | [66389-platformance-castle-pain.json](./66389-platformance-castle-pain.json) |
@@ -11073,6 +11075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Star Sapphire | 288074 | [288074-pokemon-star-sapphire.json](./288074-pokemon-star-sapphire.json) |
 | Pokémon Starwish | 394849 | [394849-pokemon-starwish.json](./394849-pokemon-starwish.json) |
 | Pokémon Stranded | 252122 | [252122-pokemon-stranded.json](./252122-pokemon-stranded.json) |
+| Pokémon Strike! Yellow Version | 308708 | [308708-pokemon-strike-yellow-version.json](./308708-pokemon-strike-yellow-version.json) |
 | Pokémon Study: Hikaruze! Pokémon Typing PC | 327714 | [327714-pokemon-study-hikaruze-pokemon-typing-pc.json](./327714-pokemon-study-hikaruze-pokemon-typing-pc.json) |
 | Pokémon Sun and Moon Special Demo Version | 313321 | [313321-pokemon-sun-and-moon-special-demo-version.json](./313321-pokemon-sun-and-moon-special-demo-version.json) |
 | Pokémon Sun Moon Double Pack | 136900 | [136900-pokemon-sun-moon-double-pack.json](./136900-pokemon-sun-moon-double-pack.json) |
@@ -16827,6 +16830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Game | 272744 | [272744-pumpkin-game.json](./272744-pumpkin-game.json) |
 | Pumpkin Ghost | 272269 | [272269-pumpkin-ghost.json](./272269-pumpkin-ghost.json) |
 | Pumpkin Hell | 261167 | [261167-pumpkin-hell.json](./261167-pumpkin-hell.json) |
+| Pumpkin Hill DS | 308726 | [308726-pumpkin-hill-ds.json](./308726-pumpkin-hill-ds.json) |
 | Pumpkin Invasion | 180025 | [180025-pumpkin-invasion.json](./180025-pumpkin-invasion.json) |
 | Pumpkin Jack | 126725 | [126725-pumpkin-jack.json](./126725-pumpkin-jack.json) |
 | Pumpkin Jam | 269562 | [269562-pumpkin-jam.json](./269562-pumpkin-jam.json) |
