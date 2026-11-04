@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Spy With Lola HD: A Fun Word Game for Kids! | 108270 | [108270-i-spy-with-lola-hd-a-fun-word-game-for-kids.json](./108270-i-spy-with-lola-hd-a-fun-word-game-for-kids.json) |
 | I Spy With Lola: A Fun Word Game for Kids! | 88606 | [88606-i-spy-with-lola-a-fun-word-game-for-kids.json](./88606-i-spy-with-lola-a-fun-word-game-for-kids.json) |
 | I Spy: Challenger! | 230430 | [230430-i-spy-challenger.json](./230430-i-spy-challenger.json) |
+| I Spy: Challenger! | 333847 | [333847-i-spy-challenger.json](./333847-i-spy-challenger.json) |
 | I Spy: Super Challenger! | 91739 | [91739-i-spy-super-challenger.json](./91739-i-spy-super-challenger.json) |
 | I Spy: Treasure Hunt | 91749 | [91749-i-spy-treasure-hunt.json](./91749-i-spy-treasure-hunt.json) |
 | I Still Live Under Your House | 277745 | [277745-i-still-live-under-your-house.json](./277745-i-still-live-under-your-house.json) |
@@ -3944,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inhibit | 264688 | [264688-inhibit.json](./264688-inhibit.json) |
 | Inhuman | 193276 | [193276-inhuman.json](./193276-inhuman.json) |
 | Inhuman | 350421 | [350421-inhuman.json](./350421-inhuman.json) |
+| Inhuman Resources: A Literary Machination | 333863 | [333863-inhuman-resources-a-literary-machination.json](./333863-inhuman-resources-a-literary-machination.json) |
 | Inhumanus | 96689 | [96689-inhumanus.json](./96689-inhumanus.json) |
 | Ini | 197638 | [197638-ini.json](./197638-ini.json) |
 | Inindo: Way of the Ninja | 47498 | [47498-inindo-way-of-the-ninja.json](./47498-inindo-way-of-the-ninja.json) |
