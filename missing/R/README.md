@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Read Only Memories: Neurodiver | 119401 | [119401-read-only-memories-neurodiver.json](./119401-read-only-memories-neurodiver.json) |
 | Read Only Memories: Neurodiver - Collector's Edition | 292138 | [292138-read-only-memories-neurodiver-collectors-edition.json](./292138-read-only-memories-neurodiver-collectors-edition.json) |
 | Read the Unfinished Donkey Kong Country Story...and then Finish the Adventure! | 328601 | [328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json](./328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json) |
+| Read This When You Turn 15 | 329289 | [329289-read-this-when-you-turn-15.json](./329289-read-this-when-you-turn-15.json) |
 | Read Watch Listen Plan | 404658 | [404658-read-watch-listen-plan.json](./404658-read-watch-listen-plan.json) |
 | Read, Write, & Type | 314139 | [314139-read-write-and-type.json](./314139-read-write-and-type.json) |
 | Reader Rabbit | 131100 | [131100-reader-rabbit.json](./131100-reader-rabbit.json) |
@@ -4766,6 +4767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remedy | 93324 | [93324-remedy.json](./93324-remedy.json) |
 | Remember | 128320 | [128320-remember.json](./128320-remember.json) |
 | Remember | 350935 | [350935-remember.json](./350935-remember.json) |
+| Remember Christmas | 329334 | [329334-remember-christmas.json](./329334-remember-christmas.json) |
 | Remember Easter | 341380 | [341380-remember-easter.json](./341380-remember-easter.json) |
 | Remember Mary | 177961 | [177961-remember-mary.json](./177961-remember-mary.json) |
 | Remember Me | 153070 | [153070-remember-me.json](./153070-remember-me.json) |
