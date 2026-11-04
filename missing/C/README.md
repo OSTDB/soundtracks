@@ -2995,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Network: Punch Time Explosion XL | 21151 | [21151-cartoon-network-punch-time-explosion-xl.json](./21151-cartoon-network-punch-time-explosion-xl.json) |
 | Cartoon Network: Toon Jam! | 206759 | [206759-cartoon-network-toon-jam.json](./206759-cartoon-network-toon-jam.json) |
 | Cartoon Network: Trick or Treat Beat! | 185824 | [185824-cartoon-network-trick-or-treat-beat.json](./185824-cartoon-network-trick-or-treat-beat.json) |
+| Cartoon Party Collection: 3 in 1 | 324201 | [324201-cartoon-party-collection-3-in-1.json](./324201-cartoon-party-collection-3-in-1.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
 | Cartoon Puzzler Bundle | 164728 | [164728-cartoon-puzzler-bundle.json](./164728-cartoon-puzzler-bundle.json) |
 | Cartoon Rage | 239216 | [239216-cartoon-rage.json](./239216-cartoon-rage.json) |
