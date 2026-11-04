@@ -3446,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GetHigh.exe | 393798 | [393798-gethigh-exe.json](./393798-gethigh-exe.json) |
 | GetMeBro! | 59282 | [59282-getmebro.json](./59282-getmebro.json) |
 | GetRektBambi | 59656 | [59656-getrektbambi.json](./59656-getrektbambi.json) |
+| GeTrix | 348514 | [348514-getrix.json](./348514-getrix.json) |
 | Getsu Fuuma Den | 15829 | [15829-getsu-fuuma-den.json](./15829-getsu-fuuma-den.json) |
 | Getsuei Gakuen -kou- | 34263 | [34263-getsuei-gakuen-kou.json](./34263-getsuei-gakuen-kou.json) |
 | Getsuei no Kusari: Kyouran Moratoriamu | 136449 | [136449-getsuei-no-kusari-kyouran-moratoriamu.json](./136449-getsuei-no-kusari-kyouran-moratoriamu.json) |
@@ -4451,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gish: The Mobile Game | 227031 | [227031-gish-the-mobile-game.json](./227031-gish-the-mobile-game.json) |
 | Gisselle's Adventure | 335737 | [335737-gisselles-adventure.json](./335737-gisselles-adventure.json) |
 | Git Gud | 330269 | [330269-git-gud.json](./330269-git-gud.json) |
+| Git Gud | 348546 | [348546-git-gud.json](./348546-git-gud.json) |
 | Git Gud or Get Rekt | 126231 | [126231-git-gud-or-get-rekt.json](./126231-git-gud-or-get-rekt.json) |
 | Git Up! | 335498 | [335498-git-up.json](./335498-git-up.json) |
 | Gitadora | 60810 | [60810-gitadora.json](./60810-gitadora.json) |
@@ -5223,6 +5225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Big | 394220 | [394220-go-big.json](./394220-go-big.json) |
 | Go Cabbies!GB | 114189 | [114189-go-cabbies-gb.json](./114189-go-cabbies-gb.json) |
 | Go Carts | 297473 | [297473-go-carts.json](./297473-go-carts.json) |
+| Go Catch 'Em | 348523 | [348523-go-catch-em.json](./348523-go-catch-em.json) |
 | Go Cycling | 364056 | [364056-go-cycling.json](./364056-go-cycling.json) |
 | Go Deep Or Go Home | 285484 | [285484-go-deep-or-go-home.json](./285484-go-deep-or-go-home.json) |
 | Go Diego! Go: Save the Animal Families! | 72997 | [72997-go-diego-go-save-the-animal-families.json](./72997-go-diego-go-save-the-animal-families.json) |
@@ -6147,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Rush! Anniversary | 36230 | [36230-gold-rush-anniversary.json](./36230-gold-rush-anniversary.json) |
 | Gold Rush! Anniversary: Special Edition | 54055 | [54055-gold-rush-anniversary-special-edition.json](./54055-gold-rush-anniversary-special-edition.json) |
 | Gold Rush! Classic | 36288 | [36288-gold-rush-classic.json](./36288-gold-rush-classic.json) |
+| Gold Ryoushi | 348548 | [348548-gold-ryoushi.json](./348548-gold-ryoushi.json) |
 | Gold Seeker | 285490 | [285490-gold-seeker.json](./285490-gold-seeker.json) |
 | Gold Strike | 88650 | [88650-gold-strike.json](./88650-gold-strike.json) |
 | Gold Taker | 239112 | [239112-gold-taker.json](./239112-gold-taker.json) |
