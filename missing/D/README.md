@@ -1327,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Army Resurrection | 250328 | [250328-dark-army-resurrection.json](./250328-dark-army-resurrection.json) |
 | Dark Around You | 149475 | [149475-dark-around-you.json](./149475-dark-around-you.json) |
 | Dark as Blood | 298508 | [298508-dark-as-blood.json](./298508-dark-as-blood.json) |
+| Dark Ascent | 310339 | [310339-dark-ascent.json](./310339-dark-ascent.json) |
 | Dark Assassin: Trial Chambers | 339363 | [339363-dark-assassin-trial-chambers.json](./339363-dark-assassin-trial-chambers.json) |
 | Dark Astral | 263042 | [263042-dark-astral.json](./263042-dark-astral.json) |
 | Dark Asylum: Mystery Adventure | 109331 | [109331-dark-asylum-mystery-adventure.json](./109331-dark-asylum-mystery-adventure.json) |
@@ -2818,6 +2819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of Dragons | 122643 | [122643-day-of-dragons.json](./122643-day-of-dragons.json) |
 | Day of Dragons: Acid Spitter Drake | 170364 | [170364-day-of-dragons-acid-spitter-drake.json](./170364-day-of-dragons-acid-spitter-drake.json) |
 | Day of Drift | 345805 | [345805-day-of-drift.json](./345805-day-of-drift.json) |
+| Day of Invasion: Reloaded | 310332 | [310332-day-of-invasion-reloaded.json](./310332-day-of-invasion-reloaded.json) |
 | Day of Judgment | 272394 | [272394-day-of-judgment.json](./272394-day-of-judgment.json) |
 | Day of Light | 383383 | [383383-day-of-light.json](./383383-day-of-light.json) |
 | Day of Love | 72663 | [72663-day-of-love.json](./72663-day-of-love.json) |
@@ -5242,6 +5244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Settlement | 59305 | [59305-deep-space-settlement.json](./59305-deep-space-settlement.json) |
 | Deep Space Shooter | 111731 | [111731-deep-space-shooter.json](./111731-deep-space-shooter.json) |
 | Deep Space Solitude | 369692 | [369692-deep-space-solitude.json](./369692-deep-space-solitude.json) |
+| Deep Space Survivor | 310326 | [310326-deep-space-survivor.json](./310326-deep-space-survivor.json) |
 | Deep Space Tavern | 270012 | [270012-deep-space-tavern.json](./270012-deep-space-tavern.json) |
 | Deep Space Waifu | 36977 | [36977-deep-space-waifu.json](./36977-deep-space-waifu.json) |
 | Deep Space Waifu: DLC | 281478 | [281478-deep-space-waifu-dlc.json](./281478-deep-space-waifu-dlc.json) |
@@ -6960,6 +6963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Pirates | 156911 | [156911-desert-pirates.json](./156911-desert-pirates.json) |
 | Desert Quest | 420516 | [420516-desert-quest.json](./420516-desert-quest.json) |
 | Desert Race Adventures | 296592 | [296592-desert-race-adventures.json](./296592-desert-race-adventures.json) |
+| Desert Racer | 310324 | [310324-desert-racer.json](./310324-desert-racer.json) |
 | Desert Racer | 61646 | [61646-desert-racer.json](./61646-desert-racer.json) |
 | Desert Racing 2018 | 107544 | [107544-desert-racing-2018.json](./107544-desert-racing-2018.json) |
 | Desert Racing of BarDos | 69636 | [69636-desert-racing-of-bardos.json](./69636-desert-racing-of-bardos.json) |
@@ -14332,6 +14336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Boy II | 345838 | [345838-dragon-boy-ii.json](./345838-dragon-boy-ii.json) |
 | Dragon Break Classic | 151850 | [151850-dragon-break-classic.json](./151850-dragon-break-classic.json) |
 | Dragon Break Classic Head to Head | 152755 | [152755-dragon-break-classic-head-to-head.json](./152755-dragon-break-classic-head-to-head.json) |
+| Dragon Break Classic Plus | 310366 | [310366-dragon-break-classic-plus.json](./310366-dragon-break-classic-plus.json) |
 | Dragon Breed | 6791 | [6791-dragon-breed.json](./6791-dragon-breed.json) |
 | Dragon Bride | 134607 | [134607-dragon-bride.json](./134607-dragon-bride.json) |
 | Dragon Bros: Collector's Edition | 52946 | [52946-dragon-bros-collectors-edition.json](./52946-dragon-bros-collectors-edition.json) |
