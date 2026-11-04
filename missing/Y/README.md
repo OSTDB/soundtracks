@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YIIK: A Postmodern RPG | 30206 | [30206-yiik-a-postmodern-rpg.json](./30206-yiik-a-postmodern-rpg.json) |
 | YIIK: I.V | 228310 | [228310-yiik-i-v.json](./228310-yiik-i-v.json) |
 | Yiki Action RPG | 117692 | [117692-yiki-action-rpg.json](./117692-yiki-action-rpg.json) |
+| Yin Peach Blossom | 326935 | [326935-yin-peach-blossom.json](./326935-yin-peach-blossom.json) |
 | Yin Yang | 160091 | [160091-yin-yang.json](./160091-yin-yang.json) |
 | Yin Yang | 280673 | [280673-yin-yang.json](./280673-yin-yang.json) |
 | Yin Yang Space | 197075 | [197075-yin-yang-space.json](./197075-yin-yang-space.json) |
@@ -1776,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yukomon | 337755 | [337755-yukomon.json](./337755-yukomon.json) |
 | Yukon Russian Solitaire | 370352 | [370352-yukon-russian-solitaire.json](./370352-yukon-russian-solitaire.json) |
 | Yukti | 174360 | [174360-yukti.json](./174360-yukti.json) |
+| Yukuhito no Pleroma | 327074 | [327074-yukuhito-no-pleroma.json](./327074-yukuhito-no-pleroma.json) |
 | Yukyo Station | 216809 | [216809-yukyo-station.json](./216809-yukyo-station.json) |
 | Yul-Hyul Kangho M: Ruler of the Land | 174624 | [174624-yul-hyul-kangho-m-ruler-of-the-land.json](./174624-yul-hyul-kangho-m-ruler-of-the-land.json) |
 | Yuldigard's Fate | 133463 | [133463-yuldigards-fate.json](./133463-yuldigards-fate.json) |
