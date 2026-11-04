@@ -11015,6 +11015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Roar Extreme | 225826 | [225826-bloody-roar-extreme.json](./225826-bloody-roar-extreme.json) |
 | Bloody Roar Extreme: Recomp | 424596 | [424596-bloody-roar-extreme-recomp.json](./424596-bloody-roar-extreme-recomp.json) |
 | Bloody Roar: Primal Fury | 18054 | [18054-bloody-roar-primal-fury.json](./18054-bloody-roar-primal-fury.json) |
+| Bloody Roses | 306261 | [306261-bloody-roses.json](./306261-bloody-roses.json) |
 | Bloody Rune | 320433 | [320433-bloody-rune.json](./320433-bloody-rune.json) |
 | Bloody Rust | 315537 | [315537-bloody-rust.json](./315537-bloody-rust.json) |
 | Bloody Rust 2 | 315538 | [315538-bloody-rust-2.json](./315538-bloody-rust-2.json) |
@@ -15739,6 +15740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutish Mine | 22372 | [22372-brutish-mine.json](./22372-brutish-mine.json) |
 | Brutus | 178041 | [178041-brutus.json](./178041-brutus.json) |
 | Brutus | 91950 | [91950-brutus.json](./91950-brutus.json) |
+| Brutus Maximus | 306304 | [306304-brutus-maximus.json](./306304-brutus-maximus.json) |
 | Bruv | 172436 | [172436-bruv.json](./172436-bruv.json) |
 | Bruxa | 184377 | [184377-bruxa.json](./184377-bruxa.json) |
 | Bruxa | 254645 | [254645-bruxa.json](./254645-bruxa.json) |
