@@ -2974,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only One Night | 394222 | [394222-only-one-night.json](./394222-only-one-night.json) |
 | Only One Rectangle | 161513 | [161513-only-one-rectangle.json](./161513-only-one-rectangle.json) |
 | Only One Shall Pass | 184431 | [184431-only-one-shall-pass.json](./184431-only-one-shall-pass.json) |
+| Only One Sword | 309824 | [309824-only-one-sword.json](./309824-only-one-sword.json) |
 | Only One Way Up | 256919 | [256919-only-one-way-up.json](./256919-only-one-way-up.json) |
 | Only Out | 329340 | [329340-only-out.json](./329340-only-out.json) |
 | Only Pinball | 292532 | [292532-only-pinball.json](./292532-only-pinball.json) |
@@ -3822,6 +3823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orca 3: A Maldição dos Barbatantes | 261951 | [261951-orca-3-a-maldicao-dos-barbatantes.json](./261951-orca-3-a-maldicao-dos-barbatantes.json) |
 | Orca: a lenda dos mares | 261949 | [261949-orca-a-lenda-dos-mares.json](./261949-orca-a-lenda-dos-mares.json) |
 | OrcCraft | 97080 | [97080-orccraft.json](./97080-orccraft.json) |
+| Orcdom | 309794 | [309794-orcdom.json](./309794-orcdom.json) |
 | Orch Star | 76615 | [76615-orch-star.json](./76615-orch-star.json) |
 | Orchard | 287538 | [287538-orchard.json](./287538-orchard.json) |
 | Orchard | 92511 | [92511-orchard.json](./92511-orchard.json) |
