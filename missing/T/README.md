@@ -2800,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tcaf: Kate Beaton Dress Up!! | 184001 | [184001-tcaf-kate-beaton-dress-up.json](./184001-tcaf-kate-beaton-dress-up.json) |
 | Tcg & Duel | 346375 | [346375-tcg-and-duel.json](./346375-tcg-and-duel.json) |
 | TCG Card Collection: Tidy Up | 424614 | [424614-tcg-card-collection-tidy-up.json](./424614-tcg-card-collection-tidy-up.json) |
+| TCG Card Market Simulator | 323641 | [323641-tcg-card-market-simulator.json](./323641-tcg-card-market-simulator.json) |
 | TCG Card Shop Empire | 323680 | [323680-tcg-card-shop-empire.json](./323680-tcg-card-shop-empire.json) |
 | TCG Card Shop Manager | 328084 | [328084-tcg-card-shop-manager.json](./328084-tcg-card-shop-manager.json) |
 | TCG Card Shop Simulator | 309862 | [309862-tcg-card-shop-simulator.json](./309862-tcg-card-shop-simulator.json) |
@@ -6933,6 +6934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cesspit | 367966 | [367966-the-cesspit.json](./367966-the-cesspit.json) |
 | The Chad | 269191 | [269191-the-chad.json](./269191-the-chad.json) |
 | The Chain | 182676 | [182676-the-chain.json](./182676-the-chain.json) |
+| The Chain to Bind You to Earth | 323624 | [323624-the-chain-to-bind-you-to-earth.json](./323624-the-chain-to-bind-you-to-earth.json) |
 | The Chain Witches | 299519 | [299519-the-chain-witches.json](./299519-the-chain-witches.json) |
 | The Chains That Bound Me | 125693 | [125693-the-chains-that-bound-me.json](./125693-the-chains-that-bound-me.json) |
 | The Chainsaw Incident | 52920 | [52920-the-chainsaw-incident.json](./52920-the-chainsaw-incident.json) |
@@ -10142,6 +10144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hanging Gardens | 183826 | [183826-the-hanging-gardens.json](./183826-the-hanging-gardens.json) |
 | The Hangman | 264609 | [264609-the-hangman.json](./264609-the-hangman.json) |
 | The Hangman's Noose | 58222 | [58222-the-hangmans-noose.json](./58222-the-hangmans-noose.json) |
+| The Happenings At Bowers End | 323627 | [323627-the-happenings-at-bowers-end.json](./323627-the-happenings-at-bowers-end.json) |
 | The Happies: Doomsday Stories | 247879 | [247879-the-happies-doomsday-stories.json](./247879-the-happies-doomsday-stories.json) |
 | The Happiest Days of Your Life | 13870 | [13870-the-happiest-days-of-your-life.json](./13870-the-happiest-days-of-your-life.json) |
 | The Happy Dismal Town | 192718 | [192718-the-happy-dismal-town.json](./192718-the-happy-dismal-town.json) |
@@ -13731,6 +13734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The New Adventures Of Billy The Kid | 399983 | [399983-the-new-adventures-of-billy-the-kid.json](./399983-the-new-adventures-of-billy-the-kid.json) |
 | The New Adventures of Sonic the Hedgehog | 316589 | [316589-the-new-adventures-of-sonic-the-hedgehog.json](./316589-the-new-adventures-of-sonic-the-hedgehog.json) |
 | The New Adventures of the Time Machine | 24127 | [24127-the-new-adventures-of-the-time-machine.json](./24127-the-new-adventures-of-the-time-machine.json) |
+| The New Adventures of Zak McKracken | 323645 | [323645-the-new-adventures-of-zak-mckracken.json](./323645-the-new-adventures-of-zak-mckracken.json) |
 | The New Apartment | 332567 | [332567-the-new-apartment.json](./332567-the-new-apartment.json) |
 | The New California | 61649 | [61649-the-new-california.json](./61649-the-new-california.json) |
 | The New Castle | 70067 | [70067-the-new-castle.json](./70067-the-new-castle.json) |
@@ -19087,6 +19091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Don't Sleep | 212094 | [212094-they-dont-sleep.json](./212094-they-dont-sleep.json) |
 | They Dug Too Deep | 258974 | [258974-they-dug-too-deep.json](./258974-they-dug-too-deep.json) |
 | They Fear The Mist | 292536 | [292536-they-fear-the-mist.json](./292536-they-fear-the-mist.json) |
+| They Follow You | 323490 | [323490-they-follow-you.json](./323490-they-follow-you.json) |
 | They Grew Lungs and Drowned | 301326 | [301326-they-grew-lungs-and-drowned.json](./301326-they-grew-lungs-and-drowned.json) |
 | They Grow | 178820 | [178820-they-grow.json](./178820-they-grow.json) |
 | They Have Horns | 87555 | [87555-they-have-horns.json](./87555-they-have-horns.json) |
@@ -27558,6 +27563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: ÖBB 4023 ‘Talent' EMU Add-On | 162546 | [162546-train-simulator-obb-4023-talent-emu-add-on.json](./162546-train-simulator-obb-4023-talent-emu-add-on.json) |
 | Train Simulator: ÖBB 4746 Cityjet EMU | 212598 | [212598-train-simulator-obb-4746-cityjet-emu.json](./212598-train-simulator-obb-4746-cityjet-emu.json) |
 | Train Simulator: ÖBB 4748 | 306074 | [306074-train-simulator-obb-4748.json](./306074-train-simulator-obb-4748.json) |
+| Train Simulator: Odakyu Dentetsu Odawara-sen 5000-gata | 323637 | [323637-train-simulator-odakyu-dentetsu-odawara-sen-5000-gata.json](./323637-train-simulator-odakyu-dentetsu-odawara-sen-5000-gata.json) |
 | Train Simulator: Odakyu Electric Railway Odakyu Line Type 5000 | 92252 | [92252-train-simulator-odakyu-electric-railway-odakyu-line-type-5000.json](./92252-train-simulator-odakyu-electric-railway-odakyu-line-type-5000.json) |
 | Train Simulator: Ohio Steel 2 Route Add-On | 156458 | [156458-train-simulator-ohio-steel-2-route-add-on.json](./156458-train-simulator-ohio-steel-2-route-add-on.json) |
 | Train Simulator: Outeniqua Choo Tjoe Route Add-On | 156451 | [156451-train-simulator-outeniqua-choo-tjoe-route-add-on.json](./156451-train-simulator-outeniqua-choo-tjoe-route-add-on.json) |
@@ -27578,6 +27584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Rudolfsbahn: Bruck an der Mur - Selzthal & Knittelfeld | 293693 | [293693-train-simulator-rudolfsbahn-bruck-an-der-mur-selzthal-and-knittelfeld.json](./293693-train-simulator-rudolfsbahn-bruck-an-der-mur-selzthal-and-knittelfeld.json) |
 | Train Simulator: Ruhr-Sieg Route Add-On | 156450 | [156450-train-simulator-ruhr-sieg-route-add-on.json](./156450-train-simulator-ruhr-sieg-route-add-on.json) |
 | Train Simulator: S25 Heart of Berlin: Hennigsdorf - Teltow Route Add-On | 156416 | [156416-train-simulator-s25-heart-of-berlin-hennigsdorf-teltow-route-add-on.json](./156416-train-simulator-s25-heart-of-berlin-hennigsdorf-teltow-route-add-on.json) |
+| Train Simulator: Sagami Tetsudou Honsen 9000-kei | 323639 | [323639-train-simulator-sagami-tetsudou-honsen-9000-kei.json](./323639-train-simulator-sagami-tetsudou-honsen-9000-kei.json) |
 | Train Simulator: Salzburg - Mühldorf Route | 191023 | [191023-train-simulator-salzburg-muhldorf-route.json](./191023-train-simulator-salzburg-muhldorf-route.json) |
 | Train Simulator: ScotRail Class 68 Loco Add-on | 162554 | [162554-train-simulator-scotrail-class-68-loco-add-on.json](./162554-train-simulator-scotrail-class-68-loco-add-on.json) |
 | Train Simulator: SD40-2 Independence Loco Add-On | 162032 | [162032-train-simulator-sd40-2-independence-loco-add-on.json](./162032-train-simulator-sd40-2-independence-loco-add-on.json) |
@@ -27615,6 +27622,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: The Story of Forest Rail Route Add-On | 156481 | [156481-train-simulator-the-story-of-forest-rail-route-add-on.json](./156481-train-simulator-the-story-of-forest-rail-route-add-on.json) |
 | Train Simulator: Three Country Corner Route Add-On | 156408 | [156408-train-simulator-three-country-corner-route-add-on.json](./156408-train-simulator-three-country-corner-route-add-on.json) |
 | Train Simulator: Tirol: Brenner - Kufstein Route Add-On | 156490 | [156490-train-simulator-tirol-brenner-kufstein-route-add-on.json](./156490-train-simulator-tirol-brenner-kufstein-route-add-on.json) |
+| Train Simulator: Tohoku-honsen 211-kei | 323633 | [323633-train-simulator-tohoku-honsen-211-kei.json](./323633-train-simulator-tohoku-honsen-211-kei.json) |
+| Train Simulator: Tokaido-honsen 211-kei | 323626 | [323626-train-simulator-tokaido-honsen-211-kei.json](./323626-train-simulator-tokaido-honsen-211-kei.json) |
 | Train Simulator: Totham – Passengers, Power & Freight Route Add-On | 156345 | [156345-train-simulator-totham-passengers-power-and-freight-route-add-on.json](./156345-train-simulator-totham-passengers-power-and-freight-route-add-on.json) |
 | Train Simulator: Trainload BR Class 60 Loco Add-On | 162023 | [162023-train-simulator-trainload-br-class-60-loco-add-on.json](./162023-train-simulator-trainload-br-class-60-loco-add-on.json) |
 | Train Simulator: UK Military Wagon Pack | 162338 | [162338-train-simulator-uk-military-wagon-pack.json](./162338-train-simulator-uk-military-wagon-pack.json) |
@@ -28904,6 +28913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trashmorfers | 241986 | [241986-trashmorfers.json](./241986-trashmorfers.json) |
 | Trashpunk | 132687 | [132687-trashpunk.json](./132687-trashpunk.json) |
 | Trashville | 29546 | [29546-trashville.json](./29546-trashville.json) |
+| Trashworld Chaos | 323480 | [323480-trashworld-chaos.json](./323480-trashworld-chaos.json) |
 | Trashyard | 163192 | [163192-trashyard.json](./163192-trashyard.json) |
 | Trasta | 128978 | [128978-trasta.json](./128978-trasta.json) |
 | Tratel64 | 75207 | [75207-tratel64.json](./75207-tratel64.json) |
@@ -32276,6 +32286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typo | 403693 | [403693-typo.json](./403693-typo.json) |
 | Typo II | 42168 | [42168-typo-ii.json](./42168-typo-ii.json) |
 | Typo Man | 42142 | [42142-typo-man.json](./42142-typo-man.json) |
+| Typo! | 323488 | [323488-typo.json](./323488-typo.json) |
 | TypoGun | 93364 | [93364-typogun.json](./93364-typogun.json) |
 | Typomagical | 358232 | [358232-typomagical.json](./358232-typomagical.json) |
 | Typoman: Revised | 52993 | [52993-typoman-revised.json](./52993-typoman-revised.json) |
