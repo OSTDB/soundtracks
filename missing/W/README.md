@@ -6909,6 +6909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderbox: The Adventure Maker | 142352 | [142352-wonderbox-the-adventure-maker.json](./142352-wonderbox-the-adventure-maker.json) |
 | WonderCat Adventures | 34924 | [34924-wondercat-adventures.json](./34924-wondercat-adventures.json) |
 | WonderCell | 274868 | [274868-wondercell.json](./274868-wondercell.json) |
+| WonderEnd 0 | 341258 | [341258-wonderend-0.json](./341258-wonderend-0.json) |
 | Wonderfall | 361645 | [361645-wonderfall.json](./361645-wonderfall.json) |
 | Wonderful Dizzy | 141687 | [141687-wonderful-dizzy.json](./141687-wonderful-dizzy.json) |
 | Wonderful Duck | 182991 | [182991-wonderful-duck.json](./182991-wonderful-duck.json) |
@@ -8028,6 +8029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warships: Kong - Primordial Rage | 147041 | [147041-world-of-warships-kong-primordial-rage.json](./147041-world-of-warships-kong-primordial-rage.json) |
 | World of Warships: Legends | 107250 | [107250-world-of-warships-legends.json](./107250-world-of-warships-legends.json) |
 | World of Warships: Legends - A Tale of Bravery | 334551 | [334551-world-of-warships-legends-a-tale-of-bravery.json](./334551-world-of-warships-legends-a-tale-of-bravery.json) |
+| World of Warships: Legends - Agile Guardian | 341384 | [341384-world-of-warships-legends-agile-guardian.json](./341384-world-of-warships-legends-agile-guardian.json) |
 | World of Warships: Legends - Captain's Essentials | 340747 | [340747-world-of-warships-legends-captains-essentials.json](./340747-world-of-warships-legends-captains-essentials.json) |
 | World of Warships: Legends - Dawn's Guardian | 332046 | [332046-world-of-warships-legends-dawns-guardian.json](./332046-world-of-warships-legends-dawns-guardian.json) |
 | World of Warships: Legends - Eagle Union's Power | 332047 | [332047-world-of-warships-legends-eagle-unions-power.json](./332047-world-of-warships-legends-eagle-unions-power.json) |
