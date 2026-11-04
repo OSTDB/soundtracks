@@ -8665,6 +8665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Dawn VI: Hellbound | 124724 | [124724-black-dawn-vi-hellbound.json](./124724-black-dawn-vi-hellbound.json) |
 | Black Day | 55603 | [55603-black-day.json](./55603-black-day.json) |
 | Black Death | 65753 | [65753-black-death.json](./65753-black-death.json) |
+| Black Death Interactive | 320665 | [320665-black-death-interactive.json](./320665-black-death-interactive.json) |
 | Black Death: A Tragic Dirge | 212718 | [212718-black-death-a-tragic-dirge.json](./212718-black-death-a-tragic-dirge.json) |
 | Black Death: Divarication | 55587 | [55587-black-death-divarication.json](./55587-black-death-divarication.json) |
 | Black Desert | 6292 | [6292-black-desert.json](./6292-black-desert.json) |
@@ -15006,6 +15007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks of Camelot | 72267 | [72267-bricks-of-camelot.json](./72267-bricks-of-camelot.json) |
 | Bricks of Egypt 2: Tears of the Pharaohs | 71353 | [71353-bricks-of-egypt-2-tears-of-the-pharaohs.json](./71353-bricks-of-egypt-2-tears-of-the-pharaohs.json) |
 | Bricks of Rome | 254699 | [254699-bricks-of-rome.json](./254699-bricks-of-rome.json) |
+| Bricks Survivors | 320640 | [320640-bricks-survivors.json](./320640-bricks-survivors.json) |
 | Bricks: Block Puzzle Game | 87924 | [87924-bricks-block-puzzle-game.json](./87924-bricks-block-puzzle-game.json) |
 | Bricks4ever | 79569 | [79569-bricks4ever.json](./79569-bricks4ever.json) |
 | Bricksbumpbump | 325830 | [325830-bricksbumpbump.json](./325830-bricksbumpbump.json) |
@@ -17098,6 +17100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Lord | 111438 | [111438-burger-lord.json](./111438-burger-lord.json) |
 | Burger Maker | 285160 | [285160-burger-maker.json](./285160-burger-maker.json) |
 | Burger Maker | 364156 | [364156-burger-maker.json](./364156-burger-maker.json) |
+| Burger Man | 320647 | [320647-burger-man.json](./320647-burger-man.json) |
 | Burger Memory Game | 240919 | [240919-burger-memory-game.json](./240919-burger-memory-game.json) |
 | Burger Night | 158708 | [158708-burger-night.json](./158708-burger-night.json) |
 | Burger Patrol | 189928 | [189928-burger-patrol.json](./189928-burger-patrol.json) |
