@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janosik 2: Prologue | 316419 | [316419-janosik-2-prologue.json](./316419-janosik-2-prologue.json) |
 | Janpuu 7 | 415965 | [415965-janpuu-7.json](./415965-janpuu-7.json) |
 | JanRyuMon M | 138661 | [138661-janryumon-m.json](./138661-janryumon-m.json) |
+| Jansei Gakuen: Chrono Magic | 343156 | [343156-jansei-gakuen-chrono-magic.json](./343156-jansei-gakuen-chrono-magic.json) |
 | Janshin Densetsu: Quest of Jongmaster | 75458 | [75458-janshin-densetsu-quest-of-jongmaster.json](./75458-janshin-densetsu-quest-of-jongmaster.json) |
 | Jansou Ou | 78089 | [78089-jansou-ou.json](./78089-jansou-ou.json) |
 | Jantaku Boy | 62577 | [62577-jantaku-boy.json](./62577-jantaku-boy.json) |
