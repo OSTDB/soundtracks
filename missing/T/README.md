@@ -24630,6 +24630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Trumps: NBA All Stars | 6904 | [6904-top-trumps-nba-all-stars.json](./6904-top-trumps-nba-all-stars.json) |
 | Top Trumps: US Presidents | 57553 | [57553-top-trumps-us-presidents.json](./57553-top-trumps-us-presidents.json) |
 | Top Villain: Total Domination | 250749 | [250749-top-villain-total-domination.json](./250749-top-villain-total-domination.json) |
+| Top War RTTs | 339557 | [339557-top-war-rtts.json](./339557-top-war-rtts.json) |
 | Top Web Search 23 | 283719 | [283719-top-web-search-23.json](./283719-top-web-search-23.json) |
 | Top wo Nerae: Cybernetic High-School III | 66210 | [66210-top-wo-nerae-cybernetic-high-school-iii.json](./66210-top-wo-nerae-cybernetic-high-school-iii.json) |
 | Top-Secret Personal Beeswax: Share a Journal with Junie B. | 230454 | [230454-top-secret-personal-beeswax-share-a-journal-with-junie-b.json](./230454-top-secret-personal-beeswax-share-a-journal-with-junie-b.json) |
