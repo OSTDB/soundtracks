@@ -1166,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warden | 324729 | [324729-warden.json](./324729-warden.json) |
 | Warden | 377157 | [377157-warden.json](./377157-warden.json) |
 | Warden of the Coast | 243124 | [243124-warden-of-the-coast.json](./243124-warden-of-the-coast.json) |
+| Warden of the Crypt | 336297 | [336297-warden-of-the-crypt.json](./336297-warden-of-the-crypt.json) |
 | Warden of the Isles | 129264 | [129264-warden-of-the-isles.json](./129264-warden-of-the-isles.json) |
 | Warden's Will | 190730 | [190730-wardens-will.json](./190730-wardens-will.json) |
 | Wardenmark | 420326 | [420326-wardenmark.json](./420326-wardenmark.json) |
@@ -8941,6 +8942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuthering Waves: In the Turquoise Moonglow | 314735 | [314735-wuthering-waves-in-the-turquoise-moonglow.json](./314735-wuthering-waves-in-the-turquoise-moonglow.json) |
 | Wuthering Waves: Lightly We Toss the Crown | 346182 | [346182-wuthering-waves-lightly-we-toss-the-crown.json](./346182-wuthering-waves-lightly-we-toss-the-crown.json) |
 | Wuthering Waves: Resolution to Illuminate the Shadows | 394857 | [394857-wuthering-waves-resolution-to-illuminate-the-shadows.json](./394857-wuthering-waves-resolution-to-illuminate-the-shadows.json) |
+| Wuthering Waves: Tangled Truth in Inverted Tower | 336262 | [336262-wuthering-waves-tangled-truth-in-inverted-tower.json](./336262-wuthering-waves-tangled-truth-in-inverted-tower.json) |
 | Wuthering Waves: Thaw of Eons | 311653 | [311653-wuthering-waves-thaw-of-eons.json](./311653-wuthering-waves-thaw-of-eons.json) |
 | Wuthering Waves: To the City Set in Amber | 377973 | [377973-wuthering-waves-to-the-city-set-in-amber.json](./377973-wuthering-waves-to-the-city-set-in-amber.json) |
 | Wuthering Waves: To the Shore's End | 317337 | [317337-wuthering-waves-to-the-shores-end.json](./317337-wuthering-waves-to-the-shores-end.json) |
