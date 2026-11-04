@@ -3952,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niconotes the Whoo! | 149887 | [149887-niconotes-the-whoo.json](./149887-niconotes-the-whoo.json) |
 | Nicotine Merchant Simulator | 415193 | [415193-nicotine-merchant-simulator.json](./415193-nicotine-merchant-simulator.json) |
 | Nictheroy | 154031 | [154031-nictheroy.json](./154031-nictheroy.json) |
+| Nidana | 341786 | [341786-nidana.json](./341786-nidana.json) |
 | Nidavelir2 | 362726 | [362726-nidavelir2.json](./362726-nidavelir2.json) |
 | Nidhogg | 5551 | [5551-nidhogg.json](./5551-nidhogg.json) |
 | Nidhogg 2 | 24482 | [24482-nidhogg-2.json](./24482-nidhogg-2.json) |
