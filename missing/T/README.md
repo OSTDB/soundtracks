@@ -7645,6 +7645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Mantras | 150965 | [150965-the-curse-of-mantras.json](./150965-the-curse-of-mantras.json) |
 | The Curse of Mount Madre | 328280 | [328280-the-curse-of-mount-madre.json](./328280-the-curse-of-mount-madre.json) |
 | The Curse of Nordic Cove | 35544 | [35544-the-curse-of-nordic-cove.json](./35544-the-curse-of-nordic-cove.json) |
+| The Curse of Orion The Next Encounter | 305060 | [305060-the-curse-of-orion-the-next-encounter.json](./305060-the-curse-of-orion-the-next-encounter.json) |
 | The Curse of Ra | 127340 | [127340-the-curse-of-ra.json](./127340-the-curse-of-ra.json) |
 | The Curse of Rabenstein | 231520 | [231520-the-curse-of-rabenstein.json](./231520-the-curse-of-rabenstein.json) |
 | The Curse of Sherwood | 13538 | [13538-the-curse-of-sherwood.json](./13538-the-curse-of-sherwood.json) |
@@ -13758,6 +13759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
 | The Naki Files | 332937 | [332937-the-naki-files.json](./332937-the-naki-files.json) |
 | The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
+| The Name is Dio | 305110 | [305110-the-name-is-dio.json](./305110-the-name-is-dio.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -14351,6 +14353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Patchmaker's Workshop | 313089 | [313089-the-patchmakers-workshop.json](./313089-the-patchmakers-workshop.json) |
 | The Path | 10199 | [10199-the-path.json](./10199-the-path.json) |
 | The Path | 398120 | [398120-the-path.json](./398120-the-path.json) |
+| The Path into the Abyss | 305088 | [305088-the-path-into-the-abyss.json](./305088-the-path-into-the-abyss.json) |
 | The Path of Blades | 367484 | [367484-the-path-of-blades.json](./367484-the-path-of-blades.json) |
 | The Path of Calydra | 138527 | [138527-the-path-of-calydra.json](./138527-the-path-of-calydra.json) |
 | The Path of Greatest Resistance | 32372 | [32372-the-path-of-greatest-resistance.json](./32372-the-path-of-greatest-resistance.json) |
@@ -14621,6 +14624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Possession Experiment | 402683 | [402683-the-possession-experiment.json](./402683-the-possession-experiment.json) |
 | The Posthumous Investigation | 255719 | [255719-the-posthumous-investigation.json](./255719-the-posthumous-investigation.json) |
 | The Postman Only Dies Once | 71245 | [71245-the-postman-only-dies-once.json](./71245-the-postman-only-dies-once.json) |
+| The Postman Shoots Twice | 305092 | [305092-the-postman-shoots-twice.json](./305092-the-postman-shoots-twice.json) |
 | The Potion Master | 232549 | [232549-the-potion-master.json](./232549-the-potion-master.json) |
 | The Potion Shop | 225741 | [225741-the-potion-shop.json](./225741-the-potion-shop.json) |
 | The Poulet sans Tête | 350365 | [350365-the-poulet-sans-tete.json](./350365-the-poulet-sans-tete.json) |
@@ -18869,6 +18873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheDawn | 141735 | [141735-thedawn.json](./141735-thedawn.json) |
 | TheDay | 292935 | [292935-theday.json](./292935-theday.json) |
 | TheDrippingSound | 392494 | [392494-thedrippingsound.json](./392494-thedrippingsound.json) |
+| TheExit8NYC | 305065 | [305065-theexit8nyc.json](./305065-theexit8nyc.json) |
 | TheFirstClass VR | 74538 | [74538-thefirstclass-vr.json](./74538-thefirstclass-vr.json) |
 | theFisher Online | 120472 | [120472-thefisher-online.json](./120472-thefisher-online.json) |
 | Theft Ride Legacy | 250391 | [250391-theft-ride-legacy.json](./250391-theft-ride-legacy.json) |
@@ -22756,6 +22761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Knights | 180481 | [180481-tiny-knights.json](./180481-tiny-knights.json) |
 | Tiny Landlord | 213996 | [213996-tiny-landlord.json](./213996-tiny-landlord.json) |
 | Tiny Lands | 142488 | [142488-tiny-lands.json](./142488-tiny-lands.json) |
+| Tiny Lands 2 | 305077 | [305077-tiny-lands-2.json](./305077-tiny-lands-2.json) |
 | Tiny Lands: Deluxe Edition | 332347 | [332347-tiny-lands-deluxe-edition.json](./332347-tiny-lands-deluxe-edition.json) |
 | Tiny Lands: Diorama set 1 | 404268 | [404268-tiny-lands-diorama-set-1.json](./404268-tiny-lands-diorama-set-1.json) |
 | Tiny Lands: Expansion Pack 1 | 231288 | [231288-tiny-lands-expansion-pack-1.json](./231288-tiny-lands-expansion-pack-1.json) |
@@ -24615,6 +24621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Fazed | 183812 | [183812-too-fazed.json](./183812-too-fazed.json) |
 | Too Hot to Be True | 406715 | [406715-too-hot-to-be-true.json](./406715-too-hot-to-be-true.json) |
 | Too Hot to Handle 2 Netflix | 257782 | [257782-too-hot-to-handle-2-netflix.json](./257782-too-hot-to-handle-2-netflix.json) |
+| Too Hot to Handle 3 | 305103 | [305103-too-hot-to-handle-3.json](./305103-too-hot-to-handle-3.json) |
 | Too Hot to Handle: Love is a Game | 204449 | [204449-too-hot-to-handle-love-is-a-game.json](./204449-too-hot-to-handle-love-is-a-game.json) |
 | Too Hot to Hold | 416739 | [416739-too-hot-to-hold.json](./416739-too-hot-to-hold.json) |
 | Too Human | 292152 | [292152-too-human.json](./292152-too-human.json) |
