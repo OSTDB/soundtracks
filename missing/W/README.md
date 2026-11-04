@@ -1848,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarpSpeed | 4494 | [4494-warpspeed.json](./4494-warpspeed.json) |
 | Warpspeed Infinity | 198018 | [198018-warpspeed-infinity.json](./198018-warpspeed-infinity.json) |
 | Warpsquad | 216844 | [216844-warpsquad.json](./216844-warpsquad.json) |
+| Warpswap | 333817 | [333817-warpswap.json](./333817-warpswap.json) |
 | Warptank | 318726 | [318726-warptank.json](./318726-warptank.json) |
 | WarpVector | 215665 | [215665-warpvector.json](./215665-warpvector.json) |
 | Warpzone Drifter | 111853 | [111853-warpzone-drifter.json](./111853-warpzone-drifter.json) |
