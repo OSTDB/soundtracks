@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walls That Watch | 350291 | [350291-walls-that-watch.json](./350291-walls-that-watch.json) |
 | Wallslide | 32802 | [32802-wallslide.json](./32802-wallslide.json) |
 | WallSmashers | 334168 | [334168-wallsmashers.json](./334168-wallsmashers.json) |
+| Wallsurf | 320074 | [320074-wallsurf.json](./320074-wallsurf.json) |
 | WallWar | 287200 | [287200-wallwar.json](./287200-wallwar.json) |
 | Wally and the Fantastic Predators | 121922 | [121922-wally-and-the-fantastic-predators.json](./121922-wally-and-the-fantastic-predators.json) |
 | Wally the Seal 2 | 320255 | [320255-wally-the-seal-2.json](./320255-wally-the-seal-2.json) |
@@ -1171,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warden of the Coast | 243124 | [243124-warden-of-the-coast.json](./243124-warden-of-the-coast.json) |
 | Warden of the Crypt | 336297 | [336297-warden-of-the-crypt.json](./336297-warden-of-the-crypt.json) |
 | Warden of the Isles | 129264 | [129264-warden-of-the-isles.json](./129264-warden-of-the-isles.json) |
+| Warden's Ascent | 320104 | [320104-wardens-ascent.json](./320104-wardens-ascent.json) |
 | Warden's Will | 190730 | [190730-wardens-will.json](./190730-wardens-will.json) |
 | Wardenmark | 420326 | [420326-wardenmark.json](./420326-wardenmark.json) |
 | Wardens | 122900 | [122900-wardens.json](./122900-wardens.json) |
@@ -4450,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Heart Baekgu | 209290 | [209290-white-heart-baekgu.json](./209290-white-heart-baekgu.json) |
 | White Heart Baekgu 3 | 209292 | [209292-white-heart-baekgu-3.json](./209292-white-heart-baekgu-3.json) |
 | White Heart Baekgu's Second Story | 209291 | [209291-white-heart-baekgus-second-story.json](./209291-white-heart-baekgus-second-story.json) |
+| White Heaven | 320100 | [320100-white-heaven.json](./320100-white-heaven.json) |
 | White Hell | 162256 | [162256-white-hell.json](./162256-white-hell.json) |
 | White House | 409237 | [409237-white-house.json](./409237-white-house.json) |
 | White Iris | 419851 | [419851-white-iris.json](./419851-white-iris.json) |
@@ -4642,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire: 2nd Edition | 265057 | [265057-who-wants-to-be-a-millionaire-2nd-edition.json](./265057-who-wants-to-be-a-millionaire-2nd-edition.json) |
 | Who Wants to Be a Millionaire: 2nd Edition | 309014 | [309014-who-wants-to-be-a-millionaire-2nd-edition.json](./309014-who-wants-to-be-a-millionaire-2nd-edition.json) |
 | Who Wants to Be a Millionaire: 2nd Edition | 311655 | [311655-who-wants-to-be-a-millionaire-2nd-edition.json](./311655-who-wants-to-be-a-millionaire-2nd-edition.json) |
+| Who Wants to Be a Millionaire: Flash Edition | 319929 | [319929-who-wants-to-be-a-millionaire-flash-edition.json](./319929-who-wants-to-be-a-millionaire-flash-edition.json) |
 | Who Wants to Be a Millionaire: Hitchcock DLC Pack | 289323 | [289323-who-wants-to-be-a-millionaire-hitchcock-dlc-pack.json](./289323-who-wants-to-be-a-millionaire-hitchcock-dlc-pack.json) |
 | Who Wants to Be a Millionaire: Junior | 308991 | [308991-who-wants-to-be-a-millionaire-junior.json](./308991-who-wants-to-be-a-millionaire-junior.json) |
 | Who Wants to Be a Millionaire: Kids Edition | 80863 | [80863-who-wants-to-be-a-millionaire-kids-edition.json](./80863-who-wants-to-be-a-millionaire-kids-edition.json) |
