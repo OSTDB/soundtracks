@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ukrainian ball in search of gas | 91409 | [91409-ukrainian-ball-in-search-of-gas.json](./91409-ukrainian-ball-in-search-of-gas.json) |
 | Ukrainian Farmy | 198267 | [198267-ukrainian-farmy.json](./198267-ukrainian-farmy.json) |
 | Ukrainian Fight Drone Simulator | 306326 | [306326-ukrainian-fight-drone-simulator.json](./306326-ukrainian-fight-drone-simulator.json) |
+| Ukrainian Shield: Iraq | 337388 | [337388-ukrainian-shield-iraq.json](./337388-ukrainian-shield-iraq.json) |
 | Ukrainian Warfare: Gostomel Heroes | 391787 | [391787-ukrainian-warfare-gostomel-heroes.json](./391787-ukrainian-warfare-gostomel-heroes.json) |
 | Ukrainien Agent | 207682 | [207682-ukrainien-agent.json](./207682-ukrainien-agent.json) |
 | Uktena | 150596 | [150596-uktena.json](./150596-uktena.json) |
