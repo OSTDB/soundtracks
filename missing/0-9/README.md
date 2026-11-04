@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1-Bit Samurai | 181783 | [181783-1-bit-samurai.json](./181783-1-bit-samurai.json) |
 | 1-Button platformer | 323311 | [323311-1-button-platformer.json](./323311-1-button-platformer.json) |
 | 1-DC | 333410 | [333410-1-dc.json](./333410-1-dc.json) |
+| 1-nichi 10-pun de E ga Jouzu ni Kakeru Beena | 327566 | [327566-1-nichi-10-pun-de-e-ga-jouzu-ni-kakeru-beena.json](./327566-1-nichi-10-pun-de-e-ga-jouzu-ni-kakeru-beena.json) |
 | 1, 2 Blame! | 146107 | [146107-1-2-blame.json](./146107-1-2-blame.json) |
 | 1, 2, 3... Bruegel! | 118319 | [118319-1-2-3-bruegel.json](./118319-1-2-3-bruegel.json) |
 | 1,000,000,000 Spells | 403530 | [403530-1-000-000-000-spells.json](./403530-1-000-000-000-spells.json) |
@@ -2069,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 minutes until my brain dies | 358080 | [358080-30-minutes-until-my-brain-dies.json](./358080-30-minutes-until-my-brain-dies.json) |
 | 30 Minutes... or Less! | 63609 | [63609-30-minutes-or-less.json](./63609-30-minutes-or-less.json) |
 | 30 Pferdespiele | 91609 | [91609-30-pferdespiele.json](./91609-30-pferdespiele.json) |
+| 30 Second Life | 327530 | [327530-30-second-life.json](./327530-30-second-life.json) |
 | 30 Seconds to Jail | 97110 | [97110-30-seconds-to-jail.json](./97110-30-seconds-to-jail.json) |
 | 30 Sport Games in 1 | 256202 | [256202-30-sport-games-in-1.json](./256202-30-sport-games-in-1.json) |
 | 30 Years of Nintendon't | 215379 | [215379-30-years-of-nintendont.json](./215379-30-years-of-nintendont.json) |
