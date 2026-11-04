@@ -3953,6 +3953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Square | 120977 | [120977-red-square.json](./120977-red-square.json) |
 | Red Square Escape 2 | 165612 | [165612-red-square-escape-2.json](./165612-red-square-escape-2.json) |
 | Red Squares | 174567 | [174567-red-squares.json](./174567-red-squares.json) |
+| Red Stack | 308705 | [308705-red-stack.json](./308705-red-stack.json) |
 | Red Star Over America | 340710 | [340710-red-star-over-america.json](./340710-red-star-over-america.json) |
 | Red Stone Online | 35737 | [35737-red-stone-online.json](./35737-red-stone-online.json) |
 | Red Storm Rising | 15354 | [15354-red-storm-rising.json](./15354-red-storm-rising.json) |
