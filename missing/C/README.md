@@ -3974,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Tales: Premium Edition | 241396 | [241396-cat-tales-premium-edition.json](./241396-cat-tales-premium-edition.json) |
 | Cat Tiles: Matching Puzzle | 232377 | [232377-cat-tiles-matching-puzzle.json](./232377-cat-tiles-matching-puzzle.json) |
 | Cat Town | 187133 | [187133-cat-town.json](./187133-cat-town.json) |
+| Cat Town Valley | 326502 | [326502-cat-town-valley.json](./326502-cat-town-valley.json) |
 | Cat Train | 177493 | [177493-cat-train.json](./177493-cat-train.json) |
 | Cat Trax | 117412 | [117412-cat-trax.json](./117412-cat-trax.json) |
 | Cat Trax | 40689 | [40689-cat-trax.json](./40689-cat-trax.json) |
@@ -4606,6 +4607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Causeway | 105406 | [105406-causeway.json](./105406-causeway.json) |
 | Causeway | 242445 | [242445-causeway.json](./242445-causeway.json) |
 | Caustic Bloom | 284803 | [284803-caustic-bloom.json](./284803-caustic-bloom.json) |
+| Caustic Industry | 325935 | [325935-caustic-industry.json](./325935-caustic-industry.json) |
 | Caustic Murmurs | 416998 | [416998-caustic-murmurs.json](./416998-caustic-murmurs.json) |
 | Caution | 229590 | [229590-caution.json](./229590-caution.json) |
 | Caution Ahead: Part 2 | 305142 | [305142-caution-ahead-part-2.json](./305142-caution-ahead-part-2.json) |
@@ -9193,6 +9195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clair Obscur: Expedition 33 – Deluxe Edition | 333209 | [333209-clair-obscur-expedition-33-deluxe-edition.json](./333209-clair-obscur-expedition-33-deluxe-edition.json) |
 | Claire | 10082 | [10082-claire.json](./10082-claire.json) |
 | Claire | 354721 | [354721-claire.json](./354721-claire.json) |
+| Claire a la Mode | 325941 | [325941-claire-a-la-mode.json](./325941-claire-a-la-mode.json) |
 | Claire Darksage and the Accursed Objects: Collector's Editon | 362828 | [362828-claire-darksage-and-the-accursed-objects-collectors-editon.json](./362828-claire-darksage-and-the-accursed-objects-collectors-editon.json) |
 | Claire Darksage and the Penumbra Deaths: Collector's Edition | 416780 | [416780-claire-darksage-and-the-penumbra-deaths-collectors-edition.json](./416780-claire-darksage-and-the-penumbra-deaths-collectors-edition.json) |
 | Claire de Lune | 118217 | [118217-claire-de-lune.json](./118217-claire-de-lune.json) |
@@ -10378,6 +10381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clubhouse Games: 51 Worldwide Classics | 131961 | [131961-clubhouse-games-51-worldwide-classics.json](./131961-clubhouse-games-51-worldwide-classics.json) |
 | ClubR: Online Car Parking Game | 199973 | [199973-clubr-online-car-parking-game.json](./199973-clubr-online-car-parking-game.json) |
 | Cluck | 195184 | [195184-cluck.json](./195184-cluck.json) |
+| Cluck and Conquer | 325977 | [325977-cluck-and-conquer.json](./325977-cluck-and-conquer.json) |
 | Cluck and Tag | 389702 | [389702-cluck-and-tag.json](./389702-cluck-and-tag.json) |
 | Cluck Avengers | 299407 | [299407-cluck-avengers.json](./299407-cluck-avengers.json) |
 | Cluck Cluck'em | 183456 | [183456-cluck-cluckem.json](./183456-cluck-cluckem.json) |
@@ -17782,6 +17786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt Worlds | 63063 | [63063-crypt-worlds.json](./63063-crypt-worlds.json) |
 | Crypt-Oink Racing Friends | 130823 | [130823-crypt-oink-racing-friends.json](./130823-crypt-oink-racing-friends.json) |
 | Crypt: The Black Tower | 84059 | [84059-crypt-the-black-tower.json](./84059-crypt-the-black-tower.json) |
+| Crypt's Game | 326512 | [326512-crypts-game.json](./326512-crypts-game.json) |
 | Cryptadia Village | 356979 | [356979-cryptadia-village.json](./356979-cryptadia-village.json) |
 | Cryptage | 333114 | [333114-cryptage.json](./333114-cryptage.json) |
 | CryptantCrab | 110043 | [110043-cryptantcrab.json](./110043-cryptantcrab.json) |
