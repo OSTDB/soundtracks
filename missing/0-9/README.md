@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | [REC] Paroxysm | 302905 | [302905-rec-paroxysm.json](./302905-rec-paroxysm.json) |
 | [Redacted] | 292844 | [292844-redacted.json](./292844-redacted.json) |
 | [Redacted] | 396399 | [396399-redacted.json](./396399-redacted.json) |
+| [Redacted] Techbase | 315736 | [315736-redacted-techbase.json](./315736-redacted-techbase.json) |
 | [Redacted] the Safehouse | 398337 | [398337-redacted-the-safehouse.json](./398337-redacted-the-safehouse.json) |
 | [Siberia] | 125005 | [125005-siberia.json](./125005-siberia.json) |
 | [Speer] | 134672 | [134672-speer.json](./134672-speer.json) |
@@ -2857,6 +2858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5050 | 260709 | [260709-5050.json](./260709-5050.json) |
 | 50CK3T | 283869 | [283869-50ck3t.json](./283869-50ck3t.json) |
 | 50K Racewalker | 135864 | [135864-50k-racewalker.json](./135864-50k-racewalker.json) |
+| 50s Dream Escape | 315731 | [315731-50s-dream-escape.json](./315731-50s-dream-escape.json) |
 | 51 Baffes | 184186 | [184186-51-baffes.json](./184186-51-baffes.json) |
 | 51 Terrahawks | 27234 | [27234-51-terrahawks.json](./27234-51-terrahawks.json) |
 | 512 | 31204 | [31204-512.json](./31204-512.json) |
