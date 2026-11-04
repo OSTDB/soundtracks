@@ -3232,7 +3232,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Father, Son & Holy Guns | 388891 | [388891-father-son-and-holy-guns.json](./388891-father-son-and-holy-guns.json) |
 | Father: The Truth | 202565 | [202565-father-the-truth.json](./202565-father-the-truth.json) |
 | Father.io | 58074 | [58074-father-io.json](./58074-father-io.json) |
-| Father's Day | 213858 | [213858-fathers-day.json](./213858-fathers-day.json) |
 | Father's Day Journey | 304270 | [304270-fathers-day-journey.json](./304270-fathers-day-journey.json) |
 | Father's Island | 33072 | [33072-fathers-island.json](./33072-fathers-island.json) |
 | Father's Love | 364983 | [364983-fathers-love.json](./364983-fathers-love.json) |
@@ -8601,7 +8600,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follow the Crown | 225191 | [225191-follow-the-crown.json](./225191-follow-the-crown.json) |
 | Follow the Darkness | 151572 | [151572-follow-the-darkness.json](./151572-follow-the-darkness.json) |
 | Follow the Leader | 264035 | [264035-follow-the-leader.json](./264035-follow-the-leader.json) |
-| Follow the Meaning | 286094 | [286094-follow-the-meaning.json](./286094-follow-the-meaning.json) |
 | Follow the Reader | 191528 | [191528-follow-the-reader.json](./191528-follow-the-reader.json) |
 | Follow the Rules | 273952 | [273952-follow-the-rules.json](./273952-follow-the-rules.json) |
 | Follow the Sound by Horse Reader | 95631 | [95631-follow-the-sound-by-horse-reader.json](./95631-follow-the-sound-by-horse-reader.json) |
@@ -11655,6 +11653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frio2 - Memory of my sister | 90004 | [90004-frio2-memory-of-my-sister.json](./90004-frio2-memory-of-my-sister.json) |
 | Frio3 - Parting and Meeting | 114249 | [114249-frio3-parting-and-meeting.json](./114249-frio3-parting-and-meeting.json) |
 | Frip and Froop's Logical Labyrinth | 56509 | [56509-frip-and-froops-logical-labyrinth.json](./56509-frip-and-froops-logical-labyrinth.json) |
+| Frip and Froop's Logical Labyrinth DX | 328181 | [328181-frip-and-froops-logical-labyrinth-dx.json](./328181-frip-and-froops-logical-labyrinth-dx.json) |
 | Friquiz | 135812 | [135812-friquiz.json](./135812-friquiz.json) |
 | Frisbee Forever | 338144 | [338144-frisbee-forever.json](./338144-frisbee-forever.json) |
 | Frisbee Fumbling | 322553 | [322553-frisbee-fumbling.json](./322553-frisbee-fumbling.json) |
