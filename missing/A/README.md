@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Decade Outside | 186043 | [186043-a-decade-outside.json](./186043-a-decade-outside.json) |
 | A Deep Dive | 349872 | [349872-a-deep-dive.json](./349872-a-deep-dive.json) |
 | A Deep Rest | 253539 | [253539-a-deep-rest.json](./253539-a-deep-rest.json) |
+| A Delver Dreams Their Own Demise | 333845 | [333845-a-delver-dreams-their-own-demise.json](./333845-a-delver-dreams-their-own-demise.json) |
 | A Demon's Game: Episode 1 | 30053 | [30053-a-demons-game-episode-1.json](./30053-a-demons-game-episode-1.json) |
 | A Description of the Newest Sculpture in the Gallery | 401255 | [401255-a-description-of-the-newest-sculpture-in-the-gallery.json](./401255-a-description-of-the-newest-sculpture-in-the-gallery.json) |
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
@@ -904,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Nightmare on Elm Street | 40935 | [40935-a-nightmare-on-elm-street.json](./40935-a-nightmare-on-elm-street.json) |
 | A Nightmare on Elm Street: Son of a Hundred Maniacs | 176824 | [176824-a-nightmare-on-elm-street-son-of-a-hundred-maniacs.json](./176824-a-nightmare-on-elm-street-son-of-a-hundred-maniacs.json) |
 | A Nightmare on Sesame Street | 178902 | [178902-a-nightmare-on-sesame-street.json](./178902-a-nightmare-on-sesame-street.json) |
+| A Nights Haunting: Source | 333857 | [333857-a-nights-haunting-source.json](./333857-a-nights-haunting-source.json) |
 | A Ninja in Training | 161738 | [161738-a-ninja-in-training.json](./161738-a-ninja-in-training.json) |
 | A Ninja's Tale | 23598 | [23598-a-ninjas-tale.json](./23598-a-ninjas-tale.json) |
 | A Noble Circle | 174207 | [174207-a-noble-circle.json](./174207-a-noble-circle.json) |
@@ -11655,6 +11657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arali | 203881 | [203881-arali.json](./203881-arali.json) |
 | Aralon: Forge and Flame | 20357 | [20357-aralon-forge-and-flame.json](./20357-aralon-forge-and-flame.json) |
 | Aralon: Sword and Shadow | 38985 | [38985-aralon-sword-and-shadow.json](./38985-aralon-sword-and-shadow.json) |
+| Aralunis | 333833 | [333833-aralunis.json](./333833-aralunis.json) |
 | Aramo | 401062 | [401062-aramo.json](./401062-aramo.json) |
 | Aran's Bike Trip | 154799 | [154799-arans-bike-trip.json](./154799-arans-bike-trip.json) |
 | Aranock Online | 62986 | [62986-aranock-online.json](./62986-aranock-online.json) |
@@ -16505,6 +16508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Augmented AR Jungle Adventure | 175311 | [175311-augmented-ar-jungle-adventure.json](./175311-augmented-ar-jungle-adventure.json) |
 | Augmented Brutality | 270539 | [270539-augmented-brutality.json](./270539-augmented-brutality.json) |
 | Augmented Empire | 27984 | [27984-augmented-empire.json](./27984-augmented-empire.json) |
+| Augmented Empire | 333829 | [333829-augmented-empire.json](./333829-augmented-empire.json) |
 | Augmented Fear | 376547 | [376547-augmented-fear.json](./376547-augmented-fear.json) |
 | Augmented Fourth | 60028 | [60028-augmented-fourth.json](./60028-augmented-fourth.json) |
 | Augmentors | 112252 | [112252-augmentors.json](./112252-augmentors.json) |
