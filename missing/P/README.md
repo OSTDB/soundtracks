@@ -8255,6 +8255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel's Hallows Eve | 139209 | [139209-pixels-hallows-eve.json](./139209-pixels-hallows-eve.json) |
 | Pixel's Time Paradox | 254264 | [254264-pixels-time-paradox.json](./254264-pixels-time-paradox.json) |
 | Pixel's Unknown Battle Ground | 90958 | [90958-pixels-unknown-battle-ground.json](./90958-pixels-unknown-battle-ground.json) |
+| Pixel54 | 335021 | [335021-pixel54.json](./335021-pixel54.json) |
 | Pixelance | 382883 | [382883-pixelance.json](./382883-pixelance.json) |
 | Pixelarium | 117853 | [117853-pixelarium.json](./117853-pixelarium.json) |
 | Pixelarium: Free Lands | 392114 | [392114-pixelarium-free-lands.json](./392114-pixelarium-free-lands.json) |
@@ -15930,6 +15931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protagonism | 129079 | [129079-protagonism.json](./129079-protagonism.json) |
 | Protagonist Complex One | 392146 | [392146-protagonist-complex-one.json](./392146-protagonist-complex-one.json) |
 | Protean Fox | 376751 | [376751-protean-fox.json](./376751-protean-fox.json) |
+| Protec | 335024 | [335024-protec.json](./335024-protec.json) |
 | Protect Eggs | 161718 | [161718-protect-eggs.json](./161718-protect-eggs.json) |
 | Protect Gloobi | 373286 | [373286-protect-gloobi.json](./373286-protect-gloobi.json) |
 | Protect Grass | 127593 | [127593-protect-grass.json](./127593-protect-grass.json) |
