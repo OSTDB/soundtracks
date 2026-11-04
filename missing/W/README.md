@@ -7098,6 +7098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woofy Run | 373017 | [373017-woofy-run.json](./373017-woofy-run.json) |
 | Woogles | 321119 | [321119-woogles.json](./321119-woogles.json) |
 | Woohoo! | 304017 | [304017-woohoo.json](./304017-woohoo.json) |
+| Woohoo!: Game - Fourteens | 336832 | [336832-woohoo-game-fourteens.json](./336832-woohoo-game-fourteens.json) |
 | Woohoo!: Game - Pool Frenzy | 304018 | [304018-woohoo-game-pool-frenzy.json](./304018-woohoo-game-pool-frenzy.json) |
 | Woohoo!: Game - Skee Madness | 304019 | [304019-woohoo-game-skee-madness.json](./304019-woohoo-game-skee-madness.json) |
 | Woohoo!: Game - Triangles | 304020 | [304020-woohoo-game-triangles.json](./304020-woohoo-game-triangles.json) |
@@ -7549,6 +7550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worker Riot | 203554 | [203554-worker-riot.json](./203554-worker-riot.json) |
 | Worker Simulator | 275987 | [275987-worker-simulator.json](./275987-worker-simulator.json) |
 | Workers & Resources: Soviet Republic | 103065 | [103065-workers-and-resources-soviet-republic.json](./103065-workers-and-resources-soviet-republic.json) |
+| Workers & Resources: Soviet Republic - Biomes | 336837 | [336837-workers-and-resources-soviet-republic-biomes.json](./336837-workers-and-resources-soviet-republic-biomes.json) |
 | Workhorse | 357861 | [357861-workhorse.json](./357861-workhorse.json) |
 | Workhorse Desktop | 387162 | [387162-workhorse-desktop.json](./387162-workhorse-desktop.json) |
 | Working Class Monsters | 390758 | [390758-working-class-monsters.json](./390758-working-class-monsters.json) |
