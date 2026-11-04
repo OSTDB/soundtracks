@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Viscera | 153438 | [153438-radio-viscera.json](./153438-radio-viscera.json) |
 | Radio Zed | 376720 | [376720-radio-zed.json](./376720-radio-zed.json) |
 | Radio Zonde | 140999 | [140999-radio-zonde.json](./140999-radio-zonde.json) |
+| Radio_Wishers | 320648 | [320648-radio-wishers.json](./320648-radio-wishers.json) |
 | Radio.Signal | 176910 | [176910-radio-signal.json](./176910-radio-signal.json) |
 | Radioactive | 29757 | [29757-radioactive.json](./29757-radioactive.json) |
 | Radioactive Dwarfs: Evil From the Sewers | 159731 | [159731-radioactive-dwarfs-evil-from-the-sewers.json](./159731-radioactive-dwarfs-evil-from-the-sewers.json) |
@@ -7669,9 +7670,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Ghostdom | 210895 | [210895-rise-of-the-ghostdom.json](./210895-rise-of-the-ghostdom.json) |
 | Rise of the Gorecats | 390800 | [390800-rise-of-the-gorecats.json](./390800-rise-of-the-gorecats.json) |
 | Rise of the Guardians: The Video Game | 5124 | [5124-rise-of-the-guardians-the-video-game.json](./5124-rise-of-the-guardians-the-video-game.json) |
+| Rise of the Half Moon | 320654 | [320654-rise-of-the-half-moon.json](./320654-rise-of-the-half-moon.json) |
 | Rise of the High Elf King: A Legacy of Blood | 243515 | [243515-rise-of-the-high-elf-king-a-legacy-of-blood.json](./243515-rise-of-the-high-elf-king-a-legacy-of-blood.json) |
 | Rise of The Kasai | 21557 | [21557-rise-of-the-kasai.json](./21557-rise-of-the-kasai.json) |
 | Rise of the Merchants | 415289 | [415289-rise-of-the-merchants.json](./415289-rise-of-the-merchants.json) |
+| Rise of The Newborns | 320663 | [320663-rise-of-the-newborns.json](./320663-rise-of-the-newborns.json) |
 | Rise of the Nindroids | 408880 | [408880-rise-of-the-nindroids.json](./408880-rise-of-the-nindroids.json) |
 | Rise of the Outcast Hero | 297202 | [297202-rise-of-the-outcast-hero.json](./297202-rise-of-the-outcast-hero.json) |
 | Rise of the Overlords | 161574 | [161574-rise-of-the-overlords.json](./161574-rise-of-the-overlords.json) |
