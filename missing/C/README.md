@@ -8649,6 +8649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cirrus Business | 253987 | [253987-cirrus-business.json](./253987-cirrus-business.json) |
 | Cis Penance: Transgender Lives in Wait in the UK | 199807 | [199807-cis-penance-transgender-lives-in-wait-in-the-uk.json](./199807-cis-penance-transgender-lives-in-wait-in-the-uk.json) |
 | Cisco Heat | 12005 | [12005-cisco-heat.json](./12005-cisco-heat.json) |
+| Cisini Stories | 318338 | [318338-cisini-stories.json](./318338-cisini-stories.json) |
 | Citadale Resurrection | 234583 | [234583-citadale-resurrection.json](./234583-citadale-resurrection.json) |
 | Citadale Resurrection: Darkness my Curse | 261867 | [261867-citadale-resurrection-darkness-my-curse.json](./261867-citadale-resurrection-darkness-my-curse.json) |
 | Citadale Resurrection: Prelude to War | 250358 | [250358-citadale-resurrection-prelude-to-war.json](./250358-citadale-resurrection-prelude-to-war.json) |
@@ -17426,6 +17427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowman & Wolfboy | 28575 | [28575-crowman-and-wolfboy.json](./28575-crowman-and-wolfboy.json) |
 | Crown | 12415 | [12415-crown.json](./12415-crown.json) |
 | Crown | 146111 | [146111-crown.json](./146111-crown.json) |
+| Crown & Capital | 318331 | [318331-crown-and-capital.json](./318331-crown-and-capital.json) |
 | Crown & Cauldron | 184921 | [184921-crown-and-cauldron.json](./184921-crown-and-cauldron.json) |
 | Crown and Adventure | 309573 | [309573-crown-and-adventure.json](./309573-crown-and-adventure.json) |
 | Crown and Council | 18977 | [18977-crown-and-council.json](./18977-crown-and-council.json) |
