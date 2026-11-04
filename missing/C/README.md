@@ -2245,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carcassonne: The Official Board Game - Traders & Builders | 227359 | [227359-carcassonne-the-official-board-game-traders-and-builders.json](./227359-carcassonne-the-official-board-game-traders-and-builders.json) |
 | Carcassonne: The Official Board Game - Winter and Gingerbread Man | 171017 | [171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json](./171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json) |
 | Carcelera | 414708 | [414708-carcelera.json](./414708-carcelera.json) |
+| Carceri | 302562 | [302562-carceri.json](./302562-carceri.json) |
 | CarCollector | 76252 | [76252-carcollector.json](./76252-carcollector.json) |
 | Carcosa | 140554 | [140554-carcosa.json](./140554-carcosa.json) |
 | CarCrash.Tube: Car Crash Simulator | 417332 | [417332-carcrash-tube-car-crash-simulator.json](./417332-carcrash-tube-car-crash-simulator.json) |
@@ -6396,6 +6397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chequred Flag | 45335 | [45335-chequred-flag.json](./45335-chequred-flag.json) |
 | Cheri La Bete | 246091 | [246091-cheri-la-bete.json](./246091-cheri-la-bete.json) |
 | Cheril of the bosque | 39113 | [39113-cheril-of-the-bosque.json](./39113-cheril-of-the-bosque.json) |
+| Cheril Perils Classic | 302304 | [302304-cheril-perils-classic.json](./302304-cheril-perils-classic.json) |
 | Cherish Pizza ha Ikaga Desu ka | 321467 | [321467-cherish-pizza-ha-ikaga-desu-ka.json](./321467-cherish-pizza-ha-ikaga-desu-ka.json) |
 | Chern | 203196 | [203196-chern.json](./203196-chern.json) |
 | Chernaja Metka | 37048 | [37048-chernaja-metka.json](./37048-chernaja-metka.json) |
@@ -13974,6 +13976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Kid Cody: Season 3 - Episode 05 | 302584 | [302584-cool-kid-cody-season-3-episode-05.json](./302584-cool-kid-cody-season-3-episode-05.json) |
 | Cool Kid Cody: Season 3 - Episode 06 | 302585 | [302585-cool-kid-cody-season-3-episode-06.json](./302585-cool-kid-cody-season-3-episode-06.json) |
 | Cool Kid Cody: Season 3 - Episode 07 | 302586 | [302586-cool-kid-cody-season-3-episode-07.json](./302586-cool-kid-cody-season-3-episode-07.json) |
+| Cool Kid Cody: Season 3 - Episode 08 | 302561 | [302561-cool-kid-cody-season-3-episode-08.json](./302561-cool-kid-cody-season-3-episode-08.json) |
 | Cool Kid Cody: Season 3 - Episode 09 | 312007 | [312007-cool-kid-cody-season-3-episode-09.json](./312007-cool-kid-cody-season-3-episode-09.json) |
 | Cool Kid Cody: Season 3 - Episode 10 | 318848 | [318848-cool-kid-cody-season-3-episode-10.json](./318848-cool-kid-cody-season-3-episode-10.json) |
 | Cool Lady | 259026 | [259026-cool-lady.json](./259026-cool-lady.json) |
