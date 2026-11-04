@@ -7639,6 +7639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hillbilly Apocalypse | 111709 | [111709-hillbilly-apocalypse.json](./111709-hillbilly-apocalypse.json) |
 | Hillbilly Burgers | 236976 | [236976-hillbilly-burgers.json](./236976-hillbilly-burgers.json) |
 | Hillbilly Doomsday | 205077 | [205077-hillbilly-doomsday.json](./205077-hillbilly-doomsday.json) |
+| Hillbilly Hellfire | 332176 | [332176-hillbilly-hellfire.json](./332176-hillbilly-hellfire.json) |
 | Hillbilly Organ Grinder | 60527 | [60527-hillbilly-organ-grinder.json](./60527-hillbilly-organ-grinder.json) |
 | Hillbomb | 271621 | [271621-hillbomb.json](./271621-hillbomb.json) |
 | Hillmain Hotel | 196668 | [196668-hillmain-hotel.json](./196668-hillmain-hotel.json) |
@@ -8445,6 +8446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Bonus Gold | 29929 | [29929-holiday-bonus-gold.json](./29929-holiday-bonus-gold.json) |
 | Holiday Dash! | 251357 | [251357-holiday-dash.json](./251357-holiday-dash.json) |
 | Holiday Express | 54088 | [54088-holiday-express.json](./54088-holiday-express.json) |
+| Holiday Eye Spy | 332177 | [332177-holiday-eye-spy.json](./332177-holiday-eye-spy.json) |
 | Holiday Eye Spy 2 | 391337 | [391337-holiday-eye-spy-2.json](./391337-holiday-eye-spy-2.json) |
 | Holiday Flight Simulator | 32112 | [32112-holiday-flight-simulator.json](./32112-holiday-flight-simulator.json) |
 | Holiday Harry | 381069 | [381069-holiday-harry.json](./381069-holiday-harry.json) |
@@ -9047,6 +9049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Coming Clair Mini Fan Disc | 410716 | [410716-honey-coming-clair-mini-fan-disc.json](./410716-honey-coming-clair-mini-fan-disc.json) |
 | Honey Dance | 130083 | [130083-honey-dance.json](./130083-honey-dance.json) |
 | Honey Dolls | 37338 | [37338-honey-dolls.json](./37338-honey-dolls.json) |
+| Honey Dress Up | 332194 | [332194-honey-dress-up.json](./332194-honey-dress-up.json) |
 | Honey Guardian | 212430 | [212430-honey-guardian.json](./212430-honey-guardian.json) |
 | Honey Guardian | 341651 | [341651-honey-guardian.json](./341651-honey-guardian.json) |
 | Honey Homer RPS | 288046 | [288046-honey-homer-rps.json](./288046-honey-homer-rps.json) |
