@@ -3058,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Wars | 397649 | [397649-emoji-wars.json](./397649-emoji-wars.json) |
 | Emoji-Connect | 291989 | [291989-emoji-connect.json](./291989-emoji-connect.json) |
 | Emojikara: A Clever Emoji Match Game | 58681 | [58681-emojikara-a-clever-emoji-match-game.json](./58681-emojikara-a-clever-emoji-match-game.json) |
+| Emojis Battle | 346863 | [346863-emojis-battle.json](./346863-emojis-battle.json) |
 | Emojly: Emoji Logic Puzzles | 232120 | [232120-emojly-emoji-logic-puzzles.json](./232120-emojly-emoji-logic-puzzles.json) |
 | Emokunai Kiss | 214344 | [214344-emokunai-kiss.json](./214344-emokunai-kiss.json) |
 | Emolga and the Mail Trials | 340959 | [340959-emolga-and-the-mail-trials.json](./340959-emolga-and-the-mail-trials.json) |
@@ -4951,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Haon Island | 339768 | [339768-escape-from-haon-island.json](./339768-escape-from-haon-island.json) |
 | Escape From Hata | 285466 | [285466-escape-from-hata.json](./285466-escape-from-hata.json) |
 | Escape from Heaven | 183808 | [183808-escape-from-heaven.json](./183808-escape-from-heaven.json) |
+| Escape from Helltowers | 346891 | [346891-escape-from-helltowers.json](./346891-escape-from-helltowers.json) |
 | Escape from here | 68659 | [68659-escape-from-here.json](./68659-escape-from-here.json) |
 | Escape from here | 68666 | [68666-escape-from-here.json](./68666-escape-from-here.json) |
 | Escape from Hornhead | 302338 | [302338-escape-from-hornhead.json](./302338-escape-from-hornhead.json) |
@@ -7187,6 +7189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excommunicado | 211266 | [211266-excommunicado.json](./211266-excommunicado.json) |
 | Excommunicated | 340043 | [340043-excommunicated.json](./340043-excommunicated.json) |
 | Excommunication | 360449 | [360449-excommunication.json](./360449-excommunication.json) |
+| Excoverse | 346855 | [346855-excoverse.json](./346855-excoverse.json) |
 | Excremental Game | 385757 | [385757-excremental-game.json](./385757-excremental-game.json) |
 | Excubitor | 19332 | [19332-excubitor.json](./19332-excubitor.json) |
 | Excursion | 108635 | [108635-excursion.json](./108635-excursion.json) |
