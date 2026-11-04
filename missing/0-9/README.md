@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Years' War | 96687 | [96687-100-years-war.json](./96687-100-years-war.json) |
 | 100 Yen Exorcist | 408725 | [408725-100-yen-exorcist.json](./408725-100-yen-exorcist.json) |
 | 100 Zombie Cats | 335195 | [335195-100-zombie-cats.json](./335195-100-zombie-cats.json) |
+| 100-Go de Start! Ei Kaiwa | 341830 | [341830-100-go-de-start-ei-kaiwa.json](./341830-100-go-de-start-ei-kaiwa.json) |
 | 100-hito Taisen Bomberman | 198060 | [198060-100-hito-taisen-bomberman.json](./198060-100-hito-taisen-bomberman.json) |
 | 100-Level Dungeon | 156577 | [156577-100-level-dungeon.json](./156577-100-level-dungeon.json) |
 | 100-man-nin no Nobunaga no Yabou | 208243 | [208243-100-man-nin-no-nobunaga-no-yabou.json](./208243-100-man-nin-no-nobunaga-no-yabou.json) |
