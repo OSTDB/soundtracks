@@ -3427,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get to tha Choppa!!1 | 97450 | [97450-get-to-tha-choppa-1.json](./97450-get-to-tha-choppa-1.json) |
 | Get to the Chopper 3D | 416160 | [416160-get-to-the-chopper-3d.json](./416160-get-to-the-chopper-3d.json) |
 | Get to the Gate | 235692 | [235692-get-to-the-gate.json](./235692-get-to-the-gate.json) |
+| Get To The Top | 318892 | [318892-get-to-the-top.json](./318892-get-to-the-top.json) |
 | Get to the Top 2: Breakthrough Gaming Arcade | 200726 | [200726-get-to-the-top-2-breakthrough-gaming-arcade.json](./200726-get-to-the-top-2-breakthrough-gaming-arcade.json) |
 | Get to the Top Although There Is No Top!! | 286572 | [286572-get-to-the-top-although-there-is-no-top.json](./286572-get-to-the-top-although-there-is-no-top.json) |
 | Get to the Top: Breakthrough Gaming Arcade | 187679 | [187679-get-to-the-top-breakthrough-gaming-arcade.json](./187679-get-to-the-top-breakthrough-gaming-arcade.json) |
