@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-04T08:26:01.436Z",
-  "total_soundtracks": 2906,
+  "generated_at": "2026-11-04T08:30:52.309Z",
+  "total_soundtracks": 2907,
   "games": [
     {
       "igdb_id": 7522,
@@ -28928,6 +28928,20 @@
     },
     {
       "igdb_id": 198650,
+      "game_name": "Streets of Rage",
+      "game_url": "https://ostdb.net/games/streets-of-rage",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d62bbeeca24c14fd135dd49d",
+      "albums": [
+        {
+          "album_name": "Streets of Rage (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3qjsSdcrvlSS0HwJzjLQJE",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 203317,
       "game_name": "Streets of Rage",
       "game_url": "https://ostdb.net/games/streets-of-rage",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b273d62bbeeca24c14fd135dd49d",
