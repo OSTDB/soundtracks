@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Walk Among Zombies Vol. 3 | 161519 | [161519-i-walk-among-zombies-vol-3.json](./161519-i-walk-among-zombies-vol-3.json) |
 | I Wani Hug that Gator! | 197078 | [197078-i-wani-hug-that-gator.json](./197078-i-wani-hug-that-gator.json) |
 | I Wanna Ascend | 368702 | [368702-i-wanna-ascend.json](./368702-i-wanna-ascend.json) |
+| I Wanna Be A Game Dev! | 302083 | [302083-i-wanna-be-a-game-dev.json](./302083-i-wanna-be-a-game-dev.json) |
 | I Wanna Be the Cat | 76580 | [76580-i-wanna-be-the-cat.json](./76580-i-wanna-be-the-cat.json) |
 | I Wanna Be the Co-op | 108829 | [108829-i-wanna-be-the-co-op.json](./108829-i-wanna-be-the-co-op.json) |
 | I Wanna Be the Creator | 110912 | [110912-i-wanna-be-the-creator.json](./110912-i-wanna-be-the-creator.json) |
@@ -1312,7 +1313,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Casual Karlach Skin & Feat Pack | 303545 | [303545-idle-champions-casual-karlach-skin-and-feat-pack.json](./303545-idle-champions-casual-karlach-skin-and-feat-pack.json) |
 | Idle Champions: Chibi Birdsong Skin & Feat Pack | 313708 | [313708-idle-champions-chibi-birdsong-skin-and-feat-pack.json](./313708-idle-champions-chibi-birdsong-skin-and-feat-pack.json) |
 | Idle Champions: Chibi Shadowheart Skin & Feat Pack | 313697 | [313697-idle-champions-chibi-shadowheart-skin-and-feat-pack.json](./313697-idle-champions-chibi-shadowheart-skin-and-feat-pack.json) |
+| Idle Champions: Classic Beholder Familiar Pack | 302013 | [302013-idle-champions-classic-beholder-familiar-pack.json](./302013-idle-champions-classic-beholder-familiar-pack.json) |
 | Idle Champions: Classic Demogorgon Familiar Pack | 303543 | [303543-idle-champions-classic-demogorgon-familiar-pack.json](./303543-idle-champions-classic-demogorgon-familiar-pack.json) |
+| Idle Champions: Classic Mimic Familiar Pack | 302012 | [302012-idle-champions-classic-mimic-familiar-pack.json](./302012-idle-champions-classic-mimic-familiar-pack.json) |
 | Idle Champions: Classic Nordom Skin & Feat Pack | 303544 | [303544-idle-champions-classic-nordom-skin-and-feat-pack.json](./303544-idle-champions-classic-nordom-skin-and-feat-pack.json) |
 | Idle Champions: Classic Remorhaz Familiar Pack | 303541 | [303541-idle-champions-classic-remorhaz-familiar-pack.json](./303541-idle-champions-classic-remorhaz-familiar-pack.json) |
 | Idle Champions: Detective Deekin Skin & Feat Pack | 313705 | [313705-idle-champions-detective-deekin-skin-and-feat-pack.json](./313705-idle-champions-detective-deekin-skin-and-feat-pack.json) |
@@ -6213,6 +6216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isonzo: Royal Units Pack | 231014 | [231014-isonzo-royal-units-pack.json](./231014-isonzo-royal-units-pack.json) |
 | Isonzo: Shellshocked Units Pack | 373586 | [373586-isonzo-shellshocked-units-pack.json](./373586-isonzo-shellshocked-units-pack.json) |
 | Isonzo: Third Wave | 296938 | [296938-isonzo-third-wave.json](./296938-isonzo-third-wave.json) |
+| Isonzo: Ultimate Edition | 301774 | [301774-isonzo-ultimate-edition.json](./301774-isonzo-ultimate-edition.json) |
 | Isop0dyssey | 250830 | [250830-isop0dyssey.json](./250830-isop0dyssey.json) |
 | Isophoria | 375316 | [375316-isophoria.json](./375316-isophoria.json) |
 | Isopix Art Club | 213919 | [213919-isopix-art-club.json](./213919-isopix-art-club.json) |
