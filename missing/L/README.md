@@ -8509,6 +8509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love the Game | 314142 | [314142-love-the-game.json](./314142-love-the-game.json) |
 | Love the Guard, Be the King | 179686 | [179686-love-the-guard-be-the-king.json](./179686-love-the-guard-be-the-king.json) |
 | Love Thyself: A Horatio Story | 116948 | [116948-love-thyself-a-horatio-story.json](./116948-love-thyself-a-horatio-story.json) |
+| Love to Live | 346860 | [346860-love-to-live.json](./346860-love-to-live.json) |
 | Love Too Easily | 237569 | [237569-love-too-easily.json](./237569-love-too-easily.json) |
 | Love Too Easily 2: Summer Pocha | 374563 | [374563-love-too-easily-2-summer-pocha.json](./374563-love-too-easily-2-summer-pocha.json) |
 | Love Too Easily Bundle | 400199 | [400199-love-too-easily-bundle.json](./400199-love-too-easily-bundle.json) |
