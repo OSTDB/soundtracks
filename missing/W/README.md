@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Ships | 225895 | [225895-war-of-ships.json](./225895-war-of-ships.json) |
 | War of Sonria | 64154 | [64154-war-of-sonria.json](./64154-war-of-sonria.json) |
 | War of Stealth Assassin | 145960 | [145960-war-of-stealth-assassin.json](./145960-war-of-stealth-assassin.json) |
+| War of Tanks | 305716 | [305716-war-of-tanks.json](./305716-war-of-tanks.json) |
 | War of Tanks: Blitzkrieg | 288435 | [288435-war-of-tanks-blitzkrieg.json](./288435-war-of-tanks-blitzkrieg.json) |
 | War of the AI | 256239 | [256239-war-of-the-ai.json](./256239-war-of-the-ai.json) |
 | War of the Ancients | 110222 | [110222-war-of-the-ancients.json](./110222-war-of-the-ancients.json) |
@@ -3159,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Back | 153992 | [153992-welcome-back.json](./153992-welcome-back.json) |
 | Welcome Back to 2007 2 | 107376 | [107376-welcome-back-to-2007-2.json](./107376-welcome-back-to-2007-2.json) |
 | Welcome Back to Aeris | 423886 | [423886-welcome-back-to-aeris.json](./423886-welcome-back-to-aeris.json) |
+| Welcome Back, Commander | 305697 | [305697-welcome-back-commander.json](./305697-welcome-back-commander.json) |
 | Welcome Demon | 397666 | [397666-welcome-demon.json](./397666-welcome-demon.json) |
 | Welcome Googoo | 330889 | [330889-welcome-googoo.json](./330889-welcome-googoo.json) |
 | Welcome Home | 146327 | [146327-welcome-home.json](./146327-welcome-home.json) |
