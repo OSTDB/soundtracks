@@ -4461,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Bounce Ball | 338189 | [338189-cats-bounce-ball.json](./338189-cats-bounce-ball.json) |
 | Cats Bundle | 273329 | [273329-cats-bundle.json](./273329-cats-bundle.json) |
 | Cats Catching Mice: The Black and White World | 347989 | [347989-cats-catching-mice-the-black-and-white-world.json](./347989-cats-catching-mice-the-black-and-white-world.json) |
+| Cats Clicker | 302878 | [302878-cats-clicker.json](./302878-cats-clicker.json) |
 | Cats Contrast | 332970 | [332970-cats-contrast.json](./332970-cats-contrast.json) |
 | Cats Diner | 392948 | [392948-cats-diner.json](./392948-cats-diner.json) |
 | Cats Epic Puzzles | 334827 | [334827-cats-epic-puzzles.json](./334827-cats-epic-puzzles.json) |
