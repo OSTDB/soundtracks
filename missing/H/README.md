@@ -6379,6 +6379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexen Upstart Mapping Project | 268879 | [268879-hexen-upstart-mapping-project.json](./268879-hexen-upstart-mapping-project.json) |
 | Hexen: Beyond Heretic | 3512 | [3512-hexen-beyond-heretic.json](./3512-hexen-beyond-heretic.json) |
 | Hexen: Deathkings of the Dark Citadel | 8851 | [8851-hexen-deathkings-of-the-dark-citadel.json](./8851-hexen-deathkings-of-the-dark-citadel.json) |
+| Hexen: Veil of Darkness | 298754 | [298754-hexen-veil-of-darkness.json](./298754-hexen-veil-of-darkness.json) |
 | HexenHold | 340469 | [340469-hexenhold.json](./340469-hexenhold.json) |
 | Hexep | 409871 | [409871-hexep.json](./409871-hexep.json) |
 | Hexepta: Logic Hack | 302600 | [302600-hexepta-logic-hack.json](./302600-hexepta-logic-hack.json) |
@@ -9214,6 +9215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Hacked | 279432 | [279432-honkai-impact-3rd-hacked.json](./279432-honkai-impact-3rd-hacked.json) |
 | Honkai Impact 3rd: In Search of the Sun | 327458 | [327458-honkai-impact-3rd-in-search-of-the-sun.json](./327458-honkai-impact-3rd-in-search-of-the-sun.json) |
 | Honkai Impact 3rd: Infinite Future | 276502 | [276502-honkai-impact-3rd-infinite-future.json](./276502-honkai-impact-3rd-infinite-future.json) |
+| Honkai Impact 3rd: Invitation to the Mad Banquet | 298748 | [298748-honkai-impact-3rd-invitation-to-the-mad-banquet.json](./298748-honkai-impact-3rd-invitation-to-the-mad-banquet.json) |
 | Honkai Impact 3rd: Lives Flourish Where Feathers Fall | 408932 | [408932-honkai-impact-3rd-lives-flourish-where-feathers-fall.json](./408932-honkai-impact-3rd-lives-flourish-where-feathers-fall.json) |
 | Honkai Impact 3rd: Lone Stargazer | 279722 | [279722-honkai-impact-3rd-lone-stargazer.json](./279722-honkai-impact-3rd-lone-stargazer.json) |
 | Honkai Impact 3rd: Moonshade Epic | 276424 | [276424-honkai-impact-3rd-moonshade-epic.json](./276424-honkai-impact-3rd-moonshade-epic.json) |
