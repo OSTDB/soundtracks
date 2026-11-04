@@ -8366,6 +8366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokuto no Ken: Shin Seikimatsu Kyuuseishu Densetsu | 313283 | [313283-hokuto-no-ken-shin-seikimatsu-kyuuseishu-densetsu.json](./313283-hokuto-no-ken-shin-seikimatsu-kyuuseishu-densetsu.json) |
 | Hokuto no Ken: Shinpan no Sousousei Kengo Retsuden | 77991 | [77991-hokuto-no-ken-shinpan-no-sousousei-kengo-retsuden.json](./77991-hokuto-no-ken-shinpan-no-sousousei-kengo-retsuden.json) |
 | Hokuto no Ken: Violence Gekiga Adventure | 64195 | [64195-hokuto-no-ken-violence-gekiga-adventure.json](./64195-hokuto-no-ken-violence-gekiga-adventure.json) |
+| Hoky | 314692 | [314692-hoky.json](./314692-hoky.json) |
 | Hola! Reversi | 248655 | [248655-hola-reversi.json](./248655-hola-reversi.json) |
 | Holbrook Hotel | 307364 | [307364-holbrook-hotel.json](./307364-holbrook-hotel.json) |
 | Hold a Second | 241341 | [241341-hold-a-second.json](./241341-hold-a-second.json) |
