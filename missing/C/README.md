@@ -154,7 +154,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Ultimate Deer Hunt | 72036 | [72036-cabelas-ultimate-deer-hunt.json](./72036-cabelas-ultimate-deer-hunt.json) |
 | Cabela's Ultimate Deer Hunt: Open Season | 45297 | [45297-cabelas-ultimate-deer-hunt-open-season.json](./45297-cabelas-ultimate-deer-hunt-open-season.json) |
 | Cabela's: The Hunt - Championship Edition | 110706 | [110706-cabelas-the-hunt-championship-edition.json](./110706-cabelas-the-hunt-championship-edition.json) |
-| Cabernet | 250803 | [250803-cabernet.json](./250803-cabernet.json) |
 | Cabernet: Deluxe Edition | 380151 | [380151-cabernet-deluxe-edition.json](./380151-cabernet-deluxe-edition.json) |
 | Cabezurrio vs Robots | 256106 | [256106-cabezurrio-vs-robots.json](./256106-cabezurrio-vs-robots.json) |
 | Cabin | 400182 | [400182-cabin.json](./400182-cabin.json) |
