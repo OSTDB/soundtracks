@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OK K.O.! Let's Play Heroes | 80012 | [80012-ok-k-o-lets-play-heroes.json](./80012-ok-k-o-lets-play-heroes.json) |
 | OK, Dracula | 124507 | [124507-ok-dracula.json](./124507-ok-dracula.json) |
 | OK! Bird: Wing Up | 240863 | [240863-ok-bird-wing-up.json](./240863-ok-bird-wing-up.json) |
+| OK! Puzzle Stars | 308078 | [308078-ok-puzzle-stars.json](./308078-ok-puzzle-stars.json) |
 | Ok/Normal | 101635 | [101635-ok-normal.json](./101635-ok-normal.json) |
 | Okaa-san | 414263 | [414263-okaa-san.json](./414263-okaa-san.json) |
 | Okabu | 20603 | [20603-okabu.json](./20603-okabu.json) |
