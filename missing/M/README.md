@@ -1948,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Solitaire | 80453 | [80453-mahjong-solitaire.json](./80453-mahjong-solitaire.json) |
 | Mahjong Solitaire 100 | 156886 | [156886-mahjong-solitaire-100.json](./156886-mahjong-solitaire-100.json) |
 | Mahjong Solitaire Epic | 88426 | [88426-mahjong-solitaire-epic.json](./88426-mahjong-solitaire-epic.json) |
+| Mahjong Solitaire Pro | 346870 | [346870-mahjong-solitaire-pro.json](./346870-mahjong-solitaire-pro.json) |
 | Mahjong Solitaire Refresh | 114173 | [114173-mahjong-solitaire-refresh.json](./114173-mahjong-solitaire-refresh.json) |
 | Mahjong Solitaire Refresh: Ex Panels | 170928 | [170928-mahjong-solitaire-refresh-ex-panels.json](./170928-mahjong-solitaire-refresh-ex-panels.json) |
 | Mahjong Soul | 117263 | [117263-mahjong-soul.json](./117263-mahjong-soul.json) |
@@ -2838,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manaka de Ikuno!! | 319633 | [319633-manaka-de-ikuno.json](./319633-manaka-de-ikuno.json) |
 | Manakoto Hitomi no Bawai | 268135 | [268135-manakoto-hitomi-no-bawai.json](./268135-manakoto-hitomi-no-bawai.json) |
 | Manala: Equinox War | 408594 | [408594-manala-equinox-war.json](./408594-manala-equinox-war.json) |
+| Manalia Notes: A Memory of Innocence | 346862 | [346862-manalia-notes-a-memory-of-innocence.json](./346862-manalia-notes-a-memory-of-innocence.json) |
 | Manalith | 142902 | [142902-manalith.json](./142902-manalith.json) |
 | Manall's FF1 | 309580 | [309580-manalls-ff1.json](./309580-manalls-ff1.json) |
 | ManaRocks | 77163 | [77163-manarocks.json](./77163-manarocks.json) |
@@ -3317,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Racing Manager | 388747 | [388747-marble-racing-manager.json](./388747-marble-racing-manager.json) |
 | Marble Run | 74451 | [74451-marble-run.json](./74451-marble-run.json) |
 | Marble Run 2D | 87990 | [87990-marble-run-2d.json](./87990-marble-run-2d.json) |
+| Marble Run Maker | 346878 | [346878-marble-run-maker.json](./346878-marble-run-maker.json) |
 | Marble Saga: Kororinpa | 4962 | [4962-marble-saga-kororinpa.json](./4962-marble-saga-kororinpa.json) |
 | Marble Skies | 75639 | [75639-marble-skies.json](./75639-marble-skies.json) |
 | Marble Souls | 412504 | [412504-marble-souls.json](./412504-marble-souls.json) |
@@ -9132,6 +9135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mesopotamia: The Game | 359928 | [359928-mesopotamia-the-game.json](./359928-mesopotamia-the-game.json) |
 | Mesorift Survival | 350403 | [350403-mesorift-survival.json](./350403-mesorift-survival.json) |
 | Mesozoikum | 161622 | [161622-mesozoikum.json](./161622-mesozoikum.json) |
+| Mess | 346896 | [346896-mess.json](./346896-mess.json) |
 | Mess Adventures | 153329 | [153329-mess-adventures.json](./153329-mess-adventures.json) |
 | Mess Adventures 2 | 187819 | [187819-mess-adventures-2.json](./187819-mess-adventures-2.json) |
 | Mess Cleanup | 166765 | [166765-mess-cleanup.json](./166765-mess-cleanup.json) |
@@ -12166,6 +12170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Drifters: World Racing '89 | 252009 | [252009-mini-drifters-world-racing-89.json](./252009-mini-drifters-world-racing-89.json) |
 | Mini Dungeon | 326041 | [326041-mini-dungeon.json](./326041-mini-dungeon.json) |
 | Mini Dungeon | 357746 | [357746-mini-dungeon.json](./357746-mini-dungeon.json) |
+| Mini Dungeons | 346881 | [346881-mini-dungeons.json](./346881-mini-dungeons.json) |
 | Mini Eulerian Graph | 421449 | [421449-mini-eulerian-graph.json](./421449-mini-eulerian-graph.json) |
 | Mini Fazenda | 262215 | [262215-mini-fazenda.json](./262215-mini-fazenda.json) |
 | Mini Fighter | 359192 | [359192-mini-fighter.json](./359192-mini-fighter.json) |
@@ -21050,6 +21055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Store | 146889 | [146889-mystic-store.json](./146889-mystic-store.json) |
 | Mystic Strife | 278414 | [278414-mystic-strife.json](./278414-mystic-strife.json) |
 | Mystic Tavern | 390667 | [390667-mystic-tavern.json](./390667-mystic-tavern.json) |
+| Mystic Tesserae | 346887 | [346887-mystic-tesserae.json](./346887-mystic-tesserae.json) |
 | Mystic Totem | 246355 | [246355-mystic-totem.json](./246355-mystic-totem.json) |
 | Mystic Tower Legends | 341354 | [341354-mystic-tower-legends.json](./341354-mystic-tower-legends.json) |
 | Mystic Towers | 2519 | [2519-mystic-towers.json](./2519-mystic-towers.json) |
