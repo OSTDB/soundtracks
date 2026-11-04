@@ -2772,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Crags | 144683 | [144683-in-the-crags.json](./144683-in-the-crags.json) |
 | In the Dark | 327429 | [327429-in-the-dark.json](./327429-in-the-dark.json) |
 | In the Dark | 50748 | [50748-in-the-dark.json](./50748-in-the-dark.json) |
+| In The Dark | 343581 | [343581-in-the-dark.json](./343581-in-the-dark.json) |
 | In The Dark | 353904 | [353904-in-the-dark.json](./353904-in-the-dark.json) |
 | In The Dark 2 | 307743 | [307743-in-the-dark-2.json](./307743-in-the-dark-2.json) |
 | In The Dark Collection | 410282 | [410282-in-the-dark-collection.json](./410282-in-the-dark-collection.json) |
@@ -3677,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5499,6 +5501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Clash | 208176 | [208176-iron-clash.json](./208176-iron-clash.json) |
 | Iron Colony | 381082 | [381082-iron-colony.json](./381082-iron-colony.json) |
 | Iron Commando | 34040 | [34040-iron-commando.json](./34040-iron-commando.json) |
+| Iron Commando Pro | 343561 | [343561-iron-commando-pro.json](./343561-iron-commando-pro.json) |
 | Iron Conflict | 140777 | [140777-iron-conflict.json](./140777-iron-conflict.json) |
 | Iron Convoy | 330859 | [330859-iron-convoy.json](./330859-iron-convoy.json) |
 | Iron Cross | 80581 | [80581-iron-cross.json](./80581-iron-cross.json) |
