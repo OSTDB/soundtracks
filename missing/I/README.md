@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Dog | 296918 | [296918-i-am-dog.json](./296918-i-am-dog.json) |
 | I am Dog(s) | 182512 | [182512-i-am-dog-s.json](./182512-i-am-dog-s.json) |
 | I Am Dolphin | 60886 | [60886-i-am-dolphin.json](./60886-i-am-dolphin.json) |
+| I Am Etheric | 298285 | [298285-i-am-etheric.json](./298285-i-am-etheric.json) |
 | I Am Feeling Things Too | 330371 | [330371-i-am-feeling-things-too.json](./330371-i-am-feeling-things-too.json) |
 | I am Fish | 209729 | [209729-i-am-fish.json](./209729-i-am-fish.json) |
 | I Am Fish | 125431 | [125431-i-am-fish.json](./125431-i-am-fish.json) |
@@ -922,10 +923,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus: Iceholm Outpost | 262457 | [262457-icarus-iceholm-outpost.json](./262457-icarus-iceholm-outpost.json) |
 | Icarus: Industrial Furniture Pack | 276206 | [276206-icarus-industrial-furniture-pack.json](./276206-icarus-industrial-furniture-pack.json) |
 | Icarus: Interior Decorations Pack | 262877 | [262877-icarus-interior-decorations-pack.json](./262877-icarus-interior-decorations-pack.json) |
+| Icarus: Pet Companions Pack | 298194 | [298194-icarus-pet-companions-pack.json](./298194-icarus-pet-companions-pack.json) |
 | Icarus: Sanctuary of the Gods | 69768 | [69768-icarus-sanctuary-of-the-gods.json](./69768-icarus-sanctuary-of-the-gods.json) |
 | Icarus: Styx Map Pack | 204686 | [204686-icarus-styx-map-pack.json](./204686-icarus-styx-map-pack.json) |
 | Icarus: Tecton Outpost | 262458 | [262458-icarus-tecton-outpost.json](./262458-icarus-tecton-outpost.json) |
 | Icarus: The Day 4 | 65736 | [65736-icarus-the-day-4.json](./65736-icarus-the-day-4.json) |
+| Icarus: Zebra Rescue Mission | 298193 | [298193-icarus-zebra-rescue-mission.json](./298193-icarus-zebra-rescue-mission.json) |
 | Icarus.1 | 25947 | [25947-icarus-1.json](./25947-icarus-1.json) |
 | Icarus84 | 285421 | [285421-icarus84.json](./285421-icarus84.json) |
 | ICBM | 60357 | [60357-icbm.json](./60357-icbm.json) |
