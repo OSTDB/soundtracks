@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Commander | 79073 | [79073-tank-commander.json](./79073-tank-commander.json) |
 | Tank Commander: Battlefield | 384164 | [384164-tank-commander-battlefield.json](./384164-tank-commander-battlefield.json) |
 | Tank Commando 3D | 184947 | [184947-tank-commando-3d.json](./184947-tank-commando-3d.json) |
+| Tank Core | 346864 | [346864-tank-core.json](./346864-tank-core.json) |
 | Tank De La Muerta | 178796 | [178796-tank-de-la-muerta.json](./178796-tank-de-la-muerta.json) |
 | Tank Defender | 187895 | [187895-tank-defender.json](./187895-tank-defender.json) |
 | Tank Defense Division | 31760 | [31760-tank-defense-division.json](./31760-tank-defense-division.json) |
@@ -7644,6 +7645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dance of Maple Leaves | 346670 | [346670-the-dance-of-maple-leaves.json](./346670-the-dance-of-maple-leaves.json) |
 | The Dance of the Little Water Drops | 104669 | [104669-the-dance-of-the-little-water-drops.json](./104669-the-dance-of-the-little-water-drops.json) |
 | The Dancer: Definitive Edition | 211666 | [211666-the-dancer-definitive-edition.json](./211666-the-dancer-definitive-edition.json) |
+| The Dancer's Lullaby | 346889 | [346889-the-dancers-lullaby.json](./346889-the-dancers-lullaby.json) |
 | The Dandelion Girl: Don't You Remember Me? | 120527 | [120527-the-dandelion-girl-dont-you-remember-me.json](./120527-the-dandelion-girl-dont-you-remember-me.json) |
 | The Danger Zone | 244425 | [244425-the-danger-zone.json](./244425-the-danger-zone.json) |
 | The Dangerous Back-to-School Season | 339208 | [339208-the-dangerous-back-to-school-season.json](./339208-the-dangerous-back-to-school-season.json) |
@@ -9374,6 +9376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Four Crystals of Trazere | 79087 | [79087-the-four-crystals-of-trazere.json](./79087-the-four-crystals-of-trazere.json) |
 | The Four Elements: Zombies | 197049 | [197049-the-four-elements-zombies.json](./197049-the-four-elements-zombies.json) |
 | The Four Kings Casino and Slots | 16797 | [16797-the-four-kings-casino-and-slots.json](./16797-the-four-kings-casino-and-slots.json) |
+| The Four Money Bears: Berryville | 346874 | [346874-the-four-money-bears-berryville.json](./346874-the-four-money-bears-berryville.json) |
 | The Four Old Gods | 136442 | [136442-the-four-old-gods.json](./136442-the-four-old-gods.json) |
 | The Four Rooms | 362727 | [362727-the-four-rooms.json](./362727-the-four-rooms.json) |
 | The Four Seasons | 289746 | [289746-the-four-seasons.json](./289746-the-four-seasons.json) |
@@ -18520,6 +18523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Yakyuuken Special: Konya ha 12-kaisen | 74778 | [74778-the-yakyuuken-special-konya-ha-12-kaisen.json](./74778-the-yakyuuken-special-konya-ha-12-kaisen.json) |
 | The Yamamura Estate | 376857 | [376857-the-yamamura-estate.json](./376857-the-yamamura-estate.json) |
 | The Yanus Plan for Escape from the Void | 283057 | [283057-the-yanus-plan-for-escape-from-the-void.json](./283057-the-yanus-plan-for-escape-from-the-void.json) |
+| The Yard of Solace | 346859 | [346859-the-yard-of-solace.json](./346859-the-yard-of-solace.json) |
 | The Yard: Escape from Prison | 414610 | [414610-the-yard-escape-from-prison.json](./414610-the-yard-escape-from-prison.json) |
 | The Yawhg | 3031 | [3031-the-yawhg.json](./3031-the-yawhg.json) |
 | The Year of the Carrot | 235758 | [235758-the-year-of-the-carrot.json](./235758-the-year-of-the-carrot.json) |
@@ -22377,6 +22381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Birdtopia | 391537 | [391537-tiny-birdtopia.json](./391537-tiny-birdtopia.json) |
 | Tiny Block: One Block Skyblock | 416378 | [416378-tiny-block-one-block-skyblock.json](./416378-tiny-block-one-block-skyblock.json) |
 | Tiny Blues vs. Mini Reds | 219768 | [219768-tiny-blues-vs-mini-reds.json](./219768-tiny-blues-vs-mini-reds.json) |
+| Tiny Bomber | 346876 | [346876-tiny-bomber.json](./346876-tiny-bomber.json) |
 | Tiny Bookshop | 216718 | [216718-tiny-bookshop.json](./216718-tiny-bookshop.json) |
 | Tiny Boxes | 368574 | [368574-tiny-boxes.json](./368574-tiny-boxes.json) |
 | Tiny Brains | 7649 | [7649-tiny-brains.json](./7649-tiny-brains.json) |
@@ -23377,6 +23382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together Bnb | 146310 | [146310-together-bnb.json](./146310-together-bnb.json) |
 | Together in Battle | 133161 | [133161-together-in-battle.json](./133161-together-in-battle.json) |
 | Together in Between | 258316 | [258316-together-in-between.json](./258316-together-in-between.json) |
+| Together in Forgotten Lands | 346897 | [346897-together-in-forgotten-lands.json](./346897-together-in-forgotten-lands.json) |
 | Together in the Sky | 254952 | [254952-together-in-the-sky.json](./254952-together-in-the-sky.json) |
 | Together My Headers | 190977 | [190977-together-my-headers.json](./190977-together-my-headers.json) |
 | Together Tree: Romance 911 | 244494 | [244494-together-tree-romance-911.json](./244494-together-tree-romance-911.json) |
