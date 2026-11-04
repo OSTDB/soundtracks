@@ -6548,6 +6548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior | 19188 | [19188-mechwarrior.json](./19188-mechwarrior.json) |
 | MechWarrior 2: 31st Century Combat | 784 | [784-mechwarrior-2-31st-century-combat.json](./784-mechwarrior-2-31st-century-combat.json) |
 | MechWarrior 2: Arcade Combat Edition | 19992 | [19992-mechwarrior-2-arcade-combat-edition.json](./19992-mechwarrior-2-arcade-combat-edition.json) |
+| MechWarrior 2: BattlePack | 316526 | [316526-mechwarrior-2-battlepack.json](./316526-mechwarrior-2-battlepack.json) |
 | MechWarrior 2: Ghost Bear's Legacy | 19189 | [19189-mechwarrior-2-ghost-bears-legacy.json](./19189-mechwarrior-2-ghost-bears-legacy.json) |
 | MechWarrior 2: Mercenaries | 785 | [785-mechwarrior-2-mercenaries.json](./785-mechwarrior-2-mercenaries.json) |
 | MechWarrior 2: The Titanium Trilogy | 209534 | [209534-mechwarrior-2-the-titanium-trilogy.json](./209534-mechwarrior-2-the-titanium-trilogy.json) |
