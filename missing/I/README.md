@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am Bread | 7868 | [7868-i-am-bread.json](./7868-i-am-bread.json) |
 | I Am Brewing You Alive but You Can Leave at Any Time If You Really Want To | 135669 | [135669-i-am-brewing-you-alive-but-you-can-leave-at-any-time-if-you-really-want-to.json](./135669-i-am-brewing-you-alive-but-you-can-leave-at-any-time-if-you-really-want-to.json) |
 | I Am Busy Digging a Hole | 342409 | [342409-i-am-busy-digging-a-hole.json](./342409-i-am-busy-digging-a-hole.json) |
+| I Am Butter | 336820 | [336820-i-am-butter.json](./336820-i-am-butter.json) |
 | I Am Butter VR | 192236 | [192236-i-am-butter-vr.json](./192236-i-am-butter-vr.json) |
 | I Am Caligula | 33208 | [33208-i-am-caligula.json](./33208-i-am-caligula.json) |
 | I Am Cat | 303244 | [303244-i-am-cat.json](./303244-i-am-cat.json) |
