@@ -9967,6 +9967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClockOut | 296716 | [296716-clockout.json](./296716-clockout.json) |
 | Clocks | 41369 | [41369-clocks.json](./41369-clocks.json) |
 | Clockwatch | 315694 | [315694-clockwatch.json](./315694-clockwatch.json) |
+| Clockwatching | 340822 | [340822-clockwatching.json](./340822-clockwatching.json) |
 | Clockwerk | 285156 | [285156-clockwerk.json](./285156-clockwerk.json) |
 | ClockWerx | 38198 | [38198-clockwerx.json](./38198-clockwerx.json) |
 | Clockwillows Voy Quest | 389546 | [389546-clockwillows-voy-quest.json](./389546-clockwillows-voy-quest.json) |
