@@ -6005,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurt Warner's Arena Football Unleashed | 43721 | [43721-kurt-warners-arena-football-unleashed.json](./43721-kurt-warners-arena-football-unleashed.json) |
 | Kurt: Der Fussballmanager | 171616 | [171616-kurt-der-fussballmanager.json](./171616-kurt-der-fussballmanager.json) |
 | Kurtan | 389449 | [389449-kurtan.json](./389449-kurtan.json) |
+| kurtlar vadisi pusu | 346900 | [346900-kurtlar-vadisi-pusu.json](./346900-kurtlar-vadisi-pusu.json) |
 | KurtzPel | 76064 | [76064-kurtzpel.json](./76064-kurtzpel.json) |
 | Kuru-kuru Action Kuru Pachi 6 | 220845 | [220845-kuru-kuru-action-kuru-pachi-6.json](./220845-kuru-kuru-action-kuru-pachi-6.json) |
 | Kuru-kuru Panic | 222816 | [222816-kuru-kuru-panic.json](./222816-kuru-kuru-panic.json) |
