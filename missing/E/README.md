@@ -6984,6 +6984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil's Doom | 63052 | [63052-evils-doom.json](./63052-evils-doom.json) |
 | Evilbane | 364175 | [364175-evilbane.json](./364175-evilbane.json) |
 | EvilBane: Rise of Ravens | 137390 | [137390-evilbane-rise-of-ravens.json](./137390-evilbane-rise-of-ravens.json) |
+| EvilBritishGuy's Sonic and The Hedgehogs | 316304 | [316304-evilbritishguys-sonic-and-the-hedgehogs.json](./316304-evilbritishguys-sonic-and-the-hedgehogs.json) |
 | EvilCraft | 232678 | [232678-evilcraft.json](./232678-evilcraft.json) |
 | EvilHack | 351130 | [351130-evilhack.json](./351130-evilhack.json) |
 | Evilibrium: Soul Hunters | 125384 | [125384-evilibrium-soul-hunters.json](./125384-evilibrium-soul-hunters.json) |
@@ -8080,6 +8081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeless | 269310 | [269310-eyeless.json](./269310-eyeless.json) |
 | Eyeless Jack | 300016 | [300016-eyeless-jack.json](./300016-eyeless-jack.json) |
 | Eyelord | 5559 | [5559-eyelord.json](./5559-eyelord.json) |
+| EyeOS | 316000 | [316000-eyeos.json](./316000-eyeos.json) |
 | EyePet | 7303 | [7303-eyepet.json](./7303-eyepet.json) |
 | EyePet & Friends | 52216 | [52216-eyepet-and-friends.json](./52216-eyepet-and-friends.json) |
 | EyePet Adventures | 52215 | [52215-eyepet-adventures.json](./52215-eyepet-adventures.json) |
