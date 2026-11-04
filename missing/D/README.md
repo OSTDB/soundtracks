@@ -6259,6 +6259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Sighting | 168592 | [168592-demon-sighting.json](./168592-demon-sighting.json) |
 | Demon Skin | 145582 | [145582-demon-skin.json](./145582-demon-skin.json) |
 | Demon Slayer | 304557 | [304557-demon-slayer.json](./304557-demon-slayer.json) |
+| Demon Slayer | 322495 | [322495-demon-slayer.json](./322495-demon-slayer.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Gyutaro Character Pack | 226692 | [226692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-gyutaro-character-pack.json](./226692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-gyutaro-character-pack.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tengen Uzui Character Pack | 209695 | [209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json](./209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json) |
 | Demon Slayer 5 | 320711 | [320711-demon-slayer-5.json](./320711-demon-slayer-5.json) |
@@ -10689,6 +10690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divorce Chatroom | 328348 | [328348-divorce-chatroom.json](./328348-divorce-chatroom.json) |
 | Dìwáng Chāiqiān Bàn | 367485 | [367485-diwang-chaiqian-ban.json](./367485-diwang-chaiqian-ban.json) |
 | Dìxiàshì | 148693 | [148693-dixiashi.json](./148693-dixiashi.json) |
+| Dixit World | 322478 | [322478-dixit-world.json](./322478-dixit-world.json) |
 | Dixotomia | 204836 | [204836-dixotomia.json](./204836-dixotomia.json) |
 | DIY | 259375 | [259375-diy.json](./259375-diy.json) |
 | DIY Fashion Star | 289210 | [289210-diy-fashion-star.json](./289210-diy-fashion-star.json) |
