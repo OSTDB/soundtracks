@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Casa Maluca | 412104 | [412104-a-casa-maluca.json](./412104-a-casa-maluca.json) |
 | A Case for Cap & Co | 242642 | [242642-a-case-for-cap-and-co.json](./242642-a-case-for-cap-and-co.json) |
 | A Case of Distrust | 28282 | [28282-a-case-of-distrust.json](./28282-a-case-of-distrust.json) |
+| A Case of Fraud | 325352 | [325352-a-case-of-fraud.json](./325352-a-case-of-fraud.json) |
 | A Case of Missing Dairy | 185400 | [185400-a-case-of-missing-dairy.json](./185400-a-case-of-missing-dairy.json) |
 | A Case of Missing Identity | 389016 | [389016-a-case-of-missing-identity.json](./389016-a-case-of-missing-identity.json) |
 | A Case of the Crabs: Rehash | 237458 | [237458-a-case-of-the-crabs-rehash.json](./237458-a-case-of-the-crabs-rehash.json) |
@@ -264,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day in the Life of a Writer | 201647 | [201647-a-day-in-the-life-of-a-writer.json](./201647-a-day-in-the-life-of-a-writer.json) |
 | A Day in the Life of Death | 311741 | [311741-a-day-in-the-life-of-death.json](./311741-a-day-in-the-life-of-death.json) |
 | A Day of Maintenance | 154623 | [154623-a-day-of-maintenance.json](./154623-a-day-of-maintenance.json) |
+| A Day of Slacking | 325230 | [325230-a-day-of-slacking.json](./325230-a-day-of-slacking.json) |
 | A Day on the Farm | 326582 | [326582-a-day-on-the-farm.json](./326582-a-day-on-the-farm.json) |
 | A Day Out | 190377 | [190377-a-day-out.json](./190377-a-day-out.json) |
 | A Day Out with Ube | 242006 | [242006-a-day-out-with-ube.json](./242006-a-day-out-with-ube.json) |
@@ -7720,6 +7722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ALZ | 128789 | [128789-alz.json](./128789-alz.json) |
 | Alzara: Radiant Echoes | 300878 | [300878-alzara-radiant-echoes.json](./300878-alzara-radiant-echoes.json) |
 | Alzheimer's: Memories | 160230 | [160230-alzheimers-memories.json](./160230-alzheimers-memories.json) |
+| AM Archaic Memories | 325208 | [325208-am-archaic-memories.json](./325208-am-archaic-memories.json) |
 | Am I AI | 263573 | [263573-am-i-ai.json](./263573-am-i-ai.json) |
 | Am I Explorer | 280665 | [280665-am-i-explorer.json](./280665-am-i-explorer.json) |
 | Am I Here? | 399160 | [399160-am-i-here.json](./399160-am-i-here.json) |
@@ -15466,6 +15469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroblaze | 300770 | [300770-astroblaze.json](./300770-astroblaze.json) |
 | Astroblitz | 146299 | [146299-astroblitz.json](./146299-astroblitz.json) |
 | Astrobotanica | 319853 | [319853-astrobotanica.json](./319853-astrobotanica.json) |
+| AstroBrawl | 325218 | [325218-astrobrawl.json](./325218-astrobrawl.json) |
 | Astrobuilder | 334690 | [334690-astrobuilder.json](./334690-astrobuilder.json) |
 | Astroburrow | 358375 | [358375-astroburrow.json](./358375-astroburrow.json) |
 | Astrocat: Milky Way Journey | 196264 | [196264-astrocat-milky-way-journey.json](./196264-astrocat-milky-way-journey.json) |
