@@ -2904,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Mogul 2026 | 400433 | [400433-baseball-mogul-2026.json](./400433-baseball-mogul-2026.json) |
 | Baseball Mogul 99 | 80774 | [80774-baseball-mogul-99.json](./80774-baseball-mogul-99.json) |
 | Baseball Mogul Diamond | 31952 | [31952-baseball-mogul-diamond.json](./31952-baseball-mogul-diamond.json) |
+| Baseball Navigator | 311941 | [311941-baseball-navigator.json](./311941-baseball-navigator.json) |
 | Baseball Pro's | 279700 | [279700-baseball-pros.json](./279700-baseball-pros.json) |
 | Baseball Scouter | 379699 | [379699-baseball-scouter.json](./379699-baseball-scouter.json) |
 | Baseball Star | 46753 | [46753-baseball-star.json](./46753-baseball-star.json) |
@@ -8177,6 +8178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birding Simulator | 191654 | [191654-birding-simulator.json](./191654-birding-simulator.json) |
 | Birdiy | 38592 | [38592-birdiy.json](./38592-birdiy.json) |
 | Birdland | 20339 | [20339-birdland.json](./20339-birdland.json) |
+| BirdLife | 311954 | [311954-birdlife.json](./311954-birdlife.json) |
 | BirdLingo: A birdsong learning game | 311260 | [311260-birdlingo-a-birdsong-learning-game.json](./311260-birdlingo-a-birdsong-learning-game.json) |
 | Birdminton | 276686 | [276686-birdminton.json](./276686-birdminton.json) |
 | Birdo vs. Macintosh | 322104 | [322104-birdo-vs-macintosh.json](./322104-birdo-vs-macintosh.json) |
@@ -10615,6 +10617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Flowers | 211583 | [211583-blood-flowers.json](./211583-blood-flowers.json) |
 | Blood Flows Where My Shotgun Blows | 263405 | [263405-blood-flows-where-my-shotgun-blows.json](./263405-blood-flows-where-my-shotgun-blows.json) |
 | Blood for Poppies | 165531 | [165531-blood-for-poppies.json](./165531-blood-for-poppies.json) |
+| Blood for the Old Gods | 312234 | [312234-blood-for-the-old-gods.json](./312234-blood-for-the-old-gods.json) |
 | Blood for the Queen | 383070 | [383070-blood-for-the-queen.json](./383070-blood-for-the-queen.json) |
 | Blood for the Throne | 370202 | [370202-blood-for-the-throne.json](./370202-blood-for-the-throne.json) |
 | Blood Foundry | 309205 | [309205-blood-foundry.json](./309205-blood-foundry.json) |
@@ -15261,6 +15264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring The Rift | 401883 | [401883-bring-the-rift.json](./401883-bring-the-rift.json) |
 | Bring Them Home | 114188 | [114188-bring-them-home.json](./114188-bring-them-home.json) |
 | Bring Your Eh! Game | 60847 | [60847-bring-your-eh-game.json](./60847-bring-your-eh-game.json) |
+| Bring Your Own Class | 311942 | [311942-bring-your-own-class.json](./311942-bring-your-own-class.json) |
 | Bringris | 174191 | [174191-bringris.json](./174191-bringris.json) |
 | Brink | 502 | [502-brink.json](./502-brink.json) |
 | Brink Complete Pack | 25050 | [25050-brink-complete-pack.json](./25050-brink-complete-pack.json) |
