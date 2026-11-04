@@ -11599,6 +11599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arachnophilia | 385926 | [385926-arachnophilia.json](./385926-arachnophilia.json) |
 | Arachnophobia | 11907 | [11907-arachnophobia.json](./11907-arachnophobia.json) |
 | Arachnophobia | 32470 | [32470-arachnophobia.json](./32470-arachnophobia.json) |
+| Arachnophobia | 345767 | [345767-arachnophobia.json](./345767-arachnophobia.json) |
 | ArachnoSplat | 126406 | [126406-arachnosplat.json](./126406-arachnosplat.json) |
 | Arachnotron | 184818 | [184818-arachnotron.json](./184818-arachnotron.json) |
 | Arachnowopunk | 153787 | [153787-arachnowopunk.json](./153787-arachnowopunk.json) |
@@ -12566,6 +12567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Showdown | 272788 | [272788-archery-showdown.json](./272788-archery-showdown.json) |
 | Archery Simulator | 217379 | [217379-archery-simulator.json](./217379-archery-simulator.json) |
 | Archery Simulator | 332264 | [332264-archery-simulator.json](./332264-archery-simulator.json) |
+| Archery Simulator | 345780 | [345780-archery-simulator.json](./345780-archery-simulator.json) |
 | Archery Simulator 2 | 303344 | [303344-archery-simulator-2.json](./303344-archery-simulator-2.json) |
 | Archery Star | 106630 | [106630-archery-star.json](./106630-archery-star.json) |
 | Archery Talent | 181580 | [181580-archery-talent.json](./181580-archery-talent.json) |
@@ -17486,6 +17488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayla's Dollhouse | 244588 | [244588-aylas-dollhouse.json](./244588-aylas-dollhouse.json) |
 | Ayleouna | 198096 | [198096-ayleouna.json](./198096-ayleouna.json) |
 | Aylin: The Story of Tom | 359072 | [359072-aylin-the-story-of-tom.json](./359072-aylin-the-story-of-tom.json) |
+| Ayna: Shattered Truth | 345800 | [345800-ayna-shattered-truth.json](./345800-ayna-shattered-truth.json) |
 | Ayni Fairyland | 107896 | [107896-ayni-fairyland.json](./107896-ayni-fairyland.json) |
 | Ayo the Clown | 26755 | [26755-ayo-the-clown.json](./26755-ayo-the-clown.json) |
 | Ayoub | 150474 | [150474-ayoub.json](./150474-ayoub.json) |
