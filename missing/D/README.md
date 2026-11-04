@@ -2421,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashpunch | 319805 | [319805-dashpunch.json](./319805-dashpunch.json) |
 | Dashwalk Dueling | 189376 | [189376-dashwalk-dueling.json](./189376-dashwalk-dueling.json) |
 | Dashy Crashy 100 | 317385 | [317385-dashy-crashy-100.json](./317385-dashy-crashy-100.json) |
+| Dashy Dango | 307497 | [307497-dashy-dango.json](./307497-dashy-dango.json) |
 | Dashy Ducks | 58623 | [58623-dashy-ducks.json](./58623-dashy-ducks.json) |
 | Dashy No Buttstomp | 349255 | [349255-dashy-no-buttstomp.json](./349255-dashy-no-buttstomp.json) |
 | Dashy Square VR | 32253 | [32253-dashy-square-vr.json](./32253-dashy-square-vr.json) |
@@ -11188,6 +11189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge This | 291512 | [291512-dodge-this.json](./291512-dodge-this.json) |
 | Dodge This VR | 282132 | [282132-dodge-this-vr.json](./282132-dodge-this-vr.json) |
 | Dodgeball | 165568 | [165568-dodgeball.json](./165568-dodgeball.json) |
+| Dodgeball | 307498 | [307498-dodgeball.json](./307498-dodgeball.json) |
 | Dodgeball | 359304 | [359304-dodgeball.json](./359304-dodgeball.json) |
 | Dodgeball | 51852 | [51852-dodgeball.json](./51852-dodgeball.json) |
 | Dodgeball Blast | 356208 | [356208-dodgeball-blast.json](./356208-dodgeball-blast.json) |
@@ -12154,6 +12156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Sleep | 343400 | [343400-dont-sleep.json](./343400-dont-sleep.json) |
 | Don’t Sleep with the Fishes | 403674 | [403674-don-t-sleep-with-the-fishes.json](./403674-don-t-sleep-with-the-fishes.json) |
 | Don't Sleep: Hard Mode | 375539 | [375539-dont-sleep-hard-mode.json](./375539-dont-sleep-hard-mode.json) |
+| Don't Smash into Obstacles | 307499 | [307499-dont-smash-into-obstacles.json](./307499-dont-smash-into-obstacles.json) |
 | Don't Spill | 167385 | [167385-dont-spill.json](./167385-dont-spill.json) |
 | Don't Spill Your Coffee! | 176685 | [176685-dont-spill-your-coffee.json](./176685-dont-spill-your-coffee.json) |
 | Don't Stand Out | 90134 | [90134-dont-stand-out.json](./90134-dont-stand-out.json) |
