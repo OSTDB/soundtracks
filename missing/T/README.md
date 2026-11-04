@@ -31237,6 +31237,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn the Line! | 190005 | [190005-turn-the-line.json](./190005-turn-the-line.json) |
 | Turn the mirror, please. | 111849 | [111849-turn-the-mirror-please.json](./111849-turn-the-mirror-please.json) |
 | Turn to Mine | 312846 | [312846-turn-to-mine.json](./312846-turn-to-mine.json) |
+| Turn Undead | 340815 | [340815-turn-undead.json](./340815-turn-undead.json) |
+| Turn Undead II | 340816 | [340816-turn-undead-ii.json](./340816-turn-undead-ii.json) |
 | Turn your Destiny | 43157 | [43157-turn-your-destiny.json](./43157-turn-your-destiny.json) |
 | Turn-Based Battle Bundle: The Amazing American Circus & Legend of Keepers | 270303 | [270303-turn-based-battle-bundle-the-amazing-american-circus-and-legend-of-keepers.json](./270303-turn-based-battle-bundle-the-amazing-american-circus-and-legend-of-keepers.json) |
 | Turn-Based Bundle | 271868 | [271868-turn-based-bundle.json](./271868-turn-based-bundle.json) |
