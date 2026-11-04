@@ -5497,6 +5497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Septaroad Voyager | 226626 | [226626-septaroad-voyager.json](./226626-septaroad-voyager.json) |
 | Septem: The Preparation | 384639 | [384639-septem-the-preparation.json](./384639-septem-the-preparation.json) |
 | September 12th: A Toy World | 172075 | [172075-september-12th-a-toy-world.json](./172075-september-12th-a-toy-world.json) |
+| September 1998 | 323629 | [323629-september-1998.json](./323629-september-1998.json) |
 | September 1999 | 110468 | [110468-september-1999.json](./110468-september-1999.json) |
 | September 28 Pizza | 188888 | [188888-september-28-pizza.json](./188888-september-28-pizza.json) |
 | September 7th | 230769 | [230769-september-7th.json](./230769-september-7th.json) |
@@ -7380,6 +7381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Souls | 316428 | [316428-shattered-souls.json](./316428-shattered-souls.json) |
 | Shattered State | 203750 | [203750-shattered-state.json](./203750-shattered-state.json) |
 | Shattered Stone | 185545 | [185545-shattered-stone.json](./185545-shattered-stone.json) |
+| Shattered Sun | 323485 | [323485-shattered-sun.json](./323485-shattered-sun.json) |
 | Shattered Time | 326539 | [326539-shattered-time.json](./326539-shattered-time.json) |
 | Shattered Union | 6046 | [6046-shattered-union.json](./6046-shattered-union.json) |
 | Shattered Vault | 390783 | [390783-shattered-vault.json](./390783-shattered-vault.json) |
@@ -15841,6 +15843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solastra | 413389 | [413389-solastra.json](./413389-solastra.json) |
 | Solatorobo: Red the Hunter | 9597 | [9597-solatorobo-red-the-hunter.json](./9597-solatorobo-red-the-hunter.json) |
 | Solbane | 189297 | [189297-solbane.json](./189297-solbane.json) |
+| Solborne Gorge | 323556 | [323556-solborne-gorge.json](./323556-solborne-gorge.json) |
 | Solbot Energy Rush | 105401 | [105401-solbot-energy-rush.json](./105401-solbot-energy-rush.json) |
 | Solbreak Skirmish | 413881 | [413881-solbreak-skirmish.json](./413881-solbreak-skirmish.json) |
 | SolChicks | 210557 | [210557-solchicks.json](./210557-solchicks.json) |
@@ -25530,6 +25533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Track | 18427 | [18427-stellar-track.json](./18427-stellar-track.json) |
 | Stellar Tunes | 265289 | [265289-stellar-tunes.json](./265289-stellar-tunes.json) |
 | Stellar Valkyrie | 165072 | [165072-stellar-valkyrie.json](./165072-stellar-valkyrie.json) |
+| Stellar Verse Pro Runner | 323634 | [323634-stellar-verse-pro-runner.json](./323634-stellar-verse-pro-runner.json) |
 | Stellar Version 1.0 | 252671 | [252671-stellar-version-1-0.json](./252671-stellar-version-1-0.json) |
 | Stellar Wanderer | 139632 | [139632-stellar-wanderer.json](./139632-stellar-wanderer.json) |
 | Stellar Wanderer DX | 283577 | [283577-stellar-wanderer-dx.json](./283577-stellar-wanderer-dx.json) |
