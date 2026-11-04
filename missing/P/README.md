@@ -8387,6 +8387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Dinoluship | 315924 | [315924-pixicharm-dinoluship.json](./315924-pixicharm-dinoluship.json) |
 | Pixicharm: Fit Frog's Feast | 315931 | [315931-pixicharm-fit-frogs-feast.json](./315931-pixicharm-fit-frogs-feast.json) |
 | Pixicharm: Flindlehop | 356508 | [356508-pixicharm-flindlehop.json](./356508-pixicharm-flindlehop.json) |
+| Pixicharm: Frost Ascent | 339054 | [339054-pixicharm-frost-ascent.json](./339054-pixicharm-frost-ascent.json) |
 | Pixicharm: Goo Patrol | 373564 | [373564-pixicharm-goo-patrol.json](./373564-pixicharm-goo-patrol.json) |
 | Pixicharm: Hallowkinz | 378767 | [378767-pixicharm-hallowkinz.json](./378767-pixicharm-hallowkinz.json) |
 | Pixicharm: Hue Break the Law | 364977 | [364977-pixicharm-hue-break-the-law.json](./364977-pixicharm-hue-break-the-law.json) |
