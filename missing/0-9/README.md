@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 'Till Death Do Us Part | 398026 | [398026-till-death-do-us-part.json](./398026-till-death-do-us-part.json) |
 | "A" Find & Touch | 83204 | [83204-a-find-and-touch.json](./83204-a-find-and-touch.json) |
 | "Alone" | 406633 | [406633-alone.json](./406633-alone.json) |
+| "Comrades, We Have a Mole Problem." | 303423 | [303423-comrades-we-have-a-mole-problem.json](./303423-comrades-we-have-a-mole-problem.json) |
 | "Did You Submit a Ticket?" Simulator | 417551 | [417551-did-you-submit-a-ticket-simulator.json](./417551-did-you-submit-a-ticket-simulator.json) |
 | "Draw a card" Simulator | 168659 | [168659-draw-a-card-simulator.json](./168659-draw-a-card-simulator.json) |
 | "Edna & Harvey" Bundle | 271701 | [271701-edna-and-harvey-bundle.json](./271701-edna-and-harvey-bundle.json) |
@@ -3324,6 +3325,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Hallways: The Anomaly Agent | 377411 | [377411-9-hallways-the-anomaly-agent.json](./377411-9-hallways-the-anomaly-agent.json) |
 | 9 in 1 Puzzles | 212336 | [212336-9-in-1-puzzles.json](./212336-9-in-1-puzzles.json) |
 | 9 in 1 Sports Games Mega Collection | 347307 | [347307-9-in-1-sports-games-mega-collection.json](./347307-9-in-1-sports-games-mega-collection.json) |
+| 9 Innings: Pro Baseball 2009 | 303960 | [303960-9-innings-pro-baseball-2009.json](./303960-9-innings-pro-baseball-2009.json) |
+| 9 Innings: Pro Baseball 2011 | 303963 | [303963-9-innings-pro-baseball-2011.json](./303963-9-innings-pro-baseball-2011.json) |
+| 9 Innings: Pro Baseball 2012 | 303965 | [303965-9-innings-pro-baseball-2012.json](./303965-9-innings-pro-baseball-2012.json) |
+| 9 Innings: Pro Baseball 2013 | 303968 | [303968-9-innings-pro-baseball-2013.json](./303968-9-innings-pro-baseball-2013.json) |
+| 9 Innings: Pro Baseball 2014 | 303969 | [303969-9-innings-pro-baseball-2014.json](./303969-9-innings-pro-baseball-2014.json) |
+| 9 Innings: Pro Baseball 2015 | 303970 | [303970-9-innings-pro-baseball-2015.json](./303970-9-innings-pro-baseball-2015.json) |
+| 9 Innings: Pro Baseball 2016 | 303972 | [303972-9-innings-pro-baseball-2016.json](./303972-9-innings-pro-baseball-2016.json) |
+| 9 Innings: Pro Baseball Classic | 303962 | [303962-9-innings-pro-baseball-classic.json](./303962-9-innings-pro-baseball-classic.json) |
 | 9 Kings | 288741 | [288741-9-kings.json](./288741-9-kings.json) |
 | 9 Layers of Hell | 419745 | [419745-9-layers-of-hell.json](./419745-9-layers-of-hell.json) |
 | 9 Lives | 11879 | [11879-9-lives.json](./11879-9-lives.json) |
