@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit on Skateboard | 312206 | [312206-rabbit-on-skateboard.json](./312206-rabbit-on-skateboard.json) |
 | Rabbit Punch | 64330 | [64330-rabbit-punch.json](./64330-rabbit-punch.json) |
 | Rabbit Rabbit UFO | 279025 | [279025-rabbit-rabbit-ufo.json](./279025-rabbit-rabbit-ufo.json) |
+| Rabbit Raid | 332160 | [332160-rabbit-raid.json](./332160-rabbit-raid.json) |
 | Rabbit Rampage | 293536 | [293536-rabbit-rampage.json](./293536-rabbit-rampage.json) |
 | Rabbit Riot | 149209 | [149209-rabbit-riot.json](./149209-rabbit-riot.json) |
 | Rabbit Run Away | 212466 | [212466-rabbit-run-away.json](./212466-rabbit-run-away.json) |
@@ -2605,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Memento - White Shadow: When the Cadella Blooms Again | 350163 | [350163-re-memento-white-shadow-when-the-cadella-blooms-again.json](./350163-re-memento-white-shadow-when-the-cadella-blooms-again.json) |
 | Re:Metamorphosis Candina | 409768 | [409768-re-metamorphosis-candina.json](./409768-re-metamorphosis-candina.json) |
 | Re:Mobilize | 270851 | [270851-re-mobilize.json](./270851-re-mobilize.json) |
+| Re:Mobilize Jam 2: Re:Visions | 332173 | [332173-re-mobilize-jam-2-re-visions.json](./332173-re-mobilize-jam-2-re-visions.json) |
 | Re:Mobilize Jam 3: Re:Frigerated | 393783 | [393783-re-mobilize-jam-3-re-frigerated.json](./393783-re-mobilize-jam-3-re-frigerated.json) |
 | Re:Monster | 241637 | [241637-re-monster.json](./241637-re-monster.json) |
 | Re:Night | 258952 | [258952-re-night.json](./258952-re-night.json) |
@@ -5584,6 +5586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resource War: Soul Squad Alpha | 299420 | [299420-resource-war-soul-squad-alpha.json](./299420-resource-war-soul-squad-alpha.json) |
 | Resourceful.World | 265544 | [265544-resourceful-world.json](./265544-resourceful-world.json) |
 | Resourcer | 245945 | [245945-resourcer.json](./245945-resourcer.json) |
+| ReSpaced | 332174 | [332174-respaced.json](./332174-respaced.json) |
 | Respawn | 203851 | [203851-respawn.json](./203851-respawn.json) |
 | Respawn | 246796 | [246796-respawn.json](./246796-respawn.json) |
 | Respawn Kingdom: Team Shooter | 216057 | [216057-respawn-kingdom-team-shooter.json](./216057-respawn-kingdom-team-shooter.json) |
