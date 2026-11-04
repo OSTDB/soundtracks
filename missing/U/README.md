@@ -1180,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Un Paseo Por Villa Tronco | 396527 | [396527-un-paseo-por-villa-tronco.json](./396527-un-paseo-por-villa-tronco.json) |
 | Un Petit Noel | 406843 | [406843-un-petit-noel.json](./406843-un-petit-noel.json) |
 | Un Presagio de Huesos | 259751 | [259751-un-presagio-de-huesos.json](./259751-un-presagio-de-huesos.json) |
+| Un Profe | 327561 | [327561-un-profe.json](./327561-un-profe.json) |
 | Un seul jeu | 417815 | [417815-un-seul-jeu.json](./417815-un-seul-jeu.json) |
 | Un-Matching Game | 307293 | [307293-un-matching-game.json](./307293-un-matching-game.json) |
 | Un-Usual Hotline | 352520 | [352520-un-usual-hotline.json](./352520-un-usual-hotline.json) |
@@ -1192,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Una Gesta Draconiana | 400870 | [400870-una-gesta-draconiana.json](./400870-una-gesta-draconiana.json) |
 | Una noche en órbita | 391669 | [391669-una-noche-en-orbita.json](./391669-una-noche-en-orbita.json) |
 | Una noche sin nombre | 314510 | [314510-una-noche-sin-nombre.json](./314510-una-noche-sin-nombre.json) |
+| Una Raíz Para Mí | 327562 | [327562-una-raiz-para-mi.json](./327562-una-raiz-para-mi.json) |
 | Unable to Exit 8 | 297867 | [297867-unable-to-exit-8.json](./297867-unable-to-exit-8.json) |
 | Unables | 212167 | [212167-unables.json](./212167-unables.json) |
 | Unaccessible | 327981 | [327981-unaccessible.json](./327981-unaccessible.json) |
@@ -1982,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unexpected Futa Corruption | 236123 | [236123-unexpected-futa-corruption.json](./236123-unexpected-futa-corruption.json) |
 | Unexpected Journey | 361585 | [361585-unexpected-journey.json](./361585-unexpected-journey.json) |
 | Unexpected Pigeon Race | 324722 | [324722-unexpected-pigeon-race.json](./324722-unexpected-pigeon-race.json) |
+| Unexpected Quest | 327563 | [327563-unexpected-quest.json](./327563-unexpected-quest.json) |
 | Unexpected Sequence | 128156 | [128156-unexpected-sequence.json](./128156-unexpected-sequence.json) |
 | Unexpected Tasks | 416987 | [416987-unexpected-tasks.json](./416987-unexpected-tasks.json) |
 | Unexpected Visitors | 265128 | [265128-unexpected-visitors.json](./265128-unexpected-visitors.json) |
@@ -2979,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up Down Z | 136235 | [136235-up-down-z.json](./136235-up-down-z.json) |
 | Up for Grabs | 268025 | [268025-up-for-grabs.json](./268025-up-for-grabs.json) |
 | Up Hike | 286992 | [286992-up-hike.json](./286992-up-hike.json) |
+| Up Island | 328188 | [328188-up-island.json](./328188-up-island.json) |
 | Up Left Out | 103375 | [103375-up-left-out.json](./103375-up-left-out.json) |
 | Up N' Down | 264198 | [264198-up-n-down.json](./264198-up-n-down.json) |
 | Up on the Rooftop | 130235 | [130235-up-on-the-rooftop.json](./130235-up-on-the-rooftop.json) |
