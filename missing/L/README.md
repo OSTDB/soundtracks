@@ -9494,6 +9494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Descent | 333360 | [333360-lunar-descent.json](./333360-lunar-descent.json) |
 | Lunar Drifter | 333701 | [333701-lunar-drifter.json](./333701-lunar-drifter.json) |
 | Lunar Echoes | 332875 | [332875-lunar-echoes.json](./332875-lunar-echoes.json) |
+| Lunar Eclipse | 305691 | [305691-lunar-eclipse.json](./305691-lunar-eclipse.json) |
 | Lunar Escape | 178642 | [178642-lunar-escape.json](./178642-lunar-escape.json) |
 | Lunar Explorer | 28715 | [28715-lunar-explorer.json](./28715-lunar-explorer.json) |
 | Lunar Explorer: A Space Flight Simulator | 70293 | [70293-lunar-explorer-a-space-flight-simulator.json](./70293-lunar-explorer-a-space-flight-simulator.json) |
@@ -9525,6 +9526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Mirror: Moon Night Without Light | 296964 | [296964-lunar-mirror-moon-night-without-light.json](./296964-lunar-mirror-moon-night-without-light.json) |
 | Lunar Mountain | 236923 | [236923-lunar-mountain.json](./236923-lunar-mountain.json) |
 | Lunar Mystery 2103 | 387480 | [387480-lunar-mystery-2103.json](./387480-lunar-mystery-2103.json) |
+| Lunar New Year | 305680 | [305680-lunar-new-year.json](./305680-lunar-new-year.json) |
 | Lunar New Year Lanterns | 369879 | [369879-lunar-new-year-lanterns.json](./369879-lunar-new-year-lanterns.json) |
 | Lunar Nightmare | 309927 | [309927-lunar-nightmare.json](./309927-lunar-nightmare.json) |
 | Lunar Outpost | 317545 | [317545-lunar-outpost.json](./317545-lunar-outpost.json) |
