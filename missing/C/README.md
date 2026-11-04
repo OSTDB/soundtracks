@@ -4478,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Lover | 55281 | [55281-cats-lover.json](./55281-cats-lover.json) |
 | Cats Make You Smarter! | 74227 | [74227-cats-make-you-smarter.json](./74227-cats-make-you-smarter.json) |
 | Cats n Wires | 177476 | [177476-cats-n-wires.json](./177476-cats-n-wires.json) |
+| Cats of Mona Lisa: A Hidden Object Game | 326933 | [326933-cats-of-mona-lisa-a-hidden-object-game.json](./326933-cats-of-mona-lisa-a-hidden-object-game.json) |
 | Cats of the Qing Dynasty | 292435 | [292435-cats-of-the-qing-dynasty.json](./292435-cats-of-the-qing-dynasty.json) |
 | Cats of the Song Dynasty | 315299 | [315299-cats-of-the-song-dynasty.json](./315299-cats-of-the-song-dynasty.json) |
 | Cats of the Tang Dynasty | 302819 | [302819-cats-of-the-tang-dynasty.json](./302819-cats-of-the-tang-dynasty.json) |
@@ -16745,6 +16746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Horror | 374624 | [374624-crimson-horror.json](./374624-crimson-horror.json) |
 | Crimson Hotel | 121645 | [121645-crimson-hotel.json](./121645-crimson-hotel.json) |
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
+| Crimson Incursion | 326938 | [326938-crimson-incursion.json](./326938-crimson-incursion.json) |
 | Crimson Katana Exa Label | 365112 | [365112-crimson-katana-exa-label.json](./365112-crimson-katana-exa-label.json) |
 | Crimson Keep | 22002 | [22002-crimson-keep.json](./22002-crimson-keep.json) |
 | Crimson Keep | 230177 | [230177-crimson-keep.json](./230177-crimson-keep.json) |
@@ -20081,5 +20083,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Czar: Decision | 129467 | [129467-czar-decision.json](./129467-czar-decision.json) |
 | Czarny Orzel | 130680 | [130680-czarny-orzel.json](./130680-czarny-orzel.json) |
 | Czech Soccer Manager 2020 | 145425 | [145425-czech-soccer-manager-2020.json](./145425-czech-soccer-manager-2020.json) |
+| Czech Soccer Manager 2025 | 326940 | [326940-czech-soccer-manager-2025.json](./326940-czech-soccer-manager-2025.json) |
 | CzechBox | 262160 | [262160-czechbox.json](./262160-czechbox.json) |
 | Czorian Siege | 69648 | [69648-czorian-siege.json](./69648-czorian-siege.json) |
