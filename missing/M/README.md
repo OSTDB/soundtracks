@@ -5033,6 +5033,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Pieces: Jigsaw Puzzle - Glass Dreams | 303649 | [303649-master-of-pieces-jigsaw-puzzle-glass-dreams.json](./303649-master-of-pieces-jigsaw-puzzle-glass-dreams.json) |
 | Master of Pieces: Jigsaw Puzzle - Paper Art | 293066 | [293066-master-of-pieces-jigsaw-puzzle-paper-art.json](./293066-master-of-pieces-jigsaw-puzzle-paper-art.json) |
 | Master of Pieces: Jigsaw Puzzle - Timeless Heritage | 303650 | [303650-master-of-pieces-jigsaw-puzzle-timeless-heritage.json](./303650-master-of-pieces-jigsaw-puzzle-timeless-heritage.json) |
+| Master of Pieces: Jigsaw Puzzle - Unknown Worlds | 303651 | [303651-master-of-pieces-jigsaw-puzzle-unknown-worlds.json](./303651-master-of-pieces-jigsaw-puzzle-unknown-worlds.json) |
+| Master of Pieces: Jigsaw Puzzle - Whispers of Nature | 303652 | [303652-master-of-pieces-jigsaw-puzzle-whispers-of-nature.json](./303652-master-of-pieces-jigsaw-puzzle-whispers-of-nature.json) |
 | Master of Pieces: Jigsaw Puzzles | 213771 | [213771-master-of-pieces-jigsaw-puzzles.json](./213771-master-of-pieces-jigsaw-puzzles.json) |
 | Master of Pieces: Jigsaw Puzzles - Cat Family Christmas | 284890 | [284890-master-of-pieces-jigsaw-puzzles-cat-family-christmas.json](./284890-master-of-pieces-jigsaw-puzzles-cat-family-christmas.json) |
 | Master of Pieces: Jigsaw Puzzles - Summer Time | 216163 | [216163-master-of-pieces-jigsaw-puzzles-summer-time.json](./216163-master-of-pieces-jigsaw-puzzles-summer-time.json) |
