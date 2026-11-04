@@ -8761,6 +8761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot the Bubbles Deluxe | 25839 | [25839-shoot-the-bubbles-deluxe.json](./25839-shoot-the-bubbles-deluxe.json) |
 | Shoot the Buuuuuuugs | 214194 | [214194-shoot-the-buuuuuuugs.json](./214194-shoot-the-buuuuuuugs.json) |
 | Shoot The Moon | 344028 | [344028-shoot-the-moon.json](./344028-shoot-the-moon.json) |
+| Shoot the Rapids | 317768 | [317768-shoot-the-rapids.json](./317768-shoot-the-rapids.json) |
 | Shoot the Robots VR | 278998 | [278998-shoot-the-robots-vr.json](./278998-shoot-the-robots-vr.json) |
 | Shoot the Rocks | 28768 | [28768-shoot-the-rocks.json](./28768-shoot-the-rocks.json) |
 | Shoot the Wall | 340791 | [340791-shoot-the-wall.json](./340791-shoot-the-wall.json) |
@@ -18964,7 +18965,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22469,6 +22469,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Tactics | 244415 | [244415-squad-tactics.json](./244415-squad-tactics.json) |
 | Squad Z | 105071 | [105071-squad-z.json](./105071-squad-z.json) |
 | Squad: Canadian Armed Forces | 170368 | [170368-squad-canadian-armed-forces.json](./170368-squad-canadian-armed-forces.json) |
+| Squad: Weapon Skins - Clash Pack | 317735 | [317735-squad-weapon-skins-clash-pack.json](./317735-squad-weapon-skins-clash-pack.json) |
+| Squad: Weapon Skins - Contractors Pack | 317726 | [317726-squad-weapon-skins-contractors-pack.json](./317726-squad-weapon-skins-contractors-pack.json) |
 | SquadBlast | 202686 | [202686-squadblast.json](./202686-squadblast.json) |
 | Squadd.Io | 27418 | [27418-squadd-io.json](./27418-squadd-io.json) |
 | Squadika | 401693 | [401693-squadika.json](./401693-squadika.json) |
@@ -25459,6 +25461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stella's Spikey Dream | 181027 | [181027-stellas-spikey-dream.json](./181027-stellas-spikey-dream.json) |
 | Stellabits | 223405 | [223405-stellabits.json](./223405-stellabits.json) |
 | StellaGale: The Trials Of Faith | 190457 | [190457-stellagale-the-trials-of-faith.json](./190457-stellagale-the-trials-of-faith.json) |
+| Stellagate | 317753 | [317753-stellagate.json](./317753-stellagate.json) |
 | Stellamore | 179839 | [179839-stellamore.json](./179839-stellamore.json) |
 | Stellanova | 216264 | [216264-stellanova.json](./216264-stellanova.json) |
 | Stellar 2D | 34763 | [34763-stellar-2d.json](./34763-stellar-2d.json) |
