@@ -2882,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Horror Stories: Ultimate Edition | 36413 | [36413-real-horror-stories-ultimate-edition.json](./36413-real-horror-stories-ultimate-edition.json) |
 | Real Horse 3D | 216152 | [216152-real-horse-3d.json](./216152-real-horse-3d.json) |
 | Real Kanojo | 22469 | [22469-real-kanojo.json](./22469-real-kanojo.json) |
+| Real Kart | 302018 | [302018-real-kart.json](./302018-real-kart.json) |
 | Real Life Day: Threesome | 313508 | [313508-real-life-day-threesome.json](./313508-real-life-day-threesome.json) |
 | Real Life Flappy Bird | 360627 | [360627-real-life-flappy-bird.json](./360627-real-life-flappy-bird.json) |
 | Real Life Plus Ver. Kaname Komatsuzaki | 133036 | [133036-real-life-plus-ver-kaname-komatsuzaki.json](./133036-real-life-plus-ver-kaname-komatsuzaki.json) |
@@ -3070,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Divinos | 200824 | [200824-realm-of-divinos.json](./200824-realm-of-divinos.json) |
 | Realm of Dread | 265306 | [265306-realm-of-dread.json](./265306-realm-of-dread.json) |
 | Realm of Embers | 423987 | [423987-realm-of-embers.json](./423987-realm-of-embers.json) |
+| Realm of Gems | 302010 | [302010-realm-of-gems.json](./302010-realm-of-gems.json) |
 | Realm of Heroes | 167257 | [167257-realm-of-heroes.json](./167257-realm-of-heroes.json) |
 | Realm Of I | 291547 | [291547-realm-of-i.json](./291547-realm-of-i.json) |
 | Realm of Ink | 274368 | [274368-realm-of-ink.json](./274368-realm-of-ink.json) |
@@ -7898,6 +7900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk: Global Domination - Strongholds & Castles Map Pack | 226947 | [226947-risk-global-domination-strongholds-and-castles-map-pack.json](./226947-risk-global-domination-strongholds-and-castles-map-pack.json) |
 | Risk: Global Domination - Universal Domination Map Pack | 249300 | [249300-risk-global-domination-universal-domination-map-pack.json](./249300-risk-global-domination-universal-domination-map-pack.json) |
 | Risk: Global Domination - US City Map Pack | 164457 | [164457-risk-global-domination-us-city-map-pack.json](./164457-risk-global-domination-us-city-map-pack.json) |
+| RISK: Global Domination - Viking Legends Map Pack | 302031 | [302031-risk-global-domination-viking-legends-map-pack.json](./302031-risk-global-domination-viking-legends-map-pack.json) |
 | Risk: Global Domination - Zombie Pack | 226946 | [226946-risk-global-domination-zombie-pack.json](./226946-risk-global-domination-zombie-pack.json) |
 | Risk: Pogo Domination | 354995 | [354995-risk-pogo-domination.json](./354995-risk-pogo-domination.json) |
 | Risk: The Game of Global Domination | 146155 | [146155-risk-the-game-of-global-domination.json](./146155-risk-the-game-of-global-domination.json) |
