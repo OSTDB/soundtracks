@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Police: Weapons of Justice | 8306 | [8306-g-police-weapons-of-justice.json](./8306-g-police-weapons-of-justice.json) |
 | G-Saviour | 66587 | [66587-g-saviour.json](./66587-g-saviour.json) |
 | G-Scramble | 260753 | [260753-g-scramble.json](./260753-g-scramble.json) |
+| G-Sector | 306857 | [306857-g-sector.json](./306857-g-sector.json) |
 | G-Stream G2020 | 83425 | [83425-g-stream-g2020.json](./83425-g-stream-g2020.json) |
 | G-Surfers | 43624 | [43624-g-surfers.json](./43624-g-surfers.json) |
 | G-Switch 3 | 101770 | [101770-g-switch-3.json](./101770-g-switch-3.json) |
@@ -5957,6 +5958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods Remastered | 112099 | [112099-gods-remastered.json](./112099-gods-remastered.json) |
 | Gods Rush | 60823 | [60823-gods-rush.json](./60823-gods-rush.json) |
 | Gods Unchained | 109087 | [109087-gods-unchained.json](./109087-gods-unchained.json) |
+| Gods vs. Horrors | 306901 | [306901-gods-vs-horrors.json](./306901-gods-vs-horrors.json) |
 | Gods Wars Ex: Vampire | 194011 | [194011-gods-wars-ex-vampire.json](./194011-gods-wars-ex-vampire.json) |
 | Gods Wars: Infinity Epic | 267462 | [267462-gods-wars-infinity-epic.json](./267462-gods-wars-infinity-epic.json) |
 | Gods Will Be Watching: Special Edition | 51832 | [51832-gods-will-be-watching-special-edition.json](./51832-gods-will-be-watching-special-edition.json) |
