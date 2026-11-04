@@ -9712,6 +9712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples: Liberation - Paths to Madness | 194259 | [194259-disciples-liberation-paths-to-madness.json](./194259-disciples-liberation-paths-to-madness.json) |
 | Disciples: Sacred Lands Gold | 11405 | [11405-disciples-sacred-lands-gold.json](./11405-disciples-sacred-lands-gold.json) |
 | Discipline: Teikoku no Tanjou | 71884 | [71884-discipline-teikoku-no-tanjou.json](./71884-discipline-teikoku-no-tanjou.json) |
+| Disclosures | 338618 | [338618-disclosures.json](./338618-disclosures.json) |
 | Discman: The Legend of Danny Crask | 62928 | [62928-discman-the-legend-of-danny-crask.json](./62928-discman-the-legend-of-danny-crask.json) |
 | Discmaster | 147635 | [147635-discmaster.json](./147635-discmaster.json) |
 | Disco Ball | 149159 | [149159-disco-ball.json](./149159-disco-ball.json) |
