@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jailbirdman | 362356 | [362356-jailbirdman.json](./362356-jailbirdman.json) |
 | Jailbirds | 337052 | [337052-jailbirds.json](./337052-jailbirds.json) |
 | Jailbreak | 81986 | [81986-jailbreak.json](./81986-jailbreak.json) |
+| Jailbreak Assault | 328190 | [328190-jailbreak-assault.json](./328190-jailbreak-assault.json) |
 | Jailbreak Craft: Cops and Robbers | 100948 | [100948-jailbreak-craft-cops-and-robbers.json](./100948-jailbreak-craft-cops-and-robbers.json) |
 | Jailbreak Lockdown | 113328 | [113328-jailbreak-lockdown.json](./113328-jailbreak-lockdown.json) |
 | Jailbreak Russia | 104023 | [104023-jailbreak-russia.json](./104023-jailbreak-russia.json) |
@@ -3778,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just A Memory! | 168119 | [168119-just-a-memory.json](./168119-just-a-memory.json) |
 | Just a Phrase by Powgi | 140412 | [140412-just-a-phrase-by-powgi.json](./140412-just-a-phrase-by-powgi.json) |
 | Just a Regular Arcade | 235281 | [235281-just-a-regular-arcade.json](./235281-just-a-regular-arcade.json) |
+| Just A Shadow Game | 326918 | [326918-just-a-shadow-game.json](./326918-just-a-shadow-game.json) |
 | Just a Simple Turn-based RPG | 390180 | [390180-just-a-simple-turn-based-rpg.json](./390180-just-a-simple-turn-based-rpg.json) |
 | Just a Stupid Room | 415817 | [415817-just-a-stupid-room.json](./415817-just-a-stupid-room.json) |
 | Just A Walk In The Park | 253927 | [253927-just-a-walk-in-the-park.json](./253927-just-a-walk-in-the-park.json) |
