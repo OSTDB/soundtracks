@@ -6792,6 +6792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Thornkeep | 374073 | [374073-shadows-of-thornkeep.json](./374073-shadows-of-thornkeep.json) |
 | Shadows of War | 35998 | [35998-shadows-of-war.json](./35998-shadows-of-war.json) |
 | Shadows of War 2 | 391171 | [391171-shadows-of-war-2.json](./391171-shadows-of-war-2.json) |
+| Shadows Of Wyrmwood | 328134 | [328134-shadows-of-wyrmwood.json](./328134-shadows-of-wyrmwood.json) |
 | Shadows of Zana | 259700 | [259700-shadows-of-zana.json](./259700-shadows-of-zana.json) |
 | Shadows on the Vatican Act 2: Wrath | 180111 | [180111-shadows-on-the-vatican-act-2-wrath.json](./180111-shadows-on-the-vatican-act-2-wrath.json) |
 | Shadows on the Vatican Act I: Greed | 36370 | [36370-shadows-on-the-vatican-act-i-greed.json](./36370-shadows-on-the-vatican-act-i-greed.json) |
@@ -15163,6 +15164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Many Me: Extended Edition | 147149 | [147149-so-many-me-extended-edition.json](./147149-so-many-me-extended-edition.json) |
 | So Many Spiders | 182136 | [182136-so-many-spiders.json](./182136-so-many-spiders.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
+| So Many Zombies | 328119 | [328119-so-many-zombies.json](./328119-so-many-zombies.json) |
 | So May It Be: A Witch Dating Simulator | 132433 | [132433-so-may-it-be-a-witch-dating-simulator.json](./132433-so-may-it-be-a-witch-dating-simulator.json) |
 | So Much Blood | 32579 | [32579-so-much-blood.json](./32579-so-much-blood.json) |
 | So Much Stuff 2 | 245814 | [245814-so-much-stuff-2.json](./245814-so-much-stuff-2.json) |
