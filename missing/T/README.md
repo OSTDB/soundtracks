@@ -31192,7 +31192,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Hyper Drive | 372764 | [372764-turbo-hyper-drive.json](./372764-turbo-hyper-drive.json) |
 | Turbo Island Purger | 182650 | [182650-turbo-island-purger.json](./182650-turbo-island-purger.json) |
 | Turbo Kart Racer | 416554 | [416554-turbo-kart-racer.json](./416554-turbo-kart-racer.json) |
-| Turbo Kid | 212164 | [212164-turbo-kid.json](./212164-turbo-kid.json) |
 | Turbo Kids | 240348 | [240348-turbo-kids.json](./240348-turbo-kids.json) |
 | Turbo League | 174522 | [174522-turbo-league.json](./174522-turbo-league.json) |
 | Turbo Leaper | 266204 | [266204-turbo-leaper.json](./266204-turbo-leaper.json) |
