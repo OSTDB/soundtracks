@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faircroft's Antiques: The Mountaineer's Legacy - Collector's Edition | 212359 | [212359-faircrofts-antiques-the-mountaineers-legacy-collectors-edition.json](./212359-faircrofts-antiques-the-mountaineers-legacy-collectors-edition.json) |
 | Faircroft's Antiques: Treasures of Treffenburg | 170874 | [170874-faircrofts-antiques-treasures-of-treffenburg.json](./170874-faircrofts-antiques-treasures-of-treffenburg.json) |
 | Faircroft's Antiques: Treasures of Treffenburg Collector's Edition | 147753 | [147753-faircrofts-antiques-treasures-of-treffenburg-collectors-edition.json](./147753-faircrofts-antiques-treasures-of-treffenburg-collectors-edition.json) |
+| Faire ar Éin | 335023 | [335023-faire-ar-ein.json](./335023-faire-ar-ein.json) |
 | Faire Hollow | 295823 | [295823-faire-hollow.json](./295823-faire-hollow.json) |
 | Faire Trade | 336519 | [336519-faire-trade.json](./336519-faire-trade.json) |
 | Fairealm | 340050 | [340050-fairealm.json](./340050-fairealm.json) |
@@ -11828,6 +11829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 341890 | [341890-frogger.json](./341890-frogger.json) |
 | Frogger | 6795 | [6795-frogger.json](./6795-frogger.json) |
 | Frogger 2 | 111559 | [111559-frogger-2.json](./111559-frogger-2.json) |
+| Frogger 2 Remake | 335157 | [335157-frogger-2-remake.json](./335157-frogger-2-remake.json) |
 | Frogger 2: Swampy's Revenge | 11466 | [11466-frogger-2-swampys-revenge.json](./11466-frogger-2-swampys-revenge.json) |
 | Frogger 3D | 6772 | [6772-frogger-3d.json](./6772-frogger-3d.json) |
 | Frogger 64 | 40917 | [40917-frogger-64.json](./40917-frogger-64.json) |
