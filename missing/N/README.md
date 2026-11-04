@@ -6997,10 +6997,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NPC Ville: The Story of the Blacksmith | 263031 | [263031-npc-ville-the-story-of-the-blacksmith.json](./263031-npc-ville-the-story-of-the-blacksmith.json) |
 | NPCs | 113054 | [113054-npcs.json](./113054-npcs.json) |
 | Npool: Complete + | 328826 | [328826-npool-complete.json](./328826-npool-complete.json) |
+| Npool: Deluxe Edition | 328770 | [328770-npool-deluxe-edition.json](./328770-npool-deluxe-edition.json) |
+| Npool: Extended Edition | 328771 | [328771-npool-extended-edition.json](./328771-npool-extended-edition.json) |
 | Npool: Skins Pack 1 | 316250 | [316250-npool-skins-pack-1.json](./316250-npool-skins-pack-1.json) |
 | Npool: Skins Pack 2 | 316249 | [316249-npool-skins-pack-2.json](./316249-npool-skins-pack-2.json) |
 | Npool: Skins Pack 3 | 316248 | [316248-npool-skins-pack-3.json](./316248-npool-skins-pack-3.json) |
 | NPool: Snooker Mode | 314891 | [314891-npool-snooker-mode.json](./314891-npool-snooker-mode.json) |
+| Npool: Ultimate Edition | 328772 | [328772-npool-ultimate-edition.json](./328772-npool-ultimate-edition.json) |
 | Npower Test Series | 263467 | [263467-npower-test-series.json](./263467-npower-test-series.json) |
 | NPOZ The Game | 260746 | [260746-npoz-the-game.json](./260746-npoz-the-game.json) |
 | NPPL Championship Paintball 2009 | 5079 | [5079-nppl-championship-paintball-2009.json](./5079-nppl-championship-paintball-2009.json) |
