@@ -15736,6 +15736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: R.E.B.O.O.T | 30758 | [30758-project-r-e-b-o-o-t.json](./30758-project-r-e-b-o-o-t.json) |
 | Project: R.E.B.O.O.T 2 | 29868 | [29868-project-r-e-b-o-o-t-2.json](./29868-project-r-e-b-o-o-t-2.json) |
 | Project: Ragnarok | 137284 | [137284-project-ragnarok.json](./137284-project-ragnarok.json) |
+| Project: Renzu | 335577 | [335577-project-renzu.json](./335577-project-renzu.json) |
 | Project: Rizz | 386077 | [386077-project-rizz.json](./386077-project-rizz.json) |
 | Project: Run | 393466 | [393466-project-run.json](./393466-project-run.json) |
 | Project: Shiba | 257228 | [257228-project-shiba.json](./257228-project-shiba.json) |
