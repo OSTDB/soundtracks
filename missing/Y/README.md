@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yandere Institute Dating Simulator | 296311 | [296311-yandere-institute-dating-simulator.json](./296311-yandere-institute-dating-simulator.json) |
 | Yandere Lover | 82076 | [82076-yandere-lover.json](./82076-yandere-lover.json) |
 | Yandere Maid: Love-Crazed Maid | 374870 | [374870-yandere-maid-love-crazed-maid.json](./374870-yandere-maid-love-crazed-maid.json) |
+| Yandere Minesweeper | 316864 | [316864-yandere-minesweeper.json](./316864-yandere-minesweeper.json) |
 | Yandere na Onee-chan ni Aishitsukusareru Kankin Seikatsu | 97470 | [97470-yandere-na-onee-chan-ni-aishitsukusareru-kankin-seikatsu.json](./97470-yandere-na-onee-chan-ni-aishitsukusareru-kankin-seikatsu.json) |
 | Yandere no Sutoka | 285048 | [285048-yandere-no-sutoka.json](./285048-yandere-no-sutoka.json) |
 | Yandere Okami vs. Bouryoku Akazukin | 335974 | [335974-yandere-okami-vs-bouryoku-akazukin.json](./335974-yandere-okami-vs-bouryoku-akazukin.json) |
@@ -901,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yorisoi Delivery | 308924 | [308924-yorisoi-delivery.json](./308924-yorisoi-delivery.json) |
 | Yorkshire's Great Race | 237962 | [237962-yorkshires-great-race.json](./237962-yorkshires-great-race.json) |
 | Yoru ga Kuru!: Square of the Moon - Remastered | 298383 | [298383-yoru-ga-kuru-square-of-the-moon-remastered.json](./298383-yoru-ga-kuru-square-of-the-moon-remastered.json) |
+| Yoru no Kasou | 316528 | [316528-yoru-no-kasou.json](./316528-yoru-no-kasou.json) |
 | Yoru no Majin to Ikusa no Kuni: Samayoeru Vampire | 222335 | [222335-yoru-no-majin-to-ikusa-no-kuni-samayoeru-vampire.json](./222335-yoru-no-majin-to-ikusa-no-kuni-samayoeru-vampire.json) |
 | Yoru no Nai Kuni 2: Shingetsu no Hanayome - Premium Box | 166970 | [166970-yoru-no-nai-kuni-2-shingetsu-no-hanayome-premium-box.json](./166970-yoru-no-nai-kuni-2-shingetsu-no-hanayome-premium-box.json) |
 | Yoru no Rojiura Annai | 327921 | [327921-yoru-no-rojiura-annai.json](./327921-yoru-no-rojiura-annai.json) |
