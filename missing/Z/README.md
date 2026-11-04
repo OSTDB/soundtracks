@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zanac | 41319 | [41319-zanac.json](./41319-zanac.json) |
 | Zanac X Zanac | 46083 | [46083-zanac-x-zanac.json](./46083-zanac-x-zanac.json) |
 | Zanac-Ex | 41773 | [41773-zanac-ex.json](./41773-zanac-ex.json) |
+| Zanda Bakumatsu Shinsengumi | 331079 | [331079-zanda-bakumatsu-shinsengumi.json](./331079-zanda-bakumatsu-shinsengumi.json) |
 | Zandronum | 229496 | [229496-zandronum.json](./229496-zandronum.json) |
 | Zane | 233734 | [233734-zane.json](./233734-zane.json) |
 | Zanerdin: The Unbound | 391286 | [391286-zanerdin-the-unbound.json](./391286-zanerdin-the-unbound.json) |
