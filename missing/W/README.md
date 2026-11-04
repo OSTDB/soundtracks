@@ -7338,6 +7338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Twist! | 241197 | [241197-word-twist.json](./241197-word-twist.json) |
 | Word U | 104600 | [104600-word-u.json](./104600-word-u.json) |
 | Word Up | 206484 | [206484-word-up.json](./206484-word-up.json) |
+| Word Vomit | 342509 | [342509-word-vomit.json](./342509-word-vomit.json) |
 | Word Vs Picture | 232478 | [232478-word-vs-picture.json](./232478-word-vs-picture.json) |
 | Word Waddle | 97196 | [97196-word-waddle.json](./97196-word-waddle.json) |
 | Word Waffle - Word Swipe Game | 107048 | [107048-word-waffle-word-swipe-game.json](./107048-word-waffle-word-swipe-game.json) |
