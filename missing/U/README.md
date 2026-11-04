@@ -3028,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UpBreakers | 107726 | [107726-upbreakers.json](./107726-upbreakers.json) |
 | Upcreek | 395156 | [395156-upcreek.json](./395156-upcreek.json) |
 | Updive | 150273 | [150273-updive.json](./150273-updive.json) |
+| Upducted | 315982 | [315982-upducted.json](./315982-upducted.json) |
 | Upekkha | 313984 | [313984-upekkha.json](./313984-upekkha.json) |
 | Upg | 323614 | [323614-upg.json](./323614-upg.json) |
 | UPG: Underground | 416384 | [416384-upg-underground.json](./416384-upg-underground.json) |
