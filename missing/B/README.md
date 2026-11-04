@@ -2111,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bank-A-Ball | 84323 | [84323-bank-a-ball.json](./84323-bank-a-ball.json) |
 | BankBank | 98057 | [98057-bankbank.json](./98057-bankbank.json) |
 | Banker HD | 213789 | [213789-banker-hd.json](./213789-banker-hd.json) |
+| Banker Simulator | 333328 | [333328-banker-simulator.json](./333328-banker-simulator.json) |
 | Bankfeest | 359689 | [359689-bankfeest.json](./359689-bankfeest.json) |
 | Banking Dream | 84776 | [84776-banking-dream.json](./84776-banking-dream.json) |
 | BankingSim | 359690 | [359690-bankingsim.json](./359690-bankingsim.json) |
@@ -6373,6 +6374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bermuda Farm | 214304 | [214304-bermuda-farm.json](./214304-bermuda-farm.json) |
 | Bermuda Project | 11953 | [11953-bermuda-project.json](./11953-bermuda-project.json) |
 | Bermuda Rectangle | 415239 | [415239-bermuda-rectangle.json](./415239-bermuda-rectangle.json) |
+| Bermuda Survivor | 333278 | [333278-bermuda-survivor.json](./333278-bermuda-survivor.json) |
 | Bermuda Syndrome | 8337 | [8337-bermuda-syndrome.json](./8337-bermuda-syndrome.json) |
 | Bermuda Triangle | 22557 | [22557-bermuda-triangle.json](./22557-bermuda-triangle.json) |
 | Bermuda Triangle: Saving the Coral | 67391 | [67391-bermuda-triangle-saving-the-coral.json](./67391-bermuda-triangle-saving-the-coral.json) |
@@ -9716,6 +9718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blessed Ones: The Magic Wolves | 33960 | [33960-blessed-ones-the-magic-wolves.json](./33960-blessed-ones-the-magic-wolves.json) |
 | Blessed Redux | 382201 | [382201-blessed-redux.json](./382201-blessed-redux.json) |
 | Blessed Surface | 76357 | [76357-blessed-surface.json](./76357-blessed-surface.json) |
+| Blessed with Death | 333298 | [333298-blessed-with-death.json](./333298-blessed-with-death.json) |
 | Blessed Work | 219210 | [219210-blessed-work.json](./219210-blessed-work.json) |
 | Blessing in the Darkness | 333059 | [333059-blessing-in-the-darkness.json](./333059-blessing-in-the-darkness.json) |
 | Blessing of Mokosh | 176749 | [176749-blessing-of-mokosh.json](./176749-blessing-of-mokosh.json) |
@@ -14537,6 +14540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Point | 94456 | [94456-break-point.json](./94456-break-point.json) |
 | Break Point: Brace & Breach | 405567 | [405567-break-point-brace-and-breach.json](./405567-break-point-brace-and-breach.json) |
 | Break Protocol | 384490 | [384490-break-protocol.json](./384490-break-protocol.json) |
+| Break Siege | 333321 | [333321-break-siege.json](./333321-break-siege.json) |
 | Break Sky | 168717 | [168717-break-sky.json](./168717-break-sky.json) |
 | Break Space: Out of Bounds | 158694 | [158694-break-space-out-of-bounds.json](./158694-break-space-out-of-bounds.json) |
 | Break Street | 25783 | [25783-break-street.json](./25783-break-street.json) |
