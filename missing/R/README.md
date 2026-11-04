@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit's All-Comers Mapping Project 2022 | 260962 | [260962-rabbits-all-comers-mapping-project-2022.json](./260962-rabbits-all-comers-mapping-project-2022.json) |
 | Rabbit's All-Comers Mapping Project 2023 | 260963 | [260963-rabbits-all-comers-mapping-project-2023.json](./260963-rabbits-all-comers-mapping-project-2023.json) |
 | Rabbit's All-corners Mapping Project 2024 | 378497 | [378497-rabbits-all-corners-mapping-project-2024.json](./378497-rabbits-all-corners-mapping-project-2024.json) |
+| Rabbit's Chronicle | 309304 | [309304-rabbits-chronicle.json](./309304-rabbits-chronicle.json) |
 | Rabbit's Fall | 265524 | [265524-rabbits-fall.json](./265524-rabbits-fall.json) |
 | Rabbit's Hop | 373330 | [373330-rabbits-hop.json](./373330-rabbits-hop.json) |
 | Rabbit's Quest | 142342 | [142342-rabbits-quest.json](./142342-rabbits-quest.json) |
