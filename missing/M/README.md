@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Cat | 89412 | [89412-magic-cat.json](./89412-magic-cat.json) |
 | Magic Cat Academy | 165413 | [165413-magic-cat-academy.json](./165413-magic-cat-academy.json) |
 | Magic Cat Academy 2 | 165414 | [165414-magic-cat-academy-2.json](./165414-magic-cat-academy-2.json) |
+| Magic Cat Academy 3 | 321095 | [321095-magic-cat-academy-3.json](./321095-magic-cat-academy-3.json) |
 | Magic Cats Pots | 319779 | [319779-magic-cats-pots.json](./319779-magic-cats-pots.json) |
 | Magic Cauldron: Dungeons | 289310 | [289310-magic-cauldron-dungeons.json](./289310-magic-cauldron-dungeons.json) |
 | Magic Chaos | 206383 | [206383-magic-chaos.json](./206383-magic-chaos.json) |
@@ -5714,6 +5715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -12820,6 +12822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MinSweeper | 84137 | [84137-minsweeper.json](./84137-minsweeper.json) |
 | Mint Christmas | 273781 | [273781-mint-christmas.json](./273781-mint-christmas.json) |
 | Mint Dodgers | 320165 | [320165-mint-dodgers.json](./320165-mint-dodgers.json) |
+| Mint Fantome's Freak or Treat | 321270 | [321270-mint-fantomes-freak-or-treat.json](./321270-mint-fantomes-freak-or-treat.json) |
 | Mint Muse Sound Flare | 168126 | [168126-mint-muse-sound-flare.json](./168126-mint-muse-sound-flare.json) |
 | Mint Works | 159818 | [159818-mint-works.json](./159818-mint-works.json) |
 | Mint's Hints 3 | 328008 | [328008-mints-hints-3.json](./328008-mints-hints-3.json) |
@@ -14282,6 +14285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moi Mei 2 | 159485 | [159485-moi-mei-2.json](./159485-moi-mei-2.json) |
 | Moi Mei: Hidden Objects | 199655 | [199655-moi-mei-hidden-objects.json](./199655-moi-mei-hidden-objects.json) |
 | Moi Moi Heroes | 275125 | [275125-moi-moi-heroes.json](./275125-moi-moi-heroes.json) |
+| Moida Mansion | 321256 | [321256-moida-mansion.json](./321256-moida-mansion.json) |
 | Moira | 182523 | [182523-moira.json](./182523-moira.json) |
 | Möira | 18289 | [18289-moira.json](./18289-moira.json) |
 | Moira: Fated Twins | 121459 | [121459-moira-fated-twins.json](./121459-moira-fated-twins.json) |
