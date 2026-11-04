@@ -5617,6 +5617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Fate: Deluxe Edition | 284936 | [284936-hero-of-fate-deluxe-edition.json](./284936-hero-of-fate-deluxe-edition.json) |
 | Hero of Fate: Western Chronicles | 274655 | [274655-hero-of-fate-western-chronicles.json](./274655-hero-of-fate-western-chronicles.json) |
 | Hero of Giants: Dinosaurs Strike VR | 367540 | [367540-hero-of-giants-dinosaurs-strike-vr.json](./367540-hero-of-giants-dinosaurs-strike-vr.json) |
+| Hero of Hoofbeat Hollow | 347458 | [347458-hero-of-hoofbeat-hollow.json](./347458-hero-of-hoofbeat-hollow.json) |
 | Hero of Ideal | 393948 | [393948-hero-of-ideal.json](./393948-hero-of-ideal.json) |
 | Hero of Law | 351679 | [351679-hero-of-law.json](./351679-hero-of-law.json) |
 | Hero of Luxuria | 259105 | [259105-hero-of-luxuria.json](./259105-hero-of-luxuria.json) |
@@ -8605,6 +8606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hologram Heroes | 137812 | [137812-hologram-heroes.json](./137812-hologram-heroes.json) |
 | Hologram Time Traveler | 8936 | [8936-hologram-time-traveler.json](./8936-hologram-time-traveler.json) |
 | HoloGrid: Monster Battle | 56377 | [56377-hologrid-monster-battle.json](./56377-hologrid-monster-battle.json) |
+| Holoidle | 347575 | [347575-holoidle.json](./347575-holoidle.json) |
 | Hololive All-Stars Battle Tiles | 379575 | [379575-hololive-all-stars-battle-tiles.json](./379575-hololive-all-stars-battle-tiles.json) |
 | Hololive CouncilRyS RPG | 245681 | [245681-hololive-councilrys-rpg.json](./245681-hololive-councilrys-rpg.json) |
 | Hololive Dreams | 384205 | [384205-hololive-dreams.json](./384205-hololive-dreams.json) |
@@ -9339,6 +9341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop Step Sing! Nozokanaide Naked Heart | 109344 | [109344-hop-step-sing-nozokanaide-naked-heart.json](./109344-hop-step-sing-nozokanaide-naked-heart.json) |
 | Hop Step Sing! Summer Live 2023 | 340483 | [340483-hop-step-sing-summer-live-2023.json](./340483-hop-step-sing-summer-live-2023.json) |
 | Hop Swap | 233595 | [233595-hop-swap.json](./233595-hop-swap.json) |
+| Hop to It! | 347576 | [347576-hop-to-it.json](./347576-hop-to-it.json) |
 | Hop Top | 289472 | [289472-hop-top.json](./289472-hop-top.json) |
 | Hop Up | 323308 | [323308-hop-up.json](./323308-hop-up.json) |
 | Hop-Co-Op | 410944 | [410944-hop-co-op.json](./410944-hop-co-op.json) |
