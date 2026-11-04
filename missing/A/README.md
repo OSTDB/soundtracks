@@ -6225,6 +6225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algae | 106601 | [106601-algae.json](./106601-algae.json) |
 | Alganon | 35736 | [35736-alganon.json](./35736-alganon.json) |
 | Algar | 93941 | [93941-algar.json](./93941-algar.json) |
+| Algarna | 332198 | [332198-algarna.json](./332198-algarna.json) |
 | Algator Speedrun | 412887 | [412887-algator-speedrun.json](./412887-algator-speedrun.json) |
 | Algatraz | 358857 | [358857-algatraz.json](./358857-algatraz.json) |
 | Alge-Blaster 3 | 10673 | [10673-alge-blaster-3.json](./10673-alge-blaster-3.json) |
@@ -6777,6 +6778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Love Beefs | 132529 | [132529-aliens-love-beefs.json](./132529-aliens-love-beefs.json) |
 | Aliens Must Die | 395869 | [395869-aliens-must-die.json](./395869-aliens-must-die.json) |
 | Aliens Need Redhead | 183322 | [183322-aliens-need-redhead.json](./183322-aliens-need-redhead.json) |
+| Aliens Revenge | 332170 | [332170-aliens-revenge.json](./332170-aliens-revenge.json) |
 | Aliens RPG | 84303 | [84303-aliens-rpg.json](./84303-aliens-rpg.json) |
 | Aliens Tower Defense | 248037 | [248037-aliens-tower-defense.json](./248037-aliens-tower-defense.json) |
 | Aliens versus Humans: Missions | 235153 | [235153-aliens-versus-humans-missions.json](./235153-aliens-versus-humans-missions.json) |
@@ -9822,6 +9824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Dance-Off: Ghost Party | 319781 | [319781-anime-dance-off-ghost-party.json](./319781-anime-dance-off-ghost-party.json) |
 | Anime Dance-Off: Las Vegas | 343728 | [343728-anime-dance-off-las-vegas.json](./343728-anime-dance-off-las-vegas.json) |
 | Anime Dance-Off: Party Total | 310456 | [310456-anime-dance-off-party-total.json](./310456-anime-dance-off-party-total.json) |
+| Anime Dance-Off: Space Party | 332322 | [332322-anime-dance-off-space-party.json](./332322-anime-dance-off-space-party.json) |
 | Anime Designer: Dragon Ball Z | 61024 | [61024-anime-designer-dragon-ball-z.json](./61024-anime-designer-dragon-ball-z.json) |
 | Anime Dream Girl | 178811 | [178811-anime-dream-girl.json](./178811-anime-dream-girl.json) |
 | Anime Dream Match: Boys | 343237 | [343237-anime-dream-match-boys.json](./343237-anime-dream-match-boys.json) |
@@ -9875,6 +9878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls Mirror Quest 2 | 337952 | [337952-anime-girls-mirror-quest-2.json](./337952-anime-girls-mirror-quest-2.json) |
 | Anime Girls Trample | 379535 | [379535-anime-girls-trample.json](./379535-anime-girls-trample.json) |
 | Anime Girls vs. Soldiers | 191043 | [191043-anime-girls-vs-soldiers.json](./191043-anime-girls-vs-soldiers.json) |
+| Anime Girls: Awesome Adventurer | 332323 | [332323-anime-girls-awesome-adventurer.json](./332323-anime-girls-awesome-adventurer.json) |
 | Anime Girls: Beautiful Bride | 317881 | [317881-anime-girls-beautiful-bride.json](./317881-anime-girls-beautiful-bride.json) |
 | Anime Girls: Bouncy Basketball | 342214 | [342214-anime-girls-bouncy-basketball.json](./342214-anime-girls-bouncy-basketball.json) |
 | Anime Girls: Celebrity Crush | 368759 | [368759-anime-girls-celebrity-crush.json](./368759-anime-girls-celebrity-crush.json) |
@@ -12657,6 +12661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Architectural Adventure | 106464 | [106464-architectural-adventure.json](./106464-architectural-adventure.json) |
 | Architecture Zeitgeist | 249770 | [249770-architecture-zeitgeist.json](./249770-architecture-zeitgeist.json) |
 | Architectus | 160270 | [160270-architectus.json](./160270-architectus.json) |
+| Architekt | 332180 | [332180-architekt.json](./332180-architekt.json) |
 | Archive 1985 | 276249 | [276249-archive-1985.json](./276249-archive-1985.json) |
 | Archive Fever | 369449 | [369449-archive-fever.json](./369449-archive-fever.json) |
 | Archive: Zero | 367102 | [367102-archive-zero.json](./367102-archive-zero.json) |
@@ -13678,6 +13683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the World | 51092 | [51092-around-the-world.json](./51092-around-the-world.json) |
 | Around The World | 348936 | [348936-around-the-world.json](./348936-around-the-world.json) |
 | Around the World 2 with the Johnson Family | 357421 | [357421-around-the-world-2-with-the-johnson-family.json](./357421-around-the-world-2-with-the-johnson-family.json) |
+| Around the World 2: Travel to Canada - Collector's Edition | 332324 | [332324-around-the-world-2-travel-to-canada-collectors-edition.json](./332324-around-the-world-2-travel-to-canada-collectors-edition.json) |
 | Around the World 3: Amazing Countries | 338046 | [338046-around-the-world-3-amazing-countries.json](./338046-around-the-world-3-amazing-countries.json) |
 | Around the World 3: Amazing Countries - Collector's Edition | 345673 | [345673-around-the-world-3-amazing-countries-collectors-edition.json](./345673-around-the-world-3-amazing-countries-collectors-edition.json) |
 | Around the World 4: Family Tour - Collector's Edition | 386208 | [386208-around-the-world-4-family-tour-collectors-edition.json](./386208-around-the-world-4-family-tour-collectors-edition.json) |
@@ -13849,6 +13855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Fighting 2 | 6556 | [6556-art-of-fighting-2.json](./6556-art-of-fighting-2.json) |
 | Art of Fighting Anthology | 21530 | [21530-art-of-fighting-anthology.json](./21530-art-of-fighting-anthology.json) |
 | Art of Fighting: Trouble in South Town | 230256 | [230256-art-of-fighting-trouble-in-south-town.json](./230256-art-of-fighting-trouble-in-south-town.json) |
+| Art of Glide 3 | 332325 | [332325-art-of-glide-3.json](./332325-art-of-glide-3.json) |
 | Art of Glide II | 306530 | [306530-art-of-glide-ii.json](./306530-art-of-glide-ii.json) |
 | Art of Golf | 259045 | [259045-art-of-golf.json](./259045-art-of-golf.json) |
 | Art of Guile | 26721 | [26721-art-of-guile.json](./26721-art-of-guile.json) |
@@ -15990,7 +15997,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
