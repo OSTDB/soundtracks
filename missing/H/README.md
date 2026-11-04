@@ -11022,6 +11022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huetopia | 57756 | [57756-huetopia.json](./57756-huetopia.json) |
 | Hufu Riding and Shooting | 253430 | [253430-hufu-riding-and-shooting.json](./253430-hufu-riding-and-shooting.json) |
 | Hug & Betray | 416851 | [416851-hug-and-betray.json](./416851-hug-and-betray.json) |
+| Hug Arena | 334444 | [334444-hug-arena.json](./334444-hug-arena.json) |
 | Hug Factory | 403440 | [403440-hug-factory.json](./403440-hug-factory.json) |
 | Hug Me, Senpai! | 368519 | [368519-hug-me-senpai.json](./368519-hug-me-senpai.json) |
 | Hug Your Mama | 397020 | [397020-hug-your-mama.json](./397020-hug-your-mama.json) |
