@@ -2497,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scallywag: In the Lair of the Medusa | 50459 | [50459-scallywag-in-the-lair-of-the-medusa.json](./50459-scallywag-in-the-lair-of-the-medusa.json) |
 | Scallywags | 404605 | [404605-scallywags.json](./404605-scallywags.json) |
 | Scallywags | 73081 | [73081-scallywags.json](./73081-scallywags.json) |
+| Scalpel, Please! | 342516 | [342516-scalpel-please.json](./342516-scalpel-please.json) |
 | Scalpers' Spoils | 422126 | [422126-scalpers-spoils.json](./422126-scalpers-spoils.json) |
 | Scam Artist | 413774 | [413774-scam-artist.json](./413774-scam-artist.json) |
 | Scam Line | 379595 | [379595-scam-line.json](./379595-scam-line.json) |
@@ -18144,6 +18145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soup: The Game | 58899 | [58899-soup-the-game.json](./58899-soup-the-game.json) |
 | Soup: The Vibe Explorer | 406710 | [406710-soup-the-vibe-explorer.json](./406710-soup-the-vibe-explorer.json) |
 | Soup! | 161612 | [161612-soup.json](./161612-soup.json) |
+| Soupcosis | 342510 | [342510-soupcosis.json](./342510-soupcosis.json) |
 | Souper Bloody | 397651 | [397651-souper-bloody.json](./397651-souper-bloody.json) |
 | Souper Man | 137965 | [137965-souper-man.json](./137965-souper-man.json) |
 | Soups Christmas | 310606 | [310606-soups-christmas.json](./310606-soups-christmas.json) |
