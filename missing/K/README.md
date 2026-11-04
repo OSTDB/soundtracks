@@ -2329,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiiroi Hana | 158615 | [158615-kiiroi-hana.json](./158615-kiiroi-hana.json) |
 | Kiitsu | 96734 | [96734-kiitsu.json](./96734-kiitsu.json) |
 | Kijin-mura no Kiken na Inshuu: Dangerous Village Tradition | 270782 | [270782-kijin-mura-no-kiken-na-inshuu-dangerous-village-tradition.json](./270782-kijin-mura-no-kiken-na-inshuu-dangerous-village-tradition.json) |
+| Kijutsu Rider | 331639 | [331639-kijutsu-rider.json](./331639-kijutsu-rider.json) |
 | Kikai | 366180 | [366180-kikai.json](./366180-kikai.json) |
 | Kikai Shushi: MachinE SeeD | 366021 | [366021-kikai-shushi-machine-seed.json](./366021-kikai-shushi-machine-seed.json) |
 | Kikai: The Silent Cat | 261221 | [261221-kikai-the-silent-cat.json](./261221-kikai-the-silent-cat.json) |
@@ -3934,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitsune Kitchen | 102376 | [102376-kitsune-kitchen.json](./102376-kitsune-kitchen.json) |
 | Kitsune no Tabiji | 126627 | [126627-kitsune-no-tabiji.json](./126627-kitsune-no-tabiji.json) |
 | Kitsune: The Journey of Adashino | 217024 | [217024-kitsune-the-journey-of-adashino.json](./217024-kitsune-the-journey-of-adashino.json) |
+| Kitsune's Paths | 331641 | [331641-kitsunes-paths.json](./331641-kitsunes-paths.json) |
 | Kitsuni | 178835 | [178835-kitsuni.json](./178835-kitsuni.json) |
 | Kitt.Io | 168650 | [168650-kitt-io.json](./168650-kitt-io.json) |
 | Kitt's Quest | 291878 | [291878-kitts-quest.json](./291878-kitts-quest.json) |
@@ -4404,6 +4406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightfall: A Daring Journey | 195019 | [195019-knightfall-a-daring-journey.json](./195019-knightfall-a-daring-journey.json) |
 | Knightfall: Rivals | 29595 | [29595-knightfall-rivals.json](./29595-knightfall-rivals.json) |
 | Knighthood | 130678 | [130678-knighthood.json](./130678-knighthood.json) |
+| Knightica | 331608 | [331608-knightica.json](./331608-knightica.json) |
 | Knightin'+ | 120481 | [120481-knightin.json](./120481-knightin.json) |
 | Knightlife | 190427 | [190427-knightlife.json](./190427-knightlife.json) |
 | KnightLight | 312999 | [312999-knightlight.json](./312999-knightlight.json) |
