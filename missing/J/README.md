@@ -1117,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jerma Rancher | 329939 | [329939-jerma-rancher.json](./329939-jerma-rancher.json) |
 | Jerma's Big Adventure | 165471 | [165471-jermas-big-adventure.json](./165471-jermas-big-adventure.json) |
 | JermaSlots | 138008 | [138008-jermaslots.json](./138008-jermaslots.json) |
+| Jermle | 321909 | [321909-jermle.json](./321909-jermle.json) |
 | Jerod Kart 64 | 300263 | [300263-jerod-kart-64.json](./300263-jerod-kart-64.json) |
 | Jerry and the Mystery Loot Box | 83564 | [83564-jerry-and-the-mystery-loot-box.json](./83564-jerry-and-the-mystery-loot-box.json) |
 | Jerry Anker and the Quest to get Love | 324195 | [324195-jerry-anker-and-the-quest-to-get-love.json](./324195-jerry-anker-and-the-quest-to-get-love.json) |
