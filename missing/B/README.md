@@ -2381,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barca B.C. | 92648 | [92648-barca-b-c.json](./92648-barca-b-c.json) |
 | Barca Total 2000 | 92608 | [92608-barca-total-2000.json](./92608-barca-total-2000.json) |
 | Barcelona Fighter 92' | 98261 | [98261-barcelona-fighter-92.json](./98261-barcelona-fighter-92.json) |
+| Barcha | 336291 | [336291-barcha.json](./336291-barcha.json) |
 | Barclay: The Marrowdale Murder | 29219 | [29219-barclay-the-marrowdale-murder.json](./29219-barclay-the-marrowdale-murder.json) |
 | Barcode Battler | 308060 | [308060-barcode-battler.json](./308060-barcode-battler.json) |
 | Barcode Battler | 308062 | [308062-barcode-battler.json](./308062-barcode-battler.json) |
@@ -17085,6 +17086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burglar's Bazaar | 275516 | [275516-burglars-bazaar.json](./275516-burglars-bazaar.json) |
 | Burgle Bros | 75825 | [75825-burgle-bros.json](./75825-burgle-bros.json) |
 | Burgle Supply Company | 372804 | [372804-burgle-supply-company.json](./372804-burgle-supply-company.json) |
+| Burgleville | 336299 | [336299-burgleville.json](./336299-burgleville.json) |
 | Burial Ground | 268602 | [268602-burial-ground.json](./268602-burial-ground.json) |
 | Burial Ground | 375554 | [375554-burial-ground.json](./375554-burial-ground.json) |
 | Burial of Shortcake | 348131 | [348131-burial-of-shortcake.json](./348131-burial-of-shortcake.json) |
@@ -17624,6 +17626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buttons Up! 2 | 405568 | [405568-buttons-up-2.json](./405568-buttons-up-2.json) |
 | Butts: The VR Experience | 33602 | [33602-butts-the-vr-experience.json](./33602-butts-the-vr-experience.json) |
 | Buttsubushi | 43800 | [43800-buttsubushi.json](./43800-buttsubushi.json) |
+| Butty Buttbear's Big Butty Blast | 336315 | [336315-butty-buttbears-big-butty-blast.json](./336315-butty-buttbears-big-butty-blast.json) |
 | Buubuu Mario | 131953 | [131953-buubuu-mario.json](./131953-buubuu-mario.json) |
 | Buy a Croquette! | 360750 | [360750-buy-a-croquette.json](./360750-buy-a-croquette.json) |
 | Buy Hyacinths | 214008 | [214008-buy-hyacinths.json](./214008-buy-hyacinths.json) |
