@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Truck: 18 Wheels of Steel | 50455 | [50455-hard-truck-18-wheels-of-steel.json](./50455-hard-truck-18-wheels-of-steel.json) |
 | Hard Truck: Road to Victory | 28143 | [28143-hard-truck-road-to-victory.json](./28143-hard-truck-road-to-victory.json) |
 | Hard Vacuum | 132627 | [132627-hard-vacuum.json](./132627-hard-vacuum.json) |
+| Hard Void | 302886 | [302886-hard-void.json](./302886-hard-void.json) |
 | Hard West: Collector's Edition | 51822 | [51822-hard-west-collectors-edition.json](./51822-hard-west-collectors-edition.json) |
 | Hard West: Complete Edition | 53173 | [53173-hard-west-complete-edition.json](./53173-hard-west-complete-edition.json) |
 | Hard West: Scars of Freedom | 18367 | [18367-hard-west-scars-of-freedom.json](./18367-hard-west-scars-of-freedom.json) |
@@ -9150,6 +9151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honeycomb: The World Beyond | 152058 | [152058-honeycomb-the-world-beyond.json](./152058-honeycomb-the-world-beyond.json) |
 | HoneyCombat | 177775 | [177775-honeycombat.json](./177775-honeycombat.json) |
 | HoneyCome Come Come Party | 263645 | [263645-honeycome-come-come-party.json](./263645-honeycome-come-come-party.json) |
+| Honeydew | 303942 | [303942-honeydew.json](./303942-honeydew.json) |
 | HoneyHoneyHoney! | 164604 | [164604-honeyhoneyhoney.json](./164604-honeyhoneyhoney.json) |
 | HoneyLand | 167597 | [167597-honeyland.json](./167597-honeyland.json) |
 | Honeypot | 215785 | [215785-honeypot.json](./215785-honeypot.json) |
@@ -9754,6 +9756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Cliche | 412115 | [412115-horror-cliche.json](./412115-horror-cliche.json) |
 | Horror Drift | 187531 | [187531-horror-drift.json](./187531-horror-drift.json) |
 | Horror em Amityville | 246249 | [246249-horror-em-amityville.json](./246249-horror-em-amityville.json) |
+| Horror Family: Flight | 303971 | [303971-horror-family-flight.json](./303971-horror-family-flight.json) |
 | Horror Fan House | 344859 | [344859-horror-fan-house.json](./344859-horror-fan-house.json) |
 | Horror Fun | 214666 | [214666-horror-fun.json](./214666-horror-fun.json) |
 | Horror Gallery | 262908 | [262908-horror-gallery.json](./262908-horror-gallery.json) |
