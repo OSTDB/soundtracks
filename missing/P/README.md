@@ -4769,6 +4769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter's Quest: For the Love of Daphne | 67349 | [67349-peters-quest-for-the-love-of-daphne.json](./67349-peters-quest-for-the-love-of-daphne.json) |
 | Petey Pedro Unbeetable Adventure | 272237 | [272237-petey-pedro-unbeetable-adventure.json](./272237-petey-pedro-unbeetable-adventure.json) |
 | PetHotel | 101581 | [101581-pethotel.json](./101581-pethotel.json) |
+| Petit Computer | 332200 | [332200-petit-computer.json](./332200-petit-computer.json) |
 | Petit Computer | 64865 | [64865-petit-computer.json](./64865-petit-computer.json) |
 | Petit Game Collection Vol.1 | 283315 | [283315-petit-game-collection-vol-1.json](./283315-petit-game-collection-vol-1.json) |
 | Petit Island | 204526 | [204526-petit-island.json](./204526-petit-island.json) |
@@ -13536,6 +13537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presidents vs. Aliens | 175509 | [175509-presidents-vs-aliens.json](./175509-presidents-vs-aliens.json) |
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
 | Press “A” to Party | 147712 | [147712-press-a-to-party.json](./147712-press-a-to-party.json) |
+| Press "X" to win | 332179 | [332179-press-x-to-win.json](./332179-press-x-to-win.json) |
 | Press A | 389267 | [389267-press-a.json](./389267-press-a.json) |
 | Press a Button Simulator | 369920 | [369920-press-a-button-simulator.json](./369920-press-a-button-simulator.json) |
 | Press all the buttons | 18891 | [18891-press-all-the-buttons.json](./18891-press-all-the-buttons.json) |
