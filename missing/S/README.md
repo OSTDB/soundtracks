@@ -5597,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial Hunter | 191572 | [191572-serial-hunter.json](./191572-serial-hunter.json) |
 | Serial Killers & Zombies: Horror Bundle | 393052 | [393052-serial-killers-and-zombies-horror-bundle.json](./393052-serial-killers-and-zombies-horror-bundle.json) |
 | Serial Lover | 133207 | [133207-serial-lover.json](./133207-serial-lover.json) |
+| Serial Victims | 320081 | [320081-serial-victims.json](./320081-serial-victims.json) |
 | Serial Woman | 194857 | [194857-serial-woman.json](./194857-serial-woman.json) |
 | Serial World | 301328 | [301328-serial-world.json](./301328-serial-world.json) |
 | Series Makers | 115382 | [115382-series-makers.json](./115382-series-makers.json) |
@@ -10241,6 +10242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silk Suki: Chat Messaging Game | 298099 | [298099-silk-suki-chat-messaging-game.json](./298099-silk-suki-chat-messaging-game.json) |
 | Silk to Cotton | 49820 | [49820-silk-to-cotton.json](./49820-silk-to-cotton.json) |
 | Silk Worm | 12224 | [12224-silk-worm.json](./12224-silk-worm.json) |
+| Silk: A Leo Parker Adventure | 319901 | [319901-silk-a-leo-parker-adventure.json](./319901-silk-a-leo-parker-adventure.json) |
 | Silkbulb Test | 272723 | [272723-silkbulb-test.json](./272723-silkbulb-test.json) |
 | Silke, Pixelines Lillesøster: Der Bor En Bager | 349491 | [349491-silke-pixelines-lilles-ster-der-bor-en-bager.json](./349491-silke-pixelines-lilles-ster-der-bor-en-bager.json) |
 | Silke, Pixelines Lillesøster: Hønsefødder Og Gulerødder | 349490 | [349490-silke-pixelines-lilles-ster-h-nsef-dder-og-guler-dder.json](./349490-silke-pixelines-lilles-ster-h-nsef-dder-og-guler-dder.json) |
@@ -11228,6 +11230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siranui: Devilish obscene prison | 97763 | [97763-siranui-devilish-obscene-prison.json](./97763-siranui-devilish-obscene-prison.json) |
 | Sire Abandon | 200432 | [200432-sire-abandon.json](./200432-sire-abandon.json) |
 | Siren | 195494 | [195494-siren.json](./195494-siren.json) |
+| Siren | 319989 | [319989-siren.json](./319989-siren.json) |
 | Siren for Hire | 182766 | [182766-siren-for-hire.json](./182766-siren-for-hire.json) |
 | Siren Head | 125564 | [125564-siren-head.json](./125564-siren-head.json) |
 | Siren Head Dating Sim | 177958 | [177958-siren-head-dating-sim.json](./177958-siren-head-dating-sim.json) |
@@ -11633,6 +11636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton+ | 79512 | [79512-skeleton.json](./79512-skeleton.json) |
 | Skeletons Uprising | 265153 | [265153-skeletons-uprising.json](./265153-skeletons-uprising.json) |
 | Skeletons vs Nadia | 203756 | [203756-skeletons-vs-nadia.json](./203756-skeletons-vs-nadia.json) |
+| Skeletos Sword | 320054 | [320054-skeletos-sword.json](./320054-skeletos-sword.json) |
 | Skeletris | 134701 | [134701-skeletris.json](./134701-skeletris.json) |
 | Skelets | 140620 | [140620-skelets.json](./140620-skelets.json) |
 | Skeletter med kasketter | 77138 | [77138-skeletter-med-kasketter.json](./77138-skeletter-med-kasketter.json) |
@@ -24292,6 +24296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starjet Fights | 246778 | [246778-starjet-fights.json](./246778-starjet-fights.json) |
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
 | Stark Tower Defense | 256093 | [256093-stark-tower-defense.json](./256093-stark-tower-defense.json) |
+| StarKeeper | 320066 | [320066-starkeeper.json](./320066-starkeeper.json) |
 | Starkid's Obstacle Course | 111199 | [111199-starkids-obstacle-course.json](./111199-starkids-obstacle-course.json) |
 | Starl 11: The Fog Loop | 415819 | [415819-starl-11-the-fog-loop.json](./415819-starl-11-the-fog-loop.json) |
 | Starl Metaverse Project | 229284 | [229284-starl-metaverse-project.json](./229284-starl-metaverse-project.json) |
@@ -31671,6 +31676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sentai Battle: Dice-O | 59823 | [59823-super-sentai-battle-dice-o.json](./59823-super-sentai-battle-dice-o.json) |
 | Super Sentai Battle: Ranger Cross | 65897 | [65897-super-sentai-battle-ranger-cross.json](./65897-super-sentai-battle-ranger-cross.json) |
 | Super Sentai Legend Wars | 223901 | [223901-super-sentai-legend-wars.json](./223901-super-sentai-legend-wars.json) |
+| Super Sentai Wars | 319925 | [319925-super-sentai-wars.json](./319925-super-sentai-wars.json) |
 | Super Serious Golf | 365830 | [365830-super-serious-golf.json](./365830-super-serious-golf.json) |
 | Super Serpent Snake 3D | 412292 | [412292-super-serpent-snake-3d.json](./412292-super-serpent-snake-3d.json) |
 | Super Sexy Swiss | 303210 | [303210-super-sexy-swiss.json](./303210-super-sexy-swiss.json) |
@@ -32271,6 +32277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Yakyuudou 2 | 66208 | [66208-super-yakyuudou-2.json](./66208-super-yakyuudou-2.json) |
 | Super Yakyuudou Limited | 91655 | [91655-super-yakyuudou-limited.json](./91655-super-yakyuudou-limited.json) |
 | Super Yodelland: Legend of the Katzenbär | 192564 | [192564-super-yodelland-legend-of-the-katzenbar.json](./192564-super-yodelland-legend-of-the-katzenbar.json) |
+| Super Yoshi no Tamago | 319823 | [319823-super-yoshi-no-tamago.json](./319823-super-yoshi-no-tamago.json) |
 | Super Yuki Onna-chan | 154423 | [154423-super-yuki-onna-chan.json](./154423-super-yuki-onna-chan.json) |
 | Super Yum Yum | 306006 | [306006-super-yum-yum.json](./306006-super-yum-yum.json) |
 | Super Yum Yum 2 | 280052 | [280052-super-yum-yum-2.json](./280052-super-yum-yum-2.json) |
