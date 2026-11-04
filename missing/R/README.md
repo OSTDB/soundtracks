@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramparts | 40942 | [40942-ramparts.json](./40942-ramparts.json) |
 | Ramped Up! | 234604 | [234604-ramped-up.json](./234604-ramped-up.json) |
 | Ramsak | 25139 | [25139-ramsak.json](./25139-ramsak.json) |
+| RamsaySnap | 299327 | [299327-ramsaysnap.json](./299327-ramsaysnap.json) |
 | Ramses Classic | 200444 | [200444-ramses-classic.json](./200444-ramses-classic.json) |
 | Ramshackle | 374162 | [374162-ramshackle.json](./374162-ramshackle.json) |
 | Ramshackle.Exe | 289294 | [289294-ramshackle-exe.json](./289294-ramshackle-exe.json) |
@@ -4027,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redaction | 223399 | [223399-redaction.json](./223399-redaction.json) |
 | Redactionary | 336303 | [336303-redactionary.json](./336303-redactionary.json) |
 | Redactle | 197384 | [197384-redactle.json](./197384-redactle.json) |
+| Redash | 299364 | [299364-redash.json](./299364-redash.json) |
 | Redaxium | 163664 | [163664-redaxium.json](./163664-redaxium.json) |
 | Redaxium 2 | 207294 | [207294-redaxium-2.json](./207294-redaxium-2.json) |
 | REday -1 | 377931 | [377931-reday-1.json](./377931-reday-1.json) |
@@ -7394,6 +7396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rim: Soul Jar | 311163 | [311163-rim-soul-jar.json](./311163-rim-soul-jar.json) |
 | Rima: The Story Begins | 207859 | [207859-rima-the-story-begins.json](./207859-rima-the-story-begins.json) |
 | Rimal Game | 290535 | [290535-rimal-game.json](./290535-rimal-game.json) |
+| Rime | 299319 | [299319-rime.json](./299319-rime.json) |
 | Rime Berta | 17616 | [17616-rime-berta.json](./17616-rime-berta.json) |
 | Rimebeard | 153974 | [153974-rimebeard.json](./153974-rimebeard.json) |
 | Rimelands: Hammer of Thor | 123404 | [123404-rimelands-hammer-of-thor.json](./123404-rimelands-hammer-of-thor.json) |
@@ -7820,6 +7823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Islands | 19242 | [19242-rising-islands.json](./19242-rising-islands.json) |
 | Rising Lands | 94667 | [94667-rising-lands.json](./94667-rising-lands.json) |
 | Rising Lords | 106119 | [106119-rising-lords.json](./106119-rising-lords.json) |
+| Rising Lovers | 299424 | [299424-rising-lovers.json](./299424-rising-lovers.json) |
 | Rising Mist | 191815 | [191815-rising-mist.json](./191815-rising-mist.json) |
 | Rising Moonshade | 406497 | [406497-rising-moonshade.json](./406497-rising-moonshade.json) |
 | Rising Noracam | 151649 | [151649-rising-noracam.json](./151649-rising-noracam.json) |
