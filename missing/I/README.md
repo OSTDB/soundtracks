@@ -4378,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside the Cubes | 123504 | [123504-inside-the-cubes.json](./123504-inside-the-cubes.json) |
 | Inside the Facility | 57511 | [57511-inside-the-facility.json](./57511-inside-the-facility.json) |
 | Inside the Forest | 181070 | [181070-inside-the-forest.json](./181070-inside-the-forest.json) |
+| Inside the Forest | 324633 | [324633-inside-the-forest.json](./324633-inside-the-forest.json) |
 | Inside the Gear | 10437 | [10437-inside-the-gear.json](./10437-inside-the-gear.json) |
 | Inside the Labs | 251996 | [251996-inside-the-labs.json](./251996-inside-the-labs.json) |
 | Inside the loop | 182727 | [182727-inside-the-loop.json](./182727-inside-the-loop.json) |
