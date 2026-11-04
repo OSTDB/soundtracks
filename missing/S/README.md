@@ -16330,6 +16330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somnicoda | 323296 | [323296-somnicoda.json](./323296-somnicoda.json) |
 | Somnifuge | 330702 | [330702-somnifuge.json](./330702-somnifuge.json) |
 | Somnilithe | 312597 | [312597-somnilithe.json](./312597-somnilithe.json) |
+| Somniora: Chapter 1 | 333304 | [333304-somniora-chapter-1.json](./333304-somniora-chapter-1.json) |
 | Somniphobia | 152472 | [152472-somniphobia.json](./152472-somniphobia.json) |
 | Somniphobia | 340940 | [340940-somniphobia.json](./340940-somniphobia.json) |
 | Somnis: Rumble Rush | 332441 | [332441-somnis-rumble-rush.json](./332441-somnis-rumble-rush.json) |
@@ -20107,6 +20108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectrum Break | 77712 | [77712-spectrum-break.json](./77712-spectrum-break.json) |
 | Spectrum Descent | 304082 | [304082-spectrum-descent.json](./304082-spectrum-descent.json) |
 | Spectrum Forces | 178252 | [178252-spectrum-forces.json](./178252-spectrum-forces.json) |
+| Spectrum Siege | 333303 | [333303-spectrum-siege.json](./333303-spectrum-siege.json) |
 | Spectrum Stampede | 414050 | [414050-spectrum-stampede.json](./414050-spectrum-stampede.json) |
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
 | Spectrum VR | 151381 | [151381-spectrum-vr.json](./151381-spectrum-vr.json) |
