@@ -2315,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Nova Hyper | 236193 | [236193-card-nova-hyper.json](./236193-card-nova-hyper.json) |
 | Card of Darkness | 122759 | [122759-card-of-darkness.json](./122759-card-of-darkness.json) |
 | Card of Destiny: Hikari to Yami no Tougousha | 283328 | [283328-card-of-destiny-hikari-to-yami-no-tougousha.json](./283328-card-of-destiny-hikari-to-yami-no-tougousha.json) |
+| Card of Legend: Awaken Angels | 317150 | [317150-card-of-legend-awaken-angels.json](./317150-card-of-legend-awaken-angels.json) |
 | Card of Spirits | 32439 | [32439-card-of-spirits.json](./32439-card-of-spirits.json) |
 | Card Party | 49520 | [49520-card-party.json](./49520-card-party.json) |
 | Card Party Showdown | 405903 | [405903-card-party-showdown.json](./405903-card-party-showdown.json) |
@@ -5642,6 +5643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Change | 81724 | [81724-change.json](./81724-change.json) |
 | Change : A Little Story | 113146 | [113146-change-a-little-story.json](./113146-change-a-little-story.json) |
 | Change Air Blade | 39833 | [39833-change-air-blade.json](./39833-change-air-blade.json) |
+| Change and Drop | 317469 | [317469-change-and-drop.json](./317469-change-and-drop.json) |
 | Change Color to Reach Points | 90840 | [90840-change-color-to-reach-points.json](./90840-change-color-to-reach-points.json) |
 | Change Lanes | 292098 | [292098-change-lanes.json](./292098-change-lanes.json) |
 | Change Maker | 71769 | [71769-change-maker.json](./71769-change-maker.json) |
@@ -9902,6 +9904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clif Danger | 129401 | [129401-clif-danger.json](./129401-clif-danger.json) |
 | Cliff Empire | 99124 | [99124-cliff-empire.json](./99124-cliff-empire.json) |
 | Cliff Hanger | 24504 | [24504-cliff-hanger.json](./24504-cliff-hanger.json) |
+| Cliff Hanger | 317146 | [317146-cliff-hanger.json](./317146-cliff-hanger.json) |
 | Cliff Hanger | 369841 | [369841-cliff-hanger.json](./369841-cliff-hanger.json) |
 | Cliff Hanger PC | 369835 | [369835-cliff-hanger-pc.json](./369835-cliff-hanger-pc.json) |
 | Cliff Johnson's Labyrinth of Crete | 55831 | [55831-cliff-johnsons-labyrinth-of-crete.json](./55831-cliff-johnsons-labyrinth-of-crete.json) |
@@ -11507,6 +11510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Connect | 397235 | [397235-color-connect.json](./397235-color-connect.json) |
 | Color Corruption | 272638 | [272638-color-corruption.json](./272638-color-corruption.json) |
 | Color Course | 185528 | [185528-color-course.json](./185528-color-course.json) |
+| Color Creature | 317464 | [317464-color-creature.json](./317464-color-creature.json) |
 | Color Cross | 47769 | [47769-color-cross.json](./47769-color-cross.json) |
 | Color Crush | 387738 | [387738-color-crush.json](./387738-color-crush.json) |
 | Color Crush 2 | 147035 | [147035-color-crush-2.json](./147035-color-crush-2.json) |
@@ -14354,6 +14358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cortex Gear: Angry Droids | 52306 | [52306-cortex-gear-angry-droids.json](./52306-cortex-gear-angry-droids.json) |
 | Cortex Protocol | 99689 | [99689-cortex-protocol.json](./99689-cortex-protocol.json) |
 | CortexGear:AngryDroids | 35082 | [35082-cortexgear-angrydroids.json](./35082-cortexgear-angrydroids.json) |
+| Cortizone | 317159 | [317159-cortizone.json](./317159-cortizone.json) |
 | Corto Maltese: Secrets of Venice | 8386 | [8386-corto-maltese-secrets-of-venice.json](./8386-corto-maltese-secrets-of-venice.json) |
 | Corum II: Dark Lord | 146209 | [146209-corum-ii-dark-lord.json](./146209-corum-ii-dark-lord.json) |
 | Corum III: Chaotic Magic | 146210 | [146210-corum-iii-chaotic-magic.json](./146210-corum-iii-chaotic-magic.json) |
