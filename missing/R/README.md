@@ -4964,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renegade X: Black Dawn | 51290 | [51290-renegade-x-black-dawn.json](./51290-renegade-x-black-dawn.json) |
 | Renegade: Arena Shooter | 150679 | [150679-renegade-arena-shooter.json](./150679-renegade-arena-shooter.json) |
 | Renegade: The Battle for Jacob's Star | 69562 | [69562-renegade-the-battle-for-jacobs-star.json](./69562-renegade-the-battle-for-jacobs-star.json) |
+| RenewEd3D | 340705 | [340705-renewed3d.json](./340705-renewed3d.json) |
 | Renex III | 73884 | [73884-renex-iii.json](./73884-renex-iii.json) |
 | Renfield | 82885 | [82885-renfield.json](./82885-renfield.json) |
 | Renfield: Bring Your Own Blood | 245426 | [245426-renfield-bring-your-own-blood.json](./245426-renfield-bring-your-own-blood.json) |
@@ -4979,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rennsport | 230191 | [230191-rennsport.json](./230191-rennsport.json) |
 | Rennsport: Deluxe Edition | 368528 | [368528-rennsport-deluxe-edition.json](./368528-rennsport-deluxe-edition.json) |
 | Renny Blaster | 42008 | [42008-renny-blaster.json](./42008-renny-blaster.json) |
+| Renounced | 340703 | [340703-renounced.json](./340703-renounced.json) |
 | Renova | 169723 | [169723-renova.json](./169723-renova.json) |
 | Renovation Products Collection 1 | 157521 | [157521-renovation-products-collection-1.json](./157521-renovation-products-collection-1.json) |
 | Renovation Simulator | 312415 | [312415-renovation-simulator.json](./312415-renovation-simulator.json) |
@@ -5165,6 +5167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiem Hurts | 22404 | [22404-requiem-hurts.json](./22404-requiem-hurts.json) |
 | Requiem Hurts: Rainy Escape | 22405 | [22405-requiem-hurts-rainy-escape.json](./22405-requiem-hurts-rainy-escape.json) |
 | Requiem Memory | 265584 | [265584-requiem-memory.json](./265584-requiem-memory.json) |
+| Requiem of Dread | 340702 | [340702-requiem-of-dread.json](./340702-requiem-of-dread.json) |
 | Requiem of Reuinis | 347999 | [347999-requiem-of-reuinis.json](./347999-requiem-of-reuinis.json) |
 | Requiem of Science | 194221 | [194221-requiem-of-science.json](./194221-requiem-of-science.json) |
 | Requiem of the Dark Lord | 399028 | [399028-requiem-of-the-dark-lord.json](./399028-requiem-of-the-dark-lord.json) |
@@ -5265,7 +5268,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team 7 | 44193 | [44193-rescue-team-7.json](./44193-rescue-team-7.json) |
 | Rescue Team 7: Collector's Edition | 53504 | [53504-rescue-team-7-collectors-edition.json](./53504-rescue-team-7-collectors-edition.json) |
 | Rescue Team 8 | 122212 | [122212-rescue-team-8.json](./122212-rescue-team-8.json) |
+| Rescue Team: Ancient Guardian | 340701 | [340701-rescue-team-ancient-guardian.json](./340701-rescue-team-ancient-guardian.json) |
 | Rescue Team: Ancient Guardian - Collector's Edition | 338779 | [338779-rescue-team-ancient-guardian-collectors-edition.json](./338779-rescue-team-ancient-guardian-collectors-edition.json) |
+| Rescue Team: Attack of the Atom | 340700 | [340700-rescue-team-attack-of-the-atom.json](./340700-rescue-team-attack-of-the-atom.json) |
 | Rescue Team: Attack of the Atom - Collector's Edition | 337626 | [337626-rescue-team-attack-of-the-atom-collectors-edition.json](./337626-rescue-team-attack-of-the-atom-collectors-edition.json) |
 | Rescue Team: Clouded Mind | 311217 | [311217-rescue-team-clouded-mind.json](./311217-rescue-team-clouded-mind.json) |
 | Rescue Team: Evil Genius | 122409 | [122409-rescue-team-evil-genius.json](./122409-rescue-team-evil-genius.json) |
@@ -5301,6 +5306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescuing Ralph | 182043 | [182043-rescuing-ralph.json](./182043-rescuing-ralph.json) |
 | Research and Destroy | 154274 | [154274-research-and-destroy.json](./154274-research-and-destroy.json) |
 | Research and Development | 182643 | [182643-research-and-development.json](./182643-research-and-development.json) |
+| Research and Development 1 | 340699 | [340699-research-and-development-1.json](./340699-research-and-development-1.json) |
 | Research Station | 273140 | [273140-research-station.json](./273140-research-station.json) |
 | Research Story | 168637 | [168637-research-story.json](./168637-research-story.json) |
 | Researcher | 143476 | [143476-researcher.json](./143476-researcher.json) |
@@ -5636,6 +5642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resting Island | 362194 | [362194-resting-island.json](./362194-resting-island.json) |
 | Restitched | 147290 | [147290-restitched.json](./147290-restitched.json) |
 | Restless Dreams | 308284 | [308284-restless-dreams.json](./308284-restless-dreams.json) |
+| Restless Grounds | 340698 | [340698-restless-grounds.json](./340698-restless-grounds.json) |
 | Restless Hero | 121939 | [121939-restless-hero.json](./121939-restless-hero.json) |
 | Restless I | 391816 | [391816-restless-i.json](./391816-restless-i.json) |
 | Restless Kids | 216957 | [216957-restless-kids.json](./216957-restless-kids.json) |
@@ -5661,6 +5668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restore, Reflect, Retry | 335839 | [335839-restore-reflect-retry.json](./335839-restore-reflect-retry.json) |
 | Restorer | 355056 | [355056-restorer.json](./355056-restorer.json) |
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
+| Restoring the Past | 340697 | [340697-restoring-the-past.json](./340697-restoring-the-past.json) |
 | Restoring the Past: The Beauty of Porcelain 3 | 382885 | [382885-restoring-the-past-the-beauty-of-porcelain-3.json](./382885-restoring-the-past-the-beauty-of-porcelain-3.json) |
 | ReStory: Chill Electronics Repairs | 380960 | [380960-restory-chill-electronics-repairs.json](./380960-restory-chill-electronics-repairs.json) |
 | Restrain | 286750 | [286750-restrain.json](./286750-restrain.json) |
@@ -5796,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Combat | 271601 | [271601-retro-combat.json](./271601-retro-combat.json) |
 | Retro Commander | 165060 | [165060-retro-commander.json](./165060-retro-commander.json) |
 | Retro Cube Slider | 421381 | [421381-retro-cube-slider.json](./421381-retro-cube-slider.json) |
+| Retro Cut | 340696 | [340696-retro-cut.json](./340696-retro-cut.json) |
 | Retro Defense | 38701 | [38701-retro-defense.json](./38701-retro-defense.json) |
 | Retro Derby | 202047 | [202047-retro-derby.json](./202047-retro-derby.json) |
 | Retro Drift | 128222 | [128222-retro-drift.json](./128222-retro-drift.json) |
@@ -5804,6 +5813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Dungeons | 377309 | [377309-retro-dungeons.json](./377309-retro-dungeons.json) |
 | Retro Dungeons | 65812 | [65812-retro-dungeons.json](./65812-retro-dungeons.json) |
 | Retro Dust | 175375 | [175375-retro-dust.json](./175375-retro-dust.json) |
+| Retro Endurance 8bit | 340695 | [340695-retro-endurance-8bit.json](./340695-retro-endurance-8bit.json) |
 | Retro Fears | 357200 | [357200-retro-fears.json](./357200-retro-fears.json) |
 | Retro Fighter | 386937 | [386937-retro-fighter.json](./386937-retro-fighter.json) |
 | Retro Fighter: Dragon's Revenge | 147690 | [147690-retro-fighter-dragons-revenge.json](./147690-retro-fighter-dragons-revenge.json) |
@@ -5990,6 +6000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrovirus | 15418 | [15418-retrovirus.json](./15418-retrovirus.json) |
 | Retrowave | 130243 | [130243-retrowave.json](./130243-retrowave.json) |
 | Retrowave '84 | 214180 | [214180-retrowave-84.json](./214180-retrowave-84.json) |
+| Retrowave 2 | 340694 | [340694-retrowave-2.json](./340694-retrowave-2.json) |
 | Retrowave Barro Crazy Drift | 386976 | [386976-retrowave-barro-crazy-drift.json](./386976-retrowave-barro-crazy-drift.json) |
 | Retrowave Drift | 148911 | [148911-retrowave-drift.json](./148911-retrowave-drift.json) |
 | Retrowave Hexon | 159857 | [159857-retrowave-hexon.json](./159857-retrowave-hexon.json) |
@@ -7634,6 +7645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Outcast Hero | 297202 | [297202-rise-of-the-outcast-hero.json](./297202-rise-of-the-outcast-hero.json) |
 | Rise of the Overlords | 161574 | [161574-rise-of-the-overlords.json](./161574-rise-of-the-overlords.json) |
 | Rise of the Pawn | 321132 | [321132-rise-of-the-pawn.json](./321132-rise-of-the-pawn.json) |
+| Rise of the Penguins | 340693 | [340693-rise-of-the-penguins.json](./340693-rise-of-the-penguins.json) |
 | Rise of the Phoenix | 42650 | [42650-rise-of-the-phoenix.json](./42650-rise-of-the-phoenix.json) |
 | Rise of the Pirates | 114802 | [114802-rise-of-the-pirates.json](./114802-rise-of-the-pirates.json) |
 | Rise of the Ravager | 51671 | [51671-rise-of-the-ravager.json](./51671-rise-of-the-ravager.json) |
@@ -8626,6 +8638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboSkate | 139437 | [139437-roboskate.json](./139437-roboskate.json) |
 | RoboSnakes: Core Wars Legacy | 113160 | [113160-robosnakes-core-wars-legacy.json](./113160-robosnakes-core-wars-legacy.json) |
 | Robosnow | 166630 | [166630-robosnow.json](./166630-robosnow.json) |
+| RoboSoul | 340692 | [340692-robosoul.json](./340692-robosoul.json) |
 | RoboSoul: Chariot | 348669 | [348669-robosoul-chariot.json](./348669-robosoul-chariot.json) |
 | Robosoul: From the Depths of Pax-Animi | 117603 | [117603-robosoul-from-the-depths-of-pax-animi.json](./117603-robosoul-from-the-depths-of-pax-animi.json) |
 | Robospierre | 220704 | [220704-robospierre.json](./220704-robospierre.json) |
@@ -9089,6 +9102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Golf: Tap | 364777 | [364777-rocket-golf-tap.json](./364777-rocket-golf-tap.json) |
 | Rocket Hat | 329397 | [329397-rocket-hat.json](./329397-rocket-hat.json) |
 | Rocket Hippo! | 107392 | [107392-rocket-hippo.json](./107392-rocket-hippo.json) |
+| Rocket Hit | 340691 | [340691-rocket-hit.json](./340691-rocket-hit.json) |
 | Rocket Horizon | 256928 | [256928-rocket-horizon.json](./256928-rocket-horizon.json) |
 | Rocket Hunting | 312268 | [312268-rocket-hunting.json](./312268-rocket-hunting.json) |
 | Rocket in Space: Running Games | 233388 | [233388-rocket-in-space-running-games.json](./233388-rocket-in-space-running-games.json) |
@@ -9536,6 +9550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodem the Wild | 26124 | [26124-rodem-the-wild.json](./26124-rodem-the-wild.json) |
 | Rodent and Plank: Secret Origin | 139588 | [139588-rodent-and-plank-secret-origin.json](./139588-rodent-and-plank-secret-origin.json) |
 | Rodent Company | 387587 | [387587-rodent-company.json](./387587-rodent-company.json) |
+| Rodent Mafia | 340690 | [340690-rodent-mafia.json](./340690-rodent-mafia.json) |
 | Rodent Rampage | 393127 | [393127-rodent-rampage.json](./393127-rodent-rampage.json) |
 | Rodent Retribution | 275707 | [275707-rodent-retribution.json](./275707-rodent-retribution.json) |
 | Rodent Road Rage | 409128 | [409128-rodent-road-rage.json](./409128-rodent-road-rage.json) |
@@ -9738,6 +9753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Robots | 135653 | [135653-rogue-robots.json](./135653-rogue-robots.json) |
 | Rogue Rocks | 121265 | [121265-rogue-rocks.json](./121265-rogue-rocks.json) |
 | Rogue Rollers | 347097 | [347097-rogue-rollers.json](./347097-rogue-rollers.json) |
+| Rogue Rubber | 340689 | [340689-rogue-rubber.json](./340689-rogue-rubber.json) |
 | Rogue Run | 407304 | [407304-rogue-run.json](./407304-rogue-run.json) |
 | Rogue Samurai | 266278 | [266278-rogue-samurai.json](./266278-rogue-samurai.json) |
 | Rogue Seas | 176830 | [176830-rogue-seas.json](./176830-rogue-seas.json) |
@@ -10823,6 +10839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotate 2 Learn: Christmas Edition Puzzles! | 104705 | [104705-rotate-2-learn-christmas-edition-puzzles.json](./104705-rotate-2-learn-christmas-edition-puzzles.json) |
 | Rotate Game | 176163 | [176163-rotate-game.json](./176163-rotate-game.json) |
 | Rotate It! | 68934 | [68934-rotate-it.json](./68934-rotate-it.json) |
+| Rotate or Die | 340687 | [340687-rotate-or-die.json](./340687-rotate-or-die.json) |
 | Rotate the Rings | 259234 | [259234-rotate-the-rings.json](./259234-rotate-the-rings.json) |
 | Rotate to Find the Difference | 149164 | [149164-rotate-to-find-the-difference.json](./149164-rotate-to-find-the-difference.json) |
 | Rotate: Collective | 258611 | [258611-rotate-collective.json](./258611-rotate-collective.json) |
@@ -11001,6 +11018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Routine Checkup | 245357 | [245357-routine-checkup.json](./245357-routine-checkup.json) |
 | Routine Feat | 125052 | [125052-routine-feat.json](./125052-routine-feat.json) |
 | Routine Racers | 158926 | [158926-routine-racers.json](./158926-routine-racers.json) |
+| Routine Soul | 340686 | [340686-routine-soul.json](./340686-routine-soul.json) |
 | Routz | 125875 | [125875-routz.json](./125875-routz.json) |
 | Rouvy | 319175 | [319175-rouvy.json](./319175-rouvy.json) |
 | Rova | 297209 | [297209-rova.json](./297209-rova.json) |
@@ -11180,6 +11198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Romances: Endless Winter | 266343 | [266343-royal-romances-endless-winter.json](./266343-royal-romances-endless-winter.json) |
 | Royal Romances: Endless Winter - Collector's Edition | 265305 | [265305-royal-romances-endless-winter-collectors-edition.json](./265305-royal-romances-endless-winter-collectors-edition.json) |
 | Royal Romances: Forbidden Magic - Collector's Edition | 240767 | [240767-royal-romances-forbidden-magic-collectors-edition.json](./240767-royal-romances-forbidden-magic-collectors-edition.json) |
+| Royal Romances: Fortunes and Foes - Collector's Edition | 340685 | [340685-royal-romances-fortunes-and-foes-collectors-edition.json](./340685-royal-romances-fortunes-and-foes-collectors-edition.json) |
 | Royal Romances: The Cursed Hearts DLC | 280258 | [280258-royal-romances-the-cursed-hearts-dlc.json](./280258-royal-romances-the-cursed-hearts-dlc.json) |
 | Royal Romances: The Power of Chosen One DLC | 256003 | [256003-royal-romances-the-power-of-chosen-one-dlc.json](./256003-royal-romances-the-power-of-chosen-one-dlc.json) |
 | Royal Settlement 1450 | 54353 | [54353-royal-settlement-1450.json](./54353-royal-settlement-1450.json) |
@@ -11391,6 +11410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Sharks | 305980 | [305980-rubber-sharks.json](./305980-rubber-sharks.json) |
 | Rubber Toys | 38776 | [38776-rubber-toys.json](./38776-rubber-toys.json) |
 | Rubberduck Wave Racer | 245716 | [245716-rubberduck-wave-racer.json](./245716-rubberduck-wave-racer.json) |
+| Rubbish | 340684 | [340684-rubbish.json](./340684-rubbish.json) |
 | Rubbish Blazon | 64059 | [64059-rubbish-blazon.json](./64059-rubbish-blazon.json) |
 | Rubbish Island | 378890 | [378890-rubbish-island.json](./378890-rubbish-island.json) |
 | Rubblar | 238661 | [238661-rubblar.json](./238661-rubblar.json) |
@@ -11537,6 +11557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby Nations 16 | 86713 | [86713-rugby-nations-16.json](./86713-rugby-nations-16.json) |
 | Rugby Nations 18 | 86865 | [86865-rugby-nations-18.json](./86865-rugby-nations-18.json) |
 | Rugby Sevens 23 | 240817 | [240817-rugby-sevens-23.json](./240817-rugby-sevens-23.json) |
+| Rugby Tycoon Rugby Rovigo Delta | 340683 | [340683-rugby-tycoon-rugby-rovigo-delta.json](./340683-rugby-tycoon-rugby-rovigo-delta.json) |
 | Rugby Union Team Manager 2015 | 17946 | [17946-rugby-union-team-manager-2015.json](./17946-rugby-union-team-manager-2015.json) |
 | Rugby Union Team Manager 2017 | 31304 | [31304-rugby-union-team-manager-2017.json](./31304-rugby-union-team-manager-2017.json) |
 | Rugby Union Team Manager 3 | 167488 | [167488-rugby-union-team-manager-3.json](./167488-rugby-union-team-manager-3.json) |
@@ -12319,6 +12340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Galaxy | 233151 | [233151-rush-galaxy.json](./233151-rush-galaxy.json) |
 | Rush Grotto | 378895 | [378895-rush-grotto.json](./378895-rush-grotto.json) |
 | Rush Hero | 291955 | [291955-rush-hero.json](./291955-rush-hero.json) |
+| Rush Heroes | 340682 | [340682-rush-heroes.json](./340682-rush-heroes.json) |
 | Rush Hour | 18541 | [18541-rush-hour.json](./18541-rush-hour.json) |
 | Rush Hour | 28056 | [28056-rush-hour.json](./28056-rush-hour.json) |
 | Rush Hour | 385782 | [385782-rush-hour.json](./385782-rush-hour.json) |
@@ -12536,6 +12558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Barrel | 270854 | [270854-rusty-barrel.json](./270854-rusty-barrel.json) |
 | Rusty Blade | 181192 | [181192-rusty-blade.json](./181192-rusty-blade.json) |
 | Rusty Blower 3D | 342782 | [342782-rusty-blower-3d.json](./342782-rusty-blower-3d.json) |
+| Rusty Coffin | 340681 | [340681-rusty-coffin.json](./340681-rusty-coffin.json) |
 | Rusty Drill | 326740 | [326740-rusty-drill.json](./326740-rusty-drill.json) |
 | Rusty Dudes | 323016 | [323016-rusty-dudes.json](./323016-rusty-dudes.json) |
 | Rusty Dusty | 298105 | [298105-rusty-dusty.json](./298105-rusty-dusty.json) |
@@ -12647,6 +12670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RymdResa | 11735 | [11735-rymdresa.json](./11735-rymdresa.json) |
 | Ryn: And the Thread of Life | 378245 | [378245-ryn-and-the-thread-of-life.json](./378245-ryn-and-the-thread-of-life.json) |
 | Rynn's Adventure: Trouble in the Enchanted Forest | 34013 | [34013-rynns-adventure-trouble-in-the-enchanted-forest.json](./34013-rynns-adventure-trouble-in-the-enchanted-forest.json) |
+| Ryo & Gears | 340677 | [340677-ryo-and-gears.json](./340677-ryo-and-gears.json) |
 | Ryo: The Haunted Office | 234538 | [234538-ryo-the-haunted-office.json](./234538-ryo-the-haunted-office.json) |
 | Ryojyoku Chokyou | 97791 | [97791-ryojyoku-chokyou.json](./97791-ryojyoku-chokyou.json) |
 | Ryojyoku Damashii: Ero Kenkyaku Den | 97367 | [97367-ryojyoku-damashii-ero-kenkyaku-den.json](./97367-ryojyoku-damashii-ero-kenkyaku-den.json) |
@@ -12687,3 +12711,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryuuo no Oshigoto!: Limited Edition | 167073 | [167073-ryuuo-no-oshigoto-limited-edition.json](./167073-ryuuo-no-oshigoto-limited-edition.json) |
 | Ryuusei no Rockman: Denpa Henkan! On Air! | 139348 | [139348-ryuusei-no-rockman-denpa-henkan-on-air.json](./139348-ryuusei-no-rockman-denpa-henkan-on-air.json) |
 | Ryzy Nyil | 394292 | [394292-ryzy-nyil.json](./394292-ryzy-nyil.json) |
+| RZR | 340676 | [340676-rzr.json](./340676-rzr.json) |
