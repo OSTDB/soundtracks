@@ -13507,6 +13507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missy's Transformation Tournament | 161518 | [161518-missys-transformation-tournament.json](./161518-missys-transformation-tournament.json) |
 | Mist | 200629 | [200629-mist.json](./200629-mist.json) |
 | Mist | 211038 | [211038-mist.json](./211038-mist.json) |
+| Mist | 298218 | [298218-mist.json](./298218-mist.json) |
 | Mist | 343840 | [343840-mist.json](./343840-mist.json) |
 | Mist | 349266 | [349266-mist.json](./349266-mist.json) |
 | Mist Bouncer | 63264 | [63264-mist-bouncer.json](./63264-mist-bouncer.json) |
