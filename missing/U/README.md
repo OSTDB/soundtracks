@@ -1823,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale: Icebound | 329944 | [329944-undertale-icebound.json](./329944-undertale-icebound.json) |
 | Undertale: Kindred Spirits | 231469 | [231469-undertale-kindred-spirits.json](./231469-undertale-kindred-spirits.json) |
 | Undertale: No More Deals | 279675 | [279675-undertale-no-more-deals.json](./279675-undertale-no-more-deals.json) |
+| Undertale: Papyrus' Belief | 331196 | [331196-undertale-papyrus-belief.json](./331196-undertale-papyrus-belief.json) |
 | Undertale: Promised. | 307021 | [307021-undertale-promised.json](./307021-undertale-promised.json) |
 | Undertale: Remembering the Genocides | 335675 | [335675-undertale-remembering-the-genocides.json](./335675-undertale-remembering-the-genocides.json) |
 | Undertale: Repent to Jesus | 328203 | [328203-undertale-repent-to-jesus.json](./328203-undertale-repent-to-jesus.json) |
