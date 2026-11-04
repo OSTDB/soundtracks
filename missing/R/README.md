@@ -7971,6 +7971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivals at War: 2084 | 59630 | [59630-rivals-at-war-2084.json](./59630-rivals-at-war-2084.json) |
 | Rivals at War: Firefight | 59628 | [59628-rivals-at-war-firefight.json](./59628-rivals-at-war-firefight.json) |
 | Rivals Duel: Card Battler | 297203 | [297203-rivals-duel-card-battler.json](./297203-rivals-duel-card-battler.json) |
+| Rivals Hover League | 324608 | [324608-rivals-hover-league.json](./324608-rivals-hover-league.json) |
 | Rivals in the Skies | 363907 | [363907-rivals-in-the-skies.json](./363907-rivals-in-the-skies.json) |
 | Rivals of Aether | 21646 | [21646-rivals-of-aether.json](./21646-rivals-of-aether.json) |
 | Rivals of Aether II | 245847 | [245847-rivals-of-aether-ii.json](./245847-rivals-of-aether-ii.json) |
@@ -11593,6 +11594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby League Team Manager 2015 | 35315 | [35315-rugby-league-team-manager-2015.json](./35315-rugby-league-team-manager-2015.json) |
 | Rugby League Team Manager 2018 | 68707 | [68707-rugby-league-team-manager-2018.json](./68707-rugby-league-team-manager-2018.json) |
 | Rugby League Team Manager 3 | 128263 | [128263-rugby-league-team-manager-3.json](./128263-rugby-league-team-manager-3.json) |
+| Rugby League Team Manager 4 | 324617 | [324617-rugby-league-team-manager-4.json](./324617-rugby-league-team-manager-4.json) |
 | Rugby Nations 15 | 194164 | [194164-rugby-nations-15.json](./194164-rugby-nations-15.json) |
 | Rugby Nations 16 | 86713 | [86713-rugby-nations-16.json](./86713-rugby-nations-16.json) |
 | Rugby Nations 18 | 86865 | [86865-rugby-nations-18.json](./86865-rugby-nations-18.json) |
