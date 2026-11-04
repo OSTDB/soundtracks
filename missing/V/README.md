@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vault of Terror | 356661 | [356661-vault-of-terror.json](./356661-vault-of-terror.json) |
 | Vault of The Vanquished | 391101 | [391101-vault-of-the-vanquished.json](./391101-vault-of-the-vanquished.json) |
 | Vault of the Void | 127617 | [127617-vault-of-the-void.json](./127617-vault-of-the-void.json) |
+| Vault of the Void: Developer Supporter Pack | 317755 | [317755-vault-of-the-void-developer-supporter-pack.json](./317755-vault-of-the-void-developer-supporter-pack.json) |
 | Vault Vandals | 390188 | [390188-vault-vandals.json](./390188-vault-vandals.json) |
 | Vault: Tomb of the King | 115303 | [115303-vault-tomb-of-the-king.json](./115303-vault-tomb-of-the-king.json) |
 | Vault! | 340817 | [340817-vault.json](./340817-vault.json) |
