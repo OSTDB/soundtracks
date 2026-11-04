@@ -8382,6 +8382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold Me Tight All Night, Onii-chan! | 315733 | [315733-hold-me-tight-all-night-onii-chan.json](./315733-hold-me-tight-all-night-onii-chan.json) |
 | Hold My Beer | 51581 | [51581-hold-my-beer.json](./51581-hold-my-beer.json) |
 | Hold My Hand (Or Let Go) | 412537 | [412537-hold-my-hand-or-let-go.json](./412537-hold-my-hand-or-let-go.json) |
+| Hold My Pistaches | 310335 | [310335-hold-my-pistaches.json](./310335-hold-my-pistaches.json) |
 | Hold My Thing | 418627 | [418627-hold-my-thing.json](./418627-hold-my-thing.json) |
 | Hold On | 211023 | [211023-hold-on.json](./211023-hold-on.json) |
 | Hold On | 419843 | [419843-hold-on.json](./419843-hold-on.json) |
@@ -12081,6 +12082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper's Quest Reborn | 316969 | [316969-hypers-quest-reborn.json](./316969-hypers-quest-reborn.json) |
 | Hyper's Quest: Mystic Warp | 316968 | [316968-hypers-quest-mystic-warp.json](./316968-hypers-quest-mystic-warp.json) |
 | Hyperaction | 152478 | [152478-hyperaction.json](./152478-hyperaction.json) |
+| Hyperacusis | 310327 | [310327-hyperacusis.json](./310327-hyperacusis.json) |
 | Hyperbahn | 236993 | [236993-hyperbahn.json](./236993-hyperbahn.json) |
 | Hyperballoid 2: Time Rider | 90499 | [90499-hyperballoid-2-time-rider.json](./90499-hyperballoid-2-time-rider.json) |
 | Hyperballoid Deluxe: Survival Pack | 130846 | [130846-hyperballoid-deluxe-survival-pack.json](./130846-hyperballoid-deluxe-survival-pack.json) |
