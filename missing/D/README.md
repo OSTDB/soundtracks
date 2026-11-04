@@ -4616,6 +4616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeathGearX | 312728 | [312728-deathgearx.json](./312728-deathgearx.json) |
 | Deathground | 137282 | [137282-deathground.json](./137282-deathground.json) |
 | DeathGuessr | 419182 | [419182-deathguessr.json](./419182-deathguessr.json) |
+| DeathJack | 306902 | [306902-deathjack.json](./306902-deathjack.json) |
 | Deathkeep | 4270 | [4270-deathkeep.json](./4270-deathkeep.json) |
 | Deathland Drifters | 303463 | [303463-deathland-drifters.json](./303463-deathland-drifters.json) |
 | Deathlands | 74513 | [74513-deathlands.json](./74513-deathlands.json) |
@@ -8516,6 +8517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Dunkle Dimension | 356849 | [356849-die-dunkle-dimension.json](./356849-die-dunkle-dimension.json) |
 | Die Erdnussbutter | 285978 | [285978-die-erdnussbutter.json](./285978-die-erdnussbutter.json) |
 | Die Fast | 338289 | [338289-die-fast.json](./338289-die-fast.json) |
+| Die Feen | 306912 | [306912-die-feen.json](./306912-die-feen.json) |
 | Die First | 414557 | [414557-die-first.json](./414557-die-first.json) |
 | Die For Metal | 197703 | [197703-die-for-metal.json](./197703-die-for-metal.json) |
 | Die for Pay | 389385 | [389385-die-for-pay.json](./389385-die-for-pay.json) |
