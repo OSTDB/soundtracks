@@ -2277,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zooville Detectives: A Read-Along Mystery | 413373 | [413373-zooville-detectives-a-read-along-mystery.json](./413373-zooville-detectives-a-read-along-mystery.json) |
 | ZooZooGo! | 64396 | [64396-zoozoogo.json](./64396-zoozoogo.json) |
 | Zopa | 303168 | [303168-zopa.json](./303168-zopa.json) |
+| Zopharion | 346882 | [346882-zopharion.json](./346882-zopharion.json) |
 | Zor: Pilgrimage of the Slorfs | 123962 | [123962-zor-pilgrimage-of-the-slorfs.json](./123962-zor-pilgrimage-of-the-slorfs.json) |
 | Zorakk: The Conqueror | 57154 | [57154-zorakk-the-conqueror.json](./57154-zorakk-the-conqueror.json) |
 | Zorax | 221227 | [221227-zorax.json](./221227-zorax.json) |
