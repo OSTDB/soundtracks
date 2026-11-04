@@ -3357,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Skill Check | 341609 | [341609-dead-by-skill-check.json](./341609-dead-by-skill-check.json) |
 | Dead by Wheel: Battle Royal | 109718 | [109718-dead-by-wheel-battle-royal.json](./109718-dead-by-wheel-battle-royal.json) |
 | Dead by zero | 95996 | [95996-dead-by-zero.json](./95996-dead-by-zero.json) |
+| Dead Cards | 301459 | [301459-dead-cards.json](./301459-dead-cards.json) |
 | Dead Castle | 117625 | [117625-dead-castle.json](./117625-dead-castle.json) |
 | Dead Cat Bounce | 387631 | [387631-dead-cat-bounce.json](./387631-dead-cat-bounce.json) |
 | Dead Cells: Action Game of the Year | 122268 | [122268-dead-cells-action-game-of-the-year.json](./122268-dead-cells-action-game-of-the-year.json) |
@@ -4222,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Mom | 158129 | [158129-dear-mom.json](./158129-dear-mom.json) |
 | Dear Mom: My Letter to You | 164965 | [164965-dear-mom-my-letter-to-you.json](./164965-dear-mom-my-letter-to-you.json) |
 | Dear Monster | 192563 | [192563-dear-monster.json](./192563-dear-monster.json) |
+| Dear Murder Diary | 301471 | [301471-dear-murder-diary.json](./301471-dear-murder-diary.json) |
 | Dear My Abyss | 221492 | [221492-dear-my-abyss.json](./221492-dear-my-abyss.json) |
 | Dear My Bot | 405635 | [405635-dear-my-bot.json](./405635-dear-my-bot.json) |
 | Dear My Cat | 200453 | [200453-dear-my-cat.json](./200453-dear-my-cat.json) |
@@ -7630,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective: The Motel | 292988 | [292988-detective-the-motel.json](./292988-detective-the-motel.json) |
 | Detective: The Mountain City | 203951 | [203951-detective-the-mountain-city.json](./203951-detective-the-mountain-city.json) |
 | Detective: The Test | 336114 | [336114-detective-the-test.json](./336114-detective-the-test.json) |
+| Detective.exe | 301479 | [301479-detective-exe.json](./301479-detective-exe.json) |
 | Detectiveland | 57516 | [57516-detectiveland.json](./57516-detectiveland.json) |
 | Detectives United II: The Darkest Shrine | 187930 | [187930-detectives-united-ii-the-darkest-shrine.json](./187930-detectives-united-ii-the-darkest-shrine.json) |
 | Detectives United II: The Darkest Shrine - Collector's Edition | 252685 | [252685-detectives-united-ii-the-darkest-shrine-collectors-edition.json](./252685-detectives-united-ii-the-darkest-shrine-collectors-edition.json) |
@@ -11914,6 +11917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domo-kun no Card-e: Kyougi - Speed Skate (Domo-kun) | 352799 | [352799-domo-kun-no-card-e-kyougi-speed-skate-domo-kun.json](./352799-domo-kun-no-card-e-kyougi-speed-skate-domo-kun.json) |
 | Domo-kun no Card-e: Winter Pack | 352825 | [352825-domo-kun-no-card-e-winter-pack.json](./352825-domo-kun-no-card-e-winter-pack.json) |
 | Domo-kun no Fushigi Terebi | 6383 | [6383-domo-kun-no-fushigi-terebi.json](./6383-domo-kun-no-fushigi-terebi.json) |
+| Domovoy | 301478 | [301478-domovoy.json](./301478-domovoy.json) |
 | Domovoy | 316785 | [316785-domovoy.json](./316785-domovoy.json) |
 | Domum | 211965 | [211965-domum.json](./211965-domum.json) |
 | Domus Abscondita | 312765 | [312765-domus-abscondita.json](./312765-domus-abscondita.json) |
