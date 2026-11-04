@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Bakery Cats | 376885 | [376885-100-bakery-cats.json](./376885-100-bakery-cats.json) |
 | 100 Balls | 331350 | [331350-100-balls.json](./331350-100-balls.json) |
 | 100 Balls: Tap to Drop in Cup | 100152 | [100152-100-balls-tap-to-drop-in-cup.json](./100152-100-balls-tap-to-drop-in-cup.json) |
+| 100 Barcelona Cats | 347461 | [347461-100-barcelona-cats.json](./347461-100-barcelona-cats.json) |
 | 100 Berlin Cats | 334118 | [334118-100-berlin-cats.json](./334118-100-berlin-cats.json) |
 | 100 Blacksmith Cats | 376886 | [376886-100-blacksmith-cats.json](./376886-100-blacksmith-cats.json) |
 | 100 Bullets | 90935 | [90935-100-bullets.json](./90935-100-bullets.json) |
@@ -625,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 lil jumps | 283033 | [283033-100-lil-jumps.json](./283033-100-lil-jumps.json) |
 | 100 Line Christmas | 260891 | [260891-100-line-christmas.json](./260891-100-line-christmas.json) |
 | 100 Line Massacre | 260889 | [260889-100-line-massacre.json](./260889-100-line-massacre.json) |
+| 100 Lisbon Cats | 347462 | [347462-100-lisbon-cats.json](./347462-100-lisbon-cats.json) |
 | 100 Lives | 358055 | [358055-100-lives.json](./358055-100-lives.json) |
 | 100 Logic Games: Time Killers | 232531 | [232531-100-logic-games-time-killers.json](./232531-100-logic-games-time-killers.json) |
 | 100 London Cats | 282722 | [282722-100-london-cats.json](./282722-100-london-cats.json) |
