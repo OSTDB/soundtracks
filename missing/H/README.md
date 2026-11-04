@@ -109,6 +109,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hachoo! | 40065 | [40065-hachoo.json](./40065-hachoo.json) |
 | Hack | 171890 | [171890-hack.json](./171890-hack.json) |
 | Hack | 2875 | [2875-hack.json](./2875-hack.json) |
+| Hack -1 | 306871 | [306871-hack-1.json](./306871-hack-1.json) |
+| Hack -1 2 | 306873 | [306873-hack-1-2.json](./306873-hack-1-2.json) |
 | Hack '95 | 405079 | [405079-hack-95.json](./405079-hack-95.json) |
 | Hack 'n' Stack | 258624 | [258624-hack-n-stack.json](./258624-hack-n-stack.json) |
 | Hack & Po | 364145 | [364145-hack-and-po.json](./364145-hack-and-po.json) |
@@ -117,12 +119,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack 0 | 272813 | [272813-hack-0.json](./272813-hack-0.json) |
 | Hack 0 2 | 320292 | [320292-hack-0-2.json](./320292-hack-0-2.json) |
 | Hack 1 2 | 269774 | [269774-hack-1-2.json](./269774-hack-1-2.json) |
+| Hack 1 2 2 | 306874 | [306874-hack-1-2-2.json](./306874-hack-1-2-2.json) |
+| Hack 1 2 3 | 306875 | [306875-hack-1-2-3.json](./306875-hack-1-2-3.json) |
 | Hack 2 | 171891 | [171891-hack-2.json](./171891-hack-2.json) |
 | Hack 3 | 160276 | [160276-hack-3.json](./160276-hack-3.json) |
 | Hack 4 | 171892 | [171892-hack-4.json](./171892-hack-4.json) |
 | Hack 42: Typing Incremental | 407601 | [407601-hack-42-typing-incremental.json](./407601-hack-42-typing-incremental.json) |
 | Hack 5 | 171893 | [171893-hack-5.json](./171893-hack-5.json) |
 | Hack 6 | 294533 | [294533-hack-6.json](./294533-hack-6.json) |
+| Hack 7 | 306868 | [306868-hack-7.json](./306868-hack-7.json) |
 | Hack 8 | 367689 | [367689-hack-8.json](./367689-hack-8.json) |
 | Hack and Climb | 332284 | [332284-hack-and-climb.json](./332284-hack-and-climb.json) |
 | Hack and Slash Fury | 329207 | [329207-hack-and-slash-fury.json](./329207-hack-and-slash-fury.json) |
@@ -3139,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Chain Kitty: All Screwed Up | 261969 | [261969-heart-chain-kitty-all-screwed-up.json](./261969-heart-chain-kitty-all-screwed-up.json) |
 | Heart Clicker | 304868 | [304868-heart-clicker.json](./304868-heart-clicker.json) |
 | Heart de Roommate | 84234 | [84234-heart-de-roommate.json](./84234-heart-de-roommate.json) |
+| Heart Dungeon | 306878 | [306878-heart-dungeon.json](./306878-heart-dungeon.json) |
 | Heart Electric | 328329 | [328329-heart-electric.json](./328329-heart-electric.json) |
 | Heart Flipper: A House Flipper Dating Sim | 381165 | [381165-heart-flipper-a-house-flipper-dating-sim.json](./381165-heart-flipper-a-house-flipper-dating-sim.json) |
 | Heart Fragment | 131599 | [131599-heart-fragment.json](./131599-heart-fragment.json) |
