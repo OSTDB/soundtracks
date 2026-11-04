@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Light | 126589 | [126589-vector-light.json](./126589-vector-light.json) |
 | Vector Madness | 62167 | [62167-vector-madness.json](./62167-vector-madness.json) |
 | Vector Pinball | 207825 | [207825-vector-pinball.json](./207825-vector-pinball.json) |
+| Vector Pong | 311944 | [311944-vector-pong.json](./311944-vector-pong.json) |
 | Vector Prospector | 141144 | [141144-vector-prospector.json](./141144-vector-prospector.json) |
 | Vector Race | 164900 | [164900-vector-race.json](./164900-vector-race.json) |
 | Vector Racing | 64690 | [64690-vector-racing.json](./64690-vector-racing.json) |
@@ -1689,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vexbox | 345249 | [345249-vexbox.json](./345249-vexbox.json) |
 | Vexbox | 351643 | [351643-vexbox.json](./351643-vexbox.json) |
 | Vexcell | 357715 | [357715-vexcell.json](./357715-vexcell.json) |
+| Vexed | 311947 | [311947-vexed.json](./311947-vexed.json) |
 | Vexed Heroes | 261419 | [261419-vexed-heroes.json](./261419-vexed-heroes.json) |
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
 | Vexlands | 249036 | [249036-vexlands.json](./249036-vexlands.json) |
