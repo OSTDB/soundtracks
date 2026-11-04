@@ -12667,6 +12667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RXC | 192185 | [192185-rxc.json](./192185-rxc.json) |
 | Rxcovery | 83358 | [83358-rxcovery.json](./83358-rxcovery.json) |
 | RXN: Raijin | 77386 | [77386-rxn-raijin.json](./77386-rxn-raijin.json) |
+| Ryahs Rhythm | 327534 | [327534-ryahs-rhythm.json](./327534-ryahs-rhythm.json) |
 | Ryan Black | 30123 | [30123-ryan-black.json](./30123-ryan-black.json) |
 | Ryan Marks Revenge Mission | 136821 | [136821-ryan-marks-revenge-mission.json](./136821-ryan-marks-revenge-mission.json) |
 | Ryan Veeder's Authentic Fly Fishing | 216330 | [216330-ryan-veeders-authentic-fly-fishing.json](./216330-ryan-veeders-authentic-fly-fishing.json) |
