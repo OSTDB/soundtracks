@@ -935,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5026,6 +5027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Racer | 104989 | [104989-beat-racer.json](./104989-beat-racer.json) |
 | Beat Reality | 166924 | [166924-beat-reality.json](./166924-beat-reality.json) |
 | Beat Refle | 209689 | [209689-beat-refle.json](./209689-beat-refle.json) |
+| Beat Reversed | 341256 | [341256-beat-reversed.json](./341256-beat-reversed.json) |
 | Beat Rhythm Fever | 350608 | [350608-beat-rhythm-fever.json](./350608-beat-rhythm-fever.json) |
 | Beat Runner | 184788 | [184788-beat-runner.json](./184788-beat-runner.json) |
 | Beat Rush | 105409 | [105409-beat-rush.json](./105409-beat-rush.json) |
@@ -7707,6 +7709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bing in Wonderland: Wings & Weapon Looks - White Tiger | 325442 | [325442-bing-in-wonderland-wings-and-weapon-looks-white-tiger.json](./325442-bing-in-wonderland-wings-and-weapon-looks-white-tiger.json) |
 | Bingaboll | 259862 | [259862-bingaboll.json](./259862-bingaboll.json) |
 | Binger Ninja | 157353 | [157353-binger-ninja.json](./157353-binger-ninja.json) |
+| BingeWatcher | 341270 | [341270-bingewatcher.json](./341270-bingewatcher.json) |
 | Bingiman: Trap Ochido | 189130 | [189130-bingiman-trap-ochido.json](./189130-bingiman-trap-ochido.json) |
 | Bingle Bingle | 283995 | [283995-bingle-bingle.json](./283995-bingle-bingle.json) |
 | Bingo | 206142 | [206142-bingo.json](./206142-bingo.json) |
@@ -9470,6 +9473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasto | 377825 | [377825-blasto.json](./377825-blasto.json) |
 | Blasto | 40030 | [40030-blasto.json](./40030-blasto.json) |
 | Blasto | 86213 | [86213-blasto.json](./86213-blasto.json) |
+| Blasto X | 341386 | [341386-blasto-x.json](./341386-blasto-x.json) |
 | Blastocitos | 192205 | [192205-blastocitos.json](./192205-blastocitos.json) |
 | Blastoids | 394380 | [394380-blastoids.json](./394380-blastoids.json) |
 | Blastomancer: The Puzzle Game | 188267 | [188267-blastomancer-the-puzzle-game.json](./188267-blastomancer-the-puzzle-game.json) |
