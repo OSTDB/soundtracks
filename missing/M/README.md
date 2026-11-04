@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Animal Farm | 366423 | [366423-magical-animal-farm.json](./366423-magical-animal-farm.json) |
 | Magical Atelier | 195452 | [195452-magical-atelier.json](./195452-magical-atelier.json) |
 | Magical Backpack | 328977 | [328977-magical-backpack.json](./328977-magical-backpack.json) |
+| Magical Bakery | 305078 | [305078-magical-bakery.json](./305078-magical-bakery.json) |
 | Magical Bakery: Deluxe Edition | 320442 | [320442-magical-bakery-deluxe-edition.json](./320442-magical-bakery-deluxe-edition.json) |
 | Magical Battle Arena | 145447 | [145447-magical-battle-arena.json](./145447-magical-battle-arena.json) |
 | Magical Battle Arena Next | 144729 | [144729-magical-battle-arena-next.json](./144729-magical-battle-arena-next.json) |
@@ -8571,6 +8572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Challenge! | 89676 | [89676-memory-challenge.json](./89676-memory-challenge.json) |
 | Memory Chase | 243811 | [243811-memory-chase.json](./243811-memory-chase.json) |
 | Memory Chip | 379697 | [379697-memory-chip.json](./379697-memory-chip.json) |
+| Memory Clash | 305105 | [305105-memory-clash.json](./305105-memory-clash.json) |
 | Memory Collectors | 352761 | [352761-memory-collectors.json](./352761-memory-collectors.json) |
 | Memory Color! | 252145 | [252145-memory-color.json](./252145-memory-color.json) |
 | Memory Concentration | 98747 | [98747-memory-concentration.json](./98747-memory-concentration.json) |
@@ -11924,6 +11926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Bundles of Bravery | 318248 | [318248-minecraft-bundles-of-bravery.json](./318248-minecraft-bundles-of-bravery.json) |
 | Minecraft: Buzzy Bees | 221926 | [221926-minecraft-buzzy-bees.json](./221926-minecraft-buzzy-bees.json) |
 | Minecraft: Buzzy Bees | 353183 | [353183-minecraft-buzzy-bees.json](./353183-minecraft-buzzy-bees.json) |
+| Minecraft: Camp Enderwood | 305073 | [305073-minecraft-camp-enderwood.json](./305073-minecraft-camp-enderwood.json) |
 | Minecraft: Cartoon Mobs HD Skin Pack | 324891 | [324891-minecraft-cartoon-mobs-hd-skin-pack.json](./324891-minecraft-cartoon-mobs-hd-skin-pack.json) |
 | Minecraft: Caves & Cliffs - Part II | 222606 | [222606-minecraft-caves-and-cliffs-part-ii.json](./222606-minecraft-caves-and-cliffs-part-ii.json) |
 | Minecraft: Caves & Cliffs - Part II | 223159 | [223159-minecraft-caves-and-cliffs-part-ii.json](./223159-minecraft-caves-and-cliffs-part-ii.json) |
@@ -16652,6 +16655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: Mavado Kameo | 278618 | [278618-mortal-kombat-1-mavado-kameo.json](./278618-mortal-kombat-1-mavado-kameo.json) |
 | Mortal Kombat 1: Noob Saibot | 312334 | [312334-mortal-kombat-1-noob-saibot.json](./312334-mortal-kombat-1-noob-saibot.json) |
 | Mortal Kombat 1: Omni-Man | 266209 | [266209-mortal-kombat-1-omni-man.json](./266209-mortal-kombat-1-omni-man.json) |
+| Mortal Kombat 1: One-Time Dragon Pack | 305091 | [305091-mortal-kombat-1-one-time-dragon-pack.json](./305091-mortal-kombat-1-one-time-dragon-pack.json) |
 | Mortal Kombat 1: Peacemaker | 266213 | [266213-mortal-kombat-1-peacemaker.json](./266213-mortal-kombat-1-peacemaker.json) |
 | Mortal Kombat 1: Premium Edition | 250148 | [250148-mortal-kombat-1-premium-edition.json](./250148-mortal-kombat-1-premium-edition.json) |
 | Mortal Kombat 1: Quan Chi | 266211 | [266211-mortal-kombat-1-quan-chi.json](./266211-mortal-kombat-1-quan-chi.json) |
@@ -17999,6 +18003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Fish | 239110 | [239110-mr-fish.json](./239110-mr-fish.json) |
 | Mr. Fishbones | 185118 | [185118-mr-fishbones.json](./185118-mr-fishbones.json) |
 | Mr. Flesh Flam | 389668 | [389668-mr-flesh-flam.json](./389668-mr-flesh-flam.json) |
+| Mr. Flip | 305113 | [305113-mr-flip.json](./305113-mr-flip.json) |
 | Mr. Fluffykins' Great Sorting Adventure | 97707 | [97707-mr-fluffykins-great-sorting-adventure.json](./97707-mr-fluffykins-great-sorting-adventure.json) |
 | Mr. Friendly | 131754 | [131754-mr-friendly.json](./131754-mr-friendly.json) |
 | Mr. Gimmick | 6546 | [6546-mr-gimmick.json](./6546-mr-gimmick.json) |
@@ -21479,6 +21484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythlands: Dragon Racing | 107084 | [107084-mythlands-dragon-racing.json](./107084-mythlands-dragon-racing.json) |
 | Mythlands: Flappy Dragon | 164220 | [164220-mythlands-flappy-dragon.json](./164220-mythlands-flappy-dragon.json) |
 | Mythlink | 28881 | [28881-mythlink.json](./28881-mythlink.json) |
+| Mythmatch | 305072 | [305072-mythmatch.json](./305072-mythmatch.json) |
 | Mythmon: Mythic Monsters | 416370 | [416370-mythmon-mythic-monsters.json](./416370-mythmon-mythic-monsters.json) |
 | Mytho Duel | 320042 | [320042-mytho-duel.json](./320042-mytho-duel.json) |
 | Mythokyn Nightfall | 371278 | [371278-mythokyn-nightfall.json](./371278-mythokyn-nightfall.json) |
