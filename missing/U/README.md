@@ -2021,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unforgotten: Ordinance | 276816 | [276816-unforgotten-ordinance.json](./276816-unforgotten-ordinance.json) |
 | Unformed | 129015 | [129015-unformed.json](./129015-unformed.json) |
 | Unforsaken | 396743 | [396743-unforsaken.json](./396743-unforsaken.json) |
+| Unfortunate Leaders | 346340 | [346340-unfortunate-leaders.json](./346340-unfortunate-leaders.json) |
 | Unfortunate Spacemen | 34300 | [34300-unfortunate-spacemen.json](./34300-unfortunate-spacemen.json) |
 | Unfortunate Tales of Violet | 248011 | [248011-unfortunate-tales-of-violet.json](./248011-unfortunate-tales-of-violet.json) |
 | UnFound | 132471 | [132471-unfound.json](./132471-unfound.json) |
