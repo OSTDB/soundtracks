@@ -6174,6 +6174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Lining | 320059 | [320059-gold-lining.json](./320059-gold-lining.json) |
 | Gold Magic 800 | 109897 | [109897-gold-magic-800.json](./109897-gold-magic-800.json) |
 | Gold Mine | 92929 | [92929-gold-mine.json](./92929-gold-mine.json) |
+| Gold Mine Dash | 311450 | [311450-gold-mine-dash.json](./311450-gold-mine-dash.json) |
 | Gold Miner | 173064 | [173064-gold-miner.json](./173064-gold-miner.json) |
 | Gold Miner | 194800 | [194800-gold-miner.json](./194800-gold-miner.json) |
 | Gold Miner | 393092 | [393092-gold-miner.json](./393092-gold-miner.json) |
