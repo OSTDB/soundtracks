@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Jazz Jackrabbit Doom | 196004 | [196004-ultimate-jazz-jackrabbit-doom.json](./196004-ultimate-jazz-jackrabbit-doom.json) |
 | Ultimate Jello Party | 306922 | [306922-ultimate-jello-party.json](./306922-ultimate-jello-party.json) |
 | Ultimate Jewel | 242209 | [242209-ultimate-jewel.json](./242209-ultimate-jewel.json) |
+| Ultimate Jigsaw Pack | 335618 | [335618-ultimate-jigsaw-pack.json](./335618-ultimate-jigsaw-pack.json) |
 | Ultimate Jigsaw Puzzle Challenge | 293061 | [293061-ultimate-jigsaw-puzzle-challenge.json](./293061-ultimate-jigsaw-puzzle-challenge.json) |
 | Ultimate Jigsaw Puzzle Collection | 271867 | [271867-ultimate-jigsaw-puzzle-collection.json](./271867-ultimate-jigsaw-puzzle-collection.json) |
 | Ultimate JOI | 379331 | [379331-ultimate-joi.json](./379331-ultimate-joi.json) |
