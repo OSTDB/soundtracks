@@ -5107,6 +5107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selection Process | 152595 | [152595-selection-process.json](./152595-selection-process.json) |
 | Selective Memory | 393233 | [393233-selective-memory.json](./393233-selective-memory.json) |
 | Selena's Charm 2: Enchanted Garden | 417511 | [417511-selenas-charm-2-enchanted-garden.json](./417511-selenas-charm-2-enchanted-garden.json) |
+| Selenaut Quest | 306293 | [306293-selenaut-quest.json](./306293-selenaut-quest.json) |
 | Selene | 337167 | [337167-selene.json](./337167-selene.json) |
 | Selene: Apoptosis | 139705 | [139705-selene-apoptosis.json](./139705-selene-apoptosis.json) |
 | Selene: Apoptosis - 18+ Adult Only Patch | 263438 | [263438-selene-apoptosis-18-adult-only-patch.json](./263438-selene-apoptosis-18-adult-only-patch.json) |
@@ -8698,6 +8699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi: Japanese Chess | 221357 | [221357-shogi-japanese-chess.json](./221357-shogi-japanese-chess.json) |
 | Shogo: Mobile Armor Division | 12464 | [12464-shogo-mobile-armor-division.json](./12464-shogo-mobile-armor-division.json) |
 | Shogun | 298095 | [298095-shogun.json](./298095-shogun.json) |
+| Shogun | 306534 | [306534-shogun.json](./306534-shogun.json) |
 | Shogun | 400720 | [400720-shogun.json](./400720-shogun.json) |
 | Shogun Castle | 336590 | [336590-shogun-castle.json](./336590-shogun-castle.json) |
 | Shogun Curse | 289779 | [289779-shogun-curse.json](./289779-shogun-curse.json) |
@@ -24902,6 +24904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Startup Company: Console Edition | 228020 | [228020-startup-company-console-edition.json](./228020-startup-company-console-edition.json) |
 | Startup Freak | 74369 | [74369-startup-freak.json](./74369-startup-freak.json) |
 | Startup Grave | 194169 | [194169-startup-grave.json](./194169-startup-grave.json) |
+| Startup Quest Bakery | 306288 | [306288-startup-quest-bakery.json](./306288-startup-quest-bakery.json) |
 | Startup Trail | 373260 | [373260-startup-trail.json](./373260-startup-trail.json) |
 | StartUp! Gym | 221362 | [221362-startup-gym.json](./221362-startup-gym.json) |
 | Starva Saga | 391184 | [391184-starva-saga.json](./391184-starva-saga.json) |
@@ -25210,6 +25213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Revolution: The Age of Rail | 392075 | [392075-steam-revolution-the-age-of-rail.json](./392075-steam-revolution-the-age-of-rail.json) |
 | Steam Sky | 223312 | [223312-steam-sky.json](./223312-steam-sky.json) |
 | Steam Slug | 51262 | [51262-steam-slug.json](./51262-steam-slug.json) |
+| Steam Spire Chronicles | 306263 | [306263-steam-spire-chronicles.json](./306263-steam-spire-chronicles.json) |
 | Steam Squad | 36354 | [36354-steam-squad.json](./36354-steam-squad.json) |
 | Steam Tactics | 61606 | [61606-steam-tactics.json](./61606-steam-tactics.json) |
 | Steam Train Simulator | 328089 | [328089-steam-train-simulator.json](./328089-steam-train-simulator.json) |
@@ -33982,6 +33986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Night Club | 339447 | [339447-sweet-night-club.json](./339447-sweet-night-club.json) |
 | Sweet Office | 212191 | [212191-sweet-office.json](./212191-sweet-office.json) |
 | Sweet Office | 343597 | [343597-sweet-office.json](./343597-sweet-office.json) |
+| Sweet Office 2 | 306303 | [306303-sweet-office-2.json](./306303-sweet-office-2.json) |
 | Sweet Orgasm | 418840 | [418840-sweet-orgasm.json](./418840-sweet-orgasm.json) |
 | Sweet Pensiveness Christmas | 176257 | [176257-sweet-pensiveness-christmas.json](./176257-sweet-pensiveness-christmas.json) |
 | Sweet Pet | 392913 | [392913-sweet-pet.json](./392913-sweet-pet.json) |
