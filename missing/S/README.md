@@ -1218,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samsara | 163763 | [163763-samsara.json](./163763-samsara.json) |
 | Samsara | 192957 | [192957-samsara.json](./192957-samsara.json) |
 | Samsara | 249503 | [249503-samsara.json](./249503-samsara.json) |
+| Samsara | 312790 | [312790-samsara.json](./312790-samsara.json) |
 | Samsara | 76641 | [76641-samsara.json](./76641-samsara.json) |
 | Samsara Agent | 267779 | [267779-samsara-agent.json](./267779-samsara-agent.json) |
 | Samsara Room | 300426 | [300426-samsara-room.json](./300426-samsara-room.json) |
@@ -3547,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screams from the Past | 256731 | [256731-screams-from-the-past.json](./256731-screams-from-the-past.json) |
 | Screamy Ski | 56286 | [56286-screamy-ski.json](./56286-screamy-ski.json) |
 | Scree | 236371 | [236371-scree.json](./236371-scree.json) |
+| Screech | 312788 | [312788-screech.json](./312788-screech.json) |
 | Screech of Steel: Gladiators | 216932 | [216932-screech-of-steel-gladiators.json](./216932-screech-of-steel-gladiators.json) |
 | ScreeIn | 350174 | [350174-screein.json](./350174-screein.json) |
 | Screen | 300716 | [300716-screen.json](./300716-screen.json) |
@@ -4272,6 +4274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Person Shooter Zato | 62589 | [62589-second-person-shooter-zato.json](./62589-second-person-shooter-zato.json) |
 | Second Person: Secret Laboratory | 158657 | [158657-second-person-secret-laboratory.json](./158657-second-person-secret-laboratory.json) |
 | Second Puberty | 176923 | [176923-second-puberty.json](./176923-second-puberty.json) |
+| Second Rate Superheroes | 312803 | [312803-second-rate-superheroes.json](./312803-second-rate-superheroes.json) |
 | Second Room | 302577 | [302577-second-room.json](./302577-second-room.json) |
 | Second Saga | 392251 | [392251-second-saga.json](./392251-second-saga.json) |
 | Second Samurai | 4422 | [4422-second-samurai.json](./4422-second-samurai.json) |
@@ -27068,6 +27071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streatham Hill Stories | 346467 | [346467-streatham-hill-stories.json](./346467-streatham-hill-stories.json) |
 | Strect | 413725 | [413725-strect.json](./413725-strect.json) |
 | Streemerz | 62522 | [62522-streemerz.json](./62522-streemerz.json) |
+| Streep | 312785 | [312785-streep.json](./312785-streep.json) |
 | Street & Girls | 382285 | [382285-street-and-girls.json](./382285-street-and-girls.json) |
 | Street 42 | 371133 | [371133-street-42.json](./371133-street-42.json) |
 | Street Air Hockey | 175185 | [175185-street-air-hockey.json](./175185-street-air-hockey.json) |
@@ -30881,6 +30885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Flash 2 | 183605 | [183605-super-mario-flash-2.json](./183605-super-mario-flash-2.json) |
 | Super Mario Flash 2: SMW Remake | 198502 | [198502-super-mario-flash-2-smw-remake.json](./198502-super-mario-flash-2-smw-remake.json) |
 | Super Mario Flashback | 134075 | [134075-super-mario-flashback.json](./134075-super-mario-flashback.json) |
+| Super Mario Forever | 312809 | [312809-super-mario-forever.json](./312809-super-mario-forever.json) |
 | Super Mario Freezeflame Nightmare | 314100 | [314100-super-mario-freezeflame-nightmare.json](./314100-super-mario-freezeflame-nightmare.json) |
 | Super Mario Funny RPG | 307713 | [307713-super-mario-funny-rpg.json](./307713-super-mario-funny-rpg.json) |
 | Super Mario Fusion: Revival | 322786 | [322786-super-mario-fusion-revival.json](./322786-super-mario-fusion-revival.json) |
