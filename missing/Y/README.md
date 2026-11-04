@@ -1000,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You and Not You | 134281 | [134281-you-and-not-you.json](./134281-you-and-not-you.json) |
 | You Are 100k Light Years Away | 252933 | [252933-you-are-100k-light-years-away.json](./252933-you-are-100k-light-years-away.json) |
 | You Are A Bird | 130147 | [130147-you-are-a-bird.json](./130147-you-are-a-bird.json) |
+| You Are A Chat AI | 303124 | [303124-you-are-a-chat-ai.json](./303124-you-are-a-chat-ai.json) |
 | You Are a Failed Murderer | 338337 | [338337-you-are-a-failed-murderer.json](./338337-you-are-a-failed-murderer.json) |
 | You Are A Pilot | 189148 | [189148-you-are-a-pilot.json](./189148-you-are-a-pilot.json) |
 | You are a skeleton | 178482 | [178482-you-are-a-skeleton.json](./178482-you-are-a-skeleton.json) |
