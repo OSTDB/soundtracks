@@ -1672,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AAA Clock: Extreme Amazing Edition | 328743 | [328743-aaa-clock-extreme-amazing-edition.json](./328743-aaa-clock-extreme-amazing-edition.json) |
 | AAA Clock: Extreme Magnificent Edition | 328744 | [328744-aaa-clock-extreme-magnificent-edition.json](./328744-aaa-clock-extreme-magnificent-edition.json) |
 | AAA Clock: Extreme Premium | 304762 | [304762-aaa-clock-extreme-premium.json](./304762-aaa-clock-extreme-premium.json) |
+| AAA Dynamic Scenes | 326907 | [326907-aaa-dynamic-scenes.json](./326907-aaa-dynamic-scenes.json) |
 | AAA Games Ultimate Collection | 385160 | [385160-aaa-games-ultimate-collection.json](./385160-aaa-games-ultimate-collection.json) |
 | AAA Simulator | 325878 | [325878-aaa-simulator.json](./325878-aaa-simulator.json) |
 | Aaaaaaaaaaaaaaaaaaaaaaaa!!! Remastered | 219696 | [219696-aaaaaaaaaaaaaaaaaaaaaaaa-remastered.json](./219696-aaaaaaaaaaaaaaaaaaaaaaaa-remastered.json) |
@@ -10502,6 +10503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anshar Online | 119941 | [119941-anshar-online.json](./119941-anshar-online.json) |
 | AnShi | 132740 | [132740-anshi.json](./132740-anshi.json) |
 | Ansible | 111528 | [111528-ansible.json](./111528-ansible.json) |
+| Ansiolisis | 327065 | [327065-ansiolisis.json](./327065-ansiolisis.json) |
 | Ansoku | 236421 | [236421-ansoku.json](./236421-ansoku.json) |
 | Anstorm | 111214 | [111214-anstorm.json](./111214-anstorm.json) |
 | Anstoss | 37126 | [37126-anstoss.json](./37126-anstoss.json) |
@@ -11644,6 +11646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arac | 13804 | [13804-arac.json](./13804-arac.json) |
 | Arachnaut | 415845 | [415845-arachnaut.json](./415845-arachnaut.json) |
 | Arachne | 184245 | [184245-arachne.json](./184245-arachne.json) |
+| Arachne's Stone | 326913 | [326913-arachnes-stone.json](./326913-arachnes-stone.json) |
 | Arachnid | 83489 | [83489-arachnid.json](./83489-arachnid.json) |
 | Arachnid Wars | 385934 | [385934-arachnid-wars.json](./385934-arachnid-wars.json) |
 | Arachnid Wars 1.5 | 385935 | [385935-arachnid-wars-1-5.json](./385935-arachnid-wars-1-5.json) |
@@ -15227,6 +15230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Blitz | 321280 | [321280-astral-blitz.json](./321280-astral-blitz.json) |
 | Astral Blitz | 390093 | [390093-astral-blitz.json](./390093-astral-blitz.json) |
 | Astral Bounty | 415830 | [415830-astral-bounty.json](./415830-astral-bounty.json) |
+| Astral Break | 326916 | [326916-astral-break.json](./326916-astral-break.json) |
 | Astral Breakers | 19953 | [19953-astral-breakers.json](./19953-astral-breakers.json) |
 | Astral Chain | 115283 | [115283-astral-chain.json](./115283-astral-chain.json) |
 | Astral Chain: Collector's Edition | 136273 | [136273-astral-chain-collectors-edition.json](./136273-astral-chain-collectors-edition.json) |
