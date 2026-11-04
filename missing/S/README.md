@@ -22503,6 +22503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squarism | 75636 | [75636-squarism.json](./75636-squarism.json) |
 | Squaser | 340174 | [340174-squaser.json](./340174-squaser.json) |
 | Squaser 2 | 340173 | [340173-squaser-2.json](./340173-squaser-2.json) |
+| Squaser 3 | 329456 | [329456-squaser-3.json](./329456-squaser-3.json) |
 | Squaser 4 | 340172 | [340172-squaser-4.json](./340172-squaser-4.json) |
 | Squaser 5 | 368210 | [368210-squaser-5.json](./368210-squaser-5.json) |
 | Squaser 6 | 368490 | [368490-squaser-6.json](./368490-squaser-6.json) |
@@ -23791,6 +23792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Original Trilogy Game | 220266 | [220266-star-wars-original-trilogy-game.json](./220266-star-wars-original-trilogy-game.json) |
 | Star Wars: Outpost | 75087 | [75087-star-wars-outpost.json](./75087-star-wars-outpost.json) |
 | Star Wars: Pit Droids | 13483 | [13483-star-wars-pit-droids.json](./13483-star-wars-pit-droids.json) |
+| Star Wars: Prequel Pack | 329449 | [329449-star-wars-prequel-pack.json](./329449-star-wars-prequel-pack.json) |
 | Star Wars: Project Stardust | 137006 | [137006-star-wars-project-stardust.json](./137006-star-wars-project-stardust.json) |
 | Star Wars: Puzzle Droids | 97355 | [97355-star-wars-puzzle-droids.json](./97355-star-wars-puzzle-droids.json) |
 | Star Wars: Racer Arcade | 67944 | [67944-star-wars-racer-arcade.json](./67944-star-wars-racer-arcade.json) |
