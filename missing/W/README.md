@@ -4476,6 +4476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White House | 409237 | [409237-white-house.json](./409237-white-house.json) |
 | White Iris | 419851 | [419851-white-iris.json](./419851-white-iris.json) |
 | White Island | 123398 | [123398-white-island.json](./123398-white-island.json) |
+| White Island | 301484 | [301484-white-island.json](./301484-white-island.json) |
 | White Knight Chronicles | 7482 | [7482-white-knight-chronicles.json](./7482-white-knight-chronicles.json) |
 | White Knight Chronicles II | 314050 | [314050-white-knight-chronicles-ii.json](./314050-white-knight-chronicles-ii.json) |
 | White Knight Chronicles II | 7483 | [7483-white-knight-chronicles-ii.json](./7483-white-knight-chronicles-ii.json) |
@@ -5862,6 +5863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Ski Park: Snow Driver | 96611 | [96611-winter-ski-park-snow-driver.json](./96611-winter-ski-park-snow-driver.json) |
 | Winter Sleigh | 150349 | [150349-winter-sleigh.json](./150349-winter-sleigh.json) |
 | Winter Solitaire | 115525 | [115525-winter-solitaire.json](./115525-winter-solitaire.json) |
+| Winter Sports | 301449 | [301449-winter-sports.json](./301449-winter-sports.json) |
 | Winter Sports 2: The Next Challenge | 5285 | [5285-winter-sports-2-the-next-challenge.json](./5285-winter-sports-2-the-next-challenge.json) |
 | Winter Sports 2010: The Great Tournament | 21089 | [21089-winter-sports-2010-the-great-tournament.json](./21089-winter-sports-2010-the-great-tournament.json) |
 | Winter Sports 2011: Go for Gold | 27645 | [27645-winter-sports-2011-go-for-gold.json](./27645-winter-sports-2011-go-for-gold.json) |
@@ -7448,6 +7450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordCrasher | 87702 | [87702-wordcrasher.json](./87702-wordcrasher.json) |
 | Worddate | 202045 | [202045-worddate.json](./202045-worddate.json) |
 | Wordding | 173964 | [173964-wordding.json](./173964-wordding.json) |
+| WordDrag | 301477 | [301477-worddrag.json](./301477-worddrag.json) |
 | Wordeal | 183811 | [183811-wordeal.json](./183811-wordeal.json) |
 | Worded! | 233051 | [233051-worded.json](./233051-worded.json) |
 | Wordeous | 141694 | [141694-wordeous.json](./141694-wordeous.json) |
