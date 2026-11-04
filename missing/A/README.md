@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Factory Roguelike | 379570 | [379570-a-factory-roguelike.json](./379570-a-factory-roguelike.json) |
 | A Fading Melody | 68650 | [68650-a-fading-melody.json](./68650-a-fading-melody.json) |
 | A Faerie's Tale | 299783 | [299783-a-faeries-tale.json](./299783-a-faeries-tale.json) |
+| A Fairy Tale | 300035 | [300035-a-fairy-tale.json](./300035-a-fairy-tale.json) |
 | A Fairy Tale | 84729 | [84729-a-fairy-tale.json](./84729-a-fairy-tale.json) |
 | A Fairy Tale of Lotus | 142977 | [142977-a-fairy-tale-of-lotus.json](./142977-a-fairy-tale-of-lotus.json) |
 | A False Saint, An Honest Rogue | 56937 | [56937-a-false-saint-an-honest-rogue.json](./56937-a-false-saint-an-honest-rogue.json) |
@@ -1049,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Robot's Tiny Adventure | 329329 | [329329-a-robots-tiny-adventure.json](./329329-a-robots-tiny-adventure.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
 | A Rogue Escape | 142376 | [142376-a-rogue-escape.json](./142376-a-rogue-escape.json) |
+| A Romantic Murder | 299680 | [299680-a-romantic-murder.json](./299680-a-romantic-murder.json) |
 | A Room Beyond | 33421 | [33421-a-room-beyond.json](./33421-a-room-beyond.json) |
 | A Room With a Ghost Girl | 306426 | [306426-a-room-with-a-ghost-girl.json](./306426-a-room-with-a-ghost-girl.json) |
 | A Room Without You In It | 165503 | [165503-a-room-without-you-in-it.json](./165503-a-room-without-you-in-it.json) |
@@ -1339,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A tractor | 105073 | [105073-a-tractor.json](./105073-a-tractor.json) |
 | A Trail of Ooze: Chapter 1 | 174094 | [174094-a-trail-of-ooze-chapter-1.json](./174094-a-trail-of-ooze-chapter-1.json) |
 | A Train Full of Money | 177769 | [177769-a-train-full-of-money.json](./177769-a-train-full-of-money.json) |
+| A Train Mystery | 299682 | [299682-a-train-mystery.json](./299682-a-train-mystery.json) |
 | A Trans Man's Grindr DMs | 282106 | [282106-a-trans-mans-grindr-dms.json](./282106-a-trans-mans-grindr-dms.json) |
 | A Transitional Eve | 397044 | [397044-a-transitional-eve.json](./397044-a-transitional-eve.json) |
 | A Traveler's Photo Album | 155301 | [155301-a-travelers-photo-album.json](./155301-a-travelers-photo-album.json) |
@@ -2437,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AccuRC 2 | 90621 | [90621-accurc-2.json](./90621-accurc-2.json) |
 | Accursed | 203864 | [203864-accursed.json](./203864-accursed.json) |
 | Accursed Isle: Survival | 358060 | [358060-accursed-isle-survival.json](./358060-accursed-isle-survival.json) |
+| Accuser | 299678 | [299678-accuser.json](./299678-accuser.json) |
 | Accuwar | 76632 | [76632-accuwar.json](./76632-accuwar.json) |
 | Ace | 249277 | [249277-ace.json](./249277-ace.json) |
 | Ace | 301591 | [301591-ace.json](./301591-ace.json) |
@@ -2787,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across Icaria | 337794 | [337794-across-icaria.json](./337794-across-icaria.json) |
 | Across Killzone | 150896 | [150896-across-killzone.json](./150896-across-killzone.json) |
 | Across Kiloparsecs | 259022 | [259022-across-kiloparsecs.json](./259022-across-kiloparsecs.json) |
+| Across the Abyss: Voidborn | 300220 | [300220-across-the-abyss-voidborn.json](./300220-across-the-abyss-voidborn.json) |
 | Across the demon realm | 150546 | [150546-across-the-demon-realm.json](./150546-across-the-demon-realm.json) |
 | Across the Distant Skies | 337844 | [337844-across-the-distant-skies.json](./337844-across-the-distant-skies.json) |
 | Across the Galaxy: Infinite War | 216780 | [216780-across-the-galaxy-infinite-war.json](./216780-across-the-galaxy-infinite-war.json) |
@@ -6414,6 +6419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice no Yakata | 299797 | [299797-alice-no-yakata.json](./299797-alice-no-yakata.json) |
 | Alice no Yakata 3 | 299796 | [299796-alice-no-yakata-3.json](./299796-alice-no-yakata-3.json) |
 | Alice no Yakata II | 299798 | [299798-alice-no-yakata-ii.json](./299798-alice-no-yakata-ii.json) |
+| Alice Not More | 299679 | [299679-alice-not-more.json](./299679-alice-not-more.json) |
 | Alice on Delivery | 396708 | [396708-alice-on-delivery.json](./396708-alice-on-delivery.json) |
 | Alice Order | 219815 | [219815-alice-order.json](./219815-alice-order.json) |
 | Alice Running Adventures | 235044 | [235044-alice-running-adventures.json](./235044-alice-running-adventures.json) |
@@ -12450,6 +12456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadia Fallen | 126568 | [126568-arcadia-fallen.json](./126568-arcadia-fallen.json) |
 | Arcadia Fallen II | 293096 | [293096-arcadia-fallen-ii.json](./293096-arcadia-fallen-ii.json) |
 | Arcadia Fallen: Digital Deluxe | 401669 | [401669-arcadia-fallen-digital-deluxe.json](./401669-arcadia-fallen-digital-deluxe.json) |
+| Arcadia Files: Clyde | 299670 | [299670-arcadia-files-clyde.json](./299670-arcadia-files-clyde.json) |
 | Arcadia no Aoki Miko | 60752 | [60752-arcadia-no-aoki-miko.json](./60752-arcadia-no-aoki-miko.json) |
 | Arcadia Saga | 67189 | [67189-arcadia-saga.json](./67189-arcadia-saga.json) |
 | Arcadia VI | 267928 | [267928-arcadia-vi.json](./267928-arcadia-vi.json) |
@@ -14674,6 +14681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asonde Poker ga Tsuyoku Naru! Texas Hold 'Em | 144998 | [144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json](./144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json) |
 | Asonde Shogi ga Tsuyoku Naru! Ginsei Shogi DX | 83460 | [83460-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-dx.json](./83460-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-dx.json) |
 | Asonde Shogi ga Tsuyoku Naru!! Ginsei Shogi DS | 83443 | [83443-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-ds.json](./83443-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-ds.json) |
+| Asou Youichi no Jikenbo: Dochiraka ga Kanojo wo Koroshita | 299681 | [299681-asou-youichi-no-jikenbo-dochiraka-ga-kanojo-wo-koroshita.json](./299681-asou-youichi-no-jikenbo-dochiraka-ga-kanojo-wo-koroshita.json) |
 | Aspect | 112059 | [112059-aspect.json](./112059-aspect.json) |
 | Aspect Heroes | 277331 | [277331-aspect-heroes.json](./277331-aspect-heroes.json) |
 | Aspect of Daedalus | 275207 | [275207-aspect-of-daedalus.json](./275207-aspect-of-daedalus.json) |
@@ -15309,6 +15317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astoria: The Holders of Power Saga | 51427 | [51427-astoria-the-holders-of-power-saga.json](./51427-astoria-the-holders-of-power-saga.json) |
 | Astortion | 201520 | [201520-astortion.json](./201520-astortion.json) |
 | Astra | 148829 | [148829-astra.json](./148829-astra.json) |
+| Astra | 300055 | [300055-astra.json](./300055-astra.json) |
 | Astra and The New Constellation | 240119 | [240119-astra-and-the-new-constellation.json](./240119-astra-and-the-new-constellation.json) |
 | Astra Bestiary | 365968 | [365968-astra-bestiary.json](./365968-astra-bestiary.json) |
 | Astra Defender | 223311 | [223311-astra-defender.json](./223311-astra-defender.json) |
@@ -16157,6 +16166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
