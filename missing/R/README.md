@@ -5618,6 +5618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Respawnables Heroes | 149317 | [149317-respawnables-heroes.json](./149317-respawnables-heroes.json) |
 | Respawnables: Special Forces | 94784 | [94784-respawnables-special-forces.json](./94784-respawnables-special-forces.json) |
 | Respite | 179083 | [179083-respite.json](./179083-respite.json) |
+| Resplendent | 316560 | [316560-resplendent.json](./316560-resplendent.json) |
 | Responding | 128585 | [128585-responding.json](./128585-responding.json) |
 | Respublica | 126426 | [126426-respublica.json](./126426-respublica.json) |
 | ResQ | 45705 | [45705-resq.json](./45705-resq.json) |
@@ -12047,6 +12048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run! Bunny | 121363 | [121363-run-bunny.json](./121363-run-bunny.json) |
 | Run! Goddess | 338796 | [338796-run-goddess.json](./338796-run-goddess.json) |
 | Run! Run! Don't Die! | 329942 | [329942-run-run-dont-die.json](./329942-run-run-dont-die.json) |
+| Run! Run! Lancer: Fate/Stay Night - Heaven's Feel | 316879 | [316879-run-run-lancer-fate-stay-night-heavens-feel.json](./316879-run-run-lancer-fate-stay-night-heavens-feel.json) |
 | Run! Run! Run! | 356426 | [356426-run-run-run.json](./356426-run-run-run.json) |
 | Run!!! | 148492 | [148492-run.json](./148492-run.json) |
 | Run!!! | 87729 | [87729-run.json](./87729-run.json) |
