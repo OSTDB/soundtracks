@@ -939,7 +939,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4802,6 +4801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Miner | 315236 | [315236-bear-miner.json](./315236-bear-miner.json) |
 | Bear Party: Adventure | 132436 | [132436-bear-party-adventure.json](./132436-bear-party-adventure.json) |
 | Bear Shooter | 330487 | [330487-bear-shooter.json](./330487-bear-shooter.json) |
+| Bear Simulator: Ragnarok's Rise Survival | 324214 | [324214-bear-simulator-ragnaroks-rise-survival.json](./324214-bear-simulator-ragnaroks-rise-survival.json) |
 | Bear Soul | 152686 | [152686-bear-soul.json](./152686-bear-soul.json) |
 | Bear Stearns Bravo | 308154 | [308154-bear-stearns-bravo.json](./308154-bear-stearns-bravo.json) |
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
@@ -7031,6 +7031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bible Quizzer | 87142 | [87142-bible-quizzer.json](./87142-bible-quizzer.json) |
 | Bible Touchdown | 92614 | [92614-bible-touchdown.json](./92614-bible-touchdown.json) |
 | Bible Trivia | 278164 | [278164-bible-trivia.json](./278164-bible-trivia.json) |
+| Bible Trivia | 324234 | [324234-bible-trivia.json](./324234-bible-trivia.json) |
 | Bible Trivia | 77011 | [77011-bible-trivia.json](./77011-bible-trivia.json) |
 | Bible Trivia Extreme | 97197 | [97197-bible-trivia-extreme.json](./97197-bible-trivia-extreme.json) |
 | Bible Trivia Jumble | 100687 | [100687-bible-trivia-jumble.json](./100687-bible-trivia-jumble.json) |
@@ -7670,6 +7671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bimfli & His Time Travels: Egypt | 328557 | [328557-bimfli-and-his-time-travels-egypt.json](./328557-bimfli-and-his-time-travels-egypt.json) |
 | Bimfli & His Time Travels: Japan | 328556 | [328556-bimfli-and-his-time-travels-japan.json](./328556-bimfli-and-his-time-travels-japan.json) |
 | Bimfli & His Time Travels: Paris | 323692 | [323692-bimfli-and-his-time-travels-paris.json](./323692-bimfli-and-his-time-travels-paris.json) |
+| Bimfli & His Time Travels: Rome | 324218 | [324218-bimfli-and-his-time-travels-rome.json](./324218-bimfli-and-his-time-travels-rome.json) |
 | Bimfli and His Travels In Time: Greece | 328558 | [328558-bimfli-and-his-travels-in-time-greece.json](./328558-bimfli-and-his-travels-in-time-greece.json) |
 | BimiCraft: Beyond Earth | 412886 | [412886-bimicraft-beyond-earth.json](./412886-bimicraft-beyond-earth.json) |
 | Bimini Run | 4436 | [4436-bimini-run.json](./4436-bimini-run.json) |
@@ -16976,6 +16978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Sudoku | 126330 | [126330-bunny-sudoku.json](./126330-bunny-sudoku.json) |
 | Bunny Sword Master | 109043 | [109043-bunny-sword-master.json](./109043-bunny-sword-master.json) |
 | Bunny Swordmaster Story | 133954 | [133954-bunny-swordmaster-story.json](./133954-bunny-swordmaster-story.json) |
+| Bunny Zoo: Animal Battle Royale | 324213 | [324213-bunny-zoo-animal-battle-royale.json](./324213-bunny-zoo-animal-battle-royale.json) |
 | Bunny-girl with Golden Tummy | 296636 | [296636-bunny-girl-with-golden-tummy.json](./296636-bunny-girl-with-golden-tummy.json) |
 | Bunny's Flowers | 142422 | [142422-bunnys-flowers.json](./142422-bunnys-flowers.json) |
 | Bunny's Lie | 400863 | [400863-bunnys-lie.json](./400863-bunnys-lie.json) |
