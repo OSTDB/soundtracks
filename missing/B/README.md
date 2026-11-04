@@ -5866,6 +5866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Curtain | 342609 | [342609-behind-the-curtain.json](./342609-behind-the-curtain.json) |
 | Behind the Door | 55450 | [55450-behind-the-door.json](./55450-behind-the-door.json) |
 | Behind the Frame: The Finest Scenery - Deluxe Edition | 203690 | [203690-behind-the-frame-the-finest-scenery-deluxe-edition.json](./203690-behind-the-frame-the-finest-scenery-deluxe-edition.json) |
+| Behind the Frame: The Finest Scenery / The Star Named Eos | 341796 | [341796-behind-the-frame-the-finest-scenery-the-star-named-eos.json](./341796-behind-the-frame-the-finest-scenery-the-star-named-eos.json) |
 | Behind the Frame: The Finest Scenery VR | 244666 | [244666-behind-the-frame-the-finest-scenery-vr.json](./244666-behind-the-frame-the-finest-scenery-vr.json) |
 | Behind the Horizon | 164588 | [164588-behind-the-horizon.json](./164588-behind-the-horizon.json) |
 | Behind the Horizon: The Desert | 195239 | [195239-behind-the-horizon-the-desert.json](./195239-behind-the-horizon-the-desert.json) |
@@ -7938,6 +7939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: The Game | 3811 | [3811-bionicle-the-game.json](./3811-bionicle-the-game.json) |
 | Bionicle: The Legend of Mata Nui | 127645 | [127645-bionicle-the-legend-of-mata-nui.json](./127645-bionicle-the-legend-of-mata-nui.json) |
 | Bionicle: The Legend of Mata Nui Rebuilt | 341838 | [341838-bionicle-the-legend-of-mata-nui-rebuilt.json](./341838-bionicle-the-legend-of-mata-nui-rebuilt.json) |
+| Bionics: We Will Evolve | 341824 | [341824-bionics-we-will-evolve.json](./341824-bionics-we-will-evolve.json) |
 | Bionite: Origins | 34105 | [34105-bionite-origins.json](./34105-bionite-origins.json) |
 | BioOcean Fantasy | 196528 | [196528-bioocean-fantasy.json](./196528-bioocean-fantasy.json) |
 | Biophage | 316701 | [316701-biophage.json](./316701-biophage.json) |
@@ -11905,6 +11907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolek i Lolek: Tajemnicze Zamczysko | 218514 | [218514-bolek-i-lolek-tajemnicze-zamczysko.json](./218514-bolek-i-lolek-tajemnicze-zamczysko.json) |
 | Bolero | 331797 | [331797-bolero.json](./331797-bolero.json) |
 | Bolf | 125066 | [125066-bolf.json](./125066-bolf.json) |
+| Bolf: A Golfoxing Game | 341825 | [341825-bolf-a-golfoxing-game.json](./341825-bolf-a-golfoxing-game.json) |
 | BoliKa | 328072 | [328072-bolika.json](./328072-bolika.json) |
 | Bolix | 300382 | [300382-bolix.json](./300382-bolix.json) |
 | Boll Deluxe | 134084 | [134084-boll-deluxe.json](./134084-boll-deluxe.json) |
