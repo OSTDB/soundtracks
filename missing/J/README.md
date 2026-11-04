@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Set Sekiro | 401647 | [401647-jet-set-sekiro.json](./401647-jet-set-sekiro.json) |
 | Jet Set Solitaire | 354975 | [354975-jet-set-solitaire.json](./354975-jet-set-solitaire.json) |
 | Jet Set Speeders | 330958 | [330958-jet-set-speeders.json](./330958-jet-set-speeders.json) |
+| Jet Set Steamboat Willie | 300137 | [300137-jet-set-steamboat-willie.json](./300137-jet-set-steamboat-willie.json) |
 | Jet Set Willy | 8170 | [8170-jet-set-willy.json](./8170-jet-set-willy.json) |
 | Jet Set Willy II | 8171 | [8171-jet-set-willy-ii.json](./8171-jet-set-willy-ii.json) |
 | Jet Set Willy Stupid | 329996 | [329996-jet-set-willy-stupid.json](./329996-jet-set-willy-stupid.json) |
