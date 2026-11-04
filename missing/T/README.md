@@ -2631,7 +2631,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tattoo Design Studio: Fun Game | 89156 | [89156-tattoo-design-studio-fun-game.json](./89156-tattoo-design-studio-fun-game.json) |
 | Tattoo Mania | 77239 | [77239-tattoo-mania.json](./77239-tattoo-mania.json) |
 | Tattoo Punk | 146824 | [146824-tattoo-punk.json](./146824-tattoo-punk.json) |
+| Tattoo Removal Simulator | 326336 | [326336-tattoo-removal-simulator.json](./326336-tattoo-removal-simulator.json) |
 | Tattoo Shop Simulator | 382154 | [382154-tattoo-shop-simulator.json](./382154-tattoo-shop-simulator.json) |
+| Tattoo Studio Simulator | 326337 | [326337-tattoo-studio-simulator.json](./326337-tattoo-studio-simulator.json) |
 | Tattoo Studio Simulator | 371414 | [371414-tattoo-studio-simulator.json](./371414-tattoo-studio-simulator.json) |
 | Tattoo Tycoon | 312271 | [312271-tattoo-tycoon.json](./312271-tattoo-tycoon.json) |
 | Tattoon Master | 362978 | [362978-tattoon-master.json](./362978-tattoon-master.json) |
@@ -2846,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tea for the King | 238103 | [238103-tea-for-the-king.json](./238103-tea-for-the-king.json) |
 | Tea for the Soul | 386497 | [386497-tea-for-the-soul.json](./386497-tea-for-the-soul.json) |
 | Tea Garden Simulator | 139647 | [139647-tea-garden-simulator.json](./139647-tea-garden-simulator.json) |
+| Tea House Simulator | 326338 | [326338-tea-house-simulator.json](./326338-tea-house-simulator.json) |
 | Tea Society of a Witch | 72664 | [72664-tea-society-of-a-witch.json](./72664-tea-society-of-a-witch.json) |
 | Tea Time | 195964 | [195964-tea-time.json](./195964-tea-time.json) |
 | Tea Time | 359406 | [359406-tea-time.json](./359406-tea-time.json) |
@@ -3062,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Executive Tycoon | 17036 | [17036-tech-executive-tycoon.json](./17036-tech-executive-tycoon.json) |
 | Tech Glitch | 140949 | [140949-tech-glitch.json](./140949-tech-glitch.json) |
 | Tech Invaders TD | 219568 | [219568-tech-invaders-td.json](./219568-tech-invaders-td.json) |
+| Tech Market Simulator | 326339 | [326339-tech-market-simulator.json](./326339-tech-market-simulator.json) |
 | Tech Romancer | 227751 | [227751-tech-romancer.json](./227751-tech-romancer.json) |
 | Tech Romancer | 39313 | [39313-tech-romancer.json](./39313-tech-romancer.json) |
 | Tech Shop Simulator | 295762 | [295762-tech-shop-simulator.json](./295762-tech-shop-simulator.json) |
@@ -3132,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technuclear | 180812 | [180812-technuclear.json](./180812-technuclear.json) |
 | Techpack | 164189 | [164189-techpack.json](./164189-techpack.json) |
 | Techpack Adventure | 335752 | [335752-techpack-adventure.json](./335752-techpack-adventure.json) |
+| TechStop Simulator | 326340 | [326340-techstop-simulator.json](./326340-techstop-simulator.json) |
 | Techtonica | 194465 | [194465-techtonica.json](./194465-techtonica.json) |
 | TechWars | 47562 | [47562-techwars.json](./47562-techwars.json) |
 | Techwars Deathmatch | 96872 | [96872-techwars-deathmatch.json](./96872-techwars-deathmatch.json) |
@@ -16868,6 +16873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tavern In the Woods | 347191 | [347191-the-tavern-in-the-woods.json](./347191-the-tavern-in-the-woods.json) |
 | The Tavern of Magic | 86413 | [86413-the-tavern-of-magic.json](./86413-the-tavern-of-magic.json) |
 | The Tavern Online. | 214767 | [214767-the-tavern-online.json](./214767-the-tavern-online.json) |
+| The Tavern Tales: Medieval Simulator | 326341 | [326341-the-tavern-tales-medieval-simulator.json](./326341-the-tavern-tales-medieval-simulator.json) |
 | The Tawashi | 128416 | [128416-the-tawashi.json](./128416-the-tawashi.json) |
 | The Teacher Is My Mistress | 97770 | [97770-the-teacher-is-my-mistress.json](./97770-the-teacher-is-my-mistress.json) |
 | The Team Shell Hack | 314213 | [314213-the-team-shell-hack.json](./314213-the-team-shell-hack.json) |
@@ -19730,6 +19736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrice in a row | 133176 | [133176-thrice-in-a-row.json](./133176-thrice-in-a-row.json) |
 | Thrice in a row: A new adventure | 153529 | [153529-thrice-in-a-row-a-new-adventure.json](./153529-thrice-in-a-row-a-new-adventure.json) |
 | Thrice in a row: Last Adventure | 213419 | [213419-thrice-in-a-row-last-adventure.json](./213419-thrice-in-a-row-last-adventure.json) |
+| Thrift Store Simulator | 326328 | [326328-thrift-store-simulator.json](./326328-thrift-store-simulator.json) |
 | Thrift Store Story | 106920 | [106920-thrift-store-story.json](./106920-thrift-store-story.json) |
 | Thrift Store Treasure: Hidden Objects | 417510 | [417510-thrift-store-treasure-hidden-objects.json](./417510-thrift-store-treasure-hidden-objects.json) |
 | Thriftgirl | 384818 | [384818-thriftgirl.json](./384818-thriftgirl.json) |
@@ -22985,6 +22992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Title Fight | 78404 | [78404-title-fight.json](./78404-title-fight.json) |
 | Title Fight Pro Boxing for Windows | 94548 | [94548-title-fight-pro-boxing-for-windows.json](./94548-title-fight-pro-boxing-for-windows.json) |
 | Title Match Pro Wrestling | 12343 | [12343-title-match-pro-wrestling.json](./12343-title-match-pro-wrestling.json) |
+| Title Screen Simulator | 326329 | [326329-title-screen-simulator.json](./326329-title-screen-simulator.json) |
 | Title_Pending | 144909 | [144909-title-pending.json](./144909-title-pending.json) |
 | Titleless Tale | 304002 | [304002-titleless-tale.json](./304002-titleless-tale.json) |
 | Titonic Fisherman | 176324 | [176324-titonic-fisherman.json](./176324-titonic-fisherman.json) |
@@ -24578,6 +24586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Binz! | 349912 | [349912-top-binz.json](./349912-top-binz.json) |
 | Top Bowler | 172654 | [172654-top-bowler.json](./172654-top-bowler.json) |
 | Top Burger | 117102 | [117102-top-burger.json](./117102-top-burger.json) |
+| Top Burger Shop Simulator | 326330 | [326330-top-burger-shop-simulator.json](./326330-top-burger-shop-simulator.json) |
 | Top Cat in Beverly Hills Cats | 71415 | [71415-top-cat-in-beverly-hills-cats.json](./71415-top-cat-in-beverly-hills-cats.json) |
 | Top Check | 331986 | [331986-top-check.json](./331986-top-check.json) |
 | Top Chef: The Game | 65350 | [65350-top-chef-the-game.json](./65350-top-chef-the-game.json) |
@@ -25306,6 +25315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Force | 274935 | [274935-touch-force.json](./274935-touch-force.json) |
 | Touch from a Raindrop | 175123 | [175123-touch-from-a-raindrop.json](./175123-touch-from-a-raindrop.json) |
 | Touch Game Party | 124103 | [124103-touch-game-party.json](./124103-touch-game-party.json) |
+| Touch Grass VR Simulator | 326331 | [326331-touch-grass-vr-simulator.json](./326331-touch-grass-vr-simulator.json) |
 | Touch Hockey: FS5 | 63196 | [63196-touch-hockey-fs5.json](./63196-touch-hockey-fs5.json) |
 | Touch Love | 219542 | [219542-touch-love.json](./219542-touch-love.json) |
 | Touch Me | 225597 | [225597-touch-me.json](./225597-touch-me.json) |
@@ -26402,6 +26412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Shire | 253387 | [253387-toy-shire.json](./253387-toy-shire.json) |
 | Toy Shop | 21299 | [21299-toy-shop.json](./21299-toy-shop.json) |
 | Toy Shop Boys | 43195 | [43195-toy-shop-boys.json](./43195-toy-shop-boys.json) |
+| Toy Shop Simulator | 326332 | [326332-toy-shop-simulator.json](./326332-toy-shop-simulator.json) |
 | Toy Shop: Tidy Up | 412001 | [412001-toy-shop-tidy-up.json](./412001-toy-shop-tidy-up.json) |
 | Toy Shot | 65330 | [65330-toy-shot.json](./65330-toy-shot.json) |
 | Toy Smash Kaboom! | 347357 | [347357-toy-smash-kaboom.json](./347357-toy-smash-kaboom.json) |
@@ -28692,6 +28703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transport INC: Map Pack | 226895 | [226895-transport-inc-map-pack.json](./226895-transport-inc-map-pack.json) |
 | Transport Legion | 372517 | [372517-transport-legion.json](./372517-transport-legion.json) |
 | Transport Services | 114072 | [114072-transport-services.json](./114072-transport-services.json) |
+| Transport Simulator | 326488 | [326488-transport-simulator.json](./326488-transport-simulator.json) |
 | Transport Tycoon | 5504 | [5504-transport-tycoon.json](./5504-transport-tycoon.json) |
 | Transport Tycoon | 5505 | [5505-transport-tycoon.json](./5505-transport-tycoon.json) |
 | Transport Tycoon Deluxe | 5502 | [5502-transport-tycoon-deluxe.json](./5502-transport-tycoon-deluxe.json) |
