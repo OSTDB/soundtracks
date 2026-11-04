@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Kart Rally | 65233 | [65233-pac-man-kart-rally.json](./65233-pac-man-kart-rally.json) |
 | Pac-Man Maker | 28186 | [28186-pac-man-maker.json](./28186-pac-man-maker.json) |
 | Pac-Man Mega Tunnel Battle | 140269 | [140269-pac-man-mega-tunnel-battle.json](./140269-pac-man-mega-tunnel-battle.json) |
+| Pac-Man Mega Tunnel Battle: Chomp Champs - Chomp Challengers Pac | 317736 | [317736-pac-man-mega-tunnel-battle-chomp-champs-chomp-challengers-pac.json](./317736-pac-man-mega-tunnel-battle-chomp-champs-chomp-challengers-pac.json) |
 | Pac-Man Mega Tunnel Battle: Chomp Champs - Deluxe Edition | 297307 | [297307-pac-man-mega-tunnel-battle-chomp-champs-deluxe-edition.json](./297307-pac-man-mega-tunnel-battle-chomp-champs-deluxe-edition.json) |
 | Pac-Man Mega Tunnel Battle: Chomp Champs - Lunar Animals Pac | 300927 | [300927-pac-man-mega-tunnel-battle-chomp-champs-lunar-animals-pac.json](./300927-pac-man-mega-tunnel-battle-chomp-champs-lunar-animals-pac.json) |
 | Pac-Man Mega Tunnel Battle: Chomp Champs - Namco Pals Pac | 300926 | [300926-pac-man-mega-tunnel-battle-chomp-champs-namco-pals-pac.json](./300926-pac-man-mega-tunnel-battle-chomp-champs-namco-pals-pac.json) |
@@ -8940,6 +8941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Soccer 2018 | 233187 | [233187-planet-soccer-2018.json](./233187-planet-soccer-2018.json) |
 | Planet Splitters | 102019 | [102019-planet-splitters.json](./102019-planet-splitters.json) |
 | Planet Squirrel | 106743 | [106743-planet-squirrel.json](./106743-planet-squirrel.json) |
+| Planet Strike | 317767 | [317767-planet-strike.json](./317767-planet-strike.json) |
 | Planet Stronghold | 8982 | [8982-planet-stronghold.json](./8982-planet-stronghold.json) |
 | Planet Stronghold 2 | 103609 | [103609-planet-stronghold-2.json](./103609-planet-stronghold-2.json) |
 | Planet Stronghold: Colonial Defense | 19142 | [19142-planet-stronghold-colonial-defense.json](./19142-planet-stronghold-colonial-defense.json) |
@@ -11651,6 +11653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Pirates | 149500 | [149500-poly-pirates.json](./149500-poly-pirates.json) |
 | Poly Plaza | 307204 | [307204-poly-plaza.json](./307204-poly-plaza.json) |
 | Poly Plaza 2 | 377755 | [377755-poly-plaza-2.json](./377755-poly-plaza-2.json) |
+| Poly Plaza: Farmer Pack | 317724 | [317724-poly-plaza-farmer-pack.json](./317724-poly-plaza-farmer-pack.json) |
 | Poly Puzzle: Animals | 235619 | [235619-poly-puzzle-animals.json](./235619-poly-puzzle-animals.json) |
 | Poly Puzzle: Birds | 367665 | [367665-poly-puzzle-birds.json](./367665-poly-puzzle-birds.json) |
 | Poly Puzzle: Dinosaurs | 221133 | [221133-poly-puzzle-dinosaurs.json](./221133-poly-puzzle-dinosaurs.json) |
