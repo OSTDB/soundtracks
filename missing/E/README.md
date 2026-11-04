@@ -6070,6 +6070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EUcraft | 398401 | [398401-eucraft.json](./398401-eucraft.json) |
 | Eudemons Online | 76594 | [76594-eudemons-online.json](./76594-eudemons-online.json) |
 | Eudora | 184804 | [184804-eudora.json](./184804-eudora.json) |
+| Euexorista | 333820 | [333820-euexorista.json](./333820-euexorista.json) |
 | Eufloria | 7596 | [7596-eufloria.json](./7596-eufloria.json) |
 | Eufloria 2 | 413631 | [413631-eufloria-2.json](./413631-eufloria-2.json) |
 | Eufloria Classic | 321480 | [321480-eufloria-classic.json](./321480-eufloria-classic.json) |
@@ -8111,7 +8112,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EZ-Talk Shokyuu-hen 4 | 334245 | [334245-ez-talk-shokyuu-hen-4.json](./334245-ez-talk-shokyuu-hen-4.json) |
 | EZ-Talk Shokyuu-hen 5 | 334275 | [334275-ez-talk-shokyuu-hen-5.json](./334275-ez-talk-shokyuu-hen-5.json) |
 | EZ-Talk Shokyuuhen 1-6 Kan Set | 93596 | [93596-ez-talk-shokyuuhen-1-6-kan-set.json](./93596-ez-talk-shokyuuhen-1-6-kan-set.json) |
+| EZ-Talk Shokyuuhen 2 | 333835 | [333835-ez-talk-shokyuuhen-2.json](./333835-ez-talk-shokyuuhen-2.json) |
 | EZ-Talk: Shokyuu-hen 6 | 334277 | [334277-ez-talk-shokyuu-hen-6.json](./334277-ez-talk-shokyuu-hen-6.json) |
+| EZ-Talk: Shokyuuhen 3 | 333836 | [333836-ez-talk-shokyuuhen-3.json](./333836-ez-talk-shokyuuhen-3.json) |
 | EZ2AC | 137440 | [137440-ez2ac.json](./137440-ez2ac.json) |
 | EZ2AC Final | 122958 | [122958-ez2ac-final.json](./122958-ez2ac-final.json) |
 | EZ2AC: Endless Circulation | 317181 | [317181-ez2ac-endless-circulation.json](./317181-ez2ac-endless-circulation.json) |
