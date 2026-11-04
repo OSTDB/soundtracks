@@ -2530,6 +2530,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Us, You Won't | 215229 | [215229-date-us-you-wont.json](./215229-date-us-you-wont.json) |
 | Date Warp | 17400 | [17400-date-warp.json](./17400-date-warp.json) |
 | Date With a Girl: Mahjong | 368904 | [368904-date-with-a-girl-mahjong.json](./368904-date-with-a-girl-mahjong.json) |
+| Date with a Psycho Killer Girl: A Love Story & Horror Show Series | 342377 | [342377-date-with-a-psycho-killer-girl-a-love-story-and-horror-show-series.json](./342377-date-with-a-psycho-killer-girl-a-love-story-and-horror-show-series.json) |
+| Date with a Serial Killer: A Love Story from a Horror Show Series | 342378 | [342378-date-with-a-serial-killer-a-love-story-from-a-horror-show-series.json](./342378-date-with-a-serial-killer-a-love-story-from-a-horror-show-series.json) |
 | Date with Detective Wolf | 303276 | [303276-date-with-detective-wolf.json](./303276-date-with-detective-wolf.json) |
 | Date with Devils | 345988 | [345988-date-with-devils.json](./345988-date-with-devils.json) |
 | Date with Falco | 339267 | [339267-date-with-falco.json](./339267-date-with-falco.json) |
@@ -14773,6 +14775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons Frolic! | 346515 | [346515-dragons-frolic.json](./346515-dragons-frolic.json) |
 | Dragons Heart | 239692 | [239692-dragons-heart.json](./239692-dragons-heart.json) |
 | Dragons in Space | 194349 | [194349-dragons-in-space.json](./194349-dragons-in-space.json) |
+| Dragons Legacy: Monsters Lair | 342379 | [342379-dragons-legacy-monsters-lair.json](./342379-dragons-legacy-monsters-lair.json) |
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
 | Dragons of Elanthia | 62998 | [62998-dragons-of-elanthia.json](./62998-dragons-of-elanthia.json) |
 | Dragons of Hong Kong | 55836 | [55836-dragons-of-hong-kong.json](./55836-dragons-of-hong-kong.json) |
@@ -17604,6 +17607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Slave | 240814 | [240814-dungeon-slave.json](./240814-dungeon-slave.json) |
 | Dungeon Slayer | 129380 | [129380-dungeon-slayer.json](./129380-dungeon-slayer.json) |
 | Dungeon Slayer | 194008 | [194008-dungeon-slayer.json](./194008-dungeon-slayer.json) |
+| Dungeon Slide | 342380 | [342380-dungeon-slide.json](./342380-dungeon-slide.json) |
 | Dungeon Slime 2: Puzzle in the Dark Forest | 156941 | [156941-dungeon-slime-2-puzzle-in-the-dark-forest.json](./156941-dungeon-slime-2-puzzle-in-the-dark-forest.json) |
 | Dungeon Slime Collection | 208837 | [208837-dungeon-slime-collection.json](./208837-dungeon-slime-collection.json) |
 | Dungeon Slime Hero | 295808 | [295808-dungeon-slime-hero.json](./295808-dungeon-slime-hero.json) |
