@@ -5495,6 +5495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seraphims of Astraeus | 109332 | [109332-seraphims-of-astraeus.json](./109332-seraphims-of-astraeus.json) |
 | Seraphine's Skyward Journey | 388054 | [388054-seraphines-skyward-journey.json](./388054-seraphines-skyward-journey.json) |
 | Seraphixial | 392164 | [392164-seraphixial.json](./392164-seraphixial.json) |
+| Seraphonin | 344101 | [344101-seraphonin.json](./344101-seraphonin.json) |
 | Serbia '14 | 131997 | [131997-serbia-14.json](./131997-serbia-14.json) |
 | Serbian Dancing Lady | 294191 | [294191-serbian-dancing-lady.json](./294191-serbian-dancing-lady.json) |
 | Serega Madness Pixel Adventures | 295276 | [295276-serega-madness-pixel-adventures.json](./295276-serega-madness-pixel-adventures.json) |
@@ -10726,6 +10727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimRail: The Railway Simulator - Cargo Pack | 295114 | [295114-simrail-the-railway-simulator-cargo-pack.json](./295114-simrail-the-railway-simulator-cargo-pack.json) |
 | SimRefinery | 72604 | [72604-simrefinery.json](./72604-simrefinery.json) |
 | SimSafari | 95477 | [95477-simsafari.json](./95477-simsafari.json) |
+| SimShock2025 | 344108 | [344108-simshock2025.json](./344108-simshock2025.json) |
 | Simsig | 125969 | [125969-simsig.json](./125969-simsig.json) |
 | Simson Pet Rescue | 343929 | [343929-simson-pet-rescue.json](./343929-simson-pet-rescue.json) |
 | Simson Tuningwerkstatt 3D | 111634 | [111634-simson-tuningwerkstatt-3d.json](./111634-simson-tuningwerkstatt-3d.json) |
@@ -18785,7 +18787,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -34598,6 +34599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthetic Captive | 343229 | [343229-synthetic-captive.json](./343229-synthetic-captive.json) |
 | Synthetic Days | 232918 | [232918-synthetic-days.json](./232918-synthetic-days.json) |
 | Synthetic Dreams | 51977 | [51977-synthetic-dreams.json](./51977-synthetic-dreams.json) |
+| Synthetic Dreams: Falling | 344102 | [344102-synthetic-dreams-falling.json](./344102-synthetic-dreams-falling.json) |
 | Synthetic Fantasy; | 277581 | [277581-synthetic-fantasy.json](./277581-synthetic-fantasy.json) |
 | Synthetic Hopes | 345112 | [345112-synthetic-hopes.json](./345112-synthetic-hopes.json) |
 | Synthetic Love | 110720 | [110720-synthetic-love.json](./110720-synthetic-love.json) |
