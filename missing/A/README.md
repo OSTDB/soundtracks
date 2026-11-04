@@ -4382,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Conquest: Asia | 174583 | [174583-age-of-conquest-asia.json](./174583-age-of-conquest-asia.json) |
 | Age of Conquest: South America | 175515 | [175515-age-of-conquest-south-america.json](./175515-age-of-conquest-south-america.json) |
 | Age of Damnation | 374943 | [374943-age-of-damnation.json](./374943-age-of-damnation.json) |
+| Age of Dark | 344099 | [344099-age-of-dark.json](./344099-age-of-dark.json) |
 | Age of Darkness: Die Suche nach Relict | 118291 | [118291-age-of-darkness-die-suche-nach-relict.json](./118291-age-of-darkness-die-suche-nach-relict.json) |
 | Age of Darkness: Final Stand | 159424 | [159424-age-of-darkness-final-stand.json](./159424-age-of-darkness-final-stand.json) |
 | Age of Defense | 29247 | [29247-age-of-defense.json](./29247-age-of-defense.json) |
@@ -6626,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Revival | 105007 | [105007-alien-revival.json](./105007-alien-revival.json) |
 | Alien Robot Monsters | 34724 | [34724-alien-robot-monsters.json](./34724-alien-robot-monsters.json) |
 | Alien Run | 32480 | [32480-alien-run.json](./32480-alien-run.json) |
+| Alien Rush | 344126 | [344126-alien-rush.json](./344126-alien-rush.json) |
 | Alien Rush | 376851 | [376851-alien-rush.json](./376851-alien-rush.json) |
 | Alien Sanctuary | 308362 | [308362-alien-sanctuary.json](./308362-alien-sanctuary.json) |
 | Alien Scumbags | 124627 | [124627-alien-scumbags.json](./124627-alien-scumbags.json) |
@@ -14416,6 +14418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashwake | 346481 | [346481-ashwake.json](./346481-ashwake.json) |
 | Ashwalkers: A Survival Journey | 138669 | [138669-ashwalkers-a-survival-journey.json](./138669-ashwalkers-a-survival-journey.json) |
 | Ashwood Conspiracy | 336696 | [336696-ashwood-conspiracy.json](./336696-ashwood-conspiracy.json) |
+| Ashwood Valley | 344121 | [344121-ashwood-valley.json](./344121-ashwood-valley.json) |
 | Ashworld | 43120 | [43120-ashworld.json](./43120-ashworld.json) |
 | Ashzel & The Power Dagger | 203602 | [203602-ashzel-and-the-power-dagger.json](./203602-ashzel-and-the-power-dagger.json) |
 | AsiaKingdom | 302343 | [302343-asiakingdom.json](./302343-asiakingdom.json) |
@@ -15944,6 +15947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
