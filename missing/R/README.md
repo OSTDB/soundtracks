@@ -3075,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Mystery | 365288 | [365288-realm-of-mystery.json](./365288-realm-of-mystery.json) |
 | Realm of Night: The Forbidden Knowledge | 148307 | [148307-realm-of-night-the-forbidden-knowledge.json](./148307-realm-of-night-the-forbidden-knowledge.json) |
 | Realm of Rulers | 98222 | [98222-realm-of-rulers.json](./98222-realm-of-rulers.json) |
+| Realm of Shades | 312243 | [312243-realm-of-shades.json](./312243-realm-of-shades.json) |
 | Realm of Simplicity | 244627 | [244627-realm-of-simplicity.json](./244627-realm-of-simplicity.json) |
 | Realm of Taiwu | 359343 | [359343-realm-of-taiwu.json](./359343-realm-of-taiwu.json) |
 | Realm of the Dead | 257898 | [257898-realm-of-the-dead.json](./257898-realm-of-the-dead.json) |
@@ -6298,6 +6299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Titans | 9588 | [9588-revenge-of-the-titans.json](./9588-revenge-of-the-titans.json) |
 | Revenge of the Toys | 209196 | [209196-revenge-of-the-toys.json](./209196-revenge-of-the-toys.json) |
 | Revenge of the Wounded Dragons | 21770 | [21770-revenge-of-the-wounded-dragons.json](./21770-revenge-of-the-wounded-dragons.json) |
+| Revenge of Trasmoz | 311953 | [311953-revenge-of-trasmoz.json](./311953-revenge-of-trasmoz.json) |
 | Revenge on Bad Guy | 220316 | [220316-revenge-on-bad-guy.json](./220316-revenge-on-bad-guy.json) |
 | Revenge On Gold Diggers | 372482 | [372482-revenge-on-gold-diggers.json](./372482-revenge-on-gold-diggers.json) |
 | Revenge on the Streets | 119726 | [119726-revenge-on-the-streets.json](./119726-revenge-on-the-streets.json) |
@@ -9385,6 +9387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 8 Metal Heroes Famicom | 142354 | [142354-rockman-8-metal-heroes-famicom.json](./142354-rockman-8-metal-heroes-famicom.json) |
 | Rockman Battle & Fighters | 75515 | [75515-rockman-battle-and-fighters.json](./75515-rockman-battle-and-fighters.json) |
 | Rockman Bug Sweeper | 290979 | [290979-rockman-bug-sweeper.json](./290979-rockman-bug-sweeper.json) |
+| Rockman Classical | 312237 | [312237-rockman-classical.json](./312237-rockman-classical.json) |
 | Rockman Complete Works: Rockman | 84124 | [84124-rockman-complete-works-rockman.json](./84124-rockman-complete-works-rockman.json) |
 | Rockman Complete Works: Rockman 2 - Dr. Wily no Nazo | 171827 | [171827-rockman-complete-works-rockman-2-dr-wily-no-nazo.json](./171827-rockman-complete-works-rockman-2-dr-wily-no-nazo.json) |
 | Rockman Complete Works: Rockman 3 - Dr. Wily no Saigo!? | 171828 | [171828-rockman-complete-works-rockman-3-dr-wily-no-saigo.json](./171828-rockman-complete-works-rockman-3-dr-wily-no-saigo.json) |
