@@ -5637,6 +5637,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Dream of Five | 37546 | [37546-fire-emblem-dream-of-five.json](./37546-fire-emblem-dream-of-five.json) |
 | Fire Emblem: Dream of Five - Definitive Edition | 316621 | [316621-fire-emblem-dream-of-five-definitive-edition.json](./316621-fire-emblem-dream-of-five-definitive-edition.json) |
 | Fire Emblem: Drums of War | 274389 | [274389-fire-emblem-drums-of-war.json](./274389-fire-emblem-drums-of-war.json) |
+| Fire Emblem: Eckesachs | 337395 | [337395-fire-emblem-eckesachs.json](./337395-fire-emblem-eckesachs.json) |
+| Fire Emblem: Eligor's Spear | 337398 | [337398-fire-emblem-eligors-spear.json](./337398-fire-emblem-eligors-spear.json) |
 | Fire emblem: Emulation Theory | 375371 | [375371-fire-emblem-emulation-theory.json](./375371-fire-emblem-emulation-theory.json) |
 | Fire Emblem: Engage - Expansion Pass: Wave 1 | 236699 | [236699-fire-emblem-engage-expansion-pass-wave-1.json](./236699-fire-emblem-engage-expansion-pass-wave-1.json) |
 | Fire Emblem: Engage - Expansion Pass: Wave 2 | 236700 | [236700-fire-emblem-engage-expansion-pass-wave-2.json](./236700-fire-emblem-engage-expansion-pass-wave-2.json) |
@@ -5667,7 +5669,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Sacred Stones Plus | 229002 | [229002-fire-emblem-sacred-stones-plus.json](./229002-fire-emblem-sacred-stones-plus.json) |
 | Fire Emblem: Sacred Stones Reforged | 344571 | [344571-fire-emblem-sacred-stones-reforged.json](./344571-fire-emblem-sacred-stones-reforged.json) |
 | Fire Emblem: Scarlet Rising | 143986 | [143986-fire-emblem-scarlet-rising.json](./143986-fire-emblem-scarlet-rising.json) |
+| Fire Emblem: Sealed Hope | 337405 | [337405-fire-emblem-sealed-hope.json](./337405-fire-emblem-sealed-hope.json) |
 | Fire Emblem: Seisen no Keifu | 1436 | [1436-fire-emblem-seisen-no-keifu.json](./1436-fire-emblem-seisen-no-keifu.json) |
+| Fire Emblem: Shackled Power | 337406 | [337406-fire-emblem-shackled-power.json](./337406-fire-emblem-shackled-power.json) |
 | Fire Emblem: Shadow Dragon | 1444 | [1444-fire-emblem-shadow-dragon.json](./1444-fire-emblem-shadow-dragon.json) |
 | Fire Emblem: Shadow Dragon and the Blade of Light | 172410 | [172410-fire-emblem-shadow-dragon-and-the-blade-of-light.json](./172410-fire-emblem-shadow-dragon-and-the-blade-of-light.json) |
 | Fire Emblem: Shadow Dragon and the Blade of Light - 30th Anniversary Edition | 140611 | [140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json](./140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json) |
