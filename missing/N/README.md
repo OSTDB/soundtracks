@@ -3669,6 +3669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NGolf: Complete Edition | 313152 | [313152-ngolf-complete-edition.json](./313152-ngolf-complete-edition.json) |
 | Ngolf: Definitive Edition | 309041 | [309041-ngolf-definitive-edition.json](./309041-ngolf-definitive-edition.json) |
 | Ngolf: Director's Cut | 324430 | [324430-ngolf-directors-cut.json](./324430-ngolf-directors-cut.json) |
+| Ngolf: Extended Edition | 300888 | [300888-ngolf-extended-edition.json](./300888-ngolf-extended-edition.json) |
 | Ngolf: GOTY Edition | 324376 | [324376-ngolf-goty-edition.json](./324376-ngolf-goty-edition.json) |
 | Ngolf: Legendary Edition | 315858 | [315858-ngolf-legendary-edition.json](./315858-ngolf-legendary-edition.json) |
 | Ngolf: Moon Swing | 288296 | [288296-ngolf-moon-swing.json](./288296-ngolf-moon-swing.json) |
@@ -4652,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihilo | 164758 | [164758-nihilo.json](./164758-nihilo.json) |
 | Nihilore: The Mechanical Empire | 270844 | [270844-nihilore-the-mechanical-empire.json](./270844-nihilore-the-mechanical-empire.json) |
 | Nihilsearch | 146551 | [146551-nihilsearch.json](./146551-nihilsearch.json) |
+| Nihilum | 300635 | [300635-nihilum.json](./300635-nihilum.json) |
 | Nihmory | 211711 | [211711-nihmory.json](./211711-nihmory.json) |
 | Nihon Daihyou Team no Kantoku ni Narou! Sekaihatsu, Soccer RPG | 176133 | [176133-nihon-daihyou-team-no-kantoku-ni-narou-sekaihatsu-soccer-rpg.json](./176133-nihon-daihyou-team-no-kantoku-ni-narou-sekaihatsu-soccer-rpg.json) |
 | Nihon Pro Golf Double Eagle | 143673 | [143673-nihon-pro-golf-double-eagle.json](./143673-nihon-pro-golf-double-eagle.json) |
