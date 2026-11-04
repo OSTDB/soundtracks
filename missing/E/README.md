@@ -7568,6 +7568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcist Shrine Maiden Miharu: The Licentious Journal of her Captive Violation | 82696 | [82696-exorcist-shrine-maiden-miharu-the-licentious-journal-of-her-captive-violation.json](./82696-exorcist-shrine-maiden-miharu-the-licentious-journal-of-her-captive-violation.json) |
 | Exorcist Simulator | 259005 | [259005-exorcist-simulator.json](./259005-exorcist-simulator.json) |
 | Exorcist: Oldest Tongue | 370660 | [370660-exorcist-oldest-tongue.json](./370660-exorcist-oldest-tongue.json) |
+| Exorcist: Reviewer of Minds | 308730 | [308730-exorcist-reviewer-of-minds.json](./308730-exorcist-reviewer-of-minds.json) |
 | Exorcist: Survival Horror | 366207 | [366207-exorcist-survival-horror.json](./366207-exorcist-survival-horror.json) |
 | Exorcizamuste | 258537 | [258537-exorcizamuste.json](./258537-exorcizamuste.json) |
 | Exorder | 69440 | [69440-exorder.json](./69440-exorder.json) |
