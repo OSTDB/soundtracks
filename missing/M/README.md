@@ -1351,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Сity Detective: Secret Desire - Collector's Edition | 211641 | [211641-magic-ity-detective-secret-desire-collectors-edition.json](./211641-magic-ity-detective-secret-desire-collectors-edition.json) |
 | Magic: ManaStrike | 125270 | [125270-magic-manastrike.json](./125270-magic-manastrike.json) |
 | Magic: Puzzle Quest | 111748 | [111748-magic-puzzle-quest.json](./111748-magic-puzzle-quest.json) |
+| Magic: The Boys Who Love Me | 299339 | [299339-magic-the-boys-who-love-me.json](./299339-magic-the-boys-who-love-me.json) |
 | Magic: The Gathering | 12443 | [12443-magic-the-gathering.json](./12443-magic-the-gathering.json) |
 | Magic: The Gathering - Battlegrounds | 5907 | [5907-magic-the-gathering-battlegrounds.json](./5907-magic-the-gathering-battlegrounds.json) |
 | Magic: The Gathering - Duels of the Planeswalkers | 81444 | [81444-magic-the-gathering-duels-of-the-planeswalkers.json](./81444-magic-the-gathering-duels-of-the-planeswalkers.json) |
@@ -2517,6 +2518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maken-shi Sara | 189001 | [189001-maken-shi-sara.json](./189001-maken-shi-sara.json) |
 | Makenines | 110254 | [110254-makenines.json](./110254-makenines.json) |
 | MakeNumber | 94243 | [94243-makenumber.json](./94243-makenumber.json) |
+| Makeover Date: Makeup ASMR | 299337 | [299337-makeover-date-makeup-asmr.json](./299337-makeover-date-makeup-asmr.json) |
 | Makeover Desire: Henshin Ganbo | 126336 | [126336-makeover-desire-henshin-ganbo.json](./126336-makeover-desire-henshin-ganbo.json) |
 | Makeover Madness | 210050 | [210050-makeover-madness.json](./210050-makeover-madness.json) |
 | Maker's Matchup | 100087 | [100087-makers-matchup.json](./100087-makers-matchup.json) |
@@ -5302,6 +5304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchmakers B | 354387 | [354387-matchmakers-b.json](./354387-matchmakers-b.json) |
 | Matchmaking for Ghosts | 398988 | [398988-matchmaking-for-ghosts.json](./398988-matchmaking-for-ghosts.json) |
 | Matchmaking Inc. | 328921 | [328921-matchmaking-inc.json](./328921-matchmaking-inc.json) |
+| MatchMe: My Secret Crush | 299338 | [299338-matchme-my-secret-crush.json](./299338-matchme-my-secret-crush.json) |
 | Matchmension: House of Mist | 197915 | [197915-matchmension-house-of-mist.json](./197915-matchmension-house-of-mist.json) |
 | MatchMVP | 114651 | [114651-matchmvp.json](./114651-matchmvp.json) |
 | MatchOolu | 320525 | [320525-matchoolu.json](./320525-matchoolu.json) |
@@ -13957,6 +13960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Hangman | 220624 | [220624-mobile-hangman.json](./220624-mobile-hangman.json) |
 | Mobile Legends: Adventure | 133687 | [133687-mobile-legends-adventure.json](./133687-mobile-legends-adventure.json) |
 | Mobile Life | 181148 | [181148-mobile-life.json](./181148-mobile-life.json) |
+| Mobile Light Force | 299074 | [299074-mobile-light-force.json](./299074-mobile-light-force.json) |
 | Mobile Minigames: Play & Earn | 131355 | [131355-mobile-minigames-play-and-earn.json](./131355-mobile-minigames-play-and-earn.json) |
 | Mobile Murder Mystery | 370691 | [370691-mobile-murder-mystery.json](./370691-mobile-murder-mystery.json) |
 | Mobile Phase 10 | 243277 | [243277-mobile-phase-10.json](./243277-mobile-phase-10.json) |
@@ -19178,6 +19182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant League Football | 46254 | [46254-mutant-league-football.json](./46254-mutant-league-football.json) |
 | Mutant League Hockey | 46253 | [46253-mutant-league-hockey.json](./46253-mutant-league-hockey.json) |
 | Mutant Legion | 330484 | [330484-mutant-legion.json](./330484-mutant-legion.json) |
+| Mutant Llama | 299347 | [299347-mutant-llama.json](./299347-mutant-llama.json) |
 | Mutant Mahem | 73562 | [73562-mutant-mahem.json](./73562-mutant-mahem.json) |
 | Mutant Meltdown | 211148 | [211148-mutant-meltdown.json](./211148-mutant-meltdown.json) |
 | Mutant Monster Invasion | 292240 | [292240-mutant-monster-invasion.json](./292240-mutant-monster-invasion.json) |
@@ -20493,6 +20498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Story: Choose Your Own Path | 87010 | [87010-my-story-choose-your-own-path.json](./87010-my-story-choose-your-own-path.json) |
 | My Strange Girlfriend | 299516 | [299516-my-strange-girlfriend.json](./299516-my-strange-girlfriend.json) |
 | My Strange Girlfriends | 248926 | [248926-my-strange-girlfriends.json](./248926-my-strange-girlfriends.json) |
+| My Strange Plane is a Thing Body Moves Through | 299077 | [299077-my-strange-plane-is-a-thing-body-moves-through.json](./299077-my-strange-plane-is-a-thing-body-moves-through.json) |
 | My Street | 19306 | [19306-my-street.json](./19306-my-street.json) |
 | My Strong Horse | 164256 | [164256-my-strong-horse.json](./164256-my-strong-horse.json) |
 | My Strongest Girlfriend | 316651 | [316651-my-strongest-girlfriend.json](./316651-my-strongest-girlfriend.json) |
