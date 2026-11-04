@@ -3947,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicktoons Unite! | 202111 | [202111-nicktoons-unite.json](./202111-nicktoons-unite.json) |
 | Nicktoons Volleyball | 243826 | [243826-nicktoons-volleyball.json](./243826-nicktoons-volleyball.json) |
 | Nicktoons Winners Cup Racing | 2771 | [2771-nicktoons-winners-cup-racing.json](./2771-nicktoons-winners-cup-racing.json) |
+| Nicktoons: Android Invasion | 312233 | [312233-nicktoons-android-invasion.json](./312233-nicktoons-android-invasion.json) |
 | Nicktoons: Android Invasion | 65157 | [65157-nicktoons-android-invasion.json](./65157-nicktoons-android-invasion.json) |
 | Nicktoons: Attack of the Toybots | 240986 | [240986-nicktoons-attack-of-the-toybots.json](./240986-nicktoons-attack-of-the-toybots.json) |
 | Nicktoons: Attack of the Toybots | 241231 | [241231-nicktoons-attack-of-the-toybots.json](./241231-nicktoons-attack-of-the-toybots.json) |
