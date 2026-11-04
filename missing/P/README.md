@@ -3125,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Brawl Party | 322621 | [322621-paw-brawl-party.json](./322621-paw-brawl-party.json) |
 | Paw Party | 348987 | [348987-paw-party.json](./348987-paw-party.json) |
 | Paw Patrol | 298309 | [298309-paw-patrol.json](./298309-paw-patrol.json) |
+| Paw Patrol Academy | 307162 | [307162-paw-patrol-academy.json](./307162-paw-patrol-academy.json) |
 | Paw Patrol Bundle | 150141 | [150141-paw-patrol-bundle.json](./150141-paw-patrol-bundle.json) |
 | PAW Patrol Collection | 137559 | [137559-paw-patrol-collection.json](./137559-paw-patrol-collection.json) |
 | PAW Patrol Mighty Pups: Save Adventure Bay! | 137276 | [137276-paw-patrol-mighty-pups-save-adventure-bay.json](./137276-paw-patrol-mighty-pups-save-adventure-bay.json) |
