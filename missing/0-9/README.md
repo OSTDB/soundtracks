@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ...Vincent: Mansion of The Dead | 376667 | [376667-vincent-mansion-of-the-dead.json](./376667-vincent-mansion-of-the-dead.json) |
 | ..And the Mooncats | 185519 | [185519-and-the-mooncats.json](./185519-and-the-mooncats.json) |
 | .38 Ambush Alley | 64623 | [64623-38-ambush-alley.json](./64623-38-ambush-alley.json) |
+| .45 Parabellum Bloodhound | 307541 | [307541-45-parabellum-bloodhound.json](./307541-45-parabellum-bloodhound.json) |
 | .Atorb. | 330318 | [330318-atorb.json](./330318-atorb.json) |
 | .Cat | 145537 | [145537-cat.json](./145537-cat.json) |
 | .Cat Nincat Dinogotchi | 231044 | [231044-cat-nincat-dinogotchi.json](./231044-cat-nincat-dinogotchi.json) |
