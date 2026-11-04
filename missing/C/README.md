@@ -9636,6 +9636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleanup Project | 255256 | [255256-cleanup-project.json](./255256-cleanup-project.json) |
 | Clear for Action | 24675 | [24675-clear-for-action.json](./24675-clear-for-action.json) |
 | Clear Mosaic | 253990 | [253990-clear-mosaic.json](./253990-clear-mosaic.json) |
+| Clear Office | 338080 | [338080-clear-office.json](./338080-clear-office.json) |
 | Clear Plan | 271070 | [271070-clear-plan.json](./271070-clear-plan.json) |
 | Clear Rain | 387047 | [387047-clear-rain.json](./387047-clear-rain.json) |
 | Clear Sky 1941 | 95553 | [95553-clear-sky-1941.json](./95553-clear-sky-1941.json) |
@@ -12967,6 +12968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connection Error | 234022 | [234022-connection-error.json](./234022-connection-error.json) |
 | Connection Haunted | 130152 | [130152-connection-haunted.json](./130152-connection-haunted.json) |
 | Connection Lost | 212176 | [212176-connection-lost.json](./212176-connection-lost.json) |
+| Connection of Worlds: Mirrored Earths - Collector's Edition | 338062 | [338062-connection-of-worlds-mirrored-earths-collectors-edition.json](./338062-connection-of-worlds-mirrored-earths-collectors-edition.json) |
 | Connection Pools | 338150 | [338150-connection-pools.json](./338150-connection-pools.json) |
 | Connection reHaunted | 146822 | [146822-connection-rehaunted.json](./146822-connection-rehaunted.json) |
 | Connection: The Nightmare Within | 258117 | [258117-connection-the-nightmare-within.json](./258117-connection-the-nightmare-within.json) |
@@ -15704,6 +15706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashy Cops! | 104642 | [104642-crashy-cops.json](./104642-crashy-cops.json) |
 | Crashy Laps | 244237 | [244237-crashy-laps.json](./244237-crashy-laps.json) |
 | Crashy Racing | 113157 | [113157-crashy-racing.json](./113157-crashy-racing.json) |
+| Crast | 337921 | [337921-crast.json](./337921-crast.json) |
 | Crat Strat's Sonic 1 Hack | 332648 | [332648-crat-strats-sonic-1-hack.json](./332648-crat-strats-sonic-1-hack.json) |
 | Crate Beyond | 402860 | [402860-crate-beyond.json](./402860-crate-beyond.json) |
 | Crate Escape | 269283 | [269283-crate-escape.json](./269283-crate-escape.json) |
