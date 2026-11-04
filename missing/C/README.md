@@ -7339,6 +7339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choco-Ken no Omise: Patisserie & Sweets Shop Game | 287628 | [287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json](./287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json) |
 | Chocobo Collection | 71219 | [71219-chocobo-collection.json](./71219-chocobo-collection.json) |
 | Chocobo GP | 172426 | [172426-chocobo-gp.json](./172426-chocobo-gp.json) |
+| Chocobo GP' | 333840 | [333840-chocobo-gp.json](./333840-chocobo-gp.json) |
 | Chocobo Kwehst | 269775 | [269775-chocobo-kwehst.json](./269775-chocobo-kwehst.json) |
 | Chocobo Land: A Game of Dice | 49559 | [49559-chocobo-land-a-game-of-dice.json](./49559-chocobo-land-a-game-of-dice.json) |
 | Chocobo no Fushigi na Dungeon | 18070 | [18070-chocobo-no-fushigi-na-dungeon.json](./18070-chocobo-no-fushigi-na-dungeon.json) |
@@ -12884,6 +12885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congo | 172468 | [172468-congo.json](./172468-congo.json) |
 | Congo | 17729 | [17729-congo.json](./17729-congo.json) |
 | Congo Bongo | 282063 | [282063-congo-bongo.json](./282063-congo-bongo.json) |
+| Congo Bongo | 333853 | [333853-congo-bongo.json](./333853-congo-bongo.json) |
 | Congo Bongo | 5669 | [5669-congo-bongo.json](./5669-congo-bongo.json) |
 | Congo Cube | 69747 | [69747-congo-cube.json](./69747-congo-cube.json) |
 | Congo Merc | 31821 | [31821-congo-merc.json](./31821-congo-merc.json) |
@@ -13615,6 +13617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Collector 2 | 58734 | [58734-cookie-collector-2.json](./58734-cookie-collector-2.json) |
 | Cookie Crisp City | 330362 | [330362-cookie-crisp-city.json](./330362-cookie-crisp-city.json) |
 | Cookie Cutter | 205700 | [205700-cookie-cutter.json](./205700-cookie-cutter.json) |
+| Cookie Cutter: Overkill Edition | 333838 | [333838-cookie-cutter-overkill-edition.json](./333838-cookie-cutter-overkill-edition.json) |
 | Cookie Domination | 208791 | [208791-cookie-domination.json](./208791-cookie-domination.json) |
 | Cookie Dozer | 92068 | [92068-cookie-dozer.json](./92068-cookie-dozer.json) |
 | Cookie Flipper | 391628 | [391628-cookie-flipper.json](./391628-cookie-flipper.json) |
@@ -15369,6 +15372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft the World: Lonely Mountain | 133892 | [133892-craft-the-world-lonely-mountain.json](./133892-craft-the-world-lonely-mountain.json) |
 | Craft the World: Pocket Edition | 87877 | [87877-craft-the-world-pocket-edition.json](./87877-craft-the-world-pocket-edition.json) |
 | Craft the World: Sisters in Arms | 51757 | [51757-craft-the-world-sisters-in-arms.json](./51757-craft-the-world-sisters-in-arms.json) |
+| Craft The World: Wonderwood | 333812 | [333812-craft-the-world-wonderwood.json](./333812-craft-the-world-wonderwood.json) |
 | Craft Tower | 224213 | [224213-craft-tower.json](./224213-craft-tower.json) |
 | Craft Warriors | 99109 | [99109-craft-warriors.json](./99109-craft-warriors.json) |
 | Craft Wars | 295763 | [295763-craft-wars.json](./295763-craft-wars.json) |
@@ -15489,6 +15493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranky Cat | 16514 | [16514-cranky-cat.json](./16514-cranky-cat.json) |
 | Cranky Chibi Cthulhu | 274311 | [274311-cranky-chibi-cthulhu.json](./274311-cranky-chibi-cthulhu.json) |
 | Cranky Counter (Don't Play This Game!) | 281342 | [281342-cranky-counter-dont-play-this-game.json](./281342-cranky-counter-dont-play-this-game.json) |
+| Cranky Cove | 333823 | [333823-cranky-cove.json](./333823-cranky-cove.json) |
 | Cranky Crabs | 397422 | [397422-cranky-crabs.json](./397422-cranky-crabs.json) |
 | Cranky Driller | 257808 | [257808-cranky-driller.json](./257808-cranky-driller.json) |
 | Cranky Food Friends | 230209 | [230209-cranky-food-friends.json](./230209-cranky-food-friends.json) |
