@@ -10973,6 +10973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rough Kuts: 3D | 200572 | [200572-rough-kuts-3d.json](./200572-rough-kuts-3d.json) |
 | Rough Kuts: Night of the Living Dead | 405124 | [405124-rough-kuts-night-of-the-living-dead.json](./405124-rough-kuts-night-of-the-living-dead.json) |
 | Rough Ranger | 78369 | [78369-rough-ranger.json](./78369-rough-ranger.json) |
+| Rough Rivals | 323491 | [323491-rough-rivals.json](./323491-rough-rivals.json) |
 | Rough Sketch | 83373 | [83373-rough-sketch.json](./83373-rough-sketch.json) |
 | Rough Waters Decentralised Tarots | 176810 | [176810-rough-waters-decentralised-tarots.json](./176810-rough-waters-decentralised-tarots.json) |
 | Rough Waves | 309619 | [309619-rough-waves.json](./309619-rough-waves.json) |
