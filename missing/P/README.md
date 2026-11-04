@@ -1309,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panties Attack | 297173 | [297173-panties-attack.json](./297173-panties-attack.json) |
 | Panties of Rage | 109604 | [109604-panties-of-rage.json](./109604-panties-of-rage.json) |
 | Pantless | 302893 | [302893-pantless.json](./302893-pantless.json) |
+| Pantocrator 3D | 329307 | [329307-pantocrator-3d.json](./329307-pantocrator-3d.json) |
 | Pantomime | 341597 | [341597-pantomime.json](./341597-pantomime.json) |
 | Pantomime Horse Obstacle Course | 408018 | [408018-pantomime-horse-obstacle-course.json](./408018-pantomime-horse-obstacle-course.json) |
 | Pantos Story | 133609 | [133609-pantos-story.json](./133609-pantos-story.json) |
@@ -7361,6 +7362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Jigsaw Puzzle for Kids & Toddlers | 203698 | [203698-pirates-jigsaw-puzzle-for-kids-and-toddlers.json](./203698-pirates-jigsaw-puzzle-for-kids-and-toddlers.json) |
 | Pirates Journey | 235418 | [235418-pirates-journey.json](./235418-pirates-journey.json) |
 | Pirates Kingdom | 323170 | [323170-pirates-kingdom.json](./323170-pirates-kingdom.json) |
+| Pirates Never Die | 329297 | [329297-pirates-never-die.json](./329297-pirates-never-die.json) |
 | Pirates Odyssey | 270122 | [270122-pirates-odyssey.json](./270122-pirates-odyssey.json) |
 | Pirates of Black Cove | 2067 | [2067-pirates-of-black-cove.json](./2067-pirates-of-black-cove.json) |
 | Pirates of Black Cove: Origins | 10697 | [10697-pirates-of-black-cove-origins.json](./10697-pirates-of-black-cove-origins.json) |
