@@ -3621,6 +3621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 5: Catalogue Set | 304738 | [304738-dead-or-alive-5-catalogue-set.json](./304738-dead-or-alive-5-catalogue-set.json) |
 | Dead or Alive 5: Collector's Edition | 210707 | [210707-dead-or-alive-5-collectors-edition.json](./210707-dead-or-alive-5-collectors-edition.json) |
 | Dead Or Alive 5: Costume Catalog 47 | 316752 | [316752-dead-or-alive-5-costume-catalog-47.json](./316752-dead-or-alive-5-costume-catalog-47.json) |
+| Dead Or Alive 5: Costume Catalog LR46 | 308751 | [308751-dead-or-alive-5-costume-catalog-lr46.json](./308751-dead-or-alive-5-costume-catalog-lr46.json) |
 | Dead Or Alive 5: Costume Catalog LR49 | 316753 | [316753-dead-or-alive-5-costume-catalog-lr49.json](./316753-dead-or-alive-5-costume-catalog-lr49.json) |
 | Dead or Alive 5: Last Round - Character: Mai Shiranui | 246628 | [246628-dead-or-alive-5-last-round-character-mai-shiranui.json](./246628-dead-or-alive-5-last-round-character-mai-shiranui.json) |
 | Dead or Alive 5: Last Round - Character: Naotora Ii | 246409 | [246409-dead-or-alive-5-last-round-character-naotora-ii.json](./246409-dead-or-alive-5-last-round-character-naotora-ii.json) |
@@ -10299,6 +10300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Party | 242808 | [242808-disneys-party.json](./242808-disneys-party.json) |
 | Disney's Party | 3886 | [3886-disneys-party.json](./3886-disneys-party.json) |
 | Disney's Peter Pan: The Legend of Never Land | 79954 | [79954-disneys-peter-pan-the-legend-of-never-land.json](./79954-disneys-peter-pan-the-legend-of-never-land.json) |
+| Disney's Pinocchio | 308714 | [308714-disneys-pinocchio.json](./308714-disneys-pinocchio.json) |
 | Disney's Pinocchio | 38844 | [38844-disneys-pinocchio.json](./38844-disneys-pinocchio.json) |
 | Disney's Pocahantas: Riverbend Adventures | 76602 | [76602-disneys-pocahantas-riverbend-adventures.json](./76602-disneys-pocahantas-riverbend-adventures.json) |
 | Disney's Pocahontas | 45780 | [45780-disneys-pocahontas.json](./45780-disneys-pocahontas.json) |
@@ -12326,6 +12328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Bananza | 338106 | [338106-donkey-kong-bananza.json](./338106-donkey-kong-bananza.json) |
 | Donkey Kong Bananza: DK Island & Emerald Rush | 366892 | [366892-donkey-kong-bananza-dk-island-and-emerald-rush.json](./366892-donkey-kong-bananza-dk-island-and-emerald-rush.json) |
 | Donkey Kong Barrel Blast | 4817 | [4817-donkey-kong-barrel-blast.json](./4817-donkey-kong-barrel-blast.json) |
+| Donkey Kong Barrelpalooza | 308715 | [308715-donkey-kong-barrelpalooza.json](./308715-donkey-kong-barrelpalooza.json) |
 | Donkey Kong Christmas Remix | 339259 | [339259-donkey-kong-christmas-remix.json](./339259-donkey-kong-christmas-remix.json) |
 | Donkey Kong Circus | 131898 | [131898-donkey-kong-circus.json](./131898-donkey-kong-circus.json) |
 | Donkey Kong Circus | 305442 | [305442-donkey-kong-circus.json](./305442-donkey-kong-circus.json) |
@@ -12359,10 +12362,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Game Watch | 172538 | [172538-donkey-kong-game-watch.json](./172538-donkey-kong-game-watch.json) |
 | Donkey Kong GB: Dinky Kong & Dixie Kong | 50039 | [50039-donkey-kong-gb-dinky-kong-and-dixie-kong.json](./50039-donkey-kong-gb-dinky-kong-and-dixie-kong.json) |
 | Donkey Kong Heardle | 203817 | [203817-donkey-kong-heardle.json](./203817-donkey-kong-heardle.json) |
+| Donkey Kong Hearthunt | 308717 | [308717-donkey-kong-hearthunt.json](./308717-donkey-kong-hearthunt.json) |
 | Donkey Kong Hockey | 131899 | [131899-donkey-kong-hockey.json](./131899-donkey-kong-hockey.json) |
 | Donkey Kong II | 112423 | [112423-donkey-kong-ii.json](./112423-donkey-kong-ii.json) |
 | Donkey Kong II | 305302 | [305302-donkey-kong-ii.json](./305302-donkey-kong-ii.json) |
 | Donkey Kong II | 367846 | [367846-donkey-kong-ii.json](./367846-donkey-kong-ii.json) |
+| Donkey Kong II: Jumpman Returns | 308720 | [308720-donkey-kong-ii-jumpman-returns.json](./308720-donkey-kong-ii-jumpman-returns.json) |
+| Donkey Kong Into The Dark | 308713 | [308713-donkey-kong-into-the-dark.json](./308713-donkey-kong-into-the-dark.json) |
 | Donkey Kong Jr. | 175637 | [175637-donkey-kong-jr.json](./175637-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 178166 | [178166-donkey-kong-jr.json](./178166-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 200535 | [200535-donkey-kong-jr.json](./200535-donkey-kong-jr.json) |
@@ -12398,11 +12404,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Land Remake | 412721 | [412721-donkey-kong-land-remake.json](./412721-donkey-kong-land-remake.json) |
 | Donkey Kong Land: New Colors Mode | 173120 | [173120-donkey-kong-land-new-colors-mode.json](./173120-donkey-kong-land-new-colors-mode.json) |
 | Donkey Kong no Ongaku Asobi | 131901 | [131901-donkey-kong-no-ongaku-asobi.json](./131901-donkey-kong-no-ongaku-asobi.json) |
+| Donkey Kong On The Run | 308721 | [308721-donkey-kong-on-the-run.json](./308721-donkey-kong-on-the-run.json) |
 | Donkey Kong Pac-Man Crossover | 290237 | [290237-donkey-kong-pac-man-crossover.json](./290237-donkey-kong-pac-man-crossover.json) |
 | Donkey Kong Plus | 185889 | [185889-donkey-kong-plus.json](./185889-donkey-kong-plus.json) |
 | Donkey Kong Racing | 85577 | [85577-donkey-kong-racing.json](./85577-donkey-kong-racing.json) |
 | Donkey Kong Redux | 331437 | [331437-donkey-kong-redux.json](./331437-donkey-kong-redux.json) |
 | Donkey Kong Returns | 191438 | [191438-donkey-kong-returns.json](./191438-donkey-kong-returns.json) |
+| Donkey Kong RNDMZR | 308716 | [308716-donkey-kong-rndmzr.json](./308716-donkey-kong-rndmzr.json) |
+| Donkey Kong Twisted Jungle | 308718 | [308718-donkey-kong-twisted-jungle.json](./308718-donkey-kong-twisted-jungle.json) |
 | Donkey Kong vs. K. Rool Challenge | 307722 | [307722-donkey-kong-vs-k-rool-challenge.json](./307722-donkey-kong-vs-k-rool-challenge.json) |
 | Donkey Kong-e | 170011 | [170011-donkey-kong-e.json](./170011-donkey-kong-e.json) |
 | Donkey Kong: Coconut Crackers | 131903 | [131903-donkey-kong-coconut-crackers.json](./131903-donkey-kong-coconut-crackers.json) |
@@ -12635,6 +12644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 3: Resurrection of Evil | 332410 | [332410-doom-3-resurrection-of-evil.json](./332410-doom-3-resurrection-of-evil.json) |
 | Doom 3: The Lost Mission | 167753 | [167753-doom-3-the-lost-mission.json](./167753-doom-3-the-lost-mission.json) |
 | Doom 3: VR Edition | 144524 | [144524-doom-3-vr-edition.json](./144524-doom-3-vr-edition.json) |
+| Doom 32X: Resurrection | 308728 | [308728-doom-32x-resurrection.json](./308728-doom-32x-resurrection.json) |
 | Doom 4 For Doom | 201182 | [201182-doom-4-for-doom.json](./201182-doom-4-for-doom.json) |
 | Doom 4 Vanilla | 144158 | [144158-doom-4-vanilla.json](./144158-doom-4-vanilla.json) |
 | Doom 64 EX | 50250 | [50250-doom-64-ex.json](./50250-doom-64-ex.json) |
@@ -13609,6 +13619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downhill Snowboard | 95318 | [95318-downhill-snowboard.json](./95318-downhill-snowboard.json) |
 | Downhill Xtreme | 62040 | [62040-downhill-xtreme.json](./62040-downhill-xtreme.json) |
 | DownhillMadness | 235800 | [235800-downhillmadness.json](./235800-downhillmadness.json) |
+| DownhillVR | 308712 | [308712-downhillvr.json](./308712-downhillvr.json) |
 | Downland | 93146 | [93146-downland.json](./93146-downland.json) |
 | Download RAM Idle | 400222 | [400222-download-ram-idle.json](./400222-download-ram-idle.json) |
 | Download RAM Idle 2 | 400221 | [400221-download-ram-idle-2.json](./400221-download-ram-idle-2.json) |
@@ -16894,6 +16905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Hunt | 377642 | [377642-duck-hunt.json](./377642-duck-hunt.json) |
 | Duck Hunt | 78487 | [78487-duck-hunt.json](./78487-duck-hunt.json) |
 | Duck Hunt 2 | 127992 | [127992-duck-hunt-2.json](./127992-duck-hunt-2.json) |
+| Duck Hunt JS | 308733 | [308733-duck-hunt-js.json](./308733-duck-hunt-js.json) |
 | Duck Hunt Pro | 326693 | [326693-duck-hunt-pro.json](./326693-duck-hunt-pro.json) |
 | Duck Hunt Remake | 254462 | [254462-duck-hunt-remake.json](./254462-duck-hunt-remake.json) |
 | Duck Hunt VR | 27517 | [27517-duck-hunt-vr.json](./27517-duck-hunt-vr.json) |
