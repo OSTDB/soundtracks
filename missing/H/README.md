@@ -10413,6 +10413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Mogul: Las Vegas | 54100 | [54100-hotel-mogul-las-vegas.json](./54100-hotel-mogul-las-vegas.json) |
 | Hotel of the Dead | 274749 | [274749-hotel-of-the-dead.json](./274749-hotel-of-the-dead.json) |
 | Hotel on the Grate | 180015 | [180015-hotel-on-the-grate.json](./180015-hotel-on-the-grate.json) |
+| Hotel Overloop | 302310 | [302310-hotel-overloop.json](./302310-hotel-overloop.json) |
 | Hotel Owner Simulator | 321320 | [321320-hotel-owner-simulator.json](./321320-hotel-owner-simulator.json) |
 | Hotel Paraíso | 401868 | [401868-hotel-paraiso.json](./401868-hotel-paraiso.json) |
 | Hotel Paris | 160013 | [160013-hotel-paris.json](./160013-hotel-paris.json) |
