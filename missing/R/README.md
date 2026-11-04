@@ -2755,6 +2755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Readyyy! | 270757 | [270757-readyyy.json](./270757-readyyy.json) |
 | Reagan Gorbachev | 35414 | [35414-reagan-gorbachev.json](./35414-reagan-gorbachev.json) |
 | Reah: Face the Unknown | 70448 | [70448-reah-face-the-unknown.json](./70448-reah-face-the-unknown.json) |
+| Reaktor | 327082 | [327082-reaktor.json](./327082-reaktor.json) |
 | Reaktor | 40165 | [40165-reaktor.json](./40165-reaktor.json) |
 | Reaktron | 121706 | [121706-reaktron.json](./121706-reaktron.json) |
 | Real Adventures: Pet Vet | 123384 | [123384-real-adventures-pet-vet.json](./123384-real-adventures-pet-vet.json) |
@@ -3061,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm Of I | 291547 | [291547-realm-of-i.json](./291547-realm-of-i.json) |
 | Realm of Ink | 274368 | [274368-realm-of-ink.json](./274368-realm-of-ink.json) |
 | Realm of Khaos | 228040 | [228040-realm-of-khaos.json](./228040-realm-of-khaos.json) |
+| Realm of Lament | 326914 | [326914-realm-of-lament.json](./326914-realm-of-lament.json) |
 | Realm of Mecha | 197324 | [197324-realm-of-mecha.json](./197324-realm-of-mecha.json) |
 | Realm of Mystery | 365288 | [365288-realm-of-mystery.json](./365288-realm-of-mystery.json) |
 | Realm of Night: The Forbidden Knowledge | 148307 | [148307-realm-of-night-the-forbidden-knowledge.json](./148307-realm-of-night-the-forbidden-knowledge.json) |
@@ -8285,6 +8287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Z Survival: The Last Winter | 105089 | [105089-road-z-survival-the-last-winter.json](./105089-road-z-survival-the-last-winter.json) |
 | Road-Frog | 137340 | [137340-road-frog.json](./137340-road-frog.json) |
 | Road's Edge | 28135 | [28135-roads-edge.json](./28135-roads-edge.json) |
+| Road59: A Yakuza’s Last Stand | 326923 | [326923-road59-a-yakuza-s-last-stand.json](./326923-road59-a-yakuza-s-last-stand.json) |
 | Roadclub: League Racing | 33644 | [33644-roadclub-league-racing.json](./33644-roadclub-league-racing.json) |
 | RoadCraft | 314239 | [314239-roadcraft.json](./314239-roadcraft.json) |
 | RoadCraft: 1-Year Anniversary Edition | 397906 | [397906-roadcraft-1-year-anniversary-edition.json](./397906-roadcraft-1-year-anniversary-edition.json) |
