@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Garden, Portland, the Day Before My Wedding | 131877 | [131877-zen-garden-portland-the-day-before-my-wedding.json](./131877-zen-garden-portland-the-day-before-my-wedding.json) |
 | Zen Golf | 215663 | [215663-zen-golf.json](./215663-zen-golf.json) |
 | Zen Idle: Gravity Meditation | 233403 | [233403-zen-idle-gravity-meditation.json](./233403-zen-idle-gravity-meditation.json) |
+| Zen Jinrui 5 Man Nen Hikikomori | 334416 | [334416-zen-jinrui-5-man-nen-hikikomori.json](./334416-zen-jinrui-5-man-nen-hikikomori.json) |
 | Zen Koi | 255841 | [255841-zen-koi.json](./255841-zen-koi.json) |
 | Zen Koi 2 | 90702 | [90702-zen-koi-2.json](./90702-zen-koi-2.json) |
 | Zen L'Initié | 181634 | [181634-zen-linitie.json](./181634-zen-linitie.json) |
@@ -763,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenless Zone Zero: Update 1.2 - Tour de Inferno | 320109 | [320109-zenless-zone-zero-update-1-2-tour-de-inferno.json](./320109-zenless-zone-zero-update-1-2-tour-de-inferno.json) |
 | Zenless Zone Zero: Update 1.3 - Virtual Revenge | 320860 | [320860-zenless-zone-zero-update-1-3-virtual-revenge.json](./320860-zenless-zone-zero-update-1-3-virtual-revenge.json) |
 | Zenless Zone Zero: Update 1.5 - Astra-nomical Moment | 327812 | [327812-zenless-zone-zero-update-1-5-astra-nomical-moment.json](./327812-zenless-zone-zero-update-1-5-astra-nomical-moment.json) |
+| Zenless Zone Zero: Update 1.6 - Among the Forgotten Ruins | 334411 | [334411-zenless-zone-zero-update-1-6-among-the-forgotten-ruins.json](./334411-zenless-zone-zero-update-1-6-among-the-forgotten-ruins.json) |
 | Zenless Zone Zero: Update 1.7 - Bury Your Tears With the Past | 339793 | [339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json](./339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json) |
 | Zenless Zone Zero: Update 2.0 - Where Clouds Embrace the Dawn | 344802 | [344802-zenless-zone-zero-update-2-0-where-clouds-embrace-the-dawn.json](./344802-zenless-zone-zero-update-2-0-where-clouds-embrace-the-dawn.json) |
 | Zenless Zone Zero: Update 2.1 - The Impending Crash of Waves | 353155 | [353155-zenless-zone-zero-update-2-1-the-impending-crash-of-waves.json](./353155-zenless-zone-zero-update-2-1-the-impending-crash-of-waves.json) |
