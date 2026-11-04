@@ -17099,6 +17099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Premium Edition | 221591 | [221591-moto-rush-gt-premium-edition.json](./221591-moto-rush-gt-premium-edition.json) |
 | Moto Rush GT: Prime Edition | 271503 | [271503-moto-rush-gt-prime-edition.json](./271503-moto-rush-gt-prime-edition.json) |
 | Moto Rush GT: Silver Edition | 254688 | [254688-moto-rush-gt-silver-edition.json](./254688-moto-rush-gt-silver-edition.json) |
+| Moto Rush GT: Style Edition | 328769 | [328769-moto-rush-gt-style-edition.json](./328769-moto-rush-gt-style-edition.json) |
 | Moto Rush GT: Throne Edition | 412583 | [412583-moto-rush-gt-throne-edition.json](./412583-moto-rush-gt-throne-edition.json) |
 | Moto Rush GT: Ultimate Edition | 283138 | [283138-moto-rush-gt-ultimate-edition.json](./283138-moto-rush-gt-ultimate-edition.json) |
 | Moto Rush GT: Ultra Edition | 332512 | [332512-moto-rush-gt-ultra-edition.json](./332512-moto-rush-gt-ultra-edition.json) |
@@ -17243,6 +17244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbike Racing Triple Pack | 149047 | [149047-motorbike-racing-triple-pack.json](./149047-motorbike-racing-triple-pack.json) |
 | Motorbike Shop Simulator 2025 | 372971 | [372971-motorbike-shop-simulator-2025.json](./372971-motorbike-shop-simulator-2025.json) |
 | Motorbike Simulator MX Driving | 312446 | [312446-motorbike-simulator-mx-driving.json](./312446-motorbike-simulator-mx-driving.json) |
+| Motorbikes Pro 2025 | 328737 | [328737-motorbikes-pro-2025.json](./328737-motorbikes-pro-2025.json) |
 | Motorbikes Pro 2025: Discovery Edition | 399822 | [399822-motorbikes-pro-2025-discovery-edition.json](./399822-motorbikes-pro-2025-discovery-edition.json) |
 | Motorbikes Pro 2025: Prime Edition | 404281 | [404281-motorbikes-pro-2025-prime-edition.json](./404281-motorbikes-pro-2025-prime-edition.json) |
 | Motorbikes Pro 2025: Super Edition | 409973 | [409973-motorbikes-pro-2025-super-edition.json](./409973-motorbikes-pro-2025-super-edition.json) |
