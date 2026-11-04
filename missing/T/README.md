@@ -7525,6 +7525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crypts of Anak Shaba | 30188 | [30188-the-crypts-of-anak-shaba.json](./30188-the-crypts-of-anak-shaba.json) |
 | The Crypts of Plumbous | 74026 | [74026-the-crypts-of-plumbous.json](./74026-the-crypts-of-plumbous.json) |
 | The Crystal Archer Girl | 295342 | [295342-the-crystal-archer-girl.json](./295342-the-crystal-archer-girl.json) |
+| The Crystal Frog | 317147 | [317147-the-crystal-frog.json](./317147-the-crystal-frog.json) |
 | The Crystal Golem | 152273 | [152273-the-crystal-golem.json](./152273-the-crystal-golem.json) |
 | The Crystal Key | 47063 | [47063-the-crystal-key.json](./47063-the-crystal-key.json) |
 | The Crystal Maze | 13247 | [13247-the-crystal-maze.json](./13247-the-crystal-maze.json) |
@@ -16842,6 +16843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Table Game | 93975 | [93975-the-table-game.json](./93975-the-table-game.json) |
 | The Tabung | 196310 | [196310-the-tabung.json](./196310-the-tabung.json) |
 | The Tactics of War | 109881 | [109881-the-tactics-of-war.json](./109881-the-tactics-of-war.json) |
+| The Tag-along Obsession | 317158 | [317158-the-tag-along-obsession.json](./317158-the-tag-along-obsession.json) |
 | THE Taikan! Sports Pack: Tennis, Bowling, Golf, Billiard | 136638 | [136638-the-taikan-sports-pack-tennis-bowling-golf-billiard.json](./136638-the-taikan-sports-pack-tennis-bowling-golf-billiard.json) |
 | The Tail Of Beta Lyrae | 23578 | [23578-the-tail-of-beta-lyrae.json](./23578-the-tail-of-beta-lyrae.json) |
 | The Tail of King Boris of Oris | 364661 | [364661-the-tail-of-king-boris-of-oris.json](./364661-the-tail-of-king-boris-of-oris.json) |
@@ -19070,6 +19072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thesmophoria | 244304 | [244304-thesmophoria.json](./244304-thesmophoria.json) |
 | TheSpoiler | 289962 | [289962-thespoiler.json](./289962-thespoiler.json) |
 | Theta | 67736 | [67736-theta.json](./67736-theta.json) |
+| Theta and Paralldoxs on Worldlines | 317165 | [317165-theta-and-paralldoxs-on-worldlines.json](./317165-theta-and-paralldoxs-on-worldlines.json) |
 | Thetaball | 81831 | [81831-thetaball.json](./81831-thetaball.json) |
 | Thetan Arena | 172547 | [172547-thetan-arena.json](./172547-thetan-arena.json) |
 | Thetan Rivals | 271329 | [271329-thetan-rivals.json](./271329-thetan-rivals.json) |
@@ -29153,6 +29156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Cove! | 100081 | [100081-treasure-cove.json](./100081-treasure-cove.json) |
 | Treasure Cove! + Treasure Mountain! | 93125 | [93125-treasure-cove-treasure-mountain.json](./93125-treasure-cove-treasure-mountain.json) |
 | Treasure Dive | 278504 | [278504-treasure-dive.json](./278504-treasure-dive.json) |
+| Treasure Dive | 317459 | [317459-treasure-dive.json](./317459-treasure-dive.json) |
 | Treasure Drop | 373651 | [373651-treasure-drop.json](./373651-treasure-drop.json) |
 | Treasure Drop: Complete Edition | 385211 | [385211-treasure-drop-complete-edition.json](./385211-treasure-drop-complete-edition.json) |
 | Treasure Drop: Gold Edition | 376775 | [376775-treasure-drop-gold-edition.json](./376775-treasure-drop-gold-edition.json) |
