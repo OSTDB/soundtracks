@@ -2683,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn Break: Night Witch | 294678 | [294678-dawn-break-night-witch.json](./294678-dawn-break-night-witch.json) |
 | Dawn Break: The Flaming Emperor | 95690 | [95690-dawn-break-the-flaming-emperor.json](./95690-dawn-break-the-flaming-emperor.json) |
 | Dawn Car | 371258 | [371258-dawn-car.json](./371258-dawn-car.json) |
+| Dawn Chorus | 300636 | [300636-dawn-chorus.json](./300636-dawn-chorus.json) |
 | Dawn City | 81775 | [81775-dawn-city.json](./81775-dawn-city.json) |
 | Dawn Girl | 392115 | [392115-dawn-girl.json](./392115-dawn-girl.json) |
 | Dawn in Arctic | 308340 | [308340-dawn-in-arctic.json](./308340-dawn-in-arctic.json) |
@@ -10317,6 +10318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Mulan Training Game | 246946 | [246946-disneys-mulan-training-game.json](./246946-disneys-mulan-training-game.json) |
 | Disney's Party | 242808 | [242808-disneys-party.json](./242808-disneys-party.json) |
 | Disney's Party | 3886 | [3886-disneys-party.json](./3886-disneys-party.json) |
+| Disney's Peter Pan: Return to Neverland | 300977 | [300977-disneys-peter-pan-return-to-neverland.json](./300977-disneys-peter-pan-return-to-neverland.json) |
 | Disney's Peter Pan: The Legend of Never Land | 79954 | [79954-disneys-peter-pan-the-legend-of-never-land.json](./79954-disneys-peter-pan-the-legend-of-never-land.json) |
 | Disney's Pinocchio | 308714 | [308714-disneys-pinocchio.json](./308714-disneys-pinocchio.json) |
 | Disney's Pinocchio | 38844 | [38844-disneys-pinocchio.json](./38844-disneys-pinocchio.json) |
@@ -10759,6 +10761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIY Fashion Star | 289210 | [289210-diy-fashion-star.json](./289210-diy-fashion-star.json) |
 | DIY Fashion Star - Design Hacks Clothing Game | 104486 | [104486-diy-fashion-star-design-hacks-clothing-game.json](./104486-diy-fashion-star-design-hacks-clothing-game.json) |
 | DIY Fashion Star: Arts & Crafts | 289211 | [289211-diy-fashion-star-arts-and-crafts.json](./289211-diy-fashion-star-arts-and-crafts.json) |
+| DIY Fashion Star: Beauty Edition | 300898 | [300898-diy-fashion-star-beauty-edition.json](./300898-diy-fashion-star-beauty-edition.json) |
 | DIY Fashion Star: Complete Edition | 292918 | [292918-diy-fashion-star-complete-edition.json](./292918-diy-fashion-star-complete-edition.json) |
 | DIY Fashion Star: Glow Up! | 289212 | [289212-diy-fashion-star-glow-up.json](./289212-diy-fashion-star-glow-up.json) |
 | DIY Fashion Star: Stylish Edition | 305600 | [305600-diy-fashion-star-stylish-edition.json](./305600-diy-fashion-star-stylish-edition.json) |
@@ -16006,6 +16009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift King | 164199 | [164199-drift-king.json](./164199-drift-king.json) |
 | Drift King Shuto-kou Battle 2: Tsuchiya Keiichi & Bandou Masaaki | 46582 | [46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json](./46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json) |
 | Drift King: Survival | 30601 | [30601-drift-king-survival.json](./30601-drift-king-survival.json) |
+| Drift Legacy: Deluxe Edition | 300897 | [300897-drift-legacy-deluxe-edition.json](./300897-drift-legacy-deluxe-edition.json) |
 | Drift Legends | 89647 | [89647-drift-legends.json](./89647-drift-legends.json) |
 | Drift Legends 2 | 266258 | [266258-drift-legends-2.json](./266258-drift-legends-2.json) |
 | Drift Long Racing | 149783 | [149783-drift-long-racing.json](./149783-drift-long-racing.json) |
@@ -18692,6 +18696,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Dashers | 376464 | [376464-dynamite-dashers.json](./376464-dynamite-dashers.json) |
 | Dynamite Day | 415916 | [415916-dynamite-day.json](./415916-dynamite-day.json) |
 | Dynamite Deka | 296787 | [296787-dynamite-deka.json](./296787-dynamite-deka.json) |
+| Dynamite Duchess 2: Appetite for Detention | 300633 | [300633-dynamite-duchess-2-appetite-for-detention.json](./300633-dynamite-duchess-2-appetite-for-detention.json) |
+| Dynamite Duchess 3: Carnival of Souls | 300632 | [300632-dynamite-duchess-3-carnival-of-souls.json](./300632-dynamite-duchess-3-carnival-of-souls.json) |
 | Dynamite Duke | 39651 | [39651-dynamite-duke.json](./39651-dynamite-duke.json) |
 | Dynamite Düx | 12730 | [12730-dynamite-dux.json](./12730-dynamite-dux.json) |
 | Dynamite Fishing: World Games | 59898 | [59898-dynamite-fishing-world-games.json](./59898-dynamite-fishing-world-games.json) |
