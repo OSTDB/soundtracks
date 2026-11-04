@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maestro! Green Groove | 67080 | [67080-maestro-green-groove.json](./67080-maestro-green-groove.json) |
 | Maestro! Jump in Music | 22980 | [22980-maestro-jump-in-music.json](./22980-maestro-jump-in-music.json) |
 | Maestro's Cold War 2 | 323013 | [323013-maestros-cold-war-2.json](./323013-maestros-cold-war-2.json) |
+| Maeve's Academy | 300154 | [300154-maeves-academy.json](./300154-maeves-academy.json) |
 | Mǎfǎ Chuánqí | 159812 | [159812-mafa-chuanqi.json](./159812-mafa-chuanqi.json) |
 | Mafalda: Jugando con Números y Palabras | 167760 | [167760-mafalda-jugando-con-numeros-y-palabras.json](./167760-mafalda-jugando-con-numeros-y-palabras.json) |
 | Mafate | 347828 | [347828-mafate.json](./347828-mafate.json) |
@@ -2194,6 +2195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maimai Orange | 60814 | [60814-maimai-orange.json](./60814-maimai-orange.json) |
 | Maimai Orange Plus | 330970 | [330970-maimai-orange-plus.json](./330970-maimai-orange-plus.json) |
 | Maimai Plus | 330948 | [330948-maimai-plus.json](./330948-maimai-plus.json) |
+| Maimaimai Goen | 300114 | [300114-maimaimai-goen.json](./300114-maimaimai-goen.json) |
 | Maimaimaigoen | 368082 | [368082-maimaimaigoen.json](./368082-maimaimaigoen.json) |
 | Maimaimaigoen: Episode 1 - Welcome to Uropia | 343898 | [343898-maimaimaigoen-episode-1-welcome-to-uropia.json](./343898-maimaimaigoen-episode-1-welcome-to-uropia.json) |
 | Maimaimaigoen: Episode 2 - Promises and Crayons | 343901 | [343901-maimaimaigoen-episode-2-promises-and-crayons.json](./343901-maimaimaigoen-episode-2-promises-and-crayons.json) |
@@ -5735,7 +5737,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7675,6 +7676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: The New Lands | 219408 | [219408-mega-man-the-new-lands.json](./219408-mega-man-the-new-lands.json) |
 | Mega Man: The New Lands Remastered | 269873 | [269873-mega-man-the-new-lands-remastered.json](./269873-mega-man-the-new-lands-remastered.json) |
 | Mega Man: The Power Battle | 1724 | [1724-mega-man-the-power-battle.json](./1724-mega-man-the-power-battle.json) |
+| Mega Man: The Rulers of Space | 300053 | [300053-mega-man-the-rulers-of-space.json](./300053-mega-man-the-rulers-of-space.json) |
 | Mega Man: The Sequel Wars | 215146 | [215146-mega-man-the-sequel-wars.json](./215146-mega-man-the-sequel-wars.json) |
 | Mega Man: The Sequel Wars - Episode Red | 270231 | [270231-mega-man-the-sequel-wars-episode-red.json](./270231-mega-man-the-sequel-wars-episode-red.json) |
 | Mega Man: The Wily Wars | 1727 | [1727-mega-man-the-wily-wars.json](./1727-mega-man-the-wily-wars.json) |
@@ -19514,6 +19516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Brother the Sacrifice | 123643 | [123643-my-brother-the-sacrifice.json](./123643-my-brother-the-sacrifice.json) |
 | My Brute | 67882 | [67882-my-brute.json](./67882-my-brute.json) |
 | My Buddy Did Something Weird And Now I Have Feelings For Him??!?!? | 308285 | [308285-my-buddy-did-something-weird-and-now-i-have-feelings-for-him.json](./308285-my-buddy-did-something-weird-and-now-i-have-feelings-for-him.json) |
+| My Buddy Fisk | 299672 | [299672-my-buddy-fisk.json](./299672-my-buddy-fisk.json) |
 | My Bullied Bride | 112950 | [112950-my-bullied-bride.json](./112950-my-bullied-bride.json) |
 | My Bunny Girl | 211068 | [211068-my-bunny-girl.json](./211068-my-bunny-girl.json) |
 | My Business | 152154 | [152154-my-business.json](./152154-my-business.json) |
@@ -21126,6 +21129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of the Ancients: Mudwater Creek | 74415 | [74415-mystery-of-the-ancients-mudwater-creek.json](./74415-mystery-of-the-ancients-mudwater-creek.json) |
 | Mystery of the Ancients: Three Guardians | 140237 | [140237-mystery-of-the-ancients-three-guardians.json](./140237-mystery-of-the-ancients-three-guardians.json) |
 | Mystery of the Ancients: Three Guardians - Collector's Edition | 117133 | [117133-mystery-of-the-ancients-three-guardians-collectors-edition.json](./117133-mystery-of-the-ancients-three-guardians-collectors-edition.json) |
+| Mystery of the Capsmith | 300212 | [300212-mystery-of-the-capsmith.json](./300212-mystery-of-the-capsmith.json) |
 | Mystery of the Crystal Portal | 25453 | [25453-mystery-of-the-crystal-portal.json](./25453-mystery-of-the-crystal-portal.json) |
 | Mystery of the Dark Jewels | 54243 | [54243-mystery-of-the-dark-jewels.json](./54243-mystery-of-the-dark-jewels.json) |
 | Mystery of the Lost Temples | 61103 | [61103-mystery-of-the-lost-temples.json](./61103-mystery-of-the-lost-temples.json) |
