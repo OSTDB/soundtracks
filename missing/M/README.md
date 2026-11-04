@@ -5701,7 +5701,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9497,6 +9496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Sonic Quest | 337571 | [337571-metal-sonic-quest.json](./337571-metal-sonic-quest.json) |
 | Metal Sonic Quest 2: Return and Revenge | 330119 | [330119-metal-sonic-quest-2-return-and-revenge.json](./330119-metal-sonic-quest-2-return-and-revenge.json) |
 | Metal Sonic Rebooted | 129168 | [129168-metal-sonic-rebooted.json](./129168-metal-sonic-rebooted.json) |
+| Metal Sonic's Big Adventure | 331077 | [331077-metal-sonics-big-adventure.json](./331077-metal-sonics-big-adventure.json) |
 | Metal Storm | 48170 | [48170-metal-storm.json](./48170-metal-storm.json) |
 | Metal Storm X | 257240 | [257240-metal-storm-x.json](./257240-metal-storm-x.json) |
 | Metal Strike | 166928 | [166928-metal-strike.json](./166928-metal-strike.json) |
@@ -17440,6 +17440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mourir en mer | 70435 | [70435-mourir-en-mer.json](./70435-mourir-en-mer.json) |
 | Mourn-born | 204938 | [204938-mourn-born.json](./204938-mourn-born.json) |
 | Mournful Sword | 121583 | [121583-mournful-sword.json](./121583-mournful-sword.json) |
+| Mournight | 331047 | [331047-mournight.json](./331047-mournight.json) |
 | Mourning Inc. | 158035 | [158035-mourning-inc.json](./158035-mourning-inc.json) |
 | Mourning Tide | 306174 | [306174-mourning-tide.json](./306174-mourning-tide.json) |
 | Mourningwood Lodge | 370104 | [370104-mourningwood-lodge.json](./370104-mourningwood-lodge.json) |
