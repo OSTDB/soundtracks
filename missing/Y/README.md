@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yaoling: Mythical Journey | 304279 | [304279-yaoling-mythical-journey.json](./304279-yaoling-mythical-journey.json) |
 | Yaoyoro Zoo | 356299 | [356299-yaoyoro-zoo.json](./356299-yaoyoro-zoo.json) |
 | Yap Wizards Tower Defence | 367502 | [367502-yap-wizards-tower-defence.json](./367502-yap-wizards-tower-defence.json) |
+| YAPG | 315424 | [315424-yapg.json](./315424-yapg.json) |
 | Yapori Advance | 392747 | [392747-yapori-advance.json](./392747-yapori-advance.json) |
 | Yapori Dimensões | 420773 | [420773-yapori-dimensoes.json](./420773-yapori-dimensoes.json) |
 | Yapori Minigames | 302772 | [302772-yapori-minigames.json](./302772-yapori-minigames.json) |
