@@ -942,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4802,6 +4803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear in Super Action Adventure | 101906 | [101906-bear-in-super-action-adventure.json](./101906-bear-in-super-action-adventure.json) |
 | Bear in Super Action Adventure 2 | 95984 | [95984-bear-in-super-action-adventure-2.json](./95984-bear-in-super-action-adventure-2.json) |
 | Bear in the Snow | 362882 | [362882-bear-in-the-snow.json](./362882-bear-in-the-snow.json) |
+| Bear in Venice | 314767 | [314767-bear-in-venice.json](./314767-bear-in-venice.json) |
 | Bear It | 277762 | [277762-bear-it.json](./277762-bear-it.json) |
 | Bear Jojo | 278563 | [278563-bear-jojo.json](./278563-bear-jojo.json) |
 | Bear Jump | 328200 | [328200-bear-jump.json](./328200-bear-jump.json) |
