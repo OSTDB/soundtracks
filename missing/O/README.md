@@ -4130,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ornélia | 403776 | [403776-ornelia.json](./403776-ornelia.json) |
 | Oroboro | 311203 | [311203-oroboro.json](./311203-oroboro.json) |
 | Oroboros | 223259 | [223259-oroboros.json](./223259-oroboros.json) |
+| Oroboros Square | 340821 | [340821-oroboros-square.json](./340821-oroboros-square.json) |
 | Oroborus: Planes of the Dead | 152709 | [152709-oroborus-planes-of-the-dead.json](./152709-oroborus-planes-of-the-dead.json) |
 | Orogenesis | 103047 | [103047-orogenesis.json](./103047-orogenesis.json) |
 | Ororo | 404983 | [404983-ororo.json](./404983-ororo.json) |
