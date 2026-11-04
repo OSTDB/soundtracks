@@ -18019,6 +18019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Geese | 51855 | [51855-dungeons-and-geese.json](./51855-dungeons-and-geese.json) |
 | Dungeons & Guns | 158081 | [158081-dungeons-and-guns.json](./158081-dungeons-and-guns.json) |
 | Dungeons & Keyboards | 250953 | [250953-dungeons-and-keyboards.json](./250953-dungeons-and-keyboards.json) |
+| Dungeons & Kingdoms | 312778 | [312778-dungeons-and-kingdoms.json](./312778-dungeons-and-kingdoms.json) |
 | Dungeons & Lesbians | 134554 | [134554-dungeons-and-lesbians.json](./134554-dungeons-and-lesbians.json) |
 | Dungeons & Miners | 174256 | [174256-dungeons-and-miners.json](./174256-dungeons-and-miners.json) |
 | Dungeons & Such | 104511 | [104511-dungeons-and-such.json](./104511-dungeons-and-such.json) |
