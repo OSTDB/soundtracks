@@ -7790,6 +7790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Purr | 241410 | [241410-sherlock-purr.json](./241410-sherlock-purr.json) |
 | Sherlock Purr 2 | 292155 | [292155-sherlock-purr-2.json](./292155-sherlock-purr-2.json) |
 | Sherlock Purr 2: Deluxe Edition | 314890 | [314890-sherlock-purr-2-deluxe-edition.json](./314890-sherlock-purr-2-deluxe-edition.json) |
+| Sherlock Purr 2: Extended Edition | 300885 | [300885-sherlock-purr-2-extended-edition.json](./300885-sherlock-purr-2-extended-edition.json) |
 | Sherlock Purr Adventures | 332339 | [332339-sherlock-purr-adventures.json](./332339-sherlock-purr-adventures.json) |
 | Sherlock Purr: Extended Edition | 243369 | [243369-sherlock-purr-extended-edition.json](./243369-sherlock-purr-extended-edition.json) |
 | Sherlock Spot DX | 370823 | [370823-sherlock-spot-dx.json](./370823-sherlock-spot-dx.json) |
@@ -18462,6 +18463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: Snow Day! - Hammer | 324489 | [324489-south-park-snow-day-hammer.json](./324489-south-park-snow-day-hammer.json) |
 | South Park: Snow Day! - Nichole's Home Brew | 324478 | [324478-south-park-snow-day-nicholes-home-brew.json](./324478-south-park-snow-day-nicholes-home-brew.json) |
 | South Park: Snow Day! - Nonconformist Weapon Variation Pack | 316257 | [316257-south-park-snow-day-nonconformist-weapon-variation-pack.json](./316257-south-park-snow-day-nonconformist-weapon-variation-pack.json) |
+| South Park: Snow Day! - Snowball | 300918 | [300918-south-park-snow-day-snowball.json](./300918-south-park-snow-day-snowball.json) |
 | South Park: Snow Day! - To Danse with the Veiled Horde | 316258 | [316258-south-park-snow-day-to-danse-with-the-veiled-horde.json](./316258-south-park-snow-day-to-danse-with-the-veiled-horde.json) |
 | South Park: Tenorman's Revenge | 1261 | [1261-south-park-tenormans-revenge.json](./1261-south-park-tenormans-revenge.json) |
 | South Park: The Fractured But Whole - Amazon Steel Book Edition | 2026 | [2026-south-park-the-fractured-but-whole-amazon-steel-book-edition.json](./2026-south-park-the-fractured-but-whole-amazon-steel-book-edition.json) |
@@ -19052,6 +19054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23958,6 +23961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Heritage Pack | 200175 | [200175-star-wars-heritage-pack.json](./200175-star-wars-heritage-pack.json) |
 | Star Wars: Heritage Pack | 247756 | [247756-star-wars-heritage-pack.json](./247756-star-wars-heritage-pack.json) |
 | Star Wars: Heroes Path | 75566 | [75566-star-wars-heroes-path.json](./75566-star-wars-heroes-path.json) |
+| Star Wars: Hunters - Bounty Pack | 300917 | [300917-star-wars-hunters-bounty-pack.json](./300917-star-wars-hunters-bounty-pack.json) |
 | Star Wars: Hunters - Frosty Nerf Herder Cosmetic Pack | 328991 | [328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json](./328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json) |
 | Star Wars: Hunters - Gorax Fury Cosmetic Pack | 324394 | [324394-star-wars-hunters-gorax-fury-cosmetic-pack.json](./324394-star-wars-hunters-gorax-fury-cosmetic-pack.json) |
 | Star Wars: Hunters - Season 2: Empire Resurgent | 317322 | [317322-star-wars-hunters-season-2-empire-resurgent.json](./317322-star-wars-hunters-season-2-empire-resurgent.json) |
@@ -24272,6 +24276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust Escape | 373158 | [373158-stardust-escape.json](./373158-stardust-escape.json) |
 | Stardust Falls | 134264 | [134264-stardust-falls.json](./134264-stardust-falls.json) |
 | Stardust Galaxy Warriors: Stellar Climax | 23957 | [23957-stardust-galaxy-warriors-stellar-climax.json](./23957-stardust-galaxy-warriors-stellar-climax.json) |
+| Stardust Kids | 300634 | [300634-stardust-kids.json](./300634-stardust-kids.json) |
 | Stardust League | 222391 | [222391-stardust-league.json](./222391-stardust-league.json) |
 | Stardust Odyssey | 122994 | [122994-stardust-odyssey.json](./122994-stardust-odyssey.json) |
 | Stardust Rain | 274965 | [274965-stardust-rain.json](./274965-stardust-rain.json) |
@@ -30103,7 +30108,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dungeon Bros: Broettes | 172385 | [172385-super-dungeon-bros-broettes.json](./172385-super-dungeon-bros-broettes.json) |
 | Super Dungeon Explore | 58550 | [58550-super-dungeon-explore.json](./58550-super-dungeon-explore.json) |
 | Super Dungeon Maker | 152091 | [152091-super-dungeon-maker.json](./152091-super-dungeon-maker.json) |
+| Super Dungeon Maker: DIY Edition | 300884 | [300884-super-dungeon-maker-diy-edition.json](./300884-super-dungeon-maker-diy-edition.json) |
 | Super Dungeon Maker: Fink's Awakening | 174074 | [174074-super-dungeon-maker-finks-awakening.json](./174074-super-dungeon-maker-finks-awakening.json) |
+| Super Dungeon Maker: Pets Pack | 300916 | [300916-super-dungeon-maker-pets-pack.json](./300916-super-dungeon-maker-pets-pack.json) |
 | Super Dungeon Muncher | 311602 | [311602-super-dungeon-muncher.json](./311602-super-dungeon-muncher.json) |
 | Super Dungeon Run | 34942 | [34942-super-dungeon-run.json](./34942-super-dungeon-run.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
@@ -34249,6 +34256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipe Fruit Smash | 103770 | [103770-swipe-fruit-smash.json](./103770-swipe-fruit-smash.json) |
 | Swipe Manager: Soccer 2018 | 252313 | [252313-swipe-manager-soccer-2018.json](./252313-swipe-manager-soccer-2018.json) |
 | Swipe Quest | 53695 | [53695-swipe-quest.json](./53695-swipe-quest.json) |
+| Swipe Right or Left Geography Binary Quiz | 300914 | [300914-swipe-right-or-left-geography-binary-quiz.json](./300914-swipe-right-or-left-geography-binary-quiz.json) |
 | Swipe Soccer | 92520 | [92520-swipe-soccer.json](./92520-swipe-soccer.json) |
 | Swipe Stream | 343195 | [343195-swipe-stream.json](./343195-swipe-stream.json) |
 | Swipe Tennis | 243508 | [243508-swipe-tennis.json](./243508-swipe-tennis.json) |
