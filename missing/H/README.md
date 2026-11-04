@@ -2322,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvey Birdman: File Frenzy | 396381 | [396381-harvey-birdman-file-frenzy.json](./396381-harvey-birdman-file-frenzy.json) |
 | Harvey Headbanger | 14106 | [14106-harvey-headbanger.json](./14106-harvey-headbanger.json) |
 | Harvey Norman: Windsor Queensland - Super Shareware: Games Volume 1 | 333858 | [333858-harvey-norman-windsor-queensland-super-shareware-games-volume-1.json](./333858-harvey-norman-windsor-queensland-super-shareware-games-volume-1.json) |
+| Harvey's Hundreds | 329310 | [329310-harveys-hundreds.json](./329310-harveys-hundreds.json) |
 | Has traicionado la Luna | 391656 | [391656-has-traicionado-la-luna.json](./391656-has-traicionado-la-luna.json) |
 | Has Your Dream of Dating a Cute Bunny Girl Finally Come True?! | 237442 | [237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json](./237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json) |
 | Hasamu | 40176 | [40176-hasamu.json](./40176-hasamu.json) |
@@ -9453,6 +9454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopeless: The Dark Cave | 56270 | [56270-hopeless-the-dark-cave.json](./56270-hopeless-the-dark-cave.json) |
 | Hopeless. | 228080 | [228080-hopeless.json](./228080-hopeless.json) |
 | Hopepunk City | 255098 | [255098-hopepunk-city.json](./255098-hopepunk-city.json) |
+| Hopetown | 329296 | [329296-hopetown.json](./329296-hopetown.json) |
 | Hopfall | 370126 | [370126-hopfall.json](./370126-hopfall.json) |
 | Hopfinity | 394986 | [394986-hopfinity.json](./394986-hopfinity.json) |
 | HopHeaders | 152627 | [152627-hopheaders.json](./152627-hopheaders.json) |
