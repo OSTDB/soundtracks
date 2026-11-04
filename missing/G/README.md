@@ -5585,6 +5585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Traders | 344014 | [344014-goblin-traders.json](./344014-goblin-traders.json) |
 | Goblin treasure | 129716 | [129716-goblin-treasure.json](./129716-goblin-treasure.json) |
 | Goblin Village | 353718 | [353718-goblin-village.json](./353718-goblin-village.json) |
+| Goblin Vyke: The Thief Tycoon | 347465 | [347465-goblin-vyke-the-thief-tycoon.json](./347465-goblin-vyke-the-thief-tycoon.json) |
 | Goblin Walker | 96420 | [96420-goblin-walker.json](./96420-goblin-walker.json) |
 | Goblin: Mutation | 366331 | [366331-goblin-mutation.json](./366331-goblin-mutation.json) |
 | Goblin.Life | 172190 | [172190-goblin-life.json](./172190-goblin-life.json) |
@@ -7967,6 +7968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
 | Graveball | 26169 | [26169-graveball.json](./26169-graveball.json) |
 | GraveBond | 272390 | [272390-gravebond.json](./272390-gravebond.json) |
+| Gravebound | 347427 | [347427-gravebound.json](./347427-gravebound.json) |
 | Gravebound Dash | 402903 | [402903-gravebound-dash.json](./402903-gravebound-dash.json) |
 | GraveBoy CrowFeet: A Quest for Skulls | 405030 | [405030-graveboy-crowfeet-a-quest-for-skulls.json](./405030-graveboy-crowfeet-a-quest-for-skulls.json) |
 | Gravedigger | 349188 | [349188-gravedigger.json](./349188-gravedigger.json) |
@@ -9005,6 +9007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Trace in Time | 187964 | [187964-grim-tales-trace-in-time.json](./187964-grim-tales-trace-in-time.json) |
 | Grim Tales: Trace in Time - Collector's Edition | 168166 | [168166-grim-tales-trace-in-time-collectors-edition.json](./168166-grim-tales-trace-in-time-collectors-edition.json) |
 | Grim Tranquility | 166477 | [166477-grim-tranquility.json](./166477-grim-tranquility.json) |
+| Grim Trials | 347439 | [347439-grim-trials.json](./347439-grim-trials.json) |
 | Grim Wanderings | 86552 | [86552-grim-wanderings.json](./86552-grim-wanderings.json) |
 | Grim Wanderings II | 170787 | [170787-grim-wanderings-ii.json](./170787-grim-wanderings-ii.json) |
 | Grim-chan's Soul Fight | 349177 | [349177-grim-chans-soul-fight.json](./349177-grim-chans-soul-fight.json) |
@@ -9721,6 +9724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Goddess | 255177 | [255177-guardian-goddess.json](./255177-guardian-goddess.json) |
 | Guardian Goddess | 291577 | [291577-guardian-goddess.json](./291577-guardian-goddess.json) |
 | Guardian Grids | 326540 | [326540-guardian-grids.json](./326540-guardian-grids.json) |
+| Guardian Grids 2 | 347442 | [347442-guardian-grids-2.json](./347442-guardian-grids-2.json) |
 | Guardian Hearts Online | 64445 | [64445-guardian-hearts-online.json](./64445-guardian-hearts-online.json) |
 | Guardian Heroes | 21838 | [21838-guardian-heroes.json](./21838-guardian-heroes.json) |
 | Guardian Heroes | 51635 | [51635-guardian-heroes.json](./51635-guardian-heroes.json) |
