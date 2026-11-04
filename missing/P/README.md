@@ -4106,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peppa Pig: World Adventures | 229119 | [229119-peppa-pig-world-adventures.json](./229119-peppa-pig-world-adventures.json) |
 | Pepper | 291850 | [291850-pepper.json](./291850-pepper.json) |
 | Pepper Blast | 362321 | [362321-pepper-blast.json](./362321-pepper-blast.json) |
+| Pepper Buster | 331646 | [331646-pepper-buster.json](./331646-pepper-buster.json) |
 | Pepper Girl | 226191 | [226191-pepper-girl.json](./226191-pepper-girl.json) |
 | Pepper II | 18803 | [18803-pepper-ii.json](./18803-pepper-ii.json) |
 | Pepper Odyssey | 349201 | [349201-pepper-odyssey.json](./349201-pepper-odyssey.json) |
@@ -10679,6 +10680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Emerald Legacy | 323041 | [323041-pokemon-emerald-legacy.json](./323041-pokemon-emerald-legacy.json) |
 | Pokémon Emerald Rogue | 221244 | [221244-pokemon-emerald-rogue.json](./221244-pokemon-emerald-rogue.json) |
 | Pokémon Emerald Rogue V2 | 308386 | [308386-pokemon-emerald-rogue-v2.json](./308386-pokemon-emerald-rogue-v2.json) |
+| Pokémon Emerald Slide | 331767 | [331767-pokemon-emerald-slide.json](./331767-pokemon-emerald-slide.json) |
 | Pokémon Emerald Z | 286922 | [286922-pokemon-emerald-z.json](./286922-pokemon-emerald-z.json) |
 | Pokémon Emerald: Double Edition | 296449 | [296449-pokemon-emerald-double-edition.json](./296449-pokemon-emerald-double-edition.json) |
 | Pokémon Emerental | 401514 | [401514-pokemon-emerental.json](./401514-pokemon-emerental.json) |
@@ -11734,6 +11736,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polymega Collection Vol. 15: Body Harvest | 380381 | [380381-polymega-collection-vol-15-body-harvest.json](./380381-polymega-collection-vol-15-body-harvest.json) |
 | Polymega Collection Vol. 16: A Boy and His Blob | 380382 | [380382-polymega-collection-vol-16-a-boy-and-his-blob.json](./380382-polymega-collection-vol-16-a-boy-and-his-blob.json) |
 | Polymega Collection Vol. 2: Karate Champ | 324512 | [324512-polymega-collection-vol-2-karate-champ.json](./324512-polymega-collection-vol-2-karate-champ.json) |
+| Polymega Collection Vol. 3: Tiger-Heli | 331642 | [331642-polymega-collection-vol-3-tiger-heli.json](./331642-polymega-collection-vol-3-tiger-heli.json) |
+| Polymega Collection Vol. 4: Drift Out | 331644 | [331644-polymega-collection-vol-4-drift-out.json](./331644-polymega-collection-vol-4-drift-out.json) |
 | Polymega Collection Vol. 5: Bad Dudes | 337540 | [337540-polymega-collection-vol-5-bad-dudes.json](./337540-polymega-collection-vol-5-bad-dudes.json) |
 | Polymega Collection Vol. 6: Heavy Barrel | 337542 | [337542-polymega-collection-vol-6-heavy-barrel.json](./337542-polymega-collection-vol-6-heavy-barrel.json) |
 | Polymega Collection Vol. 7: Breaker's | 339810 | [339810-polymega-collection-vol-7-breakers.json](./339810-polymega-collection-vol-7-breakers.json) |
@@ -12062,6 +12066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Prince | 285962 | [285962-poop-prince.json](./285962-poop-prince.json) |
 | Poop Rocket | 341562 | [341562-poop-rocket.json](./341562-poop-rocket.json) |
 | Poop Spotter: The Game To Improve the Quality of Poop~ | 294286 | [294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json](./294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json) |
+| Poop: Epic Poop | 331634 | [331634-poop-epic-poop.json](./331634-poop-epic-poop.json) |
 | PooPee Wars | 55623 | [55623-poopee-wars.json](./55623-poopee-wars.json) |
 | Pooper Deluxe | 58434 | [58434-pooper-deluxe.json](./58434-pooper-deluxe.json) |
 | Pooper Scooper | 74261 | [74261-pooper-scooper.json](./74261-pooper-scooper.json) |
@@ -13131,6 +13136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerboat Racing | 129509 | [129509-powerboat-racing.json](./129509-powerboat-racing.json) |
 | PowerBots Builders | 222812 | [222812-powerbots-builders.json](./222812-powerbots-builders.json) |
 | PowerBots Retro | 143566 | [143566-powerbots-retro.json](./143566-powerbots-retro.json) |
+| Powercell | 331630 | [331630-powercell.json](./331630-powercell.json) |
 | PowerCharge | 349398 | [349398-powercharge.json](./349398-powercharge.json) |
 | Powercity 9000 | 26634 | [26634-powercity-9000.json](./26634-powercity-9000.json) |
 | Powercut, Inc. | 110151 | [110151-powercut-inc.json](./110151-powercut-inc.json) |
