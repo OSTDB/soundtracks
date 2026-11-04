@@ -2450,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Land: Complete Edition | 270793 | [270793-farm-land-complete-edition.json](./270793-farm-land-complete-edition.json) |
 | Farm Land: Gold Edition | 385198 | [385198-farm-land-gold-edition.json](./385198-farm-land-gold-edition.json) |
 | Farm Land: Kitty Edition | 278652 | [278652-farm-land-kitty-edition.json](./278652-farm-land-kitty-edition.json) |
+| Farm Land: Parrot Edition | 300895 | [300895-farm-land-parrot-edition.json](./300895-farm-land-parrot-edition.json) |
 | Farm Land: Puppy Edition | 277904 | [277904-farm-land-puppy-edition.json](./277904-farm-land-puppy-edition.json) |
 | Farm Life | 278878 | [278878-farm-life.json](./278878-farm-life.json) |
 | Farm Life | 381011 | [381011-farm-life.json](./381011-farm-life.json) |
@@ -9100,6 +9101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For a Vast Future: Deluxe Edition | 268557 | [268557-for-a-vast-future-deluxe-edition.json](./268557-for-a-vast-future-deluxe-edition.json) |
 | For a Vast Future: Director's Cut | 295701 | [295701-for-a-vast-future-directors-cut.json](./295701-for-a-vast-future-directors-cut.json) |
 | For a Vast Future: Extended Edition | 275998 | [275998-for-a-vast-future-extended-edition.json](./275998-for-a-vast-future-extended-edition.json) |
+| For a Vast Future: GOTY Edition | 300899 | [300899-for-a-vast-future-goty-edition.json](./300899-for-a-vast-future-goty-edition.json) |
 | For a Vast Future: Legendary Edition | 288287 | [288287-for-a-vast-future-legendary-edition.json](./288287-for-a-vast-future-legendary-edition.json) |
 | For a Vast Future: Premium Edition | 283149 | [283149-for-a-vast-future-premium-edition.json](./283149-for-a-vast-future-premium-edition.json) |
 | For a Vast Future: Special Edition | 278643 | [278643-for-a-vast-future-special-edition.json](./278643-for-a-vast-future-special-edition.json) |
@@ -11105,6 +11107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Trip: Complete Edition | 290447 | [290447-freaky-trip-complete-edition.json](./290447-freaky-trip-complete-edition.json) |
 | Freaky Trip: Definitive Edition | 287130 | [287130-freaky-trip-definitive-edition.json](./287130-freaky-trip-definitive-edition.json) |
 | Freaky Trip: Deluxe Edition | 275059 | [275059-freaky-trip-deluxe-edition.json](./275059-freaky-trip-deluxe-edition.json) |
+| Freaky Trip: Director's Cut | 300906 | [300906-freaky-trip-directors-cut.json](./300906-freaky-trip-directors-cut.json) |
 | Freaky Trip: Extended Edition | 277913 | [277913-freaky-trip-extended-edition.json](./277913-freaky-trip-extended-edition.json) |
 | Freaky Trip: Fall Pack | 275056 | [275056-freaky-trip-fall-pack.json](./275056-freaky-trip-fall-pack.json) |
 | Freaky Trip: Garden Pack | 324407 | [324407-freaky-trip-garden-pack.json](./324407-freaky-trip-garden-pack.json) |
@@ -12384,6 +12387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Hearts | 312959 | [312959-frozen-hearts.json](./312959-frozen-hearts.json) |
 | Frozen Honey ASMR: Complete Edition | 289198 | [289198-frozen-honey-asmr-complete-edition.json](./289198-frozen-honey-asmr-complete-edition.json) |
 | Frozen Honey ASMR: Frost Pack | 286207 | [286207-frozen-honey-asmr-frost-pack.json](./286207-frozen-honey-asmr-frost-pack.json) |
+| Frozen Honey ASMR: Nasty Edition | 300894 | [300894-frozen-honey-asmr-nasty-edition.json](./300894-frozen-honey-asmr-nasty-edition.json) |
 | Frozen Honey ASMR: Sleek Edition | 306520 | [306520-frozen-honey-asmr-sleek-edition.json](./306520-frozen-honey-asmr-sleek-edition.json) |
 | Frozen Honey ASMR: Truck Pack | 286208 | [286208-frozen-honey-asmr-truck-pack.json](./286208-frozen-honey-asmr-truck-pack.json) |
 | Frozen Honey ASMR: Yucky Pack | 286209 | [286209-frozen-honey-asmr-yucky-pack.json](./286209-frozen-honey-asmr-yucky-pack.json) |
