@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakefront Restaurant | 272303 | [272303-lakefront-restaurant.json](./272303-lakefront-restaurant.json) |
 | Lakehopper | 381376 | [381376-lakehopper.json](./381376-lakehopper.json) |
 | Lakehouse | 191189 | [191189-lakehouse.json](./191189-lakehouse.json) |
+| LakeLady | 313021 | [313021-lakelady.json](./313021-lakelady.json) |
 | Lakelight Elementary Incident 68 | 285399 | [285399-lakelight-elementary-incident-68.json](./285399-lakelight-elementary-incident-68.json) |
 | LakeQueen | 394130 | [394130-lakequeen.json](./394130-lakequeen.json) |
 | Lakeside | 269563 | [269563-lakeside.json](./269563-lakeside.json) |
@@ -3597,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go Nuts! 2 | 195471 | [195471-lets-go-nuts-2.json](./195471-lets-go-nuts-2.json) |
 | Let's Go Paint! | 146594 | [146594-lets-go-paint.json](./146594-lets-go-paint.json) |
 | Let's Go Read: An Island Adventure | 122277 | [122277-lets-go-read-an-island-adventure.json](./122277-lets-go-read-an-island-adventure.json) |
+| Let's Go Read: An Ocean Adventure | 313376 | [313376-lets-go-read-an-ocean-adventure.json](./313376-lets-go-read-an-ocean-adventure.json) |
 | Let's Go Rocket | 345266 | [345266-lets-go-rocket.json](./345266-lets-go-rocket.json) |
 | Let's Go Run | 242452 | [242452-lets-go-run.json](./242452-lets-go-run.json) |
 | Let's Go There and Wander Nowhere | 103802 | [103802-lets-go-there-and-wander-nowhere.json](./103802-lets-go-there-and-wander-nowhere.json) |
@@ -8230,6 +8232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Louder Than Words: The Story of a Field Trip | 195647 | [195647-louder-than-words-the-story-of-a-field-trip.json](./195647-louder-than-words-the-story-of-a-field-trip.json) |
 | Louie | 143959 | [143959-louie.json](./143959-louie.json) |
 | Louie Lucha | 246113 | [246113-louie-lucha.json](./246113-louie-lucha.json) |
+| Louie's Mansion | 313372 | [313372-louies-mansion.json](./313372-louies-mansion.json) |
 | Louis | 365055 | [365055-louis.json](./365055-louis.json) |
 | Louis Charles in the Louvre | 360640 | [360640-louis-charles-in-the-louvre.json](./360640-louis-charles-in-the-louvre.json) |
 | Louis the Game | 175727 | [175727-louis-the-game.json](./175727-louis-the-game.json) |
