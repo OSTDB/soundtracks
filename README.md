@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 2,931" src="https://img.shields.io/badge/soundtracks-2%2C931-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 2,448" src="https://img.shields.io/badge/games-2%2C448-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 306,041" src="https://img.shields.io/badge/missing-306%2C041-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 306,790" src="https://img.shields.io/badge/missing-306%2C790-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/five-nights-at-freddys-help-wanted-2"><img src="https://i.scdn.co/image/ab67616d0000b27377189eaa839d5345c38c3e6b" width="120" height="120" alt="" /></a><br /><sub><b>Five Nights at Freddy's: Help Wanted 2</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/final-fantasy-iv"><img src="https://i.scdn.co/image/ab67616d0000b27327922359e0355d0de08c24c5" width="120" height="120" alt="" /></a><br /><sub><b>Final Fantasy IV</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/millennia"><img src="https://i.scdn.co/image/ab67616d0000b2731fe7cf709236b9ed6f3f7610" width="120" height="120" alt="" /></a><br /><sub><b>Millennia</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/lets-find-larry"><img src="https://i.scdn.co/image/ab67616d0000b2738430fd19d4bfaa446804e232" width="120" height="120" alt="" /></a><br /><sub><b>Let's Find Larry!</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/finding-frankie"><img src="https://i.scdn.co/image/ab67616d0000b273d6673acab7083e6e8f45e7bd" width="120" height="120" alt="" /></a><br /><sub><b>Finding Frankie</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/need-for-speed-prostreet"><img src="https://i.scdn.co/image/ab67616d0000b273eb4a8253a1b8f68bbdfb2e3f" width="120" height="120" alt="" /></a><br /><sub><b>Need for Speed: ProStreet</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/parking-garage-rally-circuit"><img src="https://i.scdn.co/image/ab67616d0000b273ead44368669f06e0e454794d" width="120" height="120" alt="" /></a><br /><sub><b>Parking Garage Rally Circuit</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/summer-catchers"><img src="https://i.scdn.co/image/ab67616d0000b2735bf6eafd0e70d3035ebdf6be" width="120" height="120" alt="" /></a><br /><sub><b>Summer Catchers</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/messenger"><img src="https://i.scdn.co/image/ab67616d0000b273150a896fb936912bc541a0a7" width="120" height="120" alt="" /></a><br /><sub><b>Messenger</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/dressmaker"><img src="https://i.scdn.co/image/ab67616d0000b27393dba75fd97f37beaf783f01" width="120" height="120" alt="" /></a><br /><sub><b>Dressmaker</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/guilty-as-sock"><img src="https://i.scdn.co/image/ab67616d0000b27333b6165a3909fefb16c1ea49" width="120" height="120" alt="" /></a><br /><sub><b>Guilty as Sock!</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/lost-but-found"><img src="https://i.scdn.co/image/ab67616d0000b273ef8c608bc831d486cd53df3f" width="120" height="120" alt="" /></a><br /><sub><b>Lost But Found</b></sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/skull-island-rise-of-kong"><img src="https://i.scdn.co/image/ab67616d0000b273b600ee0f86423b110217237b" width="120" height="120" alt="" /></a><br /><sub><b>Skull Island: Rise of Kong</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/try-again"><img src="https://i.scdn.co/image/ab67616d0000b2734551711b1f273defc12365f8" width="120" height="120" alt="" /></a><br /><sub><b>Try Again</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/broforce-forever"><img src="https://i.scdn.co/image/ab67616d0000b2731fa2cbc915affffa46ac0085" width="120" height="120" alt="" /></a><br /><sub><b>Broforce: Forever</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/train-sim-world-4"><img src="https://i.scdn.co/image/ab67616d0000b2733c7c0f8ef1d3a9e44738f38e" width="120" height="120" alt="" /></a><br /><sub><b>Train Sim World 4</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/cabernet"><img src="https://i.scdn.co/image/ab67616d0000b2735f209cd9e02856a448c5b1cd" width="120" height="120" alt="" /></a><br /><sub><b>Cabernet</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/assassin-s-creed-mirage-valley-of-memory"><img src="https://i.scdn.co/image/ab67616d0000b2730fee25ae9170334061ba626e" width="120" height="120" alt="" /></a><br /><sub><b>Assassin’s Creed Mirage: Valley of Memory</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/street-fighter-6"><img src="https://i.scdn.co/image/ab67616d0000b273f8cf33c9e5666d8d012187f1" width="120" height="120" alt="" /></a><br /><sub><b>Street Fighter 6</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/follow-the-meaning"><img src="https://i.scdn.co/image/ab67616d0000b27379d12886524aa18747f8dd46" width="120" height="120" alt="" /></a><br /><sub><b>Follow the Meaning</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/levelhead"><img src="https://i.scdn.co/image/ab67616d0000b273a9faccc357cabcedb76ed683" width="120" height="120" alt="" /></a><br /><sub><b>Levelhead</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/inkonbini-one-store-many-stories"><img src="https://i.scdn.co/image/ab67616d0000b273133418d1e743e9aa0908c593" width="120" height="120" alt="" /></a><br /><sub><b>Inkonbini: One Store. Many Stories</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/seekl"><img src="https://i.scdn.co/image/ab67616d0000b273640413f5e2fd50b466f4886c" width="120" height="120" alt="" /></a><br /><sub><b>Seekl</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/neon-blood"><img src="https://i.scdn.co/image/ab67616d0000b273fb1b59b97fdfabd907013c62" width="120" height="120" alt="" /></a><br /><sub><b>Neon Blood</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 | 15 | **Divinity: Original Sin** | [🔎 Find on Spotify](https://open.spotify.com/search/Divinity%3A%20Original%20Sin%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/5082-divinity-original-sin.json) |
 
-More in **[missing/](missing/README.md)** (306,041 games).
+More in **[missing/](missing/README.md)** (306,790 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -111,4 +111,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,931 soundtracks &middot; last updated 2026-11-04T08:55:57.517Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,931 soundtracks &middot; last updated 2026-11-04T12:41:02.335Z</sub>
