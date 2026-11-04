@@ -2751,6 +2751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scattergories Weekly | 376139 | [376139-scattergories-weekly.json](./376139-scattergories-weekly.json) |
 | Scatterhoard | 185097 | [185097-scatterhoard.json](./185097-scatterhoard.json) |
 | Scatteria | 110758 | [110758-scatteria.json](./110758-scatteria.json) |
+| Scatterpaws | 308076 | [308076-scatterpaws.json](./308076-scatterpaws.json) |
 | Scauage | 324621 | [324621-scauage.json](./324621-scauage.json) |
 | Scav | 361079 | [361079-scav.json](./361079-scav.json) |
 | Scav | 376816 | [376816-scav.json](./376816-scav.json) |
@@ -7869,6 +7870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift 0 | 352204 | [352204-shift-0.json](./352204-shift-0.json) |
 | Shift 2 | 273276 | [273276-shift-2.json](./273276-shift-2.json) |
 | Shift 247 | 94411 | [94411-shift-247.json](./94411-shift-247.json) |
+| Shift 87 | 308077 | [308077-shift-87.json](./308077-shift-87.json) |
 | Shift at Midnight | 352789 | [352789-shift-at-midnight.json](./352789-shift-at-midnight.json) |
 | Shift Change | 299868 | [299868-shift-change.json](./299868-shift-change.json) |
 | Shift Chess | 415763 | [415763-shift-chess.json](./415763-shift-chess.json) |
@@ -19018,6 +19020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24952,6 +24955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of Matter | 58106 | [58106-state-of-matter.json](./58106-state-of-matter.json) |
 | State of Mind | 20123 | [20123-state-of-mind.json](./20123-state-of-mind.json) |
 | State of Mind | 230872 | [230872-state-of-mind.json](./230872-state-of-mind.json) |
+| State of Presence | 308120 | [308120-state-of-presence.json](./308120-state-of-presence.json) |
 | State of Survival | 133783 | [133783-state-of-survival.json](./133783-state-of-survival.json) |
 | State of Survival: Last Warrior | 368911 | [368911-state-of-survival-last-warrior.json](./368911-state-of-survival-last-warrior.json) |
 | State of Trove | 23628 | [23628-state-of-trove.json](./23628-state-of-trove.json) |
@@ -25729,6 +25733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Step | 360115 | [360115-step.json](./360115-step.json) |
 | Step 'N Smush | 404791 | [404791-step-n-smush.json](./404791-step-n-smush.json) |
 | Step Away | 369037 | [369037-step-away.json](./369037-step-away.json) |
+| Step by Little Step | 308097 | [308097-step-by-little-step.json](./308097-step-by-little-step.json) |
 | Step by star | 75528 | [75528-step-by-star.json](./75528-step-by-star.json) |
 | Step By Step | 54646 | [54646-step-by-step.json](./54646-step-by-step.json) |
 | Step By Step Hero | 221099 | [221099-step-by-step-hero.json](./221099-step-by-step-hero.json) |
@@ -26276,6 +26281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Crawler Plus | 335041 | [335041-stone-crawler-plus.json](./335041-stone-crawler-plus.json) |
 | Stone Defence | 113032 | [113032-stone-defence.json](./113032-stone-defence.json) |
 | Stone Flood | 87392 | [87392-stone-flood.json](./87392-stone-flood.json) |
+| Stone Flower | 308073 | [308073-stone-flower.json](./308073-stone-flower.json) |
 | Stone Flower | 61594 | [61594-stone-flower.json](./61594-stone-flower.json) |
 | Stone Gate | 296005 | [296005-stone-gate.json](./296005-stone-gate.json) |
 | Stone Giant | 95852 | [95852-stone-giant.json](./95852-stone-giant.json) |
@@ -27502,6 +27508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strength & Virtue: Lord of Midchester | 225194 | [225194-strength-and-virtue-lord-of-midchester.json](./225194-strength-and-virtue-lord-of-midchester.json) |
 | Strength in Numbers | 348438 | [348438-strength-in-numbers.json](./348438-strength-in-numbers.json) |
 | Strength of the Sword 3 | 52864 | [52864-strength-of-the-sword-3.json](./52864-strength-of-the-sword-3.json) |
+| Stress | 308104 | [308104-stress.json](./308104-stress.json) |
 | Stress Attack | 337771 | [337771-stress-attack.json](./337771-stress-attack.json) |
 | Stress Ball | 285448 | [285448-stress-ball.json](./285448-stress-ball.json) |
 | Stress explosion | 132505 | [132505-stress-explosion.json](./132505-stress-explosion.json) |
@@ -28221,6 +28228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subsist: Apocalypse Survival | 296453 | [296453-subsist-apocalypse-survival.json](./296453-subsist-apocalypse-survival.json) |
 | Subsistence | 34071 | [34071-subsistence.json](./34071-subsistence.json) |
 | SubSpace | 19148 | [19148-subspace.json](./19148-subspace.json) |
+| Subspace Continuum | 308108 | [308108-subspace-continuum.json](./308108-subspace-continuum.json) |
 | Subspace Discovery | 384551 | [384551-subspace-discovery.json](./384551-subspace-discovery.json) |
 | Subspace Reticulum | 367537 | [367537-subspace-reticulum.json](./367537-subspace-reticulum.json) |
 | Subspace Voyage | 365850 | [365850-subspace-voyage.json](./365850-subspace-voyage.json) |
@@ -28278,6 +28286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Adventure | 135861 | [135861-subway-adventure.json](./135861-subway-adventure.json) |
 | Subway Builder | 370450 | [370450-subway-builder.json](./370450-subway-builder.json) |
 | Subway Clash 2 | 146715 | [146715-subway-clash-2.json](./146715-subway-clash-2.json) |
+| Subway Crisis | 308135 | [308135-subway-crisis.json](./308135-subway-crisis.json) |
 | Subway Driver Dream Emulator | 336117 | [336117-subway-driver-dream-emulator.json](./336117-subway-driver-dream-emulator.json) |
 | Subway Driving Sim | 108105 | [108105-subway-driving-sim.json](./108105-subway-driving-sim.json) |
 | Subway Exorcist Girl | 329389 | [329389-subway-exorcist-girl.json](./329389-subway-exorcist-girl.json) |
@@ -29277,6 +29286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sundowner | 154022 | [154022-sundowner.json](./154022-sundowner.json) |
 | Sundy Stairway | 300300 | [300300-sundy-stairway.json](./300300-sundy-stairway.json) |
 | Sune och Hans Värld: Pussjakten | 129781 | [129781-sune-och-hans-varld-pussjakten.json](./129781-sune-och-hans-varld-pussjakten.json) |
+| Sunes Party | 308005 | [308005-sunes-party.json](./308005-sunes-party.json) |
 | Sunes Sportlov | 316081 | [316081-sunes-sportlov.json](./316081-sunes-sportlov.json) |
 | Sunfall: Children of Adiona | 265632 | [265632-sunfall-children-of-adiona.json](./265632-sunfall-children-of-adiona.json) |
 | Sunfinity | 356642 | [356642-sunfinity.json](./356642-sunfinity.json) |
@@ -29312,6 +29322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunkenland | 213475 | [213475-sunkenland.json](./213475-sunkenland.json) |
 | Sunkissed | 313831 | [313831-sunkissed.json](./313831-sunkissed.json) |
 | SunKong | 390768 | [390768-sunkong.json](./390768-sunkong.json) |
+| Sunky the PC Port | 308122 | [308122-sunky-the-pc-port.json](./308122-sunky-the-pc-port.json) |
 | Sunky.Mpeg | 198176 | [198176-sunky-mpeg.json](./198176-sunky-mpeg.json) |
 | Sunland Hike | 264613 | [264613-sunland-hike.json](./264613-sunland-hike.json) |
 | Sunland Town | 274899 | [274899-sunland-town.json](./274899-sunland-town.json) |
@@ -31279,6 +31290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super MiniJolt | 276342 | [276342-super-minijolt.json](./276342-super-minijolt.json) |
 | Super Mining Mechs | 319672 | [319672-super-mining-mechs.json](./319672-super-mining-mechs.json) |
 | Super Mining Mechs: Toxic Treasures | 340567 | [340567-super-mining-mechs-toxic-treasures.json](./340567-super-mining-mechs-toxic-treasures.json) |
+| Super Missile Attack | 308116 | [308116-super-missile-attack.json](./308116-super-missile-attack.json) |
 | Super Mixtape | 32433 | [32433-super-mixtape.json](./32433-super-mixtape.json) |
 | Super Mole | 146576 | [146576-super-mole.json](./146576-super-mole.json) |
 | Super Mombo Quest | 139438 | [139438-super-mombo-quest.json](./139438-super-mombo-quest.json) |
