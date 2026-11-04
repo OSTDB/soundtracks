@@ -12407,7 +12407,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonfire | 201658 | [201658-bonfire.json](./201658-bonfire.json) |
 | Bonfire and Tail | 250801 | [250801-bonfire-and-tail.json](./250801-bonfire-and-tail.json) |
 | Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
-| Bonfire Peaks | 129028 | [129028-bonfire-peaks.json](./129028-bonfire-peaks.json) |
 | Bonfire Peaks: Complete Edition | 278648 | [278648-bonfire-peaks-complete-edition.json](./278648-bonfire-peaks-complete-edition.json) |
 | Bonfire Peaks: Lost Memories | 203901 | [203901-bonfire-peaks-lost-memories.json](./203901-bonfire-peaks-lost-memories.json) |
 | Bonfire Simulator | 372790 | [372790-bonfire-simulator.json](./372790-bonfire-simulator.json) |
@@ -16053,7 +16052,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubsy Two-Fur | 33965 | [33965-bubsy-two-fur.json](./33965-bubsy-two-fur.json) |
 | Bubsy: Less Bad Edition | 393941 | [393941-bubsy-less-bad-edition.json](./393941-bubsy-less-bad-edition.json) |
 | Bubsy: Paws on Fire - Limited Edition | 166269 | [166269-bubsy-paws-on-fire-limited-edition.json](./166269-bubsy-paws-on-fire-limited-edition.json) |
-| Bubsy: Paws on Fire! | 111558 | [111558-bubsy-paws-on-fire.json](./111558-bubsy-paws-on-fire.json) |
 | Bubsy: The Woolies Strike Back | 36868 | [36868-bubsy-the-woolies-strike-back.json](./36868-bubsy-the-woolies-strike-back.json) |
 | Bubu Battle Royale | 402300 | [402300-bubu-battle-royale.json](./402300-bubu-battle-royale.json) |
 | Bubu Chuǎng Tōngguān | 390695 | [390695-bubu-chuang-tongguan.json](./390695-bubu-chuang-tongguan.json) |
@@ -17135,7 +17133,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried Memories | 317448 | [317448-buried-memories.json](./317448-buried-memories.json) |
 | Buried Shards | 277760 | [277760-buried-shards.json](./277760-buried-shards.json) |
 | Buried Spirits | 383038 | [383038-buried-spirits.json](./383038-buried-spirits.json) |
-| Buried Stars | 137192 | [137192-buried-stars.json](./137192-buried-stars.json) |
 | Buried Tapes: The Cleaner | 365598 | [365598-buried-tapes-the-cleaner.json](./365598-buried-tapes-the-cleaner.json) |
 | Buried Tapes: The Parking | 379605 | [379605-buried-tapes-the-parking.json](./379605-buried-tapes-the-parking.json) |
 | Buried: An Interactive Story | 33689 | [33689-buried-an-interactive-story.json](./33689-buried-an-interactive-story.json) |
