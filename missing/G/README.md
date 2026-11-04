@@ -2275,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gbbbs5 | 387146 | [387146-gbbbs5.json](./387146-gbbbs5.json) |
 | GbDices | 184461 | [184461-gbdices.json](./184461-gbdices.json) |
 | GBox: The Puzzle Collection | 107014 | [107014-gbox-the-puzzle-collection.json](./107014-gbox-the-puzzle-collection.json) |
+| GBS Windows | 341947 | [341947-gbs-windows.json](./341947-gbs-windows.json) |
 | GDO Masters | 180016 | [180016-gdo-masters.json](./180016-gdo-masters.json) |
 | Ge-Sen Love Plus Pengo! | 61571 | [61571-ge-sen-love-plus-pengo.json](./61571-ge-sen-love-plus-pengo.json) |
 | Ge.ne.sis: Down the Road of Tales | 228949 | [228949-ge-ne-sis-down-the-road-of-tales.json](./228949-ge-ne-sis-down-the-road-of-tales.json) |
@@ -2974,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: Masquerade of the Guilty | 273864 | [273864-genshin-impact-masquerade-of-the-guilty.json](./273864-genshin-impact-masquerade-of-the-guilty.json) |
 | Genshin Impact: Midsummer Island Adventure | 256978 | [256978-genshin-impact-midsummer-island-adventure.json](./256978-genshin-impact-midsummer-island-adventure.json) |
 | Genshin Impact: Moonlight Amidst Dreams | 328924 | [328924-genshin-impact-moonlight-amidst-dreams.json](./328924-genshin-impact-moonlight-amidst-dreams.json) |
+| Genshin Impact: Paralogism | 341808 | [341808-genshin-impact-paralogism.json](./341808-genshin-impact-paralogism.json) |
 | Genshin Impact: Secret Summer Paradise | 257481 | [257481-genshin-impact-secret-summer-paradise.json](./257481-genshin-impact-secret-summer-paradise.json) |
 | Genshin Impact: Sunny Summer Fontinalia | 407188 | [407188-genshin-impact-sunny-summer-fontinalia.json](./407188-genshin-impact-sunny-summer-fontinalia.json) |
 | Genshin Impact: Tapestry of Spirit and Flame | 321597 | [321597-genshin-impact-tapestry-of-spirit-and-flame.json](./321597-genshin-impact-tapestry-of-spirit-and-flame.json) |
