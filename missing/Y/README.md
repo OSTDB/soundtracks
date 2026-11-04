@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yosemite Forest Ranger | 201126 | [201126-yosemite-forest-ranger.json](./201126-yosemite-forest-ranger.json) |
 | Yoshi | 86264 | [86264-yoshi.json](./86264-yoshi.json) |
 | Yoshi and the Mysterious Book | 366883 | [366883-yoshi-and-the-mysterious-book.json](./366883-yoshi-and-the-mysterious-book.json) |
+| Yoshi Click and Go | 318934 | [318934-yoshi-click-and-go.json](./318934-yoshi-click-and-go.json) |
 | Yoshi Commits Tax Fraud 64 | 294710 | [294710-yoshi-commits-tax-fraud-64.json](./294710-yoshi-commits-tax-fraud-64.json) |
 | Yoshi Deja Vu DS | 215767 | [215767-yoshi-deja-vu-ds.json](./215767-yoshi-deja-vu-ds.json) |
 | Yoshi Demo | 163095 | [163095-yoshi-demo.json](./163095-yoshi-demo.json) |
