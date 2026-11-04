@@ -6453,6 +6453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Clash | 56902 | [56902-golf-clash.json](./56902-golf-clash.json) |
 | Golf Club Architect | 190909 | [190909-golf-club-architect.json](./190909-golf-club-architect.json) |
 | Golf Club Nostalgia | 106027 | [106027-golf-club-nostalgia.json](./106027-golf-club-nostalgia.json) |
+| Golf Club Nostalgia + The Cub Bundle | 309293 | [309293-golf-club-nostalgia-the-cub-bundle.json](./309293-golf-club-nostalgia-the-cub-bundle.json) |
 | Golf Club Wasteland / Aspire Ina's Tale Bundle | 200463 | [200463-golf-club-wasteland-aspire-inas-tale-bundle.json](./200463-golf-club-wasteland-aspire-inas-tale-bundle.json) |
 | Golf Club: Birdie Rush | 48482 | [48482-golf-club-birdie-rush.json](./48482-golf-club-birdie-rush.json) |
 | Golf Construction Set | 119404 | [119404-golf-construction-set.json](./119404-golf-construction-set.json) |
@@ -8603,6 +8604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Berets | 70763 | [70763-green-berets.json](./70763-green-berets.json) |
 | Green Biker Dude | 317088 | [317088-green-biker-dude.json](./317088-green-biker-dude.json) |
 | Green Breach | 416833 | [416833-green-breach.json](./416833-green-breach.json) |
+| Green Button | 309270 | [309270-green-button.json](./309270-green-button.json) |
 | Green Cat | 36722 | [36722-green-cat.json](./36722-green-cat.json) |
 | Green Crab Grab | 336166 | [336166-green-crab-grab.json](./336166-green-crab-grab.json) |
 | Green Crust | 184799 | [184799-green-crust.json](./184799-green-crust.json) |
@@ -10160,6 +10162,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Additional Character 11: Elphelt Valentine | 279656 | [279656-guilty-gear-strive-additional-character-11-elphelt-valentine.json](./279656-guilty-gear-strive-additional-character-11-elphelt-valentine.json) |
 | Guilty Gear: Strive - Additional Character 12: A.B.A | 293843 | [293843-guilty-gear-strive-additional-character-12-a-b-a.json](./293843-guilty-gear-strive-additional-character-12-a-b-a.json) |
 | Guilty Gear: Strive - Additional Character 13: Slayer | 299722 | [299722-guilty-gear-strive-additional-character-13-slayer.json](./299722-guilty-gear-strive-additional-character-13-slayer.json) |
+| Guilty Gear: Strive - Additional Character 15: Venom | 309264 | [309264-guilty-gear-strive-additional-character-15-venom.json](./309264-guilty-gear-strive-additional-character-15-venom.json) |
+| Guilty Gear: Strive - Additional Character 16: Unika | 309265 | [309265-guilty-gear-strive-additional-character-16-unika.json](./309265-guilty-gear-strive-additional-character-16-unika.json) |
+| Guilty Gear: Strive - Additional Character 17: Lucy | 309268 | [309268-guilty-gear-strive-additional-character-17-lucy.json](./309268-guilty-gear-strive-additional-character-17-lucy.json) |
 | Guilty Gear: Strive - Additional Character 18 - Jam Kuradoberi | 410656 | [410656-guilty-gear-strive-additional-character-18-jam-kuradoberi.json](./410656-guilty-gear-strive-additional-character-18-jam-kuradoberi.json) |
 | Guilty Gear: Strive - Additional Character 19 - Robo-Ky | 410659 | [410659-guilty-gear-strive-additional-character-19-robo-ky.json](./410659-guilty-gear-strive-additional-character-19-robo-ky.json) |
 | Guilty Gear: Strive - Additional Character 2: Jack-O' | 166147 | [166147-guilty-gear-strive-additional-character-2-jack-o.json](./166147-guilty-gear-strive-additional-character-2-jack-o.json) |
@@ -10173,10 +10178,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Additional Character Color Pack | 389466 | [389466-guilty-gear-strive-additional-character-color-pack.json](./389466-guilty-gear-strive-additional-character-color-pack.json) |
 | Guilty Gear: Strive - Additional Character Color Pack 2 | 254966 | [254966-guilty-gear-strive-additional-character-color-pack-2.json](./254966-guilty-gear-strive-additional-character-color-pack-2.json) |
 | Guilty Gear: Strive - Another Story | 254515 | [254515-guilty-gear-strive-another-story.json](./254515-guilty-gear-strive-another-story.json) |
+| Guilty Gear: Strive - Blazing Edition | 309283 | [309283-guilty-gear-strive-blazing-edition.json](./309283-guilty-gear-strive-blazing-edition.json) |
 | Guilty Gear: Strive - Daredevil Edition | 263513 | [263513-guilty-gear-strive-daredevil-edition.json](./263513-guilty-gear-strive-daredevil-edition.json) |
 | Guilty Gear: Strive - Nintendo Switch Edition | 315335 | [315335-guilty-gear-strive-nintendo-switch-edition.json](./315335-guilty-gear-strive-nintendo-switch-edition.json) |
 | Guilty Gear: Strive - Season Pass 1 | 254962 | [254962-guilty-gear-strive-season-pass-1.json](./254962-guilty-gear-strive-season-pass-1.json) |
 | Guilty Gear: Strive - Season Pass 2 | 254967 | [254967-guilty-gear-strive-season-pass-2.json](./254967-guilty-gear-strive-season-pass-2.json) |
+| Guilty Gear: Strive - Season Pass 4 | 309271 | [309271-guilty-gear-strive-season-pass-4.json](./309271-guilty-gear-strive-season-pass-4.json) |
 | Guilty Gear: Strive - Special Colors for Sol and Ky | 254507 | [254507-guilty-gear-strive-special-colors-for-sol-and-ky.json](./254507-guilty-gear-strive-special-colors-for-sol-and-ky.json) |
 | Guilty Gear: Strive - Ultimate Edition | 139986 | [139986-guilty-gear-strive-ultimate-edition.json](./139986-guilty-gear-strive-ultimate-edition.json) |
 | Guilty Gear: Strive - Ultimate Edition 2022 | 255116 | [255116-guilty-gear-strive-ultimate-edition-2022.json](./255116-guilty-gear-strive-ultimate-edition-2022.json) |
