@@ -9585,6 +9585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Ball | 33725 | [33725-forgotten-ball.json](./33725-forgotten-ball.json) |
 | Forgotten Beginnings: A New Afterlife | 359162 | [359162-forgotten-beginnings-a-new-afterlife.json](./359162-forgotten-beginnings-a-new-afterlife.json) |
 | Forgotten Blood | 404288 | [404288-forgotten-blood.json](./404288-forgotten-blood.json) |
+| Forgotten Bunker 1939 | 309809 | [309809-forgotten-bunker-1939.json](./309809-forgotten-bunker-1939.json) |
 | Forgotten but Unbroken | 223293 | [223293-forgotten-but-unbroken.json](./223293-forgotten-but-unbroken.json) |
 | Forgotten Castle | 113891 | [113891-forgotten-castle.json](./113891-forgotten-castle.json) |
 | Forgotten Chain | 172659 | [172659-forgotten-chain.json](./172659-forgotten-chain.json) |
@@ -11812,6 +11813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Golf | 202694 | [202694-frog-golf.json](./202694-frog-golf.json) |
 | Frog Hands Steve | 147204 | [147204-frog-hands-steve.json](./147204-frog-hands-steve.json) |
 | Frog Heist | 342202 | [342202-frog-heist.json](./342202-frog-heist.json) |
+| Frog Holm | 309811 | [309811-frog-holm.json](./309811-frog-holm.json) |
 | Frog Hop | 30021 | [30021-frog-hop.json](./30021-frog-hop.json) |
 | Frog in a Blender | 282803 | [282803-frog-in-a-blender.json](./282803-frog-in-a-blender.json) |
 | Frog in the Fog | 393630 | [393630-frog-in-the-fog.json](./393630-frog-in-the-fog.json) |
