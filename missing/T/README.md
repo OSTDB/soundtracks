@@ -6687,6 +6687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brink | 104810 | [104810-the-brink.json](./104810-the-brink.json) |
 | The Brink | 117461 | [117461-the-brink.json](./117461-the-brink.json) |
 | The British Library Simulator | 182806 | [182806-the-british-library-simulator.json](./182806-the-british-library-simulator.json) |
+| The British Trivia Challenge | 303200 | [303200-the-british-trivia-challenge.json](./303200-the-british-trivia-challenge.json) |
 | The Brittle Epoch | 261751 | [261751-the-brittle-epoch.json](./261751-the-brittle-epoch.json) |
 | The Broadside Express | 63709 | [63709-the-broadside-express.json](./63709-the-broadside-express.json) |
 | The Broken Balance | 216753 | [216753-the-broken-balance.json](./216753-the-broken-balance.json) |
@@ -13220,6 +13221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Marauder Chronicles: Curse over Valdria | 161901 | [161901-the-marauder-chronicles-curse-over-valdria.json](./161901-the-marauder-chronicles-curse-over-valdria.json) |
 | The Marbians | 336387 | [336387-the-marbians.json](./336387-the-marbians.json) |
 | The Marble Princess Had Secrets | 419080 | [419080-the-marble-princess-had-secrets.json](./419080-the-marble-princess-had-secrets.json) |
+| The Mare of Jonah | 302881 | [302881-the-mare-of-jonah.json](./302881-the-mare-of-jonah.json) |
 | The Mare Show | 349069 | [349069-the-mare-show.json](./349069-the-mare-show.json) |
 | The Mare Show: Obscure Tech Skin Pack | 374097 | [374097-the-mare-show-obscure-tech-skin-pack.json](./374097-the-mare-show-obscure-tech-skin-pack.json) |
 | The Margot Collapse | 422175 | [422175-the-margot-collapse.json](./422175-the-margot-collapse.json) |
@@ -15109,6 +15111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Remains of El Dorado | 184570 | [184570-the-remains-of-el-dorado.json](./184570-the-remains-of-el-dorado.json) |
 | The Remains of Richard Fleming | 280701 | [280701-the-remains-of-richard-fleming.json](./280701-the-remains-of-richard-fleming.json) |
 | The Remains: Chapter 1 | 199759 | [199759-the-remains-chapter-1.json](./199759-the-remains-chapter-1.json) |
+| The Remake of the End of the Greatest RPG of All Time | 302888 | [302888-the-remake-of-the-end-of-the-greatest-rpg-of-all-time.json](./302888-the-remake-of-the-end-of-the-greatest-rpg-of-all-time.json) |
 | The Remission of Sins | 149042 | [149042-the-remission-of-sins.json](./149042-the-remission-of-sins.json) |
 | The Remnants | 336657 | [336657-the-remnants.json](./336657-the-remnants.json) |
 | The Remnants | 405797 | [405797-the-remnants.json](./405797-the-remnants.json) |
@@ -25819,6 +25822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Rock Maiden FC 3: Little Native Goddess's Revival | 386119 | [386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json](./386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json) |
 | Touhou Saibanmu: Rookie Attorney Legendry | 318963 | [318963-touhou-saibanmu-rookie-attorney-legendry.json](./318963-touhou-saibanmu-rookie-attorney-legendry.json) |
 | Touhou Saikotan: Servants of Harvest Wish | 246678 | [246678-touhou-saikotan-servants-of-harvest-wish.json](./246678-touhou-saikotan-servants-of-harvest-wish.json) |
+| Touhou Scarlet Diabolique Fantastica | 302884 | [302884-touhou-scarlet-diabolique-fantastica.json](./302884-touhou-scarlet-diabolique-fantastica.json) |
 | Touhou Seicross | 204492 | [204492-touhou-seicross.json](./204492-touhou-seicross.json) |
 | Touhou Seikaen: Blue devil in the Belvedere | 148365 | [148365-touhou-seikaen-blue-devil-in-the-belvedere.json](./148365-touhou-seikaen-blue-devil-in-the-belvedere.json) |
 | Touhou Seirensen: Undefined Fantastic Object | 27163 | [27163-touhou-seirensen-undefined-fantastic-object.json](./27163-touhou-seirensen-undefined-fantastic-object.json) |
@@ -29031,6 +29035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash & Fists | 244093 | [244093-trash-and-fists.json](./244093-trash-and-fists.json) |
 | Trash Bandits | 125430 | [125430-trash-bandits.json](./125430-trash-bandits.json) |
 | Trash Battle | 369795 | [369795-trash-battle.json](./369795-trash-battle.json) |
+| Trash Can Tactics | 303114 | [303114-trash-can-tactics.json](./303114-trash-can-tactics.json) |
 | Trash Card Adventure | 373794 | [373794-trash-card-adventure.json](./373794-trash-card-adventure.json) |
 | Trash Coin | 410697 | [410697-trash-coin.json](./410697-trash-coin.json) |
 | Trash Collector Simulator: Survive Edition | 351029 | [351029-trash-collector-simulator-survive-edition.json](./351029-trash-collector-simulator-survive-edition.json) |
