@@ -2272,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faraway Proximity | 215566 | [215566-faraway-proximity.json](./215566-faraway-proximity.json) |
 | Faraway Story | 125409 | [125409-faraway-story.json](./125409-faraway-story.json) |
 | Faraway: Jungle Escape | 192883 | [192883-faraway-jungle-escape.json](./192883-faraway-jungle-escape.json) |
+| Faraway: On Lost Isles | 320086 | [320086-faraway-on-lost-isles.json](./320086-faraway-on-lost-isles.json) |
 | Faraway: Puzzle Escape | 101737 | [101737-faraway-puzzle-escape.json](./101737-faraway-puzzle-escape.json) |
 | Farbenspiel | 177837 | [177837-farbenspiel.json](./177837-farbenspiel.json) |
 | Farcana | 254458 | [254458-farcana.json](./254458-farcana.json) |
@@ -3122,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate U.C.P | 42868 | [42868-fate-u-c-p.json](./42868-fate-u-c-p.json) |
 | Fate War | 360916 | [360916-fate-war.json](./360916-fate-war.json) |
 | Fate: Gates of Dawn | 73057 | [73057-fate-gates-of-dawn.json](./73057-fate-gates-of-dawn.json) |
+| Fate: Reawakened | 319819 | [319819-fate-reawakened.json](./319819-fate-reawakened.json) |
 | Fate: The Traitor Soul | 15471 | [15471-fate-the-traitor-soul.json](./15471-fate-the-traitor-soul.json) |
 | Fate: Undiscovered Realms | 8867 | [8867-fate-undiscovered-realms.json](./8867-fate-undiscovered-realms.json) |
 | Fate's Masquerade | 334310 | [334310-fates-masquerade.json](./334310-fates-masquerade.json) |
@@ -5522,6 +5524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finis | 213013 | [213013-finis.json](./213013-finis.json) |
 | Finis Actus | 389730 | [389730-finis-actus.json](./389730-finis-actus.json) |
 | Finished! | 249765 | [249765-finished.json](./249765-finished.json) |
+| Finishline | 320096 | [320096-finishline.json](./320096-finishline.json) |
 | Finite Jest | 415925 | [415925-finite-jest.json](./415925-finite-jest.json) |
 | Finite State Automaton Challenges | 271106 | [271106-finite-state-automaton-challenges.json](./271106-finite-state-automaton-challenges.json) |
 | Finite State Automaton Challenges 2 | 278926 | [278926-finite-state-automaton-challenges-2.json](./278926-finite-state-automaton-challenges-2.json) |
@@ -7561,6 +7564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flightless | 74678 | [74678-flightless.json](./74678-flightless.json) |
 | Flightless Bug | 410184 | [410184-flightless-bug.json](./410184-flightless-bug.json) |
 | Flightless Fighters | 391710 | [391710-flightless-fighters.json](./391710-flightless-fighters.json) |
+| Flightless Star | 320085 | [320085-flightless-star.json](./320085-flightless-star.json) |
 | Flightmare | 267469 | [267469-flightmare.json](./267469-flightmare.json) |
 | Flightpath | 208658 | [208658-flightpath.json](./208658-flightpath.json) |
 | Flightpath: Adventures in Venaris | 294233 | [294233-flightpath-adventures-in-venaris.json](./294233-flightpath-adventures-in-venaris.json) |
@@ -12234,6 +12238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frost Loop | 391230 | [391230-frost-loop.json](./391230-frost-loop.json) |
 | Frost Ornament | 403919 | [403919-frost-ornament.json](./403919-frost-ornament.json) |
 | Frost Station | 397729 | [397729-frost-station.json](./397729-frost-station.json) |
+| Frost Survival VR | 319916 | [319916-frost-survival-vr.json](./319916-frost-survival-vr.json) |
 | Frost Survival: Winter | 393887 | [393887-frost-survival-winter.json](./393887-frost-survival-winter.json) |
 | Frost Survivors: Text Game | 318197 | [318197-frost-survivors-text-game.json](./318197-frost-survivors-text-game.json) |
 | Frost Vale | 389056 | [389056-frost-vale.json](./389056-frost-vale.json) |
