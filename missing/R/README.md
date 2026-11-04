@@ -8988,6 +8988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'N Racing Off Road | 86249 | [86249-rock-n-racing-off-road.json](./86249-rock-n-racing-off-road.json) |
 | Rock 'N Racing Off Road & Grand Prix | 331907 | [331907-rock-n-racing-off-road-and-grand-prix.json](./331907-rock-n-racing-off-road-and-grand-prix.json) |
 | Rock 'N Racing Off Road DX | 20959 | [20959-rock-n-racing-off-road-dx.json](./20959-rock-n-racing-off-road-dx.json) |
+| Rock 'n Roll | 300218 | [300218-rock-n-roll.json](./300218-rock-n-roll.json) |
 | Rock 'N Roll | 90647 | [90647-rock-n-roll.json](./90647-rock-n-roll.json) |
 | Rock 'N Roll: G.E.O.S. Wars | 170880 | [170880-rock-n-roll-g-e-o-s-wars.json](./170880-rock-n-roll-g-e-o-s-wars.json) |
 | Rock 'N Roller | 333332 | [333332-rock-n-roller.json](./333332-rock-n-roller.json) |
@@ -9793,6 +9794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Labyrinth | 249195 | [249195-rogue-labyrinth.json](./249195-rogue-labyrinth.json) |
 | Rogue Legacy 2 | 132058 | [132058-rogue-legacy-2.json](./132058-rogue-legacy-2.json) |
 | Rogue Legend: Tame the Wild | 102048 | [102048-rogue-legend-tame-the-wild.json](./102048-rogue-legend-tame-the-wild.json) |
+| Rogue Light Deck Builder | 300049 | [300049-rogue-light-deck-builder.json](./300049-rogue-light-deck-builder.json) |
 | Rogue Loops | 323755 | [323755-rogue-loops.json](./323755-rogue-loops.json) |
 | Rogue Lords | 131573 | [131573-rogue-lords.json](./131573-rogue-lords.json) |
 | Rogue Lords: Blood Moon Edition | 173100 | [173100-rogue-lords-blood-moon-edition.json](./173100-rogue-lords-blood-moon-edition.json) |
