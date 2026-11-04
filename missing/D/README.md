@@ -2514,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Datascape | 96128 | [96128-datascape.json](./96128-datascape.json) |
 | Datasight | 220005 | [220005-datasight.json](./220005-datasight.json) |
 | Datastorm | 73131 | [73131-datastorm.json](./73131-datastorm.json) |
+| Datavoid: Catrow | 298222 | [298222-datavoid-catrow.json](./298222-datavoid-catrow.json) |
 | Datbyel's Nebula | 309744 | [309744-datbyels-nebula.json](./309744-datbyels-nebula.json) |
 | Date A Live | 193790 | [193790-date-a-live.json](./193790-date-a-live.json) |
 | Date A Live Twin Edition: Rio Reincarnation | 11830 | [11830-date-a-live-twin-edition-rio-reincarnation.json](./11830-date-a-live-twin-edition-rio-reincarnation.json) |
@@ -4387,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Hall | 116377 | [116377-death-hall.json](./116377-death-hall.json) |
 | Death Horizon Reloaded | 123988 | [123988-death-horizon-reloaded.json](./123988-death-horizon-reloaded.json) |
 | Death Horizon VR | 100771 | [100771-death-horizon-vr.json](./100771-death-horizon-vr.json) |
+| Death Horizon: Cyberfusion | 298227 | [298227-death-horizon-cyberfusion.json](./298227-death-horizon-cyberfusion.json) |
 | Death Howl: Deluxe Edition | 401737 | [401737-death-howl-deluxe-edition.json](./401737-death-howl-deluxe-edition.json) |
 | Death Imminent | 379014 | [379014-death-imminent.json](./379014-death-imminent.json) |
 | Death in a Party | 381738 | [381738-death-in-a-party.json](./381738-death-in-a-party.json) |
@@ -4631,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathland Drifters | 303463 | [303463-deathland-drifters.json](./303463-deathland-drifters.json) |
 | Deathlands | 74513 | [74513-deathlands.json](./74513-deathlands.json) |
 | Deathless | 140360 | [140360-deathless.json](./140360-deathless.json) |
+| Deathless Death | 298212 | [298212-deathless-death.json](./298212-deathless-death.json) |
 | Deathless Dungeon | 118064 | [118064-deathless-dungeon.json](./118064-deathless-dungeon.json) |
 | Deathless Hyperion | 145411 | [145411-deathless-hyperion.json](./145411-deathless-hyperion.json) |
 | Deathless: The City's Thirst | 34270 | [34270-deathless-the-citys-thirst.json](./34270-deathless-the-citys-thirst.json) |
@@ -5598,6 +5601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of Nations | 268505 | [268505-defense-of-nations.json](./268505-defense-of-nations.json) |
 | Defense of the Ancients | 2283 | [2283-defense-of-the-ancients.json](./2283-defense-of-the-ancients.json) |
 | Defense of the Ass | 141837 | [141837-defense-of-the-ass.json](./141837-defense-of-the-ass.json) |
+| Defense of the Dauntless | 298284 | [298284-defense-of-the-dauntless.json](./298284-defense-of-the-dauntless.json) |
 | Defense of the Earth | 293596 | [293596-defense-of-the-earth.json](./293596-defense-of-the-earth.json) |
 | Defense of the Fantasy Robots | 110079 | [110079-defense-of-the-fantasy-robots.json](./110079-defense-of-the-fantasy-robots.json) |
 | Defense of the Middle Kingdom | 85568 | [85568-defense-of-the-middle-kingdom.json](./85568-defense-of-the-middle-kingdom.json) |
@@ -7174,6 +7178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolatium | 150643 | [150643-desolatium.json](./150643-desolatium.json) |
 | Desolatium: Prologue | 200115 | [200115-desolatium-prologue.json](./200115-desolatium-prologue.json) |
 | Désolé | 133693 | [133693-desole.json](./133693-desole.json) |
+| DeSoloFender | 298205 | [298205-desolofender.json](./298205-desolofender.json) |
 | Desolus | 58718 | [58718-desolus.json](./58718-desolus.json) |
 | Desomnia | 365844 | [365844-desomnia.json](./365844-desomnia.json) |
 | DésoPadéso | 140845 | [140845-desopadeso.json](./140845-desopadeso.json) |
