@@ -2469,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardlings | 118787 | [118787-cardlings.json](./118787-cardlings.json) |
 | Cardlock | 184582 | [184582-cardlock.json](./184582-cardlock.json) |
 | Cardmare: Descent | 398444 | [398444-cardmare-descent.json](./398444-cardmare-descent.json) |
+| CardMart: TCG Supermarket | 322507 | [322507-cardmart-tcg-supermarket.json](./322507-cardmart-tcg-supermarket.json) |
 | CardMatch | 116951 | [116951-cardmatch.json](./116951-cardmatch.json) |
 | Cardmon | 200977 | [200977-cardmon.json](./200977-cardmon.json) |
 | Cardnal Desires | 383913 | [383913-cardnal-desires.json](./383913-cardnal-desires.json) |
@@ -9839,6 +9840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Astro Planet | 386870 | [386870-clicker-astro-planet.json](./386870-clicker-astro-planet.json) |
 | Clicker bAdventure | 80945 | [80945-clicker-badventure.json](./80945-clicker-badventure.json) |
 | Clicker Cats: RPG Idle Heroes | 193710 | [193710-clicker-cats-rpg-idle-heroes.json](./193710-clicker-cats-rpg-idle-heroes.json) |
+| Clicker Clicker Clicker | 322489 | [322489-clicker-clicker-clicker.json](./322489-clicker-clicker-clicker.json) |
 | Clicker Climber: Pachinko | 373755 | [373755-clicker-climber-pachinko.json](./373755-clicker-climber-pachinko.json) |
 | Clicker Conquest | 331989 | [331989-clicker-conquest.json](./331989-clicker-conquest.json) |
 | Clicker Fred | 95965 | [95965-clicker-fred.json](./95965-clicker-fred.json) |
@@ -18063,6 +18065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal's Castle | 303445 | [303445-crystals-castle.json](./303445-crystals-castle.json) |
 | Crystalase | 402571 | [402571-crystalase.json](./402571-crystalase.json) |
 | Crystalborne: Heroes of Fate | 123036 | [123036-crystalborne-heroes-of-fate.json](./123036-crystalborne-heroes-of-fate.json) |
+| Crystalfall | 322477 | [322477-crystalfall.json](./322477-crystalfall.json) |
 | Crystalis | 3121 | [3121-crystalis.json](./3121-crystalis.json) |
 | Crystalis | 344164 | [344164-crystalis.json](./344164-crystalis.json) |
 | Crystalis Descendant | 258643 | [258643-crystalis-descendant.json](./258643-crystalis-descendant.json) |
