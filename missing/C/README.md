@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Delivery Man | 243855 | [243855-car-delivery-man.json](./243855-car-delivery-man.json) |
 | Car Demolition Clicker | 74140 | [74140-car-demolition-clicker.json](./74140-car-demolition-clicker.json) |
 | Car Destroyer | 203888 | [203888-car-destroyer.json](./203888-car-destroyer.json) |
+| Car Detailing & Wash Simulator: Luxury Car Cleaner | 328728 | [328728-car-detailing-and-wash-simulator-luxury-car-cleaner.json](./328728-car-detailing-and-wash-simulator-luxury-car-cleaner.json) |
 | Car Detailing Cleaner Simulator | 288761 | [288761-car-detailing-cleaner-simulator.json](./288761-car-detailing-cleaner-simulator.json) |
 | Car Detailing Simulator | 182487 | [182487-car-detailing-simulator.json](./182487-car-detailing-simulator.json) |
 | Car Down | 405038 | [405038-car-down.json](./405038-car-down.json) |
@@ -2173,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Wash Simulator | 113308 | [113308-car-wash-simulator.json](./113308-car-wash-simulator.json) |
 | Car Wash Simulator | 343750 | [343750-car-wash-simulator.json](./343750-car-wash-simulator.json) |
 | Car Wash TD: Tower Defense | 174070 | [174070-car-wash-td-tower-defense.json](./174070-car-wash-td-tower-defense.json) |
+| Car Wash Tycoon Business Simulator | 328727 | [328727-car-wash-tycoon-business-simulator.json](./328727-car-wash-tycoon-business-simulator.json) |
 | Car Washer: Summer of the Ninja | 35260 | [35260-car-washer-summer-of-the-ninja.json](./35260-car-washer-summer-of-the-ninja.json) |
 | Car-Toon Chaos | 298170 | [298170-car-toon-chaos.json](./298170-car-toon-chaos.json) |
 | Car! | 314670 | [314670-car.json](./314670-car.json) |
@@ -4006,12 +4008,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Cafeteria | 284799 | [284799-cats-cafeteria.json](./284799-cats-cafeteria.json) |
 | Cat’s Catch | 327248 | [327248-cat-s-catch.json](./327248-cat-s-catch.json) |
 | Cat's Cosmic Atlas | 258012 | [258012-cats-cosmic-atlas.json](./258012-cats-cosmic-atlas.json) |
+| Cat's Cosmic Atlas: Complete Edition | 328751 | [328751-cats-cosmic-atlas-complete-edition.json](./328751-cats-cosmic-atlas-complete-edition.json) |
 | Cat's Cosmic Atlas: Definitive Edition | 288286 | [288286-cats-cosmic-atlas-definitive-edition.json](./288286-cats-cosmic-atlas-definitive-edition.json) |
 | Cat's Cosmic Atlas: Deluxe Edition | 270798 | [270798-cats-cosmic-atlas-deluxe-edition.json](./270798-cats-cosmic-atlas-deluxe-edition.json) |
 | Cat's Cosmic Atlas: Northern Sky Map | 268584 | [268584-cats-cosmic-atlas-northern-sky-map.json](./268584-cats-cosmic-atlas-northern-sky-map.json) |
 | Cat's Cosmic Atlas: Premium Edition | 286212 | [286212-cats-cosmic-atlas-premium-edition.json](./286212-cats-cosmic-atlas-premium-edition.json) |
 | Cat's Cosmic Atlas: Solar System Map | 268579 | [268579-cats-cosmic-atlas-solar-system-map.json](./268579-cats-cosmic-atlas-solar-system-map.json) |
 | Cat's Cosmic Atlas: Southern Sky Map | 268580 | [268580-cats-cosmic-atlas-southern-sky-map.json](./268580-cats-cosmic-atlas-southern-sky-map.json) |
+| Cat's Cosmic Atlas: Special Edition | 328752 | [328752-cats-cosmic-atlas-special-edition.json](./328752-cats-cosmic-atlas-special-edition.json) |
 | Cat's Cosmic Atlas: Ultimate Edition | 278649 | [278649-cats-cosmic-atlas-ultimate-edition.json](./278649-cats-cosmic-atlas-ultimate-edition.json) |
 | Cat's Cradle | 151471 | [151471-cats-cradle.json](./151471-cats-cradle.json) |
 | Cat's Dream | 325900 | [325900-cats-dream.json](./325900-cats-dream.json) |
@@ -11873,6 +11877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorize ASMR | 303051 | [303051-colorize-asmr.json](./303051-colorize-asmr.json) |
 | Colorize Inspect | 150425 | [150425-colorize-inspect.json](./150425-colorize-inspect.json) |
 | Colorizing | 310463 | [310463-colorizing.json](./310463-colorizing.json) |
+| Colorizing: Animals | 328726 | [328726-colorizing-animals.json](./328726-colorizing-animals.json) |
 | Colorizing: Collection 1 | 368770 | [368770-colorizing-collection-1.json](./368770-colorizing-collection-1.json) |
 | Colorizing: Cozy Days | 362199 | [362199-colorizing-cozy-days.json](./362199-colorizing-cozy-days.json) |
 | Colorizing: Daydream | 371420 | [371420-colorizing-daydream.json](./371420-colorizing-daydream.json) |
@@ -13221,6 +13226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Crew | 391899 | [391899-construction-crew.json](./391899-construction-crew.json) |
 | Construction Destruction | 73748 | [73748-construction-destruction.json](./73748-construction-destruction.json) |
 | Construction Machine Simulator 2023: Hard Truck Work Job | 259233 | [259233-construction-machine-simulator-2023-hard-truck-work-job.json](./259233-construction-machine-simulator-2023-hard-truck-work-job.json) |
+| Construction Machine Simulator: Premium Edition | 328753 | [328753-construction-machine-simulator-premium-edition.json](./328753-construction-machine-simulator-premium-edition.json) |
 | Construction Machines Sim | 201141 | [201141-construction-machines-sim.json](./201141-construction-machines-sim.json) |
 | Construction Machines SIM: Bridges, buildings and constructor trucks simulator | 201086 | [201086-construction-machines-sim-bridges-buildings-and-constructor-trucks-simulator.json](./201086-construction-machines-sim-bridges-buildings-and-constructor-trucks-simulator.json) |
 | Construction Machines Simulator 2016 | 46956 | [46956-construction-machines-simulator-2016.json](./46956-construction-machines-simulator-2016.json) |
@@ -13796,6 +13802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking with Magic | 337541 | [337541-cooking-with-magic.json](./337541-cooking-with-magic.json) |
 | Cooking Wonderland | 304966 | [304966-cooking-wonderland.json](./304966-cooking-wonderland.json) |
 | Cooking, for lovers | 139814 | [139814-cooking-for-lovers.json](./139814-cooking-for-lovers.json) |
+| Cooking: Deluxe Edition | 328754 | [328754-cooking-deluxe-edition.json](./328754-cooking-deluxe-edition.json) |
 | Cooking: Green Dragon Set | 324424 | [324424-cooking-green-dragon-set.json](./324424-cooking-green-dragon-set.json) |
 | Cooking: Pizzeria Edition | 362375 | [362375-cooking-pizzeria-edition.json](./362375-cooking-pizzeria-edition.json) |
 | Cooking: Viva la Pizza! | 362380 | [362380-cooking-viva-la-pizza.json](./362380-cooking-viva-la-pizza.json) |
