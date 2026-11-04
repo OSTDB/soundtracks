@@ -2683,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NES Classics | 392737 | [392737-nes-classics.json](./392737-nes-classics.json) |
 | NES Open Tournament Golf | 3400 | [3400-nes-open-tournament-golf.json](./3400-nes-open-tournament-golf.json) |
 | NES Play Action Football | 48194 | [48194-nes-play-action-football.json](./48194-nes-play-action-football.json) |
+| NES Quest | 324624 | [324624-nes-quest.json](./324624-nes-quest.json) |
 | NES Remix | 6401 | [6401-nes-remix.json](./6401-nes-remix.json) |
 | NES Remix 2 | 6402 | [6402-nes-remix-2.json](./6402-nes-remix-2.json) |
 | NES Remix Pack | 51151 | [51151-nes-remix-pack.json](./51151-nes-remix-pack.json) |
@@ -3898,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon All-Star Brawl: StageHazardRemoverMod | 330977 | [330977-nickelodeon-all-star-brawl-stagehazardremovermod.json](./330977-nickelodeon-all-star-brawl-stagehazardremovermod.json) |
 | Nickelodeon All-Star Brawl: Turbo Mode | 330975 | [330975-nickelodeon-all-star-brawl-turbo-mode.json](./330975-nickelodeon-all-star-brawl-turbo-mode.json) |
 | Nickelodeon All-Star Brawl: Ultimate Edition | 225326 | [225326-nickelodeon-all-star-brawl-ultimate-edition.json](./225326-nickelodeon-all-star-brawl-ultimate-edition.json) |
+| Nickelodeon All-Star Brawl: Voice Acting and Items | 324641 | [324641-nickelodeon-all-star-brawl-voice-acting-and-items.json](./324641-nickelodeon-all-star-brawl-voice-acting-and-items.json) |
 | Nickelodeon Brain Bender Puzzles & Activities | 206474 | [206474-nickelodeon-brain-bender-puzzles-and-activities.json](./206474-nickelodeon-brain-bender-puzzles-and-activities.json) |
 | Nickelodeon Card Clash | 382944 | [382944-nickelodeon-card-clash.json](./382944-nickelodeon-card-clash.json) |
 | Nickelodeon Dance | 20240 | [20240-nickelodeon-dance.json](./20240-nickelodeon-dance.json) |
@@ -4251,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Stocker | 37329 | [37329-night-stocker.json](./37329-night-stocker.json) |
 | Night Stones | 239711 | [239711-night-stones.json](./239711-night-stones.json) |
 | Night Stop | 228319 | [228319-night-stop.json](./228319-night-stop.json) |
+| Night Store Simulator | 324632 | [324632-night-store-simulator.json](./324632-night-store-simulator.json) |
 | Night Strike Infiltrators | 185388 | [185388-night-strike-infiltrators.json](./185388-night-strike-infiltrators.json) |
 | Night Strike Resistance: WW2 | 386782 | [386782-night-strike-resistance-ww2.json](./386782-night-strike-resistance-ww2.json) |
 | Night Striker | 307654 | [307654-night-striker.json](./307654-night-striker.json) |
@@ -5411,6 +5414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nkodice | 150587 | [150587-nkodice.json](./150587-nkodice.json) |
 | Nl | 178434 | [178434-nl.json](./178434-nl.json) |
 | NL Community | 334420 | [334420-nl-community.json](./334420-nl-community.json) |
+| NLC 7: Hard Edition | 324628 | [324628-nlc-7-hard-edition.json](./324628-nlc-7-hard-edition.json) |
 | NLdle | 342051 | [342051-nldle.json](./342051-nldle.json) |
 | NLL 11 | 62793 | [62793-nll-11.json](./62793-nll-11.json) |
 | NLL Lacrosse 2010 | 66705 | [66705-nll-lacrosse-2010.json](./66705-nll-lacrosse-2010.json) |
