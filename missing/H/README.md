@@ -3834,6 +3834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix | 139802 | [139802-helix.json](./139802-helix.json) |
 | Helix | 147373 | [147373-helix.json](./147373-helix.json) |
 | Helix | 181115 | [181115-helix.json](./181115-helix.json) |
+| Helix | 341828 | [341828-helix.json](./341828-helix.json) |
 | Helix | 60734 | [60734-helix.json](./60734-helix.json) |
 | Helix Ball | 104651 | [104651-helix-ball.json](./104651-helix-ball.json) |
 | Helix Bounce Space | 100841 | [100841-helix-bounce-space.json](./100841-helix-bounce-space.json) |
@@ -11575,6 +11576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HuntForOut | 207731 | [207731-huntforout.json](./207731-huntforout.json) |
 | Huntin' Adventure | 210054 | [210054-huntin-adventure.json](./210054-huntin-adventure.json) |
 | Huntin' Ducks | 309921 | [309921-huntin-ducks.json](./309921-huntin-ducks.json) |
+| Hunting | 341953 | [341953-hunting.json](./341953-hunting.json) |
 | Hunting and Camping: In a Singularity | 214685 | [214685-hunting-and-camping-in-a-singularity.json](./214685-hunting-and-camping-in-a-singularity.json) |
 | Hunting Animals - Shooting Simulator | 87144 | [87144-hunting-animals-shooting-simulator.json](./87144-hunting-animals-shooting-simulator.json) |
 | Hunting Arcade | 210055 | [210055-hunting-arcade.json](./210055-hunting-arcade.json) |
