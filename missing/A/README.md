@@ -7251,6 +7251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ally Racer | 138542 | [138542-ally-racer.json](./138542-ally-racer.json) |
 | AllYourArdu | 298954 | [298954-allyourardu.json](./298954-allyourardu.json) |
 | Alma | 80915 | [80915-alma.json](./80915-alma.json) |
+| Alma and the Fragments of Cursed Memories | 328178 | [328178-alma-and-the-fragments-of-cursed-memories.json](./328178-alma-and-the-fragments-of-cursed-memories.json) |
 | Alma's Search | 416563 | [416563-almas-search.json](./416563-almas-search.json) |
 | Almace | 184807 | [184807-almace.json](./184807-almace.json) |
 | Almana no Kiseki | 41255 | [41255-almana-no-kiseki.json](./41255-almana-no-kiseki.json) |
@@ -8027,6 +8028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambermoon.net | 217853 | [217853-ambermoon-net.json](./217853-ambermoon-net.json) |
 | Ambers Boom | 44299 | [44299-ambers-boom.json](./44299-ambers-boom.json) |
 | Amberspire | 325713 | [325713-amberspire.json](./325713-amberspire.json) |
+| Ambidextro | 328138 | [328138-ambidextro.json](./328138-ambidextro.json) |
 | Ambien | 254122 | [254122-ambien.json](./254122-ambien.json) |
 | Ambience | 414497 | [414497-ambience.json](./414497-ambience.json) |
 | Ambient Channels: Abandoned Town - Farmhouse | 170709 | [170709-ambient-channels-abandoned-town-farmhouse.json](./170709-ambient-channels-abandoned-town-farmhouse.json) |
@@ -13640,7 +13642,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army of One | 199494 | [199494-army-of-one.json](./199494-army-of-one.json) |
 | Army of Pixels | 34757 | [34757-army-of-pixels.json](./34757-army-of-pixels.json) |
 | Army of Robots | 68533 | [68533-army-of-robots.json](./68533-army-of-robots.json) |
-| Army of Ruin | 219057 | [219057-army-of-ruin.json](./219057-army-of-ruin.json) |
 | Army of Squirrels | 54721 | [54721-army-of-squirrels.json](./54721-army-of-squirrels.json) |
 | Army of Tactics | 281437 | [281437-army-of-tactics.json](./281437-army-of-tactics.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim - Halloween | 172178 | [172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json](./172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json) |
