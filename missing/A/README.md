@@ -6576,6 +6576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Flex | 153148 | [153148-alien-flex.json](./153148-alien-flex.json) |
 | Alien Flowers | 229642 | [229642-alien-flowers.json](./229642-alien-flowers.json) |
 | Alien Food Frenzy | 83989 | [83989-alien-food-frenzy.json](./83989-alien-food-frenzy.json) |
+| Alien Force | 307520 | [307520-alien-force.json](./307520-alien-force.json) |
 | Alien Force | 93201 | [93201-alien-force.json](./93201-alien-force.json) |
 | Alien Front | 206107 | [206107-alien-front.json](./206107-alien-front.json) |
 | Alien Front Online | 3711 | [3711-alien-front-online.json](./3711-alien-front-online.json) |
@@ -9363,6 +9364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Barry | 67987 | [67987-angry-barry.json](./67987-angry-barry.json) |
 | Angry Battalion | 330191 | [330191-angry-battalion.json](./330191-angry-battalion.json) |
 | Angry Birds | 247343 | [247343-angry-birds.json](./247343-angry-birds.json) |
+| Angry Birds | 307521 | [307521-angry-birds.json](./307521-angry-birds.json) |
 | Angry Birds 2 | 19273 | [19273-angry-birds-2.json](./19273-angry-birds-2.json) |
 | Angry Birds Action! | 19274 | [19274-angry-birds-action.json](./19274-angry-birds-action.json) |
 | Angry Birds AR: Isle of Pigs | 196589 | [196589-angry-birds-ar-isle-of-pigs.json](./196589-angry-birds-ar-isle-of-pigs.json) |
