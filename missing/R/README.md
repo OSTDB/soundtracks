@@ -4307,6 +4307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflection | 342538 | [342538-reflection.json](./342538-reflection.json) |
 | Reflection A | 82678 | [82678-reflection-a.json](./82678-reflection-a.json) |
 | Reflection Arena | 406227 | [406227-reflection-arena.json](./406227-reflection-arena.json) |
+| Reflection by Delphinium Interactive | 305099 | [305099-reflection-by-delphinium-interactive.json](./305099-reflection-by-delphinium-interactive.json) |
 | Reflection Link | 303061 | [303061-reflection-link.json](./303061-reflection-link.json) |
 | Reflection of a Fallen Feather | 29444 | [29444-reflection-of-a-fallen-feather.json](./29444-reflection-of-a-fallen-feather.json) |
 | Reflection of Loneliness | 184576 | [184576-reflection-of-loneliness.json](./184576-reflection-of-loneliness.json) |
