@@ -3115,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Little Guys | 335422 | [335422-weird-little-guys.json](./335422-weird-little-guys.json) |
 | Weird Meese | 280092 | [280092-weird-meese.json](./280092-weird-meese.json) |
 | Weird mister Bogot | 288471 | [288471-weird-mister-bogot.json](./288471-weird-mister-bogot.json) |
+| Weird O's: Chaos Royale | 314527 | [314527-weird-os-chaos-royale.json](./314527-weird-os-chaos-royale.json) |
 | Weird Park: Broken Tune | 53130 | [53130-weird-park-broken-tune.json](./53130-weird-park-broken-tune.json) |
 | Weird Park: Broken Tune - Collector's Edition | 53129 | [53129-weird-park-broken-tune-collectors-edition.json](./53129-weird-park-broken-tune-collectors-edition.json) |
 | Weird Park: Scary Tales | 53128 | [53128-weird-park-scary-tales.json](./53128-weird-park-scary-tales.json) |
@@ -6081,6 +6082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch & Bun Cats | 367552 | [367552-witch-and-bun-cats.json](./367552-witch-and-bun-cats.json) |
 | Witch & Cats | 258177 | [258177-witch-and-cats.json](./258177-witch-and-cats.json) |
 | Witch & Fairy Dungeon | 327311 | [327311-witch-and-fairy-dungeon.json](./327311-witch-and-fairy-dungeon.json) |
+| Witch & Fieriness | 314190 | [314190-witch-and-fieriness.json](./314190-witch-and-fieriness.json) |
 | Witch & Hero | 21924 | [21924-witch-and-hero.json](./21924-witch-and-hero.json) |
 | Witch & Hero | 33741 | [33741-witch-and-hero.json](./33741-witch-and-hero.json) |
 | Witch & Hero 2 | 21925 | [21925-witch-and-hero-2.json](./21925-witch-and-hero-2.json) |
