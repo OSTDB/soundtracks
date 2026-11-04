@@ -6550,6 +6550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Department of the Devil | 217173 | [217173-department-of-the-devil.json](./217173-department-of-the-devil.json) |
 | Departure | 96681 | [96681-departure.json](./96681-departure.json) |
 | Departure Dash | 122039 | [122039-departure-dash.json](./122039-departure-dash.json) |
+| Departure of Darkness | 347574 | [347574-departure-of-darkness.json](./347574-departure-of-darkness.json) |
 | Departure!! Shipping Freighter | 299483 | [299483-departure-shipping-freighter.json](./299483-departure-shipping-freighter.json) |
 | Departure. | 196472 | [196472-departure.json](./196472-departure.json) |
 | Dependency Psychological Test | 367854 | [367854-dependency-psychological-test.json](./367854-dependency-psychological-test.json) |
@@ -7971,6 +7972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DGU: Death God University - Finals Week | 165962 | [165962-dgu-death-god-university-finals-week.json](./165962-dgu-death-god-university-finals-week.json) |
 | DGU: Death God University - Midterm Mania | 171457 | [171457-dgu-death-god-university-midterm-mania.json](./171457-dgu-death-god-university-midterm-mania.json) |
 | DGU: Death God University - Sinister Semester | 171337 | [171337-dgu-death-god-university-sinister-semester.json](./171337-dgu-death-god-university-sinister-semester.json) |
+| Dhadoom! | 347454 | [347454-dhadoom.json](./347454-dhadoom.json) |
 | Dhaka Racing | 385278 | [385278-dhaka-racing.json](./385278-dhaka-racing.json) |
 | Dhalman | 408006 | [408006-dhalman.json](./408006-dhalman.json) |
 | Dharma Dojo | 42529 | [42529-dharma-dojo.json](./42529-dharma-dojo.json) |
@@ -8314,6 +8316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicey Heroes | 346176 | [346176-dicey-heroes.json](./346176-dicey-heroes.json) |
 | Dicey Krime: Traveler of Time | 155850 | [155850-dicey-krime-traveler-of-time.json](./155850-dicey-krime-traveler-of-time.json) |
 | Dicey Towers | 188489 | [188489-dicey-towers.json](./188489-dicey-towers.json) |
+| Dicey Words | 347446 | [347446-dicey-words.json](./347446-dicey-words.json) |
 | DiceyTable | 422531 | [422531-diceytable.json](./422531-diceytable.json) |
 | Dichotomy | 161159 | [161159-dichotomy.json](./161159-dichotomy.json) |
 | Dichotomy | 344580 | [344580-dichotomy.json](./344580-dichotomy.json) |
