@@ -15838,6 +15838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstronomy | 264653 | [264653-monstronomy.json](./264653-monstronomy.json) |
 | Monstropoly | 215012 | [215012-monstropoly.json](./215012-monstropoly.json) |
 | Monstrosity | 252047 | [252047-monstrosity.json](./252047-monstrosity.json) |
+| Monstrosity | 306275 | [306275-monstrosity.json](./306275-monstrosity.json) |
 | Monstrous Cravings | 298913 | [298913-monstrous-cravings.json](./298913-monstrous-cravings.json) |
 | Monstrous Liberation | 361086 | [361086-monstrous-liberation.json](./361086-monstrous-liberation.json) |
 | Monstrous Love | 221200 | [221200-monstrous-love.json](./221200-monstrous-love.json) |
@@ -16509,6 +16510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morn | 292313 | [292313-morn.json](./292313-morn.json) |
 | Morna Tales | 74804 | [74804-morna-tales.json](./74804-morna-tales.json) |
 | Mornin' Joe! | 249792 | [249792-mornin-joe.json](./249792-mornin-joe.json) |
+| Morning | 306276 | [306276-morning.json](./306276-morning.json) |
 | Morning Brew: Coffee Shop Management Simulator | 326388 | [326388-morning-brew-coffee-shop-management-simulator.json](./326388-morning-brew-coffee-shop-management-simulator.json) |
 | Morning Coffee | 128615 | [128615-morning-coffee.json](./128615-morning-coffee.json) |
 | Morning Glories | 398791 | [398791-morning-glories.json](./398791-morning-glories.json) |
@@ -19846,6 +19848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Girlfriend is... Centaur | 303103 | [303103-my-girlfriend-is-centaur.json](./303103-my-girlfriend-is-centaur.json) |
 | My Girlfriend Loves a Mystery | 209021 | [209021-my-girlfriend-loves-a-mystery.json](./209021-my-girlfriend-loves-a-mystery.json) |
 | My Girlfriend's Special Place | 240481 | [240481-my-girlfriends-special-place.json](./240481-my-girlfriends-special-place.json) |
+| My Girlfriends | 306289 | [306289-my-girlfriends.json](./306289-my-girlfriends.json) |
 | My Gnome Wife Left Me | 278459 | [278459-my-gnome-wife-left-me.json](./278459-my-gnome-wife-left-me.json) |
 | My Goddess Girlfriend | 229875 | [229875-my-goddess-girlfriend.json](./229875-my-goddess-girlfriend.json) |
 | My Goddess of Love | 114406 | [114406-my-goddess-of-love.json](./114406-my-goddess-of-love.json) |
