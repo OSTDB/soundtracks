@@ -1086,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galzoo Island | 185286 | [185286-galzoo-island.json](./185286-galzoo-island.json) |
 | Gam3rAbduction | 276034 | [276034-gam3rabduction.json](./276034-gam3rabduction.json) |
 | Gamba Gun | 346248 | [346248-gamba-gun.json](./346248-gamba-gun.json) |
+| Gamba Simulator | 326431 | [326431-gamba-simulator.json](./326431-gamba-simulator.json) |
 | Gambari Minoriko: Onee-chan no Shiren | 241259 | [241259-gambari-minoriko-onee-chan-no-shiren.json](./241259-gambari-minoriko-onee-chan-no-shiren.json) |
 | Gambaru Amabie-chan | 206049 | [206049-gambaru-amabie-chan.json](./206049-gambaru-amabie-chan.json) |
 | Gambit | 124622 | [124622-gambit.json](./124622-gambit.json) |
@@ -1514,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games8x8 | 376022 | [376022-games8x8.json](./376022-games8x8.json) |
 | GameShop Tycoon | 385105 | [385105-gameshop-tycoon.json](./385105-gameshop-tycoon.json) |
 | GameStart Pixel Battle | 207865 | [207865-gamestart-pixel-battle.json](./207865-gamestart-pixel-battle.json) |
+| Gamestonk Simulator: Gone Rogue | 326432 | [326432-gamestonk-simulator-gone-rogue.json](./326432-gamestonk-simulator-gone-rogue.json) |
 | GameSyndicates | 404513 | [404513-gamesyndicates.json](./404513-gamesyndicates.json) |
 | GameTap, Cup Noodles, and Bitter Tears | 353929 | [353929-gametap-cup-noodles-and-bitter-tears.json](./353929-gametap-cup-noodles-and-bitter-tears.json) |
 | Gametrak: Dark Wind | 72072 | [72072-gametrak-dark-wind.json](./72072-gametrak-dark-wind.json) |
