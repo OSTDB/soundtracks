@@ -6331,6 +6331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With in the Obscurity | 287686 | [287686-with-in-the-obscurity.json](./287686-with-in-the-obscurity.json) |
 | With Locks of Love | 178581 | [178581-with-locks-of-love.json](./178581-with-locks-of-love.json) |
 | With Loneliness | 116932 | [116932-with-loneliness.json](./116932-with-loneliness.json) |
+| With Love Comes Regret | 298772 | [298772-with-love-comes-regret.json](./298772-with-love-comes-regret.json) |
 | With Mountain Smiling | 250271 | [250271-with-mountain-smiling.json](./250271-with-mountain-smiling.json) |
 | With My Buddy | 339826 | [339826-with-my-buddy.json](./339826-with-my-buddy.json) |
 | With My Cat | 233911 | [233911-with-my-cat.json](./233911-with-my-cat.json) |
