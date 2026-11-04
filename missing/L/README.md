@@ -4491,6 +4491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light | 10515 | [10515-light.json](./10515-light.json) |
 | Light | 212975 | [212975-light.json](./212975-light.json) |
 | Light | 220607 | [220607-light.json](./220607-light.json) |
+| Light | 326919 | [326919-light.json](./326919-light.json) |
 | Light | 93759 | [93759-light.json](./93759-light.json) |
 | Light 'em | 349029 | [349029-light-em.json](./349029-light-em.json) |
 | Light 'em Up | 204495 | [204495-light-em-up.json](./204495-light-em-up.json) |
