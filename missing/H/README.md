@@ -3086,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healed To Death | 285830 | [285830-healed-to-death.json](./285830-healed-to-death.json) |
 | Healer | 257850 | [257850-healer.json](./257850-healer.json) |
 | Healer Simulator | 96675 | [96675-healer-simulator.json](./96675-healer-simulator.json) |
+| Healer Simulator RPG | 333305 | [333305-healer-simulator-rpg.json](./333305-healer-simulator-rpg.json) |
 | Healer's Quest | 29380 | [29380-healers-quest.json](./29380-healers-quest.json) |
 | Healer's Quest: Pocket Wand | 197759 | [197759-healers-quest-pocket-wand.json](./197759-healers-quest-pocket-wand.json) |
 | Healer's Yell | 374038 | [374038-healers-yell.json](./374038-healers-yell.json) |
@@ -8773,6 +8774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Behind | 32708 | [32708-home-behind.json](./32708-home-behind.json) |
 | Home Behind 2 | 142663 | [142663-home-behind-2.json](./142663-home-behind-2.json) |
 | Home by the River | 212104 | [212104-home-by-the-river.json](./212104-home-by-the-river.json) |
+| Home Cleaning | 333322 | [333322-home-cleaning.json](./333322-home-cleaning.json) |
 | Home Computer Heroes Collection 1 | 260072 | [260072-home-computer-heroes-collection-1.json](./260072-home-computer-heroes-collection-1.json) |
 | Home Construction Sim | 294965 | [294965-home-construction-sim.json](./294965-home-construction-sim.json) |
 | Home Cooked Spaghetti Western | 380200 | [380200-home-cooked-spaghetti-western.json](./380200-home-cooked-spaghetti-western.json) |
