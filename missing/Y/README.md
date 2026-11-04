@@ -1389,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Human is Sick | 149008 | [149008-your-human-is-sick.json](./149008-your-human-is-sick.json) |
 | Your Intelligence Will Be Exposed: Mystery Observation Challenge | 409501 | [409501-your-intelligence-will-be-exposed-mystery-observation-challenge.json](./409501-your-intelligence-will-be-exposed-mystery-observation-challenge.json) |
 | Your Island: Kimi no Sima | 118803 | [118803-your-island-kimi-no-sima.json](./118803-your-island-kimi-no-sima.json) |
+| Your Journey Begins | 306865 | [306865-your-journey-begins.json](./306865-your-journey-begins.json) |
 | Your Judgment, Inquisitor | 361240 | [361240-your-judgment-inquisitor.json](./361240-your-judgment-inquisitor.json) |
 | Your Last Xmas | 280186 | [280186-your-last-xmas.json](./280186-your-last-xmas.json) |
 | Your Life Simulator | 174753 | [174753-your-life-simulator.json](./174753-your-life-simulator.json) |
