@@ -3107,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate Master | 229318 | [229318-fate-master.json](./229318-fate-master.json) |
 | Fate of Antara | 370457 | [370457-fate-of-antara.json](./370457-fate-of-antara.json) |
 | Fate of Dynasty | 149834 | [149834-fate-of-dynasty.json](./149834-fate-of-dynasty.json) |
+| Fate of Fire: Kyvedy Guardiah | 310340 | [310340-fate-of-fire-kyvedy-guardiah.json](./310340-fate-of-fire-kyvedy-guardiah.json) |
 | Fate of Gun | 363418 | [363418-fate-of-gun.json](./363418-fate-of-gun.json) |
 | Fate of Hellas | 21302 | [21302-fate-of-hellas.json](./21302-fate-of-hellas.json) |
 | Fate of India | 104324 | [104324-fate-of-india.json](./104324-fate-of-india.json) |
@@ -6292,6 +6293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher Birds HD | 257010 | [257010-fisher-birds-hd.json](./257010-fisher-birds-hd.json) |
 | Fisher Fans VR | 54507 | [54507-fisher-fans-vr.json](./54507-fisher-fans-vr.json) |
 | Fisher Frog | 214478 | [214478-fisher-frog.json](./214478-fisher-frog.json) |
+| Fisher Guy | 310328 | [310328-fisher-guy.json](./310328-fisher-guy.json) |
 | Fisher Haven | 338405 | [338405-fisher-haven.json](./338405-fisher-haven.json) |
 | Fisher Idle | 333488 | [333488-fisher-idle.json](./333488-fisher-idle.json) |
 | Fisher Man | 367491 | [367491-fisher-man.json](./367491-fisher-man.json) |
@@ -7513,6 +7515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Academy | 62999 | [62999-flight-academy.json](./62999-flight-academy.json) |
 | Flight Assignment: Airline Transport Pilot | 80275 | [80275-flight-assignment-airline-transport-pilot.json](./80275-flight-assignment-airline-transport-pilot.json) |
 | Flight Attendant Simulator | 153905 | [153905-flight-attendant-simulator.json](./153905-flight-attendant-simulator.json) |
+| Flight Attendant Simulator: Onboard Tasks | 310365 | [310365-flight-attendant-simulator-onboard-tasks.json](./310365-flight-attendant-simulator-onboard-tasks.json) |
 | Flight Catastrophe | 149532 | [149532-flight-catastrophe.json](./149532-flight-catastrophe.json) |
 | Flight Color | 252928 | [252928-flight-color.json](./252928-flight-color.json) |
 | Flight Commander 2 | 73854 | [73854-flight-commander-2.json](./73854-flight-commander-2.json) |
@@ -12609,6 +12612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuga: Melodies of Steel - Deluxe Edition | 164582 | [164582-fuga-melodies-of-steel-deluxe-edition.json](./164582-fuga-melodies-of-steel-deluxe-edition.json) |
 | Fuga: Melodies of Steel - Fantasy Costume Pack | 284455 | [284455-fuga-melodies-of-steel-fantasy-costume-pack.json](./284455-fuga-melodies-of-steel-fantasy-costume-pack.json) |
 | Fuga: Melodies of Steel - Ultimate Edition | 283145 | [283145-fuga-melodies-of-steel-ultimate-edition.json](./283145-fuga-melodies-of-steel-ultimate-edition.json) |
+| Fuga: Melodies of Steel 1 & 2 - Double Pack | 310364 | [310364-fuga-melodies-of-steel-1-and-2-double-pack.json](./310364-fuga-melodies-of-steel-1-and-2-double-pack.json) |
 | Fuga: Melodies of Steel 2 | 212264 | [212264-fuga-melodies-of-steel-2.json](./212264-fuga-melodies-of-steel-2.json) |
 | Fuga: Melodies of Steel 2 - Animal Costume Pack | 278520 | [278520-fuga-melodies-of-steel-2-animal-costume-pack.json](./278520-fuga-melodies-of-steel-2-animal-costume-pack.json) |
 | Fuga: Melodies of Steel 2 - Deluxe Edition | 246620 | [246620-fuga-melodies-of-steel-2-deluxe-edition.json](./246620-fuga-melodies-of-steel-2-deluxe-edition.json) |
