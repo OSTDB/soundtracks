@@ -2452,8 +2452,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney Turnabout Collection | 146326 | [146326-ace-attorney-turnabout-collection.json](./146326-ace-attorney-turnabout-collection.json) |
 | Ace Attorney: Athena Cykes - Wisdom at Law | 308533 | [308533-ace-attorney-athena-cykes-wisdom-at-law.json](./308533-ace-attorney-athena-cykes-wisdom-at-law.json) |
 | Ace Attorney: Beyond the Shadows | 308543 | [308543-ace-attorney-beyond-the-shadows.json](./308543-ace-attorney-beyond-the-shadows.json) |
+| Ace Attorney: Judgement Seekers | 310417 | [310417-ace-attorney-judgement-seekers.json](./310417-ace-attorney-judgement-seekers.json) |
 | Ace Attorney: Prisoners of Fate | 341929 | [341929-ace-attorney-prisoners-of-fate.json](./341929-ace-attorney-prisoners-of-fate.json) |
 | Ace Attorney: The Dark Age of Love | 305190 | [305190-ace-attorney-the-dark-age-of-love.json](./305190-ace-attorney-the-dark-age-of-love.json) |
+| Ace Attorney: The Feather of Crime | 310416 | [310416-ace-attorney-the-feather-of-crime.json](./310416-ace-attorney-the-feather-of-crime.json) |
 | Ace Attorney: The Final Trials | 366725 | [366725-ace-attorney-the-final-trials.json](./366725-ace-attorney-the-final-trials.json) |
 | Ace Attorney: The Incomplete Story | 309972 | [309972-ace-attorney-the-incomplete-story.json](./309972-ace-attorney-the-incomplete-story.json) |
 | Ace Attorney: Turnabout Of A Legend | 303001 | [303001-ace-attorney-turnabout-of-a-legend.json](./303001-ace-attorney-turnabout-of-a-legend.json) |
@@ -11049,6 +11051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape Escape 4 | 511 | [511-ape-escape-4.json](./511-ape-escape-4.json) |
 | Ape Escape Academy | 22454 | [22454-ape-escape-academy.json](./22454-ape-escape-academy.json) |
 | Ape Escape Academy | 272555 | [272555-ape-escape-academy.json](./272555-ape-escape-academy.json) |
+| Ape Escape M | 310347 | [310347-ape-escape-m.json](./310347-ape-escape-m.json) |
 | Ape Escape: Million Monkeys | 68008 | [68008-ape-escape-million-monkeys.json](./68008-ape-escape-million-monkeys.json) |
 | Ape Escape: On the Loose | 44530 | [44530-ape-escape-on-the-loose.json](./44530-ape-escape-on-the-loose.json) |
 | Ape Hit | 107824 | [107824-ape-hit.json](./107824-ape-hit.json) |
@@ -11880,6 +11883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: TX-1 | 411809 | [411809-arcade-archives-2-tx-1.json](./411809-arcade-archives-2-tx-1.json) |
 | Arcade Archives 2: V'Ball | 413937 | [413937-arcade-archives-2-vball.json](./413937-arcade-archives-2-vball.json) |
 | Arcade Archives 2: Wiz | 417316 | [417316-arcade-archives-2-wiz.json](./417316-arcade-archives-2-wiz.json) |
+| Arcade Archives VS. The Adventures of Valkyrie | 310367 | [310367-arcade-archives-vs-the-adventures-of-valkyrie.json](./310367-arcade-archives-vs-the-adventures-of-valkyrie.json) |
 | Arcade Archives: 10-Yard Fight | 99168 | [99168-arcade-archives-10-yard-fight.json](./99168-arcade-archives-10-yard-fight.json) |
 | Arcade Archives: 64th. Street | 144662 | [144662-arcade-archives-64th-street.json](./144662-arcade-archives-64th-street.json) |
 | Arcade Archives: A-Jax | 99563 | [99563-arcade-archives-a-jax.json](./99563-arcade-archives-a-jax.json) |
@@ -14068,6 +14072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifact Seeker | 329438 | [329438-artifact-seeker.json](./329438-artifact-seeker.json) |
 | Artifact Seeker: DLC 1 - The Legacy of Mortia | 314624 | [314624-artifact-seeker-dlc-1-the-legacy-of-mortia.json](./314624-artifact-seeker-dlc-1-the-legacy-of-mortia.json) |
 | Artifact Seeker: Legend of Aurorium | 260298 | [260298-artifact-seeker-legend-of-aurorium.json](./260298-artifact-seeker-legend-of-aurorium.json) |
+| Artifact Seeker: Resurrection | 310341 | [310341-artifact-seeker-resurrection.json](./310341-artifact-seeker-resurrection.json) |
 | Artifact Seekers | 366306 | [366306-artifact-seekers.json](./366306-artifact-seekers.json) |
 | Artifact: 3D Puzzle | 417199 | [417199-artifact-3d-puzzle.json](./417199-artifact-3d-puzzle.json) |
 | Artifacting | 151608 | [151608-artifacting.json](./151608-artifacting.json) |
@@ -16731,6 +16736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurum Blade | 38709 | [38709-aurum-blade.json](./38709-aurum-blade.json) |
 | Aurum Kings | 100148 | [100148-aurum-kings.json](./100148-aurum-kings.json) |
 | Aurum Online | 158968 | [158968-aurum-online.json](./158968-aurum-online.json) |
+| Aurye Clicker | 310344 | [310344-aurye-clicker.json](./310344-aurye-clicker.json) |
 | Auryn Quest | 94591 | [94591-auryn-quest.json](./94591-auryn-quest.json) |
 | Ausbruch | 271943 | [271943-ausbruch.json](./271943-ausbruch.json) |
 | Ausencia de Color | 395956 | [395956-ausencia-de-color.json](./395956-ausencia-de-color.json) |
