@@ -7635,6 +7635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheriff Looper | 383344 | [383344-sheriff-looper.json](./383344-sheriff-looper.json) |
 | Sheriff of Mahjong | 182057 | [182057-sheriff-of-mahjong.json](./182057-sheriff-of-mahjong.json) |
 | Sheriff Rage | 172199 | [172199-sheriff-rage.json](./172199-sheriff-rage.json) |
+| Sherlocat Nonogram Rio | 346873 | [346873-sherlocat-nonogram-rio.json](./346873-sherlocat-nonogram-rio.json) |
 | Sherlock | 25857 | [25857-sherlock.json](./25857-sherlock.json) |
 | Sherlock | 353927 | [353927-sherlock.json](./353927-sherlock.json) |
 | Sherlock and Watson: A Study in Scarlet | 226624 | [226624-sherlock-and-watson-a-study-in-scarlet.json](./226624-sherlock-and-watson-a-study-in-scarlet.json) |
@@ -8536,6 +8537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shobon no Action | 78662 | [78662-shobon-no-action.json](./78662-shobon-no-action.json) |
 | Shobon no Rukimin! DX: Shobomi to Yuki no Tiara | 206541 | [206541-shobon-no-rukimin-dx-shobomi-to-yuki-no-tiara.json](./206541-shobon-no-rukimin-dx-shobomi-to-yuki-no-tiara.json) |
 | Shock | 287552 | [287552-shock.json](./287552-shock.json) |
+| Shock | 346890 | [346890-shock.json](./346890-shock.json) |
 | Shock Block. | 178857 | [178857-shock-block.json](./178857-shock-block.json) |
 | Shock Hop | 243089 | [243089-shock-hop.json](./243089-shock-hop.json) |
 | Shock Lobster | 220781 | [220781-shock-lobster.json](./220781-shock-lobster.json) |
@@ -12002,6 +12004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Dodge | 98714 | [98714-sky-dodge.json](./98714-sky-dodge.json) |
 | Sky Dog | 137804 | [137804-sky-dog.json](./137804-sky-dog.json) |
 | Sky Dominion | 292561 | [292561-sky-dominion.json](./292561-sky-dominion.json) |
+| Sky Dreamer | 346865 | [346865-sky-dreamer.json](./346865-sky-dreamer.json) |
 | Sky Dunk | 304265 | [304265-sky-dunk.json](./304265-sky-dunk.json) |
 | Sky Dust | 307180 | [307180-sky-dust.json](./307180-sky-dust.json) |
 | Sky End Market | 333460 | [333460-sky-end-market.json](./333460-sky-end-market.json) |
@@ -19583,6 +19586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship Driver License | 293528 | [293528-spaceship-driver-license.json](./293528-spaceship-driver-license.json) |
 | Spaceship For Newbies | 152745 | [152745-spaceship-for-newbies.json](./152745-spaceship-for-newbies.json) |
 | Spaceship Hunters | 184512 | [184512-spaceship-hunters.json](./184512-spaceship-hunters.json) |
+| Spaceship Idle: Design, Build, Explore & Battle | 346879 | [346879-spaceship-idle-design-build-explore-and-battle.json](./346879-spaceship-idle-design-build-explore-and-battle.json) |
 | Spaceship Man 2 | 351258 | [351258-spaceship-man-2.json](./351258-spaceship-man-2.json) |
 | Spaceship Racer: Portal | 243041 | [243041-spaceship-racer-portal.json](./243041-spaceship-racer-portal.json) |
 | Spaceship Racer: Portal | 244744 | [244744-spaceship-racer-portal.json](./244744-spaceship-racer-portal.json) |
@@ -26147,6 +26151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Lover Natsu Koi!! | 132070 | [132070-storm-lover-natsu-koi.json](./132070-storm-lover-natsu-koi.json) |
 | Storm Lover V | 132072 | [132072-storm-lover-v.json](./132072-storm-lover-v.json) |
 | Storm Master | 10853 | [10853-storm-master.json](./10853-storm-master.json) |
+| Storm Mined | 346902 | [346902-storm-mined.json](./346902-storm-mined.json) |
 | Storm of Darkness | 233500 | [233500-storm-of-darkness.json](./233500-storm-of-darkness.json) |
 | Storm of Idigidragon | 58503 | [58503-storm-of-idigidragon.json](./58503-storm-of-idigidragon.json) |
 | Storm of Jigsaw Puzzles | 109654 | [109654-storm-of-jigsaw-puzzles.json](./109654-storm-of-jigsaw-puzzles.json) |
