@@ -4285,6 +4285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second to Nun | 189949 | [189949-second-to-nun.json](./189949-second-to-nun.json) |
 | Second Warfare | 35158 | [35158-second-warfare.json](./35158-second-warfare.json) |
 | Second Wave | 242250 | [242250-second-wave.json](./242250-second-wave.json) |
+| Second Wind | 314531 | [314531-second-wind.json](./314531-second-wind.json) |
 | Second Wind | 390123 | [390123-second-wind.json](./390123-second-wind.json) |
 | Second Wing | 183916 | [183916-second-wing.json](./183916-second-wing.json) |
 | Second Works | 365940 | [365940-second-works.json](./365940-second-works.json) |
@@ -4651,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | See You Later | 235451 | [235451-see-you-later.json](./235451-see-you-later.json) |
 | See You on the Other Side | 180188 | [180188-see-you-on-the-other-side.json](./180188-see-you-on-the-other-side.json) |
 | See you: A brief exile | 159745 | [159745-see-you-a-brief-exile.json](./159745-see-you-a-brief-exile.json) |
+| See You... | 314179 | [314179-see-you.json](./314179-see-you.json) |
 | See-Through Jewels | 182220 | [182220-see-through-jewels.json](./182220-see-through-jewels.json) |
 | See/Saw | 120630 | [120630-see-saw.json](./120630-see-saw.json) |
 | Seeb Defender | 244777 | [244777-seeb-defender.json](./244777-seeb-defender.json) |
@@ -14982,6 +14984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Wars | 150785 | [150785-snow-wars.json](./150785-snow-wars.json) |
 | Snow Wave | 91551 | [91551-snow-wave.json](./91551-snow-wave.json) |
 | Snow Wave 2 | 401717 | [401717-snow-wave-2.json](./401717-snow-wave-2.json) |
+| Snow Wave Community Project | 314540 | [314540-snow-wave-community-project.json](./314540-snow-wave-community-project.json) |
 | Snow Wave: Avalanche | 206998 | [206998-snow-wave-avalanche.json](./206998-snow-wave-avalanche.json) |
 | Snow White and the Seven Dwarfs | 77396 | [77396-snow-white-and-the-seven-dwarfs.json](./77396-snow-white-and-the-seven-dwarfs.json) |
 | Snow White Ashes | 289791 | [289791-snow-white-ashes.json](./289791-snow-white-ashes.json) |
@@ -15083,6 +15086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowkissed Romance | 254571 | [254571-snowkissed-romance.json](./254571-snowkissed-romance.json) |
 | Snowland Adventure | 196277 | [196277-snowland-adventure.json](./196277-snowland-adventure.json) |
 | Snowlord | 273264 | [273264-snowlord.json](./273264-snowlord.json) |
+| Snowmageddon | 314174 | [314174-snowmageddon.json](./314174-snowmageddon.json) |
 | Snowman | 25012 | [25012-snowman.json](./25012-snowman.json) |
 | Snowman Adventure | 186265 | [186265-snowman-adventure.json](./186265-snowman-adventure.json) |
 | Snowman Arena | 184236 | [184236-snowman-arena.json](./184236-snowman-arena.json) |
@@ -18985,6 +18989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -28257,6 +28262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Surfers City | 334892 | [334892-subway-surfers-city.json](./334892-subway-surfers-city.json) |
 | Subway Surfers Match | 371469 | [371469-subway-surfers-match.json](./371469-subway-surfers-match.json) |
 | Subway Surfers Tag | 207216 | [207216-subway-surfers-tag.json](./207216-subway-surfers-tag.json) |
+| Subway Surge | 314526 | [314526-subway-surge.json](./314526-subway-surge.json) |
 | Subway Train Simulator 2D | 88647 | [88647-subway-train-simulator-2d.json](./88647-subway-train-simulator-2d.json) |
 | Subwaydle | 228717 | [228717-subwaydle.json](./228717-subwaydle.json) |
 | SubwaySim 2 | 314444 | [314444-subwaysim-2.json](./314444-subwaysim-2.json) |
