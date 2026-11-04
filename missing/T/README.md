@@ -8793,6 +8793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eternal Shooter | 88638 | [88638-the-eternal-shooter.json](./88638-the-eternal-shooter.json) |
 | The Eternal Woods | 414427 | [414427-the-eternal-woods.json](./414427-the-eternal-woods.json) |
 | The Ethereal Dream | 339202 | [339202-the-ethereal-dream.json](./339202-the-ethereal-dream.json) |
+| The Ethernal Spiral | 302551 | [302551-the-ethernal-spiral.json](./302551-the-ethernal-spiral.json) |
 | The Evelyn Game | 370315 | [370315-the-evelyn-game.json](./370315-the-evelyn-game.json) |
 | The Even More Incredible Machine | 70233 | [70233-the-even-more-incredible-machine.json](./70233-the-even-more-incredible-machine.json) |
 | The Event | 253479 | [253479-the-event.json](./253479-the-event.json) |
@@ -12705,6 +12706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Witch Shop: New in Town | 240794 | [240794-the-little-witch-shop-new-in-town.json](./240794-the-little-witch-shop-new-in-town.json) |
 | The Little Wizard | 206999 | [206999-the-little-wizard.json](./206999-the-little-wizard.json) |
 | The Little World | 333337 | [333337-the-little-world.json](./333337-the-little-world.json) |
+| The Littlest Fry | 302550 | [302550-the-littlest-fry.json](./302550-the-littlest-fry.json) |
 | The Living Dungeon | 21316 | [21316-the-living-dungeon.json](./21316-the-living-dungeon.json) |
 | The Living End & Elder World Waystation | 271480 | [271480-the-living-end-and-elder-world-waystation.json](./271480-the-living-end-and-elder-world-waystation.json) |
 | The Living Graveyard | 422052 | [422052-the-living-graveyard.json](./422052-the-living-graveyard.json) |
@@ -14216,6 +14218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Out Door | 312723 | [312723-the-out-door.json](./312723-the-out-door.json) |
 | The Outbound Ghost | 132449 | [132449-the-outbound-ghost.json](./132449-the-outbound-ghost.json) |
 | The Outbreak | 140970 | [140970-the-outbreak.json](./140970-the-outbreak.json) |
+| The Outbreak | 302632 | [302632-the-outbreak.json](./302632-the-outbreak.json) |
 | The Outbreak Guardian | 168185 | [168185-the-outbreak-guardian.json](./168185-the-outbreak-guardian.json) |
 | The Outbreak Story | 149852 | [149852-the-outbreak-story.json](./149852-the-outbreak-story.json) |
 | The Outbreak: Wilderness | 167519 | [167519-the-outbreak-wilderness.json](./167519-the-outbreak-wilderness.json) |
@@ -20067,6 +20070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thumpies | 66730 | [66730-thumpies.json](./66730-thumpies.json) |
 | Thumps & Blows | 348327 | [348327-thumps-and-blows.json](./348327-thumps-and-blows.json) |
 | Thunder | 249655 | [249655-thunder.json](./249655-thunder.json) |
+| Thunder Age | 302549 | [302549-thunder-age.json](./302549-thunder-age.json) |
 | Thunder Alley | 49340 | [49340-thunder-alley.json](./49340-thunder-alley.json) |
 | Thunder and Line-ing | 389707 | [389707-thunder-and-line-ing.json](./389707-thunder-and-line-ing.json) |
 | Thunder Bella the Cloud Chaser | 183186 | [183186-thunder-bella-the-cloud-chaser.json](./183186-thunder-bella-the-cloud-chaser.json) |
@@ -24927,6 +24931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TopSpin 2K25 | 282959 | [282959-topspin-2k25.json](./282959-topspin-2k25.json) |
 | TopSpin 2K25: Deluxe Edition | 292137 | [292137-topspin-2k25-deluxe-edition.json](./292137-topspin-2k25-deluxe-edition.json) |
 | TopSpin 2K25: Grand Slam Edition | 293925 | [293925-topspin-2k25-grand-slam-edition.json](./293925-topspin-2k25-grand-slam-edition.json) |
+| TopSpin 2K25: Under The Lights Pack | 302560 | [302560-topspin-2k25-under-the-lights-pack.json](./302560-topspin-2k25-under-the-lights-pack.json) |
 | Topswap | 265510 | [265510-topswap.json](./265510-topswap.json) |
 | Topsy Turvy | 147414 | [147414-topsy-turvy.json](./147414-topsy-turvy.json) |
 | Topsy Turvy | 9832 | [9832-topsy-turvy.json](./9832-topsy-turvy.json) |
@@ -31506,6 +31511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbulence: Airplane Survival Simulator | 161754 | [161754-turbulence-airplane-survival-simulator.json](./161754-turbulence-airplane-survival-simulator.json) |
 | Turdy | 172195 | [172195-turdy.json](./172195-turdy.json) |
 | Turf | 61590 | [61590-turf.json](./61590-turf.json) |
+| Turf Battles | 302316 | [302316-turf-battles.json](./302316-turf-battles.json) |
 | Turf Hero | 37776 | [37776-turf-hero.json](./37776-turf-hero.json) |
 | Turf Memories | 37808 | [37808-turf-memories.json](./37808-turf-memories.json) |
 | Turf War | 194808 | [194808-turf-war.json](./194808-turf-war.json) |
