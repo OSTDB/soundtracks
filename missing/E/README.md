@@ -4402,6 +4402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Princess | 226515 | [226515-epic-princess.json](./226515-epic-princess.json) |
 | Epic Prose | 28169 | [28169-epic-prose.json](./28169-epic-prose.json) |
 | Epic Prose: Special Edition | 52020 | [52020-epic-prose-special-edition.json](./52020-epic-prose-special-edition.json) |
+| Epic Quest | 302552 | [302552-epic-quest.json](./302552-epic-quest.json) |
 | Epic Quest of the 4 Crystals | 34695 | [34695-epic-quest-of-the-4-crystals.json](./34695-epic-quest-of-the-4-crystals.json) |
 | Epic Race: The Stadium | 231751 | [231751-epic-race-the-stadium.json](./231751-epic-race-the-stadium.json) |
 | Epic Racers | 198460 | [198460-epic-racers.json](./198460-epic-racers.json) |
@@ -5537,6 +5538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escaping a Kid's Room: The Adventures of Nyanzou & Kumakichi - Escape Game Series | 145957 | [145957-escaping-a-kids-room-the-adventures-of-nyanzou-and-kumakichi-escape-game-series.json](./145957-escaping-a-kids-room-the-adventures-of-nyanzou-and-kumakichi-escape-game-series.json) |
 | Escaping Agent | 322131 | [322131-escaping-agent.json](./322131-escaping-agent.json) |
 | Escaping Atlantis | 249877 | [249877-escaping-atlantis.json](./249877-escaping-atlantis.json) |
+| Escaping DandyLand | 302307 | [302307-escaping-dandyland.json](./302307-escaping-dandyland.json) |
 | Escaping Darkness | 320531 | [320531-escaping-darkness.json](./320531-escaping-darkness.json) |
 | Escaping Diddler | 321528 | [321528-escaping-diddler.json](./321528-escaping-diddler.json) |
 | Escaping Hell | 138642 | [138642-escaping-hell.json](./138642-escaping-hell.json) |
@@ -7337,6 +7339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exhausted Man and Candleman Bundle | 310360 | [310360-exhausted-man-and-candleman-bundle.json](./310360-exhausted-man-and-candleman-bundle.json) |
 | Exhibit of Sorrows | 321126 | [321126-exhibit-of-sorrows.json](./321126-exhibit-of-sorrows.json) |
 | Exhibition | 60014 | [60014-exhibition.json](./60014-exhibition.json) |
+| Exhibition of Speed | 302559 | [302559-exhibition-of-speed.json](./302559-exhibition-of-speed.json) |
 | Exhibition of Speed | 46365 | [46365-exhibition-of-speed.json](./46365-exhibition-of-speed.json) |
 | Exhibitors | 235882 | [235882-exhibitors.json](./235882-exhibitors.json) |
 | Exidium Corp | 21327 | [21327-exidium-corp.json](./21327-exidium-corp.json) |
@@ -7718,6 +7721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploit | 173424 | [173424-exploit.json](./173424-exploit.json) |
 | Explomania | 81033 | [81033-explomania.json](./81033-explomania.json) |
 | Explora III: Sous le Signe du Serpent | 14181 | [14181-explora-iii-sous-le-signe-du-serpent.json](./14181-explora-iii-sous-le-signe-du-serpent.json) |
+| Exploración: Casa Barroso | 302563 | [302563-exploracion-casa-barroso.json](./302563-exploracion-casa-barroso.json) |
 | Exploration | 94317 | [94317-exploration.json](./94317-exploration.json) |
 | Exploration Adventures | 295689 | [295689-exploration-adventures.json](./295689-exploration-adventures.json) |
 | Exploration Escape Room Bundle | 378831 | [378831-exploration-escape-room-bundle.json](./378831-exploration-escape-room-bundle.json) |
