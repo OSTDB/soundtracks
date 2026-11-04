@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 25 | 3185 | [3185-madden-nfl-25.json](./3185-madden-nfl-25.json) |
 | Madden NFL 25 Mobile Football | 320596 | [320596-madden-nfl-25-mobile-football.json](./320596-madden-nfl-25-mobile-football.json) |
 | Madden NFL 26 | 342382 | [342382-madden-nfl-26.json](./342382-madden-nfl-26.json) |
+| Madden NFL 26: Deluxe Edition | 342383 | [342383-madden-nfl-26-deluxe-edition.json](./342383-madden-nfl-26-deluxe-edition.json) |
 | Madden NFL 27: Deluxe Edition | 411832 | [411832-madden-nfl-27-deluxe-edition.json](./411832-madden-nfl-27-deluxe-edition.json) |
 | Madden NFL 95 | 4506 | [4506-madden-nfl-95.json](./4506-madden-nfl-95.json) |
 | Madden NFL 95 | 48974 | [48974-madden-nfl-95.json](./48974-madden-nfl-95.json) |
@@ -8372,6 +8373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorania | 68550 | [68550-memorania.json](./68550-memorania.json) |
 | Memorel | 293501 | [293501-memorel.json](./293501-memorel.json) |
 | Memorel Restoration Project | 380525 | [380525-memorel-restoration-project.json](./380525-memorel-restoration-project.json) |
+| MemoRemovers | 342502 | [342502-memoremovers.json](./342502-memoremovers.json) |
 | Memoreum | 306935 | [306935-memoreum.json](./306935-memoreum.json) |
 | Memori | 251579 | [251579-memori.json](./251579-memori.json) |
 | Memoria | 132732 | [132732-memoria.json](./132732-memoria.json) |
