@@ -10161,6 +10161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollScape | 295403 | [295403-rollscape.json](./295403-rollscape.json) |
 | RollTale | 292483 | [292483-rolltale.json](./292483-rolltale.json) |
 | RollTheEarth | 103437 | [103437-rolltheearth.json](./103437-rolltheearth.json) |
+| Rolly | 346858 | [346858-rolly.json](./346858-rolly.json) |
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
 | Rolly Dango | 306042 | [306042-rolly-dango.json](./306042-rolly-dango.json) |
 | Rolly Hills | 241569 | [241569-rolly-hills.json](./241569-rolly-hills.json) |
