@@ -6860,6 +6860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights At PT's II | 412393 | [412393-five-nights-at-pts-ii.json](./412393-five-nights-at-pts-ii.json) |
 | Five Nights at Raiden's | 327792 | [327792-five-nights-at-raidens.json](./327792-five-nights-at-raidens.json) |
 | Five Nights at Roblox 2 RePartyin | 262219 | [262219-five-nights-at-roblox-2-repartyin.json](./262219-five-nights-at-roblox-2-repartyin.json) |
+| Five Nights at Roner's 2 | 302308 | [302308-five-nights-at-roners-2.json](./302308-five-nights-at-roners-2.json) |
 | Five Nights at Roner's: Remastered | 330734 | [330734-five-nights-at-roners-remastered.json](./330734-five-nights-at-roners-remastered.json) |
 | Five Nights at RPG Boy's | 339599 | [339599-five-nights-at-rpg-boys.json](./339599-five-nights-at-rpg-boys.json) |
 | Five Nights at Sexy's | 207700 | [207700-five-nights-at-sexys.json](./207700-five-nights-at-sexys.json) |
@@ -8815,6 +8816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fool's Curse | 238465 | [238465-fools-curse.json](./238465-fools-curse.json) |
 | Fool's End | 271636 | [271636-fools-end.json](./271636-fools-end.json) |
 | Fool's Frontier | 291221 | [291221-fools-frontier.json](./291221-fools-frontier.json) |
+| Fool's Gambit | 302313 | [302313-fools-gambit.json](./302313-fools-gambit.json) |
 | Fool's Gold | 244903 | [244903-fools-gold.json](./244903-fools-gold.json) |
 | Fool's Gold | 381029 | [381029-fools-gold.json](./381029-fools-gold.json) |
 | Fool's Gold | 421811 | [421811-fools-gold.json](./421811-fools-gold.json) |
