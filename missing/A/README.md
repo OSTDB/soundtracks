@@ -3344,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure | 12239 | [12239-adventure.json](./12239-adventure.json) |
 | Adventure | 299186 | [299186-adventure.json](./299186-adventure.json) |
 | Adventure | 8253 | [8253-adventure.json](./8253-adventure.json) |
+| Adventure 2600 Reboot | 318914 | [318914-adventure-2600-reboot.json](./318914-adventure-2600-reboot.json) |
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
 | Adventure 3: Mission Impossible | 41189 | [41189-adventure-3-mission-impossible.json](./41189-adventure-3-mission-impossible.json) |
 | Adventure 4: Wizards Academy | 52363 | [52363-adventure-4-wizards-academy.json](./52363-adventure-4-wizards-academy.json) |
@@ -5235,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Raiders | 11114 | [11114-air-raiders.json](./11114-air-raiders.json) |
 | Air Ranger 2: Rescue Helicopter | 68268 | [68268-air-ranger-2-rescue-helicopter.json](./68268-air-ranger-2-rescue-helicopter.json) |
 | Air Rescue | 45671 | [45671-air-rescue.json](./45671-air-rescue.json) |
+| Air Rescue I | 318916 | [318916-air-rescue-i.json](./318916-air-rescue-i.json) |
 | Air Royale | 314232 | [314232-air-royale.json](./314232-air-royale.json) |
 | Air Sea Modern Conflict | 305985 | [305985-air-sea-modern-conflict.json](./305985-air-sea-modern-conflict.json) |
 | Air Soccer Impossible | 234072 | [234072-air-soccer-impossible.json](./234072-air-soccer-impossible.json) |
@@ -15659,6 +15661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asuka-san ha Nabikanai | 251635 | [251635-asuka-san-ha-nabikanai.json](./251635-asuka-san-ha-nabikanai.json) |
 | Asuka: The Ascent | 340840 | [340840-asuka-the-ascent.json](./340840-asuka-the-ascent.json) |
 | Asunder | 76283 | [76283-asunder.json](./76283-asunder.json) |
+| Asunder II | 318894 | [318894-asunder-ii.json](./318894-asunder-ii.json) |
 | Asura | 244393 | [244393-asura.json](./244393-asura.json) |
 | Asura | 28158 | [28158-asura.json](./28158-asura.json) |
 | Asura Blade: Sword of Dynasty | 38514 | [38514-asura-blade-sword-of-dynasty.json](./38514-asura-blade-sword-of-dynasty.json) |
@@ -16061,6 +16064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
