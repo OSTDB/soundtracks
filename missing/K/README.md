@@ -2891,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinesis | 141783 | [141783-kinesis.json](./141783-kinesis.json) |
 | Kinesis | 276713 | [276713-kinesis.json](./276713-kinesis.json) |
 | Kinetic | 372061 | [372061-kinetic.json](./372061-kinetic.json) |
+| Kinetic Breakthrough | 310919 | [310919-kinetic-breakthrough.json](./310919-kinetic-breakthrough.json) |
 | Kinetic Connection | 45272 | [45272-kinetic-connection.json](./45272-kinetic-connection.json) |
 | Kinetic Edge | 139524 | [139524-kinetic-edge.json](./139524-kinetic-edge.json) |
 | Kinetic Neo Ornate Bout | 374220 | [374220-kinetic-neo-ornate-bout.json](./374220-kinetic-neo-ornate-bout.json) |
@@ -3470,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms Forlorn | 105067 | [105067-kingdoms-forlorn.json](./105067-kingdoms-forlorn.json) |
 | Kingdoms Hegemony | 387620 | [387620-kingdoms-hegemony.json](./387620-kingdoms-hegemony.json) |
 | Kingdoms In Chaos | 142649 | [142649-kingdoms-in-chaos.json](./142649-kingdoms-in-chaos.json) |
+| Kingdoms of Age | 310896 | [310896-kingdoms-of-age.json](./310896-kingdoms-of-age.json) |
 | Kingdoms of Amalur: Re-Reckoning - Collector’s Edition | 138200 | [138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json](./138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json) |
 | Kingdoms of Amalur: Re-Reckoning - Fate Edition | 138198 | [138198-kingdoms-of-amalur-re-reckoning-fate-edition.json](./138198-kingdoms-of-amalur-re-reckoning-fate-edition.json) |
 | Kingdoms of Amalur: Re-Reckoning - Fatesworn | 138197 | [138197-kingdoms-of-amalur-re-reckoning-fatesworn.json](./138197-kingdoms-of-amalur-re-reckoning-fatesworn.json) |
