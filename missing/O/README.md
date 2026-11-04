@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obakeidoro!: Character DLC Bundle 3 | 212616 | [212616-obakeidoro-character-dlc-bundle-3.json](./212616-obakeidoro-character-dlc-bundle-3.json) |
 | Obakenori | 329042 | [329042-obakenori.json](./329042-obakenori.json) |
 | Obama | 186490 | [186490-obama.json](./186490-obama.json) |
+| Obama 2048 | 316545 | [316545-obama-2048.json](./316545-obama-2048.json) |
 | Obama Alien Defence | 282109 | [282109-obama-alien-defence.json](./282109-obama-alien-defence.json) |
 | Obama Alien Defense | 326739 | [326739-obama-alien-defense.json](./326739-obama-alien-defense.json) |
 | Obama in the Dark | 320263 | [320263-obama-in-the-dark.json](./320263-obama-in-the-dark.json) |
@@ -149,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obby Sprunki Towers | 415721 | [415721-obby-sprunki-towers.json](./415721-obby-sprunki-towers.json) |
 | Obby: Build a 3D Amusement Park! | 402303 | [402303-obby-build-a-3d-amusement-park.json](./402303-obby-build-a-3d-amusement-park.json) |
 | Obcidian Legacy | 30004 | [30004-obcidian-legacy.json](./30004-obcidian-legacy.json) |
+| Obduracy | 316561 | [316561-obduracy.json](./316561-obduracy.json) |
 | Obec | 349397 | [349397-obec.json](./349397-obec.json) |
 | Obedient Servant | 213442 | [213442-obedient-servant.json](./213442-obedient-servant.json) |
 | Obeebok | 266395 | [266395-obeebok.json](./266395-obeebok.json) |
