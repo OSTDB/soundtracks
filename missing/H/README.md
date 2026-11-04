@@ -2615,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
 | Haunted House: Cryptic Graves | 17673 | [17673-haunted-house-cryptic-graves.json](./17673-haunted-house-cryptic-graves.json) |
 | Haunted House: The Murder | 171419 | [171419-haunted-house-the-murder.json](./171419-haunted-house-the-murder.json) |
+| Haunted Hues | 337373 | [337373-haunted-hues.json](./337373-haunted-hues.json) |
 | Haunted Ice Cream | 375940 | [375940-haunted-ice-cream.json](./375940-haunted-ice-cream.json) |
 | Haunted Investigation | 248840 | [248840-haunted-investigation.json](./248840-haunted-investigation.json) |
 | Haunted Jail: Alcatas | 116980 | [116980-haunted-jail-alcatas.json](./116980-haunted-jail-alcatas.json) |
@@ -11630,6 +11631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huntloween | 395953 | [395953-huntloween.json](./395953-huntloween.json) |
 | HuntNPrey | 326181 | [326181-huntnprey.json](./326181-huntnprey.json) |
 | Huntscape | 219692 | [219692-huntscape.json](./219692-huntscape.json) |
+| Huntsman | 337368 | [337368-huntsman.json](./337368-huntsman.json) |
 | Huntsman Against Darkness | 408937 | [408937-huntsman-against-darkness.json](./408937-huntsman-against-darkness.json) |
 | Huntsman: Protect & Serve | 422115 | [422115-huntsman-protect-and-serve.json](./422115-huntsman-protect-and-serve.json) |
 | Huntsman: The Orphanage | 10422 | [10422-huntsman-the-orphanage.json](./10422-huntsman-the-orphanage.json) |
