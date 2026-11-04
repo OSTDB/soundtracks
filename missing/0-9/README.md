@@ -3068,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7D Maze | 164255 | [164255-7d-maze.json](./164255-7d-maze.json) |
 | 7Days | 76898 | [76898-7days.json](./76898-7days.json) |
 | 7Days! | 144716 | [144716-7days.json](./144716-7days.json) |
+| 7er Pinball | 331647 | [331647-7er-pinball.json](./331647-7er-pinball.json) |
 | 7Groves | 295780 | [295780-7groves.json](./295780-7groves.json) |
 | 7he Code | 104542 | [104542-7he-code.json](./104542-7he-code.json) |
 | 7imit5 | 308032 | [308032-7imit5.json](./308032-7imit5.json) |
