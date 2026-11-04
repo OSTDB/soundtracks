@@ -4223,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Defender Lite: 3D Asteroids | 100060 | [100060-mars-defender-lite-3d-asteroids.json](./100060-mars-defender-lite-3d-asteroids.json) |
 | Mars Dragons the Return | 26798 | [26798-mars-dragons-the-return.json](./26798-mars-dragons-the-return.json) |
 | Mars Era | 335205 | [335205-mars-era.json](./335205-mars-era.json) |
+| Mars Explorer | 325805 | [325805-mars-explorer.json](./325805-mars-explorer.json) |
 | Mars Farce | 322067 | [322067-mars-farce.json](./322067-mars-farce.json) |
 | Mars Farming 2034 | 300845 | [300845-mars-farming-2034.json](./300845-mars-farming-2034.json) |
 | Mars First Logistics | 159753 | [159753-mars-first-logistics.json](./159753-mars-first-logistics.json) |
@@ -7472,6 +7473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Maker | 102716 | [102716-mega-man-maker.json](./102716-mega-man-maker.json) |
 | Mega Man Network Transmission | 1766 | [1766-mega-man-network-transmission.json](./1766-mega-man-network-transmission.json) |
 | Mega Man NT Warrior: Battle Chip - WideShot1 | 352839 | [352839-mega-man-nt-warrior-battle-chip-wideshot1.json](./352839-mega-man-nt-warrior-battle-chip-wideshot1.json) |
+| Mega Man Overdrive | 326497 | [326497-mega-man-overdrive.json](./326497-mega-man-overdrive.json) |
 | Mega Man Perfect Blue | 132024 | [132024-mega-man-perfect-blue.json](./132024-mega-man-perfect-blue.json) |
 | Mega Man Perfect Harmony | 210481 | [210481-mega-man-perfect-harmony.json](./210481-mega-man-perfect-harmony.json) |
 | Mega Man Pinball | 401678 | [401678-mega-man-pinball.json](./401678-mega-man-pinball.json) |
@@ -7646,6 +7648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Maze | 44287 | [44287-mega-maze.json](./44287-mega-maze.json) |
 | Mega Memory | 389915 | [389915-mega-memory.json](./389915-mega-memory.json) |
 | Mega Merge | 414874 | [414874-mega-merge.json](./414874-mega-merge.json) |
+| Mega Met | 326496 | [326496-mega-met.json](./326496-mega-met.json) |
 | Mega Meteor Madness | 122420 | [122420-mega-meteor-madness.json](./122420-mega-meteor-madness.json) |
 | Mega Minis: Volume 1 | 45998 | [45998-mega-minis-volume-1.json](./45998-mega-minis-volume-1.json) |
 | Mega Minis: Volume 2 | 45997 | [45997-mega-minis-volume-2.json](./45997-mega-minis-volume-2.json) |
@@ -11822,6 +11825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Lovehunt | 144111 | [144111-minecraft-lovehunt.json](./144111-minecraft-lovehunt.json) |
 | Minecraft Master Collection | 118851 | [118851-minecraft-master-collection.json](./118851-minecraft-master-collection.json) |
 | Minecraft Matcha Flavoured | 411659 | [411659-minecraft-matcha-flavoured.json](./411659-minecraft-matcha-flavoured.json) |
+| Minecraft Powerpoint Edition | 325803 | [325803-minecraft-powerpoint-edition.json](./325803-minecraft-powerpoint-edition.json) |
 | Minecraft PSP | 327850 | [327850-minecraft-psp.json](./327850-minecraft-psp.json) |
 | Minecraft Randomizer | 211678 | [211678-minecraft-randomizer.json](./211678-minecraft-randomizer.json) |
 | Minecraft Tower Defence | 240149 | [240149-minecraft-tower-defence.json](./240149-minecraft-tower-defence.json) |
@@ -14239,6 +14243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MogMog Planet | 316034 | [316034-mogmog-planet.json](./316034-mogmog-planet.json) |
 | Mogo Invasion | 48004 | [48004-mogo-invasion.json](./48004-mogo-invasion.json) |
 | Mogo-Mogo | 397560 | [397560-mogo-mogo.json](./397560-mogo-mogo.json) |
+| Mogradiz | 326491 | [326491-mogradiz.json](./326491-mogradiz.json) |
 | Mogrimera: Disciple of Order | 249907 | [249907-mogrimera-disciple-of-order.json](./249907-mogrimera-disciple-of-order.json) |
 | Mogu Valley | 371607 | [371607-mogu-valley.json](./371607-mogu-valley.json) |
 | Mogu-mogu Gombo | 228622 | [228622-mogu-mogu-gombo.json](./228622-mogu-mogu-gombo.json) |
@@ -19344,6 +19349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bimbo Dream: Season 1 | 368058 | [368058-my-bimbo-dream-season-1.json](./368058-my-bimbo-dream-season-1.json) |
 | My Bird | 368664 | [368664-my-bird.json](./368664-my-bird.json) |
 | My Birthday: Herpit | 385766 | [385766-my-birthday-herpit.json](./385766-my-birthday-herpit.json) |
+| My Black Cat | 325930 | [325930-my-black-cat.json](./325930-my-black-cat.json) |
 | My Bloodsucking 9-to-5 | 397260 | [397260-my-bloodsucking-9-to-5.json](./397260-my-bloodsucking-9-to-5.json) |
 | My Bloody Weekend | 219637 | [219637-my-bloody-weekend.json](./219637-my-bloody-weekend.json) |
 | My Body Coach | 67354 | [67354-my-body-coach.json](./67354-my-body-coach.json) |
@@ -20253,6 +20259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Raising Diary | 321594 | [321594-my-raising-diary.json](./321594-my-raising-diary.json) |
 | My Ranch | 351377 | [351377-my-ranch.json](./351377-my-ranch.json) |
 | My RC Buggy! VR | 103196 | [103196-my-rc-buggy-vr.json](./103196-my-rc-buggy-vr.json) |
+| My Reading Tutor | 325947 | [325947-my-reading-tutor.json](./325947-my-reading-tutor.json) |
 | My Real Desire | 331693 | [331693-my-real-desire.json](./331693-my-real-desire.json) |
 | My Reaper Girlfriend | 230358 | [230358-my-reaper-girlfriend.json](./230358-my-reaper-girlfriend.json) |
 | My Recycling Center: Car Scrapyard Expansion | 358251 | [358251-my-recycling-center-car-scrapyard-expansion.json](./358251-my-recycling-center-car-scrapyard-expansion.json) |
