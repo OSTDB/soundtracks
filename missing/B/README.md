@@ -1576,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballatory | 391308 | [391308-ballatory.json](./391308-ballatory.json) |
 | Ballavita | 131826 | [131826-ballavita.json](./131826-ballavita.json) |
 | BallBastic! | 292945 | [292945-ballbastic.json](./292945-ballbastic.json) |
+| BallBastic!: Ultimate Pack | 302011 | [302011-ballbastic-ultimate-pack.json](./302011-ballbastic-ultimate-pack.json) |
 | Ballblazer | 176 | [176-ballblazer.json](./176-ballblazer.json) |
 | Ballblazer | 273081 | [273081-ballblazer.json](./273081-ballblazer.json) |
 | Ballblazer Champions | 177 | [177-ballblazer-champions.json](./177-ballblazer-champions.json) |
@@ -4514,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazooka of the Red Dragon | 68969 | [68969-bazooka-of-the-red-dragon.json](./68969-bazooka-of-the-red-dragon.json) |
 | Bazooka Sue | 69536 | [69536-bazooka-sue.json](./69536-bazooka-sue.json) |
 | BazookaCat | 266824 | [266824-bazookacat.json](./266824-bazookacat.json) |
+| Bazookarrots | 301765 | [301765-bazookarrots.json](./301765-bazookarrots.json) |
 | BAZR | 340351 | [340351-bazr.json](./340351-bazr.json) |
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
 | BB Adventure | 368823 | [368823-bb-adventure.json](./368823-bb-adventure.json) |
@@ -10211,6 +10213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Parkour Craft 3D | 104548 | [104548-block-parkour-craft-3d.json](./104548-block-parkour-craft-3d.json) |
 | Block Party | 259985 | [259985-block-party.json](./259985-block-party.json) |
 | Block Party DX! | 349575 | [349575-block-party-dx.json](./349575-block-party-dx.json) |
+| Block Pieces | 302025 | [302025-block-pieces.json](./302025-block-pieces.json) |
 | Block Pile | 360562 | [360562-block-pile.json](./360562-block-pile.json) |
 | Block Pong-Pong | 288322 | [288322-block-pong-pong.json](./288322-block-pong-pong.json) |
 | Block Pooper 9 | 112466 | [112466-block-pooper-9.json](./112466-block-pooper-9.json) |
