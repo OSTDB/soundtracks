@@ -3266,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle 3D | 323665 | [323665-castle-3d.json](./323665-castle-3d.json) |
 | Castle Adventure | 46645 | [46645-castle-adventure.json](./46645-castle-adventure.json) |
 | Castle Age HD | 109065 | [109065-castle-age-hd.json](./109065-castle-age-hd.json) |
+| Castle Agony | 343579 | [343579-castle-agony.json](./343579-castle-agony.json) |
 | Castle and Cursor | 374818 | [374818-castle-and-cursor.json](./374818-castle-and-cursor.json) |
 | Castle Assault | 13465 | [13465-castle-assault.json](./13465-castle-assault.json) |
 | Castle Away | 396006 | [396006-castle-away.json](./396006-castle-away.json) |
