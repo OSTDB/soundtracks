@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Variables | 118581 | [118581-variables.json](./118581-variables.json) |
 | Variables 2 | 169399 | [169399-variables-2.json](./169399-variables-2.json) |
 | Varial | 246024 | [246024-varial.json](./246024-varial.json) |
+| Variance | 344812 | [344812-variance.json](./344812-variance.json) |
 | Variant 22 | 234674 | [234674-variant-22.json](./234674-variant-22.json) |
 | Variant: Limits | 69317 | [69317-variant-limits.json](./69317-variant-limits.json) |
 | Variator | 400703 | [400703-variator.json](./400703-variator.json) |
