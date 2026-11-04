@@ -3382,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Days | 29061 | [29061-dead-days.json](./29061-dead-days.json) |
 | Dead Detective vs Nine Deaths Cat | 95953 | [95953-dead-detective-vs-nine-deaths-cat.json](./95953-dead-detective-vs-nine-deaths-cat.json) |
 | Dead Detective: Zombie Conspiracy | 251768 | [251768-dead-detective-zombie-conspiracy.json](./251768-dead-detective-zombie-conspiracy.json) |
+| Dead Detention (Rescribbled) | 314529 | [314529-dead-detention-rescribbled.json](./314529-dead-detention-rescribbled.json) |
 | Dead Dimension | 229535 | [229535-dead-dimension.json](./229535-dead-dimension.json) |
 | Dead District: Survival | 209479 | [209479-dead-district-survival.json](./209479-dead-district-survival.json) |
 | Dead Dock Protocol | 322186 | [322186-dead-dock-protocol.json](./322186-dead-dock-protocol.json) |
