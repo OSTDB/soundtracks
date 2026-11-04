@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.O.L.L.S. | 373607 | [373607-d-o-l-l-s.json](./373607-d-o-l-l-s.json) |
 | D.O.R.F. Real-Time Strategic Conflict | 247998 | [247998-d-o-r-f-real-time-strategic-conflict.json](./247998-d-o-r-f-real-time-strategic-conflict.json) |
 | D.O.T. Defence | 334069 | [334069-d-o-t-defence.json](./334069-d-o-t-defence.json) |
+| D.O.T. Defender of Texel | 326505 | [326505-d-o-t-defender-of-texel.json](./326505-d-o-t-defender-of-texel.json) |
 | D.O.W.N | 229383 | [229383-d-o-w-n.json](./229383-d-o-w-n.json) |
 | D.P.S: Weapons Testing Facility 2 | 354903 | [354903-d-p-s-weapons-testing-facility-2.json](./354903-d-p-s-weapons-testing-facility-2.json) |
 | D.R.I.F.T. | 394335 | [394335-d-r-i-f-t.json](./394335-d-r-i-f-t.json) |
@@ -3117,8 +3118,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: Normandy 2.0 | 323965 | [323965-dcs-world-normandy-2-0.json](./323965-dcs-world-normandy-2-0.json) |
 | DCS World: NS 430 Navigation System for C-101EB by Eagle Dynamics, Aerges | 325911 | [325911-dcs-world-ns-430-navigation-system-for-c-101eb-by-eagle-dynamics-aerges.json](./325911-dcs-world-ns-430-navigation-system-for-c-101eb-by-eagle-dynamics-aerges.json) |
 | DCS World: NS 430 Navigation System for C-101СС | 195415 | [195415-dcs-world-ns-430-navigation-system-for-c-101.json](./195415-dcs-world-ns-430-navigation-system-for-c-101.json) |
+| DCS World: NS 430 Navigation System for L-39С Cockpit | 325932 | [325932-dcs-world-ns-430-navigation-system-for-l-39-cockpit.json](./325932-dcs-world-ns-430-navigation-system-for-l-39-cockpit.json) |
 | DCS World: NS 430 Navigation System for Mi-8MTV2 Cockpit | 325912 | [325912-dcs-world-ns-430-navigation-system-for-mi-8mtv2-cockpit.json](./325912-dcs-world-ns-430-navigation-system-for-mi-8mtv2-cockpit.json) |
 | DCS World: NS 430 Navigation System for MiG-29A Cockpit | 408109 | [408109-dcs-world-ns-430-navigation-system-for-mig-29a-cockpit.json](./408109-dcs-world-ns-430-navigation-system-for-mig-29a-cockpit.json) |
+| DCS World: NS 430 Navigation System for SA342 Gazelle by Eagle Dynamics, Polychop Simulations | 325939 | [325939-dcs-world-ns-430-navigation-system-for-sa342-gazelle-by-eagle-dynamics-polychop-simulations.json](./325939-dcs-world-ns-430-navigation-system-for-sa342-gazelle-by-eagle-dynamics-polychop-simulations.json) |
 | DCS World: OH-58D Kiowa Warrior | 304372 | [304372-dcs-world-oh-58d-kiowa-warrior.json](./304372-dcs-world-oh-58d-kiowa-warrior.json) |
 | DCS World: P-51D - High Stakes Campaign | 170151 | [170151-dcs-world-p-51d-high-stakes-campaign.json](./170151-dcs-world-p-51d-high-stakes-campaign.json) |
 | DCS World: P-51D Mustang | 156312 | [156312-dcs-world-p-51d-mustang.json](./156312-dcs-world-p-51d-mustang.json) |
@@ -7516,6 +7519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Masochist 3: The Case of the Naked Truth | 279062 | [279062-detective-masochist-3-the-case-of-the-naked-truth.json](./279062-detective-masochist-3-the-case-of-the-naked-truth.json) |
 | Detective Max: Double Clues | 205234 | [205234-detective-max-double-clues.json](./205234-detective-max-double-clues.json) |
 | Detective Max! | 123053 | [123053-detective-max.json](./123053-detective-max.json) |
+| Detective Mikami | 325976 | [325976-detective-mikami.json](./325976-detective-mikami.json) |
 | Detective Mimo | 174197 | [174197-detective-mimo.json](./174197-detective-mimo.json) |
 | Detective Mind Training: Mystery Choices | 409666 | [409666-detective-mind-training-mystery-choices.json](./409666-detective-mind-training-mystery-choices.json) |
 | Detective Mio | 174801 | [174801-detective-mio.json](./174801-detective-mio.json) |
@@ -17161,6 +17165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Roguelike-like RPG | 164517 | [164517-dumb-roguelike-like-rpg.json](./164517-dumb-roguelike-like-rpg.json) |
 | Dumb Sherlock: The Hot Dogs of the Bakerville | 419923 | [419923-dumb-sherlock-the-hot-dogs-of-the-bakerville.json](./419923-dumb-sherlock-the-hot-dogs-of-the-bakerville.json) |
 | Dumb Stone | 55274 | [55274-dumb-stone.json](./55274-dumb-stone.json) |
+| Dumb Ways Free For All | 325872 | [325872-dumb-ways-free-for-all.json](./325872-dumb-ways-free-for-all.json) |
 | Dumb Ways to Build | 414526 | [414526-dumb-ways-to-build.json](./414526-dumb-ways-to-build.json) |
 | Dumb Ways to Climb | 257792 | [257792-dumb-ways-to-climb.json](./257792-dumb-ways-to-climb.json) |
 | Dumb Ways to Dash! | 296848 | [296848-dumb-ways-to-dash.json](./296848-dumb-ways-to-dash.json) |
