@@ -1970,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harezora Monogatari Again! | 332781 | [332781-harezora-monogatari-again.json](./332781-harezora-monogatari-again.json) |
 | Hargrave | 132429 | [132429-hargrave.json](./132429-hargrave.json) |
 | Hariti | 406882 | [406882-hariti.json](./406882-hariti.json) |
+| Hark the Ghoul | 318359 | [318359-hark-the-ghoul.json](./318359-hark-the-ghoul.json) |
 | Harker | 79127 | [79127-harker.json](./79127-harker.json) |
 | Harlem Blade II: Dark Angel | 249630 | [249630-harlem-blade-ii-dark-angel.json](./249630-harlem-blade-ii-dark-angel.json) |
 | Harlem Blade: The Greatest of All Time | 187208 | [187208-harlem-blade-the-greatest-of-all-time.json](./187208-harlem-blade-the-greatest-of-all-time.json) |
