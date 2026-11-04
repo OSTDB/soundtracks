@@ -16148,6 +16148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buff Huckem Fully Wrecked | 270187 | [270187-buff-huckem-fully-wrecked.json](./270187-buff-huckem-fully-wrecked.json) |
 | Buff Imposter | 178367 | [178367-buff-imposter.json](./178367-buff-imposter.json) |
 | Buff Knight Advanced | 34864 | [34864-buff-knight-advanced.json](./34864-buff-knight-advanced.json) |
+| Buff Studio Bundle | 335609 | [335609-buff-studio-bundle.json](./335609-buff-studio-bundle.json) |
 | Buffalo Bill's Wild West Show | 12284 | [12284-buffalo-bills-wild-west-show.json](./12284-buffalo-bills-wild-west-show.json) |
 | Buffers Evolution | 37530 | [37530-buffers-evolution.json](./37530-buffers-evolution.json) |
 | Buffet Blast | 185269 | [185269-buffet-blast.json](./185269-buffet-blast.json) |
