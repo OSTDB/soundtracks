@@ -5892,6 +5892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GodPey | 84328 | [84328-godpey.json](./84328-godpey.json) |
 | Godproof | 357429 | [357429-godproof.json](./357429-godproof.json) |
 | Godrop | 292290 | [292290-godrop.json](./292290-godrop.json) |
+| Godrop: Survival Mode | 331628 | [331628-godrop-survival-mode.json](./331628-godrop-survival-mode.json) |
 | Gods | 12118 | [12118-gods.json](./12118-gods.json) |
 | Gods | 142458 | [142458-gods.json](./142458-gods.json) |
 | Gods & Civilization: Ragnarok | 233638 | [233638-gods-and-civilization-ragnarok.json](./233638-gods-and-civilization-ragnarok.json) |
