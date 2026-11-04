@@ -16510,6 +16510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morningstar | 415929 | [415929-morningstar.json](./415929-morningstar.json) |
 | Morningstar: Descent to Deadrock | 10558 | [10558-morningstar-descent-to-deadrock.json](./10558-morningstar-descent-to-deadrock.json) |
 | Morningtide Motel | 318970 | [318970-morningtide-motel.json](./318970-morningtide-motel.json) |
+| Moro's Poodle | 310981 | [310981-moros-poodle.json](./310981-moros-poodle.json) |
 | Morodashi Sumo | 211046 | [211046-morodashi-sumo.json](./211046-morodashi-sumo.json) |
 | Moroi | 137050 | [137050-moroi.json](./137050-moroi.json) |
 | Morok | 123972 | [123972-morok.json](./123972-morok.json) |
