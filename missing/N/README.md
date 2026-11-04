@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nacht-sama is quitting being the demon king! | 262788 | [262788-nacht-sama-is-quitting-being-the-demon-king.json](./262788-nacht-sama-is-quitting-being-the-demon-king.json) |
 | Nachtigal | 57177 | [57177-nachtigal.json](./57177-nachtigal.json) |
 | Nachtmission | 94966 | [94966-nachtmission.json](./94966-nachtmission.json) |
+| Nachtschicht | 345797 | [345797-nachtschicht.json](./345797-nachtschicht.json) |
 | Nack the Weasel | 330721 | [330721-nack-the-weasel.json](./330721-nack-the-weasel.json) |
 | Nada Asatarou / Kojima Takeo no Jissen Mahjong Kyoushitsu | 228566 | [228566-nada-asatarou-kojima-takeo-no-jissen-mahjong-kyoushitsu.json](./228566-nada-asatarou-kojima-takeo-no-jissen-mahjong-kyoushitsu.json) |
 | Naddagil: A Nordic Nightmare | 314026 | [314026-naddagil-a-nordic-nightmare.json](./314026-naddagil-a-nordic-nightmare.json) |
@@ -301,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nameless | 133640 | [133640-nameless.json](./133640-nameless.json) |
 | Nameless | 256829 | [256829-nameless.json](./256829-nameless.json) |
 | Nameless | 294822 | [294822-nameless.json](./294822-nameless.json) |
+| Nameless Adventure | 345777 | [345777-nameless-adventure.json](./345777-nameless-adventure.json) |
 | Nameless Bastard | 253894 | [253894-nameless-bastard.json](./253894-nameless-bastard.json) |
 | Nameless Cat | 132133 | [132133-nameless-cat.json](./132133-nameless-cat.json) |
 | Nameless Dreams: Endless Nightmares | 327186 | [327186-nameless-dreams-endless-nightmares.json](./327186-nameless-dreams-endless-nightmares.json) |
@@ -6999,11 +7001,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NTR Dream | 277959 | [277959-ntr-dream.json](./277959-ntr-dream.json) |
 | NTR homestay | 132191 | [132191-ntr-homestay.json](./132191-ntr-homestay.json) |
 | NTR Hunter: Hisako’s Secret | 386949 | [386949-ntr-hunter-hisako-s-secret.json](./386949-ntr-hunter-hisako-s-secret.json) |
+| NTR Legend | 345756 | [345756-ntr-legend.json](./345756-ntr-legend.json) |
 | NTR Life | 392884 | [392884-ntr-life.json](./392884-ntr-life.json) |
 | NTR Sexy Girl With Cold-hearded | 389765 | [389765-ntr-sexy-girl-with-cold-hearded.json](./389765-ntr-sexy-girl-with-cold-hearded.json) |
 | NTR Tales: Adventurer Corruption | 385878 | [385878-ntr-tales-adventurer-corruption.json](./385878-ntr-tales-adventurer-corruption.json) |
 | NTR!? NTRed!? Trendy Slut's One Million Yen Repaying Project! | 82647 | [82647-ntr-ntred-trendy-sluts-one-million-yen-repaying-project.json](./82647-ntr-ntred-trendy-sluts-one-million-yen-repaying-project.json) |
 | NTR'd By Clumsiness | 236205 | [236205-ntrd-by-clumsiness.json](./236205-ntrd-by-clumsiness.json) |
+| Ntraholic | 345788 | [345788-ntraholic.json](./345788-ntraholic.json) |
 | NTRed Class Rep Yukino: H Days of Class Rep Who Can't Say No | 83173 | [83173-ntred-class-rep-yukino-h-days-of-class-rep-who-cant-say-no.json](./83173-ntred-class-rep-yukino-h-days-of-class-rep-who-cant-say-no.json) |
 | NTRstory | 245933 | [245933-ntrstory.json](./245933-ntrstory.json) |
 | Nu pogodi! Vypusk 3: Pesnya dlya zajca | 232658 | [232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json](./232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json) |
