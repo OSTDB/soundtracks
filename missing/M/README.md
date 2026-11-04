@@ -4175,6 +4175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marmalade Boy | 38339 | [38339-marmalade-boy.json](./38339-marmalade-boy.json) |
 | Marmalade Boy Herpit | 395103 | [395103-marmalade-boy-herpit.json](./395103-marmalade-boy-herpit.json) |
 | Marmargee Fighter Girl vs. Zombies & Monsters! | 290797 | [290797-marmargee-fighter-girl-vs-zombies-and-monsters.json](./290797-marmargee-fighter-girl-vs-zombies-and-monsters.json) |
+| Marmelade | 311426 | [311426-marmelade.json](./311426-marmelade.json) |
 | Marmoset | 189110 | [189110-marmoset.json](./189110-marmoset.json) |
 | Marmot Fight Club | 350195 | [350195-marmot-fight-club.json](./350195-marmot-fight-club.json) |
 | Maroon Berets: 2030 | 197518 | [197518-maroon-berets-2030.json](./197518-maroon-berets-2030.json) |
@@ -5724,6 +5725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -20132,6 +20134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Loved Heart | 74667 | [74667-my-loved-heart.json](./74667-my-loved-heart.json) |
 | My Lovely Cat: Remastered | 325733 | [325733-my-lovely-cat-remastered.json](./325733-my-lovely-cat-remastered.json) |
 | My Lovely Daughter | 74250 | [74250-my-lovely-daughter.json](./74250-my-lovely-daughter.json) |
+| My Lovely Daughter: ReBorn | 311421 | [311421-my-lovely-daughter-reborn.json](./311421-my-lovely-daughter-reborn.json) |
 | My Lovely Daughter: The Inquisitor | 170233 | [170233-my-lovely-daughter-the-inquisitor.json](./170233-my-lovely-daughter-the-inquisitor.json) |
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
 | My Lovely Empress | 266612 | [266612-my-lovely-empress.json](./266612-my-lovely-empress.json) |
