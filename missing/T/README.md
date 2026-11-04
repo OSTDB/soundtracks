@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tackle Girl | 167523 | [167523-tackle-girl.json](./167523-tackle-girl.json) |
 | Tackle Tourney Turbo | 177012 | [177012-tackle-tourney-turbo.json](./177012-tackle-tourney-turbo.json) |
 | Tackzimon | 335814 | [335814-tackzimon.json](./335814-tackzimon.json) |
+| Taco Attack! | 335027 | [335027-taco-attack.json](./335027-taco-attack.json) |
 | Taco Bell: Tasty Temple Challenge | 11008 | [11008-taco-bell-tasty-temple-challenge.json](./11008-taco-bell-tasty-temple-challenge.json) |
 | Taco Break | 187510 | [187510-taco-break.json](./187510-taco-break.json) |
 | Taco Break: Head to Head | 214527 | [214527-taco-break-head-to-head.json](./214527-taco-break-head-to-head.json) |
@@ -2680,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Tycoon | 33603 | [33603-tavern-tycoon.json](./33603-tavern-tycoon.json) |
 | Tavern Tycoon: Brew & Brawl | 391758 | [391758-tavern-tycoon-brew-and-brawl.json](./391758-tavern-tycoon-brew-and-brawl.json) |
 | Tavern Ventures: Guilds & Tales | 298163 | [298163-tavern-ventures-guilds-and-tales.json](./298163-tavern-ventures-guilds-and-tales.json) |
+| Taverna | 335037 | [335037-taverna.json](./335037-taverna.json) |
 | TavernHold | 361685 | [361685-tavernhold.json](./361685-tavernhold.json) |
 | Tavernia | 391212 | [391212-tavernia.json](./391212-tavernia.json) |
 | Tavernier | 31587 | [31587-tavernier.json](./31587-tavernier.json) |
@@ -6020,6 +6022,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Barbie Diaries: High School Mystery | 7638 | [7638-the-barbie-diaries-high-school-mystery.json](./7638-the-barbie-diaries-high-school-mystery.json) |
 | The Bard for Her | 279855 | [279855-the-bard-for-her.json](./279855-the-bard-for-her.json) |
 | The Bard's Lore II: The Dark Tower | 335046 | [335046-the-bards-lore-ii-the-dark-tower.json](./335046-the-bards-lore-ii-the-dark-tower.json) |
+| The Bard's Lore: The Warrior and the Dragon | 335045 | [335045-the-bards-lore-the-warrior-and-the-dragon.json](./335045-the-bards-lore-the-warrior-and-the-dragon.json) |
+| The Bard's Quest: Dungeons of the Unknown | 335043 | [335043-the-bards-quest-dungeons-of-the-unknown.json](./335043-the-bards-quest-dungeons-of-the-unknown.json) |
 | The Bard's Tale | 273089 | [273089-the-bards-tale.json](./273089-the-bards-tale.json) |
 | The Bard's Tale | 3803 | [3803-the-bards-tale.json](./3803-the-bards-tale.json) |
 | The Bard's Tale II: The Destiny Knight | 2430 | [2430-the-bards-tale-ii-the-destiny-knight.json](./2430-the-bards-tale-ii-the-destiny-knight.json) |
@@ -6033,6 +6037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bard's Tale Trilogy | 71800 | [71800-the-bards-tale-trilogy.json](./71800-the-bards-tale-trilogy.json) |
 | The Bard's Tale: Remastered and Resnarkled | 313094 | [313094-the-bards-tale-remastered-and-resnarkled.json](./313094-the-bards-tale-remastered-and-resnarkled.json) |
 | The Bard's Tale: Tales of the Unknown | 394232 | [394232-the-bards-tale-tales-of-the-unknown.json](./394232-the-bards-tale-tales-of-the-unknown.json) |
+| The Bard’s Tale: Warlocks of Largefearn | 335042 | [335042-the-bard-s-tale-warlocks-of-largefearn.json](./335042-the-bard-s-tale-warlocks-of-largefearn.json) |
 | The Bardic Rites | 58856 | [58856-the-bardic-rites.json](./58856-the-bardic-rites.json) |
 | The Barkeeper | 332847 | [332847-the-barkeeper.json](./332847-the-barkeeper.json) |
 | The Barker & Mustard Files | 224074 | [224074-the-barker-and-mustard-files.json](./224074-the-barker-and-mustard-files.json) |
@@ -9160,6 +9165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Cub | 416691 | [416691-the-first-cub.json](./416691-the-first-cub.json) |
 | The First Day | 343611 | [343611-the-first-day.json](./343611-the-first-day.json) |
 | The First Descendant: Season 1 | 314481 | [314481-the-first-descendant-season-1.json](./314481-the-first-descendant-season-1.json) |
+| The First Descendant: Season 2 | 335033 | [335033-the-first-descendant-season-2.json](./335033-the-first-descendant-season-2.json) |
 | The First Descendant: Season 3 | 347660 | [347660-the-first-descendant-season-3.json](./347660-the-first-descendant-season-3.json) |
 | The First Descendant: Season 4 | 408829 | [408829-the-first-descendant-season-4.json](./408829-the-first-descendant-season-4.json) |
 | The First Explorers | 263100 | [263100-the-first-explorers.json](./263100-the-first-explorers.json) |
@@ -11623,6 +11629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Horseman | 397189 | [397189-the-last-horseman.json](./397189-the-last-horseman.json) |
 | The Last Hospital | 292997 | [292997-the-last-hospital.json](./292997-the-last-hospital.json) |
 | The Last Hour | 139050 | [139050-the-last-hour.json](./139050-the-last-hour.json) |
+| The Last Human Touch | 335032 | [335032-the-last-human-touch.json](./335032-the-last-human-touch.json) |
 | The Last Human: Go! | 278942 | [278942-the-last-human-go.json](./278942-the-last-human-go.json) |
 | The Last Hunt | 86613 | [86613-the-last-hunt.json](./86613-the-last-hunt.json) |
 | The Last Inca | 71771 | [71771-the-last-inca.json](./71771-the-last-inca.json) |
@@ -13517,6 +13524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mummy: Prodigium Strike | 36857 | [36857-the-mummy-prodigium-strike.json](./36857-the-mummy-prodigium-strike.json) |
 | The Mummy: Tomb of the Dragon Emperor | 5023 | [5023-the-mummy-tomb-of-the-dragon-emperor.json](./5023-the-mummy-tomb-of-the-dragon-emperor.json) |
 | The Muncher | 67800 | [67800-the-muncher.json](./67800-the-muncher.json) |
+| The Munchkin Army | 335164 | [335164-the-munchkin-army.json](./335164-the-munchkin-army.json) |
 | The Munsters | 37103 | [37103-the-munsters.json](./37103-the-munsters.json) |
 | The Munsters | 56224 | [56224-the-munsters.json](./56224-the-munsters.json) |
 | The Muppet CD-ROM: Muppets Inside | 66343 | [66343-the-muppet-cd-rom-muppets-inside.json](./66343-the-muppet-cd-rom-muppets-inside.json) |
@@ -14205,6 +14213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Passenger | 266393 | [266393-the-passenger.json](./266393-the-passenger.json) |
 | The Password Game | 254888 | [254888-the-password-game.json](./254888-the-password-game.json) |
 | The Past | 236225 | [236225-the-past.json](./236225-the-past.json) |
+| The Past is Present | 335039 | [335039-the-past-is-present.json](./335039-the-past-is-present.json) |
 | The Past Rhapsody | 211056 | [211056-the-past-rhapsody.json](./211056-the-past-rhapsody.json) |
 | The Pasture | 30017 | [30017-the-pasture.json](./30017-the-pasture.json) |
 | The Pasture | 426426 | [426426-the-pasture.json](./426426-the-pasture.json) |
@@ -14716,6 +14725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Queens Gondola | 404841 | [404841-the-queens-gondola.json](./404841-the-queens-gondola.json) |
 | The Queens Number | 133750 | [133750-the-queens-number.json](./133750-the-queens-number.json) |
 | The Quest | 23962 | [23962-the-quest.json](./23962-the-quest.json) |
+| The Quest | 335163 | [335163-the-quest.json](./335163-the-quest.json) |
 | The Quest | 82015 | [82015-the-quest.json](./82015-the-quest.json) |
 | The Quest - Hero of Lukomorye III | 105770 | [105770-the-quest-hero-of-lukomorye-iii.json](./105770-the-quest-hero-of-lukomorye-iii.json) |
 | The Quest Classic: Asteroids | 205603 | [205603-the-quest-classic-asteroids.json](./205603-the-quest-classic-asteroids.json) |
@@ -21733,6 +21743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Hero | 416174 | [416174-tile-hero.json](./416174-tile-hero.json) |
 | Tile Jong | 336379 | [336379-tile-jong.json](./336379-tile-jong.json) |
 | Tile Jumper! | 354886 | [354886-tile-jumper.json](./354886-tile-jumper.json) |
+| Tile Kingdom | 335028 | [335028-tile-kingdom.json](./335028-tile-kingdom.json) |
 | Tile Master | 220185 | [220185-tile-master.json](./220185-tile-master.json) |
 | Tile Miner | 17958 | [17958-tile-miner.json](./17958-tile-miner.json) |
 | Tile Perfect | 288598 | [288598-tile-perfect.json](./288598-tile-perfect.json) |
@@ -31331,6 +31342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TurnSkull | 280436 | [280436-turnskull.json](./280436-turnskull.json) |
 | Turntablist: DJ Battle | 37527 | [37527-turntablist-dj-battle.json](./37527-turntablist-dj-battle.json) |
 | Turochamp | 232670 | [232670-turochamp.json](./232670-turochamp.json) |
+| Turoid | 335022 | [335022-turoid.json](./335022-turoid.json) |
 | Turok | 1330 | [1330-turok.json](./1330-turok.json) |
 | Turok | 26701 | [26701-turok.json](./26701-turok.json) |
 | Turok | 308368 | [308368-turok.json](./308368-turok.json) |
