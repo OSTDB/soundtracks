@@ -4128,6 +4128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vulcard | 351715 | [351715-vulcard.json](./351715-vulcard.json) |
 | Vulgord's Tower | 151292 | [151292-vulgords-tower.json](./151292-vulgords-tower.json) |
 | Vulgus | 25886 | [25886-vulgus.json](./25886-vulgus.json) |
+| Vulpin Adventures | 299360 | [299360-vulpin-adventures.json](./299360-vulpin-adventures.json) |
 | Vulpine | 82477 | [82477-vulpine.json](./82477-vulpine.json) |
 | Vulpis | 253501 | [253501-vulpis.json](./253501-vulpis.json) |
 | Vulto | 168622 | [168622-vulto.json](./168622-vulto.json) |
