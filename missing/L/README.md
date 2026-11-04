@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.E.M. | 269166 | [269166-l-e-m.json](./269166-l-e-m.json) |
 | L.F.O. -Lost Future Omega- | 30207 | [30207-l-f-o-lost-future-omega.json](./30207-l-f-o-lost-future-omega.json) |
 | L.G.S.: Shinsetsu Houshin Engi | 64164 | [64164-l-g-s-shinsetsu-houshin-engi.json](./64164-l-g-s-shinsetsu-houshin-engi.json) |
+| L.I.A.C.F.F Tale of the Cursed Chain | 325210 | [325210-l-i-a-c-f-f-tale-of-the-cursed-chain.json](./325210-l-i-a-c-f-f-tale-of-the-cursed-chain.json) |
 | L.I.F.E. Simulator | 329983 | [329983-l-i-f-e-simulator.json](./329983-l-i-f-e-simulator.json) |
 | L.O.C.K. | 144364 | [144364-l-o-c-k.json](./144364-l-o-c-k.json) |
 | L.O.L. Surprise Ball Pop | 89778 | [89778-l-o-l-surprise-ball-pop.json](./89778-l-o-l-surprise-ball-pop.json) |
