@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallisticNG: Neon Nights | 241238 | [241238-ballisticng-neon-nights.json](./241238-ballisticng-neon-nights.json) |
 | BallisticNG: Outer Reaches | 167304 | [167304-ballisticng-outer-reaches.json](./167304-ballisticng-outer-reaches.json) |
 | Ballistik | 339613 | [339613-ballistik.json](./339613-ballistik.json) |
+| Ballistik Wars | 343577 | [343577-ballistik-wars.json](./343577-ballistik-wars.json) |
 | Ballloon Gentleman | 60909 | [60909-ballloon-gentleman.json](./60909-ballloon-gentleman.json) |
 | Ballmaster | 336942 | [336942-ballmaster.json](./336942-ballmaster.json) |
 | Balloball: Ribbit & Rescue | 388214 | [388214-balloball-ribbit-and-rescue.json](./388214-balloball-ribbit-and-rescue.json) |
