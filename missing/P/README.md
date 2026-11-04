@@ -10134,6 +10134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo Postman | 183463 | [183463-pogo-postman.json](./183463-pogo-postman.json) |
 | Pogo Quest | 391093 | [391093-pogo-quest.json](./391093-pogo-quest.json) |
 | Pogo Rage: The Awakening | 220649 | [220649-pogo-rage-the-awakening.json](./220649-pogo-rage-the-awakening.json) |
+| Pogo Stadium | 348525 | [348525-pogo-stadium.json](./348525-pogo-stadium.json) |
 | Pogo Stick Champion | 305567 | [305567-pogo-stick-champion.json](./305567-pogo-stick-champion.json) |
 | Pogo Stick: Ultimate Challenge | 342918 | [342918-pogo-stick-ultimate-challenge.json](./342918-pogo-stick-ultimate-challenge.json) |
 | Pogo Sticker | 94584 | [94584-pogo-sticker.json](./94584-pogo-sticker.json) |
@@ -13620,6 +13621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Price for Freedom: Gold and Sand | 295345 | [295345-price-for-freedom-gold-and-sand.json](./295345-price-for-freedom-gold-and-sand.json) |
 | Price of a Life | 358991 | [358991-price-of-a-life.json](./358991-price-of-a-life.json) |
 | Price of Flight | 271597 | [271597-price-of-flight.json](./271597-price-of-flight.json) |
+| Price of Knowledge | 348538 | [348538-price-of-knowledge.json](./348538-price-of-knowledge.json) |
 | Price of Obsession | 372503 | [372503-price-of-obsession.json](./372503-price-of-obsession.json) |
 | Price of Power | 291069 | [291069-price-of-power.json](./291069-price-of-power.json) |
 | Price of Resurrection | 212700 | [212700-price-of-resurrection.json](./212700-price-of-resurrection.json) |
