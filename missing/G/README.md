@@ -11079,8 +11079,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyakuten Saiban Jiten | 76243 | [76243-gyakuten-saiban-jiten.json](./76243-gyakuten-saiban-jiten.json) |
 | Gyakuten Saiban Poker | 256342 | [256342-gyakuten-saiban-poker.json](./256342-gyakuten-saiban-poker.json) |
 | Gyakuten Saiban: VR20-gou Jiken | 303291 | [303291-gyakuten-saiban-vr20-gou-jiken.json](./303291-gyakuten-saiban-vr20-gou-jiken.json) |
+| Gyakuten Touhou | 300038 | [300038-gyakuten-touhou.json](./300038-gyakuten-touhou.json) |
 | Gyakuten Touhou 2 | 178365 | [178365-gyakuten-touhou-2.json](./178365-gyakuten-touhou-2.json) |
+| Gyakuten Touhou 3 | 300039 | [300039-gyakuten-touhou-3.json](./300039-gyakuten-touhou-3.json) |
 | Gyakuten Touhou Gaiden | 231784 | [231784-gyakuten-touhou-gaiden.json](./231784-gyakuten-touhou-gaiden.json) |
+| Gyakuten Touhou: Zoukan Gou | 300041 | [300041-gyakuten-touhou-zoukan-gou.json](./300041-gyakuten-touhou-zoukan-gou.json) |
+| Gyakuten Touhousai | 300042 | [300042-gyakuten-touhousai.json](./300042-gyakuten-touhousai.json) |
 | Gyakuten Vocaloid | 296162 | [296162-gyakuten-vocaloid.json](./296162-gyakuten-vocaloid.json) |
 | Gyakuten!! Puzzle Ban-Chou | 138019 | [138019-gyakuten-puzzle-ban-chou.json](./138019-gyakuten-puzzle-ban-chou.json) |
 | Gyaru Fiction | 401569 | [401569-gyaru-fiction.json](./401569-gyaru-fiction.json) |
