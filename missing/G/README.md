@@ -8563,6 +8563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedling: 2D Boss Rush | 409409 | [409409-greedling-2d-boss-rush.json](./409409-greedling-2d-boss-rush.json) |
 | Greedventory | 204507 | [204507-greedventory.json](./204507-greedventory.json) |
 | Greedy | 178858 | [178858-greedy.json](./178858-greedy.json) |
+| Greedy Bee | 310325 | [310325-greedy-bee.json](./310325-greedy-bee.json) |
 | Greedy Bubble | 152580 | [152580-greedy-bubble.json](./152580-greedy-bubble.json) |
 | Greedy Chicken | 264171 | [264171-greedy-chicken.json](./264171-greedy-chicken.json) |
 | Greedy Crush | 113171 | [113171-greedy-crush.json](./113171-greedy-crush.json) |
@@ -9632,6 +9633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growing Up | 155796 | [155796-growing-up.json](./155796-growing-up.json) |
 | Growing Up | 376045 | [376045-growing-up.json](./376045-growing-up.json) |
 | Growing Wild | 356751 | [356751-growing-wild.json](./356751-growing-wild.json) |
+| Growl | 310353 | [310353-growl.json](./310353-growl.json) |
 | Growl | 6813 | [6813-growl.json](./6813-growl.json) |
 | Growlanser | 21309 | [21309-growlanser.json](./21309-growlanser.json) |
 | Growlanser Collection | 72430 | [72430-growlanser-collection.json](./72430-growlanser-collection.json) |
