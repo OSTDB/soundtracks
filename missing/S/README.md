@@ -9979,6 +9979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Harbor | 236748 | [236748-silent-harbor.json](./236748-silent-harbor.json) |
 | Silent Harmony | 394479 | [394479-silent-harmony.json](./394479-silent-harmony.json) |
 | Silent Hill | 349441 | [349441-silent-hill.json](./349441-silent-hill.json) |
+| Silent Hill 2: Born From A Wish Demake | 342983 | [342983-silent-hill-2-born-from-a-wish-demake.json](./342983-silent-hill-2-born-from-a-wish-demake.json) |
 | Silent Hill 2: Deluxe Edition | 303813 | [303813-silent-hill-2-deluxe-edition.json](./303813-silent-hill-2-deluxe-edition.json) |
 | Silent Hill 2: Enhanced Edition | 222334 | [222334-silent-hill-2-enhanced-edition.json](./222334-silent-hill-2-enhanced-edition.json) |
 | Silent Hill 2: Restless Dreams | 22066 | [22066-silent-hill-2-restless-dreams.json](./22066-silent-hill-2-restless-dreams.json) |
@@ -10112,6 +10113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Water | 397415 | [397415-silent-water.json](./397415-silent-water.json) |
 | Silent Weapons for Quiet Wars | 285959 | [285959-silent-weapons-for-quiet-wars.json](./285959-silent-weapons-for-quiet-wars.json) |
 | Silent Whisper | 337125 | [337125-silent-whisper.json](./337125-silent-whisper.json) |
+| Silent Woods | 343019 | [343019-silent-woods.json](./343019-silent-woods.json) |
 | Silent Woods: the Cleansed | 150626 | [150626-silent-woods-the-cleansed.json](./150626-silent-woods-the-cleansed.json) |
 | Silent World | 202481 | [202481-silent-world.json](./202481-silent-world.json) |
 | Silent Wounds - The Doll | 414540 | [414540-silent-wounds-the-doll.json](./414540-silent-wounds-the-doll.json) |
@@ -18367,6 +18369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Attack | 66909 | [66909-space-attack.json](./66909-space-attack.json) |
 | Space Avenger: Empire of Nexx | 133185 | [133185-space-avenger-empire-of-nexx.json](./133185-space-avenger-empire-of-nexx.json) |
 | Space Avengers | 161569 | [161569-space-avengers.json](./161569-space-avengers.json) |
+| Space Baby | 343005 | [343005-space-baby.json](./343005-space-baby.json) |
 | Space Badminton VR | 29853 | [29853-space-badminton-vr.json](./29853-space-badminton-vr.json) |
 | Space Ball | 86751 | [86751-space-ball.json](./86751-space-ball.json) |
 | Space Ball Rolling | 98720 | [98720-space-ball-rolling.json](./98720-space-ball-rolling.json) |
@@ -18792,6 +18795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -25445,6 +25449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Step Into the Dark | 400365 | [400365-step-into-the-dark.json](./400365-step-into-the-dark.json) |
 | Step Journey | 215711 | [215711-step-journey.json](./215711-step-journey.json) |
 | Step Jun: Koi no Dai Pinch | 385575 | [385575-step-jun-koi-no-dai-pinch.json](./385575-step-jun-koi-no-dai-pinch.json) |
+| Step On It! | 343001 | [343001-step-on-it.json](./343001-step-on-it.json) |
 | Step Quest | 240671 | [240671-step-quest.json](./240671-step-quest.json) |
 | Step Right Up: Adventure Isle | 310654 | [310654-step-right-up-adventure-isle.json](./310654-step-right-up-adventure-isle.json) |
 | Step Theater | 395007 | [395007-step-theater.json](./395007-step-theater.json) |
@@ -29984,6 +29989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ice Hockey | 38196 | [38196-super-ice-hockey.json](./38196-super-ice-hockey.json) |
 | Super Ick | 193502 | [193502-super-ick.json](./193502-super-ick.json) |
 | Super Idle Cats - Tap Farm | 106965 | [106965-super-idle-cats-tap-farm.json](./106965-super-idle-cats-tap-farm.json) |
+| Super II Sonik | 342990 | [342990-super-ii-sonik.json](./342990-super-ii-sonik.json) |
 | Super Ileheart Quest | 113435 | [113435-super-ileheart-quest.json](./113435-super-ileheart-quest.json) |
 | Super Impossible Road | 33503 | [33503-super-impossible-road.json](./33503-super-impossible-road.json) |
 | Super Impostor Bros. | 202379 | [202379-super-impostor-bros.json](./202379-super-impostor-bros.json) |
@@ -31358,6 +31364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen: Original Generation 2 | 6627 | [6627-super-robot-taisen-original-generation-2.json](./6627-super-robot-taisen-original-generation-2.json) |
 | Super Robot Taisen: Scramble Commander | 62710 | [62710-super-robot-taisen-scramble-commander.json](./62710-super-robot-taisen-scramble-commander.json) |
 | Super Robot Taisen: Scramble Commander the 2nd | 76970 | [76970-super-robot-taisen-scramble-commander-the-2nd.json](./76970-super-robot-taisen-scramble-commander-the-2nd.json) |
+| Super Robot War X | 342999 | [342999-super-robot-war-x.json](./342999-super-robot-war-x.json) |
 | Super Robot Wars 30 | 152371 | [152371-super-robot-wars-30.json](./152371-super-robot-wars-30.json) |
 | Super Robot Wars 30: Limited Edition | 155096 | [155096-super-robot-wars-30-limited-edition.json](./155096-super-robot-wars-30-limited-edition.json) |
 | Super Robot Wars BX | 79337 | [79337-super-robot-wars-bx.json](./79337-super-robot-wars-bx.json) |
