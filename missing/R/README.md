@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raggie Run | 202130 | [202130-raggie-run.json](./202130-raggie-run.json) |
 | Raging Ball | 157511 | [157511-raging-ball.json](./157511-raging-ball.json) |
 | Raging Ball | 416962 | [416962-raging-ball.json](./416962-raging-ball.json) |
+| Raging Bill | 342993 | [342993-raging-bill.json](./342993-raging-bill.json) |
 | Raging Blades | 43324 | [43324-raging-blades.json](./43324-raging-blades.json) |
 | Raging Blasters | 142659 | [142659-raging-blasters.json](./142659-raging-blasters.json) |
 | Raging Blitz | 269152 | [269152-raging-blitz.json](./269152-raging-blitz.json) |
@@ -3718,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dog: Superior Firepower | 45835 | [45835-red-dog-superior-firepower.json](./45835-red-dog-superior-firepower.json) |
 | Red Door Ylw Door | 308556 | [308556-red-door-ylw-door.json](./308556-red-door-ylw-door.json) |
 | Red Dot: Front Line | 227166 | [227166-red-dot-front-line.json](./227166-red-dot-front-line.json) |
+| Red Dove | 343155 | [343155-red-dove.json](./343155-red-dove.json) |
 | Red Dragon Rampage | 178366 | [178366-red-dragon-rampage.json](./178366-red-dragon-rampage.json) |
 | Red Dreams | 418538 | [418538-red-dreams.json](./418538-red-dreams.json) |
 | Red Dungeon | 149806 | [149806-red-dungeon.json](./149806-red-dungeon.json) |
@@ -4277,6 +4279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflection of a Fallen Feather | 29444 | [29444-reflection-of-a-fallen-feather.json](./29444-reflection-of-a-fallen-feather.json) |
 | Reflection of Loneliness | 184576 | [184576-reflection-of-loneliness.json](./184576-reflection-of-loneliness.json) |
 | Reflection of Mine | 27544 | [27544-reflection-of-mine.json](./27544-reflection-of-mine.json) |
+| Reflection of Sin | 343016 | [343016-reflection-of-sin.json](./343016-reflection-of-sin.json) |
 | Reflection Pool Cleaner Simulator | 408258 | [408258-reflection-pool-cleaner-simulator.json](./408258-reflection-pool-cleaner-simulator.json) |
 | Reflection Seeker | 319954 | [319954-reflection-seeker.json](./319954-reflection-seeker.json) |
 | Reflection Witch | 272257 | [272257-reflection-witch.json](./272257-reflection-witch.json) |
@@ -4303,6 +4306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflections of Life: The Shattered Timeline - Collector's Edition | 307752 | [307752-reflections-of-life-the-shattered-timeline-collectors-edition.json](./307752-reflections-of-life-the-shattered-timeline-collectors-edition.json) |
 | Reflections of Life: Tree of Dreams - Collector's Edition | 107703 | [107703-reflections-of-life-tree-of-dreams-collectors-edition.json](./107703-reflections-of-life-tree-of-dreams-collectors-edition.json) |
 | Reflections of Life: Utopia - Collector's Edition | 132632 | [132632-reflections-of-life-utopia-collectors-edition.json](./132632-reflections-of-life-utopia-collectors-edition.json) |
+| Reflections of the Void | 343148 | [343148-reflections-of-the-void.json](./343148-reflections-of-the-void.json) |
 | Reflections on the River | 124681 | [124681-reflections-on-the-river.json](./124681-reflections-on-the-river.json) |
 | Reflections Path | 211951 | [211951-reflections-path.json](./211951-reflections-path.json) |
 | Reflections: Dreams and Reality | 115625 | [115625-reflections-dreams-and-reality.json](./115625-reflections-dreams-and-reality.json) |
@@ -7766,6 +7770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk of Rain 2 + Survivors of the Void | 201040 | [201040-risk-of-rain-2-survivors-of-the-void.json](./201040-risk-of-rain-2-survivors-of-the-void.json) |
 | Risk of Rain 2 + Survivors of the Void + Seekers of the Storm Bundle | 317682 | [317682-risk-of-rain-2-survivors-of-the-void-seekers-of-the-storm-bundle.json](./317682-risk-of-rain-2-survivors-of-the-void-seekers-of-the-storm-bundle.json) |
 | Risk of Rain 2: Aetherium | 310531 | [310531-risk-of-rain-2-aetherium.json](./310531-risk-of-rain-2-aetherium.json) |
+| Risk of Rain 2: Alloyed Collective | 343014 | [343014-risk-of-rain-2-alloyed-collective.json](./343014-risk-of-rain-2-alloyed-collective.json) |
 | Risk of Rain 2: Devotion Update | 306700 | [306700-risk-of-rain-2-devotion-update.json](./306700-risk-of-rain-2-devotion-update.json) |
 | Risk of Rain 2: Hallowed Concepts | 397819 | [397819-risk-of-rain-2-hallowed-concepts.json](./397819-risk-of-rain-2-hallowed-concepts.json) |
 | Risk of Rain 2: Seekers of the Storm | 276287 | [276287-risk-of-rain-2-seekers-of-the-storm.json](./276287-risk-of-rain-2-seekers-of-the-storm.json) |
@@ -7781,6 +7786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk One's Neck | 109454 | [109454-risk-ones-neck.json](./109454-risk-ones-neck.json) |
 | Risk Ranch | 259695 | [259695-risk-ranch.json](./259695-risk-ranch.json) |
 | Risk System | 117781 | [117781-risk-system.json](./117781-risk-system.json) |
+| Risk the Dark | 343149 | [343149-risk-the-dark.json](./343149-risk-the-dark.json) |
 | Risk your life to get your dinner back Nyanzou action game | 231070 | [231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json](./231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json) |
 | Risk: Factions | 3693 | [3693-risk-factions.json](./3693-risk-factions.json) |
 | Risk: Global Domination | 121346 | [121346-risk-global-domination.json](./121346-risk-global-domination.json) |
@@ -8936,6 +8942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock God Tycoon | 27336 | [27336-rock-god-tycoon.json](./27336-rock-god-tycoon.json) |
 | Rock Gods Tap Tour | 58140 | [58140-rock-gods-tap-tour.json](./58140-rock-gods-tap-tour.json) |
 | Rock Gunner | 356621 | [356621-rock-gunner.json](./356621-rock-gunner.json) |
+| Rock Hero EXE 5 | 343008 | [343008-rock-hero-exe-5.json](./343008-rock-hero-exe-5.json) |
 | Rock Hoppers | 210119 | [210119-rock-hoppers.json](./210119-rock-hoppers.json) |
 | Rock in Code | 104142 | [104142-rock-in-code.json](./104142-rock-in-code.json) |
 | Rock Island | 334317 | [334317-rock-island.json](./334317-rock-island.json) |
@@ -10517,6 +10524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Football: Sun Shrine | 387491 | [387491-room-football-sun-shrine.json](./387491-room-football-sun-shrine.json) |
 | Room Football: Wetlands | 339282 | [339282-room-football-wetlands.json](./339282-room-football-wetlands.json) |
 | Room For One! | 367478 | [367478-room-for-one.json](./367478-room-for-one.json) |
+| Room Girl Paradise | 343154 | [343154-room-girl-paradise.json](./343154-room-girl-paradise.json) |
 | Room Map | 254937 | [254937-room-map.json](./254937-room-map.json) |
 | Room No. 9 | 156575 | [156575-room-no-9.json](./156575-room-no-9.json) |
 | Room of 1000 Snakes | 62436 | [62436-room-of-1000-snakes.json](./62436-room-of-1000-snakes.json) |
