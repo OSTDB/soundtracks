@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fables of the Kingdom V: Collector's Edition | 337250 | [337250-fables-of-the-kingdom-v-collectors-edition.json](./337250-fables-of-the-kingdom-v-collectors-edition.json) |
 | Fablewood Chronicles | 413112 | [413112-fablewood-chronicles.json](./413112-fablewood-chronicles.json) |
 | Fabric of Reality | 219767 | [219767-fabric-of-reality.json](./219767-fabric-of-reality.json) |
+| Fabrika Mortis | 313373 | [313373-fabrika-mortis.json](./313373-fabrika-mortis.json) |
 | FabStyle | 185897 | [185897-fabstyle.json](./185897-fabstyle.json) |
 | Fabula Mortis | 17792 | [17792-fabula-mortis.json](./17792-fabula-mortis.json) |
 | Fabular: Once upon a Spacetime | 116429 | [116429-fabular-once-upon-a-spacetime.json](./116429-fabular-once-upon-a-spacetime.json) |
