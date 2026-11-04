@@ -5708,6 +5708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winner's Circle: Rusty Wallace | 217720 | [217720-winners-circle-rusty-wallace.json](./217720-winners-circle-rusty-wallace.json) |
 | Winner's Soccer Evolution | 233045 | [233045-winners-soccer-evolution.json](./233045-winners-soccer-evolution.json) |
 | Winners and Losers | 179466 | [179466-winners-and-losers.json](./179466-winners-and-losers.json) |
+| Winners Circle | 308128 | [308128-winners-circle.json](./308128-winners-circle.json) |
 | Winners Don't Do Drugs | 327764 | [327764-winners-dont-do-drugs.json](./327764-winners-dont-do-drugs.json) |
 | Winnie the Bear | 326698 | [326698-winnie-the-bear.json](./326698-winnie-the-bear.json) |
 | Winnie the Pooh and Tigger Too | 70250 | [70250-winnie-the-pooh-and-tigger-too.json](./70250-winnie-the-pooh-and-tigger-too.json) |
@@ -7714,6 +7715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Court Tennis | 37732 | [37732-world-court-tennis.json](./37732-world-court-tennis.json) |
 | World Craft Epic Dream Island | 86953 | [86953-world-craft-epic-dream-island.json](./86953-world-craft-epic-dream-island.json) |
 | World Craft HD | 89105 | [89105-world-craft-hd.json](./89105-world-craft-hd.json) |
+| World Crafter TD | 308096 | [308096-world-crafter-td.json](./308096-world-crafter-td.json) |
 | World Cricket Championship | 167019 | [167019-world-cricket-championship.json](./167019-world-cricket-championship.json) |
 | World Cricket Championship 2 | 165526 | [165526-world-cricket-championship-2.json](./165526-world-cricket-championship-2.json) |
 | World Cricket Championship 3 | 165559 | [165559-world-cricket-championship-3.json](./165559-world-cricket-championship-3.json) |
