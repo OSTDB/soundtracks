@@ -6476,6 +6476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Hunt | 374077 | [374077-shadow-hunt.json](./374077-shadow-hunt.json) |
 | Shadow Hunter | 35386 | [35386-shadow-hunter.json](./35386-shadow-hunter.json) |
 | Shadow Hunter: Lost Worlds | 188365 | [188365-shadow-hunter-lost-worlds.json](./188365-shadow-hunter-lost-worlds.json) |
+| Shadow Hush | 303204 | [303204-shadow-hush.json](./303204-shadow-hush.json) |
 | Shadow Island | 239335 | [239335-shadow-island.json](./239335-shadow-island.json) |
 | Shadow Jump | 219603 | [219603-shadow-jump.json](./219603-shadow-jump.json) |
 | Shadow Keep | 171244 | [171244-shadow-keep.json](./171244-shadow-keep.json) |
@@ -19047,6 +19048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -29543,6 +29545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super ACiD Block Attack | 82459 | [82459-super-acid-block-attack.json](./82459-super-acid-block-attack.json) |
 | Super Action Baseball | 40909 | [40909-super-action-baseball.json](./40909-super-action-baseball.json) |
 | Super Action Football | 40908 | [40908-super-action-football.json](./40908-super-action-football.json) |
+| Super Action Hero | 303129 | [303129-super-action-hero.json](./303129-super-action-hero.json) |
 | Super Action Pak | 56452 | [56452-super-action-pak.json](./56452-super-action-pak.json) |
 | Super Action Soccer | 40907 | [40907-super-action-soccer.json](./40907-super-action-soccer.json) |
 | Super Adventure | 295492 | [295492-super-adventure.json](./295492-super-adventure.json) |
@@ -33078,6 +33081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surgical Strike | 298295 | [298295-surgical-strike.json](./298295-surgical-strike.json) |
 | Surgineer | 223145 | [223145-surgineer.json](./223145-surgineer.json) |
 | Surging Blood | 386891 | [386891-surging-blood.json](./386891-surging-blood.json) |
+| Surgit | 302889 | [302889-surgit.json](./302889-surgit.json) |
 | Suri: The Seventh Note | 333871 | [333871-suri-the-seventh-note.json](./333871-suri-the-seventh-note.json) |
 | Surmount | 126352 | [126352-surmount.json](./126352-surmount.json) |
 | Suroi | 288251 | [288251-suroi.json](./288251-suroi.json) |
@@ -33421,6 +33425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Ultimate | 73343 | [73343-survivor-ultimate.json](./73343-survivor-ultimate.json) |
 | Survivor VR | 44266 | [44266-survivor-vr.json](./44266-survivor-vr.json) |
 | Survivor Warrior-Vampire.io | 245342 | [245342-survivor-warrior-vampire-io.json](./245342-survivor-warrior-vampire-io.json) |
+| Survivor World | 302875 | [302875-survivor-world.json](./302875-survivor-world.json) |
 | Survivor: Castaway Island | 258309 | [258309-survivor-castaway-island.json](./258309-survivor-castaway-island.json) |
 | Survivor: Day One | 62737 | [62737-survivor-day-one.json](./62737-survivor-day-one.json) |
 | Survivor: Gunfire | 406148 | [406148-survivor-gunfire.json](./406148-survivor-gunfire.json) |
