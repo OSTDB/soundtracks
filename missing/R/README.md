@@ -8770,6 +8770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Wants Kitty | 142202 | [142202-robot-wants-kitty.json](./142202-robot-wants-kitty.json) |
 | Robot Wants Kitty | 142204 | [142204-robot-wants-kitty.json](./142204-robot-wants-kitty.json) |
 | Robot Wants Puppy | 142205 | [142205-robot-wants-puppy.json](./142205-robot-wants-puppy.json) |
+| Robot War Mars Invasion | 338482 | [338482-robot-war-mars-invasion.json](./338482-robot-war-mars-invasion.json) |
 | Robot Warfare | 109205 | [109205-robot-warfare.json](./109205-robot-warfare.json) |
 | Robot Warlords | 72937 | [72937-robot-warlords.json](./72937-robot-warlords.json) |
 | Robot Wars | 86212 | [86212-robot-wars.json](./86212-robot-wars.json) |
