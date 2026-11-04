@@ -1575,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballerina: Haitoku no Kurumi Wari Ningyou | 82586 | [82586-ballerina-haitoku-no-kurumi-wari-ningyou.json](./82586-ballerina-haitoku-no-kurumi-wari-ningyou.json) |
 | Ballermann: Hey Baby! | 346711 | [346711-ballermann-hey-baby.json](./346711-ballermann-hey-baby.json) |
 | Ballerspiel | 395290 | [395290-ballerspiel.json](./395290-ballerspiel.json) |
+| Ballest of Them All | 331604 | [331604-ballest-of-them-all.json](./331604-ballest-of-them-all.json) |
 | Ballet of Steel | 382817 | [382817-ballet-of-steel.json](./382817-ballet-of-steel.json) |
 | Ballet Parking | 314070 | [314070-ballet-parking.json](./314070-ballet-parking.json) |
 | Ballex | 120937 | [120937-ballex.json](./120937-ballex.json) |
@@ -13274,6 +13275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Castle | 211465 | [211465-bounce-castle.json](./211465-bounce-castle.json) |
 | Bounce Cat | 352747 | [352747-bounce-cat.json](./352747-bounce-cat.json) |
 | Bounce Classic | 211464 | [211464-bounce-classic.json](./211464-bounce-classic.json) |
+| Bounce Evolution | 331773 | [331773-bounce-evolution.json](./331773-bounce-evolution.json) |
 | Bounce Forever! | 91085 | [91085-bounce-forever.json](./91085-bounce-forever.json) |
 | Bounce Gun | 291375 | [291375-bounce-gun.json](./291375-bounce-gun.json) |
 | Bounce House | 262487 | [262487-bounce-house.json](./262487-bounce-house.json) |
