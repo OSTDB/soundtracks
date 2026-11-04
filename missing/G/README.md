@@ -2151,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates of Horizon | 36125 | [36125-gates-of-horizon.json](./36125-gates-of-horizon.json) |
 | Gates of Horn and Ivory | 108633 | [108633-gates-of-horn-and-ivory.json](./108633-gates-of-horn-and-ivory.json) |
 | Gates of Integrity | 182746 | [182746-gates-of-integrity.json](./182746-gates-of-integrity.json) |
+| Gates of Migad | 317166 | [317166-gates-of-migad.json](./317166-gates-of-migad.json) |
 | Gates of Mirnah | 148998 | [148998-gates-of-mirnah.json](./148998-gates-of-mirnah.json) |
 | Gates of Nowhere | 50892 | [50892-gates-of-nowhere.json](./50892-gates-of-nowhere.json) |
 | Gates of Olympus | 340293 | [340293-gates-of-olympus.json](./340293-gates-of-olympus.json) |
@@ -6159,6 +6160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold for Retirement | 348181 | [348181-gold-for-retirement.json](./348181-gold-for-retirement.json) |
 | Gold Games 3 | 161710 | [161710-gold-games-3.json](./161710-gold-games-3.json) |
 | Gold Girls | 284272 | [284272-gold-girls.json](./284272-gold-girls.json) |
+| Gold Gold Adventure Gold | 317162 | [317162-gold-gold-adventure-gold.json](./317162-gold-gold-adventure-gold.json) |
 | Gold Grabbing Goblin | 271627 | [271627-gold-grabbing-goblin.json](./271627-gold-grabbing-goblin.json) |
 | Gold Is Mine | 148842 | [148842-gold-is-mine.json](./148842-gold-is-mine.json) |
 | Gold Knight | 277269 | [277269-gold-knight.json](./277269-gold-knight.json) |
